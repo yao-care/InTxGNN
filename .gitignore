@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data files (large files, download separately)
+data/raw/*.csv
+data/raw/*.json
+data/*.csv
+data/node.csv
+data/kg.csv
+
+# Keep external vocabulary files
+!data/external/
+
+# News data (generated)
+data/news/google_rss.json
+data/news/matched_news.json
+
+# Processed data (generated)
+data/processed/
+
+# Jekyll
+docs/_site/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/Gemfile.lock
+
+# Secrets
+.env
+*.pem
+*.key
+credentials.json
+
+# Logs
+*.log
+logs/
+
+# Large files - exclude from git
+/data/*
+!/data/cache/
+/data/cache/*
+!/data/cache/.gitkeep
+!/data/news/
+!/data/processed/
+!/data/external/
+model_ckpt/
+.venv/
+
+# Large prediction files (>100MB) - must be excluded
+data/processed/txgnn_dl_predictions.csv
+data/processed/txgnn_checkpoint.csv
+data/complex_disease_42/

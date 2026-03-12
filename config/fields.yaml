@@ -1,0 +1,42 @@
+# India Drug Database field mapping
+# Data source: Indian Medicine Dataset (GitHub/Kaggle)
+
+# Basic settings
+country_code: "IN"
+language: "en"
+regulatory_agency: "India Pharma"
+
+# Field mapping
+# Map Indian medicine data fields to standard fields
+field_mapping:
+  license_id: "id"
+  brand_name_local: "name"
+  brand_name_en: "name"
+  ingredients: "short_composition1"
+  ingredients_secondary: "short_composition2"
+  indication: ""  # Not available in this dataset - will use composition for DrugBank mapping
+  dosage_form: "pack_size_label"
+  manufacturer: "manufacturer_name"
+  approval_date: ""
+  status: "Is_discontinued"
+  price: "price(₹)"
+  type: "type"
+
+# Withdrawn/invalid status values (boolean True in this dataset)
+withdrawn_statuses:
+  - true
+  - "TRUE"
+  - "True"
+  - "true"
+
+# Ingredient separator (composition format: "Drug (Dose)")
+ingredient_separator: "+"
+
+# Date format
+date_format: "%Y-%m-%d"
+
+# Encoding
+encoding: "utf-8"
+
+# Data format
+data_format: "csv"
