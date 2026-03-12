@@ -1,0 +1,734 @@
+{
+  "metadata": {
+    "source": "DDInter 2.0",
+    "url": "https://ddinter2.scbdd.com/",
+    "total_records": 857,
+    "license": "CC BY-NC-SA 4.0"
+  },
+  "interactions": {
+    "Paclitaxel": [
+      {
+        "food": "grapefruit juice",
+        "food_zh": "葡萄柚汁",
+        "severity": "Moderate",
+        "mechanism": "Metabolism",
+        "interaction": "Coadministration with inhibitors of CYP450 3A4, such as grapefruit juice, may increase the plasma concentrations of paclitaxel, which is a substrate of the isoenzyme",
+        "management": "Caution is recommended if paclitaxel is to be used in combination with grapefruit and grapefruit juice.  Patients should be closely monitored for the development of paclitaxel toxicity, including diarrhea, mucositis, myelosuppression, and peripheral neuropathy and dose adjustment considered per local treatment protocols.",
+        "references": "\"Product Information. Taxotere (docetaxel).\" Rhone Poulenc Rorer  (2001):|Aronson JK, Grahame-Smith DG \"Clinical pharmacology: adverse drug interactions.\" Br Med J 282 (1981):  288-91|McInnes GT, Brodie MJ \"Drug interactions that matter: a critical reappraisal.\" Drugs 36 (1988):  83-110|Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0|Yong WP, Wang LZ, Tham LS, et al. \"A phase I study of docetaxel with ketoconazole modulation in patients with advanced cancers.\" Cancer Chemother Pharmacol 62 (2008):  243-51|Cerner Multum, Inc. \"Australian Product Information.\" O 0|Engels FK, Mathot RA, Loos WJ, van Schaik RH, Verweij J \"Influence of high-dose ketoconazole on the pharmacokinetics of docetaxel.\" Cancer Biol Ther 5 (2006):  833-9|Valenzuela B, Rebollo J, Perez T, Brugarolas A, Perez-Ruixo JJ \"Effect of grapefruit juice on the pharmacokinetics of docetaxel in cancer patients: a case report.\" Br J Clin Pharmacol  (2011):|Starr SP, Hammann F, Gotta V, et al. \"Pharmacokinetic interaction between taxanes and amiodarone leading to severe toxicity.\" Br J Clin Pharmacol 450 (2016):  22-27"
+      }
+    ],
+    "Irbesartan": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially during initiation of therapy and dose escalation.  Coadministration with antihypertensives and other hypotensive agents, in particular vasodilators and alpha-blockers, may result in additive effects on blood pressure and orthostasis.",
+        "management": "Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihypertensive drugs.  Patients should be advised to avoid rising abruptly from a sitting or recumbent position and to notify their physician if they experience dizziness, lightheadedness, syncope, orthostasis, or tachycardia.",
+        "references": "Sternbach H \"Fluoxetine-associated potentiation of calcium-channel blockers.\" J Clin Psychopharmacol 11 (1991):  390-1|Shook TL, Kirshenbaum JM, Hundley RF, Shorey JM, Lamas GA \"Ethanol intoxication complicating intravenous nitroglycerin therapy.\" Ann Intern Med 101 (1984):  498-9|Feder R \"Bradycardia and syncope induced by fluoxetine.\" J Clin Psychiatry 52 (1991):  139|Ellison JM, Milofsky JE, Ely E \"Fluoxetine-induced bradycardia and syncope in two patients.\" J Clin Psychiatry 51 (1990):  385-6|Rodriguez de la Torre B, Dreher J, Malevany I, et al. \"Serum levels and cardiovascular effects of tricyclic antidepressants and selective serotonin reuptake inhibitors in depressed patients.\" Ther Drug Monit 23 (2001):  435-40|Cerner Multum, Inc. \"Australian Product Information.\" O 0|Pacher P, Kecskemeti V \"Cardiovascular side effects of new antidepressants and antipsychotics: new drugs, old concerns?\" Curr Pharm Des 10 (2004):  2463-75|Andrews C, Pinner G \"Postural hypotension induced by paroxetine.\" BMJ 316 (1998):  595"
+      },
+      {
+        "food": "Food High in Potassium",
+        "food_zh": "高鉀食物",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Moderate-to-high dietary intake of potassium, especially salt substitutes, may increase the risk of hyperkalemia in some patients who are using angiotensin II receptor blockers (ARBs).  ARBs can promote hyperkalemia through inhibition of angiotensin II-induced aldosterone secretion.  Patients with diabetes, heart failure, dehydration, or renal insufficiency have a greater risk of developing hyperkalemia.",
+        "management": "Patients should receive dietary counseling and be advised to not use potassium-containing salt substitutes or over-the-counter potassium supplements without consulting their physician.  If salt substitutes are used concurrently, regular monitoring of serum potassium levels is recommended.  Patients should also be advised to seek medical attention if they experience symptoms of hyperkalemia such as weakness, irregular heartbeat, confusion, tingling of the extremities, or feelings of heaviness in the legs.",
+        "references": "\"Product Information. Cozaar (losartan).\" Merck & Co., Inc  (2001):|\"Product Information. Diovan (valsartan).\" Novartis Pharmaceuticals  (2001):"
+      }
+    ],
+    "Scopolamine": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Use of anticholinergic agents with alcohol may result in sufficient impairment of attention so as to render driving and operating machinery more hazardous.  In addition, the potential for abuse may be increased with the combination.  The mechanism of interaction is not established but may involve additive depressant effects on the central nervous system.",
+        "management": "Alcohol should generally be avoided during therapy with anticholinergic agents.  Patients should be counseled to avoid activities requiring mental alertness until they know how these agents affect them.",
+        "references": "Linnoila M \"Drug effects on psychomotor skills related to driving: interaction of atropine, glycopyrrhonium and alcohol.\" Eur J Clin Pharmacol 6 (1973):  107-12"
+      },
+      {
+        "food": "food",
+        "food_zh": "食物",
+        "severity": "Major",
+        "mechanism": "Absorption",
+        "interaction": "The coadministration with grapefruit juice may delay the absorption and increase the bioavailability of oral scopolamine.  The proposed mechanism is delay of gastric emptying as well as inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall induced by certain compounds present in grapefruits.",
+        "management": "Based on these findings, grapefruit juice is unlikely to affect the overall safety of scopolamine, but may delay its onset of action after oral administration. Therefore, we recommend taking scopolamine at least 1-2 hours apart after drinking grapefruit juice.",
+        "references": "Ebert U, Oertel R, Kirch W \"Influence of grapefruit juice on scopolamine pharmacokinetics and pharmacodynamics in healthy male and female subjects.\" Int J Clin Pharm Therapeutics 38 (2000):  523-31"
+      }
+    ],
+    "Aluminum Hydroxide": [
+      {
+        "food": "citrus fruits",
+        "food_zh": "柑橘類水果",
+        "severity": "Minor",
+        "mechanism": "Absorption",
+        "interaction": "The concomitant administration of aluminum-containing products (e.g., antacids and phosphate binders) and citrates may significantly increase serum aluminum concentrations, resulting in toxicity.  Citrates or citric acid are contained in numerous soft drinks, citrus fruits, juices, and effervescent and dispersible drug formulations.  Citrates enhance the gastrointestinal absorption of aluminum by an unknown mechanism, which may involve the formation of a soluble aluminum-citrate complex.",
+        "management": "Some experts recommend that antacids should not be mixed with or given after high protein formulations, that the antacid dose should be separated from the feeding by as much as possible, and that the tube should be thoroughly flushed before administration.",
+        "references": "Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0|Wohlt PD, Zheng L, Gunderson S, Balzar SA, Johnson BD, Fish JT \"Recommendations for the use of medications with continuous enteral nutrition.\" Am J Health Syst Pharm 66 (2009):  1438-67"
+      },
+      {
+        "food": "soft drinks",
+        "food_zh": "汽水/碳酸飲料",
+        "severity": "Minor",
+        "mechanism": "Absorption",
+        "interaction": "The concomitant administration of aluminum-containing products (e.g., antacids and phosphate binders) and citrates may significantly increase serum aluminum concentrations, resulting in toxicity.  Citrates or citric acid are contained in numerous soft drinks, citrus fruits, juices, and effervescent and dispersible drug formulations.  Citrates enhance the gastrointestinal absorption of aluminum by an unknown mechanism, which may involve the formation of a soluble aluminum-citrate complex.",
+        "management": "Some experts recommend that antacids should not be mixed with or given after high protein formulations, that the antacid dose should be separated from the feeding by as much as possible, and that the tube should be thoroughly flushed before administration.",
+        "references": "Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0|Wohlt PD, Zheng L, Gunderson S, Balzar SA, Johnson BD, Fish JT \"Recommendations for the use of medications with continuous enteral nutrition.\" Am J Health Syst Pharm 66 (2009):  1438-67"
+      }
+    ],
+    "Oxybutynin": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Use of anticholinergic agents with alcohol may result in sufficient impairment of attention so as to render driving and operating machinery more hazardous.  In addition, the potential for abuse may be increased with the combination.  The mechanism of interaction is not established but may involve additive depressant effects on the central nervous system.  No effect of oral propantheline or atropine on blood alcohol levels was observed in healthy volunteers when administered before ingestion of a standard ethanol load.",
+        "management": "Alcohol should generally be avoided during therapy with anticholinergic agents.  Patients should be counseled to avoid activities requiring mental alertness until they know how these agents affect them.",
+        "references": "Linnoila M \"Drug effects on psychomotor skills related to driving: interaction of atropine, glycopyrrhonium and alcohol.\" Eur J Clin Pharmacol 6 (1973):  107-12"
+      }
+    ],
+    "Tolmetin": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "The concurrent use of aspirin or nonsteroidal anti-inflammatory drugs (NSAIDs) and ethanol may lead to gastrointestinal (GI) blood loss.  The mechanism may be due to a combined local effect as well as inhibition of prostaglandins leading to decreased integrity of the GI lining.",
+        "management": "Patients should be counseled on this potential interaction and advised to refrain from alcohol consumption while taking aspirin or NSAIDs.",
+        "references": "\"Product Information. Motrin (ibuprofen).\" Pharmacia and Upjohn  (2002):"
+      }
+    ],
+    "Acebutolol": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially during initiation of therapy and dose escalation.  Coadministration with antihypertensives and other hypotensive agents, in particular vasodilators and alpha-blockers, may result in additive effects on blood pressure and orthostasis.",
+        "management": "Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihypertensive drugs.  Patients should be advised to avoid rising abruptly from a sitting or recumbent position and to notify their physician if they experience dizziness, lightheadedness, syncope, orthostasis, or tachycardia.",
+        "references": "Sternbach H \"Fluoxetine-associated potentiation of calcium-channel blockers.\" J Clin Psychopharmacol 11 (1991):  390-1|Shook TL, Kirshenbaum JM, Hundley RF, Shorey JM, Lamas GA \"Ethanol intoxication complicating intravenous nitroglycerin therapy.\" Ann Intern Med 101 (1984):  498-9|Feder R \"Bradycardia and syncope induced by fluoxetine.\" J Clin Psychiatry 52 (1991):  139|Ellison JM, Milofsky JE, Ely E \"Fluoxetine-induced bradycardia and syncope in two patients.\" J Clin Psychiatry 51 (1990):  385-6|Rodriguez de la Torre B, Dreher J, Malevany I, et al. \"Serum levels and cardiovascular effects of tricyclic antidepressants and selective serotonin reuptake inhibitors in depressed patients.\" Ther Drug Monit 23 (2001):  435-40|Cerner Multum, Inc. \"Australian Product Information.\" O 0|Pacher P, Kecskemeti V \"Cardiovascular side effects of new antidepressants and antipsychotics: new drugs, old concerns?\" Curr Pharm Des 10 (2004):  2463-75|Andrews C, Pinner G \"Postural hypotension induced by paroxetine.\" BMJ 316 (1998):  595"
+      }
+    ],
+    "Levamisole": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Metabolism",
+        "interaction": "Case histories have suggested that levamisole is associated with some side effects (including headache, fever, shivers, and dizziness) that suggest an disulfiram-like interaction with alcohol.  These side effects could be alleviated by total abstinence from alcohol.  No mechanism has been established for this interaction.",
+        "management": "Patients receiving levamisole should avoid alcohol.",
+        "references": "\"Product Information. Ergamisol (levamisole).\" Janssen Pharmaceuticals  (2001):|Renoux G \"The general immunopharmacology of levamisole.\" Drugs 19 (1980):  89-99|Renoux G \"Modulation of immunity by levamisole.\" Pharmacol Ther [B] 2 (1978):  397-422"
+      }
+    ],
+    "Nebivolol": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially during initiation of therapy and dose escalation.  Coadministration with antihypertensives and other hypotensive agents, in particular vasodilators and alpha-blockers, may result in additive effects on blood pressure and orthostasis.",
+        "management": "Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihypertensive drugs.  Patients should be advised to avoid rising abruptly from a sitting or recumbent position and to notify their physician if they experience dizziness, lightheadedness, syncope, orthostasis, or tachycardia.",
+        "references": "Sternbach H \"Fluoxetine-associated potentiation of calcium-channel blockers.\" J Clin Psychopharmacol 11 (1991):  390-1|Shook TL, Kirshenbaum JM, Hundley RF, Shorey JM, Lamas GA \"Ethanol intoxication complicating intravenous nitroglycerin therapy.\" Ann Intern Med 101 (1984):  498-9|Feder R \"Bradycardia and syncope induced by fluoxetine.\" J Clin Psychiatry 52 (1991):  139|Ellison JM, Milofsky JE, Ely E \"Fluoxetine-induced bradycardia and syncope in two patients.\" J Clin Psychiatry 51 (1990):  385-6|Rodriguez de la Torre B, Dreher J, Malevany I, et al. \"Serum levels and cardiovascular effects of tricyclic antidepressants and selective serotonin reuptake inhibitors in depressed patients.\" Ther Drug Monit 23 (2001):  435-40|Cerner Multum, Inc. \"Australian Product Information.\" O 0|Pacher P, Kecskemeti V \"Cardiovascular side effects of new antidepressants and antipsychotics: new drugs, old concerns?\" Curr Pharm Des 10 (2004):  2463-75|Andrews C, Pinner G \"Postural hypotension induced by paroxetine.\" BMJ 316 (1998):  595"
+      }
+    ],
+    "Remdesivir": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Concomitant use of remdesivir with other agents that are known to induce hepatotoxicity may theoretically increase the risk of liver injury.  Data from investigational use and clinical studies suggest that remdesivir may be associated with hepatotoxic effects.",
+        "management": "Until more information is available, concomitant use of remdesivir with known hepatotoxic drugs should be avoided when possible.  Liver function should be evaluated prior to starting remdesivir and monitored during treatment as clinically appropriate.  Remdesivir should not be initiated in patients with ALT greater than or equal to 5 times the upper limit of normal (ULN) at baseline.  Likewise, remdesivir should be discontinued immediately if ALT increases to 5 times ULN or greater during treatment (may be restarted when ALT falls below 5 times ULN), or if ALT elevation is accompanied by signs or symptoms of liver inflammation or increasing conjugated bilirubin, alkaline phosphatase, or INR.",
+        "references": "Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0|Cerner Multum, Inc. \"Australian Product Information.\" O 0|Gilead Sciences, Inc \"About Remdesivir.  https://www.gilead.com/purpose/advancing-global-health/covid-19/about-remdesivir\"   (2020):|European Medicines Agency \"Summary on compassionate use. Remdesivir Gilead.  https://www.ema.europa.eu/en/documents/other/summary-compassionate-use-remdesivir-gilead_en.pdf\"   (2020):|US Food and Drug Administration \"Fact sheet for health care providers emergency use authorization (EUA) of remdesivir (GS-5734TM)  https://www.fda.gov/media/137566/download\"   (2020):"
+      }
+    ],
+    "Benazepril": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially during initiation of therapy and dose escalation.  Coadministration with antihypertensives and other hypotensive agents, in particular vasodilators and alpha-blockers, may result in additive effects on blood pressure and orthostasis.",
+        "management": "Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihypertensive drugs.  Patients should be advised to avoid rising abruptly from a sitting or recumbent position and to notify their physician if they experience dizziness, lightheadedness, syncope, orthostasis, or tachycardia.",
+        "references": "Sternbach H \"Fluoxetine-associated potentiation of calcium-channel blockers.\" J Clin Psychopharmacol 11 (1991):  390-1|Shook TL, Kirshenbaum JM, Hundley RF, Shorey JM, Lamas GA \"Ethanol intoxication complicating intravenous nitroglycerin therapy.\" Ann Intern Med 101 (1984):  498-9|Feder R \"Bradycardia and syncope induced by fluoxetine.\" J Clin Psychiatry 52 (1991):  139|Ellison JM, Milofsky JE, Ely E \"Fluoxetine-induced bradycardia and syncope in two patients.\" J Clin Psychiatry 51 (1990):  385-6|Rodriguez de la Torre B, Dreher J, Malevany I, et al. \"Serum levels and cardiovascular effects of tricyclic antidepressants and selective serotonin reuptake inhibitors in depressed patients.\" Ther Drug Monit 23 (2001):  435-40|Cerner Multum, Inc. \"Australian Product Information.\" O 0|Pacher P, Kecskemeti V \"Cardiovascular side effects of new antidepressants and antipsychotics: new drugs, old concerns?\" Curr Pharm Des 10 (2004):  2463-75|Andrews C, Pinner G \"Postural hypotension induced by paroxetine.\" BMJ 316 (1998):  595"
+      },
+      {
+        "food": "Food High in Potassium",
+        "food_zh": "高鉀食物",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Moderate-to-high dietary intake of potassium can cause hyperkalemia in some patients who are using angiotensin converting enzyme (ACE) inhibitors.  In some cases, affected patients were using a potassium-rich salt substitute.  ACE inhibitors can promote hyperkalemia through inhibition of the renin-aldosterone-angiotensin (RAA) system.",
+        "management": "It is recommended that patients who are taking ACE inhibitors be advised to avoid moderately high or high potassium dietary intake.  Particular attention should be paid to the potassium content of salt substitutes.",
+        "references": "\"Product Information. Vasotec (enalapril).\" Merck & Co., Inc  (2002):|Good CB, McDermott L \"Diet and serum potassium in patients on ACE inhibitors.\" JAMA 274 (1995):  538|Ray K, Dorman S, Watson R \"Severe hyperkalaemia due to the concomitant use of salt substitutes and ACE inhibitors in hypertension: a potentially life threatening interaction.\" J Hum Hypertens 13 (1999):  717-20"
+      }
+    ],
+    "Warfarin": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Enhanced hypoprothrombinemic response to warfarin has been reported in patients with acute alcohol intoxication and/or liver disease.  The proposed mechanisms are inhibition of warfarin metabolism and decreased synthesis of clotting factors.  Binge drinking may exacerbate liver impairment and its metabolic ability in patients with liver dysfunction.",
+        "management": "Patients taking oral anticoagulants should be counseled to avoid large amounts of ethanol, but moderate consumption (one to two drinks per day) are not likely to affect the response to the anticoagulant in patients with normal liver function.  Frequent INR/PT monitoring is recommended, especially if alcohol intake changes considerably.  It may be advisable to avoid oral anticoagulant therapy in patients with uncontrollable drinking problems.  Patients should be advised to promptly report any signs of bleeding to their doctor, including pain, swelling, headache, dizziness, weakness, prolonged bleeding from cuts, increased menstrual flow, nosebleeds, bleeding of gums from brushing, unusual bleeding or bruising, red or brown urine, or red or black stools.",
+        "references": "Breckenridge A \"Clinical implications of enzyme induction.\" Basic Life Sci 6 (1975):  273-301|Karlson B, Leijd B, Hellstrom K \"On the influence of vitamin K-rich vegetables and wine on the effectiveness of warfarin treatment.\" Acta Med Scand 220 (1986):  347-50|Udall JA \"Drug interference with warfarin therapy.\" Clin Med 77 (1970):  20-5|\"Product Information. Coumadin (warfarin).\" DuPont Pharmaceuticals  (2001):|Havrda DE, Mai T, Chonlahan J \"Enhanced antithrombotic effect of warfarin associated with low-dose alcohol consumption.\" Pharmacotherapy 25 (2005):  303-7|Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0|Canadian Pharmacists Association \"e-CPS.  http://www.pharmacists.ca/function/Subscriptions/ecps.cfm?link=eCPS_quikLink\"   (2006):|Pharmaceutical Society of Australia \"APPGuide online. Australian prescription products guide online.  http://www.appco.com.au/appguide/default.asp\"   (2006):"
+      },
+      {
+        "food": "food high in vitamin K",
+        "food_zh": "高維生素 K 食物",
+        "severity": "Moderate",
+        "mechanism": "Antagonism",
+        "interaction": "Vitamin K may antagonize the hypoprothrombinemic effect of oral anticoagulants.  Vitamin K is a cofactor in the synthesis of blood clotting factors that are inhibited by oral anticoagulants, thus intake of vitamin K through supplements or diet can reverse the action of oral anticoagulants.  Resistance to oral anticoagulants has been associated with consumption of foods or enteral feedings high in vitamin K content.  Likewise, a reduction of vitamin K intake following stabilization of anticoagulant therapy may result in elevation of the INR and bleeding complications.  Foods rich in vitamin K include beef liver, broccoli, Brussels sprouts, cabbage, collard greens, endive, kale, lettuce, mustard greens, parsley, soy beans, spinach, Swiss chard, turnip greens, watercress, and other green leafy vegetables.  Moderate to high levels of vitamin K are also found in other foods such as asparagus, avocados, dill pickles, green peas, green tea, canola oil, margarine, mayonnaise, olive oil, and soybean oil.  Snack foods containing the fat substitute, olestra, are fortified with 80 mcg of vitamin K per each one ounce serving so as to offset any depletion of vitamin K that may occur due to olestra interference with its absorption.  Whether these foods can alter the effect of oral anticoagulants has not been extensively studied.  One small study found that moderate consumption (1.5 servings/day) does not significantly affect the INR after one week in patients receiving long-term anticoagulation.",
+        "management": "Intake of vitamin K through supplements or diet should not vary significantly during oral anticoagulant therapy.  The diet in general should remain consistent, as other foods containing little or no vitamin K such as mangos and soy milk have been reported to interact with warfarin.  Some experts recommend that continuous enteral nutrition should be interrupted for one hour before and one hour after administration of the anticoagulant dose and that enteral formulas containing soy protein should be avoided.  Patients should also consider avoiding or limiting the consumption of cranberry juice or other cranberry formulations (e.g., encapsulated dried cranberry powder), pomegranate juice, black currant juice, and black currant seed oil.",
+        "references": "Andersen P, Godal HC \"Predictable reduction in anticoagulant activity of warfarin by small amounts of vitamin K.\" Acta Med Scand 198 (1975):  269-70|Westfall LK \"An unrecognized cause of warfarin resistance.\" Drug Intell Clin Pharm 15 (1981):  131|Lee M, Schwartz RN, Sharifi R \"Warfarin resistance and vitamin K.\" Ann Intern Med 94 (1981):  140-1|Zallman JA, Lee DP, Jeffrey PL \"Liquid nutrition as a cause of warfarin resistance.\" Am J Hosp Pharm 38 (1981):  1174|Griffith LD, Olvey SE, Triplett WC \"Increasing prothrombin times in a warfarin-treated patient upon withdrawal of ensure plus.\" Crit Care Med 10 (1982):  799-800|Kempin SJ \"Warfarin resistance caused by broccoli.\" N Engl J Med 308 (1983):  1229-30|Watson AJ, Pegg M, Green JR \"Enteral feeds may antagonise warfarin.\" Br Med J 288 (1984):  557|Walker FB \"Myocardial infarction after diet-induced warfarin resistance.\" Arch Intern Med 144 (1984):  2089-90|Howard PA, Hannaman KN \"Warfarin resistance linked to enteral nutrition products.\" J Am Diet Assoc 85 (1985):  713-5|Karlson B, Leijd B, Hellstrom K \"On the influence of vitamin K-rich vegetables and wine on the effectiveness of warfarin treatment.\" Acta Med Scand 220 (1986):  347-50|Pedersen FM, Hamberg O, Hess K, Ovesen L \"The effect of dietary vitamin K on warfarin-induced anticoagulation.\" J Intern Med 229 (1991):  517-20|Parr MD, Record KE, Griffith GL, et al. \"Effect of enteral nutrition on warfarin therapy.\" Clin Pharm 1 (1982):  274-6|Wells PS, Holbrook AM, Crowther NR, Hirsh J \"Interactions of warfarin with drugs and food.\" Ann Intern Med 121 (1994):  676-83|O'Reilly RA, Rytand DA \"\"Resistance\" to warfarin due to unrecognized vitamin K supplementation.\" N Engl J Med 303 (1980):  160-1|Kazmier FJ, Spittell JA Jr \"Coumarin drug interactions.\" Mayo Clin Proc 45 (1970):  249-55|Chow WH, Chow TC, Tse TM, Tai YT, Lee WT \"Anticoagulation instability with life-threatening complication after dietary modification.\" Postgrad Med J 66 (1990):  855-7|MacLeod SM, Sellers EM \"Pharmacodynamic and pharmacokinetic drug interactions with coumarin anticoagulants.\" Drugs 11 (1976):  461-70|Sullivan DM, Ford MA, Boyden TW \"Grapefruit juice and the response to warfarin.\" Am J Health Syst Pharm 55 (1998):  1581-3|Harrell CC, Kline SS \"Vitamin K-supplemented snacks containing olestra: Implication for patients taking warfarin.\" Jama J Am Med Assn 282 (1999):  1133-4|Beckey NP, Korman LB, Parra D \"Effect of the moderate consumption of olestra in patients receiving long-term warfarin therapy.\" Pharmacotherapy 19 (1999):  1075-9|Monterrey-Rodriguez J \"Interaction between warfarin and mango fruit.\" Ann Pharmacother 36 (2002):  940-1|Cambria-Kiely JA \"Effect of soy milk on warfarin efficacy.\" Ann Pharmacother 36 (2002):  1893-6|MHRA. Mediciines and Healthcare products Regulatory Agency. Committee on Safety of Medicines \"Possible interaction between warfarin and cranberry juice.  http://medicines.mhra.gov.uk/ourwork/monitorsafequalmed/currentproblems/currentproblems.htm\"   (2003):|Suvarna R, Pirmohamed M, Henderson L \"Possible interaction between warfarin and cranberry juice.\" BMJ 327 (2003):  1454|Kuykendall JR, Houle MD, Rhodes RS \"Possible warfarin failure due to interaction with smokeless tobacco.\" Ann Pharmacother 38 (2004):  595-7|Grant P \"Warfarin and cranberry juice: an interaction?\" J Heart Valve Dis 13 (2004):  25-6|Rindone JP, Murphy TW \"Warfarin-cranberry juice interaction resulting in profound hypoprothrombinemia and bleeding.\" Am J Ther 13 (2006):  283-4|Brandin H, Myrberg O, Rundlof T, Arvidsson AK, Brenning G \"Adverse effects by artificial grapefruit seed extract products in patients on warfarin therapy.\" Eur J Clin Pharmacol 63 (2007):  565-70|Agencia Espa?ola de Medicamentos y Productos Sanitarios Healthcare \"Centro de informaci��n online de medicamentos de la AEMPS - CIMA.  https://cima.aemps.es/cima/publico/home.html\"   (2008):|Griffiths AP, Beddall A, Pegler S \"Fatal haemopericardium and gastrointestinal haemorrhage due to possible interaction of cranberry juice with warfarin.\" J R Soc Health 128 (2008):  324-6|Guo LQ, Yamazoe Y \"Inhibition of cytochrome P450 by furanocoumarins in grapefruit juice and herbal medicines.\" Acta Pharmacol Sin 25 (2004):  129-36|Hamann GL, Campbell JD, George CM \"Warfarin-cranberry juice interaction.\" Ann Pharmacother 45 (2011):  e17|Jarvis S, Li C, Bogle RG \"Possible interaction between pomegranate juice and warfarin.\" Emerg Med J 27 (2010):  74-5|Roberts D, Flanagan P \"Case report: Cranberry juice and warfarin.\" Home Healthc Nurse 29 (2011):  92-7|Ge B, Zhang Z, Zuo Z \"Updates on the clinical evidenced herb-warfarin interactions.\" Evid Based Complement Alternat Med 2014 (2014):  957362|Wohlt PD, Zheng L, Gunderson S, Balzar SA, Johnson BD, Fish JT \"Recommendations for the use of medications with continuous enteral nutrition.\" Am J Health Syst Pharm 66 (2009):  1438-67|Bodiford AB, Kessler FO, Fermo JD, Ragucci KR \"Elevated international normalized ratio with the consumption of grapefruit and use of warfarin.\" SAGE Open Med Case Rep 0 (2013):  1-3"
+      }
+    ],
+    "Metoprolol": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially during initiation of therapy and dose escalation.  Coadministration with antihypertensives and other hypotensive agents, in particular vasodilators and alpha-blockers, may result in additive effects on blood pressure and orthostasis.",
+        "management": "Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihypertensive drugs.  Patients should be advised to avoid rising abruptly from a sitting or recumbent position and to notify their physician if they experience dizziness, lightheadedness, syncope, orthostasis, or tachycardia.",
+        "references": "Sternbach H \"Fluoxetine-associated potentiation of calcium-channel blockers.\" J Clin Psychopharmacol 11 (1991):  390-1|Shook TL, Kirshenbaum JM, Hundley RF, Shorey JM, Lamas GA \"Ethanol intoxication complicating intravenous nitroglycerin therapy.\" Ann Intern Med 101 (1984):  498-9|Feder R \"Bradycardia and syncope induced by fluoxetine.\" J Clin Psychiatry 52 (1991):  139|Ellison JM, Milofsky JE, Ely E \"Fluoxetine-induced bradycardia and syncope in two patients.\" J Clin Psychiatry 51 (1990):  385-6|Rodriguez de la Torre B, Dreher J, Malevany I, et al. \"Serum levels and cardiovascular effects of tricyclic antidepressants and selective serotonin reuptake inhibitors in depressed patients.\" Ther Drug Monit 23 (2001):  435-40|Cerner Multum, Inc. \"Australian Product Information.\" O 0|Pacher P, Kecskemeti V \"Cardiovascular side effects of new antidepressants and antipsychotics: new drugs, old concerns?\" Curr Pharm Des 10 (2004):  2463-75|Andrews C, Pinner G \"Postural hypotension induced by paroxetine.\" BMJ 316 (1998):  595"
+      },
+      {
+        "food": "food",
+        "food_zh": "食物",
+        "severity": "Moderate",
+        "mechanism": "Absorption",
+        "interaction": "The bioavailability of metoprolol may be enhanced by food.",
+        "management": "Patients may be instructed to take metoprolol at the same time each day, preferably with or immediately following meals.",
+        "references": "\"Product Information. Lopressor (metoprolol).\" Novartis Pharmaceuticals  (2001):|Darcy PF \"Nutrient-drug interactions.\" Adverse Drug React Toxicol Rev 14 (1995):  233-54"
+      }
+    ],
+    "Theophylline": [
+      {
+        "food": "coffee",
+        "food_zh": "咖啡",
+        "severity": "Moderate",
+        "mechanism": "Metabolism",
+        "interaction": "Coadministration with caffeine may increase the serum concentrations of theophylline.  The proposed mechanism involves competitive inhibition of theophylline metabolism via CYP450 1A2, as well as metabolic conversion of caffeine to theophylline in vivo and saturation of theophylline metabolism at higher serum concentrations.",
+        "management": "When administered to patients receiving continuous enteral nutrition , some experts recommend that the tube feeding should be interrupted for at least 1 hour before and 1 hour after the dose of theophylline is given; rapid-release formulations are preferable, and theophylline levels should be monitored.",
+        "references": "Jonkman JH, Sollie FA, Sauter R, Steinijans VW \"The influence of caffeine on the steady-state pharmacokinetics of theophylline.\" Clin Pharmacol Ther 49 (1991):  248-55|Sato J, Nakata H, Owada E, Kikuta T, Umetsu M, Ito K \"Influence of usual intake of dietary caffeine on single-dose kinetics of theophylline in healthy human subjects.\" Eur J Clin Pharmacol 44 (1993):  295-8|Wohlt PD, Zheng L, Gunderson S, Balzar SA, Johnson BD, Fish JT \"Recommendations for the use of medications with continuous enteral nutrition.\" Am J Health Syst Pharm 66 (2009):  1438-67"
+      }
+    ],
+    "Pravastatin": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Concomitant use of statin medication with substantial quantities of alcohol may increase the risk of hepatic injury.",
+        "management": "Patients should be counseled to avoid substantial quantities of alcohol in combination with statin medications and clinicians should be aware of the increased risk for hepatotoxicity in these patients.",
+        "references": "\"Product Information. Pravachol (pravastatin).\" Bristol-Myers Squibb  (2001):|\"Product Information. Zocor (simvastatin).\" Merck & Co., Inc  (2001):|\"Product Information. Lescol (fluvastatin).\" Novartis Pharmaceuticals  (2001):|\"Product Information. Lipitor (atorvastatin).\" Parke-Davis  (2001):|\"Product Information. Altocor (lovastatin).\" Andrx Pharmaceuticals  (2002):|\"Product Information. Crestor (rosuvastatin).\" AstraZeneca Pharma Inc  (2003):|Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0|Cerner Multum, Inc. \"Australian Product Information.\" O 0|\"Product Information. Livalo (pitavastatin).\" Kowa Pharmaceuticals America (formerly ProEthic)  (2010):"
+      }
+    ],
+    "Oxytetracycline": [
+      {
+        "food": "dairy products",
+        "food_zh": "乳製品",
+        "severity": "Moderate",
+        "mechanism": "Absorption",
+        "interaction": "Administration with food, particularly dairy products, significantly reduces tetracycline absorption.  The calcium content of these foods forms nonabsorbable chelates with tetracycline.",
+        "management": "Tetracycline should be administered one hour before or two hours after meals.",
+        "references": "\"Product Information. Achromycin (tetracycline).\" Lederle Laboratories  (2001):|\"Product Information. Declomycin (demeclocycline).\" Lederle Laboratories  (2001):"
+      }
+    ],
+    "Pitavastatin": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Concomitant use of statin medication with substantial quantities of alcohol may increase the risk of hepatic injury.",
+        "management": "Patients should be counseled to avoid substantial quantities of alcohol in combination with statin medications and clinicians should be aware of the increased risk for hepatotoxicity in these patients.",
+        "references": "\"Product Information. Pravachol (pravastatin).\" Bristol-Myers Squibb  (2001):|\"Product Information. Zocor (simvastatin).\" Merck & Co., Inc  (2001):|\"Product Information. Lescol (fluvastatin).\" Novartis Pharmaceuticals  (2001):|\"Product Information. Lipitor (atorvastatin).\" Parke-Davis  (2001):|\"Product Information. Altocor (lovastatin).\" Andrx Pharmaceuticals  (2002):|\"Product Information. Crestor (rosuvastatin).\" AstraZeneca Pharma Inc  (2003):|Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0|Cerner Multum, Inc. \"Australian Product Information.\" O 0|\"Product Information. Livalo (pitavastatin).\" Kowa Pharmaceuticals America (formerly ProEthic)  (2010):"
+      }
+    ],
+    "Felodipine": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially during initiation of therapy and dose escalation.  Coadministration with antihypertensives and other hypotensive agents, in particular vasodilators and alpha-blockers, may result in additive effects on blood pressure and orthostasis.",
+        "management": "Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihypertensive drugs.  Patients should be advised to avoid rising abruptly from a sitting or recumbent position and to notify their physician if they experience dizziness, lightheadedness, syncope, orthostasis, or tachycardia.",
+        "references": "Sternbach H \"Fluoxetine-associated potentiation of calcium-channel blockers.\" J Clin Psychopharmacol 11 (1991):  390-1|Shook TL, Kirshenbaum JM, Hundley RF, Shorey JM, Lamas GA \"Ethanol intoxication complicating intravenous nitroglycerin therapy.\" Ann Intern Med 101 (1984):  498-9|Feder R \"Bradycardia and syncope induced by fluoxetine.\" J Clin Psychiatry 52 (1991):  139|Ellison JM, Milofsky JE, Ely E \"Fluoxetine-induced bradycardia and syncope in two patients.\" J Clin Psychiatry 51 (1990):  385-6|Rodriguez de la Torre B, Dreher J, Malevany I, et al. \"Serum levels and cardiovascular effects of tricyclic antidepressants and selective serotonin reuptake inhibitors in depressed patients.\" Ther Drug Monit 23 (2001):  435-40|Cerner Multum, Inc. \"Australian Product Information.\" O 0|Pacher P, Kecskemeti V \"Cardiovascular side effects of new antidepressants and antipsychotics: new drugs, old concerns?\" Curr Pharm Des 10 (2004):  2463-75|Andrews C, Pinner G \"Postural hypotension induced by paroxetine.\" BMJ 316 (1998):  595"
+      },
+      {
+        "food": "grapefruit juice",
+        "food_zh": "葡萄柚汁",
+        "severity": "Moderate",
+        "mechanism": "Metabolism",
+        "interaction": "The consumption of grapefruit juice may be associated with significantly increased plasma concentrations of some calcium channel blockers (CCBs) when they are administered orally.  The proposed mechanism is inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by certain compounds present in grapefruit.",
+        "management": "The manufacturers of nifedipine and nisoldipine recommend avoiding grapefruit juice.  Patients treated orally with other calcium channel blockers should be advised to avoid consumption of large amounts of grapefruits and grapefruit juice to prevent any undue fluctuations in serum drug levels.  Increased effects on blood pressure may persist for up to 4 days after the consumption of grapefruit juice.  Monitoring for calcium channel blocker adverse effects (e.g., headache, hypotension, syncope, tachycardia, edema) is recommended.",
+        "references": "Edgar B, Bailey D, Bergstrand R, Johnsson G, Regardh CG \"Acute effects of drinking grapefruit juice on the pharmacokinetics and dynamics of felodipine--and its potential clinical relevance.\" Eur J Clin Pharmacol 42 (1992):  313-7|\"Product Information. Plendil (felodipine).\" Merck & Co., Inc  (2002):|\"Product Information. Procardia (nifedipine).\" Pfizer U.S. Pharmaceuticals  (2002):|Bailey DG, Arnold JM, Munoz C, Spence JD \"Grapefruit juice--felodipine interaction: mechanism, predictability, and effect of naringin.\" Clin Pharmacol Ther 53 (1993):  637-42|Bailey DG, Arnold JMO, Spence JD \"Grapefruit juice and drugs - how significant is the interaction.\" Clin Pharmacokinet 26 (1994):  91-8|Bailey DG, Arnold JM, Strong HA, Munoz C, Spence JD \"Effect of grapefruit juice and naringin on nisoldipine pharmacokinetics.\" Clin Pharmacol Ther 54 (1993):  589-94|Yamreudeewong W, Henann NE, Fazio A, Lower DL, Cassidy TG \"Drug-food interactions in clinical practice.\" J Fam Pract 40 (1995):  376-84|\"Grapefruit juice interactions with drugs.\" Med Lett Drugs Ther 37 (1995):  73-4|\"Product Information. Sular (nisoldipine).\" Astra-Zeneca Pharmaceuticals  (2001):|Josefsson M, Zackrisson AL, Ahlner J \"Effect of grapefruit juice on the pharmacokinetics of amlodipine in healthy volunteers.\" Eur J Clin Pharmacol 51 (1996):  189-93|Bailey DG, Malcolm J, Arnold O, Spence JD \"Grapefruit juice-drug interactions.\" Br J Clin Pharmacol 46 (1998):  101-10|Bailey DG, Kreeft JH, Munoz C, Freeman DJ, Bend JR \"Grapefruit juice felodipine interaction: Effect of naringin and 6',7'-dihydroxybergamottin in humans.\" Clin Pharmacol Ther 64 (1998):  248-56|Fuhr U, Maier-Bruggemann A, Blume H, et al. \"Grapefruit juice increases oral nimodipine bioavailability.\" Int J Clin Pharmacol Ther 36 (1998):  126-32|Gunston GD, Mehta U \"Potentially serious drug interactions with grapefruit juice.\" S Afr Med J 90 (2000):  41|Takanaga H, Ohnishi A, Maatsuo H, et al. \"Pharmacokinetic analysis of felodipine-grapefruit juice interaction based on an irreversible enzyme inhibition model.\" Br J Clin Pharmacol 49 (2000):  49-58|Bailey DG, Dresser GR, Kreeft JH, Munoz C, Freeman DJ, Bend JR \"Grapefruit-felodipine interaction: Effect of unprocessed fruit and probable active ingredients.\" Clin Pharmacol Ther 68 (2000):  468-77|Ho PC, Ghose K, Saville D, Wanwimolruk S \"Effect of grapefruit juice on pharmacokinetics and pharmacodynamics of verapamil enantiomers in healthy volunteers.\" Eur J Clin Pharmacol 56 (2000):  693-8|Fuhr U, Muller-Peltzer H, Kern R, et al. \"Effects of grapefruit juice and smoking on verapamil concentrations in steady state.\" Eur J Clin Pharmacol 58 (2002):  45-53|Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0"
+      }
+    ],
+    "Tizanidine": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "The sedative effect of tizanidine may be potentiated by concomitant use of other agents with central nervous system (CNS) depressant effects.  In addition, tizanidine and many of these agents (e.g., alcohol, anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, muscle relaxants) also can exhibit hypotensive effects, which may be additive during coadministration and may increase the risk of symptomatic hypotension and orthostasis, particularly during initiation of therapy or dose escalation.",
+        "management": "Caution is advised and more gradual dose titration may be appropriate when tizanidine is used with other substances that can cause CNS depression and/or hypotension, particularly in elderly or debilitated patients.  Ambulatory patients should be counseled to avoid hazardous activities requiring complete mental alertness and motor coordination until they know how these agents affect them, and to avoid rising abruptly from a sitting or recumbent position.  Patients should contact their physician if they experience dizziness, lightheadedness, syncope, orthostasis, or excessive CNS effects that interfere with their normal activities.",
+        "references": "\"Product Information. Zanaflex (tizanidine).\" Acorda Therapeutics  (2001):"
+      }
+    ],
+    "Disopyramide": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Major",
+        "mechanism": "Excretion",
+        "interaction": "Ethanol significantly increases the renal elimination of disopyramide, apparently by inducing diuresis (inhibition of antidiuretic hormone).  Limited data show that ethanol does not, however, significantly affect the elimination half-life or total plasma clearance of disopyramide.",
+        "management": "No special precautions appear to be necessary.",
+        "references": "Olsen H, Bredesen JE, Lunde PK \"Effect of ethanol intake on disopyramide elimination by healthy volunteers.\" Eur J Clin Pharmacol 25 (1983):  103-5"
+      },
+      {
+        "food": "grapefruit juice",
+        "food_zh": "葡萄柚汁",
+        "severity": "Moderate",
+        "mechanism": "Metabolism",
+        "interaction": "Grapefruit juice may increase the plasma concentrations of orally administered drugs that are substrates of the CYP450 3A4 isoenzyme.  The proposed mechanism is inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by certain compounds present in grapefruit.",
+        "management": "Patients who regularly consume grapefruit or grapefruit juice should be monitored for adverse effects and altered plasma concentrations of drugs that undergo significant presystemic metabolism by CYP450 3A4.  Grapefruit and grapefruit juice should be avoided if an interaction is suspected.  Orange juice is not expected to interact with these drugs.",
+        "references": "Edgar B, Bailey D, Bergstrand R, et al. \"Acute effects of drinking grapefruit juice on the pharmacokinetics and dynamics on felodipine and its potential clinical relevance.\" Eur J Clin Pharmacol 42 (1992):  313-7|Jonkman JH, Sollie FA, Sauter R, Steinijans VW \"The influence of caffeine on the steady-state pharmacokinetics of theophylline.\" Clin Pharmacol Ther 49 (1991):  248-55|Bailey DG, Arnold JM, Munoz C, Spence JD \"Grapefruit juice--felodipine interaction: mechanism, predictability, and effect of naringin.\" Clin Pharmacol Ther 53 (1993):  637-42|Bailey DG, Arnold JMO, Spence JD \"Grapefruit juice and drugs - how significant is the interaction.\" Clin Pharmacokinet 26 (1994):  91-8|Sigusch H, Hippius M, Henschel L, Kaufmann K, Hoffmann A \"Influence of grapefruit juice on the pharmacokinetics of a slow release nifedipine formulation.\" Pharmazie 49 (1994):  522-4|Bailey DG, Arnold JM, Strong HA, Munoz C, Spence JD \"Effect of grapefruit juice and naringin on nisoldipine pharmacokinetics.\" Clin Pharmacol Ther 54 (1993):  589-94|Yamreudeewong W, Henann NE, Fazio A, Lower DL, Cassidy TG \"Drug-food interactions in clinical practice.\" J Fam Pract 40 (1995):  376-84|\"Grapefruit juice interactions with drugs.\" Med Lett Drugs Ther 37 (1995):  73-4|Hukkinen SK, Varhe A, Olkkola KT, Neuvonen PJ \"Plasma concentrations of triazolam are increased by concomitant ingestion of grapefruit juice.\" Clin Pharmacol Ther 58 (1995):  127-31|Min DI, Ku YM, Geraets DR, Lee HC \"Effect of grapefruit juice on the pharmacokinetics and pharmacodynamics of quinidine in healthy volunteers.\" J Clin Pharmacol 36 (1996):  469-76|Majeed A, Kareem A \"Effect of grapefruit juice on cyclosporine pharmacokinetics.\" Pediatr Nephrol 10 (1996):  395|Clifford CP, Adams DA, Murray S, Taylor GW, Wilkins MR, Boobis AR, Davies DS \"Pharmacokinetic and cardiac effects of terfenadine after inhibition of its metabolism by grapefruit juice.\" Br J Clin Pharmacol 42 (1996):  p662|Josefsson M, Zackrisson AL, Ahlner J \"Effect of grapefruit juice on the pharmacokinetics of amlodipine in healthy volunteers.\" Eur J Clin Pharmacol 51 (1996):  189-93|Kantola T, Kivisto KT, Neuvonen PJ \"Grapefruit juice greatly increases serum concentrations of lovastatin and lovastatin acid.\" Clin Pharmacol Ther 63 (1998):  397-402|Ozdemir M, Aktan Y, Boydag BS, Cingi MI, Musmul A \"Interaction between grapefruit juice and diazepam in humans.\" Eur J Drug Metab Pharmacokinet 23 (1998):  55-9|Bailey DG, Malcolm J, Arnold O, Spence JD \"Grapefruit juice-drug interactions.\" Br J Clin Pharmacol 46 (1998):  101-10|Bailey DG, Kreeft JH, Munoz C, Freeman DJ, Bend JR \"Grapefruit juice felodipine interaction: Effect of naringin and 6',7'-dihydroxybergamottin in humans.\" Clin Pharmacol Ther 64 (1998):  248-56|Garg SK, Kumar N, Bhargava VK, Prabhakar SK \"Effect of grapefruit juice on carbamazepine bioavailability in patients with epilepsy.\" Clin Pharmacol Ther 64 (1998):  286-8|Lilja JJ, Kivisto KT, Neuvonen PJ \"Grapefruit juice-simvastatin interaction: Effect on serum concentrations of simvastatin, simvastatin acid, and HMG-CoA reductase inhibitors.\" Clin Pharmacol Ther 64 (1998):  477-83|Fuhr U, Maier-Bruggemann A, Blume H, et al. \"Grapefruit juice increases oral nimodipine bioavailability.\" Int J Clin Pharmacol Ther 36 (1998):  126-32|Lilja JJ, Kivisto KT, Neuvonen PJ \"Grapefruit juice increases serum concentrations of atorvastatin and has no effect on pravastatin.\" Clin Pharmacol Ther 66 (1999):  118-27|Eagling VA, Profit L, Back DJ \"Inhibition of the CYP3A4-mediated metabolism and P-glycoprotein-mediated transport of the HIV-I protease inhibitor saquinavir by grapefruit juice components.\" Br J Clin Pharmacol 48 (1999):  543-52|Damkier P, Hansen LL, Brosen K \"Effect of diclofenac, disulfiram, itraconazole, grapefruit juice and erythromycin on the pharmacokinetics of quinidine.\" Br J Clin Pharmacol 48 (1999):  829-38|Lee AJ, Chan WK, Harralson AF, Buffum J, Bui BCC \"The effects of grapefruit juice on sertraline metabolism: An in vitro and in vivo study.\" Clin Ther 21 (1999):  1890-9|Dresser GK, Spence JD, Bailey DG \"Pharmacokinetic-pharmacodynamic consequences and clinical relevance of cytochrome P450 3A4 inhibition.\" Clin Pharmacokinet 38 (2000):  41-57|Gunston GD, Mehta U \"Potentially serious drug interactions with grapefruit juice.\" S Afr Med J 90 (2000):  41|Takanaga H, Ohnishi A, Maatsuo H, et al. \"Pharmacokinetic analysis of felodipine-grapefruit juice interaction based on an irreversible enzyme inhibition model.\" Br J Clin Pharmacol 49 (2000):  49-58|Libersa CC, Brique SA, Motte KB, et al. \"Dramatic inhibition of amiodarone metabolism induced by grapefruit juice.\" Br J Clin Pharmacol 49 (2000):  373-8|Bailey DG, Dresser GR, Kreeft JH, Munoz C, Freeman DJ, Bend JR \"Grapefruit-felodipine interaction: Effect of unprocessed fruit and probable active ingredients.\" Clin Pharmacol Ther 68 (2000):  468-77|Zaidenstein R, Soback S, Gips M, Avni B, Dishi V, Weissgarten Y, Golik A, Scapa E \"Effect of grapefruit juice on the pharmacokinetics of losartan and its active metabolite E3174 in healthy volunteers.\" Ther Drug Monit 23 (2001):  369-73|Sato J, Nakata H, Owada E, Kikuta T, Umetsu M, Ito K \"Influence of usual intake of dietary caffeine on single-dose kinetics of theophylline in healthy human subjects.\" Eur J Clin Pharmacol 44 (1993):  295-8|Flanagan D \"Understanding the grapefruit-drug interaction.\" Gen Dent 53 (2005):  282-5; quiz 286"
+      }
+    ],
+    "Buprenorphine": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Minor",
+        "mechanism": "Synergy",
+        "interaction": "Concomitant use of buprenorphine with benzodiazepines or other central nervous system (CNS) depressants (e.g., nonbenzodiazepine sedatives/hypnotics, anxiolytics, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol) may increase the risk of buprenorphine overdose, severe respiratory depression, coma, and death.  Reported cases have primarily occurred in the setting of buprenorphine maintenance treatment for opiate addiction, and many, but not all, involved abuse or misuse of buprenorphine including intravenous self-injection.  The mechanism of interaction probably involves some degree of additive pharmacologic effects.  Preclinical studies also suggest that benzodiazepines can alter the usual ceiling effect on buprenorphine-induced respiratory depression and render the respiratory effects of buprenorphine appear similar to those of full opioid agonists.  Coadministration of buprenorphine with some CNS depressants such as alcohol, benzodiazepines, and phenothiazines may also increase the risk of hypotension.",
+        "management": "The use of opioids in conjunction with benzodiazepines or other CNS depressants should generally be avoided unless alternative treatment options are inadequate.  If coadministration is necessary, the dosage and duration of each drug should be limited to the minimum required to achieve desired clinical effect.  Patients should be monitored closely for signs and symptoms of respiratory depression and sedation, and advised to avoid driving or operating hazardous machinery until they know how these medications affect them.  Extreme caution is advised when prescribing buprenorphine to patients who are addicted to opioids and also abusing benzodiazepines or alcohol.  Due to potential risk of overdose and death, dependence on sedative-hypnotics such as benzodiazepines or alcohol is considered a relative contraindication for office-based buprenorphine treatment of opioid addiction.  For patients who have been receiving extended therapy with both an opioid and a benzodiazepine and require discontinuation of either medication, a gradual tapering of dose is advised, since abrupt withdrawal may lead to withdrawal symptoms.  Severe cases of benzodiazepine withdrawal, primarily in patients who have received excessive doses over a prolonged period, may result in numbness and tingling of extremities, hypersensitivity to light and noise, hallucinations, and epileptic seizures.",
+        "references": "\"Product Information. Suboxone (buprenorphine-naloxone).\" Reckitt and Colman Pharmaceuticals Inc  (2002):|Kilicarslan T, Sellers EM \"Lack of interaction of buprenorphine with flunitrazepam metabolism.\" Am J Psychiatry 157 (2000):  1164-6|Reynaud M, Petit G, Potard D, Courty P \"Six deaths linked to concomitant use of buprenorphine and benzodiazepines.\" Addiction 93 (1998):  1385-92|Tracqui A, Kintz P, Ludes B \"Buprenorphine-related deaths among drug addicts in France: a report on 20 fatalities.\" J Anal Toxicol 22 (1998):  430-4|Reynaud M, Tracqui A, Petit G, Potard D, Courty P \"Six deaths linked to misuse of buprenorphine-benzodiazepine combinations.\" Am J Psychiatry 155 (1998):  448-9|Kintz P \"A new series of 13 buprenorphine-related deaths.\" Clin Biochem 35 (2002):  513-6|Martin HA \"The possible consequences of combining lorazepam and buprenorphine/naloxone: a case review.\" J Emerg Nurs 37 (2011):  200-2|Hakkinen M, Launiainen T, Vuori E, Ojanpera I \"Benzodiazepines and alcohol are associated with cases of fatal buprenorphine poisoning.\" Eur J Clin Pharmacol 68 (2012):  301-9|Substance Abuse and Mental Health Services Administration (US) \"Clinical Guidelines for the Use of Buprenorphine in the Treatment of Opioid Addiction. Treatment Improvement Protocol (TIP) Series, No. 40  http://www.ncbi.nlm.nih.gov/books/NBK64245/\"   (2013):|Schuman-Olivier Z, Hoeppner BB, Weiss RD, Borodovsky J, Shaffer HJ, Albanese MJ \"Benzodiazepine use during buprenorphine treatment for opioid dependence: clinical and safety outcomes.\" Drug Alcohol Depend 132 (2013):  580-6|Ferrant O, Papin F, Clin B, et al. \"Fatal poisoning due to snorting buprenorphine and alcohol consumption.\" Forensic Sci Int 204 (2011):  e8-11|Pirnay S, Borron SW, Giudicelli CP, Tourneau J, Baud FJ, Ricordel I \"A critical review of the causes of death among post-morten toxicological investigations: analysis of 34 buprenorphine-associated and 35 methadone-associated deaths.\" Addiction 99 (2004):  978-88|Kintz P \"Deaths involving buprenorphine: a compendium of French cases.\" Forensic Sci Int 121 (2001):  65-9|Sekar M, Mimpriss TJ \"Buprenorphine, benzodiazepines and prolonged respiratory depression.\" Anaesthesia 42 (1987):  567-8|Gueye PN, Borron SW, Risede P, et al. \"Buprenorphine and midazolalm act in combination to depress respiration in rats.\" Toxicol Sci 65 (2002):  107-14|US Food and Drug Administration \"FDA warns about serious risks and death when combining opioid pain or cough medicines with benzodiazepines; requires its strongest warning.  http://www.fda.gov/downloads/Drugs/DrugSafety/UCM518672.pdf\"   (2016):"
+      }
+    ],
+    "Interferon Beta-1B": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Coadministration of beta interferons with other agents known to induce hepatotoxicity may potentiate the risk of liver injury.",
+        "management": "The risk of hepatic injury should be considered when beta interferons are used with other potentially hepatotoxic agents (e.g., acetaminophen; alcohol; androgens and anabolic steroids; antituberculous agents; azole antifungal agents; ACE inhibitors; cyclosporine (high dosages); disulfiram; endothelin receptor antagonists; other interferons; ketolide and macrolide antibiotics; kinase inhibitors; minocycline; nonsteroidal anti-inflammatory agents; nucleoside reverse transcriptase inhibitors; proteasome inhibitors; retinoids; sulfonamides; tamoxifen; thiazolidinediones; tolvaptan; vincristine; zileuton; anticonvulsants such as carbamazepine, hydantoins, felbamate, and valproic acid; lipid-lowering medications such as fenofibrate, lomitapide, mipomersen, niacin, and statins; herbals and nutritional supplements such as black cohosh, chaparral, comfrey, DHEA, kava, pennyroyal oil, and red yeast rice).  Liver function tests should be monitored at regular intervals and the interferon dosage reduced if SGPT rises above 5 times the upper limit of normal.  The dosage may be gradually re-escalated when enzyme levels return to normal.  Patients should be advised to seek medical attention if they experience potential signs and symptoms of hepatotoxicity such as fever, rash, itching, anorexia, nausea, vomiting, fatigue, malaise, right upper quadrant pain, dark urine, pale stools, and jaundice.  If liver injury is suspected, interferon therapy should be promptly discontinued due to the potential for rapid progression to liver failure.",
+        "references": "\"Product Information. Betaseron (interferon beta-1b).\" Berlex Laboratories  (2002):|\"Product Information. Avonex (interferon beta-1a).\" Biogen  (2001):|\"Product Information. Rebif (interferon beta-1a).\" Serono Laboratories Inc  (2002):|\"Product Information. Plegridy (peginterferon beta-1a).\" Biogen Idec Inc  (2014):"
+      }
+    ],
+    "Naproxen": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "The concurrent use of aspirin or nonsteroidal anti-inflammatory drugs (NSAIDs) and ethanol may lead to gastrointestinal (GI) blood loss.  The mechanism may be due to a combined local effect as well as inhibition of prostaglandins leading to decreased integrity of the GI lining.",
+        "management": "Patients should be counseled on this potential interaction and advised to refrain from alcohol consumption while taking aspirin or NSAIDs.",
+        "references": "\"Product Information. Motrin (ibuprofen).\" Pharmacia and Upjohn  (2002):"
+      }
+    ],
+    "Fenoprofen": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "The concurrent use of aspirin or nonsteroidal anti-inflammatory drugs (NSAIDs) and ethanol may lead to gastrointestinal (GI) blood loss.  The mechanism may be due to a combined local effect as well as inhibition of prostaglandins leading to decreased integrity of the GI lining.",
+        "management": "Patients should be counseled on this potential interaction and advised to refrain from alcohol consumption while taking aspirin or NSAIDs.",
+        "references": "\"Product Information. Motrin (ibuprofen).\" Pharmacia and Upjohn  (2002):"
+      }
+    ],
+    "Dipyridamole": [
+      {
+        "food": "coffee",
+        "food_zh": "咖啡",
+        "severity": "Moderate",
+        "mechanism": "Antagonism",
+        "interaction": "Caffeine and other xanthine derivatives (e.g., theophylline) are nonspecific, competitive antagonists of adenosine receptors.  As such, they may interfere with the vasodilating effect of dipyridamole, an adenosine receptor agonist.",
+        "management": "Patients should avoid consumption of caffeine-containing products for at least 24 hours prior to administration of dipyridamole for myocardial perfusion imaging.",
+        "references": "Smits P, Aengevaeren WR, Corstens FH, Thien T \"Caffeine reduces dipyridamole-induced myocardial ischemia.\" J Nucl Med 30 (1989):  1723-6|\"Product Information. Persantine (dipyridamole).\" Boehringer-Ingelheim  (2002):|Ranhosky A, Kempthorne-Rawson J, the Intravenous Dipyridamole Thallium Imaging Study Group \"The safety of intravenous dipyridamole thallium myocardial perfusion imaging.\" Circulation 81 (1990):  1205-9"
+      }
+    ],
+    "Verteporfin": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Antagonism",
+        "interaction": "Drugs that quench active oxygen species or scavenge radicals are expected to decrease the therapeutic effect of verteporfin.",
+        "management": "The clinician should carefully assess the patient for desired benefits and risks before beginning verteporfin therapy.",
+        "references": "\"Product Information. Visudyne (verteporfin).\" Valeant Pharmaceuticals  (2001):"
+      }
+    ],
+    "Minoxidil": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially during initiation of therapy and dose escalation.  Coadministration with antihypertensives and other hypotensive agents, in particular vasodilators and alpha-blockers, may result in additive effects on blood pressure and orthostasis.",
+        "management": "Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihypertensive drugs.  Patients should be advised to avoid rising abruptly from a sitting or recumbent position and to notify their physician if they experience dizziness, lightheadedness, syncope, orthostasis, or tachycardia.",
+        "references": "Sternbach H \"Fluoxetine-associated potentiation of calcium-channel blockers.\" J Clin Psychopharmacol 11 (1991):  390-1|Shook TL, Kirshenbaum JM, Hundley RF, Shorey JM, Lamas GA \"Ethanol intoxication complicating intravenous nitroglycerin therapy.\" Ann Intern Med 101 (1984):  498-9|Feder R \"Bradycardia and syncope induced by fluoxetine.\" J Clin Psychiatry 52 (1991):  139|Ellison JM, Milofsky JE, Ely E \"Fluoxetine-induced bradycardia and syncope in two patients.\" J Clin Psychiatry 51 (1990):  385-6|Rodriguez de la Torre B, Dreher J, Malevany I, et al. \"Serum levels and cardiovascular effects of tricyclic antidepressants and selective serotonin reuptake inhibitors in depressed patients.\" Ther Drug Monit 23 (2001):  435-40|Cerner Multum, Inc. \"Australian Product Information.\" O 0|Pacher P, Kecskemeti V \"Cardiovascular side effects of new antidepressants and antipsychotics: new drugs, old concerns?\" Curr Pharm Des 10 (2004):  2463-75|Andrews C, Pinner G \"Postural hypotension induced by paroxetine.\" BMJ 316 (1998):  595"
+      }
+    ],
+    "Brivaracetam": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Alcohol may potentiate some of the pharmacologic effects of central nervous system (CNS)-active agents.  Use in combination may result in additive CNS depression and/or impairment of judgment, thinking, and psychomotor skills.",
+        "management": "Patients receiving CNS-active agents should be advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled against driving, operating machinery, or engaging in potentially hazardous activities requiring mental alertness and motor coordination until they know how these agents affect them, and to notify their physician if they experience excessive or prolonged CNS effects that interfere with their normal activities.",
+        "references": "Warrington SJ, Ankier SI, Turner P \"Evaluation of possible interactions between ethanol and trazodone or amitriptyline.\" Neuropsychobiology 15 (1986):  31-7|Gilman AG, eds., Nies AS, Rall TW, Taylor P \"Goodman and Gilman's the Pharmacological Basis of Therapeutics.\" New York, NY: Pergamon Press Inc.  (1990):|Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0|\"Product Information. Fycompa (perampanel).\" Eisai Inc  (2012):|\"Product Information. Rexulti (brexpiprazole).\" Otsuka American Pharmaceuticals Inc  (2015):"
+      }
+    ],
+    "Trifluoperazine": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Concurrent use of ethanol and phenothiazines may result in additive CNS depression and psychomotor impairment.  Also, ethanol may precipitate dystonic reactions in patients who are taking phenothiazines.",
+        "management": "Patients should be advised to avoid alcohol during phenothiazine therapy.",
+        "references": "Lutz EG \"Neuroleptic-induced akathisia and dystonia triggered by alcohol.\" JAMA 236 (1976):  2422-3|Freed E \"Alcohol-triggered-neuroleptic-induced tremor, rigidity and dystonia.\" Med J Aust 2 (1981):  44-5"
+      }
+    ],
+    "Clomipramine": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "The combination of ethanol and a tricyclic antidepressant may result in additive impairment of motor skills, especially driving skills.  Also, one study has suggested that clomipramine metabolism is significantly impaired for several weeks or more following discontinuation of chronic alcohol consumption.",
+        "management": "Patients should be warned of this interaction and advised to limit their ethanol intake while taking tricyclic antidepressants.  Monitoring for TCA toxicity (CNS depression, excessive anticholinergic effects, hypotension, arrhythmias) is recommended during alcohol withdrawal.",
+        "references": "Seppala T, Linnoila M, Elonen E, Mattila MJ, Makl M \"Effect of tricyclic antidepressants and alcohol on psychomotor skills related to driving.\" Clin Pharmacol Ther 17 (1975):  515-22|Berlin I, Cournot A, Zimmer R, et al. \"Evaluation and comparison of the interaction between alcohol and moclobemide or clomipramine in healthy subjects.\" Psychopharmacology (Berl) 100 (1990):  40-5|Balant-Gorgia AE, Gay M, Gex-Fabry M, Balant LP \"Persistent impairment of clomipramine demethylation in recently detoxified alcoholic patients.\" Ther Drug Monit 14 (1992):  119-24"
+      },
+      {
+        "food": "grapefruit juice",
+        "food_zh": "葡萄柚汁",
+        "severity": "Moderate",
+        "mechanism": "Metabolism",
+        "interaction": "Limited data suggest that the administration of clomipramine with grapefruit juice or cranberry juice may significantly increase plasma drug concentrations of clomipramine.  Clomipramine is initially demethylated by CYP450 1A2, 3A3 and 3A4 before undergoing further metabolism to 8-hydroxyclomipramine.  The increase in clomipramine bioavailability may stem from inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by certain compounds present in grapefruits.  The precise mechanism by which cranberry juice exerts its effects is unknown, but may involve inhibition of CYP450 isoenzymes.  This interaction has occasionally been exploited in attempts to improve symptomatic control of obsessive compulsive disorder.",
+        "management": "Patients receiving clomipramine therapy who ingest cranberry juice, grapefruits, or grapefruit juice should be monitored for adverse effects and undue fluctuations in plasma drug levels.",
+        "references": "Oesterheld J, Kallepalli BR \"Grapefruit juice and clomipramine: shifting metabolitic ratios.\" J Clin Psychopharmacol 17 (1997):  62-3|Bailey DG, Dresser GR, Kreeft JH, Munoz C, Freeman DJ, Bend JR \"Grapefruit-felodipine interaction: Effect of unprocessed fruit and probable active ingredients.\" Clin Pharmacol Ther 68 (2000):  468-77|Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0|Cerner Multum, Inc. \"Australian Product Information.\" O 0"
+      },
+      {
+        "food": "cranberry juice",
+        "food_zh": "蔓越莓汁",
+        "severity": "Moderate",
+        "mechanism": "Metabolism",
+        "interaction": "Limited data suggest that the administration of clomipramine with grapefruit juice or cranberry juice may significantly increase plasma drug concentrations of clomipramine.  Clomipramine is initially demethylated by CYP450 1A2, 3A3 and 3A4 before undergoing further metabolism to 8-hydroxyclomipramine.  The increase in clomipramine bioavailability may stem from inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by certain compounds present in grapefruits.  The precise mechanism by which cranberry juice exerts its effects is unknown, but may involve inhibition of CYP450 isoenzymes.  This interaction has occasionally been exploited in attempts to improve symptomatic control of obsessive compulsive disorder.",
+        "management": "Patients receiving clomipramine therapy who ingest cranberry juice, grapefruits, or grapefruit juice should be monitored for adverse effects and undue fluctuations in plasma drug levels.",
+        "references": "Oesterheld J, Kallepalli BR \"Grapefruit juice and clomipramine: shifting metabolitic ratios.\" J Clin Psychopharmacol 17 (1997):  62-3|Bailey DG, Dresser GR, Kreeft JH, Munoz C, Freeman DJ, Bend JR \"Grapefruit-felodipine interaction: Effect of unprocessed fruit and probable active ingredients.\" Clin Pharmacol Ther 68 (2000):  468-77|Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0|Cerner Multum, Inc. \"Australian Product Information.\" O 0"
+      }
+    ],
+    "Trihexyphenidyl": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Use of anticholinergic agents with alcohol may result in sufficient impairment of attention so as to render driving and operating machinery more hazardous.  In addition, the potential for abuse may be increased with the combination.  The mechanism of interaction is not established but may involve additive depressant effects on the central nervous system.",
+        "management": "Alcohol should generally be avoided during therapy with anticholinergic agents.  Patients should be counseled to avoid activities requiring mental alertness until they know how these agents affect them.",
+        "references": "Linnoila M \"Drug effects on psychomotor skills related to driving: interaction of atropine, glycopyrrhonium and alcohol.\" Eur J Clin Pharmacol 6 (1973):  107-12"
+      }
+    ],
+    "Isosorbide Dinitrate": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially during initiation of therapy and dose escalation.  Coadministration with antihypertensives and other hypotensive agents, in particular vasodilators and alpha-blockers, may result in additive effects on blood pressure and orthostasis.",
+        "management": "Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihypertensive drugs.  Patients should be advised to avoid rising abruptly from a sitting or recumbent position and to notify their physician if they experience dizziness, lightheadedness, syncope, orthostasis, or tachycardia.",
+        "references": "Sternbach H \"Fluoxetine-associated potentiation of calcium-channel blockers.\" J Clin Psychopharmacol 11 (1991):  390-1|Shook TL, Kirshenbaum JM, Hundley RF, Shorey JM, Lamas GA \"Ethanol intoxication complicating intravenous nitroglycerin therapy.\" Ann Intern Med 101 (1984):  498-9|Feder R \"Bradycardia and syncope induced by fluoxetine.\" J Clin Psychiatry 52 (1991):  139|Ellison JM, Milofsky JE, Ely E \"Fluoxetine-induced bradycardia and syncope in two patients.\" J Clin Psychiatry 51 (1990):  385-6|Rodriguez de la Torre B, Dreher J, Malevany I, et al. \"Serum levels and cardiovascular effects of tricyclic antidepressants and selective serotonin reuptake inhibitors in depressed patients.\" Ther Drug Monit 23 (2001):  435-40|Cerner Multum, Inc. \"Australian Product Information.\" O 0|Pacher P, Kecskemeti V \"Cardiovascular side effects of new antidepressants and antipsychotics: new drugs, old concerns?\" Curr Pharm Des 10 (2004):  2463-75|Andrews C, Pinner G \"Postural hypotension induced by paroxetine.\" BMJ 316 (1998):  595"
+      }
+    ],
+    "Acitretin": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Minor",
+        "mechanism": "Synergy",
+        "interaction": "Ethanol consumption with acitretin leads to the formation of etretinate, which has a much longer half-life than acitretin.  Major human fetal abnormalities have been associated with the administration of acitretin, etretinate, and other retinoids.",
+        "management": "Female patients should be warned that ethanol is contraindicated during active treatment with acitretin and for two months after cessation of therapy.",
+        "references": "\"Product Information. Soriatane (acitretin).\" Roche Laboratories  (2001):"
+      }
+    ],
+    "Propantheline": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Use of anticholinergic agents with alcohol may result in sufficient impairment of attention so as to render driving and operating machinery more hazardous.  In addition, the potential for abuse may be increased with the combination.  The mechanism of interaction is not established but may involve additive depressant effects on the central nervous system.",
+        "management": "Alcohol should generally be avoided during therapy with anticholinergic agents.  Patients should be counseled to avoid activities requiring mental alertness until they know how these agents affect them.",
+        "references": "Linnoila M \"Drug effects on psychomotor skills related to driving: interaction of atropine, glycopyrrhonium and alcohol.\" Eur J Clin Pharmacol 6 (1973):  107-12"
+      }
+    ],
+    "Ibuprofen": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "The concurrent use of aspirin or nonsteroidal anti-inflammatory drugs (NSAIDs) and ethanol may lead to gastrointestinal (GI) blood loss.  The mechanism may be due to a combined local effect as well as inhibition of prostaglandins leading to decreased integrity of the GI lining.",
+        "management": "Patients should be counseled on this potential interaction and advised to refrain from alcohol consumption while taking aspirin or NSAIDs.",
+        "references": "\"Product Information. Motrin (ibuprofen).\" Pharmacia and Upjohn  (2002):"
+      }
+    ],
+    "Ferrous Gluconate": [
+      {
+        "food": "food",
+        "food_zh": "食物",
+        "severity": "Moderate",
+        "mechanism": "Absorption",
+        "interaction": "Concomitant use of some food may reduce the bioavailability of orally administered iron, and vice versa.",
+        "management": "Ideally, iron products should be taken on an empty stomach (i.e., at least 1 hour before or 2 hours after meals), but if this is not possible, administer with meals and monitor the patient more closely for a subtherapeutic effect.  Some studies suggest administration of iron with ascorbic acid may enhance bioavailability.  In addition, administration of oral iron products and some oral medications should be separated whenever the bioavailability of either agent may be decreased.  Consult the product labeling for specific separation times and monitor clinical responses as appropriate.",
+        "references": "\"Product Information. Feosol (ferrous sulfate).\" SmithKline Beecham|\"Product Information. Accrufer (ferric maltol).\" Shield Therapeutics  (2021):"
+      }
+    ],
+    "Methocarbamol": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Alcohol may potentiate some of the pharmacologic effects of CNS-active agents.  Use in combination may result in additive central nervous system depression and/or impairment of judgment, thinking, and psychomotor skills.",
+        "management": "Patients receiving CNS-active agents should be warned of this interaction and advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled to avoid hazardous activities requiring complete mental alertness and motor coordination until they know how these agents affect them, and to notify their physician if they experience excessive or prolonged CNS effects that interfere with their normal activities.",
+        "references": "Warrington SJ, Ankier SI, Turner P \"Evaluation of possible interactions between ethanol and trazodone or amitriptyline.\" Neuropsychobiology 15 (1986):  31-7|Gilman AG, eds., Nies AS, Rall TW, Taylor P \"Goodman and Gilman's the Pharmacological Basis of Therapeutics.\" New York, NY: Pergamon Press Inc.  (1990):|\"Product Information. Fycompa (perampanel).\" Eisai Inc  (2012):|\"Product Information. Rexulti (brexpiprazole).\" Otsuka American Pharmaceuticals Inc  (2015):"
+      }
+    ],
+    "Rotigotine": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Alcohol may potentiate some of the pharmacologic effects of CNS-active agents.  Use in combination may result in additive central nervous system depression and/or impairment of judgment, thinking, and psychomotor skills.",
+        "management": "Patients receiving CNS-active agents should be warned of this interaction and advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled to avoid hazardous activities requiring complete mental alertness and motor coordination until they know how these agents affect them, and to notify their physician if they experience excessive or prolonged CNS effects that interfere with their normal activities.",
+        "references": "Warrington SJ, Ankier SI, Turner P \"Evaluation of possible interactions between ethanol and trazodone or amitriptyline.\" Neuropsychobiology 15 (1986):  31-7|Gilman AG, eds., Nies AS, Rall TW, Taylor P \"Goodman and Gilman's the Pharmacological Basis of Therapeutics.\" New York, NY: Pergamon Press Inc.  (1990):|\"Product Information. Fycompa (perampanel).\" Eisai Inc  (2012):|\"Product Information. Rexulti (brexpiprazole).\" Otsuka American Pharmaceuticals Inc  (2015):"
+      }
+    ],
+    "Hydroxyprogesterone Caproate": [
+      {
+        "food": "grapefruit juice",
+        "food_zh": "葡萄柚汁",
+        "severity": "Moderate",
+        "mechanism": "Metabolism",
+        "interaction": "Grapefruit juice may increase the plasma concentrations of orally administered drugs that are substrates of the CYP450 3A4 isoenzyme.  The proposed mechanism is inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by certain compounds present in grapefruit.  Because grapefruit juice inhibits primarily intestinal rather than hepatic CYP450 3A4, the magnitude of interaction is greatest for those drugs that undergo significant presystemic metabolism by CYP450 3A4 (i.e., drugs with low oral bioavailability).  In general, the effect of grapefruit juice is concentration-, dose- and preparation-dependent, and can vary widely among brands.  Certain preparations of grapefruit juice (e.g., high dose, double strength) have sometimes demonstrated potent inhibition of CYP450 3A4, while other preparations (e.g., low dose, single strength) have typically demonstrated moderate inhibition.",
+        "management": "Patients who regularly consume grapefruit or grapefruit juice should be monitored for adverse effects and altered plasma concentrations of drugs that undergo significant presystemic metabolism by CYP450 3A4.  Grapefruit and grapefruit juice should be avoided if an interaction is suspected.  Orange juice is not expected to interact with these drugs.",
+        "references": "Edgar B, Bailey D, Bergstrand R, et al. \"Acute effects of drinking grapefruit juice on the pharmacokinetics and dynamics on felodipine and its potential clinical relevance.\" Eur J Clin Pharmacol 42 (1992):  313-7|Jonkman JH, Sollie FA, Sauter R, Steinijans VW \"The influence of caffeine on the steady-state pharmacokinetics of theophylline.\" Clin Pharmacol Ther 49 (1991):  248-55|Bailey DG, Arnold JM, Munoz C, Spence JD \"Grapefruit juice--felodipine interaction: mechanism, predictability, and effect of naringin.\" Clin Pharmacol Ther 53 (1993):  637-42|Bailey DG, Arnold JMO, Spence JD \"Grapefruit juice and drugs - how significant is the interaction.\" Clin Pharmacokinet 26 (1994):  91-8|Sigusch H, Hippius M, Henschel L, Kaufmann K, Hoffmann A \"Influence of grapefruit juice on the pharmacokinetics of a slow release nifedipine formulation.\" Pharmazie 49 (1994):  522-4|Bailey DG, Arnold JM, Strong HA, Munoz C, Spence JD \"Effect of grapefruit juice and naringin on nisoldipine pharmacokinetics.\" Clin Pharmacol Ther 54 (1993):  589-94|Yamreudeewong W, Henann NE, Fazio A, Lower DL, Cassidy TG \"Drug-food interactions in clinical practice.\" J Fam Pract 40 (1995):  376-84|\"Grapefruit juice interactions with drugs.\" Med Lett Drugs Ther 37 (1995):  73-4|Hukkinen SK, Varhe A, Olkkola KT, Neuvonen PJ \"Plasma concentrations of triazolam are increased by concomitant ingestion of grapefruit juice.\" Clin Pharmacol Ther 58 (1995):  127-31|Min DI, Ku YM, Geraets DR, Lee HC \"Effect of grapefruit juice on the pharmacokinetics and pharmacodynamics of quinidine in healthy volunteers.\" J Clin Pharmacol 36 (1996):  469-76|Majeed A, Kareem A \"Effect of grapefruit juice on cyclosporine pharmacokinetics.\" Pediatr Nephrol 10 (1996):  395|Clifford CP, Adams DA, Murray S, Taylor GW, Wilkins MR, Boobis AR, Davies DS \"Pharmacokinetic and cardiac effects of terfenadine after inhibition of its metabolism by grapefruit juice.\" Br J Clin Pharmacol 42 (1996):  p662|Josefsson M, Zackrisson AL, Ahlner J \"Effect of grapefruit juice on the pharmacokinetics of amlodipine in healthy volunteers.\" Eur J Clin Pharmacol 51 (1996):  189-93|Kantola T, Kivisto KT, Neuvonen PJ \"Grapefruit juice greatly increases serum concentrations of lovastatin and lovastatin acid.\" Clin Pharmacol Ther 63 (1998):  397-402|Ozdemir M, Aktan Y, Boydag BS, Cingi MI, Musmul A \"Interaction between grapefruit juice and diazepam in humans.\" Eur J Drug Metab Pharmacokinet 23 (1998):  55-9|Bailey DG, Malcolm J, Arnold O, Spence JD \"Grapefruit juice-drug interactions.\" Br J Clin Pharmacol 46 (1998):  101-10|Bailey DG, Kreeft JH, Munoz C, Freeman DJ, Bend JR \"Grapefruit juice felodipine interaction: Effect of naringin and 6',7'-dihydroxybergamottin in humans.\" Clin Pharmacol Ther 64 (1998):  248-56|Garg SK, Kumar N, Bhargava VK, Prabhakar SK \"Effect of grapefruit juice on carbamazepine bioavailability in patients with epilepsy.\" Clin Pharmacol Ther 64 (1998):  286-8|Lilja JJ, Kivisto KT, Neuvonen PJ \"Grapefruit juice-simvastatin interaction: Effect on serum concentrations of simvastatin, simvastatin acid, and HMG-CoA reductase inhibitors.\" Clin Pharmacol Ther 64 (1998):  477-83|Fuhr U, Maier-Bruggemann A, Blume H, et al. \"Grapefruit juice increases oral nimodipine bioavailability.\" Int J Clin Pharmacol Ther 36 (1998):  126-32|Lilja JJ, Kivisto KT, Neuvonen PJ \"Grapefruit juice increases serum concentrations of atorvastatin and has no effect on pravastatin.\" Clin Pharmacol Ther 66 (1999):  118-27|Eagling VA, Profit L, Back DJ \"Inhibition of the CYP3A4-mediated metabolism and P-glycoprotein-mediated transport of the HIV-I protease inhibitor saquinavir by grapefruit juice components.\" Br J Clin Pharmacol 48 (1999):  543-52|Damkier P, Hansen LL, Brosen K \"Effect of diclofenac, disulfiram, itraconazole, grapefruit juice and erythromycin on the pharmacokinetics of quinidine.\" Br J Clin Pharmacol 48 (1999):  829-38|Lee AJ, Chan WK, Harralson AF, Buffum J, Bui BCC \"The effects of grapefruit juice on sertraline metabolism: An in vitro and in vivo study.\" Clin Ther 21 (1999):  1890-9|Dresser GK, Spence JD, Bailey DG \"Pharmacokinetic-pharmacodynamic consequences and clinical relevance of cytochrome P450 3A4 inhibition.\" Clin Pharmacokinet 38 (2000):  41-57|Gunston GD, Mehta U \"Potentially serious drug interactions with grapefruit juice.\" S Afr Med J 90 (2000):  41|Takanaga H, Ohnishi A, Maatsuo H, et al. \"Pharmacokinetic analysis of felodipine-grapefruit juice interaction based on an irreversible enzyme inhibition model.\" Br J Clin Pharmacol 49 (2000):  49-58|Libersa CC, Brique SA, Motte KB, et al. \"Dramatic inhibition of amiodarone metabolism induced by grapefruit juice.\" Br J Clin Pharmacol 49 (2000):  373-8|Bailey DG, Dresser GR, Kreeft JH, Munoz C, Freeman DJ, Bend JR \"Grapefruit-felodipine interaction: Effect of unprocessed fruit and probable active ingredients.\" Clin Pharmacol Ther 68 (2000):  468-77|Zaidenstein R, Soback S, Gips M, Avni B, Dishi V, Weissgarten Y, Golik A, Scapa E \"Effect of grapefruit juice on the pharmacokinetics of losartan and its active metabolite E3174 in healthy volunteers.\" Ther Drug Monit 23 (2001):  369-73|Sato J, Nakata H, Owada E, Kikuta T, Umetsu M, Ito K \"Influence of usual intake of dietary caffeine on single-dose kinetics of theophylline in healthy human subjects.\" Eur J Clin Pharmacol 44 (1993):  295-8|Flanagan D \"Understanding the grapefruit-drug interaction.\" Gen Dent 53 (2005):  282-5; quiz 286"
+      }
+    ],
+    "Vigabatrin": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Alcohol may potentiate some of the pharmacologic effects of CNS-active agents.  Use in combination may result in additive central nervous system depression and/or impairment of judgment, thinking, and psychomotor skills.",
+        "management": "Patients receiving CNS-active agents should be warned of this interaction and advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled to avoid hazardous activities requiring complete mental alertness and motor coordination until they know how these agents affect them, and to notify their physician if they experience excessive or prolonged CNS effects that interfere with their normal activities.",
+        "references": "Warrington SJ, Ankier SI, Turner P \"Evaluation of possible interactions between ethanol and trazodone or amitriptyline.\" Neuropsychobiology 15 (1986):  31-7|Gilman AG, eds., Nies AS, Rall TW, Taylor P \"Goodman and Gilman's the Pharmacological Basis of Therapeutics.\" New York, NY: Pergamon Press Inc.  (1990):|\"Product Information. Fycompa (perampanel).\" Eisai Inc  (2012):|\"Product Information. Rexulti (brexpiprazole).\" Otsuka American Pharmaceuticals Inc  (2015):"
+      }
+    ],
+    "Tetrabenazine": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Alcohol may potentiate some of the pharmacologic effects of CNS-active agents.  Use in combination may result in additive central nervous system depression and/or impairment of judgment, thinking, and psychomotor skills.",
+        "management": "Patients receiving CNS-active agents should be warned of this interaction and advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled to avoid hazardous activities requiring complete mental alertness and motor coordination until they know how these agents affect them, and to notify their physician if they experience excessive or prolonged CNS effects that interfere with their normal activities.",
+        "references": "Warrington SJ, Ankier SI, Turner P \"Evaluation of possible interactions between ethanol and trazodone or amitriptyline.\" Neuropsychobiology 15 (1986):  31-7|Gilman AG, eds., Nies AS, Rall TW, Taylor P \"Goodman and Gilman's the Pharmacological Basis of Therapeutics.\" New York, NY: Pergamon Press Inc.  (1990):|\"Product Information. Fycompa (perampanel).\" Eisai Inc  (2012):|\"Product Information. Rexulti (brexpiprazole).\" Otsuka American Pharmaceuticals Inc  (2015):"
+      }
+    ],
+    "Voriconazole": [
+      {
+        "food": "high-fat foods",
+        "food_zh": "high-fat foods",
+        "severity": "Moderate",
+        "mechanism": "Absorption",
+        "interaction": "Food reduces the oral absorption and bioavailability of voriconazole.  According to the product labeling, administration of multiple doses of voriconazole with high-fat meals decreased the mean peak plasma concentration (Cmax) and area under the concentration-time curve (AUC) by 34% and 24%, respectively, when the drug is administered as a tablet, and by 58% and 37%, respectively, when administered as the oral suspension.",
+        "management": "To ensure maximal oral absorption, voriconazole tablets and oral suspension should be taken at least one hour before or after a meal.",
+        "references": "\"Product Information. VFEND (voriconazole).\" Pfizer U.S. Pharmaceuticals  (2002):|Wohlt PD, Zheng L, Gunderson S, Balzar SA, Johnson BD, Fish JT \"Recommendations for the use of medications with continuous enteral nutrition.\" Am J Health Syst Pharm 66 (2009):  1438-67"
+      }
+    ],
+    "Trabectedin": [
+      {
+        "food": "grapefruit juice",
+        "food_zh": "葡萄柚汁",
+        "severity": "Moderate",
+        "mechanism": "Metabolism",
+        "interaction": "Coadministration with grapefruit juice may increase the plasma concentrations of trabectedin.  The proposed mechanism is inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by certain compounds present in grapefruit.",
+        "management": "Consumption of grapefruit or grapefruit juice during treatment with trabectedin should be avoided.  Excessive use of alcohol is also not recommended.  Patients should be advised to seek medical attention if they experience potential signs and symptoms of hepatotoxicity such as fever, rash, itching, anorexia, nausea, vomiting, fatigue, malaise, right upper quadrant pain, dark urine, pale stools, and jaundice.  Monitoring of alkaline phosphatase, bilirubin, AST, and ALT should occur regularly during trabectedin treatment in accordance with the product labeling, or as often as necessary when clinical symptoms develop.  Trabectedin must not be used in patients with elevated bilirubin at the time of initiation of cycle.  Elevated liver function tests should be managed with treatment interruption, dosage reduction, or permanent discontinuation depending on the severity and duration of abnormality.",
+        "references": "Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0|\"Product Information. Yondelis (trabectedin).\" Janssen Pharmaceuticals  (2010):"
+      }
+    ],
+    "Leflunomide": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "The consumption of alcohol during therapy with leflunomide may potentiate the risk of liver injury.",
+        "management": "Patients should be advised to avoid excessive alcohol use during leflunomide treatment.",
+        "references": "Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0|Canadian Pharmacists Association \"e-CPS.  http://www.pharmacists.ca/function/Subscriptions/ecps.cfm?link=eCPS_quikLink\"   (2006):|Cerner Multum, Inc. \"Australian Product Information.\" O 0"
+      }
+    ],
+    "Carisoprodol": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Alcohol may potentiate some of the pharmacologic effects of CNS-active agents.  Use in combination may result in additive central nervous system depression and/or impairment of judgment, thinking, and psychomotor skills.",
+        "management": "Patients receiving CNS-active agents should be warned of this interaction and advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled to avoid hazardous activities requiring complete mental alertness and motor coordination until they know how these agents affect them, and to notify their physician if they experience excessive or prolonged CNS effects that interfere with their normal activities.",
+        "references": "Warrington SJ, Ankier SI, Turner P \"Evaluation of possible interactions between ethanol and trazodone or amitriptyline.\" Neuropsychobiology 15 (1986):  31-7|Gilman AG, eds., Nies AS, Rall TW, Taylor P \"Goodman and Gilman's the Pharmacological Basis of Therapeutics.\" New York, NY: Pergamon Press Inc.  (1990):|\"Product Information. Fycompa (perampanel).\" Eisai Inc  (2012):|\"Product Information. Rexulti (brexpiprazole).\" Otsuka American Pharmaceuticals Inc  (2015):"
+      }
+    ],
+    "Tinidazole": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Metabolism",
+        "interaction": "Use of alcohol or products containing alcohol during nitroimidazole therapy may result in a disulfiram-like reaction in some patients.",
+        "management": "Because clear evidence is lacking concerning the safety of ethanol use during nitroimidazole therapy, patients should be apprised of the potential for interaction and instructed to avoid alcoholic beverages and products containing alcohol or propylene glycol while using oral, intravenous, or vaginal preparations of a nitroimidazole.  Alcoholic beverages should not be consumed for up to 3 days after completion of systemic nitroimidazole therapy.",
+        "references": "Giannini AJ, DeFrance DT \"Metronidazole and alcohol: potential for combinative abuse.\" J Toxicol Clin Toxicol 20 (1983):  509-15|Alexander I \"Alcohol-antabuse syndrome in patients receiving metronidazole during gynaecological treatment.\" Br J Clin Pract 39 (1985):  292-3|Harries DP, Teale KF, Sunderland G \"Metronidazole and alcohol: potential problems.\" Scott Med J 35 (1990):  179-80|Edwards DL, Fink PC, Van Dyke PO \"Disulfiram-like reaction associated with intravenous trimethoprim-sulfamethoxazole and metronidazole.\" Clin Pharm 5 (1986):  999-1000|\"Product Information. Flagyl (metronidazole).\" Searle  (2002):|Williams CS, Woodcock KR \"Do ethanol and metronidazole interact to produce a disulfiram-like reaction?.\" Ann Pharmacother 34 (2000):  255-7|Visapaa JP, Tillonen JS, Kaihovaara PS, Salaspuro MP \"Lack of disulfiram-like reaction with metronidazole and ethanol.\" Ann Pharmacother 36 (2002):  971-4|Krulewitch CJ \"An unexpected adverse drug effect.\" J Midwifery Womens Health 48 (2003):  67-8|\"Product Information. Tindamax (tinidazole).\" Presutti Laboratories Inc  (2004):"
+      }
+    ],
+    "Regorafenib": [
+      {
+        "food": "high-fat foods",
+        "food_zh": "high-fat foods",
+        "severity": "Moderate",
+        "mechanism": "Absorption",
+        "interaction": "Depending on the amount of fat, food may enhance the oral bioavailability of both regorafenib and its active metabolites, M-2 and M-5.",
+        "management": "To ensure optimal oral absorption, regorafenib should be administered with a low-fat breakfast that contains less than 30% fat.  Examples of a low-fat breakfast include:  2 slices of white toast with 1 tablespoon of low-fat margarine and 1 tablespoon of jelly, plus 8 ounces of skim milk (319 calories; 8.2 g fat); or 1 cup of cereal, 8 ounces of skim milk, 1 slice of toast with jam, apple juice, and 1 cup of coffee or tea (520 calories; 2 g fat).  Patients should be advised to avoid consuming grapefruit or grapefruit juice during treatment with regorafenib.",
+        "references": "\"Product Information. Stivarga (regorafenib).\" Bayer Pharmaceutical Inc  (2012):"
+      },
+      {
+        "food": "grapefruit juice",
+        "food_zh": "葡萄柚汁",
+        "severity": "Moderate",
+        "mechanism": "Others",
+        "interaction": "Depending on the amount of fat, food may enhance the oral bioavailability of both regorafenib and its active metabolites, M-2 and M-5.",
+        "management": "To ensure optimal oral absorption, regorafenib should be administered with a low-fat breakfast that contains less than 30% fat.  Examples of a low-fat breakfast include:  2 slices of white toast with 1 tablespoon of low-fat margarine and 1 tablespoon of jelly, plus 8 ounces of skim milk (319 calories; 8.2 g fat); or 1 cup of cereal, 8 ounces of skim milk, 1 slice of toast with jam, apple juice, and 1 cup of coffee or tea (520 calories; 2 g fat).  Patients should be advised to avoid consuming grapefruit or grapefruit juice during treatment with regorafenib.",
+        "references": "\"Product Information. Stivarga (regorafenib).\" Bayer Pharmaceutical Inc  (2012):"
+      }
+    ],
+    "Ritonavir": [
+      {
+        "food": "high-fat foods",
+        "food_zh": "high-fat foods",
+        "severity": "Moderate",
+        "mechanism": "Absorption",
+        "interaction": "Administration with food may modestly affect the bioavailability of ritonavir from the various available formulations.  When the oral solution was given under nonfasting conditions, peak ritonavir concentrations decreased 23% and the extent of absorption decreased 7% relative to fasting conditions.  Dilution of the oral solution (within one hour of dosing) with 240 mL of chocolate milk or a nutritional supplement (Advera or Ensure) did not significantly affect the extent and rate of ritonavir absorption.  When a single 100 mg dose of the tablet was administered with a high-fat meal (907 kcal; 52% fat, 15% protein, 33% carbohydrates), approximately 20% decreases in mean peak concentration (Cmax) and systemic exposure (AUC) were observed relative to administration after fasting.  Similar decreases in Cmax and AUC were reported when the tablet was administered with a moderate-fat meal.  In contrast, the extent of absorption of ritonavir from the soft gelatin capsule formulation was 13% higher when administered with a meal (615 KCal; 14.5% fat, 9% protein, and 76% carbohydrate) relative to fasting.",
+        "management": "Ritonavir should be taken with meals to enhance gastrointestinal tolerability.",
+        "references": "\"Product Information. Norvir (ritonavir).\" Abbott Pharmaceutical  (2001):"
+      }
+    ],
+    "Pimozide": [
+      {
+        "food": "grapefruit juice",
+        "food_zh": "葡萄柚汁",
+        "severity": "Minor",
+        "mechanism": "Metabolism",
+        "interaction": "Theoretically, the coadministration with grapefruit juice may increase the plasma concentrations of pimozide.  The mechanism is decreased clearance of pimozide due to inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by certain compounds present in grapefruits.",
+        "management": "The manufacturer recommends avoiding grapefruit juice (and probably grapefruits) during therapy with pimozide.  Patients should also be advised to avoid or limit consumption of alcohol.",
+        "references": "\"Product Information. Orap (pimozide).\" Gate Pharmaceuticals|Dresser GK, Spence JD, Bailey DG \"Pharmacokinetic-pharmacodynamic consequences and clinical relevance of cytochrome P450 3A4 inhibition.\" Clin Pharmacokinet 38 (2000):  41-57"
+      },
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Minor",
+        "mechanism": "Metabolism",
+        "interaction": "Theoretically, the coadministration with grapefruit juice may increase the plasma concentrations of pimozide.  The mechanism is decreased clearance of pimozide due to inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by certain compounds present in grapefruits.",
+        "management": "The manufacturer recommends avoiding grapefruit juice (and probably grapefruits) during therapy with pimozide.  Patients should also be advised to avoid or limit consumption of alcohol.",
+        "references": "\"Product Information. Orap (pimozide).\" Gate Pharmaceuticals|Dresser GK, Spence JD, Bailey DG \"Pharmacokinetic-pharmacodynamic consequences and clinical relevance of cytochrome P450 3A4 inhibition.\" Clin Pharmacokinet 38 (2000):  41-57"
+      }
+    ],
+    "Dronedarone": [
+      {
+        "food": "grapefruit juice",
+        "food_zh": "葡萄柚汁",
+        "severity": "Minor",
+        "mechanism": "Metabolism",
+        "interaction": "Grapefruit juice may increase the plasma concentrations of dronedarone.  The proposed mechanism is inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by certain compounds present in grapefruits.  According to the product labeling, administration with grapefruit juice resulted in a 2.5-fold increase in dronedarone peak plasma concentration and a 3-fold increase in systemic exposure.  Because dronedarone is associated with concentration-dependent prolongation of the QT interval, increased levels may potentiate the risk of ventricular arrhythmias such as torsade de pointes and sudden death.",
+        "management": "Patients treated with dronedarone should avoid consumption of grapefruit, grapefruit juice, and any supplement containing grapefruit extract.  Dronedarone should be taken twice daily with the morning and evening meals.",
+        "references": "\"Product Information. Multaq (dronedarone).\" sanofi-aventis  (2009):"
+      }
+    ],
+    "Insulin Lispro": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Others",
+        "interaction": "Alcohol may cause hypoglycemia or hyperglycemia in patients with diabetes.  Hypoglycemia most frequently occurs during acute consumption of alcohol.  Even modest amounts can lower blood sugar significantly, especially when the alcohol is ingested on an empty stomach or following exercise.  The mechanism involves inhibition of both gluconeogenesis as well as the counter-regulatory response to hypoglycemia.",
+        "management": "Patients with diabetes should avoid consuming alcohol if their blood glucose is not well controlled, or if they have hypertriglyceridemia, neuropathy, or pancreatitis.  Patients with well controlled diabetes should limit their alcohol intake to one drink daily for women and two drinks daily for men (1 drink = 5 oz wine, 12 oz beer, or 1.5 oz distilled spirits) in conjunction with their normal meal plan.  Alcohol should not be consumed on an empty stomach or following exercise.",
+        "references": "Jerntorp P, Almer LO \"Chlorpropamide-alcohol flushing in relation to macroangiopathy and peripheral neuropathy in non-insulin dependent diabetes.\" Acta Med Scand 656 (1981):  33-6|Jerntorp P, Almer LO, Holin H, et al. \"Plasma chlorpropamide: a critical factor in chlorpropamide-alcohol flush.\" Eur J Clin Pharmacol 24 (1983):  237-42|Barnett AH, Spiliopoulos AJ, Pyke DA, et al. \"Metabolic studies in chlorpropamide-alcohol flush positive and negative type 2 (non-insulin dependent) diabetic patients with and without retinopathy.\" Diabetologia 24 (1983):  213-5|Hartling SG, Faber OK, Wegmann ML, Wahlin-Boll E, Melander A \"Interaction of ethanol and glipizide in humans.\" Diabetes Care 10 (1987):  683-6|\"Product Information. Diabinese (chlorpropamide).\" Pfizer U.S. Pharmaceuticals  (2002):|\"Product Information. Glucotrol (glipizide).\" Pfizer U.S. Pharmaceuticals  (2002):|\"Product Information. Diabeta (glyburide).\" Hoechst Marion-Roussel Inc, Kansas City, MO.|Skillman TG, Feldman JM \"The pharmacology of sulfonylureas.\" Am J Med 70 (1981):  361-72|\"Position Statement: evidence-based nutrition principles and recommendations for the treatment and prevention of diabetes related complications. American Diabetes Association.\" Diabetes Care 25(Suppl 1) (2002):  S50-S60|Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0"
+      }
+    ],
+    "Docetaxel": [
+      {
+        "food": "grapefruit juice",
+        "food_zh": "葡萄柚汁",
+        "severity": "Minor",
+        "mechanism": "Metabolism",
+        "interaction": "Coadministration with inhibitors of CYP450 3A4, such as grapefruit juice, may significantly increase the plasma concentrations of docetaxel, which is a substrate of the isoenzyme.  Current data suggest that consumption of large quantities of grapefruit juice inhibit both intestinal and hepatic CYP450 3A4 due to certain compounds present in grapefruit.",
+        "management": "The use of docetaxel in combination with grapefruit and grapefruit juice should generally be avoided.  If concomitant use is required, a reduced dosage of docetaxel should be considered, particularly if used with large amounts of grapefruit juice, and therapeutic drug monitoring of docetaxel considered per local treatment protocols.  Patients should be closely monitored for the development of docetaxel toxicity such as myelosuppression, stomatitis, neurotoxicity (e.g., paraesthesia, dysesthesia, pain), myalgia, asthenia, fluid retention, nausea, vomiting, and diarrhea.",
+        "references": "\"Product Information. Taxotere (docetaxel).\" Rhone Poulenc Rorer  (2001):|Aronson JK, Grahame-Smith DG \"Clinical pharmacology: adverse drug interactions.\" Br Med J 282 (1981):  288-91|McInnes GT, Brodie MJ \"Drug interactions that matter: a critical reappraisal.\" Drugs 36 (1988):  83-110|Cerner Multum, Inc. \"UK Summary of Product Characteristics.\" O 0|Yong WP, Wang LZ, Tham LS, et al. \"A phase I study of docetaxel with ketoconazole modulation in patients with advanced cancers.\" Cancer Chemother Pharmacol 62 (2008):  243-51|Cerner Multum, Inc. \"Australian Product Information.\" O 0|Engels FK, Mathot RA, Loos WJ, van Schaik RH, Verweij J \"Influence of high-dose ketoconazole on the pharmacokinetics of docetaxel.\" Cancer Biol Ther 5 (2006):  833-9|Valenzuela B, Rebollo J, Perez T, Brugarolas A, Perez-Ruixo JJ \"Effect of grapefruit juice on the pharmacokinetics of docetaxel in cancer patients: a case report.\" Br J Clin Pharmacol  (2011):|Starr SP, Hammann F, Gotta V, et al. \"Pharmacokinetic interaction between taxanes and amiodarone leading to severe toxicity.\" Br J Clin Pharmacol 450 (2016):  22-27"
+      }
+    ],
+    "Ribavirin": [
+      {
+        "food": "high-fat foods",
+        "food_zh": "high-fat foods",
+        "severity": "Moderate",
+        "mechanism": "Absorption",
+        "interaction": "Food enhances the oral absorption and bioavailability of ribavirin.  Administration of a single oral dose of ribavirin following a high-fat meal delayed absorption (Tmax was doubled) but increased the mean peak plasma concentration (Cmax) and area under the concentration-time curve (AUC) by up to 70% compared to administration in the fasting state.",
+        "management": "To ensure maximal oral absorption, ribavirin should be administered with or immediately after a meal.",
+        "references": "\"Product Information. Copegus (ribavirin).\" Roche Laboratories  (2003):|\"Product Information. Rebetol (ribavirin).\" Schering-Plough Corporation  (2004):"
+      }
+    ],
+    "Zanubrutinib": [
+      {
+        "food": "grapefruit juice",
+        "food_zh": "葡萄柚汁",
+        "severity": "Minor",
+        "mechanism": "Metabolism",
+        "interaction": "Grapefruit and/or grapefruit juice may increase the plasma concentrations of zanubrutinib.  The proposed mechanism is inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by certain compounds present in grapefruit.  Inhibition of hepatic CYP450 3A4 may also contribute.",
+        "management": "Zanubrutinib may be administered with or without food.  Patients should avoid consumption of grapefruit, grapefruit juice, Seville oranges, and Seville orange juice during treatment with zanubrutinib.",
+        "references": "\"Product Information. Brukinsa (zanubrutinib).\" BeiGene USA, Inc  (2023):|\"Product Information. Brukinsa (zanubrutinib).\" Innomar Strategies Inc.  (2022):|\"Product Information. Brukinsa (zanubrutinib).\" Beigene Aus Pty Ltd  (2022):"
+      }
+    ],
+    "Ropinirole": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Alcohol may potentiate some of the pharmacologic effects of CNS-active agents.  Use in combination may result in additive central nervous system depression and/or impairment of judgment, thinking, and psychomotor skills.",
+        "management": "Patients receiving CNS-active agents should be warned of this interaction and advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled to avoid hazardous activities requiring complete mental alertness and motor coordination until they know how these agents affect them, and to notify their physician if they experience excessive or prolonged CNS effects that interfere with their normal activities.",
+        "references": "Warrington SJ, Ankier SI, Turner P \"Evaluation of possible interactions between ethanol and trazodone or amitriptyline.\" Neuropsychobiology 15 (1986):  31-7|Gilman AG, eds., Nies AS, Rall TW, Taylor P \"Goodman and Gilman's the Pharmacological Basis of Therapeutics.\" New York, NY: Pergamon Press Inc.  (1990):|\"Product Information. Fycompa (perampanel).\" Eisai Inc  (2012):|\"Product Information. Rexulti (brexpiprazole).\" Otsuka American Pharmaceuticals Inc  (2015):"
+      }
+    ],
+    "Griseofulvin": [
+      {
+        "food": "alcohol",
+        "food_zh": "酒精",
+        "severity": "Moderate",
+        "mechanism": "Synergy",
+        "interaction": "Isolated case reports have suggested that the ingestion of alcohol during griseofulvin therapy may rarely cause disulfiram-like reactions, flushing, tachycardia, or increased effects of alcohol.",
+        "management": "Patients should be advised of the possibility of increased adverse effects or a disulfiram-like reaction.",
+        "references": "\"Product Information. Grifulvin V (griseofulvin).\" Ortho McNeil Pharmaceutical|\"Product Information. Fulvicin P/G (griseofulvin).\" Schering Corporation  (2002):|Cerner Multum, Inc. \"Australian Product Information.\" O 0"
+      }
+    ]
+  }
+}
