@@ -1,18 +1,33 @@
 """Data collectors for evidence gathering."""
 
 from .base import BaseCollector, CollectorResult
+from .bundle import BundleAggregator, CandidateInfo, EvidenceBundle
 from .clinicaltrials import ClinicalTrialsCollector
+from .drug_bundle import (
+    CollectionStatus,
+    DrugBundle,
+    DrugBundleAggregator,
+)
 from .drugbank import DrugBankCollector
 from .ictrp import ICTRPCollector
 from .pubmed import PubMedCollector
-from .cdsco import CDSCOCollector
+
+try:
+    from .cdsco import CDSCOCollector
+except ImportError:
+    pass
 
 __all__ = [
     "BaseCollector",
     "CollectorResult",
+    "BundleAggregator",
+    "CandidateInfo",
+    "EvidenceBundle",
     "ClinicalTrialsCollector",
+    "CollectionStatus",
+    "DrugBundle",
+    "DrugBundleAggregator",
     "DrugBankCollector",
     "ICTRPCollector",
     "PubMedCollector",
-    "CDSCOCollector",
 ]

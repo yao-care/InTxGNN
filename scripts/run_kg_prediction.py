@@ -84,7 +84,7 @@ def main():
     # 5. Drug repurposing prediction
     print("Step 5/5: Running drug repurposing prediction...")
     candidates = find_repurposing_candidates(drug_mapping, indication_mapping)
-    output_path = processed_dir / "repurposing_candidates.csv"
+    output_path = processed_dir / "repurposing_candidates.csv.gz"
     candidates.to_csv(output_path, index=False)
 
     # Generate report
