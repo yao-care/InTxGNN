@@ -52,8 +52,7 @@ data/*.csv
 data/node.csv
 data/kg.csv
 
-# Keep external vocabulary files
-!data/external/
+# External vocabulary files are generated, not tracked
 
 # News data (generated)
 data/news/google_rss.json
