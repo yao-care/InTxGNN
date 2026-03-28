@@ -1,3 +1,10 @@
+# === Data directory (standard TwTxGNN pattern) ===
+/data/*
+!/data/cache/
+/data/cache/*
+!/data/cache/.gitkeep
+!/data/news/
+
 # Python
 __pycache__/
 *.py[cod]
@@ -46,20 +53,10 @@ Thumbs.db
 htmlcov/
 
 # Data files (large files, download separately)
-data/raw/*.csv
-data/raw/*.json
-data/*.csv
-data/node.csv
-data/kg.csv
 
 # External vocabulary files are generated, not tracked
 
-# News data (generated)
-data/news/google_rss.json
-data/news/matched_news.json
 
-# Processed data (generated)
-data/processed/
 
 # Jekyll
 docs/_site/
@@ -77,18 +74,5 @@ credentials.json
 *.log
 logs/
 
-# Large files - exclude from git
-/data/*
-!/data/cache/
-/data/cache/*
-!/data/cache/.gitkeep
-!/data/news/
-!/data/processed/
-!/data/external/
 model_ckpt/
 .venv/
-
-# Large prediction files (>100MB) - must be excluded
-data/processed/txgnn_dl_predictions.csv
-data/processed/txgnn_checkpoint.csv
-data/complex_disease_42/

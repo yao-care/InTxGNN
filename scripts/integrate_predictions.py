@@ -97,7 +97,10 @@ def load_drug_mapping() -> pd.DataFrame:
     # Keep only successful mappings
     if MAPPING_COLS["success"] in mapping.columns:
         mapping = mapping[mapping[MAPPING_COLS["success"]] == True]
-    print(f"  Mapped drugs: {len(mapping):,}")
+    print(f"  Mapped products (raw): {len(mapping):,}")
+    # Deduplicate: keep first product per DrugBank ID to avoid cross-join explosion
+    mapping = mapping.drop_duplicates(subset=[MAPPING_COLS["drugbank_id"]], keep="first")
+    print(f"  Mapped drugs (deduped): {len(mapping):,}")
     print(f"  Unique DrugBank IDs: {mapping[MAPPING_COLS['drugbank_id']].nunique():,}")
     return mapping
 
