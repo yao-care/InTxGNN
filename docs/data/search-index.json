@@ -1,7 +1,6877 @@
 {
-  "generated": "2026-03-23",
-  "drug_count": 0,
-  "indication_count": 0,
-  "drugs": [],
-  "indications": []
+  "generated": "2026-03-24",
+  "drug_count": 40,
+  "indication_count": 244,
+  "drugs": [
+    {
+      "name": "Camphor",
+      "slug": "camphor",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "migraine disorder",
+          "score": 99.85,
+          "level": "L4"
+        },
+        {
+          "name": "migraine with brainstem aura",
+          "score": 99.79,
+          "level": "L5"
+        },
+        {
+          "name": "erectile dysfunction (disease)",
+          "score": 99.79,
+          "level": "L4"
+        },
+        {
+          "name": "pulmonary hypertension",
+          "score": 99.77,
+          "level": "L1"
+        },
+        {
+          "name": "migraine with or without aura, susceptibility to",
+          "score": 99.73,
+          "level": "L4"
+        },
+        {
+          "name": "kyphoscoliotic heart disease",
+          "score": 99.7,
+          "level": "L5"
+        },
+        {
+          "name": "ulerythema ophryogenesis",
+          "score": 99.6,
+          "level": "L5"
+        },
+        {
+          "name": "Raynaud disease",
+          "score": 99.56,
+          "level": "L4"
+        },
+        {
+          "name": "atrophoderma vermiculata",
+          "score": 99.54,
+          "level": "L5"
+        },
+        {
+          "name": "Tourette syndrome",
+          "score": 99.46,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Remdesivir",
+      "slug": "remdesivir",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "multiple endocrine neoplasia",
+          "score": 99.5,
+          "level": "L5"
+        },
+        {
+          "name": "HIV infectious disease",
+          "score": 99.32,
+          "level": "L1"
+        },
+        {
+          "name": "simian immunodeficiency virus infection",
+          "score": 99.07,
+          "level": "L5"
+        },
+        {
+          "name": "feline acquired immunodeficiency syndrome",
+          "score": 99.07,
+          "level": "L5"
+        },
+        {
+          "name": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
+          "score": 99.03,
+          "level": "L5"
+        },
+        {
+          "name": "homozygous familial hypercholesterolemia",
+          "score": 99.03,
+          "level": "L5"
+        },
+        {
+          "name": "Prinzmetal angina",
+          "score": 98.34,
+          "level": "L5"
+        },
+        {
+          "name": "leprosy",
+          "score": 97.37,
+          "level": "L4"
+        },
+        {
+          "name": "antithrombin deficiency type 2",
+          "score": 97.25,
+          "level": "L5"
+        },
+        {
+          "name": "cytomegalovirus infection",
+          "score": 97.08,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Choline salicylate",
+      "slug": "choline_salicylate",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "Prinzmetal angina",
+          "score": 99.84,
+          "level": "L5"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 99.82,
+          "level": "L5"
+        },
+        {
+          "name": "hypertensive disorder",
+          "score": 99.81,
+          "level": "L1"
+        },
+        {
+          "name": "migraine disorder",
+          "score": 99.8,
+          "level": "L3"
+        },
+        {
+          "name": "pulmonary hypertension owing to lung disease and/or hypoxia",
+          "score": 99.77,
+          "level": "L4"
+        },
+        {
+          "name": "pulmonary hypertension with unclear multifactorial mechanism",
+          "score": 99.77,
+          "level": "L5"
+        },
+        {
+          "name": "malignant hypertensive renal disease",
+          "score": 99.77,
+          "level": "L5"
+        },
+        {
+          "name": "malignant renovascular hypertension",
+          "score": 99.77,
+          "level": "L5"
+        },
+        {
+          "name": "Raynaud disease",
+          "score": 99.76,
+          "level": "L5"
+        },
+        {
+          "name": "pulmonary hypertension",
+          "score": 99.75,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Epalrestat",
+      "slug": "epalrestat",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "type 2 diabetes nephropathy",
+          "score": 99.16,
+          "level": "L4"
+        },
+        {
+          "name": "Tay-Sachs disease",
+          "score": 98.7,
+          "level": "L5"
+        },
+        {
+          "name": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
+          "score": 98.63,
+          "level": "L5"
+        },
+        {
+          "name": "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant",
+          "score": 98.59,
+          "level": "L5"
+        },
+        {
+          "name": "Gaucher disease",
+          "score": 98.54,
+          "level": "L5"
+        },
+        {
+          "name": "adult Krabbe disease",
+          "score": 98.4,
+          "level": "L5"
+        },
+        {
+          "name": "cholesterol metabolism disease",
+          "score": 98.39,
+          "level": "L4"
+        },
+        {
+          "name": "infantile neuronal ceroid lipofuscinosis",
+          "score": 98.39,
+          "level": "L5"
+        },
+        {
+          "name": "autosomal ichthyosis syndrome with fatal disease course",
+          "score": 98.34,
+          "level": "L5"
+        },
+        {
+          "name": "familial generalized lentiginosis",
+          "score": 98.32,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Metamizole",
+      "slug": "metamizole",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "rheumatoid arthritis",
+          "score": 99.78,
+          "level": "L4"
+        },
+        {
+          "name": "migraine disorder",
+          "score": 99.72,
+          "level": "L1"
+        },
+        {
+          "name": "migraine with or without aura, susceptibility to",
+          "score": 99.7,
+          "level": "L4"
+        },
+        {
+          "name": "exostosis",
+          "score": 99.69,
+          "level": "L2"
+        },
+        {
+          "name": "migraine with brainstem aura",
+          "score": 99.67,
+          "level": "L4"
+        },
+        {
+          "name": "gout",
+          "score": 99.62,
+          "level": "L4"
+        },
+        {
+          "name": "antithrombin deficiency type 2",
+          "score": 99.62,
+          "level": "L5"
+        },
+        {
+          "name": "brachydactyly-syndactyly syndrome",
+          "score": 99.61,
+          "level": "L5"
+        },
+        {
+          "name": "tendinitis",
+          "score": 99.6,
+          "level": "L5"
+        },
+        {
+          "name": "factor 5 excess with spontaneous thrombosis",
+          "score": 99.6,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Lynestrenol",
+      "slug": "lynestrenol",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "migraine with or without aura, susceptibility to",
+          "score": 99.51,
+          "level": "L4"
+        },
+        {
+          "name": "migraine disorder",
+          "score": 99.49,
+          "level": "L4"
+        },
+        {
+          "name": "migraine with brainstem aura",
+          "score": 99.35,
+          "level": "L4"
+        },
+        {
+          "name": "insomnia (disease)",
+          "score": 99.08,
+          "level": "L5"
+        },
+        {
+          "name": "leprosy",
+          "score": 99.04,
+          "level": "L5"
+        },
+        {
+          "name": "atrophoderma vermiculata",
+          "score": 98.88,
+          "level": "L5"
+        },
+        {
+          "name": "ulerythema ophryogenesis",
+          "score": 98.56,
+          "level": "L5"
+        },
+        {
+          "name": "pulmonary hypertension",
+          "score": 98.52,
+          "level": "L5"
+        },
+        {
+          "name": "kyphoscoliotic heart disease",
+          "score": 98.35,
+          "level": "L5"
+        },
+        {
+          "name": "Prinzmetal angina",
+          "score": 98.12,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Iopromide",
+      "slug": "iopromide",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "osteoarthritis susceptibility",
+          "score": 99.57,
+          "level": "L5"
+        },
+        {
+          "name": "osteoarthritis",
+          "score": 99.53,
+          "level": "L4"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 99.37,
+          "level": "L4"
+        },
+        {
+          "name": "brachyolmia",
+          "score": 99.19,
+          "level": "L5"
+        },
+        {
+          "name": "acromesomelic dysplasia, Hunter-Thompson type",
+          "score": 99.14,
+          "level": "L5"
+        },
+        {
+          "name": "brachyolmia-amelogenesis imperfecta syndrome",
+          "score": 99.12,
+          "level": "L5"
+        },
+        {
+          "name": "alopecia",
+          "score": 99.11,
+          "level": "L5"
+        },
+        {
+          "name": "myosclerosis",
+          "score": 99.09,
+          "level": "L5"
+        },
+        {
+          "name": "hemoglobinopathy",
+          "score": 99.08,
+          "level": "L4"
+        },
+        {
+          "name": "pseudoachondroplasia",
+          "score": 99.06,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Cisatracurium",
+      "slug": "cisatracurium",
+      "brands": [],
+      "original": "",
+      "level": "L2",
+      "indications": [
+        {
+          "name": "cauda equina syndrome",
+          "score": 99.99,
+          "level": "L5"
+        },
+        {
+          "name": "preeclampsia",
+          "score": 99.99,
+          "level": "L2"
+        },
+        {
+          "name": "obsolete neurogenic bladder (disease)",
+          "score": 99.99,
+          "level": "L5"
+        },
+        {
+          "name": "migraine disorder",
+          "score": 99.98,
+          "level": "L5"
+        },
+        {
+          "name": "thrombotic disease",
+          "score": 99.97,
+          "level": "L3"
+        },
+        {
+          "name": "irritable bowel syndrome",
+          "score": 99.97,
+          "level": "L5"
+        },
+        {
+          "name": "migraine with brainstem aura",
+          "score": 99.97,
+          "level": "L5"
+        },
+        {
+          "name": "mild pre-eclampsia",
+          "score": 99.96,
+          "level": "L5"
+        },
+        {
+          "name": "severe pre-eclampsia",
+          "score": 99.95,
+          "level": "L5"
+        },
+        {
+          "name": "neurocirculatory asthenia",
+          "score": 99.95,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Capmatinib",
+      "slug": "capmatinib",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "rheumatoid arthritis",
+          "score": 99.45,
+          "level": "L4"
+        },
+        {
+          "name": "brachydactyly-syndactyly syndrome",
+          "score": 99.03,
+          "level": "L5"
+        },
+        {
+          "name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+          "score": 98.95,
+          "level": "L5"
+        },
+        {
+          "name": "heart disease",
+          "score": 98.64,
+          "level": "L4"
+        },
+        {
+          "name": "Jeune syndrome situs inversus",
+          "score": 98.62,
+          "level": "L5"
+        },
+        {
+          "name": "Pierre Robin syndrome associated with a chromosomal anomaly",
+          "score": 98.58,
+          "level": "L5"
+        },
+        {
+          "name": "orofacial clefting syndrome",
+          "score": 98.58,
+          "level": "L5"
+        },
+        {
+          "name": "Laubry-Pezzi syndrome",
+          "score": 98.57,
+          "level": "L5"
+        },
+        {
+          "name": "interventricular septum aneurysm",
+          "score": 98.55,
+          "level": "L5"
+        },
+        {
+          "name": "hyperthyroidism",
+          "score": 98.55,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Beta carotene",
+      "slug": "beta_carotene",
+      "brands": [],
+      "original": "",
+      "level": "L3",
+      "indications": [
+        {
+          "name": "acne (disease)",
+          "score": 100.0,
+          "level": "L4"
+        },
+        {
+          "name": "severe nonproliferative diabetic retinopathy",
+          "score": 99.99,
+          "level": "L5"
+        },
+        {
+          "name": "diabetic retinopathy",
+          "score": 99.99,
+          "level": "L3"
+        },
+        {
+          "name": "diabetic cataract",
+          "score": 99.99,
+          "level": "L3"
+        },
+        {
+          "name": "cortical cataract",
+          "score": 99.98,
+          "level": "L4"
+        },
+        {
+          "name": "nuclear senile cataract",
+          "score": 99.98,
+          "level": "L5"
+        },
+        {
+          "name": "tetanic cataract",
+          "score": 99.98,
+          "level": "L5"
+        },
+        {
+          "name": "mature cataract",
+          "score": 99.98,
+          "level": "L5"
+        },
+        {
+          "name": "craniostenosis cataract",
+          "score": 99.98,
+          "level": "L5"
+        },
+        {
+          "name": "diabetes mellitus type 2 associated cataract",
+          "score": 99.98,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Ripasudil",
+      "slug": "ripasudil",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "hyperprolactinemia (disease)",
+          "score": 99.87,
+          "level": "L5"
+        },
+        {
+          "name": "Axenfeld anomaly",
+          "score": 99.86,
+          "level": "L5"
+        },
+        {
+          "name": "hydrophthalmos",
+          "score": 99.85,
+          "level": "L5"
+        },
+        {
+          "name": "glaucoma 3, primary infantile, B",
+          "score": 99.81,
+          "level": "L5"
+        },
+        {
+          "name": "familial hyperprolactinemia",
+          "score": 99.79,
+          "level": "L5"
+        },
+        {
+          "name": "dense granule disease",
+          "score": 99.79,
+          "level": "L5"
+        },
+        {
+          "name": "marcothrombocytopenia with mitral valve insufficiency",
+          "score": 99.77,
+          "level": "L5"
+        },
+        {
+          "name": "hereditary thrombocytopenia with normal platelets",
+          "score": 99.77,
+          "level": "L5"
+        },
+        {
+          "name": "transient neonatal thrombocytopenia",
+          "score": 99.77,
+          "level": "L5"
+        },
+        {
+          "name": "thrombocytopenia",
+          "score": 99.73,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Nitroprusside",
+      "slug": "nitroprusside",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "migraine disorder",
+          "score": 99.99,
+          "level": "L4"
+        },
+        {
+          "name": "migraine with brainstem aura",
+          "score": 99.99,
+          "level": "L4"
+        },
+        {
+          "name": "alopecia",
+          "score": 99.99,
+          "level": "L5"
+        },
+        {
+          "name": "congenital hypotrichosis milia",
+          "score": 99.98,
+          "level": "L5"
+        },
+        {
+          "name": "diffuse alopecia areata",
+          "score": 99.98,
+          "level": "L5"
+        },
+        {
+          "name": "hypotrichosis simplex of the scalp",
+          "score": 99.98,
+          "level": "L5"
+        },
+        {
+          "name": "migraine with or without aura, susceptibility to",
+          "score": 99.98,
+          "level": "L4"
+        },
+        {
+          "name": "pulmonary hypertension",
+          "score": 99.98,
+          "level": "L1"
+        },
+        {
+          "name": "benign prostatic hyperplasia (disease)",
+          "score": 99.97,
+          "level": "L5"
+        },
+        {
+          "name": "kyphoscoliotic heart disease",
+          "score": 99.97,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Acyclovir",
+      "slug": "acyclovir",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "punctate epithelial keratoconjunctivitis",
+          "score": 99.67,
+          "level": "L4"
+        },
+        {
+          "name": "common wart",
+          "score": 99.46,
+          "level": "L1"
+        },
+        {
+          "name": "post-infectious neuralgia",
+          "score": 99.25,
+          "level": "L1"
+        },
+        {
+          "name": "hepatitis C induced liver cirrhosis",
+          "score": 99.23,
+          "level": "L4"
+        },
+        {
+          "name": "eosinophilic pustular folliculitis",
+          "score": 99.22,
+          "level": "L4"
+        },
+        {
+          "name": "sequela of COVID-19",
+          "score": 99.16,
+          "level": "L4"
+        },
+        {
+          "name": "vulvovaginal candidiasis",
+          "score": 99.11,
+          "level": "L5"
+        },
+        {
+          "name": "papular urticaria",
+          "score": 99.09,
+          "level": "L5"
+        },
+        {
+          "name": "disease of orbital region",
+          "score": 99.08,
+          "level": "L1"
+        },
+        {
+          "name": "epidemic keratoconjunctivitis",
+          "score": 99.07,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Nimotuzumab",
+      "slug": "nimotuzumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "diabetic cataract",
+          "score": 98.62,
+          "level": "L5"
+        },
+        {
+          "name": "diabetes mellitus type 2 associated cataract",
+          "score": 98.56,
+          "level": "L5"
+        },
+        {
+          "name": "craniostenosis cataract",
+          "score": 98.56,
+          "level": "L5"
+        },
+        {
+          "name": "tetanic cataract",
+          "score": 98.56,
+          "level": "L5"
+        },
+        {
+          "name": "mature cataract",
+          "score": 98.56,
+          "level": "L5"
+        },
+        {
+          "name": "immature cataract",
+          "score": 98.56,
+          "level": "L5"
+        },
+        {
+          "name": "cortical cataract",
+          "score": 98.53,
+          "level": "L5"
+        },
+        {
+          "name": "nuclear senile cataract",
+          "score": 98.53,
+          "level": "L5"
+        },
+        {
+          "name": "senile cataract",
+          "score": 98.48,
+          "level": "L5"
+        },
+        {
+          "name": "diabetic retinopathy",
+          "score": 98.33,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Seratrodast",
+      "slug": "seratrodast",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "migraine with or without aura, susceptibility to",
+          "score": 99.63,
+          "level": "L4"
+        },
+        {
+          "name": "migraine disorder",
+          "score": 99.54,
+          "level": "L5"
+        },
+        {
+          "name": "pulmonary hypertension",
+          "score": 99.47,
+          "level": "L4"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 99.45,
+          "level": "L5"
+        },
+        {
+          "name": "migraine with brainstem aura",
+          "score": 99.43,
+          "level": "L5"
+        },
+        {
+          "name": "kyphoscoliotic heart disease",
+          "score": 99.39,
+          "level": "L5"
+        },
+        {
+          "name": "brachydactyly-syndactyly syndrome",
+          "score": 99.18,
+          "level": "L5"
+        },
+        {
+          "name": "leprosy",
+          "score": 99.06,
+          "level": "L5"
+        },
+        {
+          "name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+          "score": 99.05,
+          "level": "L5"
+        },
+        {
+          "name": "atrophoderma vermiculata",
+          "score": 99.02,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Polidocanol",
+      "slug": "polidocanol",
+      "brands": [],
+      "original": "",
+      "level": "L2",
+      "indications": [
+        {
+          "name": "esophageal varices with bleeding",
+          "score": 99.95,
+          "level": "L2"
+        },
+        {
+          "name": "esophageal varices without bleeding",
+          "score": 99.95,
+          "level": "L2"
+        },
+        {
+          "name": "Immunoerythromyeloid hypoplasia",
+          "score": 99.78,
+          "level": "L5"
+        },
+        {
+          "name": "pigmented paravenous retinochoroidal atrophy",
+          "score": 99.73,
+          "level": "L5"
+        },
+        {
+          "name": "progressive bifocal chorioretinal atrophy",
+          "score": 99.69,
+          "level": "L5"
+        },
+        {
+          "name": "X-linked retinal dysplasia",
+          "score": 99.68,
+          "level": "L5"
+        },
+        {
+          "name": "monosomy X",
+          "score": 99.67,
+          "level": "L5"
+        },
+        {
+          "name": "cone dystrophy",
+          "score": 99.66,
+          "level": "L5"
+        },
+        {
+          "name": "oligocone trichromacy",
+          "score": 99.65,
+          "level": "L5"
+        },
+        {
+          "name": "retinoschisis of fovea",
+          "score": 99.65,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Fluorescein",
+      "slug": "fluorescein",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "Prinzmetal angina",
+          "score": 99.81,
+          "level": "L5"
+        },
+        {
+          "name": "antithrombin deficiency type 2",
+          "score": 99.76,
+          "level": "L5"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 99.74,
+          "level": "L1"
+        },
+        {
+          "name": "factor 5 excess with spontaneous thrombosis",
+          "score": 99.73,
+          "level": "L5"
+        },
+        {
+          "name": "hemoglobinopathy",
+          "score": 99.72,
+          "level": "L4"
+        },
+        {
+          "name": "heparin cofactor 2 deficiency",
+          "score": 99.71,
+          "level": "L5"
+        },
+        {
+          "name": "thrombophilia",
+          "score": 99.67,
+          "level": "L4"
+        },
+        {
+          "name": "hyperthyroidism",
+          "score": 99.59,
+          "level": "L1"
+        },
+        {
+          "name": "partial deletion of the short arm of chromosome 16",
+          "score": 99.59,
+          "level": "L5"
+        },
+        {
+          "name": "beta-thalassemia with other manifestations",
+          "score": 99.58,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Niclosamide",
+      "slug": "niclosamide",
+      "brands": [],
+      "original": "",
+      "level": "L2",
+      "indications": [
+        {
+          "name": "heart disease",
+          "score": 99.88,
+          "level": "L2"
+        },
+        {
+          "name": "Laubry-Pezzi syndrome",
+          "score": 99.87,
+          "level": "L5"
+        },
+        {
+          "name": "Pierre Robin syndrome associated with a chromosomal anomaly",
+          "score": 99.87,
+          "level": "L5"
+        },
+        {
+          "name": "genetic syndromic Pierre Robin syndrome",
+          "score": 99.87,
+          "level": "L5"
+        },
+        {
+          "name": "partial deletion of the long arm of chromosome 7",
+          "score": 99.87,
+          "level": "L5"
+        },
+        {
+          "name": "orofacial clefting syndrome",
+          "score": 99.87,
+          "level": "L5"
+        },
+        {
+          "name": "pulmonary valve disease",
+          "score": 99.87,
+          "level": "L5"
+        },
+        {
+          "name": "interventricular septum aneurysm",
+          "score": 99.87,
+          "level": "L5"
+        },
+        {
+          "name": "Jeune syndrome situs inversus",
+          "score": 99.87,
+          "level": "L5"
+        },
+        {
+          "name": "disorder of fucoglycosan synthesis",
+          "score": 99.86,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Pirfenidone",
+      "slug": "pirfenidone",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "extracutaneous mastocytoma",
+          "score": 99.71,
+          "level": "L5"
+        },
+        {
+          "name": "dermatofibrosarcoma protuberans",
+          "score": 99.41,
+          "level": "L5"
+        },
+        {
+          "name": "aggressive systemic mastocytosis",
+          "score": 99.33,
+          "level": "L5"
+        },
+        {
+          "name": "heart fibrosarcoma",
+          "score": 99.29,
+          "level": "L5"
+        },
+        {
+          "name": "conventional fibrosarcoma",
+          "score": 99.26,
+          "level": "L5"
+        },
+        {
+          "name": "autosomal recessive familial Mediterranean fever",
+          "score": 99.25,
+          "level": "L5"
+        },
+        {
+          "name": "kidney fibrosarcoma",
+          "score": 99.24,
+          "level": "L5"
+        },
+        {
+          "name": "hepatic infarction",
+          "score": 99.24,
+          "level": "L5"
+        },
+        {
+          "name": "fibroblastic neoplasm",
+          "score": 99.23,
+          "level": "L4"
+        },
+        {
+          "name": "low grade fibromyxoid sarcoma",
+          "score": 99.19,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Zaltoprofen",
+      "slug": "zaltoprofen",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "rheumatoid arthritis",
+          "score": 99.92,
+          "level": "L4"
+        },
+        {
+          "name": "migraine with or without aura, susceptibility to",
+          "score": 99.89,
+          "level": "L4"
+        },
+        {
+          "name": "migraine disorder",
+          "score": 99.88,
+          "level": "L5"
+        },
+        {
+          "name": "migraine with brainstem aura",
+          "score": 99.85,
+          "level": "L5"
+        },
+        {
+          "name": "brachydactyly-syndactyly syndrome",
+          "score": 99.84,
+          "level": "L5"
+        },
+        {
+          "name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+          "score": 99.83,
+          "level": "L5"
+        },
+        {
+          "name": "headache disorder",
+          "score": 99.8,
+          "level": "L5"
+        },
+        {
+          "name": "trigeminal autonomic cephalalgia",
+          "score": 99.76,
+          "level": "L5"
+        },
+        {
+          "name": "tendinitis",
+          "score": 99.74,
+          "level": "L4"
+        },
+        {
+          "name": "idiopathic granulomatous myositis",
+          "score": 99.73,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Glutathione",
+      "slug": "glutathione",
+      "brands": [],
+      "original": "",
+      "level": "L2",
+      "indications": [
+        {
+          "name": "sclerosing cholangitis",
+          "score": 98.14,
+          "level": "L4"
+        },
+        {
+          "name": "myelodysplastic syndrome",
+          "score": 97.48,
+          "level": "L2"
+        },
+        {
+          "name": "unclassified myelodysplastic syndrome",
+          "score": 96.87,
+          "level": "L5"
+        },
+        {
+          "name": "partial deletion of the long arm of chromosome 5",
+          "score": 96.78,
+          "level": "L5"
+        },
+        {
+          "name": "refractory cytopenia of childhood",
+          "score": 96.77,
+          "level": "L5"
+        },
+        {
+          "name": "severe congenital hypochromic anemia with ringed sideroblasts",
+          "score": 96.77,
+          "level": "L5"
+        },
+        {
+          "name": "dry eye syndrome",
+          "score": 96.76,
+          "level": "L3"
+        },
+        {
+          "name": "aregenerative anemia",
+          "score": 96.75,
+          "level": "L4"
+        },
+        {
+          "name": "multiple endocrine neoplasia",
+          "score": 96.67,
+          "level": "L2"
+        },
+        {
+          "name": "acne (disease)",
+          "score": 96.66,
+          "level": "L2"
+        }
+      ]
+    },
+    {
+      "name": "Amorolfine",
+      "slug": "amorolfine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "drug-induced osteoporosis",
+          "score": 100.0,
+          "level": "L5"
+        },
+        {
+          "name": "disease of retroperitoneum",
+          "score": 100.0,
+          "level": "L5"
+        },
+        {
+          "name": "disease of uterine broad ligament",
+          "score": 100.0,
+          "level": "L5"
+        },
+        {
+          "name": "lumbar spinal stenosis",
+          "score": 100.0,
+          "level": "L5"
+        },
+        {
+          "name": "abdominal cystic lymphangioma",
+          "score": 100.0,
+          "level": "L5"
+        },
+        {
+          "name": "abdominal ectopic pregnancy",
+          "score": 100.0,
+          "level": "L5"
+        },
+        {
+          "name": "celiac trunk compression syndrome",
+          "score": 100.0,
+          "level": "L5"
+        },
+        {
+          "name": "lymph node palisaded myofibroblastoma",
+          "score": 100.0,
+          "level": "L5"
+        },
+        {
+          "name": "sacrum chordoma",
+          "score": 100.0,
+          "level": "L5"
+        },
+        {
+          "name": "urethral disease",
+          "score": 100.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Becaplermin",
+      "slug": "becaplermin",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "amenorrhea (disease)",
+          "score": 99.86,
+          "level": "L5"
+        },
+        {
+          "name": "erectile dysfunction (disease)",
+          "score": 99.72,
+          "level": "L4"
+        },
+        {
+          "name": "HER2 positive breast carcinoma",
+          "score": 99.7,
+          "level": "L4"
+        },
+        {
+          "name": "progesterone-receptor negative breast cancer",
+          "score": 99.5,
+          "level": "L4"
+        },
+        {
+          "name": "pulmonary hypertension",
+          "score": 99.49,
+          "level": "L4"
+        },
+        {
+          "name": "progesterone-receptor positive breast cancer",
+          "score": 99.47,
+          "level": "L5"
+        },
+        {
+          "name": "normal breast-like subtype of breast carcinoma",
+          "score": 99.47,
+          "level": "L5"
+        },
+        {
+          "name": "breast tumor luminal A or B",
+          "score": 99.45,
+          "level": "L4"
+        },
+        {
+          "name": "hypogonadotropic hypogonadism with or without anosmia",
+          "score": 99.41,
+          "level": "L4"
+        },
+        {
+          "name": "Leydig cell hypoplasia due to LH resistance",
+          "score": 99.38,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Glycolic acid",
+      "slug": "glycolic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "atypical coarctation of aorta",
+          "score": 99.72,
+          "level": "L5"
+        },
+        {
+          "name": "non-syndromic esophageal malformation",
+          "score": 99.7,
+          "level": "L5"
+        },
+        {
+          "name": "esophageal disease",
+          "score": 99.69,
+          "level": "L4"
+        },
+        {
+          "name": "potassium deficiency disease",
+          "score": 99.66,
+          "level": "L5"
+        },
+        {
+          "name": "aortic malformation",
+          "score": 99.58,
+          "level": "L4"
+        },
+        {
+          "name": "sclerosing cholangitis",
+          "score": 99.57,
+          "level": "L5"
+        },
+        {
+          "name": "disorder of carbohydrate absorption and transport",
+          "score": 99.52,
+          "level": "L4"
+        },
+        {
+          "name": "hyperinsulinemic hypoglycemia, familial",
+          "score": 99.48,
+          "level": "L5"
+        },
+        {
+          "name": "autosomal recessive hyperinsulinism due to SUR1 deficiency",
+          "score": 99.44,
+          "level": "L5"
+        },
+        {
+          "name": "diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency",
+          "score": 99.44,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Protamine sulfate",
+      "slug": "protamine_sulfate",
+      "brands": [],
+      "original": "",
+      "level": "L2",
+      "indications": [
+        {
+          "name": "helminthiasis, animal",
+          "score": 50.0,
+          "level": "L5"
+        },
+        {
+          "name": "classical swine fever",
+          "score": 50.0,
+          "level": "L5"
+        },
+        {
+          "name": "hip dysplasia, canine",
+          "score": 50.0,
+          "level": "L5"
+        },
+        {
+          "name": "hepatitis, viral, animal",
+          "score": 50.0,
+          "level": "L5"
+        },
+        {
+          "name": "gingivitis",
+          "score": 50.0,
+          "level": "L2"
+        },
+        {
+          "name": "gingival overgrowth",
+          "score": 50.0,
+          "level": "L5"
+        },
+        {
+          "name": "epidermitis, exudative, of swine",
+          "score": 50.0,
+          "level": "L5"
+        },
+        {
+          "name": "encephalomyelitis, enzootic porcine",
+          "score": 50.0,
+          "level": "L5"
+        },
+        {
+          "name": "edema disease of swine",
+          "score": 50.0,
+          "level": "L5"
+        },
+        {
+          "name": "infectious bovine rhinotracheitis",
+          "score": 50.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Eflornithine",
+      "slug": "eflornithine",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "esotropia",
+          "score": 99.85,
+          "level": "L5"
+        },
+        {
+          "name": "neurotrophic keratopathy",
+          "score": 99.38,
+          "level": "L5"
+        },
+        {
+          "name": "congenital analbuminemia",
+          "score": 98.89,
+          "level": "L5"
+        },
+        {
+          "name": "hyperamylasemia",
+          "score": 98.75,
+          "level": "L5"
+        },
+        {
+          "name": "polyclonal hyperviscosity syndrome",
+          "score": 98.75,
+          "level": "L5"
+        },
+        {
+          "name": "trypanosomiasis, bovine",
+          "score": 98.42,
+          "level": "L5"
+        },
+        {
+          "name": "blood group incompatibility",
+          "score": 98.36,
+          "level": "L5"
+        },
+        {
+          "name": "monoclonal gammopathy",
+          "score": 98.18,
+          "level": "L4"
+        },
+        {
+          "name": "premalignant hematological system disease",
+          "score": 98.1,
+          "level": "L5"
+        },
+        {
+          "name": "congenital prothrombin deficiency",
+          "score": 98.02,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Ferric carboxymaltose",
+      "slug": "ferric_carboxymaltose",
+      "brands": [],
+      "original": "",
+      "level": "L2",
+      "indications": [
+        {
+          "name": "bronchitis",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "thrombotic disease",
+          "score": 98.04,
+          "level": "L2"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 96.88,
+          "level": "L4"
+        },
+        {
+          "name": "bronchial neoplasm (disease)",
+          "score": 96.59,
+          "level": "L5"
+        },
+        {
+          "name": "idiopathic granulomatous myositis",
+          "score": 96.06,
+          "level": "L5"
+        },
+        {
+          "name": "myositis fibrosa",
+          "score": 96.06,
+          "level": "L5"
+        },
+        {
+          "name": "exostosis",
+          "score": 95.86,
+          "level": "L5"
+        },
+        {
+          "name": "laryngotracheitis",
+          "score": 95.82,
+          "level": "L5"
+        },
+        {
+          "name": "tendinitis",
+          "score": 95.82,
+          "level": "L5"
+        },
+        {
+          "name": "heparin cofactor 2 deficiency",
+          "score": 95.81,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Urofollitropin",
+      "slug": "urofollitropin",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "migraine disorder",
+          "score": 99.85,
+          "level": "L5"
+        },
+        {
+          "name": "migraine with brainstem aura",
+          "score": 99.81,
+          "level": "L5"
+        },
+        {
+          "name": "cauda equina syndrome",
+          "score": 99.78,
+          "level": "L5"
+        },
+        {
+          "name": "His bundle tachycardia",
+          "score": 99.69,
+          "level": "L5"
+        },
+        {
+          "name": "restless legs syndrome",
+          "score": 99.69,
+          "level": "L5"
+        },
+        {
+          "name": "obsolete neurogenic bladder (disease)",
+          "score": 99.64,
+          "level": "L5"
+        },
+        {
+          "name": "multifocal atrial tachycardia (disease)",
+          "score": 99.54,
+          "level": "L5"
+        },
+        {
+          "name": "postural orthostatic tachycardia syndrome",
+          "score": 99.52,
+          "level": "L5"
+        },
+        {
+          "name": "migraine with or without aura, susceptibility to",
+          "score": 99.52,
+          "level": "L4"
+        },
+        {
+          "name": "Raynaud disease",
+          "score": 99.5,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Iohexol",
+      "slug": "iohexol",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "insomnia (disease)",
+          "score": 99.87,
+          "level": "L5"
+        },
+        {
+          "name": "anxiety",
+          "score": 99.25,
+          "level": "L1"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 98.87,
+          "level": "L3"
+        },
+        {
+          "name": "antithrombin deficiency type 2",
+          "score": 98.75,
+          "level": "L5"
+        },
+        {
+          "name": "factor 5 excess with spontaneous thrombosis",
+          "score": 98.73,
+          "level": "L5"
+        },
+        {
+          "name": "sleep disorder, initiating and maintaining sleep",
+          "score": 98.61,
+          "level": "L5"
+        },
+        {
+          "name": "heparin cofactor 2 deficiency",
+          "score": 98.61,
+          "level": "L5"
+        },
+        {
+          "name": "fibromyalgia",
+          "score": 98.46,
+          "level": "L5"
+        },
+        {
+          "name": "conjunctivitis",
+          "score": 98.45,
+          "level": "L5"
+        },
+        {
+          "name": "tendinitis",
+          "score": 98.44,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Alpelisib",
+      "slug": "alpelisib",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "pulmonary hypertension",
+          "score": 99.03,
+          "level": "L3"
+        },
+        {
+          "name": "migraine with or without aura, susceptibility to",
+          "score": 98.95,
+          "level": "L4"
+        },
+        {
+          "name": "migraine disorder",
+          "score": 98.9,
+          "level": "L5"
+        },
+        {
+          "name": "kyphoscoliotic heart disease",
+          "score": 98.86,
+          "level": "L5"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 98.75,
+          "level": "L4"
+        },
+        {
+          "name": "leprosy",
+          "score": 98.69,
+          "level": "L5"
+        },
+        {
+          "name": "migraine with brainstem aura",
+          "score": 98.68,
+          "level": "L5"
+        },
+        {
+          "name": "thrombotic disease",
+          "score": 98.56,
+          "level": "L5"
+        },
+        {
+          "name": "amyotrophic lateral sclerosis",
+          "score": 98.4,
+          "level": "L5"
+        },
+        {
+          "name": "multiple endocrine neoplasia",
+          "score": 98.38,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Bempedoic acid",
+      "slug": "bempedoic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "hyperthyroidism",
+          "score": 99.61,
+          "level": "L4"
+        },
+        {
+          "name": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
+          "score": 99.58,
+          "level": "L5"
+        },
+        {
+          "name": "infectious bovine rhinotracheitis",
+          "score": 99.58,
+          "level": "L5"
+        },
+        {
+          "name": "malignant catarrh",
+          "score": 99.58,
+          "level": "L5"
+        },
+        {
+          "name": "cytomegalovirus infection",
+          "score": 99.53,
+          "level": "L5"
+        },
+        {
+          "name": "homozygous familial hypercholesterolemia",
+          "score": 99.48,
+          "level": "L4"
+        },
+        {
+          "name": "hyperthyroxinemia",
+          "score": 99.34,
+          "level": "L5"
+        },
+        {
+          "name": "drug-induced osteoporosis",
+          "score": 99.21,
+          "level": "L5"
+        },
+        {
+          "name": "multiple endocrine neoplasia",
+          "score": 99.18,
+          "level": "L5"
+        },
+        {
+          "name": "pregnancy associated osteoporosis",
+          "score": 99.17,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Amodiaquine",
+      "slug": "amodiaquine",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "pulmonary hypertension",
+          "score": 99.25,
+          "level": "L5"
+        },
+        {
+          "name": "migraine disorder",
+          "score": 99.19,
+          "level": "L5"
+        },
+        {
+          "name": "nephrogenic syndrome of inappropriate antidiuresis",
+          "score": 99.12,
+          "level": "L5"
+        },
+        {
+          "name": "kyphoscoliotic heart disease",
+          "score": 99.08,
+          "level": "L5"
+        },
+        {
+          "name": "migraine with or without aura, susceptibility to",
+          "score": 99.04,
+          "level": "L4"
+        },
+        {
+          "name": "migraine with brainstem aura",
+          "score": 99.01,
+          "level": "L5"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 98.65,
+          "level": "L4"
+        },
+        {
+          "name": "leprosy",
+          "score": 98.41,
+          "level": "L4"
+        },
+        {
+          "name": "atrophoderma vermiculata",
+          "score": 98.29,
+          "level": "L5"
+        },
+        {
+          "name": "ulerythema ophryogenesis",
+          "score": 98.23,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Tolvaptan",
+      "slug": "tolvaptan",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "polycystic kidney disease 3 with or without polycystic liver disease",
+          "score": 99.99,
+          "level": "L4"
+        },
+        {
+          "name": "renal-hepatic-pancreatic dysplasia",
+          "score": 99.98,
+          "level": "L5"
+        },
+        {
+          "name": "karyomegalic interstitial nephritis",
+          "score": 99.98,
+          "level": "L5"
+        },
+        {
+          "name": "thoracic malformation",
+          "score": 99.98,
+          "level": "L4"
+        },
+        {
+          "name": "Joubert syndrome with renal defect",
+          "score": 99.98,
+          "level": "L5"
+        },
+        {
+          "name": "adult familial nephronophthisis-spastic quadriparesia syndrome",
+          "score": 99.98,
+          "level": "L5"
+        },
+        {
+          "name": "Ambras type hypertrichosis universalis congenita",
+          "score": 99.96,
+          "level": "L5"
+        },
+        {
+          "name": "hypertrichosis (disease)",
+          "score": 99.96,
+          "level": "L5"
+        },
+        {
+          "name": "malformation syndrome with odontal and/or periodontal component",
+          "score": 99.96,
+          "level": "L4"
+        },
+        {
+          "name": "syndrome with a Dandy-Walker malformation as major feature",
+          "score": 99.95,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Fludarabine",
+      "slug": "fludarabine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "plasma cell myeloma",
+          "score": 99.82,
+          "level": "L2"
+        },
+        {
+          "name": "hyperthyroidism",
+          "score": 99.81,
+          "level": "L4"
+        },
+        {
+          "name": "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome",
+          "score": 99.76,
+          "level": "L5"
+        },
+        {
+          "name": "indolent plasma cell myeloma",
+          "score": 99.76,
+          "level": "L1"
+        },
+        {
+          "name": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
+          "score": 99.76,
+          "level": "L5"
+        },
+        {
+          "name": "brain small vessel disease 1 with or without ocular anomalies",
+          "score": 99.76,
+          "level": "L4"
+        },
+        {
+          "name": "myelodysplastic syndrome",
+          "score": 99.75,
+          "level": "L1"
+        },
+        {
+          "name": "unclassified myelodysplastic syndrome",
+          "score": 99.69,
+          "level": "L4"
+        },
+        {
+          "name": "partial deletion of the long arm of chromosome 5",
+          "score": 99.69,
+          "level": "L5"
+        },
+        {
+          "name": "diabetic nephropathy",
+          "score": 99.68,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Terlipressin",
+      "slug": "terlipressin",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "open-angle glaucoma",
+          "score": 99.78,
+          "level": "L5"
+        },
+        {
+          "name": "primary hereditary glaucoma",
+          "score": 99.77,
+          "level": "L5"
+        },
+        {
+          "name": "pulmonary hypertension",
+          "score": 99.56,
+          "level": "L1"
+        },
+        {
+          "name": "kyphoscoliotic heart disease",
+          "score": 99.48,
+          "level": "L5"
+        },
+        {
+          "name": "esotropia",
+          "score": 99.35,
+          "level": "L5"
+        },
+        {
+          "name": "glaucoma 1, open angle",
+          "score": 99.27,
+          "level": "L5"
+        },
+        {
+          "name": "headache disorder",
+          "score": 99.09,
+          "level": "L1"
+        },
+        {
+          "name": "hyperthyroidism",
+          "score": 98.91,
+          "level": "L5"
+        },
+        {
+          "name": "glaucoma",
+          "score": 98.87,
+          "level": "L4"
+        },
+        {
+          "name": "trigeminal autonomic cephalalgia",
+          "score": 98.86,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Flucloxacillin",
+      "slug": "flucloxacillin",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "conjunctivitis",
+          "score": 99.84,
+          "level": "L4"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 99.83,
+          "level": "L5"
+        },
+        {
+          "name": "leprosy",
+          "score": 99.81,
+          "level": "L5"
+        },
+        {
+          "name": "Prinzmetal angina",
+          "score": 99.77,
+          "level": "L5"
+        },
+        {
+          "name": "conjunctivitis (disease)",
+          "score": 99.69,
+          "level": "L4"
+        },
+        {
+          "name": "brachydactyly-syndactyly syndrome",
+          "score": 99.69,
+          "level": "L5"
+        },
+        {
+          "name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+          "score": 99.67,
+          "level": "L5"
+        },
+        {
+          "name": "thrombotic disease",
+          "score": 99.66,
+          "level": "L4"
+        },
+        {
+          "name": "antithrombin deficiency type 2",
+          "score": 99.58,
+          "level": "L5"
+        },
+        {
+          "name": "factor 5 excess with spontaneous thrombosis",
+          "score": 99.56,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Palbociclib",
+      "slug": "palbociclib",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "hyperthyroidism",
+          "score": 99.44,
+          "level": "L5"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 99.36,
+          "level": "L5"
+        },
+        {
+          "name": "thrombotic disease",
+          "score": 99.32,
+          "level": "L5"
+        },
+        {
+          "name": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
+          "score": 99.3,
+          "level": "L5"
+        },
+        {
+          "name": "brachydactyly-syndactyly syndrome",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "myeloid leukemia",
+          "score": 98.94,
+          "level": "L2"
+        },
+        {
+          "name": "multiple endocrine neoplasia",
+          "score": 98.86,
+          "level": "L1"
+        },
+        {
+          "name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+          "score": 98.85,
+          "level": "L5"
+        },
+        {
+          "name": "hyperthyroxinemia",
+          "score": 98.78,
+          "level": "L5"
+        },
+        {
+          "name": "Prinzmetal angina",
+          "score": 98.75,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Maraviroc",
+      "slug": "maraviroc",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "multiple endocrine neoplasia",
+          "score": 99.82,
+          "level": "L5"
+        },
+        {
+          "name": "acne (disease)",
+          "score": 99.76,
+          "level": "L5"
+        },
+        {
+          "name": "primary cutaneous T-cell lymphoma",
+          "score": 99.72,
+          "level": "L4"
+        },
+        {
+          "name": "pediatric systemic lupus erythematosus",
+          "score": 99.71,
+          "level": "L5"
+        },
+        {
+          "name": "primary cutaneous T-cell non-Hodgkin lymphoma",
+          "score": 99.5,
+          "level": "L4"
+        },
+        {
+          "name": "primary cutaneous B-cell lymphoma",
+          "score": 99.38,
+          "level": "L5"
+        },
+        {
+          "name": "candidiasis",
+          "score": 99.28,
+          "level": "L4"
+        },
+        {
+          "name": "complement component 4a deficiency",
+          "score": 99.24,
+          "level": "L5"
+        },
+        {
+          "name": "cytomegalovirus infection",
+          "score": 99.23,
+          "level": "L4"
+        },
+        {
+          "name": "HER2 positive breast carcinoma",
+          "score": 99.22,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Lornoxicam",
+      "slug": "lornoxicam",
+      "brands": [],
+      "original": "",
+      "level": "L3",
+      "indications": [
+        {
+          "name": "rheumatoid arthritis",
+          "score": 99.9,
+          "level": "L5"
+        },
+        {
+          "name": "migraine with or without aura, susceptibility to",
+          "score": 99.87,
+          "level": "L4"
+        },
+        {
+          "name": "migraine disorder",
+          "score": 99.87,
+          "level": "L3"
+        },
+        {
+          "name": "migraine with brainstem aura",
+          "score": 99.85,
+          "level": "L5"
+        },
+        {
+          "name": "brachydactyly-syndactyly syndrome",
+          "score": 99.82,
+          "level": "L5"
+        },
+        {
+          "name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+          "score": 99.81,
+          "level": "L5"
+        },
+        {
+          "name": "headache disorder",
+          "score": 99.8,
+          "level": "L3"
+        },
+        {
+          "name": "trigeminal autonomic cephalalgia",
+          "score": 99.75,
+          "level": "L5"
+        },
+        {
+          "name": "tendinitis",
+          "score": 99.72,
+          "level": "L4"
+        },
+        {
+          "name": "idiopathic granulomatous myositis",
+          "score": 99.7,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Cetuximab",
+      "slug": "cetuximab",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "non-seminomatous lesion",
+          "score": 99.95,
+          "level": "L5"
+        },
+        {
+          "name": "chondroid hamartoma",
+          "score": 99.95,
+          "level": "L5"
+        },
+        {
+          "name": "bronchial adenomas/carcinoids childhood",
+          "score": 99.95,
+          "level": "L5"
+        },
+        {
+          "name": "ductal or ductular proliferation",
+          "score": 99.95,
+          "level": "L4"
+        },
+        {
+          "name": "tumor of testis and paratestis",
+          "score": 99.95,
+          "level": "L5"
+        },
+        {
+          "name": "odontogenic cyst",
+          "score": 99.95,
+          "level": "L4"
+        },
+        {
+          "name": "thyroglossal duct cyst",
+          "score": 99.95,
+          "level": "L5"
+        },
+        {
+          "name": "epiglottis neoplasm",
+          "score": 99.95,
+          "level": "L5"
+        },
+        {
+          "name": "cystic neoplasm",
+          "score": 99.95,
+          "level": "L2"
+        },
+        {
+          "name": "pre-malignant neoplasm",
+          "score": 99.95,
+          "level": "L1"
+        }
+      ]
+    }
+  ],
+  "indications": [
+    {
+      "name": "rheumatoid arthritis",
+      "count": 14,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Fluorescein",
+          "slug": "fluorescein",
+          "score": 99.74,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Iohexol",
+          "slug": "iohexol",
+          "score": 98.87,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Zaltoprofen",
+          "slug": "zaltoprofen",
+          "score": 99.92,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Metamizole",
+          "slug": "metamizole",
+          "score": 99.78,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Capmatinib",
+          "slug": "capmatinib",
+          "score": 99.45,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Iopromide",
+          "slug": "iopromide",
+          "score": 99.37,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Alpelisib",
+          "slug": "alpelisib",
+          "score": 98.75,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Amodiaquine",
+          "slug": "amodiaquine",
+          "score": 98.65,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Ferric carboxymaltose",
+          "slug": "ferric_carboxymaltose",
+          "score": 96.88,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Lornoxicam",
+          "slug": "lornoxicam",
+          "score": 99.9,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Flucloxacillin",
+          "slug": "flucloxacillin",
+          "score": 99.83,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Choline salicylate",
+          "slug": "choline_salicylate",
+          "score": 99.82,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Seratrodast",
+          "slug": "seratrodast",
+          "score": 99.45,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Palbociclib",
+          "slug": "palbociclib",
+          "score": 99.36,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "migraine disorder",
+      "count": 12,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Metamizole",
+          "slug": "metamizole",
+          "score": 99.72,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Lornoxicam",
+          "slug": "lornoxicam",
+          "score": 99.87,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Choline salicylate",
+          "slug": "choline_salicylate",
+          "score": 99.8,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Nitroprusside",
+          "slug": "nitroprusside",
+          "score": 99.99,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Camphor",
+          "slug": "camphor",
+          "score": 99.85,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Lynestrenol",
+          "slug": "lynestrenol",
+          "score": 99.49,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Cisatracurium",
+          "slug": "cisatracurium",
+          "score": 99.98,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Zaltoprofen",
+          "slug": "zaltoprofen",
+          "score": 99.88,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Urofollitropin",
+          "slug": "urofollitropin",
+          "score": 99.85,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Seratrodast",
+          "slug": "seratrodast",
+          "score": 99.54,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Amodiaquine",
+          "slug": "amodiaquine",
+          "score": 99.19,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Alpelisib",
+          "slug": "alpelisib",
+          "score": 98.9,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "migraine with brainstem aura",
+      "count": 11,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Nitroprusside",
+          "slug": "nitroprusside",
+          "score": 99.99,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Metamizole",
+          "slug": "metamizole",
+          "score": 99.67,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Lynestrenol",
+          "slug": "lynestrenol",
+          "score": 99.35,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Cisatracurium",
+          "slug": "cisatracurium",
+          "score": 99.97,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Zaltoprofen",
+          "slug": "zaltoprofen",
+          "score": 99.85,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Lornoxicam",
+          "slug": "lornoxicam",
+          "score": 99.85,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Urofollitropin",
+          "slug": "urofollitropin",
+          "score": 99.81,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Camphor",
+          "slug": "camphor",
+          "score": 99.79,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Seratrodast",
+          "slug": "seratrodast",
+          "score": 99.43,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Amodiaquine",
+          "slug": "amodiaquine",
+          "score": 99.01,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Alpelisib",
+          "slug": "alpelisib",
+          "score": 98.68,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "migraine with or without aura, susceptibility to",
+      "count": 10,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Nitroprusside",
+          "slug": "nitroprusside",
+          "score": 99.98,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Zaltoprofen",
+          "slug": "zaltoprofen",
+          "score": 99.89,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Lornoxicam",
+          "slug": "lornoxicam",
+          "score": 99.87,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Camphor",
+          "slug": "camphor",
+          "score": 99.73,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Metamizole",
+          "slug": "metamizole",
+          "score": 99.7,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Seratrodast",
+          "slug": "seratrodast",
+          "score": 99.63,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Urofollitropin",
+          "slug": "urofollitropin",
+          "score": 99.52,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Lynestrenol",
+          "slug": "lynestrenol",
+          "score": 99.51,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Amodiaquine",
+          "slug": "amodiaquine",
+          "score": 99.04,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Alpelisib",
+          "slug": "alpelisib",
+          "score": 98.95,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pulmonary hypertension",
+      "count": 9,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Nitroprusside",
+          "slug": "nitroprusside",
+          "score": 99.98,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Camphor",
+          "slug": "camphor",
+          "score": 99.77,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Terlipressin",
+          "slug": "terlipressin",
+          "score": 99.56,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Alpelisib",
+          "slug": "alpelisib",
+          "score": 99.03,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Becaplermin",
+          "slug": "becaplermin",
+          "score": 99.49,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Seratrodast",
+          "slug": "seratrodast",
+          "score": 99.47,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Choline salicylate",
+          "slug": "choline_salicylate",
+          "score": 99.75,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Amodiaquine",
+          "slug": "amodiaquine",
+          "score": 99.25,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Lynestrenol",
+          "slug": "lynestrenol",
+          "score": 98.52,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "kyphoscoliotic heart disease",
+      "count": 7,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Nitroprusside",
+          "slug": "nitroprusside",
+          "score": 99.97,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Camphor",
+          "slug": "camphor",
+          "score": 99.7,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Terlipressin",
+          "slug": "terlipressin",
+          "score": 99.48,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Seratrodast",
+          "slug": "seratrodast",
+          "score": 99.39,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Amodiaquine",
+          "slug": "amodiaquine",
+          "score": 99.08,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Alpelisib",
+          "slug": "alpelisib",
+          "score": 98.86,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Lynestrenol",
+          "slug": "lynestrenol",
+          "score": 98.35,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "brachydactyly-syndactyly syndrome",
+      "count": 7,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Zaltoprofen",
+          "slug": "zaltoprofen",
+          "score": 99.84,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Lornoxicam",
+          "slug": "lornoxicam",
+          "score": 99.82,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Flucloxacillin",
+          "slug": "flucloxacillin",
+          "score": 99.69,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Metamizole",
+          "slug": "metamizole",
+          "score": 99.61,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Seratrodast",
+          "slug": "seratrodast",
+          "score": 99.18,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Capmatinib",
+          "slug": "capmatinib",
+          "score": 99.03,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Palbociclib",
+          "slug": "palbociclib",
+          "score": 99.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "multiple endocrine neoplasia",
+      "count": 6,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Palbociclib",
+          "slug": "palbociclib",
+          "score": 98.86,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Alpelisib",
+          "slug": "alpelisib",
+          "score": 98.38,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Glutathione",
+          "slug": "glutathione",
+          "score": 96.67,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.82,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Remdesivir",
+          "slug": "remdesivir",
+          "score": 99.5,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Bempedoic acid",
+          "slug": "bempedoic_acid",
+          "score": 99.18,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Prinzmetal angina",
+      "count": 6,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Choline salicylate",
+          "slug": "choline_salicylate",
+          "score": 99.84,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Fluorescein",
+          "slug": "fluorescein",
+          "score": 99.81,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Flucloxacillin",
+          "slug": "flucloxacillin",
+          "score": 99.77,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Palbociclib",
+          "slug": "palbociclib",
+          "score": 98.75,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Remdesivir",
+          "slug": "remdesivir",
+          "score": 98.34,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Lynestrenol",
+          "slug": "lynestrenol",
+          "score": 98.12,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "leprosy",
+      "count": 6,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Amodiaquine",
+          "slug": "amodiaquine",
+          "score": 98.41,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Remdesivir",
+          "slug": "remdesivir",
+          "score": 97.37,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Flucloxacillin",
+          "slug": "flucloxacillin",
+          "score": 99.81,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Seratrodast",
+          "slug": "seratrodast",
+          "score": 99.06,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Lynestrenol",
+          "slug": "lynestrenol",
+          "score": 99.04,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Alpelisib",
+          "slug": "alpelisib",
+          "score": 98.69,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+      "count": 6,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Zaltoprofen",
+          "slug": "zaltoprofen",
+          "score": 99.83,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Lornoxicam",
+          "slug": "lornoxicam",
+          "score": 99.81,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Flucloxacillin",
+          "slug": "flucloxacillin",
+          "score": 99.67,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Seratrodast",
+          "slug": "seratrodast",
+          "score": 99.05,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Capmatinib",
+          "slug": "capmatinib",
+          "score": 98.95,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Palbociclib",
+          "slug": "palbociclib",
+          "score": 98.85,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hyperthyroidism",
+      "count": 6,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Fluorescein",
+          "slug": "fluorescein",
+          "score": 99.59,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Fludarabine",
+          "slug": "fludarabine",
+          "score": 99.81,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Bempedoic acid",
+          "slug": "bempedoic_acid",
+          "score": 99.61,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Palbociclib",
+          "slug": "palbociclib",
+          "score": 99.44,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Terlipressin",
+          "slug": "terlipressin",
+          "score": 98.91,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Capmatinib",
+          "slug": "capmatinib",
+          "score": 98.55,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "antithrombin deficiency type 2",
+      "count": 5,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Fluorescein",
+          "slug": "fluorescein",
+          "score": 99.76,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Metamizole",
+          "slug": "metamizole",
+          "score": 99.62,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Flucloxacillin",
+          "slug": "flucloxacillin",
+          "score": 99.58,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Iohexol",
+          "slug": "iohexol",
+          "score": 98.75,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Remdesivir",
+          "slug": "remdesivir",
+          "score": 97.25,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "tendinitis",
+      "count": 5,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Zaltoprofen",
+          "slug": "zaltoprofen",
+          "score": 99.74,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Lornoxicam",
+          "slug": "lornoxicam",
+          "score": 99.72,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Iohexol",
+          "slug": "iohexol",
+          "score": 98.44,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Metamizole",
+          "slug": "metamizole",
+          "score": 99.6,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Ferric carboxymaltose",
+          "slug": "ferric_carboxymaltose",
+          "score": 95.82,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "thrombotic disease",
+      "count": 5,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Ferric carboxymaltose",
+          "slug": "ferric_carboxymaltose",
+          "score": 98.04,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Cisatracurium",
+          "slug": "cisatracurium",
+          "score": 99.97,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Flucloxacillin",
+          "slug": "flucloxacillin",
+          "score": 99.66,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Palbociclib",
+          "slug": "palbociclib",
+          "score": 99.32,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Alpelisib",
+          "slug": "alpelisib",
+          "score": 98.56,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "atrophoderma vermiculata",
+      "count": 4,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Camphor",
+          "slug": "camphor",
+          "score": 99.54,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Seratrodast",
+          "slug": "seratrodast",
+          "score": 99.02,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Lynestrenol",
+          "slug": "lynestrenol",
+          "score": 98.88,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Amodiaquine",
+          "slug": "amodiaquine",
+          "score": 98.29,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "factor 5 excess with spontaneous thrombosis",
+      "count": 4,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Fluorescein",
+          "slug": "fluorescein",
+          "score": 99.73,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Metamizole",
+          "slug": "metamizole",
+          "score": 99.6,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Flucloxacillin",
+          "slug": "flucloxacillin",
+          "score": 99.56,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Iohexol",
+          "slug": "iohexol",
+          "score": 98.73,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "ulerythema ophryogenesis",
+      "count": 3,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Camphor",
+          "slug": "camphor",
+          "score": 99.6,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Lynestrenol",
+          "slug": "lynestrenol",
+          "score": 98.56,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Amodiaquine",
+          "slug": "amodiaquine",
+          "score": 98.23,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Raynaud disease",
+      "count": 3,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Camphor",
+          "slug": "camphor",
+          "score": 99.56,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Choline salicylate",
+          "slug": "choline_salicylate",
+          "score": 99.76,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Urofollitropin",
+          "slug": "urofollitropin",
+          "score": 99.5,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cytomegalovirus infection",
+      "count": 3,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.23,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Remdesivir",
+          "slug": "remdesivir",
+          "score": 97.08,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Bempedoic acid",
+          "slug": "bempedoic_acid",
+          "score": 99.53,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "acne (disease)",
+      "count": 3,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Glutathione",
+          "slug": "glutathione",
+          "score": 96.66,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Beta carotene",
+          "slug": "beta_carotene",
+          "score": 100.0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.76,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "heparin cofactor 2 deficiency",
+      "count": 3,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Fluorescein",
+          "slug": "fluorescein",
+          "score": 99.71,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Iohexol",
+          "slug": "iohexol",
+          "score": 98.61,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Ferric carboxymaltose",
+          "slug": "ferric_carboxymaltose",
+          "score": 95.81,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "headache disorder",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Terlipressin",
+          "slug": "terlipressin",
+          "score": 99.09,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Lornoxicam",
+          "slug": "lornoxicam",
+          "score": 99.8,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Zaltoprofen",
+          "slug": "zaltoprofen",
+          "score": 99.8,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "trigeminal autonomic cephalalgia",
+      "count": 3,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Zaltoprofen",
+          "slug": "zaltoprofen",
+          "score": 99.76,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Lornoxicam",
+          "slug": "lornoxicam",
+          "score": 99.75,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Terlipressin",
+          "slug": "terlipressin",
+          "score": 98.86,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "idiopathic granulomatous myositis",
+      "count": 3,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Zaltoprofen",
+          "slug": "zaltoprofen",
+          "score": 99.73,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Lornoxicam",
+          "slug": "lornoxicam",
+          "score": 99.7,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Ferric carboxymaltose",
+          "slug": "ferric_carboxymaltose",
+          "score": 96.06,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
+      "count": 3,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Fludarabine",
+          "slug": "fludarabine",
+          "score": 99.76,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Bempedoic acid",
+          "slug": "bempedoic_acid",
+          "score": 99.58,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Palbociclib",
+          "slug": "palbociclib",
+          "score": 99.3,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "erectile dysfunction (disease)",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Camphor",
+          "slug": "camphor",
+          "score": 99.79,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Becaplermin",
+          "slug": "becaplermin",
+          "score": 99.72,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "homozygous familial hypercholesterolemia",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Bempedoic acid",
+          "slug": "bempedoic_acid",
+          "score": 99.48,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Remdesivir",
+          "slug": "remdesivir",
+          "score": 99.03,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "exostosis",
+      "count": 2,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Metamizole",
+          "slug": "metamizole",
+          "score": 99.69,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Ferric carboxymaltose",
+          "slug": "ferric_carboxymaltose",
+          "score": 95.86,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "insomnia (disease)",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Iohexol",
+          "slug": "iohexol",
+          "score": 99.87,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Lynestrenol",
+          "slug": "lynestrenol",
+          "score": 99.08,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "alopecia",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Nitroprusside",
+          "slug": "nitroprusside",
+          "score": 99.99,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Iopromide",
+          "slug": "iopromide",
+          "score": 99.11,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hemoglobinopathy",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Fluorescein",
+          "slug": "fluorescein",
+          "score": 99.72,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Iopromide",
+          "slug": "iopromide",
+          "score": 99.08,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cauda equina syndrome",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Cisatracurium",
+          "slug": "cisatracurium",
+          "score": 99.99,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Urofollitropin",
+          "slug": "urofollitropin",
+          "score": 99.78,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "obsolete neurogenic bladder (disease)",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Cisatracurium",
+          "slug": "cisatracurium",
+          "score": 99.99,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Urofollitropin",
+          "slug": "urofollitropin",
+          "score": 99.64,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "heart disease",
+      "count": 2,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Niclosamide",
+          "slug": "niclosamide",
+          "score": 99.88,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Capmatinib",
+          "slug": "capmatinib",
+          "score": 98.64,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Jeune syndrome situs inversus",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Niclosamide",
+          "slug": "niclosamide",
+          "score": 99.87,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Capmatinib",
+          "slug": "capmatinib",
+          "score": 98.62,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Pierre Robin syndrome associated with a chromosomal anomaly",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Niclosamide",
+          "slug": "niclosamide",
+          "score": 99.87,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Capmatinib",
+          "slug": "capmatinib",
+          "score": 98.58,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "orofacial clefting syndrome",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Niclosamide",
+          "slug": "niclosamide",
+          "score": 99.87,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Capmatinib",
+          "slug": "capmatinib",
+          "score": 98.58,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Laubry-Pezzi syndrome",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Niclosamide",
+          "slug": "niclosamide",
+          "score": 99.87,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Capmatinib",
+          "slug": "capmatinib",
+          "score": 98.57,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "interventricular septum aneurysm",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Niclosamide",
+          "slug": "niclosamide",
+          "score": 99.87,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Capmatinib",
+          "slug": "capmatinib",
+          "score": 98.55,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "diabetic retinopathy",
+      "count": 2,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Beta carotene",
+          "slug": "beta_carotene",
+          "score": 99.99,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Nimotuzumab",
+          "slug": "nimotuzumab",
+          "score": 98.33,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "diabetic cataract",
+      "count": 2,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Beta carotene",
+          "slug": "beta_carotene",
+          "score": 99.99,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Nimotuzumab",
+          "slug": "nimotuzumab",
+          "score": 98.62,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cortical cataract",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Beta carotene",
+          "slug": "beta_carotene",
+          "score": 99.98,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Nimotuzumab",
+          "slug": "nimotuzumab",
+          "score": 98.53,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "nuclear senile cataract",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Beta carotene",
+          "slug": "beta_carotene",
+          "score": 99.98,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Nimotuzumab",
+          "slug": "nimotuzumab",
+          "score": 98.53,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "tetanic cataract",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Beta carotene",
+          "slug": "beta_carotene",
+          "score": 99.98,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Nimotuzumab",
+          "slug": "nimotuzumab",
+          "score": 98.56,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "mature cataract",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Beta carotene",
+          "slug": "beta_carotene",
+          "score": 99.98,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Nimotuzumab",
+          "slug": "nimotuzumab",
+          "score": 98.56,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "craniostenosis cataract",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Beta carotene",
+          "slug": "beta_carotene",
+          "score": 99.98,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Nimotuzumab",
+          "slug": "nimotuzumab",
+          "score": 98.56,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "diabetes mellitus type 2 associated cataract",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Beta carotene",
+          "slug": "beta_carotene",
+          "score": 99.98,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Nimotuzumab",
+          "slug": "nimotuzumab",
+          "score": 98.56,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "sclerosing cholangitis",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Glutathione",
+          "slug": "glutathione",
+          "score": 98.14,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Glycolic acid",
+          "slug": "glycolic_acid",
+          "score": 99.57,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "myelodysplastic syndrome",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Fludarabine",
+          "slug": "fludarabine",
+          "score": 99.75,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Glutathione",
+          "slug": "glutathione",
+          "score": 97.48,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "unclassified myelodysplastic syndrome",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Fludarabine",
+          "slug": "fludarabine",
+          "score": 99.69,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Glutathione",
+          "slug": "glutathione",
+          "score": 96.87,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "partial deletion of the long arm of chromosome 5",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Fludarabine",
+          "slug": "fludarabine",
+          "score": 99.69,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Glutathione",
+          "slug": "glutathione",
+          "score": 96.78,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "drug-induced osteoporosis",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Amorolfine",
+          "slug": "amorolfine",
+          "score": 100.0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Bempedoic acid",
+          "slug": "bempedoic_acid",
+          "score": 99.21,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "HER2 positive breast carcinoma",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Becaplermin",
+          "slug": "becaplermin",
+          "score": 99.7,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.22,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "infectious bovine rhinotracheitis",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Bempedoic acid",
+          "slug": "bempedoic_acid",
+          "score": 99.58,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Protamine sulfate",
+          "slug": "protamine_sulfate",
+          "score": 50.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "esotropia",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Eflornithine",
+          "slug": "eflornithine",
+          "score": 99.85,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Terlipressin",
+          "slug": "terlipressin",
+          "score": 99.35,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "conjunctivitis",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Flucloxacillin",
+          "slug": "flucloxacillin",
+          "score": 99.84,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Iohexol",
+          "slug": "iohexol",
+          "score": 98.45,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hyperthyroxinemia",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Bempedoic acid",
+          "slug": "bempedoic_acid",
+          "score": 99.34,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Palbociclib",
+          "slug": "palbociclib",
+          "score": 98.78,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Tourette syndrome",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Camphor",
+          "slug": "camphor",
+          "score": 99.46,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "HIV infectious disease",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Remdesivir",
+          "slug": "remdesivir",
+          "score": 99.32,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "simian immunodeficiency virus infection",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Remdesivir",
+          "slug": "remdesivir",
+          "score": 99.07,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "feline acquired immunodeficiency syndrome",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Remdesivir",
+          "slug": "remdesivir",
+          "score": 99.07,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Remdesivir",
+          "slug": "remdesivir",
+          "score": 99.03,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hypertensive disorder",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Choline salicylate",
+          "slug": "choline_salicylate",
+          "score": 99.81,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pulmonary hypertension owing to lung disease and/or hypoxia",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Choline salicylate",
+          "slug": "choline_salicylate",
+          "score": 99.77,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pulmonary hypertension with unclear multifactorial mechanism",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Choline salicylate",
+          "slug": "choline_salicylate",
+          "score": 99.77,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "malignant hypertensive renal disease",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Choline salicylate",
+          "slug": "choline_salicylate",
+          "score": 99.77,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "malignant renovascular hypertension",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Choline salicylate",
+          "slug": "choline_salicylate",
+          "score": 99.77,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "type 2 diabetes nephropathy",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Epalrestat",
+          "slug": "epalrestat",
+          "score": 99.16,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Tay-Sachs disease",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Epalrestat",
+          "slug": "epalrestat",
+          "score": 98.7,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Epalrestat",
+          "slug": "epalrestat",
+          "score": 98.63,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Epalrestat",
+          "slug": "epalrestat",
+          "score": 98.59,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Gaucher disease",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Epalrestat",
+          "slug": "epalrestat",
+          "score": 98.54,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "adult Krabbe disease",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Epalrestat",
+          "slug": "epalrestat",
+          "score": 98.4,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cholesterol metabolism disease",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Epalrestat",
+          "slug": "epalrestat",
+          "score": 98.39,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "infantile neuronal ceroid lipofuscinosis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Epalrestat",
+          "slug": "epalrestat",
+          "score": 98.39,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "autosomal ichthyosis syndrome with fatal disease course",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Epalrestat",
+          "slug": "epalrestat",
+          "score": 98.34,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "familial generalized lentiginosis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Epalrestat",
+          "slug": "epalrestat",
+          "score": 98.32,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "gout",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Metamizole",
+          "slug": "metamizole",
+          "score": 99.62,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "osteoarthritis susceptibility",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Iopromide",
+          "slug": "iopromide",
+          "score": 99.57,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "osteoarthritis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Iopromide",
+          "slug": "iopromide",
+          "score": 99.53,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "brachyolmia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Iopromide",
+          "slug": "iopromide",
+          "score": 99.19,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "acromesomelic dysplasia, Hunter-Thompson type",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Iopromide",
+          "slug": "iopromide",
+          "score": 99.14,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "brachyolmia-amelogenesis imperfecta syndrome",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Iopromide",
+          "slug": "iopromide",
+          "score": 99.12,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "myosclerosis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Iopromide",
+          "slug": "iopromide",
+          "score": 99.09,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pseudoachondroplasia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Iopromide",
+          "slug": "iopromide",
+          "score": 99.06,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "preeclampsia",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Cisatracurium",
+          "slug": "cisatracurium",
+          "score": 99.99,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "irritable bowel syndrome",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Cisatracurium",
+          "slug": "cisatracurium",
+          "score": 99.97,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "mild pre-eclampsia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Cisatracurium",
+          "slug": "cisatracurium",
+          "score": 99.96,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "severe pre-eclampsia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Cisatracurium",
+          "slug": "cisatracurium",
+          "score": 99.95,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "neurocirculatory asthenia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Cisatracurium",
+          "slug": "cisatracurium",
+          "score": 99.95,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "severe nonproliferative diabetic retinopathy",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Beta carotene",
+          "slug": "beta_carotene",
+          "score": 99.99,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hyperprolactinemia (disease)",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ripasudil",
+          "slug": "ripasudil",
+          "score": 99.87,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Axenfeld anomaly",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ripasudil",
+          "slug": "ripasudil",
+          "score": 99.86,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hydrophthalmos",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ripasudil",
+          "slug": "ripasudil",
+          "score": 99.85,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "glaucoma 3, primary infantile, B",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ripasudil",
+          "slug": "ripasudil",
+          "score": 99.81,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "familial hyperprolactinemia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ripasudil",
+          "slug": "ripasudil",
+          "score": 99.79,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "dense granule disease",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ripasudil",
+          "slug": "ripasudil",
+          "score": 99.79,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "marcothrombocytopenia with mitral valve insufficiency",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ripasudil",
+          "slug": "ripasudil",
+          "score": 99.77,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hereditary thrombocytopenia with normal platelets",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ripasudil",
+          "slug": "ripasudil",
+          "score": 99.77,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "transient neonatal thrombocytopenia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ripasudil",
+          "slug": "ripasudil",
+          "score": 99.77,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "thrombocytopenia",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Ripasudil",
+          "slug": "ripasudil",
+          "score": 99.73,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "congenital hypotrichosis milia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Nitroprusside",
+          "slug": "nitroprusside",
+          "score": 99.98,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "diffuse alopecia areata",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Nitroprusside",
+          "slug": "nitroprusside",
+          "score": 99.98,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hypotrichosis simplex of the scalp",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Nitroprusside",
+          "slug": "nitroprusside",
+          "score": 99.98,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "benign prostatic hyperplasia (disease)",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Nitroprusside",
+          "slug": "nitroprusside",
+          "score": 99.97,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "punctate epithelial keratoconjunctivitis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 99.67,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "common wart",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 99.46,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "post-infectious neuralgia",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 99.25,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hepatitis C induced liver cirrhosis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 99.23,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "eosinophilic pustular folliculitis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 99.22,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "sequela of COVID-19",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 99.16,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "vulvovaginal candidiasis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 99.11,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "papular urticaria",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 99.09,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "disease of orbital region",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 99.08,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "epidemic keratoconjunctivitis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 99.07,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "immature cataract",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Nimotuzumab",
+          "slug": "nimotuzumab",
+          "score": 98.56,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "senile cataract",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Nimotuzumab",
+          "slug": "nimotuzumab",
+          "score": 98.48,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "esophageal varices with bleeding",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Polidocanol",
+          "slug": "polidocanol",
+          "score": 99.95,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "esophageal varices without bleeding",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Polidocanol",
+          "slug": "polidocanol",
+          "score": 99.95,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Immunoerythromyeloid hypoplasia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Polidocanol",
+          "slug": "polidocanol",
+          "score": 99.78,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pigmented paravenous retinochoroidal atrophy",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Polidocanol",
+          "slug": "polidocanol",
+          "score": 99.73,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "progressive bifocal chorioretinal atrophy",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Polidocanol",
+          "slug": "polidocanol",
+          "score": 99.69,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "X-linked retinal dysplasia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Polidocanol",
+          "slug": "polidocanol",
+          "score": 99.68,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "monosomy X",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Polidocanol",
+          "slug": "polidocanol",
+          "score": 99.67,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cone dystrophy",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Polidocanol",
+          "slug": "polidocanol",
+          "score": 99.66,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "oligocone trichromacy",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Polidocanol",
+          "slug": "polidocanol",
+          "score": 99.65,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "retinoschisis of fovea",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Polidocanol",
+          "slug": "polidocanol",
+          "score": 99.65,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "thrombophilia",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Fluorescein",
+          "slug": "fluorescein",
+          "score": 99.67,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "partial deletion of the short arm of chromosome 16",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Fluorescein",
+          "slug": "fluorescein",
+          "score": 99.59,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "beta-thalassemia with other manifestations",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Fluorescein",
+          "slug": "fluorescein",
+          "score": 99.58,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "genetic syndromic Pierre Robin syndrome",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Niclosamide",
+          "slug": "niclosamide",
+          "score": 99.87,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "partial deletion of the long arm of chromosome 7",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Niclosamide",
+          "slug": "niclosamide",
+          "score": 99.87,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pulmonary valve disease",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Niclosamide",
+          "slug": "niclosamide",
+          "score": 99.87,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "disorder of fucoglycosan synthesis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Niclosamide",
+          "slug": "niclosamide",
+          "score": 99.86,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "extracutaneous mastocytoma",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Pirfenidone",
+          "slug": "pirfenidone",
+          "score": 99.71,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "dermatofibrosarcoma protuberans",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Pirfenidone",
+          "slug": "pirfenidone",
+          "score": 99.41,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "aggressive systemic mastocytosis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Pirfenidone",
+          "slug": "pirfenidone",
+          "score": 99.33,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "heart fibrosarcoma",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Pirfenidone",
+          "slug": "pirfenidone",
+          "score": 99.29,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "conventional fibrosarcoma",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Pirfenidone",
+          "slug": "pirfenidone",
+          "score": 99.26,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "autosomal recessive familial Mediterranean fever",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Pirfenidone",
+          "slug": "pirfenidone",
+          "score": 99.25,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "kidney fibrosarcoma",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Pirfenidone",
+          "slug": "pirfenidone",
+          "score": 99.24,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hepatic infarction",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Pirfenidone",
+          "slug": "pirfenidone",
+          "score": 99.24,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "fibroblastic neoplasm",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Pirfenidone",
+          "slug": "pirfenidone",
+          "score": 99.23,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "low grade fibromyxoid sarcoma",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Pirfenidone",
+          "slug": "pirfenidone",
+          "score": 99.19,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "refractory cytopenia of childhood",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Glutathione",
+          "slug": "glutathione",
+          "score": 96.77,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "severe congenital hypochromic anemia with ringed sideroblasts",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Glutathione",
+          "slug": "glutathione",
+          "score": 96.77,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "dry eye syndrome",
+      "count": 1,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Glutathione",
+          "slug": "glutathione",
+          "score": 96.76,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "aregenerative anemia",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Glutathione",
+          "slug": "glutathione",
+          "score": 96.75,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "disease of retroperitoneum",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Amorolfine",
+          "slug": "amorolfine",
+          "score": 100.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "disease of uterine broad ligament",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Amorolfine",
+          "slug": "amorolfine",
+          "score": 100.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "lumbar spinal stenosis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Amorolfine",
+          "slug": "amorolfine",
+          "score": 100.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "abdominal cystic lymphangioma",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Amorolfine",
+          "slug": "amorolfine",
+          "score": 100.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "abdominal ectopic pregnancy",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Amorolfine",
+          "slug": "amorolfine",
+          "score": 100.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "celiac trunk compression syndrome",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Amorolfine",
+          "slug": "amorolfine",
+          "score": 100.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "lymph node palisaded myofibroblastoma",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Amorolfine",
+          "slug": "amorolfine",
+          "score": 100.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "sacrum chordoma",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Amorolfine",
+          "slug": "amorolfine",
+          "score": 100.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "urethral disease",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Amorolfine",
+          "slug": "amorolfine",
+          "score": 100.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "amenorrhea (disease)",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Becaplermin",
+          "slug": "becaplermin",
+          "score": 99.86,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "progesterone-receptor negative breast cancer",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Becaplermin",
+          "slug": "becaplermin",
+          "score": 99.5,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "progesterone-receptor positive breast cancer",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Becaplermin",
+          "slug": "becaplermin",
+          "score": 99.47,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "normal breast-like subtype of breast carcinoma",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Becaplermin",
+          "slug": "becaplermin",
+          "score": 99.47,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "breast tumor luminal A or B",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Becaplermin",
+          "slug": "becaplermin",
+          "score": 99.45,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hypogonadotropic hypogonadism with or without anosmia",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Becaplermin",
+          "slug": "becaplermin",
+          "score": 99.41,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Leydig cell hypoplasia due to LH resistance",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Becaplermin",
+          "slug": "becaplermin",
+          "score": 99.38,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "atypical coarctation of aorta",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Glycolic acid",
+          "slug": "glycolic_acid",
+          "score": 99.72,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "non-syndromic esophageal malformation",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Glycolic acid",
+          "slug": "glycolic_acid",
+          "score": 99.7,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "esophageal disease",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Glycolic acid",
+          "slug": "glycolic_acid",
+          "score": 99.69,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "potassium deficiency disease",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Glycolic acid",
+          "slug": "glycolic_acid",
+          "score": 99.66,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "aortic malformation",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Glycolic acid",
+          "slug": "glycolic_acid",
+          "score": 99.58,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "disorder of carbohydrate absorption and transport",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Glycolic acid",
+          "slug": "glycolic_acid",
+          "score": 99.52,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hyperinsulinemic hypoglycemia, familial",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Glycolic acid",
+          "slug": "glycolic_acid",
+          "score": 99.48,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "autosomal recessive hyperinsulinism due to SUR1 deficiency",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Glycolic acid",
+          "slug": "glycolic_acid",
+          "score": 99.44,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Glycolic acid",
+          "slug": "glycolic_acid",
+          "score": 99.44,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "helminthiasis, animal",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Protamine sulfate",
+          "slug": "protamine_sulfate",
+          "score": 50.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "classical swine fever",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Protamine sulfate",
+          "slug": "protamine_sulfate",
+          "score": 50.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hip dysplasia, canine",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Protamine sulfate",
+          "slug": "protamine_sulfate",
+          "score": 50.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hepatitis, viral, animal",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Protamine sulfate",
+          "slug": "protamine_sulfate",
+          "score": 50.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "gingivitis",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Protamine sulfate",
+          "slug": "protamine_sulfate",
+          "score": 50.0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "gingival overgrowth",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Protamine sulfate",
+          "slug": "protamine_sulfate",
+          "score": 50.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "epidermitis, exudative, of swine",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Protamine sulfate",
+          "slug": "protamine_sulfate",
+          "score": 50.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "encephalomyelitis, enzootic porcine",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Protamine sulfate",
+          "slug": "protamine_sulfate",
+          "score": 50.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "edema disease of swine",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Protamine sulfate",
+          "slug": "protamine_sulfate",
+          "score": 50.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "neurotrophic keratopathy",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Eflornithine",
+          "slug": "eflornithine",
+          "score": 99.38,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "congenital analbuminemia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Eflornithine",
+          "slug": "eflornithine",
+          "score": 98.89,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hyperamylasemia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Eflornithine",
+          "slug": "eflornithine",
+          "score": 98.75,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "polyclonal hyperviscosity syndrome",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Eflornithine",
+          "slug": "eflornithine",
+          "score": 98.75,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "trypanosomiasis, bovine",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Eflornithine",
+          "slug": "eflornithine",
+          "score": 98.42,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "blood group incompatibility",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Eflornithine",
+          "slug": "eflornithine",
+          "score": 98.36,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "monoclonal gammopathy",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Eflornithine",
+          "slug": "eflornithine",
+          "score": 98.18,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "premalignant hematological system disease",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Eflornithine",
+          "slug": "eflornithine",
+          "score": 98.1,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "congenital prothrombin deficiency",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Eflornithine",
+          "slug": "eflornithine",
+          "score": 98.02,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "bronchitis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ferric carboxymaltose",
+          "slug": "ferric_carboxymaltose",
+          "score": 99.0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "bronchial neoplasm (disease)",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ferric carboxymaltose",
+          "slug": "ferric_carboxymaltose",
+          "score": 96.59,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "myositis fibrosa",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ferric carboxymaltose",
+          "slug": "ferric_carboxymaltose",
+          "score": 96.06,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "laryngotracheitis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ferric carboxymaltose",
+          "slug": "ferric_carboxymaltose",
+          "score": 95.82,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "His bundle tachycardia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Urofollitropin",
+          "slug": "urofollitropin",
+          "score": 99.69,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "restless legs syndrome",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Urofollitropin",
+          "slug": "urofollitropin",
+          "score": 99.69,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "multifocal atrial tachycardia (disease)",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Urofollitropin",
+          "slug": "urofollitropin",
+          "score": 99.54,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "postural orthostatic tachycardia syndrome",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Urofollitropin",
+          "slug": "urofollitropin",
+          "score": 99.52,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "anxiety",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Iohexol",
+          "slug": "iohexol",
+          "score": 99.25,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "sleep disorder, initiating and maintaining sleep",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Iohexol",
+          "slug": "iohexol",
+          "score": 98.61,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "fibromyalgia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Iohexol",
+          "slug": "iohexol",
+          "score": 98.46,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "amyotrophic lateral sclerosis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Alpelisib",
+          "slug": "alpelisib",
+          "score": 98.4,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "malignant catarrh",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Bempedoic acid",
+          "slug": "bempedoic_acid",
+          "score": 99.58,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pregnancy associated osteoporosis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Bempedoic acid",
+          "slug": "bempedoic_acid",
+          "score": 99.17,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "nephrogenic syndrome of inappropriate antidiuresis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Amodiaquine",
+          "slug": "amodiaquine",
+          "score": 99.12,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "polycystic kidney disease 3 with or without polycystic liver disease",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Tolvaptan",
+          "slug": "tolvaptan",
+          "score": 99.99,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "renal-hepatic-pancreatic dysplasia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Tolvaptan",
+          "slug": "tolvaptan",
+          "score": 99.98,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "karyomegalic interstitial nephritis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Tolvaptan",
+          "slug": "tolvaptan",
+          "score": 99.98,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "thoracic malformation",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Tolvaptan",
+          "slug": "tolvaptan",
+          "score": 99.98,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Joubert syndrome with renal defect",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Tolvaptan",
+          "slug": "tolvaptan",
+          "score": 99.98,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "adult familial nephronophthisis-spastic quadriparesia syndrome",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Tolvaptan",
+          "slug": "tolvaptan",
+          "score": 99.98,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Ambras type hypertrichosis universalis congenita",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Tolvaptan",
+          "slug": "tolvaptan",
+          "score": 99.96,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hypertrichosis (disease)",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Tolvaptan",
+          "slug": "tolvaptan",
+          "score": 99.96,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "malformation syndrome with odontal and/or periodontal component",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Tolvaptan",
+          "slug": "tolvaptan",
+          "score": 99.96,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "syndrome with a Dandy-Walker malformation as major feature",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Tolvaptan",
+          "slug": "tolvaptan",
+          "score": 99.95,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "plasma cell myeloma",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Fludarabine",
+          "slug": "fludarabine",
+          "score": 99.82,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Fludarabine",
+          "slug": "fludarabine",
+          "score": 99.76,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "indolent plasma cell myeloma",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Fludarabine",
+          "slug": "fludarabine",
+          "score": 99.76,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "brain small vessel disease 1 with or without ocular anomalies",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Fludarabine",
+          "slug": "fludarabine",
+          "score": 99.76,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "diabetic nephropathy",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Fludarabine",
+          "slug": "fludarabine",
+          "score": 99.68,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "open-angle glaucoma",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Terlipressin",
+          "slug": "terlipressin",
+          "score": 99.78,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "primary hereditary glaucoma",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Terlipressin",
+          "slug": "terlipressin",
+          "score": 99.77,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "glaucoma 1, open angle",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Terlipressin",
+          "slug": "terlipressin",
+          "score": 99.27,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "glaucoma",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Terlipressin",
+          "slug": "terlipressin",
+          "score": 98.87,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "conjunctivitis (disease)",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Flucloxacillin",
+          "slug": "flucloxacillin",
+          "score": 99.69,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "myeloid leukemia",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Palbociclib",
+          "slug": "palbociclib",
+          "score": 98.94,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "primary cutaneous T-cell lymphoma",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.72,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pediatric systemic lupus erythematosus",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.71,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "primary cutaneous T-cell non-Hodgkin lymphoma",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.5,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "primary cutaneous B-cell lymphoma",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.38,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "candidiasis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.28,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "complement component 4a deficiency",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.24,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "non-seminomatous lesion",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Cetuximab",
+          "slug": "cetuximab",
+          "score": 99.95,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "chondroid hamartoma",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Cetuximab",
+          "slug": "cetuximab",
+          "score": 99.95,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "bronchial adenomas/carcinoids childhood",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Cetuximab",
+          "slug": "cetuximab",
+          "score": 99.95,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "ductal or ductular proliferation",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Cetuximab",
+          "slug": "cetuximab",
+          "score": 99.95,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "tumor of testis and paratestis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Cetuximab",
+          "slug": "cetuximab",
+          "score": 99.95,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "odontogenic cyst",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Cetuximab",
+          "slug": "cetuximab",
+          "score": 99.95,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "thyroglossal duct cyst",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Cetuximab",
+          "slug": "cetuximab",
+          "score": 99.95,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "epiglottis neoplasm",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Cetuximab",
+          "slug": "cetuximab",
+          "score": 99.95,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cystic neoplasm",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Cetuximab",
+          "slug": "cetuximab",
+          "score": 99.95,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pre-malignant neoplasm",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Cetuximab",
+          "slug": "cetuximab",
+          "score": 99.95,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    }
+  ]
 }
