@@ -1,41 +1,31 @@
 # InTxGNN - India Drug Repurposing Predictions
 
-Drug repurposing prediction system for India using TxGNN knowledge graph.
+[![Website](https://img.shields.io/badge/Website-intxgnn.yao.care-blue)](https://intxgnn.yao.care)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Overview
-
-InTxGNN uses the TxGNN knowledge graph to predict potential new therapeutic uses for drugs available in India.
-
-## Installation
-
-```bash
-uv sync
-```
-
-## Usage
-
-```bash
-# Process drug data
-uv run python scripts/process_fda_data.py
-
-# Prepare vocabulary data
-uv run python scripts/prepare_external_data.py
-
-# Run KG prediction
-uv run python scripts/run_kg_prediction.py
-
-# Generate FHIR resources
-uv run python scripts/generate_fhir_resources.py
-```
-
-## Data Sources
-
-- Indian Medicine Dataset (253,973 drugs)
-- TxGNN Knowledge Graph
-- DrugBank
-- ClinicalTrials.gov
-- PubMed
+Drug repurposing predictions for India using the TxGNN model.
 
 ## Disclaimer
 
-This project is for research purposes only. The predictions have not been clinically validated and do not constitute medical advice.
+- The results of this project are for research purposes only and do not constitute medical advice.
+- Drug repurposing candidates require clinical validation before application.
+
+## Project Overview
+
+| Item | Count |
+|------|-------|
+| **Drug Reports** | 818 |
+| **Total Predictions** | 2,181,255 |
+
+## Prediction Methods
+
+### Knowledge Graph Method
+Direct querying of drug-disease relationships in the TxGNN knowledge graph, identifying potential repurposing candidates based on existing connections in the biomedical network.
+
+### Deep Learning Method
+Uses the TxGNN pre-trained neural network model to compute prediction scores, evaluating the likelihood of new therapeutic indications for approved drugs.
+
+## Links
+
+- Website: https://intxgnn.yao.care
+- TxGNN Paper: https://doi.org/10.1038/s41591-023-02233-x
