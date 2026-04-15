@@ -1,15 +1,147 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-04-14T18:54:07.222114+00:00",
-  "total_fetched": 90,
-  "unique_count": 90,
-  "health_related_count": 74,
+  "fetched_at": "2026-04-15T01:12:33.305668+00:00",
+  "total_fetched": 103,
+  "unique_count": 103,
+  "health_related_count": 78,
   "news": [
+    {
+      "id": "f70a2df7b2cd",
+      "title": "Research helps power safe return of astronauts in historic Orion splashdown - Phys.org",
+      "published": "2026-04-15T00:40:03+00:00",
+      "summary": "Research helps power safe return of astronauts in historic Orion splashdown&nbsp;&nbsp;Phys.orgNASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth&nbsp;&nbsp;NASA (.gov)The best photos from NASA's first moon mission in more than 50 years&nbsp;&nbsp;NBC NewsArtemis 2 astronauts celebrate successful return to Earth photo of the day for April 13, 2026&nbsp;&nbsp;Space'I have not processed what we just did': Artemis II astronauts share all in first news conference since splashdown&nbsp;",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56WGIwYVZtNXpockZfOVJROFF5WW9fQmlKWnVBODNuc05sTWI5VWlwT2RzcjI1elJSYUNoaGpSb3Y1dDNUUmMxX3VvUU5EcWZ3aWZ1V1NsX1BvcElqcEloaFhTS295WE4wc3ZUWTkyd09ZT0UzZVB5d3VKYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a5aaaec6941a",
+      "title": "A Distinct New Type of Diabetes Is Now Officially Recognized - ScienceAlert",
+      "published": "2026-04-14T23:56:26+00:00",
+      "summary": "A Distinct New Type of Diabetes Is Now Officially Recognized&nbsp;&nbsp;ScienceAlert",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1VxMTdtcFZxWUJjQ2ZzYWdhRTlrWVJQSVVKQUlsZ1dTbkduNVdOLTRZaWdYRks0QW01c2lPbnVHRkw2QXZ0TlFoa3lrdko5cUpUcW5mcUdWdWtkc1V3WnZDY09qNFlEOW1Ca1JNN1pBMkhHODNvbVA0RTE0cVl5Q2NaX3d0cWQzeEo0UGduTnIyZmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b2bc73771555",
+      "title": "Study finds when parents are depressed may shape children’s mental health for decades - News-Medical",
+      "published": "2026-04-14T23:54:00+00:00",
+      "summary": "Study finds when parents are depressed may shape children’s mental health for decades&nbsp;&nbsp;News-MedicalParental Depression: How Does Timing Impact Mental Health in Adult Offspring?&nbsp;&nbsp;Yale School of MedicineStudy links mother's depression in late pregnancy to psychosis symptoms in children as adults&nbsp;&nbsp;Metro VaarthaParental depression timing may shape adult children's mental health for decades&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXdfSTA5SlR6MVUwZzdqOHdvUlpfblNwNS1SQmItY0lzZGhHUWhndmpzRTBBVkFhWUI3Z1ZQWHRRZW54SjF3N3N6T1lRLVZFQ01MZFEzaFN2Y0FsVVBjRTV4cHpwY3J0Z19vQnBhNFFCN29GTU5ySDh5ZThFOE5aX3Zwa2NmTEhuSzlVRGpzVjduNVhwbkdBWi16aGhkc08wNHRRT3hVb2lNcXRKZDNCemQ3UDNBajBQTzdJSUFwT0pCbU1sSlB3TnIxWHFxeDVQeF9KNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5fb5cdb73d27",
+      "title": "Transfer Learning Improves Five-Year Breast Cancer Prognosis - Let's Data Science",
+      "published": "2026-04-14T23:28:05+00:00",
+      "summary": "Transfer Learning Improves Five-Year Breast Cancer Prognosis&nbsp;&nbsp;Let's Data Science",
+      "sources": [
+        {
+          "name": "Let's Data Science",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYm9USUs1OXVoVURlZzFJRDNNQW96NVdBX1RuLTBUS1BDV2JXQjVqdEtCU0RhQUI4N3FSY0JPRUlNclVMWXY2VWM2TXlOaTBkX0djeUJrMWRRSDhGY1hpaWF6d3psMTJobkxqbjdmYXFlTDlHM3g2d3RxNU1HcXBkYzZBb0JXU2JKcFZQdS16UVhFR2Z4TDc2QnhSekl1aTdBSEw2WQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "acbf682053fc",
+      "title": "Indian scientists identify subsurface ice near Moon’s south pole - TV BRICS",
+      "published": "2026-04-14T22:55:12+00:00",
+      "summary": "Indian scientists identify subsurface ice near Moon’s south pole&nbsp;&nbsp;TV BRICSThe moon's oldest and darkest craters could be hiding the most water ice. That's good news for future astronauts&nbsp;&nbsp;SpaceObservational constraints on the history of lunar polar ice accumulation&nbsp;&nbsp;NatureA New Study Narrows the Search for Water on the Moon&nbsp;&nbsp;Universe TodayWater buried on Moon for billions of yrs is stable, reveals Chandrayaan-2 data | The study was published in the journal",
+      "sources": [
+        {
+          "name": "TV BRICS",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT1dZRFM0LVZnRDVpbElxeUw2OHZQTTdwRHh2eHpsd05lZGU4R2IxYjUzb2RwSVhRUnUxclltb2pGRkFTYnZPWTZMcTYzQ25iQkZueVZXSGQyeWhFQ2I4YlExeDZmOFdGME9zcVBJOXl2LS1sNlViME9SSDJKVl9aMXBELUQ1NTd5SWZyVDFBQXZ3WFNieGg3WA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1b3ccbcc419b",
+      "title": "Researchers Expose Hidden Chemistry of “Ore-Forming” Elements in Biology - SciTechDaily",
+      "published": "2026-04-14T21:26:08+00:00",
+      "summary": "Researchers Expose Hidden Chemistry of “Ore-Forming” Elements in Biology&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUjdSc0JsTkIxa04tVHhQeENSWm1SdUxianB6a2hSUUk4cTZjRXJHRFJyVDBpemRzRkUzRy15T3pfSU5LSzhjeFVEcWR4V1c4RHhlZDVNOVNTZHhsYk5KSGxxNjQ0NUYwUWo3NlhEbG1KVl82eVdvQXdTbG1LWlZ3SnI4NndOeXpKdUttbW1DREQ2UzNOTFZDMXZQbmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e79dcad80e6",
+      "title": "How Gut Microbiome Shapes Atherosclerosis Risk - European Medical Journal",
+      "published": "2026-04-14T20:25:53+00:00",
+      "summary": "How Gut Microbiome Shapes Atherosclerosis Risk&nbsp;&nbsp;European Medical Journal",
+      "sources": [
+        {
+          "name": "European Medical Journal",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVdEa0xsYmtCd0lQNUR2YkJiTHhiV1BtVl9JRldGWkJ6OGJnbDRJbWIzcEdmWS1ONkhqLS16eXRwOHd1eE8zLVdwaW1OLWp2X2t3OE45M1NyOEtreTUtV1pDaEJyT0g1UWhVY2JqbXJfNkRrTjRiRWJyVVpjcXpXT01DallJVnYzUEUtTHV3MXYzQjZqR1B2ODV4c3dPeHM0cHR6eUpkc1hUMFMyeVd1aFBn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "591fa94210a4",
+      "title": "Is Yellowstone volcano near eruption? New study sparks buzz, scientists urge caution - Mint",
+      "published": "2026-04-14T20:09:57+00:00",
+      "summary": "Is Yellowstone volcano near eruption? New study sparks buzz, scientists urge caution&nbsp;&nbsp;MintYellowstone’s magma source may be closer to the surface than expected&nbsp;&nbsp;Earth.comYellowstone’s Dreaded Supervolcano Has an Unexpected Power Source, Study Says&nbsp;&nbsp;GizmodoVolcanic Eruption and Yellowstone’s Hidden Shift in Hazard Thinking&nbsp;&nbsp;El-Balad.comScientists Uncover Hidden Force Powering Yellowstone’s Supervolcano&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "Mint",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa3pkZ2RvbkRCdzJwRU9Ra2NIbTFTcTJQWFZOZHN4bE13Z1dTS2p5VEprLW5kcVd6NXNVdU1IRU9UbnJ0WDdCYjVNQU1hZVFBbVhoMGJ2NG1tc2JtSEgyaG5sS3FIZnVDcHIxNDZYZGVUYmI3emhkS29TQWtUMmdmZFhpWFlEUDY0UlZuZGs3VkJUM2owXy1BR2hBcEFCOFJKQm1uTG9KRG5qalRQX2ZRVkMtdkJFemlrdndWckdmYUZNalN1My1BX2p5bUo4M1dBd2psWGZ30gHbAUFVX3lxTE1wT3liTFQ5MTdNdS00LUJBeThOM1JfN05ZVVJFY0NiTWZ0VzNHTm1BWnI1dXpIVWRqeWx2VHNEQVFFRGpLeFpsdzFicGRwZEE1cnZOTVByVGlkNk9oR2JHbXZjRnA3NkhadVY2UHl2SmZtTE9MUVpTd040VDNtZnhRakZteVlwNVMzdmk1SWhxR0JQTDhYZ1Vjd2EzY2tGSGphUi1lS1Y1dERmc3BldWstZmkxT29kdmZJUWF0Q09WVkhaZHNfNV9WYUlJSERBU1lxX09zWHNIMmVZVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b83b4b92ac04",
+      "title": "Study Links Autism and Alzheimer Disease Through Shared Pathophysiology - Psychiatric Times",
+      "published": "2026-04-14T19:24:13+00:00",
+      "summary": "Study Links Autism and Alzheimer Disease Through Shared Pathophysiology&nbsp;&nbsp;Psychiatric TimesAnavex links autism and Alzheimer’s via autophagy dysfunction By Investing.com&nbsp;&nbsp;Investing.com IndiaAutism research evolves: Early signs key as scientists explore possible brain links with Alzheimer’s&nbsp;&nbsp;FirstpostAlzheimer's-Autism Links; Early-Onset Dementia Risks; CAR-T for MS?&nbsp;&nbsp;MedPage TodaySurprising links between autism, Alzheimer’s could change how we treat both&nb",
+      "sources": [
+        {
+          "name": "Psychiatric Times",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObTd3akV6LUJvSERMYV8yU2tkenI3dmx3NjhpcnprU2JtdDhzaHZ6VTVWeFdFeGtGNm9JWFM2TUFjZTlraWRONjBmSzhqeHNwX0Q1SUlGOXBmUkJfLTczMkdYZGRhRUY3MjVsTFNuNTF6ZFRzTl9TTHM0enBLS2hWSzhSazZJMUZaNmJwWTNhSGVoNS1LZnZZcTBnUkM5Wm81aVdKbFZuU0lyeDU2bmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c04fae1e9c01",
+      "title": "Two new TB vaccine candidates show promise but fail to stop infection - Gavi, the Vaccine Alliance",
+      "published": "2026-04-14T17:53:26+00:00",
+      "summary": "Two new TB vaccine candidates show promise but fail to stop infection&nbsp;&nbsp;Gavi, the Vaccine AllianceTrial assesses safety and effectiveness of two new TB vaccines&nbsp;&nbsp;Medical DialoguesTB vaccine candidates offer limited protection in phase 3 trial&nbsp;&nbsp;CIDRAPTuberculosis DNA vaccine nasal delivery shows therapeutic promise in Johns Hopkins study&nbsp;&nbsp;valleyvanguardonline.comNew TB vax safe but may not protect against all infections&nbsp;&nbsp;The Hans India",
+      "sources": [
+        {
+          "name": "Gavi, the Vaccine Alliance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnNxeHg2ZVQxRjBScWozNGxQdmdoc1BpeXJYNlQ2S2NidHJVemxLMmxRaU1XU2RXc3R0THpSZk94UWQzWGdDaExBbEJaaVFLYUZhMWlac09zbWJQYUM4VVNYS3NBSUgxeEZaZXJKNUVpcHJLc2VJSVk2YWg4eEkxMVRHYzJsLThnYjctTGhMM3g2ZERQZGpCNjd4M2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "515ffdf088bf",
+      "title": "EU NextGen project advances personalised cardiology by integrating genomic and clinical data into AI models - European Society of Cardiology",
+      "published": "2026-04-14T17:35:12+00:00",
+      "summary": "EU NextGen project advances personalised cardiology by integrating genomic and clinical data into AI models&nbsp;&nbsp;European Society of CardiologyArtificial intelligence in cardiovascular care: from promise to practice&nbsp;&nbsp;joint-research-centre.ec.europa.euMU research shows AI outperforms traditional heart risk assessment models&nbsp;&nbsp;KOMU 8How FIU and Baptist Health are Using AI and Sound to Detect Heart Disease Earlier&nbsp;&nbsp;Baptist HealthEU NextGen Project creates personal",
+      "sources": [
+        {
+          "name": "European Society of Cardiology",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmw2aVU5WUM3OU1FUmdOTmVxMFRONC1uT1lYUXBnU2ZtQ1ZPbklkdGlGSmxGbUp3SmJfR2RnNDJqX0U1WHQ0LWhZT1BuU0U5ZUhKTGU1WExXVDBwdnB6bmFfVmVCVEVjTTd0TEVMc2YtOGdadGs3Ny1UUGtnQmRuWHBvVGdwdHUySTlWRllUSnBoX3pSRHoycWgyRTlReXlwcTB6RllB?oc=5"
+        }
+      ]
+    },
     {
       "id": "f99b5e725245",
       "title": "Clairity Breast Is Added to NCCN Guidelines for Breast Cancer Screening and Diagnosis - OncLive",
       "published": "2026-04-14T15:37:18+00:00",
-      "summary": "Clairity Breast Is Added to NCCN Guidelines for Breast Cancer Screening and Diagnosis&nbsp;&nbsp;OncLiveFaster breast cancer detection; Tekion’s AI-native pivot&nbsp;&nbsp;YourStory.comThe MASAI Trial Just Made AI-Augmented Mammography the Standard of Care. The FDA Hasn’t Noticed&nbsp;&nbsp;The Clinical Trial VanguardNew AI Mammograms Could Predict Breast Cancer Risk Years Earlier—Starting at 35&nbsp;&nbsp;Oprah DailyAI-Driven Risk Assessment: Implementing Clarity Breast in Clinical Practice&nbs",
+      "summary": "Clairity Breast Is Added to NCCN Guidelines for Breast Cancer Screening and Diagnosis&nbsp;&nbsp;OncLiveFaster breast cancer detection; Tekion's AI-native pivot&nbsp;&nbsp;DailyhuntThe MASAI Trial Just Made AI-Augmented Mammography the Standard of Care. The FDA Hasn’t Noticed&nbsp;&nbsp;The Clinical Trial VanguardNew AI Mammograms Could Predict Breast Cancer Risk Years Earlier—Starting at 35&nbsp;&nbsp;Oprah DailyAI-Driven Risk Assessment: Implementing Clarity Breast in Clinical Practice&nbsp;&n",
       "sources": [
         {
           "name": "OncLive",
@@ -18,14 +150,38 @@
       ]
     },
     {
-      "id": "5e2885c5434b",
-      "title": "Scientists just discovered 5.6 million bees under a New York State cemetery - Dailyhunt",
-      "published": "2026-04-14T15:23:14+00:00",
-      "summary": "Scientists just discovered 5.6 million bees under a New York State cemetery&nbsp;&nbsp;DailyhuntBeneath this cemetery, 5.5 million wild bees form a giant underground city vital to spring pollination&nbsp;&nbsp;Phys.orgCornell Researchers Record One of the Largest Ground-Nesting Bee Populations Ever Documented&nbsp;&nbsp;Bioengineer.orgGround-Nesting Bee Populations Don't Get Publicity But They're Everywhere&nbsp;&nbsp;Science 2.0Study finds millions of ground-nesting bees thriving in Ithaca ceme",
+      "id": "cb387b85a033",
+      "title": "NASA Spaceline Current Awareness List #1,195 10 April 2026 (Space Life Science Research Results) - astrobiology.com",
+      "published": "2026-04-14T15:24:03+00:00",
+      "summary": "NASA Spaceline Current Awareness List #1,195 10 April 2026 (Space Life Science Research Results)&nbsp;&nbsp;astrobiology.com",
       "sources": [
         {
-          "name": "Dailyhunt",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU1pCaG1wbEFFWWJNLVgtS0cya1NDcHhZRWZsajVhRzZBRWJiQkFCTlRiNFVWM2V1eVVIOUJQT2ZqWl9VdHZ1Z2pLdWtaZWQ4WGNXVTN1S1pBM3hvdnFxRTlRTFhMZTZ0dzlISWJUZlVYeTc2X3lhc09QZU1ENXZPX19WRXdJX2NfYl8zOHhlU3VJeWszSG1UbjY5Q2RNajdXWVlSa2l1SWJfUWphSFNRV1pRT1kyQ3AxQVR0NU1SczhhTXlCSURHSl9udXJjOTd1ZDZXRkpwM0pKYVJHaTIxbVMwS000QjV1V1dTaTFqeXFPRGM?oc=5"
+          "name": "astrobiology.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1RfOU8tUW9NVDZDWUFkTG9ZT0FydV83TFpOSHZxeWJDWFhwSHJmMWxiLUR0R2dVaFFqd3dvaHNvcUFaa3VEYzdINEJRenNUQ0NVS0ZXaHpnbTZvYzBXZURCRUlQRVBEempvZTlfVUladm5oanJBdmFmVmhfVExQOFNXUXdhZDdYNjdYUHc2MGJhWU9FREEzREkxcExBeXNLa2xFb1ZDX3pVd0tCNnFkLVlJaXlKM2lkVGV5N3Y5MWRFbjY1Q0lZRUFB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4d6cf6caa8fc",
+      "title": "Ground bees discovery 2026: 5.6 million found under New York cemetery site. - Deccan Herald",
+      "published": "2026-04-14T15:22:22+00:00",
+      "summary": "Ground bees discovery 2026: 5.6 million found under New York cemetery site.&nbsp;&nbsp;Deccan HeraldBeneath this cemetery, 5.5 million wild bees form a giant underground city vital to spring pollination&nbsp;&nbsp;Phys.orgGround-Nesting Bee Populations Don't Get Publicity But They're Everywhere&nbsp;&nbsp;Science 2.0Cornell Researchers Record One of the Largest Ground-Nesting Bee Populations Ever Documented&nbsp;&nbsp;Bioengineer.orgStudy finds millions of ground-nesting bees thriving in Ithaca ",
+      "sources": [
+        {
+          "name": "Deccan Herald",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0UtV1djLXZmTTBteXAyN2RzQXpwS2o0LWhHSjVJSjNhdUN3REoxYjdORTZyMVl4UlI2YXhSSkpNeVFGYXZTMzNLaVlyejJIMHpuWC1mRzRxRW9tMEJ1OUNQb3Q4OTRjUENSU21aZF83cG92c1JMZzY1YlFkU1NFZkVwdHZvblA3ZWRhRmVXeFJrNUQwNHdzMy1HZnZsbHhmaHpPOGl5X3NvNEhXZjFMZzBMU2lNLXJFclRFcQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4596d5e03364",
+      "title": "Non-resolving Pulmonary Consolidation Mimicking Tuberculosis: A Diagnostic Pitfall Revealing Lung Adenocarcinoma - Cureus",
+      "published": "2026-04-14T15:12:52+00:00",
+      "summary": "Non-resolving Pulmonary Consolidation Mimicking Tuberculosis: A Diagnostic Pitfall Revealing Lung Adenocarcinoma&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbUs1dFdqbDJrcGpjd0hiak9sVExNUnNSdGt6WjFXUi1PUHBWNURFNkd3V0FpR3EydEpaamgtWmtycjlsLUxCaTJMZDNjWVQxR2pJajIycV80TUZjNFNBeG4yaWQ2RHZEcjBFV1FYSGhQWUpJVGU1Q3VGVWZoUU5aQmFQcFJBeEJQUFFxeEZWUEdJVHAwbDU3SC16R09RU2NqZXp4bXpaMlBBd3k0NUVtWHg3MnluY1d4akhNVlFDdGxjb08zTk9QcWppOFpzTmtsSnVabVlhRXRTMnI3LXRJZUQ0NHU?oc=5"
         }
       ]
     },
@@ -42,14 +198,26 @@
       ]
     },
     {
-      "id": "421917d07361",
-      "title": "This Artemis 2 astronaut really loves Rise photo of the day for April 14, 2026 - Space",
-      "published": "2026-04-14T14:23:02+00:00",
-      "summary": "This Artemis 2 astronaut really loves Rise photo of the day for April 14, 2026&nbsp;&nbsp;SpaceHow Artemis 2 commander Reid Wiseman saved the mission's moon mascot: 'It's hard not to love this little guy. I can't let Rise out of my sight'&nbsp;&nbsp;SpaceArtemis II Astronauts' Emotional Message For The Little Crew Member Wins Hearts Online&nbsp;&nbsp;NDTVCommander Reid Wiseman ensures Rise returns after Artemis 2 flyby&nbsp;&nbsp;NewsBytes“Not Something I Was Going To Do”: Artemis II Commander B",
+      "id": "d6878c1b3203",
+      "title": "Atypical Unilateral-Onset Guillain-Barré Syndrome Mimicking Acute Stroke: A Case Report - Cureus",
+      "published": "2026-04-14T14:32:52+00:00",
+      "summary": "Atypical Unilateral-Onset Guillain-Barré Syndrome Mimicking Acute Stroke: A Case Report&nbsp;&nbsp;Cureus",
       "sources": [
         {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYlFITzVKcFhjMjFCSWt5bklPWXphSkJGbVBoaFBueWtTQkwtbXBGV19ta2d4MzhsSldBY29URUM5bFJhSENwXzVPWk1qdEh4LWtMeDhYT2JFWkp5VHAtaHlhVzRiR3ZCQ2ZmWkhwY1JQQ1ZrYnZlY3pjY2NkVE40dkNsT3pOcDVaRUowY1ZSNUJsdkgwT2pyTGVxRWFydmg1UEowaGZUMXV1UkNDLWM3UkNKMm0xQW1jdWh6SWFybVdSUVdIa0UyeHpyQQ?oc=5"
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZHZMRU4ycWtCeld6T2IzLVNQYXRhRjNRZ1J6NVJ0a1NZR0JxT1RCM1QyZ2pGb2N1NHB5eTk2anF0eGI1LTdROHVvTjV6MjNZbHBlYU1yN243bDdrWjJSYnp3Z3lGREdjWWNPYjltME5mWkRNSk9rMk51aU5Pd1FVV3g4RHNSTEpUREFsUEVadUNRdWNhZ3FXVWozRThQOFdyMDR4RFZ1SU1jeUlpdDVjdVZ0XzV0eG9sTXhjbnpoQVpSZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7cd92de95d0e",
+      "title": "Scientists make Parkinson's drug from plastic in world first - Medical Xpress",
+      "published": "2026-04-14T14:20:01+00:00",
+      "summary": "Scientists make Parkinson's drug from plastic in world first&nbsp;&nbsp;Medical XpressScientists make Parkinson’s drug from plastic in world first&nbsp;&nbsp;The ConversationScientifically Speaking: The Plastic Pharmacy| India News&nbsp;&nbsp;Hindustan TimesTurning Plastic Waste into Parkinson's Medicine: A Sustainable Breakthrough&nbsp;&nbsp;National TodayHealth: Scientists turn plastic bottles into Parkinson’s drug&nbsp;&nbsp;RVtravel",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLV9mQUZWRTMyMW5aUERRZzRwXzc2ZEY1b0hiUXdlUzJ4ODJ6NURBMTVydkNQUU0ySDNaUmF1c3pkQldSUzBfazNPc3lqQlczS3AwcXF2N3FxUVZ3LUFSdEpZbzZSUTNxeXAwU2llVExqekhUR0E5dVB2NmJKdC1Pa016NXI3b0ZrbEZn?oc=5"
         }
       ]
     },
@@ -62,30 +230,6 @@
         {
           "name": "European Medical Journal",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQXzhmeGtUdW4zR2szRV9NTTZJckVGN1czbDdNNzg3bmdxeS1oZ2JVdXdxVnBJdW1OaUUyTFlNaHdkMWRILWlnV0g5aktuNUxaRlZqSTdOX21PYXdjVWtzdXVDNERFRE9jX3ZfMDVBdGdPWGdOWnhaQmtBZDg0b1hJdDZaZ3l2QlU4QnZ5UVBTNmF0cndyWHVtUTVRaUFSWTItRV9MSkdGR29xeVB6MkxrYjRSZ1NEUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2ff30aaaad70",
-      "title": "Tuberculosis vaccine shows promise as once-fatal disease evades treatment - The Detroit News",
-      "published": "2026-04-14T13:53:00+00:00",
-      "summary": "Tuberculosis vaccine shows promise as once-fatal disease evades treatment&nbsp;&nbsp;The Detroit NewsTB vaccine candidates offer limited protection in phase 3 trial&nbsp;&nbsp;CIDRAPPhase 3 Study Finds New TB Vaccines Safe but Shows Limited Protection Across All Forms&nbsp;&nbsp;Voice of HealthcareTwo new vaccines show promise in tackling TB, especially among kids&nbsp;&nbsp;The Times of IndiaIndia trial of nearly 13,000 people finds new TB vaccine halves extrapulmonary TB risk&nbsp;&nbsp;The So",
-      "sources": [
-        {
-          "name": "The Detroit News",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR01kQmNEdDJQVTVGTVpmcW9VUEk1WEd0QnVWU1Zaa3pTMUtFRkV3MHpPQmZLOFZGTXBmeFljeVktdzZDNnh6VTlFbXY2TEhBM1daSWpzVnJnSVNVNVZRTmN0TU5UeE5ZUGwwOG9iLXV0LURKMTlrVGxBU2hqWjJQMXo4RXR0dGltYlB6Sk5aZUJSMHNIUnFWdi1Qb0dVR2xIR3ZqYlZna0pNbWp5b1UzeTFPeDZDYTgyWDFsdEF5cFBnaVk5cDJBMGZFT05tVVE4Rk5wS2huTXEtN21JR2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4596d5e03364",
-      "title": "Non-resolving Pulmonary Consolidation Mimicking Tuberculosis: A Diagnostic Pitfall Revealing Lung Adenocarcinoma - Cureus",
-      "published": "2026-04-14T13:47:59+00:00",
-      "summary": "Non-resolving Pulmonary Consolidation Mimicking Tuberculosis: A Diagnostic Pitfall Revealing Lung Adenocarcinoma&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbUs1dFdqbDJrcGpjd0hiak9sVExNUnNSdGt6WjFXUi1PUHBWNURFNkd3V0FpR3EydEpaamgtWmtycjlsLUxCaTJMZDNjWVQxR2pJajIycV80TUZjNFNBeG4yaWQ2RHZEcjBFV1FYSGhQWUpJVGU1Q3VGVWZoUU5aQmFQcFJBeEJQUFFxeEZWUEdJVHAwbDU3SC16R09RU2NqZXp4bXpaMlBBd3k0NUVtWHg3MnluY1d4akhNVlFDdGxjb08zTk9QcWppOFpzTmtsSnVabVlhRXRTMnI3LXRJZUQ0NHU?oc=5"
         }
       ]
     },
@@ -117,11 +261,23 @@
       "id": "b5fc4ce1f54f",
       "title": "The 'Cicada' COVID Variant: A New Name, A Familiar Landscape - Health and Me",
       "published": "2026-04-14T12:53:55+00:00",
-      "summary": "The 'Cicada' COVID Variant: A New Name, A Familiar Landscape&nbsp;&nbsp;Health and MeHighly Mutated Cicada COVID-19 Variant Spreading Across US: Key Symptoms Revealed&nbsp;&nbsp;Times NowCovid-19: Cicada is the latest SARS-CoV-2 variant&nbsp;&nbsp;The StarScientists detect new Covid strain in airplane toilets as it becomes dominant in Ireland&nbsp;&nbsp;Irish MirrorA new ‘Cicada’ COVID-19 variant is spreading across the US, including in Texas&nbsp;&nbsp;star-telegram.com",
+      "summary": "The 'Cicada' COVID Variant: A New Name, A Familiar Landscape&nbsp;&nbsp;Health and MeMissouri Doctors Track Cicada COVID Variant as Cases Remain Limited&nbsp;&nbsp;MissourinetA new ‘Cicada’ COVID-19 variant is spreading across the US, including in Texas&nbsp;&nbsp;star-telegram.comCovid-19: Cicada is the latest SARS-CoV-2 variant&nbsp;&nbsp;The StarHighly Mutated Cicada COVID-19 Variant Spreading Across US: Key Symptoms Revealed&nbsp;&nbsp;Times Now",
       "sources": [
         {
           "name": "Health and Me",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVlpDZy1Xd1NTNmptSm1vZUxXVkgzWnlzV1RxcTg1aVJkWDI2bXBkaTQ4ZkNlNW9PZEw0NzBDYTNXbHRIdUpIREcxWU5UN00tQVJnS24tb01PNm1pZWN3RU50RFgwMnFhTWFiajZXU1NzZFRVejNDZlN0MFBoQWg1ZDZDUXlhRW1zN2NpTUQxY0htLXhqYWlpeFZqOHJERnlqV0VRXzlHSWhNQW1BQU82MnRIOEs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c34b2bdf5f14",
+      "title": "PrEP Use ‘Strikingly Low’ in People Younger Than 25 - Medscape",
+      "published": "2026-04-14T12:51:03+00:00",
+      "summary": "PrEP Use ‘Strikingly Low’ in People Younger Than 25&nbsp;&nbsp;MedscapeHIV Preexposure Prophylaxis Lags Among US Youth&nbsp;&nbsp;European Medical JournalStudy Flags Gaps in PrEP Use Among Youth at Risk for HIV&nbsp;&nbsp;MedPage Today",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1ROVEpLRjhYUWVxMlp5ZGUxZEZjTGNuTGk5NmJGOGgxbTZ4ZFN3dWg3dnBHYWdwU3hKS2R3UjVEck5GbWV0SFhQNkNKUTBpX21nQ2dRbS1QVlplMlZfTDAxcGxqbUEtdGtxX3VHZkJUdzdYQ3NfWUs0SlB5dHBCLTIzT091WldkQlIyTXBDOFI4UUY5aWRnSGdScFQ?oc=5"
         }
       ]
     },
@@ -141,7 +297,7 @@
       "id": "74d7c4d5d401",
       "title": "DBS at Wockhardt Hospitals Brings Relief in Advanced Parkinson’s Case - The Indian Practitioner",
       "published": "2026-04-14T12:37:37+00:00",
-      "summary": "DBS at Wockhardt Hospitals Brings Relief in Advanced Parkinson’s Case&nbsp;&nbsp;The Indian PractitionerIndia’s first adaptive deep brain stimulation performed at Apollo Hospitals Chennai&nbsp;&nbsp;The News MinuteAIIMS To Try No-Surgery Brain Treatment as Parkinson’s Strikes Younger Indians&nbsp;&nbsp;The Times of IndiaNew technology offers hope for Parkinson’s patients&nbsp;&nbsp;YahooDelayed DBS referrals limit Parkinson's treatment outcomes: AIIMS experts&nbsp;&nbsp;Awaz The Voice",
+      "summary": "DBS at Wockhardt Hospitals Brings Relief in Advanced Parkinson’s Case&nbsp;&nbsp;The Indian PractitionerIndia’s first adaptive deep brain stimulation performed at Apollo Hospitals Chennai&nbsp;&nbsp;The News MinuteMom With Young-Onset Parkinson’s Finds Relief With Adaptive Deep Brain Stimulation&nbsp;&nbsp;Cleveland ClinicNew technology offers hope for Parkinson’s patients&nbsp;&nbsp;YahooBeyond Medicines: How DBS Surgery Is Helping Parkinson’s Patients Reclaim Movement and Independence&nbsp;&nb",
       "sources": [
         {
           "name": "The Indian Practitioner",
@@ -153,7 +309,7 @@
       "id": "06326d66e1b0",
       "title": "Artemis II astronaut’s emotional reunion with dog melts hearts after lunar mission - video goes viral - The Economic Times",
       "published": "2026-04-14T12:19:01+00:00",
-      "summary": "Artemis II astronaut’s emotional reunion with dog melts hearts after lunar mission - video goes viral&nbsp;&nbsp;The Economic TimesWatch: Artemis II Astronaut's Heartwarming Reunion With Pet Dog Melts Internet&nbsp;&nbsp;NDTVHeartwarming video shows Artemis II astronaut Christina Koch reuniting with her dog&nbsp;&nbsp;NBC NewsFrom lunar orbit to chasing waves: Astronaut Christina Koch’s emotional reunion with dog goes viral&nbsp;&nbsp;The Indian Express‘I love you to the moon and back’: Christin",
+      "summary": "Artemis II astronaut’s emotional reunion with dog melts hearts after lunar mission - video goes viral&nbsp;&nbsp;The Economic TimesWatch: Artemis II Astronaut's Heartwarming Reunion With Pet Dog Melts Internet&nbsp;&nbsp;NDTVArtemis II's Christina Koch posts video of Sadie greeting her&nbsp;&nbsp;NewsBytesHeartwarming video shows Artemis II astronaut Christina Koch reuniting with her dog&nbsp;&nbsp;NBC NewsFrom lunar orbit to chasing waves: Astronaut Christina Koch’s emotional reunion with dog g",
       "sources": [
         {
           "name": "The Economic Times",
@@ -177,11 +333,23 @@
       "id": "a832f1d2f169",
       "title": "Parkinson’s disease: recognising symptoms early is key to prompt diagnosis and treatment - The Hindu",
       "published": "2026-04-14T11:25:24+00:00",
-      "summary": "Parkinson’s disease: recognising symptoms early is key to prompt diagnosis and treatment&nbsp;&nbsp;The HinduCommon myths about Parkinson’s disease that delay diagnosis and treatment&nbsp;&nbsp;The Times of IndiaMax Hospital spreads awareness around Parkinson’s disease&nbsp;&nbsp;Tribune IndiaParkinson’s isn’t just an old-age disease anymore; doctors warn early signs are being ignored&nbsp;&nbsp;FirstpostExperts urge early treatment to slow Parkinson’s progression | Daily Sabah&nbsp;&nbsp;Daily ",
+      "summary": "Parkinson’s disease: recognising symptoms early is key to prompt diagnosis and treatment&nbsp;&nbsp;The HinduCommon myths about Parkinson’s disease that delay diagnosis and treatment&nbsp;&nbsp;The Times of IndiaMax Hospital spreads awareness around Parkinson’s disease&nbsp;&nbsp;The TribuneParkinson’s isn’t just an old-age disease anymore; doctors warn early signs are being ignored&nbsp;&nbsp;FirstpostExperts urge early treatment to slow Parkinson’s progression | Daily Sabah&nbsp;&nbsp;Daily Sa",
       "sources": [
         {
           "name": "The Hindu",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLWFsN3I5MjcxVFY1dTBoVlVQTWlfa1hibmVlUmJjSndQTlZCa0oteGRwNE1NLVNYZi1nZWpXTGdkZk1yN0NJZGlhUWZTT1d2X2N6U0Ruel9yY2JDU1MtT3cxdXpmTGdnV29WWDlPNXNHSVd4M1EtTlR2QXFIbWVVQ3NocjJtaFRHUV8wOUNpWWpvS1RiM3BXQ2dFN3FPbXNnZnVRX2NtTzh1cEtPWGhVaHJTTUdlSmQtOU1hR0dIakdJbjVlRGw3T0xtUXl6bnNJVWxONHdIWnh2QlltMkIxcdIB5wFBVV95cUxNaGozMlBoQVpkTEJPNFk0VmtaNmp2M3Jyb0pOSDhMN3plcDVEOGdEY0kwOU90Z0VEY1hiNy0yTlVxT1lQdXdtYlpmZkttZ1N1c1hpODYzSWp3MW5JcWlTZ29iR2c0a3dlVHBWNER0UTNxX0dnZ3V3dnFzWFNrM1hCbEc4VUJ4SHdNdlptY2NlR3hISHVIdXNQUEpkZ2czWi02emdrNU9GVmt4S2pjcGFoMmZ0blhuczZ2cXZKbmQzQXR3ZVNQWjJzSU5JNGJHS19uWWY2Z1pGeW1DLXk4MWh0VUt6MWZ5dnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6a198c730120",
+      "title": "Study Links Eating More Meat to Lower Dementia Risk, But Only in One Group - ScienceAlert",
+      "published": "2026-04-14T11:01:19+00:00",
+      "summary": "Study Links Eating More Meat to Lower Dementia Risk, But Only in One Group&nbsp;&nbsp;ScienceAlertResearchers: Eating More Meat May Lower Alzheimer’s Risk—but Only for 1 Specific Group&nbsp;&nbsp;inc.comResearch suggests eating meat might be linked to a lower risk of dementia – but there’s a catch&nbsp;&nbsp;Women's HealthHigher Meat Intake Benefits cognitive health in Genetically Defined Subgroup: JAMA&nbsp;&nbsp;Medical DialoguesOpinion | Studies Suggest Red Meat May Help Prevent Alzheimer’s&n",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDM2eUpfVXNYVTFwRlhINkpOMUlJQlQ5WDR6VGNvNXU3RGFweFpqNmVITEVEbUdlNHpGYmZ3XzY2cVUxdE51RkFFVG5CY3ZNYzFvRE5LM0kwdWlxNUFual9fcndGS3E1OWpJSkpSSk54OFo3X185UnVlUGMyVWw4VzBmQklNWHpzVElqODhsSmpIaUZNUU1vNlIwcVhOMWZIVUpIVQ?oc=5"
         }
       ]
     },
@@ -194,18 +362,6 @@
         {
           "name": "Health and Me",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWdiMXBHaVlRWmgyeUdOUnBGX1oyVmh2TnFVLUJzZW5VNW42bndscnBnckVGRXhyM3A1czdUTG51bmdjaTBOMEZLdEtaSjYzLUNwdVd4OWt6UFNRa3ZKQTZ4dWFYczh0SUc1NEF2TjZtNUNxdGRlanFsMDFvbjVUa0VGYmRzeF9keTVmWTl5clU1cEVCbkotNzBFSVJhOGg3SXRpOXdWTlgtMm5nZ1p5Mm1XRGxaRGVWbi03dVlvY2otQTZN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "681a13f1d868",
-      "title": "Scientists make Parkinson’s drug from plastic in world first - The Conversation",
-      "published": "2026-04-14T10:42:50+00:00",
-      "summary": "Scientists make Parkinson’s drug from plastic in world first&nbsp;&nbsp;The ConversationScientifically Speaking: The Plastic Pharmacy| India News&nbsp;&nbsp;Hindustan TimesTurning Plastic Waste into Parkinson's Medicine: A Sustainable Breakthrough&nbsp;&nbsp;National TodayHealth: Scientists turn plastic bottles into Parkinson’s drug&nbsp;&nbsp;RVtravel",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRHZCakIxSUtCdzY2X0NGdUpYWnpqcXNSNXBiOElFazVVdEx3UHYwSVBFeGhsc3l0NkZvYUhDYXBGM19nTnVGRDNHaTVPZDhoMzROMk1DeWstQlVGVF9LVmxNZGQ3V2x4ZDRnMGRaREZXMVdmUG9BOUNHYlhzTkhVRGZLbl9KZVhpQzFxbkZFZW1ZNmlvb0trYkpR?oc=5"
         }
       ]
     },
@@ -237,7 +393,7 @@
       "id": "cc01c9ef0d24",
       "title": "Is Vitamin D the missing piece in dementia prevention? - theweek.in",
       "published": "2026-04-14T10:25:47+00:00",
-      "summary": "Is Vitamin D the missing piece in dementia prevention?&nbsp;&nbsp;theweek.inCommon Vitamin May Reduce Buildup of Alzheimer's Proteins, Study Finds&nbsp;&nbsp;ScienceAlertWhy People in Their 40s Should Be Checking Their Vitamin D Levels, According to New Research&nbsp;&nbsp;inc.comYour vitamin D levels in midlife could shape your brain decades later&nbsp;&nbsp;ScienceDailyThis Supplement Could Protect Your Brain From Dementia, New Study Suggests&nbsp;&nbsp;EatingWell",
+      "summary": "Is Vitamin D the missing piece in dementia prevention?&nbsp;&nbsp;theweek.inCommon Vitamin May Reduce Buildup of Alzheimer's Proteins, Study Finds&nbsp;&nbsp;ScienceAlertThis Supplement Could Protect Your Brain from Dementia, New Study Suggests&nbsp;&nbsp;EatingWellWhy People in Their 40s Should Be Checking Their Vitamin D Levels, According to New Research&nbsp;&nbsp;inc.comNew Study Finds Vitamin D Offers 'Triple Protection' Against Memory Loss&nbsp;&nbsp;National Today",
       "sources": [
         {
           "name": "theweek.in",
@@ -254,18 +410,6 @@
         {
           "name": "European Medical Journal",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjF2WkZHLWZDZHR3bXVzT001U1Q1YzNlVWlwZEpSWFplQVp3c3FTUVhIaXYxT0lTcE5vcGdKM25jMVBDY3V5c2N3S0ZXekhzRWFFa2tReDV1bHRrX2hIRlJUYnFEWW5NY2Q3MndLSXU5SUp1a2hjNFJoeE9zOFJ5ZHpYeEMydWJ2TVFTem01ZVBnYkhKcU52YUtR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cfdc1ecbd827",
-      "title": "The moon's oldest and darkest craters could be hiding the most water ice. That's good news for future astronauts - Space",
-      "published": "2026-04-14T10:00:00+00:00",
-      "summary": "The moon's oldest and darkest craters could be hiding the most water ice. That's good news for future astronauts&nbsp;&nbsp;SpaceObservational constraints on the history of lunar polar ice accumulation&nbsp;&nbsp;NatureA New Study Narrows the Search for Water on the Moon&nbsp;&nbsp;Universe TodayWater buried on Moon for billions of yrs is stable, reveals Chandrayaan-2 data | The study was published in the journal Nature | Inshorts&nbsp;&nbsp;InshortsMoon's tilt shifts likely concentrated water i",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdXQ2ZUQzbU1qMkU3Z2FvR0FXV2R4OEdYcDd0LWpTd25mb0h5TVJrUnU4b2lQVWxNbzh5T3A1T2hNenF4Y1diV2tTbzJHNUpLUkl0dkhROGxncUNhS04zYU9ELUlFUmtTSkI1bERsaGs3em81S3FOTHh2UlZDR2FPc1l2bFJvSEZmenotSmsxRHBXWGRNSEFDNzkyQ3hnTG4zaFp0R0Z1WmpCN2JpNHFMZkhHRkVpcHpPVEdXc1ZsRkVnUUhfWHZPSWJDWEN2M1Z3WjdWSEh0VVNvam5aSHRz?oc=5"
         }
       ]
     },
@@ -294,22 +438,10 @@
       ]
     },
     {
-      "id": "e8f8e73c49dd",
-      "title": "What A Major Study Reveals About Hydration & Kidney Stone Risk - Yahoo",
-      "published": "2026-04-14T09:00:00+00:00",
-      "summary": "What A Major Study Reveals About Hydration & Kidney Stone Risk&nbsp;&nbsp;YahooDrinking Enough Water to Prevent Kidney Stones is Difficult, Even With Support&nbsp;&nbsp;Duke TodayHydrated Or Overhydrated? How Balance Is Key To Healthy Kidneys&nbsp;&nbsp;Health and Me2 types of juice that help cool down in the summer, good for the kidneys&nbsp;&nbsp;Laodong.vnIn the heart of the ‘Stone Belt,’ Ochsner LSU Health – Regional Urology offers modern kidney stone treatments&nbsp;&nbsp;The Shreveport-Bos",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUtaSGxsc3c1dXNfRmNUOUVKTU8zeGsyVWFmamdOUExhSGZKeGZLaEI0Y2FpVENMTXV0Y2VKcW11azliTDhjSUdGNS1SQm0tVXVfeFZJbHRLZG1pRGxBNG1JSmkySG11aFpDZEdWVHZEWU5pV1AxODRwTm9SRV9NaVcxdjdVTGgwR3NFcUdURWxSVTV2M0JN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d911162163dd",
       "title": "Study Reveals Stigma Patterns in Sickle Cell Disease - European Medical Journal",
       "published": "2026-04-14T08:49:27+00:00",
-      "summary": "Study Reveals Stigma Patterns in Sickle Cell Disease&nbsp;&nbsp;European Medical Journal",
+      "summary": "Study Reveals Stigma Patterns in Sickle Cell Disease&nbsp;&nbsp;European Medical JournalStudy identifies intersectional biases affecting care for sickle cell patients&nbsp;&nbsp;News-MedicalBias in sickle cell care may be tied to opioid stigma, new study finds&nbsp;&nbsp;Sickle Cell Disease NewsStudy Finds Clinician Bias Fuels Stigma in Sickle Cell Care&nbsp;&nbsp;National TodayClinician Bias Linked to Opioid Stigma in Sickle Cell Care&nbsp;&nbsp;respiratory-therapy.com",
       "sources": [
         {
           "name": "European Medical Journal",
@@ -357,7 +489,7 @@
       "id": "780bc76a9855",
       "title": "‘Have 60% of your daily fibre in breakfast’: UK surgeon explains why you should eat fibre early in the day | Health - Hindustan Times",
       "published": "2026-04-14T07:56:34+00:00",
-      "summary": "‘Have 60% of your daily fibre in breakfast’: UK surgeon explains why you should eat fibre early in the day | Health&nbsp;&nbsp;Hindustan TimesWhat Is ‘Fiber Training’—And Why Should You Be Doing It?&nbsp;&nbsp;SELF Magazine7 things patients should know about protein maxxing&nbsp;&nbsp;American Medical AssociationHOMETOWN HEALTH: Fiber called ‘it’ nutrient of the year for gut health benefits&nbsp;&nbsp;WDBJ7In the online 'maxxing' era, what's the deal with fiber and protein?&nbsp;&nbsp;Philstar L",
+      "summary": "‘Have 60% of your daily fibre in breakfast’: UK surgeon explains why you should eat fibre early in the day | Health&nbsp;&nbsp;Hindustan TimesWhat Is ‘Fiber Training’—And Why Should You Be Doing It?&nbsp;&nbsp;SELF Magazine7 things patients should know about protein maxxing&nbsp;&nbsp;American Medical AssociationHOMETOWN HEALTH: Fiber called ‘it’ nutrient of the year for gut health benefits&nbsp;&nbsp;WDBJ7Health Beat: Fiber may be the 'it' nutrient&nbsp;&nbsp;WFMZ.com",
       "sources": [
         {
           "name": "Hindustan Times",
@@ -366,22 +498,10 @@
       ]
     },
     {
-      "id": "22710539af8a",
-      "title": "Family History + Diabetes = Higher Glaucoma Risk, Says Expert - News18",
-      "published": "2026-04-14T07:48:56+00:00",
-      "summary": "Family History + Diabetes = Higher Glaucoma Risk, Says Expert&nbsp;&nbsp;News18",
-      "sources": [
-        {
-          "name": "News18",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0s2YkJobEY5SW12SnREWDN0TzBfaFJRaTZ4S0tnc0dFWEJ2aFlaelVpLVBDcjhVQ1FNR3V1ZlJPMm5JQ0JFWW1Pc3l0ZlNPdHlUamlnUldoeWtCTTFqbjdVVVNBcW5yaTVET1hLSk5fVDZFUjNMUXdpUzFXLXNSNGdyaUVfbjRDczZnZ2hVRWVIQ3NHYjJBVEZFYkN1bk54UmtfcjVxMXZzcWlBczBtc1U3bE5TM1FzZC1wTVNUSdIBxAFBVV95cUxONVNKZHJ5Y29LdGg2VV9TeGVkOEs1VDRuSUh0dU9GbkY0UkN2TTliYWpDUXpjWVltMGFEVEpabkFoVGV4ZkhDR2EtNWFyZ1F1SmZ3cDlkLVNTV1pJeEZEOW1jamh3OGw5NXpkRlB6eUlBZHlyOENyNzZPemVRdmxlLVBUVU9EYy1vcVhhVHYyY1p1RHRhOFhabWwxdXctc3hROTNKbUFRNUhad2NoVFo5b0piQWxXUHJ2bWtGWnZGZlptdDFn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2ebefae5aa85",
       "title": "Longevity expert Bryan Johnson warns this one bad habit is harming your liver - Moneycontrol.com",
       "published": "2026-04-14T07:07:55+00:00",
-      "summary": "Longevity expert Bryan Johnson warns this one bad habit is harming your liver&nbsp;&nbsp;Moneycontrol.comNot just alcohol addiction, longevity expert reveals the one bad habit that can cause damage to your liver&nbsp;&nbsp;The Economic TimesLiver Health: Silent killer of the liver: How lifestyle changes and early screening can prevent cirrhosis before it’s too late&nbsp;&nbsp;The Times of IndiaBinge Drinking Once a Month May Triple Liver Fibrosis Risk&nbsp;&nbsp;European Medical JournalAlcohol V",
+      "summary": "Longevity expert Bryan Johnson warns this one bad habit is harming your liver&nbsp;&nbsp;Moneycontrol.comLiver Health: Silent killer of the liver: How lifestyle changes and early screening can prevent cirrhosis before it’s too late&nbsp;&nbsp;The Times of India5 silent signs of liver disease a non-alcoholic must know | Tap to know more | Inshorts&nbsp;&nbsp;InshortsThe Hidden Health Cost of Binge-Watching and Binge-Drinking&nbsp;&nbsp;Azat TVAlcohol Vs Lifestyle: Which Is The Bigger Threat To Yo",
       "sources": [
         {
           "name": "Moneycontrol.com",
@@ -390,22 +510,10 @@
       ]
     },
     {
-      "id": "6ae25cb7a9e7",
-      "title": "‘Mounjaro Brides’: Why Experts Are Warning Against Pre-Wedding Weight Loss Injections - News18",
-      "published": "2026-04-14T06:49:55+00:00",
-      "summary": "‘Mounjaro Brides’: Why Experts Are Warning Against Pre-Wedding Weight Loss Injections&nbsp;&nbsp;News18‘Magic pill’ moment: How weight-loss drugs are changing India&nbsp;&nbsp;Forbes IndiaDoctors warn ‘Mounjaro brides’ against taking risky shortcuts amid rise of pre-wedding weight loss injections in India&nbsp;&nbsp;Hindustan TimesAIIMS Expert Warns Semaglutide Cannot Replace Lifestyle Changes&nbsp;&nbsp;Medical DialoguesFrom Ozempic to Mounjaro: Is this India’s ‘magic pill moment’ for obesity?&",
-      "sources": [
-        {
-          "name": "News18",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNFlGT0I4eEZqOW5wb2dfMFQzYjdEOGNOTURZbXllcUdFd1FTSmRSSXRJQzNLRGtINmItc2M0cGxZd0w5Q0dfTnBySDBEMVBHMUl6Zk1rTmFhU1JyMXVSR045dFJhcjUtaEVSdURjTHM2c3pKVGg2UWw1N1pob2lkeGkxT2U0VWd1d24yd0Z6YXpxNjVDWXRFNndiUU9EMU9rUjdkOGs1a01wVnA3UU9pV0k5WXVRcENMclRjMjRVaVRiVjNrMVNVUnFaSG9yeHhWU2fSAdcBQVVfeXFMTzU5U0lkdUdweEFyaUNBQ2Q0MVBSSFliQVg5X3JsM2VScFVZQjhvdU9CR1hxQ0lOVGw1cVMwTzJLVGNvYVlNQThiRTFRQ181aEQ4RGdfN08ycE0zdkt5eklRdWkwMUhjT1YzSlROT3FVdTRac0dLNDFzenBzbTdPOWkwZWRjUjBmel92djBKcWJ3Q1RqQUtrY19ZcXI3SWJFV2o2MEtsMzF4d2xVT2xJdnpMeVpDTXhOLTNqQlFGenVvMWp4TEozTEN1M2NmNEIwZU9sRFhkU1U?oc=5"
-        }
-      ]
-    },
-    {
       "id": "32cd9229330d",
       "title": "10-minute walk after meals can help control blood sugar spikes: Why timing matters more than step count and how to make it a daily habit - The Times of India",
       "published": "2026-04-14T06:30:00+00:00",
-      "summary": "10-minute walk after meals can help control blood sugar spikes: Why timing matters more than step count and how to make it a daily habit&nbsp;&nbsp;The Times of IndiaExercise and Diabetes: Benefits, Risks, and What Patients Should Know&nbsp;&nbsp;University of Colorado AnschutzHow Does Exercise Help With Diabetes?&nbsp;&nbsp;Mirage NewsMinutes matter most when exercising to control blood sugar&nbsp;&nbsp;The University of British ColumbiaTiny tweaks that can lower blood sugar without much effort",
+      "summary": "10-minute walk after meals can help control blood sugar spikes: Why timing matters more than step count and how to make it a daily habit&nbsp;&nbsp;The Times of IndiaExercise and Diabetes: Benefits, Risks, and What Patients Should Know&nbsp;&nbsp;CU Anschutz newsroomHow Does Exercise Help With Diabetes?&nbsp;&nbsp;Mirage NewsMinutes matter most when exercising to control blood sugar&nbsp;&nbsp;The University of British ColumbiaTiny tweaks that can lower blood sugar without much effort&nbsp;&nbsp",
       "sources": [
         {
           "name": "The Times of India",
@@ -429,23 +537,11 @@
       "id": "dda864abae0f",
       "title": "Packet food, daily damage: global heart body flags diet risk as India’s crisis grows - The Times of India",
       "published": "2026-04-14T05:48:00+00:00",
-      "summary": "Packet food, daily damage: global heart body flags diet risk as India’s crisis grows&nbsp;&nbsp;The Times of IndiaLongevity doctor shares 5 foods that improve heart health: From blueberries to salmon&nbsp;&nbsp;Hindustan TimesLongevity expert shares 5 foods to add to your daily diet to avoid surprise heart attack&nbsp;&nbsp;Moneycontrol.com5 foods to eat for better heart health&nbsp;&nbsp;MSNHeart-Friendly Dietary Alternatives Ride Policy and Scientific Momentum—Is This Expandable Approach Poise",
+      "summary": "Packet food, daily damage: global heart body flags diet risk as India’s crisis grows&nbsp;&nbsp;The Times of IndiaLongevity expert shares 5 foods to add to your daily diet to avoid surprise heart attack&nbsp;&nbsp;Moneycontrol.comLongevity doctor shares 5 foods that improve heart health: From blueberries to salmon&nbsp;&nbsp;Hindustan Times5 foods to eat for better heart health&nbsp;&nbsp;MSNHeart-Friendly Dietary Alternatives Ride Policy and Scientific Momentum—Is This Expandable Approach Poise",
       "sources": [
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONV9EYk0tUVVuZVlZaUlGdzhoUjY2V3hZcGpzaVlJdGtDTnlVeXVMTVc1YTlySlNFUFBPWlVjSFdiWWJmRDh2N0lCQ1NZZGV2eEpRYmxqd0hFdTVvWDExdXNuMUtaUEdid1gxWGctU3o3MWN2a1MyQ2U2Z2JvSl9qd3Zxa0NDbTlmZDJNNzg1NS1iWEN4YjBpSWNmWFpDVjZjZEJKQ1dsdXVrNTl2Y2U4d3o5NFFfWU9vREIxMVhnU3F4dDdNcHpXSkRUWU53bC1XN3JDTnRNZjFnQm44QkJDUnJTdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ba01a757ce8f",
-      "title": "World Liver Day 2026: Can your liver heal itself? Expert explains the science of liver regeneration - TheHealthSite",
-      "published": "2026-04-14T05:32:00+00:00",
-      "summary": "World Liver Day 2026: Can your liver heal itself? Expert explains the science of liver regeneration&nbsp;&nbsp;TheHealthSiteThe Rs 500 Test That Can Prevent A Rs 20 Lakh Hospitalisation: Why Liver Screening Should Be Part Of Every Insurance Plan&nbsp;&nbsp;NDTVLiver Disease Symptoms Are Easy To Miss—Watch for These Red Flags&nbsp;&nbsp;Woman's World\"I thought I was healthy,” until a routine test revealed early liver damage: Warning signs people miss and simple changes that helped reverse it&nbsp",
-      "sources": [
-        {
-          "name": "TheHealthSite",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaktPaUJTclAtbFRUX2VnMWN1RzcyeFdUYTNRdlpYRGJtdU1BYVFNX3FyVkE0M3FWUms3QTF6c0tXRnp3d2RpcUJlQm51cldSb1lOdDFjZWhHLVRwUmkzblBwUlJuNWhIdXVTMTNRa2ZwTkQ5N3poWDVqOUFHMG0xQkpyWWtQRXJtazZzazk2S1BSVzl0czlEcWdHbTVUbkU1Rzg2Y0NWc3hkN0Z6NEZRN0lQTFlUUjZHWXV1cjNRdDZ5M3hmZUxENURGNXIzZDdQdVdkc21sT18wU2FlZ2EyYWtzRDQ4d9IB6wFBVV95cUxOcDNlNHpuQks2Tlgzd3h2NkxkVXJsYVVYZ1RGWkN4aFJUU2NnbFB3ZFM0WHhzX19NVDJhMVY1ekNaNTJ0MXROVlgxUzJ2b3AwREZ0VWJQbTZOS3ZydFNfNERKNU01dERHUUFiNmJ3U3hJbTRrc3FrazJhblNDaTFlMVdIOHdzRTIyalpKalBWMHhwTENMTEdwUkdCa2VVOTZqTG5Hd1VkLVQxdVdicmJBV2JEWjNpUnJuQlV0alpVNEh6S05NUTJ2V3FaY0gxWGZhYTJLV0UwQkU5eHJCMDA3UEZqVVRWMjdoYXgw?oc=5"
         }
       ]
     },
@@ -477,7 +573,7 @@
       "id": "48763b818c22",
       "title": "Annual Incidence of Treatment-Related Acute Myeloid Leukemia Is Increasing - Hematology Advisor",
       "published": "2026-04-14T04:00:00+00:00",
-      "summary": "Annual Incidence of Treatment-Related Acute Myeloid Leukemia Is Increasing&nbsp;&nbsp;Hematology AdvisorA Growing Consequence of Cancer Therapy: What tAML Means for Patients and Pharmacists&nbsp;&nbsp;Pharmacy TimesRates of Treatment-Related Blood Cancers Are Increasing in Japan&nbsp;&nbsp;Inside Precision MedicineBig Jump in Therapy-Related AML Amid Growth in Population of Cancer Survivors&nbsp;&nbsp;MedPage TodayRise In Therapy-Linked Blood Cancer Seen Among Survivors: Study&nbsp;&nbsp;Outlook",
+      "summary": "Annual Incidence of Treatment-Related Acute Myeloid Leukemia Is Increasing&nbsp;&nbsp;Hematology AdvisorA Growing Consequence of Cancer Therapy: What tAML Means for Patients and Pharmacists&nbsp;&nbsp;Pharmacy TimesBig Jump in Therapy-Related AML Amid Growth in Population of Cancer Survivors&nbsp;&nbsp;MedPage TodayRise In Therapy-Linked Blood Cancer Seen Among Survivors: Study&nbsp;&nbsp;Outlook IndiaGradual rise in myeloid leukemia witnessed after chemotherapy or radiation therapy , reveals st",
       "sources": [
         {
           "name": "Hematology Advisor",
@@ -494,18 +590,6 @@
         {
           "name": "Oncology Nurse Advisor",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMEczNDdXTk14amd6ZnZjdVBMVDZuVGllcHlUOHNaZTdGa2JBWXZnOWhPVURnd3FMRHhkVFlRR3FCSEl5cG1SQlB4dHNGNVZHMDBsZTZWX2VCQ294QkFqT3JBeERCLUFDRXg3eFRhNkhGXzBRX0JZMnExTVI3cmdjRlgtd3ZGWmVLVUw3NHhVc2k5Wi0zNzdhNm1wSDNFRVNGaHhOZFJlZGhTRWJCY09EaUVHeUs1TDhkaWVuVVl3OEdvUVhkN0tTQUpFb3RSZ0hNWmcycWVtdEFNR1haQjN4SzU1cEk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5e6f38d28a14",
-      "title": "Apolipoprotein B Cost-Effective for Guiding Primary Prevention Lipid-Lowering Therapy - Medical Professionals Reference",
-      "published": "2026-04-14T04:00:00+00:00",
-      "summary": "Apolipoprotein B Cost-Effective for Guiding Primary Prevention Lipid-Lowering Therapy&nbsp;&nbsp;Medical Professionals ReferenceNew blood test may predict heart disease better than cholesterol&nbsp;&nbsp;Earth.comAlternative Blood Test More Effective for Guiding Heart Disease Treatment&nbsp;&nbsp;Clinical Lab ProductsNew blood tests could pinpoint heart and stroke risk&nbsp;&nbsp;National TodayThe Cholesterol Test Doctors Rarely Order Might Actually Be the One That Predicts Heart Attacks The Mos",
-      "sources": [
-        {
-          "name": "Medical Professionals Reference",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRE8tdjhIYS1oYUVhazFvOEFjR1g2aWJONkc4UmhrQjViSEFkMmk4VnJxNmh1MVQxbWdZQWFxanhkNVBYSXBwQmZWNGxlSzlWVktaeEVMd2xVUHUyZzE2RktqblY2UklIZW84Y1d3b3A0aFpnakFjWUhoR1E5WkJOanhnYmtjbHhfdUNacFh5ZUhYRVRyaVpOVUp3ZW8ycFN0OXZQODFlSnQ2Ny15bkR4R3Zn?oc=5"
         }
       ]
     },
@@ -549,7 +633,7 @@
       "id": "d7586eae330a",
       "title": "Marriage Linked to Lower Cancer Risk In Study of 4 Million Cases - ScienceAlert",
       "published": "2026-04-13T23:31:22+00:00",
-      "summary": "Marriage Linked to Lower Cancer Risk In Study of 4 Million Cases&nbsp;&nbsp;ScienceAlertSingle People Face Higher Cancer Rates, Study Finds&nbsp;&nbsp;NDTVAdults Who Never Married Have Higher Rates of Some Cancers&nbsp;&nbsp;University of MiamiThe Marriage Advantage: How Social Bonds Slash Cancer Risk&nbsp;&nbsp;streamlinefeed.co.keDoes marriage really lower cancer risk? Here's what the study reveals&nbsp;&nbsp;theweek.in",
+      "summary": "Marriage Linked to Lower Cancer Risk In Study of 4 Million Cases&nbsp;&nbsp;ScienceAlertSingle People Face Higher Cancer Rates, Study Finds&nbsp;&nbsp;NDTVLarge Study Suggests Marriage May Be Associated With Reduced Cancer Risk: Study&nbsp;&nbsp;Medical DialoguesAdults Who Never Married Have Higher Rates of Some Cancers&nbsp;&nbsp;University of MiamiThe Marriage Advantage: How Social Bonds Slash Cancer Risk&nbsp;&nbsp;streamlinefeed.co.ke",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -585,7 +669,7 @@
       "id": "8304cc2fef43",
       "title": "Hot drinks and heartburn could be raising your cancer risk - Loma Linda University",
       "published": "2026-04-13T21:23:02+00:00",
-      "summary": "Hot drinks and heartburn could be raising your cancer risk&nbsp;&nbsp;Loma Linda UniversityWhen Heartburn Isn’t Harmless: Understanding the Link Between GERD and Esophageal Cancer&nbsp;&nbsp;Cure TodayUnderstanding Esophageal Cancer&nbsp;&nbsp;The Good Men ProjectEsophageal Cancer Awareness Month: Why the cancer risk rises manifold from the habits you ignore daily&nbsp;&nbsp;Moneycontrol.comCancer Q&amp;A with HOA: Esophageal Cancer&nbsp;&nbsp;WSYR",
+      "summary": "Hot drinks and heartburn could be raising your cancer risk&nbsp;&nbsp;Loma Linda UniversityUnderstanding Esophageal Cancer&nbsp;&nbsp;The Good Men ProjectEsophageal Cancer Awareness Month: Why the cancer risk rises manifold from the habits you ignore daily&nbsp;&nbsp;Moneycontrol.comCancer Q&amp;A with HOA: Esophageal Cancer&nbsp;&nbsp;WSYR",
       "sources": [
         {
           "name": "Loma Linda University",
@@ -597,7 +681,7 @@
       "id": "02469b4b840b",
       "title": "Roswell Park Teams Bring Latest Real-World Data, New Strategies to Treat Aggressive Cancers to AACR 2026 - FirstWord Pharma",
       "published": "2026-04-13T19:50:01+00:00",
-      "summary": "Roswell Park Teams Bring Latest Real-World Data, New Strategies to Treat Aggressive Cancers to AACR 2026&nbsp;&nbsp;FirstWord PharmaView Full coverage on Google News",
+      "summary": "Roswell Park Teams Bring Latest Real-World Data, New Strategies to Treat Aggressive Cancers to AACR 2026&nbsp;&nbsp;FirstWord PharmaPenn Medicine at the AACR Annual Meeting 2026&nbsp;&nbsp;Penn MedicineRoswell Park Teams Bring Latest Real-World Data, New Strategies to Treat Aggressive Cancers to AACR 2026 | Newswise&nbsp;&nbsp;NewswiseVital Signs: What to watch at AACR&nbsp;&nbsp;FirstWord PharmaAACR: Targeted drug delivery for colorectal cancer, COVID-19’s impact on breast cancer outcomes, AI i",
       "sources": [
         {
           "name": "FirstWord Pharma",
@@ -618,14 +702,14 @@
       ]
     },
     {
-      "id": "cae56e00ea01",
-      "title": "Mothers Help Set Fetal Circadian Rhythms During Pregnancy - respiratory-therapy.com",
-      "published": "2026-04-13T18:50:39+00:00",
-      "summary": "Mothers Help Set Fetal Circadian Rhythms During Pregnancy&nbsp;&nbsp;respiratory-therapy.comBabies begin syncing to their mother’s body clock before birth&nbsp;&nbsp;Earth.comMaternal signals help synchronize babies’ circadian rhythms before birth&nbsp;&nbsp;News-MedicalWomb’s Internal Clock: How Mothers Set the Fetal \"Metronome\"&nbsp;&nbsp;Neuroscience News",
+      "id": "a6775ca83aa8",
+      "title": "Hydrated Or Overhydrated? How Balance Is Key To Healthy Kidneys - Health and Me",
+      "published": "2026-04-13T18:30:00+00:00",
+      "summary": "Hydrated Or Overhydrated? How Balance Is Key To Healthy Kidneys&nbsp;&nbsp;Health and MeDrinking Enough Water to Prevent Kidney Stones is Difficult, Even With Support&nbsp;&nbsp;Duke Today2 types of juice that help cool down in the summer, good for the kidneys&nbsp;&nbsp;Laodong.vnIn the heart of the ‘Stone Belt,’ Ochsner LSU Health – Regional Urology offers modern kidney stone treatments&nbsp;&nbsp;The Shreveport-Bossier City AdvocateSigns You May Have a Kidney Stone: Early Symptoms You Should ",
       "sources": [
         {
-          "name": "respiratory-therapy.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3AtM2NoT1hFV2owNXY0TldodHZfXzZzOFNGdGFFYTA3RzBNSllUZGNsdkhFNnZhbV9Ka2xackhua01UNmQtbkFYcWg4V3l4aU45N2s4V2lFNWRQMGJ1QzJFT2hKeDkwU1FhQkVDWS00YVdEamY2UnAxUVJZN0NiLWxhajg5Nzlwamc4QnFDMW5pQ2xPU1ZaanM5QjBRX1h4czg5c3N1ZDl6VkZEa1d4TFNB?oc=5"
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjdxZTdIWm45UWp3bkl5Tmd4SVVkQUZaRUtqNV9EcGRQYmphT1B4d0FOSE5SRk52YWVSZU91czROTzZNTVpadExzTlVDaGFvVl9WNmZkVEVRVWFBYWMxcVB6Mmh2ODlYU2VGN2JkeU9JaTgwR3VwbkgyMVI1WDFpT2J5VFk2OEg2SmFQcDE4QjNJMTBpdjZVYUZ0Z2E0NGFIMENESjhyU1FaVUV6LWNBOU03LTZZWWJPbTc3eURsamtYUQ?oc=5"
         }
       ]
     },
@@ -645,7 +729,7 @@
       "id": "475133c59c33",
       "title": "Following the Success of Artemis II, Scientists Will Shape What Comes Next for Lunar Exploration - National Academies of Sciences, Engineering, and Medicine",
       "published": "2026-04-13T17:27:18+00:00",
-      "summary": "Following the Success of Artemis II, Scientists Will Shape What Comes Next for Lunar Exploration&nbsp;&nbsp;National Academies of Sciences, Engineering, and MedicineCongratulations to the Artemis II crew – but the case for sending astronauts into space is rapidly shrinking&nbsp;&nbsp;The GuardianUPSC Editorial Analysis: Artemis-II and the New Era of Lunar Exploration&nbsp;&nbsp;INSIGHTS IAS'It's OK to howl at Moon': Why Nasa streamed Artemis flight on Twitch&nbsp;&nbsp;The Times of IndiaArtemis ",
+      "summary": "Following the Success of Artemis II, Scientists Will Shape What Comes Next for Lunar Exploration&nbsp;&nbsp;National Academies of Sciences, Engineering, and MedicineCongratulations to the Artemis II crew – but the case for sending astronauts into space is rapidly shrinking&nbsp;&nbsp;The GuardianUPSC Editorial Analysis: Artemis-II and the New Era of Lunar Exploration&nbsp;&nbsp;INSIGHTS IASArtemis II | The great PR gig in the sky&nbsp;&nbsp;The New Indian ExpressArtemis II ushers in a new era of",
       "sources": [
         {
           "name": "National Academies of Sciences, Engineering, and Medicine",
@@ -666,10 +750,22 @@
       ]
     },
     {
+      "id": "c7756dd95b26",
+      "title": "Systematic Review Identifies Effective CSU Treatment Options - Dermatology Times",
+      "published": "2026-04-13T16:08:15+00:00",
+      "summary": "Systematic Review Identifies Effective CSU Treatment Options&nbsp;&nbsp;Dermatology TimesInternational Guideline Update Aids Urticaria Management&nbsp;&nbsp;Dermatology AdvisorRecognizing and managing chronic spontaneous urticaria’s far-reaching impacts&nbsp;&nbsp;Mayo Clinic PressHives (Urticaria) Alert: Causes, Symptoms & Prevention Tips You Should Know&nbsp;&nbsp;Live ChennaiFinding your solution: Treatment steps for chronic spontaneous urticaria&nbsp;&nbsp;Mayo Clinic Press",
+      "sources": [
+        {
+          "name": "Dermatology Times",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLU90Y1lMX2tyUUgyY3lMZ29zS0QybGkxemJGQU10M3lLNUQyV0kwUkw1TW54c0dPVGE0Qm1NOGUtdEEtZ1VWb21LTkJpNGc4TWFfRW82MGZrXy1uMXpNUXRjMjZOS0NvLWRlR1liVDFZSnFqSnRNNTNmdEV0elp2R1E0RkktamZLRE5NQlU4RGQ3V3doZHN1d3RLRDA5SGM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e44e7f75bbc5",
       "title": "Neurologist shares what to eat for stronger gut brain axis: From yoghurt, walnuts, turmeric to dark chocolate | Health - Hindustan Times",
       "published": "2026-04-13T15:45:59+00:00",
-      "summary": "Neurologist shares what to eat for stronger gut brain axis: From yoghurt, walnuts, turmeric to dark chocolate | Health&nbsp;&nbsp;Hindustan TimesIs it true that … having a diverse microbiome stops you from getting sick?&nbsp;&nbsp;The GuardianAutoimmune diseases may start in the gut: Early signs your immune system is turning against you and what you can do to restore balance&nbsp;&nbsp;The Times of IndiaEarly Laboratory-Based Study Explores the Biological Link Between Inflammatory Gut Bacteria a",
+      "summary": "Neurologist shares what to eat for stronger gut brain axis: From yoghurt, walnuts, turmeric to dark chocolate | Health&nbsp;&nbsp;Hindustan TimesIs it true that … having a diverse microbiome stops you from getting sick?&nbsp;&nbsp;The GuardianAutoimmune diseases may start in the gut: Early signs your immune system is turning against you and what you can do to restore balance&nbsp;&nbsp;The Times of IndiaYour Gut Is a Brain&nbsp;&nbsp;Harvard Medicine MagazineThe truth about gut health&nbsp;&nbsp",
       "sources": [
         {
           "name": "Hindustan Times",
@@ -705,7 +801,7 @@
       "id": "573ddf995d8a",
       "title": "Heart Disease Risk May Start Earlier Than Thought New Research Reveals Shocking Changes in Prevention Guidelines - The South India Times",
       "published": "2026-04-13T13:06:54+00:00",
-      "summary": "Heart Disease Risk May Start Earlier Than Thought New Research Reveals Shocking Changes in Prevention Guidelines&nbsp;&nbsp;The South India TimesWhy Kerala election results could decide Left or Rahul Gandhi’s future&nbsp;&nbsp;The Times of IndiaConfused About the New Cholesterol Guidelines? Here’s What to Know.&nbsp;&nbsp;The New York TimesNew Lipid Guidelines: A User’s Guide&nbsp;&nbsp;MedscapeThe Rise Of The 'Early Pill': What New Heart Guidelines Mean for You&nbsp;&nbsp;News18",
+      "summary": "Heart Disease Risk May Start Earlier Than Thought New Research Reveals Shocking Changes in Prevention Guidelines&nbsp;&nbsp;The South India TimesConfused About the New Cholesterol Guidelines? Here’s What to Know.&nbsp;&nbsp;The New York TimesNew Lipid Guidelines: A User’s Guide&nbsp;&nbsp;MedscapeFish Oil and Other Supplements Don't Lower Cholesterol, New Guidance Says&nbsp;&nbsp;Verywell HealthNew Cholesterol Guidelines Could Save Lives&nbsp;&nbsp;Radio Monmouth, IL",
       "sources": [
         {
           "name": "The South India Times",
@@ -750,18 +846,6 @@
       ]
     },
     {
-      "id": "561aff39b46d",
-      "title": "Stem cell therapy may free Type 1 diabetes patients from insulin - Telangana Today",
-      "published": "2026-04-13T09:17:33+00:00",
-      "summary": "Stem cell therapy may free Type 1 diabetes patients from insulin&nbsp;&nbsp;Telangana TodayCould Type 1 diabetes cure be near? North Palm Beach advocate thinks so&nbsp;&nbsp;The Palm Beach PostGene therapy and safer islet transplants: advances in type 1 diabetes research&nbsp;&nbsp;Diabetes UKControlling diabetes without insulin injections thanks to new implant&nbsp;&nbsp;BioTechniques",
-      "sources": [
-        {
-          "name": "Telangana Today",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOUGVCN3I1b3ZxeC1qS2trX2JMX0NsSFdZZGZMS2VicG9RTl9YdlRzMWZRbUVKQzAySDVuSTdvYi1iOHYtODNLTDhUUmpuT2dmQ2NHTFBWcXhhQjJna1BaUER2clVtQ2pVOXhzVVlBMUFiejB4NktnVTJOWllCSlhVSGxvcVlFZFkxdjBnU04yT2VZNjdfY0RCTldzTUlqTTRQZWJBVDhNako4M3RwcGxLVmQ2aFZmVHBFQl9jb28xVmRSdTZrUXN6QXZWekxsU2U5a0xBY01MRVhzQ002TjdfakxMTmY2cnRLWTlyc2pfMjhKZ2hsamZEUHdYNWpCZWZ5elN5UFN1SDdKYkprMDJzNTZlY093SzdmZDM0NElJR3Zsa1pBOEo5NjN1ZW9jeTJhTFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0fa4952ee1e4",
       "title": "Fatigue Closely Tracks Disease Activity in Myositis - European Medical Journal",
       "published": "2026-04-13T09:04:43+00:00",
@@ -770,6 +854,18 @@
         {
           "name": "European Medical Journal",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORFhLNjN6dlZlX1kwSXpCLTVEbGZ4S1Z0a3hVanBFeTZXNUFvdWdtQ1hEV1pqZzRJS1dRaXpFeENVV0o0UE1pczhrTDlCd1pRR2ZobnFHZG5WMmllTG1vZEhTSEpmWmVnU0dJZHZINFRTRjNfUmFrLW9USW0yRWdhUFgwb2hVR2xrSXdaRXR4cjRoWXdUQkhERGdhMUJoQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a71ac01a3c3e",
+      "title": "Tumor Genomic Testing: Too Little, Too Late - Medscape",
+      "published": "2026-04-13T07:51:25+00:00",
+      "summary": "Tumor Genomic Testing: Too Little, Too Late&nbsp;&nbsp;MedscapeUdhayvir Grewal: Genomic Sequencing as the Standard of Care in Oncology&nbsp;&nbsp;OncodailyTumor Genomic Testing Often Delayed, Underused&nbsp;&nbsp;National TodaySDOH Drive Disparities in NGS Access Across Cancers&nbsp;&nbsp;The American Journal of Managed Care® (AJMC®)Many cancer patients don’t get genomic tests to guide treatment, study finds&nbsp;&nbsp;statnews.com",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEV6aGtqRXVoODZmWTJtbk9MZHU3ZFBya182bjE3cEVaOEc0YnZVbWl3VVV6ZmRMZlNqdlFxbHVIMVA1SXlGQUk3LUhocHJxZEpFVk1pdnBvQ1IxcVd3WjhuZ0Y1U3ZETDg1YWVvSTRkSUNwWGt5OEJOaWJBMFJuMkVTVENxMWFfUWgxRUpPYUw3aGExc3c?oc=5"
         }
       ]
     },
@@ -786,30 +882,6 @@
       ]
     },
     {
-      "id": "539ed6442b91",
-      "title": "Poor oral health and UTIs could be silent drivers of cognitive decline, study suggests - Firstpost",
-      "published": "2026-04-13T07:16:04+00:00",
-      "summary": "Poor oral health and UTIs could be silent drivers of cognitive decline, study suggests&nbsp;&nbsp;FirstpostThe bacteria in your mouth that scientists are linking to Alzheimer’s&nbsp;&nbsp;Futura, le média qui explore le mondeThis Common Diagnosis May Accelerate Brain Aging, Per Decades Of Data&nbsp;&nbsp;MindBodyGreenCould Your Teeth and UTIs Be Affecting Your Brain? Study Says Yes&nbsp;&nbsp;Times NowHospital-Treated Infections Linked to Dementia Risk&nbsp;&nbsp;Conexiant",
-      "sources": [
-        {
-          "name": "Firstpost",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORjl5NUJnLXl1b0Z4NXBBdGdJa1had3FtVm4yNmRranplX0pkM2ZDZlJ1Mk1LVjNUVzI3RzlTeGxhMHpGaGZkV0R1QVI2dzlpOUs3X0VHaFFhdjhORGlzN3NpamF2cFRGSzBReUlnMU51TS1MeVkwbGdvVzQ0Q3o0VGg4UDZTa1NwYllFTjNvaXJBTVFRZ093Q1JmeURtUHV2OGxhRkR2M1dfd0pvNTBUQmZsZlUwTlU0YUR4Y3NjakNMcWtfZDNIV3R3eErSAdIBQVVfeXFMUG5tX3p2TzVZNVotVWdLOVdTNXlHT2NfOFRieFNMMTA1eFQ3MXRSQ2trYk9nbnAydEVIeGpkLUtndUtTRUd1bk5HSjNBZ2ZrbE1sS3MwWnlxQUlPY3piZjE0Y0tYT3UzNDJ0SGlXOERlSTVZenBIQ01ETEU5anZKRGdXQWZWaXQteXJRbWFYTzJLaVZMS1owZ0hXVlFDbV95Zmw4Y24zWGlJM1RZVXZuNTk2ZWoxTWg4QVpIc19FTWtNcHZvd252Nld5M19sS3lBenBB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd1d964d47cc",
-      "title": "Back Pain Treatment Options and Understanding Chronic Back Pain Causes - WorldHealth.net",
-      "published": "2026-04-13T07:00:00+00:00",
-      "summary": "Back Pain Treatment Options and Understanding Chronic Back Pain Causes&nbsp;&nbsp;WorldHealth.netWhy lower back pain is becoming everyone’s problem&nbsp;&nbsp;Mint",
-      "sources": [
-        {
-          "name": "WorldHealth.net",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DSE0teDYtdkxVMGs5RjhmbDJSQWVfdHVhSHVwaGd4bDhKa3VWSk4tZWdtNkFRRnByRlQwUmV0aHpkOUh1MnB2NkNaaHRUNDNXY2VMSWl6d0dZOEZLVlIwUmJVYmRQWGVhcXZpN3UwOVNNa0FSYXRQb284STM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9001049bd91b",
       "title": "Researchers investigate menstrual blood for cartilage repair - healthcare-in-europe.com",
       "published": "2026-04-13T06:04:52+00:00",
@@ -822,14 +894,14 @@
       ]
     },
     {
-      "id": "30fac851a7f6",
-      "title": "High Night-to-Night Variability in OSA Linked to Increased Odds of MACCE - Neurology Advisor",
-      "published": "2026-04-13T04:00:00+00:00",
-      "summary": "High Night-to-Night Variability in OSA Linked to Increased Odds of MACCE&nbsp;&nbsp;Neurology AdvisorOne Sleep Habit Could Boost Your Heart Health, Study Suggests&nbsp;&nbsp;ScienceAlertHaving a regular bedtime is good for your heart; the Cicada COVID variant; AI and drug discovery; plus other stories with Vanderbilt Health sources&nbsp;&nbsp;VUMC NewsSleep Regularity: The Hidden Cardiovascular Risk We Often Ignore&nbsp;&nbsp;BW Healthcare WorldSleeping habit could be early warning sign of strok",
+      "id": "36765a27bc39",
+      "title": "Ozempic Isn’t A Magic Fix: What India Needs To Understand About Weight Loss Injections - News18",
+      "published": "2026-04-13T05:00:33+00:00",
+      "summary": "Ozempic Isn’t A Magic Fix: What India Needs To Understand About Weight Loss Injections&nbsp;&nbsp;News18‘Magic pill’ moment: How weight-loss drugs are changing India&nbsp;&nbsp;Forbes IndiaDoctors warn ‘Mounjaro brides’ against taking risky shortcuts amid rise of pre-wedding weight loss injections in India&nbsp;&nbsp;Hindustan TimesAIIMS Expert Warns Semaglutide Cannot Replace Lifestyle Changes&nbsp;&nbsp;Medical DialoguesYounger Indians without diabetes lose weight faster on GLP-1 shots&nbsp;&n",
       "sources": [
         {
-          "name": "Neurology Advisor",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMF9FZEctVEpoX2VSMEtSZkJ6RUR2VDAxTlFBQ09FOFA5MDFpb09UOVJhMTQ5TDFSSnlsUDZKSExyUXdaYTRSYzNTRVRJOWZpcFFvSFFvdDNudmhlZzBpblJFZlNZM2lwZDVJeU90RExBZF9SQ1hPMl9nYkNZSmRRY3g1bHVYN1Vjd1hOZWpkc0hKaFJEUUJRQ3lFcW8tX1ptMWlTbDl5MVJJQXMzVml4eg?oc=5"
+          "name": "News18",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjVpUWZSbnZoTGlqMm4wSVdIbU9oaWJaaGI3QllTU3A3WUdaRjRway1HSGV0eVF2dzhkMjNKMExnYzRmM2lNeXFGR0ZKS2wwUnZ0d0hNZ1AxT0UyQ0hKREh3QXBNb0VkaXMzR2Y0clVVc3FlZGZaNzVKSUxNNUljaEZvT3A5a3I3UnBCa2ZscC1MYUl5cWptYzRkck9yajFmM0lLMHNEbmVRY3l2amJRdG5WTWxwZVc3VWtHSTJqLWkza0NEby1TTWQzTEFoZy1nWEk0VUZoNzJwM2ZIaG9PU3l2Y3rSAeoBQVVfeXFMTlZINnF3TXZ2VXk1NUtFUFctNi1JRFVSc0lqeHBfVjFTSGZfaXY0MXRzN2RMRUQzRUVMck5sNTRCX1J0ODBUSmFJNXN5emhKNEczeVJjMXAzak1sM1JId1hTckhMMklBNGZ4Y0FSYXVrc3pIbW9OMTN6M3NhVldLUmhhZzVNWEhPLVdROVd1RV8tOUk3SmY3S2llVzYxdVJmNklyaHdXUHdjUWp6X3ZPb2txQTZSVlV0MmxqSEhDYkM3NzkyZF9OYVFvc29CcWU5MDFIS1hfZHNWd0hJZGcydzN4b21zQzRKSTVB?oc=5"
         }
       ]
     },
@@ -854,30 +926,6 @@
         {
           "name": "TheHealthSite",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObmsxYUJPcjNjaW80QjNmcFVOMHhwUWpGRmlGMTFDUGdhVEdvY3JWSkhQdk1iME50c0xjTVk1ODVEWHhIUnh1WUdScGhtVFotejA0TlhRYmhNWTM1Z3FRajNyb3RzRjdkMEtrd3JfekI3cWJ6MmhmTjBSUFc2WV9ERUdqbFdYZmx2M2RlSzFWRWFORjNTajk4UzFGTVB5WUFISVc1UGdydGlqSklSckp2cWVQZ3JDcmFjLXItUkV6Y0ZHanRnNjZrTXZNS0JUcmQtQU44NjNpbW1lYWg0Sk9INXVTWjE4M0Zmd01OUm9yZ3U1aTF6WWMwWNIB_gFBVV95cUxQV1hWNjRONVJKRkFxZnJ2ZjRLb1JFc0FqUVd4RFlnXzhIb2JONTdBYWhGd1l3VV9rY2hLZmR2a3RBdW1nQmtGczVxdDlLOVJzYWc3bW9QTHJERENJRWJmNlE2SF9tZ3BzQ1FhUjh4T21Vd1pRSXhUZkxYMnNZTlVhUE9WaXhOWlhkWW5fek0tRmI3MTVxcXRITEx3LUNVV0ZzZWQ3MUUwbjlQMlBteWhJTUdmSUxHcnBXX3lBX1ZyWHBma2QxV2NRSDNOZVlqUjdKV0pYbEx4NWxfRi1YRXRTdmxTUmR5ZWVGZy1tS3lYbU5PV0JaSnJHR21NSzh6dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "416f2b7121fc",
-      "title": "AI nephrology 2026: Dialysis advances raise ethics, clinical concerns - Deccan Herald",
-      "published": "2026-04-12T20:29:24+00:00",
-      "summary": "AI nephrology 2026: Dialysis advances raise ethics, clinical concerns&nbsp;&nbsp;Deccan HeraldInterwell Health Highlights AI-Driven Predictive Model Aimed at Reducing Kidney Patient Hospitalizations&nbsp;&nbsp;TipRanksAI transforms kidney care, but doctors warn of limits and ethics concerns&nbsp;&nbsp;Daijiworld",
-      "sources": [
-        {
-          "name": "Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV0prNXB4NlpjQW5kV3AyUUpjeTRwTFlpblI3SjRIY3Iyb1l5YjRUMTRXQzVkcUdBRU9kWmh4NGcxR1pLVFhDWDM4VnlQSkZ3SXhNTFE1UFF1d1BWMDVTd0RyS2J6MHFock56MjVHeHJScHZ1LVRSQ2g1V2NIV2RRbzN0RWFQbnItbm94ZjlKeVRBclJHLURMUWN5b2l1THhRbkhER1pfTWt6Zy1lU0w2OFpDdUZsZk1OQWJ2YzN4TjdDZnhxa1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "24ec37ebbaf0",
-      "title": "Food delivery for heart failure patients shows high uptake, may boost quality of life - Medical Xpress",
-      "published": "2026-04-12T20:00:02+00:00",
-      "summary": "Food delivery for heart failure patients shows high uptake, may boost quality of life&nbsp;&nbsp;Medical XpressFood Supplementation after HF feasible but may not reduce hospitalization or ED visits: JAMA&nbsp;&nbsp;Medical DialoguesFood-As-Medicine For Heart Failure: Trial Finds Quality Of Life Gains, High Patient Acceptance&nbsp;&nbsp;Where The Food Comes FromFood-as-Medicine Program Boosts Quality of Life for Heart Failure Patients&nbsp;&nbsp;National TodayCan “Food-as-Medicine” Help Patients ",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUxQYjdsTXJRal95bFdLNTdOV0JYUGh4eHBjNlNBeDlvOVNJWXc1UGpHenpHTk9xam5FMDJqQ2VyUUJManFSQ2hwZHRoTEhaM1FuV2dqSERQdk1lcWZQYmhwdjRicnA2Rm9FTVFQbVlQSGtlSGx1dkU0ZmdjZVhYNDB1bXNwQ3c?oc=5"
         }
       ]
     },
