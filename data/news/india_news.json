@@ -1,19 +1,211 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-04-17T01:14:25.183013+00:00",
-  "total_fetched": 134,
-  "unique_count": 134,
-  "health_related_count": 84,
+  "fetched_at": "2026-04-17T07:15:21.920527+00:00",
+  "total_fetched": 126,
+  "unique_count": 126,
+  "health_related_count": 80,
   "news": [
     {
-      "id": "0d982dd4097f",
-      "title": "5 seemingly healthy habits that may harm your kidneys - VnExpress International",
-      "published": "2026-04-17T00:46:12+00:00",
-      "summary": "5 seemingly healthy habits that may harm your kidneys&nbsp;&nbsp;VnExpress InternationalSir Ganga Ram Hospital nephrologist with 20 years of experience warns of habits silently fueling India's kidney crisis&nbsp;&nbsp;Hindustan TimesLifestyle moderation central to combating kidney ailments: Ludhiana doctor&nbsp;&nbsp;The TribuneABP Live Doc Talk | Hydration And Balanced Lifestyle: Know What We Underestimate In Kidney Health&nbsp;&nbsp;ABP NewsFast Lives, Silent Damage: Why Young Indians Are At R",
+      "id": "71d2fdc17bba",
+      "title": "Focal Cortical Dysplasia Type IIb: Correlation of Histological Data with Typical MRI Patterns During Epileptological Scanning - European Medical Journal",
+      "published": "2026-04-17T07:01:18+00:00",
+      "summary": "Focal Cortical Dysplasia Type IIb: Correlation of Histological Data with Typical MRI Patterns During Epileptological Scanning&nbsp;&nbsp;European Medical Journal",
       "sources": [
         {
-          "name": "VnExpress International",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmd4blZVcFFONm1vNG9qRklaT05aRXA5WHpTdXBtZkZuM1h1YlNPeF9IODdLTXpmQkh3UE9wTEhCU0NZMWZ6c3hxX043ZHNQRGhGQVVJc295bDFGcTZrTUE2ZFlSaENIRFBManFEUVdTbDhFbG96WnRMWUFUUUUxYmRCVGFUZmowd3Q1U1FXX3JZNG5RdUJzNmFWTmE2a0JSYnVKTlRjQUlwc3E2UHc?oc=5"
+          "name": "European Medical Journal",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQX1hMZUM2SEdPcGFiVFpxdmkzVlFOcFkwdy0yXzNlMWZTZUo5N2tOQ1JxWjNGMklndm90M0ZObXcxWXhDMWVaVFIyZVlQNy1wXzRXcl8yY2hIa3VGc3pPVHR0eU1nV2FuTTd3dm1Oa3lvSjYzSkJMdkVuaHZldWptSG5ZWV9Kbnh6UWt5T2NCSmU1eUpnbGhKNUY0WXB2MmdMQ0xYVlhVY1o3YlI4ang0cFZuS19PMFU4NVBRQmpXejRFQ0N0TkY4aDNJRGZIck9Da295QndobXhTZmdoMlJFMUNteU5IM0lfMDljbUZ2Y3ZoTW5xaU5Hbkx1S0VjMV9wSkJxVFBXay1kUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d6543ff90b9",
+      "title": "AI or Radiologist Interpretation for Prostate Cancer Diagnosis - European Medical Journal",
+      "published": "2026-04-17T06:56:16+00:00",
+      "summary": "AI or Radiologist Interpretation for Prostate Cancer Diagnosis&nbsp;&nbsp;European Medical JournalNew prostate biopsy technique shows potential future of MRI&nbsp;&nbsp;michiganmedicine.orgMRI Sharpens Prostate Cancer Risk Stratification&nbsp;&nbsp;MedscapeMRI May Improve Prostate Cancer Monitoring&nbsp;&nbsp;Conexiant",
+      "sources": [
+        {
+          "name": "European Medical Journal",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1hvcjFSNEZDTU9Fa0JuNXlaM216RGcxcUFLc2l2ajFndkZCbW15R2pfNXpDUEtzNURqVXZ4djd3UmNFY2xLT0o1T21MY041UlR6TjJBeHFQN2kwLWtRY2tKYVVEbnZQaWFPTGZVbUJRZTV0V25KVFQyOGdQMFdENWpiV3A1ZGNNYzdPSF9oRVliX2VyTUd1dlEtcDNldEZnZ2xWTGFLVnd6a0d4d2o5aENWbFJaekk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9f841e8ce535",
+      "title": "ICMR Launches Nationwide Study to Identify Effective Strategies Against Obesity - The Indian Practitioner",
+      "published": "2026-04-17T06:52:20+00:00",
+      "summary": "ICMR Launches Nationwide Study to Identify Effective Strategies Against Obesity&nbsp;&nbsp;The Indian PractitionerThe alarming rise of medicalisation in India&nbsp;&nbsp;The HinduICMR rings the belly alarm: India’s waistline on the run&nbsp;&nbsp;The Times of IndiaUPSC Editorial Analysis: India’s Obesity Crisis&nbsp;&nbsp;INSIGHTS IASICMR to test multiple obesity interventions across diverse Indian groups&nbsp;&nbsp;NewsBytes",
+      "sources": [
+        {
+          "name": "The Indian Practitioner",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzJ5Tl92OWJjcFFUVEFFRjh3M3ZvSEpXYnEtVHY1a3VNb3lxYi1fU25uLUZYdmxZVGljdVhOa2NPd3dSb1o1SmU3M1BBVmZkRzFaXzJVVTR6RmF6SVZ2U1hfZ2dNbHZ0cHpqOGI5UG9yWmNIRHBJeFV1a0Y2YWhNY3UySG1MZHpUdm42ajZfa2Zza25VeUNKS0wzNzJNSTdid3dpdGlqNldSb0xQSmZndjlEQVc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8edaf26b7138",
+      "title": "Review of the European Congress of Radiology (ECR) 2026 - European Medical Journal",
+      "published": "2026-04-17T06:36:03+00:00",
+      "summary": "Review of the European Congress of Radiology (ECR) 2026&nbsp;&nbsp;European Medical Journal",
+      "sources": [
+        {
+          "name": "European Medical Journal",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFdBZ2V1dVhZWnZRNi1GUzhBeEZSMm05eER4STRWT1I3c2hHNXdYQlRkNW1qS3dOMzlrNkkxdEhlUG1TcjFzR2tVdGpmRXNqSHBGTkc4YVZ6dGczbllCR3JIcEVBbi1rQXRhOHVfU1oxLVhNekpLVktKVFdXRzhvdTl6TEtXaDQzZTFtY2w4ZXF4WVZzaVVHOVo2djFIMFRWWThnWEhkel9heElBSHlCeXFQMmk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3824dda71046",
+      "title": "Researchers from Chiba University reveal synergistic light–heat mechanism to boost CO₂-to-Methane conversion efficiency - Agro Spectrum India",
+      "published": "2026-04-17T06:18:00+00:00",
+      "summary": "Researchers from Chiba University reveal synergistic light–heat mechanism to boost CO₂-to-Methane conversion efficiency&nbsp;&nbsp;Agro Spectrum IndiaClarifying the Differences in Reaction Pathways for Photocatalytic Carbon Dioxide (CO2) Reduction&nbsp;&nbsp;EurekAlert!Closing the carbon cycle: Unraveling the roles of light and heat in CO₂ photocatalysis&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Agro Spectrum India",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQc3BTZEZEcnlHY3dwcF9weTR2MHRwUjZGVWtKSTBrZFRDV1Y0aC1Yd2hQbHhQMEwzSUZnTnFmWWIxR1FwaWxuNDU0aUk1ZW1ZckV6UDYwcktEcUdFc0YyMXh6TjJ4dV9PWDJpcS0tU1FFc0UtTXFyblNnbFpsXzBmejJ3bjZuZDBvbmw1NFBkdjAxSHRhNEZZZ3RUMUVPbzZmc3hiRFlPRndVcXhwZC1FOWNlM3B5S3lZdWl6aTJMb3BmblVkU3ZlYkFELXdxQzc0TnJBRy1mSjFyaFFBSVFveVJmX2lZM0c0QVJUMlpkYS1BTHJjNkZSZDR6b0VKQUp3ZXUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d08f44e4d928",
+      "title": "The air you breathe is making you sick earlier than you think, finds UK study - The Times of India",
+      "published": "2026-04-17T05:33:00+00:00",
+      "summary": "The air you breathe is making you sick earlier than you think, finds UK study&nbsp;&nbsp;The Times of IndiaAir pollution making people in UK get long-term illnesses earlier, study finds&nbsp;&nbsp;The GuardianHow to Limit The Health Risks Posed by Polluted Air&nbsp;&nbsp;U.S. News & World ReportMichael Roizen, M.D.: Avoid air pollution hazards; benefits of cell phone bans at school&nbsp;&nbsp;The Crescent-NewsEnvironmental Racism: How the Air in Our Communities Could Be Harming Our Health&nbsp;&",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWGV5NldMcjVjbEFBUVF4TUZUd2o0RG52RGdGRGYxdGZHbzNKd0FRanFvUlZjZV9XV2tOY0VITFZYMjdTSGhheG9ZYmNadmw0TkxyWldlclpzUWsybktJZVFyZktsX2Q0YmxGNVFEUU1YUHJEZTJfYlFoN1RtOG9FejhFa2daU3g4SGFRdTN4X3hQdnFHRGgyNVphLVA2em15TzkxdW1BOGZnanp3S3hwR2hoWlFEU09QRDE3THdlVlNtNUNfNjVCblBHYXZkWWVIa1hGdGkzYWVaWEI40gHiAUFVX3lxTFBINkNSWUZqUXlUV3UtOG9KQURnRGN1RWtaMnozd3N5cVZXVE1YbkNWQWRRYjZQT0RFSERmVGJzZktXN05BT2pTeE5RWm52bEN1UTFUODlrZ1JqR1A4SzVBV0xfcFVNSUEzdzZaZ3FSeUt5OEphWDNzZldxcGNycnkzcU94WHBUVnhBSzBnM2EyRi05Q1JsNVZuM2t6dlQyeWhGYklOeEpodTJLaW1tTUNBckNvbUszeVNXMjNUaDI5LTh4YjJnUGF0anNiMjkyQ0VEYXNLcVF6a09wcmZqcE84c0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "240b266d5bc6",
+      "title": "How Protein Cleanup Condensates Help Cells Handle Stress and May Explain ALS, Dementia Risk - The Sentinel - of this Land, for its People",
+      "published": "2026-04-17T05:22:21+00:00",
+      "summary": "How Protein Cleanup Condensates Help Cells Handle Stress and May Explain ALS, Dementia Risk&nbsp;&nbsp;The Sentinel - of this Land, for its People",
+      "sources": [
+        {
+          "name": "The Sentinel - of this Land, for its People",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGthc29kMFJEcllaWXVhNkZyT2hHbHVuRjNnSHZYa1M2UHFzQ3pCaGNPOTl3RGxHNjktQlpPQXBHVTc0U01jcXZRa0J0NzhzU3gxRW1zeTJZQmdCNTZ6djJHX0dSNUVQM3ltbDVheUF4VVZxR19BSU5YMU1qSklsQUJYcFVaUVlPanBmSGdiYzNFcUF4dzg5ZDJEWkxIZ0ltaDVKaERzYnZJbWpVQ0JLamhHSXVtNDRrQ1BmelJOTUtQdTRab2ZIRlNqZ3hZd9IB2wFBVV95cUxQNnZLUTlMZW1OQnBURW9MZDBMWVhyRzlnSXhMaGNQR3JhRFY5bHZLeFFFRWc0QmhZSGlUTGdTbnFJTTA3RWh1ZC1SNjBzTy1yR29xWUtrNDc1RTRoYVdUSkI1bWFIQmVyWWZSS004OUFrOG1mV3FKUWg2WFJiNlFUQzNFdXpQZ09jWWVfZDhER1h6elF3VVZySVozemhVeUp1RDBNZHR2ZER0b2pSTHRCQUJWbEEyNURLcERZOFozdG1ySEc0czNvWkdndk5tbkdTelNYVDVyTzI4OGs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a766b0ae0e6",
+      "title": "12 research-backed habits highly intelligent people avoid but most people do every day - The Times of India",
+      "published": "2026-04-17T04:46:05+00:00",
+      "summary": "12 research-backed habits highly intelligent people avoid but most people do every day&nbsp;&nbsp;The Times of India7 Daily Habits That Slowly Wear Down Your Brain After 50, According To Research&nbsp;&nbsp;YourTangoHabits That Could Be Harming Your Brain Health&nbsp;&nbsp;DailyhuntThe Quiet Unraveling of Memory: Why Modern Life May Be Training Us to Forget&nbsp;&nbsp;Kogi Reports",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQzF6Y2ZGX0ZVaWFBVlRfV3RpcmFNLTdVOGRKQ2J2UDlYRWRPSmVfTjZFRE9yT2l6c1htUWdoX0pkWG1idjRTVEhaX2NVM2NHS3lIdEtlQW9aM29jTUdLbGNHRjBWakZQd0lfTjBHSkxFd0J2aGV6NjZqdFAtd0o3N3ZObEFteUx2LW80X0hCUTY0RHFvSEZxZmZhV1pyLUVCbjM2ekVjWEE5eFNzQ1g4anNIcm9aSGFtc2hJNUJQMGZtWERsSkRjZ0xSTFNqdUlLaHBidGJIb1ppWGY3aEtpLWFRVDVZQ0V5d0hqbG9uOTBwQjdNQ1VOOENTbHgzT2_SAYcCQVVfeXFMTkV3cTdwSjdpT3R4TkNITDVrakF2T0QwRmxJSDhWeVBwdkZSMmNkdzNOWmtTYURNSTZIZnZYSlpuOWV0ZUZSTm03UTZCRno4XzBJWkFyejJvY2sxbk5TaTAwbWx2VjFFeWFZMEQ5QmNkUV9Hc3gwZXVwTmpja0xVVjU0Y2Zzck9ud2ZoUnhWMUhNYjN2S1lSU1NLcTROSmNLZUVubW1Fb0lKYk82bVVfYU5yQ2RfVWN0TTN6TENGMlp6N2ZPQklCMmFBWDE3cE54ejRFWFhGcEhoLUJ3aDBuZHhJTHB3ZE9MQmhrb1Rpc1VVLWZLRzlKbkNybFNhNTJEQjhjUzBKSDg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "80cc4b896647",
+      "title": "Artificial intelligence can spot early risk patterns for skin cancer: Study - Mid-day",
+      "published": "2026-04-17T04:39:00+00:00",
+      "summary": "Artificial intelligence can spot early risk patterns for skin cancer: Study&nbsp;&nbsp;Mid-dayAI can identify risk of melanoma years before diagnosis, study finds&nbsp;&nbsp;Euronews.comAI becomes gamechanger in early detection of cancer&nbsp;&nbsp;newspress.co.inNew AI Models Identify Higher Melanoma Risk Using Registry Data in Sweden&nbsp;&nbsp;SSBCrackHow AI identifies melanoma risk before diagnosis: Here’s everything to know&nbsp;&nbsp;The News International",
+      "sources": [
+        {
+          "name": "Mid-day",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmRiaW5EVkwwaW9GaS1aNDd1d2NsR2t6Y2p4T20zWDFJNVpPTkVDSE9yX3RCU0g1UkRqNDkxM2dqZjByR2plUEpGUkJVYlZ5TjJZY2RpSEt5dW9kdHhoeFFSTWR0MkJLWWNvYzh4eXN5RVRHaFg3TG5vUm13ODdoek40OWk4RjI2UkxQMFU0US12MzZSSkVFNFZiRXppZzJVWk9GbF9HejhMeFIxV1FhYUp6VnUza3dlV28ydlhUSzBLRmpWeXZQWmxQTnMzYzVzREoyUDkxeHhuaHZK0gHiAUFVX3lxTFBFbk9HVnZVQkQxRnF6cjNLN3ZJclpFdlhWRGZqaFo1ZFpoaG90SVBMZHE4M2FyaVlpVzJSMGdjVlJDX0FfUkRJZjJNMjkwOFJyejBGbTBpN2gxQmlvbWRFVDFqRGU0VHJoNGh3UjlmLVJuNmhkTm5xWUN1N3dHWGdLcFdpekFoNU00bjUtWkFzRFZCc0UtZXY4NHZraW9mMlpndG9Eb1N4Q2tDZTVkQTRNWEpHMV9SR3ZGancxeDh0ZmJYRDRrZktBWFQtRDZGaFU0TG9MOWpTVnFXRjU0ek9yVFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "280037afb3e4",
+      "title": "World IBS Day 2026: Experts reveal how stress can trigger and worsen irritable bowel syndrome symptoms - TheHealthSite",
+      "published": "2026-04-17T03:33:00+00:00",
+      "summary": "World IBS Day 2026: Experts reveal how stress can trigger and worsen irritable bowel syndrome symptoms&nbsp;&nbsp;TheHealthSiteRethinking IBS Management: The Shift Toward Precision Care, With Ali Rezaie, MD&nbsp;&nbsp;HCPLiveIntermountain Health Registered Dietitian Nutritionists Give Diet Tips for Irritable Bowel Syndrome&nbsp;&nbsp;WFMZ.comWhat are the symptoms of irritable bowel syndrome?&nbsp;&nbsp;WTNH.comIBS Awareness Month: Common Signs & Types of Treatment&nbsp;&nbsp;WGN-TV",
+      "sources": [
+        {
+          "name": "TheHealthSite",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY3JSNHQ3N2ZwS3FwQ1gzaU55STF1cW00N2FZbUtrcmpqZWJWUWtjQzZxX0lJWkRlX3NqMHgtZ1hXM0Z3QXpRN1ZwalAzRTFKVF84UThrSG95c1ZnLUMxOE9MOW1xRGN5WVlSbUxTWWU3OHpLaTFCaUYxTnI1SzVSbjVRNm84V0Z4RUpOLWtzeUVmbzlRckhiU1Z1WmZjdy1naWVoMXBocHpfVVdrTXltbTRFeVZnRWtyM2UtNWVHN1NnMDYySy1yaERXX1huaUZDOUwzQ3k0ZEMtSmZUdmN0dG9uTng3ZDk4UlUw0gHwAUFVX3lxTE1JQ0hyeWFRTTBCSHhPRkVhcEFYbDZ4cXNIeV9OOUdibFdUR256ZzVDXy1ieExMN3VFUHJNUDBJUWoxaWI4RVJtdU1FanlzSEFBeVZXU2t4QXFwcUwtQ3M5UGNwOG9EcnUwZmtXTkdoSUJucklITC1GR2RzUWpOMFR6WW5zVHB4dDhaZWpJeXBmWWFES1liS3B2YXJQbUpwMVpYZGNkWTMwWDJiX0g5Yy1sZnF1WHRlVk5qSzltVW9GbU1WUjdqUFZvTGNNMTZFWjR2V0t2WFVXTnZSYVgwbjU1YlE3R2VkNEFIeWpBRFY1Zg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "42edac26e2d0",
+      "title": "Researchers directly observe muonic molecules critical to muon catalyzed fusion - Asia Research News |",
+      "published": "2026-04-17T03:22:20+00:00",
+      "summary": "Researchers directly observe muonic molecules critical to muon catalyzed fusion&nbsp;&nbsp;Asia Research News |",
+      "sources": [
+        {
+          "name": "Asia Research News |",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFU4Skg3aW9tYUFjb2xidHVtR1VuTnE1RndCWmxCTjVXQ2pKOGw2NUxpVlRUTzBIUEVKUG1EZXdjcGhicjJndXJsUzZxSFN4Y1R1ZTdjQmtNaTY3VjJiUTNlVm9zQVQwak5sYW5ZZmN5ZkNwNFBvb2t4TlZWMVVxQkl6bi1PSjNpMmVBa3FrM1Q3a3Vkc3lyRVc2cXExTTljNVlFVTV6dVBPQXNmcU1qcTlLd08tQUhG?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b99b4d3526ac",
+      "title": "You don’t need a 5 am routine, just these 6 small habits to transform your well-being - Moneycontrol.com",
+      "published": "2026-04-17T03:15:37+00:00",
+      "summary": "You don’t need a 5 am routine, just these 6 small habits to transform your well-being&nbsp;&nbsp;Moneycontrol.comThis Small Change to Your Exercise Routine Could Be the Secret to Living Longer&nbsp;&nbsp;SciTechDaily3 small lifestyle changes can help you live longer, studies show&nbsp;&nbsp;Safety+Health MagazineHealthy in 2026: Why Simple Habits Matter More Than Trends&nbsp;&nbsp;Newspatrolling.comDoctor explains '5+2 rule' that can add 'one more year' to your life&nbsp;&nbsp;Belfast Live",
+      "sources": [
+        {
+          "name": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTZLU1JzekptejV6LWxGcUx3ck9FLVBiOTBXM0NtZVBjOWJ1am9xR0d2TF9yWVE3UmlHM0x3NC1xdnUtZ2szM3pKMkh6czJzSlV1ZWVSR3lNeWp4eWlpVlluR1hyN0RTRldmTDExUUJVQUs0aWswR2ZaZ1RrUXR2QlEzNkQ1RDY5MGpMS25MNGI3NTNia1lFdnowYnhRWjMyZFZQdHE1UW1vMWJaUDgyd1UzZkh6RzNXY2NqQS03cURuYjNIeGNGX0dCdnJqdmtyc25EcjkxTDhuZlF2Si1uWER2SDU2dXJURXfSAe8BQVVfeXFMTlNnbjBxV29LNDgzZjF0clBTMktqV0xfX2U3VWVhMENFejRiMFZnTWZKUUdiWkJzYW9MYnZ5TF80MzdaN05XWTZ0TUVBbWlTdEYtLXlNMDM3SzdhMWIwYjRyUGduM1FWSjJBcDA2cTFzRm1zdGQ0eWg5dTN0TXk4MUYya2NmbTBFTkJqb3JQblhSTmJRYkxRVm9DTy0wczFZdXNWdkVxaTRoLXBOaTlPcURzbUctdF9BZVpIUDJBVFBOazlsREliWmI2d3ZISEFkMGdhd2hrZGZULW5SeFRLOGFUOWE0RC1NUGI5NEtZRmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c89f1c7ace65",
+      "title": "Ancient Collisions, Modern Supply Chains: A New Map for Rare Earth Discovery - Rare Earth Exchanges",
+      "published": "2026-04-17T02:49:54+00:00",
+      "summary": "Ancient Collisions, Modern Supply Chains: A New Map for Rare Earth Discovery&nbsp;&nbsp;Rare Earth ExchangesAncient process that created rare earth elements discovered — and it could help us locate desperately needed deposits&nbsp;&nbsp;Live ScienceTectonic map reveals most rare earth elements formed in ancient subduction zones&nbsp;&nbsp;Earth.comAncient tectonic zones hold key to locating rare earth elements: study&nbsp;&nbsp;El.kzAncient tectonic processes are the key to locating rare mineral",
+      "sources": [
+        {
+          "name": "Rare Earth Exchanges",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVG1MLVZNb3daczV0ZGVOSGtGUlV4ZGNjT01aMks4WWFZcDNEQVBWMEhnazd6Z3NLeU9EMWV5cVJwY1owVExxYm9icHphMDREcFdUNnIzUFhtZWR0Yk81Sm03RHlPbmYzZzhYM3FTSk5Nck41alFFa3Q2U3I2WU9kYW1DcjhXdEF3R1M3cjZmb3ozbEFZeVpHRWptT3AyS0FlbmpCQndwUWpfMEFKX2hFcg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6fc9039868f9",
+      "title": "Air pollution could be linked with increased migraine activity, study finds - ET HealthWorld",
+      "published": "2026-04-17T02:35:03+00:00",
+      "summary": "Air pollution could be linked with increased migraine activity, study finds&nbsp;&nbsp;ET HealthWorldAir Pollution Could Be Linked With Increased Migraine Activity, Finds Study&nbsp;&nbsp;NDTVMore headaches in the heat? Doctor explains the summer migraine link and how to prevent it&nbsp;&nbsp;Hindustan TimesAir Pollution and Weather Tied to Migraines&nbsp;&nbsp;U.S. News & World ReportStudy links air pollution and high temps to more migraine attacks&nbsp;&nbsp;KTEN",
+      "sources": [
+        {
+          "name": "ET HealthWorld",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbHM5bXlBRkhUS2xGRkozS3lvVTZXY09FdllGNUNHa3dOdG0wcGRVQndqUkhIZGV0cUZHak82anZsOEdRZlAwMUc1bnhXWmFkZXRfZjZWZ3dpc2E2aHRuWS1QTjNuLUNhWktlZzFZSVRYalBPa3p1SFc2cXdnZzVXdVh0UkY4YUFROXFRaWlISjFLUWZOZXMycFZOLUpuWVpxLUFoTTdRZE0yT0RURnA4cXJSNmR3VHFfOFBieEtBTEhiV1h4UHFuck9KSm92b01Rdks2Q0N6b0F4Z9IB3wFBVV95cUxOOVgydmVEYjRiZGdSWVVzV1MwVDJhaWtnZjlNdnRFX1ZhY2U4Q1JBVmpvR2RPZG5LNTBrSlloUXZFVkpNYmZmWi1zQVktRHF3U0QwNWxkd1ltX0Y0dVZWQzl4REprZFFuOU81RDNPcFBMSnpaZFpQVk1IM210VHY1a1FDRW8yVDYyb3U4eTZ2OGU4d0xDbGoxa0JCdW5fRWhWYTlYMklzbUs2cXYwVjFuS3NmbVhPZ2FHRmFtanZmdDVCOExSbld1MWc0ajFkT1R0aFo1NDJBTmJhWWJyZ0c4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2d991c4f9d2e",
+      "title": "Sitting disease - Dawn",
+      "published": "2026-04-17T01:45:38+00:00",
+      "summary": "Sitting disease&nbsp;&nbsp;DawnWhy your workout isn’t enough: The hidden ‘stillness’ risk and how to beat it&nbsp;&nbsp;The Times of IndiaCardiologist: Sitting is the new smoking&nbsp;&nbsp;ERRWhen exercise isn’t enough: The unseen danger of sitting still, and why moving more matters&nbsp;&nbsp;Moneycontrol.comSitting is the new smoking: how everyday movements help you live longer&nbsp;&nbsp;KTALnews.com",
+      "sources": [
+        {
+          "name": "Dawn",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2TExRaDJmZ0N0WnZCakZVYk5BV2ZnZG4za0JTaE05dDU2Y2t3czhwNnJxb2xtUmozaUhVQ25Ub0hDZFZXUTNZcXppeHc4WllvRmZzVVNCbFNpVkJmdHfSAU5BVV95cUxPQ1pEY0ZWSG0wUGhJNW9obE1FTkgtZzc4SWc5SEZoeXNtWnFVT3lfdjMzel8yRGpkbVZqWFI3LWc5V2drZkJFdkFhLWxSUUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0aaaf68dc473",
+      "title": "Heart Disease Warning: This New Blood Test May Be More Accurate Than Cholesterol - News18",
+      "published": "2026-04-17T00:30:59+00:00",
+      "summary": "Heart Disease Warning: This New Blood Test May Be More Accurate Than Cholesterol&nbsp;&nbsp;News18ApoB estimation Improves ASCVD Risk Prediction, Especially in Younger Adults: JAMA&nbsp;&nbsp;Medical DialoguesNorthwestern Medicine says apoB blood test better predicts heart risk&nbsp;&nbsp;NewsBytesYour Doctor Might Be Using The Wrong Test To Track Your Cholesterol, Study Says&nbsp;&nbsp;U.S. News & World ReportAlternative Blood Test More Effective for Guiding Heart Disease Treatment&nbsp;&nbsp;C",
+      "sources": [
+        {
+          "name": "News18",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaEdscndLNkR2Y1Y1aWRuUjBiX2FKUW5VZkFBdHk1OG9KejhCVUR2Vy04NjFQbGdsTzZyMVREX1ZQUGtKcmlsQV9NZFZWdWNGeGpqZkhIY05CbTBKcEJqVXVqWWU4RFRVX3BWVWFPWl9NQ0ZxY0h4SzNma2x3VzhFT2luVG9KWlBPV29mTGlidG5JZVE1NHBxdmJoRlJhaDJwcmJaNzZ5SkQ1UFAyX0tOVXdJaXdPTmh5WUtsOHZzUFloNEo0T2NmSmVJb2NxeXRPbk1vVHlxZHNWZl84N2N6eFpIRGnSAeoBQVVfeXFMT2pjSzhBSUVlNi1rRENFdFh4NncxRGJjZzFLQm1naVdjM3U3YzdKNjhsY29ISFhmeW16SVhhLWhwSndFZ0VQaW1uNkp5YTNOTnB0TUI1VzJteUxtZWtJN1BHRDlqWjBTUHRuekljVDBqR1JMbTQ1d1BhVU9pZXlhNTk0TUVyVFRwU2pxcTRHSVdnUUoyQjNhc1Nmazk5UDZQbkJKWTFzeWZzZjBKc3JoNVdsd0huWXlpXzVfYVZ0QVRhYkUxT2ZUdDJBYWkzRHdMWUZYTnlVQmU5T19vTHczZ3dLTEY2ZWpqb0VR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92cfdf074130",
+      "title": "Will retatrutide help me lose weight or look ‘shredded’? - The Conversation",
+      "published": "2026-04-17T00:30:00+00:00",
+      "summary": "Will retatrutide help me lose weight or look ‘shredded’?&nbsp;&nbsp;The ConversationWhat experts say about claims of new weight-loss drug making people fall out of love&nbsp;&nbsp;CTV NewsExtreme Side Effects Followed Overdose of Unapproved Weight-Loss Drug&nbsp;&nbsp;MedPage TodaySocial media is abuzz with weight-loss drug retatrutide and longevity goals. What is the drug all about?&nbsp;&nbsp;The Economic TimesFake ‘miracle’ weight loss drug Retatrutide flooding online market as experts warn o",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWU5RRXFFRWpGb1otWmk2aGx1c18xNUJTVHRLOHk4RXVBSFZXcElXNS1fQW52RU4tZWZ5TlhlUlg1a2JfWTNobjRlNk40U2JWTWFGMllKWU9taTJLdHB4dkFzTGwtZ3dWVEZCWlVzeDlLdHdONl9rbi1zUmZaRFcxcTktOWF3VklmWHZfYlh5aW5iZw?oc=5"
         }
       ]
     },
@@ -26,18 +218,6 @@
         {
           "name": "Docwire News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcUxmOUlOQjN3QXZ3UEtMUjhfRmgwX3U4ekdoTnI5Um5HSFVsN0tqaU1xblFyUHFhb0dsdzZiOHdGaGxoVWpFQjFsRko0aEhWMzd2QlNXU2FYOXNBMk5iX2d1TWpmMUVOa2drdDRBNDNqVXJxa3FlSll2NmxBa3ZZQUZkdTJsVFdINFhzTzQ3Rk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "38ddd6e623ac",
-      "title": "Navy search and rescue medical technician supports recovery of Artemis II astronauts - pacom.mil",
-      "published": "2026-04-17T00:20:43+00:00",
-      "summary": "Navy search and rescue medical technician supports recovery of Artemis II astronauts&nbsp;&nbsp;pacom.milNASA to Host Artemis II Crew Postflight News Conference&nbsp;&nbsp;NASA (.gov)Artemis II crew talk about their Moon mission&nbsp;&nbsp;BBCThe Artemis II astronauts are set to take questions about their moon journey&nbsp;&nbsp;CNNThe Bezos vs. Musk Space Race Is Heating Up&nbsp;&nbsp;WSJ",
-      "sources": [
-        {
-          "name": "pacom.mil",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZFBxQ1dndjFMY1d5RXVDY3o4eW0xX0RKWXNJendYbjU5TTI5a2xLU3dOSTlpOVJpcWEySWhQYUlLTWI2Mm9DdDBSXzc4SnBKRWxfYWpISHdFRWlmRGtpWmRwOGVVT3ByWFpET0h2QnBwYlh0RlV6dmtRY25GVHhudzMwQmhQSURwZm9kZ0ppWU9Xb1RJTDQ1R3VRZ2lvU0R5TkJiUzdXLXVKdlRIalBBNEZ5SGdUcTVrb0wweVRnb3lnTjNqRnJGR1JhSTdyajYwY0xERlN6VFZFb28?oc=5"
         }
       ]
     },
@@ -66,6 +246,18 @@
       ]
     },
     {
+      "id": "780548ad3e4b",
+      "title": "The truth about dementia - Mumbai Mirror",
+      "published": "2026-04-16T22:30:00+00:00",
+      "summary": "The truth about dementia&nbsp;&nbsp;Mumbai MirrorThe moment dementia begins is not the diagnosis&nbsp;&nbsp;Texas A&amp;M StoriesAlzheimer's start may not be in the brain&nbsp;&nbsp;Bonner County Daily Bee",
+      "sources": [
+        {
+          "name": "Mumbai Mirror",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbVgzS0tHdVRQM2N6a3pSWEtOVldZZzE0VXlvWm1xR2VITHJaMkFfZl93Z1F4Q0pKQXExMVJHS1hPQlU5WHBBY0NyMUIzTnV6U1EtU0h6dmtUVVVZY2hpUUctOUoyb0FpUWpKS1MtNEJxeFdzeFZuZjVTRmtPOHRzMXpvQmtiMVVpQjg4TXBST3lNd2VyalHSAZsBQVVfeXFMTVg2cU1XRGdHYnd2Q0xrY2xvWVE4V09nZjNNU29LNDFMUXVCcXduT0kwUndQV21sV3hnM3V2T0NTcXhSckw4QmdfX25mdnM5RjBlU3FBRkF2TWpmVjFrZjBjTjM0alhOS05lNGVTSC13Y0xRSGIyekllMHZMeEZEMWc2a3dkUWoyMElwdUFDdkFSc3BXUUlhUFcxUjQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8def8a9776c0",
       "title": "Menstrual cycle reshapes nearly 200 blood proteins, offering a broader view of women's health - Medical Xpress",
       "published": "2026-04-16T22:20:02+00:00",
@@ -78,9 +270,21 @@
       ]
     },
     {
+      "id": "b45f895132a5",
+      "title": "TOI’s D-Stress event: Screens don’t help relax; habit as bad as gambling - The Times of India",
+      "published": "2026-04-16T21:48:00+00:00",
+      "summary": "TOI’s D-Stress event: Screens don’t help relax; habit as bad as gambling&nbsp;&nbsp;The Times of IndiaLet’s D-Stress: TOI to hold inaugural meet in Hyderabad today&nbsp;&nbsp;The Times of IndiaDoomscrolling at night could be ageing you faster, warns neurologist&nbsp;&nbsp;Moneycontrol.comEnhanced Academic Performance with 30-Minute Pre-Sleep Mobile Usage Restriction: Suggests Review&nbsp;&nbsp;Medical DialoguesScreen Time Linked to Sleep Disorders: Ranchi Experts Warn of Digital Age Insomnia&nbs",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVEZLUGt0ZUd6aUxZZU42OXFjOUlxdm1IMVUwanljQ1B3NVVnUTR0NWpHcnpPYmtZUVFMSzQ4c2l3bFVkX2Vqd1FUNDE4dHZsM3ZMYldOZ3ZiaXhoSy1pT2xHQktHT1hqbVVVNmNnNFJZTHlFMThLYWk2VGxLZzV3MzZhaTJ0R3lpMS1uQjBGVVpWVTZSeEtZMFhkLW9MTm5IcTduMVQwMkdTTGcwSTFsc24zYUt5OHA4SlFvdldHX3hzajJ3aUVrd0F2RkdyYndDVGpIaG9wTzFxNjRFaEHSAeMBQVVfeXFMUFRlYTJPMlZrRFJJU201U0xkSGRuS09TOVpqWGtfalRaYkpETXBOdG1VckhSMEh3U29ST3pVMVIyWW94QmlSWDMxMFYwNFlEQUgwWlZCU1NkLVFQRERsT3Q0clFjdHF0dlFWTEpMakdUbjRoLUNTdmFrNThsSjF6Y1Z0dmpjUWFnQVFSQ3k2eXJ5SFFBOHA1SkxsS2d3ZGJ0LXdzOE4xNWZvMkZNRzBTQ3FlckpraWxPTmJjcjZNaDh2cllwN2dCR3F2U2VmRFpCYTBHYUdNOV81UFlRN2JHUzZRMXM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "016c25b61e1d",
       "title": "Report spotlights invasive Hib disease outbreaks among homeless - CIDRAP",
-      "published": "2026-04-16T21:05:00+00:00",
+      "published": "2026-04-16T21:00:00+00:00",
       "summary": "Report spotlights invasive Hib disease outbreaks among homeless&nbsp;&nbsp;CIDRAPThis Deadly Bacterial Disease Could Be Making a Comeback&nbsp;&nbsp;Women's HealthHib Disease, Transmission, Symptoms, Treatment, Latest News&nbsp;&nbsp;Vajiram & RaviWhat is Hib? Doctors sound alarm on deadly bacterial disease&nbsp;&nbsp;LiveNOW from FOXDeadly Hib disease returns in US as vaccination rates fall | Tap to know more | Inshorts&nbsp;&nbsp;Inshorts",
       "sources": [
         {
@@ -98,6 +302,18 @@
         {
           "name": "European Medical Journal",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSV9QQU9NeGVidmdKZTBYcC1hZGpZNExBVm1xZEpjTktOTjZwQXlhLU54SFJDY0g1VUZBWXI4cWxpX29CQmpOWnVjV09CR1lOaEREb0RyUjVmRTJqcC1Nb1NRMzdpQnhhVUk0WVJEc0RTcThpX2VLM0Q0TjV2V1FlN3RaWW5BTDhKNUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "459560ec183b",
+      "title": "Liver cancer roadmap links tumor hallmarks to treatment, including targetable mutations - Medical Xpress",
+      "published": "2026-04-16T20:40:02+00:00",
+      "summary": "Liver cancer roadmap links tumor hallmarks to treatment, including targetable mutations&nbsp;&nbsp;Medical XpressMount Sinai Researchers Publish Landmark Cell Review Defining the “Hallmarks of Liver Cancer”&nbsp;&nbsp;Mount SinaiMount Sinai Researchers Publish Groundbreaking Review Defining the “Hallmarks of Liver Cancer”&nbsp;&nbsp;Bioengineer.org",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXdEWkZwblV3TUdaaVVPWkhTTHFVbXAyZkNzcVQyV0hlYmZKRFR1Q2YwSXRoYTFCeUM1eUJmVzUyZXlvMllqbWtnV1N0VC0zd0tDa1FMcUtRNHl5aDZSZ01KT1RTTDdNcTFfVF9iaVQySjU5b1RHM1RXcnU3TC1mWldn?oc=5"
         }
       ]
     },
@@ -126,6 +342,18 @@
       ]
     },
     {
+      "id": "e2fb1d129d91",
+      "title": "Lawngtlai district implements steps to prevent measles outbreak - The Times of India",
+      "published": "2026-04-16T18:51:00+00:00",
+      "summary": "Lawngtlai district implements steps to prevent measles outbreak&nbsp;&nbsp;The Times of IndiaBangladesh’s measles surge: a warning for India&nbsp;&nbsp;The HinduEight people died within 24 hours due to flu and symptoms&nbsp;&nbsp;thefinancetoday.netBangladesh measles: 20,000 cases in one month&nbsp;&nbsp;Outbreak News TodayProtect low-income families from measles-induced poverty&nbsp;&nbsp;The Daily Star",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzRXOVdPX0NmVVFuX3ZKVVM3NTJxX0hXYy1FTmFmaFc0dExOMVJyakstM2dwbnY1N0gxa0U4UWJlQjIwY1FjZ1BpUWtBUWR4OHg3c19tRGQyOU5GbGV2RFVQRGVYVzZKelBhZEVKQU5tWGdIbVFzU2dtdEtZTUVNcXNZU2dreDhzT0Q3cHdaYkJKODBLWGNtTnBTVG5iNlpJTHk4VUpwd29Ocmx5YllYcS1vajZ1dmtFaUhWVXNyYmxuRWdmbmtndng0T3diSmJBQndyTVpR0gHbAUFVX3lxTFBOSXNFM2hLZUxBdDg3RVgtVmU5N2h4TzJzNW16bWpzVF9LTV9obEJ0eEVnUk9FeGV4NUo5YUhmNXFIblAzV1ZUeFFFWWtsQzN3TUFYdVNoYUtXbkw3YVBOLW8tVlQwSFhrSjA3SENpZ05ZckpWS3Ftcm85T2NST3RSbFBxMlVTQVAtazJ1MUZxR3hXeV9xb05DLVI1eGVkbUxYYmJMU0ppZDdmdHk2cmdzZWtVcnZPT1lybk8yaHhxQnJXcnpaQ19VZWhaWUgxdGN5ZVFvZmFkT1kwSQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9660b81e4812",
       "title": "How nanomedicine gets inside your cells and treats you from the inside out - The Conversation",
       "published": "2026-04-16T18:38:28+00:00",
@@ -141,7 +369,7 @@
       "id": "30662b6966c6",
       "title": "Advances in Stem Cell‑Derived Insulin‑Producing Cells for Type 1 Diabetes - Genetic Engineering and Biotechnology News",
       "published": "2026-04-16T18:08:58+00:00",
-      "summary": "Advances in Stem Cell‑Derived Insulin‑Producing Cells for Type 1 Diabetes&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsThese lab-grown insulin cells reverse diabetes in mice and clear a major hurdle for type 1 treatment&nbsp;&nbsp;Medical XpressCould Type 1 diabetes cure be near? North Palm Beach advocate thinks so&nbsp;&nbsp;The Palm Beach PostAdvancements in Stem Cell Therapy for Type 1 Diabetes&nbsp;&nbsp;Bioengineer.orgStem cell therapy may free Type 1 diabetes patients from insulin&",
+      "summary": "Advances in Stem Cell‑Derived Insulin‑Producing Cells for Type 1 Diabetes&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsFor 2 million Americans, the future of Type 1 diabetes care is now&nbsp;&nbsp;University of CaliforniaThese lab-grown insulin cells reverse diabetes in mice and clear a major hurdle for type 1 treatment&nbsp;&nbsp;Medical XpressAdvancements in Stem Cell Therapy for Type 1 Diabetes&nbsp;&nbsp;Bioengineer.orgCould Type 1 diabetes cure be near? North Palm Beach advocate thi",
       "sources": [
         {
           "name": "Genetic Engineering and Biotechnology News",
@@ -162,10 +390,22 @@
       ]
     },
     {
+      "id": "ee7f15c5a8c0",
+      "title": "Beyond the Plate: Dr. Joy to Explore the Gut-Brain Connection at TEDxApex 2026 - EIN Presswire",
+      "published": "2026-04-16T16:30:00+00:00",
+      "summary": "Beyond the Plate: Dr. Joy to Explore the Gut-Brain Connection at TEDxApex 2026&nbsp;&nbsp;EIN PresswireGut Microbiome May Provide Path for Early Dementia Detection, Researchers Find&nbsp;&nbsp;Baptist HealthWhat IBS, Vitamin D Deficiency & Diabetes Reveal About Brain Health&nbsp;&nbsp;MindBodyGreenYour gut, your health, your brain: Why everyone talks about the microbiome&nbsp;&nbsp;MSNCould the gut be driving age-related memory loss?&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "EIN Presswire",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVFI2RlNqekFqVW9YM1JEaV9jZDVhS091M2w1THNaNHhUTzVPZDAyX0pXNDVVT0ZTVFdEd2FaLW9IeGJ4NER0dlFnVzlLdWZIbDh2NHJVa3ZYczNRNHh6UUw2OG8tdVBiM3htbWNyMFJ5aUlENzhkTFEwMEQtQjduTFJiVmxQY2JRMEhJc2lMWXVlUWk4cGxSR2pQTkVfZDI5Y004ZVp2ZjlSMUJGd3NGaGhCVHFwSDJJZXBBbjJ6NVU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5e627332f265",
       "title": "Novo weight-loss drug may preserve lean body mass better than Lilly's, study finds - Reuters",
       "published": "2026-04-16T16:29:38+00:00",
-      "summary": "Novo weight-loss drug may preserve lean body mass better than Lilly's, study finds&nbsp;&nbsp;ReutersReal-World Evidence Confirms Oral Semaglutide's Metabolic Potency&nbsp;&nbsp;Medical DialoguesTirzepatide Best for Weight Loss in Adults Without T2D&nbsp;&nbsp;MedscapeYounger Indians without diabetes lose weight faster on GLP-1 shots&nbsp;&nbsp;India TodayWeight Loss Drugs: A Double-Edged Sword for Lean Mass&nbsp;&nbsp;Devdiscourse",
+      "summary": "Novo weight-loss drug may preserve lean body mass better than Lilly's, study finds&nbsp;&nbsp;ReutersReal-World Evidence Confirms Oral Semaglutide's Metabolic Potency&nbsp;&nbsp;Medical DialoguesYounger Indians without diabetes lose weight faster on GLP-1 shots&nbsp;&nbsp;India TodayMounjaro or Ozempic? What 1st study on Indian cohort found out about efficacy of anti-obesity drugs&nbsp;&nbsp;ThePrintTirzepatide Best for Weight Loss in Adults Without T2D&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "Reuters",
@@ -189,7 +429,7 @@
       "id": "32b53dd27324",
       "title": "Mysterious green fireball lights up UK skies, experts reveal what it was - The Times of India",
       "published": "2026-04-16T16:19:00+00:00",
-      "summary": "Mysterious green fireball lights up UK skies, experts reveal what it was&nbsp;&nbsp;The Times of IndiaA Kent Fireball Lit Up the Night Sky and Plunged Into the North Sea&nbsp;&nbsp;Orbital Today'We all screamed when it happened': Bright-green fireball meteor caught exploding over famous Viking raid site in UK&nbsp;&nbsp;Live ScienceWatch: Green meteor blazes a fiery path across the UK sky&nbsp;&nbsp;Yahoo News UKScientists confirm fireball seen in night skies was meteor | ITV News&nbsp;&nbsp;ITV",
+      "summary": "Mysterious green fireball lights up UK skies, experts reveal what it was&nbsp;&nbsp;The Times of IndiaA Kent Fireball Lit Up the Night Sky and Plunged Into the North Sea&nbsp;&nbsp;Orbital Today'We all screamed when it happened': Bright-green fireball meteor caught exploding over famous Viking raid site in UK&nbsp;&nbsp;Live ScienceMeteor spotted lighting up night sky across eastern England&nbsp;&nbsp;BBCMeteor Sighted Across the Night Sky in Suffolk and Other Parts of the UK&nbsp;&nbsp;SSBCrack",
       "sources": [
         {
           "name": "The Times of India",
@@ -201,7 +441,7 @@
       "id": "a20cdcc06d9f",
       "title": "Breast cancer screening to include image-based AI risk assessment: New global guidelines - The New Indian Express",
       "published": "2026-04-16T15:27:18+00:00",
-      "summary": "Breast cancer screening to include image-based AI risk assessment: New global guidelines&nbsp;&nbsp;The New Indian ExpressBreast Cancer Screening Guidelines To Now Include AI-Based Risk Assessments, Say Global Experts&nbsp;&nbsp;NDTVFrom radiomics to digital twins, AI drives next wave of innovation in cancer care&nbsp;&nbsp;DevdiscourseSeeing the unseen: How the AI framework, ClAIrVuE, is transforming cancer treatment&nbsp;&nbsp;The Tufts DailyHow AI Can Beat Cancer&nbsp;&nbsp;Time Magazine",
+      "summary": "Breast cancer screening to include image-based AI risk assessment: New global guidelines&nbsp;&nbsp;The New Indian ExpressBreast Cancer Screening Guidelines To Now Include AI-Based Risk Assessments, Say Global Experts&nbsp;&nbsp;NDTVRadiologists Respond to CEO Claim of AI Replacing Radiologists&nbsp;&nbsp;diagnosticimaging.comFrom radiomics to digital twins, AI drives next wave of innovation in cancer care&nbsp;&nbsp;DevdiscourseSeeing the unseen: How the AI framework, ClAIrVuE, is transforming ",
       "sources": [
         {
           "name": "The New Indian Express",
@@ -225,7 +465,7 @@
       "id": "44460a1af33b",
       "title": "GLP-1 Use May be Tied to Erectile Dysfunction - European Medical Journal",
       "published": "2026-04-16T15:03:12+00:00",
-      "summary": "GLP-1 Use May be Tied to Erectile Dysfunction&nbsp;&nbsp;European Medical Journal",
+      "summary": "GLP-1 Use May be Tied to Erectile Dysfunction&nbsp;&nbsp;European Medical JournalDiabetic Men Using Weight Loss Drugs May Develop Erectile Dysfunction: Study&nbsp;&nbsp;Health and MeAre GLP-1 Drugs Linked to Erectile Dysfunction?&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
           "name": "European Medical Journal",
@@ -249,7 +489,7 @@
       "id": "45032f731c39",
       "title": "Doctors Officially Recognize a New Type of Diabetes Linked to Childhood Malnutrition - ZME Science",
       "published": "2026-04-16T13:22:33+00:00",
-      "summary": "Doctors Officially Recognize a New Type of Diabetes Linked to Childhood Malnutrition&nbsp;&nbsp;ZME ScienceA Distinct New Type of Diabetes Is Now Officially Recognized&nbsp;&nbsp;ScienceAlert25 million potentially affected by new Type 5 diabetes, IDF urges global action&nbsp;&nbsp;Times Kuwait",
+      "summary": "Doctors Officially Recognize a New Type of Diabetes Linked to Childhood Malnutrition&nbsp;&nbsp;ZME ScienceA Distinct New Type of Diabetes Is Now Officially Recognized&nbsp;&nbsp;ScienceAlertType 5 Diabetes And Childhood Nutrition: What Doctors Say Parents Need To Know&nbsp;&nbsp;NDTVType 5 Diabetes Officially Recognized, Yet Millions Still Misdiagnosed: Experts Warn&nbsp;&nbsp;Times Now25 million potentially affected by new Type 5 diabetes, IDF urges global action&nbsp;&nbsp;Times Kuwait",
       "sources": [
         {
           "name": "ZME Science",
@@ -258,22 +498,10 @@
       ]
     },
     {
-      "id": "a4c39cf39241",
-      "title": "172 suspected measles deaths in Bangladesh as new cases surge - Xinhua",
-      "published": "2026-04-16T13:03:45+00:00",
-      "summary": "172 suspected measles deaths in Bangladesh as new cases surge&nbsp;&nbsp;XinhuaLawngtlai district implements steps to prevent measles outbreak&nbsp;&nbsp;The Times of IndiaBangladesh’s measles surge: a warning for India&nbsp;&nbsp;The HinduEight people died within 24 hours due to flu and symptoms&nbsp;&nbsp;thefinancetoday.netFrom anxiety to relief: parents thank govt for swift measles vaccination drive&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)",
-      "sources": [
-        {
-          "name": "Xinhua",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90eXllUE5GN3lUSkVTYkp1ZlppZWhyX2RUdDNLTHI5N2RybEZCa1JRRW9zbk9GY1JfYVIxTVN2eE9HX1dGclJ0VWV3UHFycTd3YUVMYUd2dGNHYzZzRlhCX1E1djVZY1NJclpwRTZxczc4YUZHa3lNXzhBWjA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e82f19e2cafc",
       "title": "Nasal spray reverses age-related brain inflammation in preclinical study - Drug Target Review",
       "published": "2026-04-16T12:29:06+00:00",
-      "summary": "Nasal spray reverses age-related brain inflammation in preclinical study&nbsp;&nbsp;Drug Target ReviewNasal Spray Reverses Brain Aging and Inflammation&nbsp;&nbsp;Neuroscience NewsScientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesScientists Reverse Brain Ageing With Nasal Spray In Landmark Study&nbsp;&nbsp;NDTVWant a Stronger, Younger Brain? Texas Researchers Say They Made a Fascinating Breakthrough&nbsp;&nbsp;inc.com",
+      "summary": "Nasal spray reverses age-related brain inflammation in preclinical study&nbsp;&nbsp;Drug Target ReviewScientists Reverse Brain Ageing With Nasal Spray In Landmark Study&nbsp;&nbsp;NDTVNasal Spray Reverses Brain Aging and Inflammation&nbsp;&nbsp;Neuroscience NewsScientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesNew nasal spray shows promise fighting memory loss and brain inflammation&nbsp;&nbsp;The Indian Express",
       "sources": [
         {
           "name": "Drug Target Review",
@@ -285,7 +513,7 @@
       "id": "e5c4e0032cab",
       "title": "New COVID variant ‘Cicada’ spreading in US: Is it a new threat? Check symptoms and state-wise details - Zee News",
       "published": "2026-04-16T12:25:20+00:00",
-      "summary": "New COVID variant ‘Cicada’ spreading in US: Is it a new threat? Check symptoms and state-wise details&nbsp;&nbsp;Zee NewsNew COVID variant ‘Cicada’ spreads across US: Full list of affected states, key symptoms and what to know&nbsp;&nbsp;The Times of IndiaHighly Mutated Cicada COVID-19 Variant Spreading Across US: Key Symptoms Revealed&nbsp;&nbsp;Times NowHealth expert highlights new COVID variant, \"Cicada\" from pandemic strain&nbsp;&nbsp;fox21online.comCOVID-19 Research Roundup: Surveillance an",
+      "summary": "New COVID variant ‘Cicada’ spreading in US: Is it a new threat? Check symptoms and state-wise details&nbsp;&nbsp;Zee NewsNew COVID variant ‘Cicada’ spreads across US: Full list of affected states, key symptoms and what to know&nbsp;&nbsp;The Times of IndiaHealth expert highlights new COVID variant, \"Cicada\" from pandemic strain&nbsp;&nbsp;fox21online.comMissouri Doctors Track Cicada COVID Variant as Cases Remain Limited&nbsp;&nbsp;MissourinetCOVID-19 Research Roundup: Surveillance and Risk&nbsp;",
       "sources": [
         {
           "name": "Zee News",
@@ -297,7 +525,7 @@
       "id": "757c038e8e08",
       "title": "Rapid weight loss trend sounds alarm over 'hidden muscle loss' risk - CNBC TV18",
       "published": "2026-04-16T12:16:32+00:00",
-      "summary": "Rapid weight loss trend sounds alarm over 'hidden muscle loss' risk&nbsp;&nbsp;CNBC TV18India’s Weight-Loss Craze May Be Depleting Muscle, Not Fat: Orthopaedists Warn&nbsp;&nbsp;ET HealthWorldCauses of sarcopenia and frailty in people taking GLP1RAs&nbsp;&nbsp;NatureGLP-1 and dual GLP-1 / GIP drugs help lose body fat while preserving lean mass&nbsp;&nbsp;News-MedicalTuesday Health Report: Weight loss drugs increase fracture risk for women due to muscle loss, researchers say&nbsp;&nbsp;WBRZ",
+      "summary": "Rapid weight loss trend sounds alarm over 'hidden muscle loss' risk&nbsp;&nbsp;CNBC TV18India’s Weight-Loss Craze May Be Depleting Muscle, Not Fat: Orthopaedists Warn&nbsp;&nbsp;ET HealthWorldCauses of sarcopenia and frailty in people taking GLP1RAs&nbsp;&nbsp;NatureTuesday Health Report: Weight loss drugs increase fracture risk for women due to muscle loss, researchers say&nbsp;&nbsp;WBRZGLP‑1 Weight Loss in Practice: Exercise, Injury Risk, and Aging&nbsp;&nbsp;Docwire News",
       "sources": [
         {
           "name": "CNBC TV18",
@@ -309,7 +537,7 @@
       "id": "a6b561fee10f",
       "title": "Does Marital Status Affect Cancer Risk? - Medscape",
       "published": "2026-04-16T12:07:28+00:00",
-      "summary": "Does Marital Status Affect Cancer Risk?&nbsp;&nbsp;MedscapeSingle People Face Higher Cancer Rates, Study Finds&nbsp;&nbsp;NDTVMarriage Linked to Lower Cancer Risk In Study of 4 Million Cases&nbsp;&nbsp;ScienceAlertMarried People Get A Major Biological Advantage That Single People Don’t Usually Get, According To Research&nbsp;&nbsp;YourTangoMarriage is preventive medicine&nbsp;&nbsp;wng.org",
+      "summary": "Does Marital Status Affect Cancer Risk?&nbsp;&nbsp;MedscapeSingle People Face Higher Cancer Rates, Study Finds&nbsp;&nbsp;NDTVMarriage Linked to Lower Cancer Risk In Study of 4 Million Cases&nbsp;&nbsp;ScienceAlertMarried People Get A Major Biological Advantage That Single People Don’t Usually Get, According To Research&nbsp;&nbsp;YourTangoAs If Being Single Wasn’t Bad Enough, Now It’s Bad for Your Health Too&nbsp;&nbsp;VICE",
       "sources": [
         {
           "name": "Medscape",
@@ -330,78 +558,6 @@
       ]
     },
     {
-      "id": "4729b027628f",
-      "title": "Liver Disease Claims Surge - BW Healthcare World",
-      "published": "2026-04-16T11:33:17+00:00",
-      "summary": "Liver Disease Claims Surge&nbsp;&nbsp;BW Healthcare WorldThe Rs 500 Test That Can Prevent A Rs 20 Lakh Hospitalisation: Why Liver Screening Should Be Part Of Every Insurance Plan&nbsp;&nbsp;NDTVRs 500 test can prevent costly liver treatment, experts urge routine screening&nbsp;&nbsp;DaijiworldLiver Transplants Can Cost Rs 20-35 Lakh: Why Adequate Health Cover Matters More Than Ever&nbsp;&nbsp;NDTV",
-      "sources": [
-        {
-          "name": "BW Healthcare World",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdHM2MVBhUTNrRHdBM291Zm5VMTV3LXg1N2tRR0dPbmxJWkNyeTFZa2ZBTkJSWE4zNHpVNjVNY0xwdjZCcTY2SFBYcE1vSXhkUEMtUUdvdE1rOFNwR0ZPN0ZnOUV4UG1na2hIUXExQjB0SkFZZk5ZZEs1MDRuNDEzRA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c22cf10f3cc",
-      "title": "‘1 in 5 Indians have fatty liver without drinking alcohol’: Gastroenterologist explains why early detection is important | Health - Hindustan Times",
-      "published": "2026-04-16T11:11:45+00:00",
-      "summary": "‘1 in 5 Indians have fatty liver without drinking alcohol’: Gastroenterologist explains why early detection is important | Health&nbsp;&nbsp;Hindustan TimesSkipping Meals, Late-Night Snacking: Is Your Eating Routine Stressing Your Liver?&nbsp;&nbsp;NDTVCan’t blame booze alone for surge in liver disease: Experts&nbsp;&nbsp;The TribuneLongevity expert Bryan Johnson warns this one bad habit is harming your liver&nbsp;&nbsp;Moneycontrol.comWorld Liver Day 2026: Not alcohol, these 3 daily habits are ",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQUFVzWndOaHdyNkVxREM0RXdrRGxrcGpydUVIeENXYVNzbFFsY2RaendRcVp3LWZLWldRZzNXMWlCUTAzNl95b1MxaHdBNXZXOFFrVmw0cGpwT1NlOVlTel9UX3FSYmFnaFdkZVdGWDBsellqYlNUdGMwZnIxek8xcWNVcUNlVnRNUmI4VWhkYktDQmFXSy1LUzFzaHdWVm9CWWYwWHdkYzQza3VQZVl6QXVvTDJZVWpjbzFyaEk5Mk4xdFozZVYtNUh5ckNwUGt2MWhVMThHVjlFS01WMkstNV9KZ2lJdXFfWkRZUHJFMjV6RFpZS1BPLVE5NDRtdWRaM0tWZ1pGU3RqZy1yR3psYndXMUrSAZoCQVVfeXFMTWZENnk3aW9FOW5zbmlKY2R4cWw1MnUwS0V2c3JCUjg3WGtJNFNhNEY3Y09MUjJ3aXRwM2dTdl84VktWamQwcFVqLVlDTGxOYS1HRVdBVjlBMk5zMUxOMUI5MFk4c1FZUEtaM0ExMklGeEJFazFVZjZQZDY0YldQUGdPVEc5OVBPalItcUNjdFBUdUllZ1pFU0FSdTJVX21ubjRpeWtYNFNJWEJ0OFI0QUkxYzdNQjhSc242Ykgybmsxd0FmWjh4b193TFZxeEFycFA2N0k5MVZZdzlvMnlDRGtXOExmTTBOMnMxbUhOaS1KQVpsMUFlYm5kT1c4MVg1XzdnMjBFYjRfY3hFbXlpLW1rZ0l4eVY2ZzJB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d160987b9482",
-      "title": "Moderate Coffee Intake Linked to Better Mental Health Outcomes - European Medical Journal",
-      "published": "2026-04-16T11:04:50+00:00",
-      "summary": "Moderate Coffee Intake Linked to Better Mental Health Outcomes&nbsp;&nbsp;European Medical JournalTwo to three daily coffees linked to lower mental health risks&nbsp;&nbsp;Euronews.comCoffee's sweet spot may help mental health in the long run&nbsp;&nbsp;Medical XpressIs coffee healthy? The benefits of a cup of joe and when to draw the line&nbsp;&nbsp;CBS NewsDrinking This Popular Breakfast Beverage Daily May Lower Stress — Up to a Point&nbsp;&nbsp;Food & Wine",
-      "sources": [
-        {
-          "name": "European Medical Journal",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQemQzaFhhcUVoUnRlaWFBT0J1ZnBRWFloVTJEU2ltZGxjTXFlcmlkbEx3U1Vvc2RhZ290bHZyRXowUGRTOEZ4eF9iNnphSmpjWFZaWE1GeDMtSDZvR3FEYlNRMEhNend4UEtmYTcwckprSnRFaXo4LVdhRzdHdEYxRUpiUUY1RVFLeWVJWEMtc05tRE9yRW5zekRMTGR5bDh4Z2MyTmx0TzM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e5edec1df4ca",
-      "title": "AI predicts early skin cancer risk with 73% accuracy - Innovation News Network",
-      "published": "2026-04-16T10:57:19+00:00",
-      "summary": "AI predicts early skin cancer risk with 73% accuracy&nbsp;&nbsp;Innovation News NetworkNew AI Models Identify Higher Melanoma Risk Using Registry Data in Sweden&nbsp;&nbsp;SSBCrackAI becomes gamechanger in early detection of cancer&nbsp;&nbsp;newspress.co.inAI can identify risk of melanoma years before diagnosis, study finds&nbsp;&nbsp;Euronews.comAI identifies early risk patterns for skin cancer&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "Innovation News Network",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEMxbTVPaU01Mm5ZV2FSRU1KZXFDZTkwM2UteEhhRzFGdkFweVkxN3EweWZfaVRGUEdtdUhtT0lsSmxqRnlocHJxYzBhZG9jZ0VSc1dyWkk5TEkxdUFtUks2NEkxc1dvbHZMbW9UbnlJNlhPWlkyM2l1Q1BuU1RLY1hnNXRCLW9renVGU3ZzTFR4bnF2SFZwTU83R20?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b01f7bb65de",
-      "title": "Too busy to work out? These 5 yoga asanas take less than 10 minutes to boost your health | Health - Hindustan Times",
-      "published": "2026-04-16T10:28:18+00:00",
-      "summary": "Too busy to work out? These 5 yoga asanas take less than 10 minutes to boost your health | Health&nbsp;&nbsp;Hindustan Times",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSkxuWGlORVFScWR2V041dEZkX0kwSDZHcjNidFY3SlQtZDFCNzM0cUtWa0VfX2xJYVYwMld3UGRSR2NzLXVfanJRVmstY3pLRlBVOHFzRkVsR0VlOG9RQjF5WjRyMlBLSkxWSmszbG5lZGhSbS1QTzA4VmpWVUttamlDdFZ4WVR2eV9QUHdLLUdyaDF0MXR4TXpJOEpqa05lXzRZMzU4cVhoNlhNVkFfTlFrbWszY0gzY3B0Uld6VEozekp6T285clpYS2xXNkh3OEZiTWpHRHp5MDdValRLaC1hUTlWN3hXeUxkVtIB8gFBVV95cUxNdXhGNFoyT2VYTWtvam5MMHFVVGJIaURPLUVyazB0bkZOZzlickxVM2FkanhwZDFvemNGRWpYdmJLMTZwczhINDhMNDg5dGkxTWUyUll4MzJKdEVhTnJuZko4dHNoZzlCQ19zd0pweWhOZXoxT3VSa2dmVS1MV1dpbVRvWkJRNHByTnBNa3l3YW93Y1VZWkhUdVlGbDZ4RHVGLWlrdEdOWE5BSzZTSEUyb2tsSGp0M0wwRHZ4MVBwNEw0OUh0UEZDRGIyejFfcXdERUR5Umozd1dINXk5TmhwRlpod1NtOUlDS3dtdXdwVDRjUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dfdae1ec9b36",
-      "title": "Cardiologist warns prediabetes isn’t a thing, it means your body is asking for change. Here's how to reverse it | Health - Hindustan Times",
-      "published": "2026-04-16T10:06:23+00:00",
-      "summary": "Cardiologist warns prediabetes isn’t a thing, it means your body is asking for change. Here's how to reverse it | Health&nbsp;&nbsp;Hindustan Times",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNa3FmV3Vxb2gtV0NCeGRGS2VSUjZ4Wm1RN0t1azFkM1dCYTlMRWhRc1NyTENCQ2Z2NExvSWZfSVNPN3NBUi15S2YxU2g4bi1peWRtaXdLRWJCc2xIZnZLa19wRFgxWUFId09pVXBkWlhzWXhoNmNqdVNWZjBaTUZSelFLWlhGVnliREdxdEpGQ2FXdVliMkRDWFJDdHRGRmlKdzVnTnlhWE1mcnBQMkFOMmpyekJ2SWV1NXVfb0NIeVZHemtRemluVjRNLUE1Mlh1Rm5rRjE2Qk9PbDFiOGxYTTBCYXBpSXRQdE94SnlnVV93U2pWdFE2WXdKc0JVV01wbkh2Z1IzUkLSAY4CQVVfeXFMTkNuaDFLYXJxaldsTFB6S0ZNSWRkaGlrdVYxUnE2OGZ1M0hHYV9nTmVvTWttaGlvTWgzUnZ0Q1pCR0RtaEE2UzRSdDBVeWpUcWw4NmxodG4xQm5qTUFlUVV0UjNMOHdxY1RHWnNhNWNnQ29WeUUyVWpIdy1DN2p4UmdTRFpieHp6d2psWTNtMVJCMkpiaTh0bUdUV3VnajUwMXBFaW11SWdwLVVUamU5Tms3UHhaME12bVVtZHRIN2hYOVQ0X3dDUGhHNVJDbVRsT0p6VTllZkNLb3dXdC1vUXR4M1VSc2NUN2djaERhVUs0eGlYMnVkd1BHSmI3X1VhV2RHcWFzWUpvYWx2bGdn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "06dd9ac87ee6",
       "title": "Increased Mortality in AMI Patients with Diabetic Dialysis History - European Medical Journal",
       "published": "2026-04-16T10:04:00+00:00",
@@ -417,7 +573,7 @@
       "id": "cf4e0d9666d5",
       "title": "Drug-resistant fungi warning: Scientists warn of rising global health threat - Open Access Government",
       "published": "2026-04-16T10:00:50+00:00",
-      "summary": "Drug-resistant fungi warning: Scientists warn of rising global health threat&nbsp;&nbsp;Open Access Government50 Scientists Identify 5 Ways To Combat Dangerous Drug-Resistant Fungi&nbsp;&nbsp;NDTVGlobal mycology community calls to combat drug‑resistant fungi&nbsp;&nbsp;University of Exeter NewsScientists issue call to arms over antifungal resistance&nbsp;&nbsp;pharmaphorumAfter Bacteria, Experts Warn Of Rising Threat From Drug-Resistant Fungi&nbsp;&nbsp;Outlook India",
+      "summary": "Drug-resistant fungi warning: Scientists warn of rising global health threat&nbsp;&nbsp;Open Access Government50 Scientists Identify 5 Ways To Combat Dangerous Drug-Resistant Fungi&nbsp;&nbsp;NDTVDrug-Resistant Fungi Could Be the Next Pandemic-Level Threat, Say Experts&nbsp;&nbsp;Times NowAfter Bacteria, Experts Warn Of Rising Threat From Drug-Resistant Fungi&nbsp;&nbsp;Outlook IndiaGlobal mycology community calls to combat drug‑resistant fungi&nbsp;&nbsp;University of Exeter News",
       "sources": [
         {
           "name": "Open Access Government",
@@ -429,7 +585,7 @@
       "id": "e05a32c74b16",
       "title": "Artificial sweeteners may impact generations - Ahmedabad Mirror",
       "published": "2026-04-16T09:44:38+00:00",
-      "summary": "Artificial sweeteners may impact generations&nbsp;&nbsp;Ahmedabad MirrorArtificial Sweeteners May Harm Not Just You, But Also Your Future Children, Study Warns&nbsp;&nbsp;NDTVMedical Bulletin 14/April/2026&nbsp;&nbsp;Medical DialoguesCan sugar substitutes affect your unborn child?&nbsp;&nbsp;theweek.inHow the Artificial Sweeteners You Eat Could Alter Your Future Grandchildren&nbsp;&nbsp;VICE",
+      "summary": "Artificial sweeteners may impact generations&nbsp;&nbsp;Ahmedabad MirrorArtificial Sweeteners May Harm Not Just You, But Also Your Future Children, Study Warns&nbsp;&nbsp;NDTVMedical Bulletin 14/April/2026&nbsp;&nbsp;Medical DialoguesAre sugar substitutes healthier than the real thing?&nbsp;&nbsp;The EconomistCan sugar substitutes affect your unborn child?&nbsp;&nbsp;theweek.in",
       "sources": [
         {
           "name": "Ahmedabad Mirror",
@@ -438,22 +594,10 @@
       ]
     },
     {
-      "id": "923d73ad94be",
-      "title": "Your body adapts faster than your habits: Why old health advice stops working and what to do instead - The Times of India",
-      "published": "2026-04-16T09:42:59+00:00",
-      "summary": "Your body adapts faster than your habits: Why old health advice stops working and what to do instead&nbsp;&nbsp;The Times of India",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTWNqNS1fRTJqNjFrUlVGdlROdDltcDI1VVl0dmloVDMwSWNLUDlKT1Uwb2VUZ1BVVFBEMXlRMHF2aUZJdV94OXhHU3BhMHhSUTFPbnBxT3BDNVA1b3JwU2t6cGxVLURjWWszV3Eyck91MGY0ajkzWGZod1JNcHl5Slo4eWRJRVpyWlZhcm0tNE5PMTZkYTFBSS1vYnFETGhMNFNKNHl0aFBkMDNpd1lVSGxwaF9qMnZiZUp6MlI0eUYteTlaai1iZm81dUF2dXpfbjBYcHREOG5FWGZRU0FhLW44bWIzWkotU1ZjZ1FYN3dNVzU0UVNxTGVhY9IBgwJBVV95cUxPT3N0ZFBlWHMxZVk0R3dLV2dSazNRMU1aUHdOcjJ5U1NYMlNMbkRjWkF5T1M5YTlCRF9UUjF6eWVuUVlMZkJaUFlzSUZNWnpBeFM2eXhISDlEX0tNUjBvRnZSVy1GNVlHOXc1WGN4Ynp2dlA0VGdjUUcwaTJSUk13Y00xWXlmMXNiaXR0YklWREtWSHlxbFdLT2x0RVd4VThjZHA0eTRMM05LWkU0bVQtbWVGSFRzSGpYR3VvYmVEMkpJVWxqUU1RcktXMXlqandmZDVjZi1obC1hblpHYldJRk5xeFdWaFVVZWdia1E2QUZwaS0xWjUxTE1xcUZpZmM4T0dv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a70d80c77c4d",
       "title": "Study finds parental depression can influence kids' mental health for years - Business Standard",
       "published": "2026-04-16T09:28:47+00:00",
-      "summary": "Study finds parental depression can influence kids' mental health for years&nbsp;&nbsp;Business StandardParental depression timing may shape adult children's mental health for decades&nbsp;&nbsp;Medical XpressStudy links mother's depression in late pregnancy to psychosis symptoms in children as adults&nbsp;&nbsp;Metro VaarthaStudy flags pregnancy as key risk period linking parental depression to adult mental health issues&nbsp;&nbsp;DaijiworldParental Depression Can Impact Children’s Mental Heal",
+      "summary": "Study finds parental depression can influence kids' mental health for years&nbsp;&nbsp;Business StandardParental depression timing may shape adult children's mental health for decades&nbsp;&nbsp;Medical XpressPregnant mother’s depression linked to symptoms in kids&nbsp;&nbsp;Ahmedabad MirrorStudy flags pregnancy as key risk period linking parental depression to adult mental health issues&nbsp;&nbsp;DaijiworldParental Depression Can Impact Children’s Mental Health Into Adulthood, Study Finds&nbsp",
       "sources": [
         {
           "name": "Business Standard",
@@ -462,34 +606,10 @@
       ]
     },
     {
-      "id": "92ec96fb11b5",
-      "title": "Brown Fat Metabolic Pathway Emerges as Potential Obesity Drug Target - Technology Networks",
-      "published": "2026-04-16T09:07:03+00:00",
-      "summary": "Brown Fat Metabolic Pathway Emerges as Potential Obesity Drug Target&nbsp;&nbsp;Technology Networks",
-      "sources": [
-        {
-          "name": "Technology Networks",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY2w3dHZaRWtFQjVEZWZCTXZDd0laYjd2c183b1FoZ0MyYTFNTHppbU1PdWlsQy16MWdFY1pwLUd0dWp3Y3ZudXppUVVacE5GZWN5YU9OZy1yVWxaWURYM3RiTk5iem5DWGtVcGZYZ2VmTFVMTGR4OFFSVEhuVnZGUi1lZXhrc3FDNjVpLTVjdTd4MFNUOW93Z1ZWVzNrWl85Tk9QZFBrVU9QcU10d3hLVGRKcHVIVTZoeTlybkE2WFY3LTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "097b1f400370",
-      "title": "Desert planets beyond our Solar System may be far less likely to support life - India Today",
-      "published": "2026-04-16T08:37:12+00:00",
-      "summary": "Desert planets beyond our Solar System may be far less likely to support life&nbsp;&nbsp;India TodayPlanets need more water to support life than scientists previously thought&nbsp;&nbsp;Phys.orgDesert Planets Unlikely to Sustain Alien Life, Study Finds&nbsp;&nbsp;조선일보Desert Worlds in Habitable Zones Unlikely to Support Life Without Sufficient Surface Water&nbsp;&nbsp;SpaceWar.com",
-      "sources": [
-        {
-          "name": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNzZZYjNVaUR5WnVFSE41RTlidnFJRlFWSkZqcWdzcmczRndOdjJwNm9WNTR3M0laUGo0a3RKSG9KV2RyWWVvdVRobXA4cWVxQmtOTFpZOFg2cFhodWoyT3drLXU0b0ROUVRROUt1cmZYb3JTUXhrdnlhdkNmS0VHTlBHUnBYOGlIekdVdnE1VEtZdW9WbTF2NTBQRGR6NVo0aTZxX0JnSXZOUzNwRFY4Yl9OdVVjNkJDZXkwQlNPNy1nYjVnV2NkOWlLLWVHZmNsb2fSAdcBQVVfeXFMT3lIbnE3V05jUWJDODM4MTNKN1ltQWVnYlBMVjJXcjdSdkpNRTlpanFKSEprcVBmVlpxd1pJNzFqZGVObjZGcVZ0YXd2MWJCQlRPUldBWjkwNi1DeG1zZnpYSlM0UGlwcUQ5cGxoYndQQ2U5aDhad3hRYThlN1pZSlJhWDZNVmUyUFVMZTNfeGxyZk9PNENiMGFXT1dlRTBSWENqVnlBN1pYSlZob3RoakwxeU9RMUxvb29QWlZJdFJWQkJmeWp3SUQtMmRFYkFzWEd3M2pPQU0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3ae32bf5e9b8",
       "title": "Parkinson’s disease in India set to surge by 2050 warns study: Expert explains why cases are rising faster than expected - TheHealthSite",
       "published": "2026-04-16T07:34:00+00:00",
-      "summary": "Parkinson’s disease in India set to surge by 2050 warns study: Expert explains why cases are rising faster than expected&nbsp;&nbsp;TheHealthSiteParkinson’s disease: recognising symptoms early is key to prompt diagnosis and treatment&nbsp;&nbsp;The HinduWorld Parkinson’s Day: ‘Bridge the Care Gap’&nbsp;&nbsp;News On AIRUnderstanding Parkinson’s Disease&nbsp;&nbsp;Greater KashmirBial launches ‘Dialogues with Parkinson’s’ campaign aimed at identifying early symptoms&nbsp;&nbsp;Fierce Pharma",
+      "summary": "Parkinson’s disease in India set to surge by 2050 warns study: Expert explains why cases are rising faster than expected&nbsp;&nbsp;TheHealthSiteParkinson’s disease: recognising symptoms early is key to prompt diagnosis and treatment&nbsp;&nbsp;The HinduFaridabad and Panchkula neurologists share Parkinson's red flags, bust common myths: 'Can affect even people in 30s...'&nbsp;&nbsp;Hindustan TimesMore than just tremors: Expert lists four early warning signs of Parkinson's disease to never ignore",
       "sources": [
         {
           "name": "TheHealthSite",
@@ -510,18 +630,6 @@
       ]
     },
     {
-      "id": "78b2ea5de2c7",
-      "title": "Early diagnosis, healthy lifestyle key to preventing heart disease | Daily Sabah - Daily Sabah",
-      "published": "2026-04-16T07:00:13+00:00",
-      "summary": "Early diagnosis, healthy lifestyle key to preventing heart disease | Daily Sabah&nbsp;&nbsp;Daily SabahFor future heart health, body fat in late teens may be more important than during childhood&nbsp;&nbsp;Medical XpressHeart disease risk increases from age 17 due to body fat&nbsp;&nbsp;Minute MirrorIs your heart at risk? 5 Lifestyle mistakes that could damage your arterial blood flow and cause cardiac arrest&nbsp;&nbsp;TheHealthSite",
-      "sources": [
-        {
-          "name": "Daily Sabah",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0VwMm8wTFVQV2o0VllFV0l1UXFfb0xqTGd1dnJGbWxYaVl5bGtleHNsZW13TWVXWG41MG42SzZ5U1V3ZEJnSEE5VXY1Y0QtY21ibFBoY3pOYkYxUUh0ZWVnNE94Ty1ZaTVnaUxHSnlnd0JNZ21ZRkM0cy05d2pvZTlIa2p6RllVdlpPU09kcXJrUHhYWFAyVlB0VHFIQlNiTTJKTjl5a9IBrAFBVV95cUxPMm40aU5XQ204OURuQkpJSU53ZlVBZ0xvSUZ6eDJYT0JkbUVob2NQQUZ1RnEzaHJmM0RBZmhDQ0dMcFAtWjBhTERMdUdpcXh0ZlRBZW9qekpSMXhJVVFuaXdZOVJkbXJZVU0tOE9RR0NCSnNvRk5xTEZuY0VJaDZ1Q2NyTEU5MU12MFBBdWY2UDBqWXczaEh4M3F2SV9FUVJFd0hWa1pjVzFTdlhE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3576f8837055",
       "title": "Just 2 days of oats may cut cholesterol, says new study - India Today",
       "published": "2026-04-16T06:52:37+00:00",
@@ -534,30 +642,6 @@
       ]
     },
     {
-      "id": "7590f0de0e12",
-      "title": "ICMR rings the belly alarm: India’s waistline on the run - The Times of India",
-      "published": "2026-04-16T06:51:00+00:00",
-      "summary": "ICMR rings the belly alarm: India’s waistline on the run&nbsp;&nbsp;The Times of IndiaThe alarming rise of medicalisation in India&nbsp;&nbsp;The HinduICMR to test multiple obesity interventions across diverse Indian groups&nbsp;&nbsp;NewsBytesUPSC Editorial Analysis: India’s Obesity Crisis&nbsp;&nbsp;INSIGHTS IASFrom salt bans to school gardens, how small cities worldwide are taking on childhood obesity&nbsp;&nbsp;The Indian Express",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVHJZUWdldmJSRE02cHg2ajZITHZTOVlQbExKRGRBd1RQdFlSX194QkpuanVZeTNOcnFHR2V1OGRWcnRaVl9SSDNTSHIzeWRDOGF2eUVpUFpEY3VWWVFXUlA4Z3pmbDFqdXVLRDJuRjlEWlhQTmRBVXV1S1NZLW1xTmNIWTAyanR6M1BvNmhZcGFIV01mLWJLbzZhdXZCOWxXX2JDQzRpbGVMeDN6ajVCeVJDRUFMZG0xQUQ4M041Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f7379e02766a",
-      "title": "Targeting tumour DNA with CRISPR variant - healthcare-in-europe.com",
-      "published": "2026-04-16T06:06:35+00:00",
-      "summary": "Targeting tumour DNA with CRISPR variant&nbsp;&nbsp;healthcare-in-europe.comMolecular basis for methylation-sensitive editing by Cas9&nbsp;&nbsp;NatureHow Cas9’s Structure Controls Methylation Editing&nbsp;&nbsp;Bioengineer.orgThermoCas9: Gene Editor Targets Cells with Disease-Related Hypomethylation&nbsp;&nbsp;Inside Precision MedicineCRISPR Variant Selectively Targets Tumor DNA | Newswise&nbsp;&nbsp;Newswise",
-      "sources": [
-        {
-          "name": "healthcare-in-europe.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVFKTHlWZ3ZmRmItaGs0endEMTh4cF9oaUw2M3JVdExwdHpjN3lxcjllVTAwQ1g5cjRkNVl1cnh5YXNMdGxmbDZvOUE3V09HZ0lTWnY3RUY5NGhKUGlBd0x3bHBWS3hFWkk0SWRUVFB0ZFhQbzRKcG5qRDZxUWYwalVOb0VpTVRV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2c46c63c2eea",
       "title": "Latest fertility treatment advancements in India: Genetic testing in IVF – Boon or ethical concern? - expresshealthcare.in",
       "published": "2026-04-16T05:54:02+00:00",
@@ -566,18 +650,6 @@
         {
           "name": "expresshealthcare.in",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM2staFRabzFBLVhYdmFFdTN6NHZRLTlpWHZaU0EwcVo4c2VvVzF6SWxMSUJMZUFLWG9ISGlhUHlDM1ZUNVN5YzBBdS1Qa0toOHZ3a3piOURQYjJoMEEtdFZPWmFwaXRRLTNkeHpkZW5FUXBZdXNIWHBEd3VIUkI0SmtHYjNyR3FFOERPNTNiYVc2YTRnWHBEMkRIazF2ZU9ZTllQaXhNOVlwc2Z5d3Q5SERoV3pOZlFRdnFPZzlWZ1NJOWktSmRWTm9fcnA5YlpqXy1DRUt3UDXSAd4BQVVfeXFMTjBoSnpGc2RSaW9TRTlqMlZCWGZCdHVUcWRqMXBYV01BazBMOUFMWHBzdTJkdi1oVjN1QnZiMkVZSWRRUmMyd3pYU3l1VFloeFNSWlc3Rk5md0dQWjF4NEs0VGg1VHZpalcwVl9McVFfelRGdEtVYllRZ3hzQWQ5QkNLT2JjcE9oSUNsVkpXSjFua1c0XzU1ck1pZnoyOUN6cE1pb2xGbmozTVo2ZkIzdWxoYnhjcHU0NUdiMnp1YmN3Zjl3WlFOaF9rZHZWQjVkM1p3aDlZN21IV2tRa0xR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4118434b7d42",
-      "title": "Researchers examine graphene wetting transparency from macroscopic window to nanoscale mirror - Graphene-Info",
-      "published": "2026-04-16T05:34:12+00:00",
-      "summary": "Researchers examine graphene wetting transparency from macroscopic window to nanoscale mirror&nbsp;&nbsp;Graphene-Info",
-      "sources": [
-        {
-          "name": "Graphene-Info",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmgtWTA3dVFEdHM0NkhMZWViMDF0OXh2VTVEc1ZVMWpPSy04eXFVVVoyZEw0VmN1Tzdvc1lrdU9jMHlReV9DSThPWkJ6cEg1RXZzcnprQVkzOEF0VXpjd2J1dmNQOWRDN09rTlJ6UDR2Y2ZGaGcyQTc2Z0tsbWw2RnZpM0JsSl9ISWhEYUFUSkg4bGE1blFQVFlhZjN5MFEyT1ZMYWpJMGRhV3ZL?oc=5"
         }
       ]
     },
@@ -606,22 +678,10 @@
       ]
     },
     {
-      "id": "95d21216aa17",
-      "title": "Childhood Cancer Is Eighth Leading Cause of Childhood Death Globally - Hematology Advisor",
-      "published": "2026-04-16T04:00:00+00:00",
-      "summary": "Childhood Cancer Is Eighth Leading Cause of Childhood Death Globally&nbsp;&nbsp;Hematology AdvisorView Full coverage on Google News",
-      "sources": [
-        {
-          "name": "Hematology Advisor",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1FIQXFQTVJlNFBXd19nU0o1dzlxdlAtRUpBNWhNdmVKZTlkMVpMV3JwNWdqcXVfNUlLUGhZS0hxOEhIeXdtemVXRlhZeVR1SHp4Z2tObVZmNzlVQ19lbHRzaU1hYTIzUUJYSEZiYkhBWXRnLTdrVmhCdHdObDBxRVQzVC1HV0lqOThta0ZIMmZ4ejM5elZ3YnlfeGNRN3RhV3ZPMFhjY1F4eno3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4fb6b66619ba",
       "title": "Liver Disease Cases At 1.3 billion, May Hit 1.8 Billion By 2050: Lancet Report - BW Healthcare World",
       "published": "2026-04-16T02:37:37+00:00",
-      "summary": "Liver Disease Cases At 1.3 billion, May Hit 1.8 Billion By 2050: Lancet Report&nbsp;&nbsp;BW Healthcare WorldGlobal Liver Disease Cases Reach 1.3 Billion in 2023: A Surge of 143% Since 1990&nbsp;&nbsp;The Times of IndiaMedical Bulletin 15/April/2026&nbsp;&nbsp;Medical Dialogues1.8 billion cases of fatty liver disease in the world by 2050, warns Lancet report&nbsp;&nbsp;Moneycontrol.comWorld Liver Day 2026: Is your diabetes hiding a silent crisis? 1 in 20 Indians have hidden cirrhosis, says Lance",
+      "summary": "Liver Disease Cases At 1.3 billion, May Hit 1.8 Billion By 2050: Lancet Report&nbsp;&nbsp;BW Healthcare WorldTop 3 Causes Of Fatty Liver Disease Explained; 5 Prevention Tips To Follow&nbsp;&nbsp;NDTV‘1 in 5 Indians have fatty liver without drinking alcohol’: Gastroenterologist explains why early detection is important&nbsp;&nbsp;Hindustan TimesMedical Bulletin 15/April/2026&nbsp;&nbsp;Medical DialoguesGlobal Liver Disease Cases Reach 1.3 Billion in 2023: A Surge of 143% Since 1990&nbsp;&nbsp;The",
       "sources": [
         {
           "name": "BW Healthcare World",
@@ -630,14 +690,14 @@
       ]
     },
     {
-      "id": "6d8c3a48056b",
-      "title": "Study explains failure of cellular cleanup in neurodegenerative diseases - News-Medical",
-      "published": "2026-04-15T22:22:00+00:00",
-      "summary": "Study explains failure of cellular cleanup in neurodegenerative diseases&nbsp;&nbsp;News-Medical",
+      "id": "8c12062ee723",
+      "title": "Lifestyle moderation central to combating kidney ailments: Ludhiana doctor - The Tribune",
+      "published": "2026-04-15T23:02:59+00:00",
+      "summary": "Lifestyle moderation central to combating kidney ailments: Ludhiana doctor&nbsp;&nbsp;The TribuneSir Ganga Ram Hospital nephrologist with 20 years of experience warns of habits silently fueling India's kidney crisis&nbsp;&nbsp;Hindustan TimesABP Live Doc Talk | Hydration And Balanced Lifestyle: Know What We Underestimate In Kidney Health&nbsp;&nbsp;ABP News5 seemingly healthy habits that may harm your kidneys&nbsp;&nbsp;VnExpress InternationalFast Lives, Silent Damage: Why Young Indians Are At R",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWZNdVlHVldoWTlQODJNbU1aSGFfMXJTUDlVNWdjbzNtRDdVc0FPN05ONzl2elV4R19jQmUwTnN5cFZ2ajZKTGZaaE9FSE05MVdQRUNzb1VBcDVSNFgxRTNWRm5UM3RCN1h3UmhKOXlkTThGeDhReGJKNHUxQjlWcndNbjE0c2Mzb0ZicXZnVXQydThYcmlpcGRmNkJvYmVNYUlaTDNyLU9JMldld0VFaEpnUHFUSElrOS1Rbw?oc=5"
+          "name": "The Tribune",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWi1CN29jNXZoLW1Hc0R3V2J3TzZoWFJuaDFvOWFyUGJoLV9FQTV5dHZlc1FjcE43SEZVa2M4LV84S2EtQWYyYi1EV2pLU0Y1OUE2UEZKNUU5cjVuWWlPYVVRd20zT25RNjNGdzFVeXJBUmJVUmJkSzJMWXNWaU5xMGZFN1YwSXo4clBZT1dFdkRhMnNBR3pFU0JvNHlMTDRWVnZob1FDM3Rfa3FBUFBXczhNTzVVUHJk0gG8AUFVX3lxTE8tendNZ2ZYbGg4b0taZ3ZGQXh4NVlyZEpUbHNMbEdFQzdMd2FUb3pnVENFM1U5VTBTVTBXOVVJSEsySGJWSHk3dTJZZzZkRXRmdUM4blFUVU1GNTZqZjB4dHBJMDRFUENrLU1JLUFFRmhWMWd3TkpOOW8zc3dBeFBnMllZSXJhbGhvSktZeWlLSEJ3UjNrVXItdGtfenRobjRBTHpqdVBJV1VMcTNCVG9Cd3NIVWhhT3FOUmM0?oc=5"
         }
       ]
     },
@@ -654,18 +714,6 @@
       ]
     },
     {
-      "id": "5098e871ae84",
-      "title": "Let’s D-Stress: TOI to hold inaugural meet in Hyderabad today - The Times of India",
-      "published": "2026-04-15T20:30:00+00:00",
-      "summary": "Let’s D-Stress: TOI to hold inaugural meet in Hyderabad today&nbsp;&nbsp;The Times of IndiaDoomscrolling at night could be ageing you faster, warns neurologist&nbsp;&nbsp;Moneycontrol.comEnhanced Academic Performance with 30-Minute Pre-Sleep Mobile Usage Restriction: Suggests Review&nbsp;&nbsp;Medical DialoguesScreen Time Linked to Sleep Disorders: Ranchi Experts Warn of Digital Age Insomnia&nbsp;&nbsp;The Times of IndiaCan Excessive Screen Time Affect Your Hormones? Expert Shares Key Warning Si",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFdTdm40YjNxNEkwWU9qUVdiQ2Y3b08yOXNFTDM2T1JBMU5Cb2xxaWRUc0YtZWVlQnNIeFdaMDZydHA1Sy1MU0RsRnl4bzhudUNOdjRQNUJOX1ljeTR4SmpMcUxfT25YSzZOTWQ2X01PSFM2UzNlZ3ZtSF9fcGJPQUE2VGx0SEJnNHZvNzQ3SUNPd29TUTE2eUZaeGFOYXFsaXYtNnk2bTlrZlhwU3BiU1JuOWY3RTNKenhNUjIwbE5pR2JidmFRc3FVZkNuR2t5c3fSAdcBQVVfeXFMTV93TjFRS3hvS3pKSVc1MENzY19zQ2dKVVphSG1EZDVWRkhDa196YWp5MFFpdWgtT2xsVWNoQmVqZnpiNGNwbkl4X1ozUDl4eDIzUTR6czFXM1k5S3doejQ2Rk9xbE9qekt4ZDN4NlpEbU93YnhHTHFpS2FBYUpNSmFHb1VleFFtenZjMUZZWjczMlU1azhaaUQyaHhkUU5oYl9RMmRPSWJFYkNDdm9SSHVSYWlDN1pycUxoT3kyeGNfV0VVS1dJS0NxNWF1R1otWm1nUzZYTnM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6de0503308db",
       "title": "Graphene just defied a fundamental law of physics - ScienceDaily",
       "published": "2026-04-15T19:25:35+00:00",
@@ -678,14 +726,14 @@
       ]
     },
     {
-      "id": "61f157bbaffe",
-      "title": "Hospital launches programme for high-risk heart patients - The Hindu",
-      "published": "2026-04-15T19:21:40+00:00",
-      "summary": "Hospital launches programme for high-risk heart patients&nbsp;&nbsp;The Hindu",
+      "id": "4defa6a460bf",
+      "title": "Why Abridge is Embedding NEJM and JAMA Directly into the EHR - HIT Consultant",
+      "published": "2026-04-15T17:39:30+00:00",
+      "summary": "Why Abridge is Embedding NEJM and JAMA Directly into the EHR&nbsp;&nbsp;HIT ConsultantAbridge incorporates more clinical evidence into its decision support tools&nbsp;&nbsp;Healthcare IT NewsAbridge expands clinical decision support solution with UpToDate partnership, new NEJM, JAMA content tie-ups&nbsp;&nbsp;Fierce HealthcareAbridge Partners With NEJM & JAMA Network to Expand AI Clinical Decision Support&nbsp;&nbsp;Digital Health NewsAbridge partners with medical journals to expand AI clinical ",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWhuaVpGbmZKY2pSU09wTDZvSkMxbnZsYW9LMEdLSWVYMlh3aFRUSVNVX0ljejJmV25KUXRzYUswTVE5Q1E5Vk0wYldfTXhWcWdPbVQ3S0FZWk9nWHZOZk83UmtfbmV6TU5RbGhpM2dBeDRkRzVmX2hTanhZRXd3clNvaDZ6M3RGLWlwWFkzSkJ3Q21iVXJLaG4weDhaUGYzRGVtaV9MTWwxSnMtVW1fdHZkQkNzZ0FBWG1nbUNn0gHEAUFVX3lxTFBJN09rQXRHN2ozemdsQkNzWjlhZGY4dFNKbjFOSEg1UTFoSFJjTV9rU3pjWERMZzVUMnFGTGdJMjhaWVB2UmdGUHlNQkduRjlWZ3Rfd18taWdMVDBnTFQ4ZVNoRUFBQXZDZVNoTnlFR1VweFFhaWZDN0dNcFlMRTJhV2VtYXpVUGphempvU1JPUFktOGJvNk1nMENGa1BZT0N2UkN6c29HUElQQTNuOWpaVVB0VGwxVWVuYjNqYXFhaDNBTjE?oc=5"
+          "name": "HIT Consultant",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2NGTXpOWFN0cUhwdVJkQmpoYUc5c1Z6VWw1RTUyZDdQcmUyYnZfZ05tT3dRT3UtdEYxYnFZWE5rb1pJdC1xTzBVUXpGTy1fR1djclFwbHgtRGRuMkgtODRMWGpqZTBld1k1V1gzMDRPT193ay1yUGVpSUp5cFRmbzdWSkt1emN5OGd5RGlmOEpkbmNmXzhNT1I5V1JBQQ?oc=5"
         }
       ]
     },
@@ -765,7 +813,7 @@
       "id": "bb6c1fc4ebca",
       "title": "What is Yellowstone Volcano? Is it Near Eruption? - Jagran Josh",
       "published": "2026-04-15T12:49:33+00:00",
-      "summary": "What is Yellowstone Volcano? Is it Near Eruption?&nbsp;&nbsp;Jagran JoshNew study reveals shallow mantle source for supervolcanic magma&nbsp;&nbsp;EurekAlert!Is Yellowstone volcano near eruption? New study sparks buzz, scientists urge caution&nbsp;&nbsp;MintYellowstone’s Dreaded Supervolcano Has an Unexpected Power Source, Study Says&nbsp;&nbsp;GizmodoNew Study Challenges Traditional Understanding of Supervolcano Systems&nbsp;&nbsp;ShiaWaves",
+      "summary": "What is Yellowstone Volcano? Is it Near Eruption?&nbsp;&nbsp;Jagran JoshNew study reveals shallow mantle source for supervolcanic magma&nbsp;&nbsp;EurekAlert!Is Yellowstone volcano near eruption? New study sparks buzz, scientists urge caution&nbsp;&nbsp;MintYellowstone’s Dreaded Supervolcano Has an Unexpected Power Source, Study Says&nbsp;&nbsp;GizmodoYellowstone supervolcano has an unexpected energy source, new study shows. Discovery reveals that oceanic plate feeds the magmatic system.&nbsp;&n",
       "sources": [
         {
           "name": "Jagran Josh",
@@ -777,7 +825,7 @@
       "id": "fa75f8d4bffd",
       "title": "World Immunization Week 2026 - World Health Organization (WHO)",
       "published": "2026-04-15T12:41:05+00:00",
-      "summary": "World Immunization Week 2026&nbsp;&nbsp;World Health Organization (WHO)Workshop marking European Immunization Week in Armenia&nbsp;&nbsp;World Health Organization (WHO)Vaccines work, for every generation&nbsp;&nbsp;UnicefVACCINES FOR ALL&nbsp;&nbsp;The Manila TimesFor Every Generation, Vaccines Work&nbsp;&nbsp;News18",
+      "summary": "World Immunization Week 2026&nbsp;&nbsp;World Health Organization (WHO)Workshop marking European Immunization Week in Armenia&nbsp;&nbsp;World Health Organization (WHO)Vaccines work, for every generation&nbsp;&nbsp;UNICEFVACCINES FOR ALL&nbsp;&nbsp;The Manila TimesFor Every Generation, Vaccines Work&nbsp;&nbsp;News18",
       "sources": [
         {
           "name": "World Health Organization (WHO)",
@@ -786,14 +834,14 @@
       ]
     },
     {
-      "id": "f8392462e482",
-      "title": "Pollution, Poverty, May Age the Brain as Much as AD - Medscape",
-      "published": "2026-04-15T11:25:33+00:00",
-      "summary": "Pollution, Poverty, May Age the Brain as Much as AD&nbsp;&nbsp;MedscapeExposome-wide patterns predict brain health in aging&nbsp;&nbsp;NatureUK Study Links Location to Brain Aging Patterns&nbsp;&nbsp;Mirage NewsDemocracy is about people: Are we paying enough attention to the brain?&nbsp;&nbsp;International IDEAPhysical, Social Factors May Together Account For Up To 9 Times Higher Risk Of Faster Brain Ageing: Study&nbsp;&nbsp;NDTV",
+      "id": "826f53ad0c30",
+      "title": "Pakistan: Investigation exposes serious violations that led to HIV outbreak among children - tennews.in",
+      "published": "2026-04-15T12:02:49+00:00",
+      "summary": "Pakistan: Investigation exposes serious violations that led to HIV outbreak among children&nbsp;&nbsp;tennews.inHospital at centre of child HIV outbreak caught reusing syringes in undercover filming&nbsp;&nbsp;BBCIn unsafe hands&nbsp;&nbsp;DawnHiv Outbreak Pakistan: Probe uncovers syringe reuse at Pakistan hospital as 331 children test HIV-positive&nbsp;&nbsp;The Times of IndiaChildren, needles, and a deadly lapse: Inside Pakistan hospital linked to HIV outbreak&nbsp;&nbsp;India Today",
       "sources": [
         {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWRFcFB2VWJGcW5uVUJhUHpocERRX0c2Q2Y1dE5Dc0VjbzJVa0lvN2ZJQWJhUjl1U0JaTXBibkRyX1M2OEMyNzROeXQ5elRFZTN3ZmRnSUhiNHdWRlR0dExfa09sNHRiZnE1Z2R0bzRWYkN0VlRZWjFGaHE2dkZGWThCRklLUVFkTUc0dmZKSGwtT1dlNTdoSmpSWXBTWVVVWUtnVHMzcl8?oc=5"
+          "name": "tennews.in",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHdJR1kzRjFudlpCRW1Nb1JkdjhhdWswbmt4RTVOUmtEMFdjTEFFbTBaSFpfSThNRW53Y1BRRWpUekxBVWZNdnJYRk1wdWwyVERMVzRTS0U4OFJrOHNMWDRMUWt0ekNqTmNkajFMQlcxbzBNZmFjUzE4bUZneEhPS2plS18wYnZlT2o5eVRyRWlkSVB4cHRvMldSWnJsM1dkX0lBVWpxSWEzMm5FM2c?oc=5"
         }
       ]
     },
@@ -806,18 +854,6 @@
         {
           "name": "European Medical Journal",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTZIRnJ0Z3JrM24wOUx2S2Z1Y1lVVnA5eU1tN1UxejhjYnNvRzJaRmFRVjlnRGdUSHRBQUNlNDVuNEFyU1FhYk9GZl9Jd0NzcDJ2QlVpOUlnOGNsRk9EQy1zUFItX0hiYURRbmxBc0pQVzRkS2R3UDZfeHYteU5NMWtSNHp2aURqeG5Ick5BOGthbDE1T1hzam9pX1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "811f0869f692",
-      "title": "HIV outbreak horror: 331 children infected in Pakistan's Punjab, unsafe injection practices found at govt hospital - WION",
-      "published": "2026-04-15T11:08:00+00:00",
-      "summary": "HIV outbreak horror: 331 children infected in Pakistan's Punjab, unsafe injection practices found at govt hospital&nbsp;&nbsp;WIONHospital at centre of child HIV outbreak caught reusing syringes in undercover filming&nbsp;&nbsp;BBCIn unsafe hands&nbsp;&nbsp;DawnHiv Outbreak Pakistan: Probe uncovers syringe reuse at Pakistan hospital as 331 children test HIV-positive&nbsp;&nbsp;The Times of IndiaChildren, needles, and a deadly lapse: Inside Pakistan hospital linked to HIV outbreak&nbsp;&nbsp;Indi",
-      "sources": [
-        {
-          "name": "WION",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONmtqVEo1dHdrOWJlb2Z1OHNVN2RhRDI4NXh6YVpxSEg5bmdXSjhxQ0NjTUVWWnZiWm0xRzBvVEVTdEVZWE9iTU9XRnRUSmhoUGNzYmVZZnZHazZsLVMtVkQ2cm5pbVk4eWhRV1Y5a1VQWDFtbEVhdzlLaVVVTk96a0lBRnRLZVU1SDM0azhCRE5Od1VFX0ZvRnpja0E3eHIwT1NFeEZtV1JEQ3lPdHhfYkRVa3V6TWFHaHNDY3BqUEY4ekN4dnlyRll2TUc4bzl4cFdXeDN1cVVpTXlSak1lb1g2NDFERWcxNXBVcNIB8gFBVV95cUxOM1MwbnI0bU5pNFVBMHppSnBBbkpicE00VmgtbTlocmZpVWRXUlR3dE5iYkxVOGVyUlhmQjF2UDFETXowa3R1cTR0TkhfRVVtOElPajdMQnpIUmJ5eEJBcHZNaUZqRThMSU5RZUhhMGJManFvdEoySFJrblFwZ3VXNXdtNFNkSU9FMDh5UkpzTEVQa21JMHc2LTl2eXlzeTZDVk1GR3QtaWY5UUI2RlVyNlhDTUE5SDVyWExSNEFkbXVEMjVkY3BZejNwRXlSYWxEdllEZ0ZaSXZrMFhtVzgwZEJQd3FwbjJMMXc5U05zSHFvZw?oc=5"
         }
       ]
     },
@@ -837,11 +873,23 @@
       "id": "251aa7b10204",
       "title": "Pakistan: Mpox cases in Sindh rise to 25 after two new infections - tennews.in",
       "published": "2026-04-15T10:21:01+00:00",
-      "summary": "Pakistan: Mpox cases in Sindh rise to 25 after two new infections&nbsp;&nbsp;tennews.inMpox spread&nbsp;&nbsp;The Express TribuneMpox in Pakistan’s Sindh Linked to Newborn Deaths, Reports Say&nbsp;&nbsp;bloomberg.comMonkeypox cases rise in Lahore, two new infections confirmed&nbsp;&nbsp;samaa tv9 Die Of Monkeypox In Pakistan's Sindh As Cases Rise To 25&nbsp;&nbsp;Bernama",
+      "summary": "Pakistan: Mpox cases in Sindh rise to 25 after two new infections&nbsp;&nbsp;tennews.inView Full coverage on Google News",
       "sources": [
         {
           "name": "tennews.in",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObENzTTBNVmVNYmJERUJBMGpiWER1RGFOSjBFbmotTDcydjhJTnVkdFR4SXRUUk1RdU9BNWpiU1MxSEIwaUtuNVo1OE45NzdheFF1bm80ejJSU2FrZGtSWmhuMjZFZHdlTlJESXlfV3lQM1BGazdxOUF6S2dWRm9ZTUtPbnFzM0EwZ1JlMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11c1c8ae2031",
+      "title": "Immunotherapy in GI Cancers 2026: From Expansion to Precision - Oncodaily",
+      "published": "2026-04-15T10:10:59+00:00",
+      "summary": "Immunotherapy in GI Cancers 2026: From Expansion to Precision&nbsp;&nbsp;OncodailyHot drinks and heartburn could be raising your cancer risk&nbsp;&nbsp;Loma Linda UniversityResearchers Identify Early Marker of Most Common Oesophageal Cancer, Opening Door to Earlier Detection&nbsp;&nbsp;Bioengineer.orgEsophageal cancer treatment advances&nbsp;&nbsp;Northside HospitalEsophageal Cancer Awareness Month: Why the cancer risk rises manifold from the habits you ignore daily&nbsp;&nbsp;Moneycontrol.com",
+      "sources": [
+        {
+          "name": "Oncodaily",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrNHhvaERCa2FqSW81VFo4eEc0WG1YUUcyV09qTTN1YjdDZ1Fxa01GS2p4YUJtcktXV2sxNm85Xzd0NlhtcVlUa3Ffc2FmZzJIWWxFZlJvd2xKSUNDSjItcU5GNFc5RmRyR1gyb1Fn?oc=5"
         }
       ]
     },
@@ -882,14 +930,14 @@
       ]
     },
     {
-      "id": "6aed834885ff",
-      "title": "DNA mutations in immune cells could be driving autoimmune diseases, study suggests - Press Trust of India",
-      "published": "2026-04-15T08:01:50+00:00",
-      "summary": "DNA mutations in immune cells could be driving autoimmune diseases, study suggests&nbsp;&nbsp;Press Trust of IndiaDNA Mutations In Immune Cells May Be Driving Autoimmune Diseases, Study Finds&nbsp;&nbsp;NDTVSomatic Evolution Revealed as a Primary Driver of Autoimmune Disease&nbsp;&nbsp;Neuroscience NewsUnmasking DNA: The Hidden Drivers of Autoimmune Diseases&nbsp;&nbsp;DevdiscourseDNA Mutations In Immune Cells May Be Driving Autoimmune Diseases&nbsp;&nbsp;NDTV",
+      "id": "52b368336422",
+      "title": "Nasal Spray Could Clear Brain Fog and Improve Memory - Technology Networks",
+      "published": "2026-04-15T08:26:53+00:00",
+      "summary": "Nasal Spray Could Clear Brain Fog and Improve Memory&nbsp;&nbsp;Technology NetworksScientists Reverse Brain Ageing With Nasal Spray In Landmark Study&nbsp;&nbsp;NDTVNasal Spray Reverses Brain Aging and Inflammation&nbsp;&nbsp;Neuroscience NewsScientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesNew nasal spray shows promise fighting memory loss and brain inflammation&nbsp;&nbsp;The Indian Express",
       "sources": [
         {
-          "name": "Press Trust of India",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVGdMNWNleXd2NVNOZm5VWG5SSE8yX082TmlVRWlrZkFqVnFpMXJOQjY0Tk16VnhkUWFQdEh2bjNSMkJHNkxzTmFuMEI2RS1rcUExRC0xQWFScm9hWndSVGUwRmdORlJqakN4XzlTRUxoZzZzX0lnTXlTZjFrekxvbXF3Y3BuNkpudU50Qi1mTzBWQlpjNHhCQU1UeDZiakdWTEs5YlVvb2ZneXRsbTQ4QkNsYXNGenJwTnJFUTZNaVRpcVBWTWhR?oc=5"
+          "name": "Technology Networks",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPamhRV1hmeHpCb0tFdlIxWTJnVS1jbkgwZXNvaUZBZkFVQm1iNVJNdDNXcTZ5OFE4a2xqazZZVE5ITW9CTzVRYVZDQ3Y1bjJ6M3VJbWRuRWE3b3B0Z05VeThFMnAxMnFLODhsaHU1ZWp6QzktVkh0bzJkVzRPY3p3S0hpS1RYRjNTeUdqZmNkc3psQ0dDbGN0cGxibi1Fb3dRcGpXQnNvTXdidUJEeHc?oc=5"
         }
       ]
     },
@@ -914,102 +962,6 @@
         {
           "name": "European Medical Journal",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkh5cFR6QlpmSXUxdTBoNDZQemkweDBielZHUGcyMVlWemtJXzl0c0RTczNTODhmT1YwbUZQajN6aU05VDE4OW1xQkNLbUdGaVhmMzNZX2dSZHZHekhJY3VuWW0zdmROSHFvOERaNHkxSXc5MnlRVTg2UWtHeGVhVEl4U2lwZUZsUXJ5ZnZSeFkyWmlwUm53bTJTMkdIUzA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f04fb6de0c89",
-      "title": "Viewpoint: CRISPR and mRNA — under attack by technology skeptics — poised to save millions of children with rare diseases - Genetic Literacy Project",
-      "published": "2026-04-15T05:54:18+00:00",
-      "summary": "Viewpoint: CRISPR and mRNA — under attack by technology skeptics — poised to save millions of children with rare diseases&nbsp;&nbsp;Genetic Literacy ProjectManufacturing the Future: From N=1 Personalized CRISPR Therapy to Scalable Precision Genomic Medicine&nbsp;&nbsp;Drug Target ReviewFrom Lab to Life: The Miracle of Gene Repair&nbsp;&nbsp;The Times of IsraelOpinion | This May Be the Most Important Medical Story of the Decade&nbsp;&nbsp;The New York Times",
-      "sources": [
-        {
-          "name": "Genetic Literacy Project",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSlhmZzJwNWpBYTRnRmRTSHJLQmlkQ0VOSmFLcU15YzlaenF3RTYwYy1yM0lUSW50VHNuWGJEMl9tUTFEVzZGSEhMd0d3OFk2bzYzVkcxQ3ZmRVBBandPTG51VnpHamZxMS1oZlhWb1E0MlJuaFpraXQxUFhGUEJHWTRzcmFEMUhjM3d3cnAydHk2eU9fWDkzeThPS3RwaUtLMjRXam5QU2hINThScGYzcWtGRlBncEtIaURIV2wwM08waDZaa2pfTmNTSWMxemZINWgwRXJUN0o2MXhmNVVtakFMeTFEQmpSQnZZMWxCMlEwQzZyUXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd56194dfb48",
-      "title": "What Does it Mean to Be Well? Landmark Research Delivers Building Blocks for Good Mental Health - MiNDFOOD",
-      "published": "2026-04-15T04:52:34+00:00",
-      "summary": "What Does it Mean to Be Well? Landmark Research Delivers Building Blocks for Good Mental Health&nbsp;&nbsp;MiNDFOODStudy redefines positive mental wellbeing&nbsp;&nbsp;University of YorkWhat it means to be well: Study outlines six pillars of mental well-being&nbsp;&nbsp;Business StandardWhat does it mean to be well? Research delivers building blocks for good mental health&nbsp;&nbsp;Medical XpressExperts Finally Agree on What \"Wellbeing\" Actually Means&nbsp;&nbsp;Neuroscience News",
-      "sources": [
-        {
-          "name": "MiNDFOOD",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcGxfSmwwc0g4SkY0eVhLRkxOMGg5a1RsS24yT19nT0pGRENIeGliTjlHZENYRzNzWmV3QUQyVkhlRnJHYllkWkxHSVJCVUhWZ1lmS2duMjdhT19veUlaclhlUTY2NEJzejRLcEt1ekk0UWgzUmJLdFVsQWFMWGFGN2Y4VzhsMF9PUHRTWi0zaG5JMTc3TjExMXozeU55ZW5fOEpMSERPWTJVZlI4REE4bjBFQXQwZVZUTkl2UHNoU3Z6YU1pRWdB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d5a2bec46cdd",
-      "title": "Newer Antibiotics Not Linked to Reduced Mortality in DTR Gram-Negative Infections - Infectious Disease Advisor",
-      "published": "2026-04-15T04:00:00+00:00",
-      "summary": "Newer Antibiotics Not Linked to Reduced Mortality in DTR Gram-Negative Infections&nbsp;&nbsp;Infectious Disease Advisor",
-      "sources": [
-        {
-          "name": "Infectious Disease Advisor",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZG11cDJPU2pZOEk5UHFqRzRrQ18yLURUdDJKbmlhbDA1MFN3c3B6bWZGQnVuMDFlU1FWMHVkTUNCZmpYZXgyX056eE5lV19GZndmQU9oVkFGdWppZ2tuRE44QWI0VWFva3RSaEx6OFpRQTZUYWVlbUkxdVRnRW9LNTREQ3gwVFloeVVIeFhLeHRsV1p3b2Fv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "350a049ad44c",
-      "title": "Better Tests, Longer Lives, Higher Costs? The ApoB Dilemma - American Council on Science and Health",
-      "published": "2026-04-15T04:00:00+00:00",
-      "summary": "Better Tests, Longer Lives, Higher Costs? The ApoB Dilemma&nbsp;&nbsp;American Council on Science and HealthApoB estimation Improves ASCVD Risk Prediction, Especially in Younger Adults: JAMA&nbsp;&nbsp;Medical DialoguesHeart Disease Warning: This New Blood Test May Be More Accurate Than Cholesterol&nbsp;&nbsp;News18Your Doctor Might Be Using The Wrong Test To Track Your Cholesterol, Study Says&nbsp;&nbsp;U.S. News & World ReportAlternative Blood Test More Effective for Guiding Heart Disease Trea",
-      "sources": [
-        {
-          "name": "American Council on Science and Health",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNclNYZ3Z5U3l3SnJ1S1BJazltVmkybUQ4dDE2cTZNa2YzNHdXREZUWVUtUm9CX1V2dXl0dld1UHlGNlU1c0ZNYVZjYWlLaHhtaF93VXo1YmdnYXRmakFrWlJhbElEZHZ1WGdJMGNQVFpIRjQxMy1GVE9ZRlpIUWs2UzJlQlM1dWtJTHZSSzBXQ3RGTmxRZWdzODBR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3c0d028b87bd",
-      "title": "Food Supplementation Feasible, Well Accepted for Patients Recently Hospitalized With Heart Failure - Medical Professionals Reference",
-      "published": "2026-04-15T04:00:00+00:00",
-      "summary": "Food Supplementation Feasible, Well Accepted for Patients Recently Hospitalized With Heart Failure&nbsp;&nbsp;Medical Professionals ReferenceFood Supplementation after HF feasible but may not reduce hospitalization or ED visits: JAMA&nbsp;&nbsp;Medical Dialogues'Food-as-Medicine' Improves Life for Heart Failure Patients&nbsp;&nbsp;U.S. News & World ReportFood-As-Medicine For Heart Failure: Trial Finds Quality Of Life Gains, High Patient Acceptance&nbsp;&nbsp;Where The Food Comes FromCan “Food-as",
-      "sources": [
-        {
-          "name": "Medical Professionals Reference",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWmFUY19XZmVqUXJxWExSLU1WemNkYjhOYTh2Mk5OazhmeC1DVmgtNE05bUwxa21XM2RLS3FwRHR1LXRMQ1R2UU81dzVrWWY1bjBZWGJMSlZjSnFXRjFVZGR2N184NzBEM01mbV9nc181VWRkUkRNQkJfTlpybEx4UlZBNjR5MTJhdlFUUjNfc2VUcjVHQXlNamRvXzJyaU9GYzlPTjg2TUJJakZrbVhlLTFnLW9LUm1ZRk9tUWY5XzZZQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "50f034a0f80a",
-      "title": "Working night shifts regularly? It may be harming your fertility - The South First",
-      "published": "2026-04-15T02:00:16+00:00",
-      "summary": "Working night shifts regularly? It may be harming your fertility&nbsp;&nbsp;The South FirstWorking nights? Study flags rising diabetes, hormonal issues&nbsp;&nbsp;The Times of IndiaUA researcher studies shift workers and how disrupted sleep can harm their health&nbsp;&nbsp;KJZZNight Shift Work Impacts Type 2 Diabetes Management&nbsp;&nbsp;European Medical JournalNight shifts are silently destroying your health, even if youre young and fit, study warns&nbsp;&nbsp;Zee News",
-      "sources": [
-        {
-          "name": "The South First",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdk0yYkUtSGc4UDd5N1pSRnNXTnMxV3VDVkZ2Y2xpTDkwRExRcm0wTnRZem85QjF4RzZ1RnlLLUFtZDkzLVpIWFp6TnpQRGdjVUJUQmg2YTdJVlJBTzNZcVJMeDlFREdhQ3VPUEtLY2RpbFJ4S01XVjdDSjZRU25iOWgtLV9sa0FBRFJkOEswLVpvYnZVQ3E5UFlwTHdNdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a4cd0abc373",
-      "title": "US study links ultra-processed diets to preterm birth, sparks concern in India - Counterview",
-      "published": "2026-04-15T01:16:00+00:00",
-      "summary": "US study links ultra-processed diets to preterm birth, sparks concern in India&nbsp;&nbsp;CounterviewUltra-processed foods are linked to reduced fertility and embryonic development, finds study&nbsp;&nbsp;Medical Dialogues",
-      "sources": [
-        {
-          "name": "Counterview",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR0VZUGpHWlZRSEdVNmRaeGE5ajI3cTl6R3NiWFgxdHExdy1PRGZNNEU3RVl4QU55dmZsdWdoVkhDQzVCeWN5UXZCUlA5ZTFGMHE5QmpRMTRZTEEwd0NrZW1JSkV6ekU0THdaSkMwcWFjOWxLVVZJS1p3Xzl3bHNib0xwbmJvNU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2f58d291b9b",
-      "title": "Can taking ozempic trigger hair loss? Endocrinologist explains - Moneycontrol.com",
-      "published": "2026-04-14T13:18:46+00:00",
-      "summary": "Can taking ozempic trigger hair loss? Endocrinologist explains&nbsp;&nbsp;Moneycontrol.comWhen a Diabetes Drug Becomes a Weight-Loss Question&nbsp;&nbsp;Iredell Free News‘Ozempic personality’: Some users reporting emotional blunting on GLP-1 drugs&nbsp;&nbsp;KTLAThe Ozempic Effect: Moving the dial on diets&nbsp;&nbsp;The PostSerious side effects of taking Ozempic&nbsp;&nbsp;The Eastleigh Voice",
-      "sources": [
-        {
-          "name": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWHEwTkZwLUo4Qlp5b1JVMHZtUl9yM0FzLTd4Z1V6eDlHb3JZNTYxcmZUalNRSHowcHg4LU5qUXFCNWFZRnpMa2Z1UFhkQVhFR1ZiT3dyWGEtUmd3WVp4OUF5R3R1TFhzMmFieGN4RUc1VVhaY3lINTBsU25MVnNiN3BVV20wV3N0dmJXdkdzWloycW1zc05FVXpGbGVqX24tTllrNnVmY1F1Rmw2ZDN1bl9TZV9FajUwTGNnYmM0ZWlfUHFqZDdrbjN2b9IB0AFBVV95cUxNcWxUdUV1eUhlc1c1Q1BFWENfcWJocXMyTDB6R2FtVlVmSUZCVXJRakRzakZiUWlxSXVHZE9EMzVCVzBGeGQxeW8xU0RFdC1xdEZpdUZyZmo5MG9yOG9pTTBONjFha1BEaUk3SmFlUW9JejZWX2VkdWtDXzVUMmlucVlRaGo1cS0xOUZzNVN1ZXY5QTRlenYycV9OanltUTZyZEVidUJISFlCd2x5aElQRGJlN2tFTlFlX0NULXpwSFBNcDN2eENQVEZBNGNBQjlC?oc=5"
         }
       ]
     }
