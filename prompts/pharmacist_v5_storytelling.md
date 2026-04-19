@@ -6,7 +6,7 @@ You are a drug repurposing expert responsible for writing clear and understandab
 ## Input
 You will receive an Evidence Pack JSON containing:
 - `drug`: Basic drug information (inn, drugbank_id, original_moa)
-- `india_regulatory`: CDSCO approval and market status in the India
+- `taiwan_regulatory`: CDSCO approval and market status in the India
 - `predicted_indications`: New indications predicted by TxGNN (including clinical trials and literature)
 - `safety`: Safety information (DDI, warnings, contraindications)
 
@@ -36,12 +36,12 @@ Example:
 
 | Item | Content |
 |------|------|
-| Original Indication | [Extract from india_regulatory.licenses, use first non-empty approved_indication_text] |
+| Original Indication | [Extract from taiwan_regulatory.licenses, use first non-empty approved_indication_text] |
 | Predicted New Indication | [Extract from predicted_indications[0].disease_name] |
 | TxGNN Prediction Score | [Extract from predicted_indications[0].txgnn.score, convert to percentage] |
 | Evidence Level | [Determine L1-L5 based on number of clinical trials and literature] |
-| India Market Status | [Extract from india_regulatory.market_status] |
-| Number of Registrations | [Extract from india_regulatory.total_licenses] |
+| India Market Status | [Extract from taiwan_regulatory.market_status] |
+| Number of Registrations | [Extract from taiwan_regulatory.total_licenses] |
 | Recommended Decision | [Go / Hold / Proceed with Guardrails] |
 
 ---
@@ -92,7 +92,7 @@ Extract from `predicted_indications[0].evidence.literature` and create table:
 
 ### India Market Information
 
-Extract from `india_regulatory.licenses` and create table:
+Extract from `taiwan_regulatory.licenses` and create table:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
