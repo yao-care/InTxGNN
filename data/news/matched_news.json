@@ -1,13 +1,180 @@
 {
-  "last_updated": "2026-04-25T18:31:51.433283+00:00",
-  "total_count": 79,
-  "matched_count": 57,
+  "last_updated": "2026-04-26T01:18:48.902889+00:00",
+  "total_count": 77,
+  "matched_count": 58,
   "news": [
+    {
+      "id": "5f2168a27846",
+      "title": "A broad-spectrum Chromobacterium biolarvicide formulation disrupts mosquito development through gut damage and apoptotic cell death and compromises vector competence",
+      "published": "2026-04-25T19:56:57+00:00",
+      "summary": "A broad-spectrum Chromobacterium biolarvicide formulation disrupts mosquito development through gut damage and apoptotic cell death and compromises vector competence&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oRWJkamI2NGc4bzJIU0twVEZEWVdCUE5uOVhKVkpnLTZiUHlVMEVYSEtvZWRBZTIzVm1Jd3JIZ1NNMkZBY0lyZ0w0VTRFQS1QVzJNTFBMN1ZNVjJRU2hz?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4979",
+          "name": "asthma",
+          "keyword": "dama"
+        }
+      ]
+    },
+    {
+      "id": "e64626b8ae64",
+      "title": "Light-controlled artificial muscles: Researchers develop shape-shifting materials - Interesting Engineering",
+      "published": "2026-04-25T18:52:00+00:00",
+      "summary": "Light-controlled artificial muscles: Researchers develop shape-shifting materials&nbsp;&nbsp;Interesting EngineeringGeorgia engineers develop photosensitive artificial muscle that moves synthetic cells with just a beam of light and open a new era for biology, robotics, and future medicine.&nbsp;&nbsp;CPG Click Petróleo e GásArtificial muscles that can be controlled by light&nbsp;&nbsp;NanowerkA light-controlled 'muscle' could give synthetic cells a new way to move&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Interesting Engineering",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY2dJSGl1TEpEZmRFZXdHdVE5X2dzVk1CTGxlTzZSZVFrQlFEdGdBdklxdHhpcUw5WkJ5eVpNakRTa1Y0OVFwalJKMDQ1RzRreDhiYk0yMFdXZUJxZDN5R0FZMEdyQkZoN3FZOElKd1lRQ1V5RVhlcTJJYk9hUFVhWEpvWlpIZkRaVGw3R3VjNVBiUW1BdUFTb2NPS2U?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "086459498df9",
+      "title": "Gravitational Waves May Have Played Key Role in Dark Matter Creation, New Study Suggests",
+      "published": "2026-04-25T18:15:27+00:00",
+      "summary": "Gravitational Waves May Have Played Key Role in Dark Matter Creation, New Study Suggests&nbsp;&nbsp;SSBCrackGravitational waves may have created dark matter in the early universe&nbsp;&nbsp;Science Daily",
+      "sources": [
+        {
+          "name": "SSBCrack",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUd4dVVrenVnQ1ZiVVZUVk5SXy1fYUV0N2xlZkdfOGtneWN6RmNQRHRad0w0emllWmNsQXJ2Q0NmbXUtVTUxWFlzb0l3UWg2eEtqX0ZBNmd4U3VmNS13Zk9kdVcxUlVsM1hXNWFEUzF0VFphQmFta2pGZkpMbXBMMlJPR2dGbS1uaEg2X1E0V3RlLVB2TE5TYUJmWGxyRnQtWS1ndWJBRUJtRTNiSWQ0bGFtek4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d96b8d7b2fa9",
+      "title": "The heart's constant beating suppresses tumor growth in cardiac tissues",
+      "published": "2026-04-25T17:30:00+00:00",
+      "summary": "The heart's constant beating suppresses tumor growth in cardiac tissues&nbsp;&nbsp;News-MedicalMechanical forces from the beating heart may help prevent cancer cell growth&nbsp;&nbsp;Medical XpressConstant blood pumping could be a reason why heart cancer is rare, finds new study&nbsp;&nbsp;The New Indian ExpressHeart’s beat may help it beat cancer, mouse research suggests&nbsp;&nbsp;statnews.comWhy is heart cancer rare? New study explains possible reason&nbsp;&nbsp;Mathrubhumi English",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaGd1dlRjMHA4aXFCelJVV2pVMzhMalQtbGs1YkM2WkgyU1BaandtT2FFVzNFT0V0MHJIZ29zdndBQUl1ZWo4WUFoRXoxVVFpTEZhTVdjWGR5SVo4UkZjdnQ2WDQ4dVJuM1duTmtqR1o0UThCcEZad0xlZzZqN0RSQ1lyM0IxUHFjN293dGp4TU5sdkN0LU0wTFdsZmY4TTZtM3VNdDczaldFSEdYQ0RMNFY0ZlpqcHRPYmc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "1340",
+          "name": "heart cancer",
+          "keyword": "heart cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__heart_disease",
+          "name": "heart_disease",
+          "keyword": "cardiac"
+        }
+      ]
+    },
+    {
+      "id": "948e047f63c1",
+      "title": "MGMGH marks World Malaria Day with awareness rally in Trichy - The Times of India",
+      "published": "2026-04-25T16:53:00+00:00",
+      "summary": "MGMGH marks World Malaria Day with awareness rally in Trichy&nbsp;&nbsp;The Times of IndiaAwareness activities on prevention, control held across Jammu Division&nbsp;&nbsp;Daily ExcelsiorGlobal health agency warns Pakistan at risk of malaria resurgence despite drop in cases&nbsp;&nbsp;Arab NewsWorld Malaria Day 2026, Theme, Activities, Statistics, Status&nbsp;&nbsp;Vajiram & RaviMalaria-free world no longer a dream as fight unites nations&nbsp;&nbsp;news.cgtn.com",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmVpVElnMzZMNjZqTWgzYkFzMkNRNkg4Ti1haE9XelhXM210Nkh6UnEtSVRIOUhSYmtGRjFHYjdiNXltWHZsUkV5bWRBQzc5UkdFUk1HQmprbHJnNHVHWUdJZnpJaVVValh4OTdzSFNDUDN6WFAxNUttYkswOFFNSlpTbDRnQ1NwRTJtRjFTYTVhc1hpVlRXSFZRQzFncEstQmN6WmdmenZuVU1lLURYNVhlUEkxN2h1dFdQa2VXRm1uZFFlU19YX3Z1TmxfSmPSAdQBQVVfeXFMTUt5dEtOVjY4dERucXZTaVZrUlo1NGVDbWg3MGZld3RLV1RkY205WHI3VVBENDNsTlZMeGNpZkNIa05oaGVRMzlPQWNxcjZRRU9xcHB0TUJYTzhSLUZwaW9MNUVFU0ZJdTR4dmhnYkdNcXFUU3pCNDY3QVNQd3dPY2tOeXJGUzFBSmNlaWliMjJuS2pmRVAtX1BGVERnallac25TcGFxcjQ1ZjF5b3FsbGxVWlJ5NllwQVcxZDV4OTlyY1JyV05NMm43Q0FLc25BV2VBUE0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "5136",
+          "name": "malaria",
+          "keyword": "malaria"
+        }
+      ]
+    },
+    {
+      "id": "5fb732dd404b",
+      "title": "Doctors Surprised by the Power of a Simple Drug Against Colon Cancer",
+      "published": "2026-04-25T16:30:20+00:00",
+      "summary": "Doctors Surprised by the Power of a Simple Drug Against Colon Cancer&nbsp;&nbsp;SciTechDailyAspirin can reduce the risk of cancer - and we're starting to understand why&nbsp;&nbsp;BBCCommon painkiller linked to major cancer prevention breakthrough&nbsp;&nbsp;Dagens.comThis Common Pill in Your Medicine Cabinet Could Help Stop Cancer From Spreading&nbsp;&nbsp;inc.comAspirin Doesn't Prevent Colorectal Cancer, Review Says. Here's What Helps Instead&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0NRdUZ5dHVsTkFJcEpVNWxvMTBQZnNUaUJFQ3dVemM5R2pNOWpRTkNhblpFTi0zVnRsLXVpTHFVdDdGZE84YUMxczlIMVBTeDBUTjhsQXN3dW5jNWhtNDF5dHRtNXZPeDBrWGFoZDdDcXNwb2s5MVRoYkxGMTFtbUpEVDRrNG1tUXpScS1EWVBkVGFDV1B2M3pR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5575",
+          "name": "colorectal cancer",
+          "keyword": "colorectal cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "6519",
+          "name": "rectal cancer",
+          "keyword": "rectal cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
     {
       "id": "8571e83479ee",
       "title": "5 subtle signs you have a vitamin D deficiency - The Indian Express",
       "published": "2026-04-25T15:30:05+00:00",
-      "summary": "5 subtle signs you have a vitamin D deficiency&nbsp;&nbsp;The Indian ExpressAre you taking too much vitamin D? Warning signs to watch for&nbsp;&nbsp;MSNVitamin D benefits vs risks: Experts warn on overuse&nbsp;&nbsp;samaa tvHEALTHWISE: Sun and supplements key to your D3 intake&nbsp;&nbsp;Belfast Media GroupFeeling Fatigued or Weak? You Might Not Be Getting Enough Vitamin D&nbsp;&nbsp;Flow Space",
+      "summary": "5 subtle signs you have a vitamin D deficiency&nbsp;&nbsp;The Indian ExpressAre you taking too much vitamin D? Warning signs to watch for&nbsp;&nbsp;MSNVitamin D benefits vs risks: Experts warn on overuse&nbsp;&nbsp;Samaa TVHEALTHWISE: Sun and supplements key to your D3 intake&nbsp;&nbsp;Belfast Media GroupFeeling Fatigued or Weak? You Might Not Be Getting Enough Vitamin D&nbsp;&nbsp;Flow Space",
       "sources": [
         {
           "name": "The Indian Express",
@@ -53,7 +220,7 @@
       "id": "a2784584cd7d",
       "title": "Diabetes type 2, weight loss treatment can be done under single procedure? Research reveals big health upd - The Economic Times",
       "published": "2026-04-25T12:50:35+00:00",
-      "summary": "Diabetes type 2, weight loss treatment can be done under single procedure? Research reveals big health upd&nbsp;&nbsp;The Economic TimesExperts: GLP-1 drugs like Ozempic can aid weight loss, but lifestyle changes are key&nbsp;&nbsp;KVIIDuodenal Mucosal Resurfacing May Prevent Weight Regain Following GLP-1 Withdrawal&nbsp;&nbsp;Docwire NewsFearing fat jab rebound? Simple gut procedure helps patients retain 80% weight loss with zero recovery time&nbsp;&nbsp;The SunSimple ‘metabolic reset’ found to",
+      "summary": "Diabetes type 2, weight loss treatment can be done under single procedure? Research reveals big health upd&nbsp;&nbsp;The Economic TimesDMR Slows Post-Tirzepatide Weight Regain&nbsp;&nbsp;MedscapeProcedure to treat type 2 diabetes helps keep off weight after patients stop GLP-1 drugs&nbsp;&nbsp;ReutersNew Book Highlights Aftercare Gap Following GLP-1 Treatment Pathways&nbsp;&nbsp;The National Law ReviewExperts: GLP-1 drugs like Ozempic can aid weight loss, but lifestyle changes are key&nbsp;&nbs",
       "sources": [
         {
           "name": "The Economic Times",
@@ -61,6 +228,18 @@
         }
       ],
       "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB15171",
+          "keyword": "tirzepatide",
+          "name": "Tirzepatide"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5148",
+          "name": "type 2 diabetes mellitus",
+          "keyword": "type 2 diabetes"
+        },
         {
           "type": "indication",
           "disease_id": "generic_diabetes",
@@ -73,7 +252,7 @@
       "id": "a23164f185a4",
       "title": "Alcohol use is driving more cancer in Australia than previously thought - The Times of India",
       "published": "2026-04-25T12:36:00+00:00",
-      "summary": "Alcohol use is driving more cancer in Australia than previously thought&nbsp;&nbsp;The Times of IndiaAlcohol causes more cancers in Australia than previously thought&nbsp;&nbsp;Medical XpressStudy links even moderate alcohol consumption to higher cancer risk&nbsp;&nbsp;DaijiworldStudy links alcohol to higher cancer burden in Australia&nbsp;&nbsp;Peoples Gazette Nigeria",
+      "summary": "Alcohol use is driving more cancer in Australia than previously thought&nbsp;&nbsp;The Times of IndiaAlcohol causes more cancers in Australia than previously thought&nbsp;&nbsp;Medical XpressStudy links even moderate alcohol consumption to higher cancer risk&nbsp;&nbsp;Daijiworld",
       "sources": [
         {
           "name": "The Times of India",
@@ -105,7 +284,7 @@
       "id": "b5d203636e43",
       "title": "You may not drink alcohol, but is your liver still healthy? Hepatologist shares warning signs you could be ignoring | Health - Hindustan Times",
       "published": "2026-04-25T12:20:08+00:00",
-      "summary": "You may not drink alcohol, but is your liver still healthy? Hepatologist shares warning signs you could be ignoring | Health&nbsp;&nbsp;Hindustan TimesLiver Damage In Your 20s? Experts Link It To Frequent Energy Drink Consumption&nbsp;&nbsp;NDTVBest exercises for liver health, according to expert: How walking, strength training, and HIIT can reduce fatty liver&nbsp;&nbsp;The Times of IndiaHow rising liver disease cases are pushing up insurance claims and coverage needs&nbsp;&nbsp;CNBC TV18Nearly",
+      "summary": "You may not drink alcohol, but is your liver still healthy? Hepatologist shares warning signs you could be ignoring | Health&nbsp;&nbsp;Hindustan TimesBest exercises for liver health, according to expert: How walking, strength training, and HIIT can reduce fatty liver&nbsp;&nbsp;The Times of IndiaHow rising liver disease cases are pushing up insurance claims and coverage needs&nbsp;&nbsp;CNBC TV18Nearly one in four adults may have fatty liver disease: Data&nbsp;&nbsp;The TribuneLiver disease oft",
       "sources": [
         {
           "name": "Hindustan Times",
@@ -118,6 +297,12 @@
           "disease_id": "5154",
           "name": "liver disease",
           "keyword": "liver disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "43693_13209_4790_21104",
+          "name": "fatty liver disease",
+          "keyword": "fatty liver disease"
         }
       ]
     },
@@ -287,71 +472,6 @@
       ]
     },
     {
-      "id": "e32d3aec4e0d",
-      "title": "World Malaria Day 2026 Highlights Malaria-Free Countries Recognised by WHO - The CSR Journal",
-      "published": "2026-04-25T11:22:18+00:00",
-      "summary": "World Malaria Day 2026 Highlights Malaria-Free Countries Recognised by WHO&nbsp;&nbsp;The CSR JournalMGMGH marks World Malaria Day with awareness rally in Trichy | Trichy News&nbsp;&nbsp;The Times of IndiaWorld Malaria Day 2026: Full list of malaria-free countries by WHO&nbsp;&nbsp;India TodayMalaria-free world no longer a dream as fight unites nations&nbsp;&nbsp;news.cgtn.comWorld Malaria Day 2026, Theme, Activities, Statistics, Status&nbsp;&nbsp;Vajiram & Ravi",
-      "sources": [
-        {
-          "name": "The CSR Journal",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTmNPbHZSTTljRkg5WFc1WHgzSUNBck9oV1dSaHJTeG9GeFJjdjdCV2stUjFvQzF3OWJqRU82cGx3R0FFNGpLbFYzcGZXQmdRQXp2T2x0UEZ6LV9GR21wRU54cHRtdWRRS0lQX0J6ZXM3cXhWVzhPcWwxbi1nNEpaV1ZxY0ZqNnA3b2JkTEFkeUhMcUpRZVotUE4tSWtIMld3cWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "5136",
-          "name": "malaria",
-          "keyword": "malaria"
-        }
-      ]
-    },
-    {
-      "id": "93867d5d671a",
-      "title": "WHO’s Big Catch-Up delivers over 100 million childhood vaccinations - Manorama Yearbook",
-      "published": "2026-04-25T11:00:37+00:00",
-      "summary": "WHO’s Big Catch-Up delivers over 100 million childhood vaccinations&nbsp;&nbsp;Manorama YearbookChild vaccine catch-up drive on course to hit target: UN&nbsp;&nbsp;The HinduThe Big Catch-Up Initiative Delivers 100 Million Childhood Vaccines Globally, WHO Confirms&nbsp;&nbsp;NDTVWHO global alliance delivers 100 million childhood vaccine doses since 2023&nbsp;&nbsp;ET HealthWorldPakistan gains from global ‘Big Catch-Up’ vaccination drive&nbsp;&nbsp;Dawn",
-      "sources": [
-        {
-          "name": "Manorama Yearbook",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOFVJNGJMMjZXTDJSQnV2LUhJRGdUWUJSbVEtWGVaOGp0aUFQdEpNVHhVYlF3dEJkSkEzZ2syY3Z0RXN4a0EtN3QyeXZtTUFLamxWRHNibFhkQU1rQWhXNTZtR2xwODQxMVpEUW1wNF9pODQ0VGx4bFdUZnpOTVgyVkUteXVhc1ZrRExaTDktQ1AzRzlOU2Y4M2xHV0RCUi1v?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "896a9baba568",
-      "title": "Malaria vaccines are working. We cannot afford to lose momentum. - Gavi, the Vaccine Alliance",
-      "published": "2026-04-25T10:49:54+00:00",
-      "summary": "Malaria vaccines are working. We cannot afford to lose momentum.&nbsp;&nbsp;Gavi, the Vaccine AllianceHow Vaccinations Play A Crucial Role In Malaria Prevention&nbsp;&nbsp;NDTVTrends in Growth, Market Segmentation, and Competitive Approaches Influencing the Malaria Vaccines Market&nbsp;&nbsp;openPR.comTwo years after the introduction of the malaria vaccine, Burkina Faso celebrates its impact&nbsp;&nbsp;Gavi, the Vaccine AllianceThe Promise of New Vaccines in the Fight Against Malaria&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "Gavi, the Vaccine Alliance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGdoZlRqT0FxdFhlVVFnU2JVLXhHd01HWmZWRF9aQ29tX3dkYXFSU3Fsc2NuMktVRjdVOWhRUzFCZkFDN0pOWEU0ZENpTzMzVGxGdkd1MHROYThpR3VTbm0ybHdFM2JzZUpjVElOcjhuU1J3Mm9INEpoOEJ6bGVUbGRYU3BMYVJPbzIwTmlqVnhWdDNDTjFtTw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5136",
-          "name": "malaria",
-          "keyword": "malaria"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5812",
-          "name": "influenza",
-          "keyword": "flu"
-        }
-      ]
-    },
-    {
       "id": "5c361c60f376",
       "title": "Study Links Fructose With Metabolic Diseases: Why This Popular Sweetener Is Raising Concerns - Health and Me",
       "published": "2026-04-25T10:30:00+00:00",
@@ -394,7 +514,7 @@
       "id": "6b2d360e46c2",
       "title": "WHO approves first malaria treatment for infants - The Hindu",
       "published": "2026-04-25T09:24:44+00:00",
-      "summary": "WHO approves first malaria treatment for infants&nbsp;&nbsp;The HinduView Full coverage on Google News",
+      "summary": "WHO approves first malaria treatment for infants&nbsp;&nbsp;The HinduWHO prequalifies first-ever malaria treatment for newborns and infants, adds new diagnostic tests&nbsp;&nbsp;World Health Organization (WHO)WHO Approves First Malaria Drug for Newborns&nbsp;&nbsp;GK TodayNovartis (NVS) Achieves WHO Prequalification for Coartem Baby&nbsp;&nbsp;GuruFocusNovartis malaria treatment Coartem Baby receives WHO prequalification&nbsp;&nbsp;The Pharma Letter",
       "sources": [
         {
           "name": "The Hindu",
@@ -402,6 +522,38 @@
         }
       ],
       "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03384",
+          "keyword": "fica",
+          "name": "Fica"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5136",
+          "name": "malaria",
+          "keyword": "malaria"
+        }
+      ]
+    },
+    {
+      "id": "7c84a5cd8e10",
+      "title": "World Malaria Day 2026: Prevention And Treatment Of Malaria During Pregnancy",
+      "published": "2026-04-25T09:04:01+00:00",
+      "summary": "World Malaria Day 2026: Prevention And Treatment Of Malaria During Pregnancy&nbsp;&nbsp;NDTVIndia has cut malaria cases sharply but not fully eliminated it. Where do the gaps remain?&nbsp;&nbsp;The Times of IndiaDoctor explains: When a fever is not 'just viral' and how to spot malaria early&nbsp;&nbsp;FirstpostHealth officials urge public to stay alert against mosquito-borne diseases&nbsp;&nbsp;The TribuneDoctors Warn of Malaria Risks in Pregnancy&nbsp;&nbsp;Deccan Chronicle",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNElRb2RzdmtqSGNyeTh1cG95dGdjQV9XYVpKVjJtWkZseFJRYVdudV9Ocmw2dThkNnVkVE5ObkVJZHZEYlFhQ25XY0NxdFFTLTRSMjAwNlE1WkltbThkSXRWeXlJRndlYU5SaWNHWFB2SFNqcGxBVE1SVWhrdTFJT2NpWVQzRFhvbHc2QTJld0FxNmF2bURDbHZWcmg5SnhOSUdJdlFSc19JYzFzTFVtUzRB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
         {
           "type": "indication",
           "disease_id": "5136",
@@ -500,30 +652,10 @@
       "matched_keywords": []
     },
     {
-      "id": "9684a17724bd",
-      "title": "Aster Whitefield Hospital Launches Karnataka's First Dedicated Liver ICU, Strengthening Advanced Critical Care in the Region - ANI News",
-      "published": "2026-04-25T08:45:00+00:00",
-      "summary": "Aster Whitefield Hospital Launches Karnataka's First Dedicated Liver ICU, Strengthening Advanced Critical Care in the Region&nbsp;&nbsp;ANI NewsAster Whitefield Hospital Launches Karnataka’s First Dedicated Liver ICU, Strengthening Advanced Critical Care in the Region&nbsp;&nbsp;ThePrintAster CMI Hospital launches PEARL&nbsp;&nbsp;expresshealthcare.inAster Whitefield Hospital launches Karnataka’s first dedicated Liver ICU&nbsp;&nbsp;BioSpectrum IndiaAster CMI Hospital Launches ‘PEARL’: Karnataka",
-      "sources": [
-        {
-          "name": "ANI News",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMjNyYXE4X0RmOHd5TTBpaHdYSC1nTkkzTENmNG12bFhXQTBLX3ZVMHFDZTJlQktnbFJyNFdpTHVOT2g0NmFDakREQ19NYnJxRFZBZ3ZCWkpRa0U3WUtVT2NWdElraGJyZzNIU2Fuei1KYmpvWC1aREVvWGlwN3NSUVJCcEthUHVoRE1yX2EtcWRsdnBET01XUXdnd2p3LXpaM0UtcnNtZERQVkNjN09scjlQRzNPeFZxNHJxLW5BRW0wVlk4ckczVnR5Y09SOWUteWhhRzdMYUdEZWV0WlMzTUFUZHBXMnA4Ry1kRFhOS3NvSWpJcjFCcTVuVUQwRUhXTEVHTw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "6652_3678_1090_3672_3673_3676_3677_3679_6803",
-          "name": "myocardial infarction",
-          "keyword": "MI"
-        }
-      ]
-    },
-    {
       "id": "a7e95c929a30",
       "title": "World Health Organization Flags High Measles Outbreak Risk in Bangladesh - News On AIR",
       "published": "2026-04-25T08:35:51+00:00",
-      "summary": "World Health Organization Flags High Measles Outbreak Risk in Bangladesh&nbsp;&nbsp;News On AIRBangladesh measles crisis deepens as child deaths reach 194&nbsp;&nbsp;ET HealthWorldAt least 30 confirmed dead in Bangladesh measles outbreak, most victims under two years: WHO&nbsp;&nbsp;Telegraph IndiaMeasles Outbreak Inter-cluster Coordination Group SitRep #2 - 23 April 2026&nbsp;&nbsp;ReliefWebSeven more deaths reported from measles and measles-like symptoms&nbsp;&nbsp;Dhaka Tribune",
+      "summary": "World Health Organization Flags High Measles Outbreak Risk in Bangladesh&nbsp;&nbsp;News On AIRBangladesh measles crisis deepens as child deaths reach 194&nbsp;&nbsp;ET HealthWorldAt least 30 confirmed dead in Bangladesh measles outbreak, most victims under two years: WHO&nbsp;&nbsp;Telegraph IndiaBangladesh measles toll rises to 240 as 7 more children die&nbsp;&nbsp;Anadolu AjansıSeven more deaths reported from measles and measles-like symptoms&nbsp;&nbsp;Dhaka Tribune",
       "sources": [
         {
           "name": "News On AIR",
@@ -542,6 +674,26 @@
           "disease_id": "4619",
           "name": "measles",
           "keyword": "measles"
+        }
+      ]
+    },
+    {
+      "id": "36cc4bf58f04",
+      "title": "Aster Whitefield Hospital Launches Karnataka’s First Dedicated Liver ICU, Strengthening Advanced Critical Care in the Region",
+      "published": "2026-04-25T08:30:03+00:00",
+      "summary": "Aster Whitefield Hospital Launches Karnataka’s First Dedicated Liver ICU, Strengthening Advanced Critical Care in the Region&nbsp;&nbsp;ThePrintAster CMI Hospital launches PEARL&nbsp;&nbsp;expresshealthcare.inAster Whitefield Hospital launches Karnataka’s first dedicated Liver ICU&nbsp;&nbsp;BioSpectrum IndiaAster CMI Hospital Launches ‘PEARL’: Karnataka’s First Pediatric Emergency and Advanced Response Liver Care for children&nbsp;&nbsp;IndiaMedTodayAster CMI Hospital Launches Karnataka’s First",
+      "sources": [
+        {
+          "name": "ThePrint",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPN2J5Q0s0SE1VdXRDVnpaNjBnNjZXdGdsdExVYmVZWXNMLVI3RjJNbko0Q1VaMFlTTndOajVEN21HSFN1ZDh6a1d2Nkl0RHFHSjQzU2tESUdwcFNXZjM0MEI4Z2ZzUy1zNWsxdXROVGNuMHppWVB2R2ZRcEdkc3A1OV84a21rUHVSaVRRZHI5bWkxQTVjNjdIa0FBWlRwR1pNNmxhdl9abWNzWmNCZUNxSkwyQ3U4N0tzcThhUS1NNlFGb0ZfV1cyZTA2YVFJNDhaN2hjNDBKN1ZKWGJuZ2RpdUdQcEFUMERUT3pkZHplMFNkcVV4UFBBZlRIdmZLV2fSAYQCQVVfeXFMTWRBY01NQVJHVDJrVmZNaWFaVmhWWjdvdmJ3UzVHQ0gzblQ5OHBjYWtwS2V0RmFNUmFWbHlZaDM2X19fQXlocFRWQzBFVG9NMm9lZVFyY002N1VBTmpfUmhjd0MwcVF6aXp1elFlUEttaE9nVWhkQVJKbFQ3YjhDdTZqQkJCQzJ0U25pa25adEFBQ2Rqdk00cER2WVNNVlZBb2JlT2ZXNWNjZXI2U2tRbnVUZ0s0OThUdGQtc21fV0ZfSWhRal9QZVpfeFVTaHFsRmlsTDVlSC1YZ2VXd2xBaFdiX0FYMTlIT3YyUWhNcDdHNXR0MDZ0cFAyVjlWcFBwektOcEI?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "6652_3678_1090_3672_3673_3676_3677_3679_6803",
+          "name": "myocardial infarction",
+          "keyword": "MI"
         }
       ]
     },
@@ -569,21 +721,14 @@
       "id": "409f3d3523a5",
       "title": "Baikonur prepares to launch Progress MS-34 cargo spacecraft on Sunday",
       "published": "2026-04-25T07:16:49+00:00",
-      "summary": "Baikonur prepares to launch Progress MS-34 cargo spacecraft on Sunday&nbsp;&nbsp;QazinformCargo Mission Launching Saturday as Crew Wraps Week with Research&nbsp;&nbsp;NASA (.gov)Watch Russia launch 3 tons of cargo to the International Space Station today&nbsp;&nbsp;SpaceISS astronauts complete busy research week ahead of Saturday launch of Roscosmos’ Progress 95&nbsp;&nbsp;starlust.orgRoscosmos’ Progress 93 Cargo Spacecraft Makes Historic Departure from ISS&nbsp;&nbsp;The Daily Galaxy",
+      "summary": "Baikonur prepares to launch Progress MS-34 cargo spacecraft on Sunday&nbsp;&nbsp;QazinformCargo Mission Launching Saturday as Crew Wraps Week with Research&nbsp;&nbsp;NASA (.gov)Russia launches 3 tons of cargo to the International Space Station from Kazakhstan&nbsp;&nbsp;SpaceNASA to Cover Progress 95 Spacecraft Launch, Docking&nbsp;&nbsp;NASA (.gov)Soyuz-2.1a Rocket Delivers 2.5 Tonnes Of Supplies To ISS&nbsp;&nbsp;UrduPoint",
       "sources": [
         {
           "name": "Qazinform",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVRLdWVGWmREbGtySlVveVFjdjNEdzJGMllMeHpfLVFHTDJ1S3dUeExscjVrcmFjRVdSNTdCREM5RmpuenFpZlRXMWZqR1J5RUpxc0ZycTNOTTI4WF9tNlZodWtXeHZuV0UwYk5ua19uaFRUajNWeEt0UVZrenNrb09ZaFZybVJKMmtVSmR1bXJvTkRTTUtJYjhZazltclRyOTVJbVZn0gGmAUFVX3lxTE9QbEc0bEdQV1ZkUkZPaG9GX0VFaTdDRGtfckdlYy1Pc3dTSC04OTZvN1l0S05UQ29IMVdpRklJQ1Flb2dwQy11cHg4UzYtbjZicDlMNk5xakRRZEpXNUEtaUpkeTZrMGR1aFN4dVBYQTVObjBqVmxUVm50TGFnOEVaYll5R0c2MUlRbWZIbXRkQ2t5eV9TeEJLUUpvX0JsZGNPUHQzeHc?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "e887e27bf09c",
@@ -599,10 +744,42 @@
       "matched_keywords": []
     },
     {
+      "id": "2f3bc75011ec",
+      "title": "Africa: 'We Are at a Critical Point in the Fight Against Malaria' #WorldMalariaDay",
+      "published": "2026-04-25T07:03:06+00:00",
+      "summary": "Africa: 'We Are at a Critical Point in the Fight Against Malaria' #WorldMalariaDay&nbsp;&nbsp;allAfrica.comHow Vaccinations Play A Crucial Role In Malaria Prevention&nbsp;&nbsp;NDTVTrends in Growth, Market Segmentation, and Competitive Approaches Influencing the Malaria Vaccines Market&nbsp;&nbsp;openPR.comTwo years after the introduction of the malaria vaccine, Burkina Faso celebrates its impact&nbsp;&nbsp;Gavi, the Vaccine AllianceMalaria vaccines are working. We cannot afford to lose momentum",
+      "sources": [
+        {
+          "name": "allAfrica.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQRnhyczU5ZFBvSENiTWhyd1lpX2lNZmp6Wlk4OWZKcGwwZmlleVVEWW0weVBEUTA3b093WHIzWFBULTlXUmdfWnlfRkRMSWFnUHNRMnlTSFJvbmM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5136",
+          "name": "malaria",
+          "keyword": "malaria"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5812",
+          "name": "influenza",
+          "keyword": "flu"
+        }
+      ]
+    },
+    {
       "id": "52ae0584b216",
       "title": "East Africa Rift Study Suggests Continent Slowly Splitting—and May Explain Fossil Richness - DNE Africa",
       "published": "2026-04-25T06:55:03+00:00",
-      "summary": "East Africa Rift Study Suggests Continent Slowly Splitting—and May Explain Fossil Richness&nbsp;&nbsp;DNE AfricaNecking of the active Turkana Rift Zone and the priming of eastern Africa for continental breakup&nbsp;&nbsp;NatureA huge tectonic boundary shook the ground where dinosaurs once stood&nbsp;&nbsp;Phys.orgScientists just discovered Africa is closer to breaking apart than we thought&nbsp;&nbsp;Science DailyThe Maasai people live, farm, and raise cattle on the largest geological scar on Ea",
+      "summary": "East Africa Rift Study Suggests Continent Slowly Splitting—and May Explain Fossil Richness&nbsp;&nbsp;DNE AfricaScientists just discovered Africa is closer to breaking apart than we thought&nbsp;&nbsp;Science DailyNecking of the active Turkana Rift Zone and the priming of eastern Africa for continental breakup&nbsp;&nbsp;NatureA huge tectonic boundary shook the ground where dinosaurs once stood&nbsp;&nbsp;Phys.orgThe Maasai people live, farm, and raise cattle on the largest geological scar on Ea",
       "sources": [
         {
           "name": "DNE Africa",
@@ -694,7 +871,7 @@
       "id": "088766aa5c56",
       "title": "Mother saves son from paralysis after he collapses from overexercising at gym",
       "published": "2026-04-25T06:22:21+00:00",
-      "summary": "Mother saves son from paralysis after he collapses from overexercising at gym&nbsp;&nbsp;Moneycontrol.comNagpur Man Collapses After Gym Session, Mother's Alertness Saves Him From Paralysis&nbsp;&nbsp;NDTVNagpur man, 23, collapsed after gym session: His mother's alertness saved his life&nbsp;&nbsp;The Times of IndiaHeavy lifting trigger: 23-year-old pharmacy student survives massive stroke post-workout; saved by nurse mother&nbsp;&nbsp;Kerala KaumudiYoung Man Paralysed After Extreme Gym Routine T",
+      "summary": "Mother saves son from paralysis after he collapses from overexercising at gym&nbsp;&nbsp;Moneycontrol.com23-Year-Old Gets A Paralysis Attack Due To Over-Gymming: Doctors Explain Why This Happens, Shares Prevention Tips&nbsp;&nbsp;NDTVNagpur man, 23, collapsed after gym session: His mother's alertness saved his life&nbsp;&nbsp;The Times of IndiaHeavy lifting trigger: 23-year-old pharmacy student survives massive stroke post-workout; saved by nurse mother&nbsp;&nbsp;Kerala KaumudiNagpur man paraly",
       "sources": [
         {
           "name": "Moneycontrol.com",
@@ -721,6 +898,19 @@
           "keyword": "paralysis"
         }
       ]
+    },
+    {
+      "id": "777bcc8cd9f0",
+      "title": "Love late-night ice cream? It might be hurting your digestive health, shows study - Northeast Herald",
+      "published": "2026-04-25T06:00:00+00:00",
+      "summary": "Love late-night ice cream? It might be hurting your digestive health, shows study&nbsp;&nbsp;Northeast HeraldIs late-night snacking always bad? New study reveals surprising tips for better gut health, digestion&nbsp;&nbsp;The Times of IndiaLate-Night Snacking Harms Gut Health, Finds Study&nbsp;&nbsp;NDTVThe one-two punch of stress and nighttime eating may lead to toilet trouble&nbsp;&nbsp;Medical XpressLate-Night Eating Combined With Stress ‘Double-Hit’ on Gut&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Northeast Herald",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYk1VS0c1dGw4MmVfbW5FZUFQUmU0Z21tdnZ1WWJUSTZwdWFQUENIZHBQSXJLLXBlOWUzR2tyb2t5OUk2RFJweG1aaXVKSERPZVVibk9zVXc3REZYMHJJNVY0YmlKYU9oMTI0Tm5kSllGcndKZURtWjBvOV81cnhhTEs2TWpsSGRNMlpGWVFYRlIwWGhhSG9oTGhOQkN1cVpLa0U3c29sUHY3a3M?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "7bca59a72643",
@@ -755,10 +945,36 @@
       ]
     },
     {
+      "id": "a74a9df5d59a",
+      "title": "Diphtheria Outbreak In Australia: Rare Disease Resurfaces After 50 Years, Raises Global Concern; Everything - Free Press Journal",
+      "published": "2026-04-25T05:56:44+00:00",
+      "summary": "Diphtheria Outbreak In Australia: Rare Disease Resurfaces After 50 Years, Raises Global Concern; Everything&nbsp;&nbsp;Free Press JournalA forgotten disease returns: Why Diphtheria is resurfacing in 2026 and what you need to know about the new indigenous Td vaccine&nbsp;&nbsp;The Indian ExpressDiphtheria Outbreak In Australia, First In Almost 50 Years: Symptoms, Prevention And Treatment&nbsp;&nbsp;NDTVBefore vaccines, diphtheria used to kill hundreds each year. Now it’s back in Australia&nbsp;&n",
+      "sources": [
+        {
+          "name": "Free Press Journal",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMzZGbUs3Ul9ER0RGTl9ya1p5ekNvYnRmd1V3a2JpR1d1dlpteDJCQVFEbG5kcmIzc3I2QlJUcktaU3ZLbGZTa1g1bC1Ecy1JMlY4eUFaNTdQc203cTgwcWE4cXRmaGxqcW1tR2wycXZhQVNwVGJpNk0tMEtRbV9ObXRZSXdEcWI4Unl5VHl6dE85THl2aE9zU1BtTzlzc0RwMmxnajdFc2hlbmFIdGo4VU1jb2xyY1h4b3hrRVAxdl9McFdOT1dOUU5vdEJpeldYTlUxTldUeW9qOU5PbS1UUGp5a2NoZV9QR0F3QUpFZ3pOUVBB0gH6AUFVX3lxTFA3RVVKSVZuWE5MTFY4RjVsbjZqa1cxSjJnSVlqR3JJd0N0cHlNb0RSSzdmWC1DZVYyekxwNzdGaGhpZFZLeUhaVlNwQXBSaWtnV0hMUmNHbVhPQXlsbWJQQkV6dmNZd0tySGMweUNDeE1qLWxPNjZvdlpWTFBFdF8zWkF4XzVfUWRtVnRyaG1FeF9SSTR5bTlRSXdPZXZKakNaN2RMU1RLNlJpNnJvWEktWUoxMkJ3ZUMyWkY2OHdoWVUzQ3pMMnVENVZ1UzJScFhyelBCTnVzRkxFR25OaVN4N20teHZzZEkycDNQWUIxNlBzMGpLa0pyeFE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5504_1479",
+          "name": "diphtheria",
+          "keyword": "diphtheria"
+        }
+      ]
+    },
+    {
       "id": "0785ddd54d3a",
       "title": "In Graphics: What is a healthy cholesterol level? New medical rules you should know",
       "published": "2026-04-25T05:10:40+00:00",
-      "summary": "In Graphics: What is a healthy cholesterol level? New medical rules you should know&nbsp;&nbsp;FirstpostWhen Should You Start Monitoring Your Cholestrol? It Might Be Sooner Than You Think | Health and Fitness News&nbsp;&nbsp;News18Starting Sooner, Targeting Lower: How Updated ACC/AHA Guidelines Redefine Lipid-Lowering Strategy&nbsp;&nbsp;The American Journal of Managed Care® (AJMC®)New cholesterol guidelines recommend Lp(a) blood test&nbsp;&nbsp;Harvard HealthMissouri residents urged to act earl",
+      "summary": "In Graphics: What is a healthy cholesterol level? New medical rules you should know&nbsp;&nbsp;FirstpostWhen Should You Start Monitoring Your Cholestrol? It Might Be Sooner Than You Think | Health and Fitness News&nbsp;&nbsp;News18Starting Sooner, Targeting Lower: How Updated ACC/AHA Guidelines Redefine Lipid-Lowering Strategy&nbsp;&nbsp;AJMCNew cholesterol guidelines recommend Lp(a) blood test&nbsp;&nbsp;Harvard HealthMissouri residents urged to act early under new cholesterol guidance&nbsp;&nb",
       "sources": [
         {
           "name": "Firstpost",
@@ -784,7 +1000,7 @@
       "id": "3c255be81278",
       "title": "Plastic particles may trigger liver disease risk: Researchers - The Sentinel - of this Land, for its People",
       "published": "2026-04-25T04:31:24+00:00",
-      "summary": "Plastic particles may trigger liver disease risk: Researchers&nbsp;&nbsp;The Sentinel - of this Land, for its PeopleExplore new music by tuning into The Guide`s playlist from this week&nbsp;&nbsp;Mid-dayMicroplastics have been found to interact with the gut microbiome – here’s what health effects they might have&nbsp;&nbsp;The ConversationThe Microplastic Problem&nbsp;&nbsp;Madras CourierPlastic in focus: Multiple studies confirm health harm from food packaging&nbsp;&nbsp;Nutrition Insight",
+      "summary": "Plastic particles may trigger liver disease risk: Researchers&nbsp;&nbsp;The Sentinel - of this Land, for its PeopleExplore new music by tuning into The Guide`s playlist from this week&nbsp;&nbsp;Mid-dayMicroplastics in human liver could be fueling global surge in disease&nbsp;&nbsp;Medical XpressThe Microplastic Problem&nbsp;&nbsp;Madras CourierPlastic in focus: Multiple studies confirm health harm from food packaging&nbsp;&nbsp;Nutrition Insight",
       "sources": [
         {
           "name": "The Sentinel - of this Land, for its People",
@@ -819,6 +1035,19 @@
           "keyword": "dama"
         }
       ]
+    },
+    {
+      "id": "20ef3937ffd5",
+      "title": "Cretaceous “Kraken” octopus discovered as apex predator of ancient seas",
+      "published": "2026-04-25T01:38:41+00:00",
+      "summary": "Cretaceous “Kraken” octopus discovered as apex predator of ancient seas&nbsp;&nbsp;BusinessLineGiant octopuses may have ruled the oceans 100 million years ago&nbsp;&nbsp;Phys.orgFossil discovery reveals ‘hidden’ apex predator that rivaled marine reptiles 100 million years ago&nbsp;&nbsp;CNNNot massive sharks or snakes: This 62 feet tall 'kraken' octopus was the real terror of the dinosaur‑era oceans&nbsp;&nbsp;The Times of IndiaScientists discover 62-foot 'dinosaur-eating' octopus that ruled the",
+      "sources": [
+        {
+          "name": "BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMm1DZHVqdU9XVE4tRnJpcElRd0c2d3F3eWVQNUJvV3h3cFJ5dGR4cWdveHpXUVd1NzNmRWNxU1g5ZWh4czdyYlU0S3QwOG14SkFGNzhaUG1SOVJHeVhRMy1tZ19MandnMmdZbHRtMkpBaVVyeElHNWo1bmVEdXJ0eXVPVVdRc1Zqc2syUlNZeVJxTDhGNWYxcmxmSVZ6ak4tUXNqalJRcUhDUEtBeEtNcXJDa1EzRzRQSm5DSlltMEFtMDkwTlp0N3h4UkhJVC1UaG00S3l3UDZ5RWPSAeIBQVVfeXFMT2ttYWFpOVVVNXQtZlR2b1JpWlBHVDZjdFBmTmZoSmM5blg0ZTdUYTZ1RE03WkVYU2REcTMyRTdDWTMzdXMwYXU0Vk94eGhEMVlyVUcwVDlOaVlXWDRMUnQ3bFhqRUNqc3VUdzhkN3p6eW1CUkEtWDlRVU93V3JmeEs1VUF1NjRzX2xRVzR5cTFlRVZia01nbW5UN0tNNlR2YVo4U1BEd3c2dFc2QWhQeXRiQmdkYmNaelVhcExsUlh3T1pYN0QwNHUyQVRGdTZYcmhvYms0NG9qUXVyR2xNSEQ3Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "ba500bb5d66d",
@@ -913,7 +1142,7 @@
       "id": "e2e3781f2fcb",
       "title": "Fruits and Vegetables Linked to Lung Cancer, New Study Finds - Open Magazine",
       "published": "2026-04-24T23:47:00+00:00",
-      "summary": "Fruits and Vegetables Linked to Lung Cancer, New Study Finds&nbsp;&nbsp;Open MagazineNew Research Suggests Fruits And Vegetables May Increase Cancer Risk&nbsp;&nbsp;NDTVLung Cancer Risk in Young Nonsmokers Linked to Fruits, Vegetables&nbsp;&nbsp;HealthlineEating fruits, vegetables and whole grains may increase chance of early onset lung cancer&nbsp;&nbsp;Keck Medicine of USCPesticides on healthy food may be giving young women cancer&nbsp;&nbsp;Firstpost",
+      "summary": "Fruits and Vegetables Linked to Lung Cancer, New Study Finds&nbsp;&nbsp;Open MagazineNew Research Suggests Fruits And Vegetables May Increase Cancer Risk&nbsp;&nbsp;NDTVEating fruits, vegetables and whole grains may increase chance of early onset lung cancer&nbsp;&nbsp;Keck Medicine of USCLung Cancer Risk in Young Nonsmokers Linked to Fruits, Vegetables&nbsp;&nbsp;HealthlineFruits, veggies can actually fuel lung cancer risk in young non-smokers: shocking study&nbsp;&nbsp;New York Post",
       "sources": [
         {
           "name": "Open Magazine",
@@ -957,14 +1186,21 @@
       "id": "33bbccc72898",
       "title": "Science News: NASA Study Reveals Fungus That Could Survive Mars Journey - The Eastern Herald",
       "published": "2026-04-24T22:58:36+00:00",
-      "summary": "Science News: NASA Study Reveals Fungus That Could Survive Mars Journey&nbsp;&nbsp;The Eastern HeraldStudy Reveals Fungi Can Survive Mars-Like Conditions Despite Strict Spacecraft Cleaning&nbsp;&nbsp;NDTVMars missions face new contamination risk from hardy fungus&nbsp;&nbsp;Earth.comCan Earth’s fungi survive on Mars? NASA study reveals surprising answers&nbsp;&nbsp;The Times of IndiaNASA-backed study: Aspergillus calidoustus spores survive up to 1.5 years in Mars-like conditions&nbsp;&nbsp;NewsB",
+      "summary": "Science News: NASA Study Reveals Fungus That Could Survive Mars Journey&nbsp;&nbsp;The Eastern HeraldStudy Reveals Fungi Can Survive Mars-Like Conditions Despite Strict Spacecraft Cleaning&nbsp;&nbsp;NDTVResearchers Find Fungus Surviving in NASA Clean Rooms&nbsp;&nbsp;NewserPerhaps We Have Already Brought Earthly Microbes to Mars&nbsp;&nbsp;ChemistryViewsMicrobial Survival Under Mars Like Conditions&nbsp;&nbsp;usthadian.com",
       "sources": [
         {
           "name": "The Eastern Herald",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVGJ5OFFNUUZCYWdmMDlmanE3UTFzS0YtYk5zVUhCdHRsZlRyaUcxemJSYUQwSTd1VU54elFFOUVpNHhvSHJpOEVlSDNYdGxYRk1MRC1MX0RWelV4NUtSU2d2UUxJUTl1d25DRWNTQjJyVXZqV0VfdDREcFVKa2s0Y0tPOVZCM3h2ZlZPMDZocHpKQQ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03336",
+          "keyword": "bia",
+          "name": "BIA"
+        }
+      ]
     },
     {
       "id": "8ce4404ce781",
@@ -1013,6 +1249,38 @@
       ]
     },
     {
+      "id": "c520b7a02236",
+      "title": "Targeting lost pleasure lifts depression and anxiety more than standard therapy, new study finds - Medical Xpress",
+      "published": "2026-04-24T20:00:03+00:00",
+      "summary": "Targeting lost pleasure lifts depression and anxiety more than standard therapy, new study finds&nbsp;&nbsp;Medical XpressWhy Feeling Good is Harder than Not Feeling Bad&nbsp;&nbsp;Neuroscience NewsPreventive Therapy Targeting Positive Affect May Reduce MDD Relapse, With Marie-José van Tol, PhD&nbsp;&nbsp;HCPLiveTargeting Positive Affect May Prevent Depression Relapse, With Marie-José van Tol, PhD&nbsp;&nbsp;HCPLive",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeDEtVU91RmhSRUtZRVVVZjRrQ2VBUW5BQUV4Zk1XbmlqZzljNGxjbmdRWG5uWkFyUE1CcVl6SGxkUHI1cU12T2JpRWFCQ0dhelhOWU82amFsWE14TzF6Nk9UdjJLNjlhNGhkdGJ0QWRUaWlFbkpzWFI5cmhDQm1PR2s3RDRBR3BUd0dDeGpB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "8187_2050_5618_5451_5371_100081_5383_1942_1098_3265_11924_12384",
+          "name": "anxiety disorder",
+          "keyword": "anxiety"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "11918",
+          "name": "anxiety",
+          "keyword": "anxiety"
+        }
+      ]
+    },
+    {
       "id": "a4cbe594b2b0",
       "title": "Disentangling metabolic interactions within bacterial communities",
       "published": "2026-04-24T19:57:08+00:00",
@@ -1026,23 +1294,10 @@
       "matched_keywords": []
     },
     {
-      "id": "6c043ccc8de2",
-      "title": "Late-Night Eating Combined With Stress ‘Double-Hit’ on Gut",
-      "published": "2026-04-24T17:52:53+00:00",
-      "summary": "Late-Night Eating Combined With Stress ‘Double-Hit’ on Gut&nbsp;&nbsp;MedscapeIs late-night snacking always bad? New study reveals surprising tips for better gut health, digestion&nbsp;&nbsp;The Times of IndiaLate-Night Snacking Harms Gut Health, Finds Study&nbsp;&nbsp;NDTVLove late-night ice cream? It might be hurting your digestive health, shows study&nbsp;&nbsp;Northeast HeraldThe one-two punch of stress and nighttime eating may lead to toilet trouble&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVHpuSVlfUGtYdFNJTkt0QlVSQkx4MldmZHJVZjdlMUJWTkpyWDdfaGRjWlJYckVSRFdyTUJPRm1Fem1GLWFtUHZmU2d4T2QyQnlFZ2pyUmtvVE5uNXdGRjBtSm9fdUYtZ2hpLUc3bkttdV9WcVpBRHZsSmRJc1J6TU9ENDlBVWZGTXotS0FSeEVJVlJoTHkxOTBvbDRWMTg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b05b53b57d21",
       "title": "European Society of Cardiology pays tribute to Professor Eugene Braunwald (1929–2026) - European Society of Cardiology",
       "published": "2026-04-24T17:36:32+00:00",
-      "summary": "European Society of Cardiology pays tribute to Professor Eugene Braunwald (1929–2026)&nbsp;&nbsp;European Society of CardiologyEugene Braunwald, ‘Icon’ of Modern Cardiology, Dies at 96&nbsp;&nbsp;TCTMD.comAmerican Heart Association honors legacy of pioneering cardiologist&nbsp;&nbsp;www.heart.orgIn Memoriam: Eugene Braunwald, MD, MACC&nbsp;&nbsp;American College of CardiologyMarkus Müller: Opening of a New Science Building Carrying Dr. Eugene Braunwald’s Name&nbsp;&nbsp;Oncodaily",
+      "summary": "European Society of Cardiology pays tribute to Professor Eugene Braunwald (1929–2026)&nbsp;&nbsp;European Society of CardiologyEugene Braunwald, ‘Icon’ of Modern Cardiology, Dies at 96&nbsp;&nbsp;TCTMD.comAmerican Heart Association honors legacy of pioneering cardiologist&nbsp;&nbsp;www.heart.orgIn Memoriam: Eugene Braunwald, MD, MACC&nbsp;&nbsp;American College of CardiologyEugene Braunwald, Whose Research Reshaped Cardiology, Dies at 96&nbsp;&nbsp;The New York Times",
       "sources": [
         {
           "name": "European Society of Cardiology",
@@ -1111,38 +1366,6 @@
       ]
     },
     {
-      "id": "ba76d9d7c252",
-      "title": "DNA Day 2026: 7 genetic disorders linked to DNA you should know about",
-      "published": "2026-04-24T16:12:00+00:00",
-      "summary": "DNA Day 2026: 7 genetic disorders linked to DNA you should know about&nbsp;&nbsp;WIONTwenty Years of Reading the Code of Life and We’re Just Getting Started&nbsp;&nbsp;23andMe BlogFive Things We Learned About DNA in the Last 25 Years&nbsp;&nbsp;Answers in GenesisAnirban Maitra: Happy DNA Day to All Who Celebrate&nbsp;&nbsp;OncodailyDNA Day at the ICR: Why defeating cancer is in our genes&nbsp;&nbsp;The Institute of Cancer Research (ICR)",
-      "sources": [
-        {
-          "name": "WION",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTE5RF9JbFhFajAyd08zeVBTM3BVcFpWcXJKMENicHFISU0tSXVEWVJHd3VFMXphdmVueHVheTdxZlZzdmFCLWRZR0JzMl9fQVRBWDlFeFJCT2tia3Brak9fMTF0LXNQTVVGYTk3blhBNGd1REloYjRoMGtJLVZ3WTBWYkpxRXpmS0NXVFBtc3lRWjlYUElnd2lMT2l3YUJOR1dyVjBBblhON3kzOTAyWGozbw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "2420",
-          "name": "tic disorder",
-          "keyword": "tic disorder"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        }
-      ]
-    },
-    {
       "id": "d108b2043cb1",
       "title": "Did you know repeated dieting makes fat loss harder? Doctor shares 5 facts about metabolism | Health - Hindustan Times",
       "published": "2026-04-24T15:24:39+00:00",
@@ -1176,30 +1399,10 @@
       ]
     },
     {
-      "id": "1265970254f4",
-      "title": "Uranus’ Outer Rings May Reveal Hidden Moons, Scientists Say - Gadgets 360",
-      "published": "2026-04-24T14:43:54+00:00",
-      "summary": "Uranus’ Outer Rings May Reveal Hidden Moons, Scientists Say&nbsp;&nbsp;Gadgets 360Study using JWST Hubble Keck suggests Uranus rings hide moons&nbsp;&nbsp;NewsBytesMysterious rings around Uranus point to hidden moons orbiting the ice giant&nbsp;&nbsp;SpaceUranus rings decoded on Maunakea&nbsp;&nbsp;University of Hawaii SystemUranus’s rings may hide unseen moons, a new study suggests&nbsp;&nbsp;The Indian Express",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTDhfcTc0VGpNZUJXbEtXLXlIdlhRajFnOURDQmlFNTBSYlVZZ041ZHNOUnk0ZG9qRkdBYXlVanJpbnA0LWY1R1hkUDZKMmU1UXFyZkJCZkF0YTVZaHZHb3VBSVVCM2NTY2YtZ0NlNWswMGdJMlZXc09FQ09CSWxXMWlFRE11cU4tY1JOV0RoOUdhY3FwQWRSeXMteUt4RXBFZm5nNtIBqgFBVV95cUxNSDhuMnZtZFZvaUJqbjR2UEgtWUYyWS1BdFFRTVh6SXFkTmYzZE5DcmFtRHNPemxmQ0JCc1RTRDV6UG4xSzVMNllWekFNbzM2Tkk2UENlaGFFME5JcDFySktKZjVST3NTeG9udUtwWnhMS041czhtOUxUSF9SRnJLZENJa09jclNzaEotOVM0WlRqM011c0NYSHdvYVJHMmo4UFZyUy1ObWpuUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
       "id": "0592a6d6d3ce",
       "title": "NASA scientist says a mysterious \"fifth force\" may be hiding in our solar system - Science Daily",
       "published": "2026-04-24T14:17:09+00:00",
-      "summary": "NASA scientist says a mysterious \"fifth force\" may be hiding in our solar system&nbsp;&nbsp;Science DailyNew Study Explores the 'Great Disconnect' Between Cosmic and Local Physics in Dark Energy and Dark Matter Research&nbsp;&nbsp;SSBCrackA NASA scientist sees a hint of a mysterious fifth force in the solar system and proposes new tests to challenge known physics.&nbsp;&nbsp;CPG Click Petróleo e GásNASA Scientists Suggest A Mysterious “Fifth Force” Could Be Lurking In Our Solar System&nbsp;&nbsp",
+      "summary": "NASA scientist says a mysterious \"fifth force\" may be hiding in our solar system&nbsp;&nbsp;Science DailyNew Study Explores the 'Great Disconnect' Between Cosmic and Local Physics in Dark Energy and Dark Matter Research&nbsp;&nbsp;SSBCrackNASA Scientists Suggest A Mysterious “Fifth Force” Could Be Lurking In Our Solar System&nbsp;&nbsp;The Daily GalaxyA NASA scientist sees a hint of a mysterious fifth force in the solar system and proposes new tests to challenge known physics.&nbsp;&nbsp;CPG Cli",
       "sources": [
         {
           "name": "Science Daily",
@@ -1209,23 +1412,10 @@
       "matched_keywords": []
     },
     {
-      "id": "85216b91f5f4",
-      "title": "Scientists Identify Protein Behind Ageing Joints In Arthritis Breakthrough",
-      "published": "2026-04-24T14:08:17+00:00",
-      "summary": "Scientists Identify Protein Behind Ageing Joints In Arthritis Breakthrough&nbsp;&nbsp;NDTV",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVERHYk1UZ0Y0ajBsSkxaTzFNbmNkX1VraTg3S3lWVlkwMTVtZDNHWk13emxteVF4eW5nLU5TOVQ1Nzg2dWx1bmM2T1dhVnVpVUs0ajlnNGJRSm02dlZrR3Q0T0Q4SEhoX190MFY1eTFONjB1UUVfczdGNGt1MmVLbV9vVkoxTVR1anVxbHBuZVg3Qmk3YkVxVXpzU2dyTTg3Q3N6VDhaR2QwOHBaZ3RIbHhB0gG6AUFVX3lxTE85aUNzelJpbjNiLVBEaWlhWVNOOTJDRzdNOTY5a0JvLWhLRVI2Yk1GeFhqSk9hOFh3VnJqajQ5bmlSdXFFbEtYRmFtUUI4MjFqTjAteTBDeDZNTERXYXJJakhvYlRycTZVVmMxN1VXeGhfM1VwODlWdEhIR2M2aHlYUE40VGU1MFp1SUZKeVJhWDA5ZlNaZk9FZmZjVWRkbTZOT1lEUFNjM1kxUlk5UXRvNFJxSWZIZWdUZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d92302488d9d",
       "title": "Stem Cell–Islet Transplant Reverses Type 1 Diabetes in Preclinical Study - The Indian Practitioner",
       "published": "2026-04-24T14:04:51+00:00",
-      "summary": "Stem Cell–Islet Transplant Reverses Type 1 Diabetes in Preclinical Study&nbsp;&nbsp;The Indian PractitionerScientists Create Improved Insulin Cells That Reverse Diabetes in Mice&nbsp;&nbsp;SciTechDailyFirst global gene therapy trial for type 1 diabetes to start this year&nbsp;&nbsp;Juta MedicalBriefScientists Cured Type-1 Diabetes in Mice in Breakthrough Study&nbsp;&nbsp;Tomorrow's World TodayNew Low-Toxicity Transplant Method Reverses Type 1 Diabetes in Mice&nbsp;&nbsp;Inside Precision Medicine",
+      "summary": "Stem Cell–Islet Transplant Reverses Type 1 Diabetes in Preclinical Study&nbsp;&nbsp;The Indian PractitionerScientists Create Improved Insulin Cells That Reverse Diabetes in Mice&nbsp;&nbsp;SciTechDailyFirst global gene therapy trial for type 1 diabetes to start this year&nbsp;&nbsp;Juta MedicalBriefSwedish scientists unlock stem cell cure for Type 1 diabetes&nbsp;&nbsp;QazinformNew Low-Toxicity Transplant Method Reverses Type 1 Diabetes in Mice&nbsp;&nbsp;Inside Precision Medicine",
       "sources": [
         {
           "name": "The Indian Practitioner",
@@ -1233,12 +1423,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
         {
           "type": "indication",
           "disease_id": "generic_diabetes",
@@ -1353,23 +1537,10 @@
       ]
     },
     {
-      "id": "1633404fcc86",
-      "title": "Machine Learning Predicts Risk of Fragile X-Associated Syndrome",
-      "published": "2026-04-24T12:06:01+00:00",
-      "summary": "Machine Learning Predicts Risk of Fragile X-Associated Syndrome&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd1ZROG1PMWFDUWcxdVFnaldJeGcwaFE5TmpTZ1BEcjFIR1BuSDVRLVFhMW9nbnJTVlFSM21Ja1JLd1lMUG9IbEw2RWZoSDlnd1hkd2VwNjFkdUlZOVdSWlpWR3pMTmhoVFRFTWxfV3B2QURzMXp5QUNEY1JWSjhWWUFPX0Z4bUtnNzBSVC1fMFI2bnJWb0RKN09MekhJTldRUmRBU1Rpel9JUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "faab3089b363",
       "title": "Stop skipping 1 simple daily habit to reduce your risk of colon cancer, a doctor says - Business Insider",
       "published": "2026-04-24T11:58:00+00:00",
-      "summary": "Stop skipping 1 simple daily habit to reduce your risk of colon cancer, a doctor says&nbsp;&nbsp;Business InsiderDoctors warn of increasing colon cancer cases in people under 50&nbsp;&nbsp;WGXAColon cancer is now top killer under 50: Know signs here&nbsp;&nbsp;The News International7 Things Constipation Tells You About Your Health As You Age&nbsp;&nbsp;AARPColon Cancer: Why tracking your poop could save your life&nbsp;&nbsp;The Times of India",
+      "summary": "Stop skipping 1 simple daily habit to reduce your risk of colon cancer, a doctor says&nbsp;&nbsp;Business InsiderColon cancer is now top killer under 50: Know signs here&nbsp;&nbsp;The News InternationalColon Cancer: Why tracking your poop could save your life&nbsp;&nbsp;The Times of India7 Things Constipation Tells You About Your Health As You Age&nbsp;&nbsp;AARPVirginia redistricting plan faces court challenges after narrow approval&nbsp;&nbsp;WSET",
       "sources": [
         {
           "name": "Business Insider",
@@ -1398,14 +1569,14 @@
       ]
     },
     {
-      "id": "48ba6e7a1cac",
-      "title": "12 inspiring quotes from the Artemis II mission for students - Study International",
-      "published": "2026-04-24T11:43:41+00:00",
-      "summary": "12 inspiring quotes from the Artemis II mission for students&nbsp;&nbsp;Study InternationalEarth Seen from Space: Christina koch captures stunning view during Artemis II Mission&nbsp;&nbsp;Moneycontrol.comArtemis 2 and Tiangong space station astronauts set record for farthest distance between humans&nbsp;&nbsp;SpaceEaster calls us to practice resurrection in a fractured world&nbsp;&nbsp;Global Sisters ReportAstronauts return safely from astronomical journey around the moon&nbsp;&nbsp;the gannon ",
+      "id": "f90ee09271c5",
+      "title": "Delaying Climate Action Locks in Higher Sea Levels by 2100 - Modern Diplomacy",
+      "published": "2026-04-24T11:11:25+00:00",
+      "summary": "Delaying Climate Action Locks in Higher Sea Levels by 2100&nbsp;&nbsp;Modern DiplomacySea levels are rising at a rate not seen in 4,000 years, and China's major coastal cities are already on the front lines&nbsp;&nbsp;ECOticias.comWhy delaying climate action now means higher seas by 2100 – new research&nbsp;&nbsp;The ConversationGlaciers May Flow into the Ocean More Quickly Than We Think&nbsp;&nbsp;eos.orgAn error in hundreds of sea level studies could change the map of coastal risks&nbsp;&nbsp;",
       "sources": [
         {
-          "name": "Study International",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54amV3RUZHUl9DWkJSNmwwSmVTTnc0TmhWX2tCOGlxQi1GOEdfaThaMGNDQmdUVDJoNVFQdDR6bmdOal9rMXdnWTBLV3g1aHd5Yk8wMjFhckt6WGwyNnpFclZHNEpnaHhKVTVkNUVjR1h1bG5BRjRiSGREUXVNUQ?oc=5"
+          "name": "Modern Diplomacy",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbkZ5LTN3U2VKRkt0WnlndllFcnFTZkRtN0JkN2d2Y0l0NkhrOE9zLWJwWUpuSExUWGRqc0NpX2VsNU03VGlRbHpBNk84QnVSYVBydXdBdWtOaEtRWHVXQ2ZBeERBZW9UN0xJdFgwcHpTRGNFbm9ta3hsbi1Yc2xZVjdwbU9KZFJsblBDOXlDeVhnM3JSbTRCLUl6RlI4Zw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1414,32 +1585,6 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "549c817dd89c",
-      "title": "HPV Vaccine Linked to Reduced Cancer Risk in Young Males",
-      "published": "2026-04-24T11:05:54+00:00",
-      "summary": "HPV Vaccine Linked to Reduced Cancer Risk in Young Males&nbsp;&nbsp;EMJWhy HPV vaccination isn’t just for women&nbsp;&nbsp;CNNHPV vaccine essential for boys too: Doctor&nbsp;&nbsp;The Tribune‘HPV Vaccine for A Must For Boys': Expert Warns Rising Throat Cancer Risk in Men&nbsp;&nbsp;Times NowStudy shows HPV vaccine halves young men’s risk of HPV cancers&nbsp;&nbsp;mezha.net",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQXI5NEFQOHhxcXdudnRYdkxRdnBsWTRpS0gxZkJwY0RDdFBGTnowYzN2alB1V2VMWmFsQThjXzljLThwM3djVzA0QlU4aEt2NVdYZ2plSnJxYmpSaXI3dzRPZ1Ztb0JBcnBwMHUxOUlKbS1OQVNvUU05azg3eFhKUC1rY2tiRXpERkpqTzQ4dkd2QkIweFFnMTVmLWJfVjQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
         }
       ]
     },
@@ -1473,7 +1618,7 @@
       "id": "1cdf7a8e5fa9",
       "title": "Your gut may reveal neurological disease risk years before symptoms appear: Key points to keep in mind",
       "published": "2026-04-24T10:53:00+00:00",
-      "summary": "Your gut may reveal neurological disease risk years before symptoms appear: Key points to keep in mind&nbsp;&nbsp;TheHealthSiteMicrobiome signature of Parkinson’s disease in healthy and genetically at-risk individuals&nbsp;&nbsp;NatureMedical Bulletin 23/April/2026&nbsp;&nbsp;Medical DialoguesForget the tremors: Your gut holds clues to your risk of Parkinson’s disease&nbsp;&nbsp;The Times of IndiaThe hidden signs in your gut that may indicate Parkinson’s disease before symptoms emerge&nbsp;&nbsp",
+      "summary": "Your gut may reveal neurological disease risk years before symptoms appear: Key points to keep in mind&nbsp;&nbsp;TheHealthSiteMicrobiome signature of Parkinson’s disease in healthy and genetically at-risk individuals&nbsp;&nbsp;NatureMedical Bulletin 23/April/2026&nbsp;&nbsp;Medical DialoguesParkinson's: Gut changes may begin years before symptoms begin&nbsp;&nbsp;Medical News TodayForget the tremors: Your gut holds clues to your risk of Parkinson’s disease&nbsp;&nbsp;The Times of India",
       "sources": [
         {
           "name": "TheHealthSite",
@@ -1496,76 +1641,6 @@
       ]
     },
     {
-      "id": "b532ee9cc149",
-      "title": "Constant blood pumping could be a reason why heart cancer is rare, finds new study - The New Indian Express",
-      "published": "2026-04-24T09:54:33+00:00",
-      "summary": "Constant blood pumping could be a reason why heart cancer is rare, finds new study&nbsp;&nbsp;The New Indian ExpressMechanical forces from the beating heart may help prevent cancer cell growth&nbsp;&nbsp;Medical XpressHeart’s beat may help it beat cancer, mouse research suggests&nbsp;&nbsp;statnews.comThe heart's constant beating suppresses tumor growth in cardiac tissues&nbsp;&nbsp;News-MedicalWhy is heart cancer rare? New study explains possible reason&nbsp;&nbsp;Mathrubhumi English",
-      "sources": [
-        {
-          "name": "The New Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnFtWEpRaTNFYjdydGNvRVUzWTFQcms1blJYdHJQSzQwMWhZLW9TM0tHM05wdzFBSHgzNFNoVFVQZXB6aWVCbGVHT1hUamlOWVlWTTF6NGtPWnFVSldtVlJiNkdVOWlPcE1EYWswbWtGQkNNZ2NnLVVjN2VCeG1nemd3N0tUdEFNTk1qVzZrTDhkclRaMTk3X1hJTndvU3JXRjBMSkxyUzRkaXZjaFE4VnFrSWszdzlNMkJDbnlZY09tckhVNzZYb29EUXB4OFhzR3JFUmRmV2E2OU3SAegBQVVfeXFMTXdiMkFsWVdQbXN0cFRlY2d4QUlXLUxELXg3SVFHSnJDMUNVZHhZX1hwbHFPQkU0clk1UExoaWNJM0psbDNvd2ZtdGh5VnZnN0lkdTU5NElaNU04aXJILXVtRldUVFJhOGZnZE1VM3VGdUVVOE42WDhoMkpzZjdTT2RxLWtid1llaDNFUFhSVFpaMC1naF9zbTVpR0VWTVF4eFU2M3hlVGRQWmkzUFVNOEhpdmw4MFpGUUlxQ2lETjhxcWZJamxCREU3ejB4X3A5aWhicFExakc5ZDVOTFpQb2ZiVjBHM1dWaQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "1340",
-          "name": "heart cancer",
-          "keyword": "heart cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__heart_disease",
-          "name": "heart_disease",
-          "keyword": "cardiac"
-        }
-      ]
-    },
-    {
-      "id": "f7c9a5417fc5",
-      "title": "A forgotten disease returns: Why Diphtheria is resurfacing in 2026 and what you need to know about the new indigenous Td vaccine - The Indian Express",
-      "published": "2026-04-24T09:29:39+00:00",
-      "summary": "A forgotten disease returns: Why Diphtheria is resurfacing in 2026 and what you need to know about the new indigenous Td vaccine&nbsp;&nbsp;The Indian ExpressDiphtheria Outbreak In Australia, First In Almost 50 Years: Symptoms, Prevention And Treatment&nbsp;&nbsp;NDTVBefore vaccines, diphtheria used to kill hundreds each year. Now it’s back in Australia&nbsp;&nbsp;The ConversationDiphtheria outbreak in Kimberley: Cases triple after 50-year absence; what you need to know and do to stay safe&nbsp;",
-      "sources": [
-        {
-          "name": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUV84ekZ4WWlDdUlPNmVFV2c3RkJsaE9PMkhORmxLNUNKd3RpQ180UXdJUTFYRGdxeGlNcnNfTEw2aHU4MDNZRnY3c1hLSFBhMW5HZEN4Z3VmSU9Tc2ZlYnV6VHdvRlJTVS1XVktSQi00eEt6Ykc4Y1RPa1ZxZFdSbUJ4ZlhCUFNYWVJYSnZhNzlORXlGZUgzSnlnaS04dlZoTHdCNkF3NE9IZTZjbXk0T0FHcTVqbE1wUjNLejl1NExKOHVFa1BPU2pwMUxSWlBz0gHXAUFVX3lxTFB3c0RlRHJOVFFFQ2dzSGVLc25iUGo4Y2JDbUhCcm9KNG83T0hTdkJubllNeTBfdHVRbUpuZ3NGNTU2VlZ0cUt4N25KMzJ0RkUtNkFfeTlTQmZqcEJBa0tQZTFQZ01KcDZfVXE0YUwxQW5jbm1PVVQtNnNRNjF5MEJHMTlfdjB6SGFNYlZYRkhBWUo4dVJkanA2MHRzclhTS3BfZFoxTTlrOUdLSVNwMVZwN0VLUW5nbU1ldFU4R2pLOTY5VzNqckhMem9abGxadnBPQnFPb1Uw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5504_1479",
-          "name": "diphtheria",
-          "keyword": "diphtheria"
-        }
-      ]
-    },
-    {
       "id": "b66f50f159b8",
       "title": "Simplifying Clean Hydrogen Production with a New All-in-One Photocatalytic Cocatalyst - Asia Research News |",
       "published": "2026-04-24T09:06:13+00:00",
@@ -1574,19 +1649,6 @@
         {
           "name": "Asia Research News |",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1BwbkdwbmlucF8yNkRjWFdSbmo4LTU1c1ZUUTBoaFk5MVhaQVlQek9nOVk0M0d3NDFLZXdObGUtaTFiTWY2d0JmejdRMnh2aHZMMWVUa1gtS1VnTklQSVotZ1NVRW1zRWNjLUZjQlhvU2NJMDI0TTJYaG9leUZaazRoQTNwWnprYnc3cExYYm1EdlZRVFpuNUxWLS0wTXk0NDRUdUp4TFY3YnotWUZzcXQ1aFVkekE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6d73405cdbdf",
-      "title": "Heterologous expression of a heme-dependent catalase from Avicennia marina confers multi-stress tolerance in Escherichia coli for biotechnological applications",
-      "published": "2026-04-24T09:03:29+00:00",
-      "summary": "Heterologous expression of a heme-dependent catalase from Avicennia marina confers multi-stress tolerance in Escherichia coli for biotechnological applications&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41SE1vOWRMOFRfY1oxVzdGMTJCLTVmb052aUJiUXQyUHFmLXF5dVU3Zzd5dVdVRzVjZGpyQ2RvV3hkc1R5Uzg1Um9xVlNXMm5nTm81aUF3NjNsQzdjN0ow?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1615,7 +1677,7 @@
       "id": "8bc417cd51d1",
       "title": "AI Protein Design Market 2026: The $6.9B Opportunity Transforming Drug Discovery with Generative AI",
       "published": "2026-04-24T07:15:55+00:00",
-      "summary": "AI Protein Design Market 2026: The $6.9B Opportunity Transforming Drug Discovery with Generative AI&nbsp;&nbsp;openPR.comBringing AI-driven protein-design tools to biologists everywhere&nbsp;&nbsp;MIT NewsHow AI and Automation Are Reshaping Protein Design&nbsp;&nbsp;Technology NetworksProtein Engineering Method May Lead To More Exact Treatments&nbsp;&nbsp;The University of Texas at DallasProtein Engineering Market to Reach USD 8.64 Billion by 2033&nbsp;&nbsp;openPR.com",
+      "summary": "AI Protein Design Market 2026: The $6.9B Opportunity Transforming Drug Discovery with Generative AI&nbsp;&nbsp;openPR.comBringing AI-driven protein-design tools to biologists everywhere&nbsp;&nbsp;MIT NewsHow AI and Automation Are Reshaping Protein Design&nbsp;&nbsp;Technology NetworksProtein Engineering Technique Paves the Way for More Precise Treatments&nbsp;&nbsp;Bioengineer.orgA protein engineering method may lead to more exact cancer treatments&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "openPR.com",
@@ -1631,9 +1693,21 @@
         },
         {
           "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
           "disease_id": "6652_3678_1090_3672_3673_3676_3677_3679_6803",
           "name": "myocardial infarction",
           "keyword": "MI"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
         }
       ]
     },
@@ -1722,48 +1796,10 @@
       "matched_keywords": []
     },
     {
-      "id": "fd73cf5175e6",
-      "title": "Cell squeezing technology offers new breast cancer risk assessment",
-      "published": "2026-04-24T02:40:00+00:00",
-      "summary": "Cell squeezing technology offers new breast cancer risk assessment&nbsp;&nbsp;News-MedicalView Full coverage on Google News",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnd0aW9qWUZmdnNVYWtIY1p3c2preGZPZ0FrUllyZktod3NnUTFmNnI3RnlwaE9WYTA1RmVVdFVuMW41djhReTBLZkQ0XzFzQ3B1anAyUXNCWkNWaTI0QjZZZDJRbEhyem5ydklkSU1Kb1dDVzY2N0dKS2ZCcUdxMVo3aXRIbVF4Q1ZPQXUxLVpFQmVkU0NoM1Jsb0k1VmUyeHpPOXZTZVE4ZGZDSVEycFo5MTI?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4379",
-          "name": "female breast carcinoma",
-          "keyword": "breast cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "7254",
-          "name": "breast cancer",
-          "keyword": "breast cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        }
-      ]
-    },
-    {
       "id": "71e888d178bf",
       "title": "Eating Well in a World of Diet Noise - FFOODS Spectrum",
       "published": "2026-04-24T02:36:29+00:00",
-      "summary": "Eating Well in a World of Diet Noise&nbsp;&nbsp;FFOODS SpectrumStressed? Your diet may be making it worse&nbsp;&nbsp;The Clarion-LedgerClean eating is not always safe, dietitian lists 8 ways it can harm gut health&nbsp;&nbsp;Moneycontrol.comFuelling the Modern Body: Cutting Through the Noise of Nutrition Trends&nbsp;&nbsp;Lifestyle & TechEating smart, not more: What we got wrong about ‘healthy eating’&nbsp;&nbsp;Agro Spectrum India",
+      "summary": "Eating Well in a World of Diet Noise&nbsp;&nbsp;FFOODS SpectrumFuelling the Modern Body: Cutting Through the Noise of Nutrition Trends&nbsp;&nbsp;Lifestyle & TechClean eating is not always safe, dietitian lists 8 ways it can harm gut health&nbsp;&nbsp;Moneycontrol.comEating smart, not more: What we got wrong about ‘healthy eating’&nbsp;&nbsp;Agro Spectrum India",
       "sources": [
         {
           "name": "FFOODS Spectrum",
@@ -1808,19 +1844,6 @@
         {
           "name": "The Hindu",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWDJOa2FpMVhlUzBWUm1mU1VlRUR1bk9JRW1FTUtRaEJ5VDdLYnFaOTh5azFKQmYtS1Z6cUNfN29VZDFEdUlQMU5ZNWU2eHdDcUVacXBEcVZwRW9JQ1kzYkNDSHRSdnNQSlRTWWFMb3Fpck4tT3gxbUZESl81akFsRk1oYWdxOEU3SjFjSmdpam1GcXVVWXVXU0k3TG85cjcza1h4V2RTTGZtR05MNTEwYUxVZDdXZWY3NW1CTHN3Z3czQdIByAFBVV95cUxOcUVPUVNVeHNsSUZLekw2MUxiM1ZDNmZEMmR5SWdmdDhRUG95YThjOGNIUFFQN08wM0xGV1VIZk1uZzZtcHluSE9RRkh6WWZlMms2RENqcUFSc09EQVVvN0VJSjJKcFJZa3MtekRZbng5WUtwVmtCT3U2TDVDaUc0MU9vaUMwT0xHeHpFZmJwNVYxX19uTHplWTRHQWlmRC1yQTE2NUZRWUcwOGxneEpIMnpiblBFM3M5MnJxcDVmUGVSR01LQzlSWg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "83d51d607259",
-      "title": "Forgotten Medicinal Plant Shows Promise in Fighting Dangerous Superbugs",
-      "published": "2026-04-23T23:30:05+00:00",
-      "summary": "Forgotten Medicinal Plant Shows Promise in Fighting Dangerous Superbugs&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeERvQmVyNm44cjQ5bzdGNm84TFktcWxzMXUybWpsN0NIeEllT2FqSWxGazQzR1VyRk9xTnNjejlmSUlZZnN5WmVrTEREU1h4d2R6c3VYYUNodnZKc1JaV2JVOGZ4VDF6SnNrRFVWWVRXbXJsTFRQQzlua2k4NWhfZVRSQ1pNeVZfcWMyeVFkcHFPSS1BSmotbkJUT2pIUQ?oc=5"
         }
       ],
       "matched_keywords": []
