@@ -1,19 +1,139 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-04T08:10:35.025894+00:00",
-  "total_fetched": 107,
-  "unique_count": 107,
-  "health_related_count": 49,
+  "fetched_at": "2026-05-04T13:15:49.763062+00:00",
+  "total_fetched": 99,
+  "unique_count": 99,
+  "health_related_count": 40,
   "news": [
     {
-      "id": "b52451aff3c5",
-      "title": "Novel wheat hybrids increase resistance to major fungal disease by up to 70% - Phys.org",
-      "published": "2026-05-04T08:00:01+00:00",
-      "summary": "Novel wheat hybrids increase resistance to major fungal disease by up to 70%&nbsp;&nbsp;Phys.org",
+      "id": "9d1ec4376b3b",
+      "title": "Low-Cost Blood Test Detects Multiple Cancers and Liver Diseases, Study Finds - Clinical Lab Products",
+      "published": "2026-05-04T11:56:17+00:00",
+      "summary": "Low-Cost Blood Test Detects Multiple Cancers and Liver Diseases, Study Finds&nbsp;&nbsp;Clinical Lab ProductsNew test promises to detect cancer earlier, from tiny particles in bodily fluids&nbsp;&nbsp;Medical XpressMaltese Researchers Develop Blood Test To Detect Cancer Earlier&nbsp;&nbsp;Lovin Malta",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsWkN5ZzRHUzRuZjhiNC1yTTA2WnRkVFBTS0dsN0x6QnNvdEZWQ0RtbGVvcUE0dl9Cc2o5SmFOa295a2s1RGZSQjFmMjZRQlNpSGxoc1F2cVY1ay1oR1BTRG43dUJYWVAtbXpNTGl4UnBNTjVYUDdNR25ndk8?oc=5"
+          "name": "Clinical Lab Products",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNHM4UUVCWnM4ZWU3aHVrWVp3c2ZUbW02Y3JrNE9oOVBzeFBGblk4dUFmZmtGaDRQMHA0ekE4S1hVbXZhLTBKeXNDTmRrX29mTnFBMzVNbHdwT3ZNSEtEejFKM2k5NVJ0b00xT3V4T05nZGpyanRYc0JtZEh2VWRyXzhjZWFFRTE1TnU0T0JqbVcxQ19nNjFBcXpjbEtSNC04YW9V?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b16abef1e531",
+      "title": "Prevalence and Surgical Implications of Cystic Artery Variations in Calot’s Triangle: A Prospective Observational Study - Cureus",
+      "published": "2026-05-04T11:53:29+00:00",
+      "summary": "Prevalence and Surgical Implications of Cystic Artery Variations in Calot’s Triangle: A Prospective Observational Study&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeW94NmtGaktrT3ktMERReUFrNEdxX3R5ZFNUQXlnektaZEJzdi15N1pzSUg3V2hVWVdsUUhfUGNuWDZBS3UteXBUNXpVY21PSTNvNVdlV3dCVlVyS1djSGtLYkNwM01hQlpmQlRtNHFLWmt2d19YX19DNFRTbWpTYzJLN3ZnSmkxVUhYUm1lVG5pWDZUWHJxbm81RXVtYjBXS3RISFgyYXg1Qmh0NjRHeEdBd1oyWmpFRkZKNVZzR3RoOVdTNFh0NU5WalBmWTVfbVRFYlRVV0JJMEk2LVAxcFFodHVteXpSRWZaNHVyRVZpbHZ0SG5XbGJKNEE0bDFFV1hFODh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "447dd3151a17",
+      "title": "Hantavirus risk to public is low, says WHO after outbreak hits ship - The Hindu",
+      "published": "2026-05-04T11:23:01+00:00",
+      "summary": "Hantavirus risk to public is low, says WHO after outbreak hits ship&nbsp;&nbsp;The HinduWhat is hantavirus? Cruise ship outbreak explained&nbsp;&nbsp;BBCHantavirus Outbreak Kills 3 In Atlantic Cruise Ship: Symptoms Of The Deadly Viral Infection Explained&nbsp;&nbsp;NDTVThree cruise ship passengers dead, others ill after suspected hantavirus outbreak. Here’s what we know&nbsp;&nbsp;CNNWhat to know about hantavirus&nbsp;&nbsp;NBC News",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWGcyckhWUHkxa3JKclBKTlBlV0MtZzVHSE56ZWh1MEhOVjBweUVsTWpVcEhBd3ZESTRDVExPakdCOUtKblE1SHpmd0V6c2lQYmxQUElEZ1VDclk3X0ZHaWN4VjRIQXdJNU5BZ2RRTWU1SGpPWTdIYzk2di1xZi1BN3ZRS1JCSTZXS0pUb0NjNTduVVR6R3lra3M5Y2RVdHNRMFZvdXBDa1U4Q1lsSjZEWmVXdjhWSDc0VUN1aDhYdFZ2dlowVXFTZGNB0gHQAUFVX3lxTE81VEJWOFloX3FoVWR5bVZGd3FWNWV1ZnZqSThEV0w2a2g4c2E5NmV2Yl9lbUFmSE14a1BjT2xLZTgyQUpzNDNCWnZ1RFlneU1rd19DMjFPcWhfTGlHSXZraXhSU19ERHRtWVdBN3JJLWVtR1BSakEyLWtfWUxNeWR1NzlQM3llb0xVek1xdjJFNXR1UjZUZzBnVDY5V3hXT0x3bkZ3RzVsb29tT2ZqLU43SnhnRDFISkxRVl9QYlYyWGRWeVg2eTA3RFZJMG9JTVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41ee767c885b",
+      "title": "Biosensor detects early fungal outbreaks, advances plant biotechnology - Technology Org",
+      "published": "2026-05-04T11:00:17+00:00",
+      "summary": "Biosensor detects early fungal outbreaks, advances plant biotechnology&nbsp;&nbsp;Technology Org",
+      "sources": [
+        {
+          "name": "Technology Org",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcjBzX3FRRTcyMngyNVZHcy1yTHh4NEFRVHZjSmNaVVpQbklwd2xnVEtNeWl0eEF0ZW9pM3ZzR282WTdvTF9xckFOM0hZd0hLY3BKOUYyWmQxblNOR0RPY0k2SkdGczRSS2JkcGZvY1FOTDlINk9TWENZc1lTOUNZdE9CNmdOdm9WY0tURU9uTkN1eXIwZlhMdEtIeDM4ZDFVd2syVmFBMDdqU1hU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9185834da2d",
+      "title": "Oncoplastic surgeon shares why breast cancer is rising among younger women and the early signs we often overlook | Health - Hindustan Times",
+      "published": "2026-05-04T10:50:45+00:00",
+      "summary": "Oncoplastic surgeon shares why breast cancer is rising among younger women and the early signs we often overlook | Health&nbsp;&nbsp;Hindustan TimesBreast Cancer Affecting Young Lives: Tips To Navigate The Challenges With Confidence&nbsp;&nbsp;News18Breast cancer risk and detection in younger women&nbsp;&nbsp;South Carolina Public RadioBreast Cancer in Young Women: Rani Bansal, MD, Discusses Subtypes, Disparities, and the Importance of Self-Advocacy&nbsp;&nbsp;The American Journal of Managed Car",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdmZNY29ORWozMVRWdzVHRE5vRGFoRVE1TjZ5bFZUVjlQV2FjVnROYUkyS0c4b1dwaGtrWC1TaU5lWXpuQUJ1OEZhN0oxb185SHlRckFHVVpaZXE0eXViNm5iZUw0b3FVWXJVcnZMMmRoUmtSWGxlcFExUGdySC0tWXJ2dndiUXhiNXN6VXY5Ukd3YThQYklpakc4VEdFRS01bF9RRGxLMWMyN1lRYjY4R0c5RUFIdUNIMHowSXBXR0YzYWxrTGk2S3NDd3lacVJMNG5BWTExaUt1LWVIRVdxd0h2VWR3a2xTN1R4OVNFTXlXNURKVW9KTGd2dmhlc2R3bGF4c0VIYjBfbEJkYUHSAZMCQVVfeXFMTlF2RWROMzBJaEdPVkYtZGpRdHJYOUdVM2RjWFpZc0J2Z0piV2otU3RLS2pMQzMyUzJydXE0cHI3RjJUU3dtLUg3QzZvLVdXUDQ1WkxIcHo5dENWcVpZUmZMVlotOVdBLTF2NjRPWEgyb2xrNklOWHNDUzBuLWtEelVTWTN1d0lQbzJ5N3JDZC1rdHE2dUFSQkFoakx6dXJBRUp1Nnl5YXU1QmxISzg5ZlF0anRaYi0ycl95eE5MZkJEcGtER09fUlpqS1NtUVRuNUM3UnMtaENTZ04xWC1kZUtMNHVXMXZhM1JjNzVQZm8yY29HN1Nvd0RXdVBjdl96Zl96ZENUWkZzbENKMS1Ydmt3UUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6043a7d000b7",
+      "title": "New AI tool may detect pancreatic cancer long before symptoms appear - Moneycontrol.com",
+      "published": "2026-05-04T10:08:55+00:00",
+      "summary": "New AI tool may detect pancreatic cancer long before symptoms appear&nbsp;&nbsp;Moneycontrol.comAI finds signs of pancreatic cancer before tumors develop&nbsp;&nbsp;NBC NewsMedical Bulletin 04/May/2026&nbsp;&nbsp;Medical DialoguesAI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis&nbsp;&nbsp;SciTechDailyAI tools to finds pancreatic cancer early: study&nbsp;&nbsp;GujaratSamachar English",
+      "sources": [
+        {
+          "name": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDU3bEVnTHpIbG9KZE1XbEluNm02V2JYelF2NUhTRDVyYWg5c2R4azFZd2lDb1RleVlMeHhxYTk3Tnp0bWU3eWpDdnZDaWlpT2ZkQy1zM0VMb2JoWDdrbXhKbkhGZ0FQbFlCb2NaTHVyZW1mWmVRTnBtSVhJX1VYZEdBMUg4VFFEUl96YUJIVmJXSEw0SmV1MUptWWdYT2d0a0xmQnJkYzk0Smc1YzVLTXo2N1dDUkUxelF6a2hYMUXSAcYBQVVfeXFMT3ZMM18zYUdJZ011dmJNSllQQy1BVTdjX1Bna0QtbHRGalMtaFdNM3JDZ2lUdUtuNzY2S3I2MFd4a3ctQlhsQS1pbFlmZTdNUkEwWjVTNExveUQ3QnBLUTNDRkRIa3B5RXRFTXBscHNPQkQzQWhkbVhqT2w3dHVLUkh1akZwTmVHVlJpWnB3dTNMN2J2TzcybmZzOHBULVFhMTFvMXFGY2ZwYlVYYnkzcjUwMlNQWXl4dlJnV3VEZTkxOF9qSS1R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca3974dd2f9c",
+      "title": "Indian Council of Medical Research’s ‘Syndromic Surveillance’ Could Catch the Next Pandemic Early - Times Now",
+      "published": "2026-05-04T10:00:00+00:00",
+      "summary": "Indian Council of Medical Research’s ‘Syndromic Surveillance’ Could Catch the Next Pandemic Early&nbsp;&nbsp;Times Now",
+      "sources": [
+        {
+          "name": "Times Now",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTlNQZk1YRmVpbzdiRXFBcGxLVExJcnJuSTBmTURsa0dnbG0xdjVyVklTYm5oRjNlX1NTU1JleWtqM09oN2lWdmhmVEZqTnlTMEdNTHpiMG56S2w1ZzBRMnllOHVLSkkwdVJEVnVmeG9KeEJPQS02cGNnQ2NQTzg2R0ZqWWRKa2xSU3JYRHNHQ24wWkZrOENTNmVWWmpENVIxTmh3SmxqcUhQdDJuWVFBVlByNS1NWF9kdHo3aGdZVTFRdlhPcFhfZldtRWxKeThUazFjZjR4YjhhbFVmM3ZVa19R0gHnAUFVX3lxTE8wMXhKVHc5WldLRUVuRXl5b0x1TzJmS0N5eHpUajRUeW5YUV80d1g0V05wTVgtNmxpcnhnREdSVUNyclRsRmI2a1RWM3JRb0V4bG9ZeXZ4UWZQQU14N2xveVRqYkZDV1N1b2dVQzVXRWNiTFBfUUJiX3NTX3N0SlNObVlSZFkxYU9fX2F4dS1XVmszVWduSW1wTFJKamd4RENYelJkeTVKTF9FQnZsdU9sUTRKbjJuTm02VDA0SE4wY1hTdXMxNmtLaDM5Z0VzVThVeWs4RnR6aVhiTTZFeGdPZFM1YkIwMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f35c99074e2",
+      "title": "Study suggests mechanism by which physical movement could be linked with brain's cleansing process - The Hindu",
+      "published": "2026-05-04T09:41:34+00:00",
+      "summary": "Study suggests mechanism by which physical movement could be linked with brain's cleansing process&nbsp;&nbsp;The HinduStudy Shows How Even Small Movements Can Help Clear Brain Waste&nbsp;&nbsp;NDTVBrain motion is driven by mechanical coupling with the abdomen&nbsp;&nbsp;NatureScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyFrom Lab to Life: How Exercise Helps Our Brains&nbsp;&nbsp;The Times of Israel",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdjNyeHl6Y19iSXJiSHRmVHlJQzAyd2ViOENXV1FjMTJVR3J4Q3Y4SVRmcUFVZWxnWWJ4VTNvSUZ5cGtmZHdkbTlnb3lfblFOWWtaRXA2N3VlelNER0lYY2FQbmt6U3lyc3Q0ZFQzQ2lKZjVRdFBmZDdEbll3eFBZMkpKdVF0ckIxcUhsaXdoOFZQaWdBMXlDMm5JZmRrbWlFMnVESnNrWHo0WDY2R181NTdxUEtPZE1EanJxU0NXNzFGOGx1LWNoTDhwVl9yelc4ZmlFRVZRT2oweHdfMEdraE5ZbHJfVG85X3VaaVBaa9IB9gFBVV95cUxPTHprYjl1VmtPbDg0Y0xrWE5QU0xrMmRLWVY0TmFkZ1VpSUVxUTIxV3FZZ3FsZnJHQkQwSVJfWmlvZ3VHZlI4TXFGUkR1TjBieUZCTTNpVkZpc2wybUlVRmFBZEhlODJ6eUlGSW1vV2FjTUN2MVVwblBLeEJjUWN5YXF0VVBHWUotc1h1anNINHJJSDVNR1dzUkFpb1FXSjFQY3ZmUGxiVVhNNHFaLUJDbTRTb2FoQnY0NGVBRnNVREs0cFRQZGVDTEtJVFN6ZVpuWUU2TGZaQ0RKcldHMXowRXpoMTdveFZ5ME1IUVJvMmdXOVo1Q0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c78d4c1a4dc",
+      "title": "Safer diazo compound synthesis advances medicinal chemistry capabilities - Drug Target Review",
+      "published": "2026-05-04T09:24:09+00:00",
+      "summary": "Safer diazo compound synthesis advances medicinal chemistry capabilities&nbsp;&nbsp;Drug Target ReviewJapanese Chemists Find Safer Path to Key Drug-Building Compounds&nbsp;&nbsp;News GhanaAzide-to-diazo conversion offers safer route to versatile diazo compounds&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "Drug Target Review",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGxiLTVsbzBIczJCa0M0U25Kd3J1TDhxb3BUaTlCUmhiYXk1Snlxd001QmVQSVdRLWVIMlhrb3JsYjVWa1I2bTlzQ21jbEl4SmNRbmxoVHZqejVXTjktSTl6MmcxT3hfSERvUEVEN3dnUlNTQjc4Tkk4RGlVWklEbWxSZ193bTdVbERtMTBHbnBNdW5OREVRbTVKQ2hLaGhCZTgwNXN5UnpLVmMzWVY4RDg2QjNTWWV5VmlMa3dR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e6866b060f5",
+      "title": "Mammograms May Reveal Hidden Heart Disease Risks in Women - The Indian Practitioner",
+      "published": "2026-05-04T09:21:28+00:00",
+      "summary": "Mammograms May Reveal Hidden Heart Disease Risks in Women&nbsp;&nbsp;The Indian PractitionerUPSC Prelims Current Affairs for 29 April 2026&nbsp;&nbsp;Vajiram & RaviI Let AI Look at My Breasts—and I’m Glad I Did&nbsp;&nbsp;WSJAI and CRISPR technologies drive proactive health monitoring&nbsp;&nbsp;News-MedicalHow Beth Israel is using AI to take screenings beyond the mammogram to assess breast cancer risk&nbsp;&nbsp;The Business Journals",
+      "sources": [
+        {
+          "name": "The Indian Practitioner",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlFTQ2RVV2tuOFd0Y3d4WmkwYUladXJNTEJYbWg5ZzhvQ0NpZ2RQVGtmMzE2MkVtd1pGdHp2ZDc5eDBOeHA2Z1BPN3VTZ1Z2UXFvMG9QUE1SS3JyckhNZVNyemc5Mk5SY2VUeXpPQnhNYjhOblVDUmVMbHNleGhqZlhpeGd3VzM3RGQ2V3E0ZEdMdUYxQy1F?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5908bbedb20b",
+      "title": "Breakthrough in magnon research paves the way for mini quantum computers | Newswise - Newswise",
+      "published": "2026-05-04T09:00:00+00:00",
+      "summary": "Breakthrough in magnon research paves the way for mini quantum computers | Newswise&nbsp;&nbsp;Newswise",
+      "sources": [
+        {
+          "name": "Newswise",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdElmUTBSeFdCMXFqcnpXT2xXVDVrZWFLSkRBZmxYMnRnVXZjS3h4TjBuazlFdm9kcDdRMURMS3ljZ2k3MTdSeWtUMXgtc1VJdmNWSGhQME1tcS12MGh6VENybHMwTTlBdFF4ejEyOW1ZSzZhM2VpWlNzbjJybktVLUhDY25EbUptd2pGSHJGRi16M0YzQjlVMG1nNXhsQ2Nzd0w4WGF2aGpHd9IBqgFBVV95cUxPdElmUTBSeFdCMXFqcnpXT2xXVDVrZWFLSkRBZmxYMnRnVXZjS3h4TjBuazlFdm9kcDdRMURMS3ljZ2k3MTdSeWtUMXgtc1VJdmNWSGhQME1tcS12MGh6VENybHMwTTlBdFF4ejEyOW1ZSzZhM2VpWlNzbjJybktVLUhDY25EbUptd2pGSHJGRi16M0YzQjlVMG1nNXhsQ2Nzd0w4WGF2aGpHdw?oc=5"
         }
       ]
     },
@@ -21,7 +141,7 @@
       "id": "f234f773b8ab",
       "title": "What illnesses can perimenopause trigger in women? Expert decodes the health risks - The Times of India",
       "published": "2026-05-04T07:55:00+00:00",
-      "summary": "What illnesses can perimenopause trigger in women? Expert decodes the health risks&nbsp;&nbsp;The Times of IndiaHow perimenopause is being missed, misdiagnosed, and under treated — two doctors explain&nbsp;&nbsp;Yahoo CreatorsIs it Stress, or is it Perimenopause? Understanding the Difference.&nbsp;&nbsp;McLaren Health5 things OB/GYNs want you to know about perimenopause&nbsp;&nbsp;The Washington PostBBC Morning Live Dr Punam explains health issue she hears 'every single day' from women in their ",
+      "summary": "What illnesses can perimenopause trigger in women? Expert decodes the health risks&nbsp;&nbsp;The Times of IndiaHow perimenopause is being missed, misdiagnosed, and under treated — two doctors explain&nbsp;&nbsp;Yahoo CreatorsHow Perimenopause Became America's New Health Scare&nbsp;&nbsp;The Free Press5 things OB/GYNs want you to know about perimenopause&nbsp;&nbsp;The Washington PostBBC Morning Live Dr Punam explains health issue she hears 'every single day' from women in their 30s and 40s&nbsp",
       "sources": [
         {
           "name": "The Times of India",
@@ -42,18 +162,6 @@
       ]
     },
     {
-      "id": "5774d436e9e5",
-      "title": "Deadly Hantavirus scare on Atlantic Cruise Ship leaves 3 dead, British passenger critical - The Times of India",
-      "published": "2026-05-04T06:55:00+00:00",
-      "summary": "Deadly Hantavirus scare on Atlantic Cruise Ship leaves 3 dead, British passenger critical&nbsp;&nbsp;The Times of IndiaHantavirus: What we know about the Atlantic cruise ship outbreak&nbsp;&nbsp;BBCWhat is hantavirus, the infection that has killed three people on a cruise ship?&nbsp;&nbsp;The GuardianWhat Is Hantavirus? The Disease That Killed 3 On Atlantic Cruise Ship&nbsp;&nbsp;NDTVWhat Is Hantavirus, Which Is Linked to the Deaths of 3 People Aboard a Cruise Ship?&nbsp;&nbsp;The New York Times",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSmtFNnV5RmdFd1IwR2JtYXI3VEhFU2Z1MkllN2V4V2toempPWUxYR3VzdFNwVWhuTldEaXhUV28yNWpmbW1LSzRidGpZWW1JWDgzaFI1cmg1Q1pEcS1DREM0dUV3TEtUSjdjU3E5czhyUGhYN3lzbE1aUEtCMGxCRVhGOXF5SVExWkw1OGV4aUE3VDZtR01NdzhXbXc3aUx2X2tjQlhoMDdwaVZjVHFkYmJGYUJrcXZhTXY4MjFkb2hjc0ZON2dCREJNeDRTTVhiWDBGMXVxbTJSTERxM3RmZjBiUXh2QjYzNkRlZFowTlPSAfYBQVVfeXFMUEJTRjYzNm9VRDVfeDNOQTJTZU55QlFnWHZwRUprWnl2ekFjZEFacEt1OUlnQ0FMWEx5U2hSR2Rlc3d2dnJidzdySGpzOHJkUno4bDdsNTdGa1VXRnZYNGxCR3FQTFctTmtxalF0UFgtTXhhTEhFZWRXajA0SjFScTZGOVRsNHlLaGhBcXgtb1RwazhJa0ZVelo1T1hxWVQwODJ2ZjNGUlVIVEZEYkUwaTRJRmpKdWJpNnJDTUc2cU5fRDliV2o4aEluRHpDNkptV1o4bWFZOExyUkpFYWc2aGEzVkh0SFA5WkNkVWNiT3l0Nmd6NmlR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7a1e912613a9",
       "title": "The bias in medical research: Africa carries a huge disease burden but is missing from clinical trials - Down To Earth",
       "published": "2026-05-04T06:44:16+00:00",
@@ -66,26 +174,14 @@
       ]
     },
     {
-      "id": "903e1fb137d7",
-      "title": "Prevalence and Predictors of Silent Myocardial Ischemia in Asymptomatic Type 2 Diabetes Mellitus: A Cross-Sectional Study From North India - Cureus",
-      "published": "2026-05-04T05:33:28+00:00",
-      "summary": "Prevalence and Predictors of Silent Myocardial Ischemia in Asymptomatic Type 2 Diabetes Mellitus: A Cross-Sectional Study From North India&nbsp;&nbsp;Cureus",
+      "id": "24f76d4e43e1",
+      "title": "Coartem® Baby: World’s First Malaria Treatment for Newborns and Young Infants Receives WHO Prequalification - drugscontrol.org",
+      "published": "2026-05-04T06:33:19+00:00",
+      "summary": "Coartem® Baby: World’s First Malaria Treatment for Newborns and Young Infants Receives WHO Prequalification&nbsp;&nbsp;drugscontrol.orgFirst malaria drug for babies is approved in ‘major public health milestone’ | Global development&nbsp;&nbsp;The GuardianWHO approves first malaria drug for infants under 6 months | Coartem Baby contains two antimalarial drugs | Inshorts&nbsp;&nbsp;InshortsWHO Clears First Malaria Drug for Newborns&nbsp;&nbsp;usthadian.comWHO Approves World's First Malaria Treatm",
       "sources": [
         {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPOTZWNE5sVDUzWkRYN0ZkYXBGY3kxRk42c203YkpRNkE3eHNHNXBzbU9ESzl4VVc3UW1fLVpYWTRxdjQxTGNOaEEzVUU2NlJ5TWpsSkt0VVpRY3V3bHJCT2E0bFRVVmNGb0ttRHdIa2hjLWRtZk1LaHJuVlA3eEQ3eWEySFBDTTlBQ0I1c18wUWphLW9FdGtPUjhneXpNMU1tYTJwNmxZOXNQN2hoQzE3R0VJTzNVc1Zjd3gwY2hCcXJVLWF2NUhMSGUxWFhoOWVqWnlHanUzN1VSd2F0RFpuaTJlVzNQY2Y1TU9OZ3NjUjJjeUY5dWQwUWdjRko3c0hHclhiTFptaDZmb1ZodktDbmdGdXNIT1lQWHRMNnlqOWo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02f61e686261",
-      "title": "NUS scientists unveil a faster way to “train” bacteria for complex tasks, like munching plastics | Newswise - Newswise",
-      "published": "2026-05-04T03:20:00+00:00",
-      "summary": "NUS scientists unveil a faster way to “train” bacteria for complex tasks, like munching plastics | Newswise&nbsp;&nbsp;Newswise",
-      "sources": [
-        {
-          "name": "Newswise",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYWRRSXc1Ql9YQlNPWEVLSnVfNktkZkZzcjUwNWhJdXNST3ptQ0d3dEEtWW5zWFB5Rm95SUdEQnBjM0otZUpDdHhJcWtZWDFQaGk4U2ZUZU5fVmRhR1lPM3pQTXJKYUIwWTZ4Mm1VWkY2bkdOZWxkbnhpR0Z5T0JLcnBYS2tER0xFMk5rSnMtTDlDc1VpZ0t6VHhnUDBVT3A1bmZ6RVZBbEMwVlRQbUc1MWpqX3F6VWdnTnNWbmJsUFE3YTRfNHfSAcYBQVVfeXFMTmFkUUl3NUJfWEJTT1hFS0p1XzZLZGZGc3I1MDVoSXVzUk96bUNHd3RBLVluc1hQeUZveUlHREJwYzNKLWVKQ3R4SXFrWVgxUGhpOFNmVGVOX1ZkYUdZTzN6UE1ySmFCMFk2eDJtVVpGNm5HTmVsZG54aUdGeU9CS3JwWEtrREdMRTJOa0pzLUw5Q3NVaWdLelR4Z1AwVU9wNW5mekVWQWxDMFZUUG1HNTFqal9xelVnZ05zVm5ibFBRN2E0XzR3?oc=5"
+          "name": "drugscontrol.org",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wWXdqa2k4ak1sTElXcmpDcFRyamNSYVRPbENmMG1mZExOWEpVYUxwT2tkajZqNEp5NnkzcXIxbzhreTVPeW1CWG1Nb3Byb29uUWNNdVhTcGlzRzZ3WnBpLTNRZw?oc=5"
         }
       ]
     },
@@ -102,10 +198,22 @@
       ]
     },
     {
+      "id": "e603e304cfa9",
+      "title": "One Type of Exercise Can Give You Better Results With Less Effort, Expert Says - ScienceAlert",
+      "published": "2026-05-04T01:36:36+00:00",
+      "summary": "One Type of Exercise Can Give You Better Results With Less Effort, Expert Says&nbsp;&nbsp;ScienceAlertPut those weights down! How ‘eccentric’ exercise opens up a whole new world of fitness&nbsp;&nbsp;The GuardianNew Study Says You Don't Need Hardcore Workouts To Build Muscle&nbsp;&nbsp;NDTVThe Five Minute Workout That Science Says Actually Works&nbsp;&nbsp;Men's FitnessYou don’t need intense workouts to build muscle, new study reveals&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaVk5cEN6T2Zzb3RkaDVWZFNWSWh3NXdCTFVtUGJwdW9DQXk2NGJMTmxhWE5QVGJtTmU0QnBrc1NGdXhKb0pmcEpCY19SY0VNVnUtaWR1THhTdWFwMThFT0NyRHk4dEw0T2x0ajFVbEhuWlk5cGhqcy0yVGdWQU4xcnVLYVFOSE9kck1mMEZYQ1V3OTFhMVpQa3hHaXc0T3Q0VzlPNkk4aHVsZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f81489371cec",
       "title": "Chennai’s ‘hottest’ days: Why your eyes need protection on the road - The South First",
       "published": "2026-05-04T01:31:23+00:00",
-      "summary": "Chennai’s ‘hottest’ days: Why your eyes need protection on the road&nbsp;&nbsp;The South FirstEyes to kidneys, summer spares nothing&nbsp;&nbsp;The Times of IndiaExperts advise caution as heat, dust trigger surge in eye problems&nbsp;&nbsp;The TribuneHow Heatwaves Affect Your Eyes: Expert Tips To Prevent Dryness, Redness And UV Damage&nbsp;&nbsp;News18How to protect your eye health in the sun – and why it’s important&nbsp;&nbsp;The Portugal News",
+      "summary": "Chennai’s ‘hottest’ days: Why your eyes need protection on the road&nbsp;&nbsp;The South FirstEyes to kidneys, summer spares nothing&nbsp;&nbsp;The Times of IndiaExperts advise caution as heat, dust trigger surge in eye problems&nbsp;&nbsp;The TribuneHow Heatwaves Affect Your Eyes: Expert Tips To Prevent Dryness, Redness And UV Damage&nbsp;&nbsp;News18How to protect your eye health in the sun – and why it’s important&nbsp;&nbsp;theportugalnews.com",
       "sources": [
         {
           "name": "The South First",
@@ -117,23 +225,11 @@
       "id": "b6972ec9821a",
       "title": "New “optical tornado” technology could transform quantum communication: Study - Nepalnews.com",
       "published": "2026-05-04T00:58:36+00:00",
-      "summary": "New “optical tornado” technology could transform quantum communication: Study&nbsp;&nbsp;Nepalnews.comTopological control of chirality and spin with structured light - Light: Science & Applications&nbsp;&nbsp;NatureWhat Are Optical Tornadoes? Scientists Create Swirling Light for Quantum Tech&nbsp;&nbsp;Open MagazineLight unlocks full polarization control at ultrafast speeds, reshaping photonics&nbsp;&nbsp;Phys.orgResearchers demonstrate light shaping in empty space for the first time&nbsp;&nbsp;",
+      "summary": "New “optical tornado” technology could transform quantum communication: Study&nbsp;&nbsp;Nepalnews.comWhat Are Optical Tornadoes? Scientists Create Swirling Light for Quantum Tech&nbsp;&nbsp;Open MagazineLight unlocks full polarization control at ultrafast speeds, reshaping photonics&nbsp;&nbsp;Phys.orgResearchers demonstrate light shaping in empty space for the first time&nbsp;&nbsp;Tech ExploristResearchers discover a new way to control light in empty space&nbsp;&nbsp;The Brighter Side of News",
       "sources": [
         {
           "name": "Nepalnews.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTRGbXhXOGI4SDdnU0F0SjJHcXc3RVZQUmFUenBjd2RrcXFQQmdQb0RPSjBqNkxEM3MzcUJBeEtNUGotcnpKbGdja3lEeHpQRkpmTEl0dU9VcUtWbkRYZUdDTmxqekVsV2VYYU1qY1VheWxuUTkzUF9iem5xdFNVNTJsQ21uWS1OcVRaUXFXNDE4REFhYUZiWU54Tkh0cWhHMFM0OWdqVXhZTUlMY0U0NTN6bzY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9fcd28fa0fc3",
-      "title": "Pack in that protein - Mumbai Mirror",
-      "published": "2026-05-03T22:30:00+00:00",
-      "summary": "Pack in that protein&nbsp;&nbsp;Mumbai Mirror4 subtle signs you aren’t eating enough protein&nbsp;&nbsp;The Washington PostProtein isn’t enough: Rethinking nutrition for a healthier India&nbsp;&nbsp;ET Edge Insights‘Protein is everywhere’: Dietitian advises how to separate fact from fiction during the protein boom&nbsp;&nbsp;WFAADietitian Reveals the No. 1 Protein Habit That Drives Her 'Insane'&nbsp;&nbsp;TODAY.com",
-      "sources": [
-        {
-          "name": "Mumbai Mirror",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNHNWTm9TQkNWekpESDV3Y0NRemdNNFUwRU9udF95UzUySjNpZnByM29nblRNemtMdE9mRjI1Y3B6VjF3TUlib3gyUnd5cFo5TkFUOTZ2emprUzRpS0NPcGlrNHhvX3pLVW5XeW9OcnlmT3B3RVY1Z3NVbjhYb0NUR09LelVEemlpYnpsQ2x2M3JoQXJEZ2VGZTdn?oc=5"
         }
       ]
     },
@@ -150,14 +246,14 @@
       ]
     },
     {
-      "id": "797ed7ab2844",
-      "title": "Rising temperatures could be driving up antibiotic resistance in soil, 11-year study finds - Phys.org",
-      "published": "2026-05-03T17:10:01+00:00",
-      "summary": "Rising temperatures could be driving up antibiotic resistance in soil, 11-year study finds&nbsp;&nbsp;Phys.org",
+      "id": "f0fda78f5bc6",
+      "title": "4 subtle signs you aren’t eating enough protein - The Washington Post",
+      "published": "2026-05-03T17:00:00+00:00",
+      "summary": "4 subtle signs you aren’t eating enough protein&nbsp;&nbsp;The Washington PostProtein isn’t enough: Rethinking nutrition for a healthier India&nbsp;&nbsp;ET Edge Insights‘Protein is everywhere’: Dietitian advises how to separate fact from fiction during the protein boom&nbsp;&nbsp;WFAADietitian Reveals the No. 1 Protein Habit That Drives Her 'Insane'&nbsp;&nbsp;TODAY.comThe truth about ‘protein maxxing’&nbsp;&nbsp;San Mateo Daily Journal",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdkx6M2lDWFJwaUk4RllWLWpHYzNnMExEWm5yVUxxWHVLTl9wQjBZREUzaURzMXg2UEFzWnlTbVFaMTd0dXRJQ0NjNnJYZ01pRjh5SzhmV21jTXFCTy1EYUs4dGZSTnl2R3BvSUxXU0VRUHlOQjNBUnVKQjFvU0c1R2NVMlRndw?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFhJU1Y2aTZTV3dSdlMzSERja2ktY1lKRzlMcGRNbjNrZUdqVXpQQUZ3OWZ1SzVnY0IxaGxTYTZUUXFYVHBsX2xYRlVrSjByZzZXcnFCWDc4YXhscjcxQkNrUmlYWFBvemZmbmZzRXJGR1Q3ODlJTkxMb0dkcHFOd0dZWQ?oc=5"
         }
       ]
     },
@@ -186,18 +282,6 @@
       ]
     },
     {
-      "id": "c9636efa0ddd",
-      "title": "The creepy feeling in old buildings might have a surprising cause - ScienceDaily",
-      "published": "2026-05-03T15:28:59+00:00",
-      "summary": "The creepy feeling in old buildings might have a surprising cause&nbsp;&nbsp;ScienceDailySpooky feelings in old houses may be caused by boiler sounds, study suggests&nbsp;&nbsp;The GuardianIs this place haunted? Science can explain that unsettling feeling you get sometimes&nbsp;&nbsp;India Today‘The cause might be vibrating pipes rather than restless spirits’: increased stress and irritability from infrasound exposure may explain paranormal experiences&nbsp;&nbsp;FrontiersThe Haunting: Low-Frequ",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ubjd6emtaS0FkdHdGc3BfN2ZvVHhJRnA4aV9ZME0ydWdWd19Uc3FEdmpiLWNVa01wRGJ1VldsdlNET1VnRnFlazR1a1JXcEowc3Rvd2FSbWc1MzYwWWFVNXM4VEE5dzB3RkIzR3o5RQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cc3e5bf7e680",
       "title": "Postbiotic Cuts Allergic Rhinitis Symptoms in Trial - EMJ",
       "published": "2026-05-03T14:05:21+00:00",
@@ -206,18 +290,6 @@
         {
           "name": "EMJ",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2xGZTVORGsyNlJrRXFHeEpNX3RsLTFkc21jMVVnN2YwVUN1TndKSWVxVkNUWE5HSnUtbWpJVGhFNXNuNXVGSVRpQ0JtYzA3SHhEZ1kwc2p4c0xUSUt3eVRudDhueE5PTGxucURsekt3TFJSVDlSc1RENjIwaEgxZDhDY0JqYko1TDNOOGk3aDNtSXJXdzNURzJmWWpzclhSdUlIbnln?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "edfa4b6b921f",
-      "title": "Physicists just found a tiny flaw in time itself - ScienceDaily",
-      "published": "2026-05-03T13:42:19+00:00",
-      "summary": "Physicists just found a tiny flaw in time itself&nbsp;&nbsp;ScienceDailyNew Research Suggests Quantum Collapse Models Could Influence the Nature of Time&nbsp;&nbsp;SSBCrackMystery of Time Deepens as “Strange Physics” Study Reveals New Links to Gravity and the Quantum World&nbsp;&nbsp;The Debrief",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxN0FXX25lYUVuakVIMlNuTWc0Rk1aeEFrMDBYbUR3eUUwM3JRVFlrZlA4Y2tTTXdmMi1kZ3FWaXlRVE5yZmRubkNkLVdtZDZPOEVMc2JfbVNvRjBubEtRbE1RNjZwelRuU1pQZ19kOA?oc=5"
         }
       ]
     },
@@ -234,70 +306,10 @@
       ]
     },
     {
-      "id": "9aeabdcd2c68",
-      "title": "Dr. Reddy’s Laboratories Gains Health Canada Approval for Generic Semaglutide Injection in 2 mg and 4 mg Pens - geneonline.com",
-      "published": "2026-05-03T12:53:12+00:00",
-      "summary": "Dr. Reddy’s Laboratories Gains Health Canada Approval for Generic Semaglutide Injection in 2 mg and 4 mg Pens&nbsp;&nbsp;geneonline.comHow a newly discovered organelle could help reduce cow methane emissions&nbsp;&nbsp;Phys.orgScientists just discovered what is fueling cows’ potent burps&nbsp;&nbsp;Scientific AmericanMicrofluidic Device Uses Electric Valves for Automated DNA Extraction&nbsp;&nbsp;geneonline.comChemistry in Pictures: Glowing gassy gut microbes&nbsp;&nbsp;C&amp;EN",
-      "sources": [
-        {
-          "name": "geneonline.com",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2Ewb25nOWJ1TjVhNmRoSjEzcHdfckNmTE9ZR2o1N3FudFJ4SlloRk9PdkxfeGMwZHlTN2FZYUhPdV9FRFlCcUFiS3NxQW4zN3dFb3duNjlhSGl3M3YyQklqM3lkODBNbjF1blVlZmxwbGNnTUsweDlkSlVDcmJLZ2pVZTVncFJUT3EweXY2ZWV3UWJaOGpXb0ZsRXdIY242QTFsMnVOMWUwU3ZxRnFMVVQ5MkpXTUpmRGdEZjd1RWRzRGdjM2ZlblFwSURXclNU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4834be732065",
-      "title": "Study Identifies Aerobic Exercise As The Most Effective Physical Activity For Knee Osteoarthritis - NDTV",
-      "published": "2026-05-03T12:39:51+00:00",
-      "summary": "Study Identifies Aerobic Exercise As The Most Effective Physical Activity For Knee Osteoarthritis&nbsp;&nbsp;NDTVThe Most Effective Knee Arthritis Treatments Aren’t What You Expect&nbsp;&nbsp;SciTechDailyAerobic exercise identified as leading option for knee arthritis relief&nbsp;&nbsp;Dagens.comDiscover the most effective activities for improving knee health&nbsp;&nbsp;Deseret NewsScience explains why aerobic exercise works best for knee osteoarthritis relief&nbsp;&nbsp;The Indian Express",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaW9MZTR6MDlGZHVpV2RSSGU3QzFpVkRvdmpMRXZpdjd2YWUzQkY4a05JMHhZZWhRa2puOHdkYy16X1RFOG1kdmRiWWQ3NFFSd0lpdFk5N2hPUHQ0WUdfODh2NmRZRFVrSWg2YkxrdkZtblR5NWtxczdEMXV5WVFTZTBVUk44eHp6UnFEZDdLMFJXekFoZ29ZRXNlSVBiUUxtZjRPemFiODhTZk9BSjZhbG1Cd0JIcFZxa2JzTV9vbUJ6QnRzd3B4RkxrNlFPVDjSAdcBQVVfeXFMUDFhNFFyWkdoWWdhWEJXOHVZX1ZQd1V4eHV1eDMzWERXMEhUN3U4MzZhNng0Z2oxemhySzNWX2o4N2QwWlVheHhHM09jMEVfaWN4bjZyX1JyOTdPNFQ5RVhZM0Z3VVk3bXJUbDFWM19DQUZRcFp2Yi1wc0VLN0RvMXJ6dkFzWmUzSXJ3QzVtNzVHU21UT2RhM3hYWVVFNUh1WVZtV1p2QTl6UU9iSi1DbGlRSXQ0R1h2TFZOeEkwVFlhVFhLcXN1TXFHVlp0am1Kemdval9OMEU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d21ea50a1752",
-      "title": "This New Material Kills Viruses the Moment They Touch It - Indian Defence Review",
-      "published": "2026-05-03T12:30:00+00:00",
-      "summary": "This New Material Kills Viruses the Moment They Touch It&nbsp;&nbsp;Indian Defence ReviewView Full coverage on Google News",
-      "sources": [
-        {
-          "name": "Indian Defence Review",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwT3dTcWphTUlHMXNwUmtsb3FueTdhMWUxdmRJOXFPNE40VGM3V2hxc2x6XzJaaUh5MHdRQ2FHcC01UFVWWU9kTG1RTnRsblYtbDd1YVh1MlZlNVFwZlZHUlNqRU5fLWJMTVZYS0JfQUtjUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c21649d32bc9",
-      "title": "Bangladesh Measles Outbreak: Death Toll Rises to 280 as Suspected Cases Top 38,000 Since March - The Sentinel - of this Land, for its People",
-      "published": "2026-05-03T12:04:39+00:00",
-      "summary": "Bangladesh Measles Outbreak: Death Toll Rises to 280 as Suspected Cases Top 38,000 Since March&nbsp;&nbsp;The Sentinel - of this Land, for its PeopleMeasles kills 100s of children in Bangladesh, outbreak ‘linked’ to vaccine procurement change under Yunus&nbsp;&nbsp;ThePrintBangladesh measles outbreak: Four more children die; toll rises to 280&nbsp;&nbsp;suryaa.comAnother child dies of measles-like symptoms in Cumilla&nbsp;&nbsp;The Financial ExpressConfirmed measles deaths in Bangladesh reach 50",
-      "sources": [
-        {
-          "name": "The Sentinel - of this Land, for its People",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU2RTY2l3OHRIOW5SenVTcWNTb1BTam1fQXJUNjJBM2VVUEp1Xy1udmhpR2NOOXhzUVU5TkN0eGlLcmVXSURDU0FxQ29yamRRaFRoRjhWbkZwLXlGMmpwZWkzNTYwTm42RWhpMWswdnpIM1BzQkpEZjBRR2RNODN2WkpkVnRvQVFVQXNsU1hPY2JpNkxUekhDejBuVXk4VHY5Q2xsOVpOV3lqWlFDWWYwcGRKbmp6cm0wQlZfc1lyODN0Uk52YWFmRGI2MnhUdEtjLTBaOEEtOGJlc29ua2RR0gHsAUFVX3lxTE9kcU1fRkdzbGd4R0xkbzJrV2pvLTNhOExaODlPRUlVOC1aRlF4RTh0TFdIRmE3NXNhLVZ0a1NyOEtOTUJBRTJtOEN5ZmdDY0VqVUc5VnptUlM2bzZ4WHBMcFNBZVVkUFYzRzBacENtd1hNUzViRm5YaGJwVmE0Vzl4VndFcHY3V1Z6SDdzaXh0WWlHVm5obWFuazFDbms0T0w4VXFQMjF6R0lVbkF5WVBTbTBvWkFxOXo4TTBVcnhURDJjX05abV84dWUzTGNwZm1YbzZueUM4b2JRcFppWWJUNkdHS3Vnb3liektn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5a194cbdc740",
-      "title": "Six of the best exercises to preserve strength for GLP-1 users, according to an expert - Fit&Well",
-      "published": "2026-05-03T11:00:00+00:00",
-      "summary": "Six of the best exercises to preserve strength for GLP-1 users, according to an expert&nbsp;&nbsp;Fit&amp;WellNo Need to Worry About GLP-1-Induced Muscle Loss&nbsp;&nbsp;MedscapeA domestic research team has found that continuous administration of glucagon-like peptide-1 (GLP-1)..&nbsp;&nbsp;매일경제Researchers link popular obesity drugs to muscle loss via metabolic instability&nbsp;&nbsp;동아사이언스GLP-1 use doesn’t contribute to increased muscle loss, study finds&nbsp;&nbsp;NewsNation",
-      "sources": [
-        {
-          "name": "Fit&Well",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU3ZkMUQwTUZEZnBZS05IbjY1bWlUM0F2SXB3ZGpwSFJ0bVkxaThqaVYyOExOX01tWVh5a1Joc2dtUHo0MUFOUEJ3VDZlZFRraFNIc1RpRUpMUWJPRDFuS2FnZTNfX0E5YU5LNmZOOXROVndxdnlGYlVldFZ3SllWU3dzMlZNQ2ZvSGw1Y25ucWV6dkFnWXNQRFVWZmNUenhtTkgwbWZFaVc0WlhQVS14Q3d0RWU5VFlZM0sxWDNpc01VLVRZWE9yampzNk9uOGRVXzROWUtR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1fdfce51d61e",
       "title": "no heatwave warning for mumbai-News in Hindi | News Headlines / Breaking News : Haribhoomi.com - UNITED NEWS OF INDIA",
       "published": "2026-05-03T10:39:14+00:00",
-      "summary": "no heatwave warning for mumbai-News in Hindi | News Headlines / Breaking News : Haribhoomi.com&nbsp;&nbsp;UNITED NEWS OF INDIAThink vaping is cool? Doctor explains 3 reasons why it can be even more harmful than smoking cigarettes&nbsp;&nbsp;Hindustan TimesA Beginner’s Guide To Newer Nicotine And Tobacco Products: Nicotine Pouches, Heated Tobacco And E-cigarettes (Vapes)&nbsp;&nbsp;OncodailyE-cigarettes: A modern fashion or a deadly trap&nbsp;&nbsp;Views BangladeshPublic Health Concerns Grow As E",
+      "summary": "no heatwave warning for mumbai-News in Hindi | News Headlines / Breaking News : Haribhoomi.com&nbsp;&nbsp;UNITED NEWS OF INDIAThink vaping is cool? Doctor explains 3 reasons why it can be even more harmful than smoking cigarettes&nbsp;&nbsp;Hindustan TimesA Beginner’s Guide To Newer Nicotine And Tobacco Products: Nicotine Pouches, Heated Tobacco And E-cigarettes (Vapes)&nbsp;&nbsp;OncodailyPublic Health Concerns Grow As European Union Labels New Nicotine Devices A Threat&nbsp;&nbsp;NDTVVaping lo",
       "sources": [
         {
           "name": "UNITED NEWS OF INDIA",
@@ -306,26 +318,14 @@
       ]
     },
     {
-      "id": "dabf38a4baa3",
-      "title": "Peerless Hospital highlights adult immunization in Guwahati - The News Mill",
-      "published": "2026-05-03T08:52:20+00:00",
-      "summary": "Peerless Hospital highlights adult immunization in Guwahati&nbsp;&nbsp;The News MillFrom Smallpox to Polio: The Deadly Diseases Gen Z Never Had to Fear Thanks to Vaccines&nbsp;&nbsp;Times NowStrengthening Adult Immunization in India: PCV20 and the Changing Landscape of Pneumococcal Disease...&nbsp;&nbsp;Medical DialoguesFree seasonal vaccinesavailable across Qatar&nbsp;&nbsp;Qatar TribuneWorld Immunisation Week 2026&nbsp;&nbsp;MSF Access",
+      "id": "a388eab1ee19",
+      "title": "Children May Face Higher Cancer Risk From Chemicals In Water And Medicines, Says Study - Times Now",
+      "published": "2026-05-03T08:40:33+00:00",
+      "summary": "Children May Face Higher Cancer Risk From Chemicals In Water And Medicines, Says Study&nbsp;&nbsp;Times NowNdma Exposure And Children Cancer: Children at higher risk from carcinogen in water and medications&nbsp;&nbsp;The Times of IndiaChildren May Be More Vulnerable To Cancer-Causing Chemicals In Water And Medicines: Study&nbsp;&nbsp;NDTVCan PFAS Exposure Raise ALL Risk?&nbsp;&nbsp;The ASCO Post'Forever chemicals' in newborn blood linked to childhood leukemia&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "The News Mill",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGEyT3pmTWJZZkFsMzhmeDdFWjdSaEVVdFZ6YWpzUXpZaDZ5TFZYd2R3dnpMaDZBNEp1UzJJRGhQYkF1cmI1Qmh5OXF3TU11eVdQVklFR1NrTnNuXzc0MlNBendTdFptOUltV09SemdBTHlhN0dleWdRVnJ6RTczQTNYTmJoMWM4MVZFbDZZQW5HT1YyMGp4NVN3Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1b2a018e307",
-      "title": "Tamannaah Bhatia's fitness trainer shares healthy recipe for high-protein chocolate peanut butter bowl | Hindustan Times - Hindustan Times",
-      "published": "2026-05-03T08:10:04+00:00",
-      "summary": "Tamannaah Bhatia's fitness trainer shares healthy recipe for high-protein chocolate peanut butter bowl | Hindustan Times&nbsp;&nbsp;Hindustan Times",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbTNacTRMcnRCQkhSc0hLckdEU18zVDUwdy1UU1NfMklRa3I3dEx3RWIxTUZ6R3JpRFBLMTQwZHhEampkT1Q3Tlh0bXk4VHU4M0dFNTBaZ3ZoTWhBUWpob241RXQ4aThiVmp5Y3NWMG1wWnFNVC1FaVJ1WU9NWk9FRW5VM2Jpd1Z0Z3NGOU1EVHROWndKTGpuVU52eVE3LVAzZF9uZ1JTalBJYjYtMUZ1d0lKTDNrTjVMdWVCaXdVNEJ3UVJGMTZ1cm15Z3NQYVI3ZUtEZW9qTmVUUTFscDExZnBNczR4V0lLU0g2R1oxd0dtMVp6bU1PU0loQUlPUdIBgwJBVV95cUxOZUNlcUZYYWdWRnBUVlljWl9JVmpjWjBXMkd5bEZvODJpSVBFUWZiM0NKS3NTdWx3cVlfdWNEVGNHVTVrNHBGYkZsYjVtakNnNDUyUjVZYUM4NnJiWndqRG1WRkpGNWhhU3NCNjhESl91Z29TRUQwRWpDSnpKdm84OU41X0FZUTQ4Z2RQMEE2dC1FcmFmTmpPemQ0djRWY21FSmliamptdVNza3R3amxySEdodlJSU2pRa1ZGUm80aXVzcGU4bGdiS1BtZ19XT08yN01Sc2djVUVvZ1Z5U3Z4V1U3UTBRZWZ4ZTJDcWkxSmEzV3pqQ0FsVHBjSXNSRHQ5eWFV?oc=5"
+          "name": "Times Now",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd0t0ZWpXdWU4QTR2QnVTNk1qME9iLXZfakRZeGZ6STFpWVZtLW0tOWdhOGR1Yi1JV0FtU1o1UDJkWHVZNDh3R3FYYkJ6amppQjFZWnlUMEpPdGptaWwzUjkwRzEzUm9tV2RIRG9WbWpocFdPaVdEVXBRMndzSmtFQ21adUpWUVNlZFh2aWZpWDl2RnB6N3E2bVg4OWpjTE9rcmZ3dERTNnE0VVUyRXpsUE1ycjF5d3plc0tEeThPeDI0d1U4WFBiM093NzBmMF82ME5UTnpn0gHbAUFVX3lxTE85aUc3TXl6RXQxbGxJNkdHWnVlTlIyNm5tMzdOTDBnTmJqZ0hTNjJlWGFTMklibUw3ZWZ6a19ISHN3ZWVCVEhfLUI5cV9ucHdkVU5LS3ZJSEpyb201TXFDd2VVaExzX2R3ZEZybkxEVlRuaGZGbjJhYUdZV3lmc1BlSUg2M25TbU9DNnd4QjNud1JHUDhiRXdhREUtdVRJcTRxV3BRQUVNWEtJZHZzV29LX1NIRFMxOTFVT2hNakx1dUVQc3l3bUxXWmF6VU5mdjdpRDhxVDVqWVhESQ?oc=5"
         }
       ]
     },
@@ -342,14 +342,14 @@
       ]
     },
     {
-      "id": "f3ac7c375386",
-      "title": "Is drinking more water enough to stop kidney stones? New study says not always - Mathrubhumi English",
-      "published": "2026-05-03T06:15:38+00:00",
-      "summary": "Is drinking more water enough to stop kidney stones? New study says not always&nbsp;&nbsp;Mathrubhumi EnglishCan Drinking More Water Prevent Kidney Stones? Study Says No. See What Really Helps&nbsp;&nbsp;NDTVKidney stone prevention: Hydration alone doesn’t work, study finds&nbsp;&nbsp;Cleveland.comDoes drinking water prevent kidney stones? Here’s what experts say.&nbsp;&nbsp;The Washington PostCan Drinking More Water Really Prevent Kidney Stones?&nbsp;&nbsp;RTTNews",
+      "id": "f9f6848144a4",
+      "title": "Astronomers trace origin of cosmic buckyballs - News9live",
+      "published": "2026-05-03T06:35:37+00:00",
+      "summary": "Astronomers trace origin of cosmic buckyballs&nbsp;&nbsp;News9liveIn The Heart Of Planetary Nebula Tc 1, A Buckyball Of Buckyballs&nbsp;&nbsp;astrobiology.comNew images captured by the James Webb Telescope show a star in its final phase in the Tc 1 nebula 10,000 light-years away.&nbsp;&nbsp;CPG Click Petróleo e GásJames Webb Telescope spots rare “buckyballs” around a dying star and scientists are puzzled&nbsp;&nbsp;The Times of IndiaJames Webb Space telescope detects Cosmic Buckyballs in distant",
       "sources": [
         {
-          "name": "Mathrubhumi English",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUVESHkwZ0NKV1VXcEhGTFc2S0tVcGxtOGI0c3MtamZEZDZOYThUbG9nRFVMNUY0RmFjby0tdmZaZVBhRnpDT2kyZG1NMWVEbEV0SXZySW95UndHd1dSek5RQU9rQUowSUo1ZlZYLXZoUW1Cd0xIWXRJTXFvS1RLa1c1aVNpV0dmSURCeEZhSk1EWVpSV2tGdm92ekw3Z3F0VnhN0gGoAUFVX3lxTE1rcFFOVGE0bUFHQXBYbEpodE9GMzVWVjNhNjhpSi1XeVdGUFVsanl4UUZleV9OZmkxRXVKaURRdmprNzRyS082QmZQMDMyNDBILVVseFFIaHl6SUloaEtUcDJLWEhTN3M5alAxWjQxeEVzVDhVZG11ZDF3Q3dMeDVBakRKMGFTbmZWVGE2WFhmam95dWJ3ZFVEdWF0cEVMamEyNEpFQXlpWQ?oc=5"
+          "name": "News9live",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUVhFTm1MUFNMTmpweDZQUlBFMVhpRlNRZnFsRjdSYnN5NlUxNFRETU03LVhsbkVQaEJzS3BMOEp0LXdWMkYzRTFlS2kyc0YxaXlKN3d1YzRmRUhMNjhOUDJ1ejFsdThMZnBWRDdSSzg4MFoyMnl5ZGRpOEdCRFl6aFVSUDc4SzF2QW93eFB5SmTSAZYBQVVfeXFMTzV4WHhQTnJ3YjMzSzBaYjZ0QlBHQW41a2ZELXdLdlZnSlZaYS1CV0lvdEFjeE9RczRMLTY5TFI0dkR3amRTMDJKVHdiaVRhaU1VQkdhaUw1b2U2OTEwdGVudVd6NDZ6MjRVS3pydW9STUlha0NzUnBkLVozMmFYTkhWX2M4VEp0R3Nxb3U2QTZUSFMzTE9n?oc=5"
         }
       ]
     },
@@ -390,26 +390,14 @@
       ]
     },
     {
-      "id": "e760c20a70f9",
-      "title": "T. Rex Blood Vessels Discovery Reveals How Dinosaurs Healed Injuries - ColombiaOne.com",
-      "published": "2026-05-02T23:44:00+00:00",
-      "summary": "T. Rex Blood Vessels Discovery Reveals How Dinosaurs Healed Injuries&nbsp;&nbsp;ColombiaOne.comView Full coverage on Google News",
+      "id": "71daa49589c2",
+      "title": "Not just back pain: Doctors flag hidden toll of ankylosing spondylitis - The Times of India",
+      "published": "2026-05-02T15:34:00+00:00",
+      "summary": "Not just back pain: Doctors flag hidden toll of ankylosing spondylitis&nbsp;&nbsp;The Times of IndiaAxial spondyloarthritis – how to recognise it and what to do&nbsp;&nbsp;Pulse TodayHow Ankylosing Spondylitis Goes Beyond Just Chronic Back Pain: Doctors Explain&nbsp;&nbsp;Health and MePatients are being forced to risk irreversible damage to their spines – this must end now&nbsp;&nbsp;Daily Express",
       "sources": [
         {
-          "name": "ColombiaOne.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbzFGa05HYVFOZzRUckdVZ1hUUTh2blZQYXJ4ZDJsa2ZMdHVzSHVqZnJxT0dtazVXS3UxTWdmbVpycUZiX283NlV4Rk95bDdpT1dTdktIbEZqVmczSk91Uk84RE8ydTFOVmhZUEF1akEtWGlJUDIxVmN2NnZDVG9PZTlKZnFfWWdHRGQ4Qi1PZ1dvSmxsbEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3c2c786f077",
-      "title": "Beyond GLP-1: New 5-In-1 Compound More Effective Than Semaglutide For Diabetes And Weight Loss - NDTV",
-      "published": "2026-05-02T18:29:17+00:00",
-      "summary": "Beyond GLP-1: New 5-In-1 Compound More Effective Than Semaglutide For Diabetes And Weight Loss&nbsp;&nbsp;NDTVGLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice&nbsp;&nbsp;NatureFive-way obesity drug is super effective — in mice&nbsp;&nbsp;statnews.comFive-target drug beats GLP-1/GIP therapy in obese diabetic mice&nbsp;&nbsp;News-MedicalHybrid molecule shows enhanced metabolic effects in obesity study&nbsp;&nbsp;Drug Target Review",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXNHR0VSV0staXNlbHgzS0ZDZkZUR1VaeFEtYkExTG95cko3ZTZDdkNDaFdQYTJDanhiZFhxaVdJbi1SX0s0bEVOSjg2QXI5dzY3Zk5mUzFwemhpZmdFMHFYUDBzc0k0OV9KSVNWYnl3NGxVSXVteWE2UXprWTVTSFZDR1FhUndyLWJhaFJia0NnMldoZDlVZWhCMWI0b2hjYWtpRzN0azlmcnRoVXB2S0RYNGxiMnRxNE5RZ3VTOTA1cFU0VHVncU1RUdIB0wFBVV95cUxNNUFaZ3g1Tk9uMW1NQXY5QnM1LVJ5SnQxR0NleDFIcTVELTMtdllJRkhjX2NmM2s2b1ItVnpZWTJKcVZhRUFPRW16WmZJSWRrY2dsQXlFRjZkWGZUMFM4eFVHTTVfcm9ETkNaVmkzVWd4aWZseTBfU1ZXUFZHMzVocGdvUURBRFVlcXpXNUlKN3ROMmZhLWVqMnp4b1NneWExS2lxck1uNFpMVGxuY2RZSW5VWFUzWXF1TFJGZmdtZ0JQVW9CUnBKVGZUVFAtSVNPT2dr?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc1RFb0xrQml6R3FvblVjanJOSkozVGFOaW9rZ0tHYjRFTUh0VmRZeEM3YkxGNDNHa1pkTnJlUkp4TU56N0JyTmhocnN2UE1EWU1BZk90WHdYb3RqUUUwOTRzRHFVbm5xMkJyNW8xUU5hV1E0X1AwaXlIRlRKWkVrM0NQS3dXTWRxdUx0LWNWQzZmZjRGZWk3b0cwOERxUEZFRG1wZkplQmpsalJGVEJoTUFaTC1nLXdCdl96RFB2MzBmLWU2UUQxSldaUS1DYmlTNEd6WWQ3a2dTQdIB3wFBVV95cUxPWmx1UnJISlNfS0FfTGx6LTVMbVkybjdHejdtZTdSNV9ldjA5Sng3dE9ZSC1zTjBuSmFPTjRSeW90bjNCUUItVFFreGE0MXlzWld0Yi1VQldVYjRlejBIdWc3YXpleG9SRGRrTnZaX3UtSzF3TGdVSi03Rkd0eFZyOGR4RU52ZV8zY0ZvLVRDNlJjNHBWNk5FLXY2T25KdzJtWk5LeUpPcWs2TnVDWXJZam1QMWtaVHNNTWpJd1NpQVhyR3dwbUoxekVZRll6cUZBbE9fZVdVbnZTSUtQWVV3?oc=5"
         }
       ]
     },
@@ -422,18 +410,6 @@
         {
           "name": "The Debrief",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1IyenBVZjY3amJDRFBmVFJpcFRTbGQ1eE0yTUo2TjNRV1cyY3FlbDJuWWkyVUJrVWZXQm1yWXp4Y2dkeTJNU2JaaFRwS2NQdm9lWi01YUUtNmRiNVl2bnVRMVpIUmd6NFJ1ZVhydmlpNmE3WUo2VFEtUkdrcElCMWJZN0VrZHdobFJCQkZSWGNaNGtoSWp2SXpVLUE0NDF2RnpjcDl4Y1p2a0RrY3dYZnhRNUtsZG9maHAw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7a46deb444a9",
-      "title": "Children may face higher cancer risk from chemicals in water: study - madhyamamonline.com",
-      "published": "2026-05-02T14:57:52+00:00",
-      "summary": "Children may face higher cancer risk from chemicals in water: study&nbsp;&nbsp;madhyamamonline.comNdma Exposure And Children Cancer: Children at higher risk from carcinogen in water and medications&nbsp;&nbsp;The Times of IndiaChildren May Be More Vulnerable To Cancer-Causing Chemicals In Water And Medicines: Study&nbsp;&nbsp;NDTVCan PFAS Exposure Raise ALL Risk?&nbsp;&nbsp;The ASCO PostChildren May Face Higher Cancer Risk From Chemicals In Water And Medicines, Says Study&nbsp;&nbsp;Times Now",
-      "sources": [
-        {
-          "name": "madhyamamonline.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZHExVHM5anVON0JpUnAxb09ydjlqcWtGRVNkak9NVWYzbm5tUG1SVkVvQlJ0UVJQU0JWNkZzemV0a3BfdGtKM2ZJRTI1VVdaUjlXRFh0U3RudGk1M09IZ3A5MEdSNmJLWnA1cjlyU2VibWVjdFZQZWlOTVpXVjdXRFVxUXdyX2RZVjRPTUkxdmJFV29BQ0tYUjVhbEI5TEduVTdnazBnc9IBrAFBVV95cUxQamVYSVVWNXBJLTl3X1JFc3VjQmdGR25LdzhKOW9QYTIyNGUzRlZ4clBBblBDbUF6cWcwd0huOG5LdTdqVlJpNUctV3dwcFZWV1hKZ1VFRlBkM1dybVlLU3lhaFBZNjVSTFg1SFg4RTRXYkYwc01UUFAwRXlnUXRNdVhFZ3FGbWNKakt1c1NzWVZ2SXRhTzBsb2ZFbkRpS2VrVXJWb1R4cVhZSjZv?oc=5"
         }
       ]
     },
@@ -453,23 +429,11 @@
       "id": "bb41433281e5",
       "title": "Difficulty Expressing Emotions May Intensify Daily Burden Of Chronic Pain: Study - ETV Bharat",
       "published": "2026-05-02T13:54:25+00:00",
-      "summary": "Difficulty Expressing Emotions May Intensify Daily Burden Of Chronic Pain: Study&nbsp;&nbsp;ETV BharatNew study unravels why chronic pain, depression go hand in hand&nbsp;&nbsp;The HinduEmotion processing issues can affect daily life due to pain: Study | 'This leads to more difficulty in managing pain' | Inshorts&nbsp;&nbsp;InshortsNew Study Finds Link Between Difficulty Identifying Emotions and Higher Chronic Pain Levels | Newswise&nbsp;&nbsp;Newswisealexithymia — Latest Stories&nbsp;&nbsp;Pain",
+      "summary": "Difficulty Expressing Emotions May Intensify Daily Burden Of Chronic Pain: Study&nbsp;&nbsp;ETV BharatNew study unravels why chronic pain, depression go hand in hand&nbsp;&nbsp;The HinduEmotion processing issues can affect daily life due to pain: Study | 'This leads to more difficulty in managing pain' | Inshorts&nbsp;&nbsp;InshortsNew Study Finds Link Between Difficulty Identifying Emotions and Higher Chronic Pain Levels | Newswise&nbsp;&nbsp;NewswiseEmotional Distress Worsens Chronic Pain, Stu",
       "sources": [
         {
           "name": "ETV Bharat",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObmtfMG5XSS1EX0JTV3J2NlVna2FkdWEtM2VUWmlyMTlpWlhsUkp3RUdFQzNWU3NqU0l0cXEycVBEZE9TZkp0akdQSWRkVFNNMlRiajY5cExVUjF1TGJmU1ZVdXk2ZUs3MjA2RkhCWXVhR1NhU3lfWk84aXp3cmZHZUFKX3dGb2FKb0FvLTA1a0hNakVSRGFIWXc3REs2T2MtYUFtOXJibV8yMGdhZjREZHNqSUJtMmtMVDBFWExya3MzQzV4RGfSAcsBQVVfeXFMTzdBQ2xzc3hKNlIyNUluRXpFdzM0NkdKLWNheG90M1JlUDhDSGI5MGNoVTFsWDhRa0dQcHlYV2dtM3J6TGRyZmdEZ3RSYUM5NzlFTTZSa09KSHhDa2pQdHJRYkcxOFFEbEJFNFR2bXlQbHdhV1lSbWk3VFVRSVJLaENvVk95aG8yNGM0dFBhVkxZLVJaZVBDYS1lclFWYzBGYXZKZXVmTEdjaUxKbDZiMllSWXQ1SGxxZ2RJazg0VHpVMEFZRzg2bFU2Q3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "138c03ee1c11",
-      "title": "Yawning does something unexpected to your brain: MRI scans reveal how yawning and deep breathing differ | Health - Hindustan Times",
-      "published": "2026-05-02T13:28:27+00:00",
-      "summary": "Yawning does something unexpected to your brain: MRI scans reveal how yawning and deep breathing differ | Health&nbsp;&nbsp;Hindustan TimesYawning Does Something Unexpected in Your Brain, MRI Scans Reveal&nbsp;&nbsp;ScienceAlertWe all do it every day — but scientists still don’t know why. That may be changing&nbsp;&nbsp;SBS AustraliaUniversity of New South Wales Study Finds Yawn Moves CSF in 22&nbsp;&nbsp;El-Balad.comScience has finally studied yawning — and what researchers found might actually",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNUVxdnYzS0ZmSURkbEhhbkt1MjRtNVp0cnZVbUVBQjJIX09lT1VYRGtCMTNFbTBBQ0J0VzNCbnJSakhRdnZJYmNGVkxLR3hrXzkyS1ZnWHl3Qlg5QXJHM0ZLR21CTy1FNGF1U0tGaXJaUEhNYUtkMFFJbzA3Y3FaRldIdjQxcGNwMllHSWp0MnYxdFVuNHVxMVMyUnJMY0pIRTZXRGhRR1kwZUhSQ0hhc20xeDMtR0MxZGl5QU0tLUdobWJHYW9KVld5RU1KR0phV2p4T3hzV1FWdmVDU0hERnQtQnNJY3BhSUcyenh2Ym4wRzhWdVhCRVI2YnNWdUIt0gGGAkFVX3lxTE5yNkpLd05NOC1yR0hBZkpoSS12eWFrUUR3c0R4SmlmLWUzWG5NVEdRWEpRb0RQaXB5dXQxel9SZVFtS3FJMTFtMUJkcHNGZ1cwdFVnRmxNMVdYc0RuY29OM0pycUFwY0xOWjR6ZHloR2txSTlxbk1YMlRqZ0kyZVVmTWZMNVpvdlJOaDc1V2pOSEhtUW1UbnM2V0EzbElIem9tV2VZc3lPQ21sdDg4U1VSZ2EwdGoyeGpzXy02OWxzN0RwX1ljcjdOSWdJQ0dOYWwzdV9pQUVmWnE3cFZ0aVZtb2hTME9JS2JldzJkN2lmMmppd1FNX0VpZXNldlk5NE5YLXNmVkE?oc=5"
         }
       ]
     },
@@ -501,7 +465,7 @@
       "id": "30eb4e2f49a5",
       "title": "This is the 1st WHO-approved malaria treatment for infants - NewsBytes",
       "published": "2026-05-02T12:43:28+00:00",
-      "summary": "This is the 1st WHO-approved malaria treatment for infants&nbsp;&nbsp;NewsBytesFirst malaria drug for babies is approved in ‘major public health milestone’ | Global development&nbsp;&nbsp;The GuardianWHO approves first malaria drug for infants under 6 months | Coartem Baby contains two antimalarial drugs | Inshorts&nbsp;&nbsp;InshortsWHO Clears First Malaria Drug for Newborns&nbsp;&nbsp;usthadian.comWHO Approves World's First Malaria Treatment Designed Specifically For Newborn Babies&nbsp;&nbsp;",
+      "summary": "This is the 1st WHO-approved malaria treatment for infants&nbsp;&nbsp;NewsBytesView Full coverage on Google News",
       "sources": [
         {
           "name": "NewsBytes",
@@ -518,78 +482,6 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2JXQnRPTDhLVG1vUk0wM3ZQb3NQWXVaNDUtU3dPX0ctN0lTYWxtMEktUDh5Nm1XdTVIVUJ4blhCal90OXFqLVdUa0NfanFjNGVuRjd1VlpUMlRTR2EwX19JQ2ZRU0haNTU4dHltQnVUeUswOXBsR3dqdkNPRHd2cFZQSVduWm11TTROMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f4ad690df6a",
-      "title": "5 small habits (beyond yoghurt) to take care of your gut health and prevent bloating - Vogue India",
-      "published": "2026-05-02T11:00:00+00:00",
-      "summary": "5 small habits (beyond yoghurt) to take care of your gut health and prevent bloating&nbsp;&nbsp;Vogue India",
-      "sources": [
-        {
-          "name": "Vogue India",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPazNudS1Pb0hDcG94VlVwSFdnQWVBa3gzWDlaby12TV8zVXpCN2tteGlLQm1hTjZud0habEpfNkQ5QXlmbU9Qb3BkTkZ6WXZmdTdqWmpSV3JobGxOMzJpdXdzMGRDTjdkWlNhQlhUQURab0FmUnd6QkhHc2xMcGdYblhzeDdGdERQckxNSjhpOXNlZ2l6WTdUeldnYk52THVNRExCTV9aSmdqWGJqbFBRdA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5646bc54ad51",
-      "title": "Think Diabetes Only Affects Sugar? It May Be Damaging Your Spine Too - Times Now",
-      "published": "2026-05-02T10:30:00+00:00",
-      "summary": "Think Diabetes Only Affects Sugar? It May Be Damaging Your Spine Too&nbsp;&nbsp;Times Now",
-      "sources": [
-        {
-          "name": "Times Now",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3JueGRMS3dsUlh4YVdXTGtsYVRpdTBFZ21XcV9aVGlLeDVpUXo0aXF6SGVqMC1TT0ZHaTgyaXl6X1EtTXVIbV9vaElRa0thSmlVTldLVVNKQUFRSzFMUnExSUNIYVd0WmZLZGdNOXBsU0RBMThNMTRDai03Vjh2S1pUcEE4S00tSXR4U0xoNjJQNzd5OFZjS01qQnoxUEV4cGxWcERPOWk0NG1hRm9rb2lpTWs2c3NwQkJZdHZB0gHDAUFVX3lxTE9IY0hvZTNfYWdFLTJoSzZGUldqelJfSkRTSEp0MWxvc3VOT25TbmgzT3hHTGVSalYzLWtwUFcyRFkxRm4wLV9oRHh1QUFrcVdkbWlBN1NCZXpLaDRYUGgxN1lCR3U3OUhyMmxrX1N4RXExUnJHOTc0cnZKbXlLQW1HQkZscXBFUnVTaVhOanpJN3c2QWZVdkhPRVlUeGxWNUY4OGN1Q2ZTYXpralBxT0paRVBLenZzN21CdTRMdk1vOGVHRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b667343edfe7",
-      "title": "Pluto’s Comeback? NASA Chief Wants It Back As Planet, But Who Gets To Decide? - News18",
-      "published": "2026-05-02T09:08:56+00:00",
-      "summary": "Pluto’s Comeback? NASA Chief Wants It Back As Planet, But Who Gets To Decide?&nbsp;&nbsp;News18Explainer: Why Pluto Lost Planet Status As NASA Chief Urges Reconsideration&nbsp;&nbsp;NDTV'Make Pluto a planet again,' NASA chief says at US senate hearing&nbsp;&nbsp;USA TodayNASA has new research that could finally settle the debate over whether Pluto is a planet&nbsp;&nbsp;YahooNASA wants Pluto reclassified as a planet — What changes now?&nbsp;&nbsp;The News International",
-      "sources": [
-        {
-          "name": "News18",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZjZFYzR3bjRuOWdoS2xkM29xQkl6TEpoZFhHR2YzRFpseXFhNGk1dHNTckFSeDhFcm1sSTh2YWxVb2JtdERJenZUb0VrT1hDSmRUd1pzalNuUHBHUUJfbVFibWJZai1mb1gyUkNVVWpoQVJiSVgyTmQ3akw1cHVycFZhQzVkZGJobTk1d0pqanZ2MEJvX2RxY2lpTDRUeVpSbk10WTdXek1UbldqLVBqVFRxclh5SVlnUndPWDZB0gHDAUFVX3lxTE52ZjByWTk2WlBIQmhqaU1DMEtyNHZqNmRRbC1aVE9rZC1WSzBuTVlid05qUWF6YXFnRFFEYnVCVkdHSHpFSkEycnpKdmowcElKUmtsWllJRGpiZjZoYU52VFZuUWViVGZaZUVMeTc5OEMwVHR5dXFLUTBnX2diVTdRc2FfMEJwenpZQUR0clNhY3hLc1paOVJtLUh6NEg0YXB4QVVGb3h2aGQxY3I5MDd2djd4MVpDSS03REE0STc3amw5dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e5568032bd23",
-      "title": "Probiotic Shows Promise in Reducing Food Allergy Symptoms - EMJ",
-      "published": "2026-05-02T09:03:45+00:00",
-      "summary": "Probiotic Shows Promise in Reducing Food Allergy Symptoms&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkFTWEpOOHNENEZOWmFDU2NGWGpWOUFmbUJpUzJ5Nk9DZ1JTd2JSY2J3cEUweUNpVWJlckJ2VjBpSTlUVTFTQjRUNUVXNDJTcUcwUmRGUDdrall6dWluU0w2UkxHQjN4V0I3VUx1UHI4eEpTQnBfaU50LXVEUFZqWkxIZG13Y2FFd3JZWnJhd3pPUE1UQ1lsb1hGRDhTMzhyUjFfU19DdFFYMmlJZ0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6c2d451f1255",
-      "title": "Smartphone App Tracks HIV Risk Behaviors - EMJ",
-      "published": "2026-05-02T08:58:44+00:00",
-      "summary": "Smartphone App Tracks HIV Risk Behaviors&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVHNuVmZNUHF5S2NKbUoyNUptaldtRmRPRDBFSURCaFNnTk84TE1HQmtORThzRVc1YVRBZS1SYmlPUjgyQV9WVDRiTlRqQVZuQVFNT0d3YmdNdkVodWIyM1lRZldYRUN1VzRmdG1aRXZqRXlJWE5KakM1Q1BZdEJmNnpGd0lnTl9KbEpsT2dNUTh0SkZTb2NxRjhMdXlManZJQlBITHV3MnhkQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2cebfa0fc1b4",
-      "title": "What happens to bone density in women after 35 that nobody talks about early - India TV News",
-      "published": "2026-05-02T08:35:38+00:00",
-      "summary": "What happens to bone density in women after 35 that nobody talks about early&nbsp;&nbsp;India TV NewsAAOS Backs “Stand Bone Strong” to Raise Osteoporosis Awareness and Drive Early Detection | Newswise&nbsp;&nbsp;NewswiseBuilding Better Bones Together: Osteoporosis Awareness and Prevention Month 2026&nbsp;&nbsp;PR NewswireAfter 35, your bones start weakening silently: What most women aren’t told early&nbsp;&nbsp;The Times of IndiaQ&amp;A: What should women do to keep their bones healthy?&nbsp;&nb",
-      "sources": [
-        {
-          "name": "India TV News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVdWanpMYUgyNnV2eGtxdUdLTkVaLVJBSHZXQU9INTB2alNyWktPc1MxWVQzcFdzSm9KRmVwT05QQ1NqVVhaU0VyYWJxU3NjU2FNTUsxclBKTGxuaW5JSnN0dkc2WVJISC1SMmt0SXdjVVY2emR1aFFETkFWX2ZjV3Q3TlF5NTFJTDVwcDhGU2hfS0w5OVZPY1F2SENfRVQzcUE?oc=5"
         }
       ]
     }
