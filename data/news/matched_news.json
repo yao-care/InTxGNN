@@ -1,8 +1,242 @@
 {
-  "last_updated": "2026-05-05T01:24:17.767755+00:00",
-  "total_count": 44,
-  "matched_count": 30,
+  "last_updated": "2026-05-05T07:49:42.815022+00:00",
+  "total_count": 38,
+  "matched_count": 31,
   "news": [
+    {
+      "id": "eb22c28a93c2",
+      "title": "Heatwaves Are Quietly Damaging Vital Organs In India - BW Healthcare World",
+      "published": "2026-05-05T07:32:56+00:00",
+      "summary": "Heatwaves Are Quietly Damaging Vital Organs In India&nbsp;&nbsp;BW Healthcare WorldClimate Change Is Making Strokes More Frequent And Deadly, Warns World Stroke Organization&nbsp;&nbsp;NDTVMercury spikes don’t go easy on blood flow; Link between heat stress and heart attacks&nbsp;&nbsp;Deccan HeraldChill That Can Shock: Silent Summer Stress on the Heart&nbsp;&nbsp;Deccan ChronicleIntense weather events like heatwaves, extreme cold, and heavy rain increase heart disease risk&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "BW Healthcare World",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWJWWXdhSTBVZzlvNE5XWUhvSU1SOEZPYktCc2xRSk5pVzlNVEpYVjRaa3F2enpTNEh2X1hFeUd5OUgyNUpMdlNBandUUmpnUnNBMUxqWTdrUXBiNXdvZ1lFWDc3N0h6N1RLaEl3ZVZmM2NSZG1kU1ZkZWFBNVYzMFp6QzhjQ0lJUmhtcDJoMFlsaW9CRWpNeEFXbzFWRXBJU2pz?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5267",
+          "name": "heart disease",
+          "keyword": "heart disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "6652_3678_1090_3672_3673_3676_3677_3679_6803",
+          "name": "myocardial infarction",
+          "keyword": "heart attack"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5709",
+          "name": "common cold",
+          "keyword": "cold"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__heart_disease",
+          "name": "heart_disease",
+          "keyword": "heart disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic_stroke",
+          "name": "stroke",
+          "keyword": "stroke"
+        }
+      ]
+    },
+    {
+      "id": "11db9ad9b212",
+      "title": "Asthma Day: Indoor Triggers You Didn't Know Are Worsening Your Symptoms",
+      "published": "2026-05-05T07:06:39+00:00",
+      "summary": "Asthma Day: Indoor Triggers You Didn't Know Are Worsening Your Symptoms&nbsp;&nbsp;NDTVKnow your asthma triggers: 7 hidden causes lurking at home and smart ways to avoid them&nbsp;&nbsp;The Times of IndiaRaising awareness about asthma: Practical tips&nbsp;&nbsp;The Hans IndiaAllergy-Asthma Management Strategies&nbsp;&nbsp;respiratory-therapy.comChild to adulthood — asthma can be triggered at any time&nbsp;&nbsp;Viera Voice",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDgyVVZpeTJzbmo5N2dvaFFRdGpaOE15VnIzaGFQOWhqTzJkOTd5bnZzeDN2ODRqam81VjlpeU1ia2d1Nzh5WFVCaGFGYTl4ekNRUmFxclJaWjVFOU9sb0RyOUc4SE0xM3B6Tk1iUV9tNF9Xc2JIT0ZRMnFZNUdaemVucW9iU0xFRkZYa0xEcm5BWlVLaFZ5QmIzbVo5dUw0UFFXOGdUYmxQd9IBsgFBVV95cUxOUUVfTzZGUVI2YjJCS2kyS0JvVnRnLXJFNTMzVnJDa2U3LVZuUWVFWWo4ekhTdGNzdWtPQVB1QTNPSDRCS2ZzRUV6QmxiQldmaHBDSHJMS2FtMWRMQU9YMExuVHhnQXJJeVhjZFB0ZVhzTUlRZ3NrQnNzeWhHa05wWEtaYW5adkNySmw1aHBnQzNtSDVIWDMtcUVqbXZ6UXRnYVRaLXY5SVNRTzJ0SGlaS1dB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "4979",
+          "name": "asthma",
+          "keyword": "asthma"
+        }
+      ]
+    },
+    {
+      "id": "6c0933529a54",
+      "title": "Cranberry Juice Shows Promise in Supporting Antibiotics Against UTIs - The Indian Practitioner",
+      "published": "2026-05-05T06:53:00+00:00",
+      "summary": "Cranberry Juice Shows Promise in Supporting Antibiotics Against UTIs&nbsp;&nbsp;The Indian PractitionerCranberry juice may boost UTI antibiotics&nbsp;&nbsp;Medical XpressNatural Compounds in Cranberry Juice May Enhance Antibiotic Treatment of UTIs&nbsp;&nbsp;Inside Precision MedicineCranberry Juice Shows Promise in Combating Antibiotic Resistance in Bacteria That Cause UTIs&nbsp;&nbsp;Discover Magazine",
+      "sources": [
+        {
+          "name": "The Indian Practitioner",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXg1TXFZOE9rYWc2dm1ET0lWQ1hPNlI4SFItckltV0w1WXMtdTFiY3VLZjcwbHRtR2xhYTRab0gwRlRZc1hNWHpvYy1LNmlOSzgtYkFBbVEzMVdiTVVMSjg3Q0w5Z3pYNmR2RGp5YWVTOWZMRHh4dEh0R01qRlllVE12dnAyTGtRYk1pUGc5X2lVaTRRZkNVTDJDSkttSzh4T3dyZkpn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dcecc3b613d0",
+      "title": "Can Lazy Eye Sometimes Indicate A Brain Tumour? Expert Explains",
+      "published": "2026-05-05T06:13:15+00:00",
+      "summary": "Can Lazy Eye Sometimes Indicate A Brain Tumour? Expert Explains&nbsp;&nbsp;NDTV",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ3JPZW5CTjhPWUJKS05qb3h0eVZuUUpPVXAtaTFIUUhWWEVSMFJZUjJfNWpSbGFDdmtjanVSSldWb0JRbkZpTklOd0UzV1FpSmU5NHNNNkVlVmJHbFFYRVl1ZmhPckJ6NzF6VUtXVnh1SkY0Vmt6N2V4UWtzOFJyaGNDeEt0UktvM0daY056U3BqNldXSWNSTGUzRnFhbEtC0gGoAUFVX3lxTE5sNGtRZU84NXhMQnRCdXhqSXcwT2hUWVBka09pUVJYS2hmTG01cXF3X0xFMVJOYXM0RmhuNDIyMS1OU2VXVjlCLW9NX2kwSmI1QlU5YW5fRG83bnNiU2h6LVNXeEtabE4zZ0ZzOE9FOEFiazhUZzFQRHRkNW1qZG01OXFJVE9TMUZRWk9wLTFWZThZOW1nWVpuLWVlS3U3MHkwd0pwb2NMag?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "tumour"
+        }
+      ]
+    },
+    {
+      "id": "75bfee2043b5",
+      "title": "Hantavirus outbreak: Cruise ship with 150 aboard waits for help, not allowed to dock - The Hindu",
+      "published": "2026-05-05T05:57:24+00:00",
+      "summary": "Hantavirus outbreak: Cruise ship with 150 aboard waits for help, not allowed to dock&nbsp;&nbsp;The HinduWhat is hantavirus and how does it spread?&nbsp;&nbsp;CNNWhat is hantavirus, the disease that has killed 3 cruise ship passengers?&nbsp;&nbsp;Down To EarthHantavirus: As WHO shares the symptoms of the infected patients, Delhi NCR doctor reveals how a mild fever can become a life-threatening lung emergency&nbsp;&nbsp;The Times of IndiaMan Trapped On Cruise Shares Emotional Video On 'Hantavirus",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRFR5X3RkOGxPa245eVBRai0tRDEteXdkdmVJWUM0UjNFVEdtWGJTcWZGN3lzZ3UyaHJELXVRdk9VbTRFRTVQWVY1UGgxanpLNVR5aUhpVVpZeUNTYjdWRUx5dTdEWmw0V0pYZGd2MG5nQU9tMm9FVzJTR2dJU0FUTE93cy1BdXNpeVBoYk9DZjVwYThmVWZmOHZ1U3NuelNkZHRYajU4QmI3WGliaXFPeVJHclNQMTNmWk5OdEx3MWVESVlyQ3Z0QkNXWWY4WUhuUjJQcGZMaHd5a0tTWWk00gHmAUFVX3lxTE9yMmYtTlJpRWFJYkdBc0M5eWxjYTltck9VVV91Y21WcTg4LWFzX29xLWwxRnpxVDdWRk8zV2RaSlF0NUdlTXEtRDRqWVczcDFwNjB0Q2Q5MzhReFZ1UWY4UEVWaXpUTnNnUWRaY0xwdTlZcjNUcGwxQkYwNEl3WVRsZE1qdktFRFBCeGxEcXZ4QnRvc2hjdUlnRGtBSGJmTVAtM21lcWZDMVlkN0w4SlRZOVBmSzhoQzgwenZuSXQ4YUVLRkN6enY4Y0d1bzExSU9oQWZqRDJqUEo4REZMOWVPQTJOZGJn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "b9333d5218cf",
+      "title": "Man Trapped On Cruise Shares Emotional Video On 'Hantavirus' Outbreak: \"We're Not Just Headlines\"",
+      "published": "2026-05-05T05:54:55+00:00",
+      "summary": "Man Trapped On Cruise Shares Emotional Video On 'Hantavirus' Outbreak: \"We're Not Just Headlines\"&nbsp;&nbsp;NDTVWhat is hantavirus and how does it spread?&nbsp;&nbsp;CNNHantavirus outbreak: Cruise ship with 150 aboard waits for help, not allowed to dock&nbsp;&nbsp;The HinduWhat is hantavirus, the disease that has killed 3 cruise ship passengers?&nbsp;&nbsp;Down To EarthHantavirus: As WHO shares the symptoms of the infected patients, Delhi NCR doctor reveals how a mild fever can become a life-th",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1d5UzdnM0hsRXgxR2w1MHNXVDJsZlhRTEh2b0ZabFhRRXA2QnVQM0dKY1NYWDN4NjFfUEtqSHl4V29JcFZ1TFVNVjhBa1ZnakFJVmdCSFFzUnhyY1VQR09nbG9yUk5jS21UN1BqQ2ExZWpfNzFCanNOSmpwTlBnQ1EyRlR3Sy1IMWRHaWFaTzQ4WjVnaTlSMVdGWW9ad3pwcnE4cGo1aVJnQlFRRmlPcWdCVllPMW95Q3RoUWVucy1LaTFUa1FWOVFOTlbSAdQBQVVfeXFMUDdwSlZvY1daNi11X1FMd0FJNG03Yzh5Vmd5QXFWM2YzMDluS2V6Z292RnVQOWhBelo2cGk1WFFTeERvNk9jYUV5OEkyWTZsVTBQQ3o1YVZSZFRpWW1IamFXakI3UEtRUk9pVG9RMmNxZldBVnpfVUR4Tk9VMzhwbEhvQXdqWkRPZzZRNmwyRno5NmRzdVhrTDhPd211SnlWZUxNR2NSem1UWlhSQ0FuS1RWM0RaWjFkc0RUdVZDUDlhRzliaEFZYmxjODNsUzRjXzk2Tlo?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "f23a91f9f077",
+      "title": "Common structural analysis of interfacial water is inadequate, according to a new study",
+      "published": "2026-05-05T04:30:00+00:00",
+      "summary": "Common structural analysis of interfacial water is inadequate, according to a new study&nbsp;&nbsp;chemeurope.comTwisting water&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "chemeurope.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHJNbjYya3hhODVfVmV3UHFyVjk2OXpTYlAyb0xJUHhsa3V2WllHcnVTa1BUWFlkdk45QzRwUHlZWXUzcDRmYUJTRU1JcnI4SzF6SUZUZFIwbWt6UDlBXzRaZmtic2dJSlJxQTZjYUY2eUhpUExGT3FRY1dCamo4MUZfbXZNbmhaWGJFeHNvRkVJdkNxcHltSDhKZlRDTUNQMXBsNVBpOFVkOGFvaDZob3pOS3dTeF9DNDlQbzJzelpMdDhrVkgzYmQ5N0hSTmc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "9e4745a1db8c",
+      "title": "Mysterious green rocks in Pyrenees cave hint that prehistoric people were working copper there for 4,000 years - Live Science",
+      "published": "2026-05-05T04:06:08+00:00",
+      "summary": "Mysterious green rocks in Pyrenees cave hint that prehistoric people were working copper there for 4,000 years&nbsp;&nbsp;Live ScienceEarly Humans Returned to This Pyrenees Cave for 2,000 Years and Left Bones, Hearths, and Rare Jewelry&nbsp;&nbsp;Discover MagazinePrehistoric child’s finger bone, bear tooth pendant, and more discovered in Spanish cave&nbsp;&nbsp;Popular ScienceBurned stone, child's bones, and lost jewelry hint at prehistoric mining camp high in the Pyrenees&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdXYtbi1LVzh3RTB3VDZYbExhMGhleTFhR2dLT3hGUy1tcHdDRThlTXNYM0ZkX0N6a2VnaFZCQldFUnF4bVVLMDJqcFVMNWUwMnQ0YkJXME5mTzNHY0tuWGJTanBDMlc5em5WVlpReTVUdFR5R21qclJtUjlpamIwZXRFbGVFQkJzX0FvNkF6VGhkeHp2ZDFRUmpqOVMxWi0wdUZQSDRPUzc5SEJuX1FHQmIyeFlQY2ZQNEN3VVQ4ckF0NVFpcEZpb0RPMjFBVzYySFVRQ1lIR2t6TjZYM0VoaHB0YXU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB09130",
+          "keyword": "copper",
+          "name": "Copper"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "43519",
+          "name": "burn",
+          "keyword": "burn"
+        }
+      ]
+    },
+    {
+      "id": "186402020ad6",
+      "title": "AI model reads genetic code to trace evolutionary history",
+      "published": "2026-05-05T02:01:00+00:00",
+      "summary": "AI model reads genetic code to trace evolutionary history&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRE1MNGpkY2JsVXVrY3BvWWx4QzdzQkNTTXdHVzdRanZqY3E3ekdmSF9qRklwMzJRWVRwa1BVVnZaUll0dGVnS2R3X0p5cTR2V2dGQkNCVW04NVhBeE0wZW02dmlQRHZNTnNtdWczWkRrSjZ1X3pKODhzX0lmSWhvdlctTk5OU2xERE91Tk1qQVJPZlN6dDZ4VjJ0MWhtMVVQYjBuTHpMT2o?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "cdb62489b8dd",
+      "title": "‘A study showed…’ isn’t enough – scientific knowledge builds incrementally as researchers investigate and revisit questions",
+      "published": "2026-05-05T01:42:15+00:00",
+      "summary": "‘A study showed…’ isn’t enough – scientific knowledge builds incrementally as researchers investigate and revisit questions&nbsp;&nbsp;Good.is",
+      "sources": [
+        {
+          "name": "Good.is",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KalVyY0dmeDRsWF9aTUJNOTFLdDVMajVEc3BtQk5Ja0hiMkRIU3JLMFhxd1l5WGJHa240SDJuUHNPanFVdURSaElISUdRdTVuWG51VUIxSndRNGV2amdyOVFEd2gtdjlQU19FaWRvTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a2e6b11776fa",
       "title": "Researchers Simulate Fruit Fly Brain Controlling Virtual Body - Let's Data Science",
@@ -19,8 +253,8 @@
     {
       "id": "ae901f8ef18d",
       "title": "World Asthma Day 2026: Theme, Significance And 5 Effective Ways to Control Asthma In Summer",
-      "published": "2026-05-05T00:00:00+00:00",
-      "summary": "World Asthma Day 2026: Theme, Significance And 5 Effective Ways to Control Asthma In Summer&nbsp;&nbsp;NetmedsAsthma cases surge in Bihar; doctors stress awareness, early treatment&nbsp;&nbsp;The Times of IndiaProlonged AC, Rising Pollution, Lifestyle Changes Driving Asthma Surge&nbsp;&nbsp;Deccan ChronicleFrom Kitchens To Lungs – Indoor Pollution Drives Asthma Spike, 8-9% In Children And 6-7% In Adults&nbsp;&nbsp;Free Press JournalDoctors warn chronic cough may indicate asthma&nbsp;&nbsp;Passio",
+      "published": "2026-05-05T00:01:04+00:00",
+      "summary": "World Asthma Day 2026: Theme, Significance And 5 Effective Ways to Control Asthma In Summer&nbsp;&nbsp;NetmedsWorld Asthma Day 2026 Inhalers Safe, Not Habit-Forming Experts Say&nbsp;&nbsp;NDTVAsthma cases surge in Bihar; doctors stress awareness, early treatment&nbsp;&nbsp;The Times of IndiaProlonged AC, Rising Pollution, Lifestyle Changes Driving Asthma Surge&nbsp;&nbsp;Deccan ChronicleWorld Asthma Day 2026: From David Beckham to Priyanka Chopra - Celebrities Battling Asthma&nbsp;&nbsp;Times No",
       "sources": [
         {
           "name": "Netmeds",
@@ -43,26 +277,6 @@
       ]
     },
     {
-      "id": "a4cd56c893fb",
-      "title": "World Hand Hygiene Day 2026: Theme, Significance 5 Diseases That Can Prevent",
-      "published": "2026-05-05T00:00:00+00:00",
-      "summary": "World Hand Hygiene Day 2026: Theme, Significance 5 Diseases That Can Prevent&nbsp;&nbsp;NetmedsThis simple 20-second habit can protect you from multiple diseases, doctors still swear by it&nbsp;&nbsp;The Times of IndiaClean hands are life-saving&nbsp;&nbsp;BusinessLineOne daily habit, multiple diseases avoided: Doctors advice doing this routine properly as wrong method can&nbsp;&nbsp;The Economic TimesAction saves lives&nbsp;&nbsp;The Daily Star",
-      "sources": [
-        {
-          "name": "Netmeds",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHZkTjZjSURHSTdkWHZMYkdNcVQzc1BmZDBVY2luZEtIS2pvLXZMQ0dCZ2hoTmtHQkgzb094a09weDhUMURqZmV0ckF1bTNUeWtUS2dwTWV4SmhWVk1QOWsyUU1BUjdTZGNOc3ZkUzVCd0NJWjJ6REdkblZkdV90eF9hWk1uVjJQdVlPYmVhNDZRVkZPZE9QQjFHZmgyYjZvWXF5WUJGTjN3RkpQWnF0cXY3NHlOQUl0bzZzWDR3VGEzaGFTRFNHRmNJNA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB03384",
-          "keyword": "fica",
-          "name": "Fica"
-        }
-      ]
-    },
-    {
       "id": "518a5b07c5aa",
       "title": "Scientists Finally Solve The Long Standing Mystery Behind How The Twelve Apostles Formed Over Millions Of Years - Indian Defence Review",
       "published": "2026-05-04T21:35:00+00:00",
@@ -71,19 +285,6 @@
         {
           "name": "Indian Defence Review",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81TFdhTExXSzVHdV9DNnQ1cHNHa3hFNmgtNmc0UDNTS0ZSeGg1UTlUSE1qTzZLNzVkbFdyVnV5VldVcnk1aXVOajRodncwZmE5V2UxV1VZbEJkRzNXUEdBdW5RcGZZSkJFUGlhcDhtNmZpeHBNZmIyVnFsTVZrQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5261ee6fcdca",
-      "title": "Estrogen in both the male and female brain shapes responses to trauma, study suggests - Live Science",
-      "published": "2026-05-04T21:15:00+00:00",
-      "summary": "Estrogen in both the male and female brain shapes responses to trauma, study suggests&nbsp;&nbsp;Live Science",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWVhNnlRT2pSSk5tQWItLXVZVDlJeW1UQTFpLXg1dXpkNXExc3Q4QjRaVGFpc3d2QVkyc2NlYThPX0xnUXJvZnFNZnNJZl84M25UTE9HRV9PS2VPSERxU3VqVTVkcjA1TTF4YVc5VEQwZ2ZLTFRYbDNHX0FTbDQ4dWpfX0d5UXIzeFhvTEkwY1RqR1pGaDJHUzhLZVBzc0VJN1FFZnJMTUdwNEdMdTBxenY0QnRJU3cxeG0tYy1UQWlCYTB3VjRHdjYwNFc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -115,22 +316,9 @@
       ]
     },
     {
-      "id": "4fc58e00689a",
-      "title": "Buried electrical pathways across the US reveal new clues about Earth's interior and power grid risks",
-      "published": "2026-05-04T20:00:03+00:00",
-      "summary": "Buried electrical pathways across the US reveal new clues about Earth's interior and power grid risks&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBucHpCaTBOMGRKZXJuVjNsZVhSczlsSmd3OVh6UlZiSGVvZ09OLXlXTWxROG15MjByWU9GWkhCSmFUbThyaktldkpRZGVwUnE0X2x5aWtydEhmeWdJcHdpMnV4SmJqSFR6WmUwNmRPUmF5NGdvTGMzc0kwU2Y0Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "86aa623fad95",
       "title": "Russian AI model enables earlier detection of pancreatic cancer from CT scans - TV BRICS",
-      "published": "2026-05-04T19:52:30+00:00",
+      "published": "2026-05-04T20:01:35+00:00",
       "summary": "Russian AI model enables earlier detection of pancreatic cancer from CT scans&nbsp;&nbsp;TV BRICSAI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis&nbsp;&nbsp;SciTechDailyMedical Bulletin 04/May/2026&nbsp;&nbsp;Medical DialoguesAI finds signs of pancreatic cancer before tumors develop&nbsp;&nbsp;NBC NewsAI tools to finds pancreatic cancer early: study&nbsp;&nbsp;GujaratSamachar English",
       "sources": [
         {
@@ -200,90 +388,10 @@
       ]
     },
     {
-      "id": "7da4c520e3b7",
-      "title": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules",
-      "published": "2026-05-04T17:20:19+00:00",
-      "summary": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules&nbsp;&nbsp;Phys.orgResonant chiral dressing by amplitude fluctuations in a ferroaxial electronic crystal&nbsp;&nbsp;NatureResearchers Detect Quantum Phase With Light Scattering&nbsp;&nbsp;Quantum ZeitgeistExotic Quantum Phase Dynamically Links Vibrations Separated by Symmetry&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUXVGVWpVa3k0X20wNnhOTTJHNzY4WlJSTWEtSDhmREtMUUxoUWRLTHk4aV9vamYyVVVLbWJkQjMzNDFYYzYzanpKN2c3NzBUellpdk53SmxNR3NjUkFwZkRxYmZvQXVvWnpsSTZFdVJhYm1RRXhuZm42UTJrSFRNTmxxRQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "5812",
-          "name": "influenza",
-          "keyword": "flu"
-        }
-      ]
-    },
-    {
-      "id": "d671f2791798",
-      "title": "Hantavirus scare: All you need to know about Atlantic cruise ship outbreak that killed 3 - The Times of India",
-      "published": "2026-05-04T17:13:00+00:00",
-      "summary": "Hantavirus scare: All you need to know about Atlantic cruise ship outbreak that killed 3&nbsp;&nbsp;The Times of IndiaMore than 100 people remain on ship where suspected hantavirus outbreak has killed 3. Here’s what we know&nbsp;&nbsp;CNNWhat is hantavirus, the disease that has killed 3 cruise ship passengers?&nbsp;&nbsp;The ConversationEvacuations planned as suspected hantavirus outbreak traps 150 on ship off Cape Verde&nbsp;&nbsp;ReutersScramble to evacuate two people from cruise ship amid sus",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQ1pUVU14VXkzTmthb1RtM0FKQ3BzSmhNTUNpN2NlbGlGNnFIT1JMdVVLMlBkblNsVzRlaUVTQmZRSk5PUFM4Mmo3ZFI0TFhYZXREZWFPUWNGMkU1TlBoV0pONEdLN1c3dVlleDNuLVg0bkFSMEVDbEhWOEoyQXlKam1rWWJPemtWbEdFd3VhcGcxRHhPWXBTV3FHNFlvTExrRTl6U2tjUVhXSnF5ZmNBeUlHX2RzeDVFVUFOSTBGV0ZjZmlENWxrczN6TEdzSWlpY3FmQWc4bmpLeXVhd3VqeWtoYUdnS2lEZWRhUGQyTdIB9AFBVV95cUxPMHZnM1A2MkFrWmpSLVI1c19DVjJzOHpUYXZVYmxZVFItb3dPX29EdENrVWNBcmpvVVVLeFZ4ekl4enFXOGdGVGhDakZseUVScEtqVjltR0FTWVo2VkZURnNxak8wNldURWRFWDdLOTFSNzFpaXdjTWRVUGt3bThFOXdGS1dWRGFDamYxNGVwVXFWZjRMSEN0S2llck5sdUY4dUwyYTE5ZGhxNk5aaDVZR2dQdE1JeU95LWZhT25MUFB4d25PWVVZMXZHYVV0R2lucmplZC1zQ3J5Qlc1cVh6ZU1YYjYzTmMtemd0d1RxRnVjNmZx?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "ffcff0e0c6fb",
-      "title": "Microplastics found to trap heat, play role in global climate change - Business Standard",
-      "published": "2026-05-04T17:03:26+00:00",
-      "summary": "Microplastics found to trap heat, play role in global climate change&nbsp;&nbsp;Business StandardAtmospheric warming contributions from airborne microplastics and nanoplastics&nbsp;&nbsp;NatureThe Great Pacific Garbage Patch is a plastic trash nightmare. It could also be part of a much bigger, hidden problem&nbsp;&nbsp;CNNInvisible Polluters: The Underestimated Climate Impact of Coloured Nanoplastics&nbsp;&nbsp;DevdiscourseResearchers show airborne microplastics absorb sunlight and amplify warmi",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVkNsR1JBX3VORkFrMzBlU0MyWTJoM280dUZfRDhpc1pocnhmalZfQjB6STBnaHR6VE5QbjQ1YUs2Y3lteU9nd3FpTVc3bEFjN1ExZ3lYWWQtVW9IX3ZESm1faDJoX3JKNlkxa1Ita2hMRjBRbFBYQ250aVNWRjRNQndCYXloR2w2ak83QVV5blJDS3ZOWmpUd3dsWnJodDRHVThyZm56RWhkN1RqeWZuQXJvWEZGeFdua3dZWUFHNUpzWHFQbnRDYXJIeGHSAdIBQVVfeXFMTWE4aHZWcnUxUnpWTXFxeWU2cTNwUi1pVGhoeWdNMzlMdFBNaHRDVEZ6aEI4RVF1RzJBalhNaHhkVjdjcW1KaTl0WmVMd3MwRGlvQzhmOXNhd0VOS1piLU96XzJROHBXekM3WlBWb1RQR3FON1JHQXIxaDJpWXd5OS1wTl9rWFBKMGdqTDl1MTE2a1ZHb01hbUhzUVJEZE1JS2NUQThGTngtc2kxZzVxeHUwbVNqeTlpdFdEbkFsb0VJQnN1Ul9pOWpEM0pONVkxYnFB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "0f18db669f2e",
-      "title": "Oxford and Serum Institute of India to advance development of new malaria vaccine candidate - BioSpectrum India",
-      "published": "2026-05-04T17:01:55+00:00",
-      "summary": "Oxford and Serum Institute of India to advance development of new malaria vaccine candidate&nbsp;&nbsp;BioSpectrum IndiaOxford and Serum Partner for New Malaria Vaccine&nbsp;&nbsp;GK TodaySII to Mass Produce Oxford's R78C Malaria Vaccine&nbsp;&nbsp;WhalesbookOxford University deal could mark milestone in fight against malaria&nbsp;&nbsp;Oxford MailSerum Institute of India, University of Oxford Sign Licensing Pact for Multi-Stage Malaria Vaccine R78C&nbsp;&nbsp;Medical Dialogues",
-      "sources": [
-        {
-          "name": "BioSpectrum India",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVUZMbUdHSTUxbF9OLWNfcnFVR3hXU3RJSjNsZUlxQTBDZzVNRTdwRzFsaklXTGZBUUphSkxJZEVTeDhReS1rRmlCM0x1NFFRNTExRFZ5Z1daRTZTazB2WXlsMV9xX1dsek9DQ0tkblI4bndiVjI2XzkzT29QbGtuc2Q0T3FfYnMtTk5Lc25JV3VTWDBnWFVZLTZrU1R5NHh2VkR0bHRaV3J0MHZhNUZhdjBCRERqRUVZOXM3YVIwMUFHSEU4YWhESG1ELXFhVGNpRkpWMTZaM3RLZGM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "5136",
-          "name": "malaria",
-          "keyword": "malaria"
-        }
-      ]
-    },
-    {
       "id": "fa740774583b",
       "title": "That eerie feeling you get in old buildings may not be supernatural - Straight Arrow News",
       "published": "2026-05-04T16:40:00+00:00",
-      "summary": "That eerie feeling you get in old buildings may not be supernatural&nbsp;&nbsp;Straight Arrow News - SANSpooky feelings in old houses may be caused by boiler sounds, study suggests&nbsp;&nbsp;The GuardianThe creepy feeling in old buildings might have a surprising cause&nbsp;&nbsp;ScienceDaily‘The cause might be vibrating pipes rather than restless spirits’: increased stress and irritability from infrasound exposure may explain paranormal experiences&nbsp;&nbsp;FrontiersThe Haunting: Low-Frequenc",
+      "summary": "That eerie feeling you get in old buildings may not be supernatural&nbsp;&nbsp;Straight Arrow News - SANSpooky feelings in old houses may be caused by boiler sounds, study suggests&nbsp;&nbsp;The Guardian‘The cause might be vibrating pipes rather than restless spirits’: increased stress and irritability from infrasound exposure may explain paranormal experiences&nbsp;&nbsp;FrontiersThe creepy feeling in old buildings might have a surprising cause&nbsp;&nbsp;ScienceDailyThe Haunting: Low-Frequenc",
       "sources": [
         {
           "name": "Straight Arrow News - SAN",
@@ -291,32 +399,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "017d0763f6fc",
-      "title": "Astronomers believe they've detected an atmosphere around a tiny icy world beyond Pluto",
-      "published": "2026-05-04T16:39:39+00:00",
-      "summary": "Astronomers believe they've detected an atmosphere around a tiny icy world beyond Pluto&nbsp;&nbsp;theweek.inDetection of an atmosphere on a trans-Neptunian object beyond Pluto&nbsp;&nbsp;NatureAtmosphere detected on celestial body in solar system's far reaches&nbsp;&nbsp;ReutersScientists Found An 'Impossible' Atmosphere on A Tiny World Beyond Neptune&nbsp;&nbsp;YahooMysteries of XV93: A New Atmosphere Discovery Beyond Neptune&nbsp;&nbsp;Devdiscourse",
-      "sources": [
-        {
-          "name": "theweek.in",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd0FZMTEydm9wVUx3VW81alBCVjlDV2FWN0tmdV9IeVdUbFRJSXJvUW9VNjBtQUljRlBKZy10V3p0QnZNT25wTkd3SlNKeGoydGJRNFZzX2FseU5oZnVjTU9OdGdCdTVKYTlLZ3NGSEViMnRheFhMMmtZRzFyWVFMUmp4MVZ3OXpWR0FkbzZORWVyZlJqZF8wN1dZeTJfUFVZaVUzTk42X1czUkNUMXpKT0xJUm9QVGZGRjRjbm9Wcjhianp1QXlobzMtOGpMRWlETUpHb0dGYzgyWGVXOFlGdjZ4ejF3TEHSAewBQVVfeXFMUF9qVlp5YWZKWUxLRzZVM3AtX1JQVkV6ZlpnbFBUc0JXQWh2bS1RVTZPQzVRTWMzUHpkYkZHbE5KaUYwdzVvV1NMYld2bF9CaGlVUXdQZlhFWlZzTnM1Q3d5VkRYY3V2WVlSMFZHVFMtUzltZTdxNHRIdnFvcS1WRlU5VXcwek04VDNndlFJQ1pBOHkzY0N4NTczWlhvWkxKZWdyMkVqclpyVFlwZklRZ0VHMW5ZdjlmaFRrREwyRlhCQWl6SmtBTHB3eEIwVUo1R3k5aFZvV3pwbjhXR0I2UzFiazRFQzFrWDBEYkE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB03904",
-          "keyword": "urea",
-          "name": "Urea"
-        },
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
     },
     {
       "id": "10ade6225bbd",
@@ -351,17 +433,30 @@
       ]
     },
     {
-      "id": "a36f1afb7cbd",
-      "title": "AI is flooding peer review, and editors say it’s making science harder to judge - The Brighter Side of News",
-      "published": "2026-05-04T16:07:00+00:00",
-      "summary": "AI is flooding peer review, and editors say it’s making science harder to judge&nbsp;&nbsp;The Brighter Side of NewsA leading journal finds that AI is flooding academic publishing with lower quality work&nbsp;&nbsp;Phys.orgAI Policies Fail to Reduce Undisclosed AI Use&nbsp;&nbsp;the-scientist.comAI tools reshape academic integrity and research practices&nbsp;&nbsp;MSNBroken links: How is academic work best judged in the brave new world of artificial intelligence?&nbsp;&nbsp;Mint",
+      "id": "9c3aaeaa46e7",
+      "title": "17 more children die with measles symptoms, death toll reaches 311 | Hindustan Times - Hindustan Times",
+      "published": "2026-05-04T16:01:57+00:00",
+      "summary": "17 more children die with measles symptoms, death toll reaches 311 | Hindustan Times&nbsp;&nbsp;Hindustan TimesBangladesh measles outbreak: 10 more children die, toll climbs to 294&nbsp;&nbsp;The Hans IndiaVaccine Crisis: When Policy Fails Children&nbsp;&nbsp;daily-sun.comMeasles-like deaths at MMCH rise to 24 as another child dies&nbsp;&nbsp;Jagonews24.comBangladesh measles surge takes total to more than 40,000 cases&nbsp;&nbsp;Outbreak News Today",
       "sources": [
         {
-          "name": "The Brighter Side of News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMGc3TjBuSDRhTUVEeF9lN3RXbUM4S0hicVUxdHFDR09GNXUtSjMzUlhCeG5mZW1icThCRmpCSFRJS0dkNjc5dDJzZEFBbF9zdDJBOTlrM3ozYjFUWS1zd3UwOUp1YXVTeEN3bWNfM0czMEx3VW90X05lb1NOQzByc2liNjVFenk5MGJ3WEI0UGxiVVpNSmxPWFBrMEl3c09wYlNfMzYxVTY0dnZPeUNfUFhKWlY5R28?oc=5"
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFM4d2t2OWVTNnNsVHBrQWdWVTJZRnh2UEczRVJ6V01UdGFfZjU5djVJQzVBWXdYeWpCYy0zOTVra2VYNklwUVlaUmd4NWxteXFwZThtOGEzMjFibEFMR0wzYmxEdlRTbERjalBQdXV0RDdPcE5JNF95UnZPUEpKbmczLVVSTkpEd0hZdHlwSlg2UnFJbldkX2dmWGFuaW1ubGkwNG1ITEhhTk1DbU1taEVSNHNQX3M3Yk5BT1NMbWZrOWI4T2xUb2FmbWNmbTZqcVHSAdcBQVVfeXFMTjhIUGpkUVVxQ1E3bi1QOTAyMS1yNEJ4VnltZWN6dGhtRmZVSWVkclRSN19nb045anl5RnhWTTdfYzRXQ1lSNkNXMU5oRXdYalZ0YVpHYmNJQnotZHVERzZmcHV4VEtYV1RiaThCaDZOc3FkUDJlaGxzWk9mNmZFVE14Sm5WVEowVG42OHB3YnZWWTJ0Sm1zbjBGd0luU0MyQkw3T05CMkVESlFpc3Rjd28wbTlzbktET2JvbExucVlYeFJNbXRBa3I0Tmk1bTBLZnFkR3RKVDQ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4619",
+          "name": "measles",
+          "keyword": "measles"
+        }
+      ]
     },
     {
       "id": "04990230254e",
@@ -394,19 +489,6 @@
           "keyword": "cancer"
         }
       ]
-    },
-    {
-      "id": "7a1860fee5cb",
-      "title": "Scientists discover scorpions’ sting fortified with metal - OC Today",
-      "published": "2026-05-04T15:00:43+00:00",
-      "summary": "Scientists discover scorpions’ sting fortified with metal&nbsp;&nbsp;OC Today-DispatchMetal-reinforced scorpions evolved to kill&nbsp;&nbsp;Popular ScienceScorpions reinforce their stingers for added strength&nbsp;&nbsp;Mid-dayNot just venom, the surprising metals inside scorpions' structure make their sting stronger&nbsp;&nbsp;The Times of IndiaSmithsonian-led research shows that scorpions’ weapons are fortified with metal to suit their needs&nbsp;&nbsp;EurekAlert!",
-      "sources": [
-        {
-          "name": "OC Today-Dispatch",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOXhrTTNOOGZXY01ZcFpFMVhlRDJFcjRQWjN6dmc3VkNuMEZxRlBkdUNVbFItQlotOGdtOUZuQTM5Z2dLYWZ6MWVWMy1sQlR0RDNQN1V4MWU2Uldqb0ZpclJDekh4TTl6cUdIMlhuVXZMWHpHbmQ3UHAxUW9xTFZFN0tZajNsemZPTkRsTTc0Y2N0b3Rlc2tUYUlFdHdzRHdmbkpkRFpUb1h1dGRubzFJTUhOdk5JX3RDWEh1RkZnSFdONDc2MHBVeWNudk0zSWVjWGRvRVFWcnhMVTFmMUV0VnN5Ui1CRjJlUEd6bWp1dw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "6fef36c35082",
@@ -563,27 +645,54 @@
       ]
     },
     {
-      "id": "6f16938553a3",
-      "title": "Prevalence and Surgical Implications of Cystic Artery Variations in Calot’s Triangle: A Prospective Observational Study",
-      "published": "2026-05-04T11:53:29+00:00",
-      "summary": "Prevalence and Surgical Implications of Cystic Artery Variations in Calot’s Triangle: A Prospective Observational Study&nbsp;&nbsp;Cureus",
+      "id": "9784741c24e7",
+      "title": "Université de Montréal develops new interface to study RNA biology",
+      "published": "2026-05-04T11:35:13+00:00",
+      "summary": "Université de Montréal develops new interface to study RNA biology&nbsp;&nbsp;Science|Business",
       "sources": [
         {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTE9JRnJDZUpkZUxON0szQk0xNWZwYjY2RnBsOXV4SzdYWTVZTE5BSzhZRGk3S2N0RFl5cGRUeG9jTnRBOEcwNTB1SURGRGlMWnM4WU5fTXFvZlhLejJpczZyS1lyOWIybUd1N3pSajBtY19RQTlUZ2RVOWpsQnNINEEwN29hWDN0WkNzSDI1WmZsYy1FYlZaUHhhWEZWekRvSno1WDB1UHRPZEw1Wm56TzA1Zlp0Znl4RU1FX0ttQnRIUG4ycm5wSHBzLTZta01uTUc5cHZCMGEzWUVFbjlucmhULVhTMVR3ejc5Sw?oc=5"
+          "name": "Science|Business",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc01BUzh0WTQtcUk2MUUwSUdNZmZaSGRXdFQxLUVNc3J5SlFtVVRxcWxqV1FKOFhTTXcxd2RZNmk3N3hBZjZ0cjdXTnNiSHVBNzZjNlBzRXFBcHpkdTEwS0tJOUlUQTZ1Qm15eTliMTFoUzE5WldJWE4tQ3VBTmZEbC04XzZTdzhRVjZqT2tEaXRkNmhPTEJrT1ZfejhCTUd6MUo0cnBrcFhrck0?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
     },
     {
-      "id": "82ce13bd800f",
-      "title": "Gwalior Man Given Tetanus Shot Instead of Anti-Rabies Vaccine After Dog Bite, Dies of Rabies",
-      "published": "2026-05-04T11:46:31+00:00",
-      "summary": "Gwalior Man Given Tetanus Shot Instead of Anti-Rabies Vaccine After Dog Bite, Dies of Rabies&nbsp;&nbsp;LatestLYMan Dies After Tetanus Shot Replaces Rabies Vaccine; Doctor Explains Why Tetanus Shots Are Useless Against Rabies&nbsp;&nbsp;NDTVMan dies after tetanus shot instead of rabies vaccine in Gwalior | Tap to know more | Inshorts&nbsp;&nbsp;InshortsGwalior Youth Administered Tetanus Injection Instead Of Anti-Rabies Vaccine After Dog-Bite, Dies; 7th Rabies&nbsp;&nbsp;Free Press JournalMan Die",
+      "id": "add20fb7c9f9",
+      "title": "Zydus receives approval to conduct Phase III trials of Zintrodiazine for malaria in India",
+      "published": "2026-05-04T11:34:21+00:00",
+      "summary": "Zydus receives approval to conduct Phase III trials of Zintrodiazine for malaria in India&nbsp;&nbsp;expresshealthcare.in",
       "sources": [
         {
-          "name": "LatestLY",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcURSYXRQQnpVRENucmp6YVpQNU91UTc0QV9YTVhfQndTUWEwQWxJTWR3bFRwNE5NNGo2d2dkYmNaN2FON3g2UTlwcFZjcG84TmpkSk9qR3NqNWFwZ21ZRXh1NWFvdjZlbXJhRHVwVVhhUmZxeG9uczR4M05aS1dGSHFGTm80R2JuTWR4VkpPSGNKMWs5bldnUXZEZnVHdVhjZ3QtRkUtTE4xRFBKRFpfaTN1RUpBS3BUZllKdTJXWHhUbGp5RHZRNnB3ZWJPTnJTV3Y1MTNiSdIB3AFBVV95cUxPMnVEdEtXVVAzbmRtM1NIZkNVdTVjMWVKUl9PTXRuSU1XYU02UFpEODJkRFo0ekFGOVFGTDYwVnNnSTAxOVk2Um5qTUZKRm1WRHVVRTlJOE91YXcxdEJsNElTRUl5WlExRGk3UlRlRUpKRTZQYktLcWx4WmtPRGdDZy1MbHlqazg1bWpwQmd4RXZ2ZVdNTmtnSW90TmVVRzRjWVFNdS1IT1V1SmVvNGRFOW5HbFhaWFVQeENNdWl1ZDJCSGI5OUg5MHgxbVp1bFFqMDJYdWhONmJvbWRk?oc=5"
+          "name": "expresshealthcare.in",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2ZNT0NDM24zNWNlalBMSUo1M19zZjNfcVFuc3g4cExKcFVKMnBzMC1MREFRU0FNZ0daQVBqRDY2Z2VEVkNraDhxaFdNRS1oRkw5OE1leEJ2Z214azZId1JfVkFkZDd2OFo5YlpQSjV5V1J5SU40M1N0U3NSbU5tVEJKdkdab09sTGYxQ1FFQlNBVXVFMzNZaWN5T2ZuZlk0NnVTNEM1QXRDdGlSRmJmUXdkYjVBbEZiSktGREYyS2gtUmRtMGpmZmJDbDRXVmhq0gHWAUFVX3lxTE9IUmpwUmVQTDdWOEhXcXdwSjFmNVhLR1Zwclh6eWJuRTJMUXRYRjNoM1BTbWZnVk9zV3VGdnJxcWNlcVFwWkRIZllkUXEwRzdDdzB2X0h2dkxuNFJNYmZqQURoQ0pSQnI4QV9uSU5lYjlZY2Y0ZnZoUzNnYm9CQ1Qwbk53NllPR0hvT1NkaVpzQjlhTHdKZFFwaS1kYmdZUmU4d3hiQy0zZDB5U2NncW9oR3ZUQmd1bjNnTExmMEZiVXRXR1RTRWtmcFR4cEhNWmJ6Y2pTc2c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "5136",
+          "name": "malaria",
+          "keyword": "malaria"
+        }
+      ]
+    },
+    {
+      "id": "a427dbc5c6e0",
+      "title": "Man Dies After Tetanus Shot Replaces Rabies Vaccine; Doctor Explains Why Tetanus Shots Are Useless Against Rabies",
+      "published": "2026-05-04T10:32:05+00:00",
+      "summary": "Man Dies After Tetanus Shot Replaces Rabies Vaccine; Doctor Explains Why Tetanus Shots Are Useless Against Rabies&nbsp;&nbsp;NDTVMan dies after tetanus shot instead of rabies vaccine in Gwalior | Tap to know more | Inshorts&nbsp;&nbsp;InshortsGwalior Youth Administered Tetanus Injection Instead Of Anti-Rabies Vaccine After Dog-Bite, Dies; 7th Rabies&nbsp;&nbsp;Free Press JournalMan Dies After Being Given Tetanus Instead of Rabies Shot for Dog Bite; Why You Should Be Careful?&nbsp;&nbsp;Times Now",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQazNfekJwWlZHMC1sVFhoOGRiNERnLUNNNjFUalRfY1NmeGVhbHVkWTAwYzZtcDVwR09wdEJENWZISW5SWDROcWpfMlA2Q0wzV2g4SnVyMFVpeHdtLUllLW5SRDF6UjQyeHM2M0tVM3gtTUFmTW5EY0ZOWXNVcGtRUEo3aGRKY0VmdUV3aGFOcElkZmlqYnpaN25BV3FhamxpdEVISEdCeDhtVHFXVFR6c2xvX21WLVVuYmF2R2Y4TnRCaFd3RVNaU2hKTzhSdC1nWnBURGlfaUhlT0U1dFI4V1p3UdIB6wFBVV95cUxPb1o4UHlFR3NWZ2Yyd0k4Nk9wdmpELWhwdUtEMVoxRmlIN3Y4Z05nZ2o1TXl0Wms4ZTR6TkREWnQ3SndHUG1VZ1Zpa09Rc3I0SFl5TnJFYkg1a0xIRV94LURnWmpLNmpjcmxxTzdnekd0Q0FpNk96RmNHd0lXSDB0TkNmQWJKdGJQa01BTWxWQjRkRU1sRkxneHFGWmRCQzgxQjY5UEpJd2plcklYMV9kbjc4YXdOeGJ2cmhoc05WMlh6Nkhuc3BxWnVvUjBQYUNTUGlBVnhnbTFNUExjZjNXSUZ2SWVWMEVqNmVJ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -608,109 +717,6 @@
       ]
     },
     {
-      "id": "9784741c24e7",
-      "title": "Université de Montréal develops new interface to study RNA biology",
-      "published": "2026-05-04T11:35:13+00:00",
-      "summary": "Université de Montréal develops new interface to study RNA biology&nbsp;&nbsp;Science|Business",
-      "sources": [
-        {
-          "name": "Science|Business",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc01BUzh0WTQtcUk2MUUwSUdNZmZaSGRXdFQxLUVNc3J5SlFtVVRxcWxqV1FKOFhTTXcxd2RZNmk3N3hBZjZ0cjdXTnNiSHVBNzZjNlBzRXFBcHpkdTEwS0tJOUlUQTZ1Qm15eTliMTFoUzE5WldJWE4tQ3VBTmZEbC04XzZTdzhRVjZqT2tEaXRkNmhPTEJrT1ZfejhCTUd6MUo0cnBrcFhrck0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "41ee767c885b",
-      "title": "Biosensor detects early fungal outbreaks, advances plant biotechnology - Technology Org",
-      "published": "2026-05-04T11:00:17+00:00",
-      "summary": "Biosensor detects early fungal outbreaks, advances plant biotechnology&nbsp;&nbsp;Technology Org",
-      "sources": [
-        {
-          "name": "Technology Org",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcjBzX3FRRTcyMngyNVZHcy1yTHh4NEFRVHZjSmNaVVpQbklwd2xnVEtNeWl0eEF0ZW9pM3ZzR282WTdvTF9xckFOM0hZd0hLY3BKOUYyWmQxblNOR0RPY0k2SkdGczRSS2JkcGZvY1FOTDlINk9TWENZc1lTOUNZdE9CNmdOdm9WY0tURU9uTkN1eXIwZlhMdEtIeDM4ZDFVd2syVmFBMDdqU1hU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c9185834da2d",
-      "title": "Oncoplastic surgeon shares why breast cancer is rising among younger women and the early signs we often overlook | Health - Hindustan Times",
-      "published": "2026-05-04T10:50:45+00:00",
-      "summary": "Oncoplastic surgeon shares why breast cancer is rising among younger women and the early signs we often overlook | Health&nbsp;&nbsp;Hindustan TimesBreast Cancer Affecting Young Lives: Tips To Navigate The Challenges With Confidence&nbsp;&nbsp;News18Breast cancer risk and detection in younger women&nbsp;&nbsp;South Carolina Public RadioBreast Cancer in Young Women: Rani Bansal, MD, Discusses Subtypes, Disparities, and the Importance of Self-Advocacy&nbsp;&nbsp;The American Journal of Managed Car",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdmZNY29ORWozMVRWdzVHRE5vRGFoRVE1TjZ5bFZUVjlQV2FjVnROYUkyS0c4b1dwaGtrWC1TaU5lWXpuQUJ1OEZhN0oxb185SHlRckFHVVpaZXE0eXViNm5iZUw0b3FVWXJVcnZMMmRoUmtSWGxlcFExUGdySC0tWXJ2dndiUXhiNXN6VXY5Ukd3YThQYklpakc4VEdFRS01bF9RRGxLMWMyN1lRYjY4R0c5RUFIdUNIMHowSXBXR0YzYWxrTGk2S3NDd3lacVJMNG5BWTExaUt1LWVIRVdxd0h2VWR3a2xTN1R4OVNFTXlXNURKVW9KTGd2dmhlc2R3bGF4c0VIYjBfbEJkYUHSAZMCQVVfeXFMTlF2RWROMzBJaEdPVkYtZGpRdHJYOUdVM2RjWFpZc0J2Z0piV2otU3RLS2pMQzMyUzJydXE0cHI3RjJUU3dtLUg3QzZvLVdXUDQ1WkxIcHo5dENWcVpZUmZMVlotOVdBLTF2NjRPWEgyb2xrNklOWHNDUzBuLWtEelVTWTN1d0lQbzJ5N3JDZC1rdHE2dUFSQkFoakx6dXJBRUp1Nnl5YXU1QmxISzg5ZlF0anRaYi0ycl95eE5MZkJEcGtER09fUlpqS1NtUVRuNUM3UnMtaENTZ04xWC1kZUtMNHVXMXZhM1JjNzVQZm8yY29HN1Nvd0RXdVBjdl96Zl96ZENUWkZzbENKMS1Ydmt3UUU?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4379",
-          "name": "female breast carcinoma",
-          "keyword": "breast cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "7254",
-          "name": "breast cancer",
-          "keyword": "breast cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        }
-      ]
-    },
-    {
-      "id": "ab63e84d3e3b",
-      "title": "17 more children die with measles symptoms, death toll reaches 311 - Press Trust of India",
-      "published": "2026-05-04T10:39:12+00:00",
-      "summary": "17 more children die with measles symptoms, death toll reaches 311&nbsp;&nbsp;Press Trust of IndiaView Full coverage on Google News",
-      "sources": [
-        {
-          "name": "Press Trust of India",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUxhNDY2R0E3dHBuRTVKQzFaMmdya1lTNldXTWxGSG5ka1hVZDRIc2xXRWROMFhBNHFhRHVjWkRzRGdqbWFXWW93TzU3NE1JbWtpSHZuaGd6azdUSm5iaVZTTmtWRWgtQ1VrVVU1VTM5U3JrN3BuVDhpUldZcFFGM1l2VTdLbkROQmw5b3huNHExNUZiZVUtUUstWEROSXJjcXBhTnIta3pVa1Q4SmpMc2xBOFhIX2NW?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4619",
-          "name": "measles",
-          "keyword": "measles"
-        }
-      ]
-    },
-    {
       "id": "440e10f78ad7",
       "title": "AgriLife Research Aims to Strengthen Plant Immune Receptors Against Changing Disease Threats | Newswise",
       "published": "2026-05-04T10:25:00+00:00",
@@ -727,7 +733,7 @@
       "id": "4f35c99074e2",
       "title": "Study suggests mechanism by which physical movement could be linked with brain's cleansing process - The Hindu",
       "published": "2026-05-04T09:41:34+00:00",
-      "summary": "Study suggests mechanism by which physical movement could be linked with brain's cleansing process&nbsp;&nbsp;The HinduStudy Shows How Even Small Movements Can Help Clear Brain Waste&nbsp;&nbsp;NDTVBrain motion is driven by mechanical coupling with the abdomen&nbsp;&nbsp;NatureScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyFrom Lab to Life: How Exercise Helps Our Brains&nbsp;&nbsp;The Times of Israel",
+      "summary": "Study suggests mechanism by which physical movement could be linked with brain's cleansing process&nbsp;&nbsp;The HinduStudy Shows How Even Small Movements Can Help Clear Brain Waste&nbsp;&nbsp;NDTVBrain motion is driven by mechanical coupling with the abdomen&nbsp;&nbsp;NatureThe simple link between core strength and brain health&nbsp;&nbsp;News-MedicalScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
           "name": "The Hindu",
@@ -757,14 +763,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f234f773b8ab",
-      "title": "What illnesses can perimenopause trigger in women? Expert decodes the health risks - The Times of India",
-      "published": "2026-05-04T07:55:00+00:00",
-      "summary": "What illnesses can perimenopause trigger in women? Expert decodes the health risks&nbsp;&nbsp;The Times of IndiaMenopause isn’t just hot flashes — here’s what’s really happening&nbsp;&nbsp;The AdvocateExcel Medical opens conversation on Hormone Therapy once considered taboo - sponsored by Excel Medical&nbsp;&nbsp;WCNCTwo doctors explain how perimenopause is being missed, misdiagnosed, and under treated&nbsp;&nbsp;Yahoo CreatorsHow Perimenopause Became America's New Health Scare&nbsp;&nbsp;The Fr",
+      "id": "27b18cb45616",
+      "title": "Nebuliser Use Linked To Severe Chronic Obstructive Pulmonary Disease: Study",
+      "published": "2026-05-04T08:04:02+00:00",
+      "summary": "Nebuliser Use Linked To Severe Chronic Obstructive Pulmonary Disease: Study&nbsp;&nbsp;NDTV",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOUpyeW5wcmZtbDlGblJIT3Jfd29tNDZpZU0zQlNPczlVTWtnSG94Sk84YzliVXhMVzVQb2N1d29nekhUNHNXNFZGY1ZXVlNHNkJTNS0tVnhJNXZleVM3cmgzSHNVbHpzcHRCV09FTDZ4ZlN4alctRm9WNUtjMlZEaFFvOGdlWW9TdU1ZMTB6UzZ5OWgxejI2MVZzeHVlQUdISHFwSV8wSGMxbWdzVTlGQWh2NHJDU2dtWXF6eThlYWxJdF85bDh4WnIwTFRpS1M1ZU44MkJ2VTRzNnJUSnAyWTJ3STPSAeoBQVVfeXFMUDdkaXJ2NGRwdUNLbXJ0TU5EWU56M1NhZnNyZ0dyZjlpV19YRVN0NVhaU09palVpRDdvalEzdmtXWW01cUtZVXd5dkdQNjkzTE5HMmZpZk5GMEFYY25XOHNCMHJ6ajZQUmtHUDBQZ1Y2NFN5Rk01WnZMc1FxMnZsTlhYcTF3aUg3RUxta2VzUDdleFJseUdZVncyNWV5d0pod1VhU1RWTUxiaGJXX0JfMlVfYnFDVTAwNkROZFlYOHNPR2cyOVBpV1lRb2pPcnhpMmZoRlRZQndYSGcxWFBzNHdzemdyTzZxdUZR?oc=5"
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjZ4Ymx2Y2dpYks5eGlzRTRjNjZ2MzduWVVFRTd5d2RUa1I3ZGtoYjM5SkowM25Cd1FlZXdTYlhTUk1Xczl1LUV4YkwxTmR6X2w0UnF4NDZEWUFQZG9KVlJ6clp2dWdHR1ZmVENHYzZxZGc5X3ZlUnF1TjIyWEpUNTZvNk91a3BHNnhYeGd2bE5wc3UzLXVBVXVoTlVGSWJfOFlv0gGrAUFVX3lxTE9LS2pYeGhTWVdVT215RWNoVlk5bEJVbmhjU2FEWE92Zm95UHJNYlFyNHpVdHpra3lmLUllMmJZVDZfM1l3V1p3Vkx4THZzckp0elR3LTdqU19sZWpvcm1zcE5ZM1RoMnJEZ1RvRVozNW9KQk95aEMwU0J5a0tobEM4cFFvc1VybWFaUDd6TFo2TWVWQlpkTG40cU1UUlRtd1o4ZW1yU1QtQlZyaw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -773,6 +779,12 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5002",
+          "name": "chronic obstructive pulmonary disease",
+          "keyword": "chronic obstructive pulmonary disease"
         }
       ]
     },
@@ -815,52 +827,6 @@
           "name": "BIA"
         }
       ]
-    },
-    {
-      "id": "790be1e24131",
-      "title": "Using a Nebuliser Daily? It Could Lead to Advanced COPD - Times Now",
-      "published": "2026-05-04T02:30:43+00:00",
-      "summary": "Using a Nebuliser Daily? It Could Lead to Advanced COPD&nbsp;&nbsp;Times Now",
-      "sources": [
-        {
-          "name": "Times Now",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmp0Tl9GTDFDWmU4dk9nN2JhMkR4cW9TaU1JUXRKaWk3U21yVzJHZ191amJkNHBxZXVTaGx2QUdkZG1ObmxtY21ady1udUEwN1FsY1NDbzFJRVVFTGZfeEt6UktzaXMwMEdIQ0V6Rk1IRnV4UjdCNmtFTm0zNFBCc2ZnUzhFT2FnRUxycnVpRHhJOElFaEI4T2Y0Z0hqSFNNaVJmMGZ3X1M3N2Ez0gGyAUFVX3lxTFAtYjB2SXFLMnJBWUdsaUtPQmlsa2hVUVlaM2hEZlAxZzlHSzh6U0tZZzJ3Q21vc0w0NHBZMGFCOXU1LU45YnllOGp2c1ZISWlEb3FQMkxhTGJfem1ITUJCTk5QSUFKWTNNeHo5T2pPVXJPbVFuNXRlNVJHY1Uzb0xybC1ONTdGNk9LaHAtVndNRWE3amx2ZkRsM3dzcG5udmEyLVloVUJLVEV5RXlpTk9Dbnc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "5002",
-          "name": "chronic obstructive pulmonary disease",
-          "keyword": "COPD"
-        }
-      ]
-    },
-    {
-      "id": "e603e304cfa9",
-      "title": "One Type of Exercise Can Give You Better Results With Less Effort, Expert Says",
-      "published": "2026-05-04T01:36:36+00:00",
-      "summary": "One Type of Exercise Can Give You Better Results With Less Effort, Expert Says&nbsp;&nbsp;ScienceAlertPut those weights down! How ‘eccentric’ exercise opens up a whole new world of fitness&nbsp;&nbsp;The GuardianNew Study Says You Don't Need Hardcore Workouts To Build Muscle&nbsp;&nbsp;NDTVThe Five Minute Workout That Science Says Actually Works&nbsp;&nbsp;Men's FitnessYou don’t need intense workouts to build muscle, new study reveals&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaVk5cEN6T2Zzb3RkaDVWZFNWSWh3NXdCTFVtUGJwdW9DQXk2NGJMTmxhWE5QVGJtTmU0QnBrc1NGdXhKb0pmcEpCY19SY0VNVnUtaWR1THhTdWFwMThFT0NyRHk4dEw0T2x0ajFVbEhuWlk5cGhqcy0yVGdWQU4xcnVLYVFOSE9kck1mMEZYQ1V3OTFhMVpQa3hHaXc0T3Q0VzlPNkk4aHVsZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f81489371cec",
-      "title": "Chennai’s ‘hottest’ days: Why your eyes need protection on the road - The South First",
-      "published": "2026-05-04T01:31:23+00:00",
-      "summary": "Chennai’s ‘hottest’ days: Why your eyes need protection on the road&nbsp;&nbsp;The South FirstEyes to kidneys, summer spares nothing&nbsp;&nbsp;The Times of IndiaExperts advise caution as heat, dust trigger surge in eye problems&nbsp;&nbsp;The TribuneHow Heatwaves Affect Your Eyes: Expert Tips To Prevent Dryness, Redness And UV Damage&nbsp;&nbsp;News18How to protect your eye health in the sun – and why it’s important&nbsp;&nbsp;The Portugal News",
-      "sources": [
-        {
-          "name": "The South First",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUWtJejNyR1FDa2xTbHFWeEMzMlU3ei0zZXhpTzdoYlRmcm9BbEh5WjVOdmRBWWxvY2lyNTdkbzFoSW9JZVZWd25FdUVILWdPNVhqamJpQVpPcEgzUlc0WjRzRmo5bXl4NThoTnNqYzd0YkliWDF1R1lNTzlCN1R5RlFXYnN0b3IzX0Vpcl95eTZoUlVfdEE0V2pCTHp4Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "44d5173777a5",
@@ -915,27 +881,14 @@
       ]
     },
     {
-      "id": "2667292f53cb",
-      "title": "Can collagen reverse ageing? Here’s the truth",
-      "published": "2026-05-03T13:18:47+00:00",
-      "summary": "Can collagen reverse ageing? Here’s the truth&nbsp;&nbsp;theweek.inI Took Collagen Every Day for 90 Days— Here's What Happened&nbsp;&nbsp;Yahoo CreatorsSo Maybe Collagen Supplements Aren’t Total BS After All?&nbsp;&nbsp;Allure",
+      "id": "6706511e7278",
+      "title": "MAHA Awaits Robert F. Kennedy Jr.’s Definition of Ultraprocessed Foods - The New York Times",
+      "published": "2026-05-03T09:00:44+00:00",
+      "summary": "MAHA Awaits Robert F. Kennedy Jr.’s Definition of Ultraprocessed Foods&nbsp;&nbsp;The New York TimesHow unhealthy ultra-processed foods are designed, marketed to make us crave them&nbsp;&nbsp;The Indian ExpressThe growing threat of ultra-processed foods&nbsp;&nbsp;ODISHA RAYDoctor issues warning over food ‘worse than smoking’ that makes up over half the average American's diet&nbsp;&nbsp;UNILAD TechHere's What Happens to Your Body When You Limit Processed Foods, According to Registered Dietitian",
       "sources": [
         {
-          "name": "theweek.in",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTGdNdW14eVRXeDdPckZyZWJZWnlBT1hkMnNEZmxWUUt1Tl9nYnZYMUNVaGxKRnZNVndrWERrVlBuUXBiUHFkS3JfYUJJMFl6QlZ1bHIyeURzcGwwdEFDT21DZEtNSVJ6blpfM3FSVzBya2RITVhvcHZXVW5Na0t2RWI0LUVTcU5QaDNMLWgzZUtjSDU3Y005RXVB0gGfAUFVX3lxTE9LSFpPRE0yNUl4a2VMVXJHRXZSb3RwMm8xS092YkxPckFwWTBiOFh1dmRxX016X3c2RG1NbW0tWmwwUEZydGZDMWhvQXNDcVl3Nl96RHhka3FxeWpfTnUwQy1nZ3MyVTZ4bjlzcUdVMTEtYjE5WXA3cTlBcExUQmhzNkhJZG1TS2NKWk90Y0dYdV9qM1pEaC1XTEFkelUwOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2cdf6e63cb00",
-      "title": "Social networks of Homo Sapiens may have caused Neanderthal extinction",
-      "published": "2026-05-03T07:20:21+00:00",
-      "summary": "Social networks of Homo Sapiens may have caused Neanderthal extinction&nbsp;&nbsp;News9liveWe Outlasted Neanderthals Thanks to One Key Difference, Study Suggests&nbsp;&nbsp;ScienceAlertNeanderthal brains measure up to ours—literally&nbsp;&nbsp;Ars TechnicaScientists think they finally know why Neanderthals vanished&nbsp;&nbsp;ScienceDailyMap of Ice Age Europe may explain why humans survived and Neanderthals vanished&nbsp;&nbsp;Earth.com",
-      "sources": [
-        {
-          "name": "News9live",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPekxJWGpUVWxKNXY1QVk4b3JnU1pNNlZJMmd3WTNUdFpvTE40N1A1cHNwTWRSQmlhZEt6azl4cWNWSTVvV24zWWRwdWFrTS1sREMxQzJhUVIyTE5IeUtYb2pVS1JuMjFtYjBsWGxjQXJXSklXbTZGTG93TWFUSjBfbnVNSHd3MGdGczlPSE1wZjJ6S0d4R0xsR1htWjZKRHZPZGxNeDVyU2Z4RkZIYk9OUTVn0gG3AUFVX3lxTE1ORWhzb0NMVF9tVF9pSnkyS3I3YndSRDhTUEJVX2FnYzh5MUJJalh6Q21ETHJkSGpBR1pkSmdLZVVTQklVOFVlb2M0WDg5SWw2Zml0ZkZERlV2cHNKR2FaOUpxcTc0azI1MVhSVGVKNGwzY3RsUm0xQjR2a1JLcUY5MEo1N1l2OE9DUUpWMTAzSE92NllkNVp1M0FCUXo0eUphNmZyWVZiY1hYcXRLT2FMUERyWDVNaw?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1FFUE5COEQxamdEckE0WldBMFRaZmctaUJtLWtydUtCMXFIREJXWTJua1dnQTJrbmFqTlRBeEFISVZNNXJWbGpQQ0UyNlMzSDAzUUtZbVhTS2RvejhyNnBGYXZvd01Mc3Ytc2lVc21QbVRNSGZIR1c2bGlET2hOeldqQ3Q?oc=5"
         }
       ],
       "matched_keywords": [
@@ -944,6 +897,12 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "8383",
+          "name": "rheumatoid arthritis",
+          "keyword": "RA"
         }
       ]
     }
