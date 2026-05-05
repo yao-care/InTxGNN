@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-05-05T07:49:42.815022+00:00",
-  "total_count": 38,
-  "matched_count": 31,
+  "last_updated": "2026-05-05T13:02:22.743950+00:00",
+  "total_count": 42,
+  "matched_count": 36,
   "news": [
     {
-      "id": "eb22c28a93c2",
-      "title": "Heatwaves Are Quietly Damaging Vital Organs In India - BW Healthcare World",
-      "published": "2026-05-05T07:32:56+00:00",
-      "summary": "Heatwaves Are Quietly Damaging Vital Organs In India&nbsp;&nbsp;BW Healthcare WorldClimate Change Is Making Strokes More Frequent And Deadly, Warns World Stroke Organization&nbsp;&nbsp;NDTVMercury spikes don’t go easy on blood flow; Link between heat stress and heart attacks&nbsp;&nbsp;Deccan HeraldChill That Can Shock: Silent Summer Stress on the Heart&nbsp;&nbsp;Deccan ChronicleIntense weather events like heatwaves, extreme cold, and heavy rain increase heart disease risk&nbsp;&nbsp;Earth.com",
+      "id": "008aed597178",
+      "title": "GLP-1 Drugs May Cause Muscle Loss in Advanced Cirrhosis",
+      "published": "2026-05-05T12:48:14+00:00",
+      "summary": "GLP-1 Drugs May Cause Muscle Loss in Advanced Cirrhosis&nbsp;&nbsp;MedscapeNo Need to Worry About GLP-1-Induced Muscle Loss&nbsp;&nbsp;MedscapeGLP-1 agonists and the hidden power of outdoor exercise&nbsp;&nbsp;KevinMD.comResearchers link popular obesity drugs to muscle loss via metabolic instability&nbsp;&nbsp;동아사이언스Six of the best exercises to preserve strength for GLP-1 users, according to an expert&nbsp;&nbsp;Fit&amp;Well",
       "sources": [
         {
-          "name": "BW Healthcare World",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWJWWXdhSTBVZzlvNE5XWUhvSU1SOEZPYktCc2xRSk5pVzlNVEpYVjRaa3F2enpTNEh2X1hFeUd5OUgyNUpMdlNBandUUmpnUnNBMUxqWTdrUXBiNXdvZ1lFWDc3N0h6N1RLaEl3ZVZmM2NSZG1kU1ZkZWFBNVYzMFp6QzhjQ0lJUmhtcDJoMFlsaW9CRWpNeEFXbzFWRXBJU2pz?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdzRLUGoxMDlkYWYzWm9hU0tacWo0bklhNllaWnlvaTRFTHF2V2d4Q25kbXFOeEdWanJGVVR0WnhsUkM5X01JYmhhYkdOQlRzeFpBOGVZOTA4YV9GcnVmM0VSaGVTNUtpQldmSnVSakwwaUVOSm53YVE1WUUxNWZ0d003LXVvUU9sTmhNa0RLZ28yam5oeVRweUVISFN3S2MyVnRTaA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a8009415bd94",
+      "title": "World Asthma Day highlights need for awareness, early diagnosis | Daily Sabah - Daily Sabah",
+      "published": "2026-05-05T12:19:29+00:00",
+      "summary": "World Asthma Day highlights need for awareness, early diagnosis | Daily Sabah&nbsp;&nbsp;Daily SabahChildhood Asthma On The Rise: Causes, Triggers, And Management Strategies&nbsp;&nbsp;NDTVAsthma cases surge in Bihar; doctors stress awareness, early treatment&nbsp;&nbsp;The Times of IndiaCan regular use of inhalers lead to addiction? Lucknow doctor busts most common asthma myths on World Asthma Day&nbsp;&nbsp;Hindustan TimesWorld Asthma Day Highlights Urgent Need for Education, Support and Advoc",
+      "sources": [
+        {
+          "name": "Daily Sabah",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUFmVU1TYlBhQV9XZElXWktLTWJMdnYwUzVRb2x0U3BobGpndzIwTGdBdEJjTzRuY3dkLUtiWnpldjdxV2FTd2tsODE5QXprR3hucDcxVXUyQ1hhV01vcTcwZXZaM2x2Q1lpQjAwRTBiWjRUejdMN1JRMV8zeGh0czJpd0x3eXNXUlgzVXBqbzdkOHl4QkZ4bWdQaGxyRjNMeDVv0gGoAUFVX3lxTE9GcjU2eUJ4MWVsemxmZFpjREU0TGtPa0VheGpGbXpjZ3FDMy1jLUswdG9YSmhxclNJTXktaDRWSUpTRDZ0RVpPWjcySUU5VHhHakRNYzYyX0dtdVhoQkhZc1UyWGpVSU94bjFMT202NWNXeFNlOElIajdCcFRzOERIeHpXT3RHTjV0RnktdkZZZzZHSVczR25XYTh3M2ZsOF9oQnl2dFZIWg?oc=5"
         }
       ],
       "matched_keywords": [
@@ -23,45 +36,21 @@
         },
         {
           "type": "indication",
-          "disease_id": "5267",
-          "name": "heart disease",
-          "keyword": "heart disease"
-        },
-        {
-          "type": "indication",
-          "disease_id": "6652_3678_1090_3672_3673_3676_3677_3679_6803",
-          "name": "myocardial infarction",
-          "keyword": "heart attack"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5709",
-          "name": "common cold",
-          "keyword": "cold"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__heart_disease",
-          "name": "heart_disease",
-          "keyword": "heart disease"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic_stroke",
-          "name": "stroke",
-          "keyword": "stroke"
+          "disease_id": "4979",
+          "name": "asthma",
+          "keyword": "asthma"
         }
       ]
     },
     {
-      "id": "11db9ad9b212",
-      "title": "Asthma Day: Indoor Triggers You Didn't Know Are Worsening Your Symptoms",
-      "published": "2026-05-05T07:06:39+00:00",
-      "summary": "Asthma Day: Indoor Triggers You Didn't Know Are Worsening Your Symptoms&nbsp;&nbsp;NDTVKnow your asthma triggers: 7 hidden causes lurking at home and smart ways to avoid them&nbsp;&nbsp;The Times of IndiaRaising awareness about asthma: Practical tips&nbsp;&nbsp;The Hans IndiaAllergy-Asthma Management Strategies&nbsp;&nbsp;respiratory-therapy.comChild to adulthood — asthma can be triggered at any time&nbsp;&nbsp;Viera Voice",
+      "id": "089bbb5fcb64",
+      "title": "The Silent Build-up Of Asthma: Hidden Symptoms, Triggers And The Warning Signs Many Miss - BW Healthcare World",
+      "published": "2026-05-05T12:05:30+00:00",
+      "summary": "The Silent Build-up Of Asthma: Hidden Symptoms, Triggers And The Warning Signs Many Miss&nbsp;&nbsp;BW Healthcare WorldAsthma Day: Indoor Triggers You Didn't Know Are Worsening Your Symptoms&nbsp;&nbsp;NDTVKnow your asthma triggers: 7 hidden causes lurking at home and smart ways to avoid them&nbsp;&nbsp;The Times of IndiaAsthma Doesn’t Take a Summer Break: Why Hot Weather Can Still Trigger Attacks&nbsp;&nbsp;Times NowRaising awareness about asthma: Practical tips&nbsp;&nbsp;The Hans India",
       "sources": [
         {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDgyVVZpeTJzbmo5N2dvaFFRdGpaOE15VnIzaGFQOWhqTzJkOTd5bnZzeDN2ODRqam81VjlpeU1ia2d1Nzh5WFVCaGFGYTl4ekNRUmFxclJaWjVFOU9sb0RyOUc4SE0xM3B6Tk1iUV9tNF9Xc2JIT0ZRMnFZNUdaemVucW9iU0xFRkZYa0xEcm5BWlVLaFZ5QmIzbVo5dUw0UFFXOGdUYmxQd9IBsgFBVV95cUxOUUVfTzZGUVI2YjJCS2kyS0JvVnRnLXJFNTMzVnJDa2U3LVZuUWVFWWo4ekhTdGNzdWtPQVB1QTNPSDRCS2ZzRUV6QmxiQldmaHBDSHJMS2FtMWRMQU9YMExuVHhnQXJJeVhjZFB0ZVhzTUlRZ3NrQnNzeWhHa05wWEtaYW5adkNySmw1aHBnQzNtSDVIWDMtcUVqbXZ6UXRnYVRaLXY5SVNRTzJ0SGlaS1dB?oc=5"
+          "name": "BW Healthcare World",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYk1ka281WmVOQzJRV1JiWlFOZ2F6TkN1bG5OY25zQlNvTUxQRG5nRUtVN3NQbHJWbmlBbDNfUVRTbTlVWHRfRGhQempVczhjLUp1SnhGaW51VklFSHZua0tYT2ZpLVlpMllwZVVVREh4eEF0cGVtX2x6eXNaVnVvVlNpRjVvZFJQbTNIQTVUODVGRnN2cWVwWTlBc0hZYTh1Z25GQkQxN0Y5LTJTQkpiMmdReXVNZGVGaU96YjhLUllJTkNwSjFjZ3ByendMTVV3?oc=5"
         }
       ],
       "matched_keywords": [
@@ -74,27 +63,165 @@
       ]
     },
     {
-      "id": "6c0933529a54",
-      "title": "Cranberry Juice Shows Promise in Supporting Antibiotics Against UTIs - The Indian Practitioner",
-      "published": "2026-05-05T06:53:00+00:00",
-      "summary": "Cranberry Juice Shows Promise in Supporting Antibiotics Against UTIs&nbsp;&nbsp;The Indian PractitionerCranberry juice may boost UTI antibiotics&nbsp;&nbsp;Medical XpressNatural Compounds in Cranberry Juice May Enhance Antibiotic Treatment of UTIs&nbsp;&nbsp;Inside Precision MedicineCranberry Juice Shows Promise in Combating Antibiotic Resistance in Bacteria That Cause UTIs&nbsp;&nbsp;Discover Magazine",
+      "id": "78c535809ca4",
+      "title": "Postpartum Antihypertensive Use Flags Future Heart Risk",
+      "published": "2026-05-05T12:01:38+00:00",
+      "summary": "Postpartum Antihypertensive Use Flags Future Heart Risk&nbsp;&nbsp;MedscapeView Full coverage on Google News",
       "sources": [
         {
-          "name": "The Indian Practitioner",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXg1TXFZOE9rYWc2dm1ET0lWQ1hPNlI4SFItckltV0w1WXMtdTFiY3VLZjcwbHRtR2xhYTRab0gwRlRZc1hNWHpvYy1LNmlOSzgtYkFBbVEzMVdiTVVMSjg3Q0w5Z3pYNmR2RGp5YWVTOWZMRHh4dEh0R01qRlllVE12dnAyTGtRYk1pUGc5X2lVaTRRZkNVTDJDSkttSzh4T3dyZkpn?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREhhMnl6TnNYcE12U2RQNGYxWUxnY3Y0RC0yR0h5UzJiQ1pPcGJfUHYwRVdxQ1lGVklleWRwWEt1cUZCaC1tdmJLZW4xNThlMHJYRW1XWUVBTHpRUzZFTXVkWjJxNDU5NlZRMC1uZFdiS3BoRGFvQmpXTkVMYlhuOGJSSzRUV2V3UXNKaWUzdEVXZGFZczZMUUlSOGpmVm1xcHFEUXlFN3U?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "dcecc3b613d0",
-      "title": "Can Lazy Eye Sometimes Indicate A Brain Tumour? Expert Explains",
-      "published": "2026-05-05T06:13:15+00:00",
-      "summary": "Can Lazy Eye Sometimes Indicate A Brain Tumour? Expert Explains&nbsp;&nbsp;NDTV",
+      "id": "57981d39f175",
+      "title": "Why Indian Women Are Still Diagnosed Late With Cancer - Frontline Magazine",
+      "published": "2026-05-05T11:54:15+00:00",
+      "summary": "Why Indian Women Are Still Diagnosed Late With Cancer&nbsp;&nbsp;Frontline Magazine",
       "sources": [
         {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ3JPZW5CTjhPWUJKS05qb3h0eVZuUUpPVXAtaTFIUUhWWEVSMFJZUjJfNWpSbGFDdmtjanVSSldWb0JRbkZpTklOd0UzV1FpSmU5NHNNNkVlVmJHbFFYRVl1ZmhPckJ6NzF6VUtXVnh1SkY0Vmt6N2V4UWtzOFJyaGNDeEt0UktvM0daY056U3BqNldXSWNSTGUzRnFhbEtC0gGoAUFVX3lxTE5sNGtRZU84NXhMQnRCdXhqSXcwT2hUWVBka09pUVJYS2hmTG01cXF3X0xFMVJOYXM0RmhuNDIyMS1OU2VXVjlCLW9NX2kwSmI1QlU5YW5fRG83bnNiU2h6LVNXeEtabE4zZ0ZzOE9FOEFiazhUZzFQRHRkNW1qZG01OXFJVE9TMUZRWk9wLTFWZThZOW1nWVpuLWVlS3U3MHkwd0pwb2NMag?oc=5"
+          "name": "Frontline Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ1pJSC1fZ1FDbWplWElGNlRBSkdTM2dJUUJYZFJTdDE2NlRVN2ktV2FOdXRzSFc1bW5yNkNKMkpSVGoydmdEYU9ibDgwUVhmU3p3V0hnd0t2Sk1HR1VKbEQ5bDhfRlpWOHZJMWtKQTJWcHl4VFpaaEFLN0lZbU5zeGRfUU1ON0QtNjFfWndSOTNiVkRncVJFZERlVDZGd0VzelNyU3pNbWgxUDNPTk4wSmgzRXZRNzQ2cVVQYVBvUGnSAccBQVVfeXFMT1A4djRYcmxhUkYzREI4bnQ1elJMM0pqZDVET3pQbTN6cmkxc09zVnN4QWg5U2EtYTM0dUNyLU14a3lPMl9WUUk3RGNJUkZNb0NTWTUtamdQbHAxU3ZJRHZnZkVtRjRhQkZhd216bHlDanRWVG9wZ0JRZzVMQVFCcHRlajFsc3FqaHQ0TXphbzd3ZWV4QUxUOWNNTGRkMS1rdjJtT3ZJbHJDNVRwRUR2ZTMzdExwMXJfNkQ2N1k4REtnYjdkOUN5Zw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
+    {
+      "id": "1180b66544cc",
+      "title": "India may avert 10 million cervical cancer but vaccine cover remains low - The Indian Express",
+      "published": "2026-05-05T11:32:18+00:00",
+      "summary": "India may avert 10 million cervical cancer but vaccine cover remains low&nbsp;&nbsp;The Indian ExpressRich nations might eliminate cervical cancer by 2048, progress slow in poor countries: study&nbsp;&nbsp;The HinduHealth experts urge screening, vaccination drive to curb cervical cancer&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)From breakthroughs to impact: Delivering cervical cancer elimination at scale&nbsp;&nbsp;Open Access GovernmentHPV vaccination and screening: Your shield against cervic",
+      "sources": [
+        {
+          "name": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3daQVoyWlJHbUZueHdpd1Z5bUdMSTB4TTRuVFdMVlBnaEZMTndfVTJKdVJ4WG52a3B4T193OUxJVWRPV3cyTm1BQ2p5VWhnZDZ2aF9GNUNjN0UzSWlIeHpwdnlrODFBNDl1NkVJZ0ZIMHExb2pEMUlXdl9OT0RxcVFhaHJsaUJVTlloMUlPSnFhOWpVUWZiZUJ0eXBRd0VxZnRLc1hoVUltbnJZOUViYzltcDcwcUhkdm5OT0pCQ2dUR1lGMG54SUJjUdIB0gFBVV95cUxPeTFQWXJfOS1INFdnNk9zWFF6dV9adlp6TU9BUDdIUUZ2aE5EN0xHemRLVFJiRFJ0OUtCclZ5clVLcUctQ1prX19MTTY0R2c4WmFROExad2x1NXF2WVBwbU1mR3BTanowc3hadE1yUUF5OFktTE9FbnVWRFZVSGFGV0hBSlIyUnFPY1FiY3RPV28zak1walhPU0N5WENPQ3lqeUZ4dVY2T1FJdm9KMmtkMHJkWVpVV3J6OUl6eHBBT1hCRmlMZkN3R3ZWUXpHYllPSlE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "2974",
+          "name": "cervical cancer",
+          "keyword": "cervical cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
+    {
+      "id": "646275e9c613",
+      "title": "Insect brain discovery offers a blueprint for faster and more efficient AI and robots",
+      "published": "2026-05-05T09:38:13+00:00",
+      "summary": "Insect brain discovery offers a blueprint for faster and more efficient AI and robots&nbsp;&nbsp;NanowerkWhat Uploading a Fruit Fly’s Brain Means for the Future&nbsp;&nbsp;whatstrending.comResearchers Simulate Fruit Fly Brain Controlling Virtual Body&nbsp;&nbsp;Let's Data ScienceInsect Brain Find Boosts AI, Robot Efficiency&nbsp;&nbsp;Mirage News",
+      "sources": [
+        {
+          "name": "Nanowerk",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Xd1JqNmxGYmVXekE0bGgtMEhWYlJCWU5qZlhBeFRrTzlzOGRDUlpXaGlIWmxLQlREazE5SjdwbTQ4cHI2dTBRVzlhRXNMS1d4MmozQXRCU0czY3JFRlo1RzdTRjVocGM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "083c40c303d4",
+      "title": "What Happens When You Drink Lemon Honey Water Every Day For A Month - NDTV Food",
+      "published": "2026-05-05T09:29:31+00:00",
+      "summary": "What Happens When You Drink Lemon Honey Water Every Day For A Month&nbsp;&nbsp;NDTV Food",
+      "sources": [
+        {
+          "name": "NDTV Food",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWhqaldaOU9KeDh0RlI1YVEwaWt6dldkeTZxVGFGVzVNSEF1eUQ2b0VMTk5HSF9qMkRORXY4SHUyZkNFSjBoV2FGLUNGTmFLM3ViRkg1eXpia0VfQTQyZ3l2Vk9RaXhIdGZkMktjb3VIMnFNZ2VWS0VyVnBhR2x0Zi1JdEF1Q19ORW5XUGFvYjlWaC1BUkZ4M0R3eGVYSnU5NWdDUzhRdXjSAbABQVVfeXFMUEt1SVZFTTU0ZnNpV3dQc001TVVtaG9vMm5NQkktR2loN0lYRXE1RnV5UE5hcnpOVmFmejY5ZDJKd1lZUGxyc3J4LWNqTWluS1JDMTZMejRQMmdXbU9uS3lyMHJsV2pwb2hqQWJLdUdZdm4ya21qYWZIMVVkNW85cUFsdkFnRWF6UGx1Sk5CSWswTmtIcnN6YW1NUmZPaTl6WG40OUFxSkJ4bWt5SUZnZFI?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "53317a126f76",
+      "title": "Hantavirus outbreak: Seven cases confirmed or suspected on stranded cruise ship - The Hindu",
+      "published": "2026-05-05T09:24:06+00:00",
+      "summary": "Hantavirus outbreak: Seven cases confirmed or suspected on stranded cruise ship&nbsp;&nbsp;The HinduHuman-to-human transmission suspected on board hantavirus cruise ship, WHO says&nbsp;&nbsp;CNNTwo hantavirus cases confirmed, five more suspected on stranded cruise ship&nbsp;&nbsp;Al JazeeraMan Trapped On Cruise Shares Emotional Video On 'Hantavirus' Outbreak: \"We're Not Just Headlines\"&nbsp;&nbsp;NDTVHantavirus death prompts WHO to trace passengers on Africa flight&nbsp;&nbsp;The Economic Times",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN3JjNmp3MW1wMHlJNEx6U0ozMng1ZkNNS08zdllLX1RYZ0VLMVFYcUh2MjZLcVhPOGJLMzFWNy1QVXNNbkdTSG1RZV84dldqY0JxeVpWZ1IwcFpwOHBvQ1VRZC01dVp1M3drbXJiczJIaTdIY19jOWsyRVhVTzVxakQ0OWFwQ091UFBzeUNlOUZtXzZTYUo0ZXZkaGdrdkRsTWJQSi1wMmpFblp4ZE1JSG5wVm9pT2FnUllTVFZ6cTB4NlZSUTRlb2NTZlhHbTFQN3FOSV9EOG5ZUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "93d15016dc09",
+      "title": "Tango partners’ brains sync up, new study finds. What it could mean for human communication",
+      "published": "2026-05-05T09:20:01+00:00",
+      "summary": "Tango partners’ brains sync up, new study finds. What it could mean for human communication&nbsp;&nbsp;ThePrintSomething amazing happens when two people dance. Their brains sync&nbsp;&nbsp;India TodayBallroom dancers' brains sync up while moving together&nbsp;&nbsp;News-MedicalWhen dancers move together, their brains do too&nbsp;&nbsp;Tech Explorist",
+      "sources": [
+        {
+          "name": "ThePrint",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcjlRVE9IdFdtNGk2WUo2cWpDNGdURWR1THZzdFgyVkpNWHE0dmQ4VWYwTWNRQ2U0eEZYRmUtbGlMVmN5NFhvSFh5OFFQOU5TRXJYeVk3SjZPbnJhSmxNU0h5alZnak5jczJ2ZlAwT2lmVlBzVmI1U1lxRXdoYTJ6TE5vcDZacDF3ZFhvM3lKVzF5WkpSTTVvTU9VU1lPdjRhazl2VllValU5b1lsY2lkekJGWEFMb2ZzZGV0U2xRUWpLVmfSAcgBQVVfeXFMTkxqWTZUSFJxNkRqM2dQRnlMaFpxeEFlbWJUNGtrXzg3OGpoUXpvNVpjRlBHellGdlVGbmdYbnFXeTYyZUV6OUxlZEw0VG5XN1NibXZWUmtZMFJSUDFJUDlVazJwdk1oM2xPT1dSUnZ4ZTV1WDRheXhGdkt2RlQxc1FlUWJDZmtELWFPMzh1M01wWTBxOXF5cmlkOG1pRGtKbUhObjQwTnEyZWttT1lRVFR2b1hyTW00cjZDX0VPVXVKLWdTXzE4dU0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "93723068b063",
+      "title": "Can Cryopreserved Testicular Tissue Enable Fertility?",
+      "published": "2026-05-05T08:41:38+00:00",
+      "summary": "Can Cryopreserved Testicular Tissue Enable Fertility?&nbsp;&nbsp;MedscapeMan produces sperm from testicular tissue frozen as a child in breakthrough trial&nbsp;&nbsp;The Guardian‘Infertile’ man given fresh hope of a family after having world’s first ‘frozen testicular implant’&nbsp;&nbsp;The SunMan made infertile by chemotherapy could now have children&nbsp;&nbsp;The TelegraphThis scientific breakthrough is a solution for male infertility&nbsp;&nbsp;NewsBytes",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTg0NGtjN2s4QzhrSHhrR0dZMGpTaDFvQ1BxamZOemVGcVExOWoxVG05ZllRNldjeUREelV0RVh6TXp3RExPQURjeVNrWW91VnFlQnhHUGhteHFiR2ZSRHNlWFJ4NnNSSV95eFRFNlc1WDJ1TkdORE9yQkF5UExua3BiWnA5U0h2bGVIZnA0SXVydzdPOFN6ODNwSllIQWVEWkg5cw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -106,21 +233,21 @@
         },
         {
           "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "tumour"
+          "disease_id": "5372",
+          "name": "male infertility",
+          "keyword": "male infertility"
         }
       ]
     },
     {
-      "id": "75bfee2043b5",
-      "title": "Hantavirus outbreak: Cruise ship with 150 aboard waits for help, not allowed to dock - The Hindu",
-      "published": "2026-05-05T05:57:24+00:00",
-      "summary": "Hantavirus outbreak: Cruise ship with 150 aboard waits for help, not allowed to dock&nbsp;&nbsp;The HinduWhat is hantavirus and how does it spread?&nbsp;&nbsp;CNNWhat is hantavirus, the disease that has killed 3 cruise ship passengers?&nbsp;&nbsp;Down To EarthHantavirus: As WHO shares the symptoms of the infected patients, Delhi NCR doctor reveals how a mild fever can become a life-threatening lung emergency&nbsp;&nbsp;The Times of IndiaMan Trapped On Cruise Shares Emotional Video On 'Hantavirus",
+      "id": "312f770e464d",
+      "title": "Protein Folding, Parasites & Malaria Breakthroughs 2026 - Frontline Magazine",
+      "published": "2026-05-05T08:30:42+00:00",
+      "summary": "Protein Folding, Parasites & Malaria Breakthroughs 2026&nbsp;&nbsp;Frontline MagazineFirst malaria drug for babies is approved in ‘major public health milestone’ | Global development&nbsp;&nbsp;The GuardianWHO prequalifies Novartis' antimalarial Coartem Baby for treatment of newborns and young infants&nbsp;&nbsp;Manufacturing ChemistWHO approves first malaria drug for infants under 6 months | Coartem Baby contains two antimalarial drugs | Inshorts&nbsp;&nbsp;InshortsWHO approves first-ever malar",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRFR5X3RkOGxPa245eVBRai0tRDEteXdkdmVJWUM0UjNFVEdtWGJTcWZGN3lzZ3UyaHJELXVRdk9VbTRFRTVQWVY1UGgxanpLNVR5aUhpVVpZeUNTYjdWRUx5dTdEWmw0V0pYZGd2MG5nQU9tMm9FVzJTR2dJU0FUTE93cy1BdXNpeVBoYk9DZjVwYThmVWZmOHZ1U3NuelNkZHRYajU4QmI3WGliaXFPeVJHclNQMTNmWk5OdEx3MWVESVlyQ3Z0QkNXWWY4WUhuUjJQcGZMaHd5a0tTWWk00gHmAUFVX3lxTE9yMmYtTlJpRWFJYkdBc0M5eWxjYTltck9VVV91Y21WcTg4LWFzX29xLWwxRnpxVDdWRk8zV2RaSlF0NUdlTXEtRDRqWVczcDFwNjB0Q2Q5MzhReFZ1UWY4UEVWaXpUTnNnUWRaY0xwdTlZcjNUcGwxQkYwNEl3WVRsZE1qdktFRFBCeGxEcXZ4QnRvc2hjdUlnRGtBSGJmTVAtM21lcWZDMVlkN0w4SlRZOVBmSzhoQzgwenZuSXQ4YUVLRkN6enY4Y0d1bzExSU9oQWZqRDJqUEo4REZMOWVPQTJOZGJn?oc=5"
+          "name": "Frontline Magazine",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWDJhSEwxX1JBNUE3aWxnbEhNOHJNMjJ1N1RWR0ZQdGktRW15MWlMdEZURjRfSzV2V2Z5Mk5qaGxvRXB3QzJNSXhCd2E5UjFYczMtR1FJT2xhZmo2TUdDaEZoRjRCM2R5S05SNjZGdjlLdTF2X0dHd01ib21fQURGUG9wOFNPNnVVNmxpazRCYXJjazd3R1pQUXF4VVROQkhPenM1eHdkWmlqSU5GeGNGVkFaWjV5ODFGb3J3clRsZVBiUGtnQmwzdU9HN0l0d0ZHNG9HcDJkcS3SAd8BQVVfeXFMTjZlZ1FfeV8wSVdicHZVVXBINXlGWWk2ODE1UWd6eHAzRU1OLW9RbUg0RG5zNUM0UUxtc29KR29pZlJtdzR0NUdsVG5mRnRpdFV2aFRLZXZIbWdkdm9SWElTaEZORnFXTTNDbFJHWnZZSVRzNGNQeUhIRUxOX3B1SS1RT3pwRTJfVmhJcTZyWXNNTFVDTzE2cmxqaXBoRC1XS0JwMGNvMkV0cm8xNVVkQ1gxdFZGZFlwRUttemp2UmRRUVY0czhVXy1tSEpHa1hoLTh1VXc5LWlrMmtYNkxFMA?oc=5"
         }
       ],
       "matched_keywords": [
@@ -129,21 +256,59 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5136",
+          "name": "malaria",
+          "keyword": "malaria"
         }
       ]
     },
     {
-      "id": "b9333d5218cf",
-      "title": "Man Trapped On Cruise Shares Emotional Video On 'Hantavirus' Outbreak: \"We're Not Just Headlines\"",
-      "published": "2026-05-05T05:54:55+00:00",
-      "summary": "Man Trapped On Cruise Shares Emotional Video On 'Hantavirus' Outbreak: \"We're Not Just Headlines\"&nbsp;&nbsp;NDTVWhat is hantavirus and how does it spread?&nbsp;&nbsp;CNNHantavirus outbreak: Cruise ship with 150 aboard waits for help, not allowed to dock&nbsp;&nbsp;The HinduWhat is hantavirus, the disease that has killed 3 cruise ship passengers?&nbsp;&nbsp;Down To EarthHantavirus: As WHO shares the symptoms of the infected patients, Delhi NCR doctor reveals how a mild fever can become a life-th",
+      "id": "b40d99c1ba7d",
+      "title": "Killer cells caught in the act: a 3D view of T lymphocytes",
+      "published": "2026-05-05T07:25:10+00:00",
+      "summary": "Killer cells caught in the act: a 3D view of T lymphocytes&nbsp;&nbsp;healthcare-in-europe.comScientists Are Starting to Unlock the Nanoscale Secrets of the Immune System&nbsp;&nbsp;WIREDNew imaging reveals how immune cells destroy cancer&nbsp;&nbsp;Drug Target ReviewResearchers Visualize Immune Synapse of Cytotoxic T Cells in Three Dimensions, Advancing Immuno-Oncology Insights&nbsp;&nbsp;SSBCrackFirst-ever 3D view shows how killer T cells destroy cancer&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1d5UzdnM0hsRXgxR2w1MHNXVDJsZlhRTEh2b0ZabFhRRXA2QnVQM0dKY1NYWDN4NjFfUEtqSHl4V29JcFZ1TFVNVjhBa1ZnakFJVmdCSFFzUnhyY1VQR09nbG9yUk5jS21UN1BqQ2ExZWpfNzFCanNOSmpwTlBnQ1EyRlR3Sy1IMWRHaWFaTzQ4WjVnaTlSMVdGWW9ad3pwcnE4cGo1aVJnQlFRRmlPcWdCVllPMW95Q3RoUWVucy1LaTFUa1FWOVFOTlbSAdQBQVVfeXFMUDdwSlZvY1daNi11X1FMd0FJNG03Yzh5Vmd5QXFWM2YzMDluS2V6Z292RnVQOWhBelo2cGk1WFFTeERvNk9jYUV5OEkyWTZsVTBQQ3o1YVZSZFRpWW1IamFXakI3UEtRUk9pVG9RMmNxZldBVnpfVUR4Tk9VMzhwbEhvQXdqWkRPZzZRNmwyRno5NmRzdVhrTDhPd211SnlWZUxNR2NSem1UWlhSQ0FuS1RWM0RaWjFkc0RUdVZDUDlhRzliaEFZYmxjODNsUzRjXzk2Tlo?oc=5"
+          "name": "healthcare-in-europe.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX19WY0Z4clRvSzNCRWJWRmltbE0tLXplLWZJUkdIbVBTMjdPdFVfbXl0dUpETTBGOXQ2MjIwZ3JwaVd2MlpzN2NQcTdnVUwwbm9uamtVLXZ1SHhNMXRxanJReUtkb3l6aWF0QVk1bm1nV0REbkxLclUzbkQwTUpSTHlvdUNid0k?oc=5"
         }
       ],
       "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
+    {
+      "id": "36f49795ac88",
+      "title": "Atmosphere around object in outer solar system raises questions about how, when it formed: Study - Press Trust of India",
+      "published": "2026-05-05T05:05:42+00:00",
+      "summary": "Atmosphere around object in outer solar system raises questions about how, when it formed: Study&nbsp;&nbsp;Press Trust of IndiaThin atmosphere detected around distant object beyond Pluto&nbsp;&nbsp;CNNDetection of an atmosphere on a trans-Neptunian object beyond Pluto&nbsp;&nbsp;NatureAtmosphere detected on celestial body in solar system's far reaches&nbsp;&nbsp;ReutersPlanet found beyond Pluto has something that shouldn’t exist. Here's what it is&nbsp;&nbsp;India Today",
+      "sources": [
+        {
+          "name": "Press Trust of India",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQalZZbTdyMUMtV0JHOHpLbTVSMmwzQ1VaUXo1blgzNl9FUU9yQkhLQ2EzUUd5ZDFNcktvd18zanJWdHA2TGlYYVNwTDhpOTIzQmYxUnUwV1U2YTM2Y3Y2Qkk4TWZHQlk2a2V5OHVXazNJTktkcW5nMUJUaTE4VjhOb0RHdEo0clBvVS1HejJObGJ1T0pDb2M0VGpzdUtzSmhTLWtpSmtXOHRxM3pfOU9IdjREODVGdWh1TktWWFpDZUx3VjRlNFJnYzgxdE5rNFVVUzNucWhlWEw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03904",
+          "keyword": "urea",
+          "name": "Urea"
+        },
         {
           "type": "indication",
           "disease_id": "7270_12900_54838_12306",
@@ -155,7 +320,7 @@
     {
       "id": "f23a91f9f077",
       "title": "Common structural analysis of interfacial water is inadequate, according to a new study",
-      "published": "2026-05-05T04:30:00+00:00",
+      "published": "2026-05-05T04:32:31+00:00",
       "summary": "Common structural analysis of interfacial water is inadequate, according to a new study&nbsp;&nbsp;chemeurope.comTwisting water&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
@@ -169,38 +334,6 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "9e4745a1db8c",
-      "title": "Mysterious green rocks in Pyrenees cave hint that prehistoric people were working copper there for 4,000 years - Live Science",
-      "published": "2026-05-05T04:06:08+00:00",
-      "summary": "Mysterious green rocks in Pyrenees cave hint that prehistoric people were working copper there for 4,000 years&nbsp;&nbsp;Live ScienceEarly Humans Returned to This Pyrenees Cave for 2,000 Years and Left Bones, Hearths, and Rare Jewelry&nbsp;&nbsp;Discover MagazinePrehistoric child’s finger bone, bear tooth pendant, and more discovered in Spanish cave&nbsp;&nbsp;Popular ScienceBurned stone, child's bones, and lost jewelry hint at prehistoric mining camp high in the Pyrenees&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdXYtbi1LVzh3RTB3VDZYbExhMGhleTFhR2dLT3hGUy1tcHdDRThlTXNYM0ZkX0N6a2VnaFZCQldFUnF4bVVLMDJqcFVMNWUwMnQ0YkJXME5mTzNHY0tuWGJTanBDMlc5em5WVlpReTVUdFR5R21qclJtUjlpamIwZXRFbGVFQkJzX0FvNkF6VGhkeHp2ZDFRUmpqOVMxWi0wdUZQSDRPUzc5SEJuX1FHQmIyeFlQY2ZQNEN3VVQ4ckF0NVFpcEZpb0RPMjFBVzYySFVRQ1lIR2t6TjZYM0VoaHB0YXU?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB09130",
-          "keyword": "copper",
-          "name": "Copper"
-        },
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "43519",
-          "name": "burn",
-          "keyword": "burn"
         }
       ]
     },
@@ -225,54 +358,34 @@
       ]
     },
     {
-      "id": "cdb62489b8dd",
-      "title": "‘A study showed…’ isn’t enough – scientific knowledge builds incrementally as researchers investigate and revisit questions",
-      "published": "2026-05-05T01:42:15+00:00",
-      "summary": "‘A study showed…’ isn’t enough – scientific knowledge builds incrementally as researchers investigate and revisit questions&nbsp;&nbsp;Good.is",
+      "id": "c5adc3bc7e75",
+      "title": "AI is finding cancer earlier. Are systems ready for what comes next?",
+      "published": "2026-05-04T21:54:09+00:00",
+      "summary": "AI is finding cancer earlier. Are systems ready for what comes next?&nbsp;&nbsp;beckersoncology.comAI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis&nbsp;&nbsp;SciTechDailyMedical Bulletin 04/May/2026&nbsp;&nbsp;Medical DialoguesAI finds signs of pancreatic cancer before tumors develop&nbsp;&nbsp;NBC NewsAI tools to finds pancreatic cancer early: study&nbsp;&nbsp;GujaratSamachar English",
       "sources": [
         {
-          "name": "Good.is",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KalVyY0dmeDRsWF9aTUJNOTFLdDVMajVEc3BtQk5Ja0hiMkRIU3JLMFhxd1l5WGJHa240SDJuUHNPanFVdURSaElISUdRdTVuWG51VUIxSndRNGV2amdyOVFEd2gtdjlQU19FaWRvTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a2e6b11776fa",
-      "title": "Researchers Simulate Fruit Fly Brain Controlling Virtual Body - Let's Data Science",
-      "published": "2026-05-05T00:19:20+00:00",
-      "summary": "Researchers Simulate Fruit Fly Brain Controlling Virtual Body&nbsp;&nbsp;Let's Data Science",
-      "sources": [
-        {
-          "name": "Let's Data Science",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTHh3a1NvQ3pFYmNoYzVYbHl6WmFKVWRDTmhiUDB2NVNZdnBRa0pvR3B4eWFwT1JsaXBpZ0llUW56RGVoOWV6dUIwTVlNbF9ueFZfVmFKZTlNYVV4cEhLV1F2Qk1ZOGRYb0lpN05JY3k3X2hCb000MTJ5RU9uLXhyVFMxWUhyLWtjai03ZS11YzJBU2xsSHlZVm45NVJkNnc5Qi1SUA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ae901f8ef18d",
-      "title": "World Asthma Day 2026: Theme, Significance And 5 Effective Ways to Control Asthma In Summer",
-      "published": "2026-05-05T00:01:04+00:00",
-      "summary": "World Asthma Day 2026: Theme, Significance And 5 Effective Ways to Control Asthma In Summer&nbsp;&nbsp;NetmedsWorld Asthma Day 2026 Inhalers Safe, Not Habit-Forming Experts Say&nbsp;&nbsp;NDTVAsthma cases surge in Bihar; doctors stress awareness, early treatment&nbsp;&nbsp;The Times of IndiaProlonged AC, Rising Pollution, Lifestyle Changes Driving Asthma Surge&nbsp;&nbsp;Deccan ChronicleWorld Asthma Day 2026: From David Beckham to Priyanka Chopra - Celebrities Battling Asthma&nbsp;&nbsp;Times No",
-      "sources": [
-        {
-          "name": "Netmeds",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMlp1Y0w0UVJSZ3hvdmYxcl9naWJzQ0NqQ3JleVhlNG5NRkdWemdmX2NBelhqM0UxaTdXRFNXRElSeTZFdUkwTTNWbEVHYUF1Sy0zaWhBNGxyYktjRFR1clVQSFI2SU9faXVEWDlKNWZSVjlISGw1T1JLcWdORTZRQkFsQTJCTDFsOE5xSmVJRVJWblowNTlILUFRZlpVLVFsYWpBUWFXeFFJQ0VJdXJxR0xmM0NhQUU5VU1FNGpkYnBPWDBQSWVieWFHeHF6ZENm?oc=5"
+          "name": "beckersoncology.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWjhTYllGQ3VzUEtmVWZ5bFd2d2lJcDQ3SnF1WkVDb3RPd2htYlBPY2JBY2ViZC1oakNfSFQ0bmxHSzJ2Yjl3eGVUUURKeENLTS10RlR2SEhPbUZGNWNZZkhaVzRTRDROVFpONVpTMjJrM0p2WVJ0ajQ3VGs4VnFja0haeGR5ZlNFUml1SmdQd2RDcTFLc1ItSU1yR0NDSXhFd3Y3WVRhdnByTTVn?oc=5"
         }
       ],
       "matched_keywords": [
         {
-          "type": "drug",
-          "drugbank_id": "DB03384",
-          "keyword": "fica",
-          "name": "Fica"
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
         },
         {
           "type": "indication",
-          "disease_id": "4979",
-          "name": "asthma",
-          "keyword": "asthma"
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
         }
       ]
     },
@@ -312,38 +425,6 @@
           "disease_id": "5709",
           "name": "common cold",
           "keyword": "cold"
-        }
-      ]
-    },
-    {
-      "id": "86aa623fad95",
-      "title": "Russian AI model enables earlier detection of pancreatic cancer from CT scans - TV BRICS",
-      "published": "2026-05-04T20:01:35+00:00",
-      "summary": "Russian AI model enables earlier detection of pancreatic cancer from CT scans&nbsp;&nbsp;TV BRICSAI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis&nbsp;&nbsp;SciTechDailyMedical Bulletin 04/May/2026&nbsp;&nbsp;Medical DialoguesAI finds signs of pancreatic cancer before tumors develop&nbsp;&nbsp;NBC NewsAI tools to finds pancreatic cancer early: study&nbsp;&nbsp;GujaratSamachar English",
-      "sources": [
-        {
-          "name": "TV BRICS",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEZiY0txdzhFZVd1OE5Oek5kckFBZy16dGlfVlROcWo5eEljVnRpQ185SksxclJDMGIyVjhyeHBmdm5JLVJieURtTU9rbDZ1cTRpLUwyS1Uwc0JpT0FobXVnNkJGU29IZHFxOUJubkQyTHZTYW4yRVZwNXhfNnlsR3Z4QVZMamZVc1RHOEg0dEFSa3QyWWhwdG11YzdidFRmclloempCREwwUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
         }
       ]
     },
@@ -388,35 +469,88 @@
       ]
     },
     {
-      "id": "fa740774583b",
-      "title": "That eerie feeling you get in old buildings may not be supernatural - Straight Arrow News",
-      "published": "2026-05-04T16:40:00+00:00",
-      "summary": "That eerie feeling you get in old buildings may not be supernatural&nbsp;&nbsp;Straight Arrow News - SANSpooky feelings in old houses may be caused by boiler sounds, study suggests&nbsp;&nbsp;The Guardian‘The cause might be vibrating pipes rather than restless spirits’: increased stress and irritability from infrasound exposure may explain paranormal experiences&nbsp;&nbsp;FrontiersThe creepy feeling in old buildings might have a surprising cause&nbsp;&nbsp;ScienceDailyThe Haunting: Low-Frequenc",
+      "id": "7da4c520e3b7",
+      "title": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules",
+      "published": "2026-05-04T17:20:19+00:00",
+      "summary": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules&nbsp;&nbsp;Phys.orgResearchers Detect Quantum Phase With Light Scattering&nbsp;&nbsp;Quantum ZeitgeistResonant chiral dressing by amplitude fluctuations in a ferroaxial electronic crystal&nbsp;&nbsp;NatureExotic Quantum Phase Dynamically Links Vibrations Separated by Symmetry&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
-          "name": "Straight Arrow News - SAN",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDFUNGtMdURmbmVjbjFCSnFxeXZaMWNlUGZ6QjdKTld0SUJ5NXMwdDVhdnBmaU9NWkRNMDhpQV9KamliQ3h2UGtVUzhKVElQSVU3TWZDaW9YODFGOWlMTDRDbTFyalBrVnF1blliVFVGNDJZVmV0ajdWajJ6ZGpPeS10ZExtODJOUkRKOVREd1o?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "10ade6225bbd",
-      "title": "Could cervical cancer be eliminated by 2048? Study",
-      "published": "2026-05-04T16:23:14+00:00",
-      "summary": "Could cervical cancer be eliminated by 2048? Study&nbsp;&nbsp;beckersoncology.comRich nations might eliminate cervical cancer by 2048, progress slow in poor countries: study&nbsp;&nbsp;The HinduHPV vaccination and screening: Your shield against cervical cancer&nbsp;&nbsp;theweek.inRacing Against Time: Bridging the Cervical Cancer Gap&nbsp;&nbsp;DevdiscourseFrom breakthroughs to impact: Delivering cervical cancer elimination at scale&nbsp;&nbsp;Open Access Government",
-      "sources": [
-        {
-          "name": "beckersoncology.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZzhROUY0TFk4RHp6OUtQVjJPaU5uempfbkNGeG1BOXJ2Smhsdk9ObEFxMWhlaTIxOEtIdmVtSERxZkFCNlNyNGtNMjFMQWJFanZfbVFMN2xyWE1oNmtuWWxya3NRbmt0S3pHd2ZScjNYOHJ6aldmemxnamFObHpqbklaRTZ5OUFiVF9aT0JRcmRFZ3BCbkE?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUXVGVWpVa3k0X20wNnhOTTJHNzY4WlJSTWEtSDhmREtMUUxoUWRLTHk4aV9vamYyVVVLbWJkQjMzNDFYYzYzanpKN2c3NzBUellpdk53SmxNR3NjUkFwZkRxYmZvQXVvWnpsSTZFdVJhYm1RRXhuZm42UTJrSFRNTmxxRQ?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "disease_id": "2974",
-          "name": "cervical cancer",
-          "keyword": "cervical cancer"
+          "disease_id": "5812",
+          "name": "influenza",
+          "keyword": "flu"
+        }
+      ]
+    },
+    {
+      "id": "d4e093ff5f76",
+      "title": "Food baskets for tuberculosis patients could save thousands of lives",
+      "published": "2026-05-04T17:19:00+00:00",
+      "summary": "Food baskets for tuberculosis patients could save thousands of lives&nbsp;&nbsp;News-MedicalNutritional Support To 2.8 Million Tuberculosis Patients Could Avert 120,000 Deaths Yearly: Study&nbsp;&nbsp;NDTVHarnessing Nutrition: A Novel Strategy to Combat Tuberculosis in India&nbsp;&nbsp;DevdiscourseKurnool Collector highlights nutrition’s role in TB elimination efforts&nbsp;&nbsp;The HinduTB patients without documents miss aid in Delhi&nbsp;&nbsp;The Hindu",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYjhtU3VnVHhRRDNiOHlCekU4Xy1uYTRVNTRtcG5KQ29hWTcyazNFUWVsNml5MTktSm9tbUNmYlpmVHRiVFZhYVpETGxWZk9yWmtlcVFOOUFFRmd5TFBiRVc1SGJ3SU5OcWdZSnAzaURST3c4WTFSYjhOM2Y1TmJYUS1hUWZNZnpsbS1JUDNGa3p3cnkxX0d4NkRWQ3hTWG05bVpiTGhDejZ5cTJIaEdPa04xYi1ZOEE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "18076",
+          "name": "tuberculosis",
+          "keyword": "tuberculosis"
+        },
+        {
+          "type": "indication",
+          "disease_id": "18076",
+          "name": "tuberculosis",
+          "keyword": "TB"
+        }
+      ]
+    },
+    {
+      "id": "6134c11df46c",
+      "title": "Cranberry juice may boost antibiotic effectiveness against urinary infections",
+      "published": "2026-05-04T17:02:00+00:00",
+      "summary": "Cranberry juice may boost antibiotic effectiveness against urinary infections&nbsp;&nbsp;News-MedicalCranberry Juice: Cranberry juice enhances antibiotic efficacy against UTIs&nbsp;&nbsp;The Times of IndiaNatural Compounds in Cranberry Juice May Enhance Antibiotic Treatment of UTIs&nbsp;&nbsp;Inside Precision MedicineScientists find cranberry juice could be used to fight drug-resistant bacteria&nbsp;&nbsp;The IndependentCranberry juice may boost UTI antibiotics&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0k2MmpDbmtwYXNQODVkVlYwRlpXS3FVSU9pczdRcFB6SjNYWmVFVlZsamRfMi1MV2c4blFLR2RxNUltVnBrRVRCRU5IaDlyVHkxREpHM0NwSk93Y0xld2JWbW5PeTZmcDRHOVhDTi1rd3QzQWplLVVHSDhtUm5HMnJwOFhOMEk3MzVkUzFrUXhqWUM2c05ONTUxWnNRMFpfTGxHNHowSmQ4MTAyNk9OT29nU3F6MTAyRlN2UFlMdVcyb2c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03384",
+          "keyword": "fica",
+          "name": "Fica"
+        }
+      ]
+    },
+    {
+      "id": "88534f599150",
+      "title": "Column | Can vaping cause cancer? The evidence suggests it might. - The Washington Post",
+      "published": "2026-05-04T17:00:00+00:00",
+      "summary": "Column | Can vaping cause cancer? The evidence suggests it might.&nbsp;&nbsp;The Washington Post80+ Countries Have No Age Limits for Vapes. Now, They May Be Linked to Cancer.&nbsp;&nbsp;ThePetitionSite.comNew Nicotine Devices Under Fire: EU Labels E-Cigarettes, Vapes a Public Health Risk&nbsp;&nbsp;Times NowElectronic cigarettes linked to higher cancer risk&nbsp;&nbsp;Sharjah24Public Health Concerns Grow As European Union Labels New Nicotine Devices A Threat&nbsp;&nbsp;NDTV",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4teFAzRE5Bd3VrVnRXT3NvazRmLXRGNmlOS1E3alc4MDB5emJfdE5aemE5dFZ6ZFlERVh3b2FOUUdrbEhBQm13TUxBcU42YWlZR0haWndpTmR0WXRVRVQ0dVBVWjJyUElWOWoyZ28xbzZOZm40WEJnWVpn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB00184",
+          "keyword": "nicotine",
+          "name": "Nicotine"
         },
         {
           "type": "indication",
@@ -433,10 +567,23 @@
       ]
     },
     {
+      "id": "fa740774583b",
+      "title": "That eerie feeling you get in old buildings may not be supernatural - Straight Arrow News",
+      "published": "2026-05-04T16:40:00+00:00",
+      "summary": "That eerie feeling you get in old buildings may not be supernatural&nbsp;&nbsp;Straight Arrow News - SANSpooky feelings in old houses may be caused by boiler sounds, study suggests&nbsp;&nbsp;The Guardian‘The cause might be vibrating pipes rather than restless spirits’: increased stress and irritability from infrasound exposure may explain paranormal experiences&nbsp;&nbsp;FrontiersThe creepy feeling in old buildings might have a surprising cause&nbsp;&nbsp;ScienceDailyThe Haunting: Low-Frequenc",
+      "sources": [
+        {
+          "name": "Straight Arrow News - SAN",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDFUNGtMdURmbmVjbjFCSnFxeXZaMWNlUGZ6QjdKTld0SUJ5NXMwdDVhdnBmaU9NWkRNMDhpQV9KamliQ3h2UGtVUzhKVElQSVU3TWZDaW9YODFGOWlMTDRDbTFyalBrVnF1blliVFVGNDJZVmV0ajdWajJ6ZGpPeS10ZExtODJOUkRKOVREd1o?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9c3aaeaa46e7",
       "title": "17 more children die with measles symptoms, death toll reaches 311 | Hindustan Times - Hindustan Times",
       "published": "2026-05-04T16:01:57+00:00",
-      "summary": "17 more children die with measles symptoms, death toll reaches 311 | Hindustan Times&nbsp;&nbsp;Hindustan TimesBangladesh measles outbreak: 10 more children die, toll climbs to 294&nbsp;&nbsp;The Hans IndiaVaccine Crisis: When Policy Fails Children&nbsp;&nbsp;daily-sun.comMeasles-like deaths at MMCH rise to 24 as another child dies&nbsp;&nbsp;Jagonews24.comBangladesh measles surge takes total to more than 40,000 cases&nbsp;&nbsp;Outbreak News Today",
+      "summary": "17 more children die with measles symptoms, death toll reaches 311 | Hindustan Times&nbsp;&nbsp;Hindustan TimesBangladesh measles outbreak: 10 more children die, toll climbs to 294&nbsp;&nbsp;The Hans IndiaChild deaths from measles: Will interim govt remain beyond accountability?&nbsp;&nbsp;Prothom Alo EnglishMeasles Outbreak Triggers Urgent Vaccination Drive in Bangladesh&nbsp;&nbsp;Devdiscourse6 more die with measles and symptoms in 24hrs&nbsp;&nbsp;Jagonews24.com",
       "sources": [
         {
           "name": "Hindustan Times",
@@ -514,7 +661,7 @@
       "id": "3e6866b060f5",
       "title": "Mammograms May Reveal Hidden Heart Disease Risks in Women - The Indian Practitioner",
       "published": "2026-05-04T14:48:55+00:00",
-      "summary": "Mammograms May Reveal Hidden Heart Disease Risks in Women&nbsp;&nbsp;The Indian PractitionerUPSC Prelims Current Affairs for 29 April 2026&nbsp;&nbsp;Vajiram & RaviI Let AI Look at My Breasts—and I’m Glad I Did&nbsp;&nbsp;WSJAI and CRISPR technologies drive proactive health monitoring&nbsp;&nbsp;News-MedicalHow Beth Israel is using AI to take screenings beyond the mammogram to assess breast cancer risk&nbsp;&nbsp;The Business Journals",
+      "summary": "Mammograms May Reveal Hidden Heart Disease Risks in Women&nbsp;&nbsp;The Indian PractitionerUPSC Prelims Current Affairs for 29 April 2026&nbsp;&nbsp;Vajiram & RaviI Let AI Look at My Breasts—and I’m Glad I Did&nbsp;&nbsp;WSJAI and CRISPR technologies drive proactive health monitoring&nbsp;&nbsp;News-MedicalAI model predicts cardiovascular risk from BACs on mammograms&nbsp;&nbsp;AuntMinnie",
       "sources": [
         {
           "name": "The Indian Practitioner",
@@ -530,33 +677,15 @@
         },
         {
           "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
           "disease_id": "5267",
           "name": "heart disease",
           "keyword": "heart disease"
         },
         {
           "type": "indication",
-          "disease_id": "4379",
-          "name": "female breast carcinoma",
-          "keyword": "breast cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "7254",
-          "name": "breast cancer",
-          "keyword": "breast cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
+          "disease_id": "generic__cardiovascular",
+          "name": "cardiovascular",
+          "keyword": "cardiovascular"
         },
         {
           "type": "indication",
@@ -590,7 +719,7 @@
       "id": "b91ece0fe97c",
       "title": "Supercomputers reveal how dolphins generate thrust to achieve speed - Interesting Engineering",
       "published": "2026-05-04T13:52:00+00:00",
-      "summary": "Supercomputers reveal how dolphins generate thrust to achieve speed&nbsp;&nbsp;Interesting EngineeringSupercomputer simulations demonstrate how dolphins are able to swim so fast&nbsp;&nbsp;Earth.comResearch roundup: 6 cool science stories we almost missed&nbsp;&nbsp;Ars TechnicaDolphins Create Invisible Vortices With Their Tails, Helping Them Power Ahead Underwater&nbsp;&nbsp;Discover MagazineWhy dolphins swim so fast: The secrets of hidden whirlpools&nbsp;&nbsp;Phys.org",
+      "summary": "Supercomputers reveal how dolphins generate thrust to achieve speed&nbsp;&nbsp;Interesting EngineeringResearch roundup: 6 cool science stories we almost missed&nbsp;&nbsp;Ars TechnicaSupercomputer simulations demonstrate how dolphins are able to swim so fast&nbsp;&nbsp;Earth.comDolphins Create Invisible Vortices With Their Tails, Helping Them Power Ahead Underwater&nbsp;&nbsp;Discover MagazineWhy dolphins swim so fast: The secrets of hidden whirlpools&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "Interesting Engineering",
@@ -607,10 +736,42 @@
       ]
     },
     {
+      "id": "b7c828301309",
+      "title": "More than a sports supplement? Creatine’s studied benefits extend to brain health - Nutrition Insight",
+      "published": "2026-05-04T12:06:43+00:00",
+      "summary": "More than a sports supplement? Creatine’s studied benefits extend to brain health&nbsp;&nbsp;Nutrition InsightScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyPopular gym supplement is ‘not a magic bullet’ — its benefits depend on 3 major factors&nbsp;&nbsp;New York PostThe Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take.&nbsp;&nbsp;Men's HealthThe Supplement Experts Are No Longer Recommending Just for Athletes&nbsp;&nbsp;Good Hou",
+      "sources": [
+        {
+          "name": "Nutrition Insight",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUS0tWENkbFQ5d2hKYUFpNXlNcnBQRURBSmdYc3hFRHZidkRVRm0xcDFpcW5TRVFSeF9BT0pDN0FrZTVVYjBGNjZ5YjlYYlItM0hhemdIQUR1MHg5Y3NEQUZoalYybGtieGllbDVNU3dvQnBuQkVpczhmLVFqZlRFQ3g2RFBIOExYZGdmeG15T0ZLWTlWQ2hDMQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB00148",
+          "keyword": "creatine",
+          "name": "Creatine"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5027",
+          "name": "epilepsy",
+          "keyword": "fits"
+        }
+      ]
+    },
+    {
       "id": "9d1ec4376b3b",
       "title": "Low-Cost Blood Test Detects Multiple Cancers and Liver Diseases, Study Finds - Clinical Lab Products",
       "published": "2026-05-04T11:56:17+00:00",
-      "summary": "Low-Cost Blood Test Detects Multiple Cancers and Liver Diseases, Study Finds&nbsp;&nbsp;Clinical Lab ProductsNew test promises to detect cancer earlier, from tiny particles in bodily fluids&nbsp;&nbsp;Medical XpressMaltese Researchers Develop Blood Test To Detect Cancer Earlier&nbsp;&nbsp;Lovin Malta",
+      "summary": "Low-Cost Blood Test Detects Multiple Cancers and Liver Diseases, Study Finds&nbsp;&nbsp;Clinical Lab ProductsEarlyDiagnostics’ MethylScan™ Platform Validated in PNAS Study, Demonstrating Multi-Disease Detection from a Single Blood Sample&nbsp;&nbsp;Yahoo FinanceDNA methylation patterns may be less expensive way to identify early or precancer&nbsp;&nbsp;Managed Healthcare ExecutiveNew test promises to detect cancer earlier, from tiny particles in bodily fluids&nbsp;&nbsp;Medical XpressRevolutiona",
       "sources": [
         {
           "name": "Clinical Lab Products",
@@ -618,6 +779,12 @@
         }
       ],
       "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
         {
           "type": "indication",
           "disease_id": "5154",
@@ -685,42 +852,10 @@
       ]
     },
     {
-      "id": "a427dbc5c6e0",
-      "title": "Man Dies After Tetanus Shot Replaces Rabies Vaccine; Doctor Explains Why Tetanus Shots Are Useless Against Rabies",
-      "published": "2026-05-04T10:32:05+00:00",
-      "summary": "Man Dies After Tetanus Shot Replaces Rabies Vaccine; Doctor Explains Why Tetanus Shots Are Useless Against Rabies&nbsp;&nbsp;NDTVMan dies after tetanus shot instead of rabies vaccine in Gwalior | Tap to know more | Inshorts&nbsp;&nbsp;InshortsGwalior Youth Administered Tetanus Injection Instead Of Anti-Rabies Vaccine After Dog-Bite, Dies; 7th Rabies&nbsp;&nbsp;Free Press JournalMan Dies After Being Given Tetanus Instead of Rabies Shot for Dog Bite; Why You Should Be Careful?&nbsp;&nbsp;Times Now",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQazNfekJwWlZHMC1sVFhoOGRiNERnLUNNNjFUalRfY1NmeGVhbHVkWTAwYzZtcDVwR09wdEJENWZISW5SWDROcWpfMlA2Q0wzV2g4SnVyMFVpeHdtLUllLW5SRDF6UjQyeHM2M0tVM3gtTUFmTW5EY0ZOWXNVcGtRUEo3aGRKY0VmdUV3aGFOcElkZmlqYnpaN25BV3FhamxpdEVISEdCeDhtVHFXVFR6c2xvX21WLVVuYmF2R2Y4TnRCaFd3RVNaU2hKTzhSdC1nWnBURGlfaUhlT0U1dFI4V1p3UdIB6wFBVV95cUxPb1o4UHlFR3NWZ2Yyd0k4Nk9wdmpELWhwdUtEMVoxRmlIN3Y4Z05nZ2o1TXl0Wms4ZTR6TkREWnQ3SndHUG1VZ1Zpa09Rc3I0SFl5TnJFYkg1a0xIRV94LURnWmpLNmpjcmxxTzdnekd0Q0FpNk96RmNHd0lXSDB0TkNmQWJKdGJQa01BTWxWQjRkRU1sRkxneHFGWmRCQzgxQjY5UEpJd2plcklYMV9kbjc4YXdOeGJ2cmhoc05WMlh6Nkhuc3BxWnVvUjBQYUNTUGlBVnhnbTFNUExjZjNXSUZ2SWVWMEVqNmVJ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5526",
-          "name": "tetanus",
-          "keyword": "tetanus"
-        },
-        {
-          "type": "indication",
-          "disease_id": "19173",
-          "name": "rabies",
-          "keyword": "rabies"
-        }
-      ]
-    },
-    {
       "id": "440e10f78ad7",
       "title": "AgriLife Research Aims to Strengthen Plant Immune Receptors Against Changing Disease Threats | Newswise",
       "published": "2026-05-04T10:25:00+00:00",
-      "summary": "AgriLife Research Aims to Strengthen Plant Immune Receptors Against Changing Disease Threats | Newswise&nbsp;&nbsp;NewswiseView Full coverage on Google News",
+      "summary": "AgriLife Research Aims to Strengthen Plant Immune Receptors Against Changing Disease Threats | Newswise&nbsp;&nbsp;NewswisePlants Walk a Fine Line Between Growth and Defense&nbsp;&nbsp;UC DavisResearch advances plant immunity against evolving pathogens&nbsp;&nbsp;AgriLife Today",
       "sources": [
         {
           "name": "Newswise",
@@ -761,32 +896,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "27b18cb45616",
-      "title": "Nebuliser Use Linked To Severe Chronic Obstructive Pulmonary Disease: Study",
-      "published": "2026-05-04T08:04:02+00:00",
-      "summary": "Nebuliser Use Linked To Severe Chronic Obstructive Pulmonary Disease: Study&nbsp;&nbsp;NDTV",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjZ4Ymx2Y2dpYks5eGlzRTRjNjZ2MzduWVVFRTd5d2RUa1I3ZGtoYjM5SkowM25Cd1FlZXdTYlhTUk1Xczl1LUV4YkwxTmR6X2w0UnF4NDZEWUFQZG9KVlJ6clp2dWdHR1ZmVENHYzZxZGc5X3ZlUnF1TjIyWEpUNTZvNk91a3BHNnhYeGd2bE5wc3UzLXVBVXVoTlVGSWJfOFlv0gGrAUFVX3lxTE9LS2pYeGhTWVdVT215RWNoVlk5bEJVbmhjU2FEWE92Zm95UHJNYlFyNHpVdHpra3lmLUllMmJZVDZfM1l3V1p3Vkx4THZzckp0elR3LTdqU19sZWpvcm1zcE5ZM1RoMnJEZ1RvRVozNW9KQk95aEMwU0J5a0tobEM4cFFvc1VybWFaUDd6TFo2TWVWQlpkTG40cU1UUlRtd1o4ZW1yU1QtQlZyaw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5002",
-          "name": "chronic obstructive pulmonary disease",
-          "keyword": "chronic obstructive pulmonary disease"
-        }
-      ]
     },
     {
       "id": "b0bf117add9a",
@@ -851,58 +960,6 @@
           "disease_id": "generic__generic_cancer",
           "name": "generic_cancer",
           "keyword": "cancer"
-        }
-      ]
-    },
-    {
-      "id": "cc3e5bf7e680",
-      "title": "Postbiotic Cuts Allergic Rhinitis Symptoms in Trial",
-      "published": "2026-05-03T14:05:21+00:00",
-      "summary": "Postbiotic Cuts Allergic Rhinitis Symptoms in Trial&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2xGZTVORGsyNlJrRXFHeEpNX3RsLTFkc21jMVVnN2YwVUN1TndKSWVxVkNUWE5HSnUtbWpJVGhFNXNuNXVGSVRpQ0JtYzA3SHhEZ1kwc2p4c0xUSUt3eVRudDhueE5PTGxucURsekt3TFJSVDlSc1RENjIwaEgxZDhDY0JqYko1TDNOOGk3aDNtSXJXdzNURzJmWWpzclhSdUlIbnln?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "3014_4514",
-          "name": "rhinitis",
-          "keyword": "rhinitis"
-        },
-        {
-          "type": "indication",
-          "disease_id": "11786_5324_24332",
-          "name": "allergic rhinitis",
-          "keyword": "allergic rhinitis"
-        }
-      ]
-    },
-    {
-      "id": "6706511e7278",
-      "title": "MAHA Awaits Robert F. Kennedy Jr.’s Definition of Ultraprocessed Foods - The New York Times",
-      "published": "2026-05-03T09:00:44+00:00",
-      "summary": "MAHA Awaits Robert F. Kennedy Jr.’s Definition of Ultraprocessed Foods&nbsp;&nbsp;The New York TimesHow unhealthy ultra-processed foods are designed, marketed to make us crave them&nbsp;&nbsp;The Indian ExpressThe growing threat of ultra-processed foods&nbsp;&nbsp;ODISHA RAYDoctor issues warning over food ‘worse than smoking’ that makes up over half the average American's diet&nbsp;&nbsp;UNILAD TechHere's What Happens to Your Body When You Limit Processed Foods, According to Registered Dietitian",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1FFUE5COEQxamdEckE0WldBMFRaZmctaUJtLWtydUtCMXFIREJXWTJua1dnQTJrbmFqTlRBeEFISVZNNXJWbGpQQ0UyNlMzSDAzUUtZbVhTS2RvejhyNnBGYXZvd01Mc3Ytc2lVc21QbVRNSGZIR1c2bGlET2hOeldqQ3Q?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "8383",
-          "name": "rheumatoid arthritis",
-          "keyword": "RA"
         }
       ]
     }
