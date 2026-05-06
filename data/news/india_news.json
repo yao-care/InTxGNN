@@ -1,15 +1,183 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-06T01:22:28.158701+00:00",
-  "total_fetched": 87,
-  "unique_count": 87,
-  "health_related_count": 39,
+  "fetched_at": "2026-05-06T13:22:11.953136+00:00",
+  "total_fetched": 89,
+  "unique_count": 89,
+  "health_related_count": 44,
   "news": [
+    {
+      "id": "1bdd286abfe6",
+      "title": "World Health Organization Gives Approval Stamp to First Malaria Treatment for Young Infants - Health Policy Watch",
+      "published": "2026-05-06T12:45:41+00:00",
+      "summary": "World Health Organization Gives Approval Stamp to First Malaria Treatment for Young Infants&nbsp;&nbsp;Health Policy WatchProtein Folding, Parasites & Malaria Breakthroughs 2026&nbsp;&nbsp;Frontline MagazineFirst malaria drug for babies is approved in ‘major public health milestone’ | Global development&nbsp;&nbsp;The GuardianWHO prequalifies Novartis' antimalarial Coartem Baby for treatment of newborns and young infants&nbsp;&nbsp;Manufacturing ChemistWHO approves first malaria drug for infants",
+      "sources": [
+        {
+          "name": "Health Policy Watch",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWRVdFNKSDM0dVpZZXJ3MXhTWlRUVGx3SmVqSTFnUmpEUVpUMDRHSkpQbjBHZ05wUzJZd3ZtZjVZUEpmVzFTSzhyZXp2YzUyeXJXdDdEcDVXWVplWkhrOWxpblZLOUxCODE4TWRWWkpJclk3bHFsX3ZQNmdrMEJneTVBbndMbnIzaTA4dGZWUHAtd2hLTnFhTWVPb29vOENiV3VxS2k3aUhDQUg1T1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "64d6fdb74893",
+      "title": "Macrocycles: big is the new beautiful - European Biotechnology Magazine",
+      "published": "2026-05-06T12:25:56+00:00",
+      "summary": "Macrocycles: big is the new beautiful&nbsp;&nbsp;European Biotechnology Magazine",
+      "sources": [
+        {
+          "name": "European Biotechnology Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXlfX3JXcE0ycG01cnROTmVRb1BvOEtJVklIa29nS0ViejBnTk1vOGsxTzlsNFRfZS1uamw4OVBVdTNieE92SEdMNEltN09aOXVZZDhNaGliUEJYbTdSQXBsOG1hQ2w1TklNTVpHeXh5RTR3OHVYMjFqMjgxMXVBSklUYjZkWjNwaFU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1611c2c993b4",
+      "title": "Brain Health Study: Simple Movement Helps Clean the Brain - Pune Mirror",
+      "published": "2026-05-06T11:34:47+00:00",
+      "summary": "Brain Health Study: Simple Movement Helps Clean the Brain&nbsp;&nbsp;Pune MirrorStudy Shows How Even Small Movements Can Help Clear Brain Waste&nbsp;&nbsp;NDTVMovement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyBrain motion is driven by mechanical coupling with the abdomen&nbsp;&nbsp;nature.com",
+      "sources": [
+        {
+          "name": "Pune Mirror",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODRjdjlXcS16WVJfellfMGV3Qk5BSDNjUHpLbXJFTXdnY19jY2E0UjdrR0hvQ0pxaHM4ekNjMVo1OWFwQWd4b2h5TmdXUlZHeko4dUFMMHRKNXgxVDBDLWVDZHNCYlAxdF80YnAwM3pNTDhMcG8tU0pJV2FCM25ZTGF6RnlBR09p?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f02843c3840f",
+      "title": "Postbiotic Yields Greater Symptom Relief for Allergic Rhinitis - Medscape",
+      "published": "2026-05-06T11:11:44+00:00",
+      "summary": "Postbiotic Yields Greater Symptom Relief for Allergic Rhinitis&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmdmOEJBN3JqT2tMSjJqYWxHQlp2WHZFWXIyc2o4Ty1hZU9XZUlXUTVOc1J3ekJweFFUNUxncklmcnVidG1LeENhUVB5WGVrWlBzTDZXNFJISzdnOGozdVhWQ1hyTEtCekt1YVBqMjg2OF9yWHBtR3o4SFB3M0lFUE05N0xlNXBNOC1SZmR2RG5hNWs2andBS2NjWmQ1bjhtS1dlSEtCMnVYQUo0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "65695470a1e6",
+      "title": "Hantavirus strain capable of human transmission found in 2 cruise ship passengers, officials say - The Hindu",
+      "published": "2026-05-06T10:05:21+00:00",
+      "summary": "Hantavirus strain capable of human transmission found in 2 cruise ship passengers, officials say&nbsp;&nbsp;The HinduRare Human-To-Human Spread Confirmed In Hantavirus Outbreak On Cruise Ship&nbsp;&nbsp;NDTVSpain confirms it will receive hantavirus-hit cruise ship in Canary Islands&nbsp;&nbsp;The HinduThree more people evacuated from hantavirus-hit cruise ship&nbsp;&nbsp;The GuardianHantavirus outbreak raises questions: Doctors bust common myths and share facts&nbsp;&nbsp;The Times of India",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORldSd1FwZTJOU25xbVVmLUV5OXR5LXFZc0dCNGZyRlRlVUc4eXRMVHNlMUlVOXhscWw3eUtTeG91VHlhZWVxZFIySnBxZnRHMExzVW1qVVlHd0l0c1RfX1B1eDRnUk1TcW1tckZSd0FQc21PUUJGd2NZLXRXY1pIZXU3dnRPX1A1UUxWYUFVaUlQZy1pbjJHZEZmcG5IVWZsZ0o2TnZTaGVBclRKbTVyYmRDOTBpdThsXy02Z0RtSC01NVRZcmIyXzZobFZJWEx5Y2YwSGxBeVplMjNqUXplZW9SZk5qWkM3MGxPX2p4MEjSAfcBQVVfeXFMTi1aM0FFWl9KVGtkNXhpc1B1Q2RJSTdiUnJtZGpuLXY2MXQ0bmtvOXNUWURLa0F1dXR5YWl4MWphZlJCWGZ2M0tCbGF0TzFjMDMxTHk4akFYNXgyZENWdGhMd1V1NDBLdHhxZEE4SmFObVIwTWJrel80WDN5c29lM2Y2a2w4RDBrMnhoZFZvOWVfQ1VIaUEzQm80VlJITVBBZl9LR2NkZXozMGdJVGpvQVNQZ1d6LVlSa29NS0pfcUlDQzEzSFhBSzc1Z0V0ZTdrYTNoblFES1I5SUxSSy1OdGtXTTh4MFozOEFnQk1jVHNzVm42LXllQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6adfd1227c2e",
+      "title": "Single-Dose Rabies Vaccine Shows Strong Year-Long Immunity - EMJ",
+      "published": "2026-05-06T10:04:12+00:00",
+      "summary": "Single-Dose Rabies Vaccine Shows Strong Year-Long Immunity&nbsp;&nbsp;EMJOxford develops 'game changer' single-dose rabies vaccine&nbsp;&nbsp;Oxford MailSingle-Dose Rabies Shot Shows Promise in Tanzania Trial&nbsp;&nbsp;Science AfricaOxford study shows promising outcomes for new single-dose rabies vaccine&nbsp;&nbsp;Rayo",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWk03alNyUENuUWhnbWNNa3hveVk0RXc2VWx0aWdsWTFlbmpoZ2dIRkh1bFd4MDNLODA5dmJzYUV0VVotaXpUWlJBWG1ReWJsT3NRN2hzdk1oM1EtM0FtQ2tYQTJNYXdwQkwtaEdKaTljQlNiT2dCS3BSMkhPcjFMajhJRUZvbDEwVHplVDdvbGZHd2hQdHdRbHE3d29fb0Q3ZVkzbUgyTi0yakI5SHNrYXI4T3QzQkFRM3RydWF2ajhKZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "945a85686313",
+      "title": "The human skull is evolving and researchers say modern life is the reason - Moneycontrol.com",
+      "published": "2026-05-06T09:44:19+00:00",
+      "summary": "The human skull is evolving and researchers say modern life is the reason&nbsp;&nbsp;Moneycontrol.comHuman heads have changed shape a lot in the past 100 years&nbsp;&nbsp;New ScientistIt has been determined that the human skull has changed over the last century&nbsp;&nbsp;Zamin.uzWithin Just 100 Years, Human Skulls Have Changed Shape Significantly&nbsp;&nbsp;IFLScienceScientists Reveal How Human Skulls Have Quietly Transformed In Just 100 Years&nbsp;&nbsp;Indian Defence Review",
+      "sources": [
+        {
+          "name": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc1AydWlXbjF5SXl4cHNGVTVfSjFlcFQycVpzU2ZkbFk5b3NIUHpHNGlRQjlZRGZXMEtQdTYxNFJxSGJPS1Q5Tnc5c2N1SWVPRVRpZC1EMDBzRWtGeC1kNS0yNnZuRHAtTlpVWVJkdlk3NDlJanRKOHhyVzZZWWRFeE1sT3J4NXNQYlQ4WTJIM1Z4Ui05d0J5YXl3WWFPZWhSMGRWMHVEd3NIWGtnd2cwbU1Ydm9rb3BTZE54aDFBWmRrVHZBNFdj0gHMAUFVX3lxTE9BZUc0RkJkcnlja25yazFQZWN0Q1ZFWWo3U3hqQXBEMHJEQmdmY040WV9zbGpUM2Fac3NNZnNFODNpQ3VQZUtqckpDMHYzMVh2MFBMMDliVGZkNERIbzU3RTk1cEcxVFBDTkpPNXMxdGdFdENBUlgxWTI5YzQ2cGlTcm4xT2hKM0Q2ZVZ0Q3pjSWFLQXMzY2wwZ3JLUG8xbFhhMm9VMWl3am53RWhtckpkWUZQSVNyLUVmVVZ3TGluTl9DNDk0SG43c0xhdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3ae8f22a198",
+      "title": "1.6 million-year-old bones reveal how the first humans really got their meat - The Times of India",
+      "published": "2026-05-06T09:02:00+00:00",
+      "summary": "1.6 million-year-old bones reveal how the first humans really got their meat&nbsp;&nbsp;The Times of IndiaForaging behavior in early humans&nbsp;&nbsp;Popular ArcheologyNew Research Shows How the Earliest Humans Got Their Meat&nbsp;&nbsp;GizmodoOur Human Ancestors Dined on Takeout&nbsp;&nbsp;YahooEarly Humans Didn’t Just Hunt: New Research Rewrites the Origins of Meat Eating as a Primitive “Takeout” System&nbsp;&nbsp;The Eastern Herald",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa1d4YXIxTU1mZkdXZTFrUmhqMTl5c2FzanlSeEJoWjVxUF96cHdJWWU5bjRZUzBZMzlZQTlpQmJRbjV0NUt2UFVJSXR2dUFQdE9EeXoxVE9WOTh6SjczZWZ6THhnZTlKXzVrSTZhRmxOSl9lelFOMnltSTFpYnlhSlpPNkhBeVJRWktyNFdOb1lOVjExZzM0MUtCYVAzTzhiM0ZyUXJ3TlNTYTdtdk1kaWdmQXVGZlktck1INW1tYkFRT0dxUzJTUDFtemtNWnYwNVJZbE9icWVRbExaRFBn0gHkAUFVX3lxTE81NDJuTktCRC15V2x6UGdCajh2UnZsMlhNdjZkY1JfbGxDZzNaR00xX2VNcFJnY0ZHaGFfMDNlZWZWZFBKVlBGVTdjUThTcC14Rm82bDdLWU96UENjWnRqYjU2R1liTG9GNzhkSzU2UHFkYkFDcndleVpsZTkxaDVsWkNhbkdhWU9tNXA4QW5VNUdMR0NrTmpJSXNZbE10LUhmRV9ob0w4czFyRjVSOVppczFLVXBoMDRUNUxmNFJsSUFxWmw2WVQwUjdsZGpQZ0xyS3VLZGx6NlJSaXJzdEZ2ZGFzdg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4eb753602744",
+      "title": "Cervical cancer gap will widen without urgent global action - News-Medical",
+      "published": "2026-05-06T08:41:00+00:00",
+      "summary": "Cervical cancer gap will widen without urgent global action&nbsp;&nbsp;News-MedicalIndia may avert 10 million cervical cancer but vaccine cover remains low&nbsp;&nbsp;The Indian ExpressA nation comes together: Business, compassion and public service unite to protect Sri Lankan women from cervical cancer&nbsp;&nbsp;Island.lkHPV vaccines: Why the reluctance to take it? Doctor explains what girls should know&nbsp;&nbsp;OnmanoramaThe fight to eliminate cervical cancer&nbsp;&nbsp;The Hindu",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1owTlpNbFhaeUFSckRnQ3VmckxveG5La1d4N3lDS1hYTHlRc0ZZRFl3c3RaaGYzVGRhOWFSX0hpZHlqNllPY3B2MU5sWU1idmJvVE50bEFmVE1ZTWVtNHhMTlRUWHNzd1dxQnRFLVZGenJfTUI5WW1JbFVfd0Q3bmtWd3lBcFhXem94RHNwdVlXOTlKR0pfVEVxSzd5Tjhwc0dMcnNuc0owTGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d8bd2a12014",
+      "title": "App launched to track heart health after high-risk pregnancies - News-Medical",
+      "published": "2026-05-06T08:09:00+00:00",
+      "summary": "App launched to track heart health after high-risk pregnancies&nbsp;&nbsp;News-MedicalPostpartum Antihypertensive Use Flags Future Heart Risk&nbsp;&nbsp;MedscapePostpartum Blood Pressure Treatment May Signal Long-Term Heart Risk, Study Finds&nbsp;&nbsp;OnlymyhealthHome blood pressure checks could reduce risks after hypertensive pregnancy&nbsp;&nbsp;The GuardianHow to lower risk of heart attacks in new mothers&nbsp;&nbsp;Dailyhunt",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXZhMVRjNGhZSEE1MWgwUmYzNUdDR2JDWjlxWHdldmlUTG5zbDhzOUxtd2VWVXZ2RnBLWlBFR2NiZHhkTHlwRUF6OEN5LTd1U1JyZ0VYS2xSbFBaRDBxNEx1bWZXbmtpY2dOazM0YkR0aGZDQS1kT3J5alN5WHB0WkhzbGJxSDlLS3kxWWx6MFVtYVRReVdkQXpScFQ2VjIxdFNEb3V5aWJoWGp2dmRj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "695f726c7bbe",
+      "title": "Government of India, UNICEF and partners put youth voices at the centre of mental health action for adolescents - Unicef",
+      "published": "2026-05-06T07:36:19+00:00",
+      "summary": "Government of India, UNICEF and partners put youth voices at the centre of mental health action for adolescents&nbsp;&nbsp;Unicef",
+      "sources": [
+        {
+          "name": "Unicef",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbzFMUm5WcG05ZXJsWTV1RjZBbkVxbzYwMmt2aU8wdkVyZ2ltaXpQcmhMbkV1Q19UUmRIeGxtSzNUb1Q3TWNJLUw1Sl92eVRoY21jRGJUMWo5Tk5Uc2tGU0p3MDNiTnFGQm11WXhLZnFGeGp3M0JUaW5RVTc1NXlwdDA4YkZ4TnFNcTJTS0lqVGhZR3FheFhndnlGbjV4NV81ZVVtRWxlU3JSUUkzZmV0S0k4NU1MMGJhcVJSc3hNSnpRblU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4bc7361c3ced",
+      "title": "Researchers develop carbon-free analog for iron - The New Indian Express",
+      "published": "2026-05-06T04:12:06+00:00",
+      "summary": "Researchers develop carbon-free analog for iron&nbsp;&nbsp;The New Indian Express",
+      "sources": [
+        {
+          "name": "The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkRZaGkxRl9SNy0tdXl1YVEzQ3g3SHBpQ2JUZmd6b25HWGM0SUJndjZseWpybnItdXpaQVJFTE5CMHRiNWQ5SnVhcWdhTDJaemNLZXdjdXgzV0kySDdlRmZfYjZJMUpHRFdEUHViSExxOEp3TGM5aFhNTjYyWEtkeVdOdnZyc0hfVUFEZ3FqUkdXWDJqd3gwTldCdHdXLXhDOWtRR21ST3JRbk5zMUHSAbsBQVVfeXFMTlV3NVFRYWVvN2l5OThaNkR2MElUeUdfRWQyaUo3Sk05TnNMZFhKTnRQVjJHMVMxeEVrdHpsR0VhSzZGWjNiYWwtQm8zbmFhaks2U3hyR0J2bmxOS2dqazFjM3NIUFJydVNSUmhGeWRmSUUxaFVzSEFlbTIzRXJpQUM0bVFkSnljRGFNbmtWTGFIZnBXSWYxZHJXTFpLdlFMQUpiVE1qWWM0Sk9lYmVKQ2RZSk5pQXREYk51RQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "91d5a3a4fe8e",
+      "title": "Research Uncovers Potential of Housekeeping Gene to Enhance Fruit Quality Without Hindering Growth - SSBCrack",
+      "published": "2026-05-06T02:29:16+00:00",
+      "summary": "Research Uncovers Potential of Housekeeping Gene to Enhance Fruit Quality Without Hindering Growth&nbsp;&nbsp;SSBCrack",
+      "sources": [
+        {
+          "name": "SSBCrack",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeldJZl9nUlpMRl9HQWRHUmtJVVhrUU8wRktxQThiU0VOdTdRMWk0YmQwY1UyVHpqcF9rZlZIVTJOd2hXa1R0WTFmNkRqV3JfVTFGMWhPeGNRbVlrUFI0SzROTUFFa3M0Yl9yVXNxTExwWm1pM0tRcTN3dTdrTVpaTng4ZVN2cFY1WkFwOUhsbi1NNW5qRGlYR2FpZ3h5Qm1EZnYxYVNSUHg0MmUtV2Yzd1JpWldYMGVGSG9HLWtwVWc1cHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7d40aa0d76e2",
+      "title": "Quagga mussel protein offers new insights into bioadhesives - News-Medical",
+      "published": "2026-05-06T00:56:00+00:00",
+      "summary": "Quagga mussel protein offers new insights into bioadhesives&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXkyMTJrXzQ5ZnRKZTdVb2ZSRFA0RnpkenZSUDRKWUptRF9pMnhoMmI3Ri1LRkVFVmxjSXVDZUFjcHhSbVJIbFFkM1QzZEVQSzRBOFpaalFsUjR6Ukl0TFhRM2k5RXhLd1Y0NWV1c05aaTNBMVA1ZHhRMnFOVXZWNmZaeXVLMlBGWi1UUVdUUW9RellXaW52MkIzYngwejBVRUR2VU44MHhwTzA?oc=5"
+        }
+      ]
+    },
     {
       "id": "76ce868ce345",
       "title": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women - ScienceAlert",
       "published": "2026-05-05T23:10:16+00:00",
-      "summary": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women&nbsp;&nbsp;ScienceAlertIs Tea Better Than Coffee? Science-Backed Comparison Explained&nbsp;&nbsp;Business Connect IndiaTea vs coffee: Which is better for your bone health?&nbsp;&nbsp;Indulgexpress",
+      "summary": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women&nbsp;&nbsp;ScienceAlertTea vs coffee: Which one is actually better for your health?&nbsp;&nbsp;saga.co.ukIs Tea Better Than Coffee? Science-Backed Comparison Explained&nbsp;&nbsp;Business Connect IndiaTea vs coffee: Which is better for your bone health?&nbsp;&nbsp;Indulgexpress",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -21,7 +189,7 @@
       "id": "6e16d5adfdd5",
       "title": "New Study Proposes Round Trip to Mars in Less Than a Year Using Asteroid Trajectories - SSBCrack",
       "published": "2026-05-05T21:29:37+00:00",
-      "summary": "New Study Proposes Round Trip to Mars in Less Than a Year Using Asteroid Trajectories&nbsp;&nbsp;SSBCrack'I was not looking for this': Scientist accidentally finds shortcut to Mars that could slash travel time in half&nbsp;&nbsp;Live ScienceA \"Space Shortcut\" to Mars in Just 56 Days Has Been Discovered and Europe Is Already Building the Tech&nbsp;&nbsp;The Daily GalaxyThis Asteroid Created a Cosmic Hiking Trail to Mars (and Scientists Want to Follow It)&nbsp;&nbsp;VICEAstronomer Tracking Near-Ea",
+      "summary": "New Study Proposes Round Trip to Mars in Less Than a Year Using Asteroid Trajectories&nbsp;&nbsp;SSBCrack'I was not looking for this': Scientist accidentally finds shortcut to Mars that could slash travel time in half&nbsp;&nbsp;Live ScienceA \"Space Shortcut\" to Mars in Just 56 Days Has Been Discovered and Europe Is Already Building the Tech&nbsp;&nbsp;The Daily GalaxyAstronomer Tracking Near-Earth Asteroid 2001 CA21 Finds Potential Shortcut To Mars&nbsp;&nbsp;IFLScienceAsteroid breakthrough cou",
       "sources": [
         {
           "name": "SSBCrack",
@@ -50,6 +218,18 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUlloVmNUX3hFZHZDYkhMMjlsSV9HTHZEUmV6dGdTMVVKY19lOWw2RkZyRmxlQmwyeVJVYllyRllBZFNPWFNkUnVadnR5X0tiOVZTaDRLbVQ1ajU3UXdWc3VxLU1VQ3hpbjRxTi1fVVR5UDdFYTFGbXVsQ2tCODhxNjJfVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af184664821b",
+      "title": "Frailty, Not Age, Drives Risk With SGLT2, GLP-1 Meds - Medscape",
+      "published": "2026-05-05T20:26:46+00:00",
+      "summary": "Frailty, Not Age, Drives Risk With SGLT2, GLP-1 Meds&nbsp;&nbsp;MedscapeChoosing Safer Diabetes Medications for Older Adults&nbsp;&nbsp;Yale School of MedicineEncouraging Short-Term Goals for Older Adults With Diabetes&nbsp;&nbsp;MedscapeDealing with diabetes in your older age&nbsp;&nbsp;AOL.comDiabetes Treatment After 65: Study Finds Newer Meds May Be Safer For The Elderly&nbsp;&nbsp;ETV Bharat",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZVVPSXhrMVZCaFJBRUpHUzlnZHVRMTRzWUlYS2RPZ2hGREdqUnNUT2ZHMS1xX192eVc2QkJwT1FoVDM0UUhmcUFyWVFKa00tc3U0emNlSk5keWRmb1h4MzlsSkd2bnVMbUJSVE11MGlSMUgxMEY3dUZ1aFpaRHlPclZMTjFLV3RRdWxLYklDLVh3eS1LZXlMYllrZmdVUVZ3ZHNFaThDYXpGYTRpVGc?oc=5"
         }
       ]
     },
@@ -102,18 +282,6 @@
       ]
     },
     {
-      "id": "c44f43b2a3fd",
-      "title": "Medical Miracle: World First Frozen Testicular Implant Gives ‘Infertile’ UK Man Hope of Fatherhood - Health and Me",
-      "published": "2026-05-05T17:31:00+00:00",
-      "summary": "Medical Miracle: World First Frozen Testicular Implant Gives ‘Infertile’ UK Man Hope of Fatherhood&nbsp;&nbsp;Health and MeMan produces sperm from testicular tissue frozen as a child in breakthrough trial&nbsp;&nbsp;The GuardianTesticular Implant: A Cancer survivor’s journey to fatherhood via world’s first implant surgery&nbsp;&nbsp;The Times of IndiaCan Cryopreserved Testicular Tissue Enable Fertility?&nbsp;&nbsp;MedscapeThis scientific breakthrough is a solution for male infertility&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "Health and Me",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWU9icG1KdmZVREY5Z1I4dUEtX1NObHh2S0NVOFctalMtZGtXMmQyYkF3MHhtM0pNWU5DVjBKOFZDdVp5TDBZLXhwenBrSjBmd3dPUkVBbGRVeXEwR296SUNNQVZNNTV2ckd4dEduUEFlZjdEa045U2R6M2x2RWJacFpDWlprTEF0SEpSd2xHdjVWbzRWQUV0SjY1UVJfN1pjNmZHT0RoRXVDenFBbGdGUW5DQ0VkX0FUOEIyR0RFcFRSQUtQNEI0UVNJOTZyZG1nOGNwbUthNUlzLXZnaHhNY3BTUnhqeHlw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d84f3f84c9d2",
       "title": "Photodynamic strategies enhance antibacterial performance of titanium orthopedic implants - News-Medical",
       "published": "2026-05-05T17:25:00+00:00",
@@ -126,14 +294,26 @@
       ]
     },
     {
-      "id": "f4659a90c3dd",
-      "title": "Mapping Cancerous Tissue with a Hand-Held Probe - AIP Publishing LLC",
-      "published": "2026-05-05T15:05:48+00:00",
-      "summary": "Mapping Cancerous Tissue with a Hand-Held Probe&nbsp;&nbsp;AIP Publishing LLC",
+      "id": "f03b011d2445",
+      "title": "Study: Egg consumption is associated with a lower risk of Alzheimer’s Disease - EurekAlert!",
+      "published": "2026-05-05T17:01:26+00:00",
+      "summary": "Study: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;EurekAlert!Eggs against Alzheimer’s: Study reveals how many eggs a week can boost your memory&nbsp;&nbsp;The Times of IndiaEating 5 eggs daily lowers Alzheimer's risk by 27% for seniors aged 65 and above, study finds&nbsp;&nbsp;Deccan HeraldMedical Oddities: Brain Health, Sunny-Side Up&nbsp;&nbsp;ConexiantEggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTV",
       "sources": [
         {
-          "name": "AIP Publishing LLC",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlhtWWNtMmxVd3I2TjFicndhNE5MQUV5OExlbWNMcm05NG93dmk0LWFPYzhhdm1RRU5Ic3Bua0V6OTU2VkNqMUVISi15NThCX19QSEs2VlNDQU5pZzdpTkNfRkRldy1QVDZWMVB6b2Y2M1J3ZExwRGxXc183bWNHZ1pjb3RJRkVuTmxLZEJsTUV6Y19obWhYZkxyeHZFblVGVlptdWRR?oc=5"
+          "name": "EurekAlert!",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wOE90akZPQkJlWXFkVERuakxSNUhYdzZlV3hjX1BiQTBGdDl4WGwyZTUyXzVsZjV6Y2Ntd0NVWjJqcGNJbENwQjc2NWRGU2J4dEs2NVNyb2dUUUQ5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "783052918f29",
+      "title": "Biological use of molybdenum and tungsten stems back to 3.4 billion years ago - nature.com",
+      "published": "2026-05-05T15:59:25+00:00",
+      "summary": "Biological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;nature.comNasa team discovers secret ingredient that powered ancient life on Earth&nbsp;&nbsp;India TodayNASA-backed study links molybdenum to early life chemistry on Earth&nbsp;&nbsp;NewsBytesThree billion years ago, Earth's life relied on a rare metal&nbsp;&nbsp;Phys.orgLife Built Its Biochemistry on a Metal That Was Almost Nowhere to Be Found&nbsp;&nbsp;ScienceBlog.com",
+      "sources": [
+        {
+          "name": "nature.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5obzNnMjhoVGU3dHlfekFtT29Fc1NZa0llMEVaVDJBeXZmNVZaRDdoVUtEVGQ1VHJVbXJIRmxKTnhzc3RESklBLUM2bUczRFZZSkNIVmU3alVsWU5zYlR3?oc=5"
         }
       ]
     },
@@ -141,7 +321,7 @@
       "id": "46103b479eda",
       "title": "Bangladesh: Children at Risk over Measles Outbreak and the Failure of Public Health Accountability - International Society for Human Rights (ISHR)",
       "published": "2026-05-05T14:51:24+00:00",
-      "summary": "Bangladesh: Children at Risk over Measles Outbreak and the Failure of Public Health Accountability&nbsp;&nbsp;International Society for Human Rights (ISHR)Bangladesh reports 17 measles deaths in single day of outbreak&nbsp;&nbsp;Daily Excelsior17 more children die with measles symptoms death toll reaches 311&nbsp;&nbsp;theweek.inBangladesh measles outbreak: 10 more children die, toll climbs to 294&nbsp;&nbsp;The Hans IndiaTwo infants die from measles-like symptoms in Sylhet&nbsp;&nbsp;The Busine",
+      "summary": "Bangladesh: Children at Risk over Measles Outbreak and the Failure of Public Health Accountability&nbsp;&nbsp;International Society for Human Rights (ISHR)Measles toll in Bangladesh climbs to 317 as six more children die&nbsp;&nbsp;The Assam TribuneBangladesh reports 17 measles deaths in single day of outbreak&nbsp;&nbsp;Daily ExcelsiorMeasles outbreak in Bangladesh worsens, death toll rises to 294 | Tap to know more | Inshorts&nbsp;&nbsp;InshortsBiplabi Chhatra Moitree seeks trial of Yunus, Nur",
       "sources": [
         {
           "name": "International Society for Human Rights (ISHR)",
@@ -150,14 +330,26 @@
       ]
     },
     {
-      "id": "b35a3081a850",
-      "title": "Hantavirus outbreak reported on cruise vessel, WHO monitors situation - safety4sea",
-      "published": "2026-05-05T13:58:11+00:00",
-      "summary": "Hantavirus outbreak reported on cruise vessel, WHO monitors situation&nbsp;&nbsp;safety4seaCruise Ship Hantavirus Outbreak: 2 Confirmed, 5 Suspected Cases On Board, Experts Warn There Is No Cure&nbsp;&nbsp;NDTVThree people to be evacuated from hantavirus-hit cruise ship in coming hours&nbsp;&nbsp;CNNCruise passengers tell of life on board stranded ship after hantavirus outbreak&nbsp;&nbsp;BBCWhat is hantavirus, the infection thought to have killed three on cruise ship?&nbsp;&nbsp;The Guardian",
+      "id": "310587c8c630",
+      "title": "These Two Genes Have Been Running Evolution’s Playbook Since the Dinosaurs - Indian Defence Review",
+      "published": "2026-05-05T14:30:00+00:00",
+      "summary": "These Two Genes Have Been Running Evolution’s Playbook Since the Dinosaurs&nbsp;&nbsp;Indian Defence ReviewEvolution isn’t random. Scientists find the same genes used for 120 million years&nbsp;&nbsp;ScienceDailyGenetic parallelism underpins convergent mimicry coloration in Lepidoptera across 120 million years of evolution&nbsp;&nbsp;PLOSStudy: Butterflies and Moths Have Reused Same Genetic Toolkit for 120 Million Years&nbsp;&nbsp;Sci.NewsButterfly genes reused for 120 million years show that ev",
       "sources": [
         {
-          "name": "safety4sea",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTZGVlUwMTJHeUJIWEJod0NPY3pHWHcxOGNmVGtONnBJa2sxeDZOeVdmOGRtcXFPVzktZ092UVc5YU0wbDJzY3ItVVY2R2lDN3JtNC1xdjhGTGR1VEdiQlJmdUtrcU1oU2o5VVVLSDl2MUxaaG5Zb1Jxc0R5ck1tMlVPbjZOVzZ1SGg4aFppTzlmRTFlSGNv?oc=5"
+          "name": "Indian Defence Review",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBTjBnUEFBcGkzMXdhNDFiWnJlS0dSSEdzNUNzaWx6ck0yZ3VPMWwwN2h0QTljY0pOR1RobllPTHhvUDJvWTZyeDlOZ0pidDhmejE4V2t5OThyTDVBWDQ0Q0VzUzhFZDhRd2dxM3YtSWlRb2FySTBTTVFTaE4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "893b59ec6a9c",
+      "title": "World Asthma Day – May 5, 2026 - Global Initiative for Asthma",
+      "published": "2026-05-05T14:09:55+00:00",
+      "summary": "World Asthma Day – May 5, 2026&nbsp;&nbsp;Global Initiative for AsthmaNot Just Breathlessness, Recognising Early And Atypical Asthma Symptoms&nbsp;&nbsp;NDTVSmoking, C-section births causing surge in child asthma cases: Experts&nbsp;&nbsp;The Times of IndiaCan regular use of inhalers lead to addiction? Lucknow doctor busts most common asthma myths on World Asthma Day&nbsp;&nbsp;Hindustan TimesWorld Asthma Day highlights need for awareness, early diagnosis | Daily Sabah&nbsp;&nbsp;Daily Sabah",
+      "sources": [
+        {
+          "name": "Global Initiative for Asthma",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pa2dfa2l1V2szLXRTX0F6R2lhTzZxYnl5aDA2QmhORFZJcTFxaXljWmw1QTBSbFF5WTlvZXZTVmFvdWRoN05hMExYbURZaENldHlUd2ZNLXBTRFdWd2tZ?oc=5"
         }
       ]
     },
@@ -165,7 +357,7 @@
       "id": "d75d548ee7a7",
       "title": "Semaglutide Improved Motivation in Patients with Depression - EMJ",
       "published": "2026-05-05T13:22:39+00:00",
-      "summary": "Semaglutide Improved Motivation in Patients with Depression&nbsp;&nbsp;EMJWeight loss drug Ozempic could lower depression and anxiety symptoms, finds study&nbsp;&nbsp;Moneycontrol.comCould GLP-1s Mean Fewer Employee Sick Days? New Research Says Yes&nbsp;&nbsp;inc.comStudy reveals Ozempic cuts depression risk by 44%&nbsp;&nbsp;The News InternationalStudy Links Diabetes Medications to Improved Mental Health Outcomes&nbsp;&nbsp;SSBCrack",
+      "summary": "Semaglutide Improved Motivation in Patients with Depression&nbsp;&nbsp;EMJDiabetes and weight loss drug Ozempic could also reduce symptoms of anxiety and depression, finds study&nbsp;&nbsp;Moneycontrol.comCould GLP-1s Mean Fewer Employee Sick Days? New Research Says Yes&nbsp;&nbsp;inc.comStudy reveals Ozempic cuts depression risk by 44%&nbsp;&nbsp;The News InternationalStudy Links Diabetes Medications to Improved Mental Health Outcomes&nbsp;&nbsp;SSBCrack",
       "sources": [
         {
           "name": "EMJ",
@@ -189,7 +381,7 @@
       "id": "dc1087822b73",
       "title": "Thales Alenia Space signs phase 1 contract with ESA for the development of the telescopes onboard LISA mission - Thales Group",
       "published": "2026-05-05T13:00:00+00:00",
-      "summary": "Thales Alenia Space signs phase 1 contract with ESA for the development of the telescopes onboard LISA mission&nbsp;&nbsp;Thales GroupESA Awards Thales Alenia Space €26 Million Contract for LISA Telescopes&nbsp;&nbsp;European SpaceflightThales Alenia Space Secures Key Contract for ESA’s Gravitational Wave Observatory&nbsp;&nbsp;satnews.comThales Alenia Space signs 26.1 million euro contract for LISA mission&nbsp;&nbsp;marketscreener.com",
+      "summary": "Thales Alenia Space signs phase 1 contract with ESA for the development of the telescopes onboard LISA mission&nbsp;&nbsp;Thales GroupView Full coverage on Google News",
       "sources": [
         {
           "name": "Thales Group",
@@ -201,7 +393,7 @@
       "id": "008aed597178",
       "title": "GLP-1 Drugs May Cause Muscle Loss in Advanced Cirrhosis - Medscape",
       "published": "2026-05-05T12:48:14+00:00",
-      "summary": "GLP-1 Drugs May Cause Muscle Loss in Advanced Cirrhosis&nbsp;&nbsp;MedscapeGLP-1s for weight loss: Should you really worry about muscle loss?&nbsp;&nbsp;Medical News TodayResearchers link popular obesity drugs to muscle loss via metabolic instability&nbsp;&nbsp;동아사이언스GLP-1 agonists and the hidden power of outdoor exercise&nbsp;&nbsp;KevinMD.comSix of the best exercises to preserve strength for GLP-1 users, according to an expert&nbsp;&nbsp;Fit&amp;Well",
+      "summary": "GLP-1 Drugs May Cause Muscle Loss in Advanced Cirrhosis&nbsp;&nbsp;MedscapeGLP-1 Drugs May Trigger Muscle Loss In Cirrhosis Patients: Study&nbsp;&nbsp;NDTVGLP-1s for weight loss: Should you really worry about muscle loss?&nbsp;&nbsp;Medical News TodayGLP-1 agonists and the hidden power of outdoor exercise&nbsp;&nbsp;KevinMD.comResearchers link popular obesity drugs to muscle loss via metabolic instability&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
           "name": "Medscape",
@@ -225,7 +417,7 @@
       "id": "089bbb5fcb64",
       "title": "The Silent Build-up Of Asthma: Hidden Symptoms, Triggers And The Warning Signs Many Miss - BW Healthcare World",
       "published": "2026-05-05T12:05:30+00:00",
-      "summary": "The Silent Build-up Of Asthma: Hidden Symptoms, Triggers And The Warning Signs Many Miss&nbsp;&nbsp;BW Healthcare WorldAsthma Day: Indoor Triggers You Didn't Know Are Worsening Your Symptoms&nbsp;&nbsp;NDTVKnow your asthma triggers: 7 hidden causes lurking at home and smart ways to avoid them&nbsp;&nbsp;The Times of IndiaAsthma Doesn’t Take a Summer Break: Why Hot Weather Can Still Trigger Attacks&nbsp;&nbsp;Times NowRaising awareness about asthma: Practical tips&nbsp;&nbsp;The Hans India",
+      "summary": "The Silent Build-up Of Asthma: Hidden Symptoms, Triggers And The Warning Signs Many Miss&nbsp;&nbsp;BW Healthcare WorldAsthma Day: Indoor Triggers You Didn't Know Are Worsening Your Symptoms&nbsp;&nbsp;NDTVKnow your asthma triggers: 7 hidden causes lurking at home and smart ways to avoid them&nbsp;&nbsp;The Times of IndiaAsthma Doesn’t Take a Summer Break: Why Hot Weather Can Still Trigger Attacks&nbsp;&nbsp;Times NowChild to adulthood — asthma can be triggered at any time&nbsp;&nbsp;Viera Voice",
       "sources": [
         {
           "name": "BW Healthcare World",
@@ -234,34 +426,10 @@
       ]
     },
     {
-      "id": "78c535809ca4",
-      "title": "Postpartum Antihypertensive Use Flags Future Heart Risk - Medscape",
-      "published": "2026-05-05T12:01:38+00:00",
-      "summary": "Postpartum Antihypertensive Use Flags Future Heart Risk&nbsp;&nbsp;MedscapeView Full coverage on Google News",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREhhMnl6TnNYcE12U2RQNGYxWUxnY3Y0RC0yR0h5UzJiQ1pPcGJfUHYwRVdxQ1lGVklleWRwWEt1cUZCaC1tdmJLZW4xNThlMHJYRW1XWUVBTHpRUzZFTXVkWjJxNDU5NlZRMC1uZFdiS3BoRGFvQmpXTkVMYlhuOGJSSzRUV2V3UXNKaWUzdEVXZGFZczZMUUlSOGpmVm1xcHFEUXlFN3U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1180b66544cc",
-      "title": "India may avert 10 million cervical cancer but vaccine cover remains low - The Indian Express",
-      "published": "2026-05-05T11:32:18+00:00",
-      "summary": "India may avert 10 million cervical cancer but vaccine cover remains low&nbsp;&nbsp;The Indian ExpressRich nations might eliminate cervical cancer by 2048, progress slow in poor countries: study&nbsp;&nbsp;The HinduA nation comes together: Business, compassion and public service unite to protect Sri Lankan women from cervical cancer&nbsp;&nbsp;Island.lkCervical cancer: Why screening gaps in India need urgent attention&nbsp;&nbsp;Deccan HeraldKaren Canfell: Cervical Cancer Vaccination Problem in ",
-      "sources": [
-        {
-          "name": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3daQVoyWlJHbUZueHdpd1Z5bUdMSTB4TTRuVFdMVlBnaEZMTndfVTJKdVJ4WG52a3B4T193OUxJVWRPV3cyTm1BQ2p5VWhnZDZ2aF9GNUNjN0UzSWlIeHpwdnlrODFBNDl1NkVJZ0ZIMHExb2pEMUlXdl9OT0RxcVFhaHJsaUJVTlloMUlPSnFhOWpVUWZiZUJ0eXBRd0VxZnRLc1hoVUltbnJZOUViYzltcDcwcUhkdm5OT0pCQ2dUR1lGMG54SUJjUdIB0gFBVV95cUxPeTFQWXJfOS1INFdnNk9zWFF6dV9adlp6TU9BUDdIUUZ2aE5EN0xHemRLVFJiRFJ0OUtCclZ5clVLcUctQ1prX19MTTY0R2c4WmFROExad2x1NXF2WVBwbU1mR3BTanowc3hadE1yUUF5OFktTE9FbnVWRFZVSGFGV0hBSlIyUnFPY1FiY3RPV28zak1walhPU0N5WENPQ3lqeUZ4dVY2T1FJdm9KMmtkMHJkWVpVV3J6OUl6eHBBT1hCRmlMZkN3R3ZWUXpHYllPSlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a0d8d705ccc9",
       "title": "Plants can hear the rain, and it makes them grow faster: Study - The Times of India",
       "published": "2026-05-05T10:30:00+00:00",
-      "summary": "Plants can hear the rain, and it makes them grow faster: Study&nbsp;&nbsp;The Times of IndiaWhen seeds 'hear' rain, they 'decide' to sprout — study&nbsp;&nbsp;DW.comPlant Seeds Do Something Incredible When The Sound of Rain Strikes&nbsp;&nbsp;ScienceAlert",
+      "summary": "Plants can hear the rain, and it makes them grow faster: Study&nbsp;&nbsp;The Times of IndiaPlant Seeds Do Something Incredible When The Sound of Rain Strikes&nbsp;&nbsp;ScienceAlertWhen seeds 'hear' rain, they 'decide' to sprout — study&nbsp;&nbsp;DW.comSeeds hear rain: MIT study finds sound waves speed germination&nbsp;&nbsp;valleyvanguardonline.com",
       "sources": [
         {
           "name": "The Times of India",
@@ -282,6 +450,18 @@
       ]
     },
     {
+      "id": "9ff6884f234a",
+      "title": "New WHO online course strengthens good practices in clinical trials - World Health Organization (WHO)",
+      "published": "2026-05-05T09:22:39+00:00",
+      "summary": "New WHO online course strengthens good practices in clinical trials&nbsp;&nbsp;World Health Organization (WHO)",
+      "sources": [
+        {
+          "name": "World Health Organization (WHO)",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVhBWTlMaVpIV054RkRibndpdEhMTzZFRTlnMDkzdmxYRnBfYkxvSzFYeVFMend1dzgtM1pIZjFFekpZNTROLWtzNlEydWt4MG5aZlY1YUY4bVF3YjhKdWZCWVdPejlDZFppS2JVTXROMTRQakh6VFhQWW5zMklnVExqbG5jaWhNRURPM2dxelJ1UHo4cmpyNEN3SWU4em1CRk5xeGRvcElpcUVJ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "93d15016dc09",
       "title": "Tango partners’ brains sync up, new study finds. What it could mean for human communication - ThePrint",
       "published": "2026-05-05T09:20:01+00:00",
@@ -294,38 +474,14 @@
       ]
     },
     {
-      "id": "fb490658f581",
-      "title": "Persistent cough may indicate undiagnosed asthma: CARE Hospitals doctors - expresshealthcare.in",
-      "published": "2026-05-05T06:29:04+00:00",
-      "summary": "Persistent cough may indicate undiagnosed asthma: CARE Hospitals doctors&nbsp;&nbsp;expresshealthcare.inNot Just Breathlessness, Recognising Early And Atypical Asthma Symptoms&nbsp;&nbsp;NDTVAsthma cases surge in Bihar; doctors stress awareness, early treatment&nbsp;&nbsp;The Times of IndiaWorld Asthma Day – May 5, 2026&nbsp;&nbsp;Global Initiative for AsthmaCan regular use of inhalers lead to addiction? Lucknow doctor busts most common asthma myths on World Asthma Day&nbsp;&nbsp;Hindustan Times",
+      "id": "b4e22676eda1",
+      "title": "Is creatine worth the hype? What latest science does and doesn’t tell us - The Times of India",
+      "published": "2026-05-05T06:27:00+00:00",
+      "summary": "Is creatine worth the hype? What latest science does and doesn’t tell us&nbsp;&nbsp;The Times of IndiaWhat the Latest Science Really Says About Creatine’s Benefits for Body and Mind&nbsp;&nbsp;Bioengineer.orgThe Supplement Experts Are No Longer Recommending Just for Athletes&nbsp;&nbsp;YahooScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyCreatine is a popular supplement. It has benefits but also risks&nbsp;&nbsp;The Oklahoman",
       "sources": [
         {
-          "name": "expresshealthcare.in",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHN3bXdrblo0cEp5VmpnazQxdHVxci05bE1OZENTS3h6UzgwMU13eVZ1UkdQMk8zdVlfQzRlM2lJcUhVQzFuN0Q0aVRlTF9ycVAzeWcwdWpRS1hEVlB3TWNJak0wc19BaWRVb1QyOE9DSENMaktGMVhNLTFsXzg4TUkwVHlneEVDQnJfM1JFWkdIcjZpR29wZm5KMnhLOG44UkItSWFQTElXdi01a0JLSTlIZFpOal9X0gG-AUFVX3lxTE13RUJvUzduLTlndVNRQldfQ0NmallCWFExVTRNQzhMX3MtdjBBdWhrdS1pQ0Y0MGZ0MUpxMWRWbHBWdjRCeXZJLTVZV0dEVC1JZFdQUGsxUzgxcnE3Yk5IWVJoWmNuQTV6N1BNOUFBU2N3ZkZDREVObzAtRFl0WlNoaVBPZjhETXctX2JrQVpkTEJONldSTTg5eF9CTWE2RFhzT3JNb2ptRHluRldxU1dxUDVHZ01UY2JzWVB1SXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "36f49795ac88",
-      "title": "Atmosphere around object in outer solar system raises questions about how, when it formed: Study - Press Trust of India",
-      "published": "2026-05-05T05:05:42+00:00",
-      "summary": "Atmosphere around object in outer solar system raises questions about how, when it formed: Study&nbsp;&nbsp;Press Trust of IndiaThin atmosphere detected around distant object beyond Pluto&nbsp;&nbsp;CNNDetection of an atmosphere on a trans-Neptunian object beyond Pluto&nbsp;&nbsp;nature.comAtmosphere detected on celestial body in solar system's far reaches&nbsp;&nbsp;ReutersMysterious world beyond Pluto may have an atmosphere, astronomers say&nbsp;&nbsp;news.cgtn.com",
-      "sources": [
-        {
-          "name": "Press Trust of India",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQalZZbTdyMUMtV0JHOHpLbTVSMmwzQ1VaUXo1blgzNl9FUU9yQkhLQ2EzUUd5ZDFNcktvd18zanJWdHA2TGlYYVNwTDhpOTIzQmYxUnUwV1U2YTM2Y3Y2Qkk4TWZHQlk2a2V5OHVXazNJTktkcW5nMUJUaTE4VjhOb0RHdEo0clBvVS1HejJObGJ1T0pDb2M0VGpzdUtzSmhTLWtpSmtXOHRxM3pfOU9IdjREODVGdWh1TktWWFpDZUx3VjRlNFJnYzgxdE5rNFVVUzNucWhlWEw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f23a91f9f077",
-      "title": "Common structural analysis of interfacial water is inadequate, according to a new study - chemeurope.com",
-      "published": "2026-05-05T04:32:31+00:00",
-      "summary": "Common structural analysis of interfacial water is inadequate, according to a new study&nbsp;&nbsp;chemeurope.comTwisting water&nbsp;&nbsp;EurekAlert!",
-      "sources": [
-        {
-          "name": "chemeurope.com",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHJNbjYya3hhODVfVmV3UHFyVjk2OXpTYlAyb0xJUHhsa3V2WllHcnVTa1BUWFlkdk45QzRwUHlZWXUzcDRmYUJTRU1JcnI4SzF6SUZUZFIwbWt6UDlBXzRaZmtic2dJSlJxQTZjYUY2eUhpUExGT3FRY1dCamo4MUZfbXZNbmhaWGJFeHNvRkVJdkNxcHltSDhKZlRDTUNQMXBsNVBpOFVkOGFvaDZob3pOS3dTeF9DNDlQbzJzelpMdDhrVkgzYmQ5N0hSTmc?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1R1UEY3UHBEMjh3TE1Pa21rbjBYUEd3czF3bkFfYlNOdUhjN2JIV0VSWEZad1dvakt3VV9iWDZjT0l2X0t2M1FnRmlCb3o3UVUza1BlWU1Hc3FlSjdqb1BmUnROd3dMekQ2UjBTblBrSTJzSExRT2l1SFVJNkdFOXpqTWpWQjhlY2xVVUxCdGduR09HaXA0a0kwWmJ0NGNEM081Y2oxdUFrZXR3Q01SY0hOdmpnR2xDUW9Gb205RHIyR3hZN3VzZFd1VTBYVWxVOE1FMDMyZ1lOOW5pM1hNRE9R0gHnAUFVX3lxTE1fdF9wdzRrNTc1Rk5XYnFvQmpNd0RVOU5tWE9jWU5RNk5TSUdCakVCMDJiZTNZcTc2eGdEc1d5WkVPWXRIZ0VuaFpDNS1jRUs4QXBKQUJzalpWcFFuS1FNM25ZMEltWURvREg5VnpyTDg0VnlEYVhnbjRLcWpwSHNjTHJYbWdoVWs0WTBJcjhVZjRFZndUTUlXdENUTW5sblpMb2hOWnllOEN0dnF1c1d6ZXVSaHFOMFRVM1RDWVhONWJocnUwWXh5eTRZNzBIZ3NHOFZkZEJpeFlld0l1aHJ0bENNRVJnQQ?oc=5"
         }
       ]
     },
@@ -333,23 +489,11 @@
       "id": "513178791e15",
       "title": "People share incomplete details with AI in symptom reports - News-Medical",
       "published": "2026-05-05T02:50:00+00:00",
-      "summary": "People share incomplete details with AI in symptom reports&nbsp;&nbsp;News-MedicalShould you trust AI for medical advice? The hidden risks in health care&nbsp;&nbsp;theweek.inReduced symptom reporting quality during human–chatbot versus human–physician interactions&nbsp;&nbsp;nature.comShould you ask ChatGPT for medical advice?&nbsp;&nbsp;Harvard GazetteMisinformation From AI Putting Patients’ Health at Risk&nbsp;&nbsp;Medscape",
+      "summary": "People share incomplete details with AI in symptom reports&nbsp;&nbsp;News-MedicalShould you trust AI chatbots for medical advice? Expert weighs in&nbsp;&nbsp;India TV NewsReduced symptom reporting quality during human–chatbot versus human–physician interactions&nbsp;&nbsp;nature.comShould you trust AI for medical advice? The hidden risks in health care&nbsp;&nbsp;theweek.inShould you ask ChatGPT for medical advice?&nbsp;&nbsp;Harvard Gazette",
       "sources": [
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc3NJaTFSeW01OFo2NUhoLUp6MklfRGpHYkZITXNod1FsV0c0bE1raDQzaW9uU04xR3FvdFUwb0tFN3JzS0RGMlBJN3BiZFNBRFc0N0o1eDdSRUtCRjBIcWZWZDFmVjdnYkRRTTN0dU15Tjl2Sl9TZEZfaUI4angzYXBaUXdQckZkNXpxVlZfQ1FxeVdJNlFNSWtFQTZkenlhSE9WLVNuN0hMZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "186402020ad6",
-      "title": "AI model reads genetic code to trace evolutionary history - News-Medical",
-      "published": "2026-05-05T02:01:00+00:00",
-      "summary": "AI model reads genetic code to trace evolutionary history&nbsp;&nbsp;News-MedicalDNA-reading AI reconstructs ancestry in minutes, matching top statistical methods&nbsp;&nbsp;Phys.orgInnovative AI Model Deciphers DNA Sequences to Trace Ancestral Lineages&nbsp;&nbsp;Bioengineer.orgAn AI Trained on Fake Genomes Can Read the Geneology Written in Real Ones&nbsp;&nbsp;ScienceBlog.comNew AI Model Reads DNA Sequences to Reconstruct Ancestry&nbsp;&nbsp;Tomorrow's World Today",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRE1MNGpkY2JsVXVrY3BvWWx4QzdzQkNTTXdHVzdRanZqY3E3ekdmSF9qRklwMzJRWVRwa1BVVnZaUll0dGVnS2R3X0p5cTR2V2dGQkNCVW04NVhBeE0wZW02dmlQRHZNTnNtdWczWkRrSjZ1X3pKODhzX0lmSWhvdlctTk5OU2xERE91Tk1qQVJPZlN6dDZ4VjJ0MWhtMVVQYjBuTHpMT2o?oc=5"
         }
       ]
     },
@@ -366,110 +510,26 @@
       ]
     },
     {
-      "id": "6a45a0785d9d",
-      "title": "Researchers predict protein cascade expression from H&E images - Let's Data Science",
-      "published": "2026-05-04T18:25:17+00:00",
-      "summary": "Researchers predict protein cascade expression from H&amp;E images&nbsp;&nbsp;Let's Data Science",
+      "id": "e18c26bcb1c3",
+      "title": "Omega-3 Supplements Linked to Cognitive Decline in Surprising New Study - SciTechDaily",
+      "published": "2026-05-04T14:51:00+00:00",
+      "summary": "Omega-3 Supplements Linked to Cognitive Decline in Surprising New Study&nbsp;&nbsp;SciTechDailyOmega-3 supplements may be linked to faster cognitive decline in seniors, study finds&nbsp;&nbsp;Medical XpressFish oil may actually be hurting your brain, shocking new study finds — here’s when it becomes dangerous&nbsp;&nbsp;Futura, le média qui explore le mondeOmega-3 Supplements May Increase Risk of Cognitive Decline, Scientists Warn&nbsp;&nbsp;ScienceAlertStudy links Omega-3 supplements to cogniti",
       "sources": [
         {
-          "name": "Let's Data Science",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb3RlVm5XMGVFakNwZk9PZW13UEtFYzBKTHVVdDNTa2pjOU1ySzVXTDExV1I5ZmpHc1pNY3ZUNGFIb3gtenpOejd3bW5XX1JhdDBjaWl6NDNOMjU1ZlpMc011Slc2cWpfSDMxckRIM1R0UUNCeTRROTAySUZwSkxwRXBRcWZPbENmNm5MUkFyM1oxZ0ZZVExhbm1fUVJISlFsQUE5Zw?oc=5"
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVhUVUdRNUkzcjUyd2M5MkFqc2t4ZzB5YVNPUnB4RFZRZ0tkbkJpMGl5b0ZWYkZ1S1VLR3NhV3pNNWRMaEpqRGVlV0pMV1dRQ3F4MkZHMWptcTJuSE1DTDd1R21kekE5TC01dnJVRFU4NENmdHRWSWt3VFphWGJiRmw2cGQxRFhMS2oyaXN5d2JBd0stMGZMUUd6bmFZZw?oc=5"
         }
       ]
     },
     {
-      "id": "7da4c520e3b7",
-      "title": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules - Phys.org",
-      "published": "2026-05-04T17:20:11+00:00",
-      "summary": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules&nbsp;&nbsp;Phys.orgResearchers Detect Quantum Phase With Light Scattering&nbsp;&nbsp;Quantum ZeitgeistResonant chiral dressing by amplitude fluctuations in a ferroaxial electronic crystal&nbsp;&nbsp;nature.comExotic Quantum Phase Dynamically Links Vibrations Separated by Symmetry&nbsp;&nbsp;Bioengineer.org",
+      "id": "3b67be7ca19c",
+      "title": "Man produces sperm from testicular tissue frozen as a child in breakthrough trial - The Guardian",
+      "published": "2026-05-04T14:00:00+00:00",
+      "summary": "Man produces sperm from testicular tissue frozen as a child in breakthrough trial&nbsp;&nbsp;The GuardianTesticular Implant: A Cancer survivor’s journey to fatherhood via world’s first implant surgery&nbsp;&nbsp;The Times of IndiaWorld First Transplant: Man Regains Viable Sperm From His Childhood Testicle Tissue&nbsp;&nbsp;ScienceAlertCan Cryopreserved Testicular Tissue Enable Fertility?&nbsp;&nbsp;MedscapeMedical Miracle: World First Frozen Testicular Implant Gives ‘Infertile’ UK Man Hope of Fa",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUXVGVWpVa3k0X20wNnhOTTJHNzY4WlJSTWEtSDhmREtMUUxoUWRLTHk4aV9vamYyVVVLbWJkQjMzNDFYYzYzanpKN2c3NzBUellpdk53SmxNR3NjUkFwZkRxYmZvQXVvWnpsSTZFdVJhYm1RRXhuZm42UTJrSFRNTmxxRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "04990230254e",
-      "title": "Skin Cancer Screening Remains Inconsistent After Organ Transplant - EMJ",
-      "published": "2026-05-04T15:50:49+00:00",
-      "summary": "Skin Cancer Screening Remains Inconsistent After Organ Transplant&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYjdCcGNlNFRGdVRhQjBuRVlDM2ZfOXFUSlVWUkh3Z0lLSTNWdzNtTk9VeWpmWGN3WVZZRjR4aFRST3FJN010WUc4RkFDaW1BMDljaHNHYl9FajE3dFFJVWhzR1ZFLS05VFpZcnh1aG9TUVRUVF9lTnZEYkI4VWY4Z1VTV21Sd3hwNzJacFdVRV9UZGp4cWdYcXlVTTVTLXVDeDFhNDJFZU9FUFBXcl9r?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6fef36c35082",
-      "title": "Study reveals biological traces inside a T. rex bone fracture after millions of years - The Times of India",
-      "published": "2026-05-04T15:00:00+00:00",
-      "summary": "Study reveals biological traces inside a T. rex bone fracture after millions of years&nbsp;&nbsp;The Times of IndiaView Full coverage on Google News",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWXRtYXVxLVNoSjFfSnBHMzNCckw2N3pQWHptSWQ0dTNKaHAyR1ktZnkxU202TXF5OEhoLTFLbmpCYzRUWGlPMGxJZjBnZHFuejA2c1ZDcm1JTEN2SmtGWGloVFZwZ09pT2pxNWFvREF5amZpYXQzRG9nMFJmQS1aRzhpQnVwOVJRelFtWHQySzM0YmFNbFNjbnFVUVpTeW9FQVJLMnZRX3VlYTFHYXNsdTc5QWQwVWNZT2RtLTNydlhvd09zcFR1NlIyWUpqcHBnZV9wZDlCcHZoZm1fd2NxelY0YVBfVnI5bk9XZ2U0QlozM2pWamtfOERR0gH_AUFVX3lxTFAzeFJmdjZHT0ducTkwV0FRblM4eDZ4VWNNeUhaY3FRM2k0aWFHYzhoeHRpUk9TaG9wRHBiN1RKRl9jN0l5X1FTNHNiWi1kV01VbHlkd1VfVFBXQkI5a09mbl9XcDQ1T0d5anBGZzRjZmhXYTYyajcxOFo1UXdmXzdXZ0laR2xRU0VzTkEtZFhRQ1ktWGs3NXg5cVYwdDhBODVONExNazNkQ3pZaV9jZWtrajQ4TjQ2Z2FtazRmYWFWOWtYNlltaWNOcV9SNlFPNV9JSUp5RjhuZk9TcXFaMEVPVm5mRlByNm9qSC1vOGwyeWpGRGVqS09YdndfeDE1SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3e6866b060f5",
-      "title": "Mammograms May Reveal Hidden Heart Disease Risks in Women - The Indian Practitioner",
-      "published": "2026-05-04T14:48:55+00:00",
-      "summary": "Mammograms May Reveal Hidden Heart Disease Risks in Women&nbsp;&nbsp;The Indian PractitionerUPSC Prelims Current Affairs for 29 April 2026&nbsp;&nbsp;Vajiram & RaviI Let AI Look at My Breasts—and I’m Glad I Did&nbsp;&nbsp;WSJWhat If “Normal” Isn’t Safe? AI & CRISPR Uncover Hidden Heart Disease&nbsp;&nbsp;BioTecNikaJMIR News: AI Mammograms and Pocket CRISPR Lead Shift to Proactive Care | Newswise&nbsp;&nbsp;Newswise",
-      "sources": [
-        {
-          "name": "The Indian Practitioner",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlFTQ2RVV2tuOFd0Y3d4WmkwYUladXJNTEJYbWg5ZzhvQ0NpZ2RQVGtmMzE2MkVtd1pGdHp2ZDc5eDBOeHA2Z1BPN3VTZ1Z2UXFvMG9QUE1SS3JyckhNZVNyemc5Mk5SY2VUeXpPQnhNYjhOblVDUmVMbHNleGhqZlhpeGd3VzM3RGQ2V3E0ZEdMdUYxQy1F?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "632944b47ed6",
-      "title": "How rock removes carbon dioxide from the atmosphere - Wiley Analytical Science",
-      "published": "2026-05-04T14:26:59+00:00",
-      "summary": "How rock removes carbon dioxide from the atmosphere&nbsp;&nbsp;Wiley Analytical ScienceHow rocks trap CO₂ faster: Water-driven pathway could speed long-term carbon storage&nbsp;&nbsp;Phys.orgUK may be sitting on volcanic rocks that can swallow industrial carbon for decades&nbsp;&nbsp;Earth.com",
-      "sources": [
-        {
-          "name": "Wiley Analytical Science",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFlOc0hqV0pnMk42TWpXako4WWVBNEdha2ZWTXk4ZVNKR2h2SjlXanNlM1FTNDlYTTBtTFVmUlJzMHZLdFRBbWt4YnMyWlhNWnpTUGYtcHFwSjdTVVpqcGhLNE1tajViNnpiLVRVbUFkWHE3Q2dXZEYtaWRtVTd2QmhmckNNb1hwd2tTMHdTZC1neDgz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9d1ec4376b3b",
-      "title": "Low-Cost Blood Test Detects Multiple Cancers and Liver Diseases, Study Finds - Clinical Lab Products",
-      "published": "2026-05-04T11:56:17+00:00",
-      "summary": "Low-Cost Blood Test Detects Multiple Cancers and Liver Diseases, Study Finds&nbsp;&nbsp;Clinical Lab ProductsEarlyDiagnostics’ MethylScan™ Platform Validated in PNAS Study, Demonstrating Multi-Disease Detection from a Single Blood Sample&nbsp;&nbsp;Yahoo FinanceDNA methylation patterns may be less expensive way to identify early or precancer&nbsp;&nbsp;Managed Healthcare ExecutiveNew test promises to detect cancer earlier — from tiny particles in bodily fluids&nbsp;&nbsp;The ConversationRevoluti",
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNHM4UUVCWnM4ZWU3aHVrWVp3c2ZUbW02Y3JrNE9oOVBzeFBGblk4dUFmZmtGaDRQMHA0ekE4S1hVbXZhLTBKeXNDTmRrX29mTnFBMzVNbHdwT3ZNSEtEejFKM2k5NVJ0b00xT3V4T05nZGpyanRYc0JtZEh2VWRyXzhjZWFFRTE1TnU0T0JqbVcxQ19nNjFBcXpjbEtSNC04YW9V?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "add20fb7c9f9",
-      "title": "Zydus receives approval to conduct Phase III trials of Zintrodiazine for malaria in India - expresshealthcare.in",
-      "published": "2026-05-04T11:34:21+00:00",
-      "summary": "Zydus receives approval to conduct Phase III trials of Zintrodiazine for malaria in India&nbsp;&nbsp;expresshealthcare.in",
-      "sources": [
-        {
-          "name": "expresshealthcare.in",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2ZNT0NDM24zNWNlalBMSUo1M19zZjNfcVFuc3g4cExKcFVKMnBzMC1MREFRU0FNZ0daQVBqRDY2Z2VEVkNraDhxaFdNRS1oRkw5OE1leEJ2Z214azZId1JfVkFkZDd2OFo5YlpQSjV5V1J5SU40M1N0U3NSbU5tVEJKdkdab09sTGYxQ1FFQlNBVXVFMzNZaWN5T2ZuZlk0NnVTNEM1QXRDdGlSRmJmUXdkYjVBbEZiSktGREYyS2gtUmRtMGpmZmJDbDRXVmhq0gHWAUFVX3lxTE9IUmpwUmVQTDdWOEhXcXdwSjFmNVhLR1Zwclh6eWJuRTJMUXRYRjNoM1BTbWZnVk9zV3VGdnJxcWNlcVFwWkRIZllkUXEwRzdDdzB2X0h2dkxuNFJNYmZqQURoQ0pSQnI4QV9uSU5lYjlZY2Y0ZnZoUzNnYm9CQ1Qwbk53NllPR0hvT1NkaVpzQjlhTHdKZFFwaS1kYmdZUmU4d3hiQy0zZDB5U2NncW9oR3ZUQmd1bjNnTExmMEZiVXRXR1RTRWtmcFR4cEhNWmJ6Y2pTc2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f35c99074e2",
-      "title": "Study suggests mechanism by which physical movement could be linked with brain's cleansing process - The Hindu",
-      "published": "2026-05-04T09:41:34+00:00",
-      "summary": "Study suggests mechanism by which physical movement could be linked with brain's cleansing process&nbsp;&nbsp;The HinduStudy Shows How Even Small Movements Can Help Clear Brain Waste&nbsp;&nbsp;NDTVBrain motion is driven by mechanical coupling with the abdomen&nbsp;&nbsp;nature.comThe simple link between core strength and brain health&nbsp;&nbsp;News-MedicalScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdjNyeHl6Y19iSXJiSHRmVHlJQzAyd2ViOENXV1FjMTJVR3J4Q3Y4SVRmcUFVZWxnWWJ4VTNvSUZ5cGtmZHdkbTlnb3lfblFOWWtaRXA2N3VlelNER0lYY2FQbmt6U3lyc3Q0ZFQzQ2lKZjVRdFBmZDdEbll3eFBZMkpKdVF0ckIxcUhsaXdoOFZQaWdBMXlDMm5JZmRrbWlFMnVESnNrWHo0WDY2R181NTdxUEtPZE1EanJxU0NXNzFGOGx1LWNoTDhwVl9yelc4ZmlFRVZRT2oweHdfMEdraE5ZbHJfVG85X3VaaVBaa9IB9gFBVV95cUxPTHprYjl1VmtPbDg0Y0xrWE5QU0xrMmRLWVY0TmFkZ1VpSUVxUTIxV3FZZ3FsZnJHQkQwSVJfWmlvZ3VHZlI4TXFGUkR1TjBieUZCTTNpVkZpc2wybUlVRmFBZEhlODJ6eUlGSW1vV2FjTUN2MVVwblBLeEJjUWN5YXF0VVBHWUotc1h1anNINHJJSDVNR1dzUkFpb1FXSjFQY3ZmUGxiVVhNNHFaLUJDbTRTb2FoQnY0NGVBRnNVREs0cFRQZGVDTEtJVFN6ZVpuWUU2TGZaQ0RKcldHMXowRXpoMTdveFZ5ME1IUVJvMmdXOVo1Q0E?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUnJvb2lrZGVJdVVFdkRRcnBvblRTSVJTSDluTWZHbU5WTG54ZXhFNEUteWY3RWV2OTlxbV9EcHhINzJnN2szcjB6SkVUWE9LbDhDRUM3WWRBT0Z3RVRUc2pOVzlUQ2Zib2JSV1V5R2hhMzFhUHBxZzBUN0xMX08tTHRlZ250TWRORUdkX1QxZ1d5X2d6UW55eUYtcDgzbjlsVldwNG42ZWdtUTNrRHlCbG05eTd3dVY5MUtmV3BPWUhMZTVzYV9FUQ?oc=5"
         }
       ]
     }
