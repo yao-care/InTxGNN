@@ -1,31 +1,79 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-07T01:27:41.164950+00:00",
-  "total_fetched": 89,
-  "unique_count": 89,
-  "health_related_count": 36,
+  "fetched_at": "2026-05-07T08:08:16.652824+00:00",
+  "total_fetched": 86,
+  "unique_count": 86,
+  "health_related_count": 32,
   "news": [
     {
-      "id": "dc8bc0411c70",
-      "title": "Supercomputer reconstructs evolution of the universe - China Daily",
-      "published": "2026-05-07T01:05:00+00:00",
-      "summary": "Supercomputer reconstructs evolution of the universe&nbsp;&nbsp;China DailyScientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies&nbsp;&nbsp;Space2.5-Petabyte Universe Simulation Recreates Cosmic Evolution in Unprecedented Detail&nbsp;&nbsp;HotHardwareHow do you study something you can never step outside of?&nbsp;&nbsp;Universe TodayNew Dataset Helps Scientists Map the Life of the Universe&nbsp;&nbsp;AZoQuantum",
+      "id": "7f583c8e760c",
+      "title": "3D-printed bioluminescent algae produce sustained light without electricity - Nanowerk",
+      "published": "2026-05-07T06:48:23+00:00",
+      "summary": "3D-printed bioluminescent algae produce sustained light without electricity&nbsp;&nbsp;NanowerkBioluminescent algae’s blue light harnessed to make 3D-printed shapes&nbsp;&nbsp;The GuardianCU Boulder researchers develop 3D-printed living lights from algae&nbsp;&nbsp;Interesting EngineeringLight without electricity? Glowing algae could make it possible&nbsp;&nbsp;Phys.org",
       "sources": [
         {
-          "name": "China Daily",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbnRuMjZyZW1jV19URmItMmltM2J5MEhILVp2WEhUTVNHR2RuUkNQZWVRN3E4Z28zblVmSkl4WHhYQld4LUY4bUtFS2hESE82YTVLckFNQnVPNFdSSkU1T28zbWVRdXhvTkh5SDFDUjVWNWhmdUpfVXNsSkpqZw?oc=5"
+          "name": "Nanowerk",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xRE1GVjJSNl8wUVdsYmFES0JKTGVaUmVCUjFDdGlVWHFjV1J5SEtDLWV3cTh6MU9ibk4zTEJwWS1ZdVVZUDdRZWRQbTFrZjViblVWbnhVUDgxeG1JdFA1MXctUEc?oc=5"
         }
       ]
     },
     {
-      "id": "43d4168c2dea",
-      "title": "Limit ultra processed foods to lower risk of heart disease, say experts - European Society of Cardiology",
-      "published": "2026-05-07T00:03:58+00:00",
-      "summary": "Limit ultra processed foods to lower risk of heart disease, say experts&nbsp;&nbsp;European Society of CardiologyCook more at home to reduce ultra-processed food intake, say cardiologist groups&nbsp;&nbsp;The GuardianFood Industry Sees a Threat in Kennedy’s Push to Define ‘Ultraprocessed’ Food&nbsp;&nbsp;The New York TimesDoctor issues warning over food ‘worse than smoking’ that makes up over half the average American's diet&nbsp;&nbsp;UNILAD TechLimit ultra-processed foods to lower risk of hear",
+      "id": "a9eadc50eb1b",
+      "title": "Hantavirus outbreak: Centers for Disease Control and Prevention says monitoring U.S. travellers on cruise ship - The Hindu",
+      "published": "2026-05-07T06:41:50+00:00",
+      "summary": "Hantavirus outbreak: Centers for Disease Control and Prevention says monitoring U.S. travellers on cruise ship&nbsp;&nbsp;The HinduArgentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US&nbsp;&nbsp;The GuardianHazmat Suits On, Health Authorities Evacuate Suspected Hantavirus Patients From Cruise Ship&nbsp;&nbsp;NDTVHantavirus-hit cruise ship on way to Canary Islands after three evacuated&nbsp;&nbsp;BBCHantavirus Case in Switzerland Spu",
       "sources": [
         {
-          "name": "European Society of Cardiology",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY01qenI4NzNLNDJrRk9rWnBKZ0s3dWMzR1oybUZRdF9Zd2hzOTdiNUV5R2NmUEE4QXpsN1k3NE1NbC02UDFzd29ScG1QVmNKdDkyREtiUGQ0RG50c21QaGo3c2FlUXltRE5xY3FmdlZmZnZOczBpeE9QTGdzSzZPcmVzM3RzbHAyTzk2b3VqVFpJdXJmUHFuTDlfZXdJdy1FMnJFOGJTTHRGb0hDQWZaMEtTcEJUY05uUUFidEw5UQ?oc=5"
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRWVfN3dad0VWVDdXdUpsT3JRSXpLbWMzcWdmZ0NFUnBhbGZ0MEd0Q2hWMXBJbWFsdU9xTl82MmFMRmdld3lyWjhwOXZCMVczMTRLR3RoWTVZSGZHemFxRTVTMzNLc05DU09nSVVKN3FzaHN6dWZFRjZqVjFQVk00dklQbC1fMXlNX2ItODFsZzlxaWE1eVJzZGJLRDFXNU5hNGZid2oySWk1TmIxMGlINjdINzVoZmg4WTRWWmVwWUI2MDJlS09IcHVXZGR1Rm1YeEQ4S2p2MEtIbGhEdDg0b2NWRUs4TWJmYUZMejdUSi1HN2VyQ3g5aHBnWEtZTzTSAYYCQVVfeXFMTVNMSzFSMUlZTGxPcGdhTUlNMVNQVFlxbzZ1N0ZodW9sdXZra3FXZ21Sa2ZkU0tvMjFfSW1VdkxWOUNldS0wTDlGbUgwNEdVUGNHNTdWZWF0a293T2ZuTzVfWDlJb21vSTRXLW9DRERmbHVPMWd5UlNPSEt6dVRncTg0WU5Jek9iOVZyZTFzdEczeFBYc2dzRGk0SzBLejRzLTRNM2NTZWp4T2VUWEpIZlZfTWJCYkVrbFFjXy1RSzlwTDM5dkE1WmJKajJaZFFObFZtVDQzUGtQS2xseWpDOFlEa1BoTDZtb25qT1VEWlVSbXZ0djdhandCX29qMHB2bHV5OTZlUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2802e28a27c",
+      "title": "Ultra processed foods linked to higher cardiovascular disease and death - News-Medical",
+      "published": "2026-05-07T05:40:00+00:00",
+      "summary": "Ultra processed foods linked to higher cardiovascular disease and death&nbsp;&nbsp;News-MedicalCook more at home to reduce ultra-processed food intake, say cardiologist groups&nbsp;&nbsp;The GuardianFood Industry Sees a Threat in Kennedy’s Push to Define ‘Ultraprocessed’ Food&nbsp;&nbsp;The New York TimesNo One Can Define 'Ultra-Processed Food.' Why Is RFK Jr. Trying To Regulate It?&nbsp;&nbsp;Reason MagazineHow unhealthy ultra‑processed foods are designed and marketed to make us crave them&nbsp",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTS1Zd0xkNGVENXFXVWMzYmQ2ME5vZGJaNWE0OVlnTFB3QktpOV9RTzg3T1hPNEJPSHFhMGc2UmtLZ2RJWGdoWXlERTZKaFBGdkdIMVlHYS1LeXBQU3IwRVdicjZtRW9zblduTmFRRVAxUVFXdV9HUVptLXNFY2Fxa3NhS2h5aDAzWkdkeDdwYlljX1Fxd1lId1ZmWFJVcFhvaDc5OW9RdXJKX0JkdzM4NzdENDVLcExQR0Jz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f6e0f278362",
+      "title": "Bangladesh faces worsening measles outbreak as shortage of diagnostic kits disrupts testing - News On AIR",
+      "published": "2026-05-07T05:11:00+00:00",
+      "summary": "Bangladesh faces worsening measles outbreak as shortage of diagnostic kits disrupts testing&nbsp;&nbsp;News On AIRMeasles toll in Bangladesh climbs to 317 as six more children die&nbsp;&nbsp;The Assam TribuneBangladesh reports 17 measles deaths in single day of outbreak&nbsp;&nbsp;Daily ExcelsiorBiplabi Chhatra Moitree seeks trial of Yunus, Nurjahan Begum over measles deaths&nbsp;&nbsp;The Daily StarBGD: Epidemic - 05-2026 - Measles in Bangladesh #2 (2026-05-05)&nbsp;&nbsp;ReliefWeb",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXQxVW1saXIxNDRrOWtBLVZyaXV4cURGcTY2TV84ek5tazZ2cU1UQ3pGYmcyLXo5Ni11MzJlUU0yUVpmeXZRNHVwa2M4SjlVMlc4clBMOEVmWTUxWmpFazZIYUJGQmliTjAwbGpRZ28zMHcxNmJxdEZKV0ZweHBTVHM0d3J0bzV6ZjFYZXFwRENEam1yaTZMbVQ5aE5CaHZNUEZkd05PMmRKMkRDZ0prN0RWYXU0cVJXLW9jOHNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c9a7d7fa059",
+      "title": "For the first time, researchers are peering inside record-breaking superconductors - chemeurope.com",
+      "published": "2026-05-07T04:30:00+00:00",
+      "summary": "For the first time, researchers are peering inside record-breaking superconductors&nbsp;&nbsp;chemeurope.com",
+      "sources": [
+        {
+          "name": "chemeurope.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZnp1NWp4SlBXR2pBYzJpanZQc2drdW0zLVR2NXhSTnVxRnJKXzQ2TzBqWHQ1ZmJfOVBkSko3am5jaWFpbnZQRTZJYnhpOVFPd3JDanpGR0ZhSkJaOGtqVjlqWEMyU1ZwQU1pcjM1cU5yRVd5ZFVBdjRiR25UbWZ2QmhJMjZKRzcwOVJjYmdGVWVDbDFPNHllV202S1V5a1Blek1JNWNESFh5Z2ZaY19Scm1Qbk9ITGJMc21NdUxyS2NPRnpBYnFtSg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "afd7e2e032d7",
+      "title": "Interviews with Outstanding Authors (2026) - Annals of Translational Medicine",
+      "published": "2026-05-07T02:36:25+00:00",
+      "summary": "Interviews with Outstanding Authors (2026)&nbsp;&nbsp;Annals of Translational Medicine",
+      "sources": [
+        {
+          "name": "Annals of Translational Medicine",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMzlsem5nM1RhYUxxbjZPV3huWjhhMy1KWGJSRi1fRVp4YVlocVh6aEZHeGY1NkozNURnZDNYbWdMcklUZGdWbXhFakFsLWM1MjFDaXV6V0hNU1dmVDBBWmxKcnBXV3hNMW41RWRTeWVKWVVUWThmQWZQU0F6QlBRZlR3?oc=5"
         }
       ]
     },
@@ -42,6 +90,18 @@
       ]
     },
     {
+      "id": "969915ea4817",
+      "title": "Expanding the human proteome with microproteins and peptideins - Nature",
+      "published": "2026-05-06T21:34:51+00:00",
+      "summary": "Expanding the human proteome with microproteins and peptideins&nbsp;&nbsp;NatureThe human genome encodes for a new category of molecule&nbsp;&nbsp;The EconomistHow a global effort to explore the 'dark proteome' is upending our understanding of human disease&nbsp;&nbsp;statnews.comHow many genes are in the human genome? For once, it’s more than we thought&nbsp;&nbsp;C&amp;ENThousands of new proteins revealed in dark proteome&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MWnFtNnpmZ1VGQ1E3dVZxU0d2M0FJVVpSajlzUzFiOHR5ZXFCdjJrWkdOMlQ4cGNjRzZzU09WNW1qU3NHOTc1RWhJRzVXOEVEYk55MklhNzVtdTBYYmtv?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b2713c4fd10f",
       "title": "Researchers developed quantum nanosensors that can measure the temperature of a single cell - R&D World",
       "published": "2026-05-06T20:00:02+00:00",
@@ -54,34 +114,10 @@
       ]
     },
     {
-      "id": "64776829a613",
-      "title": "First hantavirus infection could not have been during cruise: WHO expert - OC Today-Dispatch",
-      "published": "2026-05-06T19:32:40+00:00",
-      "summary": "First hantavirus infection could not have been during cruise: WHO expert&nbsp;&nbsp;OC Today-DispatchHantavirus latest: British doctor evacuated from virus-hit cruise ship in stable condition&nbsp;&nbsp;BBCArgentina investigates link to deadly hantavirus outbreak on cruise ship&nbsp;&nbsp;Al JazeeraHantavirus Case in Switzerland Spurs Race to Trace Contacts&nbsp;&nbsp;WSJFrom Hantavirus To COVID-19, Why Cruise Ships Are Hotbeds For Disease Outbreaks&nbsp;&nbsp;NDTV",
-      "sources": [
-        {
-          "name": "OC Today-Dispatch",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbFl4dlp1WTNtQzdlM2pCOUZCZUV1RHBGMmx6VXFqRWdUcXk0NzNZWTN0Y1pnQ200X0RPazFqXy01aTFkZXU0OHA1aTQyX2gzVFFXcF9vRFpXTWhCRkhPcE5PSTlQNE5QSnVZTGZjVmh4Ym9xVWlXTjl2bENReWU1bkRCRlI2bTFsNjd0SFZfWjdLTkdSSkRxNk1TMWQ3dGFJa0FnU2owejBTdGdCUkJ1SGxFdTVROElvTGt3Rk8tM1MwWlZPV1dta2xpZUd5R0dIMDRiVktxb1prRHZReHN1SExqTXIxaGtPSzJ0bW5CUXh5ekRhZF9CVVQ0dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0603f9c1c10f",
-      "title": "Revealed: the mysterious ‘dark’ proteins that might play a big role in biology - Nature",
-      "published": "2026-05-06T19:12:24+00:00",
-      "summary": "Revealed: the mysterious ‘dark’ proteins that might play a big role in biology&nbsp;&nbsp;NatureExpanding the human proteome with microproteins and peptideins&nbsp;&nbsp;NatureHow a global effort to explore the 'dark proteome' is upending our understanding of human disease&nbsp;&nbsp;statnews.comHow many genes are in the human genome? For once, it’s more than we thought&nbsp;&nbsp;C&amp;ENMicroproteins and Peptideins Expand Boundaries of the Human Proteome&nbsp;&nbsp;Genetic Engineering and Biot",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15OFR1NnhqTEh5S2lWWWF5REpGTzhVTTdOcmMxbi1YV1BkZE4wb3d1NlVxZm5KVGltM2E2ckpIQ0FUSVJZQXNZOU9hd2JfS051UllrT0YyNy1URFRnTnJz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "688ef4a9cbcd",
       "title": "Room-temperature nanoscale measurements could accelerate molecular electronics research - Phys.org",
       "published": "2026-05-06T18:40:05+00:00",
-      "summary": "Room-temperature nanoscale measurements could accelerate molecular electronics research&nbsp;&nbsp;Phys.org",
+      "summary": "Room-temperature nanoscale measurements could accelerate molecular electronics research&nbsp;&nbsp;Phys.orgExperts in quantum transport have published a new method in the journal Physical Review Materials for measuring distances at the nanometre scale at room temperature&nbsp;&nbsp;EurekAlert!Quantum Transport Experts Develop New Method for Nanometre-Scale Distance Measurement at Room Temperature&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Phys.org",
@@ -102,14 +138,26 @@
       ]
     },
     {
-      "id": "bc092da7049b",
-      "title": "Epigenetic Markers Link Early-Onset Colon and Rectal Cancer to Specific Pesticide - Inside Precision Medicine",
-      "published": "2026-05-06T17:58:01+00:00",
-      "summary": "Epigenetic Markers Link Early-Onset Colon and Rectal Cancer to Specific Pesticide&nbsp;&nbsp;Inside Precision MedicinePesticide exposure linked to 150% higher cancer risk in major study&nbsp;&nbsp;ScienceDailySylvan Baca: Using DNA Methylation to Uncover Drivers of Early-Onset CRC&nbsp;&nbsp;OncodailyIndigenous and rural communities are more exposed to harmful pesticides, study finds&nbsp;&nbsp;Nutrition InsightExperts offer perspective on link between pesticide exposure and early-onset colorect",
+      "id": "d3a501480f86",
+      "title": "Scientists finally reveal where the world’s most valuable diamonds are born - The Times of India",
+      "published": "2026-05-06T18:00:00+00:00",
+      "summary": "Scientists finally reveal where the world’s most valuable diamonds are born&nbsp;&nbsp;The Times of IndiaStudy uncovers deep-Earth origins of world's largest diamonds&nbsp;&nbsp;news.cgtn.comTracing the origins of rare Cullinan-like diamonds through groundbreaking research&nbsp;&nbsp;themercury.co.zaUCT-led study reveals clues to the origin of the world’s largest diamonds&nbsp;&nbsp;Mining Weekly",
       "sources": [
         {
-          "name": "Inside Precision Medicine",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaWppYzZtQmU0ODVwUWF0c0FTMXdEanZFN1RSSHhpQlhBVGcxRm8yNHYzNExtd2NjNGhQQUUtdmtCekx4S01vLXhMTzRzNFJZb2l4UmxoYVY5ZzFpdV9RRnNlS1FLamI4T3V3Ri0yc0xXd2tNc044c29GdGxUN0tTSzhDSGNJQVBPSnNEMmFfeFB6UmlGSXdGVnluX21aVzMxNjRiRkczallVOHZCOWgzNVowV0w3em52QzllQXB2NjNIbW8teXpkLVdWQXRkcjR1R1VIQw?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZmxtaGt4eWVOYzBrOWdiMFRvbXV0WU9nTjdQeUdPTE9qcXJaSmF1SE5fR1k5MmFDTTJyazFtbVZOSWxZbGVTWXFFX1lsaHl3UjExak9VcG56MkpwODJUNE13YzJGTzdYVHV4R0dSRnNodUQ1M2p4OUdOWlJSOGdGYnRieUt0X05PZGgzMG45SEFiTkVwYzZCSF9TMkJWOE52OVBPekRhMEZ4cVY5WnhqdVllajRIdUNnSUJXNGI1M3VjSHdJUkFpTHhmV28tQ1lxLTVocnVVaDVMZ0o00gHiAUFVX3lxTFBYcVpON1cwbWVZVnNPazBaeUhaaVFBaUthVUJObEs1NzNZMkJCNlRQelVORzBmaUltT1VoTWRxTWtKVThWTW11VlBhVnlRTmdYeGMwTHhsd24xUTdYd3JIalRrRm8zT0UxYmY4VTF1ZkJLR0FzUnp1S1lIRnRVMkdNNGZ5bTEyTTRxcGNHenNTMVFJNGRvRU8yNm1HdG1Qd1k2SHJvUFpBdnhOa2F5TXQ3QTRUTjcwcHNOOTNEZTd4OExwR0JJei1acm8tdk5RY3N2NF9rYjJHNDJNN1o0TGNZN0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "089b2011d35a",
+      "title": "How insect brains could spark next AI revolution - Yahoo News Singapore",
+      "published": "2026-05-06T13:14:48+00:00",
+      "summary": "How insect brains could spark next AI revolution&nbsp;&nbsp;Yahoo News SingaporeSheffield researchers say insect brains could transform AI technology&nbsp;&nbsp;BBCSynaptic high-frequency jumping synchronises vision to high-speed behaviour&nbsp;&nbsp;NatureResearchers Simulate Fruit Fly Brain Controlling Virtual Body&nbsp;&nbsp;Let's Data ScienceTiny insect brain discovery offers blueprint for faster, efficient AI and robots&nbsp;&nbsp;Deccan Herald",
+      "sources": [
+        {
+          "name": "Yahoo News Singapore",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GMkpNSkZxYzNob05XVjdfVzRRQzRWdWFmanZkaS02SG5jOHljTk5COEtuQXk1clBzMXByeXRQaWFzSU9KZm95LVFsQVNXYXlmcU5EOF91WFBCTUR2SVU4cDRIRDl6WXNOQ2tjLU1HbTJEaXlzUW55VXR0NA?oc=5"
         }
       ]
     },
@@ -122,18 +170,6 @@
         {
           "name": "Health Policy Watch",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWRVdFNKSDM0dVpZZXJ3MXhTWlRUVGx3SmVqSTFnUmpEUVpUMDRHSkpQbjBHZ05wUzJZd3ZtZjVZUEpmVzFTSzhyZXp2YzUyeXJXdDdEcDVXWVplWkhrOWxpblZLOUxCODE4TWRWWkpJclk3bHFsX3ZQNmdrMEJneTVBbndMbnIzaTA4dGZWUHAtd2hLTnFhTWVPb29vOENiV3VxS2k3aUhDQUg1T1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "64d6fdb74893",
-      "title": "Macrocycles: big is the new beautiful - European Biotechnology Magazine",
-      "published": "2026-05-06T12:25:56+00:00",
-      "summary": "Macrocycles: big is the new beautiful&nbsp;&nbsp;European Biotechnology Magazine",
-      "sources": [
-        {
-          "name": "European Biotechnology Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXlfX3JXcE0ycG01cnROTmVRb1BvOEtJVklIa29nS0ViejBnTk1vOGsxTzlsNFRfZS1uamw4OVBVdTNieE92SEdMNEltN09aOXVZZDhNaGliUEJYbTdSQXBsOG1hQ2w1TklNTVpHeXh5RTR3OHVYMjFqMjgxMXVBSklUYjZkWjNwaFU0?oc=5"
         }
       ]
     },
@@ -153,23 +189,11 @@
       "id": "02bf85e3cf08",
       "title": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows - ScienceAlert",
       "published": "2026-05-06T11:01:49+00:00",
-      "summary": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertStudy Shows How Even Small Movements Can Help Clear Brain Waste&nbsp;&nbsp;NDTVScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyBrain motion is driven by mechanical coupling with the abdomen&nbsp;&nbsp;NatureThe simple link between core strength and brain health&nbsp;&nbsp;News-Medical",
+      "summary": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertStudy Shows How Even Small Movements Can Help Clear Brain Waste&nbsp;&nbsp;NDTVScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyMove to Clean: Exercise as Brain Detox&nbsp;&nbsp;DevdiscourseNew Study Reveals Link Between Abdominal Muscle Movement and Brain Health&nbsp;&nbsp;SSBCrack",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHh5a3ZHTDQ0T2IxOHV3Z2RVR05Na2xXaVJES0VrZlJVb0VYS25DQWlGNUFRM3BYV0Y4SUZNbGNCazVQM0Vvc3hiSkdUR0ZDN05YUktiZjh1N0tZbTNySUJVTk5xSWpkRlZWOWFaX0VtREJNSnc0ZWZiTzNKS3czZWs2Rm1WWFFUeEx0RnR4NFh4eV8wQko4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56cd3fba4aaa",
-      "title": "Why Thousands Of Urban Indians Are Living With Undiagnosed Asthma - BW Healthcare",
-      "published": "2026-05-06T10:39:19+00:00",
-      "summary": "Why Thousands Of Urban Indians Are Living With Undiagnosed Asthma&nbsp;&nbsp;BW HealthcareNot Just Breathlessness, Recognising Early And Atypical Asthma Symptoms&nbsp;&nbsp;NDTVSmoking, C-section births causing surge in child asthma cases: Experts&nbsp;&nbsp;The Times of IndiaBreathing Between Attacks&nbsp;&nbsp;Deccan ChronicleCan regular use of inhalers lead to addiction? Lucknow doctor busts most common asthma myths on World Asthma Day&nbsp;&nbsp;Hindustan Times",
-      "sources": [
-        {
-          "name": "BW Healthcare",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUV0UlNuWXhGRFA3REtpR0JfQVdvQXJaMGpXeHdTaEdTY3JzNlZISThPSU0wbVZUcUh5VjhrdjM3X1YzUndDZExmZmdsQkN1U0hRWFFwZE1CUzlfbkRHU3FILXpqSTBwT0xUY25RWXlaM1dGSW1hUVVSczc0UWxvZ0JWOHZUY25WT2wyRHdUeURySW5YX2puZnhvdUl6N0FrYVBEOHlVU0Q0blpBRGp4SF9OdlE?oc=5"
         }
       ]
     },
@@ -210,6 +234,18 @@
       ]
     },
     {
+      "id": "4eb753602744",
+      "title": "Cervical cancer gap will widen without urgent global action - News-Medical",
+      "published": "2026-05-06T08:41:00+00:00",
+      "summary": "Cervical cancer gap will widen without urgent global action&nbsp;&nbsp;News-MedicalCervical cancer claims over 3.5 lakh lives every year: Doctor shares common healthy habits that can reduce the risk&nbsp;&nbsp;The Times of IndiaIndia may avert 10 million cervical cancer but vaccine cover remains low&nbsp;&nbsp;The Indian ExpressA nation comes together: Business, compassion and public service unite to protect Sri Lankan women from cervical cancer&nbsp;&nbsp;Island.lkHPV vaccines: Why the reluctan",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1owTlpNbFhaeUFSckRnQ3VmckxveG5La1d4N3lDS1hYTHlRc0ZZRFl3c3RaaGYzVGRhOWFSX0hpZHlqNllPY3B2MU5sWU1idmJvVE50bEFmVE1ZTWVtNHhMTlRUWHNzd1dxQnRFLVZGenJfTUI5WW1JbFVfd0Q3bmtWd3lBcFhXem94RHNwdVlXOTlKR0pfVEVxSzd5Tjhwc0dMcnNuc0owTGc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3d8bd2a12014",
       "title": "App launched to track heart health after high-risk pregnancies - News-Medical",
       "published": "2026-05-06T08:09:00+00:00",
@@ -234,13 +270,13 @@
       ]
     },
     {
-      "id": "598934f99270",
-      "title": "Nasa team discovers secret ingredient that powered ancient life on Earth - indiatoday.in",
+      "id": "fbc7a2dba452",
+      "title": "Nasa team discovers secret ingredient that powered ancient life on Earth - India Today",
       "published": "2026-05-06T06:05:36+00:00",
-      "summary": "Nasa team discovers secret ingredient that powered ancient life on Earth&nbsp;&nbsp;indiatoday.inBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureNASA-backed study links molybdenum to early life chemistry on Earth&nbsp;&nbsp;NewsBytesEarliest Organisms on Earth Built Their Biochemistry around Molybdenum, Study Suggests&nbsp;&nbsp;Sci.NewsLife Built Its Biochemistry on a Metal That Was Almost Nowhere to Be Found&nbsp;&nbsp;ScienceBlog.com",
+      "summary": "Nasa team discovers secret ingredient that powered ancient life on Earth&nbsp;&nbsp;India TodayBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureNASA-backed study links molybdenum to early life chemistry on Earth&nbsp;&nbsp;NewsBytesEarliest Organisms on Earth Built Their Biochemistry around Molybdenum, Study Suggests&nbsp;&nbsp;Sci.NewsLife Built Its Biochemistry on a Metal That Was Almost Nowhere to Be Found&nbsp;&nbsp;ScienceBlog.com",
       "sources": [
         {
-          "name": "indiatoday.in",
+          "name": "India Today",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbm1Db01Rd2xFaDVBRVdFNnNWQWZSTVAtTmxOc0ZidXdFUnZzZDByN2pDMVNXMGhnTDZLMWF5bzFMcWEwdm1Mb1NRN0I4ZXBkdmoxZ1N2N0Q3d2lDVEpnUVdBR19WNzRkaDRCOEFnaVl2VFdwSkphU3J0dWlfYU5XakFwbEJCZ0xCUmdmeDVNTWhwZm1PeFBSRnFRSkRPNU1ZbF9sNmVGU0lQUlRZLWlHSzRoNEh6dkhIQ2Zlb1QwdWpXWTREN0Ita3F4RlNvd0VKS2dzN2RMNTh3d9IB3wFBVV95cUxNNXNSNU9yeXRDNVBKT0VKQ3IyeUI1WEE3VWtHR0g5MFV6eDU3T2pZdmlLVkloQmRtcUV1V3ZkX2ItUUxRNWRkM3JMQ0FySUpHQlVNT21Fa1NqTS1aMDRyLTl0WUtjVkthUWRGcTFHVFBxZmo3Y3ZBRVdDU3JSY3plZnZmLWNEU2lUMVRFRUZKWVUwOC1YX2wzNnk2cjRaWjJVbWwzZ0U3U1hTUGw0bjQ0TEYtWEYyaVB2Z0ZaRWJRaU00VmZES3l1OEh4T3kydGRZdE5PM25id3lKUTVQQTlB?oc=5"
         }
       ]
@@ -258,10 +294,22 @@
       ]
     },
     {
+      "id": "12d0b996b0e5",
+      "title": "This common sleep habit could double your risk of heart attack - ScienceDaily",
+      "published": "2026-05-06T03:33:33+00:00",
+      "summary": "This common sleep habit could double your risk of heart attack&nbsp;&nbsp;ScienceDailyIs Your Bedtime All Over the Place? New Study Links Habit To An Increase In Heart Attacks&nbsp;&nbsp;NDTVNew Study Finds 1 Sleep Habit May Play an Outsized Role in Your Heart Health&nbsp;&nbsp;inc.comIrregular Sleep Routine in Midlife Linked to Higher Heart Disease Risk, Study Finds&nbsp;&nbsp;Asianet NewsableThis common sleep habit could double your risk of heart attack and stroke&nbsp;&nbsp;Moneycontrol.com",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IbFpaeHNNZlhlQ19TLVBPMVNlUkF6MEdHRGhqWVE4d3hiNlNuUGdCVjJDRWZfZ2ktWmVPeTRac1E3alBXQ1lkSk5FSmp3TG4wRm1QaFhNQ1hYNC1CVlREc3V2ZGVWQl9kbk1RVmJXWQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1ada0e00f44c",
       "title": "HT Health Talk: Is there minimum and maximum age for Ozempic? Bengaluru doctor answers 10 FAQs about weight loss drugs | Health - Hindustan Times",
       "published": "2026-05-06T02:49:32+00:00",
-      "summary": "HT Health Talk: Is there minimum and maximum age for Ozempic? Bengaluru doctor answers 10 FAQs about weight loss drugs | Health&nbsp;&nbsp;Hindustan TimesWeight loss rebound risk: 18-month warning for Ozempic and Wegovy users&nbsp;&nbsp;Pharmacy BusinessNew Research Shows What Happens When People Stop Taking Ozempic&nbsp;&nbsp;Škoda We Love CyclingDoctors issue '18-month' warning to all Ozempic and Wegovy users over side-effect they should 'be aware' of&nbsp;&nbsp;UNILAD Tech",
+      "summary": "HT Health Talk: Is there minimum and maximum age for Ozempic? Bengaluru doctor answers 10 FAQs about weight loss drugs | Health&nbsp;&nbsp;Hindustan TimesWeight loss rebound risk: 18-month warning for Ozempic and Wegovy users&nbsp;&nbsp;Pharmacy BusinessWant to use semaglutide to lose weight? Listen to what doctors have to say first&nbsp;&nbsp;Business TodayNew Research Shows What Happens When People Stop Taking Ozempic&nbsp;&nbsp;Škoda We Love CyclingDoctors issue '18-month' warning to all Ozem",
       "sources": [
         {
           "name": "Hindustan Times",
@@ -270,22 +318,10 @@
       ]
     },
     {
-      "id": "1bbf0cdfd24e",
-      "title": "New high-fidelity simulator models blood flow and CPR in space - News-Medical",
-      "published": "2026-05-06T00:31:00+00:00",
-      "summary": "New high-fidelity simulator models blood flow and CPR in space&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODFyMWY1T042a2RWU2VsMEp4dnc2ZzJvb0M4WlRFdUctdkNXdlp1Rko4bDBGMjVfeTUyLVNlTjNKWHloZFIzc1VqcTRHQkpJSjRfbU5qUjU2cDVFUW5uVlVvaE92VVAxRWtSQXpva3lIcU1xbjg5eVp1SDByNWJGeHFGbnUyVHktblNaZ1VlNFdNUTdsanZhLV83UktuSzlpVk5USk95UE4tdDhidnFr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "76ce868ce345",
       "title": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women - ScienceAlert",
       "published": "2026-05-05T23:10:16+00:00",
-      "summary": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women&nbsp;&nbsp;ScienceAlertTea vs coffee: Which one is actually better for your health?&nbsp;&nbsp;saga.co.ukWomen's Choice Of Coffee Or Tea Might Affect Their Bone Health&nbsp;&nbsp;Yahoo News UKIs Tea Better Than Coffee? Science-Backed Comparison Explained&nbsp;&nbsp;Business Connect IndiaTea vs coffee: Which is better for your bone health?&nbsp;&nbsp;Indulgexpress",
+      "summary": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women&nbsp;&nbsp;ScienceAlertIs Tea Better Than Coffee? Science-Backed Comparison Explained&nbsp;&nbsp;Business Connect IndiaWomen's Choice Of Coffee Or Tea Might Affect Their Bone Health&nbsp;&nbsp;HuffPost UKTea vs coffee: Which is better for your bone health?&nbsp;&nbsp;IndulgexpressTea Or Coffee? Ladies, Your Choice Could Influence Osteoporosis Risk Later&nbsp;&nbsp;Health and Me",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -294,26 +330,26 @@
       ]
     },
     {
-      "id": "af184664821b",
-      "title": "Frailty, Not Age, Drives Risk With SGLT2, GLP-1 Meds - Medscape",
-      "published": "2026-05-05T20:26:46+00:00",
-      "summary": "Frailty, Not Age, Drives Risk With SGLT2, GLP-1 Meds&nbsp;&nbsp;MedscapeDealing with diabetes in your older age&nbsp;&nbsp;AOL.comChoosing Safer Diabetes Medications for Older Adults | Newswise&nbsp;&nbsp;NewswiseEncouraging Short-Term Goals for Older Adults With Diabetes&nbsp;&nbsp;MedscapeDiabetes Treatment After 65: Study Finds Newer Meds May Be Safer For The Elderly&nbsp;&nbsp;ETV Bharat",
+      "id": "6e16d5adfdd5",
+      "title": "New Study Proposes Round Trip to Mars in Less Than a Year Using Asteroid Trajectories - SSBCrack",
+      "published": "2026-05-05T21:29:37+00:00",
+      "summary": "New Study Proposes Round Trip to Mars in Less Than a Year Using Asteroid Trajectories&nbsp;&nbsp;SSBCrack'I was not looking for this': Scientist accidentally finds shortcut to Mars that could slash travel time in half&nbsp;&nbsp;Live ScienceAstronomer Tracking Near-Earth Asteroid 2001 CA21 Finds Potential Shortcut To Mars&nbsp;&nbsp;IFLScienceMars Missions Could Now Be Faster As Astronomers Suggest New Shortcut To Make Travel Time 153 Days&nbsp;&nbsp;International Business TimesTo Mars in just 3",
       "sources": [
         {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZVVPSXhrMVZCaFJBRUpHUzlnZHVRMTRzWUlYS2RPZ2hGREdqUnNUT2ZHMS1xX192eVc2QkJwT1FoVDM0UUhmcUFyWVFKa00tc3U0emNlSk5keWRmb1h4MzlsSkd2bnVMbUJSVE11MGlSMUgxMEY3dUZ1aFpaRHlPclZMTjFLV3RRdWxLYklDLVh3eS1LZXlMYllrZmdVUVZ3ZHNFaThDYXpGYTRpVGc?oc=5"
+          "name": "SSBCrack",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFFjNWZOVDNRUDBBbTAxV3R3aTVfUk5aX08zSDhNRlU2TDhjWllhRTZ5bWludmJRS2pBVDFkbHlleUdFcXpJWHBZYWhaVnRHMWtDWVphSWl4YWEtajBwT2NGbHJGbklTM0ptWXBvbXFEMWFvbWlMOFlSa0NWdGthampqR0MtUlBDVmJ0WU9jSE9ZSE9fRkRzb0l6T1YyX3NqN2JRVVI1amdrTVE4VXBWNVlR?oc=5"
         }
       ]
     },
     {
-      "id": "ceb249b6e55c",
-      "title": "Transformer based breast cancer classification from histopathological images using sequential residual recurrent multiscale attention network - Nature",
-      "published": "2026-05-05T19:07:12+00:00",
-      "summary": "Transformer based breast cancer classification from histopathological images using sequential residual recurrent multiscale attention network&nbsp;&nbsp;NatureDL model outperforms breast density in measuring women's cancer risk&nbsp;&nbsp;AuntMinnieAI model helps discern patients' need for supplemental breast imaging&nbsp;&nbsp;Radiology BusinessMammography Study Suggests Deep Learning Model Offers More Accurate Risk Stratification than Breast Density&nbsp;&nbsp;Diagnostic Imaging News",
+      "id": "af184664821b",
+      "title": "Frailty, Not Age, Drives Risk With SGLT2, GLP-1 Meds - Medscape",
+      "published": "2026-05-05T20:26:46+00:00",
+      "summary": "Frailty, Not Age, Drives Risk With SGLT2, GLP-1 Meds&nbsp;&nbsp;MedscapeChoosing Safer Diabetes Medications for Older Adults | Newswise&nbsp;&nbsp;NewswiseEncouraging Short-Term Goals for Older Adults With Diabetes&nbsp;&nbsp;MedscapeDiabetes Treatment After 65: Study Finds Newer Meds May Be Safer For The Elderly&nbsp;&nbsp;ETV Bharat",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yQnlHbjg0NHBReXBOQVZjY0hCclJPZ2tNYUdpNmpaQjJ6Z3prSjNFaktpMEF0Z2ZuUVZGTzdLYzRyS1JpSmpDRmtRQzdrM3VBYUduSV96aW9qaXZQS2Jz?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZVVPSXhrMVZCaFJBRUpHUzlnZHVRMTRzWUlYS2RPZ2hGREdqUnNUT2ZHMS1xX192eVc2QkJwT1FoVDM0UUhmcUFyWVFKa00tc3U0emNlSk5keWRmb1h4MzlsSkd2bnVMbUJSVE11MGlSMUgxMEY3dUZ1aFpaRHlPclZMTjFLV3RRdWxLYklDLVh3eS1LZXlMYllrZmdVUVZ3ZHNFaThDYXpGYTRpVGc?oc=5"
         }
       ]
     },
@@ -342,98 +378,14 @@
       ]
     },
     {
-      "id": "567231fea9dd",
-      "title": "Tiny insect brain discovery offers blueprint for faster efficient AI and robots - theweek.in",
-      "published": "2026-05-05T15:09:23+00:00",
-      "summary": "Tiny insect brain discovery offers blueprint for faster efficient AI and robots&nbsp;&nbsp;theweek.inSheffield researchers say insect brains could transform AI technology&nbsp;&nbsp;BBCSynaptic high-frequency jumping synchronises vision to high-speed behaviour&nbsp;&nbsp;NatureTiny insect brain discovery offers blueprint for faster, efficient AI and robots&nbsp;&nbsp;Deccan HeraldResearchers Simulate Fruit Fly Brain Controlling Virtual Body&nbsp;&nbsp;Let's Data Science",
+      "id": "893b59ec6a9c",
+      "title": "World Asthma Day – May 5, 2026 - Global Initiative for Asthma",
+      "published": "2026-05-05T14:09:55+00:00",
+      "summary": "World Asthma Day – May 5, 2026&nbsp;&nbsp;Global Initiative for AsthmaNot Just Breathlessness, Recognising Early And Atypical Asthma Symptoms&nbsp;&nbsp;NDTVBreathing Between Attacks&nbsp;&nbsp;Deccan ChronicleSmoking, C-section births causing surge in child asthma cases: Experts&nbsp;&nbsp;The Times of IndiaCan regular use of inhalers lead to addiction? Lucknow doctor busts most common asthma myths on World Asthma Day&nbsp;&nbsp;Hindustan Times",
       "sources": [
         {
-          "name": "theweek.in",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS1llcmV2eXlGT0ZQOWJTV0xpeDVjUmlXY29fYXVtdzR4TEJqaWN2WXhBa0tCSGI5X2Y5bEpjdnBOWldHNTdFVDFBRGx6d0JpRWhQLWJoN0pORV82X1cybEVpdEJucUFyYUcxdzFmUWxnSHVESlhRR3NHUWZvM1MybHNnUEp5YXFXUzdJM1ZoWEh2cWt4Si1CbEVOUjJCekhSWks1cXllOV9jeVRaeHlkWFlmVmNsMGVwX25mT0VtYTgzMkNCVUprZm83ZXpyVDlGTjBnd0JSRW9tZThod0HSAeMBQVVfeXFMUFNSbHdCSEpKd2NZWEhTS3pUWnNMRTlRLXQ5bEJuYVlTeG9QMzg3Q3RZc3hWOXMxcU56NnFSX0NQcDNZNk5zQW52ZFF2eFBpcDRiS1g2T1cxS3pCYWFKak5kRWhkVXFyenVWUHpFRTljd0xqeEdQZjhLSnk4UkUyX1dfLUptTFNBVS05Y0JjVE95dFVLUTktdW5kRHFHMzdSMXNQMEVZTG54bzUtZEU3cVFpYkRkMk5JMzVnWjUteEhCdDViT0JjRzA1dmlja0s2dEpsQ2JWYTJQeFVrZ3FZbldlT0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46103b479eda",
-      "title": "Bangladesh: Children at Risk over Measles Outbreak and the Failure of Public Health Accountability - International Society for Human Rights (ISHR)",
-      "published": "2026-05-05T14:51:24+00:00",
-      "summary": "Bangladesh: Children at Risk over Measles Outbreak and the Failure of Public Health Accountability&nbsp;&nbsp;International Society for Human Rights (ISHR)Measles toll in Bangladesh climbs to 317 as six more children die&nbsp;&nbsp;The Assam TribuneBiplabi Chhatra Moitree seeks trial of Yunus, Nurjahan Begum over measles deaths&nbsp;&nbsp;The Daily StarBangladesh reports 17 measles deaths in single day of outbreak&nbsp;&nbsp;Daily ExcelsiorMeasles outbreak in Bangladesh worsens, death toll rises",
-      "sources": [
-        {
-          "name": "International Society for Human Rights (ISHR)",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWRjR2FnbEhLV1FuRERXZWxtQ2NKUmthN3YxYUF1bmtsaTZ2RUZyNEYzN0Q5QnhrS2RYQkdLOTFFUVdUMndfbEZXZGlKbHJ3d3lPTlp0YU15QVo0QmFBelBnMEJ3MkNSOVVWZFpIcHYzQnM5ekhjanZQZF9PaDlZNjZzdXFFV3IybVoxQk5ldUZmejNQX2p4eHVaTlMwSmJLc2dlVDlnbTRydXJDLUdGaWlXNHdyQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d75d548ee7a7",
-      "title": "Semaglutide Improved Motivation in Patients with Depression - EMJ",
-      "published": "2026-05-05T13:22:39+00:00",
-      "summary": "Semaglutide Improved Motivation in Patients with Depression&nbsp;&nbsp;EMJDiabetes and weight loss drug Ozempic could also reduce symptoms of anxiety and depression, finds study&nbsp;&nbsp;Moneycontrol.comCould GLP-1s Mean Fewer Employee Sick Days? New Research Says Yes&nbsp;&nbsp;inc.comStudy reveals Ozempic cuts depression risk by 44%&nbsp;&nbsp;The News InternationalStudy Links Diabetes Medications to Improved Mental Health Outcomes&nbsp;&nbsp;SSBCrack",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMzJNdjVvZ281ZW1rcUtDUnpCa1FoTEFlM002T0RpVUFNeWRrT2ZtNFZjNTF5bmoxU2pZLUtJYlo2XzJ1RTdwNWhGa1dCVTR5LWRJc0tROWhxRlpUbjM1RzZLWGpSdS1ab19sTVBIampFazZrLVI2a3QzQW81ZHduSXVwQnoxYjFzME5XSUVXYUdvRTRzZW5ESVUzNEhSTDdpNGNJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d08f1a6019a0",
-      "title": "Could nasal vaccines replace syringes? - Gavi, the Vaccine Alliance",
-      "published": "2026-05-05T13:13:34+00:00",
-      "summary": "Could nasal vaccines replace syringes?&nbsp;&nbsp;Gavi, the Vaccine Alliance",
-      "sources": [
-        {
-          "name": "Gavi, the Vaccine Alliance",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TTzJ2dEJVbjgxMDY4aElDSkxIREM1b0h4T1hpMXh6QTQ4ZXozMmtwekdjM3JqLUtxb0U3Uy1DVmJEcWt2LW0wZWZ0emlfcDdoa2pWS0k4a2lLZzBjZ1ZWT0hqdWlSWUh3Ulk1MDRJalR2elJNSDVvZmVobw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6c0933529a54",
-      "title": "Cranberry Juice Shows Promise in Supporting Antibiotics Against UTIs - The Indian Practitioner",
-      "published": "2026-05-05T12:18:25+00:00",
-      "summary": "Cranberry Juice Shows Promise in Supporting Antibiotics Against UTIs&nbsp;&nbsp;The Indian PractitionerStudy Says Cranberry Juice Can Help Antibiotics Fight Urinary Infections&nbsp;&nbsp;NDTVCranberry Juice: Cranberry juice enhances antibiotic efficacy against UTIs&nbsp;&nbsp;The Times of IndiaNew Study Shows Cranberry Juice May Boost UTI Antibiotics&nbsp;&nbsp;American Society for MicrobiologyCranberry juice could slow the emergence of drug-resistant bacteria&nbsp;&nbsp;The Times",
-      "sources": [
-        {
-          "name": "The Indian Practitioner",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXg1TXFZOE9rYWc2dm1ET0lWQ1hPNlI4SFItckltV0w1WXMtdTFiY3VLZjcwbHRtR2xhYTRab0gwRlRZc1hNWHpvYy1LNmlOSzgtYkFBbVEzMVdiTVVMSjg3Q0w5Z3pYNmR2RGp5YWVTOWZMRHh4dEh0R01qRlllVE12dnAyTGtRYk1pUGc5X2lVaTRRZkNVTDJDSkttSzh4T3dyZkpn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7ac3136b75b4",
-      "title": "When dancers move together, their brains do too - Tech Explorist",
-      "published": "2026-05-05T11:55:14+00:00",
-      "summary": "When dancers move together, their brains do too&nbsp;&nbsp;Tech ExploristSomething amazing happens when two people dance. Their brains sync&nbsp;&nbsp;indiatoday.inTango partners’ brains sync up, new study finds. What it could mean for human communication&nbsp;&nbsp;ThePrintNew Research Reveals How Dancers’ Brains Align in Real Time During Movement&nbsp;&nbsp;The DebriefTango dancers may communicate through synchronized brain waves&nbsp;&nbsp;Earth.com",
-      "sources": [
-        {
-          "name": "Tech Explorist",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13cFRSMlVna3BmRzdUdXZNQUJ3WElCQmpVNHhGWE1pYVdteGZmNUs1SVJXV2ZjSjFYOFVRNGZjWGJrQkFCMHBjVnlUSEV3QlFtTTZkSkNyWlF2bi1sV2lnVFNtTGRKd081VDdmY1JB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b40d99c1ba7d",
-      "title": "Killer cells caught in the act: a 3D view of T lymphocytes - healthcare-in-europe.com",
-      "published": "2026-05-05T09:38:14+00:00",
-      "summary": "Killer cells caught in the act: a 3D view of T lymphocytes&nbsp;&nbsp;healthcare-in-europe.comScientists Are Starting to Unlock the Nanoscale Secrets of the Immune System&nbsp;&nbsp;WIREDNew imaging reveals how immune cells destroy cancer&nbsp;&nbsp;Drug Target ReviewResearchers Visualize Immune Synapse of Cytotoxic T Cells in Three Dimensions, Advancing Immuno-Oncology Insights&nbsp;&nbsp;SSBCrackFirst-ever 3D view shows how killer T cells destroy cancer&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "healthcare-in-europe.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX19WY0Z4clRvSzNCRWJWRmltbE0tLXplLWZJUkdIbVBTMjdPdFVfbXl0dUpETTBGOXQ2MjIwZ3JwaVd2MlpzN2NQcTdnVUwwbm9uamtVLXZ1SHhNMXRxanJReUtkb3l6aWF0QVk1bm1nV0REbkxLclUzbkQwTUpSTHlvdUNid0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "513178791e15",
-      "title": "People share incomplete details with AI in symptom reports - News-Medical",
-      "published": "2026-05-05T02:50:00+00:00",
-      "summary": "People share incomplete details with AI in symptom reports&nbsp;&nbsp;News-Medical5 Tips to Get Useful Health Answers from AI Chatbots&nbsp;&nbsp;Time MagazineShould you trust AI chatbots for medical advice? Expert weighs in&nbsp;&nbsp;India TV NewsShould you trust AI for medical advice? The hidden risks in health care&nbsp;&nbsp;theweek.inReduced symptom reporting quality during human–chatbot versus human–physician interactions&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc3NJaTFSeW01OFo2NUhoLUp6MklfRGpHYkZITXNod1FsV0c0bE1raDQzaW9uU04xR3FvdFUwb0tFN3JzS0RGMlBJN3BiZFNBRFc0N0o1eDdSRUtCRjBIcWZWZDFmVjdnYkRRTTN0dU15Tjl2Sl9TZEZfaUI4angzYXBaUXdQckZkNXpxVlZfQ1FxeVdJNlFNSWtFQTZkenlhSE9WLVNuN0hMZw?oc=5"
+          "name": "Global Initiative for Asthma",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pa2dfa2l1V2szLXRTX0F6R2lhTzZxYnl5aDA2QmhORFZJcTFxaXljWmw1QTBSbFF5WTlvZXZTVmFvdWRoN05hMExYbURZaENldHlUd2ZNLXBTRFdWd2tZ?oc=5"
         }
       ]
     }
