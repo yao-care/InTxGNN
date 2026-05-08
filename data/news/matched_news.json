@@ -1,17 +1,37 @@
 {
-  "last_updated": "2026-05-08T07:11:32.011092+00:00",
-  "total_count": 36,
-  "matched_count": 21,
+  "last_updated": "2026-05-08T13:02:22.326616+00:00",
+  "total_count": 34,
+  "matched_count": 22,
   "news": [
     {
-      "id": "dc3a57d2c1cd",
-      "title": "Measles crisis deepens in Bangladesh; 12 child deaths reported in day - News On AIR",
-      "published": "2026-05-08T04:55:00+00:00",
-      "summary": "Measles crisis deepens in Bangladesh; 12 child deaths reported in day&nbsp;&nbsp;News On AIRChild deaths mount from Bangladesh measles outbreak&nbsp;&nbsp;DawnBangladesh measles outbreak worsens as 12 children die of measles and related symptoms&nbsp;&nbsp;Daily Excelsior7 More Deaths from Measles and Symptoms Nationwide&nbsp;&nbsp;Bd24liveBangladesh faces measles testing crisis amid kit shortage&nbsp;&nbsp;THIP Media",
+      "id": "6df5990de555",
+      "title": "Combining Genetic Scores May Improve Heart Risk Prediction",
+      "published": "2026-05-08T12:40:05+00:00",
+      "summary": "Combining Genetic Scores May Improve Heart Risk Prediction&nbsp;&nbsp;MedscapeIntegrated Polygenic Risk Scores Offer Implementable Framework For Predicting CV Traits&nbsp;&nbsp;American College of CardiologyPolygenic Risk Score Predicts Eight Cardiovascular Conditions&nbsp;&nbsp;TCTMD.comThis Single Test Might Reveal Your Heart Risk Decades Before Symptoms Appear&nbsp;&nbsp;YahooMulti-Trait Scores Boost Atrial Fibrillation Prediction&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
-          "name": "News On AIR",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmY2VzY1ejlOSFNNUjJ4VUI4dDRTdEVnemxlenZpZVdxUV80MVJMV2VBQV9BaHQtUWFmZWE5V1NnM093ZEljdGFiWjgtY210M3FjSVFDSDJyWnBtblE1X3RMLUhOX3Z5WG0tWFVIWk90dlpXcWxjS3otOHR3dmJyaUxDMXZpMy1yS3NNcWhzZGphbHpCYnY0d1p6Y3dvTDQ?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVDZFdVo5d3lVNktZVEJBZWFucVJON2QtVWRyamlHVWxUQTU4WG03UjhOQkY2WHBGMUZGa09fRnd0VGo3dzZVUV84ZkZRX0FkTVBMcEt3WUxyZWp4QlZ4S0Z4LXY0elpnSHJJVHZiNFpsZ0tCb19qekV4a282YlZwaWktUVFlcXdOa09CajVFdmNrM3pKR1NDa0NHcGgxdVF0ZXJ2bHZGZzFjckdQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "generic__cardiovascular",
+          "name": "cardiovascular",
+          "keyword": "cardiovascular"
+        }
+      ]
+    },
+    {
+      "id": "f2740b9cdc00",
+      "title": "Eating eggs regularly reduces Alzheimer’s disease risk",
+      "published": "2026-05-08T11:07:00+00:00",
+      "summary": "Eating eggs regularly reduces Alzheimer’s disease risk&nbsp;&nbsp;News-MedicalNew study finds regular egg consumption lowers Alzheimer’s risk; but neurologist says ‘not possible to rely on…’&nbsp;&nbsp;The Indian ExpressStudy Suggests Egg Consumption May Be Linked to Lower Alzheimer’s Disease Risk&nbsp;&nbsp;Medical DialoguesEggs against Alzheimer’s: Study reveals how many eggs a week can boost your memory&nbsp;&nbsp;The Times of IndiaFormer ‘bad for you’ food can actually lower your Alzheimer’s",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkNmYjAzQWJqWUhHWXlHRUswa2k0N0czRWVGWDNRQTB1N1JHbTh3c2Y2aEx4TEZKNjlUUk1HelhhY0tZVzFwM2NBemg3Y2FWWjBXZTBCeUlLU05SM2NzWEEwYWNGRXQwMjd2bnFzdk90T3AxMmk5RzdXRGtPZjhnTzNVVnVCRmQ5djlWbkgyNTl1Nm5DbHlCSFBWZkk5aDR2NC1PWC1vUG9xbWc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -21,6 +41,137 @@
           "name": "mo",
           "keyword": "mo"
         },
+        {
+          "type": "indication",
+          "disease_id": "generic_dementia",
+          "name": "dementia",
+          "keyword": "alzheimer"
+        }
+      ]
+    },
+    {
+      "id": "850aaec6bb49",
+      "title": "The latest AI breakthroughs in structural biology: protein binder design and conformational state prediction",
+      "published": "2026-05-08T09:50:00+00:00",
+      "summary": "The latest AI breakthroughs in structural biology: protein binder design and conformational state prediction&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyS2pwbGhrcjZjNC02aHZmc1J6NTk4eUNIb0hERU9JY2o3MWt0NmpDTExxd1hPNU9JcUkzV0lwWjdVd200bzliNEMzUENMdWtUZGdmaW5LdGdmb0JPQUJB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8c6a2eea7a76",
+      "title": "Violent Tonga volcano eruption polluted the sky, then cleaned it too, study finds - India Today",
+      "published": "2026-05-08T09:13:12+00:00",
+      "summary": "Violent Tonga volcano eruption polluted the sky, then cleaned it too, study finds&nbsp;&nbsp;India TodaySatellite quantification of enhanced methane oxidation applied to the stratospheric plume following Hunga Tonga-Hunga Ha’apai eruption&nbsp;&nbsp;NatureScientists stunned: Volcano cleans up after itself by removing methane from the air&nbsp;&nbsp;EurekAlert!This Violent Volcanic Eruption May Have Revealed a Hidden “Emergency Brake” for Climate Change&nbsp;&nbsp;The DebriefThe volcano that clea",
+      "sources": [
+        {
+          "name": "India Today",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQVo4YUFTTzltQTFiRkd0QjVzZlJ2NHRZdVBiaHZfc29sTEZQRDVwZmMzRmJYUVhmYkJDUXBCb000bDVwemxxR29LVUp5OXFKWGlWbFo3RURxQWQ2cW9tdmFDYXAzZWxqbHFIek1vQ2w0WEtfcm04NGUwTzU1TzlPMHJ0bVVUQzdOQkZnNDd0cVAyZ2JWaTFSZkVKVnY5bkpLWFVSMWNYUlJuUGJUY1JGWFI0QkpvSzBMMHhOWjZIbTlVX0NKZlZ4bTZ3OWdIQmcycFBVb3F3NXZQUUpwVXMwajVScGxleE1aWHfSAe8BQVVfeXFMUDJTcXpGbXNUQ3otbU9jdHBoLUNYSTFaQTM0Y2VUTExxUWcxR2pjMjVWa1lQZFlrUWI2aGg2MDJvdWhwaVVoTnVtMHBFM0FXV3diWUFKbktWWlFqZV96eGR5cWx2T0ZfRngzbWFOdzBLSzdrNW1UbUlGWFMxNlZiYjNidlhTVjFVcUpNN29ENXF1Y05nb19yRnRRZkVkVzNOMnZZUTcyUWk2VHROY2QwS2ZTbHdhVHplaU9hY0daN0liUzI5WlZyb2FCOGRoS2dpcTJrQlQ5aXFYRlN4R0hMODh5VDZyajAwZ2dfbXhUTW8?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03384",
+          "keyword": "fica",
+          "name": "Fica"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "b64587c5df25",
+      "title": "Protein modifications found to control drug binding and efficacy - Drug Target Review",
+      "published": "2026-05-08T09:03:07+00:00",
+      "summary": "Protein modifications found to control drug binding and efficacy&nbsp;&nbsp;Drug Target ReviewPosttranslational modifications remodel proteome-wide ligandability&nbsp;&nbsp;NatureScripps Research Study Reveals Post-Translational Modifications Impact on Protein-Drug Interactions&nbsp;&nbsp;geneonline.comHow changes to proteins can alter drug interactions for new precision therapies&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Drug Target Review",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYnhvOFgzeWw0SDEtN0FNbjJFRUp1NE53eFlETkxoMm1KXzZIelNiV2NzUGlfU19pWjNOYmp6VjYwRWxxOVNudDdoRHp6b3plUUxKNHJKSEMwbmEzNHRjQXg4ZGdESFhYdzRsREFyWlZ2NF8xZ19hZlNxV2FLRnJwcThOTG1ocDllSmo3UDdyMzdNalZMN1QzcVBUT2FoRzFBY3V3a2kyeVRjQXlmUW90WkdLbw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03384",
+          "keyword": "fica",
+          "name": "Fica"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "0b21554d7ad5",
+      "title": "The Global Burden of Mental Health Disorders: Interview with Vikram Patel",
+      "published": "2026-05-08T08:48:03+00:00",
+      "summary": "The Global Burden of Mental Health Disorders: Interview with Vikram Patel&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHlYNkdpc1pkTTNUS0ZJQ2I4aTZVengwZXI2QUwzUVpCeGdsV29fazlOS1h3ZTdBM0R0UTVOLXNtRDUxaWFOMUppY1kxTjRNajRiTkc0akNSeWFLRVJXSGlZaXlnOE1WZnd1N3V1UmtoQ0NJdkZLaldtY2hfRDBzRQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "eff60650f883",
+      "title": "Muon G-2 Collaboration with Strong Contribution from Mainz Wins Breakthrough Prize in Fundamental Physics",
+      "published": "2026-05-08T08:20:00+00:00",
+      "summary": "Muon G-2 Collaboration with Strong Contribution from Mainz Wins Breakthrough Prize in Fundamental Physics&nbsp;&nbsp;AZoQuantumSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "AZoQuantum",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80Q280VDFLbDZQT1Z2WG1NMVR2OEFvVDN0T3REMGVSODU2bmJVXzVsRERWRFAzd1ZZZkRBWlpNaXpaZ2huSHhEYTRBZmIwSWRGOUxJc2lTNzJ5aWFqZEE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "fa8ede5b505f",
+      "title": "2 Indian nationals part of crew of luxury cruise ship that reported hantavirus outbreak - The Hindu",
+      "published": "2026-05-08T05:32:17+00:00",
+      "summary": "2 Indian nationals part of crew of luxury cruise ship that reported hantavirus outbreak&nbsp;&nbsp;The HinduWHO’s response to hantavirus cases linked to a cruise ship&nbsp;&nbsp;World Health Organization (WHO)Hantavirus outbreak: WHO warns 12 countries after South Atlantic cruise ship confirmed cases; raising global travel health concerns&nbsp;&nbsp;The Times of IndiaIndia faces no immediate public health threat from hantavirus: NIV chief&nbsp;&nbsp;The HinduPassenger with hantavirus was briefly",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMGdjLXl5N0twYl9pZDBqY1VNdVFDbk5RaW9Lc0s5ZmFWX3Rpc1JMRWd5c09rclVya1NjSFhyaFBRVXlMWlMxMjVqalNVS1FUOHVnN2lqNTRQNEQ1dWwxdlhtYUpjbHEwNjVnUmhKaVdnNjQ5LVM2R2Y3T29DNzR2MmhnWFVTQnJoU1pqRXRJS2V5SERUZjFEd1pqdTNQLWRwRXdoUXhzVlNvXzNIVGxsbnVJN21xNWFFbFRmc29wSDVXSEY0cjhsaGhvb2Y2UmpzM05wQ1ZrcDNZZUU0cTBz0gHmAUFVX3lxTFB2Q29nNktMTk4yUktOUnRMbHBiWlVuVmFJYk9DRktmNmh0N2RXaU5fa2pLcmp1Q1FzbTZ3RHp2S2RLZ2FkQ25UUFd2NHFMZDh6cm9udXVHT18tOUlOVm5rT1FYdm9BNVlqTDU2cXBvSlNUQThxQjRxWVdOOGxURzZRYXhqOVJETmRVNkVGTHlaVkp2SE0xOGF2cTU4WG1MQXdGRjNkZ3NkdXFxU3B3WnltbF9pZ1I0RXp1N29vX21jSnhxdVRkb2pHeWNkVXJfdzZfNnpqSFZFUDRBZ2VBNXBHb0pNcEVB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dc3a57d2c1cd",
+      "title": "Measles crisis deepens in Bangladesh; 12 child deaths reported in day - News On AIR",
+      "published": "2026-05-08T04:55:33+00:00",
+      "summary": "Measles crisis deepens in Bangladesh; 12 child deaths reported in day&nbsp;&nbsp;News On AIRVaccination gaps fuel worst measles surge in decades in Bangladesh | Daily Sabah&nbsp;&nbsp;Daily SabahBangladesh measles outbreak worsens as 12 children die of measles and related symptoms&nbsp;&nbsp;Daily ExcelsiorMeasles outbreak in Bangladesh: Death toll exceeds 300&nbsp;&nbsp;NewsBytesBangladesh faces measles testing crisis amid kit shortage&nbsp;&nbsp;THIP Media",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmY2VzY1ejlOSFNNUjJ4VUI4dDRTdEVnemxlenZpZVdxUV80MVJMV2VBQV9BaHQtUWFmZWE5V1NnM093ZEljdGFiWjgtY210M3FjSVFDSDJyWnBtblE1X3RMLUhOX3Z5WG0tWFVIWk90dlpXcWxjS3otOHR3dmJyaUxDMXZpMy1yS3NNcWhzZGphbHpCYnY0d1p6Y3dvTDQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
         {
           "type": "indication",
           "disease_id": "4619",
@@ -46,7 +197,7 @@
       "id": "d08d490d03a7",
       "title": "NASA, SpaceX to launch new resupply mission to space station",
       "published": "2026-05-08T03:48:15+00:00",
-      "summary": "NASA, SpaceX to launch new resupply mission to space station&nbsp;&nbsp;news.cgtn.comNASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival&nbsp;&nbsp;NASA (.gov)SpaceX Dragon To Deliver 6,500 Pounds Of Cargo To Station&nbsp;&nbsp;Quantum ZeitgeistNo Florida rocket launches for week of May the 4th. When the next one will be&nbsp;&nbsp;Florida TodayNext SpaceX launch is not for a week: Why Florida rocket launches are quiet&nbsp;&nbsp;AOL.com",
+      "summary": "NASA, SpaceX to launch new resupply mission to space station&nbsp;&nbsp;news.cgtn.comNASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival&nbsp;&nbsp;NASA (.gov)No Florida rocket launches for week of May the 4th. When the next one will be&nbsp;&nbsp;Florida TodaySpaceX Dragon To Deliver 6,500 Pounds Of Cargo To Station&nbsp;&nbsp;Quantum ZeitgeistSpaceX rocket launch from Florida set for Tuesday on NASA resupply mission&nbsp;&nbsp;Florida Today",
       "sources": [
         {
           "name": "news.cgtn.com",
@@ -94,19 +245,6 @@
       ]
     },
     {
-      "id": "ffef99fe2bd0",
-      "title": "Two Indians aboard cruise ship hit by deadly Hantavirus outbreak - The Times of India",
-      "published": "2026-05-08T03:29:00+00:00",
-      "summary": "Two Indians aboard cruise ship hit by deadly Hantavirus outbreak&nbsp;&nbsp;The Times of India2 Indian nationals part of crew of luxury cruise ship that reported hantavirus outbreak&nbsp;&nbsp;The HinduThird British national has suspected hantavirus infection, government says&nbsp;&nbsp;BBC2 Indian crew aboard ship with deadly hantavirus outbreak, their status unknown&nbsp;&nbsp;India TodayWHO Director-General's opening remarks at the media briefing – 7 May 2026&nbsp;&nbsp;World Health Organizat",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeDVsdVEtclMybFJCaG5SRzh0MFJOMmtDV1FmMFF2SmhRcnloZlduY25BcXBqT0U1N1pHbEFXVm53UFFuRUowalI1N0dUVGlzODhsWkZPTXhjUy0taktoaWd5LVJhQklwdkhkSy05UGxoREhxVTktSUNQNTJ4NC1STnBhR1J2Y053YkZZZjc4SkRpdDVqalc5ZHgzbGdjdXBMQ2hLUVpYWHY3WmJtNWJ6c09hRmF5d1lfNElnSS1VOWItUHhIWW1CNEpBc1AzNFVVSjc2VTNNRTd3aGFXS2x3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "818dfe3d1d11",
       "title": "Chromosome abnormalities may help cancer cells resist treatment and spread",
       "published": "2026-05-08T02:59:00+00:00",
@@ -142,7 +280,7 @@
       "id": "7be3aade1056",
       "title": "Study reveals how magnetic stimulation repairs depression-related brain circuits",
       "published": "2026-05-08T02:53:00+00:00",
-      "summary": "Study reveals how magnetic stimulation repairs depression-related brain circuits&nbsp;&nbsp;News-MedicalRepetitive Transcranial Magnetic Stimulation for Major Depressive Disorder: Clinical Evidence, Neurobiological Mechanisms, and Treatment Perspectives&nbsp;&nbsp;CureusMagnetic Pulses Restore Brain Circuits to Treat Depression&nbsp;&nbsp;Neuroscience NewsScientists finally see inside the 'black box' of depression treatment&nbsp;&nbsp;Medical Xpress",
+      "summary": "Study reveals how magnetic stimulation repairs depression-related brain circuits&nbsp;&nbsp;News-MedicalRepetitive Transcranial Magnetic Stimulation for Major Depressive Disorder: Clinical Evidence, Neurobiological Mechanisms, and Treatment Perspectives&nbsp;&nbsp;CureusIn Clinical Test, TMS Targeted Comorbid Depression and Anxiety Symptoms Separately, With Precision-Psychiatry Implications&nbsp;&nbsp;Brain and Behavior ResearchTMS Therapy’s Impact on Brain Cells and Circuits in Depression Treat",
       "sources": [
         {
           "name": "News-Medical",
@@ -152,29 +290,21 @@
       "matched_keywords": [
         {
           "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
           "disease_id": "2009_12050_12100",
           "name": "major depressive disorder",
           "keyword": "major depressive disorder"
-        }
-      ]
-    },
-    {
-      "id": "d962c91c3964",
-      "title": "Health experts urge caution around rodent droppings - CTV News",
-      "published": "2026-05-07T23:40:27+00:00",
-      "summary": "Health experts urge caution around rodent droppings&nbsp;&nbsp;CTV NewsDogs and cats can be infected by hantavirus, but can they spread it to humans? What every pet owner should&nbsp;&nbsp;The Economic TimesHantavirus symptoms and World Health Organisation's take on the respiratory illness&nbsp;&nbsp;The TribuneArmando D. Meza, M.D Chief of Infectious Diseases, Texas Tech Physicians of El Paso Can Speak on Hantavirus | Newswise&nbsp;&nbsp;NewswiseHantavirus Symptoms, Prevention and Treatment&nbs",
-      "sources": [
-        {
-          "name": "CTV News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHd4Z0NzMjQ3NjBKb0VUM1ZVYkg3akN3OHJFV3BPSlFpNmR0S3VuUFVETFVZQlJrQTZwNUl6dVpNY2U1bVdJcXZmaWNIWEdiSXlLNFVxREFQWWhXcDJDU1ZEM19HZXU0YlBMbm40eUUzU2sxNDI2VXQ2X2xHNFQ1cnJhWmRKSjVyWmg3VlNqQ2w4bVUzNlBz?oc=5"
-        }
-      ],
-      "matched_keywords": [
+        },
         {
           "type": "indication",
-          "disease_id": "5113_5550_5108",
-          "name": "infectious disease",
-          "keyword": "infectious disease"
+          "disease_id": "11918",
+          "name": "anxiety",
+          "keyword": "anxiety"
         }
       ]
     },
@@ -205,24 +335,17 @@
       "matched_keywords": []
     },
     {
-      "id": "65e04dd1c38b",
-      "title": "Biggest black holes built up in busy star clusters after series of violent merging events, research finds",
-      "published": "2026-05-07T17:38:00+00:00",
-      "summary": "Biggest black holes built up in busy star clusters after series of violent merging events, research finds&nbsp;&nbsp;EurekAlert!These monster black holes did not form the usual way—their history of violence is written into spacetime ripples&nbsp;&nbsp;Phys.orgHow do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceStudy links biggest black holes to repeated cosmic collisions&nbsp;&nbsp;Courthouse NewsThe Universe’s biggest black holes may be forge",
+      "id": "13f679ad2a74",
+      "title": "Researchers synthesize uniform nanocrystals from five distinct metals - Interesting Engineering",
+      "published": "2026-05-07T18:07:00+00:00",
+      "summary": "Researchers synthesize uniform nanocrystals from five distinct metals&nbsp;&nbsp;Interesting EngineeringResearchers combine five metals to build a better nanocrystal&nbsp;&nbsp;Phys.orgFigure 3. Schematic illustration of multicomponent nanoparticle formation via competitive reactivity and its application in hydrogen catalysis&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
-          "name": "EurekAlert!",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10dzI3eHpmVGVMS3JTMFBhNlBSeDFVQlFRaUl1VWZSLWZXUE1Zekd0NkNMeC1UN2lPUlo5aThsYThGNXE0Nm1mQy1vcUpxLW9VTWd6aW01TC1pa3ZZ?oc=5"
+          "name": "Interesting Engineering",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ09Zb0ZoTl9jZ3JDYmRkbnJ6bjlGaEU1TXViNTRzUVpEOHVPbXdZaGdLMllEd0ZKUEoyamk5SnhVNHBwZjVFQW85ZWtYUVdZUFdnS0dSdHVNU1NIZ1E5WkpubUtpdzJiaWRsb2xEYWNxdDk1MEFHNFctem05LVFnZXhrdUgzOHpuQUZIeG5oeHJnbHM?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "014608d74735",
@@ -265,39 +388,6 @@
       ]
     },
     {
-      "id": "9870fa3ee763",
-      "title": "Chinese-led supercomputer simulation recreates 13.8 billion years of cosmic evolution - TV BRICS",
-      "published": "2026-05-07T13:04:07+00:00",
-      "summary": "Chinese-led supercomputer simulation recreates 13.8 billion years of cosmic evolution&nbsp;&nbsp;TV BRICSScientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies&nbsp;&nbsp;SpaceSupercomputer reconstructs evolution of the universe&nbsp;&nbsp;China Daily - Global EditionChinese-Led Researchers Release Largest-Ever Cosmological Simulation&nbsp;&nbsp;HPCwire2.5-Petabyte Universe Simulation Recreates Cosmic Evolution in Unprecedented Detail&nbsp;&n",
-      "sources": [
-        {
-          "name": "TV BRICS",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVdkYjZqZG5mNksyNE9feDMyVl80M2R4UmVqd0l1VW0zRzZTWWl4TU03NTgyTnd3OVJLVHMzd0VUUnBOc3BnYWRkMFBqSW91d0duMHhSSGRGLUd0Y3VDS3ZCVkFFSF9Vd0tJdHBGY2dtYzdvNnQzM3FjVVg5bmp0Njl6RlRYRHNCVzNhMDdoTmJwY1h3OXMydzhOQTV4dDI0eWI0eHNNdHp2WjlJdmVBUld6Tk4?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "07fcd891680f",
-      "title": "Occlusal force analysis with T-Scan and Innobyte in adult patients: a prospective study",
-      "published": "2026-05-07T13:02:39+00:00",
-      "summary": "Occlusal force analysis with T-Scan and Innobyte in adult patients: a prospective study&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rU2pXb2E2Um5zWFZlcmVUd1REWGpBU3ZoZVV2RVVVZUtmN2ttbjNBaDlmWjRQNVJiUFkwTVdUaWxSN3d4RDhHZEhrS1RhX25paS1kUVlXUUVVa2VCdHRB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "bd8df9fe4b13",
       "title": "Cranberry juice may help stop antibiotic resistance in UTIs",
       "published": "2026-05-07T12:42:00+00:00",
@@ -318,56 +408,10 @@
       ]
     },
     {
-      "id": "2dda9f518e04",
-      "title": "Laser-Printed \"Papertronic\" Circuits Deliver Environmentally-Friendly, Biodegradable Electronics",
-      "published": "2026-05-07T12:08:17+00:00",
-      "summary": "Laser-Printed \"Papertronic\" Circuits Deliver Environmentally-Friendly, Biodegradable Electronics&nbsp;&nbsp;Hackster.io",
-      "sources": [
-        {
-          "name": "Hackster.io",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObjJTY2VMSnllamRxQVZNdm5uV3AwcmZPYVhvQ0JIN1ZybUpRVXoxWWxLVFNsb3d3UElJX1RBSWJvTW1vQWZuWU9vQ3ZXbFJHa2tjQ0xQb3pXTTRUaHV3amUyeWh1OUFWUWZPNER4RTFpZDdybGt1QU5FZzNHY3NkQWNEYmdDTU51b2tNMmxxd19vWHFidmhubjBtSDhYX1FNdl9SZ2k4Vm9LTGV4RHpVTEhmMS1OVTBMR2xScU00ME5BbGZ4QUFNQVByU2ROWVA20gHWAUFVX3lxTE1jUlNPWkZoMTRrcFphOUVJR1pQLTkyX0NhRFhkSzVKU2xxTUhkNWxzeWxRM2VSODdpRFkwUTBsMnA4OG02cXpvMTkzeDI4bXFKQk9FdEVlUHJaMXE4TWRqaWZvMXdTeENReW1iZWpsZHg4SmZsUHhvRmtPb2NjVHJHSUJBMUJ2dmhsNFU2enVlSmQyTlJPRGJCRDM4UmFIQjluRV96NVZvd0dOR29KSUE2cWh1d2M3dXV0UkExcjNRZVE1dmYxX1NnbFZjVkwzanN6XzA0eHc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB01592",
-          "keyword": "iron",
-          "name": "Iron"
-        }
-      ]
-    },
-    {
-      "id": "12151f020ba3",
-      "title": "Oak trees delay leafing to outmanoeuvre caterpillars - Down To Earth",
-      "published": "2026-05-07T11:50:14+00:00",
-      "summary": "Oak trees delay leafing to outmanoeuvre caterpillars&nbsp;&nbsp;Down To EarthSatellite data show trees delay budburst across landscapes to escape herbivores&nbsp;&nbsp;NatureOak trees are delaying spring to starve caterpillars&nbsp;&nbsp;ScienceDailyTrees Adjust Leaf Timing to Combat Caterpillar Infestations&nbsp;&nbsp;SSBCrackOak Trees Will Delay Sprouting Leaves to Avoid Hungry Caterpillars That Devoured the Trees in Previous Year: Study&nbsp;&nbsp;Good News Network",
-      "sources": [
-        {
-          "name": "Down To Earth",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcjZIODVGLUZSRlh1SGJfbkxIVWRFZEVZRGtHWG8taGlqVTh6LUpFMmhpSmVEQzExWWVXWXRIbFo5ZDFzZHRqM08wem1vYWJ1Q0lYQzVlNmtRNFlVLXBfRzd6WGJ5VXhITEZlUGJLWE9kLU53R1pJaU5TSl9VakJzR1RySkV3R0JTLXEyX0V2RmFmZE4tYWFZM1RNT0VTTnNHTlg5NnBDdjnSAbYBQVVfeXFMT08wQzRtVmpsYVR3Zm5KN3dNRHBZSXNZRmZ0d0IwLTh3TEo5Y1pqek5PV3JiaGFlLTRJdVFvREZyYXRpcHU5aXM0RFQtZXVXa0RORlhHclR5N1JIczlCdkRMUzZpUlFjRnVCSGY4NUkySHMtUERoQ2dPejlHcVJvOFI5VUZKRERaeVVjMERRNFlEc080T1NSU3hBMW5Lb1Y2UzQzd3hmdEZSQmpNbndlZVRWZWRHVUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "bef6bbffb4b6",
-      "title": "Host oxidative stress primes mycobacteria for rapid antibiotic resistance evolution",
-      "published": "2026-05-07T11:41:30+00:00",
-      "summary": "Host oxidative stress primes mycobacteria for rapid antibiotic resistance evolution&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCUVZnY3Nsa2pHdk5QN0pTVlE0VHNsZEd3cjZsQklZRkQzZUVtN2VnRGZXYkZMOGxHSjRkQXlpR1VyZXB2Z0hzVDJucE1KQXVrWnc3MmFlYk1palB6Z1Z3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "6c6a77f94fa0",
       "title": "How AI Could Help Cure Pancreatic Cancer - Derek Thompson | Substack",
       "published": "2026-05-07T10:07:48+00:00",
-      "summary": "How AI Could Help Cure Pancreatic Cancer&nbsp;&nbsp;Derek Thompson | SubstackMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkPredictive Cancer AI&nbsp;&nbsp;Trend HunterAdvanced AI holds promise for high-stakes healthcare, studies show&nbsp;&nbsp;Healthcare IT NewsNew AI model spots pancreatic cancer up to 3 years earlier than human doctors in test&nbsp;&nbsp;Live Science",
+      "summary": "How AI Could Help Cure Pancreatic Cancer&nbsp;&nbsp;Derek Thompson | SubstackMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkHow advanced AI holds promise for high-stakes healthcare&nbsp;&nbsp;Medical BuyerAI finds signs of pancreatic cancer before tumors develop&nbsp;&nbsp;NBC NewsMayo Clinic’s REDMOD AI Doubles Early Detection Sensitivity in Pancreatic Cancer&nbsp;&nbsp;Inside Precision Med",
       "sources": [
         {
           "name": "Derek Thompson | Substack",
@@ -396,6 +440,26 @@
       ]
     },
     {
+      "id": "0ddaefa8f08d",
+      "title": "Scientists discover how body movement helps “clean” the brain - The Indian Express",
+      "published": "2026-05-07T08:55:47+00:00",
+      "summary": "Scientists discover how body movement helps “clean” the brain&nbsp;&nbsp;The Indian ExpressThis Simple Movement Could Be Secretly Cleaning Your Brain&nbsp;&nbsp;SciTechDailyEveryday small movements help clear brain waste, Nature study finds&nbsp;&nbsp;NewsBytesBrain Health Study: Simple Movement Helps Clean the Brain&nbsp;&nbsp;Pune MirrorPenn State Brain Cleaning Study: What Scientists Discovered About the Brain’s Natural Detox System&nbsp;&nbsp;sebd.in",
+      "sources": [
+        {
+          "name": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT3FhTjlNUkYtSHVlaTdhLUpGNjktZm5qeVR1ZDZlSnJOcE1mX0hLU2tINzc0alR3aGVKZWQzQmZjX0NIanIwc203M1BrLXlkdzJNekFpcFA1aGt1d3lYR2dlN0dJbE5vVHpBNjFpbGlhV0tldHZ6bnRndHA3Rm5XQVVpV0RZSW5nZE5GN0VqanhJZGdqbElxYkJNdmRmdkh4dU1DSm9ZQXIwbktHRzBkRGY2ck1NNnNWa1dPVEk4UdIBxgFBVV95cUxPakNjUGF0R2FKMVhSc1YyajZDb3F1NHExMXFaSkg4OEstZ2VpQjJlYXYwdk9lbW00dXgzMDhIcWN2d2ZvRXQtdS1wN25XaFQ1RDVjRVUzSldxV2lud0JnU3MybC1GWm93NFJINEFfUnZiZlpOYnozcWxjR1M1cE9qOXBCbExoRzlRN3NIVWVKUjJPY2ItellBMUtCaU1vWFNIelF3S1JxTXVyYU9qSmNPeTU3SmRIYmdXa3dHbFQ2ZjNqcFIySXc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
       "id": "4862a6b7abfe",
       "title": "Researchers’ novel device could boost the development of sound-based lasers - Technology Org",
       "published": "2026-05-07T07:00:00+00:00",
@@ -409,14 +473,47 @@
       "matched_keywords": []
     },
     {
-      "id": "d2802e28a27c",
-      "title": "Ultra processed foods linked to higher cardiovascular disease and death",
-      "published": "2026-05-07T05:40:00+00:00",
-      "summary": "Ultra processed foods linked to higher cardiovascular disease and death&nbsp;&nbsp;News-MedicalHeart Health: Eating more ultra-processed foods may raise heart disease risk by up to 19%, says major European report&nbsp;&nbsp;The Times of IndiaCook more at home to reduce ultra-processed food intake, say cardiologist groups&nbsp;&nbsp;The GuardianUltra-processed food: why the debate needs less fear and more clarity&nbsp;&nbsp;The ConversationFood Industry Sees a Threat in Kennedy’s Push to Define ‘",
+      "id": "1ac4579a9d71",
+      "title": "One in Four Use AI for Health Information - Hematology Advisor",
+      "published": "2026-05-07T04:00:00+00:00",
+      "summary": "One in Four Use AI for Health Information&nbsp;&nbsp;Hematology Advisor5 Tips to Get Useful Health Answers from AI Chatbots&nbsp;&nbsp;Time MagazineReduced symptom reporting quality during human–chatbot versus human–physician interactions&nbsp;&nbsp;NatureClinical Reliability of Generative AI is Under Scrutiny in Healthcare&nbsp;&nbsp;EPAMKidney stones and AI&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTS1Zd0xkNGVENXFXVWMzYmQ2ME5vZGJaNWE0OVlnTFB3QktpOV9RTzg3T1hPNEJPSHFhMGc2UmtLZ2RJWGdoWXlERTZKaFBGdkdIMVlHYS1LeXBQU3IwRVdicjZtRW9zblduTmFRRVAxUVFXdV9HUVptLXNFY2Fxa3NhS2h5aDAzWkdkeDdwYlljX1Fxd1lId1ZmWFJVcFhvaDc5OW9RdXJKX0JkdzM4NzdENDVLcExQR0Jz?oc=5"
+          "name": "Hematology Advisor",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dVNnpNVnlWRC1uU0N6cnBaZUwySEl0MXpDNk1ISmlLd2czc1l2ZjBkMTZQT0pzUHlZOFVMamtmWkVjOU14WGdtQVRNZGt0a2J5R2k0aEFKbXlPR2Y0aGd4RjVsVXptZW4zNHkxbzJ1eFJlaFJmSW1MbmJWdjMwZDU5bnNkQzlx?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB01698",
+          "keyword": "rutin",
+          "name": "Rutin"
+        }
+      ]
+    },
+    {
+      "id": "afd7e2e032d7",
+      "title": "Interviews with Outstanding Authors (2026) - Annals of Translational Medicine",
+      "published": "2026-05-07T02:36:25+00:00",
+      "summary": "Interviews with Outstanding Authors (2026)&nbsp;&nbsp;Annals of Translational Medicine",
+      "sources": [
+        {
+          "name": "Annals of Translational Medicine",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMzlsem5nM1RhYUxxbjZPV3huWjhhMy1KWGJSRi1fRVp4YVlocVh6aEZHeGY1NkozNURnZDNYbWdMcklUZGdWbXhFakFsLWM1MjFDaXV6V0hNU1dmVDBBWmxKcnBXV3hNMW41RWRTeWVKWVVUWThmQWZQU0F6QlBRZlR3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "43d4168c2dea",
+      "title": "Limit ultra processed foods to lower risk of heart disease, say experts - European Society of Cardiology",
+      "published": "2026-05-07T00:03:58+00:00",
+      "summary": "Limit ultra processed foods to lower risk of heart disease, say experts&nbsp;&nbsp;European Society of CardiologyHeart Health: Eating more ultra-processed foods may raise heart disease risk by up to 19%, says major European report&nbsp;&nbsp;The Times of IndiaCook more at home to reduce ultra-processed food intake, say cardiologist groups&nbsp;&nbsp;The GuardianUltra-processed food: why the debate needs less fear and more clarity&nbsp;&nbsp;The ConversationEuropean Heart Journal: UPFs linked to ",
+      "sources": [
+        {
+          "name": "European Society of Cardiology",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY01qenI4NzNLNDJrRk9rWnBKZ0s3dWMzR1oybUZRdF9Zd2hzOTdiNUV5R2NmUEE4QXpsN1k3NE1NbC02UDFzd29ScG1QVmNKdDkyREtiUGQ0RG50c21QaGo3c2FlUXltRE5xY3FmdlZmZnZOczBpeE9QTGdzSzZPcmVzM3RzbHAyTzk2b3VqVFpJdXJmUHFuTDlfZXdJdy1FMnJFOGJTTHRGb0hDQWZaMEtTcEJUY05uUUFidEw5UQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -434,68 +531,11 @@
         },
         {
           "type": "indication",
-          "disease_id": "5385",
-          "name": "vascular disease",
-          "keyword": "vascular disease"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4995",
-          "name": "cardiovascular disease",
-          "keyword": "cardiovascular disease"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__cardiovascular",
-          "name": "cardiovascular",
-          "keyword": "cardiovascular"
-        },
-        {
-          "type": "indication",
           "disease_id": "generic__heart_disease",
           "name": "heart_disease",
           "keyword": "heart disease"
         }
       ]
-    },
-    {
-      "id": "8c9a7d7fa059",
-      "title": "For the first time, researchers are peering inside record-breaking superconductors",
-      "published": "2026-05-07T04:36:31+00:00",
-      "summary": "For the first time, researchers are peering inside record-breaking superconductors&nbsp;&nbsp;chemeurope.comMagnetic 'super lenses' open new window on high-temperature superconductors&nbsp;&nbsp;Phys.orgA new perspective on high-temperature superconductors: Magnetic “super lenses” for research under extreme pressure&nbsp;&nbsp;idw - Informationsdienst Wissenschaft",
-      "sources": [
-        {
-          "name": "chemeurope.com",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZnp1NWp4SlBXR2pBYzJpanZQc2drdW0zLVR2NXhSTnVxRnJKXzQ2TzBqWHQ1ZmJfOVBkSko3am5jaWFpbnZQRTZJYnhpOVFPd3JDanpGR0ZhSkJaOGtqVjlqWEMyU1ZwQU1pcjM1cU5yRVd5ZFVBdjRiR25UbWZ2QmhJMjZKRzcwOVJjYmdGVWVDbDFPNHllV202S1V5a1Blek1JNWNESFh5Z2ZaY19Scm1Qbk9ITGJMc21NdUxyS2NPRnpBYnFtSg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1ac4579a9d71",
-      "title": "One in Four Use AI for Health Information - Hematology Advisor",
-      "published": "2026-05-07T04:00:00+00:00",
-      "summary": "One in Four Use AI for Health Information&nbsp;&nbsp;Hematology Advisor5 Tips to Get Useful Health Answers from AI Chatbots&nbsp;&nbsp;Time MagazineShould you trust AI chatbots for medical advice? Expert weighs in&nbsp;&nbsp;India TV NewsReduced symptom reporting quality during human–chatbot versus human–physician interactions&nbsp;&nbsp;NatureKidney stones and AI&nbsp;&nbsp;EurekAlert!",
-      "sources": [
-        {
-          "name": "Hematology Advisor",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dVNnpNVnlWRC1uU0N6cnBaZUwySEl0MXpDNk1ISmlLd2czc1l2ZjBkMTZQT0pzUHlZOFVMamtmWkVjOU14WGdtQVRNZGt0a2J5R2k0aEFKbXlPR2Y0aGd4RjVsVXptZW4zNHkxbzJ1eFJlaFJmSW1MbmJWdjMwZDU5bnNkQzlx?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "afd7e2e032d7",
-      "title": "Interviews with Outstanding Authors (2026) - Annals of Translational Medicine",
-      "published": "2026-05-07T02:36:25+00:00",
-      "summary": "Interviews with Outstanding Authors (2026)&nbsp;&nbsp;Annals of Translational Medicine",
-      "sources": [
-        {
-          "name": "Annals of Translational Medicine",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMzlsem5nM1RhYUxxbjZPV3huWjhhMy1KWGJSRi1fRVp4YVlocVh6aEZHeGY1NkozNURnZDNYbWdMcklUZGdWbXhFakFsLWM1MjFDaXV6V0hNU1dmVDBBWmxKcnBXV3hNMW41RWRTeWVKWVVUWThmQWZQU0F6QlBRZlR3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "1b6af2b015ed",
@@ -521,7 +561,7 @@
       "id": "719219101fa2",
       "title": "CIDRAP: No sputum needed: Easy-to-use TB test shows accuracy in 7-country analysis - European AIDS Treatment Group",
       "published": "2026-05-06T22:25:24+00:00",
-      "summary": "CIDRAP: No sputum needed: Easy-to-use TB test shows accuracy in 7-country analysis&nbsp;&nbsp;European AIDS Treatment Group",
+      "summary": "CIDRAP: No sputum needed: Easy-to-use TB test shows accuracy in 7-country analysis&nbsp;&nbsp;European AIDS Treatment GroupWHO, Stop TB Unveil TB Point-of-Care Testing Toolkit&nbsp;&nbsp;Mirage News",
       "sources": [
         {
           "name": "European AIDS Treatment Group",
@@ -585,7 +625,7 @@
       "id": "90cc45ce0523",
       "title": "New blood test predicts illness progression and treatment response",
       "published": "2026-05-06T19:03:00+00:00",
-      "summary": "New blood test predicts illness progression and treatment response&nbsp;&nbsp;News-MedicalBlood Test Could Reveal How Disease Progresses, Response To Treatment: Study&nbsp;&nbsp;NDTVWhat went right this week: the good news that matters&nbsp;&nbsp;Positive NewsPredicting trajectories of illness using RNA velocity of whole blood&nbsp;&nbsp;Nature",
+      "summary": "New blood test predicts illness progression and treatment response&nbsp;&nbsp;News-MedicalBlood Test Could Reveal How Disease Progresses, Response To Treatment: Study&nbsp;&nbsp;NDTVWhat went right this week: the good news that matters&nbsp;&nbsp;Positive NewsPredicting trajectories of illness using RNA velocity of whole blood&nbsp;&nbsp;NatureBlood test could help predict disease progression&nbsp;&nbsp;The Hippocratic Post",
       "sources": [
         {
           "name": "News-Medical",
@@ -608,27 +648,14 @@
       "matched_keywords": []
     },
     {
-      "id": "8b069ccdfef1",
-      "title": "An individual participant data meta-analysis of how physical activity relates to affective well-being in daily life",
-      "published": "2026-05-06T16:02:07+00:00",
-      "summary": "An individual participant data meta-analysis of how physical activity relates to affective well-being in daily life&nbsp;&nbsp;NatureRosemary Rits: Sport is a way to clear my mind&nbsp;&nbsp;TalTech",
+      "id": "320beaeb8644",
+      "title": "The brain's memory center doesn't start as a blank slate, study suggests - Live Science",
+      "published": "2026-05-06T18:10:00+00:00",
+      "summary": "The brain's memory center doesn't start as a blank slate, study suggests&nbsp;&nbsp;Live ScienceSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lX3pkcHhSWnc5RklranlCdmQyTnU4V0l0anRoaUJ2TDI1b1oyTDRBRXFIWTF3ajE0VVk3QVhsNUFnZGllVGpzZkZVcDNjak9naU9Ja3NsQURpOUhrcnFF?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "67f352cfe617",
-      "title": "SERD:anti‑proliferative activity in early ER+/HER2‑breast cancer - ESMO Daily Reporter",
-      "published": "2026-05-06T14:04:31+00:00",
-      "summary": "SERD:anti‑proliferative activity in early ER+/HER2‑breast cancer&nbsp;&nbsp;ESMO Daily ReporterElisabetta Munzone: Giredestrant and Ovarian Function Suppression in ER+ Breast Cancer&nbsp;&nbsp;OncodailyPREcoopERA: Giredestrant Shows Strong Ki67 Reduction, but Needs Ovarian Suppression for Optimal Effect&nbsp;&nbsp;Docwire NewsTop Phase 3 Breast Cancer Studies From SABCS 2025&nbsp;&nbsp;Oncology News Central",
-      "sources": [
-        {
-          "name": "ESMO Daily Reporter",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQNzM1RGkwenc3NHE2bmYzRXlrUll6NGJXVThqdnA5ZF9WbERYbEV2dkhqWXc0c0VWSi1XRlo0ZzlHV1JkRkMwTmRoZmVrUXU5b0p6WExuZnNhMExieDdBcVlMNXVRbkRMMjkwTl96SUhPMWNjNm84Vl91M0toMW15ZFF6SFVoVU8xZU16WDc5VFQxMDhoTVFwd0ZpNkp6X3VWd0tkaE1PQzdOVU1pV2NwMFhncE5DWmVFYUgtWXFGcGpVYnd3R0tvb2pvdmxHSzFRaDlvUTdpMUgzeDkxNHk1SmNPZExYN2hVeXJKcTVLTEdLbmxxLUxtRzJKNHpNU1VuaUs2LTNSd3hfVWZqU0t4ZzA0ZVQ2QWpMMmdnYklkYlBFdw?oc=5"
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjJnZmptcDl4bmZwb01sYmVhTWNGdkVSQmF3SnNVcmRONzdhclYtRVZCTXZNY0hBb1VucVdHOGRRZGlXb29FRW5kYXppSktfMDVHV0F3dFlGQkdzM2ZYX1BGSy1VWWVTcDIyS25iUTdFanRSRVhyOUxMZWdsSmYzNDR6Si1rNXZCamNPb2ZqRF8wYkZ6b18yQ1UycjFuOW0tTnZzSkZPVzk2WHRoQ0NtWTBGMURvd2t4?oc=5"
         }
       ],
       "matched_keywords": [
@@ -637,36 +664,62 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "e98caad11640",
+      "title": "Male sex hormone loss aids brain tumour growth",
+      "published": "2026-05-06T15:17:53+00:00",
+      "summary": "Male sex hormone loss aids brain tumour growth&nbsp;&nbsp;NatureAndrogen loss accelerates brain tumour growth via HPA axis activation&nbsp;&nbsp;NatureGlioblastoma: Testosterone Supplements Linked to 38% Lower Risk of Death&nbsp;&nbsp;Inside Precision MedicineNIH-funded study suggests that testosterone suppresses brain tumor growth in males&nbsp;&nbsp;National Institutes of Health (.gov)",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tY3I4V2VDVGtKQklSMUZOS2o4ME1BTzFzVVNDSVA5RW1vcUNfOFdwWjk2eVk1N1htbElxa1pOR05xVU9BeVN4SE9CVE83eEw2WHBnQjNoWS00eVR0Mkhn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB00624",
+          "keyword": "testosterone",
+          "name": "Testosterone"
+        },
+        {
+          "type": "drug",
+          "drugbank_id": "DB03904",
+          "keyword": "urea",
+          "name": "Urea"
         },
         {
           "type": "indication",
-          "disease_id": "8383",
-          "name": "rheumatoid arthritis",
-          "keyword": "RA"
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
         },
         {
           "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
+          "disease_id": "5565",
+          "name": "blastoma",
+          "keyword": "blastoma"
         },
         {
           "type": "indication",
-          "disease_id": "4379",
-          "name": "female breast carcinoma",
-          "keyword": "breast cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "7254",
-          "name": "breast cancer",
-          "keyword": "breast cancer"
+          "disease_id": "12268",
+          "name": "AIDS",
+          "keyword": "aids"
         },
         {
           "type": "indication",
           "disease_id": "generic__generic_cancer",
           "name": "generic_cancer",
-          "keyword": "cancer"
+          "keyword": "tumor"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "tumour"
         }
       ]
     },
@@ -687,84 +740,6 @@
           "disease_id": "generic_diabetes",
           "name": "diabetes",
           "keyword": "diabetes"
-        }
-      ]
-    },
-    {
-      "id": "be67e6ced7ae",
-      "title": "World Health Organization Gives Stamp of Approval to First Malaria Treatment for Young Infants - Health Policy Watch",
-      "published": "2026-05-06T12:45:41+00:00",
-      "summary": "World Health Organization Gives Stamp of Approval to First Malaria Treatment for Young Infants&nbsp;&nbsp;Health Policy WatchProtein Folding, Parasites & Malaria Breakthroughs 2026&nbsp;&nbsp;Frontline MagazineFirst malaria drug for babies is approved in ‘major public health milestone’ | Global development&nbsp;&nbsp;The GuardianWHO approves first malaria drug for infants under 6 months | Coartem Baby contains two antimalarial drugs | Inshorts&nbsp;&nbsp;InshortsWHO prequalifies world’s first ma",
-      "sources": [
-        {
-          "name": "Health Policy Watch",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWRVdFNKSDM0dVpZZXJ3MXhTWlRUVGx3SmVqSTFnUmpEUVpUMDRHSkpQbjBHZ05wUzJZd3ZtZjVZUEpmVzFTSzhyZXp2YzUyeXJXdDdEcDVXWVplWkhrOWxpblZLOUxCODE4TWRWWkpJclk3bHFsX3ZQNmdrMEJneTVBbndMbnIzaTA4dGZWUHAtd2hLTnFhTWVPb29vOENiV3VxS2k3aUhDQUg1T1E?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5136",
-          "name": "malaria",
-          "keyword": "malaria"
-        }
-      ]
-    },
-    {
-      "id": "f02843c3840f",
-      "title": "Postbiotic Yields Greater Symptom Relief for Allergic Rhinitis",
-      "published": "2026-05-06T11:11:44+00:00",
-      "summary": "Postbiotic Yields Greater Symptom Relief for Allergic Rhinitis&nbsp;&nbsp;Medscape",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmdmOEJBN3JqT2tMSjJqYWxHQlp2WHZFWXIyc2o4Ty1hZU9XZUlXUTVOc1J3ekJweFFUNUxncklmcnVidG1LeENhUVB5WGVrWlBzTDZXNFJISzdnOGozdVhWQ1hyTEtCekt1YVBqMjg2OF9yWHBtR3o4SFB3M0lFUE05N0xlNXBNOC1SZmR2RG5hNWs2andBS2NjWmQ1bjhtS1dlSEtCMnVYQUo0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "3014_4514",
-          "name": "rhinitis",
-          "keyword": "rhinitis"
-        },
-        {
-          "type": "indication",
-          "disease_id": "11786_5324_24332",
-          "name": "allergic rhinitis",
-          "keyword": "allergic rhinitis"
-        }
-      ]
-    },
-    {
-      "id": "945a85686313",
-      "title": "The human skull is evolving and researchers say modern life is the reason",
-      "published": "2026-05-06T09:44:19+00:00",
-      "summary": "The human skull is evolving and researchers say modern life is the reason&nbsp;&nbsp;Moneycontrol.comHuman heads have changed shape a lot in the past 100 years&nbsp;&nbsp;New ScientistIt has been determined that the human skull has changed over the last century&nbsp;&nbsp;Zamin.uzWithin Just 100 Years, Human Skulls Have Changed Shape Significantly&nbsp;&nbsp;IFLScienceScientists Reveal How Human Skulls Have Quietly Transformed In Just 100 Years&nbsp;&nbsp;Indian Defence Review",
-      "sources": [
-        {
-          "name": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc1AydWlXbjF5SXl4cHNGVTVfSjFlcFQycVpzU2ZkbFk5b3NIUHpHNGlRQjlZRGZXMEtQdTYxNFJxSGJPS1Q5Tnc5c2N1SWVPRVRpZC1EMDBzRWtGeC1kNS0yNnZuRHAtTlpVWVJkdlk3NDlJanRKOHhyVzZZWWRFeE1sT3J4NXNQYlQ4WTJIM1Z4Ui05d0J5YXl3WWFPZWhSMGRWMHVEd3NIWGtnd2cwbU1Ydm9rb3BTZE54aDFBWmRrVHZBNFdj0gHMAUFVX3lxTE9BZUc0RkJkcnlja25yazFQZWN0Q1ZFWWo3U3hqQXBEMHJEQmdmY040WV9zbGpUM2Fac3NNZnNFODNpQ3VQZUtqckpDMHYzMVh2MFBMMDliVGZkNERIbzU3RTk1cEcxVFBDTkpPNXMxdGdFdENBUlgxWTI5YzQ2cGlTcm4xT2hKM0Q2ZVZ0Q3pjSWFLQXMzY2wwZ3JLUG8xbFhhMm9VMWl3am53RWhtckpkWUZQSVNyLUVmVVZ3TGluTl9DNDk0SG43c0xhdw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB03384",
-          "keyword": "fica",
-          "name": "Fica"
-        },
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
         }
       ]
     }
