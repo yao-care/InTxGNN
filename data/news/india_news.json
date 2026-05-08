@@ -1,10 +1,34 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-07T19:20:41.843573+00:00",
-  "total_fetched": 86,
-  "unique_count": 86,
-  "health_related_count": 32,
+  "fetched_at": "2026-05-08T01:30:38.555636+00:00",
+  "total_fetched": 84,
+  "unique_count": 84,
+  "health_related_count": 31,
   "news": [
+    {
+      "id": "671989d5b5f7",
+      "title": "Biggest Black Holes Built Up In Busy Star Clusters After Series Of Violent Merging Events - Eurasia Review",
+      "published": "2026-05-07T22:22:14+00:00",
+      "summary": "Biggest Black Holes Built Up In Busy Star Clusters After Series Of Violent Merging Events&nbsp;&nbsp;Eurasia ReviewThese monster black holes did not form the usual way—their history of violence is written into spacetime ripples&nbsp;&nbsp;Phys.orgHow do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceStudy links biggest black holes to repeated cosmic collisions&nbsp;&nbsp;Courthouse NewsEvidence for a 'forbidden range' of black hole masses emerge",
+      "sources": [
+        {
+          "name": "Eurasia Review",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQmd6dDllNmY4YWRrVnNnRmRyVU1sMmdPU1otWnM4cDRWVGZ3bmRFWDhaSzN5S1dFQjAwdnhKWHFSQ0hQamQ5N2tibU5nVlhXWHd5b0RvaWdxLWdQMDZYQkxUaG5zenZqVzJzV0V0SjNWdEl4U2x3WEFsZm83UEZSUExLSXItWVBhelhoZDQxb3Z6N0EyX1kzQ09EZ29JUFNmRVpwVHN5WXFvR21vTWFTV0FBLTZMQnk4dnV3RHRQdmpzSE1fRVR3Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c964e1e36de3",
+      "title": "The Janus face of host LncRNA in viral infections: Defender or collaborator? - Nature",
+      "published": "2026-05-07T18:58:22+00:00",
+      "summary": "The Janus face of host LncRNA in viral infections: Defender or collaborator?&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rM0VEaW41dThEbjNuUTJEQUNXR283M1d5OWdueVI2b1VwTkxyS0E3WHBIU05mQl9OTTFpeVQxTG9VMGQ2ZGZLaGhOWGFMR0R2cGJOUHVrb2hIOC1Ya3hz?oc=5"
+        }
+      ]
+    },
     {
       "id": "76e40346f923",
       "title": "Self-Organizing Laser Beams Accelerate Biomedical Imaging - AZoOptics",
@@ -21,7 +45,7 @@
       "id": "13f679ad2a74",
       "title": "Researchers synthesize uniform nanocrystals from five distinct metals - Interesting Engineering",
       "published": "2026-05-07T18:07:00+00:00",
-      "summary": "Researchers synthesize uniform nanocrystals from five distinct metals&nbsp;&nbsp;Interesting EngineeringResearchers Combine Metals To Build Better Nanocrystal&nbsp;&nbsp;Mirage News",
+      "summary": "Researchers synthesize uniform nanocrystals from five distinct metals&nbsp;&nbsp;Interesting EngineeringFigure 3. Schematic illustration of multicomponent nanoparticle formation via competitive reactivity and its application in hydrogen catalysis&nbsp;&nbsp;EurekAlert!Researchers Combine Metals To Build Better Nanocrystal&nbsp;&nbsp;Mirage News",
       "sources": [
         {
           "name": "Interesting Engineering",
@@ -30,50 +54,14 @@
       ]
     },
     {
-      "id": "65e04dd1c38b",
-      "title": "Biggest black holes built up in busy star clusters after series of violent merging events, research finds - EurekAlert!",
-      "published": "2026-05-07T17:38:00+00:00",
-      "summary": "Biggest black holes built up in busy star clusters after series of violent merging events, research finds&nbsp;&nbsp;EurekAlert!How do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceStudy links biggest black holes to repeated cosmic collisions&nbsp;&nbsp;Courthouse NewsThese monster black holes did not form the usual way—their history of violence is written into spacetime ripples&nbsp;&nbsp;Phys.orgEvidence for a 'forbidden range' of black hole ",
-      "sources": [
-        {
-          "name": "EurekAlert!",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10dzI3eHpmVGVMS3JTMFBhNlBSeDFVQlFRaUl1VWZSLWZXUE1Zekd0NkNMeC1UN2lPUlo5aThsYThGNXE0Nm1mQy1vcUpxLW9VTWd6aW01TC1pa3ZZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "695fe024e232",
       "title": "WHO confirms five hantavirus cases linked to cruise ship outbreak - News On AIR",
-      "published": "2026-05-07T16:49:44+00:00",
-      "summary": "WHO confirms five hantavirus cases linked to cruise ship outbreak&nbsp;&nbsp;News On AIRHow worried should we be about hantavirus?&nbsp;&nbsp;BBCU.S. Health Authorities Monitor Hantavirus Cruise Passengers in Georgia, California and Arizona&nbsp;&nbsp;The New York TimesGlobal race under way to trace passengers who left hantavirus ship before outbreak confirmed&nbsp;&nbsp;The Guardian'This is not Covid': WHO assures Hantavirus outbreak 'limited' but more cases 'possible'&nbsp;&nbsp;The Times of I",
+      "published": "2026-05-07T16:51:34+00:00",
+      "summary": "WHO confirms five hantavirus cases linked to cruise ship outbreak&nbsp;&nbsp;News On AIRHow worried should we be about hantavirus?&nbsp;&nbsp;BBCWHO says now five confirmed cruise ship hantavirus cases&nbsp;&nbsp;The HinduU.S. Health Authorities Monitor Hantavirus Cruise Passengers in Georgia, California and Arizona&nbsp;&nbsp;nytimes.comInside the Global Effort to Figure Out Where Hantavirus Will Strike Next&nbsp;&nbsp;WSJ",
       "sources": [
         {
           "name": "News On AIR",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPelp4eW55dGZFMzZKTmJnb2Z6bzZZdUFLV282RVVTMFY5a0M4eXVsSjg0V3FoMU5TeG9hb1VzcGh1MEZEeGxtYlhDUGhsODIyZm52bHh1ZVJ6TEhDVWxCMDBFN0JvY2UzcFpFMmJMeVVjeFlnU1ZZNVZ5WnhqYUhQQ3Qzdkpvc05MSTVoZnN5Zm16anZsemFlbTF3UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "76e58cbcd062",
-      "title": "GRAIL to Present New Data on Multi-Cancer Early Detection Test - Clinical Lab Products",
-      "published": "2026-05-07T16:47:31+00:00",
-      "summary": "GRAIL to Present New Data on Multi-Cancer Early Detection Test&nbsp;&nbsp;Clinical Lab ProductsLow-Cost Blood Test Detects Multiple Cancers From a Single Sample: Study&nbsp;&nbsp;OnlymyhealthChadi Nabhan: What is New with Multi-Cancer Early Detection?&nbsp;&nbsp;OncodailyEarlyDiagnostics’ MethylScan™ Platform Validated in PNAS Study, Demonstrating Multi-Disease Detection from a Single Blood Sample&nbsp;&nbsp;Business WireDNA methylation patterns may be less expensive way to identify early or pre",
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnJ4UmRjQzYtNnRsdUtfUjNSX3Q4eUs0ZXVzM3ppWkRzNUNZeTB5cWF3VlE4RzJGMUh1ZlF0Sk5LWEZjUWZ2c3RieFpYZHE0U3RReV9IRU9UeG5jSVQ4SkFTZnppQTd4SFI1MEcwZGNVSUk1aVdYRlYxcHhTQWFod0RaaDZTcmw5QXh6UDhJRFF6VF96R1l0R2dJNE9UaXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c964e1e36de3",
-      "title": "The Janus face of host LncRNA in viral infections: Defender or collaborator? - Nature",
-      "published": "2026-05-07T16:17:34+00:00",
-      "summary": "The Janus face of host LncRNA in viral infections: Defender or collaborator?&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rM0VEaW41dThEbjNuUTJEQUNXR283M1d5OWdueVI2b1VwTkxyS0E3WHBIU05mQl9OTTFpeVQxTG9VMGQ2ZGZLaGhOWGFMR0R2cGJOUHVrb2hIOC1Ya3hz?oc=5"
         }
       ]
     },
@@ -93,7 +81,7 @@
       "id": "9870fa3ee763",
       "title": "Chinese-led supercomputer simulation recreates 13.8 billion years of cosmic evolution - TV BRICS",
       "published": "2026-05-07T13:04:07+00:00",
-      "summary": "Chinese-led supercomputer simulation recreates 13.8 billion years of cosmic evolution&nbsp;&nbsp;TV BRICSScientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies&nbsp;&nbsp;SpaceChinese-Led Researchers Release Largest-Ever Cosmological Simulation&nbsp;&nbsp;HPCwire2.5-Petabyte Universe Simulation Recreates Cosmic Evolution in Unprecedented Detail&nbsp;&nbsp;HotHardwareHow do you study something you can never step outside of?&nbsp;&nbsp;Universe",
+      "summary": "Chinese-led supercomputer simulation recreates 13.8 billion years of cosmic evolution&nbsp;&nbsp;TV BRICSChinese-Led Researchers Release Largest-Ever Cosmological Simulation&nbsp;&nbsp;HPCwire2.5-Petabyte Universe Simulation Recreates Cosmic Evolution in Unprecedented Detail&nbsp;&nbsp;HotHardwareHow do you study something you can never step outside of?&nbsp;&nbsp;Universe TodaySupercomputer reconstructs evolution of the universe&nbsp;&nbsp;China Daily",
       "sources": [
         {
           "name": "TV BRICS",
@@ -126,6 +114,30 @@
       ]
     },
     {
+      "id": "2dda9f518e04",
+      "title": "Laser-Printed \"Papertronic\" Circuits Deliver Environmentally-Friendly, Biodegradable Electronics - Hackster.io",
+      "published": "2026-05-07T12:08:17+00:00",
+      "summary": "Laser-Printed \"Papertronic\" Circuits Deliver Environmentally-Friendly, Biodegradable Electronics&nbsp;&nbsp;Hackster.io",
+      "sources": [
+        {
+          "name": "Hackster.io",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObjJTY2VMSnllamRxQVZNdm5uV3AwcmZPYVhvQ0JIN1ZybUpRVXoxWWxLVFNsb3d3UElJX1RBSWJvTW1vQWZuWU9vQ3ZXbFJHa2tjQ0xQb3pXTTRUaHV3amUyeWh1OUFWUWZPNER4RTFpZDdybGt1QU5FZzNHY3NkQWNEYmdDTU51b2tNMmxxd19vWHFidmhubjBtSDhYX1FNdl9SZ2k4Vm9LTGV4RHpVTEhmMS1OVTBMR2xScU00ME5BbGZ4QUFNQVByU2ROWVA20gHWAUFVX3lxTE1jUlNPWkZoMTRrcFphOUVJR1pQLTkyX0NhRFhkSzVKU2xxTUhkNWxzeWxRM2VSODdpRFkwUTBsMnA4OG02cXpvMTkzeDI4bXFKQk9FdEVlUHJaMXE4TWRqaWZvMXdTeENReW1iZWpsZHg4SmZsUHhvRmtPb2NjVHJHSUJBMUJ2dmhsNFU2enVlSmQyTlJPRGJCRDM4UmFIQjluRV96NVZvd0dOR29KSUE2cWh1d2M3dXV0UkExcjNRZVE1dmYxX1NnbFZjVkwzanN6XzA0eHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "12151f020ba3",
+      "title": "Oak trees delay leafing to outmanoeuvre caterpillars - Down To Earth",
+      "published": "2026-05-07T11:50:14+00:00",
+      "summary": "Oak trees delay leafing to outmanoeuvre caterpillars&nbsp;&nbsp;Down To EarthSatellite data show trees delay budburst across landscapes to escape herbivores&nbsp;&nbsp;NatureOak trees are delaying spring to starve caterpillars&nbsp;&nbsp;ScienceDailyTrees Adjust Leaf Timing to Combat Caterpillar Infestations&nbsp;&nbsp;SSBCrackOak Trees Will Delay Sprouting Leaves to Avoid Hungry Caterpillars That Devoured the Trees in Previous Year: Study&nbsp;&nbsp;Good News Network",
+      "sources": [
+        {
+          "name": "Down To Earth",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcjZIODVGLUZSRlh1SGJfbkxIVWRFZEVZRGtHWG8taGlqVTh6LUpFMmhpSmVEQzExWWVXWXRIbFo5ZDFzZHRqM08wem1vYWJ1Q0lYQzVlNmtRNFlVLXBfRzd6WGJ5VXhITEZlUGJLWE9kLU53R1pJaU5TSl9VakJzR1RySkV3R0JTLXEyX0V2RmFmZE4tYWFZM1RNT0VTTnNHTlg5NnBDdjnSAbYBQVVfeXFMT08wQzRtVmpsYVR3Zm5KN3dNRHBZSXNZRmZ0d0IwLTh3TEo5Y1pqek5PV3JiaGFlLTRJdVFvREZyYXRpcHU5aXM0RFQtZXVXa0RORlhHclR5N1JIczlCdkRMUzZpUlFjRnVCSGY4NUkySHMtUERoQ2dPejlHcVJvOFI5VUZKRERaeVVjMERRNFlEc080T1NSU3hBMW5Lb1Y2UzQzd3hmdEZSQmpNbndlZVRWZWRHVUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bef6bbffb4b6",
       "title": "Host oxidative stress primes mycobacteria for rapid antibiotic resistance evolution - Nature",
       "published": "2026-05-07T10:52:30+00:00",
@@ -138,26 +150,26 @@
       ]
     },
     {
-      "id": "40d0139a900c",
-      "title": "Kyoto University identifies a key regulator of insulin production - News-Medical",
-      "published": "2026-05-07T10:10:00+00:00",
-      "summary": "Kyoto University identifies a key regulator of insulin production&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTc4NlRqX0NVZmFWNVVobU5kTmFsSzBXeUJsLXJFSkNHaFBOYS1DWmJaOWs1ZkljWjkwZE9sbk1CbF96RFdHeXBCdV9vX3ktZW5xRTRjZ2I3LXA5LTJXRFhnVF9fU1JuSTdaV0VROEF1VlhEOHBUcGRUVlBibWxlbTF5WGZObzltbUJKRXROMFJpblRIenpXcUx3YzUtT3lqS0RraUNabnMzWGlSMFc3OA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6c6a77f94fa0",
       "title": "How AI Could Help Cure Pancreatic Cancer - Derek Thompson | Substack",
       "published": "2026-05-07T10:07:48+00:00",
-      "summary": "How AI Could Help Cure Pancreatic Cancer&nbsp;&nbsp;Derek Thompson | SubstackMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkAI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis&nbsp;&nbsp;SciTechDailyPredictive Cancer AI&nbsp;&nbsp;Trend HunterMayo Clinic’s REDMOD AI Doubles Early Detection Sensitivity in Pancreatic Cancer&nbsp;&nbsp;Inside Precision Medicine",
+      "summary": "How AI Could Help Cure Pancreatic Cancer&nbsp;&nbsp;Derek Thompson | SubstackMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkPredictive Cancer AI&nbsp;&nbsp;Trend HunterAdvanced AI holds promise for high-stakes healthcare, studies show&nbsp;&nbsp;Healthcare IT NewsMayo Clinic’s REDMOD AI Doubles Early Detection Sensitivity in Pancreatic Cancer&nbsp;&nbsp;Inside Precision Medicine",
       "sources": [
         {
           "name": "Derek Thompson | Substack",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vbUtDMWZSTzVzbGU0Z2NESDdYWUhyRVVlSHlVMWZzclRucGxtakxoUXZaa1RtbVpWTllxNGRSU1RGemRVRHd4dTdGbVc0dDZJekE2N1ZqVTNLVnIyRUtkT3hXSVIxVGpjQUZtSy12M2RIbUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d023374e089",
+      "title": "Why your health insurance won't cover the true cost of ageing - Mint",
+      "published": "2026-05-07T09:32:26+00:00",
+      "summary": "Why your health insurance won't cover the true cost of ageing&nbsp;&nbsp;Mint",
+      "sources": [
+        {
+          "name": "Mint",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVkc0QWJPN2tlUkE1N2tSLTRxUENBSFk1QUVvbUxIaVhxY0lPRHlXLXR3NG8wRE5JXzFMdEVHb3MtUlRKYndCbTZWc0dnYVc2S2RrTk9mbjJiVXUxaU5zTkFvNTM3aWMtZndScW5HUmpTc0FmTVVNRXNaY2FQVDFDQ2JNOElBUC1PaEpQdDR3aTlHdGIzN1BoaDNRQldEa0ZqYnV0YVpfNWRZd2ZsMHBUaWh2ZjdKeGkzVDJ0VDdaZ9IBxAFBVV95cUxNNWsweTM1UHU0WFQ5S3pfd0p5cDQyUUZEX29iX2hjdFNxdHZnNG5lZjZUaU5QZ1JFUDlMZ0NWdHpZNzR5bEJUOE9lM1RRREtSb1A0dFFaenJwc2tnMDk2Q2p5dkF0aHZKTVNkN295RjdqQlJhU2dyRlR2V0NTdHlHS1N1amFsc3F5TFVKX1JiZnI2QkZOcmJ0R1huVTB5bEdHQ3RUVlZrTGZ5ZklKZ2NKTGNPUm0wY0xFbGUyMHp6aG5ESW9P?oc=5"
         }
       ]
     },
@@ -177,23 +189,11 @@
       "id": "d2802e28a27c",
       "title": "Ultra processed foods linked to higher cardiovascular disease and death - News-Medical",
       "published": "2026-05-07T05:40:00+00:00",
-      "summary": "Ultra processed foods linked to higher cardiovascular disease and death&nbsp;&nbsp;News-MedicalEating more ultra-processed foods may raise heart disease risk by up to 19%, says major European report&nbsp;&nbsp;The Times of IndiaCook more at home to reduce ultra-processed food intake, say cardiologist groups&nbsp;&nbsp;The GuardianUltra-processed food: why the debate needs less fear and more clarity&nbsp;&nbsp;The ConversationNo One Can Define 'Ultra-Processed Food.' Why Is RFK Jr. Trying To Regu",
+      "summary": "Ultra processed foods linked to higher cardiovascular disease and death&nbsp;&nbsp;News-MedicalHeart Health: Eating more ultra-processed foods may raise heart disease risk by up to 19%, says major European report&nbsp;&nbsp;The Times of IndiaCook more at home to reduce ultra-processed food intake, say cardiologist groups&nbsp;&nbsp;The GuardianUltra-processed food: why the debate needs less fear and more clarity&nbsp;&nbsp;The ConversationNo One Can Define 'Ultra-Processed Food.' Why Is RFK Jr. ",
       "sources": [
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTS1Zd0xkNGVENXFXVWMzYmQ2ME5vZGJaNWE0OVlnTFB3QktpOV9RTzg3T1hPNEJPSHFhMGc2UmtLZ2RJWGdoWXlERTZKaFBGdkdIMVlHYS1LeXBQU3IwRVdicjZtRW9zblduTmFRRVAxUVFXdV9HUVptLXNFY2Fxa3NhS2h5aDAzWkdkeDdwYlljX1Fxd1lId1ZmWFJVcFhvaDc5OW9RdXJKX0JkdzM4NzdENDVLcExQR0Jz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f6e0f278362",
-      "title": "Bangladesh faces worsening measles outbreak as shortage of diagnostic kits disrupts testing - News On AIR",
-      "published": "2026-05-07T05:16:09+00:00",
-      "summary": "Bangladesh faces worsening measles outbreak as shortage of diagnostic kits disrupts testing&nbsp;&nbsp;News On AIRBangladesh measles crisis deepens after outbreak kills 12 children in 24 hours; death toll reaches 336&nbsp;&nbsp;Telegraph IndiaBGD: Epidemic - 05-2026 - Measles in Bangladesh #2 (2026-05-05)&nbsp;&nbsp;ReliefWebLetter shows UNICEF warning Yunus government of looming measles vaccine crisis&nbsp;&nbsp;bdnews24.com“I feel so guilty for not vaccinating my child when I had the chance”&n",
-      "sources": [
-        {
-          "name": "News On AIR",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXQxVW1saXIxNDRrOWtBLVZyaXV4cURGcTY2TV84ek5tazZ2cU1UQ3pGYmcyLXo5Ni11MzJlUU0yUVpmeXZRNHVwa2M4SjlVMlc4clBMOEVmWTUxWmpFazZIYUJGQmliTjAwbGpRZ28zMHcxNmJxdEZKV0ZweHBTVHM0d3J0bzV6ZjFYZXFwRENEam1yaTZMbVQ5aE5CaHZNUEZkd05PMmRKMkRDZ0prN0RWYXU0cVJXLW9jOHNB?oc=5"
         }
       ]
     },
@@ -237,11 +237,23 @@
       "id": "1b6af2b015ed",
       "title": "A brain reward circuit inhibited by next-generation weight-loss drugs in mice - Nature",
       "published": "2026-05-06T23:14:01+00:00",
-      "summary": "A brain reward circuit inhibited by next-generation weight-loss drugs in mice&nbsp;&nbsp;NatureWeight Loss Drugs May Impact Brain's Reward Centre, Study Warns&nbsp;&nbsp;NDTVNew GLP-1 drugs could suppress desire for more than just food, study suggests&nbsp;&nbsp;LiveNOW from FOXWhat is ‘Ozempic personality,’ and why does it make life feel ‘meh’?&nbsp;&nbsp;Daily HeraldGLP-1 drugs may reshape how brain values rewarding foods&nbsp;&nbsp;News-Medical",
+      "summary": "A brain reward circuit inhibited by next-generation weight-loss drugs in mice&nbsp;&nbsp;NatureWeight Loss Drugs May Impact Brain's Reward Centre, Study Warns&nbsp;&nbsp;NDTVHow to manage the ‘meh’ effect of Mounjaro&nbsp;&nbsp;India TodayWhat is ‘Ozempic personality,’ and why does it make life feel ‘meh’?&nbsp;&nbsp;Daily HeraldNew GLP-1 drugs could suppress desire for more than just food, study suggests&nbsp;&nbsp;LiveNOW from FOX",
       "sources": [
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDX1BQOXZGZkJDeWZQUzJ2akxaUDVhV0dkTWlwUFBoZ3lNZkVWdDZlN2JSVWtpVnhpemFjbFJzVGhZTEppMWVxMm11UU1hMHdOVVFUVXdsSmJNTVRFaTQ4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "719219101fa2",
+      "title": "CIDRAP: No sputum needed: Easy-to-use TB test shows accuracy in 7-country analysis - European AIDS Treatment Group",
+      "published": "2026-05-06T22:25:24+00:00",
+      "summary": "CIDRAP: No sputum needed: Easy-to-use TB test shows accuracy in 7-country analysis&nbsp;&nbsp;European AIDS Treatment Group",
+      "sources": [
+        {
+          "name": "European AIDS Treatment Group",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMTlBZEYxbXlzc05mSTV4TVV4aDBQUmNRS1BvMncxTjExelRVanJVSVdvR0wwMUNraEJIX2tXa0R2bWJIZ2tzMTd6M2wwWHlGSVJLbmJtQ3NCZk9PaHNHcXpTUlRDZm9XU0k4dTBHeXA2cUVIbTg1cDZyYWc5S0g5TGZtekRmQUFkUzZMR2U2TU1vODJhZnphMkZXdEdsblc2NF9USkg2SEtlZjJoT0NtMA?oc=5"
         }
       ]
     },
@@ -270,6 +282,18 @@
       ]
     },
     {
+      "id": "21a848b76c71",
+      "title": "Early Life On Earth Relied On A Surprisingly Scarce Metal: Molybdenum - astrobiology.com",
+      "published": "2026-05-06T18:56:31+00:00",
+      "summary": "Early Life On Earth Relied On A Surprisingly Scarce Metal: Molybdenum&nbsp;&nbsp;astrobiology.comBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureNasa team discovers secret ingredient that powered ancient life on Earth&nbsp;&nbsp;India TodayEarth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old Fossils&nbsp;&nbsp;The Daily GalaxyNASA-backed study links molybdenum to early life chem",
+      "sources": [
+        {
+          "name": "astrobiology.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlpBdzdaMWdib0V6OXNZbWVPWkFkNGNRYzJfX2hBMkhMUmFMcGw4WkQ4TUFhMWhuMFJFMV9MVFFQR0tvMDVIeFBSZEhWRGVnOXFFVXVUMDE1Sl8taW9zMk14NFBKM21ycG54ckhFU0YzVzZoeGRHYkFnSjRScXoxaWl6Wl84QWpKTFZiQjJLMExrMG1lOVJOaUhCRmV4UjhVNmtGejdmREQ2Zw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4c0eee7b2ff2",
       "title": "In 1933, Bell Labs engineer Karl Jansky followed a faint radio hiss, and this discovery opened the door t - The Times of India",
       "published": "2026-05-06T18:40:00+00:00",
@@ -278,6 +302,18 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbExhQjBFZzVRd3lHNllzTVF6TEhwQmhNQy1uTDlCM0F6bF80VWNHcUNrZkRjeXhKMW1KR1NaQVprR0g4WDUxb2ZPSC02LVpjQmNFdG5jcXZlQ0hReXEwSkJFcmJJcjBYcUJNeEpSckxoazV6LXNZUVp4SjNEZW1BdS1KVlhKN3lHbjBhUlNaTFlzWWJhTHZaR0FOQmt2VXcxQXNWT3ptU2d5THNsVVlObnc0aTVOS3pjV25zV3ZqVDE1V294bGhlV2JMUk91bXZtS2hzdXJobzV6TG9CTmRadXkyRkVneUJiV1o3N2VfdXhhaDVfZkl0UERYTTBrNGpOU1RHMVpwYzFVaHptWXZ3UXpDaVQwWFFnYUHSAZ8CQVVfeXFMUFBXbnlKUkhpaTJIdTVtZ2tqQUJVYlZBVkJjQTQtQ2Y1aVVYVzNDbVBDNGFYcXAxMU5TbndqVndxZktiUHR3SnVMSWpjVXNiSGpTWkJJNXVpWDlyLXE3c1dSUzJnSmtWVjhETzB1cF9nZ1l5cFFPdG5pVFdJZGZQdW9UWWoyY3JOclhtX2I1QjdiR0dOcS12S3dlTXFUQVZieURoZG9ldENoRFlLV0dpSUhKdDR4eGUxUzZMOWFSTkgxZnpXMS15am1jYUIzaWZfTV9fMzRmSE9EWk9UZjdHMlRxSWMxUGxnY0NRQV9VVmlLdWM2VGFIUEpPTTM1UlhGYzUtenpRR0lFdjZ3QWxLaDFmUjhoUWg5elVWbm9YR0U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "67f352cfe617",
+      "title": "SERD:anti‑proliferative activity in early ER+/HER2‑breast cancer - ESMO Daily Reporter",
+      "published": "2026-05-06T14:04:31+00:00",
+      "summary": "SERD:anti‑proliferative activity in early ER+/HER2‑breast cancer&nbsp;&nbsp;ESMO Daily ReporterElisabetta Munzone: Giredestrant and Ovarian Function Suppression in ER+ Breast Cancer&nbsp;&nbsp;OncodailyPREcoopERA: Giredestrant Shows Strong Ki67 Reduction, but Needs Ovarian Suppression for Optimal Effect&nbsp;&nbsp;Docwire NewsTop Phase 3 Breast Cancer Studies From SABCS 2025&nbsp;&nbsp;Oncology News Central",
+      "sources": [
+        {
+          "name": "ESMO Daily Reporter",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQNzM1RGkwenc3NHE2bmYzRXlrUll6NGJXVThqdnA5ZF9WbERYbEV2dkhqWXc0c0VWSi1XRlo0ZzlHV1JkRkMwTmRoZmVrUXU5b0p6WExuZnNhMExieDdBcVlMNXVRbkRMMjkwTl96SUhPMWNjNm84Vl91M0toMW15ZFF6SFVoVU8xZU16WDc5VFQxMDhoTVFwd0ZpNkp6X3VWd0tkaE1PQzdOVU1pV2NwMFhncE5DWmVFYUgtWXFGcGpVYnd3R0tvb2pvdmxHSzFRaDlvUTdpMUgzeDkxNHk1SmNPZExYN2hVeXJKcTVLTEdLbmxxLUxtRzJKNHpNU1VuaUs2LTNSd3hfVWZqU0t4ZzA0ZVQ2QWpMMmdnYklkYlBFdw?oc=5"
         }
       ]
     },
@@ -297,7 +333,7 @@
       "id": "be67e6ced7ae",
       "title": "World Health Organization Gives Stamp of Approval to First Malaria Treatment for Young Infants - Health Policy Watch",
       "published": "2026-05-06T12:45:41+00:00",
-      "summary": "World Health Organization Gives Stamp of Approval to First Malaria Treatment for Young Infants&nbsp;&nbsp;Health Policy WatchProtein Folding, Parasites & Malaria Breakthroughs 2026&nbsp;&nbsp;Frontline MagazineFirst malaria drug for babies is approved in ‘major public health milestone’ | Global development&nbsp;&nbsp;The GuardianWHO approves first malaria drug for infants under 6 months | Coartem Baby contains two antimalarial drugs | Inshorts&nbsp;&nbsp;InshortsWHO prequalifies world’s first ma",
+      "summary": "World Health Organization Gives Stamp of Approval to First Malaria Treatment for Young Infants&nbsp;&nbsp;Health Policy WatchProtein Folding, Parasites & Malaria Breakthroughs 2026&nbsp;&nbsp;Frontline MagazineFirst malaria drug for babies is approved in ‘major public health milestone’ | Global development&nbsp;&nbsp;The GuardianWHO prequalifies Novartis' antimalarial Coartem Baby for treatment of newborns and young infants&nbsp;&nbsp;Manufacturing ChemistWHO approves first malaria drug for infa",
       "sources": [
         {
           "name": "Health Policy Watch",
@@ -306,26 +342,14 @@
       ]
     },
     {
-      "id": "60b5660c21a8",
-      "title": "Postbiotic Yields Greater Symptom Relief for Rhinitis - Medscape",
+      "id": "f02843c3840f",
+      "title": "Postbiotic Yields Greater Symptom Relief for Allergic Rhinitis - Medscape",
       "published": "2026-05-06T11:11:44+00:00",
-      "summary": "Postbiotic Yields Greater Symptom Relief for Rhinitis&nbsp;&nbsp;Medscape",
+      "summary": "Postbiotic Yields Greater Symptom Relief for Allergic Rhinitis&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmdmOEJBN3JqT2tMSjJqYWxHQlp2WHZFWXIyc2o4Ty1hZU9XZUlXUTVOc1J3ekJweFFUNUxncklmcnVidG1LeENhUVB5WGVrWlBzTDZXNFJISzdnOGozdVhWQ1hyTEtCekt1YVBqMjg2OF9yWHBtR3o4SFB3M0lFUE05N0xlNXBNOC1SZmR2RG5hNWs2andBS2NjWmQ1bjhtS1dlSEtCMnVYQUo0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02bf85e3cf08",
-      "title": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows - ScienceAlert",
-      "published": "2026-05-06T11:01:49+00:00",
-      "summary": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertScientists discover how body movement helps “clean” the brain&nbsp;&nbsp;The Indian ExpressEveryday small movements help clear brain waste, Nature study finds&nbsp;&nbsp;NewsBytesPenn State Brain Cleaning Study: What Scientists Discovered About the Brain’s Natural Detox System&nbsp;&nbsp;sebd.inScientists Uncover Hidden 'Cleaning' System in the Human Brain&nbsp;&nbsp;Inbox.eu",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHh5a3ZHTDQ0T2IxOHV3Z2RVR05Na2xXaVJES0VrZlJVb0VYS25DQWlGNUFRM3BYV0Y4SUZNbGNCazVQM0Vvc3hiSkdUR0ZDN05YUktiZjh1N0tZbTNySUJVTk5xSWpkRlZWOWFaX0VtREJNSnc0ZWZiTzNKS3czZWs2Rm1WWFFUeEx0RnR4NFh4eV8wQko4?oc=5"
         }
       ]
     },
@@ -350,42 +374,6 @@
         {
           "name": "Moneycontrol.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc1AydWlXbjF5SXl4cHNGVTVfSjFlcFQycVpzU2ZkbFk5b3NIUHpHNGlRQjlZRGZXMEtQdTYxNFJxSGJPS1Q5Tnc5c2N1SWVPRVRpZC1EMDBzRWtGeC1kNS0yNnZuRHAtTlpVWVJkdlk3NDlJanRKOHhyVzZZWWRFeE1sT3J4NXNQYlQ4WTJIM1Z4Ui05d0J5YXl3WWFPZWhSMGRWMHVEd3NIWGtnd2cwbU1Ydm9rb3BTZE54aDFBWmRrVHZBNFdj0gHMAUFVX3lxTE9BZUc0RkJkcnlja25yazFQZWN0Q1ZFWWo3U3hqQXBEMHJEQmdmY040WV9zbGpUM2Fac3NNZnNFODNpQ3VQZUtqckpDMHYzMVh2MFBMMDliVGZkNERIbzU3RTk1cEcxVFBDTkpPNXMxdGdFdENBUlgxWTI5YzQ2cGlTcm4xT2hKM0Q2ZVZ0Q3pjSWFLQXMzY2wwZ3JLUG8xbFhhMm9VMWl3am53RWhtckpkWUZQSVNyLUVmVVZ3TGluTl9DNDk0SG43c0xhdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fbc7a2dba452",
-      "title": "Nasa team discovers secret ingredient that powered ancient life on Earth - India Today",
-      "published": "2026-05-06T06:05:36+00:00",
-      "summary": "Nasa team discovers secret ingredient that powered ancient life on Earth&nbsp;&nbsp;India TodayBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureEarly Life On Earth Relied On A Surprisingly Scarce Metal: Molybdenum&nbsp;&nbsp;astrobiology.comNASA-backed study links molybdenum to early life chemistry on Earth&nbsp;&nbsp;NewsBytesEarth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old ",
-      "sources": [
-        {
-          "name": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbm1Db01Rd2xFaDVBRVdFNnNWQWZSTVAtTmxOc0ZidXdFUnZzZDByN2pDMVNXMGhnTDZLMWF5bzFMcWEwdm1Mb1NRN0I4ZXBkdmoxZ1N2N0Q3d2lDVEpnUVdBR19WNzRkaDRCOEFnaVl2VFdwSkphU3J0dWlfYU5XakFwbEJCZ0xCUmdmeDVNTWhwZm1PeFBSRnFRSkRPNU1ZbF9sNmVGU0lQUlRZLWlHSzRoNEh6dkhIQ2Zlb1QwdWpXWTREN0Ita3F4RlNvd0VKS2dzN2RMNTh3d9IB3wFBVV95cUxNNXNSNU9yeXRDNVBKT0VKQ3IyeUI1WEE3VWtHR0g5MFV6eDU3T2pZdmlLVkloQmRtcUV1V3ZkX2ItUUxRNWRkM3JMQ0FySUpHQlVNT21Fa1NqTS1aMDRyLTl0WUtjVkthUWRGcTFHVFBxZmo3Y3ZBRVdDU3JSY3plZnZmLWNEU2lUMVRFRUZKWVUwOC1YX2wzNnk2cjRaWjJVbWwzZ0U3U1hTUGw0bjQ0TEYtWEYyaVB2Z0ZaRWJRaU00VmZES3l1OEh4T3kydGRZdE5PM25id3lKUTVQQTlB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4bc7361c3ced",
-      "title": "Researchers develop carbon-free analog for iron - The New Indian Express",
-      "published": "2026-05-06T04:12:06+00:00",
-      "summary": "Researchers develop carbon-free analog for iron&nbsp;&nbsp;The New Indian Express",
-      "sources": [
-        {
-          "name": "The New Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkRZaGkxRl9SNy0tdXl1YVEzQ3g3SHBpQ2JUZmd6b25HWGM0SUJndjZseWpybnItdXpaQVJFTE5CMHRiNWQ5SnVhcWdhTDJaemNLZXdjdXgzV0kySDdlRmZfYjZJMUpHRFdEUHViSExxOEp3TGM5aFhNTjYyWEtkeVdOdnZyc0hfVUFEZ3FqUkdXWDJqd3gwTldCdHdXLXhDOWtRR21ST3JRbk5zMUHSAbsBQVVfeXFMTlV3NVFRYWVvN2l5OThaNkR2MElUeUdfRWQyaUo3Sk05TnNMZFhKTnRQVjJHMVMxeEVrdHpsR0VhSzZGWjNiYWwtQm8zbmFhaks2U3hyR0J2bmxOS2dqazFjM3NIUFJydVNSUmhGeWRmSUUxaFVzSEFlbTIzRXJpQUM0bVFkSnljRGFNbmtWTGFIZnBXSWYxZHJXTFpLdlFMQUpiVE1qWWM0Sk9lYmVKQ2RZSk5pQXREYk51RQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af184664821b",
-      "title": "Frailty, Not Age, Drives Risk With SGLT2, GLP-1 Meds - Medscape",
-      "published": "2026-05-05T20:26:46+00:00",
-      "summary": "Frailty, Not Age, Drives Risk With SGLT2, GLP-1 Meds&nbsp;&nbsp;MedscapeChoosing Safer Diabetes Medications for Older Adults | Newswise&nbsp;&nbsp;NewswiseEncouraging Short-Term Goals for Older Adults With Diabetes&nbsp;&nbsp;MedscapeDiabetes Treatment After 65: Study Finds Newer Meds May Be Safer For The Elderly&nbsp;&nbsp;ETV Bharat",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZVVPSXhrMVZCaFJBRUpHUzlnZHVRMTRzWUlYS2RPZ2hGREdqUnNUT2ZHMS1xX192eVc2QkJwT1FoVDM0UUhmcUFyWVFKa00tc3U0emNlSk5keWRmb1h4MzlsSkd2bnVMbUJSVE11MGlSMUgxMEY3dUZ1aFpaRHlPclZMTjFLV3RRdWxLYklDLVh3eS1LZXlMYllrZmdVUVZ3ZHNFaThDYXpGYTRpVGc?oc=5"
         }
       ]
     }
