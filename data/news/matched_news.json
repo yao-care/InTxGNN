@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-08T01:30:39.246966+00:00",
-  "total_count": 32,
-  "matched_count": 19,
+  "last_updated": "2026-05-08T07:11:32.011092+00:00",
+  "total_count": 36,
+  "matched_count": 21,
   "news": [
     {
-      "id": "671989d5b5f7",
-      "title": "Biggest Black Holes Built Up In Busy Star Clusters After Series Of Violent Merging Events - Eurasia Review",
-      "published": "2026-05-07T22:22:14+00:00",
-      "summary": "Biggest Black Holes Built Up In Busy Star Clusters After Series Of Violent Merging Events&nbsp;&nbsp;Eurasia ReviewThese monster black holes did not form the usual way—their history of violence is written into spacetime ripples&nbsp;&nbsp;Phys.orgHow do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceStudy links biggest black holes to repeated cosmic collisions&nbsp;&nbsp;Courthouse NewsEvidence for a 'forbidden range' of black hole masses emerge",
+      "id": "dc3a57d2c1cd",
+      "title": "Measles crisis deepens in Bangladesh; 12 child deaths reported in day - News On AIR",
+      "published": "2026-05-08T04:55:00+00:00",
+      "summary": "Measles crisis deepens in Bangladesh; 12 child deaths reported in day&nbsp;&nbsp;News On AIRChild deaths mount from Bangladesh measles outbreak&nbsp;&nbsp;DawnBangladesh measles outbreak worsens as 12 children die of measles and related symptoms&nbsp;&nbsp;Daily Excelsior7 More Deaths from Measles and Symptoms Nationwide&nbsp;&nbsp;Bd24liveBangladesh faces measles testing crisis amid kit shortage&nbsp;&nbsp;THIP Media",
       "sources": [
         {
-          "name": "Eurasia Review",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQmd6dDllNmY4YWRrVnNnRmRyVU1sMmdPU1otWnM4cDRWVGZ3bmRFWDhaSzN5S1dFQjAwdnhKWHFSQ0hQamQ5N2tibU5nVlhXWHd5b0RvaWdxLWdQMDZYQkxUaG5zenZqVzJzV0V0SjNWdEl4U2x3WEFsZm83UEZSUExLSXItWVBhelhoZDQxb3Z6N0EyX1kzQ09EZ29JUFNmRVpwVHN5WXFvR21vTWFTV0FBLTZMQnk4dnV3RHRQdmpzSE1fRVR3Zw?oc=5"
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmY2VzY1ejlOSFNNUjJ4VUI4dDRTdEVnemxlenZpZVdxUV80MVJMV2VBQV9BaHQtUWFmZWE5V1NnM093ZEljdGFiWjgtY210M3FjSVFDSDJyWnBtblE1X3RMLUhOX3Z5WG0tWFVIWk90dlpXcWxjS3otOHR3dmJyaUxDMXZpMy1yS3NNcWhzZGphbHpCYnY0d1p6Y3dvTDQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -20,6 +20,161 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4619",
+          "name": "measles",
+          "keyword": "measles"
+        }
+      ]
+    },
+    {
+      "id": "ec76b4e0c6dc",
+      "title": "WHO South-East Asia Region advances vaccine and immunization research preparedness for future outbreaks and pandemics - World Health Organization (WHO)",
+      "published": "2026-05-08T04:01:28+00:00",
+      "summary": "WHO South-East Asia Region advances vaccine and immunization research preparedness for future outbreaks and pandemics&nbsp;&nbsp;World Health Organization (WHO)",
+      "sources": [
+        {
+          "name": "World Health Organization (WHO)",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWmlhZzJwVWJWNlhCUE85dGEtdkJRUGgzamdndjJJcElyMlRUQXdLeDFlY3JDMTZjYlpqRGZXNTN2V1BqNmczUlBQMnpPOHZoVWlVcGM5WTM0dlRJeFk1NXBrT3dRMlJuNnI5MEtlN2xyMWk0cXRBbTdvNmp5bkFQNWpXUW5WMFhnalEwU2czSlRqbXZDLUJsOGVaMVF6MG9RZUJXNExOSmJNY0lTbXlzd2xuOUx5OG9PWFFqM3NwTEc4WFA2MjMxdm9IQmdaT2oyQ0dzTF9WZ3AzOE1Ca0lkbC1rMHd2V2FoRG9IQkcwTEk0N2RZVzRWOFJpbFpDck5qaTE4QQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d08d490d03a7",
+      "title": "NASA, SpaceX to launch new resupply mission to space station",
+      "published": "2026-05-08T03:48:15+00:00",
+      "summary": "NASA, SpaceX to launch new resupply mission to space station&nbsp;&nbsp;news.cgtn.comNASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival&nbsp;&nbsp;NASA (.gov)SpaceX Dragon To Deliver 6,500 Pounds Of Cargo To Station&nbsp;&nbsp;Quantum ZeitgeistNo Florida rocket launches for week of May the 4th. When the next one will be&nbsp;&nbsp;Florida TodayNext SpaceX launch is not for a week: Why Florida rocket launches are quiet&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "news.cgtn.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVpSblFDZTF0UUlwcW5NTkVrYTEwS29pX191ZzJTMVlaVmRCWXRmNG5XaVRTMXMxSnZMSEx5bTlYcjZVX2JwYklSN2VTWGFiT1JoV1hVZW1xb2dsdTh2cklvY3FvOHFMekJ1cVgwS19QUWFhZXRqRmx4eW1RaWRXVVBBVU8tcFAtR0IxS19EcVVRYVpPdUtqZXZRc2N4cllGMW50UWVvLUYtcmNJTlBhZ0dKOHZSYWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1945731b1013",
+      "title": "Prognostic significance of PET/CT false-positive cervical lymph nodes in head and neck cancer",
+      "published": "2026-05-08T03:32:07+00:00",
+      "summary": "Prognostic significance of PET/CT false-positive cervical lymph nodes in head and neck cancer&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jSWJDV3h6blc0V0wyeVNkcEJXcTFEMkZhNU0yM3VfT0xXdkVWdUhvYlFFbHdpM2RBYUdyRDZIY3Riai1VM3hydFREQWRTbXBZQ001ei1Ea0w1cWNVZW9n?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03384",
+          "keyword": "fica",
+          "name": "Fica"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5627",
+          "name": "head and neck cancer",
+          "keyword": "head and neck cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
+    {
+      "id": "ffef99fe2bd0",
+      "title": "Two Indians aboard cruise ship hit by deadly Hantavirus outbreak - The Times of India",
+      "published": "2026-05-08T03:29:00+00:00",
+      "summary": "Two Indians aboard cruise ship hit by deadly Hantavirus outbreak&nbsp;&nbsp;The Times of India2 Indian nationals part of crew of luxury cruise ship that reported hantavirus outbreak&nbsp;&nbsp;The HinduThird British national has suspected hantavirus infection, government says&nbsp;&nbsp;BBC2 Indian crew aboard ship with deadly hantavirus outbreak, their status unknown&nbsp;&nbsp;India TodayWHO Director-General's opening remarks at the media briefing – 7 May 2026&nbsp;&nbsp;World Health Organizat",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeDVsdVEtclMybFJCaG5SRzh0MFJOMmtDV1FmMFF2SmhRcnloZlduY25BcXBqT0U1N1pHbEFXVm53UFFuRUowalI1N0dUVGlzODhsWkZPTXhjUy0taktoaWd5LVJhQklwdkhkSy05UGxoREhxVTktSUNQNTJ4NC1STnBhR1J2Y053YkZZZjc4SkRpdDVqalc5ZHgzbGdjdXBMQ2hLUVpYWHY3WmJtNWJ6c09hRmF5d1lfNElnSS1VOWItUHhIWW1CNEpBc1AzNFVVSjc2VTNNRTd3aGFXS2x3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "818dfe3d1d11",
+      "title": "Chromosome abnormalities may help cancer cells resist treatment and spread",
+      "published": "2026-05-08T02:59:00+00:00",
+      "summary": "Chromosome abnormalities may help cancer cells resist treatment and spread&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0lZdHdza1Z5R1NxYzI2UVBEUVN2eXNjXzRpcEJabmhMZ01NWW5JV3IzM0VFME0tbVUzMG5VZV9xTWpwZXIxaUpTd1ZSd3E5V25iWHlsWmYxYzBWVHZyNGN5VEMzaEhYNEZjZ2hiRTJBVGFtVmlxRU9lcDhiTGJRdnlsZ2tfRHN4YVpBd1RGMFpJbGFmR2RUbW02RzRfazVfMHI3ZC1NWW1xMWpENktSdVNwN2VTdWJOS3BHMXhmMA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
+    {
+      "id": "7be3aade1056",
+      "title": "Study reveals how magnetic stimulation repairs depression-related brain circuits",
+      "published": "2026-05-08T02:53:00+00:00",
+      "summary": "Study reveals how magnetic stimulation repairs depression-related brain circuits&nbsp;&nbsp;News-MedicalRepetitive Transcranial Magnetic Stimulation for Major Depressive Disorder: Clinical Evidence, Neurobiological Mechanisms, and Treatment Perspectives&nbsp;&nbsp;CureusMagnetic Pulses Restore Brain Circuits to Treat Depression&nbsp;&nbsp;Neuroscience NewsScientists finally see inside the 'black box' of depression treatment&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOGJsSXF1aUNyZHZmQ3dhcERuVjNqU192aDVneWltd2ZCbjkxTUU5TnB3djlDVnRaVVhKMGlUQkhDdkU2QnVwV2VlZi12bjFlZzBUSUM4M0JvVzNiMXJDaHIzNmhLNHpZOWlqS0stdk16Rk50ak01Q0NzaW9DMDR6U1BQaS1SRDJMR3pzbDZET1BxbjJNd0R2cXpnMGpkN0hldzBBYURENm84clR2c1NLbkhLcllSZVpjbzJ2XzRRX3RrZTV2UEFj?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "2009_12050_12100",
+          "name": "major depressive disorder",
+          "keyword": "major depressive disorder"
+        }
+      ]
+    },
+    {
+      "id": "d962c91c3964",
+      "title": "Health experts urge caution around rodent droppings - CTV News",
+      "published": "2026-05-07T23:40:27+00:00",
+      "summary": "Health experts urge caution around rodent droppings&nbsp;&nbsp;CTV NewsDogs and cats can be infected by hantavirus, but can they spread it to humans? What every pet owner should&nbsp;&nbsp;The Economic TimesHantavirus symptoms and World Health Organisation's take on the respiratory illness&nbsp;&nbsp;The TribuneArmando D. Meza, M.D Chief of Infectious Diseases, Texas Tech Physicians of El Paso Can Speak on Hantavirus | Newswise&nbsp;&nbsp;NewswiseHantavirus Symptoms, Prevention and Treatment&nbs",
+      "sources": [
+        {
+          "name": "CTV News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHd4Z0NzMjQ3NjBKb0VUM1ZVYkg3akN3OHJFV3BPSlFpNmR0S3VuUFVETFVZQlJrQTZwNUl6dVpNY2U1bVdJcXZmaWNIWEdiSXlLNFVxREFQWWhXcDJDU1ZEM19HZXU0YlBMbm40eUUzU2sxNDI2VXQ2X2xHNFQ1cnJhWmRKSjVyWmg3VlNqQ2w4bVUzNlBz?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "5113_5550_5108",
+          "name": "infectious disease",
+          "keyword": "infectious disease"
         }
       ]
     },
@@ -50,27 +205,14 @@
       "matched_keywords": []
     },
     {
-      "id": "13f679ad2a74",
-      "title": "Researchers synthesize uniform nanocrystals from five distinct metals - Interesting Engineering",
-      "published": "2026-05-07T18:07:00+00:00",
-      "summary": "Researchers synthesize uniform nanocrystals from five distinct metals&nbsp;&nbsp;Interesting EngineeringFigure 3. Schematic illustration of multicomponent nanoparticle formation via competitive reactivity and its application in hydrogen catalysis&nbsp;&nbsp;EurekAlert!Researchers Combine Metals To Build Better Nanocrystal&nbsp;&nbsp;Mirage News",
+      "id": "65e04dd1c38b",
+      "title": "Biggest black holes built up in busy star clusters after series of violent merging events, research finds",
+      "published": "2026-05-07T17:38:00+00:00",
+      "summary": "Biggest black holes built up in busy star clusters after series of violent merging events, research finds&nbsp;&nbsp;EurekAlert!These monster black holes did not form the usual way—their history of violence is written into spacetime ripples&nbsp;&nbsp;Phys.orgHow do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceStudy links biggest black holes to repeated cosmic collisions&nbsp;&nbsp;Courthouse NewsThe Universe’s biggest black holes may be forge",
       "sources": [
         {
-          "name": "Interesting Engineering",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ09Zb0ZoTl9jZ3JDYmRkbnJ6bjlGaEU1TXViNTRzUVpEOHVPbXdZaGdLMllEd0ZKUEoyamk5SnhVNHBwZjVFQW85ZWtYUVdZUFdnS0dSdHVNU1NIZ1E5WkpubUtpdzJiaWRsb2xEYWNxdDk1MEFHNFctem05LVFnZXhrdUgzOHpuQUZIeG5oeHJnbHM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "695fe024e232",
-      "title": "WHO confirms five hantavirus cases linked to cruise ship outbreak - News On AIR",
-      "published": "2026-05-07T16:51:34+00:00",
-      "summary": "WHO confirms five hantavirus cases linked to cruise ship outbreak&nbsp;&nbsp;News On AIRHow worried should we be about hantavirus?&nbsp;&nbsp;BBCWHO says now five confirmed cruise ship hantavirus cases&nbsp;&nbsp;The HinduU.S. Health Authorities Monitor Hantavirus Cruise Passengers in Georgia, California and Arizona&nbsp;&nbsp;nytimes.comInside the Global Effort to Figure Out Where Hantavirus Will Strike Next&nbsp;&nbsp;WSJ",
-      "sources": [
-        {
-          "name": "News On AIR",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPelp4eW55dGZFMzZKTmJnb2Z6bzZZdUFLV282RVVTMFY5a0M4eXVsSjg0V3FoMU5TeG9hb1VzcGh1MEZEeGxtYlhDUGhsODIyZm52bHh1ZVJ6TEhDVWxCMDBFN0JvY2UzcFpFMmJMeVVjeFlnU1ZZNVZ5WnhqYUhQQ3Qzdkpvc05MSTVoZnN5Zm16anZsemFlbTF3UQ?oc=5"
+          "name": "EurekAlert!",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10dzI3eHpmVGVMS3JTMFBhNlBSeDFVQlFRaUl1VWZSLWZXUE1Zekd0NkNMeC1UN2lPUlo5aThsYThGNXE0Nm1mQy1vcUpxLW9VTWd6aW01TC1pa3ZZ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -103,10 +245,30 @@
       ]
     },
     {
+      "id": "6b749e67ec72",
+      "title": "Earth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old Fossils - The Daily Galaxy",
+      "published": "2026-05-07T15:45:00+00:00",
+      "summary": "Earth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old Fossils&nbsp;&nbsp;The Daily GalaxyBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureNasa team discovers secret ingredient that powered ancient life on Earth&nbsp;&nbsp;India TodayEarly Life On Earth Relied On A Surprisingly Scarce Metal: Molybdenum&nbsp;&nbsp;astrobiology.comNASA-backed study links molybdenum to early life chem",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16YVl0TjNJUDQtYjl3X2s0T2x4bWJpbmdzMTg2MWVqMXNULVducllNcFlIcW1Pa1NCeEZvTVdlR0JPT19ES2NWRF9naGJaYWk5WDJKWXRPOUlJdUZ2cmdoeXpBNnFEXzItcWJPZVJTS2JmUnVy?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
       "id": "9870fa3ee763",
       "title": "Chinese-led supercomputer simulation recreates 13.8 billion years of cosmic evolution - TV BRICS",
       "published": "2026-05-07T13:04:07+00:00",
-      "summary": "Chinese-led supercomputer simulation recreates 13.8 billion years of cosmic evolution&nbsp;&nbsp;TV BRICSChinese-Led Researchers Release Largest-Ever Cosmological Simulation&nbsp;&nbsp;HPCwire2.5-Petabyte Universe Simulation Recreates Cosmic Evolution in Unprecedented Detail&nbsp;&nbsp;HotHardwareHow do you study something you can never step outside of?&nbsp;&nbsp;Universe TodaySupercomputer reconstructs evolution of the universe&nbsp;&nbsp;China Daily",
+      "summary": "Chinese-led supercomputer simulation recreates 13.8 billion years of cosmic evolution&nbsp;&nbsp;TV BRICSScientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies&nbsp;&nbsp;SpaceSupercomputer reconstructs evolution of the universe&nbsp;&nbsp;China Daily - Global EditionChinese-Led Researchers Release Largest-Ever Cosmological Simulation&nbsp;&nbsp;HPCwire2.5-Petabyte Universe Simulation Recreates Cosmic Evolution in Unprecedented Detail&nbsp;&n",
       "sources": [
         {
           "name": "TV BRICS",
@@ -191,7 +353,7 @@
     {
       "id": "bef6bbffb4b6",
       "title": "Host oxidative stress primes mycobacteria for rapid antibiotic resistance evolution",
-      "published": "2026-05-07T10:52:30+00:00",
+      "published": "2026-05-07T11:41:30+00:00",
       "summary": "Host oxidative stress primes mycobacteria for rapid antibiotic resistance evolution&nbsp;&nbsp;Nature",
       "sources": [
         {
@@ -205,7 +367,7 @@
       "id": "6c6a77f94fa0",
       "title": "How AI Could Help Cure Pancreatic Cancer - Derek Thompson | Substack",
       "published": "2026-05-07T10:07:48+00:00",
-      "summary": "How AI Could Help Cure Pancreatic Cancer&nbsp;&nbsp;Derek Thompson | SubstackMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkPredictive Cancer AI&nbsp;&nbsp;Trend HunterAdvanced AI holds promise for high-stakes healthcare, studies show&nbsp;&nbsp;Healthcare IT NewsMayo Clinic’s REDMOD AI Doubles Early Detection Sensitivity in Pancreatic Cancer&nbsp;&nbsp;Inside Precision Medicine",
+      "summary": "How AI Could Help Cure Pancreatic Cancer&nbsp;&nbsp;Derek Thompson | SubstackMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkPredictive Cancer AI&nbsp;&nbsp;Trend HunterAdvanced AI holds promise for high-stakes healthcare, studies show&nbsp;&nbsp;Healthcare IT NewsNew AI model spots pancreatic cancer up to 3 years earlier than human doctors in test&nbsp;&nbsp;Live Science",
       "sources": [
         {
           "name": "Derek Thompson | Substack",
@@ -234,19 +396,6 @@
       ]
     },
     {
-      "id": "9d023374e089",
-      "title": "Why your health insurance won't cover the true cost of ageing",
-      "published": "2026-05-07T09:32:26+00:00",
-      "summary": "Why your health insurance won't cover the true cost of ageing&nbsp;&nbsp;Mint",
-      "sources": [
-        {
-          "name": "Mint",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVkc0QWJPN2tlUkE1N2tSLTRxUENBSFk1QUVvbUxIaVhxY0lPRHlXLXR3NG8wRE5JXzFMdEVHb3MtUlRKYndCbTZWc0dnYVc2S2RrTk9mbjJiVXUxaU5zTkFvNTM3aWMtZndScW5HUmpTc0FmTVVNRXNaY2FQVDFDQ2JNOElBUC1PaEpQdDR3aTlHdGIzN1BoaDNRQldEa0ZqYnV0YVpfNWRZd2ZsMHBUaWh2ZjdKeGkzVDJ0VDdaZ9IBxAFBVV95cUxNNWsweTM1UHU0WFQ5S3pfd0p5cDQyUUZEX29iX2hjdFNxdHZnNG5lZjZUaU5QZ1JFUDlMZ0NWdHpZNzR5bEJUOE9lM1RRREtSb1A0dFFaenJwc2tnMDk2Q2p5dkF0aHZKTVNkN295RjdqQlJhU2dyRlR2V0NTdHlHS1N1amFsc3F5TFVKX1JiZnI2QkZOcmJ0R1huVTB5bEdHQ3RUVlZrTGZ5ZklKZ2NKTGNPUm0wY0xFbGUyMHp6aG5ESW9P?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "4862a6b7abfe",
       "title": "Researchers’ novel device could boost the development of sound-based lasers - Technology Org",
       "published": "2026-05-07T07:00:00+00:00",
@@ -263,7 +412,7 @@
       "id": "d2802e28a27c",
       "title": "Ultra processed foods linked to higher cardiovascular disease and death",
       "published": "2026-05-07T05:40:00+00:00",
-      "summary": "Ultra processed foods linked to higher cardiovascular disease and death&nbsp;&nbsp;News-MedicalHeart Health: Eating more ultra-processed foods may raise heart disease risk by up to 19%, says major European report&nbsp;&nbsp;The Times of IndiaCook more at home to reduce ultra-processed food intake, say cardiologist groups&nbsp;&nbsp;The GuardianUltra-processed food: why the debate needs less fear and more clarity&nbsp;&nbsp;The ConversationNo One Can Define 'Ultra-Processed Food.' Why Is RFK Jr. ",
+      "summary": "Ultra processed foods linked to higher cardiovascular disease and death&nbsp;&nbsp;News-MedicalHeart Health: Eating more ultra-processed foods may raise heart disease risk by up to 19%, says major European report&nbsp;&nbsp;The Times of IndiaCook more at home to reduce ultra-processed food intake, say cardiologist groups&nbsp;&nbsp;The GuardianUltra-processed food: why the debate needs less fear and more clarity&nbsp;&nbsp;The ConversationFood Industry Sees a Threat in Kennedy’s Push to Define ‘",
       "sources": [
         {
           "name": "News-Medical",
@@ -306,26 +455,6 @@
           "disease_id": "generic__heart_disease",
           "name": "heart_disease",
           "keyword": "heart disease"
-        }
-      ]
-    },
-    {
-      "id": "3f6e0f278362",
-      "title": "Bangladesh faces worsening measles outbreak as shortage of diagnostic kits disrupts testing - News On AIR",
-      "published": "2026-05-07T05:16:09+00:00",
-      "summary": "Bangladesh faces worsening measles outbreak as shortage of diagnostic kits disrupts testing&nbsp;&nbsp;News On AIRBangladesh measles crisis deepens after outbreak kills 12 children in 24 hours; death toll reaches 336&nbsp;&nbsp;Telegraph India“I feel so guilty for not vaccinating my child when I had the chance”&nbsp;&nbsp;UnicefMeasles Outbreak and Infantile Deaths: How the Interim Government Ignored UNICEF and Invoked Tragedies&nbsp;&nbsp;dailyasianage.comFix the testing gap, contain measles&nb",
-      "sources": [
-        {
-          "name": "News On AIR",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXQxVW1saXIxNDRrOWtBLVZyaXV4cURGcTY2TV84ek5tazZ2cU1UQ3pGYmcyLXo5Ni11MzJlUU0yUVpmeXZRNHVwa2M4SjlVMlc4clBMOEVmWTUxWmpFazZIYUJGQmliTjAwbGpRZ28zMHcxNmJxdEZKV0ZweHBTVHM0d3J0bzV6ZjFYZXFwRENEam1yaTZMbVQ5aE5CaHZNUEZkd05PMmRKMkRDZ0prN0RWYXU0cVJXLW9jOHNB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "4619",
-          "name": "measles",
-          "keyword": "measles"
         }
       ]
     },
@@ -456,7 +585,7 @@
       "id": "90cc45ce0523",
       "title": "New blood test predicts illness progression and treatment response",
       "published": "2026-05-06T19:03:00+00:00",
-      "summary": "New blood test predicts illness progression and treatment response&nbsp;&nbsp;News-MedicalPredicting trajectories of illness using RNA velocity of whole blood&nbsp;&nbsp;NatureBlood test could help predict disease progression and how well treatment will work&nbsp;&nbsp;Imperial College LondonRevolutionary Blood Test Predicts Disease Trajectories and Treatment Responses&nbsp;&nbsp;Devdiscourse",
+      "summary": "New blood test predicts illness progression and treatment response&nbsp;&nbsp;News-MedicalBlood Test Could Reveal How Disease Progresses, Response To Treatment: Study&nbsp;&nbsp;NDTVWhat went right this week: the good news that matters&nbsp;&nbsp;Positive NewsPredicting trajectories of illness using RNA velocity of whole blood&nbsp;&nbsp;Nature",
       "sources": [
         {
           "name": "News-Medical",
@@ -464,26 +593,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "21a848b76c71",
-      "title": "Early Life On Earth Relied On A Surprisingly Scarce Metal: Molybdenum",
-      "published": "2026-05-06T18:56:31+00:00",
-      "summary": "Early Life On Earth Relied On A Surprisingly Scarce Metal: Molybdenum&nbsp;&nbsp;astrobiology.comBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureNasa team discovers secret ingredient that powered ancient life on Earth&nbsp;&nbsp;India TodayEarth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old Fossils&nbsp;&nbsp;The Daily GalaxyNASA-backed study links molybdenum to early life chem",
-      "sources": [
-        {
-          "name": "astrobiology.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlpBdzdaMWdib0V6OXNZbWVPWkFkNGNRYzJfX2hBMkhMUmFMcGw4WkQ4TUFhMWhuMFJFMV9MVFFQR0tvMDVIeFBSZEhWRGVnOXFFVXVUMDE1Sl8taW9zMk14NFBKM21ycG54ckhFU0YzVzZoeGRHYkFnSjRScXoxaWl6Wl84QWpKTFZiQjJLMExrMG1lOVJOaUhCRmV4UjhVNmtGejdmREQ2Zw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
     },
     {
       "id": "4c0eee7b2ff2",
@@ -494,6 +603,19 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbExhQjBFZzVRd3lHNllzTVF6TEhwQmhNQy1uTDlCM0F6bF80VWNHcUNrZkRjeXhKMW1KR1NaQVprR0g4WDUxb2ZPSC02LVpjQmNFdG5jcXZlQ0hReXEwSkJFcmJJcjBYcUJNeEpSckxoazV6LXNZUVp4SjNEZW1BdS1KVlhKN3lHbjBhUlNaTFlzWWJhTHZaR0FOQmt2VXcxQXNWT3ptU2d5THNsVVlObnc0aTVOS3pjV25zV3ZqVDE1V294bGhlV2JMUk91bXZtS2hzdXJobzV6TG9CTmRadXkyRkVneUJiV1o3N2VfdXhhaDVfZkl0UERYTTBrNGpOU1RHMVpwYzFVaHptWXZ3UXpDaVQwWFFnYUHSAZ8CQVVfeXFMUFBXbnlKUkhpaTJIdTVtZ2tqQUJVYlZBVkJjQTQtQ2Y1aVVYVzNDbVBDNGFYcXAxMU5TbndqVndxZktiUHR3SnVMSWpjVXNiSGpTWkJJNXVpWDlyLXE3c1dSUzJnSmtWVjhETzB1cF9nZ1l5cFFPdG5pVFdJZGZQdW9UWWoyY3JOclhtX2I1QjdiR0dOcS12S3dlTXFUQVZieURoZG9ldENoRFlLV0dpSUhKdDR4eGUxUzZMOWFSTkgxZnpXMS15am1jYUIzaWZfTV9fMzRmSE9EWk9UZjdHMlRxSWMxUGxnY0NRQV9VVmlLdWM2VGFIUEpPTTM1UlhGYzUtenpRR0lFdjZ3QWxLaDFmUjhoUWg5elVWbm9YR0U?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8b069ccdfef1",
+      "title": "An individual participant data meta-analysis of how physical activity relates to affective well-being in daily life",
+      "published": "2026-05-06T16:02:07+00:00",
+      "summary": "An individual participant data meta-analysis of how physical activity relates to affective well-being in daily life&nbsp;&nbsp;NatureRosemary Rits: Sport is a way to clear my mind&nbsp;&nbsp;TalTech",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lX3pkcHhSWnc5RklranlCdmQyTnU4V0l0anRoaUJ2TDI1b1oyTDRBRXFIWTF3ajE0VVk3QVhsNUFnZGllVGpzZkZVcDNjak9naU9Ja3NsQURpOUhrcnFF?oc=5"
         }
       ],
       "matched_keywords": []
@@ -549,14 +671,34 @@
       ]
     },
     {
-      "id": "089b2011d35a",
-      "title": "How insect brains could spark next AI revolution - Yahoo News Singapore",
-      "published": "2026-05-06T13:14:48+00:00",
-      "summary": "How insect brains could spark next AI revolution&nbsp;&nbsp;Yahoo News SingaporeSheffield researchers say insect brains could transform AI technology&nbsp;&nbsp;BBCSynaptic high-frequency jumping synchronises vision to high-speed behaviour&nbsp;&nbsp;NatureTiny insect brain discovery offers a blueprint for faster and more efficient AI and robots&nbsp;&nbsp;Phys.orgResearchers Simulate Fruit Fly Brain Controlling Virtual Body&nbsp;&nbsp;Let's Data Science",
+      "id": "4382af0dbd76",
+      "title": "Topical Steroid Use May Increase Type 2 Diabetes Risk",
+      "published": "2026-05-06T13:04:29+00:00",
+      "summary": "Topical Steroid Use May Increase Type 2 Diabetes Risk&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "Yahoo News Singapore",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GMkpNSkZxYzNob05XVjdfVzRRQzRWdWFmanZkaS02SG5jOHljTk5COEtuQXk1clBzMXByeXRQaWFzSU9KZm95LVFsQVNXYXlmcU5EOF91WFBCTUR2SVU4cDRIRDl6WXNOQ2tjLU1HbTJEaXlzUW55VXR0NA?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaF93NE8yYjI3cjZiQUItRHpkT2RYdzlQbU11OEYtWGVLaTh1WHZSUG9HTy1JTTN3cG84eE9mT0hTSEQ3Nm5fbU9YWG5JVjhPZE4xMEs0dlJhVjkybUREcm5aVWhRRDIwX1VZcXJYcE10cS1zOWpTSUg3S252WTh2dHl6eXNqdHRobnFSdHdZZTlJaU44UVR6eV85MVRTRGM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "generic_diabetes",
+          "name": "diabetes",
+          "keyword": "diabetes"
+        }
+      ]
+    },
+    {
+      "id": "be67e6ced7ae",
+      "title": "World Health Organization Gives Stamp of Approval to First Malaria Treatment for Young Infants - Health Policy Watch",
+      "published": "2026-05-06T12:45:41+00:00",
+      "summary": "World Health Organization Gives Stamp of Approval to First Malaria Treatment for Young Infants&nbsp;&nbsp;Health Policy WatchProtein Folding, Parasites & Malaria Breakthroughs 2026&nbsp;&nbsp;Frontline MagazineFirst malaria drug for babies is approved in ‘major public health milestone’ | Global development&nbsp;&nbsp;The GuardianWHO approves first malaria drug for infants under 6 months | Coartem Baby contains two antimalarial drugs | Inshorts&nbsp;&nbsp;InshortsWHO prequalifies world’s first ma",
+      "sources": [
+        {
+          "name": "Health Policy Watch",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWRVdFNKSDM0dVpZZXJ3MXhTWlRUVGx3SmVqSTFnUmpEUVpUMDRHSkpQbjBHZ05wUzJZd3ZtZjVZUEpmVzFTSzhyZXp2YzUyeXJXdDdEcDVXWVplWkhrOWxpblZLOUxCODE4TWRWWkpJclk3bHFsX3ZQNmdrMEJneTVBbndMbnIzaTA4dGZWUHAtd2hLTnFhTWVPb29vOENiV3VxS2k3aUhDQUg1T1E?oc=5"
         }
       ],
       "matched_keywords": [
@@ -565,21 +707,7 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "be67e6ced7ae",
-      "title": "World Health Organization Gives Stamp of Approval to First Malaria Treatment for Young Infants - Health Policy Watch",
-      "published": "2026-05-06T12:45:41+00:00",
-      "summary": "World Health Organization Gives Stamp of Approval to First Malaria Treatment for Young Infants&nbsp;&nbsp;Health Policy WatchProtein Folding, Parasites & Malaria Breakthroughs 2026&nbsp;&nbsp;Frontline MagazineFirst malaria drug for babies is approved in ‘major public health milestone’ | Global development&nbsp;&nbsp;The GuardianWHO prequalifies Novartis' antimalarial Coartem Baby for treatment of newborns and young infants&nbsp;&nbsp;Manufacturing ChemistWHO approves first malaria drug for infa",
-      "sources": [
-        {
-          "name": "Health Policy Watch",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWRVdFNKSDM0dVpZZXJ3MXhTWlRUVGx3SmVqSTFnUmpEUVpUMDRHSkpQbjBHZ05wUzJZd3ZtZjVZUEpmVzFTSzhyZXp2YzUyeXJXdDdEcDVXWVplWkhrOWxpblZLOUxCODE4TWRWWkpJclk3bHFsX3ZQNmdrMEJneTVBbndMbnIzaTA4dGZWUHAtd2hLTnFhTWVPb29vOENiV3VxS2k3aUhDQUg1T1E?oc=5"
-        }
-      ],
-      "matched_keywords": [
+        },
         {
           "type": "indication",
           "disease_id": "5136",
@@ -611,26 +739,6 @@
           "disease_id": "11786_5324_24332",
           "name": "allergic rhinitis",
           "keyword": "allergic rhinitis"
-        }
-      ]
-    },
-    {
-      "id": "6adfd1227c2e",
-      "title": "Single-Dose Rabies Vaccine Shows Strong Year-Long Immunity",
-      "published": "2026-05-06T10:04:12+00:00",
-      "summary": "Single-Dose Rabies Vaccine Shows Strong Year-Long Immunity&nbsp;&nbsp;EMJOxford develops 'game changer' single-dose rabies vaccine&nbsp;&nbsp;Oxford MailSingle-Dose Rabies Shot Shows Promise in Tanzania Trial&nbsp;&nbsp;Science AfricaOxford study shows promising outcomes for new single-dose rabies vaccine&nbsp;&nbsp;Rayo",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWk03alNyUENuUWhnbWNNa3hveVk0RXc2VWx0aWdsWTFlbmpoZ2dIRkh1bFd4MDNLODA5dmJzYUV0VVotaXpUWlJBWG1ReWJsT3NRN2hzdk1oM1EtM0FtQ2tYQTJNYXdwQkwtaEdKaTljQlNiT2dCS3BSMkhPcjFMajhJRUZvbDEwVHplVDdvbGZHd2hQdHdRbHE3d29fb0Q3ZVkzbUgyTi0yakI5SHNrYXI4T3QzQkFRM3RydWF2ajhKZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "19173",
-          "name": "rabies",
-          "keyword": "rabies"
         }
       ]
     },
