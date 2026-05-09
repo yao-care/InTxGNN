@@ -1,15 +1,27 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-08T18:59:57.247518+00:00",
-  "total_fetched": 73,
-  "unique_count": 73,
-  "health_related_count": 25,
+  "fetched_at": "2026-05-09T01:27:48.508938+00:00",
+  "total_fetched": 88,
+  "unique_count": 88,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "adcd16fb63eb",
+      "title": "Optical Brain Research Pushes Smaller Implants, Sharper Imaging - All About Circuits",
+      "published": "2026-05-08T20:00:00+00:00",
+      "summary": "Optical Brain Research Pushes Smaller Implants, Sharper Imaging&nbsp;&nbsp;All About Circuits",
+      "sources": [
+        {
+          "name": "All About Circuits",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGNQaUx2THJCdG9pcUtlS25mMmdBNVp1cXFwMm1MLUpxTHBMNU9YTEFGOVVhenVMQlA1NERQdER5R1VYN2c3WUJnbnZObnpNVDFxMkZQaDUtTE4xNllaMEd2cU13cVlleDNMc3JERm5jSFowV2dYSk1qdUFDTllqT0JmOGRaTXJsenlweGpmS1EtZnFFck5lQUZVQ284eENoUnc4UkdiRms?oc=5"
+        }
+      ]
+    },
     {
       "id": "fb34cc876e34",
       "title": "Scientists discover a new way to prevent gum disease without killing good bacteria: Study - ANI News",
       "published": "2026-05-08T17:54:00+00:00",
-      "summary": "Scientists discover a new way to prevent gum disease without killing good bacteria: Study&nbsp;&nbsp;ANI NewsScientists discover a new way to prevent gum disease without killing good bacteria&nbsp;&nbsp;ScienceDailyInvisible smart bug fights gum disease&nbsp;&nbsp;EurekAlert!Scientists Explore Bacterial Communication to Promote Oral Health&nbsp;&nbsp;SSBCrack",
+      "summary": "Scientists discover a new way to prevent gum disease without killing good bacteria: Study&nbsp;&nbsp;ANI NewsScientists discover a new way to prevent gum disease without killing good bacteria&nbsp;&nbsp;ScienceDailyInvisible smart bug fights gum disease&nbsp;&nbsp;EurekAlert!Scientists Explore Bacterial Communication to Promote Oral Health&nbsp;&nbsp;SSBCrackBreakthrough research suggests, gum disease can be prevented withouth killing good bacteria&nbsp;&nbsp;The News International",
       "sources": [
         {
           "name": "ANI News",
@@ -18,14 +30,50 @@
       ]
     },
     {
-      "id": "27848972eed4",
-      "title": "NASA tests confirm next-generation Mars rotors can safely break the sound barrier - Interesting Engineering",
-      "published": "2026-05-08T17:43:00+00:00",
-      "summary": "NASA tests confirm next-generation Mars rotors can safely break the sound barrier&nbsp;&nbsp;Interesting EngineeringNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)Watch: New Mars helicopter spins at staggering Mach-1, breaks sound barrier&nbsp;&nbsp;India TodayEngineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaSkyFall helicopter for Mars breaks the sound barrier&nbsp;&nbsp;Universe Space Tech",
+      "id": "22b991f011ea",
+      "title": "Elevated Pulse Pressure Predicts Cardiovascular Risk - EMJ",
+      "published": "2026-05-08T15:03:59+00:00",
+      "summary": "Elevated Pulse Pressure Predicts Cardiovascular Risk&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "Interesting Engineering",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTRVlRYTVUNzkxOS1UaS1RU2J6cS1acklZVE5iajJkNk5GNEtwNTVESnpCbXBkVVY0NGZ2MkEtR2ZRUUxsU1l5VHRMRmM1LV9IdGF5X05TTEpuczZZcmxWbmJCX000bjc3aHU5YklmWlRhMWI2Q1p0UjNB?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXM0SU9MTkJ3VTV0Wml5Tm1xUE82V3ZtWFlGY2xjVkIzQW5MZU5kYU5LXy0wWnhLX0x1dUl3Y2V5c1dYaTFlUWhlbWo5R3gwN0pYLVd5SlU2bV9OSG4wMmxoN1FIMjgybU1wUEhEU0Y3R2lEVzI5bnlHRF9LbkhUZVhBdDdaR0cyWGxWQkdNaXAtblhmbWRYYVBOenQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f6e0f278362",
+      "title": "Bangladesh faces worsening measles outbreak as shortage of diagnostic kits disrupts testing - News On AIR",
+      "published": "2026-05-08T14:57:24+00:00",
+      "summary": "Bangladesh faces worsening measles outbreak as shortage of diagnostic kits disrupts testing&nbsp;&nbsp;News On AIRBangladesh measles outbreak worsens as 12 children die of measles and related symptoms&nbsp;&nbsp;Daily ExcelsiorVaccination gaps fuel worst measles surge in decades in Bangladesh | Daily Sabah&nbsp;&nbsp;Daily SabahMeasles outbreak in Bangladesh: Death toll exceeds 300&nbsp;&nbsp;NewsBytesBangladesh Measles Outbreak&nbsp;&nbsp;GK Today",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXQxVW1saXIxNDRrOWtBLVZyaXV4cURGcTY2TV84ek5tazZ2cU1UQ3pGYmcyLXo5Ni11MzJlUU0yUVpmeXZRNHVwa2M4SjlVMlc4clBMOEVmWTUxWmpFazZIYUJGQmliTjAwbGpRZ28zMHcxNmJxdEZKV0ZweHBTVHM0d3J0bzV6ZjFYZXFwRENEam1yaTZMbVQ5aE5CaHZNUEZkd05PMmRKMkRDZ0prN0RWYXU0cVJXLW9jOHNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4044d9938066",
+      "title": "Govt activates surveillance measures amid hantavirus cases on cruise ship - News On AIR",
+      "published": "2026-05-08T14:27:30+00:00",
+      "summary": "Govt activates surveillance measures amid hantavirus cases on cruise ship&nbsp;&nbsp;News On AIRWHO’s response to hantavirus cases linked to a cruise ship&nbsp;&nbsp;World Health Organization (WHO)Hantavirus ship approaches Tenerife as residents express anger and resignation&nbsp;&nbsp;BBC\"This Is Not Covid, Nor Influenza. It Spreads Very Differently\": WHO On Hantavirus Outbreak&nbsp;&nbsp;NDTVIndia faces no immediate public health threat from hantavirus: NIV chief&nbsp;&nbsp;The Hindu",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzktMDFEVEdXZjVNMWlwcDhTZWZYU2tDYXc0YVoyUHRFMlR6ZEgwR0xqcUxRM1pObDFzNTc3QXVfNTY5MElDXzVJRlhiOGdGbGhBdmlDWmpFYTdmcGNYWFFfSGlxNldzdDZkQl9KanRpTW1pQTdlSVlOb2tsUEh5Nm5kSklNTEphemtLN3NsOGZHVGp0UVFCSlhaMDRpejc2UHM3b0V3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "357576f2ac8e",
+      "title": "BADBIR Study Explores Infection Risk in Psoriasis Care - EMJ",
+      "published": "2026-05-08T13:03:35+00:00",
+      "summary": "BADBIR Study Explores Infection Risk in Psoriasis Care&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkMxR0dDLXVJV0NORGc0T0tlZEVKc2FRTHAzT2ZSMlhqSVpkSUNYWjFNZ1ViT1RpSFY1d2pOOVh1ZTY5VnlHOFduYTR5V3hiWkdRWXhyREVzN1BpcjZXdml2YmFMTmVnS3ZaQzhQR2xGNkd3WDViSFhyeXk4dTVfb2VCbXhaUkh3bjN6bzg2b1lPRzN2Q1VadXdQQ3IyQkN3?oc=5"
         }
       ]
     },
@@ -42,10 +90,34 @@
       ]
     },
     {
+      "id": "a4b994a5ba17",
+      "title": "Promising new Hanta virus vaccine under development by University of Bath researchers - News-Medical",
+      "published": "2026-05-08T12:42:00+00:00",
+      "summary": "Promising new Hanta virus vaccine under development by University of Bath researchers&nbsp;&nbsp;News-MedicalHantavirus outbreak: Bath scientists working on vaccine&nbsp;&nbsp;BBCModerna stock surges on hantavirus vaccine research confirmation By Investing.com&nbsp;&nbsp;Investing.com IndiaModerna Flags Work on Hantavirus Vaccines Before Cruise Outbreak&nbsp;&nbsp;BloombergGrowing fears over Hantavirus: Spanish report reveals the absence of an effective vaccine so far&nbsp;&nbsp;صوت الإمارات",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVnJ0RGJMbGFYc2VlbGtRUm5VRE5DbWRBdGJaRTFRVXpyODR4Q1QxcGVybExkSGdEMlR3ZGRFd2otZXItU1BqU2JManNFUDRhRF9ZdE1sSTJja3JCTWx1RmE5ODNOU0tsYVA3WXhZWWlsVGF2eGtjd3dRdFdRcndDQTF4SWhpSk8waHV0Nm9zdWNRdTIxakphVFBjNUIwMGVhRXhGUC1JSUtSMS05WEZTTTB2ZV9UY2FsbGtialJYbDZZMUVOUjJ0YjlDbkE2dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6df5990de555",
+      "title": "Combining Genetic Scores May Improve Heart Risk Prediction - Medscape",
+      "published": "2026-05-08T12:40:39+00:00",
+      "summary": "Combining Genetic Scores May Improve Heart Risk Prediction&nbsp;&nbsp;MedscapeIntegrated Polygenic Risk Scores Offer Implementable Framework For Predicting CV Traits&nbsp;&nbsp;American College of CardiologyPolygenic Risk Score Predicts Eight Cardiovascular Conditions&nbsp;&nbsp;TCTMD.comThis Single Test Might Reveal Your Heart Risk Decades Before Symptoms Appear&nbsp;&nbsp;YahooNew genetic risk test estimates inherited risk for cardiovascular conditions&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVDZFdVo5d3lVNktZVEJBZWFucVJON2QtVWRyamlHVWxUQTU4WG03UjhOQkY2WHBGMUZGa09fRnd0VGo3dzZVUV84ZkZRX0FkTVBMcEt3WUxyZWp4QlZ4S0Z4LXY0elpnSHJJVHZiNFpsZ0tCb19qekV4a282YlZwaWktUVFlcXdOa09CajVFdmNrM3pKR1NDa0NHcGgxdVF0ZXJ2bHZGZzFjckdQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "850aaec6bb49",
       "title": "The latest AI breakthroughs in structural biology: protein binder design and conformational state prediction - Nature",
       "published": "2026-05-08T11:10:36+00:00",
-      "summary": "The latest AI breakthroughs in structural biology: protein binder design and conformational state prediction&nbsp;&nbsp;Nature",
+      "summary": "The latest AI breakthroughs in structural biology: protein binder design and conformational state prediction&nbsp;&nbsp;NatureStanford researchers develop AI scientists for therapeutic discovery&nbsp;&nbsp;The Stanford Daily‘AI is changing the way we do biology’&nbsp;&nbsp;Stanford ReportSuper transformer aims to bring order to biology's data under one AI model&nbsp;&nbsp;Phys.orgWhat Happens When AI Transforms a Specialized Field Overnight?&nbsp;&nbsp;Yahoo Tech",
       "sources": [
         {
           "name": "Nature",
@@ -54,26 +126,14 @@
       ]
     },
     {
-      "id": "24e04a0ad168",
-      "title": "India faces no immediate public health threat from hantavirus: NIV chief - The Hindu",
-      "published": "2026-05-08T09:38:42+00:00",
-      "summary": "India faces no immediate public health threat from hantavirus: NIV chief&nbsp;&nbsp;The Hindu\"This Is Not Covid, Nor Influenza. It Spreads Very Differently\": WHO On Hantavirus Outbreak&nbsp;&nbsp;NDTVAmericans on hantavirus cruise ship reportedly to be quarantined in US&nbsp;&nbsp;The GuardianHantavirus cruise ship: race to trace passengers who disembarked before outbreak&nbsp;&nbsp;BBCWHO’s response to hantavirus cases linked to a cruise ship&nbsp;&nbsp;World Health Organization (WHO)",
+      "id": "f2740b9cdc00",
+      "title": "Eating eggs regularly reduces Alzheimer’s disease risk - News-Medical",
+      "published": "2026-05-08T11:07:00+00:00",
+      "summary": "Eating eggs regularly reduces Alzheimer’s disease risk&nbsp;&nbsp;News-MedicalEgg Benefits: How Eating Eggs May Protect Against Alzheimer’s Disease&nbsp;&nbsp;The Times of IndiaStudy Suggests Egg Consumption May Be Linked to Lower Alzheimer’s Disease Risk&nbsp;&nbsp;Medical DialoguesAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox NewsBased on an analysis of over 40,000 people for 15 years, regular consumption of eggs, rich in omega-3, choline, and antiox",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmlJbmJsYWlxRmZKMVZveklQRDY4cWFVOUZSYTVCT2xVY1FaaWN5Vl90bnhOcUNZamRreGFJaXFWaHkxY2lkUE85bHRzd1Y4dTJuSXFRcktDTl91eDh6UWhFbnJqVkd0VG1UZ0dxUzNGakl4eU55NjZ6TGhfTVpVYklBRnNDSUxlaGdjRTViUzdwYXJ5TTBJV0duaDBPSFltcGZ1ZHV0a081QUFscWR3SU9EUVJ2U19Uak50aVFiQ1ZPMWVEUm1tZGRZUXLSAdMBQVVfeXFMUDM1bE9fLUVHZkU2ZlpuTmFNSmFDRjc1MFF1eXdLUFFTcEtaS0JHaGlPdmZYSGo4cEo1WkhqaFdUNkRkZk01LXNGaWRLZnNfWm5zMlJPTDRKMGp0SUxlSlVSM1Rlb0pPMVN4NTBWcFJVbkRXbEZrMXZKQmZKUmM5V1pKRVVMYU9sWXQtUHRDYXFrSXRCWVN1djF3THVpazI0Y1ppWkp3Y0c1aU9zV3JKc2x1aGRqTXNqN1FVVjRvT3NySDRkcFdqblVNelZHSDZZNThiUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "55beb67a8201",
-      "title": "New Nitride materials enable electric control of spin states - Tech Explorist",
-      "published": "2026-05-08T09:23:18+00:00",
-      "summary": "New Nitride materials enable electric control of spin states&nbsp;&nbsp;Tech ExploristElectric Control of Spin Could Enable a New Class of Energy‑Efficient Electronics&nbsp;&nbsp;Northwestern UniversityFocused helium ions create ferroelectric regions in aluminum nitride for lower-power chips&nbsp;&nbsp;Tech XploreResearchers discover a new pathway to building energy-efficient computing chips&nbsp;&nbsp;University of California, BerkeleyTwisting atom-thin materials reveals new way to save computi",
-      "sources": [
-        {
-          "name": "Tech Explorist",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWThkRGdVNS1NclVjcTNTdFJPSDBZNjRFVGRDemxpTWJ4QVFXMEVETUVobU02SW05TmV2NWsyZnVGZGh4RkVmdFpOcHhfWUZ5clVUUWNUOWVMTDlMd0VscTdnMVE0MmJPekZyZWFsLXpGUW9JWkFyX0F4RFFKdlB6TEJIQTFHbnFTdHRXbXAzdGNONlFwZTNENTJSbw?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkNmYjAzQWJqWUhHWXlHRUswa2k0N0czRWVGWDNRQTB1N1JHbTh3c2Y2aEx4TEZKNjlUUk1HelhhY0tZVzFwM2NBemg3Y2FWWjBXZTBCeUlLU05SM2NzWEEwYWNGRXQwMjd2bnFzdk90T3AxMmk5RzdXRGtPZjhnTzNVVnVCRmQ5djlWbkgyNTl1Nm5DbHlCSFBWZkk5aDR2NC1PWC1vUG9xbWc?oc=5"
         }
       ]
     },
@@ -102,26 +162,14 @@
       ]
     },
     {
-      "id": "ab4d134727b4",
-      "title": "Is The Brain Born 'Blank' or 'Full'? New Study Reveals a Surprise - ScienceAlert",
-      "published": "2026-05-08T08:12:28+00:00",
-      "summary": "Is The Brain Born 'Blank' or 'Full'? New Study Reveals a Surprise&nbsp;&nbsp;ScienceAlertSee more headlines and perspectives on Google News",
+      "id": "0b21554d7ad5",
+      "title": "The Global Burden of Mental Health Disorders: Interview with Vikram Patel - EMJ",
+      "published": "2026-05-08T08:48:03+00:00",
+      "summary": "The Global Burden of Mental Health Disorders: Interview with Vikram Patel&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV21Ia005cV81R1RWZ3MzbDBNdHliTzZ4YkQzcjBoN3VzOFc2U0xybi1hejJqa0RqdWw3LURMYVk1QmUzcldrbUEyMzd1cExjLTB3bGloSW53U1RjQXVHWFRwNDhra3RaTkEyNkRMR1hoRHVzTktfNGNRdXljRHFUVUxNdHQ4M05EdDlJcTNDcF9zejg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aad6565c804b",
-      "title": "Researchers Link Laws of Physics to the Existence of Life Through Liquid Flow Dynamics - SSBCrack",
-      "published": "2026-05-08T08:10:54+00:00",
-      "summary": "Researchers Link Laws of Physics to the Existence of Life Through Liquid Flow Dynamics&nbsp;&nbsp;SSBCrackScientists make stunning discovery that could change our understanding of the Universe&nbsp;&nbsp;ScienceDailyStudy suggests Universe may be finely tuned for life, scientists say&nbsp;&nbsp;The Business Standard",
-      "sources": [
-        {
-          "name": "SSBCrack",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnR2amdWb0Q2NlVidlIwc0pta05ETGx3MUVsVEc1NW9DbFV0RENCUDc1THA0c1hqRGNqRXJ6R2dNcFFPSkoyWHNxaE5hQWlPS0xseWVEd05iTGp5RmZpbXZiNkNlNlU1aE01SUVldGxRaTVSelkwSEhHdzR6NnJqYTNDVTRRQ2dLd1pFRUZyZzNGaHJhbGJZOTlKYjVQdUtYWl9sTmpBOWtZWm5SbHZFNTdLbw?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHlYNkdpc1pkTTNUS0ZJQ2I4aTZVengwZXI2QUwzUVpCeGdsV29fazlOS1h3ZTdBM0R0UTVOLXNtRDUxaWFOMUppY1kxTjRNajRiTkc0akNSeWFLRVJXSGlZaXlnOE1WZnd1N3V1UmtoQ0NJdkZLaldtY2hfRDBzRQ?oc=5"
         }
       ]
     },
@@ -129,7 +177,7 @@
       "id": "a5dccece4a48",
       "title": "Why ovarian cancer needs a louder voice - The Hindu",
       "published": "2026-05-08T07:26:29+00:00",
-      "summary": "Why ovarian cancer needs a louder voice&nbsp;&nbsp;The HinduWorld ovarian cancer day: Bloating isn’t always normal; early warning signs every woman should know&nbsp;&nbsp;The Times of IndiaOvarian Cancer In Younger Women: Is The Risk Rising?&nbsp;&nbsp;NDTVWorld Ovarian Cancer Day 2026: Theme, History, Importance and Key Facts&nbsp;&nbsp;Adda247Why women ignore ovarian cancer symptoms until it’s too late&nbsp;&nbsp;theweek.in",
+      "summary": "Why ovarian cancer needs a louder voice&nbsp;&nbsp;The HinduWorld ovarian cancer day: Common myths that delay diagnosis&nbsp;&nbsp;The Times of IndiaOvarian Cancer In Younger Women: Is The Risk Rising?&nbsp;&nbsp;NDTVWorld Ovarian Cancer Day 2026: Theme, History, Importance and Key Facts&nbsp;&nbsp;Adda247LINQ Promenade and High Roller to light up teal for World Ovarian Cancer Day&nbsp;&nbsp;FOX5 Vegas",
       "sources": [
         {
           "name": "The Hindu",
@@ -150,18 +198,6 @@
       ]
     },
     {
-      "id": "42f225ddd508",
-      "title": "NASA Tests Plasma Engine for Faster Mars Travel - Adda247",
-      "published": "2026-05-08T05:00:29+00:00",
-      "summary": "NASA Tests Plasma Engine for Faster Mars Travel&nbsp;&nbsp;Adda247NASA Tests Plasma Engine for Mars Travel&nbsp;&nbsp;GK TodayNASA tests 120kW MPD thruster at JPL for Mars missions&nbsp;&nbsp;NewsBytesNASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars&nbsp;&nbsp;NASA (.gov)Genesis AI’s robotic brain aims to give general-purpose robots human-level dexterity&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "Adda247",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnF5WC1YVHlGcGtDSV95RV83N3lqaXltSHJiUlYyemJQNmJGSjNDQ01lczBkeE12dHUwYWUzU1ZQSXl5aVowb3VGdGRsdzlodklod0JiOTRZdmlSZ0ZaTzVHTDlvV2J4TXZYZVp1Tm1idlQ3eEhYN0hUVldnb0JNTjF5dXpHYmJ2ZnVj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "818dfe3d1d11",
       "title": "Chromosome abnormalities may help cancer cells resist treatment and spread - News-Medical",
       "published": "2026-05-08T02:59:00+00:00",
@@ -174,14 +210,26 @@
       ]
     },
     {
-      "id": "2dda9f518e04",
-      "title": "Laser-Printed \"Papertronic\" Circuits Deliver Environmentally-Friendly, Biodegradable Electronics - Hackster.io",
-      "published": "2026-05-07T23:45:54+00:00",
-      "summary": "Laser-Printed \"Papertronic\" Circuits Deliver Environmentally-Friendly, Biodegradable Electronics&nbsp;&nbsp;Hackster.io",
+      "id": "796c7905fea6",
+      "title": "NASA’s new plasma engine could reduce travel time to Mars - The Times of India",
+      "published": "2026-05-07T21:30:00+00:00",
+      "summary": "NASA’s new plasma engine could reduce travel time to Mars&nbsp;&nbsp;The Times of IndiaNASA Tests Plasma Engine for Mars Travel&nbsp;&nbsp;GK TodayNASA tests 120kW MPD thruster at JPL for Mars missions&nbsp;&nbsp;NewsBytesGenesis AI’s robotic brain aims to give general-purpose robots human-level dexterity&nbsp;&nbsp;MSNNASA takes step toward ion engines powered by fission reactors&nbsp;&nbsp;American Nuclear Society -- ANS",
       "sources": [
         {
-          "name": "Hackster.io",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObjJTY2VMSnllamRxQVZNdm5uV3AwcmZPYVhvQ0JIN1ZybUpRVXoxWWxLVFNsb3d3UElJX1RBSWJvTW1vQWZuWU9vQ3ZXbFJHa2tjQ0xQb3pXTTRUaHV3amUyeWh1OUFWUWZPNER4RTFpZDdybGt1QU5FZzNHY3NkQWNEYmdDTU51b2tNMmxxd19vWHFidmhubjBtSDhYX1FNdl9SZ2k4Vm9LTGV4RHpVTEhmMS1OVTBMR2xScU00ME5BbGZ4QUFNQVByU2ROWVA20gHWAUFVX3lxTE1jUlNPWkZoMTRrcFphOUVJR1pQLTkyX0NhRFhkSzVKU2xxTUhkNWxzeWxRM2VSODdpRFkwUTBsMnA4OG02cXpvMTkzeDI4bXFKQk9FdEVlUHJaMXE4TWRqaWZvMXdTeENReW1iZWpsZHg4SmZsUHhvRmtPb2NjVHJHSUJBMUJ2dmhsNFU2enVlSmQyTlJPRGJCRDM4UmFIQjluRV96NVZvd0dOR29KSUE2cWh1d2M3dXV0UkExcjNRZVE1dmYxX1NnbFZjVkwzanN6XzA0eHc?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOejV4ajgtdklLMkItNkd5SDJqeVlxUVhIb3VQdGltcVFXTERFcnl5eXUwVmF5Q3pkM3RSd2h6aC1hQ0lxVERVY0lscDlyQjVaNjMyZ1EzWmRGbVo5Z1ExNkEzZks3NWRSNy12NWU1RzFhQVFER3UxalJmdFA1WVEta3NETXF1X1g3WUloNXdFdThxbl9IQk5UaDM1Y05EYU4yMFlLQU1OXzNCeVlWT1VJeW1UNWNIVERHT3pPbUdFWDh1RU9W0gHKAUFVX3lxTE5SSWJvaWJ1bzhtVnlRNnpPS0Q3WW81TzIzNGt6LTFlWUpiU1A0bDgwSHZBTHFXMlM1WjZpb1NNaFZpX1lVSHJHRHBlOVB2cXJXVjNhUm0xbHgxVm01RUJhOGdLRE9VaE5vS243bEFqd3B1dlVKZ01vZVVhajUyMDQ1RzlSU3hBY0dNMFJXWlRVay1xQzZXOHhzbFJPUmhFamRQQzVSUjhFYU9RcXI3V04wM2VSZG5SdkczdTdpdnBHVnJBclRPMHN6aEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dbc514934041",
+      "title": "From hype to hope: reanimating phage therapy through evidence-based multidisciplinarity - Nature",
+      "published": "2026-05-07T19:11:02+00:00",
+      "summary": "From hype to hope: reanimating phage therapy through evidence-based multidisciplinarity&nbsp;&nbsp;NatureTwo-pronged phage treatment counters resistance in Mycobacterium abscessus lung infections&nbsp;&nbsp;Medical XpressPhage Therapy Revival: Evidence-Based Multidisciplinary Hope&nbsp;&nbsp;Bioengineer.org",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aZTlIUE90YWZGSDRIdmI3dlBraUhJT2VyTmZZRUM0U3NuazEwTEV1VHhxRlRjZEhFV2NCOVp1NWF6WS1WWWJzM2EzeHYtOE1VTnBJX0ctVXpMLWhJSnZB?oc=5"
         }
       ]
     },
@@ -194,18 +242,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rM0VEaW41dThEbjNuUTJEQUNXR283M1d5OWdueVI2b1VwTkxyS0E3WHBIU05mQl9OTTFpeVQxTG9VMGQ2ZGZLaGhOWGFMR0R2cGJOUHVrb2hIOC1Ya3hz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "76e40346f923",
-      "title": "Self-Organizing Laser Beams Accelerate Biomedical Imaging - AZoOptics",
-      "published": "2026-05-07T18:22:00+00:00",
-      "summary": "Self-Organizing Laser Beams Accelerate Biomedical Imaging&nbsp;&nbsp;AZoOptics",
-      "sources": [
-        {
-          "name": "AZoOptics",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZeFc0eE1UU0RUVXZrZDh5YzZXdkFvUU5mb01CVHMwZkw5OFM3bjZjZFlobThqaUllY3pTUEpRRElEX0VYZWlJN3JaMndGbTl5eE83MG0ySloxa0xk?oc=5"
         }
       ]
     },
@@ -234,6 +270,30 @@
       ]
     },
     {
+      "id": "ced1cd311371",
+      "title": "Taking supplements every day? Doctor warns they may be doing more harm than good - The Times of India",
+      "published": "2026-05-07T15:20:16+00:00",
+      "summary": "Taking supplements every day? Doctor warns they may be doing more harm than good&nbsp;&nbsp;The Times of IndiaCan fitness supplements harm your liver? Gastroenterologist shares 3 common mistakes to avoid&nbsp;&nbsp;Hindustan TimesUnregulated food supplement use fuels market surge&nbsp;&nbsp;Banglanews24Indiscriminate supplement use raises risk of kidney, uric acid problems&nbsp;&nbsp;Khabarhub",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYkhWSlVISzBtT3pZbVU0TU5HNjZtYTlIaDVSSzhuOXcyckVjUTBLV3c5MURPUzJtaFZoQW43UXduLS1naHNPWHhuOWtWUndFZk01RzBKNlVnYUpUQjh0LUJVeXAxa21aSFlfVXozS0Y4VlowRmlkM3k5QVpDRU5IYzM4ZWZHVExyWXBKYzZ6dzFvX3FMalFTXzdKbkQ0QjRMTzUzZjFKLWZOM3I3dmEybFoyWVdzTHZPUG9RYklOcWplak1RQWRXOHh3dUU5MDVHX0JLYVA3STlmeWVmcndad9IB6AFBVV95cUxPaGpiOURfN2NOeHZXeUUyaDVSangycWd2cHdLOVdHQlh1T0JXMy00cThocXhqWXpqcTA2Mmw1bU9WYVZyZjdoZ0VMUUpURjg4dWhnYnRiYXZteUxTWDRrTWl5YUtER01rVWlLc3FZcU1ycU9FUXgxZHlQZEtKYmNmZ0Y0N2FNNUdCcXd2WWRfU1J0aGY2c21WMHVBQzdxakRJVlV6Umpha2l5cG9ISDB0S0Zncjg5OFJCbFhjT0VsTTdHaTVNbnV6S0Utb0ljS2dxWVI5Q1VxTTA3MHF4VElJQm8xRVBjX1JK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "785a3c53b27c",
+      "title": "Bariatric Surgery Linked to Higher Nutrient Deficiency Risk - Medscape",
+      "published": "2026-05-07T13:21:14+00:00",
+      "summary": "Bariatric Surgery Linked to Higher Nutrient Deficiency Risk&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXdVYlZLMU5SaTNISXJiR0Nha3BSODF0ajJwSk9rMk1fVk5nRkdLUXhMd2UtdlFOX2djY29qb1JiVk1BSWRLajgzZ1lHRGZ4Nk5DTW50TFhYXzhTMXRNb2dxbk9HejVqbVMtUl9VemJjWGV0X19zSmw1czBiUnlsM0pmSU53dnhrMzF4bmNZbXRqc25VUVNUY0J5UWlyS3FWZHpvcVkxQjN1QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5569606292f6",
       "title": "5 foods a neurologist eats every day for better brain health - The Times of India",
       "published": "2026-05-07T13:07:33+00:00",
@@ -246,14 +306,26 @@
       ]
     },
     {
-      "id": "ed4ca4775051",
-      "title": "Rapidly melting Antarctic ice shelves may cause global sea levels to rise far faster than expected - Phys.org",
-      "published": "2026-05-07T09:00:06+00:00",
-      "summary": "Rapidly melting Antarctic ice shelves may cause global sea levels to rise far faster than expected&nbsp;&nbsp;Phys.orgChannelized topography amplifies melt-sensitivity of cold Antarctic ice shelves&nbsp;&nbsp;NatureUnusually Warm Water Detected Creeping Toward Antarctica – and Scientists Are Alarmed&nbsp;&nbsp;SciTechDailyResearchers issue climate change warning as sea ice in Antarctica melts to record lows&nbsp;&nbsp;AOL.comAntarctic sea ice defied global warming for decades – now, hidden ocean",
+      "id": "bd8df9fe4b13",
+      "title": "Cranberry juice may help stop antibiotic resistance in UTIs - News-Medical",
+      "published": "2026-05-07T12:42:00+00:00",
+      "summary": "Cranberry juice may help stop antibiotic resistance in UTIs&nbsp;&nbsp;News-MedicalNew Study Recognizes the Powerful Impact of Cranberry Juice to Improve Outcomes for UTIs&nbsp;&nbsp;PR NewswireThe surprising drink that could help antibiotics fight UTIs better&nbsp;&nbsp;latination.comCranberry Juice: Cranberry juice enhances antibiotic efficacy against UTIs&nbsp;&nbsp;The Times of IndiaCranberry juice may help boost drugs against antibiotic resistance, study finds&nbsp;&nbsp;The Independent",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92MHhwVjQ5ZlVnOUthZWRsOHFDNmNwZl9POVg3V2pwSWFyNV9JM0I3X1JzZmRBLWVnSDlHTjE5RzM4M1FHOTljdDdBMnNQUXhzdERRYjJyWEg1YTVrSExnRi1xb2N1N1l3djJzbk00c3p2cDdtNFNkQlI0MA?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM2JFZS04c0M3TUZ3QS1IOUp4T0pLQXE2MW55eFMyNmdBMVNDMDdBUnJSczhkMVl6eTBndmhoN2l0dzNucTBXa3ZxMmhWLUVqRHIzNU5kTmJRRGRSMW1VMlp5c1ktLTlXdmktLWNNdUQ3ZEF3T1ljdldSZFhrbklITktZYUxtSGJnRXhBSEVQcEpBdG14dzNhODBxUFZPU2syb1U0M3hWc1pXZXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c6a77f94fa0",
+      "title": "How AI Could Help Cure Pancreatic Cancer - Derek Thompson | Substack",
+      "published": "2026-05-07T10:07:48+00:00",
+      "summary": "How AI Could Help Cure Pancreatic Cancer&nbsp;&nbsp;Derek Thompson | SubstackNew AI model spots pancreatic cancer up to 3 years earlier than human doctors in test&nbsp;&nbsp;Live SciencePredictive Cancer AI&nbsp;&nbsp;Trend HunterHow advanced AI holds promise for high-stakes healthcare&nbsp;&nbsp;Medical BuyerDouglas Flora: REDMOD Flagged Pancreatic Cancer an Average of 16 Months Before Diagnosis&nbsp;&nbsp;Oncodaily",
+      "sources": [
+        {
+          "name": "Derek Thompson | Substack",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vbUtDMWZSTzVzbGU0Z2NESDdYWUhyRVVlSHlVMWZzclRucGxtakxoUXZaa1RtbVpWTllxNGRSU1RGemRVRHd4dTdGbVc0dDZJekE2N1ZqVTNLVnIyRUtkT3hXSVIxVGpjQUZtSy12M2RIbUk?oc=5"
         }
       ]
     },
@@ -261,7 +333,7 @@
       "id": "0ddaefa8f08d",
       "title": "Scientists discover how body movement helps “clean” the brain - The Indian Express",
       "published": "2026-05-07T08:55:47+00:00",
-      "summary": "Scientists discover how body movement helps “clean” the brain&nbsp;&nbsp;The Indian ExpressThis Simple Movement Could Be Secretly Cleaning Your Brain&nbsp;&nbsp;SciTechDailyScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyDirty mind? Study suggests gut movement may flush excess material from our brains&nbsp;&nbsp;Los Angeles TimesHydraulic brain: Body motion linked to fluid movement in the brain&nbsp;&nbsp;The Pennsylvania State University",
+      "summary": "Scientists discover how body movement helps “clean” the brain&nbsp;&nbsp;The Indian ExpressThis Simple Movement Could Be Secretly Cleaning Your Brain&nbsp;&nbsp;SciTechDailyHydraulic brain: Body motion linked to fluid movement in the brain&nbsp;&nbsp;The Pennsylvania State UniversityYour Brain Is Full of Junk, but Scientists Say Doing This Can Help Clean It Out&nbsp;&nbsp;VICEPenn State Brain Cleaning Study: What Scientists Discovered About the Brain’s Natural Detox System&nbsp;&nbsp;sebd.in",
       "sources": [
         {
           "name": "The Indian Express",
@@ -270,14 +342,14 @@
       ]
     },
     {
-      "id": "47d18c165867",
-      "title": "Atmosphere discovered around outer Solar System object - News9live",
-      "published": "2026-05-07T07:32:07+00:00",
-      "summary": "Atmosphere discovered around outer Solar System object&nbsp;&nbsp;News9liveBehind Neptune.. An Unknown Dwarf Planet Challenges the Laws of Physics with Its 'Impossible' Features&nbsp;&nbsp;وكالة صدى نيوزAtmosphere found around outer solar system object that shouldn't have one | To read the study in detail | Inshorts&nbsp;&nbsp;InshortsUnexpected atmosphere found on small icy world beyond Pluto&nbsp;&nbsp;The Brighter Side of NewsMysterious world beyond Pluto may have an atmosphere: astronomers&n",
+      "id": "86d4bdcc6d3b",
+      "title": "From Silos to Synergy: First TB–EPI Communities Partnership to Support New TB Vaccines Introduction - Stop TB Partnership",
+      "published": "2026-05-07T07:00:00+00:00",
+      "summary": "From Silos to Synergy: First TB–EPI Communities Partnership to Support New TB Vaccines Introduction&nbsp;&nbsp;Stop TB Partnership",
       "sources": [
         {
-          "name": "News9live",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaDlXYTF6SGdaaXZYaEhlUE1lNktFbkdCTXlkcTYzek1tbE5KbGhnSEdTam9kcHRBMkN3a3dKYl9HYUhmM2xKelB0X2ZZYmk5UW04UFdsb3k1Tm9rTkJmUlhxRXNnWHdyOGdfOTMwbGtnT1pwTVhmT3M1Nk0yYWpnVDVuYllFOGdsd3BqQXVDV2tHbEhjZVhSb3dUdmvSAaIBQVVfeXFMT2trZ2Fla3d2dVl6d2RsQkJGcGhONE5hUDQ5VWtCZnBNVnhLUWZFakgwdWF1WGhOQTliUG5JTG9Pd19CRFl1enZPLV9PWF82R3pJZGg3blFjOE41RU8zYWl6OWlMWW1VY3pfQm9uQ3Y0VERiSUlRZWRyZHdfZEJMVmRmTmtPcEtkT1otUzVwc3VnQkppQkp4OXZkZkxiQ05pX293?oc=5"
+          "name": "Stop TB Partnership",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLU1tOFp2cDh0V29IVUMtWTJOSXBHOHpZdWxKT09ETHhmUkMzbjFPdEhDNFRoSi1OV3ZiX1RrZ1A1UVNfZUhmX0M5V2Nad0xzZE40MjloejRJbEQtZXdpVS1YXzRpX0JuUWJKLW8tdUQ3a2xwSVRhTzF3N3V6RWdmS2QtSmRhR0dNQVlka0pWY09RN0t2MTZzTFRUd2hDcXk3MEtQTTdEcUtDTEM3ZjZzS0lsWlZVUQ?oc=5"
         }
       ]
     },
@@ -294,14 +366,26 @@
       ]
     },
     {
-      "id": "b2713c4fd10f",
-      "title": "Researchers developed quantum nanosensors that can measure the temperature of a single cell - R&D World",
-      "published": "2026-05-06T20:00:02+00:00",
-      "summary": "Researchers developed quantum nanosensors that can measure the temperature of a single cell&nbsp;&nbsp;R&amp;D WorldQuantum sensing: Revolutionising cancer care&nbsp;&nbsp;The Hans IndiaMolecular Quantum Nanosensors Enable Intracellular Thermometry and Spin Detection in Living Cancer Cells&nbsp;&nbsp;EurekAlert!Quantum sensor precisely measures temperature inside living cancer cell nucleus&nbsp;&nbsp;동아사이언스Researchers develop biocompatible quantum nanosensors for living cells&nbsp;&nbsp;MSN",
+      "id": "d2802e28a27c",
+      "title": "Ultra processed foods linked to higher cardiovascular disease and death - News-Medical",
+      "published": "2026-05-07T05:40:00+00:00",
+      "summary": "Ultra processed foods linked to higher cardiovascular disease and death&nbsp;&nbsp;News-MedicalHeart Health: Eating more ultra-processed foods may raise heart disease risk by up to 19%, says major European report&nbsp;&nbsp;The Times of IndiaUltra-processed food: why the debate needs less fear and more clarity&nbsp;&nbsp;The ConversationFood Industry Sees a Threat in Kennedy’s Push to Define ‘Ultraprocessed’ Food&nbsp;&nbsp;The New York TimesCook more at home to reduce ultra-processed food intak",
       "sources": [
         {
-          "name": "R&D World",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUG5KaExpaWh0c0V5Z09wZG9sd2lBQXlMQjFlZEJGZGRkWWNYSzVsSFNtTDNMNFFLbHRGN1EtbzNQTENCVmw2RDB5X3R5elo2c2J0VXVWdTJuQmhPQ2paRFJ3bHFuc2hzejdOTzU3YVJfYll0MmFSaVpHOGZydFBqc2lqSHZUME95a0JOWVNtUnZTRXc5TkFOenJYQVRzbmZhdzV4OXdaMnJYdGdCRXNnbnQ0b0c3NDBsanVnMnRVZw?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTS1Zd0xkNGVENXFXVWMzYmQ2ME5vZGJaNWE0OVlnTFB3QktpOV9RTzg3T1hPNEJPSHFhMGc2UmtLZ2RJWGdoWXlERTZKaFBGdkdIMVlHYS1LeXBQU3IwRVdicjZtRW9zblduTmFRRVAxUVFXdV9HUVptLXNFY2Fxa3NhS2h5aDAzWkdkeDdwYlljX1Fxd1lId1ZmWFJVcFhvaDc5OW9RdXJKX0JkdzM4NzdENDVLcExQR0Jz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ac4579a9d71",
+      "title": "One in Four Use AI for Health Information - Hematology Advisor",
+      "published": "2026-05-07T04:00:00+00:00",
+      "summary": "One in Four Use AI for Health Information&nbsp;&nbsp;Hematology AdvisorReduced symptom reporting quality during human–chatbot versus human–physician interactions&nbsp;&nbsp;Nature5 Tips to Get Useful Health Answers from AI Chatbots&nbsp;&nbsp;AOL.comChatGPT Health triage advice falls short in key cases&nbsp;&nbsp;NatureGo Figure: Don’t take AI results at face value&nbsp;&nbsp;Medical Marketing and Media",
+      "sources": [
+        {
+          "name": "Hematology Advisor",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dVNnpNVnlWRC1uU0N6cnBaZUwySEl0MXpDNk1ISmlLd2czc1l2ZjBkMTZQT0pzUHlZOFVMamtmWkVjOU14WGdtQVRNZGt0a2J5R2k0aEFKbXlPR2Y0aGd4RjVsVXptZW4zNHkxbzJ1eFJlaFJmSW1MbmJWdjMwZDU5bnNkQzlx?oc=5"
         }
       ]
     }
