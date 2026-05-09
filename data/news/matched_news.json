@@ -1,39 +1,52 @@
 {
-  "last_updated": "2026-05-09T12:44:29.033734+00:00",
-  "total_count": 20,
-  "matched_count": 14,
+  "last_updated": "2026-05-09T18:39:41.575792+00:00",
+  "total_count": 33,
+  "matched_count": 21,
   "news": [
     {
-      "id": "281218c112d2",
-      "title": "Scientists discover a hydraulic link between the abdomen and the brain",
-      "published": "2026-05-09T12:07:09+00:00",
-      "summary": "Scientists discover a hydraulic link between the abdomen and the brain&nbsp;&nbsp;PsyPostThis Simple Movement Could Be Secretly Cleaning Your Brain&nbsp;&nbsp;SciTechDailyScientists discover how body movement helps “clean” the brain&nbsp;&nbsp;The Indian ExpressHydraulic brain: Body motion linked to fluid movement in the brain&nbsp;&nbsp;The Pennsylvania State UniversityYour Brain Is Full of Junk, but Scientists Say Doing This Can Help Clean It Out&nbsp;&nbsp;VICE",
+      "id": "26272e265ab4",
+      "title": "Message by the WHO Director-General to the people of Tenerife regarding the hantavirus response - World Health Organization (WHO)",
+      "published": "2026-05-09T16:47:49+00:00",
+      "summary": "Message by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)UK passengers on hantavirus-hit ship will fly home after Tenerife screening&nbsp;&nbsp;The GuardianHantavirus: Current Situation&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)US sending charter flight to bring Americans home from hantavirus cruise ship&nbsp;&nbsp;BBCHantavirus cases nearly doubled in Argentina in the past year. Experts say ",
       "sources": [
         {
-          "name": "PsyPost",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEpzeUx6VHdBNUFTc0Mwd2Q5UHVuRi1qY0xfOUlxVlNwdk5pM19MOTV6VU9BY3pTU29fRkhRSlJ3U0poVUF1ZlM5RFdNanZWYkdGYUlFU0F5cU5JOWxVSE1BRjBYMk5SRkpYUnRBYm1Wbm96N0lmZFJjUWVoYXRjYi1vZkhBSXZCTkJ6SU9iaXBVc3l2THBhNklSbw?oc=5"
+          "name": "World Health Organization (WHO)",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNREdqQ0ZpU21Ga191WjJQWlgtZWJuTnNfbzdzUkJpSUhHM21hSVoyRWF4NHhmbXZqcUJNUUhxWWdOWm8zRTdjYUxkYUlMVWJWLWtscjlDSDVneHRpd3gtcFdMN3A0aFVmLTJPSUQtS0E4WGppeVFRVUFOUXk0d3ZWRGxwWlNuR3ZYYnJoRF9waEstSjhxaGtISmUzbVdNekhUS1VHbTE2YXo0M2EzZThaWjNMOXNKUjdoLTVOaXFzSlVIdFBrVTFMc0I2U2Z3UWlnUUE?oc=5"
         }
       ],
-      "matched_keywords": [
+      "matched_keywords": []
+    },
+    {
+      "id": "b664d2b855ce",
+      "title": "New fiber-optic sensing method reads strain and displacement through electrical signals - Asia Research News |",
+      "published": "2026-05-09T15:00:00+00:00",
+      "summary": "New fiber-optic sensing method reads strain and displacement through electrical signals&nbsp;&nbsp;Asia Research News |",
+      "sources": [
         {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5812",
-          "name": "influenza",
-          "keyword": "flu"
+          "name": "Asia Research News |",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd01JeVp6VnlaaEZrZzBaejdwc01YNzl0N1JiR0hOd1hzeDc0aWpjZGE1WGlmSU1uN2xyemxoRWtfVEthUTlnMVpvTF9kMG44amVBYVdDRlluQ3dlX0MtZ0d4dTZ5NVNRMElTNERFOGRyM1haQms0aVVDUXF0Zkowd2dRSFQxbENicmtPZl9ucTg0VXdtdjdXZTh1TVh4OHZ6YjhVMnN0am5IMHo3bkhXWDFVSmwwTnZyYjNUQjV0WTY2N1NBNmJj?oc=5"
         }
-      ]
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "32007987e7d7",
+      "title": "Climate Warming Accelerates Spread Of Antibiotic Resistance In Soils: Study - ETV Bharat",
+      "published": "2026-05-09T13:56:19+00:00",
+      "summary": "Climate Warming Accelerates Spread Of Antibiotic Resistance In Soils: Study&nbsp;&nbsp;ETV Bharat",
+      "sources": [
+        {
+          "name": "ETV Bharat",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMm9yLXV2eXRZMkd5R0tnT0VUNzB1emExS3NjbkU2S25Yc2gwam5RYlNIc2ZwUnB3WHRxaWpoN0tEa09uTm9FdUp6dktMUWNkbWJzdDJ1eFFBQUhHdUtCOFFKWUVNWXhJT0ZUX0gzV0N6NUF0RE0wQ2h0bHpmY2NiWkprUDNsNEY5OFNtUVgyZ0dKdVh0ZXhWSURhRjlRc1ZBem5CNUR0clhUNVhEVE5tR09vMDItLVV1alNyeXBBWTJrajjSAcgBQVVfeXFMTlBGdnJGd2tjeld6UEN3b0UyT0hfajZHMnM2eDk5Y3lkdC05QVBwQTZmeWdxS0NFZmt5Mk5TQlhYYnhwNXR3MF8xTXBWQ2J5MUFUdkRVN2oxS3VZcWhYSUxocFZvdE1EV3ViTUNHQjlwQnhCV1R6UnZDZ2o0Zk5mV2ZQbVU5a1NNMEFYUVQ2bTVaZTNmUU1FWHc4aHFaNEFRaG1qNGlMVjZqeXdQZmNZRFJPN29ocVB1Z0hmeU5mT3ZKWXlWUEw4NXg?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "2e4a7d01129f",
       "title": "‘Artemis is the first step in journey that will last centuries’: Prof Somak Raychaudhury on New Space Age",
       "published": "2026-05-09T10:07:42+00:00",
-      "summary": "‘Artemis is the first step in journey that will last centuries’: Prof Somak Raychaudhury on New Space Age&nbsp;&nbsp;FirstpostWe are preparing to transform the moon and Mars. The public must have a say in this future | Ben Bramble&nbsp;&nbsp;The GuardianSpace colonization. The trouble starts now&nbsp;&nbsp;Holistic NewsHistoric NASA mission a long time coming for Monroe County native&nbsp;&nbsp;Northeast Mississippi Daily JournalWhat Health Risks Do Astronauts Face After Artemis II? CU Anschutz ",
+      "summary": "‘Artemis is the first step in journey that will last centuries’: Prof Somak Raychaudhury on New Space Age&nbsp;&nbsp;FirstpostWe are preparing to transform the moon and Mars. The public must have a say in this future | Ben Bramble&nbsp;&nbsp;The GuardianSpace colonization. The trouble starts now&nbsp;&nbsp;Holistic NewsNASA begins Artemis II launch countdown for lunar flyby&nbsp;&nbsp;The RegisterWhat Health Risks Do Astronauts Face After Artemis II? CU Anschutz Physician on Deep Space&nbsp;&nbs",
       "sources": [
         {
           "name": "Firstpost",
@@ -70,17 +83,70 @@
       ]
     },
     {
-      "id": "e2cf63aab2ca",
-      "title": "WHO chief due in Canaries to coordinate hantavirus ship evacuation - The Hindu",
-      "published": "2026-05-09T05:36:31+00:00",
-      "summary": "WHO chief due in Canaries to coordinate hantavirus ship evacuation&nbsp;&nbsp;The HinduAnger and resignation in Tenerife as hantavirus ship approaches&nbsp;&nbsp;BBC\"Outbreak Can Be Contained\": Dr Soumya Swaminathan On Hantavirus Crisis&nbsp;&nbsp;NDTVWHO’s response to hantavirus cases linked to a cruise ship&nbsp;&nbsp;World Health Organization (WHO)Two Indians in crew of hantavirus-hit ship&nbsp;&nbsp;The Times of India",
+      "id": "24d0f5a02d0b",
+      "title": "Ultra-Processed Foods May Increase Childhood Asthma Risk",
+      "published": "2026-05-09T09:05:06+00:00",
+      "summary": "Ultra-Processed Foods May Increase Childhood Asthma Risk&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQclJTa3h0SDEyZDhqbnZ5SnlSOGFpN0RKcmdWMjlPSm5xTXVRTFl3clhJSzRfU1J3SzFfN29fVGpOWENkbnA1SWVCOUJXN0tUSjhZZDRyUURSREwtWmFuTjVHaEtrM2ZWZXVsX3RqcVFqZXNjVVB4NFpTdUJWdFQ5X05uQVZUY2k4dmRLbTk1U3hkLXdCU0VYM1ZCT3lKUnZ0aHlFSjd2TTRiV3AxMWxKelNrMTJHclJTS05aU190YkpVU09OeGfSAcwBQVVfeXFMUE5VcVo3NGRqQ0cyYjFTTTlyS0dSbGZMc2VDcVNlVGxtb0V3cUtFdHRtMk9oOTRFRnBXbWhxb1Iwc0c5T2xPYXdMZlhUT2hqUkVuYW5wWDdYck9wVXFES3lLTkdnRnNyYzBoYmQ5SjBlRl9SZ1JvaWVBUjRSeVF4RUhEaWYtdUd4SXlDR2hybm1Ib2JIeFRqbWl1cHh2azA0cG1FbzNuRzNjMmFPM0RpeXFUeWl6OVFMVXk2R0RNNzdnY3ZzQlZpbGxKUFVV?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRWJKT1NqdU5Qd2J4TTg1MHRfQjZQZnFrNFFCQXA3Y2drN0tXV1dFNFJPenE0U0FGYWVhV01SZEY3SzhvaU4zdE9RZVFKYS1tRk5HS050OF91OUs5UmNrUkdBNnRfaDdrbGhJSG9iYndEenBEM0ZEMU0tY1BOTU9lVEdaQmNka01CMkt2TnM3RkNoQ2x0SEdoejU4VjdNbnZjVWpOQzZTU3Jqb09Y?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "4979",
+          "name": "asthma",
+          "keyword": "asthma"
+        }
+      ]
+    },
+    {
+      "id": "dc3a57d2c1cd",
+      "title": "Measles crisis deepens in Bangladesh; 12 child deaths reported in day - News On AIR",
+      "published": "2026-05-09T07:23:10+00:00",
+      "summary": "Measles crisis deepens in Bangladesh; 12 child deaths reported in day&nbsp;&nbsp;News On AIRChild deaths mount from Bangladesh measles outbreak&nbsp;&nbsp;The Hindu9 die from measles and measles-like symptoms in 24 hours&nbsp;&nbsp;The Daily StarBangladesh Measles crisis deepens amid testing kit shortage | Tap to know more | Inshorts&nbsp;&nbsp;InshortsBangladesh Measles Outbreak&nbsp;&nbsp;GK Today",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmY2VzY1ejlOSFNNUjJ4VUI4dDRTdEVnemxlenZpZVdxUV80MVJMV2VBQV9BaHQtUWFmZWE5V1NnM093ZEljdGFiWjgtY210M3FjSVFDSDJyWnBtblE1X3RMLUhOX3Z5WG0tWFVIWk90dlpXcWxjS3otOHR3dmJyaUxDMXZpMy1yS3NNcWhzZGphbHpCYnY0d1p6Y3dvTDQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4619",
+          "name": "measles",
+          "keyword": "measles"
+        }
+      ]
+    },
+    {
+      "id": "91a99e187da6",
+      "title": "Azide-to-Diazo Conversion Offers Safer Route to Versatile Diazo Compounds - Technology Org",
+      "published": "2026-05-09T05:00:00+00:00",
+      "summary": "Azide-to-Diazo Conversion Offers Safer Route to Versatile Diazo Compounds&nbsp;&nbsp;Technology OrgSafer diazo compound synthesis advances medicinal chemistry capabilities&nbsp;&nbsp;Drug Target ReviewAzide-to-diazo reaction unlocks safer path to versatile nitrogen-rich compounds&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "Technology Org",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXNJS2UyckdKWUt4VFBqdTNQUTRyUkJZblNqVFlmVUQxZURuY2NaVk1ueGROeS1WNWQzazgxeHdkYnlDS0VucFVXbnJkWFA1V1pROEpUNXAyWVhQR3Nlc3R3dWZsTUFDSFhReWNVLTdGQmhHSlBOeVNGal9EZ2UyaTEtdmJqSWxiWDJnN3N4NHc5bjlmU1A1MmVmTlE1VGxQR09xTWtIc1E1alE4aldWXzBR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB09152",
+          "keyword": "nitrogen",
+          "name": "Nitrogen"
+        }
+      ]
     },
     {
       "id": "091fb94da19a",
@@ -115,6 +181,26 @@
       ]
     },
     {
+      "id": "cd89bf699304",
+      "title": "Exercise may help the brain clean out waste, scientists find",
+      "published": "2026-05-09T03:41:00+00:00",
+      "summary": "Exercise may help the brain clean out waste, scientists find&nbsp;&nbsp;Mid-dayThis Simple Movement Could Be Secretly Cleaning Your Brain&nbsp;&nbsp;SciTechDailyScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyWorking on your six-pack can have a similar effect on your brain as sleep&nbsp;&nbsp;New York PostScientists discover a hydraulic link between the abdomen and the brain&nbsp;&nbsp;PsyPost",
+      "sources": [
+        {
+          "name": "Mid-day",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcG5fcENGSzVFYXNGXzVNTnN2WGd4NEQybFdRei1LY0NjTkVReEFDUF9xc3djT2tyU0hnVzNuRVRoUDJzN1RzVEpESEs4cEhmODRST3hUTFhMcklZUENZUHRqSTJMa09nOVNXekNBcVVOaE83NVFGMUI5YV9GaDRwS1hJOVpuSHhrV0hiaEdyLVl4MzNLN3h4VF93UTVrcEVHUzM3aFNEMmpyV3lDbjFSaWNGamd1TVnSAbwBQVVfeXFMTnRRSS1PY3JEZDZvTnVDR0VYcHlNWE03WFJnVmV6dU45Ri1ObGtoZWNCNEM3WTNCMFhKYWlTSHRqLXpXZzZuWldJbEtlOE8wWHo5Z0VRdnZ1Ymt2bDRrdjNXbFFjTW51UkQ0RHpUMDRock1hdThBei1qUzJ5Q1BTVHZIR1dWVnhvNE9meXlaRTV6c01UWGFSTkZLcXAxNEtZa2VqQU5CRG9EUERUVWpMX2dpLTEyMFVHXzRJQmg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
       "id": "95025a483aef",
       "title": "The ROSALIND Breakthrough: Fluorescent RNA as a Global Health Tool | Newswise",
       "published": "2026-05-09T02:10:00+00:00",
@@ -126,38 +212,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "ced1cd311371",
-      "title": "Taking supplements every day? Doctor warns they may be doing more harm than good - The Times of India",
-      "published": "2026-05-09T01:39:00+00:00",
-      "summary": "Taking supplements every day? Doctor warns they may be doing more harm than good&nbsp;&nbsp;The Times of IndiaCan fitness supplements harm your liver? Gastroenterologist shares 3 common mistakes to avoid&nbsp;&nbsp;Hindustan TimesUnregulated food supplement use fuels market surge&nbsp;&nbsp;Banglanews24Indiscriminate supplement use raises risk of kidney, uric acid problems&nbsp;&nbsp;Khabarhub",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYkhWSlVISzBtT3pZbVU0TU5HNjZtYTlIaDVSSzhuOXcyckVjUTBLV3c5MURPUzJtaFZoQW43UXduLS1naHNPWHhuOWtWUndFZk01RzBKNlVnYUpUQjh0LUJVeXAxa21aSFlfVXozS0Y4VlowRmlkM3k5QVpDRU5IYzM4ZWZHVExyWXBKYzZ6dzFvX3FMalFTXzdKbkQ0QjRMTzUzZjFKLWZOM3I3dmEybFoyWVdzTHZPUG9RYklOcWplak1RQWRXOHh3dUU5MDVHX0JLYVA3STlmeWVmcndad9IB6AFBVV95cUxPaGpiOURfN2NOeHZXeUUyaDVSangycWd2cHdLOVdHQlh1T0JXMy00cThocXhqWXpqcTA2Mmw1bU9WYVZyZjdoZ0VMUUpURjg4dWhnYnRiYXZteUxTWDRrTWl5YUtER01rVWlLc3FZcU1ycU9FUXgxZHlQZEtKYmNmZ0Y0N2FNNUdCcXd2WWRfU1J0aGY2c21WMHVBQzdxakRJVlV6Umpha2l5cG9ISDB0S0Zncjg5OFJCbFhjT0VsTTdHaTVNbnV6S0Utb0ljS2dxWVI5Q1VxTTA3MHF4VElJQm8xRVBjX1JK?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB08844",
-          "keyword": "uric acid",
-          "name": "Uric acid"
-        },
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5393",
-          "name": "gout",
-          "keyword": "uric acid"
-        }
-      ]
     },
     {
       "id": "adcd16fb63eb",
@@ -173,6 +227,45 @@
       "matched_keywords": []
     },
     {
+      "id": "099944b5b30a",
+      "title": "NASA pushes Mars helicopter rotor blades beyond Mach 1 in testing",
+      "published": "2026-05-08T19:26:18+00:00",
+      "summary": "NASA pushes Mars helicopter rotor blades beyond Mach 1 in testing&nbsp;&nbsp;AeroTimeNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA tests confirm next-generation Mars rotors can safely break the sound barrier&nbsp;&nbsp;Interesting EngineeringNASA confirms Mars helicopters could survive Mach 1.08 to boost lift by 30 percent&nbsp;&nbsp;Yahoo Tech",
+      "sources": [
+        {
+          "name": "AeroTime",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQlBBbG5VaGFCbjc1Sy1fVjlHVW9qa3BRUkNBMTV2eFFKdC1XMVlmLTF2cjNydWtVMkRQRW9NS2FKQXpTM3lCSEVmeWVZSjRvWEV0ek9nd3A4dFpTVElCd0lkT3oxVFFGUzZmOVBJeV9ld2dPM0p6emR5ckZpN3F0YUZOVTR6Z9IBiwFBVV95cUxQS0w5RWZSVlVHdXN5eUVfV3VQY3BSck9KajF6dGl2aHBvQ3FIOXJJWHc0S25GRFlUR25lMnNMVTQtTVhVN1lFMWRrbVJGNjJRekIzNnhjSm5DOEhpM1lQREhDOWhYMHc0SlkzZkluWlpxMFFTUjQ4LXlPNS1qUTBXNXVsckVBcjI4Skhj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7f452eae6923",
+      "title": "An apple a day: 13 old wives’ tales that are true - The Times",
+      "published": "2026-05-08T19:00:00+00:00",
+      "summary": "An apple a day: 13 old wives’ tales that are true&nbsp;&nbsp;The TimesMedical Bulletin 09/May/2026&nbsp;&nbsp;Medical DialoguesNew Study Recognizes the Powerful Impact of Cranberry Juice to Improve Outcomes for UTIs&nbsp;&nbsp;PR NewswireThe surprising drink that could help antibiotics fight UTIs better&nbsp;&nbsp;latination.comCranberry juice may help stop antibiotic resistance in UTIs&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "The Times",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjc5WWVwS181R3hLZ3B6TUwtN3VjWkY4bTZTR2RreE43Yk5jMkhwQk42RDBIZkM1TEUtMFA1S0NndE1mODVpaXA3b0ExTUprOEh5OVZQeXdzS296UmpPSVNDNTFEZGo0RUNIUW9hQjhPekp6N0FHMURDTWoyQ0lTSmhaQ1NDYnl2SFRiSTRaZGZnY1Jyck9jaUpINnhyYlJjZ2FId2JMZlFWOUcwMHBvc2pXNDVkMXM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3d8e023d2ee6",
+      "title": "NASA Fires Up Record-Breaking Plasma Thruster for Future Mars Missions",
+      "published": "2026-05-08T18:53:58+00:00",
+      "summary": "NASA Fires Up Record-Breaking Plasma Thruster for Future Mars Missions&nbsp;&nbsp;SciTechDailyNASA Tests Plasma Engine for Mars Travel&nbsp;&nbsp;GK TodayGenesis AI’s robotic brain aims to give general-purpose robots human-level dexterity&nbsp;&nbsp;MSNNASA takes step toward ion engines powered by fission reactors&nbsp;&nbsp;American Nuclear Society -- ANSWhy ion engines barely push harder than a sheet of paper and how that whisper of thrust is quietly rewriting the economics of deep space explo",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMllUWmNCRDdxN1F3S2xQNmd2c0FKXzRrX3NQa2ZlbjlaRTNyRDFUN09fMGQ5dHJxdDBuNmdNRjFZYktYQ1RxWkxRcExsS0FZV25nbTkwMHc4QU9hTENwNExXajVMQTQzdlk2STRvR3FpaVFjTEZoY1M3eVhPV3ZEMVpVQ1NBRUc4aDdXaFZVMnpfeW91VGEtQkExRjY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "acdc1b4be6ff",
       "title": "Scientists discover a new way to prevent gum disease without killing good bacteria: Study - ANI News",
       "published": "2026-05-08T17:54:00+00:00",
@@ -181,6 +274,126 @@
         {
           "name": "ANI News",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOHo4RTlBbkpQOXhob2Fodk1uRVhKZ1ZvUS1mOW1ZZ1g1UUZJNldORjRoeGVkV1dJQ3RSaE5DdG10UHVyTS1MSTNTZUU5d2N0a1lLUUFYN1RzRy1uSTB2bHk0YXE3OWZZQzFoZW8yQXhscDZjdlh1MDdGT0d4VHNXenVyUzdCajhCaFZSZXppdVFCdHFWLXYzdlNkNmlOZDJWajJobHZhemlibG5BLWNzTHVxNlBhSDUxODRqa0dPNzBETnV4LWVrNmw0XzZZczluakVB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "580cbc72c829",
+      "title": "After Exposure, Then What? Closing the COVID-19 Prevention Gap",
+      "published": "2026-05-08T17:14:33+00:00",
+      "summary": "After Exposure, Then What? Closing the COVID-19 Prevention Gap&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdG1ReEpsVDBDTFdpZ055TVQwNndWdVFhUmh2aEsxNkttTlduM0NXb05tbU1ZZG80NHVhdnR5UW9nU0xBT0ZfV0xsXy1HQnhnVXRwcHY3azdEQllheUJqQkhObU5oQWhEZGNkTm5jSEYybDJWYWVQZlpxM1V0VU9EeGtwLUFkWmlNR1BSME9pMVQwaEd4dk1HRExnTExVXzRzREtUajJ2SEJDU1ViNnl4NXZ3X0J6ejJxbTZhOGdtVTVmQTFJZWZJY3JRTVU2QWVqVUt3UEp4YVk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "100096",
+          "name": "COVID-19",
+          "keyword": "covid-19"
+        }
+      ]
+    },
+    {
+      "id": "22b991f011ea",
+      "title": "Elevated Pulse Pressure Predicts Cardiovascular Risk",
+      "published": "2026-05-08T15:03:59+00:00",
+      "summary": "Elevated Pulse Pressure Predicts Cardiovascular Risk&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXM0SU9MTkJ3VTV0Wml5Tm1xUE82V3ZtWFlGY2xjVkIzQW5MZU5kYU5LXy0wWnhLX0x1dUl3Y2V5c1dYaTFlUWhlbWo5R3gwN0pYLVd5SlU2bV9OSG4wMmxoN1FIMjgybU1wUEhEU0Y3R2lEVzI5bnlHRF9LbkhUZVhBdDdaR0cyWGxWQkdNaXAtblhmbWRYYVBOenQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "generic__cardiovascular",
+          "name": "cardiovascular",
+          "keyword": "cardiovascular"
+        }
+      ]
+    },
+    {
+      "id": "e195f8ec5119",
+      "title": "Life on ancient Earth used a rare metal that barely existed",
+      "published": "2026-05-08T13:40:18+00:00",
+      "summary": "Life on ancient Earth used a rare metal that barely existed&nbsp;&nbsp;Earth.comBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureNasa team discovers secret ingredient that powered ancient life on Earth&nbsp;&nbsp;India TodayEarth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old Fossils&nbsp;&nbsp;The Daily GalaxyEarliest Organisms on Earth Built Their Biochemistry around Molybdenum",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMERFZXNrWmlOOEV6ekhiSk1jOTEzY184TkphZkdicEltdjhrYzRnVTVTNVBlUHhubms2WnFzT01sdVJMTDkwYkJibWxaTmpsM2Q2TzNiWHFzMEIzOF9zYzBwZ2x5Z2YzZkNFV2JYNmhOdEhwZ21lVXVJWXZ6ajFEZ1pmc1R6UWlBNV9vS2ZUMXM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "259b31e279e8",
+      "title": "The high protein craze: Fad or fixture in the Singaporean diet?",
+      "published": "2026-05-08T13:30:00+00:00",
+      "summary": "The high protein craze: Fad or fixture in the Singaporean diet?&nbsp;&nbsp;CNAProtein alone is not enough: This is the missing piece of nutrition for your peak health&nbsp;&nbsp;The Indian ExpressFad or nutrition: Are those protein products good for you?&nbsp;&nbsp;WKBN.comA look at protein- and fiber-maxxing—and why ‘maxxing’ trends may miss the mark entirely&nbsp;&nbsp;MDLinxHere's How Much Protein You Really Need as You Age, According to Dietitians&nbsp;&nbsp;Real Simple",
+      "sources": [
+        {
+          "name": "CNA",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPenFNWUxBQ0JPSHdpVlk5QkI4Y1FSWXU2RmNJSGhiVEhpYXJPbkhaaXVMR0s0dGdvR3gzejhuOHRXZEZSYzhIcjFvYi13OHFUeU52Ymd6bWRRbUdLVjgtZXFyZ25teFZNOWZzY2lTd19TRm9HSEs1TnhuZG84aWk2enJWc01FdTFmZjg4QzJkVnFLWEwxRkd0ekpmWnNqVjRBbVlvTTFRVE5LWDFnQ0tmaHRB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB11312",
+          "keyword": "protein c",
+          "name": "Protein C"
+        }
+      ]
+    },
+    {
+      "id": "357576f2ac8e",
+      "title": "BADBIR Study Explores Infection Risk in Psoriasis Care",
+      "published": "2026-05-08T13:03:35+00:00",
+      "summary": "BADBIR Study Explores Infection Risk in Psoriasis Care&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkMxR0dDLXVJV0NORGc0T0tlZEVKc2FRTHAzT2ZSMlhqSVpkSUNYWjFNZ1ViT1RpSFY1d2pOOVh1ZTY5VnlHOFduYTR5V3hiWkdRWXhyREVzN1BpcjZXdml2YmFMTmVnS3ZaQzhQR2xGNkd3WDViSFhyeXk4dTVfb2VCbXhaUkh3bjN6bzg2b1lPRzN2Q1VadXdQQ3IyQkN3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "5083",
+          "name": "psoriasis",
+          "keyword": "psoriasis"
+        }
+      ]
+    },
+    {
+      "id": "a4b994a5ba17",
+      "title": "Promising new Hanta virus vaccine under development by University of Bath researchers",
+      "published": "2026-05-08T12:42:00+00:00",
+      "summary": "Promising new Hanta virus vaccine under development by University of Bath researchers&nbsp;&nbsp;News-MedicalThere is no vaccine for deadly hantavirus: what that means for future outbreaks&nbsp;&nbsp;NatureWhy is Moderna stock surging today? By Investing.com&nbsp;&nbsp;Investing.com IndiaModerna Flags Work on Hantavirus Vaccines Before Cruise Outbreak&nbsp;&nbsp;BloombergHantavirus Vaccines and Treatments Are in the Pipeline&nbsp;&nbsp;The New York Times",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVnJ0RGJMbGFYc2VlbGtRUm5VRE5DbWRBdGJaRTFRVXpyODR4Q1QxcGVybExkSGdEMlR3ZGRFd2otZXItU1BqU2JManNFUDRhRF9ZdE1sSTJja3JCTWx1RmE5ODNOU0tsYVA3WXhZWWlsVGF2eGtjd3dRdFdRcndDQTF4SWhpSk8waHV0Nm9zdWNRdTIxakphVFBjNUIwMGVhRXhGUC1JSUtSMS05WEZTTTB2ZV9UY2FsbGtialJYbDZZMUVOUjJ0YjlDbkE2dw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -229,6 +442,38 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "f2740b9cdc00",
+      "title": "Eating eggs regularly reduces Alzheimer’s disease risk",
+      "published": "2026-05-08T11:07:00+00:00",
+      "summary": "Eating eggs regularly reduces Alzheimer’s disease risk&nbsp;&nbsp;News-MedicalStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityEgg Benefits: How Eating Eggs May Protect Against Alzheimer’s Disease&nbsp;&nbsp;The Times of IndiaAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox NewsEating Eggs May Help Boost Your Memory, According to a Recent Study&nbsp;&nbsp;Real Simple",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkNmYjAzQWJqWUhHWXlHRUswa2k0N0czRWVGWDNRQTB1N1JHbTh3c2Y2aEx4TEZKNjlUUk1HelhhY0tZVzFwM2NBemg3Y2FWWjBXZTBCeUlLU05SM2NzWEEwYWNGRXQwMjd2bnFzdk90T3AxMmk5RzdXRGtPZjhnTzNVVnVCRmQ5djlWbkgyNTl1Nm5DbHlCSFBWZkk5aDR2NC1PWC1vUG9xbWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5027",
+          "name": "epilepsy",
+          "keyword": "fits"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic_dementia",
+          "name": "dementia",
+          "keyword": "alzheimer"
         }
       ]
     },
@@ -305,52 +550,27 @@
       "matched_keywords": []
     },
     {
-      "id": "1945731b1013",
-      "title": "Prognostic significance of PET/CT false-positive cervical lymph nodes in head and neck cancer",
-      "published": "2026-05-08T05:11:50+00:00",
-      "summary": "Prognostic significance of PET/CT false-positive cervical lymph nodes in head and neck cancer&nbsp;&nbsp;Nature",
+      "id": "0b21554d7ad5",
+      "title": "The Global Burden of Mental Health Disorders: Interview with Vikram Patel",
+      "published": "2026-05-08T08:48:03+00:00",
+      "summary": "The Global Burden of Mental Health Disorders: Interview with Vikram Patel&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jSWJDV3h6blc0V0wyeVNkcEJXcTFEMkZhNU0yM3VfT0xXdkVWdUhvYlFFbHdpM2RBYUdyRDZIY3Riai1VM3hydFREQWRTbXBZQ001ei1Ea0w1cWNVZW9n?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHlYNkdpc1pkTTNUS0ZJQ2I4aTZVengwZXI2QUwzUVpCeGdsV29fazlOS1h3ZTdBM0R0UTVOLXNtRDUxaWFOMUppY1kxTjRNajRiTkc0akNSeWFLRVJXSGlZaXlnOE1WZnd1N3V1UmtoQ0NJdkZLaldtY2hfRDBzRQ?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB03384",
-          "keyword": "fica",
-          "name": "Fica"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5627",
-          "name": "head and neck cancer",
-          "keyword": "head and neck cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        }
-      ]
+      "matched_keywords": []
     },
     {
-      "id": "818dfe3d1d11",
-      "title": "Chromosome abnormalities may help cancer cells resist treatment and spread",
-      "published": "2026-05-08T02:59:00+00:00",
-      "summary": "Chromosome abnormalities may help cancer cells resist treatment and spread&nbsp;&nbsp;News-Medical",
+      "id": "7be3aade1056",
+      "title": "Study reveals how magnetic stimulation repairs depression-related brain circuits",
+      "published": "2026-05-08T02:53:00+00:00",
+      "summary": "Study reveals how magnetic stimulation repairs depression-related brain circuits&nbsp;&nbsp;News-MedicalRepetitive Transcranial Magnetic Stimulation for Major Depressive Disorder: Clinical Evidence, Neurobiological Mechanisms, and Treatment Perspectives&nbsp;&nbsp;CureusIn Clinical Test, TMS Targeted Comorbid Depression and Anxiety Symptoms Separately, With Precision-Psychiatry Implications&nbsp;&nbsp;Brain and Behavior ResearchTMS Therapy’s Impact on Brain Cells and Circuits in Depression Treat",
       "sources": [
         {
           "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0lZdHdza1Z5R1NxYzI2UVBEUVN2eXNjXzRpcEJabmhMZ01NWW5JV3IzM0VFME0tbVUzMG5VZV9xTWpwZXIxaUpTd1ZSd3E5V25iWHlsWmYxYzBWVHZyNGN5VEMzaEhYNEZjZ2hiRTJBVGFtVmlxRU9lcDhiTGJRdnlsZ2tfRHN4YVpBd1RGMFpJbGFmR2RUbW02RzRfazVfMHI3ZC1NWW1xMWpENktSdVNwN2VTdWJOS3BHMXhmMA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOGJsSXF1aUNyZHZmQ3dhcERuVjNqU192aDVneWltd2ZCbjkxTUU5TnB3djlDVnRaVVhKMGlUQkhDdkU2QnVwV2VlZi12bjFlZzBUSUM4M0JvVzNiMXJDaHIzNmhLNHpZOWlqS0stdk16Rk50ak01Q0NzaW9DMDR6U1BQaS1SRDJMR3pzbDZET1BxbjJNd0R2cXpnMGpkN0hldzBBYURENm84clR2c1NLbkhLcllSZVpjbzJ2XzRRX3RrZTV2UEFj?oc=5"
         }
       ],
       "matched_keywords": [
@@ -362,15 +582,15 @@
         },
         {
           "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
+          "disease_id": "2009_12050_12100",
+          "name": "major depressive disorder",
+          "keyword": "major depressive disorder"
         },
         {
           "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
+          "disease_id": "11918",
+          "name": "anxiety",
+          "keyword": "anxiety"
         }
       ]
     },
@@ -388,60 +608,22 @@
       "matched_keywords": []
     },
     {
-      "id": "fe1db1904fc2",
-      "title": "New AI model spots pancreatic cancer up to 3 years earlier than human doctors in test - Live Science",
-      "published": "2026-05-07T19:00:00+00:00",
-      "summary": "New AI model spots pancreatic cancer up to 3 years earlier than human doctors in test&nbsp;&nbsp;Live ScienceHow AI Could Help Cure Pancreatic Cancer&nbsp;&nbsp;Derek Thompson | SubstackPredictive Cancer AI&nbsp;&nbsp;Trend HunterNew tool can find deadliest cancer years before tumors can be seen on a scan&nbsp;&nbsp;New York PostDouglas Flora: REDMOD Flagged Pancreatic Cancer an Average of 16 Months Before Diagnosis&nbsp;&nbsp;Oncodaily",
+      "id": "a37b2e637d20",
+      "title": "DDK to Telecast Hello Doctor on Metabolic Disorders - Andaman Chronicle",
+      "published": "2026-05-07T18:56:48+00:00",
+      "summary": "DDK to Telecast Hello Doctor on Metabolic Disorders&nbsp;&nbsp;Andaman Chronicle",
       "sources": [
         {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLTltSHQ0b2dTMy00QlFnNlUzbDRGa01wWktDS1VsMUFxUTVOSDZiVHJWS2pfVTZzenpRUHJqU0JheUxfb3J1N2xMaE9DWnBkZmFvd21lQ2JLempKXy05V3FTcXh1V3g0NGZQbnpLMFpBQ0tzejlNeXJaUkVqNTJrWXdmTEEta3FIVThrMUJrNmV5WHRoWUJDYWMtQkpTZm9vNjN3N2lSY1hFT3BkalVEYVBPQ3ZZTUNrMDBRc1U2bEloMVNrQUE?oc=5"
+          "name": "Andaman Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0VaVG9SUkJDZWRFNFhQQ1dFLWI3cHdyV1ZRVXNZNmVweGZpZTZTUmpXM2Q4dWR6UEs4VUoxcktWdmYtVWt0aFBZU3FXQmZjUVNwYXJfWFlKWjh1MGpvWmc0bFdlOGtvSDdhOTZwMERMMEtUaHdSS2MxdU9mQVl5QV9fT2haZlRl?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        }
-      ]
-    },
-    {
-      "id": "5569606292f6",
-      "title": "5 foods a neurologist eats every day for better brain health - The Times of India",
-      "published": "2026-05-07T13:07:33+00:00",
-      "summary": "5 foods a neurologist eats every day for better brain health&nbsp;&nbsp;The Times of IndiaSkip the junk and dig into this useful guide to brain-healthy eating&nbsp;&nbsp;PsycheWhat should you eat in your 40s to keep brain sharp? Neurologist recommends ‘brain foods’ and special diet&nbsp;&nbsp;Hindustan TimesPreparing Home-Cooked Meals Once in a While May Reduce Dementia Risk in Seniors by 30%&nbsp;&nbsp;Good News NetworkMadrid psychiatrist lists 5 brain-boosting foods for memory&nbsp;&nbsp;Daily",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbmNZS3FDbjlYWnlOU0thb0wyNnlnNS1jenZzanJqa0lTYzRicERHb1JGckVlSmgwc0lFcktpYTZCM0pSUjBiSGw1dnJLWUhZcGFCVFE4a0I3N3FuU2lRUmpOdFNxNEJvRUIxTlZTTUE2bUtCQTFxUWF3SkdqVFIyVG1VczRtdkN4c0gwUHktOGlFV0pveERxekc0ZWdNXzZhczhpWDJkRW5kN2tRN3Zfa0hTVURJQ0x6eWVBWktfeUJuWTFrWWwxWms3Wkl6UnF0ODNR0gHbAUFVX3lxTE9McHBIR1cyaGNzZkFOMXF4bjlmSXA5NFJqb29Ock1yMDRMOEdZRTNsSnFVX0EzV1B1N2o3cUFlRGNza0NtZDVUR2FsM3lMLWIxaWtZZkpKNEJqdGZPWXFSRkItNjlrak85Y3lqX2daWm91MVBOOWhtcy1fU09EY1J4MC1rdE4ycWt0UE5tRjZ3YkZfUW5IM2pnTHpfcUk5MHVyVFZDcG9TQjVuRVNFUlR4aWhBejUyZzQ4U2p5eC1aUTExdmFON2ZadUdqWTVIRVZoQ2JORHRtc2gtMA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic_dementia",
-          "name": "dementia",
-          "keyword": "dementia"
+          "disease_id": "4979",
+          "name": "asthma",
+          "keyword": "dama"
         }
       ]
     }
