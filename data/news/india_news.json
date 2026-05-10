@@ -1,10 +1,82 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-10T12:45:00.573369+00:00",
-  "total_fetched": 82,
-  "unique_count": 82,
-  "health_related_count": 36,
+  "fetched_at": "2026-05-10T18:41:07.935557+00:00",
+  "total_fetched": 81,
+  "unique_count": 81,
+  "health_related_count": 29,
   "news": [
+    {
+      "id": "0e9cbe113917",
+      "title": "Plants Survived The Dinosaur-killing Asteroid By Duplicating Genomes - astrobiology.com",
+      "published": "2026-05-10T16:42:38+00:00",
+      "summary": "Plants Survived The Dinosaur-killing Asteroid By Duplicating Genomes&nbsp;&nbsp;astrobiology.comFlowering plants transformed into 'hopeful monsters' in 9 dire bursts across evolutionary time, study finds&nbsp;&nbsp;YahooDoubling their genomes may have helped plants survive mass extinctions&nbsp;&nbsp;New ScientistPlants may have weathered dinosaur extinction by doubling their DNA&nbsp;&nbsp;Courthouse NewsPlant Genome Duplication May Explain Flowering Plant Survival After the Dinosaur-Killing As",
+      "sources": [
+        {
+          "name": "astrobiology.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVnRsbU5nRWpiUEVKM0NTSFl6MC1GazJqc0NfcU5DMWl5V0p1T01lZXdOWjZVREJxWFhNOTRCb2J2Xzh0T0NCaGk3LUFtTXNxQmprNHAyamtzTnJTV2F2bmVoUHJCZWl1QjNQUkFVNVVpM0xiQzJFSGJPeEFBalc2T0pwLWVVa2hETmdVUzN1S0Q2TjlRc3JPVzlJSjlmSU9mdnBFUlBaY05zZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6dab66f8e6c",
+      "title": "Increase daily steps to 8,500 and keep weight off after dieting: Study - The Hans India",
+      "published": "2026-05-10T16:30:56+00:00",
+      "summary": "Increase daily steps to 8,500 and keep weight off after dieting: Study&nbsp;&nbsp;The Hans IndiaPreventing Weight Regain: Walk this many steps daily to prevent weight regain&nbsp;&nbsp;The Times of IndiaWhat's The Ideal Step Count For Long-Term Weight Loss? A New Study Says This&nbsp;&nbsp;MindBodyGreenThe number of steps you need to walk a day to maintain weight loss — no, it’s not 10,000&nbsp;&nbsp;New York PostExperts reveal daily steps count for dieters to avoid regaining weight&nbsp;&nbsp;T",
+      "sources": [
+        {
+          "name": "The Hans India",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVkzS1Y2OHRrRGllLWtRbExCbVppRXh2TFNlWkVSQVZWSGZJVnpleEgzc0JXd2ttc2ZibFZ6UVc2TEFTejRVTUFKQmxqTTZKYXBLdUZzZXJwMXdhRGxpbVpoTE5YUWFsMFRNeE9BaDQwd2Z1SF9semRQZXl6X1hGd1ViVnBpaFVaVkt6bS1DbVEycHZZUGFGYTRKbFQzY3ZxVEdZdjlvTWRkMkhoTUxudEpTZnlzYi1kbTh30gHAAUFVX3lxTFBlNnZxSmI4bWhTMXVqQWlJQmZGR3FRZUNzZGVISGxsanVWUENlQ2wycXg4cnI5dHdpVEVCcW1zX0ZEY2wyZmdBTlk3SlRzSDI4NUdTUjFTMGVZdkpyMEpKczVmd2ZIT2c1UEtNOVI5Rkh5VjFuN09DdEQ1QlFseGF2eG1CRy1EY05RaHBJTEhqcjVUa2dxOS1KYVRlU1BtZlpteXY2ejlVbmU0SnVsQ2xibFBYOE1CM1U2TVNObFZjUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4fe6b99d700b",
+      "title": "NASA Redesigns Science Discovery Engine Infrastructure - astrobiology.com",
+      "published": "2026-05-10T16:27:38+00:00",
+      "summary": "NASA Redesigns Science Discovery Engine Infrastructure&nbsp;&nbsp;astrobiology.com",
+      "sources": [
+        {
+          "name": "astrobiology.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnY3NkZqYXQtX3EzbjNLTThrcW9sR2Rzd2k2cUo2UXY0ZlFpTV9BNnA3cGJfWFV1TjVKM3NNRmFXME5hYThKdXpxNFJCZXY3bFE0U3k3OVFpQ3V5UTliMnNwbFpieURRVGMxSEppQjlNX19ja3V6VFdNTWRQNXJkajBBT0k4RDhpVFhDUV94MldjM2VLRllN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "928e581cc517",
+      "title": "Kochi Port on alert after hantavirus outbreak on cruise ship - The Hindu",
+      "published": "2026-05-10T16:16:16+00:00",
+      "summary": "Kochi Port on alert after hantavirus outbreak on cruise ship&nbsp;&nbsp;The HinduCountries airlift nationals evacuated from from virus-hit cruise ship&nbsp;&nbsp;BBC2 Indians safe after Hantavirus scare on cruise ship near Spain&nbsp;&nbsp;The Times of IndiaPassengers begin to disembark cruise ship hit by hantavirus — latest updates&nbsp;&nbsp;CNNPassenger with hantavirus was briefly on board a KLM aircraft in Johannesburg&nbsp;&nbsp;KLM Royal Dutch Airlines",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1hYWDJTRzMycWNvbC0xanE1VUhCbWxQd3RJZWxsYWJTdGZFbEpVUmlEUFFKNEVkdzNtMklaSks0TERVRkUxNEs1dTVqa1g0TW9yMnludXZiWjhlNGdMTjhTcXo2UlZWQXFQV0QwN29kU2ZHNERScm85SldWanhGQWlyMUZqbHpTYjZFNWg1RVZMSGV4Qmlocmc5QV9EekFlYW9YSnVIUVFITE9NcVo2d3hDaWJKcTI5VDhhTXBzN3hESnJC0gHLAUFVX3lxTE9GZUZFWkd3eWZ5ZldXVXhOdlV4ZGNFUG9zVkZDRjNPb2pJZTQxRkN2ckF3ZEZtUFZPSHIzc0h1UEF2RzV2WEU0a2ZySU9LWl9Mb0kyREpQZVRRRm9UU2xuMnMyeUo2cGRqZGdhenJJRTl5T0xDV0JPUTI1Tm9DeHQzeGdMYmFrVEtDZnhsLV9BakRXWHZ6UlNCNXp0YkZFMHljd1l4TEhIY2lRMlB2bzF2R1g5Y2V0c1lMLVRPamdRejdRNDI2MFRzNlNz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1829bc12c9f",
+      "title": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat - Phys.org",
+      "published": "2026-05-10T15:20:01+00:00",
+      "summary": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat&nbsp;&nbsp;Phys.orgForaging behavior in early humans&nbsp;&nbsp;Popular ArcheologyHumans Have Been Obsessed With the Best Cuts of Meat for 1.6 Million Years&nbsp;&nbsp;VICENew Research Shows How the Earliest Humans Got Their Meat&nbsp;&nbsp;GizmodoOur Human Ancestors Dined on Takeout&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iYmJLdDU5WUoweV92SmVtU2pxWWpsTm9yM0JFeWIxSl9LWjB1WnZYbU9XWHc2QnM0YkFLZ3VqbzlmNi1LYXU5cW81SXFhS3Z4N3pRQmNzX1lCNFlMT18wdWtFd3FNRlVSRmNIOGp0SWlvampG?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6047526a85b",
+      "title": "Cannabis leaves contain rare compounds with medical potential - Earth.com",
+      "published": "2026-05-10T13:31:01+00:00",
+      "summary": "Cannabis leaves contain rare compounds with medical potential&nbsp;&nbsp;Earth.comDon’t toss cannabis leaves: Scientists found rare compounds with medical potential&nbsp;&nbsp;ScienceDailyScientists Discover Rare Flavoalkaloids in Cannabis Leaves, Revealing New Chemical Complexity&nbsp;&nbsp;SSBCrack",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPajBKcHZYaXp5Y3BzQlVtU212YUpHSDRTVGNBUlVobXZGS0FfOGFJb29hR1BGOERpdGpKdHM0NFZhNzBVTUxyMVFsVy1HalRnZmdOWFNpbldYVGZQaFZMbUJNQVZRb3BMZzFUbGRldVhtV2FSSzNzMEtVLWpIWjQ2dXNqcGxrSGpybnk1Z1FEQXJtLW8?oc=5"
+        }
+      ]
+    },
     {
       "id": "781647cc69ef",
       "title": "“Cannot be explained” – New ultra stainless steel stuns researchers - ScienceDaily",
@@ -18,26 +90,14 @@
       ]
     },
     {
-      "id": "dff68711f516",
-      "title": "Cosmic miracle: Largest moon in solar system may still have active core after 4.6 billion years - Interesting Engineering",
-      "published": "2026-05-10T10:55:00+00:00",
-      "summary": "Cosmic miracle: Largest moon in solar system may still have active core after 4.6 billion years&nbsp;&nbsp;Interesting EngineeringGanymede's unique magnetic field may be powered by ongoing core formation—not a cooling core&nbsp;&nbsp;Phys.orgThe reason Ganymede has a magnetic field at all has stumped planetary scientists for decades, and a new study suggests the moon's core may not be done forming yet&nbsp;&nbsp;Space DailyGanymede Might Still Be Forming Its Metal Core Today&nbsp;&nbsp;Caltech",
+      "id": "bc23cfbca999",
+      "title": "Inside ‘mommy brain’: How pregnancy and childbirth rewire the maternal mind - The Times of India",
+      "published": "2026-05-10T10:02:00+00:00",
+      "summary": "Inside ‘mommy brain’: How pregnancy and childbirth rewire the maternal mind&nbsp;&nbsp;The Times of IndiaPregnancy Changes Mothers’ Brains. These Recent Discoveries Are Showing Us How&nbsp;&nbsp;Smithsonian MagazineA Mother's Brain Is Profoundly Rewired by Pregnancy, Scans Show&nbsp;&nbsp;ScienceAlertOften-maligned ‘mommy brain’ isn’t a bad thing, emerging research suggests&nbsp;&nbsp;The Denver PostYour Brain on Motherhood this Mother’s Day&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "Interesting Engineering",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96Y2ZKVldxUVdnZ0RYdUpJU0tRandoZ29VUWVOT2ZDN2R4dGNvN01aeXNPb0s5VXFMZXkxNmZNU2JudE1hbjdfTFVwRHlnQTZiSlgyVFlwRzlkUW9xQVphRVYtaHl5SEJ1ZDNBMEtidW5VWkhuWkhlS3RnTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a26aa4cef8e0",
-      "title": "Hantavirus-hit cruise ship arrives in Spain's Canary Islands - The Hindu",
-      "published": "2026-05-10T09:45:52+00:00",
-      "summary": "Hantavirus-hit cruise ship arrives in Spain's Canary Islands&nbsp;&nbsp;The HinduWHO’s response to hantavirus cases linked to a cruise ship&nbsp;&nbsp;World Health Organization (WHO)Passengers begin to disembark cruise ship hit by hantavirus — latest updates&nbsp;&nbsp;CNNHantavirus Alert: India’s Union Health Ministry activates precautionary surveillance; what travellers need to know&nbsp;&nbsp;The Times of IndiaWho Was Leo Schilperoord? 'Patient Zero' In Deadly Hantavirus Cruise Ship Outbreak&",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzdDaWRYSDI0Um9DaE4zQVAxOEdKdm5pME9oRU1Md3hQbW8xNFNCNDQ0TFJJakE4YmtndlM4MFF4OXRBQ28xRGRCc1pRQTRwYnBncU05aGNFdXNPVTFfY1FibzJJMTg4clcyeUVkdko4WkdWdVZXZTJkbFJRdDZrbEpodVFCalhReWN4cUNZLXZrVTdDY2xYamMxaWRnemZVenJGSkw0UXZranZE0gGzAUFVX3lxTE5UR1o3Vkpubkhhc3pOdFlObW1RbW5WdEJhZU12dnJEaUpWbTdtWkl2bmdmRG5VTWxrekluMWx6c3RibkJYTTdwR3dIUkxhMTlKZjRTT2VaUVRBd3B1ajh2RTdRYl84Ynh1aldmSGcxSWJGZjFIeElscnNrSEJOSi0xZURKdU00ME5zVV9WRGdFd3hJMlFac1ZFZy1tcElpTUxpMzZjelRFclMxbGp5VkI5SEdz?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTWllX0tRSEdGcEdpX3lQYzZwX2hBMUUzQ0Z6RVI3QkJtM0pCSE42eEhGbnExTTBFV1c5bE5zc0hCV1B6U3FnY1lfRnAyY0IwUmRIVjRwX2RMZVJGSGxRSWNWb1JDcEhnSXkxQm9CMXM4Tkg4R2ozLUFqM3Z4VzdzQ2pmcnRNSjRJd1Zwd18zLWM4RWpYMGdZaGIwVDAyN01wb3U4R195aF9iS1lGRi1lWnZiM0wxOTdsSDdEa1dSOUxQY3pmalZIN2hMNGpTV1ljZ29KVjhkZw?oc=5"
         }
       ]
     },
@@ -54,6 +114,18 @@
       ]
     },
     {
+      "id": "6f8685b4fdee",
+      "title": "NASA conducts supersonic test of Mars helicopter blades - News9live",
+      "published": "2026-05-10T08:21:18+00:00",
+      "summary": "NASA conducts supersonic test of Mars helicopter blades&nbsp;&nbsp;News9liveNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA tests confirm next-generation Mars rotors can safely break the sound barrier&nbsp;&nbsp;Interesting EngineeringSkyFall helicopter for Mars breaks the sound barrier&nbsp;&nbsp;Universe Space Tech",
+      "sources": [
+        {
+          "name": "News9live",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXhsSGk2UGhvcWxNNjZfT2h1Y0taYUZiRkpZbEtNU2hQQVRPWVVnVVMtb0RtRE5DQjlLcFc1UDhPM2s3Zno2U2F3d0M2Q0hlVnpqZ3ZmaVFZM3Z5OGo5SUQ3ZUpOcTFCSmRJV0REWHhuckR6QzdjLTExZ2duUXJ1eEhSU3NkWUZvQXdwRVE5X1FDeXJmU3lyTW5fa1RqZ9IBowFBVV95cUxPOEFJSjBtN3BpN0RBbVUxbTg4Vm94cVozX1JyYkc2TFFrbEoweWltYW9vNi1peUZRUDBVb1FhQjA1dERUUXlEcy1aQ2pGUHZmYnRtZ29FbmZDRXhrOWZzU3BxOGZXd3RvckJ3ZkxpOXh5U00xdE14NGY3SFJEWDJwQ2dHVkxMWEhwcTZhem5zZ2lKNWtnWWt3WHNuWEszRUFPdzE0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6e48d3955b6f",
       "title": "Emergence of Non-albicans Candida Species in Candiduria Among Diabetic Patients: A Cross-Sectional Study - Cureus",
       "published": "2026-05-10T08:09:22+00:00",
@@ -66,22 +138,10 @@
       ]
     },
     {
-      "id": "e2854eb0fffb",
-      "title": "Hidden strawberry gene makes fruit richer and sweeter - Earth.com",
-      "published": "2026-05-10T08:05:58+00:00",
-      "summary": "Hidden strawberry gene makes fruit richer and sweeter&nbsp;&nbsp;Earth.comThis Gene Tweak Turns Strawberries Into Healthier, Tastier Superfruit&nbsp;&nbsp;SciTechDailyScientists boost strawberry flavor and nutrition without changing growth&nbsp;&nbsp;ScienceDailyResearch Uncovers Potential of Housekeeping Gene to Enhance Fruit Quality Without Hindering Growth&nbsp;&nbsp;SSBCrack",
-      "sources": [
-        {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNGx6UkRhMDBoZ3dlcnVnUnhwSDlOTVVsUnBSRFJHMEhNVlFDZGswblM5eVVCdjZQdTE3WW9DcG5OSzdRcjdhUHlFeWIwb2EyRVpWcHVkZ3FoNENZZS12NTRmVFZxUHdxelhRWm5YblBNWnc4dFNwZzJqWHltU0FCSk9KS2QyeGpt?oc=5"
-        }
-      ]
-    },
-    {
       "id": "45b57c709ac0",
       "title": "Tracing Olfactory Receptor Mapping Between The Nose And Brain - Hackaday",
       "published": "2026-05-10T08:00:00+00:00",
-      "summary": "Tracing Olfactory Receptor Mapping Between The Nose And Brain&nbsp;&nbsp;HackadayScientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertHarvard Scientists Reveal Secret Structure Behind How You Smell&nbsp;&nbsp;SciTechDailyScientists Finally Reveal the Hidden World Inside Your Nose&nbsp;&nbsp;indonesiakiniScientists Create First ‘Map of Smell,’ Revealing How Noses Track Odors&nbsp;&nbsp;ZME Science",
+      "summary": "Tracing Olfactory Receptor Mapping Between The Nose And Brain&nbsp;&nbsp;HackadayScientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertHarvard Scientists Reveal Secret Structure Behind How You Smell&nbsp;&nbsp;SciTechDailyScientists Create First ‘Map of Smell,’ Revealing How Noses Track Odors&nbsp;&nbsp;ZME ScienceOne Map Changed Everything Scientists Thought They Knew About the Sense of Smell&nbsp;&nbsp;Indian Defence Review",
       "sources": [
         {
           "name": "Hackaday",
@@ -90,14 +150,26 @@
       ]
     },
     {
-      "id": "8cb4a3ec3910",
-      "title": "Scientists discover the brain’s hidden “stop scratching” switch - ScienceDaily",
-      "published": "2026-05-10T07:17:55+00:00",
-      "summary": "Scientists discover the brain’s hidden “stop scratching” switch&nbsp;&nbsp;ScienceDaily",
+      "id": "80b7d14c9b4c",
+      "title": "There's a wall at 45 solar masses where dying stars can no longer leave black holes behind, and gravitational wave statistics just confirmed it was real all along - Space Daily",
+      "published": "2026-05-10T07:45:03+00:00",
+      "summary": "There's a wall at 45 solar masses where dying stars can no longer leave black holes behind, and gravitational wave statistics just confirmed it was real all along&nbsp;&nbsp;Space DailyStudy Reveals Black Hole Collisions May Be Creating Universe's Biggest Cosmic Giants&nbsp;&nbsp;NDTVHow do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceHow black holes become cosmic monsters: Scientists uncover the violent merger chain behind giant space objects",
       "sources": [
         {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaVnJPZXhjb0c2UnotWUJZVFZrMkE4aHBxdk8xOEVkeE53TmF4QU5hcFZWeXA4eWI2WncyUEZ5NV9UdjhhTTlYOXY3NWdTYXZCN1BZUHNmVzRnN0VSd1VlT2RjYVFleUltT1Q0alYtRQ?oc=5"
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTJWTDI1U1Y1YXFfb0l5Vk1aa3h2ODIwbG80aUhnQ3RfTVI1aUVVQS1ZR2tPS1VITVZCWTF1M203YU5oZEtEMjZJaVFqNGRjdzM5OVBvbjdpejlxeUZJS1RkSzZfV21TbzVodzhoZUcyNGVYNmNEeF9RYVg5b1RMTld1dm9jLS02ZS1WcjZobHl5X1E2ZW56TkpGeU1ZdVJVdFV3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c7f53ff2bfc4",
+      "title": "World Lupus Day observed globally today to raise awareness about autoimmune disease - News On AIR",
+      "published": "2026-05-10T06:49:29+00:00",
+      "summary": "World Lupus Day observed globally today to raise awareness about autoimmune disease&nbsp;&nbsp;News On AIRDoctors Dispel Myths Ahead Of World Lupus Day&nbsp;&nbsp;Deccan ChronicleBeyond the Butterfly Rash: Clinical Pearls to Early Recognition and Monitoring of SLE&nbsp;&nbsp;The Indian PractitionerLupus Awareness Month 2026: Your Guide to Make Lupus Visible&nbsp;&nbsp;Lupus Foundation of AmericaSUM On Lupus Aware&nbsp;&nbsp;Tathya",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmJQZDhxRjhCTUlaVVdNSzB5NnFPM2FLT2NOM2l3cHp3ZlZiRmVVeDh0Y2tWN3FLc3RYQi1EYk9DVzlaRE03UGFiUWgwYldwMzYyT0JHTTVSbE1sMVJCRU1lM0tpbENmMTdnVXRVV3RXUjRMbkw2UkxZWDMxbnF0aXJFYW9Gckd6TUlrcW1rN1BqVTVINmF3RXlSVXFRcVZ4dWZjTFBLM2g5UW96TnBTMkJDOA?oc=5"
         }
       ]
     },
@@ -129,7 +201,7 @@
       "id": "998c5bb12d24",
       "title": "Scientists stunned as volcano cloud destroys methane in the atmosphere - ScienceDaily",
       "published": "2026-05-10T05:02:53+00:00",
-      "summary": "Scientists stunned as volcano cloud destroys methane in the atmosphere&nbsp;&nbsp;ScienceDailyViolent Tonga volcano eruption polluted the sky, then cleaned it too, study finds&nbsp;&nbsp;India TodayVolcano Cleans Up After itself by Removing Methane from the Air&nbsp;&nbsp;LabcompareTonga's eruption revealed a natural methane scrubber hiding in the stratosphere&nbsp;&nbsp;VegOutThis volcano didn't just erupt—it triggered a hidden atmospheric cleanup scientists never expected to see&nbsp;&nbsp;Sci",
+      "summary": "Scientists stunned as volcano cloud destroys methane in the atmosphere&nbsp;&nbsp;ScienceDailyViolent Tonga volcano eruption polluted the sky, then cleaned it too, study finds&nbsp;&nbsp;India TodayThis volcano didn't just erupt—it triggered a hidden atmospheric cleanup scientists never expected to see&nbsp;&nbsp;Science XThis Violent Volcanic Eruption May Have Revealed a Hidden “Emergency Brake” for Climate Change&nbsp;&nbsp;The DebriefVolcano Cleans Up After itself by Removing Methane from the",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -153,7 +225,7 @@
       "id": "2ec904f88c45",
       "title": "More than 100 cruise ship passengers on Caribbean Princess taken ill with norovirus - Sky News",
       "published": "2026-05-09T22:21:23+00:00",
-      "summary": "More than 100 cruise ship passengers on Caribbean Princess taken ill with norovirus&nbsp;&nbsp;Sky NewsWhat Is Norovirus? Caribbean Princess Cruise Ship Outbreak Sparks Global Concern&nbsp;&nbsp;NDTVNorovirus outbreak: More than 100 sick on Caribbean Princess cruise ship departing Fort Lauderdale&nbsp;&nbsp;The Times of India115 sick in norovirus outbreak on Florida-bound cruise ship, CDC says&nbsp;&nbsp;YahooNorovirus vs hantavirus explained: Key differences to know after 115 fall ill on Prince",
+      "summary": "More than 100 cruise ship passengers on Caribbean Princess taken ill with norovirus&nbsp;&nbsp;Sky NewsWhat Is Norovirus? Caribbean Princess Cruise Ship Outbreak Sparks Global Concern&nbsp;&nbsp;NDTV115 sick in norovirus outbreak on Florida-bound cruise ship, CDC says&nbsp;&nbsp;YahooNorovirus outbreak: Wetin be norovirus wey make ova 100 passengers fall sick for Caribbean cruise ship?&nbsp;&nbsp;BBCMore than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise&nbsp;&nbsp;NBC News",
       "sources": [
         {
           "name": "Sky News",
@@ -174,18 +246,6 @@
       ]
     },
     {
-      "id": "f4301e080670",
-      "title": "Why ion engines barely push harder than a sheet of paper and how that whisper of thrust is quietly rewriting the economics of deep space exploration - Space Daily",
-      "published": "2026-05-09T14:40:24+00:00",
-      "summary": "Why ion engines barely push harder than a sheet of paper and how that whisper of thrust is quietly rewriting the economics of deep space exploration&nbsp;&nbsp;Space DailyNASA Tests Plasma Engine for Mars Travel&nbsp;&nbsp;GK TodayNASA Fires Up Record-Breaking Plasma Thruster for Future Mars Missions&nbsp;&nbsp;SciTechDailyGenesis AI’s robotic brain aims to give general-purpose robots human-level dexterity&nbsp;&nbsp;MSNNASA takes step toward ion engines powered by fission reactors&nbsp;&nbsp;Am",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRzJ3TkVyb0hGUlEwUVJCaGpnWlJrUUJraWFhRF9iV3ZES2lRMTBBcVFxTk1SUW9oMmxENkQtNTNmTHZFaDFjTk1MVEhhbC02Z0JfNFZiM1hUdXpzWGRyYUo1cWc5aGlSSS0tZVhfQnN5dkZleExNOVBXSEtWUWpmWWhuOUVEa19xeDBiYzFlSW9EdUI0d1lnWkJnYjl6V2ZqdnBpV0pPQkRrN3ZpUUdfZU1UUEs2RDZiYnZQcUlMV2c3aFBtZlY3UktDeldfNW9aRUhya25TZVpVSndqRGRSS0NiV2pKeWRmTG8yOEhsZnBxSHFfTUNDcDhjQXppNEFhdDdVWW9iUXI?oc=5"
-        }
-      ]
-    },
-    {
       "id": "32007987e7d7",
       "title": "Climate Warming Accelerates Spread Of Antibiotic Resistance In Soils: Study - ETV Bharat",
       "published": "2026-05-09T13:56:19+00:00",
@@ -198,38 +258,26 @@
       ]
     },
     {
-      "id": "005cf983a45a",
-      "title": "Hantavirus Vaccines and Treatments Are in the Pipeline - The New York Times",
-      "published": "2026-05-09T13:41:13+00:00",
-      "summary": "Hantavirus Vaccines and Treatments Are in the Pipeline&nbsp;&nbsp;The New York TimesModerna flags work on Hantavirus vaccines before cruise outbreak&nbsp;&nbsp;Moneycontrol.comBath pioneers announce ‘promising’ Hanta vaccine in development&nbsp;&nbsp;Laboratory NewsOpinion | The hantavirus outbreak underscores the need for mRNA vaccines&nbsp;&nbsp;The Washington PostHantavirus vaccine efforts lagged for years amid funding gaps — NYT&nbsp;&nbsp;RBC-Ukraine",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkhqQTc1Q2d6anBaeDZ4UDlfZ2d5S3R1RkVraGxHVFhUclFoaGZHZjdSY1VKcTJSemRmWVNUWHNtN3RIUXFzUVpfbFIydTJKcWF4UUVnMkJyd2U3eDZDRHhPcS05LW9zOTR5NkdtRGpKVXdaazBuUXNqMS1sVUlHSmxNQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d91d886d8bb5",
-      "title": "Largest Black Holes May Form Through Repeated Collisions, Study Suggests - Gadgets 360",
-      "published": "2026-05-09T12:30:45+00:00",
-      "summary": "Largest Black Holes May Form Through Repeated Collisions, Study Suggests&nbsp;&nbsp;Gadgets 360Study Reveals Black Hole Collisions May Be Creating Universe's Biggest Cosmic Giants&nbsp;&nbsp;NDTVGravitational-wave constraints on the pair-instability mass gap and nuclear burning in massive stars&nbsp;&nbsp;NatureHow black holes become cosmic monsters: Scientists uncover the violent merger chain behind giant space objects&nbsp;&nbsp;The Times of IndiaScientists have detected a forbidden zone in sp",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGx6Zzh3bkFudU8ySG4yemVSVk1reGVVM2t1Vm5mVWNJYk45TFZiZVNzR0F5ejRBOWNpZ000TmJ3SC1LTy1mSUlXcFVMc2ZhRXRFV3VHeGJTQTY5WVlCbzdtNUdvcEZGOUNmckpYSUc2SHZQSW9lZlFoOTdUdFE3WlozRnVYRXBDeFdIS3JINXZEVEUwMHlpdl9Od0RnakdEaGlwZzZFT0VfUnZ6UHZXMzlB0gG3AUFVX3lxTE5LTmo4eGhKRUticWR1bU5jNkM2Si1JRlphbENCOFlablpCbUcyUmVLQUxzdTR1SDlJem5aVENXU3ZOSjFHX1BsM2E3bEFKUDBmYzBVUG1jNHJnWXFZNnJtMHZURFZMOHNKbW91bXhYbnNSaEpsYm5zYXJRa24yMXJNTTR3enpJV3lmUUQ5VE5hTWJNZUtFallVLTZzQVhyeVlpOTFBMlk1VW1Mcy1lWkdPQ3lyS0c0UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "54abfa63590c",
       "title": "Child deaths mount from Bangladesh measles outbreak - The Hindu",
       "published": "2026-05-09T12:29:09+00:00",
-      "summary": "Child deaths mount from Bangladesh measles outbreak&nbsp;&nbsp;The HinduBangladesh Measles Outbreak&nbsp;&nbsp;GK TodayPetition seeks Tk 2cr for each family of 352 children who died from measles, symptoms&nbsp;&nbsp;The Daily StarNine die from measles, related symptoms in 24hrs&nbsp;&nbsp;The Business StandardIndia Must Stay Vigilant Against Bangladesh’s Measles Surge&nbsp;&nbsp;Greater Kashmir",
+      "summary": "Child deaths mount from Bangladesh measles outbreak&nbsp;&nbsp;The HinduBangladesh Measles Outbreak&nbsp;&nbsp;GK TodayPetition seeks Tk 2cr for each family of 352 children who died from measles, symptoms&nbsp;&nbsp;The Daily StarNCP calls for immediate declaration of national emergency over measles outbreak&nbsp;&nbsp;newagebd.netIndia Must Stay Vigilant Against Bangladesh’s Measles Surge&nbsp;&nbsp;Greater Kashmir",
       "sources": [
         {
           "name": "The Hindu",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVlCMS1RaXg2ZklBQkdtRllkYUtTSFFVUGlDbERLTlBvZjM0NHd2c1RRUjNYQ3BiZjRFQkNOOU9UVVJyOVdvVXZqSWdxaXA0UU5UdW1NRTAxbWY1c3poMUN6MGJFT2ZjSElJY0g4R3FFMFdhaTZTbS1rMnhzSHZocXR0TmRSZHpqRktUZzVDT3dxUlVUTkdPWC1RMDYyb09jNHdrR3U2YnBrV2Q1WFIteEhn0gG4AUFVX3lxTFBaZGNndUdicVdlR0o5MWVhWDNYd3c5WW5jLUcxM3poVFY1S3prUWJmNnpNU3kzcWVBTWIzbF8yRWRZb1RpZkRaV3FBSlpNUV8wUlRaaFBiMUZYeTMtM09JYWpkenBJakNFa091RjRaWjlrWS1CZHlKLUx0MjJ0akhUWDhUZ3I0dVFWSHVYN0JlODhlTWMyRjhJODY5SDVqVVhxTms1VzJhLVlmcE5qbUhHYWk5UF9rbmY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "281218c112d2",
+      "title": "Scientists discover a hydraulic link between the abdomen and the brain - PsyPost",
+      "published": "2026-05-09T12:07:09+00:00",
+      "summary": "Scientists discover a hydraulic link between the abdomen and the brain&nbsp;&nbsp;PsyPostMovement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertYour Brain Is Full of Junk, but Scientists Say Doing This Can Help Clean It Out&nbsp;&nbsp;VICEBrain Health Study: Simple Movement Helps Clean the Brain&nbsp;&nbsp;Pune MirrorDirty mind? Study suggests gut movement may flush excess material from our brains&nbsp;&nbsp;The Spokesman-Review",
+      "sources": [
+        {
+          "name": "PsyPost",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEpzeUx6VHdBNUFTc0Mwd2Q5UHVuRi1qY0xfOUlxVlNwdk5pM19MOTV6VU9BY3pTU29fRkhRSlJ3U0poVUF1ZlM5RFdNanZWYkdGYUlFU0F5cU5JOWxVSE1BRjBYMk5SRkpYUnRBYm1Wbm96N0lmZFJjUWVoYXRjYi1vZkhBSXZCTkJ6SU9iaXBVc3l2THBhNklSbw?oc=5"
         }
       ]
     },
@@ -282,50 +330,14 @@
       ]
     },
     {
-      "id": "e77b58968273",
-      "title": "Study Examines Thermodynamic Stability and Anticancer Potential of Modified 2,3-Unsaturated and 2,3-Dideoxy O3-Betulin Glycosides - geneonline.com",
-      "published": "2026-05-09T07:25:20+00:00",
-      "summary": "Study Examines Thermodynamic Stability and Anticancer Potential of Modified 2,3-Unsaturated and 2,3-Dideoxy O3-Betulin Glycosides&nbsp;&nbsp;geneonline.com",
-      "sources": [
-        {
-          "name": "geneonline.com",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbDNOeVk3VXFmSHlNMXpqUVBGeEVlSGlwNVFVanJKcGI0OGJBVVRuNkFfaVc3bUxhVXBWbWU0Y2V3ZlpuZGFaVl9yc01RWlB4eUs3cGlIRThNWER5VkNDUXE2UlFSeVgwTlBGMGJaQlVsUFhWMXMyQWlUcE9xRFhyNzRsRGZkSERTX1FwZnVBYnhyNUpnVmtacWV6dkRIN3JISVlRMjI1ZVpRWlJ0LTF3M3ltX0tMU1RYTjBqdDlKY3BSajZSdzQ5ck5BWVdQdXJSZEhwOUgtTllub3F1UFpqN2Vqa0ZKQl95NXVR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "91a99e187da6",
       "title": "Azide-to-Diazo Conversion Offers Safer Route to Versatile Diazo Compounds - Technology Org",
       "published": "2026-05-09T05:00:00+00:00",
-      "summary": "Azide-to-Diazo Conversion Offers Safer Route to Versatile Diazo Compounds&nbsp;&nbsp;Technology OrgSafer diazo compound synthesis advances medicinal chemistry capabilities&nbsp;&nbsp;Drug Target ReviewAzide-to-diazo reaction unlocks safer path to versatile nitrogen-rich compounds&nbsp;&nbsp;MSNJapanese Chemists Find Safer Path to Key Drug-Building Compounds&nbsp;&nbsp;News Ghana",
+      "summary": "Azide-to-Diazo Conversion Offers Safer Route to Versatile Diazo Compounds&nbsp;&nbsp;Technology OrgAzide-to-diazo reaction unlocks safer path to versatile nitrogen-rich compounds&nbsp;&nbsp;MSNJapanese Chemists Find Safer Path to Key Drug-Building Compounds&nbsp;&nbsp;News Ghana",
       "sources": [
         {
           "name": "Technology Org",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXNJS2UyckdKWUt4VFBqdTNQUTRyUkJZblNqVFlmVUQxZURuY2NaVk1ueGROeS1WNWQzazgxeHdkYnlDS0VucFVXbnJkWFA1V1pROEpUNXAyWVhQR3Nlc3R3dWZsTUFDSFhReWNVLTdGQmhHSlBOeVNGal9EZ2UyaTEtdmJqSWxiWDJnN3N4NHc5bjlmU1A1MmVmTlE1VGxQR09xTWtIc1E1alE4aldWXzBR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cd89bf699304",
-      "title": "Exercise may help the brain clean out waste, scientists find - Mid-day",
-      "published": "2026-05-09T03:41:00+00:00",
-      "summary": "Exercise may help the brain clean out waste, scientists find&nbsp;&nbsp;Mid-dayThis Simple Movement Could Be Secretly Cleaning Your Brain&nbsp;&nbsp;SciTechDailyScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyDirty mind? Study suggests gut movement may flush excess material from our brains&nbsp;&nbsp;The Spokesman-ReviewScientists discover a hydraulic link between the abdomen and the brain&nbsp;&nbsp;PsyPost",
-      "sources": [
-        {
-          "name": "Mid-day",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcG5fcENGSzVFYXNGXzVNTnN2WGd4NEQybFdRei1LY0NjTkVReEFDUF9xc3djT2tyU0hnVzNuRVRoUDJzN1RzVEpESEs4cEhmODRST3hUTFhMcklZUENZUHRqSTJMa09nOVNXekNBcVVOaE83NVFGMUI5YV9GaDRwS1hJOVpuSHhrV0hiaEdyLVl4MzNLN3h4VF93UTVrcEVHUzM3aFNEMmpyV3lDbjFSaWNGamd1TVnSAbwBQVVfeXFMTnRRSS1PY3JEZDZvTnVDR0VYcHlNWE03WFJnVmV6dU45Ri1ObGtoZWNCNEM3WTNCMFhKYWlTSHRqLXpXZzZuWldJbEtlOE8wWHo5Z0VRdnZ1Ymt2bDRrdjNXbFFjTW51UkQ0RHpUMDRock1hdThBei1qUzJ5Q1BTVHZIR1dWVnhvNE9meXlaRTV6c01UWGFSTkZLcXAxNEtZa2VqQU5CRG9EUERUVWpMX2dpLTEyMFVHXzRJQmg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c017456fb393",
-      "title": "Independent association between relative fat mass and total bone mineral density in U.S. adolescents: a cross-sectional study adjusting for Appendicular Lean Mass Index - Nature",
-      "published": "2026-05-09T02:59:17+00:00",
-      "summary": "Independent association between relative fat mass and total bone mineral density in U.S. adolescents: a cross-sectional study adjusting for Appendicular Lean Mass Index&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRHlsMmpjbjFXakg5UGtOWW5LV08zeWU4VXBwOUtsVEFxdmx4T3Y4ZEZXUGVIbktWQWtpWlhuOWtPZHJaeDhIQUNwZEVBQjlfVm9lRHdvdzhWRGpibVJv?oc=5"
         }
       ]
     },
@@ -338,102 +350,6 @@
         {
           "name": "Newswise",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeTJmZWl5TmM0a2hnNFJwVzYwNEVYeWJrWDFfY29tMUdLMURnN3oxSGJWaGx4c2N0dXFjbEJLTUxQOHNqZGh4QXdCTm9EY1djTGp3a2JFeEpGRl84NFQ2MTJ5NmpaM3A4WTVZTGE0Z2xjYTJTX0t3OFlBZWU5TUxlQWxxSE14bkRYd2s4cW9XdXBMbW5qcHh1d01jUk9TNVhx0gGgAUFVX3lxTFB5MmZlaXlOYzRraGc0UnBXNjA0RVh5YmtYMV9jb20xR0sxRGc3ejFIYlZobHhzY3R1cWNsQktNTFA4c2pkaHhBd0JOb0RjV2NMandrYkV4SkZGXzg0VDYxMnk2alozcDhZNVlMYTRnbGNhMlNfS3c4WUFlZTlNTGVBbHFITXhuRFh3azhxb1d1cExtbmpweHV3TWNST1M1WHE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "099944b5b30a",
-      "title": "NASA pushes Mars helicopter rotor blades beyond Mach 1 in testing - AeroTime",
-      "published": "2026-05-08T19:26:18+00:00",
-      "summary": "NASA pushes Mars helicopter rotor blades beyond Mach 1 in testing&nbsp;&nbsp;AeroTimeNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA tests confirm next-generation Mars rotors can safely break the sound barrier&nbsp;&nbsp;Interesting EngineeringSkyFall helicopter for Mars breaks the sound barrier&nbsp;&nbsp;Universe Space Tech",
-      "sources": [
-        {
-          "name": "AeroTime",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQlBBbG5VaGFCbjc1Sy1fVjlHVW9qa3BRUkNBMTV2eFFKdC1XMVlmLTF2cjNydWtVMkRQRW9NS2FKQXpTM3lCSEVmeWVZSjRvWEV0ek9nd3A4dFpTVElCd0lkT3oxVFFGUzZmOVBJeV9ld2dPM0p6emR5ckZpN3F0YUZOVTR6Z9IBiwFBVV95cUxQS0w5RWZSVlVHdXN5eUVfV3VQY3BSck9KajF6dGl2aHBvQ3FIOXJJWHc0S25GRFlUR25lMnNMVTQtTVhVN1lFMWRrbVJGNjJRekIzNnhjSm5DOEhpM1lQREhDOWhYMHc0SlkzZkluWlpxMFFTUjQ4LXlPNS1qUTBXNXVsckVBcjI4Skhj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "14a1333f7a3b",
-      "title": "How contagious is hantavirus compared with COVID-19, measles and RSV? - Global News",
-      "published": "2026-05-08T17:56:20+00:00",
-      "summary": "How contagious is hantavirus compared with COVID-19, measles and RSV?&nbsp;&nbsp;Global News\"Outbreak Can Be Contained\": Dr Soumya Swaminathan On Hantavirus Crisis&nbsp;&nbsp;NDTVDiet Report - Pharmaceuticals - Hantavirus by Elara Capital&nbsp;&nbsp;Investment GuruHantavirus unlikely to trigger pandemic, no confirmed India deaths linked to current outbreak: Report&nbsp;&nbsp;Sambad EnglishHantavirus spread: Needs close contact, less contagious than Covid, says expert&nbsp;&nbsp;Deccan Herald",
-      "sources": [
-        {
-          "name": "Global News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUkpRR280V19iN251TVdRY2hwTU1CU25JMElHWHh3RWJpQzFqYnZOQXppbVRmQXNYS1RWTVB1enFTOFlmaXQ3OEpKcm5zeHZPSGxXZGFkNHBZeVJRS2FWbEFwd0hxam1EVzR0b2poRzNGLVhfTmVTUHdiMmpRU2wzUlRwMk8tUmZKMkxDNmZ2cw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "acdc1b4be6ff",
-      "title": "Scientists discover a new way to prevent gum disease without killing good bacteria: Study - ANI News",
-      "published": "2026-05-08T17:54:00+00:00",
-      "summary": "Scientists discover a new way to prevent gum disease without killing good bacteria: Study&nbsp;&nbsp;ANI NewsScientists discover a new way to prevent gum disease without killing good bacteria&nbsp;&nbsp;ScienceDailyInvisible smart bug fights gum disease&nbsp;&nbsp;EurekAlert!Scientists Explore Bacterial Communication to Promote Oral Health&nbsp;&nbsp;SSBCrackScientists may have found a new way to stop gum disease without killing healthy bacteria&nbsp;&nbsp;Moneycontrol.com",
-      "sources": [
-        {
-          "name": "ANI News",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOHo4RTlBbkpQOXhob2Fodk1uRVhKZ1ZvUS1mOW1ZZ1g1UUZJNldORjRoeGVkV1dJQ3RSaE5DdG10UHVyTS1MSTNTZUU5d2N0a1lLUUFYN1RzRy1uSTB2bHk0YXE3OWZZQzFoZW8yQXhscDZjdlh1MDdGT0d4VHNXenVyUzdCajhCaFZSZXppdVFCdHFWLXYzdlNkNmlOZDJWajJobHZhemlibG5BLWNzTHVxNlBhSDUxODRqa0dPNzBETnV4LWVrNmw0XzZZczluakVB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "580cbc72c829",
-      "title": "After Exposure, Then What? Closing the COVID-19 Prevention Gap - EMJ",
-      "published": "2026-05-08T17:14:33+00:00",
-      "summary": "After Exposure, Then What? Closing the COVID-19 Prevention Gap&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdG1ReEpsVDBDTFdpZ055TVQwNndWdVFhUmh2aEsxNkttTlduM0NXb05tbU1ZZG80NHVhdnR5UW9nU0xBT0ZfV0xsXy1HQnhnVXRwcHY3azdEQllheUJqQkhObU5oQWhEZGNkTm5jSEYybDJWYWVQZlpxM1V0VU9EeGtwLUFkWmlNR1BSME9pMVQwaEd4dk1HRExnTExVXzRzREtUajJ2SEJDU1ViNnl4NXZ3X0J6ejJxbTZhOGdtVTVmQTFJZWZJY3JRTVU2QWVqVUt3UEp4YVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "22b991f011ea",
-      "title": "Elevated Pulse Pressure Predicts Cardiovascular Risk - EMJ",
-      "published": "2026-05-08T15:03:59+00:00",
-      "summary": "Elevated Pulse Pressure Predicts Cardiovascular Risk&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXM0SU9MTkJ3VTV0Wml5Tm1xUE82V3ZtWFlGY2xjVkIzQW5MZU5kYU5LXy0wWnhLX0x1dUl3Y2V5c1dYaTFlUWhlbWo5R3gwN0pYLVd5SlU2bV9OSG4wMmxoN1FIMjgybU1wUEhEU0Y3R2lEVzI5bnlHRF9LbkhUZVhBdDdaR0cyWGxWQkdNaXAtblhmbWRYYVBOenQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8562bb2a22bc",
-      "title": "New AI doubles the accuracy of early pancreatic cancer detection - Rare Cancer News",
-      "published": "2026-05-08T14:48:43+00:00",
-      "summary": "New AI doubles the accuracy of early pancreatic cancer detection&nbsp;&nbsp;Rare Cancer NewsNew AI model spots pancreatic cancer up to 3 years earlier than human doctors in test&nbsp;&nbsp;Live SciencePredictive Cancer AI&nbsp;&nbsp;Trend HunterHow AI Could Help Cure Pancreatic Cancer&nbsp;&nbsp;Derek Thompson | SubstackNew tool can find deadliest cancer years before tumors can be seen on a scan&nbsp;&nbsp;New York Post",
-      "sources": [
-        {
-          "name": "Rare Cancer News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3RsRUw1QXdjMWpsMWxWcENXNmN0LXc5VzFCdFpTZi0yM2tuR1NONkxiV3B0VkhSMnRscV85US0ya1dIRHBIRVFUYTI5TTRVTU5kWC1ZcjlnVmlLS2VRcG55WXdnWVdJYlVleDBZczNzSUJtbFJSUWdfenB2R1ZoamRFdG1mVURIekpKV29GX3ZpWjc0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "357576f2ac8e",
-      "title": "BADBIR Study Explores Infection Risk in Psoriasis Care - EMJ",
-      "published": "2026-05-08T13:03:35+00:00",
-      "summary": "BADBIR Study Explores Infection Risk in Psoriasis Care&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkMxR0dDLXVJV0NORGc0T0tlZEVKc2FRTHAzT2ZSMlhqSVpkSUNYWjFNZ1ViT1RpSFY1d2pOOVh1ZTY5VnlHOFduYTR5V3hiWkdRWXhyREVzN1BpcjZXdml2YmFMTmVnS3ZaQzhQR2xGNkd3WDViSFhyeXk4dTVfb2VCbXhaUkh3bjN6bzg2b1lPRzN2Q1VadXdQQ3IyQkN3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fba5c9769f4e",
-      "title": "The Reef Secret That’s Been Under Our Noses, and Could Save Millions of Lives - Indian Defence Review",
-      "published": "2026-05-08T13:00:00+00:00",
-      "summary": "The Reef Secret That’s Been Under Our Noses, and Could Save Millions of Lives&nbsp;&nbsp;Indian Defence ReviewScientists discover coral reefs may hold the secret to future medicines, including new antibiotics&nbsp;&nbsp;The Times of IndiaHidden life in Andaman corals could shape India’s Blue Economy&nbsp;&nbsp;Down To EarthWhat scientists found inside coral reefs could change the future of medicine&nbsp;&nbsp;ScienceDailyNew Research Reveals Unique Microbial Communities Within Coral Ecosystems&n",
-      "sources": [
-        {
-          "name": "Indian Defence Review",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcU1QRUtQWmk3Mm9RbHotNDBldC1LQUVzQUNYdFFZVUxmR3h3TEZPTm5ESm9haklPZUlfX3U1TGxDUUhEZ2hNaUFLekxBZ3lnbkJTZ01fRGpOdGJ4WnVVb2tyRzVKYWx4VEtHeXlBNmRwbGFlVVJuZ2UtZWVHT1B3ZA?oc=5"
         }
       ]
     }
