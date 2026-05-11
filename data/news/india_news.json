@@ -1,31 +1,103 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-11T14:14:03.601210+00:00",
-  "total_fetched": 76,
-  "unique_count": 76,
-  "health_related_count": 28,
+  "fetched_at": "2026-05-11T19:22:30.695187+00:00",
+  "total_fetched": 84,
+  "unique_count": 84,
+  "health_related_count": 35,
   "news": [
     {
-      "id": "19a8fb2f0a6a",
-      "title": "Surprise X-Ray Discovery May Explain Strange Red Dots in Early Universe - ScienceAlert",
-      "published": "2026-05-11T14:02:15+00:00",
-      "summary": "Surprise X-Ray Discovery May Explain Strange Red Dots in Early Universe&nbsp;&nbsp;ScienceAlertScientists Find Rare X-Ray Source That Could Reveal Truth Behind \"Little Red Dots\"&nbsp;&nbsp;NDTVUnlocking the Mystery of X-ray Dots&nbsp;&nbsp;NASA (.gov)James Webb telescope zooms in on a black hole that could reveal the truth about 'little red dots'&nbsp;&nbsp;Live ScienceOne of the Enigmatic “Red Dots” Observed in the Early Universe 11.8 Billion Light-Years Away Is Emitting X-Rays&nbsp;&nbsp;La Br",
+      "id": "991983d95e76",
+      "title": "Scientists just found the holy grail gene that could let humans regrow their own limbs one day - The Economic Times",
+      "published": "2026-05-11T18:22:46+00:00",
+      "summary": "Scientists just found the holy grail gene that could let humans regrow their own limbs one day&nbsp;&nbsp;The Economic TimesScientists successfully transfer longevity gene and extend lifespan&nbsp;&nbsp;ScienceDailyRochester biologists just transplanted a naked mole rat gene into mice and extended their lifespan — and the 4.4% number matters far less than what the method actually proves&nbsp;&nbsp;VegOutGene Transfer from Naked Mole Rats Provides Insight into Longevity and Disease Resistance&nbs",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlZDSEpqTkl2YndGak9sZGRRay1DRHJtcGQ4d2NMOU9ET3lfbG4wNWExektZOVk2OEYxbkZvcGFLeDBHdHIxNnFUQThzSUQzMFZNdmpSTm9TTEN2NmpQaUhoOU42cGlKalFJUlhIdkVJX09SNnlITXBuVC1OMVB0OEpMRlJSbHdBRXo4TjJ3YXNIWTdVaTVqelBzYUdNU0xYa3c?oc=5"
+          "name": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOM0tIMkpHSklhWTRobE9wa3lYamlOYnhNbGdrb1ROcW5jRTQzcmQzMFNUQlVvWEtsZk44YkRUV2xzaWJTaXJmbHA2UzFxcVJCNVNLZ3hsOFE3amFpdVFaR2NELU9xSEFHM1ZrRldzY1FzNkZVVkw3UXJxWWUtRjlJNGNrYkdaRmlYUmFBYjNsYkhTd28yQXpkVzI1SUJ1a3gtaVNUTjhidUdKSXBQSlRmRWZqQkxJdi1uVHZSalBzcW44OGo5WGpfTGFFbUN0QzR3RnROMlpDTDdGZEVFZXFURkFyUWM1bW81dGhxYzUzbXY4NFo0VlVlTExuX3V5aUnSAYQCQVVfeXFMTWJLRHNsM0d1ZDBjOUdOV1Rad0hoVmZ0SnIxcGVzWEdJTEVqQmJNRHlJUmlBeWphY3k0bmZPRkI0eFB0R0JMZFc3MEl4b0tzQmVyQVBhemdGVm1jaVp5MXFMcWVkWjhIV2JkcFBZd280aFVvaWxwNEJiSmY1SGFfNEtPZlRPbnZEbTBYeFV4enhtc2tic3lHTHFQb1d6bGhHTm1PVGp2dXFDZWlKM1BqaHhRdTg3MldIT0JRTVRHRzYtMWxnX25TRFc2bWNzRDh1QkxDbDFsZTZkNU1qZ2JqVTBpbHRtSE55QWFMM0ZCcWpHSnlXYnIwZ09JWXl3YXhOZktmdGo?oc=5"
         }
       ]
     },
     {
-      "id": "1edf2fb68904",
-      "title": "Stripped down bacterium functions with one less amino acid than the rest of life on Earth - Chemistry World",
-      "published": "2026-05-11T13:54:58+00:00",
-      "summary": "Stripped down bacterium functions with one less amino acid than the rest of life on Earth&nbsp;&nbsp;Chemistry WorldRadical Scientific Discovery Brings New Insights into the Origin of Life&nbsp;&nbsp;The National HeraldScientists Changed a Lifeform’s Fundamental Code. It Shouldn’t Have Survived—but It Did.&nbsp;&nbsp;AOL.com",
+      "id": "00e40da133a9",
+      "title": "Molybdenum Was Scarce, But Early Life Chose It Anyway - Universe Today",
+      "published": "2026-05-11T18:19:00+00:00",
+      "summary": "Molybdenum Was Scarce, But Early Life Chose It Anyway&nbsp;&nbsp;Universe TodayBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureEarliest Organisms on Earth Built Their Biochemistry around Molybdenum, Study Suggests&nbsp;&nbsp;Sci.NewsLife on ancient Earth used a rare metal that barely existed&nbsp;&nbsp;Earth.comPrimordial life on Earth relied on molybdenum&nbsp;&nbsp;News9live",
       "sources": [
         {
-          "name": "Chemistry World",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0hsVHdFWXB6dmlYVGVrdEtkWGVpLUVneFQ3dWFvLVVFQlhiTENuQ294dkdKVVFOYUphaU5rdFJ1SmZjRHlVZ0RlMldJbHdhYmVUdmJvb2YyQUhWWlhqcDJ4ZFhVZUZueWxVX2NmN3hTRzl4LVVZRzZRVkVzLURxVDctUjV1OE5WVnZqeUQ0N3dnUUxVbFNYdGd6bTRoTVBMZVBMVVN4bDdVWV82dzYwMC1vOUVoaUdvNW03SndqY1g4ejVGbzZWYjZxemc1cG92NzdaeTRralA?oc=5"
+          "name": "Universe Today",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEI3RFlSdGktSXpVSnpNczJzaWhQUnJjWnFlMWJwX0Y5TjhaTGpQYzZBMUU1dW4xY01tTHdheldjcnp4cTVNY01XRmEwa0gwWUl5eXV4YWdDSHJKejU5MXp5cDF5UnhIWlhCZVJzeE5hS3FSS2hUSjRPa3pVLWxzbGhfQ2lkOTdfU2lCYzBIWF9Kek13SWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e7f2f04ce67",
+      "title": "Giant Squid Detected off Western Australia in Stunning Deep-Sea Discovery - SciTechDaily",
+      "published": "2026-05-11T18:03:55+00:00",
+      "summary": "Giant Squid Detected off Western Australia in Stunning Deep-Sea Discovery&nbsp;&nbsp;SciTechDailyMonster of the deep: Giant squid spotted in Western Australia after 25 years&nbsp;&nbsp;The Times of IndiaGiant squid among creatures of the deep hiding off WA’s Ningaloo Coast, research reveals&nbsp;&nbsp;WAtodayThis is our clearest look yet at one of the deep ocean’s rarest animals&nbsp;&nbsp;BBC Science Focus MagazineDeep-sea DNA reveals incredible biodiversity in the Indian Ocean&nbsp;&nbsp;Earth",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkNyNFN2ZEJfc1phWXpEdkFzRGk4WmQwWXI4UGtDQjI3ME5xdnZPTktFYThLeFRPT0NZVkEyUWY1Mm1yWU1ESlVNZG9zT0tKM3ZUcEh1Nk1fNU56bVl5aTdtNy1DdXlwMjZJdHNVeFZkc2cyVjBNcmdNTHNzZTRJUEJZc0pwRG5HeWdkVTBHZTZkejRTTXo4M193WkJxaTFr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb5e381c47c4",
+      "title": "A Gigantic Atmospheric Anomaly Keeps Showing Up on Venus. Astronomers Finally Know Why - Gizmodo",
+      "published": "2026-05-11T16:30:41+00:00",
+      "summary": "A Gigantic Atmospheric Anomaly Keeps Showing Up on Venus. Astronomers Finally Know Why&nbsp;&nbsp;GizmodoVenus Has Acid Rain, But There’s a Bizarre Reason It Never Hits the Ground&nbsp;&nbsp;Indian Defence ReviewResearchers explain mysterious cause of 6,000-kilometer cloud wall on Venus&nbsp;&nbsp;The Brighter Side of NewsMassive 6,000-Kilometer Wave on Venus Finally Explained by Newly Discovered Phenomenon&nbsp;&nbsp;The Daily GalaxyVenus' extreme atmosphere means extreme brightness&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHZxelI0NXpuYTVXQXVUOWoxS2F1RWFZYV9vZHFPODd0QzJpZlNnWDJ0aWljUkJJVUVrZG1Qdm9IdzBwRHRla1VXMFg1SDAzUElDdmFDX1lpX1BFYWdTeWtnMGtMTDI2bWJrNWstTVpWZFZ4T3ZZS2o2UVhJYTl6TnF6bUgyY1NvRVZsNGJBZ3B1cU1LcEh0ak9WMmlVaUMtTmk5WGFiR3pMNk91VVUxTF9vYVhfdEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7d55b1004d12",
+      "title": "Artificial light at night as a dynamic signal of human activity - Nature",
+      "published": "2026-05-11T15:52:16+00:00",
+      "summary": "Artificial light at night as a dynamic signal of human activity&nbsp;&nbsp;NatureEarth's glow is growing. NASA imagery reveals the brightest regions&nbsp;&nbsp;USA TodayLight pollution is erasing the night sky and it’s affecting more than astronomy&nbsp;&nbsp;MSNArtificial nighttime lighting may be more dangerous than previously thought, study warns&nbsp;&nbsp;The Jerusalem PostBrightness of the night sky is volatile&nbsp;&nbsp;Physics Today",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaNE5reXQ5MWFEbXB0UlF0ZnlqTU9NQlptcnRuTWNHZm9qLWdsZ2FobHdIZS1OMlpMWG1pc2lQam1ZVTVsSTFfRk1sVE1ZNlJ4eTJCN1JMQ3pzSlpVbGpF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9318934f2122",
+      "title": "Built not born: Huge black holes form in mergers, study says - EarthSky",
+      "published": "2026-05-11T15:51:42+00:00",
+      "summary": "Built not born: Huge black holes form in mergers, study says&nbsp;&nbsp;EarthSkyStudy Reveals Black Hole Collisions May Be Creating Universe's Biggest Cosmic Giants&nbsp;&nbsp;NDTVHow do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceGravitational-wave constraints on the pair-instability mass gap and nuclear burning in massive stars&nbsp;&nbsp;NatureScientists have detected a forbidden zone in space where planets should not behave this way, and ",
+      "sources": [
+        {
+          "name": "EarthSky",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFpoRlFKeUhVQXFxVmFLaHAzYlRxd3JXUlE0ZGhaelduRkZER2pWUWdVZlEtOHhzZ092R19vNU02VTk0YVZodEVYdk5uTGMtZzE5LVd0bjlTNjhseVRrSkRpM2pyRWxESXp2MzI3VWRXb0VNaWFLSG85SGN0OVBHeGg4RF9HcFBL?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "263bbd031278",
+      "title": "New Graphene Transistor Modulates Spin Signal Using Magnetic Focusing Techniques - AZoQuantum",
+      "published": "2026-05-11T15:12:00+00:00",
+      "summary": "New Graphene Transistor Modulates Spin Signal Using Magnetic Focusing Techniques&nbsp;&nbsp;AZoQuantumResearchers steer electron spin ballistically in graphene&nbsp;&nbsp;The University of ManchesterIllustration of electron refraction across a potential step (IMAGE)&nbsp;&nbsp;EurekAlert!Graphene Electrons Maintain Spin Coherence Up To Room Temperature&nbsp;&nbsp;Quantum Zeitgeist",
+      "sources": [
+        {
+          "name": "AZoQuantum",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52R0JNRk1TSk5lb0Z4MFZrelRaMXhzTmxXdEpZeWp6RFRGZHlkSmdEZ3NsaEdKWXNDWTZOOFluTnZTNTlval9TYmRpVkxOdnVHazJsQnA0UHBuR1ViR3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "773dc28ce8e8",
+      "title": "Thousands Of Previously Unknown Proteins Discovered - astrobiology.com",
+      "published": "2026-05-11T14:37:30+00:00",
+      "summary": "Thousands Of Previously Unknown Proteins Discovered&nbsp;&nbsp;astrobiology.comExpanding the human proteome with microproteins and peptideins&nbsp;&nbsp;Nature“Peptideins”? Give Those Shorties Another Look&nbsp;&nbsp;Science and Culture TodayThe human genome encodes for a new category of molecule&nbsp;&nbsp;The EconomistHow a global effort to explore the 'dark proteome' is upending our understanding of human disease&nbsp;&nbsp;statnews.com",
+      "sources": [
+        {
+          "name": "astrobiology.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdU5QM1BGeTYwRHFreEJ3eEFFeHVBcGtyTW83WGQ3Tm0zUlBGa1RPVjRURENZdzd3RFh5b3Rjc3kyOTZMYmhaRjlSbVVlQWVMWVRTbVNVdzBLLXFYWS01aGRNdklWNVFUUm8wbU0yTzEtbHBmMUZYN1oxd0ZzNWljZU1GV3ZUaXZDeHhhdEdCMnVXWlU?oc=5"
         }
       ]
     },
@@ -42,14 +114,26 @@
       ]
     },
     {
-      "id": "2b2cafadcfae",
-      "title": "US and French nationals test positive for hantavirus after leaving ship - BBC",
-      "published": "2026-05-11T13:13:22+00:00",
-      "summary": "US and French nationals test positive for hantavirus after leaving ship&nbsp;&nbsp;BBCWHO Confirms 7 Cases Of Hantavirus On Cruise Ship&nbsp;&nbsp;NDTVMessage by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)Two test positive as evacuation of virus-hit cruise ship nears completion&nbsp;&nbsp;ReutersPublic health forum calls for preparedness amid rising hantavirus concerns&nbsp;&nbsp;The Hindu",
+      "id": "41e27b01c4b0",
+      "title": "Public health forum calls for preparedness amid rising hantavirus concerns - The Hindu",
+      "published": "2026-05-11T13:28:50+00:00",
+      "summary": "Public health forum calls for preparedness amid rising hantavirus concerns&nbsp;&nbsp;The HinduHanta It Down: Why India Remains Safe&nbsp;&nbsp;The Times of IndiaHantavirus explained: Can it spread from person to person? Bengaluru doctor reveals everything Indians should know&nbsp;&nbsp;Hindustan TimesDoctors urge pest control amid Hantavirus scare, BMC says no official health advisory yet&nbsp;&nbsp;The Indian ExpressRodent control is key to keeping hantavirus at bay this monsoon, experts warn&",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFY3oydExDUlVxYVNReUU3NDhNMjBYYVhYYzFNcGxlVjJick1zcFJfX2M0dTAwZnY1VExDaGd2Vm1wWGxRWjREcmE1djNjYjNJZldIUjNZNnZ6QQ?oc=5"
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWkRMaFFrTUI2VXJKSUVWbHpPTkNCSnBqZXZjMEJCamNwVU9fTGhsQmRBVVQ5Rnd3a2g3cnpHMWFJc3ZEOXBRMVV4VWltWVAyOE9kSi1fY1FJYUwzSWpLNUhHVE00dm9wLW5YMTRrMTQ2Mi02UVhNYjkwbzBHanNzZFFrVG1ZS2dfSDRXUThURWc1d0tBaWdlcnBYcXFjV0ZvZkpCaHM5aFlkNldKTmd1dzhzMHpURGNMeTFHUV9teG15bDdFSmZUT3NZMzhsQTBJRU1EemZBcXdMaG41dEhyVFFn0gHoAUFVX3lxTFAwSDVVaVNkc3I3bmNYZDFDbmhwdnlnTzZrWkx3SHdwTmVBLTBtQWlVTWtoVV9sdXZOa0tQNkxxUS1BbFR0RHlNRkJzdHVPNUsycTRRVlBETTNXOHFmMUNkSEpON2pDeDFCazdRVWx2UjNhdjExQkRVQmJlX0pDQ2NyRkxXUl84Ry1LWjlUYUVrZEdWWWdDaEVrdHJFMVR2VFYyZEcyanlvSHBNSlBSTGlQYVJNQW02M0h2ZWJjTjlxM25IVjFobWFxODBYUUZIYjY3Qkk1dy1zcFM0YmdFd2s4Zk43MWVVM2U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bdfef247d9d4",
+      "title": "WHO Confirms Six Hantavirus Cases Linked To Cruise Ship Outbreak - BW Healthcare World",
+      "published": "2026-05-11T12:28:20+00:00",
+      "summary": "WHO Confirms Six Hantavirus Cases Linked To Cruise Ship Outbreak&nbsp;&nbsp;BW Healthcare WorldQuest For Rare Bird, Landfill Visit: How 'Patient Zero' Caught Hantavirus&nbsp;&nbsp;NDTVMessage by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)American Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJHantavirus most contagious at onset of symptoms, WHO warns amid cruise ship out",
+      "sources": [
+        {
+          "name": "BW Healthcare World",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0RIeWU5UnRVOVhEV0RycGVVUXBkUV9GVFBWWktpcU1rYzY4MVFSRWZuTk5WQmNySTVVUDVVV2J5NlIxQ0NOaFBvVzM0RXNWeng2NEVTU0FITXM5Q1l4UzFRaDRMZ3dqaENrc202cmpnbHNwN0o5bjZHU3h5dXRfd0lfZWxmQXpTNEVMVmYxTzZUQ0FfX2NjajJIRXRYaGFQVFNjVEdReGtKNnRQbHFoOXNIRQ?oc=5"
         }
       ]
     },
@@ -66,14 +150,14 @@
       ]
     },
     {
-      "id": "25bc63cc569c",
-      "title": "CRISPRi Screening Identifies Potential Drug Targets for Fungal Pathogens - geneonline.com",
-      "published": "2026-05-11T11:10:29+00:00",
-      "summary": "CRISPRi Screening Identifies Potential Drug Targets for Fungal Pathogens&nbsp;&nbsp;geneonline.com",
+      "id": "4ecfac154ba1",
+      "title": "Hantavirus cases spark brief surge in pharma and biotech stocks — here’s why trading is so volatile - CNBC",
+      "published": "2026-05-11T11:53:49+00:00",
+      "summary": "Hantavirus cases spark brief surge in pharma and biotech stocks — here’s why trading is so volatile&nbsp;&nbsp;CNBCHantavirus Vaccines and Treatments Are in the Pipeline&nbsp;&nbsp;The New York TimesModerna shares jump 8% after U.S. national tests positive for hantavirus&nbsp;&nbsp;Investing.com IndiaA New Hantavirus Vaccine Is in the Works&nbsp;&nbsp;WIREDModerna stock surges as hantavirus outbreak spotlights early vaccine work and flu data&nbsp;&nbsp;qz.com",
       "sources": [
         {
-          "name": "geneonline.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSG1HVlN3b1FYLXFrWG03REFtNVVaV2ZCdlRVZUlFR3BsR2kwZzAzQWFmWkRJR0k5cG52a0VZNGx0U3pXWW9NRkdZcThGZ2Q3NVJ4VGRmcVh3SHJiNE5XcGFFTVU1dkxaQjNCTklGbDVwTDdhVU1Wbmp6VkUyc08yWDljZXlWZjk3VHJRZl94Tm1GLXBfNkNiQ1pMUmYtQjY0Unc?oc=5"
+          "name": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMDlfU1NkYkY3dl9SWjRmNzZhZ0RqZFdyZVI4d0c4M21PQVRiRjNWcUJrTTMwSXEzYVh0dzlHUDl0Z2puQlZtYlp5M1hnQ1BVdDBXQ2g4cG5hTHNaV3JBMkMzTUMtblB5MTJTaHJhSnc5YW1ZanZoY0puS1Zwb1RmdUNVWjV1MU9qZlllcnkzT0hZNnPSAZgBQVVfeXFMTkxIUHd2RlB2YmNRQXByMDFtNmMyNVhIQjZGbnZOTlVXYVFwM3diZ2tIY3BSNG50bzRER2VfQUZ1UWJOR253dFVST1pZc0RURVYxR0xGLUZFY2xhaTMwNEEtVjJhdUhvZ3pzdEdWWUNMZ1g2UVU1RVFFenVra19IdHB6S2JUd2ZHZ2IwZWlnLVltaEt6U192dEc?oc=5"
         }
       ]
     },
@@ -81,7 +165,7 @@
       "id": "f35f3b07ffe4",
       "title": "Antarctic sea ice decline driven by ocean heat may speed global warming: study - Xinhua",
       "published": "2026-05-11T10:42:45+00:00",
-      "summary": "Antarctic sea ice decline driven by ocean heat may speed global warming: study&nbsp;&nbsp;XinhuaA ‘triple whammy’ of chaos has triggered a downward spiral in Antarctica, scientists discover&nbsp;&nbsp;CNNAntarctica is melting from below and scientists say it’s worse than expected&nbsp;&nbsp;ScienceDailyChannelized topography amplifies melt-sensitivity of cold Antarctic ice shelves&nbsp;&nbsp;NatureThe Hole in the Ice at the End of the Earth&nbsp;&nbsp;The New York Times",
+      "summary": "Antarctic sea ice decline driven by ocean heat may speed global warming: study&nbsp;&nbsp;XinhuaA ‘triple whammy’ of chaos has triggered a downward spiral in Antarctica, scientists discover&nbsp;&nbsp;CNNAntarctica is melting from below and scientists say it’s worse than expected&nbsp;&nbsp;ScienceDailyChannelized topography amplifies melt-sensitivity of cold Antarctic ice shelves&nbsp;&nbsp;NatureSeries of sudden climate events 'drove record Antarctic ice melt' | Western Morning News - newspape",
       "sources": [
         {
           "name": "Xinhua",
@@ -90,14 +174,14 @@
       ]
     },
     {
-      "id": "f422c511d60b",
-      "title": "Scientists Just Discovered How the Universe Builds Monster Black Holes - SciTechDaily",
-      "published": "2026-05-11T10:39:02+00:00",
-      "summary": "Scientists Just Discovered How the Universe Builds Monster Black Holes&nbsp;&nbsp;SciTechDailyStudy Reveals Black Hole Collisions May Be Creating Universe's Biggest Cosmic Giants&nbsp;&nbsp;NDTVHow do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceGravitational-wave constraints on the pair-instability mass gap and nuclear burning in massive stars&nbsp;&nbsp;NatureScientists have detected a forbidden zone in space where planets should not behave ",
+      "id": "7f61ec35e842",
+      "title": "Genetic Polymorphisms and Pesticide Exposure-Related Health Manifestations Among Grape Farmers in Maharashtra, India - Cureus",
+      "published": "2026-05-11T10:21:13+00:00",
+      "summary": "Genetic Polymorphisms and Pesticide Exposure-Related Health Manifestations Among Grape Farmers in Maharashtra, India&nbsp;&nbsp;Cureus",
       "sources": [
         {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFhMdHZFaG83SVR5RkdyM0htU3IxRTh4ZUZXRVlZT3BidFdaSVFPTUZGdm1lM25oMm9KYnJrUUYyZk53N1IyV1h0a2NmXzd1ZTVLUS1MTmVHdEppb0ZOVzNQMmRURHNtckRlRWtmMWl6c05qWGJvV0JPRUJhUkZDb1o1TnYwVS1NU2Y0MHdsenE2TWVRYUVEdHhLa1M?oc=5"
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ25NSU9PZVVWRWxsbjdmcXNsaWdRQTNmX08ybnkxTG9JN0RLcUJOWlozblJJQ3hCWXVhVDRHV2hUcXp5SEJRWXhpODBVbWdQRlFKT2kwWVpkVzhicjhGV282WG1POTdRWlhhclBJS1ZqMlRDZmxBUlpDZmVVdzAxdGFKLURCY1pPVnVCamRKX2w0dW9wdDRkRUhFZ1EzQTByeEFLWVBxNllJR2YtWnRnYnhwODZJSFVQci1qcjZ1U3pvT1c2TElUZ2dkejZfMG9LQnc5MkRNUTZZOWRwZndVXzlHYV8yenRWZ1E?oc=5"
         }
       ]
     },
@@ -126,26 +210,26 @@
       ]
     },
     {
-      "id": "057bca3d9e59",
-      "title": "Star Clusters Emerge Faster Than Low-Mass Ones: Study - Mirage News",
-      "published": "2026-05-11T09:34:00+00:00",
-      "summary": "Star Clusters Emerge Faster Than Low-Mass Ones: Study&nbsp;&nbsp;Mirage NewsThe emerging timescale of young star clusters regulated by cluster stellar mass&nbsp;&nbsp;NatureHow Massive Star Clusters Shape Galaxy Evolution&nbsp;&nbsp;Universe TodayHubble and JWST reveal thousands of young star clusters emerging from their birth clouds&nbsp;&nbsp;AOL.comA whirlpool of stars&nbsp;&nbsp;The Planetary Society",
+      "id": "31f7f3e143cc",
+      "title": "Plasmodium vivax Malaria Detected in Duffy-Negative Hosts - EMJ",
+      "published": "2026-05-11T09:48:27+00:00",
+      "summary": "Plasmodium vivax Malaria Detected in Duffy-Negative Hosts&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "Mirage News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZDRyMlRTR3lhUVktcnFaWnFTZ01kaDluWHdOanNucnVEMjEwVmozY2Z5MHZPRXlUdlhXeVBXci1OeW5US3QweGUzNEZOMDNUSDNlQ2NrSEtpY2w0MGlTcDRCajNkTWRMb1JLU3ZaVGpNaGU3LU1mQ2phSUlJRGdUaklVbW9iVWlodFE?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVm05cXJhRlp6ODRUanZ5VHdQVUFqZmc5TXlzeGM1X1J3a1FfZTNyTDhYa3NhcHg1M1RjUVFhYk5TMTFWVzZZb1BUWGN2RlY4VzdSWFpZLTdwZzMyWU14M0RZQVBMTnc3NDY3cUlaNUdReEtzeW1LX01ndExlNlpLN1p4SGxDbnh5ZUY2ZUh1T01GNTZoTTJFS3J2MG5COEhMVEFxNThZTDJod2xXY281NlY2UV9CUUZqS0VXTm9Ielk?oc=5"
         }
       ]
     },
     {
-      "id": "c2a089223b0a",
-      "title": "Artificial light a 'pollutant' to humans, nature and astronomy - The Royal Astronomical Society",
-      "published": "2026-05-11T08:52:16+00:00",
-      "summary": "Artificial light a 'pollutant' to humans, nature and astronomy&nbsp;&nbsp;The Royal Astronomical SocietyEarth's glow is growing. NASA imagery reveals the brightest regions&nbsp;&nbsp;USA TodayLight pollution is erasing the night sky and it’s affecting more than astronomy&nbsp;&nbsp;MSNArtificial nighttime lighting may be more dangerous than previously thought, study warns&nbsp;&nbsp;The Jerusalem PostBrightness of the night sky is volatile&nbsp;&nbsp;Physics Today",
+      "id": "79974c8aeb01",
+      "title": "Urges for cardiologists to screen patients for UPF intake - News-Medical",
+      "published": "2026-05-11T08:53:00+00:00",
+      "summary": "Urges for cardiologists to screen patients for UPF intake&nbsp;&nbsp;News-MedicalInstant noodles, chips, colas can trigger early heart diseases, warns study&nbsp;&nbsp;Moneycontrol.comThese “Healthy” Foods You Eat Daily Are Linked To 65% Higher Heart Risk&nbsp;&nbsp;MindBodyGreenUltra‑processed food: Why the debate needs less fear and more clarity&nbsp;&nbsp;Medical XpressCommon food in UK linked to 19pc higher risk of disease&nbsp;&nbsp;Cambridge News",
       "sources": [
         {
-          "name": "The Royal Astronomical Society",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN2R6elpOdmxGNnVLazhQVlZZVTFUeVZsQUpaT3VvWGZueFlmYlo2VDl4Sy1MNlJ6LTZaRm9IdkVDbmkwbU5WdXl2VWZrcG1TakZxX21jZkxNd2xLalJhcUpiV2xGbWtaaVNpMkgzcTNGUEQ5Y0JsS3dfbUtaajVrVDBYbWZuS0RnZU9pZl94cXBFLWFYdE91ZkNSYlc?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFQxNnFRdm93TmdKZFhOd1Jod1hyazZJX0pBVy1LUXU3WlA5M1NjWlZscVFOOUdmSDBpZ29HcFVGaGR2S05MeS1fM3dreDZsNlJMbVR4RDR6NHIwWFZPU1dTSVRCa2FUbUJ4U2RfbC1SSDEyc21SVW9JVTNvNklaV3kzUmRRb2xZV21rOWxDSzFnNlpNTTg0SEI5T3M2NWpSX192Skppd2o?oc=5"
         }
       ]
     },
@@ -158,6 +242,18 @@
         {
           "name": "chemeurope.com",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON09TaDhJZS1ZV2NaUmRaNjk5NXhEMTBpc0lMUzBzd05CX1VOb1otX0J4VS13cURNQ0ZaVnhBeWNWVnJRcUJBV2FwejRwb1A1c0JVMzhQSDg4REVVVHhER0xGR1pRWUJpQnpFdjVjdk9DMXdHNEdNRTU0ZmowYWVtX2pVOWtHQms4dnVoVUNNbEpsU0VLNFdDQ250S0tZc3BhVDlKbjJualowWkZiZlhnb3pQRmt1X0JyMnI0bnptZjVwaDBxQjZPNE8tbERRNjNq?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a61b8146ce29",
+      "title": "Milky Way's wormhole: Massive tunnel to another part of universe hidden in our own galaxy - WION",
+      "published": "2026-05-11T05:31:00+00:00",
+      "summary": "Milky Way's wormhole: Massive tunnel to another part of universe hidden in our own galaxy&nbsp;&nbsp;WIONCould We Detect Wormholes? Scientists Explore Breakthrough Methods!&nbsp;&nbsp;Glass AlmanacWormholes: The Cosmic Portals That Defy Spacetime&nbsp;&nbsp;vocal.mediaCould the Milky Way Contain a Massive Wormhole?&nbsp;&nbsp;The Daily Star Lebanon",
+      "sources": [
+        {
+          "name": "WION",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU09wTEl6ajRRR3FkM0NBeEdBX0FjMENUTmgwV3c0YU5OZGF0Rjk3aU01eEtCdC1oYnI1WEdGbWY4Rjlfc1laMjVBZlNxQTNscjVQU2FfNnNWTkV4anpBVVNtYTl4eHMxdHdmYVJ0MWhLSWlTakFJYzVEMzY2WkxkSHNuS0cyYTFfbFBCZVozVjhoRnU3T0FiMU1DbXROQ0xZcnc1MlJHSGhHejNIczV4c1RwM1lOdE9yRkVNQUZQclpyRFlDRHlIbGNMTHfSAdIBQVVfeXFMTmlyRWh1VmN5ZVZWNUR3Rmp5NTJROWRiQldiN1RtN3BqWVBNbFY3WE1Bdy05ZDMyN0lyY3dUa3RJYTh2ZXNMX3ZURUo1MmctVGUzZ3RpQzNObHZ2dG5ITFptbjN1a1ZmenNSV0V3NWtnV3N0TXZRM21qT3QwTThPRVB1S1pqdF8xek9fampQVzczN25JUU84bEMxcWZ5QmdaY1dsdUtGTlpab2xUSV9GUHd3VXpzdHRuV1p4WEVsbE5kc0ZKanNVYjY5UWhtcEU2c3pn?oc=5"
         }
       ]
     },
@@ -186,26 +282,26 @@
       ]
     },
     {
-      "id": "d6c3a2177a80",
-      "title": "Experts call for UK four-day week as study links long work hours to obesity - The Guardian",
-      "published": "2026-05-11T01:30:00+00:00",
-      "summary": "Experts call for UK four-day week as study links long work hours to obesity&nbsp;&nbsp;The GuardianWorking long hours could be expanding waistlines and increasing obesity risk, research suggests&nbsp;&nbsp;The Times of IndiaWhy 4-day workweek is essential for your health&nbsp;&nbsp;NewsBytesWorkers who do long hours ‘more likely to be obese’ study finds&nbsp;&nbsp;The IndependentAre long hours at office making you obese?&nbsp;&nbsp;Firstpost",
+      "id": "27f1e3cf3c75",
+      "title": "Non-invasive swab test offers fast, accurate tuberculosis detection worldwide - News-Medical",
+      "published": "2026-05-11T01:46:00+00:00",
+      "summary": "Non-invasive swab test offers fast, accurate tuberculosis detection worldwide&nbsp;&nbsp;News-MedicalNew Swab Test Could Detect Tuberculosis In Under 1 Hour&nbsp;&nbsp;NDTVWHO Unveils Tongue Swab TB Test: Easier, Cost-Effective, Accessible&nbsp;&nbsp;Deccan HeraldWHO rolls out new TB testing toolkit to bring diagnosis closer to patients&nbsp;&nbsp;Indian Pharma PostCIDRAP: No sputum needed: Easy-to-use TB test shows accuracy in 7-country analysis&nbsp;&nbsp;European AIDS Treatment Group",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakFqd2RWa29malZoU21tRnp5b3FzS0dDV0V3cDZYZlgybi1rSHVCLXM2bGtjbnlTUkp0aE5RSFNWOUVOV09nb3RlVmlUd2ZhdEJCa201WjhyVGcwd28tMzlHcTU4ajZqTXFuVE43WnlnSHhPRFV3ZDNNQkVxRE96SXhCajN0YVBvTXdZbUFjRmFod2RLR0Y2WUtYZFpwa2NwYmtuTFNJWjhwaHZwa3d1N0MxMXR5TUpISnpkTENIQUU?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZzJaNHBwLVo1RnlzcFZPU1lIa0VnTWdFZWZDZkpfSUNQa0t2TGtURkNFSFptXzB3X0tyV2JlVElhRl9RSVhKTkI5UkMxdHFuZWFBZGJ0aEtIcDZaLWt1cVlyaFIxNXNRQTRsampYa3RFWUo2ZGtwQkYwLXJCaXZQZUlVNXFjMGtQR1ZFTWYxdUQwMTY1TkVLdHlQd3ZLRWlQUm1uUVhCUi1SeTdRRjFvX3lXQmR4bm9QNEdkemgwVkI2UQ?oc=5"
         }
       ]
     },
     {
-      "id": "45f7d964dafe",
-      "title": "That Haunted Feeling May Be Caused by a Sound You Can’t Hear - SciTechDaily",
-      "published": "2026-05-10T23:22:23+00:00",
-      "summary": "That Haunted Feeling May Be Caused by a Sound You Can’t Hear&nbsp;&nbsp;SciTechDailyThe Haunting: Low-Frequency Sounds That Unsettle Us&nbsp;&nbsp;American Council on Science and HealthThe Week contest: Haunted plumber&nbsp;&nbsp;The WeekLow-frequency vibrations may explain why old buildings feel eerie&nbsp;&nbsp;Earth.comThe creepy feeling in old buildings might have a surprising cause&nbsp;&nbsp;ScienceDaily",
+      "id": "d6c3a2177a80",
+      "title": "Experts call for UK four-day week as study links long work hours to obesity - The Guardian",
+      "published": "2026-05-11T01:30:00+00:00",
+      "summary": "Experts call for UK four-day week as study links long work hours to obesity&nbsp;&nbsp;The GuardianWorking long hours could be expanding waistlines and increasing obesity risk, research suggests&nbsp;&nbsp;The Times of IndiaWhy 4-day workweek is essential for your health&nbsp;&nbsp;NewsBytesFour-day working week helps weight loss | Irish Daily Star - newspaper&nbsp;&nbsp;MagzterAre long hours at office making you obese?&nbsp;&nbsp;Firstpost",
       "sources": [
         {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWR5Sk5scW5ubUFKZ2xaMWxFN2ZHTTJPSGNNQlhjRmRkTUJ5Z2dGbnB4VWp3cVA3YUNjUndaWGhvSS1ZV09JOXFjS0d5X2pSQU1EZWFYbGd2dHlEaTJtTnFfWVZaVmVFQXMzbHVQRHhQUVBZYjNYUldKQTVfTHZKVkVxYmJQc0h1MVNDTDVn?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakFqd2RWa29malZoU21tRnp5b3FzS0dDV0V3cDZYZlgybi1rSHVCLXM2bGtjbnlTUkp0aE5RSFNWOUVOV09nb3RlVmlUd2ZhdEJCa201WjhyVGcwd28tMzlHcTU4ajZqTXFuVE43WnlnSHhPRFV3ZDNNQkVxRE96SXhCajN0YVBvTXdZbUFjRmFod2RLR0Y2WUtYZFpwa2NwYmtuTFNJWjhwaHZwa3d1N0MxMXR5TUpISnpkTENIQUU?oc=5"
         }
       ]
     },
@@ -218,18 +314,6 @@
         {
           "name": "Earth.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR0JENkFsSDY3TEZ5MUZic3VjMTZ4YmFCQUdvTjN3cFZOX2gtTEpLVnJyNVZhSXN2SGo4WW5MZGNKaUUwaWw4M183RFIxdmdYbjhtd2I5QTJ6MU9FS2V6WU1HLXVqc2VpbEpUOWZJdkxzWnRJRE5CNkVKY0hPNUZtdnRMX0o5MzVJVXRsZU52MDNnbEM3NVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ae062a260868",
-      "title": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak - BBC",
-      "published": "2026-05-10T20:05:53+00:00",
-      "summary": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak&nbsp;&nbsp;BBCBirders push back on hantavirus fears tied to Argentine city&nbsp;&nbsp;NBC NewsRevolting photos of 'rat virus' ground zero emerge amid panic over 6 Americans exposed&nbsp;&nbsp;Daily Express US‘Almost zero’ chance Dutch man got hantavirus in Argentine city: official&nbsp;&nbsp;CTV NewsPopular tourist hotspot angrily denies it caused hantavirus outbreak&nbsp;&nbsp;The Independent",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSbXVMc1B2Umx4S2RVbkV5T0xiZm8yUk5GSC1OSEN0SFlUdlYyX01leXU1NjZvNzVLOER3RXZScmphd1I2WHVnLUpGa0U5aGNGUXpiTHdqMHBOaHNr?oc=5"
         }
       ]
     },
@@ -249,7 +333,7 @@
       "id": "c1829bc12c9f",
       "title": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat - Phys.org",
       "published": "2026-05-10T15:20:01+00:00",
-      "summary": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat&nbsp;&nbsp;Phys.orgHumans Have Been Obsessed With the Best Cuts of Meat for 1.6 Million Years&nbsp;&nbsp;VICEForaging behavior in early humans&nbsp;&nbsp;Popular ArcheologyNew Research Shows How the Earliest Humans Got Their Meat&nbsp;&nbsp;GizmodoOur Human Ancestors Dined on Takeout&nbsp;&nbsp;Yahoo",
+      "summary": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat&nbsp;&nbsp;Phys.orgHumans Have Been Obsessed With the Best Cuts of Meat for 1.6 Million Years&nbsp;&nbsp;VICE1.6 Million-Year-Old Bones Reveal How Early Humans Hunted and Shared Their Food&nbsp;&nbsp;Indian Defence ReviewNew Research Shows How the Earliest Humans Got Their Meat&nbsp;&nbsp;GizmodoOur Human Ancestors Dined on Takeout&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "Phys.org",
@@ -258,14 +342,26 @@
       ]
     },
     {
-      "id": "9930c0fca8d7",
-      "title": "Indian techie dies in California after contracting rare fungal infection - India Today",
-      "published": "2026-05-10T12:22:17+00:00",
-      "summary": "Indian techie dies in California after contracting rare fungal infection&nbsp;&nbsp;India TodayIndian Techie, 37, Dies In California After Battling Valley Fever For A Month&nbsp;&nbsp;NDTVWhat is Valley fever? Rare fungal disease kills Indian techie in California&nbsp;&nbsp;India TodayWho was Chiranjeevi Kolla? What happened to 37-year-old in US that he died?&nbsp;&nbsp;DNA IndiaTelugu Man Dies In US Due To Valley Fever&nbsp;&nbsp;Deccan Chronicle",
+      "id": "86dc53ee783c",
+      "title": "A Mother's Brain Is Profoundly Rewired by Pregnancy, Scans Show - ScienceAlert",
+      "published": "2026-05-10T14:02:10+00:00",
+      "summary": "A Mother's Brain Is Profoundly Rewired by Pregnancy, Scans Show&nbsp;&nbsp;ScienceAlertInside ‘mommy brain’: How pregnancy and childbirth rewire the maternal mind&nbsp;&nbsp;The Times of IndiaPregnancy Changes Mothers’ Brains. These Recent Discoveries Are Showing Us How&nbsp;&nbsp;Smithsonian MagazineYour Brain on Motherhood this Mother’s Day&nbsp;&nbsp;AOL.com3 kitchen secrets to fix post pregnancy forgetfulness&nbsp;&nbsp;Odisha TV",
       "sources": [
         {
-          "name": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXFxbXNhdVVoZmhUS1d4V19GTjhaUC1CTmtOUjVfYzh1SkdSOEdobWk3X216ZnpXbnBCa3FfUmJQTlZwdGpJNlRoQXNtUDFYd0Ffa29XbDN0azU5VmlMbUQ3RUxLc2cwa0RPRVVVbF9jODl1WGJLbE1helIzb0xmbFk4UndVMWZsQmJJYnNDNElpSEx3TjE3SWJOSFNaSG9RR29rdjIxZEt6T3Rac3B2Szh2N0JoYjNLa1ZVenYtT0FVTDhIQWFIUGR3azjSAdIBQVVfeXFMTndYVTRDWlpidl9nWnVuSV9ScjVzcm93V0FxZERmZUo1d3JycDRsa2VHZUxsSGFqQmEza3l6OHYzUmEtc0Zvbm9nRGZYR0FHNDBwQ3RZeDlXNDIxRlNEVnFCSkx5WWdhVnV2ZW1fdnY0RXFiaTZkSnBoOGJmTVFKSGtSQWlGUHVWN1ptb2FqOWFxeDBzTmpFZ1hTT2VfS0pzbUhYZUJnd3V6RzN0UTBwSkMzNVFRY090RGlEUDNLWERiZ0N4WEJ3eFpJYWswSFNBejlR?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1YtNFcweXV2V0NrWl9kd0RYcWR3TXA4RUNXSkxTUHoxT0hTM0c3WVR3MVhZM2tfd1BQRUJYSFZKN1Rsd1J5dnN4VGk1dXVNazBGX19EWERCd1h0Y3VyeENuQU1IRmpsZHQyNlQxMnJFM3doblNWaWNqVjRsdExSSk5lNG5JZWhsajdVTmhaWHFnNVhU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f158291cd329",
+      "title": "Tacrolimus Improves Liver Transplant Survival - EMJ",
+      "published": "2026-05-10T09:05:44+00:00",
+      "summary": "Tacrolimus Improves Liver Transplant Survival&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYnZBN3l2Mjl4S1dnU3M0RnhhTDRpeWE2SUwxMjIxbS1tZHIySlZycnRyZFgxZHc4OXhhc2dLSzBaSXVTOTVyQXM2blpqSzgwcldGb1JlaW1JbWVDcmV6ZFpOSm5qZ0lYMXRtdDJWSXlwb0FUeFpkaW91bDNwZS1TamNlVElFeVNXTGxUcHNqTUkwdUE?oc=5"
         }
       ]
     },
@@ -273,7 +369,7 @@
       "id": "6f8685b4fdee",
       "title": "NASA conducts supersonic test of Mars helicopter blades - News9live",
       "published": "2026-05-10T08:21:18+00:00",
-      "summary": "NASA conducts supersonic test of Mars helicopter blades&nbsp;&nbsp;News9liveNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA tests confirm next-generation Mars rotors can safely break the sound barrier&nbsp;&nbsp;Interesting EngineeringNASA pushes Mars helicopter rotors past the speed of sound for the first time ever — next-gen “SkyFall” aircraft's rotors ",
+      "summary": "NASA conducts supersonic test of Mars helicopter blades&nbsp;&nbsp;News9liveNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA's next Mars helicopters tested beyond the speed of sound&nbsp;&nbsp;TechSpotNASA pushes Mars helicopter rotors past the speed of sound for the first time ever — next-gen “SkyFall” aircraft's rotors hit 3,750 RPM, ten times faster tha",
       "sources": [
         {
           "name": "News9live",
@@ -285,7 +381,7 @@
       "id": "45b57c709ac0",
       "title": "Tracing Olfactory Receptor Mapping Between The Nose And Brain - Hackaday",
       "published": "2026-05-10T08:00:00+00:00",
-      "summary": "Tracing Olfactory Receptor Mapping Between The Nose And Brain&nbsp;&nbsp;HackadayThe molecular mystery of how we smell&nbsp;&nbsp;Chemistry WorldScientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertHarvard Scientists Reveal Secret Structure Behind How You Smell&nbsp;&nbsp;SciTechDailyScientists Create First ‘Map of Smell,’ Revealing How Noses Track Odors&nbsp;&nbsp;ZME Science",
+      "summary": "Tracing Olfactory Receptor Mapping Between The Nose And Brain&nbsp;&nbsp;HackadayThe molecular mystery of how we smell&nbsp;&nbsp;Chemistry WorldHarvard Scientists Reveal Secret Structure Behind How You Smell&nbsp;&nbsp;SciTechDailyScientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertScientists Create First ‘Map of Smell,’ Revealing How Noses Track Odors&nbsp;&nbsp;ZME Science",
       "sources": [
         {
           "name": "Hackaday",
@@ -294,14 +390,14 @@
       ]
     },
     {
-      "id": "7f68b66d8aec",
-      "title": "Primordial life on Earth relied on molybdenum - News9live",
-      "published": "2026-05-10T06:34:03+00:00",
-      "summary": "Primordial life on Earth relied on molybdenum&nbsp;&nbsp;News9liveBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureEarliest Organisms on Earth Built Their Biochemistry around Molybdenum, Study Suggests&nbsp;&nbsp;Sci.NewsLife on ancient Earth used a rare metal that barely existed&nbsp;&nbsp;Earth.comNasa team discovers secret ingredient that powered ancient life on Earth&nbsp;&nbsp;India Today",
+      "id": "f22a28d051a2",
+      "title": "Indian techie, 37, dies in the US after month-long battle with Valley fever | Hindustan Times - Hindustan Times",
+      "published": "2026-05-10T06:02:26+00:00",
+      "summary": "Indian techie, 37, dies in the US after month-long battle with Valley fever | Hindustan Times&nbsp;&nbsp;Hindustan TimesIndian Techie, 37, Dies In California After Battling Valley Fever For A Month&nbsp;&nbsp;NDTVWhat is Valley fever? Rare fungal disease kills Indian techie in California&nbsp;&nbsp;India TodayWho was Chiranjeevi Kolla? What happened to 37-year-old in US that he died?&nbsp;&nbsp;DNA IndiaTelugu Man Dies In US Due To Valley Fever&nbsp;&nbsp;Deccan Chronicle",
       "sources": [
         {
-          "name": "News9live",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZlo4RlNnUllLN1VZNnl2R1YwbnVHaVdjcVU4emZQRUJSR2ZlVmRPQmdnSHZQcEt4dnpGUGRjRi12WnpqenZCT1dpWllwZ1dnTkJpenRCZnV2QzF0VERIN1NaWWd1c21DUVhsdXp0UEVERm1vbDV0eTBPbDVKWnhOVk9Ka2REZDJ4N0pmOE82UDHSAZYBQVVfeXFMTmZkYkRSdFpiSDc1TmhtQ1B1Szh0enBHclp2VTVPSTAzWERvX3YyWkZQSFRGaHpzQXBkUlVlVXdrdlo5MHZHRkhDVFhCZndFU1M2RHlWR3F6M21UR0pqRmJib0hVa1BFcGFhMUdLYjVsSC1WNDRlNGtaWXhTRUdiMEJCMHZxZHYyLXBQTUhvNV9zZzFHV3dn?oc=5"
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd3kxV0s3ekh1OGlfeW9sUDBDSko5X3lBc2RnUlFlM1lDaWp4MVZBV1JBSnU1emdYZWplek9IVVNSVUlENlJhcVo0WEJUWklMeWxaVmx0YjdDV3B4TmdPWjJQMDl1d0YxV2l5ZC15bU1SODZTLWEtSVp6VEZxeGpxNmtMYmVEYm9iQTRJelZqSU9jRnNka1E1OWVTZDF5TkI1RXFxS2RaYzhlUUJlbXhDb3pJWTZhM05IZGdLVHBBSDdXWnEzemdEdVVwQlRlLXZVa01N0gHYAUFVX3lxTE1QVHBLTU9vTDA5dl8zQ1k3c1lZY2lUOW9YUkVMODZzd1hXMUMxdDJvVlFrNE1IdEtVYVhvVWsxYjRLa2lmVDEtX2tHallXbWJ3MnFRSHlUaGM2R0NnS0VpYmRFcjI5X1d6MDJhNVc5ZVhreEMyTWRtWjFERDZUX0RUa1BrVzhLSktwN0xVSkFIRU43bWwzMXJiQzJiLWVVUUVOd2tJSU9YTlZkbTlNbTNITkpGOXZMX3hQdHpiY0g4dmdhbTlaVEdCc3ZUNmhPZHdYc0UzM2NoYQ?oc=5"
         }
       ]
     },
@@ -318,22 +414,10 @@
       ]
     },
     {
-      "id": "7455cfacc23a",
-      "title": "How many steps should you aim for to lose weight? - Euronews.com",
-      "published": "2026-05-10T05:09:50+00:00",
-      "summary": "How many steps should you aim for to lose weight?&nbsp;&nbsp;Euronews.comPreventing Weight Regain: Walk this many steps daily to prevent weight regain&nbsp;&nbsp;The Times of India8,500 daily steps — not 10,000 — may be the sweet spot to prevent weight regain after dieting&nbsp;&nbsp;The Indian ExpressIncrease daily steps to 8,500 and keep weight off after dieting: Study&nbsp;&nbsp;GujaratSamachar English8,500 steps a day enough to lose weight naturally, claims new research&nbsp;&nbsp;Moneycontr",
-      "sources": [
-        {
-          "name": "Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzFqTWFHTFJTUWZPN0F6ZnVydEU4NEdHMjB2ZUs5aS0zZ2h5Wkp5QnQzU2w3OTV0NklJQ0FRYXJaRm1qNF9RNjJlLWZkeEk4Y2x2a216dG5mWWNjR1RNN25KUDV3SVMyY2Y2UGYtbl9IcWJMUUx4LWZUcnhXbEVwSDBfN0NZSk1jbU1sMm84eTduTFEzaUxVX3Fob2Z1NzYxUHZrelF4R3c0YUJsSkdITTZHLUFvcmlOOEl3Tw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2ec904f88c45",
       "title": "More than 100 cruise ship passengers on Caribbean Princess taken ill with norovirus - Sky News",
       "published": "2026-05-09T22:21:23+00:00",
-      "summary": "More than 100 cruise ship passengers on Caribbean Princess taken ill with norovirus&nbsp;&nbsp;Sky NewsAfter Hantavirus Fears, Over 100 Fall Sick In Caribbean Cruise Norovirus Outbreak&nbsp;&nbsp;NDTVNorovirus outbreak: More than 100 sick on Caribbean Princess cruise ship departing Fort Lauderdale&nbsp;&nbsp;The Times of IndiaUS CDC: Over 100 people fall ill in norovirus outbreak on cruise ship&nbsp;&nbsp;news.cgtn.comNorovirus outbreak: Wetin be norovirus wey make ova 100 passengers fall sick f",
+      "summary": "More than 100 cruise ship passengers on Caribbean Princess taken ill with norovirus&nbsp;&nbsp;Sky NewsAfter Hantavirus Fears, Over 100 Fall Sick In Caribbean Cruise Norovirus Outbreak&nbsp;&nbsp;NDTVMore than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise&nbsp;&nbsp;NBC NewsNorovirus outbreak on cruise ship after Hantavirus scare: How both differ from Covid-19&nbsp;&nbsp;The Indian ExpressWhat is norovirus that affected over 100 on cruise ship?&nbsp;&nbsp;NewsBytes",
       "sources": [
         {
           "name": "Sky News",
