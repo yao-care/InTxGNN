@@ -1,55 +1,115 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-12T01:29:42.183260+00:00",
-  "total_fetched": 81,
-  "unique_count": 81,
-  "health_related_count": 31,
+  "fetched_at": "2026-05-12T08:16:29.729445+00:00",
+  "total_fetched": 83,
+  "unique_count": 83,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "22a13b72d085",
+      "title": "How dolphins swim fast, squeezing diamonds, smart fabric monitors health & more. Plus: SciCom Coffee speaker - Asia Research News |",
+      "published": "2026-05-12T07:18:27+00:00",
+      "summary": "How dolphins swim fast, squeezing diamonds, smart fabric monitors health & more. Plus: SciCom Coffee speaker&nbsp;&nbsp;Asia Research News |",
+      "sources": [
+        {
+          "name": "Asia Research News |",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWTJwYS1xVWF3NHJLWUVEU3k5V1I5X0g3T0FFdmlrRU9ZUmpkYk5wa2dTMzd0aktRNjk0Y1lSZ0x4Y05tWVoxOTJoWmlMVGJuRWZtQ3IwMHZQZVVmeXZJVFhReEtBWVBqLVNieHVvWlVhNTZnWW1qRnYyVlJVTXkyY2F1amtjU2F4akQxbkFyRkJmQXZNNEo1eUE4d2o3ZlAtVHFTYTFwdFE5NkNTYVVzT0pzbU9XM280ZTg0eG1PWE5KTW5wUnhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e66fdfd321ed",
+      "title": "The discovery of an atmosphere on a tiny Kuiper belt world - Big Think",
+      "published": "2026-05-12T06:00:00+00:00",
+      "summary": "The discovery of an atmosphere on a tiny Kuiper belt world&nbsp;&nbsp;Big ThinkAstronomers Find Thin Atmosphere Around Distant Frozen Space Object&nbsp;&nbsp;NDTVDetection of an atmosphere on a trans-Neptunian object beyond Pluto&nbsp;&nbsp;NatureAtmosphere detected on celestial body in solar system's far reaches&nbsp;&nbsp;ReutersAstronomers detect 1st atmosphere on Kuiper Belt object 2002 XV93&nbsp;&nbsp;NewsBytes",
+      "sources": [
+        {
+          "name": "Big Think",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmlBVkc3S2JiY2dITmpGeVBqZEJvN2gwX29NQXFrMmQtYzRBNzlZeG9peWNYbXFuZXNvajRUOTJkd1Q3M3pPSzhTWWJZa1NKd3JoZHlWWVAzOVRXdUo0QzQ1aGFGNmhXSl9HM2Rmd2d3UTVPRmctOFJZaGRFeG9wR1VrYk8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f470d08d8edd",
+      "title": "An Overview of Virulence, Resistance, and Clinical Significance of Klebsiella Infections - Cureus",
+      "published": "2026-05-12T04:57:04+00:00",
+      "summary": "An Overview of Virulence, Resistance, and Clinical Significance of Klebsiella Infections&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTh6QllqdS1wbGhsVkVpdmlLZ1lCSXpPNnd1SEdJcGJSUWF5N3NuZEJ4WVFYMjZScGthcENEZnI5cWJPV29MTjNheGE0SUJiSzMwQXJaeG9HaF9aVjhldkF6Mlp6eHU4ZFhWRWVoa2RMTWFncGtOX2VGbXRwVHZrRzF6TUo4cUZtbW81QkRCX2ZkUnQ4bS1RMGtxeXVROEk4dzJoUkVQWkM4eW1pZWtFeHV5d2t1X19CTEhYaWNpLV9CeFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d1e5bb09631",
+      "title": "Acute Onset Extrapyramidal Symptoms With Clozapine: A Report of a Rare Case - Cureus",
+      "published": "2026-05-12T04:12:04+00:00",
+      "summary": "Acute Onset Extrapyramidal Symptoms With Clozapine: A Report of a Rare Case&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU1hOeGdRXzMwVm5xYXB3c09WYVlaeVMzVWlVUUFub2piaXlsSktGd3FoVXZzYTlZLU1UV3hoRktNWTNhVThpaGNMaHBUeEZlVzhVRDhyYUFBZnk0OUpxNTVoa2gxVjlZWjljTHBfakJmcElFMFM3b3NTNHJSbXpQMng3Ty1zZ1VVRm1hdkloUm5ocGx1WkFTdGw0S2JpVVFXQkpXNUlYRXhxYU9LcUl1OEtlbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a48ec779185f",
+      "title": "Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated - chinadailyasia.com",
+      "published": "2026-05-12T03:52:51+00:00",
+      "summary": "Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated&nbsp;&nbsp;chinadailyasia.comQuest for a rare bird, a landfill visit, a deadly outbreak: How Leo Schilperoord became hantavirus 'patient zero'&nbsp;&nbsp;The Times of IndiaHantavirus Exposure: Dutch Hospital Quarantines 12 Healthcare Workers As Precaution&nbsp;&nbsp;NDTVMessage by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)Last passengers",
+      "sources": [
+        {
+          "name": "chinadailyasia.com",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXUE4zYkdIQkZLN3lkOTdZZVBrQ0V4d0xlZVkwX2FhNjVTZjhKRm80ZTl0bTVKOWJ1aXFRWlZodjRKYXRKQlJ1RHUyY2RiSGl2WHlKLVJuU1Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1752b2c76d87",
+      "title": "Hantavirus is very different to COVID. Here’s why the ‘Andes virus’ won’t cause the next pandemic - The Conversation",
+      "published": "2026-05-12T02:34:00+00:00",
+      "summary": "Hantavirus is very different to COVID. Here’s why the ‘Andes virus’ won’t cause the next pandemic&nbsp;&nbsp;The ConversationHanta It Down: Why This Virus Won’t Cruise To India&nbsp;&nbsp;The Times of IndiaHow Quickly Can Hantavirus Turn Severe? Doctors Explain The Timeline&nbsp;&nbsp;NDTVThat dusty cabin you're opening this weekend could be hiding a deadly virus&nbsp;&nbsp;The Economic TimesHantavirus explained: Can it spread from person to person? Bengaluru doctor reveals everything Indians sh",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNGZEaENxcDhDU3ZMZGxxd0QtdXRBRFZweFlnSFhTbkprZTYzeTVQa3M5UGRtVTc0TmJ6RW8yNWJvSTlHbkRxOTVpekpGbDNWM0dFYTFnOC1zTmpNY2w0Skh6V1B5c0lGLXVRTWp5Nkxod1dyQmdPTHJPUDA5bG1PeEVaaGZ2bE44d05CSzh5OTZpWDlFSlY1dEJBbDBBZ3kzeFhXdFhJeGZLVURXdUp6ZHU5ZG9pWWg1c0h2SHRLZnlkRzlMOUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eca3ac1c1368",
+      "title": "Is hantavirus the next COVID? WHO director-general flags key pointers - The Times of India",
+      "published": "2026-05-12T01:48:54+00:00",
+      "summary": "Is hantavirus the next COVID? WHO director-general flags key pointers&nbsp;&nbsp;The Times of IndiaHantavirus vs Norovirus: Which Viral Infection Is Deadlier?&nbsp;&nbsp;NDTVHantavirus concerns, breaking barriers in sailing, and AI defence systems&nbsp;&nbsp;The Indian ExpressWhat the numbers tell us about hantavirus&nbsp;&nbsp;CNNExperts explain why hantavirus outbreak won't spark a pandemic like COVID&nbsp;&nbsp;The Japan Times",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcGpDX2tuTFQtWHI4YTdfTDZZeEQ2S0p5czZVakxibWJaMEVfRDk1MHY4b2NRVEZuZ2hHcXd2RzVHc2x4cElDU0RWM0J1eGNuWnRfQld5TVJoUkJXRkJVR0JCLTdtOVdhNi01N1psdHZMNFd0WEdHNU1Da001ZGhWbk1GdEtmMmVCc3ZTQUdRLVlJcy03OUg1S3B3dVFlaGFmTnJXMTh5VEhpQ1NfVkRRRlRoWkRWaDZzNVFiSU9WNURTVFV0UG1sUDVfRTQ0V1RhbGN0X1FodDZiUG93S1hyTlFTQVVDNGfSAe8BQVVfeXFMTXBsWWNuUUYzYXh2eWEwLWJkN3piQlRGRlN2VnhpN2xYckdVV3NZa3YtSnVOelZldmZ5VGU5b0duWjl3NDFRblhmbkEyeDljcEY4dXh0UU1JLVBvX0wwV0V2aUNqOVQwbzlIb1EyXzg2RDVzUnhhU29tTXN0ZVJWQWVWY0RRRGpWMUVia2QtZ04za2RTSkM1Tm1WdzNiNldJSmVVamoxc0c1Tmw0RWx1bm05YzdwMWswRUNfMzV6OE1TUk0tX2tLb25nRUVNaV9tUTRRM3RVbXlnOFl1M2ozbGFiV1lhUWJCVlpXVWJ5cVU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc59aaa903d9",
+      "title": "Scientists call for explainable AI in protein language models - News-Medical",
+      "published": "2026-05-12T01:33:00+00:00",
+      "summary": "Scientists call for explainable AI in protein language models&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjFRTmt3eVBEM1ZYemFMaG14bW9hcDVHTlJJckZDN0dwMXhBTWRaZkpEdGxoODhqOUdlYjhpVm9VbnFZZGlqOHZsSzNxSWx1ZGotVlZzNmc3ZFlzUjRydFVXRURpLW1pdkwxQXdYOV9mLWFNZ21jSmJRcWxVYTRGeVNaRVZrX3B6THc0N01CSkk5RnU4TkRFMG80TG5SRXZJaG5GS2wyajZ0dUhqS0E?oc=5"
+        }
+      ]
+    },
     {
       "id": "5c977a67adb3",
       "title": "Super-Resolution Microscopy Provides Real-Time Picture of Bacteria Degrading Biomass With Enzyme Complexes - nlr.gov",
-      "published": "2026-05-11T21:45:00+00:00",
+      "published": "2026-05-11T21:49:12+00:00",
       "summary": "Super-Resolution Microscopy Provides Real-Time Picture of Bacteria Degrading Biomass With Enzyme Complexes&nbsp;&nbsp;nlr.gov",
       "sources": [
         {
           "name": "nlr.gov",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdFplamJmOWxFcF83OTZYNHQ1RGdOWkV2NXlJSzVhOUtpQmFlVVItZHVIRFVaSTBXdDVMaGttNFY1Tmdxa3ZDaUd3aFdhTzYtUmNPZTROalRpY1E2NndvOUVvWks4QUV1a0hEMHFZRkZScFhJd1VPS0tnSThrNjRSalgxNXhMRFZaLUliOGhlRld6WUUwZUFfNlA0TnZnWm11aThOV3ZzTHQ2UThfWmJSRm5aWjRIVlhKUUFUYVJxb2lPM2FWdTRvbjJ1aVNjSXlKeTdXWjk1VWp3ZTlmMUF4RzZKRmJ6Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "79d34ba18123",
-      "title": "Dutch hospital quarantines 12 staff over hantavirus exposure precautions - Xinhua",
-      "published": "2026-05-11T21:41:30+00:00",
-      "summary": "Dutch hospital quarantines 12 staff over hantavirus exposure precautions&nbsp;&nbsp;XinhuaAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJTwo more passengers evacuated from cruise ship test hantavirus+&nbsp;&nbsp;The Times of IndiaMessage by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)Hantavirus: How are countries responding to the cruise virus?&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "Xinhua",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY19Kb2xRbnRvNEhqNURxLU5TLVp6MmhTaE1LM19GRG45TVhCbkt2ekFtU2FiMkQ0dGtYdi1ZaVpBY3lBNFZ3T2g4a1FMYm1kR2dPdW9WdW1UeHBrUUJXZjFIRWlZQ0FRWV9oTEJ6Q0FHRTVEMDY3cWdKcWVhaHllM1VLZ2Uxdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aa7f713bf080",
-      "title": "French woman was told by doctors hantavirus symptoms were just anxiety - The Guardian",
-      "published": "2026-05-11T21:09:00+00:00",
-      "summary": "French woman was told by doctors hantavirus symptoms were just anxiety&nbsp;&nbsp;The GuardianDay after testing positive for hantavirus, French woman's health worsens&nbsp;&nbsp;India TodayDoctors Told a Woman With Hantavirus It Was Just Anxiety&nbsp;&nbsp;The Cut",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOalo0VU5rbFFVMkV1NklGbHAyUmMwNFJBSExfTU1NMUI0VGVrMmp5TjBFdlRLXzkzQXhHdHhWVG9qU2dnakJMa3FrLWdZRWhESHBSb2RQWkgxSU81Q2hPc0lKNjZnYVNQUnJHOHVoQmNXY2l5cDA0U0tnaW1XR05zaWJ6Rjd5dmdfOVRhYjBxdHJaVlZPclVZSmVvS2k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "00e40da133a9",
-      "title": "Molybdenum Was Scarce, But Early Life Chose It Anyway - Universe Today",
-      "published": "2026-05-11T18:19:00+00:00",
-      "summary": "Molybdenum Was Scarce, But Early Life Chose It Anyway&nbsp;&nbsp;Universe TodayBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureEarliest Organisms on Earth Built Their Biochemistry around Molybdenum, Study Suggests&nbsp;&nbsp;Sci.NewsLife on ancient Earth used a rare metal that barely existed&nbsp;&nbsp;Earth.comPrimordial life on Earth relied on molybdenum&nbsp;&nbsp;News9live",
-      "sources": [
-        {
-          "name": "Universe Today",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEI3RFlSdGktSXpVSnpNczJzaWhQUnJjWnFlMWJwX0Y5TjhaTGpQYzZBMUU1dW4xY01tTHdheldjcnp4cTVNY01XRmEwa0gwWUl5eXV4YWdDSHJKejU5MXp5cDF5UnhIWlhCZVJzeE5hS3FSS2hUSjRPa3pVLWxzbGhfQ2lkOTdfU2lCYzBIWF9Kek13SWc?oc=5"
         }
       ]
     },
@@ -66,14 +126,26 @@
       ]
     },
     {
-      "id": "4f21c7d756a1",
-      "title": "Brain controlled hearing technology helps people isolate voices in crowds - News-Medical",
-      "published": "2026-05-11T17:06:00+00:00",
-      "summary": "Brain controlled hearing technology helps people isolate voices in crowds&nbsp;&nbsp;News-MedicalReal-time brain-controlled selective hearing enhances speech perception in multi-talker environments&nbsp;&nbsp;NatureNew research may lead to hearing aids with the ability to select one voice among many&nbsp;&nbsp;KUOWBrain-Controlled Hearing System Proves Itself in First Human Studies (IMAGE)&nbsp;&nbsp;EurekAlert!First Real-Time Brain-Controlled Hearing Device&nbsp;&nbsp;Neuroscience News",
+      "id": "3f54fe1634bf",
+      "title": "Dark Matter Research at Mainz University Probes Molecular Interactions for New Forces - geneonline.com",
+      "published": "2026-05-11T17:12:46+00:00",
+      "summary": "Dark Matter Research at Mainz University Probes Molecular Interactions for New Forces&nbsp;&nbsp;geneonline.comSelf-interacting dark matter can solve three cosmological mysteries&nbsp;&nbsp;MSNUnexplored interactions between electrons and atomic nuclei shed light on dark matter&nbsp;&nbsp;Phys.org‘Touchy-feely’ dark matter is having a moment&nbsp;&nbsp;Scientific American3 puzzles of our universe could be solved with this new dark matter theory&nbsp;&nbsp;Space",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVVza18wa1RpRzZiM1FGTE93SndFZng1Zk5iX1QxckszellhSTd5eGN0QlNrX3N0bzl3aGFzWk1nVWV3SnFjVTdnMXZJT1MyckI4Z2Z5eWZmZjJmQkRZX0xBbDdpcTA2WEVaYXB4UlI4N09YRHNoOGdmdFlMYUh2V3ZmSkpTQ2NDVjFaUUtGU3NvMGttNFZVbWx3MDR5SFRfQ3dKVjNkX1pJS0ZsMHJ6dHR3Y1Frc2xqcWx3X0JR?oc=5"
+          "name": "geneonline.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV1VzZlhfMlIxS1lkRUYxWWpQWW1EbGtrTGlnWkNLbTVxeXVtd1JhWDRyajFEZGx1dzdWdllmSTRMUGQ1RlVLcGd5a2hLU2NFblhReGh3cWpET21ESFgzOWNMck9XcDhvT2FqcmRKcjJDdVcxdUVjb3Bza0k1Z2tHLTdTSDlVYVVIeElpYWlabVJRUjA2bWplc1VJZTAtUEFVQV9NbTFLNk92a0FsWGV0SUxYNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ebce6b90570",
+      "title": "AI Tool RegVelo Deciphers Cell Fate Decisions During Development, Published in Cell - geneonline.com",
+      "published": "2026-05-11T17:02:16+00:00",
+      "summary": "AI Tool RegVelo Deciphers Cell Fate Decisions During Development, Published in Cell&nbsp;&nbsp;geneonline.comRegVelo and Zebrafish (IMAGE)&nbsp;&nbsp;EurekAlert!RegVelo AI Model Predicts Cell Fate, Tackles Developmental Disorders and Cancer&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsRegVelo Models Cellular Fate Decisions with Gene Regulation&nbsp;&nbsp;Let's Data ScienceNew AI tool predicts how cells choose their future—helping uncover hidden drivers of development&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "geneonline.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdXFnU1duSDJzakpCMUN0VFVtRUtod2thUW04UmhGeC1kM254bFo3d0doc1FCcUNxNG5FT3kwYTAzNUR4ZkRPWTBPYlBIb2hCbnlkYkN1LWFlN1AzQV9jeDFfdFF0ZE9TT05vUm4zUDBBNGJvWTRxN0t4VzVFTUZyc0JnWmxYOFFVUU0tQTZrRGNmeWJoV2FvS0EtSUNYMEJqUjZpUTZvZjRRYkpKbngw?oc=5"
         }
       ]
     },
@@ -105,7 +177,7 @@
       "id": "7d55b1004d12",
       "title": "Artificial light at night as a dynamic signal of human activity - Nature",
       "published": "2026-05-11T15:52:16+00:00",
-      "summary": "Artificial light at night as a dynamic signal of human activity&nbsp;&nbsp;NatureEarth's glow is growing. NASA imagery reveals the brightest regions&nbsp;&nbsp;USA TodayLight pollution is erasing the night sky and it’s affecting more than astronomy&nbsp;&nbsp;MSNArtificial nighttime lighting may be more dangerous than previously thought, study warns&nbsp;&nbsp;The Jerusalem PostBrightness of the night sky is volatile&nbsp;&nbsp;Physics Today",
+      "summary": "Artificial light at night as a dynamic signal of human activity&nbsp;&nbsp;NatureBlog: Our Precious Dark Skies How NSF NOIRLab works to preserve Earth’s best astronomy sites&nbsp;&nbsp;NOIRLabBerthoud’s opportunity for a starry sky: Part 2&nbsp;&nbsp;Berthoud Weekly SurveyorLocal Motion: Where the Sky Begins: Fighting for Dark Skies on Colorado’s Western Slope&nbsp;&nbsp;KVNFLight Pollution Increased 16% Between 2014 and 2022, Study Finds&nbsp;&nbsp;PetaPixel",
       "sources": [
         {
           "name": "Nature",
@@ -129,7 +201,7 @@
       "id": "2ea702993e65",
       "title": "More than 100 sick in norovirus outbreak on Caribbean Princess cruise ship - Global News",
       "published": "2026-05-11T14:44:58+00:00",
-      "summary": "More than 100 sick in norovirus outbreak on Caribbean Princess cruise ship&nbsp;&nbsp;Global NewsAfter Hantavirus Fears, Over 100 Fall Sick In Caribbean Cruise Norovirus Outbreak&nbsp;&nbsp;NDTVNorovirus outbreak: More than 100 sick on Caribbean Princess cruise ship departing Fort Lauderdale&nbsp;&nbsp;The Times of IndiaNorovirus outbreak on the Caribbean cruise ship leaves over 100 ill&nbsp;&nbsp;India TodayNorovirus outbreak on cruise ship after Hantavirus scare: How both differ from Covid-19&",
+      "summary": "More than 100 sick in norovirus outbreak on Caribbean Princess cruise ship&nbsp;&nbsp;Global NewsNorovirus outbreak on cruise ship after Hantavirus scare: How both differ from Covid-19&nbsp;&nbsp;The Indian ExpressNorovirus outbreak on the Caribbean cruise ship leaves over 100 ill&nbsp;&nbsp;India TodayWhat Is Norovirus? Caribbean Princess Cruise Ship Outbreak Sparks Global Concern&nbsp;&nbsp;NDTVExplained | Hantavirus vs Norovirus: Which cruise ship outbreak is more concerning?&nbsp;&nbsp;Decca",
       "sources": [
         {
           "name": "Global News",
@@ -146,6 +218,18 @@
         {
           "name": "Labmate Online",
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQX0xMcjlfT2ZUMDRyZkM2T2lIdjZwbndQeDJtYm5qOTFrZzRaaUttb05JVzZXWUNwNHViQ2pFSFZUOXRpZnJCZE9QX3NFeGlXeVo2MnBPS29Fdk02bkFQUk1QUkl4Q3ZQS0stV241N2tMeXgybTNKWjd2RXVtSDFBdnhsamJ3dnk3TjlDYkItSG9WbFJzMFg0ektISmRYdWhVa3dIY0VWZkVRb1BDNjBvMm55ZmhjaWlWZzNSY0lGZEtDem01b3FySlN2bjBnQWJwUTlneHhRQjZLYmdDalIxd0E2LVFoVnhMRHlxWDVLY3VhdDdkOEEzY1NFYVhYdmJCWGMxVzBTR2lsVlNGMmdTUmdmTG12Yms2?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "135ca47217f6",
+      "title": "The Next Frontier for Hantavirus: Finding Vaccines and Treatments - WSJ",
+      "published": "2026-05-11T13:26:00+00:00",
+      "summary": "The Next Frontier for Hantavirus: Finding Vaccines and Treatments&nbsp;&nbsp;WSJHantavirus cases spark brief surge in pharma and biotech stocks — here’s why trading is so volatile&nbsp;&nbsp;CNBCModerna shares jump 8% after U.S. national tests positive for hantavirus&nbsp;&nbsp;Investing.com IndiaModerna Flags Work on Hantavirus Vaccines Before Cruise Outbreak&nbsp;&nbsp;Bloomberg.comHantavirus Vaccines and Treatments Are in the Pipeline&nbsp;&nbsp;The New York Times",
+      "sources": [
+        {
+          "name": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWx2a0tGWWlQUDVsVmxPM1RlRHE1a3dKZGJLWERneGxkNmJoMEdzNWFyMlRnNWt2bjd1YTVnNnhVeHNvVzRVYzQxd084cnZUY21kNjhVSkQ1OXNxVXBjT081LWRqN2EwYjFUMG1sOEVrRWJPblNZN2t4cG12bEhLclh2TW9mdFBnRDBkNmdDQU81clFGWDRhSGJ1NXhWVGxWeHhDbC01NnVWLXVtTENaNQ?oc=5"
         }
       ]
     },
@@ -177,7 +261,7 @@
       "id": "f3ae6d5097a8",
       "title": "Heating Up to Expectations - University of Pennsylvania",
       "published": "2026-05-11T12:00:00+00:00",
-      "summary": "Heating Up to Expectations&nbsp;&nbsp;University of Pennsylvania'Indian Niño' drove record heat in 2023, 2024, new study finds&nbsp;&nbsp;Cornell ChronicleIndian Niño: The reason for the extreme heat in 2023–2024&nbsp;&nbsp;Table.Briefings",
+      "summary": "Heating Up to Expectations&nbsp;&nbsp;University of Pennsylvania\"2024 Record Heatwave Not an Unexpected Anomaly, Says US Research Team\"&nbsp;&nbsp;아시아경제'Indian Niño' drove record heat in 2023, 2024, new study finds&nbsp;&nbsp;Cornell ChronicleIndian Niño: The reason for the extreme heat in 2023–2024&nbsp;&nbsp;Table.Briefings",
       "sources": [
         {
           "name": "University of Pennsylvania",
@@ -186,22 +270,10 @@
       ]
     },
     {
-      "id": "4ecfac154ba1",
-      "title": "Hantavirus cases spark brief surge in pharma and biotech stocks — here’s why trading is so volatile - CNBC",
-      "published": "2026-05-11T11:53:49+00:00",
-      "summary": "Hantavirus cases spark brief surge in pharma and biotech stocks — here’s why trading is so volatile&nbsp;&nbsp;CNBCHantavirus Vaccines and Treatments Are in the Pipeline&nbsp;&nbsp;The New York TimesModerna Flags Work on Hantavirus Vaccines Before Cruise Outbreak&nbsp;&nbsp;Bloomberg.comModerna shares jump 8% after U.S. national tests positive for hantavirus&nbsp;&nbsp;Investing.com IndiaModerna stock surges as hantavirus outbreak spotlights early vaccine work and flu data&nbsp;&nbsp;qz.com",
-      "sources": [
-        {
-          "name": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMDlfU1NkYkY3dl9SWjRmNzZhZ0RqZFdyZVI4d0c4M21PQVRiRjNWcUJrTTMwSXEzYVh0dzlHUDl0Z2puQlZtYlp5M1hnQ1BVdDBXQ2g4cG5hTHNaV3JBMkMzTUMtblB5MTJTaHJhSnc5YW1ZanZoY0puS1Zwb1RmdUNVWjV1MU9qZlllcnkzT0hZNnPSAZgBQVVfeXFMTkxIUHd2RlB2YmNRQXByMDFtNmMyNVhIQjZGbnZOTlVXYVFwM3diZ2tIY3BSNG50bzRER2VfQUZ1UWJOR253dFVST1pZc0RURVYxR0xGLUZFY2xhaTMwNEEtVjJhdUhvZ3pzdEdWWUNMZ1g2UVU1RVFFenVra19IdHB6S2JUd2ZHZ2IwZWlnLVltaEt6U192dEc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f35f3b07ffe4",
       "title": "Antarctic sea ice decline driven by ocean heat may speed global warming: study - Xinhua",
       "published": "2026-05-11T10:42:45+00:00",
-      "summary": "Antarctic sea ice decline driven by ocean heat may speed global warming: study&nbsp;&nbsp;XinhuaDrilling Into the Thwaites Glacier in Antarctica&nbsp;&nbsp;The New York TimesA ‘triple whammy’ of chaos has triggered a downward spiral in Antarctica, scientists discover&nbsp;&nbsp;CNNAntarctica is melting from below and scientists say it’s worse than expected&nbsp;&nbsp;ScienceDailyChannelized topography amplifies melt-sensitivity of cold Antarctic ice shelves&nbsp;&nbsp;Nature",
+      "summary": "Antarctic sea ice decline driven by ocean heat may speed global warming: study&nbsp;&nbsp;XinhuaDrilling Into the Thwaites Glacier in Antarctica&nbsp;&nbsp;The New York TimesWhy Antarctica’s sea ice collapse is no longer a mystery&nbsp;&nbsp;Nagaland PostA ‘triple whammy’ of chaos has triggered a downward spiral in Antarctica, scientists discover&nbsp;&nbsp;CNNSeries of sudden climate events 'drove record Antarctic ice melt' | Western Morning News - newspaper&nbsp;&nbsp;Magzter",
       "sources": [
         {
           "name": "Xinhua",
@@ -222,18 +294,6 @@
       ]
     },
     {
-      "id": "b951a1555c83",
-      "title": "The universe evolves like a life form - IAI TV",
-      "published": "2026-05-11T10:01:48+00:00",
-      "summary": "The universe evolves like a life form&nbsp;&nbsp;IAI TVScientists make stunning discovery that could change our understanding of the Universe&nbsp;&nbsp;ScienceDailyStudy suggests Universe may be finely tuned for life, scientists say&nbsp;&nbsp;The Business StandardResearchers Link Laws of Physics to the Existence of Life Through Liquid Flow Dynamics&nbsp;&nbsp;SSBCrack",
-      "sources": [
-        {
-          "name": "IAI TV",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CelVpRFlXWVNreVQxM3pTSHZrSWZ6MVZEeEJWSFVQNXFlSlY1MU84ZURRaTBvNVR2MHlVQXpJNzdFSHMzemIyVVVQbG9vUWloY1ZZT3FVZk16YWFJTTBFcVFUZGFtS3M5ZVBhX1U2YktXNFJwdDlzYmg1Yw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "31f7f3e143cc",
       "title": "Plasmodium vivax Malaria Detected in Duffy-Negative Hosts - EMJ",
       "published": "2026-05-11T09:48:27+00:00",
@@ -246,6 +306,18 @@
       ]
     },
     {
+      "id": "2425637eb8b9",
+      "title": "The molecular mystery of how we smell - Chemistry World",
+      "published": "2026-05-11T09:22:28+00:00",
+      "summary": "The molecular mystery of how we smell&nbsp;&nbsp;Chemistry WorldTracing Olfactory Receptor Mapping Between The Nose And Brain&nbsp;&nbsp;HackadayHarvard Scientists Reveal Secret Structure Behind How You Smell&nbsp;&nbsp;SciTechDailyScientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertScientists Create First ‘Map of Smell,’ Revealing How Noses Track Odors&nbsp;&nbsp;ZME Science",
+      "sources": [
+        {
+          "name": "Chemistry World",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVJEZUVGQ3IzYkxCdFdUYXZzTGVtVGhtZ0ViWU9MQ0VaamR5VjlPWDk2WUhPc0hjaVJFU21ONkdra25VRy1nS3B1eXE0aW00UU9PMXgxRnBmUmE1M0g5cFZ1QUhXTTJPTDY4UkRrd0o1Wlhmc3gwd2lHOEpKZUZFZFJUaHlUR09udjdyYWk3ZmZKU0dJQWJtTw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "79974c8aeb01",
       "title": "Urges for cardiologists to screen patients for UPF intake - News-Medical",
       "published": "2026-05-11T08:53:00+00:00",
@@ -254,6 +326,18 @@
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFQxNnFRdm93TmdKZFhOd1Jod1hyazZJX0pBVy1LUXU3WlA5M1NjWlZscVFOOUdmSDBpZ29HcFVGaGR2S05MeS1fM3dreDZsNlJMbVR4RDR6NHIwWFZPU1dTSVRCa2FUbUJ4U2RfbC1SSDEyc21SVW9JVTNvNklaV3kzUmRRb2xZV21rOWxDSzFnNlpNTTg0SEI5T3M2NWpSX192Skppd2o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c05f75a2efd3",
+      "title": "Launch of the WHO report “Measuring survival, driving change – Advancing equity through the WHO Global Initiative for Childhood Cancer” - World Health Organization (WHO)",
+      "published": "2026-05-11T07:19:46+00:00",
+      "summary": "Launch of the WHO report “Measuring survival, driving change – Advancing equity through the WHO Global Initiative for Childhood Cancer”&nbsp;&nbsp;World Health Organization (WHO)",
+      "sources": [
+        {
+          "name": "World Health Organization (WHO)",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPNlVQc3FtV3NyMDZ5RkVSQnJORU50Wm9CalIxeWJNajBIdUhTMzNtLTFmRERYM3NmWTVabVN0T2EyODBIdFh1UlNwWEtBV21SVGszRUZXRUpLTWY3MFREYlQwZkRkM09MUzRNOFlEOTAxX0dETWZuMWFRNi1YdlZzUExrYXc4WlZlc01MeXA0QTVMT19sN21WUGdpc0lrOFh2MjQ1QVpFbS1JdkRvU2NFaHdSS3lMbW9ISlpST0Z3MWZ5bmU0d1BGSkRuVUZfV1ZuTXZuV3loREVQTmp5UUd4Z00zLV9uQUN0TlRyc1VhTWpBak54aWhxWlRlZzBDam9lYnU5MGpacG81VWhfUHVuQVMtNzI2N1RtN2JWSWx6VHJGMEUwZ01tbm53?oc=5"
         }
       ]
     },
@@ -282,30 +366,6 @@
       ]
     },
     {
-      "id": "d6c3a2177a80",
-      "title": "Experts call for UK four-day week as study links long work hours to obesity - The Guardian",
-      "published": "2026-05-11T01:30:00+00:00",
-      "summary": "Experts call for UK four-day week as study links long work hours to obesity&nbsp;&nbsp;The GuardianWorking long hours could be expanding waistlines and increasing obesity risk, research suggests&nbsp;&nbsp;The Times of IndiaWhy 4-day workweek is essential for your health&nbsp;&nbsp;NewsBytesFour-day working week helps weight loss | Irish Daily Star - newspaper&nbsp;&nbsp;MagzterHow leaving work EARLIER could help you lose weight and cut health risks&nbsp;&nbsp;The Sun",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakFqd2RWa29malZoU21tRnp5b3FzS0dDV0V3cDZYZlgybi1rSHVCLXM2bGtjbnlTUkp0aE5RSFNWOUVOV09nb3RlVmlUd2ZhdEJCa201WjhyVGcwd28tMzlHcTU4ajZqTXFuVE43WnlnSHhPRFV3ZDNNQkVxRE96SXhCajN0YVBvTXdZbUFjRmFod2RLR0Y2WUtYZFpwa2NwYmtuTFNJWjhwaHZwa3d1N0MxMXR5TUpISnpkTENIQUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "45f7d964dafe",
-      "title": "That Haunted Feeling May Be Caused by a Sound You Can’t Hear - SciTechDaily",
-      "published": "2026-05-10T23:22:23+00:00",
-      "summary": "That Haunted Feeling May Be Caused by a Sound You Can’t Hear&nbsp;&nbsp;SciTechDailyThe Haunting: Low-Frequency Sounds That Unsettle Us&nbsp;&nbsp;American Council on Science and HealthThe Week contest: Haunted plumber&nbsp;&nbsp;The WeekLow-frequency vibrations may explain why old buildings feel eerie&nbsp;&nbsp;Earth.comThe creepy feeling in old buildings might have a surprising cause&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWR5Sk5scW5ubUFKZ2xaMWxFN2ZHTTJPSGNNQlhjRmRkTUJ5Z2dGbnB4VWp3cVA3YUNjUndaWGhvSS1ZV09JOXFjS0d5X2pSQU1EZWFYbGd2dHlEaTJtTnFfWVZaVmVFQXMzbHVQRHhQUVBZYjNYUldKQTVfTHZKVkVxYmJQc0h1MVNDTDVn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "040ae2979d72",
       "title": "Greenland’s ancient methane reveals a dangerous climate weakness - Earth.com",
       "published": "2026-05-10T22:01:03+00:00",
@@ -318,18 +378,6 @@
       ]
     },
     {
-      "id": "af9b7633c605",
-      "title": "Modelling the impact of climate on cholera: a case study of Kolkata - Nature",
-      "published": "2026-05-10T19:09:18+00:00",
-      "summary": "Modelling the impact of climate on cholera: a case study of Kolkata&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uZXllSk03X0RVUmdQMTBBaXE4UTJMY2Z3VnEteDRpenV5dmtqZnZQYWJ0cFdBTUczUDl0VjNpYW1MYmlSM0xBRHI1NmJaclNhZGRmS2V6TnFvT2lKdXZJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c1829bc12c9f",
       "title": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat - Phys.org",
       "published": "2026-05-10T15:20:01+00:00",
@@ -338,42 +386,6 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iYmJLdDU5WUoweV92SmVtU2pxWWpsTm9yM0JFeWIxSl9LWjB1WnZYbU9XWHc2QnM0YkFLZ3VqbzlmNi1LYXU5cW81SXFhS3Z4N3pRQmNzX1lCNFlMT18wdWtFd3FNRlVSRmNIOGp0SWlvampG?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "45b57c709ac0",
-      "title": "Tracing Olfactory Receptor Mapping Between The Nose And Brain - Hackaday",
-      "published": "2026-05-10T08:00:00+00:00",
-      "summary": "Tracing Olfactory Receptor Mapping Between The Nose And Brain&nbsp;&nbsp;HackadayThe molecular mystery of how we smell&nbsp;&nbsp;Chemistry WorldHarvard Scientists Reveal Secret Structure Behind How You Smell&nbsp;&nbsp;SciTechDailyScientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertScientists Create First ‘Map of Smell,’ Revealing How Noses Track Odors&nbsp;&nbsp;ZME Science",
-      "sources": [
-        {
-          "name": "Hackaday",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ242aTd2N3hESnJ2VXVyNHVzazlwMmYxTW1wUTFQVG9wZzRpZ205TUh0ZGFmOEVKXzNwWGhJSFktZTZqeXZvMUt3Skt1WE9kNV9jVkotNWtWNGliM09JMHVnbW8zMC1HdmExRmRYcmoyNHNyUnZpX05idFlHcklzdWt6UW5EMW5TU204ZF93TzRjbDU4b3Q1bnZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b467216fa032",
-      "title": "Self-organizing “pencil beam” laser could help scientists design brain-targeted therapies - Technology Org",
-      "published": "2026-05-10T06:00:00+00:00",
-      "summary": "Self-organizing “pencil beam” laser could help scientists design brain-targeted therapies&nbsp;&nbsp;Technology OrgSelf-Organizing Laser Beams Accelerate Biomedical Imaging&nbsp;&nbsp;AZoOpticsOptical Brain Research Pushes Smaller Implants, Sharper Imaging&nbsp;&nbsp;All About CircuitsChaotic laser beam turned into a powerful brain imaging tool&nbsp;&nbsp;Earth.com",
-      "sources": [
-        {
-          "name": "Technology Org",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY0V3MlZMcS03VEFwQTRzdWlKeHJOSG14MTZCQVJDMGVUemxidHB4TkFOZjUzZHh1RTlvc09FdzVPMjI5U0RtN2NYQ0pMaVZjcUJ4RmVkZ2NYT3l6QlMzdmliQ0w2dUtJTkVSQ3I2ZVVLNXgxNHotc04ySEJILXUxbVpGMDlIdHFvbGFucmtQeUNkWFNwcVpUeWdHS0JHZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7455cfacc23a",
-      "title": "How many steps should you aim for to lose weight? - Euronews.com",
-      "published": "2026-05-10T05:09:50+00:00",
-      "summary": "How many steps should you aim for to lose weight?&nbsp;&nbsp;Euronews.comWalking 8,500 Steps Daily Can Help Prevent Weight Regain, Reveals Study&nbsp;&nbsp;NDTVPreventing Weight Regain: Walk this many steps daily to prevent weight regain&nbsp;&nbsp;The Times of IndiaScientists say 8,500 steps a day could stop weight from creeping back&nbsp;&nbsp;ScienceDaily8,500 daily steps — not 10,000 — may be the sweet spot to prevent weight regain after dieting&nbsp;&nbsp;The Indian Express",
-      "sources": [
-        {
-          "name": "Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzFqTWFHTFJTUWZPN0F6ZnVydEU4NEdHMjB2ZUs5aS0zZ2h5Wkp5QnQzU2w3OTV0NklJQ0FRYXJaRm1qNF9RNjJlLWZkeEk4Y2x2a216dG5mWWNjR1RNN25KUDV3SVMyY2Y2UGYtbl9IcWJMUUx4LWZUcnhXbEVwSDBfN0NZSk1jbU1sMm84eTduTFEzaUxVX3Fob2Z1NzYxUHZrelF4R3c0YUJsSkdITTZHLUFvcmlOOEl3Tw?oc=5"
         }
       ]
     }
