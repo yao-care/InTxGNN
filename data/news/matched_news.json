@@ -1,26 +1,85 @@
 {
-  "last_updated": "2026-05-12T13:28:51.080172+00:00",
-  "total_count": 19,
-  "matched_count": 13,
+  "last_updated": "2026-05-12T19:24:23.742595+00:00",
+  "total_count": 30,
+  "matched_count": 17,
   "news": [
     {
-      "id": "e66fdfd321ed",
-      "title": "The discovery of an atmosphere on a tiny Kuiper belt world - Big Think",
-      "published": "2026-05-12T13:08:32+00:00",
-      "summary": "The discovery of an atmosphere on a tiny Kuiper belt world&nbsp;&nbsp;Big ThinkDetection of an atmosphere on a trans-Neptunian object beyond Pluto&nbsp;&nbsp;NatureAstronomers Find Thin Atmosphere Around Distant Frozen Space Object&nbsp;&nbsp;NDTVAtmosphere detected on celestial body in solar system's far reaches&nbsp;&nbsp;ReutersAstronomers detect 1st atmosphere on Kuiper Belt object 2002 XV93&nbsp;&nbsp;NewsBytes",
+      "id": "16208345b99c",
+      "title": "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs - News On AIR",
+      "published": "2026-05-12T16:17:39+00:00",
+      "summary": "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs&nbsp;&nbsp;News On AIRBangladesh measles outbreak death toll climbs to 409 after 11 more fatalities&nbsp;&nbsp;National HeraldMeasles and the classroom&nbsp;&nbsp;Dhaka TribuneSPB for action against those responsible for measles outbreak&nbsp;&nbsp;newagebd.netBangladesh Measles Outbreak Kills Over 220 Children Since March&nbsp;&nbsp;AL24 News",
       "sources": [
         {
-          "name": "Big Think",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmlBVkc3S2JiY2dITmpGeVBqZEJvN2gwX29NQXFrMmQtYzRBNzlZeG9peWNYbXFuZXNvajRUOTJkd1Q3M3pPSzhTWWJZa1NKd3JoZHlWWVAzOVRXdUo0QzQ1aGFGNmhXSl9HM2Rmd2d3UTVPRmctOFJZaGRFeG9wR1VrYk8?oc=5"
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2ZtQzZ5eHB3M19XaE1YOXNwT3RtbjNIcnczc05xWmU0OW9ZYzlva2ZRelFBalR6dmdiXzFUeW90QmFwMFZUbGNlNXZlS1Y3STZrWFI5NXdMNFRKOGdVVGloMkJ5VVp2VWtsTDB2UUZNUkp2UGtGUnY5MU9GeUVWVFJOQU9VWm5SUHhCN2pSU2VDU2hpUXVVYg?oc=5"
         }
       ],
       "matched_keywords": [
         {
-          "type": "drug",
-          "drugbank_id": "DB03904",
-          "keyword": "urea",
-          "name": "Urea"
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
         },
+        {
+          "type": "indication",
+          "disease_id": "4619",
+          "name": "measles",
+          "keyword": "measles"
+        }
+      ]
+    },
+    {
+      "id": "9312757ceaf6",
+      "title": "KIT researchers develop contact-free laser technique to rotate microscopic samples",
+      "published": "2026-05-12T16:07:00+00:00",
+      "summary": "KIT researchers develop contact-free laser technique to rotate microscopic samples&nbsp;&nbsp;News-Medical3D microscopy: Laser rotates samples contact-free&nbsp;&nbsp;EurekAlert!Gentle, laser-driven flows enable precise 3D imaging of delicate samples&nbsp;&nbsp;Phys.orgThe laser rotates delicate cell samples under the microscope without physical contact. (Graphic: Fan Nan, KIT)&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcktBYmtFSDBSNTlOWHE0ekVFWkxvSFRTSXlXVHhleThPMTcyQTNmUWQ1NF9LZEFCZTR5WFR1Skg1aDR3cHVHRnpOZGV1TTBVMEFJNVFSSjZKLXlXTHdoQ3prOHJ4Tk56WXZjUExvZ0FsbUVFWWlleVphcUR0cEpJOGtSR3pDQk0yM3RUT096V1p6RVNiRnVCd2ttYXZXX1dITjk3dlpyMnpxeG1tcXJmTVpLaXp5R3h4TzRMcXdMLW1xS2VLenhoQ0FB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d4a68d02e2b3",
+      "title": "PMOS adopted as new name for PCOS after global consensus process - Contemporary Pediatrics",
+      "published": "2026-05-12T16:06:52+00:00",
+      "summary": "PMOS adopted as new name for PCOS after global consensus process&nbsp;&nbsp;Contemporary Pediatrics'The name was inaccurate': PCOS gets a new name after years-long effort&nbsp;&nbsp;Live SciencePolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyPCOS’s new name is PMOS, a small letter change that required a big scientific process&nbsp;&nbsp;statnews.comGlobal Experts Establish New Name for",
+      "sources": [
+        {
+          "name": "Contemporary Pediatrics",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTURmSjlVUmV1SUhBZ3E2T2IxdTI4MFhTb1Rua1Q1dnZHUTBqN3lsTHQ3a3dZQ1ZZTnhGX2poV3laQmRUaUpBYXppSDFTSlhQUElzMURsdjVvcWVwcmpYNTEtVUJ2cE8zV3gzSHM1SUNlUFpqbGJjS3RuR202SVd3cU80OXJfUlZRTGQ1OHU5dEFyQ293cE9oeW12bzZMWkZrVjdTdzJzTVY4NDFr?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "10686",
+          "name": "N syndrome",
+          "keyword": "n syndrome"
+        }
+      ]
+    },
+    {
+      "id": "5e80400b9c47",
+      "title": "Spanish passenger with hantavirus infection quarantined in Madrid hospital - News On AIR",
+      "published": "2026-05-12T16:04:28+00:00",
+      "summary": "Spanish passenger with hantavirus infection quarantined in Madrid hospital&nbsp;&nbsp;News On AIRHantavirus Case Confirmed As Evacuated American Passenger Tests Positive, Another French Passenger Falls Ill&nbsp;&nbsp;NDTVMessage by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)American Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJWHO head tells countries to prepare for mo",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUs0MlY5NDVCTGVQVkVXSnNzZlRfRjdoaGVDTVUtWFFSQ3d5ek82cVVtQVZKU3R0US1GUWFKcHU1TGcwXzRRMHNvRGlFb1NEQm1sUE1zYXppYTQ5dWFhQjd3amNNZEZOWUJkZnB5bGJQQ2lqa1JqcVYzYlZlY3hLVjhod251QzM3d0lVcm5zUEJwUlpScXJyLUJtdE1KX1JnTVhYZ0FmVQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
         {
           "type": "indication",
           "disease_id": "7270_12900_54838_12306",
@@ -30,14 +89,99 @@
       ]
     },
     {
-      "id": "a73dfe182c82",
-      "title": "‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women - The Guardian",
-      "published": "2026-05-12T10:56:00+00:00",
-      "summary": "‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women&nbsp;&nbsp;The GuardianGlobal Experts Establish New Name for PCOS to Reflect Multisystem Disease&nbsp;&nbsp;CU Anschutz newsroomPCOS’s new name is PMOS, a small letter change that required a big scientific process&nbsp;&nbsp;statnews.comPCOS, the most common cause of infertility, to now be called PMOS&nbsp;&nbsp;The Hindu'The name was inaccurate': PCOS gets a new name after years-long ef",
+      "id": "351841e5a7d1",
+      "title": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert",
+      "published": "2026-05-12T15:33:00+00:00",
+      "summary": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert&nbsp;&nbsp;WIREDThe hantavirus outbreak has been well-handled – but there are still dangerous days ahead | Devi Sridhar&nbsp;&nbsp;The GuardianWhy the hantavirus outbreak is different from COVID-19&nbsp;&nbsp;Al JazeeraThat dusty cabin you're opening this weekend could be hiding a deadly virus&nbsp;&nbsp;The Economic TimesHantavirus warning: US CDC advises not to use vacuum cleaners to clean rat droppings; here's why&nbsp;&n",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMFV3VlkxWUtjRVFsakRGX2pHWVBhY3ZfNVVtYWVNVllUVU5vdWZtLUpjZGtmWkdRbFdZS2prNTFoSjJETHFiMUNSS0RrdFVmdzRRUFJZV2s1MGZrR1Z4Nkw4U1hQUC1DZmNaNVBvWnpZamxWUVFBb2pGR3JpNllGRWhOX05fSFplTkZpSXFIS0FzOW5sdjdJc1diNlZaRl92STU3TWZ1RmpJUnptWldOZEJvdjc3Q1dJQ3N0Qnpra05qSURhX0lzQlRXZTRyM3BrY0ExMjFzblI5MnZjMGl4UGVR?oc=5"
+          "name": "WIRED",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM0xIcy14SHRVaEk0QzQtaW1RUU8xWUJ6cW5FV1VjdmZzWG5Wa21FMGVjVEQ0S0o3NW5POWNvZnZFc19DMlljTUFBVEhhSHhlVlFTd2tXZUgycWNwODFNQnRsMjRTVjAyVHFJeng0d3pRbktCSlZJbThud1lMa2xkaE9vbUhXOUN6QjJqSGxxNTNOY0lVc0FYcWoyWE5kbWFP?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "5113_5550_5108",
+          "name": "infectious disease",
+          "keyword": "infectious disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "100096",
+          "name": "COVID-19",
+          "keyword": "covid-19"
+        }
+      ]
+    },
+    {
+      "id": "d2b8ffb216cd",
+      "title": "NASA Spaceline Current Awareness List #1,199 8 May 2026 (Space Life Science Research Results)",
+      "published": "2026-05-12T14:57:53+00:00",
+      "summary": "NASA Spaceline Current Awareness List #1,199 8 May 2026 (Space Life Science Research Results)&nbsp;&nbsp;astrobiology.com",
+      "sources": [
+        {
+          "name": "astrobiology.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1RtMzQ3YnFmRzEzS01MODBITGRyQWluU1hxT0xlMHFxTmthQ1VXbG1WaW55ZTBUUHpleFpTU1NncEs5cnBkbXFXS3dkRlVvS1R3MDVuSnRjUlNfQUU3TWd1NUFNdjVqd2xxenNadEJtS05MaUdhV2RISi1VSTB5LVR1ZG9DWUVsTXZzeTNWNktvZGpuSVZzcWZpU0VUZ3FiNENLallTTmQxZzRfbTdZckF4ZUctakRESmEtVkZaZmdwck1mZ0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9b19cad66673",
+      "title": "Fiber from lunar soil sent to space station for long-term exposure testing with potential to serve as in-situ materials for lunar research station - Global Times",
+      "published": "2026-05-12T14:01:00+00:00",
+      "summary": "Fiber from lunar soil sent to space station for long-term exposure testing with potential to serve as in-situ materials for lunar research station&nbsp;&nbsp;Global Times",
+      "sources": [
+        {
+          "name": "Global Times",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6QTFkbmZ5Vkx2MXJGTVI5OGR3VUxqc3hqYUhHVUUybnJSQXJsVHFsQlhxVHM0cVBoSHhZOURFX1ZmMEo1Y1g5YXdDREktdFpqNjItYUtqaVJ5S2VUTGQ4dEhn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "41cd87e4310a",
+      "title": "Antarctic cosmic dust proves Earth has been traversing through supernova debris for 80,000 years",
+      "published": "2026-05-12T12:40:00+00:00",
+      "summary": "Antarctic cosmic dust proves Earth has been traversing through supernova debris for 80,000 years&nbsp;&nbsp;WIONAncient stardust frozen in Antarctic ice just revealed where Earth has been in the universe&nbsp;&nbsp;The Economic TimesA Rare Metallic Signature from Deep Beneath Antarctic Ice Has Revealed an 80,000-Year-Old Interstellar Discovery&nbsp;&nbsp;The DebriefScientists find iron-60 in 81,000-year-old Antarctic ice, indicating supernova dust&nbsp;&nbsp;NewsBytesThe Ice Core That Caught Ear",
+      "sources": [
+        {
+          "name": "WION",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY3EwbUFwdFpsMkM5Y3V4RFN6UUttYk00dnVHR3BlZ1U3aUZiVndPR08zRjlhcU1uOGdmb0hablc5RFhWUG9halRVQ0pyNE1FeElCNTRubFdrM0FJUUdxTkpaV1A0MEJ3bjNGVktKTDZrUnF0UHdFVkpIaUhIZl9LeFVtdGQ4WjRrRUZFcXBaOFRxRzVfVlc5UFVheTJLNW5aaFMwWTk2ekg3X0pmQVdQTl9BckZKMVpVWDlGQmNaTEhxUG16UU1hMGhyUC1SRXBkdnY0YXo5N3FrUdIB3wFBVV95cUxNNVV2MFFxZ0l4cjhZRERrTFh6YVE5d3VmdGhjU0E0TG11TnZzejVlRklrZDVlVnhWVGdGR1M2R0JzYk45Mlhqd3hZXzJJU1RRUVpyOXlCUGhDeEg4WjhQNUw3al9ISGJmTzlaQldGSzZMMVR0ckVBTjZBeV93TzBoTWhZQkZWR2EtVFpZZlFsaktud1M3T3JmT3JQSjQyTnphVnVNbi15ZkhnMlJ0bVcyY3hGc2R6Z3dxUDF0Umd5RHd5R1QwQldYM2s0QzFRdHZmTmhNUDlHbWZHLTlSODE4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB01592",
+          "keyword": "iron",
+          "name": "Iron"
+        }
+      ]
+    },
+    {
+      "id": "258f066783e8",
+      "title": "These 4-billion-year-old rocks found in Canada may reveal how Earth’s first continents formed - The Times of India",
+      "published": "2026-05-12T12:15:00+00:00",
+      "summary": "These 4-billion-year-old rocks found in Canada may reveal how Earth’s first continents formed&nbsp;&nbsp;The Times of IndiaRewriting history: The 3.8-billion-year-old clue found in a Quebec rock&nbsp;&nbsp;The Times of IndiaUWA research offers insight into how early continents formed billions of years ago&nbsp;&nbsp;The West AustralianEarth's first continents may trace back to subduction 3.5 billion years ago&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWDA3ZTRsYjFxTjdMOF9NbkVKZDFWMExDbEpISmw5WTVNWHRSdVc4U2VmdnlSTzlWeDdYN05PWWJkVlRsem43a2xDTkZxX0xmY1ExY3g0LWNpRmFib1BURW8tRjRBcnpRSUFpQXNyR3N6Z3NBNjhLVm1HRi01alNGUFRsOV8zOGU1dENnU3hOcGlPeWZwUFdUOEFCdGNYck1UN2Nma3hTTElEa2w5WFRzQVRaSVlYNGJVZ2pRLVFZZmtudTBNMUpZRGt1dFFTaDNULUgyVTdNTGk2cTdCWlVfME9WMFljMkFKSjJZTkRDZHBsSG000gH6AUFVX3lxTE9kdWhRYlU0RUhOWGxERmdNODgwRnYwaVVRcElUek5WaTVlM3VHTDc5eklEdklBNGJrLXRVcUdTLW55NHJjQkZIeTNqNGNaTzVlOHVWZ0drX19NOENWQnhIc3QxM2N1TW5EaW5zM2xHSEdmWjgzVzJaall1S1VnYVlxMWVXajR4U2E1WjRwWDVVSDBkVGk2REh4NWpYa2pENGJiMXBDdi1zdTRYeDRmOVdmWmRUbUxidEhaeDVHcmQxZ1lhbS11MWlhZzE5QTVobXZGVVFDbkZHZG5lbmNBa21uR3JOZEZfdDdnNWM5VktDcDhka0V0Q0RNVWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9318934f2122",
+      "title": "Built not born: Huge black holes form in mergers, study says",
+      "published": "2026-05-12T11:52:14+00:00",
+      "summary": "Built not born: Huge black holes form in mergers, study says&nbsp;&nbsp;EarthSkyGravitational-wave constraints on the pair-instability mass gap and nuclear burning in massive stars&nbsp;&nbsp;NatureScientists Just Discovered How the Universe Builds Monster Black Holes&nbsp;&nbsp;SciTechDailyHow do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceScientists have detected a forbidden zone in space where planets should not behave this way, and the di",
+      "sources": [
+        {
+          "name": "EarthSky",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFpoRlFKeUhVQXFxVmFLaHAzYlRxd3JXUlE0ZGhaelduRkZER2pWUWdVZlEtOHhzZ092R19vNU02VTk0YVZodEVYdk5uTGMtZzE5LVd0bjlTNjhseVRrSkRpM2pyRWxESXp2MzI3VWRXb0VNaWFLSG85SGN0OVBHeGg4RF9HcFBL?oc=5"
         }
       ],
       "matched_keywords": [
@@ -49,11 +193,50 @@
         },
         {
           "type": "indication",
-          "disease_id": "8487",
-          "name": "polycystic ovary syndrome",
-          "keyword": "polycystic ovary syndrome"
+          "disease_id": "43519",
+          "name": "burn",
+          "keyword": "burn"
         }
       ]
+    },
+    {
+      "id": "a76670028fcf",
+      "title": "ASTRONAUTS SAVING LIVES : Cancer Research Beyond Earth",
+      "published": "2026-05-12T11:48:03+00:00",
+      "summary": "ASTRONAUTS SAVING LIVES : Cancer Research Beyond Earth&nbsp;&nbsp;BioTecNikaDNA-Inspired Cancer Research; Vision, Heart, and Psychology Tests Wrap Up Week&nbsp;&nbsp;NASA (.gov)DNA-Inspired Treatments, Space Agriculture Top Crew’s Research Schedule&nbsp;&nbsp;NASA (.gov)Crew Works Health, Spacesuits, and Cargo Mission Preps on Tuesday&nbsp;&nbsp;NASA (.gov)Lab Hardware, Life Support Gear, and Human Research Fill Crew’s Day&nbsp;&nbsp;NASA (.gov)",
+      "sources": [
+        {
+          "name": "BioTecNika",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNclpOdG5qN052RGhpYTR4YW5GMHFRU2g1aFNKbG5ySFNuYVhwdXd6M3BkMTJvbjh5Yk9ZM0FvTDloVVp0QTFmNlFPRnpxb19HT0RnSFJvRU5KOUZsMENmMVB6QzhyLWMtNW9EWENVNnFNSnFibWg3WlYxN01QWTllX29TU1NBdmI0bS1GZUlnZ095VWpxZFE0LXBCRmlmd9IBowFBVV95cUxPQm1VNU54Wk1Oa1dwcmVWUkx3a3gzeHpTVmg2X0k3ZmNBanhZMUZoempwVGJxXzhQcVlFUjE3OTV6NmFTOWRMdHN3b3VfWWhUcFlIaC0zZVM0blZaYzd3T2kwWXc4UFBBMG9OcVgxckc1SDlSeF9wb3ZSVzh0aWlvcVh1Nm5USXV6RHZNTHNVNFRiRU9JenFtTFNGakdnSlF5OXF3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
+    {
+      "id": "f521b9963cfb",
+      "title": "Systematic discovery of enzyme promiscuity in Escherichia coli using in vitro metabolomics",
+      "published": "2026-05-12T10:41:15+00:00",
+      "summary": "Systematic discovery of enzyme promiscuity in Escherichia coli using in vitro metabolomics&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xSzJ3T2tMTzl0SWNUWTFrUkJHYm13ejVma1MwUGN5R2tRV3JHMjN0UGVRYXdlWjBjUGdOU0JKUjlBemtvT2t3YkZYQ1JTUE1RNDhwa0p2ajg0TDU3cFZB?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "7b210e41e48e",
@@ -69,42 +252,67 @@
       "matched_keywords": []
     },
     {
-      "id": "eaa99aaf1168",
-      "title": "Metabolism-inspired hydrogels replicate heartbeat-like motion and photosynthesis",
-      "published": "2026-05-12T08:33:37+00:00",
-      "summary": "Metabolism-inspired hydrogels replicate heartbeat-like motion and photosynthesis&nbsp;&nbsp;Nanowerk",
+      "id": "3f2f1cec7653",
+      "title": "Resistant Infections in Children May Respond to Tigecycline",
+      "published": "2026-05-12T07:32:02+00:00",
+      "summary": "Resistant Infections in Children May Respond to Tigecycline&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "Nanowerk",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJZk5qRlJidzE1NXdVamJwcmxkakVjcEVBV3hxLW94SlRyRjZIMXBGRnZHQ3k3c3Z4MktYSnpITTdWZi1qYXdLamNXMnE4NENEaGx3dHJVMkJPYXZQNHpjMGF5UTNVdw?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnF6d05BSjVpWGZkT0g4R01aT21mWjhKUzVLYkxfUkNEakpBdm83eDRBYl9xeXVfN2w4a2s4Y3BLTFlVbFhEWnk0Q2l2eExRU2pfVG1aMjcyeDlwSmttQUo5SzhNRGJ5ZDFSamR6eS0zV2Uydk55SU5hUFpOMTJITjJNejdfVFdPNHh0RF92NFZpMThfNnVralpYbkRPSFNYSXc0N3o0ZUJfaDFISkV6aFNSQUR0ZGFOX2FxUWhQNGtXX3c?oc=5"
         }
       ],
       "matched_keywords": [
         {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
+          "type": "drug",
+          "drugbank_id": "DB00560",
+          "keyword": "tigecycline",
+          "name": "Tigecycline"
         }
       ]
     },
     {
-      "id": "bc697f6a02bf",
-      "title": "Quest for a rare bird, a landfill visit, a deadly outbreak: How Leo Schilperoord became hantavirus 'patie - The Times of India",
-      "published": "2026-05-12T03:44:00+00:00",
-      "summary": "Quest for a rare bird, a landfill visit, a deadly outbreak: How Leo Schilperoord became hantavirus 'patie&nbsp;&nbsp;The Times of IndiaAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJOmaha quarantine: US passengers from Hantavirus-hit cruise ship arrive for specialised monitoring&nbsp;&nbsp;The Times of IndiaMessage by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)H",
+      "id": "3f54241559c3",
+      "title": "New Daily Steps Goal Shows You Don't Need 10,000 to Keep The Weight Off",
+      "published": "2026-05-12T03:17:25+00:00",
+      "summary": "New Daily Steps Goal Shows You Don't Need 10,000 to Keep The Weight Off&nbsp;&nbsp;ScienceAlertWalking 8,500 Steps Daily Can Help Prevent Weight Regain, Reveals Study&nbsp;&nbsp;NDTVMedical Bulletin 12/May/2026&nbsp;&nbsp;Medical DialoguesForget 10,000 steps: Scientists say this specific daily number is all you actually need to stop weight fro&nbsp;&nbsp;The Economic Times8,500 daily steps — not 10,000 — may be the sweet spot to prevent weight regain after dieting&nbsp;&nbsp;The Indian Express",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPWVNaMk9HNzZUNktUNy1KLTZDLXphR21CWkN1WVNfVGhLaVZFTjJiMEZ6djZlQVM1eG9PRE9iVGRLX1VRRVpfaV9RSVl3U1lWSG1qRWdUMWVQUU1rN045aWNJLVlGdHpwT0loYUVmTVJpb0phendRbV9jb1kya1Z6bXhLSWF4b2FqX19qNGo0UVlGc2o4VnpiektGVnRnaUJXdDlmZnVhb1FaNkNLQ1hodG1vQ0ZTTGNiNHF6dksyQ3BqY2t2bTBmTHNsZDBlTlNURnNqd3pxTEdtTnFQdDB2anJvUjdOVTF6N0JEM0tnbVFwczhVanBWa0poMlhrdmZKbllvalczc3pfTHljc1F4YndiLXBiUzduS1E?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVi1sNmx4TC1MZlNCNTFDX2NoVFRIdHFhQnVrSU9ZZ0FRb3RoejY5UDlMQVBqN2JnVzZBWnc0aTVGYlhnai1wZ1BKb2MybmRmMF9BNnNadzNVYVNaUmFqdnB5M243djM5SElWbHQ4RTByNlVsVWl2aVJYalp3MUlWX1BPTS1GaWs4THFMZHZVZlM1Ukt3Zkw3UVpSSEsxUkU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "739f49321873",
+      "title": "Giant Squid Detected in Western Australian Waters Using Environmental DNA for the First Time in Over 25 Years",
+      "published": "2026-05-12T01:53:50+00:00",
+      "summary": "Giant Squid Detected in Western Australian Waters Using Environmental DNA for the First Time in Over 25 Years&nbsp;&nbsp;SSBCrackGiant squid among creatures of the deep hiding off WA’s Ningaloo Coast, research reveals&nbsp;&nbsp;WAtodayThis is our clearest look yet at one of the deep ocean’s rarest animals&nbsp;&nbsp;BBC Science Focus MagazineGiant Squids, Pygmy Sperm Whales, and Other Rare Species Detected in Australia's Deep-Sea Canyons&nbsp;&nbsp;Discover MagazineAustralia Giant Squid Edna Re",
+      "sources": [
+        {
+          "name": "SSBCrack",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ05DR2VPRFRhZDlaSEhpdjFpaVRDTm1uSWE5cnFGU3FWcV92VWZIYlNLc1BtWFJtM3RTVlRnWnVTYnBfdUQ2d09WSlBzaTdHRm9JY2VEU0JmZ2NRX0RJRms5LUFjY3Bpb25UdzNiZmx5SUZCNHM1NTVnOTZNM01HTnZORHBFazZMeHNVNWtCV3ozTkx6b3RieEM4VFEwTWNJcFNjTjZJazdMcFB0OFNfcmpqRmxnTkg4QUFyUUwxRmJRS240WnJLMXZuODc0X0p5MGc?oc=5"
         }
       ],
       "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB01592",
+          "keyword": "iron",
+          "name": "Iron"
+        },
         {
           "type": "indication",
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "9941",
+          "name": "Pygmy",
+          "keyword": "pygmy"
         }
       ]
     },
@@ -142,50 +350,17 @@
       "matched_keywords": []
     },
     {
-      "id": "00e40da133a9",
-      "title": "Molybdenum Was Scarce, But Early Life Chose It Anyway - Universe Today",
-      "published": "2026-05-11T18:19:00+00:00",
-      "summary": "Molybdenum Was Scarce, But Early Life Chose It Anyway&nbsp;&nbsp;Universe TodayBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureEarth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old Fossils&nbsp;&nbsp;The Daily GalaxyLife on ancient Earth used a rare metal that barely existed&nbsp;&nbsp;Earth.comNASA-backed study links molybdenum to early life chemistry on Earth&nbsp;&nbsp;NewsByt",
+      "id": "f97abaf04327",
+      "title": "Hantavirus: 12 Radboud hospital workers to quarantine due to slack safety measures - NL Times",
+      "published": "2026-05-11T20:13:09+00:00",
+      "summary": "Hantavirus: 12 Radboud hospital workers to quarantine due to slack safety measures&nbsp;&nbsp;NL TimesHantavirus protocol breach at Dutch hospital as medics race to curb spread&nbsp;&nbsp;ReutersHantavirus Exposure: Dutch Hospital Quarantines 12 Healthcare Workers As Precaution&nbsp;&nbsp;NDTVIs an epidemic starting? In the Netherlands, healthcare workers committed serious violations in dealing with hantavirus&nbsp;&nbsp;Inbox.euTwo evacuation planes from Hantavirus-hit cruise lands in the Nethe",
       "sources": [
         {
-          "name": "Universe Today",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEI3RFlSdGktSXpVSnpNczJzaWhQUnJjWnFlMWJwX0Y5TjhaTGpQYzZBMUU1dW4xY01tTHdheldjcnp4cTVNY01XRmEwa0gwWUl5eXV4YWdDSHJKejU5MXp5cDF5UnhIWlhCZVJzeE5hS3FSS2hUSjRPa3pVLWxzbGhfQ2lkOTdfU2lCYzBIWF9Kek13SWc?oc=5"
+          "name": "NL Times",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0FaQl85eldlWUhuYW55X3dpbWRGcnVVWUVoRE1yZGxGMC1vVXJUcnNNckthWTl5cnVXWHp6ZS1lWWhucy1WbG4zZVQ4QUpMbl9PMXBGLXhjQUFXVFBZNVlQbnFSaUx0d3I5R3dQdFRBR0RFczl1UGI5LTVmN3JYZ3JYZkozRjc4OHZROXQ3cm85ZlZUTlNJcjNjYTJTLXREY2l5TTNSVW0?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "3e7f2f04ce67",
-      "title": "Giant Squid Detected off Western Australia in Stunning Deep-Sea Discovery",
-      "published": "2026-05-11T18:03:55+00:00",
-      "summary": "Giant Squid Detected off Western Australia in Stunning Deep-Sea Discovery&nbsp;&nbsp;SciTechDailyGiant squid among creatures of the deep hiding off WA’s Ningaloo Coast, research reveals&nbsp;&nbsp;WAtodayThis is our clearest look yet at one of the deep ocean’s rarest animals&nbsp;&nbsp;BBC Science Focus MagazineGiant Squids, Pygmy Sperm Whales, and Other Rare Species Detected in Australia's Deep-Sea Canyons&nbsp;&nbsp;Discover MagazineRare giant squid found in western Australia&nbsp;&nbsp;NewsNa",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkNyNFN2ZEJfc1phWXpEdkFzRGk4WmQwWXI4UGtDQjI3ME5xdnZPTktFYThLeFRPT0NZVkEyUWY1Mm1yWU1ESlVNZG9zT0tKM3ZUcEh1Nk1fNU56bVl5aTdtNy1DdXlwMjZJdHNVeFZkc2cyVjBNcmdNTHNzZTRJUEJZc0pwRG5HeWdkVTBHZTZkejRTTXo4M193WkJxaTFr?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "9941",
-          "name": "Pygmy",
-          "keyword": "pygmy"
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "c6a387ddc833",
@@ -218,6 +393,45 @@
           "keyword": "cancer"
         }
       ]
+    },
+    {
+      "id": "2ea702993e65",
+      "title": "More than 100 sick in norovirus outbreak on Caribbean Princess cruise ship - Global News",
+      "published": "2026-05-11T14:44:58+00:00",
+      "summary": "More than 100 sick in norovirus outbreak on Caribbean Princess cruise ship&nbsp;&nbsp;Global NewsNorovirus outbreak: More than 100 sick on Caribbean Princess cruise ship departing Fort Lauderdale&nbsp;&nbsp;The Times of IndiaNorovirus outbreak on cruise ship after Hantavirus scare: How both differ from Covid-19&nbsp;&nbsp;The Indian ExpressWhat is Norovirus? Caribbean Princess cruise ship outbreak sparks global concern; Is India at risk too?&nbsp;&nbsp;theweek.inExplained | Hantavirus vs Norovir",
+      "sources": [
+        {
+          "name": "Global News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNm9QZ2x5NlFsMG14SlM1SDZta3VkRURQYXZHcDY4bVppZTk3OFhWS0VDV2xQUlI3aU9BYWo5ajd5b0k2SzBmMXlCc0ZQSkJlUUo4b2ZZYWNDal92Qmh2RjdWeThncTdNbFJaTDNxU1RYcUh1WV9JbjMyTm9MQVNBVzBfWFNqZVFuLWtRQWR4TQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "100096",
+          "name": "COVID-19",
+          "keyword": "covid-19"
+        }
+      ]
+    },
+    {
+      "id": "57baa8cc9611",
+      "title": "Epstein-Barr: A new antibody could block a virus that 95% of us carry - Gavi, the Vaccine Alliance",
+      "published": "2026-05-11T13:54:30+00:00",
+      "summary": "Epstein-Barr: A new antibody could block a virus that 95% of us carry&nbsp;&nbsp;Gavi, the Vaccine Alliance",
+      "sources": [
+        {
+          "name": "Gavi, the Vaccine Alliance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQjNYYW5vMjJoT2hoYTdJdUJsLUhrQWhMSVJLNEFTaGk2UWViMlF2T3dqT052ZE5ldFRYbU0yVlRXdWwyamZtbnU2dVlfUHJGVnA1VzlkdGJaV05rZ3lJSmpNOGh2VkpuLVM1bEdPWk5kd2N0d1htdHhheklyRmo0NDViV0k3UWF5NFJpYUJzam9NWTg?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "62d323afb553",
@@ -273,14 +487,14 @@
       ]
     },
     {
-      "id": "f422c511d60b",
-      "title": "Scientists Just Discovered How the Universe Builds Monster Black Holes",
-      "published": "2026-05-11T10:39:02+00:00",
-      "summary": "Scientists Just Discovered How the Universe Builds Monster Black Holes&nbsp;&nbsp;SciTechDailyStudy Reveals Black Hole Collisions May Be Creating Universe's Biggest Cosmic Giants&nbsp;&nbsp;NDTVHow do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceScientists have detected a forbidden zone in space where planets should not behave this way, and the discovery changes what we thought about how worlds are born&nbsp;&nbsp;ECOticias.comBuilt not born: ",
+      "id": "31f7f3e143cc",
+      "title": "Plasmodium vivax Malaria Detected in Duffy-Negative Hosts",
+      "published": "2026-05-11T09:48:27+00:00",
+      "summary": "Plasmodium vivax Malaria Detected in Duffy-Negative Hosts&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFhMdHZFaG83SVR5RkdyM0htU3IxRTh4ZUZXRVlZT3BidFdaSVFPTUZGdm1lM25oMm9KYnJrUUYyZk53N1IyV1h0a2NmXzd1ZTVLUS1MTmVHdEppb0ZOVzNQMmRURHNtckRlRWtmMWl6c05qWGJvV0JPRUJhUkZDb1o1TnYwVS1NU2Y0MHdsenE2TWVRYUVEdHhLa1M?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVm05cXJhRlp6ODRUanZ5VHdQVUFqZmc5TXlzeGM1X1J3a1FfZTNyTDhYa3NhcHg1M1RjUVFhYk5TMTFWVzZZb1BUWGN2RlY4VzdSWFpZLTdwZzMyWU14M0RZQVBMTnc3NDY3cUlaNUdReEtzeW1LX01ndExlNlpLN1p4SGxDbnh5ZUY2ZUh1T01GNTZoTTJFS3J2MG5COEhMVEFxNThZTDJod2xXY281NlY2UV9CUUZqS0VXTm9Ielk?oc=5"
         }
       ],
       "matched_keywords": [
@@ -289,26 +503,56 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5136",
+          "name": "malaria",
+          "keyword": "malaria"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5921",
+          "name": "Plasmodium vivax malaria",
+          "keyword": "plasmodium vivax malaria"
         }
       ]
     },
     {
-      "id": "2425637eb8b9",
-      "title": "The molecular mystery of how we smell - Chemistry World",
-      "published": "2026-05-11T09:22:28+00:00",
-      "summary": "The molecular mystery of how we smell&nbsp;&nbsp;Chemistry WorldTracing Olfactory Receptor Mapping Between The Nose And Brain&nbsp;&nbsp;HackadayHarvard Scientists Reveal Secret Structure Behind How You Smell&nbsp;&nbsp;SciTechDailyScientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertScientists Create First ‘Map of Smell,’ Revealing How Noses Track Odors&nbsp;&nbsp;ZME Science",
+      "id": "79974c8aeb01",
+      "title": "Urges for cardiologists to screen patients for UPF intake",
+      "published": "2026-05-11T08:53:00+00:00",
+      "summary": "Urges for cardiologists to screen patients for UPF intake&nbsp;&nbsp;News-MedicalInstant noodles, chips, colas can trigger early heart diseases, warns study&nbsp;&nbsp;Moneycontrol.comCook more at home to reduce ultra-processed food intake, say cardiologist groups&nbsp;&nbsp;The GuardianSome Commonsense Advice on Ultra-Processed Food&nbsp;&nbsp;Consumer Federation of AmericaReport: ‘Ultra-Processed’ Classification Does Not Reliably Indicate Nutritional Value&nbsp;&nbsp;Food Safety Magazine",
       "sources": [
         {
-          "name": "Chemistry World",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVJEZUVGQ3IzYkxCdFdUYXZzTGVtVGhtZ0ViWU9MQ0VaamR5VjlPWDk2WUhPc0hjaVJFU21ONkdra25VRy1nS3B1eXE0aW00UU9PMXgxRnBmUmE1M0g5cFZ1QUhXTTJPTDY4UkRrd0o1Wlhmc3gwd2lHOEpKZUZFZFJUaHlUR09udjdyYWk3ZmZKU0dJQWJtTw?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFQxNnFRdm93TmdKZFhOd1Jod1hyazZJX0pBVy1LUXU3WlA5M1NjWlZscVFOOUdmSDBpZ29HcFVGaGR2S05MeS1fM3dreDZsNlJMbVR4RDR6NHIwWFZPU1dTSVRCa2FUbUJ4U2RfbC1SSDEyc21SVW9JVTNvNklaV3kzUmRRb2xZV21rOWxDSzFnNlpNTTg0SEI5T3M2NWpSX192Skppd2o?oc=5"
         }
       ],
       "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03384",
+          "keyword": "fica",
+          "name": "Fica"
+        },
         {
           "type": "indication",
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5267",
+          "name": "heart disease",
+          "keyword": "heart disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__heart_disease",
+          "name": "heart_disease",
+          "keyword": "heart disease"
         }
       ]
     },
@@ -326,50 +570,55 @@
       "matched_keywords": []
     },
     {
-      "id": "dc79ffb98eb1",
-      "title": "Hantavirus explained: Can it spread from person to person? Bengaluru doctor reveals everything Indians should know | Health - Hindustan Times",
-      "published": "2026-05-11T03:48:38+00:00",
-      "summary": "Hantavirus explained: Can it spread from person to person? Bengaluru doctor reveals everything Indians should know | Health&nbsp;&nbsp;Hindustan TimesIs hantavirus the next COVID? WHO director-general flags key pointers&nbsp;&nbsp;The Times of IndiaThat dusty cabin you're opening this weekend could be hiding a deadly virus&nbsp;&nbsp;The Economic TimesHow Quickly Can Hantavirus Turn Severe? Doctors Explain The Timeline&nbsp;&nbsp;NDTVHantavirus: The Rare Virus That Can Turn a Simple Fever Danger",
+      "id": "27f1e3cf3c75",
+      "title": "Non-invasive swab test offers fast, accurate tuberculosis detection worldwide",
+      "published": "2026-05-11T01:46:00+00:00",
+      "summary": "Non-invasive swab test offers fast, accurate tuberculosis detection worldwide&nbsp;&nbsp;News-MedicalNew Swab Test Could Detect Tuberculosis In Under 1 Hour&nbsp;&nbsp;NDTVWHO Unveils Tongue Swab TB Test: Easier, Cost-Effective, Accessible&nbsp;&nbsp;Deccan HeraldCIDRAP: No sputum needed: Easy-to-use TB test shows accuracy in 7-country analysis&nbsp;&nbsp;European AIDS Treatment GroupA 30-minute TB test could finally shift diagnosis out of the lab and into the clinic&nbsp;&nbsp;Drug Discovery Ne",
       "sources": [
         {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQQzhxUnc0VEhQRUdDdXpnUG05MnpyUVV2aXRQOU1tWHByMkZkX21YbTVfWUtXRXBicktOR1JSVE5ud2UwMDkyMlNaeW9XQVlkRnZYM2N1eW1fWkpndVBWN3MwUzloVlhicmVBN0lYQ3hwVXJTTTNaS3NqbXdKUGxVejI5SGJ1Q3ZIUklmVzdZajBJM1p2VGFjczdMMEZoV2Z1eS1fMi1FS1RHYS11TUhRNDdQcE9DWWh2cEhNTlM0WEx0MWJQLVM0LXFjMUNxem5FSVB0QWxiTnNEa3FfLTRPYUlaeVY1R3kyQ2twU2Y1bTk1UGRZQjM1Zng2Wlp2ZHA0c0JGSGRTSU9oTlJOSVHSAZMCQVVfeXFMT3FFVi13VmhTYnY1U2N5SzZFbWNaS1otTWFNQmFSclMyc1BPNmZ6Vk5NeGozYkxMaVBuSWV0eEtyQVdPczVzR3EzUDBCNFlnWTNfeWd3YVRCYnE4ZmpFeU0yMHJVVFdWOGloSGtCZ1o0WWtKQjhRWk9jVy1kbE1aWmpXMGVURDdqZUVrTVhOMm5JVUh0OGdXaHlHSmVLdno2M3RoQmxxb25pMWhMVG1xMjZadTdjaU5RamNQVGJRTV85c0ZsZEFzU2RpQkwzMTJiWnpSLVc1NjBDNUt2YXYyYjJsMmViRmtuMXhBcXk1aDJ1c3I1ZEhRcUNjNHE0b0pERUU0Q3N6bWtzbEhma0lRZkg3aUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "040ae2979d72",
-      "title": "Greenland’s ancient methane reveals a dangerous climate weakness",
-      "published": "2026-05-10T22:01:03+00:00",
-      "summary": "Greenland’s ancient methane reveals a dangerous climate weakness&nbsp;&nbsp;Earth.comScientists found something frozen inside Greenland that could rewrite climate history&nbsp;&nbsp;The Times of IndiaSubglacial CH₄ export from the Greenland Ice Sheet linked to a mid-Holocene warm period&nbsp;&nbsp;Phys.orgNature Geoscience study finds Greenland ice sheet rebounded after warming&nbsp;&nbsp;NewsBytesMid-Holocene retreat of the Greenland Ice Sheet indicated by subglacial methane release&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR0JENkFsSDY3TEZ5MUZic3VjMTZ4YmFCQUdvTjN3cFZOX2gtTEpLVnJyNVZhSXN2SGo4WW5MZGNKaUUwaWw4M183RFIxdmdYbjhtd2I5QTJ6MU9FS2V6WU1HLXVqc2VpbEpUOWZJdkxzWnRJRE5CNkVKY0hPNUZtdnRMX0o5MzVJVXRsZU52MDNnbEM3NVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c1829bc12c9f",
-      "title": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat",
-      "published": "2026-05-10T15:20:01+00:00",
-      "summary": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat&nbsp;&nbsp;Phys.orgHumans Have Been Obsessed With the Best Cuts of Meat for 1.6 Million Years&nbsp;&nbsp;VICE1.6 Million-Year-Old Bones Reveal How Early Humans Hunted and Shared Their Food&nbsp;&nbsp;Indian Defence ReviewNew Research Shows How the Earliest Humans Got Their Meat&nbsp;&nbsp;GizmodoOur Human Ancestors Dined on Takeout&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iYmJLdDU5WUoweV92SmVtU2pxWWpsTm9yM0JFeWIxSl9LWjB1WnZYbU9XWHc2QnM0YkFLZ3VqbzlmNi1LYXU5cW81SXFhS3Z4N3pRQmNzX1lCNFlMT18wdWtFd3FNRlVSRmNIOGp0SWlvampG?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZzJaNHBwLVo1RnlzcFZPU1lIa0VnTWdFZWZDZkpfSUNQa0t2TGtURkNFSFptXzB3X0tyV2JlVElhRl9RSVhKTkI5UkMxdHFuZWFBZGJ0aEtIcDZaLWt1cVlyaFIxNXNRQTRsampYa3RFWUo2ZGtwQkYwLXJCaXZQZUlVNXFjMGtQR1ZFTWYxdUQwMTY1TkVLdHlQd3ZLRWlQUm1uUVhCUi1SeTdRRjFvX3lXQmR4bm9QNEdkemgwVkI2UQ?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
+          "disease_id": "8383",
+          "name": "rheumatoid arthritis",
+          "keyword": "RA"
+        },
+        {
+          "type": "indication",
+          "disease_id": "18076",
+          "name": "tuberculosis",
+          "keyword": "tuberculosis"
+        },
+        {
+          "type": "indication",
+          "disease_id": "18076",
+          "name": "tuberculosis",
+          "keyword": "TB"
+        },
+        {
+          "type": "indication",
+          "disease_id": "12268",
+          "name": "AIDS",
+          "keyword": "aids"
         }
       ]
+    },
+    {
+      "id": "d6c3a2177a80",
+      "title": "Experts call for UK four-day week as study links long work hours to obesity - The Guardian",
+      "published": "2026-05-11T01:30:00+00:00",
+      "summary": "Experts call for UK four-day week as study links long work hours to obesity&nbsp;&nbsp;The GuardianLong Working Hours Are Triggering Your Body To Store 'Stress Fat', Says New Study&nbsp;&nbsp;NDTVWorking long hours could be expanding waistlines and increasing obesity risk, research suggests&nbsp;&nbsp;The Times of IndiaHow your cortisol levels are affecting your weight gain – and what you can do about it&nbsp;&nbsp;The IndependentI lost 1.5 stone after switching to a four-day week&nbsp;&nbsp;The",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakFqd2RWa29malZoU21tRnp5b3FzS0dDV0V3cDZYZlgybi1rSHVCLXM2bGtjbnlTUkp0aE5RSFNWOUVOV09nb3RlVmlUd2ZhdEJCa201WjhyVGcwd28tMzlHcTU4ajZqTXFuVE43WnlnSHhPRFV3ZDNNQkVxRE96SXhCajN0YVBvTXdZbUFjRmFod2RLR0Y2WUtYZFpwa2NwYmtuTFNJWjhwaHZwa3d1N0MxMXR5TUpISnpkTENIQUU?oc=5"
+        }
+      ],
+      "matched_keywords": []
     }
   ]
 }

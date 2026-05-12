@@ -1,41 +1,161 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-12T13:28:49.459560+00:00",
-  "count": 3,
+  "fetched_at": "2026-05-12T19:24:21.428266+00:00",
+  "count": 13,
   "news": [
     {
-      "id": "bc697f6a02bf",
-      "title": "Quest for a rare bird, a landfill visit, a deadly outbreak: How Leo Schilperoord became hantavirus 'patie - The Times of India",
-      "published": "2026-05-12T03:44:00+00:00",
-      "summary": "Quest for a rare bird, a landfill visit, a deadly outbreak: How Leo Schilperoord became hantavirus 'patie&nbsp;&nbsp;The Times of IndiaAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJOmaha quarantine: US passengers from Hantavirus-hit cruise ship arrive for specialised monitoring&nbsp;&nbsp;The Times of IndiaMessage by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)H",
+      "id": "5e80400b9c47",
+      "title": "Spanish passenger with hantavirus infection quarantined in Madrid hospital - News On AIR",
+      "published": "2026-05-12T16:04:28+00:00",
+      "summary": "Spanish passenger with hantavirus infection quarantined in Madrid hospital&nbsp;&nbsp;News On AIRHantavirus Case Confirmed As Evacuated American Passenger Tests Positive, Another French Passenger Falls Ill&nbsp;&nbsp;NDTVMessage by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)American Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJWHO head tells countries to prepare for mo",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPWVNaMk9HNzZUNktUNy1KLTZDLXphR21CWkN1WVNfVGhLaVZFTjJiMEZ6djZlQVM1eG9PRE9iVGRLX1VRRVpfaV9RSVl3U1lWSG1qRWdUMWVQUU1rN045aWNJLVlGdHpwT0loYUVmTVJpb0phendRbV9jb1kya1Z6bXhLSWF4b2FqX19qNGo0UVlGc2o4VnpiektGVnRnaUJXdDlmZnVhb1FaNkNLQ1hodG1vQ0ZTTGNiNHF6dksyQ3BqY2t2bTBmTHNsZDBlTlNURnNqd3pxTEdtTnFQdDB2anJvUjdOVTF6N0JEM0tnbVFwczhVanBWa0poMlhrdmZKbllvalczc3pfTHljc1F4YndiLXBiUzduS1E?oc=5"
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUs0MlY5NDVCTGVQVkVXSnNzZlRfRjdoaGVDTVUtWFFSQ3d5ek82cVVtQVZKU3R0US1GUWFKcHU1TGcwXzRRMHNvRGlFb1NEQm1sUE1zYXppYTQ5dWFhQjd3amNNZEZOWUJkZnB5bGJQQ2lqa1JqcVYzYlZlY3hLVjhod251QzM3d0lVcm5zUEJwUlpScXJyLUJtdE1KX1JnTVhYZ0FmVQ?oc=5"
         }
       ]
     },
     {
-      "id": "dc79ffb98eb1",
-      "title": "Hantavirus explained: Can it spread from person to person? Bengaluru doctor reveals everything Indians should know | Health - Hindustan Times",
-      "published": "2026-05-11T03:48:38+00:00",
-      "summary": "Hantavirus explained: Can it spread from person to person? Bengaluru doctor reveals everything Indians should know | Health&nbsp;&nbsp;Hindustan TimesIs hantavirus the next COVID? WHO director-general flags key pointers&nbsp;&nbsp;The Times of IndiaThat dusty cabin you're opening this weekend could be hiding a deadly virus&nbsp;&nbsp;The Economic TimesHow Quickly Can Hantavirus Turn Severe? Doctors Explain The Timeline&nbsp;&nbsp;NDTVHantavirus: The Rare Virus That Can Turn a Simple Fever Danger",
+      "id": "351841e5a7d1",
+      "title": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert - WIRED",
+      "published": "2026-05-12T15:33:00+00:00",
+      "summary": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert&nbsp;&nbsp;WIREDThe hantavirus outbreak has been well-handled – but there are still dangerous days ahead | Devi Sridhar&nbsp;&nbsp;The GuardianWhy the hantavirus outbreak is different from COVID-19&nbsp;&nbsp;Al JazeeraThat dusty cabin you're opening this weekend could be hiding a deadly virus&nbsp;&nbsp;The Economic TimesHantavirus warning: US CDC advises not to use vacuum cleaners to clean rat droppings; here's why&nbsp;&n",
       "sources": [
         {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQQzhxUnc0VEhQRUdDdXpnUG05MnpyUVV2aXRQOU1tWHByMkZkX21YbTVfWUtXRXBicktOR1JSVE5ud2UwMDkyMlNaeW9XQVlkRnZYM2N1eW1fWkpndVBWN3MwUzloVlhicmVBN0lYQ3hwVXJTTTNaS3NqbXdKUGxVejI5SGJ1Q3ZIUklmVzdZajBJM1p2VGFjczdMMEZoV2Z1eS1fMi1FS1RHYS11TUhRNDdQcE9DWWh2cEhNTlM0WEx0MWJQLVM0LXFjMUNxem5FSVB0QWxiTnNEa3FfLTRPYUlaeVY1R3kyQ2twU2Y1bTk1UGRZQjM1Zng2Wlp2ZHA0c0JGSGRTSU9oTlJOSVHSAZMCQVVfeXFMT3FFVi13VmhTYnY1U2N5SzZFbWNaS1otTWFNQmFSclMyc1BPNmZ6Vk5NeGozYkxMaVBuSWV0eEtyQVdPczVzR3EzUDBCNFlnWTNfeWd3YVRCYnE4ZmpFeU0yMHJVVFdWOGloSGtCZ1o0WWtKQjhRWk9jVy1kbE1aWmpXMGVURDdqZUVrTVhOMm5JVUh0OGdXaHlHSmVLdno2M3RoQmxxb25pMWhMVG1xMjZadTdjaU5RamNQVGJRTV85c0ZsZEFzU2RpQkwzMTJiWnpSLVc1NjBDNUt2YXYyYjJsMmViRmtuMXhBcXk1aDJ1c3I1ZEhRcUNjNHE0b0pERUU0Q3N6bWtzbEhma0lRZkg3aUE?oc=5"
+          "name": "WIRED",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM0xIcy14SHRVaEk0QzQtaW1RUU8xWUJ6cW5FV1VjdmZzWG5Wa21FMGVjVEQ0S0o3NW5POWNvZnZFc19DMlljTUFBVEhhSHhlVlFTd2tXZUgycWNwODFNQnRsMjRTVjAyVHFJeng0d3pRbktCSlZJbThud1lMa2xkaE9vbUhXOUN6QjJqSGxxNTNOY0lVc0FYcWoyWE5kbWFP?oc=5"
         }
       ]
     },
     {
-      "id": "a73dfe182c82",
-      "title": "‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women - The Guardian",
-      "published": "2026-05-12T10:56:00+00:00",
-      "summary": "‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women&nbsp;&nbsp;The GuardianGlobal Experts Establish New Name for PCOS to Reflect Multisystem Disease&nbsp;&nbsp;CU Anschutz newsroomPCOS’s new name is PMOS, a small letter change that required a big scientific process&nbsp;&nbsp;statnews.comPCOS, the most common cause of infertility, to now be called PMOS&nbsp;&nbsp;The Hindu'The name was inaccurate': PCOS gets a new name after years-long ef",
+      "id": "d4a68d02e2b3",
+      "title": "PMOS adopted as new name for PCOS after global consensus process - Contemporary Pediatrics",
+      "published": "2026-05-12T16:06:52+00:00",
+      "summary": "PMOS adopted as new name for PCOS after global consensus process&nbsp;&nbsp;Contemporary Pediatrics'The name was inaccurate': PCOS gets a new name after years-long effort&nbsp;&nbsp;Live SciencePolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyPCOS’s new name is PMOS, a small letter change that required a big scientific process&nbsp;&nbsp;statnews.comGlobal Experts Establish New Name for",
+      "sources": [
+        {
+          "name": "Contemporary Pediatrics",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTURmSjlVUmV1SUhBZ3E2T2IxdTI4MFhTb1Rua1Q1dnZHUTBqN3lsTHQ3a3dZQ1ZZTnhGX2poV3laQmRUaUpBYXppSDFTSlhQUElzMURsdjVvcWVwcmpYNTEtVUJ2cE8zV3gzSHM1SUNlUFpqbGJjS3RuR202SVd3cU80OXJfUlZRTGQ1OHU5dEFyQ293cE9oeW12bzZMWkZrVjdTdzJzTVY4NDFr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "16208345b99c",
+      "title": "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs - News On AIR",
+      "published": "2026-05-12T16:17:39+00:00",
+      "summary": "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs&nbsp;&nbsp;News On AIRBangladesh measles outbreak death toll climbs to 409 after 11 more fatalities&nbsp;&nbsp;National HeraldMeasles and the classroom&nbsp;&nbsp;Dhaka TribuneSPB for action against those responsible for measles outbreak&nbsp;&nbsp;newagebd.netBangladesh Measles Outbreak Kills Over 220 Children Since March&nbsp;&nbsp;AL24 News",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2ZtQzZ5eHB3M19XaE1YOXNwT3RtbjNIcnczc05xWmU0OW9ZYzlva2ZRelFBalR6dmdiXzFUeW90QmFwMFZUbGNlNXZlS1Y3STZrWFI5NXdMNFRKOGdVVGloMkJ5VVp2VWtsTDB2UUZNUkp2UGtGUnY5MU9GeUVWVFJOQU9VWm5SUHhCN2pSU2VDU2hpUXVVYg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f2f1cec7653",
+      "title": "Resistant Infections in Children May Respond to Tigecycline - EMJ",
+      "published": "2026-05-12T07:32:02+00:00",
+      "summary": "Resistant Infections in Children May Respond to Tigecycline&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnF6d05BSjVpWGZkT0g4R01aT21mWjhKUzVLYkxfUkNEakpBdm83eDRBYl9xeXVfN2w4a2s4Y3BLTFlVbFhEWnk0Q2l2eExRU2pfVG1aMjcyeDlwSmttQUo5SzhNRGJ5ZDFSamR6eS0zV2Uydk55SU5hUFpOMTJITjJNejdfVFdPNHh0RF92NFZpMThfNnVralpYbkRPSFNYSXc0N3o0ZUJfaDFISkV6aFNSQUR0ZGFOX2FxUWhQNGtXX3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d6c3a2177a80",
+      "title": "Experts call for UK four-day week as study links long work hours to obesity - The Guardian",
+      "published": "2026-05-11T01:30:00+00:00",
+      "summary": "Experts call for UK four-day week as study links long work hours to obesity&nbsp;&nbsp;The GuardianLong Working Hours Are Triggering Your Body To Store 'Stress Fat', Says New Study&nbsp;&nbsp;NDTVWorking long hours could be expanding waistlines and increasing obesity risk, research suggests&nbsp;&nbsp;The Times of IndiaHow your cortisol levels are affecting your weight gain – and what you can do about it&nbsp;&nbsp;The IndependentI lost 1.5 stone after switching to a four-day week&nbsp;&nbsp;The",
       "sources": [
         {
           "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMFV3VlkxWUtjRVFsakRGX2pHWVBhY3ZfNVVtYWVNVllUVU5vdWZtLUpjZGtmWkdRbFdZS2prNTFoSjJETHFiMUNSS0RrdFVmdzRRUFJZV2s1MGZrR1Z4Nkw4U1hQUC1DZmNaNVBvWnpZamxWUVFBb2pGR3JpNllGRWhOX05fSFplTkZpSXFIS0FzOW5sdjdJc1diNlZaRl92STU3TWZ1RmpJUnptWldOZEJvdjc3Q1dJQ3N0Qnpra05qSURhX0lzQlRXZTRyM3BrY0ExMjFzblI5MnZjMGl4UGVR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakFqd2RWa29malZoU21tRnp5b3FzS0dDV0V3cDZYZlgybi1rSHVCLXM2bGtjbnlTUkp0aE5RSFNWOUVOV09nb3RlVmlUd2ZhdEJCa201WjhyVGcwd28tMzlHcTU4ajZqTXFuVE43WnlnSHhPRFV3ZDNNQkVxRE96SXhCajN0YVBvTXdZbUFjRmFod2RLR0Y2WUtYZFpwa2NwYmtuTFNJWjhwaHZwa3d1N0MxMXR5TUpISnpkTENIQUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "27f1e3cf3c75",
+      "title": "Non-invasive swab test offers fast, accurate tuberculosis detection worldwide - News-Medical",
+      "published": "2026-05-11T01:46:00+00:00",
+      "summary": "Non-invasive swab test offers fast, accurate tuberculosis detection worldwide&nbsp;&nbsp;News-MedicalNew Swab Test Could Detect Tuberculosis In Under 1 Hour&nbsp;&nbsp;NDTVWHO Unveils Tongue Swab TB Test: Easier, Cost-Effective, Accessible&nbsp;&nbsp;Deccan HeraldCIDRAP: No sputum needed: Easy-to-use TB test shows accuracy in 7-country analysis&nbsp;&nbsp;European AIDS Treatment GroupA 30-minute TB test could finally shift diagnosis out of the lab and into the clinic&nbsp;&nbsp;Drug Discovery Ne",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZzJaNHBwLVo1RnlzcFZPU1lIa0VnTWdFZWZDZkpfSUNQa0t2TGtURkNFSFptXzB3X0tyV2JlVElhRl9RSVhKTkI5UkMxdHFuZWFBZGJ0aEtIcDZaLWt1cVlyaFIxNXNRQTRsampYa3RFWUo2ZGtwQkYwLXJCaXZQZUlVNXFjMGtQR1ZFTWYxdUQwMTY1TkVLdHlQd3ZLRWlQUm1uUVhCUi1SeTdRRjFvX3lXQmR4bm9QNEdkemgwVkI2UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f97abaf04327",
+      "title": "Hantavirus: 12 Radboud hospital workers to quarantine due to slack safety measures - NL Times",
+      "published": "2026-05-11T20:13:09+00:00",
+      "summary": "Hantavirus: 12 Radboud hospital workers to quarantine due to slack safety measures&nbsp;&nbsp;NL TimesHantavirus protocol breach at Dutch hospital as medics race to curb spread&nbsp;&nbsp;ReutersHantavirus Exposure: Dutch Hospital Quarantines 12 Healthcare Workers As Precaution&nbsp;&nbsp;NDTVIs an epidemic starting? In the Netherlands, healthcare workers committed serious violations in dealing with hantavirus&nbsp;&nbsp;Inbox.euTwo evacuation planes from Hantavirus-hit cruise lands in the Nethe",
+      "sources": [
+        {
+          "name": "NL Times",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0FaQl85eldlWUhuYW55X3dpbWRGcnVVWUVoRE1yZGxGMC1vVXJUcnNNckthWTl5cnVXWHp6ZS1lWWhucy1WbG4zZVQ4QUpMbl9PMXBGLXhjQUFXVFBZNVlQbnFSaUx0d3I5R3dQdFRBR0RFczl1UGI5LTVmN3JYZ3JYZkozRjc4OHZROXQ3cm85ZlZUTlNJcjNjYTJTLXREY2l5TTNSVW0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "31f7f3e143cc",
+      "title": "Plasmodium vivax Malaria Detected in Duffy-Negative Hosts - EMJ",
+      "published": "2026-05-11T09:48:27+00:00",
+      "summary": "Plasmodium vivax Malaria Detected in Duffy-Negative Hosts&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVm05cXJhRlp6ODRUanZ5VHdQVUFqZmc5TXlzeGM1X1J3a1FfZTNyTDhYa3NhcHg1M1RjUVFhYk5TMTFWVzZZb1BUWGN2RlY4VzdSWFpZLTdwZzMyWU14M0RZQVBMTnc3NDY3cUlaNUdReEtzeW1LX01ndExlNlpLN1p4SGxDbnh5ZUY2ZUh1T01GNTZoTTJFS3J2MG5COEhMVEFxNThZTDJod2xXY281NlY2UV9CUUZqS0VXTm9Ielk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ea702993e65",
+      "title": "More than 100 sick in norovirus outbreak on Caribbean Princess cruise ship - Global News",
+      "published": "2026-05-11T14:44:58+00:00",
+      "summary": "More than 100 sick in norovirus outbreak on Caribbean Princess cruise ship&nbsp;&nbsp;Global NewsNorovirus outbreak: More than 100 sick on Caribbean Princess cruise ship departing Fort Lauderdale&nbsp;&nbsp;The Times of IndiaNorovirus outbreak on cruise ship after Hantavirus scare: How both differ from Covid-19&nbsp;&nbsp;The Indian ExpressWhat is Norovirus? Caribbean Princess cruise ship outbreak sparks global concern; Is India at risk too?&nbsp;&nbsp;theweek.inExplained | Hantavirus vs Norovir",
+      "sources": [
+        {
+          "name": "Global News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNm9QZ2x5NlFsMG14SlM1SDZta3VkRURQYXZHcDY4bVppZTk3OFhWS0VDV2xQUlI3aU9BYWo5ajd5b0k2SzBmMXlCc0ZQSkJlUUo4b2ZZYWNDal92Qmh2RjdWeThncTdNbFJaTDNxU1RYcUh1WV9JbjMyTm9MQVNBVzBfWFNqZVFuLWtRQWR4TQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "79974c8aeb01",
+      "title": "Urges for cardiologists to screen patients for UPF intake - News-Medical",
+      "published": "2026-05-11T08:53:00+00:00",
+      "summary": "Urges for cardiologists to screen patients for UPF intake&nbsp;&nbsp;News-MedicalInstant noodles, chips, colas can trigger early heart diseases, warns study&nbsp;&nbsp;Moneycontrol.comCook more at home to reduce ultra-processed food intake, say cardiologist groups&nbsp;&nbsp;The GuardianSome Commonsense Advice on Ultra-Processed Food&nbsp;&nbsp;Consumer Federation of AmericaReport: ‘Ultra-Processed’ Classification Does Not Reliably Indicate Nutritional Value&nbsp;&nbsp;Food Safety Magazine",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFQxNnFRdm93TmdKZFhOd1Jod1hyazZJX0pBVy1LUXU3WlA5M1NjWlZscVFOOUdmSDBpZ29HcFVGaGR2S05MeS1fM3dreDZsNlJMbVR4RDR6NHIwWFZPU1dTSVRCa2FUbUJ4U2RfbC1SSDEyc21SVW9JVTNvNklaV3kzUmRRb2xZV21rOWxDSzFnNlpNTTg0SEI5T3M2NWpSX192Skppd2o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f54241559c3",
+      "title": "New Daily Steps Goal Shows You Don't Need 10,000 to Keep The Weight Off - ScienceAlert",
+      "published": "2026-05-12T03:17:25+00:00",
+      "summary": "New Daily Steps Goal Shows You Don't Need 10,000 to Keep The Weight Off&nbsp;&nbsp;ScienceAlertWalking 8,500 Steps Daily Can Help Prevent Weight Regain, Reveals Study&nbsp;&nbsp;NDTVMedical Bulletin 12/May/2026&nbsp;&nbsp;Medical DialoguesForget 10,000 steps: Scientists say this specific daily number is all you actually need to stop weight fro&nbsp;&nbsp;The Economic Times8,500 daily steps — not 10,000 — may be the sweet spot to prevent weight regain after dieting&nbsp;&nbsp;The Indian Express",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVi1sNmx4TC1MZlNCNTFDX2NoVFRIdHFhQnVrSU9ZZ0FRb3RoejY5UDlMQVBqN2JnVzZBWnc0aTVGYlhnai1wZ1BKb2MybmRmMF9BNnNadzNVYVNaUmFqdnB5M243djM5SElWbHQ4RTByNlVsVWl2aVJYalp3MUlWX1BPTS1GaWs4THFMZHZVZlM1Ukt3Zkw3UVpSSEsxUkU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57baa8cc9611",
+      "title": "Epstein-Barr: A new antibody could block a virus that 95% of us carry - Gavi, the Vaccine Alliance",
+      "published": "2026-05-11T13:54:30+00:00",
+      "summary": "Epstein-Barr: A new antibody could block a virus that 95% of us carry&nbsp;&nbsp;Gavi, the Vaccine Alliance",
+      "sources": [
+        {
+          "name": "Gavi, the Vaccine Alliance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQjNYYW5vMjJoT2hoYTdJdUJsLUhrQWhMSVJLNEFTaGk2UWViMlF2T3dqT052ZE5ldFRYbU0yVlRXdWwyamZtbnU2dVlfUHJGVnA1VzlkdGJaV05rZ3lJSmpNOGh2VkpuLVM1bEdPWk5kd2N0d1htdHhheklyRmo0NDViV0k3UWF5NFJpYUJzam9NWTg?oc=5"
         }
       ]
     }
