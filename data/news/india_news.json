@@ -1,31 +1,91 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-12T19:24:23.103319+00:00",
-  "total_fetched": 83,
-  "unique_count": 83,
-  "health_related_count": 29,
+  "fetched_at": "2026-05-13T01:48:26.229854+00:00",
+  "total_fetched": 81,
+  "unique_count": 81,
+  "health_related_count": 27,
   "news": [
     {
-      "id": "9312757ceaf6",
-      "title": "KIT researchers develop contact-free laser technique to rotate microscopic samples - News-Medical",
-      "published": "2026-05-12T16:07:00+00:00",
-      "summary": "KIT researchers develop contact-free laser technique to rotate microscopic samples&nbsp;&nbsp;News-Medical3D microscopy: Laser rotates samples contact-free&nbsp;&nbsp;EurekAlert!Gentle, laser-driven flows enable precise 3D imaging of delicate samples&nbsp;&nbsp;Phys.orgThe laser rotates delicate cell samples under the microscope without physical contact. (Graphic: Fan Nan, KIT)&nbsp;&nbsp;EurekAlert!",
+      "id": "7ee4e9a792e5",
+      "title": "Dual-pathway protein degradation approach could improve cancer treatment - News-Medical",
+      "published": "2026-05-13T01:30:00+00:00",
+      "summary": "Dual-pathway protein degradation approach could improve cancer treatment&nbsp;&nbsp;News-MedicalTargeted Protein Degradation and Novel Modalities: Getting on the Frontline&nbsp;&nbsp;Fierce PharmaOne drug, two cleanup crews: A built-in backup for targeted protein degradation&nbsp;&nbsp;EurekAlert!Direct-to-proteasome strategy degrades two cancer proteins and may curb drug resistance&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcktBYmtFSDBSNTlOWHE0ekVFWkxvSFRTSXlXVHhleThPMTcyQTNmUWQ1NF9LZEFCZTR5WFR1Skg1aDR3cHVHRnpOZGV1TTBVMEFJNVFSSjZKLXlXTHdoQ3prOHJ4Tk56WXZjUExvZ0FsbUVFWWlleVphcUR0cEpJOGtSR3pDQk0yM3RUT096V1p6RVNiRnVCd2ttYXZXX1dITjk3dlpyMnpxeG1tcXJmTVpLaXp5R3h4TzRMcXdMLW1xS2VLenhoQ0FB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaHNLRG9TdXJnMFdYb1NPblQ0WllnNHNJblBHOHZDQ3prNFU4R3VvRnRkWkUzZ203NTdkNTFOTV81RTVzOTFGY2JoUTNiemE2UFVDcC10amt4OExRN3c2NTRFUEpteXFUWmpuTkEyR2lsLUM3YmRJNXlkTnRjajBqNkllVUFWSjRINnFpRTc3SUVSUGY2OWpxQzU4Y1Rsd0dsTjFiNHZ6d0JzQkxlM0RZUWxycmh3NmE5OGRfXw?oc=5"
         }
       ]
     },
     {
-      "id": "d4a68d02e2b3",
-      "title": "PMOS adopted as new name for PCOS after global consensus process - Contemporary Pediatrics",
-      "published": "2026-05-12T16:06:52+00:00",
-      "summary": "PMOS adopted as new name for PCOS after global consensus process&nbsp;&nbsp;Contemporary Pediatrics'The name was inaccurate': PCOS gets a new name after years-long effort&nbsp;&nbsp;Live SciencePolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyPCOS’s new name is PMOS, a small letter change that required a big scientific process&nbsp;&nbsp;statnews.comGlobal Experts Establish New Name for",
+      "id": "090d48182a73",
+      "title": "Researchers use AI to break the rules of nature and create a living organism with barely any amino acids - TechRadar",
+      "published": "2026-05-13T01:06:42+00:00",
+      "summary": "Researchers use AI to break the rules of nature and create a living organism with barely any amino acids&nbsp;&nbsp;TechRadarUNC Researcher Continues Quest to Understand the Origins of the Genetic Code&nbsp;&nbsp;UNC HealthStripped down bacterium functions with one less amino acid than the rest of life on Earth&nbsp;&nbsp;Chemistry WorldScientists Changed a Lifeform’s Fundamental Code. It Shouldn’t Have Survived—but It Did.&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "Contemporary Pediatrics",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTURmSjlVUmV1SUhBZ3E2T2IxdTI4MFhTb1Rua1Q1dnZHUTBqN3lsTHQ3a3dZQ1ZZTnhGX2poV3laQmRUaUpBYXppSDFTSlhQUElzMURsdjVvcWVwcmpYNTEtVUJ2cE8zV3gzSHM1SUNlUFpqbGJjS3RuR202SVd3cU80OXJfUlZRTGQ1OHU5dEFyQ293cE9oeW12bzZMWkZrVjdTdzJzTVY4NDFr?oc=5"
+          "name": "TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQTDZPTVZqS0E2OVktZnpEQnRnTDdnWXJSWUlvcEo1V0dKOWJFaVRzTWpnMW5lMEVBTGRhSkZ3ZHdxdTktUTlUUEVxRURHeXVNM3VLQ18waE1CUVdHMHJUV0o1d1FGYlpSRDQ1UWlGanFZRmwwYVFIMWFjWm82STNqcXFOVUhFOXd0X0l3TE14YjFjX211RTVQYmxkX2toYS1ibDZmXzlPZFVTSEtxTG1CdWp4Qm9sczRrV1RZc1dqU05ybWlCb3Q5MXZiRDFmd0U1SVpSbWpFRFo1QkE1ajlKYXF2ZG1rRGJSNWJkcjBYcFBuM2dDMmRfczdCUDdyaWJRT0xoRUI0SFNrQ0lqS1VTZ0FaNVJiWThSbTJSQUVUM3dha2t6SUhzbXR5Ym9pQ1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2b8ffb216cd",
+      "title": "NASA Spaceline Current Awareness List #1,199 8 May 2026 (Space Life Science Research Results) - astrobiology.com",
+      "published": "2026-05-12T20:58:02+00:00",
+      "summary": "NASA Spaceline Current Awareness List #1,199 8 May 2026 (Space Life Science Research Results)&nbsp;&nbsp;astrobiology.com",
+      "sources": [
+        {
+          "name": "astrobiology.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1RtMzQ3YnFmRzEzS01MODBITGRyQWluU1hxT0xlMHFxTmthQ1VXbG1WaW55ZTBUUHpleFpTU1NncEs5cnBkbXFXS3dkRlVvS1R3MDVuSnRjUlNfQUU3TWd1NUFNdjVqd2xxenNadEJtS05MaUdhV2RISi1VSTB5LVR1ZG9DWUVsTXZzeTNWNktvZGpuSVZzcWZpU0VUZ3FiNENLallTTmQxZzRfbTdZckF4ZUctakRESmEtVkZaZmdwck1mZ0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fdfa833ffbf5",
+      "title": "Hantavirus will test if the world learned anything from Covid - vox.com",
+      "published": "2026-05-12T20:45:00+00:00",
+      "summary": "Hantavirus will test if the world learned anything from Covid&nbsp;&nbsp;vox.comWhy the hantavirus outbreak is different from COVID-19&nbsp;&nbsp;Al JazeeraHantavirus warning: US CDC advises not to use vacuum cleaners to clean rat droppings; here's why&nbsp;&nbsp;The Times of IndiaHantavirus is not Covid-19, but ‘calm-mongering’ risks triggering post-Covid anxiety&nbsp;&nbsp;CNNThe hantavirus outbreak has been well-handled – but there are still dangerous days ahead | Devi Sridhar&nbsp;&nbsp;The ",
+      "sources": [
+        {
+          "name": "vox.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWDNsOUF5ZlFtUXpHLUhManVEUndyMUF5R1hQemFLbzVSdGZXcEtfOFpCYnUxczZqOUdodC1VZHQzN19DNU8tQldVWHoxWEZGYTJ2emc2R3BLcGYxZXEyT1dUU056a0R4M2plQ0FmTlNocFBwME9DQlZ5N3gwOVg5clJONnpkYTJP?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd697e4725e5",
+      "title": "IgA Nephropathy: Advances Drive a Wave of New Therapies - Medscape",
+      "published": "2026-05-12T20:27:41+00:00",
+      "summary": "IgA Nephropathy: Advances Drive a Wave of New Therapies&nbsp;&nbsp;MedscapeIgA Nephropathy and Mental Health: Coping with IgAN&nbsp;&nbsp;HealthCentralPlanning for the Future With IgA Nephropathy&nbsp;&nbsp;Cleveland Clinic Health EssentialsNew IgA Nephropathy Therapies See Limited Uptake in US Clinical Practice&nbsp;&nbsp;Renal and Urology NewsHow Has IgA Nephropathy Changed Your Future Plans?&nbsp;&nbsp;HealthCentral",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU2ItYVlVMk1KSmpadDlWLU5LMVNpZ185d2lpYUM0c2pkWm02R2JSTDRYczFKb2Npb1dGbkl0dFB1eU44VW9uZXdMYjJmeTNnZFJFVjhwYmE0eVYwQjlJU1ZsckcxZjBEcUR3VVFLQnE1ZXNXZjJCSDFQNWdJRDZNX1V1Zm5YdTVYM1oxODFFZm9IOXJsVnMxNGQyb0xIeGVC?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab5190257e69",
+      "title": "Scientists find Mars’ moon Phobos is breaking apart and may not survive its slow fall toward the Red Plan - The Times of India",
+      "published": "2026-05-12T18:00:00+00:00",
+      "summary": "Scientists find Mars’ moon Phobos is breaking apart and may not survive its slow fall toward the Red Plan&nbsp;&nbsp;The Times of IndiaScientists Warn Mars's Closest Moon Could Destroy Itself With Falling Debris Before Breaking Apart&nbsp;&nbsp;NDTVPhobos, Mars's Larger Moon, May Not Survive Nearly As Long As Experts Previously Believed According To New Study&nbsp;&nbsp;TwistedSifter",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdHR5R25NbWxGNG5VOWhJczM3U3l5cExvYjJnOVFxaW1XaFVSMFY3NThEck0zZjA4dEpRVDFPNzU4akVveDltcnlfOE9hcVY4cTZ2eXhKM2hsMHFXaUR3YmJ6eXljOFJRTVFNb3pHVmM5Q2ptMnFRRnF3M1RRRlhiY3pBcXZkb09fczhvaVpaSFRrb2hYM2FhMUpNakZiZ1pqYjZ2UVdtT2lWUmozWWh1ZG5TWkExdzlYTkQ1QmF2MmFRNUhNR1M0WFhrNUhaTHU0aUJCRURuU3Z5VWk0SDIxSnhqaWc5bGhmZ29GT2RYU3ZsRDBndmphN3dnSWk2ak9PZldLVldHVdIBjAJBVV95cUxNRE1JblFuX2RzRGNhNkZGQ2lZbVA0Z18ySHJiV0VHUDdhaDNFVkF6cVZVQmRiMlFCcElvVGtxdUNPZXJlblIwM1l6dGFuV0JKQmZNRFQ2RUNJUS1lZzdaZmFpUjJYQmhJY1VsU3ZXd1k3SkxzazllM2JudlFTYjAzeVRVSDFsVEFYQnFqcHQyMFVvMWMwUGFYblJ0bnN4cmJEbXU0aUZVelV4STlLSmh0eUVJRml0aExJVkNFb2tHWkJjM2pFTFJ0RG9QYjlxa19nZmxJMTI5NnllNU03VkFfZmh5c3dyd0pmWEliTExFYnpyV01iUUFsaXpiU0RVOFlzczFVOGJ2TWhnTGY1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "16208345b99c",
+      "title": "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs - News On AIR",
+      "published": "2026-05-12T16:17:39+00:00",
+      "summary": "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs&nbsp;&nbsp;News On AIRNine children die from measles or related symptoms in past 24hrs; death tally surges to 424&nbsp;&nbsp;Daily ExcelsiorBangladesh measles outbreak death toll rises to 409 | Tap to know more | Inshorts&nbsp;&nbsp;InshortsGovt to form probe body with int'l orgs over vaccine procurement lapses: Adviser Zahed&nbsp;&nbsp;The Business StandardMeasles and the classroom&nbsp;&nbsp;Dhaka Tribune",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2ZtQzZ5eHB3M19XaE1YOXNwT3RtbjNIcnczc05xWmU0OW9ZYzlva2ZRelFBalR6dmdiXzFUeW90QmFwMFZUbGNlNXZlS1Y3STZrWFI5NXdMNFRKOGdVVGloMkJ5VVp2VWtsTDB2UUZNUkp2UGtGUnY5MU9GeUVWVFJOQU9VWm5SUHhCN2pSU2VDU2hpUXVVYg?oc=5"
         }
       ]
     },
@@ -33,7 +93,7 @@
       "id": "5e80400b9c47",
       "title": "Spanish passenger with hantavirus infection quarantined in Madrid hospital - News On AIR",
       "published": "2026-05-12T16:04:28+00:00",
-      "summary": "Spanish passenger with hantavirus infection quarantined in Madrid hospital&nbsp;&nbsp;News On AIRHantavirus Case Confirmed As Evacuated American Passenger Tests Positive, Another French Passenger Falls Ill&nbsp;&nbsp;NDTVMessage by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)American Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJWHO head tells countries to prepare for mo",
+      "summary": "Spanish passenger with hantavirus infection quarantined in Madrid hospital&nbsp;&nbsp;News On AIRAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJQuest for a rare bird, a landfill visit, a deadly outbreak: How Leo Schilperoord became hantavirus 'patient zero'&nbsp;&nbsp;The Times of IndiaWHO head tells countries to prepare for more hantavirus cases&nbsp;&nbsp;The GuardianHow are countries responding to hantavirus?&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "News On AIR",
@@ -42,26 +102,14 @@
       ]
     },
     {
-      "id": "351841e5a7d1",
-      "title": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert - WIRED",
-      "published": "2026-05-12T15:33:00+00:00",
-      "summary": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert&nbsp;&nbsp;WIREDThe hantavirus outbreak has been well-handled – but there are still dangerous days ahead | Devi Sridhar&nbsp;&nbsp;The GuardianWhy the hantavirus outbreak is different from COVID-19&nbsp;&nbsp;Al JazeeraThat dusty cabin you're opening this weekend could be hiding a deadly virus&nbsp;&nbsp;The Economic TimesHantavirus warning: US CDC advises not to use vacuum cleaners to clean rat droppings; here's why&nbsp;&n",
+      "id": "31319aa5edfb",
+      "title": "PCOS Renamed PMOS in Landmark Global Consensus - EMJ",
+      "published": "2026-05-12T14:37:59+00:00",
+      "summary": "PCOS Renamed PMOS in Landmark Global Consensus&nbsp;&nbsp;EMJPolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine Society'The name was inaccurate': PCOS gets a new name after years-long effort&nbsp;&nbsp;Live SciencePCOS’s new name is PMOS, a small letter change that required a big scientific process&nbsp;&nbsp;statnews.comPCOS, the most common cause of infertility, to now be called PMOS&nbsp;&nbs",
       "sources": [
         {
-          "name": "WIRED",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM0xIcy14SHRVaEk0QzQtaW1RUU8xWUJ6cW5FV1VjdmZzWG5Wa21FMGVjVEQ0S0o3NW5POWNvZnZFc19DMlljTUFBVEhhSHhlVlFTd2tXZUgycWNwODFNQnRsMjRTVjAyVHFJeng0d3pRbktCSlZJbThud1lMa2xkaE9vbUhXOUN6QjJqSGxxNTNOY0lVc0FYcWoyWE5kbWFP?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d2b8ffb216cd",
-      "title": "NASA Spaceline Current Awareness List #1,199 8 May 2026 (Space Life Science Research Results) - astrobiology.com",
-      "published": "2026-05-12T14:57:53+00:00",
-      "summary": "NASA Spaceline Current Awareness List #1,199 8 May 2026 (Space Life Science Research Results)&nbsp;&nbsp;astrobiology.com",
-      "sources": [
-        {
-          "name": "astrobiology.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1RtMzQ3YnFmRzEzS01MODBITGRyQWluU1hxT0xlMHFxTmthQ1VXbG1WaW55ZTBUUHpleFpTU1NncEs5cnBkbXFXS3dkRlVvS1R3MDVuSnRjUlNfQUU3TWd1NUFNdjVqd2xxenNadEJtS05MaUdhV2RISi1VSTB5LVR1ZG9DWUVsTXZzeTNWNktvZGpuSVZzcWZpU0VUZ3FiNENLallTTmQxZzRfbTdZckF4ZUctakRESmEtVkZaZmdwck1mZ0E?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZUtyZnpzbTRobG9jSnJNRlVYQlIzeS1yUUdpNkwxemZSZWhrWjdJZWd2N3RPVTNLR21KOF85LWdIRnQ0Tm15cmMxNHZkVHh1THlDUmZGOVktTkJwN203MEVrRXBTbWRKTnRtWlV4TG9LTjZGenJYc3ZubTY4YllPenJTZjFnS19xUEZqLXczUG1ieHQxSEd2d05Cb3RNaGlncl9mTGRsX0cwNzJDSXJ6NXUwOUNyQQ?oc=5"
         }
       ]
     },
@@ -78,10 +126,22 @@
       ]
     },
     {
+      "id": "f4040faca480",
+      "title": "Super-Resolution Microscopy Reveals Cellulosome Aggregations on Bacteria During Cellulose Degradation - geneonline.com",
+      "published": "2026-05-12T13:39:31+00:00",
+      "summary": "Super-Resolution Microscopy Reveals Cellulosome Aggregations on Bacteria During Cellulose Degradation&nbsp;&nbsp;geneonline.com",
+      "sources": [
+        {
+          "name": "geneonline.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0dERXFZYm5GaEM2WXZnVjNyX3huVHBTLXFrSGo2U2JBYTZISFVUSEk2Wi1JeWFtYktwazM4VG43clpGRTl1VVc4OW85Y09MR0I1YnJJcEYwaXd3cEM2aV9OVmJ2SDJoZk5tYU83eEU5RTQ4Z18zZlhQRFJWel92REZvSkExZ2JvbGpBMkowdS1SZ29xcVp3NEp6eHNhVUxIVU9ObUtIV3NvdXl3SjgzX280WHc3d0FqcW9GWGFyWWJuaHBmRlRMSg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "41cd87e4310a",
       "title": "Antarctic cosmic dust proves Earth has been traversing through supernova debris for 80,000 years - WION",
       "published": "2026-05-12T12:40:00+00:00",
-      "summary": "Antarctic cosmic dust proves Earth has been traversing through supernova debris for 80,000 years&nbsp;&nbsp;WIONAncient stardust frozen in Antarctic ice just revealed where Earth has been in the universe&nbsp;&nbsp;The Economic TimesA Rare Metallic Signature from Deep Beneath Antarctic Ice Has Revealed an 80,000-Year-Old Interstellar Discovery&nbsp;&nbsp;The DebriefScientists find iron-60 in 81,000-year-old Antarctic ice, indicating supernova dust&nbsp;&nbsp;NewsBytesThe Ice Core That Caught Ear",
+      "summary": "Antarctic cosmic dust proves Earth has been traversing through supernova debris for 80,000 years&nbsp;&nbsp;WIONAncient stardust frozen in Antarctic ice just revealed where Earth has been in the universe&nbsp;&nbsp;The Economic TimesThe Ice Core That Caught Earth Traveling Through a Cloud of Supernova Dust&nbsp;&nbsp;Indian Defence ReviewA Rare Metallic Signature from Deep Beneath Antarctic Ice Has Revealed an 80,000-Year-Old Interstellar Discovery&nbsp;&nbsp;The DebriefScientists find iron-60 i",
       "sources": [
         {
           "name": "WION",
@@ -162,22 +222,10 @@
       ]
     },
     {
-      "id": "3f54241559c3",
-      "title": "New Daily Steps Goal Shows You Don't Need 10,000 to Keep The Weight Off - ScienceAlert",
-      "published": "2026-05-12T03:17:25+00:00",
-      "summary": "New Daily Steps Goal Shows You Don't Need 10,000 to Keep The Weight Off&nbsp;&nbsp;ScienceAlertWalking 8,500 Steps Daily Can Help Prevent Weight Regain, Reveals Study&nbsp;&nbsp;NDTVMedical Bulletin 12/May/2026&nbsp;&nbsp;Medical DialoguesForget 10,000 steps: Scientists say this specific daily number is all you actually need to stop weight fro&nbsp;&nbsp;The Economic Times8,500 daily steps — not 10,000 — may be the sweet spot to prevent weight regain after dieting&nbsp;&nbsp;The Indian Express",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVi1sNmx4TC1MZlNCNTFDX2NoVFRIdHFhQnVrSU9ZZ0FRb3RoejY5UDlMQVBqN2JnVzZBWnc0aTVGYlhnai1wZ1BKb2MybmRmMF9BNnNadzNVYVNaUmFqdnB5M243djM5SElWbHQ4RTByNlVsVWl2aVJYalp3MUlWX1BPTS1GaWs4THFMZHZVZlM1Ukt3Zkw3UVpSSEsxUkU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "739f49321873",
       "title": "Giant Squid Detected in Western Australian Waters Using Environmental DNA for the First Time in Over 25 Years - SSBCrack",
       "published": "2026-05-12T01:53:50+00:00",
-      "summary": "Giant Squid Detected in Western Australian Waters Using Environmental DNA for the First Time in Over 25 Years&nbsp;&nbsp;SSBCrackGiant squid among creatures of the deep hiding off WA’s Ningaloo Coast, research reveals&nbsp;&nbsp;WAtodayThis is our clearest look yet at one of the deep ocean’s rarest animals&nbsp;&nbsp;BBC Science Focus MagazineGiant Squids, Pygmy Sperm Whales, and Other Rare Species Detected in Australia's Deep-Sea Canyons&nbsp;&nbsp;Discover MagazineAustralia Giant Squid Edna Re",
+      "summary": "Giant Squid Detected in Western Australian Waters Using Environmental DNA for the First Time in Over 25 Years&nbsp;&nbsp;SSBCrackGiant squid among creatures of the deep hiding off WA’s Ningaloo Coast, research reveals&nbsp;&nbsp;WAtodayThis is our clearest look yet at one of the deep ocean’s rarest animals&nbsp;&nbsp;BBC Science Focus MagazineGiant Squids, Pygmy Sperm Whales, and Other Rare Species Detected in Australia's Deep-Sea Canyons&nbsp;&nbsp;Discover MagazineRare giant squid found in wes",
       "sources": [
         {
           "name": "SSBCrack",
@@ -198,46 +246,10 @@
       ]
     },
     {
-      "id": "5c977a67adb3",
-      "title": "Super-Resolution Microscopy Provides Real-Time Picture of Bacteria Degrading Biomass With Enzyme Complexes - nlr.gov",
-      "published": "2026-05-11T21:49:12+00:00",
-      "summary": "Super-Resolution Microscopy Provides Real-Time Picture of Bacteria Degrading Biomass With Enzyme Complexes&nbsp;&nbsp;nlr.gov",
-      "sources": [
-        {
-          "name": "nlr.gov",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdFplamJmOWxFcF83OTZYNHQ1RGdOWkV2NXlJSzVhOUtpQmFlVVItZHVIRFVaSTBXdDVMaGttNFY1Tmdxa3ZDaUd3aFdhTzYtUmNPZTROalRpY1E2NndvOUVvWks4QUV1a0hEMHFZRkZScFhJd1VPS0tnSThrNjRSalgxNXhMRFZaLUliOGhlRld6WUUwZUFfNlA0TnZnWm11aThOV3ZzTHQ2UThfWmJSRm5aWjRIVlhKUUFUYVJxb2lPM2FWdTRvbjJ1aVNjSXlKeTdXWjk1VWp3ZTlmMUF4RzZKRmJ6Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f97abaf04327",
-      "title": "Hantavirus: 12 Radboud hospital workers to quarantine due to slack safety measures - NL Times",
-      "published": "2026-05-11T20:13:09+00:00",
-      "summary": "Hantavirus: 12 Radboud hospital workers to quarantine due to slack safety measures&nbsp;&nbsp;NL TimesHantavirus protocol breach at Dutch hospital as medics race to curb spread&nbsp;&nbsp;ReutersHantavirus Exposure: Dutch Hospital Quarantines 12 Healthcare Workers As Precaution&nbsp;&nbsp;NDTVIs an epidemic starting? In the Netherlands, healthcare workers committed serious violations in dealing with hantavirus&nbsp;&nbsp;Inbox.euTwo evacuation planes from Hantavirus-hit cruise lands in the Nethe",
-      "sources": [
-        {
-          "name": "NL Times",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0FaQl85eldlWUhuYW55X3dpbWRGcnVVWUVoRE1yZGxGMC1vVXJUcnNNckthWTl5cnVXWHp6ZS1lWWhucy1WbG4zZVQ4QUpMbl9PMXBGLXhjQUFXVFBZNVlQbnFSaUx0d3I5R3dQdFRBR0RFczl1UGI5LTVmN3JYZ3JYZkozRjc4OHZROXQ3cm85ZlZUTlNJcjNjYTJTLXREY2l5TTNSVW0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c6a387ddc833",
-      "title": "MMP1 and PRSS23 induce PAR2 biased agonism in painful oral cancers | Communications Biology - Nature",
-      "published": "2026-05-11T16:50:54+00:00",
-      "summary": "MMP1 and PRSS23 induce PAR2 biased agonism in painful oral cancers | Communications Biology&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56QlNpWlp5VnpMeTlrOWpwTVVHQW5JTTV1bXpTcEF2VFRFRHMyMVB5S1NIZUxvbmZ2NEw5d096V2ZjdElMTEZYVE4zejQwa1E3VzR6aHlmaWNDUGRPWTVJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2ea702993e65",
       "title": "More than 100 sick in norovirus outbreak on Caribbean Princess cruise ship - Global News",
       "published": "2026-05-11T14:44:58+00:00",
-      "summary": "More than 100 sick in norovirus outbreak on Caribbean Princess cruise ship&nbsp;&nbsp;Global NewsNorovirus outbreak: More than 100 sick on Caribbean Princess cruise ship departing Fort Lauderdale&nbsp;&nbsp;The Times of IndiaNorovirus outbreak on cruise ship after Hantavirus scare: How both differ from Covid-19&nbsp;&nbsp;The Indian ExpressWhat is Norovirus? Caribbean Princess cruise ship outbreak sparks global concern; Is India at risk too?&nbsp;&nbsp;theweek.inExplained | Hantavirus vs Norovir",
+      "summary": "More than 100 sick in norovirus outbreak on Caribbean Princess cruise ship&nbsp;&nbsp;Global NewsMore than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise&nbsp;&nbsp;NBC NewsNorovirus outbreak on cruise ship after Hantavirus scare: How both differ from Covid-19&nbsp;&nbsp;The Indian ExpressNorovirus outbreak on the Caribbean cruise ship leaves over 100 ill&nbsp;&nbsp;India TodayMan says ’24 hours of gastrointestinal experiences’ won’t stop him from going on cruise after norov",
       "sources": [
         {
           "name": "Global News",
@@ -270,38 +282,14 @@
       ]
     },
     {
-      "id": "dd10eebc02f4",
-      "title": "Nikhil Seshadri named 2026 Hertz Fellow for quantum research - The American Bazaar",
-      "published": "2026-05-11T12:12:22+00:00",
-      "summary": "Nikhil Seshadri named 2026 Hertz Fellow for quantum research&nbsp;&nbsp;The American BazaarRecent plant sciences alumnus Charlie Colvin named 2026 Hertz Fellow&nbsp;&nbsp;The Pennsylvania State UniversityThe Hertz Foundation Names 19 Fellows For The Class Of 2026&nbsp;&nbsp;ForbesAstronomy grads Adam Distler and Matthew Werneken win 2026 Hertz Fellowships&nbsp;&nbsp;Harvard Astronomy DepartmentHertz Foundation awards fellowships for doctoral studies to four Princetonians&nbsp;&nbsp;Princeton Uni",
+      "id": "135ca47217f6",
+      "title": "The Next Frontier for Hantavirus: Finding Vaccines and Treatments - WSJ",
+      "published": "2026-05-11T13:26:00+00:00",
+      "summary": "The Next Frontier for Hantavirus: Finding Vaccines and Treatments&nbsp;&nbsp;WSJNo cure, no approved vaccine, no antiviral: Why the Hantavirus threat is raising alarm again | Explained&nbsp;&nbsp;Moneycontrol.comHantavirus cases spark brief surge in pharma and biotech stocks — here’s why trading is so volatile&nbsp;&nbsp;CNBCModerna shares jump 8% after U.S. national tests positive for hantavirus&nbsp;&nbsp;Investing.com IndiaThe Need for Public Health & Vaccines: Hantavirus Outbreak Is a Stark ",
       "sources": [
         {
-          "name": "The American Bazaar",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEUzeG40azZiZHIzbUhMQThqTVV6R2l2a0x6SWdxdDc0b0dGa3FMa0Rsc3ZCVndyazIxWVFfLTZjcEFOMHFjS1pXRmd1OWV2X1lEYXZ5Q2s1QWw1bXlGVVJYZDBUZkJvTGNTc3FZXy1YSDhLYm9zZTBMbGF4NUdRSmNBdng5U0JSekF3TS1iXzVPVmZEZVQyMFNVMU8xeGQ4aWg2eGZLYXdCZThGNnpzZ3h3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3ae6d5097a8",
-      "title": "Heating Up to Expectations - University of Pennsylvania",
-      "published": "2026-05-11T12:00:00+00:00",
-      "summary": "Heating Up to Expectations&nbsp;&nbsp;University of Pennsylvania\"2024 Record Heatwave Not an Unexpected Anomaly, Says US Research Team\"&nbsp;&nbsp;아시아경제'Indian Niño' drove record heat in 2023, 2024, new study finds&nbsp;&nbsp;Cornell ChronicleIndian Niño: The reason for the extreme heat in 2023–2024&nbsp;&nbsp;Table.Briefings",
-      "sources": [
-        {
-          "name": "University of Pennsylvania",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYnZlQ1NJdHp6Nkk3bXM0Z2djZFhvS3VUTFktTjBMczQ0Z3p0RldZTW1oV1c4RnRfaTBMUjJjQzZrcEhNUUJfUGhSUVBobUw0OFhrOS1zQk5fbDNGRHNXemNOUVV2elJibjBhSndBcDVQdXhUdV9TbUlzVzBGY3NvYXliaEtxNXBTX0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "31f7f3e143cc",
-      "title": "Plasmodium vivax Malaria Detected in Duffy-Negative Hosts - EMJ",
-      "published": "2026-05-11T09:48:27+00:00",
-      "summary": "Plasmodium vivax Malaria Detected in Duffy-Negative Hosts&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVm05cXJhRlp6ODRUanZ5VHdQVUFqZmc5TXlzeGM1X1J3a1FfZTNyTDhYa3NhcHg1M1RjUVFhYk5TMTFWVzZZb1BUWGN2RlY4VzdSWFpZLTdwZzMyWU14M0RZQVBMTnc3NDY3cUlaNUdReEtzeW1LX01ndExlNlpLN1p4SGxDbnh5ZUY2ZUh1T01GNTZoTTJFS3J2MG5COEhMVEFxNThZTDJod2xXY281NlY2UV9CUUZqS0VXTm9Ielk?oc=5"
+          "name": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWx2a0tGWWlQUDVsVmxPM1RlRHE1a3dKZGJLWERneGxkNmJoMEdzNWFyMlRnNWt2bjd1YTVnNnhVeHNvVzRVYzQxd084cnZUY21kNjhVSkQ1OXNxVXBjT081LWRqN2EwYjFUMG1sOEVrRWJPblNZN2t4cG12bEhLclh2TW9mdFBnRDBkNmdDQU81clFGWDRhSGJ1NXhWVGxWeHhDbC01NnVWLXVtTENaNQ?oc=5"
         }
       ]
     },
@@ -321,7 +309,7 @@
       "id": "a61b8146ce29",
       "title": "Milky Way's wormhole: Massive tunnel to another part of universe hidden in our own galaxy - WION",
       "published": "2026-05-11T05:31:00+00:00",
-      "summary": "Milky Way's wormhole: Massive tunnel to another part of universe hidden in our own galaxy&nbsp;&nbsp;WIONCould We Detect Wormholes? Scientists Explore Breakthrough Methods!&nbsp;&nbsp;Glass AlmanacWormholes: The Cosmic Portals That Defy Spacetime&nbsp;&nbsp;vocal.mediaCould the Milky Way Contain a Massive Wormhole?&nbsp;&nbsp;The Daily Star Lebanon",
+      "summary": "Milky Way's wormhole: Massive tunnel to another part of universe hidden in our own galaxy&nbsp;&nbsp;WIONCould We Detect Wormholes? Scientists Explore Breakthrough Methods!&nbsp;&nbsp;Glass AlmanacThere's an enormous, invisible sheet of strange stuff surrounding our entire Galaxy&nbsp;&nbsp;BBC Sky at Night MagazineWormholes: The Cosmic Portals That Defy Spacetime&nbsp;&nbsp;vocal.mediaCould the Milky Way Contain a Massive Wormhole?&nbsp;&nbsp;The Daily Star Lebanon",
       "sources": [
         {
           "name": "WION",
@@ -338,18 +326,6 @@
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZzJaNHBwLVo1RnlzcFZPU1lIa0VnTWdFZWZDZkpfSUNQa0t2TGtURkNFSFptXzB3X0tyV2JlVElhRl9RSVhKTkI5UkMxdHFuZWFBZGJ0aEtIcDZaLWt1cVlyaFIxNXNRQTRsampYa3RFWUo2ZGtwQkYwLXJCaXZQZUlVNXFjMGtQR1ZFTWYxdUQwMTY1TkVLdHlQd3ZLRWlQUm1uUVhCUi1SeTdRRjFvX3lXQmR4bm9QNEdkemgwVkI2UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d6c3a2177a80",
-      "title": "Experts call for UK four-day week as study links long work hours to obesity - The Guardian",
-      "published": "2026-05-11T01:30:00+00:00",
-      "summary": "Experts call for UK four-day week as study links long work hours to obesity&nbsp;&nbsp;The GuardianLong Working Hours Are Triggering Your Body To Store 'Stress Fat', Says New Study&nbsp;&nbsp;NDTVWorking long hours could be expanding waistlines and increasing obesity risk, research suggests&nbsp;&nbsp;The Times of IndiaHow your cortisol levels are affecting your weight gain – and what you can do about it&nbsp;&nbsp;The IndependentI lost 1.5 stone after switching to a four-day week&nbsp;&nbsp;The",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakFqd2RWa29malZoU21tRnp5b3FzS0dDV0V3cDZYZlgybi1rSHVCLXM2bGtjbnlTUkp0aE5RSFNWOUVOV09nb3RlVmlUd2ZhdEJCa201WjhyVGcwd28tMzlHcTU4ajZqTXFuVE43WnlnSHhPRFV3ZDNNQkVxRE96SXhCajN0YVBvTXdZbUFjRmFod2RLR0Y2WUtYZFpwa2NwYmtuTFNJWjhwaHZwa3d1N0MxMXR5TUpISnpkTENIQUU?oc=5"
         }
       ]
     }
