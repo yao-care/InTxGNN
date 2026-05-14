@@ -1,10 +1,70 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-13T19:26:37.775994+00:00",
-  "total_fetched": 75,
-  "unique_count": 75,
-  "health_related_count": 24,
+  "fetched_at": "2026-05-14T01:50:54.721300+00:00",
+  "total_fetched": 86,
+  "unique_count": 86,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "49f2f69cab5e",
+      "title": "Brain-controlled hearing aid concept helps solve the cocktail party problem - News-Medical",
+      "published": "2026-05-14T01:38:00+00:00",
+      "summary": "Brain-controlled hearing aid concept helps solve the cocktail party problem&nbsp;&nbsp;News-MedicalFirst Real-Time Brain-Controlled Hearing Device&nbsp;&nbsp;Neuroscience NewsReal-time brain-controlled selective hearing enhances speech perception in multi-talker environments&nbsp;&nbsp;NatureHearing aid: Brainwaves recognize and filter voices&nbsp;&nbsp;heise onlineScientists Build ‘Mind-Reading’ Hearing System for Noisy Environments&nbsp;&nbsp;Sci.News",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMGlPX0tXMVREbkRtV1pGdTFaMWlwRGdPY2lXLUtISGo3LXlCaFhGOGxpUkU1VndTZDJTNXpKT2I2bHRsOTBfczVqazRSOXlYdGkyck9YWEF2LXJQdmgxdXRsOE1vUWZMaDlrbzIyRWZqeFo0STgwelFSeGVOV1NoSU5YaTB2YzlKQ1ljTXlBRWxtcHJsNmhMVGg4eUFOSm4wTnJaS1ZrU3NWVkVEcXFiOTlVLUZNZ2huNmlKZHRFeHU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ae94b817002",
+      "title": "Microplastics may contribute to global warming new research indicates - R&D World",
+      "published": "2026-05-13T22:12:12+00:00",
+      "summary": "Microplastics may contribute to global warming new research indicates&nbsp;&nbsp;R&amp;D WorldAtmospheric warming contributions from airborne microplastics and nanoplastics&nbsp;&nbsp;NatureWorse than soot, scientists concerned over invisible plastics floating in our air&nbsp;&nbsp;The Cool DownEarth Screams in Agony as Microplastics Found to Increase Global Warming&nbsp;&nbsp;FuturismDo I Need to Worry About Airborne Microplastics?&nbsp;&nbsp;Time Magazine",
+      "sources": [
+        {
+          "name": "R&D World",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQci11c1F6OHdJYjc3MkU0MkE4dzlVTkRPa3FqR0dFdDlqMUZCX0xfMmZDXzNSVm5ETThkODVoVjNnSVV5em1hR1NnYjN3MWJ0RlRGTXBXQW8wN0xDY2t3M29SQzU1MlFBWk8wcjExSlJWdXozZjBZSFByakZzejhZeG5RNzN5MVM2VURIYXpxcTVoZDAtcW9mTFRMNVRIOFo4QVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f220e276a2ca",
+      "title": "The Hantavirus Outbreak Is Resurrecting Covid-Era Misinformation Tactics - University of Nebraska Medical Center",
+      "published": "2026-05-13T20:17:33+00:00",
+      "summary": "The Hantavirus Outbreak Is Resurrecting Covid-Era Misinformation Tactics&nbsp;&nbsp;University of Nebraska Medical CenterAfter Covid-19, another virus is making news. Should you worry?&nbsp;&nbsp;The Times of IndiaFive things to know about hantavirus from a Stanford Medicine expert&nbsp;&nbsp;Stanford MedicineHantavirus Cruise Ship Outbreak: What We Know So Far&nbsp;&nbsp;the-scientist.comHantavirus is not Covid-19, but ‘calm-mongering’ risks triggering post-Covid anxiety&nbsp;&nbsp;CNN",
+      "sources": [
+        {
+          "name": "University of Nebraska Medical Center",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORzRkYlNHakc4WGhvX3pPRWVwenZNTlpyMTdVaUJRMkxubG9hLXBPZFNYUWdUanpIY1JZSTlDbFVHeHZjNnpVUlpkdmZ2a0lXbU9INVhteFl1aWpManBrRXlmZDluRmVHdHQ0WTM4ZHZ0bW1UY2JWRGN2NGhDcWU2LVZPdWllby01LXZNMkZhcnVGWEstdUVTaExPVmhmOTFVT1VkLTdKRjBqNUJfcVFLdzVvMFRZRUtGUHFjX0dTSVR2X2k3SFJvMXpabFNWUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c77bb2cd8393",
+      "title": "PRL study sheds new light on Moon’s icy secrets - The Times of India",
+      "published": "2026-05-13T19:42:00+00:00",
+      "summary": "PRL study sheds new light on Moon’s icy secrets&nbsp;&nbsp;The Times of India🌙 The Moon would be continuously supplied with water by... the Sun?&nbsp;&nbsp;Techno-Science.net",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWFwdWp2b1lfdTFQbHhZNnZUcTJWNnFCYzlEWm5DODlxaHZ5anRfRUtoLVVCYmdKSG0zN0RCQjlpYVdidEpQcmJkc1VEUGF0OEMtbndBOVBpMDEzYjdKZG1qa0RZaGVXVW5WeTI4cnFER3dCbTB4SEc0TDBrLTZLWmY5bl9WS1VkX19yeE9xVlhOQTZISi0zLUFrSmxjajd5Wk1MNDNVNDRRbFZfNzJ3TUN6VHhBQjJKOVRTUnZJWWjSAcYBQVVfeXFMT1N4dWF2NHBFaWVMRXc5clBNR3o5V0JEUVVLVmNDbE1pZXB2R3VKUlRyLU1Ra2FyZG1ucklHZWw5a0pBaXowSEc2VTM4elRSTWxab1RJNVRYd2JDQlJCWnlaWUo5SlRQYktpdVI5VkUwVWNPSHhmaDREUndNbG9sTk5wTTN0UGtlLVdzR284T05iWDNmM0RjaU44NmN4SU0wWElsMzhQVFdSRVJkQnFjVEJqSzNvaHJIVG9MZC0xOWlscC1DTnF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ec7024abc4d",
+      "title": "French Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases - The New York Times",
+      "published": "2026-05-13T19:09:00+00:00",
+      "summary": "French Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases&nbsp;&nbsp;The New York TimesHantavirus alert: French cruise passenger placed on artificial lung support as outbreak grows to 11 cases&nbsp;&nbsp;The Times of IndiaFrench hantavirus patient critical after her symptoms dismissed as anxiety&nbsp;&nbsp;India TodayFrance says mask stock sufficient for 'at least 3 months' amid hantavirus concerns&nbsp;&nbsp;Anadolu AjansıHantavirus prompts UK precautionary isolation as France fl",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1NRLUlYZ29jYkR6SEFBTWZVTE02d2gtR01yTmhTZmFKbEtidzdsV0ZjMmJXcTB2anB3Y1RmNEl0MTRUSkx3Qzl0b2UzVWhOdnNyZDJuYUVXNzlRUGt1TWd0VGE3OWFQeE5ockxUQkU5RXFOVEdjWVc0cGdYZG83ZWZiM2RiV3EyV1o5SnV3?oc=5"
+        }
+      ]
+    },
     {
       "id": "935316f7cf84",
       "title": "Silicon hybrid captures high-energy sunlight for fuel-making reactions, study finds - Tech Xplore",
@@ -18,26 +78,38 @@
       ]
     },
     {
-      "id": "2ae94b817002",
-      "title": "Microplastics may contribute to global warming new research indicates - R&D World",
-      "published": "2026-05-13T16:11:35+00:00",
-      "summary": "Microplastics may contribute to global warming new research indicates&nbsp;&nbsp;R&amp;D WorldAtmospheric warming contributions from airborne microplastics and nanoplastics&nbsp;&nbsp;NatureWorse than soot, scientists concerned over invisible plastics floating in our air&nbsp;&nbsp;The Cool DownEarth Screams in Agony as Microplastics Found to Increase Global Warming&nbsp;&nbsp;FuturismDo I Need to Worry About Airborne Microplastics?&nbsp;&nbsp;Time Magazine",
-      "sources": [
-        {
-          "name": "R&D World",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQci11c1F6OHdJYjc3MkU0MkE4dzlVTkRPa3FqR0dFdDlqMUZCX0xfMmZDXzNSVm5ETThkODVoVjNnSVV5em1hR1NnYjN3MWJ0RlRGTXBXQW8wN0xDY2t3M29SQzU1MlFBWk8wcjExSlJWdXozZjBZSFByakZzejhZeG5RNzN5MVM2VURIYXpxcTVoZDAtcW9mTFRMNVRIOFo4QVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ed177983aff1",
       "title": "Obesity rates in some countries levelling off or potentially falling, study finds - The Guardian",
-      "published": "2026-05-13T15:32:00+00:00",
-      "summary": "Obesity rates in some countries levelling off or potentially falling, study finds&nbsp;&nbsp;The GuardianObesity rates rise faster in low and middle-income countries, plateau in many wealthy nations: Report&nbsp;&nbsp;Telegraph IndiaWho’s Winning The Fight Against Obesity? A Look At Countries Where Rates Are Falling | World News&nbsp;&nbsp;News18The ‘velocity of obesity’ aims to show which nations are slowing an epidemic&nbsp;&nbsp;statnews.comObesity has slowed in high-income countries since th",
+      "published": "2026-05-13T17:58:00+00:00",
+      "summary": "Obesity rates in some countries levelling off or potentially falling, study finds&nbsp;&nbsp;The GuardianObesity rates rise faster in low and middle-income countries, plateau in many wealthy nations: Report&nbsp;&nbsp;Telegraph IndiaGlobal Obesity Trends: A Widening Health Crisis&nbsp;&nbsp;DevdiscourseFat jabs are slowing obesity crisis after soaring for 40 years, say experts&nbsp;&nbsp;The SunWho’s Winning The Fight Against Obesity? A Look At Countries Where Rates Are Falling | World News&nbsp",
       "sources": [
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNV9tSVFXd0FZc2NLSlo4T3BPVnVCU3BZaG1VWFBVbmNoTVVNbjRQeWtqeWRuemRPUDdMdElTeXFodjdKZWZiVU94dlRBbWptRzZzZHJhOEZLNlBGX09wM0Y0MjkyNmJja2tMMDhobnVZN0wyMjdpOXRLdGk5aXplYlRPanlKb1BaajZuOEYtdTdIWFZf?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2887c76db9fc",
+      "title": "PCOS Is Now PMOS: Doctors Say Name Change Will Improve Diagnosis, Care - Healthline",
+      "published": "2026-05-13T17:00:10+00:00",
+      "summary": "PCOS Is Now PMOS: Doctors Say Name Change Will Improve Diagnosis, Care&nbsp;&nbsp;HealthlinePolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine Society'The name was inaccurate': PCOS gets a new name after years-long effort&nbsp;&nbsp;Live ScienceThe condition PCOS is now called PMOS. What to know about the name change and what it means for care&nbsp;&nbsp;AP NewsPCOS, a condition impacting millio",
+      "sources": [
+        {
+          "name": "Healthline",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSHZnYzl4NTVwQ3NiMmFTSW9TWlJib3RMWDcyaGtvVllsZ1J1X3NJSUUtdWhlbmhQS081ZDFkUXpaa3V4TUJYZERFQks5VUsxNkZuOXNiRFRBX0ZWMDJCVkN6SElidldCdENESEVycGNRaDR3cThHcTFWVVhsZjRaNXVoMWtHeGFad2NnZmNhZjRnZ0paWGNkZ1Mwcjk0V1dO?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "87d787235349",
+      "title": "Air Pollution and Mental Health in India - Earth Journalism Network",
+      "published": "2026-05-13T16:24:00+00:00",
+      "summary": "Air Pollution and Mental Health in India&nbsp;&nbsp;Earth Journalism NetworkEveryday air pollution linked to poorer brain function, study finds&nbsp;&nbsp;healthsci.mcmaster.caAcute Air Pollutant Exposure and Cognitive Impairments in Healthy Young Adults: A Scoping Review of Human-Controlled Exposure Studies&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Earth Journalism Network",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2lZSk5sMVdHTUN5NlBXRDhSZVI1VkZJSWVNOVlURHhiX0g1VVAtTHkwWW9makZjSmNjMzd6bk9jbGwyRXhFb3NPUlZROWF5RE9iVFN0SmVuNlpTZGlQOUpQOUR4QnpETjVQSWJ0Y051OFNna1BlRnlJb0VDYlhVTkFn?oc=5"
         }
       ]
     },
@@ -54,22 +126,10 @@
       ]
     },
     {
-      "id": "272ee253da63",
-      "title": "Non-coding gene is linked to core social and behavioral traits in autism - Medical Xpress",
-      "published": "2026-05-13T15:00:26+00:00",
-      "summary": "Non-coding gene is linked to core social and behavioral traits in autism&nbsp;&nbsp;Medical XpressAn X-linked long non-coding RNA, PTCHD1-AS , and the core features of autism&nbsp;&nbsp;NatureStephen Scherer, Lisa Bradley, Graham Collingridge (IMAGE)&nbsp;&nbsp;EurekAlert!SickKids study identifies genetic pathway tied to autism behaviours&nbsp;&nbsp;CTV NewsNon-Coding Gene Linked to Social, Repetitive Behaviors in Autism Identified in Nature Study&nbsp;&nbsp;geneonline.com",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95NUNKc01ZNEh5OFJBQWNqYkNwckdlc2VjQlRtcm9zeWJmcU5QT3FWMVRNNVZtRDUwNkRSS18zOHhzajFGN09BYnB4b2ltUTNhVTZqenRzcnczY2plSmhRUHZJQVo2bklDMldHZWpIalpsQjRTM2M4SEVUbHBiNkk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bbef1d9910f4",
       "title": "3D atomic rearrangement creates 40,000 quantum defects in 40 minutes - Phys.org",
       "published": "2026-05-13T15:00:10+00:00",
-      "summary": "3D atomic rearrangement creates 40,000 quantum defects in 40 minutes&nbsp;&nbsp;Phys.orgMesoscale atomic engineering in a crystal lattice&nbsp;&nbsp;NatureUS team reprograms materials in three dimensions using electron beam&nbsp;&nbsp;Interesting EngineeringResearchers “reprogram” materials by quickly rearranging their atoms&nbsp;&nbsp;MIT News",
+      "summary": "3D atomic rearrangement creates 40,000 quantum defects in 40 minutes&nbsp;&nbsp;Phys.orgMesoscale atomic engineering in a crystal lattice&nbsp;&nbsp;NatureAtomic Design (IMAGE)&nbsp;&nbsp;EurekAlert!Researchers “reprogram” materials by quickly rearranging their atoms&nbsp;&nbsp;MIT NewsUS team reprograms materials in three dimensions using electron beam&nbsp;&nbsp;Interesting Engineering",
       "sources": [
         {
           "name": "Phys.org",
@@ -81,7 +141,7 @@
       "id": "eeb1769f5fe8",
       "title": "NASA brings new space processor, delivering 500x faster performance for future Moon and Mars missions - India TV News",
       "published": "2026-05-13T14:15:01+00:00",
-      "summary": "NASA brings new space processor, delivering 500x faster performance for future Moon and Mars missions&nbsp;&nbsp;India TV NewsHello Universe: NASA’s Next-Gen Space Processor Undergoes Testing&nbsp;&nbsp;NASA Jet Propulsion Laboratory (JPL) (.gov)NASA debuts radiation-hardened chip with 500x more power than current space processors&nbsp;&nbsp;Interesting EngineeringNASA’s New RISC-V Space Chip Offers 100x Performance Boost for Future Mars Missions&nbsp;&nbsp;HotHardwareNASA tests more powerful sp",
+      "summary": "NASA brings new space processor, delivering 500x faster performance for future Moon and Mars missions&nbsp;&nbsp;India TV NewsHigh Performance Spaceflight Computing&nbsp;&nbsp;NASA (.gov)NASA debuts radiation-hardened chip with 500x more power than current space processors&nbsp;&nbsp;Interesting EngineeringNASA is building a chip 100x more powerful for Moon and Mars trips&nbsp;&nbsp;geekspinNASA’s New RISC-V Space Chip Offers 100x Performance Boost for Future Mars Missions&nbsp;&nbsp;HotHardware",
       "sources": [
         {
           "name": "India TV News",
@@ -90,14 +150,50 @@
       ]
     },
     {
-      "id": "9b8eb1b53f41",
-      "title": "AI system transforms weak antibiotics into powerful treatments - Drug Target Review",
-      "published": "2026-05-13T12:34:01+00:00",
-      "summary": "AI system transforms weak antibiotics into powerful treatments&nbsp;&nbsp;Drug Target ReviewApexGO: AI-Driven Approach to Faster Antibiotic Discovery&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsAI tool boosts imperfect antibiotic candidates, with 85% working in lab tests&nbsp;&nbsp;Phys.org",
+      "id": "b00c2b242391",
+      "title": "Old antibiotics are being revived to fight new threats - Nature",
+      "published": "2026-05-13T14:15:00+00:00",
+      "summary": "Old antibiotics are being revived to fight new threats&nbsp;&nbsp;NatureA generative artificial intelligence approach for peptide antibiotic optimization&nbsp;&nbsp;NatureAI Speeds Up the Search For Disinfectants to Battle \"Superbugs\"&nbsp;&nbsp;Tomorrow's World TodayThe Researchers (IMAGE)&nbsp;&nbsp;EurekAlert!AI system transforms weak antibiotics into powerful treatments&nbsp;&nbsp;Drug Target Review",
       "sources": [
         {
-          "name": "Drug Target Review",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTmROVy1uRnBpOUNLdXYwZUxMaVpKMmdnMjlCalBpTFZtY0NWRVp1bjk3LWlZWFYyN0loUHA2enBkVmFxOHcyenZGWWlETmd1Rzlfb3AyVnVPaU1WX1NQa2pyVnc3RG5wbG5jNllqQTVIUFVCcFpCQmV5bHRySEpOSE1YRkk3Mnc2cTQwaE1pSlNTSXMzVDdHZWJrck5ScjdYQkY2SVY3eHhUaVgtRGpCSg?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nLTdYTTduVVY2Y3ZpbTNIMmFyb1lvZ0VOX1RTMTJIa3h6anZnS3R5eW9EMGdSeUdMbm13dFU5aWsxVFU0dmNnRUdLRjhYeklOYXJ4bjB1eldDX3RaSWxB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c47c0580ae2",
+      "title": "CCMB researchers find molecular ‘glue’ that blocks viral spread in plants - The Hindu",
+      "published": "2026-05-13T13:47:26+00:00",
+      "summary": "CCMB researchers find molecular ‘glue’ that blocks viral spread in plants&nbsp;&nbsp;The HinduCCMB Scientists Decode Plant Defence Mechanism That Traps Viruses&nbsp;&nbsp;Deccan ChronicleHyderabad scientists discover ‘molecular glue’ that helps plants trap viruses&nbsp;&nbsp;Telangana TodayKey anti-virus defence system in plants explored by CCMB researchers&nbsp;&nbsp;The Hans IndiaWhat are `sticky protein traps’ that plants use to fight against viral infections?&nbsp;&nbsp;NewsMeter",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWlVpZEpRTEtYT1FBX0JtNDJ1UWJ6SjlEWC1waGtmZ1hoaXZuOFNRTGRyRW5jWE1wWWUyaVAwd0pnWEtzUS0yZEswdk9wNEZMbWt3ZDU2c2xjLWtWVFg3ZVlsSENJRWd6WnRtLXFqbWVkTzg2Z3VTSTd0MnllOWZzZGRlUGw2d0d5RldPckJsaWhLWEV0Uk1GVHlyNmNpRUgxdmdYWTV6aHpBNHRjYnd2UU5sMmhicHRIb21BRTd4dk9DWDQ5RGZqTEhfOVY5WXlyYmJMRdIB2wFBVV95cUxPV0tkN1NWT185WTNOalkzY1lKN3lzZFQ4SWh4WjhDV2ZyTF83RWxOMVpvTTluZDk3RlVsdmFkOHFOTGFSekpJZVZiSktpdUNIcjZvQ21tV3dSR1hFQldnRWk1ZWpRWDQtZjkyeEJZcHRBSF9ZOE50Nm9WcEhEQ1F0S0pLOG90NU9TMEQxZ0dLeXlBamw2QUxsb1RJNEg3TGtrUDQ4Z0w3ZmVzbjJMNnljM0dHa3JwWGVXRzc4d3kwMG9vQ2w1THBZalRMdE1xN09GSlV4ZVd2OVQwemc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "060f0841eefb",
+      "title": "Perimenopausal women face higher risk of low heart health - News-Medical",
+      "published": "2026-05-13T13:44:00+00:00",
+      "summary": "Perimenopausal women face higher risk of low heart health&nbsp;&nbsp;News-MedicalNIH-Funded Research Achieves Key Milestone&nbsp;&nbsp;New York Institute of TechnologyPerimenopause may offer a “window of opportunity” for heart disease prevention in women&nbsp;&nbsp;www.heart.orgCardiovascular Risk Assessment and VMS Management in Menopausal Care&nbsp;&nbsp;Patient Care OnlinePerimenopause Poses Heart Health Challenges for Women&nbsp;&nbsp;Everyday Health",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnFaR0VZX3RtWmlDZ3pfUHBSb1pEVURrZnlYQlgxVEhsWmplRC03Qnl0a3NlQi1iT2VzamQ4Mm41QUFjS09KdU5BcmJXZG9VbWpad0RnRmxjRTREVnNOVTRENGYtSUNmMEhFNWZ5UG51UVRhR3J1QXlsZmFlNWR3RGgwZDhhQ3RVaXU0NmtBZDQ5dTBlRElVbnpMdHJNcjE1NS1FYUNwQmo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6638ff59b5b0",
+      "title": "Muscle Mass May Influence Diabetes Remission - EMJ",
+      "published": "2026-05-13T13:34:22+00:00",
+      "summary": "Muscle Mass May Influence Diabetes Remission&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGNsWlI3WUNIX0FDQmFERkhXOWdON3JONmhHTllrVGtINGtlQXI3NFBHM3NpQ1RsODRQVDNEcncxeHZfV3JYcF9nQWxxbDdNRjBsa0FiNkQwZG1CYVZVa0lTRDJpX3dDWk4yRk56bmdTLVJJMTA5em81ZzZ3dG8za0liYXJQTFFtbFkydEkyT1gwTzRS?oc=5"
         }
       ]
     },
@@ -114,14 +210,14 @@
       ]
     },
     {
-      "id": "c4bf5a87a65b",
-      "title": "PCOS Is Officially Renamed, After Decades of Misinformation - ScienceAlert",
-      "published": "2026-05-13T11:03:46+00:00",
-      "summary": "PCOS Is Officially Renamed, After Decades of Misinformation&nbsp;&nbsp;ScienceAlertPolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyThe condition PCOS is now called PMOS. What to know about the name change and what it means for care&nbsp;&nbsp;AP NewsPCOS, a condition impacting millions of women worldwide, gets a new name&nbsp;&nbsp;CNNPCOS Is Now PMOS. Why This 1-Letter Change Is A Big",
+      "id": "f1ff814a2f80",
+      "title": "Ultraprocessed Food Intake Tied to High Asthma Risk in Kids - Medscape",
+      "published": "2026-05-13T10:59:56+00:00",
+      "summary": "Ultraprocessed Food Intake Tied to High Asthma Risk in Kids&nbsp;&nbsp;Medscape",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdy1iQjBwRnhoUGRfNXdGeHE2YWxWUlA2bk5pVElFXzBqTGRFa3FHbzNDaFZyeG5aM3MzTW5YdUlKcEZ6SHJDSnlHQklPU3JvS1pSNTJlUlA1aWQydDdJSXZGUDMwQkJZRWtFcWNKeGY5cFVOWFo0ZTRWOHoxdWRqMEFPbDMtNjJrU0pIa0lobGg?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUnRJSW52b0pXMGNPQkxaNEdreFgyWjZyZDVOTlhsb2Y3ZS12M1c3b0pqY25keDY4YXJkeWtUZzNydGMweS1vZ01CS1pKWEFKMVNLSDR3R0dkQjVOcV9qTXM3ZE5OeHMtTHM4OEZENndRbjVEQU9SVjdjeFdTVE1nUTBMbUl0WlJwaWE1ejhON0NTb0NnZDZwcWY1WkZuTjkxWlRHSktn?oc=5"
         }
       ]
     },
@@ -141,7 +237,7 @@
       "id": "dc71b98c3a28",
       "title": "Hantavirus outbreak: Passengers evacuated from cruise ship to leave hospital after 72-hour quarantine - The Times of India",
       "published": "2026-05-13T09:16:00+00:00",
-      "summary": "Hantavirus outbreak: Passengers evacuated from cruise ship to leave hospital after 72-hour quarantine&nbsp;&nbsp;The Times of IndiaAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJMessage by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)WHO head tells countries to prepare for more hantavirus cases&nbsp;&nbsp;The GuardianHantavirus Outbreak: Britain To Isolate 10 Peop",
+      "summary": "Hantavirus outbreak: Passengers evacuated from cruise ship to leave hospital after 72-hour quarantine&nbsp;&nbsp;The Times of IndiaAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJMessage by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)WHO head tells countries to prepare for more hantavirus cases&nbsp;&nbsp;The GuardianQuest for a rare bird, a landfill visit, a dead",
       "sources": [
         {
           "name": "The Times of India",
@@ -162,10 +258,22 @@
       ]
     },
     {
-      "id": "08e7a5d49c65",
-      "title": "Australia: Patients of retired Sydney dentist warned of viruses including hepatitis and HIV - BBC",
+      "id": "1d1d10e3a5f1",
+      "title": "HCC Brain Metastases Survival Still Short Despite Advances - EMJ",
+      "published": "2026-05-13T09:03:40+00:00",
+      "summary": "HCC Brain Metastases Survival Still Short Despite Advances&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWi1CdjF5WDV0VVJYeTZrMEV5QWJyNUlHd2pxWEhpczRxaGJRVFlyY2VEdTNrWGROTWJSSzl0RVJKVzIwNV8ydWVfZFR6Y2hLb1RpZVBGRlRCRUFSNlB0M1RpamM3NEpxNjlDR01uZURmR0ZETTRNZkhqLXZ1LTNwemtIbzJCOTN2a3d4TUNWZTh5NkR3NDBRWEU1eFo0LUVMU0s5Zg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a421fe498d0b",
+      "title": "Sydney dentist's patients warned of viruses including HIV - BBC",
       "published": "2026-05-13T06:17:55+00:00",
-      "summary": "Australia: Patients of retired Sydney dentist warned of viruses including hepatitis and HIV&nbsp;&nbsp;BBCGet tested for HIV and hepatitis: Australian authorities warn patients of a retired dentist of bloodborne viruses&nbsp;&nbsp;The Times of IndiaSydney Clinic Alert: HIV Risk from Poor Practices, Thousands Affected&nbsp;&nbsp;Deccan HeraldHealth Alert 5,000 Dentist Patients Risk HIV Hepatitis Exposure&nbsp;&nbsp;streamlinefeed.co.keSydney Dental patients warned of exposure to viruses like HIV ",
+      "summary": "Sydney dentist's patients warned of viruses including HIV&nbsp;&nbsp;BBCGet tested for HIV and hepatitis: Australian authorities warn patients of a retired dentist of bloodborne viruses&nbsp;&nbsp;The Times of IndiaSydney Clinic Alert: HIV Risk from Poor Practices, Thousands Affected&nbsp;&nbsp;Deccan HeraldSydney Dental patients warned of exposure to viruses like HIV and Hepatitis&nbsp;&nbsp;The Times of IndiaRetired Sydney dentist's patients urged to get tested for HIV and hepatitis&nbsp;&nbsp",
       "sources": [
         {
           "name": "BBC",
@@ -198,6 +306,18 @@
       ]
     },
     {
+      "id": "7b7953816bec",
+      "title": "Dengue cases rise in Sri Lanka amid monsoon risk: health officials - Xinhua",
+      "published": "2026-05-13T03:31:16+00:00",
+      "summary": "Dengue cases rise in Sri Lanka amid monsoon risk: health officials&nbsp;&nbsp;XinhuaSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Xinhua",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Xd3l3TGRBeFdnemx3dHJJTHA4Vy05dXM5X3JLMHZnSFNGSUFhSl9zQjJxeWVMc1ZhUEVURXJLbVZVcS1lOUVPVFZ5cjk5VXVOQ2g5VXgtYUFKTlNtd1FUOU45Q0lYVmpIYzRTTlM0NFhCVVFsWHQxSVE5NVY?oc=5"
+        }
+      ]
+    },
+    {
       "id": "dcd144de8f83",
       "title": "A Common Vitamin Has a Complicated Link to Cancer, Experts Reveal - ScienceAlert",
       "published": "2026-05-13T02:43:01+00:00",
@@ -213,7 +333,7 @@
       "id": "d005d8a5dcd9",
       "title": "AI Helps Scientists Create New E.coli Strain Using Only 19 Amino Acids - Tech Times",
       "published": "2026-05-13T02:30:12+00:00",
-      "summary": "AI Helps Scientists Create New E.coli Strain Using Only 19 Amino Acids&nbsp;&nbsp;Tech TimesUNC Researcher Continues Quest to Understand the Origins of the Genetic Code&nbsp;&nbsp;UNC HealthResearchers use AI to break the rules of nature and create a living organism with barely any amino acids&nbsp;&nbsp;TechRadarStripped down bacterium functions with one less amino acid than the rest of life on Earth&nbsp;&nbsp;Chemistry WorldScientists Changed a Lifeform’s Fundamental Code. It Shouldn’t Have S",
+      "summary": "AI Helps Scientists Create New E.coli Strain Using Only 19 Amino Acids&nbsp;&nbsp;Tech TimesUNC Researcher Continues Quest to Understand the Origins of the Genetic Code&nbsp;&nbsp;UNC HealthStripped down bacterium functions with one less amino acid than the rest of life on Earth&nbsp;&nbsp;Chemistry WorldScientists Changed a Lifeform’s Fundamental Code. It Shouldn’t Have Survived—but It Did.&nbsp;&nbsp;AOL.comThey Removed One of Life's 20 Essential Amino Acids from Bacteria, and It Survived 450 ",
       "sources": [
         {
           "name": "Tech Times",
@@ -234,14 +354,14 @@
       ]
     },
     {
-      "id": "ab5190257e69",
-      "title": "Scientists find Mars’ moon Phobos is breaking apart and may not survive its slow fall toward the Red Plan - The Times of India",
-      "published": "2026-05-12T18:00:00+00:00",
-      "summary": "Scientists find Mars’ moon Phobos is breaking apart and may not survive its slow fall toward the Red Plan&nbsp;&nbsp;The Times of IndiaScientists Warn Mars's Closest Moon Could Destroy Itself With Falling Debris Before Breaking Apart&nbsp;&nbsp;NDTVPhobos, Mars's Larger Moon, May Not Survive Nearly As Long As Experts Previously Believed According To New Study&nbsp;&nbsp;TwistedSifter",
+      "id": "bd697e4725e5",
+      "title": "IgA Nephropathy: Advances Drive a Wave of New Therapies - Medscape",
+      "published": "2026-05-12T20:27:41+00:00",
+      "summary": "IgA Nephropathy: Advances Drive a Wave of New Therapies&nbsp;&nbsp;MedscapeConnecting with other patients makes life with kidney disease less lonely&nbsp;&nbsp;Kidney Research UKIgA Nephropathy and Mental Health: Coping with IgAN&nbsp;&nbsp;HealthCentralIgA Nephropathy (Berger’s Disease): The Most Common Primary Glomerular Disease&nbsp;&nbsp;Observer VoiceCompetition Builds for Novel IgA Nephropathy Approach&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdHR5R25NbWxGNG5VOWhJczM3U3l5cExvYjJnOVFxaW1XaFVSMFY3NThEck0zZjA4dEpRVDFPNzU4akVveDltcnlfOE9hcVY4cTZ2eXhKM2hsMHFXaUR3YmJ6eXljOFJRTVFNb3pHVmM5Q2ptMnFRRnF3M1RRRlhiY3pBcXZkb09fczhvaVpaSFRrb2hYM2FhMUpNakZiZ1pqYjZ2UVdtT2lWUmozWWh1ZG5TWkExdzlYTkQ1QmF2MmFRNUhNR1M0WFhrNUhaTHU0aUJCRURuU3Z5VWk0SDIxSnhqaWc5bGhmZ29GT2RYU3ZsRDBndmphN3dnSWk2ak9PZldLVldHVdIBjAJBVV95cUxNRE1JblFuX2RzRGNhNkZGQ2lZbVA0Z18ySHJiV0VHUDdhaDNFVkF6cVZVQmRiMlFCcElvVGtxdUNPZXJlblIwM1l6dGFuV0JKQmZNRFQ2RUNJUS1lZzdaZmFpUjJYQmhJY1VsU3ZXd1k3SkxzazllM2JudlFTYjAzeVRVSDFsVEFYQnFqcHQyMFVvMWMwUGFYblJ0bnN4cmJEbXU0aUZVelV4STlLSmh0eUVJRml0aExJVkNFb2tHWkJjM2pFTFJ0RG9QYjlxa19nZmxJMTI5NnllNU03VkFfZmh5c3dyd0pmWEliTExFYnpyV01iUUFsaXpiU0RVOFlzczFVOGJ2TWhnTGY1?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU2ItYVlVMk1KSmpadDlWLU5LMVNpZ185d2lpYUM0c2pkWm02R2JSTDRYczFKb2Npb1dGbkl0dFB1eU44VW9uZXdMYjJmeTNnZFJFVjhwYmE0eVYwQjlJU1ZsckcxZjBEcUR3VVFLQnE1ZXNXZjJCSDFQNWdJRDZNX1V1Zm5YdTVYM1oxODFFZm9IOXJsVnMxNGQyb0xIeGVC?oc=5"
         }
       ]
     },
@@ -254,6 +374,18 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44WFpjcjhDaGZQY01fOUhoYWVzQUp6MFllTDZLR2hpclRod2NsekZRTW01OVBBT3NheUU3SDRCTC1ITUdVYXU1WFZneGpRVDdBdURhaHdLaVRkcHp6UkpuUHRJcHUtNjBRU3lJTm5DWXdkLXcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "16208345b99c",
+      "title": "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs - News On AIR",
+      "published": "2026-05-12T16:17:39+00:00",
+      "summary": "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs&nbsp;&nbsp;News On AIRNine children die from measles or related symptoms in past 24hrs; death tally surges to 424&nbsp;&nbsp;Daily ExcelsiorVitamin A crisis yet to be resolved&nbsp;&nbsp;newagebd.netLeft Alliance Protests at RU Over Child Deaths from Measles&nbsp;&nbsp;dailyasianage.comMeasles’ unseen toll on the poor&nbsp;&nbsp;Bangi News",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2ZtQzZ5eHB3M19XaE1YOXNwT3RtbjNIcnczc05xWmU0OW9ZYzlva2ZRelFBalR6dmdiXzFUeW90QmFwMFZUbGNlNXZlS1Y3STZrWFI5NXdMNFRKOGdVVGloMkJ5VVp2VWtsTDB2UUZNUkp2UGtGUnY5MU9GeUVWVFJOQU9VWm5SUHhCN2pSU2VDU2hpUXVVYg?oc=5"
         }
       ]
     },
