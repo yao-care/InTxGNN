@@ -1,55 +1,115 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-16T01:28:49.163249+00:00",
+  "fetched_at": "2026-05-16T07:43:56.485644+00:00",
   "total_fetched": 66,
   "unique_count": 66,
-  "health_related_count": 47,
+  "health_related_count": 51,
   "news": [
     {
-      "id": "c4a5487e4888",
-      "title": "National Dengue Day 2026: Awareness, Prevention Tips, Symptoms & Simple Ways to Stay Safe - Netmeds",
-      "published": "2026-05-16T00:00:00+00:00",
-      "summary": "National Dengue Day 2026: Awareness, Prevention Tips, Symptoms & Simple Ways to Stay Safe&nbsp;&nbsp;NetmedsDengue is no longer just a monsoon disease: Doctor explains why&nbsp;&nbsp;India TodayGaya health department to observe May 16 as Dengue Day&nbsp;&nbsp;The Times of IndiaAs Dengue Spreads Beyond Traditional Hotspots, CDRI Scientist Calls For Multi-Pronged Strategy&nbsp;&nbsp;Outlook IndiaEffect of hotter summers on dengue proliferation&nbsp;&nbsp;Hindustan Times",
+      "id": "367ebbb1a7ba",
+      "title": "Ebola’s Africa spread tests global response after aid cuts - BusinessLine",
+      "published": "2026-05-16T05:17:13+00:00",
+      "summary": "Ebola’s Africa spread tests global response after aid cuts&nbsp;&nbsp;BusinessLineEbola Outbreak In Congo Kills 80, Rare Strain Confirmed&nbsp;&nbsp;NDTVEbola virus in DR Congo: Africa CDC confam fresh outbreak of Ebola for DRC&nbsp;&nbsp;BBCConfirmed Ebola outbreak in Congo, says African public health agency&nbsp;&nbsp;The HinduEbola outbreak kills 65 people in eastern Democratic Republic of the Congo&nbsp;&nbsp;The Guardian",
       "sources": [
         {
-          "name": "Netmeds",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGdWalNBSFJ3WVhjUDFhNEtqMi1QY0F4aEZkSHFfZzBVckNmTjZvWGIzRS1mSmFBc2Vya3FrMHNGU2JOWkxDdzB3M3ljVDZZMnZEeGNpVExVbnYwZVJRdWVTQlVjcXNaOVJaQ3VmQXp5R1NHMDk4YkE5eWZkdExyZWNjTkQzZDV4TmJZVXd1VnhXRm5sdEgxVlktc2swbnNiVHl6QVRlZV80NnByZ0VQbnpoemJfdHBUek84VHJPMVMwYlo3LWxsWEh3?oc=5"
+          "name": "BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXkwQjNfSGtRZ2VuVXBleGRqMG5DTGloNWEyaXNwejcySHR0UWZDczNhdUxhRzVoaV9fMEF5Zjl5UDVjbTAwV0VMT3dwTjhST3BKUGxncmlVLUZhbGVKamdhTnpYZFV2NXhKc0t6NWZiTG1jWUxsbEdJSU5od0QycExDcUU4Y1l2NkRNRWczSF96elNDYTlfU3psODVXQklWazYtOVVaYjk0U3lmMHlzVXVkV0tvZ09mZElNSkF3SVNxbzjSAcoBQVVfeXFMTVBxdlRxLS1QN3p4WThncjc0UGJ1MHdLakY2UTlXMVB3SXdTcFBuRE5zbklVT0xreW9CQ3lBdDlpTk5xOFRNU3RRdDRWQkpEdTBScVhQVE5YWTRNZWVScDlFR3pVWlJDRko2TmsxWld5YWZlYk5uSFFJU3ZBYjNHZGFzZGdoRUFIV29uUnVINUdGRjg2VEZ6THUwSGdoTlJ6Y1E5RXhGRmpkeGVmVEI2dFVmVlh4ZUM5Tkd2UU1EenVGMFd0R2xSXzI1QQ?oc=5"
         }
       ]
     },
     {
-      "id": "ff60588bdfc4",
-      "title": "Prevalence of Hypovitaminosis D Among Patients With Type 2 Diabetes Mellitus: Evidence From a Diabetes Clinic in Durgapur, West Bengal - Cureus",
-      "published": "2026-05-15T23:12:01+00:00",
-      "summary": "Prevalence of Hypovitaminosis D Among Patients With Type 2 Diabetes Mellitus: Evidence From a Diabetes Clinic in Durgapur, West Bengal&nbsp;&nbsp;Cureus",
+      "id": "2645ef6d0736",
+      "title": "Rise of lung cancer among non-smoking women in Telangana and Andhra Pradesh raises health concern - Telangana Today",
+      "published": "2026-05-16T05:17:00+00:00",
+      "summary": "Rise of lung cancer among non-smoking women in Telangana and Andhra Pradesh raises health concern&nbsp;&nbsp;Telangana Today",
       "sources": [
         {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVTVvY2JMX3NBSVIySEd5WDVsangwNlVraHFiczZrMmt4U3NBSjFTM0RON1FUeWFBYUNnal9QRGtWNFlCQmRGcU9KWlN0M2ZHUkh6TTJKM2RyeWY0UzB4cUs5MHlWYUNOTWVQQ3J4eUd4NTFLc2RlbjlwdVhRNHhRakxXTjFSZDZ4TjdnSGxnMmFsTTdGamc2M1hiclVYU2ZRSXl1blNyM2gwU1prc1habUV2SmVJcHl0XzRkQU1aN3VwUUZxX0dyVmlmZ0tVRURzZ3Vhb2dWYkg1SW5vRUFGRFFmWEpRU1FpdmtScFNkeUo4elpJOHc3Y0E3UWJDdldj?oc=5"
+          "name": "Telangana Today",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFhzVmJJVGplM1Rya3pmeVE2V1ZfNjQxekpHSW1JZS1zclB1RUJBQjN2VnM3RTM0OVhIWFdVLTg2YjcyMVFjc1dXVTIzZWVZN2NQb0NkZnZiRnNCOWlxOEJORWtGUDBPZG1PVmR1RVoxbXREOVZJWkozNjR4TS1Mak1qQVhlWXJzajlPQzFwdGs4dlN5aTBRTjJmLWo0U2tnczc1bDhWNy1pWXFhSmRwQjdrLU5xN1pfcVI3bEs5amtTUQ?oc=5"
         }
       ]
     },
     {
-      "id": "d32400b58f28",
-      "title": "World Hypertension Day 2026 - World Health Organization (WHO)",
-      "published": "2026-05-15T22:34:52+00:00",
-      "summary": "World Hypertension Day 2026&nbsp;&nbsp;World Health Organization (WHO)\"Silent Killer\": Doctor Shares Why High Blood Pressure Shows No Early Symptoms&nbsp;&nbsp;NDTVWorld Hypertension Day 2026: Experts Warn of Rising Hypertension Among Young Indians&nbsp;&nbsp;Daily PioneerRecor Medical Highlights Innovation and Global Action on World Hypertension Day 2026&nbsp;&nbsp;PR NewswireHypertension kills and it kills silently&nbsp;&nbsp;Dawn",
+      "id": "c5f94133ef88",
+      "title": "National Dengue Day 2026: Community Participation for Dengue Control: Check, Clean and Cover - News On AIR",
+      "published": "2026-05-16T05:01:00+00:00",
+      "summary": "National Dengue Day 2026: Community Participation for Dengue Control: Check, Clean and Cover&nbsp;&nbsp;News On AIR6 Common Dengue Myths Explained By Expert&nbsp;&nbsp;NDTVDengue among children in India: Clinical Complexity, Unfavourable Outcomes and the Role of Comorbid...&nbsp;&nbsp;Medical DialoguesDengue is no longer just a monsoon disease: Doctor explains why&nbsp;&nbsp;India TodayExpert suggests ways to prevent dengue on National Dengue Day 2026 | Tap to know more | Inshorts&nbsp;&nbsp;Ins",
       "sources": [
         {
-          "name": "World Health Organization (WHO)",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdGc3TEtwcEFkamlwajFuNjdkZWZVbm5FWmZaeWxudWRuRV9uX2g1Qmc5d0VrbzVLQmprMUVQUG5RUTlLcFN0OS1QYXg0VGh1TUJTYkx3Nks1NUsxNlNveTlZSVdrMlJQUnZfYnRBQXVJQUV1cFA3U3Y4WllvbG5QWExsZlJvYlVWaEdpbA?oc=5"
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXpaMUs3SUVGaEpnR2JQcFZ6MmI3NWxIcjVxam03bVByLXFWbmJxYjZuRVNPQnN2ejQybnB6WUlmQjFKYkhkVUdFd1hvLW1ELUNEYWlyazNjMWdOWVRaSHNqOXpUT0c5ZGNjQ25nRktFWkxvMGdReGwzNnVoc0M0eXY2akxFYjZFSDl3RFA1TjZvblNEOEhleG8wZUFhc19UZWd1elFleHBEbnBQTHpoYUNzM21lRGQxaGpj?oc=5"
         }
       ]
     },
     {
-      "id": "0a0e39f53c19",
-      "title": "CDC monitors Ebola outbreaks in Congo and Uganda, offers support - Investing.com India",
-      "published": "2026-05-15T19:46:55+00:00",
-      "summary": "CDC monitors Ebola outbreaks in Congo and Uganda, offers support&nbsp;&nbsp;Investing.com IndiaEbola outbreak kills 65 in eastern DR Congo's Ituri province&nbsp;&nbsp;BBCConfirmed Ebola outbreak in Congo, says African public health agency&nbsp;&nbsp;The HinduAfrica CDC Calls Urgent Regional Coordination Meeting Following Ebola Virus Disease Outbreak in Ituri Province, DRC&nbsp;&nbsp;Africa CDCAfrica's Top Health Body Confirms New Ebola Outbreak In Remote Congo Province&nbsp;&nbsp;NDTV",
+      "id": "8e927bdafcba",
+      "title": "High blood pressure may be damaging your brain: Doctors warn memory loss and stroke risks begin earlier than you think - The Times of India",
+      "published": "2026-05-16T04:30:00+00:00",
+      "summary": "High blood pressure may be damaging your brain: Doctors warn memory loss and stroke risks begin earlier than you think&nbsp;&nbsp;The Times of India\"Silent Killer\": Doctor Shares Why High Blood Pressure Shows No Early Symptoms&nbsp;&nbsp;NDTVWorld Hypertension Day 2026: Experts Warn of Rising Hypertension Among Young Indians&nbsp;&nbsp;Daily PioneerRecor Medical Highlights Innovation and Global Action on World Hypertension Day 2026&nbsp;&nbsp;PR NewswireHypertension kills and it kills silently&n",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQazJFQTNYSVRKdDZOWWp1aVUyeEJLZENLSzFIRWJpV01DdFcyMC1TRkYzeUc2a0NjQjNYeWJOemlqTk5CNmVRTGs5VmRzNTR3TnpGMGhteVVOUHJvWWtwRy1SVlFnV3VIU0VVTlNvR2s5YldZdEJ5SUZUakZUZnpISXRSdkdjenhFMHBhOVEwQ1FqejJBd0RyMnhTRkZOdXdjRDJkSGw1UFZDeWNjd1FGYzUtOXRPUVVfUVItOHY4NnVUVmdjYm5SQnZYbnFfbUlpdVFKc29jUG9nT2tHQTUxa2dFaWtxUy1vcnVFSWJEOTQzeWl3RHVFdWJxN3JZOWNKTC0wUnFIUXNYU0NzTWxzZWdOa9IBmwJBVV95cUxQZTFQa3g4dGJDWXdmSWpWZWttcHY3bXpDei1UX1Q3RVlPdDFjMFFLOTlqeE9lN19RMVJXTHBvYWxtdGVOSUlNZmhrMmd4MWc5cXpSS0d0UnNBNGdGS01VQmsxT1RmSTduY3F0Xy1jVmotblk5WTRrU18wTHpHSklvNklKVnRuQ0RTSnpaRWdBQV9kVnNwRnRnNDNEYUMyOEF5TzlGX3FsM2hYX3JqamUyc3kzTEF2WjFGVEtXWHg5V0F3UFFMYlpCTUFtMXhhR3hnWUdtZkxGeHN0NU5mTXR2LXVjYzB4bmN3WnBBbzlTelRqMDRILTdHZnFpeDdISHFydzJQS1hES2JkXy1NRU03OGVidmFoSGJYUzc4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d41c1add747b",
+      "title": "Hantavirus: Is there a risk of another pandemic? - Investing.com India",
+      "published": "2026-05-16T04:21:39+00:00",
+      "summary": "Hantavirus: Is there a risk of another pandemic?&nbsp;&nbsp;Investing.com IndiaHantavirus Outbreak Tests Post-Covid Health Communications Playbook&nbsp;&nbsp;NDTVHantavirus outbreak: When weather changes, the virus follows&nbsp;&nbsp;India TodayUnderstanding and preventing hantavirus: Expert insights&nbsp;&nbsp;news.cgtn.comHow climate change may be fuelling the spread of deadly Hantavirus that killed three on the MV Hondius&nbsp;&nbsp;The Times of India",
       "sources": [
         {
           "name": "Investing.com India",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUhsSWxFb05JM0d6Rkc0RzZVNzRnZHd3RHc4Y3ZMaUl3OUJjNTZjc0RreVMtUDE4dGItZzV2cUlJOVgwXzM0Vmpzd2MwZFNWeXJSalY0SnBsNm93QkVodk1kZWdFNVEwcERKWkRNTXJGR1RKLVJOajduMDh4bmFKR0oxSHNuLV9qbHVIcEw1Q2tlRnVRbmNrbVlPenRXbEl0WFRuM0ZjM3hUbFJVWHFSODZONkQ4dGZhYUZKb05sQ1Fndw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHlaTnd4TFFOZGZXQ0ZGWkRuWXVWTXBiSzJsWkVMOEpYazZENG4tcmhkT0JXbjhrLTEzMjAyeUV6bV8xVjhKSTlIVFdlcHJaS3ZNMnVQSUo1WXh2THpuU2VrT0t0OVl1a2hQakhpUU5Cb2Q0M0JYTVdRaTM4VXpaQWM0cS1iOTdvY0VSQktZbFhtSVFSc19BTHk1QXpjZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5a6b4899b793",
+      "title": "Indian Scientist Kuljeet Kaur Marhas Creates History, Becomes The First Indian Woman… - News18",
+      "published": "2026-05-16T04:00:19+00:00",
+      "summary": "Indian Scientist Kuljeet Kaur Marhas Creates History, Becomes The First Indian Woman…&nbsp;&nbsp;News18What This Indian Woman Discovered Will Change How We See Space&nbsp;&nbsp;Adda247Kuljeet Kaur Marhas Becomes First Indian Woman Fellow&nbsp;&nbsp;GK TodayMeet Kuljeet Kaur Marhas: First Indian woman elected Fellow of The Meteoritical Society for pioneering planetary research&nbsp;&nbsp;The Times of IndiaProfessor Kuljeet Kaur Marhas becomes first Indian woman to be elected as Fellow of the Mete",
+      "sources": [
+        {
+          "name": "News18",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNWlNSnE2cTFBRmZPcjJBVnd3RWpyWUJPelRsMXEzV3NrTXJlMVpLUDRwZWlaYzEyVnBLMVJoRnpLM201dXJ2U3Q3MFc4alVSYmI5VEYwSG5DVDVRa3JlbW84Um9HRVluWHRtU3dDMnBQeFRuVkVZdFpaRy02aXQtdklBbzU5amFjODRYRVkzYTU2TFdZV1ZLdU9wYWZUMDJuVDA5RE9JOE5YMzdPb1U5QURGVHFfWEF4M0pBNFVxMmlWa3VSSUlORnRvdXNwcHR6a3VBODh3dGhmbVRn0gHiAUFVX3lxTE44WGplenRBUWN6NTltRFdHLXV3ZlRTVUsxOU15MUVzVHY4bURDaTRLRHh1MzRKVHFVRE0zT05hYzVLVWJnS184WmgtUzRKWkhkZE85THN4Y3dsNEZDRG5ONkNsZGJjU3pOR0NtblZHRnR1SklsN3pIeTVXSW1kbXFOZ0VMaHZ4bjZBRkVwMl9ZSG84aDhHS2Q5NTFacGlUckhvNFp4RVJFa24zODhFOFhiQjVzalhtd0dBWUNLenNHWHg0Z2dpQmY2eFFKXzBWbVlFb290dU93MTJOZzhXSEJiR0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "76131bb6efbb",
+      "title": "Thailand declares Hantavirus “dangerous communicable disease; approves strict measures for compliance - News On AIR",
+      "published": "2026-05-16T01:07:54+00:00",
+      "summary": "Thailand declares Hantavirus “dangerous communicable disease; approves strict measures for compliance&nbsp;&nbsp;News On AIRThailand Declares Hantavirus A 'Dangerous Communicable Disease', Activates Elevated Action Plan&nbsp;&nbsp;NDTVThailand mandates 42-day hantavirus quarantine&nbsp;&nbsp;Bangkok PostThailand Strengthens National Health Surveillance as Global Hantavirus Alerts and WHO Cruise Ship Cases Raise Concerns Over Rodent-Borne Disease Spread and International Travel Risks – New Update",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbi03enYxdjNvendObFpkdDBwQy12SndWTkxUcENVVC1GbTFRMlNaVzlLakJCb0lrd1l2cXBKYXozTG1iOGFGSjUyZ09Gb3I4UWFqMmNoNE8xT1ZEdC1FZl9BMXhFU1ZKXzdMdDFwdXUwRUxuN2FQWG82aHhuZGdSMkFQZ1ZZNzBDd2FWRktsZkI5c2dsYzlpSFVwbnpzdkFtY1dFdk9yODFGUEVadzRQSUFQeDM0QW1XR0FWRTBpV1FzcnZOcDEtVw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "561ea46821c7",
+      "title": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries - cidrap.umn.edu",
+      "published": "2026-05-15T20:45:00+00:00",
+      "summary": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries&nbsp;&nbsp;cidrap.umn.eduSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "cidrap.umn.edu",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLXQ3ejJsZHNEVVlySTg4akxXTm82LUlsUTJ6dFBRdVhmYUtpdjI3RHJiRS1zTFU0eDkxdGdGVVM1OEVxOF8yM3NSTncwckxmTmtMM1ZwS3lXNWdTVTVHaGpXLUpDb3R4dk43ckVwUnJFYkhIcTZQRFRKZDJjSnNRMEhFNEx5VV92bWJROXQ3QkxYa3lyVW45VnhXQUpuVlN6blBfNGJUNG8yN2lxRFpZLTY0Q0tHd3FjLVlfTEVfNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "00bf104cb7d2",
+      "title": "CV Health May Slip More Than Realized During Perimenopause - TCTMD.com",
+      "published": "2026-05-15T20:19:48+00:00",
+      "summary": "CV Health May Slip More Than Realized During Perimenopause&nbsp;&nbsp;TCTMD.comMedical Bulletin 15/May/2026&nbsp;&nbsp;Medical DialoguesHeart disease risk climbs in menopausal women, experts push earlier, more aggressive care&nbsp;&nbsp;Inquirer.netNIH-Funded Research Achieves Key Milestone&nbsp;&nbsp;New York Institute of TechnologyWhat Happens to Your Blood Pressure During Perimenopause&nbsp;&nbsp;Verywell Health",
+      "sources": [
+        {
+          "name": "TCTMD.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNblU4UUVGS2RsNmtNUmdwdEtHazZrSlFUX2ZQZUU2bmxlUS1idjRGUDJ3bDlNQjExc2poVVpEWnFVNXg5blN3a2g4N29IMHVQdW9Wekwxd1Bwelh0RzNTU1pnRDRGVy1YUWpRR3Y1SmswM1RLSjRaM2pzbDlmakE1UkZZWnFGOWs?oc=5"
         }
       ]
     },
@@ -62,6 +122,30 @@
         {
           "name": "Inside Precision Medicine",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdThsZGJXSUlUUmhPU2JJMldDb2p4a3hUb1lUUlppTXloVUpQTkdQdE5nX25QZWVTQ0NBeW5vbjdjOUtkNGZpdlpCdjctV3QxOGowc2hRYW5yUUF0anFTLUl0dW96LTJPc2ZwcXNPcWNzZVJZdGNHSEVDNnhxRWdXeERUcEViZUZtcXVhOXQ1X2ZzYmtpcXNqeXp6Q0xXN3VQNjVaWi1IVERPMVJpRWR0ZUstQ2dtX0VQSTkxaEY4aWNNQXVmOG9XLXc3V0xQN1Zwd1hTSzBvUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "699b72d0401c",
+      "title": "HIV prevention and treatment services faltering, warns UNAIDS - The European Sting",
+      "published": "2026-05-15T19:06:59+00:00",
+      "summary": "HIV prevention and treatment services faltering, warns UNAIDS&nbsp;&nbsp;The European StingSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "The European Sting",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3JvZGJWZ21aTHhfQVBUQzVGWHZFSE9naTJXTGJiUTRFVGxBQ0xENVlPeXM0V1JxdXFESVYyQkpRNVNBcWJHalNvVjNHUExyQ2NoNFJxYmM4cmNIVDNMaEU0YzVORXh3TEJCVkx5SWVubURzd253M2hiM3FIdlM1ZWFiLUM1dXRQT3l6OU9GaUt4WS15UE9wbXpGbk0yTFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "741f55f14eb5",
+      "title": "Between 6.4 and 7.8 hours of sleep may aid healthy aging, longevity - Medical News Today",
+      "published": "2026-05-15T18:40:18+00:00",
+      "summary": "Between 6.4 and 7.8 hours of sleep may aid healthy aging, longevity&nbsp;&nbsp;Medical News TodaySleep chart of biological ageing clocks in middle and late life&nbsp;&nbsp;NatureSleep Duration Linked to Accelerated Aging&nbsp;&nbsp;Neuroscience NewsThe sleep sweet spot: Study links six to eight hours of slumber with slower biological ageing&nbsp;&nbsp;Down To EarthScientists Reveal How Many Hours Of Sleep Could Keep You Younger&nbsp;&nbsp;NDTV",
+      "sources": [
+        {
+          "name": "Medical News Today",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRTloeFNXMkpfTTlpUTBNTjlnbDhwXzZqX0l1dTU4NzMteGJDNnpvdlpRLTRQYlphSWtackYwM2R1VDVNZDNNWk9KdUFUckFKbm53NjhYVlhtc3ZMRU4xNWszVmlocVVFcTdUekJlQUEweVhBMjRaMUtWdjhwZUZ3eWFsbnlrakNaWlU5OFY0OFBRdUo4V0tQNV91M3NPdG5adU9BQW9sZmJPODRKT0VSZg?oc=5"
         }
       ]
     },
@@ -81,7 +165,7 @@
       "id": "0cae668a1aac",
       "title": "Engineered Bacteria Safely Deliver Drugs Without Infection, New Study in Science Shows - geneonline.com",
       "published": "2026-05-15T17:36:44+00:00",
-      "summary": "Engineered Bacteria Safely Deliver Drugs Without Infection, New Study in Science Shows&nbsp;&nbsp;geneonline.comMaterializing Safe, On-Demand, Living Therapeutics&nbsp;&nbsp;Harvard School of Engineering and Applied SciencesImplantable bacteria can now be safely contained, clearing a major hurdle for fighting infection and cancer&nbsp;&nbsp;Phys.orgImplantable ‘living materials’ that deliver drugs on demand could help fight infections&nbsp;&nbsp;Scientific AmericanEngineered Bacteria in Implanta",
+      "summary": "Engineered Bacteria Safely Deliver Drugs Without Infection, New Study in Science Shows&nbsp;&nbsp;geneonline.comMaterializing Safe, On-Demand, Living Therapeutics&nbsp;&nbsp;Harvard School of Engineering and Applied SciencesImplantable bacteria can now be safely contained, clearing a major hurdle for fighting infection and cancer&nbsp;&nbsp;Phys.orgEngineered Bacteria in Implantable Living Materials Enable Autonomous Therapeutic Delivery&nbsp;&nbsp;Bioengineer.orgImplantable ‘living materials’ t",
       "sources": [
         {
           "name": "geneonline.com",
@@ -105,11 +189,23 @@
       "id": "210c238f992a",
       "title": "bangladesh measles outbreak worsens with 12 more deaths; total fatality toll reaches 450-News in Hindi - UNITED NEWS OF INDIA",
       "published": "2026-05-15T16:21:18+00:00",
-      "summary": "bangladesh measles outbreak worsens with 12 more deaths; total fatality toll reaches 450-News in Hindi&nbsp;&nbsp;UNITED NEWS OF INDIABangladesh: Measles outbreak claimed 9 more deaths during 24 hrs&nbsp;&nbsp;News On AIRSeven more children die from measles and measles-like symptoms&nbsp;&nbsp;The Daily StarDeath toll from measles and symptoms tops 450&nbsp;&nbsp;Jagonews24.comA Man-Made Massacre: How Administrative Negligence Ignited Bangladesh’s Measles Outbreak&nbsp;&nbsp;albd.org",
+      "summary": "bangladesh measles outbreak worsens with 12 more deaths; total fatality toll reaches 450-News in Hindi&nbsp;&nbsp;UNITED NEWS OF INDIABangladesh: Measles outbreak claimed 9 more deaths during 24 hrs&nbsp;&nbsp;News On AIRFour children contract measles one after another; poor family sinks into debt&nbsp;&nbsp;Dhaka TribuneA Man-Made Massacre: How Administrative Negligence Ignited Bangladesh’s Measles Outbreak&nbsp;&nbsp;albd.orgDeath toll from measles and symptoms tops 450&nbsp;&nbsp;Jagonews24.c",
       "sources": [
         {
           "name": "UNITED NEWS OF INDIA",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWl6ZmFQMkM3bDhjTXRjX0VXWXdGR3Nnd2VaSlBqa2hBVnE2RDlhLVpUamstV1h5TFZiaHBFb0dOaU1keWhhVl9jc0hBOERpUzh2Z1pKTEV3OG1jOTFJRFNLYzZQMVVRcFBPOFBrZmFveGxVQTJMR3ZTblIwSTNPWlhpRXh5czNCanR1VVJmNlRpYXpLaVJ2bHc1aGJMQzNiMl9vNjhzM3RPQXBvd3lwRFJoZzNiVXJvUVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20eb79dea1b1",
+      "title": "Neoadjuvant Pembrolizumab Challenges Standard of Care in High-Risk Colorectal Cancer - Pharmacy Times",
+      "published": "2026-05-15T16:15:26+00:00",
+      "summary": "Neoadjuvant Pembrolizumab Challenges Standard of Care in High-Risk Colorectal Cancer&nbsp;&nbsp;Pharmacy TimesNeoadjuvant Single-Cycle Pembrolizumab for Stage I to III dMMR Colon Cancer&nbsp;&nbsp;The ASCO Post",
+      "sources": [
+        {
+          "name": "Pharmacy Times",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNVp2S2ZleUNIa21GbmhjeUVJNEVzeWYycnVVdmFrRV81bkpTMTYwVTlpMURJanFvUUc2NW92VlFucGo4c0N3Q1N1VEhNSU92RzZJR2tkWjExR1FNUzNTOU53cnhsSzl4eFNJQ0lPSUVSb0Ryb1NNX0JlSHBfRGExbDNwd2ljMlYtZWpMTjdvUG1iM0RHODBMLU02RHVpb3NjalozUDkwbjlITWdHQ3U0SnVDbktVckRHckZZ?oc=5"
         }
       ]
     },
@@ -129,7 +225,7 @@
       "id": "4d3488c5f9e8",
       "title": "Weight Gain & Cancer Risk; Steppin' Out After Surgery; Depression in Ovarian Cancer - MedPage Today",
       "published": "2026-05-15T15:40:19+00:00",
-      "summary": "Weight Gain & Cancer Risk; Steppin' Out After Surgery; Depression in Ovarian Cancer&nbsp;&nbsp;MedPage TodayWeight gain in adulthood linked to a fivefold risk of certain cancers&nbsp;&nbsp;The Times of IndiaObesity doubles cancer risk, new research shows&nbsp;&nbsp;The NationalStudy shows that people who gain the most weight are at more than double the risk of certain cancers&nbsp;&nbsp;Medical XpressWeight gain in twenties ‘can increase cancer risk fivefold’&nbsp;&nbsp;The Times",
+      "summary": "Weight Gain & Cancer Risk; Steppin' Out After Surgery; Depression in Ovarian Cancer&nbsp;&nbsp;MedPage TodayWeight gain in adulthood linked to a fivefold risk of certain cancers&nbsp;&nbsp;The Times of IndiaStudy shows that people who gain the most weight are at more than double the risk of certain cancers&nbsp;&nbsp;Medical XpressWeight gain between ages 17 and 60 linked to higher cancer risk in major study&nbsp;&nbsp;Mugglehead Investment MagazineMiddle-aged spread can raise the risk of cancer",
       "sources": [
         {
           "name": "MedPage Today",
@@ -165,7 +261,7 @@
       "id": "b8d02bf9b673",
       "title": "Satellite launches pollute atmosphere. It leads to less sunlight on Earth, says London study - ThePrint",
       "published": "2026-05-15T13:23:25+00:00",
-      "summary": "Satellite launches pollute atmosphere. It leads to less sunlight on Earth, says London study&nbsp;&nbsp;ThePrintLasers shine a new light on the space junk air pollution problem&nbsp;&nbsp;SpaceSatellite launch pollution is rapidly accumulating in the upper atmosphere&nbsp;&nbsp;Phys.orgScientists Spot Rare Atmospheric Signature Tied to Space Debris Reentry&nbsp;&nbsp;The Daily GalaxyStarlink-style satellite constellations could drive 42% of space pollution by 2030&nbsp;&nbsp;Engineering and Tech",
+      "summary": "Satellite launches pollute atmosphere. It leads to less sunlight on Earth, says London study&nbsp;&nbsp;ThePrintLasers shine a new light on the space junk air pollution problem&nbsp;&nbsp;SpaceScientists Spot Rare Atmospheric Signature Tied to Space Debris Reentry&nbsp;&nbsp;The Daily GalaxyRocket Soot In The Sky: How The Satellite Boom Is Changing Earth’s Atmosphere&nbsp;&nbsp;StudyFindsStarlink-style satellite constellations could drive 42% of space pollution by 2030&nbsp;&nbsp;Engineering and",
       "sources": [
         {
           "name": "ThePrint",
@@ -237,11 +333,23 @@
       "id": "b2911d95fb57",
       "title": "Polycystic ovary syndrome renamed ‘polyendocrine metabolic ovarian syndrome’ to reflect complex hormonal condition affecting 170 million women - Labmate Online",
       "published": "2026-05-15T12:30:00+00:00",
-      "summary": "Polycystic ovary syndrome renamed ‘polyendocrine metabolic ovarian syndrome’ to reflect complex hormonal condition affecting 170 million women&nbsp;&nbsp;Labmate OnlinePolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine Society'The name was inaccurate': PCOS gets a new name after years-long effort&nbsp;&nbsp;Live ScienceFrom Fertility To Full-Body Health: What PMOS Really Means For Women In Their",
+      "summary": "Polycystic ovary syndrome renamed ‘polyendocrine metabolic ovarian syndrome’ to reflect complex hormonal condition affecting 170 million women&nbsp;&nbsp;Labmate OnlinePolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine Society'The name was inaccurate': PCOS gets a new name after years-long effort&nbsp;&nbsp;Live ScienceThe condition PCOS is now called PMOS. What to know about the name change and",
       "sources": [
         {
           "name": "Labmate Online",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPRUNzYmNSdWpHOThBbVNIV1BSdlBheGxwdFhqZVlmQlc1SmtIMTVhR0R5WENkMmtkYWhqQTU0cC0yenowdGlqZTdwTFJqcjVnWmVSY214c0JOa01iZk44VEJoc1NhRmt5VWlfbkNwcG1qb1Y5MjhzRXpiNERTSmRReUwzdzV6cjhOUjM4bjBkNlRrRE1qRDlvNjFSMHBFQ19Bak02dkxxcXhialplUVlKdHEyVUtNd3dPR2Y0eWNOcnJsMlJzWXNjU2xEamtuSWNnUllFczZLT0lQTXNmNG43Yjc4a05EWENya1lfcXdiVWNNYXEwWlJPLVc1Sm8weHNZOG5wWnpQVC01VjMwYmMtSDR3OVBIWVNWZV8wTjVKbnVjdjc1SFBuM2V1UDZKM3NvVVA3QklFV0RCcV94bXJEaU9rY01mQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "84d02b28302d",
+      "title": "Changes in body fat due to obesity can contribute to Alzheimer’s disease: Study - Daily Excelsior",
+      "published": "2026-05-15T12:08:27+00:00",
+      "summary": "Changes in body fat due to obesity can contribute to Alzheimer’s disease: Study&nbsp;&nbsp;Daily ExcelsiorChanges In Body Fat Due To Obesity Can Contribute To Alzheimer's Disease: Study&nbsp;&nbsp;NDTVStudy suggests obesity-related phosphatidylethanolamines may accelerate Alzheimer's disease progression&nbsp;&nbsp;NewsBytesObesity may speed up Alzheimer’s by disrupting brain immunity, new study finds&nbsp;&nbsp;Moneycontrol.comLinking Obesity to Alzheimer's: New Pathways Discovered&nbsp;&nbsp;De",
+      "sources": [
+        {
+          "name": "Daily Excelsior",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlJyWUpFMXFnOVJ5VDQzR2w5ZnVBVFB0cjZNcGNKMzJhRnA0aWtXeG5McWNEbFNTTDZaQmpKYmQ3QWoweXBobGJDUkxYdzJlSWE2SUZhS1BZUXRmdV93Vjl6VE1SN2d5ck5WLWlNcUxUWWVFRDhzaU9ybVNQd0ZGVUFhakRuVHpzdEIwOTRTX05NajdhYnZ1OEtKWlVIX3R0MldoNkF6b1FDZ0hjNWc?oc=5"
         }
       ]
     },
@@ -258,18 +366,6 @@
       ]
     },
     {
-      "id": "ec5c3d897e3a",
-      "title": "Thailand declares hantavirus ‘dangerous communicable disease’ - The Hans India",
-      "published": "2026-05-15T11:34:46+00:00",
-      "summary": "Thailand declares hantavirus ‘dangerous communicable disease’&nbsp;&nbsp;The Hans IndiaThailand Declares Hantavirus A 'Dangerous Communicable Disease', Activates Elevated Action Plan&nbsp;&nbsp;NDTVThailand mandates 42-day hantavirus quarantine&nbsp;&nbsp;Bangkok PostThailand Strengthens National Health Surveillance as Global Hantavirus Alerts and WHO Cruise Ship Cases Raise Concerns Over Rodent-Borne Disease Spread and International Travel Risks – New Update You Need to Know&nbsp;&nbsp;Travel A",
-      "sources": [
-        {
-          "name": "The Hans India",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcl9zUHdhY3NHLUluMU1aTC1iZTRxNGFJeE5fTGxCUnZHLUNJZC1ieEVQbEhtX2JDLVZCVFktVkdCT2tIUVE1M1F1bS03SmhjMEFhcnFtaVkzSHJmd3phSWEwdzdxai04SHZBRnVSTVRyWUZ1dTFqeDNLYmtacDhHdXpTLU5YVHZ1UFdZRDRnMFhVbnlnVHNvazRNTEJVMk5TXzZmYnpSTVNxNE1NUHE5NnYzZVNYQdIBuwFBVV95cUxNVTBaQW9QYmU1MWpoU2RGWUFITEUwZjc5S2lDY3g1S2Y3SG9iRTRuZlNMOE1uekgwUWhZd3I4am9RSWhfZUliX2RBbHQzSXhnaE9OX2UyNGM2X01pN091QVNJRktQYmhGTzdwQnNidUZubzFHMlRWUms0NXdPRDE0eFY0RkVvb1BuNXJOZVgxQVdrZXdwVTQxUHp0S3FPTDNrN01PRWtZeWlKZm9mU3pkWUg1TTBFVXZtYmNj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4c6c59c6c67e",
       "title": "MALDI Imaging Advances Rare Ampullary Cancer Diagnosis - EMJ",
       "published": "2026-05-15T11:05:46+00:00",
@@ -278,30 +374,6 @@
         {
           "name": "EMJ",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWNDV0hERHpqTGtLMml6UEU2MWlaTFNtTnFhNzMxU0RtekotR0tLNmYzbGszTDh5eFFXbjhaNFM1X2NpcmZNNHFPOUlvbVhIUDR4WlJhWTduMzV1WncwWFBfRmM3dEtuSDZFNGdlV2Z0ZzMwVTNlYlBoLTN0bjhOTW5rLWJKZHlSUDZCdlVGMU5RQ0FmYnBKYzBVd3A?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51a9b588eed9",
-      "title": "One in five people may carry this hidden cholesterol risk without knowing it - ScienceDaily",
-      "published": "2026-05-15T10:40:42+00:00",
-      "summary": "One in five people may carry this hidden cholesterol risk without knowing it&nbsp;&nbsp;ScienceDailyWhy lipoprotein(a) cholesterol is gaining attention as an indicator of heart health&nbsp;&nbsp;Scroll.inHigh Lipoprotein(a) Levels Linked to Increased Cardiovascular Risk, suggests research&nbsp;&nbsp;Medical DialoguesThis lesser-known cholesterol can quadruple your heart-attack risk&nbsp;&nbsp;National GeographicElevated Lipoprotein(a) Linked to Increased Cardiovascular Risk Despite Standard Trea",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yWXNrN1lSaGQ1NFBMUkdra0JwVVFWckplN2pzQjM5V1FlZ3drTUZaZERGdk9DUl9Sejl1d3dXWl9UYVRndURuYmduQkN5RUJ0ejBzc29jMFVZVlU4Vi1NN3c1ZTloemFrVVB0d3Fzaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1423587debda",
-      "title": "Here’s why Hantavirus won’t create the next pandemic - The News Minute",
-      "published": "2026-05-15T10:22:28+00:00",
-      "summary": "Here’s why Hantavirus won’t create the next pandemic&nbsp;&nbsp;The News MinuteHantavirus Outbreak Tests Post-Covid Health Communications Playbook&nbsp;&nbsp;NDTVHow climate change may be fuelling the spread of deadly Hantavirus that killed three on the MV Hondius&nbsp;&nbsp;The Times of IndiaHealth watch | The Hantavirus scare: Beware of the rodents&nbsp;&nbsp;India TodayExperts Warn Hantavirus Outbreak Signals Rising Risk of Future Global Disease Spillovers&nbsp;&nbsp;Medical Dialogues",
-      "sources": [
-        {
-          "name": "The News Minute",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQW40TlRnN0hPeGVYbTRPUmpfTDlzZElhUExPZDBDQXlYeGJzLTlGenVDN3dWSkI0VnZvQ2M4MjAzNVV0aGoxekMzdGxibE1vVldubG9qaGpzTGdORXNYNEFBQzZHRUZjOFdkT01zQnpycVdnUENFOHlWc2w1dExHV19TVXNzaDVhSEpCcTlwVE1WanNRS3NZWmZpZXZpZnpFLTVCV0ZOMHdOdXJLNmpkTEZPRFlZamtGd0U1Tkx2cERzbWMzT0HSAdMBQVVfeXFMUEJDdVMtY2FDRzVfV21ISEZfY0FfUHFDVWY1QkxlNmNjTG0tcHJFT1U1Y0RnYUg4cUdsQWt3a3k4YXBiYU53elBrRGh1QlQ3alR5YzdtejdoZndlRElWSU85RlNodHdra0pxRUVIcm9vRFVpYUhwYkdZT2NxZnNuSThUTmx4eS1IRmdtU0Q1d3BMNlZGYjY3SlY0REFlTTlmSGcxZ21ZS1hidjdQNG9xUXVwMUtqY3pSVUs5aExmZFBxcTZjQy1ISUFfR0gxRlYtX3lVaw?oc=5"
         }
       ]
     },
@@ -333,7 +405,7 @@
       "id": "a6cbe76fbc03",
       "title": "No Clear Autism Link To Antidepressant Use During Pregnancy : Study Finds - Deccan Chronicle",
       "published": "2026-05-15T05:42:44+00:00",
-      "summary": "No Clear Autism Link To Antidepressant Use During Pregnancy : Study Finds&nbsp;&nbsp;Deccan ChronicleConcerns over antidepressants and pregnancy have grown. New study offers reassurance&nbsp;&nbsp;CNNNo clear autism link to antidepressant use during pregnancy, large study finds&nbsp;&nbsp;ReutersMeta-analysis: No causal link between antidepressant use in pregnancy and neurodevelopmental disorders&nbsp;&nbsp;Contemporary OB/GYNAntidepressant Use in Pregnancy & Autism/ADHD in Children: Most Compre",
+      "summary": "No Clear Autism Link To Antidepressant Use During Pregnancy : Study Finds&nbsp;&nbsp;Deccan ChronicleConcerns over antidepressants and pregnancy have grown. New study offers reassurance&nbsp;&nbsp;CNNAntidepressant use during pregnancy not tied to autism: Study | Daily Sabah&nbsp;&nbsp;Daily SabahMeta-analysis: No causal link between antidepressant use in pregnancy and neurodevelopmental disorders&nbsp;&nbsp;Contemporary OB/GYNAntidepressants in Pregnancy: What a New Study Found&nbsp;&nbsp;MedPa",
       "sources": [
         {
           "name": "Deccan Chronicle",
@@ -342,14 +414,14 @@
       ]
     },
     {
-      "id": "e78e05304cae",
-      "title": "Changes in body fat due to obesity can contribute to Alzheimer's disease: Study - Press Trust of India",
-      "published": "2026-05-15T05:21:03+00:00",
-      "summary": "Changes in body fat due to obesity can contribute to Alzheimer's disease: Study&nbsp;&nbsp;Press Trust of IndiaSee more headlines and perspectives on Google News",
+      "id": "0105fd369354",
+      "title": "A grad student’s wild idea sparks a major aging breakthrough - ScienceDaily",
+      "published": "2026-05-15T04:52:12+00:00",
+      "summary": "A grad student’s wild idea sparks a major aging breakthrough&nbsp;&nbsp;ScienceDailyTargeting Mitochondrial Pathways To Reverse Cellular Senescence&nbsp;&nbsp;Technology NetworksCellular senescence: from pathogenic mechanisms to precision anti-aging interventions [IMAGE]&nbsp;&nbsp;EurekAlert!The hunt for cancer cells: a new medical breakthrough&nbsp;&nbsp;ioplus.nlMayo Clinic Researchers Use DNA Aptamers to Identify Senescent \"Zombie Cells\"&nbsp;&nbsp;SSBCrack",
       "sources": [
         {
-          "name": "Press Trust of India",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWJCYnRXdTZOR0RQSUdNUDhIUElWTkJSbDdaZkRfRkc1S2lsbS1pRzFuLUZTVW9HcVF5cW9sMk0wenpUMjlBb01tYzhSUk5NcDRrUFRQUHhnM2szSEQ4X0JtRWpYWDhiWVVYaVdlRVktTWtra1JsdXA4UXlJSVVRVW9RS2hzQXpJdXYyWHdwRVl3c2M0UUtOdUxfYVpzZFhCR005bWVwY2hQQktjaG16U2JCYTh1azNCOUpDbWF2Ul9WZw?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54VGVYOWtoRTVVNElaTUpSNm9jMHVCQ2RDX0tVNHVBVGxhTko4UmRwTGY0UHpCR1lnOG5LTDBWbmo2enRDUDQ1aHBMQmJLM2JXMDE4MFJFU3B3cmE4SzZVWnFzZUl3M240ZmNVbjdLMA?oc=5"
         }
       ]
     },
@@ -369,23 +441,11 @@
       "id": "b07ed830e359",
       "title": "How Andes virus super-spreaders reveal the risk behind the MV Hondius hantavirus cluster - News-Medical",
       "published": "2026-05-14T22:14:00+00:00",
-      "summary": "How Andes virus super-spreaders reveal the risk behind the MV Hondius hantavirus cluster&nbsp;&nbsp;News-MedicalDid Hantavirus Start In Argentina's 'End Of The World' City? Ushuaia Denies Link&nbsp;&nbsp;NDTVHanta-Panic: Yet Another Rat on the Deck | by Ricky Lanusse | Southern Winds | May, 2026&nbsp;&nbsp;MediumDid a bird-watching visit to this Argentine landfill spark the cruise ship hantavirus outbreak? Experts raise doubts&nbsp;&nbsp;Scientific AmericanThe Current Andes Hantavirus Situation ",
+      "summary": "How Andes virus super-spreaders reveal the risk behind the MV Hondius hantavirus cluster&nbsp;&nbsp;News-MedicalArgentina to launch hantavirus fact-finding probe in Ushuaia&nbsp;&nbsp;ET HealthWorldHanta-Panic: Yet Another Rat on the Deck | by Ricky Lanusse | Southern Winds | May, 2026&nbsp;&nbsp;MediumScientists race to understand Andes hantavirus strain&nbsp;&nbsp;Buenos Aires TimesDid Hantavirus Start In Argentina's 'End Of The World' City? Ushuaia Denies Link&nbsp;&nbsp;NDTV",
       "sources": [
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajZqWkdFa1RKT3hoY29hY3JqRk9BVzZJbWdjanlXSEU1cW44WEVjTFZjLTNraWQ2czhaSnJjNEFqVUlwX192MTdPdFlsZmtTYThoUW9CcGgxM3B5MExEbWxOaE5XX2tXNUh5TzFuSm5BYlZoVmxrOHFFc1JmdEZWNGs0OVVhd0xrbDQ5bGpRY0VyTE53MlV1QVZNR2YwTWhkVmM3b2ZxVEJheUFtNllxQkpCTnBPZTJHYk5Qbm5TNnR0SDJxLVRQRWRRZzlndnJ3aXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a43529b77209",
-      "title": "HIV prevention and treatment services faltering, warns UNAIDS - Welcome to the United Nations",
-      "published": "2026-05-14T21:04:26+00:00",
-      "summary": "HIV prevention and treatment services faltering, warns UNAIDS&nbsp;&nbsp;Welcome to the United NationsFunding cuts push HIV patients to the brink in T&nbsp;&nbsp;The Times of IndiaUN high-level meeting highlights Azerbaijan’s experience in inclusive urban planning&nbsp;&nbsp;Azərtac‘Stronger together to end AIDS’ is the resounding call at the International Francophone Conference on HIV&nbsp;&nbsp;UNAIDSHIV prevention, treatment services faltering, UNAIDS warns&nbsp;&nbsp;Nigerian NewsDirect",
-      "sources": [
-        {
-          "name": "Welcome to the United Nations",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80M1p0QjQzSTd3elVwWnRqVnNCbHVVZjQ0NlpRazliVW8zZURzQ0lDeHZzSlRqWG4xSEozMHBjRkdQeXI4X0NnMUVCbjcwUXd1VElLMGNjaw?oc=5"
         }
       ]
     },
@@ -402,10 +462,22 @@
       ]
     },
     {
+      "id": "224900deb177",
+      "title": "Antibody fine specificity correlates with protection from malaria for the RTS,S vaccine in young African children: A post hoc analysis of a phase IIb randomised controlled trial - PLOS",
+      "published": "2026-05-14T18:12:10+00:00",
+      "summary": "Antibody fine specificity correlates with protection from malaria for the RTS,S vaccine in young African children: A post hoc analysis of a phase IIb randomised controlled trial&nbsp;&nbsp;PLOS",
+      "sources": [
+        {
+          "name": "PLOS",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlNwM0lPOVBzNzVwUG5Cd0hfQUhray1TOWh2VGFoRThqbTBfTC1mUlhUYU1GMllnbDlPQlVzR3lBZkJpQWxvTGthY3I0eVg2LWFYT1QzUk1oNjUtcHhwQTZSX3pYVWhaMVpZMHlqSld4MXg0OUpnSW5vRWllZW9oNi1uaW0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "62451894da38",
       "title": "Grand Rounds May 8, 2026: Prevention of Urinary Stones with Hydration: A Randomized Adherence Trial (Charles Scales, MD, MSHS) - Rethinking Clinical Trials",
       "published": "2026-05-14T17:46:07+00:00",
-      "summary": "Grand Rounds May 8, 2026: Prevention of Urinary Stones with Hydration: A Randomized Adherence Trial (Charles Scales, MD, MSHS)&nbsp;&nbsp;Rethinking Clinical TrialsThe 6 Best Ways to Prevent Kidney Stones, According to a Urologist&nbsp;&nbsp;Hartford HospitalAsk the doctors: Diet and hydration can slow kidney stone development&nbsp;&nbsp;Daily HeraldHEALTH WATCH: KIDNEY STONES ON THE RISE&nbsp;&nbsp;tv6tnt.comCan drinking more water prevent kidney stones? Study says no. See what really helps&nbs",
+      "summary": "Grand Rounds May 8, 2026: Prevention of Urinary Stones with Hydration: A Randomized Adherence Trial (Charles Scales, MD, MSHS)&nbsp;&nbsp;Rethinking Clinical TrialsThe 6 Best Ways to Prevent Kidney Stones, According to a Urologist&nbsp;&nbsp;Hartford HospitalAsk the doctors: Diet and hydration can slow kidney stone development&nbsp;&nbsp;Daily HeraldHEALTH WATCH: KIDNEY STONES ON THE RISE&nbsp;&nbsp;tv6tnt.comKidney stones can be prevented by drinking more water? Urologist says it’s not that sim",
       "sources": [
         {
           "name": "Rethinking Clinical Trials",
@@ -414,14 +486,14 @@
       ]
     },
     {
-      "id": "b6db66838d61",
-      "title": "Children Eating Over 30% Ultra-Processed Foods Face Nearly Fourfold Asthma Risk - geneonline.com",
-      "published": "2026-05-14T16:47:19+00:00",
-      "summary": "Children Eating Over 30% Ultra-Processed Foods Face Nearly Fourfold Asthma Risk&nbsp;&nbsp;geneonline.comAsthma Risk and Ultra-processed Foods&nbsp;&nbsp;respiratory-therapy.comHigher UPF Intake Tied to Increased Asthma Risk for Children&nbsp;&nbsp;Physician's WeeklyUltraprocessed Food Intake Tied to High Asthma Risk in Kids&nbsp;&nbsp;MedscapeUltra-Processed Foods May Increase Childhood Asthma Risk&nbsp;&nbsp;EMJ",
+      "id": "a527cea69d29",
+      "title": "NASA Reveals New Details About Artemis 3—and It’s a Bit Weird - Gizmodo",
+      "published": "2026-05-14T17:20:28+00:00",
+      "summary": "NASA Reveals New Details About Artemis 3—and It’s a Bit Weird&nbsp;&nbsp;GizmodoNASA Outlines Preliminary Artemis III Mission Plans&nbsp;&nbsp;NASA (.gov)Artemis 3 astronaut test flight will be 'one of the most highly complex missions NASA has undertaken.' These new details reveal why.&nbsp;&nbsp;SpaceArtemis III: Nasa plans complex Earth orbit trial for Moon missions&nbsp;&nbsp;The Indian ExpressNasa to launch four astronauts on Artemis 3 mission. They will not go to the Moon&nbsp;&nbsp;India T",
       "sources": [
         {
-          "name": "geneonline.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnJLN0VIb2hYOGJwSXMtM1pHamh5TkRCU0hOQ2V6Z0wycUh1MXdpVHUwSmt4cjFfdktrTDMzYm9JeDJVeXQtZEZMbzltcmM2UDdUaldjaGhINHVUMzI1enRiRmhkQ1lYYkt0T3ljcWE0TDlPVkVSMTVXSFlmY2xQS2xBS0dQLWlqX2R6ejZzbVBQdXhiemp0MDN1QzlEZnNyTHhJTUpUZXBWQQ?oc=5"
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFFQc2xPb0lJQzA1eUdnajVhSk13dXltTndyNWxWWVB0SERCX2UtWW5taTB1U3B4YkhvZzB1ZnlEakZuemE4NXp0LWNucW43aW1kSGlmRDJpZkxLZ19vT0htMTlkWUR6VkZfXzI3MWVhVFhxSl9wVTBfbHF2N05WOXFfbk5lWU9YMXhZLTNCcEVJVS1ZLWc?oc=5"
         }
       ]
     },
@@ -513,7 +585,7 @@
       "id": "fae65251d89c",
       "title": "Science Now Says Your Brain Wasn’t Empty When You Were Born and It’s Been Rewiring Itself Ever Since - Indian Defence Review",
       "published": "2026-05-14T13:00:00+00:00",
-      "summary": "Science Now Says Your Brain Wasn’t Empty When You Were Born and It’s Been Rewiring Itself Ever Since&nbsp;&nbsp;Indian Defence ReviewSee more headlines and perspectives on Google News",
+      "summary": "Science Now Says Your Brain Wasn’t Empty When You Were Born and It’s Been Rewiring Itself Ever Since&nbsp;&nbsp;Indian Defence ReviewYour Brain Starts Overloaded Then Cuts Itself Down for Better Memory&nbsp;&nbsp;SciTechDailyIs The Brain Born 'Blank' or 'Full'? New Study Reveals a Surprise&nbsp;&nbsp;ScienceAlertThe brain's memory center doesn't start as a blank slate, study suggests&nbsp;&nbsp;Live ScienceAre Humans Really Born With Empty Brains? Science Has an Answer.&nbsp;&nbsp;VICE",
       "sources": [
         {
           "name": "Indian Defence Review",
@@ -525,23 +597,11 @@
       "id": "2b8d6d126013",
       "title": "NASA’s Curiosity rover had a Martian rock stuck on its arm for days; here’s how it finally came off - The Times of India",
       "published": "2026-05-14T12:41:00+00:00",
-      "summary": "NASA’s Curiosity rover had a Martian rock stuck on its arm for days; here’s how it finally came off&nbsp;&nbsp;The Times of IndiaNASA's Curiosity Rover Unexpectedly Uproots Rock During Drill On Mars&nbsp;&nbsp;NDTVCuriosity Shakes Loose a Pesky Rock&nbsp;&nbsp;NASA (.gov)NASA’s Curiosity rover examines rock in which its drill got stuck&nbsp;&nbsp;News9liveMartian rock puts University of Guelph instrument at risk&nbsp;&nbsp;CTV News",
+      "summary": "NASA’s Curiosity rover had a Martian rock stuck on its arm for days; here’s how it finally came off&nbsp;&nbsp;The Times of IndiaNASA's Curiosity Rover Unexpectedly Uproots Rock During Drill On Mars&nbsp;&nbsp;NDTVCuriosity Shakes Loose a Pesky Rock&nbsp;&nbsp;NASA (.gov)NASA's Curiosity records 1st 13kg rock stuck to drill&nbsp;&nbsp;NewsBytesMartian rock puts University of Guelph instrument at risk&nbsp;&nbsp;CTV News",
       "sources": [
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZjhxazZac3VOY2FyTm15TFNIaGc2anczbmdXNzZoSGZzbk92VHVRcjctRnhmc3ZpbXRIZEN4QkVETzd0X3J4Um5HNEx0UktVWWY5WjludzhvX0l4eTBmTnhRWS15MmhrTEdPR29vNkNCUHgzYzdfQ0JlVkllZnU2WE11bFZYdExTN1lRR0VnYkVfbUZkTEg2RUZ2OWI2bHVMSXltUWNuMXpjaGliQWlDanFhX0pnRVU1NHZ6RS0xdkYtVnRqUERpaGxaZGdRTmdkM0I1bE1icHlDN3FWTjMteHlkVEFhemUtdHRSUmpDdW0temw5Zi14WTNB0gH_AUFVX3lxTE90ZGtNd1E4S2s1WGhmY1ZQV0FaRDBMTFdxYkdjVm04MjJuai1vcWd4N1M4aWl4ZGZvc1lDUlYzZ2JYZVFqTHdyWndFaF9nRHNmWDVSX044bmc2Vm4zeGJTZS01T1EwUnUtRXc5bkxsQ0l0cHZ5TEtrcGd1M29LMm1qVnV1STdCTW1fM0xncVdLNm11MTk4OU9pdTJuZ3hlTmF5Z0NqcHRtckxkSmpobm9jOE9kbU1YVWxCVllCRjBMdU41UFYwUWw1TnpQRmZpa2NUazVLUm8yeE5yam1pTzhCRFBKUDU2RmRQb3RZSlJLSWRPdk43NzVMQm82Sktjaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fca56888535d",
-      "title": "The sleep sweet spot: Study links six to eight hours of slumber with slower biological ageing - Down To Earth",
-      "published": "2026-05-14T11:55:53+00:00",
-      "summary": "The sleep sweet spot: Study links six to eight hours of slumber with slower biological ageing&nbsp;&nbsp;Down To EarthSleep chart of biological ageing clocks in middle and late life&nbsp;&nbsp;NatureSleep Duration Linked to Accelerated Aging&nbsp;&nbsp;Neuroscience NewsScientists Reveal How Many Hours Of Sleep Could Keep You Younger&nbsp;&nbsp;NDTVToo little (and too much) sleep may speed up ageing: Study reveals ideal duration&nbsp;&nbsp;The Indian Express",
-      "sources": [
-        {
-          "name": "Down To Earth",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa2V1UmpHOEMwUV9tckZuUktQQ1FCSjRTU3NaSC1BX3NMY3c1N2dRckRENzFrT2RVODJ1emlYaS1hRDVpTngxbjc5M0MxdTBXTmllakZsWlkyQkRpVEFnWEZnS25kbFVnbWQzb1RGOUw3dHkwWnNZZldxdU1mUkZzaXZQWFRzWnBQX2dZb0dsOXFId3FhcWE5N0RkZ2xCLTNnSVVYUUhkOXpWNGRtcEpSQjVUM0xuTGp4U0ZLS0VTSElrNmZaTGdNRGd0VkFXV0ppMm5pWVdwLWc1Z9IB5wFBVV95cUxOVzJtWGpZTVFhN3ZxbGVBNElrS1FoYTdCUEFGLTAtLU9CREhKNkI0bXg1QkhHM09yS19oODVoajhvaGJLcC1nTjdQdHQ1RzNGblljNTdQQWNseTZoUlp1eDRCUXUwYy1QcDNGQTZ3MElfQ2NqaU1WeFV5aWxmeG9LSDl2dWhHWS0zVDlnMkpTREljajM5VTF3STRuUDQzWHR0dEhQQXl5RlRnNm0yQWNad1ZSbGJGLVZNeGFFWUJjNUNOTVB5Qks0OFFZc0F6Z0QwR013dHZwdXNsRUI1c1d6eDVabzVydVE?oc=5"
         }
       ]
     },
@@ -554,18 +614,6 @@
         {
           "name": "Nature Asia",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PMi05cGtYc2xybHZuajlka1BvMEJVQWxSOXdKZ3ZRYVJhTUpyLU1KWHNHMVJOaVE4X3FJY0VkTVk4UXlPVDQ1SXJ5SzRhdTA1VVBhTldnMkpMWHNwZ3RHeGFldlVuY3Nsd29VZEJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc4568eb32a9",
-      "title": "Hantavirus Scientists Were Close To Vaccine But Ran Out of Money - NDTV",
-      "published": "2026-05-14T03:56:03+00:00",
-      "summary": "Hantavirus Scientists Were Close To Vaccine But Ran Out of Money&nbsp;&nbsp;NDTVSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa2daVm9teTFpY3A0X0pqdWZXM1dNRHlEWW5qYzZVdTJkTVVnWkxzOVgzR05UbzdXT0swRXppenN2YlZjdmwxT25uaDQ5ZTVUMHRsMFBGSnM5eE9Sd1BNNzJ5NTZDRHVhT2JPeHI0ZlU3Y2VCVmlWblUxc2VzcDZUY3NoOXZaaWtxX25nQkNEdVZKUzE0Z3RMT3pxSlEwX3JxYV9v?oc=5"
         }
       ]
     }
