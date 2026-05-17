@@ -1,17 +1,57 @@
 {
-  "last_updated": "2026-05-17T01:46:03.917580+00:00",
-  "total_count": 39,
-  "matched_count": 24,
+  "last_updated": "2026-05-17T08:04:02.978490+00:00",
+  "total_count": 35,
+  "matched_count": 22,
   "news": [
     {
-      "id": "68c03defbe0d",
-      "title": "Your daily stress may be raising blood pressure silently: Here’s how long work hours, poor sleep, and mental exhaustion are affecting the heart - The Times of India",
-      "published": "2026-05-17T01:30:00+00:00",
-      "summary": "Your daily stress may be raising blood pressure silently: Here’s how long work hours, poor sleep, and mental exhaustion are affecting the heart&nbsp;&nbsp;The Times of India8 Things That Can Raise Your Blood Pressure Besides Salt&nbsp;&nbsp;Health News HubIt’s not just salt anymore: Why your stressful 10-hour workday could be pushing your blood pressure higher&nbsp;&nbsp;The Times of India",
+      "id": "039b5176f4e9",
+      "title": "WHO declares Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency - News On AIR",
+      "published": "2026-05-17T07:26:57+00:00",
+      "summary": "WHO declares Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency&nbsp;&nbsp;News On AIRWHO declares Ebola outbreak in DR Congo a global health emergency&nbsp;&nbsp;BBCEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)WHO declares Ebola outbreak in DR Congo, Uganda a global health emergency&nbsp;&nbsp;Al Jazee",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMzlOcVA3Tl9oekFhMjFfQUV5Xy1mUzBtWmtzOEs1SzVKNk41aHFyd2VmSVdHNnlhSDY5clYzckpsZTExMVFIOFVPNWRuTzV5WmF2ajExZ08zWTBjREQ3M00xeDh2c2FBLVNBUVhFRUZZeDVaQVFxUkdaZDQ3VDRBaklYSXk1NFFBR1VISXZxVjBQMzNWa2pjcHltV0lpdm5MSGdRZmlwQ2R1SjhmM2dtUmJ1TXVYTlZSRm1XUmdsMFVOUTU3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "d35bcd0d5222",
+      "title": "New genomic approaches uncover surprising cellular dynamics of the aging brain - Technology Org",
+      "published": "2026-05-17T05:00:00+00:00",
+      "summary": "New genomic approaches uncover surprising cellular dynamics of the aging brain&nbsp;&nbsp;Technology OrgSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Technology Org",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzFRVjhpdmtqVURyMllmMEpKODlDaGtuQWVsdjV4WkdwU2Jib1dQTV9pZ3l2LWdmUlh5cTBxM2FrRkJ5bm5xYnkxb25jN25yWXlRWlE2dDJSa1RUOFN4b2U2cUFoNHg4d2ZPTW1QVzIta1BlSHU4LS1tVE9XWDhESVhuSmZlOE50YUVlX3NMQUNUeWxhNTlZRmVCdGctUHFoazhfUFpNbDFNRjVuOGhUbjA4bmxNNkh5?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "ba120c591d28",
+      "title": "PCOS, PMOS: What The Renaming Means - The Times of India",
+      "published": "2026-05-17T01:31:00+00:00",
+      "summary": "PCOS, PMOS: What The Renaming Means&nbsp;&nbsp;The Times of IndiaAlready Diagnosed With PCOS? Here's What The Name Change To PMOS Practically Means For You&nbsp;&nbsp;NDTVPolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyThis Week in Science: PCOS Becomes PMOS, an 'Impossible' Crystal, And More!&nbsp;&nbsp;ScienceAlertScience news this week: PCOS has a new name, Neanderthals were the wor",
       "sources": [
         {
           "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQNVZLNWZyM3pPaDNPTVhHVU9mSkFLOXA1emJyRnkwWnk0ZWQtN2h4Z1VLZXJWVlBKY1V0Nk5rNmdNNjJ5SmJ2NnRDRVNmWUw1c3NJMTBrUXRHQnc4UW1GSWtBUXVIX3NZMU5zR0Z3aDgta2xfXzlOYnVpemZWSmkzRE5HclY1MVNveE9mZTFwYW9pNDMwRUtCeV8yNWIwNVlMZnY4OFJzc0doY0Q3cDhZdUE3Ti05QUIwQUEzOExmeVJnR094bHlyNHJidjlfN0xxVHFEbmJoZF9DRWRBR0J1dk9SLVVPa2F4Z1MzczRCQVZlSDVka0FKQXc3czRKV3NZS0JZUnFQZHFWeGVfNzliUUFCMTR0TGZ3TFhhNHBoOWt6M2VWLW1pY2otN212ZlBN0gG4AkFVX3lxTFBsaEd6UmhVY3BNWUlpaHpNaGpZWkQ2UWlta3VjWGxBZzM5bG1FNVJlTDdSSXp2S0sybEJPMngyZ0hkdEFuMEdCYTk5X0k1VTFQOXgwXy0wQk52Zjh5dlpjclVTUXpEaVhkVnBETF9ieGI5a1Q1RmthNjd3UDhPVE9xSjRvOG1HLWJkM3NURE1MU0FBTXdGblZRUS00SFlVZ096RThLZHNjTDBtdGl3bzZIN2x5d3l6NHRlbXE5MGRQdEFWcl9DUTZhTVdUX2hlLWdkVmNLZ0FfVm8yNWV3WU9YMEkxd1JsRmFtSUxQZkdlaWFycFBQeFB3WjJsN2ZuSDEtVDJ6VFl6TU1MUVhON1locWFXdnQ4eHk2OHFIdW0yZldXVDdFemd5ZmVaZ1RRNWp6cVl3RkgzZQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkZuLUpzQVRTbEN6a2JPWVQzRW9nMUhpOExoa3pqRENLVlVMaTRLNVd5bndHU1VIM0NLVVdxc1BfaEUyRUUxSklRaldJQ1hfSERONjVBdlV1LUFCNXJ3RXNPemFSakRDTDBsd0RUcjliR0ljLUloQjhVeUl1SHBYbC16SjBmS190UEtLVG1sdEJBOWU5bGZFTnhwVnJaa1JpMjduU2I1azNYekct0gGyAUFVX3lxTE56YUx2VTVvZkN6R2RIeFlxQ3Q5eDhWX0s5eElBem5SYktyaE50OTI4RG1hQnRweGVYcmRBWnFPZm8xeko4MWRTRE51V05GMmRNTmFIUmh5SG5PMW1SdzcyN3VRdkxjMTBGeDEyU2dkdWx3TnBGek9zckU5cjBtWDF2QmFTbnZRRi03WGJkM0U5WG83TTdjUGNrdkdsYV9ub3RIVFJjd2pFNllETDNJR0dFZVE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -20,38 +60,24 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "669747c1d0ca",
-      "title": "WHO declares Ebola outbreak in Congo, Uganda a global public health emergency - China Daily",
-      "published": "2026-05-17T01:27:00+00:00",
-      "summary": "WHO declares Ebola outbreak in Congo, Uganda a global public health emergency&nbsp;&nbsp;China DailyDRC health minister warns ‘very high’ Ebola lethality rate as toll hits 80&nbsp;&nbsp;Al JazeeraCongolese report constant burials as deaths in new Ebola outbreak reach 80&nbsp;&nbsp;The HinduEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)E",
-      "sources": [
-        {
-          "name": "China Daily",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fdGl0c2J0NjlXNlN6bjd2Nk1zSmdTRFNvMGdhZ3hRZGZrX0o4UDFBVHZNdzAwUDlDWWd5bkxvMzBNaTg2RnNiMWhNNjNkazEteWtDVTBQVDB0WnRCeE1yRmZMWTR5ZlhLY0gySnV2eGZ3STVOT0RTMjAzbTFsZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
+        },
         {
           "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
+          "disease_id": "10686",
+          "name": "N syndrome",
+          "keyword": "n syndrome"
         }
       ]
     },
     {
-      "id": "964e421190f5",
-      "title": "Stargazing set to light up Ladakh this Astro Week - The Tribune",
-      "published": "2026-05-16T21:50:49+00:00",
-      "summary": "Stargazing set to light up Ladakh this Astro Week&nbsp;&nbsp;The TribuneIndia’s darkest village? Here’s why this place is a dream destination for stargazers&nbsp;&nbsp;Zee NewsFrom Hanle to Nubra, Ladakh prepares for cosmic showcase&nbsp;&nbsp;BusinessLineHanle, India’s Hidden Gem, Combines Dark Skies, Astrophysical Research, and Unforgettable Stargazing Experiences&nbsp;&nbsp;Travel And Tour WorldHanle Emerges as India’s High-Altitude Gateway to the Galaxy&nbsp;&nbsp;thetraveler.org",
+      "id": "9624d4d2db16",
+      "title": "When climate, ecology and urbanization fuel zoonotic diseases",
+      "published": "2026-05-17T01:25:24+00:00",
+      "summary": "When climate, ecology and urbanization fuel zoonotic diseases&nbsp;&nbsp;news.cgtn.comHow climate change may be fuelling the spread of deadly Hantavirus that killed three on the MV Hondius&nbsp;&nbsp;The Times of IndiaHantavirus Cruise Ship Outbreak: What We Know So Far&nbsp;&nbsp;the-scientist.comHantavirus Outbreak Tests Post-Covid Health Communications Playbook&nbsp;&nbsp;NDTVHantavirus: Is there a risk of another pandemic?&nbsp;&nbsp;Investing.com India",
       "sources": [
         {
-          "name": "The Tribune",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM25tX2RZVG9wUGJNUXA0emVpSVNvZTJmbE5RcXN4Wmo0ZEs3NkJ0Q1JoQkprZ1otZjBLODNGalNDMy15SnpIY3VSRFlLLUlkVVVGWG43cmc5dzBGWUg5dDE5OXNRcVdPTExVRmVJalVXNV85dXVSUXNucklfR2QycVBXUV93ZDgyeWhydWV0clJLdEUydG1MTw?oc=5"
+          "name": "news.cgtn.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNnZaVlJfMlUydkgwVFdMYkNlbW84ZExCX0dwQkFqZTVPUFhjemRIaW9NU0d6S0VEQl8tUzQ3WjAwcGw5ZHdjcTl1VEF5YURLazFYT3F5bGU2TDNGcU9QSnJLcE5WZzdGOTJEeEV1Sm1OdUt2cFRUQ3dza3h2TkNjUGRUbDRXbmJHaG85VFZLSkdQUkVSYzdIYVlhWm1LSXVNaFdsakExaFBxRU1OemV0SXV0YmdLQTdH?oc=5"
         }
       ],
       "matched_keywords": []
@@ -60,7 +86,7 @@
       "id": "21d992b2a392",
       "title": "Canadian cruise passenger gets presumptive positive hantavirus test result after ship outbreak - The Hindu",
       "published": "2026-05-16T21:46:11+00:00",
-      "summary": "Canadian cruise passenger gets presumptive positive hantavirus test result after ship outbreak&nbsp;&nbsp;The HinduCanada reports suspected hantavirus case linked to deadly cruise ship outbreak&nbsp;&nbsp;The Times of IndiaCanada confirms first hantavirus case in isolation in British Columbia&nbsp;&nbsp;The GuardianCanadian from hantavirus-hit cruise ship tests positive&nbsp;&nbsp;BBCOne Canadian tests positive for hantavirus, BC officials say&nbsp;&nbsp;The Economic Times",
+      "summary": "Canadian cruise passenger gets presumptive positive hantavirus test result after ship outbreak&nbsp;&nbsp;The HinduCanadian cruise passenger tests presumptively positive for hantavirus&nbsp;&nbsp;news.cgtn.comCanada confirms first hantavirus case in isolation in British Columbia&nbsp;&nbsp;The GuardianCanada confirms first hantavirus case linked to MV Hondius cruise ship outbreak: Passenger in British Columbia in isolation&nbsp;&nbsp;The Times of IndiaOne Canadian tests positive for hantavirus, ",
       "sources": [
         {
           "name": "The Hindu",
@@ -90,29 +116,17 @@
       "matched_keywords": []
     },
     {
-      "id": "1fcdbef767c2",
-      "title": "Collector Calls for Massive Awareness Drive on Hypertension - Deccan Chronicle",
-      "published": "2026-05-16T18:52:53+00:00",
-      "summary": "Collector Calls for Massive Awareness Drive on Hypertension&nbsp;&nbsp;Deccan ChronicleMany Indians Don't Know Their Blood Pressure Numbers: Doctor Explains Screening Gap&nbsp;&nbsp;NDTVAt 33%, Lucknow’s hypertension burden above national average&nbsp;&nbsp;The Times of IndiaFootballer has high BP of 155/98 mmHg at 20; executive, 32, has kidney damage: How hypertension is hitting young Indians&nbsp;&nbsp;The Indian ExpressWorld Hypertension Day 2026: Experts Warn of Rising Hypertension Among You",
+      "id": "14ad34e7d0d6",
+      "title": "Screen Addiction, Sleepless Nights Driving BP Surge In Youth - Deccan Chronicle",
+      "published": "2026-05-16T18:41:52+00:00",
+      "summary": "Screen Addiction, Sleepless Nights Driving BP Surge In Youth&nbsp;&nbsp;Deccan ChronicleMany Indians Don't Know Their Blood Pressure Numbers: Doctor Explains Screening Gap&nbsp;&nbsp;NDTVYour daily stress may be raising blood pressure silently: Here’s how long work hours, poor sleep, and mental exhaustion are affecting the heart&nbsp;&nbsp;The Times of IndiaWorld Hypertension Day: Better blood pressure, better heart health&nbsp;&nbsp;news.cgtn.comFootballer has high BP of 155/98 mmHg at 20; exec",
       "sources": [
         {
           "name": "Deccan Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmQ4amc0aEJNV2VuaVhsUzlES2FaY3ZxcGZMQlN1ZEc2dkdSbExkeVNMQUJSTjNvTmIzSlRlOVBRaDNuMFlaZnNpTG8xNkxvb3FUSU5WSndPdTlIdWltTzVRbmtfMjNiRjFnOS1FellSWEc4U0xjSTBDN1JxdFlqQnJnYURYMHZxaURSVFd6dG9FTEk4dE9iN2pobG9ZYXRTcFFTdmFOQ1BVUWtHY1M2QWxHQldmLWlod1Mxd1FpWlNZenI1dGhMWU9B0gHPAUFVX3lxTE9vWjJyVktLRUtFZzhBS1A1RmtELWZWbXh6NW1RNlNMYlc0dktmdmJSZHNEaEdMbl9udTMwVWVkY2JDUG5wQXB5bVFHLWkxLVRjejdZb3FsemVTOHRQMnJ6bG5BWnpjUkhtU00yWlppblRfa3Fwb3djQkU2SkdGYkpneGZzTVBfTWg5SjRGTDhpNUNFRnozMW43Y1FsN3hIZ1VKcWdiNVkzTlJLSTRKSGZZT0wwdDVEajBtdlBWSlQxQ1V5MmZkSERWZlZvUVlXRQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQV9zMWRxNU45MXh2S21TcW1tQl9yV3RVWUF4ZFp0bnlScnhBSUhEbVBFNVlNWWlBTlRXS2oxY3NJV1Z0Rjlmc1ZfQUxPMlhHUWU3ZTBoOHNSeENYaDRCZWdHWTFWUGtQZ3NheE1ObjU2STN2WktFdFQtR01LRmRqLXAwNWhCYk9hN29Cb1RyNUcxd05H0gGaAUFVX3lxTE9kOFlnMEJlV2Jya01IYVhQTjRvTHlZcnJ5T0oya1JPUGJrMEJ6ZDRYU2xaRmNXNHlDWGc0UWRiVHVHbHBTcUVaMTFYb0hBUDhkVnVLOHQxWjN2UnFWZEMteThDeGdVSnUtQWMxZnJPdVZldng4TTlDeFd4eW9yRm96VnFMZDBsQWQ4OWxQbERibXhEdU1LM20xWVE?oc=5"
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4979",
-          "name": "asthma",
-          "keyword": "dama"
-        },
         {
           "type": "indication",
           "disease_id": "1200_1134_15512_5080_100078",
@@ -131,7 +145,7 @@
       "id": "ae74c50d9628",
       "title": "IIT Madras researchers turn moon soil into material for future lunar habitats - The Times of India",
       "published": "2026-05-16T18:35:00+00:00",
-      "summary": "IIT Madras researchers turn moon soil into material for future lunar habitats&nbsp;&nbsp;The Times of IndiaTurkish researcher reveals lunar dust to be key building material for space&nbsp;&nbsp;usmuslims.com",
+      "summary": "IIT Madras researchers turn moon soil into material for future lunar habitats&nbsp;&nbsp;The Times of India",
       "sources": [
         {
           "name": "The Times of India",
@@ -148,55 +162,23 @@
       ]
     },
     {
-      "id": "72e111d716aa",
-      "title": "Geologists drilled a very deep hole in West Antarctica and retrieved rocks that date back 23 million years, the deepest sample of its kind",
-      "published": "2026-05-16T17:28:30+00:00",
-      "summary": "Geologists drilled a very deep hole in West Antarctica and retrieved rocks that date back 23 million years, the deepest sample of its kind&nbsp;&nbsp;Earth.comScientists Uncover Earth’s Oldest Known Air Sample in Antarctica&nbsp;&nbsp;GK TodayScientists drilled into Antarctica and uncovered Earth’s oldest known air, which is rewriting climate history&nbsp;&nbsp;The Times of IndiaResearchers retrieve oldest continuous ice core from Little Dome C&nbsp;&nbsp;NewsBytesRecord-Breaking Antarctic Ice C",
+      "id": "19b147da0f94",
+      "title": "Want to Slow Your Biological Aging? Sleeping 6.4 to 7.8 Hours a Night May Help",
+      "published": "2026-05-16T18:12:44+00:00",
+      "summary": "Want to Slow Your Biological Aging? Sleeping 6.4 to 7.8 Hours a Night May Help&nbsp;&nbsp;HealthlineSleep chart of biological ageing clocks in middle and late life&nbsp;&nbsp;NatureThe sleep sweet spot: Study links six to eight hours of slumber with slower biological ageing&nbsp;&nbsp;Down To EarthSleep Duration Linked to Accelerated Aging&nbsp;&nbsp;Neuroscience NewsScientists Studied Half A Million People And Found A Sleep Sweet Spot For Healthy Aging&nbsp;&nbsp;ZME Science",
       "sources": [
         {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZWZaMnczSzVzNHJBNnR3WjhPbGFKYjN3dUJMZkJOWDRwdEZjZFF2cmVDN05IZkh0LUE0YVJNMi1kdGRfVzFoVnc3emlrb3Y3cDdxb2ctc1ZNZnQ1ZmF2WlktYzI5WHRxc28zWEJ6b3VYb3FwRVNQLVNXZ0ZzU3NKWTQ1ZU05SVJ2ZlRVTmxrNm9vZnRKWVJsV2F6VVdydHhTWWVUeFloRVZFOWVTUFA1TF93VGU3Nm9jeVJmMXlCdm5fQ29iMVQ4NXVpTm5MSi1ULXcxekY4RHVCSjdHdFRn?oc=5"
+          "name": "Healthline",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0pDLUg1UHFrYk9DanE2bTBNM0tpRGFFYW51NVdtaGtiWk1feGZ5a1hZNkNEcS12ZU5Ddm5lQTMyMUNkWndYV2V0RkM0dlVXZWl0Y0k4VVRZVmFuWGwwTF9NQzN6dGwxaUFXV1NqV2tWeXk5bGtxSzJSdHp2bldoR2NPUXg0WmRicEUyNmdvbkxtSGZmR2YwWA?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "ef38bd88b40a",
-      "title": "Common cancer protein may be therapeutic target, study finds",
-      "published": "2026-05-16T17:00:02+00:00",
-      "summary": "Common cancer protein may be therapeutic target, study finds&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94dW9wblFkQ2J2ZnFySDlNa1FzM3JnWC13QUJPekZ3T255UUN1WmVHUGs2TjJoTmpFWWRaWWlnaWdYSVZyWllBMVZHZGREOENaUDgteWJ6UnJHLUZBbTdRVjFYcU9BRGpDT19YcUtWbkM1SEtSYlBv?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        }
-      ]
-    },
-    {
       "id": "88ae955ddd3a",
       "title": "Astrochemistry: Surrounded by Stardust: Iron-60 Discovery In Antarctic Ice Reveals: Local Interstellar Cloud Leaves Its Mark",
       "published": "2026-05-16T16:39:37+00:00",
-      "summary": "Astrochemistry: Surrounded by Stardust: Iron-60 Discovery In Antarctic Ice Reveals: Local Interstellar Cloud Leaves Its Mark&nbsp;&nbsp;astrobiology.comStardust Trapped in Antarctic Ice Reveals Tens of Thousands of Years of Solar System’s Past&nbsp;&nbsp;TheWire.inEvidence In Antarctic Ice Suggests That Earth Passing Through Supernova Debris, Says Study&nbsp;&nbsp;NDTVScientists Find Evidence Earth Is Drifting Through the Ashes of an Exploded Star&nbsp;&nbsp;SciTechDailyIt's Raining Stardust. It",
+      "summary": "Astrochemistry: Surrounded by Stardust: Iron-60 Discovery In Antarctic Ice Reveals: Local Interstellar Cloud Leaves Its Mark&nbsp;&nbsp;astrobiology.comStardust Trapped in Antarctic Ice Reveals Tens of Thousands of Years of Solar System’s Past&nbsp;&nbsp;TheWire.inEarth is flying through ancient supernova debris and scientists found the evidence in Antarctic ice&nbsp;&nbsp;ScienceDailyScientists Find Evidence Earth Is Drifting Through the Ashes of an Exploded Star&nbsp;&nbsp;SciTechDailyIt's Rai",
       "sources": [
         {
           "name": "astrobiology.com",
@@ -213,30 +195,30 @@
       ]
     },
     {
-      "id": "61205181b404",
-      "title": "Antarctica’s sea ice collapse finally explained by scientists - The Indian Express",
-      "published": "2026-05-16T15:08:58+00:00",
-      "summary": "Antarctica’s sea ice collapse finally explained by scientists&nbsp;&nbsp;The Indian ExpressAntarctic sea ice defied global warming for decades – now, hidden ocean heat is breaking through&nbsp;&nbsp;The ConversationAntarctica Is Hiding a Terrifying Secret. It Could Put the World at Risk.&nbsp;&nbsp;AOL.comAntarctica sea ice collapse driven by triple whammy of climate chaos, scientists find&nbsp;&nbsp;University of SouthamptonDiagrams of Antarctic Ice Shelf Melt (IMAGE)&nbsp;&nbsp;EurekAlert!",
+      "id": "fea05663a6e2",
+      "title": "We fixed the ozone crisis once. These new rockets could erode it once more - BBC Science Focus Magazine",
+      "published": "2026-05-16T15:30:23+00:00",
+      "summary": "We fixed the ozone crisis once. These new rockets could erode it once more&nbsp;&nbsp;BBC Science Focus MagazineSatellite launches pollute atmosphere. It leads to less sunlight on Earth, says London study&nbsp;&nbsp;ThePrintLasers shine a new light on the space junk air pollution problem&nbsp;&nbsp;SpaceScientists Spot Rare Atmospheric Signature Tied to Space Debris Reentry&nbsp;&nbsp;The Daily GalaxyA Falcon 9 upper stage burned up over Europe last February, and German scientists just caught it",
       "sources": [
         {
-          "name": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcEx5bFUzamRqeV9TMWtYS0V2TzN1elBTaG5tRE5RMk8tWjdNVVJza1BybHRyTlRlTHYxbEVhamMwbC12M3ctcHdiTFNJMmM4MkRDT1lraXVobnN1aTVmNUJzbWxjRDVWd2dnalhNcVFmVlYyUmg5RjZ2NnN5WldKTTZjUGFBd1NvOGpjOUlUeFBlYVgyTU1XVmNLZW1kcHhPNzh2N1V6NXFnSmVpaXFDWW84UFY0U2Y3NDdtbGZvRkjSAccBQVVfeXFMUE0xNXlJeUpfVWtGRU1EQTdGZE1GNlBmNHZpWVBPaXVyeGJ5UnhxY1dvQzIyd1VmdUVVLUhLazlJZF9RalFjQzdSQjgzdV90NHlKU0ljN0FacVJGM2ViUElBZlpKOWRRLXNjcG5zcUwwN2NTU3laVjZtZldIa3ZHaDc0NEp1cmxkSEZ0X19wOGl2aVBhZFlaM1FaSV90TDZTQ1NVUEp5ZV8zaER0a280MkJzbmlBMndBV2VURk45cFlVMVhrMEtkcw?oc=5"
+          "name": "BBC Science Focus Magazine",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05azlVVXB4dE5IcENKREV0eG84d0o1OV9WZGlza2d5MFRaZUpGOEFLR2pRRUFUaktldkw1R1o4aC1JVG1qSEF1anh1N3d6emx2bWh6bUtyRVJ1RjZhbFlNQjJrUi1OaHFBQkhUeHFGaw?oc=5"
         }
       ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d9c45c0ba363",
-      "title": "JWST maps the universe’s vast cosmic web in unprecedented detail - The Indian Express",
-      "published": "2026-05-16T15:04:50+00:00",
-      "summary": "JWST maps the universe’s vast cosmic web in unprecedented detail&nbsp;&nbsp;The Indian ExpressFirst-ever direct image of the cosmic web reveals the Universe’s hidden highways&nbsp;&nbsp;ScienceDailyJWST maps universe's largest structure in great our detail&nbsp;&nbsp;SpaceInternational study supported by the James Webb Telescope reveals impressive details of the cosmic web and helps scientists view the universe's past with unprecedented precision.&nbsp;&nbsp;CPG Click Petróleo e GásJWST maps ear",
-      "sources": [
+      "matched_keywords": [
         {
-          "name": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmhvRkU5aE10MTBJMG92eUpqT2Q0d0hIeXpYVnhNUWhXNnl5andmNmRGR3pkRndOckNrMURRMW4xY2tCZFo0SmZGMHRuN2FEVVl1X004ZDZfLUh1UDJVUDRtUGt3Nno4LUJrMkFtdWJGSlV6Z0xvdnVLQ2NmbGtwdXpkdkJLVGpUU0xmS3Fwd3ZLUGdzb0JmcXpsaEJvaVFtQWoyWFYtV2tWdWZ3ZVlLazVzTDBuZEJCWDA3SWx1UnNNMEpNZFhSSk5LQTV2M21zRXNRYkRn0gHcAUFVX3lxTFBEdjFnbHlmYXpLbk9zdXMxWC1wbEhPenJicHVUdmxlajd5NHdTd2hqZkdzeUdjOERzbEZKb25MZVo2V3BMZFRqWUN2eF9BWWQ2cXhFZmN2VjZPOHNJQ3RKMkpiT3N4NE45eTZ6V2I1Y3dicVlYNXRFUlB2dUFrWHNORkZZTnk1Sk9oMGlpRF9lc01KNFYwNWVWVjFOdVFMMHZjQi10ZkNkd0JzZXUzWHBaMFpkb01zZnNNYmlsUGpZTVpReUFTYWF3OEg3cG85TTdmOUQtOHc4eXVzX20?oc=5"
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "43519",
+          "name": "burn",
+          "keyword": "burn"
         }
-      ],
-      "matched_keywords": []
+      ]
     },
     {
       "id": "f4a564d411ee",
@@ -285,10 +267,23 @@
       ]
     },
     {
+      "id": "6500ccbac420",
+      "title": "Scientists Say They’ve Invented a Serum That Activates a Dormant Ability to Regrow Lost Limbs in Mammals",
+      "published": "2026-05-16T13:00:00+00:00",
+      "summary": "Scientists Say They’ve Invented a Serum That Activates a Dormant Ability to Regrow Lost Limbs in Mammals&nbsp;&nbsp;YahooScientists find 2 genes that could enable human limb regrowth&nbsp;&nbsp;NewsBytesScientists Say They've Invented a Serum That Activates a Dormant Ability to Regrow Lost Limbs in Mammals&nbsp;&nbsp;FuturismHidden Regeneration Ability Found in Mammals Could Transform Regenerative Medicine Research&nbsp;&nbsp;Nature World NewsWhy Can’t Humans Regrow Limbs? An Evolutionary Biolog",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaFNVQkxhU0w3TE9yUGlXVUhYWEQzYzRjQU1FWHcyeWowSmFJcW9CaE5WdUQtZ1g0YmtxTEhkZm0wZnU2ZXRjdGVkUVdtOXlPMzJvTVlDblMzX3Rma0pSZFJZdmtsV0ZqUHBzTGtJMUsxRjNualFoeVlnVXBQY21ZVkR0MURNZ2Z3TURKY2F3WG4zVkU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "00f68a175719",
       "title": "Can Hantavirus Spread Through Semen And Breast Milk? What Experts Say - Health and Me",
       "published": "2026-05-16T12:30:00+00:00",
-      "summary": "Can Hantavirus Spread Through Semen And Breast Milk? What Experts Say&nbsp;&nbsp;Health and MeHantavirus can persist in semen for years, but that doesn’t mean it remains contagious&nbsp;&nbsp;Scientific AmericanHantavirus may survive in human sperm for up to six years and cause a transmission risk&nbsp;&nbsp;The Telegraph‘Hantavirus can remain in semen…’: Study raises sexual contact concern after cruise outbreak&nbsp;&nbsp;Hindustan TimesAndes Hantavirus Strain Could Linger in Human Semen for Ne",
+      "summary": "Can Hantavirus Spread Through Semen And Breast Milk? What Experts Say&nbsp;&nbsp;Health and MeHantavirus can persist in semen for years, but that doesn’t mean it remains contagious&nbsp;&nbsp;Scientific AmericanHantavirus may survive in human sperm for up to six years and cause a transmission risk&nbsp;&nbsp;The Telegraph‘Hantavirus can remain in semen…’: Study raises sexual contact concern after cruise outbreak&nbsp;&nbsp;Hindustan TimesHantavirus RNA found in human sperm nearly six years after",
       "sources": [
         {
           "name": "Health and Me",
@@ -342,23 +337,10 @@
       ]
     },
     {
-      "id": "55a32f80147f",
-      "title": "BANGKOK: Thailand declares hantavirus ‘dangerous communicable disease’ - The Sentinel - of this Land, for its People",
-      "published": "2026-05-16T09:01:10+00:00",
-      "summary": "BANGKOK: Thailand declares hantavirus ‘dangerous communicable disease’&nbsp;&nbsp;The Sentinel - of this Land, for its PeopleThailand declares Hantavirus “dangerous communicable disease; approves strict measures for compliance&nbsp;&nbsp;News On AIRThailand mandates 42-day hantavirus quarantine&nbsp;&nbsp;Bangkok PostThailand Declares Hantavirus A 'Dangerous Communicable Disease', Activates Elevated Action Plan&nbsp;&nbsp;NDTVrodent-borne disease surveillance&nbsp;&nbsp;Travel And Tour World",
-      "sources": [
-        {
-          "name": "The Sentinel - of this Land, for its People",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUzZLUEdWdlgwbWZWN2NfN2hnUFhGd3JIRkJ3S1EzeURNczAwanAwOXJXUllWQmJlalNaVG1rRnJmbjVhNHJESnNFaTEtcGl4ajhmUHhWd1ZLM3VyQlhXeEpYdHh5N3ZEdVZCOHRHUDg5Zl8wU1NwQUJud3lzMDZoX3RuUEpvNUJ5eWx0UnFXVzE2OHdmdDBEZEg5bEJyOUNpd3Nwbmt2Y3Btd3FaZ3BUR1lUenJzaGlHRTREMGtB0gHLAUFVX3lxTE1MWG5aemoweGJGRTM1ZG9pSGxFdU9KOEVzU1dlS085NUhveF9ManRaMElYTHZDTXh1UjZxM2JybzIxTGw5MzJjeDJrQVJtdG1aR053NGtyc1oybzFUbTNKc1VZdno5RTIwaHVtTklrcEZweFlsTXFTTmNISmdyMXV2RWlyQVlVZ0wzR1ZIVlJMb3I2ZE1XejdSTEN3eFZWdzEyNDd6OWxiRUV2bUdKT3NMeVpVRTA2ZkwteDNEY3lhNF8xcDd6UDd0aXJn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7fcefc6d5e07",
       "title": "National Dengue Day 2026: Doctors warn Dengue is now a year-round threat, and families are still missing early signs - The Times of India",
       "published": "2026-05-16T07:30:00+00:00",
-      "summary": "National Dengue Day 2026: Doctors warn Dengue is now a year-round threat, and families are still missing early signs&nbsp;&nbsp;The Times of IndiaDengue in Adults: Rising Burden, Hidden Severity, and Impact of comorbidities- Dr Neha Gupta&nbsp;&nbsp;Medical DialoguesPediatric Dengue: Doctor Explains Why Children Are More Vulnerable&nbsp;&nbsp;NDTVDengue is no longer just a monsoon disease: Doctor explains why&nbsp;&nbsp;India TodayMayurbhanj Marks National Dengue Day with awareness drive&nbsp;&n",
+      "summary": "National Dengue Day 2026: Doctors warn Dengue is now a year-round threat, and families are still missing early signs&nbsp;&nbsp;The Times of IndiaDengue in Adults: Rising Burden, Hidden Severity, and Impact of comorbidities- Dr Neha Gupta&nbsp;&nbsp;Medical DialoguesPediatric Dengue: Doctor Explains Why Children Are More Vulnerable&nbsp;&nbsp;NDTVNational Dengue Day: Gujarat intensifies prevention campaign ahead of monsoon&nbsp;&nbsp;GujaratSamachar EnglishDengue is no longer just a monsoon dise",
       "sources": [
         {
           "name": "The Times of India",
@@ -401,14 +383,27 @@
       "matched_keywords": []
     },
     {
-      "id": "249370010ea9",
-      "title": "Hantavirus outbreak: When weather changes, the virus follows - India Today",
-      "published": "2026-05-16T02:00:00+00:00",
-      "summary": "Hantavirus outbreak: When weather changes, the virus follows&nbsp;&nbsp;India TodayHow climate change may be fuelling the spread of deadly Hantavirus that killed three on the MV Hondius&nbsp;&nbsp;The Times of IndiaHantavirus Outbreak Tests Post-Covid Health Communications Playbook&nbsp;&nbsp;NDTVHere’s What Science Tells Us About the Risks of Hantavirus&nbsp;&nbsp;WSJHow to arm yourself against hantavirus misinformation&nbsp;&nbsp;Scientific American",
+      "id": "964e421190f5",
+      "title": "Stargazing set to light up Ladakh this Astro Week - The Tribune",
+      "published": "2026-05-16T00:08:36+00:00",
+      "summary": "Stargazing set to light up Ladakh this Astro Week&nbsp;&nbsp;The TribuneIndia’s darkest village? Here’s why this place is a dream destination for stargazers&nbsp;&nbsp;Zee NewsFrom Hanle to Nubra, Ladakh prepares for cosmic showcase&nbsp;&nbsp;BusinessLineHanle, India’s Hidden Gem, Combines Dark Skies, Astrophysical Research, and Unforgettable Stargazing Experiences&nbsp;&nbsp;Travel And Tour WorldHanle Emerges as India’s High-Altitude Gateway to the Galaxy&nbsp;&nbsp;thetraveler.org",
       "sources": [
         {
-          "name": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWHpKczk1LUZCWE92dHlhWTY0LXdkbVZrRmJiOGlrUDNZRkFFdV9BellqZ25mZUtWSXE5UDZIazVvZzgycXgwakpKVDFqZ2h5RFRQeFdXOFFUTDZCVS1UbG5RODc5UUw0c1VBRlFUSGZHaWxCNW40TlhPZlU4a1VndVAtTGI0X3V1Wm1qZldSRlh1dHFiNGRDZXRUeEp6NEg3bU95UGRyTnBWXy1adExCMkdoTktfY1ZYcW80UNIBwgFBVV95cUxNREw1MXBqU3JGT3Yyd2VOZzVNZHM0Q05LUHo3bVNQN0k3SUllUF92ODVsZGZMZ2NES0JCX21UaDQ3RFZoc2JQLUszMDNORHdoa3k5MjlFbzdRRmpNVVRGLTZFd245MzJnaFNtVWx6YTM1WHlvdENBd0Z5M1kxS3NSTmM3Y3dvMFVyUGgtUms0SnVLSUZ0RUxSeEhyY2hxU2ZaNG4yTDVSTHBxVGF6TUtOTmZIU25pUGFlODBNS2tMU1BHZw?oc=5"
+          "name": "The Tribune",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM25tX2RZVG9wUGJNUXA0emVpSVNvZTJmbE5RcXN4Wmo0ZEs3NkJ0Q1JoQkprZ1otZjBLODNGalNDMy15SnpIY3VSRFlLLUlkVVVGWG43cmc5dzBGWUg5dDE5OXNRcVdPTExVRmVJalVXNV85dXVSUXNucklfR2QycVBXUV93ZDgyeWhydWV0clJLdEUydG1MTw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2baed970c540",
+      "title": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station - NASA (.gov)",
+      "published": "2026-05-15T22:53:18+00:00",
+      "summary": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station&nbsp;&nbsp;NASA (.gov)NASA, SpaceX launch new resupply mission to ISS&nbsp;&nbsp;news.cgtn.comSpaceX launches 6,500 pounds of cargo to the International Space Station after delay (video)&nbsp;&nbsp;SpaceSpaceX Cargo Dragon C209 Reaches ISS Sunday With Space-Weather Sensor and Bone-Repair Trials on Board&nbsp;&nbsp;Tech TimesFreedom 250 Resupply Mission Launched to Space Station Aboard SpaceX Rocket&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "NASA (.gov)",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUDVtWFdNM2ZEWUxxUjFsMXpRUHFkcTNEYW9SUHF2enk2SjB2di1QOUhxWDZQbV8wQUduQjdWUTI4Sno3WWJBZE5mZmFEMllRRVJ0SUp1Mk5GNGxGNm1LY1FTcjduT2otVjJoRlotQkJidVZaeWhTb2ExSWR1ZFp4dVZTdFRiMFdtYnoxMHplWWh6WUZzMFBVYTNRelFScEZBRE5HVE53?oc=5"
         }
       ],
       "matched_keywords": []
@@ -445,6 +440,64 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "72a92c1cb9f6",
+      "title": "Study: Green Spaces May Boost Psychological Well-being More for Disadvantaged Children",
+      "published": "2026-05-15T18:37:56+00:00",
+      "summary": "Study: Green Spaces May Boost Psychological Well-being More for Disadvantaged Children&nbsp;&nbsp;geneonline.comTime in nature benefits disadvantaged kids (IMAGE)&nbsp;&nbsp;EurekAlert!Nature May Benefit Psychological Well-Being of Disadvantaged Children More Than Others | Newswise&nbsp;&nbsp;Newswise",
+      "sources": [
+        {
+          "name": "geneonline.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVYzOXlNbXpVMWZMM3Mya3RnZ0I2UTc1Q2E5bUpFMXZ4Y3pIYndvU1FUTGRVRUJ2SUJiWE5MWlBRMWpNRDFLVE5ZUjBZY0dYd0g3dGV6OUNlWi1QQkFTRmxjQWhDTzlSbVZYSENBN3BmZGJaZ0FGSUpud3hRa3VnczRKUWRmUXp3THN3V1pBN0NOWVd6VjZudUYyYUV1aE9Sb0p0a0FGb1dRTEJyd0F0QUd4TQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5027",
+          "name": "epilepsy",
+          "keyword": "fits"
+        }
+      ]
+    },
+    {
+      "id": "180e1f2f18a0",
+      "title": "Implantable bacteria can now be safely contained, clearing a major hurdle for fighting infection and cancer",
+      "published": "2026-05-15T17:01:47+00:00",
+      "summary": "Implantable bacteria can now be safely contained, clearing a major hurdle for fighting infection and cancer&nbsp;&nbsp;Phys.orgMaterializing Safe, On-Demand, Living Therapeutics&nbsp;&nbsp;Harvard School of Engineering and Applied SciencesEngineered Bacteria in Implantable Living Materials Enable Autonomous Therapeutic Delivery&nbsp;&nbsp;Bioengineer.orgImplantable ‘living materials’ that deliver drugs on demand could help fight infections&nbsp;&nbsp;Scientific AmericanImplantable Living Materia",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTms3TUt6SG5TUmx3NDIzbmprZmJFU3dvUU1fYlUyZkN6eGxTamJvVTYtMW1WOGxHYklHekF4aDJ3TmcydWZSZi1Hd3J4Rmo0MFJBWjNrM1NDejdOOV9MZmlpNTF3NjV3ZnJPSm9hYlotZ20yaGotNzJPOVV2bDJiNQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
     },
     {
       "id": "77889a33557b",
@@ -524,32 +577,6 @@
       "matched_keywords": []
     },
     {
-      "id": "af35d8fbb53c",
-      "title": "Antidepressant Use During Pregnancy Not Linked To Autism, ADHD, Finds Lancet Study - Health and Me",
-      "published": "2026-05-15T15:26:40+00:00",
-      "summary": "Antidepressant Use During Pregnancy Not Linked To Autism, ADHD, Finds Lancet Study&nbsp;&nbsp;Health and MeConcerns over antidepressants and pregnancy have grown. New study offers reassurance&nbsp;&nbsp;CNNAntidepressant use during pregnancy not tied to autism: Study | Daily Sabah&nbsp;&nbsp;Daily SabahMeta-analysis: No causal link between antidepressant use in pregnancy and neurodevelopmental disorders&nbsp;&nbsp;Contemporary OB/GYNAntidepressants During Pregnancy Do Not Raise Child Development",
-      "sources": [
-        {
-          "name": "Health and Me",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbVlZb05WVlFxWmlhSGUtX0txeTVvQkZndWFZQlRmWlJsX1ZBSVZPdHdabFh0N2d2UUdpRUlJcDNrN1Nvb1hfVm1hSno1N0E3MU1vcFdmYWFwbXotNnZiejl0QU1hREMzSnJYZmFKRWdpWW1hQnV6dUVIYUpKbER1Sk9WS1VlNGEtRzlXakdjYmUtdnR2Wl9jX0ItWHRZLUpvUDlFeDcyOVMteTdhZ0RSTHFfVFpYRmw0QkpCbDQ1eUJHX2NkNTBNci13YmxxVUVUY3c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "5090_13498_8414_10897_33312_10943_11552_14092_12054_11960_11280_11294_11295_11298_11307_11498_12879_13089_13506",
-          "name": "schizophrenia",
-          "keyword": "mental disorder"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5084",
-          "name": "mental disorder",
-          "keyword": "mental disorder"
-        }
-      ]
-    },
-    {
       "id": "86e488587571",
       "title": "Gut Microbiota Biomarkers Identified in Diabetes with Heart Disease",
       "published": "2026-05-15T15:01:08+00:00",
@@ -582,14 +609,14 @@
       ]
     },
     {
-      "id": "b8d02bf9b673",
-      "title": "Satellite launches pollute atmosphere. It leads to less sunlight on Earth, says London study",
-      "published": "2026-05-15T13:23:25+00:00",
-      "summary": "Satellite launches pollute atmosphere. It leads to less sunlight on Earth, says London study&nbsp;&nbsp;ThePrintLasers shine a new light on the space junk air pollution problem&nbsp;&nbsp;SpaceScientists Spot Rare Atmospheric Signature Tied to Space Debris Reentry&nbsp;&nbsp;The Daily GalaxyA Falcon 9 upper stage burned up over Europe last February, and German scientists just caught it doing something to the atmosphere nobody had directly measured before&nbsp;&nbsp;Space DailyWe fixed the ozone ",
+      "id": "76131bb6efbb",
+      "title": "Thailand declares Hantavirus “dangerous communicable disease; approves strict measures for compliance - News On AIR",
+      "published": "2026-05-15T13:41:00+00:00",
+      "summary": "Thailand declares Hantavirus “dangerous communicable disease; approves strict measures for compliance&nbsp;&nbsp;News On AIRThailand mandates 42-day hantavirus quarantine&nbsp;&nbsp;Bangkok PostThailand Declares Hantavirus A 'Dangerous Communicable Disease', Activates Elevated Action Plan&nbsp;&nbsp;NDTVrodent-borne disease surveillance&nbsp;&nbsp;Travel And Tour WorldThailand declares Hantavirus a highly communicable disease | Tap to know more | Inshorts&nbsp;&nbsp;Inshorts",
       "sources": [
         {
-          "name": "ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQlVON0hGMGhxXzdGQ0RkM1NNM3F0bEtwc0huTXZxLUJGelA1M2VEQUg0SDZDVW1VTXEtelpNUjFEWEw1ODRMS1lEMURfdnB5U3BtaHhfWTNOMzRBQ2JvSnpaNENBYU9OZGNLX1hiVWozRlBIclZqYzVNVmVPWjNKUWZZUXVuMjdtUlAtSjREMUxEalQxekZKd08xTXfSAaIBQVVfeXFMTmpVTjVFVjNTMGg2UEVnSjZMLWJSbWJYV3hleF9udGo4UC1zSVdVV3VOWmN3MWZoVlBLUkN2Rlp6bUdiUmNJTTl1T1FZTHI1UmUzemlZMDFvaldZMzZHZFJjYjlzcmtfdFdycFYyUGNiUDFaQ1VjcTZQSXZOaUVEMEdzcTFoX1k0QXZsZkhPalhmOGtsbUdPT244UkY0MFF6OFVR?oc=5"
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbi03enYxdjNvendObFpkdDBwQy12SndWTkxUcENVVC1GbTFRMlNaVzlLakJCb0lrd1l2cXBKYXozTG1iOGFGSjUyZ09Gb3I4UWFqMmNoNE8xT1ZEdC1FZl9BMXhFU1ZKXzdMdDFwdXUwRUxuN2FQWG82aHhuZGdSMkFQZ1ZZNzBDd2FWRktsZkI5c2dsYzlpSFVwbnpzdkFtY1dFdk9yODFGUEVadzRQSUFQeDM0QW1XR0FWRTBpV1FzcnZOcDEtVw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -598,51 +625,6 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "43519",
-          "name": "burn",
-          "keyword": "burn"
-        }
-      ]
-    },
-    {
-      "id": "66f6a39c7a93",
-      "title": "Researchers discover a lost Koala species after reexamining a 100-year-old fossil - The Times of India",
-      "published": "2026-05-15T13:08:00+00:00",
-      "summary": "Researchers discover a lost Koala species after reexamining a 100-year-old fossil&nbsp;&nbsp;The Times of India",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRUN3djV3RWpINXZwRHBTNExMZ0gxenM3RXMtWWJQMkpMNm54QVdXTTg1UWFqanViRlRONDlpSHJydGhMblZRTnVFNG4zU3hWaDktdG1IY0p1TVdOQ3djQkRud0pxNm5RNHNGZC1YZUlWekYwSzVUcy1ocDNTNmhIWF9WX01zNXY1SUpMdDhDZWVMdm53QjJCVUluZTYxYXNSWUhTNHhoUE9LSU1YdnhBQzViN0l6UTRJQWhHOGlfdGlFRXVOS0RIN25SbTVJdVJqaEVDX1NEa0xhZnhqY1ljeGhvZlR3UdIB6wFBVV95cUxNd1ZlX0ViWmg5UmM2RjRpRXVfOTh4LUdJVmwzSFRTTUtrbzdzZFd2NWVSdW1kc2l2NHZpQTYxdEo1QnlrMjdSR1YyOEpWWTQ5eWlFTFRoRjJIaEZLX3ZWbnNGWXl6TG11Nm5XTkpYdUxPdlVhYjJJVGVERDc1SGFRc3NSbGFLWnBac2VJSFJZMGdOTENmYWhvZmYyWEFZcFJ5QXBhMmRXU3VzQlFaYkVialZfX1JtanViaG9FWnVLeFFOZWtIbkNuM1BCem1iV0pTQ21jOUU5aXh1dzhlbDMzS0xuSElvVGx5YTkw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1dc20c83b165",
-      "title": "MicrobioTx Highlights Growing Link Between Gut Health and Mental Wellbeing - The Indian Practitioner",
-      "published": "2026-05-15T13:05:34+00:00",
-      "summary": "MicrobioTx Highlights Growing Link Between Gut Health and Mental Wellbeing&nbsp;&nbsp;The Indian PractitionerGut Microbiome and Its Bidirectional Pathway With Neurochemistry&nbsp;&nbsp;Psychiatric TimesAre ‘Healthy’ Foods And Supplements Undermining Your Mood And Mind?&nbsp;&nbsp;Luxurious MagazineTop 100 Most Cited Scientist Says Anxiety and Depression Start in Your Gut, Not Your Brain (Here Are His 8 Dietary Rules)&nbsp;&nbsp;BoxLife MagazineThe Gut-Brain Axis: How Your Microbiome Affects Your",
-      "sources": [
-        {
-          "name": "The Indian Practitioner",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSWllRHNSNlJiU1REcEFJSTFFM2UzU2VJUVBzWlkzSWMwSkZ4UVNZaVdDWDYxX2NXTDMwZzdOZUZNVjg2UDZsTGFGQkNIZjFnRXY5YzNhSE93Vmh6SnZHNWpILWpackI1WEI3LTNvNFhMcnp4MGR6Zk5HRkRHR216SlBmU0JxcFpma2xRZ1JKTE16djl6N2JpUFVPSWVuTDQxWnY4Uno2RVR1aXN1b3c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "11918",
-          "name": "anxiety",
-          "keyword": "anxiety"
         }
       ]
     },
@@ -650,7 +632,7 @@
       "id": "c15b5d083080",
       "title": "Not tiny animals, just algae: Study challenges evidence for early animal life on Earth - The Indian Express",
       "published": "2026-05-15T12:38:06+00:00",
-      "summary": "Not tiny animals, just algae: Study challenges evidence for early animal life on Earth&nbsp;&nbsp;The Indian ExpressA fossil reanalysis just blew up everything we thought we knew about the origins of animal life&nbsp;&nbsp;The Economic TimesBrazilian fossils reclassified as 540 million year microbial remains&nbsp;&nbsp;NewsBytesMicrofossils interpreted as animal traces were actually algae and bactéria&nbsp;&nbsp;EurekAlert!540-Million-Year-Old Fossils Reveal a Huge Surprise About Early Life on E",
+      "summary": "Not tiny animals, just algae: Study challenges evidence for early animal life on Earth&nbsp;&nbsp;The Indian Express540-Million-Year-Old Fossils Reveal a Huge Surprise About Early Life on Earth&nbsp;&nbsp;SciTechDailyNew fossils could rewrite the origin story of complex animal life on Earth, study says&nbsp;&nbsp;YahooStudy Claims 540-Million-Year-Old ‘Animal’ Fossils Are Something Else Entirely&nbsp;&nbsp;GizmodoMicrofossils interpreted as animal traces were actually algae and bactéria&nbsp;&nb",
       "sources": [
         {
           "name": "The Indian Express",
@@ -659,42 +641,10 @@
       ],
       "matched_keywords": [
         {
-          "type": "drug",
-          "drugbank_id": "DB03336",
-          "keyword": "bia",
-          "name": "BIA"
-        }
-      ]
-    },
-    {
-      "id": "b2911d95fb57",
-      "title": "Polycystic ovary syndrome renamed ‘polyendocrine metabolic ovarian syndrome’ to reflect complex hormonal condition affecting 170 million women - Labmate Online",
-      "published": "2026-05-15T12:30:00+00:00",
-      "summary": "Polycystic ovary syndrome renamed ‘polyendocrine metabolic ovarian syndrome’ to reflect complex hormonal condition affecting 170 million women&nbsp;&nbsp;Labmate OnlinePolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyPCOS, PMOS: What The Renaming Means&nbsp;&nbsp;The Times of IndiaFrom Fertility To Full-Body Health: What PMOS Really Means For Women In Their 20s And 30s&nbsp;&nbsp;NDTVPC",
-      "sources": [
-        {
-          "name": "Labmate Online",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPRUNzYmNSdWpHOThBbVNIV1BSdlBheGxwdFhqZVlmQlc1SmtIMTVhR0R5WENkMmtkYWhqQTU0cC0yenowdGlqZTdwTFJqcjVnWmVSY214c0JOa01iZk44VEJoc1NhRmt5VWlfbkNwcG1qb1Y5MjhzRXpiNERTSmRReUwzdzV6cjhOUjM4bjBkNlRrRE1qRDlvNjFSMHBFQ19Bak02dkxxcXhialplUVlKdHEyVUtNd3dPR2Y0eWNOcnJsMlJzWXNjU2xEamtuSWNnUllFczZLT0lQTXNmNG43Yjc4a05EWENya1lfcXdiVWNNYXEwWlJPLVc1Sm8weHNZOG5wWnpQVC01VjMwYmMtSDR3OVBIWVNWZV8wTjVKbnVjdjc1SFBuM2V1UDZKM3NvVVA3QklFV0RCcV94bXJEaU9rY01mQQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
           "type": "indication",
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "10686",
-          "name": "N syndrome",
-          "keyword": "n syndrome"
-        },
-        {
-          "type": "indication",
-          "disease_id": "8487",
-          "name": "polycystic ovary syndrome",
-          "keyword": "polycystic ovary syndrome"
         }
       ]
     },
@@ -702,7 +652,7 @@
       "id": "115386e72f9a",
       "title": "From Silkworm to Super Material - Tufts Now",
       "published": "2026-05-15T12:00:00+00:00",
-      "summary": "From Silkworm to Super Material&nbsp;&nbsp;Tufts NowHierarchical materials from fused silk&nbsp;&nbsp;NatureSilk Transformed into Durable Plastic-Like Materials with Breakthrough 6G Applications&nbsp;&nbsp;Bioengineer.orgSilk Made Into Strong Plastic-Like Materials with 6G Potential | Newswise&nbsp;&nbsp;NewswiseA solvent-free route to high-performance silk materials&nbsp;&nbsp;Nature",
+      "summary": "From Silkworm to Super Material&nbsp;&nbsp;Tufts NowA solvent-free route to high-performance silk materials&nbsp;&nbsp;NatureSilk Transformed into Durable Plastic-Like Materials with Breakthrough 6G Applications&nbsp;&nbsp;Bioengineer.orgSilk Made Into Strong Plastic-Like Materials with 6G Potential | Newswise&nbsp;&nbsp;NewswiseHierarchical materials from fused silk&nbsp;&nbsp;Nature",
       "sources": [
         {
           "name": "Tufts Now",
@@ -728,7 +678,7 @@
       "id": "d18d020fe730",
       "title": "What happened on the MV Hondius is a predictable consequence of how modern mobility intersects with ecological risk - Down To Earth",
       "published": "2026-05-15T11:53:00+00:00",
-      "summary": "What happened on the MV Hondius is a predictable consequence of how modern mobility intersects with ecological risk&nbsp;&nbsp;Down To EarthHow a Nature Cruise Turned Into a Nightmare&nbsp;&nbsp;The New York TimesMV Hondius cases revised to 10 as crew heads to quarantine&nbsp;&nbsp;news.cgtn.comDeadly shadows at sea&nbsp;&nbsp;Global TimesHantavirus cluster linked to cruise ship travel, Multi-country&nbsp;&nbsp;World Health Organization (WHO)",
+      "summary": "What happened on the MV Hondius is a predictable consequence of how modern mobility intersects with ecological risk&nbsp;&nbsp;Down To EarthHow a Nature Cruise Turned Into a Nightmare&nbsp;&nbsp;The New York TimesMV Hondius cases revised to 10 as crew heads to quarantine&nbsp;&nbsp;news.cgtn.comDeadly shadows at sea&nbsp;&nbsp;Global TimesHow a little-known virus on a cruise ship put the world's health security framework to the test&nbsp;&nbsp;Cision News",
       "sources": [
         {
           "name": "Down To Earth",
@@ -748,7 +698,7 @@
       "id": "fed8c48d1be7",
       "title": "Measles outbreak: 12 more die in 24 hours, death toll crosses 450 - The Business Standard",
       "published": "2026-05-15T11:10:00+00:00",
-      "summary": "Measles outbreak: 12 more die in 24 hours, death toll crosses 450&nbsp;&nbsp;The Business StandardTwelve more children die amid worsening measles outbreak in Bangladesh&nbsp;&nbsp;Telangana TodayNew death toll in Bangladesh’s measles outbreak rises to 432 | Tap to know more | Inshorts&nbsp;&nbsp;InshortsDengue death toll reaches 453 as two more die in 24hrs&nbsp;&nbsp;Daily ObserverMurdering children by withholding measles vaccines: Why is civil society silent?&nbsp;&nbsp;daily-sun.com",
+      "summary": "Measles outbreak: 12 more die in 24 hours, death toll crosses 450&nbsp;&nbsp;The Business StandardTwelve more children die amid worsening measles outbreak in Bangladesh&nbsp;&nbsp;Telangana TodayNew death toll in Bangladesh’s measles outbreak rises to 432 | Tap to know more | Inshorts&nbsp;&nbsp;InshortsDengue death toll reaches 453 as two more die in 24hrs&nbsp;&nbsp;Daily ObserverWrit over measles vaccination seeks travel ban on Yunus, ex-advisers&nbsp;&nbsp;Jagonews24.com",
       "sources": [
         {
           "name": "The Business Standard",
@@ -767,46 +717,6 @@
           "disease_id": "4619",
           "name": "measles",
           "keyword": "measles"
-        }
-      ]
-    },
-    {
-      "id": "752586b3e62f",
-      "title": "Atomic manipulation enters the mesoscale as 40,000 atoms repositioned in single crystal - Chemistry World",
-      "published": "2026-05-15T08:43:44+00:00",
-      "summary": "Atomic manipulation enters the mesoscale as 40,000 atoms repositioned in single crystal&nbsp;&nbsp;Chemistry WorldMesoscale atomic engineering in a crystal lattice&nbsp;&nbsp;NatureUS team reprograms materials in three dimensions using electron beam&nbsp;&nbsp;Interesting EngineeringAtomic-Scale Engineering Shapes Crystal Lattices&nbsp;&nbsp;Bioengineer.orgResearchers “reprogram” materials by quickly rearranging their atoms&nbsp;&nbsp;MIT News",
-      "sources": [
-        {
-          "name": "Chemistry World",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYjNwZkF5YmYzZFJncTBDV0t0dXVsQ3duVDhYUUw1MHpFNFhoMF9vU0xpc1U2RHMwNUJ6SmVLa2hNV2ZvOUQ5eXJzbzN4dVJSNmhUSUI5T25qdEZVYlZ1NnFyZHE0eFY2RjRBT3dMak84ODBQR0dUTU9ld0N3SkJabS1lcWNTQVhlazBGc3lhaGI3WVN5SWhiNHhFYkx0T0sxbnRQUHZDeUpMd2xKbzJkVmZsN19iSXcyTDRmamoxQzM5eHVKRzhoN0NXMGFVdGhGTHVfeg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "6652_3678_1090_3672_3673_3676_3677_3679_6803",
-          "name": "myocardial infarction",
-          "keyword": "MI"
-        }
-      ]
-    },
-    {
-      "id": "0af609e3f1cf",
-      "title": "Enormous octopuses: The apex predators of ancient oceans - News Arena India",
-      "published": "2026-05-15T07:45:12+00:00",
-      "summary": "Enormous octopuses: The apex predators of ancient oceans&nbsp;&nbsp;News Arena IndiaAncient octopuses may have been up to 19 meters long, study finds&nbsp;&nbsp;QazinformIt's been confirmed – the kraken monster really did exist, 84 million years ago... | Discover Wildlife&nbsp;&nbsp;BBC Wildlife MagazineReal kraken? Ancient predators up to 19m long&nbsp;&nbsp;The Straits TimesGiant Octopus dominated Cretaceous oceans 100 million years ago&nbsp;&nbsp;News9live",
-      "sources": [
-        {
-          "name": "News Arena India",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSndSVHlsOUtFeDk0SnFxbFlhOUNLeS1pTW9peE5pT3hXeWtMRTBLbG1CeEMxYk1pN19vSmh0LUxEUy1KV1g5bXBhaWc2NjZqczlOR21ZWnZiazNLTHRNZmdwOXVyaVpYNFl4eXd5bHRkX2ZOWHVLREVCY19fT2g2NkNnN25UYU1fY3dpVUdyS1ZRUUhmMkFTcnZuMUFhT1E?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
         }
       ]
     }
