@@ -1,15 +1,99 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-18T14:47:35.156005+00:00",
-  "total_fetched": 74,
-  "unique_count": 74,
-  "health_related_count": 24,
+  "fetched_at": "2026-05-18T19:19:08.775498+00:00",
+  "total_fetched": 90,
+  "unique_count": 90,
+  "health_related_count": 40,
   "news": [
+    {
+      "id": "2f81350074ca",
+      "title": "Global consortium renames polycystic ovary syndrome to reflect science - News-Medical",
+      "published": "2026-05-18T18:25:00+00:00",
+      "summary": "Global consortium renames polycystic ovary syndrome to reflect science&nbsp;&nbsp;News-MedicalPCOS Is Now Polyendocrine Metabolic Ovarian Syndrome (PMOS). Why the Change? | Health Matters | NYP&nbsp;&nbsp;NewYork-Presbyterian'The name was inaccurate': PCOS gets a new name after years-long effort&nbsp;&nbsp;Live ScienceThe condition PCOS is now called PMOS. What to know about the name change and what it means for care&nbsp;&nbsp;AP NewsPCOS, PMOS: What The Renaming Means&nbsp;&nbsp;The Times of I",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkIzVk1DV3plMzZHUTBPZFFYSzN3VGxseUtJQVF6SjdsZlVVZmNvVXpfOENiWmJXWTdreUNSTFNIVW5ydW9ZWENWanpzcERfOTZxMlJXdG9yd0VDOXVQZXdkQ3ZmZlFZN3NrSmhIMzdXcWZoUkRuaVhDM1l3aUJSZjJPWHBiZjQtTnp0MVBaaXZhX18tQjg5RUlIN2pBMmVZeDBwUmY4S3R1R3hpS1ZqM3FMbXo2cjJibkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "126c3a28b788",
+      "title": "NASA Spaceline Current Awareness List #1,200 15 May 2026 (Space Life Science Research Results) - astrobiology.com",
+      "published": "2026-05-18T18:09:42+00:00",
+      "summary": "NASA Spaceline Current Awareness List #1,200 15 May 2026 (Space Life Science Research Results)&nbsp;&nbsp;astrobiology.com",
+      "sources": [
+        {
+          "name": "astrobiology.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1V0alZ2Q3gwSXNnanA5VXdjWm9Cdkwwc2VqTUJEVWNvWWxxME5oUzl5OWV1bXdsMEJzbWlaMUt2cnltTHJ5Z0FTZk5vZGNPcEYzNERmd1RvUXdKVW1NMVNBYjFlQ3pHZXlISEJ0TVg3cnJrTTlEbXl5NllaMVJYVU5MRzV3S3VOZFVHZEdQVnRYMlNfTGVhZkVWbmE2SlBvR2dNcDJBTENJSUVTempTMDhsZldPUVhLTFRNRGZiWjN0RWFBbUVZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0724a342b109",
+      "title": "Open-access tool decodes DNA change patterns in breast cancer - Medical Xpress",
+      "published": "2026-05-18T17:20:01+00:00",
+      "summary": "Open-access tool decodes DNA change patterns in breast cancer&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcVY4aDdpSzZPWHRiTVh2bVVHV01NSzhqbDJkVE5NZkp5SGczbGUxWDdMNjc2bWxkMERVV0FOd1ZqdUhBdVE0Y2J3Qm5iMlNQYTE5OXc4WTBrY09WaUJLdW1ObnY5OWU4UUk3VHBLVUZuSXE1ajJzNDdIOTF0STducld3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "88b23bd2995c",
+      "title": "Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+      "published": "2026-05-18T17:05:48+00:00",
+      "summary": "Hantavirus in Focus I: what we know and what it means&nbsp;&nbsp;World Health Organization (WHO)When climate, ecology and urbanization fuel zoonotic diseases&nbsp;&nbsp;news.cgtn.comWhere does hantavirus lurk in the U.S.? Scientists found ‘hot spots’ in surprising areas&nbsp;&nbsp;NBC NewsHantavirus outbreak tests post-COVID health communications playbook&nbsp;&nbsp;ET HealthWorldHantavirus episode is a warning about future pandemics&nbsp;&nbsp;The Tribune",
+      "sources": [
+        {
+          "name": "World Health Organization (WHO)",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da6db967b405",
+      "title": "Congo warns newly declared Ebola outbreak in Ituri involves Bundibugyo strain - News On AIR",
+      "published": "2026-05-18T16:46:36+00:00",
+      "summary": "Congo warns newly declared Ebola outbreak in Ituri involves Bundibugyo strain&nbsp;&nbsp;News On AIREpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed&nbsp;&nbsp;BBCEbola, hantavirus: Is the world prepared for the next pandemic?&nbsp;&nbsp;Al JazeeraEbola out",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUHhPTk5wRUZjaXZkWnZLVlhoS1RuX1ZLMm43aFVJSVpWSzlIYUJJMjlULWhGTDlOUlpqRW5LaFo3N3B1Tk1ObFdONDBidVg0MzFTVlhFWllvVE1nNExWLXhObXN1NXFCYlkxRXpSeWFsdU1vNjJ5WW13UnNHOUtQb0g5TmxoSzJCcE5zdDk3cExiUDk4M3VLclFQZnYybTB4Z0NhdC03R1Zob0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "90f02f8dd896",
+      "title": "Hypertension Emerging as a Silent Killer Among India’s Youth: Experts - The Indian Practitioner",
+      "published": "2026-05-18T15:10:00+00:00",
+      "summary": "Hypertension Emerging as a Silent Killer Among India’s Youth: Experts&nbsp;&nbsp;The Indian PractitionerHigh Blood Pressure Is Far More Dangerous Than You Think; All Consequences Explained&nbsp;&nbsp;NDTVNo symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The HinduWorld Hypertension Day: Your grandfather's disease? Not anymore&nbsp;&nbsp;The Times of IndiaHypertension hits men hardest – but women not far behind&nbsp;&nbsp;India Today",
+      "sources": [
+        {
+          "name": "The Indian Practitioner",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkVaNkMyaHlLUEJUby12QzhpR0Frc3lsRUJwUEh5bjFzY0JIRmlQNnhET3V1TFMxUWtXYlFUT3YzZ01WY1c4Q2RYMDM0UjFZZEN0NnJtZFpnU18zbDZPRFdqZm1RQ3I5NnliQTV5aFlUTXJYRFZENEdIZ0FOWDhIZVVTSzIyTGdoZEdwQzBVa3BueFlwXzlvTDdVWlhoZERWTUxfNg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4039fefb4bae",
+      "title": "Scientists Just Discovered Hidden “Brakes” Beneath the Pacific That Stop Massive Earthquakes - The Daily Galaxy",
+      "published": "2026-05-18T13:45:00+00:00",
+      "summary": "Scientists Just Discovered Hidden “Brakes” Beneath the Pacific That Stop Massive Earthquakes&nbsp;&nbsp;The Daily GalaxyStudy Finds underwater \"Brake Zones\" Could Act As Natural Barriers To Halt Earthquakes&nbsp;&nbsp;NDTVScientists discovered nature’s own “brakes” deep beneath the Pacific Ocean that may have prevented massive megaquakes&nbsp;&nbsp;The Times of IndiaIndiana University Bloomington researchers find natural brakes under Gofar fault&nbsp;&nbsp;NewsBytesThis underwater fault near Ecu",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkaUM2SWRfdkhIa0ZJMFN4MFRMS2dfR05wNlRzaTRJQTBYT3JoczhxemVuUDR2cHg1M2FHX2FPSUlmeGI2M2JDZVhHOThxY3B3TnJ3bC1aNTcxN25RYkdEVVJoYVJDM1Z6R3VtR29LVEp1ZXhyZ1lNRm82bw?oc=5"
+        }
+      ]
+    },
     {
       "id": "cb3b66bcc288",
       "title": "New satellite with Belgian technology to study the Sun’s influence on Earth - belganewsagency.eu",
       "published": "2026-05-18T13:30:00+00:00",
-      "summary": "New satellite with Belgian technology to study the Sun’s influence on Earth&nbsp;&nbsp;belganewsagency.euSpacecraft To Probe How Earth Fends Off Raging Solar Winds&nbsp;&nbsp;NDTV'Smile' Space Weather Satellite Ready For Take Off With Swiss Tech On Board&nbsp;&nbsp;Mena FNVega-C with Smile inside its mobile hangar on the launch pad&nbsp;&nbsp;European Space AgencyWhat happens when solar winds hit Earth? SMILE mission to study magnetic shield in action&nbsp;&nbsp;The Indian Express",
+      "summary": "New satellite with Belgian technology to study the Sun’s influence on Earth&nbsp;&nbsp;belganewsagency.euSpacecraft To Probe How Earth Fends Off Raging Solar Winds&nbsp;&nbsp;NDTVEurope and China Are Launching a New Spacecraft That Will Fly 121,000 Kilometers Above Earth to Study Solar Storms&nbsp;&nbsp;The Daily GalaxyWatch Vega C rocket launch European-Chinese space weather satellite to orbit tonight&nbsp;&nbsp;SpaceJoint ESA-China SMILE mission set for launch to study Earth’s magnetic shield&",
       "sources": [
         {
           "name": "belganewsagency.eu",
@@ -18,14 +102,14 @@
       ]
     },
     {
-      "id": "eb452fa99458",
-      "title": "The ozone layer is the only major environmental crisis humanity has actually solved, and it happened because the chemical industry quietly realised the replacement refrigerants were more profitable than the ones being banned - Space Daily",
-      "published": "2026-05-18T13:09:41+00:00",
-      "summary": "The ozone layer is the only major environmental crisis humanity has actually solved, and it happened because the chemical industry quietly realised the replacement refrigerants were more profitable than the ones being banned&nbsp;&nbsp;Space DailyNASA Knows: The Ozone Hole&nbsp;&nbsp;NASA Science (.gov)This day in history: Ozone hole discovery is announced&nbsp;&nbsp;AOL.comThree scientists found a hole in the ozone layer, prompting a global treaty&nbsp;&nbsp;MSN",
+      "id": "2ba521d08686",
+      "title": "Mood improves with movement, and vice versa: Study of 3 lakh reports - The Hindu",
+      "published": "2026-05-18T13:13:04+00:00",
+      "summary": "Mood improves with movement, and vice versa: Study of 3 lakh reports&nbsp;&nbsp;The HinduThe four ways exercise helps you handle aversive experiences&nbsp;&nbsp;PsyPostFive exercises proven to make you happier&nbsp;&nbsp;Herald.co.zwLifting Weights Could Improve Your Mental Health, Research Suggests&nbsp;&nbsp;Men's JournalExercise Highlighted as Key Factor in Supporting Mental Wellbeing During Mental Health Awareness Week&nbsp;&nbsp;Kirklees Local TV",
       "sources": [
         {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOdkNjSGY0TzZIa05rcEpiVlY3bVRBM2hHbGhKWkRfeWN3UEsta2lXRFBjZ1hqMUZBcXlSazRqc3RRSlpQem5GOFdzRjhManlST1JUdHp6NlBhSnFQd0dlNG94NkQ2bDRIM2NDdFV0ek5RWWRXOTZueGVkRnZPQy1oUUQtUEwyRnlMTHU2OXBKUXhOMXJkOUZFLXQ3TFhIMjdIb0dYYnY4dkdTNlNiaE1fbG0zUXZGdlI5dlVvaG91aTFZRXdBZFV3ZTItOVI5RG9BczNrcmxHV1FqajctR2JQbU1MWWZIQ1ZqWGxTMGRGNFBjSm9leGhXSVJwRFFyY2syTFh5eVRRdTBabGphUzNQOE1Nd28yRlE4MkJYb1pQZDRwaHVZMFBVYUNPcmRNa2RtSHk1aU9JUFZ6ZHZKME1oenpCUndOOXc?oc=5"
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa0Q3RkpIa3VocnA0Wkl5MkdDNEh4NXF0YXNEWUpoZHNzZks1M1lqTm9rLWhsNFJkanIxLWtuTTVxWVphZVdIUnNkWHRhd2MtbjNRNzlOLXkwVDVsRGxlel82ZVlRQ0t1NUZLa3dTT2NyN01ZOFcwQVIzNUVQNmVHbXlqaExTaWpDTWRfd0JKaVM5a2NwLTJnVU81cVEydV9hS1J3VE5ZNlV5TlZlY2E5LUFFbWFQZE1iU0sxOUM5OER5MDI4VFHSAcwBQVVfeXFMTTh6eE11aU1XV3BmQ3BYN2ZPMmNDWU9aa0NXRVJIVVN5NnpwUVptWVdOMmdvSVNGU0ZtMWZkUTlVTk5HR0gwUGdhWXpIU0tiOWhJSUVibGVMbENkSmFPQ3FzNzMyYnBJa21iTUNQekRtQWUyLTdKcWNlaXFkS0M5bndoU3FrZ216clpRcXVVbFZ4bWUtR2JBZkh5S2Q2YU9IbUJyUWJmZmgwOFRidFJZY0cyQWlLNG1yek80ck1LSDF5M3lJeEZwNllIcTZ0?oc=5"
         }
       ]
     },
@@ -45,7 +129,7 @@
       "id": "85e840fbf30f",
       "title": "Watch: Elon Musk's Dragon spacecraft loaded with fresh food docks in space - India Today",
       "published": "2026-05-18T12:12:12+00:00",
-      "summary": "Watch: Elon Musk's Dragon spacecraft loaded with fresh food docks in space&nbsp;&nbsp;India TodaySpaceX Dragon Docks to Station Filled with New Science Experiments&nbsp;&nbsp;NASA (.gov)SpaceX Dragon capsule delivers science and supplies to space station&nbsp;&nbsp;SpaceNASA, SpaceX launch new resupply mission to ISS&nbsp;&nbsp;news.cgtn.comSpaceX CRS-34 Brings Critical NASA Science to ISS&nbsp;&nbsp;The Eastern Herald",
+      "summary": "Watch: Elon Musk's Dragon spacecraft loaded with fresh food docks in space&nbsp;&nbsp;India TodaySpaceX Dragon Docks to Station Filled with New Science Experiments&nbsp;&nbsp;NASA (.gov)SpaceX Dragon capsule delivers science and supplies to space station&nbsp;&nbsp;SpaceSpaceX's Dragon docks at ISS for 34th NASA resupply mission&nbsp;&nbsp;NewsBytesSpaceX Cargo Dragon космик кемаси ХКСга олтинчи марта муваффақиятли туташди&nbsp;&nbsp;Zamin.uz",
       "sources": [
         {
           "name": "India Today",
@@ -57,7 +141,7 @@
       "id": "bcb12a7a7e7a",
       "title": "SpaceX's next Starship test flight set for May 20 - NewsBytes",
       "published": "2026-05-18T12:10:36+00:00",
-      "summary": "SpaceX's next Starship test flight set for May 20&nbsp;&nbsp;NewsBytesSpaceX fuels up Starship V3 megarocket for 1st time ahead of crucial test flight (photos)&nbsp;&nbsp;SpaceElon Musk Really Needs Starship to Work This Time&nbsp;&nbsp;BloombergThe US space enterprise is desperately waiting for Starship—will it finally deliver?&nbsp;&nbsp;Ars TechnicaSpaceX will launch Starship V3 May 20 for NASA Artemis&nbsp;&nbsp;NewsBytes",
+      "summary": "SpaceX's next Starship test flight set for May 20&nbsp;&nbsp;NewsBytesSpaceX Starship Flight 12 launch updates: 1st-ever Starship V3 test gets new launch date&nbsp;&nbsp;SpaceThe US space enterprise is desperately waiting for Starship—will it finally deliver?&nbsp;&nbsp;Ars TechnicaSpaceX will launch Starship V3 May 20 for NASA Artemis&nbsp;&nbsp;NewsBytesElon Musk Really Needs Starship to Work This Time&nbsp;&nbsp;Bloomberg.com",
       "sources": [
         {
           "name": "NewsBytes",
@@ -66,14 +150,62 @@
       ]
     },
     {
-      "id": "4e39175dd834",
-      "title": "For the first time in human history, most people live under skies they cannot see — and the psychological consequence of having lost the night sky has barely begun to be measured. - Space Daily",
-      "published": "2026-05-18T12:00:26+00:00",
-      "summary": "For the first time in human history, most people live under skies they cannot see — and the psychological consequence of having lost the night sky has barely begun to be measured.&nbsp;&nbsp;Space DailyLight pollution affecting lizards’ physical functions&nbsp;&nbsp;MRCVSonlineNantucket Lights: How Light Pollution Disrupts Marine Life&nbsp;&nbsp;Bluedot LivingLight Pollution Harms Health, Nature, and Astronomy&nbsp;&nbsp;tovima.com",
+      "id": "4cb2be9a2d5b",
+      "title": "Urgent action needed to close devastating vaccination coverage gaps in conflict-affected settings - MSF Access",
+      "published": "2026-05-18T09:41:37+00:00",
+      "summary": "Urgent action needed to close devastating vaccination coverage gaps in conflict-affected settings&nbsp;&nbsp;MSF AccessThe world must not turn its back on vaccination&nbsp;&nbsp;Arab NewsHow a historic push brought 100 million vaccines to Africa’s forgotten children&nbsp;&nbsp;TRT World",
       "sources": [
         {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQ0tTNkh5dkhYeDhUMFNpdDdBRmtfa05JSjlhUjRGNC1sUERJZW5rYjZMcDhSMk1iRzVlOXRKX2xva2Q2Y2o3QVR5blpJS1IzN2o3RWxUSWQ5TE5pREJic1V6aEdwOGxjNXFBUHFHa0hyY3BKUm16a3pvckZ4blRwdmpUN05taE13MWFXNDcwZkowdG1RT05RSlU1WDR0Y3dGRm1WSlBVQVI2Y0tlVERfd1NBOGFzbm9aUmpJb0ROYWRKenZJbGNCNE16dVdWNmIzNjZBdzh6MlI2NU15bFJCN05GckpXall1a09XWTB6WGV3NUV5MlRzUWR1N0NDeE1tMUF2Y3NuZWVOenZ0cFpZbTlCczlBRm9qTVM0WVozU3h1YXFOZnY0Tg?oc=5"
+          "name": "MSF Access",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU9JZzlVWDNaVGZmT0dRMTZMaGNBalFiN0gzVlpNWWdIMEE1SHFPVWhXWk1sS3lsNTZKMUxQaW5kWFdlRG04clZGb0NHS0RGN21uUG5JeVZ3eUVNaGx6QnNscXhJWEZ2RXRSdk96QXEzUjVkU1l5dTBhTS1WbmFBcFozdkF4TFNsaV85cEdRRWxUdWpUbWpuZEhCVVF4V3FyVVprX3RZb1FXM1NNODhFNzYzVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "448357a4e607",
+      "title": "WHO South-East Asia Region Invites Nominations for 2026 Public Health Champion Award - World Health Organization (WHO)",
+      "published": "2026-05-18T09:29:44+00:00",
+      "summary": "WHO South-East Asia Region Invites Nominations for 2026 Public Health Champion Award&nbsp;&nbsp;World Health Organization (WHO)",
+      "sources": [
+        {
+          "name": "World Health Organization (WHO)",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNnlYWTA1SFV0S1l4WGEwcHBuNEFRb1dSNGcxeXI5VmU1WGgtaUljejJSS09oYXl5c0g3Z05SM0NsYTV6dXY5NmdIZUI3WU11WHBrXzZnbEp2dDhOWWJVb0RRamJ6U09nUTVEMzF0OGpRenBZalNkUGVuY0ZPelhhSTMtTHNfRU9yOF90ejNyaTFiMmVIdjY1NnpZcnVpX2JkOHpKRkVyN2tEZzFtcmNzcXNhbkg2UTI1MWcybldGdWYxNDJVeWVCSWIzWkFHV2M4bENFeG9aVGY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02bd611f734a",
+      "title": "Acute Kidney Injury Sets Kids Up for Chronic Kidney Disease - Medscape",
+      "published": "2026-05-18T08:48:52+00:00",
+      "summary": "Acute Kidney Injury Sets Kids Up for Chronic Kidney Disease&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0ZJNVpOMFpOYWFsbzlUZzhOVmtkUGRjRW9aVUduRllra3Fkc2ZTRXdBS1lFc2lMd2xidjFFT2N6YUVhSS1BQUlLNFFwOTBBMERqY3BQX0JFcFJVLS1mUzV0OUpvWEgyM3JEUW5CNGVQWk54MmdaSHZnYWYyVWJNek9jMzMyUjVCSUFPcWxnM3ZUSC03M2QtVEpOLXhzZkNneUJPR0UyUWlJdHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9124fcf19774",
+      "title": "Asteroid 2026 JH2 To Make Close Earth Flyby Today. How Near Will It Get? - NDTV",
+      "published": "2026-05-18T08:48:47+00:00",
+      "summary": "Asteroid 2026 JH2 To Make Close Earth Flyby Today. How Near Will It Get?&nbsp;&nbsp;NDTVAn asteroid discovered days ago will narrowly miss Earth&nbsp;&nbsp;CNNAsteroid set to fly very close to Earth&nbsp;&nbsp;New ScientistWatch an asteroid the size of a blue whale hurtle towards Earth live online TODAY&nbsp;&nbsp;SpaceAsteroid the size of a cricket pitch will fly past Earth on Monday. Are we at risk?&nbsp;&nbsp;India Today",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUlKNUZ3SmVlc21GUnk1clI2TmpleVBfb19sRkd5MW1uSHFsS3lfQ0NSdEVRckJlWmVUUUdNa0FuLWdJby1mZTNzQks3YUlRZGZ2by1GOHlIMk9vc21Nbk9DSVNJLU9qZ2lNME1Pck9pMDdXcW9qRnB6WkNNdEozS00yekZLaTY2NzJ4YV8zOHNyRUg1a1dfM2Q3dDhwR0Y2NlRPZVNWX08xRFh50gG0AUFVX3lxTE5ISzAySGFoa2tMNm9tMDdBWjUzSkdJMmEtalIwWTdNdXBpOVpVeENjZDY1RUlvZk9Bajdrd2RVWW9Vbl8wZXNfXzNlZmtlS2NLQlNjanVFVlFXRllzQVg5N3Z2Zy0yMHNRZnVCeFE4UjltSTRGMUhxcVpESndvWGYxZHk3SlRWX3F0dm5jeVNTZE5jbUpRdHZNM3pPRXJFcGE1OU5oYTR2dlZKbmpNNlF6NTRodg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9197ab02684e",
+      "title": "Scientists think they’ve cracked the mystery of human right-handedness - ScienceDaily",
+      "published": "2026-05-18T08:16:54+00:00",
+      "summary": "Scientists think they’ve cracked the mystery of human right-handedness&nbsp;&nbsp;ScienceDailyWhy 90% humans are right-handed? Scientists finally find a fascinating answer&nbsp;&nbsp;The Economic TimesStudy links right-handedness bias in humans to walking on 2 legs | Study published in PLOS Biology | Inshorts&nbsp;&nbsp;InshortsWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular ScienceScientists finally solve why humans became overwhelmingly right-handed&nbsp;&nbsp;Interesting Engineer",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rVXNIMGVLcnF1TExOY2VNNDBOZnBNWFdnS2xVY3VPMjNfbHpNMWNKRGQxSnQzc1h6ZlRLXzJJc1JxelIyS1Y1WExIM01XQkdIV00zYl9pQlhfVmFJMjE2eTJtRDM1MkJKTHZKVVhjMA?oc=5"
         }
       ]
     },
@@ -90,18 +222,6 @@
       ]
     },
     {
-      "id": "781184851ada",
-      "title": "Why has the WHO declared a PHEIC over the Ebola outbreak in Africa ? - The Hindu",
-      "published": "2026-05-18T07:33:19+00:00",
-      "summary": "Why has the WHO declared a PHEIC over the Ebola outbreak in Africa ?&nbsp;&nbsp;The HinduEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)At least six Americans exposed to Ebola during DR Congo outbreak&nbsp;&nbsp;BBCEbola, hantavirus: Is the world prepared for the next pandemic?&nbsp;&nbsp;Al JazeeraAfrica CDC Calls Urgent Regional Coordi",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa2sta3RBaDFjbHNxNW1VNmhVcF9vQUFwdVFBNGNKeU5MNDc3ZDVFMXRrYUVvbGJVMlBnd2p4VC1mQzdBQ3psR2pWSzN6N28yMVVKMGdaT3k0RWxMZi1CVlNDYTlvS2NQcU83V3E3cFRvS0ZTOXVsVVpqUWp4ckxKOTZRaXpsQU02NWR3bi02MG55My14dnhfMFhhamlSWXEyV1pyMGxEMlI1VXhFMDFFZy05cUFWc2J2M1VaRXVuS2ZBNjZUc3fSAcwBQVVfeXFMUF9MTGp5ejdCdUh0eWxVazU2S3JMaDhZT181MEFBYlhmdTUxa2JLX25CWGExN3RNYjdiRHpvV0FKcWRWUWc3VHlmMkNMWXpPSTV1eDIyTnZuUG9kdVFCSnpDWm8zM25GSy16X09IR3NrNXF6MVJEdGdVazBGWHg4ak9pMzlweWU1RGFEQnRnSXZMRndfZTQ3M3h6SmhWX1MwUnNpa0pISTVfRUFSTThHbTZFdGtsN25uNVhON3p4eFU5UWJGSTZab2RhZmVw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2c7a1cc108cf",
       "title": "Further delineation of the phenotype and genotype in a newly identified PAN2 -related disorder - Nature",
       "published": "2026-05-18T07:21:19+00:00",
@@ -114,26 +234,134 @@
       ]
     },
     {
-      "id": "6ef87b0976b4",
-      "title": "One tests positive for hantavirus, Canadian national health agency confirms - The New Indian Express",
-      "published": "2026-05-18T01:09:04+00:00",
-      "summary": "One tests positive for hantavirus, Canadian national health agency confirms&nbsp;&nbsp;The New Indian ExpressHantavirus Outbreak: Canada Confirms First Case In A Cruise Passenger&nbsp;&nbsp;NDTVCanadian from hantavirus-hit cruise ship tests positive&nbsp;&nbsp;BBCCanadian cruise passenger tests presumptively positive for hantavirus&nbsp;&nbsp;news.cgtn.comCanada confirms first hantavirus case in British Columbia; study reveals how long the virus can survive after infection&nbsp;&nbsp;The Times o",
+      "id": "4ae0ddfa218d",
+      "title": "Hantavirus-hit cruise ship due to arrive at Rotterdam port as final destination - chinadailyasia.com",
+      "published": "2026-05-18T05:09:31+00:00",
+      "summary": "Hantavirus-hit cruise ship due to arrive at Rotterdam port as final destination&nbsp;&nbsp;chinadailyasia.comHantavirus-stricken cruise ship expected to arrive in Netherlands&nbsp;&nbsp;The HinduCruise ship hit by hantavirus outbreak docks in Rotterdam&nbsp;&nbsp;BBCHantavirus-hit cruise ship MV Hondius to dock in Rotterdam after onboard cases&nbsp;&nbsp;The Times of IndiaHantavirus-hit liner reaches Rotterdam, crew being quarantined and ship disinfected&nbsp;&nbsp;Reuters",
       "sources": [
         {
-          "name": "The New Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkpPcmx1czh0cWd0RjRmU0JXS010ZU9XWkN5Mjh5dTdfbG9OaUs2ZjZQbU00dWwwRnJKOHVtek9VajZ3ZTlUSWJ5SnI2dFBLZDRaMXc0ZjNXeHEzZmVlTFQtV29ncngwVWNKUS1nWF9QSXhpV3B4UDY1dEhPZTllcThILWlYMzhMRnN6VmJJRlR1eThmZWRUSVRRV1I1UlJSeXk2Mkw2b255NDBaT3JBWE9jRTAxWDJVV3IzWDZNWkMwOGvSAdABQVVfeXFMTkFlZkNCQ1laR2xDbkxSZmZUQkVGV1oxWnlRUDVKeDVjeW1IN2lCeHlYYkFSZWdRS0FBYVQ0emZZdGRraWtOeWlJS1c5alExUTJnLTJlSnRNRWNNZHJCVjNGdEVBOEtoamlqamJ4V2FZT2xlUGEzWDEwQXBYV2dGUWNtZ3RVWE1FM3VPSWRvMHo2OE5udjdtVTkxU1ZSRzJkVFZ2cklvNW1hdkY1RHFEUTd3VjU2eE1IZE1qMC1oeXEwR0JfOXI5eVk5S3ZiMFlvNQ?oc=5"
+          "name": "chinadailyasia.com",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xNkZLeVVKVWpZdU05amRyV0Q5Y0V4RXBrSkZhNGtDU2ZJa2hJSmljMXhmUWxKajJ1ZW9kS3hDMXNWS1BOR0dVeFRfSGVvSEdsQ2tELWFFSEk?oc=5"
         }
       ]
     },
     {
-      "id": "0d20ac88a4b7",
-      "title": "'The secret lives of birds': Researchers eavesdrop on avian conversations using microphones - The Cool Down",
-      "published": "2026-05-17T18:40:00+00:00",
-      "summary": "'The secret lives of birds': Researchers eavesdrop on avian conversations using microphones&nbsp;&nbsp;The Cool DownSee more headlines and perspectives on Google News",
+      "id": "ab78a63f45d7",
+      "title": "Bringing bacteria into better focus - Asia Research News |",
+      "published": "2026-05-18T05:09:21+00:00",
+      "summary": "Bringing bacteria into better focus&nbsp;&nbsp;Asia Research News |See more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "The Cool Down",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkpLXzNKdzBnR0lvU09iOVhTNU5tQk5QUjFoSkZraXhWRnhNVG9xc1NzVHBRWVpDYlgteWFJT2F3TzNtYnJBOW1fZk16V0dQOHhQMDduOWYwNHNUWC1sRG5IeXk4NXlQcXFkaG8zcHhxdXdWOW5pQlBnNURHRlppbF9KN2NSdFR4ZkJsN3pPUXltdWVqRHdtVw?oc=5"
+          "name": "Asia Research News |",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1MmxnRURiMUdtcDFxMlJVVk43TFA5bjJESlE3emRhWE1CRXR5ZUN2dW11U19VYkFKdmVTZHJkaWZHSVJQWkdlN1VhWnpRUm9ScVNST2Z6QkZWaVBBOTdScC1uUDh0MjJCSXM5bzR5TE93aU1oanhVYkNQOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4610fbd4cb65",
+      "title": "Meet Nagatitan: Southeast Asia's largest dinosaur who weighed as much as nine Asian elephants and was 27m - The Times of India",
+      "published": "2026-05-18T04:08:00+00:00",
+      "summary": "Meet Nagatitan: Southeast Asia's largest dinosaur who weighed as much as nine Asian elephants and was 27m&nbsp;&nbsp;The Times of IndiaThe first sauropod dinosaur from the Lower Cretaceous Khok Kruat Formation of Thailand enriches the diversity of somphospondylan titanosauriforms in southeast Asia | Scientific Reports&nbsp;&nbsp;NatureGiant new dinosaur identified from fossils in Thailand&nbsp;&nbsp;BBCThai team with UK researchers unearth Southeast Asia's largest dinosaur&nbsp;&nbsp;NewsBytesSc",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOWDlSbDlZWkRJNVIxaUhhUGZRSTZweXlkM2ZBSURtTTFTUTNhM3ZDMEtFR0JvV3p5cFduRngwNnVJVmNQWW9PWUlVNEV4bEE0dXVxaDQ5UHhnWFROSmhjQnYzaXRpX0NodnNvam9WTG1fckhOdUtSNkhDdnRkUERNSXBoOU1tN0N4VHVqSWMxUVYteDdaMUR0TWh6c29fMXJiQVBoRWtmSVBGOGF4YjVHcFp3QllacUowVFdDblNVLTBwT04tZWx1T3pleTgwNUxCV1RHWlhTRlM2RWduV1JPdFhKSXhQTEtUTEZCN2NJODlTSWNzYldOUGhGOENZZU9JWFcwRV9vcVptNjY3TkNMVkVYVWJ6b2N5bFNZ0gGgAkFVX3lxTE91N2pOX1cxMzhtLXNzS08wWld4QnlUd3Y5N29ZRlBzR1d4UXhYdE1idElBMUhtNDZTT0FucGFqMnJXN1pQbV9LbjNiNkc0eFBGU1RUOHpHbVFFUG9MWC1NUmZoNV9ZeFNNZkFOQUpMTFl6VHpmS1dKRGU2WHp6aHpnOWdJc2ZTYklSU0xpaU81b1g0ZkdfTmRNZlFvVEdSbGRrbVZFNUhvTFFFMzA0aDZsT3MwYklxS1ZaVS1MV1lKVlcwOWZ2bTR4M2hadHJQYkNSaXBJV1dNZmQzMXM4eEVCUkl6WlJ3NUw3a1NtUjZPS0xsWlBEM3lfZGxEYWtncUNvUVpqZ01TRzk2d2t6S0Zka1F0NFFQRzlrWFA4eGlqdQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba0cb8162012",
+      "title": "Bioremediation of low-density polyethylene microplastics using red microalga porphyridium purpureum: a biotechnological perspective - Nature",
+      "published": "2026-05-18T03:13:27+00:00",
+      "summary": "Bioremediation of low-density polyethylene microplastics using red microalga porphyridium purpureum: a biotechnological perspective&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hQUVZX1BVTTJtdlFoWVd1MEJPWU9DTUhXcHF4enpWTm1IbHB4YjRLLU00aU03bzlhdDlaOE5MLTNxYWd0TjliZTl0ek5ScERyelhhaWJGNVhsSzVxS1Q0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99c4976e8e4e",
+      "title": "Are you chewing your food less to save time? Your brain might be paying the price - The Times of India",
+      "published": "2026-05-18T03:06:00+00:00",
+      "summary": "Are you chewing your food less to save time? Your brain might be paying the price&nbsp;&nbsp;The Times of India'A hidden blood pump': How chewing more boosts your brain&nbsp;&nbsp;BBCChewing more could sharpen memory and help the brain, research suggests&nbsp;&nbsp;mogazmasr.comChewing more may boost the brain, research says&nbsp;&nbsp;El-Balad.com",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0FRNG5BenM0NHRSUVlWX3RiNjFqREJtZkRpZGR4X2lqRExWaGdsckFZODJXaHlfWFpsYXhNQ19FdnJpMkxUMUdqTjR4X0hZNUREeE9wbzJ3UjVrekJ4OVRPeXZjQlJ5S28yVDhLVkVJUW1TTUJqeENuUm4xMTlEOEY5WFo5Mlp0M2FzeHVCdENtc1NuR3l2dFdZaFEyNkJMa25vZXdoOUprUGNXTlpQNVNScmwyNU9RTThZX2tqZ1QwOFZud051cUViajVvQ2pMbFEwSU82V2RMemZSejJfandqQm9Dcl9XQTJYMVBjMNIB9AFBVV95cUxOb3d2anJ6X1ZIcGJZQlVQS2VVSGo1TVdCOUFsZ0VTQ1AxUDN0eVpaZ0E3UV9wbzZfazBYZ0FXWEI3S2ZnaEhxSnlCaExDZURXR1MxNXp2NDhGZUpsLTh3dFFWRFJzZ1NPaGdraVVGbWk3V3BIQlVEaXQ1VGtpRExza1FSWHVUSS01N1RIdmVpckJGUW1rX09zOHdYM1lTd3FxWlk5aXFrWFA3SkV5MkM5TURZM3lBY3ZFSS05aUFROVkyNE8wOUxleXdPa1R6S1JLNndDU3ZpQmNGU1g5NVpaQ1pMbDZ4UmRKUkRlN3B6NzYtTmI1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1bdb3a12a1b4",
+      "title": "New Study Reveals Impact of Ancient Tethys Ocean on Central Asia’s Landscape - SSBCrack",
+      "published": "2026-05-18T03:05:45+00:00",
+      "summary": "New Study Reveals Impact of Ancient Tethys Ocean on Central Asia’s Landscape&nbsp;&nbsp;SSBCrack",
+      "sources": [
+        {
+          "name": "SSBCrack",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZElHTGtpY0JhdXdlRVZnT0xYYVlIT0Z3cHZ3QmM0QWYxSFNUZVdQM3N3TUlxSVJyd1JWLTdqZ1VBRnFZeVRtcnlkcFNtSlpBcm1Wb2EtYVFhM2k4R0FHRmREZEh5Q2g2aVJXNDlRV0hNeXI0LXlTVm9nbTFnTHJ0cE01QVVVMHM1RXY1bXZ2YThTUGpFeFhlZDVwZWtya2pXMHRwZQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1cd32df44a17",
+      "title": "Endometriosis Ovarian Cancer Risk Needs Context - EMJ",
+      "published": "2026-05-17T21:32:27+00:00",
+      "summary": "Endometriosis Ovarian Cancer Risk Needs Context&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVp4Ymw1MFJXak1JSVNlMmxnNkFRZUZUNEZ5cXhTbGFOSU51MVpGd2ZWUmdRSHlhM2s2TEFQaGhMcU5BdmVaT0ZhTmhvVGFEUzdZbXJJaDFHR215NWpyQ1hKcHFNNGZZTEcxVnBNYXBVWDFOdE0xSHJKTWYtZUlWeUxNWUR1bzNZSnZkVFhSYXFQcHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5cbff67ee116",
+      "title": "Can Seizures Be Prevented After Brain Injury? - EMJ",
+      "published": "2026-05-17T21:17:23+00:00",
+      "summary": "Can Seizures Be Prevented After Brain Injury?&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzJtcW9iamNKakwtcXhFTjZZNUJlNlcyT1dHWjNrMXVCSmVaRmNKd0tQV0JkNmpKY1pRNU9qMmF1ZzJLeExiclpRalV1VU0xUXUwMGFvOFBDZmpGb2xISjNhWkhNQnA4TW5vLXhReWlLOVNpeFp2dks3d0xNc2JGNmdydUo1SHVzbjdaTGh6NEM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02aa2e62c2a7",
+      "title": "Stevia’s bitter aftertaste may finally have a fix - Earth.com",
+      "published": "2026-05-17T20:43:51+00:00",
+      "summary": "Stevia’s bitter aftertaste may finally have a fix&nbsp;&nbsp;Earth.comWhat gives stevia its sweetness? Scientists uncover the genetic secret&nbsp;&nbsp;EurekAlert!Scientists Discover the Genetic Key Behind Stevia’s Sweetness&nbsp;&nbsp;Bioengineer.orgWhat Gives Stevia Its Sweetness? Genetic Discovery Offers Answers&nbsp;&nbsp;Technology Networks",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUS0yR0hVNDVsU0wyd09kUnRKYXlzY0lNdEh6cHlUWGhHZUI1bGlYMUgtY3NOSTliQUh2MlQ1MmxIeDBMdW5PWjRnX3h1bS1qeVloUmZrcXNwbkJMM0kzeTdvVVVsU3RoNW9GQ1VjelR1RF8zcFJ2MGRrOGNMY3lVX2tR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eb81e8de21fb",
+      "title": "National Dengue Day Observed at Dr. RP Hospital, Mayabunder - Andaman Chronicle",
+      "published": "2026-05-17T18:32:39+00:00",
+      "summary": "National Dengue Day Observed at Dr. RP Hospital, Mayabunder&nbsp;&nbsp;Andaman ChronicleNational Dengue Day 2026: Doctors warn Dengue is now a year-round threat, and families are still missing early signs&nbsp;&nbsp;The Times of IndiaAIIMS Bhubaneswar organises National CME on Dengue Update 2026&nbsp;&nbsp;prameyanews.comPhagwara Civil Hospital marks National Dengue Day, urges preventive measures&nbsp;&nbsp;The TribuneDengue in Adults: Rising Burden, Hidden Severity, and Impact of comorbidities-",
+      "sources": [
+        {
+          "name": "Andaman Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0gtcTdUdHljRnlYb1lmT29aemMxcU5lbDRZQWxzM1RjenBwNHpRZUFadkJCM3JZVXRxV2lkVzRyX0tVU3d6bUx4eFZWd0VsSHUzNHhJNmxpaUdyeHpmZmUyWWdEYnJBSHc2cWstUmFHaHZyb2FoX24xWTRETG5aREdMZnZWMVkxa2I2NXhqQnY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e53105959a87",
+      "title": "One tests positive for hantavirus, Canadian national health agency confirms - The Hindu",
+      "published": "2026-05-17T18:27:52+00:00",
+      "summary": "One tests positive for hantavirus, Canadian national health agency confirms&nbsp;&nbsp;The HinduHantavirus Outbreak: Canada Confirms First Case In A Cruise Passenger&nbsp;&nbsp;NDTVCanada confirms first hantavirus case in British Columbia; study reveals how long the virus can survive after infection&nbsp;&nbsp;The Times of IndiaCanadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak&nbsp;&nbsp;CNNCanadian cruise passenger tests presumptively positive for ",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRlZfeEh4YjdjWDRFcUtaamlxVzlza0tzMGF3UmZnUjVVR0c3bWEzeDdQSzRMN2FBVzh5ODgtR2ozUGtxdWdCZ2xyTGpFQ2tRM3E0YkljTWxaSEtUMUNEQUpzYzZHU1pKMERPdkNHQkxseEY5c1FLbldtOXNYTVlSZHprN1BVMHJYZWhXMEx5S0p4WDRfQVc5clNBcll2OUtvcmNtclJ1OVZIN2NGcUp1MldwREV3ZUhFRm9GejlhTjR4RFA5RmdPa21lMF9hNHhzdFJWVtIB2wFBVV95cUxOZkRXOFRYd0RNbTMyQTRVc1pOYlhnQjBIbGp1c29oMVVJejNwazU2bkdsaWJjY1ZfTk9pMHBNNjMxVkJleFR5OGdaVWYxU3cyckJwNzN1ZXNFWDhwMTBpaUxjeWduWkVSc1pOUkctbXBYMXFUcGNvTGsxa3BhZVRnRFN0UmdqM3FMUDBtSHVYVTMtVFNjaWFvTzFuVXl1ei1PZ2ItQWhTenQ2eWJ6UUxrRm1iTUdyYVB3c0ZiOW1lQVIxY09XeXp2ZFhycWJfQTRDZDNHNzFHNWZMVk0?oc=5"
         }
       ]
     },
@@ -150,6 +378,18 @@
       ]
     },
     {
+      "id": "51d575e7968c",
+      "title": "Study Says Two Minute Sweat Bursts Could Save San Franciscans' Health - Hoodline",
+      "published": "2026-05-17T16:41:37+00:00",
+      "summary": "Study Says Two Minute Sweat Bursts Could Save San Franciscans' Health&nbsp;&nbsp;HoodlineSports PhDs Prove 30 Minutes of Training Per Week Matches 150 Minutes of Cardio (But There's a Catch After 6 Weeks)&nbsp;&nbsp;BoxLife MagazineToo busy to exercise? Just 5 minutes of brisk walking, climbing stairs can protect your health&nbsp;&nbsp;Moneycontrol.comThe healthiest workout may be shorter — and harder — than people think&nbsp;&nbsp;San Francisco ChronicleScientists say just 30 minutes of exercis",
+      "sources": [
+        {
+          "name": "Hoodline",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGsyZFNJVTJKU3pUSWZ1Tlh3ZzN2b3BlT19rNWJZcmZwVVFfNURqTkt2OG9takNUc0FRbGVyeDJaSVRoenduSk1zMWtaNWpFZll4TnNqRG5Oa09VVjF4ZWlVSG5WMkI3cWp3OVdRMG5idjZCeFdqUzRnQmJGcE5HaUREeHNya1cxTjZHWXduMHQ1TXUzVEdXNFA5OUp0Q0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0c9aab6d57e8",
       "title": "Bermuda Triangle mystery takes dramatic turn as scientists reveal what’s really hidden deep beneath the Atlantic Ocean - MSN",
       "published": "2026-05-17T16:04:20+00:00",
@@ -162,14 +402,14 @@
       ]
     },
     {
-      "id": "b4e62efb04fa",
-      "title": "Where is hantavirus in US? North vs South America — researchers identify three emerging 'hotspots' - Mint",
-      "published": "2026-05-17T14:46:21+00:00",
-      "summary": "Where is hantavirus in US? North vs South America — researchers identify three emerging 'hotspots'&nbsp;&nbsp;MintWhen climate, ecology and urbanization fuel zoonotic diseases&nbsp;&nbsp;news.cgtn.comWhere does hantavirus lurk in the U.S.? Scientists found ‘hot spots’ in surprising areas&nbsp;&nbsp;NBC NewsHantavirus outbreak tests post-COVID health communications playbook&nbsp;&nbsp;ET HealthWorldHantavirus: Is there a risk of another pandemic?&nbsp;&nbsp;Investing.com India",
+      "id": "6e1377f19a3b",
+      "title": "Vaginal birth after cesarean more common at Black-serving hospitals - News-Medical",
+      "published": "2026-05-17T15:16:00+00:00",
+      "summary": "Vaginal birth after cesarean more common at Black-serving hospitals&nbsp;&nbsp;News-Medical",
       "sources": [
         {
-          "name": "Mint",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd3BYdnpuYmRJME1rcHRGVkdONzBZdlpsOE5rRXp2LWFOU0xjdFhYY3VaWUR3dXJYSkxjQmRjN3RnRDZ3ZUt5TlBlai00WHlEUDZsQzlyeW1ySTZUelpWM3BIOUZyMVBzYzNmcFZDNUhBR1pJaU5YX1VneXVUWGtBVm14SS1lb0FZX1JfWGdzcVZ4VkM0M085aFFYaGZLZE1DMjNkOXlMOUJYTDM3ZXR5c0hVOE11ZXBGV0hmeGliVWxQVm5Ia3JkNkZWd2dUVkt6cjczMmFJZ9IB3AFBVV95cUxOUXUzc0RiREdKVXdNYmhrTUdmMXVJZWdGdFotN1hSUk1iT25heW5FcE5XVHc3MGxsenktVUd0TlowclNkSnVTMkdSOEFoNkZVZlloRDU0cGRxTXRzbEJVeUxPSnFFd2ZILUdVU0syYnE2SXlZbmFTWlhVeWRreEdldzFMYVNUa04xOWY3YnQtZ3kya1FFbXJhdF9QVUxlSVBGWEhpMmhlZmp1VjNmaGhuVjc5RHhsbUhib3lhWnppRXpRSHJCZHdheFh6dDVYOTdaY29vMS12NDVmT3lh?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORml2M2lmc3l5YmQ0SkxJUF9peUl4TkxHZkFBRElmZmZWdjFfTldRMEItT2xoMnZzQmVHMGJhWUZzdkx2eF9ndlo4UmtkMHlNY0RINWxHWlVFT3BsR3pacnRRanZlVnNiQ2Q2OTZHRTd2VGkxU3FhdHZXNVpDdTBDcExLVnBCRjE2MjY5SnRUNXk2ZVI5SzdoTm5LVjJkRkd2SjQ3X2FTeGhGM2RKWXRKd21mTlExdw?oc=5"
         }
       ]
     },
@@ -186,26 +426,14 @@
       ]
     },
     {
-      "id": "a66c57be02fa",
-      "title": "World Hypertension Day: 7 simple lifestyle changes that can help control blood pressure - theweek.in",
-      "published": "2026-05-17T11:01:00+00:00",
-      "summary": "World Hypertension Day: 7 simple lifestyle changes that can help control blood pressure&nbsp;&nbsp;theweek.inHigh Blood Pressure Is Far More Dangerous Than You Think; All Consequences Explained&nbsp;&nbsp;NDTVNo symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The HinduWorld Hypertension Day: Your grandfather's disease? Not anymore&nbsp;&nbsp;The Times of IndiaUnmasking the Silent Killer&nbsp;&nbsp;Greater Kashmir",
-      "sources": [
-        {
-          "name": "theweek.in",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaVp2Uy1qZGVldWhaazBKUmloOFlzeExYTExhUnQybmI5bWMxMTJtQ01yeXJ5OGFyYXBkRjR6em1qSEtXVWMwaXUxOXEwQmpMbmZjNlpWclpRaFNDSzRLWldGTzV1S2xwRkdfVjlhNTRCZDZLc1k2NkRtYkxrQXdZcTFpdHZrNG92b2taQmdfekh2bE9CZllkdnZycEZ2WDhZM0s5d0NVWU43aU5TQ05TSkVxOENRS3Yyd21kSW5QX3lsXzdlVE5KXzFsd3BzTG91S3A00gHYAUFVX3lxTE5oLTRETTktWmdzZ0tBZmhSX1dFaFV4dmc0R0pwWTNVQVAtX2ZqWTdFbWthOFkxdzhITHpMZXhOenNQMEUxeXlzd3NaSElhRUJSdE1RcG1IUGFjVG1qcVIyallRTFlDQUFpUXdXYzA0azJ1M2QzMi1IMnQ3RndlbWVJenhjaS1sQnN5OUVSaWY1MGJlVmY1VDg4T1VUclgyLTVrbFpTMlJscTdVQkFuMmQtN0dZc2daWHZ2dzhMTzNTU0s1TUkwYjdadjV3Y1drOU9JZGs2WDc5dg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "474f27169557",
+      "id": "d5250912d513",
       "title": "Satellite launches may be dimming sunlight on Earth and polluting the upper atmosphere, study warns - Moneycontrol.com",
       "published": "2026-05-17T09:36:47+00:00",
-      "summary": "Satellite launches may be dimming sunlight on Earth and polluting the upper atmosphere, study warns&nbsp;&nbsp;Moneycontrol.comSatellite launch pollution is becoming a major climate threat, on top of the huge space debris problem that already exists&nbsp;&nbsp;Earth.comWe fixed the ozone crisis once. These new rockets could erode it once more&nbsp;&nbsp;BBC Science Focus MagazineDead rockets rapidly destroy Earth's atmosphere&nbsp;&nbsp;Universe Space TechSpaceX Starlink and other satellite mega",
+      "summary": "Satellite launches may be dimming sunlight on Earth and polluting the upper atmosphere, study warns&nbsp;&nbsp;Moneycontrol.comSatellite launch pollution is becoming a major climate threat, on top of the huge space debris problem that already exists&nbsp;&nbsp;Earth.comStarlink and other constellations are an 'unregulated geoengineering experiment', scientists say&nbsp;&nbsp;MSNWe fixed the ozone crisis once. These new rockets could erode it once more&nbsp;&nbsp;BBC Science Focus MagazineDead ro",
       "sources": [
         {
           "name": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdGxqXy0wV1pCM2dial9ueVI4X2oyd3pSQXozRTI0VDFycGpfYmM4czdOU0UxZkZUSWRxRUNGT1BXb1RZTkxKMnVrYWRjN1E2R1dhazNXakhQdkFlQWtvdVNPTEpEVzByNktCY3l4Q2cyenM0d1F6RVQ5bUM0NjlTMXpoTndUaTB4STBKRDNtV2ZKYkdnd080X1FrS1JZTWYxSkJZUm53R1JxWW9TWG9EZ3pGeXpJTkF3ckVhbno1aHMxbHNNaFNhTGJTRktVSmhTWFJIZUZ5eU83NHdEWkRqdm9GOTUySXNQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdGxqXy0wV1pCM2dial9ueVI4X2oyd3pSQXozRTI0VDFycGpfYmM4czdOU0UxZkZUSWRxRUNGT1BXb1RZTkxKMnVrYWRjN1E2R1dhazNXakhQdkFlQWtvdVNPTEpEVzByNktCY3l4Q2cyenM0d1F6RVQ5bUM0NjlTMXpoTndUaTB4STBKRDNtV2ZKYkdnd080X1FrS1JZTWYxSkJZUm53R1JxWW9TWG9EZ3pGeXpJTkF3ckVhbno1aHMxbHNNaFNhTGJTRktVSmhTWFJIZUZ5eU83NHdEWkRqdm9GOTUySXNQ0gHuAUFVX3lxTFBaY0VZZzlXQ0QwbDg5RW5LZk1SU2NjSW9KX2RHQ2FCTmEwRmRwTlJuMXNlQUtTTl9PZkVhbWlqQmV2S1Z5YnBUbGpxc2V2OEM5MlZrWVpRYmhRVEpkSWE2c01ITGRrUzQyeU4zTU4zZ0EyYzFLUFZpRnJnTGVZbm56bG5jTHRkMFJUZE5KR0hxQnNNVEFfNWl0ZkZIX0dfVEdacVFSTElUU2o0eUU4N3YzZjVwSElCWU5ZaTZ5OVVDOFRseEluS1lURU9xaVB3Z0FhMkRpWjRKUVN3MDg5R0cyNmZXeVNMbldzNWpqV3c?oc=5"
         }
       ]
     },
@@ -222,26 +450,26 @@
       ]
     },
     {
-      "id": "c68c4c6c96bd",
-      "title": "Scientist Kuljeet Kaur Marhas becomes first Indian woman elected fellow of the Meteoritical Society - Firstpost",
-      "published": "2026-05-17T08:02:56+00:00",
-      "summary": "Scientist Kuljeet Kaur Marhas becomes first Indian woman elected fellow of the Meteoritical Society&nbsp;&nbsp;FirstpostIndian Scientist Kuljeet Kaur Marhas Scripts History, Becomes 1st Indian Woman Elected Fellow Of The&nbsp;&nbsp;Free Press JournalKuljeet Kaur Marhas Becomes First Indian Woman Fellow&nbsp;&nbsp;GK TodayMeet Kuljeet Kaur Marhas: First Indian woman elected Fellow of The Meteoritical Society for pioneering planetary research&nbsp;&nbsp;The Times of IndiaProfessor Kuljeet Kaur Mar",
+      "id": "17169b47e68a",
+      "title": "Obesity among children is rising fastest in low- and middle-income countries, study finds - Down To Earth",
+      "published": "2026-05-17T05:17:50+00:00",
+      "summary": "Obesity among children is rising fastest in low- and middle-income countries, study finds&nbsp;&nbsp;Down To EarthThe ‘velocity of obesity’ aims to show which nations are slowing an epidemic&nbsp;&nbsp;statnews.comObesity rise plateaus in developed nations and accelerates in developing nations&nbsp;&nbsp;NatureWealth and health divide: Obesity rates plateau in rich nations but surge in developing world&nbsp;&nbsp;Medical XpressObesity rates plateau in wealthy nations: study&nbsp;&nbsp;Euronews.c",
       "sources": [
         {
-          "name": "Firstpost",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdzQ1dkN0dWYwbWlVU2ZxaUJPNmpGc2RsbkxBbHp6VTBTOXJpTEV1TkFNN1Y1TU00VnpVWm1nQUU5WXlSVDRfN1hDTWxmczVpT19qdHRKdFRwNHJPa3VKdGlCbGlfMHhNbkJpa2NXNjVJMkllQ1hXaEFHQk50SEhGSjRoeGo1aVlXNjBnZV9nUm8yZ0hqMno2enhXOXBTQ2xYS0hvRGYzZk5wTjRMbjlLeEloSDJvRUFjSENIZXlzUU9qR3BTb2l0dk1MZ1p6Q3h6WEs0NnlYM3k3R19ZMVJST3JHd9IB6AFBVV95cUxQejhzWjlrWTZTRkFZdm1UOW1zbF9SLTExZVllWm9PMFlSMmtKc0hhV1VJRUJza1NvRFBOeUc4QVZ2Z3U3UnM2VVhGeWRyem9QTkVaSjV4Um1pTVMtVTY0RkprcjMyTlB3ZXZmWEdvVVVMeURMSndkaWVfa3lySmVSckdiTVZjQ3FoRGJwZmJ0R3VYRTFTNWx0dDVUY21UUWIyYzFSaVRrZVZ1TkdQckZWZGREME5XenFtc3VFMF95QXZJc3J3MXhvdXFwcnR3OGd2VF9Qc2hlVEEtSUpTQ1JVTFk3X1c2cWt5?oc=5"
+          "name": "Down To Earth",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXdmNDl3NkRLV2FXS3ZLS0RndHhSSmZlRzVTNWtxUVA5RnZaZDhpS1hPd3FfdEFBdFRQM0VnOUlwY1BhWjJQU3U0aGQyeWdhTC1rM01MLWRxdWVYMWlucm5Zb3Ytdl8zLWtRYzN1czhoekVTUG1PRmtuSzZISHVSOWhFbURHSWRkNTVpTlhSdzZ5S2x5WFVSdVY0ajloTDRiQnlDMmxQMnlXQWtCc3UxcDFBQzhiMTE5Nkttbmoxb2tVTWfSAdABQVVfeXFMT0JIenRtNzl2c3IzVXVOa2hhYTMxeXpoZmRGRm9LNWNfdW15RGtqVU9GUUY0LTdiWGRFX2J3M2x1QnlTYjFNWDN6UTl1SnVDUU52bHJkMXVjSkkyamxEMVRLR0V6VVZtNjNPSV96T3hNMzJib0R5ZDc1S3V3NXJkU3lxeTRpd1p5M3B3VjFoNGx5VjZEdkx0MFJSRldFOGFQMmYta1c2X2w3TmNUV0NqVktvTlBJd3JOVUpfT3FSdzFUcGZQZlBVQm1rblVNWFcxMA?oc=5"
         }
       ]
     },
     {
-      "id": "d35bcd0d5222",
-      "title": "New genomic approaches uncover surprising cellular dynamics of the aging brain - Technology Org",
-      "published": "2026-05-17T05:00:00+00:00",
-      "summary": "New genomic approaches uncover surprising cellular dynamics of the aging brain&nbsp;&nbsp;Technology OrgSee more headlines and perspectives on Google News",
+      "id": "4477e6716c6a",
+      "title": "World Hypertension Day 2026: Why Switching Salt May Be India’s Simplest Weapon Against High Blood Pressure - Health and Me",
+      "published": "2026-05-17T03:30:00+00:00",
+      "summary": "World Hypertension Day 2026: Why Switching Salt May Be India’s Simplest Weapon Against High Blood Pressure&nbsp;&nbsp;Health and MeFrom ramen to gobi manchurian: High-sodium foods linked to rising BP in youngsters, say doctors in Bengaluru&nbsp;&nbsp;The Times of IndiaThe silent sodium threat behind rising hypertension in young adults&nbsp;&nbsp;The New Indian ExpressHow to reduce salt intake, prevent disease and improve overall health&nbsp;&nbsp;The CitizenMalaysians may be eating far more salt",
       "sources": [
         {
-          "name": "Technology Org",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzFRVjhpdmtqVURyMllmMEpKODlDaGtuQWVsdjV4WkdwU2Jib1dQTV9pZ3l2LWdmUlh5cTBxM2FrRkJ5bm5xYnkxb25jN25yWXlRWlE2dDJSa1RUOFN4b2U2cUFoNHg4d2ZPTW1QVzIta1BlSHU4LS1tVE9XWDhESVhuSmZlOE50YUVlX3NMQUNUeWxhNTlZRmVCdGctUHFoazhfUFpNbDFNRjVuOGhUbjA4bmxNNkh5?oc=5"
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcHcxZHVZSzhsR0M5d0FIRXN6bnBPanF5VTJnQmRxNnc5MHFScEtmdURDUzQ2UGdnUXc5MXJhY0VSNTcyTmNHbTVyRHVuSWtsREJabHNjZWpiVXROUjJ4emtlcnhOUHlrRk9EQWt5a3VsdGpRTXBCZU91ZFNsaEZUUTRNei1XbEpGcUVyZUM1SGdKemlFd3cyamtmLW9ZU2dzbXRqS0pDaDUxQmhEY2tuSEsyUjBJNU1EN18tQkZXcHM2MWg1VHp0ekU2OENPY0RYRlFReTFJTzRrdEd1NXFmbkQ0ZTNGajVYVWw2RElwbFlHajFoT3RqV0lB?oc=5"
         }
       ]
     },
@@ -254,42 +482,6 @@
         {
           "name": "researchmatters.in",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMbGFwenJSbnlsRFNEM3hORHJSTkFqQ2d4MU9ZUWJrWFhRa0x0dV9EMlU1bFFaOFBtdGJFSi1MbDJ0UnNtUlo1VndscG02Skt6SjI1M2lmSEhPRGNPQ3hSQ01SdEpsMlVtZEswTlJBX0I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ae74c50d9628",
-      "title": "IIT Madras researchers turn moon soil into material for future lunar habitats - The Times of India",
-      "published": "2026-05-16T18:35:00+00:00",
-      "summary": "IIT Madras researchers turn moon soil into material for future lunar habitats&nbsp;&nbsp;The Times of India",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOUNKbWR3NDRId0lnc2wyVVpYVUVaSkhSOGlhWXZSZ1VmTUEtU0NIYS00UkZsRWgxN3JUNGRVQXJub1NZdW5QaXI2QldFQWdYNlZmcmFPMWt1VTVRaGRteG1NYmNkVXgwT2w3bXEtRVZ3N2xSdVkxYU5vMmllSW5FM0pNR2VTN3dRdU5iSTZSdkhlLUM0V1JnbW1GTk5tckp5Qzl4N1FaampqUzBWSUZzWFdtcjR4LXdhQkV5eDVCTVRxZkR6N3dCZ29IZGpCcDZlbC1KTWNkQ3EtbE9ZZDRkdWd0aFNDNWPSAewBQVVfeXFMTXpOR19TV0lpd2hlOUdZc0N2MVR4akQ3bXkxTGpsZndJLXcxR3hRMm9rbjl5bFo0MHU3VDJOZkxUU0xuMVMyWmN3VG5KNmJlckQxWG92R3NrSDNhQUZCNUd2dWNKSDdhT0VnaXZNVUw1bm1EeTQ4ek5TNUptZVlsVEtnbWgya1l0UngtN2d1MEZTV3RneUN2NEp0V1RQeTdpdEZHQlktMHNSOGZwcTV3ZDJVdGVaeW0tQ2swSHlUYlpGenRlS3lzQ2tUUjY5dFNYcFJDSWVTVzVhbE1oZnFHX19yY1ZZeWRuMGNacEw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "05347be980b5",
-      "title": "Scientists Discover 100-Million-Year-Old Fossil Tiny Creature Trapped in Amber with Claws Seen Only Four Times in Insects - The Daily Galaxy",
-      "published": "2026-05-16T18:30:00+00:00",
-      "summary": "Scientists Discover 100-Million-Year-Old Fossil Tiny Creature Trapped in Amber with Claws Seen Only Four Times in Insects&nbsp;&nbsp;The Daily GalaxyScientists Discover Bizarre 100-Million-Year-Old Insect With Giant Claws&nbsp;&nbsp;SciTechDaily100-mn-yr-old insect discovered in Myanmar named after K-pop band | The study was published in the journal Insects | Inshorts&nbsp;&nbsp;InshortsScientists Found a Tiny Insect Trapped in Amber Since the Dinosaur Era With a Weird Feature&nbsp;&nbsp;The Dai",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VanR4NFVaV0U3ZXRJSGNtTDlBXy1aQXU1WHFBdEFFV1F5Tmc5SFV5R1lUVTNwRXVzVEI2UUU0bVktUV9DTFNuRWdDTWczYjRJMWhCV1A2VEg5TkM4SmU5azZHN3FFR1VZclI0aEpQaHZkX3pJMFB0eHBQYXNkWGM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "88ae955ddd3a",
-      "title": "Astrochemistry: Surrounded by Stardust: Iron-60 Discovery In Antarctic Ice Reveals: Local Interstellar Cloud Leaves Its Mark - astrobiology.com",
-      "published": "2026-05-16T16:39:37+00:00",
-      "summary": "Astrochemistry: Surrounded by Stardust: Iron-60 Discovery In Antarctic Ice Reveals: Local Interstellar Cloud Leaves Its Mark&nbsp;&nbsp;astrobiology.comSurrounded by stardust: Antarctic ice cores confirm Earth is accumulating iron-60 from local interstellar cloud&nbsp;&nbsp;Phys.orgScientists Find Evidence Earth Is Drifting Through the Ashes of an Exploded Star&nbsp;&nbsp;SciTechDailyEarth is flying through ancient supernova debris and scientists found the evidence in Antarctic ice&nbsp;&nbsp;Sc",
-      "sources": [
-        {
-          "name": "astrobiology.com",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRkZTZTZlWlVNUEFhRlczMmRXbTB5Vld5ZktSMjFoa05hajhJVHZGeE12WUd5QmhfUDZ5djI4MHBPa0tQUDB1OTgwYVJKWWh6RDZaRmdMenY3NmItZzhMM1I2a2hfLUNOS0NEY3VYdUNfNkFqS1BBVmRHZVdMdGt2MDVqLTVHaHRWaW03bm1uWFkxc1FsN3VQZ1hjZ2tfMjNNU2Q5LU90cFRGSVdGVFhnOXRrUUVCU3h4b1BSRnJOdDcxVThrSmJmZEVtRVBoU0cxMW5BTmtROTZjQWtVSUJXRTlieUIyZFpoSlpuOXN4cmQ?oc=5"
         }
       ]
     }
