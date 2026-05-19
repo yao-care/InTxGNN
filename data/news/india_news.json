@@ -1,15 +1,63 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-19T14:26:06.266410+00:00",
-  "total_fetched": 87,
-  "unique_count": 87,
-  "health_related_count": 39,
+  "fetched_at": "2026-05-19T19:30:08.305180+00:00",
+  "total_fetched": 82,
+  "unique_count": 82,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "5f8469153bfa",
+      "title": "Roundup: DR Congo races to contain Ebola as death toll hits 136 - Xinhua",
+      "published": "2026-05-19T18:51:15+00:00",
+      "summary": "Roundup: DR Congo races to contain Ebola as death toll hits 136&nbsp;&nbsp;XinhuaEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads&nbsp;&nbsp;BBCWHO chief raises alarm over scale of Ebola outbreak after death toll climbs&nbsp;&nbsp;CNNWHO considers use of experimen",
+      "sources": [
+        {
+          "name": "Xinhua",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56ckZ4NDJ0SFFiZDY1amNCX3dxdG5qdDFOSlFaOG1RZnd3djc4bTJQd1BSSU9FT2xNUm1YQi1zazFIbllYeXF6ZmlqSDEzMnNNRGpVeUoyM3ZxZEFacTlTSEZyeFpyUU9HVXJ0WGljX1A0cGk3LTc2cDJCczQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d47fd43f7331",
+      "title": "Scientists discover new state of matter inside Uranus and Neptune - The Brighter Side of News",
+      "published": "2026-05-19T16:07:00+00:00",
+      "summary": "Scientists discover new state of matter inside Uranus and Neptune&nbsp;&nbsp;The Brighter Side of NewsUranus and Neptune could be full of rocks, new study suggests&nbsp;&nbsp;SpaceDestroying the myth of the ice giants Uranus and Neptune&nbsp;&nbsp;Universe Space TechScientists Say Uranus And Neptune May Be Far Rockier Than Anyone Expected&nbsp;&nbsp;The Daily GalaxyNew Study Suggests Uranus and Neptune May Contain More Rock Than Ice&nbsp;&nbsp;Gadgets 360",
+      "sources": [
+        {
+          "name": "The Brighter Side of News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnlLMWFlU29nOUpydG1aOG1rLVZSV1VtSW9sWHFrQ2pmX3lHamVlVTlrUVJVbjVTcnRtWFJiNVJHNDBRZzlWRmpXMlhvYnQ4SFF1TlVBYzNIa3E4ODV0dV9LeG5FZllnRmNuOHI5SUVLUmxNQllITzZUY2RhNjhEX192bTZrVm5UMVhybVdFekVBd01NUmxRUzJzS1lGZVVVdG5zWWFPSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f7951d99a69c",
+      "title": "Extinct ocean, not just India, shaped Central Asia long before the Himalayas - WION",
+      "published": "2026-05-19T14:33:00+00:00",
+      "summary": "Extinct ocean, not just India, shaped Central Asia long before the Himalayas&nbsp;&nbsp;WIONAncient lost ocean may have built Central Asia’s dinosaur-era mountains&nbsp;&nbsp;ScienceDailyNew Study Reveals Impact of Ancient Tethys Ocean on Central Asia’s Landscape&nbsp;&nbsp;SSBCrackLost Tethys Ocean May Have Forged Central Asia’s Mountainous Landscapes Millions of Years Ago&nbsp;&nbsp;Indian Defence Review",
+      "sources": [
+        {
+          "name": "WION",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0dtMU5pcXNGbEFnWDFrdU03S0pSaV9UWGRBMXE5UHlxdjJMZE4teXlMeUlkS1lwSHkyLXBfeEZsWWtxbm9qRlRPSE1kNEZjZ1h0ajNNejYwMGpaMjNVTHdaWW80R1ctcDh1SXozbktBd3lQREU2WmowenVsVkZIV2NGck5pNWtRX090YlpnV0tPdjN6X1Bsa05MODlyTFUzUVFvMEpqSG56bXVVZzd4MmdyMjRkbUJPeVVNc0ln0gHDAUFVX3lxTE1zbW4xcm1aMGpuNEJWSXkyMFNDTVQtWUdjVE9obmMxdnZoSkczYm9iUFNla0lPQUFsOUNvTzhJdExyTENhdWJpRHVmM3VLVktrckdSVWxXY1BmZ2VDSWJieVVLR1kyRC1NbDNRVXFLZE1wNGl1ZlFLaEFwcGdrTWpGcnU1dl9xM1RvTUlrWlNpeGZmaFZGTl9lRmsyc3dxWlRkZ2NCZW5FWGFiM0FXZUhTUDVHV2dGM3pzamRMSS0zMEYzNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea0211b2241e",
+      "title": "Radioactive stardust from ancient supernovae found trapped in Antarctic ice: Study - The Indian Express",
+      "published": "2026-05-19T14:29:44+00:00",
+      "summary": "Radioactive stardust from ancient supernovae found trapped in Antarctic ice: Study&nbsp;&nbsp;The Indian ExpressSurrounded by stardust: Antarctic ice cores confirm Earth is accumulating iron-60 from local interstellar cloud&nbsp;&nbsp;Phys.orgEarth is flying through ancient supernova debris and scientists found the evidence in Antarctic ice&nbsp;&nbsp;ScienceDailyIron and Ice: Earth's Passage Through the Interstellar Cloud&nbsp;&nbsp;Universe TodayScientists find iron-60 stardust in Antarctic ic",
+      "sources": [
+        {
+          "name": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYS16NlYxTkFEMXZPaVNPZUVkUFgtTUhFUGxRTVZmSnV3dmFFM1R6QnVWMVVDbFhxS05WamwyVmFJS0NQWlVTUkJ4TENrZHFtbzFsblBIRER6ZTVRMnhVRG9kbGg1QWZ0UzdzTGtoMG1sWXJoRjk0T2V1U2ZvREM5UGg0YTRaclU5UnB2Qk1wN2RyT3ZxTFZBakwtSUFwT2VXRUExLVlfNDZmLWdOb1FmNTBaaHNEY1M0dE16WmJyS2hzNENUMEtySDZHSmRuNkYxT01YRDZR0gHcAUFVX3lxTFAxS2o1Q3F1N0FCdW1aR0R6c2U2NTlfZTk1clh4Z194cEc1blhWMDZ3OVBXaXM4YTc5V1dHVmNiZTE1LVpZdnVwdjNaUU5fT2pBbC04RV9QNmF1RENNTW9fZEJXemt6VlVUVUE1TEo1YmNZY25vdkRLT0g1dmFQOTByVV9uV2tNY2x1aERfWHF5Z201RTJVRzlDRUJOd19aZUw0b1E1Sl82a3pyQ1NyZFUxYjNJMWdyMG96X1M5WUYwNWlyTWdkVlJMVWZPZjRtTDhHdFV5Vm5jczVvUDI?oc=5"
+        }
+      ]
+    },
     {
       "id": "bffb3dd3d6fa",
       "title": "NASA Maps Confirm The World Is Both Brighter And Darker - Inside Lighting",
       "published": "2026-05-19T14:00:15+00:00",
-      "summary": "NASA Maps Confirm The World Is Both Brighter And Darker&nbsp;&nbsp;Inside LightingPicturing Earth in a New Light&nbsp;&nbsp;NASA Science (.gov)CT researchers studied Earth’s nighttime light patterns. They found a tug-of-war on a global scale&nbsp;&nbsp;Hartford CourantArtificial light at night as a dynamic signal of human activity&nbsp;&nbsp;NatureLess of the night sky is visible than ever before&nbsp;&nbsp;Big Think",
+      "summary": "NASA Maps Confirm The World Is Both Brighter And Darker&nbsp;&nbsp;Inside LightingPicturing Earth in a New Light&nbsp;&nbsp;NASA Science (.gov)Artificial light at night as a dynamic signal of human activity&nbsp;&nbsp;NatureLess of the night sky is visible than ever before&nbsp;&nbsp;Big ThinkNASA Researchers Have Discovered Something Unexpected in These Haunting New Maps of Earth’s Artificial Light&nbsp;&nbsp;The Debrief",
       "sources": [
         {
           "name": "Inside Lighting",
@@ -30,22 +78,10 @@
       ]
     },
     {
-      "id": "f4f82e46c8e8",
-      "title": "Deep in Ethiopia’s Badlands, Scientists Found a 2.8-Million-Year-Old Fossil That Doesn’t Fit Any Known Species - Indian Defence Review",
-      "published": "2026-05-19T12:30:00+00:00",
-      "summary": "Deep in Ethiopia’s Badlands, Scientists Found a 2.8-Million-Year-Old Fossil That Doesn’t Fit Any Known Species&nbsp;&nbsp;Indian Defence ReviewStunning fossil discovery in Ethiopia rewrites human origins&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "Indian Defence Review",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcEhxVmNlTmpqUDl0dkNWOHpYVUFCUllZSGhwYnJmNVlDcnh5UVBpWEctR0dfWWREV0p1b2tkYUU3R196bWFWSTZLNmNTaXE1S3lrelFQeVVFV1RydU5JRV9scjhtQlRwNmVkMGRtcTFMaGNaVU9jVkZkVEpiNERtaERn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "249d2608b08c",
       "title": "Scientists just cracked a mystery that's puzzled researchers for centuries; why are 90% of humans right-ha - The Economic Times",
       "published": "2026-05-19T12:17:01+00:00",
-      "summary": "Scientists just cracked a mystery that's puzzled researchers for centuries; why are 90% of humans right-ha&nbsp;&nbsp;The Economic TimesNew Study Reveals Why Majority Of People Are Right-Handed&nbsp;&nbsp;NDTVWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular ScienceStudy links right-handedness bias in humans to walking on 2 legs | Study published in PLOS Biology | Inshorts&nbsp;&nbsp;InshortsDo You Know Why 90% Humans Are Right Handed?&nbsp;&nbsp;News18",
+      "summary": "Scientists just cracked a mystery that's puzzled researchers for centuries; why are 90% of humans right-ha&nbsp;&nbsp;The Economic TimesNew Study Reveals Why Majority Of People Are Right-Handed&nbsp;&nbsp;NDTVWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular ScienceWhy is almost everyone right-handed? The answer may lie in how we learned to walk&nbsp;&nbsp;Phys.orgHere’s why the majority of people are right-handed, according to study&nbsp;&nbsp;New York Post",
       "sources": [
         {
           "name": "The Economic Times",
@@ -57,7 +93,7 @@
       "id": "7d3dbf65cebe",
       "title": "NASA’s MAVEN makes historic discovery around Mars - Tech Explorist",
       "published": "2026-05-19T12:15:30+00:00",
-      "summary": "NASA’s MAVEN makes historic discovery around Mars&nbsp;&nbsp;Tech ExploristNASA's MAVEN Detects First Zwan-Wolf Effect Deep In Mars' Atmosphere&nbsp;&nbsp;NDTVWhat is the Zwan-Wolf effect at Mars?&nbsp;&nbsp;The HinduDetection of Zwan-Wolf effect in the ionosphere of Mars&nbsp;&nbsp;NatureNASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars&nbsp;&nbsp;NASA Science (.gov)",
+      "summary": "NASA’s MAVEN makes historic discovery around Mars&nbsp;&nbsp;Tech ExploristNASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars&nbsp;&nbsp;NASA Science (.gov)NASA's MAVEN Detects First Zwan-Wolf Effect Deep In Mars' Atmosphere&nbsp;&nbsp;NDTVDetection of Zwan-Wolf effect in the ionosphere of Mars&nbsp;&nbsp;NatureNASA’s MAVEN Detects Atmospheric Effect on Mars That ‘No One Expected’&nbsp;&nbsp;Gizmodo",
       "sources": [
         {
           "name": "Tech Explorist",
@@ -66,58 +102,10 @@
       ]
     },
     {
-      "id": "a1c273247857",
-      "title": "Ebola crisis: 131 dead in DR Congo as outbreak spreads - The National",
-      "published": "2026-05-19T11:37:30+00:00",
-      "summary": "Ebola crisis: 131 dead in DR Congo as outbreak spreads&nbsp;&nbsp;The National'Ebola has tortured us': Fear as outbreak spreads faster than first thought&nbsp;&nbsp;BBCEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)WHO to hold emergency committee meeting as Ebola death toll rises to 131&nbsp;&nbsp;Al JazeeraNo Ebola Case In India, Airpor",
-      "sources": [
-        {
-          "name": "The National",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa05LdFBsRHlPLVgwdEJLdmZLRmNmVG5CWWgxUDhxRXo5bldNWFhMWVRxanUzTHQzcFBqc3lXSVFxcGNhV0RLUDdmazlCWmhkX1JYNU1SQzRmMVJFS3V5TFlsaDZRVWY1U0dkcU1neGFLQWhCcTZIRFZTTW9EU1JabXlTenNZTHJONENtNnYzUy1Fejlmd2xSaUw2QWVlaERaOERYQkpyVm13dGM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd47f999c779",
-      "title": "University of Glasgow Secures £4 Million to Drive Cutting-Edge Heart Science - fundsforNGOs News",
-      "published": "2026-05-19T11:31:52+00:00",
-      "summary": "University of Glasgow Secures £4 Million to Drive Cutting-Edge Heart Science&nbsp;&nbsp;fundsforNGOs NewsBioengineering researchers secure major Wellcome funding for new imaging projects&nbsp;&nbsp;Imperial College LondonResearchers to map forces inside living hearts&nbsp;&nbsp;The Engineer - HomeGlasgow scientists receive £4m to develop detailed 3D images of beating heart&nbsp;&nbsp;Glasgow Times",
-      "sources": [
-        {
-          "name": "fundsforNGOs News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOck12QzJqSGlmN0ducHFrZHVTX2dhTlVGNHdNenN1RGh1eG5zTjBRenpwSDNvSHpPOVhrOGdyZWJ5dm5hTENtb24yQ0ZLVElfNjN2c2F5MVlzbE1xamhTYUVxekZrWnJLMHA0WGxCT01TQ3pCWHdTLVEwVFJsc3h1TTBZMmx5enQ1amNnQkxZV2tkSVpjQVRubEhlMWFjSlNuVlo0dHVnOVRuUEpFUlRqMm5WNFhYRzl1?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "88b23bd2995c",
-      "title": "Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
-      "published": "2026-05-19T11:19:42+00:00",
-      "summary": "Hantavirus in Focus I: what we know and what it means&nbsp;&nbsp;World Health Organization (WHO)Where does hantavirus lurk in the U.S.? Scientists found ‘hot spots’ in surprising areas&nbsp;&nbsp;NBC NewsHantavirus episode is a warning about future pandemics&nbsp;&nbsp;The TribuneHantavirus: Another virus outbreak? Here’s everything you need to know&nbsp;&nbsp;The StatesmanHealth experts outline symptoms and risks of shipboard hantavirus&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "World Health Organization (WHO)",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d2fd454082e7",
-      "title": "Sporesilk Protein Network Enhances Bt Biopesticide Adhesion to Insects, Study Finds - geneonline.com",
-      "published": "2026-05-19T10:11:33+00:00",
-      "summary": "Sporesilk Protein Network Enhances Bt Biopesticide Adhesion to Insects, Study Finds&nbsp;&nbsp;geneonline.com",
-      "sources": [
-        {
-          "name": "geneonline.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTC1NcWpyQXluTG13VU1EOXJjX2JyV0hZZU1sSm00X25XQmFTVEMxR0JwM3dVc21tOURkbkp4MHV5d3hNWWozaUtlaVp4VnlsVEZhRlJyemgxY3A2ZWdNVVVkMnA1M3BUVGhTaXhkTU44aHhQQ1d1SmVUdnczRjlkaXBWMW92RlhEVVYtNU5IZWQtY0tYMngxUGd1ZXBPdjREOFZzWnRsOEx4UVJBSHJB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e3a4b36011c2",
       "title": "Scientists Baffled By Record-Breaking Solar Eruption With A Heartbeat - Mashable India",
       "published": "2026-05-19T09:00:00+00:00",
-      "summary": "Scientists Baffled By Record-Breaking Solar Eruption With A Heartbeat&nbsp;&nbsp;Mashable IndiaNASA Missions Track Record-Breaking Radio Burst from Sun&nbsp;&nbsp;NASA Science (.gov)The Sun Blasted a Mysterious Radio Signal for 19 Straight Days. Here’s What We Know&nbsp;&nbsp;GizmodoA solar radio burst that should have faded in days kept screaming for three weeks — and the structure feeding it rewrites what counts as a transient event on the Sun&nbsp;&nbsp;Space DailyNASA missions study record-b",
+      "summary": "Scientists Baffled By Record-Breaking Solar Eruption With A Heartbeat&nbsp;&nbsp;Mashable IndiaNASA Missions Track Record-Breaking Radio Burst from Sun&nbsp;&nbsp;NASA Science (.gov)A record-breaking radio burst from the sun had an eerie heartbeat&nbsp;&nbsp;MashableThe Sun Blasted a Mysterious Radio Signal for 19 Straight Days. Here’s What We Know&nbsp;&nbsp;Gizmodo\"Impossible\" Solar Behavior: Scientists Stunned By 19-Day Burst That Rewrites Physics&nbsp;&nbsp;Gadget Review",
       "sources": [
         {
           "name": "Mashable India",
@@ -134,30 +122,6 @@
         {
           "name": "WION",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM3MtMlpFQzMwcEI4VUVsM3M4SkxZSzByam5BLWdkUEc5LTZlTWdMdkRKOGxhREVqZHhSYW9GYkZLeGFLYjdRSTl0Y0xvRzZhYUlQNGpxMDhTa2tQTDFVMzVjT3llbjVIcEtGYkNjTlpGSEpnSUtmNTMzT2pFTGtwaTNBSWVFODBsTjMtY2pMZ0tPbllJckswbEh3U25hM2h1TnZ5ZzRkQnZwbm1feUFlcnhxSk5FcWladHZ6MjRsTFRVaFVva253LUVB0gHPAUFVX3lxTFBadWRNVzNzVmNuUDhKMjN6NVdsSzNQdGZOVkJkMktLMFJ2OWc3aFdrS20xODF4ZDJwZFBmSFR6WVBvRWJWM251akhGVXpYMUIzYnJCZTItQ1pJdVJ5b3Eybi1BSldMdzNwVi1iYWxJaEl0Z0pBbl94RHM4NnpjWmlELTBBZTRCbHhURDdyMUpDc0dOamUzY2l6S1NJT1pwbURuNDJydnVjb05ISlQ0VlJWeDEwUUlFbHNwRFhZLUZwNjZSM3ZJYXZlcTFCQWgycw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44fb82bc6063",
-      "title": "New ferroelectric NAND flash technology built for deep space missions - Open Access Government",
-      "published": "2026-05-19T08:19:12+00:00",
-      "summary": "New ferroelectric NAND flash technology built for deep space missions&nbsp;&nbsp;Open Access GovernmentGeorgia Tech researchers discover new form of NAND flash data storage for deep space missions&nbsp;&nbsp;EurekAlert!New AI space memory survives radiation 30 times better than flash&nbsp;&nbsp;Interesting EngineeringNew space-grade memory withstands 30x more radiation than standard flash&nbsp;&nbsp;Interesting Engineering",
-      "sources": [
-        {
-          "name": "Open Access Government",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWlMOGtCVXBVQW43QW9wd3ZhSk41dzcxM3J4RkJveWZXNzFRbG1YZ21YVnlvNGVWMGlNdTBNVGZIR2ZVUjdsTnlPdmo5QWNmVzlDUlhYTHB3cXp6RzBSdWpHemNPRVItd1ZIU2x4ZmhDbUlaSTY0aVUwQ2ktYVYwTW1TY3pnNGxUTm5PbTc0bzNrZW4zeFBFd2l2ek8zYUVOX20yRE9SWU9tTVRhQkJ4YlhoZ3I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "09169e63b39d",
-      "title": "China-Europe SMILE mission launches to study space weather - China Daily",
-      "published": "2026-05-19T07:33:00+00:00",
-      "summary": "China-Europe SMILE mission launches to study space weather&nbsp;&nbsp;China DailySee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "China Daily",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xMWd2RV9GRXp1WTd2SkRiaFlSNTAtNng1TmhzZmpIa1V6Vk1URG9lNG1nME5JRlVsaXJpZ2pPY2ZtUlpFcjJZZmJpLUhVcXBWUXlWUVNPWUwzd3hpekFWTVM0QTZpbi0wX1VWLTc0cWlYX25YM18zcGV0b29ldw?oc=5"
         }
       ]
     },
@@ -186,26 +150,14 @@
       ]
     },
     {
-      "id": "1b0c3325643e",
-      "title": "Australia's worst diphtheria outbreak 'for decades' spreads to WA, Qld and SA - Australian Broadcasting Corporation",
-      "published": "2026-05-19T06:50:19+00:00",
-      "summary": "Australia's worst diphtheria outbreak 'for decades' spreads to WA, Qld and SA&nbsp;&nbsp;Australian Broadcasting CorporationDiphtheria outbreak spreads across Western Australia, Queensland, and South Australia, raising health concerns&nbsp;&nbsp;The Times of IndiaAustralia’s diphtheria outbreak deepens amid investigation into suspected first death&nbsp;&nbsp;The Economic Times'Getting tested, treated and vaccinated protects individuals, families and community' - expert urges vigilance as diphthe",
+      "id": "9c573bec9161",
+      "title": "China-Europe SMILE mission launched to study space weather - news.cgtn.com",
+      "published": "2026-05-19T06:23:17+00:00",
+      "summary": "China-Europe SMILE mission launched to study space weather&nbsp;&nbsp;news.cgtn.comChina-Europe SMILE satellite mission launched for solar wind research&nbsp;&nbsp;news.cgtn.comSuccessful launch of SMILE Satellite marks first China-ESA mission-level cooperation&nbsp;&nbsp;Global TimesSmile lifts off on quest to reveal Earth’s invisible shield against the solar wind&nbsp;&nbsp;European Space AgencySMILE spacecraft launches to capture first X-ray views of Earth's magnetic shield&nbsp;&nbsp;Phys.or",
       "sources": [
         {
-          "name": "Australian Broadcasting Corporation",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamZzcHMyc3BpUUhhVGlob3k5OGN6U2c2SnljRTN2eEJDc0p6Y3F0UHVmZWVMTXRoRmhBYXJQQjY3SU94UEo3by0weHUtQnBOM2JxYXFpemk0YmQ3ZzZwbUNSVG96VmZ0cU9icS1HMkl1UXlFWUhTNlBsWEdpbENPQmhrZFNwc0VVNUV4Z3BFZ1RGT2VXRl9lZW13MUtnbkpZMWpJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0b99a95cafcc",
-      "title": "Who turned the lights on? The modern impact of light pollution on the night sky - Innovation News Network",
-      "published": "2026-05-19T06:20:10+00:00",
-      "summary": "Who turned the lights on? The modern impact of light pollution on the night sky&nbsp;&nbsp;Innovation News NetworkCan CT light the way on protecting our night skies?&nbsp;&nbsp;ctpublic.orgFor the first time in human history, most people live under skies they cannot see — and the psychological consequence of having lost the night sky has barely begun to be measured.&nbsp;&nbsp;Space DailyWhen Did We Stop Looking at the Sky?&nbsp;&nbsp;Garhwal PostLight Pollution Harms Health, Nature, and Astrono",
-      "sources": [
-        {
-          "name": "Innovation News Network",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMTRPOEVFczlhVEpabDhFQ0ZQc3c0UWViNW1zeDlpT0xNSzBQUHJNQzd5MTVIOTdFbkVISFhwMjFMYlBTSi0wYnZEREhaWmJjdzk3UWJLTDl5STRHeUQzZC11ZmctMkU2VzU4QWlzdFNTREV5WkhzT0FWMW9xZ2VBZzBsNm5ucmZNMEcwVVU3OU05UnVSN2dSLXdKcGJRTHlvNXJieEphbV9tWmtkTGpDTmhSSkI5NFZrbUYwMWFoYnI?oc=5"
+          "name": "news.cgtn.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSDBaUHhUdjE4WXFCb1V3dXBkUl9PVEpyT01aMTlvRy1kNVFDRFlxTTN5aGRjTWlONXFhSjRNX2Y3dnhPcHgzakNPSmRZWnllSDB5SWJhYmhtTVA0T2xaRHNsd0s1NnNONGQxcFExdGZFTmNMb1pKSnNYRVM4MVZYR3lyUEN1bGFTWlVFN2lkSkNsWVVwbUR3VEQtbkt6aTZuV1hCaEt2Zm1YUlhyMTh5c0I0eTZNdFU?oc=5"
         }
       ]
     },
@@ -213,7 +165,7 @@
       "id": "90ffabf6d8c5",
       "title": "MIDAS platform accelerates protein engineering through rapid PCR-based screening - News-Medical",
       "published": "2026-05-19T06:08:00+00:00",
-      "summary": "MIDAS platform accelerates protein engineering through rapid PCR-based screening&nbsp;&nbsp;News-Medical",
+      "summary": "MIDAS platform accelerates protein engineering through rapid PCR-based screening&nbsp;&nbsp;News-MedicalBioengineers condense protein engineering and testing to a single day&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "News-Medical",
@@ -222,14 +174,14 @@
       ]
     },
     {
-      "id": "626f2d78c7e6",
-      "title": "Chandrayaan-3 - UNITED NEWS OF INDIA",
-      "published": "2026-05-19T05:47:00+00:00",
-      "summary": "Chandrayaan-3&nbsp;&nbsp;UNITED NEWS OF INDIAStudy reveals ‘cake-like’ lunar surface structure near Chandrayaan 3 landing site&nbsp;&nbsp;The Indian Express",
+      "id": "4eca2268ee2f",
+      "title": "Sunlight vs supplements: Best source of vitamin D, according to a cardiac surgeon - The Times of India",
+      "published": "2026-05-19T05:51:00+00:00",
+      "summary": "Sunlight vs supplements: Best source of vitamin D, according to a cardiac surgeon&nbsp;&nbsp;The Times of India6 Foods High in Vitamin D Besides Mushrooms&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationVitamin D builds your bones and keeps your gut sealed, among many other essential functions − but many children are deficient&nbsp;&nbsp;The MountaineerShould I take vitamin D now there’s less sun, or for bone or immune health?&nbsp;&nbsp;UNSW SydneyWe Asked a Doctor if Y",
       "sources": [
         {
-          "name": "UNITED NEWS OF INDIA",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQd2VaajhVQk1zdjlsUWlLSzdZSFJXdTYxdVFrZU1YeGl2eWpJR1NORGV4cVJmTVpsVVlVNDV6c1ZQV3RKWERDMC1Mb3NiY1NhcXpwdHpqNnNWUjd0eWZ0OTVfYlIxbFluak5SaVdCeWw1NXp3c05BRWdHem00c092aC1wZFFtVFdkZlNETWFnQ0Ewcm1qbkhwdGc3LU1WOW1sdzdJN3dfVTZQQWFWTm9HakgtU1RuU1E3eDF1OVhsUnV1MV9hMjVoZDlsaXZ2UkJtb29BR2IwQ2NDaVdDNlFUSkw4NktGVHRydi1EeEdZZGljY2F4YWt5NEdCdjI5enVX?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNW9rS1huU084VzJOZTRIblp3eVU4UW1BckM1WEctWWNWY0hCVlZEdGxZaUxCOVJtLU1SamFCek1KQXlUd0dKU2xXOUhSbzhHcnhsTWJkQ3R4c0pvSmRRdVR5M0FidG1qREJXOVVpc3hvX3VITnktZlF0M0dHa0JYQW9CSmdaYmx3QnJLSnpFbDc3ZDdVaXpBVFg4TUVqQzBuNFJzMk53SENmTXBoWWpiOWRCMEdlbG45RTFPTE9TcXd1c0pHNmlibUI5a28zU3hRTzg1ZnQ3YlpsUEc1UXk1ZkI1WjZsSjhFeFNhYVpn0gHzAUFVX3lxTE9hY1FKbzdSbW5SWkd3LXBXNGFUTTV1alYxQk02Z2RXNUhLUnBOTGFmTUlkaHVVUDRmQUJ2ekJVdDNBSVgxeHVUUFdpUzZjWVNuZkZXSnZMWmZVWG5nWTVfS3VVNUpwd1NCQUtibkdRcG51THRRM25WUXlydzJ1TzdBSTVOaUJObmFxWi16ZXQ2ZEdKazZiZlBOYnhWQUNLdkx2QVdOWEh0X0tGQjZNLXlLRkkyX3ZHYnAwMTFGVFhOdkMta2J2eGpZaHlPejNSd1o0X011anVSVHVmZXhrc3k5eWtTS2trblRuOE1yQzBqMmI1aw?oc=5"
         }
       ]
     },
@@ -237,7 +189,7 @@
       "id": "0651926c5a4d",
       "title": "The World Hypertension Day was observed by AAM-PHC Sakti through a screening and awareness programme conducted at Kharu Market. | The Administration of Union Territory of Ladakh | India - Administration of Union Territory of Ladakh",
       "published": "2026-05-19T05:39:09+00:00",
-      "summary": "The World Hypertension Day was observed by AAM-PHC Sakti through a screening and awareness programme conducted at Kharu Market. | The Administration of Union Territory of Ladakh | India&nbsp;&nbsp;Administration of Union Territory of LadakhSilent signs of Hypertension a heart surgeon says you should never ignore before it’s too late&nbsp;&nbsp;The Times of IndiaNo symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The HinduHypertension in In",
+      "summary": "The World Hypertension Day was observed by AAM-PHC Sakti through a screening and awareness programme conducted at Kharu Market. | The Administration of Union Territory of Ladakh | India&nbsp;&nbsp;Administration of Union Territory of Ladakh1 in 3 adults now has hypertension. Why Indians should worry more than most&nbsp;&nbsp;The Times of IndiaNo symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The HinduHypertension in India: The Urgent Nee",
       "sources": [
         {
           "name": "Administration of Union Territory of Ladakh",
@@ -270,14 +222,14 @@
       ]
     },
     {
-      "id": "6cf803dfc4e1",
-      "title": "Adult dies of hantavirus in Colorado, state health officials say - ET HealthWorld",
-      "published": "2026-05-19T02:13:20+00:00",
-      "summary": "Adult dies of hantavirus in Colorado, state health officials say&nbsp;&nbsp;ET HealthWorldStatement on confirmed hantavirus death in Douglas County&nbsp;&nbsp;Douglas County (.gov)Hantavirus Kills Colorado Man With Severe Symptoms: What Happens When This Rodent-Borne Virus Enters The Human Body&nbsp;&nbsp;News18Adult dies from hantavirus in Colorado&nbsp;&nbsp;Investing.com IndiaColorado records first hantavirus death since 2024. It’s not from the cruise ship.&nbsp;&nbsp;The Colorado Sun",
+      "id": "1b0c3325643e",
+      "title": "Australia's worst diphtheria outbreak 'for decades' spreads to WA, Qld and SA - Australian Broadcasting Corporation",
+      "published": "2026-05-19T00:55:24+00:00",
+      "summary": "Australia's worst diphtheria outbreak 'for decades' spreads to WA, Qld and SA&nbsp;&nbsp;Australian Broadcasting CorporationDiphtheria outbreak spreads across Western Australia, Queensland, and South Australia, raising health concerns&nbsp;&nbsp;The Times of IndiaAustralia’s diphtheria outbreak deepens amid investigation into suspected first death&nbsp;&nbsp;The Economic Times'Getting tested, treated and vaccinated protects individuals, families and community' - expert urges vigilance as diphthe",
       "sources": [
         {
-          "name": "ET HealthWorld",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORnlNZHlDNDhMXzdWS2tXYmtJT0NRRnQ5Y3pFSTNRSTJoNHdTb0NwcUNJdlpkU2FqdklONlBMQ0p5dElvSFRqbElXdzNXWnpPSF9NVWg0cWxxOUkwQkFSVnNWUXJlc1JmSDdTQjBUVGRLMnk2MlRXVmJHN183QkoySUoxck53UllDMWFFclc4OGlTUVptaENMb3AwOHlPb200S2FUOHlTVXVVaDQ4RExmYkFpa3VuZ2pHT2FseG1panMyczdBdjUzTTdEWdIB0AFBVV95cUxOaGp5dFp4NW84YlNLX2FtblhVNlVkUHprZ1FzV2tHR1pLaHdwVkZTSE1oSnVWRWNzbDNDVDByMHpITEVCUFdVWEpFVnNPZWYwMlA3UnNlWHBmdVlkbWpLdUIyOHpLMWpqTngtdWw3T1E2WlBWaEtfZGN2djA5LXN0VUlHLVdOX2lGU0d5QVRmMEtpdEc2SnhTZHlRTVc5aUxCUl9XSU5lR3J6Sk9OdW93ZlpQeFRYUnpXV3UzY25MM2oxUlFZRG1HVVFuaUpEN0l4?oc=5"
+          "name": "Australian Broadcasting Corporation",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamZzcHMyc3BpUUhhVGlob3k5OGN6U2c2SnljRTN2eEJDc0p6Y3F0UHVmZWVMTXRoRmhBYXJQQjY3SU94UEo3by0weHUtQnBOM2JxYXFpemk0YmQ3ZzZwbUNSVG96VmZ0cU9icS1HMkl1UXlFWUhTNlBsWEdpbENPQmhrZFNwc0VVNUV4Z3BFZ1RGT2VXRl9lZW13MUtnbkpZMWpJ?oc=5"
         }
       ]
     },
@@ -330,6 +282,18 @@
       ]
     },
     {
+      "id": "3884578e1b92",
+      "title": "Chinese money plants create perfect geometric patterns using 'nature's algorithm' - Earth.com",
+      "published": "2026-05-18T18:34:06+00:00",
+      "summary": "Chinese money plants create perfect geometric patterns using 'nature's algorithm'&nbsp;&nbsp;Earth.comNature just outsmarted Silicon Valley: That trendy houseplant on your windowsill has been doing advanced M&nbsp;&nbsp;The Economic TimesReticulate leaf venation in Pilea peperomioides is a Voronoi diagram&nbsp;&nbsp;NatureCommon Houseplant Just Revealed A Hidden Mathematical Secret&nbsp;&nbsp;StudyFindsIs this genius plant better at math than you? The answer is probably yes&nbsp;&nbsp;BBC Wildli",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGF6WWF4Ny1xSi1rVm5Rd1JDSW02NmJGS2VtS2VyY1prWnFxb250YzdHUXlvdk9yTHpPV2I2QXk5RkFtcldFLW1kMi1jZmlCQWZNU0YxZEFaODAwdHZnbExFRHhmcEprU25GZzF6cm5jRTJGNUpPZWoyRFpYNTZDZmdGZVJXZDV4V2ZnTXVkNmZ1VUVYRXlIYWkydnJ4LXItM1Rzd0k0cnlHbE1veXZqTXJwQlpQTmgxUlZ6S1ZrVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2f81350074ca",
       "title": "Global consortium renames polycystic ovary syndrome to reflect science - News-Medical",
       "published": "2026-05-18T18:25:00+00:00",
@@ -378,18 +342,6 @@
       ]
     },
     {
-      "id": "e1c6c227904d",
-      "title": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts - The Guardian",
-      "published": "2026-05-18T14:18:00+00:00",
-      "summary": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts&nbsp;&nbsp;The GuardianWorld Remains Underprepared for Future Pandemics Despite Lessons From COVID-19, WHO Warns&nbsp;&nbsp;Medical DialoguesFrequent infectious disease outbreaks becoming more damaging: Report&nbsp;&nbsp;Hindustan TimesAt 'crucial' moment for pandemic preparedness, experts say world isn't ready&nbsp;&nbsp;CBCWHO warns that humanity is on the brink of an even more devastating pandemi",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSl8wQ0dCRTN4dWJHWjE3Umo0YXByNjhwVXFRYURhRFY1NHFvVGpJbmdqOWpFbEdEVVdhRlYtRXVTcGFCUHlwLVBlTHNIVWVtem5sTHcwWS0tSzh2TGY0TV9lQzBUY0Y5Rm41Ym9xcDJhenBwV3dUalhOMEE3Mnk1QmhGa21nQ3RTWHlENjdSUEpNVFVXeHZMdFdDWnNDSE5MS3M3YWoyYzFpY05RalNnVERwWmlFMkZUd2pCUlVoSlRfNXFIaVBEWjdXc1R6cjNsRlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "558e8ce3f8d2",
       "title": "End of the Universe? Chinese researchers create super-bubble in lab that could destroy… - news24online.com",
       "published": "2026-05-18T12:48:55+00:00",
@@ -398,6 +350,18 @@
         {
           "name": "news24online.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0JVeHBGX1dUdktIUmlUT2o2NHZWV1FURjdBbUFRY3Jmc2gtMUswZUJfN0pRUFhVNDlIcTNRWW9KbXV1ek45N0t4cnpkRGQ0SHAyanpKZzh4Y3AwR0NQZVdObjVLTG5iVmlKWUtXbWJvcTdmRVI2Q0hCTjhmTG5uS0Y4QzlzWVRfelBseXhKdlBVaEpfcjdXUW1ncU9EdGJMeThsQW9raGFRNlYybHJ6X0NlQXEwSGpxSHlfV2JtdkZkZ9IBxgFBVV95cUxPVU5UTlBNUmRsa1lMeElzRkthYnhRM0hSNmVfRExDRnhZMFJWTU52YzlxcW1MTjNJcWV3Y1BwQl9xYlRKZWViV004TXNGSXRVd3dtcEhTNUhXMndXT1ZKQWVsYm8ybGEwTnU1UzhBUHA0VTBkMThoNlc3NzI2dTd3SjJPWXRDSG96Y2JVc1JZVldicTk3cllwX2VVUW1jRXZ4NFppYXBJclcyYmk0R1ZCVmVNb0JZVWwtZjZrQ283akg0UDFlcVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6bc9b76c17c6",
+      "title": "Draft updated global action plan on antimicrobial resistance – WHA79/12.9 - MSF Access",
+      "published": "2026-05-18T10:20:33+00:00",
+      "summary": "Draft updated global action plan on antimicrobial resistance – WHA79/12.9&nbsp;&nbsp;MSF AccessProtecting healthcare in the era of antimicrobial resistance&nbsp;&nbsp;The World Economic ForumIndia’s helping to lead the world against drug-resistant infections&nbsp;&nbsp;Hindustan Times‘Post-antibiotics’ era could spell disaster for modern medicine and the world&nbsp;&nbsp;Scroll.inEconomic reform can save antibiotic innovation&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "MSF Access",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSjFZaHduMDl0ZVhRTGNfMVNFVHllcGNlclpIYXBlcEtqczRIVHhNSVgzc1FLWkR6TjVXcklEczBnUndDR28xb0RaUFZMaGhYazdTQ2RMNVV3RG1WZjFLdnk3S1FZQmFiT3ZVOElTYTJkWER2ZzhfQVhWTkRoNVp1NndZS0hRb0hXMmRlbi00Um8wUQ?oc=5"
         }
       ]
     },
@@ -417,7 +381,7 @@
       "id": "20f87acb760b",
       "title": "Scientists finally solve the mystery of why Bermuda is still rising above the ocean - Moneycontrol.com",
       "published": "2026-05-18T09:15:45+00:00",
-      "summary": "Scientists finally solve the mystery of why Bermuda is still rising above the ocean&nbsp;&nbsp;Moneycontrol.comBermuda Triangle Mystery 'Solved'? Scientists Reveal Structure Found Beneath Island&nbsp;&nbsp;NDTVCarnegie Science and Yale researchers find buoyant rock lifts Bermuda&nbsp;&nbsp;NewsBytesBermuda triangle mystery may ‘finally’ be over: Scientists reveal hidden ocean forces and deep earth structures behind the disappearances&nbsp;&nbsp;The Times of IndiaScientists reveal why Bermuda sit",
+      "summary": "Scientists finally solve the mystery of why Bermuda is still rising above the ocean&nbsp;&nbsp;Moneycontrol.comBermuda Triangle Mystery 'Solved'? Scientists Reveal Structure Found Beneath Island&nbsp;&nbsp;NDTVScientists Probe a Mystery Beneath Bermuda&nbsp;&nbsp;Carnegie ScienceCarnegie Science and Yale researchers find buoyant rock lifts Bermuda&nbsp;&nbsp;NewsBytesScientists reveal why Bermuda sits so high above Atlantic Ocean | The layer of rock is around 12 miles thick | Inshorts&nbsp;&nbsp",
       "sources": [
         {
           "name": "Moneycontrol.com",
@@ -426,50 +390,14 @@
       ]
     },
     {
-      "id": "de1ddd730502",
-      "title": "Hantavirus-stricken cruise ship expected to arrive in Netherlands - The Hindu",
-      "published": "2026-05-18T07:11:00+00:00",
-      "summary": "Hantavirus-stricken cruise ship expected to arrive in Netherlands&nbsp;&nbsp;The HinduCruise ship hit by hantavirus outbreak docks in Rotterdam&nbsp;&nbsp;BBCFollow-up message by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)WHO keeps evaluation of hantavirus as 'low risk' as ship approaches end of voyage&nbsp;&nbsp;The HinduHantavirus-hit cruise ship MV Hondius arrives at Rotterdam port as final destination&nbsp;&n",
+      "id": "f2c3fe3ccc7b",
+      "title": "WHO keeps evaluation of hantavirus as 'low risk' as ship approaches end of voyage - The Hindu",
+      "published": "2026-05-18T02:10:17+00:00",
+      "summary": "WHO keeps evaluation of hantavirus as 'low risk' as ship approaches end of voyage&nbsp;&nbsp;The HinduCruise ship hit by hantavirus outbreak docks in Rotterdam&nbsp;&nbsp;BBCFollow-up message by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)Hantavirus-hit cruise ship MV Hondius arrives at Rotterdam port as final destination&nbsp;&nbsp;Telegraph IndiaHantavirus-Hit Cruise Ship Steams Towards Rotterdam At Voyage End&n",
       "sources": [
         {
           "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXJjSU5LX01CeVhMZDMxTTVYc215SHBacWw1WkxVMVlvOVoxX0dGaWpFZmtxNi0zbzdfVXA1Q3NhNUVwTU9rNWo0N01lY3Y5SERlcWY1YmpQbXpVbEk1NHBqVXlNR3lPaFl1NEtkS2hSTzRmUHdzZWRuMXc2MWhMazYwaTZWY1lfcklRaE9IcUtRMTdUQ0NJaTJEVzg2SFlmbnR6d1hXdnQ4REdPZndKY2hLNmlVdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "99c4976e8e4e",
-      "title": "Are you chewing your food less to save time? Your brain might be paying the price - The Times of India",
-      "published": "2026-05-18T03:06:00+00:00",
-      "summary": "Are you chewing your food less to save time? Your brain might be paying the price&nbsp;&nbsp;The Times of India'A hidden blood pump': How chewing more boosts your brain&nbsp;&nbsp;BBCDoes Chewing Properly Have Any Impact On Brain Stimulation And Alertness? Experts Explain&nbsp;&nbsp;NDTVWhy neurologist says chewing is not just a ‘digestive activity,’ but ‘workout for the brain’&nbsp;&nbsp;The Indian ExpressProper chewing may boost brain alertness, say experts&nbsp;&nbsp;Daijiworld",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0FRNG5BenM0NHRSUVlWX3RiNjFqREJtZkRpZGR4X2lqRExWaGdsckFZODJXaHlfWFpsYXhNQ19FdnJpMkxUMUdqTjR4X0hZNUREeE9wbzJ3UjVrekJ4OVRPeXZjQlJ5S28yVDhLVkVJUW1TTUJqeENuUm4xMTlEOEY5WFo5Mlp0M2FzeHVCdENtc1NuR3l2dFdZaFEyNkJMa25vZXdoOUprUGNXTlpQNVNScmwyNU9RTThZX2tqZ1QwOFZud051cUViajVvQ2pMbFEwSU82V2RMemZSejJfandqQm9Dcl9XQTJYMVBjMNIB9AFBVV95cUxOb3d2anJ6X1ZIcGJZQlVQS2VVSGo1TVdCOUFsZ0VTQ1AxUDN0eVpaZ0E3UV9wbzZfazBYZ0FXWEI3S2ZnaEhxSnlCaExDZURXR1MxNXp2NDhGZUpsLTh3dFFWRFJzZ1NPaGdraVVGbWk3V3BIQlVEaXQ1VGtpRExza1FSWHVUSS01N1RIdmVpckJGUW1rX09zOHdYM1lTd3FxWlk5aXFrWFA3SkV5MkM5TURZM3lBY3ZFSS05aUFROVkyNE8wOUxleXdPa1R6S1JLNndDU3ZpQmNGU1g5NVpaQ1pMbDZ4UmRKUkRlN3B6NzYtTmI1?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e53105959a87",
-      "title": "One tests positive for hantavirus, Canadian national health agency confirms - The Hindu",
-      "published": "2026-05-17T18:27:52+00:00",
-      "summary": "One tests positive for hantavirus, Canadian national health agency confirms&nbsp;&nbsp;The HinduHantavirus Outbreak: Canada Confirms First Case In A Cruise Passenger&nbsp;&nbsp;NDTVCanada confirms first hantavirus case in British Columbia; study reveals how long the virus can survive after infection&nbsp;&nbsp;The Times of IndiaCanadian cruise passenger tests presumptively positive for hantavirus&nbsp;&nbsp;news.cgtn.comPlanning a Cruise? Canada’s Hantavirus Case Highlights Essential Health Tips",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRlZfeEh4YjdjWDRFcUtaamlxVzlza0tzMGF3UmZnUjVVR0c3bWEzeDdQSzRMN2FBVzh5ODgtR2ozUGtxdWdCZ2xyTGpFQ2tRM3E0YkljTWxaSEtUMUNEQUpzYzZHU1pKMERPdkNHQkxseEY5c1FLbldtOXNYTVlSZHprN1BVMHJYZWhXMEx5S0p4WDRfQVc5clNBcll2OUtvcmNtclJ1OVZIN2NGcUp1MldwREV3ZUhFRm9GejlhTjR4RFA5RmdPa21lMF9hNHhzdFJWVtIB2wFBVV95cUxOZkRXOFRYd0RNbTMyQTRVc1pOYlhnQjBIbGp1c29oMVVJejNwazU2bkdsaWJjY1ZfTk9pMHBNNjMxVkJleFR5OGdaVWYxU3cyckJwNzN1ZXNFWDhwMTBpaUxjeWduWkVSc1pOUkctbXBYMXFUcGNvTGsxa3BhZVRnRFN0UmdqM3FMUDBtSHVYVTMtVFNjaWFvTzFuVXl1ei1PZ2ItQWhTenQ2eWJ6UUxrRm1iTUdyYVB3c0ZiOW1lQVIxY09XeXp2ZFhycWJfQTRDZDNHNzFHNWZMVk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51d575e7968c",
-      "title": "Study Says Two Minute Sweat Bursts Could Save San Franciscans' Health - Hoodline",
-      "published": "2026-05-17T16:41:37+00:00",
-      "summary": "Study Says Two Minute Sweat Bursts Could Save San Franciscans' Health&nbsp;&nbsp;HoodlineEvery step counts, but a few minutes of intense exercise a day can save lives&nbsp;&nbsp;The World Economic ForumThe healthiest workout may be shorter — and harder — than people think&nbsp;&nbsp;San Francisco ChronicleScientists say just 30 minutes of exercise a week could transform your health&nbsp;&nbsp;ScienceDailyNew Research Reveals How Short Exercise Bursts Improve Lifespan&nbsp;&nbsp;Bharat Speaks",
-      "sources": [
-        {
-          "name": "Hoodline",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGsyZFNJVTJKU3pUSWZ1Tlh3ZzN2b3BlT19rNWJZcmZwVVFfNURqTkt2OG9takNUc0FRbGVyeDJaSVRoenduSk1zMWtaNWpFZll4TnNqRG5Oa09VVjF4ZWlVSG5WMkI3cWp3OVdRMG5idjZCeFdqUzRnQmJGcE5HaUREeHNya1cxTjZHWXduMHQ1TXUzVEdXNFA5OUp0Q0E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaWFUVDRUeElld1dfSldTY0FiT3F4cmRGM2dtQ0JTaFlISFFmc2c4Yk53OXA5MnN1ZVJZT3RfZEZ4aTc4Zk05Q0JhZVJyRFRQSC05RV9NOE9qSGljOFhpbU10OHpMZW9mWHQ0R3M4YmM5aVlMRGlVdi1EX2F1LU5pMnBtRnRDUXJQRFN4RHpzUWFtVmNaNzBoczV3a0ZIZFRaTUtUWTIyQVR4U3hucWNZYlBNR2Rra3B0d2lET3NPa2hVM1lJX0tYcm91Z1VZd2otNTF2TnV2NFpGcFHSAeIBQVVfeXFMTlk5ZDd2bGRfNjc5Q3h4R2E4Z09mZnIyLUhQRzJXazY1Y2NPbGxyM0dNUjladVY4eFA2WVNsMG05M20yOW03OV9lVjFVTW9DbWFJYkVzUGE0SmZRdE1vTjlMV3o5MTRmNnl4d1FVaXdnclZTZS1Dbm5hOVdNVnh0Tk1Oemt2WmhXcTlMSmstc2E4MHFfb1U4N3BmRUdlUVRkbW1jNHo0WXZFR003N2pCTFA2azNRUEs5Rk80ekFDR1c4UW83OVJpZ3RYdFNBNVdnQmVaLU85TE1kU1JlTW50NUI1dw?oc=5"
         }
       ]
     }
