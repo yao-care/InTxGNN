@@ -1,17 +1,183 @@
 {
-  "last_updated": "2026-05-20T08:48:09.789556+00:00",
-  "total_count": 30,
-  "matched_count": 22,
+  "last_updated": "2026-05-20T14:25:50.860621+00:00",
+  "total_count": 34,
+  "matched_count": 26,
   "news": [
     {
-      "id": "88a6887b65f1",
-      "title": "DR Congo races to contain Ebola as death toll hits 136",
-      "published": "2026-05-20T07:54:21+00:00",
-      "summary": "DR Congo races to contain Ebola as death toll hits 136&nbsp;&nbsp;XinhuaWatch, but do not wait: On the Ebola outbreak&nbsp;&nbsp;The Hindu136 Deaths, Rare Ebola Strain, No Vaccine: Why The Bundibugyo Outbreak In Congo Is Proving Difficult To Contain&nbsp;&nbsp;NDTV'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads&nbsp;&nbsp;BBCEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of ",
+      "id": "4509c9861973",
+      "title": "New study paves way for solving the mysteriously high temperature of solar corona - Department of Science & Technology (DST)",
+      "published": "2026-05-20T12:48:20+00:00",
+      "summary": "New study paves way for solving the mysteriously high temperature of solar corona&nbsp;&nbsp;Department of Science & Technology (DST)",
       "sources": [
         {
-          "name": "Xinhua",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wODdzay1mdFlxd2JaaVpsS1Jwc1N5UE1laUt0OFdSVFBhOVUzSXg5SGR3RTROaHQtdk5OTUtfUkpyTHlOZTNsUWJZSHNrSW5US2lmNE9xek5qV083X1h4MGdGTkI1c2RKMVlKOEwzc0plSktON1IzbVBNb0c?oc=5"
+          "name": "Department of Science & Technology (DST)",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFI1bEg5Z2ZUZ1JHUUMwZmlxeXlTWWhvSDBlOGpJbnZ6RmRYbkZMR2NtTVk2cHdwaUEzRGpwYjdMUFlmeElhOGM3blJld29udXU4M1QzUlMzQ2RwOFlZaHhlQWpQMHY1WnNtSE5nYzNQcWs5Wi13TVR1d0xON0hORVFfVTVPNi1Rb0JCam1IWm5Rd0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a84a74687b79",
+      "title": "Australia faces 'biggest diphtheria outbreak' in decades - Sky News",
+      "published": "2026-05-20T11:01:13+00:00",
+      "summary": "Australia faces 'biggest diphtheria outbreak' in decades&nbsp;&nbsp;Sky NewsAustralia faces Diphtheria outbreak: Government plans emergency support&nbsp;&nbsp;The Times of IndiaAustralia’s diphtheria outbreak deepens amid investigation into suspected first death&nbsp;&nbsp;The Economic TimesAustralia faces 'biggest diphtheria outbreak' in decades, cases across Western Australia, Queensland, South Australia&nbsp;&nbsp;Deccan HeraldAnother vaccine-preventable disease makes a resurgence&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "Sky News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkdnWWVVVmpNMmoyS1FVX1ctb3BOM2JzV0xnbzBVX1ctT3R0ZG10UjZzRVZoNGgwMHBVaFZyWkRuSnBublFhV1ZFd3gxeWd0T2E1eTVtLWh4S1NYY05NeDlHNVJvbHNzNnNVVWVDcmFDblQ2ODBzOWpyVnBHWXdPSWYxX2hNTUE3Nkw5WTQzZUdhNWlU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "5504_1479",
+          "name": "diphtheria",
+          "keyword": "diphtheria"
+        }
+      ]
+    },
+    {
+      "id": "aa0fc8176832",
+      "title": "NASA’s MAVEN detects the Zwan-Wolf effect at Mars revealing how solar storms reshape the Martian ionosphe - The Times of India",
+      "published": "2026-05-20T10:50:00+00:00",
+      "summary": "NASA’s MAVEN detects the Zwan-Wolf effect at Mars revealing how solar storms reshape the Martian ionosphe&nbsp;&nbsp;The Times of IndiaUPSC Prelims Current Affairs for 20 May 2026&nbsp;&nbsp;Vajiram & RaviNASA's MAVEN Detects First Zwan-Wolf Effect Deep In Mars' Atmosphere&nbsp;&nbsp;NDTVNASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars&nbsp;&nbsp;NASA Science (.gov)Detection of Zwan-Wolf effect in the ionosphere of Mars&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOEQtWHpCNGNuQWRWUXpGVXJGZzJScVZ5Q2lFQnBMeGFJZGlJRk5sanNWLW53dlBLZE1DTDZWSHBTUWItY0xHNTdKRmxZOGFTM0xoWlZ3ZHVFemZKbXZzcGxFVUJxMmVkZk9xSVlScnZhRngxTmloTkNDRjNFVVpLYUM0aGNfWGk2WFQzTnhzZ292NTJkaktja2w0SGNHY1hOdE5BanNCUDhnZFI3RXpSaVFJMWpnd2NpUGFjbmk3aVJXd1AxTlNxSEJZNDdYQzFKM0lZU2VBQlZpM1NQTlo3cnFGNzdaeG8yT0NKYWZrNlZRcWtrWExJcDZJckYxdzQ4T2NDbUExY9IBjAJBVV95cUxNeHhPUk9WSkZKU1ozbnRncDEwWFBWajI0Qk9IOThqaU1LZXNDd2x2cEZVSFJqYlJ2ZWFZREhaRndCbWlVcExub1lzZjdxX05ZNHNaZ29GLUF5ZEU1S1dPVHZIckJBU2NnQ3FRck42Q1ZSZTl5MklXcTBRQ3NiWFg4aEVRQ3YxTmtQVWNQY0F1eV92YmM0YXJheHNiSGY2TXhCekhZN19sSTdiS20xTlRoNFp3R19EV0cxNU9JV2NicDVfeXFZY3JRcVptbDVfREowcTByNExSV2dXSC1GZ1RCdVc1Zk9hUEZmN01lenJ6OURHYXoxNTdEZEptRXBnbmFzLXc0OExzeUZfbWh4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "5ed140ef854a",
+      "title": "Scientists use light to create tiny molecules that could transform medicine",
+      "published": "2026-05-20T10:02:04+00:00",
+      "summary": "Scientists use light to create tiny molecules that could transform medicine&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtdlljTExZZjI3QnRuZGgxaTFkNFRBVFZJZEdRazByVFBPWDNzMHQtRWhHeEh3bzNvRk14OUxzQXZlM0ZkRjc5S1N0aDhuMFRld0V4WHZZdVNrcUFKY2lYSmRzNVNod3ZrS2k2R0h3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "0efd153ca90f",
+      "title": "I tracked my glucose levels for 4 months as a runner and it changed the way I think about food - Vogue India",
+      "published": "2026-05-20T09:33:09+00:00",
+      "summary": "I tracked my glucose levels for 4 months as a runner and it changed the way I think about food&nbsp;&nbsp;Vogue India",
+      "sources": [
+        {
+          "name": "Vogue India",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZTFmMHNkc3dVb3R4eTlOaHByMDd1QnM1ZjJsY2tjYUFxR3V0clptODhiazcycWUtY2F3M2t3cFNvb1EtckZfbnpPZ2xsNmExYmNqY3RCZmVvMnJUdVZyengyNUM0RVdsdTNBZl9HWFZnRzY1Z25HQm5KT1NScWtZM09BYmJnUWpqWlRNOEZDVDhvV3V0YUhqS2tVU0xRUjJWNE9jNlFmYUNXOTNEMTlhN05aaHBiTnpSSFJnZkJsOWE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "b3fc21715ca8",
+      "title": "Digital Gout Management Boosts Self-Management Outcomes",
+      "published": "2026-05-20T09:31:58+00:00",
+      "summary": "Digital Gout Management Boosts Self-Management Outcomes&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWVJWWJxT1NJRmVHUFI2Y0lnNFM5QTd0dkZRblVnVVJ2cy10QVJrMGxLRHFXZkl4d2xqdDVQTU9TR3dRaUpPWE9aenRtV2NwM3ZfeF9PX201YnE2TDRlMnFFSWNBN2VhNjFIMnRiMWY3SktvZ0tJdUZ6cE1WYXlMRFBwYjh3bXRPMEREai1SSHJBb0VocGhMWE5YX3BTamhsdUYw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "5393",
+          "name": "gout",
+          "keyword": "gout"
+        }
+      ]
+    },
+    {
+      "id": "9c4956411fe4",
+      "title": "WHO Declares Ebola Outbreak A Global Health Emergency - BW Healthcare World",
+      "published": "2026-05-20T09:24:02+00:00",
+      "summary": "WHO Declares Ebola Outbreak A Global Health Emergency&nbsp;&nbsp;BW Healthcare WorldEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)WHO says 600 suspected cases, 139 deaths in growing Ebola outbreak&nbsp;&nbsp;Al Jazeera136 dead, no vaccine or cure: WHO chief warns over 'scale and speed' of Ebola outbreak&nbsp;&nbsp;The Times of IndiaAmerican doctor with Ebola flown to Germany as his wife and children are monitored&nbs",
+      "sources": [
+        {
+          "name": "BW Healthcare World",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWhVaHltNFVQbUtZMEtIeGFfRXI0RjVfTWpEZlBnSElzUlA1b05HSEZrQm9LV1Uyb05IM0dmSWFTU2RMQzJvay1XYk5RUTVnVlQ1WDV4REJkR3JZblQxMjJibHl5aUpnNWw0elI3Uy1GQ0xIRzg1TU5VS20tZGVZWnkwMGJtZ1lFdF9FYW9kXy1fQ0FhOFFYOUlnRDR2LVk3RUx5Uw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "0e54fd260f44",
+      "title": "Researchers finally answer why the T. rex had short arms",
+      "published": "2026-05-20T08:56:36+00:00",
+      "summary": "Researchers finally answer why the T. rex had short arms&nbsp;&nbsp;ThePrintWhy meat-eating dinosaurs like T. rex evolved tiny arms&nbsp;&nbsp;Phys.orgWhy T. rex had tiny arms? New study points to powerful jaws&nbsp;&nbsp;The Indian ExpressWhy did T.rex have such tiny arms?&nbsp;&nbsp;The Times of IndiaWhy did Tyrannosaurus rex have such short arms?&nbsp;&nbsp;Binghamton University",
+      "sources": [
+        {
+          "name": "ThePrint",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Hang0alZHVjhIWFdaTWFfRVJaMWxNYk1yU2ZEQThyQ1hvOFB0RE5mMlFhT2NSbWVJcDNWaXA1cXg4QjdZLUswelFPZ3ZSdTR0cHBPSG1wVVJiek1jYUhtWDAtVmMwMjhhQ0gzQjBjR3JZZGgwYlVVM3NqaC1lUdIBgwFBVV95cUxPUlJOaXhGMUFqaHJsR2tERFlhRkJhN0swN0djOThXTzVIbE5SU2M0eXE1anNnUXV6dlhQcC1CeHE4bWlOYmJlTTVCUFp0T3FlMFpsVEo0SmhXZ0h6Y3I3Mkh1MFkwZkpGN0N0bF9QZW54LW1uaExlU1BWX0tGOE5tTTBoZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5dcee28378a2",
+      "title": "AI scientists expose strengths and fundamental limits - Let's Data Science",
+      "published": "2026-05-20T07:55:06+00:00",
+      "summary": "AI scientists expose strengths and fundamental limits&nbsp;&nbsp;Let's Data ScienceNew ‘AI scientists’ are improving – but reveal their fundamental limits&nbsp;&nbsp;The ConversationAI-generated research papers are overwhelming peer review&nbsp;&nbsp;The VergeMay 21, 2026: New Podcast Episode Provides an Editor’s Perspective on the Role of AI in Scientific Publishing&nbsp;&nbsp;Rethinking Clinical TrialsAUA 2026: John Duckett Memorial Lecture: The Role of AI in Scientific Publication&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "Let's Data Science",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmxjZkpfc2hVcDRqbFh6c2lSeHA4ZUM2OC1fdVRXano1MGZIX20xY2FwUm41MVYxQ2tWOGFIc09RblFPMU5wQlRGbVRUZUFjRUsxcC1UN0xDLUg4MHFkLWlyeGU3clVraG4zdVlnYjdwVURxTy1FMmY5ME0yRWloTFcyUVBXeFJLNEVRZjVkNUlENmFCZHJ0a0VWTQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "2c08bb3dadcf",
+      "title": "Researcher Announces “The Missing Medium” in Modern Physics Has Been Found - Macau Business",
+      "published": "2026-05-20T07:47:04+00:00",
+      "summary": "Researcher Announces “The Missing Medium” in Modern Physics Has Been Found&nbsp;&nbsp;Macau Business",
+      "sources": [
+        {
+          "name": "Macau Business",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMDBKVm1mZS1NRHlNYS1lUmsxTWVlY1VLQlZMZFRPdnEzYU1walZ4RUhPc1pjX2YtYWFudDlHNkdhdXA3ZkduYTZEWXhERzZrQmg4Y0pkZ2dnX2gtZ2FzUGxQS09JTjRpZnlmWFpLdG05ZTRZWTI2YVVDMThHYmxQUXloc2dDcEZsd1FBaFdKR1R5bnh4Nm5tbVh5R1EyT3Vu?oc=5"
         }
       ],
       "matched_keywords": [
@@ -27,7 +193,7 @@
       "id": "636c09886195",
       "title": "Hidden beneath Thailand for 113 million years: Researchers discover a 90-foot-long giant dinosaur in Sout - The Times of India",
       "published": "2026-05-20T06:30:00+00:00",
-      "summary": "Hidden beneath Thailand for 113 million years: Researchers discover a 90-foot-long giant dinosaur in Sout&nbsp;&nbsp;The Times of IndiaGiant new dinosaur identified from fossils in Thailand&nbsp;&nbsp;BBCThe first sauropod dinosaur from the Lower Cretaceous Khok Kruat Formation of Thailand enriches the diversity of somphospondylan titanosauriforms in southeast Asia | Scientific Reports&nbsp;&nbsp;NatureNew dinosaur species 4 times larger than Tyrannosaurus rex discovered&nbsp;&nbsp;AL.comArcheol",
+      "summary": "Hidden beneath Thailand for 113 million years: Researchers discover a 90-foot-long giant dinosaur in Sout&nbsp;&nbsp;The Times of IndiaGiant new dinosaur identified from fossils in Thailand&nbsp;&nbsp;BBCThe first sauropod dinosaur from the Lower Cretaceous Khok Kruat Formation of Thailand enriches the diversity of somphospondylan titanosauriforms in southeast Asia | Scientific Reports&nbsp;&nbsp;NatureNagatitan chaiyaphumensis discovered in Thailand is Southeast Asia's largest dinosaur&nbsp;&nb",
       "sources": [
         {
           "name": "The Times of India",
@@ -37,48 +203,34 @@
       "matched_keywords": []
     },
     {
-      "id": "aac06682b129",
-      "title": "New ‘AI scientists’ are improving – but reveal their fundamental limits - The Conversation",
-      "published": "2026-05-20T06:26:05+00:00",
-      "summary": "New ‘AI scientists’ are improving – but reveal their fundamental limits&nbsp;&nbsp;The ConversationAI-generated research papers are overwhelming peer review&nbsp;&nbsp;The VergeOne in 277 Biomedical Papers Carry Fake References&nbsp;&nbsp;the-scientist.comAI-generated fake citations are flooding scientific literature across publications, scientists warn&nbsp;&nbsp;Phys.orgSeven Top AI Models Tested for Academic Integrity: Over 30% Fabricate Data&nbsp;&nbsp;KuCoin",
+      "id": "45345b490f14",
+      "title": "Can vitamin C prevent cancer? Here’s what new research found - The Times of India",
+      "published": "2026-05-20T05:54:00+00:00",
+      "summary": "Can vitamin C prevent cancer? Here’s what new research found&nbsp;&nbsp;The Times of IndiaVitamin C Shows Potential in Cancer Prevention&nbsp;&nbsp;Bioengineer.orgVitamin C may reduce cancer-linked digestive chemical reactions&nbsp;&nbsp;News-MedicalTiming Your Vitamin C Could Blunt a Cancer Risk Hidden in Your Dinner&nbsp;&nbsp;ScienceBlog.comTaking a 4p vitamin after food could help reduce cancer risk, study finds&nbsp;&nbsp;Wales Online",
       "sources": [
         {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHZzWC0yeFpPMVJ6dUc0ZTBNMjNFUTk1UUpkX0xXRUpGTTd1N0FHNDdlckw3ODl4RzBZSllhazJlMkgtNDhidzlkS2pQekhGRG5zM0Z3cFNNTmxESzFkV3BDU0Z3enl0MVE1VS13R2ZUblNIRVNERlhjRFl1clNwRGQxX2xKd3FDSTlmUDJ4QjZxX0pCdTJxc3oybDczcmREa3BvQg?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQlctQ0NUdVU0Z29NSS13aWZVUUhrdXpVNG5tQmk1UjZmWmk3YlVJaU9jYXNqX3YtcGZDTUREYml2X2RIZjZFLWxuY3Q5SkhkX1BES3BYRWRKa3VOT0dPRlU1RUhja1NIMEc4dlBtMXYwUWhIeUc3X3JFcXhJLUx6RkpVWWx4YkRCR2hUQzdRaXdQR3J3MHZ3Vk8tbHdya1ZQTkUtTjhKcHpjWERlc0NVOTNRYmlPXzZJQnFWaXpCQURxRGxiRlJ2TDMwcW1yczNMaFHSAdcBQVVfeXFMUFg4TzVqUWhyNFRrRFRuY0F2eGhmYnBBUHBWQUFVVjJHNnBIb3JLSGVqX2NyNFFPcmhfZXQ2U1Z1bVdiREVtcVpEMVJDbGtqMl96VlF5ajRQMTM0NGFCYkpCUjdaVDBqcG1aTTBsbjhjMy15NzVGZUI2UVFWVE95LUtQUEdXS1FnQ2x5cjlYaXNYVVBndmtja3RpRk8xRFZlckVEUHhGNjJoVGtYeGlKT3F5X1l2ZmNhVEdBZ3N1ZGw2Y1ZFX0pmNzN0UkFLQmxobU9SYTVVc2M?oc=5"
         }
       ],
       "matched_keywords": [
         {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "1843f575d39e",
-      "title": "Health officials warn cases of diphtheria could rise - Australian Broadcasting Corporation",
-      "published": "2026-05-20T06:01:52+00:00",
-      "summary": "Health officials warn cases of diphtheria could rise&nbsp;&nbsp;Australian Broadcasting CorporationDiphtheria outbreak spreads across Western Australia, Queensland, and South Australia, raising health concerns&nbsp;&nbsp;The Times of IndiaAustralia’s diphtheria outbreak deepens amid investigation into suspected first death&nbsp;&nbsp;The Economic TimesAnother vaccine-preventable disease makes a resurgence&nbsp;&nbsp;australianpharmacist.com.auOutbreak of highly contagious infection grows to more",
-      "sources": [
-        {
-          "name": "Australian Broadcasting Corporation",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR3BsVEk1UUlQNkpQamhNcXlyTXk0cVlpaWx5YTZmM2RHSllNRFd1T3FqblVQRmd1b19TT1NnekdhcHBDLVV4SGtjWmVBcGVMVFY4M0k1VjdnbHlldU5fQXIxaHRERk1JWnVLWld4LTU5WHNSeWxoOXhYT2NEMHY2RWlNVmNKZG02Zi1jT1R0b1RfbFU4UnJFbTMyVE03Y0tJWFBVQmZWbTc2V1N6?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
+          "type": "drug",
+          "drugbank_id": "DB00162",
+          "keyword": "vitamin a",
+          "name": "Vitamin A"
         },
         {
           "type": "indication",
-          "disease_id": "5504_1479",
-          "name": "diphtheria",
-          "keyword": "diphtheria"
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
         }
       ]
     },
@@ -129,10 +281,43 @@
       ]
     },
     {
+      "id": "64eef88bb423",
+      "title": "Scientists Just Used Sunlight To Pull Off a Quantum Physics Feat Once Thought Impossible",
+      "published": "2026-05-20T02:08:55+00:00",
+      "summary": "Scientists Just Used Sunlight To Pull Off a Quantum Physics Feat Once Thought Impossible&nbsp;&nbsp;SciTechDailyResearchers Use “Ghost Imaging” with Sunlight to Generate Correlated Photon Pairs Without Lasers or Electricity&nbsp;&nbsp;The DebriefQuantum ghost imaging works using only sunlight in stunning new experiment&nbsp;&nbsp;ScienceDailySunlight-powered generation of correlated photon pairs&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1NtX0Rzam8xRDMxQ0VFNDdQN1VIMV9wSW1DcUZzblFpdEw1bEl0RGN2NEdoWDVPalhHY1RoMXd5S0k1a3RjcFVDWThZd2pmcUlLNDBuTHJJZUJXNl9FYTBXSnNOSFRnZXVCM3VPcnpLc2Z1TktrMXRXOXhWYmdXWHJkdzM2eGV1NlNUWXdqc2xZVkZXZFhlcGJUZUhaV2ZTbGg1TmN3UkdvUlBZVzVJeWtCQ0o?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "62fcea673e28",
+      "title": "‘Damp, stiff clay’ under ‘dry flour’: ISRO explains 2-layer ‘cake-like’ lunar surface - The Federal",
+      "published": "2026-05-20T01:41:21+00:00",
+      "summary": "‘Damp, stiff clay’ under ‘dry flour’: ISRO explains 2-layer ‘cake-like’ lunar surface&nbsp;&nbsp;The FederalChandrayaan Lander Hopped A Little In 2023, Now ISRO Is Jumping At Discovery&nbsp;&nbsp;NDTVChandrayaan-3 Hop Experiment Reveals Two-Layer Lunar Soil Structure At Moon’s South Pole&nbsp;&nbsp;SwarajyamagPRL scientists find porous lunar layer trapping water ice&nbsp;&nbsp;NewsBytesNew Chandrayaan 3 Discovery&nbsp;&nbsp;The Hans India",
+      "sources": [
+        {
+          "name": "The Federal",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDlkMUVhQVdLNHNQQ1dYVVRWM3B0Y0s4UWpiQ3ljWTdkc0daNTVScDFFQm1ZRkxOckFvWk1uY0N4NTNNZG5ib0VlVVJFc2dzSm9UM1hRdFh1SEhlcHNyRUlPbFdxMjBwSmxHWGRmM0p1NWdaRnJ3VlRMQlUyTF9CcVFKNWd2eU1ZZ1VPcWRVbFFTQm9adGpER1kzbkZpaUNiaVNXVjgyY2IteE5uVURzNHFURE5lTmF0S1U3ME1GT0h0dw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
       "id": "92184e69f40c",
       "title": "‘People should aim to get a variety’: the pros and cons of popular protein sources - The Guardian",
       "published": "2026-05-20T00:22:00+00:00",
-      "summary": "‘People should aim to get a variety’: the pros and cons of popular protein sources&nbsp;&nbsp;The GuardianThe 3 things you need to know about protein, according to an expert&nbsp;&nbsp;New ScientistTop US Professor Reveals How Much Protein Your Body Actually Needs&nbsp;&nbsp;Times NowHow adding extra protein, supplements to your diet can affect your body&nbsp;&nbsp;WPBFHow did protein become a meme, and are we all in on the joke?&nbsp;&nbsp;Dazed",
+      "summary": "‘People should aim to get a variety’: the pros and cons of popular protein sources&nbsp;&nbsp;The GuardianTop US Professor Reveals How Much Protein Your Body Actually Needs&nbsp;&nbsp;Times NowHow adding extra protein, supplements to your diet can affect your body&nbsp;&nbsp;WPBF6 Protein-Rich Foods Linked to Healthy Aging After 50&nbsp;&nbsp;Yahoo News MalaysiaHow did protein become a meme, and are we all in on the joke?&nbsp;&nbsp;Dazed",
       "sources": [
         {
           "name": "The Guardian",
@@ -145,20 +330,66 @@
       "id": "cf403de1db39",
       "title": "Chiral Carbon Nanotube Films Created by Rice Researchers Exhibit Nonlinear Optical Properties",
       "published": "2026-05-19T23:00:32+00:00",
-      "summary": "Chiral Carbon Nanotube Films Created by Rice Researchers Exhibit Nonlinear Optical Properties&nbsp;&nbsp;geneonline.com",
+      "summary": "Chiral Carbon Nanotube Films Created by Rice Researchers Exhibit Nonlinear Optical Properties&nbsp;&nbsp;geneonline.comSee more headlines and perspectives on Google News",
       "sources": [
         {
           "name": "geneonline.com",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSnFaOS1rTTh3RTlUckg4RGprdU9hUUt1REF3NW43dnVIX0lab21qM0dLQWpjRkEwa2FnOUZ1YVRoaGRJT25GazVrdmxvakR1ZGlGZExiZEQ2emZSN2NLZURWOUQ1M2FsdE5EVTk4eXZQeXpvT0ppWEI1aDZoT0ppTndWU0dIXy1IengzZEhnUjliNUFmZUZOdm42b0tZbjd0YnJOMU9uVWlIQ3hWOTJKXzZaeDJFS2xYMWtlZFV3?oc=5"
         }
       ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "90729bcdebda",
+      "title": "Indian scientists discover rare stellar system with one of shortest known orbital periods - UNITED NEWS OF INDIA",
+      "published": "2026-05-19T17:15:17+00:00",
+      "summary": "Indian scientists discover rare stellar system with one of shortest known orbital periods&nbsp;&nbsp;UNITED NEWS OF INDIAIndian researchers spot one of the shortest-period stellar binary system&nbsp;&nbsp;PIBBlue Straggler Star, Meaning, Characteristics, Latest News&nbsp;&nbsp;Vajiram & RaviIndian researchers discover ultra-compact stellar binary system with rare brown dwarf companion&nbsp;&nbsp;DD NewsAstronomers identify rare ultra-fast binary star system&nbsp;&nbsp;Tech Explorist",
+      "sources": [
+        {
+          "name": "UNITED NEWS OF INDIA",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeW95WUZHQi1pME1LYVlJUGFrOG5mUHd4WkN2ZGVKaVVDcGdkOFViYjZBSFZBSGdTWXlnaERfNy1xWGgxQjhmajZZelpNX2U4SXVlQTdjelVWQWxyLTQ1UmhvbzRzR2xpdUhCNUNHVjJDdlNVUmxESFdrRzViOFBUbjRCN21saEduMXBQbnBQTDVfdkxMR2RsNW5zQnBJUjZBd1duMzZHX0FBalNpU2RDUlhKdTVra29BUlZfR3E2UjEwQkp5b0Z5ZXpwQzRGQlJQZXVQZExjTmwyaURnZUE?oc=5"
+        }
+      ],
       "matched_keywords": []
+    },
+    {
+      "id": "af21360dc410",
+      "title": "Global Experts Rename PCOS to PMOS to Reveal Its Multisystem Pathophysiology - Docwire News",
+      "published": "2026-05-19T16:27:01+00:00",
+      "summary": "Global Experts Rename PCOS to PMOS to Reveal Its Multisystem Pathophysiology&nbsp;&nbsp;Docwire Newshealth matters newsletter: What’s in a name, and other health questions&nbsp;&nbsp;The Hindu'The name was inaccurate': PCOS gets a new name after years-long effort&nbsp;&nbsp;Live SciencePolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyFrom PCOS to PMOS: Why the renaming can change how In",
+      "sources": [
+        {
+          "name": "Docwire News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3FRbDRLVDdVb0JQR0Z4NTVsN2lIWDNKNmtUYnh5WDl2LV9md3FJdFFTREZHYWMzYXo0cFZVYVNJNjViSXBzTHF0SGN5VGpCVHRhTGlvVGtDLXNSVEJIbWdST3Y5TEQwbm11ck9rUEcyaFhtWnVEV0NCb2pIWE9QZ0U4M0MzNkFfVlhYajZuZnB0a3Q5Um9lX0kzNDhjTUFqWFJaMXdoQVdBeVBvZWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "10686",
+          "name": "N syndrome",
+          "keyword": "n syndrome"
+        }
+      ]
     },
     {
       "id": "d47fd43f7331",
       "title": "Scientists discover new state of matter inside Uranus and Neptune - The Brighter Side of News",
       "published": "2026-05-19T16:07:00+00:00",
-      "summary": "Scientists discover new state of matter inside Uranus and Neptune&nbsp;&nbsp;The Brighter Side of NewsUranus and Neptune could be full of rocks, new study suggests&nbsp;&nbsp;SpaceDestroying the myth of the ice giants Uranus and Neptune&nbsp;&nbsp;Universe Space TechScientists Say Uranus And Neptune May Be Far Rockier Than Anyone Expected&nbsp;&nbsp;The Daily GalaxyNew Study Suggests Uranus and Neptune May Contain More Rock Than Ice&nbsp;&nbsp;Gadgets 360",
+      "summary": "Scientists discover new state of matter inside Uranus and Neptune&nbsp;&nbsp;The Brighter Side of NewsUranus and Neptune could be full of rocks, new study suggests&nbsp;&nbsp;SpaceDestroying the myth of the ice giants Uranus and Neptune&nbsp;&nbsp;Universe Space TechNew Study Suggests Uranus and Neptune May Contain More Rock Than Ice&nbsp;&nbsp;Gadgets 360New study suggests Uranus and Neptune may contain atmospheric rock&nbsp;&nbsp;NewsBytes",
       "sources": [
         {
           "name": "The Brighter Side of News",
@@ -178,7 +409,7 @@
       "id": "91f1bfecd8eb",
       "title": "Monkeys help Oxford scientists discover why 90% of humans are right-handed - lefties remain a mystery",
       "published": "2026-05-19T15:59:22+00:00",
-      "summary": "Monkeys help Oxford scientists discover why 90% of humans are right-handed - lefties remain a mystery&nbsp;&nbsp;LADbibleNew Study Reveals Why Majority Of People Are Right-Handed&nbsp;&nbsp;NDTVScientists just cracked a mystery that's puzzled researchers for centuries; why are 90% of humans right-ha&nbsp;&nbsp;The Economic TimesWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular ScienceStudy links right-handedness bias in humans to walking on 2 legs | Study published in PLOS Biology | I",
+      "summary": "Monkeys help Oxford scientists discover why 90% of humans are right-handed - lefties remain a mystery&nbsp;&nbsp;LADbibleWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular ScienceNew Study Reveals Why Majority Of People Are Right-Handed&nbsp;&nbsp;NDTVScientists just cracked a mystery that's puzzled researchers for centuries; why are 90% of humans right-ha&nbsp;&nbsp;The Economic TimesWhy Did Humans Evolve to Favor One Hand Over the Other?&nbsp;&nbsp;Nautilus | Science",
       "sources": [
         {
           "name": "LADbible",
@@ -187,16 +418,30 @@
       ],
       "matched_keywords": [
         {
-          "type": "drug",
-          "drugbank_id": "DB03336",
-          "keyword": "bia",
-          "name": "BIA"
-        },
-        {
           "type": "indication",
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "3f7a1c579458",
+      "title": "AIIMS-trained gastroenterologist reveals 8 habits that are quietly destroying the gut | Health - Hindustan Times",
+      "published": "2026-05-19T15:29:40+00:00",
+      "summary": "AIIMS-trained gastroenterologist reveals 8 habits that are quietly destroying the gut | Health&nbsp;&nbsp;Hindustan Times‘The average Indian eats at the wrong time’: Bengaluru doctor reveals 6 daily habits secretly damaging gut&nbsp;&nbsp;The Economic TimesDoctor describes poor eating and sleeping habits of Indians in viral post&nbsp;&nbsp;GujaratSamachar EnglishDoctor shares 8 habits that are silently destroying the gut | Intermittent fasting needs to be well scheduled | Inshorts&nbsp;&nbsp;Ins",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVllQUG1EU2Y0VE12ZXllenNGaXdJaldkNDJqMlVZalFGNGYxOVpZc2xyOEQ0bmZHdm9takhfTlZwZ1hDY3pmVmVCMkl2aFFudTFnY18tMC1TVEJkV2FZRGFPRWJHeDVlSngxcDNHN1VLa1Jiel81R055QnNsZTRmYjdkYXE0MTE5RVV4d3k5bWdZWkJrT0R3SG01d244Y2JRU0hVNnNhMmgxZEE5U252TkJHY1Y3THRzUmNTaDZPX1VlbmdGSTZvLUxIY1RVajBsLVlqbGFhZWJVeVlqNW9qSjlvYU1kWG000gHuAUFVX3lxTE14bV95Z3pIemlQSmtTaE5naWN3aEF3WVUxNm9BbWt4eGlsZHhEU3N6b0JEZ1RsSkN3bjBGcHZtZW91ZF9LYlV3c3Q0MWRvcDVCZk5Ob1dRRGd4dTNNakk0eDZsMHVyZDFlQUZmTXdFRF9lOHBORVZaY1BReUd2MWduSGVtUFd5U1lIMXBKOHhzMUM1MUxkbXJtZ2p1dVU5VVhHOENCZ1ptSXB4cVg3NnZOVVhnRjRpcnpzdmFjTE9ONVRZcFp3RnhiRkgyd1g3RDNEcVRaNEsxN2hrRTVnUHpZbWFrNFB0eXFZekx2eXc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "4979",
+          "name": "asthma",
+          "keyword": "dama"
         }
       ]
     },
@@ -227,34 +472,14 @@
       ]
     },
     {
-      "id": "4180d2a2b01a",
-      "title": "Teledyne supplies sensors for ESA’s SMILE space weather mission - Investing.com India",
-      "published": "2026-05-19T14:51:41+00:00",
-      "summary": "Teledyne supplies sensors for ESA’s SMILE space weather mission&nbsp;&nbsp;Investing.com IndiaChina-Europe SMILE satellite mission launched for solar wind research&nbsp;&nbsp;news.cgtn.comSuccessful launch of SMILE Satellite marks first China-ESA mission-level cooperation&nbsp;&nbsp;Global TimesSmile lifts off on quest to reveal Earth’s invisible shield against the solar wind&nbsp;&nbsp;European Space AgencyChina-Europe SMILE mission launch to enhance space weather forecasting&nbsp;&nbsp;China D",
+      "id": "369e54f246f0",
+      "title": "Ancient supernova remnants found in Antarctic ice",
+      "published": "2026-05-19T14:07:00+00:00",
+      "summary": "Ancient supernova remnants found in Antarctic ice&nbsp;&nbsp;YahooScientists discover Earth passing through ancient supernova debris hidden in Antarctic ice&nbsp;&nbsp;The Times of IndiaRadioactive stardust from ancient supernovae found trapped in Antarctic ice: Study&nbsp;&nbsp;The Indian ExpressIron and Ice: Earth's Passage Through the Interstellar Cloud&nbsp;&nbsp;Universe TodayAfter Analyzing 300 Kg of Antarctic Ice, Scientists Found Strange Radioactive Particles Inside&nbsp;&nbsp;The Daily ",
       "sources": [
         {
-          "name": "Investing.com India",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzFkYjg2aHE4REFxdG1GR1N3Q1ljdThGdEpDeGNoeE1UeGdReDNyXzgteVpQTGRSU3RfX2JJRlFMN2VjUnlGd2tsT1RSWEs1d0xPdDl2UVNJVmRJM3g0STRYb3Ric1lzZnViZUlJc2VoQ1J4LU9KU3lnQV9jMnhoRFc1U3lydHZYODhzOEVLUVo3S2dzWGUxdHMxRTdjUDBDdkNVM3YzWmJ6YmNPRmZZdy1DTERpYThXYUdOc0JuM1Y?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "6652_3678_1090_3672_3673_3676_3677_3679_6803",
-          "name": "myocardial infarction",
-          "keyword": "MI"
-        }
-      ]
-    },
-    {
-      "id": "ea0211b2241e",
-      "title": "Radioactive stardust from ancient supernovae found trapped in Antarctic ice: Study - The Indian Express",
-      "published": "2026-05-19T14:29:44+00:00",
-      "summary": "Radioactive stardust from ancient supernovae found trapped in Antarctic ice: Study&nbsp;&nbsp;The Indian ExpressSurrounded by stardust: Antarctic ice cores confirm Earth is accumulating iron-60 from local interstellar cloud&nbsp;&nbsp;Phys.orgIron and Ice: Earth's Passage Through the Interstellar Cloud&nbsp;&nbsp;Universe TodayScientists find iron-60 stardust in Antarctic ice, trace to supernovae&nbsp;&nbsp;NewsBytesAfter Analyzing 300 Kg of Antarctic Ice, Scientists Found Strange Radioactive Pa",
-      "sources": [
-        {
-          "name": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYS16NlYxTkFEMXZPaVNPZUVkUFgtTUhFUGxRTVZmSnV3dmFFM1R6QnVWMVVDbFhxS05WamwyVmFJS0NQWlVTUkJ4TENrZHFtbzFsblBIRER6ZTVRMnhVRG9kbGg1QWZ0UzdzTGtoMG1sWXJoRjk0T2V1U2ZvREM5UGg0YTRaclU5UnB2Qk1wN2RyT3ZxTFZBakwtSUFwT2VXRUExLVlfNDZmLWdOb1FmNTBaaHNEY1M0dE16WmJyS2hzNENUMEtySDZHSmRuNkYxT01YRDZR0gHcAUFVX3lxTFAxS2o1Q3F1N0FCdW1aR0R6c2U2NTlfZTk1clh4Z194cEc1blhWMDZ3OVBXaXM4YTc5V1dHVmNiZTE1LVpZdnVwdjNaUU5fT2pBbC04RV9QNmF1RENNTW9fZEJXemt6VlVUVUE1TEo1YmNZY25vdkRLT0g1dmFQOTByVV9uV2tNY2x1aERfWHF5Z201RTJVRzlDRUJOd19aZUw0b1E1Sl82a3pyQ1NyZFUxYjNJMWdyMG96X1M5WUYwNWlyTWdkVlJMVWZPZjRtTDhHdFV5Vm5jczVvUDI?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUGM5ZFZxMkN4RmZLQlZ4THA1LXg3OE12akV2SFkwMFg4VXpsTExhdXh3c0xWdnh1U21xa2dpYnhfQ0prV0FHa1N6LXhCN195b3laV2Y5MEl3NDlBSU9wZ04tb2hxallfVDBXcTVGV1B0aVFhT1JhVEFwTEZBX3Q4bnhpcWo5N2w0RjVLZFNqbllWSEZHOEhTeg?oc=5"
         }
       ],
       "matched_keywords": [
@@ -311,17 +536,23 @@
       ]
     },
     {
-      "id": "16f14d785c3c",
-      "title": "Indian researchers spot one of the shortest-period stellar binary system - Department of Science & Technology (DST)",
-      "published": "2026-05-19T12:46:11+00:00",
-      "summary": "Indian researchers spot one of the shortest-period stellar binary system&nbsp;&nbsp;Department of Science & Technology (DST)See more headlines and perspectives on Google News",
+      "id": "7697acce0810",
+      "title": "Algal Betaine Triggers Bacterial Hydrogen Peroxide Production that Promotes Algal Demise",
+      "published": "2026-05-19T12:53:43+00:00",
+      "summary": "Algal Betaine Triggers Bacterial Hydrogen Peroxide Production that Promotes Algal Demise&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "Department of Science & Technology (DST)",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdEhRLWc2NkhMTHlDSC1FWXZJbU5WalBqVWxYUlJmSGtvZE5WZ0hHbXkxRjJ0N1FLMU9YZk5obG1LWVR0d1JqV2VObkVKTlZMV0s2eXFIa0dzVzVlMXFUZXFtVUNEblZmaWt2RXNkRWZaOUVMaFlxanVwNThOZmQyS2VKUmpLaDVzVGEtaQ?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oaXV2Sm1KTFRqRFp0UFpKVEFpU1pzd0dLZkZNMUhGZEJhRHE1dzlIRmM4bjZyQlhiM1lXMlIxVlhmQ2R6RlJDU3cyMGRTTHQzdEtiYnN2a0NVb3M5MnZ3?oc=5"
         }
       ],
       "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB11091",
+          "keyword": "hydrogen peroxide",
+          "name": "Hydrogen peroxide"
+        },
         {
           "type": "indication",
           "disease_id": "7270_12900_54838_12306",
@@ -331,14 +562,14 @@
       ]
     },
     {
-      "id": "7d3dbf65cebe",
-      "title": "NASA’s MAVEN makes historic discovery around Mars - Tech Explorist",
-      "published": "2026-05-19T12:15:30+00:00",
-      "summary": "NASA’s MAVEN makes historic discovery around Mars&nbsp;&nbsp;Tech ExploristNASA's MAVEN Detects First Zwan-Wolf Effect Deep In Mars' Atmosphere&nbsp;&nbsp;NDTVNASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars&nbsp;&nbsp;NASA Science (.gov)Detection of Zwan-Wolf effect in the ionosphere of Mars&nbsp;&nbsp;NatureWhat is the Zwan-Wolf effect at Mars?&nbsp;&nbsp;The Hindu",
+      "id": "df6ff8e5d235",
+      "title": "Nature just outsmarted Silicon Valley: That trendy houseplant on your windowsill has been doing advanced M - The Economic Times",
+      "published": "2026-05-19T12:23:18+00:00",
+      "summary": "Nature just outsmarted Silicon Valley: That trendy houseplant on your windowsill has been doing advanced M&nbsp;&nbsp;The Economic TimesReticulate leaf venation in Pilea peperomioides is a Voronoi diagram&nbsp;&nbsp;NatureChinese money plants create perfect geometric patterns using 'nature's algorithm'&nbsp;&nbsp;Earth.comCommon Houseplant Just Revealed A Hidden Mathematical Secret&nbsp;&nbsp;StudyFindsIs this genius plant better at math than you? The answer is probably yes&nbsp;&nbsp;BBC Wildli",
       "sources": [
         {
-          "name": "Tech Explorist",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBadjZpZXJ2SFhMZnRlS1QwbVo1RXRJSWFwUi1uZEtnYVpVTllJRnZMSXZUNS0zMmFacy1hRnRvWnQxVzJZcWdRS3l0UXVlSE05WlF1MWswZGhJN3YxMnZrdldIMmZxaGdPR2c0YzkxTjFvaDhTU0liOUllTkY?oc=5"
+          "name": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQZ1BFdnFGN01xUXhwVE5jX1hnbDVMSmJ1bWYyX0ZwM1JsaEtScHBPVDN1ak5nU0hKUERZOHU1N0lwTzcxUkg3R3lTeExxWkh1ZWNHejAteUxNcTljT1NNUXl6RmRla0hTc1JZa2tjSXhGTkFSTDlVSzZ2VEQxZ0ZnR2haazRYbC1qaGRNX2hIejc1dE5MWkRnVF83aDhKWkhIUTZGOERqdWdJXzRzWHdsdl83U2tUbmpmdE5hTzJWMHpQeHU5TlFNbTdLRm40ekJtbE93Tmp2Ti1tLXB0cHN1UGpNM0l0a1RvaEVWaldiaWI0dF9qUzdTemE4elpjbXV3Nk5EQnk5X1YtQjhYbWhIOXNSeFBYakI3WjBYMjNtRWw5N0djOXUw0gGsAkFVX3lxTE9rZ2JxM0JiVGU5ZTctTDRHM2s1azdFck5Od1M3a0cya2t6Yk1WMTUwdlloSktPOFZVeXZsVjBLeVNRMzdNeXlpNEpoS0l0djIzUzkwTEp4ZVdoRGtBZ0xtd0tieTdCN0JBTnRNQUVyNHJRVDloRDN6cWF4RU03U0FaRXN4a01uM0IzaWI5cHNwU2hvWGd3amEtS0c5TzdnXzN1QmxScmljTzVBbmQ2amcxcUhWenlDS0ZjYlk2NnBvbmg2YlkzUXlPOUt6YlFyTHJGcjZZUkVtOURKM1RYS2RXbnZtcUNtYUJJV2tEdUV4MEtPckRaMnNYcjhvcnBCXzFsX0xFMEVMNUZzV0RtN1M5LTRweWU3SzBubmVLTy1jM2lWSDdadFFjOTJMNA?oc=5"
         }
       ],
       "matched_keywords": [
@@ -371,217 +602,14 @@
       ]
     },
     {
-      "id": "127ec473b97e",
-      "title": "Scientists warn of heightened risk from rockets and satellite tumbling down on Earth",
-      "published": "2026-05-19T08:43:00+00:00",
-      "summary": "Scientists warn of heightened risk from rockets and satellite tumbling down on Earth&nbsp;&nbsp;WIONStudy finds 47% of tracked orbital objects are uncontrolled junk&nbsp;&nbsp;NewsBytesFalling space debris poses an escalating risk as spacecraft get stronger and more heat resistant&nbsp;&nbsp;The ConversationThe material science behind a spacecraft's impact armor&nbsp;&nbsp;Phys.orgAlmost half of what is orbiting Earth is space junk&nbsp;&nbsp;geographical.co.uk",
+      "id": "0651926c5a4d",
+      "title": "The World Hypertension Day was observed by AAM-PHC Sakti through a screening and awareness programme conducted at Kharu Market. | The Administration of Union Territory of Ladakh | India - Administration of Union Territory of Ladakh",
+      "published": "2026-05-19T05:39:09+00:00",
+      "summary": "The World Hypertension Day was observed by AAM-PHC Sakti through a screening and awareness programme conducted at Kharu Market. | The Administration of Union Territory of Ladakh | India&nbsp;&nbsp;Administration of Union Territory of Ladakh1 in 3 adults now has hypertension. Why Indians should worry more than most&nbsp;&nbsp;The Times of IndiaNo symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The HinduHealth Experts Stress Early Detection",
       "sources": [
         {
-          "name": "WION",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM3MtMlpFQzMwcEI4VUVsM3M4SkxZSzByam5BLWdkUEc5LTZlTWdMdkRKOGxhREVqZHhSYW9GYkZLeGFLYjdRSTl0Y0xvRzZhYUlQNGpxMDhTa2tQTDFVMzVjT3llbjVIcEtGYkNjTlpGSEpnSUtmNTMzT2pFTGtwaTNBSWVFODBsTjMtY2pMZ0tPbllJckswbEh3U25hM2h1TnZ5ZzRkQnZwbm1feUFlcnhxSk5FcWladHZ6MjRsTFRVaFVva253LUVB0gHPAUFVX3lxTFBadWRNVzNzVmNuUDhKMjN6NVdsSzNQdGZOVkJkMktLMFJ2OWc3aFdrS20xODF4ZDJwZFBmSFR6WVBvRWJWM251akhGVXpYMUIzYnJCZTItQ1pJdVJ5b3Eybi1BSldMdzNwVi1iYWxJaEl0Z0pBbl94RHM4NnpjWmlELTBBZTRCbHhURDdyMUpDc0dOamUzY2l6S1NJT1pwbURuNDJydnVjb05ISlQ0VlJWeDEwUUlFbHNwRFhZLUZwNjZSM3ZJYXZlcTFCQWgycw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "8ad4304c3a4a",
-      "title": "Cleaning reshapes bacterial communities in public toilets through disturbance and random reassembly",
-      "published": "2026-05-19T07:05:39+00:00",
-      "summary": "Cleaning reshapes bacterial communities in public toilets through disturbance and random reassembly&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10eDBpbVByeUFKU3JqREZ5eDkwMzBfRWl4RFo5aFN3UEZzbGlfRWdOVnBBd3JVdThzSzhCZHNRdHdueVp3anhseWVUeVlPdDc4NDBJMnJlMlNVMnVZZHhB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a25be19bd072",
-      "title": "Effect of the sterilization cycle on the flexural strength of titanium orthodontic mini-screws: an in vitro study",
-      "published": "2026-05-19T06:53:16+00:00",
-      "summary": "Effect of the sterilization cycle on the flexural strength of titanium orthodontic mini-screws: an in vitro study&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TQW1jUlJYbkwyc2VuYzFCaVV6SlE1NF9oN3Roa3U1TlJfNlFSR3pMY1BIZ0VfbmhPbHdJM2lmdlVHT0ZtU0pBaHdpWGh2YWpwcHZ6R3pycVRhQ1d2RV9V?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "90ffabf6d8c5",
-      "title": "MIDAS platform accelerates protein engineering through rapid PCR-based screening",
-      "published": "2026-05-19T06:08:00+00:00",
-      "summary": "MIDAS platform accelerates protein engineering through rapid PCR-based screening&nbsp;&nbsp;News-MedicalBioengineers condense protein engineering and testing to a single day&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUdjWHdvTjdoNDliNzZxNDk2dXFmaDMtSDRaMmRSTVN4R1ZCaXhlYWxTbDNrUnhUeGdTcERiUThaMDNzRDFPQzFUaFVQdHNmbXlhdTBQTFZLSlJ4UENkbUVwMGFETmxCMFdvYndKZ2czSjJmQ3JLNkY3RlhzWHdvaXd1R0RPRFktSzJFdG5GaHRMZ0k3UFlhYVZGZmxYNXVYbk5CU2cyWmpCWmVSQXBFMFgtUEZtSU1Xdm80OGxxQ2NaYzNyTVpz?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "6652_3678_1090_3672_3673_3676_3677_3679_6803",
-          "name": "myocardial infarction",
-          "keyword": "MI"
-        }
-      ]
-    },
-    {
-      "id": "c06756bbcd29",
-      "title": "NASA reveals new strategy in the search for life beyond Earth - Latest news from Azerbaijan",
-      "published": "2026-05-19T05:46:11+00:00",
-      "summary": "NASA reveals new strategy in the search for life beyond Earth&nbsp;&nbsp;Latest news from AzerbaijanMolecular diversity as a biosignature&nbsp;&nbsp;NatureNew method sharpens the search for alien biology&nbsp;&nbsp;University of California, RiversideScientists propose new way to find aliens — and we may already have a spacecraft that can help&nbsp;&nbsp;SpaceNASA Astrobiology Report: PESTO Search for Life Instrumentation Study For Solar System Life Detection&nbsp;&nbsp;astrobiology.com",
-      "sources": [
-        {
-          "name": "Latest news from Azerbaijan",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVXMwRTlJNi1HeEdkd0NYbFBPYzIwNjZITTRZdDVBMGxkUjRidmxoeWY3ZjFjTHFSd3FqTFd3YXBMSE9LNkZRUXV6QWR4ZTNtTHViYXFKLVVMVXdxcmJKc2luYkhGSlkxVDlydHVnWVIyaWluemZONW5XbmN3UmF1dV9zX2h6QldDOFE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "7697acce0810",
-      "title": "Algal Betaine Triggers Bacterial Hydrogen Peroxide Production that Promotes Algal Demise",
-      "published": "2026-05-19T04:41:15+00:00",
-      "summary": "Algal Betaine Triggers Bacterial Hydrogen Peroxide Production that Promotes Algal Demise&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oaXV2Sm1KTFRqRFp0UFpKVEFpU1pzd0dLZkZNMUhGZEJhRHE1dzlIRmM4bjZyQlhiM1lXMlIxVlhmQ2R6RlJDU3cyMGRTTHQzdEtiYnN2a0NVb3M5MnZ3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB11091",
-          "keyword": "hydrogen peroxide",
-          "name": "Hydrogen peroxide"
-        },
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "3884578e1b92",
-      "title": "Chinese money plants create perfect geometric patterns using 'nature's algorithm'",
-      "published": "2026-05-18T18:34:06+00:00",
-      "summary": "Chinese money plants create perfect geometric patterns using 'nature's algorithm'&nbsp;&nbsp;Earth.comNature just outsmarted Silicon Valley: That trendy houseplant on your windowsill has been doing advanced M&nbsp;&nbsp;The Economic TimesReticulate leaf venation in Pilea peperomioides is a Voronoi diagram&nbsp;&nbsp;NatureCommon Houseplant Just Revealed A Hidden Mathematical Secret&nbsp;&nbsp;StudyFindsIs this genius plant better at math than you? The answer is probably yes&nbsp;&nbsp;BBC Wildli",
-      "sources": [
-        {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGF6WWF4Ny1xSi1rVm5Rd1JDSW02NmJGS2VtS2VyY1prWnFxb250YzdHUXlvdk9yTHpPV2I2QXk5RkFtcldFLW1kMi1jZmlCQWZNU0YxZEFaODAwdHZnbExFRHhmcEprU25GZzF6cm5jRTJGNUpPZWoyRFpYNTZDZmdGZVJXZDV4V2ZnTXVkNmZ1VUVYRXlIYWkydnJ4LXItM1Rzd0k0cnlHbE1veXZqTXJwQlpQTmgxUlZ6S1ZrVQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "e1c6c227904d",
-      "title": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts - The Guardian",
-      "published": "2026-05-18T14:18:00+00:00",
-      "summary": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts&nbsp;&nbsp;The Guardian‘Local health outbreak can now turn global in days’: Expert on pandemic preparedness&nbsp;&nbsp;The Indian ExpressGlobal Preparedness Monitoring Board (GPMB) Report 2025: The New Face of Pandemic Preparedness&nbsp;&nbsp;ReliefWebWorld Remains Underprepared for Future Pandemics Despite Lessons From COVID-19, WHO Warns&nbsp;&nbsp;Medical DialoguesFrequent infectious disease outb",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSl8wQ0dCRTN4dWJHWjE3Umo0YXByNjhwVXFRYURhRFY1NHFvVGpJbmdqOWpFbEdEVVdhRlYtRXVTcGFCUHlwLVBlTHNIVWVtem5sTHcwWS0tSzh2TGY0TV9lQzBUY0Y5Rm41Ym9xcDJhenBwV3dUalhOMEE3Mnk1QmhGa21nQ3RTWHlENjdSUEpNVFVXeHZMdFdDWnNDSE5MS3M3YWoyYzFpY05RalNnVERwWmlFMkZUd2pCUlVoSlRfNXFIaVBEWjdXc1R6cjNsRlE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4979",
-          "name": "asthma",
-          "keyword": "dama"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5113_5550_5108",
-          "name": "infectious disease",
-          "keyword": "infectious disease"
-        },
-        {
-          "type": "indication",
-          "disease_id": "100096",
-          "name": "COVID-19",
-          "keyword": "covid-19"
-        }
-      ]
-    },
-    {
-      "id": "4039fefb4bae",
-      "title": "Scientists Just Discovered Hidden “Brakes” Beneath the Pacific That Stop Massive Earthquakes - The Daily Galaxy",
-      "published": "2026-05-18T13:45:00+00:00",
-      "summary": "Scientists Just Discovered Hidden “Brakes” Beneath the Pacific That Stop Massive Earthquakes&nbsp;&nbsp;The Daily GalaxyStudy Finds underwater \"Brake Zones\" Could Act As Natural Barriers To Halt Earthquakes&nbsp;&nbsp;NDTVScientists discovered nature’s own “brakes” deep beneath the Pacific Ocean that may have prevented massive megaquakes&nbsp;&nbsp;The Times of IndiaIndiana University Bloomington researchers find natural brakes under Gofar fault&nbsp;&nbsp;NewsBytesMysterious fault’s quake brake",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkaUM2SWRfdkhIa0ZJMFN4MFRMS2dfR05wNlRzaTRJQTBYT3JoczhxemVuUDR2cHg1M2FHX2FPSUlmeGI2M2JDZVhHOThxY3B3TnJ3bC1aNTcxN25RYkdEVVJoYVJDM1Z6R3VtR29LVEp1ZXhyZ1lNRm82bw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2a3a80d3e3c7",
-      "title": "Cruise ship hit by hantavirus outbreak docks in Rotterdam",
-      "published": "2026-05-18T10:34:27+00:00",
-      "summary": "Cruise ship hit by hantavirus outbreak docks in Rotterdam&nbsp;&nbsp;BBCSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rLWM5dzVpbW81TEZrQnRvRkRTb05DTk5zeUtLY19PdzdSMlNOaHk2b0I3aUh1eFA1RktSaEhOSFBSTWU3Z2JaU1FKN2IydU9zQlV3T2JJUHh3Qlp6?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "f2e9891836e5",
-      "title": "No symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour - The Hindu",
-      "published": "2026-05-18T09:30:00+00:00",
-      "summary": "No symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The Hindu1 in 3 adults now has hypertension. Why Indians should worry more than most&nbsp;&nbsp;The Times of IndiaHealth Experts Stress Early Detection and Lifestyle Changes Ahead of World Hypertension Day 2026&nbsp;&nbsp;Daily PioneerWorld Hypertension Day-2026 observed by CISA, MMF, BHCNMT&nbsp;&nbsp;Greater KashmirWorld Hypertension Day: ‘Only 36 Per Cent Women, 31 Per Cent Men in Jamm",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTFQxUFB0eWRSdGFWb1BEYUJERUtLT1I2Wkc5TkVsY1ZTd0NuV3ZWMEw3QkFsa1JKSEZURjR3RFViVXFJMGVORFNJcWM1YU8zRm9ZT3pJMWFYRVRYX1ZQS1hja0VMb050Nl8tVnQ1aFFxc0pvTFdzRHR0SHFkWWxKaVpXVGZBQ2RvSFlxbjdQeHl0TWtlT0x1VWEtMmtyRkltR3lTbE5NbGl4UU5qUFdnTVFGUzdQZkkyMVc4ZllINThnbXV6LW9TMlpyY1RqQzNOOV9ObGdYQi1GU3hma0VHcC0yZG9lSlk2NjJtQVZR0gH0AUFVX3lxTE0wdVdHdWlHX09DZGFMcUFjdXg5a0xaX1ZUNVNNWVhWeXVkTnNxc1E5VzExN2xtY2VWeHBxME9Bbnd6SFRMN216azliZXJlaWlhNnQxNENpZDlNNllkRnZiX0Njal9UNnpBZWhfREZpc1d6ZWZrWGZ4T3V5WlVJWmhjWFZwTFpXd3JzYmhYRk02eVVWZkM4Ni1MOXlpNnRTdVNYVFNFRWJnLWVQZ2xzcHVEd3cxQmFsdDNTMnZ2VGkwVm1ZQW16OTB1czk0ZjJUSkhxRm91OXdGXzdXS1RHQk96M0VsMFl0amIyX0c5WlQzbEtIZW8?oc=5"
+          "name": "Administration of Union Territory of Ladakh",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUk9BLVRHX2w4aGpPRENpcU9HVkRmRHJlZGNDSk50YzFtRjRHdEpGV21qMVF0MnlINUZJZ0xoV1pMYm5KQ011R1AyNzc5Q1RVTWNsdHVBNmRDeHU5dkxwM2thUHpvVTlaOUx4M3p3Zzkwd3cxRVJ2M1RXMXF0R0pIUnN5a1IxTkdPVXRJbzI1TVVvX0hvRm1SQzlnNTRwMXF3UUlseGw3UEsyLWF2WUozeFZnV3l1T1AzQVQzNXhhM3BGSk9UaUFTZnJEQ01UQ3FLSnRURzh2X3JJQWh4Y1ViTmxLRQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -600,14 +628,72 @@
       ]
     },
     {
-      "id": "20f87acb760b",
-      "title": "Scientists finally solve the mystery of why Bermuda is still rising above the ocean",
-      "published": "2026-05-18T09:15:45+00:00",
-      "summary": "Scientists finally solve the mystery of why Bermuda is still rising above the ocean&nbsp;&nbsp;Moneycontrol.comScientists Probe a Mystery Beneath Bermuda&nbsp;&nbsp;Carnegie ScienceCarnegie Science and Yale researchers find buoyant rock lifts Bermuda&nbsp;&nbsp;NewsBytesBermuda: Under the Surface&nbsp;&nbsp;Carnegie ScienceBermuda triangle mystery may ‘finally’ be over: Scientists reveal hidden ocean forces and deep earth structures behind the disappearances&nbsp;&nbsp;The Times of India",
+      "id": "fc1e0674c69f",
+      "title": "New Study Reveals How Vitamin D Could Calm Gut Inflammation",
+      "published": "2026-05-18T21:53:22+00:00",
+      "summary": "New Study Reveals How Vitamin D Could Calm Gut Inflammation&nbsp;&nbsp;SciTechDailySunlight vs supplements: Best source of vitamin D, according to a cardiac surgeon&nbsp;&nbsp;The Times of India6 Foods High in Vitamin D Besides Mushrooms&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationThe vital nutrient you aren’t getting enough of – and why you need to fix it&nbsp;&nbsp;The i Paper‘Sunshine’ vitamin D may lower risk of inflammatory disease in older people, study shows&n",
       "sources": [
         {
-          "name": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc3BTM3pFd2RoNkJJTDV0RzBRSXhWSFBQcDQ3eERrZDEwVDJWTnd3NHMzV1FDdzNLN1BFbjN6TkJFUm04MXJBemFEbE5FMlZoaTFiWVZmSTZDRFdSZVU2YUtIRVhSczNRYUpweDBvN0EyZElLdzhLdHhyTW02QmRSVndjcmIzeEY4dVJtSEEyWUtBTWdHS2NIN0ZwRlQyTnk2dVZQRHR5bWxxNDhFdFZZSEJBRnV2cFJTd05SUTlMOWxUQm9YcWhKSmgzWklaTHpLS3pmVtIB2gFBVV95cUxPd0dBR3gycGxlN2VLbm9LNXBzQkhaaTcza0dTLWt2OUdWWFh3OTJjbFhTaW9CQW9pX29IS20ycDVyNkFLLTBwdFc5QUtqaU9JRG9ZX2dPWDdCZG41RmdTYjYzcm1JVHVnZWR4Nkg5T1lXN2dNTXpreVZsejJvb0hXbk5LRFhkZUlGTVA4WFdWcm5qOF9GYlRzeUsweEQxeU1nV3dET3JkZkRDVHAtbVVuMWE4VEQyNnJrZm5tVjNHOWU5elNuTzNlb3M1SHlvVWpHazlITzE5VUZrQQ?oc=5"
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVDg2RzZ2V3o1LTZsbldHNHRRMExuNE5JZmFBc1owM2d3ZjhwWm5GUEFKNkt2Y080a3A4akx5UHl6VTlqemRzTVV1dmwxVkJNN2pISHFoOEhNQll3Vkt2eFljcFNEQl9oLTNvOXhFRmRCYlRaM1NtX05lMzZSUlp4RHprcHZiUjNNVElkd0pn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB11094",
+          "keyword": "vitamin d",
+          "name": "Vitamin D"
+        },
+        {
+          "type": "indication",
+          "disease_id": "21166",
+          "name": "inflammatory disease",
+          "keyword": "inflammatory disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__heart_disease",
+          "name": "heart_disease",
+          "keyword": "cardiac"
+        }
+      ]
+    },
+    {
+      "id": "8f629badfecc",
+      "title": "Association of pyrazinamide resistance in Mycobacterium tuberculosis with mutations in rpoB katG , and inhA genes",
+      "published": "2026-05-18T20:25:57+00:00",
+      "summary": "Association of pyrazinamide resistance in Mycobacterium tuberculosis with mutations in rpoB katG , and inhA genes&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wNkJyTWUtc19EQThBNDV2cXB3WlR1clJxelpldGFiUTd3QjFibnhXcjRmMjB2eDMxUUwwcDdXdlhTaUhpWlRJeHdBTFZMR2FjeEtsT2duR1dZU3NiRW93?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB00339",
+          "keyword": "pyrazinamide",
+          "name": "Pyrazinamide"
+        },
+        {
+          "type": "indication",
+          "disease_id": "18076",
+          "name": "tuberculosis",
+          "keyword": "tuberculosis"
+        }
+      ]
+    },
+    {
+      "id": "95aac1cb7266",
+      "title": "National Dengue Day with the Theme ‘Community Participation in Dengue Control: Check, Clean and Cover’ Observed in the Isles",
+      "published": "2026-05-18T18:40:53+00:00",
+      "summary": "National Dengue Day with the Theme ‘Community Participation in Dengue Control: Check, Clean and Cover’ Observed in the Isles&nbsp;&nbsp;andamanchronicle.netDengue no more a monsoon disease, cases rise sharply in summer and winter&nbsp;&nbsp;India TodayDengue in India emerges as year-round public health crisis; Experts call for integrated national response&nbsp;&nbsp;Daily ExcelsiorDengue rising across India before monsoon as breeding seasons extend&nbsp;&nbsp;NewsBytesMass social work held at Ki",
+      "sources": [
+        {
+          "name": "andamanchronicle.net",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTjdnN0x6blVMZVkxenJxQmF4bXBYMVV6VDlRWjNEZldpejFuR1Y3Q0xQS0x3S3FiWjBScTM0RzlDZlNMbFFGS0tyYzQtR0VybUh4LWNFRWZ0UU03QmxMN3NfMWY3b3l5NHlNTjN5TkhhWlBBTkItZEdXSGRtU3RVZjFheU5YTUZuY0ZrOFhGZnMwZkhWdTBJOEpsRlgtVUMwdlZTZy1IREdLMndjLTNCYUU3WlRYMThucFkyc3JBR0lQbzJPczM0YUR5cHA5WXBpOXU1NmR1S1ZRNmxlVDZxR2drdk8?oc=5"
         }
       ],
       "matched_keywords": [
@@ -616,6 +702,12 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4979",
+          "name": "asthma",
+          "keyword": "dama"
         }
       ]
     }
