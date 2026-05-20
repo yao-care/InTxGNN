@@ -1,65 +1,53 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-20T01:54:36.187398+00:00",
-  "count": 11,
+  "fetched_at": "2026-05-20T08:48:07.827283+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "a5cc7a9bed46",
-      "title": "WHO chief concerned over 'scale and speed' of Ebola outbreak as Congo reports 134 dead - The Korea Times",
-      "published": "2026-05-19T23:54:00+00:00",
-      "summary": "WHO chief concerned over 'scale and speed' of Ebola outbreak as Congo reports 134 dead&nbsp;&nbsp;The Korea Times'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads&nbsp;&nbsp;BBCWhy Is The Latest Ebola Outbreak So Hard To Contain? Explained&nbsp;&nbsp;NDTVEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)WHO consid",
+      "id": "88a6887b65f1",
+      "title": "DR Congo races to contain Ebola as death toll hits 136 - Xinhua",
+      "published": "2026-05-20T07:54:21+00:00",
+      "summary": "DR Congo races to contain Ebola as death toll hits 136&nbsp;&nbsp;XinhuaWatch, but do not wait: On the Ebola outbreak&nbsp;&nbsp;The Hindu136 Deaths, Rare Ebola Strain, No Vaccine: Why The Bundibugyo Outbreak In Congo Is Proving Difficult To Contain&nbsp;&nbsp;NDTV'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads&nbsp;&nbsp;BBCEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of ",
       "sources": [
         {
-          "name": "The Korea Times",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN01CMU5nYTV0RTF5YUxYcHY4VTNSelRhZWR4UDBmdEVsX2M2Z2lpTm9MVWt0eU1QcVhMXzVETW53TFJfTXloc1hWV09SNDBPR1pfcXdNZE03djNoNWlVUVZuaWoySlNDVmZEUG1sUDdkUFh0Zl9oOXoxOHlLVWhUd1RrQjBiX0w1ZUZ6XzNCYjhwSTFzRF9mcl95amtHZmJLamFwanZtVkRBNENNdHNLZmdLSThrLThzbzh4T1JDdmQ2c2dIdS1j0gHMAUFVX3lxTE5LRUJSdmxYbDNYYjNHbGVIVEg2bW1YZmx2eGpSS0hWN2JDeW1Mc2w4X01xVDZpMlhURDZpTGRGbnI1ZDdacnpkM2tFNC1LUUtmRFRUZ0R2ZkZkRFlUQno2VmpJbWxkeWFPQU1hRHllcUxLcE9WdzYzMkwtaF9sLXJIWXk2QmZjZm4wQ25SUWZBRlExN2wtVW5OaDctMnE5SUVrOEZ0VkM3LWdjOWFTdW1JYVIwSm5xbTVnSDF1YmgzWHNISGoxRDc4ejRaSQ?oc=5"
+          "name": "Xinhua",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wODdzay1mdFlxd2JaaVpsS1Jwc1N5UE1laUt0OFdSVFBhOVUzSXg5SGR3RTROaHQtdk5OTUtfUkpyTHlOZTNsUWJZSHNrSW5US2lmNE9xek5qV083X1h4MGdGTkI1c2RKMVlKOEwzc0plSktON1IzbVBNb0c?oc=5"
         }
       ]
     },
     {
-      "id": "1b0c3325643e",
-      "title": "Australia's worst diphtheria outbreak 'for decades' spreads to WA, Qld and SA - Australian Broadcasting Corporation",
-      "published": "2026-05-19T00:55:24+00:00",
-      "summary": "Australia's worst diphtheria outbreak 'for decades' spreads to WA, Qld and SA&nbsp;&nbsp;Australian Broadcasting CorporationDiphtheria outbreak spreads across Western Australia, Queensland, and South Australia, raising health concerns&nbsp;&nbsp;The Times of IndiaAustralia’s diphtheria outbreak deepens amid investigation into suspected first death&nbsp;&nbsp;The Economic Times'Getting tested, treated and vaccinated protects individuals, families and community' - expert urges vigilance as diphthe",
+      "id": "1843f575d39e",
+      "title": "Health officials warn cases of diphtheria could rise - Australian Broadcasting Corporation",
+      "published": "2026-05-20T06:01:52+00:00",
+      "summary": "Health officials warn cases of diphtheria could rise&nbsp;&nbsp;Australian Broadcasting CorporationDiphtheria outbreak spreads across Western Australia, Queensland, and South Australia, raising health concerns&nbsp;&nbsp;The Times of IndiaAustralia’s diphtheria outbreak deepens amid investigation into suspected first death&nbsp;&nbsp;The Economic TimesAnother vaccine-preventable disease makes a resurgence&nbsp;&nbsp;australianpharmacist.com.auOutbreak of highly contagious infection grows to more",
       "sources": [
         {
           "name": "Australian Broadcasting Corporation",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamZzcHMyc3BpUUhhVGlob3k5OGN6U2c2SnljRTN2eEJDc0p6Y3F0UHVmZWVMTXRoRmhBYXJQQjY3SU94UEo3by0weHUtQnBOM2JxYXFpemk0YmQ3ZzZwbUNSVG96VmZ0cU9icS1HMkl1UXlFWUhTNlBsWEdpbENPQmhrZFNwc0VVNUV4Z3BFZ1RGT2VXRl9lZW13MUtnbkpZMWpJ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR3BsVEk1UUlQNkpQamhNcXlyTXk0cVlpaWx5YTZmM2RHSllNRFd1T3FqblVQRmd1b19TT1NnekdhcHBDLVV4SGtjWmVBcGVMVFY4M0k1VjdnbHlldU5fQXIxaHRERk1JWnVLWld4LTU5WHNSeWxoOXhYT2NEMHY2RWlNVmNKZG02Zi1jT1R0b1RfbFU4UnJFbTMyVE03Y0tJWFBVQmZWbTc2V1N6?oc=5"
         }
       ]
     },
     {
-      "id": "0651926c5a4d",
-      "title": "The World Hypertension Day was observed by AAM-PHC Sakti through a screening and awareness programme conducted at Kharu Market. | The Administration of Union Territory of Ladakh | India - Administration of Union Territory of Ladakh",
-      "published": "2026-05-19T05:39:09+00:00",
-      "summary": "The World Hypertension Day was observed by AAM-PHC Sakti through a screening and awareness programme conducted at Kharu Market. | The Administration of Union Territory of Ladakh | India&nbsp;&nbsp;Administration of Union Territory of Ladakh1 in 3 adults now has hypertension. Why Indians should worry more than most&nbsp;&nbsp;The Times of IndiaNo symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The HinduWorld Hypertension Day-2026 observed ",
+      "id": "e1c6c227904d",
+      "title": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts - The Guardian",
+      "published": "2026-05-18T14:18:00+00:00",
+      "summary": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts&nbsp;&nbsp;The Guardian‘Local health outbreak can now turn global in days’: Expert on pandemic preparedness&nbsp;&nbsp;The Indian ExpressGlobal Preparedness Monitoring Board (GPMB) Report 2025: The New Face of Pandemic Preparedness&nbsp;&nbsp;ReliefWebWorld Remains Underprepared for Future Pandemics Despite Lessons From COVID-19, WHO Warns&nbsp;&nbsp;Medical DialoguesFrequent infectious disease outb",
       "sources": [
         {
-          "name": "Administration of Union Territory of Ladakh",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUk9BLVRHX2w4aGpPRENpcU9HVkRmRHJlZGNDSk50YzFtRjRHdEpGV21qMVF0MnlINUZJZ0xoV1pMYm5KQ011R1AyNzc5Q1RVTWNsdHVBNmRDeHU5dkxwM2thUHpvVTlaOUx4M3p3Zzkwd3cxRVJ2M1RXMXF0R0pIUnN5a1IxTkdPVXRJbzI1TVVvX0hvRm1SQzlnNTRwMXF3UUlseGw3UEsyLWF2WUozeFZnV3l1T1AzQVQzNXhhM3BGSk9UaUFTZnJEQ01UQ3FLSnRURzh2X3JJQWh4Y1ViTmxLRQ?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSl8wQ0dCRTN4dWJHWjE3Umo0YXByNjhwVXFRYURhRFY1NHFvVGpJbmdqOWpFbEdEVVdhRlYtRXVTcGFCUHlwLVBlTHNIVWVtem5sTHcwWS0tSzh2TGY0TV9lQzBUY0Y5Rm41Ym9xcDJhenBwV3dUalhOMEE3Mnk1QmhGa21nQ3RTWHlENjdSUEpNVFVXeHZMdFdDWnNDSE5MS3M3YWoyYzFpY05RalNnVERwWmlFMkZUd2pCUlVoSlRfNXFIaVBEWjdXc1R6cjNsRlE?oc=5"
         }
       ]
     },
     {
-      "id": "af21360dc410",
-      "title": "Global Experts Rename PCOS to PMOS to Reveal Its Multisystem Pathophysiology - Docwire News",
-      "published": "2026-05-19T16:27:01+00:00",
-      "summary": "Global Experts Rename PCOS to PMOS to Reveal Its Multisystem Pathophysiology&nbsp;&nbsp;Docwire NewsPCOS isn’t only a fertility issue anymore: The hidden metabolic risks women must know&nbsp;&nbsp;The Times of IndiaA Gyneac Explains Why PCOS Was Renamed And What It Means For Women&nbsp;&nbsp;The Better IndiaPolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine Society'The name was inaccurate': PCOS",
+      "id": "f2e9891836e5",
+      "title": "No symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour - The Hindu",
+      "published": "2026-05-18T09:30:00+00:00",
+      "summary": "No symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The Hindu1 in 3 adults now has hypertension. Why Indians should worry more than most&nbsp;&nbsp;The Times of IndiaHealth Experts Stress Early Detection and Lifestyle Changes Ahead of World Hypertension Day 2026&nbsp;&nbsp;Daily PioneerWorld Hypertension Day-2026 observed by CISA, MMF, BHCNMT&nbsp;&nbsp;Greater KashmirWorld Hypertension Day: ‘Only 36 Per Cent Women, 31 Per Cent Men in Jamm",
       "sources": [
         {
-          "name": "Docwire News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3FRbDRLVDdVb0JQR0Z4NTVsN2lIWDNKNmtUYnh5WDl2LV9md3FJdFFTREZHYWMzYXo0cFZVYVNJNjViSXBzTHF0SGN5VGpCVHRhTGlvVGtDLXNSVEJIbWdST3Y5TEQwbm11ck9rUEcyaFhtWnVEV0NCb2pIWE9QZ0U4M0MzNkFfVlhYajZuZnB0a3Q5Um9lX0kzNDhjTUFqWFJaMXdoQVdBeVBvZWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29e3fbc44e0f",
-      "title": "National Dengue Day with the Theme ‘Community Participation in Dengue Control: Check, Clean and Cover’ Observed in the Isles - Andaman Chronicle",
-      "published": "2026-05-18T18:40:53+00:00",
-      "summary": "National Dengue Day with the Theme ‘Community Participation in Dengue Control: Check, Clean and Cover’ Observed in the Isles&nbsp;&nbsp;Andaman ChronicleDengue in India emerges as year-round public health crisis; Experts call for integrated national response&nbsp;&nbsp;Daily ExcelsiorPhagwara Civil Hospital marks National Dengue Day, urges preventive measures&nbsp;&nbsp;The TribuneNational Dengue Day observed in Mokokchung, Phek&nbsp;&nbsp;Nagaland PostNVBDCP LONGLENG DISTRICT OBSERVES NATIONAL ",
-      "sources": [
-        {
-          "name": "Andaman Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTjdnN0x6blVMZVkxenJxQmF4bXBYMVV6VDlRWjNEZldpejFuR1Y3Q0xQS0x3S3FiWjBScTM0RzlDZlNMbFFGS0tyYzQtR0VybUh4LWNFRWZ0UU03QmxMN3NfMWY3b3l5NHlNTjN5TkhhWlBBTkItZEdXSGRtU3RVZjFheU5YTUZuY0ZrOFhGZnMwZkhWdTBJOEpsRlgtVUMwdlZTZy1IREdLMndjLTNCYUU3WlRYMThucFkyc3JBR0lQbzJPczM0YUR5cHA5WXBpOXU1NmR1S1ZRNmxlVDZxR2drdk8?oc=5"
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTFQxUFB0eWRSdGFWb1BEYUJERUtLT1I2Wkc5TkVsY1ZTd0NuV3ZWMEw3QkFsa1JKSEZURjR3RFViVXFJMGVORFNJcWM1YU8zRm9ZT3pJMWFYRVRYX1ZQS1hja0VMb050Nl8tVnQ1aFFxc0pvTFdzRHR0SHFkWWxKaVpXVGZBQ2RvSFlxbjdQeHl0TWtlT0x1VWEtMmtyRkltR3lTbE5NbGl4UU5qUFdnTVFGUzdQZkkyMVc4ZllINThnbXV6LW9TMlpyY1RqQzNOOV9ObGdYQi1GU3hma0VHcC0yZG9lSlk2NjJtQVZR0gH0AUFVX3lxTE0wdVdHdWlHX09DZGFMcUFjdXg5a0xaX1ZUNVNNWVhWeXVkTnNxc1E5VzExN2xtY2VWeHBxME9Bbnd6SFRMN216azliZXJlaWlhNnQxNENpZDlNNllkRnZiX0Njal9UNnpBZWhfREZpc1d6ZWZrWGZ4T3V5WlVJWmhjWFZwTFpXd3JzYmhYRk02eVVWZkM4Ni1MOXlpNnRTdVNYVFNFRWJnLWVQZ2xzcHVEd3cxQmFsdDNTMnZ2VGkwVm1ZQW16OTB1czk0ZjJUSkhxRm91OXdGXzdXS1RHQk96M0VsMFl0amIyX0c5WlQzbEtIZW8?oc=5"
         }
       ]
     },
@@ -76,18 +64,6 @@
       ]
     },
     {
-      "id": "6bc9b76c17c6",
-      "title": "Draft updated global action plan on antimicrobial resistance – WHA79/12.9 - MSF Access",
-      "published": "2026-05-18T10:20:33+00:00",
-      "summary": "Draft updated global action plan on antimicrobial resistance – WHA79/12.9&nbsp;&nbsp;MSF AccessProtecting healthcare in the era of antimicrobial resistance&nbsp;&nbsp;The World Economic ForumIndia’s helping to lead the world against drug-resistant infections&nbsp;&nbsp;Hindustan Times‘Post-antibiotics’ era could spell disaster for modern medicine and the world&nbsp;&nbsp;Scroll.inEconomic reform can save antibiotic innovation&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "MSF Access",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSjFZaHduMDl0ZVhRTGNfMVNFVHllcGNlclpIYXBlcEtqczRIVHhNSVgzc1FLWkR6TjVXcklEczBnUndDR28xb0RaUFZMaGhYazdTQ2RMNVV3RG1WZjFLdnk3S1FZQmFiT3ZVOElTYTJkWER2ZzhfQVhWTkRoNVp1NndZS0hRb0hXMmRlbi00Um8wUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "92184e69f40c",
       "title": "‘People should aim to get a variety’: the pros and cons of popular protein sources - The Guardian",
       "published": "2026-05-20T00:22:00+00:00",
@@ -96,42 +72,6 @@
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObENCbi0zTmF0QlFsQlRjSTIyX1ktMmRXSnFhOW5wSW82cG9NT3lKX3pFaloycWw2RDJJUjN6TzI3ay1GUVRjUm1rdExrSEdTWUxaVkpKTnVPMUdzLXpBMTNEb1NkU242b2tEVVBmRUNIZ0ZnYVJuUjAxU25uUEdMV0hYYnJkQUZBR1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44769a8d19fa",
-      "title": "Azithromycin Shows No Benefit for Preschool Wheezing - EMJ",
-      "published": "2026-05-19T08:09:44+00:00",
-      "summary": "Azithromycin Shows No Benefit for Preschool Wheezing&nbsp;&nbsp;EMJSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3VlUGNfLWlBS1JoYU1wU2M3bWstbXB2TGlCRzdSajhRTUdLQUNfR3pqZ0hKQXNZYW11a3ZOcUtDaUVCVVUxMmRPZWFMcnVraWxZOVpGMzF1cFVUWGxmV2FqNVFFOE5EMERvZjh0T3B3ZGE1WjNFUjJ0dXJRYlNzeDlRQlV5Qmd0cFM1Yk9zTEwxT2VzRTYzTkdUOWNUZDZyaFhNbmN1T2paZV9qS0F6NDdSVTVyY1VLUHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e0694044d27d",
-      "title": "International trial proves AI can design gold-standard cancer treatment plans - News-Medical",
-      "published": "2026-05-18T06:12:00+00:00",
-      "summary": "International trial proves AI can design gold-standard cancer treatment plans&nbsp;&nbsp;News-MedicalAI tool for radiotherapy can support the global effort to eliminate cervical cancer | UCL News - UCL&nbsp;&nbsp;UCL | University College LondonAjay Aggarwal: Planning Radiotherapy Can Take Weeks - Our AI Can Reduce That to Over an Hour&nbsp;&nbsp;OncodailyAI cuts radiotherapy planning time from weeks to hours in cancer treatment trial&nbsp;&nbsp;News9live",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3N0R1I3UlhNbGR6MWhJM0J4NlNLZldKMUt6ODNvV2tVM2ZSNF9rVGFUTVlIQWxlUWRCMUxfQjliMkd6dENPamZnNG5BVEhUQTRZSHQ4alBlNmQ3YlI1RHdKaWRkNTJSZ2E0M3doV0ZPUXRRMldTeENjT2lMNTRZQWRVV1ROWGVjNHloWXowTkN4RWJUVGlZR1FuVHk4MnphRU1ZYndJRldrTzZtTXFOMzRNRFExQ29fZ3NMVG1aMl92b0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4cb2be9a2d5b",
-      "title": "Urgent action needed to close devastating vaccination coverage gaps in conflict-affected settings - MSF Access",
-      "published": "2026-05-18T09:41:37+00:00",
-      "summary": "Urgent action needed to close devastating vaccination coverage gaps in conflict-affected settings&nbsp;&nbsp;MSF AccessThe world must not turn its back on vaccination&nbsp;&nbsp;Arab NewsHow a historic push brought 100 million vaccines to Africa’s forgotten children&nbsp;&nbsp;TRT WorldUrgent action needed to ensure more children in conflict zones are vaccinated&nbsp;&nbsp;Doctors Without BordersVaccines save lives, shape inclusive societies&nbsp;&nbsp;The Herald ZW",
-      "sources": [
-        {
-          "name": "MSF Access",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU9JZzlVWDNaVGZmT0dRMTZMaGNBalFiN0gzVlpNWWdIMEE1SHFPVWhXWk1sS3lsNTZKMUxQaW5kWFdlRG04clZGb0NHS0RGN21uUG5JeVZ3eUVNaGx6QnNscXhJWEZ2RXRSdk96QXEzUjVkU1l5dTBhTS1WbmFBcFozdkF4TFNsaV85cEdRRWxUdWpUbWpuZEhCVVF4V3FyVVprX3RZb1FXM1NNODhFNzYzVQ?oc=5"
         }
       ]
     }
