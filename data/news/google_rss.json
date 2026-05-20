@@ -1,29 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-19T19:30:06.819174+00:00",
-  "count": 12,
+  "fetched_at": "2026-05-20T01:54:36.187398+00:00",
+  "count": 11,
   "news": [
     {
-      "id": "5f8469153bfa",
-      "title": "Roundup: DR Congo races to contain Ebola as death toll hits 136 - Xinhua",
-      "published": "2026-05-19T18:51:15+00:00",
-      "summary": "Roundup: DR Congo races to contain Ebola as death toll hits 136&nbsp;&nbsp;XinhuaEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads&nbsp;&nbsp;BBCWHO chief raises alarm over scale of Ebola outbreak after death toll climbs&nbsp;&nbsp;CNNWHO considers use of experimen",
+      "id": "a5cc7a9bed46",
+      "title": "WHO chief concerned over 'scale and speed' of Ebola outbreak as Congo reports 134 dead - The Korea Times",
+      "published": "2026-05-19T23:54:00+00:00",
+      "summary": "WHO chief concerned over 'scale and speed' of Ebola outbreak as Congo reports 134 dead&nbsp;&nbsp;The Korea Times'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads&nbsp;&nbsp;BBCWhy Is The Latest Ebola Outbreak So Hard To Contain? Explained&nbsp;&nbsp;NDTVEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)WHO consid",
       "sources": [
         {
-          "name": "Xinhua",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56ckZ4NDJ0SFFiZDY1amNCX3dxdG5qdDFOSlFaOG1RZnd3djc4bTJQd1BSSU9FT2xNUm1YQi1zazFIbllYeXF6ZmlqSDEzMnNNRGpVeUoyM3ZxZEFacTlTSEZyeFpyUU9HVXJ0WGljX1A0cGk3LTc2cDJCczQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4eca2268ee2f",
-      "title": "Sunlight vs supplements: Best source of vitamin D, according to a cardiac surgeon - The Times of India",
-      "published": "2026-05-19T05:51:00+00:00",
-      "summary": "Sunlight vs supplements: Best source of vitamin D, according to a cardiac surgeon&nbsp;&nbsp;The Times of India6 Foods High in Vitamin D Besides Mushrooms&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationVitamin D builds your bones and keeps your gut sealed, among many other essential functions − but many children are deficient&nbsp;&nbsp;The MountaineerShould I take vitamin D now there’s less sun, or for bone or immune health?&nbsp;&nbsp;UNSW SydneyWe Asked a Doctor if Y",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNW9rS1huU084VzJOZTRIblp3eVU4UW1BckM1WEctWWNWY0hCVlZEdGxZaUxCOVJtLU1SamFCek1KQXlUd0dKU2xXOUhSbzhHcnhsTWJkQ3R4c0pvSmRRdVR5M0FidG1qREJXOVVpc3hvX3VITnktZlF0M0dHa0JYQW9CSmdaYmx3QnJLSnpFbDc3ZDdVaXpBVFg4TUVqQzBuNFJzMk53SENmTXBoWWpiOWRCMEdlbG45RTFPTE9TcXd1c0pHNmlibUI5a28zU3hRTzg1ZnQ3YlpsUEc1UXk1ZkI1WjZsSjhFeFNhYVpn0gHzAUFVX3lxTE9hY1FKbzdSbW5SWkd3LXBXNGFUTTV1alYxQk02Z2RXNUhLUnBOTGFmTUlkaHVVUDRmQUJ2ekJVdDNBSVgxeHVUUFdpUzZjWVNuZkZXSnZMWmZVWG5nWTVfS3VVNUpwd1NCQUtibkdRcG51THRRM25WUXlydzJ1TzdBSTVOaUJObmFxWi16ZXQ2ZEdKazZiZlBOYnhWQUNLdkx2QVdOWEh0X0tGQjZNLXlLRkkyX3ZHYnAwMTFGVFhOdkMta2J2eGpZaHlPejNSd1o0X011anVSVHVmZXhrc3k5eWtTS2trblRuOE1yQzBqMmI1aw?oc=5"
+          "name": "The Korea Times",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN01CMU5nYTV0RTF5YUxYcHY4VTNSelRhZWR4UDBmdEVsX2M2Z2lpTm9MVWt0eU1QcVhMXzVETW53TFJfTXloc1hWV09SNDBPR1pfcXdNZE03djNoNWlVUVZuaWoySlNDVmZEUG1sUDdkUFh0Zl9oOXoxOHlLVWhUd1RrQjBiX0w1ZUZ6XzNCYjhwSTFzRF9mcl95amtHZmJLamFwanZtVkRBNENNdHNLZmdLSThrLThzbzh4T1JDdmQ2c2dIdS1j0gHMAUFVX3lxTE5LRUJSdmxYbDNYYjNHbGVIVEg2bW1YZmx2eGpSS0hWN2JDeW1Mc2w4X01xVDZpMlhURDZpTGRGbnI1ZDdacnpkM2tFNC1LUUtmRFRUZ0R2ZkZkRFlUQno2VmpJbWxkeWFPQU1hRHllcUxLcE9WdzYzMkwtaF9sLXJIWXk2QmZjZm4wQ25SUWZBRlExN2wtVW5OaDctMnE5SUVrOEZ0VkM3LWdjOWFTdW1JYVIwSm5xbTVnSDF1YmgzWHNISGoxRDc4ejRaSQ?oc=5"
         }
       ]
     },
@@ -43,7 +31,7 @@
       "id": "0651926c5a4d",
       "title": "The World Hypertension Day was observed by AAM-PHC Sakti through a screening and awareness programme conducted at Kharu Market. | The Administration of Union Territory of Ladakh | India - Administration of Union Territory of Ladakh",
       "published": "2026-05-19T05:39:09+00:00",
-      "summary": "The World Hypertension Day was observed by AAM-PHC Sakti through a screening and awareness programme conducted at Kharu Market. | The Administration of Union Territory of Ladakh | India&nbsp;&nbsp;Administration of Union Territory of Ladakh1 in 3 adults now has hypertension. Why Indians should worry more than most&nbsp;&nbsp;The Times of IndiaNo symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The HinduHypertension in India: The Urgent Nee",
+      "summary": "The World Hypertension Day was observed by AAM-PHC Sakti through a screening and awareness programme conducted at Kharu Market. | The Administration of Union Territory of Ladakh | India&nbsp;&nbsp;Administration of Union Territory of Ladakh1 in 3 adults now has hypertension. Why Indians should worry more than most&nbsp;&nbsp;The Times of IndiaNo symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The HinduWorld Hypertension Day-2026 observed ",
       "sources": [
         {
           "name": "Administration of Union Territory of Ladakh",
@@ -52,10 +40,22 @@
       ]
     },
     {
+      "id": "af21360dc410",
+      "title": "Global Experts Rename PCOS to PMOS to Reveal Its Multisystem Pathophysiology - Docwire News",
+      "published": "2026-05-19T16:27:01+00:00",
+      "summary": "Global Experts Rename PCOS to PMOS to Reveal Its Multisystem Pathophysiology&nbsp;&nbsp;Docwire NewsPCOS isn’t only a fertility issue anymore: The hidden metabolic risks women must know&nbsp;&nbsp;The Times of IndiaA Gyneac Explains Why PCOS Was Renamed And What It Means For Women&nbsp;&nbsp;The Better IndiaPolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine Society'The name was inaccurate': PCOS",
+      "sources": [
+        {
+          "name": "Docwire News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3FRbDRLVDdVb0JQR0Z4NTVsN2lIWDNKNmtUYnh5WDl2LV9md3FJdFFTREZHYWMzYXo0cFZVYVNJNjViSXBzTHF0SGN5VGpCVHRhTGlvVGtDLXNSVEJIbWdST3Y5TEQwbm11ck9rUEcyaFhtWnVEV0NCb2pIWE9QZ0U4M0MzNkFfVlhYajZuZnB0a3Q5Um9lX0kzNDhjTUFqWFJaMXdoQVdBeVBvZWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "29e3fbc44e0f",
       "title": "National Dengue Day with the Theme ‘Community Participation in Dengue Control: Check, Clean and Cover’ Observed in the Isles - Andaman Chronicle",
       "published": "2026-05-18T18:40:53+00:00",
-      "summary": "National Dengue Day with the Theme ‘Community Participation in Dengue Control: Check, Clean and Cover’ Observed in the Isles&nbsp;&nbsp;Andaman ChronicleNational Dengue Day: Gujarat Tests Over 2.56 Lakh Fever Samples During Prevention Campaign&nbsp;&nbsp;NDTVDengue in India emerges as year-round public health crisis; Experts call for integrated national response&nbsp;&nbsp;Daily ExcelsiorPhagwara Civil Hospital marks National Dengue Day, urges preventive measures&nbsp;&nbsp;The TribuneNational D",
+      "summary": "National Dengue Day with the Theme ‘Community Participation in Dengue Control: Check, Clean and Cover’ Observed in the Isles&nbsp;&nbsp;Andaman ChronicleDengue in India emerges as year-round public health crisis; Experts call for integrated national response&nbsp;&nbsp;Daily ExcelsiorPhagwara Civil Hospital marks National Dengue Day, urges preventive measures&nbsp;&nbsp;The TribuneNational Dengue Day observed in Mokokchung, Phek&nbsp;&nbsp;Nagaland PostNVBDCP LONGLENG DISTRICT OBSERVES NATIONAL ",
       "sources": [
         {
           "name": "Andaman Chronicle",
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "2f81350074ca",
-      "title": "Global consortium renames polycystic ovary syndrome to reflect science - News-Medical",
-      "published": "2026-05-18T18:25:00+00:00",
-      "summary": "Global consortium renames polycystic ovary syndrome to reflect science&nbsp;&nbsp;News-MedicalA Gyneac Explains Why PCOS Was Renamed And What It Means For Women&nbsp;&nbsp;The Better IndiaPolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyPCOS isn’t only a fertility issue anymore: The hidden metabolic risks women must know&nbsp;&nbsp;The Times of India'The name was inaccurate': PCOS gets ",
+      "id": "2a3a80d3e3c7",
+      "title": "Cruise ship hit by hantavirus outbreak docks in Rotterdam - BBC",
+      "published": "2026-05-18T10:34:27+00:00",
+      "summary": "Cruise ship hit by hantavirus outbreak docks in Rotterdam&nbsp;&nbsp;BBCSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkIzVk1DV3plMzZHUTBPZFFYSzN3VGxseUtJQVF6SjdsZlVVZmNvVXpfOENiWmJXWTdreUNSTFNIVW5ydW9ZWENWanpzcERfOTZxMlJXdG9yd0VDOXVQZXdkQ3ZmZlFZN3NrSmhIMzdXcWZoUkRuaVhDM1l3aUJSZjJPWHBiZjQtTnp0MVBaaXZhX18tQjg5RUlIN2pBMmVZeDBwUmY4S3R1R3hpS1ZqM3FMbXo2cjJibkE?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rLWM5dzVpbW81TEZrQnRvRkRTb05DTk5zeUtLY19PdzdSMlNOaHk2b0I3aUh1eFA1RktSaEhOSFBSTWU3Z2JaU1FKN2IydU9zQlV3T2JJUHh3Qlp6?oc=5"
         }
       ]
     },
@@ -88,26 +88,14 @@
       ]
     },
     {
-      "id": "f2c3fe3ccc7b",
-      "title": "WHO keeps evaluation of hantavirus as 'low risk' as ship approaches end of voyage - The Hindu",
-      "published": "2026-05-18T02:10:17+00:00",
-      "summary": "WHO keeps evaluation of hantavirus as 'low risk' as ship approaches end of voyage&nbsp;&nbsp;The HinduCruise ship hit by hantavirus outbreak docks in Rotterdam&nbsp;&nbsp;BBCFollow-up message by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)Hantavirus-hit cruise ship MV Hondius arrives at Rotterdam port as final destination&nbsp;&nbsp;Telegraph IndiaHantavirus-Hit Cruise Ship Steams Towards Rotterdam At Voyage End&n",
+      "id": "92184e69f40c",
+      "title": "‘People should aim to get a variety’: the pros and cons of popular protein sources - The Guardian",
+      "published": "2026-05-20T00:22:00+00:00",
+      "summary": "‘People should aim to get a variety’: the pros and cons of popular protein sources&nbsp;&nbsp;The GuardianThe 3 things you need to know about protein, according to an expert&nbsp;&nbsp;New ScientistTop US Professor Reveals How Much Protein Your Body Actually Needs&nbsp;&nbsp;Times NowHow adding extra protein, supplements to your diet can affect your body&nbsp;&nbsp;WPBFHow did protein become a meme, and are we all in on the joke?&nbsp;&nbsp;Dazed",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaWFUVDRUeElld1dfSldTY0FiT3F4cmRGM2dtQ0JTaFlISFFmc2c4Yk53OXA5MnN1ZVJZT3RfZEZ4aTc4Zk05Q0JhZVJyRFRQSC05RV9NOE9qSGljOFhpbU10OHpMZW9mWHQ0R3M4YmM5aVlMRGlVdi1EX2F1LU5pMnBtRnRDUXJQRFN4RHpzUWFtVmNaNzBoczV3a0ZIZFRaTUtUWTIyQVR4U3hucWNZYlBNR2Rra3B0d2lET3NPa2hVM1lJX0tYcm91Z1VZd2otNTF2TnV2NFpGcFHSAeIBQVVfeXFMTlk5ZDd2bGRfNjc5Q3h4R2E4Z09mZnIyLUhQRzJXazY1Y2NPbGxyM0dNUjladVY4eFA2WVNsMG05M20yOW03OV9lVjFVTW9DbWFJYkVzUGE0SmZRdE1vTjlMV3o5MTRmNnl4d1FVaXdnclZTZS1Dbm5hOVdNVnh0Tk1Oemt2WmhXcTlMSmstc2E4MHFfb1U4N3BmRUdlUVRkbW1jNHo0WXZFR003N2pCTFA2azNRUEs5Rk80ekFDR1c4UW83OVJpZ3RYdFNBNVdnQmVaLU85TE1kU1JlTW50NUI1dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "be959912a852",
-      "title": "Low PrEP Uptake Slows France’s HIV Prevention Goals - EMJ",
-      "published": "2026-05-18T08:02:48+00:00",
-      "summary": "Low PrEP Uptake Slows France’s HIV Prevention Goals&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHBQRUZCTXFHY3FQM3dRT3JLMWNJV0RZMjNlQzJMWWN1V0FNMWgtYkZibnFEVUoxcUN1OF9PVkN3WERWNlAtVzYwbkhrSDNtbUV0SzN0TWpIUWhKOFhXZVBKVTRkalZzWUlvYnZkVXVfbTQzRGlIVE40WU9MZVhkaXcxM0dpSTZsdlFsOHFPRTBtd21ZbG9zTkljZWpZZXFzRllodzdYXzQ2OHJ2WmFuQjQtbXVEOW8?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObENCbi0zTmF0QlFsQlRjSTIyX1ktMmRXSnFhOW5wSW82cG9NT3lKX3pFaloycWw2RDJJUjN6TzI3ay1GUVRjUm1rdExrSEdTWUxaVkpKTnVPMUdzLXpBMTNEb1NkU242b2tEVVBmRUNIZ0ZnYVJuUjAxU25uUEdMV0hYYnJkQUZBR1E?oc=5"
         }
       ]
     },
@@ -124,26 +112,26 @@
       ]
     },
     {
-      "id": "4cb2be9a2d5b",
-      "title": "Urgent action needed to close devastating vaccination coverage gaps in conflict-affected settings - MSF Access",
-      "published": "2026-05-18T09:41:37+00:00",
-      "summary": "Urgent action needed to close devastating vaccination coverage gaps in conflict-affected settings&nbsp;&nbsp;MSF AccessThe world must not turn its back on vaccination&nbsp;&nbsp;Arab NewsHow a historic push brought 100 million vaccines to Africa’s forgotten children&nbsp;&nbsp;TRT WorldUrgent action needed to ensure more children in conflict zones are vaccinated&nbsp;&nbsp;Doctors Without BordersVaccines save lives, shape inclusive societies&nbsp;&nbsp;Herald.co.zw",
+      "id": "e0694044d27d",
+      "title": "International trial proves AI can design gold-standard cancer treatment plans - News-Medical",
+      "published": "2026-05-18T06:12:00+00:00",
+      "summary": "International trial proves AI can design gold-standard cancer treatment plans&nbsp;&nbsp;News-MedicalAI tool for radiotherapy can support the global effort to eliminate cervical cancer | UCL News - UCL&nbsp;&nbsp;UCL | University College LondonAjay Aggarwal: Planning Radiotherapy Can Take Weeks - Our AI Can Reduce That to Over an Hour&nbsp;&nbsp;OncodailyAI cuts radiotherapy planning time from weeks to hours in cancer treatment trial&nbsp;&nbsp;News9live",
       "sources": [
         {
-          "name": "MSF Access",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU9JZzlVWDNaVGZmT0dRMTZMaGNBalFiN0gzVlpNWWdIMEE1SHFPVWhXWk1sS3lsNTZKMUxQaW5kWFdlRG04clZGb0NHS0RGN21uUG5JeVZ3eUVNaGx6QnNscXhJWEZ2RXRSdk96QXEzUjVkU1l5dTBhTS1WbmFBcFozdkF4TFNsaV85cEdRRWxUdWpUbWpuZEhCVVF4V3FyVVprX3RZb1FXM1NNODhFNzYzVQ?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3N0R1I3UlhNbGR6MWhJM0J4NlNLZldKMUt6ODNvV2tVM2ZSNF9rVGFUTVlIQWxlUWRCMUxfQjliMkd6dENPamZnNG5BVEhUQTRZSHQ4alBlNmQ3YlI1RHdKaWRkNTJSZ2E0M3doV0ZPUXRRMldTeENjT2lMNTRZQWRVV1ROWGVjNHloWXowTkN4RWJUVGlZR1FuVHk4MnphRU1ZYndJRldrTzZtTXFOMzRNRFExQ29fZ3NMVG1aMl92b0k?oc=5"
         }
       ]
     },
     {
-      "id": "0cd329c2f72e",
-      "title": "Use of Artificial Intelligence for the Early Detection and Prediction of Alzheimer’s Disease - Cureus",
-      "published": "2026-05-18T21:37:34+00:00",
-      "summary": "Use of Artificial Intelligence for the Early Detection and Prediction of Alzheimer’s Disease&nbsp;&nbsp;CureusPredicting categorical and continuous Alzheimer’s disease outcomes from a single MRI scan&nbsp;&nbsp;NatureAI being used in Massachusetts to give patients a more timely diagnosis of alzheimer’s disease&nbsp;&nbsp;Boston 25 NewsAlzheimer’s Blood-Based Biomarker Testing Integrated into Clinical Workflows&nbsp;&nbsp;Clinical Lab ProductsInnovation. A new plasma-based blood test could spot e",
+      "id": "4cb2be9a2d5b",
+      "title": "Urgent action needed to close devastating vaccination coverage gaps in conflict-affected settings - MSF Access",
+      "published": "2026-05-18T09:41:37+00:00",
+      "summary": "Urgent action needed to close devastating vaccination coverage gaps in conflict-affected settings&nbsp;&nbsp;MSF AccessThe world must not turn its back on vaccination&nbsp;&nbsp;Arab NewsHow a historic push brought 100 million vaccines to Africa’s forgotten children&nbsp;&nbsp;TRT WorldUrgent action needed to ensure more children in conflict zones are vaccinated&nbsp;&nbsp;Doctors Without BordersVaccines save lives, shape inclusive societies&nbsp;&nbsp;The Herald ZW",
       "sources": [
         {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYms4UVppVFM2VTRmMDBaRzJYb3NtVGlldzUyRTk4WE1DNFNaNDlxMXdPTlhNZnd5d2ljMmx3VnJwVV8zcHMxNXM2UzAxVWZ0RHp0SENyNDJlTGNEZlE5cTU3UnNWM2lLUklyWUdtMGo1cXRNNHY2UjVYci1Kc0E4enpOUjdXenp5ZTBqNHV4TGNBa18tSnVoV2MxQTFfVUg3NFl2ZnA1b2F4dEY0aG1PX05MZzJnUC10ekdKM2ZmUlFpczktbERDZFY4WVFFR1VHZ3RYSnBYdGhoLUczMTk1VlVhaw?oc=5"
+          "name": "MSF Access",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU9JZzlVWDNaVGZmT0dRMTZMaGNBalFiN0gzVlpNWWdIMEE1SHFPVWhXWk1sS3lsNTZKMUxQaW5kWFdlRG04clZGb0NHS0RGN21uUG5JeVZ3eUVNaGx6QnNscXhJWEZ2RXRSdk96QXEzUjVkU1l5dTBhTS1WbmFBcFozdkF4TFNsaV85cEdRRWxUdWpUbWpuZEhCVVF4V3FyVVprX3RZb1FXM1NNODhFNzYzVQ?oc=5"
         }
       ]
     }
