@@ -1,13 +1,92 @@
 {
-  "last_updated": "2026-05-20T19:57:46.571420+00:00",
-  "total_count": 30,
-  "matched_count": 20,
+  "last_updated": "2026-05-21T01:53:42.648626+00:00",
+  "total_count": 35,
+  "matched_count": 26,
   "news": [
+    {
+      "id": "97ef8807de93",
+      "title": "Scientists Warn AI Slop Is Wreaking Havoc in the Research World",
+      "published": "2026-05-21T01:01:00+00:00",
+      "summary": "Scientists Warn AI Slop Is Wreaking Havoc in the Research World&nbsp;&nbsp;CNETNew ‘AI scientists’ are improving – but reveal their fundamental limits&nbsp;&nbsp;The ConversationAI-generated research papers are overwhelming peer review&nbsp;&nbsp;The VergeOne in 277 Biomedical Papers Carry Fake References&nbsp;&nbsp;the-scientist.comAI is fabricating citations in biomedical studies, researchers find&nbsp;&nbsp;CBS News",
+      "sources": [
+        {
+          "name": "CNET",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OSjg2UlRQTFNqWGEtX1NvTkVMV3BFeXVPbXJ0SFR2Q09CY0FaZ3BYWVlLY28wX1h6Y1VvUjA3Q0VCYTZqcUV4MmRLUEJJa1I1T3RFYjhTaXdjdWd2Ty1nMHhUamZmakM2d2VfOFNlV0Fuamo2MGhXWk1R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a4531fa237be",
+      "title": "Complex animals evolved up to 10 million years earlier than previously thought, fossil discovery shows - Live Science",
+      "published": "2026-05-20T22:28:18+00:00",
+      "summary": "Complex animals evolved up to 10 million years earlier than previously thought, fossil discovery shows&nbsp;&nbsp;Live ScienceDiscovery of new fossils in Northwest Canada changes view of early animal evolution&nbsp;&nbsp;Phys.orgMicrofossils interpreted as animal traces were actually algae and bactéria&nbsp;&nbsp;EurekAlert!Stunning fossil discovery challenges the origins of animal life&nbsp;&nbsp;ScienceDailyThese bizarre fossils represent some of the earliest moving, sexually reproducing life ",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaThSU19VQnNlV1NnNlNteVY1SmlVY2V0WmRoRE1iWV80NmRva2lxdnA5WDJOeVZOdHNHOGI3ODVFeENkU2NBRVdWY2dtMC15ejBLMGlOaTNhRHZOdENtNVFudHVlaUhSNEFiYzhsNTZfWWFVVDFEU1FKS296QTZPVEJYb080NmxNTmlycXFHLVZ3cHc4M1VWVlNLNDB3LVhuSFV6M0ZNMUY3eWhZWEZsWHlzRl9KM2lLdHRoQ2lyc01SVnMwMFBRQW52NTlTTEpaQmNWLWtQRkFJazdGc2VZaDFaT09qMFU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "4dbadbe5a54e",
+      "title": "Bermuda mystery may finally be solved as scientists reveal what's really hidden underneath",
+      "published": "2026-05-20T20:25:45+00:00",
+      "summary": "Bermuda mystery may finally be solved as scientists reveal what's really hidden underneath&nbsp;&nbsp;UNILADBermuda Triangle Mystery 'Solved'? Scientists Reveal Structure Found Beneath Island&nbsp;&nbsp;NDTVCarnegie Science and Yale researchers find buoyant rock lifts Bermuda&nbsp;&nbsp;NewsBytesBermuda triangle mystery may ‘finally’ be over: Scientists reveal hidden ocean forces and deep earth structures behind the disappearances&nbsp;&nbsp;The Times of IndiaBermuda: Under the Surface&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "UNILAD",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeE9sRjJqT21BWVFRZnVlT0p5SHRFc1ltcUFTQVdWZmFnQlByWTEwQ3g3cE5MMW14OGhUazdSeE52dHlsd09jUGN0cjJfcm1qVzkyRC1uZ3E4aGVYUGpMQnVUQ2FJRV8tcDktNWExdGIyR1p3TWVtTmZ5YlloYndOUlg4SzNtVThPSHVZOVhkcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dc0cd1dc6a43",
+      "title": "Too little or too much sleep is linked to faster ageing throughout the body",
+      "published": "2026-05-20T20:18:45+00:00",
+      "summary": "Too little or too much sleep is linked to faster ageing throughout the body&nbsp;&nbsp;NatureSleep chart of biological ageing clocks in middle and late life&nbsp;&nbsp;NatureToo Little Sleep—and Too Much—Associated with Faster Aging&nbsp;&nbsp;Columbia University Irving Medical CenterThe Hidden Danger of Oversleeping: How Too Much Sleep Impacts Your Brain and Liver&nbsp;&nbsp;inc.comTurns Out 8 Hours of Sleep Might Not Be So Healthy After All&nbsp;&nbsp;Q106.5",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82cl9wV2g1OHJEclVqbU1udTJleFR2a2hpWGt1QS1RSl9kOEhfZC00a1QxYWo0RS1fUmpzWWtEMGV0RWQ5MmtDTkh3OTBCdUxfYzg5RjNreDFMWnRHNTZr?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03336",
+          "keyword": "bia",
+          "name": "BIA"
+        }
+      ]
+    },
+    {
+      "id": "ae4631b91aa7",
+      "title": "Scientists think humans developed right-handedness thanks to these 2 factors",
+      "published": "2026-05-20T20:12:36+00:00",
+      "summary": "Scientists think humans developed right-handedness thanks to these 2 factors&nbsp;&nbsp;YahooNew Study Reveals Why Majority Of People Are Right-Handed&nbsp;&nbsp;NDTVWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular ScienceScientists just cracked a mystery that's puzzled researchers for centuries; why are 90% of humans right-ha&nbsp;&nbsp;The Economic TimesTwo Ancient Clues May Finally Explain Why 90% of Us Are Right-Handed&nbsp;&nbsp;ScienceAlert",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZWtoankyOW5XX1JqRGk5MGhNMl9QWld6Ql9BRUhoOGRxRXU1ME1zRHFVcWIxUmt1a2Q0dEZQaTYxMVdib2xRbmRyWFo0UUdnclhraENPWVNXd0MwM3hWZV8ySmROb05tN0VNWF9udWRxNHNnQkhwcWptbm43NGcya3E3cjF1ZlN3bU1tVUFsMDF5VTM0OGRkR1JnTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "79f2a38dfa4f",
       "title": "Europe and China launched SMILE space mission",
       "published": "2026-05-20T19:50:00+00:00",
-      "summary": "Europe and China launched SMILE space mission&nbsp;&nbsp;AzerNewsChina-Europe SMILE satellite mission launched for solar wind research&nbsp;&nbsp;news.cgtn.comSuccessful launch of SMILE Satellite marks first China-ESA mission-level cooperation&nbsp;&nbsp;Global TimesSMILE: China-EU satellite to study Earth’s solar defence defies trade tensions&nbsp;&nbsp;South China Morning PostTeledyne supplies sensors for ESA’s SMILE space weather mission&nbsp;&nbsp;Investing.com India",
+      "summary": "Europe and China launched SMILE space mission&nbsp;&nbsp;AzerNewsSuccessful launch of SMILE Satellite marks first China-ESA mission-level cooperation&nbsp;&nbsp;Global TimesTeledyne supplies sensors for ESA’s SMILE space weather mission&nbsp;&nbsp;Investing.com IndiaSmile lifts off on quest to reveal Earth’s invisible shield against the solar wind&nbsp;&nbsp;European Space AgencySMILE: China-EU satellite to study Earth’s solar defence defies trade tensions&nbsp;&nbsp;South China Morning Post",
       "sources": [
         {
           "name": "AzerNews",
@@ -26,6 +105,90 @@
           "disease_id": "6652_3678_1090_3672_3673_3676_3677_3679_6803",
           "name": "myocardial infarction",
           "keyword": "MI"
+        }
+      ]
+    },
+    {
+      "id": "cbbeb97c08b8",
+      "title": "India on High Alert as Deadly Ebola Outbreak Spreads Across Central Africa - India News Network",
+      "published": "2026-05-20T18:47:14+00:00",
+      "summary": "India on High Alert as Deadly Ebola Outbreak Spreads Across Central Africa&nbsp;&nbsp;India News NetworkWatch, but do not wait: On the Ebola outbreak&nbsp;&nbsp;The HinduEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)Ebola outbreak in DR Congo: WHO says Ebola vaccine could take nine months&nbsp;&nbsp;BBCNo Ebola cases reported in India y",
+      "sources": [
+        {
+          "name": "India News Network",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdS12OFFXNzBCaXl3RFFHRFU5c1d2TlNNOGRTVUk1MVNSUEUtRmtlamVKQm9zVnZsV0kzQm1GdlBHb0lwM0g5dmcxOEZXNDl0N0xyd01fR0hvaGFBMEt6cU5iQ0F1UElOX1ZOZHo3bVhUWklvT1BlcmpQWEl6MzRZRVFhN092MlVpZkFDY1g1M0k4NWNvTml5YmFnMlBXUFViZnNQbzl2bWc2XzRQS3JoRUV5UQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "3b802f6acd1a",
+      "title": "DDK to Telecast Hello Doctor on the Topic ‘Dengue’",
+      "published": "2026-05-20T18:30:26+00:00",
+      "summary": "DDK to Telecast Hello Doctor on the Topic ‘Dengue’&nbsp;&nbsp;andamanchronicle.net",
+      "sources": [
+        {
+          "name": "andamanchronicle.net",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3Ytcmx2aVJiR1Z2LUtjMnFGbjRmY3loLWI4U3FOUWF1N2dXMGhDZTZZVng2X19xd2QtUURGREJicGxadkFVZHAyakt3VnVvM3VmNVVyYTYtOFMtaUMxQUUxdXdMVmVzUWVZTS0tS3RKUnEzd2VScEdxZlR3MEttb0Zfai0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "4979",
+          "name": "asthma",
+          "keyword": "dama"
+        }
+      ]
+    },
+    {
+      "id": "12e09187fa73",
+      "title": "Primary tumour resection in de novo stage IV breast cancer: considerations from the PRIM-BC trial",
+      "published": "2026-05-20T18:19:58+00:00",
+      "summary": "Primary tumour resection in de novo stage IV breast cancer: considerations from the PRIM-BC trial&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jSldSQ1hzV09XWHMtRmZHZWxZdVNmamdjVFR1bTh6YksyRTUyUXFaTC1QX0dtektad1l4LVE5eEhsOWJOM1huZTZjQnFLQy13anZ4SmctVnVpZEZTQ2hj?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4379",
+          "name": "female breast carcinoma",
+          "keyword": "breast cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7254",
+          "name": "breast cancer",
+          "keyword": "breast cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
         }
       ]
     },
@@ -50,61 +213,72 @@
       ]
     },
     {
-      "id": "b49d47fd490f",
-      "title": "‘Critical mission update’: 8-year-old spots NASA website typo; agency’s response wins hearts online - The Times of India",
-      "published": "2026-05-20T16:30:00+00:00",
-      "summary": "‘Critical mission update’: 8-year-old spots NASA website typo; agency’s response wins hearts online&nbsp;&nbsp;The Times of IndiaNASA's Wholesome Reply Viral After 8-Year-Old Spots Error On Space Agency's Website: 'We're On Our Way'&nbsp;&nbsp;NDTV8-Year-Old Finds A NASA Typo About This Outer Planet Triggering Memefest; Space Agency Responds With Oops&nbsp;&nbsp;Mashable India‘Critical mission update’: 8-year-old boy points out NASA website typo, space agency responds&nbsp;&nbsp;CNBC TV18",
+      "id": "9243a925b6bf",
+      "title": "8-Year-Old Finds A NASA Typo About This Outer Planet Triggering Memefest; Space Agency Responds With Oops - Mashable India",
+      "published": "2026-05-20T15:38:03+00:00",
+      "summary": "8-Year-Old Finds A NASA Typo About This Outer Planet Triggering Memefest; Space Agency Responds With Oops&nbsp;&nbsp;Mashable IndiaNASA's Wholesome Reply Viral After 8-Year-Old Spots Error On Space Agency's Website: 'We're On Our Way'&nbsp;&nbsp;NDTV‘Critical mission update’: 8-year-old spots NASA website typo; agency’s response wins hearts online&nbsp;&nbsp;The Times of India‘Critical mission update’: 8-year-old boy points out NASA website typo, space agency responds&nbsp;&nbsp;CNBC TV18",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTXhOb0FNV29OYTkyeGpQUFAyMTlfeTJKVlkwOUphMGU2WmR6SkFWMDIzLWVDdkpCSXJHOWI0eHIyRERCR0VoNEYyd2w0VjEyaDFrV1h2YjB5UDlLV3Q3N25XUXhGUnllWkVwTnBhdWVNS1pzMk5CRnpPZlhJVnItdU5hWnFYYmdzSEZSZHdVTDJCd28yRC1faTRLMy1Xb3VQQlBRanpvQ1BjYThYLVh3NWs3SGJleTdaWll6QXRXa0VwU05MOXJmLWc1Nm5zcEJ2cWF0ZDlwdDJUR2ZTNTlINVptYXJRXzE5UjVQNkI3eU4ybFNrYVphYTBGZFpRVnFzOWfSAYcCQVVfeXFMUFNEUjZLX3YwODNQVXEyTXdNZ3h1TG1HVUpGbDFCS3Z1bnhGQnhPMXVtRGVrWjExU19HT25kdmo3M1VVbVVzc0pOMC1KY0RSczZSQ3Y4N29YTlpvTUVhV3VveTBoRUJTT29JOEJDSnBFODAwNC1GcV9Gd01wdGdDN1pJMk5JQ3h4NlFIS1ZsWlBRQ1pOVFZKV2JDeUx2T2ZiVDlnbnlUdlNQTTVGNnZkNE5oR2NDZ2UxMV9US3FQRkQzTHNsd1JrNGV1NzdCUGRERkd0U0swdmRaazRhZGdOd0swcGhhbm1KOFlzM2hiOTRhZHd0S0pZRDlNM3EyY0RwN3FiUElqekE?oc=5"
+          "name": "Mashable India",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZmZ6UEZmMk9RTEx6WUFlVWJLQzlVbzFUR29VNk1yVDdiWThhUlBxX0R2YktOc2VFRkRTMTVvWWRrVHYzS3kxeGVkdzQ3QmtfVnpDWW84NkxyYnRUdTB0SXdBQkNsZjRob0NWamdVUlA5TE1ia3kxQ0FtVmtrQWd6WUF1cEZaWW1JRmM1MER4SlU1OEVFUkRXRnF2ODBqLWRaaU00YlVjM1ZES0tialJ1bndYNmpyeUZrdFVWeFZjbTZlZFhNYXZkLWgxWXRjQjVrVnN3MA?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "f3d0456be894",
-      "title": "WHO says risk of Ebola virus high in Congo & Uganda, but not globally - News On AIR",
-      "published": "2026-05-20T15:34:42+00:00",
-      "summary": "WHO says risk of Ebola virus high in Congo & Uganda, but not globally&nbsp;&nbsp;News On AIRWatch, but do not wait: On the Ebola outbreak&nbsp;&nbsp;The HinduWHO says 600 suspected cases, 139 deaths in growing Ebola outbreak&nbsp;&nbsp;Al JazeeraEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)No Ebola cases reported in India yet; governme",
+      "id": "96bca259e88e",
+      "title": "6,797 girls aged 14 get HPV vaccine in Kozhikode - The Hindu",
+      "published": "2026-05-20T15:17:48+00:00",
+      "summary": "6,797 girls aged 14 get HPV vaccine in Kozhikode&nbsp;&nbsp;The HinduHPV vaccine rollout within next two weeks in state&nbsp;&nbsp;The Times of IndiaHamirpur DC spreads awareness on HPV vaccine&nbsp;&nbsp;The TribuneAfter a slow start, HPV vaccination sees an uptick: 11,000 girls receive the shot&nbsp;&nbsp;The Indian ExpressNAPM allies seek ethical, gender-neutral HPV vaccination policy across India&nbsp;&nbsp;Hyderabad Mail",
       "sources": [
         {
-          "name": "News On AIR",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUby04Q19VVzhVdHhyQVVLNmpIbzFqR0V5Y1NIb001aUt1Q2lwU1doY3ZmVl9vMHVKTEg2aG54NFFxY2xCQnJmTGRzcThfVUdQaW1JRFU5bVdvSXotMVJRT1J3R3BlMFJfMlQ3b1hSTVFLWGs3OWM4?oc=5"
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0VVYWhySWJOUnhJak5jWWVpQVhKSjBjVGM1S0tiSkNmTERiaGhDaXF6cDNZWnJEYnE2dWxvMENCQ3lmcXJWZERLTzBVdVpvTTRqX09XaXlDMndrcEl1QmU4NkNhNWlLbENDTWdxS1l4OGJ4Ynl5UmlLb3lQbHRJdmItTEpLREp2THlQVVNjSEJJbkp0MFNTZ082cVJiUGtnQks0cTBQOE16QmlLVDFvTmhuNNIBugFBVV95cUxOMVA1VWdQeHhCR1VGRms5MWxFOG93bmhmSmJmclRUNWFUNDRYSnYwclhiU3IxRXlWWVQxRUdpOF9WbS1yYmZLU0Z5STU0dlg0QzZfWFI0Nk55Vy1iSXlQcEdheWk0Z1JQcVRVcnNlcUVxR1I5RFo0Vmh3ZlUxLU1wejBFWjdtTWNMTkFRU1hDUENDdzExWG1qNG9oVTVLenN0Q0RYQ1JwNWxpUFdZd0tNQnpLRkxISUpyU1E?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
+      "matched_keywords": []
     },
     {
-      "id": "17dc594664df",
-      "title": "Hypertension Is Hitting Younger India - Deccan Chronicle",
-      "published": "2026-05-20T13:47:15+00:00",
-      "summary": "Hypertension Is Hitting Younger India&nbsp;&nbsp;Deccan Chronicle1 in 3 adults now has hypertension. Why Indians should worry more than most&nbsp;&nbsp;The Times of IndiaNo symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The HinduHealth Experts Stress Early Detection and Lifestyle Changes Ahead of World Hypertension Day 2026&nbsp;&nbsp;Daily PioneerWorld Hypertension Day-2026 observed by CISA, MMF, BHCNMT&nbsp;&nbsp;Greater Kashmir",
+      "id": "f1d18b553fdf",
+      "title": "Ixekizumab and Tirzepatide Deliver Dual Benefits in Psoriasis Trial",
+      "published": "2026-05-20T13:02:25+00:00",
+      "summary": "Ixekizumab and Tirzepatide Deliver Dual Benefits in Psoriasis Trial&nbsp;&nbsp;EMJCombined Tirzepatide and Ixekizumab Therapy Shows Dual Benefits in Psoriasis: JAMA&nbsp;&nbsp;Medical DialoguesCombination Therapy Shows Potential in Psoriasis, Obesity&nbsp;&nbsp;ConexiantGLP-1 Drug Makes Its Case for Treating Plaque Psoriasis&nbsp;&nbsp;MedPage TodayLilly Tests Dual Psoriatic Arthritis and Obesity Strategy With Ixekizumab–Tirzepatide Combo&nbsp;&nbsp;TipRanks",
       "sources": [
         {
-          "name": "Deccan Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS0o5aDQ1Nzhxbm1FN0ZEbGgzcTAxZWVyMXZzUk9saUtRNmFSMU85U183X3NVaG9VTlVDRVJUZkd4OTB6X3QtUHhPX0pCU1NPRm8zMWZBRU9IaTlzYkFXa3ltQWlWNm5aOUZCQ2wxOWVick5iRWhZMTBhWk9UeDhBNlRzLVgyZ2QtZFVPY05tem5pQlpHSG9xeVJQeHlMS1ZzZHJ3ZTV0Q0jSAa4BQVVfeXFMTkRKZHFPTjdhMWpLcEpSbFVoTm9BRmNFNWdEWjFaMVFFeThPXzRta2hEM09TRXBBd3pXN3hLMlZrc0MxUnBQcTBVcFJ3eENfTEJSaUE1a3JjNUJ5Nl8yRExTSDhma2o2d0wzRFNqRnA3SVhGaGdlSDUydXZDdWw3RFFBVlpIZ0NQTmdRREJrR3hFVTcwY3lrTzhDY1ltdjRRQXJoN2syaHdtUDZsaXV3?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzV4a09zZlpRZDVQWkxEbFR3aEM0Y3g4ZXNyTDJ4anFzaHJNU0dLMGtxbTBDbmRSVzItcGYyMV9HR05KNnF5R0dXeGpiV3FNVGdoMjAyN2QwMUZFb25LTUNlOGZnb2gwN050UE94NW1aUjNZbHcwUW5jdzl0R3M0NTNJTDVGUlpTRHkzMERmZm0zRVlTX3VRbzFNM3lVbFVyY2trRmF0RlJEVXJfSTRvS2hB?oc=5"
         }
       ],
       "matched_keywords": [
         {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
+          "type": "drug",
+          "drugbank_id": "DB11569",
+          "keyword": "ixekizumab",
+          "name": "Ixekizumab"
+        },
+        {
+          "type": "drug",
+          "drugbank_id": "DB15171",
+          "keyword": "tirzepatide",
+          "name": "Tirzepatide"
         },
         {
           "type": "indication",
-          "disease_id": "1200_1134_15512_5080_100078",
-          "name": "hypertension",
-          "keyword": "hypertension"
+          "disease_id": "5027",
+          "name": "epilepsy",
+          "keyword": "fits"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5083",
+          "name": "psoriasis",
+          "keyword": "psoriasis"
+        },
+        {
+          "type": "indication",
+          "disease_id": "11849",
+          "name": "psoriatic arthritis",
+          "keyword": "psoriatic arthritis"
         }
       ]
     },
@@ -120,6 +294,38 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "68bdf0474fe7",
+      "title": "ASIA/SRI LANKA - Dengue alert: prevention committees in parishes - Agenzia Fides",
+      "published": "2026-05-20T12:32:49+00:00",
+      "summary": "ASIA/SRI LANKA - Dengue alert: prevention committees in parishes&nbsp;&nbsp;Agenzia FidesOver 29,000 dengue cases reported in 2026&nbsp;&nbsp;NewswireLocal new&nbsp;&nbsp;Ada DeranaRains revive dengue, malaria and filariasis outbreaks&nbsp;&nbsp;The Sunday Times, Sri LankaDengue Has Killed 14 in Sri Lanka, Monsoon Season Just Began&nbsp;&nbsp;Ground Report",
+      "sources": [
+        {
+          "name": "Agenzia Fides",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZGxmYVM1VGl6SnAxMElUZHY5V3YwT29ETlFDZ3A2Tl83Q2dTTWEyVGx4a0NHSmtmQXQtUUU3LVBYTDFaMFdrRnl6dm5mVy1uVTdncEdNUXdaS0tSckRfZkJxdU04VmhYdEhaU2ZJaXhwSFE0d0xPWFBHRUZpcXJUb1NCREJVS3dWYkg5N19HNWtpREdlSkdJak1FYWxOQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5136",
+          "name": "malaria",
+          "keyword": "malaria"
+        },
+        {
+          "type": "indication",
+          "disease_id": "16075",
+          "name": "filariasis",
+          "keyword": "filariasis"
+        }
+      ]
     },
     {
       "id": "aa0fc8176832",
@@ -162,6 +368,46 @@
       ]
     },
     {
+      "id": "0efd153ca90f",
+      "title": "I tracked my glucose levels for 4 months as a runner and it changed the way I think about food - Vogue India",
+      "published": "2026-05-20T09:33:09+00:00",
+      "summary": "I tracked my glucose levels for 4 months as a runner and it changed the way I think about food&nbsp;&nbsp;Vogue India",
+      "sources": [
+        {
+          "name": "Vogue India",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZTFmMHNkc3dVb3R4eTlOaHByMDd1QnM1ZjJsY2tjYUFxR3V0clptODhiazcycWUtY2F3M2t3cFNvb1EtckZfbnpPZ2xsNmExYmNqY3RCZmVvMnJUdVZyengyNUM0RVdsdTNBZl9HWFZnRzY1Z25HQm5KT1NScWtZM09BYmJnUWpqWlRNOEZDVDhvV3V0YUhqS2tVU0xRUjJWNE9jNlFmYUNXOTNEMTlhN05aaHBiTnpSSFJnZkJsOWE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "b3fc21715ca8",
+      "title": "Digital Gout Management Boosts Self-Management Outcomes",
+      "published": "2026-05-20T09:31:58+00:00",
+      "summary": "Digital Gout Management Boosts Self-Management Outcomes&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWVJWWJxT1NJRmVHUFI2Y0lnNFM5QTd0dkZRblVnVVJ2cy10QVJrMGxLRHFXZkl4d2xqdDVQTU9TR3dRaUpPWE9aenRtV2NwM3ZfeF9PX201YnE2TDRlMnFFSWNBN2VhNjFIMnRiMWY3SktvZ0tJdUZ6cE1WYXlMRFBwYjh3bXRPMEREai1SSHJBb0VocGhMWE5YX3BTamhsdUYw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "5393",
+          "name": "gout",
+          "keyword": "gout"
+        }
+      ]
+    },
+    {
       "id": "cbf1036aeaa9",
       "title": "Research on carbon emission models and emission characteristics in the coal development process",
       "published": "2026-05-20T09:14:40+00:00",
@@ -180,32 +426,6 @@
           "keyword": "mo"
         }
       ]
-    },
-    {
-      "id": "0e54fd260f44",
-      "title": "Researchers finally answer why the T. rex had short arms",
-      "published": "2026-05-20T08:56:36+00:00",
-      "summary": "Researchers finally answer why the T. rex had short arms&nbsp;&nbsp;ThePrintWhy meat-eating dinosaurs like T. rex evolved tiny arms&nbsp;&nbsp;Phys.orgWhy T. rex had tiny arms? New study points to powerful jaws&nbsp;&nbsp;The Indian ExpressWhy did T.rex have such tiny arms?&nbsp;&nbsp;The Times of IndiaWhy did Tyrannosaurus rex have such short arms?&nbsp;&nbsp;Binghamton University",
-      "sources": [
-        {
-          "name": "ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Hang0alZHVjhIWFdaTWFfRVJaMWxNYk1yU2ZEQThyQ1hvOFB0RE5mMlFhT2NSbWVJcDNWaXA1cXg4QjdZLUswelFPZ3ZSdTR0cHBPSG1wVVJiek1jYUhtWDAtVmMwMjhhQ0gzQjBjR3JZZGgwYlVVM3NqaC1lUdIBgwFBVV95cUxPUlJOaXhGMUFqaHJsR2tERFlhRkJhN0swN0djOThXTzVIbE5SU2M0eXE1anNnUXV6dlhQcC1CeHE4bWlOYmJlTTVCUFp0T3FlMFpsVEo0SmhXZ0h6Y3I3Mkh1MFkwZkpGN0N0bF9QZW54LW1uaExlU1BWX0tGOE5tTTBoZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5dcee28378a2",
-      "title": "AI scientists expose strengths and fundamental limits - Let's Data Science",
-      "published": "2026-05-20T07:55:06+00:00",
-      "summary": "AI scientists expose strengths and fundamental limits&nbsp;&nbsp;Let's Data ScienceAI-generated research papers are overwhelming peer review&nbsp;&nbsp;The VergeNew ‘AI scientists’ are improving – but reveal their fundamental limits&nbsp;&nbsp;The ConversationOne in 277 Biomedical Papers Carry Fake References&nbsp;&nbsp;the-scientist.comAI-generated fake citations are flooding scientific literature across publications, scientists warn&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Let's Data Science",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmxjZkpfc2hVcDRqbFh6c2lSeHA4ZUM2OC1fdVRXano1MGZIX20xY2FwUm41MVYxQ2tWOGFIc09RblFPMU5wQlRGbVRUZUFjRUsxcC1UN0xDLUg4MHFkLWlyeGU3clVraG4zdVlnYjdwVURxTy1FMmY5ME0yRWloTFcyUVBXeFJLNEVRZjVkNUlENmFCZHJ0a0VWTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "2c08bb3dadcf",
@@ -231,7 +451,7 @@
       "id": "636c09886195",
       "title": "Hidden beneath Thailand for 113 million years: Researchers discover a 90-foot-long giant dinosaur in Sout - The Times of India",
       "published": "2026-05-20T06:30:00+00:00",
-      "summary": "Hidden beneath Thailand for 113 million years: Researchers discover a 90-foot-long giant dinosaur in Sout&nbsp;&nbsp;The Times of IndiaGiant new dinosaur identified from fossils in Thailand&nbsp;&nbsp;BBCThe first sauropod dinosaur from the Lower Cretaceous Khok Kruat Formation of Thailand enriches the diversity of somphospondylan titanosauriforms in southeast Asia | Scientific Reports&nbsp;&nbsp;NatureNagatitan chaiyaphumensis discovered in Thailand is Southeast Asia's largest dinosaur&nbsp;&nb",
+      "summary": "Hidden beneath Thailand for 113 million years: Researchers discover a 90-foot-long giant dinosaur in Sout&nbsp;&nbsp;The Times of IndiaGiant new dinosaur identified from fossils in Thailand&nbsp;&nbsp;BBCScientists identify massive new dinosaur following Thailand dig&nbsp;&nbsp;Al JazeeraA few rocks spotted near a pond in northeastern Thailand in 2016 have just been confirmed as a 27-tonne, 27-metre sauropod — the largest dinosaur ever found in Southeast Asia&nbsp;&nbsp;Space DailyScientists may",
       "sources": [
         {
           "name": "The Times of India",
@@ -239,38 +459,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "ac43c271a7fb",
-      "title": "Vitamin C may reduce cancer-linked digestive chemical reactions",
-      "published": "2026-05-20T06:05:00+00:00",
-      "summary": "Vitamin C may reduce cancer-linked digestive chemical reactions&nbsp;&nbsp;News-MedicalCan vitamin C prevent cancer? Here’s what new research found&nbsp;&nbsp;The Times of IndiaVitamin C Shows Potential in Cancer Prevention&nbsp;&nbsp;Bioengineer.orgTiming Your Vitamin C Could Blunt a Cancer Risk Hidden in Your Dinner&nbsp;&nbsp;ScienceBlog.comTaking a 4p vitamin after food could help reduce cancer risk, study finds&nbsp;&nbsp;Cambridge News",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUkRhakJST25FVGJsQW51SnphZVBZWWJaWTdZN0xIRDYwLW14YW9LSk1WczJXdTQ5Rm1CNV8wWjV6WTdtdFl0d0tMRXI0QnhaNkNkdUthZ2hrWjlURlZ5aWZuanVBZ3VRQ3ZHRm1qUmxQU0M2UUgxZTJkenQwdUxXdnFUZ1E4UFpEUlV4dUJ2M1YtN0RfcEJ5dHVNbk5KaGd1OXNESkNXWnFxUXFRRndIVw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB00162",
-          "keyword": "vitamin a",
-          "name": "Vitamin A"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        }
-      ]
     },
     {
       "id": "3a93549da46b",
@@ -281,19 +469,6 @@
         {
           "name": "Nerd's Chalk",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcHFFWlhvVHBpRUZJQjJlcnJKMC1VVzl1V0stdWVlWTY3MDJMejRibzZHLTRYNVN1RE05TWo4cWNSa1JUNFlxRy1oQk82UWFpbmZ5cC1mSHZQczFtODZXNEluUDhtVDluLXVjN2VwaW9KcXIwZGNiM0xWeXpHcWpxTkloZFJZdUF3ejZxUHlKR0J6aDhTY0Z6NGNMT19leXg1Uk95LVB3N3BTWFVrdklTY2kzVk5OUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "73d2d3cdb625",
-      "title": "Scientists uncover why genome guardian p53 protein is uniquely prone to collapse",
-      "published": "2026-05-20T04:52:00+00:00",
-      "summary": "Scientists uncover why genome guardian p53 protein is uniquely prone to collapse&nbsp;&nbsp;News-MedicalDecoding p53 Vulnerability: Unraveling Why the Genome Guardian Often Fails&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdmZqamRpbHNHNnl4SElxVUZiNUNyYzlnbnFOQThXT0k5WkpxTlFhSElpRUZEQzBjSzBaOGc5RzRrWE1sdTExLXAzUm9fa1JQVHVmUWs1LWUxeGI3S3Y0cXRNRmIydW5xeEVtQVN4M0Q2Y2h0Q3BfbGVKLUhqRmxRYmJmMkFBOWdlc3NtTEpuUFJpMk85bG5MX2lXeV9GaUVLVkt5eFd0Si0zc0RTNXYwRnBZYVo5NVV4SXgwMEpUTDEzdW9YYXJF?oc=5"
         }
       ],
       "matched_keywords": []
@@ -319,17 +494,62 @@
       ]
     },
     {
-      "id": "64eef88bb423",
-      "title": "Scientists Just Used Sunlight To Pull Off a Quantum Physics Feat Once Thought Impossible",
-      "published": "2026-05-20T02:08:55+00:00",
-      "summary": "Scientists Just Used Sunlight To Pull Off a Quantum Physics Feat Once Thought Impossible&nbsp;&nbsp;SciTechDailyResearchers Use “Ghost Imaging” with Sunlight to Generate Correlated Photon Pairs Without Lasers or Electricity&nbsp;&nbsp;The DebriefSunlight-powered generation of correlated photon pairs&nbsp;&nbsp;Phys.orgQuantum ghost imaging works using only sunlight in stunning new experiment&nbsp;&nbsp;ScienceDaily",
+      "id": "d7ae58d138b2",
+      "title": "Outbreak of highly contagious infection grows to more than 220 cases - Australian Broadcasting Corporation",
+      "published": "2026-05-20T02:51:17+00:00",
+      "summary": "Outbreak of highly contagious infection grows to more than 220 cases&nbsp;&nbsp;Australian Broadcasting CorporationAustralia faces Diphtheria outbreak: Government plans emergency support&nbsp;&nbsp;The Times of IndiaAustralia faces 'biggest diphtheria outbreak' in decades, cases across Western Australia, Queensland, South Australia&nbsp;&nbsp;Deccan HeraldAustralia’s diphtheria outbreak deepens amid investigation into suspected first death&nbsp;&nbsp;The Economic TimesSen. McCarthy Talks on ABC ",
       "sources": [
         {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1NtX0Rzam8xRDMxQ0VFNDdQN1VIMV9wSW1DcUZzblFpdEw1bEl0RGN2NEdoWDVPalhHY1RoMXd5S0k1a3RjcFVDWThZd2pmcUlLNDBuTHJJZUJXNl9FYTBXSnNOSFRnZXVCM3VPcnpLc2Z1TktrMXRXOXhWYmdXWHJkdzM2eGV1NlNUWXdqc2xZVkZXZFhlcGJUZUhaV2ZTbGg1TmN3UkdvUlBZVzVJeWtCQ0o?oc=5"
+          "name": "Australian Broadcasting Corporation",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTFzN3RHb0FPQ1VtOVBrNDBLbmMxdnJHWjBjVDNPNldSY09qdFA0Q1l6dllvbHZHVTVpZkl5ajIwbUR3OWR3QkpENEw1U3kzTC1acklkQ2o0a19OcEdJd2tnOEZsU1RYbE15YXhSdlBBY1BwaGhJV1lyR09SMEFnM2E1X251YVBmWHYxWTVwZGxLQ0tMZ0Y3Rkt1V2NjQQ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB05282",
+          "keyword": "mcc",
+          "name": "MCC"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5504_1479",
+          "name": "diphtheria",
+          "keyword": "diphtheria"
+        }
+      ]
+    },
+    {
+      "id": "af21360dc410",
+      "title": "Global Experts Rename PCOS to PMOS to Reveal Its Multisystem Pathophysiology - Docwire News",
+      "published": "2026-05-19T16:27:01+00:00",
+      "summary": "Global Experts Rename PCOS to PMOS to Reveal Its Multisystem Pathophysiology&nbsp;&nbsp;Docwire Newshealth matters newsletter: What’s in a name, and other health questions&nbsp;&nbsp;The HinduPCOS Is Now PMOS: Doctors Say Name Change Will Improve Diagnosis, Care&nbsp;&nbsp;HealthlinePolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyPCOS isn’t only a fertility issue anymore: The hidden me",
+      "sources": [
+        {
+          "name": "Docwire News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3FRbDRLVDdVb0JQR0Z4NTVsN2lIWDNKNmtUYnh5WDl2LV9md3FJdFFTREZHYWMzYXo0cFZVYVNJNjViSXBzTHF0SGN5VGpCVHRhTGlvVGtDLXNSVEJIbWdST3Y5TEQwbm11ck9rUEcyaFhtWnVEV0NCb2pIWE9QZ0U4M0MzNkFfVlhYajZuZnB0a3Q5Um9lX0kzNDhjTUFqWFJaMXdoQVdBeVBvZWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "10686",
+          "name": "N syndrome",
+          "keyword": "n syndrome"
+        }
+      ]
     },
     {
       "id": "d47fd43f7331",
@@ -340,39 +560,6 @@
         {
           "name": "The Brighter Side of News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnlLMWFlU29nOUpydG1aOG1rLVZSV1VtSW9sWHFrQ2pmX3lHamVlVTlrUVJVbjVTcnRtWFJiNVJHNDBRZzlWRmpXMlhvYnQ4SFF1TlVBYzNIa3E4ODV0dV9LeG5FZllnRmNuOHI5SUVLUmxNQllITzZUY2RhNjhEX192bTZrVm5UMVhybVdFekVBd01NUmxRUzJzS1lGZVVVdG5zWWFPSQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "92184e69f40c",
-      "title": "‘People should aim to get a variety’: the pros and cons of popular protein sources - The Guardian",
-      "published": "2026-05-19T16:00:00+00:00",
-      "summary": "‘People should aim to get a variety’: the pros and cons of popular protein sources&nbsp;&nbsp;The GuardianTop US Professor Reveals How Much Protein Your Body Actually Needs&nbsp;&nbsp;Times NowHow adding extra protein, supplements to your diet can affect your body&nbsp;&nbsp;Yahoo News CanadaHealth experts warn Americans may be consuming too much protein&nbsp;&nbsp;WILXHow did protein become a meme, and are we all in on the joke?&nbsp;&nbsp;Dazed",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObENCbi0zTmF0QlFsQlRjSTIyX1ktMmRXSnFhOW5wSW82cG9NT3lKX3pFaloycWw2RDJJUjN6TzI3ay1GUVRjUm1rdExrSEdTWUxaVkpKTnVPMUdzLXpBMTNEb1NkU242b2tEVVBmRUNIZ0ZnYVJuUjAxU25uUEdMV0hYYnJkQUZBR1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "91f1bfecd8eb",
-      "title": "Monkeys help Oxford scientists discover why 90% of humans are right-handed - lefties remain a mystery",
-      "published": "2026-05-19T15:59:22+00:00",
-      "summary": "Monkeys help Oxford scientists discover why 90% of humans are right-handed - lefties remain a mystery&nbsp;&nbsp;LADbibleNew Study Reveals Why Majority Of People Are Right-Handed&nbsp;&nbsp;NDTVWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular ScienceScientists just cracked a mystery that's puzzled researchers for centuries; why are 90% of humans right-ha&nbsp;&nbsp;The Economic TimesAre You Right-Handed? Scientists Just Figured Out Why.&nbsp;&nbsp;Popular Mechanics",
-      "sources": [
-        {
-          "name": "LADbible",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHJHUDhpQ2V1eklNSWV3a0NsVEZnbksyc25ISUhGYkljdE9La0Nxd2xvaFZwLUhUZERqZF91eF9nV0taQks3WjFpWGV4ZG9RLVpfNklKSnhRWFJFNzJvRWhmZGV5YldMSGJQNmlCVDJZUmYwMVpvaF9ZNXEtX0lmTzVyMjJZdVFubWplWF82Xy01dG4wY2t3X3F4V0g?oc=5"
         }
       ],
       "matched_keywords": [
@@ -405,34 +592,14 @@
       ]
     },
     {
-      "id": "369e54f246f0",
-      "title": "Ancient supernova remnants found in Antarctic ice",
-      "published": "2026-05-19T14:07:00+00:00",
-      "summary": "Ancient supernova remnants found in Antarctic ice&nbsp;&nbsp;YahooScientists discover Earth passing through ancient supernova debris hidden in Antarctic ice&nbsp;&nbsp;The Times of IndiaRadioactive stardust from ancient supernovae found trapped in Antarctic ice: Study&nbsp;&nbsp;The Indian ExpressIron and Ice: Earth's Passage Through the Interstellar Cloud&nbsp;&nbsp;Universe TodayAfter Analyzing 300 Kg of Antarctic Ice, Scientists Found Strange Radioactive Particles Inside&nbsp;&nbsp;The Daily ",
+      "id": "16f14d785c3c",
+      "title": "Indian researchers spot one of the shortest-period stellar binary system - Department of Science & Technology (DST)",
+      "published": "2026-05-19T12:46:11+00:00",
+      "summary": "Indian researchers spot one of the shortest-period stellar binary system&nbsp;&nbsp;Department of Science & Technology (DST)See more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUGM5ZFZxMkN4RmZLQlZ4THA1LXg3OE12akV2SFkwMFg4VXpsTExhdXh3c0xWdnh1U21xa2dpYnhfQ0prV0FHa1N6LXhCN195b3laV2Y5MEl3NDlBSU9wZ04tb2hxallfVDBXcTVGV1B0aVFhT1JhVEFwTEZBX3Q4bnhpcWo5N2w0RjVLZFNqbllWSEZHOEhTeg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB01592",
-          "keyword": "iron",
-          "name": "Iron"
-        }
-      ]
-    },
-    {
-      "id": "60afed770cb5",
-      "title": "Radiolabeled Ag2S quantum dots for the detection of breast cancer tumours | Scientific Reports",
-      "published": "2026-05-19T13:39:52+00:00",
-      "summary": "Radiolabeled Ag2S quantum dots for the detection of breast cancer tumours | Scientific Reports&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ya3luS1h0dWJOblo3NFktbGszNjhCeENkdzkwLTJ6TTBOd0dxN3M0VEFCQ2pYanBuZlFManNiLU1VbTVOMHVWUHV0NWhXLU5wRnEwZ0J0Z3o1RzRKTGhB?oc=5"
+          "name": "Department of Science & Technology (DST)",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdEhRLWc2NkhMTHlDSC1FWXZJbU5WalBqVWxYUlJmSGtvZE5WZ0hHbXkxRjJ0N1FLMU9YZk5obG1LWVR0d1JqV2VObkVKTlZMV0s2eXFIa0dzVzVlMXFUZXFtVUNEblZmaWt2RXNkRWZaOUVMaFlxanVwNThOZmQyS2VKUmpLaDVzVGEtaQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -441,30 +608,6 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4379",
-          "name": "female breast carcinoma",
-          "keyword": "breast cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "7254",
-          "name": "breast cancer",
-          "keyword": "breast cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
         }
       ]
     },
@@ -489,55 +632,34 @@
       ]
     },
     {
-      "id": "ba565b961554",
-      "title": "A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way",
-      "published": "2026-05-19T11:00:50+00:00",
-      "summary": "A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way&nbsp;&nbsp;CNN2026 Hantavirus Outbreak: Testing for Potential Infection&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Hantavirus: What to Know and Next Steps for Health Systems | Newswise&nbsp;&nbsp;NewswiseHantavirus Awareness for Students Studying Abroad&nbsp;&nbsp;SafeAbroad8 Hantavirus Variants Reported in Various Countries, 2 Found in Asia&nbsp;&nbsp;VOI.id",
+      "id": "4eca2268ee2f",
+      "title": "Sunlight vs supplements: Best source of vitamin D, according to a cardiac surgeon - The Times of India",
+      "published": "2026-05-19T05:51:00+00:00",
+      "summary": "Sunlight vs supplements: Best source of vitamin D, according to a cardiac surgeon&nbsp;&nbsp;The Times of India6 Foods High in Vitamin D Besides Mushrooms&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationThe vital nutrient you aren’t getting enough of – and why you need to fix it&nbsp;&nbsp;The i Paper6 Foods You Should Eat Instead of Taking a Vitamin D Supplement&nbsp;&nbsp;AOL.com‘Sunshine’ vitamin D may lower risk of inflammatory disease in older people, study shows&nb",
       "sources": [
         {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV3VFdWVMS1RrQ1l3RDJQUTUxQnA1LUZzREQ3TkNKcjU1S0lSWV9md1Qyc3h4enJ0ZktQOWdJWDhZVkQxQTFibWdBd0F2Z29HR1R0YVhYeUw0eTZqUUJOb0VmTWl4OExUaFQ0Um5NVGpQT19UV1VZYm5jaUM0bGFsV3VSSGlaRzNZWDVHZ0dsVlMwSG1pWkN3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b06e5ab75596",
-      "title": "Indian researchers spot one of the shortest-period stellar binary system - India Education Diary",
-      "published": "2026-05-19T10:37:00+00:00",
-      "summary": "Indian researchers spot one of the shortest-period stellar binary system&nbsp;&nbsp;India Education DiarySee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "India Education Diary",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd24tVkdEajRvTFlyU1hQYmdwZzR0WnZJd3F3NDhReFVKN1d5MnBOUVgwRWl5Y21scEd6aGJMRFdmVVV3dmNod0NKX2VUdWo5Y1VINWJ6U1M0UmU3TVhicGV1V0FLaFI0eXFzeFlINDgwX0I3dUVMY2stTmRqN1ZtWWYzRUlzclRmelNuZGswT1otVGtTbjNYSHJlYjVDVG9DTWxmaFdIQQ?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNW9rS1huU084VzJOZTRIblp3eVU4UW1BckM1WEctWWNWY0hCVlZEdGxZaUxCOVJtLU1SamFCek1KQXlUd0dKU2xXOUhSbzhHcnhsTWJkQ3R4c0pvSmRRdVR5M0FidG1qREJXOVVpc3hvX3VITnktZlF0M0dHa0JYQW9CSmdaYmx3QnJLSnpFbDc3ZDdVaXpBVFg4TUVqQzBuNFJzMk53SENmTXBoWWpiOWRCMEdlbG45RTFPTE9TcXd1c0pHNmlibUI5a28zU3hRTzg1ZnQ3YlpsUEc1UXk1ZkI1WjZsSjhFeFNhYVpn0gHzAUFVX3lxTE9hY1FKbzdSbW5SWkd3LXBXNGFUTTV1alYxQk02Z2RXNUhLUnBOTGFmTUlkaHVVUDRmQUJ2ekJVdDNBSVgxeHVUUFdpUzZjWVNuZkZXSnZMWmZVWG5nWTVfS3VVNUpwd1NCQUtibkdRcG51THRRM25WUXlydzJ1TzdBSTVOaUJObmFxWi16ZXQ2ZEdKazZiZlBOYnhWQUNLdkx2QVdOWEh0X0tGQjZNLXlLRkkyX3ZHYnAwMTFGVFhOdkMta2J2eGpZaHlPejNSd1o0X011anVSVHVmZXhrc3k5eWtTS2trblRuOE1yQzBqMmI1aw?oc=5"
         }
       ],
       "matched_keywords": [
         {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "e3a4b36011c2",
-      "title": "Scientists Baffled By Record-Breaking Solar Eruption With A Heartbeat - Mashable India",
-      "published": "2026-05-19T09:00:00+00:00",
-      "summary": "Scientists Baffled By Record-Breaking Solar Eruption With A Heartbeat&nbsp;&nbsp;Mashable IndiaNASA Missions Track Record-Breaking Radio Burst from Sun&nbsp;&nbsp;NASA Science (.gov)A record-breaking radio burst from the sun had an eerie heartbeat&nbsp;&nbsp;Mashable\"Impossible\" Solar Behavior: Scientists Stunned By 19-Day Burst That Rewrites Physics&nbsp;&nbsp;Gadget ReviewThe Sun Blasted a Mysterious Radio Signal for 19 Straight Days. Here’s What We Know&nbsp;&nbsp;Gizmodo",
-      "sources": [
-        {
-          "name": "Mashable India",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHZOVWZzeGt0STdhU2pnTUxrYVRfY2VueXM5MlpaX0FadHRMLUwzUlNFOEFTRjlNTExkc2R0cElZcjl1R0lvSUlKT2RpZVI5UnFzNDFiZXVMUHdnSFBzMU9iWUNJaUtHV2c3SU1TQXFaejhQLW83SVpNWUh1cTRvblJhaEN5TklxS2lqRzdlQUlJLThTbUJCSXotdUpCSmwtclNjVHFSV01tZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
+          "type": "drug",
+          "drugbank_id": "DB11094",
+          "keyword": "vitamin d",
+          "name": "Vitamin D"
+        },
         {
           "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
+          "disease_id": "21166",
+          "name": "inflammatory disease",
+          "keyword": "inflammatory disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__heart_disease",
+          "name": "heart_disease",
+          "keyword": "cardiac"
         }
       ]
     },
@@ -545,7 +667,7 @@
       "id": "626f2d78c7e6",
       "title": "Chandrayaan-3 - UNITED NEWS OF INDIA",
       "published": "2026-05-19T05:47:00+00:00",
-      "summary": "Chandrayaan-3&nbsp;&nbsp;UNITED NEWS OF INDIAChandrayaan Lander Hopped A Little In 2023, Now ISRO Is Jumping At Discovery&nbsp;&nbsp;NDTVChandrayaan-3 Lander Performs Controlled Hop Experiment&nbsp;&nbsp;GK TodayChandrayaan-3 hop uncovers Moon’s layered, varied surface&nbsp;&nbsp;MSNChandrayaan-3 Hop Experiment Reveals Two-Layer Lunar Soil Structure At Moon’s South Pole&nbsp;&nbsp;Swarajyamag",
+      "summary": "Chandrayaan-3&nbsp;&nbsp;UNITED NEWS OF INDIAChandrayaan Lander Hopped A Little In 2023, Now ISRO Is Jumping At Discovery&nbsp;&nbsp;NDTVChandrayaan-3 hop uncovers Moon’s layered, varied surface&nbsp;&nbsp;MSNChandrayaan-3 Hop Experiment Reveals Two-Layer Lunar Soil Structure At Moon’s South Pole&nbsp;&nbsp;SwarajyamagIndia's Chandrayaan-3 hop reveals lunar subsurface clues near south pole&nbsp;&nbsp;NewsBytes",
       "sources": [
         {
           "name": "UNITED NEWS OF INDIA",
@@ -558,6 +680,45 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "c06756bbcd29",
+      "title": "NASA reveals new strategy in the search for life beyond Earth - Latest news from Azerbaijan",
+      "published": "2026-05-19T05:46:11+00:00",
+      "summary": "NASA reveals new strategy in the search for life beyond Earth&nbsp;&nbsp;Latest news from AzerbaijanNew method sharpens the search for alien biology&nbsp;&nbsp;University of California, RiversideScientists propose new way to find aliens — and we may already have a spacecraft that can help&nbsp;&nbsp;SpaceForget Searching for Individual Biosignatures. Instead, Find Their Patterns&nbsp;&nbsp;Universe TodayNASA Astrobiology Report: PESTO Search for Life Instrumentation Study For Solar System Life D",
+      "sources": [
+        {
+          "name": "Latest news from Azerbaijan",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVXMwRTlJNi1HeEdkd0NYbFBPYzIwNjZITTRZdDVBMGxkUjRidmxoeWY3ZjFjTHFSd3FqTFd3YXBMSE9LNkZRUXV6QWR4ZTNtTHViYXFKLVVMVXdxcmJKc2luYkhGSlkxVDlydHVnWVIyaWluemZONW5XbmN3UmF1dV9zX2h6QldDOFE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0651926c5a4d",
+      "title": "The World Hypertension Day was observed by AAM-PHC Sakti through a screening and awareness programme conducted at Kharu Market. | The Administration of Union Territory of Ladakh | India - Administration of Union Territory of Ladakh",
+      "published": "2026-05-19T05:39:09+00:00",
+      "summary": "The World Hypertension Day was observed by AAM-PHC Sakti through a screening and awareness programme conducted at Kharu Market. | The Administration of Union Territory of Ladakh | India&nbsp;&nbsp;Administration of Union Territory of Ladakh1 in 3 adults now has hypertension. Why Indians should worry more than most&nbsp;&nbsp;The Times of IndiaNo symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The HinduHealth Experts Stress Early Detection",
+      "sources": [
+        {
+          "name": "Administration of Union Territory of Ladakh",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUk9BLVRHX2w4aGpPRENpcU9HVkRmRHJlZGNDSk50YzFtRjRHdEpGV21qMVF0MnlINUZJZ0xoV1pMYm5KQ011R1AyNzc5Q1RVTWNsdHVBNmRDeHU5dkxwM2thUHpvVTlaOUx4M3p3Zzkwd3cxRVJ2M1RXMXF0R0pIUnN5a1IxTkdPVXRJbzI1TVVvX0hvRm1SQzlnNTRwMXF3UUlseGw3UEsyLWF2WUozeFZnV3l1T1AzQVQzNXhhM3BGSk9UaUFTZnJEQ01UQ3FLSnRURzh2X3JJQWh4Y1ViTmxLRQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "1200_1134_15512_5080_100078",
+          "name": "hypertension",
+          "keyword": "hypertension"
         }
       ]
     },
