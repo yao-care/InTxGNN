@@ -1,10 +1,130 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-21T19:39:38.277894+00:00",
-  "total_fetched": 86,
-  "unique_count": 86,
-  "health_related_count": 35,
+  "fetched_at": "2026-05-22T01:55:07.953909+00:00",
+  "total_fetched": 91,
+  "unique_count": 91,
+  "health_related_count": 44,
   "news": [
+    {
+      "id": "b3c58fd1c296",
+      "title": "Clinical and Radiological Evaluation of Warfarin-Associated Intracerebral Hemorrhage (ICH) in Patients With Mechanical Prosthetic Heart Valves: A Retrospective Observational Study - Cureus",
+      "published": "2026-05-22T00:08:09+00:00",
+      "summary": "Clinical and Radiological Evaluation of Warfarin-Associated Intracerebral Hemorrhage (ICH) in Patients With Mechanical Prosthetic Heart Valves: A Retrospective Observational Study&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxON1UzLVVZVTAyTUVNcGNiYnFEbnc1TDZXQlczc3FDZWh2OXdqbUNtWXFsTWJKT0Roc1ROelNUVmFYVDVLVWFQTGVCM1JFaDVTLVNEdm5lbEE2S1ppNko3WEt3ek9valVRSlFGaXMxYUF5ODFFaVFycUdlZE5KZ1F3VU5tdzZCSThpcUNaTjRva1dTQkpVU2JKaEhJLTd4RGF2cmZTX2NqeTRWQ3YyRUdKeTAzWWJnU3V2U1AzdHNuZDBtTFVtd2c4OFZJTlcyeUlMZTcwTzZaMzNjd0ppX0E5MjctLW5BTW14WmJSUXJJaDJaaWFIUl9vQWpaWklTMDZXbzFjbU45VXk5SlFzRmJuM2RCSmxuRUx4a2JvX2tqd1UzMmhPMzNXdEFndVVCREVYbzZpWmw1TEVmaEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8af8c4dbecbd",
+      "title": "Chiral Carbon Nanotube Films Unlock Giant Light Conversion for Future Photonic Chips - AZoNano",
+      "published": "2026-05-21T23:49:00+00:00",
+      "summary": "Chiral Carbon Nanotube Films Unlock Giant Light Conversion for Future Photonic Chips&nbsp;&nbsp;AZoNanoChip-Scale Aligned Chiral Carbon Nanotubes Exhibiting Giant Second Harmonic Generation | ACS Nano&nbsp;&nbsp;ACS PublicationsChiral carbon nanotube films deliver giant light-conversion effect&nbsp;&nbsp;Phys.orgResearchers measure giant light-conversion effect in chiral carbon nanotubes&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "AZoNano",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHbmxIV0sxc3pVMHY5MkswUlRjZHU0ZngxNmpHeXFEZVd0dE4tTkR0Rk9tOGlja1NZUXkwTGZhYjlpYzRVbXd1OGMtRU54WFFIR2Z0b1JKWWJLQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c0b0a5e2257d",
+      "title": "AIIMS Bhopal research stresses early screening for children with sickle cell disease - India Tribune - Chicago",
+      "published": "2026-05-21T22:56:46+00:00",
+      "summary": "AIIMS Bhopal research stresses early screening for children with sickle cell disease&nbsp;&nbsp;India Tribune - Chicago",
+      "sources": [
+        {
+          "name": "India Tribune - Chicago",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM2NDZTBTM280bGpBZTVwVWNILWdrYnE0OVNPSFpYNFkxY1BaNWpsQ2UxUS1nSWZGRkhLUV9nOHB0MDZVQXJUOXM1MXRVMGp1TzYxMXlyOUs5aWtzRnItWHV2Nk55Tkx4RHBYZWNXa2xUVkRIUk5jeVlmdndZQmdZcFNYM1hGX0NjY2N2X0M3TUpkQjd3ZVE2TUZwVGpTeF9iQkdiMkc2Q3hZcjZ0cE4tUXhZblFUMktfaHpXSg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "28f070986922",
+      "title": "Why promising CO₂-to-fuel catalysts keep falling short of copper - Phys.org",
+      "published": "2026-05-21T21:30:02+00:00",
+      "summary": "Why promising CO₂-to-fuel catalysts keep falling short of copper&nbsp;&nbsp;Phys.orgThis newly developed technology is successfully turning carbon dioxide into 110 pounds of daily fuel&nbsp;&nbsp;The Times of IndiaKRICT demonstrates direct CO2-to-gasoline and naphtha production at 50 kg per day&nbsp;&nbsp;EurekAlert!Southeast University and Korea University Researchers Develop Smarter Copper Catalysts for Turning CO₂ into Fuels&nbsp;&nbsp;Yahoo FinanceKAIST Unveils Copper's Edge in Carbon-to-Fue",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGU3NKSDFIellBcTVGd1BhM0RNcXUzX2lVX2ZtMGViSnFwQmlQZFhXMndIUU5MenNpUkhxeDBSZWoyOU45Z3hFSlIzN2p1a2lMMmZqQUpmS1l3dkJxb1d2NVRTRmFzLXlMcFpsdUhqaFRKRUZQQ0J6Z3Bn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1cc8d6279f4a",
+      "title": "Certain Hospital Infections Show Markedly Lower Survival - EMJ",
+      "published": "2026-05-21T21:29:23+00:00",
+      "summary": "Certain Hospital Infections Show Markedly Lower Survival&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU1VclYwb1pQMURtdWZSOGdCYnJHczRadnJpeTVWM0hmU2k0TXNZQmFpekJnc1Nhc0w2OC1nMzNvcUVBQXlDdHJiZ3A1X3ZNVHIwNkRYak40SGF4QmhRYThDZGRQc0c0dzJZUGJfY21Ib3J6cDZvamxhb05paWFyUkQ2Y3A0S25xZzJZREFjaHRJSVV3Zm5jRm5KaGp4SjlJNUpkWHhQVlkyRm9FYW9EMlJKSzVPeHg5ZFAxUDJ3Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a5197155e81",
+      "title": "UPDATE 2-As Ebola cases rise, Americans returning from DRC must enter US via Washington airport - Devdiscourse",
+      "published": "2026-05-21T21:25:21+00:00",
+      "summary": "UPDATE 2-As Ebola cases rise, Americans returning from DRC must enter US via Washington airport&nbsp;&nbsp;DevdiscourseU.S. STATE DEPARTMENT SAYS AMERICANS WHO HAVE BEEN PRESENT IN DEMOCRATIC REPUBLIC OF THE CONGO, UGANDA, OR SOUTH SUDAN WITHIN LAST 21 DAYS MUST ONLY ENTER UNITED STATES THROUGH WASHINGTON DULLES&nbsp;&nbsp;news.cgtn.comUS doctor who contracted Ebola in DRC flown to Germany for treatment&nbsp;&nbsp;The GuardianEbola Alert: US Patient's Family Admitted To Berlin Isolation Ward&nbs",
+      "sources": [
+        {
+          "name": "Devdiscourse",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR3hRQmVObWNDcW0tQzA3RVQ4UW5BajNsejJfclRQWnJGOFNucEYxSUxBWHR3X1JwYW1iMG5RNzEwWS1IdnJJWWFKRDBoNVJ3NDZ6Nm1NR0tLZkNwNWxFN0U0eGF6XzdlYXlxU3pBRVhlZldDZmR2cWpiTzI1cUJxekZ3djlsdW45MV82SEFnelVWaHk5TjVHMmVjQWhZazVzTXZFWDJjQnJ6YzlYUndzU2pxSnF5dE5zbFF4WHZxTFhpdFJaUEtiMFNlVUNyRXptWVJEaktkZDNRdFFRWFF5MmR30gHnAUFVX3lxTE1IMk1CelRGaGlOOS0zdHo2MzI1OTJFMWdMOXNTbmNVR2plVGJwSllSUzJtZVZSNFc3c2tUQjI5VkpLcTdEOU9xLWNfLUppdjl4ZTcwcTRKV1N5M29FUXI2SWlHY3REWUdlcFEtZk8xZ2NWQ0RVUE5WTUpSUlZXSkt2RnAzclFtNkVQRWNKUXNFOTRQb0xEWFRlUFVkal9lWDlzM3dHNmpxdU1lQ2d6Z0s2SXpsOEdLVklIaEg1WWQzTzR5alBhM2VQU0otSlRTNmp1dFAzQUpvQS1scktmbkJSMGxNSFd6OA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b3c95bf7cb4a",
+      "title": "Gavi statement on the Ebola disease outbreak in Democratic Republic of the Congo and Uganda - Gavi, the Vaccine Alliance",
+      "published": "2026-05-21T20:31:20+00:00",
+      "summary": "Gavi statement on the Ebola disease outbreak in Democratic Republic of the Congo and Uganda&nbsp;&nbsp;Gavi, the Vaccine AllianceEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)Ebola outbreak in DR Congo: WHO says Ebola vaccine could take nine months&nbsp;&nbsp;BBCHow bushmeat, burial rites and disinformation make the DRC an Ebola hotspot",
+      "sources": [
+        {
+          "name": "Gavi, the Vaccine Alliance",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcUFXQlhzRFMwbHh5OWpsS2ZjSXA2RHJOTHNxRmhKODlhbHpKcHQxXzZTSFBoZjFfazVKX0dRRlJrSGQ5bEdjZHVtaThRbnpISnFRaXdFTGV6dHR5aVluWkh3SUF6X2R4WFlBTXRRTEQ0TE9adHNuTkZaNWw1T1RUbDB6QWhuNGYteTVmMEJ5TFFyUnRGdmRaUi1Jc3EycGNyZDRiVWtJalg3YlRkSFlwRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "992e9f1dcf72",
+      "title": "Dose-dependent doxycycline local drug delivery using T-PRF: preliminary in vitro study - Nature",
+      "published": "2026-05-21T20:16:42+00:00",
+      "summary": "Dose-dependent doxycycline local drug delivery using T-PRF: preliminary in vitro study&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xSElsNGZRTXJOTzZTTFozT1JicXUxbER5dC1CR1lXRUk2b1NOY3NiLXlOTUs4cWI4V2Y2LXdMdWJTVjlVOWVfczdTYzg4REJ4LUw4aGkzemtMWC15Q3JZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3921bae7ef77",
+      "title": "Onset seasonality controls compound streamflow drought risk at a global scale - Nature",
+      "published": "2026-05-21T19:52:30+00:00",
+      "summary": "Onset seasonality controls compound streamflow drought risk at a global scale&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44eEpsR3djMC16ZDE1SHNwUDNOWTJlVV90cW1nR1FXRDEzTm81Rm9LdHVFOVJ0NUdwODZqTzFiTmhFZGpWVjZuejZmM1l3M3ZBdWN5S09fNTF4Q2ZPTXZZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a9cdfcb9b711",
+      "title": "Plant-Forward Diets May Help With Menopause Weight Gain - Healthline",
+      "published": "2026-05-21T19:02:19+00:00",
+      "summary": "Plant-Forward Diets May Help With Menopause Weight Gain&nbsp;&nbsp;Healthline7 foods to avoid and eat during menopause, according to a dietician&nbsp;&nbsp;The Times of IndiaOPINION | SA women over 40 are dieting harder than ever – so why isn’t it working?&nbsp;&nbsp;The CitizenThe #1 Diet to Manage Menopausal Weight Gain, According to Science&nbsp;&nbsp;EatingWell2 diets found to prevent menopause weight gain — and you don’t have to give up carbs&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "Healthline",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXdrZE0yZDJkU2NTRmI2UjROLUI1RjFPcERyQm1sM3JBejFHY2Npa0pqaDNLRVNiRDBTV0doWFdlVDBhczFsTXYzMEI5dlU5RVRTSHR6OUZOUzQwN21acmIwZEsxVjllLVNmcFBic0NwZG9iOUtWUVJzMWlqUFFzTjNyajZhVE8yaHhlLVVldw?oc=5"
+        }
+      ]
+    },
     {
       "id": "44b0ef46cf21",
       "title": "New artificial intelligence model maps how genes work together inside cells - News-Medical",
@@ -18,14 +138,50 @@
       ]
     },
     {
-      "id": "d514e5971a84",
-      "title": "WHO declares Public Health Emergency over Ebola outbreak in Congo and Uganda - Newsonair",
-      "published": "2026-05-21T16:47:29+00:00",
-      "summary": "WHO declares Public Health Emergency over Ebola outbreak in Congo and Uganda&nbsp;&nbsp;NewsonairEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)Ebola outbreak in DR Congo: WHO says Ebola vaccine could take nine months&nbsp;&nbsp;BBCEbola case confirmed in rebel-held Congo area far from outbreak’s epicentre&nbsp;&nbsp;The HinduUS is ‘simp",
+      "id": "fa9d6bbb0591",
+      "title": "Scientists Discover New Fuel-Saving Route to the Moon - Gadgets 360",
+      "published": "2026-05-21T16:33:35+00:00",
+      "summary": "Scientists Discover New Fuel-Saving Route to the Moon&nbsp;&nbsp;Gadgets 360Scientists find a hidden route to the moon that saves fuel&nbsp;&nbsp;SpaceScientists find new lunar route saving 58.8 meters per 2nd&nbsp;&nbsp;NewsBytesScientists may have found a hidden shortcut to moon that could cut spacecraft fuel costs&nbsp;&nbsp;The Indian ExpressScientists discover SHORTCUT to the Moon in breakthrough for space exploration&nbsp;&nbsp;GB News",
       "sources": [
         {
-          "name": "Newsonair",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0pVVE0tSWdCbktSSWpGeEpwLWowQ0lUZUszYUR2MVhvMVdRYngzYVZWM0p4LUJON08xZTF4eWFwNEJWbWRGRklrU3QxM2paQU1YbXVnQThvczEyMGU0OEg1S2Y1UE5sQkZWUU5Uell0bnZ3V3FKWFBvb0UwNVI5a2xSelNQZ19Ja0k0VlF4MlhrV1BWVEE1NXZic2V4dTVUcHA5WThIaWktQQ?oc=5"
+          "name": "Gadgets 360",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmc1aHV5SHotYVpBN1dCQXRGMjJXSFNwUDltZ0VBWDJXTTBwanQ3dnNoamRoYXdWb1lWVFZjME9mMEdVaXotbl9GaHZrMTdDYWxwdHZJdlEwRk5uR2FTR1lRb20yb1R0bmxSbkpPaFRlekxReGhWVUx2MXpIWC10cWNHa0ZGZWVLdGNjVEEzQm9EWXBRSjdsYmprZ21FN3ltck92N9IBqgFBVV95cUxNZnB2eEVjLUVCS1UtOWRuS25wQnRMZ2p5NzNLRnlsSFZRSVNWa0FvWXN3S244cTRHWjlVcVI1dHRwQThEVGZJd05ZeGQ3TGllYlRMMnAyQWl0WkFCdER2RGEyV09LSzFvUGFaWF9BQTFEdnFkVi12cEJVU3RBOTV1YXRVNC1oWTVlQlEtX3NaRzltcXM3OXhGREQ4UXZ4d2s3V1JyZjBYNzBFQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02c49557455e",
+      "title": "Australia unveils major package to tackle serious diphtheria outbreak - tennews.in",
+      "published": "2026-05-21T16:13:13+00:00",
+      "summary": "Australia unveils major package to tackle serious diphtheria outbreak&nbsp;&nbsp;tennews.inAustralia faces 'biggest diphtheria outbreak' in decades: What is this disease like? Transmission, early signs, prevention, and more&nbsp;&nbsp;The Times of IndiaWidespread infectious disease outbreak labelled public health 'failure'&nbsp;&nbsp;Australian Broadcasting CorporationAustralians urged to check diphtheria vaccination status as cases rise nationwide&nbsp;&nbsp;retailpharmacymagazine.com.auNSW Hea",
+      "sources": [
+        {
+          "name": "tennews.in",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYllGaUNFelhTTGh6RU9KNE1LWDJXRG5Gd0hfbzNfZU1UTDVjTEViVGtJb0c4WlJXRS1JXzJ5NFRzaFNIUVBsbnJaYzBNV0JiWTBlQ2tsUVpXUjlPXzl2cDRnNHdRU2MwUF9IOS16SGNycFBYZUh0cHNwb1N4M3RQMWZwM3JtUVV2V0lJalQ3dDZoVkU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "320ffe88845a",
+      "title": "Human right-handedness linked to walking on two legs and brain evolution, scientists say - Travel Tomorrow",
+      "published": "2026-05-21T15:53:06+00:00",
+      "summary": "Human right-handedness linked to walking on two legs and brain evolution, scientists say&nbsp;&nbsp;Travel TomorrowTwo Ancient Clues May Finally Explain Why 90% of Us Are Right-Handed&nbsp;&nbsp;ScienceAlertNew Study Reveals Why Majority Of People Are Right-Handed&nbsp;&nbsp;NDTVScientists think they’ve cracked the mystery of human right-handedness&nbsp;&nbsp;ScienceDailyWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular Science",
+      "sources": [
+        {
+          "name": "Travel Tomorrow",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkRPa1JPSElnUmFGdjBYWmtnQVJmNVI4Nng0SjJDdno1TEpLLWc5YTNqNnY4RTJ6X19WWEt6WXF2NE90bkxYMldfb3lmNzFTYWZ0X0xzQUpwY2p0OERkUG9HWkFMWF9scy11OW1xTFNEZHNEUzBIMUF4WDZueDhxWXhNT012REdMWFY5VVA0OHlGbGVKLTBlSEd6WkozTm5TYnIyQy1yVm5TUnRDd2NRR19OT0NKQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3868145c5e1b",
+      "title": "From PCOS to PMOS: Bengaluru doctors say new term will improve diagnosis and treatment - The Times of India",
+      "published": "2026-05-21T15:48:00+00:00",
+      "summary": "From PCOS to PMOS: Bengaluru doctors say new term will improve diagnosis and treatment&nbsp;&nbsp;The Times of Indiahealth matters newsletter: What’s in a name, and other health questions&nbsp;&nbsp;The HinduA Gyneac Explains Why PCOS Was Renamed And What It Means For Women&nbsp;&nbsp;The Better IndiaI’m a gynaecologist — will changing PCOS to PMOS actually make a difference?&nbsp;&nbsp;India TodayIndian researchers challenge PCOS renaming, call it ‘Western-centric’&nbsp;&nbsp;Rising Kashmir",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMy11bUpEdlM1ZjJJMUZPcG9WcU40eThyT3NOaWhlbVExYVEwYThBRkVBVDJ4VkUwX3pCVDFuWmdVa3pyQWhWTUdTRk42MlMxUzRoVGRnMzE4a0g5V3l2dlRMSHRzbWZlRTVGSmpvbGFuOURKc3kwRVR1OW1mNi1WRmdXVi1mdkpHZU5WZTdVN1FJN19mcVBhNEZLc21udHczYmJyV0FkSkR5ZVRKVlNOUXJsTm1obU5zT2JHRUNPNGVyOGlyUGh3UDBZUDhNbEVsSTJSdG9pVW52QnVqbjk4eFFyY2x3RkdoR2d4S2l2Q1F4U3Nm0gH6AUFVX3lxTE53Yk1waDQ3NU9ZNm5ra2tCNnBNZE5xMU1rZUhER3lyT1UxV19zUk81SW0tYllsR3dMblBQSXFfN1lGSEphbnRHVnFQZ01IOGtCUFZvUk5qWldzOTFHc3hGaFBaQlI3UHZYazBqWTR2cjJhcXlzWGo2cERkS2x3VmhPZnNLSHVyaGlsOHkyN2RZVU8wcGYwRzVJR29DdVdMUk8zSXgwSTh3YzNTeGRHdnB3MkwwUk90WjU3YVlvUjV3aFFLSXFpWjlGVmg3M0tFbE5obWlKMzl5YjJfUEZEMnVZWGFzWm9PVTBRNjZQOVJGZzhCQzdWX2ZkTXc?oc=5"
         }
       ]
     },
@@ -42,38 +198,14 @@
       ]
     },
     {
-      "id": "320ffe88845a",
-      "title": "Human right-handedness linked to walking on two legs and brain evolution, scientists say - Travel Tomorrow",
-      "published": "2026-05-21T15:23:16+00:00",
-      "summary": "Human right-handedness linked to walking on two legs and brain evolution, scientists say&nbsp;&nbsp;Travel TomorrowNew Study Reveals Why Majority Of People Are Right-Handed&nbsp;&nbsp;NDTVScientists just cracked a mystery that's puzzled researchers for centuries; why are 90% of humans right-ha&nbsp;&nbsp;The Economic TimesWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular ScienceScientists think they’ve cracked the mystery of human right-handedness&nbsp;&nbsp;ScienceDaily",
+      "id": "b93cfc8ff403",
+      "title": "Hantavirus, ebola outbreaks proof world isn’t yet prepared to protect all 8 bn people: WHO’s Helen Clark - Firstpost",
+      "published": "2026-05-21T10:53:03+00:00",
+      "summary": "Hantavirus, ebola outbreaks proof world isn’t yet prepared to protect all 8 bn people: WHO’s Helen Clark&nbsp;&nbsp;FirstpostEbola, Hantavirus Show World's Risk Preparedness Lagging: Pandemic Expert&nbsp;&nbsp;NDTVThe Ebola and hantavirus outbreaks warn us we must be better prepared if we are to prevent the next pandemic&nbsp;&nbsp;The GuardianGlobal Preparedness Monitoring Board (GPMB) Report 2025: The New Face of Pandemic Preparedness&nbsp;&nbsp;ReliefWebBehind the Mission to Stop Viral Outbre",
       "sources": [
         {
-          "name": "Travel Tomorrow",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkRPa1JPSElnUmFGdjBYWmtnQVJmNVI4Nng0SjJDdno1TEpLLWc5YTNqNnY4RTJ6X19WWEt6WXF2NE90bkxYMldfb3lmNzFTYWZ0X0xzQUpwY2p0OERkUG9HWkFMWF9scy11OW1xTFNEZHNEUzBIMUF4WDZueDhxWXhNT012REdMWFY5VVA0OHlGbGVKLTBlSEd6WkozTm5TYnIyQy1yVm5TUnRDd2NRR19OT0NKQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f78ae1db739",
-      "title": "Are ‘AI co-scientist’ tools actually useful for scientists? - statnews.com",
-      "published": "2026-05-21T14:33:36+00:00",
-      "summary": "Are ‘AI co-scientist’ tools actually useful for scientists?&nbsp;&nbsp;statnews.comScientists Warn AI Slop Is Wreaking Havoc in the Research World&nbsp;&nbsp;CNETAI-generated research papers are overwhelming peer review&nbsp;&nbsp;theverge.comAI is fabricating citations in biomedical studies, researchers find&nbsp;&nbsp;CBS NewsNew ‘AI scientists’ are improving – but reveal their fundamental limits&nbsp;&nbsp;The Conversation",
-      "sources": [
-        {
-          "name": "statnews.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXBqUjBrUWR4ZEpBdU1UNHltRklfdTZkbXBzeG9XUHJSeUJqYThtai01OGNxckd5V18tY2hSSHpKdGo4bGlWUzFrZTl5eThmWVFkV0F3NnRmNDNTNWlGU3lfdjJOQmVmVkJkUEZWTVlEalp3bmZsQzZZV1NlcEZ4em9pUlhvWUIwMjFfQ2dwY21kQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ebfecaad2378",
-      "title": "How bioluminescent fungi reveal pathways for advanced biotech, medical applications - Medical Buyer",
-      "published": "2026-05-21T10:45:02+00:00",
-      "summary": "How bioluminescent fungi reveal pathways for advanced biotech, medical applications&nbsp;&nbsp;Medical Buyer",
-      "sources": [
-        {
-          "name": "Medical Buyer",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkJmLTdtTmJtdEZDTEZ5eC14d0xaVVBYSFlYS2N1bVNfTTMyX1U3cUpoTE1VcVg4blNSR1dyQXFETFI1ZlNiYmZaMUpodmZTYkhIV2dDblkwV0J4a0xidjhqX3g1eEJLaXd3ZWJfejZTcDFwNGwzSk42aGxmV01oSkQ1a296WlBJdUc1UHB6MXlMS1VFXzhFTFRSRmo2NExJMWRYcE5DdzZpREFmMWkw?oc=5"
+          "name": "Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb3BLanhaek8xWUZhaEJNZ0VmTmdnci1MUm1BRGxDVnhuVElrNFRrUjFFTHZXT2d5MDBSUzl4TFFIdFFPZ3Rub21MQWtfYUkzNUl4VUpab0NjcTJiSEZ6ZjZfaDh4UDJsb2dSbC0yUmwwSmY5MmRPMlRBckNLaVQ4dUhHcENqZk9rd3hDLWI0c2ctbmtNVGpIc0g4VDBHckdTYlBfV1NoUGpTNHNrVTVMT1VrZjNpUdIBuwFBVV95cUxPb3JJX3FyVThWWFVXZkdKemJvNTBCc2hPNmJsaW5SajFHNzFKaklHanU1bWltcko4Y3dmcmRrT3JqbnpiUVJCUW96ZGhzV0JCZnJ3bkQ3NnBpVFhmMmtHRE96MmdiX2t4bW94NDZ3VmlMQjFoWWxRUjY3V0RfOXl6WXRIRHJ6OWprUnJvMEhmejFFSGxBRUlSYXlKX0dndU9MaThBY0RtelhTRlhtbURydjNfQVdlNUNIbUVV?oc=5"
         }
       ]
     },
@@ -81,7 +213,7 @@
       "id": "4cfd70239605",
       "title": "NASA astronauts study cancer and cartilage treatments aboard the ISS as spacewalks near - The Times of India",
       "published": "2026-05-21T10:36:00+00:00",
-      "summary": "NASA astronauts study cancer and cartilage treatments aboard the ISS as spacewalks near&nbsp;&nbsp;The Times of IndiaNASA Astronauts Study Cancer and Cartilage Research on ISS&nbsp;&nbsp;GK TodayCrew Conducting Advanced Health Research and More Spacewalk Preps&nbsp;&nbsp;NASA (.gov)From Lab to Life: Cancer Breakthroughs in Space&nbsp;&nbsp;The Times of IsraelInternational Space Station crew works towards the development of advanced treatments for Earth ailments and space-caused conditions&nbsp;&",
+      "summary": "NASA astronauts study cancer and cartilage treatments aboard the ISS as spacewalks near&nbsp;&nbsp;The Times of IndiaCrew Conducting Advanced Health Research and More Spacewalk Preps&nbsp;&nbsp;NASA (.gov)ISS National Lab Provides Fresh Lens on Aging and Health, Sparking Space Medicine Programs Nationwide&nbsp;&nbsp;Aerospace AmericaNASA Astronauts Study Cancer and Cartilage Research on ISS&nbsp;&nbsp;GK TodayFrom Lab to Life: Cancer Breakthroughs in Space&nbsp;&nbsp;The Times of Israel",
       "sources": [
         {
           "name": "The Times of India",
@@ -90,14 +222,14 @@
       ]
     },
     {
-      "id": "4e4bcb301840",
-      "title": "Bangladesh: Yunus govt repeatedly ignored warnings on measles vaccine shortage - tennews.in",
-      "published": "2026-05-21T10:16:25+00:00",
-      "summary": "Bangladesh: Yunus govt repeatedly ignored warnings on measles vaccine shortage&nbsp;&nbsp;tennews.inSee more headlines and perspectives on Google News",
+      "id": "f8e67cba28de",
+      "title": "Bangladesh: Yunus govt repeatedly ignored warnings on measles vaccine shortage - Telangana Today",
+      "published": "2026-05-21T10:08:12+00:00",
+      "summary": "Bangladesh: Yunus govt repeatedly ignored warnings on measles vaccine shortage&nbsp;&nbsp;Telangana TodayICCG SitRep Bangladesh: Measles Outbreak #4 (21 May 2026)&nbsp;&nbsp;ReliefWebVax crisis inherited, had no measles shots in stock when we took office: BNP govt&nbsp;&nbsp;The Times of IndiaNo specific discussion on measles vaccine shortage at Unicef briefing: Dr Sayedur&nbsp;&nbsp;The Business Standard7 more die with measles, symptoms in 24 hours&nbsp;&nbsp;Jagonews24.com",
       "sources": [
         {
-          "name": "tennews.in",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWMtWkJfZzBXaXVTYU1lbHNQek81ZUtPYzJDYkRfSnE4Y1FrT2ZLZ20tenNpNVhJUjZjdXl5UThiU0VCMHRjTlI3TjhXTzA1SkFXSjBKWDRPc0hnR0YteFNyN2FHOTJiRjZlS1RIS2RNVWZUWElZeVhBbk5IdEd3eGN1QzRlbFBQYXZGTUxRbUMyMzNkaDkzYUlVWU4zdw?oc=5"
+          "name": "Telangana Today",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaEhEenZFc3FMdUYtUzNSR0JxU1ZnbXZRSDBWYWJQTWhScVZjc0pSTWRFT3lzNnFBRzlaVjhnRDEtOWtaUlNTRVVZQ25BMjN5OTBUVV9xNEw1TFBsLVgwb1hsY20zaDZZbmtjX19nN1pLZDN1T0RWZXlNekUyT3pzUno5MWZLelpoNVVGeTgyNVdlbzhvYVp6c0FLOGJBTGRVUnRZM2VTaw?oc=5"
         }
       ]
     },
@@ -105,7 +237,7 @@
       "id": "fa695129f0ed",
       "title": "Dengue cases rise across Sri Lanka amid mosquito breeding concerns - Newsonair",
       "published": "2026-05-21T10:05:54+00:00",
-      "summary": "Dengue cases rise across Sri Lanka amid mosquito breeding concerns&nbsp;&nbsp;NewsonairOver 29,000 dengue cases reported in 2026&nbsp;&nbsp;NewswireLocal new&nbsp;&nbsp;Ada DeranaRains revive dengue, malaria and filariasis outbreaks&nbsp;&nbsp;The Sunday Times, Sri LankaSri Lanka dengue outbreak nears 30,000 cases&nbsp;&nbsp;Outbreak News Today",
+      "summary": "Dengue cases rise across Sri Lanka amid mosquito breeding concerns&nbsp;&nbsp;Newsonair",
       "sources": [
         {
           "name": "Newsonair",
@@ -126,18 +258,6 @@
       ]
     },
     {
-      "id": "97ecec2190de",
-      "title": "NASA: China Likely To Send Crewed Mission Around Moon In 2027 - Aviation Week",
-      "published": "2026-05-21T09:35:33+00:00",
-      "summary": "NASA: China Likely To Send Crewed Mission Around Moon In 2027&nbsp;&nbsp;Aviation WeekIsaacman expects Chinese crewed mission around the moon in 2027&nbsp;&nbsp;SpaceNewsNASA Administrator Calls on Space Industry to Move with Urgency&nbsp;&nbsp;Aerospace AmericaNASA's 2028 moon base at risk as China 'two steps' ahead of US in space race&nbsp;&nbsp;The Mirror USTrump and Xi both want to land on the Moon first. Who will win the race?&nbsp;&nbsp;India Today",
-      "sources": [
-        {
-          "name": "Aviation Week",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPREZJRTlkZllxc3lVWnUwOE1ockpsaFA0Y1NGYmp2TlN5aWR4MVpIS0V2ZjJhOFVfTDFDaDFVelNYc1VaeG1fT1NuMW1rdWRjRnB5Nk90OVFxaUEtdVpYc1NyaTNNWGFkTUtiMFhwT25QVlhrRjdXNGZySHlTQ1VBV3hNSlVUQzhlb1Z0Undwa09uMy1MMHFXTmN6cFBfT2dFdzJWMHZ3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "649d53f60a8b",
       "title": "Frontiers in Science: How AI could help scientists secure soil—a vital global resource - Frontiers",
       "published": "2026-05-21T09:30:19+00:00",
@@ -152,8 +272,8 @@
     {
       "id": "816516f4e539",
       "title": "Covid-19 cases in Singapore rise to 12,700; CDA monitoring increase in infections - The Straits Times",
-      "published": "2026-05-21T08:50:32+00:00",
-      "summary": "Covid-19 cases in Singapore rise to 12,700; CDA monitoring increase in infections&nbsp;&nbsp;The Straits TimesSingapore monitoring rise in COVID-19 infections; current vaccine still effective for protection&nbsp;&nbsp;CNASingapore reports nearly 60 per cent surge in weekly new Covid cases&nbsp;&nbsp;The TribuneSingapore Covid-19 cases rise to 12,700 as CDA monitors new infection wave&nbsp;&nbsp;The Online CitizenCDA monitoring rise in Covid-19 cases, says periodic waves expected throughout the y",
+      "published": "2026-05-21T08:52:15+00:00",
+      "summary": "Covid-19 cases in Singapore rise to 12,700; CDA monitoring increase in infections&nbsp;&nbsp;The Straits TimesSingapore monitoring rise in COVID-19 infections; current vaccine still effective for protection&nbsp;&nbsp;CNASingapore reports nearly 60 per cent surge in weekly new Covid cases&nbsp;&nbsp;The TribuneCDA monitoring rise in Covid-19 cases, says periodic waves expected throughout the year, Singapore News&nbsp;&nbsp;AsiaOneSingapore Covid-19 cases rise to 12,700 as CDA monitors new infect",
       "sources": [
         {
           "name": "The Straits Times",
@@ -174,14 +294,26 @@
       ]
     },
     {
-      "id": "5ae0b97ae91f",
-      "title": "Quicker decision-making linked with better quality of decisions, study finds - Press Trust of India",
+      "id": "8ef3d81e9524",
+      "title": "Quicker decision-making linked with better quality of decisions, study finds - Press Trust Of India",
       "published": "2026-05-21T06:23:53+00:00",
-      "summary": "Quicker decision-making linked with better quality of decisions, study finds&nbsp;&nbsp;Press Trust of IndiaThinking Longer Leads to Worse Decisions&nbsp;&nbsp;Neuroscience NewsQuicker decision-making linked with better quality of decisions: Study&nbsp;&nbsp;The TribuneA Study of 215,000 Chess Moves Reveals When Intuition Beats Slow Thinking&nbsp;&nbsp;ZME Science",
+      "summary": "Quicker decision-making linked with better quality of decisions, study finds&nbsp;&nbsp;Press Trust Of IndiaThinking Longer Leads to Worse Decisions&nbsp;&nbsp;Neuroscience NewsQuicker decision-making linked with better quality of decisions: Study&nbsp;&nbsp;The TribuneA Study of 215,000 Chess Moves Reveals When Intuition Beats Slow Thinking&nbsp;&nbsp;ZME Science",
       "sources": [
         {
-          "name": "Press Trust of India",
+          "name": "Press Trust Of India",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnhJUUk5NnhuQ1pjYlBnanNkRXBWN1oxd3BYczYyVFdadFBUdWlyWVhWUHdoQzIxS3M2R1F5YkRUaGxtZU9tY1BsQVQ4eUNOWi00c0RIV0c3Y3JQTmxFVHE2c3lJVm5tNGhVbHY1VEg5WUk2bUNVYmlLbzJwY0FURU1JUHpxRmF0SFN2Q2NSV2lmU1h1VVpnZUpvdzRCTHlPYTVXd0ZzRzM0MXZWSUt5SDBVQTBodUpBU0dXVDFLMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "693fb4fe49c1",
+      "title": "Bioluminescent fungi reveal pathways for advanced biotechnology and medical applications - News-Medical",
+      "published": "2026-05-21T05:31:00+00:00",
+      "summary": "Bioluminescent fungi reveal pathways for advanced biotechnology and medical applications&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY3lKYTZySkllTDQ2M3VUc0YzU1ZVS2JmLTdrZVA5ekRRT2ozN3lLZ3hfOW9sMExza3FsTHc4bVlFZE5DTXNqLVJITDlPYUFHVXFoR3VPV0Q4dmVWNlk5RXJEc1plT0drRzA3ZkV2bl9ROEh3dDNNdzNndVhBMEhYTldRSHZTUm9vZ19OV2I2UEdaX01MNUtJQVJvcVc3Ni1jVDZJc19iUHpFbEZmdFBZdlF4VGd4ZEV5RVNqc3JGWHcwMk1CeUl2bFkxdFZsaUF6Q1E?oc=5"
         }
       ]
     },
@@ -198,10 +330,22 @@
       ]
     },
     {
+      "id": "036d2e391736",
+      "title": "Crazy Organic Chemicals From Mars - American Council on Science and Health",
+      "published": "2026-05-21T04:00:00+00:00",
+      "summary": "Crazy Organic Chemicals From Mars&nbsp;&nbsp;American Council on Science and HealthA clay-bearing unit on Mars&nbsp;&nbsp;The Planetary SocietyWere Martian tides strong enough to shape its ancient landscape?&nbsp;&nbsp;Phys.orgChilling 'spiderwebs on Mars' hold the key to ancient alien life, NASA scientists believe&nbsp;&nbsp;Daily ExpressMary Anning drill holes&nbsp;&nbsp;The Planetary Society",
+      "sources": [
+        {
+          "name": "American Council on Science and Health",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHc3Nha2h5TERiTlNTM1FuOUFRUVlHWDg0TXhHaWo0NHBHTFZIRzV1QW1YcW1MSHA2dHpPXzFVYnZaNGgwQzYyTEdkMThEQWNJT0JGbGszalVaT3BvSlVlbkY0TWVxbF83SUdYYmpzMkY3NUZZdWlVWTBfcw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b1980c29c6bc",
       "title": "New recyclable resin could enable sustainable 3D printing, researchers report - Asia Research News |",
       "published": "2026-05-21T03:21:56+00:00",
-      "summary": "New recyclable resin could enable sustainable 3D printing, researchers report&nbsp;&nbsp;Asia Research News |Recyclable resin enables high-precision 3D printing and reuse across 10 cycles&nbsp;&nbsp;Tech XploreA New Recyclable Resin Could Create Sustainable 3D Printing&nbsp;&nbsp;Tomorrow's World TodayNew erase-and-reprint resin survives 10 cycles of high-precision 3D printing&nbsp;&nbsp;Interesting Engineering",
+      "summary": "New recyclable resin could enable sustainable 3D printing, researchers report&nbsp;&nbsp;Asia Research News |Recyclable resin enables high-precision 3D printing and reuse across 10 cycles&nbsp;&nbsp;Tech XploreA New Recyclable Resin Could Create Sustainable 3D Printing&nbsp;&nbsp;Tomorrow's World TodayNew recyclable resin enables repeated high-precision 3D printing&nbsp;&nbsp;Interesting Engineering",
       "sources": [
         {
           "name": "Asia Research News |",
@@ -210,38 +354,14 @@
       ]
     },
     {
-      "id": "3921bae7ef77",
-      "title": "Onset seasonality controls compound streamflow drought risk at a global scale - Nature",
-      "published": "2026-05-21T02:48:45+00:00",
-      "summary": "Onset seasonality controls compound streamflow drought risk at a global scale&nbsp;&nbsp;Nature",
+      "id": "5e1b22ca95a4",
+      "title": "Brain cell division errors may drive cancer and developmental disorders - News-Medical",
+      "published": "2026-05-21T02:55:00+00:00",
+      "summary": "Brain cell division errors may drive cancer and developmental disorders&nbsp;&nbsp;News-MedicalDiscovery shows how cancer takes hold as cells divide&nbsp;&nbsp;EurekAlert!New Discovery Reveals How Cancer Progresses During Cell Division&nbsp;&nbsp;Bioengineer.orgUVA Health researchers study how cell division effects developing brains&nbsp;&nbsp;WVIRResearchers learn more about cell division during brain development&nbsp;&nbsp;cbs19news.com",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44eEpsR3djMC16ZDE1SHNwUDNOWTJlVV90cW1nR1FXRDEzTm81Rm9LdHVFOVJ0NUdwODZqTzFiTmhFZGpWVjZuejZmM1l3M3ZBdWN5S09fNTF4Q2ZPTXZZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a55cec873a82",
-      "title": "Diabetes timeline: What happens inside the body in the first 10 years after diagnosis - The Indian Express",
-      "published": "2026-05-21T00:30:06+00:00",
-      "summary": "Diabetes timeline: What happens inside the body in the first 10 years after diagnosis&nbsp;&nbsp;The Indian ExpressType 2 diabetes is a ticking time bomb in the Jewish community&nbsp;&nbsp;Jewish News8 Signs You Might Be Diabetic&nbsp;&nbsp;NDTVType 2 diabetes: Symptoms, causes, and what science has to say&nbsp;&nbsp;The Times of India",
-      "sources": [
-        {
-          "name": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFBsSnJjNHRBTjhTbWVhOGN0T05mNUI3X29ILTZfSDNOaF9YSzdwVGVBa0lNS0VDeEZ3cHlLTkg3Z2xwLWlYeUpISFgzSGhHVmJVQlkxdFdPLXVCcC1zQ1JqT0d2TUZYbkVadU1SX3p5cl9pSFhnVTgxczg0alA0bUJKSlNYVzhpV0xCLW45QWs1UVJEbVVCa3cyaXlwR1FDQWl2c0ZvQmJLTFpjVHNFZzRqa29QdTkwTmdnZDJEMNIBxgFBVV95cUxNWmNSM3h3bS02c2RwMUxFQUxMVU5FWmZ3SE1VZ1E1MDhnU0xEaHFSbWZkR2xtQ0g0UFBOQXotRzJ1RkJHZHFBNkFGRV83Z2NqU19SOWdxREt4b0c5emxLcllzb0s5amM4TUdHTm5yZEc2VWtGU2ZySUhOb3V5QXhKM0Y1RnZKa1ZMOGdVSDJqc0Ryd2lMYVkyczRlcml0MDdqTmZPSDFsV2hTZlMwaDlkS01naVAxU2pKRElFRXZFdEY4ZEVYb2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "faf912053de5",
-      "title": "Acetylated mitochondrial MDH2 regulates CTR2 transcription to induce cuproptosis during Escherichia coli infection - Nature",
-      "published": "2026-05-20T23:37:30+00:00",
-      "summary": "Acetylated mitochondrial MDH2 regulates CTR2 transcription to induce cuproptosis during Escherichia coli infection&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94SllkQ2xPTnlOSFlpQjRFalNNVmlMYU55WGRScG1KVzVLNmx6VFphMmd5Zkk4SVI2dVZPZlAwcjQ0ajI1NEVEdXFFX2s5YURHQnEzcHc4bmdnMHNLNk93?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQXzlUdUk3MW1OcDFBaVIyYzFVd0diN0RkbzJlNlY4d19wU1VTejZNQmpUSzBiZ3E5S1pwX0N0RHRvY3B6Uk9QM3ZyTTgwckgybnZKa05TRG84Qkw3dzdRV25BQzA4Y2huX1B1WUY4WndvOTM3VkVfLU1xeDdvcVBjdEl4M0huelZ0ZXBRVGNxZkc2N2NmWGk4WVlTNnpRMGRvdGx4dERETmhEcDNad3NOSGFxcTVrMGktQXNz?oc=5"
         }
       ]
     },
@@ -249,7 +369,7 @@
       "id": "dc0cd1dc6a43",
       "title": "Too little or too much sleep is linked to faster ageing throughout the body - Nature",
       "published": "2026-05-20T20:18:45+00:00",
-      "summary": "Too little or too much sleep is linked to faster ageing throughout the body&nbsp;&nbsp;NatureSleep chart of biological ageing clocks in middle and late life&nbsp;&nbsp;NatureWant to Slow Your Biological Aging? Sleeping 6.4 to 7.8 Hours a Night May Help&nbsp;&nbsp;HealthlineOne daily habit can add extra few years to your life: What is the 7:1 sleep rule and how to follow it?&nbsp;&nbsp;The Economic TimesToo Much and Too Little Sleep Speed Up Aging — New Science Reveals the Hours You Need to Live ",
+      "summary": "Too little or too much sleep is linked to faster ageing throughout the body&nbsp;&nbsp;NatureSleep chart of biological ageing clocks in middle and late life&nbsp;&nbsp;NatureToo Little Sleep—and Too Much—Associated with Faster Aging&nbsp;&nbsp;Columbia University Irving Medical CenterOne daily habit can add extra few years to your life: What is the 7:1 sleep rule and how to follow it?&nbsp;&nbsp;The Economic TimesScientists Uncover Optimal Sleep Duration for Longevity&nbsp;&nbsp;Fitt Insider",
       "sources": [
         {
           "name": "Nature",
@@ -309,7 +429,7 @@
       "id": "e079177affa2",
       "title": "Novel CRISPR Technique Aims to Destroy Virus-Infected Cells - Labroots",
       "published": "2026-05-20T16:43:00+00:00",
-      "summary": "Novel CRISPR Technique Aims to Destroy Virus-Infected Cells&nbsp;&nbsp;LabrootsDNA-guided CRISPR–Cas12 for cellular RNA targeting&nbsp;&nbsp;NatureDNA-Guided CRISPR System Developed&nbsp;&nbsp;Technology NetworksCRISPR-Based System Targets RNA and Kills Cells on Demand&nbsp;&nbsp;Lifespan Research InstituteDNA-guided CRISPR system targets RNA and expands Cas12 beyond gene editing&nbsp;&nbsp;News-Medical",
+      "summary": "Novel CRISPR Technique Aims to Destroy Virus-Infected Cells&nbsp;&nbsp;LabrootsDNA-guided CRISPR–Cas12 for cellular RNA targeting&nbsp;&nbsp;NatureCRISPR-Based System Targets RNA and Kills Cells on Demand&nbsp;&nbsp;Lifespan Research InstituteDNA-guided CRISPR system targets RNA and expands Cas12 beyond gene editing&nbsp;&nbsp;News-MedicalDNA‑Guided CRISPR Suggests a New Direction for RNA Editing&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
       "sources": [
         {
           "name": "Labroots",
@@ -321,7 +441,7 @@
       "id": "16ae91e1d0a0",
       "title": "Why India’s first childhood diabetes guidelines come at a critical time - theweek.in",
       "published": "2026-05-20T15:47:06+00:00",
-      "summary": "Why India’s first childhood diabetes guidelines come at a critical time&nbsp;&nbsp;theweek.inScreening all kids for type 1 diabetes can catch more cases early&nbsp;&nbsp;Science NewsIndia Expands Child Health Screenings To Include Mental Health And Diabetes Risk&nbsp;&nbsp;Her CircleIndia’s New Childhood Diabetes Protection Mission&nbsp;&nbsp;usthadian.com",
+      "summary": "Why India’s first childhood diabetes guidelines come at a critical time&nbsp;&nbsp;theweek.inEarly detection of type 1 diabetes in children is feasible from routine pediatric care&nbsp;&nbsp;Medical XpressIndia Expands Child Health Screenings To Include Mental Health And Diabetes Risk&nbsp;&nbsp;Her CircleIndia’s New Childhood Diabetes Protection Mission&nbsp;&nbsp;usthadian.com",
       "sources": [
         {
           "name": "theweek.in",
@@ -330,14 +450,14 @@
       ]
     },
     {
-      "id": "e229b1959fd1",
-      "title": "Australia Sees ‘Biggest Outbreak Of Diphtheria’: Over 220 Cases Reported - Health and Me",
-      "published": "2026-05-20T15:04:56+00:00",
-      "summary": "Australia Sees ‘Biggest Outbreak Of Diphtheria’: Over 220 Cases Reported&nbsp;&nbsp;Health and MeAustralia faces 'biggest diphtheria outbreak' in decades: What is this disease like? Transmission, early signs, prevention, and more&nbsp;&nbsp;The Times of IndiaWidespread infectious disease outbreak labelled public health 'failure'&nbsp;&nbsp;Australian Broadcasting CorporationAustralians urged to check diphtheria vaccination status as cases rise nationwide&nbsp;&nbsp;retailpharmacymagazine.com.auN",
+      "id": "9d18e506a00e",
+      "title": "Lifestyle coach shares 3 tips for gut health: ‘Most people can do it without a problem at all’ - The Indian Express",
+      "published": "2026-05-20T15:30:04+00:00",
+      "summary": "Lifestyle coach shares 3 tips for gut health: ‘Most people can do it without a problem at all’&nbsp;&nbsp;The Indian ExpressHow often should you go to the toilet? How can you get the better of wind? Experts’ tips for a healthier gut&nbsp;&nbsp;The GuardianHow to improve your gut health: the no-BS guide&nbsp;&nbsp;Glamour UKA Philly Expert Shares 5 Truths About Gut Health That May Surprise You&nbsp;&nbsp;Philadelphia MagazineWorld Digestive Health Day: 10 Daily Habits That Protect Your Gut for Li",
       "sources": [
         {
-          "name": "Health and Me",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUkNrWVlDRU9senZUQUpTNnFpQTdLMm5WWWRwc2NqS19QY2w2WHVIOFB4TGdISUdmQkN6VVBRYnBrRi01ZTZjcjlHV0ZiNU9VNFZvMGMwT1AydWNDX1NuN0U1NUsxN0V2WkRpMUZvMmlpREZsdnphSlozZWlsX1VZSENWTU85NHg2czE2NWFILW9jVmpEY1JYbE1vZC1fdy1wdzNZZ3NpZDlwSVNqTUVNU1YxdVhUbVl3SV84TGtBbGhHeXVFdHc?oc=5"
+          "name": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzFsWXo4NkhqQ3FUaWRxRTl2bXliMFZhT2gzSEh1clJEazNhYk4tN3B5Ri11a0dyaVUwbjRRaldRN2h2SnJIeWpYR1FLS3h3Z25Da25QSkExY3BSWi1UY2s4azZfckpXVU1rOVp6RFN2OHhzNU42aUt5SThUeTZNQ05lQ3FubVVZY1hXRTREQXRVT2tEOWhrTEtPU0dqMzlBaW9FVUhjOVFuT01pWUg40gG2AUFVX3lxTE5ocG9LWUkyQ3RMNlRQWEtPaVBvLXAtc3ZTaXM2V2hFRmM1NVNXSkY2OWRnUk45WUtmbFp4b1BIUEtGckQ2eGN5cHZLV1lVY3JSZzEtS05PUndhV0hWVW9Zc1dueG15N2dmVzVRVDF4cEV3bVIxWlYtZTZEcHY0cFp4RFZBakstcGkwTl9lNFV6QXlhZGJRMVlGLXR0bzU1azlIYzV2U0NqSFZiSFo5Vk5hd0JqRXlB?oc=5"
         }
       ]
     },
@@ -350,6 +470,18 @@
         {
           "name": "EMJ",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzV4a09zZlpRZDVQWkxEbFR3aEM0Y3g4ZXNyTDJ4anFzaHJNU0dLMGtxbTBDbmRSVzItcGYyMV9HR05KNnF5R0dXeGpiV3FNVGdoMjAyN2QwMUZFb25LTUNlOGZnb2gwN050UE94NW1aUjNZbHcwUW5jdzl0R3M0NTNJTDVGUlpTRHkzMERmZm0zRVlTX3VRbzFNM3lVbFVyY2trRmF0RlJEVXJfSTRvS2hB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "605b6e16c2fa",
+      "title": "Diverse AI foundation models transform universal eye care imaging - News-Medical",
+      "published": "2026-05-20T11:23:00+00:00",
+      "summary": "Diverse AI foundation models transform universal eye care imaging&nbsp;&nbsp;News-MedicalAn AI framework for multi-disease detection via retinal imaging&nbsp;&nbsp;NatureAI foundation models offer a new vision for eye care&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT25FMV9xek1odTRzNTBqZG9LVWRBNVNBTUhEQ0pnbDhkbEdKV2ZXVjZwaDFSbkF0ejBqV2NybEY5R1M5YkhYSEZtRkswMmZaWF9kTXAwY2lxSm9EWlJwSnF5MS1rd3NNd3hycXVhanlpbTVrcjNtMG1ncXdSRFltRjZidXJOMEt1eDd3Z0lYdTJMSUF5SFZLR1Y0eE9RYjFwTmZuZ2hYR20xUzFOemE4N0hNVQ?oc=5"
         }
       ]
     },
@@ -398,30 +530,6 @@
         {
           "name": "MSN",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcGhTSENjSDdZMEhOd0p1eC1nUjdhU0dwMmJCd0FJcEJYX1ZGUm5vdUlXWnJYaXFZbml3bjhWbmhIZ1cxcWRGcXc5RFg4R0lzRDZzQk44TnZSbkNJQzk2US1hTEcyNTFFRDl0ZVF4dWxTcF8zUDVVSzk3bUo3Z2EwZUNyTmpyYlJfZVUwb2FlRjY2Y1YtX19UNGN1Qy1VTUMzTExFbTczWEJEaWo5M0dYWnJ0eDMxOFpodG51WFlSdUFUYnpia0ZocHhRMHhMcWdhUWJKenU1NDNNRXV4OWo1eDZEd1VsMjl0ejVqa3ZfcVdmTXpsUzFB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "78bd72b1b989",
-      "title": "ICMR PCOS Task Force raises objection to renaming of PCOS as PMOS - UNITED NEWS OF INDIA",
-      "published": "2026-05-20T08:43:00+00:00",
-      "summary": "ICMR PCOS Task Force raises objection to renaming of PCOS as PMOS&nbsp;&nbsp;UNITED NEWS OF INDIAFrom PCOS to PMOS: Bengaluru doctors say new term will improve diagnosis and treatment&nbsp;&nbsp;The Times of Indiahealth matters newsletter: What’s in a name, and other health questions&nbsp;&nbsp;The HinduPolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyIndian researchers challenge PCOS r",
-      "sources": [
-        {
-          "name": "UNITED NEWS OF INDIA",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMElWZlRfTHdpSC0wdkZvTHV6a0dEeWJWVmoxdl9fQUJFeGdUR1U4UllJWENEMzhOeEVSUUd0SjU5MEM3R2EwZzc2S0NNLUJYU2VQZEZsX0ZfUUtxdl9iVDRSaFVFaFppWUhUd0dIaUc3ai1ZOXNuZTJ6VzhkZGc5dHZhUU5LUEJKZWxaQzhJdmU5Y0JWYllHQ0J3bjd0SFIzV3E1VVk2eUppWGlqeHdYQkIydzY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3fbf9b846a5a",
-      "title": "Ebola, hantavirus outbreaks show world remains unprepared for public health crisis, says pandemic expert - Firstpost",
-      "published": "2026-05-20T06:38:43+00:00",
-      "summary": "Ebola, hantavirus outbreaks show world remains unprepared for public health crisis, says pandemic expert&nbsp;&nbsp;FirstpostThe Ebola and hantavirus outbreaks warn us we must be better prepared if we are to prevent the next pandemic&nbsp;&nbsp;The GuardianEbola, Hantavirus Show World's Risk Preparedness Lagging: Pandemic Expert&nbsp;&nbsp;NDTVWorld Remains Underprepared for Future Pandemics Despite Lessons From COVID-19, WHO Warns&nbsp;&nbsp;Medical DialoguesGlobal Preparedness Monitoring Board",
-      "sources": [
-        {
-          "name": "Firstpost",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU0plbjlmZGtFVFBKODN5d2s4QjgxY09xT2x2WkNZQWZjNUVvLWFIX21VVXk3UDR1Nk5LRjRJeXRLWTlTWk9mT0xmTE9kYjFjODBxUlYtZTNrWmlNOHRaNlRfNGZLZDZNLVEycVBUX21DVHIxUXdyeVNuOTRnU3NBTUxFb2ZVSVN4TGRaTjc1NkZoRkVXNjFfck9IU0NfLWV2TUJZbTdrN3BOelN4ajI3aHJ4SjZfcEFPZWlJb2FZeXIzRGl6V0NZZmttdHprVTlCV3RRVy1reDdKUXRnV2wyZGN30gHnAUFVX3lxTE5JbWk0V0l0dzg1ZHVHc3dYcU5ZZ3pRY3ZQeGFSOEV3R3BmWGN4bXJpaHY5SmFYclppUVE2QWdxWWNLdFhMWGRJeTJiWUVMRmxqMDRFSlo5eS1VYUJ2QUNDdERYTGhMbkRsR3BjSEJ3M29oR0NSWUR1bUFlVjVYNUJoRnZpMC1HbWRJemZEV2dHX1B6TUM3d1FqYzJzdU1aaXVHLUdLd1E3MUNoUDEybEJ2WDQwY1FnR2NLdWlaVGgxWnR5ZHlrNE5XTFVMM1JLTU9oTnQ3S0VHRzZxNUFpSnFGT2tGSHZXOA?oc=5"
         }
       ]
     }
