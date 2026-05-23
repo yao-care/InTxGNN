@@ -1,65 +1,101 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-23T08:00:12.494791+00:00",
-  "count": 16,
+  "fetched_at": "2026-05-23T18:49:33.438895+00:00",
+  "count": 19,
   "news": [
     {
-      "id": "af6149509fe4",
-      "title": "First meeting of the IHR Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda 2026 – Temporary recommendations - World Health Organization (WHO)",
-      "published": "2026-05-22T18:25:05+00:00",
-      "summary": "First meeting of the IHR Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda 2026 – Temporary recommendations&nbsp;&nbsp;World Health Organization (WHO)DRC says Ebola cases reported across several conflict-hit areas&nbsp;&nbsp;BBC‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC&nbsp;&nbsp;The GuardianEbola Outbreak Is Now Third Largest in History. Here’s What to Know.&nbsp;&nbsp;WSJUN ",
-      "sources": [
-        {
-          "name": "World Health Organization (WHO)",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQd3lFdklKeUpqOXFTQUMxeVpBWU5zQzNiZjNCODBGRmZuWHc2cGhLZGpkRUFUeHBsclQxNUM4cF9VdWFLbnRNVzJuUjQwNGxxWXVGdER2NEltWnFLY3ZhN0kwaWZ1SGtzY01WWk9ka0FmaUlsbDkwMU5NZjAyX1lSeDlzRmpDcnd2cE5oX0Jpd1MtcmstVHdHVlVJM1dtTl95MmlnT1Z4TnZsakZUSmhoeFRSTldxQjJtWGpHYU5IMUtNbE1vNG9XZTlZdHEtQmxmRU9LbHNYZEIwaWR4bmtmMlh0S1dXYkJRM08xWG9fcHJidm5pS01hbHc2Nll4QWNWeVg2WS1nMW5BR1ZHNmVrc3c5dmN6RnE3YkZnekZxUG5YYzNXTG5CRnFySTQ5NDJwSHdrRVN6anFhY195OWxOMkptQ2ptWnM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2fce1684b31",
-      "title": "Ugandans rue link to Bundibugyo, the Ebola virus type named after a district of cocoa farmers - Yahoo",
-      "published": "2026-05-23T03:04:00+00:00",
-      "summary": "Ugandans rue link to Bundibugyo, the Ebola virus type named after a district of cocoa farmers&nbsp;&nbsp;YahooSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTBSbW5tTG5iREVzdHM4ZkZ2SGNJelMwTVVaMkwxMjY3Y3hvMW1iU3c0aWhvM3lTZ0ZhTXR4NDNKS2tWUGVKVU1fSVN5NWdQV1QwUmhDeDBBU3JHTWFqWVdMekVoOTlEVmdYd2ZSckpQd1M0ZklTYlVfaHlHZFRudERiQ01kWXZzNzNjaEQ5anFtX1NDRXowWG1R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "662b72026f9d",
-      "title": "AIIMS doctor Dr Neena Malhotra stresses early detection of preeclampsia during pregnancy - Newsonair",
-      "published": "2026-05-22T15:40:08+00:00",
-      "summary": "AIIMS doctor Dr Neena Malhotra stresses early detection of preeclampsia during pregnancy&nbsp;&nbsp;NewsonairHigh Blood Pressure in Pregnancy Still Threatening Mothers, Babies Despite Medical Advances: AIIMS Experts&nbsp;&nbsp;The Times of IndiaPreeclampsia is more dangerous than high blood pressure, can impact kidney, liver and brain, warns Pune...&nbsp;&nbsp;Moneycontrol.comThe pathophysiology of pre-eclampsia&nbsp;&nbsp;NatureThe Dangers of Preeclampsia and How to Prevent It&nbsp;&nbsp;Aspiru",
+      "id": "b9533c888046",
+      "title": "New outbreak of Ebola kills 65 in eastern DR Congo - Newsonair",
+      "published": "2026-05-23T11:40:11+00:00",
+      "summary": "New outbreak of Ebola kills 65 in eastern DR Congo&nbsp;&nbsp;NewsonairEbola Outbreak Is Now Third Largest in History. Here’s What to Know.&nbsp;&nbsp;WSJRed Cross volunteers die from suspected Ebola in DR Congo&nbsp;&nbsp;BBC‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC&nbsp;&nbsp;The GuardianFirst meeting of the IHR Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda 2026 – Tempor",
       "sources": [
         {
           "name": "Newsonair",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRUc1czF5RjhLUnR5TXY0SWxWOHY2aGVhdjRrZ0l4dFliY1ZxRGFYYk4tMXBiZGlBZlUtazd0Wi03WGpXN3NNY0dpYTZmNEo3cEk4TjdOTi0xV0NidFY4REw0X1c3cjUwN01uLXNERlVNN1c1U0s0NUh5NU8zSktoOWo2OGhQZEdwMXh6NjUwVXRlc2NWSDA5RVdpMDEtQzBIQkdldUtLNGZFaUp3VjNvMWRxZTN0Yk5Q?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd19LbTc1WjgzT0s3bGU4U1NEYVhNcmdDU1NidEk3YUNTU0pfbnA4TEUwZlpRVnk4cllhcGdPQlY4N2E3WUY2WUpoRmVfam1HN01NUlA1MkRBZDF2R1dNNndUSUI3Y2NBQ2tsOVhVMHRtR1dnX05Pbl93ME5OQlM4SE5n?oc=5"
         }
       ]
     },
     {
-      "id": "46f57aa54f51",
-      "title": "Health Alert: Worldwide Caution – Updated Public Health Arrival Restrictions and Enhanced Ebola Screening – May 22, 2026 - U.S. Embassy & Consulates in India (.gov)",
-      "published": "2026-05-23T03:02:28+00:00",
-      "summary": "Health Alert: Worldwide Caution – Updated Public Health Arrival Restrictions and Enhanced Ebola Screening – May 22, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in India (.gov)U.S. extends Ebola travel ban to Green Card holders&nbsp;&nbsp;The HinduU.S. Adds Security Measures at Dulles to Receive Citizens Who Have Been in Ebola Outbreak Region&nbsp;&nbsp;The New York TimesEbola Alert: US Patient's Family Admitted To Berlin Isolation Ward&nbsp;&nbsp;NDTVEbola: US ban on travellers from DRC, Uganda or",
+      "id": "bb11e9d495f5",
+      "title": "Measles outbreak spirals in Bangladesh, over 500 suspected and confirmed deaths reported - Telegraph India",
+      "published": "2026-05-23T15:48:52+00:00",
+      "summary": "Measles outbreak spirals in Bangladesh, over 500 suspected and confirmed deaths reported&nbsp;&nbsp;Telegraph IndiaMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraSuspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ThePrintMeasles outbreak in Bangladesh: Suspected cases claim over 400 lives&nbsp;&nbsp;The Indian ExpressVaccination to continue despite campaign ends: Minister&nbsp;&nbsp;Jagonews24.com",
       "sources": [
         {
-          "name": "U.S. Embassy & Consulates in India (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRHVRNGsxMThrS3oyVkxQTXJNakxodTd2WnA1NV9hM2RZTWNwXzJxNEtTanJWc09FUjlnTzlYcjI1aFBSV2lTWEZBb21iRlVTcm5vSXpYaThjOU9xck5OX21UQWNXXzBhRFJ0M2ZrZXJhWVR2WXVJekJuQ3N4dGdEOEFyNHI2eEo1MFlMUG5DcFd0bHRxQUJ6SEpONV9JTTBiNENsZHUtUmx2aEtNMC1qYS10QUI2Y3pQRFR5N1ZrRzFsdlVjaF9VaDNCVXN4b0lGTWZ1b1BHZw?oc=5"
+          "name": "Telegraph India",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGdfWEhhNTBJQnlVRFRSTFhPQkRTa3FKaDh0QkoybG1qb0hnZERKVVFfbnZ4VF9PY1Z5RWQ2eUlqUVZsZnZLNVVYNzRkNW5Qd2V6SGNEY2RsS3YzSXNGV2lxX3BYVUFlYkU1VmVxWTJYZ0V2THVXQW84Y3dSM2MyWDJIakZZajdIU2N5UWVtYm54V2dXUkhOYTRpdjNyb0xYNmhIclQ3enBDZUJ3anpVU3pHSlAyel8xMlVaOUc4bzhJQ0FQTGlZUWpRUlZ2RkNxeHfSAdcBQVVfeXFMTmE3WE51bHMtMDNaR2VUUzRmLXM3dHJaQUdnZFJXRTRDN1hUaENpN3ZKWXM5S2pJSUI5bWlGcVJjOXF5aUI0VF9xN21feHJGcURWYmpCWHNHaGtRRTVfWWRuYWdXcEJRUmVkVm4xUWphRmRsOXh0OG5xal85TVZ1WW53bEEzUEt3YmRuSnAzdnprdDY1a0tuTXhia1gwX0diLU1fQUtxX1NWZWVnbTRyZlJ1czgyT3Vfcm9jZXBnY2VPNklmMVRtUFcyR2RfcktnSURYQXVndUU?oc=5"
         }
       ]
     },
     {
-      "id": "08b7f057b08f",
-      "title": "Updated trends in the global prevalence and burden of mental disorders, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023 - National Institutes of Health (.gov)",
-      "published": "2026-05-22T17:42:37+00:00",
-      "summary": "Updated trends in the global prevalence and burden of mental disorders, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023&nbsp;&nbsp;National Institutes of Health (.gov)Mental disorders leading cause of disability, surpassing cardiovascular disease, cancer: Study&nbsp;&nbsp;The HinduNearly 1.2 billion people worldwide are living with mental disorders. The number has been growing&nbsp;&nbsp;CNNBreaking News, World News and Video from Al Jazeera&nbsp;&nbsp;Al JazeeraIndi",
+      "id": "ff0ccf674346",
+      "title": "Arterial Pressure Linked to Worse Arterial Stiffness in Prediabetes - EMJ",
+      "published": "2026-05-23T15:01:49+00:00",
+      "summary": "Arterial Pressure Linked to Worse Arterial Stiffness in Prediabetes&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "National Institutes of Health (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDMjl6a2hBTl9wdnduV3lQVDNhWENfZGNxRXNueGw4bUJ2VUtzbE5QU0xHNDdGMzBqdXQ3U3ZfVlFScG12dGdrRHhNaHhfVTU5RUVj?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX25vb2RUWGRKdU5XdlZYZjE5RmxENXJFOTZQNTlwYkNrclp3RWc5TUZmdTJHSkRnbmViSjVubEVjWkpwQWw3VWs4NzhhZGQxRS0zMHEydE9YR2ZZc3ljNVBJR3ZRTFJxQmdnZ3FlVS1QWXZjYjhPWEpLbEQyY3VnTHZ3eUxCa0M5RjVZbk5FbU1WaVB3NmRfLTVaZ2w5ZHJOUUJTT0FRY2JocXoyMEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "723b21570679",
+      "title": "High Blood Pressure in Pregnancy Still Threatening Mothers, Babies Despite Medical Advances: AIIMS Expert - The Times of India",
+      "published": "2026-05-22T18:01:00+00:00",
+      "summary": "High Blood Pressure in Pregnancy Still Threatening Mothers, Babies Despite Medical Advances: AIIMS Expert&nbsp;&nbsp;The Times of IndiaAIIMS warns of Preeclampsia danger in pregnancy | Tap to know more | Inshorts&nbsp;&nbsp;InshortsThe pathophysiology of pre-eclampsia&nbsp;&nbsp;NatureANNIE HARMAN: Preeclampsia Awareness Month: The silent emergency in pregnancy&nbsp;&nbsp;southernminn.comThe Dangers of Preeclampsia and How to Prevent It&nbsp;&nbsp;Aspirus Health",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYXFkOXB1NU5XVXpWQVpBdy1XbmRQTTFMVVhDVENNMVBkX2xhREQteHYxOHNQRGxIalQ4QmNJVHpnMjR0Q29yRFBEMFZrbHd0d293Q0pjZ0swTGRuTzdVYXBEVVpDVG9IWW5Qd2M0dW9hWlNLaks4VG1semJQZ0dfeFkzQmt2elpLb3NNZWZPaDlsQTNJUEFPNGV6dzBleVNOQkdPdnNBTWkwQjhhLVUwd0ptMEZvMzNMa0hReDRxS3lySXZLbFc5WmtYRVI3RVVxZkNYM3FNajZYT3k2WnZNN1JIVjhGbjN0Uk1xMW1jelVfQkJOQzlwZ2I5NEplbXFoQ0QyNEc4WFfSAY4CQVVfeXFMTmw0TFJhbVk4dmVRTDlVdC12UDl5LTdENjhBZDFjWlJRYlU4VG83S2J3SjgyVENUX2ZMNVk5SjkwSFRmbFk5TmlFZHpfOXpfTFBqSWhobzQxVUFxVXVLRFkzOFF0SDRLN050Z3hQU05xbFBESWZpV0NUZXA1WXhGTFVnWnM0T25xa24xMW1Ub3pNcWJnMms2ZkpLN2liNmJkS2JJeWJOc1VmZTUwVnVJQnA4bWY1dXlLZGswNTBEYXdVYkdxNUdhaEl6UW02emJLV1AtX3dnQm9YaXdUSmRmbW5yRmtmOEkzdzZXRjlha0VOMWNIM1g5bUlWS1kxT1RldS02b2ZHQ3lKRXlqX0hB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3f517135bca",
+      "title": "AIIMS Bhopal stresses early screening for sickle cell - Tripuratimes",
+      "published": "2026-05-22T03:57:36+00:00",
+      "summary": "AIIMS Bhopal stresses early screening for sickle cell&nbsp;&nbsp;TripuratimesAIIMS Bhopal Study Urges Advanced Screenings For Children With Sickle Cell Disease&nbsp;&nbsp;NDTVAIIMS Bhopal research stresses early screening for children with sickle cell disease&nbsp;&nbsp;DD News",
+      "sources": [
+        {
+          "name": "Tripuratimes",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWlkNzA1aU9MRkpadmtYejRWbnJXSDFkWVFSY29vck5lUk8yZGxxOVcyaGNMMWhoT2lpM3R2Q2pKOFZ1OUdLUzRwQm56YlE3b0g0VWVyWGZ6WG42UWdFUzRQOEJnSmdZRGRWbGJ6WUpaQUpiVnI4N2R2MXY2YTNpQW1BUl94elFUbUJqUndtaUNYTXhtLURiTXdSN2E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f53d1c6a441c",
+      "title": "Conjugate Vaccine Boosts Influenza Response - EMJ",
+      "published": "2026-05-23T08:06:40+00:00",
+      "summary": "Conjugate Vaccine Boosts Influenza Response&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGg5OVJHZnNoU05aLU1ZSTVTUkhaQW40eC02Q0FULVNtX1dORlBiTkJnQjMwTlQ2b04wN3NKNGk3NVlYT0E2amlMNXlSSzZrM28wemItc1BRb0I1V1dMb0FqaWhpZVZiUF9hcHdfckFEa0lRSFg1eU4wOWlEajNzNFNmSHFSWjNZMjRMRXRUVGx2bXJQaDNiQ0RWcndUZFViMTVMQ2o0clZYRTJmOGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ef11e8004555",
+      "title": "U.S. extends Ebola travel ban to Green Card holders - The Hindu",
+      "published": "2026-05-23T01:26:45+00:00",
+      "summary": "U.S. extends Ebola travel ban to Green Card holders&nbsp;&nbsp;The HinduUS extends Ebola travel ban to Green Card holders&nbsp;&nbsp;ReutersU.S. to Block Entry to More Noncitizens Who May Have Been Exposed to Ebola&nbsp;&nbsp;The New York TimesU.S. bans green-card holders from returning from Ebola-stricken countries&nbsp;&nbsp;The Washington PostEbola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’ | Global development&nbsp;&nbsp;The Guardian",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0o4by0zTzc3SC1OWlppRUtzS2pwRnFJNFdvQW4wY0tQOHJaeHV3c0l4ZEM1eDhUNGVCSWI3eUVtSkljR3lZVDEwWldCbzBXamRoWmpGemt3bEtDVDVOV0oyN2Jldm1wcnFTZVZ5ZVNFcWRaZF9jM1c1bW9kV2VnUEFGZG5UMEhZYUR5LWdSZzZYQ3hKSHA5WllXZ1NOTExNRzNkbTZjVWtmbkpCbHFzOHVFQdIBugFBVV95cUxQUW9HUlhVd09sall4eTlrbm5OclBMS2xSMXExTG83SzJvaE51SktGcF91eXBVRzZJZ2NSNUQ2U0FNSjZEbTd0SUtpN2dwcWVTaWtZa3lRZmxnN3hPaUpVMzZuaXRiRmNQbURySi1MZWJzaFVGLUhZdnBReE50SGhldTRQWVgwdXRfZzJfUWpkMXI1WWVEeGxwaFQ4aGFNSlQ3NzBDdU5GUGJCVkNrRnZzZHpsTERnX0phTlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d51cfc1772ba",
+      "title": "Oncologist explains how everyday habits affect cancer risk: ‘Window for action is wider than most people think’ | Health - Hindustan Times",
+      "published": "2026-05-23T11:33:26+00:00",
+      "summary": "Oncologist explains how everyday habits affect cancer risk: ‘Window for action is wider than most people think’ | Health&nbsp;&nbsp;Hindustan TimesAlmost 50% of Preventable Cancers Linked to Just Two Lifestyle Habits&nbsp;&nbsp;ScienceAlertSmoking And Drinking Account For 48% Of Avoidable Cancer Cases Globally&nbsp;&nbsp;NDTVCancer risk is shifting. What can you do about it?&nbsp;&nbsp;The Business Journals",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVE9PNGV6Um5mb01QQjJ2Q013OEd3MGJBSURrR1c3enVKVFFFbzFXd25oRHRZYXJoMlpXRkN3Ui01U3ljVDd2N0I2bndXN2lwZU50WV9SXzZCOEFVQVZUVnh1V0E2SGFsQjNzbUFoZUxDREd6cHNxMGVMZFpMdzJRLXZKd2xVVnNPQmNCcFNsZTFXS1NvQ0o5NHlLd2tmTDNETEVkSjljVnYtMnplZ3J2LXBkT0k5Q2M0WkRZZE96aEZ6LWo2RGdKNDNnVS1zT1JjUGNxLXItdXJJOHcxMVcyQnFnRm44bWpiWEtTcGlfUXhVa3pSZ1NEbGI4SXBUNUl1MnJ4ODBuUzjSAY4CQVVfeXFMTjhsMGxweVNkaDFPT0JZckl0bUZ4a2lGQ3VEUnJEc28wT0F1bk1CY0pOdGFKZkhqTUR0S2RNbEk5SUpkajZpSmVzZHF4SjNwYy1qTHBTREN5ZGFQY2lSMFVxbHl6RVZITUs0U05IczdkTG1Vd3BNcVpLWW5RLXdTR0swRFVaSEJZNGhVZFYzQ2xLdGV1WEQ3SmV3eGRYNUYtdkhoZ1p6TDJBNU01N0UyZDR5eFZfNEZYU2ZCM2tWWlU4VTJEaTJpMUVvYjlCa19hMXZTMHB5WHNhaHQ1RE1EVVVicVhaaUVXNWpaYW1kSzcyWER1ejA0bkNQTEdmZEhkXzhuMndnSTVsbV8yN2tn?oc=5"
         }
       ]
     },
@@ -76,14 +112,38 @@
       ]
     },
     {
-      "id": "6ee4d9f2026a",
-      "title": "Novel Apheresis Approach Targets Severe Preeclampsia - EMJ",
-      "published": "2026-05-21T08:02:57+00:00",
-      "summary": "Novel Apheresis Approach Targets Severe Preeclampsia&nbsp;&nbsp;EMJ",
+      "id": "08b7f057b08f",
+      "title": "Updated trends in the global prevalence and burden of mental disorders, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023 - National Institutes of Health (.gov)",
+      "published": "2026-05-22T17:42:37+00:00",
+      "summary": "Updated trends in the global prevalence and burden of mental disorders, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023&nbsp;&nbsp;National Institutes of Health (.gov)Mental disorders leading cause of disability, surpassing cardiovascular disease, cancer: Study&nbsp;&nbsp;The HinduMental Illness Burden Nearly Doubles Globally Since 1990, Says New Lancet Study&nbsp;&nbsp;NDTVBreaking News, World News and Video from Al Jazeera&nbsp;&nbsp;Al JazeeraDepression, anxiety c",
       "sources": [
         {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDNTTlREYzBxRHJTeFJvWlJ4bGhnUVNMWE1haV92MWVfUkt2bnNPdURQMEJhMnV2eFJjLTY2MGVqOXJwOVg3UGtDNEpFRUJoRklTT0xwajZNcTJ3YTFWLUJqME9YamI0X2dPZVZ1Y3h0eGJHMTh1QWg5cDBqUjZtUE9hRTBzZFh2Si1DYjhMU2U5SENuS2FRbEh2djdoRGhGaGJ4TzNHMEE?oc=5"
+          "name": "National Institutes of Health (.gov)",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDMjl6a2hBTl9wdnduV3lQVDNhWENfZGNxRXNueGw4bUJ2VUtzbE5QU0xHNDdGMzBqdXQ3U3ZfVlFScG12dGdrRHhNaHhfVTU5RUVj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "025a19dfd45c",
+      "title": "High intake of packaged foods tied to elevated BP among youth: NIN study - The Hindu",
+      "published": "2026-05-23T13:44:46+00:00",
+      "summary": "High intake of packaged foods tied to elevated BP among youth: NIN study&nbsp;&nbsp;The HinduNatural Food Colors Embraced by MAHA Linked to Health Problems&nbsp;&nbsp;WSJMedical Bulletin 23/May/2026&nbsp;&nbsp;Medical DialoguesPackaged Snacks Put Young Hearts At Risk&nbsp;&nbsp;Deccan ChronicleEurope’s heart health challenge deserves better than a war on UPFs&nbsp;&nbsp;London Business News",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMTVhbzdXUkNRYUpBSzBZWksyTHBOdXJTa3Rkek5ZeHFjdFZ6RDloYXRrQ3FzeTVmdlhLOGpTNGtHQWpxdnJaTUtXa0pubEw0SHF2aGMwaUt5dzUtd0ZfUWp0Qnh6Njktbk1WOHg2c3g5NlJ2RGY5NnM1NE52QXhaN29pN0J5N2RPRjNfT2lFbzdtQXc3RkZBUnRrbnZrUjhKRjVLYU5vN1NFYk5NbGxxaE9TakkxVEtDU3FHdlZrRDRQX29sNDNBaHpxNkJoclpHbmN4eFlSYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41d79559d392",
+      "title": "How scientists cracked a rare hantavirus outbreak linked to a cruise ship far from shore - Telangana Today",
+      "published": "2026-05-23T08:42:46+00:00",
+      "summary": "How scientists cracked a rare hantavirus outbreak linked to a cruise ship far from shore&nbsp;&nbsp;Telangana TodayMV Hondius captain disembarks, no new hantavirus deaths reported&nbsp;&nbsp;news.cgtn.comWHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus II: hantavirus natural history, infection control and clinical management of patients in hospital&nbsp;&nbsp;World Health Organization (WHO)Number of reported cases of hantavirus rises to 12, 3 reported deaths: WHO&nbsp;&nbsp;XinhuaLice",
+      "sources": [
+        {
+          "name": "Telangana Today",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTJXa29taEEteDczRXhSdmFXUVpNdWNLZDJ3NlBDdUduZkMtWDRwUENMbjd3Y0VrUzhjc2VIZEs2X2dpVFA4NVFyc0gteWN5MW1XdXQ5cDI0cGRkSG9iQ0tqdXlyMHhiRUNSejhPN09BdHUxcEpOQkpRQ19YVGxiT0tDbDlfOHVwNDlIQWJYakV1VGdHSTFfc0pJVm4xakhyV3RrZG1TX2dCYmFsMnZzaUo5VHM4dw?oc=5"
         }
       ]
     },
@@ -136,62 +196,38 @@
       ]
     },
     {
-      "id": "b2732f221136",
-      "title": "Bacterial sexually transmitted infections reach highest level in a decade - News-Medical",
-      "published": "2026-05-21T16:21:00+00:00",
-      "summary": "Bacterial sexually transmitted infections reach highest level in a decade&nbsp;&nbsp;News-MedicalGonorrhoea and syphilis hit record levels in Europe, data shows&nbsp;&nbsp;BBCEuropean STI cases reach record high amid testing and prevention gaps&nbsp;&nbsp;Pharmaceutical TechnologyTwo major STIs hit record levels in Europe&nbsp;&nbsp;MSNSharp rise in gonorrhoea and syphilis in Europe, including Netherlands&nbsp;&nbsp;NL Times",
+      "id": "beb977456f7f",
+      "title": "Ebola Treatment Center Burns Near Heart Of Deadly Outbreak, Report Says (Live Updates) - Forbes",
+      "published": "2026-05-21T20:07:00+00:00",
+      "summary": "Ebola Treatment Center Burns Near Heart Of Deadly Outbreak, Report Says (Live Updates)&nbsp;&nbsp;ForbesAir France flight to U.S. diverted to Montreal due to Ebola travel restrictions&nbsp;&nbsp;The HinduEbola outbreak: Flights diverted, borders tightened — how countries are taking precautions&nbsp;&nbsp;The Times of IndiaEbola outbreak live updates: Flight bound for Detroit diverted to Canada after Congolese passenger boarded 'in error,' U.S. officials say&nbsp;&nbsp;YahooHow Does Ebola Spread ",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2p0c3hLb0lxd3lwb0tsRG9pV294Smp4Wk5fSFVLOWhYdDRNZ1dDNXlDeFhEN2g0NnM3UV9BeExnelFzWURyQ2dJdDFrV2ktNFJ5MlZYOWRFQ3gwWkNyQVQ1Q3hwX25PVGVXS1loejVDN1RYRG4xc2N3S1Q1N3YwY3dZakdnNTA1Zi1vSGRJTEFHRVpWNXhuWkZpR3pJcGxDdnBzQ1E0Y0c2a3FtSUExcFJIdTdQazQ2cUMyZHR3?oc=5"
+          "name": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2Q3bkI2QkFiYzE0LVU0aWxqbXpDQllPRS0tcHFRNGxfVDJoYndZT2pfSzV0NWJULUJqVWROejdsNXRzSVFlZjJBZ01YcVFUOVJzR1VyWFFaV3VlREFUWU9ieVo0YXdWcElVaWNGVms2ay1Ec2hFdllidUU1Wl9yd3pOOVBSQ3YzM1JxcVRyald0azNFTm9lZlVtWlFSUjR6MmVDd0hQcXNpZmhLY2VjZVFpaWJBbG5CYXVFNm1GSVhpMG82aFdKdkFvcw?oc=5"
         }
       ]
     },
     {
-      "id": "306f9c8a32cd",
-      "title": "Air France flight to U.S. diverted to Montreal due to Ebola travel restrictions - The Hindu",
-      "published": "2026-05-22T03:58:06+00:00",
-      "summary": "Air France flight to U.S. diverted to Montreal due to Ebola travel restrictions&nbsp;&nbsp;The HinduSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTldkVjJUbEN6MnZYVGgwenh1dEFNYUtQRERSYjBhNVBjZlpqalFsVE16NHBycHN1YThpNjliZEQ5d2lvc09fMExIYlo4RGFWR2lJdlB1SGEwdFVPV3NrMGYxMHltbkw4dGJpeEdBOEtrMG9Qc05BMkVnbFhSZTVoY0toRTN1LWtPMmt4Q1RxeTdGSW9xdnd2OVNZLVRDRm1lbUpxS1lGSmZlbzNHZHZDb3M5bE8xYnhZNDJhQ3JCZHdRYlRwMFRJcGxhTktlWXFIZ05KQ2FMbGfSAd8BQVVfeXFMUGRTY3hWNWFBbjZjM2hOQy0wNTZBUl9qVkdtYlVGanVXeEpFODM4eWM2TURCR1dyeFduRnZMc3NaR09Mem9SY2lQNFRVWHl1MmZJLTluVUNjRl9wYXdxOE5XMXFYcFdaMGhFV0VIQ2lsZE9saUFWUU1SSVlaNWEzSWs5Y0tPWjMxZkg1S1lFck9lN1BpR1ZuOW8wak1UUnRWdTdsTlF5aTBvMUJWYTc1eGNZSkN3SzluekNrNWN3c3BfdzdoT254R1RYbGxNQlI4b05fS1VGVGxaOF9Ub0dQUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "21cfe949dba6",
-      "title": "Prolonged Invasive Mechanical Ventilation in a Tertiary Respiratory ICU: Outcomes, Challenges, and Future Directions - Cureus",
-      "published": "2026-05-23T05:33:13+00:00",
-      "summary": "Prolonged Invasive Mechanical Ventilation in a Tertiary Respiratory ICU: Outcomes, Challenges, and Future Directions&nbsp;&nbsp;Cureus",
+      "id": "94c33863da44",
+      "title": "Voices From the Outbreak: Exploring the Role of Migration, Literacy, and Healthcare Accessibility in Immunization Coverage of Banda District in the Bundelkhand Region of Uttar Pradesh, India - Cureus",
+      "published": "2026-05-23T13:43:16+00:00",
+      "summary": "Voices From the Outbreak: Exploring the Role of Migration, Literacy, and Healthcare Accessibility in Immunization Coverage of Banda District in the Bundelkhand Region of Uttar Pradesh, India&nbsp;&nbsp;Cureus",
       "sources": [
         {
           "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdFJIejlmdGFOZmdHWWpSOVoyWC13Z1FKeDhOUkhJY0pxQ2pON2p6NjNqd0JMWGhUZkd0S180NTBIMmwzY3V4dldGd2RMV21uS3FXbElSbDdCc2gzczRmN19POGxEVmRlRXZscHo4VWVZeWk1b0F6eHh6T1F5T3JNWjA3dXBUUEtENXBzTnlhMjJaNGsxMXcweFI1TFNod2hJeDZrZFRFNlBvMFJ2LVhGNlN5cUtJMkFXbEliN1NQRVpWck85eVlDOENBWjczQ3JnRDItMG9wbWU2aUFqdzhHWS1qd3oyYjQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQanpYVW8tTzVKYzZVNU9ZdFVfdXpKTDl6M2YzWkRJMHAxekNCXzUtRUNUVGY2ZUZuOWNVQ2RtZ041M05TUktfNklXZ3BqUHhDSmZ5N2VWVzNQaDZQaUVLNWtXbDRaTXZMQzAybktmMkxFTU5rMEtpNk51UGJoV3VNZElJN3c1S1ptckg2cG9RazZYQ1hjQnYzTHBPalJEX0UxNkE4Vnc1QlZFVDVycmZ0UnZudUNCbDJ4NUo4bWdjQldTRmtaYmhkS0pvNmFMNW1sdkF3cGlacDc2VmxxM2NaRDNCekFnYWlYVVdEWlhQYnozdWM4Yjk4NWVjcGIwcXh3WUYzcDJDQmx4OHZ2X2ZSOWlZLWY3QkM0U2lxaWlNU09LajJ1UHhseWVCc2Z4VXl3S00tdlRzWUxvcUhkenVRWGxXcXFWQ09r?oc=5"
         }
       ]
     },
     {
-      "id": "0b5e91b49e1a",
-      "title": "Human inflammatory bowel disease-on-a-chip for modelling disease progression, cancer initiation and sex-specific effects - Nature",
-      "published": "2026-05-21T15:32:11+00:00",
-      "summary": "Human inflammatory bowel disease-on-a-chip for modelling disease progression, cancer initiation and sex-specific effects&nbsp;&nbsp;NatureResearchers Create Most Complete-Yet ‘Inflammatory Bowel Disease-on-a-Chip’&nbsp;&nbsp;Harvard Medical SchoolIllustration of the human Colon Chip (IMAGE)&nbsp;&nbsp;EurekAlert!Scientists recreate IBD on chip, uncovering cancer-linked changes&nbsp;&nbsp;Interesting EngineeringDecoding Inflammatory Bowel Disease – on a chip&nbsp;&nbsp;EurekAlert!",
+      "id": "c8f8bf11008c",
+      "title": "Two Indians on Hantavirus-hit Cruise Ship are safe: Embassy - Newsonair",
+      "published": "2026-05-23T09:51:31+00:00",
+      "summary": "Two Indians on Hantavirus-hit Cruise Ship are safe: Embassy&nbsp;&nbsp;NewsonairAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJWhat happened on the MV Hondius is a predictable consequence of how modern mobility intersects with ecological risk&nbsp;&nbsp;Down To EarthDeadly shadows at sea&nbsp;&nbsp;Global TimesM/V Hondius — Atlantic Odyssey: Tracking the First Andes Hantavirus Outbreak at Sea&nbsp;&nbsp;World Health Network",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XVGtrYXM4V2ZsTXpudXFUWE1ZTkRMSGRjWk8xWFNYaHBmeXREcTN1cHhDbFRtcWFKY3A1Q2FKeUhjUjh2WXNaQm5XVWl6VDMzQ1A3c1dhc2FJOG1hbVg4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "36dc8591c812",
-      "title": "The myopia pandemic: how changing childhoods are blurring our future - The Hindu",
-      "published": "2026-05-21T08:46:05+00:00",
-      "summary": "The myopia pandemic: how changing childhoods are blurring our future&nbsp;&nbsp;The HinduAngus children urged to ditch screens for better eye health&nbsp;&nbsp;AngusWorldAmid rise in childhood myopia, guidelines on prevention and management released&nbsp;&nbsp;The Times of IndiaOutdoor time added to BHVI myopia calculator&nbsp;&nbsp;Association of Optometrists (AOP)Della Optique Cites Study Linking Outdoor Time to Lower Myopia Risk in Kids&nbsp;&nbsp;The Columbus Dispatch",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUk1Qak13TWR6bEtPQUJhb0VsNE9VWlk5U1RZSzFjYXlIYUpBOEZqUi11eERsbXF3UWdqZVdIWU1oRXpxSU9vdjRXN2o4T2RfVzlOaU9hX1R1QkpzOTE5bi01WURBS0otN19FNV9ad0hvYjdwMlRWNzZ2NnBSdG5lb0w4ZkJmZUtDcXJBSkQtdmF1ZXBvWDNOaWJWWW5PNzkzVzhtTTlpQ2N0MVVvTGtab0lmaDMtdWNUYk85S0N0eGR1cXFudzhV0gHOAUFVX3lxTE9xaTFXUkhPYmJ2WGUzamJrZWY5Uk1mZDlIQWZuUlI1TjRWZU5Hc3luS0ZaWTZ2TC1iVThrMVc4Q2xvSm1EVkZKYnJlSzBKWUdfaEtHTjF2NThqV05acGRsUHJuVUVJN0x4R2UyTDlaamdnblozbVJmRkgteE9fSEhWVk5BcTlTa0ZfWHB6NmNIMUd5ZVgxSmhkNDAyWVg0QTh3MDEzT0VwR2NsUzZNQW5DNnpZSGx2VURiVndBZzNOTk1oZmgwcGFzanZab0hn?oc=5"
+          "name": "Newsonair",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeXlEQUtlQ3RyZ0NSLUxwUkM4YUtjSVhMd1k0VERPajNkT1hxZ2NLc1RWN0lmRWpvT1czSVhIZWhIeHFnVFhBeHdZeDdfVnFIbUlFUFp5X3pCT0RnMkJzd2tPZXdjdDZ2eHVfbWZZdDdOX2tVUnd0MzFEU0daWnRtSHlJcHB1UEx6Z1kySw?oc=5"
         }
       ]
     }
