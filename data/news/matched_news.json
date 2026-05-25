@@ -1,43 +1,221 @@
 {
-  "last_updated": "2026-05-25T09:41:44.674108+00:00",
-  "total_count": 30,
-  "matched_count": 19,
+  "last_updated": "2026-05-25T14:25:47.461573+00:00",
+  "total_count": 33,
+  "matched_count": 17,
   "news": [
     {
-      "id": "243b54a9c11d",
-      "title": "Storms, Dryness Speeding up Biomass Turnover in Amazon Forest: Study - Chinese Academy of Sciences",
-      "published": "2026-05-25T08:21:35+00:00",
-      "summary": "Storms, Dryness Speeding up Biomass Turnover in Amazon Forest: Study&nbsp;&nbsp;Chinese Academy of Sciences",
+      "id": "0247e65fe333",
+      "title": "Storms, dryness speeding up biomass turnover in Amazon forest: study",
+      "published": "2026-05-25T13:20:15+00:00",
+      "summary": "Storms, dryness speeding up biomass turnover in Amazon forest: study&nbsp;&nbsp;Xinhua",
       "sources": [
         {
-          "name": "Chinese Academy of Sciences",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb2gxWVdnRENjZ1BkVFpRM3RPTE1aRUc5Y044eHRpSEItN3YyS2hPZWNlelpidUw4QXZkWFJwOC1VQ3NWSDhWM2pxZnFzYlRhNTFtUkdXYUZxQ3JNZDZ1RDFGNC1kTG9BM3BOLTVyWmFUWVgyd0R3T0owY1VJOElvWA?oc=5"
+          "name": "Xinhua",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vRzdDdzJETVgyNlB0NWpZZmVPMVhHWHEta1JFWWg0aTdXTV9ZaURuY2IxMFNfbEFXOFpOTkRrV0h0Q0M5WExGQmRVdDdCQlNuRzk4UVktNTQ1ZGRQNWxFeVRqSkQyX2NtZHVHZEtONnFEaVI3ZzlmYnhvbG8?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
+      "id": "36a5738cb2e5",
+      "title": "Uganda confirms two new Ebola cases: health ministry - The Hindu",
+      "published": "2026-05-25T13:19:48+00:00",
+      "summary": "Uganda confirms two new Ebola cases: health ministry&nbsp;&nbsp;The HinduFirst meeting of the IHR Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda 2026 – Temporary recommendations&nbsp;&nbsp;World Health Organization (WHO)Inside the epicenter of the Ebola outbreak in DRC as the virus spreads&nbsp;&nbsp;CNNDoctors, Hospitals Struggle to Keep Up With Ebola’s Spread&nbsp;&nbsp;WSJWHO chief says suspected Ebola deaths at ",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYm1hOWpaSUtZQU9GNk93VFZhMnJNVmhtc3QyZEQtc05PR0dwNWRDaDFtZEpHbk9nMGlYeFpfLXFvVWtjdDVjZWxQeFROem1HSGF4akY3WnNRX1B1Qi1feGc1VlpuTWFZVHAxeDVCQW1wTVZLRHgyYlQ0QjVRR2sxMjhKOEJhaTIzYzZTMjF5TEpEOGQ0Zk9MRFVUNmVfcUdqY2NzaFpJTnlPYWRGc2hUVl9B0gG4AUFVX3lxTE1PS1RlYmpObFpydFFzdTl3NzZqMjBEY3pHNnV4eXlieGVnZ3FfbWFiMjFEWWhBMEh5V0tCaXItS05yNHJ0NF9KRWRSZ2hYXzdDbmM3NFF6MHNqRWZDSVZOazBJUGplX2prbUFyRl9JUWdodlJYQzZUSHAxS1pWUElqRGVySlZ2eXlYcUdHUjhGb3p3V1AybWdOdVRubjB5aDlibDhWZ0lHb2MzYUI4WUhySHZuZHkwczc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "be2026883719",
+      "title": "Scientists just found a supercharged supernova — powered up by a magnetic star corpse",
+      "published": "2026-05-25T13:00:00+00:00",
+      "summary": "Scientists just found a supercharged supernova — powered up by a magnetic star corpse&nbsp;&nbsp;SpaceNASA’s Fermi Glimpses Power Source of Supercharged Supernovae&nbsp;&nbsp;NASA Science (.gov)The Magnetar at the Heart of a Superluminous Supernova&nbsp;&nbsp;Universe TodayNASA's Fermi Telescope Captures First Clear Signal from the Engine of a Record-Bright Star Explosion&nbsp;&nbsp;TechEBlog -After 16 years of silence, NASA's Fermi telescope finally heard a superluminous supernova speak in gamm",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQklLNlgtU0ltQ3dhVFFXeWJfVHFvQ2dRTGtra0Q2Sk4xVkRqM0lrT08zMm56QTJnWmxWVWhGeDdrejV6Q1c5RHRucEhwNmdpYm9RYndfU3dWd3ZmTlh6MGtSajUyV1NIY1B1enNwcDZfTnVSTVVXa3JGMHEtVVNrX3I2eFNMWjRHQ1I2YjFabmtsSEZOTXlJTkhXYmlxNkIzRlY2RjVfTDdJclBWVjN0OUtMYnN1Y3kyZG15d0Rn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e61505dd90cc",
+      "title": "Gujarat sets up isolation beds, airport screening amid Ebola cases in African countries - DD India",
+      "published": "2026-05-25T12:21:29+00:00",
+      "summary": "Gujarat sets up isolation beds, airport screening amid Ebola cases in African countries&nbsp;&nbsp;DD IndiaSpecial ward at MGMGH, airport screening counter set up to treat Ebola cases&nbsp;&nbsp;The HinduIndia reviews Ebola preparedness as WHO warns outbreak is ‘outpacing’ response efforts&nbsp;&nbsp;The Times of IndiaAvoid non-essential travel to Congo, Uganda, South Sudan, India advises citizens amid Ebola outbreak&nbsp;&nbsp;Scroll.inEbola scare: Ahmedabad airport screens passengers from Afri",
+      "sources": [
+        {
+          "name": "DD India",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3Z6blNiTG9LOGtsNzhwNmxnTWZDbElxMW4tTnNYdzc0SHpSeTVScHo2TjZjSEZCWWtGcWJrdFVSU1lDVVdyX2xGZmZKSUs0M2VjVXZMNzA5UXdDVGs2dWllOFJCamZPOFNSOUdyVW1MTVJrcEJISV92VkF6Y0RJdG9WbmppcjFlel8tb2ZjVC1PREVwMV9WZUkxRS13QldXYzQzRjg0dTlYVFVXYmEtV2NJZ3lxVU45?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "58156095c448",
+      "title": "Research on the temporal and spatial evolution and protection significance of traditional villages in the Wanjiang River Basin of China",
+      "published": "2026-05-25T11:20:13+00:00",
+      "summary": "Research on the temporal and spatial evolution and protection significance of traditional villages in the Wanjiang River Basin of China&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54Yi10QmR4VWt1WVV3ZFVKSGIxZ3lONmdicUU0cFhLLTFlX0NsbUtwVW9PYjJMa1hkdEFZNFdGdXdaWUJIQk82RHRlNWdOQXBLTG41WmtJRjZtZC1WRXhR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03384",
+          "keyword": "fica",
+          "name": "Fica"
+        }
+      ]
+    },
+    {
+      "id": "d10c1cb3bd75",
+      "title": "Donald Trump reorganises NASA to beat Xi Jinping in the lunar race between them",
+      "published": "2026-05-25T11:00:00+00:00",
+      "summary": "Donald Trump reorganises NASA to beat Xi Jinping in the lunar race between them&nbsp;&nbsp;AtalayarNASA Announces Realignment to Accelerate Mission Delivery&nbsp;&nbsp;NASA (.gov)NASA reorganizes to accelerate Moon Base, lunar programs&nbsp;&nbsp;The Pryor Information PublicationNASA reorganization shuffle combines programs, lands KSC new director&nbsp;&nbsp;The Spokesman-ReviewNASA Plans Permanent Moon Base to Expand Human Presence Beyond Earth&nbsp;&nbsp;ColombiaOne.com",
+      "sources": [
+        {
+          "name": "Atalayar",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZklPYjhCb0NHdFJQUG9wZnFhZ0IwOVktcHZZVXFWVlVqMzI0RGM2R2dNajFoYlBGU1JhYXVYaENyLUt6TC1heHZTWk8tLS1WZHZwSUVmOTFFQVNMN0JvbDVfSEE2MzBwV1diZWVKajh0aWdsQU5RS1l3LV9wM2FocTRFRXN5bGtLY3VnMEc2RkFmNnV3ejhBQVpweVJ6VW5fSlRybjI3NVNhTVJTeFBhdGdWSVZucmM3ekpueWpJNmowVGh2OVJQRGpGcTRZbTJCbV9UWWVvcU13NExKVUR4UGFEWDRpbnBBYWdwNjk0Y25WeldfQVBZZElRVGg4RU3SAYQCQVVfeXFMTVRXRHdkY2xpdzRBdlRHdG9kdk8ya3VoSDJHYkdqM2x3ZlNMVFJBcTQ5Z1VNTkp6STNDSVJoemlsYnREcmJTZ1E4SFRycWhHMEV2OE90aEFLS0hjdEU4a2s1ZG1ZXzFIcVVDY0kzdXB6UmRQc0JiWlIxWE03MTBjcUEzaHQyUG0tTlQ2UTFMMUthZGVuQTFSSTFVd0xjY1BUOTZ2X1kweGJsbTVHWkstVTR0Z3FpaUxpSl9teGt0dThBNVZyNHpqRU9POXVTem1QdXRQek9zREMwZ005TzYyVE5GWk5jbnlWcGpud2lma0FkUlk5N0wzVTc1S0ZRUmtmbmwtdUE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03336",
+          "keyword": "bia",
+          "name": "BIA"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "9cb9691a2bb5",
+      "title": "Evidence of ancient life has just been found buried inside an asteroid crater — and the discovery suggests the warm lakes created by major impacts may have been some of the original cradles of life on Earth - Space Daily",
+      "published": "2026-05-25T10:45:38+00:00",
+      "summary": "Evidence of ancient life has just been found buried inside an asteroid crater — and the discovery suggests the warm lakes created by major impacts may have been some of the original cradles of life on Earth&nbsp;&nbsp;Space DailyEvidence of Ancient Life Found Buried Under an Asteroid Crater&nbsp;&nbsp;ScienceAlertAsteroids may have contributed to the emergence of life on Earth — study&nbsp;&nbsp;UA.NEWSLife on Earth may have originated in the lakes remaining after meteorite impacts&nbsp;&nbsp;Un",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPdWhtYXpGbFZwOWp6Qk0yNk5udk4wQXlWWFVmemxoWkVzRU1yWlR4MGRSdDRMOE5LVEtkM2U5V0UwTkx6MGRiTGVCUmR2U3VLX3lxR0VzTGxFdUR4XzRhcFBnUUdiV0w5TE5jVnRkMlBXTVJwZ2V1OWU1b29Qd0w3MlpZdEttNm9BWWtjOEVKbzBkcUd3RE9DNjROeklPSFJkblBPTTZWb3JfWXhPWFlzYi1UeVItVHhGbFdiSjR3UVZBdDBhZVJZZDdubVZBLWNwSE9PRmtnOEFQRWJVQkJESS1CRkVKLW5QalZUVkdaYUJnMWtEd19zZklYcC1SdUJ2NFI0c1J1RVdMRU12aG5RaHJROWRpUzZKWVhhcVRJSk1GQkVGVllrSUxRU0YwSXFWRXNZa2J0R05KcFJ3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0eb6d70a502f",
+      "title": "Can humans reproduce in space? China sends artificial embryos into orbit to find out",
+      "published": "2026-05-25T10:02:15+00:00",
+      "summary": "Can humans reproduce in space? China sends artificial embryos into orbit to find out&nbsp;&nbsp;ThePrintChina has transformed its space station into a biology laboratory and is using fish embryos to understand bone loss in space. The results could benefit not only astronauts but also medicine on Earth.&nbsp;&nbsp;CPG Click Petróleo e GásNews China Has Sent Human Embryos Into Space – Artificial Ones, for Now&nbsp;&nbsp;Asgardia - The Space NationNever-before-experiment: China sends human embryos ",
+      "sources": [
+        {
+          "name": "ThePrint",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckRKb1VFelVXNkJaREJKbHFuZnpKQWxOOXdGbTU1YTdoVThPU2pHektuWHVvYjFCRl92dk9sakhUVWN1UnFPV19kQW04aXNHWTgwM3pULUdtQVF3bmlSY0lHVGRfeXBaSm55aHhfSk1JVUFMS01sVVFZUzRHdEVjR2dNMFN0eFNoZWhMV9IBkgFBVV95cUxPQi1mb04wMGo0dXU0LU16UlRkQW5kdUpySTljamp0aXdheUoybWRfYWp3cWNhcTkwdEFrTVNkOWJyUHpPdENGcEwwUm9uMUc1bnNCSWkzRG1Mb1pfWnc2ZXoxMmtCek5aejBld3VuMlF4ak9zX0FpRHpyYU9kSFRkSEFnS0NieVVobXVxSWJwY3NfUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "5298",
+          "name": "osteoporosis",
+          "keyword": "bone loss"
+        }
+      ]
+    },
+    {
+      "id": "60923d6e7d05",
+      "title": "Crystals inside an ancient bone in central China just overturned a 146,000-year-old story about humans - The Times of India",
+      "published": "2026-05-25T09:42:00+00:00",
+      "summary": "Crystals inside an ancient bone in central China just overturned a 146,000-year-old story about humans&nbsp;&nbsp;The Times of IndiaScientists Say Harsh Ice Age Conditions May Have Pushed Early Humans Towards Creativity&nbsp;&nbsp;NDTVA Radical Innovation Helped Archaic Humans Survive a Harsh Ice Age&nbsp;&nbsp;ScienceAlertIce Age discovery in China challenges theories about origins of human creativity&nbsp;&nbsp;Mid-day146,000-Year-Old Discovery Rewrites the Story of Human Creativity&nbsp;&nbsp",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUTl0S1E5a0p5V3VyNjFTUmlFT1k4eThwaldnS1h0RlZNS0VTSnhSQzkxaHVaY3dFTC1zZkF3Yzl1RzFPX0tmRzY2akw5ajNaOWtSTnFvMm40WC04a1BNUjRIaVJ2bXVxWjRuX3VoMFhreGczMEZTLVNDU05Ic0V6aEFNb18zTGZjRG1qQWxWeDB3Q1ZWX2hIR0xkYi1YYVg3dFUyd3R6TWFHcjd3V2NuMEpiV1h1QWYzei0td0NQa3FvVXQ0X0FsdzNqYWc3X3ludDV4S1FfWjdQQ0hZV0hwS1BUdWtHcjNJcXQ4Z2RtMUFhaW42RnVzQUdXeWRkTkNRb01uSUhHYmlqUGM3ZjdleNIBlgJBVV95cUxOaG1rVk9ZWHJoVUM5QVBGVDI2OWJUSnJJeUI2ZV9XcG5fMUZjbTZiX0RYeUFNbkNxdmI4RFJWaFBCM0xma0x5ckxJS3BrdnF5UDdfa3FWQmpRR3UxX3A5NXE5OTdENE9jTjYwUnZsbnpKcGFFVDA0S3JJQll1YWFGbUZoWVVid00wdW1xdjZLRVVjLTJjV0pXbV9XbTN6ODdNVFYwWm4wZU1yMWFuaWNZNTN3SlUtTV9BMTIwZTRxSUsya0dmU2l1OUxjX09nM3B2RHd3N0RmSWNnNTBYdWozY1hvcG8wN3VRSFpLNy1SZW1jSjVnWXktVVBsQ0wtY0U5T1BSTjBBeWFVd01LOWgxSzk5aHFQQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "14c42243f65b",
+      "title": "Enzymatic cleavage weaponizes bacterial lipoproteins into immune tripwires",
+      "published": "2026-05-25T09:10:02+00:00",
+      "summary": "Enzymatic cleavage weaponizes bacterial lipoproteins into immune tripwires&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BLTlvb1ZUY2dENEg5V1poVEx4MVlEbDVUQnpEUkplaDBtYWg3TEY2a05HYmx6RVBxaFhZSTNIbDRDZVczMVhweF82LVZwaDVLXy1tVmdCQUotQWpzdkxv?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1e39ed41bf5f",
+      "title": "Development of a model for design radiation shielding composite aprons using machine learning",
+      "published": "2026-05-25T08:35:09+00:00",
+      "summary": "Development of a model for design radiation shielding composite aprons using machine learning&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11dkRRSUFtZm51Mkp6ZjYtaTlTMF8tVnpWOU9SaXdibnVyVnlJYTZ0ellrNlRlMWxlaTZRTlpPcXd3S0ZvY1hpVHhnRDdKeEdQanBBVWJUSFFoSGZvcTVJ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
       "id": "6d8527195d5f",
       "title": "Thailand Introduces Ebola Screening for Travellers from Risk Areas",
       "published": "2026-05-25T08:08:59+00:00",
-      "summary": "Thailand Introduces Ebola Screening for Travellers from Risk Areas&nbsp;&nbsp;safariindia.comThailand steps up Ebola screening&nbsp;&nbsp;Bangkok PostThailand to quarantine travellers from Congo even if they have no Ebola symptoms&nbsp;&nbsp;The Straits TimesThailand Joins South Korea, India, United States in Ebola Travel Airport Checks with Enhanced Screening, Health Protocols to Protect Travellers and Prevent the Spread of The Virus!&nbsp;&nbsp;Travel And Tour WorldThailand tightens Ebola scre",
+      "summary": "Thailand Introduces Ebola Screening for Travellers from Risk Areas&nbsp;&nbsp;safariindia.comThailand steps up Ebola screening&nbsp;&nbsp;Bangkok PostThailand to quarantine travellers from Congo even if they have no Ebola symptoms&nbsp;&nbsp;The Straits TimesThai army moves to protect troops in South Sudan amid Ebola risk&nbsp;&nbsp;Nation ThailandThailand Joins South Korea, India, United States in Ebola Travel Airport Checks with Enhanced Screening, Health Protocols to Protect Travellers and Pr",
       "sources": [
         {
           "name": "safariindia.com",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ3NlQl9sUVFmRkVpRXZnMkFBc0FjR3p1MElQclVQc2RON1h0NVh0dHE3NW1mSnVlNDA5OWxXSF9FUTBCczNUTk1zWHZSRGJ4cUxELTU4MWExcnp2RjVlSUduMVFCVkYxLXg4dzNicDZFUFBDQWV4bEZQSFdFMnBKeA?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
     },
     {
-      "id": "bce2bfad8d17",
-      "title": "India dispatches medical supplies to Africa CDC amid Ebola outbreak - Medical Dialogues",
-      "published": "2026-05-25T07:30:15+00:00",
-      "summary": "India dispatches medical supplies to Africa CDC amid Ebola outbreak&nbsp;&nbsp;Medical DialoguesAndhra Pradesh govt. steps up Ebola preparedness, plans passenger screening at airports&nbsp;&nbsp;The HinduIndia dispatches first tranche of urgent medical supplies in wake of Ebola health emergency&nbsp;&nbsp;ET HealthWorldAvoid non-essential travel to Congo, Uganda, South Sudan, India advises citizens amid Ebola outbreak&nbsp;&nbsp;Scroll.inAndhra Pradesh on alert over Ebola virus&nbsp;&nbsp;The Ne",
+      "id": "dbfec6a9d16d",
+      "title": "Band gap engineering in Al, Cu, N and Al/Cu Co-doped ZnO thin films: experimental study and quantum machine learning prediction",
+      "published": "2026-05-25T07:45:10+00:00",
+      "summary": "Band gap engineering in Al, Cu, N and Al/Cu Co-doped ZnO thin films: experimental study and quantum machine learning prediction&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "Medical Dialogues",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjZNSUdNcFlrczlvRkE1VGwyNWVxbUhHWTZvdWFocVo2bG1nRUFVcU1iNGZfdWJiYk9MWC1XS2lybFdaVmlDbzlwQ0RqWVdYQUhwanJ0WFVqdkRIdE4zOG9qSmROc1REbjVIUDIzeXE5czJMaWo1aml2bXpxZ0VveEZmeURIcFdvTVpFY0RNb2xKRlVzV0VxWi1jSHEzM2dpTzN6LWFiRHo2cm5sTXhlWHJKVHZJVWtYbGhjMlB2U3B1ek44endN0gHMAUFVX3lxTE5rM3d2TER3Nnh6WFRzRFhVWVIzcWVRV0wtRENkRjdSLXNKOXBVN01DUWk2RUc1aUxzZ0N3TEt0aENwVGxwamUzRE5nSWIzREdobmxkMXRGcl8zZXdpaEZpdlBSMFpGR0JrTFRWSEFTZFJZSWV4ck5wN1dyNnR0UGtHUTRtOHI0ZFlkTndBODg1S3hTMGYyOERvMWU0OFJOdi1mRG1Ed3dWUTUwbTFhZm5ycW9DSDJuQXdkeUN2b3pHMDhUam00NDNReEZoeA?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TcE5abXRBYTlrYk1wckxFUXBfcDE2UndXN1FJd24tQ3Y0S3g5djZMa29OYVVBdG00VVlqWGNsVUI3YW9iWHltZW9sdFJsNU9XY3V0S1BUUTgwT1NrX25B?oc=5"
         }
       ],
       "matched_keywords": []
@@ -82,26 +260,6 @@
       "matched_keywords": []
     },
     {
-      "id": "50848e57e9e3",
-      "title": "Brainless sea anemones found using an ancient body-building blueprint shared with humans",
-      "published": "2026-05-25T05:00:00+00:00",
-      "summary": "Brainless sea anemones found using an ancient body-building blueprint shared with humans&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU0x3eTJjWTdlRzFzZmpULWpIdHFLNnZoeXFoRFBEZmdaRUVqTk1lVUhQb2NWQ2ZBd1c3bkpRaktoWWZQUTRVVDlyb19FU3BCaXJjX0ZBaTFjeGpheUItRXpSejRYdXl0U2J4aFlOcGVFR1dfcjlwMmZYV0dWazhBeFhBMHZGNUh0LWsyd3FQeDFlNTR4ZmlYYg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
       "id": "e39e220a67db",
       "title": "New AI model detects hidden antibiotic resistance genes beyond standard databases",
       "published": "2026-05-25T04:45:00+00:00",
@@ -110,46 +268,6 @@
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ1c3bFJLQ2tXTmVfWEdlbXlqT3BhZ2ljTmYtaURpUnNQc0RqTWZ6WTBPQ2tySi1IX3JRVFM1VGJDY3JKa0wyNWNxbzdodjJEZlJ4QWtZMzVjZ3BGak04UnNaMGQxSEFTZlRqQkd2cU9YNUV0M21iazc5LUJXenVPSGZqeHBKb01wOFBBT0J1ZmtMMTFwVjBkaTVKZUVpU084Sm9PMjNLdy1jczZheDMxVHlhenN6X3FBUUNjUVBaUjlYOHllT2xfNQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "a34eae0b70cb",
-      "title": "World Thyroid Day 2026: 10 Signs Your Body May Be Warning You About Thyroid Problems",
-      "published": "2026-05-25T03:51:48+00:00",
-      "summary": "World Thyroid Day 2026: 10 Signs Your Body May Be Warning You About Thyroid Problems&nbsp;&nbsp;News18World Thyroid Day: What's the science behind mood swings?&nbsp;&nbsp;news.cgtn.comWorld Thyroid Day 2026: Thyroid Dysfunction In Pregnancy May Increase Autism Risk In Children&nbsp;&nbsp;NDTVArtificial flavours and additives in packaged foods: Could they be affecting your thyroid health?&nbsp;&nbsp;The Times of IndiaDoctor shares 5 nutrition tips for maintaining thyroid health ahead of World Thy",
-      "sources": [
-        {
-          "name": "News18",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPc1ZjNURuX3gzNy1IYmplMEFtUFdFd25XRlpjSGMxNDhlMGZFM3BWNEd0OTJVMl9qQXRXRmxEQTJfQnNBTE1EVGV2dXJxeXNqQWFNa0ZGMnhJUTdhVVROSjlNYU9UaHJpNDBmeGg2UG5SZENfN1ZQRzd6QXBQZm15bzVKb2JIc3FLcTBXem4wTWdYT1VXZlZrS0VzdWR5cklyME5sRVo1SmFIejU5cW5GS2g3N2lleW5NUEpoQjl6WG8zQXpNZ1hfbDYtU05PYTZrYzdzRXBjSVBhZ2FkdEpzUTI3WmdBSndUUnhGTVBBVzN1MGh5UEtnUUlDQdIBgAJBVV95cUxNWE9DQjdXSmFPSDJBdUpEZ1ROR3dCMGtpYjZjRkc5Ul8tcjUxZndzcDI5eXlBTnJrMTdmbExrckdlazhRUktkY1F6TjF3OWE0MWljdE9SZ0hZa2lYa3BsYldrMUwyOVl4YVlZWDQ4SmIwdXZtRGQ1WWo4WHhNVi1Jd0x3X0wta09tbGs2NFZXXzdubEh0clo0VDY3QmZwMWFFdE5DbGM4aDUzUGh1UEZFc2JKdDQ1cURKMVlqMDlEU2YtaVNDLTNKcElFbEdMNUo4YlRwZkFOT1FGdTBsbExRSWJZNC1mNzFXV21nOHNaV3NUUFVzQWVhUVEwRmVtenU3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "9939e642817b",
-      "title": "Ebola cases in Congo's east climb over 900: authorities",
-      "published": "2026-05-25T03:10:05+00:00",
-      "summary": "Ebola cases in Congo's east climb over 900: authorities&nbsp;&nbsp;BusinessLineEbola outbreak poses massive challenges, warns nurse&nbsp;&nbsp;BBCEbola cases in Congo’s east climb over 900: authorities&nbsp;&nbsp;The HinduEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)Caught Flat-Footed, a City Races to Catch Up With Ebola&nbsp;&nbsp;The",
-      "sources": [
-        {
-          "name": "BusinessLine",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMDd6MVRmZi1kMTE2dGMxa1JXQXFwalNORVlhUFgwczJYVExlSEhRU3hKM0l1UEZCanB6dHp3NWlKMEFiOU1lbTZBQ0l1U1ZQMXlwbzhuSWdGUmhFNDFacFhTM3RfVHNUZXl1Y1JpdnY2NUR1QW9PTlZvNzlzNWZTYUhmd3FxT3RXeEhUWGF2bDU1OFpDeE1zdVoyRE5IQUFuaUpmbWNPeHZWN3dEUGFwbWVDTU1iYWhVMEsxaVZB0gHEAUFVX3lxTE5odXZJQ0FXOFhSZ3JxbFNibkc2OFNTUkNUcFpFeFZVTXJGaS1KTVFyT0l0dEZlVi00TFdoVFZyU182UVN6SktoMEFJTzAwWjJvUGotM0xxQ3lMQ1VOc2dfSE9hOC1fU3BKZjBiWEJ6azFEYzV6YkF4aGxGT3FscDI3alBLemVlMmxUU1RhbEZBd1pKZURCOHQ0SE00SU8zLTZHNWQ5bjMzeGUwdFFsczA5WUdhYWVnMU9VQk5DcWsyN3ZxQmw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -182,58 +300,6 @@
       ]
     },
     {
-      "id": "bfd6a20a52d8",
-      "title": "Nuclear KRT19 links the NF-κB-FSCN1 signaling to gastric cancer metastasis",
-      "published": "2026-05-25T02:35:12+00:00",
-      "summary": "Nuclear KRT19 links the NF-κB-FSCN1 signaling to gastric cancer metastasis&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zYkNTV09zV1hkMjQxOHpuUjJzVkMyWU9wanBJQ2pTV1RmTXJ2dHN5M1YzaTV3X1B6U1lDUGNnVHhHNXJxd0dZeUxlY3JwVnlrWUJtQ2k1UGpydEp5dzlj?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "1056",
-          "name": "gastric cancer",
-          "keyword": "gastric cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        }
-      ]
-    },
-    {
-      "id": "52d4a2b4d784",
-      "title": "Scientists Create “Trojan Horse” Weight Loss Drug That Supercharges Results",
-      "published": "2026-05-25T00:56:58+00:00",
-      "summary": "Scientists Create “Trojan Horse” Weight Loss Drug That Supercharges Results&nbsp;&nbsp;SciTechDailyVideo Weight-loss drug shows breakthrough results&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosSYNCHRONIZE-1: Survodutide Achieves Significant Weight Loss Versus Placebo&nbsp;&nbsp;HCPLiveWeight-loss drug shows breakthrough results&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX3BCMlRPcWJ5VDlGZlItR2dhbzYyYXRCbzhUajRwRjA4MEt5RGgzUVExQ3A4WTFpS3ZtZ1lPdS1jZzdSalNZOFlnY05tZ0JzTU5GMTZQZy1rQVJqaU1iRWZnbFlrNWJoVmFUX2R1MGlyemR6UmpGZDJjSGdFMmNfSzNUWjU4RkdkZnE2SUM4ZXJUYTZCZ3dTeGh2dWRWZ1Q0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB03384",
-          "keyword": "fica",
-          "name": "Fica"
-        }
-      ]
-    },
-    {
       "id": "c3ab957a99f7",
       "title": "New 'AI scientists' are improving—but reveal their fundamental limits",
       "published": "2026-05-24T19:00:02+00:00",
@@ -245,46 +311,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "634797f9afed",
-      "title": "Gold-coated optical fiber rapidly gathers microscopic targets for faster, more sensitive detection",
-      "published": "2026-05-24T17:00:11+00:00",
-      "summary": "Gold-coated optical fiber rapidly gathers microscopic targets for faster, more sensitive detection&nbsp;&nbsp;Phys.orgOsaka’s 10nm gold-coated optical fiber gathers 100,000 bacteria in 60 seconds via laser&nbsp;&nbsp;Yahoo Tech",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jallTUFBBbTFXNS05eURubWluV3VBN2RLZjkyeEhVV3BZSjVWMWN1ZTlMcWhEa3lMM2k2a3R0VjVITl9sT0dGR0UxZEdFUXhWLV9tTXNfQUpzcHFjWXl2ZjQtR3NHUnN4V1o3WnBLRnljYjZIbWNR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "c3d154c9accd",
-      "title": "Genome-wide identification and analysis of auxin response factors in peels of wax apple at different fruit development stages",
-      "published": "2026-05-24T14:29:03+00:00",
-      "summary": "Genome-wide identification and analysis of auxin response factors in peels of wax apple at different fruit development stages&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3b2tubVZYQUhuSnVGRHVuUFJacDhaWGlrelZYYTFvODJJWS12UU1aV0UtZE9obkEta3RlTUZCUWFQQnRLcC1xVzhyaWRrOF9CaWo5Yy1EdGkxQ1IzcDNr?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB03384",
-          "keyword": "fica",
-          "name": "Fica"
-        }
-      ]
     },
     {
       "id": "1e9eaf4cc1e3",
@@ -325,10 +351,63 @@
       ]
     },
     {
+      "id": "c3d154c9accd",
+      "title": "Genome-wide identification and analysis of auxin response factors in peels of wax apple at different fruit development stages",
+      "published": "2026-05-24T14:29:03+00:00",
+      "summary": "Genome-wide identification and analysis of auxin response factors in peels of wax apple at different fruit development stages&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3b2tubVZYQUhuSnVGRHVuUFJacDhaWGlrelZYYTFvODJJWS12UU1aV0UtZE9obkEta3RlTUZCUWFQQnRLcC1xVzhyaWRrOF9CaWo5Yy1EdGkxQ1IzcDNr?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03384",
+          "keyword": "fica",
+          "name": "Fica"
+        }
+      ]
+    },
+    {
+      "id": "8526ee54e253",
+      "title": "New light-based switch could cut chip energy use and speed future AI photonics - Tech Xplore",
+      "published": "2026-05-24T14:10:01+00:00",
+      "summary": "New light-based switch could cut chip energy use and speed future AI photonics&nbsp;&nbsp;Tech XploreForget electrons, this breakthrough uses light-matter particles to power AI&nbsp;&nbsp;ScienceDailyUPenn physicists make ‘light’ work of computing&nbsp;&nbsp;The Brighter Side of NewsLight-controlled switch uses only 4 femtojoules and brings photonic AI chips closer to a future with less heat and lower energy consumption&nbsp;&nbsp;CPG Click Petróleo e GásMaking ‘light’ work of computing&nbsp;&nb",
+      "sources": [
+        {
+          "name": "Tech Xplore",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kU19PSFpSTlZlMkZINXpiUnZLdkRMMU83RVJJbzdKeEhobjZsRTFGeUNLeDZhY3pFcVVjVHJ3MUo0S05oVkhmYzg3TWp0MjVWNDgzdVcwQXBjWVBBZExNZzU2Y094Q2VwZ3VYNUw4UXVIYWxaV1NR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "99a576fbf31f",
+      "title": "Doctor shares 5 nutrition tips for maintaining thyroid health ahead of World Thyroid Day 2026 | Health - Hindustan Times",
+      "published": "2026-05-24T13:20:59+00:00",
+      "summary": "Doctor shares 5 nutrition tips for maintaining thyroid health ahead of World Thyroid Day 2026 | Health&nbsp;&nbsp;Hindustan TimesWorld Thyroid Day: What's the science behind mood swings?&nbsp;&nbsp;news.cgtn.comWorld Thyroid Day 2026: Thyroid Dysfunction In Pregnancy May Increase Autism Risk In Children&nbsp;&nbsp;NDTVTrying for a baby but not conceiving? Doctor explains how your thyroid could be playing a bigger role than you think&nbsp;&nbsp;The Times of IndiaQ&amp;A: World Thyroid Day&nbsp;&n",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWnFZaXpiMVFkUTFPT0R6aGhmbVBYU3BfWmUxNE9NeTRCSURDX3VvMEhDcUJjbXVmWjI1cUxjQjB6dmZkWnNJNlQ2WExIanRJWHQ5UTN6bWJsWmROTk5pcENJV3BFSnp2QnZPSENOWGx4QU1sZUM4MTFGejJ2bDBZUTdLTi1JUVNSc1BHbkE3bmhvdmxwQ0I2V1E5MHZWUnpReHE4ZWd1NFJHMGVDRnBKOVpmMUNjV004MEJIbXVsTmNFR3Zudzktb1N1OFFycGxHbG1SQndSZXVEZUhVUTEtR1pQQUJockdhQU5CMnZNOEpzSFFX0gH6AUFVX3lxTFBTd3M4TWw2cEo3bGxmck1fVmt1eFppMndJMjJBczlFeGY1T0duUWF6dkZpVUZoYWthZjJ6UDQ0ejQ3dVJUa2w1R1Ewb2RMWWwxdTgtTHRXUnJKaDkzTFgzRTNLYVNCT2VGQTl6bHo1UDg5WGhqWGpmend3ZkdXajJYTUt1UndWN1R5YWFQMTVRMUFveU81NlNDMFhROTZoc1RqY1JSYjRZNGdrNUJVa0Jybm1zWHlzMF96dWxSVDVHRnUwX0VxMUJiSUlZZ0F0UWowcEVUSVVDczAwRXkwa3VkTVZORERscjZIWjVsZU1rcy1Pa0FzQlRfNWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
       "id": "da400017344a",
       "title": "More than 500 children have died in an outbreak that the world is virtually ignoring",
       "published": "2026-05-24T13:00:40+00:00",
-      "summary": "More than 500 children have died in an outbreak that the world is virtually ignoring&nbsp;&nbsp;NPRMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraSuspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ET HealthWorld“Child-Killer Yunus vs. Crisis Manager Sheikh Hasina”: Bangladesh on the Brink of an Epidemic Due to Negligence, and the Leader Who Once Showed the Way Forward&nbsp;&nbsp;albd.orgICRC donates medical equipment to tackle measles outbr",
+      "summary": "More than 500 children have died in an outbreak that the world is virtually ignoring&nbsp;&nbsp;NPRMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraSuspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ET HealthWorld“Child-Killer Yunus vs. Crisis Manager Sheikh Hasina”: Bangladesh on the Brink of an Epidemic Due to Negligence, and the Leader Who Once Showed the Way Forward&nbsp;&nbsp;albd.orgOver 20m children vaccinated against measles: Health M",
       "sources": [
         {
           "name": "NPR",
@@ -362,6 +441,26 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "3bf7f378db0f",
+      "title": "Studying The Earth’s Outer Core From Outer Space - Orbital Today",
+      "published": "2026-05-24T12:09:18+00:00",
+      "summary": "Studying The Earth’s Outer Core From Outer Space&nbsp;&nbsp;Orbital TodayEarth's outer core beneath Pacific reversed direction in 2010, satellite data reveal&nbsp;&nbsp;Phys.orgEarth’s molten core flow 1999 and 2016&nbsp;&nbsp;European Space AgencyNew analysis sheds light on unexpected reversal in Earth’s molten outer core beneath the Pacific&nbsp;&nbsp;The Watchers - Watching the world evolve and transformEarth’s molten outer core is behaving in chaotic, unexpected ways&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Orbital Today",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXp3X3U3TWpzNHV0VlBvdjFMWDd5QnV4eWgzZ1lsMGVuOXJST1lWLVNSYlB1RXZ5ZXVGd29CdW5kcUJBbURGTjFuUWFMS1cyRmRqX1BqRUtwTEYxWlFiSmM1VUpxVW95MjZHUmgwa0VqSnB5aDZOZFJrRVVXQlVOS2tGZHRZR1FROFJIRQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
     },
     {
       "id": "641e095d2925",
@@ -410,46 +509,6 @@
       ]
     },
     {
-      "id": "0195be5ba986",
-      "title": "Evidence of Ancient Life Found Buried Under an Asteroid Crater",
-      "published": "2026-05-24T11:01:17+00:00",
-      "summary": "Evidence of Ancient Life Found Buried Under an Asteroid Crater&nbsp;&nbsp;ScienceAlertAsteroids may have contributed to the emergence of life on Earth — study&nbsp;&nbsp;UA.NEWSLife on Earth may have originated in the lakes remaining after meteorite impacts&nbsp;&nbsp;Universe Space TechHow Asteroid Strikes May Have Sparked Earth’s First Breath of Oxygen&nbsp;&nbsp;ScienceBlog.comAsteroid Impact Site Reveals Possible Traces Of Early Life&nbsp;&nbsp;astrobiology.com",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTkxiTHV0X2FsRVRMQ2E3a29LS3JHSDJqdTU4VG4tX1E0dlgyTERjaC04M0w5aFRMNzdMclBqbnFfYUs1VzdWT1F5b09pcWx0Tk1xWkNDZDMxeHBVX29XUzhibG1nNnJhMmphWjJFZnl5UWFoeGNhVTRPLXdTUVVlUU02U3c3V0gwNFlhZlpZTU9SZnBrUGc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB09140",
-          "keyword": "oxygen",
-          "name": "Oxygen"
-        }
-      ]
-    },
-    {
-      "id": "1126bb4467aa",
-      "title": "China launches 'human artificial embryos' to space in bid to see whether reproduction is possible off-world - Live Science",
-      "published": "2026-05-24T11:00:00+00:00",
-      "summary": "China launches 'human artificial embryos' to space in bid to see whether reproduction is possible off-world&nbsp;&nbsp;Live ScienceNews China Has Sent Human Embryos Into Space – Artificial Ones, for Now&nbsp;&nbsp;Asgardia - The Space NationChina has transformed its space station into a biology laboratory and is using fish embryos to understand bone loss in space. The results could benefit not only astronauts but also medicine on Earth.&nbsp;&nbsp;CPG Click Petróleo e GásNever-before-experiment:",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQenlUZ29jQnRjcXNGeXRUeW9Rc3N1cU1renN6RVgzVEdhYmpXbVM5dk1ndEl2TnhCTENWRUo3d3h5Q0tKaWM0XzZaWFFsTkVsVUhLREI5QW9Wd2FmOWpZLUp2YkZNTnlkX3Y0VFlVS3RYZkNaNm5rVURseFM2aGI5dkdubTBqUms5ZWFWQlFwS1F6ZUpEMDRILXRBNjlJelNROGZTa3FpSG4yajBtLWdPZnFnMkk5RnU0RzQtM1V3azBKN1Q1NGptZjIyMHdXV09XRjg5ZlVEN283ODlRdWJwUVpfbjRxRFB6ak9fc3RR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "5298",
-          "name": "osteoporosis",
-          "keyword": "bone loss"
-        }
-      ]
-    },
-    {
       "id": "e9ffaac3db49",
       "title": "Massive gravity “hole” beneath the Indian Ocean finally gets a possible explanation after decades of scie - The Times of India",
       "published": "2026-05-24T06:31:00+00:00",
@@ -463,28 +522,40 @@
       "matched_keywords": []
     },
     {
-      "id": "35fcce57eef3",
-      "title": "The Role of Hydrogen Sulfide in the Pathophysiology and Therapeutic Modulation of Hypertension: A Scoping Review",
-      "published": "2026-05-24T06:03:17+00:00",
-      "summary": "The Role of Hydrogen Sulfide in the Pathophysiology and Therapeutic Modulation of Hypertension: A Scoping Review&nbsp;&nbsp;Cureus",
+      "id": "ae2799a18bf2",
+      "title": "Why are young doctors dying of sudden cardiac arrest in India? Inside the rising silent heart attack crisis",
+      "published": "2026-05-24T06:29:00+00:00",
+      "summary": "Why are young doctors dying of sudden cardiac arrest in India? Inside the rising silent heart attack crisis&nbsp;&nbsp;TheHealthSite",
       "sources": [
         {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUUt6MVZSVVhtNmNKS1NoWUR3c25sRDJybUl0alV6UkF3RF9faXhvb1ZVV1RsdUlWbmlVNk1XbG5JVkdwRmlVOFl0YUowMzlkNXduWjJWRHltZ3MyV2Q4eWJQU1JrVW9HUndVdG4tS3NFc3RKR3NxMHNRcF9LSW80a3BlMVlBbXI5Y3MxaVpEcFFjMVFBZmhTbnE1N1VsRjhTRE1ic2I3UWZ3UGFmZ0dNTE1yc2c3TXFWR244cGlDMVdwUEFjRkwxYy1IZFRKdE9PYUN2ajEybm96cjdrQlBHVDdLWHM?oc=5"
+          "name": "TheHealthSite",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSTREYW9nTUljY2xpQUlyWmVoZV93MHNidmtuUXV0WUdZbU0zZEs1N2pVY3N3YTFNeE12UGRZT1pBM2RUVGI3NmtjVkpkUVp2VS1tbEtKV21xVHNJa2w4dFc5emFTMnA4bkRpR2lkemFCOVhWeFBlanlHekQ2Vlc5Y0pCYmVTRHhrVUNNZWdvVnp5a2RsTnE5a3h4UkVTRWNWLTVJTW8zdzVTRkt4Z0E1UVBpTFV0OFlaMUtlaVh5TzJJMFgxdTcyZk1oRzBnV1Fpam5KQ1R3el81WGk0QmozUGExak1yb3B3TExyVWZRcVdTZWFQNGY3UtIB_gFBVV95cUxPVjZ1SFB4SFZMWTJRSGdHeHNWajIxVTRIdzJTRmJpdjlLSWJjdy1UYWo0WUc4dm9XUkdWUy1kdVVBVVdjN1ZHOTVKbkxFMWRmVXY1RW9GejFsbTBPS2s4MnNvT2NEN0NNdFhkOWVoQnVDal9qdEJHYl9LcUt4aXRwMmIxR3NzOFF4NHRMNjNsZm9UTkROajR6TEY5U0dicW9uczd4dzdDLUNMR2h1MWx2Q0RhQ2VkVWtYeU9sMU43LXJ6aGxWOGpJZ3ZoZllzWGh5dng0bmhPSi1jcjZCalNqM2FFU0U4UDdSZm9CRGQwQmczYTVNZDJlZzJOSU8ydw?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
+          "disease_id": "7264",
+          "name": "sudden cardiac arrest",
+          "keyword": "sudden cardiac arrest"
         },
         {
           "type": "indication",
-          "disease_id": "1200_1134_15512_5080_100078",
-          "name": "hypertension",
-          "keyword": "hypertension"
+          "disease_id": "6652_3678_1090_3672_3673_3676_3677_3679_6803",
+          "name": "myocardial infarction",
+          "keyword": "heart attack"
+        },
+        {
+          "type": "indication",
+          "disease_id": "745",
+          "name": "cardiac arrest",
+          "keyword": "cardiac arrest"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__heart_disease",
+          "name": "heart_disease",
+          "keyword": "cardiac"
         }
       ]
     },
@@ -492,7 +563,7 @@
       "id": "1ae9ddd89124",
       "title": "Mayday! SA scientists identified hantavirus outbreak in 24 hours - The Times of India",
       "published": "2026-05-24T00:04:00+00:00",
-      "summary": "Mayday! SA scientists identified hantavirus outbreak in 24 hours&nbsp;&nbsp;The Times of IndiaMV Hondius captain disembarks, no new hantavirus deaths reported&nbsp;&nbsp;news.cgtn.comWHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus II: hantavirus natural history, infection control and clinical management of patients in hospital&nbsp;&nbsp;World Health Organization (WHO)Healthcare Focus: An overview of hantavirus and sensible precautions to take&nbsp;&nbsp;TheLandOnlineHantavirus confi",
+      "summary": "Mayday! SA scientists identified hantavirus outbreak in 24 hours&nbsp;&nbsp;The Times of IndiaMV Hondius captain disembarks, no new hantavirus deaths reported&nbsp;&nbsp;news.cgtn.comThe virus, the fear, and the freedom beyond both&nbsp;&nbsp;Kuensel OnlineProtect yourself and your home with these hantavirus awareness and prevention tips&nbsp;&nbsp;Westfair CommunicationsHantavirus confirmed in crew member&nbsp;&nbsp;EU Reporter",
       "sources": [
         {
           "name": "The Times of India",
@@ -500,52 +571,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "d4077af4d47a",
-      "title": "NASA Plans Permanent Moon Base to Expand Human Presence Beyond Earth",
-      "published": "2026-05-23T23:30:00+00:00",
-      "summary": "NASA Plans Permanent Moon Base to Expand Human Presence Beyond Earth&nbsp;&nbsp;ColombiaOne.comNASA Announces Realignment to Accelerate Mission Delivery&nbsp;&nbsp;NASA (.gov)NASA’s Moon Base Vision Includes Swarms of Lunar Robots&nbsp;&nbsp;eWeekNASA reorganization shuffle combines programs, lands KSC new director&nbsp;&nbsp;The Spokesman-ReviewNASA reorganizes to accelerate Moon Base, lunar programs&nbsp;&nbsp;The Pryor Information Publication",
-      "sources": [
-        {
-          "name": "ColombiaOne.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXhsMkQ0SExVYXVCVTRzbHVSVk5adDhBMVBsYUdjWXJZU25tTnhxTzg1TEhVa1ktUU1qaUtfUlNKTHBlSnJQSVVWRW50NjhsUHdNeDZGZzJmTUxSZnowYmVGOGt6Q1JUMl9Xc2ZNcVlaWnFETjVJaEQwLUdZWkdfcnA0b0lNQmNlbXdzWFloUHpXQ212TEVuMGpuU2hsTU5ySi1KNDRkYw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB03336",
-          "keyword": "bia",
-          "name": "BIA"
-        },
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "298cf2ceb58d",
-      "title": "China’s upcoming lunar mission to target moon’s south pole - Macau Business",
-      "published": "2026-05-23T22:49:23+00:00",
-      "summary": "China’s upcoming lunar mission to target moon’s south pole&nbsp;&nbsp;Macau BusinessChina advances efforts for lunar exploration, crewed moon landing&nbsp;&nbsp;news.cgtn.comChina’s Chang’e-7 Moon Mission to Explore Lunar South Pole for Water Ice&nbsp;&nbsp;Daily PioneerChina eyes 2030 lunar landing&nbsp;&nbsp;China Daily - Global EditionChina Plans Chang’e-7 Lunar Mission for South Pole Research&nbsp;&nbsp;GK Today",
-      "sources": [
-        {
-          "name": "Macau Business",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLVpyRFNUT1F0QjFodGFCTnA1b1RmTjlTN25lZzlIX2MwWlVGV2lrcUdfME5jbS1lUGlLaTg4Y3d1eElua0JIRG1JRVZwYVY0ajhrWk9NRGhpYW55ak1Ga2o5YkJEdWxZVkMteFJaNVl4ZlhveGJ0SDN4YmNiQXJqQmxoZ3dpYWRUdUFZ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
     },
     {
       "id": "2c70e1b2a130",
@@ -571,7 +596,7 @@
       "id": "093adfa5e2ff",
       "title": "Researchers finally discovered why gold never rusts - Tech Explorist",
       "published": "2026-05-23T16:43:46+00:00",
-      "summary": "Researchers finally discovered why gold never rusts&nbsp;&nbsp;Tech ExploristScientists finally discover why gold never loses its shine after thousands of years&nbsp;&nbsp;The Times of IndiaGold Atoms Rearrange To Block Oxidation In Seconds&nbsp;&nbsp;Quantum ZeitgeistScientists Found The Atomic Reason That Gold Refuses to Rust&nbsp;&nbsp;ScienceAlertPhysics explains why gold stays pristine&nbsp;&nbsp;Science News",
+      "summary": "Researchers finally discovered why gold never rusts&nbsp;&nbsp;Tech ExploristScientists Found The Atomic Reason That Gold Refuses to Rust&nbsp;&nbsp;ScienceAlertHow does gold keep its glitter? Researchers uncover why it resists tarnish&nbsp;&nbsp;Phys.orgScientists finally discover why gold never loses its shine after thousands of years&nbsp;&nbsp;The Times of IndiaGold Atoms Rearrange To Block Oxidation In Seconds&nbsp;&nbsp;Quantum Zeitgeist",
       "sources": [
         {
           "name": "Tech Explorist",
