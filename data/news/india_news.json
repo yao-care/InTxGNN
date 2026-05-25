@@ -1,55 +1,151 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-25T01:58:45.324086+00:00",
-  "total_fetched": 98,
-  "unique_count": 98,
-  "health_related_count": 44,
+  "fetched_at": "2026-05-25T09:41:44.021369+00:00",
+  "total_fetched": 76,
+  "unique_count": 76,
+  "health_related_count": 30,
   "news": [
     {
-      "id": "8380c377cea4",
-      "title": "New Ebola outbreak shows how market failure delays vaccine research - The Hindu",
-      "published": "2026-05-25T01:00:00+00:00",
-      "summary": "New Ebola outbreak shows how market failure delays vaccine research&nbsp;&nbsp;The HinduEbola outbreak poses massive challenges, warns nurse&nbsp;&nbsp;BBCDR Congo’s neighbors impose Covid-style measures in push to limit Ebola’s spread&nbsp;&nbsp;NBC NewsFirst meeting of the IHR Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda 2026 – Temporary recommendations&nbsp;&nbsp;World Health Organization (WHO)Inside the epicen",
+      "id": "243b54a9c11d",
+      "title": "Storms, Dryness Speeding up Biomass Turnover in Amazon Forest: Study - Chinese Academy of Sciences",
+      "published": "2026-05-25T08:21:35+00:00",
+      "summary": "Storms, Dryness Speeding up Biomass Turnover in Amazon Forest: Study&nbsp;&nbsp;Chinese Academy of Sciences",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDQ3b2YyallQOV9aWG8zQ04xMV92SXJvemVVN3VUU2ZnVlZ3VTRmUXV0dkQzcjBJTllYSGVvQjR5ekVGNFJwdFU3SU4yZmJ6T1IzU3BMZDhaWXBqV3pnSEE2SHd4ZHlpeHBxZTV6aFotY1MxdG1mdkwtdnBWLUc2TEd4UFAyUFRoc0stRlNHOXJHdFdWSnFKSlEzcGt6a3o2TWJFbW9pWXBKaFlJN2t6clV5cFdXS1IzVEd4MkphM1gtZkwwZ2dV0gHOAUFVX3lxTE1LVmNPaTVCVDlYa3l6RVRqWllQdkNVbU5mb2VBMzhUdWVQQVNyZXdaYnhCZXo4LWkxSUVsLXFyMndxS3diZ2tUYjQxNjY4VTVPaU1YNHA3THpzUmhuRXlJZ1h3U2lHMFRzUTM0dWp1cmM0MVdHbHdVcHBjQlZCVjA0bEZ0UUNhR0xpdWVGZHQzaF8zWTJXWFA0YkFILWJfRnljeFREM2x5LW1QT2ktNDExLUIwRE1ZU2wxRnFoZWd6Z1YtR2NxSmFraWkwMUh3?oc=5"
+          "name": "Chinese Academy of Sciences",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb2gxWVdnRENjZ1BkVFpRM3RPTE1aRUc5Y044eHRpSEItN3YyS2hPZWNlelpidUw4QXZkWFJwOC1VQ3NWSDhWM2pxZnFzYlRhNTFtUkdXYUZxQ3JNZDZ1RDFGNC1kTG9BM3BOLTVyWmFUWVgyd0R3T0owY1VJOElvWA?oc=5"
         }
       ]
     },
     {
-      "id": "f5fc98005160",
-      "title": "Cats Have a Unique Kidney Chemistry That Could Be Harming Their Health - SciTechDaily",
-      "published": "2026-05-24T21:57:14+00:00",
-      "summary": "Cats Have a Unique Kidney Chemistry That Could Be Harming Their Health&nbsp;&nbsp;SciTechDaily",
+      "id": "6d8527195d5f",
+      "title": "Thailand Introduces Ebola Screening for Travellers from Risk Areas - safariindia.com",
+      "published": "2026-05-25T08:08:59+00:00",
+      "summary": "Thailand Introduces Ebola Screening for Travellers from Risk Areas&nbsp;&nbsp;safariindia.comThailand steps up Ebola screening&nbsp;&nbsp;Bangkok PostThailand to quarantine travellers from Congo even if they have no Ebola symptoms&nbsp;&nbsp;The Straits TimesThailand Joins South Korea, India, United States in Ebola Travel Airport Checks with Enhanced Screening, Health Protocols to Protect Travellers and Prevent the Spread of The Virus!&nbsp;&nbsp;Travel And Tour WorldThailand tightens Ebola scre",
+      "sources": [
+        {
+          "name": "safariindia.com",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ3NlQl9sUVFmRkVpRXZnMkFBc0FjR3p1MElQclVQc2RON1h0NVh0dHE3NW1mSnVlNDA5OWxXSF9FUTBCczNUTk1zWHZSRGJ4cUxELTU4MWExcnp2RjVlSUduMVFCVkYxLXg4dzNicDZFUFBDQWV4bEZQSFdFMnBKeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bce2bfad8d17",
+      "title": "India dispatches medical supplies to Africa CDC amid Ebola outbreak - Medical Dialogues",
+      "published": "2026-05-25T07:30:15+00:00",
+      "summary": "India dispatches medical supplies to Africa CDC amid Ebola outbreak&nbsp;&nbsp;Medical DialoguesAndhra Pradesh govt. steps up Ebola preparedness, plans passenger screening at airports&nbsp;&nbsp;The HinduIndia dispatches first tranche of urgent medical supplies in wake of Ebola health emergency&nbsp;&nbsp;ET HealthWorldAvoid non-essential travel to Congo, Uganda, South Sudan, India advises citizens amid Ebola outbreak&nbsp;&nbsp;Scroll.inAndhra Pradesh on alert over Ebola virus&nbsp;&nbsp;The Ne",
+      "sources": [
+        {
+          "name": "Medical Dialogues",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjZNSUdNcFlrczlvRkE1VGwyNWVxbUhHWTZvdWFocVo2bG1nRUFVcU1iNGZfdWJiYk9MWC1XS2lybFdaVmlDbzlwQ0RqWVdYQUhwanJ0WFVqdkRIdE4zOG9qSmROc1REbjVIUDIzeXE5czJMaWo1aml2bXpxZ0VveEZmeURIcFdvTVpFY0RNb2xKRlVzV0VxWi1jSHEzM2dpTzN6LWFiRHo2cm5sTXhlWHJKVHZJVWtYbGhjMlB2U3B1ek44endN0gHMAUFVX3lxTE5rM3d2TER3Nnh6WFRzRFhVWVIzcWVRV0wtRENkRjdSLXNKOXBVN01DUWk2RUc1aUxzZ0N3TEt0aENwVGxwamUzRE5nSWIzREdobmxkMXRGcl8zZXdpaEZpdlBSMFpGR0JrTFRWSEFTZFJZSWV4ck5wN1dyNnR0UGtHUTRtOHI0ZFlkTndBODg1S3hTMGYyOERvMWU0OFJOdi1mRG1Ed3dWUTUwbTFhZm5ycW9DSDJuQXdkeUN2b3pHMDhUam00NDNReEZoeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "32d3f06ac82e",
+      "title": "University of Maryland launches advanced microscopy facility with MINFLUX nanoscopy system - Wiley Analytical Science",
+      "published": "2026-05-25T07:21:39+00:00",
+      "summary": "University of Maryland launches advanced microscopy facility with MINFLUX nanoscopy system&nbsp;&nbsp;Wiley Analytical Science2026 News&nbsp;&nbsp;Maryland School of MedicineResearch group to build its first lab in Baltimore for $2M microscope&nbsp;&nbsp;The Business Journals",
+      "sources": [
+        {
+          "name": "Wiley Analytical Science",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ1VqSktpcGtHZnI5bVVIb1N5U1ItTXA5bUJmUlRNN0h4ME9TM2tnMWh3MkFnaHZyVF9JbXlUMV9rZjJiVkFFTXlRUlZGWEZCWHJnVHV4MzVIWlFEbTIxUlNLTUdyWFRGRzdGUVRhNlItdzM5QXdFN09fR0w4RDhRdFZoZWEzTEgtZGFwVFlqN19jcXFwVU9kLXlFSzkzZm9oTDRadkl4ZlNoRDZxS2ZMU0tZM2p0VUFwTmY1MVlfWVV1ZnNFc0p2OGhDbm9jTWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0824f0d84a47",
+      "title": "Protective effects of herbal toothpastes against dentin erosion: an in vitro study - Nature",
+      "published": "2026-05-25T07:18:36+00:00",
+      "summary": "Protective effects of herbal toothpastes against dentin erosion: an in vitro study&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PeU51WUhpR3owZFRhZlhPV2JwbTlPWW1NVjBDM1k2VVJyUDZvdEZMcnpvS1E5X0gybTlSNnplckVUTmNab1U3SXhXRjlNVGxUTVVyYl9WZDJMVG90RG5Z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "50848e57e9e3",
+      "title": "Brainless sea anemones found using an ancient body-building blueprint shared with humans - Yahoo",
+      "published": "2026-05-25T05:00:00+00:00",
+      "summary": "Brainless sea anemones found using an ancient body-building blueprint shared with humans&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU0x3eTJjWTdlRzFzZmpULWpIdHFLNnZoeXFoRFBEZmdaRUVqTk1lVUhQb2NWQ2ZBd1c3bkpRaktoWWZQUTRVVDlyb19FU3BCaXJjX0ZBaTFjeGpheUItRXpSejRYdXl0U2J4aFlOcGVFR1dfcjlwMmZYV0dWazhBeFhBMHZGNUh0LWsyd3FQeDFlNTR4ZmlYYg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e39e220a67db",
+      "title": "New AI model detects hidden antibiotic resistance genes beyond standard databases - News-Medical",
+      "published": "2026-05-25T04:45:00+00:00",
+      "summary": "New AI model detects hidden antibiotic resistance genes beyond standard databases&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ1c3bFJLQ2tXTmVfWEdlbXlqT3BhZ2ljTmYtaURpUnNQc0RqTWZ6WTBPQ2tySi1IX3JRVFM1VGJDY3JKa0wyNWNxbzdodjJEZlJ4QWtZMzVjZ3BGak04UnNaMGQxSEFTZlRqQkd2cU9YNUV0M21iazc5LUJXenVPSGZqeHBKb01wOFBBT0J1ZmtMMTFwVjBkaTVKZUVpU084Sm9PMjNLdy1jczZheDMxVHlhenN6X3FBUUNjUVBaUjlYOHllT2xfNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a34eae0b70cb",
+      "title": "World Thyroid Day 2026: 10 Signs Your Body May Be Warning You About Thyroid Problems - News18",
+      "published": "2026-05-25T03:51:48+00:00",
+      "summary": "World Thyroid Day 2026: 10 Signs Your Body May Be Warning You About Thyroid Problems&nbsp;&nbsp;News18World Thyroid Day: What's the science behind mood swings?&nbsp;&nbsp;news.cgtn.comWorld Thyroid Day 2026: Thyroid Dysfunction In Pregnancy May Increase Autism Risk In Children&nbsp;&nbsp;NDTVArtificial flavours and additives in packaged foods: Could they be affecting your thyroid health?&nbsp;&nbsp;The Times of IndiaDoctor shares 5 nutrition tips for maintaining thyroid health ahead of World Thy",
+      "sources": [
+        {
+          "name": "News18",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPc1ZjNURuX3gzNy1IYmplMEFtUFdFd25XRlpjSGMxNDhlMGZFM3BWNEd0OTJVMl9qQXRXRmxEQTJfQnNBTE1EVGV2dXJxeXNqQWFNa0ZGMnhJUTdhVVROSjlNYU9UaHJpNDBmeGg2UG5SZENfN1ZQRzd6QXBQZm15bzVKb2JIc3FLcTBXem4wTWdYT1VXZlZrS0VzdWR5cklyME5sRVo1SmFIejU5cW5GS2g3N2lleW5NUEpoQjl6WG8zQXpNZ1hfbDYtU05PYTZrYzdzRXBjSVBhZ2FkdEpzUTI3WmdBSndUUnhGTVBBVzN1MGh5UEtnUUlDQdIBgAJBVV95cUxNWE9DQjdXSmFPSDJBdUpEZ1ROR3dCMGtpYjZjRkc5Ul8tcjUxZndzcDI5eXlBTnJrMTdmbExrckdlazhRUktkY1F6TjF3OWE0MWljdE9SZ0hZa2lYa3BsYldrMUwyOVl4YVlZWDQ4SmIwdXZtRGQ1WWo4WHhNVi1Jd0x3X0wta09tbGs2NFZXXzdubEh0clo0VDY3QmZwMWFFdE5DbGM4aDUzUGh1UEZFc2JKdDQ1cURKMVlqMDlEU2YtaVNDLTNKcElFbEdMNUo4YlRwZkFOT1FGdTBsbExRSWJZNC1mNzFXV21nOHNaV3NUUFVzQWVhUVEwRmVtenU3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9939e642817b",
+      "title": "Ebola cases in Congo's east climb over 900: authorities - BusinessLine",
+      "published": "2026-05-25T03:10:05+00:00",
+      "summary": "Ebola cases in Congo's east climb over 900: authorities&nbsp;&nbsp;BusinessLineEbola outbreak poses massive challenges, warns nurse&nbsp;&nbsp;BBCEbola cases in Congo’s east climb over 900: authorities&nbsp;&nbsp;The HinduEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)Caught Flat-Footed, a City Races to Catch Up With Ebola&nbsp;&nbsp;The",
+      "sources": [
+        {
+          "name": "BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMDd6MVRmZi1kMTE2dGMxa1JXQXFwalNORVlhUFgwczJYVExlSEhRU3hKM0l1UEZCanB6dHp3NWlKMEFiOU1lbTZBQ0l1U1ZQMXlwbzhuSWdGUmhFNDFacFhTM3RfVHNUZXl1Y1JpdnY2NUR1QW9PTlZvNzlzNWZTYUhmd3FxT3RXeEhUWGF2bDU1OFpDeE1zdVoyRE5IQUFuaUpmbWNPeHZWN3dEUGFwbWVDTU1iYWhVMEsxaVZB0gHEAUFVX3lxTE5odXZJQ0FXOFhSZ3JxbFNibkc2OFNTUkNUcFpFeFZVTXJGaS1KTVFyT0l0dEZlVi00TFdoVFZyU182UVN6SktoMEFJTzAwWjJvUGotM0xxQ3lMQ1VOc2dfSE9hOC1fU3BKZjBiWEJ6azFEYzV6YkF4aGxGT3FscDI3alBLemVlMmxUU1RhbEZBd1pKZURCOHQ0SE00SU8zLTZHNWQ5bjMzeGUwdFFsczA5WUdhYWVnMU9VQk5DcWsyN3ZxQmw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "88a71d62bb0f",
+      "title": "Prevalence of indication for lateral approach sinus floor augmentation in maxillary molar tooth deficiency: a retrospective study - Nature",
+      "published": "2026-05-25T03:03:47+00:00",
+      "summary": "Prevalence of indication for lateral approach sinus floor augmentation in maxillary molar tooth deficiency: a retrospective study&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjUjdrUWdGVnAwTGRaazFud1p2U241QzdpaDFNblpuYlFpc2pKZ01OdzFmQ0l0aEdlT1dfSnprRWRtZmJwX09QV1JqTnNjZ0IwSmhadU1uOURMSXdxTjRB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bfd6a20a52d8",
+      "title": "Nuclear KRT19 links the NF-κB-FSCN1 signaling to gastric cancer metastasis - Nature",
+      "published": "2026-05-25T02:35:12+00:00",
+      "summary": "Nuclear KRT19 links the NF-κB-FSCN1 signaling to gastric cancer metastasis&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zYkNTV09zV1hkMjQxOHpuUjJzVkMyWU9wanBJQ2pTV1RmTXJ2dHN5M1YzaTV3X1B6U1lDUGNnVHhHNXJxd0dZeUxlY3JwVnlrWUJtQ2k1UGpydEp5dzlj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52d4a2b4d784",
+      "title": "Scientists Create “Trojan Horse” Weight Loss Drug That Supercharges Results - SciTechDaily",
+      "published": "2026-05-25T00:56:58+00:00",
+      "summary": "Scientists Create “Trojan Horse” Weight Loss Drug That Supercharges Results&nbsp;&nbsp;SciTechDailyVideo Weight-loss drug shows breakthrough results&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosSYNCHRONIZE-1: Survodutide Achieves Significant Weight Loss Versus Placebo&nbsp;&nbsp;HCPLiveWeight-loss drug shows breakthrough results&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWnNKUTRmZHJUQzl0bWdYbXhEM1VCdGJPWmY1cGN3WDlXMVprejU1QXlYSEVfLTBhLW1RVHd3MFJGNUdRV0l0cEt3VThHX3MyZWlfMThUdV83MGdzaEpEZENKWDFDUGR5S0w3ZUdiWmRLU3h2Rm1iUXZtV05Hc0UyNEVhTTR2R2R1TnF5bXQ0V2R5NXJUcDJQeTdGbnA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81358aa8ea03",
-      "title": "Spanish passenger with hantavirus infection quarantined in Madrid hospital - Newsonair",
-      "published": "2026-05-24T20:21:12+00:00",
-      "summary": "Spanish passenger with hantavirus infection quarantined in Madrid hospital&nbsp;&nbsp;NewsonairAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJWhat happened on the MV Hondius is a predictable consequence of how modern mobility intersects with ecological risk&nbsp;&nbsp;Down To EarthDeadly shadows at sea&nbsp;&nbsp;Global TimesM/V Hondius — Atlantic Odyssey: Tracking the First Andes Hantavirus Outbreak at Sea&nbsp;&nbsp;World Health Network",
-      "sources": [
-        {
-          "name": "Newsonair",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTThWTU5ESExacENTYldNV2VyNEZvSTBITmVSSm9DVDlVcE8zZFN2azJjQXZSUms4MEdQR2JmV2lSdEZHZ29ra1VEcmZLdEFwbnhxMVRxUGxGR25FNnU3TDBWcE1tUnNXOU5mTjdrVm9kZWNseUtNRkg1MTJROWJvdzVvOWNnZGh1MHh0V1R6ajE4QXAzUERsbk0wcFBISWFhdmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d25f842e0953",
-      "title": "AIIMS doctor Dr Neena Malhotra stresses early detection of preeclampsia during pregnancy - Newsonair",
-      "published": "2026-05-24T19:52:16+00:00",
-      "summary": "AIIMS doctor Dr Neena Malhotra stresses early detection of preeclampsia during pregnancy&nbsp;&nbsp;NewsonairHigh Blood Pressure in Pregnancy Still Threatening Mothers, Babies Despite Medical Advances: AIIMS Experts&nbsp;&nbsp;The Times of IndiaThe pathophysiology of pre-eclampsia&nbsp;&nbsp;NatureWorld Preeclampsia Day 2026: How diet stress and existing health conditions may increase pregnancy complications&nbsp;&nbsp;TheHealthSiteAIIMS warns of Preeclampsia danger in pregnancy | Tap to know mo",
-      "sources": [
-        {
-          "name": "Newsonair",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPblpHQ3BoTGc4QU1FYUk2bVRVVC1vZ0dzZ2t3eGhLU2dtSmxCQmxsMTN0NTZTTkItcUNyZ3ZMWnR2elNHWGcwOWV1WlVqd1V1ZHp0ZElxYmF3ai1rNHRVcmFiUGcxVDVrSFM5dWJGUVZFem1iLWhpVVdORV9TMUxYWEhYZnpXZWxOMnY4b1E3enF5YV9nRVlpYjFQSktaWTJZTXgxRnJCV0prRl81ZkdZMDM1MA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX3BCMlRPcWJ5VDlGZlItR2dhbzYyYXRCbzhUajRwRjA4MEt5RGgzUVExQ3A4WTFpS3ZtZ1lPdS1jZzdSalNZOFlnY05tZ0JzTU5GMTZQZy1rQVJqaU1iRWZnbFlrNWJoVmFUX2R1MGlyemR6UmpGZDJjSGdFMmNfSzNUWjU4RkdkZnE2SUM4ZXJUYTZCZ3dTeGh2dWRWZ1Q0?oc=5"
         }
       ]
     },
@@ -66,22 +162,10 @@
       ]
     },
     {
-      "id": "bcffcb23e291",
-      "title": "HP: HPV vaccination given to 41 girls in special camp in - UNITED NEWS OF INDIA",
-      "published": "2026-05-24T18:52:00+00:00",
-      "summary": "HP: HPV vaccination given to 41 girls in special camp in&nbsp;&nbsp;UNITED NEWS OF INDIAHPV vaccination drive to begin in West Bengal from 30th May&nbsp;&nbsp;NewsonairParents must ensure daughters get HPV vaccine: Bilaspur DC&nbsp;&nbsp;The TribuneGoalpara steps up awareness drive on Free Human Papillomavirus (HPV) vaccination programme&nbsp;&nbsp;The Sentinel - of this Land, for its PeopleNAPM, ALIFA and Health Rights Forum Demand Ethical, Gender-Neutral HPV Vaccination Policy&nbsp;&nbsp;Count",
-      "sources": [
-        {
-          "name": "UNITED NEWS OF INDIA",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcDFicnNmV2ViRVFJOWtyTmhMVFY5elIzaC1MMk04UmtHVFkzUnNNNmw4WXNaZXJRQTEwQ3dfcUJmLVVjT3A4d2duVFpzVmtKd3lnSm5MNlFXaTd2V2ZIVmE1cTl1R055U09DX2FIZllEMm5GSGFwZDFpblJ0aWt0T21QR2lBZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "634797f9afed",
       "title": "Gold-coated optical fiber rapidly gathers microscopic targets for faster, more sensitive detection - Phys.org",
       "published": "2026-05-24T17:00:11+00:00",
-      "summary": "Gold-coated optical fiber rapidly gathers microscopic targets for faster, more sensitive detection&nbsp;&nbsp;Phys.orgBringing bacteria into better focus&nbsp;&nbsp;EurekAlert!Optical fiber gathers bacteria for their close-up&nbsp;&nbsp;Optics.org",
+      "summary": "Gold-coated optical fiber rapidly gathers microscopic targets for faster, more sensitive detection&nbsp;&nbsp;Phys.orgOsaka’s 10nm gold-coated optical fiber gathers 100,000 bacteria in 60 seconds via laser&nbsp;&nbsp;Yahoo Tech",
       "sources": [
         {
           "name": "Phys.org",
@@ -90,14 +174,14 @@
       ]
     },
     {
-      "id": "509cf9cd6a37",
-      "title": "Sexually transmitted diseases are rising sharply - EU Reporter",
-      "published": "2026-05-24T14:48:54+00:00",
-      "summary": "Sexually transmitted diseases are rising sharply&nbsp;&nbsp;EU ReporterTwo major STIs hit record levels in Europe&nbsp;&nbsp;MSNSTIs hit record levels in Europe: what’s driving the rise?&nbsp;&nbsp;EuronewsBacterial sexually transmitted infections reach highest level in a decade&nbsp;&nbsp;News-Medical[Epidemiological reports] ECDC: Bacterial STIs reach record highs in Europe, as congenital syphilis cases nearly double&nbsp;&nbsp;European AIDS Treatment Group",
+      "id": "c3d154c9accd",
+      "title": "Genome-wide identification and analysis of auxin response factors in peels of wax apple at different fruit development stages - Nature",
+      "published": "2026-05-24T14:29:03+00:00",
+      "summary": "Genome-wide identification and analysis of auxin response factors in peels of wax apple at different fruit development stages&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "EU Reporter",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX05MeENhNmdXUF94Q1dCZHJ3STdXQlFLaXVUWlg2aWhDSm5KVWo5UENoWjV4ZVZXQXlRejFreVFDTXMxODZOS3RiTE1haXZDajVrbWtjc0JWV2V1d3VFd043ekZSaFRlRHAzQXV6Tmh2bUdrdWRGSzBqY2tMckVWby1GZktTZVhnaFZQRUhDd19SR2pDTzlaeQ?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3b2tubVZYQUhuSnVGRHVuUFJacDhaWGlrelZYYTFvODJJWS12UU1aV0UtZE9obkEta3RlTUZCUWFQQnRLcC1xVzhyaWRrOF9CaWo5Yy1EdGkxQ1IzcDNr?oc=5"
         }
       ]
     },
@@ -114,50 +198,14 @@
       ]
     },
     {
-      "id": "fe65f6a28920",
-      "title": "Persistent Alternaria Sensitisation Linked to Asthma Risk - EMJ",
-      "published": "2026-05-24T14:02:22+00:00",
-      "summary": "Persistent Alternaria Sensitisation Linked to Asthma Risk&nbsp;&nbsp;EMJ",
+      "id": "da400017344a",
+      "title": "More than 500 children have died in an outbreak that the world is virtually ignoring - NPR",
+      "published": "2026-05-24T13:00:40+00:00",
+      "summary": "More than 500 children have died in an outbreak that the world is virtually ignoring&nbsp;&nbsp;NPRMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraSuspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ET HealthWorld“Child-Killer Yunus vs. Crisis Manager Sheikh Hasina”: Bangladesh on the Brink of an Epidemic Due to Negligence, and the Leader Who Once Showed the Way Forward&nbsp;&nbsp;albd.orgICRC donates medical equipment to tackle measles outbr",
       "sources": [
         {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0FMRVl6Zzl2VU01cm0xSEIya2lNT2RSN05FY29uV1pCaENYRHduZDNRSmJRcmlvQ1ExZ2RYSzNwczcwN0RzSE1UcG1mYjY5cE1qR3k3MU5LcGFtalY4N2tBVmlOVEpSRG11bXRla0w4WmEzWWx0SjlNTUdPNnNFV3RZMlFmZlZNVGpmS3dkRDZLeGpMSG11aVFWQ1piaGFSTFZYQjhNdmxrWWgwUVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3dc161478fc6",
-      "title": "Exercise and healthy diet may lower leptin levels in obesity-related hypertension study suggest - TheHealthSite",
-      "published": "2026-05-24T13:16:00+00:00",
-      "summary": "Exercise and healthy diet may lower leptin levels in obesity-related hypertension study suggest&nbsp;&nbsp;TheHealthSite",
-      "sources": [
-        {
-          "name": "TheHealthSite",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNnRRdEs4VEhYMnRpUEpVX0ZuQU9ic051azJfR0ZQYnRPWW92M3NnR0dpSi1WVTRFd0RGbk1aTlJHakJUeDdQRkRvd3ZsamxrdTZYY2k5MnN2cFhtUDRvcWJRX1drQWZ1OXRJZHR0ZDRFMXN1Vm1NYTZuQVRoOUhSMDd0aDJDT216N3pieEVZU2o0eThGbGNjNGFsNWh4NDYybmptVVRSX0hZdWN5Ylg0Y0trZHp0R1BGdVZjaVpmVDIwRzYwS1VRN0ZKbVp1VnNndkt0SkdITFZUQ0VJSTZYWXJ4TnQybmd5MFHSAe8BQVVfeXFMTVhZaXZBUmZ6M1hINUx4UzlUZHQtaFhfR3NiYXdoOHRoNVNHUlVzMjN1UFZsM0hMT2YtaGtHYVdCUnRrS0xBRWhiNzUyX0EzTTV1dVhGeFUtbUNweDJKR19IbDZfSkdFU1JIUjF4elBCYjhCcjZmOC1YNW9FUWJibVFIN1FaR1JGNDNEby11djVQeGhoaG1Zc2FudUVSaW9tdjFhYWVEbG03VEtteVhRVDdhU1FFUko0NEJGVlRkQzl3d2RwcVhKcER2M29KeF81UDN1RmhkWHE4LS1taGpyeGE3U0VjcTktQXVCN0VGcWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9434c03565a3",
-      "title": "Doctor explains: Why packaged ‘healthy’ foods are driving obesity and diabetes in India - Firstpost",
-      "published": "2026-05-24T12:57:57+00:00",
-      "summary": "Doctor explains: Why packaged ‘healthy’ foods are driving obesity and diabetes in India&nbsp;&nbsp;FirstpostWhy ultra-processed food is India's biggest silent health crisis&nbsp;&nbsp;CNBC TV18Are some ultra-processed foods good for you?&nbsp;&nbsp;FoodNavigator-USA.comIAFNS and Academy of Nutrition and Dietetics Publish Guidance to Help Practitioners Navigate Questions Around Highly Processed Foods&nbsp;&nbsp;The Manila TimesAre all ultraprocessed foods bad? Take care in counseling patients&nbs",
-      "sources": [
-        {
-          "name": "Firstpost",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNnkzV09EeFNUWmNJX2k4c25DN21OTEVMeGU2TzhHSFVBaC13WUFRcGYtYXpIQkg0OGVRUDJTb2JueVBQZlFJUmdCT0JUcXBPSTF5WTNyeUF2TmpoV3pPemJmU1RxcXh4d19CWE45VlBDYmZHNkhYRVRteDF6SUZJWVRoVTVEY2JRSnNYSzBHRmJMRlFna1cycmhRUFp4a0V6YkxpdkpHWUlSSzJTeEF4RTJ6R2puUlhhaU11UmFCLUNkQWx4N2I5aEVpVXhwbXZSQ2fSAdcBQVVfeXFMUFY4dFlja0lXVXdhS3hCeE9JTk9Sa3NYdEdERWtiNExFdVdYV1dpWU52VDZVanlNb0k2eEVPYXBmOHBRMndDTXBzZmJaZ1FsSEJwMTBLUXE4YWcwZTVYZk1Edk05elRlV0FXTEN4S2hlVEhxU1N4OHdWZXJKN1VwekFSUW1CbWZWeXNjNTY5SnRObF9IZlp2VEoxaDRHRVhCaEFlTWFhSjZqRENiRXRQNWpmTDlFV2lickJvZk5WZXJ4cVZWTFlldVM0Z1AyWFdobG03b0J0Q0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d150b70c5f5c",
-      "title": "Ebola outbreak: Passenger screening commences at Pune airport - The Indian Express",
-      "published": "2026-05-24T12:49:32+00:00",
-      "summary": "Ebola outbreak: Passenger screening commences at Pune airport&nbsp;&nbsp;The Indian ExpressIndia issues advisory against non-essential travel to Congo, Uganda and South Sudan amid Ebola outbreak&nbsp;&nbsp;The HinduAndhra Government On \"High Alert\" Over Ebola Virus, Initiates Screening At Airports&nbsp;&nbsp;NDTV'Committed to support': India dispatches urgent Ebola relief supplies to Africa CDC&nbsp;&nbsp;The Times of IndiaAvoid non-essential travel to Congo, Uganda, South Sudan, India advises c",
-      "sources": [
-        {
-          "name": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbnNTSEVJWnZUOGV0Y2VCUlBaeWFOenlCdHlRXzZCVXpJOGZuZ3I3amRUTURQVGRoUHUwdC1Ea3Y0SkZzZ0xObzJ6dkUyNVpUS3JVUVBjZTdtbnpYbnN5Q3A1cHBKNnhVemlCLUtNSEJvakhBN2tRTWhFRldQU3BwUlZfUm9SQ1dHR3gzS1d6N2p6aHR4Q1UwUHM0X2VpaV8zclRpeVB0aURNX0JZWlFKOFFJMUpONkXSAb4BQVVfeXFMUGxIQmt4Y1gyeW5FSDE1VG9Ea0tja2lyR184UEJLa19CTnRjTWMtZ3dQb2dka0xGblJEalV3WXgxSVZqM1NkR1R4S3pEcjVUN21MSUxVUlNhSUViQTlpbi01T1hMZUV3a091WXhPV2d1WjRfWDd1RUNYODdjRUlZTnZLWW9nRC1QeW02dk1NRkhUUWNib3pkUGdqQU44WTRLWFRRQ3FMT1NZa0ljLTNfSkx5QXRXc25jcGlyeE1Fdw?oc=5"
+          "name": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUNTNmVMOUlSTUFUUThpcGJUdGFwNzMzVk9MSVZFUnVKYnd4am1lTDR0d1E0cE9HZTJnSEpaMmtJUWR5Tmw2dXV0d2Z5U25hQW5NcnpJRTFJYUhmQ2M5S25FTC1aS0xEZnU5dGNIZHd4Z0NuaWFFeHIwb2hfMzdCck5EbTNnOFA4dXM4LUhCcWc?oc=5"
         }
       ]
     },
@@ -165,35 +213,11 @@
       "id": "f7c7193a271c",
       "title": "Did Milky Way secretly swallow another galaxy? Ancient stars hint at lost star system - WION",
       "published": "2026-05-24T12:27:00+00:00",
-      "summary": "Did Milky Way secretly swallow another galaxy? Ancient stars hint at lost star system&nbsp;&nbsp;WIONThe Milky Way ate another galaxy. Scientists say they’ve found the scraps&nbsp;&nbsp;CNNAstronomers Spot Remains Of Galaxy Devoured By Milky Way&nbsp;&nbsp;NDTVStudy: Strange stars may actually be remnants of a galaxy the Milky Way 'ate'&nbsp;&nbsp;WKRCMilky Way May Have Engulfed 'Loki' Galaxy Billions of Years Ago, New Evidence Suggests&nbsp;&nbsp;Ratopati",
+      "summary": "Did Milky Way secretly swallow another galaxy? Ancient stars hint at lost star system&nbsp;&nbsp;WIONThe Milky Way ate another galaxy. Scientists say they’ve found the scraps&nbsp;&nbsp;CNNAstronomers Spot Remains Of Galaxy Devoured By Milky Way&nbsp;&nbsp;NDTVAstronomers find Milky Way collided with Loki 10 billion years&nbsp;&nbsp;NewsBytesStudy: Strange stars may actually be remnants of a galaxy the Milky Way 'ate'&nbsp;&nbsp;WKRC",
       "sources": [
         {
           "name": "WION",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa296VkstYm9tM2l6ay1KLWVQOVlCNGxPZ3BsS3ZNWEpiUmpTX3Z0ZktqdEU1Mkc1bHFXTXFPZEphb1JYcXlwNGEteUtmckxaVUNqRDZQNHk3ZUZ0NmZKZF9EbWNpeWttaHo0YTQyc3R1bWJsdzZ5TTc3SHkxbUhqWUJocHBHd0dIZ3VGTVg4VEhDTWdqdGRWTU1MaV9KS0VpSTMtNkNzWmw0QmRnUEY4cTBqMHNpSGNGemRKSHpLTWdVTFZOUWlEMVNxMNIB0AFBVV95cUxNT2dMcXhRZUhXSlpVVWtMVU10bkRLdzUtU0VaeHdJMjZhSEZxZDBJY3dLSmFULTdKZlNrcXU5aG1ZbVQ3bnBEaURzdFd1YTZNQjBWeHNONWh0RUdUUE1VRXlTX2FoazJpM2N0VjRlaldQN1VjSmdZTVIwRXl1VXpHM2dORktFVjFrd2tLaGxiaWxyUU12Qmc0d3FOeVo5VDUxdVBMYWZFcHFsRjI4Wjg3QnRLRHlOQ0ptMHhnTXAxRndxbm9UQ3VLYVZtV3pEa29f?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3bf7f378db0f",
-      "title": "Studying The Earth’s Outer Core From Outer Space - Orbital Today",
-      "published": "2026-05-24T12:09:18+00:00",
-      "summary": "Studying The Earth’s Outer Core From Outer Space&nbsp;&nbsp;Orbital TodayEarth's outer core beneath Pacific reversed direction in 2010, satellite data reveal&nbsp;&nbsp;Phys.orgEarth’s molten outer core is behaving in chaotic, unexpected ways&nbsp;&nbsp;Scientific AmericanEarth’s molten core flow 1999 and 2016&nbsp;&nbsp;European Space AgencyNew analysis sheds light on unexpected reversal in Earth’s molten outer core beneath the Pacific&nbsp;&nbsp;The Watchers - Watching the world evolve and tra",
-      "sources": [
-        {
-          "name": "Orbital Today",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXp3X3U3TWpzNHV0VlBvdjFMWDd5QnV4eWgzZ1lsMGVuOXJST1lWLVNSYlB1RXZ5ZXVGd29CdW5kcUJBbURGTjFuUWFMS1cyRmRqX1BqRUtwTEYxWlFiSmM1VUpxVW95MjZHUmgwa0VqSnB5aDZOZFJrRVVXQlVOS2tGZHRZR1FROFJIRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "072813926558",
-      "title": "A Bionic Arm That Helped India’s Amputees Face The World Again - Analytics India Magazine",
-      "published": "2026-05-24T11:52:40+00:00",
-      "summary": "A Bionic Arm That Helped India’s Amputees Face The World Again&nbsp;&nbsp;Analytics India MagazineWhile neural prosthetics cost fortunes and require brain surgery, a 17-year-old student used a $75 3D printer, fishing line, and artificial intelligence to create a functional robotic arm for just $300.&nbsp;&nbsp;CPG Click Petróleo e GásThe new normal: How high-tech limbs are changing lives in India&nbsp;&nbsp;expresshealthcare.inWhy Are Advanced Prosthetic Technologies Transforming the Orthopedic ",
-      "sources": [
-        {
-          "name": "Analytics India Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVC1XeGdjZ1hDNG1tT1NRVkxYbWRNUXNKc0oteFFRZ1Y1N29Uc1EzLThvMFFTZnhITEVaSXN5bnU4dm5aVFlNbXNDQWJpX1FMREprb3lPWTFIdmdRdW5vMlB6Rlhkal9WVFkxaGE5bkVqTlJKNDVpSktEVEdxc3IwUzVOZkFQdG13QVFGSDhDU2dXSTEza0xHbVpUMVQ5ZF9uN0hz?oc=5"
         }
       ]
     },
@@ -213,7 +237,7 @@
       "id": "7b02beb33e83",
       "title": "New Black Hole Study Suggests Singularities May Not Exist - Gadgets 360",
       "published": "2026-05-24T11:46:52+00:00",
-      "summary": "New Black Hole Study Suggests Singularities May Not Exist&nbsp;&nbsp;Gadgets 360Francesco Di Filippo's study suggests charged black holes avoid singularities&nbsp;&nbsp;NewsBytes",
+      "summary": "New Black Hole Study Suggests Singularities May Not Exist&nbsp;&nbsp;Gadgets 360Francesco Di Filippo's study suggests charged black holes avoid singularities&nbsp;&nbsp;NewsBytesBlack holes may avoid singularities when charge and Hawking radiation combine, theoretical physicist argues&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "Gadgets 360",
@@ -234,50 +258,26 @@
       ]
     },
     {
+      "id": "0195be5ba986",
+      "title": "Evidence of Ancient Life Found Buried Under an Asteroid Crater - ScienceAlert",
+      "published": "2026-05-24T11:01:17+00:00",
+      "summary": "Evidence of Ancient Life Found Buried Under an Asteroid Crater&nbsp;&nbsp;ScienceAlertAsteroids may have contributed to the emergence of life on Earth — study&nbsp;&nbsp;UA.NEWSLife on Earth may have originated in the lakes remaining after meteorite impacts&nbsp;&nbsp;Universe Space TechHow Asteroid Strikes May Have Sparked Earth’s First Breath of Oxygen&nbsp;&nbsp;ScienceBlog.comAsteroid Impact Site Reveals Possible Traces Of Early Life&nbsp;&nbsp;astrobiology.com",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTkxiTHV0X2FsRVRMQ2E3a29LS3JHSDJqdTU4VG4tX1E0dlgyTERjaC04M0w5aFRMNzdMclBqbnFfYUs1VzdWT1F5b09pcWx0Tk1xWkNDZDMxeHBVX29XUzhibG1nNnJhMmphWjJFZnl5UWFoeGNhVTRPLXdTUVVlUU02U3c3V0gwNFlhZlpZTU9SZnBrUGc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1126bb4467aa",
       "title": "China launches 'human artificial embryos' to space in bid to see whether reproduction is possible off-world - Live Science",
       "published": "2026-05-24T11:00:00+00:00",
-      "summary": "China launches 'human artificial embryos' to space in bid to see whether reproduction is possible off-world&nbsp;&nbsp;Live ScienceChina has transformed its space station into a biology laboratory and is using fish embryos to understand bone loss in space. The results could benefit not only astronauts but also medicine on Earth.&nbsp;&nbsp;CPG Click Petróleo e GásChinese space station launches pioneering experiment on human reproduction in space&nbsp;&nbsp;AKIpress News AgencyChina to study huma",
+      "summary": "China launches 'human artificial embryos' to space in bid to see whether reproduction is possible off-world&nbsp;&nbsp;Live ScienceNews China Has Sent Human Embryos Into Space – Artificial Ones, for Now&nbsp;&nbsp;Asgardia - The Space NationChina has transformed its space station into a biology laboratory and is using fish embryos to understand bone loss in space. The results could benefit not only astronauts but also medicine on Earth.&nbsp;&nbsp;CPG Click Petróleo e GásNever-before-experiment:",
       "sources": [
         {
           "name": "Live Science",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQenlUZ29jQnRjcXNGeXRUeW9Rc3N1cU1renN6RVgzVEdhYmpXbVM5dk1ndEl2TnhCTENWRUo3d3h5Q0tKaWM0XzZaWFFsTkVsVUhLREI5QW9Wd2FmOWpZLUp2YkZNTnlkX3Y0VFlVS3RYZkNaNm5rVURseFM2aGI5dkdubTBqUms5ZWFWQlFwS1F6ZUpEMDRILXRBNjlJelNROGZTa3FpSG4yajBtLWdPZnFnMkk5RnU0RzQtM1V3azBKN1Q1NGptZjIyMHdXV09XRjg5ZlVEN283ODlRdWJwUVpfbjRxRFB6ak9fc3RR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d90bf482ebda",
-      "title": "Asia's Premier News Agency - India News, Business & Political, National & International, Bollywood, Sports - ANI News",
-      "published": "2026-05-24T08:56:00+00:00",
-      "summary": "Asia's Premier News Agency - India News, Business & Political, National & International, Bollywood, Sports&nbsp;&nbsp;ANI News5 Simple Food Swaps To Boost Your Gut Health, According To A Harvard-Trained Doctor&nbsp;&nbsp;NDTVHow often should you go to the toilet? How can you get the better of wind? Experts’ tips for a healthier gut&nbsp;&nbsp;The GuardianDon’t ignore IBS: Doctor explains why it’s a serious condition&nbsp;&nbsp;AOL.comA Philly Expert Shares 5 Truths About Gut Health That May Surp",
-      "sources": [
-        {
-          "name": "ANI News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3o3bUF2Y0VkTEV6SGttWGd1dkwxWFd2bF9jUFEyb1F6bXFmNVN0OG1yWEFWVnVORTUwYXhuSmwzbU9YdURrc0dJTS0xbENXNmd1UDhjRHhwTzY1bW5MR3dHMks4bzlVSHlJNXZhZ0VmeDB3ZlEyMUtvcnJJSVZBSHROS0g?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a5a2b8563712",
-      "title": "Chinese scientists suggest harsh environments foster early human creativity - South China Morning Post",
-      "published": "2026-05-24T08:00:06+00:00",
-      "summary": "Chinese scientists suggest harsh environments foster early human creativity&nbsp;&nbsp;South China Morning PostScientists Say Harsh Ice Age Conditions May Have Pushed Early Humans Towards Creativity&nbsp;&nbsp;NDTV146,000-Year-Old Discovery Rewrites the Story of Human Creativity&nbsp;&nbsp;SciTechDailyA Radical Innovation Helped Archaic Humans Survive a Harsh Ice Age&nbsp;&nbsp;ScienceAlertIce Age discovery in China challenges theories about origins of human creativity&nbsp;&nbsp;Mid-day",
-      "sources": [
-        {
-          "name": "South China Morning Post",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcTVZRFk4Z3BDRGtncTIzS0pFWVVtR3R2UHhqZ2dQd3p5cFVZemNzYklSM2FvdktPU3J5b3NDWi1HVFVSRUNzNi1zYjZITi1wZE9kNWNIU3lXNWZyaVpONDA3dDlwNC1ZXzEzS2VwTjBRbFZLcmtpNFRvMnA2a3BsTHVidTZjTklyNEFXeHJqaHRhVzJNalVVUXprelFMUVVLc01PWTM4V2xQOE5RZnhjRk5EV21BM2FoYVdrUHlwVzVRcFZFd3d3N1psOGU2NWVhNEtZLTNORTVCaGJCLTNTZldHS3cwRk5WTmFZYdIB7AFBVV95cUxOQlBIWHNDdklfcElKdy0zNnYteTlHb1UycHFCTW5HYXJINUowcVhBV01VYzdJdnhlQWVOQlhWRkF4UDNES1p6Yk5CaW9VZjlBdllCRjhIVnp0SC1QUEpnTFdrMzhudHp0bWFmSVp2cFhsWEg3VTNOU1VsdDc2UHk0b3ZYRkV3emFvWUp0T1BTOG9NRy1CZHVoSkRaNDFFWVJEMXB4YW9PTFlNY1ZVTENCTDlSdHNQTTg3WGt4MmZrNTRNd1NJamszVEJ1NmhDSnJBMWtIbzFCckVkV1dLNHBLdFlaeVJKSjZyc0o5VA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01175e9b926a",
-      "title": "Doctor shares 5 hacks to eliminate insulin resistance, fluffy belly in 90 days: ‘Nobody tests your fasting…’ | Health - Hindustan Times",
-      "published": "2026-05-24T06:41:50+00:00",
-      "summary": "Doctor shares 5 hacks to eliminate insulin resistance, fluffy belly in 90 days: ‘Nobody tests your fasting…’ | Health&nbsp;&nbsp;Hindustan TimesWhat causes insulin resistance may surprise you&nbsp;&nbsp;Geisinger Health",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPckNlMXl3VGFxWE9BRWRMM25zMURSTDA4U2kzcWZvMkdHNm5ISmZUamFOM3Bkbk1oYUticVp2MkFJMmtLYlBIS0FNTUt3OEZtTWh6ZUtsRFJhak9EQkViNk5BMUFzejVsTXhRSjlPUEwwNGVGZk95Tk45Umc0cWRjX3dTWi0zQ2xZWHpqX0x6dTZkVjRHa1dzWVI3VkpnanRsa2FPRmV2NHFjQlduSkhBTllEd1RvMjVjbUZTRUZjWDlMYzZ6RUFUaWpaMi0xZVd6S1A5azhzeUlTRWlvWmc5NXB6am00c0N3QXVfZW9CMllYOFlDcWtaS2pKTTh6X3NTLWoxZjdUU0RLckdEZnhGU0lR0gGXAkFVX3lxTE5Eck9jTWlNOXpCTXkzU25vdjhLckZvQVllMDZPZXpBSDRaS19FX0NGVmdYUmVWczZuNmJlVU1lYXRjS2Z6Z3FrX3lyZjJIZXB3VXB4U1dETlBqM1Q4MjZLZDBVZVh0bkwtcjJESVE4VzlYTjl3ZXgyMmhQSnI4UG1oQ2d0eTIzZUJ4dkFZZlJzU3V1NXVxRTg1b3NZbi1RS0tjdjV1Z2phdEhyMmVrVThxTTRZalJCNl9mTDFaZjk1dmZTLUp3MVUyQ1VEWU1FMkEzN3hGeUdnaTFNWURpRmtnZzluN0xjdkZEU0Q4N2h3dTFFMm55MnhydkdrODh2bUZoMm5LeHlzWTRhNVA3SExOTDFzVEtZWQ?oc=5"
         }
       ]
     },
@@ -294,18 +294,6 @@
       ]
     },
     {
-      "id": "ae2799a18bf2",
-      "title": "Why are young doctors dying of sudden cardiac arrest in India? Inside the rising silent heart attack crisis - TheHealthSite",
-      "published": "2026-05-24T06:29:00+00:00",
-      "summary": "Why are young doctors dying of sudden cardiac arrest in India? Inside the rising silent heart attack crisis&nbsp;&nbsp;TheHealthSiteIndia’s growing heart health crisis is now affecting people in their 30s&nbsp;&nbsp;The Times of IndiaMankind Pharma Unveils ‘Act at 30’ to Make Early Heart Screening a National Priority&nbsp;&nbsp;Passionate In MarketingWhy are fit youngsters collapsing? The silent heart warning signs you shouldn't ignore&nbsp;&nbsp;theweek.inCardiac trouble is no longer waiting fo",
-      "sources": [
-        {
-          "name": "TheHealthSite",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSTREYW9nTUljY2xpQUlyWmVoZV93MHNidmtuUXV0WUdZbU0zZEs1N2pVY3N3YTFNeE12UGRZT1pBM2RUVGI3NmtjVkpkUVp2VS1tbEtKV21xVHNJa2w4dFc5emFTMnA4bkRpR2lkemFCOVhWeFBlanlHekQ2Vlc5Y0pCYmVTRHhrVUNNZWdvVnp5a2RsTnE5a3h4UkVTRWNWLTVJTW8zdzVTRkt4Z0E1UVBpTFV0OFlaMUtlaVh5TzJJMFgxdTcyZk1oRzBnV1Fpam5KQ1R3el81WGk0QmozUGExak1yb3B3TExyVWZRcVdTZWFQNGY3UtIB_gFBVV95cUxPVjZ1SFB4SFZMWTJRSGdHeHNWajIxVTRIdzJTRmJpdjlLSWJjdy1UYWo0WUc4dm9XUkdWUy1kdVVBVVdjN1ZHOTVKbkxFMWRmVXY1RW9GejFsbTBPS2s4MnNvT2NEN0NNdFhkOWVoQnVDal9qdEJHYl9LcUt4aXRwMmIxR3NzOFF4NHRMNjNsZm9UTkROajR6TEY5U0dicW9uczd4dzdDLUNMR2h1MWx2Q0RhQ2VkVWtYeU9sMU43LXJ6aGxWOGpJZ3ZoZllzWGh5dng0bmhPSi1jcjZCalNqM2FFU0U4UDdSZm9CRGQwQmczYTVNZDJlZzJOSU8ydw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "35fcce57eef3",
       "title": "The Role of Hydrogen Sulfide in the Pathophysiology and Therapeutic Modulation of Hypertension: A Scoping Review - Cureus",
       "published": "2026-05-24T06:03:17+00:00",
@@ -318,46 +306,10 @@
       ]
     },
     {
-      "id": "c3d154c9accd",
-      "title": "Genome-wide identification and analysis of auxin response factors in peels of wax apple at different fruit development stages - Nature",
-      "published": "2026-05-24T06:00:00+00:00",
-      "summary": "Genome-wide identification and analysis of auxin response factors in peels of wax apple at different fruit development stages&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3b2tubVZYQUhuSnVGRHVuUFJacDhaWGlrelZYYTFvODJJWS12UU1aV0UtZE9obkEta3RlTUZCUWFQQnRLcC1xVzhyaWRrOF9CaWo5Yy1EdGkxQ1IzcDNr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d2b678934601",
-      "title": "The hidden danger of Fatty Liver Disease: Why doctors say it can help Liver Cancer thrive even before Cirrhosis - The Times of India",
-      "published": "2026-05-24T04:32:00+00:00",
-      "summary": "The hidden danger of Fatty Liver Disease: Why doctors say it can help Liver Cancer thrive even before Cirrhosis&nbsp;&nbsp;The Times of IndiaObesity, physical inactivity: Experts say half of Pakistan’s adults suffering from fatty liver&nbsp;&nbsp;The StatesmanNot alcohol or junk food, Mumbai doctors say these are the new triggers for fatty liver in youngsters&nbsp;&nbsp;Mid-dayFatty liver, diagnosis, and treatment&nbsp;&nbsp;Knox TN Today8 Sneaky Symptoms of Fatty Liver Disease in Women—Includin",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZHQ1dG9FRDlSQTQzb0NQNUQtTDB2OUEwZGJheFZTUE8yTVA4ZlNQMklwU2NDeFhoN0NhdWRfOHZqbHF4eFQ5QThHbnltbi1pYl95UGJySXZRaHpmWWlKVk5jQWVrNUJyOXZGenlVNHhXcC1YdzZqcXduVDNKYk1HMDY4aklDMG95Y0llQkhtSjJzTlp6TUZBZWJvZ1Vpd1VNTzVvbXNReUQ1cnFyT2NFaXB3ZVhTOFloOVQ1OV9LSXJsNXBuT0piYzVCOG1JOUhaZU1qWGhUSkYtRzYyOVFSTk5rb251SFQ4YXZQc1ZJa21wXzdDUkg5MnNqd3ozR0JORGFRQTZuRTdkZ9IBkgJBVV95cUxPWW92OEJLSXFyemI5ZGt3U1lVVVltdkFuMjRtXzl1czhJV3F4X3M2OHF3cnZDc0otdnR0c2txb0tIWDZTbTJCM252LXdZT193NEx1MFBpcWJmWHZIcGlHODNzRzZZSzY3NnBaQlpnOW9QOUF1R2xFN0tBeWYzeFNRNUFRUmRTU3lJQm9kc1FPTXNuY3AzN2NVSUMwV1Y4MDQtbDhxWmIwMThfeVNxT2pBQ191Zkx4aGplb29JMXZKbXlveW9FSXVsLW5GWGtmUXQtaUU0MVZsbW1zWXZwYXVEamlXWUV5bTdtTlVVYnRsWUVISTFqZEZ6aS1Yei1NcmFocE8yek5TNFU5WFh5NFZNSWNB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c9b54258b58d",
-      "title": "Common summer problems and how to beat them with Ayurveda - The Statesman",
-      "published": "2026-05-24T00:07:00+00:00",
-      "summary": "Common summer problems and how to beat them with Ayurveda&nbsp;&nbsp;The Statesman",
-      "sources": [
-        {
-          "name": "The Statesman",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNUdnYk56WXdlaHF6Y3pyWE9qdUhYUnI3LWtOZWZFdUtxZWZ3OTUzSXctSm11RzNmdkxjellNQUtEX25OMm52Qm9fcFpVYk9acUZKUUoxSHpPcDBYdzl6UVpRZ2R0NGJYeGxLRUIxSW81Y01Ma1NGdkUyd3pKZDMzOXVDbUJ1MVRlTzhMdDNKOWRDeXMzOUlmcGFSdEJab29CRGc4RU5CY25FUlhPSEgwT2V1MVdTYkIx0gG-AUFVX3lxTFBBM2FiaTdsdk52eV91MFVwd3oyald6ZFVBMVdMRFI0WHljUW1wSm5nR1dfaXl4UHFNNmhVWWotVnAwbXJ4ZFNwZUYyZGctYzBEMXZJaWxhVkNTdzk3bENHNGR0UEVSNUZUdEkybGxNVzdvbTR0UGZXbEp5N2JtNnFudHhtU3ZKVzNzSk11Q0tpdTZnX1dCX3NyRjNSRE94MnFjYW5wa0xfdFRVV0RIUE9TanQtVUYyc0UtdU50SGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1ae9ddd89124",
       "title": "Mayday! SA scientists identified hantavirus outbreak in 24 hours - The Times of India",
       "published": "2026-05-24T00:04:00+00:00",
-      "summary": "Mayday! SA scientists identified hantavirus outbreak in 24 hours&nbsp;&nbsp;The Times of IndiaMV Hondius captain disembarks, no new hantavirus deaths reported&nbsp;&nbsp;news.cgtn.comNumber of reported cases of hantavirus rises to 12, 3 reported deaths: WHO&nbsp;&nbsp;XinhuaTravel Health Concerns Rise After Deadly Andes Hantavirus Incident During Luxury South America Cruise&nbsp;&nbsp;Travel And Tour WorldHealthcare Focus: An overview of hantavirus and sensible precautions to take&nbsp;&nbsp;The",
+      "summary": "Mayday! SA scientists identified hantavirus outbreak in 24 hours&nbsp;&nbsp;The Times of IndiaMV Hondius captain disembarks, no new hantavirus deaths reported&nbsp;&nbsp;news.cgtn.comWHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus II: hantavirus natural history, infection control and clinical management of patients in hospital&nbsp;&nbsp;World Health Organization (WHO)Healthcare Focus: An overview of hantavirus and sensible precautions to take&nbsp;&nbsp;TheLandOnlineHantavirus confi",
       "sources": [
         {
           "name": "The Times of India",
@@ -378,26 +330,14 @@
       ]
     },
     {
-      "id": "68a5cf41ed62",
-      "title": "Childhood junk food can rewire brain for life - The Shillong Times",
-      "published": "2026-05-23T21:58:06+00:00",
-      "summary": "Childhood junk food can rewire brain for life&nbsp;&nbsp;The Shillong TimesChildhood junk food can rewire brain for life: Study&nbsp;&nbsp;ET HealthWorldNew Study Discovers that a Childhood Junk-Food Diet Rewires the Brain&nbsp;&nbsp;inc.comEating foods like these that are high in fat and sugar impairs memory in ways that are irreversible&nbsp;&nbsp;Earth.comShifting From High-Sugar to Healthy Diets Could Improve Memory&nbsp;&nbsp;Technology Networks",
+      "id": "298cf2ceb58d",
+      "title": "China’s upcoming lunar mission to target moon’s south pole - Macau Business",
+      "published": "2026-05-23T22:49:23+00:00",
+      "summary": "China’s upcoming lunar mission to target moon’s south pole&nbsp;&nbsp;Macau BusinessChina advances efforts for lunar exploration, crewed moon landing&nbsp;&nbsp;news.cgtn.comChina’s Chang’e-7 Moon Mission to Explore Lunar South Pole for Water Ice&nbsp;&nbsp;Daily PioneerChina eyes 2030 lunar landing&nbsp;&nbsp;China Daily - Global EditionChina Plans Chang’e-7 Lunar Mission for South Pole Research&nbsp;&nbsp;GK Today",
       "sources": [
         {
-          "name": "The Shillong Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjdEcldzSnNjeW9VR0RtdzZEMEhhbVpBNVZfV1ZZR1dKcVRlb0NPTFJ1WWZGUXFHMG5PNG5tSm9mbWVNTzZUVC1ndWlURDBseUVWWWtBeEtoQjF3NDMyaktnUVhZUTNENmVvRE94SWxoVkY4WTBFTkNUUHNRZkpxTEN4c25xenY4cUxFS0g4QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fc373d7de246",
-      "title": "PCOS is now PMOS: What does it imply? - Deccan Herald",
-      "published": "2026-05-23T20:08:24+00:00",
-      "summary": "PCOS is now PMOS: What does it imply?&nbsp;&nbsp;Deccan HeraldWhy is Polycystic Ovary Syndrome Now Called PMOS? For Better Care&nbsp;&nbsp;the-scientist.comIndian Researchers Oppose Proposed PCOS Name Change, Call it Western-Centric and Misleading&nbsp;&nbsp;Medical DialoguesMore than correction of a medical misnomer&nbsp;&nbsp;Hindustan TimesWhy was PCOS treated as fertility issue instead of metabolic disorder?&nbsp;&nbsp;India Today",
-      "sources": [
-        {
-          "name": "Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb3NGYlh5Z2JrNl9oV0RvX09GeHhKXzNTTWY5YWtiN3ZtMDRxRllLX1JuUjZxMzdVVWtORnpwdkdxRXcxdkt5STFwdnBCLTFtYlQyTFF0QldjV0VjUnNDMjFZTnh6cUM3ZlpRZWpjUHNHOEFlVzhrcXRHbkJRd2g1bzZZVVQ3cTg0RGN0TGdpVHhhQkxz?oc=5"
+          "name": "Macau Business",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLVpyRFNUT1F0QjFodGFCTnA1b1RmTjlTN25lZzlIX2MwWlVGV2lrcUdfME5jbS1lUGlLaTg4Y3d1eElua0JIRG1JRVZwYVY0ajhrWk9NRGhpYW55ak1Ga2o5YkJEdWxZVkMteFJaNVl4ZlhveGJ0SDN4YmNiQXJqQmxoZ3dpYWRUdUFZ?oc=5"
         }
       ]
     },
@@ -422,114 +362,6 @@
         {
           "name": "Tech Explorist",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43dGpIeGVYcDBaS2FoTkdpMTZmS0FsVUpHUE9iN2lzaGVqSVN3ZEw5aVlWV3duYVlkYXRkZ2FBdTN5Q2p0MUdiVkQ3OWI1V1B1VmlrZlVCalpWMk1FOWs2czN5cEw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1a8b5fd4cd7",
-      "title": "Rise in IBD cases among youngsters; doctors suggest to eat homemade food - The Hindu",
-      "published": "2026-05-23T14:36:38+00:00",
-      "summary": "Rise in IBD cases among youngsters; doctors suggest to eat homemade food&nbsp;&nbsp;The HinduSteady rise in inflammatory bowel disease in India: Experts&nbsp;&nbsp;The Times of IndiaIBD Has No Borders: Access To IBD Care — Prof Dr Raja Affendi Raja Ali&nbsp;&nbsp;CodeBluePGIMER's Pediatric Gastroenterology Division Observes World IBD Day with a Strong Call for Awareness and Timely Intervention&nbsp;&nbsp;:: India News Calling ::Inflammatory bowel disease: more than just a stomach ache&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbXJqTUVIMThyclY2QkR5OEZXamNmQTJxcW9YNTF1a0tPMzJTcFRua1h1Q1YyTkRzRldMZHRhTi1wcWVoanFRSFMwODl5WWhpWmJRaUk4Z0VBTHRpTnlHb0Rlb3VaNzc0OFVkOWNSa1JLU1Z0M1RvSFNiUHlrTkREeXFzNFBJel9PZzBUcUxfNUhJNDVxMmpRcndSUmdlbk9qUF8ySERrS1JJbnhjdGVLN3ZfSlE4TGtqMmJfUlRBaFFyNF9PN2tVeXNYRjRPSHE2OHfSAdgBQVVfeXFMUENEQkFCaWN3c0NsMktLQkx3bGZEZzVHZHVTaTdIVlEzeWhENTFCaWd6eEFRYzQ3aHBmcWFQdENwRlU2VWY4U2dXeFlnYjI3QVAzRExjYkxkYm1pSmRnWk54UGNFaTc2X2UwQzBkb1hZeEx5UGU5U1N5R3FuWU8wVkJ0WElmOVlpOTFWRUxZX3hIWDAtUHVMSXBUVTdvQlpWZV9ob3FFb0dBYWhXbXRmbUNCZE9oWkVCY3hWa0N6aVR0OFlzWUt5cDZ4QTViX1d0d24yNko5eDdS?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "156f41a0fb91",
-      "title": "Mental Health Disorders Have Doubled In 33 Year With Over 1.2 Billion People Living With It Worldwide - News18",
-      "published": "2026-05-23T14:04:00+00:00",
-      "summary": "Mental Health Disorders Have Doubled In 33 Year With Over 1.2 Billion People Living With It Worldwide&nbsp;&nbsp;News18Mental disorders leading cause of disability, surpassing cardiovascular disease, cancer: Study&nbsp;&nbsp;The HinduNearly 1.2 billion people worldwide are living with mental disorders. The number has been growing&nbsp;&nbsp;CNNMental Illness Burden Nearly Doubles Globally Since 1990, Says New Lancet Study&nbsp;&nbsp;NDTVBreaking News, World News and Video from Al Jazeera&nbsp;&n",
-      "sources": [
-        {
-          "name": "News18",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNYjIxb2ZTbDVwaTROMWs1d2tzUVdzZjI0T1k5c01GdjhMVUpPUHo5R2hESllGYWt4UUR4bVowMmxZZzZtR0RIQnJuNHloRjRfMWlyOE53eVc2Y29qWVpqcldLRGV1NmhnS3JCOUIwRUdQUFdGLTZLcjQzY21TdGl2eEJrTHI0aGhnSUF5Tl9wWU1ZMjVDS2pKT0QyczhsblhucUlQd0t0SlZZeGdxTGVKdEljbEdWZWpRdHdtVkVLLUZQd2RvcE5PZ0otZHpYbTZWM2hPYnhPbml3T09vaTdMWjNGOTN1YTBMSl9CM3poWEhzMk5BcktPLThMWGd3S2dpLWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4a2ddb1ae52",
-      "title": "When Stress is a Punch to the Gut - INDIA New England News",
-      "published": "2026-05-23T13:21:53+00:00",
-      "summary": "When Stress is a Punch to the Gut&nbsp;&nbsp;INDIA New England NewsWhen Stress Is a Gut Punch: New Research Reveals How Stress Slows Digestion&nbsp;&nbsp;Beth Israel Deaconess Medical CenterHow Anxiety Can Affect Your Digestive System (and How to Deal)&nbsp;&nbsp;Everyday HealthThe Hidden Gut Slowdown: Expert Explains Why Digestion Feels Sluggish Some Days&nbsp;&nbsp;Boldsky",
-      "sources": [
-        {
-          "name": "INDIA New England News",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BZ2RTZGZ4QlZtN0I4ZzNjNXhCanpTdVF4OEFSZ3kyODNlSlB6OXduQ1NSczBJUTBTSjZLc2ZyMGdXLURwR1dwRmNhYmZBZUk0bjY2d1hDd0JhVmhXekRIbWRGaWVOUXRMNTE0NmtRUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d992f6e13bd4",
-      "title": "Shocking study finds everyday food additives may raise cancer and diabetes risk - Northeast Herald",
-      "published": "2026-05-23T12:03:28+00:00",
-      "summary": "Shocking study finds everyday food additives may raise cancer and diabetes risk&nbsp;&nbsp;Northeast HeraldNatural Food Colors Embraced by MAHA Linked to Health Problems&nbsp;&nbsp;WSJ‘Natural’ preservatives in food linked to high blood pressure, heart attacks&nbsp;&nbsp;CNNMedical Bulletin 23/May/2026&nbsp;&nbsp;Medical DialoguesMassive Study Finds Surprising Problem In Modern Diets Linked To Heart Disease&nbsp;&nbsp;MindBodyGreen",
-      "sources": [
-        {
-          "name": "Northeast Herald",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYWhncjA2b1Jhd216dllxbTQ4Q0hqZm5wcmhUY1ZKQlRWVTZJekVMT3FQcy1pUWVEY3NzZThNZVNqVk1CTWtTNlA4NVVxdHRUN1NxclJ0bjhHTmdlc0hQRVpTSGg3UVlBeUpfLTZZRi1seENJbzhSQUpHeHNEMGRpLXpUdndUVHNxQlR4YktnaTd5VHF3SlROa2NlWmhIZDViTWdxNnBqSzhmdjA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "19c07efcf44b",
-      "title": "Serum Institute of India joins global push to develop vaccine for rare Ebola strain - varindia.com",
-      "published": "2026-05-23T08:45:18+00:00",
-      "summary": "Serum Institute of India joins global push to develop vaccine for rare Ebola strain&nbsp;&nbsp;varindia.comUK scientists developing Ebola vaccine that could be ready for trials in months&nbsp;&nbsp;BBCOxford Scientists Are Developing First-Ever Vaccine For Rare Bundibugyo Ebola Strain&nbsp;&nbsp;NDTVTrump shares pic of Iran covered in US flag amid reports of war restarting | Iran has warned of a crushing response | Inshorts&nbsp;&nbsp;InshortsExperimental mRNA vaccine may protect against multipl",
-      "sources": [
-        {
-          "name": "varindia.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMktBSzdiSVJ4TThwSkV2NHJlME5HOUpFZGNFNzRyallrdk9MWjBjbVAxZnROWUN4YTVBNjdiRThRSnVwbDctX0ZMLXIzTVNwczlTZVpJT0wwTDNaaDd4SlpGcmRwTzBtNXBpV0hSbXduUUQ0VGY0SW9HSFl4cDFISThYZ2ZWSzdjUHFISW5yMFh1WC1DWU1xSHNfUDBacEJGSGN6cEJWVndUblZoTU83NWgwVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "571369fbca9c",
-      "title": "Longitudinal changes in cognition, sleep, and psychological distress following the MORE program in head and neck cancer patients undergoing chemoradiotherapy - Nature",
-      "published": "2026-05-23T08:26:11+00:00",
-      "summary": "Longitudinal changes in cognition, sleep, and psychological distress following the MORE program in head and neck cancer patients undergoing chemoradiotherapy&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4Q3hlV2w3NmFXcVBvVUt1N0cySTNOc1dlaGJfeDRFRzRnZ19mWnNnRkZHbnh4VjB4UXVIeVdtRHRNV3pvWWh5TllpUVlMSGZlM1NhUXBSQ1ZRVGlVYldn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fe036b3937ad",
-      "title": "WHO Declares Ebola Emergency: Why India's Pharma & Healthcare Industry Is Watching Closely - eHealth Magazine",
-      "published": "2026-05-23T08:20:35+00:00",
-      "summary": "WHO Declares Ebola Emergency: Why India's Pharma & Healthcare Industry Is Watching Closely&nbsp;&nbsp;eHealth MagazineFrom Ebola To Mpox: Why Delayed Vaccine Access Remains A Major Global Health Risk&nbsp;&nbsp;NDTVThis Week in Explainers: Why is there no vaccine for this Ebola outbreak?&nbsp;&nbsp;FirstpostWHO Declares Ebola PHEIC Accelerating Growth in the Ebola Virus&nbsp;&nbsp;openPR.comDoes the Current Ebola Vaccine Protect Against Every Type of Ebola Virus?&nbsp;&nbsp;National Academies of",
-      "sources": [
-        {
-          "name": "eHealth Magazine",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmdpYktoX1BNYURXdXVYZ2pBd19WTnFpR25KakZ5ZS1ra18yaDl1dDlQR0p2WFdzc0VPLVlSX0ZFUWdFajktVHpoWnUtNzloNDVtaVRySkJfOVRJT3ZaZGhBVlNfVDVSbVQ0QzFoaGEzRnV4YzczMkZZYXZ2SS1OWVhoa1dhcjJIaWR1OEZtTzVYbzljOVRGQWdhVV9nU3FQendwMjhHejdwQUV4T0gtR0tTX3ljZVBiZ1pzLTlBWGtNNGlLTEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6b23bc86c957",
-      "title": "Worms found in food served at Doon Medical College hostel mess, inquiry ordered - Medical Dialogues",
-      "published": "2026-05-23T08:15:02+00:00",
-      "summary": "Worms found in food served at Doon Medical College hostel mess, inquiry ordered&nbsp;&nbsp;Medical Dialogues",
-      "sources": [
-        {
-          "name": "Medical Dialogues",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ21SMHlES2NVVk9JS1NFanhqclpJTXhGZ0RBNWc0TU9fWFdjakNjUW9QTDFoRkN4X1F3V2MtWU1vYlF4d3JwV3VaNmNXQklFQ2VmUGItdEF0aFl4S0d4NlFFTE8xRW5yOXVkdVQ3TjdEaFVCWTg4UUtoRGtTZWpIUG1PMWRSUnVjSHlpcHdqRjhzaHJaQTZVRVJSRFlsUlRXSk1ISk9Tcm1TeEx6aDM0UHdfeG8weEdSRVBROFFKeWtSbDJMUHB0WVZEUHJ5cHdUYk1hOEE1cmNqTTZBT3fSAeMBQVVfeXFMTmZkTlZIZmw2ZkRMUkJvOHpJMm1SYWN6WFduUlZXX1dmU01JQzV6TlN1emFtckY3dHZSZzh5XzdDV2RBd0hfZzJxcG1EZ2RRcHpTZEMwUFN5T3ZDVlhxUmdCSFlHaUw3dWRLY0RDbzNkbjVvdVBPSlB2cVFVMFBweXVMNmluNXdPUXNTenV1UXk4STl1X21oMEVCUWhqbTNYN3VpV0s1Y0t3cFhSdV90Z0ZFSExGUXc4bnU1Nk1HbVRrZVhQeDRMMG15TG5TUFFkN2Z4MXlqN0pVa1JyUU1IRUZZNTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fa5ffeacbd6b",
-      "title": "NASA's Perseverance Rover Spots Mysterious Rock Stack On Mars - ETV Bharat",
-      "published": "2026-05-23T07:44:29+00:00",
-      "summary": "NASA's Perseverance Rover Spots Mysterious Rock Stack On Mars&nbsp;&nbsp;ETV BharatStrange stacked stones spotted on Mars photo of the day for May 21, 2026&nbsp;&nbsp;SpaceNASA rover captures unusual ‘stacked’ rocks on Mars, scientists explain why this happened&nbsp;&nbsp;TechlusivePerseverance rover stacked rocks on Mars astound in stunning discovery&nbsp;&nbsp;Pune MirrorNASA's Perseverance snaps image of apparent 3-rock stack on Mars&nbsp;&nbsp;NewsBytes",
-      "sources": [
-        {
-          "name": "ETV Bharat",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjNiNk8zTl9vcHJ5MHdhUm1nNkJhMzVpUUZkNHhvTUZjR1B1dy1uVzN3WWJiWDFLclMwOTJwM0gtVUNZY3VZaWE0eWJzdEhNRzU3aUhkVTdIdXlveDFHXzQ5Y1ZjUlJ1RG1kMHZMS3B3MWNGXy1kbUlUeUdjLTdsTDlUYTdHaTlwV2xsRl9BU2JtTHpuV2lsQ0JjQm5KNmIwdElQZk5fejZhUTJJaE5SX1Y4S1p5QdIBuwFBVV95cUxOZ2NwcVZFRzNaOGY4b3RWbFdFTEhOdkJCaU9YSzlfaW1JWHJtRG9QUXpuUWtFTGIyamVaZldZVlJOZGN1OHVwRXNpYzE0ekZoX3ppUGhRRDRnck50Q0RXRFJRYUVTUFRVWDl0LVVsV0tTbjlGOVZZOF9TVW95MHhoV0FQQUdySHNaLVpodGMzM2FQTjJtV0pQQzR4ZDVjZ3dnQ0pvZWZ0QWUtRllONU5TMHA4WE5McFg1bzBJ?oc=5"
         }
       ]
     }
