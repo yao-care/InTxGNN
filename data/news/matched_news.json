@@ -1,30 +1,135 @@
 {
-  "last_updated": "2026-05-26T01:50:54.224937+00:00",
-  "total_count": 49,
-  "matched_count": 32,
+  "last_updated": "2026-05-26T09:01:04.302033+00:00",
+  "total_count": 56,
+  "matched_count": 37,
   "news": [
     {
-      "id": "9d557325bfac",
-      "title": "Over 900 suspected cases identified in DRC Ebola response: WHO chief - Global Times",
-      "published": "2026-05-26T00:35:00+00:00",
-      "summary": "Over 900 suspected cases identified in DRC Ebola response: WHO chief&nbsp;&nbsp;Global TimesInside the epicenter of the Ebola outbreak in DRC as the virus spreads&nbsp;&nbsp;CNNWHO Director-General's remarks at the Virtual Ministerial Briefing on the Bundibugyo Ebola Outbreak – 25 May 2026&nbsp;&nbsp;World Health Organization (WHO)WHO chief says suspected Ebola deaths at 220 as epidemic ‘outpacing us’&nbsp;&nbsp;Al JazeeraUgandan health officials report new Ebola virus infections, bringing cases",
+      "id": "6b0caf578b8e",
+      "title": "Oestradiol-to-Oocyte Ratio May Predict IVF outcomes in PMOS",
+      "published": "2026-05-26T08:48:26+00:00",
+      "summary": "Oestradiol-to-Oocyte Ratio May Predict IVF outcomes in PMOS&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "Global Times",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OU0NpeU1qdkV0ZUNVSGhVcC1fUjI3RU83TUlNWlVnNXNDWWxHTFVkdHVQaFBNM18wOUlXRU05QWlXekJVbkk5MEo0dUc5bXdXRXhHTTZZSG9ZNWtUZTZTWGpR?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkRuSjNTWkJSRDFVLWc4Mnp6X2o3S0J1a2tucnpLZ3JLSDRZMUtsQWNMZ2NjUEs4a3I0ME5hUExsUjBDbzdRSVptaHVEakViT2VFMmY2UlFKd0RrVTJKN0oxcjY0VWRBd0NOcnNIY2FNWXRQb2tEWjcyRHo1UjRZd0ZBOTVQTG1IT0JLTXhtcEp5azgyczZWX2xiUWxHYnBJTGwtVVdDelN2aW91di01Ymdn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB00783",
+          "keyword": "estradiol",
+          "name": "Estradiol"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "4622ef815616",
+      "title": "Tiny on-chip circuit could power next-generation quantum and AI technologies",
+      "published": "2026-05-26T08:00:02+00:00",
+      "summary": "Tiny on-chip circuit could power next-generation quantum and AI technologies&nbsp;&nbsp;Phys.orgNew light-based switch could cut chip energy use and speed future AI photonics&nbsp;&nbsp;Tech XploreMaking ‘light’ work of computing&nbsp;&nbsp;EurekAlert!Physicists Created a New Hybrid Light-Matter Particle That Could Revolutionize Future Computation&nbsp;&nbsp;The DebriefForget electrons, this breakthrough uses light-matter particles to power AI&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QTVMtWHFNWFhveXdBYWlqV0dLNGN2ZDJuYW9UMFdwV0NwZXJvWmk0Mlp5LVhqTlFaSmVKaXExTWdmRVRWODVNbUdldVpoNVBadEdqWmdydVRYVDhyLU9FQ2xMQS1zSnJFLTBVRWZrVk5DSGdtdVQxdA?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "89ebae81284d",
-      "title": "Spanish passenger with hantavirus infection quarantined in Madrid hospital - News On AIR",
-      "published": "2026-05-25T21:05:31+00:00",
-      "summary": "Spanish passenger with hantavirus infection quarantined in Madrid hospital&nbsp;&nbsp;News On AIRAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJWhat happened on the MV Hondius is a predictable consequence of how modern mobility intersects with ecological risk&nbsp;&nbsp;Down To EarthDeadly shadows at sea&nbsp;&nbsp;Global TimesM/V Hondius — Atlantic Odyssey: Tracking the First Andes Hantavirus Outbreak at Sea&nbsp;&nbsp;World Health Network",
+      "id": "dcaec082761b",
+      "title": "​Two sexually transmitted diseases hit record highs in Europe: How to protect yourself (early signs, risk factors, prevention)​ - The Times of India",
+      "published": "2026-05-26T06:22:27+00:00",
+      "summary": "​Two sexually transmitted diseases hit record highs in Europe: How to protect yourself (early signs, risk factors, prevention)​&nbsp;&nbsp;The Times of IndiaIreland sees sharp rise in STIs as levels hit record high in Europe&nbsp;&nbsp;BreakingNews.ieSTIs hit record levels in Europe: what’s driving the rise?&nbsp;&nbsp;Euronews.comSexually transmitted infections surge across Europe to decade-high levels, with gonorrhea up 303%&nbsp;&nbsp;ynetnews[Epidemiological reports] ECDC: Bacterial STIs rea",
       "sources": [
         {
-          "name": "News On AIR",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTThWTU5ESExacENTYldNV2VyNEZvSTBITmVSSm9DVDlVcE8zZFN2azJjQXZSUms4MEdQR2JmV2lSdEZHZ29ra1VEcmZLdEFwbnhxMVRxUGxGR25FNnU3TDBWcE1tUnNXOU5mTjdrVm9kZWNseUtNRkg1MTJROWJvdzVvOWNnZGh1MHh0V1R6ajE4QXAzUERsbk0wcFBISWFhdmc?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNellfTkZtTHJINFVQOFowZ0pzOGNmcEN6SjVYUjQxaTV4dVhhYmVnSzBSTGNZdlVyaC1HOGV3Vm1xdVM2RGhRczlIZ2dzc0FfMGZrWEZBNVYwNEJZVndyWXktQVlra1JiMndGZmVjWEh5UXg3TmFTRTN4VVdxZjFCWFB1ei0zSVZmZTBZTXk1RDN6TFA1U2ZfYUh6Y0lJcGVuSWZGWmNsejV2c1ozanNYTXV6dm1uTXBTckN1MkxWdlFTZnNRZHR4WHRKTmRQZHFHRUxydGlveXhqbzlkekhjRl9aQUJNZkNORzhtTF9uWVp6V0IyWXVPOHZfOUhLM1hwN2IxVURUZ0MxeUxldnlVTi1IM3NhNndUeGdWMTlQZEEwajTSAasCQVVfeXFMT2trcl9kaTBfa2J6ZVlKZVVoVUhBbVkzVUs5bVZIS04zZ0tOanFacHlHNWtXNHlfRWg2MkZRUHItZXBzNHRvRzZxT05QUkpMU0g3SlI3dUlQZ1Y5b016ZHRtazNjUUFqNXR2aVZQS0puNUZ0VFlhN3htUzlNcHg1WDRJdkl6U3BkMEZEYW5CaGhUOXVPMy1nY05wYWlhbWUwaU9INm1ieXZKQzlFc3BtYURhTnBaLUxONE51cTJoRkVqSDVERklTRVItbzNLWEo4Qmg5V2c3WnhlU0MzbWZqQmRXSGRuRmFlZ3FaSnpkb2tfdFJWeEFKY3Q5WHB4WnNxN0M1ZkJ6NlJ5UjZ2SDNOSG01ZG5xYWd0Y1FwOVZqOElCbDVoNzIyc2VmU1E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "4277",
+          "name": "gonorrhea",
+          "keyword": "gonorrhea"
+        },
+        {
+          "type": "indication",
+          "disease_id": "21681",
+          "name": "sexually transmitted disease",
+          "keyword": "sexually transmitted disease"
+        }
+      ]
+    },
+    {
+      "id": "fa4e7a26a2d0",
+      "title": "Scientists found a hidden highway to the Moon, and it could make space travel much cheaper - The Times of India",
+      "published": "2026-05-26T05:29:00+00:00",
+      "summary": "Scientists found a hidden highway to the Moon, and it could make space travel much cheaper&nbsp;&nbsp;The Times of IndiaScientists Discover Fuel-Saving Earth-To-Moon Route Using Gravity&nbsp;&nbsp;NDTVResearchers simulated 30 million routes to the Moon and found a hidden detour through L1 that saves fuel and keeps spacecraft talking to Earth the whole way&nbsp;&nbsp;Space DailyScientists find a hidden route to the moon that saves fuel&nbsp;&nbsp;SpaceScientists test 24 million routes and discove",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUG53aG53X1JDYldTMnQ1RVE1QTBLTGp3bmlOOWE1U09rZzlQeU9MVE9GNmxFdUNuREpPc0c2ZDlzRUlKZDN0QmpyZHNTTVhwWjdXM3Z4Zy13WkZLWDJSZFFLUmVxUkJ4dUFRb3UzSi1QLWVzUTN5X2taaDFOU2dWbm4wZ1RMTlpnN25rR2JEY0d1QVFVV2lVVEUtUldzZWdnNW1xc3R2LXFxZEZ5Sk5vZmh2a3FPa3FUWjlTbnZQV2lVek1uOURuc21zeGNIWjhvNi01Z3hELTBPR2NxS2NuVWQ5X1ZLUTNFWkZ3U09NaHjSAfYBQVVfeXFMTlhjbHhZSVIyOW1YdGVFd29KcTE5VDQ0RzlFU290SHpVbGJucndHRHNfcEtVdXpMbk5JbjQ0U1JYb1lPUk5FMWtsMmd3UDRJM1RWRU53Q0dyZFk4TWhtZ2pjN1B4RXBINjNOYkJ2S0JFSzJYZkNSYTVueEVmaWJYYzUyd3d1TmxUMEFUVTZIQ0VqUGtScVNGeFN4SGFLN2hJYkdhNUxybHU2Q1hDMldBeTVlMTRUcmJ4enFtVlZlYjZLajdiNTVIc2laTHVaSUpFTGFBcjdxQmkzbnZUYXJ3aVd4LTYzMHhRaGZ1ZzlkbHhnTjliclhn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "b416a372b523",
+      "title": "Nominations open for WHO Public Health Champion Award",
+      "published": "2026-05-26T05:28:17+00:00",
+      "summary": "Nominations open for WHO Public Health Champion Award&nbsp;&nbsp;fundsforNGOs",
+      "sources": [
+        {
+          "name": "fundsforNGOs",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzhTdVFkN1dETHNvbHg4eVFEdkdQekpweS1DaDJIcGROR1prcGJZcTVpS3Zia0kyNE8tSXRZQ1V1WGtjLXNqdHFjTGZiRklvUlJPMkZGMXBrVzBqbHdhbVdWQk1lakJSaWdmeC1kZnlGVkJDOWhnUXpSVS1SN0RIYmE3Y3VRNk40cU5vcm82M1pKSHdoUVlfeHMzeEliV0g4TFlKV2tFWXNRVEdW0gGyAUFVX3lxTFB5RmpRQ3R0SERxbFJZWEJDNkZrNUZEN1NwWVdBSzZZQWF3d2NRU3paMHF6OWZpanl2N2JfU1l3M0hrN3RDYW5UY0JNWUNMQTJrM1o0Z3pQb2RkSTlKbExQUEhoakNVb05vWDZTZEVaWlFsd29GNjQ0SjlMVUVuRTJ1X19Lc29ZbDZDMExmXzljZjhrRHZOYUd1SThib3c4NW1hUGxsbWNqanpWRTViU1lsU3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0cd85431cd4d",
+      "title": "Ancient wildfires in Gondwana forests shaped Earth’s climate, Indian study finds - DD India",
+      "published": "2026-05-26T05:18:00+00:00",
+      "summary": "Ancient wildfires in Gondwana forests shaped Earth’s climate, Indian study finds&nbsp;&nbsp;DD IndiaEvidence of ancient wildfires preserved in coal reveals clues to Earth's Climate&nbsp;&nbsp;Department of Science & Technology (DST)Ancient wildfires in Godavari coalfield give new clues to Earth’s climate 250 million years ago&nbsp;&nbsp;DD NewsScientists Discover Molecular Evidence of Wildfires in Ancient Gondwana Forests 250 Million Years Ago&nbsp;&nbsp;DevdiscourseAncient Wildfires Locked Insi",
+      "sources": [
+        {
+          "name": "DD India",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNREdnbjN1SFFERDR0YVNyOGV3eGJBeXlUcURYYTVmREZwMnNJeTg0X2JmRTEzSFhSbXJ4UkR2MkFVRi0tbzBJZXB6VUdjOGpPTXBwV0JqUTRPeVJzV212aG40SWxwSTJDeTJfUDZ1LWU0a1Z6NXJDZUxQYVlzZ1lVN2hITXdQY211RE1IUGM5T3BRcmY5X3ZKb0R6NjJrVVJLX3F4V0dmdUkyZXBvdlE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "05014c8ffa33",
+      "title": "This one simple habit can add years to your life, but 80% of adults overlook it, says cardiologist | Health - Hindustan Times",
+      "published": "2026-05-26T05:14:03+00:00",
+      "summary": "This one simple habit can add years to your life, but 80% of adults overlook it, says cardiologist | Health&nbsp;&nbsp;Hindustan TimesHow oral health can impact our entire body&nbsp;&nbsp;ABC30 FresnoOne simple oral health habit that add years to life&nbsp;&nbsp;en.bd-pratidin.comStudy links periodontal disease to autoimmune disease and all-cause mortality&nbsp;&nbsp;Dental Tribune USResearch Links Gum Disease to Heart Disease, Diabetes, and Cognitive Decline&nbsp;&nbsp;The National Law Review",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUmFrWF94NDdGbEJfRkNsREVyWkFZVWwxVlVFN3VOekZHWGFWSjM2Zm1NU202bGNhc0xQTlZVcWFhdU1RdEhzSTFnM0ZfV0lPR0FPdzBYUWFqb09Ib0xDVGFHSHl5N1lFaW14WDRpYzVNblljSzRjRkNDc0hla0NKd0x3Vlh6TUlKc2NSSWROdEQ1NW1uLU42R2NlSUgyYlNiODhFdjhIbHFfNTk5RU1GTVNsT1ZkczhmbmdDUWVBS204d2s5dGZhcGJzc0NwNUJnTUJ2X1FwUWt3NEdLT2NLbGVPZGdiRkxvVlVTaFFjTmFxYjg2cTk5X2kyUmJGakp4UGfSAYcCQVVfeXFMT1psdXRQdnVmRndPcDdkNVZCTldCcDhfUnc4QW95SnVqeUdaaVV0SThuTlZhbDd3WUJjdEh3U3R1amFieUREUmtMU0pxdFZ4RjZzZklGZ3o0QnQtcE1WQkdlUTVpaU5MeDRGYnVsZUZPNzlnbFgwQlNLSFNtX3NPWVZTb0NoVGtWU1pnYWZHMDd4bmJ2S2FyTjFHc1pIZVRSZmpXY0hiTHloN3YzWHUwSGNNOF94QXh3N1Bza1RpZzBSdU1GeVVKVDRRX1Bzeko0SVVhZGF6a1VQQjJBYm4tVWotSFNQRmVYcjVZdGxBcC1vUkRZSVMyWUdjMW5LTEJ0aGVOQmJKSEE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -36,9 +141,248 @@
         },
         {
           "type": "indication",
-          "disease_id": "8383",
-          "name": "rheumatoid arthritis",
-          "keyword": "RA"
+          "disease_id": "7179",
+          "name": "autoimmune disease",
+          "keyword": "autoimmune disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5267",
+          "name": "heart disease",
+          "keyword": "heart disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "2635",
+          "name": "periodontal disease",
+          "keyword": "periodontal disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__heart_disease",
+          "name": "heart_disease",
+          "keyword": "heart disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic_diabetes",
+          "name": "diabetes",
+          "keyword": "diabetes"
+        }
+      ]
+    },
+    {
+      "id": "a3361217bc18",
+      "title": "Indigenous Foundation Organises AIDS Memorial Day, Legal Awareness Programme in Imphal - Ukhrul Times",
+      "published": "2026-05-26T04:49:59+00:00",
+      "summary": "Indigenous Foundation Organises AIDS Memorial Day, Legal Awareness Programme in Imphal&nbsp;&nbsp;Ukhrul TimesNagaland: International AIDS Candlelight Memorial Observed in Kohima&nbsp;&nbsp;News On AIRVizag observes AIDS Candlelight Memorial Day with rally&nbsp;&nbsp;The HinduCandlelight rally held&nbsp;&nbsp;The Hans India",
+      "sources": [
+        {
+          "name": "Ukhrul Times",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0cHByWE1wZnJuSkZ2UGFOYzRmTWdlOG5XaWJlUEJTaEswNlBVM1ByVEJ4alk1eEFOQ0g3dTB3WGdDTjhYblNSNThPYktsclBUQ1FsNmlPTndWODFtLUpEUldobkhERVFtOEdrNnNhRUNCWEw2V0VXcjlydw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "12268",
+          "name": "AIDS",
+          "keyword": "aids"
+        }
+      ]
+    },
+    {
+      "id": "e5591cc96be6",
+      "title": "High-risk pregnancy prediction using Taguchi-optimized machine learning methods and TOPSIS-based model selection",
+      "published": "2026-05-26T04:38:03+00:00",
+      "summary": "High-risk pregnancy prediction using Taguchi-optimized machine learning methods and TOPSIS-based model selection&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPbzE5bVRDRWxGbElpOHk5bktYNldHdF9mM2xBZ25WZFBwUXBialFQNTgxM0wzWUhYT0l6U2F6LVNuTk5MalRKNE1VSVgxUnJ3R19peWZjeHlNNHdRenNJ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "a058ff8650dc",
+      "title": "Popular weight loss drug Wegovy linked to eye stroke - a condition that can leave you blind forever study warns",
+      "published": "2026-05-26T04:14:00+00:00",
+      "summary": "Popular weight loss drug Wegovy linked to eye stroke - a condition that can leave you blind forever study warns&nbsp;&nbsp;TheHealthSitePopular Weight Loss Drug Wegovy Linked To Rare Blinding Eye Condition, Finds Study&nbsp;&nbsp;NDTVParker Waichman LLP Files Lawsuit on behalf of Florida Resident Alleging Development of Irreversible Eye Condition, NAION, after taking Ozempic&nbsp;&nbsp;PR NewswireSemaglutide use associated with NAION Risk among diabetes patients, suggests study&nbsp;&nbsp;Medica",
+      "sources": [
+        {
+          "name": "TheHealthSite",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZEtvZ0kwdjFLcGNjS0Foa1lWVll1VEZqR1NXT08xQno2V0xLcEs1ZTU5YmdiLWhiTHMwdXlXYUR5aUVpaEV5Wjhjdm0wcFBIUUJ4Ry1KenJRMDM1Y2Y3djdycms0RG9rdXUyMTB0NTA0UkhXeVQ3eExDQnRpcEpLQmttUXdmOGplZ3dQaFdCVnczQlJUbzVXZDFQLTNmLWNJLTZ6NW5NUjNfZlUxNHBaUDRJYmR5Qm1MSkxyRVI4YWRwaWhzQUxiMzJTdlE1SkVzYVdqeTYzSHJjajJadjJISnJ0ZFhwZWFiNUxadGk5SXhRcHpKYWtiRlp2MDjSAYICQVVfeXFMTkpZcHNCN2hNNXdIR3d5TnRUR0h4RmpNaXRpVGYxZjZJOGswZng0OHFyX0VPU1hRZkdxRFhqVTZLcjdkeTNka1phR2dab01lS0YyaWNWVkR5T29HTXdETlpBSVRRMVVPeE54VWdLdTNNd0U5Mk9yRHpKNzhpaDR1UEYteUhlci0xWXczeHhyclIzSTktTG5udm9xQ1J3NGp0SkZDQUVBd1dBTW0yUm1OUVAwV2d0cUFsQnN3SzhWaDZWcWVqeTVIOXkwZnMzbGMzWUYwLVRaOWhNRjJqSm5YNUFvVEFyY0I0TFFubS1aYjh2YUhIMENITFluY19xR2hQaE13?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB13928",
+          "keyword": "semaglutide",
+          "name": "Semaglutide"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic_stroke",
+          "name": "stroke",
+          "keyword": "stroke"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic_diabetes",
+          "name": "diabetes",
+          "keyword": "diabetes"
+        }
+      ]
+    },
+    {
+      "id": "ae92e2799f1f",
+      "title": "Wet Bulb Heat Explained: The Hidden Heatwave Danger That Can Turn Deadly Fast - Times Now",
+      "published": "2026-05-26T03:30:58+00:00",
+      "summary": "Wet Bulb Heat Explained: The Hidden Heatwave Danger That Can Turn Deadly Fast&nbsp;&nbsp;Times NowHeat in cardiovascular patients increases the risk of hypotension and arrhythmias, warns an expert&nbsp;&nbsp;DemócrataCan Hot Weather Raise Blood Pressure? Warning Signs To Watch Out For&nbsp;&nbsp;News18Can heatwave raise your blood pressure levels? Expert shares 8 effective ways to manage BP in summer&nbsp;&nbsp;TheHealthSite40°C heat and your body: The kidneys, heart and other organs that suffer",
+      "sources": [
+        {
+          "name": "Times Now",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSk9LaktkVUJXTkRKbUdnYi1IMGRhR0UtYXVtTFZBU0RyYnhzeFFTNkJwQW5wYjRzdXg2OWhDZm9hZnd0azZEeUg2NnBUMEFvLUtyY25jczdMQzZ1Qy1DUW9oWXFaUFlCRWdPZGswYVhHTmNldVotWlNweDV5Tnltdno4R1d4NXJLNWxISXUyaFVCcERRdDVTakRNdjFVckdJM2Z4Y2tZZ184aFQzX1QzT3o3djgwUHkwd3luVVdEMDF6ZHhuVkkzTWVn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "1200_1134_15512_5080_100078",
+          "name": "hypertension",
+          "keyword": "BP"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__cardiovascular",
+          "name": "cardiovascular",
+          "keyword": "cardiovascular"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__heart_disease",
+          "name": "heart_disease",
+          "keyword": "arrhythmia"
+        }
+      ]
+    },
+    {
+      "id": "aece48bc48ff",
+      "title": "Congo Ebola outbreak is ‘outpacing’ responders as patients flee clinics: WHO",
+      "published": "2026-05-26T02:19:43+00:00",
+      "summary": "Congo Ebola outbreak is ‘outpacing’ responders as patients flee clinics: WHO&nbsp;&nbsp;BusinessLineWHO Director-General's remarks at the Virtual Ministerial Briefing on the Bundibugyo Ebola Outbreak – 25 May 2026&nbsp;&nbsp;World Health Organization (WHO)DRC is no stranger to Ebola outbreaks. Why isn’t there a vaccine or treatment to help now?&nbsp;&nbsp;CNNWHO chief says suspected Ebola deaths at 220 as epidemic ‘outpacing us’&nbsp;&nbsp;Al JazeeraUgandan health officials report new Ebola viru",
+      "sources": [
+        {
+          "name": "BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS2dlQ1FPZ0w2V3ZpRndIMkJHWll5dzdXNU16VDBzeWRBSjVLbjJ1REE0MUZIeUdFNHh6NTJ1czJTdUpNZHJHUzZMMl9kdDZMWUNEVUU2RVBxcl8zQmZWV3Qyb190NzZmS1dab3hEZk42c2pNSHlCemUxaWlCZUhNYUFibWlFY2kzSU5VdkFGTkpPbkk2b3RLOHpwcEw3RTQwWWVuanZtRGdqcWRUY3VUazVVcFl6S1JZWnJ0Zkd0RzJmamFMb096a0xJLVVwM2l5dkpTZndmbWPSAd8BQVVfeXFMUFVrcHVTSHJqZFlJRE5XUjB0QnMwSVVfR0p5QXg4NE9CWFppbk1BUHhSMGlEM1JfNm5pNG5vOUdEWTJiYXlhRE1QSzlRVkNQeGRjNEdKb045TlBxTjRaVVhhbjA2Sk1keUtrcUZDSWdaOHB6VC1GendfV3dRc2tJX293UnBNSEtWNGlZSFRSVVFGZlhORmxBRUNhanhOV0NKMGkyVVJtNk1kOW1kUnZHZ3dHbDlIcnVUWUk5Q0h2ekp2NzYtWUgtc0w1X2ZHZ1ZuSmFuQ2JscmxmMUZzMzhQSQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "84914e7098c8",
+      "title": "DNA metabarcoding reveals hidden freshwater biodiversity in Ontario streams",
+      "published": "2026-05-26T02:01:00+00:00",
+      "summary": "DNA metabarcoding reveals hidden freshwater biodiversity in Ontario streams&nbsp;&nbsp;News-MedicalDNA reveals hidden biodiversity loss in Ontario streams, offering powerful new tool for freshwater monitoring&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMldtUXpqRkM2ejBGYmJuUzJzemJVUGRIeEFvZnAyUnljcUhqeVBVZk5jQTdqZDFZQjlRelRrd2lyWEhVUGt1RU5abGRkOEJHYktUbWNMbmdEOEpnN0NuQmZ1Mnk3OW54ZG9HdzNteGxkZkt2YVI2STBHSjZOaHBwN3dVS0xxNGo3Q3VQUmtmSHBzTU5TbXZvendkZTFfN0dCQ1FVMTlSa1g4bmljZjRLdTZ0NTNlWmlOMXAxY052M1Q?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "014ae848e4f0",
+      "title": "Indian adapted Mediterranean diet targets inflammation in heart disease trial",
+      "published": "2026-05-26T01:59:00+00:00",
+      "summary": "Indian adapted Mediterranean diet targets inflammation in heart disease trial&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeno3RzR2XzM4c1JUb0FSOWZHU1lVZGU3VWtPU3BuVnJIOTVST3h2RHFGU0w5ak9PamJ2R1lmM3BUbG94TG5TcnRBQ1ctZVR3Tm5DNl84d0NwMjlyZGNXU0Z5Tm04SmdEcUpBTXpUbW11UTltbVFkNnc5eTZxMXNSblVhTnJaOWF5UURrV2tielBmNndZOTJOU1JHNlpwS0ZaVklwM1Z4aUQ2THNKQ2RuekhlbVd3RGlIZkY0TU9QZDJKZXc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "5267",
+          "name": "heart disease",
+          "keyword": "heart disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__heart_disease",
+          "name": "heart_disease",
+          "keyword": "heart disease"
+        }
+      ]
+    },
+    {
+      "id": "2849696865e6",
+      "title": "Mammogram rules leave women confused - Bangalore Mirror",
+      "published": "2026-05-26T00:30:00+00:00",
+      "summary": "Mammogram rules leave women confused&nbsp;&nbsp;Bangalore MirrorSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Bangalore Mirror",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUk8tR0h5eGVfUTk1MnoxXzg0dlNjOGNHS0F4RldxeHk3RHNyZzdaTFQwRVRCTmQ5WTZaWHpJbDZja2tOMlQyRWtLNFpwX3Zpd3pZdEFjQU9aZDU5WE5xbGtJUkxIV2hIMy1icUFTMm9fRjNiQzV4Z3dtQ2FnYnZtbHJPYWxzWHBzbF9zLUlTUDV6Y19IY3VUZkZfZGpBWE1hYVpram9rMU1UN1BXS2tmczFVZ9IBuAFBVV95cUxQbGZNc3pqNE5OZm16SnAwRWNyWFVxYXlGUzJEaFk2bWJ5cXFzbVFiRjF5emxoWmN2aEZIN2ViOEJHaTVONGZJNTFhR0JmMlNrT1QzbzlvZlpZRDdFbGxTMFZZbE81dkotZWZHNk9ybW1qUGs4V0hrNE8xZFltU0l6SUdRaF9sYnVMS2ZHQ3dIRTBUTW9wM0JwbWhCVVZsSlBzWXF5bHYyamZUTUdhY0lyUFpvZlNCejlE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "8f52468f0b42",
+      "title": "Union Minister JP Nadda calls on citizens to come together to raise awareness about Dengue - News On AIR",
+      "published": "2026-05-25T23:04:17+00:00",
+      "summary": "Union Minister JP Nadda calls on citizens to come together to raise awareness about Dengue&nbsp;&nbsp;News On AIRSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcU5UY2VMWU1VWF9BOW8wX3JQT1ZGcm9zOVREWUVtRFZXREVhMldwZzd6VGRnU1g3ZlIxbVAyTkM5VFlEbDlzY3JDVFRaU1F6Zzg3NWdDNDhJNmR6SWNyYUYzek95VnhVMlVWXzNTcHJlRjh1eTR5MGo5dFJHaFRSX294ZWRselRPTnhYWGFLNmFjaFhPM3l2TXNDSWxtUXRqVlR1UjdMSHlHcUdudFFKeFNIZllvdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
         }
       ]
     },
@@ -59,11 +403,24 @@
       "id": "df5489bcf348",
       "title": "Hantavirus Outbreak Now Stable, No New Cases And Deaths Reported: WHO - Health and Me",
       "published": "2026-05-25T20:30:00+00:00",
-      "summary": "Hantavirus Outbreak Now Stable, No New Cases And Deaths Reported: WHO&nbsp;&nbsp;Health and MeMayday! SA scientists identified hantavirus outbreak in 24 hours&nbsp;&nbsp;The Times of IndiaAndes Virus Debate: Could Airborne Spread Play a Role?&nbsp;&nbsp;MedscapeHantavirus-hit cruise ship docks in the Netherlands after long, deadly voyage&nbsp;&nbsp;NBC NewsWHO says 12th person infected with hantavirus detected in the Netherlands&nbsp;&nbsp;Al Jazeera",
+      "summary": "Hantavirus Outbreak Now Stable, No New Cases And Deaths Reported: WHO&nbsp;&nbsp;Health and MeMayday! SA scientists identified hantavirus outbreak in 24 hours&nbsp;&nbsp;The Times of IndiaAndes Virus Debate: Could Airborne Spread Play a Role?&nbsp;&nbsp;MedscapeHantavirus-hit cruise ship docks in the Netherlands after long, deadly voyage&nbsp;&nbsp;NBC NewsNot every outbreak becomes the next Covid — Muhammad Amir Yunus&nbsp;&nbsp;Malay Mail",
       "sources": [
         {
           "name": "Health and Me",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZVpUejhXRHk5bkxYc2RCYWM4QVAtSkN1V1BtN0tVMVB5RGFjNDlPNkoxcVV3dGpLOTAyRm1HWTFPNDJDTWJLSEhUSGpsS1ZfMXdxeHJ2STI1NkRMcWVDZ3o4a3dDdDF2UVFqdEgzSERYVUprY0EyU1h1Zk9Va0dNd0ZvZE45SmhSUmxHYVBUc0NxOVY5NWJjbU5QSVVfaGxhQUEyTWRyR0pwS0IwSVNWSU01Vmh3a1ZYMHRRUlZuZFFMZm8?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3b0c2cefae2b",
+      "title": "From pore chemistry to carbon capture, new COFs push beyond membrane performance limits",
+      "published": "2026-05-25T20:20:04+00:00",
+      "summary": "From pore chemistry to carbon capture, new COFs push beyond membrane performance limits&nbsp;&nbsp;Phys.orgFrom Pore Chemistry to Carbon Capture: COFs Push Beyond Membrane Performance Limits&nbsp;&nbsp;Asia Research News |",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxVldraGhTQThEV3RoSTVnTFljb2N4SmdlMFZ4aFVlS2o5OFJDQVdlcm5aVFdLRHJCdXhGTWdpcFlxeXUzV0VBNEpDZXdtREdSWWZxR2puNE9KU3VhejZ1TngzNHpiUnVPbVlCUElGbUdwZU9jMzFTWg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -109,124 +466,10 @@
       ]
     },
     {
-      "id": "37377e68dfde",
-      "title": "Smaller tetraploid cells drive more aggressive cancer",
-      "published": "2026-05-25T19:32:00+00:00",
-      "summary": "Smaller tetraploid cells drive more aggressive cancer&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDctSTIzX0F1WGF4SnhqYl9NTFNnYWRpcnJpVWVVNkdFNlBoRTR3djV5bXVnbllad25LOW1NcUppX253RmIxeE9MWUlQN09JbDVPbnpRYUY3Wi1vZ3JCMEZwM1plTVM0Q2c5aDBlSzRFa1JQMzZzclJabExPNm9uaWh1X09TajNvMEcwd2ZDVG5KR1V4aC0yVFZLTEIxNDJJWVF3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        }
-      ]
-    },
-    {
-      "id": "e98b68007c66",
-      "title": "New thermal imaging system detects early melanoma before it is visible",
-      "published": "2026-05-25T18:59:00+00:00",
-      "summary": "New thermal imaging system detects early melanoma before it is visible&nbsp;&nbsp;News-MedicalNew nanoparticle-based ‘intelligent tattoo’ uses heat signals to detect skin cancer&nbsp;&nbsp;Interesting EngineeringSingle-shot microneedle-encoded upconversion lifetime mapping for real-time in vivo thermo-dermoscopy&nbsp;&nbsp;NatureReading skin temperature with a microneedle tattoo&nbsp;&nbsp;NatureAn “intelligent tattoo” to detect skin cancer before it appears&nbsp;&nbsp;Université de Montréal",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYTU2OWtXRFNiQTNFekpYUU5KM2NPRmZ0ekZfbnU1WlF1eUJxcm0ySEtvR3JwSExkcU5UOG1wcVJNbUlSeDA1bFZaeGpON3dJNk96V2JxV3h2Wk50OVNBY05oT2tLQXUtQUVqLUozM0pCcTRiLVJ2eXFQZHBiZVc3TXhnYzh0cFhYdi1rUGVQMW5qNlNrcjRCVlBvREpXZUdKVHNWNVRJOF94WUpweERKLVIzdkZaYUkyU3c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB03904",
-          "keyword": "urea",
-          "name": "Urea"
-        },
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5105_5012",
-          "name": "melanoma",
-          "keyword": "melanoma"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "2898",
-          "name": "skin cancer",
-          "keyword": "skin cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "17124",
-          "name": "noma",
-          "keyword": "noma"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        }
-      ]
-    },
-    {
-      "id": "1d40902c8268",
-      "title": "Microfossils interpreted as animal traces were actually algae and bactéria",
-      "published": "2026-05-25T18:52:20+00:00",
-      "summary": "Microfossils interpreted as animal traces were actually algae and bactéria&nbsp;&nbsp;astrobiology.comRare 567‑million‑year‑old fossils refine our understanding of early animal evolution&nbsp;&nbsp;Phys.orgComplex animals evolved up to 10 million years earlier than previously thought, fossil discovery shows&nbsp;&nbsp;Live ScienceOlder than we ever thought? The tiny fossil clue that could push animal origins back&nbsp;&nbsp;The Times of IndiaCanadian fossils may rewrite the origin story of anima",
-      "sources": [
-        {
-          "name": "astrobiology.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVVZSkI3OEdhZG11NExzWjBRdUdvU1g2S3Yyd2VMUE5XQXFXZDk2eFA0M0Q0alZWVjg4ODIwOFZNQm9rbkl6VGxXTEk3Z0pLX1RnaEsxMXktN2tJbDVSekRBN2pSUmFVUmhIZUNKNkdpWDFwNHdfVTRNVHZaVS1GNi04djVuYWctTmpXaFpCZzIycHZOWXNCWDdFbVpHTWdXR2duUzcxZ1RkWWhZUnhwV2Vn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1b63ae3520c4",
-      "title": "Early Life on Earth May Have Thrived in Impact Craters - Universe Today",
-      "published": "2026-05-25T18:25:00+00:00",
-      "summary": "Early Life on Earth May Have Thrived in Impact Craters&nbsp;&nbsp;Universe TodayEvidence of Ancient Life Found Buried Under an Asteroid Crater&nbsp;&nbsp;ScienceAlertAsteroids may have contributed to the emergence of life on Earth — study&nbsp;&nbsp;UA.NEWSLife on Earth may have originated in the lakes remaining after meteorite impacts&nbsp;&nbsp;Universe Space TechEvidence of ancient life has just been found buried inside an asteroid crater — and the discovery suggests the warm lakes created by",
-      "sources": [
-        {
-          "name": "Universe Today",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWJKTDNocFBZMlp2VjRGY1NCVjJIbTQyZmUxQVEwQVpHVnVxdDRZZlJkWmZSQjdfbUJocFM4R0djekU0Mk5ub2tfLUJiZlJaMHp6S3RVWmlTTjFUckUyOWdudHJabTVuSk56LUF4dE1MN3ZoRjk0Z1lSNGNvdGlydnVXUFVXTnVZa3VEOVNtZGlGdDNLbFpIMg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "28093ae2c04b",
       "title": "Unhealthy ultra-processed foods are designed to make us crave them and eat more",
       "published": "2026-05-25T16:30:00+00:00",
-      "summary": "Unhealthy ultra-processed foods are designed to make us crave them and eat more&nbsp;&nbsp;Scroll.inDoctor explains: Why packaged ‘healthy’ foods are driving obesity and diabetes in India&nbsp;&nbsp;FirstpostUltra‑processed food: Why the debate needs less fear and more clarity&nbsp;&nbsp;Japan TodayOpinion: Through the Consumer Lens&nbsp;&nbsp;Commercial BakingIAFNS and Academy of Nutrition and Dietetics Publish Guidance to Help Practitioners Navigate Questions Around Highly Processed Foods&nbsp",
+      "summary": "Unhealthy ultra-processed foods are designed to make us crave them and eat more&nbsp;&nbsp;Scroll.inUltra‑processed food: Why the debate needs less fear and more clarity&nbsp;&nbsp;Japan TodayDoctor explains: Why packaged ‘healthy’ foods are driving obesity and diabetes in India&nbsp;&nbsp;FirstpostOpinion: Through the Consumer Lens&nbsp;&nbsp;Commercial BakingThe surprising reason UPFs are bad for us – and the one hack to make them healthier&nbsp;&nbsp;The i Paper",
       "sources": [
         {
           "name": "Scroll.in",
@@ -319,64 +562,17 @@
       ]
     },
     {
-      "id": "20da60f1eee5",
-      "title": "Large-scale investigation for antimicrobial activity reveals newly-identified defensive species across the healthy skin microbiome",
-      "published": "2026-05-25T15:07:51+00:00",
-      "summary": "Large-scale investigation for antimicrobial activity reveals newly-identified defensive species across the healthy skin microbiome&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PTEpuS3dfbkNJQ2dBMjFrLS1fSkZqb2Q2NW9WOWhWVWVzaE5CTDgwMWs1TUMwR29qYnQzQ3Z5X2N0SmY3dW9qek9pSkZKWjAzckZnMGgyVHFBcTlrODF3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB03336",
-          "keyword": "bia",
-          "name": "BIA"
-        }
-      ]
-    },
-    {
       "id": "a4ee256c55f9",
       "title": "Earth’s outer core flow unexpectedly reversed, satellite data reveals - Interesting Engineering",
       "published": "2026-05-25T14:57:00+00:00",
-      "summary": "Earth’s outer core flow unexpectedly reversed, satellite data reveals&nbsp;&nbsp;Interesting EngineeringInsights into Earth’s molten outer core from space&nbsp;&nbsp;European Space AgencyEarth’s outer core reversed direction in 2010 and scientists may finally know why&nbsp;&nbsp;New AtlasEarth’s outer core beneath the Pacific Ocean changed direction&nbsp;&nbsp;Universe Space TechStudying The Earth’s Outer Core From Outer Space&nbsp;&nbsp;Orbital Today",
+      "summary": "Earth’s outer core flow unexpectedly reversed, satellite data reveals&nbsp;&nbsp;Interesting EngineeringEarth’s outer core reversed direction in 2010 and scientists may finally know why&nbsp;&nbsp;New AtlasEarth’s magnetic core changed course deep beneath Pacific Ocean, data reveals&nbsp;&nbsp;YahooEarth’s outer core beneath the Pacific Ocean changed direction&nbsp;&nbsp;Universe Space TechStudying The Earth’s Outer Core From Outer Space&nbsp;&nbsp;Orbital Today",
       "sources": [
         {
           "name": "Interesting Engineering",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRWJyS3lGOUZGWHJvYk9fWllNMXBwM01XVWtBZU1tbXc1ZUZPWG5zTkVLMmJrNWtXcFNLcjh0X2U2cGhBaWNBVzd6ajdGVUY1end1WVNJeHpqUXM1VHZqTmZPZkN1blloUFU3T01ZNUVwUXIwcFdSNVdnUkcxdFBfV3c1WTNaWUdQX1ZlQg?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "c6b6a29d3aaf",
-      "title": "DNA viruses are constrained to ecological niches and share similar environmental adaptations with hosts",
-      "published": "2026-05-25T14:41:40+00:00",
-      "summary": "DNA viruses are constrained to ecological niches and share similar environmental adaptations with hosts&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtLWZyb25DZnFnRzFYUGtfWlRTUldpaEVyM3VrTTJCblUtNWQtZDlVb1l1Z3FucXBaZ2E3MHh4YVZlSmVhZHpnZUpuSUJIcGxOMGRKbDNYQUR0R2tCbWd3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB01592",
-          "keyword": "iron",
-          "name": "Iron"
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "e243c960d941",
@@ -402,7 +598,7 @@
       "id": "71869f915373",
       "title": "Centre on Alert Over Ebola, says Health Minister Nadda - UNITED NEWS OF INDIA",
       "published": "2026-05-25T13:31:00+00:00",
-      "summary": "Centre on Alert Over Ebola, says Health Minister Nadda&nbsp;&nbsp;UNITED NEWS OF INDIADGCA issues Ebola SOP for airlines&nbsp;&nbsp;The HinduIndia Issues Travel Advisory For Ebola-Hit Countries: How Airport Screenings Help Control Outbreaks&nbsp;&nbsp;NDTVEbola scare: Ahmedabad airport screens passengers from African nations, Gujarat says no need to panic&nbsp;&nbsp;Telegraph IndiaIndia reviews Ebola preparedness as WHO warns outbreak is ‘outpacing’ response efforts&nbsp;&nbsp;The Times of India",
+      "summary": "Centre on Alert Over Ebola, says Health Minister Nadda&nbsp;&nbsp;UNITED NEWS OF INDIADGCA issues directives for airlines after Ebola outbreak declared health emergency by WHO&nbsp;&nbsp;News On AIRGovernment re-enacts Covid time protocol for flyers from Ebola hotspots to prevent spread in India&nbsp;&nbsp;The Times of IndiaEbola scare: Ahmedabad airport screens passengers from African nations, Gujarat says no need to panic&nbsp;&nbsp;Telegraph IndiaAndhra Pradesh sets up Ebola screening at Vija",
       "sources": [
         {
           "name": "UNITED NEWS OF INDIA",
@@ -451,26 +647,6 @@
       ]
     },
     {
-      "id": "be2026883719",
-      "title": "Scientists just found a supercharged supernova — powered up by a magnetic star corpse",
-      "published": "2026-05-25T13:00:00+00:00",
-      "summary": "Scientists just found a supercharged supernova — powered up by a magnetic star corpse&nbsp;&nbsp;SpaceNASA’s Fermi Glimpses Power Source of Supercharged Supernovae&nbsp;&nbsp;NASA Science (.gov)NASA's Fermi Telescope Captures First Clear Signal from the Engine of a Record-Bright Star Explosion&nbsp;&nbsp;TechEBlog -The Magnetar at the Heart of a Superluminous Supernova&nbsp;&nbsp;Universe TodayLSU Researchers Help Explain What Powers the Universe’s Most Extreme Supernovae&nbsp;&nbsp;LSU",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQklLNlgtU0ltQ3dhVFFXeWJfVHFvQ2dRTGtra0Q2Sk4xVkRqM0lrT08zMm56QTJnWmxWVWhGeDdrejV6Q1c5RHRucEhwNmdpYm9RYndfU3dWd3ZmTlh6MGtSajUyV1NIY1B1enNwcDZfTnVSTVVXa3JGMHEtVVNrX3I2eFNMWjRHQ1I2YjFabmtsSEZOTXlJTkhXYmlxNkIzRlY2RjVfTDdJclBWVjN0OUtMYnN1Y3kyZG15d0Rn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
       "id": "dbfec6a9d16d",
       "title": "Band gap engineering in Al, Cu, N and Al/Cu Co-doped ZnO thin films: experimental study and quantum machine learning prediction",
       "published": "2026-05-25T12:38:43+00:00",
@@ -479,45 +655,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TcE5abXRBYTlrYk1wckxFUXBfcDE2UndXN1FJd24tQ3Y0S3g5djZMa29OYVVBdG00VVlqWGNsVUI3YW9iWHltZW9sdFJsNU9XY3V0S1BUUTgwT1NrX25B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "546d28a38f7f",
-      "title": "Did you know your food choices can affect anxiety symptoms? Doctor explains how nutrition can transform mental health | Health - Hindustan Times",
-      "published": "2026-05-25T12:06:41+00:00",
-      "summary": "Did you know your food choices can affect anxiety symptoms? Doctor explains how nutrition can transform mental health | Health&nbsp;&nbsp;Hindustan TimesSkipping meals and irregular eating habits linked to depression symptoms&nbsp;&nbsp;PsyPostThis Simple Mealtime Habit May Help Improve Your Mental Health, According to Experts&nbsp;&nbsp;EatingWellThis Diet Was Linked To Less Psychological Distress In Just 12 Weeks&nbsp;&nbsp;MindBodyGreenIrregular Eating Habits Raise Depression Risk by 1.5 Time",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdENsTzJSRUdEaE55U2xXOEZMWHpFMXFFQ1N6Q0kxbHdDT0xRdXVKS2g5R1IzUFdCMTc5S3VZV3ZwS0NHSmhMWHhrWGVEaGxYazFLd0FrOTlRdVhoUVdIeWtjeUhRWng1UGFQNnJDeGlMLUMyMFdheEdocndncFBaUjZOZ3I2ZjhXcXh5NWFvWjRrUEhvRE43ZGstTWJUT25GbDl6S3FQMlozTEQwdzBXZDFLWTFaSXNrSFhxUEk4Y25KSFpubGN1eTF2enVjYUswQngyTkpqdVdzWGZXdnZQdHNuMkpBUU5STEpManFFWDU3NlhFaV9feE0wX0dCUzhBNUNnek44V3JINzdwcXFZbjJGMNIBmAJBVV95cUxNU2d6YlZ1RzJuei1YSkQzLVU2SXNjT2l3U0tFU2ZUNUVFcEtYcGhlYUJjSy1ENEp2eGtqdWRibVpZUEFiVkRhSG5ZYVBqZkNMWUozOWg3MUc3NkM0Y2MtRTh2ZG1KaExOZmN5bDgtekkyUWFVbmFaREIzc19WSUpGRnU2UndIdVpoRFBhdEVPdUFhUDk5NWEtX2R0U0g0cWU4cWhRNHhXdFU3alhGTkQ2eVdUY1h1REFEVFN4UE1Jd3hDNFdOTTFxX2NvUF9oVkJVWm05WE12YUdBR3JFTnR4cmNXVWNYTVdXc0Npbjh5TGQySUJEZVdhdTI1RDBSOHhhZm82WDdtNE1RUkJ1cUpiLWhFaHlKR0pk?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "8187_2050_5618_5451_5371_100081_5383_1942_1098_3265_11924_12384",
-          "name": "anxiety disorder",
-          "keyword": "anxiety"
-        },
-        {
-          "type": "indication",
-          "disease_id": "11918",
-          "name": "anxiety",
-          "keyword": "anxiety"
-        }
-      ]
-    },
-    {
-      "id": "54ee6bba5ec7",
-      "title": "Did 3I/ATLAS Deliver Extrasolar Life to Our Backyard? - Avi Loeb",
-      "published": "2026-05-25T11:49:49+00:00",
-      "summary": "Did 3I/ATLAS Deliver Extrasolar Life to Our Backyard?&nbsp;&nbsp;Avi Loeb – Medium",
-      "sources": [
-        {
-          "name": "Avi Loeb – Medium",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXFyNHczY1o4cjQ5WHVzRkFENVhfZC1CQWVkYzREbzNvc1B5Wl9SM1p1ci04SlR4bUxQbkZTVnlLbHQ3Q05pVmVTU29Sekc4cEZ6QVB3SkdCVGhndkRRZy1uYjdjd0VyZ2ZoRDA1ODBqREdPMFJnMWZYbXptLWE2dy0yQ0hJWi1sWDdJR3VjRjdGUkpZRkNkeg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -543,30 +680,10 @@
       ]
     },
     {
-      "id": "3a85001057fa",
-      "title": "The Mysterious Diver: A Case Report of a Giant Esophageal Fibrovascular Polyp With Intermittent Oral Cavity Prolapse",
-      "published": "2026-05-25T11:43:18+00:00",
-      "summary": "The Mysterious Diver: A Case Report of a Giant Esophageal Fibrovascular Polyp With Intermittent Oral Cavity Prolapse&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc3FHX3N0WWhWS2V6S2RBbnVQclVWMzZWWVl3Qm5wRnpkc3BUeGNad3dSVnVBcDA3UzJWY2RYNExscDZvLWJyUEdYVFBCZ1hMcHA4Q2FySmFCaEp2YkxZTFhtdkxINXl3M3hUUGFTRG43REItSERxcEdkWHVlRkJDNEJzUEZHTVpLUjJQZkVBSmtzblFuclM4dWxQdnU3Y0ZyZnN6bV9EQUtTYVpCOGFXMUVQZ1ZMVVRDZENfektTSW1zWGlNTjVRQzZVbVdBd3YtSUVtN2d3U05YNUczQkJTMUVVRGt5RU9yaVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "5079",
-          "name": "polyp",
-          "keyword": "polyp"
-        }
-      ]
-    },
-    {
       "id": "af28f138d28c",
       "title": "Q&A: World Thyroid Day - Med-Tech Insights",
       "published": "2026-05-25T11:00:45+00:00",
-      "summary": "Q&amp;A: World Thyroid Day&nbsp;&nbsp;Med-Tech InsightsWorld Thyroid Day: What's the science behind mood swings?&nbsp;&nbsp;news.cgtn.comWorld Thyroid Day 2026: Thyroid Dysfunction In Pregnancy May Increase Autism Risk In Children&nbsp;&nbsp;NDTVTrying for a baby but not conceiving? Doctor explains how your thyroid could be playing a bigger role than you think&nbsp;&nbsp;The Times of IndiaDoctor shares 5 nutrition tips for maintaining thyroid health ahead of World Thyroid Day 2026&nbsp;&nbsp;Hin",
+      "summary": "Q&amp;A: World Thyroid Day&nbsp;&nbsp;Med-Tech InsightsWorld Thyroid Day: What's the science behind mood swings?&nbsp;&nbsp;news.cgtn.comWorld Thyroid Day 2026: Thyroid Dysfunction In Pregnancy May Increase Autism Risk In Children&nbsp;&nbsp;NDTVDoctor warns that Thyroid Disease is changing in India, and many patients still don’t recognise the symptoms&nbsp;&nbsp;The Times of IndiaWorld Thyroid Day 2026: 10 Signs Your Body May Be Warning You About Thyroid Problems&nbsp;&nbsp;News18",
       "sources": [
         {
           "name": "Med-Tech Insights",
@@ -586,7 +703,7 @@
       "id": "d5ce6458e36a",
       "title": "Thai army moves to protect troops in South Sudan amid Ebola risk - Nation Thailand",
       "published": "2026-05-25T10:48:00+00:00",
-      "summary": "Thai army moves to protect troops in South Sudan amid Ebola risk&nbsp;&nbsp;Nation ThailandThailand steps up Ebola screening&nbsp;&nbsp;Bangkok PostMajor Asian country introduces new strict measures to tackle Ebola&nbsp;&nbsp;inklThailand to quarantine Democratic Republic of Congo arrivals even without symptoms&nbsp;&nbsp;Asia News NetworkThailand Introduces Ebola Screening for Travellers from Risk Areas&nbsp;&nbsp;safariindia.com",
+      "summary": "Thai army moves to protect troops in South Sudan amid Ebola risk&nbsp;&nbsp;Nation ThailandThailand steps up Ebola screening&nbsp;&nbsp;Bangkok PostMajor Asian country introduces new strict measures to tackle Ebola&nbsp;&nbsp;inklThailand to quarantine Democratic Republic of Congo arrivals even without symptoms&nbsp;&nbsp;Asia News NetworkThailand Introduces Strict Ebola Measures for Travellers, Ensuring Health Safety and Supporting Smooth Tourism Operations Across Airports, Borders, and Seaport",
       "sources": [
         {
           "name": "Nation Thailand",
@@ -619,7 +736,7 @@
       "id": "a85fe6e61fbd",
       "title": "WHA declare Strokes as a Public Health Priority - INSIGHTS IAS",
       "published": "2026-05-25T09:43:19+00:00",
-      "summary": "WHA declare Strokes as a Public Health Priority&nbsp;&nbsp;INSIGHTS IAS",
+      "summary": "WHA declare Strokes as a Public Health Priority&nbsp;&nbsp;INSIGHTS IASWorld Health Assembly recognises stroke as a public health priority for the first time&nbsp;&nbsp;The HinduStroke, Types, Risk Factors, Symptoms, Treatment, News&nbsp;&nbsp;Vajiram & Ravi",
       "sources": [
         {
           "name": "INSIGHTS IAS",
@@ -656,6 +773,32 @@
       ]
     },
     {
+      "id": "145f431a7f92",
+      "title": "Misinformation about perimenopause on social media ‘putting women at risk’ - The Guardian",
+      "published": "2026-05-25T09:00:00+00:00",
+      "summary": "Misinformation about perimenopause on social media ‘putting women at risk’&nbsp;&nbsp;The GuardianPrevent And Protect: Now Is The Time To Get Get Ready For Menopause&nbsp;&nbsp;essence.comPerimenopause may be behind years of anxiety, brain fog, and sleep troubles&nbsp;&nbsp;myfox28columbus.comPerimenopause took me by surprise. That's exactly the problem. | Opinion&nbsp;&nbsp;USA TodayFace Perimenopause with Hope&nbsp;&nbsp;The Gospel Coalition",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZlNpdkJJM2FGNGZIbnZtOUJEcER4NkZzaVVJUVU3ZFd0MHZhQVNSN0ZaR1JNQTk1N2RsNXhKR2t3Z1QwekdpbmlrakR6Z3RkMlZvWW9mVDU0LUFVVUJNNHNMTmIxY0NYU1QyakpQeE94NFN6ZEF4MHBaWXYxZi1VaWx1dGRSc1V1cExTa2c3cjZ3cTQyTG80RmZjNU9ETHlWUWl6bmFlY0lsS2FEYk11NnlXN05zdDI3VVEtag?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "8187_2050_5618_5451_5371_100081_5383_1942_1098_3265_11924_12384",
+          "name": "anxiety disorder",
+          "keyword": "anxiety"
+        },
+        {
+          "type": "indication",
+          "disease_id": "11918",
+          "name": "anxiety",
+          "keyword": "anxiety"
+        }
+      ]
+    },
+    {
       "id": "1e39ed41bf5f",
       "title": "Development of a model for design radiation shielding composite aprons using machine learning",
       "published": "2026-05-25T08:35:09+00:00",
@@ -687,32 +830,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "376b84d992c7",
-      "title": "Fitness coach says don’t jump to 10,000 steps, reveals how she lost 30 kg with gradual cardio increase",
-      "published": "2026-05-25T07:01:55+00:00",
-      "summary": "Fitness coach says don’t jump to 10,000 steps, reveals how she lost 30 kg with gradual cardio increase&nbsp;&nbsp;Moneycontrol.comFrom 84 Kg To 54 Kg: Fitness Influencer Shares How She Lost 30 Kg In 5 Months&nbsp;&nbsp;NDTVNo starvation, no 10,000 steps, no hardcore gym sessions: How this woman went from 84 kg to 54 kg in just&nbsp;&nbsp;The Economic Times67kg to 53kg: How this creator lost 14kg without extreme diets or hitting 10,000 steps daily&nbsp;&nbsp;The Indian ExpressFat loss coach share",
-      "sources": [
-        {
-          "name": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVmdBaW1XZTZXdXc5SlZldWJfWEJuR1l0dEs0eWJKUFZPaVdyaVdNQm5VQU5KRVhtbGdNWVNOU194OWZ6b2plaEJLcHNWejlqdG5NeVA4RWdiQk1vaGJVN0xiTXJIUXZTMFBTeloyYjk3TDdLN0x0VEh0d1RzTXJuMTJ1NXhRcXcxMldWYXRZVVAtd2NocDhVRV9vN0RoLU52ZlZDZnBDNVNtdThERXFMWGw0SnRtbXVGcHFoTl9pRUtjc3cybGN1Z2JwRlJvU2UtdHg4RWtoakhXRTl5ZFVrUXNLeDVvNEh3NFNsSUlDamhIUWNpV1VuZzB6QzQ1Zzdp0gGGAkFVX3lxTE9QZlJJaVdhUmVjVmtid1RfNkcyTEl4M3g5c3IySW5FQ1d4d0hkVWZfcU9EdE1kOEdEbzJVdUhnZE4yNGpCNlpwUllXa3NxcS1ac3dzNHp0QmE2VWNfN2Z6U0s1dFE5YjFyNUk4aTUyS3RISXVQNkRFYUhBeVlJTld5UlVYR01ya0ZpMTlKbXd2VnNnakFkbUtUYnV0Q1UyQ29zcGYydHk5eWdEUzF4cUgxdUpNUXowOTJ2dEhwVGpBczg3SmI4UXllc3VKdGZVbUpfR1JQUDFoaEQ3Q3RTdjZLZUV2UHpQandENXZhTDdrTmxJX3Bkams2UEVIRWQ5SFZIZU51T2c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5812",
-          "name": "influenza",
-          "keyword": "flu"
-        }
-      ]
     },
     {
       "id": "5e9e73081f6b",
@@ -762,7 +879,7 @@
       "id": "7a968ab45f99",
       "title": "PCOS to PMOS: Indian Doctors Divided Over Historic Change - Medical Dialogues",
       "published": "2026-05-25T05:30:10+00:00",
-      "summary": "PCOS to PMOS: Indian Doctors Divided Over Historic Change&nbsp;&nbsp;Medical DialoguesWhy is Polycystic Ovary Syndrome Now Called PMOS? For Better Care&nbsp;&nbsp;the-scientist.comMore than correction of a medical misnomer&nbsp;&nbsp;Hindustan TimesResearchers rename PCOS to polyendocrine metabolic ovarian syndrome during Women’s Health Month&nbsp;&nbsp;KSNVPMOS: Don’t mistake it for typical teenage issues&nbsp;&nbsp;The New Indian Express",
+      "summary": "PCOS to PMOS: Indian Doctors Divided Over Historic Change&nbsp;&nbsp;Medical DialoguesWhy is Polycystic Ovary Syndrome Now Called PMOS? For Better Care&nbsp;&nbsp;the-scientist.comPCOS to PMOS name change 'more representative of condition'&nbsp;&nbsp;BBCMore than correction of a medical misnomer&nbsp;&nbsp;Hindustan TimesPMOS: Don’t mistake it for typical teenage issues&nbsp;&nbsp;The New Indian Express",
       "sources": [
         {
           "name": "Medical Dialogues",
@@ -778,12 +895,6 @@
         },
         {
           "type": "indication",
-          "disease_id": "10686",
-          "name": "N syndrome",
-          "keyword": "n syndrome"
-        },
-        {
-          "type": "indication",
           "disease_id": "8487",
           "name": "polycystic ovary syndrome",
           "keyword": "polycystic ovary syndrome"
@@ -793,7 +904,7 @@
     {
       "id": "88a71d62bb0f",
       "title": "Prevalence of indication for lateral approach sinus floor augmentation in maxillary molar tooth deficiency: a retrospective study",
-      "published": "2026-05-25T03:03:47+00:00",
+      "published": "2026-05-25T04:40:07+00:00",
       "summary": "Prevalence of indication for lateral approach sinus floor augmentation in maxillary molar tooth deficiency: a retrospective study&nbsp;&nbsp;Nature",
       "sources": [
         {
@@ -811,139 +922,49 @@
       ]
     },
     {
-      "id": "9bdf1e435250",
-      "title": "Suspected and confirmed measles deaths top 500 in Bangladesh - ET HealthWorld",
-      "published": "2026-05-25T02:04:53+00:00",
-      "summary": "Suspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ET HealthWorldMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraGovt could’ve done better to save more lives&nbsp;&nbsp;The Daily Star“Child-Killer Yunus vs. Crisis Manager Sheikh Hasina”: Bangladesh on the Brink of an Epidemic Due to Negligence, and the Leader Who Once Showed the Way Forward&nbsp;&nbsp;albd.orgMore than 500 children have died in an outbreak that the world is virtually ignorin",
+      "id": "4e4a78658f3b",
+      "title": "Kick, pass, concussion? Scientists probe hidden risks of football headers - The Indian Express",
+      "published": "2026-05-25T04:20:00+00:00",
+      "summary": "Kick, pass, concussion? Scientists probe hidden risks of football headers&nbsp;&nbsp;The Indian ExpressFootball Heading Linked to Brain Biomarker Changes&nbsp;&nbsp;EMJHeading Toward Trouble? Soccer ‘Headers’ Acutely Raise Brain Damage Biomarkers&nbsp;&nbsp;MedscapeHeading in football linked to temporary brain injury markers, Amsterdam UMC study finds&nbsp;&nbsp;NL Times",
       "sources": [
         {
-          "name": "ET HealthWorld",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcTd5d0hRR2JodHNSV2hKZzNxNXFWZm8xR0FNcjFIVmRLQjNhVm9RTFVPU1RjbUxBcUJrV0VoVDdkSlVLSWhMMV9RLXR3elhHNXNLaHd3ZXVoX1BLTTdTN1cwc0tZOHJJUkh2eXRYMVBBQm1pMG5LZW1hMWNJLTBGaGxaNjZMZnpBYkdYZ3p2TlNSNlNjbHVZVnp3NWNxYTdLWW9ib3RxdEk0SjJ3WUE0U2FadHBtazdBTnRESkdfRFBRVl8zdTJF0gHMAUFVX3lxTE5janpCdHBYUzN1a2FOdXBtOEFCdllCdUlRcXJkcG1taGZTOF85TDJxMlVpQ2FSbEJjdFBPMy1Gbk02d2tsdTRnbmFvMlJaUF9TcHZQay1tUzRmSDFhMncxdWxNbG83cWNrbEIwbU1lWmd1cTM0TUdlWU52WENwOVBnNU4zYVRPelFDa3dRZEJZQmQ4T3ZNRWMxekZSRkxvWVpvUmpUUDVwUkpKRkt2U3h1Zk8zNEVhRVVoVC1PYzMzcUxJYUZFZndxYzBGVQ?oc=5"
+          "name": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUhSRzJtYUF3d0pObi1jaUJwVXZ5ZHpkRTUyaURndnhqMm5qMXF4Q2hqajlnSFlYOHNVNDczVFVodTA4SHhfSUhIUnZmWTcxcXU4Si1mY082SnFNVjVXT1Jac0k3X1V2S3ZFOFpUZHFLYzZoNS1pR3pIc3hzMktXRXhPRmdJc21UQVM1UU1TVUZFR01RQy1zUEJRbUNCVU56RVVJdHRCX0lTci1EdkxwZ2diV1BSRi1zQjZSc25DTTZNcmo1UFFwTFdVeGxGUdIB1AFBVV95cUxOb3JGdk1PbUxTUk9ud2x1UW92U3FsYlBYTUZzNGttSWpGeDhoYTB3cGl4bWRhVEQtZGoxMUR0UTFzQzdkc3RCOXZBcC1SaGhUc1M2Y3FsRVlPSFdjYjRRTlUtcnVBRFpmLU1VVWd2dFFYRGkzb2ZnNUtVeE5IZVdBb2FOZGpROTZobW9sODU3dENhaFZTR2xzS0ZMNDdTdzNackExMUNfUS1WQXZuZDRKWF81Nk54bDFlSktEU2lKYVBkY3dJcUU3Wkh6NzRJSi1fbE9mdQ?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
+          "disease_id": "21178",
+          "name": "injury",
+          "keyword": "injury"
         },
         {
           "type": "indication",
-          "disease_id": "4619",
-          "name": "measles",
-          "keyword": "measles"
+          "disease_id": "43510_5621",
+          "name": "brain injury",
+          "keyword": "brain injury"
         }
       ]
     },
     {
-      "id": "8380c377cea4",
-      "title": "New Ebola outbreak shows how market failure delays vaccine research - The Hindu",
-      "published": "2026-05-25T01:00:00+00:00",
-      "summary": "New Ebola outbreak shows how market failure delays vaccine research&nbsp;&nbsp;The HinduThis Week in Explainers: Why is there no vaccine for this Ebola outbreak?&nbsp;&nbsp;FirstpostWHO Declares Ebola PHEIC Accelerating Growth in the Ebola Virus&nbsp;&nbsp;openPR.comWHO Declares Ebola Emergency: Why India's Pharma & Healthcare Industry Is Watching Closely&nbsp;&nbsp;eHealth MagazineDoes the Current Ebola Vaccine Protect Against Every Type of Ebola Virus?&nbsp;&nbsp;National Academies of Sciences",
+      "id": "1b467ca67a1c",
+      "title": "120 Crore People Now Living With Mental Disorders Worldwide… Study Reveals",
+      "published": "2026-05-25T03:10:18+00:00",
+      "summary": "120 Crore People Now Living With Mental Disorders Worldwide… Study Reveals&nbsp;&nbsp;InfomanceNearly 1.2 billion people worldwide are living with mental disorders. The number has been growing&nbsp;&nbsp;CNNStudy finds 95% increase in prevalent cases of Mental Disorders from 1990 to 2023 globally&nbsp;&nbsp;Vision IASMental disorders leading cause of disability, surpassing cardiovascular disease, cancer: Study&nbsp;&nbsp;The HinduMental health burden doubled since 1990, 1.2 billion people affect",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDQ3b2YyallQOV9aWG8zQ04xMV92SXJvemVVN3VUU2ZnVlZ3VTRmUXV0dkQzcjBJTllYSGVvQjR5ekVGNFJwdFU3SU4yZmJ6T1IzU3BMZDhaWXBqV3pnSEE2SHd4ZHlpeHBxZTV6aFotY1MxdG1mdkwtdnBWLUc2TEd4UFAyUFRoc0stRlNHOXJHdFdWSnFKSlEzcGt6a3o2TWJFbW9pWXBKaFlJN2t6clV5cFdXS1IzVEd4MkphM1gtZkwwZ2dV0gHOAUFVX3lxTE1LVmNPaTVCVDlYa3l6RVRqWllQdkNVbU5mb2VBMzhUdWVQQVNyZXdaYnhCZXo4LWkxSUVsLXFyMndxS3diZ2tUYjQxNjY4VTVPaU1YNHA3THpzUmhuRXlJZ1h3U2lHMFRzUTM0dWp1cmM0MVdHbHdVcHBjQlZCVjA0bEZ0UUNhR0xpdWVGZHQzaF8zWTJXWFA0YkFILWJfRnljeFREM2x5LW1QT2ktNDExLUIwRE1ZU2wxRnFoZWd6Z1YtR2NxSmFraWkwMUh3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c3ab957a99f7",
-      "title": "New 'AI scientists' are improving—but reveal their fundamental limits",
-      "published": "2026-05-24T19:00:02+00:00",
-      "summary": "New 'AI scientists' are improving—but reveal their fundamental limits&nbsp;&nbsp;Phys.orgAI & Science: What Is the Future of Discovery?&nbsp;&nbsp;American Academy of Arts and SciencesAre ‘AI co-scientist’ tools actually useful for scientists?&nbsp;&nbsp;statnews.comAI co-scientist startup CTO on 'hypothesis slop,' deterministic code and the goal of compressing a century of science into a decade&nbsp;&nbsp;R&amp;D WorldAccelerating Discovery With AI | Newswise&nbsp;&nbsp;Newswise",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QMDFnTktxeGJjUkppMGxyM2R0aXNEUlZCTWFaT3NsUlI5MUNyWXVmQ2o4THdndFJhM0tHUWVZSGJ1c0Y3bHpmcWdMQTBGOE9OR0xsN19jQnlTeEQ4WUdfam0yUFV1VXUtNWVkTm1nZ0dwZHZvakNoZFJQMEpiakk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "509cf9cd6a37",
-      "title": "Sexually transmitted diseases are rising sharply - EU Reporter",
-      "published": "2026-05-24T14:48:54+00:00",
-      "summary": "Sexually transmitted diseases are rising sharply&nbsp;&nbsp;EU ReporterTwo major STIs hit record levels in Europe&nbsp;&nbsp;MSNSTIs hit record levels in Europe: what’s driving the rise?&nbsp;&nbsp;EuronewsSexually transmitted infections surge across Europe to decade-high levels, with gonorrhea up 303%&nbsp;&nbsp;ynetnews[Epidemiological reports] ECDC: Bacterial STIs reach record highs in Europe, as congenital syphilis cases nearly double&nbsp;&nbsp;European AIDS Treatment Group",
-      "sources": [
-        {
-          "name": "EU Reporter",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX05MeENhNmdXUF94Q1dCZHJ3STdXQlFLaXVUWlg2aWhDSm5KVWo5UENoWjV4ZVZXQXlRejFreVFDTXMxODZOS3RiTE1haXZDajVrbWtjc0JWV2V1d3VFd043ekZSaFRlRHAzQXV6Tmh2bUdrdWRGSzBqY2tMckVWby1GZktTZVhnaFZQRUhDd19SR2pDTzlaeQ?oc=5"
+          "name": "Infomance",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNblpSV3B6akRkWUxXZzR6dXBpY2VaVDk1bXBPWlhmdlV3RkJOTElZeFgzTm5zQVdQdnphRnR5XzFlMFdUUzhocHVvUmJadkF2VGVBWGFnMHF0Y2Z4MWxlY3hrcXl5bnZ1eDNOSTFmQU83LV9DM0FkVkdiV3ZMSTg4b0RrWEJ0bV9hdVBqa3QtNlNWeVVaOFBuWE5yWHdjWkFRckE1WnQ4QWw?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "disease_id": "4497_6718_5976_2897_2896",
-          "name": "syphilis",
-          "keyword": "syphilis"
+          "disease_id": "5090_13498_8414_10897_33312_10943_11552_14092_12054_11960_11280_11294_11295_11298_11307_11498_12879_13089_13506",
+          "name": "schizophrenia",
+          "keyword": "mental disorder"
         },
-        {
-          "type": "indication",
-          "disease_id": "4277",
-          "name": "gonorrhea",
-          "keyword": "gonorrhea"
-        },
-        {
-          "type": "indication",
-          "disease_id": "21681",
-          "name": "sexually transmitted disease",
-          "keyword": "sexually transmitted disease"
-        },
-        {
-          "type": "indication",
-          "disease_id": "12268",
-          "name": "AIDS",
-          "keyword": "aids"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5714_5821_333",
-          "name": "congenital syphilis",
-          "keyword": "congenital syphilis"
-        }
-      ]
-    },
-    {
-      "id": "3dc161478fc6",
-      "title": "Exercise and healthy diet may lower leptin levels in obesity-related hypertension study suggest",
-      "published": "2026-05-24T13:16:00+00:00",
-      "summary": "Exercise and healthy diet may lower leptin levels in obesity-related hypertension study suggest&nbsp;&nbsp;TheHealthSite",
-      "sources": [
-        {
-          "name": "TheHealthSite",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNnRRdEs4VEhYMnRpUEpVX0ZuQU9ic051azJfR0ZQYnRPWW92M3NnR0dpSi1WVTRFd0RGbk1aTlJHakJUeDdQRkRvd3ZsamxrdTZYY2k5MnN2cFhtUDRvcWJRX1drQWZ1OXRJZHR0ZDRFMXN1Vm1NYTZuQVRoOUhSMDd0aDJDT216N3pieEVZU2o0eThGbGNjNGFsNWh4NDYybmptVVRSX0hZdWN5Ylg0Y0trZHp0R1BGdVZjaVpmVDIwRzYwS1VRN0ZKbVp1VnNndkt0SkdITFZUQ0VJSTZYWXJ4TnQybmd5MFHSAe8BQVVfeXFMTVhZaXZBUmZ6M1hINUx4UzlUZHQtaFhfR3NiYXdoOHRoNVNHUlVzMjN1UFZsM0hMT2YtaGtHYVdCUnRrS0xBRWhiNzUyX0EzTTV1dVhGeFUtbUNweDJKR19IbDZfSkdFU1JIUjF4elBCYjhCcjZmOC1YNW9FUWJibVFIN1FaR1JGNDNEby11djVQeGhoaG1Zc2FudUVSaW9tdjFhYWVEbG03VEtteVhRVDdhU1FFUko0NEJGVlRkQzl3d2RwcVhKcER2M29KeF81UDN1RmhkWHE4LS1taGpyeGE3U0VjcTktQXVCN0VGcWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB05098",
-          "keyword": "leptin",
-          "name": "Leptin"
-        },
-        {
-          "type": "indication",
-          "disease_id": "1200_1134_15512_5080_100078",
-          "name": "hypertension",
-          "keyword": "hypertension"
-        }
-      ]
-    },
-    {
-      "id": "9f178a5eeb71",
-      "title": "Mental health burden doubled since 1990, 1.2 billion people affected globally - Deccan Herald",
-      "published": "2026-05-24T12:53:59+00:00",
-      "summary": "Mental health burden doubled since 1990, 1.2 billion people affected globally&nbsp;&nbsp;Deccan HeraldStudy finds 95% increase in prevalent cases of Mental Disorders from 1990 to 2023 globally&nbsp;&nbsp;Vision IASMental disorders leading cause of disability, surpassing cardiovascular disease, cancer: Study&nbsp;&nbsp;The HinduLancet report warns of rising global mental health crisis and underfunding&nbsp;&nbsp;AKIpress News AgencyGlobal mental health snapshot: 1.2 billion people are living with",
-      "sources": [
-        {
-          "name": "Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeDdLWk1SV3kzT05ITXcwUTJ4dDQ2ZXc2Xy1GZkJEdnFKZnZ1cVRrSVQ1bUFROThWYTRCdFg5X19pNXc2aHM5SG1IVDBXc0puUnp2dkRsU3laSVN6Q1JpRzA5UkJVRVlnaWRiQ0MzVkY4dGJUcFE0Z20xNVU0Yy1QNmRqM3hQTl94MmNrR0RUdV9EWHdaLTktZ2xJRmN2Um5YZVhzSF9vRUJGbkR6X0Y3NThtZlBYTHo5ZkFDLU1tTEcxUXNDVVpzZXB3?oc=5"
-        }
-      ],
-      "matched_keywords": [
         {
           "type": "indication",
           "disease_id": "4992",
@@ -983,10 +1004,193 @@
       ]
     },
     {
+      "id": "f2c6c053b236",
+      "title": "As Ebola Cases Rise, Don’t Ignore These 7 Life-Saving Habits We Learned From COVID And Past Outbreaks",
+      "published": "2026-05-25T02:43:38+00:00",
+      "summary": "As Ebola Cases Rise, Don’t Ignore These 7 Life-Saving Habits We Learned From COVID And Past Outbreaks&nbsp;&nbsp;News18",
+      "sources": [
+        {
+          "name": "News18",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQmJZaEljR3VIdXNyY3NzMkdfUWc5UDlCa3cxRVNBaDBZNXJwckFiXzZQb2lvc1daWDVIZDQ3eTJQZURMZFlMRVNCX2hZUE9EVXhyblFHa0ozLUtUUnBVZ1dxLVlabjIwMmt6X0ZZa1ZHMkptaFB2NU9JQVhGTlBRTGhXN3ZJdGVUb0owQVpXUy1ITThhdTNYUFpONGREYUs5ZWw1UHZzTDZiT1RMemU2WVZYekQwRFJDVE50ZFFwR3JQRDY1MVA4RWs0eVFaeWM1Nl82eU0wOFd4cnJ4UVRXU00yejM3NHFKemRRTFBfYnc1a3VFcEJyX1cyUElEZmfSAYQCQVVfeXFMTmJORmd1M0hTZDZ2b0xmQXBrSVJFdzZHU3lBeS1fT3lELWROcERIT1ZrWG1ta3pBY3plSmVqM000aFdONm1leDZOUklic0IwdE9nRl9SWnRELWZCTVBoRFI2WGZmRE52aFY5cmtTVEM5QWQxYnltVWRSczFZa3BWWXJuRWtRemVFb3ZkVlhMd1hXVG9KWVR6aTZBZF82bjMyWmQ4bkRfWTVITXpfbDE0bE9ZbkRZNWJEYjhlY2JMaW5Va093cWdJRkFpR25GMXNXeFh1OVZQWDdUeHhzRDlCdnpSaVo5SzNQY0pIcnpMTEMyU2d3YTlWVFNhVWltOEhzZTJ4bEc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9bdf1e435250",
+      "title": "Suspected and confirmed measles deaths top 500 in Bangladesh - ET HealthWorld",
+      "published": "2026-05-25T02:04:53+00:00",
+      "summary": "Suspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ET HealthWorldMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al Jazeera“Child-Killer Yunus vs. Crisis Manager Sheikh Hasina”: Bangladesh on the Brink of an Epidemic Due to Negligence, and the Leader Who Once Showed the Way Forward&nbsp;&nbsp;albd.orgMeasles-related death toll rises in Faridpur, Barishal as infections continue to surge&nbsp;&nbsp;The Business StandardMore than 500 children have died i",
+      "sources": [
+        {
+          "name": "ET HealthWorld",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcTd5d0hRR2JodHNSV2hKZzNxNXFWZm8xR0FNcjFIVmRLQjNhVm9RTFVPU1RjbUxBcUJrV0VoVDdkSlVLSWhMMV9RLXR3elhHNXNLaHd3ZXVoX1BLTTdTN1cwc0tZOHJJUkh2eXRYMVBBQm1pMG5LZW1hMWNJLTBGaGxaNjZMZnpBYkdYZ3p2TlNSNlNjbHVZVnp3NWNxYTdLWW9ib3RxdEk0SjJ3WUE0U2FadHBtazdBTnRESkdfRFBRVl8zdTJF0gHMAUFVX3lxTE5janpCdHBYUzN1a2FOdXBtOEFCdllCdUlRcXJkcG1taGZTOF85TDJxMlVpQ2FSbEJjdFBPMy1Gbk02d2tsdTRnbmFvMlJaUF9TcHZQay1tUzRmSDFhMncxdWxNbG83cWNrbEIwbU1lWmd1cTM0TUdlWU52WENwOVBnNU4zYVRPelFDa3dRZEJZQmQ4T3ZNRWMxekZSRkxvWVpvUmpUUDVwUkpKRkt2U3h1Zk8zNEVhRVVoVC1PYzMzcUxJYUZFZndxYzBGVQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4619",
+          "name": "measles",
+          "keyword": "measles"
+        }
+      ]
+    },
+    {
+      "id": "f1e6b38b69ec",
+      "title": "Blood carotenoids offer the clearest signal of fruit and vegetable eating habits",
+      "published": "2026-05-25T01:23:00+00:00",
+      "summary": "Blood carotenoids offer the clearest signal of fruit and vegetable eating habits&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX25MUi1JcjBqVlhPbzZnZG1PZTZlWGgwM21NVzZpSV9CTHdPTWxVVHNEN21QY1NQcjFSMndCS1lSWmcySEdvY3dtOUdER28zMVFEdElxYVhHMW5GRTREUzF2ZGpCbTBwd3I4MUt2Y2plVm5rVG5fdFNGT1QwTExqcHdOSEVwaUNWMk40OS13OE9Mc1BxbVhid0pWU0VRV3pnY2I4LVBaUDVqbXpFQlhBS0V5MlFPS3NNRFRvYkM5SE1DYWFlWWpN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8380c377cea4",
+      "title": "New Ebola outbreak shows how market failure delays vaccine research - The Hindu",
+      "published": "2026-05-25T01:00:00+00:00",
+      "summary": "New Ebola outbreak shows how market failure delays vaccine research&nbsp;&nbsp;The HinduThis Week in Explainers: Why is there no vaccine for this Ebola outbreak?&nbsp;&nbsp;FirstpostWHO Declares Ebola PHEIC Accelerating Growth in the Ebola Virus&nbsp;&nbsp;openPR.comWHO Declares Ebola Emergency: Why India's Pharma & Healthcare Industry Is Watching Closely&nbsp;&nbsp;eHealth MagazineDoes the Current Ebola Vaccine Protect Against Every Type of Ebola Virus?&nbsp;&nbsp;National Academies of Sciences",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDQ3b2YyallQOV9aWG8zQ04xMV92SXJvemVVN3VUU2ZnVlZ3VTRmUXV0dkQzcjBJTllYSGVvQjR5ekVGNFJwdFU3SU4yZmJ6T1IzU3BMZDhaWXBqV3pnSEE2SHd4ZHlpeHBxZTV6aFotY1MxdG1mdkwtdnBWLUc2TEd4UFAyUFRoc0stRlNHOXJHdFdWSnFKSlEzcGt6a3o2TWJFbW9pWXBKaFlJN2t6clV5cFdXS1IzVEd4MkphM1gtZkwwZ2dV0gHOAUFVX3lxTE1LVmNPaTVCVDlYa3l6RVRqWllQdkNVbU5mb2VBMzhUdWVQQVNyZXdaYnhCZXo4LWkxSUVsLXFyMndxS3diZ2tUYjQxNjY4VTVPaU1YNHA3THpzUmhuRXlJZ1h3U2lHMFRzUTM0dWp1cmM0MVdHbHdVcHBjQlZCVjA0bEZ0UUNhR0xpdWVGZHQzaF8zWTJXWFA0YkFILWJfRnljeFREM2x5LW1QT2ktNDExLUIwRE1ZU2wxRnFoZWd6Z1YtR2NxSmFraWkwMUh3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "796c02b0a69f",
+      "title": "Yoga and meditation show promise for gut health",
+      "published": "2026-05-25T00:57:00+00:00",
+      "summary": "Yoga and meditation show promise for gut health&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX0Q5MTBxUzBpTzR2a3ltQ29QS3BoMHhoazZXcXM5ZXBUaVRqUXY4UlRqSldZcEpvbFRfOEFEMm5RcjF3cGFsSnZsSFp0OGhMdS14S1o3RGJFV0FtRVJ4TzU5eVplQlhUSDhuUzNwaUlrdk1ZcXJXN0FCWWJLSm51UzVmUmhmODJaQkpBbTd0cUo5UnlXUmxocW5OOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "89ebae81284d",
+      "title": "Spanish passenger with hantavirus infection quarantined in Madrid hospital - News On AIR",
+      "published": "2026-05-24T20:21:13+00:00",
+      "summary": "Spanish passenger with hantavirus infection quarantined in Madrid hospital&nbsp;&nbsp;News On AIRAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJWhat happened on the MV Hondius is a predictable consequence of how modern mobility intersects with ecological risk&nbsp;&nbsp;Down To EarthDeadly shadows at sea&nbsp;&nbsp;Global TimesM/V Hondius — Atlantic Odyssey: Tracking the First Andes Hantavirus Outbreak at Sea&nbsp;&nbsp;World Health Network",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTThWTU5ESExacENTYldNV2VyNEZvSTBITmVSSm9DVDlVcE8zZFN2azJjQXZSUms4MEdQR2JmV2lSdEZHZ29ra1VEcmZLdEFwbnhxMVRxUGxGR25FNnU3TDBWcE1tUnNXOU5mTjdrVm9kZWNseUtNRkg1MTJROWJvdzVvOWNnZGh1MHh0V1R6ajE4QXAzUERsbk0wcFBISWFhdmc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "8383",
+          "name": "rheumatoid arthritis",
+          "keyword": "RA"
+        }
+      ]
+    },
+    {
+      "id": "c3ab957a99f7",
+      "title": "New 'AI scientists' are improving—but reveal their fundamental limits",
+      "published": "2026-05-24T19:00:02+00:00",
+      "summary": "New 'AI scientists' are improving—but reveal their fundamental limits&nbsp;&nbsp;Phys.orgAI & Science: What Is the Future of Discovery?&nbsp;&nbsp;American Academy of Arts and SciencesAre ‘AI co-scientist’ tools actually useful for scientists?&nbsp;&nbsp;statnews.comAI co-scientist startup CTO on 'hypothesis slop,' deterministic code and the goal of compressing a century of science into a decade&nbsp;&nbsp;R&amp;D WorldAccelerating Discovery With AI | Newswise&nbsp;&nbsp;Newswise",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QMDFnTktxeGJjUkppMGxyM2R0aXNEUlZCTWFaT3NsUlI5MUNyWXVmQ2o4THdndFJhM0tHUWVZSGJ1c0Y3bHpmcWdMQTBGOE9OR0xsN19jQnlTeEQ4WUdfam0yUFV1VXUtNWVkTm1nZ0dwZHZvakNoZFJQMEpiakk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8e392676247f",
+      "title": "Global Travel Chaos Erupts as Escalating African Ebola Outbreak Forces Uganda and Ethiopian Airlines to Slash Routes, Triggering US CDC Screenings, Flight Cancellations, and Massive Airport Disruptions: Latest Airline News and Aviation Updates - Nomad Lawyer",
+      "published": "2026-05-24T17:54:42+00:00",
+      "summary": "Global Travel Chaos Erupts as Escalating African Ebola Outbreak Forces Uganda and Ethiopian Airlines to Slash Routes, Triggering US CDC Screenings, Flight Cancellations, and Massive Airport Disruptions: Latest Airline News and Aviation Updates&nbsp;&nbsp;Nomad LawyerUS temporarily bans green-card holders from entering country from African nations&nbsp;&nbsp;The GuardianU.S. extends Ebola travel ban to Green Card holders&nbsp;&nbsp;The HinduUnited States Joins Australia, United Kingdom, India, Ba",
+      "sources": [
+        {
+          "name": "Nomad Lawyer",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRnlhcmQ5SURocEhXR2ZJMXZtWHI0NkFHVWF0UGd0Vnp3X1RadzhYVlNqZEE5QVVBOUZJWmJQMFRZLW81LW1XcEVXdnloRmk1NDFnQVAzaTlyNmxhQWtRVVBfbHJWTVFoUlBiYk4tSDBCQ1ZTb0phQnh3TWp4SkFSamlWRllSY2w0V2lNd2ItZjhsVFF4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "17124",
+          "name": "noma",
+          "keyword": "noma"
+        }
+      ]
+    },
+    {
+      "id": "fe65f6a28920",
+      "title": "Persistent Alternaria Sensitisation Linked to Asthma Risk",
+      "published": "2026-05-24T14:02:22+00:00",
+      "summary": "Persistent Alternaria Sensitisation Linked to Asthma Risk&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0FMRVl6Zzl2VU01cm0xSEIya2lNT2RSN05FY29uV1pCaENYRHduZDNRSmJRcmlvQ1ExZ2RYSzNwczcwN0RzSE1UcG1mYjY5cE1qR3k3MU5LcGFtalY4N2tBVmlOVEpSRG11bXRla0w4WmEzWWx0SjlNTUdPNnNFV3RZMlFmZlZNVGpmS3dkRDZLeGpMSG11aVFWQ1piaGFSTFZYQjhNdmxrWWgwUVE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "4979",
+          "name": "asthma",
+          "keyword": "asthma"
+        }
+      ]
+    },
+    {
+      "id": "3dc161478fc6",
+      "title": "Exercise and healthy diet may lower leptin levels in obesity-related hypertension study suggest",
+      "published": "2026-05-24T13:16:00+00:00",
+      "summary": "Exercise and healthy diet may lower leptin levels in obesity-related hypertension study suggest&nbsp;&nbsp;TheHealthSite",
+      "sources": [
+        {
+          "name": "TheHealthSite",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNnRRdEs4VEhYMnRpUEpVX0ZuQU9ic051azJfR0ZQYnRPWW92M3NnR0dpSi1WVTRFd0RGbk1aTlJHakJUeDdQRkRvd3ZsamxrdTZYY2k5MnN2cFhtUDRvcWJRX1drQWZ1OXRJZHR0ZDRFMXN1Vm1NYTZuQVRoOUhSMDd0aDJDT216N3pieEVZU2o0eThGbGNjNGFsNWh4NDYybmptVVRSX0hZdWN5Ylg0Y0trZHp0R1BGdVZjaVpmVDIwRzYwS1VRN0ZKbVp1VnNndkt0SkdITFZUQ0VJSTZYWXJ4TnQybmd5MFHSAe8BQVVfeXFMTVhZaXZBUmZ6M1hINUx4UzlUZHQtaFhfR3NiYXdoOHRoNVNHUlVzMjN1UFZsM0hMT2YtaGtHYVdCUnRrS0xBRWhiNzUyX0EzTTV1dVhGeFUtbUNweDJKR19IbDZfSkdFU1JIUjF4elBCYjhCcjZmOC1YNW9FUWJibVFIN1FaR1JGNDNEby11djVQeGhoaG1Zc2FudUVSaW9tdjFhYWVEbG03VEtteVhRVDdhU1FFUko0NEJGVlRkQzl3d2RwcVhKcER2M29KeF81UDN1RmhkWHE4LS1taGpyeGE3U0VjcTktQXVCN0VGcWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB05098",
+          "keyword": "leptin",
+          "name": "Leptin"
+        },
+        {
+          "type": "indication",
+          "disease_id": "1200_1134_15512_5080_100078",
+          "name": "hypertension",
+          "keyword": "hypertension"
+        }
+      ]
+    },
+    {
       "id": "072813926558",
       "title": "A Bionic Arm That Helped India’s Amputees Face The World Again - Analytics India Magazine",
       "published": "2026-05-24T11:52:40+00:00",
-      "summary": "A Bionic Arm That Helped India’s Amputees Face The World Again&nbsp;&nbsp;Analytics India MagazineWhile neural prosthetics cost fortunes and require brain surgery, a 17-year-old student used a $75 3D printer, fishing line, and artificial intelligence to create a functional robotic arm for just $300.&nbsp;&nbsp;CPG Click Petróleo e GásThe new normal: How high-tech limbs are changing lives in India&nbsp;&nbsp;expresshealthcare.inWhy Are Advanced Prosthetic Technologies Transforming the Orthopedic ",
+      "summary": "A Bionic Arm That Helped India’s Amputees Face The World Again&nbsp;&nbsp;Analytics India MagazineThe new normal: How high-tech limbs are changing lives in India&nbsp;&nbsp;expresshealthcare.inWhy Are Advanced Prosthetic Technologies Transforming the Orthopedic Prosthetics Market 2026&nbsp;&nbsp;openPR.comRobotic Prosthetics Market to Reach USD 2.2 Billion by 2035&nbsp;&nbsp;openPR.com",
       "sources": [
         {
           "name": "Analytics India Magazine",
@@ -999,7 +1203,7 @@
       "id": "7b02beb33e83",
       "title": "New Black Hole Study Suggests Singularities May Not Exist - Gadgets 360",
       "published": "2026-05-24T11:46:52+00:00",
-      "summary": "New Black Hole Study Suggests Singularities May Not Exist&nbsp;&nbsp;Gadgets 360Francesco Di Filippo's study suggests charged black holes avoid singularities&nbsp;&nbsp;NewsBytes",
+      "summary": "New Black Hole Study Suggests Singularities May Not Exist&nbsp;&nbsp;Gadgets 360",
       "sources": [
         {
           "name": "Gadgets 360",
@@ -1007,84 +1211,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "64225b3e67ad",
-      "title": "Burkina Faso strengthens preventive measures against Ebola",
-      "published": "2026-05-24T10:12:46+00:00",
-      "summary": "Burkina Faso strengthens preventive measures against Ebola&nbsp;&nbsp;China.org.cnSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "China.org.cn",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVV9hcjUxTlhKdEJPYmoxVThCS1pFQkZvcGh2YVBtdGpNeG9uRS1MaXFxbjZMdENwbThkUVpvbElZNF9Yb0ZsRXpvVXZpVElfZ2dHS0d3VmdlRUZHRWJkeWhmUlpKckpNVUViWjk1bl9oUXk5am1EMV9nNjRPMVhPOVh1cw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "d90bf482ebda",
-      "title": "Asia's Premier News Agency - India News, Business & Political, National & International, Bollywood, Sports - ANI News",
-      "published": "2026-05-24T08:56:00+00:00",
-      "summary": "Asia's Premier News Agency - India News, Business & Political, National & International, Bollywood, Sports&nbsp;&nbsp;ANI NewsHow often should you go to the toilet? How can you get the better of wind? Experts’ tips for a healthier gut&nbsp;&nbsp;The Guardian5 Simple Food Swaps To Boost Your Gut Health, According To A Harvard-Trained Doctor&nbsp;&nbsp;NDTVA Philly Expert Shares 5 Truths About Gut Health That May Surprise You&nbsp;&nbsp;Philadelphia MagazineLifestyle coach shares 3 tips for gut he",
-      "sources": [
-        {
-          "name": "ANI News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3o3bUF2Y0VkTEV6SGttWGd1dkwxWFd2bF9jUFEyb1F6bXFmNVN0OG1yWEFWVnVORTUwYXhuSmwzbU9YdURrc0dJTS0xbENXNmd1UDhjRHhwTzY1bW5MR3dHMks4bzlVSHlJNXZhZ0VmeDB3ZlEyMUtvcnJJSVZBSHROS0g?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e9ffaac3db49",
-      "title": "Massive gravity “hole” beneath the Indian Ocean finally gets a possible explanation after decades of scie - The Times of India",
-      "published": "2026-05-24T06:31:00+00:00",
-      "summary": "Massive gravity “hole” beneath the Indian Ocean finally gets a possible explanation after decades of scie&nbsp;&nbsp;The Times of IndiaGeophysicists solve the mystery of a 75-year-old ‘gravity hole’ in the Indian Ocean&nbsp;&nbsp;AOL.comNew research may explain Indian Ocean 100m gravity dip&nbsp;&nbsp;NewsBytes",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNcURzbE42Y2taWHRpT1RiSjBIYi1fQkRJSC1BOG42STQ1YUo5ZF9jM2dyYXBDOW5ObVhwaWZkOFlTV1RIOVVPZVQzRW1YR000ODdIcFNpRzNabDZwYm00ZHFRWnI1WnVYX0xuazNEV19DSXVUa2MxVzU1X2tpeHhUOXd5cGFBd2ZHdjlRd0dqWDZHNUx5QnBydzVVLUFtckNZdWZrYnNnTVB0alFjd2I3VzNfVDU1cGZjbEFlRDFQRW9ieXRKUE5INzhRNUZtSS13d2J4N0kwY0x0T3RsVEFkRFhXYUxqbjJLdmEtdDB3U1ZfZ2Z2TXZrVTI3TkM2V3hvRHhxYUN4TlA3Q0FZMjRNdkxlX0xtd9IBmwJBVV95cUxNXzlEOXBtTjRiazZMRURYNllSWnZ3UnloNU5HZTVyeDBSWS1pYTZMZzJEdGNVclNKYzZFekhUQkp4bmNSYmNUbngxVXB4Tkx1NkFicTZIeFQyWVZqNWYtMjNkcXBVTGJGZG1NSVFSdlhuNE5DcGJ2aVI0Q3lzaG05UlkxZG5PdlEzSlRRRUlWX1lQdmtZZjdfbmJDWmxsaFBQSHJsdENDTzhxeUdIV25iX1ViSWtBZ1FtR1hHOWNxUXBzRDRTVndLQ3lqZkV4dWJhR01GUlFCaWFwY1BFaE1sdkVRNGpyRWhhTmFlWUtaUWxreVVNSkVpV3o3WkNSUE9jVXhLbXRhLXo3bWtjQm5ickhyTldNa3VOMFZz?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "189bbd2b651f",
-      "title": "Can heatwave raise your blood pressure levels? Expert shares 8 effective ways to manage BP in summer",
-      "published": "2026-05-24T04:28:00+00:00",
-      "summary": "Can heatwave raise your blood pressure levels? Expert shares 8 effective ways to manage BP in summer&nbsp;&nbsp;TheHealthSiteHeat in cardiovascular patients increases the risk of hypotension and arrhythmias, warns an expert&nbsp;&nbsp;DemócrataCan Hot Weather Raise Blood Pressure? Warning Signs To Watch Out For&nbsp;&nbsp;News18The science of survival: What extreme temperature and humidity levels can the human body actually live through? EXPLAINED&nbsp;&nbsp;Zee News40°C heat and your body: The ",
-      "sources": [
-        {
-          "name": "TheHealthSite",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZmk0STNSbEl6ZDRETWN1VVM2NEZ5N3IxaDhtOVQ1Szh1RjhfYVZIY3lCQVdIMTRYaXZ2Qldzb0dNUV84RDlrUklaeGFIbC1mTDBxTnRWeHRjeHNlREs3c3lZTEh1MnFmXzBlWWhieWd5RFdHOHktV3g1eVdZaU5NaFJpRmstbUpYUE9uMWszb0VXTWVKel9lY2pLM25zNzNkV2liMV91ZkRuc3d4aU8wXzJTZ2hSTlkzY25obzBIcjlUMlN0WjB2X2tXZ0g5azl6M0Rrc3hIQmJJZG1fQUhIeDc0R0laZnFoaGtkLWFVY9IB9AFBVV95cUxOTHRMc3dIQzNmTjUxM3RqOTB4VkdzMFpzX3FIOXhYdnFGSkkzNk9oWGU5dlFQcVZFYnlRMkZvT0xKdzhuQkFfN2dYTU1Tams0cktzWmVwVjZqbm96dWtTX2Y4eXY4bnJzZ2hNNVp3SWdaYk51clZwY3ZuOHYydmk1NF9VR2ZHTU9xSnZvN2lxVFppbVhVbnpPMWNFeDNwV2NJUENvQWNBbUs0cHVtY3Rja2hVOF9sR3RCUmpXaWlIcW5FUlM1bWV1b3M4RXQ2OXRsUEVfOWdEWFFERjhub2pIaWFTb21pdTBab3J4WUJiU2tubGxW?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "1200_1134_15512_5080_100078",
-          "name": "hypertension",
-          "keyword": "BP"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__cardiovascular",
-          "name": "cardiovascular",
-          "keyword": "cardiovascular"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__heart_disease",
-          "name": "heart_disease",
-          "keyword": "arrhythmia"
-        }
-      ]
     }
   ]
 }
