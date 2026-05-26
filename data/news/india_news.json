@@ -1,15 +1,99 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-25T19:10:57.214193+00:00",
-  "total_fetched": 99,
-  "unique_count": 99,
-  "health_related_count": 47,
+  "fetched_at": "2026-05-26T01:50:53.088699+00:00",
+  "total_fetched": 95,
+  "unique_count": 95,
+  "health_related_count": 46,
   "news": [
+    {
+      "id": "9d557325bfac",
+      "title": "Over 900 suspected cases identified in DRC Ebola response: WHO chief - Global Times",
+      "published": "2026-05-26T00:35:00+00:00",
+      "summary": "Over 900 suspected cases identified in DRC Ebola response: WHO chief&nbsp;&nbsp;Global TimesInside the epicenter of the Ebola outbreak in DRC as the virus spreads&nbsp;&nbsp;CNNWHO Director-General's remarks at the Virtual Ministerial Briefing on the Bundibugyo Ebola Outbreak – 25 May 2026&nbsp;&nbsp;World Health Organization (WHO)WHO chief says suspected Ebola deaths at 220 as epidemic ‘outpacing us’&nbsp;&nbsp;Al JazeeraUgandan health officials report new Ebola virus infections, bringing cases",
+      "sources": [
+        {
+          "name": "Global Times",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OU0NpeU1qdkV0ZUNVSGhVcC1fUjI3RU83TUlNWlVnNXNDWWxHTFVkdHVQaFBNM18wOUlXRU05QWlXekJVbkk5MEo0dUc5bXdXRXhHTTZZSG9ZNWtUZTZTWGpR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "89ebae81284d",
+      "title": "Spanish passenger with hantavirus infection quarantined in Madrid hospital - News On AIR",
+      "published": "2026-05-25T21:05:31+00:00",
+      "summary": "Spanish passenger with hantavirus infection quarantined in Madrid hospital&nbsp;&nbsp;News On AIRAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJWhat happened on the MV Hondius is a predictable consequence of how modern mobility intersects with ecological risk&nbsp;&nbsp;Down To EarthDeadly shadows at sea&nbsp;&nbsp;Global TimesM/V Hondius — Atlantic Odyssey: Tracking the First Andes Hantavirus Outbreak at Sea&nbsp;&nbsp;World Health Network",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTThWTU5ESExacENTYldNV2VyNEZvSTBITmVSSm9DVDlVcE8zZFN2azJjQXZSUms4MEdQR2JmV2lSdEZHZ29ra1VEcmZLdEFwbnhxMVRxUGxGR25FNnU3TDBWcE1tUnNXOU5mTjdrVm9kZWNseUtNRkg1MTJROWJvdzVvOWNnZGh1MHh0V1R6ajE4QXAzUERsbk0wcFBISWFhdmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f31d811bb524",
+      "title": "Optimization study of light olefins production in gasoil cracking over HZSM-5 catalyst: temperature and catalyst loading as key parameters - Nature",
+      "published": "2026-05-25T20:37:45+00:00",
+      "summary": "Optimization study of light olefins production in gasoil cracking over HZSM-5 catalyst: temperature and catalyst loading as key parameters&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JSjI5bEptM3RRTlgwMVVnanRrM0k4YmtBWFNHZGdCelR2VnlubGZOQTNYZEFVamZuSkdLeTBkZjl5eUlzdzB1aG1xOG0wb0J5TE53cWlRZ1NNUDliMUJR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df5489bcf348",
+      "title": "Hantavirus Outbreak Now Stable, No New Cases And Deaths Reported: WHO - Health and Me",
+      "published": "2026-05-25T20:30:00+00:00",
+      "summary": "Hantavirus Outbreak Now Stable, No New Cases And Deaths Reported: WHO&nbsp;&nbsp;Health and MeMayday! SA scientists identified hantavirus outbreak in 24 hours&nbsp;&nbsp;The Times of IndiaAndes Virus Debate: Could Airborne Spread Play a Role?&nbsp;&nbsp;MedscapeHantavirus-hit cruise ship docks in the Netherlands after long, deadly voyage&nbsp;&nbsp;NBC NewsWHO says 12th person infected with hantavirus detected in the Netherlands&nbsp;&nbsp;Al Jazeera",
+      "sources": [
+        {
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZVpUejhXRHk5bkxYc2RCYWM4QVAtSkN1V1BtN0tVMVB5RGFjNDlPNkoxcVV3dGpLOTAyRm1HWTFPNDJDTWJLSEhUSGpsS1ZfMXdxeHJ2STI1NkRMcWVDZ3o4a3dDdDF2UVFqdEgzSERYVUprY0EyU1h1Zk9Va0dNd0ZvZE45SmhSUmxHYVBUc0NxOVY5NWJjbU5QSVVfaGxhQUEyTWRyR0pwS0IwSVNWSU01Vmh3a1ZYMHRRUlZuZFFMZm8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "68c50d134e5e",
+      "title": "Researchers trace the origin of blood cells back to possible single-celled ancestors - News-Medical",
+      "published": "2026-05-25T19:49:00+00:00",
+      "summary": "Researchers trace the origin of blood cells back to possible single-celled ancestors&nbsp;&nbsp;News-MedicalStudy reveals the evolution of the most ancient human blood cell&nbsp;&nbsp;Interesting Engineering",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVlJGQXBRU052TkhZZU9nQVM5NWhHS3VRd2lxVm12RXM5S3BGVGd5TEJkM3ItVG9xSTgyQk05eE95bTdrVEZVY1R3eEhvanpIQmZ6aWxaZG0wM1JrUmNsSzc2OTgzdEtlZE91RVFEMEIxVVBXZjZXRUdDNjRNc2FVVWRyRzgtVTZzcTI2YnlmTjRON2RCSUVWenhSNGhJVURqbHMxcGJxUV9WLUQwNG5Qblh1RlhULVBTeUFpdmQ3Ymd4TTRvRXZ2OFhtaFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58156095c448",
+      "title": "Research on the temporal and spatial evolution and protection significance of traditional villages in the Wanjiang River Basin of China - Nature",
+      "published": "2026-05-25T19:47:17+00:00",
+      "summary": "Research on the temporal and spatial evolution and protection significance of traditional villages in the Wanjiang River Basin of China&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54Yi10QmR4VWt1WVV3ZFVKSGIxZ3lONmdicUU0cFhLLTFlX0NsbUtwVW9PYjJMa1hkdEFZNFdGdXdaWUJIQk82RHRlNWdOQXBLTG41WmtJRjZtZC1WRXhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37377e68dfde",
+      "title": "Smaller tetraploid cells drive more aggressive cancer - News-Medical",
+      "published": "2026-05-25T19:32:00+00:00",
+      "summary": "Smaller tetraploid cells drive more aggressive cancer&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDctSTIzX0F1WGF4SnhqYl9NTFNnYWRpcnJpVWVVNkdFNlBoRTR3djV5bXVnbllad25LOW1NcUppX253RmIxeE9MWUlQN09JbDVPbnpRYUY3Wi1vZ3JCMEZwM1plTVM0Q2c5aDBlSzRFa1JQMzZzclJabExPNm9uaWh1X09TajNvMEcwd2ZDVG5KR1V4aC0yVFZLTEIxNDJJWVF3?oc=5"
+        }
+      ]
+    },
     {
       "id": "e98b68007c66",
       "title": "New thermal imaging system detects early melanoma before it is visible - News-Medical",
       "published": "2026-05-25T18:59:00+00:00",
-      "summary": "New thermal imaging system detects early melanoma before it is visible&nbsp;&nbsp;News-Medical",
+      "summary": "New thermal imaging system detects early melanoma before it is visible&nbsp;&nbsp;News-MedicalNew nanoparticle-based ‘intelligent tattoo’ uses heat signals to detect skin cancer&nbsp;&nbsp;Interesting EngineeringSingle-shot microneedle-encoded upconversion lifetime mapping for real-time in vivo thermo-dermoscopy&nbsp;&nbsp;NatureReading skin temperature with a microneedle tattoo&nbsp;&nbsp;NatureAn “intelligent tattoo” to detect skin cancer before it appears&nbsp;&nbsp;Université de Montréal",
       "sources": [
         {
           "name": "News-Medical",
@@ -30,14 +114,14 @@
       ]
     },
     {
-      "id": "5600ac2bb0fc",
-      "title": "Physicists Catch Angular Momentum Passing Between Crystal Vibrations for the First Time - Tech Explorist",
-      "published": "2026-05-25T17:25:48+00:00",
-      "summary": "Physicists Catch Angular Momentum Passing Between Crystal Vibrations for the First Time&nbsp;&nbsp;Tech ExploristScientists discover atoms suddenly spinning backward in quantum experiment&nbsp;&nbsp;ScienceDailyQuantum Computing Breakthrough: Scientists First Observe Atom Spin Reversal Inside Crystal&nbsp;&nbsp;Tech Times",
+      "id": "1b63ae3520c4",
+      "title": "Early Life on Earth May Have Thrived in Impact Craters - Universe Today",
+      "published": "2026-05-25T18:25:00+00:00",
+      "summary": "Early Life on Earth May Have Thrived in Impact Craters&nbsp;&nbsp;Universe TodayEvidence of Ancient Life Found Buried Under an Asteroid Crater&nbsp;&nbsp;ScienceAlertAsteroids may have contributed to the emergence of life on Earth — study&nbsp;&nbsp;UA.NEWSLife on Earth may have originated in the lakes remaining after meteorite impacts&nbsp;&nbsp;Universe Space TechEvidence of ancient life has just been found buried inside an asteroid crater — and the discovery suggests the warm lakes created by",
       "sources": [
         {
-          "name": "Tech Explorist",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd0NqRUk4cWxoRWxpMUpjNnVRT1E3OXNEdXY1eTJIdVRGenVuSnVYaTgta1BvM0FhQlJDS3otMkxxN2RxWjZLeFhsMTNJX2x2TXh0V1llX0FacklvdGNQUkc3YkNFRk1IdjVFZ3A4UGRBU1FLMnl0WC1IczZFSGNLRjBRT0dtbFdXU0R1dGdCREMzaXpPT0gyVkctSmV0eGlHR0g3S3Rid3FOSjVCT0J1dDRtb1pERUZM?oc=5"
+          "name": "Universe Today",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWJKTDNocFBZMlp2VjRGY1NCVjJIbTQyZmUxQVEwQVpHVnVxdDRZZlJkWmZSQjdfbUJocFM4R0djekU0Mk5ub2tfLUJiZlJaMHp6S3RVWmlTTjFUckUyOWdudHJabTVuSk56LUF4dE1MN3ZoRjk0Z1lSNGNvdGlydnVXUFVXTnVZa3VEOVNtZGlGdDNLbFpIMg?oc=5"
         }
       ]
     },
@@ -45,11 +129,23 @@
       "id": "28093ae2c04b",
       "title": "Unhealthy ultra-processed foods are designed to make us crave them and eat more - Scroll.in",
       "published": "2026-05-25T16:30:00+00:00",
-      "summary": "Unhealthy ultra-processed foods are designed to make us crave them and eat more&nbsp;&nbsp;Scroll.inDoctor explains: Why packaged ‘healthy’ foods are driving obesity and diabetes in India&nbsp;&nbsp;FirstpostWhy ultra-processed food is India's biggest silent health crisis&nbsp;&nbsp;CNBC TV18Opinion: Through the Consumer Lens&nbsp;&nbsp;Commercial BakingPhysicians Committee for Responsible Medicine: “Animal Products, Both Processed and Not, Are Far More to Blame for America’s Health Crisis”&nbsp",
+      "summary": "Unhealthy ultra-processed foods are designed to make us crave them and eat more&nbsp;&nbsp;Scroll.inDoctor explains: Why packaged ‘healthy’ foods are driving obesity and diabetes in India&nbsp;&nbsp;FirstpostUltra‑processed food: Why the debate needs less fear and more clarity&nbsp;&nbsp;Japan TodayOpinion: Through the Consumer Lens&nbsp;&nbsp;Commercial BakingIAFNS and Academy of Nutrition and Dietetics Publish Guidance to Help Practitioners Navigate Questions Around Highly Processed Foods&nbsp",
       "sources": [
         {
           "name": "Scroll.in",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFVSUkpuZHV5aHQ0akhSWnpXRTFya3Q4RlFjbU85SVptLURiZ2lzZTAwZXVEX3I5d25TcGZYWU1oWGJhRkpOekpEeVUwdl9rN0dDclBXamtTcFBaQ3BFRWlNdFZzUzBiZ29ZUDRhV3B0czZrQXI4YkR3b2JIaEFzdDlZRno1YnF1VFowQnFqYUp4a011amhqaU9JeFlWbEdXZEJ4SW0wRkdIM1gyeDY0al80Z9IBuAFBVV95cUxPelJLbjZDQnhKMDB4c0REVHNNMHNpQVBaQmIxdVVxS1pLUlcxRnBrREF1UE5MeTc3MnB5MlRvclU3bTVyMkhjZVAydmpXdGt0NEd3ZExPOS1kVnlkQ3QyM19pVm1fRVJ1Ulo3WGFKSUtWVUlYckNkOFVBVE0wWHdvejZ4VFNja1I4TXlvSWNzWTZRNzZmUnlCbE8yRW4wdTd1SWR1UDlMVXpIZXpvQjJ0bVBhSDIzRG5U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "61a8e7fb5e35",
+      "title": "What kids eat could permanently change their brains and eating habits - theweek.in",
+      "published": "2026-05-25T15:47:55+00:00",
+      "summary": "What kids eat could permanently change their brains and eating habits&nbsp;&nbsp;theweek.inLarge Review Shows What Sugary Diets May Be Doing to Your Memory&nbsp;&nbsp;ScienceAlertDrinking this every day linked to a shocking acceleration in brain aging, study warns&nbsp;&nbsp;Futura, le média qui explore le mondeNew Study Discovers that a Childhood Junk-Food Diet Rewires the Brain&nbsp;&nbsp;inc.comChildhood junk food can rewire brain for life: Study&nbsp;&nbsp;Nepalnews.com",
+      "sources": [
+        {
+          "name": "theweek.in",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0YxdUJGbVlXN0ItWU42aXQ1R19MWDR2UWxxYTVBcEg4T1Zqc0Jmb1ZTTWpCUGpNVWhKX2V2b0tkT1FoemUyQmh5c2IwWXFRdU9kOUdCY1ltZ25aSVZnb21OZkluRmNtNEtTRE1ZYW5MYVZwb3dBZndaS1pEa1pIYnJsdVhXTFNySG5rV3QtQTdnVUFIWDJsSUlYNlJZSWFVSjg3cW5QbThXZnJVX1p6QlpsSHZwdzYwdXM3ddIBwgFBVV95cUxPQzFibW1FamV1Ulh3TDRaZ1hHODVFM3hSbkU4bUFjeFVCU2stMV9zbW5qVDM5YlhuUU0tbGx3SGVmMVhyakhqUmZFd281RGVzVGZFd3NBZUVmT3ZidnUzeHhuRG1lUVk3UnJydzVWa3hmaWxPZW5aeExfWGk3M3haNHFVbHB0dXlpSXJmd0JNRVY2Uy1pWmt1WWFpbFhFUHFSS05ORWhsWDhWZlN6WElUTEFhbFdlRUFEWVdlc096WjBhdw?oc=5"
         }
       ]
     },
@@ -66,14 +162,38 @@
       ]
     },
     {
+      "id": "20da60f1eee5",
+      "title": "Large-scale investigation for antimicrobial activity reveals newly-identified defensive species across the healthy skin microbiome - Nature",
+      "published": "2026-05-25T15:07:51+00:00",
+      "summary": "Large-scale investigation for antimicrobial activity reveals newly-identified defensive species across the healthy skin microbiome&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PTEpuS3dfbkNJQ2dBMjFrLS1fSkZqb2Q2NW9WOWhWVWVzaE5CTDgwMWs1TUMwR29qYnQzQ3Z5X2N0SmY3dW9qek9pSkZKWjAzckZnMGgyVHFBcTlrODF3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a4ee256c55f9",
       "title": "Earth’s outer core flow unexpectedly reversed, satellite data reveals - Interesting Engineering",
       "published": "2026-05-25T14:57:00+00:00",
-      "summary": "Earth’s outer core flow unexpectedly reversed, satellite data reveals&nbsp;&nbsp;Interesting EngineeringEarth's outer core beneath Pacific reversed direction in 2010, satellite data reveal&nbsp;&nbsp;Phys.orgEarth’s outer core reversed direction in 2010 and scientists may finally know why&nbsp;&nbsp;New AtlasEarth’s molten outer core is behaving in chaotic, unexpected ways&nbsp;&nbsp;YahooStudying The Earth’s Outer Core From Outer Space&nbsp;&nbsp;Orbital Today",
+      "summary": "Earth’s outer core flow unexpectedly reversed, satellite data reveals&nbsp;&nbsp;Interesting EngineeringInsights into Earth’s molten outer core from space&nbsp;&nbsp;European Space AgencyEarth’s outer core reversed direction in 2010 and scientists may finally know why&nbsp;&nbsp;New AtlasEarth’s outer core beneath the Pacific Ocean changed direction&nbsp;&nbsp;Universe Space TechStudying The Earth’s Outer Core From Outer Space&nbsp;&nbsp;Orbital Today",
       "sources": [
         {
           "name": "Interesting Engineering",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRWJyS3lGOUZGWHJvYk9fWllNMXBwM01XVWtBZU1tbXc1ZUZPWG5zTkVLMmJrNWtXcFNLcjh0X2U2cGhBaWNBVzd6ajdGVUY1end1WVNJeHpqUXM1VHZqTmZPZkN1blloUFU3T01ZNUVwUXIwcFdSNVdnUkcxdFBfV3c1WTNaWUdQX1ZlQg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6b6a29d3aaf",
+      "title": "DNA viruses are constrained to ecological niches and share similar environmental adaptations with hosts - Nature",
+      "published": "2026-05-25T14:41:40+00:00",
+      "summary": "DNA viruses are constrained to ecological niches and share similar environmental adaptations with hosts&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtLWZyb25DZnFnRzFYUGtfWlRTUldpaEVyM3VrTTJCblUtNWQtZDlVb1l1Z3FucXBaZ2E3MHh4YVZlSmVhZHpnZUpuSUJIcGxOMGRKbDNYQUR0R2tCbWd3?oc=5"
         }
       ]
     },
@@ -90,14 +210,14 @@
       ]
     },
     {
-      "id": "0247e65fe333",
-      "title": "Storms, dryness speeding up biomass turnover in Amazon forest: study - Xinhua",
-      "published": "2026-05-25T13:20:15+00:00",
-      "summary": "Storms, dryness speeding up biomass turnover in Amazon forest: study&nbsp;&nbsp;Xinhua",
+      "id": "71869f915373",
+      "title": "Centre on Alert Over Ebola, says Health Minister Nadda - UNITED NEWS OF INDIA",
+      "published": "2026-05-25T13:31:00+00:00",
+      "summary": "Centre on Alert Over Ebola, says Health Minister Nadda&nbsp;&nbsp;UNITED NEWS OF INDIADGCA issues Ebola SOP for airlines&nbsp;&nbsp;The HinduIndia Issues Travel Advisory For Ebola-Hit Countries: How Airport Screenings Help Control Outbreaks&nbsp;&nbsp;NDTVEbola scare: Ahmedabad airport screens passengers from African nations, Gujarat says no need to panic&nbsp;&nbsp;Telegraph IndiaIndia reviews Ebola preparedness as WHO warns outbreak is ‘outpacing’ response efforts&nbsp;&nbsp;The Times of India",
       "sources": [
         {
-          "name": "Xinhua",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vRzdDdzJETVgyNlB0NWpZZmVPMVhHWHEta1JFWWg0aTdXTV9ZaURuY2IxMFNfbEFXOFpOTkRrV0h0Q0M5WExGQmRVdDdCQlNuRzk4UVktNTQ1ZGRQNWxFeVRqSkQyX2NtZHVHZEtONnFEaVI3ZzlmYnhvbG8?oc=5"
+          "name": "UNITED NEWS OF INDIA",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY25LR1ZidUMtM1B5X2dTa1AxSXZJLWVZc3hWaFlReWEwSkY4ckk5ZHdpSUh6SmJvd3FBVVhxTkcxOTB6QldIVUhBd0NvTHRwR1ZSNVpsVmpkTllhMWlFLVFYVW10OXd6bW94WHVEV0RHbk5BMWpOdlJLQVM3ODhaN1VMcmN3dE05RER3V2VCbzJRdERBODlXRTNZTmZrVG55UHFJ?oc=5"
         }
       ]
     },
@@ -114,6 +234,18 @@
       ]
     },
     {
+      "id": "a86534edae00",
+      "title": "NASA prepares to unveil ambitious moon base roadmap - ODISHA RAY",
+      "published": "2026-05-25T13:05:34+00:00",
+      "summary": "NASA prepares to unveil ambitious moon base roadmap&nbsp;&nbsp;ODISHA RAYFuture Moon Base Concepts: How Humans Could Live, Work, and Survive on the Moon&nbsp;&nbsp;Tech TimesDonald Trump reorganises NASA to beat Xi Jinping in the lunar race between them&nbsp;&nbsp;AtalayarNASA reorganization shuffle combines programs, lands KSC new director&nbsp;&nbsp;The Spokesman-ReviewNASA overhauls structure to accelerate mission delivery&nbsp;&nbsp;spaceconnectonline.com.au",
+      "sources": [
+        {
+          "name": "ODISHA RAY",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mM213eDI4bWg4WjhLZUZYRE1KS2hoaGpuWTc0T0ZhaUhEeDYyZEhHQ21zTEs5T2hLYWo4SzVucTB5dTlmWHRxRzN3Q0FKUmFTYVNYNlY3VWNKd1E2TzYyV3JfUkpJLWs?oc=5"
+        }
+      ]
+    },
+    {
       "id": "be2026883719",
       "title": "Scientists just found a supercharged supernova — powered up by a magnetic star corpse - Space",
       "published": "2026-05-25T13:00:00+00:00",
@@ -126,50 +258,50 @@
       ]
     },
     {
-      "id": "3dce5195b6ba",
-      "title": "WHO chief says suspected Ebola deaths at 220 and 'epidemic is outpacing us' - The Hindu",
-      "published": "2026-05-25T12:44:30+00:00",
-      "summary": "WHO chief says suspected Ebola deaths at 220 and 'epidemic is outpacing us'&nbsp;&nbsp;The HinduEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO | Democratic Republic of the Congo&nbsp;&nbsp;The GuardianDoctors, Hospitals Struggle to Keep Up With Ebola’s Spread&nbsp;&nbsp;WSJIn",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSERIUmlHTVMzakJMRDZTZmhhelo3QVh3OFptdU9jc1laNWxxdWpJYlFFdHBCMS0tcmxnVmZEX2J5cmtTZkpLVF84NVdpWGZ3aklEaVZPSzlhZVVYV09WUzJIQXljVWtNUHgyLWgwZ19oZllmWm1RN1l2XzY5TmpVSkhTVkxIejdCYzVyOWVNT0puUklaYTB6SFh2OGI2QmFVY3dJWllRM29ScTJIMDQ5Nm8zb0NranlwZXBXb0ZEclE4bWhMLTI2Tmd0OGtXSW_SAdYBQVVfeXFMTlZCbFVWQVRiRzZGYUtweExydTI4RC1FbDFtZmdtSkFkckszMlhSZlpDa1dOVEk3Rm56bTBHZzhPTmVRazdLZWFzWU5nVGtQcHBpNUMwQURWcnl6dWhMejU3ZnlINlBzUDF1TEF2YjFURDFKWmZlYXgwUTE5R1lTZzhoZTU2M3dMS1Q0dzdtVG9ET3ROQ3dSZkxZQmUwcWhNcks3MEg4cVAxZk1FSXVlVjdkVzdycGM4SExTZHhDaFh2WE9xci1iVW0xVzBwLUJPYVlOYTM3UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e36de81b7272",
-      "title": "US bars entry of Green Card holders from 3 Ebola-hit African nations - Medical Buyer",
-      "published": "2026-05-25T11:53:42+00:00",
-      "summary": "US bars entry of Green Card holders from 3 Ebola-hit African nations&nbsp;&nbsp;Medical BuyerU.S. extends Ebola travel ban to Green Card holders&nbsp;&nbsp;The HinduUS Sending Flights From Ebola-Hit Areas to Dulles for Tests&nbsp;&nbsp;Bloomberg.comDo not travel for any reason: US Ebola alert for Congo, South Sudan, Uganda; level 3 alert for Rwanda&nbsp;&nbsp;The Times of IndiaUS adds Atlanta airport for Ebola screening, Red Cross mourns death of volunteers&nbsp;&nbsp;Emirates 24|7",
-      "sources": [
-        {
-          "name": "Medical Buyer",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORG55MXZiU0VaS0UxblNyeWJPNnZpTjFrZm9rYmRGZDJjNU1fZm5KTTc3bjlKbDdXV0JtZVR1cmxmcFhTSldYQ250VlRYVUwxRlkzN2M0Q0xLSDdNaGNnSEhWdll2ZDk3WnJzaW9HQk91QmNidTRNMzJvOEg5RkxtdHZUSW9USlVHNzBpZFlxcElWdkE3NXBuSlNmX2w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "28473fdbdb04",
-      "title": "Why Doesn't Gold Tarnish? The Answer May Be In The Way Its Atoms Are Arranged - IFLScience",
-      "published": "2026-05-25T11:22:33+00:00",
-      "summary": "Why Doesn't Gold Tarnish? The Answer May Be In The Way Its Atoms Are Arranged&nbsp;&nbsp;IFLScienceScientists Found The Atomic Reason That Gold Refuses to Rust&nbsp;&nbsp;ScienceAlertHow does gold keep its glitter? Researchers uncover why it resists tarnish&nbsp;&nbsp;Phys.orgGold Atoms Rearrange To Block Oxidation In Seconds&nbsp;&nbsp;Quantum ZeitgeistResearchers finally discovered why gold never rusts&nbsp;&nbsp;Tech Explorist",
-      "sources": [
-        {
-          "name": "IFLScience",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTnNoX3J4cFlZdGNNZUhrajFFN1p0M0hIMTNSRzRFdHdFQnBWVnZOUHhnNjFScVlEbE92aDQ3UHpLaG05X1htWmRjb3dvd1Nfd3N3dzNpSmphenNNYm5PcUptT0R6MUNJNXNJUGkzOW5sbTk0OFlnaHpSenNSeXlETlFjSWIwdVJJTFZIWDBtN1dkbHBqc1ZQY0lrTXZIV2s?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "58156095c448",
-      "title": "Research on the temporal and spatial evolution and protection significance of traditional villages in the Wanjiang River Basin of China - Nature",
-      "published": "2026-05-25T11:20:13+00:00",
-      "summary": "Research on the temporal and spatial evolution and protection significance of traditional villages in the Wanjiang River Basin of China&nbsp;&nbsp;Nature",
+      "id": "dbfec6a9d16d",
+      "title": "Band gap engineering in Al, Cu, N and Al/Cu Co-doped ZnO thin films: experimental study and quantum machine learning prediction - Nature",
+      "published": "2026-05-25T12:38:43+00:00",
+      "summary": "Band gap engineering in Al, Cu, N and Al/Cu Co-doped ZnO thin films: experimental study and quantum machine learning prediction&nbsp;&nbsp;Nature",
       "sources": [
         {
           "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54Yi10QmR4VWt1WVV3ZFVKSGIxZ3lONmdicUU0cFhLLTFlX0NsbUtwVW9PYjJMa1hkdEFZNFdGdXdaWUJIQk82RHRlNWdOQXBLTG41WmtJRjZtZC1WRXhR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TcE5abXRBYTlrYk1wckxFUXBfcDE2UndXN1FJd24tQ3Y0S3g5djZMa29OYVVBdG00VVlqWGNsVUI3YW9iWHltZW9sdFJsNU9XY3V0S1BUUTgwT1NrX25B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "546d28a38f7f",
+      "title": "Did you know your food choices can affect anxiety symptoms? Doctor explains how nutrition can transform mental health | Health - Hindustan Times",
+      "published": "2026-05-25T12:06:41+00:00",
+      "summary": "Did you know your food choices can affect anxiety symptoms? Doctor explains how nutrition can transform mental health | Health&nbsp;&nbsp;Hindustan TimesSkipping meals and irregular eating habits linked to depression symptoms&nbsp;&nbsp;PsyPostThis Simple Mealtime Habit May Help Improve Your Mental Health, According to Experts&nbsp;&nbsp;EatingWellThis Diet Was Linked To Less Psychological Distress In Just 12 Weeks&nbsp;&nbsp;MindBodyGreenIrregular Eating Habits Raise Depression Risk by 1.5 Time",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdENsTzJSRUdEaE55U2xXOEZMWHpFMXFFQ1N6Q0kxbHdDT0xRdXVKS2g5R1IzUFdCMTc5S3VZV3ZwS0NHSmhMWHhrWGVEaGxYazFLd0FrOTlRdVhoUVdIeWtjeUhRWng1UGFQNnJDeGlMLUMyMFdheEdocndncFBaUjZOZ3I2ZjhXcXh5NWFvWjRrUEhvRE43ZGstTWJUT25GbDl6S3FQMlozTEQwdzBXZDFLWTFaSXNrSFhxUEk4Y25KSFpubGN1eTF2enVjYUswQngyTkpqdVdzWGZXdnZQdHNuMkpBUU5STEpManFFWDU3NlhFaV9feE0wX0dCUzhBNUNnek44V3JINzdwcXFZbjJGMNIBmAJBVV95cUxNU2d6YlZ1RzJuei1YSkQzLVU2SXNjT2l3U0tFU2ZUNUVFcEtYcGhlYUJjSy1ENEp2eGtqdWRibVpZUEFiVkRhSG5ZYVBqZkNMWUozOWg3MUc3NkM0Y2MtRTh2ZG1KaExOZmN5bDgtekkyUWFVbmFaREIzc19WSUpGRnU2UndIdVpoRFBhdEVPdUFhUDk5NWEtX2R0U0g0cWU4cWhRNHhXdFU3alhGTkQ2eVdUY1h1REFEVFN4UE1Jd3hDNFdOTTFxX2NvUF9oVkJVWm05WE12YUdBR3JFTnR4cmNXVWNYTVdXc0Npbjh5TGQySUJEZVdhdTI1RDBSOHhhZm82WDdtNE1RUkJ1cUpiLWhFaHlKR0pk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "54ee6bba5ec7",
+      "title": "Did 3I/ATLAS Deliver Extrasolar Life to Our Backyard? - Avi Loeb – Medium",
+      "published": "2026-05-25T11:49:49+00:00",
+      "summary": "Did 3I/ATLAS Deliver Extrasolar Life to Our Backyard?&nbsp;&nbsp;Avi Loeb – Medium",
+      "sources": [
+        {
+          "name": "Avi Loeb – Medium",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXFyNHczY1o4cjQ5WHVzRkFENVhfZC1CQWVkYzREbzNvc1B5Wl9SM1p1ci04SlR4bUxQbkZTVnlLbHQ3Q05pVmVTU29Sekc4cEZ6QVB3SkdCVGhndkRRZy1uYjdjd0VyZ2ZoRDA1ODBqREdPMFJnMWZYbXptLWE2dy0yQ0hJWi1sWDdJR3VjRjdGUkpZRkNkeg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f4e520eafc69",
+      "title": "Scaling antibody language models improves structure aware representation for antibody engineering - Nature",
+      "published": "2026-05-25T11:43:41+00:00",
+      "summary": "Scaling antibody language models improves structure aware representation for antibody engineering&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CRE9FNDY1RER5T21TVWpQWEREZGt6UE5ISlBfZ0kyalcycG55RERTMmZXY29rSXlLRVVtY0MtU0l6OVF5bWdPMENxWDFhSmFnSXUwUE5pdllSNXhwT1ZJ?oc=5"
         }
       ]
     },
@@ -186,14 +318,26 @@
       ]
     },
     {
-      "id": "0eb6d70a502f",
-      "title": "Can humans reproduce in space? China sends artificial embryos into orbit to find out - ThePrint",
-      "published": "2026-05-25T10:02:15+00:00",
-      "summary": "Can humans reproduce in space? China sends artificial embryos into orbit to find out&nbsp;&nbsp;ThePrintChina has transformed its space station into a biology laboratory and is using fish embryos to understand bone loss in space. The results could benefit not only astronauts but also medicine on Earth.&nbsp;&nbsp;CPG Click Petróleo e GásChina sends artificial embryos to space to find out possibility of reproduction | Embryos will be frozen after experiment | Inshorts&nbsp;&nbsp;InshortsNews Chin",
+      "id": "d5ce6458e36a",
+      "title": "Thai army moves to protect troops in South Sudan amid Ebola risk - Nation Thailand",
+      "published": "2026-05-25T10:48:00+00:00",
+      "summary": "Thai army moves to protect troops in South Sudan amid Ebola risk&nbsp;&nbsp;Nation ThailandThailand steps up Ebola screening&nbsp;&nbsp;Bangkok PostMajor Asian country introduces new strict measures to tackle Ebola&nbsp;&nbsp;inklThailand to quarantine Democratic Republic of Congo arrivals even without symptoms&nbsp;&nbsp;Asia News NetworkThailand Introduces Ebola Screening for Travellers from Risk Areas&nbsp;&nbsp;safariindia.com",
       "sources": [
         {
-          "name": "ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckRKb1VFelVXNkJaREJKbHFuZnpKQWxOOXdGbTU1YTdoVThPU2pHektuWHVvYjFCRl92dk9sakhUVWN1UnFPV19kQW04aXNHWTgwM3pULUdtQVF3bmlSY0lHVGRfeXBaSm55aHhfSk1JVUFMS01sVVFZUzRHdEVjR2dNMFN0eFNoZWhMV9IBkgFBVV95cUxPQi1mb04wMGo0dXU0LU16UlRkQW5kdUpySTljamp0aXdheUoybWRfYWp3cWNhcTkwdEFrTVNkOWJyUHpPdENGcEwwUm9uMUc1bnNCSWkzRG1Mb1pfWnc2ZXoxMmtCek5aejBld3VuMlF4ak9zX0FpRHpyYU9kSFRkSEFnS0NieVVobXVxSWJwY3NfUQ?oc=5"
+          "name": "Nation Thailand",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jUkVmZFhZT3I2eDJPYWotblh0cUpjTzZ4SXNjLUdnZkpUTjRSenlTUThsUDJncmJqVDJ3WDZhcnpWcDViV3VDaWNnNHFKeC1QTXFicDV5TXhFWmlRanNzdGYzWEdPUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d13467b75c4",
+      "title": "Study: Storms, dryness speeding up biomass turnover in Amazon forest - news.cgtn.com",
+      "published": "2026-05-25T10:37:24+00:00",
+      "summary": "Study: Storms, dryness speeding up biomass turnover in Amazon forest&nbsp;&nbsp;news.cgtn.com",
+      "sources": [
+        {
+          "name": "news.cgtn.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcElRS2pGMGF6dzNUNlZHeVFreFRYc1RrajR1ajZYMXBPa3VKVVJrTFc0N1JUWGFIZmVrU1pnLVR0NnFJZ0tTdHJQYi14bjNQQmRzVFExWVg4REV4TzRILTNCRGJ2Z2dkNnBLOVZ4N2NTcGY5cDQ4VUZPRTFfVEZsb3NCWk1FbGctOFNTaEw2NXJqNk4yTDRaLXVTU19mRElBelk5aDN6ZlA0TldzOHRpdkpySnJrc3U4d2ZiSTY0dUE?oc=5"
         }
       ]
     },
@@ -234,30 +378,6 @@
       ]
     },
     {
-      "id": "6d8527195d5f",
-      "title": "Thailand Introduces Ebola Screening for Travellers from Risk Areas - safariindia.com",
-      "published": "2026-05-25T08:08:59+00:00",
-      "summary": "Thailand Introduces Ebola Screening for Travellers from Risk Areas&nbsp;&nbsp;safariindia.comThailand steps up Ebola screening&nbsp;&nbsp;Bangkok PostMajor Asian country introduces new strict measures to tackle Ebola&nbsp;&nbsp;inklThai army moves to protect troops in South Sudan amid Ebola risk&nbsp;&nbsp;Nation ThailandThailand announces Ebola quarantine measures – even for people with no symptoms&nbsp;&nbsp;The Independent",
-      "sources": [
-        {
-          "name": "safariindia.com",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ3NlQl9sUVFmRkVpRXZnMkFBc0FjR3p1MElQclVQc2RON1h0NVh0dHE3NW1mSnVlNDA5OWxXSF9FUTBCczNUTk1zWHZSRGJ4cUxELTU4MWExcnp2RjVlSUduMVFCVkYxLXg4dzNicDZFUFBDQWV4bEZQSFdFMnBKeA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dbfec6a9d16d",
-      "title": "Band gap engineering in Al, Cu, N and Al/Cu Co-doped ZnO thin films: experimental study and quantum machine learning prediction - Nature",
-      "published": "2026-05-25T07:45:10+00:00",
-      "summary": "Band gap engineering in Al, Cu, N and Al/Cu Co-doped ZnO thin films: experimental study and quantum machine learning prediction&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TcE5abXRBYTlrYk1wckxFUXBfcDE2UndXN1FJd24tQ3Y0S3g5djZMa29OYVVBdG00VVlqWGNsVUI3YW9iWHltZW9sdFJsNU9XY3V0S1BUUTgwT1NrX25B?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0824f0d84a47",
       "title": "Protective effects of herbal toothpastes against dentin erosion: an in vitro study - Nature",
       "published": "2026-05-25T07:18:36+00:00",
@@ -273,7 +393,7 @@
       "id": "5e9e73081f6b",
       "title": "DC Drass Chairs HPV Vaccine Awareness Meet, Calls for Mass Mobilization to Prevent Cervical Cancer. - Administration of Union Territory of Ladakh",
       "published": "2026-05-25T06:35:05+00:00",
-      "summary": "DC Drass Chairs HPV Vaccine Awareness Meet, Calls for Mass Mobilization to Prevent Cervical Cancer.&nbsp;&nbsp;Administration of Union Territory of LadakhHPV vaccination drive to begin in West Bengal from 30th May&nbsp;&nbsp;NewsonairNAPM, ALIFA and Health Rights Forum Demand Ethical, Gender-Neutral HPV Vaccination Policy&nbsp;&nbsp;CountercurrentsGoalpara steps up awareness drive on Free Human Papillomavirus (HPV) vaccination programme&nbsp;&nbsp;The Sentinel - of this Land, for its People6,797",
+      "summary": "DC Drass Chairs HPV Vaccine Awareness Meet, Calls for Mass Mobilization to Prevent Cervical Cancer.&nbsp;&nbsp;Administration of Union Territory of LadakhHPV vaccination drive to begin in West Bengal from 30th May&nbsp;&nbsp;News On AIRNAPM, ALIFA and Health Rights Forum Demand Ethical, Gender-Neutral HPV Vaccination Policy&nbsp;&nbsp;CountercurrentsGoalpara steps up awareness drive on Free Human Papillomavirus (HPV) vaccination programme&nbsp;&nbsp;The Sentinel - of this Land, for its People6,7",
       "sources": [
         {
           "name": "Administration of Union Territory of Ladakh",
@@ -285,23 +405,11 @@
       "id": "7a968ab45f99",
       "title": "PCOS to PMOS: Indian Doctors Divided Over Historic Change - Medical Dialogues",
       "published": "2026-05-25T05:30:10+00:00",
-      "summary": "PCOS to PMOS: Indian Doctors Divided Over Historic Change&nbsp;&nbsp;Medical DialoguesWhy is Polycystic Ovary Syndrome Now Called PMOS? For Better Care&nbsp;&nbsp;the-scientist.comMore than correction of a medical misnomer&nbsp;&nbsp;Hindustan TimesPMOS shows us why many scientific terms need to be renamed&nbsp;&nbsp;New ScientistPMOS: Don’t mistake it for typical teenage issues&nbsp;&nbsp;The New Indian Express",
+      "summary": "PCOS to PMOS: Indian Doctors Divided Over Historic Change&nbsp;&nbsp;Medical DialoguesWhy is Polycystic Ovary Syndrome Now Called PMOS? For Better Care&nbsp;&nbsp;the-scientist.comMore than correction of a medical misnomer&nbsp;&nbsp;Hindustan TimesResearchers rename PCOS to polyendocrine metabolic ovarian syndrome during Women’s Health Month&nbsp;&nbsp;KSNVPMOS: Don’t mistake it for typical teenage issues&nbsp;&nbsp;The New Indian Express",
       "sources": [
         {
           "name": "Medical Dialogues",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1EyQm5NdklxMmd6N0lXYmhXNWtOcnU4UVI0YzlCN1ZhV3B6WktUU2NxZHZqLWJmcmxZOC1SdE5fWGFkRVRjVTlWVmpxRGpKMmtwV1VtWkhoQ1dDdk1IWExtdmZFOFNoYVNTWEEtQVVJZElBSmZlSTc1NVkxZ3ZDRm84czhmNGJoak1NQU5TdjFfZ19rTlVZWk5TVjNha1NHeU9DYWlGdnBlWHRSR3BYWGVUR05DWnBiN2I00gHAAUFVX3lxTE51ZFNQSDZxZFRhdkJyaGJWbjM5OFlnX3liMkYwSHdRdXRmUWM2Si0xMUFISGVtSlB5MnN0YndYNjlZNzM2bFpPdENxNlhYamt5Qk5tZGFZZWE5bkZJNEVhTkFIU2Q1NGhMMFBqbGZxTHlRbzgwd3FXeXZBbnh2Umx5UDdLZklzbFUzbU9WblB1aG5UdVdFWUNaQks1U3VGb0xvZzdkcEtwWXJobGFMV1hiUkhmVnZ2WEFQZG5EeS1OUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2ce7454b231",
-      "title": "Large Review Shows What Sugary Diets May Be Doing to Your Memory - ScienceAlert",
-      "published": "2026-05-25T03:05:46+00:00",
-      "summary": "Large Review Shows What Sugary Diets May Be Doing to Your Memory&nbsp;&nbsp;ScienceAlertNew Study Discovers that a Childhood Junk-Food Diet Rewires the Brain&nbsp;&nbsp;inc.comEating foods like these that are high in fat and sugar impairs memory in ways that are irreversible&nbsp;&nbsp;Earth.comExposure to junk food at young age influences eating habits: Study | 'What we eat early in life really matters' | Inshorts&nbsp;&nbsp;InshortsDrinking this every day linked to a shocking acceleration in b",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzREa0traHdQVFhpb2RldmdmVjgyaWVYdXVYakEteFFNT1NZNTgwR3NlZFljTkJjd0ZfYnRvNnVGMlRIdFB1cmxBNFgtelhLN2JldlE4UGJ0SjFWVmxfUHEtaTFyT2hFTUJibXdIbk9CajdVMEN1Tms1cERab0ZKRGRQRm9qYkZsN0pDSVdqUzFDZ0RjMTdlMg?oc=5"
         }
       ]
     },
@@ -318,22 +426,10 @@
       ]
     },
     {
-      "id": "f2c6c053b236",
-      "title": "As Ebola Cases Rise, Don’t Ignore These 7 Life-Saving Habits We Learned From COVID And Past Outbreaks - News18",
-      "published": "2026-05-25T02:43:38+00:00",
-      "summary": "As Ebola Cases Rise, Don’t Ignore These 7 Life-Saving Habits We Learned From COVID And Past Outbreaks&nbsp;&nbsp;News18",
-      "sources": [
-        {
-          "name": "News18",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQmJZaEljR3VIdXNyY3NzMkdfUWc5UDlCa3cxRVNBaDBZNXJwckFiXzZQb2lvc1daWDVIZDQ3eTJQZURMZFlMRVNCX2hZUE9EVXhyblFHa0ozLUtUUnBVZ1dxLVlabjIwMmt6X0ZZa1ZHMkptaFB2NU9JQVhGTlBRTGhXN3ZJdGVUb0owQVpXUy1ITThhdTNYUFpONGREYUs5ZWw1UHZzTDZiT1RMemU2WVZYekQwRFJDVE50ZFFwR3JQRDY1MVA4RWs0eVFaeWM1Nl82eU0wOFd4cnJ4UVRXU00yejM3NHFKemRRTFBfYnc1a3VFcEJyX1cyUElEZmfSAYQCQVVfeXFMTmJORmd1M0hTZDZ2b0xmQXBrSVJFdzZHU3lBeS1fT3lELWROcERIT1ZrWG1ta3pBY3plSmVqM000aFdONm1leDZOUklic0IwdE9nRl9SWnRELWZCTVBoRFI2WGZmRE52aFY5cmtTVEM5QWQxYnltVWRSczFZa3BWWXJuRWtRemVFb3ZkVlhMd1hXVG9KWVR6aTZBZF82bjMyWmQ4bkRfWTVITXpfbDE0bE9ZbkRZNWJEYjhlY2JMaW5Va093cWdJRkFpR25GMXNXeFh1OVZQWDdUeHhzRDlCdnpSaVo5SzNQY0pIcnpMTEMyU2d3YTlWVFNhVWltOEhzZTJ4bEc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9bdf1e435250",
       "title": "Suspected and confirmed measles deaths top 500 in Bangladesh - ET HealthWorld",
       "published": "2026-05-25T02:04:53+00:00",
-      "summary": "Suspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ET HealthWorldMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al Jazeera“Child-Killer Yunus vs. Crisis Manager Sheikh Hasina”: Bangladesh on the Brink of an Epidemic Due to Negligence, and the Leader Who Once Showed the Way Forward&nbsp;&nbsp;albd.orgMeasles outbreak: Death toll in Barishal division rises to 46 as 2 more die&nbsp;&nbsp;The Business StandardMore than 500 children have died in an outbre",
+      "summary": "Suspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ET HealthWorldMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraGovt could’ve done better to save more lives&nbsp;&nbsp;The Daily Star“Child-Killer Yunus vs. Crisis Manager Sheikh Hasina”: Bangladesh on the Brink of an Epidemic Due to Negligence, and the Leader Who Once Showed the Way Forward&nbsp;&nbsp;albd.orgMore than 500 children have died in an outbreak that the world is virtually ignorin",
       "sources": [
         {
           "name": "ET HealthWorld",
@@ -354,30 +450,6 @@
       ]
     },
     {
-      "id": "7e983ac9ec61",
-      "title": "Centre issues health advisory for passengers arriving from or transiting through Ebola-affected countries - Newsonair",
-      "published": "2026-05-24T21:14:26+00:00",
-      "summary": "Centre issues health advisory for passengers arriving from or transiting through Ebola-affected countries&nbsp;&nbsp;NewsonairDGCA issues Ebola SOP for airlines&nbsp;&nbsp;The HinduIndia Issues Travel Advisory For Ebola-Hit Countries: How Airport Screenings Help Control Outbreaks&nbsp;&nbsp;NDTVEbola scare: Ahmedabad airport screens passengers from African nations, Gujarat says no need to panic&nbsp;&nbsp;Telegraph IndiaIndia reviews Ebola preparedness as WHO warns outbreak is ‘outpacing’ respon",
-      "sources": [
-        {
-          "name": "Newsonair",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRWZJUU9nUVU1Ujg0QVBxWEppXzhTR1V0VTBkVmtEd3U4enZsdzZyVHpwM1RaSEczbndodEdRdncyby1aVERzTTB5NFBwVmhiVTU2bVJpN1VhWmotOEVDRTZ2M19ocnRMbGY4eExLWUxwcERTZ3ZXaEtHY19UaXRJNm1pTjV6TEg0Q1ZzbW14Qk9MczBmNmNWblNPSGQyNTdESjJEck1lN2lTZWJlSFl1cEdZSk1JZUhpM05WdkhJQms5WHBUY211aUg2WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81358aa8ea03",
-      "title": "Spanish passenger with hantavirus infection quarantined in Madrid hospital - Newsonair",
-      "published": "2026-05-24T20:21:12+00:00",
-      "summary": "Spanish passenger with hantavirus infection quarantined in Madrid hospital&nbsp;&nbsp;NewsonairAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJWhat happened on the MV Hondius is a predictable consequence of how modern mobility intersects with ecological risk&nbsp;&nbsp;Down To EarthDeadly shadows at sea&nbsp;&nbsp;Global TimesM/V Hondius — Atlantic Odyssey: Tracking the First Andes Hantavirus Outbreak at Sea&nbsp;&nbsp;World Health Network",
-      "sources": [
-        {
-          "name": "Newsonair",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTThWTU5ESExacENTYldNV2VyNEZvSTBITmVSSm9DVDlVcE8zZFN2azJjQXZSUms4MEdQR2JmV2lSdEZHZ29ra1VEcmZLdEFwbnhxMVRxUGxGR25FNnU3TDBWcE1tUnNXOU5mTjdrVm9kZWNseUtNRkg1MTJROWJvdzVvOWNnZGh1MHh0V1R6ajE4QXAzUERsbk0wcFBISWFhdmc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c3ab957a99f7",
       "title": "New 'AI scientists' are improving—but reveal their fundamental limits - Phys.org",
       "published": "2026-05-24T19:00:02+00:00",
@@ -393,35 +465,11 @@
       "id": "509cf9cd6a37",
       "title": "Sexually transmitted diseases are rising sharply - EU Reporter",
       "published": "2026-05-24T14:48:54+00:00",
-      "summary": "Sexually transmitted diseases are rising sharply&nbsp;&nbsp;EU ReporterTwo major STIs hit record levels in Europe&nbsp;&nbsp;MSNSTIs hit record levels in Europe: what’s driving the rise?&nbsp;&nbsp;Euronews.comSexually transmitted infections surge across Europe to decade-high levels, with gonorrhea up 303%&nbsp;&nbsp;ynetnews[Epidemiological reports] ECDC: Bacterial STIs reach record highs in Europe, as congenital syphilis cases nearly double&nbsp;&nbsp;European AIDS Treatment Group",
+      "summary": "Sexually transmitted diseases are rising sharply&nbsp;&nbsp;EU ReporterTwo major STIs hit record levels in Europe&nbsp;&nbsp;MSNSTIs hit record levels in Europe: what’s driving the rise?&nbsp;&nbsp;EuronewsSexually transmitted infections surge across Europe to decade-high levels, with gonorrhea up 303%&nbsp;&nbsp;ynetnews[Epidemiological reports] ECDC: Bacterial STIs reach record highs in Europe, as congenital syphilis cases nearly double&nbsp;&nbsp;European AIDS Treatment Group",
       "sources": [
         {
           "name": "EU Reporter",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX05MeENhNmdXUF94Q1dCZHJ3STdXQlFLaXVUWlg2aWhDSm5KVWo5UENoWjV4ZVZXQXlRejFreVFDTXMxODZOS3RiTE1haXZDajVrbWtjc0JWV2V1d3VFd043ekZSaFRlRHAzQXV6Tmh2bUdrdWRGSzBqY2tMckVWby1GZktTZVhnaFZQRUhDd19SR2pDTzlaeQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e9eaf4cc1e3",
-      "title": "EpCAM-targeted ZIF-8 nanocarriers for enhanced doxorubicin delivery in cancer therapy: a promising approach for tumor-specific drug release - Nature",
-      "published": "2026-05-24T14:29:03+00:00",
-      "summary": "EpCAM-targeted ZIF-8 nanocarriers for enhanced doxorubicin delivery in cancer therapy: a promising approach for tumor-specific drug release&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GdUtBcVUxUnVUeUVPdjVhTXdSa05zbXRlbnNqdFRSbnZDblpyVTVTU1YwZzg3ZnJFWkM2RFpqc0JiZGpvZkotVnoyU1RINFR0Y05lTkZPWG9uZ0k0OTRR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fe65f6a28920",
-      "title": "Persistent Alternaria Sensitisation Linked to Asthma Risk - EMJ",
-      "published": "2026-05-24T14:02:22+00:00",
-      "summary": "Persistent Alternaria Sensitisation Linked to Asthma Risk&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0FMRVl6Zzl2VU01cm0xSEIya2lNT2RSN05FY29uV1pCaENYRHduZDNRSmJRcmlvQ1ExZ2RYSzNwczcwN0RzSE1UcG1mYjY5cE1qR3k3MU5LcGFtalY4N2tBVmlOVEpSRG11bXRla0w4WmEzWWx0SjlNTUdPNnNFV3RZMlFmZlZNVGpmS3dkRDZLeGpMSG11aVFWQ1piaGFSTFZYQjhNdmxrWWgwUVE?oc=5"
         }
       ]
     },
@@ -441,7 +489,7 @@
       "id": "9f178a5eeb71",
       "title": "Mental health burden doubled since 1990, 1.2 billion people affected globally - Deccan Herald",
       "published": "2026-05-24T12:53:59+00:00",
-      "summary": "Mental health burden doubled since 1990, 1.2 billion people affected globally&nbsp;&nbsp;Deccan HeraldStudy finds 95% increase in prevalent cases of Mental Disorders from 1990 to 2023 globally&nbsp;&nbsp;Vision IASMental disorders leading cause of disability, surpassing cardiovascular disease, cancer: Study&nbsp;&nbsp;The HinduMental Illness Burden Nearly Doubles Globally Since 1990, Says New Lancet Study&nbsp;&nbsp;NDTVLancet report warns of rising global mental health crisis and underfunding&n",
+      "summary": "Mental health burden doubled since 1990, 1.2 billion people affected globally&nbsp;&nbsp;Deccan HeraldStudy finds 95% increase in prevalent cases of Mental Disorders from 1990 to 2023 globally&nbsp;&nbsp;Vision IASMental disorders leading cause of disability, surpassing cardiovascular disease, cancer: Study&nbsp;&nbsp;The HinduLancet report warns of rising global mental health crisis and underfunding&nbsp;&nbsp;AKIpress News AgencyGlobal mental health snapshot: 1.2 billion people are living with",
       "sources": [
         {
           "name": "Deccan Herald",
@@ -462,18 +510,6 @@
       ]
     },
     {
-      "id": "641e095d2925",
-      "title": "Research on the application of deep learning-driven urban change detection in sustainable development of hilly-area cities in western China - Nature",
-      "published": "2026-05-24T11:49:59+00:00",
-      "summary": "Research on the application of deep learning-driven urban change detection in sustainable development of hilly-area cities in western China&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BdFYxZS1xZlM4eUNMVXJxRG12MjE0VV9NYy14dnJoZUhMRW1mdFo3Wi1tYmtxaDQ5RU4zVWpNSW5fdjdibG9KMGRTN2pFZklhaGRxejltd1ZJNG9XU3g0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7b02beb33e83",
       "title": "New Black Hole Study Suggests Singularities May Not Exist - Gadgets 360",
       "published": "2026-05-24T11:46:52+00:00",
@@ -486,38 +522,14 @@
       ]
     },
     {
-      "id": "599aeb50b5ba",
-      "title": "Why did dinosaurs like T-Rex have tiny arms? - SBS Australia",
-      "published": "2026-05-24T09:07:52+00:00",
-      "summary": "Why did dinosaurs like T-Rex have tiny arms?&nbsp;&nbsp;SBS AustraliaScientists Discovered the Brutal Reason T. Rex Had Those Tiny Shrimp Arms&nbsp;&nbsp;vice.comMystery of Tyrannosaurus rex’s Tiny Arms May Finally Have an Answer&nbsp;&nbsp;Sci.NewsNew study explains why T rex had such tiny arms: ‘The head took over’&nbsp;&nbsp;The IndependentT. rex's small arms may fit a 180-million-year pattern&nbsp;&nbsp;KOAT",
-      "sources": [
-        {
-          "name": "SBS Australia",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGFiOWJ1TTY4V0FEUUJlNjV4UkZUcUhIeDg2eWlNeFo4Z3BseHNhMWFHV0RNRmY2OU5BNkxPOXJYVWs5YlJPblFlUHFsUFVXNExlbjlYRUw5alJTZEJpdzBzejFreGRpSWhTWVlGb0xqeEREcXo0NTFGWC1uLWgxZ1NSQmxUQldpdzI2a2lqVVdRX0ZFYjE5aHRNMDJVQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d90bf482ebda",
       "title": "Asia's Premier News Agency - India News, Business & Political, National & International, Bollywood, Sports - ANI News",
       "published": "2026-05-24T08:56:00+00:00",
-      "summary": "Asia's Premier News Agency - India News, Business & Political, National & International, Bollywood, Sports&nbsp;&nbsp;ANI NewsHow often should you go to the toilet? How can you get the better of wind? Experts’ tips for a healthier gut&nbsp;&nbsp;The Guardian5 Simple Food Swaps To Boost Your Gut Health, According To A Harvard-Trained Doctor&nbsp;&nbsp;NDTVA Philly Expert Shares 5 Truths About Gut Health That May Surprise You&nbsp;&nbsp;Philadelphia MagazineDon’t ignore IBS: Doctor explains why it",
+      "summary": "Asia's Premier News Agency - India News, Business & Political, National & International, Bollywood, Sports&nbsp;&nbsp;ANI NewsHow often should you go to the toilet? How can you get the better of wind? Experts’ tips for a healthier gut&nbsp;&nbsp;The Guardian5 Simple Food Swaps To Boost Your Gut Health, According To A Harvard-Trained Doctor&nbsp;&nbsp;NDTVA Philly Expert Shares 5 Truths About Gut Health That May Surprise You&nbsp;&nbsp;Philadelphia MagazineLifestyle coach shares 3 tips for gut he",
       "sources": [
         {
           "name": "ANI News",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3o3bUF2Y0VkTEV6SGttWGd1dkwxWFd2bF9jUFEyb1F6bXFmNVN0OG1yWEFWVnVORTUwYXhuSmwzbU9YdURrc0dJTS0xbENXNmd1UDhjRHhwTzY1bW5MR3dHMks4bzlVSHlJNXZhZ0VmeDB3ZlEyMUtvcnJJSVZBSHROS0g?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01175e9b926a",
-      "title": "Doctor shares 5 hacks to eliminate insulin resistance, fluffy belly in 90 days: ‘Nobody tests your fasting…’ | Health - Hindustan Times",
-      "published": "2026-05-24T06:41:50+00:00",
-      "summary": "Doctor shares 5 hacks to eliminate insulin resistance, fluffy belly in 90 days: ‘Nobody tests your fasting…’ | Health&nbsp;&nbsp;Hindustan TimesWhat causes insulin resistance may surprise you&nbsp;&nbsp;Geisinger Health",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPckNlMXl3VGFxWE9BRWRMM25zMURSTDA4U2kzcWZvMkdHNm5ISmZUamFOM3Bkbk1oYUticVp2MkFJMmtLYlBIS0FNTUt3OEZtTWh6ZUtsRFJhak9EQkViNk5BMUFzejVsTXhRSjlPUEwwNGVGZk95Tk45Umc0cWRjX3dTWi0zQ2xZWHpqX0x6dTZkVjRHa1dzWVI3VkpnanRsa2FPRmV2NHFjQlduSkhBTllEd1RvMjVjbUZTRUZjWDlMYzZ6RUFUaWpaMi0xZVd6S1A5azhzeUlTRWlvWmc5NXB6am00c0N3QXVfZW9CMllYOFlDcWtaS2pKTTh6X3NTLWoxZjdUU0RLckdEZnhGU0lR0gGXAkFVX3lxTE5Eck9jTWlNOXpCTXkzU25vdjhLckZvQVllMDZPZXpBSDRaS19FX0NGVmdYUmVWczZuNmJlVU1lYXRjS2Z6Z3FrX3lyZjJIZXB3VXB4U1dETlBqM1Q4MjZLZDBVZVh0bkwtcjJESVE4VzlYTjl3ZXgyMmhQSnI4UG1oQ2d0eTIzZUJ4dkFZZlJzU3V1NXVxRTg1b3NZbi1RS0tjdjV1Z2phdEhyMmVrVThxTTRZalJCNl9mTDFaZjk1dmZTLUp3MVUyQ1VEWU1FMkEzN3hGeUdnaTFNWURpRmtnZzluN0xjdkZEU0Q4N2h3dTFFMm55MnhydkdrODh2bUZoMm5LeHlzWTRhNVA3SExOTDFzVEtZWQ?oc=5"
         }
       ]
     },
@@ -542,30 +554,6 @@
         {
           "name": "TheHealthSite",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZmk0STNSbEl6ZDRETWN1VVM2NEZ5N3IxaDhtOVQ1Szh1RjhfYVZIY3lCQVdIMTRYaXZ2Qldzb0dNUV84RDlrUklaeGFIbC1mTDBxTnRWeHRjeHNlREs3c3lZTEh1MnFmXzBlWWhieWd5RFdHOHktV3g1eVdZaU5NaFJpRmstbUpYUE9uMWszb0VXTWVKel9lY2pLM25zNzNkV2liMV91ZkRuc3d4aU8wXzJTZ2hSTlkzY25obzBIcjlUMlN0WjB2X2tXZ0g5azl6M0Rrc3hIQmJJZG1fQUhIeDc0R0laZnFoaGtkLWFVY9IB9AFBVV95cUxOTHRMc3dIQzNmTjUxM3RqOTB4VkdzMFpzX3FIOXhYdnFGSkkzNk9oWGU5dlFQcVZFYnlRMkZvT0xKdzhuQkFfN2dYTU1Tams0cktzWmVwVjZqbm96dWtTX2Y4eXY4bnJzZ2hNNVp3SWdaYk51clZwY3ZuOHYydmk1NF9VR2ZHTU9xSnZvN2lxVFppbVhVbnpPMWNFeDNwV2NJUENvQWNBbUs0cHVtY3Rja2hVOF9sR3RCUmpXaWlIcW5FUlM1bWV1b3M4RXQ2OXRsUEVfOWdEWFFERjhub2pIaWFTb21pdTBab3J4WUJiU2tubGxW?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1ae9ddd89124",
-      "title": "Mayday! SA scientists identified hantavirus outbreak in 24 hours - The Times of India",
-      "published": "2026-05-24T00:04:00+00:00",
-      "summary": "Mayday! SA scientists identified hantavirus outbreak in 24 hours&nbsp;&nbsp;The Times of IndiaMV Hondius captain disembarks, no new hantavirus deaths reported&nbsp;&nbsp;news.cgtn.comAndes Virus Debate: Could Airborne Spread Play a Role?&nbsp;&nbsp;MedscapeWHO says 12th person infected with hantavirus detected in the Netherlands&nbsp;&nbsp;Al JazeeraProtect yourself and your home with these hantavirus awareness and prevention tips&nbsp;&nbsp;Westfair Communications",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaGRNTGp0QnJVOVdMcTI0N1o2SVc3YU9IbGlpeGxCUWRiUWZTeE16RUduTDhQUUMyY2tMUWtrRmtHOXEzd1JPZnk0cWwxd0tUT1dyV0dQcnMwMU1BSUR6SEtvaTJBT1k0VThGVE13Y0YwSmxVS01yUFFfQUJCSG5NeENpZ2RQMGVob3JqVVJBZEdSUVY3dXZSd2pRaTlYY3M5U2N4c1FkZm9aaEJUbEJpVFk5WWtHOWJKdVFPakx6TjROQ0N5dXJtTFRzTUVYX2xuekZEOEpiVVRoS2NvU1HSAeMBQVVfeXFMTmYxYVlMVy1UNm9pLTBBMEVvM3lHN0V0UDd4WXhBY093Z2tRemVrSlduMnBfUlMtaTdyOG1yUW9hOGE4OWV3a3lWRk1rZElLLVlZTXRJYTBzMHZQSDA3cGtXUmRSaF8ybkp4Uy1EUXd1TVJQdkN1VUFfTzFzVTAxUlFVMFowcEdXMnFLanJfWW5ndTQzNm5DTHJSQldfdjFRb3o2S3hzQ2pqNmlzQnpwVVZ1dDF2dnhWU1V1RW9kMDZnZGI3OHd4OFZYOHc3Q2NSeFNRZkJjQlNkTDl6RkRSSS00VWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2c70e1b2a130",
-      "title": "New AI model reads the language of genes to detect diseases faster - The Brighter Side of News",
-      "published": "2026-05-23T20:07:00+00:00",
-      "summary": "New AI model reads the language of genes to detect diseases faster&nbsp;&nbsp;The Brighter Side of NewsSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Brighter Side of News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1dxOXV5aGZLUGNSc05FUFJuV2kxODQ1VFhxekNEWjNneThUbGtyNDk4enlhbnZfRGFMM2ppS1dMdEhtc0ptWHFlc1g3SWFNeGNON2RxZzFMT05RM0xLanplWDIzaVlYQVJUUWhPZDE4WGlhM1RzdjNrcVJjWXQxMWh0QVhic2tvcGZwX0VMVXNJOWpqLVU4MGpoWnVDZmVlSXdXUm9pWWs?oc=5"
         }
       ]
     }
