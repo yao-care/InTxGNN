@@ -1,8 +1,386 @@
 {
-  "last_updated": "2026-05-27T08:54:25.754671+00:00",
-  "total_count": 45,
-  "matched_count": 32,
+  "last_updated": "2026-05-27T14:46:57.606012+00:00",
+  "total_count": 57,
+  "matched_count": 40,
   "news": [
+    {
+      "id": "2650c78839e3",
+      "title": "How satellite launches are accidentally 'geoengineering' our atmosphere",
+      "published": "2026-05-27T13:47:00+00:00",
+      "summary": "How satellite launches are accidentally 'geoengineering' our atmosphere&nbsp;&nbsp;WIONAre Satellite Megaconstellations Accidentally Geoengineering the Earth?&nbsp;&nbsp;Universe TodayEarth's future study finds burning satellites release sunlight blocking particles&nbsp;&nbsp;NewsBytesStarlink and other constellations are an 'unregulated geoengineering experiment', scientists say&nbsp;&nbsp;MSNSky pollution from the satellite boom may become a climate threat&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "WION",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUkyVi1tSmNrT3Z6REdxUzhEZ3JEeXRnVUVrV0N3N01BVmpSSjN5eFE2TEdaQWx5Q0ljX3RtSFNucjV6ci1fMGk3R0Z0QmJNcHd6QmhqMXhsX1dObXFmazJwR1ZuVmJvbUY4cXJpZ1g2WURNcGs3Y3dQSXZRTE5TaS0tT3JjWnN0Ry1xNFkzUEliQkhwX0FyOXdjZUt3S2ZaamllY2w3TmxEdVN5Y0RZMWlzVFlPUdIBuwFBVV95cUxORXQ4b1pLcHFheTRDRjdDMEQ4XzRaREd2LTBZcDVKRlRXNUJPdVBnYmJfUnlPU0xVS1JhSFkwUkJOZ1hBLWJBSDdLakZOVUNsQV8tUklORi1aTjFkS1p2U3dXRDFmMXc4VE9jZEJ0YmQxcDk4VzdNSVNCejh3d1dqY2thOVlXaGZ6bWd3M0xfUzRKc1QtMlFscjlJSkdUb043NmNiR0xRN2NHT3Utc2c2QWhqWjlueUhfRWY4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "43519",
+          "name": "burn",
+          "keyword": "burn"
+        }
+      ]
+    },
+    {
+      "id": "486fdf3b2546",
+      "title": "New X-ray system produces high-resolution images with less radiation",
+      "published": "2026-05-27T13:30:00+00:00",
+      "summary": "New X-ray system produces high-resolution images with less radiation&nbsp;&nbsp;News-MedicalSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHE2OXpEWi1QTU04dEFjVzg5YkdWOHZ3bVl0YVd2M2pVc2lHN2JwTXQ5R09CaTI2Z296VHBnZ0Y1N0ZHZURnMU9jVVJZbUVnYTVyM3lKNklKbF9lbW9FUFJQYkw0dFhHeW45cHZKeGtiMGxNbGpxTmNFWlpMMjdVRTh5RHhpejFkZ0lWWmRzV0hJSllvMEJuNksxMmpzbV9RTVM3c0JHUUpSWEkxQXhlVTlsUHJuenc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "5e9d201f1eee",
+      "title": "Alternaria Allergy in Youth Signals Lasting Asthma Risk",
+      "published": "2026-05-27T13:09:39+00:00",
+      "summary": "Alternaria Allergy in Youth Signals Lasting Asthma Risk&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUm9IVC1VYUk5c3lDTHFoSndTMGdNMElEbmphdGlCcXdLblRHeTJIR2p0ZC1UOEZERXpsY29OTVVxNE96T3otMjVXRlpUNTNOcGpTbVNOQTVSVFoxbXdtZlNSY3ZOQW9LaWV3NU5Ddkx6ZWJMa25GZW96VFhOQk9TTldhZjJUaW5YdUdYeDFJb1lpX1E1RWFEcUlUNDM1Y2ZoM1RiTw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "4979",
+          "name": "asthma",
+          "keyword": "asthma"
+        }
+      ]
+    },
+    {
+      "id": "ea7c6f511160",
+      "title": "Qdenga in India: Promise, Precedent, and the Long Road to Dengue Control",
+      "published": "2026-05-27T12:52:36+00:00",
+      "summary": "Qdenga in India: Promise, Precedent, and the Long Road to Dengue Control&nbsp;&nbsp;orfonline.org",
+      "sources": [
+        {
+          "name": "orfonline.org",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVDFtUzdXb1A2NWhnVlI1d3BNRmZVWkIyZmZ1ZVVwTnA1N1lyT0VocGRhdFVzNGNoZlhzeTNhUFF6RzlLMTRpbEEyakhQUDlzUVU5WDJ0QnlIVElYcU5HbThLM1BaYjl0SzVzb2xiRm9samJxVDUzeVo2VGtjd0ZJNnlhN2pOUjIwbHZZT1lNWWhCVTdOTEhzM3RyTWxWSFhNMk9TQ2Qzc0FUWjlk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "943cdeb53aaf",
+      "title": "Hantavirus cases linked to cruise ship outbreak rise to 13",
+      "published": "2026-05-27T12:34:22+00:00",
+      "summary": "Hantavirus cases linked to cruise ship outbreak rise to 13&nbsp;&nbsp;politico.euWHO Recommends Isolation For Confirmed Hantavirus Cases: Safety Measures For Passengers And Crew Explained&nbsp;&nbsp;NDTVSpanish citizen evacuated from hantavirus-hit cruise ship tests positive&nbsp;&nbsp;CNNHantavirus cases from cruise outbreak rise to 13 following new case in Spain, says WHO chief&nbsp;&nbsp;Deccan HeraldNew positive for hantavirus confirmed among quarantined Spaniards&nbsp;&nbsp;Xinhua",
+      "sources": [
+        {
+          "name": "politico.eu",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG5MYzdnT09EdDZLWUdhTGVFZGxhcGpUM2QxVVpOM3ljaWxEWHRPaXFIZWkzd2FWTUFfVmxJNDN2TXBNLXdoVFIzcFRIc1JEbGdzQWhfN2c2bTluNW1qOEtWeU5oS0dRaEZVQjNUSEo4NHZRcjFsV1o1YzNKM2t4eGJCd3ZxY0dhbnk3WWs5cWlWbHdaYVE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "5eaa913c4bf6",
+      "title": "Ebola contact tracing 'nearly impossible' due to continuing clashes in DRC, WHO chief says - The National",
+      "published": "2026-05-27T12:25:26+00:00",
+      "summary": "Ebola contact tracing 'nearly impossible' due to continuing clashes in DRC, WHO chief says&nbsp;&nbsp;The NationalEbola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns&nbsp;&nbsp;BBCEbola Outbreak in DRC and Uganda: Situation Report #2 (May 26, 2026)&nbsp;&nbsp;ReliefWebWHO chief says suspected Ebola deaths at 220 and 'epidemic is outpacing us'&nbsp;&nbsp;The HinduOne thermometer, no soap: Congo displacement camp fights Ebola threat amid dire shortages&nbsp;&nbsp;T",
+      "sources": [
+        {
+          "name": "The National",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcEk4Rm9iUUJRMno4cEwxZzZaX3h0MVNTdnRwNHNidi1ON1pISzFLVWh5Q2dWbmhWc3hJN2FmTkpXdGVCUFkwMjNDdXZyZS1OWHJxSkptZjR4TndCYWtSSWxIdVgzT1ZyZU4zd3hxd2Vqc1dDNlVXcU9mQ0cyczVkb0lEWmN1T09qa3BnUUVmV0hTbjQ1Z0pURjJfQ1JvakYxeXlwNUVJRmw4YzJnTXNKTkNPZmg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "63f95e881093",
+      "title": "Bangladesh’s measles outbreak lays bare governance failures - East Asia Forum",
+      "published": "2026-05-27T12:00:00+00:00",
+      "summary": "Bangladesh’s measles outbreak lays bare governance failures&nbsp;&nbsp;East Asia ForumHundreds of children die within months as measles cases soar in Bangladesh&nbsp;&nbsp;BBCSuspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ET HealthWorldMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraMore than 500 children have died in an outbreak that the world is virtually ignoring&nbsp;&nbsp;NPR",
+      "sources": [
+        {
+          "name": "East Asia Forum",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFpLdXRmZmNXYXJFbDRPSGdvRk9QUHRuNVBrbUxpOWRsYkxyd18yeDI5YjJVbVNoejBfY250N1JTWXNLUFVJZ21vT2xzUlRCOFdFM2wtRmY3ZDYyUTdIZ3l1TWN0MjRIeFFITTFQTHczeWNoX201dk0xamVHYUI2aGllMmt0OHd4TlJjQzJ2WE9EM0pjcG9MbWl0OXA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4619",
+          "name": "measles",
+          "keyword": "measles"
+        }
+      ]
+    },
+    {
+      "id": "02a1164aa75a",
+      "title": "Ozempic And Wegovy Weight Loss Eventually Plateaus, Study Explains Why",
+      "published": "2026-05-27T11:22:33+00:00",
+      "summary": "Ozempic And Wegovy Weight Loss Eventually Plateaus, Study Explains Why&nbsp;&nbsp;NDTVWhy GLP-1 Weight Loss May Vary Between Individuals&nbsp;&nbsp;Technology NetworksMedical Bulletin 25/May/2026&nbsp;&nbsp;Medical DialoguesStudy reveals how GLP-1 drugs trigger weight loss in brain cells&nbsp;&nbsp;Drug Target ReviewUVA researchers study how weight-loss drugs may affect the brain&nbsp;&nbsp;WVIR",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTZLQkt2Y0RHY09BcF9FWi1vQS1WenVPNTRGRzRQSnhmVlVBV2ljRlhnUV82Sl81eFU1Ul95OVZ6cTlaaU1pZEc3ZW9TSEVObks3TFdmVXdqLTUzVjdxX011alV6Z2NPM1ZXNHZkSjdHek9hblZkT1h5cjd0MHJGM0xkaDYwY2g0S0x0VjBQbmlQeEQ4Qllnc1JONjFjbVNSdlZBOG5aVnpzU0tsZzU0Z9IBtwFBVV95cUxON0pGM1RWOFBZNkVGaFl6VjdQWXVYaWlNelB0dTFtb2g3THExNWZtZzNBcThfbmlUTG9xaGxISWVnRmEzS0QweFJiTkpSUkEtSGpFVEVmTThSVnJZel94UzhnNHlQd29rV3Rpb2lPXzlCNHFQTzJqTV8xeE5ZcHpKMjd2TzU3bWdoYzI1amRRUzM3TWZUYUxBSlNrd0dDUmFzMlNlVVQyYkdqdFUyUURNWFU4R2hocFE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d33dbceef376",
+      "title": "Zuno General Insurance launches Say Hi mental health initiative",
+      "published": "2026-05-27T11:14:25+00:00",
+      "summary": "Zuno General Insurance launches Say Hi mental health initiative&nbsp;&nbsp;Mediabrief.com",
+      "sources": [
+        {
+          "name": "Mediabrief.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRWg0a3JUZk5uWmZqT1U3WGE2VEplTDZnWm5KN3MwakFpNkpSTzhYNzU5MjdIUnRjOHJJRTVyTnZyZzQ2UkVjSk8xNXFkbGVnN3N1M3paaFNJRnpOWHlJZWdKLWZXcmFvdjRBZG4tb3p5Ym9tT3UxVmRNbEVIaldZenp3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e8702aafd125",
+      "title": "Cells Recognize Invasive DNA Through Abnormal RNA Signals - Technology Networks",
+      "published": "2026-05-27T11:12:27+00:00",
+      "summary": "Cells Recognize Invasive DNA Through Abnormal RNA Signals&nbsp;&nbsp;Technology NetworksStudy reveals how cells spin ‘jumping genes’ into tight molecular knots to protect genome&nbsp;&nbsp;YahooHow cells identify and silence unwanted jumping genes&nbsp;&nbsp;MSNStudy uncovers how cells identify and silence unwanted jumping genes&nbsp;&nbsp;St. Jude Children's Research Hospital",
+      "sources": [
+        {
+          "name": "Technology Networks",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmk4TkRjVGxyTE0yNWRlUXBHc2dfMFNYUVRKcDBxaE9aeEVhR3VQNl9kdmFybjg1NHk0RjlyWmNNeVhCb1RlX2JDN2JoZUVsZXQyV0U3eXNJTllKcGRSRUhJQ1FsN0ptS0dJTTR1Q0gxNjV2ZmdOVUp6WWtoUkNHN0xScnd1X3FmWWhyS1lwUTUwX2dYUWFzRkVMOFN3XzlnUjFCazVMUWMxMHB3Z3N4OWFoeEpLdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "f545b17b90ba",
+      "title": "Neanderthals drilled teeth for cavities 59,000 years ago - Tech Explorist",
+      "published": "2026-05-27T10:06:32+00:00",
+      "summary": "Neanderthals drilled teeth for cavities 59,000 years ago&nbsp;&nbsp;Tech ExploristThe Week contest: Dated dentistry&nbsp;&nbsp;The WeekScientists say ‘dentists’ existed even before humans came to life&nbsp;&nbsp;Deccan HeraldNeanderthals may have been doing dentistry 59,000 years ago — without anesthetic&nbsp;&nbsp;CBCScientists Say a 59,000-Year-Old Neanderthal Tooth Shows Evidence of Surgery&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "Tech Explorist",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3RYTVk4U3pFUkxIZ3BCYXk0SVZDVmNTX2lXUi03YkRibGFHVWxVdU9iN0l4SnQyZzRvc005RnBHc2hnVTc2WkV4bGZHem1rVVRNLUdhYUR1cFlWU3JBc2dtNzljTE40SDl0N1FzRWVGNzNXWng4YnM4NFJKcWpaVUhJOTlXejZYNmZhZDJNdDZuOGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1b62d4d872a0",
+      "title": "Announcement of The Shaw Laureates 2026 - PR Newswire",
+      "published": "2026-05-27T09:43:00+00:00",
+      "summary": "Announcement of The Shaw Laureates 2026&nbsp;&nbsp;PR NewswireShaw Prize 2026 Honors Pioneers of Cancer Cures and Cosmic Origins&nbsp;&nbsp;BriefGlance",
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZndFdERxWXFlT2VUSExFcFJzMnNZd2JHSm5odm5qc0g3cTcta1dOdFZ1UmljcG5DMDcxSm5odEMxVjNRTzZYVjBXTk1hOVdwWFpIZUpBc0hJdnVJcnlpUFFDdFF5Qzl0OFNyWkxwRV95NGwtc0phR0FKbEEwS1NVRXVic2huOWMweGo1OFk1Rmh5MjV6cFI1bGpjZWR1Wms?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03904",
+          "keyword": "urea",
+          "name": "Urea"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
+    {
+      "id": "f54a200bcb3e",
+      "title": "Bilateral Meralgia Paresthetica With Concurrent Right Piriformis Syndrome Following a Febrile Illness: A Case Report - The Cureus Journal of Medical Science",
+      "published": "2026-05-27T09:32:46+00:00",
+      "summary": "Bilateral Meralgia Paresthetica With Concurrent Right Piriformis Syndrome Following a Febrile Illness: A Case Report&nbsp;&nbsp;The Cureus Journal of Medical Science",
+      "sources": [
+        {
+          "name": "The Cureus Journal of Medical Science",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT0V1clZTcEt6U1JZX1ZzbW12SmoxcWtPQTJPTjItaWNhTnltbFpXekZFdDBEWEg2YlhFV3JobGRIQ3JLODhOMUtFYm4wR0dBV0ZKWjN5VUMtUTNHeWlQVFktS2VDb2p3dHFHNkExTHpfbVFKN0J5dFR5Vk9sM3dQSnNmWmlwLWxFSi1ZQm1PQnBRenk2b3V1XzRwZ1FXRmdIbEhndzRBdW9LYlo2ZDdYcFd5N0ZhVllpbnp5bUt6NE40LU9hMU9ITmlYR2FNU3FxZ0x2NjdESXd5dDZ1Ti1fZXhKR2FVVmFJb1E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "23757",
+          "name": "meralgia paresthetica",
+          "keyword": "meralgia paresthetica"
+        },
+        {
+          "type": "indication",
+          "disease_id": "43320",
+          "name": "piriformis syndrome",
+          "keyword": "piriformis syndrome"
+        }
+      ]
+    },
+    {
+      "id": "7ef19ec86bd4",
+      "title": "Global Gout Burden Rises with Kidney Dysfunction",
+      "published": "2026-05-27T09:18:17+00:00",
+      "summary": "Global Gout Burden Rises with Kidney Dysfunction&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdFRxQVpJR0pqWVpWMlBYQ0d0enVpcE9JdThGWFVqVlFUZ21OTHFxN3RzUmlOOFZJaDAwUERKUXNnYzQ0WUQzZncwWjNoSzVDSDE5ZDh0UGx4MTBCY25aVjNGNmtaSXhfbFhObFJMQ1lJU2I3WnhzT3M2ZlA0dWdkM3daOWdpV05VeTdiMjFLN2RmaXFpWUkySzN3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "5393",
+          "name": "gout",
+          "keyword": "gout"
+        }
+      ]
+    },
+    {
+      "id": "fa4e7a26a2d0",
+      "title": "Scientists found a hidden highway to the Moon, and it could make space travel much cheaper - The Times of India",
+      "published": "2026-05-27T09:13:00+00:00",
+      "summary": "Scientists found a hidden highway to the Moon, and it could make space travel much cheaper&nbsp;&nbsp;The Times of IndiaScientists Discover Fuel-Saving Earth-To-Moon Route Using Gravity&nbsp;&nbsp;NDTVResearchers simulated 30 million routes to the Moon and found a hidden detour through L1 that saves fuel and keeps spacecraft talking to Earth the whole way&nbsp;&nbsp;Space DailyScientists find a hidden route to the moon that saves fuel&nbsp;&nbsp;SpaceScientists test 24 million routes and discove",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUG53aG53X1JDYldTMnQ1RVE1QTBLTGp3bmlOOWE1U09rZzlQeU9MVE9GNmxFdUNuREpPc0c2ZDlzRUlKZDN0QmpyZHNTTVhwWjdXM3Z4Zy13WkZLWDJSZFFLUmVxUkJ4dUFRb3UzSi1QLWVzUTN5X2taaDFOU2dWbm4wZ1RMTlpnN25rR2JEY0d1QVFVV2lVVEUtUldzZWdnNW1xc3R2LXFxZEZ5Sk5vZmh2a3FPa3FUWjlTbnZQV2lVek1uOURuc21zeGNIWjhvNi01Z3hELTBPR2NxS2NuVWQ5X1ZLUTNFWkZ3U09NaHjSAfYBQVVfeXFMTlhjbHhZSVIyOW1YdGVFd29KcTE5VDQ0RzlFU290SHpVbGJucndHRHNfcEtVdXpMbk5JbjQ0U1JYb1lPUk5FMWtsMmd3UDRJM1RWRU53Q0dyZFk4TWhtZ2pjN1B4RXBINjNOYkJ2S0JFSzJYZkNSYTVueEVmaWJYYzUyd3d1TmxUMEFUVTZIQ0VqUGtScVNGeFN4SGFLN2hJYkdhNUxybHU2Q1hDMldBeTVlMTRUcmJ4enFtVlZlYjZLajdiNTVIc2laTHVaSUpFTGFBcjdxQmkzbnZUYXJ3aVd4LTYzMHhRaGZ1ZzlkbHhnTjliclhn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "85c6ee2c8165",
+      "title": "How to stop skin cancer in time? Smart tattoo is science’s latest breakthrough",
+      "published": "2026-05-27T08:35:56+00:00",
+      "summary": "How to stop skin cancer in time? Smart tattoo is science’s latest breakthrough&nbsp;&nbsp;ThePrintSkin Cancer Breakthrough: Intelligent Tattoo SMEAR-ULM Detects Melanoma Ultra-Early&nbsp;&nbsp;Deccan HeraldSkin Cancer: Smart Tattoo Technology Could Revolutionize Early Detection Of The Deadly Disease&nbsp;&nbsp;Health and MeSingle-shot microneedle-encoded upconversion lifetime mapping for real-time in vivo thermo-dermoscopy&nbsp;&nbsp;NatureAn 'intelligent tattoo' to detect skin cancer before it ",
+      "sources": [
+        {
+          "name": "ThePrint",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObk9qMTBydTJCS2tPN044SWt2OVJaRkZnRUQtRkJQYkV1X3VHUkxyTmdZYU5PMV9ZQ0ZqVHoxcnN0Q0FtM2VKV1k2T01pbWRFUEtOS2pLb0hWaElXeE1ibTVhdndLMkNzTmR6cVhoa2h5YnJqb0hMLUxDY1F4aW5Sb1NUS1pPaThBem9LTDJtQVhSd1NfcVlTbHFGMGQwRmpSWFd3OWFJR1NUWGhhSy1wYWdqZ9IBuAFBVV95cUxOS2NCcmJOZ012MHVic013UlQ3V0xyVVFMSWVHYlR5TkxKdkYtczA4S0x5SU8tOTlBWkp3ODR2NW1xUnlXQ3VZUTRfeWJyeEpMeWdUNDRYQ1lFa1huUjhkR0xhbjFidTBhOXJ1M2Jqa2Y0UWhZRzRFbnF4WGlBNHp5QVFLeXJDV1QzSHR5a0RIUkRTQjVsZWlRSks2YTMyaEtoWVoybXZuaXg3ZW5wUW0zYWpZSEdaWUJC?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03904",
+          "keyword": "urea",
+          "name": "Urea"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5105_5012",
+          "name": "melanoma",
+          "keyword": "melanoma"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "2898",
+          "name": "skin cancer",
+          "keyword": "skin cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "17124",
+          "name": "noma",
+          "keyword": "noma"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
+    {
+      "id": "4858bbd132af",
+      "title": "Ageing is shaped more by lifestyle than DNA, says longevity expert; suggests simple habits for healthy...",
+      "published": "2026-05-27T08:13:31+00:00",
+      "summary": "Ageing is shaped more by lifestyle than DNA, says longevity expert; suggests simple habits for healthy...&nbsp;&nbsp;Moneycontrol.com8 Habits That Will Help You Live Longer, According to Experts&nbsp;&nbsp;Good Housekeeping5 ways to take control of your health&nbsp;&nbsp;Time & LeisureHow to Build Healthy Habits to Improve Longevity and Healthspan&nbsp;&nbsp;Yahoo3 Daily Habits That Can Reverse Biological Aging&nbsp;&nbsp;Next Big Idea Club",
+      "sources": [
+        {
+          "name": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa040S3JGOUx4eXQ1OGNmeXVaU0t1WEhoUXUtdW5venh1TEZUZU41OE9IZUJObzhDOHhqQTZySUxCVGU1NmpqRGZteER4RlhOWnFmOXllWVlBeVJ1Vi01R3QxLXE5dF9fT3Vxb19jVndnTkJmTmdKYnVwNFpXQ0tpMWRsb21mSXdxU1NDNXRqbUZaS0lNUkp2MGZTMUV5MTBJaUpQSElNRGtQNG9tcWliMjk2Tl9LRGFJWXUxZ3Z4VDhiWXo5X1doREdMbGRscUZLWXdOMnJkQnFqN0hIeTRoR1NsaVNaVjcyX2lHTmV3cFVSc00xWkVOeC1NSGIxa05xdVI3ZTdLQVnSAY4CQVVfeXFMTzdING1UNkpVeFpJYjYyWDk2bWQ2TFRfZnFPUnpvdVRQMUtCQ2VwNG9hOUt6dlNQOC1oSy04NVhxNmNZb2l5SmRnTWNJRjg0QTRCMjBkdWJoQ2NiQ0NfdkFPTmZzdkU4c3hwckhKM0g4ajNHcDgwNXI2NkdCdW9qWEFVR0R4NllhYjZnYXhhRzR0Rm9vWjJKMUpTNDZWVDRnUjQwRktrZjZsbmRtekRuNVpXbWxfMm5MeGtxaGNTNFJxSXdXNWdIMURiVzIxU0pYUnNYM0YyTEItbk5kYjhkS2pCdjdUME96RGhXX0xXWWFGaDV3MTg3TjFuaWlwcmVoV1ZFWU9VU21wMGxxajB3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
     {
       "id": "34e14e41da2c",
       "title": "Common Food Additives Linked to Heart Risks",
@@ -42,28 +420,28 @@
       ]
     },
     {
-      "id": "5cac2115903f",
-      "title": "Cancer-Related Bone Pain Remains Difficult to Treat",
-      "published": "2026-05-27T08:03:07+00:00",
-      "summary": "Cancer-Related Bone Pain Remains Difficult to Treat&nbsp;&nbsp;EMJ",
+      "id": "fe955d331429",
+      "title": "Reverse insulin resistance in 90 days: Dietician shares diet and exercise plan to reset your metabolism in 3 phases - Hindustan Times",
+      "published": "2026-05-27T07:37:13+00:00",
+      "summary": "Reverse insulin resistance in 90 days: Dietician shares diet and exercise plan to reset your metabolism in 3 phases&nbsp;&nbsp;Hindustan TimesWhat causes insulin resistance may surprise you&nbsp;&nbsp;Geisinger HealthDoctor shares 5 hacks to eliminate insulin resistance, fluffy belly in 90 days: ‘Nobody tests your fasting…’&nbsp;&nbsp;Hindustan Times",
       "sources": [
         {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFdNNjliX3hCSE9qQ1VZQ1MyM3o5c2hzQ0ZsR1BHQlpramQ5UWtZcnBsdFlGQzM5UndKUHNEelduMXRDcnFyTUt5Y2NDUENsY3FTQlBwcmNlZGZnQ0RuWHQxem9MR2JIRE9OV3NRWlkxckd6VG5Kd25JUlMzWmpfMUJ4TTFpclA1Qk45OU9wMXBPVnRXcUU4TA?oc=5"
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdkZnb2VRbmRvNkRSaDRQRElNWXNtS0staXZPc0NUdE9EV1hna0tIU2MtMkVTd1lVMHNYWjdZTHFXVldmVDdPTXdONU8tamwzLURsY3RlbnVKM08zWHlHNjFrbWw3WkpnSmV4NHN2MWlfTkdTNUpWbTRSVXp5WTZlSDFOal9nUHo2ZEJVaWZKSTZIVlMySk5vN1A5QU1KVmt4Z2Q2RzAwVHRGaEhBVDl5cTZKSEdRWlUtTUF5UGFURzVXVlM5VDg5OTNkXzlkYW44amZWOUFONTZWWlB0QmVGdUcxX1FHOHFNY0xxVDFLZlpnMzEyV0o4TmVhNmptX3QxdHBocFJERHRQUzNqS0JGZw?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
+          "disease_id": "5812",
+          "name": "influenza",
+          "keyword": "flu"
         },
         {
           "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
+          "disease_id": "generic_diabetes",
+          "name": "diabetes",
+          "keyword": "insulin resistance"
         }
       ]
     },
@@ -100,43 +478,10 @@
       ]
     },
     {
-      "id": "60feac1d461a",
-      "title": "New Hantavirus Infection Case Confirmed Among Quarantined Spaniards from Cruise Ship Outbreak - The Sentinel - of this Land, for its People",
-      "published": "2026-05-27T06:18:10+00:00",
-      "summary": "New Hantavirus Infection Case Confirmed Among Quarantined Spaniards from Cruise Ship Outbreak&nbsp;&nbsp;The Sentinel - of this Land, for its PeopleSpanish citizen evacuated from hantavirus-hit cruise ship tests positive&nbsp;&nbsp;CNNHantavirus Case Confirmed Among Quarantined Spaniards&nbsp;&nbsp;NDTVHantavirus Hits Spain: Quarantine in Madrid Military Hospital&nbsp;&nbsp;DevdiscourseQuarantined Spaniard tests positive for hantavirus: Health ministry&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "The Sentinel - of this Land, for its People",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWEU1TzF0ZGw3UGlpTDJHRVJEc0lTZGNRcFB1bWN6aXNTWDV4TTMxdENfNGttUU9TNktVNG16RjZGRGhVWUFFVV9paHYyS0Rmc2F5TndjSGh0dllWR3VFUEx3NDl2NF9pNDU5TXFTaVB2ZGt1YlJoRENyWmhoTDFBdXNnYzZKX1J6TjdMcHZPY2dITVB6M2tMemg3cm1ULVZFVVhpOS1ndjFhZTROa205ZGltcUFFZl91eWFNNzNHdEY1TUwwWmhhMDdpOVlFMXJ5R3Z5TmNOd2NDdEp5SjlPVdIB7gFBVV95cUxPWDFNTHRtdXA4NThqci13R2JmbWpWamdER2xVVE5qaWlXZFQyRExOaHRDakRYY3F5SGZVbUhKQmdwX0NFWWVzOGRtVTlzc2hSTnIxQko0Y1Q2bjA0al9UV0JvZFc3YU9HWnFCWnMzYWlHSzRPblhmOXNSaEVvSHI1MlIzX3pTeUtRRGxtdV9iZTkxQlhCRnBuMmRPclBTRWpVY0ZOLVpSa0RBY2YtVzk0OTFjeEVRWFBIQVFFNjZqMlFSMWpDSWVhZmlEVFNtSm1nVVpUUHplNzBiRFhua09iNUZvcGdISHBNOGR5NUxn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "6489571137bc",
-      "title": "DR Congo says Ebola outbreak still at early stage but cases rising",
-      "published": "2026-05-27T06:12:10+00:00",
-      "summary": "DR Congo says Ebola outbreak still at early stage but cases rising&nbsp;&nbsp;chinadailyasia.comWHO chief says suspected Ebola deaths at 220 and 'epidemic is outpacing us'&nbsp;&nbsp;The HinduEbola Outbreak in the DRC: Watchlist Flash Alert | May 2026&nbsp;&nbsp;ReliefWebEbola in DR Congo: Fast response needed to stop 'catastrophe', DR Congo governor sayss&nbsp;&nbsp;BBCWHO Director-General's remarks at the Virtual Ministerial Briefing on the Bundibugyo Ebola Outbreak – 25 May 2026&nbsp;&nbsp;Wo",
-      "sources": [
-        {
-          "name": "chinadailyasia.com",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFWU9VOFI1b3ozRzZGaWRiX0R2dW5LYThINXBTMVdBQ2FUMktJYTBVQWFfNm9fWk9hZnV6NGpETllNMW9PWXB3YjQ1MGNRNVNrcUhOY3JnWUI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e682fafc82ff",
       "title": "United States and China Vie for Lunar Base Development",
       "published": "2026-05-27T05:47:26+00:00",
-      "summary": "United States and China Vie for Lunar Base Development&nbsp;&nbsp;DevdiscourseWhile everyone talks about colonizing the Moon, China is already testing construction robotics built to assemble infrastructure in harsh environments, pushing the idea that the first lunar builders won’t be astronauts, they’ll be machines&nbsp;&nbsp;OkDiarioChina eyes 2030 lunar landing&nbsp;&nbsp;China Daily - Global EditionIsaacman expects Chinese crewed mission around the moon in 2027&nbsp;&nbsp;SpaceNewsUS and Chin",
+      "summary": "United States and China Vie for Lunar Base Development&nbsp;&nbsp;DevdiscourseWhile everyone talks about colonizing the Moon, China is already testing construction robotics built to assemble infrastructure in harsh environments, pushing the idea that the first lunar builders won’t be astronauts, they’ll be machines&nbsp;&nbsp;OkDiarioChina eyes 2030 lunar landing&nbsp;&nbsp;China Daily - Global EditionUS-China Space Race: NASA's $20 Bn Moon Base Plan Versus Beijing's 2030 Mission | Firstpost Liv",
       "sources": [
         {
           "name": "Devdiscourse",
@@ -159,6 +504,19 @@
       ]
     },
     {
+      "id": "3c902aa356a5",
+      "title": "Hantavirus Outbreak On Cruise Ship Triggers Intensive Cleaning Measures",
+      "published": "2026-05-27T04:38:01+00:00",
+      "summary": "Hantavirus Outbreak On Cruise Ship Triggers Intensive Cleaning Measures&nbsp;&nbsp;NDTVShould you avoid cruises after recent hantavirus concerns? Experts answer&nbsp;&nbsp;The Indian ExpressNetherlands Joins Poland, Norway, Greenland, Iceland and Argentina as Hondius Faces Temporary Delay Before Arctic Deployment: Latest Update You Need To Know&nbsp;&nbsp;Travel And Tour WorldPublic health hot topic: Hantavirus&nbsp;&nbsp;Islands' SounderThe MV Hondius Hantavirus Outbreak—Lessons for Pandemic Pr",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa29XQlBiMDh0NzJzWjc5VVBWLVhWQUk1VU5Oc2RwX0hfR2Z0aTF2SzJOMG0wc3IxdUdrUHRtbnRiaFlCVkhRNnZyNzV1NEFlb0hWNnBGQ1I4RlU3MGJPRnVNWnQ0YkEwUnAwemJzTlZpdl9ibThBbkNzY01QenZEZ0hPTXpRdlY4dWNxb2x2NTJmUER6bDJoQUZNU2JCUUEzR2Zjd2k2Q1RvanotdV9UWVc0czN6Rm5YNnN4RmNoWi1qc24wZURvSdIBtAFBVV95cUxPUi0wblgzYVBBQjI3Wno0NDhTZi04QVRyLTFJaF9qdHVQdnlLcTg4THdXdks2T2o5WXhUd091cmJDbXNzeTlWWFpqQ3RYX2FKX0FqVmpCeEhoMmFfaE5lVTRqVV9RSGxvSTZJVjZ6anNVNV9JTjhtLXhnVEFhUEc0Mmxra1VwZEFEdWw1NjZJWi1aVUFSemwyVlhLQm9Cdkk5Z2x4QlFTeUEwS1R2Tld5eGNYUXA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "14db0e196a5d",
       "title": "Endometriosis diagnosis won’t need invasive surgery. Menstrual blood can help detect it",
       "published": "2026-05-27T04:30:57+00:00",
@@ -175,7 +533,7 @@
       "id": "86cc08a91426",
       "title": "Heat waves are not just making you tired: They could be damaging your heart too, doctor warns - The Times of India",
       "published": "2026-05-27T04:30:00+00:00",
-      "summary": "Heat waves are not just making you tired: They could be damaging your heart too, doctor warns&nbsp;&nbsp;The Times of IndiaWhat is wet-bulb temperature? How is it more deadly than a heatwave? Should Indians be worried?&nbsp;&nbsp;India.ComDoctors Reveal The Biggest Heart Health Mistakes People Make During Heatwaves&nbsp;&nbsp;News18Can heatwave trigger low or high BP?&nbsp;&nbsp;theweek.inThe ‘silent killer’: what you need to know about heatwaves&nbsp;&nbsp;Irish Examiner",
+      "summary": "Heat waves are not just making you tired: They could be damaging your heart too, doctor warns&nbsp;&nbsp;The Times of IndiaDoctors Reveal The Biggest Heart Health Mistakes People Make During Heatwaves&nbsp;&nbsp;News18Can heatwave trigger low or high BP?&nbsp;&nbsp;theweek.inHeat in cardiovascular patients increases the risk of hypotension and arrhythmias, warns an expert&nbsp;&nbsp;DemócrataThe ‘silent killer’: what you need to know about heatwaves&nbsp;&nbsp;Irish Examiner",
       "sources": [
         {
           "name": "The Times of India",
@@ -183,12 +541,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
         {
           "type": "indication",
           "disease_id": "4979",
@@ -200,6 +552,18 @@
           "disease_id": "1200_1134_15512_5080_100078",
           "name": "hypertension",
           "keyword": "high BP"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__cardiovascular",
+          "name": "cardiovascular",
+          "keyword": "cardiovascular"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__heart_disease",
+          "name": "heart_disease",
+          "keyword": "arrhythmia"
         }
       ]
     },
@@ -207,7 +571,7 @@
       "id": "9ea21de6c4fe",
       "title": "Who is Dr Chirag Patel? Indian-origin surgeon in UK suspended over sexual relationship with patient",
       "published": "2026-05-27T04:07:17+00:00",
-      "summary": "Who is Dr Chirag Patel? Indian-origin surgeon in UK suspended over sexual relationship with patient&nbsp;&nbsp;MintTop surgeon who was 'blackmailed' for drugs after having sex with patient is suspended&nbsp;&nbsp;BBCUK-based neurosurgeon Chirag Patel suspended after having sex with female patient, prescribing her addictive painkillers&nbsp;&nbsp;The Times of IndiaTop neurosurgeon Dr Chirag Patel suspended over sexual relationship with patient: ‘I was afraid if she…’&nbsp;&nbsp;Hindustan TimesNeu",
+      "summary": "Who is Dr Chirag Patel? Indian-origin surgeon in UK suspended over sexual relationship with patient&nbsp;&nbsp;MintUK Suspends Indian-Origin Doctor. He Slept With Patient, Gave Her Opioids&nbsp;&nbsp;NDTVTop surgeon who was 'blackmailed' for drugs after having sex with patient is suspended&nbsp;&nbsp;BBCUK-based neurosurgeon Chirag Patel suspended after having sex with female patient, prescribing her addictive painkillers&nbsp;&nbsp;The Times of IndiaUK medical tribunal suspends Indian-origin ne",
       "sources": [
         {
           "name": "Mint",
@@ -217,10 +581,36 @@
       "matched_keywords": []
     },
     {
+      "id": "2f51fc062bb5",
+      "title": "Surface acids found crucial for bacterial shape and growth",
+      "published": "2026-05-27T03:58:00+00:00",
+      "summary": "Surface acids found crucial for bacterial shape and growth&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbzBzc3gwWFFGOWJUTUctbnJJcWxEbVRqNHA3YW5vRkw2cnJoTERqVC12TFpDdjdRQllCMlhWSzVmNkVPYzFaVGpBWEdnaUdETi16VFRmVHdyekdUOWhxc1NvMG9CUk5PZzdhc1c3MVFzM3lMY2dqdFB1S1EyRkdqNTVSSm16dVViUDNUTmd0UzVkYlNBNmZUNWtlTFFJXzJIUUxNMGtfUXFIUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3b991407f40f",
+      "title": "Structural insights into the Nipah virus nucleocapsid assembly",
+      "published": "2026-05-27T03:37:20+00:00",
+      "summary": "Structural insights into the Nipah virus nucleocapsid assembly&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fQmphc3NzbFpEM05MdktnLUFyQWRBRnMyQml5dW9CY095UEhUX2xSQWJCRmJlenpmTkttdF9NMFNXUGQ0RDVxNGJxTWZGdXh5MVZ3SkNrcUszcW9YR21z?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "77811939b8c9",
       "title": "Russian scientists develop new vaccine against latest strain of Ebola virus - News On AIR",
       "published": "2026-05-27T03:26:38+00:00",
-      "summary": "Russian scientists develop new vaccine against latest strain of Ebola virus&nbsp;&nbsp;News On AIRNew Ebola outbreak shows how market failure delays vaccine research&nbsp;&nbsp;The HinduHas Russia developed a vaccine for Ebola strain? What health minister said&nbsp;&nbsp;The Times of IndiaUK scientists developing Ebola vaccine that could be ready for trials in months&nbsp;&nbsp;BBCNew Ebola Vaccine Could Help With Rapidly Spreading Outbreak (Live Updates)&nbsp;&nbsp;Forbes",
+      "summary": "Russian scientists develop new vaccine against latest strain of Ebola virus&nbsp;&nbsp;News On AIRNew Ebola outbreak shows how market failure delays vaccine research&nbsp;&nbsp;The HinduUK scientists developing Ebola vaccine that could be ready for trials in months&nbsp;&nbsp;BBCEbola vaccine ready for trial in 3 months, say Oxford researchers, Serum Institute of India to roll it out&nbsp;&nbsp;The Indian ExpressNew Ebola Vaccine Could Help With Rapidly Spreading Outbreak (Live Updates)&nbsp;&nb",
       "sources": [
         {
           "name": "News On AIR",
@@ -237,14 +627,47 @@
       ]
     },
     {
-      "id": "f07ae722bc26",
-      "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
-      "published": "2026-05-27T01:34:42+00:00",
-      "summary": "Hundreds of children die within months as measles cases soar in Bangladesh&nbsp;&nbsp;BBCSuspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ET HealthWorldMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraMore than 500 children have died in an outbreak that the world is virtually ignoring&nbsp;&nbsp;NPR10 more die of measles, symptoms&nbsp;&nbsp;The Daily Star",
+      "id": "4192c7cbae34",
+      "title": "Nerve freezing technique reduces pain after surgical repair for microtia",
+      "published": "2026-05-27T01:14:00+00:00",
+      "summary": "Nerve freezing technique reduces pain after surgical repair for microtia&nbsp;&nbsp;News-Medical",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vX1c0NGY4WTJYVExrZWJmdDFjOUZTWU1fM29rNS12OUZ5NjNFSUpBcWlvQ2JrX2J2bkZmZS11aWQ1eTdkbnFxb1dGSmJXaS1fWmhQZHdBazBtdw?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjNReHM0SUVySUd1RmxNWGU4QzNuOXFMSERmQ2RsVE91VTNmX29MaFZxZ3ZqUGZxV1g1emlTMlRTUFZpcGRqYkQxQzdZeTdNWWw0cWV4dGxFRWhGWXRtYnR0d09uRG5JLUJ5dzVLWGJoaTJzMTBrYTR6MmxTcW1aTjRCYnR2dzF0V29hclhSeVVfT3c2VWlWbTM1ZFFiSGZIVEt4dU5pS3Viekg2T0d6N19BUmU3M3N6RFpyVw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "10920",
+          "name": "microtia",
+          "keyword": "microtia"
+        }
+      ]
+    },
+    {
+      "id": "0ecd6b4b2840",
+      "title": "Canada imposes Ebola-related travel ban, Bahamas to increase screening - The Hindu",
+      "published": "2026-05-27T00:15:03+00:00",
+      "summary": "Canada imposes Ebola-related travel ban, Bahamas to increase screening&nbsp;&nbsp;The HinduBREAKING: Canada to suspend immigration documents for residents of Uganda, South Sudan, and the DR Congo&nbsp;&nbsp;CIC NewsEbola Alert: Canada Imposes Temporary Border Measures For Safety&nbsp;&nbsp;NDTVCanada, Bahamas impose Ebola-related travel bans&nbsp;&nbsp;ReutersCanada bans travellers from Congo, Uganda, Sudan for 90 days due to Ebola outbreak&nbsp;&nbsp;Mint",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDBJdWdVMF8zYkoyQ1p6a18xZWkybTBxTmhvNVRwamtQRUI5Vm9iN3JNZGllUjdPUnFGMFRwcWxuU3R2ODE0dkhEY2ZMM0JlS2JySWw0ZnBYeXJBelhJbWNIazBHYm9sTmRfR3FTNHJFa2kycWc0aEJGOVZEVERtMm5ocElsd0tFM0V5LU81am8teldwZ3k3RmJBalBMUVdhSUFHeUIyM243QlZ4UnVqYm1RcmhVTmI0ZDA0T243SzdUTFdOOVFqTEZmTm5BUdIB1AFBVV95cUxPWkJPS0s4cjN5LTZhb29MNUxXSDE1VHlNRzd0dXRpLXNHS3JITlhvUUdUXzczRXNtNWhVbktiVmg4MTBaSXJWZ0ZqR3l5eUN5TEZORFBzdnItbVZ1d0dJQk1pWXRGaWdCckV2ZGhOZWdGbWF4RXF5VklyMXNvVTA1YUVUYmFOek4zVlYxM2FDTnNRYlFRM1k5ZEFNNzZoU3FMV01fTFRSRUdlbGRfMW5oZGw0Wkdxd3dQcG5GQXFqYjQwVXhNUWVtUG9zaVkzWUNBbkdwRQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "06e2a863f0b8",
+      "title": "Ayisha Ashruf and her colleagues at Vikram Sarabhai Space Centre tracked seventeen pieces of 1960s-era space junk for 36 years and found that once the Sun's sunspot count climbs past roughly two-thirds of a cycle's peak, the upper atmosphere starts pulli - Space Daily",
+      "published": "2026-05-26T22:06:18+00:00",
+      "summary": "Ayisha Ashruf and her colleagues at Vikram Sarabhai Space Centre tracked seventeen pieces of 1960s-era space junk for 36 years and found that once the Sun's sunspot count climbs past roughly two-thirds of a cycle's peak, the upper atmosphere starts pulli&nbsp;&nbsp;Space DailyStudy shows how sunspot activity speeds up reentries&nbsp;&nbsp;Phys.orgA 36-year sweep of orbital debris has found the solar threshold where Earth’s upper atmosphere starts pulling space junk down faster, just as mega-cons",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPeU4zSHhhdktpanFlTUZ3ZlRJc3R4dHh0emNCb2tEeEFFVV9Cek9XX2JxeEpyNHBoTDNqOEM0MW1rRVU2MkVIZHpjMldaYm1SSEx6N3dIcHBtQU00alowcHRFNVV6X0h1RnEzQXgtdU8xUE5PVTctazdlSXBzZEdZb1JNa2dTNGE5NGdVOWVJYmk3OFpJMkVmbDVEVXd3cF9aVkJLOTh6dFFFb2VNeldyeVpoUzhfcG51U0dDRnplMTFKR2hrZ3lnZ2h6MS11REQxYzZwSVMyN1Rka0xiaXRBMzlIVXY5NU9KeXd3NnAzQmhGWEFGMEt5VVZLeUZjU0xtWDFwVEp3dXdFbG82NVJiUjZLakZxblhKcWFrcThXOVdFVm5mTWpkS0RldHd4M29xanc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -253,27 +676,8 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4619",
-          "name": "measles",
-          "keyword": "measles"
         }
       ]
-    },
-    {
-      "id": "0ecd6b4b2840",
-      "title": "Canada imposes Ebola-related travel ban, Bahamas to increase screening - The Hindu",
-      "published": "2026-05-27T00:15:03+00:00",
-      "summary": "Canada imposes Ebola-related travel ban, Bahamas to increase screening&nbsp;&nbsp;The HinduCanada, Bahamas imposes Ebola-related travel bans&nbsp;&nbsp;ReutersEbola Alert: Canada Imposes Temporary Border Measures For Safety&nbsp;&nbsp;NDTVCanada bans travellers from Congo, Uganda, Sudan for 90 days due to Ebola outbreak&nbsp;&nbsp;MintIs Canada Closing Its Doors? New 21-Day Isolation Rules Spark Travel Chaos Amid Ebola Crisis&nbsp;&nbsp;The Sunday Guardian",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDBJdWdVMF8zYkoyQ1p6a18xZWkybTBxTmhvNVRwamtQRUI5Vm9iN3JNZGllUjdPUnFGMFRwcWxuU3R2ODE0dkhEY2ZMM0JlS2JySWw0ZnBYeXJBelhJbWNIazBHYm9sTmRfR3FTNHJFa2kycWc0aEJGOVZEVERtMm5ocElsd0tFM0V5LU81am8teldwZ3k3RmJBalBMUVdhSUFHeUIyM243QlZ4UnVqYm1RcmhVTmI0ZDA0T243SzdUTFdOOVFqTEZmTm5BUdIB1AFBVV95cUxPWkJPS0s4cjN5LTZhb29MNUxXSDE1VHlNRzd0dXRpLXNHS3JITlhvUUdUXzczRXNtNWhVbktiVmg4MTBaSXJWZ0ZqR3l5eUN5TEZORFBzdnItbVZ1d0dJQk1pWXRGaWdCckV2ZGhOZWdGbWF4RXF5VklyMXNvVTA1YUVUYmFOek4zVlYxM2FDTnNRYlFRM1k5ZEFNNzZoU3FMV01fTFRSRUdlbGRfMW5oZGw0Wkdxd3dQcG5GQXFqYjQwVXhNUWVtUG9zaVkzWUNBbkdwRQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "44be1e451f98",
@@ -322,19 +726,6 @@
       ]
     },
     {
-      "id": "4278723c020c",
-      "title": "NCSA: New Frontiers in Precision Medicine",
-      "published": "2026-05-26T20:46:55+00:00",
-      "summary": "NCSA: New Frontiers in Precision Medicine&nbsp;&nbsp;HPCwire",
-      "sources": [
-        {
-          "name": "HPCwire",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjNJLXZobkN4NHRtS19jWWk2RmN2TldkdmhOMVUxcTZON1otSUl3SzczWERzY2gtS080dnQ0Mk5LQnFSU1F0dzNKeGs4a1I5TGIwZzZ4LTJMRk1sel9FVndYdlpReGcwM1R5NzRyS2F0bHpfU0tqVVk5Tnc0c0ZjMU5YVlo?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d90629577c24",
       "title": "Diphtheria Outbreak: Australia Reports First Death In A Decade - Health and Me",
       "published": "2026-05-26T20:30:00+00:00",
@@ -355,14 +746,14 @@
       ]
     },
     {
-      "id": "e6acf348baa1",
-      "title": "HPV vax drive for teen girls from Sat - The Times of India",
-      "published": "2026-05-26T19:27:00+00:00",
-      "summary": "HPV vax drive for teen girls from Sat&nbsp;&nbsp;The Times of IndiaHPV vaccination drive to begin in West Bengal from 30th May&nbsp;&nbsp;News On AIRDC Drass Chairs HPV Vaccine Awareness Meet, Calls for Mass Mobilization to Prevent Cervical Cancer.&nbsp;&nbsp;Administration of Union Territory of LadakhNAPM, ALIFA and Health Rights Forum Demand Ethical, Gender-Neutral HPV Vaccination Policy&nbsp;&nbsp;CountercurrentsAsha workers and BMOs should widely publicize HPV vaccination in rural areas&nbsp",
+      "id": "3625e97b653c",
+      "title": "Understanding the potential of CAR-T therapy in autoimmune disease treatment - The Hindu",
+      "published": "2026-05-26T19:01:45+00:00",
+      "summary": "Understanding the potential of CAR-T therapy in autoimmune disease treatment&nbsp;&nbsp;The HinduCAR T moves beyond cancer, targeting autoimmune disease with immune system reset&nbsp;&nbsp;Medical XpressColorado woman's clinical trial may bring hope for autoimmune disorder patients&nbsp;&nbsp;Denver7Recent developments in CAR-T therapy&nbsp;&nbsp;RegMedNetCD19 CAR-T Therapy Achieves Triple Remission in Refractory Autoimmune Diseases&nbsp;&nbsp;openPR.com",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN054WmtOWHBKQVdRTUtRX1dmeUNsbUVXTnpoRzM0X2tkc05fYUFGQS1CWHgtcENBTWplaUE3XzRxS3MwVTZvdjlSMHZjMzVWOEExYkV1N0gxWWxKbDBXMXVyMHgyRmVBYmlsNWNEOXdoMHloWUpZY3ZFM05GV01rdzZvazlKdFRVR25VWkVSbUZFSl9CLXpoU2xiNE80U1BWYXdvaDBqRW9BN0FSZ2lpTXVB0gG3AUFVX3lxTE9sVFJOR2F4Z194QlJ2ZWdibTRDSmhCcVpscFV2NDhrZnZVNm5PRkNNY3BoVG15ODQ0RFhwdzFMSGN4dnBGbnh0aXU4NGsydjdzUTdtN0FFT05yeHdtXzduaEctSHNQR1BfN2dUNTZfeUdLUFNoVm1RSWxOb21tbjBObUh4WVZNY0xBMC1wbEV4Wk1vUS04dnF2YWZaRmdEY21RRE40YmZydGNVQ0hSQzZOZVR0cVpEQQ?oc=5"
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEI0dk95a3M1VUtfeW9qZWFsSmFfWU93Qkh3WlJZOGt3R3VhN2NSVmhZQjJXdFpMUGlmOXFKc3NYSzhXaDFvMUVBeldBUnJMRGY4RE9uR0hWaXR3UkFDMFUwLVRHb2ZJVmhRNnA2Z0lNd1V1aGJRY21MNHh2MG1TX2xHNjdtLUNOUmRubzY5TlE2N0JhQWU2a0NiNUhRNUNtUUNVbjhSdlMyXy1QMWVpZXI4Q0kxblBPeXJ4b0FiZkNmWWlGX2pUTVNGbEZXSUVXS2530gHaAUFVX3lxTE9jNUFWc0lhbWpBRjdBZzM2VzhXSHllNnR5VndzQ29BVmRKX01MeFZGVzFMMXZvVkNEVXdSdWw3NUVmRjFSNXlVY2NCdWdvOUUwQVBmQzRyTVZiR1MyVi1SVHFqQ2ozVEV5Y000eUctRjFDUjUzeVlCeVJQX0ZWclBxa3ZsZXRFOC1YRms4WTMyM3F2Y0pWcUNNa1FvbThoNGYydDRPUFhIbDZINWpQQlJJZFlLNFNXTXRpcG5TUG4zRS16TkFIR09WTXZvSzB3TXBuSW1hQTRxSk9R?oc=5"
         }
       ],
       "matched_keywords": [
@@ -374,9 +765,9 @@
         },
         {
           "type": "indication",
-          "disease_id": "2974",
-          "name": "cervical cancer",
-          "keyword": "cervical cancer"
+          "disease_id": "7179",
+          "name": "autoimmune disease",
+          "keyword": "autoimmune disease"
         },
         {
           "type": "indication",
@@ -393,30 +784,23 @@
       ]
     },
     {
-      "id": "3625e97b653c",
-      "title": "Understanding the potential of CAR-T therapy in autoimmune disease treatment - The Hindu",
-      "published": "2026-05-26T19:01:45+00:00",
-      "summary": "Understanding the potential of CAR-T therapy in autoimmune disease treatment&nbsp;&nbsp;The HinduColorado woman's clinical trial may bring hope for autoimmune disorder patients&nbsp;&nbsp;Denver7Recent developments in CAR-T therapy&nbsp;&nbsp;RegMedNetCD19 CAR-T Therapy Achieves Triple Remission in Refractory Autoimmune Diseases&nbsp;&nbsp;openPR.comResetting autoimmune disease with CAR cell therapies&nbsp;&nbsp;Nature",
+      "id": "3292bc5f724e",
+      "title": "GC-MS Detection of PCA in Root Canals: Antioxidant Irrigant Study - Chromatography Online",
+      "published": "2026-05-26T15:06:08+00:00",
+      "summary": "GC-MS Detection of PCA in Root Canals: Antioxidant Irrigant Study&nbsp;&nbsp;Chromatography Online",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEI0dk95a3M1VUtfeW9qZWFsSmFfWU93Qkh3WlJZOGt3R3VhN2NSVmhZQjJXdFpMUGlmOXFKc3NYSzhXaDFvMUVBeldBUnJMRGY4RE9uR0hWaXR3UkFDMFUwLVRHb2ZJVmhRNnA2Z0lNd1V1aGJRY21MNHh2MG1TX2xHNjdtLUNOUmRubzY5TlE2N0JhQWU2a0NiNUhRNUNtUUNVbjhSdlMyXy1QMWVpZXI4Q0kxblBPeXJ4b0FiZkNmWWlGX2pUTVNGbEZXSUVXS2530gHaAUFVX3lxTE9jNUFWc0lhbWpBRjdBZzM2VzhXSHllNnR5VndzQ29BVmRKX01MeFZGVzFMMXZvVkNEVXdSdWw3NUVmRjFSNXlVY2NCdWdvOUUwQVBmQzRyTVZiR1MyVi1SVHFqQ2ozVEV5Y000eUctRjFDUjUzeVlCeVJQX0ZWclBxa3ZsZXRFOC1YRms4WTMyM3F2Y0pWcUNNa1FvbThoNGYydDRPUFhIbDZINWpQQlJJZFlLNFNXTXRpcG5TUG4zRS16TkFIR09WTXZvSzB3TXBuSW1hQTRxSk9R?oc=5"
+          "name": "Chromatography Online",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSG1DX3ZqQk16NlJRYTVqNEdYX01kQTl4NFpjZkxFR3pCbUtDUEhyc1VCU2FHZ3llUkljOU1Ibk04SlV2Rnd2a2VmUXpPanpMUl9fTEFGYkMtdFlkSVVRREwySXJPS2lfaGlWa0pZeG9OcGo4cm5Od2U0VGNlem1zS1lVVndUWU1nd2pNbmlUTGZXbjlxTGpHNDY2cDduOEF4Mmc?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7179",
-          "name": "autoimmune disease",
-          "keyword": "autoimmune disease"
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "d6fb76d9e364",
       "title": "Can AI do scientific research? Billions are pouring in to find out - Endpoints News",
       "published": "2026-05-26T15:00:00+00:00",
-      "summary": "Can AI do scientific research? Billions are pouring in to find out&nbsp;&nbsp;Endpoints NewsAI & Science: What Is the Future of Discovery?&nbsp;&nbsp;American Academy of Arts and SciencesAre ‘AI co-scientist’ tools actually useful for scientists?&nbsp;&nbsp;statnews.comFor AI co-scientists to scale, scientists have to trust them. The architectural bets to earn it vary.&nbsp;&nbsp;R&amp;D WorldNew 'AI scientists' are improving—but reveal their fundamental limits&nbsp;&nbsp;Phys.org",
+      "summary": "Can AI do scientific research? Billions are pouring in to find out&nbsp;&nbsp;Endpoints News‘AI scientists’ are improving, but what are the fundamental limits?&nbsp;&nbsp;Silicon RepublicFor AI co-scientists to scale, scientists have to trust them. The architectural bets to earn it vary.&nbsp;&nbsp;R&amp;D WorldAI & Science: What Is the Future of Discovery?&nbsp;&nbsp;American Academy of Arts and SciencesAre ‘AI co-scientist’ tools actually useful for scientists?&nbsp;&nbsp;statnews.com",
       "sources": [
         {
           "name": "Endpoints News",
@@ -426,14 +810,14 @@
       "matched_keywords": []
     },
     {
-      "id": "75ce0d48cdf6",
-      "title": "Thailand mandates 21-day Ebola quarantine for DRC, Uganda arrivals - Arab News",
-      "published": "2026-05-26T14:28:12+00:00",
-      "summary": "Thailand mandates 21-day Ebola quarantine for DRC, Uganda arrivals&nbsp;&nbsp;Arab NewsThailand becomes first country to enforce 21-day Ebola quarantine&nbsp;&nbsp;The Economic TimesThai army moves to protect troops in South Sudan amid Ebola risk&nbsp;&nbsp;Nation Thailand21-day quarantine for all arrivals from DR Congo, Uganda&nbsp;&nbsp;Bangkok PostHow Thailand’s New Ebola Protocols Impact 2026 International Travel&nbsp;&nbsp;Travel And Tour World",
+      "id": "66f73a1c775d",
+      "title": "Hardening AI for the Cosmos: New Flash Memory Defies Cosmic Radiation - Tech Briefs",
+      "published": "2026-05-26T14:37:41+00:00",
+      "summary": "Hardening AI for the Cosmos: New Flash Memory Defies Cosmic Radiation&nbsp;&nbsp;Tech BriefsWhile conventional electronic memories fail in low orbit after 30,000 rads, researchers from Georgia Tech have presented a ferroelectric NAND flash memory that remains stable up to 1 million rads, equivalent to 100 million consecutive X-rays.&nbsp;&nbsp;CPG Click Petróleo e GásNew form of NAND flash data storage for deep space missions can survive 1 million rads&nbsp;&nbsp;Phys.orgNew space-grade memory w",
       "sources": [
         {
-          "name": "Arab News",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pV0FiZmNTUEhuRVhOU0dvd3Y1N2lFYmRIcV9yRTlwN0xPM0ZmVHJmdVVXMlptVEwtcUZHRjJhUk5MQjJ5UExVektJTC1jZV9KbU53RmF3?oc=5"
+          "name": "Tech Briefs",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObjVaM3BDWDQtUlo2MnJSdVliV1BwQmhiT3laelRvZE15eEtrUHBHemNXWDUwWEREblpaWW8yMmVmaDBCUzF6WFRKbUl5OER4SWlBbU83cmZzZU54RG4wWWlJd1pKcHRwaTRGc3R0T3h2eTc1ZUV5Q0NjQVNVcnVSdm80eXlpaW9nN0NMYTVfdGNWZjNvTjBoYXlSOFZTUDdMNG04amVDSHpOODhDRnFHVE1yWE9yRnZZWGlYcUdwb1l5eVpkc3c?oc=5"
         }
       ],
       "matched_keywords": [
@@ -449,7 +833,7 @@
       "id": "77a024fd792e",
       "title": "Indian researcher names newly discovered galaxy structure after Manipur’s Loktak Lake - The Hindu",
       "published": "2026-05-26T13:29:39+00:00",
-      "summary": "Indian researcher names newly discovered galaxy structure after Manipur’s Loktak Lake&nbsp;&nbsp;The HinduJust 1.2 billion years after the Big Bang, galaxies were already shaped by where they lived&nbsp;&nbsp;Phys.orgManipuri Astrophysicist Leads Discovery of 12.6-Billion-Year-Old Galaxy Structure&nbsp;&nbsp;Northeast TodayIndian astrophysicist Ronaldo Laishram names galaxy cluster after Manipur’s Loktak Lake&nbsp;&nbsp;ThePrintIndian Scientist Discovers 12.6-Billion-Year-Old 'City Of Galaxies',",
+      "summary": "Indian researcher names newly discovered galaxy structure after Manipur’s Loktak Lake&nbsp;&nbsp;The HinduJust 1.2 billion years after the Big Bang, galaxies were already shaped by where they lived&nbsp;&nbsp;Phys.orgManipuri Astrophysicist Leads Discovery of 12.6-Billion-Year-Old Galaxy Structure&nbsp;&nbsp;Northeast TodayIndian astrophysicist Ronaldo Laishram names galaxy cluster after Manipur’s Loktak Lake&nbsp;&nbsp;ThePrintAstronomers identify ‘Loktak protocluster’ in the early universe nam",
       "sources": [
         {
           "name": "The Hindu",
@@ -462,7 +846,7 @@
       "id": "d9d5e67685fc",
       "title": "Superconducting diamond reveals a hidden three-phase order - Tech Explorist",
       "published": "2026-05-26T12:16:54+00:00",
-      "summary": "Superconducting diamond reveals a hidden three-phase order&nbsp;&nbsp;Tech ExploristScientists move closer to diamond-based quantum chips with superconducting breakthrough&nbsp;&nbsp;The Indian ExpressA Diamond Anniversary, Fittingly Spent Harnessing the Gem’s Weird Superpowers&nbsp;&nbsp;NewswiseDiamond Chips Move Closer as Scientists Decode Superconducting Granularity&nbsp;&nbsp;AZoM'Designer' superconducting diamond: Researchers uncover path to multi-modality quantum chips&nbsp;&nbsp;Phys.org",
+      "summary": "Superconducting diamond reveals a hidden three-phase order&nbsp;&nbsp;Tech ExploristScientists move closer to diamond-based quantum chips with superconducting breakthrough&nbsp;&nbsp;The Indian ExpressA Diamond Anniversary, Fittingly Spent Harnessing the Gem’s Weird Superpowers&nbsp;&nbsp;Newswise“Designer” superconducting diamond: researchers uncover path to multi-modality quantum chips&nbsp;&nbsp;EurekAlert!Diamond Chips Move Closer as Scientists Decode Superconducting Granularity&nbsp;&nbsp;A",
       "sources": [
         {
           "name": "Tech Explorist",
@@ -479,6 +863,32 @@
       ]
     },
     {
+      "id": "61b1ae619e4f",
+      "title": "Chronic oral inflammation may impair female fertility and egg quality",
+      "published": "2026-05-26T11:16:00+00:00",
+      "summary": "Chronic oral inflammation may impair female fertility and egg quality&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNENQV1R6bFVkQ0xLSHZXNUZ1eldVWk1rVERTLXptMFVhOHpkNDI0ajZIVW1UeFNHbmE5YTVoYjhEd3FlLXczNWlBR3J3SXFaV2dvNmprQV9KZlZtd3JxM0RJY09NX00xc0JZakVjOFM2SzJrTWNYRHZ0ZzM0YjNOQ0psanBwcy1aQl92Vk01cWh0ZlVxcHotMw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1788bb664be9",
+      "title": "Indian American bioengineer Manu Prakash recognized for microscopic life research - The American Bazaar",
+      "published": "2026-05-26T11:15:41+00:00",
+      "summary": "Indian American bioengineer Manu Prakash recognized for microscopic life research&nbsp;&nbsp;The American Bazaar",
+      "sources": [
+        {
+          "name": "The American Bazaar",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMW5YZnlWT3FtOS16MGhibHhyNERCVEE3dnFDSm1DNDc1MlgtSzR1YXNOUGtoWnZnMjlBYnRWZjRRd1NKbExZaXczaUVLOFNnRGdqWmRvaVRac0VvTkxqSUtieUhYUFJvcDM2MVVrSTlGSTdHWlhFaE1TbFRmc0VtaGJGd1MzWVZ1TlBYWnJXT3MtVVB6T3pTa0hGZ0xGU1hKRDNMSDM3VFlWLTNZejJpSGdLbFc3TjU4eTdlWHQwZkF1TDN2eHB3SEtaOXhTZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "92724e4f7e48",
       "title": "Wool’s complex chemistry unlocks sustainable applications beyond textiles - Chemistry World",
       "published": "2026-05-26T10:52:50+00:00",
@@ -492,92 +902,34 @@
       "matched_keywords": []
     },
     {
-      "id": "196aa1aa3584",
-      "title": "8 habits that will help you live longer, according to experts - Good Housekeeping",
-      "published": "2026-05-26T10:39:16+00:00",
-      "summary": "8 habits that will help you live longer, according to experts&nbsp;&nbsp;Good HousekeepingSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "Good Housekeeping",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NMDVQV3I5QUpHMnRHemFfVlNfdkNXYXlQclFGUGhYZVY2dVlnZHlwcG1kSWtQdFNwMUM1S0xGODFJQVJSSWpWR1JtMGJVRWxvWmk3dndWLTV3ckxsWWtXMmF1dnFPdE1qaFREMnJqZWljbENxWmxVaGdQWURCZHM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "ca97a704437e",
-      "title": "Increased testing or poor sexual hygiene? STDs hitting record in Europe - Deccan Herald",
-      "published": "2026-05-26T10:19:07+00:00",
-      "summary": "Increased testing or poor sexual hygiene? STDs hitting record in Europe&nbsp;&nbsp;Deccan Herald​Two sexually transmitted diseases hit record highs in Europe: How to protect yourself (early signs, risk factors, prevention)​&nbsp;&nbsp;The Times of IndiaSexually transmitted infections surge across Europe to decade-high levels, with gonorrhea up 303%&nbsp;&nbsp;ynetnewsSTIs hit record levels in Europe: what’s driving the rise?&nbsp;&nbsp;Euronews.comRussia explained the outbreak of syphilis and go",
-      "sources": [
-        {
-          "name": "Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHpnOS16Z2FYanRDR19zUmh1eDQwX1hjSWs5OWkyNnR5OHZDdTR2b3RHOC1Jd0JBeVJiZ1Z3VWdTZjJha1loMUVITU1FYXRGdkNRWU5YZG82RXFJamZJZXhFTl9fTjVuYkRoOVVsS1Zjbkk5Y1FiekcyVWdqTXZUU2tCQkt0VmdLWEhDR0d2SzBDX1k5RC1IdEdwRk9qN2Z3VjFPNVMwdVhzSktsS2hYLXZLU1k?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "4497_6718_5976_2897_2896",
-          "name": "syphilis",
-          "keyword": "syphilis"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4277",
-          "name": "gonorrhea",
-          "keyword": "gonorrhea"
-        },
-        {
-          "type": "indication",
-          "disease_id": "21681",
-          "name": "sexually transmitted disease",
-          "keyword": "sexually transmitted disease"
-        }
-      ]
-    },
-    {
       "id": "30aab5bd10bf",
       "title": "'Very interesting wiggles' in data from silent NASA Mars spacecraft lead to unexpected solar wind discovery",
       "published": "2026-05-26T10:00:00+00:00",
-      "summary": "'Very interesting wiggles' in data from silent NASA Mars spacecraft lead to unexpected solar wind discovery&nbsp;&nbsp;SpaceUPSC Prelims Current Affairs for 20 May 2026&nbsp;&nbsp;Vajiram & RaviWhat is the Zwan-Wolf effect at Mars?&nbsp;&nbsp;The HinduDetection of Zwan-Wolf effect in the ionosphere of Mars&nbsp;&nbsp;NatureNASA’s MAVEN makes historic discovery around Mars&nbsp;&nbsp;Tech Explorist",
+      "summary": "'Very interesting wiggles' in data from silent NASA Mars spacecraft lead to unexpected solar wind discovery&nbsp;&nbsp;SpaceUPSC Prelims Current Affairs for 20 May 2026&nbsp;&nbsp;Vajiram & RaviDetection of Zwan-Wolf effect in the ionosphere of Mars&nbsp;&nbsp;NatureMassive Solar Storm Reveals How Mars Is Losing Its Atmosphere&nbsp;&nbsp;Gadgets 360Zwan-Wolf effect detected in Mars' atmosphere for 1st time | To read about the effect in detail | Inshorts&nbsp;&nbsp;Inshorts",
       "sources": [
         {
           "name": "Space",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSzdiWDFKLUhNVkFxRVRmSEZfVTZLT0VMUWZlX0JDTmNzZWtYYzhRMEJFM0ZwRXlFVk1fS3p1akVMWkl5dHktZzZjcmlCNjZxazJTSnFVQkEwcFdxQ2ZWMmV4WEFvdThkZlFpaHdNbDMtTEJPaWpLbUtRUzI5Q3F1TlVfSW1TNkxwNVBMenhORXBUeFZzU00tdTB1TUxNb21uUUllZ3JGa1NpbmxtZTN3Vjk3MThmbE42YnJyZldSLXUxZjVJOGYzQW13REJqeGtGdXppZmFzWVFHdw?oc=5"
         }
       ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9bbd574340dd",
-      "title": "New Sleep Apnea Pill Cuts Symptoms By 44% - Could This Replace CPAP Machines? - Times Now",
-      "published": "2026-05-26T09:17:00+00:00",
-      "summary": "New Sleep Apnea Pill Cuts Symptoms By 44% - Could This Replace CPAP Machines?&nbsp;&nbsp;Times NowPill for Obstructive Sleep Apnea Shows Potential&nbsp;&nbsp;MedscapePill for sleep apnea cuts symptoms 44% in clinical trials&nbsp;&nbsp;India TodayNightly Sleep Apnea Pill Fast-Tracked For Approval After Latest Trial Success&nbsp;&nbsp;ScienceAlertA daily pill addresses the origin of the collapse of the airways that causes sleep apnea, according to a trial&nbsp;&nbsp;Demócrata",
-      "sources": [
+      "matched_keywords": [
         {
-          "name": "Times Now",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSHphRWxuVnFDZzdTYzlkX2RDRmgxX3FEdVBCN0NWb19iUnFuMi1HTXFBcFk3ak9TRWJNV0pIcl9vZ3hRTllQV3JIX0lzdGdUYmlFTVRlcGEtN2xWSnlaRjlhZ24zN25sejQwYnd3RGFTSmotblNWcWRtVUJNcm1kdmw5bWlodG1ZY0dqNW94Vm1sLVFUVF84NnItcHRNNHRLTUFzVmRQT2hBYzNiV0dadnJGcFUwZHh5aDlSaFNHSnU0UWRBclE?oc=5"
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
         }
-      ],
-      "matched_keywords": []
+      ]
     },
     {
-      "id": "9adcbb55414c",
-      "title": "Global health leaders reaffirm commitment to Immunization Agenda 2030 - World Health Organization (WHO)",
-      "published": "2026-05-26T09:10:56+00:00",
-      "summary": "Global health leaders reaffirm commitment to Immunization Agenda 2030&nbsp;&nbsp;World Health Organization (WHO)See more headlines and perspectives on Google News",
+      "id": "7e4463b67c65",
+      "title": "High-fold homogeneous expansion microscopy reveals ultrastructural centrioles - Asia Research News |",
+      "published": "2026-05-26T09:37:32+00:00",
+      "summary": "High-fold homogeneous expansion microscopy reveals ultrastructural centrioles&nbsp;&nbsp;Asia Research News |",
       "sources": [
         {
-          "name": "World Health Organization (WHO)",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEMwX3g4ajhhbXZTVEFaaF82OGJqTW9HeUt6V09faFVhYzdzZFJmajkyVGNwbkdjV3NZSmsxcDdNOVhrWEMzaTlySTZ4dHVKVUdLVnp0d0IxTWlMTU9oTzNaaHd6dXNKS015eDMtOS1uekRpQ0dyMm44aXFpN3dfRDkyMi1fRGZiUC0yMGdlYm1jLWlCb1czQjRaM1lKRnpjSTkzRGR0V0pGd2xxUzlr?oc=5"
+          "name": "Asia Research News |",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM2ZXMFpYeDNtUDE1ZHVaUmNERUpXSjdHTnlFYTJQWVBlSElZU0ZySWh3bFNhQXBjMWJYX0RtTTVrODlRdU9zVTVtWWZ1N0N4OE5YWEpSZFNzOExaMW8wM25BLXhreUxEQVpuaUxWUmRrN1NQY2h5SWtpZmJvY2J0S2c0d0xmRS1KT3Z3eXdENmNyM1ZrN2tlNWtEdTFfVDdLOHo5ZC1Ed3NUUTJhV2VBb0R1bEFobFlGREE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -586,6 +938,52 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "54fda0663140",
+      "title": "Scientists develop on-chip light circuit for quantum, AI applications",
+      "published": "2026-05-26T09:24:32+00:00",
+      "summary": "Scientists develop on-chip light circuit for quantum, AI applications&nbsp;&nbsp;news.cgtn.comAn on-chip programmable valley optoelectronic nanocircuit&nbsp;&nbsp;NatureNew light-based switch could cut chip energy use and speed future AI photonics&nbsp;&nbsp;Tech XploreMonash University Builds Nanoscale Circuit That Could Boost Quantum Computing And AI&nbsp;&nbsp;SMBtechMonash researchers unveil breakthrough photonic chip for next-generation AI and quantum computing&nbsp;&nbsp;Cyber Daily",
+      "sources": [
+        {
+          "name": "news.cgtn.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWnlVWXU5VjFlcWhUMEs2NU10ZWpBTnhRaVcwVzVndEd2OFQteEJ2TFZpaVJ2RU9BanpyZ28zbE1lU2k1aF9PZ05GQWNlQ1hMRVJaZEt5UHZmcUJ2TFNjZkIwODBtcGJpX01lZEJLOUJvRXlKUHU4bE9KMEpkd3lVOUYyUTBKX0psb2VPcXRRSVpEZ2VFSVkzUHliemJzQkcxdjVtb3kxN1E2NjVrbEgxSlhiU3BzT1BjZVJKbjZRREtySFU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "cf49d876bea1",
+      "title": "Lysosomal cholesterol overload impairs the innate–adaptive immune axis in tuberculosis granulomas",
+      "published": "2026-05-26T09:16:46+00:00",
+      "summary": "Lysosomal cholesterol overload impairs the innate–adaptive immune axis in tuberculosis granulomas&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fUjludUtaa0hRV0lXU3IxelFna0R3cWRzYTVlNDZNcE80T3V6YlloaE1BT2xwaVY3LTZFOThhNXpSTFcwT2VQMTVSbzhGblBZQllteDI4NU5kZVpBYTNj?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB04540",
+          "keyword": "cholesterol",
+          "name": "Cholesterol"
+        },
+        {
+          "type": "indication",
+          "disease_id": "18076",
+          "name": "tuberculosis",
+          "keyword": "tuberculosis"
         }
       ]
     },
@@ -616,61 +1014,34 @@
       ]
     },
     {
-      "id": "5952da78c9b5",
-      "title": "China sends artificial embryos into space to study pregnancy in space",
-      "published": "2026-05-26T07:27:00+00:00",
-      "summary": "China sends artificial embryos into space to study pregnancy in space&nbsp;&nbsp;MezhaChina Sends Artificial Embryo Models To Orbit To Test Human Reproduction In Space&nbsp;&nbsp;NDTVChina just sent human artificial embryos into space, and the results could change humanity’s future&nbsp;&nbsp;The Times of IndiaCan humans reproduce in space? China sends artificial embryos into orbit to find out&nbsp;&nbsp;ThePrintChina sends embryo-like stem cell structures for Tiangong microgravity study&nbsp;&n",
+      "id": "dcaec082761b",
+      "title": "​Two sexually transmitted diseases hit record highs in Europe: How to protect yourself (early signs, risk factors, prevention)​ - The Times of India",
+      "published": "2026-05-26T06:22:27+00:00",
+      "summary": "​Two sexually transmitted diseases hit record highs in Europe: How to protect yourself (early signs, risk factors, prevention)​&nbsp;&nbsp;The Times of IndiaIncreased testing or poor sexual hygiene? STDs hitting record in Europe&nbsp;&nbsp;Deccan HeraldIndwara za 'gonorrhea' na 'syphilis' ziyongereye ku rugero rwo hejuru i Buraya&nbsp;&nbsp;BBCUK holidaymakers urged to take precautions as two diseases spread in Spain&nbsp;&nbsp;The MirrorRussia explained the outbreak of syphilis and gonorrhea in",
       "sources": [
         {
-          "name": "Mezha",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96WE95c3JUSnptU3FwamhDWkhEMEZwQVk2TjNBVFhUaUQxcjNUeE9PQTVKc3dqNVhZSWd3bFpLZ0wwSDBUQ0YwVXdubGNOV0xrMVY2a2pLdWdBZ2JpUVo4YzVB0gFnQVVfeXFMT0gwNzk0LXR1OE4xdHZ5SjZWbDlTbUFlTjdVTnFqdEthaWZMSnUwUUxPYkY4QmNXM1JwOU4wSjZqLUl3Um13blRNQ3UtdmhmUjM5TU5zeXVNc3RQUTdWcU9yeE5pWTFaYw?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNellfTkZtTHJINFVQOFowZ0pzOGNmcEN6SjVYUjQxaTV4dVhhYmVnSzBSTGNZdlVyaC1HOGV3Vm1xdVM2RGhRczlIZ2dzc0FfMGZrWEZBNVYwNEJZVndyWXktQVlra1JiMndGZmVjWEh5UXg3TmFTRTN4VVdxZjFCWFB1ei0zSVZmZTBZTXk1RDN6TFA1U2ZfYUh6Y0lJcGVuSWZGWmNsejV2c1ozanNYTXV6dm1uTXBTckN1MkxWdlFTZnNRZHR4WHRKTmRQZHFHRUxydGlveXhqbzlkekhjRl9aQUJNZkNORzhtTF9uWVp6V0IyWXVPOHZfOUhLM1hwN2IxVURUZ0MxeUxldnlVTi1IM3NhNndUeGdWMTlQZEEwajTSAasCQVVfeXFMT2trcl9kaTBfa2J6ZVlKZVVoVUhBbVkzVUs5bVZIS04zZ0tOanFacHlHNWtXNHlfRWg2MkZRUHItZXBzNHRvRzZxT05QUkpMU0g3SlI3dUlQZ1Y5b016ZHRtazNjUUFqNXR2aVZQS0puNUZ0VFlhN3htUzlNcHg1WDRJdkl6U3BkMEZEYW5CaGhUOXVPMy1nY05wYWlhbWUwaU9INm1ieXZKQzlFc3BtYURhTnBaLUxONE51cTJoRkVqSDVERklTRVItbzNLWEo4Qmg5V2c3WnhlU0MzbWZqQmRXSGRuRmFlZ3FaSnpkb2tfdFJWeEFKY3Q5WHB4WnNxN0M1ZkJ6NlJ5UjZ2SDNOSG01ZG5xYWd0Y1FwOVZqOElCbDVoNzIyc2VmU1E?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "9869c70a351f",
-      "title": "Pill for sleep apnea cuts symptoms 44% in clinical trials - India Today",
-      "published": "2026-05-26T06:13:55+00:00",
-      "summary": "Pill for sleep apnea cuts symptoms 44% in clinical trials&nbsp;&nbsp;India TodayPill for Obstructive Sleep Apnea Shows Potential&nbsp;&nbsp;MedscapeNightly Sleep Apnea Pill Fast-Tracked For Approval After Latest Trial Success&nbsp;&nbsp;ScienceAlertA daily pill addresses the origin of the collapse of the airways that causes sleep apnea, according to a trial&nbsp;&nbsp;DemócrataNew Sleep Apnea Pill Cuts Symptoms By 44% - Could This Replace CPAP Machines?&nbsp;&nbsp;Times Now",
-      "sources": [
-        {
-          "name": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzZQUXRRSU1tUzRGUVdiOHNBQmZ2RGE5SEhCSS1mY19IYk1LX0NabWh6R2FIQlA0UEdwV3pCUmhTUDNfM0c4T2ZjT09FSzI1c2RlN042c0xjMGhTNEFZT012TEZSSktKNEV1YWo5UnNVcTVyQW1HcUtweTdMWlpBUm9oSVRUelkxOWt0N0g3NmItUm9SNV9TM2E5RDRkZzIyNXJKeGthWVRGVWx3Y3Nnc2FrblYzOFVweTl2VkxraGV0RE3SAcgBQVVfeXFMTlNxUUpaZ0xrOFlZN0xrYUZMRWFVTDFvZDFJeFVRaG13YWZkV2J0d3JXRDJQMHU5TThCaHRybFJOMjZqd2JKeU9HNDJHWWYzdloxbXNJazZueG4waEl5cWl2RmY2eEtZYV9ZUEcxQ1hsRFJZUFhVWVIzVG8zT0JaUHFmMVBrNWNNak1fcEFZdXhqNHNRaHh3elBuWmRVN1c4ZkVTVUVmV0dETnQ4NzByRXhfMDRfd0l4WDlZNnpSMEpQSngxZnhXemI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "85d128bc4c50",
-      "title": "Drinking beetroot juice daily helps in healthy ageing; spinach and kale keep blood pressure under...",
-      "published": "2026-05-26T05:52:16+00:00",
-      "summary": "Drinking beetroot juice daily helps in healthy ageing; spinach and kale keep blood pressure under...&nbsp;&nbsp;Moneycontrol.comWe Asked 4 Cardiac Dietitians About the Best Drink To Lower Blood Pressure and They All Said the Same Thing&nbsp;&nbsp;ParadeCan Beetroot Juice Help Lower Blood Pressure?&nbsp;&nbsp;Health and MeForget pills? This humble vegetable juice slashes blood pressure in just 14 days, biggest study ever&nbsp;&nbsp;The Economic TimesBeet juice lowers blood pressure in older adult",
-      "sources": [
-        {
-          "name": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQ0d4TnY0MUUzQUUwcVFMLWMxc3pYTlE1N2tObmRnRWtReTYzVkd5NjBCNWRnVTB0em1GTEVqSlUzeVJCVHVRLXdDSkZYX012Ti1CdkFHbnd3N1NMZHBiOTZGY3FqSGR5V2wtTjhxd1UtRHcxQTYzV3laZmNWN09JUmNVdTdhTGEySHRQekhkUjgwVHd4UlYtdmlhVXdmSFVNT1dlb1RfYTIwd2xYZHl6WHN2SmlsUFBoa0hjcW0xaV85YUFYcVRqWjJTSGV1Vm9wRVg0VXcxQWpLOXNWb25adlU3czFTQWkyMFFCQjBmWlpZSXdqV1dLZG9yRkZTZkhfdzhId9IBigJBVV95cUxPSzZiVUhObmlURE1zb2ZXUmF3VFAxdWZQczMyd0FqLVJWYk5TNTBNRkFUN2ZPU2RoVnpjbXZfQ1oxdjdsNzVYU1VqbmRwZlFndEVucjNWZldjeVVYLTJTVmg4a3BZYjRseTE4ajVvRWNGcnQ0SEU2WUEwbVk4di1oU1d3M2ZwLTFqaHdsNDRzbWpMZlppR3ZtTS1ZYUNKYzJtVmZrV3h6MjAyUWcyTVQtSzJ4NncyVmpWc295cUpPeUtUZS1aVm1Sc2cwZFEtU0NJVTJzd1dEY2JjRGNJbWJjbVoxeXFwTUEwR0NBa3FfdUtSc3FBVnFhOXZxbWJwMjhsNTNOLUpFYlZMZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
+          "disease_id": "4497_6718_5976_2897_2896",
+          "name": "syphilis",
+          "keyword": "syphilis"
         },
         {
           "type": "indication",
-          "disease_id": "generic__heart_disease",
-          "name": "heart_disease",
-          "keyword": "cardiac"
+          "disease_id": "4277",
+          "name": "gonorrhea",
+          "keyword": "gonorrhea"
+        },
+        {
+          "type": "indication",
+          "disease_id": "21681",
+          "name": "sexually transmitted disease",
+          "keyword": "sexually transmitted disease"
         }
       ]
     },
@@ -688,40 +1059,14 @@
       "matched_keywords": []
     },
     {
-      "id": "9c08860a0e03",
-      "title": "World Hypertension Day being observed today globally - News On AIR",
-      "published": "2026-05-26T00:13:45+00:00",
-      "summary": "World Hypertension Day being observed today globally&nbsp;&nbsp;News On AIRYour blood pressure may look normal today, but these silent changes could be warning you about future hypertension&nbsp;&nbsp;The Times of IndiaNo symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The HinduThe Hypertension Crisis&nbsp;&nbsp;Daily ExcelsiorPost-Pandemic Effect: Why 30-Something Delhi-ites Are Struggling With High BP&nbsp;&nbsp;Health and Me",
+      "id": "0cd85431cd4d",
+      "title": "Ancient wildfires in Gondwana forests shaped Earth’s climate, Indian study finds - DD India",
+      "published": "2026-05-26T05:18:00+00:00",
+      "summary": "Ancient wildfires in Gondwana forests shaped Earth’s climate, Indian study finds&nbsp;&nbsp;DD IndiaSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "News On AIR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWtPdEhhUkd2VThNWHRId3k1TUhhOFRwTThaWXpGOWtOdG5DeVJoSTFpcWtHUUptOUF0LUtCZTltRTFZZEZIWDlXZFhFRE1maWQyLTdOT0lrUDlZM3poYUo1c0JBcjM2d2wxaGtpb205N3RPVVlmZHhEQnZSbGZZRDdSMDU?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "1200_1134_15512_5080_100078",
-          "name": "hypertension",
-          "keyword": "hypertension"
-        },
-        {
-          "type": "indication",
-          "disease_id": "1200_1134_15512_5080_100078",
-          "name": "hypertension",
-          "keyword": "BP"
-        }
-      ]
-    },
-    {
-      "id": "f11721edf53d",
-      "title": "Forget pills? This humble vegetable juice slashes blood pressure in just 14 days, biggest study ever - The Economic Times",
-      "published": "2026-05-25T21:49:46+00:00",
-      "summary": "Forget pills? This humble vegetable juice slashes blood pressure in just 14 days, biggest study ever&nbsp;&nbsp;The Economic TimesWe Asked 4 Cardiac Dietitians About the Best Drink To Lower Blood Pressure and They All Said the Same Thing&nbsp;&nbsp;ParadeCan Beetroot Juice Help Lower Blood Pressure?&nbsp;&nbsp;Health and MeDrinking beetroot juice daily helps in healthy ageing; spinach and kale keep blood pressure under...&nbsp;&nbsp;Moneycontrol.comBeet juice lowers blood pressure in older adult",
-      "sources": [
-        {
-          "name": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTEQzbFl1Z3cxd08tYmhNc1luekxXR1podzlDc29XLV9zMVBQLVJvLTl4OXpaZFJta1VZM3ZzQXFSOEp2cFdfc3U5VzFGVWpZcUVsU0l0R0h1MnhBaGZKSTNnMTJKY2J5RkRpa1lfWWZjeUFRanhkOG1EcGRScmlpRThqUnFtNmFrSENzMk1TWjNzRV9ESzVyNURQYnExZENmblh1NjFrb1NjajlneUpHMXU4VERIZ1VBM0VQYmVrNUtZRl94aElmY1Exb2dhM0F5VVVpZkxJWkxGa0IxRHdJanRZV1Fab1RpYVhTdGVRUmlSN1BGUS16QVBXcDFUZFNYT2FGetIBigJBVV95cUxQb0dMTGFyc0VoMUpaRUVxRlZPQ2p2T2N4eEZQMUthR01PYk5nNkhKdFhnWmZ5RHVmTHVpeG52ajZWRnRNNTBjdnRvTm91aWNvNUV1MUhTWkZiUGFHNWlSMG9PREJrTDFxbXFKcTRkTkY2WW4tam5aSC15Wm92b2FaY2h2dkw4TC15Tkd0c25JU1ZQRkZTM3B4Ql80ZE96b3lvNjFUTzJidWZHNVZ3dE9CM3Q1S1p3QjdtN1BDQlJQdU5YbFoxd1FvX1dhVDhvSk5vOFVGSnhXNXpDMW9ydmhVV2pTM25GS1F3MWJhVHJGeEtFUGlWb3FGN2s5azdUWXhhUXFBNWctb3VhZw?oc=5"
+          "name": "DD India",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNREdnbjN1SFFERDR0YVNyOGV3eGJBeXlUcURYYTVmREZwMnNJeTg0X2JmRTEzSFhSbXJ4UkR2MkFVRi0tbzBJZXB6VUdjOGpPTXBwV0JqUTRPeVJzV212aG40SWxwSTJDeTJfUDZ1LWU0a1Z6NXJDZUxQYVlzZ1lVN2hITXdQY211RE1IUGM5T3BRcmY5X3ZKb0R6NjJrVVJLX3F4V0dmdUkyZXBvdlE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -730,12 +1075,46 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        },
+        }
+      ]
+    },
+    {
+      "id": "e5591cc96be6",
+      "title": "High-risk pregnancy prediction using Taguchi-optimized machine learning methods and TOPSIS-based model selection",
+      "published": "2026-05-26T04:38:03+00:00",
+      "summary": "High-risk pregnancy prediction using Taguchi-optimized machine learning methods and TOPSIS-based model selection&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPbzE5bVRDRWxGbElpOHk5bktYNldHdF9mM2xBZ25WZFBwUXBialFQNTgxM0wzWUhYT0l6U2F6LVNuTk5MalRKNE1VSVgxUnJ3R19peWZjeHlNNHdRenNJ?oc=5"
+        }
+      ],
+      "matched_keywords": [
         {
           "type": "indication",
-          "disease_id": "generic__heart_disease",
-          "name": "heart_disease",
-          "keyword": "cardiac"
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "a81f24e40e26",
+      "title": "People's Daily: Lunar soil fibers may become 'steel reinforcement' for future Moon base construction - Global Times",
+      "published": "2026-05-26T03:42:00+00:00",
+      "summary": "People's Daily: Lunar soil fibers may become 'steel reinforcement' for future Moon base construction&nbsp;&nbsp;Global TimesChina is using a bacteria to turn desert into fertile soil in just 10 months&nbsp;&nbsp;The Economic TimesLunar Solution&nbsp;&nbsp;The Portugal NewsChina invents game-changing process that turns desert sand into fertile soil in just 10 months&nbsp;&nbsp;Earth.comChinese Shapotou desert researchers create fertile soil in 10 months&nbsp;&nbsp;NewsBytes",
+      "sources": [
+        {
+          "name": "Global Times",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14cW1NSlJNdEs5U21rNWp0WDdDbzJmRC1QWUhmdXRLUEhiZlF1TDdKZ0VibVlsN1JlczcxTl9KWjlJMDVuMHRMck03Smw2Z2M3Q2NTYWRpMlVJZlZBMjhiNHdR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
         }
       ]
     },
@@ -743,7 +1122,7 @@
       "id": "57333be1ff37",
       "title": "Experts Warn of Surge in Thyroid Disorders Across HP - UNITED NEWS OF INDIA",
       "published": "2026-05-25T20:17:00+00:00",
-      "summary": "Experts Warn of Surge in Thyroid Disorders Across HP&nbsp;&nbsp;UNITED NEWS OF INDIADoctor warns that Thyroid Disease is changing in India, and many patients still don’t recognise the symptoms&nbsp;&nbsp;The Times of IndiaWorld Thyroid Day: What's the science behind mood swings?&nbsp;&nbsp;news.cgtn.comWorld Thyroid Day 2026: Thyroid Dysfunction In Pregnancy May Increase Autism Risk In Children&nbsp;&nbsp;NDTVWorld Thyroid Day: How Stress And Lifestyle Change Can Impact Thyroid Health | Health a",
+      "summary": "Experts Warn of Surge in Thyroid Disorders Across HP&nbsp;&nbsp;UNITED NEWS OF INDIADoctor warns that Thyroid Disease is changing in India, and many patients still don’t recognise the symptoms&nbsp;&nbsp;The Times of IndiaWorld Thyroid Day: What's the science behind mood swings?&nbsp;&nbsp;news.cgtn.comWorld Thyroid Day 2026: Thyroid Dysfunction In Pregnancy May Increase Autism Risk In Children&nbsp;&nbsp;NDTVThyroid disturbances can increase risk of miscarriage in women, say fertility experts&n",
       "sources": [
         {
           "name": "UNITED NEWS OF INDIA",
@@ -760,52 +1139,28 @@
       ]
     },
     {
-      "id": "e98b68007c66",
-      "title": "New thermal imaging system detects early melanoma before it is visible",
-      "published": "2026-05-25T18:59:00+00:00",
-      "summary": "New thermal imaging system detects early melanoma before it is visible&nbsp;&nbsp;News-MedicalSingle-shot microneedle-encoded upconversion lifetime mapping for real-time in vivo thermo-dermoscopy&nbsp;&nbsp;NatureSkin Cancer: Smart Tattoo Technology Could Revolutionize Early Detection Of The Deadly Disease&nbsp;&nbsp;Health and Me“Smart Tattoo Technology Promises Early Detection of Skin Cancer”&nbsp;&nbsp;Bioengineer.orgNew nanoparticle-based ‘intelligent tattoo’ uses heat signals to detect skin",
+      "id": "ea5b77ac2426",
+      "title": "Morning vs. afternoon sun: When is the best time for Indians to get Vitamin D? - The Indian Express",
+      "published": "2026-05-25T16:30:59+00:00",
+      "summary": "Morning vs. afternoon sun: When is the best time for Indians to get Vitamin D?&nbsp;&nbsp;The Indian ExpressWoman's Doctor: Sunlight isn't enough to treat Vitamin D deficiency&nbsp;&nbsp;WBAL-TVVitamin D Protects Immune System During Winter, But Won’t Boost Running Speed&nbsp;&nbsp;StudyFindsAsk Joan: Older folks need to watch out for vitamin D deficiencies&nbsp;&nbsp;Eagle-TribuneI Took Vitamin D Supplements Every Day for a Week, and This Is What Happened to My Body&nbsp;&nbsp;Prevention",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYTU2OWtXRFNiQTNFekpYUU5KM2NPRmZ0ekZfbnU1WlF1eUJxcm0ySEtvR3JwSExkcU5UOG1wcVJNbUlSeDA1bFZaeGpON3dJNk96V2JxV3h2Wk50OVNBY05oT2tLQXUtQUVqLUozM0pCcTRiLVJ2eXFQZHBiZVc3TXhnYzh0cFhYdi1rUGVQMW5qNlNrcjRCVlBvREpXZUdKVHNWNVRJOF94WUpweERKLVIzdkZaYUkyU3c?oc=5"
+          "name": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRkZyejY5SlFUdUhGdDlIcy1BdUx3eUg5ZkVZeUhneDMwOW01WGVDS2o1Y2xLYUYxdDNLNUpmdkdKMzJVbzVFQ0xGbUdVWEQ3MUJ0UnZ1M29ZUy1DcXZUMGJSMlRJR3lFMmVFdktkOXBmUThoR0tDYVJ4NVd2clZwMFFnd29YMTR3d2ZHamlDNnpLd0xKMnFDNXB5d3NQLXA5RHZHeFBESGMzWU9zWW9CMUpsVVNvMTU2THo1VW5sX3REWUsxVkhsOdIBzwFBVV95cUxQWUtxOW9IaDJkRURKd2lESVRLX2ZfbVZHVHRPT01zSDdMUU1XZGRWVnhrakRDUmV0VjZNNC1CM05Pa1BHTGI3Yk05NDdrbFlMa3lSQzZxSWd4MmE4UEdHTmRkblBqVVpDeklaaGltalRQc2NDNko5d0hrMktfa0pWYjJjVDlmSjQtbnZNekdEdGFfYXVzU3A5TXdYcWhYNlRWVDA0UXFOTXptNkYwQ3NGZzFIWkZSRHhVZ1R3LTNjLWJNeV9oTmxCQ1JaVkV5aE0?oc=5"
         }
       ],
       "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB11094",
+          "keyword": "vitamin d",
+          "name": "Vitamin D"
+        },
         {
           "type": "indication",
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5105_5012",
-          "name": "melanoma",
-          "keyword": "melanoma"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "2898",
-          "name": "skin cancer",
-          "keyword": "skin cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "17124",
-          "name": "noma",
-          "keyword": "noma"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
         }
       ]
     },
@@ -813,7 +1168,7 @@
       "id": "28093ae2c04b",
       "title": "Unhealthy ultra-processed foods are designed to make us crave them and eat more",
       "published": "2026-05-25T16:30:00+00:00",
-      "summary": "Unhealthy ultra-processed foods are designed to make us crave them and eat more&nbsp;&nbsp;Scroll.inUltra‑processed food: Why the debate needs less fear and more clarity&nbsp;&nbsp;Japan TodayDoctor explains: Why packaged ‘healthy’ foods are driving obesity and diabetes in India&nbsp;&nbsp;FirstpostOpinion: Through the Consumer Lens&nbsp;&nbsp;Commercial BakingAJPH’s Big Food’s Tobacco Moment: Evidence on the Harms of Ultra-Processed Food&nbsp;&nbsp;American Public Health Association",
+      "summary": "Unhealthy ultra-processed foods are designed to make us crave them and eat more&nbsp;&nbsp;Scroll.inAs Federal Definition of Ultra-Processed Foods Stalls, Yuka Releases Landmark Report Mapping the System Behind America's Diet-Related Health Crisis&nbsp;&nbsp;PR NewswireOpinion: Through the Consumer Lens&nbsp;&nbsp;Commercial BakingThe surprising reason UPFs are bad for us – and the one hack to make them healthier&nbsp;&nbsp;The i PaperAJPH’s Big Food’s Tobacco Moment: Evidence on the Harms of Ul",
       "sources": [
         {
           "name": "Scroll.in",
@@ -826,12 +1181,6 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic_diabetes",
-          "name": "diabetes",
-          "keyword": "diabetes"
         }
       ]
     },
@@ -839,130 +1188,11 @@
       "id": "5835fd028608",
       "title": "Stretchable AI skin patch analyzes heart data on the body in milliseconds - The Brighter Side of News",
       "published": "2026-05-25T16:07:00+00:00",
-      "summary": "Stretchable AI skin patch analyzes heart data on the body in milliseconds&nbsp;&nbsp;The Brighter Side of NewsSee more headlines and perspectives on Google News",
+      "summary": "Stretchable AI skin patch analyzes heart data on the body in milliseconds&nbsp;&nbsp;The Brighter Side of NewsA large-scale stretchable neuromorphic circuit for on-body edge computing&nbsp;&nbsp;NatureStretchable AI patch computes on your body, no server required&nbsp;&nbsp;University of Chicago NewsNew AI skin patch could detect health problems without needing a wireless connection&nbsp;&nbsp;Earth.comSkin-like AI patch could diagnose health conditions instantly&nbsp;&nbsp;Health Tech World",
       "sources": [
         {
           "name": "The Brighter Side of News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWFqXzNEVGJmeTg1aWl0alNQcWVNLWtkSUcyeFE0bF85a0hGVGd6TEdGR0Z4ZzE2QlA1b2JJWFMxRWxCQ0tFcjFXcEpfYVpJdEg3eWZtVl94Q2lXTWhhRVY1eV9DRUE1T01Vbms2UTQwRWhwSHM1VjE0S1owWHFhT093b2doZ2VTZFpJb3BsejNOenNKdTRESjZlaUZla1RsQ0c1Z0RBeTM1aGsxQ0VuV0Z3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "71869f915373",
-      "title": "Centre on Alert Over Ebola, says Health Minister Nadda - UNITED NEWS OF INDIA",
-      "published": "2026-05-25T13:31:00+00:00",
-      "summary": "Centre on Alert Over Ebola, says Health Minister Nadda&nbsp;&nbsp;UNITED NEWS OF INDIAUganda national in Bengaluru tests negative for Ebola; no confirmed case in India: Health Ministry&nbsp;&nbsp;The HinduEbola scare: DGCA asks airlines make in-flight announcements, take other measures&nbsp;&nbsp;ET HealthWorldAfter Bengaluru Scare, Nagpur On Ebola Alert, Uganda Returnee In 21-Day Isolation&nbsp;&nbsp;NDTVWoman quarantined in Bengaluru after suspected Ebola infection: Report&nbsp;&nbsp;Telegraph",
-      "sources": [
-        {
-          "name": "UNITED NEWS OF INDIA",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY25LR1ZidUMtM1B5X2dTa1AxSXZJLWVZc3hWaFlReWEwSkY4ckk5ZHdpSUh6SmJvd3FBVVhxTkcxOTB6QldIVUhBd0NvTHRwR1ZSNVpsVmpkTllhMWlFLVFYVW10OXd6bW94WHVEV0RHbk5BMWpOdlJLQVM3ODhaN1VMcmN3dE05RER3V2VCbzJRdERBODlXRTNZTmZrVG55UHFJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ce6b9495aef5",
-      "title": "Common heart drug taken by millions found useless — and possibly dangerous",
-      "published": "2026-05-25T12:38:22+00:00",
-      "summary": "Common heart drug taken by millions found useless — and possibly dangerous&nbsp;&nbsp;ScienceDailyBeta Blockers, Common Heart Drugs Prescribed Since 1950s, Linked To Severe Risks Especially For Women: New Study&nbsp;&nbsp;NDTVCommon heart medicine found ineffective in major study — could it change 40 year old treatment?&nbsp;&nbsp;Deccan HeraldCommon Heart Medication Under Review Amid Safety Concerns in New Studies&nbsp;&nbsp;PakTribuneBeta Blockers After Heart Attack: What the New Research Mean",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OUHdFc2NTbzVNWFlGZ29fNEJNWjNYd1FCM0NpMHhoM09GYnpvbklLMWtMU1RLM2E2Y2hIdy03RVRWRk1pRG9BcXctdXQ4UXJIcWNnaElNRHcxOEYtWUZEbndLckJ1VlJWNVNzZUt0bw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "57c911be4984",
-      "title": "WHO: Over 900 suspected Ebola cases identified in Congo",
-      "published": "2026-05-25T10:53:30+00:00",
-      "summary": "WHO: Over 900 suspected Ebola cases identified in Congo&nbsp;&nbsp;TripuratimesSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "Tripuratimes",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaE13bHBfcVM1dnlKMHNZZDFMMG4tMTZ1LUJHakVraEc2YUpGZWtoYnBBT0J3MVJVbi1PQWtzNENOUHVCcWdKbXlBVlFrc2l2VS1SemlDaHlDWFpqLV81bXpPb0tXTTl6aFpuRWdPV05aM0xjQUgySHpIaDBMQmFjZ3kzWllRQnV4YU94cjM0SDlJYjV2bmdRQUJPaXhGUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "a85fe6e61fbd",
-      "title": "WHA declare Strokes as a Public Health Priority - INSIGHTS IAS",
-      "published": "2026-05-25T09:43:19+00:00",
-      "summary": "WHA declare Strokes as a Public Health Priority&nbsp;&nbsp;INSIGHTS IASWorld Health Assembly Recognises Stroke as a Public Health Priority&nbsp;&nbsp;Vajiram & RaviWorld Health Assembly recognises stroke as a public health priority for the first time&nbsp;&nbsp;The HinduStroke Gets Global Health Priority Status: Why The World Health Assembly’s Move Matters For India&nbsp;&nbsp;Outlook IndiaStroke Recognised As Global Public Health Priority by The World Health Assembly&nbsp;&nbsp;Onlymyhealth",
-      "sources": [
-        {
-          "name": "INSIGHTS IAS",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX2EyUUdPV2kxTmY2WWVjUnljZ1ZJYjlINkhiZm1CZFBRZ3pUdjhycGZQalFqXzk2eVlSYmd3RS03dTJkUjVwNWFQTVctTVNHaVRDSE9OYzN5MjlnX0RjTjBJcDdoSlFNcmVzSlVrLUZOWEFJYXVmSzVrYV83ZWZLQUF0SEU4eU5JeExaZXhoc3FsODRfcnc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic_stroke",
-          "name": "stroke",
-          "keyword": "stroke"
-        }
-      ]
-    },
-    {
-      "id": "c7699af570c0",
-      "title": "Drinking more soda than water this summer? Urologist warns young adults of UTI, kidney stone risks | Health - Hindustan Times",
-      "published": "2026-05-25T09:19:17+00:00",
-      "summary": "Drinking more soda than water this summer? Urologist warns young adults of UTI, kidney stone risks | Health&nbsp;&nbsp;Hindustan TimesFluid After Kidney Stones: Some Good, More Better&nbsp;&nbsp;MedscapeDrinking more water alone may not prevent repeat kidney stones: Lancet Study&nbsp;&nbsp;The Times of IndiaKidney health in summer: Dehydration during heatwaves can lead to serious complications&nbsp;&nbsp;TheHealthSiteSummer heat can trigger kidney stones: Don’t ignore these warning signs&nbsp;&n",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb3h0eXhOQTEyNlp6S1JZNW4zX3k2WUpONGVJU2R6X3FpVjZUUmd3bklBakRiS045blNWU3hSeGY3RjctaGMySWIzYlB3RTJvR2VMb2l2TzJYWklNWHhRUGxNQUdub2ZCNGxDTFNpZEgwdWpUX015RVVGVE5QbzNrcTExaHNHNUlQVi1WZlk5OHpTaTNNRVl3SDNoMngyaXAxTWY3MkFIaWZKWGVsZWhsRThPTWpCOW51MVJ0RXVpdVRjTlY4MFhhMGtTZWVoelo5QndhSDFFWU56X0YtM2hRMHg2UlEtZDAtM2U0eEt1cl8zTjBDZ1RGVNIB_gFBVV95cUxNSHV6YU04aC1ZdkpNdVd5bUdWdGJsLURteEFxSVZBNVBCWGRvc1lwc0F1ZDAzWWtFYUdESE1qM3h2aHlmaFFYQkxQeFlPUk5Rb0docC15MTlvYm5MSDIxUDJlWkhPOGJxcE1fVGt2UFpvbmo2dWdUSHJXSHJ5V2w5NDhjemlFRW81ZTE5QWlLeTNINmlXUVl4SmVtbUZXZlhscWYtTUVpV3Exb1Q2and0N2o1bzlxd25XeG5vMW9EMGFZUlVkM0Y0UnlQdHVYSWdPYmt0MU1TdkI1THhuZEwxN2c3R2ZvcWYxZnhadWtPSTVlVHF3YmZneko1cDdVZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "145f431a7f92",
-      "title": "Misinformation about perimenopause on social media ‘putting women at risk’ - The Guardian",
-      "published": "2026-05-25T09:00:00+00:00",
-      "summary": "Misinformation about perimenopause on social media ‘putting women at risk’&nbsp;&nbsp;The GuardianWhy menopause awareness matters: Shaping ‘Fearless Tomorrows’ for women in India&nbsp;&nbsp;Hindustan TimesPrevent And Protect: Now Is The Time To Get Get Ready For Menopause&nbsp;&nbsp;essence.comIntroducing The Book of Menopause , a New Guide Coming From Oprah Daily This Fall&nbsp;&nbsp;Oprah DailyHow the perimenopause movement is hurting women&nbsp;&nbsp;statnews.com",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZlNpdkJJM2FGNGZIbnZtOUJEcER4NkZzaVVJUVU3ZFd0MHZhQVNSN0ZaR1JNQTk1N2RsNXhKR2t3Z1QwekdpbmlrakR6Z3RkMlZvWW9mVDU0LUFVVUJNNHNMTmIxY0NYU1QyakpQeE94NFN6ZEF4MHBaWXYxZi1VaWx1dGRSc1V1cExTa2c3cjZ3cTQyTG80RmZjNU9ETHlWUWl6bmFlY0lsS2FEYk11NnlXN05zdDI3VVEtag?oc=5"
         }
       ],
       "matched_keywords": [
