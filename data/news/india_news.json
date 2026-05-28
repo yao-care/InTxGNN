@@ -1,19 +1,43 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-05-27T19:53:37.393273+00:00",
-  "total_fetched": 48,
-  "unique_count": 48,
-  "health_related_count": 40,
+  "fetched_at": "2026-05-28T01:30:31.609324+00:00",
+  "total_fetched": 49,
+  "unique_count": 49,
+  "health_related_count": 42,
   "news": [
     {
       "id": "05eaa0b81803",
       "title": "Experts Recap the Most Notable Data in GU Cancers Presented During the 2026 AUA Annual Meeting - OncLive",
-      "published": "2026-05-27T18:45:16+00:00",
+      "published": "2026-05-27T23:16:58+00:00",
       "summary": "Experts Recap the Most Notable Data in GU Cancers Presented During the 2026 AUA Annual Meeting&nbsp;&nbsp;OncLiveMiller School Urologists Lead Global Conversations on Overactive Bladder and Neuromodulation at AUA2026&nbsp;&nbsp;University of MiamiCAR T-Cell Therapy, Biomarkers, Clinical Trials, and Bladder Cancer Advances&nbsp;&nbsp;AJMCHighlights From How I Treat Bladder Cancer in 2026: OncoDaily Virtual Summit&nbsp;&nbsp;Oncodaily",
       "sources": [
         {
           "name": "OncLive",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1VKY0lPbDdpN1VwbjFYc1l3aHpWX2E1eDZ0REJmVEtqd3kyNVRnSFM4bFFjMm9SUXFZOVByZ1dZQjVQRm1HbVdpXzIxMXJldENlNXR4czFqZ3R4MllEUUMtTU1TUXctLU51YmNleU0tVlc4bUV5WHZrSEEwdTBqZEY1MllRUkNfR0tieTl3dF9lRHQwRGdPY2RVMkloSUl5QlJ0TWlfa1VTVTN5Z0FUb3o2c1NCSEFzTU40dUFmemc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "46b587125ec0",
+      "title": "Expedition Cruise Ship Hondius Delayed for Additional Cleaning - The Maritime Executive",
+      "published": "2026-05-27T17:40:08+00:00",
+      "summary": "Expedition Cruise Ship Hondius Delayed for Additional Cleaning&nbsp;&nbsp;The Maritime ExecutiveHantavirus Outbreak On Cruise Ship Triggers Intensive Cleaning Measures&nbsp;&nbsp;NDTVShould you avoid cruises after recent hantavirus concerns? Experts answer&nbsp;&nbsp;The Indian ExpressNetherlands Joins Poland, Norway, Greenland, Iceland and Argentina as Hondius Faces Temporary Delay Before Arctic Deployment: Latest Update You Need To Know&nbsp;&nbsp;Travel And Tour WorldExpert says to stay alert",
+      "sources": [
+        {
+          "name": "The Maritime Executive",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYTJvUk03UGRmMExDTmZINWJTcVJWT0lNZUk3dzgzZDFTUEZZMFJJSjQ5M1NCRGpRMDR4dVNyNTFXZHpDZmtWWkc3ajlPeHZVcTZxY3JwckRnS3A3dlBleHRIRlhnbFVjb2xqUDU5VV95QTdVWVdCMUJ2QXYydWdSeEVmS1JGZUFOanVkVlZkSGthbUdMQWprMHJnRUlxZXUxdU9R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "25df83e1b8ee",
+      "title": "Crop Burning, Air Pollution Linked To Rising BP Risk: AIIMS Expert - The Times of India",
+      "published": "2026-05-27T17:15:00+00:00",
+      "summary": "Crop Burning, Air Pollution Linked To Rising BP Risk: AIIMS Expert&nbsp;&nbsp;The Times of IndiaStrong communities can help control hypertension&nbsp;&nbsp;Hindustan TimesWhy Are “Healthy-Looking” Young Indians Suddenly Facing Serious Lifestyle Diseases? | Health and Fitness News&nbsp;&nbsp;News18The Hidden Health Cost Of Academic Pressure: Why More Teens Are Facing High Blood Pressure&nbsp;&nbsp;Times NowHigh Blood Pressure in Younger Adults: Why Cardiologists Are Seeing It Earlier&nbsp;&nbsp;B",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTnEyQl9LeHFIdHo1LV9nNldaVTctZ2poS0RPcUl0VW1tY1VqRExIbnl2RmtTZEgtcF83Q0xtZWhHOXE1QUNrNS1QY3A4aTdFQnI4eXJZbllUdlpKZC1hbGN3UUVBVmh1c1pXOTQwLVU2dDV5OTNIOEdFU0R3LXpMcWtaUExERW5CYzFwWkt0cUZhXzd6clRzRkp3NzhQZVR0dzd0cmRESnUzdVZFdzh6R1RsUHhSLUNOa3ZwSkU0eUpNUjA2bndHMTRlQlh2LTRQakpz0gHYAUFVX3lxTE1aVXFnNWZqSHl2QW9Kc0JVZ29USWNYclloZlFQYlN6cXV5T2lCUF80YjE1ci1iaTFtbEd1bnpiS21rWklnbU5BdFd6ZWtWU20zd2QyZTBNSjQzRlBUVjY1RU1vOWxKc1kyd29MREFKRTg3STFfT1c1TExZTVBzNVlfSU9CcDkxQXFjdmtpV1BVR2pJc3U4VVdYQTRtS0RzVExuUDNLUmtFcTNQRkxCUlNUNW5jNVUzVFdkRGlRbmNUdi1nT2hid2VIa282cG5SQVFvZGl3eEFqNA?oc=5"
         }
       ]
     },
@@ -30,50 +54,14 @@
       ]
     },
     {
-      "id": "f08c1123663d",
-      "title": "Alcohol Policy Efforts Sharpens Focus on Liver Disease Harm - EMJ",
-      "published": "2026-05-27T16:19:17+00:00",
-      "summary": "Alcohol Policy Efforts Sharpens Focus on Liver Disease Harm&nbsp;&nbsp;EMJBarcelona Institute for Global Health: Chronic liver disease in Europe: A preventable crisis going undetected&nbsp;&nbsp;European AIDS Treatment GroupChronic liver disease threatens millions across Europe, report finds&nbsp;&nbsp;News-MedicalChronic liver disease in Europe: a preventable crisis that goes unnoticed&nbsp;&nbsp;Atalayar",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEdMUVo1QS1iN0hCSkpfa2xnWWJmZFd2X2Rfb0Y0ek53TWp3cG53MUNKWXZ5TkFUeEN5OWo4bTBob1EyV2ptRHZfZUQwa1I4QUY0RGUya2NPamo0N2xCZUYtV1p5eVFjVU9rTGF2ZDVQaW9FalB3OS1aUmdVRm5ybHd3VU9FSlVPMGhxaFJNb0hrZ1pJeWwzemVDTGhVRl9PcFVGRXVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3aae95700716",
-      "title": "Number of hantavirus cases from cruise outbreak rises to 13, WHO says - Xinhua",
-      "published": "2026-05-27T16:05:00+00:00",
-      "summary": "Number of hantavirus cases from cruise outbreak rises to 13, WHO says&nbsp;&nbsp;XinhuaHantavirus Case Confirmed As Evacuated American Passenger Tests Positive, Another French Passenger Falls Ill&nbsp;&nbsp;NDTVSpanish citizen evacuated from hantavirus-hit cruise ship tests positive&nbsp;&nbsp;CNNHantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says&nbsp;&nbsp;ReutersNew positive for hantavirus confirmed among quarantined Spaniards&nbsp;&nbsp;Xinhua",
-      "sources": [
-        {
-          "name": "Xinhua",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9scEZMWncwbjVFZmhRRHBaNlk3MU11SU1makh6RGRiVnFtekhuTHhVNldwVm03ekJreFR0NWlxMi16aE04bU00WV9xTGNPbVM0Yi0zY3UxRlBxNFNJdGFackNYVDhQeDBqdDFYVlMxbXlqTEQ4MEo4X0haSG4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "09f172195094",
       "title": "WHO warns of 'catastrophic collision' of Ebola and war in DR Congo - The Hindu",
       "published": "2026-05-27T15:34:27+00:00",
-      "summary": "WHO warns of 'catastrophic collision' of Ebola and war in DR Congo&nbsp;&nbsp;The HinduEbola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns&nbsp;&nbsp;BBCEbola Outbreak in DRC and Uganda: Situation Report #2 (May 26, 2026)&nbsp;&nbsp;ReliefWebWHO Director-General's remarks at the Virtual Ministerial Briefing on the Bundibugyo Ebola Outbreak – 25 May 2026&nbsp;&nbsp;World Health Organization (WHO)WHO chief calls for DRC ceasefire to tackle Ebola outbreak&nbsp;&nbsp",
+      "summary": "WHO warns of 'catastrophic collision' of Ebola and war in DR Congo&nbsp;&nbsp;The HinduEbola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns&nbsp;&nbsp;BBCEbola Outbreak in DRC and Uganda: Situation Report #2 (May 26, 2026)&nbsp;&nbsp;ReliefWebWHO Director-General's remarks at the Virtual Ministerial Briefing on the Bundibugyo Ebola Outbreak – 25 May 2026&nbsp;&nbsp;World Health Organization (WHO)One thermometer, no soap: Congo displacement camp fights Ebola threat",
       "sources": [
         {
           "name": "The Hindu",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUFRMEhBbjJZSHF6S2JRNmNLc29fRzJRR3NCTGh1UF9QNFNvUnBvOXpDRERHbmdsZjVZc0ZVV2tfSm04c3o4WWs2SmM4d3o3UFNoem9QSUV5RGwtZE1hU2RaMHZtSjhJcnhmQ2FzaGo0b1NpQWsydEsybG01N0JZOV9neVpyd0ZmTHNlTVBMT3RXcE9PZVRuXzVoV2JDQ3RjT1lHVmhGU2REdm1tRkhrZFg0dXo5T3M2MDdxZl9fR3c4Z1BhYXcw0gHOAUFVX3lxTFBlSHc3VXI2d1BwQXZvbzRySWhheXRqSURVWjFSOW5mQ0NHNGpiMmxhc0FmSDZQRE1LVU9PWllxclJNcld5N0laWHpvQVhNZTdvQWZ5dm01RXhMNHZ5Z3JqWXlTTHNsdlBoZW1wTWszcDBRQzVNSGVCamJPaXRIMEttWkVYc1pUR3FKd210UWg2ZXNScFhRdDdGVFZ3YjRDS0pIQzljMFNOV2JDbXhlWE1fZE9LQUYyRTh0T0FiNHphYi0zY00xT1hxMWlPMzhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec18d636cd63",
-      "title": "Nutritionist List Foods That Can Help Manage Anxiety, Poor Focus And Low Mood - NDTV",
-      "published": "2026-05-27T15:25:05+00:00",
-      "summary": "Nutritionist List Foods That Can Help Manage Anxiety, Poor Focus And Low Mood&nbsp;&nbsp;NDTVWhy Sharing a Meal With Someone Is So Good for Your Health, According to Experts&nbsp;&nbsp;Real SimpleIrregular Eating Habits Raise Depression Risk by 1.5 Times&nbsp;&nbsp;아시아경제Can food improve mental health?&nbsp;&nbsp;Mayo Clinic PressDiet not just tied to weight, but mental health&nbsp;&nbsp;Tahlequah Daily Press",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFZuMlhqLTIxaE9pam12cE9fQnc0Q2VxemZRZENrbTJtTlhUOEdLLUZ6dEkxaTgyQXFndWx1OGh5d0pDSGtxdG04TlZKaXh5ZE9CTVpzMmoyYWlJcmtGYnVlMjRtYVpkQmQyQlRsekd3a0d1YTA5bmhGYVpONjVDalMxTE01NEZVQ0xDZGwyUUt0MWJWS0lWa1VLcGd0RjJTeEtTRWNjbWxqblEwLTd4VzdXUdIBzAFBVV95cUxPeUtiLS1mZU5FY29PTVFTaGtEWElabXlXd2s1b2dqVGRra0Z5dlppSjBwRWQ3WHhlS2hWRjZBaGNkRm8wbm1HZVctdkR4Mmo5eVJIOHNic0lpM043ZGNpY2toYVZOcTZkZzhFb0MzQ1U2WHdnVFI0cUZveGtReHJldlJnZ2lOVEJ2N3p4UlRnRmFGRFI2XzVYZnlUTmxXMHlUQmxSbXBYOGlaYjVlN2p2WFVzakhQcHh0Q2gxV2RGWnk5TVNmN2N4TjdfM0Q?oc=5"
         }
       ]
     },
@@ -90,6 +78,18 @@
       ]
     },
     {
+      "id": "a3c8634f3db3",
+      "title": "What a Mega-Study of 87 Different Studies Reveals About Cycling’s Impact on Mental Health, Mood, and More - Momentum Mag",
+      "published": "2026-05-27T14:29:31+00:00",
+      "summary": "What a Mega-Study of 87 Different Studies Reveals About Cycling’s Impact on Mental Health, Mood, and More&nbsp;&nbsp;Momentum MagCycling could be accessible tool for improving brain health, review finds&nbsp;&nbsp;ET HealthWorldCycling can reduce symptoms of anxiety and depression, strengthen social connections and sharpen cognitive function, study shows&nbsp;&nbsp;Road.ccCycling may significantly improve brain health and well-being&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "Momentum Mag",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXdsWXBDbnJLOWhLMGhQZ2FpNTRNM0NEOTBtMGFGUkZrRUZCU09sakxXRnJpNElocG5DNTNLOVB4SWFZNS1JQjR2VVd4WURnSkt0a01zck1BZmIxS1FYRm9wV3prUGhJdnctY3BJQlJJUTB1WndaNW1lSkpHVzhqMGYyTUhxRHROZWcyNU5aeFZkLWI5SmluandWWnY1QTdyVzFxb1pZUDJRaXh0dFFadldRS1BDWXo0RnplNXpudE5YX3BCZmc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5e9d201f1eee",
       "title": "Alternaria Allergy in Youth Signals Lasting Asthma Risk - Medscape",
       "published": "2026-05-27T13:09:39+00:00",
@@ -98,6 +98,18 @@
         {
           "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUm9IVC1VYUk5c3lDTHFoSndTMGdNMElEbmphdGlCcXdLblRHeTJIR2p0ZC1UOEZERXpsY29OTVVxNE96T3otMjVXRlpUNTNOcGpTbVNOQTVSVFoxbXdtZlNSY3ZOQW9LaWV3NU5Ddkx6ZWJMa25GZW96VFhOQk9TTldhZjJUaW5YdUdYeDFJb1lpX1E1RWFEcUlUNDM1Y2ZoM1RiTw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "afd8025433a4",
+      "title": "Ebola Vaccine Market Size, Share & Growth Analysis Report, 2034 - Straits Research",
+      "published": "2026-05-27T13:01:37+00:00",
+      "summary": "Ebola Vaccine Market Size, Share & Growth Analysis Report, 2034&nbsp;&nbsp;Straits Research",
+      "sources": [
+        {
+          "name": "Straits Research",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlowU0lyc2V3UFNaWGQ5ZTl0QTliQU1tQ2d4bVI1MVUtMkRudXlCNnc0azVSdDlpM0NZZGNObmlWeUk4a09ROFVfY2VJSWI3eXhxZTlxXzdoLUlzQ19jR0FhVGhzcDRHM2VKbW5LYThrc2hJOFNNNHcyamhKQ1dlSlQ0dnFMb2taZFJMTjNn?oc=5"
         }
       ]
     },
@@ -114,14 +126,38 @@
       ]
     },
     {
+      "id": "4784a45cec76",
+      "title": "Chandrayaan-2 Dual Frequency Synthetic Aperture Radar (DFSAR) Observations Reveal Subsurface Ice in Lunar South Polar Regions - isro.gov.in",
+      "published": "2026-05-27T12:36:26+00:00",
+      "summary": "Chandrayaan-2 Dual Frequency Synthetic Aperture Radar (DFSAR) Observations Reveal Subsurface Ice in Lunar South Polar Regions&nbsp;&nbsp;isro.gov.inChandrayaan-2 discovers possible ice buried on Moon’s South Pole&nbsp;&nbsp;India TodayStrong evidence of subsurface ice under craters in Moon's south polar region: Study&nbsp;&nbsp;Deccan HeraldISRO detects possible subsurface ice on moon using Chandrayaan-2 data&nbsp;&nbsp;The Economic TimesScientists discover possible ice buried on Moon's South Po",
+      "sources": [
+        {
+          "name": "isro.gov.in",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1NpcWJ4SHRPSktIM2JYSEJTV1JCR3RxZVdWdF9SV2h6WTlYSWVwNnJhbmxsS3BjS08xeTBaUVVCd1hlcHJYdksxaDFldlVmZ0xDMkhPczNXNXRIcHR2Sy0za29JVElaTHdGeFRIMzYwNGNDd1ZWMU9aSGJGRmViVERLYU02SWVo?oc=5"
+        }
+      ]
+    },
+    {
       "id": "63f95e881093",
       "title": "Bangladesh’s measles outbreak lays bare governance failures - East Asia Forum",
       "published": "2026-05-27T12:00:00+00:00",
-      "summary": "Bangladesh’s measles outbreak lays bare governance failures&nbsp;&nbsp;East Asia ForumBangladesh measles cases: Hundreds of children die within months&nbsp;&nbsp;BBCSuspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ET HealthWorldMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraMore than 500 children have died in an outbreak that the world is virtually ignoring&nbsp;&nbsp;NPR",
+      "summary": "Bangladesh’s measles outbreak lays bare governance failures&nbsp;&nbsp;East Asia ForumBangladesh measles cases: Hundreds of children die within months&nbsp;&nbsp;BBCMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraMore than 500 children have died in an outbreak that the world is virtually ignoring&nbsp;&nbsp;NPRMeasles death toll hits 560 as 5 more die in 24hrs; over 1,000 hospitalised&nbsp;&nbsp;The Business Standard",
       "sources": [
         {
           "name": "East Asia Forum",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFpLdXRmZmNXYXJFbDRPSGdvRk9QUHRuNVBrbUxpOWRsYkxyd18yeDI5YjJVbVNoejBfY250N1JTWXNLUFVJZ21vT2xzUlRCOFdFM2wtRmY3ZDYyUTdIZ3l1TWN0MjRIeFFITTFQTHczeWNoX201dk0xamVHYUI2aGllMmt0OHd4TlJjQzJ2WE9EM0pjcG9MbWl0OXA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f652eb1ff3e3",
+      "title": "Astronomers identify ‘Loktak protocluster’ in the early universe named after Loktak lake in Manipur - The Times of India",
+      "published": "2026-05-27T10:43:00+00:00",
+      "summary": "Astronomers identify ‘Loktak protocluster’ in the early universe named after Loktak lake in Manipur&nbsp;&nbsp;The Times of IndiaIndian researcher names newly discovered galaxy structure after Manipur’s Loktak Lake&nbsp;&nbsp;The HinduJust 1.2 billion years after the Big Bang, galaxies were already shaped by where they lived&nbsp;&nbsp;Phys.orgManipuri Astrophysicist Leads Discovery of 12.6-Billion-Year-Old Galaxy Structure&nbsp;&nbsp;Northeast TodayIndian Scientist Discovers 12.6-Billion-Year-O",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNS1hIVGZaVWNZSWdwQm9aWmdZbXZPTTQ3ZG5mM0hndmNocng1SHZEb213RDNuX2tWR1lmWFNSMTBjaEVRRWVzVFVNNWZ6VHJqVnoySGJvcGxBYmFUX1lSTGNKODVxUkNvcms4cU9DWXU5dXB3Mk4yLWRmd3MwTVZuSDRxWGVvNW9EVFlJa05BdW1JdTBQamZpckowOEFxd3JlbjNxLThsYUllNzJIRHFUVlFyVi1sU1NKWklEZDVHakxRcmdpdkMwRXl0TTN5VTY0UmtKeDlKRkF5VkUxRk1ZbjUxQ0RrOUlzOTVwWjJXU0Q4VWd4RU9ob0w5d9IBgAJBVV95cUxNbjh0OXlxalJJVEJZMGVpU29GQlY3N3hDT2JVamlHOVV6aWo3T1M2TUktZGdudHJSYTRmYjY0YVNiOGFsMEl2ZGNHVHM2T2FsY0VEZ3FBU240ZDgzLXo2dkhRS0NKSlh4UmJDQ00xazN6VW56LWhsOW1WZk5UTXZqUUlEcWdyQVNLVUd5WTZDUHBuRzNtNWJtMmhxSUZFb2NmSzRZTHJfQWx1eXBLTGI4ZlpzenJIWU42TlFReFU2OF8wbmZrX0NYTXZIX2FFVU1hcnQxeDFFdkRTa3FKX2Y5Z2dBRmdjNFNkSGdRckRmQk83UTc1WFlvZk5uREZQYWdL?oc=5"
         }
       ]
     },
@@ -150,22 +186,10 @@
       ]
     },
     {
-      "id": "1a6b089f86e1",
-      "title": "Can Beetroot Juice Help Lower Blood Pressure? - Health and Me",
-      "published": "2026-05-27T08:30:00+00:00",
-      "summary": "Can Beetroot Juice Help Lower Blood Pressure?&nbsp;&nbsp;Health and MeSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "Health and Me",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZXFtUWFiYWJoTlhNMG56VTZXRnY1cHdYcFZuQUhvTGVCelBaWnlzRkZaWHRXSXZqM0R0SDBvRU85SklYVUVsWldkUkl4ZmQ0b09vVDVleUliRW95VVdod0gwZmF5R0pJaGxtTTl5ZldodXJOWWJuaU5PVEV1eVo0eGZxeU5EdzB4VXNMU2hJS3ByeEE0QkVNLUJrS3NQcEItVGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4858bbd132af",
       "title": "Ageing is shaped more by lifestyle than DNA, says longevity expert; suggests simple habits for healthy... - Moneycontrol.com",
       "published": "2026-05-27T08:13:31+00:00",
-      "summary": "Ageing is shaped more by lifestyle than DNA, says longevity expert; suggests simple habits for healthy...&nbsp;&nbsp;Moneycontrol.com8 Habits That Will Help You Live Longer, According to Experts&nbsp;&nbsp;Good Housekeeping3 Daily Habits That Can Reverse Biological Aging&nbsp;&nbsp;Next Big Idea ClubHow to live longer: The overlooked habit that may matter more for longevity than diet, according to a doctor&nbsp;&nbsp;GB NewsThese Healthy Habits Can Add Years to Your Life!&nbsp;&nbsp;cbn.com",
+      "summary": "Ageing is shaped more by lifestyle than DNA, says longevity expert; suggests simple habits for healthy...&nbsp;&nbsp;Moneycontrol.com8 Habits That Will Help You Live Longer, According to Experts&nbsp;&nbsp;Good HousekeepingThese Healthy Habits Can Add Years to Your Life!&nbsp;&nbsp;cbn.comA longevity doctor said you should add 3 habits to your 'health portfolio' to slow aging&nbsp;&nbsp;Business Insider3 Daily Habits That Can Reverse Biological Aging&nbsp;&nbsp;Next Big Idea Club",
       "sources": [
         {
           "name": "Moneycontrol.com",
@@ -194,6 +218,18 @@
         {
           "name": "Hindustan Times",
           "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdkZnb2VRbmRvNkRSaDRQRElNWXNtS0staXZPc0NUdE9EV1hna0tIU2MtMkVTd1lVMHNYWjdZTHFXVldmVDdPTXdONU8tamwzLURsY3RlbnVKM08zWHlHNjFrbWw3WkpnSmV4NHN2MWlfTkdTNUpWbTRSVXp5WTZlSDFOal9nUHo2ZEJVaWZKSTZIVlMySk5vN1A5QU1KVmt4Z2Q2RzAwVHRGaEhBVDl5cTZKSEdRWlUtTUF5UGFURzVXVlM5VDg5OTNkXzlkYW44amZWOUFONTZWWlB0QmVGdUcxX1FHOHFNY0xxVDFLZlpnMzEyV0o4TmVhNmptX3QxdHBocFJERHRQUzNqS0JGZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cca6dc552d3d",
+      "title": "Hantavirus Outbreak on Cruise Ship: Cases Rise to 13 - Devdiscourse",
+      "published": "2026-05-27T07:14:00+00:00",
+      "summary": "Hantavirus Outbreak on Cruise Ship: Cases Rise to 13&nbsp;&nbsp;DevdiscourseHantavirus Case Confirmed As Evacuated American Passenger Tests Positive, Another French Passenger Falls Ill&nbsp;&nbsp;NDTVHantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says&nbsp;&nbsp;ReutersSpanish citizen evacuated from hantavirus-hit cruise ship tests positive&nbsp;&nbsp;CNNSpain confirms second hantavirus case among quarantined cruise passengers&nbsp;&nbsp;DD News",
+      "sources": [
+        {
+          "name": "Devdiscourse",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjlXMWdrT2t4VHJJa2JwZ181UjJUdlBkU2hrQWxKaWZLbEVRcXdJUnRRemVkbk94MHFzWml5bnM1S2s4cTNCT2oyMW0zTHlFWjF5cHR6WUNPSVZRVU5xbFVqaHU0enQxSUtObDZKenlfa0c2MldXUmFfd2dHejRYLWI0UzZmUWdORTFUOHVxcHllVUllX2V1VzRRRGpiY3d2YzBEZVNn0gGrAUFVX3lxTE9mazNUWGdxOFBsckJ1SDBwMjVUQUxfZDluc0VUVWM5bDc1MXhoZDNlUk9aN3d6ZDZxWjhoYzBoR3dMVTdUTm5MVUxlSzR3Szltbjh2RmY0SGNTZTN4RE5rT0JXZmtkTUZ6UUtaQTFpVG5EdndZS1ctM29qQUJ4SEl6RlI3Mk9lakpka0lzM2lTVU9nSVpraWpzX2xFazJySXpoUnRjMXh2VDhLSQ?oc=5"
         }
       ]
     },
@@ -237,11 +273,23 @@
       "id": "77811939b8c9",
       "title": "Russian scientists develop new vaccine against latest strain of Ebola virus - News On AIR",
       "published": "2026-05-27T03:26:38+00:00",
-      "summary": "Russian scientists develop new vaccine against latest strain of Ebola virus&nbsp;&nbsp;News On AIRHas Russia developed a vaccine for Ebola strain? What health minister said&nbsp;&nbsp;The Times of IndiaNew Ebola outbreak shows how market failure delays vaccine research&nbsp;&nbsp;The HinduUK scientists developing Ebola vaccine that could be ready for trials in months&nbsp;&nbsp;BBCNew Ebola Vaccine Could Help With Rapidly Spreading Outbreak (Live Updates)&nbsp;&nbsp;Forbes",
+      "summary": "Russian scientists develop new vaccine against latest strain of Ebola virus&nbsp;&nbsp;News On AIRRussia developed vaccine against new Ebola strain: Health Minister Murashko&nbsp;&nbsp;ET HealthWorldNew Ebola outbreak shows how market failure delays vaccine research&nbsp;&nbsp;The HinduUK scientists developing Ebola vaccine that could be ready for trials in months&nbsp;&nbsp;BBCNew Ebola Vaccine Could Help With Rapidly Spreading Outbreak (Live Updates)&nbsp;&nbsp;Forbes",
       "sources": [
         {
           "name": "News On AIR",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2pFbXhkQ1ZGUW9vMkx0VS1pUjFOT09Ybi10Y21UT2N2S0ZDNDV3STVzZkdzSzhlazdXUWxONUhEY2d5Um52RncxN0FveUJVWmVFRUxmZE9zemRpbmlnYmdENEVTbXNzRTY2b1pVOW1pa3J2dlQzMDBFZGtBeU1qdk1QYUNVRFVrNGFobGZidzV3YjExN0Z0Q0tlWDBaRlBNSlFJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "36d9b2d308b7",
+      "title": "Can low vitamin D make Inflammatory Bowel Disease worse? Experts explain the hidden gut-inflammation connection - The Times of India",
+      "published": "2026-05-27T01:30:00+00:00",
+      "summary": "Can low vitamin D make Inflammatory Bowel Disease worse? Experts explain the hidden gut-inflammation connection&nbsp;&nbsp;The Times of IndiaScientists Just Connected This Vitamin to Surprising Gut Health Benefits&nbsp;&nbsp;AOL.comVitamin D does more than build strong bones. Here's why kids' gut health depends on it&nbsp;&nbsp;Florida International UniversityNew Study Reveals How Vitamin D Could Calm Gut Inflammation&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYlJSLTh4YW1iQjl0aGszRnpub3JhdjNqSTJ2aVpsQmt4bHZuemZEbEE1YmZTZG92QXNRMUE3WUpHNFd4NWhyaFV0MENEaW1HeWdzN0JFSGNaOVMzYWVJTmJKZDRSWWp3VW83NlZoVUtwVzQwNGhBdkNDZWJmdkw1U3JaQklnMTFjVjcyU1FIazBTelJoUVRGeGhoN0xFX2JpM3RtMTk1TTN4aWc5dkFkMlpIUEtkZmxnbjR0eHpsSkN3dkoyNGlEdW9COFZzTUdETTFsdjVVc3ZpRVc1aVJydDZSYmQ5Z1g4TG9Na0RhZlBrWElLVVJEeHFTQ2FQZ2Rld0l2dER5d0FIQdIBkgJBVV95cUxOVHRCcngtY2Iyb1JoLW5iV3dBSVlPeHlGRmRnSG5jQ0VyTnR6TjBzRkJxSEwzTl9FMFhPanZ5UnZ1Qy01RXpPNURkMHlTc2ZJekYxM1h0SnhLTjZLLVRwXzM3OFZiSFJxa19nUzZzYlJnTi1MLXYxUzRUMlZZMHNUU2dtTFNXbHFPckRJY3hhbUtRMDdkVG9JSmpEQ0dqUjVFbmE2eGszWmlyclhGQTJZMVBON2txWWlwVlcteUV3MkpZZHBkYUtIUzhYdTVFVnJlUnBXMHF3Q1RxZjRiZXUzZFZrUHFfMlRoNHFyY0wxY1ltdDhma19XbGVoY1ZhR0lJNjBzem1zZmtFNm1STVZQUzVB?oc=5"
         }
       ]
     },
@@ -254,6 +302,18 @@
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjNReHM0SUVySUd1RmxNWGU4QzNuOXFMSERmQ2RsVE91VTNmX29MaFZxZ3ZqUGZxV1g1emlTMlRTUFZpcGRqYkQxQzdZeTdNWWw0cWV4dGxFRWhGWXRtYnR0d09uRG5JLUJ5dzVLWGJoaTJzMTBrYTR6MmxTcW1aTjRCYnR2dzF0V29hclhSeVVfT3c2VWlWbTM1ZFFiSGZIVEt4dU5pS3Viekg2T0d6N19BUmU3M3N6RFpyVw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cb1927ffdc60",
+      "title": "Barcelona Institute for Global Health: Chronic liver disease in Europe: A preventable crisis going undetected - European AIDS Treatment Group",
+      "published": "2026-05-26T23:33:42+00:00",
+      "summary": "Barcelona Institute for Global Health: Chronic liver disease in Europe: A preventable crisis going undetected&nbsp;&nbsp;European AIDS Treatment GroupAlcohol Policy Efforts Sharpens Focus on Liver Disease Harm&nbsp;&nbsp;EMJChronic liver disease threatens millions across Europe, report finds&nbsp;&nbsp;News-MedicalChronic liver disease in Europe: a preventable crisis that goes unnoticed&nbsp;&nbsp;Atalayar",
+      "sources": [
+        {
+          "name": "European AIDS Treatment Group",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnZRMFFCOFVhcFVPdWVSYzVRQkpoZDZ6azhORWtVSEJGRXVhdzJJUlRyWWZJLXBqbTJpQzZEMExVaHc5eWhmMElyc29JNnNzbkpydU1XWERUcjlMaXZPQWNBS1NfZ1h3U0FFN3A4T0twaUtxX0RYc2pSYWhROFZrU2dTNWdkYkUzU3JydUpleWlXdDFKOUhRSUZqTTVWZ3UydlZHeHNIaDVta2Zqbm9kdFVIdnJrYUg3cGxFbndlSEtoOXFocExEcWhjZm9CMldCaVlTQw?oc=5"
         }
       ]
     },
@@ -294,26 +354,14 @@
       ]
     },
     {
-      "id": "83909e96dd57",
-      "title": "I Took Vitamin D Supplements Every Day for a Week, and This Is What Happened to My Body - Prevention",
-      "published": "2026-05-26T20:09:17+00:00",
-      "summary": "I Took Vitamin D Supplements Every Day for a Week, and This Is What Happened to My Body&nbsp;&nbsp;PreventionMorning vs. afternoon sun: When is the best time for Indians to get Vitamin D?&nbsp;&nbsp;The Indian ExpressWoman's Doctor: Sunlight isn't enough to treat Vitamin D deficiency&nbsp;&nbsp;WBAL-TVVitamin D Protects Immune System During Winter, But Won’t Boost Running Speed&nbsp;&nbsp;StudyFindsAsk Joan: Older folks need to watch out for vitamin D deficiencies&nbsp;&nbsp;Eagle-Tribune",
+      "id": "b1fa275108e7",
+      "title": "Why Sharing a Meal With Someone Is So Good for Your Health, According to Experts - Real Simple",
+      "published": "2026-05-26T19:45:28+00:00",
+      "summary": "Why Sharing a Meal With Someone Is So Good for Your Health, According to Experts&nbsp;&nbsp;Real SimpleNutritionist List Foods That Can Help Manage Anxiety, Poor Focus And Low Mood&nbsp;&nbsp;NDTVIrregular Eating Habits Raise Depression Risk by 1.5 Times&nbsp;&nbsp;아시아경제Can food improve mental health?&nbsp;&nbsp;Mayo Clinic PressDiet not just tied to weight, but mental health&nbsp;&nbsp;Tahlequah Daily Press",
       "sources": [
         {
-          "name": "Prevention",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelFsS3NnWEhXc2t6b3k2VWZRVmlSenhzZGRKZW0yQ0lRV2ljUGpmcVJTaG5DakxFaExpMmpJUHA4WTQyUXJ4dzlUX3FycjlpTy0zYnFhWV9haVZVTXRKcUpOdHBtQy1MaFdtOFJVQkpTeVNSbEdHdE5zb3hraVM1a1JNMDFPeEhOT2RNVGFJem5mTE1MZGlQQWZTOF9ZdHFr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6acf348baa1",
-      "title": "HPV vax drive for teen girls from Sat - The Times of India",
-      "published": "2026-05-26T19:27:00+00:00",
-      "summary": "HPV vax drive for teen girls from Sat&nbsp;&nbsp;The Times of IndiaHPV vaccination drive to begin in West Bengal from 30th May&nbsp;&nbsp;News On AIRDC Drass Chairs HPV Vaccine Awareness Meet, Calls for Mass Mobilization to Prevent Cervical Cancer.&nbsp;&nbsp;Administration of Union Territory of LadakhAsha workers and BMOs should widely publicize HPV vaccination in rural areas&nbsp;&nbsp;HIMACHAL HEADLINESAfter a slow start, HPV vaccination sees an uptick: 11,000 girls receive the shot&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN054WmtOWHBKQVdRTUtRX1dmeUNsbUVXTnpoRzM0X2tkc05fYUFGQS1CWHgtcENBTWplaUE3XzRxS3MwVTZvdjlSMHZjMzVWOEExYkV1N0gxWWxKbDBXMXVyMHgyRmVBYmlsNWNEOXdoMHloWUpZY3ZFM05GV01rdzZvazlKdFRVR25VWkVSbUZFSl9CLXpoU2xiNE80U1BWYXdvaDBqRW9BN0FSZ2lpTXVB0gG3AUFVX3lxTE9sVFJOR2F4Z194QlJ2ZWdibTRDSmhCcVpscFV2NDhrZnZVNm5PRkNNY3BoVG15ODQ0RFhwdzFMSGN4dnBGbnh0aXU4NGsydjdzUTdtN0FFT05yeHdtXzduaEctSHNQR1BfN2dUNTZfeUdLUFNoVm1RSWxOb21tbjBObUh4WVZNY0xBMC1wbEV4Wk1vUS04dnF2YWZaRmdEY21RRE40YmZydGNVQ0hSQzZOZVR0cVpEQQ?oc=5"
+          "name": "Real Simple",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tcTJsT21QQnlaUFAtMnpSQWoyZVUxMFVnZzRZWFN3Q1ZBWWFBYllLR3pqcGZNcV82clF5SVZpZjRkSlpYV2RuRl83QkZTb1ZFbUdhXy1zRFA3RTNtMkVMLWFaU2t6QXltUFpYY09rcw?oc=5"
         }
       ]
     },
@@ -333,11 +381,23 @@
       "id": "3625e97b653c",
       "title": "Understanding the potential of CAR-T therapy in autoimmune disease treatment - The Hindu",
       "published": "2026-05-26T19:01:45+00:00",
-      "summary": "Understanding the potential of CAR-T therapy in autoimmune disease treatment&nbsp;&nbsp;The HinduCAR T moves beyond cancer, targeting autoimmune disease with immune system reset&nbsp;&nbsp;Medical XpressNew cellular therapy approach at MUSC targets lupus and other autoimmune diseases&nbsp;&nbsp;The Medical University of South CarolinaColorado woman's clinical trial may bring hope for autoimmune disorder patients&nbsp;&nbsp;Denver7Recent developments in CAR-T therapy&nbsp;&nbsp;RegMedNet",
+      "summary": "Understanding the potential of CAR-T therapy in autoimmune disease treatment&nbsp;&nbsp;The HinduCAR T moves beyond cancer, targeting autoimmune disease with immune system reset&nbsp;&nbsp;Medical XpressNew cellular therapy approach at MUSC targets lupus and other autoimmune diseases&nbsp;&nbsp;Medical University of South CarolinaColorado woman's clinical trial may bring hope for autoimmune disorder patients&nbsp;&nbsp;Denver7Recent developments in CAR-T therapy&nbsp;&nbsp;RegMedNet",
       "sources": [
         {
           "name": "The Hindu",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEI0dk95a3M1VUtfeW9qZWFsSmFfWU93Qkh3WlJZOGt3R3VhN2NSVmhZQjJXdFpMUGlmOXFKc3NYSzhXaDFvMUVBeldBUnJMRGY4RE9uR0hWaXR3UkFDMFUwLVRHb2ZJVmhRNnA2Z0lNd1V1aGJRY21MNHh2MG1TX2xHNjdtLUNOUmRubzY5TlE2N0JhQWU2a0NiNUhRNUNtUUNVbjhSdlMyXy1QMWVpZXI4Q0kxblBPeXJ4b0FiZkNmWWlGX2pUTVNGbEZXSUVXS2530gHaAUFVX3lxTE9jNUFWc0lhbWpBRjdBZzM2VzhXSHllNnR5VndzQ29BVmRKX01MeFZGVzFMMXZvVkNEVXdSdWw3NUVmRjFSNXlVY2NCdWdvOUUwQVBmQzRyTVZiR1MyVi1SVHFqQ2ozVEV5Y000eUctRjFDUjUzeVlCeVJQX0ZWclBxa3ZsZXRFOC1YRms4WTMyM3F2Y0pWcUNNa1FvbThoNGYydDRPUFhIbDZINWpQQlJJZFlLNFNXTXRpcG5TUG4zRS16TkFIR09WTXZvSzB3TXBuSW1hQTRxSk9R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5ecab3c13ab",
+      "title": "EAS 2026: Cardioprotective Drug–Statin Combo Reduces Secondary MACE - EMJ",
+      "published": "2026-05-26T15:03:55+00:00",
+      "summary": "EAS 2026: Cardioprotective Drug–Statin Combo Reduces Secondary MACE&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHViZGMzNGRaY2JBUER6aU01V2RiUUlsaEQzU1l2dFdHbTBTN3REdlZ5MHFYR1RHeWpKVlZIeW96TmE3cmRjOG0yYlVLbHd5dlpQU2dGTTA0WjNhUk14d1k5Y0lYNDZMMGx4UW1KUGN6ckZGUXBDclRmd09wRUZsZHdjM0FLTUoybzhwTXhDNnoxNlZ1Nzh0QnpNZ3VuSnotUjMyWjJYS2pDcnZoNndF?oc=5"
         }
       ]
     },
@@ -378,18 +438,6 @@
       ]
     },
     {
-      "id": "77a024fd792e",
-      "title": "Indian researcher names newly discovered galaxy structure after Manipur’s Loktak Lake - The Hindu",
-      "published": "2026-05-26T13:29:39+00:00",
-      "summary": "Indian researcher names newly discovered galaxy structure after Manipur’s Loktak Lake&nbsp;&nbsp;The HinduJust 1.2 billion years after the Big Bang, galaxies were already shaped by where they lived&nbsp;&nbsp;Phys.orgManipuri Astrophysicist Leads Discovery of 12.6-Billion-Year-Old Galaxy Structure&nbsp;&nbsp;Northeast TodayIndian Scientist Discovers 12.6-Billion-Year-Old 'City Of Galaxies', Names It After Manipur's Loktak Lake&nbsp;&nbsp;NDTVAstronomers identify ‘Loktak protocluster’ in the earl",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVEZCLXBxZF83R2JoZWhPVXlDY3VlYzU3bXpoS2dXR3JxMm12dlVoQmZrVm5kcngydE5lVFJRQmEtTGFyS2JQN19YX2VIdWlBdVRGTkpvSElnUEtYdnRTc3RtZ3oxNEFvY0ZfM2lhWi1EY2htMFlsZlhzeUVlZ1MzQTl0YlJNUlJkQ1lvZDZ1Zlh5ZENncHNzR0I1RlpFT0ZmelpwaWVtZVVQS1E3Vlk0R3BuS1k1aEFqdlNMUnZqVDNycS1rdS1nMEczUG1Nd3FLT0EtaG45ODd3U2JIaGgw0gHmAUFVX3lxTE5BZmtjX3hrWU00QlBzUlRFWktWdEVGMEdmdU1HRWN2WGxCcGF4WGs4Zy1BWmJpczBfbWoxZWpmR19oa1l2cGxnd3V1VFVxYnF5bDE3R2hRbTQ3SFIwcDJpWlBuX05uMFgzUjQyNTM2dklxajE4T3BCdVJoMTJBbWlfSlE5X1hfZFAtLVhsZG55SmExZ1ptMnZ2R2R3YkpURzM1ZmVZdUtFN0JkaVdjMFM4S1RVdU9LN0Y1c2xHQ0xyQjVtSENFMzRiWEhhSGV3Z3d5b3E4Tm13T0U5M0lQUFNDb1U2WVFR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2fe5eaa7ac8f",
       "title": "Yes, Stress Can Affect Your Gut Health – Here’s EYNTK - stellar.ie",
       "published": "2026-05-26T11:46:31+00:00",
@@ -414,14 +462,14 @@
       ]
     },
     {
-      "id": "417bf342639c",
-      "title": "Antiviral Drug Ensitrelvir: New Oral COVID-19 Treatment Explained - INSIGHTS IAS",
-      "published": "2026-05-26T09:19:52+00:00",
-      "summary": "Antiviral Drug Ensitrelvir: New Oral COVID-19 Treatment Explained&nbsp;&nbsp;INSIGHTS IASLong-awaited anti-COVID drug is also a milestone against future viruses&nbsp;&nbsp;The HinduEnsitrelvir Reduced Covid After Household Exposure&nbsp;&nbsp;ConexiantEnsitrelvir associated with reduced risk of Covid-19 among household contacts&nbsp;&nbsp;2 Minute MedicineResearch updates, May 19&nbsp;&nbsp;The Sick Times",
+      "id": "1ea4079341cd",
+      "title": "Pill for Obstructive Sleep Apnea Shows Potential - Medscape",
+      "published": "2026-05-26T09:19:22+00:00",
+      "summary": "Pill for Obstructive Sleep Apnea Shows Potential&nbsp;&nbsp;MedscapePill for sleep apnea cuts symptoms 44% in clinical trials&nbsp;&nbsp;India TodayNightly Sleep Apnea Pill Fast-Tracked For Approval After Latest Trial Success&nbsp;&nbsp;ScienceAlertA daily pill addresses the origin of the collapse of the airways that causes sleep apnea, according to a trial&nbsp;&nbsp;DemócrataNew Sleep Apnea Pill Cuts Symptoms By 44% - Could This Replace CPAP Machines?&nbsp;&nbsp;Times Now",
       "sources": [
         {
-          "name": "INSIGHTS IAS",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yTmQ1bFJ4OWNOekpQaHd1TmI4Xzl6U1NvVGZ0d1RwRWo3SkN3Y2EzYjY2NTBxYS1qd3ZTX0d4NUVCU1hNQVBNdkx2N0NJV0dUdlVGeWZCRThDZndFZEM1cGpFU3g3SVJaTTR0SG9MN1k3Zi1WcnhRRmJ3?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSjUwd3laa1dFbFYtdTNKdjdqQVNIZWhkemtJYnZoLW5JaGgyamtkcFRMMzlCM2tSV3lIc0luMGk5VlNRVUxQY1lzVmJLY2RreXUtMUlXcExtVFVmNThlTG1pN25LRUZISjh3bzNQZWt2WXNacjlHc2tGOWhRaS04NlVwODJkSHY5Q09QZDB4R2ZMYVdQZzNoY181Ykc1MFY5X19yT3phNA?oc=5"
         }
       ]
     },
@@ -450,38 +498,14 @@
       ]
     },
     {
-      "id": "9869c70a351f",
-      "title": "Pill for sleep apnea cuts symptoms 44% in clinical trials - India Today",
-      "published": "2026-05-26T06:13:55+00:00",
-      "summary": "Pill for sleep apnea cuts symptoms 44% in clinical trials&nbsp;&nbsp;India TodayPill for Obstructive Sleep Apnea Shows Potential&nbsp;&nbsp;MedscapeNightly Sleep Apnea Pill Fast-Tracked For Approval After Latest Trial Success&nbsp;&nbsp;ScienceAlertA daily pill addresses the origin of the collapse of the airways that causes sleep apnea, according to a trial&nbsp;&nbsp;DemócrataNew Sleep Apnea Pill Cuts Symptoms By 44% - Could This Replace CPAP Machines?&nbsp;&nbsp;Times Now",
+      "id": "2c83a5cdc0b2",
+      "title": "Ensitrelvir Prevents COVID-19 After Exposure to Infected Individuals - Rheumatology Advisor",
+      "published": "2026-05-26T04:00:00+00:00",
+      "summary": "Ensitrelvir Prevents COVID-19 After Exposure to Infected Individuals&nbsp;&nbsp;Rheumatology AdvisorLong-awaited anti-COVID drug is also a milestone against future viruses&nbsp;&nbsp;The HinduEnsitrelvir Reduced COVID After Household Exposure&nbsp;&nbsp;ConexiantEnsitrelvir associated with reduced risk of Covid-19 among household contacts&nbsp;&nbsp;2 Minute MedicineResearch updates, May 19&nbsp;&nbsp;The Sick Times",
       "sources": [
         {
-          "name": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzZQUXRRSU1tUzRGUVdiOHNBQmZ2RGE5SEhCSS1mY19IYk1LX0NabWh6R2FIQlA0UEdwV3pCUmhTUDNfM0c4T2ZjT09FSzI1c2RlN042c0xjMGhTNEFZT012TEZSSktKNEV1YWo5UnNVcTVyQW1HcUtweTdMWlpBUm9oSVRUelkxOWt0N0g3NmItUm9SNV9TM2E5RDRkZzIyNXJKeGthWVRGVWx3Y3Nnc2FrblYzOFVweTl2VkxraGV0RE3SAcgBQVVfeXFMTlNxUUpaZ0xrOFlZN0xrYUZMRWFVTDFvZDFJeFVRaG13YWZkV2J0d3JXRDJQMHU5TThCaHRybFJOMjZqd2JKeU9HNDJHWWYzdloxbXNJazZueG4waEl5cWl2RmY2eEtZYV9ZUEcxQ1hsRFJZUFhVWVIzVG8zT0JaUHFmMVBrNWNNak1fcEFZdXhqNHNRaHh3elBuWmRVN1c4ZkVTVUVmV0dETnQ4NzByRXhfMDRfd0l4WDlZNnpSMEpQSngxZnhXemI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c08860a0e03",
-      "title": "World Hypertension Day being observed today globally - News On AIR",
-      "published": "2026-05-26T00:13:45+00:00",
-      "summary": "World Hypertension Day being observed today globally&nbsp;&nbsp;News On AIRYour blood pressure may look normal today, but these silent changes could be warning you about future hypertension&nbsp;&nbsp;The Times of IndiaNo symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The HinduThe Hypertension Crisis&nbsp;&nbsp;Daily ExcelsiorPost-Pandemic Effect: Why 30-Something Delhi-ites Are Struggling With High BP&nbsp;&nbsp;Health and Me",
-      "sources": [
-        {
-          "name": "News On AIR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWtPdEhhUkd2VThNWHRId3k1TUhhOFRwTThaWXpGOWtOdG5DeVJoSTFpcWtHUUptOUF0LUtCZTltRTFZZEZIWDlXZFhFRE1maWQyLTdOT0lrUDlZM3poYUo1c0JBcjM2d2wxaGtpb205N3RPVVlmZHhEQnZSbGZZRDdSMDU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57333be1ff37",
-      "title": "Experts Warn of Surge in Thyroid Disorders Across HP - UNITED NEWS OF INDIA",
-      "published": "2026-05-25T20:17:00+00:00",
-      "summary": "Experts Warn of Surge in Thyroid Disorders Across HP&nbsp;&nbsp;UNITED NEWS OF INDIADoctor warns that Thyroid Disease is changing in India, and many patients still don’t recognise the symptoms&nbsp;&nbsp;The Times of IndiaWorld Thyroid Day: What's the science behind mood swings?&nbsp;&nbsp;news.cgtn.comWorld Thyroid Day 2026: Thyroid Dysfunction In Pregnancy May Increase Autism Risk In Children&nbsp;&nbsp;NDTVThyroid disturbances can increase risk of miscarriage in women, say fertility experts&n",
-      "sources": [
-        {
-          "name": "UNITED NEWS OF INDIA",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVWFrdmlaNGRxUU5Md1FPNE1md3E1M2EyT0p5MTVTdWl0cUJ2YVNTcmNNaXc2UXU2a3lKU051TmdKZGxXZjRNMG9SV3cyd2k1VHoxd0paLVFOSkZqQ0ZVaUJCNW1TUV9BUnhlT05mQXpWX3VjSjRzRWJXcmZFc1lSUTFMT19kdXpIWU15dFhIdkxrdmlyYmJEd2RnNS0wcGdnNnc?oc=5"
+          "name": "Rheumatology Advisor",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEFNVGtHMllTOXNGcFlBbGozdnM4bUozcnhxdWFrNlM2OXdfSzdFV1ludVgyTjhGbDViZzlxSGlyb2p3NkZqUVMwSElIM3RsVVlTMTdQZ09LY1R1MFBNZjhCXzRuMDBrOThvWXlKMXBtNnVGUHJNOW92TzVlLU14Sm1lNDFlYjhKMzBFcW9XeG1NUURURVIydjhyZ0l2enpwTTB0V01tdzYxVk5sWWFJ?oc=5"
         }
       ]
     }
