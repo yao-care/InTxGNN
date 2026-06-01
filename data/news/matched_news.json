@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-01T17:08:13.574921+00:00",
-  "total_count": 33,
-  "matched_count": 22,
+  "last_updated": "2026-06-01T21:18:01.363189+00:00",
+  "total_count": 40,
+  "matched_count": 28,
   "news": [
     {
-      "id": "ade29d6a7060",
-      "title": "Moderna and CEPI expand collab to include Bundibugyo ebolavirus vaccine - The Pharma Letter",
-      "published": "2026-06-01T14:39:25+00:00",
-      "summary": "Moderna and CEPI expand collab to include Bundibugyo ebolavirus vaccine&nbsp;&nbsp;The Pharma LetterModerna partners with global health coalition to develop Bundibugyo Ebola vaccine&nbsp;&nbsp;ETPharma.comExperts convened by WHO advise on candidate treatments and vaccines for Ebola disease caused by Bundibugyo virus&nbsp;&nbsp;World Health Organization (WHO)CEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPIHow Investors Are Reacting To Moderna (MRNA) CEPI Funding For",
+      "id": "78d787af1805",
+      "title": "Urgent: Confirmed Ebola cases surpass 300 in DR Congo: official",
+      "published": "2026-06-01T20:11:45+00:00",
+      "summary": "Urgent: Confirmed Ebola cases surpass 300 in DR Congo: official&nbsp;&nbsp;XinhuaJoint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus&nbsp;&nbsp;World Health Organization (WHO)Ebola recoveries bring signs of hope in DRC as suspected cases emerge outside Africa&nbsp;&nbsp;CNNOver 40 dead in Ebola outbreak in DR Congo and Uganda&nbsp;&nbsp;NBC NewsWHO chief reports 5 Ebola recoveries as a new treat",
       "sources": [
         {
-          "name": "The Pharma Letter",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcUlIZHpqWEx3bWh2UGF2SVExV3ZQWkVKVHpWYWxuSWVWZEV4ZTFmZVpVNzlseERudWdJeHgtZzItdFlQbWh4WnE2QVhDd0ZkOUN5VjFpa2RTQ1R5bXVUX09CeklNaExkUUZuNlUxdXN5cVRNNGp2NkFzREJKWDJPSWktQXdyRWF0SnBLblZMd2lZaWhWYkFVMkIwMzdpMDhrZnBJbXZpTUlPODhHWXl0WUFvNjNxajQ?oc=5"
+          "name": "Xinhua",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rd2lfMmlNb19oSV9IVHFqcTlXenZHQTNrRjJXcU1zTElfLWRZbjF5RXhSS0xIUnlVbENuWkFWMHBVYWltcEpxZnNmN1I1UTBpLUdVY1BBQmxKcXdSV05fVXFBLWZFTEhQUWh1SFI5d19XMXRkb3U1a1BxOUw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -24,17 +24,23 @@
       ]
     },
     {
-      "id": "f9ac50bbd609",
-      "title": "WHO Chief, Congo President Meet as Ebola Outbreak May Be Far Larger - Global Banking & Finance Review",
-      "published": "2026-06-01T14:14:54+00:00",
-      "summary": "WHO Chief, Congo President Meet as Ebola Outbreak May Be Far Larger&nbsp;&nbsp;Global Banking & Finance ReviewJoint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus&nbsp;&nbsp;World Health Organization (WHO)Ebola recoveries bring signs of hope in DRC as suspected cases emerge outside Africa&nbsp;&nbsp;CNNEbola outbreak: DR Congo celebrates recovery of five nurses&nbsp;&nbsp;BBCWHO chief calls for r",
+      "id": "adbbe2f36783",
+      "title": "Magnetic field during catalyst synthesis triples ammonia yield",
+      "published": "2026-06-01T19:40:02+00:00",
+      "summary": "Magnetic field during catalyst synthesis triples ammonia yield&nbsp;&nbsp;Phys.orgClean Ammonia From Polluted Water Breakthrough&nbsp;&nbsp;Farms.comNew ammonia-making method could upend one of industry's dirtiest processes&nbsp;&nbsp;Phys.org",
       "sources": [
         {
-          "name": "Global Banking & Finance Review",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXMxVncyeXZ3Szdablo5ZEhnZlFGTktnOWt3OWtqYUNEMERzZHNBcFVyNklvMjd3RkNiTG02cXdzMzNjOVN3NXVYQnUxVUZ4VDk0NXpjSGptaTZmeVRVblRYejRBLUh3QmRFb09jbkZKR2tkUk81NTdlWUlac3U5NV9qZGdzUUxyX2RyS0ZJZDFsU3ZwM2doenpQRm8?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQmxETGgtOGFXb1Z1aUFSZVZsRUE1SUg5eF9taXphWEk1Sk4tYUJyaDQtckVOajdxN2haV0M5QWxVVlVua3hKdEt1ZFEzUXRpNFNmUGhxbHJDSWVnV3I4UDNNekdhd0JWbmVSWFFQZWpuSnpNWG93ZWYwOHo1OXd4clVn?oc=5"
         }
       ],
       "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB11118",
+          "keyword": "ammonia",
+          "name": "Ammonia"
+        },
         {
           "type": "indication",
           "disease_id": "7270_12900_54838_12306",
@@ -44,27 +50,14 @@
       ]
     },
     {
-      "id": "85253bdec63f",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus III: reflections from a Border Health and Point of Entry perspective - World Health Organization (WHO)",
-      "published": "2026-06-01T13:50:41+00:00",
-      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus III: reflections from a Border Health and Point of Entry perspective&nbsp;&nbsp;World Health Organization (WHO)Hantavirus cruise ship to resume sailing after deadly outbreak&nbsp;&nbsp;The IndependentThe MV Hondius has been cleared for voyages following a hantavirus outbreak that claimed the lives of three passengers&nbsp;&nbsp;Українські Національні Новини (УНН)Hantavirus Outbreak: Why Investors and the Travel Industry Should Watch, No",
-      "sources": [
-        {
-          "name": "World Health Organization (WHO)",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNRktvd2xiNHJPU2dCeXhfTVNHLWhfNzlHc2NyTHdxUF83UThDTjlUd2dUTzdJWEJ2S2tJR1N5bUdVUFprQUUxemhCLXZmdDhYMGpyLVZMZTIzbHBwNlFYbWM0TDB5c3BKQl9tWlRyNHFxelV3amctQTIxOGNsakdoOU4wRksxZ3BGQlp2eGRSZGpHcThBcTlYUWRvbXB2Vk1vWXVEU0hfd2F5U3p3T2M5NXZKWWJfb0JZOTdjUjMwdnV2NlliM29zejItcE1kcURkMTBiVWdiTDdQLXp2MFNaTldvR3BhbnVEeDNEc1JFcGdac1VqMjhzNnFyUWZhNXpuZ3J0ejJFaGVob2xROTJJNENxdHVFVUJFdmp5eVoya0dmS1N4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b22c00790a55",
-      "title": "Bangladeshi doctors brace for surge in deadly measles outbreak after Eid travel - Arab News",
-      "published": "2026-06-01T12:23:41+00:00",
-      "summary": "Bangladeshi doctors brace for surge in deadly measles outbreak after Eid travel&nbsp;&nbsp;Arab NewsBangladesh: Measles outbreak tops 70,000 cases in 2.5 months&nbsp;&nbsp;Outbreak News TodayBangladesh Measles Outbreak Deaths Reach 585 As 2 More Children Die&nbsp;&nbsp;NDTVAnother child dies with measles symptoms in Faridpur&nbsp;&nbsp;Dhaka Tribune‘Measles’ claims another child in Mymensingh&nbsp;&nbsp;bdnews24.com",
+      "id": "ee1b2c78ab46",
+      "title": "Moderna and other groups get $60m to develop Ebola vaccine - Arab News",
+      "published": "2026-06-01T18:23:08+00:00",
+      "summary": "Moderna and other groups get $60m to develop Ebola vaccine&nbsp;&nbsp;Arab NewsThree Ebola vaccines in development amid growing outbreak fears&nbsp;&nbsp;BBCModerna and other groups get $60 million to develop Ebola vaccine&nbsp;&nbsp;ReutersCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPIExperts convened by WHO advise on candidate treatments and vaccines for Ebola disease caused by Bundibugyo virus&nbsp;&nbsp;World Health Organization (WHO)",
       "sources": [
         {
           "name": "Arab News",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JM1NURWZrSVBISEhiWTNRZmc3cHVjMnV1UjhnZ2J6VFVyMk9SZTY5OWdpYzJUR0VJanJnaWpscVNoeDlkODREMDU3TUVnRElqc1AxajdB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40SzVxMkktdG1lZjNkUjNvaFkwTjh5dENEcU1wOGtlNE5SanZDTThHTDd3ak9pSVBzalozRGpCaWtPdGtzQWNhd3Nma241TnRlRElCelFn?oc=5"
         }
       ],
       "matched_keywords": [
@@ -73,70 +66,18 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4619",
-          "name": "measles",
-          "keyword": "measles"
         }
       ]
     },
     {
-      "id": "ab1c561e908c",
-      "title": "Cancer Risk Prediction Highlights Screening Inequalities",
-      "published": "2026-06-01T11:25:47+00:00",
-      "summary": "Cancer Risk Prediction Highlights Screening Inequalities&nbsp;&nbsp;EMJ",
+      "id": "a50999e6ee6e",
+      "title": "OPTIMA Trial in Premenopausal Patients: Practice Implications - Docwire News",
+      "published": "2026-06-01T16:44:59+00:00",
+      "summary": "OPTIMA Trial in Premenopausal Patients: Practice Implications&nbsp;&nbsp;Docwire NewsGroundbreaking genomic test could spare millions of breast cancer patients chemotherapy&nbsp;&nbsp;The GuardianVeracyte genomic test identifies breast cancer patients who can skip chemo&nbsp;&nbsp;The HinduVeracyte launches Prosigna breast cancer test in U.S. By Investing.com&nbsp;&nbsp;Investing.com NigeriaMillions of breast cancer patients could safely avoid chemotherapy, study suggests&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHZweEpHSlZmV2ZXRS1WU1Y3dHhhUzdZNnBDQUdRd3hscVExQmFKaHJDU1ZLWUdwSVZNczlUQkxRa2tITXFkZXJ2S3dFV0hJbHdrZFBtanNQQVpRRF9KTFlqMW5CeEFYQzVQelhETFZoLTFwTmNiNUJrcDdIWEJQZkNoNU55VG1OS1FvaGRHM1QwSjc4ZUkwYVhpLU9Jdm8?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        }
-      ]
-    },
-    {
-      "id": "a12c2182e698",
-      "title": "UK–France Launch Biomedical Alliance on Women’s Health and Infectious Diseases - fundsforNGOs News",
-      "published": "2026-06-01T10:56:15+00:00",
-      "summary": "UK–France Launch Biomedical Alliance on Women’s Health and Infectious Diseases&nbsp;&nbsp;fundsforNGOs NewsNew AI Initiative Tackles Women's Health Research Gaps&nbsp;&nbsp;Pharmacy Business",
-      "sources": [
-        {
-          "name": "fundsforNGOs News",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGwyMkVTV1VHSTZpOEdyVFozam9RalZKT3cwbmFpX0JNaW9Sa2NSdzRTeWdKSy1KNm0yTTZzM3FOOHFjX0pMRXVqMFFSbjBleFhDMHg0UFlrbEduNko5UWZob0pCRDhhSGV1Tl9KU1NiZTl0Um1VXzJCM201QVNINWo1Z3B3NnBsQWJYN0g4YWRsb2ZMRFhJeGtkTUw5MHVaREk2UXdCZy1qX3Y4dElSZFl1TG9QQ3UtTnJR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "5113_5550_5108",
-          "name": "infectious disease",
-          "keyword": "infectious disease"
-        }
-      ]
-    },
-    {
-      "id": "c5cb471f8735",
-      "title": "ASCO26: Data highlights test benefit in breast cancer treatment planning and earlier detection - Medical Device Network",
-      "published": "2026-06-01T10:52:54+00:00",
-      "summary": "ASCO26: Data highlights test benefit in breast cancer treatment planning and earlier detection&nbsp;&nbsp;Medical Device NetworkGroundbreaking genomic test could spare millions of breast cancer patients chemotherapy&nbsp;&nbsp;The GuardianVeracyte genomic test identifies breast cancer patients who can skip chemo&nbsp;&nbsp;The HinduVeracyte launches Prosigna breast cancer test in U.S. By Investing.com&nbsp;&nbsp;Investing.com NigeriaMillions of breast cancer patients could safely avoid chemother",
-      "sources": [
-        {
-          "name": "Medical Device Network",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTDJnc2U2YS00ZTVEVzhUbnBzRkpGc19SQzc3eWpGQUJaMDhjbjVXdjA2RGJLYURSdjN6WDc3VXVnSkxDeEJrTVVsRWNWX1BJQ1lCbmpWcU1lOWJrMWFYbVRnampjbkMzcU45aTZWam1laGt0cjJZbmkwdWNFNko0UnJ6cjFZUHZmSzRmdXJyejJpSFMwOW50bTVXOUpZbmw2UFg4ZVFvcm5pU29CeVc1QVpXaEpyS1dqNlA4aTJET1V4UG1oWmVVNTRlZ1htd2o4YUsw?oc=5"
+          "name": "Docwire News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzNxY0p0cEh2MUpjTlhWTXFFQWRmMGVENnYtRFpnS3d4ZEZhNUZpLXN4U1NOQ1ZMa24wZGtLMXJUVEpHN0htQmc2Ml9BUVJGSWFnQmxVRlVTTFdTV2g5MzBBYkliTUJXRzZ3Y2Rfbk4yZlpUQkt0MUpqWEU4NTN2N084clQwYkkzVUtqQnJkZ1VGMV9mVEdDVw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -173,6 +114,145 @@
       ]
     },
     {
+      "id": "0290adcb5456",
+      "title": "Research reveals fly ‘sacrifices’ sight after finding host to live on - OC Today",
+      "published": "2026-06-01T16:35:34+00:00",
+      "summary": "Research reveals fly ‘sacrifices’ sight after finding host to live on&nbsp;&nbsp;OC Today-DispatchSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "OC Today-Dispatch",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeHdZYVlPRGJiQ3l3UmdRamNTV0FoUEFsdDJndmpmdmVnamRWMFFwUDhjaEFyekY0OHowZjJsYzRZUmdKbUxGWVpCaS1vTG1hWkRmOW9IZ1FxMVVnLUttTEtsempPRHZGWDhrbWFqelNPa3VrLTlQaUEzUThObHpiQ0FhMlZaemV5VTZrQ3B1eUkxU3VaT3BtNUFZZUJmRkd1WWs0Z2NRNmZCTWlWUFBPTndRTkszbE1hajNXMWItVG5WeDNLbGVZT2trX2ZHWTh2cjRaa1hWMmxuTkpmUk9PUG8wUUtrZ3pHbVJIZ1VVb1IwOG5Nb3c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "a14800ed671a",
+      "title": "Google Wants to Release 32 Million \"Infected\" Mosquitoes Into The Wild - Gadget Review",
+      "published": "2026-06-01T16:30:38+00:00",
+      "summary": "Google Wants to Release 32 Million \"Infected\" Mosquitoes Into The Wild&nbsp;&nbsp;Gadget ReviewDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianGoogle is planning to release 32 million mosquitoes infected with Wolbachia bacteria across Florida and California&nbsp;&nbsp;The Times of IndiaGoogle's 32 Million-Strong Mosquito Army To Fight...Mosquitoes&nbsp;&nbsp;NDTVGoogle wants to kill disease-causing mosquitoes. Their weapon of choic",
+      "sources": [
+        {
+          "name": "Gadget Review",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODFZWldENDViQXVGSDNKWF9LQy1BRTlkd2VPTnJMcFh6UFlEd1h1MC0wNTdjZ211UTRjeTlXMV9BS2pyX3JHR1hWcXpSVnlTQzF2TDNzUmpaUW94bG8tZDllNG85N2dfbEUzVkZBaFlIWVVhRGNuNHc1Tkh0Z1VwcUI1Y2pGUjRRaTJVRFQ2WnFLT0VHY28xNjZTMVNkUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "01d5698bae5e",
+      "title": "Bloating, constipation, poor digestion? Oxford-certified celebrity nutritionist shares 5 common superfoods - The Economic Times",
+      "published": "2026-06-01T15:10:24+00:00",
+      "summary": "Bloating, constipation, poor digestion? Oxford-certified celebrity nutritionist shares 5 common superfoods&nbsp;&nbsp;The Economic Times4 Simple Rules for a Healthy Gut&nbsp;&nbsp;Vogue7 Things A Fortis Gastroenterologist Does To Keep His Gut Healthy&nbsp;&nbsp;NDTVWhy digestive health matters more than you think&nbsp;&nbsp;news.cgtn.comAsia's Premier News Agency - India News, Business & Political, National & International, Bollywood, Sports&nbsp;&nbsp;ANI News",
+      "sources": [
+        {
+          "name": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPZlVYSTlHWXBsaW93cWQwclFjYnc5VU1SN0UwSUxzSXVweTZsZ1FTQlhOcHNVZWpESTBOYWtOcE5iWXhHZC13djZWbFE4QU5sMDNmSzhrSHRiWmV3NGU0MkJKZ2pCLWRPd3kyZ21oZ1daSHYxbF9vb0Q3RGg4ck9QSW5aSlVGQm5nbkxYblgxemxiaml6d0pJeS1CUWNNZFBHdW1LQ0k1SzhxNThNWUpyWkRfejRkZUlheG5qRE9yYm1aNENUeGFCQjU4cjZOOE1lUm5tcDFwM0VIQU5sbmZNOEJTVTFyWXVMemQySHVzN2lxVklpRm5NQjBtb2c2Q2xaWUlTN18wenFyUTVURjFsVF80ZHBVZm9iY1pvaVlwY0JkU3NmYjNERFd2MVJXWndSUlVVX0h6bXR4cnVEZWfSAcMCQVVfeXFMUEhHMTFobEUtellyRjlzclVwNjdjdlUzWmdjcjdybU5GekR4ZFpSWGl4cW9WVDBMSHdUM09VMUhtNDBNcXBxdlV4RmM5M1BhOEJEeFNOejdvc1dWUmVZR0std1pqX1ZmNXEtLVhiRjVYdkR6ZE5Danh2SmpqUW5ublY1b0liZEdqNmI4OWg0YnVaTmdPeHBwaHBhaUZsRW91UkJ1d3RobzVXNUYwdFNSQ09XTXBtdWcySThwQzBIY09GUnhxTHdMS0plMnBSM2NDT1QwQnpDZFZlb2lxV3JkSjE2MXB5a0g5eVkycWE2S3hsY3NDTVUzdkVMRFpiZXJGem1aVFZOQ3R6Tl9pS3JDQU9McGdvemp5MUwySkljTnlmd21NNUZ5VUNSUm5iV3pmaEtYNEwwS3dqX3k5cHFQbHNUTWs?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "521d75c65c2b",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus III: reflections from the IHR Border Health and Points of Entry perspective - World Health Organization (WHO)",
+      "published": "2026-06-01T13:50:41+00:00",
+      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus III: reflections from the IHR Border Health and Points of Entry perspective&nbsp;&nbsp;World Health Organization (WHO)Cruise ship linked to deadly hantavirus outbreak cleared to sail after disinfection&nbsp;&nbsp;The Economic TimesHantavirus cruise ship to resume sailing after deadly outbreak&nbsp;&nbsp;The IndependentHondius cruise ship ready to sail again after hantavirus outbreak&nbsp;&nbsp;YahooVideo Cruise ship linked to deadly han",
+      "sources": [
+        {
+          "name": "World Health Organization (WHO)",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNRktvd2xiNHJPU2dCeXhfTVNHLWhfNzlHc2NyTHdxUF83UThDTjlUd2dUTzdJWEJ2S2tJR1N5bUdVUFprQUUxemhCLXZmdDhYMGpyLVZMZTIzbHBwNlFYbWM0TDB5c3BKQl9tWlRyNHFxelV3amctQTIxOGNsakdoOU4wRksxZ3BGQlp2eGRSZGpHcThBcTlYUWRvbXB2Vk1vWXVEU0hfd2F5U3p3T2M5NXZKWWJfb0JZOTdjUjMwdnV2NlliM29zejItcE1kcURkMTBiVWdiTDdQLXp2MFNaTldvR3BhbnVEeDNEc1JFcGdac1VqMjhzNnFyUWZhNXpuZ3J0ejJFaGVob2xROTJJNENxdHVFVUJFdmp5eVoya0dmS1N4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ab1c561e908c",
+      "title": "Cancer Risk Prediction Highlights Screening Inequalities",
+      "published": "2026-06-01T11:55:19+00:00",
+      "summary": "Cancer Risk Prediction Highlights Screening Inequalities&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHZweEpHSlZmV2ZXRS1WU1Y3dHhhUzdZNnBDQUdRd3hscVExQmFKaHJDU1ZLWUdwSVZNczlUQkxRa2tITXFkZXJ2S3dFV0hJbHdrZFBtanNQQVpRRF9KTFlqMW5CeEFYQzVQelhETFZoLTFwTmNiNUJrcDdIWEJQZkNoNU55VG1OS1FvaGRHM1QwSjc4ZUkwYVhpLU9Jdm8?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
+    {
+      "id": "e5d5afa0c19d",
+      "title": "What happens to your body 90 days after you quit smoking",
+      "published": "2026-06-01T11:53:36+00:00",
+      "summary": "What happens to your body 90 days after you quit smoking&nbsp;&nbsp;HealthshotsBreaking free from tobacco: Expert tips to quit and what happens when you do&nbsp;&nbsp;The New Indian ExpressWhat happens to your body when you stop smoking? A doctor breaks down the recovery timeline&nbsp;&nbsp;Hindustan TimesHEALTH OVER HABIT! A smoke-free life is a gift you give yourself every day.&nbsp;&nbsp;facebook.comDoctor shares 4 steps to quit tobacco smoking, and 6 warning signs that should not be ignored&",
+      "sources": [
+        {
+          "name": "Healthshots",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeUc1cC04RGh3YjZmZlNCVmdEVGxnb3BCblpiUGR1U1c5dzh0UlBZcElEaV9IQzY3RlVlbDU1Z0VIZW14bE9yQ1dEUFhCQXFrMUhKVnJGQnU4ajVTb0hXMHJyM3lpN3c4OFdaTUpDRFBYZGRiZml2QXUzZUF2Z0o0Sjl3THdJMGl3R3hMY1NKd3otQTV0ZlNWbzRQMVpEQmZzZllJekRoUFJtYXdHMWlpctIBtAFBVV95cUxQd0RqYmlPUXFsZkRybklFV1dIY0VYcVhXUFd3SVpjSUpVY1h5OTF1SEk4T0lvYklYZTkwdlEzR29xVHUtb3JmRU9WQkZXYl9sTmRNUVAwYV9ZQkdzdDJOTE5jUmQ5SXJxSENtNmcxRWQxVW5BdEZYS2JWOE9HSmEwdmVKOEZDaE11aFdwbHlJemhkTG9YbE5Cak12U1VaVFRKR3lTZndlbWR0NFluV3g2YzRZWlE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "1a62e08c2f80",
+      "title": "Antimicrobial resistance has ancient roots, but its public health threat is growing now",
+      "published": "2026-06-01T11:18:42+00:00",
+      "summary": "Antimicrobial resistance has ancient roots, but its public health threat is growing now&nbsp;&nbsp;DevdiscourseWhy the persistence of antibiotic resistance is difficult to break&nbsp;&nbsp;The TribuneDrug-resistant infections kill 38,000 Thais a year&nbsp;&nbsp;Nation ThailandHow antibiotic resistance is hitting the economy&nbsp;&nbsp;logos-pres.mdAntibiotic resistance: SMART metaphors to drive awareness, behaviour change&nbsp;&nbsp;healthcare-in-europe.com",
+      "sources": [
+        {
+          "name": "Devdiscourse",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa0ljbXJ6aS1zNDJYNmdId1lGQzJ2dk1BMm0zYW5WZE1GRXVIZW9uRl9ldWdIYWVHei1haGYtTzdzY2lDYU40RF95bUFucUp1X1FsSDNTTHc4dFZaTDBMamRjRjZfYzZiY2RiSVNLdFNVUG81TGxienNhWjhmVlByRU5qaGxzd0drak4tMUdMS3J2OEFwYmtxNWsxYXMtcjdZVm50U1Jjal9GNVhsTjhXR0J2dzIwRDVCeEd4RDg2WjNWQk5KZ3I1WVVELWVha0FhWDlYddIB2gFBVV95cUxPcGY4aVgzTmtfdlZTNzlQYk5NeE4xczlHZ3NCYklUQ29jbmU1TmpENjl6TG1UOTc4aTczbl94UzBES250SGVoaEdPWlhxbGhBNC0yRUdfemk1NHVkR0RlZW1jakxWaHNzS0pfQkdfbDFuSVNzQlN5bHg3aV9xaXdFaTJZdFQ3S1JTNkFwX0RISF9RQWsxb0d0UFNNaTFfSjNqbER2a1AxMUUzcmk5ZHBlZ3ZVby1RclFnczl4RkFiQXNpTExQUzFyRFpzNzR1V2tfZHBkV3dBQ2hRZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03336",
+          "keyword": "bia",
+          "name": "BIA"
+        }
+      ]
+    },
+    {
       "id": "090192d45fa5",
       "title": "Largest shortages in cancer workforce in 2050 could be nurses, diagnostic specialists: Study - The Hindu",
       "published": "2026-06-01T10:48:56+00:00",
@@ -205,10 +285,43 @@
       ]
     },
     {
+      "id": "bfe2a040fc9c",
+      "title": "Is your teenager spending 6 hours on screens daily? A psychiatrist wants you to know this",
+      "published": "2026-06-01T10:17:23+00:00",
+      "summary": "Is your teenager spending 6 hours on screens daily? A psychiatrist wants you to know this&nbsp;&nbsp;Moneycontrol.comDistracted India: The hidden cost of smartphone and social media addiction&nbsp;&nbsp;The New Indian ExpressHow Screen Time Is Quietly Affecting Everyday Health&nbsp;&nbsp;Elle IndiaPhone Bad!: Why Your Phone Might Be Ruining Your Life and What to Do About It&nbsp;&nbsp;Maine PublicUnwinding with Screens Is a Contradiction&nbsp;&nbsp;FlaglerLive",
+      "sources": [
+        {
+          "name": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZGtGbTNvWjV5YVp4WGdQUU1QZDBkd1pmUXdyRXBkeEptQV9JeHE2VDFfaE9VQUNsNU5vb1V0QThXcXI3VVVlWmp6SktqeGZlQlgwNUVCc1gyZWJRYWxZUmh0dDJWNkVWRWZFRThsY0ViYXVNazlBbUZiaWRldXBxTXhLNHl1Si05SDRWN0pOUHlJOGttc3RLU3c3NmNjaGRqTkJDeEJuSW0zeXNKWmw1Y1RhbXRWVnQyU0hEWW14Q0w1cTdHaGFweEdVeGNjQVcyLUVKSFVEcVE0amlpM212Ynp6b1IxVDhHQUlzVVdpNNIB9AFBVV95cUxQTl82QS03ajZ0TFg4RDBMTjNSTGxFbEU5ZGFXbWw1Wjh2MVY5R2szVmFLeDNycFdrb2Z4VkxtRlFOekh6Ml80T19OZUNqNnJDVmtIcTBWQUlGcEZqN29lbTdIYnQxYzdZNmo5Rk9QbnpFd05JMUVjOXdCSjBYM1I3bHhqWHhjcms1ZklJSjZub3c3RmtJMWtTWFYycDVqSnFfSDEtMGJQRmRhYjFOVmRnMjRkRTRFTHNLVnpwNUxPcW55NTh6Qk1HSl9ZYUhKNGppamJpVEpROS1YamVqbU4xdjlMWHMyTV9DdUN5dzRVNEZaeFJR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "374f3ed3cbc1",
+      "title": "Honeybees can recognize human faces — they can be trained to distinguish between individual humans by face and continue to recognize them across different viewpoints, despite having a brain smaller than the head of a pin - Space Daily",
+      "published": "2026-06-01T10:15:33+00:00",
+      "summary": "Honeybees can recognize human faces — they can be trained to distinguish between individual humans by face and continue to recognize them across different viewpoints, despite having a brain smaller than the head of a pin&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQWVJtX1k5WWRQOHlzalplS043TjNrVWJEMXRNWGVNVW1vVV82OW1Rd0pKMGVtZGxtbW5TN1g0VG5ZeW9vclc2bkgyN1BRWmk3ei1nd2tWWmkyMHpzWWxmMDlNRUxvbTBmWEtvTE9idXFFSF90bVJUbUNJR2pPb0tJNTVDZEZNMXNSMExwZkpnOGUtdkhIbmpuMXRrc0gtVzFFbS1oczVDNTkxOU1sWF9NV1F0M085dXpwLWdiMUUwM0xNRHhUNHJfMzNVNHVjSEYzWkNNdkNBeUlNbnlYaFBiQ25xS09tem5fTU51MlRlZzRtbDJFTUxUOHp3OVRidEZodm02MXlRRHFZRUJ5WXNETjlQRXRqMGZIX1V2ZHp3M0RhODA3LTR0c21KMHVCdlExRGhscWVuS0hkLTg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "75512ed1e3a3",
       "title": "Fearsome dinosaur-era marine reptile was T. rex of the sea - The Hindu",
       "published": "2026-06-01T10:00:00+00:00",
-      "summary": "Fearsome dinosaur-era marine reptile was T. rex of the sea&nbsp;&nbsp;The HinduMosasaur Discovery Could Influence Fossil Tourism and Research Funding - EPS Revision Trend&nbsp;&nbsp;thelegaladvocate.comThe Sea Tyrant That Hid in U.S. Museums for 150 Years&nbsp;&nbsp;AOL.comMeet Tylosaurus rex: the 43-foot 'T. rex' of the sea&nbsp;&nbsp;wach.comScientists Identified a 'T. Rex of the Ocean' That Was Hiding in Museum Collections for Decades&nbsp;&nbsp;VICE",
+      "summary": "Fearsome dinosaur-era marine reptile was T. rex of the sea&nbsp;&nbsp;The HinduMosasaur Discovery Could Influence Fossil Tourism and Research Funding - EPS Revision Trend&nbsp;&nbsp;thelegaladvocate.comThe Sea Tyrant That Hid in U.S. Museums for 150 Years&nbsp;&nbsp;AOL.comNew species of 80-million-year-old giant marine predator discovered&nbsp;&nbsp;Zamin.uzScientists Identified a 'T. Rex of the Ocean' That Was Hiding in Museum Collections for Decades&nbsp;&nbsp;VICE",
       "sources": [
         {
           "name": "The Hindu",
@@ -251,36 +364,10 @@
       ]
     },
     {
-      "id": "bd2c3c137e9b",
-      "title": "Can heatwaves affect pregnancy? Expert explains the risks and how expecting mothers can stay safe",
-      "published": "2026-06-01T09:21:00+00:00",
-      "summary": "Can heatwaves affect pregnancy? Expert explains the risks and how expecting mothers can stay safe&nbsp;&nbsp;TheHealthSiteHow to have a safe summer pregnancy&nbsp;&nbsp;Nebraska MedicineHow does extreme cold affect pregnancy health? | Tap to know more | Inshorts&nbsp;&nbsp;Inshorts",
-      "sources": [
-        {
-          "name": "TheHealthSite",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa0VtMHVBUnc5VFJnUlk1blk4Yi11TXlkQlA5TDN3b2tPRGhYN1p5SnliMDZMY2NHQm5ENnpLSGpwdkJHNzB3YXVHVFZRYzljUURjR1NzSHBEVWFhY3VhWU1HOVFoOWxaOU1CMVd1OXhCZ2t1eVNSbkxCWldoWjVXVXJYTTBPREVrd1Y4UUtvM29WeDRXcThHYXdXRU9qVHJHdUtYMGszd1o1d1RlX2RXOVpIWW9vVTlSOGJHYlJ4Mk03QjZTcEZUUVNRNlFNUnBMS3llZndLMGVBZkh3LVHSAeMBQVVfeXFMTWp6dHl3OUdFMkdjRzhSSGo5amEwWV9zZUJvaEpSQzJEbWoxdlBZWGw1cjVkTDlQb04ySmtnRDRtRERTbjFMQS1Jc3IxUVRKT21PdlRPVVZyYkhHQWN5WVlHXzY4RE5BazJCUldpNHYxdWhQWHhRdTE5M0RBR2NBdXRmbGdsUXJ6MVRsTlpPYndrT2J5MndSYkZsTms3OHE5V3BxU0xBZm80Ykxwa2UyMDUtZmVIZll1OW41Z0dYWjFhdXpmUGZTLVowLThfdmxMRFExdHNTV3Q1Y192ckZES1hWTzA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5709",
-          "name": "common cold",
-          "keyword": "cold"
-        }
-      ]
-    },
-    {
       "id": "52d590f2eee4",
       "title": "Google wants to kill disease-causing mosquitoes. Their weapon of choice is more mosquitoes",
       "published": "2026-06-01T09:09:38+00:00",
-      "summary": "Google wants to kill disease-causing mosquitoes. Their weapon of choice is more mosquitoes&nbsp;&nbsp;ThePrintGoogle is planning to release 32 million mosquitoes infected with Wolbachia bacteria across Florida and California&nbsp;&nbsp;The Times of IndiaGoogle's 32 Million-Strong Mosquito Army To Fight...Mosquitoes&nbsp;&nbsp;NDTVWhy Google wants to release 32 million weird mosquitoes in Florida&nbsp;&nbsp;The Palm Beach PostGoogle wants to release millions of mosquitoes in these places, reason ",
+      "summary": "Google wants to kill disease-causing mosquitoes. Their weapon of choice is more mosquitoes&nbsp;&nbsp;ThePrintDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianGoogle is planning to release 32 million mosquitoes infected with Wolbachia bacteria across Florida and California&nbsp;&nbsp;The Times of IndiaGoogle's 32 Million-Strong Mosquito Army To Fight...Mosquitoes&nbsp;&nbsp;NDTVGoogle to release 32 million mosquitoes in Florida: How",
       "sources": [
         {
           "name": "ThePrint",
@@ -350,6 +437,50 @@
       ]
     },
     {
+      "id": "f8157b2ab474",
+      "title": "Tata Memorial study finds radiation cuts bladder cancer recurrence risk by over 50% - The Indian Express",
+      "published": "2026-06-01T08:05:50+00:00",
+      "summary": "Tata Memorial study finds radiation cuts bladder cancer recurrence risk by over 50%&nbsp;&nbsp;The Indian ExpressAdjuvant Radiation Boosts High-Risk Bladder Cancer Control&nbsp;&nbsp;MedscapePriyamvada Maitre: BART Trial Shows Benefits of Adjuvant Radiotherapy in High-Risk Bladder Cancer&nbsp;&nbsp;Oncodaily",
+      "sources": [
+        {
+          "name": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWGZ3MDd2LUYtb1ozWmd1WkFNS1dzVWFUYXBpY1dsNXRHWTFCZTc3elh1SF9pVFlzM09yTUp3VEdSSTJPVVMwcTVXMHgxNnJpSWp3SE5yS0haZVpIeEEwaFZEcWlpMHlIeUplNXZSZ082TUU4dFBMU0RHUGRSY3NsV1g2TWtMTmdCcGFCRkhfdlEwaFdtYXp0VDV6ODlreElaV3ozdGlHYnF0LUk4X3hsMDJJdjhZRU4tcHh2cGNzOWNjSXc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "1187",
+          "name": "urinary bladder cancer",
+          "keyword": "bladder cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5027",
+          "name": "epilepsy",
+          "keyword": "fits"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
+    {
       "id": "cc381b22448c",
       "title": "Indian team makes holy grail discovery on the Sun from Karnataka's Gauribidanur - India Today",
       "published": "2026-06-01T07:49:44+00:00",
@@ -361,6 +492,32 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "bf8db7391b39",
+      "title": "Emissions from herbal cigarettes may be more damaging than those from tobacco ones, study finds - Press Trust of India",
+      "published": "2026-06-01T07:15:50+00:00",
+      "summary": "Emissions from herbal cigarettes may be more damaging than those from tobacco ones, study finds&nbsp;&nbsp;Press Trust of India100% Herbal? Yes. 100% risk-free? A different story: Herbal cigarettes may be more damaging than tobacco ones&nbsp;&nbsp;Deccan HeraldHerbal cigarettes no safer than tobacco, finds IITGN-Illinois study&nbsp;&nbsp;The Hindu\"Herbal\" Cigarettes May Be More Toxic Than You Think, New Study Explains How&nbsp;&nbsp;NDTVHerbal cigarettes can be as harmful as tobacco cigarettes: ",
+      "sources": [
+        {
+          "name": "Press Trust of India",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVThaYlVpaTRGRUZVMkdBNHl6blU1LWJiT2ZiSlRQVDd0ZFB1VFFJdm92eUIyTG8wM0pVMUpvd1hmd1hET2E4WWRJUDV3NGt2SWR3X3BST2FQYXI1cllzTGMwanhMaHRZbEpmSVc0Y1FxN0RWMDhwZzROUnpiUVRtZzI4d0tsaWVzOFR1TlEzQ092aEFUaG9qWjFuYWw3aGpTY0Zxb01QOVpXZFB0eTNXN19CSFVmbExBM2xvXzBoY0hSVjBjbHJtV2VNbjBvb2QyVThGRGU0MU0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4979",
+          "name": "asthma",
+          "keyword": "dama"
+        }
+      ]
     },
     {
       "id": "d49a270d9ebd",
@@ -379,7 +536,7 @@
       "id": "a770cabd9961",
       "title": "Daraxonrasib Cuts Death Risk 60% in Phase 3 Pancreatic Cancer Trial - The Clinical Trial Vanguard",
       "published": "2026-06-01T06:49:59+00:00",
-      "summary": "Daraxonrasib Cuts Death Risk 60% in Phase 3 Pancreatic Cancer Trial&nbsp;&nbsp;The Clinical Trial VanguardDaily pill doubles survival time for pancreatic cancer patients&nbsp;&nbsp;BBCDaily pill can double survival time for world’s deadliest cancer, trial shows&nbsp;&nbsp;The Guardian‘Landmark’ pancreatic cancer drug keeps patients alive for twice as long&nbsp;&nbsp;The Washington PostRevolution's pancreatic cancer drug doubles survival, boosts quality of life&nbsp;&nbsp;ETPharma.com",
+      "summary": "Daraxonrasib Cuts Death Risk 60% in Phase 3 Pancreatic Cancer Trial&nbsp;&nbsp;The Clinical Trial VanguardDaily pill doubles survival time for pancreatic cancer patients&nbsp;&nbsp;BBC‘Landmark’ pancreatic cancer drug keeps patients alive for twice as long&nbsp;&nbsp;The Washington PostDaily pill can double survival time for world’s deadliest cancer, trial shows&nbsp;&nbsp;The GuardianRevolution's pancreatic cancer drug doubles survival, boosts quality of life&nbsp;&nbsp;ETPharma.com",
       "sources": [
         {
           "name": "The Clinical Trial Vanguard",
@@ -435,14 +592,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a2b4fd9a66cc",
-      "title": "Can Tomato-Soy Juice Reverse Chronic Inflammation In 4 Weeks? A New Study Says Yes",
-      "published": "2026-06-01T03:49:35+00:00",
-      "summary": "Can Tomato-Soy Juice Reverse Chronic Inflammation In 4 Weeks? A New Study Says Yes&nbsp;&nbsp;NDTVSee more headlines and perspectives on Google News",
+      "id": "d2b2df0c0982",
+      "title": "Bangladesh Measles Outbreak Deaths Reach 585 As 2 More Children Die",
+      "published": "2026-06-01T04:08:02+00:00",
+      "summary": "Bangladesh Measles Outbreak Deaths Reach 585 As 2 More Children Die&nbsp;&nbsp;NDTVSee more headlines and perspectives on Google News",
       "sources": [
         {
           "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVF95bnpmNkNyZjh5Y2hZTjhmcUZfWUM5Z1EySkhrSzk5SFdSNjZiVmRjeVBVSXkyUE9GM0lLSExWTTVtNXpJLS1rd0hEVUtRVEItWkFqLS1JNm16WlI4clo5NlR0dEc5cjJ4TnBqbnR5dXRNNUhPbXVYWjktSzNTWUJnZ1RSN0kxemRaajRfdUp0OVdxQlQ5WE5WRVFKLXAtaFlwTkQ0R2Rvb0RQTnRWak9pdEZ1WDJaVkpRYUFLdDYzU21aNlZSc2Zpc9IB0gFBVV95cUxQTGxmQXpDdUw2T0plQ3I4c2NydGQ3OW9vRmNTek5CemNLOVR5MWdXM2k5QUFSYTIxS0xUSGRxd1lDN2liWTRhcWQ4T0dFYndhTjBBLVdTenFkWUdJaVBSUU1mdFNEYmN6b0J1TzBENlF3OUsyWWlxaGpqNlRXUk9qQ1FUOWFKTVhBNmRsQkUxZHpmTEFsN05iTzI4ZmQzUHVqdW50eXlHZm5PRUw1MVZoREZjZkRpeVBrVm5tN2lsWmFObGg0NFZKaDVjTTNYTWlEV0E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzNEREdnRXE0bVVTX1Z1MzRQdnlLQTVtQllwaDBvd1dxNHdQRVdrTFdBU3hCeld3NkVranhTWnY2cVNHbTVSQ3RtdENSMTVFWF9feHZ6Y3h3TnhFbTdIWW9rZlFzWll6cU9QWkVwSWtlcTgxYS12STdIV2ZTQVVJOFU5ZVFCUXNQZ1JMb2ZqR21KdF9tOEpIZmtWZ2dvUUhDeGI1aVJPVmQ1RVZPelJNVUV30gGuAUFVX3lxTE1UODhYYmpjV0xRRlFUZ2xndGtTQTBqdTlHNGZ2M21IWG03czdhcWxvazZubHJUZlhodXJ2WEtzSDU3dHNxTHY2N0NWQVlsNnBHcVVFcFNfSV9BX0NSc3YtR2EweFdFWTE3WTVjTTZIbEJzMVFXQzdIRk9maVoydlVBZF9FVTNUUEJRY01xT2tnX3FneFJmRU0wWDl3Rko1cnBjRXhoM1EydDhmSDF3dw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -451,6 +608,12 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4619",
+          "name": "measles",
+          "keyword": "measles"
         }
       ]
     },
@@ -468,17 +631,50 @@
       "matched_keywords": []
     },
     {
+      "id": "a673489c9351",
+      "title": "Why we get brain freeze: What happens inside your head after a cold bite - India Today",
+      "published": "2026-06-01T03:00:00+00:00",
+      "summary": "Why we get brain freeze: What happens inside your head after a cold bite&nbsp;&nbsp;India TodayBrain freeze? Ice cream headaches can reveal a surprising amount about your health&nbsp;&nbsp;BBCBBC report links ice cream headache to higher migraine risk&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "India Today",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTi1lUUNZbmc1NkNZNHVaV3l4S183OFVHRDg3MnEzOE9Sem5XYUZ1TGNhME5CdVdGYlhrdnNYVnBKLTRORDF1LUpKM3VBaV82R0toUTJzbkpnc25hMEVoSHdNcV9ENmRNNTBJOE1SZ2RRRWlfSWxLTWljMjVfSE1EUnNwWXhWZWJFY2htY2c5OER3M00td0YwUW5BZ3pzZkxDUEdQWFE5TGJpQlk5aWZfcFdkbDMzU2xiX0pTLUlDUWlROEkxZmNPVklR0gHPAUFVX3lxTE81VGZiQjFvTm9zTk1UWEZGR2xZZFQ2M2tfaWNrX1FSUDg2Q2I1czQyNUVRRmN1UUxkX3gyV3l0TnBMajRsVFpfRjk4dFdOUk5uMGY0LVpDeEhXZHJMNnpBRTk1dFkyV0lTWVp2MXY2LWY3Y1l5eTh3NUMwMnRrdjZRM2o0TWRDTy1xWFVZLVdiaHF6SFhVMEo5eDZ3ZEU1cGo5RnNBNS1Eb3FMN2xkdks4S055SkJHZFIyUUt6THJQZ0dReDNLU294aklFTzJiUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5709",
+          "name": "common cold",
+          "keyword": "cold"
+        }
+      ]
+    },
+    {
       "id": "5e642ab537e8",
       "title": "Pigeons may be navigating with their liver, study suggests - Arab News",
       "published": "2026-06-01T00:41:37+00:00",
-      "summary": "Pigeons may be navigating with their liver, study suggests&nbsp;&nbsp;Arab NewsHow do pigeons sense Earth's magnetic field? Scientists say they’ve solved the mystery.&nbsp;&nbsp;National GeographicPigeons navigate using magnetic sensors in livers — study&nbsp;&nbsp;DW.comA new study says homing pigeon livers act like compasses. Other experts aren’t so sure&nbsp;&nbsp;Scientific AmericanImmune cells in the liver help pigeons navigate&nbsp;&nbsp;Universität Bonn",
+      "summary": "Pigeons may be navigating with their liver, study suggests&nbsp;&nbsp;Arab NewsSee more headlines and perspectives on Google News",
       "sources": [
         {
           "name": "Arab News",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SaHJ2R19meGJ2c2E4TlBtdTJzdjM2a1ZPdndLc2Q3b0M1X1JkMGpmcHREcmFKWnVURXVYZDRjZXlNbDExOFhfN0o3eExrcVp6VWZfRklB?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
     },
     {
       "id": "27c5252a903b",
@@ -520,26 +716,6 @@
       "matched_keywords": []
     },
     {
-      "id": "43108c6f8499",
-      "title": "Activating this nerve can relieve stress. Here’s how to do it. - The Washington Post",
-      "published": "2026-05-31T16:00:00+00:00",
-      "summary": "Activating this nerve can relieve stress. Here’s how to do it.&nbsp;&nbsp;The Washington PostI used Pulsetto for weeks: Is it worth buying?&nbsp;&nbsp;WareableVagus Nerve Stimulation and Performance Recovery: Can Neuromodulation Actually Improve Health?&nbsp;&nbsp;Men's FitnessThe calm cable&nbsp;&nbsp;Mumbai MirrorThe One Device Experts Say Instantly Reduces Stress and Improves Sleep&nbsp;&nbsp;Harper's BAZAAR",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU2twdWxGTWFfR3RNTlU1eHN1MjM4eFZlYmJhNHFGTXc4NXdpUmtpNEJHTFV4YnN3Z29NdFlBWHZseDNtUWFFUVZLMFE3WnlqSGhWd1ZLNU5PSUpLMkY5WUlFS0lzZHhMRnZIRHNnbHdlY29VX2d5OGVwMDlWRHlYTXZNajlPZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
       "id": "793f4d65e792",
       "title": "Pairing Ozempic With Exercise Is Beneficial For Your Muscles, Study Finds - Health and Me",
       "published": "2026-05-31T14:30:00+00:00",
@@ -566,14 +742,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f9fd2cfb8f6a",
-      "title": "Climate change alert: Rising temperatures could turn heart disease into an even bigger public health crisis, finds study",
-      "published": "2026-05-31T10:33:28+00:00",
-      "summary": "Climate change alert: Rising temperatures could turn heart disease into an even bigger public health crisis, finds study&nbsp;&nbsp;connectedtoindia.comDizzy Head: How to Protect Yourself from a Hypertensive Attack?&nbsp;&nbsp;Inbox.euHeat Exposure Raises Heart Risks in US Farmworkers&nbsp;&nbsp;Bioengineer.orgHigh Blood Pressure Vs Low Blood Pressure: Which One Is More Dangerous During Heatwave?&nbsp;&nbsp;NDTVNC migrant workers, advocates work to get ready for long, hot summer&nbsp;&nbsp;The A",
+      "id": "c456d96c704b",
+      "title": "Heatwaves may cause heart disease cases to skyrocket, study finds - Northeast Herald",
+      "published": "2026-05-31T12:41:53+00:00",
+      "summary": "Heatwaves may cause heart disease cases to skyrocket, study finds&nbsp;&nbsp;Northeast HeraldDizzy Head: How to Protect Yourself from a Hypertensive Attack?&nbsp;&nbsp;Inbox.euHeat Exposure Raises Heart Risks in US Farmworkers&nbsp;&nbsp;Bioengineer.orgHigh Blood Pressure Vs Low Blood Pressure: Which One Is More Dangerous During Heatwave?&nbsp;&nbsp;NDTVNC migrant workers, advocates work to get ready for long, hot summer&nbsp;&nbsp;The Asheville Citizen Times",
       "sources": [
         {
-          "name": "connectedtoindia.com",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTGxVNEZFX0ppajZnX2pzLXlneGpaSURBTHh2cC1VdnB1eDFBd3FnVTBaaXZZUkx0eGZSVm9CdGtDbXU0LWFKSG5zbDhSd0tSczdycC1vYW40cllqZGVoMW80MmxHajNHVm1iRGxLd2FVakJKTWtybEtXZG5tTjZsMU4tS2RFVTVUUGJYNWhyWlpWU2sxbF9la0l1TU0tanFnWG52YXltSEctQnZQSDRwT2EwZVl0VXNSVVV6WDktSngzWlpTY2laamltUWkxWVpOYzhPWVZwRjEzVk1Rc1VJN181d21EQUU?oc=5"
+          "name": "Northeast Herald",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0JuNENWTWlTeXpmOV8tZmFqVE1UNkc4eENoOG1id296N0J4SkNUaHMxSnlmSks2dEdPWEhGamVPLXJkM3NKVEN1Sk9aWWkzUTZsNDlLa3poaWd2a0Zxdkp5bndudkV5VXV1alo1Z3FRYks4ekVQbWExOVFrM1owbmNxdjNvc0VHSEVyVE4zYWJsSFFTZjhF?oc=5"
         }
       ],
       "matched_keywords": [
@@ -611,76 +787,75 @@
       "matched_keywords": []
     },
     {
+      "id": "a311f9cfd1fd",
+      "title": "Prostate Cancer: Low Testosterone May Predict The Disease - Health and Me",
+      "published": "2026-05-31T10:30:00+00:00",
+      "summary": "Prostate Cancer: Low Testosterone May Predict The Disease&nbsp;&nbsp;Health and Me",
+      "sources": [
+        {
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFMyYnlsZ29GOENIZGxPdllfam9HYTFDMzRCaC1jY3NEMWkyWFNSR08zaDZ3Y3pSdjYteml1VEdaMEVpTVl4WEtocEdhakw1MHMxQXVuVW42MjhsVFd5QmZoandwbHFiMUdxU3dMN0xJckN0eWt4UWtJOXotLXNfMXNlVTRhSXN0MWptQWtLSHRnX3FtMTI4U25YQ0dEM0xrS1BYczJkMXBycm5mV0lLRk5xX2N0YkE2Q1E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB00624",
+          "keyword": "testosterone",
+          "name": "Testosterone"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "8315",
+          "name": "prostate cancer",
+          "keyword": "prostate cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
+    {
+      "id": "8f8417a2991b",
+      "title": "World No Tobacco Day: Early Signs Of Tobacco-Related Diseases Users Often Ignore",
+      "published": "2026-05-31T08:17:04+00:00",
+      "summary": "World No Tobacco Day: Early Signs Of Tobacco-Related Diseases Users Often Ignore&nbsp;&nbsp;NDTVBreaking free from tobacco: Expert tips to quit and what happens when you do&nbsp;&nbsp;The New Indian ExpressWhat happens to your body when you stop smoking? A doctor breaks down the recovery timeline&nbsp;&nbsp;Hindustan TimesHEALTH OVER HABIT! A smoke-free life is a gift you give yourself every day.&nbsp;&nbsp;facebook.comDoctor shares 4 steps to quit tobacco smoking, and 6 warning signs that shoul",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMW80UWRsR0t5X2lNMS01VG5Zdm04aDVnSFVVQXRFSk90dkJBamxzMjFCeU5SbmhpOHRuTUFzWlg0WWd1QUpqVmRHdFVDMklEZjNpU0tHTkxoS0s5bUpBTzA5LUxDZHltdDMtaldtRUlTQjJTNEdEQ2V2eDhJY1JIMnFCbkExUDIzbFVIRkxYNERQaUZJYmJnM21oNlZ2cG10QXk2MnpHVU9WZ3ZsWjhCcU9FOUJOMGxwbGQ0MUgzcWZJOUlOWFd1RzBRTdIB0gFBVV95cUxPRGI0a1VvR0VWMnVUYVNtMTlVTk8wb0hWb1hwY1dmUi1hdEhGaEJyWTFOTnJDWjhueXBxRkNMTUdMZDZhUVEzQTVDOWQwclRXUTJ3RDUtT2t2VC1Pak1hTFJWVnNFMThpUklaMms5ME84SnhIeFFiZ0xtSGl3T09PcHp0ZmxsX0drcDlZcko1U3pNaE92QnFORUtCaUpjamtrS05BZlFSYmtaaVMtWGVyVU80MEJlRkluNVkyNGVBUEFlbHhXcld1a3NUUXZEekNJSWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
       "id": "4b201d7837e8",
       "title": "WHO chief urges safe burials in visit to heart of Ebola outbreak",
       "published": "2026-05-31T08:03:48+00:00",
-      "summary": "WHO chief urges safe burials in visit to heart of Ebola outbreak&nbsp;&nbsp;theherald.co.zaSee more headlines and perspectives on Google News",
+      "summary": "WHO chief urges safe burials in visit to heart of Ebola outbreak&nbsp;&nbsp;theherald.co.zaEbola spread in DR Congo 'deeply alarming', MSF warns&nbsp;&nbsp;BBCCongo and Uganda report 263 confirmed Ebola cases with 43 deaths, Africa CDC says&nbsp;&nbsp;The HinduWHO calls for community cooperation to contain Ebola outbreak in DRC&nbsp;&nbsp;The GuardianWHO chief calls for reconsideration of travel bans as DR Congo battles Ebola outbreak&nbsp;&nbsp;News On AIR",
       "sources": [
         {
           "name": "theherald.co.za",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWUpwckw5cTdCNzFIZ2ZGbjJ4YTVkSmRnU1pvMUZsZFBRT3NlYVR5YnpoR2E3NzRXLXRDempFOUhaVHRYUDhfVFpCSHEteHFJcmduMG5jNDdqc3NwSXF5ZlNVNXlRWU1zeVlVdXpTT0g0ZHpQLXg3b29NaW5VYmZaYXB3LWlRbWNQbVRZQ3lyMkMyb3Vab1dBN1VXc3BmeGxWZ0pVcEI4eDB6OHp3UmpsRFZlWi1zZw?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "ab85fa16aac5",
-      "title": "Could protein 'traffic jams' be the key to understanding aging and Alzheimer's? Here's what Stanford scien - The Economic Times",
-      "published": "2026-05-30T18:25:36+00:00",
-      "summary": "Could protein 'traffic jams' be the key to understanding aging and Alzheimer's? Here's what Stanford scien&nbsp;&nbsp;The Economic Times",
-      "sources": [
-        {
-          "name": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdGdsZFNFdUdwejJVZTBHTGpncnFxU25uZVRFNURpNTZPcnVBNV95ckl4czFSa2pUTkx5TXNzQXdpbFZYRWd3LWVtVk5ITnJSYjhzdUdyZ0lmWEJKcnd2SnBNTHItRGwyY1M3M0JwV2w2LTFWR3h6d3d0Z0ZhMWd2dmRtR1hLR3JvcjhENXVIMHp3MlhwX2xxUkdBOEdjTWhSSUdYcVltdF9HRXljZTVtejZ2RkpWY01NN3ZsSVFJRlU4NlNaUXZvOHZkNFRfam1MZHRzdER4enpEY0NKMllpNTFQMHlZbS1UVkE4NWlrWjlUMFIyVGVoVlQzTXhhanFWMlkxM2hrUE1TN00zNkVrcjltODhPTWPSAZwCQVVfeXFMT2hNd2szcUpIWWVtVWlnZEJJY3VreldIc3Y5YWVkd0Zyb2Z1VGRXMDAybUE0X0lra21IbkNRQklaYVpKUkFJZ0VpYW5RUkRqNy10d3Q0WmJMaHhySVhiMmgyd1NKTnhRNldUUVpETEtraVJKWnZfamtra2poS1FjN3BTUzk1NXZDMkVKdVZBenVaM3pZcVdaOHdfdVZpTmdrYUVZM2loV2lEZXFIbjFMNF9vQjhRbzdYZlNhZnhsQ01zU0w3WW9LUWgwV05YOGN5ZmxPTE5vdFlZLVJwUThVdGh4VVJ0ZXQzbGszUHJyaFAza29JR1ZSc3pvLTEtX2JkUTI4RDRHUUg1YkdORWg3Tm1ZMmFOdENvRjd3N0o?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "generic_dementia",
-          "name": "dementia",
-          "keyword": "alzheimer"
-        }
-      ]
-    },
-    {
-      "id": "bea51ef2bb6a",
-      "title": "‘Text neck’ epidemic loading: Continuous scrolling causing nerve damage, warn Bengaluru doctors - The Times of India",
-      "published": "2026-05-30T17:47:00+00:00",
-      "summary": "‘Text neck’ epidemic loading: Continuous scrolling causing nerve damage, warn Bengaluru doctors&nbsp;&nbsp;The Times of IndiaWhat Is Tech Neck—and How Can You Prevent It?&nbsp;&nbsp;Yale MedicineIs screen time damaging your hands? Symptoms you should never ignore&nbsp;&nbsp;Kerala KaumudiWhy everyday body pain is becoming increasingly common among young professionals&nbsp;&nbsp;India TV NewsABP Live Doc Talk | Cervical pain in the digital age: What young people need to know&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQUdsemRZakhlRDFMeC1BZzc3Sl9mVGxUT0dDT0pscWJDYXhyX2dPel9zT2dWQW9xZkRmN0lNc2JMdWN6MWM1V3U0S000NV8yajZ6OUdqMUFzN2JINlo5cmdiVXpoR0tDUkFiN1EzMjhDNkduT2MybEVUcE1yd2R1T0t3WjFVU1IxaW4wamxPckthemNTdDlUbXU0c21zY2YyanI1dUFQM1YzeTJ0SmhLQTRVb2QyZE9BNzl2X053b01uMEs2OVI0SFd4NWVQcHZxX05WNEU3cVd2SjJhb3lnYmFyQnJ2WW44QnlTX0EtWHROaWw5ajRwc2xVN2HSAYICQVVfeXFMUDNUYVFHNkxNRjEyNVhUNnFGTnZFX3pMZHM0VkR2S2FaTEp5V3Nxb21xcWt5aG1la2psZTBjb0I1UnBlSl9SbmdjUE8xeGxuOExqb1piUXM3V2FYUHBBN1FnOXRCN01CVFVXOU5oTkZ4c1VyZ2VjNDFHNXhvOGdBakRLbi0yMENydno4N0FtWDBOSFA1TE9PbllteDRyZnBkenAyeUFmM1RZcVV2R09fSWZiM1FobFp6MXJJNG9iazVaSlVqN01fbk9kcTl1OHdYMlYydnV4a0JRcVVES25PdW5hLXoxVkVzcGdORGRRSFY3dEtaeXNCY2pIMmJmS3VyMjBB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4979",
-          "name": "asthma",
-          "keyword": "dama"
-        },
-        {
-          "type": "indication",
-          "disease_id": "1200_1134_15512_5080_100078",
-          "name": "hypertension",
-          "keyword": "BP"
-        }
-      ]
+      "matched_keywords": []
     }
   ]
 }
