@@ -1,19 +1,43 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-06-01T21:18:00.574616+00:00",
-  "total_fetched": 77,
-  "unique_count": 77,
-  "health_related_count": 34,
+  "fetched_at": "2026-06-02T02:09:10.814120+00:00",
+  "total_fetched": 79,
+  "unique_count": 79,
+  "health_related_count": 31,
   "news": [
+    {
+      "id": "2123682502f9",
+      "title": "Emissions from herbal cigarettes can be more damaging than those from tobacco - The Shillong Times",
+      "published": "2026-06-01T21:59:09+00:00",
+      "summary": "Emissions from herbal cigarettes can be more damaging than those from tobacco&nbsp;&nbsp;The Shillong Times100% Herbal? Yes. 100% risk-free? A different story: Herbal cigarettes may be more damaging than tobacco ones&nbsp;&nbsp;Deccan HeraldHerbal cigarettes no safer than tobacco, finds IITGN-Illinois study&nbsp;&nbsp;The HinduHerbal cigarettes can be as harmful as tobacco cigarettes: IITGN-Illinois University study&nbsp;&nbsp;The Indian Express\"Herbal\" Cigarettes May Be More Toxic Than You Thin",
+      "sources": [
+        {
+          "name": "The Shillong Times",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEMzdE1yZGN0NTdocC11RkdBM0dIazF3RjFTT2FVNC1yUUUtMmx0QzFmQzBxVW9YeEY3QWZzZnVpclJ1c0Z1cFFxNjNmcGpZeEt2cV9oTDFTSGVFV0Q2MWhlbGEyVFFiMnRCbXY5cGE4Zkp2bVhseXBRaE8wdlVtck8xamJNaEctWjBGdHl6Q1NUNzM2QjJGbkpLSDRDUnMzT00tM1pYeGFlVjF0dkc2cmUwRWJuM0U1UVE?oc=5"
+        }
+      ]
+    },
     {
       "id": "78d787af1805",
       "title": "Urgent: Confirmed Ebola cases surpass 300 in DR Congo: official - Xinhua",
       "published": "2026-06-01T20:11:45+00:00",
-      "summary": "Urgent: Confirmed Ebola cases surpass 300 in DR Congo: official&nbsp;&nbsp;XinhuaJoint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus&nbsp;&nbsp;World Health Organization (WHO)Ebola recoveries bring signs of hope in DRC as suspected cases emerge outside Africa&nbsp;&nbsp;CNNOver 40 dead in Ebola outbreak in DR Congo and Uganda&nbsp;&nbsp;NBC NewsWHO chief reports 5 Ebola recoveries as a new treat",
+      "summary": "Urgent: Confirmed Ebola cases surpass 300 in DR Congo: official&nbsp;&nbsp;XinhuaJoint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus&nbsp;&nbsp;World Health Organization (WHO)Ebola recoveries bring signs of hope in DRC as suspected cases emerge outside Africa&nbsp;&nbsp;CNNCongo and Uganda report 263 confirmed Ebola cases with 43 deaths, Africa CDC says&nbsp;&nbsp;The HinduWHO chief reports 5 Eb",
       "sources": [
         {
           "name": "Xinhua",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rd2lfMmlNb19oSV9IVHFqcTlXenZHQTNrRjJXcU1zTElfLWRZbjF5RXhSS0xIUnlVbENuWkFWMHBVYWltcEpxZnNmN1I1UTBpLUdVY1BBQmxKcXdSV05fVXFBLWZFTEhQUWh1SFI5d19XMXRkb3U1a1BxOUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c54b4c110453",
+      "title": "Debugging: Google requests permission to release 32m mosquitoes in California and Florida - The Guardian",
+      "published": "2026-06-01T20:08:00+00:00",
+      "summary": "Debugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianGoogle is planning to release 32 million mosquitoes infected with Wolbachia bacteria across Florida and California&nbsp;&nbsp;The Times of IndiaGoogle's 32 Million-Strong Mosquito Army To Fight...Mosquitoes&nbsp;&nbsp;NDTVGoogle wants to kill disease-causing mosquitoes. Their weapon of choice is more mosquitoes&nbsp;&nbsp;ThePrintGoogle to release 32 million wolbachia mosquitoes in Fl",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeHNieUFMcU9kNENjX2FBVnBWV2t1VTRlRDFfbHBranJpU0lQbUdsdXBZN2dXcXRhaEkyY1poN0JsSnR3NmItSkI5NmM3ODlrbE5DdzR3Z1I1MWJlRnoyMHF0cndPWVVvTE03Q2VRZ05nNlBiVkVZMUVXTGUxeFpTWXNhVUJmYXcySVdpc2dFUXV6cUUyNzhPY3Z0VHZzUDVZUC1Icy1RVlZTZw?oc=5"
         }
       ]
     },
@@ -33,11 +57,23 @@
       "id": "ee1b2c78ab46",
       "title": "Moderna and other groups get $60m to develop Ebola vaccine - Arab News",
       "published": "2026-06-01T18:23:08+00:00",
-      "summary": "Moderna and other groups get $60m to develop Ebola vaccine&nbsp;&nbsp;Arab NewsThree Ebola vaccines in development amid growing outbreak fears&nbsp;&nbsp;BBCModerna and other groups get $60 million to develop Ebola vaccine&nbsp;&nbsp;ReutersCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPIExperts convened by WHO advise on candidate treatments and vaccines for Ebola disease caused by Bundibugyo virus&nbsp;&nbsp;World Health Organization (WHO)",
+      "summary": "Moderna and other groups get $60m to develop Ebola vaccine&nbsp;&nbsp;Arab NewsThree Ebola vaccines in development amid growing outbreak fears&nbsp;&nbsp;BBCCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPIModerna and other groups get $60 million to develop Ebola vaccine&nbsp;&nbsp;ReutersExperts convened by WHO advise on candidate treatments and vaccines for Ebola disease caused by Bundibugyo virus&nbsp;&nbsp;World Health Organization (WHO)",
       "sources": [
         {
           "name": "Arab News",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40SzVxMkktdG1lZjNkUjNvaFkwTjh5dENEcU1wOGtlNE5SanZDTThHTDd3ak9pSVBzalozRGpCaWtPdGtzQWNhd3Nma241TnRlRElCelFn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bcb14ec19ddb",
+      "title": "Physics-informed machine learning enables continuous cuffless blood pressure monitoring - News-Medical",
+      "published": "2026-06-01T17:38:00+00:00",
+      "summary": "Physics-informed machine learning enables continuous cuffless blood pressure monitoring&nbsp;&nbsp;News-MedicalBenjamin Sanchez Terrones (IMAGE)&nbsp;&nbsp;EurekAlert!A new device measures BP on the go, without a cuff&nbsp;&nbsp;UIC todayPhysics-informed models enable cuffless continuous blood pressure&nbsp;&nbsp;Let's Data Science\"The Era of Cuffless is Here\"… Ring-Type Blood Pressure Monitor 'CART BP pro' Becomes World's First to Be Integrated into Official Hypertension Guidelines&nbsp;&nbsp;P",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONkFJb0RIYTdVdmhwQW92YWJnZEVEdmJNdDZJbUJJN2toSHZvS3lRWHZXWnpRQllKNGltQkZJX25jd3U5SWxiLU9tZ3NqeDF0U1RJZ05kME5rbDR2UTVKdDB1dDNQLXRfOHBKU2tzdFVsd0RSNGhIanVkUjJkQXdNQlJ5cnlPdE9qbUFiMUVQQTFnRTE3dGt3d1d5enJZZmc3RjU3aVRWZlowd19kOGR1S3R3OUtVck5saEQ1UzR6SmM5OGFvQjhPSklyZ1dPVWtu?oc=5"
         }
       ]
     },
@@ -66,14 +102,14 @@
       ]
     },
     {
-      "id": "01d5698bae5e",
-      "title": "Bloating, constipation, poor digestion? Oxford-certified celebrity nutritionist shares 5 common superfoods - The Economic Times",
-      "published": "2026-06-01T15:10:24+00:00",
-      "summary": "Bloating, constipation, poor digestion? Oxford-certified celebrity nutritionist shares 5 common superfoods&nbsp;&nbsp;The Economic Times4 Simple Rules for a Healthy Gut&nbsp;&nbsp;Vogue7 Things A Fortis Gastroenterologist Does To Keep His Gut Healthy&nbsp;&nbsp;NDTVWhy digestive health matters more than you think&nbsp;&nbsp;news.cgtn.comAsia's Premier News Agency - India News, Business & Political, National & International, Bollywood, Sports&nbsp;&nbsp;ANI News",
+      "id": "1eef2bd5bb35",
+      "title": "Earth's 'river of liquid iron' shields us from space radiation. But something changed 16 years ago - WION",
+      "published": "2026-06-01T14:03:00+00:00",
+      "summary": "Earth's 'river of liquid iron' shields us from space radiation. But something changed 16 years ago&nbsp;&nbsp;WIONAn Orbiting Satellite Triad Reveals Motions Inside Earth&nbsp;&nbsp;Universe TodayEarth’s outer core reversed direction in 2010 and scientists may finally know why&nbsp;&nbsp;New AtlasScientists Took a Look Inside Earth’s Core—and Made a Surprising Discovery&nbsp;&nbsp;Popular MechanicsSomething strange happened in the Earth's core in 2011, scientists analyzed 27 years of data and di",
       "sources": [
         {
-          "name": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPZlVYSTlHWXBsaW93cWQwclFjYnc5VU1SN0UwSUxzSXVweTZsZ1FTQlhOcHNVZWpESTBOYWtOcE5iWXhHZC13djZWbFE4QU5sMDNmSzhrSHRiWmV3NGU0MkJKZ2pCLWRPd3kyZ21oZ1daSHYxbF9vb0Q3RGg4ck9QSW5aSlVGQm5nbkxYblgxemxiaml6d0pJeS1CUWNNZFBHdW1LQ0k1SzhxNThNWUpyWkRfejRkZUlheG5qRE9yYm1aNENUeGFCQjU4cjZOOE1lUm5tcDFwM0VIQU5sbmZNOEJTVTFyWXVMemQySHVzN2lxVklpRm5NQjBtb2c2Q2xaWUlTN18wenFyUTVURjFsVF80ZHBVZm9iY1pvaVlwY0JkU3NmYjNERFd2MVJXWndSUlVVX0h6bXR4cnVEZWfSAcMCQVVfeXFMUEhHMTFobEUtellyRjlzclVwNjdjdlUzWmdjcjdybU5GekR4ZFpSWGl4cW9WVDBMSHdUM09VMUhtNDBNcXBxdlV4RmM5M1BhOEJEeFNOejdvc1dWUmVZR0std1pqX1ZmNXEtLVhiRjVYdkR6ZE5Danh2SmpqUW5ublY1b0liZEdqNmI4OWg0YnVaTmdPeHBwaHBhaUZsRW91UkJ1d3RobzVXNUYwdFNSQ09XTXBtdWcySThwQzBIY09GUnhxTHdMS0plMnBSM2NDT1QwQnpDZFZlb2lxV3JkSjE2MXB5a0g5eVkycWE2S3hsY3NDTVUzdkVMRFpiZXJGem1aVFZOQ3R6Tl9pS3JDQU9McGdvemp5MUwySkljTnlmd21NNUZ5VUNSUm5iV3pmaEtYNEwwS3dqX3k5cHFQbHNUTWs?oc=5"
+          "name": "WION",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaWZTTVhxeWh2SEE2ZnA4ZUZESWdUbDE2WklTUmJsZVRvb2NFbjA3cVhNOTd6U2l2TGc0dXZRXzBGVnVmY1FPUThiQUtXQm1yR1VKQ3I0M0d0cnpGaXd2Y1hYaXlKcWl4RnFfaFY3T2tpZVJtQV9RRk5adERPTWFodlB0QTc4ak5ZWG5ES0hWaS02QXFTQVpnZzNoalNvaWVaa1F5VVZSWG9PQXdBUDZyckQwUEQtVkZ6cFMyc2RrMkdlWVljU0oxbk1vRlhmMWJJVkVJYzk5UGrSAd4BQVVfeXFMTUR6X1QxN0Jqc2o0cFQyLUZGQUNFM3Q0ckk1cHh6UllpWkpSMXBCSHZZYS1rMnpNOS1MZUNpRUxFNlc1QVpPQkV1ZGdVcVhKOV9ZNU83WGdiZ28tZ2xndVdoX08weklYOEEwXzEwOTZqZFdKckpwZ29OSmtfQ0JkNGxDVXlQdkhLM3FJb2dacjV3YmdVTHlwb0xTOGRFLTFuVFNaVDJwcVJFSnpXOW1xal80U2IzM1lvb04yeHNQM2RwU2FHSUIzUFI1NDZ4RWM2U29VbzRGX3JkUHIzM0V3?oc=5"
         }
       ]
     },
@@ -81,7 +117,7 @@
       "id": "521d75c65c2b",
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus III: reflections from the IHR Border Health and Points of Entry perspective - World Health Organization (WHO)",
       "published": "2026-06-01T13:50:41+00:00",
-      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus III: reflections from the IHR Border Health and Points of Entry perspective&nbsp;&nbsp;World Health Organization (WHO)Cruise ship linked to deadly hantavirus outbreak cleared to sail after disinfection&nbsp;&nbsp;The Economic TimesHantavirus cruise ship to resume sailing after deadly outbreak&nbsp;&nbsp;The IndependentHondius cruise ship ready to sail again after hantavirus outbreak&nbsp;&nbsp;YahooVideo Cruise ship linked to deadly han",
+      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus III: reflections from the IHR Border Health and Points of Entry perspective&nbsp;&nbsp;World Health Organization (WHO)Cruise ship linked to deadly hantavirus outbreak cleared to sail after disinfection&nbsp;&nbsp;The Economic TimesHantavirus cruise ship to resume sailing after deadly outbreak&nbsp;&nbsp;The IndependentThe death ship resumes its voyages, departing on June 6.&nbsp;&nbsp;Haberler.comVideo Cruise ship linked to deadly hanta",
       "sources": [
         {
           "name": "World Health Organization (WHO)",
@@ -102,30 +138,6 @@
       ]
     },
     {
-      "id": "e5d5afa0c19d",
-      "title": "What happens to your body 90 days after you quit smoking - Healthshots",
-      "published": "2026-06-01T11:53:36+00:00",
-      "summary": "What happens to your body 90 days after you quit smoking&nbsp;&nbsp;HealthshotsBreaking free from tobacco: Expert tips to quit and what happens when you do&nbsp;&nbsp;The New Indian ExpressWhat happens to your body when you stop smoking? A doctor breaks down the recovery timeline&nbsp;&nbsp;Hindustan TimesHEALTH OVER HABIT! A smoke-free life is a gift you give yourself every day.&nbsp;&nbsp;facebook.comDoctor shares 4 steps to quit tobacco smoking, and 6 warning signs that should not be ignored&",
-      "sources": [
-        {
-          "name": "Healthshots",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeUc1cC04RGh3YjZmZlNCVmdEVGxnb3BCblpiUGR1U1c5dzh0UlBZcElEaV9IQzY3RlVlbDU1Z0VIZW14bE9yQ1dEUFhCQXFrMUhKVnJGQnU4ajVTb0hXMHJyM3lpN3c4OFdaTUpDRFBYZGRiZml2QXUzZUF2Z0o0Sjl3THdJMGl3R3hMY1NKd3otQTV0ZlNWbzRQMVpEQmZzZllJekRoUFJtYXdHMWlpctIBtAFBVV95cUxQd0RqYmlPUXFsZkRybklFV1dIY0VYcVhXUFd3SVpjSUpVY1h5OTF1SEk4T0lvYklYZTkwdlEzR29xVHUtb3JmRU9WQkZXYl9sTmRNUVAwYV9ZQkdzdDJOTE5jUmQ5SXJxSENtNmcxRWQxVW5BdEZYS2JWOE9HSmEwdmVKOEZDaE11aFdwbHlJemhkTG9YbE5Cak12U1VaVFRKR3lTZndlbWR0NFluV3g2YzRZWlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1a62e08c2f80",
-      "title": "Antimicrobial resistance has ancient roots, but its public health threat is growing now - Devdiscourse",
-      "published": "2026-06-01T11:18:42+00:00",
-      "summary": "Antimicrobial resistance has ancient roots, but its public health threat is growing now&nbsp;&nbsp;DevdiscourseWhy the persistence of antibiotic resistance is difficult to break&nbsp;&nbsp;The TribuneDrug-resistant infections kill 38,000 Thais a year&nbsp;&nbsp;Nation ThailandHow antibiotic resistance is hitting the economy&nbsp;&nbsp;logos-pres.mdAntibiotic resistance: SMART metaphors to drive awareness, behaviour change&nbsp;&nbsp;healthcare-in-europe.com",
-      "sources": [
-        {
-          "name": "Devdiscourse",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa0ljbXJ6aS1zNDJYNmdId1lGQzJ2dk1BMm0zYW5WZE1GRXVIZW9uRl9ldWdIYWVHei1haGYtTzdzY2lDYU40RF95bUFucUp1X1FsSDNTTHc4dFZaTDBMamRjRjZfYzZiY2RiSVNLdFNVUG81TGxienNhWjhmVlByRU5qaGxzd0drak4tMUdMS3J2OEFwYmtxNWsxYXMtcjdZVm50U1Jjal9GNVhsTjhXR0J2dzIwRDVCeEd4RDg2WjNWQk5KZ3I1WVVELWVha0FhWDlYddIB2gFBVV95cUxPcGY4aVgzTmtfdlZTNzlQYk5NeE4xczlHZ3NCYklUQ29jbmU1TmpENjl6TG1UOTc4aTczbl94UzBES250SGVoaEdPWlhxbGhBNC0yRUdfemk1NHVkR0RlZW1jakxWaHNzS0pfQkdfbDFuSVNzQlN5bHg3aV9xaXdFaTJZdFQ3S1JTNkFwX0RISF9RQWsxb0d0UFNNaTFfSjNqbER2a1AxMUUzcmk5ZHBlZ3ZVby1RclFnczl4RkFiQXNpTExQUzFyRFpzNzR1V2tfZHBkV3dBQ2hRZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "090192d45fa5",
       "title": "Largest shortages in cancer workforce in 2050 could be nurses, diagnostic specialists: Study - The Hindu",
       "published": "2026-06-01T10:48:56+00:00",
@@ -138,30 +150,6 @@
       ]
     },
     {
-      "id": "bfe2a040fc9c",
-      "title": "Is your teenager spending 6 hours on screens daily? A psychiatrist wants you to know this - Moneycontrol.com",
-      "published": "2026-06-01T10:17:23+00:00",
-      "summary": "Is your teenager spending 6 hours on screens daily? A psychiatrist wants you to know this&nbsp;&nbsp;Moneycontrol.comDistracted India: The hidden cost of smartphone and social media addiction&nbsp;&nbsp;The New Indian ExpressHow Screen Time Is Quietly Affecting Everyday Health&nbsp;&nbsp;Elle IndiaPhone Bad!: Why Your Phone Might Be Ruining Your Life and What to Do About It&nbsp;&nbsp;Maine PublicUnwinding with Screens Is a Contradiction&nbsp;&nbsp;FlaglerLive",
-      "sources": [
-        {
-          "name": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZGtGbTNvWjV5YVp4WGdQUU1QZDBkd1pmUXdyRXBkeEptQV9JeHE2VDFfaE9VQUNsNU5vb1V0QThXcXI3VVVlWmp6SktqeGZlQlgwNUVCc1gyZWJRYWxZUmh0dDJWNkVWRWZFRThsY0ViYXVNazlBbUZiaWRldXBxTXhLNHl1Si05SDRWN0pOUHlJOGttc3RLU3c3NmNjaGRqTkJDeEJuSW0zeXNKWmw1Y1RhbXRWVnQyU0hEWW14Q0w1cTdHaGFweEdVeGNjQVcyLUVKSFVEcVE0amlpM212Ynp6b1IxVDhHQUlzVVdpNNIB9AFBVV95cUxQTl82QS03ajZ0TFg4RDBMTjNSTGxFbEU5ZGFXbWw1Wjh2MVY5R2szVmFLeDNycFdrb2Z4VkxtRlFOekh6Ml80T19OZUNqNnJDVmtIcTBWQUlGcEZqN29lbTdIYnQxYzdZNmo5Rk9QbnpFd05JMUVjOXdCSjBYM1I3bHhqWHhjcms1ZklJSjZub3c3RmtJMWtTWFYycDVqSnFfSDEtMGJQRmRhYjFOVmRnMjRkRTRFTHNLVnpwNUxPcW55NTh6Qk1HSl9ZYUhKNGppamJpVEpROS1YamVqbU4xdjlMWHMyTV9DdUN5dzRVNEZaeFJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "374f3ed3cbc1",
-      "title": "Honeybees can recognize human faces — they can be trained to distinguish between individual humans by face and continue to recognize them across different viewpoints, despite having a brain smaller than the head of a pin - Space Daily",
-      "published": "2026-06-01T10:15:33+00:00",
-      "summary": "Honeybees can recognize human faces — they can be trained to distinguish between individual humans by face and continue to recognize them across different viewpoints, despite having a brain smaller than the head of a pin&nbsp;&nbsp;Space Daily",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQWVJtX1k5WWRQOHlzalplS043TjNrVWJEMXRNWGVNVW1vVV82OW1Rd0pKMGVtZGxtbW5TN1g0VG5ZeW9vclc2bkgyN1BRWmk3ei1nd2tWWmkyMHpzWWxmMDlNRUxvbTBmWEtvTE9idXFFSF90bVJUbUNJR2pPb0tJNTVDZEZNMXNSMExwZkpnOGUtdkhIbmpuMXRrc0gtVzFFbS1oczVDNTkxOU1sWF9NV1F0M085dXpwLWdiMUUwM0xNRHhUNHJfMzNVNHVjSEYzWkNNdkNBeUlNbnlYaFBiQ25xS09tem5fTU51MlRlZzRtbDJFTUxUOHp3OVRidEZodm02MXlRRHFZRUJ5WXNETjlQRXRqMGZIX1V2ZHp3M0RhODA3LTR0c21KMHVCdlExRGhscWVuS0hkLTg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "75512ed1e3a3",
       "title": "Fearsome dinosaur-era marine reptile was T. rex of the sea - The Hindu",
       "published": "2026-06-01T10:00:00+00:00",
@@ -170,18 +158,6 @@
         {
           "name": "The Hindu",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLUxvS0Q3TnhfZEV3R09KYjlNUEFZcGZQb3ZFQjV3RTQ4bGJ4U0stelB5bFBuMmwwcG1OLTMzZ2RORDI3QWNLMlZKeVNFNndoMm1jcGtZbEJQeUg1NktNT3UzM3JXSXN5dE9GRzV2ellvcm5MYTNkVTJROXY4dFpYcTdldFNZMnMyaEF2bkJWMGhIS3RNOURCSzV0OFVBcy1jamVkbXRqYlNrdTgxQl8xd3lpWnRGN3dGVFUw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52d590f2eee4",
-      "title": "Google wants to kill disease-causing mosquitoes. Their weapon of choice is more mosquitoes - ThePrint",
-      "published": "2026-06-01T09:09:38+00:00",
-      "summary": "Google wants to kill disease-causing mosquitoes. Their weapon of choice is more mosquitoes&nbsp;&nbsp;ThePrintDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianGoogle is planning to release 32 million mosquitoes infected with Wolbachia bacteria across Florida and California&nbsp;&nbsp;The Times of IndiaGoogle's 32 Million-Strong Mosquito Army To Fight...Mosquitoes&nbsp;&nbsp;NDTVGoogle to release 32 million mosquitoes in Florida: How",
-      "sources": [
-        {
-          "name": "ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdGoyZllHRkxaV05MdllGNk52ODl1Mndpbk5VUWxSbno4RFl4RFcxU3lQckpnQTEtVmFVN0hsUDcyd0hhbFZxOUh2c3BUUFl2d2wtYm1kblh1RGVpQlBZOHNjQ1hQMEExTTRjUEg2UFpyV2ZSS0ZzZDlhZXZWZDdPcnBNdVJVTVROTF81dDhKWVRBcGw5QzBBYjhSMTVvRFpGVWdRNkx5VVJyWWlwUjEzdXZBWF9XQnhwVzdST2pnVWI0eUVE0gHKAUFVX3lxTE0xeno3dkFoNzVQS3pDNkVYcDFDdURLTnJyRGpwbHBFcDBZVzBRT1VTVEZHTEgtbUdWUWEwVWNuSUlVM3B4OERCM0MtZVJZdVQ5d0lSRGpERkZSVzJXZ1o5RDUxazQ1b2Q0d3hQQm9mUUJJaVBjdjl1NnRRbHpTNnQ2eWRkTXgtR1BOWjhnUXpHLUNZRU5XM3AxSjkxQ191NHdsMVlzblVuaDFTc1VJaFVTYWo3ZGdKdENCODI5XzRYRTVQQnBNaTJIOVE?oc=5"
         }
       ]
     },
@@ -222,18 +198,6 @@
       ]
     },
     {
-      "id": "f8157b2ab474",
-      "title": "Tata Memorial study finds radiation cuts bladder cancer recurrence risk by over 50% - The Indian Express",
-      "published": "2026-06-01T08:05:50+00:00",
-      "summary": "Tata Memorial study finds radiation cuts bladder cancer recurrence risk by over 50%&nbsp;&nbsp;The Indian ExpressAdjuvant Radiation Boosts High-Risk Bladder Cancer Control&nbsp;&nbsp;MedscapePriyamvada Maitre: BART Trial Shows Benefits of Adjuvant Radiotherapy in High-Risk Bladder Cancer&nbsp;&nbsp;Oncodaily",
-      "sources": [
-        {
-          "name": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWGZ3MDd2LUYtb1ozWmd1WkFNS1dzVWFUYXBpY1dsNXRHWTFCZTc3elh1SF9pVFlzM09yTUp3VEdSSTJPVVMwcTVXMHgxNnJpSWp3SE5yS0haZVpIeEEwaFZEcWlpMHlIeUplNXZSZ082TUU4dFBMU0RHUGRSY3NsV1g2TWtMTmdCcGFCRkhfdlEwaFdtYXp0VDV6ODlreElaV3ozdGlHYnF0LUk4X3hsMDJJdjhZRU4tcHh2cGNzOWNjSXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cc381b22448c",
       "title": "Indian team makes holy grail discovery on the Sun from Karnataka's Gauribidanur - India Today",
       "published": "2026-06-01T07:49:44+00:00",
@@ -242,18 +206,6 @@
         {
           "name": "India Today",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSERSeWI4d0N4SjUtVVZjeWltTm9zUHJ3Vk5kLUJ4RVMxWDBseEp4SDNDcnc3MnMtYTMyS3o0NGtGNU1QS2RhRnpRbXRhVklrLW1rWVJQYURMem9QTXZYdzFHdE9lZ1B5dXg2MHNnUGV2aXVXSDl6NzczbXY5X0ViNk8tdFZLNThyRVFZdlFxd2tDSHQ2czVNc1FPWGRWRGFRUGFLQ0UtQ3pOZENoZVpmeEhyQkl6Vl9ya0RuWmhIeVRVclhpekNnVTczZkJKblpPZHA5RHlRQkfSAdgBQVVfeXFMUEhEUnliOHdDeEo1LVVWY3lpbU5vc1Byd1ZOZC1CeEVTMVgwbHhKeEgzQ3J3NzJzLWEzMkt6NDRrRjVNUEtkYUZ6UW10YVZJay1ta1lSUGFETHpvUE12WHcxR3RPZWdQeXV4NjBzZ1Bldml1V0g5ejc3M212OV9FYjZPLXRWSzU4ckVRWXZRcXdrQ0h0NnM1TXNRT1hkVkRhUVBhS0NFLUN6TmRDaGVaZnhIckJJelZfcmtEblpoSHlUVXJYaXpDZ1U3M2ZCSm5aT2RwOUR5UUJH?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf8db7391b39",
-      "title": "Emissions from herbal cigarettes may be more damaging than those from tobacco ones, study finds - Press Trust of India",
-      "published": "2026-06-01T07:15:50+00:00",
-      "summary": "Emissions from herbal cigarettes may be more damaging than those from tobacco ones, study finds&nbsp;&nbsp;Press Trust of India100% Herbal? Yes. 100% risk-free? A different story: Herbal cigarettes may be more damaging than tobacco ones&nbsp;&nbsp;Deccan HeraldHerbal cigarettes no safer than tobacco, finds IITGN-Illinois study&nbsp;&nbsp;The Hindu\"Herbal\" Cigarettes May Be More Toxic Than You Think, New Study Explains How&nbsp;&nbsp;NDTVHerbal cigarettes can be as harmful as tobacco cigarettes: ",
-      "sources": [
-        {
-          "name": "Press Trust of India",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVThaYlVpaTRGRUZVMkdBNHl6blU1LWJiT2ZiSlRQVDd0ZFB1VFFJdm92eUIyTG8wM0pVMUpvd1hmd1hET2E4WWRJUDV3NGt2SWR3X3BST2FQYXI1cllzTGMwanhMaHRZbEpmSVc0Y1FxN0RWMDhwZzROUnpiUVRtZzI4d0tsaWVzOFR1TlEzQ092aEFUaG9qWjFuYWw3aGpTY0Zxb01QOVpXZFB0eTNXN19CSFVmbExBM2xvXzBoY0hSVjBjbHJtV2VNbjBvb2QyVThGRGU0MU0?oc=5"
         }
       ]
     },
@@ -294,18 +246,6 @@
       ]
     },
     {
-      "id": "9a12001d2138",
-      "title": "Mesenchymal drift may explain how aging cells lose their identity - News-Medical",
-      "published": "2026-06-01T04:51:00+00:00",
-      "summary": "Mesenchymal drift may explain how aging cells lose their identity&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZGgxWThtNm9hRjhEdWVhaE9yWjE1Wnk4NmJyc0dRaDJGV21iNWVXSllmY2tONDlyN1BUd25jVkdRUzJiZDA4MEdzTVN6UGtUd0drMFNiT2dZWjFGMXRhb0RBTkZBc0VxYnBReFZCV1QtQW5RcGVURGY1WTU1b2Z6WXlQVWtONXNlcExoZGVOWDJYS2FuYUZ6bVd2MlViaEZkMHFwODd1NFA2N1F6aUdQWkM0NA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "87726de30584",
       "title": "MA congratulates Dr Ronaldo Laishram : 01st jun26 - e-pao.net",
       "published": "2026-06-01T03:42:38+00:00",
@@ -318,14 +258,26 @@
       ]
     },
     {
-      "id": "a673489c9351",
-      "title": "Why we get brain freeze: What happens inside your head after a cold bite - India Today",
-      "published": "2026-06-01T03:00:00+00:00",
-      "summary": "Why we get brain freeze: What happens inside your head after a cold bite&nbsp;&nbsp;India TodayBrain freeze? Ice cream headaches can reveal a surprising amount about your health&nbsp;&nbsp;BBCBBC report links ice cream headache to higher migraine risk&nbsp;&nbsp;동아사이언스",
+      "id": "baa3e8d719b0",
+      "title": "A Sea Cucumber's Amputated Tissue Refuses To Die. Could It Live Forever? - ScienceAlert",
+      "published": "2026-06-01T02:58:02+00:00",
+      "summary": "A Sea Cucumber's Amputated Tissue Refuses To Die. Could It Live Forever?&nbsp;&nbsp;ScienceAlertAmputated sea cucumber parts show signs of ‘immortality,’ researchers say&nbsp;&nbsp;CNNA Marine Animal Defies the Limits of Immortality: A Fragment of Its Amputated Body Survives for Three Years in Seawater&nbsp;&nbsp;La Brújula VerdeScientists find groundbreaking potential for tissue regrowth and immortality in the ocean&nbsp;&nbsp;EurekAlert!Severed sea cucumber appendages don’t seem to die&nbsp;&n",
       "sources": [
         {
-          "name": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTi1lUUNZbmc1NkNZNHVaV3l4S183OFVHRDg3MnEzOE9Sem5XYUZ1TGNhME5CdVdGYlhrdnNYVnBKLTRORDF1LUpKM3VBaV82R0toUTJzbkpnc25hMEVoSHdNcV9ENmRNNTBJOE1SZ2RRRWlfSWxLTWljMjVfSE1EUnNwWXhWZWJFY2htY2c5OER3M00td0YwUW5BZ3pzZkxDUEdQWFE5TGJpQlk5aWZfcFdkbDMzU2xiX0pTLUlDUWlROEkxZmNPVklR0gHPAUFVX3lxTE81VGZiQjFvTm9zTk1UWEZGR2xZZFQ2M2tfaWNrX1FSUDg2Q2I1czQyNUVRRmN1UUxkX3gyV3l0TnBMajRsVFpfRjk4dFdOUk5uMGY0LVpDeEhXZHJMNnpBRTk1dFkyV0lTWVp2MXY2LWY3Y1l5eTh3NUMwMnRrdjZRM2o0TWRDTy1xWFVZLVdiaHF6SFhVMEo5eDZ3ZEU1cGo5RnNBNS1Eb3FMN2xkdks4S055SkJHZFIyUUt6THJQZ0dReDNLU294aklFTzJiUQ?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ2hjM2lZaXNXcnd3alpWQ29vQ2lja1VwMmhwYVB1dXFYOHZfQXFDNTB6SEN4X1RYb0h1eVBkb0dWUFhwNDFSUjQ1MWNJVndMVk5kdE5RLVdXVkRjaFAxQkNySzRMaEVILWR5SkYtRURzT19IUjZqa09jTmowZk5abE9BTWdGSjdrTlQ5Ry1Eb3J1T2NYc1F4b2Y0clRlN0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "358039506b06",
+      "title": "Rising lung cancer risk among non-smokers, air pollution and genetic factors linked to disease - Telegraph India",
+      "published": "2026-06-01T01:06:08+00:00",
+      "summary": "Rising lung cancer risk among non-smokers, air pollution and genetic factors linked to disease&nbsp;&nbsp;Telegraph India",
+      "sources": [
+        {
+          "name": "Telegraph India",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQN2ctX1E0N3dBWlpiUUhGdzAzcEU0cUwwRFVrTkdiQkdMWkFtSF9sWWZlQjVpdGNBTWUtZ015YmR3a09rOFBtWXBNZWJxbFFKN0p3TVpKczcyOXVYanBFUVZBRUIzWDBhYjVsTkdDUmx0VVlRRzR0enlHWHJsZXlXRGZlZ0YweXF0dy1oeXlkZUFxME9tRnIzLU9VTTUzc01SWjFMTmdYOEV5RF9vaGtXQ2xEbUt3bFZYMkxkb3FPajZQT1dqRk5SVnJleG1YTk44NUR5MVZTVmJkbXEyODltaW5xMGxjY1lYcERYWWFKVkZIR03SAfgBQVVfeXFMTW9pRkd5NHVfRFRVRkJ0bTAteEV0ZW1IaVQ2Slp5YnU0Q1g0dXBkWUFpeV9PNmx0Y3ZQTXNoNFQxblJCZ0lqeWZDeVk5ZHBINGFDNjNiOW9YWHhSMUI0dXZ6dnp1ZTlYRnFjMmZLNWhqRDN4YTVrMEY4ZDZYYk04elRDYUk2ODlCUlpFUVBqUV9kd2w3Z1BhbEh0eldsREE5N3dsZHZRblFOcUtfVTdJVm1iOGZBV2VBZExiWW93V0kxR2ppQS1HT3RFWVFUQTlaa0xQM24xWGdDblZTUjdBc1ZqakZUU3oxLWhyczNYRWp1OEp5YVVvMFo?oc=5"
         }
       ]
     },
@@ -333,7 +285,7 @@
       "id": "5e642ab537e8",
       "title": "Pigeons may be navigating with their liver, study suggests - Arab News",
       "published": "2026-06-01T00:41:37+00:00",
-      "summary": "Pigeons may be navigating with their liver, study suggests&nbsp;&nbsp;Arab NewsSee more headlines and perspectives on Google News",
+      "summary": "Pigeons may be navigating with their liver, study suggests&nbsp;&nbsp;Arab NewsHow do pigeons sense Earth's magnetic field? Scientists say they’ve solved the mystery.&nbsp;&nbsp;National GeographicPigeons navigate using magnetic sensors in livers — study&nbsp;&nbsp;DW.comScientists Trace Pigeons' Mysterious Magnetic Sense To Iron-Rich Cells In The Liver&nbsp;&nbsp;NDTVMax Planck Institute of Animal Behavior&nbsp;&nbsp;Arab News",
       "sources": [
         {
           "name": "Arab News",
@@ -369,7 +321,7 @@
       "id": "2114b6cfa781",
       "title": "Can Drinking Beet Juice Lower Blood Pressure In Older Adults? New Study Says Yes - NDTV",
       "published": "2026-05-31T13:04:42+00:00",
-      "summary": "Can Drinking Beet Juice Lower Blood Pressure In Older Adults? New Study Says Yes&nbsp;&nbsp;NDTVMedical Bulletin 27/May/2026&nbsp;&nbsp;Medical DialoguesThis drink recommended by 4 dieticians lowers blood pressure naturally&nbsp;&nbsp;Paris Select BookForget pills? This humble vegetable juice slashes blood pressure in just 14 days, biggest study ever&nbsp;&nbsp;The Economic TimesIn just two weeks: scientists have discovered which vegetable juice helps stabilize blood pressure&nbsp;&nbsp;Inbox.eu",
+      "summary": "Can Drinking Beet Juice Lower Blood Pressure In Older Adults? New Study Says Yes&nbsp;&nbsp;NDTVMedical Bulletin 27/May/2026&nbsp;&nbsp;Medical DialoguesThis drink recommended by 4 dieticians lowers blood pressure naturally&nbsp;&nbsp;Paris Select BookForget pills? This humble vegetable juice slashes blood pressure in just 14 days, biggest study ever&nbsp;&nbsp;The Economic TimesWe Asked 4 Cardiac Dietitians About the Best Drink To Lower Blood Pressure and They All Said the Same Thing&nbsp;&nbsp",
       "sources": [
         {
           "name": "NDTV",
@@ -381,7 +333,7 @@
       "id": "6a4fccbf0dd9",
       "title": "Cortical Labs trains brain cells to play Doom - Let's Data Science",
       "published": "2026-05-31T10:32:27+00:00",
-      "summary": "Cortical Labs trains brain cells to play Doom&nbsp;&nbsp;Let's Data ScienceResearchers teach brain cells to play 'Doom'&nbsp;&nbsp;Phys.orgGPU is not the end game in AI, but biological neurons&nbsp;&nbsp;Sebastian Barros Newsletter🧠 Here is the first living 3d neural network for AI&nbsp;&nbsp;Techno-Science.netHuman Brain Organoids Are Learning to Play Video Games. That Is Only the Beginning.&nbsp;&nbsp;ScienceBlog.com",
+      "summary": "Cortical Labs trains brain cells to play Doom&nbsp;&nbsp;Let's Data ScienceHarnessing human brain cells to create biocomputers&nbsp;&nbsp;News-MedicalBrain cells learn gaming in surprise experiment&nbsp;&nbsp;Minute Mirror🧠 Here is the first living 3d neural network for AI&nbsp;&nbsp;Techno-Science.netLab-grown human neurons play 'Doom' on CL1 chip in Australia&nbsp;&nbsp;NewsBytes",
       "sources": [
         {
           "name": "Let's Data Science",
@@ -402,10 +354,22 @@
       ]
     },
     {
+      "id": "dca5bf24815c",
+      "title": "Breaking free from tobacco: Expert tips to quit and what happens when you do - The New Indian Express",
+      "published": "2026-05-31T10:14:04+00:00",
+      "summary": "Breaking free from tobacco: Expert tips to quit and what happens when you do&nbsp;&nbsp;The New Indian ExpressWorld No Tobacco Day: Early Signs Of Tobacco-Related Diseases Users Often Ignore&nbsp;&nbsp;NDTVWhat happens to your body when you stop smoking? A doctor breaks down the recovery timeline&nbsp;&nbsp;Hindustan TimesThat Morning Cough Could Mean More: Early Warning Signs Smokers Shouldn't Ignore&nbsp;&nbsp;News18What happens to your body 90 days after you quit smoking&nbsp;&nbsp;Healthshot",
+      "sources": [
+        {
+          "name": "The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUZ1X05oMVJ1QTV1MnVTdHNMNThxeUtGYlhvOXZjVGd4RXZ6eEZ6VTBqUFpyWE10eVoyX0cwUWlSR3BwdDdJNDN6TktfM29laFlnbEZ0MGVrWWM5ZndvZnhuZlZ3b25heWNXTjltQ3hqNm1FUnA0My03VGpnZ2FpVEpGU3ExVl9laEk0MjVwZ0NKSm1QTmp4QmFtanF1eEs4QWhuMmx4U3JIenk5MEFIcTRyajdGM1RjZmhZbldub1IxVndYQWpIR3JSZVFUTjNPRkJV0gHgAUFVX3lxTE5DTXBQdTkwMU5NQUY3bHAwWUpVNzBFSTJLb3ltQzVkSmxIWXU4WnYyUkc2TnFLZFFIUWcxOUtEbk9ZTkRxWlJzbEItUXM4U1dMVXg4OWhaOTNnVDJrZnA3RzM5NTBGQXUzRE1kQ0hUQnVZdTFJeTBpRWIxdVRpTzhQR2RIVW5RQ2REQjl4T2RHYlU5NHEwVVA3U0NMQ3VMRVBmdDRTUXE0aml5NUw4TGFLVjBhRWFwc25mUGdRWldCY1lxWF9oYzJZQUlBOVZkLTVJNVl2MnZ3Qmp0WVdoWVBx?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4b201d7837e8",
       "title": "WHO chief urges safe burials in visit to heart of Ebola outbreak - theherald.co.za",
       "published": "2026-05-31T08:03:48+00:00",
-      "summary": "WHO chief urges safe burials in visit to heart of Ebola outbreak&nbsp;&nbsp;theherald.co.zaEbola spread in DR Congo 'deeply alarming', MSF warns&nbsp;&nbsp;BBCCongo and Uganda report 263 confirmed Ebola cases with 43 deaths, Africa CDC says&nbsp;&nbsp;The HinduWHO calls for community cooperation to contain Ebola outbreak in DRC&nbsp;&nbsp;The GuardianWHO chief calls for reconsideration of travel bans as DR Congo battles Ebola outbreak&nbsp;&nbsp;News On AIR",
+      "summary": "WHO chief urges safe burials in visit to heart of Ebola outbreak&nbsp;&nbsp;theherald.co.zaSee more headlines and perspectives on Google News",
       "sources": [
         {
           "name": "theherald.co.za",
