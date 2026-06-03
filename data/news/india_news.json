@@ -1,15 +1,63 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-06-02T20:31:21.765021+00:00",
-  "total_fetched": 61,
-  "unique_count": 61,
-  "health_related_count": 36,
+  "fetched_at": "2026-06-03T02:26:55.272552+00:00",
+  "total_fetched": 95,
+  "unique_count": 95,
+  "health_related_count": 45,
   "news": [
+    {
+      "id": "52f8fb8e3c76",
+      "title": "Two-Photon Imaging Reveals Brain Mitophagy Decline - AZoOptics",
+      "published": "2026-06-03T00:01:00+00:00",
+      "summary": "Two-Photon Imaging Reveals Brain Mitophagy Decline&nbsp;&nbsp;AZoOptics",
+      "sources": [
+        {
+          "name": "AZoOptics",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NZ1JiUlBuRklZeGtMRWo5MDQ5a2JIcnFjbjFNUUo3U3l3UzFsYUJVNXItSGR4MjdtQ3NxVklUdlJOaXE0T3lYbDJQUnRsbDkzZ3lqQkhiaDRFTlY3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "09cde757d1d2",
+      "title": "Researchers automate detection of fish cleaning interactions - Let's Data Science",
+      "published": "2026-06-03T00:00:00+00:00",
+      "summary": "Researchers automate detection of fish cleaning interactions&nbsp;&nbsp;Let's Data Science",
+      "sources": [
+        {
+          "name": "Let's Data Science",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcVpvZkU1dHVNcjc4R0xxMHFyQ2JIalBpUGxJMWlvQkNqWjFndktXa1R2S045MUJocXBNMzNySW01VXMySWM0cXUwMjJ6Vk9kZ0l0RkpRVnVta0ZoQ1RCQlgxdUxDQTZ2MFRLOVhXVndrSlk3X0pWeGVSb0FDV2UzcFdVVUxSV2FjZjlrZGhnUVhtVXFkZk0tS1duZElwS3k3UUVhRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c86e8ca9245",
+      "title": "Existing drug enhances muscle repair during GLP-1 weight-loss treatment in mice - Medical Xpress",
+      "published": "2026-06-02T22:20:04+00:00",
+      "summary": "Existing drug enhances muscle repair during GLP-1 weight-loss treatment in mice&nbsp;&nbsp;Medical XpressTaking Ozempic? New Study Explains Why Pairing It With Exercise Is Important For Your Muscles&nbsp;&nbsp;NDTVExisting Medication Reduces Muscle Loss in Mice Treated with GLP-1 Weight-Loss Drugs&nbsp;&nbsp;geneonline.comWithout exercise, Ozempic can lead to muscle loss&nbsp;&nbsp;Digital JournalEAS 2026: Exercise Unlocks Greater Benefits from Ozempic&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfNEJRVFBVNk5KY2F3ZTVmNHhpZ2o4TUlidFBpYjljWVhtUXNzSjc5WTZkY0JMZVJlWXNFN09URkFRR25wYmJkWFBFc1lvNXpDY24yOExmc3JLV2h4UXpaSlhwY3hIU1Njd0pPdmw0SlQ2TTl5QmYwWVUzRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c7125995c62a",
+      "title": "Google-backed firm plans 64 million mosquito release in US states; sparks outrage: ‘It’s dangerous’ | Hindustan Times - Hindustan Times",
+      "published": "2026-06-02T19:16:51+00:00",
+      "summary": "Google-backed firm plans 64 million mosquito release in US states; sparks outrage: ‘It’s dangerous’ | Hindustan Times&nbsp;&nbsp;Hindustan TimesDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianGoogle is planning to release 32 million mosquitoes infected with Wolbachia bacteria across Florida and California&nbsp;&nbsp;The Times of IndiaGoogle's 32 Million-Strong Mosquito Army To Fight...Mosquitoes&nbsp;&nbsp;NDTVWhy Google wants to r",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRFltMGY4ZHFUSXBIV1ZrcDBIMEVRdm9VZDcwVWVpVjZKcURadGZ3MU1zZ1ZCX0NNOTJOT0p4ZVR4TmlzaHBGOTVQeHZTajFUR0ZXRzVTeHJDMEVwUjN2eGFXTzV4cHgyN29scGVDTFd3a3V4aGNZRm80VmZYOWlRYVR5YWFVUjhvcjBHVF9jelhRZnRUUkVsNEI2NTNNSHJabG9kNWl5bm1HN0hrN2duZ1RUMmFrdENEei15TEFhQlNZMzQ1R0tpQkI2NUdSQnF2NkVVV1J3emI3Q3J3SmZmLTVMMDJWVFpYMmZrOVJWYm9jeXRncHcwYtIB_gFBVV95cUxObGRaOE1uYTlrUGxYOGxjakNzcGFDS0ltUDRjTk1KNHl0NEhvWTJJb2ZBcGp1cTdSMU9fTU0zaFFWZFNvU0l2aEVubmZOeC1ZZTN0VTc5blFGbzlYWGFpZWlRRXlhdm45QVBUWTEySXJYQVVrYU1tQWsweTFYdlREUEZHd1RfN0lCMDVYM1RwWTc1ZUttelN2VHhZcWM3SURNOXZtX0xmcWNaLVFaUVphRHJETXBVNnhZZjNBS3NWODJidldvZFIyTFUxMEhnSk9vNklOTFhDWURSdUxVLV91VXNNR1dJTXg0bmFGVm9LVjI1elVWd29mbFRFM2xfUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "df3c9a76019c",
       "title": "Allen Institute launches global research initiative to accelerate new treatments for brain disorders - News-Medical",
       "published": "2026-06-02T17:48:00+00:00",
-      "summary": "Allen Institute launches global research initiative to accelerate new treatments for brain disorders&nbsp;&nbsp;News-MedicalThis scientist learned he has a devastating brain disease. He set out to cure it.&nbsp;&nbsp;The Washington PostEverythingALS and Vision 2030 Invest in Allen Institute Initiative to Accelerate ALS Research&nbsp;&nbsp;Business WireThe Brain Health Accelerator Seeks to Revolutionize Neuroscience Research&nbsp;&nbsp;the-scientist.comAllen Institute launches $200M effort to tur",
+      "summary": "Allen Institute launches global research initiative to accelerate new treatments for brain disorders&nbsp;&nbsp;News-MedicalThis scientist learned he has a devastating brain disease. He set out to cure it.&nbsp;&nbsp;The Washington PostEverythingALS and Vision 2030 Invest in Allen Institute Initiative to Accelerate ALS Research&nbsp;&nbsp;Business WireUpdated: Allen Institute launches $400M effort to turn brain atlas lessons into medicines&nbsp;&nbsp;Endpoints NewsThe Brain Health Accelerator Se",
       "sources": [
         {
           "name": "News-Medical",
@@ -18,22 +66,10 @@
       ]
     },
     {
-      "id": "00f05643ad76",
-      "title": "Breakthrough drug nearly doubles survival with advanced pancreatic cancer – an oncologist explains how daraxonrasib overcame an ‘undruggable’ disease - The Conversation",
-      "published": "2026-06-02T17:39:10+00:00",
-      "summary": "Breakthrough drug nearly doubles survival with advanced pancreatic cancer – an oncologist explains how daraxonrasib overcame an ‘undruggable’ disease&nbsp;&nbsp;The ConversationDaily pill doubles survival time for pancreatic cancer patients&nbsp;&nbsp;BBC‘Landmark’ pancreatic cancer drug keeps patients alive for twice as long&nbsp;&nbsp;The Washington PostDaily pill can double survival time for world’s deadliest cancer, trial shows | Pancreas cancer&nbsp;&nbsp;The GuardianStanding ovation at ASC",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWldLYzNpMVZaQWcwLVFsdlE0dVFIaldUeV9wWDd4c3dpWWhKenNUNVFkYU1qWTdfZmJFZDBZNWVKS2t4QlZTUnJSb004ODl4QmdjSkd4ZlZqM3BOemV0Tk5WNDZlQ05pWnNLSHJRTTVMZjZhWHg1ZWdVeU13NnN1Z2U1MDU0YUpnTHdMaTE2anRldVQ3S3p2SU1KM1BYY0tlVm9xUFdUOXJxQXVFUWg4TkgtSXlOSEVhWnZqRTB3TFBGM3cxdV9PcU9vYXNwWGRYRlNfTktFT0dmeHRfVmE5M3JfdE9ZUHBjS1NNZWhUbDVWNTJOLXI2LTlRck5wWGUyckVsWU5Ra19tUUZ6?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5d46faec11cd",
       "title": "Ebola cases fall to 300 after hundreds ruled out - The National",
       "published": "2026-06-02T17:19:58+00:00",
-      "summary": "Ebola cases fall to 300 after hundreds ruled out&nbsp;&nbsp;The NationalHow health workers in DR Congo are treating Ebola and staying safe&nbsp;&nbsp;BBCWHO Chief To Meet Congo President, As Group Warns Ebola Likely Spread Undetected For Months&nbsp;&nbsp;NDTVWHO says suspected Ebola cases drop to 116 after hundreds ruled out&nbsp;&nbsp;The HinduEbola outbreak spreading in Africa is 'likely far worse' than official figures suggest: IRC&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "summary": "Ebola cases fall to 300 after hundreds ruled out&nbsp;&nbsp;The NationalHow health workers in DR Congo are treating Ebola and staying safe&nbsp;&nbsp;BBCWHO Chief To Meet Congo President, As Group Warns Ebola Likely Spread Undetected For Months&nbsp;&nbsp;NDTVWHO says suspected Ebola cases drop to 116 after hundreds ruled out&nbsp;&nbsp;The HinduEbola Outbreak, DRC and Region, Situation Report #1, June 2, 2026&nbsp;&nbsp;ReliefWeb",
       "sources": [
         {
           "name": "The National",
@@ -42,14 +78,26 @@
       ]
     },
     {
-      "id": "f5ecdd9dbe97",
-      "title": "Africa races for Ebola vaccine as outbreak outpaces response - SciDev.Net",
-      "published": "2026-06-02T16:32:07+00:00",
-      "summary": "Africa races for Ebola vaccine as outbreak outpaces response&nbsp;&nbsp;SciDev.NetGavi commits US$ 50 million to Bundibugyo Ebolavirus vaccines and outbreak response&nbsp;&nbsp;Gavi, the Vaccine AllianceCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPIThree Ebola vaccines in development amid growing outbreak fears&nbsp;&nbsp;BBCModerna partners with global health coalition to develop Bundibugyo Ebola vaccine&nbsp;&nbsp;ETPharma.com",
+      "id": "1279ff168a9e",
+      "title": "Pioneering Research Sheds New Light On What Shaped Extinction Pattern Of Prehistoric Marine Life – And Size Clearly Mattered - astrobiology.com",
+      "published": "2026-06-02T15:31:58+00:00",
+      "summary": "Pioneering Research Sheds New Light On What Shaped Extinction Pattern Of Prehistoric Marine Life – And Size Clearly Mattered&nbsp;&nbsp;astrobiology.comSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "SciDev.Net",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWt5VnFrN2loRHZ3UHZhMm5RX2h1NVlnM2dsdldnSllWbXhzMW43N1ZlRWVMZEJ2Z2pxdlpiNkF2Sm9EU0YtZjBaZ1FVNGdSemxGTFpiQUZYOEIwWlJCUVMxLW9kSTFHTmxTd2JjalFpUlduYndYMVlEYWZDbDJ0RVFyVEh3eTNwRHgxTG9zYXNZSXZDWkdfTW16alA?oc=5"
+          "name": "astrobiology.com",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdmU2WFFyS0E3bDV2SnhZWjBodzl1anRqX21yaTdGbmd4LUZoZ2xWYXpFV2x5Tkw3Qks2aUVlOTZvNGhNeFVJN2lSZmVDclMtRVRiS1h5Z3dLNmsweXpDSmQ5dm82YTkxNFhJVkVLcHJwNFNwVDJuR1pIQmt6blZSUnRfSW8teUJxOHEwQzNaMWxjZ01xRnZ0Mll5cGhqdHZ5M05yaVBBcldVQ2lWb1N1TktzdEFqaUdfQlNfRGdBTFlpMHZjaEl0b2NRaDFMSll5OFZ0SHYxMGNPRTlCdDVZUXhDVHY1ZUpfSVBtckJEb2ZsZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2bd447d3265e",
+      "title": "Pancreatic cancer breakthrough? New drug nearly doubles survival in advanced cases - theweek.in",
+      "published": "2026-06-02T15:29:00+00:00",
+      "summary": "Pancreatic cancer breakthrough? New drug nearly doubles survival in advanced cases&nbsp;&nbsp;theweek.inDaily pill doubles survival time for pancreatic cancer patients&nbsp;&nbsp;BBCASCO: RevMed confident in Ras leadership as rivals square up&nbsp;&nbsp;Fierce BiotechDaily pill can double survival time for world’s deadliest cancer, trial shows | Pancreas cancer&nbsp;&nbsp;The GuardianStanding ovation at ASCO 2026: Daraxonrasib Shines in Pancreatic Cancer Breakthrough&nbsp;&nbsp;Medical Dialogues",
+      "sources": [
+        {
+          "name": "theweek.in",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTjFIVG1JcklOQjh5cnZmNzJmd1YxamhYSEEtSkxaM0tXeURibGFvUlYwN25qYm9PTjNVZF95RzFaekFObnR5NWtwQ0ZoWWE3U2FUV2xJUE12UFFNdm05TGVORHo2UzZtTFQ2N2lyV3JkYkJOZ0UxYWdGcU0yYlREUGJfaWJHR3o5Yi0wbjI1UDJVMlRSdHFFaG5Vd2x4VXVjZjZaX3ludEZOTWdEVlE4am9SYkdYdnFMc2FYOXlsMm5PY2JDTzBTMUVRWkw?oc=5"
         }
       ]
     },
@@ -62,6 +110,18 @@
         {
           "name": "Labmate Online",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdE9hVVFGVEJfY2kwQUt5ZGhYVklJb0VKTXBIS0RBQ2VpU1NEamZIVjNnUXVjWGJZWGQ1RWVsYzlHWkQ3czVIdUtGZkx4MkNoNUVZN181ZUt5dWlPOHNSRlIySDNOdVo1RDVLeWFOSkVjMmhkc3RRTTJES1Y2ZmxuZnRtNWxicHoxRDVUY2tXWkJPNjdrOWlBRC01ZGtudFJ5VElhUG8zMHVJRkJQSjcwWGYtRnN0T0VKTlB3WHhfcEtkTzlqa294M19NMUVXNW5rRy0zOGVYT09QdElsSERGcXE1VHNycGZjWFE0ZmQ3aw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "823a14e088bb",
+      "title": "Cepi funds three prospective vaccines targeting the epidemic-causing Ebola virus - BusinessLine",
+      "published": "2026-06-02T15:28:14+00:00",
+      "summary": "Cepi funds three prospective vaccines targeting the epidemic-causing Ebola virus&nbsp;&nbsp;BusinessLineGavi commits US$ 50 million to Bundibugyo Ebolavirus vaccines and outbreak response&nbsp;&nbsp;Gavi, the Vaccine AllianceCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPIThree Ebola vaccines in development amid growing outbreak fears&nbsp;&nbsp;BBCModerna partners with global health coalition to develop Bundibugyo Ebola vaccine&nbsp;&nbsp;ETPharma.com",
+      "sources": [
+        {
+          "name": "BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPclFfb2ZldkhOcmRpbjVodUJfU2ZVREFsUG14d1g0M1E4dDNqRmsyWERsdU1oMVB1X25NcEl4eVBHYlFiMlU4aVNzRHZIZGM0cEdXTGlVQnU4WWNrYU5sOWh2dHFKWTdNbENseEFjdjZ5Um5iVjNoT0Q1RzRfMHpOdUJ0cHBtMENsemx2WERfaDQtaVdHWW1YWmtpY1JMY1F5LVBjeGlnODQ3MF8zd2ZWVjBKekZZTTctMGhkczU4bW1QQW43VWIyZG5CWkxPUnpmS0Rhbl9Ra0w2d9IB4AFBVV95cUxQUUVZLV9UclpHcENTQU8xRlRMdFkxaVNSMUxmdFZwdlc4dHBkemljVU52aWRTTTVrdGRkeWQyUDB6cTN4blVNbU41MkhjdFFCS0RBT3k4cEtyM0lHTTJoeTMtYmtJbTNKZXluTEtnYkN3dlV0SWhxczJjQ3FNQmJfN3VBeDNGeUVTd2VCRC1MZW5Tc0dwcmtlbENJR1NMN1pZYi10YjFrVWhrODhSb2ExRFpRTGhoV0dLTHNoVWFPeG53Zl9PTnp3QWVaWHQydE5zQzh1ZFIteFE4YkJmd2tGUQ?oc=5"
         }
       ]
     },
@@ -80,7 +140,7 @@
     {
       "id": "26309cd2c56b",
       "title": "Oxidation Constraints On Terrestrial Planet Formation From A Ring - astrobiology.com",
-      "published": "2026-06-02T14:48:45+00:00",
+      "published": "2026-06-02T14:51:58+00:00",
       "summary": "Oxidation Constraints On Terrestrial Planet Formation From A Ring&nbsp;&nbsp;astrobiology.com",
       "sources": [
         {
@@ -93,7 +153,7 @@
       "id": "a70fe1a32e07",
       "title": "Global Cancer Workforce Could Face Major Shortages By 2050, Says Lancet Oncology Report - BW Healthcare",
       "published": "2026-06-02T14:38:30+00:00",
-      "summary": "Global Cancer Workforce Could Face Major Shortages By 2050, Says Lancet Oncology Report&nbsp;&nbsp;BW HealthcareLargest shortages in cancer workforce in 2050 could be nurses, diagnostic specialists: Study&nbsp;&nbsp;The HinduOncology Shortage of staff forecast to hit 100m by 2050&nbsp;&nbsp;MagzterLancet Oncology Commission at ASCO26 on Global Cancer Care Shortfall - The Lancet Group&nbsp;&nbsp;OncodailyAs cancer incidences expected to increase 75% by 2050, world will see 100 million staff short",
+      "summary": "Global Cancer Workforce Could Face Major Shortages By 2050, Says Lancet Oncology Report&nbsp;&nbsp;BW HealthcareLargest shortages in cancer workforce in 2050 could be nurses, diagnostic specialists: Study&nbsp;&nbsp;The HinduGrowing 'Cancer Crisis' Requires Millions More Healthcare Workers, Report Warns&nbsp;&nbsp;ScienceAlertShortage of cancer specialists to rise to 100 mn by 2050: Study | 'Cancer cases expected to hit 35.3 mn in 2050' | Inshorts&nbsp;&nbsp;InshortsLancet Oncology Commission at",
       "sources": [
         {
           "name": "BW Healthcare",
@@ -105,7 +165,7 @@
       "id": "8041e427b4c3",
       "title": "NASA Testing Wastewater Treatment Facility for Future Moon Base - NASA (.gov)",
       "published": "2026-06-02T14:31:18+00:00",
-      "summary": "NASA Testing Wastewater Treatment Facility for Future Moon Base&nbsp;&nbsp;NASA (.gov)The ‘giant leap’ for mankind: Inside NASA’s bold plan to build a Lunar City&nbsp;&nbsp;The Times of IndiaNASA and beyond, science collaboration should be the compass for space, not conflict&nbsp;&nbsp;The Indian ExpressNASA lays out moon base plans with landers, buggies and drones&nbsp;&nbsp;The HinduNASA unveils Pegasus and CLV-1 electric rovers for Artemis missions&nbsp;&nbsp;NewsBytes",
+      "summary": "NASA Testing Wastewater Treatment Facility for Future Moon Base&nbsp;&nbsp;NASA (.gov)The ‘giant leap’ for mankind: Inside NASA’s bold plan to build a Lunar City&nbsp;&nbsp;The Times of IndiaRovers, regolith, robots: The blueprint for the moon&nbsp;&nbsp;Phys.orgNASA Provides Update on Moon Base Rovers, Landers, Missions&nbsp;&nbsp;NASA (.gov)NASA and beyond, science collaboration should be the compass for space, not conflict&nbsp;&nbsp;The Indian Express",
       "sources": [
         {
           "name": "NASA (.gov)",
@@ -138,14 +198,26 @@
       ]
     },
     {
-      "id": "851c62450cf0",
-      "title": "Lung cancer: a scan that detects early and an injection that may prevent it - The Hindu",
-      "published": "2026-06-02T13:17:25+00:00",
-      "summary": "Lung cancer: a scan that detects early and an injection that may prevent it&nbsp;&nbsp;The HinduBlood test predicts tumor response to treatment&nbsp;&nbsp;National Institutes of Health (.gov)Simple blood test shows promise for personalising lung cancer therapy | Sinar Daily&nbsp;&nbsp;Sinar DailyCan Proteomics Refine Lung Screening?&nbsp;&nbsp;conexiant.comSimple Qld-developed test could end cruel cancer guessing game&nbsp;&nbsp;The Courier Mail",
+      "id": "751fd953734d",
+      "title": "Apple Watch App Can Spot Major Seizures With Few False Alarms - NDTV",
+      "published": "2026-06-02T13:54:25+00:00",
+      "summary": "Apple Watch App Can Spot Major Seizures With Few False Alarms&nbsp;&nbsp;NDTVApple Watch app detects seizures with 98% accuracy&nbsp;&nbsp;News-MedicalSmartwatch App Detects Seizures with Low Rate of False Alarms&nbsp;&nbsp;Brain & LifeEpiWatch, Inc. Announces Publication of Landmark Phase III Study in Neurology Open Access&nbsp;&nbsp;The National Law ReviewSmartwatch App Accurately Detects Major Epileptic Seizures&nbsp;&nbsp;U.S. News & World Report",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYk0xVFBBem9ReDFzSXhSeUEyc0I4VG5jelRMRmRyamg2bi1ZQndJbTlONEZ3cHJqNDRRcHg2T0l5ZExWMmRIZVk1Y3pyOFo0WkZ0OE9Nb2E1bVhyaFRQTWctUWJnVVRjR29iclBxSkdmZjBXbE5FNWZZSElGRmpkSGhyLTZLeTRnWHd2X2h5Rkp0Q1FPeUFRZ2JzQkZYSHp3elp4N3RhWDl3RnpXSnNqZmVTN2p3RlUyNlJUSTU3ckgxOEh2ZnFNdXVCbzRFRTBm?oc=5"
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcFlPMzBwVGVmaW5xOWhlYlowb2ZwUEQ3THBMZThfNlVjQTNxWEh3V2E5SnNDVE1DaUlRdWxDMnBBbWZIQkR5ZG5HNllWV18xdHBRRTVFY1RoSGxYVmNoYllubWlBX29ZdmdTbThjblgtdnE3VUo2TlhjR0liUDhpS3JuNnVCcEZXQTBiRU9CWXJ4T3BSUEctZ25ycWhFVUw0dUdORFI2dmI1YWwzTnlyVmFnNNIBugFBVV95cUxPTGgtMGpnVjByM3VoRHVZczZQRHZST0lSakpTRFJGMzBURWhtYUJUSEp1dl93Q2NoMHJxUV9raUZEMXhyWFZBRVU1R0piRm8wNnNVOHczWjlBNndEYUU3NHVFTWo0NEt2emJnbDJRbnREVnd2dGZRYmxrZFQ0R01PV19lUWZpazVJQWl2YXZxRWcydmRzZXRmMmxnckZVbDBBM2UyRG5zbWhjUDhLbFZkVkd0Zkh5QlBEQUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d400e7b4f87c",
+      "title": "Can extreme fitness goals affect fertility health? Here's what doctor wants you to know - The Times of India",
+      "published": "2026-06-02T13:31:00+00:00",
+      "summary": "Can extreme fitness goals affect fertility health? Here's what doctor wants you to know&nbsp;&nbsp;The Times of IndiaIs it true that … you should sync your workout routine to your menstrual cycle?&nbsp;&nbsp;The GuardianThe truth about cycle-syncing your workouts&nbsp;&nbsp;Women's Health Australia",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNTNhZDBTOE12bGsxeFphT2MtQTc1d0hWZW9RQ3dHbVUyX0dsZzg5aV9qaXAwVm5ZWEhYdWhqT015cXRGSnpqdTFZSEVKeVowN2NOcmpxYVVaUVcwYTFDeG53SnY4eDVkWGNSQlBRRlMyYVI3ajJXd21iVFZoaDQ3R01MOWdvYVBPcy11aEwza3ZncHhhOUdHTW5fLXZIUFR5VEdoTGVJdmduYlFveVNnTnBDbzM0NndmS3FxVVh3ZS1wbDdPU2QwLVlhRFRWeVpXYlVkRFdNXzBaOUJ0aHRzZFl6YmhtNlE5bUHSAe8BQVVfeXFMTzFlWnk0c0xYV1RiN09NNzVzVVByenY2SEZSNXp1Y2JDU2puckN3RDdPTWRacmNCcjVoQUVvTzdLVEVzYkJSZmRyY3dzY3hKT0dGNjZrT1NRakQtREpTM0pfalZYU0ROSksyaldxdUlxQUIyTjVHbDlqN3NNY0t0RHoyNmhjRk11QUdaaWYwRXRBOTByX3RkekVpUmdONjB6ZDJXMTlnYXp5MklEMnItdXhIS3JOVExIUkxidkQ3bG5SakhkWk1jWk1PT1l1ZXB2d0tDeEdTUUtYaWp0TmEtbGt0NWpsSkEwVzBkdWE0aHM?oc=5"
         }
       ]
     },
@@ -162,34 +234,10 @@
       ]
     },
     {
-      "id": "d4d6e9abedf4",
-      "title": "Massive boom over northeastern US was a meteor explosion as powerful as 300 tons of TNT, NASA confirms - Space",
-      "published": "2026-06-02T13:00:00+00:00",
-      "summary": "Massive boom over northeastern US was a meteor explosion as powerful as 300 tons of TNT, NASA confirms&nbsp;&nbsp;SpaceVideo: Meteor Explodes Over US With Force Equal To 300 Tonnes Of TNT, NASA Confirms&nbsp;&nbsp;NDTVMeteor as heavy as an elephant causes widespread speculation across New England&nbsp;&nbsp;Phys.orgMeteor explodes off coast of Massachusetts, causing loud boom&nbsp;&nbsp;CBS NewsMeteorite Delivers 300-Ton TNT Blast to Cape Cod Bay&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM08wRmtSSS1tYk5iYU1GckhNY2NITlRKMi0xLXZaV1JTWkxFVk5JdUktZ3F1NHFYYWxjelZIUm9KeXBfTG92UjRLd1dNdnUydXdxZGd0NXQ0NHNDdGMwdjhCZmdEY2RrZnFDNm5mcnZFMmFqZnkwM1BwWEJBRjhaTGk1Q2h1cTVzQnRSdmFmQ2dTb3FyTThRN1p6RTNNZGVMc2xZQzlvUktXWW5IYzJ2RkV4REV3YVIxV2poR281X0J6eFA3V0I4MXg3dzlMWEdGaFFURlVLVGdZYUp4RDdQMVF2TQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "814b6d90b4e1",
-      "title": "Tissue rigidity actively regulates cell polarity and embryonic development - News-Medical",
-      "published": "2026-06-02T12:55:00+00:00",
-      "summary": "Tissue rigidity actively regulates cell polarity and embryonic development&nbsp;&nbsp;News-MedicalDecoupling adhesion from jamming in phase transitions drives tissue organization&nbsp;&nbsp;NatureTissue Changes Linked to Cell Fate in Development&nbsp;&nbsp;Mirage News",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2RBZU1nNm9McmZFNXVsd3A2R2NjQlQyY28xSXRzaHYtTmQ5S1l6dmpVa3U1b29TSUtPbzIyalRhVTNRV3BPOWZNSmNmdnNSZ0NKMGhwUzhOMy1ST1ZrVWdFRWpHd1Z5Q1lUMXZtbUpmejBRYXd5N2Nzc0h1TGVQdkFub0NYNVJxYk5XR0JBNGtpTklGQVpaQlJ4d3ZVc29peXdyTlhFY29zZTRfSkwwZVRoaVlWNElxMWdVS0ZqYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "af2e30a98d62",
       "title": "Govt issues Ebola advisory, says no cases detected yet - ETHealthworld.com",
       "published": "2026-06-02T12:02:25+00:00",
-      "summary": "Govt issues Ebola advisory, says no cases detected yet&nbsp;&nbsp;ETHealthworld.comIndia Issues Ebola Advisory: Zero Cases Reported, High Vigilance Urged&nbsp;&nbsp;NDTV'Isolate yourself': Govt issues advisory for travellers from Ebola-affected countries showing symptoms&nbsp;&nbsp;The Times of IndiaVigilance Without Panic: How Prepared Is India To Handle An Ebola Outbreak?&nbsp;&nbsp;Outlook IndiaObsession: Violent scene censored in India goes viral on social media&nbsp;&nbsp;Mid-day",
+      "summary": "Govt issues Ebola advisory, says no cases detected yet&nbsp;&nbsp;ETHealthworld.com'Isolate yourself': Govt issues advisory for travellers from Ebola-affected countries showing symptoms&nbsp;&nbsp;The Times of IndiaIndia Issues Ebola Advisory: Zero Cases Reported, High Vigilance Urged&nbsp;&nbsp;NDTVVigilance Without Panic: How Prepared Is India To Handle An Ebola Outbreak?&nbsp;&nbsp;Outlook IndiaObsession: Violent scene censored in India goes viral on social media&nbsp;&nbsp;Mid-day",
       "sources": [
         {
           "name": "ETHealthworld.com",
@@ -198,14 +246,14 @@
       ]
     },
     {
-      "id": "e68d01ab5593",
-      "title": "Better diagnostics could have limited this Ebola outbreak - Nature",
-      "published": "2026-06-02T11:28:11+00:00",
-      "summary": "Better diagnostics could have limited this Ebola outbreak&nbsp;&nbsp;NatureEbola 2026: Employer Advisory – Workforce health and travel risk briefing&nbsp;&nbsp;MarshVirologist Available to Discuss How Tests and Treatments Could Be Developed for Rare Ebola Strain&nbsp;&nbsp;Tulane University NewsThe 2026 Bundibugyo Ebola outbreak: why R&amp;D investment matters&nbsp;&nbsp;PreventionWeb.netOnly the Right Tests Can Stop This Ebola Outbreak. Congo Has Hardly Any.&nbsp;&nbsp;The New York Times",
+      "id": "d1b8566a81f6",
+      "title": "Novel optical nanosensor for rapid detection of key gut health biomarker - Nanowerk",
+      "published": "2026-06-02T11:06:58+00:00",
+      "summary": "Novel optical nanosensor for rapid detection of key gut health biomarker&nbsp;&nbsp;NanowerkNTU Singapore and SMART scientists develop sensor that could help track gut health&nbsp;&nbsp;Nanyang Technological University - NTU SingaporeScientists develop rapid nanosensor to detect gut health biomarker for IBD and diabetes&nbsp;&nbsp;Indian Pharma PostFluorescent nanosensor detects key gut biomarker in minutes for faster testing&nbsp;&nbsp;Phys.org",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fdnJROTE4c0FIbmhCdExrSE1NdVI5R1VuWGdYWUNRNjN1UnR6RF9UeDdid0o3NUpqblZHZUtNTkIxSzByOGNjaEJ6U2dGb01XVXZka3MwUWs4dDFrZWlZ?oc=5"
+          "name": "Nanowerk",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nMGExY0U1dmoyRTg4ODF2UlVGZkswbnU5MmtuZEY5dkRBV01WUy1JSVZWVTZVU1B4Y0h3b0hTLVpNUHJMVjBISmhhYjF4NkRVZk1PNXE3dTlvUVZhWlY4UXpJNWJPRUp4aVk3UV9pWQ?oc=5"
         }
       ]
     },
@@ -213,7 +261,7 @@
       "id": "644b770500d2",
       "title": "Indian Scientist Discovers 12.6-Billion-Year-Old 'City Of Galaxies', Names It After Manipur's Loktak Lake - The Better India",
       "published": "2026-06-02T10:54:53+00:00",
-      "summary": "Indian Scientist Discovers 12.6-Billion-Year-Old 'City Of Galaxies', Names It After Manipur's Loktak Lake&nbsp;&nbsp;The Better India29-year-old Indian scientist finds galaxy city, names it after Manipur's Loktak Lake&nbsp;&nbsp;India TodayIt Took a Cosmic Village to Shape Early Galaxies&nbsp;&nbsp;Universe TodayIndian researcher names newly discovered galaxy structure after Manipur’s Loktak Lake&nbsp;&nbsp;The HinduJust 1.2 billion years after the Big Bang, galaxies were already shaped by where",
+      "summary": "Indian Scientist Discovers 12.6-Billion-Year-Old 'City Of Galaxies', Names It After Manipur's Loktak Lake&nbsp;&nbsp;The Better IndiaJust 1.2 billion years after the Big Bang, galaxies were already shaped by where they lived&nbsp;&nbsp;Phys.org29-year-old Indian scientist finds galaxy city, names it after Manipur's Loktak Lake&nbsp;&nbsp;India TodayIndian researcher names newly discovered galaxy structure after Manipur’s Loktak Lake&nbsp;&nbsp;The HinduIt Took a Cosmic Village to Shape Early Gal",
       "sources": [
         {
           "name": "The Better India",
@@ -222,38 +270,50 @@
       ]
     },
     {
-      "id": "115500962689",
-      "title": "How physics-informed ML enables continuous cuffless BP monitoring - Medical Buyer",
-      "published": "2026-06-02T10:23:55+00:00",
-      "summary": "How physics-informed ML enables continuous cuffless BP monitoring&nbsp;&nbsp;Medical BuyerWearable device can continuously monitor blood pressure without the pesky cuffs&nbsp;&nbsp;Medical Xpresscuffless diagram (IMAGE)&nbsp;&nbsp;EurekAlert!A new device measures BP on the go, without a cuff | Newswise&nbsp;&nbsp;NewswisePhysics-informed models enable cuffless continuous blood pressure&nbsp;&nbsp;Let's Data Science",
+      "id": "16800dbd3e9d",
+      "title": "Solasonine suppresses non-small cell lung cancer progression by inhibiting the STAT3/PD-L1 axis - Nature",
+      "published": "2026-06-02T10:09:40+00:00",
+      "summary": "Solasonine suppresses non-small cell lung cancer progression by inhibiting the STAT3/PD-L1 axis&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "Medical Buyer",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkNMeF9LaDZzWGRSOEplb2xURXFvZW9wNzlmVFI5VHZuYm01WUsxMkFqaHNfVEg3UTFjdDJZdHdON1A4WnhIOWZHYUl1MnVHNEpxS0RnNm5DZnlrQWZveHY0WmJzczUxWVA1U3hDVTNaVGpzNEtTb1JKQ0NJanh5dnF3c0czTUY5VTFaXzdvYVloSU9oYzRkNw?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZODhpSXZyUUppX1NGcnUwTWQwSkU2ZmpGTFU4ejhNT2M3QWhfeFNjM29ORzB3bVZxNDdUNHYtOGdnTHh3dklDSzJWcV9zcUJ4ZmNJWEVqQVVRa0tzUTZN?oc=5"
         }
       ]
     },
     {
-      "id": "7e8129be0d75",
-      "title": "Why Google wants to release millions of mosquitoes across California, Florida - The Indian Express",
-      "published": "2026-06-02T08:24:36+00:00",
-      "summary": "Why Google wants to release millions of mosquitoes across California, Florida&nbsp;&nbsp;The Indian ExpressDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianGoogle is planning to release 32 million mosquitoes infected with Wolbachia bacteria across Florida and California&nbsp;&nbsp;The Times of IndiaGoogle's 32 Million-Strong Mosquito Army To Fight...Mosquitoes&nbsp;&nbsp;NDTVGoogle wants to kill disease-causing mosquitoes. Their wea",
+      "id": "fec8267b1bd1",
+      "title": "Measles Outbreak In Bangladesh Likely To See Surge, Say Doctors: Here's Why - NDTV",
+      "published": "2026-06-02T08:33:04+00:00",
+      "summary": "Measles Outbreak In Bangladesh Likely To See Surge, Say Doctors: Here's Why&nbsp;&nbsp;NDTVBangladesh measles outbreak crosses 70,000 cases in 10 weeks | Tap to know more | Inshorts&nbsp;&nbsp;InshortsHundreds of children die within months as measles cases soar in Bangladesh&nbsp;&nbsp;BBC6 more children die with measles-like symptoms in 24 hours&nbsp;&nbsp;The Daily StarBangladesh posts more than 1,300 measles cases, 2 deaths, in 1 day&nbsp;&nbsp;CIDRAP",
       "sources": [
         {
-          "name": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSTNKaUU3ZzIyNDlkLXJnQ05XUGo3Zi10NGZPNVZBdUZjeTRPaFdIcEdpNVhEZU8yMEJ3T1p2Tno3bnZ1ZDNRVWhyUDQwbmpSUUdTRjlNbTZjWG0tY29lYmNRMmJtUkxpalNreWJ2VTBINE9BdmgzYVV1dmNBUjAtVG81c0ZwU3FKaklRT3p6cWRlOW5nOFBMOWJ3WTB3UGZpdnVN?oc=5"
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjNpdzBWZ3g4bi1MaXFlWTB2aElPblZNN1hHSnlxUkJMWjJTWURGUTIySlZaNlhSNDhYbC1tLVprS2pET184VXZDUWpzWmloakZ5SEpEcE5qMmtSTm5memVoRVkxVGpWX0hxdEx0REhCbDBGQnE0NV93cWllX005dTdSYzJFODBhNHhLRy1NeWRTUzFrLWFKSkxPYWViRFJ6VHN0U09HQ3d2aV8wM0HSAbQBQVVfeXFMTUJveW80c3E1Qzh2ZVBKTnRwbkhIRGhiUWRsQ3FmMGRjSFZIcGZ4UGl4UkY5SUNhdFdHQzRiSTlzYTZyUkNUbzFuTTVYYk5fa0ZaZlNxMDAzc0g3SW9YcUtMNTlST3NVWV9FYmIwRW4xVW9DX0Y0Qm51S3k0S3hsb2Z0Q21Eb1RIRnBodmVWeEtlaDBORF9QNllRTmRUTXlnRWV4c0xFclppZC1leERUYlNXWFU1?oc=5"
         }
       ]
     },
     {
-      "id": "edcbe7f88f01",
-      "title": "Research Bits: Jun. 2 - Semiconductor Engineering",
-      "published": "2026-06-02T07:33:23+00:00",
-      "summary": "Research Bits: Jun. 2&nbsp;&nbsp;Semiconductor EngineeringAn on-chip programmable valley optoelectronic nanocircuit&nbsp;&nbsp;NatureOptical AI May Be the Key to Faster, Lower-Power Communications&nbsp;&nbsp;i-hls.comPierre‑Luc Thériault, a PhD student in Engineering Physics and first author of the study, aligns an experimental setup used as part of this study.&nbsp;&nbsp;EurekAlert!New light-powered chip could accelerate AI and quantum computing&nbsp;&nbsp;ScienceDaily",
+      "id": "b17cf0bbcfff",
+      "title": "New Experimental Cancer Drug Removes Tumours’ ‘Invisibility Cloak’, Early Trial Shows - Deccan Chronicle",
+      "published": "2026-06-02T08:12:26+00:00",
+      "summary": "New Experimental Cancer Drug Removes Tumours’ ‘Invisibility Cloak’, Early Trial Shows&nbsp;&nbsp;Deccan ChronicleSmart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial shows&nbsp;&nbsp;The GuardianImmunotherapy injection shrinks tumours in patients with recurrent and/or metastatic head and neck cancer&nbsp;&nbsp;The Institute of Cancer Research (ICR)Forget chemo or immunotherapy: ‘Revolutionary’ cancer jabs destroy tumours in treatment-resistant cases in tri",
       "sources": [
         {
-          "name": "Semiconductor Engineering",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GM2FhWUQ4SHVWMk91bGZxRzIxZ0JJbkFTSnFrUkpGQTFmMlEza0RMNlZtYk14YVVPcTVTRzNncFVmb1lTTFRGX1JrN1pYMFN0TlEwdXN4UVd4amFG?oc=5"
+          "name": "Deccan Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMFpsTG9jaDFSRnExLXlLWUlNellMcjZmanpubTQ0QnUzTWg5cE5LREtIOXZ0emxpeThDRlAtV182YUtkdk5GdTUwNVZibzZ5SWNBWUFtRTZJRWl0UThiNFlIVkhmd2JHSVZpLVhGalc1QURGOXU2cGtCWFg3SWxBc2ttSkZjVmx1V0pCTnk0U1ZJSUJEQ3FhNXpqUEVLbmVqVTlZYUROVERTX0NxRmQ4ZkdrUW15TG9xaHBfY0JVcm1UTjJBRnVrMklha0thaXU5SzBEUEp5OWU2dTdkbWpkNENyUUpRcUQy0gHuAUFVX3lxTE1sM1F0STk0R2pZYlZRRU1vYU8zZHN5dm9LakozLWpHeGFVajF2REM0Q2NVTmcxYmp1NTJ1WDNpOUNpREdZVDJQb0xkRWZDT2d4NldUSUUzaldUQlBMMkRqQXFBNjh3YmdCZjJDZDZaNGNaNlhwRjQ2bGp2Y25Za2V2ZVpXbER3ek5pMTkyaFpWUk9JZUhwMmtyUGd0elNjd3pQQXM1c2tjNnhEanR4S09DS0xEdlVXSUhON0lubWg3RmtNdlNCNEpzV2pRRDJtZzVWNlVsUTE1ZURZMmdQY0lLVk5nZWN2a2NtRFNNWFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8be910f816dc",
+      "title": "Why cardiologists are seeing more 25-45-year-olds with high blood pressure and irregular heartbeats - The Times of India",
+      "published": "2026-06-02T07:34:43+00:00",
+      "summary": "Why cardiologists are seeing more 25-45-year-olds with high blood pressure and irregular heartbeats&nbsp;&nbsp;The Times of India",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNXhCRXk5dDc2Z2QtSnhkbkJ2S2hranFuaDdHeks2Z25tb2VsTTJ3ZmdLQnlLaW9Bc0tzZEFzWEpNengzNURjUjNOUHNHdjI3YXlwRzlUR0hzMkthalFLWUxzaHFfU0ZybnVXOEF5S3FROTdjTV9nSG9XakF1b0NUeHlNVG1lV1hSd09haThfU1lqd0FvTngtVVZlSXJ5OFpJWnBwMjJiUGVDUmQ0djh4QktzemFrWk5HelNSRk1XSnJianRTdlc3YV90T2JXTzZPOWxXS0lpUFE4eWZZdmJ4UWMzczUxTWh3eWtzdWx6Ul8yTDBOQ2o0cjhMd9IBgwJBVV95cUxPdFlBcjl2akhsVGItSnFrRVh5NWxDcjBXU0tzTUxyT3VGV1BWNl9KWmdScG5Bc25WLUNzMGlDQl9PZE95OEtTOXJUWTdQLXRMSnN6ZC00V1R1UXVycnhCRmtMS3pLc041aDB4X00ySGkwUlRVaTZLdmx1elRyQU1mUWNsRkNXRHhqalpCeThCM3lvYk1BTnV0VDV3Q2lfSEQ2V0hhSjU3UDlONzdhcDlXRmJaekhUOXNaX3BqM1dUeXBDNXptS1JZV1dnV0w1bVNHVFBYaXQ5LWVIb19xbUpNM0ctQ0dfVXMxdUdDTFpISnRVUk9naG90dEhQTTdSMzBmYjJV?oc=5"
         }
       ]
     },
@@ -297,7 +357,7 @@
       "id": "629f1ec3c066",
       "title": "Laser focus: controlled formation of protein networks - Asia Research News |",
       "published": "2026-06-02T06:04:16+00:00",
-      "summary": "Laser focus: controlled formation of protein networks&nbsp;&nbsp;Asia Research News |",
+      "summary": "Laser focus: controlled formation of protein networks&nbsp;&nbsp;Asia Research News |See more headlines and perspectives on Google News",
       "sources": [
         {
           "name": "Asia Research News |",
@@ -306,10 +366,22 @@
       ]
     },
     {
+      "id": "45b308ff6e92",
+      "title": "Crops grown during drought have lower nutritional value, says Canada study - ThePrint",
+      "published": "2026-06-02T05:50:17+00:00",
+      "summary": "Crops grown during drought have lower nutritional value, says Canada study&nbsp;&nbsp;ThePrint",
+      "sources": [
+        {
+          "name": "ThePrint",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOUFXT1JhWkwyNl8zOWU2SUNYVThYa0IwM2hNU3lkTlliLUJVOFMxVkpFTzh3VEZQdWF4ZUM0OV8zX25pZFpoTVIySzhvN0pwR0s0c1ZBNVJzbVVQTHlvY1hLLVV4NEM3aTdrM2hYc1FVZlFYVHpuRnlyV2pmOWhDNENlMmRUZ0R5V3BPN2NaQTVibG42RmfSAZsBQVVfeXFMTVZiRkVMMmNKejhWbkhmazhudEtSSUlyTlNxWEpOd242UllvV09wbktpRDcxYkxOc2tobWxUTnBjZlZIT1VIeUVlQVlPTy1Ydk5ud01PZk9yRG5JZ0wtV2FDcVlNdHp3QmlUcElYa0pCMlNYdHdVeG9EX0xBRGlOYm5oamhtQTR0RFYwWUZWb0F6VDAyWVUyZ0tEeUk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d7d7719c87bb",
       "title": "NASA captures a ‘hungry’ supermassive black hole ‘feasting’ at the centre of a spiral galaxy - CNBC TV18",
       "published": "2026-06-02T04:54:58+00:00",
-      "summary": "NASA captures a ‘hungry’ supermassive black hole ‘feasting’ at the centre of a spiral galaxy&nbsp;&nbsp;CNBC TV18Little Red Dot Abell2744-QSO1 (NIRCam Image)&nbsp;&nbsp;NASA Science (.gov)Study Reveals Some Supermassive Black Holes May Have Been Born Big&nbsp;&nbsp;NDTVA direct black-hole mass measurement in a little red dot at high redshift&nbsp;&nbsp;NatureAre the JWST's Early Overrmassive Black Holes Just Normal-Range Outliers?&nbsp;&nbsp;Universe Today",
+      "summary": "NASA captures a ‘hungry’ supermassive black hole ‘feasting’ at the centre of a spiral galaxy&nbsp;&nbsp;CNBC TV18A direct black-hole mass measurement in a little red dot at high redshift&nbsp;&nbsp;NatureLittle Red Dot Abell2744-QSO1 (NIRCam Image)&nbsp;&nbsp;NASA Science (.gov)Study Reveals Some Supermassive Black Holes May Have Been Born Big&nbsp;&nbsp;NDTVAre the JWST's Early Overrmassive Black Holes Just Normal-Range Outliers?&nbsp;&nbsp;Universe Today",
       "sources": [
         {
           "name": "CNBC TV18",
@@ -330,14 +402,38 @@
       ]
     },
     {
-      "id": "2123682502f9",
-      "title": "Emissions from herbal cigarettes can be more damaging than those from tobacco - The Shillong Times",
-      "published": "2026-06-01T21:59:09+00:00",
-      "summary": "Emissions from herbal cigarettes can be more damaging than those from tobacco&nbsp;&nbsp;The Shillong TimesEmissions from herbal cigarettes may be more damaging than those from tobacco ones, study finds&nbsp;&nbsp;ETHealthworld.comWhy ‘herbal’ cigarettes are not a healthy alternative, and how they can harm you&nbsp;&nbsp;The Indian ExpressHerbal cigarettes no safer than tobacco, finds IITGN-Illinois study&nbsp;&nbsp;The HinduWorld No Tobacco Day | Herbal cigarettes no safer than tobacco, new stu",
+      "id": "0c375a30d8e1",
+      "title": "New blood test tracks real time gene expression inside living brain tissue - News-Medical",
+      "published": "2026-06-02T04:06:00+00:00",
+      "summary": "New blood test tracks real time gene expression inside living brain tissue&nbsp;&nbsp;News-Medical",
       "sources": [
         {
-          "name": "The Shillong Times",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEMzdE1yZGN0NTdocC11RkdBM0dIazF3RjFTT2FVNC1yUUUtMmx0QzFmQzBxVW9YeEY3QWZzZnVpclJ1c0Z1cFFxNjNmcGpZeEt2cV9oTDFTSGVFV0Q2MWhlbGEyVFFiMnRCbXY5cGE4Zkp2bVhseXBRaE8wdlVtck8xamJNaEctWjBGdHl6Q1NUNzM2QjJGbkpLSDRDUnMzT00tM1pYeGFlVjF0dkc2cmUwRWJuM0U1UVE?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRi1QbnBOLTV0RWEyM1V1c1dTQWt4SjZDZGdGc0F6OUZ2RmVTY0tFRmFibGRKeDU5Vnhhbk03QlBGaW40N0J1TVBjME9Bem9jbUR2VFU3RHFoNEZaWWVTUnJYOGxlYnZRbE8ybnlzcWRyLW9uclRKZzhNRlkzeG10b013eDBCdVY0ZFZPN2VRbFJYNk9Wc1FWaUk3RkV5UW5PZWNhY3ZfSUJPc0Y3VDlWTmxwMzkzWDRGbWNmMWJOaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aefe9d548275",
+      "title": "Jumping genes help strengthen the mammalian Y chromosome - News-Medical",
+      "published": "2026-06-02T02:44:00+00:00",
+      "summary": "Jumping genes help strengthen the mammalian Y chromosome&nbsp;&nbsp;News-MedicalThe Y chromosome is home to surprising jumping genes&nbsp;&nbsp;Phys.orgJumping Genes Surprise Scientists on the Y Chromosome&nbsp;&nbsp;Bioengineer.org",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWXQ1eXhUdFB3M3JDUlV1NzNVOWIwcF92N1dkVzI5TWtBQk4yZFJmMG1RdW1VYTIyUHpreWp5VEYybGxPZlp1dHBPb0FZamlaLTR2bTdab0lDT3k2blFNWkNzUVp4T0tmY1RPZ0VvZTA0eWpERDBTRmxLdGFDaWY0Qy1BaTdFZDlGMFBwZVRrYzdwOVFtanFxRWdQVC1kT0FDaU42MTVFdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "145abf9429dc",
+      "title": "Can photons really spend negative time? New quantum physics experiment on rubidium atoms challenges — What - The Economic Times",
+      "published": "2026-06-01T20:58:40+00:00",
+      "summary": "Can photons really spend negative time? New quantum physics experiment on rubidium atoms challenges — What&nbsp;&nbsp;The Economic TimesPhysicists Have Measured “Negative Time” in Bizarre Quantum Experiment&nbsp;&nbsp;SciTechDailyScientists observe photons spending negative time in rubidium cloud&nbsp;&nbsp;NewsBytesScientists accidentally measure 'negative time', where clocks move backwards&nbsp;&nbsp;UNILAD TechThe scientific discovery that has shocked quantum physicists&nbsp;&nbsp;Daily Expre",
+      "sources": [
+        {
+          "name": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPb3FvSWNtNWtVN1Ytc2Z2dW9kQnFCejYtVzBnNjhnMS1HU0tHTzNWa0pRNXk2dFVhUUUtbzNab0sya0JncVQxaTdubFZIYUwwbjFvMl9ZN01PNHU5dlhNcy1ZelV6MllKYlAyRFZtQ0hSeWRSUXZaTDVjb0xQWEl4em40SVBlR29DS0lRSGozRjlDYXhmN0c5Z040U0lPUHRDVHZvVjVPNTNkc3RkVWVya3o4b0ZVd0ItXzNvVFVpQTlBNE1DSWRieHdJalEyV0J5Vjg5YlJkcS1mQktXZ3VJaFV1LWpXVGlEZFhuQlNNcVdwSDBndjhqbnBhTlFjdUpqbkFWOVBfUGFtSW9xV2l4Smc2ZVh5UFFWUmJRZExvcFYzdjFHd29xWWhoMnlMWmfSAbQCQVVfeXFMUHgzaklfX250MUlzRGthWDlGU2hMQzN4Q0l2Rk1XV0V1eFAwRG53SEp2Wmk1dUlpOThRcWxGT2JFM0poOXJJVmRvMmZTRl9TRVpNZk4xZDRQaWd6TmtIYVJUUWVRcWtnWjFZeENmdTFGRlJNQ1FOVzE2a1RkSzcxN0J0TzN5T2UtQXpoa3NyTWQxVEtKbVh1MWRNWU82Zkp6aFhPUk9BU0xnZXNKYVZ5MU5vYjZ6cHhJRTRseFpoUG1CNE1xcW5WZ2haRXRSZUdYZl9Ldi1EcHlyMkVZQ3FzTTI0RDI1NEROZlRlTkx0OEQ1NERsbXptc2owcGJTbXlMajBkUlU4bHdZbk5hcVhNOUlrSmN5cGh1ajVKdmlQaE44emlpelpqUDJmaGtEMk9PSURWMHU?oc=5"
         }
       ]
     },
@@ -354,6 +450,18 @@
       ]
     },
     {
+      "id": "0290adcb5456",
+      "title": "Research reveals fly ‘sacrifices’ sight after finding host to live on - OC Today-Dispatch",
+      "published": "2026-06-01T16:35:34+00:00",
+      "summary": "Research reveals fly ‘sacrifices’ sight after finding host to live on&nbsp;&nbsp;OC Today-DispatchSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "OC Today-Dispatch",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeHdZYVlPRGJiQ3l3UmdRamNTV0FoUEFsdDJndmpmdmVnamRWMFFwUDhjaEFyekY0OHowZjJsYzRZUmdKbUxGWVpCaS1vTG1hWkRmOW9IZ1FxMVVnLUttTEtsempPRHZGWDhrbWFqelNPa3VrLTlQaUEzUThObHpiQ0FhMlZaemV5VTZrQ3B1eUkxU3VaT3BtNUFZZUJmRkd1WWs0Z2NRNmZCTWlWUFBPTndRTkszbE1hajNXMWItVG5WeDNLbGVZT2trX2ZHWTh2cjRaa1hWMmxuTkpmUk9PUG8wUUtrZ3pHbVJIZ1VVb1IwOG5Nb3c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "289424b92050",
       "title": "Space Grown Stem Cells: How Are Expedition 74 Astronauts Helping To Fight Cancer? - Health and Me",
       "published": "2026-06-01T15:30:00+00:00",
@@ -362,6 +470,18 @@
         {
           "name": "Health and Me",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTUctay1aOXQ5dDBlbDRUZjV0bzVoYUlaZXk0WDJ2dmhJektNekI4TkgycER4MXFOblVsc0tTQjNsQVpsZDd1dEZ2M3diOEpFeHBpZ29SaU9vaGhfZVFrNXhldTFuOXR0R1RtU3pxSDd6Y1hsY25jSTZSQmpjMFVKbXRvU2tuZVFmRUlyWmRDeG5zMl9BUDV2MXNCOU9yV1d1MnBlMld3eFRjYnM1Z2tMVG9fdDJDOEFDV1RvUVdVR3lXQkZkRXlHQ19oaDE3bnNVaGdv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1eef2bd5bb35",
+      "title": "Earth's 'river of liquid iron' shields us from space radiation. But something changed 16 years ago - WION",
+      "published": "2026-06-01T14:03:00+00:00",
+      "summary": "Earth's 'river of liquid iron' shields us from space radiation. But something changed 16 years ago&nbsp;&nbsp;WIONAn Orbiting Satellite Triad Reveals Motions Inside Earth&nbsp;&nbsp;Universe TodayScientists Took a Look Inside Earth’s Core—and Made a Surprising Discovery&nbsp;&nbsp;Popular MechanicsIn 2010, Earth's Outer Core Unexpectedly Reversed Direction Deep Beneath The Pacific&nbsp;&nbsp;IFLScienceSomething Made Earth's Molten Core Reverse Direction in 2010&nbsp;&nbsp;ScienceAlert",
+      "sources": [
+        {
+          "name": "WION",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaWZTTVhxeWh2SEE2ZnA4ZUZESWdUbDE2WklTUmJsZVRvb2NFbjA3cVhNOTd6U2l2TGc0dXZRXzBGVnVmY1FPUThiQUtXQm1yR1VKQ3I0M0d0cnpGaXd2Y1hYaXlKcWl4RnFfaFY3T2tpZVJtQV9RRk5adERPTWFodlB0QTc4ak5ZWG5ES0hWaS02QXFTQVpnZzNoalNvaWVaa1F5VVZSWG9PQXdBUDZyckQwUEQtVkZ6cFMyc2RrMkdlWVljU0oxbk1vRlhmMWJJVkVJYzk5UGrSAd4BQVVfeXFMTUR6X1QxN0Jqc2o0cFQyLUZGQUNFM3Q0ckk1cHh6UllpWkpSMXBCSHZZYS1rMnpNOS1MZUNpRUxFNlc1QVpPQkV1ZGdVcVhKOV9ZNU83WGdiZ28tZ2xndVdoX08weklYOEEwXzEwOTZqZFdKckpwZ29OSmtfQ0JkNGxDVXlQdkhLM3FJb2dacjV3YmdVTHlwb0xTOGRFLTFuVFNaVDJwcVJFSnpXOW1xal80U2IzM1lvb04yeHNQM2RwU2FHSUIzUFI1NDZ4RWM2U29VbzRGX3JkUHIzM0V3?oc=5"
         }
       ]
     },
@@ -381,7 +501,7 @@
       "id": "40809932959d",
       "title": "Blood test could help detect signs of Alzheimer's disease decades before symptoms: Study - The Hindu",
       "published": "2026-06-01T11:45:53+00:00",
-      "summary": "Blood test could help detect signs of Alzheimer's disease decades before symptoms: Study&nbsp;&nbsp;The HinduBlood test with AI spots four dementia-related brain diseases with 92.3% accuracy&nbsp;&nbsp;Medical XpressIs your lifestyle increasing your risk of Alzheimer’s?&nbsp;&nbsp;The Portugal NewsAlzheimer Disease Neuropathology Can Indicate Subtle Cognitive Decline&nbsp;&nbsp;Ophthalmology AdvisorNew tools for early detection of Alzheimer’s disease&nbsp;&nbsp;University of Helsinki",
+      "summary": "Blood test could help detect signs of Alzheimer's disease decades before symptoms: Study&nbsp;&nbsp;The HinduBlood test with AI spots four dementia-related brain diseases with 92.3% accuracy&nbsp;&nbsp;Medical XpressIs your lifestyle increasing your risk of Alzheimer’s?&nbsp;&nbsp;The Portugal NewsAlzheimer Disease Neuropathology Can Indicate Subtle Cognitive Decline&nbsp;&nbsp;Ophthalmology AdvisorAn AI-powered blood test promises more accurate diagnosis of dementia&nbsp;&nbsp;bgnes.com",
       "sources": [
         {
           "name": "The Hindu",
@@ -422,18 +542,6 @@
         {
           "name": "Cureus",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX3JGMVZmQlR0Z2dfQXBRWVN6M1BiQzRKVTMwMWRFSjZXelJNcnBCdHBqZE9FTUZjaGlfN3BlRE43ZWd5aWhfSjh1SVhBSjhvVXZBLTc1WUo0T1Zuc0tSZnZUelgzd3MxVlRMdGUtSUJBWUhIWmxqc0tOWThabmRqMG01WTdQNmVWdWwwWWUyUy1IaUhmZVBpVGVaR2lkcDA0TU9hbkgtYzZFaUFiLW5qWFR3S3M0eEJmb2xJRjRHZlVua18wZUtLMi0xbGNIeFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f025cfa8b0c",
-      "title": "Trial offers fresh hope for patients resistant to standard cancer treatments - Hürriyet Daily News",
-      "published": "2026-06-01T05:55:45+00:00",
-      "summary": "Trial offers fresh hope for patients resistant to standard cancer treatments&nbsp;&nbsp;Hürriyet Daily NewsSmart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial shows&nbsp;&nbsp;The GuardianImmunotherapy injection shrinks tumours in patients with recurrent and/or metastatic head and neck cancer&nbsp;&nbsp;The Institute of Cancer Research (ICR)Forget chemo or immunotherapy: ‘Revolutionary’ cancer jabs destroy tumours in treatment-resistant cases in trial&nbs",
-      "sources": [
-        {
-          "name": "Hürriyet Daily News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMlBqNTd4dHdVcXF0YUFPVmRhRVN6Y0g1a0VzQWRRdXpzTkhDdmlkOWhuV0o3Q0lOdlBReG9UNllubk5xU2tCZ3Q5SjcxQ0R0VFZINzRHT3hoYU9ZZ2xjV0pXbmdfazhjX3hpT0hmWGdyNHRDb2xMZFVHblRkSVJ4YlBpNnNfNXgzbm5WSERxb0lPY3dfYWpwZDZQMWFMZUFNdnFCS0dqMS1WUHJ6Ny1GaXRCOTBTZnBm?oc=5"
         }
       ]
     }
