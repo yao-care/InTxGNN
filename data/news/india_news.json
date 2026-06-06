@@ -1,15 +1,63 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-06-06T08:19:10.634074+00:00",
-  "total_fetched": 48,
-  "unique_count": 48,
-  "health_related_count": 37,
+  "fetched_at": "2026-06-06T13:00:11.611031+00:00",
+  "total_fetched": 46,
+  "unique_count": 46,
+  "health_related_count": 34,
   "news": [
+    {
+      "id": "b68a0e1464e4",
+      "title": "WHO warns Ebola outbreak in Democratic Republic of Congo remains ahead of containment efforts - News On AIR",
+      "published": "2026-06-06T11:36:44+00:00",
+      "summary": "WHO warns Ebola outbreak in Democratic Republic of Congo remains ahead of containment efforts&nbsp;&nbsp;News On AIREbola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple&nbsp;&nbsp;BBCAfrica CDC and WHO launch joint continental Ebola response plan&nbsp;&nbsp;World Health Organization (WHO)Ebola Outbreak 2026: WHO Reports Nearly 500 Confirmed Cases And 84 Deaths Across Congo And Uganda&nbsp;&nbsp;NDTVWHO announces $518 million six-month plan to fight Ebola&n",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmkxY1gwbURCdW14XzhCMUZvbk9wdUc3NV9XWG5EODBVaFdUczZHY2FIVGhqUjRnbVoyZGtvNlNfaVdxREJjMGhkNXZLakVBWVFPUUpwOURSdFBJR01STVpkRGlnZ1VuMjJrY2xleGh5MTFyUWRmbGJhZklwemlnbFhJbWlrcTZPYmw3el9uMlhrWHNFeUpxWFJfWm1qSnhQRGRxRlViLUYzYzIwYlJIVjhSSk01Z3p5ZVpn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9fb988e88d6f",
+      "title": "Brain Imaging Predicts Ketamine Response in Depression - EMJ",
+      "published": "2026-06-06T11:05:57+00:00",
+      "summary": "Brain Imaging Predicts Ketamine Response in Depression&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb29XcGUtRDZTWHFDb0dzYm1EUkQxTmppV1ZhanJOeHlYdmwtTTVvZXd3WjFGRnlDakU0RWJKTlRLUGxCbWprNE5uT0hrT1UwazNOOG0xcjJmM2ZIOHZ5c01oSlRZc2pnQ3FjUUhKRXRQOUJ3V3FkMFBoUmZTUkVrMW9fNGdQa1Uxd2c5Z0RHSGdLdFNWTkpSWjFMZWVLUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f363db17094",
+      "title": "What women living with Multiple Sclerosis need - The Hindu",
+      "published": "2026-06-06T10:15:04+00:00",
+      "summary": "What women living with Multiple Sclerosis need&nbsp;&nbsp;The Hindu‘Multiple Sclerosis Changed My Life, Not Who I Am’: What 3 Indians Living With MS Want You To Know&nbsp;&nbsp;The Better IndiaLetter to the editor: World MS Day&nbsp;&nbsp;Pierce County JournalMarengo Asia Hospitals launches specialised multiple sclerosis clinic&nbsp;&nbsp;expresshealthcare.inOn World Multiple Sclerosis Day, a pitch for ‘invisible’ disabilities’ inclusion in RPwD Act, healthcare&nbsp;&nbsp;ThePrint",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmxoTE1lRFBXME1fUDFidmhoLTNfRm1vNzNiY3Y3ajBFSHd6Z2wzQi0wbVk1VmJ0RHloUlphM1NmMlJ4UDJKRmY5aXVVLVdTWkg1b3RuZVdqSTNLU3FvUVZlcTVzRTVqOFI5c3l3UElfTHpnV3RseXpQUkRRd2k1Q0dFTHgwQ0dsdXhTN0RmS2tnbjh0cjlqdFhpQzdnSDN0b0FaMTdja3RxWG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "97e8dcd512df",
+      "title": "Drug Utilization Pattern of Antihypertensive Agents in a Tertiary Care Hospital - Cureus",
+      "published": "2026-06-06T08:38:23+00:00",
+      "summary": "Drug Utilization Pattern of Antihypertensive Agents in a Tertiary Care Hospital&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUx4eXZCRXM4YmwwOG5kVUhkaHZBVG05MXJkUFRkeVZKUFRFVGExUmF4R1RrYV90d1JjUkFha2VuVF9zNzZaLS0yXzF2TDJsT1lRTnpRTWhxUlVZTkY2S1BJcnZRYmV3SUNxTHFwamc1VnRuc3hOSDhhWVFWalpaTWh4bGRIM3Y2NXVncUF0VnNVRkdXb2lsS0ZGTGhJdEMtWGUwbHZnVjlGYm1XN0VYU1NwdEctOGFVb0E?oc=5"
+        }
+      ]
+    },
     {
       "id": "2a70b87fc95a",
       "title": "NASA-backed study reveals how Earth got key ingredients for life - The Indian Express",
       "published": "2026-06-06T07:52:39+00:00",
-      "summary": "NASA-backed study reveals how Earth got key ingredients for life&nbsp;&nbsp;The Indian ExpressNASA Finds New Way Earth May Have Received Elements Needed for Life&nbsp;&nbsp;NASA Science (.gov)Life on Earth came from inner solar system, finds study | The study was published in Science Advances | Inshorts&nbsp;&nbsp;InshortsNew experiments and modeling on iron meteorites provide insight into young solar system and Earth’s building blocks&nbsp;&nbsp;Technology OrgEarth became habitable thanks to Ju",
+      "summary": "NASA-backed study reveals how Earth got key ingredients for life&nbsp;&nbsp;The Indian ExpressNASA Finds New Way Earth May Have Received Elements Needed for Life&nbsp;&nbsp;NASA Science (.gov)New experiments and modeling on iron meteorites provide insight into young solar system and Earth’s building blocks&nbsp;&nbsp;Technology OrgScientists look at space rocks to uncover how Earth got the ingredients for life&nbsp;&nbsp;Open Access GovernmentNASA study reveals how Earth may have received the el",
       "sources": [
         {
           "name": "The Indian Express",
@@ -21,7 +69,7 @@
       "id": "3f8a786a3e64",
       "title": "Australian study identifies early blood marker for lung cancer risk - DD India",
       "published": "2026-06-06T07:41:15+00:00",
-      "summary": "Australian study identifies early blood marker for lung cancer risk&nbsp;&nbsp;DD IndiaScientists Find Blood Marker That Predicts Lung Cancer Five Years Early&nbsp;&nbsp;NDTVEarly Research Suggests a Path to Predict and Prevent Lung Cancer&nbsp;&nbsp;The New York TimesBlood test can predict lung cancer 5 years before diagnosis&nbsp;&nbsp;The Times of IndiaScientists have made a discovery that may help prevent some people from developing lung cancer, which kills more people worldwide than any oth",
+      "summary": "Australian study identifies early blood marker for lung cancer risk&nbsp;&nbsp;DD IndiaScientists Find Blood Marker That Predicts Lung Cancer Five Years Early&nbsp;&nbsp;NDTVBlood test can predict lung cancer 5 years before diagnosis&nbsp;&nbsp;The Times of IndiaInternational Study Reveals How Air Pollution and Smoke \"Awaken\" Dormant Cancer Mutations&nbsp;&nbsp;QRNewsEarly Research Suggests a Path to Predict and Prevent Lung Cancer&nbsp;&nbsp;The New York Times",
       "sources": [
         {
           "name": "DD India",
@@ -30,62 +78,38 @@
       ]
     },
     {
-      "id": "616324f9ac32",
-      "title": "Argentina expands hantavirus probe; sends teams to test rats in Mendoza - The Hindu",
-      "published": "2026-06-06T06:45:51+00:00",
-      "summary": "Argentina expands hantavirus probe; sends teams to test rats in Mendoza&nbsp;&nbsp;The HinduFabled Argentine city Ushuaia tries to shrug off virus suspicions&nbsp;&nbsp;Digital JournalHantavirus: Argentina Expands Probe to Trace Outbreak Source&nbsp;&nbsp;Tempo.co EnglishArgentina to expand hantavirus search to a second province&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)Hantavirus outbreak renews painful memories for Patagonian village&nbsp;&nbsp;Digital Journal",
+      "id": "e76424e44aec",
+      "title": "Could your DNA reveal cancer risk? How a simple genetic test can detect breast and ovarian cancer before symptoms appear - TheHealthSite",
+      "published": "2026-06-06T06:02:00+00:00",
+      "summary": "Could your DNA reveal cancer risk? How a simple genetic test can detect breast and ovarian cancer before symptoms appear&nbsp;&nbsp;TheHealthSiteSmarter Than Cancer Podcast: Can we treat cancer across families?&nbsp;&nbsp;Roswell Park Comprehensive Cancer CenterInherited Cancer Risk and Genetic Testing&nbsp;&nbsp;Fox 59",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHU2eEQ3NnJnSk1kbFhoNDlwUEJyNmtnZkNwZFFlOXFmeVoteVZ6WTN1ZGhaVnJrZ0h1THV3cHFlUmE1ZWtXVGRfN2l6dkpTVlhqQkFoYTJhazVvSjlnb3RGNU9jWVZ3RHhJRkNlODRwNGpCXzN3ZVlaNVIyVEJRYkFoalhBR2JlUHNsNWZpLWd6UEhTMGltSHZZYUtmT1Rud0ZWZjZ1dFJMdEVjbEg3YzJrWTdFMkZ3Z2xRNkRMeTJkbHZuRnpaQnBjOXQ4VWvSAdYBQVVfeXFMTXQ1VWFCYnZfNXNsNXBCLWlOVDlUQjdvMnJvRG55bTh6UVpPUDhXV0NEOEJzdE5OVXlsaVhJekNWVnZreEdyOE1PVkRPcWFyQjN4R0RRZUV6bWptRkFKSkVvUVVfM1dtRUFCMTdjbDV4WXFRVlF5RFhYc0VHZFZtZ0REbm1yRXhucmdGck1XM3VYRWJsaTBBTjZRODBCNnZoMGY4M25vaWQxTnZzM19VQW43Q1I5ZUJCMGk5WEthMHNNUjlpY2dmZlBxV29IMTdWNjdHYjVLUQ?oc=5"
+          "name": "TheHealthSite",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMWNJMHh1bWVvMHVzc2hzbzdqSmhnR3NmQlREQTJ0c0FpSWU4aTlGTEdaa0NZNE5Fa1dqOTUxZl9BbjRUMllJOXJrYXZYcUhwYkJ2d3ByVzBFOEJMMGFfZE1kOHgxR01jNC1kak5zVXZXUGhLRGI3d1FYeW9tX0IwY1phUVExbkZqdUFKS3VMVk5CWGNrSHZXV1MxQzlmc3RZel9vMmdwX2ZkS21QS3J2ZzFhQXo0WExxNWo4Rjk1NU9yVEcyQjNnb0Z1WnZDRjRmTlZ4WGRTbW9kTXpsYnpzRm1xQTBsRXY3UVEwQUk1MTBLT2gtLUh4Vng4X3A4UkozXzNLSkNzNWFhQdIBjwJBVV95cUxPMVI5VTh4dHpYSmx0c0FOUFNUYXhBcVhKZnNLNzlLZ09EQUZYMFN6YjZuNmNmU1FWcEVvQUNBSWQxX3VRRk5tVzlrd211R2xWLTRuWEtQeHdZMnRlWWpnR2YtbExSeHFjakFOWnZGcVlnT3A5QjFXZVpSeVR5cDlRVllCYW56Y1RLLVJyaG11aWRqYnQtSXJFcmcyR29OeDdJTTgwSzRpSTZDS2xHVXdLTl9SbXpyS3FmTDhuUkJUeGZPbkFmOFEtbEVxNlNlUlhoOWlSVXdHUzJXUXFRNnF3TmNSOHl5aC1pU0dqV1JSY1RmZDZrWGVzeVNoTnFxRHFhc2NEaFhLTjBxaEh0LWs4?oc=5"
         }
       ]
     },
     {
-      "id": "be27d391cf9c",
-      "title": "Cytological Evaluation of Space-Occupying Lesions of the Liver by Fine Needle Aspiration - Cureus",
-      "published": "2026-06-06T04:23:23+00:00",
-      "summary": "Cytological Evaluation of Space-Occupying Lesions of the Liver by Fine Needle Aspiration&nbsp;&nbsp;Cureus",
+      "id": "745568a9f660",
+      "title": "Cambridge researchers test AI-designed vaccine in human trial - Digital Watch Observatory",
+      "published": "2026-06-06T06:00:00+00:00",
+      "summary": "Cambridge researchers test AI-designed vaccine in human trial&nbsp;&nbsp;Digital Watch Observatory'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCWorld's first AI-designed vaccine developed by UK scientists enters human trials&nbsp;&nbsp;The Times of IndiaFirst \"Universal Vaccine\" Entirely Designed By AI Tested On Humans&nbsp;&nbsp;NDTVFirst AI-designed vaccine passed its maiden human trial&nbsp;&nbsp;Deccan Herald",
       "sources": [
         {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2RicURicDdwY1g0VGhiWmJ6NkRrZ19TcUdzc3hXY3BoWU5vSTg4SDJIUVdQZkZCUEI0S20zZ01RUmFubllrVjQxRG9HQ1FIcTZsbGl4S1JsbFhzVnNVaFJ5SGh3alU2cWw0TXRJTGdRaWl3bGswME8xcVZEa29yY04tR0o3NHhyQWdRWHltZWdvSzJVbWxJWEVhaEJVYW5rZlhKdjM0VGJieXY0T01RNGl3aU9NNTZIRkxDUVNaeFk0VkkwRlE?oc=5"
+          "name": "Digital Watch Observatory",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14TzZuZEZ6RjRNeURwOHVTbW1vbGM4U25yWE9jcjVoOW9HdVdNMzlJRVFTZFB3emV0UVFNOGFXSHhEaF96ckJuZ1RueExxMmhwOUxZU1dsTmRrS0I1X1pzOTF1NnBQdw?oc=5"
         }
       ]
     },
     {
-      "id": "37d04cfd8da6",
-      "title": "AI-designed universal coronavirus vaccine passes first human trial - drugscontrol.org",
-      "published": "2026-06-06T03:22:34+00:00",
-      "summary": "AI-designed universal coronavirus vaccine passes first human trial&nbsp;&nbsp;drugscontrol.org'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCWorld's first AI-designed vaccine developed by UK scientists enters human trials&nbsp;&nbsp;The Times of IndiaFirst \"Universal Vaccine\" Entirely Designed By AI Tested On Humans&nbsp;&nbsp;NDTVUniversal Sarbeco coronavirus vaccine proves safe in first human trial&nbsp;&nbsp;News-Medical",
+      "id": "9f7555f3cf8e",
+      "title": "Removing ‘invisibility cloaks’ and safely skipping chemo: new weapons in war on cancer shared at US conference - The Guardian",
+      "published": "2026-06-06T05:00:00+00:00",
+      "summary": "Removing ‘invisibility cloaks’ and safely skipping chemo: new weapons in war on cancer shared at US conference&nbsp;&nbsp;The GuardianExclusive: Biggest Pancreatic Cancer Breakthrough In 50 Years, Says Indian Doctor, Co-Author Of Global Clinical Trial&nbsp;&nbsp;NDTVA new pancreatic cancer drug is changing survival rates for one of the deadliest cancers&nbsp;&nbsp;UCHealthDaily pill doubles survival time for pancreatic cancer patients&nbsp;&nbsp;BBCASCO26 Podcast: an analyst rundown of the best ",
       "sources": [
         {
-          "name": "drugscontrol.org",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00UGJSei16VHc3aUJZZ1R0cWtGczY2SmFFOEYyaFRzcUVxZ1JjSGxzeDFES0NRNUhMYlNMMWQ0enhXay1RallZX0tlMGdXS2Z4WFc0aUFsNHloMUFXdHNuWmxQdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "865e0beced65",
-      "title": "How Much Prednisone Is Too Much in Treating Rheum Effects From Cancer Therapies? - MedPage Today",
-      "published": "2026-06-05T19:37:32+00:00",
-      "summary": "How Much Prednisone Is Too Much in Treating Rheum Effects From Cancer Therapies?&nbsp;&nbsp;MedPage Today",
-      "sources": [
-        {
-          "name": "MedPage Today",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85NTFVOW80UXUwbmhoVmx0OTVHWDVFendld3ZPc0tCOHE5WmRNclE0MjBabjAtY3c1VW1WRGpUNWtwU3dyLXFwX3pQeDFpSUlYQVU4UHRjakpwX1R4bk9uMWtMR1M0d0lj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d975347df1bb",
-      "title": "Congo Warns of Rapid Ebola Community Spread: 71 New Cases Confirmed - Global Banking & Finance Review",
-      "published": "2026-06-05T19:12:13+00:00",
-      "summary": "Congo Warns of Rapid Ebola Community Spread: 71 New Cases Confirmed&nbsp;&nbsp;Global Banking & Finance ReviewWHO announces $518 million six-month plan to fight Ebola&nbsp;&nbsp;The HinduAfrica CDC and WHO launch joint continental Ebola response plan&nbsp;&nbsp;World Health Organization (WHO)Radio Program Aims To Counter Ebola Rumours During Congo Bundibugyo Outbreak&nbsp;&nbsp;NDTVEbola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "Global Banking & Finance Review",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3pGLXczdlMtNW1RUkg0NXZCbWEzb3A2Z3BfcGpNbEZIVnN5Q2wxUUNFTlRobnNDWUdSS1pGT3dDTkE5VE9lUmtCeTFNbnYtVmVrTjJpelZ0Q0p4dWMtOU0zZXJpdk5nUzRkelJGSGxFRFJIQXhCaFQxNksyMzVDbW9BS3R6SUJnbkN1dUs5TUF2WkNXTXNBOWdB?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXJYNWtMZ3VYS01wYWZhQVQ0WndWeEUtTk1Od3padENEdHNjdDhyeWF3ZTR0dEl5anpxbjNrOVFuQkVzM04tOFFrQjNNYXFfVlo1RUdFQ1ZoeVMtZmZCYVBoMlpIM2dDcGJDSHRMOUxua2gwVjhNb2ZOT0F4X21OT3dLS3Nrc3k4ZzA5RWo0cVZJZWQzblNNQ0I3dUZXQjM0?oc=5"
         }
       ]
     },
@@ -93,7 +117,7 @@
       "id": "bfe69a3fe0a6",
       "title": "Spikes don’t hurt, persistent presence in body does - what should one know about cortisol - Deccan Herald",
       "published": "2026-06-05T16:59:26+00:00",
-      "summary": "Spikes don’t hurt, persistent presence in body does - what should one know about cortisol&nbsp;&nbsp;Deccan HeraldCortisol spikes — what stress is really doing to your health&nbsp;&nbsp;The TimesThe Cortisol Face Dilemma Swells&nbsp;&nbsp;Deccan Chronicle",
+      "summary": "Spikes don’t hurt, persistent presence in body does - what should one know about cortisol&nbsp;&nbsp;Deccan HeraldCortisol spikes — what stress is really doing to your health&nbsp;&nbsp;The TimesCortisol and chronic stress: Health effects of high cortisol risks of hormonal imbalance and natural ways to restore balance&nbsp;&nbsp;TheHealthSiteThe Cortisol Face Dilemma Swells&nbsp;&nbsp;Deccan Chronicle",
       "sources": [
         {
           "name": "Deccan Herald",
@@ -126,10 +150,22 @@
       ]
     },
     {
+      "id": "e4c67604cd96",
+      "title": "Alien hunters update guidance on sharing news of possible intelligent life - The Guardian",
+      "published": "2026-06-05T15:57:00+00:00",
+      "summary": "Alien hunters update guidance on sharing news of possible intelligent life&nbsp;&nbsp;The GuardianAlien Signal Detected? Scientists Reveal New Plan For Telling The World&nbsp;&nbsp;NDTVBeyond Disclosure Day: The Real-World Protocols&nbsp;&nbsp;SETIInternational Academy of Astronautics requires verification before announcing extraterrestrial signals&nbsp;&nbsp;NewsBytesHow experts plan to share news of possible intelligent life&nbsp;&nbsp;NewsBytes",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWFnR1hQTFZaZ2JNS1dsQkNUUXRBdWlHXzB3QzRjVEFCWHQxb2tNU0VIdG11anBVQWlKbGd1MnBlbjZIZFhfVi1xaVBtenU4bGk2ZTdoNWloZTFIQ1hYYzlzTzBlLVpoSVQtOGJpZk5wdmx3WS0wVnpKVzlTemE2OEp5cE1yQ2hWRmU1YTllQy1nYlpsRjk2dkZNY1docFFXQmc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a770a0f38aae",
       "title": "From market failure to epidemic preparedness: the race for a Bundibugyo Ebola vaccine - Gavi, the Vaccine Alliance",
       "published": "2026-06-05T15:43:40+00:00",
-      "summary": "From market failure to epidemic preparedness: the race for a Bundibugyo Ebola vaccine&nbsp;&nbsp;Gavi, the Vaccine AllianceWhat Bundibugyo Ebola vaccines and treatments are under development&nbsp;&nbsp;The HinduCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPISerum Institute And Oxford Partner For Bundibugyo Ebola Vaccine Clinical Trials&nbsp;&nbsp;NDTVEMA and AMA collaborate on Ebola trials amid public health emergency&nbsp;&nbsp;Clinical Trials Arena",
+      "summary": "From market failure to epidemic preparedness: the race for a Bundibugyo Ebola vaccine&nbsp;&nbsp;Gavi, the Vaccine AllianceWhat Bundibugyo Ebola vaccines and treatments are under development&nbsp;&nbsp;The HinduGavi commits US$ 50 million to Bundibugyo Ebolavirus vaccines and outbreak response&nbsp;&nbsp;Gavi, the Vaccine AllianceCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPISerum Institute And Oxford Partner For Bundibugyo Ebola Vaccine Clinical Trials&nbsp;&nbs",
       "sources": [
         {
           "name": "Gavi, the Vaccine Alliance",
@@ -141,7 +177,7 @@
       "id": "b99d95e8dd54",
       "title": "Struggling With PMOS? Nutritionist Suggests 4 Everyday Vegetables To Manage Hormonal Imbalance - NDTV",
       "published": "2026-06-05T14:52:47+00:00",
-      "summary": "Struggling With PMOS? Nutritionist Suggests 4 Everyday Vegetables To Manage Hormonal Imbalance&nbsp;&nbsp;NDTVYou’ve been lied to about PCOS. Its new name tries to correct that&nbsp;&nbsp;Scientific AmericanThe FemTech industry’s approach to PMOS&nbsp;&nbsp;The HinduMedicines, and not just renaming, heals disease&nbsp;&nbsp;Hindustan TimesFrom $13,000 to $20 million: how a PCOS diagnosis and a pair of scissors built Xali Organics&nbsp;&nbsp;Business News Australia",
+      "summary": "Struggling With PMOS? Nutritionist Suggests 4 Everyday Vegetables To Manage Hormonal Imbalance&nbsp;&nbsp;NDTVYou’ve been lied to about PCOS. Its new name tries to correct that&nbsp;&nbsp;Scientific AmericanMedicines, and not just renaming, heals disease&nbsp;&nbsp;Hindustan TimesFrom $13,000 to $20 million: how a PCOS diagnosis and a pair of scissors built Xali Organics&nbsp;&nbsp;Business News AustraliaPolycystic Ovary Syndrome (PCOS) officially renamed Polyendocrine Metabolic Ovarian Syndrome",
       "sources": [
         {
           "name": "NDTV",
@@ -188,7 +224,7 @@
     {
       "id": "329bfc58779c",
       "title": "Innovation in medicine is having a breakthrough moment - Axios",
-      "published": "2026-06-05T12:55:55+00:00",
+      "published": "2026-06-05T12:56:35+00:00",
       "summary": "Innovation in medicine is having a breakthrough moment&nbsp;&nbsp;AxiosBreakthrough Medicines for Cancer and Obesity Are Unveiled&nbsp;&nbsp;Bloomberg.comFrom Smart Cancer Drugs to Retatrutide: Medical Breakthroughs Decoded | Vantage on Firstpost&nbsp;&nbsp;Firstpost",
       "sources": [
         {
@@ -201,23 +237,11 @@
       "id": "d735da3848f8",
       "title": "'Must be STOPPED': Why Google's plans to release 64 million mosquitoes in America has citizens worried - The Times of India",
       "published": "2026-06-05T12:55:00+00:00",
-      "summary": "'Must be STOPPED': Why Google's plans to release 64 million mosquitoes in America has citizens worried&nbsp;&nbsp;The Times of IndiaDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianDengue is no longer just a travel risk—what Google's mosquito plan could mean for your summer&nbsp;&nbsp;Phys.orgGoogle mosquito army: Scientists say 'we must take action'&nbsp;&nbsp;DWGoogle Debug initiative seeks approval for large-scale mosquito releas",
+      "summary": "'Must be STOPPED': Why Google's plans to release 64 million mosquitoes in America has citizens worried&nbsp;&nbsp;The Times of IndiaDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianDengue is no longer just a travel risk—what Google's mosquito plan could mean for your summer&nbsp;&nbsp;Phys.orgGoogle seeks permission to release millions of mosquitos in California, Florida&nbsp;&nbsp;MashableWhy Google is seeking approval to release m",
       "sources": [
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQM1plbTZ3YkNMbG16eXdIS3hRZEVWV3p4YTJ0d2lCVmxjR3MxcU1ETEVib0g4WTM4MTVTdHlCbTVhTW9RbDhfUEI2N0Q3Vk9HQXJZRkg1eDNIUThURUJ2U1ZuaVFMbHhlLVNzVlVZel9tR3hhanNMMG5rdUJDaHZuU2hFTmd5bjVlMHZqbjlKRlNBTVNKQlRCNDdVOHdTSmZqOVUybUdGdTBEdktYQnE1TXVqNXQtTEVkclFGX1JoOVZnX1VRVkQxZ1ctYWJ6alB2Z0dtMXdQUGpwYURlekZYd1pYMkJybjdpYUpZVWdRYk5SczFQeVhQVWpMUXItakFwVjZWWWxGQdIBjAJBVV95cUxQODRYY3VXNWVTWWNqOF84S3NhSkphSVNMNkNaeFZzcUN3bE43UWJpeTZDZ0M2a3Y3STczdlh6bU5PamlOaFBXWkY0bE1qQkxON0dxb0lIOHhlVElpQXpmX3JjdFVqM3Z3OXM5ZldrVDdTbnFfZzFpNlJSRmc0TkZYekN0RXJwaFBlc2dSbndWY1RVaUtaSW1wbFY0bTgyd205eXRpRzU3OVp5d1I4UUE3dVdRUzFkNXJIVW1XUXAwSHpDX0JKZzVOUUIzWWRMdGhvNlFuY1g4Zjlzb0JCWjBvTkdtUkU3VXhQMktJd3V6VTVyUUpyejZOWEN3MlZuWDRaYTlrRVZZdGI5WllW?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01246de54e0a",
-      "title": "Post-surgery radiation therapy lowers risk of bladder cancer recurrence, study suggests - ETHealthworld.com",
-      "published": "2026-06-05T12:52:27+00:00",
-      "summary": "Post-surgery radiation therapy lowers risk of bladder cancer recurrence, study suggests&nbsp;&nbsp;ETHealthworld.comAdjuvant Pelvic IMRT Cuts Bladder Cancer Recurrence&nbsp;&nbsp;OC AcademyAdjuvant Radiation Boosts High-Risk Bladder Cancer Control&nbsp;&nbsp;MedscapeTata Memorial study finds radiation cuts bladder cancer recurrence risk by over 50%&nbsp;&nbsp;The Indian Express",
-      "sources": [
-        {
-          "name": "ETHealthworld.com",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMmlwbmEtRDlVYTNSS0N5eWZ2RGl3d1gwNWxjaHFQWklOVHA0anhZLUxmWTlTWjg4T0tBM3JQVl9LWDNuTkFNTGQ4dkQxWWV5TDlXc2k2d2h2QWtKWElGWHg4RjlJOTBxS0hXbVFKRjdVNVdvTEI4V2VIaWxJYkhzOGVEdzRFMWNBd1BxSmRLNGIxanZON0FscEVoS2VTanpyWlhrTW5HWVEyWUE2OW9KTzlOLWgzUWY0S2hoTURkbksxVnNqVFpSamU4cXFKN0QtVTV0UmZwMmhaWWI0RkZhNXl2OG5XaE5SX0HSAe8BQVVfeXFMTktleDlHMGo2VEN3bEhPcU9wMWk5VjlVR3h6ZTFHZ0lxVENtZU1pdkl4N3hTT1R1a013SEJLS1lwVFJaZmVnSVhUbEtSdWRFMzdwLWpDX0ZCQ1ZMVXQ1M3NKa0x1aHZjZ1lyNm9zZGJqMDhvOUVaZUpMUElnZnJycUFWaG4xeFRTUm90eExrRHlMNWEtU3RsRENQdmxwRmpRTWV6U1M1VENYVzI5aUJCSnRKY2lXYzR3LTNZamxJb2Jsb3NsbW54WXBjaFNYX2tMU2JFeFFpVTFSMmRuSnpHckEzbFYyVHdKa1poX3Ytd0E?oc=5"
         }
       ]
     },
@@ -234,26 +258,38 @@
       ]
     },
     {
-      "id": "06eae9896065",
-      "title": "Suspected Ebola Case Detected in Jaipur, Health Department on Alert - Punjab Newsline",
-      "published": "2026-06-05T12:03:48+00:00",
-      "summary": "Suspected Ebola Case Detected in Jaipur, Health Department on Alert&nbsp;&nbsp;Punjab NewslineSuspected Ebola case in Jaipur; Ugandan national under observation&nbsp;&nbsp;The Times of IndiaEbola alert: Karnataka orders statewide vigil across hospitals&nbsp;&nbsp;Deccan HeraldEbola scare: Surveillance, preparations intensified at Pune airport&nbsp;&nbsp;Hindustan TimesHealth centres in Karnataka to keep eye on Ebola, report cases ASAP&nbsp;&nbsp;The New Indian Express",
+      "id": "829b238b8399",
+      "title": "Post-Surgery Radiation Therapy Lowers Risk Of Bladder Cancer Recurrence, Study Suggests - NDTV",
+      "published": "2026-06-05T12:13:25+00:00",
+      "summary": "Post-Surgery Radiation Therapy Lowers Risk Of Bladder Cancer Recurrence, Study Suggests&nbsp;&nbsp;NDTVSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "Punjab Newsline",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc1BkN3lRdFJ6MU84YmhWNFhXcTZzaFhqUHBzLWRtd01hQVdSRGtzTjgxV3huS0M0WDVTckhfYUNTMm9oSURmN1hMVFJJRWl5YWFSb3FSWEs4N0k5UXNncG1DNXRvVG5YX0NVTm5SMzZWNlRqNHBURGJzM2JzbThBcTRuUlktbEt6ckhVdzd0enhLME15T0FZU19YTldRZFU?oc=5"
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWdHa0F1NG42c0stdEVTX0RrdWVUREkzUFpQamY2VDJFRXBmWmJaX21uTWg2WENlN1FvYUV0bjUzQ2JfTUxtOGdRcVpiT0d1VjNBSGktdlU0ZXJra05wbENENmstTGhweWJBVExoSnFYaVZ5MW5pb2ZiQWFteUF1TGZDc0VkREY0c0J0bl9YeWJfX1p0M2syZ0h0cnh6bnAxankwVEUtS0R3RDlYZFFSWnNjSmJzTGNfWloxdW54c0HSAcgBQVVfeXFMT0YyY2w3RHhaTjE5X3ZxQmlaYktLcTdzMEVIMDhMeGhqZVZNVnlhY2hlSTdTMmt5NGJXQWxMQzNVekhDdFRremVOMVJ3aHh5TVNmczBZWm1CVDFyNzNjd3dfa2tRRXVpMlJQc3NQUVEybmptQVVQOW90QjdzcFpfMEpSbmlrbjZLM1BnMl9lbUppeVpTNXZoSXdGU1lhcTFMdUIyd0RrLXFxSzZOcTBOdFQtNE10ZjZwTnNka0FRSHEwN0JienlzM1Y?oc=5"
         }
       ]
     },
     {
-      "id": "bbbc045d0445",
-      "title": "What to Know About New Pancreatic Cancer Drug That Doubles Survival Time - Ground Report",
-      "published": "2026-06-05T09:12:00+00:00",
-      "summary": "What to Know About New Pancreatic Cancer Drug That Doubles Survival Time&nbsp;&nbsp;Ground ReportA new pancreatic cancer drug is changing survival rates for one of the deadliest cancers&nbsp;&nbsp;UCHealthDaily pill doubles survival time for pancreatic cancer patients&nbsp;&nbsp;BBC'A decade in the making': Pashtoon Kasi, M.D., on what comes after RASolute 302 | ASCO 2026&nbsp;&nbsp;Managed Healthcare ExecutiveExclusive: Biggest Pancreatic Cancer Breakthrough In 50 Years, Says Indian Doctor, Co-",
+      "id": "c9332ea52bfc",
+      "title": "Suspected Ebola Case Detected in Jaipur, Health Department on Alert - Punjab Newsline",
+      "published": "2026-06-05T12:03:48+00:00",
+      "summary": "Suspected Ebola Case Detected in Jaipur, Health Department on Alert&nbsp;&nbsp;Punjab NewslineSuspected Ebola case in Jaipur; Ugandan national under observation&nbsp;&nbsp;The Times of IndiaHealth centres in Karnataka to keep eye on Ebola, report cases ASAP&nbsp;&nbsp;The New Indian ExpressEbola alert: Karnataka orders statewide vigil across hospitals&nbsp;&nbsp;Deccan HeraldEbola scare: Surveillance, preparations intensified at Pune airport&nbsp;&nbsp;Hindustan Times",
       "sources": [
         {
-          "name": "Ground Report",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWHdoR19vcmE2WHJIVkhXdHhLZExuS2xlMk1qNi0wSjRzNVp5WURjNmNfVmFwSTFRcVFvSk94ZHN6WGNQaDkzUl9QcGVoVWZCTDl0dDhuUkRVckU3YWQwc2x2V1RSYWlUaGJiUnJlTHFpMW9JX2tLOGpwVVVqdTJpbTM2THhTaVpNSjJ4YnJLLXRGeHozbm5FRkEzWHNNRS14TXRhbG9Pb0xXc05xX1Bmek5NYS1GZw?oc=5"
+          "name": "Punjab Newsline",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRGgyRXBmOVo5Y25GRVhhU29JMEgzWl9hZ1B0VElMSEFycDREREpOc2ctWnpvLVJCNElCMjFfWlZNUXZUX2NpOUl5ZVhGZkJXdlpLRU9xU0N0N1NnV191N00tbHVNUlVocVd5RnlkNFp1RlQ4ZTBuczBBdW5mSE1FdmxGblBRclhVVy05X25QSlM0ZlFEdFFETWZYRHlOSDQxSExsUA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1b4c986f0e3",
+      "title": "World Food Safety Day 2026: EFSA advancing safer food through science - EFSA",
+      "published": "2026-06-05T12:00:00+00:00",
+      "summary": "World Food Safety Day 2026: EFSA advancing safer food through science&nbsp;&nbsp;EFSAUnsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk&nbsp;&nbsp;World Health Organization (WHO)World Food Safety Day 2026, Date, Theme, Food Safety in India&nbsp;&nbsp;Vajiram & RaviWHO Report Highlights Deadly Global Impact of Foodborne Diseases on Children&nbsp;&nbsp;Medical DialoguesFood Contamination Causes 1.5 Million Deaths Annually: WHO&nbsp;&nbsp;NDTV",
+      "sources": [
+        {
+          "name": "EFSA",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXR0c2RnVHVaY0JlTmFyc0sxU2dCQUd3NWEyemdFQUUyUjJXSm00U3d2Rko5azVtWjgwb3JTZk9UMHNzUnh4VEdPT3o3SkJrV3A4eFpSMURENlVGWVY4NjN6V3hRMVZ0ajRrRDZScDEzbHFKbEJ3enlDTHU0N0FNd0hDSG13ZkV6M3pRZjAxNXpFOV81SFRjYW9rdTE0d1E0NGZVOTl3?oc=5"
         }
       ]
     },
@@ -282,30 +318,6 @@
       ]
     },
     {
-      "id": "8cf2ef1de6a3",
-      "title": "Irregular heartbeat risk much lower in super‑fit people than previously thought - The Sen Times",
-      "published": "2026-06-05T06:36:34+00:00",
-      "summary": "Irregular heartbeat risk much lower in super‑fit people than previously thought&nbsp;&nbsp;The Sen TimesTeen Fitness Tied to Early AF Risk, Later CVD Benefit&nbsp;&nbsp;MedscapeIrregular heartbeat risk much lower in super-fit people than previously thought&nbsp;&nbsp;The ConversationFive-Decade Cohort Study: Adolescent Cardiorespiratory Fitness Brings Long-Term CV Benefit&nbsp;&nbsp;American College of CardiologyHigh Fitness Doesn’t Raise A-fib Risk In Young Men, Study Finds&nbsp;&nbsp;U.S. News",
-      "sources": [
-        {
-          "name": "The Sen Times",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRGtpTVRjWHhDR08zNzFPRUtzU3BndzVDQTJqSks1a1BLYXhrNS1venhlYWZLVFNsQjFWcTZMY05Ca21mdHBob0pWOG1qZS0tb2c4TC1zN2ZVaW9QUGtzN2MyVURaREl3cjRTOEF5Mm1wQkloMWhCREZBSl9GTTl6SkNXRnZrSHZXbHRvZUhQRHFua0lJUDB2bm5ORnp4R3hadEpNWll6dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c64f12529126",
-      "title": "NASA Concludes MAVEN Mars Mission After Irrecoverable Spacecraft Loss - The Sentinel - of this Land, for its People",
-      "published": "2026-06-05T06:32:38+00:00",
-      "summary": "NASA Concludes MAVEN Mars Mission After Irrecoverable Spacecraft Loss&nbsp;&nbsp;The Sentinel - of this Land, for its PeopleNASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today&nbsp;&nbsp;NASA (.gov)Like 'the loss of a loved one': NASA's Mars orbiter MAVEN is officially dead after months of radio silence&nbsp;&nbsp;Space\"Unrecoverable State\": NASA Declares Mars Mission Over After Long Research&nbsp;&nbsp;NDTVNasa confirms Maven spacecraft that went missing around Mars in 2025 lost fo",
-      "sources": [
-        {
-          "name": "The Sentinel - of this Land, for its People",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPenV2WW83aDRDTy1nSnphU0xoWHJ6MTlWOUFVQW0wOFEtekUtb3lTQUxqQjNsQ0tfTUVLdTFPN2JvU29haEMwaUhfV2Uyd19ISGlvUU41S3JQRzlCTDhmNEdYUHI1NElBNVVodnZrVVR3NUxTMjg4S0lpS01mZjZobmtvaW5kVDN4c25KUXRhU2VONWxUWHd1VEhqc2dKckF3S0lMUjllWXNiclBGdG9zcnJkSzRMYXJSSlg5cVl5NGrSAc4BQVVfeXFMTzM1UUdEeVlNTzNDV1BuUnhoQWpNV3ZCUV9WbWxYcnU1RXlGRUozZlJUQnV3MFk4ZkFIVWVVN2c0UGRxV2JzSGQ1SEp6aFpFVTd1cXVHMy1CMVdaLTBZU0NaMnBLSFV6d25ZY2RGdERKWTdVdTh3UFVVSUFBWjlhdnNveVdGZzFGX1ZhQmZGWGJ5eDM3UVMwUXNpeFF5MDNwc2lwbUw1WThvYy1JdHNyUlgyeTJ5THZ3TVhzU1daMEtHSXZEeUI3dVNfWEFlcUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0df0f10a4174",
       "title": "Smartwatch Alerts Helping Detect Hidden Heart Rhythm Disorders, Say CARE Hospitals Doctors - BW Healthcare",
       "published": "2026-06-05T04:53:54+00:00",
@@ -318,26 +330,26 @@
       ]
     },
     {
-      "id": "604385b7852f",
-      "title": "Fathers' health may shape children's future obesity ris - News-Medical",
-      "published": "2026-06-05T02:32:00+00:00",
-      "summary": "Fathers' health may shape children's future obesity ris&nbsp;&nbsp;News-MedicalSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcGxQV1piVHVlbUdWTEhHMDNTRDJFcDhXaTZrUnctWkNFZ0hkOTFYdUNINk5wMDVfbGpWcnJJZjlMdGdLUnh3SGQzZkpzRktvZ3RBR3RGVDd4RDlhaUpEMnVlNzlzcXZTWlJyRjJSZ1hKNDlCWW0xQm9GQjE5dzM3YzdVN2ZDWjNXT3lDc1FEYzBBQ3g4N2o5VFdvTWZWNnI1dUNn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dcc29e5d1cb9",
       "title": "Alzheimer’s may show up in blood yrs before symptoms appear—Lancet study offers hope of early diagnosis - ThePrint",
       "published": "2026-06-05T00:30:05+00:00",
-      "summary": "Alzheimer’s may show up in blood yrs before symptoms appear—Lancet study offers hope of early diagnosis&nbsp;&nbsp;ThePrintBlood test with AI spots four dementia-related brain diseases with 92.3% accuracy&nbsp;&nbsp;Medical XpressCardiovascular Biomarkers as a Primary Care Gateway to Early Alzheimer's Disease Detection: The Case for an Integrated Screening Approach&nbsp;&nbsp;CureusNew assessment for earlier detection of Alzheimer’s&nbsp;&nbsp;Healthcare TodayCould a Blood Test Predict Risk of B",
+      "summary": "Alzheimer’s may show up in blood yrs before symptoms appear—Lancet study offers hope of early diagnosis&nbsp;&nbsp;ThePrintBlood test with AI spots four dementia-related brain diseases with 92.3% accuracy&nbsp;&nbsp;Medical XpressCardiovascular Biomarkers as a Primary Care Gateway to Early Alzheimer's Disease Detection: The Case for an Integrated Screening Approach&nbsp;&nbsp;CureusNew assessment for earlier detection of Alzheimer’s&nbsp;&nbsp;Healthcare TodayAI-Powered Blood Test Accurately Cla",
       "sources": [
         {
           "name": "ThePrint",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSWlmNEl5aDRvMTlrZ0FXdEt4VHZETXJKSTFKSXRnZ1NUc19KV1doV3g5eUs1TXFDNTItV3A5T2JYXzVTcUI5R0lhRDVISXdDRWJ2SnhzNWJUQ0I1S3c4NnA3TzF0ZXA1eGp6V2NxZmxUc3JfaHc2OTU0TFRxNXYxS1NKNFBkUWdaN3dBWThYWG1GVDFSNU16UF9OLUdLQzRSbC1rekQ3TTFVbzJ2RFNDaFJYdngyRWlHUlJvVEFaSG50bTlkZUQxYzlaaEdqREFQZmF0bNIB2gFBVV95cUxPU1FVSlByU3V6ZEQ1RFpvYURvWjNUTmYyb084MU9RYV80N2NEd1ZMNlhzcFc2blpIM1owcTlUOTE2cUZUdjBlZHhUYnkxRjNKZXJGNGZCbXZTa1lrX0l0UEdKODg3bi0wMzF6VndNX2Rwd19hYlcyTGp1MExrN0c2V1VvdkJtMnVLSXpOX0hBVmNycEI4SDhyWUlRU0NHdy13Sk5MaEp3bGFkek1mbzR4UVRseGhDVC1fMzU2Z3Y5dDFSN2R3TmlpRmUtWVZvSTdjMmhpZmNxY2tjUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "14c720a44015",
+      "title": "‘Dad bods’ may influence childhood obesity risks - EurekAlert!",
+      "published": "2026-06-04T21:27:09+00:00",
+      "summary": "‘Dad bods’ may influence childhood obesity risks&nbsp;&nbsp;EurekAlert!See more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "EurekAlert!",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uY2Z2U2RnZnVseTdJaFQxVF9mdTBUZ1dvc3JnLUxzdENSclFyVXBNZFFNMXJpX0o2UjhYZ0hlZGRRNE15SGNGWFBhbjlqOEwzb29ELW5Rb0xGenl6?oc=5"
         }
       ]
     },
@@ -357,7 +369,7 @@
       "id": "fccdeadf2c75",
       "title": "Add-on treatment brings functional cure to hepatitis B patients - Liver Disease News",
       "published": "2026-06-04T21:07:26+00:00",
-      "summary": "Add-on treatment brings functional cure to hepatitis B patients&nbsp;&nbsp;Liver Disease News",
+      "summary": "Add-on treatment brings functional cure to hepatitis B patients&nbsp;&nbsp;Liver Disease NewsNew Hepatitis B drug may prevent cirrhosis, liver cancer with functional cure in 20% patients: Liver Doc explains breakthrough&nbsp;&nbsp;The Indian ExpressGSK’s Bepirovirsen Data And China Deal Reframe Hepatitis B Potential&nbsp;&nbsp;simplywall.stA single shot may help the immune system fight hepatitis B, and the early results are raising hopes&nbsp;&nbsp;Earth.comBepirovirsen Acts as a Functional Cure",
       "sources": [
         {
           "name": "Liver Disease News",
@@ -374,18 +386,6 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHdSVDlMR1gtdGZNMmx4dE5MVUM5dVRJNzA0MU1iQkZfMVNRZ3lna3N6a1I2cGVpeDA0dnhWYWpnSFUtOXpfUHZlOGlKalFsdWx6MmJieWdSNk1MbnpWY2diUVVSZHR0YlYxNUlzUHlpRU1Dd0ZPeDMzV0FfYUszcC1JT0xxQ09laF9VNnpwTnQ5ZWV5cFJpOGRneGdkLXVlUXRxUEwtaVJ6M2pnNnlXQmRCTk1Wa3E3d0Q5czVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8b49f8037d9c",
-      "title": "Chemical Hazards Cause Most Foodborne Deaths - Health Policy Watch",
-      "published": "2026-06-04T16:45:03+00:00",
-      "summary": "Chemical Hazards Cause Most Foodborne Deaths&nbsp;&nbsp;Health Policy WatchUnsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk&nbsp;&nbsp;World Health Organization (WHO)World Food Safety Day 2026, Date, Theme, Food Safety in India&nbsp;&nbsp;Vajiram & Ravi1.5 million people died of foodborne illnesses in one year. What can you do?&nbsp;&nbsp;CNNGlobal Food Contamination Causes 1.5 Million Deaths Annually With Children Most Affected, Warns WHO&",
-      "sources": [
-        {
-          "name": "Health Policy Watch",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGlfVk9ROGwwVC01UUhrc1B5dGcyLXZOQlExS0FmQ2tzTllKS2xxV043Sld1RkdaZnYwQ09VdlR5enotWFdEMHg5Qi04QzRlZndWb1pVbHhCc0JGZnpVVlZpYTNlX0VuUXk4aUU5NUhuaEJPcmRJbzNqa1JQX0lmdDRmWjM?oc=5"
         }
       ]
     },
@@ -410,42 +410,6 @@
         {
           "name": "NDTV",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVRCTHRfU0xzU1hheWk3Vk9taDNXc01rRzFPYkJGZVIza09tT0pKVHEzbE9XbU1XOFppdm0zN0tDQlpqVUtQWjZqTkdTVmpwMHZ3ZVB3d2U3TWxsNnJpUzdBdzFpYzZpQVROU29USGpOeEdaZnlTQ2xuWjZUdlVST0lzeTcxMEpISjhKNzUycm5xUEItUEQ5bDg4V05BRkl2RW9XQzVlaDNRTWZ1NEV0cmp30gG6AUFVX3lxTE1EYWJJNEg0N3BkSjQ1djJzVUpqZ2p4N3RPVEtwdVBhb2NPeXQxOFNPNzJ5VVBuY0hVS2haUUhKcjRpUHBxd2FUTG55M3JMNFBCeDFoOHFvVmZiLUFmRUFtMW9aMHpyMHJPYUM0N1pic0YzekliVjRJVG1aY2VRS01fQnNKYWNrU1U4MGxLQ05ORkdnOTVUMHU3bi1tV0tmTXc4ajQyOUNua1piblBvYUs2QTBKVTZESUhXQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "526d02d3de64",
-      "title": "The blood cancer that became solvable - Works in Progress Magazine",
-      "published": "2026-06-04T10:25:08+00:00",
-      "summary": "The blood cancer that became solvable&nbsp;&nbsp;Works in Progress MagazineStriving for a cure for multiple myeloma: What HCPs need to know&nbsp;&nbsp;Johnson & JohnsonImproving how multiple myeloma is understood and treated&nbsp;&nbsp;The Labor TribuneThe bispecific era in multiple myeloma — Future directions: Written recap&nbsp;&nbsp;Managed Healthcare ExecutiveCharting Progress, Changing Outcomes: The Evolution of Multiple Myeloma Care&nbsp;&nbsp;Sanofi",
-      "sources": [
-        {
-          "name": "Works in Progress Magazine",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSbDBBb0lVc3pqS1IzNXc2ZWlhZmFNNEhmdUVtQkxLX2xOTHgtUVpTeVBCS193OWlvZDNETldXcGltZlBQaGNldnFxQnhoWWl4NHFHZURJUXJZMVR0ZWdBaThYQmFna2hnR3pLMGtfT1dtb0lBYVMyRXVIdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7fc80888d068",
-      "title": "ABP Live Doc Talk | Heatwave Alert: Is Extreme Summer Heat Quietly Damaging Your Heart? - ABP News",
-      "published": "2026-06-04T08:34:30+00:00",
-      "summary": "ABP Live Doc Talk | Heatwave Alert: Is Extreme Summer Heat Quietly Damaging Your Heart?&nbsp;&nbsp;ABP NewsHeat Exposure May Triple US Cardiovascular Disease Burden by 2050&nbsp;&nbsp;AJMCHeat & The Heart, Medtronic’s ICE Play, and Getinge CABG Launch June 5, 2026&nbsp;&nbsp;Cardiac WireNew research predicts rising temperatures will increase heat-related heart disease&nbsp;&nbsp;IdeastreamHeat-Related CVD Burden Predicted to Rise Exponentially by 2050&nbsp;&nbsp;TCTMD.com",
-      "sources": [
-        {
-          "name": "ABP News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSE1FWnp3My1QRWZBMkFzUU1RY0ZrbHZMQWJ3SDlZcUJIU05xRkVlMEwtU2dWV0NWajZSX0toOEVYVG9nWFNwN0JFV3hlaExGbkxsUDh1dDhRWnMxRkttOVZxandDN1Nwdm10V3ZvRXBXODhBazZfbF91QnlYMlZLNGFoaFhFN0x2eWdTdk5CT1RCdUVCR2JfMnBnOUtoSVVYekVQT0ZKcEJJU05NcTVlMTl5dWluVk0xU0F4THJLdnDSAcYBQVVfeXFMTnpiMzJOUmFuaHRkY1NzYWhTcDhBTkRWV1V0TXBnNmlGQXdrVnJXWFFxeXJDWTFnZThWa3otRURyUUlHUDRPTmtkQ0tpMXFXZk1VVGVNXzk4eVVraDl0cFJfcjFsR0VCY3ZSTzIzSVd2bG1qYVFxMEFsdFNMUWtmY0tpcDhKR2pzUWZTWm5QS3pKQVlHbS1jRWN1RFh4OWNSbWZXZW5xU0VrUmJRMVBVUnZ0dWNkd2NOWXlTU0JMZlRELVpOX3pB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ba2ec08b4578",
-      "title": "Heart Attack Consequence: How Surviving A Cardiac Event Secretly Speeds Up Brain Ageing And Memory Loss - NDTV",
-      "published": "2026-06-04T08:29:02+00:00",
-      "summary": "Heart Attack Consequence: How Surviving A Cardiac Event Secretly Speeds Up Brain Ageing And Memory Loss&nbsp;&nbsp;NDTVHealth Beat: Heart attacks and cognitive impairment&nbsp;&nbsp;WFMZ.comHow heart attack survivors can work to protect their brain&nbsp;&nbsp;YahooA New Study Suggests Heart Attacks Can Leave A Neurological “Aftershock”&nbsp;&nbsp;MindBodyGreen",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVWtUWTRHbElUeGY0czJQRUxKUGVJVkRIM1pSV1czRDVXaGF4QmhTWThFVFdXaHFRdlJDcWVpN2hFd1VhUUYxa2thNU83SnpfenZJbFNQb3QxWlJTTjI2UFFUTHFfSTVtWGpmbkd4UVpjd0tEN0JHQzY4MV9RMEZUNVhrNG9ReVVKZ0JLclI2cmx6UXNsemJVaUZ3WnJUMnJDU1ItTWxweXFLTTRGU3YtbGZ1SHpYTlFHMVBOV0tyRmFlMmIxcldRNms0bnJreUhCLTA4R1NCM3d4eG5HREHSAeYBQVVfeXFMTjluemRBNkRiZVZyWWg3Rk42TUpuOWttTi1nVzNkQzUxZ0NBb1dtTEVHNkZQcmFiUTJ4REV3SkQ0LUJrUllQNVk3b2N4TkVjeEk1T1dtUi02UHJ1eTVpWkthSXIyejF4TWhyQnZkRUNoVVRtbUh3Yko2enZFRUFFS3NpRUhIODhkZTdDX3AzY1EzNUxZUS1YeGkxTXV5dUpzb3NTWUMzYUtocmJ0VHNSQThtLWw0dzJjbG1Jc2ZSaVR5M3EtZXZPajNZSHBvTTdHcU5jYzZJS0RpbVY0SVpwa05kdkZNWkE?oc=5"
         }
       ]
     }
