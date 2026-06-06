@@ -1,31 +1,31 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-06-05T19:25:51.911849+00:00",
-  "total_fetched": 53,
-  "unique_count": 53,
-  "health_related_count": 42,
+  "fetched_at": "2026-06-06T01:50:38.607309+00:00",
+  "total_fetched": 49,
+  "unique_count": 49,
+  "health_related_count": 37,
   "news": [
     {
-      "id": "ef8e2a53b628",
-      "title": "Dengue is no longer just a travel risk—what Google's mosquito plan could mean for your summer - Phys.org",
-      "published": "2026-06-05T18:40:02+00:00",
-      "summary": "Dengue is no longer just a travel risk—what Google's mosquito plan could mean for your summer&nbsp;&nbsp;Phys.orgWhy Google is seeking approval to release millions of mosquitoes in Florida and California&nbsp;&nbsp;YahooDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianGoogle mosquito army: Scientists say 'we must take action'&nbsp;&nbsp;DWGoogle seeks permission to release millions of mosquitos in California, Florida&nbsp;&nbsp;Mash",
+      "id": "865e0beced65",
+      "title": "How Much Prednisone Is Too Much in Treating Rheum Effects From Cancer Therapies? - MedPage Today",
+      "published": "2026-06-05T19:37:32+00:00",
+      "summary": "How Much Prednisone Is Too Much in Treating Rheum Effects From Cancer Therapies?&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40YW9YVlVjMU5QWk1iUXpUOG9EY3gzb291QWJ6TzA0TmVGZi1OVFI3dWRMSlhqODJNMWNUcHVxQXU2UkJsbFlXV3Z6MVJ1Y1dMbmlZRDJhcmtNaFU4N3dmU0dhcm9xNldPNndla19LQWc4emg2QnEtZ1ZpMA?oc=5"
+          "name": "MedPage Today",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85NTFVOW80UXUwbmhoVmx0OTVHWDVFendld3ZPc0tCOHE5WmRNclE0MjBabjAtY3c1VW1WRGpUNWtwU3dyLXFwX3pQeDFpSUlYQVU4UHRjakpwX1R4bk9uMWtMR1M0d0lj?oc=5"
         }
       ]
     },
     {
-      "id": "c737470621aa",
-      "title": "First AI-designed ‘universal vaccine’ tested in humans - South China Morning Post",
-      "published": "2026-06-05T18:12:34+00:00",
-      "summary": "First AI-designed ‘universal vaccine’ tested in humans&nbsp;&nbsp;South China Morning Post'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCFirst \"Universal Vaccine\" Entirely Designed By AI Tested On Humans&nbsp;&nbsp;NDTVAI designing vaccines now? Inside the ‘world-first’ vaccine designed by artificial intelligence&nbsp;&nbsp;The Times of IndiaUniversal Sarbeco coronavirus vaccine proves safe in first human trial&nbsp;&nbsp;News-Medical",
+      "id": "bfe69a3fe0a6",
+      "title": "Spikes don’t hurt, persistent presence in body does - what should one know about cortisol - Deccan Herald",
+      "published": "2026-06-05T16:59:26+00:00",
+      "summary": "Spikes don’t hurt, persistent presence in body does - what should one know about cortisol&nbsp;&nbsp;Deccan HeraldCortisol spikes — what stress is really doing to your health&nbsp;&nbsp;The TimesThe Cortisol Face Dilemma Swells&nbsp;&nbsp;Deccan Chronicle",
       "sources": [
         {
-          "name": "South China Morning Post",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWJTTHNoYkhUd0VmN1BteXZxNjVEMU9zLXUtdU4zTFN4THRVZmF6X0hhRW8yd2o4Vmpfa1RmVTFrZ2pSQXQ1d2pJZm5vNUJQbDV4UExESFlFSXVPY1J5Ym9vNThGYkxZUnljTF9WamZaa2V4RENpdldCNWNYR0hsM0lvZkJxSVd6RjItYUtUaE11ZVJsTV9TSGlSVlR2VHV2MWZtTHZQONIBpwFBVV95cUxNbmlNTUhQaUpsRk5KSDF2SXpEM0otWTF3S0owT1FpRlk4YWZKZzVIMGpHSE44dTJYUWtRN1dLM3M5dzREZTJBR3p6czRHNGxWTnVyZmI5U2VROHlEY0Z1eEFpLV9lQ0Z0Q0o1V3NycGU4SURtcllXeFZtSnU2TWZ5eGRtdU9KSk5CRWFENm4zN3MwdjhkRTFoRjU2cmlMVWdoTHJjUC1ZRQ?oc=5"
+          "name": "Deccan Herald",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0JINlBDSXRTZVVaZ1lXaDduakFlODZWUDNGY2dIUkhfdHZJUUVLVVdJUVpPTWdhYkUzb2JCTWliQnN3YzNEVGdZWUwtVy1oWU9kSi0yZWw5UmtOdnl1T2d3UDZISDhILVlTRGpPaGtCMlNPMGZ6VE5rVTdLOVc1S25memZyd1ZCclBEYXR0RmhVbkhpeTVzTkRnaXZzcFdFYnI0ZGlaOEh3cEJGVVFmYjYzLUFrbm5YMklIWlNtWnVOYVNnWEJRag?oc=5"
         }
       ]
     },
@@ -33,7 +33,7 @@
       "id": "3dcad9f63e5f",
       "title": "Dihydropyridine Calcium-Channel Blockers Linked to Increased Kidney Risk in DKD - Docwire News",
       "published": "2026-06-05T16:10:12+00:00",
-      "summary": "Dihydropyridine Calcium-Channel Blockers Linked to Increased Kidney Risk in DKD&nbsp;&nbsp;Docwire NewsCommon hypertension drugs tied to worse kidney outcomes in T2D patients&nbsp;&nbsp;News-MedicalPopular Blood Pressure Meds Linked To Kidney Damage Risk In Type 2 Diabetes&nbsp;&nbsp;U.S. News & World Report",
+      "summary": "Dihydropyridine Calcium-Channel Blockers Linked to Increased Kidney Risk in DKD&nbsp;&nbsp;Docwire NewsDihydropyridine CCBs associated with poorer kidney outcomes in type 2 diabetes, new study shows&nbsp;&nbsp;Medical DialoguesPopular Blood Pressure Meds Linked To Kidney Damage Risk In Type 2 Diabetes&nbsp;&nbsp;U.S. News & World ReportBlood Pressure Drug Linked to Worse Kidney Outcomes in T2D: ERA 2026&nbsp;&nbsp;EMJALERT: Popular Blood Pressure Drug May Cause Kidney Disease&nbsp;&nbsp;Black Do",
       "sources": [
         {
           "name": "Docwire News",
@@ -42,14 +42,14 @@
       ]
     },
     {
-      "id": "d26cd2ad16b5",
-      "title": "Erectile dysfunction could be an early warning sign of heart disease: Expert reveals red flags men often ignore - TheHealthSite",
-      "published": "2026-06-05T16:06:00+00:00",
-      "summary": "Erectile dysfunction could be an early warning sign of heart disease: Expert reveals red flags men often ignore&nbsp;&nbsp;TheHealthSite4 warning signs most men ignore until it’s too late: US heart surgeon Jeremy London on early health red flags&nbsp;&nbsp;The Times of India6 Surprising Reasons You’re Not Getting an Erection That Have Nothing to Do With Your Sex Drive&nbsp;&nbsp;vice.comWhat men should learn about heart disease&nbsp;&nbsp;Madison CourierDid you know erectile dysfunction can be a",
+      "id": "41c79ed55a1d",
+      "title": "Cambridge AI-designed vaccine shows safety in humans - Let's Data Science",
+      "published": "2026-06-05T15:57:33+00:00",
+      "summary": "Cambridge AI-designed vaccine shows safety in humans&nbsp;&nbsp;Let's Data Science'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCWorld's first AI-designed vaccine developed by UK scientists enters human trials&nbsp;&nbsp;The Times of IndiaFirst \"Universal Vaccine\" Entirely Designed By AI Tested On Humans&nbsp;&nbsp;NDTVWhy this AI-designed vaccine is different: It targets the whole virus family, not just one strain&nbsp;&nbsp;The Indian Express",
       "sources": [
         {
-          "name": "TheHealthSite",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQThmLXUzMG43NzByU3pGLXZIekV6b2hBaUx5UGlNaG5QX1VmdTAyU2VFcTU3ZEFRS0lSYnRSc2xIVnNHSzhmaGcyc1h1VUJsS2k1QXdHWXREWWpTalZUcElKVm5qTFJOR3c1dEd4bHBNNUlmYk1TbU5MRjBLdUtPWDRuR3M0bWVRd0pfbXotRkI2YVozLTBOdWcxcmRURjVicjlJekkwTUd2c2ZaY2piMWgyV1VFZDZBOVNQeDhnUnh0ajBJN2dhUEVmY2RpSUlnNHRXMDJCSzBScGFuU19fSWxLcjVjQ1pmdk5POXhNclZpWFhqc0FnQ0draVJjQdIBgwJBVV95cUxPV0lCcVNRa3hKTUJfUWtXTnVmTkRTWFQwZXRNcmdpeHo4RE5hZkZFODR0M1h4ZTlycXJ1bnFHdkZMeDZYR3VGM3gtUWZrcEpmUU5rb1dlN1ZRV1dmSk5FbUo3RHZkLThBbEpGZ2J3X1p1dGVDdFdHTTVIMUswRmUwb1EtMDIxeGdIc29EZTVaTVlBbEI2bUYxb015dEJhckpfZWQwaHFBWm9DOUZiQi00RThJa0QxaGVVWWVocXgxZVhUck5pR0pRM0p0RGJoU2NMUTN2Yk9GU1ptQXVpYVZXRktmanB3cE04MFRtd2plX0txMFoyeTZYcTNVQXhrZ2YxMEp3?oc=5"
+          "name": "Let's Data Science",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVZNc0FzREEyRHpvaW5YS1ZsSC1MRUczQ1RaREFEVm0zcGhObGt5TkVCWktyMGhZb3FOUXJqdFNtTkdHWVNJNUNHbjhxc3NyZjVvX2VkRDhUS1FKbS02elVkMUpUQTEzM05sWmxtVU1QN1BfeEM2MFNzY3NnajdQYUx2OGRDSDNHUzl6VXRXRkl1NHNYRzBPTVZn?oc=5"
         }
       ]
     },
@@ -57,11 +57,23 @@
       "id": "a770a0f38aae",
       "title": "From market failure to epidemic preparedness: the race for a Bundibugyo Ebola vaccine - Gavi, the Vaccine Alliance",
       "published": "2026-06-05T15:43:40+00:00",
-      "summary": "From market failure to epidemic preparedness: the race for a Bundibugyo Ebola vaccine&nbsp;&nbsp;Gavi, the Vaccine AllianceWhat Bundibugyo Ebola vaccines and treatments are under development&nbsp;&nbsp;The HinduSerum Institute And Oxford Partner For Bundibugyo Ebola Vaccine Clinical Trials&nbsp;&nbsp;NDTVGavi commits US$ 50 million to Bundibugyo Ebolavirus vaccines and outbreak response&nbsp;&nbsp;Gavi, the Vaccine AllianceCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbs",
+      "summary": "From market failure to epidemic preparedness: the race for a Bundibugyo Ebola vaccine&nbsp;&nbsp;Gavi, the Vaccine AllianceWhat Bundibugyo Ebola vaccines and treatments are under development&nbsp;&nbsp;The HinduCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPIGavi commits US$ 50 million to Bundibugyo Ebolavirus vaccines and outbreak response&nbsp;&nbsp;Gavi, the Vaccine AllianceModerna and other groups get $60 million to develop Ebola vaccine&nbsp;&nbsp;ETPharma.com",
       "sources": [
         {
           "name": "Gavi, the Vaccine Alliance",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamRFbTE5U202WXBQbzMzR3B5Z20zWG1NV2N3d2FVVkZuRi1JYUs2N2lkd2QzUmRPWHRpUmlfSmtWRURyMXAwWElBQWZEZGhlc0xhRVZsaVlsUkc1cFd1aFJOWGVsaXpOZThoNHJQUUtmMWhVYlBPYXYwdzZ1aGVCWVQ5V0FScHFfZzU4eGc1QzlPTzd4TUdoMzdrY1RuMndqcEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b99d95e8dd54",
+      "title": "Struggling With PMOS? Nutritionist Suggests 4 Everyday Vegetables To Manage Hormonal Imbalance - NDTV",
+      "published": "2026-06-05T14:52:47+00:00",
+      "summary": "Struggling With PMOS? Nutritionist Suggests 4 Everyday Vegetables To Manage Hormonal Imbalance&nbsp;&nbsp;NDTVYou’ve been lied to about PCOS. Its new name tries to correct that&nbsp;&nbsp;Scientific AmericanThe FemTech industry’s approach to PMOS&nbsp;&nbsp;The HinduMedicines, and not just renaming, heals disease&nbsp;&nbsp;Hindustan TimesFrom $13,000 to $20 million: how a PCOS diagnosis and a pair of scissors built Xali Organics&nbsp;&nbsp;Business News Australia",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSHZVcV9qTWpGTkJWc2NzYS14cWd0ZmM4bndRNi1JNnJRWGlwdjFjV3FhR0sxSUlGd0VvaXNSeTRxd3dmZFVkdDdZWmVFeC1DdDFJTFJvM3B5ZlpHZDlBQlF4QVJOMzRGNk5TZnhSci1FVFlCOVVVbm52RW9xVFo3b3Bja0FtR3VYdWlJeUZSc0lhUldzWWVkYWx5VVZrRzNsXzFZUlRFc3FOSWxjVnc2M2x3Y1JETW5zWWhwRTAzUEhvN2JGd1o4RjROcTYzWEEyYTYzWUZNSDhDdnZy0gHkAUFVX3lxTFAzajdXS0VweHh3bDVIb19aenRSVnFTOThTLTZiS1Zqb3ZKT014VmlKM2xmYkNfUDFiNWI4N1F1VlVBcUJ5R1ZWTlNkbWJlSnJhYjM1SzZ4Vk1KVUpucWpzRF9yTHl1YkZUYXA0d0oxMHFuNGlsRzJ1TlJsbHRaUHZudE5kLWdhNDNTRGk0aHJ6VW9rV2h0UDJiVm5MUDE2U29KdnFVeF9Pc05iWGczUDJvLTdlNnZtTGlfYWhXVXcwRURidG9idmYzbGVoT056b2J3UVlmVXRqRllzZEFaZ3A2X3pOVw?oc=5"
         }
       ]
     },
@@ -114,10 +126,34 @@
       ]
     },
     {
+      "id": "d735da3848f8",
+      "title": "'Must be STOPPED': Why Google's plans to release 64 million mosquitoes in America has citizens worried - The Times of India",
+      "published": "2026-06-05T12:55:00+00:00",
+      "summary": "'Must be STOPPED': Why Google's plans to release 64 million mosquitoes in America has citizens worried&nbsp;&nbsp;The Times of IndiaDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianGoogle mosquito army: Scientists say 'we must take action'&nbsp;&nbsp;DW.comGoogle plans on releasing mosquitoes by the millions. See why and how.&nbsp;&nbsp;USA TodayDengue is no longer just a travel risk—what Google's mosquito plan could mean for your s",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQM1plbTZ3YkNMbG16eXdIS3hRZEVWV3p4YTJ0d2lCVmxjR3MxcU1ETEVib0g4WTM4MTVTdHlCbTVhTW9RbDhfUEI2N0Q3Vk9HQXJZRkg1eDNIUThURUJ2U1ZuaVFMbHhlLVNzVlVZel9tR3hhanNMMG5rdUJDaHZuU2hFTmd5bjVlMHZqbjlKRlNBTVNKQlRCNDdVOHdTSmZqOVUybUdGdTBEdktYQnE1TXVqNXQtTEVkclFGX1JoOVZnX1VRVkQxZ1ctYWJ6alB2Z0dtMXdQUGpwYURlekZYd1pYMkJybjdpYUpZVWdRYk5SczFQeVhQVWpMUXItakFwVjZWWWxGQdIBjAJBVV95cUxQODRYY3VXNWVTWWNqOF84S3NhSkphSVNMNkNaeFZzcUN3bE43UWJpeTZDZ0M2a3Y3STczdlh6bU5PamlOaFBXWkY0bE1qQkxON0dxb0lIOHhlVElpQXpmX3JjdFVqM3Z3OXM5ZldrVDdTbnFfZzFpNlJSRmc0TkZYekN0RXJwaFBlc2dSbndWY1RVaUtaSW1wbFY0bTgyd205eXRpRzU3OVp5d1I4UUE3dVdRUzFkNXJIVW1XUXAwSHpDX0JKZzVOUUIzWWRMdGhvNlFuY1g4Zjlzb0JCWjBvTkdtUkU3VXhQMktJd3V6VTVyUUpyejZOWEN3MlZuWDRaYTlrRVZZdGI5WllW?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "01246de54e0a",
+      "title": "Post-surgery radiation therapy lowers risk of bladder cancer recurrence, study suggests - ETHealthworld.com",
+      "published": "2026-06-05T12:52:27+00:00",
+      "summary": "Post-surgery radiation therapy lowers risk of bladder cancer recurrence, study suggests&nbsp;&nbsp;ETHealthworld.comSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "ETHealthworld.com",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMmlwbmEtRDlVYTNSS0N5eWZ2RGl3d1gwNWxjaHFQWklOVHA0anhZLUxmWTlTWjg4T0tBM3JQVl9LWDNuTkFNTGQ4dkQxWWV5TDlXc2k2d2h2QWtKWElGWHg4RjlJOTBxS0hXbVFKRjdVNVdvTEI4V2VIaWxJYkhzOGVEdzRFMWNBd1BxSmRLNGIxanZON0FscEVoS2VTanpyWlhrTW5HWVEyWUE2OW9KTzlOLWgzUWY0S2hoTURkbksxVnNqVFpSamU4cXFKN0QtVTV0UmZwMmhaWWI0RkZhNXl2OG5XaE5SX0HSAe8BQVVfeXFMTktleDlHMGo2VEN3bEhPcU9wMWk5VjlVR3h6ZTFHZ0lxVENtZU1pdkl4N3hTT1R1a013SEJLS1lwVFJaZmVnSVhUbEtSdWRFMzdwLWpDX0ZCQ1ZMVXQ1M3NKa0x1aHZjZ1lyNm9zZGJqMDhvOUVaZUpMUElnZnJycUFWaG4xeFRTUm90eExrRHlMNWEtU3RsRENQdmxwRmpRTWV6U1M1VENYVzI5aUJCSnRKY2lXYzR3LTNZamxJb2Jsb3NsbW54WXBjaFNYX2tMU2JFeFFpVTFSMmRuSnpHckEzbFYyVHdKa1poX3Ytd0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f67eabf11d8c",
       "title": "Chronic Kidney Disease to become leading cause of premature death by 2040: Studies - The New Indian Express",
       "published": "2026-06-05T12:40:18+00:00",
-      "summary": "Chronic Kidney Disease to become leading cause of premature death by 2040: Studies&nbsp;&nbsp;The New Indian ExpressThe UWI’s Dr Lori-Ann Fisher Among Experts in Landmark Global Study on Chronic Kidney Disease&nbsp;&nbsp;SKNVibesHealth Beat: Chronic kidney disease&nbsp;&nbsp;WFMZ.comWomen with kidney disease are undertested, undertreated and left behind by decades of male-dominated research&nbsp;&nbsp;Medical XpressNew study suggests up to half of chronic kidney disease cases remain undiagnosed ",
+      "summary": "Chronic Kidney Disease to become leading cause of premature death by 2040: Studies&nbsp;&nbsp;The New Indian ExpressThe UWI’s Dr Lori-Ann Fisher Among Experts in Landmark Global Study on Chronic Kidney Disease&nbsp;&nbsp;SKNVibesHealth Beat: Chronic kidney disease&nbsp;&nbsp;WFMZ.comA Normal Kidney Test Could Still Signal Serious Risk&nbsp;&nbsp;SciTechDailyNew study suggests up to half of chronic kidney disease cases remain undiagnosed | National News | 2news.com&nbsp;&nbsp;KTVN",
       "sources": [
         {
           "name": "The New Indian Express",
@@ -126,14 +162,14 @@
       ]
     },
     {
-      "id": "829b238b8399",
-      "title": "Post-Surgery Radiation Therapy Lowers Risk Of Bladder Cancer Recurrence, Study Suggests - NDTV",
-      "published": "2026-06-05T12:13:25+00:00",
-      "summary": "Post-Surgery Radiation Therapy Lowers Risk Of Bladder Cancer Recurrence, Study Suggests&nbsp;&nbsp;NDTVTata Memorial study finds radiation cuts bladder cancer recurrence risk by over 50%&nbsp;&nbsp;The Indian Express",
+      "id": "06eae9896065",
+      "title": "Suspected Ebola Case Detected in Jaipur, Health Department on Alert - Punjab Newsline",
+      "published": "2026-06-05T12:03:48+00:00",
+      "summary": "Suspected Ebola Case Detected in Jaipur, Health Department on Alert&nbsp;&nbsp;Punjab NewslineSuspected Ebola case in Jaipur; Ugandan national under observation&nbsp;&nbsp;The Times of IndiaHealth centres in Karnataka to keep eye on Ebola, report cases ASAP&nbsp;&nbsp;The New Indian ExpressEbola scare: Surveillance, preparations intensified at Pune airport&nbsp;&nbsp;Hindustan TimesEbola alert: Karnataka orders statewide vigil across hospitals&nbsp;&nbsp;Deccan Herald",
       "sources": [
         {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWdHa0F1NG42c0stdEVTX0RrdWVUREkzUFpQamY2VDJFRXBmWmJaX21uTWg2WENlN1FvYUV0bjUzQ2JfTUxtOGdRcVpiT0d1VjNBSGktdlU0ZXJra05wbENENmstTGhweWJBVExoSnFYaVZ5MW5pb2ZiQWFteUF1TGZDc0VkREY0c0J0bl9YeWJfX1p0M2syZ0h0cnh6bnAxankwVEUtS0R3RDlYZFFSWnNjSmJzTGNfWloxdW54c0HSAcgBQVVfeXFMT0YyY2w3RHhaTjE5X3ZxQmlaYktLcTdzMEVIMDhMeGhqZVZNVnlhY2hlSTdTMmt5NGJXQWxMQzNVekhDdFRremVOMVJ3aHh5TVNmczBZWm1CVDFyNzNjd3dfa2tRRXVpMlJQc3NQUVEybmptQVVQOW90QjdzcFpfMEpSbmlrbjZLM1BnMl9lbUppeVpTNXZoSXdGU1lhcTFMdUIyd0RrLXFxSzZOcTBOdFQtNE10ZjZwTnNka0FRSHEwN0JienlzM1Y?oc=5"
+          "name": "Punjab Newsline",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc1BkN3lRdFJ6MU84YmhWNFhXcTZzaFhqUHBzLWRtd01hQVdSRGtzTjgxV3huS0M0WDVTckhfYUNTMm9oSURmN1hMVFJJRWl5YWFSb3FSWEs4N0k5UXNncG1DNXRvVG5YX0NVTm5SMzZWNlRqNHBURGJzM2JzbThBcTRuUlktbEt6ckhVdzd0enhLME15T0FZU19YTldRZFU?oc=5"
         }
       ]
     },
@@ -141,7 +177,7 @@
       "id": "5b2b3d68cd9b",
       "title": "Exclusive: Biggest Pancreatic Cancer Breakthrough In 50 Years, Says Indian Doctor, Co-Author Of Global Clinical Trial - NDTV",
       "published": "2026-06-05T11:22:30+00:00",
-      "summary": "Exclusive: Biggest Pancreatic Cancer Breakthrough In 50 Years, Says Indian Doctor, Co-Author Of Global Clinical Trial&nbsp;&nbsp;NDTVDaily pill doubles survival time for pancreatic cancer patients&nbsp;&nbsp;BBCA new pancreatic cancer drug is changing survival rates for one of the deadliest cancers&nbsp;&nbsp;UCHealthStanding ovation for pancreatic cancer breakthrough: Oncologists leave their seats in loud applause&nbsp;&nbsp;Deccan HeraldA vitamin D-like drug cracked pancreatic cancer’s shield,",
+      "summary": "Exclusive: Biggest Pancreatic Cancer Breakthrough In 50 Years, Says Indian Doctor, Co-Author Of Global Clinical Trial&nbsp;&nbsp;NDTVA new pancreatic cancer drug is changing survival rates for one of the deadliest cancers&nbsp;&nbsp;UCHealthDaily pill doubles survival time for pancreatic cancer patients&nbsp;&nbsp;BBCWhen PDAC patients bring daraxonrasib headlines to clinic: A counseling guide&nbsp;&nbsp;MDLinxGeorge Astras: The RASolute 302 Trial Marks a Historic Moment for Pancreatic Cancer&nb",
       "sources": [
         {
           "name": "NDTV",
@@ -165,7 +201,7 @@
       "id": "f169ecc9f236",
       "title": "Can drinking alcohol in moderation increase your lifespan? Heart surgeon explains why the notion is flawed | Health - Hindustan Times",
       "published": "2026-06-05T08:41:14+00:00",
-      "summary": "Can drinking alcohol in moderation increase your lifespan? Heart surgeon explains why the notion is flawed | Health&nbsp;&nbsp;Hindustan TimesIs There A Safe Alcohol Consumption Limit? Major Review Reveals When Health Risks Rise&nbsp;&nbsp;NDTVThink a daily glass of wine is healthy? New evidence suggests otherwise&nbsp;&nbsp;India TodayEven Moderate Alcohol Use Can Increase 20 Different Health Risks&nbsp;&nbsp;HealthlineI'm Fit and Healthy. How Much Does Drinking Alcohol Actually Matter?&nbsp;&n",
+      "summary": "Can drinking alcohol in moderation increase your lifespan? Heart surgeon explains why the notion is flawed | Health&nbsp;&nbsp;Hindustan TimesIs There A Safe Alcohol Consumption Limit? Major Review Reveals When Health Risks Rise&nbsp;&nbsp;NDTVThink a daily glass of wine is healthy? New evidence suggests otherwise&nbsp;&nbsp;India TodayHealth effects associated with alcohol consumption: a Burden of Proof study&nbsp;&nbsp;NatureI'm Fit and Healthy. How Much Does Drinking Alcohol Actually Matter?&",
       "sources": [
         {
           "name": "Hindustan Times",
@@ -177,7 +213,7 @@
       "id": "cb175858755e",
       "title": "Pizza, soda, breakfast cereal increase the risk of dementia by 58%, says US study - ThePrint",
       "published": "2026-06-05T08:34:27+00:00",
-      "summary": "Pizza, soda, breakfast cereal increase the risk of dementia by 58%, says US study&nbsp;&nbsp;ThePrintLove packaged snacks? New study says they could raise your Dementia risk by nearly 60%&nbsp;&nbsp;The Times of IndiaHigher ultra-processed food intake tied to increased MS risk: Study&nbsp;&nbsp;Multiple Sclerosis News TodayCrisps and ham sandwiches may raise dementia risk&nbsp;&nbsp;Female FirstBrain Risks Tied to High Ultraprocessed Food Intake&nbsp;&nbsp;MedPage Today",
+      "summary": "Pizza, soda, breakfast cereal increase the risk of dementia by 58%, says US study&nbsp;&nbsp;ThePrintAdding to the List of Dementia Risks: a Diet High in Ultraprocessed Foods&nbsp;&nbsp;WSJLove packaged snacks? New study says they could raise your Dementia risk by nearly 60%&nbsp;&nbsp;The Times of IndiaHigher ultra-processed food intake tied to increased MS risk: Study&nbsp;&nbsp;Multiple Sclerosis News TodayCrisps and ham sandwiches may raise dementia risk&nbsp;&nbsp;Female First",
       "sources": [
         {
           "name": "ThePrint",
@@ -189,23 +225,11 @@
       "id": "77b426350fb5",
       "title": "Life’s key ingredients came from inner solar system, NASA backed study finds - Moneycontrol.com",
       "published": "2026-06-05T08:14:54+00:00",
-      "summary": "Life’s key ingredients came from inner solar system, NASA backed study finds&nbsp;&nbsp;Moneycontrol.comNASA Finds New Way Earth May Have Received Elements Needed for Life&nbsp;&nbsp;NASA Science (.gov)Scientists look at space rocks to uncover how Earth got the ingredients for life&nbsp;&nbsp;Open Access GovernmentEarth became habitable thanks to Jupiter&nbsp;&nbsp;Universe Space TechNew experiments and modeling on iron meteorites provide insight into young solar system and Earth’s building bloc",
+      "summary": "Life’s key ingredients came from inner solar system, NASA backed study finds&nbsp;&nbsp;Moneycontrol.comNASA Finds New Way Earth May Have Received Elements Needed for Life&nbsp;&nbsp;NASA Science (.gov)Life on Earth came from inner solar system, finds study | The study was published in Science Advances | Inshorts&nbsp;&nbsp;InshortsNew experiments and modeling on iron meteorites provide insight into young solar system and Earth’s building blocks&nbsp;&nbsp;Technology OrgScientists look at space ",
       "sources": [
         {
           "name": "Moneycontrol.com",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObnBxWEZ6elhaenJlNWQ3LXhjTnI1RE83YV82aENmVGdDVjhmYkk1bnpadksxeHlKcS1sakp0SzdhTEFTSHJHcHNHeDFrRExndzV6djljdXYya2Npdk45N0lvN0VDbmYzT3RjOW9idmt6NGhxaF95c3R6M0RLU25XMFl6WmRJLXo1dG5WcTJqTnVsdEVRT1hzRm93WkVDWEdXZ1JaNklabWY4bG4xeHo4dHRGQlFNWENGN2xJSHNiaFFPWkRzMVZHNFZB0gHPAUFVX3lxTE0wUWdwWklob0hEbmFKRE43dnB3WVU3OXA3aXJEQm1lNjVLMkdHUUcwZDhFVzVUOGlKRHVjQXFyc2VTelNQSnJISlRLclJsYzJRT21WNEJiZ1FIOEtZeUc2QnJYRUhFdWVEWE9ycGxPSlBnam9KSEpXWlE5bTJiUE80UzlmRE10OU4wTzRxQ09CTWJTSVBnb21JUnJuc0VmVGVBNG9DcDZYY2pDSi1YWl9PYlREM1BpR01GcWlTTV9DdVpzSzJKa1dBYnhKQ003TQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8cf2ef1de6a3",
-      "title": "Irregular heartbeat risk much lower in super‑fit people than previously thought - The Sen Times",
-      "published": "2026-06-05T06:36:34+00:00",
-      "summary": "Irregular heartbeat risk much lower in super‑fit people than previously thought&nbsp;&nbsp;The Sen TimesFive-Decade Cohort Study: Adolescent Cardiorespiratory Fitness Brings Long-Term CV Benefit&nbsp;&nbsp;American College of CardiologyIrregular heartbeat risk much lower in super-fit people than previously thought&nbsp;&nbsp;The ConversationTeen Fitness Tied to Early AF Risk, Later CVD Benefit&nbsp;&nbsp;MedscapeHigh Fitness Doesn’t Raise A-fib Risk In Young Men, Study Finds&nbsp;&nbsp;U.S. News",
-      "sources": [
-        {
-          "name": "The Sen Times",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRGtpTVRjWHhDR08zNzFPRUtzU3BndzVDQTJqSks1a1BLYXhrNS1venhlYWZLVFNsQjFWcTZMY05Ca21mdHBob0pWOG1qZS0tb2c4TC1zN2ZVaW9QUGtzN2MyVURaREl3cjRTOEF5Mm1wQkloMWhCREZBSl9GTTl6SkNXRnZrSHZXbHRvZUhQRHFua0lJUDB2bm5ORnp4R3hadEpNWll6dw?oc=5"
         }
       ]
     },
@@ -234,42 +258,6 @@
       ]
     },
     {
-      "id": "a7477fc035dc",
-      "title": "Pathologic Fracture Due to Osteosarcoma in an Asymptomatic Patient with Paget's Disease of Bone: A Case Report - EMJ",
-      "published": "2026-06-05T06:30:03+00:00",
-      "summary": "Pathologic Fracture Due to Osteosarcoma in an Asymptomatic Patient with Paget's Disease of Bone: A Case Report&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMEtoMlBiLTI2bThta0cybEpoaHJfQVBQdmszejlYMUc2OGRuQkpGMmNGWDVYYUV2dnpMREdmbmZLNksyQm5xQksxamZzclhiQ1pidG1xdjA4RnJJRzBnTzgyNEp0cDVXUTY2aDNPaHBjSGItVHZpc1VlQUp3MERZMGRyUDFPVkpSTHZhcGpkTjc0dzVUMER5ZXh4UmFpVnJzam9mNVVveGNkRUJwNmpYVWwzeFZtRXh4X1h6djRyT0FRLWF6azFpVGdoRE43SmNIQjhaMloyVmxLaFJ1WXZmbVJTR0ozcEpCeHRYc2hJRW1jTC0xU2g5cQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d6e3f828260",
-      "title": "Ovarian Cancer Breakthrough: New Targeted Drug Extends Survival, Improves Quality Of Life - NDTV",
-      "published": "2026-06-05T05:46:17+00:00",
-      "summary": "Ovarian Cancer Breakthrough: New Targeted Drug Extends Survival, Improves Quality Of Life&nbsp;&nbsp;NDTVBreakthrough ovarian cancer drug offers patients more time and better quality of life&nbsp;&nbsp;BBCBritish drug-cost watchdog recommends use of AbbVie's ovarian cancer therapy&nbsp;&nbsp;ETPharma.comElahere’s NHS Approval Tests AbbVie’s Oncology Expansion And Investor Thesis&nbsp;&nbsp;simplywall.stNew ovarian cancer treatment approved for NHS - the first for 20 years&nbsp;&nbsp;Sky News",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTl0cUxQMkxVUGdYWTdiVjZHUDBDTEo3eE1qZFlodV9FNng5eDhBQlhja1c0WDYyQ2hqWlFDVnduUVlwWVlJaHEwMGlNaFhZb2JqdzQ3RzRneG9kbzNqcnpVSjhrbVk1cDZPcHNqdDNpaHd3Wmd2RGVnTy16RUJBUnRwVWV5aF8xUXd4Q0tlTFRyR25NX2c4VjJ3eUZKd0htWE82YXQ4M0Y5ZkxMSG4yQ3RhaTVkcE8wVGRwdU5ZeGVSQdIBygFBVV95cUxQeHFhVDlwZ054N1RDaFB2QVdJWlFWWVljRUp3bHZ6TWFHUTItMUctcTlyRkttdW1xTkVFTEJYal94SnpoVUxoZURZX3BjcjRVNmpERHZwbXVPN1dvNEU0UktZclAtMHFURGpaaU5aVjJlXzVTSEhWSGZkSm1raDFTd2ZScTF2dzMwX1dTYnBvdVVmbDJKQWFSWUQ3b2l0Z2NVb3J2YzVVd1ktelZMSElJRmlrQlh3YUZ3Y0dPM2ZBNmpQb0VPd0tlTldn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d5fca88ffc3",
-      "title": "Ugandan woman quarantined in Jaipur after showing Ebola-like symptoms - Press Trust of India",
-      "published": "2026-06-05T05:18:20+00:00",
-      "summary": "Ugandan woman quarantined in Jaipur after showing Ebola-like symptoms&nbsp;&nbsp;Press Trust of IndiaSuspected Ebola case in Jaipur; Ugandan national under observation&nbsp;&nbsp;The Times of IndiaEbola alert: Karnataka orders statewide vigil across hospitals&nbsp;&nbsp;Deccan HeraldHealth centres in Karnataka to keep eye on Ebola, report cases ASAP&nbsp;&nbsp;The New Indian ExpressEbola scare: Surveillance, preparations intensified at Pune airport&nbsp;&nbsp;Hindustan Times",
-      "sources": [
-        {
-          "name": "Press Trust of India",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaklKWXBsTE9IT1JRWWRDX3VRMmJOTkY1UHg4M2JwRi1ONWRTMFpzWWhqT2ZGbXVvNENGVy11NnZGUzVEZ0wybmRqb2poUElUbGg0U2E0ZUpzU202UEFiLWRGZXo1QldYRlN1TXlSTlJaVjZCd1doakxDenc1WF9tcnZ6bE9zZFVNVGdxQlVLcmVycjVYU0RES1h5Q0pwY09ETEYzVGFJeWRyelBZc0lVd0syblNxdGs?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0df0f10a4174",
       "title": "Smartwatch Alerts Helping Detect Hidden Heart Rhythm Disorders, Say CARE Hospitals Doctors - BW Healthcare",
       "published": "2026-06-05T04:53:54+00:00",
@@ -282,46 +270,10 @@
       ]
     },
     {
-      "id": "656c9e812d60",
-      "title": "Bangladesh Measles Outbreak Claims 4 More Lives; Deaths Rise To 605 - NDTV",
-      "published": "2026-06-05T04:19:04+00:00",
-      "summary": "Bangladesh Measles Outbreak Claims 4 More Lives; Deaths Rise To 605&nbsp;&nbsp;NDTVBangladesh measles death toll rises to 601 as outbreak worsens&nbsp;&nbsp;News On AIRFather incurs Tk 6 lakh in debt trying to save twins, loses both to measles&nbsp;&nbsp;The Daily StarAnother child dies with measles-like symptoms in Faridpur&nbsp;&nbsp;Dainik Amader BartaMeasles outbreak and national preparedness&nbsp;&nbsp;newagebd.net",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzgxR0JzMmFhdUxXcUFQLTlvZFFIVkpaSzFqTnM0T2sxSXhVTFBlNndYTGtHcTRMalExLTRXWUd0enpQY2xrVDZLdzhlOExNM08wMkVqQ3BRYVBaQXZLRW85WW1WOWtmYkVjcUFqVUdkazVNaWlSMkZhdFo0alVKTjczUGZQbW16WEtCNmsyc0xxRHZSMENWenJUZTIyckg3Y05Oc1c5YkJrYm9MWDllatIBrgFBVV95cUxPZ3YzNl9reUVaS0xNeHdod2VZQ1JGRDRwUnIyTmhMVm9xOF9YZkF3bTI3TVR0d0VBYXozZkJ3ajlzYVRMS2NtdTNBWmVHODRSYThVQjhIMmk1WFRqYWRORk1qbnNFcDk3Y0tmNGhoUTIyMGIwZWhWQS1qMndzdC1xLXI2MVdpTWV4d2tzc1NtWDEzV2pTSjJ2TDlpckprTUJWV2pKQUVfRGt4Rm9oS3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3273c3ec0c6f",
-      "title": "Poll Finds Broad Support For Stricter Regulations On Ultra-Processed Foods - Cancer Therapy Advisor",
-      "published": "2026-06-05T04:00:00+00:00",
-      "summary": "Poll Finds Broad Support For Stricter Regulations On Ultra-Processed Foods&nbsp;&nbsp;Cancer Therapy AdvisorBeyond ingredients: How ultra-processed foods are making you sick&nbsp;&nbsp;The Times of IndiaUltra-processed food harms tied to content not manufacture, review says&nbsp;&nbsp;Financial TimesBipartisan voters sound alarm on ultra-processed foods&nbsp;&nbsp;eMarketerHow tobacco-style product design shaped a kids’ lunchbox staple&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "Cancer Therapy Advisor",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWR5cTlnUW9RdkxmWTN0NVd0blRtWmcyQzZKRnFmR19Yb05HcW5OZ2FXRE01RkJSR3dEMWIwUjh2aEw0RnZPdmFkM2tsUExvbDZrZ0RMRGVzdFNOZVJ6SmgtcDl0dVc0TkJKWkNVMTZ6UFJMM3IyV1lLNFFkUFAwYmZvekhYX0dIb2NERkE5VGhJVEFLSGdCaXIzcFI1QXhSczFlcUNqbW5jdHUzQ1RqRTNzS2x3S1It?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2eea9a90295",
-      "title": "Cortisol spikes — what stress is really doing to your health - The Times",
-      "published": "2026-06-05T04:00:00+00:00",
-      "summary": "Cortisol spikes — what stress is really doing to your health&nbsp;&nbsp;The Times",
-      "sources": [
-        {
-          "name": "The Times",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZi05RVJnTmRvb3BMSTJ0OUxmZ25tVFNja1JGOTNHY3hDTXBaNkxxSFNiRHhqMmRabE9RUEtNXzdtYzhnb0NodXJpWWoxVWp3RVpUYnpScHBVZk1Gck5yeTJjeXZSR2VSWGF0d2VyVks2Z245VmllZ3ZxYlZMWjhpVE5vbXpWR29JZWI1S1ZMMVZ2TlJ3UTdSVmZXRTlTVlZnTzRGREVrQzFHSy1tRmlfLTRCNXdNcERzbWNmVUxzSF8zVnpBVnF1ZmZhaWlJT2w3R3B6bk1kbVNDT2d5X3BR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "604385b7852f",
       "title": "Fathers' health may shape children's future obesity ris - News-Medical",
       "published": "2026-06-05T02:32:00+00:00",
-      "summary": "Fathers' health may shape children's future obesity ris&nbsp;&nbsp;News-MedicalDad bod hides a sperm health risk. Fathers can raise children’s obesity risk, study finds&nbsp;&nbsp;ThePrintThe ‘dad bod’ dilemma&nbsp;&nbsp;UC Irvine NewsYour ‘dad bod’ could raise your kids’ risk for obesity and disease — before they’re even conceived&nbsp;&nbsp;New York Post‘Dad bods’ may influence childhood obesity risks&nbsp;&nbsp;UC Irvine News",
+      "summary": "Fathers' health may shape children's future obesity ris&nbsp;&nbsp;News-MedicalSee more headlines and perspectives on Google News",
       "sources": [
         {
           "name": "News-Medical",
@@ -333,7 +285,7 @@
       "id": "dcc29e5d1cb9",
       "title": "Alzheimer’s may show up in blood yrs before symptoms appear—Lancet study offers hope of early diagnosis - ThePrint",
       "published": "2026-06-05T00:30:05+00:00",
-      "summary": "Alzheimer’s may show up in blood yrs before symptoms appear—Lancet study offers hope of early diagnosis&nbsp;&nbsp;ThePrintBlood test with AI spots four dementia-related brain diseases with 92.3% accuracy&nbsp;&nbsp;Medical XpressFirst-of-its-kind UCSF study shows blood test may catch early cognitive trouble&nbsp;&nbsp;SFGATEBlood test could detect Alzheimer's signs 'decades before symptoms appear', study shows&nbsp;&nbsp;Sky NewsCardiovascular Biomarkers as a Primary Care Gateway to Early Alzhe",
+      "summary": "Alzheimer’s may show up in blood yrs before symptoms appear—Lancet study offers hope of early diagnosis&nbsp;&nbsp;ThePrintBlood test with AI spots four dementia-related brain diseases with 92.3% accuracy&nbsp;&nbsp;Medical XpressCardiovascular Biomarkers as a Primary Care Gateway to Early Alzheimer's Disease Detection: The Case for an Integrated Screening Approach&nbsp;&nbsp;CureusNew assessment for earlier detection of Alzheimer’s&nbsp;&nbsp;Healthcare TodayCould a Blood Test Predict Risk of B",
       "sources": [
         {
           "name": "ThePrint",
@@ -369,11 +321,23 @@
       "id": "8b49f8037d9c",
       "title": "Chemical Hazards Cause Most Foodborne Deaths - Health Policy Watch",
       "published": "2026-06-04T16:45:03+00:00",
-      "summary": "Chemical Hazards Cause Most Foodborne Deaths&nbsp;&nbsp;Health Policy WatchUnsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk&nbsp;&nbsp;World Health Organization (WHO)Food Contamination Causes 1.5 Million Deaths Annually: WHO&nbsp;&nbsp;NDTVWorld Food Safety Day 2026, Date, Theme, Food Safety in India&nbsp;&nbsp;Vajiram & Ravi1.5 million people died of foodborne illnesses in one year. What can you do?&nbsp;&nbsp;CNN",
+      "summary": "Chemical Hazards Cause Most Foodborne Deaths&nbsp;&nbsp;Health Policy WatchUnsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk&nbsp;&nbsp;World Health Organization (WHO)World Food Safety Day 2026, Date, Theme, Food Safety in India&nbsp;&nbsp;Vajiram & RaviGlobal Food Contamination Causes 1.5 Million Deaths Annually With Children Most Affected, Warns WHO&nbsp;&nbsp;NDTV1.5 million people died of foodborne illnesses in one year. What can you do?",
       "sources": [
         {
           "name": "Health Policy Watch",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGlfVk9ROGwwVC01UUhrc1B5dGcyLXZOQlExS0FmQ2tzTllKS2xxV043Sld1RkdaZnYwQ09VdlR5enotWFdEMHg5Qi04QzRlZndWb1pVbHhCc0JGZnpVVlZpYTNlX0VuUXk4aUU5NUhuaEJPcmRJbzNqa1JQX0lmdDRmWjM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e6b1f49cff3",
+      "title": "Early Research Suggests a Path to Predict and Prevent Lung Cancer - The New York Times",
+      "published": "2026-06-04T15:21:45+00:00",
+      "summary": "Early Research Suggests a Path to Predict and Prevent Lung Cancer&nbsp;&nbsp;The New York TimesBlood test can predict lung cancer 5 years before diagnosis&nbsp;&nbsp;The Times of IndiaScientists have made a discovery that may help prevent some people from developing lung cancer, which kills more people worldwide than any other cancer. The findings, which were published on Thursday, offer a promising starting point toward a long-held&nbsp;&nbsp;facebook.comHow Low-Dose CT Scans Can Lower Your Lun",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PcnpkY1h3VUtVY2tzOFduaTFoMVFINnFPYm5jSkRWdVQ4bWxBWWhGR2V1SjBVNzI1cDdDenZUcTRPb2JWOXFMUnFNZEhfV256aERkeC1Tdm1SWEpZamhFX2cyYWszamZmdzVydmI2M3RzY2ktU3c?oc=5"
         }
       ]
     },
@@ -405,11 +369,23 @@
       "id": "7f33429f6458",
       "title": "Primary Infertility Linked to Earlier Menopause Onset - Medscape",
       "published": "2026-06-04T12:52:46+00:00",
-      "summary": "Primary Infertility Linked to Earlier Menopause Onset&nbsp;&nbsp;MedscapeInfertility Found to Be A Potential Risk Factor For Early Menopause, Says New Study&nbsp;&nbsp;NDTVInfertility may cause early menopause: Study&nbsp;&nbsp;Deccan HeraldInfertility or endometriosis could be linked to early menopause risk: study&nbsp;&nbsp;Global NewsInfertility may lead to earlier menopause: new study&nbsp;&nbsp;CTV News",
+      "summary": "Primary Infertility Linked to Earlier Menopause Onset&nbsp;&nbsp;MedscapeInfertility Found to Be A Potential Risk Factor For Early Menopause, Says New Study&nbsp;&nbsp;NDTVInfertility or endometriosis could be linked to early menopause risk: study&nbsp;&nbsp;unpublished.caWomen With Infertility May Face Earlier Menopause, Study Finds&nbsp;&nbsp;NewsweekStudy Links History of Primary Infertility to Timing of Natural Menopause&nbsp;&nbsp;geneonline.com",
       "sources": [
         {
           "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWtjWXF5VTNwLXgzbHA0bHN6Nmtnc2Z0eEJUd3VZUmE0NjNvdU9YcjRYTExDRkt6ajBlMTF5WTZVdVJvVTEweEdPMm9qUHNfMjNuSTRiQVc2YlVpSXh5cm8tckRtaE5PRUJhMmVRTnozM2NaU2trbVBVVkJSMzc4V0Y3d2ZocVNlYk5qcm80MVlUTWt0VW9hOWhvcGZRWk5XcXVMX1lmYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "526d02d3de64",
+      "title": "The blood cancer that became solvable - Works in Progress Magazine",
+      "published": "2026-06-04T10:25:08+00:00",
+      "summary": "The blood cancer that became solvable&nbsp;&nbsp;Works in Progress MagazineStriving for a cure for multiple myeloma: What HCPs need to know&nbsp;&nbsp;Johnson & JohnsonImproving how multiple myeloma is understood and treated&nbsp;&nbsp;The Labor TribuneThe bispecific era in multiple myeloma — Future directions: Written recap&nbsp;&nbsp;Managed Healthcare ExecutiveCharting Progress, Changing Outcomes: The Evolution of Multiple Myeloma Care&nbsp;&nbsp;Sanofi",
+      "sources": [
+        {
+          "name": "Works in Progress Magazine",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSbDBBb0lVc3pqS1IzNXc2ZWlhZmFNNEhmdUVtQkxLX2xOTHgtUVpTeVBCS193OWlvZDNETldXcGltZlBQaGNldnFxQnhoWWl4NHFHZURJUXJZMVR0ZWdBaThYQmFna2hnR3pLMGtfT1dtb0lBYVMyRXVIdw?oc=5"
         }
       ]
     },
@@ -426,22 +402,10 @@
       ]
     },
     {
-      "id": "7fc80888d068",
-      "title": "ABP Live Doc Talk | Heatwave Alert: Is Extreme Summer Heat Quietly Damaging Your Heart? - ABP News",
-      "published": "2026-06-04T08:34:30+00:00",
-      "summary": "ABP Live Doc Talk | Heatwave Alert: Is Extreme Summer Heat Quietly Damaging Your Heart?&nbsp;&nbsp;ABP NewsNC migrant workers, advocates work to get ready for long, hot summer&nbsp;&nbsp;The Asheville Citizen Times",
-      "sources": [
-        {
-          "name": "ABP News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSE1FWnp3My1QRWZBMkFzUU1RY0ZrbHZMQWJ3SDlZcUJIU05xRkVlMEwtU2dWV0NWajZSX0toOEVYVG9nWFNwN0JFV3hlaExGbkxsUDh1dDhRWnMxRkttOVZxandDN1Nwdm10V3ZvRXBXODhBazZfbF91QnlYMlZLNGFoaFhFN0x2eWdTdk5CT1RCdUVCR2JfMnBnOUtoSVVYekVQT0ZKcEJJU05NcTVlMTl5dWluVk0xU0F4THJLdnDSAcYBQVVfeXFMTnpiMzJOUmFuaHRkY1NzYWhTcDhBTkRWV1V0TXBnNmlGQXdrVnJXWFFxeXJDWTFnZThWa3otRURyUUlHUDRPTmtkQ0tpMXFXZk1VVGVNXzk4eVVraDl0cFJfcjFsR0VCY3ZSTzIzSVd2bG1qYVFxMEFsdFNMUWtmY0tpcDhKR2pzUWZTWm5QS3pKQVlHbS1jRWN1RFh4OWNSbWZXZW5xU0VrUmJRMVBVUnZ0dWNkd2NOWXlTU0JMZlRELVpOX3pB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ba2ec08b4578",
       "title": "Heart Attack Consequence: How Surviving A Cardiac Event Secretly Speeds Up Brain Ageing And Memory Loss - NDTV",
       "published": "2026-06-04T08:29:02+00:00",
-      "summary": "Heart Attack Consequence: How Surviving A Cardiac Event Secretly Speeds Up Brain Ageing And Memory Loss&nbsp;&nbsp;NDTVA New Study Suggests Heart Attacks Can Leave A Neurological “Aftershock”&nbsp;&nbsp;MindBodyGreen",
+      "summary": "Heart Attack Consequence: How Surviving A Cardiac Event Secretly Speeds Up Brain Ageing And Memory Loss&nbsp;&nbsp;NDTVHeart Attack and Brain Health: What Survivors Need to Know&nbsp;&nbsp;NBC Palm SpringsA New Study Suggests Heart Attacks Can Leave A Neurological “Aftershock”&nbsp;&nbsp;MindBodyGreenHow heart attack survivors can work to protect their brain&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "NDTV",
@@ -477,35 +441,11 @@
       "id": "1218cdedda24",
       "title": "Global Research Accelerates on GLP-1 Drugs: Ozempic and Classmates Show Promise in Reshaping the Brain, Slowing Aging, Easing Knee Osteoarthritis, Reducing Cancer Risks, and More - drugscontrol.org",
       "published": "2026-06-04T02:43:56+00:00",
-      "summary": "Global Research Accelerates on GLP-1 Drugs: Ozempic and Classmates Show Promise in Reshaping the Brain, Slowing Aging, Easing Knee Osteoarthritis, Reducing Cancer Risks, and More&nbsp;&nbsp;drugscontrol.orgGLP-1 drugs like Ozempic show promise for more than weight loss. But what’s science vs hype?&nbsp;&nbsp;The ConversationOzempic Is Finally Turning the Tide Against Obesity, New Data Shows&nbsp;&nbsp;GizmodoAs GLP-1 Supplements Grow In Popularity, Clarity Becomes Critical&nbsp;&nbsp;MaximKey GL",
+      "summary": "Global Research Accelerates on GLP-1 Drugs: Ozempic and Classmates Show Promise in Reshaping the Brain, Slowing Aging, Easing Knee Osteoarthritis, Reducing Cancer Risks, and More&nbsp;&nbsp;drugscontrol.orgOzempic Is Finally Turning the Tide Against Obesity, New Data Shows&nbsp;&nbsp;GizmodoWhat GLP-1s Have Not Changed&nbsp;&nbsp;Psychology TodayWhat the science says GLP-1 drugs are good for&nbsp;&nbsp;citynewsqbn.com.auGLP-1s: The Miracle Drug with Fine Print&nbsp;&nbsp;Irish Medical Times",
       "sources": [
         {
           "name": "drugscontrol.org",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qaTBmWHM3TXdtQUVHbGg4YzF6ek5ab0hnTHlwWjVaNmpPaUVwOXMwY19iTE04cDVkNzY0Nk9nZXRYUldaRlR3ZW9KTGw3YjRicXQzbWxRWkM3cEx2YmRBR09SSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52af7ceeb313",
-      "title": "Air pollution below EPA thresholds still poses heart health risks - News-Medical",
-      "published": "2026-06-04T02:34:00+00:00",
-      "summary": "Air pollution below EPA thresholds still poses heart health risks&nbsp;&nbsp;News-MedicalAir pollution may harm your heart even below EPA safety limits&nbsp;&nbsp;Earth.comUS study finds ‘acceptable’ air quality still poses health risk&nbsp;&nbsp;Air Quality NewsUniversity of Mississippi Review Links EPA-Compliant Air Pollution Levels to Cardiovascular Risks&nbsp;&nbsp;geneonline.comAir pollution (IMAGE)&nbsp;&nbsp;EurekAlert!",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRks1UG5HWk5Od2hvZkpJYndDcTVCbl9TT3N1MkFtWmQ4ekZCM2Q3c1FROC0zLTd2TGdGQmI2a0R2OVgzSV8wdVlQbVpLdEMtdEs0RUM1LWdZZC1xTW5wN2xKR1hQWk9PVmZPd2RwWklLVlRadHphakR5cmx4NFBsYnZET3JaSm1PcUNqVUwzUHladzE0dm9vUWpfYy0wTXRTUkoxcVU0LXA0MTZoYTJmZktqQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b41d5dac185",
-      "title": "Vaping ban goes up in smoke as e-cigarettes still lure youth - The Tribune",
-      "published": "2026-06-03T21:19:01+00:00",
-      "summary": "Vaping ban goes up in smoke as e-cigarettes still lure youth&nbsp;&nbsp;The TribuneVaping's life-threatening cost: UAE doctors warn of severe health risks to teens&nbsp;&nbsp;Khaleej TimesVaping in teens results in popcorn lungs, metal toxicity and depression: PGIMER doctor decodes risks&nbsp;&nbsp;The Indian ExpressConcerning new study finds one popular vape flavour is a lot worse for your body&nbsp;&nbsp;The TabVaping devices and flavors affect genes differently&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "The Tribune",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmNKZlllcWExakp6eE5rM3Q4aUxqT3dLUmZVblRveDJYTFRoM3pqN2RyQWpmSks5SjJHSk1hNHE2eUVrWGZxeUdydHo5RjdJS3JGeXh6MkQtODh1Mmt2aEFrS043MUJoXzVkQzBtWXJYMUlFRzNxUmxlSzVhVDZHSXgwV0U3S3RzMno2V0ZPWUtpYXYwOF9qTUJzbzE2eHJoSjhHbjV2VQ?oc=5"
         }
       ]
     }
