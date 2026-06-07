@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-07T02:04:43.714370+00:00",
-  "total_count": 42,
-  "matched_count": 30,
+  "last_updated": "2026-06-07T08:40:24.292615+00:00",
+  "total_count": 33,
+  "matched_count": 22,
   "news": [
     {
-      "id": "c992a69aeb37",
-      "title": "Drug nearly doubles survival in advanced pancreatic cancer—how daraxonrasib overcame an 'undruggable' disease - Medical Xpress",
-      "published": "2026-06-06T22:30:01+00:00",
-      "summary": "Drug nearly doubles survival in advanced pancreatic cancer—how daraxonrasib overcame an 'undruggable' disease&nbsp;&nbsp;Medical XpressRemoving ‘invisibility cloaks’ and safely skipping chemo: new weapons in war on cancer shared at US conference&nbsp;&nbsp;The GuardianExclusive: Biggest Pancreatic Cancer Breakthrough In 50 Years, Says Indian Doctor, Co-Author Of Global Clinical Trial&nbsp;&nbsp;NDTVA new pancreatic cancer drug is changing survival rates for one of the deadliest cancers&nbsp;&nbs",
+      "id": "9a812885aa96",
+      "title": "Ozempic beyond weight loss: Separating science from hype - News Arena India",
+      "published": "2026-06-07T08:21:46+00:00",
+      "summary": "Ozempic beyond weight loss: Separating science from hype&nbsp;&nbsp;News Arena IndiaHow a diabetes drug became a weight-loss hack, and why doctors are concerned&nbsp;&nbsp;CNAGLP-1 drugs like Ozempic show promise for more than weight loss. But what’s science vs hype?&nbsp;&nbsp;The ConversationOzempic Is Finally Turning the Tide Against Obesity, New Data Shows&nbsp;&nbsp;GizmodoThe Ozempic Shift Moves On&nbsp;&nbsp;National Review",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFFDWmZVSUFPeUE1LWwzSWRwQUpiU1MzdFdld2tKeHZBRXhqOGZ3TVNJX1Y1aXh0d2d5cFYxcVdTVGV1aWtqaXRjS2NIZ1NrYWVmMTVoM1RZVWZPTi0xZGxrY3dMSHkweDczOXFzRTRnWXl4elpQT1ExNEVXSkRnYjlLNk5Pa3RvY3JGZQ?oc=5"
+          "name": "News Arena India",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXZJM1VFT2JrRVBENkhRWDNBVktZTnFpeWtaYV9UTzVhRUJvTXpqc2lKSWhHYlFwcTlPVW5wRzZZWDNsWEU1Z1N4VTlnQW05ZVBqM1dGTWhQRDdVeExuU2hieUxWeHBKMURyNUpNeTcxV1ZrV1hDYmI4b2c2RU1uYVd4TjZmZE9MZTY4eS15WUViLTVQY0pORDZQZw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -23,17 +23,24 @@
         },
         {
           "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
+          "disease_id": "generic_diabetes",
+          "name": "diabetes",
+          "keyword": "diabetes"
         }
       ]
+    },
+    {
+      "id": "a9ab6713faa6",
+      "title": "World Food Safety Day: Protecting the Gift of Food, Preserving the Dignity of Life - Catholic Connect",
+      "published": "2026-06-07T02:16:57+00:00",
+      "summary": "World Food Safety Day: Protecting the Gift of Food, Preserving the Dignity of Life&nbsp;&nbsp;Catholic ConnectWorld Food Safety Day 2026: Surprising Food Safety Myths And Facts Everyone Should Know&nbsp;&nbsp;NDTV FoodWHO Report Highlights Deadly Global Impact of Foodborne Diseases on Children&nbsp;&nbsp;Medical DialoguesUnsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk&nbsp;&nbsp;World Health Organization (WHO)World food safety day 2026: 5 ",
+      "sources": [
+        {
+          "name": "Catholic Connect",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTzNhbGlIaVRWbTJFdnpmQzFiSDNKOW5ydE54SUI2WW5QeF9BVEp1bFdaTnc1aDU4X3JYc3l4cm90eWU0ckcxcXQ0aUUyWUNybWRLTUo1d09fWmNaWl9ReWh1WmNRS1JOT2hTa0M0Mi1qd2FUUjBrbnBEUjU5MmJFb1NVdUhtYVRVX2JOb1ZOclVtTDdiNUhiRVlEQ3JYd21xdXBYQmpHdFBTMEM0NWxJczZn?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "972cf35e5235",
@@ -56,22 +63,28 @@
       ]
     },
     {
-      "id": "cb2167109533",
-      "title": "World Food Safety Day 2026, Theme, History and Significance",
-      "published": "2026-06-06T18:05:00+00:00",
-      "summary": "World Food Safety Day 2026, Theme, History and Significance&nbsp;&nbsp;BankersaddaUnsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk&nbsp;&nbsp;World Health Organization (WHO)World Food Safety Day 2026, Date, Theme, Food Safety in India&nbsp;&nbsp;Vajiram & RaviWHO Report Highlights Deadly Global Impact of Foodborne Diseases on Children&nbsp;&nbsp;Medical DialoguesShehbaz calls for safe, resilient food system&nbsp;&nbsp;The Express Tribune",
+      "id": "54a872018828",
+      "title": "Measles outbreak in Bangladesh draws international concern - The Indian Awaaz",
+      "published": "2026-06-06T19:20:00+00:00",
+      "summary": "Measles outbreak in Bangladesh draws international concern&nbsp;&nbsp;The Indian AwaazMeasles Outbreak In Bangladesh Claims Five More Lives; Deaths Rise To 610&nbsp;&nbsp;NDTVFather incurs Tk 6 lakh in debt trying to save twins, loses both to measles&nbsp;&nbsp;The Daily StarMeasle outbreak: Death toll rises to 613 as 3 more die in 24hrs&nbsp;&nbsp;The Business StandardMeasles outbreak and national preparedness&nbsp;&nbsp;newagebd.net",
       "sources": [
         {
-          "name": "Bankersadda",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53dVBBa3psNDQwNXNpWWxXRGUwUEpKQVIzZUV6ZkVBLTVJS0JMVWVlakljanh3d21KU2NsUEVCNXMyYW93dWMzcmVFcE9xSHhoZkxFR2lRZ2RFZ3hLTnNVUHQ4cnJIZw?oc=5"
+          "name": "The Indian Awaaz",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2ViQTVEM29ZWU9HOUdDVzhBRjd3RFpqMXFweXhYSHdONlFpVWMyYUdndnlycmJMYUZEZ0JzbVdHSEY3Tk9yYzRpSnZHTE82WUVPbGE0Y0d6Ym5lWXVHcDJKcDU3bEN5dVJYdURqc0ExM0twRnBWTU1RT3p1alEteVIyRU1jblZFbjZOUFJ6VQ?oc=5"
         }
       ],
       "matched_keywords": [
         {
-          "type": "drug",
-          "drugbank_id": "DB03384",
-          "keyword": "fica",
-          "name": "Fica"
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4619",
+          "name": "measles",
+          "keyword": "measles"
         }
       ]
     },
@@ -79,38 +92,19 @@
       "id": "132cc3b68779",
       "title": "New study casts doubt on reliability of mental health diagnosis interviews - The Guardian",
       "published": "2026-06-06T17:20:00+00:00",
-      "summary": "New study casts doubt on reliability of mental health diagnosis interviews&nbsp;&nbsp;The GuardianMental health diagnostic interviews are less consistent than thought&nbsp;&nbsp;News-Medical",
+      "summary": "New study casts doubt on reliability of mental health diagnosis interviews&nbsp;&nbsp;The Guardian‘Gold Standard’ for Mental Health Diagnosis May Leave Patients Miscategorized, Study Finds&nbsp;&nbsp;GizmodoMental health diagnostic interviews are less consistent than thought&nbsp;&nbsp;News-MedicalAre interviews suitable for diagnosing mental health conditions?&nbsp;&nbsp;NewsBytes",
       "sources": [
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUNPalQzOVltMmZ0S3JVWkREVUJ5UmVlM0xvX1lJLUliY1lwT3VDN0xjaktUZnFxR2lqNGRicE5MOXJOd0JhVmJzbHI0Q0JIeEdaaFhDRlBzd21la3RBMzNCdFFfdjNXek1ra3dRQ21kNVBXb2tjNjI2OVpvNkhOREVsd0pQNE5qdThZXzIyaXNUYXVlbmVyMml5WWY4Zw?oc=5"
         }
       ],
-      "matched_keywords": []
-    },
-    {
-      "id": "17088626e405",
-      "title": "Weekly Health Update | Ebola Spreads, Cholera Surges and New Gains Against Malaria in Africa - Ecofin Agency",
-      "published": "2026-06-06T17:17:52+00:00",
-      "summary": "Weekly Health Update | Ebola Spreads, Cholera Surges and New Gains Against Malaria in Africa&nbsp;&nbsp;Ecofin AgencyJUSTICE MALALA: The world is turning its back on Africa, again&nbsp;&nbsp;Financial MailAfrica news roundup: 29 May to 4 June&nbsp;&nbsp;Research Professional News",
-      "sources": [
-        {
-          "name": "Ecofin Agency",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZm81T0QwU2gzb3RNY2xjWldXaVljZUNrazV0SS03c1F1cWJCZ2poVGNTcVhpbC1LZXltemI1R3ZFTHNUUnlMTHBGNHJ2OUNjM3ktR18ySFdNM2prdGN6QTVNYlFYNVhFS2dFVXpsQTNxX1N4R1NZdlpucXlKc25HN0xQY1VpZUU4OHB6ZnpfaXc2NTZJNkNkWUNTQVpZSzQ0LUZyTFp2UEdiWlZQUWx4N1JmbkVtaDB3dnJFblJ6b3dVNmUtb0xhMWV5enk1aGRnd1BRcEczR0piSU0?oc=5"
-        }
-      ],
       "matched_keywords": [
         {
           "type": "indication",
-          "disease_id": "15766",
-          "name": "cholera",
-          "keyword": "cholera"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5136",
-          "name": "malaria",
-          "keyword": "malaria"
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
         }
       ]
     },
@@ -118,7 +112,7 @@
       "id": "a9db72a24377",
       "title": "Nearly 500 confirmed cases in Central Africa Ebola outbreak: WHO - The Hindu",
       "published": "2026-06-06T17:13:42+00:00",
-      "summary": "Nearly 500 confirmed cases in Central Africa Ebola outbreak: WHO&nbsp;&nbsp;The Hindu'They die as they arrive': Ebola is spreading in eastern DRC&nbsp;&nbsp;news.cgtn.comFaith, fear and trust: Inside DR Congo’s fight against Ebola&nbsp;&nbsp;UN NewsAfrica CDC and WHO launch joint continental Ebola response plan&nbsp;&nbsp;World Health Organization (WHO)Ebola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple&nbsp;&nbsp;BBC",
+      "summary": "Nearly 500 confirmed cases in Central Africa Ebola outbreak: WHO&nbsp;&nbsp;The HinduWHO: Confirmed Ebola cases in DR Congo, Uganda rise to 471&nbsp;&nbsp;news.cgtn.comFaith, fear and trust: Inside DR Congo’s fight against Ebola&nbsp;&nbsp;UN NewsDR Congo's Ebola cases hit 363, as Uganda reports 4 recoveries&nbsp;&nbsp;XinhuaEbola Outbreak Expands In Congo With 71 New Cases Confirmed&nbsp;&nbsp;NDTV",
       "sources": [
         {
           "name": "The Hindu",
@@ -126,6 +120,26 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "1e83ca79016c",
+      "title": "Astronomers detect long-predicted cosmic wind from Milky Way's central black hole",
+      "published": "2026-06-06T17:09:08+00:00",
+      "summary": "Astronomers detect long-predicted cosmic wind from Milky Way's central black hole&nbsp;&nbsp;madhyamamonline.comScientists Finally Detect Wind Streaming From Milky Way's Central Supermassive Black Hole&nbsp;&nbsp;NDTVScientists have made a huge discovery at the enormous black hole at the centre of our Galaxy. And they found something pointing right at it&nbsp;&nbsp;BBC Sky at Night MagazineWind from the Milky Way's supermassive black hole has finally been discovered at the heart of our galaxy&nb",
+      "sources": [
+        {
+          "name": "madhyamamonline.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVBYRjBFZ2hhT0NUbC1aQnBNMEp1U0U0aEZBY1NMWk1yZXdhWG5hNzZ2VHZELTFTeXEweDZKTDAtS2FqUi02V1hCRkVwRXFwZVJFU2F4bWxVc01PblFHWHY0bnhZMkE3T1hIOTFMQW5ZbkdrNDJtUkJfamszMHBfeEpMNkR6UnFTV0lhb015ZzlETV82Q09TSjkwTlQ2OFRabDIxVjZTcTZ0YlhLVHlhRjBmQnpLYkRNMV9icE9lbEt0QdIBxwFBVV95cUxQdmtYdHNIQmIxclN5bm5KUTFTZ3JGWWQtZXB5R2RaeUZua255cldyeWNlLW8xTTNaeFZXU0o5WnprRXh4Zy1xVC1KUUFhQUk3ZnB0c1RPelYtUERuZjlDZHNLYTgzVFFKMzJsWjNTaXNJOXFUa2hKNXM0ajBCYVhNM3BXdlVfM2JtR2VtSzFpaEtMSnRNblB1WjhjVnpHcDFFazhCeE5sUmc5c0V3QS1LMGpqSW1BWDNGYXhZTlQtUE43Nl9KRWln?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
     },
     {
       "id": "4421ba4e903b",
@@ -176,7 +190,7 @@
       "id": "1ffc2180830b",
       "title": "Cambridge Team Develops Universal Vaccine To Curb Variants Of Covid, Ebola Infections - Deccan Chronicle",
       "published": "2026-06-06T14:12:10+00:00",
-      "summary": "Cambridge Team Develops Universal Vaccine To Curb Variants Of Covid, Ebola Infections&nbsp;&nbsp;Deccan Chronicle'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCAI-designed universal coronavirus vaccine passes first human trial&nbsp;&nbsp;ScienceDailyWorld's first AI-designed vaccine developed by UK scientists enters human trials&nbsp;&nbsp;The Times of IndiaAI Vaccine Development Hits Human Trials&nbsp;&nbsp;AI CERTs",
+      "summary": "Cambridge Team Develops Universal Vaccine To Curb Variants Of Covid, Ebola Infections&nbsp;&nbsp;Deccan Chronicle'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCBreakthrough: Universal Coronavirus Vaccine Designed By AI Passes Human Trial&nbsp;&nbsp;NDTVWorld's first AI-designed vaccine developed by UK scientists enters human trials&nbsp;&nbsp;The Times of IndiaAI-designed universal coronavirus vaccine passes first human trial&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
           "name": "Deccan Chronicle",
@@ -206,30 +220,10 @@
       ]
     },
     {
-      "id": "9fb988e88d6f",
-      "title": "Brain Imaging Predicts Ketamine Response in Depression",
-      "published": "2026-06-06T11:05:57+00:00",
-      "summary": "Brain Imaging Predicts Ketamine Response in Depression&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb29XcGUtRDZTWHFDb0dzYm1EUkQxTmppV1ZhanJOeHlYdmwtTTVvZXd3WjFGRnlDakU0RWJKTlRLUGxCbWprNE5uT0hrT1UwazNOOG0xcjJmM2ZIOHZ5c01oSlRZc2pnQ3FjUUhKRXRQOUJ3V3FkMFBoUmZTUkVrMW9fNGdQa1Uxd2c5Z0RHSGdLdFNWTkpSWjFMZWVLUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB01221",
-          "keyword": "ketamine",
-          "name": "Ketamine"
-        }
-      ]
-    },
-    {
       "id": "2fa359e205af",
       "title": "Scientists Discover Dog-Sized Scorpion That Once Roamed Earth",
       "published": "2026-06-06T10:15:58+00:00",
-      "summary": "Scientists Discover Dog-Sized Scorpion That Once Roamed Earth&nbsp;&nbsp;InfomanceDog-Sized Scorpions Once Crawled Across Britain 415 Million Years Ago, Researchers Say&nbsp;&nbsp;NDTVThe Scorpion King was real: Venomous creature as long as a full-grown German Shepherd once ruled the Earth&nbsp;&nbsp;The Economic TimesGigantic scorpions with formidable pincers once roamed England and Wales, fossil reveals&nbsp;&nbsp;The IndependentLargest scorpion ever grew to over three-feet long and had six-in",
+      "summary": "Scientists Discover Dog-Sized Scorpion That Once Roamed Earth&nbsp;&nbsp;InfomanceThe Scorpion King was real: Venomous creature as long as a full-grown German Shepherd once ruled the Earth&nbsp;&nbsp;The Economic TimesWorld’s biggest scorpions were the size of baseball bats&nbsp;&nbsp;Popular ScienceLargest scorpion ever grew to over three-feet long and had six-inch pinchers, according to nightmare-inducing study&nbsp;&nbsp;AOL.comBiggest scorpion to ever live revealed from 415-million-year-old ",
       "sources": [
         {
           "name": "Infomance",
@@ -242,26 +236,6 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "879a2b355714",
-      "title": "What women living with Multiple Sclerosis need - The Hindu",
-      "published": "2026-06-06T10:15:04+00:00",
-      "summary": "What women living with Multiple Sclerosis need&nbsp;&nbsp;The HinduLetter to the editor: World MS Day&nbsp;&nbsp;Pierce County JournalMarengo Asia Hospitals launches specialised multiple sclerosis clinic&nbsp;&nbsp;expresshealthcare.inWorld MS Day celebrated in Hyderabad with focus on awareness and inclusion&nbsp;&nbsp;Telangana TodayWorld MS Day: National Policy Dialogue Adopts Landmark 10-Point Declaration Calling for Stronger Recognition of Invisible Disabilities in India&nbsp;&nbsp;TheWire.i",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmxoTE1lRFBXME1fUDFidmhoLTNfRm1vNzNiY3Y3ajBFSHd6Z2wzQi0wbVk1VmJ0RHloUlphM1NmMlJ4UDJKRmY5aXVVLVdTWkg1b3RuZVdqSTNLU3FvUVZlcTVzRTVqOFI5c3l3UElfTHpnV3RseXpQUkRRd2k1Q0dFTHgwQ0dsdXhTN0RmS2tnbjh0cjlqdFhpQzdnSDN0b0FaMTdja3RxWG_SAbIBQVVfeXFMUDMyMGRQVWdHSklabkRzZmsxRzFiYnEzRENxZ3JnNmhrd2cxM09VeHB1RHpaU3U4UWVweG1YR004U1IwX0duYzY3Tl9SamdvclNHOTUtT3JsRWN4YUhWa1NyUUI3MExCTUVfZDU0TXJQeVFYRVo0NGQxZGFsVXB3MlNadVlmUG5STE1tR001ck5qUU5PVHYwR1J1S1h0RDFyeFQxaXhFSnp1ZXJ3NFJVNHNSZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "5301",
-          "name": "multiple sclerosis",
-          "keyword": "multiple sclerosis"
         }
       ]
     },
@@ -321,7 +295,7 @@
       "id": "dd30a2508447",
       "title": "Google Plans To Release 64 Million Mosquitoes Infected With Wolbachia: Here's Why Scientists Are Not Alarme",
       "published": "2026-06-06T08:35:53+00:00",
-      "summary": "Google Plans To Release 64 Million Mosquitoes Infected With Wolbachia: Here's Why Scientists Are Not Alarme&nbsp;&nbsp;News18Debugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianDengue is no longer just a travel risk—what Google's mosquito plan could mean for your summer&nbsp;&nbsp;Phys.orgGoogle seeks permission to release millions of mosquitos in California, Florida&nbsp;&nbsp;MashableWhy Google is seeking approval to release millions",
+      "summary": "Google Plans To Release 64 Million Mosquitoes Infected With Wolbachia: Here's Why Scientists Are Not Alarme&nbsp;&nbsp;News18Debugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianGoogle seeks permission to release millions of mosquitos in California, Florida&nbsp;&nbsp;MashableGoogle mosquito army: Scientists say 'we must take action'&nbsp;&nbsp;DWGoogle wants to release 64 million bacteria-riddled mosquitoes across California and Florid",
       "sources": [
         {
           "name": "News18",
@@ -338,17 +312,36 @@
       ]
     },
     {
-      "id": "74f9a4bea51c",
-      "title": "How Congo's illegal gold trade is fueling the spread of a deadly, vaccine-resistant Ebola strain - Business Insider Africa",
-      "published": "2026-06-06T08:32:57+00:00",
-      "summary": "How Congo's illegal gold trade is fueling the spread of a deadly, vaccine-resistant Ebola strain&nbsp;&nbsp;Business Insider AfricaA disease of deforestation: how Ebola is linked to the smartphone in your pocket&nbsp;&nbsp;The GuardianGlobal hunger for minerals to power hi-tech economy driving spread of Ebola in the DRC&nbsp;&nbsp;MagzterReporter at epicenter of Ebola outbreak describes crisis&nbsp;&nbsp;YahooEbola Ground Zero: CNN’s Clarissa Ward on What It’s Like Inside the “Red Zone”&nbsp;&nb",
+      "id": "7f0e15335d23",
+      "title": "Studies flag rising threat of chronic kidney disease",
+      "published": "2026-06-06T08:30:00+00:00",
+      "summary": "Studies flag rising threat of chronic kidney disease&nbsp;&nbsp;EdexLiveChronic Kidney Disease to become leading cause of premature death by 2040: Studies&nbsp;&nbsp;The New Indian ExpressA Normal Kidney Test Could Still Signal Serious Risk&nbsp;&nbsp;SciTechDailyThe UWI’s Dr Lori-Ann Fisher Among Experts in Landmark Global Study on Chronic Kidney Disease&nbsp;&nbsp;SKNVibesUWI researcher contributes to major Lancet series highlighting global kidney disease crisis&nbsp;&nbsp;Dominica News Online",
       "sources": [
         {
-          "name": "Business Insider Africa",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMU1vRmdWTkJaUEJiWlNlYTl3d2FZajBkWDJqRlBxNl9WdlVyWUFpMEREV1A3amhCbkdTZVY1RnZaTGxWVm9MX01Eb0tzT1BlSm1HcFhnMW5OZ3lUckFSbXNqWmZpQTloNXluaHNhY3pHYnZSbEZjeHlOVFA1WGExRXdhNDNDdHU2N3JQZjhDSXNIcjJQVW9hbDRheFd5aEVDQ3B6cHFHUWtRQjczTHd5bjZSUWpBcVBKb01GeUx6cmpFZGtiZThFWHU3dDdGU1RucnROaG5Pcw?oc=5"
+          "name": "EdexLive",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWlJJRmpGalN3alA1SThvc3RlQXRzalpibUpDeWpuMlRhb1RmWjhGX1JSSWVnUmJFeG00S0hnVV9rbFZuXzh5b2xOdXZ6SjhCaEpkWktGcVJ0Q3ZsTnN6a3lqVTRuUERDS1pLb1BiUWFDSldWNVROYUlETGk4NElOQzJTN3loVTNNQXfSAZcBQVVfeXFMTkN5dDlBQmJPODNSdkIybWhuMkFqV0YtNGxuSzlDRVh1d1hYeG1vdElxMGxHUHdvN1loSVBCTFdpNXdCQ1lVX2RJd3c1NndSLWh5SUl5Q0dzSE45OG5aaXlqQUctcGRzeHdnM0VWa0RjS0cxMlAyS2FuUDl4dEozWkdYb1VSV0hEMVdKYkF0aFVYZkU5ZzdGaw?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5240",
+          "name": "kidney disease",
+          "keyword": "kidney disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5300",
+          "name": "chronic kidney disease",
+          "keyword": "chronic kidney disease"
+        }
+      ]
     },
     {
       "id": "2a70b87fc95a",
@@ -373,32 +366,6 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "2b25b7e2be10",
-      "title": "Measles Outbreak In Bangladesh Claims Five More Lives; Deaths Rise To 610",
-      "published": "2026-06-06T07:49:21+00:00",
-      "summary": "Measles Outbreak In Bangladesh Claims Five More Lives; Deaths Rise To 610&nbsp;&nbsp;NDTVFather incurs Tk 6 lakh in debt trying to save twins, loses both to measles&nbsp;&nbsp;The Daily StarMeasle outbreak: Death toll rises to 613 as 3 more die in 24hrs&nbsp;&nbsp;The Business Standard5 more children die from measles in 24 hours&nbsp;&nbsp;Views BangladeshMeasles outbreak and national preparedness&nbsp;&nbsp;newagebd.net",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSFhsRUpmUGZVV1prZDZSTnpCM2pjQ1JlbktXYS1uanJFN2plWmQ0MVhOYWRxN2VReFNOc2ZJa1RnNUZsVzVtby1pUEh1Y3YyLTBJUmR4OEhpaDVPMElhbmFZZzh5SGNhTkdQbTBtVTM4V3FQdGIwajNuNnB1UkJZbTdOdkpSdzIxTHJCYWhLLWotdlpjZHlRRE5lMjZQbFBya3FMbURxblVhWVI5d1HSAbYBQVVfeXFMUEpNX1p2enh3Y0haeWc0R0FmcVItN3Z3VTlsd1lNR2ZwUktvTE50NlBoWDlycUJGZlVIOFdtaEw2MVhFNWVoM2JJTXZZVktraFhUR0FEZVlwN1dkMVhOM25RdV9sN2xzZzVqN1BHM0VfN1dnei1MYlJIcjJRZl9iY2RZYVppNmVWSi1TaGpYUDBEV2s2QVRDY2JjY1B1TUxmNTlfZ0VJNDBSYUk3emQxSFlBUC1MdkE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4619",
-          "name": "measles",
-          "keyword": "measles"
         }
       ]
     },
@@ -537,30 +504,23 @@
       ]
     },
     {
-      "id": "69110e7dd96a",
-      "title": "Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'",
-      "published": "2026-06-05T20:00:00+00:00",
-      "summary": "Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'&nbsp;&nbsp;SpaceScientists Find Long-Sought Cosmic Wind Erupting From Supermassive Black Hole&nbsp;&nbsp;NDTVAstronomers just solved a 50-year-old mystery about the Milky Way’s black hole&nbsp;&nbsp;Scientific AmericanWind from Milky Way's supermassive black hole is finally discovered&nbsp;&nbsp;ReutersScientists have made a huge discovery at the enormous black hole at the centre of our Galaxy. ",
+      "id": "5ea093b0ef80",
+      "title": "Unprecedented Threat: Ebola Outbreak in Congo",
+      "published": "2026-06-05T19:46:14+00:00",
+      "summary": "Unprecedented Threat: Ebola Outbreak in Congo&nbsp;&nbsp;Devdiscourse5 things Dr. Sanjay Gupta wants you to know about Ebola&nbsp;&nbsp;CNNAfrica’s response to Ebola must be defined by Africa itself&nbsp;&nbsp;Financial TimesThe Race to Stop Ebola&nbsp;&nbsp;unicef usaComparing Ebola Outbreak Responses and Restoring USAID Data&nbsp;&nbsp;Think Global Health",
       "sources": [
         {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNODdTU3dSX0xrWWVTR29FdW1VS09WTXJZaGtMcTd5RDFWOHdNOVBoTG5BMWhwaVBkSC16LThkU3kzWndKVTByUlhyMDdVREhpbmlDYzhLdDZQTmlCSTV2cHVIQTlEMVV5SFBDY05IYUVqeENWWmREalp3V3diMDFOdnlhM2dRRXFvMFp0T1V1dkpLUkVvSUdqVWVnM0V5ZHREUm9FcFlEWVl1NkM2UTI5My00eXFISUNKdE1CdTFTaVlDMXhWOVJnSmRjRUx5UXZwT2I4ZUtwc08?oc=5"
+          "name": "Devdiscourse",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONjR1Wms2S1ZHOU52NzR6U1NyWmxhaXVtVnlFbHkyMWRTLTN0cFZtYkFXTy03X2ZOVU9laU4zcTd6bS1lSFpuRjg5UTFhV21BYVBpZXd2c0tRa1lfbzRHWWd4U1FXRVVTTHZsZ3l0NWdoRGJta1p3dC1FLW9TdHlweHpiaHc5Z0otUXZCTlByVDZUWjBWRXdHdlIybU_SAaIBQVVfeXFMUE9YN0hBTUFJYzNqekRHVDdicTNmeHhRcG1HbkctMDlXUXJqVnFDa0dxTmxHTUd0N3VNQ2tBRzlYcy0xbnBTU1JDTjBRVU4xbzcxbldEVXlyVkcyOGl2UFJyVWN0djEyNks0R21YYkZhTU05WG9HVzRrZFJnSzJzRElqemxLdFlJNGU4QURrS3RHV0JaMjZCQXBaOTdTdk9RSnRB?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "3dcad9f63e5f",
       "title": "Dihydropyridine Calcium-Channel Blockers Linked to Increased Kidney Risk in DKD - Docwire News",
       "published": "2026-06-05T16:10:12+00:00",
-      "summary": "Dihydropyridine Calcium-Channel Blockers Linked to Increased Kidney Risk in DKD&nbsp;&nbsp;Docwire NewsDihydropyridine CCBs associated with poorer kidney outcomes in type 2 diabetes, new study shows&nbsp;&nbsp;Medical DialoguesPopular Blood Pressure Meds Linked To Kidney Damage Risk In Type 2 Diabetes&nbsp;&nbsp;U.S. News & World ReportBlood Pressure Drug Linked to Worse Kidney Outcomes in T2D: ERA 2026&nbsp;&nbsp;EMJALERT: Popular Blood Pressure Drug May Cause Kidney Disease&nbsp;&nbsp;Black Do",
+      "summary": "Dihydropyridine Calcium-Channel Blockers Linked to Increased Kidney Risk in DKD&nbsp;&nbsp;Docwire NewsDihydropyridine CCBs associated with poorer kidney outcomes in type 2 diabetes, new study shows&nbsp;&nbsp;Medical DialoguesDiabetes: Hypertension drugs may speed up kidney disease&nbsp;&nbsp;Medical News TodayPopular Blood Pressure Meds Linked To Kidney Damage Risk In Type 2 Diabetes&nbsp;&nbsp;U.S. News & World ReportBlood Pressure Drug Linked to Worse Kidney Outcomes in T2D: ERA 2026&nbsp;&n",
       "sources": [
         {
           "name": "Docwire News",
@@ -591,6 +551,12 @@
           "disease_id": "5240",
           "name": "kidney disease",
           "keyword": "kidney disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "1200_1134_15512_5080_100078",
+          "name": "hypertension",
+          "keyword": "hypertension"
         },
         {
           "type": "indication",
@@ -642,7 +608,7 @@
       "id": "a770a0f38aae",
       "title": "From market failure to epidemic preparedness: the race for a Bundibugyo Ebola vaccine - Gavi, the Vaccine Alliance",
       "published": "2026-06-05T15:43:40+00:00",
-      "summary": "From market failure to epidemic preparedness: the race for a Bundibugyo Ebola vaccine&nbsp;&nbsp;Gavi, the Vaccine AllianceWhat Bundibugyo Ebola vaccines and treatments are under development&nbsp;&nbsp;The HinduGavi commits US$ 50 million to Bundibugyo Ebolavirus vaccines and outbreak response&nbsp;&nbsp;Gavi, the Vaccine AllianceCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPISerum Institute And Oxford Partner For Bundibugyo Ebola Vaccine Clinical Trials&nbsp;&nbs",
+      "summary": "From market failure to epidemic preparedness: the race for a Bundibugyo Ebola vaccine&nbsp;&nbsp;Gavi, the Vaccine AllianceWhat Bundibugyo Ebola vaccines and treatments are under development&nbsp;&nbsp;The HinduCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPISerum Institute And Oxford Partner For Bundibugyo Ebola Vaccine Clinical Trials&nbsp;&nbsp;NDTVWhat are the Ebola vaccines under research, and when will they be ready?&nbsp;&nbsp;Al Jazeera",
       "sources": [
         {
           "name": "Gavi, the Vaccine Alliance",
@@ -652,10 +618,23 @@
       "matched_keywords": []
     },
     {
+      "id": "a331105004d8",
+      "title": "New 4-winged dinosaur discovered in China sheds light on the origins of flight - The Indian Express",
+      "published": "2026-06-05T15:09:27+00:00",
+      "summary": "New 4-winged dinosaur discovered in China sheds light on the origins of flight&nbsp;&nbsp;The Indian ExpressRare fossil belonged to a gliding creature that hunted birds&nbsp;&nbsp;CNNVelociraptor’s cousin flew like a flying squirrel&nbsp;&nbsp;Popular ScienceCarnegie museum paleontologist co-leads discovery of a new dinosaur species in China&nbsp;&nbsp;Pittsburgh Post-GazetteNew Microraptorine Dinosaur Discovered in China&nbsp;&nbsp;Sci.News",
+      "sources": [
+        {
+          "name": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNGlyMDJtX3NJS0hnb2h5bmhRbkctdzhoX1h3dk9DTUlTeDdwS0t1VnduZXVyX3NFR0VwQ2xCMDNTMFJseEYySExianRoeGMzQWxZY3VzUHBoSEoyeTBUSGNOMXFidm4wdDhvdS1vUEdhbk1Ia1N6Z1AxU1BfcHBqdWVJRms0ZU5rSGpJMUJ1NzJhczdrbWE2a1Exck5LajFiWEHSAagBQVVfeXFMUFlIbFZXdnFaZHNoS3dfd3dpWGxsOGptaVJ0cFNZNHgyNXB6eFBfc0R1ZzhKZFBGaXEtUlFIQ1hLcHdsOGwxVjVXa0xhZVhHZkk1LTI3a2Y1X3oyZXhjUC0tTDNaTkRCOUNEX1UxMzJEWklCNHRiVmQ5RG5COEZ6UTJ3VUNXUHY5VDM1c1RrNXpmZHdJYWxWWE1GdVFPV2tRWmZDY3lVTUl6?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b99d95e8dd54",
       "title": "Struggling With PMOS? Nutritionist Suggests 4 Everyday Vegetables To Manage Hormonal Imbalance",
       "published": "2026-06-05T14:52:47+00:00",
-      "summary": "Struggling With PMOS? Nutritionist Suggests 4 Everyday Vegetables To Manage Hormonal Imbalance&nbsp;&nbsp;NDTVYou’ve been lied to about PCOS. Its new name tries to correct that&nbsp;&nbsp;Scientific AmericanMedicines, and not just renaming, heals disease&nbsp;&nbsp;Hindustan TimesFrom $13,000 to $20 million: how a PCOS diagnosis and a pair of scissors built Xali Organics&nbsp;&nbsp;Business News AustraliaPolycystic Ovary Syndrome (PCOS) officially renamed Polyendocrine Metabolic Ovarian Syndrome",
+      "summary": "Struggling With PMOS? Nutritionist Suggests 4 Everyday Vegetables To Manage Hormonal Imbalance&nbsp;&nbsp;NDTVYou’ve been lied to about PCOS. Its new name tries to correct that&nbsp;&nbsp;Scientific AmericanThe FemTech industry’s approach to PMOS&nbsp;&nbsp;The HinduMedicines, and not just renaming, heals disease&nbsp;&nbsp;Hindustan TimesPCOS is now PMOS. What does this mean for the condition?&nbsp;&nbsp;Daily Bruin",
       "sources": [
         {
           "name": "NDTV",
@@ -668,18 +647,6 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "10686",
-          "name": "N syndrome",
-          "keyword": "n syndrome"
-        },
-        {
-          "type": "indication",
-          "disease_id": "8487",
-          "name": "polycystic ovary syndrome",
-          "keyword": "polycystic ovary syndrome"
         }
       ]
     },
@@ -687,7 +654,7 @@
       "id": "edfcf69daecc",
       "title": "Sahara Meteorite May Be Fragment of a Lost Moon-Sized World, Study Suggests - Gadgets 360",
       "published": "2026-06-05T14:30:46+00:00",
-      "summary": "Sahara Meteorite May Be Fragment of a Lost Moon-Sized World, Study Suggests&nbsp;&nbsp;Gadgets 360Rare meteorite provides evidence of giant early planet&nbsp;&nbsp;University of Colorado BoulderRare Sahara meteorite may reveal a lost planet from early solar system&nbsp;&nbsp;The Indian ExpressRare Meteorite Hints at Ancient Planetary Collision in Our Solar System&nbsp;&nbsp;Nautilus | ScienceRare Meteorite May Be Evidence of a Lost Planet That Never Fully Formed&nbsp;&nbsp;Gizmodo",
+      "summary": "Sahara Meteorite May Be Fragment of a Lost Moon-Sized World, Study Suggests&nbsp;&nbsp;Gadgets 360Rare meteorite provides evidence of giant early planet&nbsp;&nbsp;University of Colorado BoulderFragment of a lost planet from the Solar System discovered in the sands of the Sahara&nbsp;&nbsp;Universe Space TechRare Meteorite Hints at Ancient Planetary Collision in Our Solar System&nbsp;&nbsp;Nautilus | ScienceRare meteorite hints at giant early planet&nbsp;&nbsp;EarthSky",
       "sources": [
         {
           "name": "Gadgets 360",
@@ -704,14 +671,14 @@
       ]
     },
     {
-      "id": "38549cab8e6f",
-      "title": "What the Ebola outbreak demands from global leaders in 2026 - Gavi, the Vaccine Alliance",
-      "published": "2026-06-05T13:19:22+00:00",
-      "summary": "What the Ebola outbreak demands from global leaders in 2026&nbsp;&nbsp;Gavi, the Vaccine Alliance5 things Dr. Sanjay Gupta wants you to know about Ebola&nbsp;&nbsp;CNNAfrica’s response to Ebola must be defined by Africa itself&nbsp;&nbsp;Financial TimesThe Race to Stop Ebola&nbsp;&nbsp;unicef usaComparing Ebola Outbreak Responses and Restoring USAID Data&nbsp;&nbsp;Think Global Health",
+      "id": "80fcda6a561c",
+      "title": "The truth about collagen supplements, according to dermatologists - Vogue Adria",
+      "published": "2026-06-05T13:30:36+00:00",
+      "summary": "The truth about collagen supplements, according to dermatologists&nbsp;&nbsp;Vogue AdriaDoes Collagen Work? A Massive Review Reveals Its Impact On Joint Pain And Skin Health&nbsp;&nbsp;NDTVThe Best Collagen Supplements of 2026&nbsp;&nbsp;Rolling StoneResearch finds collagen may help skin, joints but not athletic performance&nbsp;&nbsp;The Eastleigh VoiceCollagen vs. Protein Powder for Skin — Here’s Which One Your Routine Is Actually Missing&nbsp;&nbsp;Yahoo",
       "sources": [
         {
-          "name": "Gavi, the Vaccine Alliance",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV19TN0dkZ2tYaEhvV1JQU3FVbzJoOEZKcDhvTFE3QXVpakZ2MzlELTZpVkltanBXMzdlYmU0dXFqQ09QUXZJZnRkRTd5TVA1bDFjVnBNSXRBdzdSOGxyWldHdDZDSUwxZ0NMWTlEOTBGUG93VTRxbFJXbWNQNU9GbDVUMFBkb29G?oc=5"
+          "name": "Vogue Adria",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XVHBLT090TFZpbk1QUmNyTG5NSzF2Tko2S09TYnc0R1EwaE4tbTVXaEhPamFUSFhTVjV4ckh5RElSZUJmYjV1Ty1LZF94eXZHZ2tMMERNNA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -733,58 +700,6 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "d735da3848f8",
-      "title": "'Must be STOPPED': Why Google's plans to release 64 million mosquitoes in America has citizens worried - The Times of India",
-      "published": "2026-06-05T12:55:00+00:00",
-      "summary": "'Must be STOPPED': Why Google's plans to release 64 million mosquitoes in America has citizens worried&nbsp;&nbsp;The Times of IndiaDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianDengue is no longer just a travel risk—what Google's mosquito plan could mean for your summer&nbsp;&nbsp;Phys.orgGoogle seeks permission to release millions of mosquitos in California, Florida&nbsp;&nbsp;MashableWhy Google is seeking approval to release m",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQM1plbTZ3YkNMbG16eXdIS3hRZEVWV3p4YTJ0d2lCVmxjR3MxcU1ETEVib0g4WTM4MTVTdHlCbTVhTW9RbDhfUEI2N0Q3Vk9HQXJZRkg1eDNIUThURUJ2U1ZuaVFMbHhlLVNzVlVZel9tR3hhanNMMG5rdUJDaHZuU2hFTmd5bjVlMHZqbjlKRlNBTVNKQlRCNDdVOHdTSmZqOVUybUdGdTBEdktYQnE1TXVqNXQtTEVkclFGX1JoOVZnX1VRVkQxZ1ctYWJ6alB2Z0dtMXdQUGpwYURlekZYd1pYMkJybjdpYUpZVWdRYk5SczFQeVhQVWpMUXItakFwVjZWWWxGQdIBjAJBVV95cUxQODRYY3VXNWVTWWNqOF84S3NhSkphSVNMNkNaeFZzcUN3bE43UWJpeTZDZ0M2a3Y3STczdlh6bU5PamlOaFBXWkY0bE1qQkxON0dxb0lIOHhlVElpQXpmX3JjdFVqM3Z3OXM5ZldrVDdTbnFfZzFpNlJSRmc0TkZYekN0RXJwaFBlc2dSbndWY1RVaUtaSW1wbFY0bTgyd205eXRpRzU3OVp5d1I4UUE3dVdRUzFkNXJIVW1XUXAwSHpDX0JKZzVOUUIzWWRMdGhvNlFuY1g4Zjlzb0JCWjBvTkdtUkU3VXhQMktJd3V6VTVyUUpyejZOWEN3MlZuWDRaYTlrRVZZdGI5WllW?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "f67eabf11d8c",
-      "title": "Chronic Kidney Disease to become leading cause of premature death by 2040: Studies - The New Indian Express",
-      "published": "2026-06-05T12:40:18+00:00",
-      "summary": "Chronic Kidney Disease to become leading cause of premature death by 2040: Studies&nbsp;&nbsp;The New Indian ExpressThe UWI’s Dr Lori-Ann Fisher Among Experts in Landmark Global Study on Chronic Kidney Disease&nbsp;&nbsp;SKNVibesUWI researcher contributes to major Lancet series highlighting global kidney disease crisis&nbsp;&nbsp;Dominica News OnlineWomen with kidney disease are undertested, undertreated and left behind by decades of male-dominated research&nbsp;&nbsp;Medical XpressA Normal Kidn",
-      "sources": [
-        {
-          "name": "The New Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZWhJMGtwalNpWldTOWNkVUVqNW5DQUxnNTA3NHh4cjE1aXY0bXlKMnBqOTRVdmlmNXRqbmhVRXNhYUZGOG5OcUNPUkw3ZlZsY0tuYXNIWmgtTl93T05WZS1GTnVGX2p6RTVteERLSVRJTUtxcjNKeDA1WlIwNjdXRzBxWUdHRy1SUXo0bFRRSkJvaDNKVEZ4eEdfZm5MNW9Sb2stZ1I5UnlRUU05MDBWcVlkbG02cmRwcjdoRnpEX0Z5Z1VFWl9fT1MyQ1J5d1gyTTg1bXpvVlBlZ9IB5wFBVV95cUxOTmNkNkVzLWpZUW1RaHRxNnJzM1JvbWM5NHlQREZzaUktdjQ4TXZBRkhHNm9tLTd6ZURuNkpQaTdBWVhTVHBCVkdkR0RKMlNzbjdkbW9rSktyM2FjTkdyWmUxWXNkUjZQd0lNMzZrWHNBd19KWngtdmpTQnpCeUtQU25tRy1adEF6YnNoSW5Yc0NLUlhzWnZ4eWp3a1g3OEJfQk5kekVRRXRkczZnSUdqbjh0QWlFNzdrU1hKTmxqZGhtVE9HdGZSSXVrekJGdGlWT1V0VHlrUmRFYlVSaUVYTGszT1VNY3c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5240",
-          "name": "kidney disease",
-          "keyword": "kidney disease"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5300",
-          "name": "chronic kidney disease",
-          "keyword": "chronic kidney disease"
         }
       ]
     },
@@ -824,123 +739,11 @@
       "id": "c9332ea52bfc",
       "title": "Suspected Ebola Case Detected in Jaipur, Health Department on Alert - Punjab Newsline",
       "published": "2026-06-05T12:03:48+00:00",
-      "summary": "Suspected Ebola Case Detected in Jaipur, Health Department on Alert&nbsp;&nbsp;Punjab NewslineUgandan woman isolated in city, Ebola suspected&nbsp;&nbsp;The Times of IndiaEbola scare: Surveillance, preparations intensified at Pune airport&nbsp;&nbsp;Hindustan TimesEbola outbreak explained: How the deadly virus spreads and what risk India faces&nbsp;&nbsp;Moneycontrol.com1st suspected Ebola case reported in Rajasthan | Infection can only be confirmed after reports | Inshorts&nbsp;&nbsp;Inshorts",
+      "summary": "Suspected Ebola Case Detected in Jaipur, Health Department on Alert&nbsp;&nbsp;Punjab NewslineJaipur: Ugandan Tourist with Ebola-Like Symptoms Tests Negative&nbsp;&nbsp;Deccan ChronicleUgandan woman isolated in city, Ebola suspected&nbsp;&nbsp;The Times of IndiaEbola scare: Surveillance, preparations intensified at Pune airport&nbsp;&nbsp;Hindustan TimesKarnataka puts hospitals on alert amid Ebola outbreak in Africa&nbsp;&nbsp;Medical Buyer",
       "sources": [
         {
           "name": "Punjab Newsline",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRGgyRXBmOVo5Y25GRVhhU29JMEgzWl9hZ1B0VElMSEFycDREREpOc2ctWnpvLVJCNElCMjFfWlZNUXZUX2NpOUl5ZVhGZkJXdlpLRU9xU0N0N1NnV191N00tbHVNUlVocVd5RnlkNFp1RlQ4ZTBuczBBdW5mSE1FdmxGblBRclhVVy05X25QSlM0ZlFEdFFETWZYRHlOSDQxSExsUA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "ee165793fbac",
-      "title": "Unsafe food causes 1.52 million deaths globally, children under five most at risk, reveals study",
-      "published": "2026-06-05T11:44:05+00:00",
-      "summary": "Unsafe food causes 1.52 million deaths globally, children under five most at risk, reveals study&nbsp;&nbsp;FirstpostUnsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk&nbsp;&nbsp;World Health Organization (WHO)World Food Safety Day 2026, Date, Theme, Food Safety in India&nbsp;&nbsp;Vajiram & RaviWHO Report Highlights Deadly Global Impact of Foodborne Diseases on Children&nbsp;&nbsp;Medical DialoguesShehbaz calls for safe, resilient food syste",
-      "sources": [
-        {
-          "name": "Firstpost",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUTlkdWQzZmp2US1sOUNxamhiRnQwNVVyaTQ3YkxWUjJhWkNSaVl6MzEyckF5NUc3VDV1WWhjNmpjMkY5UmpRbFNvbjA1VzZONnFyVWVkV1B5WXBsX3BnOXY2U3UtTmJ2N1Y5MGhrVFRTOGZpQVlORVpKSkpWMDg2eWZwWHBRUkFUYUZ2MDlCMGtyS1N5NE1ySWpBUnY5cFc0cHBvTElTbXNIdzg1U2ZLZDhSb2ZSLU1qenBmaDVfRXZoN05FVVVSMzRIWnRXMk1hSm1fUjVTWXg5RmxO0gHiAUFVX3lxTE02aWh3RkNjMmtBYXUtaTVKZkUyaFVsT2lLSGM0U0hkYmlURVAwSU5HOUpjTEpEOEVQUUxTdDdRWWRNN1hLUXk0LXM3N1FHbTBVLXZFcmhmcnFhWU5ubUJOZ3BaZkp4d0s5a0gweVB4Q2ZpQWVrTXlmQk9RVm82MHU1cERsV3VXSDk2Z0tRa0s2Vm9ZMHNRRzQ3VUVDWTd3UHp5eTljdVJodVJLd1lKY0k1c0ctcDdNdnlKTnVYeUlnYmFlSGM0QU01N29lejBQZzUtSUNHcHlrTkZqdkRlN2xDR1E?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "1cbbfb6d3741",
-      "title": "'Soul is in brain, not heart': Why AIs are not machines and what makes them better than us as species",
-      "published": "2026-06-05T11:22:00+00:00",
-      "summary": "'Soul is in brain, not heart': Why AIs are not machines and what makes them better than us as species&nbsp;&nbsp;WION",
-      "sources": [
-        {
-          "name": "WION",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU1ZER1AyN2M3cjhwdTNDX1NuRVNLQWhhRHc0d0czeEQ5SlRHUWZFTThuZDZPU3RVNWJ4ZGtKNVljaWVWcG5xOXpsMUpDVW81UmRJakRVOVYzSG5kcFo2a1o0U01yVjUtbDhWTkZGa1NxRU1XV2F1WWZxN2ljdVRuRG9DS1RmSXlaanNjSlJuQWJuTk9zeWI1YU1WVktCa3ItRV9ydnVQSTl4UU9FUlN5VUl3LU5kejZXc1BMeEJWS3hsTXNMclgwSl91WkVfT3pBdzhhNmVDWnk1QWJfZVQ00gHkAUFVX3lxTE9YVlQtV3U2bEZqREY5TmVTc2pNWTRBSnZTSnhWQXRDRFZjU0Jna19Qb0NZd2JjQU5UcU83MXlUWjZtdnk3NFNWYXluSmE2Um8yTmF6RjBsZnFHNHBzT3FoTVFRalhzQjhYNkRwSUNNNU1rd2JKNnh0Y2xucTVGbjRWa2FsdjhEcDJzQlQxdk9xa2ozVHBlR2x2S2xYa0FQdEJMNkJlZk5UR25Ta0pqc0J4ZENTdmxXUFB2QlUzR0tlZm5SZHpaRnNKTHd0Z2hIbnppYnA4dTZMcVpVVkkyVjdTalFTZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cb175858755e",
-      "title": "Pizza, soda, breakfast cereal increase the risk of dementia by 58%, says US study",
-      "published": "2026-06-05T08:34:27+00:00",
-      "summary": "Pizza, soda, breakfast cereal increase the risk of dementia by 58%, says US study&nbsp;&nbsp;ThePrintAdding to the List of Dementia Risks: a Diet High in Ultraprocessed Foods&nbsp;&nbsp;WSJLove packaged snacks? New study says they could raise your Dementia risk by nearly 60%&nbsp;&nbsp;The Times of IndiaHigher ultra-processed food intake tied to increased MS risk: Study&nbsp;&nbsp;Multiple Sclerosis News TodayCrisps and ham sandwiches may raise dementia risk&nbsp;&nbsp;Female First",
-      "sources": [
-        {
-          "name": "ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4za0JhNGhfOG5wblhkLS02RFh1RGpZb2hhNWJYYnFRZGNwTDZpemd6WUdrVUdzd0dpaTU1dGNlZl9hbXZpUktmaFY1bWlIRUdvYTE2NUFwaUc5Rm1LQ2dZQ3dScGRLRG9FTlQzZjJwdDFELUdrYTMtMG930gF_QVVfeXFMUDJXdHpQdnhMZG05TTJ1dHJtYTBBMzBxWDE4UTZoaTUtSHdRUlo5NDN5a2xaUEY5VGFHZG93VkFsTERkekl2SlUzeEpqMkJRRXRQSW5KSlZqaG9qMkF5dHd4S2Yza04yUnFkc0Q5STVUMVVIUW5RNGNqSWtYWFVJYw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "5301",
-          "name": "multiple sclerosis",
-          "keyword": "multiple sclerosis"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic_dementia",
-          "name": "dementia",
-          "keyword": "dementia"
-        }
-      ]
-    },
-    {
-      "id": "447394eddc27",
-      "title": "Beyond Weight Loss: The Musculoskeletal Effects of GLP-1 Therapies",
-      "published": "2026-06-05T06:35:04+00:00",
-      "summary": "Beyond Weight Loss: The Musculoskeletal Effects of GLP-1 Therapies&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMWpfdHNWcWNYUUd4bTV3eDd1STlVSHY3NUJrbEpoWU1uMXBUSXJsUFl1a2IxalJSczBTUmlVdkRWTjE3OGpfeG9zRWhmOElyemlPVGhQLUdlMVNxc1VGYlUxOGp3ZU45Tmh1MVFTS2VfTG1QbE1VSUxfaFJiZlFlR29SbHdWMnI1emZJYVdDQmk1eXhDS0dXdDRBTUdaWXFRY0lJamJGaUhScnlWYk96cFhTMHRvdjhiNDZxeG1HaFVZclFTNlVfSQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0df0f10a4174",
-      "title": "Smartwatch Alerts Helping Detect Hidden Heart Rhythm Disorders, Say CARE Hospitals Doctors - BW Healthcare",
-      "published": "2026-06-05T04:53:54+00:00",
-      "summary": "Smartwatch Alerts Helping Detect Hidden Heart Rhythm Disorders, Say CARE Hospitals Doctors&nbsp;&nbsp;BW HealthcareMillions live with undiagnosed heart rhythm disorders – World Heart Rhythm Week 2026 calls for urgent action&nbsp;&nbsp;News-MedicalGrowing number of patients diagnosed with disorders after receiving abnormal alerts&nbsp;&nbsp;metroindia.netYour Smartwatch May Know Something About Your Heart Before You Do, Says Care Doctor.&nbsp;&nbsp;TRIPURA STAR NEWSSmartwatches Detect Heart Issue",
-      "sources": [
-        {
-          "name": "BW Healthcare",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOazNKaGhaQ05vMEUtUzFZRW1nazRqc3FQanhNYTRjWWlSVy1SOW5UQ2I0aU5EWG5XbldCclh1R0VyUFR0Q2lMTlVwdUZEMGdlWG96V2xESGlfd3VPSUF6Ul9zY3JJRC11bGJsd1RMWXBEbGV1NUFwYzlDckItbU9YNVFSVngwMW10RE9ucllWMXBpSjhZaHFkWTRnQmZzeS0tRG1sLVdPS1hJMWtlcnNjclExWHRjMFUzMDdOWUc1MHBlVzlSVHJOWERqTDBiQXlZWGl1UQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "8383",
-          "name": "rheumatoid arthritis",
-          "keyword": "RA"
-        }
-      ]
-    },
-    {
-      "id": "604385b7852f",
-      "title": "Fathers' health may shape children's future obesity ris",
-      "published": "2026-06-05T02:32:00+00:00",
-      "summary": "Fathers' health may shape children's future obesity ris&nbsp;&nbsp;News-MedicalDad bod hides a sperm health risk. Fathers can raise children’s obesity risk, study finds&nbsp;&nbsp;ThePrintObesity linked to sperm health&nbsp;&nbsp;Taipei TimesFathers’ health before conception may shape childhood obesity risk&nbsp;&nbsp;Tech ExploristThe ‘dad bod’ dilemma&nbsp;&nbsp;UC Irvine News",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcGxQV1piVHVlbUdWTEhHMDNTRDJFcDhXaTZrUnctWkNFZ0hkOTFYdUNINk5wMDVfbGpWcnJJZjlMdGdLUnh3SGQzZkpzRktvZ3RBR3RGVDd4RDlhaUpEMnVlNzlzcXZTWlJyRjJSZ1hKNDlCWW0xQm9GQjE5dzM3YzdVN2ZDWjNXT3lDc1FEYzBBQ3g4N2o5VFdvTWZWNnI1dUNn?oc=5"
         }
       ],
       "matched_keywords": []
