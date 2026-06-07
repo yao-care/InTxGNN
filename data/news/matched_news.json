@@ -1,30 +1,49 @@
 {
-  "last_updated": "2026-06-06T18:59:33.801167+00:00",
-  "total_count": 35,
-  "matched_count": 28,
+  "last_updated": "2026-06-07T02:04:43.714370+00:00",
+  "total_count": 42,
+  "matched_count": 30,
   "news": [
     {
-      "id": "132cc3b68779",
-      "title": "New study casts doubt on reliability of mental health diagnosis interviews - The Guardian",
-      "published": "2026-06-06T17:20:00+00:00",
-      "summary": "New study casts doubt on reliability of mental health diagnosis interviews&nbsp;&nbsp;The GuardianDiagnostic Interviews May Not Be Reliable for Behavioral Health Diagnoses&nbsp;&nbsp;Endocrinology AdvisorWidely used ‘gold standard’ for identifying mental health conditions not as reliable as previously believed, new study finds&nbsp;&nbsp;Faculty of Health Sciences - McMaster University",
+      "id": "c992a69aeb37",
+      "title": "Drug nearly doubles survival in advanced pancreatic cancer—how daraxonrasib overcame an 'undruggable' disease - Medical Xpress",
+      "published": "2026-06-06T22:30:01+00:00",
+      "summary": "Drug nearly doubles survival in advanced pancreatic cancer—how daraxonrasib overcame an 'undruggable' disease&nbsp;&nbsp;Medical XpressRemoving ‘invisibility cloaks’ and safely skipping chemo: new weapons in war on cancer shared at US conference&nbsp;&nbsp;The GuardianExclusive: Biggest Pancreatic Cancer Breakthrough In 50 Years, Says Indian Doctor, Co-Author Of Global Clinical Trial&nbsp;&nbsp;NDTVA new pancreatic cancer drug is changing survival rates for one of the deadliest cancers&nbsp;&nbs",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUNPalQzOVltMmZ0S3JVWkREVUJ5UmVlM0xvX1lJLUliY1lwT3VDN0xjaktUZnFxR2lqNGRicE5MOXJOd0JhVmJzbHI0Q0JIeEdaaFhDRlBzd21la3RBMzNCdFFfdjNXek1ra3dRQ21kNVBXb2tjNjI2OVpvNkhOREVsd0pQNE5qdThZXzIyaXNUYXVlbmVyMml5WWY4Zw?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFFDWmZVSUFPeUE1LWwzSWRwQUpiU1MzdFdld2tKeHZBRXhqOGZ3TVNJX1Y1aXh0d2d5cFYxcVdTVGV1aWtqaXRjS2NIZ1NrYWVmMTVoM1RZVWZPTi0xZGxrY3dMSHkweDczOXFzRTRnWXl4elpQT1ExNEVXSkRnYjlLNk5Pa3RvY3JGZQ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
     },
     {
-      "id": "6fcea26963d9",
-      "title": "Nearly 500 confirmed cases in Central Africa Ebola outbreak: WHO - The Hindu",
-      "published": "2026-06-06T17:13:42+00:00",
-      "summary": "Nearly 500 confirmed cases in Central Africa Ebola outbreak: WHO&nbsp;&nbsp;The HinduRadio Program Aims To Counter Ebola Rumours During Congo Bundibugyo Outbreak&nbsp;&nbsp;NDTVAfrica CDC and WHO launch joint continental Ebola response plan&nbsp;&nbsp;World Health Organization (WHO)Faith, fear and trust: Inside DR Congo’s fight against Ebola&nbsp;&nbsp;UN NewsWHO announces $518 million six-month plan to fight Ebola&nbsp;&nbsp;ETHealthworld.com",
+      "id": "972cf35e5235",
+      "title": "Octopuses can use mirrors to locate food, says study - The Shillong Times",
+      "published": "2026-06-06T22:03:49+00:00",
+      "summary": "Octopuses can use mirrors to locate food, says study&nbsp;&nbsp;The Shillong TimesOctopuses learn to use mirrors to find prey and navigate hidden spaces; scientists reveal&nbsp;&nbsp;The Times of IndiaOctopuses use mirrors to find food they cannot see&nbsp;&nbsp;ScienceDailyOctopuses can use mirrors to locate hidden prey&nbsp;&nbsp;Earth.comStudy Shows Octopuses’ Impressive Ability to Navigate Space&nbsp;&nbsp;Dartmouth",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjFrQ2QxT1dpdHhzblZKckk0YVpyRDJrTk94Qk10WUFjUHN5Y3gweXdablNQOHo4aGpqT25renpLRkplQkJoMVNOMzU3U0FXekJ5ZmV4bWE5Q0VLNl9FeFZyMk9mTjh3b1B1cDJIb3dfUHI5SzFWMTkzWGVIV3c3WlVlMTJUSVU1T1NRU1hIMDRNbTlZbVRsQm1MVTRzNWhhaERVVUxjeWdqTnpMSmFxTXlwT2dnTXJNNnVrR0RzWGpjSDR6alHSAcwBQVVfeXFMTTNWRDhsQUxYaWhwTEZpS1pta19pMEQzZUpfbzRua1JRN2RWb09BdGdRbXZFd1hfRmlTdWdaZ2xqMmlhcnlZelprZGhLM00wWEtvRXVFcWtNS21CM2VYSWJyYTRRUHc4eTBpeTJ5Y1c5QjR5QVMxSDh4R05CR091NXYyaUpqV2dSNnVFbWFSWTJkdERyZUFEU2N2aW1yN2N6UlVJaTRlWWVKYzNOSmxpSzNBWnhXR3U2S3JGS1V4RUs5MjRIY05xQmEwQlI5?oc=5"
+          "name": "The Shillong Times",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcHVfUDZvNERvYTF0S2YxRTJPUG0zZ204Z3NtTElTRFo4TVdndGVCSW90T3ZIanJNR1ZpQXB4enZmSVZTeGxSTUpxZHJCa3p4R3UyUjhsWThsN1ZTYVdtN182WkJzUnNLY1YzeGROU0hRcEJHZFVTVXdxOXBJWEJDUUp1UExyR0l4ejk2N0pjc0RCYklXdWxZ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -37,9 +56,42 @@
       ]
     },
     {
+      "id": "cb2167109533",
+      "title": "World Food Safety Day 2026, Theme, History and Significance",
+      "published": "2026-06-06T18:05:00+00:00",
+      "summary": "World Food Safety Day 2026, Theme, History and Significance&nbsp;&nbsp;BankersaddaUnsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk&nbsp;&nbsp;World Health Organization (WHO)World Food Safety Day 2026, Date, Theme, Food Safety in India&nbsp;&nbsp;Vajiram & RaviWHO Report Highlights Deadly Global Impact of Foodborne Diseases on Children&nbsp;&nbsp;Medical DialoguesShehbaz calls for safe, resilient food system&nbsp;&nbsp;The Express Tribune",
+      "sources": [
+        {
+          "name": "Bankersadda",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53dVBBa3psNDQwNXNpWWxXRGUwUEpKQVIzZUV6ZkVBLTVJS0JMVWVlakljanh3d21KU2NsUEVCNXMyYW93dWMzcmVFcE9xSHhoZkxFR2lRZ2RFZ3hLTnNVUHQ4cnJIZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03384",
+          "keyword": "fica",
+          "name": "Fica"
+        }
+      ]
+    },
+    {
+      "id": "132cc3b68779",
+      "title": "New study casts doubt on reliability of mental health diagnosis interviews - The Guardian",
+      "published": "2026-06-06T17:20:00+00:00",
+      "summary": "New study casts doubt on reliability of mental health diagnosis interviews&nbsp;&nbsp;The GuardianMental health diagnostic interviews are less consistent than thought&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUNPalQzOVltMmZ0S3JVWkREVUJ5UmVlM0xvX1lJLUliY1lwT3VDN0xjaktUZnFxR2lqNGRicE5MOXJOd0JhVmJzbHI0Q0JIeEdaaFhDRlBzd21la3RBMzNCdFFfdjNXek1ra3dRQ21kNVBXb2tjNjI2OVpvNkhOREVsd0pQNE5qdThZXzIyaXNUYXVlbmVyMml5WWY4Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "17088626e405",
       "title": "Weekly Health Update | Ebola Spreads, Cholera Surges and New Gains Against Malaria in Africa - Ecofin Agency",
-      "published": "2026-06-06T16:31:30+00:00",
+      "published": "2026-06-06T17:17:52+00:00",
       "summary": "Weekly Health Update | Ebola Spreads, Cholera Surges and New Gains Against Malaria in Africa&nbsp;&nbsp;Ecofin AgencyJUSTICE MALALA: The world is turning its back on Africa, again&nbsp;&nbsp;Financial MailAfrica news roundup: 29 May to 4 June&nbsp;&nbsp;Research Professional News",
       "sources": [
         {
@@ -63,50 +115,23 @@
       ]
     },
     {
-      "id": "f8b8e29a53ef",
-      "title": "Sitting for 8 hours a day? Here's what one hour of exercise can, and can't fix - The Times of India",
-      "published": "2026-06-06T16:30:00+00:00",
-      "summary": "Sitting for 8 hours a day? Here's what one hour of exercise can, and can't fix&nbsp;&nbsp;The Times of IndiaHow 5 minutes of movement can change your life : The Sunday Story&nbsp;&nbsp;NPRSitting Still in a Moving World&nbsp;&nbsp;Global New Light Of MyanmarDaily activity pays off in health and energy&nbsp;&nbsp;The Iola RegisterTips To Combat Health Risks Of Sitting All Day&nbsp;&nbsp;NDTV",
+      "id": "a9db72a24377",
+      "title": "Nearly 500 confirmed cases in Central Africa Ebola outbreak: WHO - The Hindu",
+      "published": "2026-06-06T17:13:42+00:00",
+      "summary": "Nearly 500 confirmed cases in Central Africa Ebola outbreak: WHO&nbsp;&nbsp;The Hindu'They die as they arrive': Ebola is spreading in eastern DRC&nbsp;&nbsp;news.cgtn.comFaith, fear and trust: Inside DR Congo’s fight against Ebola&nbsp;&nbsp;UN NewsAfrica CDC and WHO launch joint continental Ebola response plan&nbsp;&nbsp;World Health Organization (WHO)Ebola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc2k4QnNiYmNocWM3ZVZ2M2E1VlEtR0FEZnZfZWwxN0tRUy11SUg3V0RkcXJYT0RDc0ZiaWdSZEpueXJZbkpMeTk3U3h3eEw0bXIzWVZvel9VdTA4dWVfcGtrT2gxTFVJNWVfR2M5akk4NWNWTk1xR2tyOEZhNm5FMXpLTGdxOWhtNmxaUmZYNFBsYWJRSS04N0tpb1BPOU05WVpNd3VNc1BuMHVzSE5TdkRzYXlMell6QnNWdkIxcmwyM1pMczdfSnJ1cG1xZG5jdWh1UVIyLWZjeGPSAeABQVVfeXFMTUdnQjRrNlRwV19ZZWlNanBLZFM0QU93RGkzeUFfRDBINWdYUE9HTnBsY3hWZ3Z2QXRldXljSGtFZXU1Uk9YaEhrOEx3OWJ5NlIya0RYV1J1RjFvT2pvLWI2UFcxSWJ4QmxVbXFKc0FGU1lTaEUxaXY4REJYVkxDTExveE94WVhnSFZqS3kzbnBwVzRnNlVlT0lFUzNJNWpyVmtWV09yRFhCTjZ5aFFaNjFwbFJ4UG0xWmxrS3BGWXpsSTJla3RLWDF5eHh6UHZWUXNaUFZKVjZiZXNKMzZQR3k?oc=5"
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjFrQ2QxT1dpdHhzblZKckk0YVpyRDJrTk94Qk10WUFjUHN5Y3gweXdablNQOHo4aGpqT25renpLRkplQkJoMVNOMzU3U0FXekJ5ZmV4bWE5Q0VLNl9FeFZyMk9mTjh3b1B1cDJIb3dfUHI5SzFWMTkzWGVIV3c3WlVlMTJUSVU1T1NRU1hIMDRNbTlZbVRsQm1MVTRzNWhhaERVVUxjeWdqTnpMSmFxTXlwT2dnTXJNNnVrR0RzWGpjSDR6alE?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "42676868d6fa",
-      "title": "Did scientists just discover the missing piece of a black hole mystery? This is what we know",
-      "published": "2026-06-06T16:29:00+00:00",
-      "summary": "Did scientists just discover the missing piece of a black hole mystery? This is what we know&nbsp;&nbsp;WIONScientists Find Long-Sought Cosmic Wind Erupting From Supermassive Black Hole&nbsp;&nbsp;NDTVScientists have made a huge discovery at the enormous black hole at the centre of our Galaxy. And they found something pointing right at it&nbsp;&nbsp;BBC Sky at Night MagazineAstronomers just solved a 50-year-old mystery about the Milky Way’s black hole&nbsp;&nbsp;Scientific AmericanWind from Milk",
-      "sources": [
-        {
-          "name": "WION",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhzeWNmWDV0TWZ6YkVkd2VobVVrRXZXd1dOMS05a253a19FQ3BPdkJiQldQT1FxaVpwTWtrcUdxb1gtTXV3VXRmQUJCRUJyQ2UxWU5CLXpRTVVKclRWclpxQW9wQ0ZoLXoyU05uNy1UcFd5ckNyeUJoLWVPc2ZDRkg3ZE10d2tFWXN0eTBDSlFITmFPbjBySDh2QzhFSG1kbzd0TFNlMzNKSXBPdW9WLXk1WjVMY2dYa25vNEFzMEFDdGVXb3k4WWtZd0Z6NW1LUnI40gHYAUFVX3lxTE1ib2tuNW9UN3hPcFY2a3I5Uld5OEdWWU52WWsyaHlhaUpCLUlmVFphQjlvTkZCWTN1Z0ZYQWRhb25penozSnBhUlJBOWFoTXNMZldtWnpKek5XLTM3Z1hsVmRRbVN3c3QxMm1JTnpWTU5OYV9tNjByOWt0NG1IdWpYYXQ3UGZySE01Z3RHd2l4ZkloNk9SLXo0M1JFcWNSanVFZVIxTjhkaUxYWHVnbnVRcl9kcUlhMkpZMFdrOXpxQUJma0tOMHJ0aHVqU2VQRXJYSV82WDVYZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "4421ba4e903b",
       "title": "Cancer survivors face job, social challenges after recovery - The Times of India",
       "published": "2026-06-06T15:30:00+00:00",
-      "summary": "Cancer survivors face job, social challenges after recovery&nbsp;&nbsp;The Times of IndiaFrom treatment to thriving: Redefining cancer survivorship&nbsp;&nbsp;Fred Hutchinson Cancer CenterValarie Traynham - City of Hope Chicago two-time cancer survivor (IMAGE)&nbsp;&nbsp;EurekAlert!Nonprofit service contributes to cancer survivorship rates | Opinion&nbsp;&nbsp;Naples Daily NewsTo Our Community&nbsp;&nbsp;Memorial Sloan Kettering Cancer Center",
+      "summary": "Cancer survivors face job, social challenges after recovery&nbsp;&nbsp;The Times of IndiaLife after cancer treatment: Oncologist shares 6 tips to make the transition to work and normal routines smoother&nbsp;&nbsp;Hindustan TimesValarie Traynham - City of Hope Chicago two-time cancer survivor (IMAGE)&nbsp;&nbsp;EurekAlert!Nonprofit service contributes to cancer survivorship rates | Opinion&nbsp;&nbsp;Naples Daily NewsTo Our Community&nbsp;&nbsp;Memorial Sloan Kettering Cancer Center",
       "sources": [
         {
           "name": "The Times of India",
@@ -148,10 +173,23 @@
       "matched_keywords": []
     },
     {
+      "id": "1ffc2180830b",
+      "title": "Cambridge Team Develops Universal Vaccine To Curb Variants Of Covid, Ebola Infections - Deccan Chronicle",
+      "published": "2026-06-06T14:12:10+00:00",
+      "summary": "Cambridge Team Develops Universal Vaccine To Curb Variants Of Covid, Ebola Infections&nbsp;&nbsp;Deccan Chronicle'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCAI-designed universal coronavirus vaccine passes first human trial&nbsp;&nbsp;ScienceDailyWorld's first AI-designed vaccine developed by UK scientists enters human trials&nbsp;&nbsp;The Times of IndiaAI Vaccine Development Hits Human Trials&nbsp;&nbsp;AI CERTs",
+      "sources": [
+        {
+          "name": "Deccan Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNmM2cmM4T3ZNdS1GZWN5cXd5TFhVVDUwSWotLUJVT2VZZ0Y0dEpRbGxmX0pqMHYzbTBSLUVvZExIeDNNTVd3YkVCZFdNNE83Qzk3UFoweEN3Nm5IeWp0cGd5bDQwa3pCS2k5RTRRYTl1R09QNXFSQkUxb05xLXVWOTNSa1IwNk9BbjNvQlhhRXJYZFlxLTlERlljdEdiM1p2YXJkT1VhcjY3ZWZfT2FfejhVREVoU2E1dnB3WUhXb19ucHlwYlItYzNGMlNTVm5EREtkRVhHTGVJSWkxWW1lWmJZT3FGUkhoRjFuStIB8gFBVV95cUxOUlZlSjNPNWF1OU01Q19PQXhOTElYVVJZdWJNcjlHMWJrb3dDYTNYRWhEdmI0VS0tWTJkazV4YmZWYU1ESmNFd25jTF91QThCZXE5XzBJU0dvdERvLURQcklmdjRnR2ZabE9WWnZBNHp2UmpSaDJ0aXdoRG5xUTVmeldYdmNzWGF2UjM2TWZoU1RKOEtMVktJR3RJaENYNUlnU0FNei1Ec2lkelNtVFZaY0t2MjBvSDdleS1WWFVuUDdESFBCRF9UWGdWTjRfNTNaYUp6d3JrTlRnRnlfcEN3RmFBN2ZEcFlqblNsc190Uk5YZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "577a08e09d45",
       "title": "Cortisol and chronic stress: Health effects of high cortisol risks of hormonal imbalance and natural ways to restore balance",
       "published": "2026-06-06T12:37:00+00:00",
-      "summary": "Cortisol and chronic stress: Health effects of high cortisol risks of hormonal imbalance and natural ways to restore balance&nbsp;&nbsp;TheHealthSiteCortisol spikes — what stress is really doing to your health&nbsp;&nbsp;The TimesSpikes don’t hurt, persistent presence in body does - what should one know about cortisol&nbsp;&nbsp;Deccan HeraldThe Cortisol Face Dilemma Swells&nbsp;&nbsp;Deccan Chronicle",
+      "summary": "Cortisol and chronic stress: Health effects of high cortisol risks of hormonal imbalance and natural ways to restore balance&nbsp;&nbsp;TheHealthSiteIs It Really Cortisol—or Just a Convenient Diagnosis for Modern Stress?&nbsp;&nbsp;ELYSIAN MagazineSpikes don’t hurt, persistent presence in body does - what should one know about cortisol&nbsp;&nbsp;Deccan HeraldThe Cortisol Face Dilemma Swells&nbsp;&nbsp;Deccan Chronicle",
       "sources": [
         {
           "name": "TheHealthSite",
@@ -168,10 +206,30 @@
       ]
     },
     {
+      "id": "9fb988e88d6f",
+      "title": "Brain Imaging Predicts Ketamine Response in Depression",
+      "published": "2026-06-06T11:05:57+00:00",
+      "summary": "Brain Imaging Predicts Ketamine Response in Depression&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb29XcGUtRDZTWHFDb0dzYm1EUkQxTmppV1ZhanJOeHlYdmwtTTVvZXd3WjFGRnlDakU0RWJKTlRLUGxCbWprNE5uT0hrT1UwazNOOG0xcjJmM2ZIOHZ5c01oSlRZc2pnQ3FjUUhKRXRQOUJ3V3FkMFBoUmZTUkVrMW9fNGdQa1Uxd2c5Z0RHSGdLdFNWTkpSWjFMZWVLUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB01221",
+          "keyword": "ketamine",
+          "name": "Ketamine"
+        }
+      ]
+    },
+    {
       "id": "2fa359e205af",
       "title": "Scientists Discover Dog-Sized Scorpion That Once Roamed Earth",
       "published": "2026-06-06T10:15:58+00:00",
-      "summary": "Scientists Discover Dog-Sized Scorpion That Once Roamed Earth&nbsp;&nbsp;InfomanceDog-Sized Scorpions Once Crawled Across Britain 415 Million Years Ago, Researchers Say&nbsp;&nbsp;NDTVThe Scorpion King was real: Venomous creature as long as a full-grown German Shepherd once ruled the Earth&nbsp;&nbsp;The Economic TimesMassachusetts students don bee suits to learn about nature&nbsp;&nbsp;AOL.comWorld’s biggest scorpions were the size of baseball bats&nbsp;&nbsp;Popular Science",
+      "summary": "Scientists Discover Dog-Sized Scorpion That Once Roamed Earth&nbsp;&nbsp;InfomanceDog-Sized Scorpions Once Crawled Across Britain 415 Million Years Ago, Researchers Say&nbsp;&nbsp;NDTVThe Scorpion King was real: Venomous creature as long as a full-grown German Shepherd once ruled the Earth&nbsp;&nbsp;The Economic TimesGigantic scorpions with formidable pincers once roamed England and Wales, fossil reveals&nbsp;&nbsp;The IndependentLargest scorpion ever grew to over three-feet long and had six-in",
       "sources": [
         {
           "name": "Infomance",
@@ -208,6 +266,26 @@
       ]
     },
     {
+      "id": "fca80b4b8b94",
+      "title": "In Ebola-hit Congo Church fights deadly traditions and distrust",
+      "published": "2026-06-06T08:54:00+00:00",
+      "summary": "In Ebola-hit Congo Church fights deadly traditions and distrust&nbsp;&nbsp;ucanews.comSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "ucanews.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzRYcjI2R0xxbGE5d0xBYUthMTd4UEZIQUltQUR3THdRc1MtdFUtSzJzYmdHTEd2VUtmRVpIY0dhcTN5TWY5RGRmd0p1VEQtb1l5bnJhTWRyXzBVSmprQ2tmejYyVG12NkZqS21Jb2ZFS2pSZDFtZFFrZ2FyTUdMMEJ6UzhFVExySTludlREeVFGUDFvV3lOSHVSbWQ5RmZx0gGfAUFVX3lxTE5mTVhXUnExUHdiWmZwOVJNcXIzSnRscjIzelUzdFNSREc1NWYzVVBqWGNlMDU4cWRmdDVnOGMyOHp0Rk9vVXRRa0VEUDRjNEU3MTFJMW9hWldLVldlR2d6ZVBHSkVCYXFCWmx3T1RVZ0FIcTRjcm9kTGxHbnNpQ01ueHVuNGdHZG94VDJ0UElLcVdJeWpQd3QtSHZaZHE3OA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
       "id": "7ef191db625d",
       "title": "Plant-Based Diet Linked to Lower Mortality in CKD: ERA 2026",
       "published": "2026-06-06T08:45:55+00:00",
@@ -238,6 +316,39 @@
           "keyword": "CKD"
         }
       ]
+    },
+    {
+      "id": "dd30a2508447",
+      "title": "Google Plans To Release 64 Million Mosquitoes Infected With Wolbachia: Here's Why Scientists Are Not Alarme",
+      "published": "2026-06-06T08:35:53+00:00",
+      "summary": "Google Plans To Release 64 Million Mosquitoes Infected With Wolbachia: Here's Why Scientists Are Not Alarme&nbsp;&nbsp;News18Debugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianDengue is no longer just a travel risk—what Google's mosquito plan could mean for your summer&nbsp;&nbsp;Phys.orgGoogle seeks permission to release millions of mosquitos in California, Florida&nbsp;&nbsp;MashableWhy Google is seeking approval to release millions",
+      "sources": [
+        {
+          "name": "News18",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQenZsRlBiSzBXQlV1ck9xRWkzWjhxd25xeE15eV9ZaHNlUG82ZElMcTlPYlZsOEJvUzJLcmxEZXhVeXpHOUNsY1BRTzVwMVdtaEZtWGtSSE9hc19MSXB2dE1BSVE5NzFSRV9RMXVWLTJIbnNZTFd2QUVuY0VxUUMxVmFRazM0ZTJ5bGJNVXZObHpEOFVIQWNnZ3F2aGJObTVBTFlvd3hRMm13clIxSkx4bUdfV2lVS183OXh3TjVhVVBETjh5cGxFc2wwaU8wMDVrdzl2UWhQVFJPc0RPS2M4eFpSclJKNUNYMEhDSXpaMDNtWmtmWGtSNzh4N01jb1dma3l4SlNfb3XSAY4CQVVfeXFMUGVGN1ZBMTd5ZmlyYkRUaEo1UHlfT0ZIUFRlbkJ1WkxaTHRTRzlyS194NVM1UUM5OTY4eDl3ODhjNDVtUWdDWE5KenFqNkxkUVBCeUdMQnRVSWlmTFZBeDJfSEZvZ3VjbndZNWxEUmpPZEhEaUlFb2ljTGhsN1B5TDE3OW5XdVpqNG1sWlkyczJfOThPZEtmekZSQ0l3TGNGOXN5eUVFMzJobmRlWkR1eHpjNk9ZOWl1X3dKRkRVYm53eDd3blVHOE9DTTl2T1pzWkpKYU5xNlR0NUpuRndUWkVjbWVDc04tVENRaGg0S1FXMVNlTkxzZHlfWlVXRlNDMlZTVDh0enNtSkMyQlRR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "74f9a4bea51c",
+      "title": "How Congo's illegal gold trade is fueling the spread of a deadly, vaccine-resistant Ebola strain - Business Insider Africa",
+      "published": "2026-06-06T08:32:57+00:00",
+      "summary": "How Congo's illegal gold trade is fueling the spread of a deadly, vaccine-resistant Ebola strain&nbsp;&nbsp;Business Insider AfricaA disease of deforestation: how Ebola is linked to the smartphone in your pocket&nbsp;&nbsp;The GuardianGlobal hunger for minerals to power hi-tech economy driving spread of Ebola in the DRC&nbsp;&nbsp;MagzterReporter at epicenter of Ebola outbreak describes crisis&nbsp;&nbsp;YahooEbola Ground Zero: CNN’s Clarissa Ward on What It’s Like Inside the “Red Zone”&nbsp;&nb",
+      "sources": [
+        {
+          "name": "Business Insider Africa",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMU1vRmdWTkJaUEJiWlNlYTl3d2FZajBkWDJqRlBxNl9WdlVyWUFpMEREV1A3amhCbkdTZVY1RnZaTGxWVm9MX01Eb0tzT1BlSm1HcFhnMW5OZ3lUckFSbXNqWmZpQTloNXluaHNhY3pHYnZSbEZjeHlOVFA1WGExRXdhNDNDdHU2N3JQZjhDSXNIcjJQVW9hbDRheFd5aEVDQ3B6cHFHUWtRQjczTHd5bjZSUWpBcVBKb01GeUx6cmpFZGtiZThFWHU3dDdGU1RucnROaG5Pcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "2a70b87fc95a",
@@ -294,7 +405,7 @@
     {
       "id": "3f8a786a3e64",
       "title": "Australian study identifies early blood marker for lung cancer risk - DD India",
-      "published": "2026-06-06T07:42:54+00:00",
+      "published": "2026-06-06T07:35:00+00:00",
       "summary": "Australian study identifies early blood marker for lung cancer risk&nbsp;&nbsp;DD IndiaEarly Research Suggests a Path to Predict and Prevent Lung Cancer&nbsp;&nbsp;The New York TimesScientists Find Blood Marker That Predicts Lung Cancer Five Years Early&nbsp;&nbsp;NDTVBlood test can predict lung cancer 5 years before diagnosis&nbsp;&nbsp;The Times of IndiaInternational Study Reveals How Air Pollution and Smoke \"Awaken\" Dormant Cancer Mutations&nbsp;&nbsp;QRNews",
       "sources": [
         {
@@ -334,6 +445,19 @@
           "keyword": "cancer"
         }
       ]
+    },
+    {
+      "id": "a60b9fd257c7",
+      "title": "44-year-old gastroenterologist shares 5 health lessons he wishes he knew in his 20s: ‘No bank account for lost sleep' | Health - Hindustan Times",
+      "published": "2026-06-06T07:13:24+00:00",
+      "summary": "44-year-old gastroenterologist shares 5 health lessons he wishes he knew in his 20s: ‘No bank account for lost sleep' | Health&nbsp;&nbsp;Hindustan Times",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPVnZ0WGFpM2lud2VNdjNJVEwtNWMza3hPSHhPMldHTEpidVVON3puUjBDYlpWY0IyQ3hTVVZNU1lOUDFFVC12Y3Y0bGZKUzNWTlpXbktIbXZoWHN5RGNRZENBaEpLRTdwLUxqd2h4bjhkMUltMHJMQllCTVVIaWREd21nV3ZMZlFVOEdEVkhOSkNWNC1zSjBVX2FNWXNCSGZfcjdvVWR0dWJrTThfTFFreUZXYzRmQ2pPcGZ0SG5KT3JUOVBLYjhiN3ZVM29VcnZtdnRwUXRtcTFqNC0yTlRCMVhUVWwwaVQtZXF0WUFxXy1tckpHWVFZSDl5UGR5R0dFUTMzaWdBNG11MExiQWswZNIBlgJBVV95cUxNQ2Q2SUNBVDU1aTZJaTgxUG4wTmxIT1dyRHFiSW5TRHFiUnhTNUR0QW1nblhNdzRWQktyRTE5cmwwREZBQjI0LUYyd0Ntc0o1T3pvRlA4cFlQeTlKX0U1OXJuMlpNTnZtR3UyQkdzV0ZJcFNxWnNZTVJfMklDVlcwRE5lVm81OVIwZzVTak1seFl1OWZPODg0TUVjRV94RWNnY1ZaWG1OcFlJcUt3b3ZsaGV3X295cWpXdjktR0EtcUlkRU5OOGU0ZDlGREQxY3dkMFY1WThIcGk2UnFGcDRteDNNcXRlSHROaFlPSlZCM1o1U2Z3ZldqZ2xmSm5CNGFWUkkxeHVGazd2NXR0Z2RwWTlQTTNndw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "e76424e44aec",
@@ -413,14 +537,14 @@
       ]
     },
     {
-      "id": "37d04cfd8da6",
-      "title": "AI-designed universal coronavirus vaccine passes first human trial",
-      "published": "2026-06-06T03:22:34+00:00",
-      "summary": "AI-designed universal coronavirus vaccine passes first human trial&nbsp;&nbsp;drugscontrol.orgSee more headlines and perspectives on Google News",
+      "id": "69110e7dd96a",
+      "title": "Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'",
+      "published": "2026-06-05T20:00:00+00:00",
+      "summary": "Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'&nbsp;&nbsp;SpaceScientists Find Long-Sought Cosmic Wind Erupting From Supermassive Black Hole&nbsp;&nbsp;NDTVAstronomers just solved a 50-year-old mystery about the Milky Way’s black hole&nbsp;&nbsp;Scientific AmericanWind from Milky Way's supermassive black hole is finally discovered&nbsp;&nbsp;ReutersScientists have made a huge discovery at the enormous black hole at the centre of our Galaxy. ",
       "sources": [
         {
-          "name": "drugscontrol.org",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00UGJSei16VHc3aUJZZ1R0cWtGczY2SmFFOEYyaFRzcUVxZ1JjSGxzeDFES0NRNUhMYlNMMWQ0enhXay1RallZX0tlMGdXS2Z4WFc0aUFsNHloMUFXdHNuWmxQdw?oc=5"
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNODdTU3dSX0xrWWVTR29FdW1VS09WTXJZaGtMcTd5RDFWOHdNOVBoTG5BMWhwaVBkSC16LThkU3kzWndKVTByUlhyMDdVREhpbmlDYzhLdDZQTmlCSTV2cHVIQTlEMVV5SFBDY05IYUVqeENWWmREalp3V3diMDFOdnlhM2dRRXFvMFp0T1V1dkpLUkVvSUdqVWVnM0V5ZHREUm9FcFlEWVl1NkM2UTI5My00eXFISUNKdE1CdTFTaVlDMXhWOVJnSmRjRUx5UXZwT2I4ZUtwc08?oc=5"
         }
       ],
       "matched_keywords": [
@@ -580,14 +704,14 @@
       ]
     },
     {
-      "id": "7e04ea4d7d94",
-      "title": "NASA’s Roman Space Telescope gets August 2026 launch date, ahead of schedule - The Indian Express",
-      "published": "2026-06-05T14:13:59+00:00",
-      "summary": "NASA’s Roman Space Telescope gets August 2026 launch date, ahead of schedule&nbsp;&nbsp;The Indian ExpressHello, World! NASA Shares New Home for Roman Space Telescope Updates&nbsp;&nbsp;NASA Science (.gov)'The mirror passed with flying colors': NASA just took its last look at the Nancy Grace Roman Space Telescope before launch&nbsp;&nbsp;Space6,300 of Allah's 100,000 Planets&nbsp;&nbsp;IslamiCityNASA to Launch New Space Telescope in August; Japan Participates in Development&nbsp;&nbsp;The Japan ",
+      "id": "38549cab8e6f",
+      "title": "What the Ebola outbreak demands from global leaders in 2026 - Gavi, the Vaccine Alliance",
+      "published": "2026-06-05T13:19:22+00:00",
+      "summary": "What the Ebola outbreak demands from global leaders in 2026&nbsp;&nbsp;Gavi, the Vaccine Alliance5 things Dr. Sanjay Gupta wants you to know about Ebola&nbsp;&nbsp;CNNAfrica’s response to Ebola must be defined by Africa itself&nbsp;&nbsp;Financial TimesThe Race to Stop Ebola&nbsp;&nbsp;unicef usaComparing Ebola Outbreak Responses and Restoring USAID Data&nbsp;&nbsp;Think Global Health",
       "sources": [
         {
-          "name": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVlU1bTNqSkZOMnlaV3ViNzJXWE1ucHdjUlI2UTgtVHFTbm5hTEFoNmxEVVI2ek40ZFZXdmRhMkFHZEpMelZ3T1VyOXZIWGRZQ1phMTBUS2RzTElza09RZUh2VTZVV09PcVV2MmMtczBsRFJ0c1E4VERSYWVCbEw4aU1heWxmMDhZdjBQU0hGY045OUNROXdOZjdpcnZtbHNDTnZWVmZla0pyclc4NkJ0UU9rcS05MExCdlBtODJkazlnMTQ3SFdGSXVMVmlFdTdZMWNV0gHaAUFVX3lxTE9YbmxTWDItNlVaUHgxZGt1eGJieUlrWjFiY0lDcEd0dnNaMjFjd3Vrd0tDTG1VdUliZDMwZERuRVI3MFhqSnlqSnFGSl9PMDVWdmVQV09wSXp0YzA0V2ZjM1JOdHlGVFFTUHFRNkxfZUlSS2xWbXlxek5YN2RsaGs2d2lFVGNlSDJJMFQxS2tnLVYyMWZBd0E4c3c4SWNYeHlhVU0zZmdTSnd4SHRlN01UZmZUUy1kTEY3Mkc5bWlUNjc4bW83RUpDN0FYblJwLUxNQW4zRlR0WTJB?oc=5"
+          "name": "Gavi, the Vaccine Alliance",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV19TN0dkZ2tYaEhvV1JQU3FVbzJoOEZKcDhvTFE3QXVpakZ2MzlELTZpVkltanBXMzdlYmU0dXFqQ09QUXZJZnRkRTd5TVA1bDFjVnBNSXRBdzdSOGxyWldHdDZDSUwxZ0NMWTlEOTBGUG93VTRxbFJXbWNQNU9GbDVUMFBkb29G?oc=5"
         }
       ],
       "matched_keywords": []
@@ -616,7 +740,7 @@
       "id": "d735da3848f8",
       "title": "'Must be STOPPED': Why Google's plans to release 64 million mosquitoes in America has citizens worried - The Times of India",
       "published": "2026-06-05T12:55:00+00:00",
-      "summary": "'Must be STOPPED': Why Google's plans to release 64 million mosquitoes in America has citizens worried&nbsp;&nbsp;The Times of IndiaWhy Google wants to release 32 million mosquitoes in the US&nbsp;&nbsp;The Weather ChannelDengue is no longer just a travel risk—what Google's mosquito plan could mean for your summer&nbsp;&nbsp;Phys.orgWhy Google is seeking approval to release millions of mosquitoes in Florida and California&nbsp;&nbsp;YahooGoogle seeks permission to release millions of mosquitos i",
+      "summary": "'Must be STOPPED': Why Google's plans to release 64 million mosquitoes in America has citizens worried&nbsp;&nbsp;The Times of IndiaDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianDengue is no longer just a travel risk—what Google's mosquito plan could mean for your summer&nbsp;&nbsp;Phys.orgGoogle seeks permission to release millions of mosquitos in California, Florida&nbsp;&nbsp;MashableWhy Google is seeking approval to release m",
       "sources": [
         {
           "name": "The Times of India",
@@ -700,20 +824,27 @@
       "id": "c9332ea52bfc",
       "title": "Suspected Ebola Case Detected in Jaipur, Health Department on Alert - Punjab Newsline",
       "published": "2026-06-05T12:03:48+00:00",
-      "summary": "Suspected Ebola Case Detected in Jaipur, Health Department on Alert&nbsp;&nbsp;Punjab NewslineUgandan woman isolated in city, Ebola suspected&nbsp;&nbsp;The Times of IndiaHealth centres in Karnataka to keep eye on Ebola, report cases ASAP&nbsp;&nbsp;The New Indian ExpressEbola alert: Karnataka orders statewide vigil across hospitals&nbsp;&nbsp;Deccan HeraldEbola scare: Surveillance, preparations intensified at Pune airport&nbsp;&nbsp;Hindustan Times",
+      "summary": "Suspected Ebola Case Detected in Jaipur, Health Department on Alert&nbsp;&nbsp;Punjab NewslineUgandan woman isolated in city, Ebola suspected&nbsp;&nbsp;The Times of IndiaEbola scare: Surveillance, preparations intensified at Pune airport&nbsp;&nbsp;Hindustan TimesEbola outbreak explained: How the deadly virus spreads and what risk India faces&nbsp;&nbsp;Moneycontrol.com1st suspected Ebola case reported in Rajasthan | Infection can only be confirmed after reports | Inshorts&nbsp;&nbsp;Inshorts",
       "sources": [
         {
           "name": "Punjab Newsline",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRGgyRXBmOVo5Y25GRVhhU29JMEgzWl9hZ1B0VElMSEFycDREREpOc2ctWnpvLVJCNElCMjFfWlZNUXZUX2NpOUl5ZVhGZkJXdlpLRU9xU0N0N1NnV191N00tbHVNUlVocVd5RnlkNFp1RlQ4ZTBuczBBdW5mSE1FdmxGblBRclhVVy05X25QSlM0ZlFEdFFETWZYRHlOSDQxSExsUA?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
     },
     {
       "id": "ee165793fbac",
       "title": "Unsafe food causes 1.52 million deaths globally, children under five most at risk, reveals study",
       "published": "2026-06-05T11:44:05+00:00",
-      "summary": "Unsafe food causes 1.52 million deaths globally, children under five most at risk, reveals study&nbsp;&nbsp;FirstpostUnsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk&nbsp;&nbsp;World Health Organization (WHO)World Food Safety Day 2026, Date, Theme, Food Safety in India&nbsp;&nbsp;Vajiram & RaviWHO Report Highlights Deadly Global Impact of Foodborne Diseases on Children&nbsp;&nbsp;Medical DialoguesChemical Hazards Cause Most Foodborne Deaths",
+      "summary": "Unsafe food causes 1.52 million deaths globally, children under five most at risk, reveals study&nbsp;&nbsp;FirstpostUnsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk&nbsp;&nbsp;World Health Organization (WHO)World Food Safety Day 2026, Date, Theme, Food Safety in India&nbsp;&nbsp;Vajiram & RaviWHO Report Highlights Deadly Global Impact of Foodborne Diseases on Children&nbsp;&nbsp;Medical DialoguesShehbaz calls for safe, resilient food syste",
       "sources": [
         {
           "name": "Firstpost",
@@ -728,6 +859,19 @@
           "keyword": "mo"
         }
       ]
+    },
+    {
+      "id": "1cbbfb6d3741",
+      "title": "'Soul is in brain, not heart': Why AIs are not machines and what makes them better than us as species",
+      "published": "2026-06-05T11:22:00+00:00",
+      "summary": "'Soul is in brain, not heart': Why AIs are not machines and what makes them better than us as species&nbsp;&nbsp;WION",
+      "sources": [
+        {
+          "name": "WION",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU1ZER1AyN2M3cjhwdTNDX1NuRVNLQWhhRHc0d0czeEQ5SlRHUWZFTThuZDZPU3RVNWJ4ZGtKNVljaWVWcG5xOXpsMUpDVW81UmRJakRVOVYzSG5kcFo2a1o0U01yVjUtbDhWTkZGa1NxRU1XV2F1WWZxN2ljdVRuRG9DS1RmSXlaanNjSlJuQWJuTk9zeWI1YU1WVktCa3ItRV9ydnVQSTl4UU9FUlN5VUl3LU5kejZXc1BMeEJWS3hsTXNMclgwSl91WkVfT3pBdzhhNmVDWnk1QWJfZVQ00gHkAUFVX3lxTE9YVlQtV3U2bEZqREY5TmVTc2pNWTRBSnZTSnhWQXRDRFZjU0Jna19Qb0NZd2JjQU5UcU83MXlUWjZtdnk3NFNWYXluSmE2Um8yTmF6RjBsZnFHNHBzT3FoTVFRalhzQjhYNkRwSUNNNU1rd2JKNnh0Y2xucTVGbjRWa2FsdjhEcDJzQlQxdk9xa2ozVHBlR2x2S2xYa0FQdEJMNkJlZk5UR25Ta0pqc0J4ZENTdmxXUFB2QlUzR0tlZm5SZHpaRnNKTHd0Z2hIbnppYnA4dTZMcVpVVkkyVjdTalFTZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "cb175858755e",
@@ -756,6 +900,19 @@
       ]
     },
     {
+      "id": "447394eddc27",
+      "title": "Beyond Weight Loss: The Musculoskeletal Effects of GLP-1 Therapies",
+      "published": "2026-06-05T06:35:04+00:00",
+      "summary": "Beyond Weight Loss: The Musculoskeletal Effects of GLP-1 Therapies&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMWpfdHNWcWNYUUd4bTV3eDd1STlVSHY3NUJrbEpoWU1uMXBUSXJsUFl1a2IxalJSczBTUmlVdkRWTjE3OGpfeG9zRWhmOElyemlPVGhQLUdlMVNxc1VGYlUxOGp3ZU45Tmh1MVFTS2VfTG1QbE1VSUxfaFJiZlFlR29SbHdWMnI1emZJYVdDQmk1eXhDS0dXdDRBTUdaWXFRY0lJamJGaUhScnlWYk96cFhTMHRvdjhiNDZxeG1HaFVZclFTNlVfSQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "0df0f10a4174",
       "title": "Smartwatch Alerts Helping Detect Hidden Heart Rhythm Disorders, Say CARE Hospitals Doctors - BW Healthcare",
       "published": "2026-06-05T04:53:54+00:00",
@@ -776,26 +933,6 @@
       ]
     },
     {
-      "id": "e225c41838c7",
-      "title": "Doctor reveals common breakfast foods slowing down your metabolism, from orange juice to multigrain bread...",
-      "published": "2026-06-05T04:23:09+00:00",
-      "summary": "Doctor reveals common breakfast foods slowing down your metabolism, from orange juice to multigrain bread...&nbsp;&nbsp;Moneycontrol.comHere's the No. 1 breakfast mistake Americans make every morning, says oncologist and longevity expert&nbsp;&nbsp;CNBCThis Breakfast Habit Could Be Draining Your Energy All Day&nbsp;&nbsp;EatingWell7 Breakfast Swaps Dietitians Recommend for Better Blood Sugar&nbsp;&nbsp;AOL.comThe Common Breakfast Habit That Could Be Wrecking Your Energy&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWkNqT3I5UUZzaUl6QmtmMm5ja3pfeW95ZWdIRkZJbGJYR0QzazZ4WlJReTdzTUV4ZUpUc1d4bmZhYXE2UzFYWUNfazNtQk56SmtaYXhFT1BRNnVWZzNOa3RvS1ZQVk1VUzkzVDhtSDF1X3FCTHg5bG5QZkJ3eHhhVXYyWTAxVlhJQWlFRjdyTUNUcGNadUNLQTg4aVB4ZDRVUkJJc1JjUC1xWWgzdTNRb3VHQWpnZkNmd3Y5OHBHajBQNHViOEE0SGM1ZTBlRlh2VWVaYXd6Q0NpU3JYTUNLR0RTRVdIRXJGOWxGV21XNE96NkdPY0tsXzVfRGlLNi1oWERKWkF5cVYzVnNldFV6N1NndGQ3eDhRTWfSAZ8CQVVfeXFMUGdXZVlBNnYtS3BiQVFpYlJQQnRDejRfREcteEZFRHk3bW0yZGZxc0gtbXNuOVhHeVZzYkJ3SnZRbDN4ay1oaDRVamJfLVJoWG1UWHFNRW9OLTN3Ujl2eVo4R09kOF9kU0phZlp1S0g2TllxT3lSZEZDaEFPVlAxSlI0UE96OFBuNl9xY1lXNlNzX24yZEdERkNKLUVhOVo3Sm1fX1hvdVpOQnpCQUxpTmhlM3prX1g3elh5ckVsVldITWdNZjNVUW5qR2wwelc4UFloNjkyY0VHRzNMWXY0eG5Gakw2dkstNWJ4ejhzX201SnBDM25fR25XSDQ4amxjWFJaV3VZMGJLbDNTRmJCZEZkMndYRXkyWjJQV1NQOTA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
       "id": "604385b7852f",
       "title": "Fathers' health may shape children's future obesity ris",
       "published": "2026-06-05T02:32:00+00:00",
@@ -807,38 +944,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "dcc29e5d1cb9",
-      "title": "Alzheimer’s may show up in blood yrs before symptoms appear—Lancet study offers hope of early diagnosis",
-      "published": "2026-06-05T00:30:05+00:00",
-      "summary": "Alzheimer’s may show up in blood yrs before symptoms appear—Lancet study offers hope of early diagnosis&nbsp;&nbsp;ThePrintBlood test with AI spots four dementia-related brain diseases with 92.3% accuracy&nbsp;&nbsp;Medical XpressCardiovascular Biomarkers as a Primary Care Gateway to Early Alzheimer's Disease Detection: The Case for an Integrated Screening Approach&nbsp;&nbsp;CureusNew assessment for earlier detection of Alzheimer’s&nbsp;&nbsp;Healthcare TodayAI-Powered Blood Test Accurately Cla",
-      "sources": [
-        {
-          "name": "ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSWlmNEl5aDRvMTlrZ0FXdEt4VHZETXJKSTFKSXRnZ1NUc19KV1doV3g5eUs1TXFDNTItV3A5T2JYXzVTcUI5R0lhRDVISXdDRWJ2SnhzNWJUQ0I1S3c4NnA3TzF0ZXA1eGp6V2NxZmxUc3JfaHc2OTU0TFRxNXYxS1NKNFBkUWdaN3dBWThYWG1GVDFSNU16UF9OLUdLQzRSbC1rekQ3TTFVbzJ2RFNDaFJYdngyRWlHUlJvVEFaSG50bTlkZUQxYzlaaEdqREFQZmF0bNIB2gFBVV95cUxPU1FVSlByU3V6ZEQ1RFpvYURvWjNUTmYyb084MU9RYV80N2NEd1ZMNlhzcFc2blpIM1owcTlUOTE2cUZUdjBlZHhUYnkxRjNKZXJGNGZCbXZTa1lrX0l0UEdKODg3bi0wMzF6VndNX2Rwd19hYlcyTGp1MExrN0c2V1VvdkJtMnVLSXpOX0hBVmNycEI4SDhyWUlRU0NHdy13Sk5MaEp3bGFkek1mbzR4UVRseGhDVC1fMzU2Z3Y5dDFSN2R3TmlpRmUtWVZvSTdjMmhpZmNxY2tjUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "5560",
-          "name": "brain disease",
-          "keyword": "brain disease"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__cardiovascular",
-          "name": "cardiovascular",
-          "keyword": "cardiovascular"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic_dementia",
-          "name": "dementia",
-          "keyword": "dementia"
-        }
-      ]
     }
   ]
 }
