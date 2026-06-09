@@ -1,31 +1,91 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-06-09T01:47:16.287060+00:00",
-  "total_fetched": 103,
-  "unique_count": 103,
-  "health_related_count": 60,
+  "fetched_at": "2026-06-09T08:53:35.811470+00:00",
+  "total_fetched": 101,
+  "unique_count": 101,
+  "health_related_count": 54,
   "news": [
     {
-      "id": "60bdc80ff1bd",
-      "title": "NASA updates worsening ISS leak after crew safety alert - ScienceDaily",
-      "published": "2026-06-08T23:49:13+00:00",
-      "summary": "NASA updates worsening ISS leak after crew safety alert&nbsp;&nbsp;ScienceDailyNASA Provides Update on Space Station Leak&nbsp;&nbsp;NASA (.gov)ISS astronauts return to planned operations after air leak prompts NASA evacuation alert - as it happened&nbsp;&nbsp;ReutersNASA orders astronauts to take shelter after new leak aboard the International Space Station&nbsp;&nbsp;The Hinduspace mission risk management&nbsp;&nbsp;Travel And Tour World",
+      "id": "86a82231fb49",
+      "title": "World’s first AI-designed vaccine explained - The Conversation",
+      "published": "2026-06-09T08:16:34+00:00",
+      "summary": "World’s first AI-designed vaccine explained&nbsp;&nbsp;The Conversation'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCBreakthrough: Universal Coronavirus Vaccine Designed By AI Passes Human Trial&nbsp;&nbsp;NDTVResearchers Are Using AI to Create Vaccines—and It’s Working&nbsp;&nbsp;GizmodoEditorial: Skepticism—and success—matters on AI and vaccines&nbsp;&nbsp;C&amp;EN",
       "sources": [
         {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15OGMzUTBUX2V4SFp2OW94eDlmSzZPTjZGcjlNc1o3THZlNGw4ZWJCMEVsU1p3TUNyQXRSd3QtMW5WNmJYMWVTZHMxVzJOOGNoREdXY3c5V0lRcnZ4MGxXNWtiTkdHeFBvVzZydm1xMA?oc=5"
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWJBQ2JYbWcwcFZONHZpOXdIaWR2SENSdTVIZ0FGMzJrZ3NBWGlXcGFjbVNTSnY0dGl6cG5Ub0NobTMxSGEzWWVJN0sxZlJQWEZSc0RQRWhtNnQyZjVtb3ktUV9vUTRSa2FEdGk2aFdObVRKZ2lLdUFHVUpPUlZ4MjB4TQ?oc=5"
         }
       ]
     },
     {
-      "id": "dae9589aaffe",
-      "title": "Cryptococcus laurentii Bloodstream Infection in an Immunocompetent Adult: A Rare Central Line-Associated Infection Complicating Extended-Spectrum Beta-Lactamase Klebsiella pneumoniae Bacteremia - Cureus",
-      "published": "2026-06-08T22:19:02+00:00",
-      "summary": "Cryptococcus laurentii Bloodstream Infection in an Immunocompetent Adult: A Rare Central Line-Associated Infection Complicating Extended-Spectrum Beta-Lactamase Klebsiella pneumoniae Bacteremia&nbsp;&nbsp;Cureus",
+      "id": "5242de8c303a",
+      "title": "Congo’s Ebola outbreak rises to 100 deaths out of 550 cases after a month - The Hindu",
+      "published": "2026-06-09T07:23:50+00:00",
+      "summary": "Congo’s Ebola outbreak rises to 100 deaths out of 550 cases after a month&nbsp;&nbsp;The HinduWHO's Tedros says Uganda should reconsider Congo border closure over Ebola&nbsp;&nbsp;ET HealthWorldEbola death toll in DR Congo climbs to 101&nbsp;&nbsp;Al JazeeraEbola Outbreak: An Expanding Health Crisis with Geographically Differentiated Impacts (Third Edition – June 2026)&nbsp;&nbsp;ReliefWeb‘Rare, untreatable strain’: Ebola toll mounts in eastern DR Congo&nbsp;&nbsp;UN News",
       "sources": [
         {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOYVJUVnlaeVUzdVNNeVphTHNIR1B6SEp4UzRNbjdxQjZWTHVXZGlCTFdZNmw4YV8zcXY5U2xLQjRFODRLenFGbV9XM09jbDBhenZNWmVIOGhrY0RTckVzcEhLNmczSnczOGFvanRuX21NSlJ0N2w5NFpmd1BQU1JLaHM1cm9fTnFBc09mcENSV0c2dDduSkxZZTdqWXBOQU5DOVZVbmtWdWsxeXgwME1ETkZMd3UtelpVQUJaOUhSSjVGcmpIZFVyNm1idnJGYUEyWWlTSzIybVNvVUFHT19SN3hubTVzZXpGdDg0R0NQTzZERlRyZmQxcUstWVNfbjZYT0VnNUlNMkxfT01mTFZiTHllY3AxYXZRVEVNT0czOXd5MWNySXB6RzVmTzB6dkFhUmxQUGYzenU3U0pvRkp0TWtvM2gwZ1BRaTQ3eGc4Z0Y?oc=5"
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNUl2cnktdmxrOU5PTVNTQWo2LTZFSlA3OGI5NlRDbVVBVVoyWTVrY0FVUmYySjIycV85ZzZDcVFMZnk0VTdTb2xvV2w4bm8wUGl3X3RzOEg0b1ZTc3FDYWlUX2Y2M2JGRExVeUh4Q3ptdzJKaF8yRVowVHJXdkw3d2VuNDBSZ09KLUhiX1dOM0NRal90ZUlsckNkMXZZTFRWNEpnX0x2SE1VMVFDbnfSAbQBQVVfeXFMUFl1M0JDY2ltaG5kX2prTGhiNWdXeUU2Zk9nd0FrNFIyRldkWEt3Qkx5MVhEWTZueUdIWUpXb2cyWGZkTUhCVWVIb3RTVFExenBfcVBzNjNFbHI0dU9Uc3drOEZfbHM4MkZmMTBwUW82SVV1SHl3dnlpWmNfM0R1dlBuc1pHRFdFeGFhbVpVZTY4SjA0c0pUYnVXQk1qeVNlUURaaUNxcVQ4RzZXcThMRWR5ODdt?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0cfa9df32c89",
+      "title": "Blood Test May Predict Lung Cancer Risk 5 Years Before Diagnosis: Study - NDTV",
+      "published": "2026-06-09T05:09:07+00:00",
+      "summary": "Blood Test May Predict Lung Cancer Risk 5 Years Before Diagnosis: Study&nbsp;&nbsp;NDTVYan Leyfman: A Promising Step Toward Lung Cancer Interception&nbsp;&nbsp;OncodailyLung cancer: a scan that detects early and an injection that may prevent it&nbsp;&nbsp;The HinduLung cancer prediction: 14-protein signature finds risk&nbsp;&nbsp;OC AcademyBlood Test Boosts Lung Cancer Screening Participation&nbsp;&nbsp;Clinical Lab Products",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDUtdEtyUUlKNHRpNGdVYTBBQTlXa0YyY2s5Ty0wanFaeXltcjkxREswQXFULVFDc29ENXZwN0lSQ0gyQVFmX2tnZi1wWEx0bXEwQjhHUU9BaHFxa1JmOURuUlJ4Y1FhRy1jSko1QWZIWUtLeGxuOGJIQUN6b0VqWTBxNHY0SXV4RjMxVWQzUVJjMmE1MG5XQ3lZcEM3UVg2Rk1BRjZPUkN6TlHSAbMBQVVfeXFMTXdjMVAwYV9qcVNUMTJhU0lpMTlpT3VEY1NoN0pCTldYMWR1ZndQaGttb2N3UkxUZ2M0b3B3LW5HUmZuUU9oc3UzVnVjLUh1VURpSlYtMElqamE0dnUtSHBGZUZHNThpQm9kQy1hdnl0RnpYRjhpT0NJQTgteU40OFZPM2I5UGxpZmN0SW5rUTR5ekpMRlRBaFhiU3ZTTldXcHVYYTlxSjEtQjJ5LW1lc1RuU2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb6537f3a5f0",
+      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+      "published": "2026-06-09T02:58:38+00:00",
+      "summary": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)UNICEF Ebola Virus Disease Outbreak Flash Update No. 2 (Democratic Republic of the Congo & Uganda), 5 June 2026&nbsp;&nbsp;ReliefWebMolecular evolutionary analysis of the current Bundibugyo virus disease outbreak in DRC and Uganda&nbsp;&nbsp;Virological",
+      "sources": [
+        {
+          "name": "World Health Organization (WHO)",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zOEU2MVVHaUdveDFreHlOMUNPc3V3NUc0b3dNaVhlQlJvVk9XeVMzTDhyc3ZRakIzenNEalp5MGZBYmtOeFY5RVBaUnpSRExTcnMwXzlMd0hSN3YxZDh2WldVRzIyS25EV1VqSF8yaG0xdFdIeHJxV0Zn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ccbc2f6a45c0",
+      "title": "Discovery Of An Active Wind From The Milky Way’s Central Black Hole - Hackaday",
+      "published": "2026-06-09T02:00:00+00:00",
+      "summary": "Discovery Of An Active Wind From The Milky Way’s Central Black Hole&nbsp;&nbsp;HackadayScientists Finally Detect Wind Streaming From Milky Way's Central Supermassive Black Hole&nbsp;&nbsp;NDTV100 hours of radio observations crack a 50-year black hole mystery&nbsp;&nbsp;The Indian ExpressWind from Milky Way’s black hole discovered after 5 decades | Black holes are dense with strong gravity | Inshorts&nbsp;&nbsp;InshortsFor more than half a century, theorists insisted that the Milky Way's central ",
+      "sources": [
+        {
+          "name": "Hackaday",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFRNdk11MXY0VlExalhkcDB4QUN5VE13bkFPZ1BjWWFVSXFlOTNxeXFHUFNFMElvSkQxSTAtOXJWTWN6T2pWWWZYc2hqa0h1Z3JDUjJiREZHdGNIaGNaajFEMXNkQmtWejM1ZHdZbnpzc1JfZWlmYkVjeFhLUEZNR2I2dk4xUE9kQ0I3aDRndWNJcWNFUFVnVU5tRzdQVW5E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dce7c174838d",
+      "title": "Two airplane-sized asteroids to pass earth on June 9, 2026: Should we be \"concerned\"? - Moneycontrol.com",
+      "published": "2026-06-09T00:03:33+00:00",
+      "summary": "Two airplane-sized asteroids to pass earth on June 9, 2026: Should we be \"concerned\"?&nbsp;&nbsp;Moneycontrol.comAsteroid alert! NASA tracks two aeroplane-sized asteroids passing Earth today; know if they pose any risk&nbsp;&nbsp;The Times of IndiaAirplane-size asteroids 2026 LD and 2026 KM3 pass Earth safely&nbsp;&nbsp;NewsBytesNASA tracking skyscraper-sized asteroid approaching Earth today&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYkNUZURQSnhTejdzN0pHVnhkNTB6bWVwNUFaSkdDajE2aWRES2FjenhhWnJ0YU5xV3NrSWRLQ3REamhITWd4Y3VhRXdPMzlMc0w5dlZ6azRncnZxc1h5TlU4WlVQNmlqaV9QUGRaU0pXemFNa3BhVDRHN1RGZ2U1ZU5kYm9uMG9kcGNHSmR6NDZYa01vZGhZLW9QYW1PMGJSNF9ZRUFoYWxqOF9xT2EySXBpODFDOHREMnBtZUNxVFc4RG9PYjl3N0VITkxGaWtNdmV3VkdR0gHbAUFVX3lxTE5sNnpjMUM2ZU1oQ3owdk9vbVBJSWdqRWkwWmU2MEhXZlRlV2RTVnV2QURyUmZ4Qk9nQndnRWp0Y2UtT05oTFJ4cHJWb1lJV0dFZUpicUlndHJVZnRFZ3FyS3hISG9rNlBrNzJ5RDdmbWh1dl8wUmFIcl9xdjVyblJBQUIyZDU1N20yREIyejFiTVpxZGRQNXRtM1pVbVFUajhCZEJvRi1DcEwxczNqREdvZFV3UHA5WkdiVHlvUnpnTHRucUxlZ3BpUFFtcnpHNUZsSXk3eDFhNGRIZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "acb43540f290",
+      "title": "AI-designed miniproteins unlock control of GPCR signaling - Drug Discovery News",
+      "published": "2026-06-08T21:40:07+00:00",
+      "summary": "AI-designed miniproteins unlock control of GPCR signaling&nbsp;&nbsp;Drug Discovery News",
+      "sources": [
+        {
+          "name": "Drug Discovery News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcGt1aEI4cXNaMGRJeE5faVByNTYzSk95cU5hR1pZVFMyTHY3c1AwX09OdGZMVWJoUk8zTmlCN1hJcEk4LWFNcnhzR0czOTdXVV9FcTdmcmtPWG5PMXFxWGUyLU4xSWE4MTFEVUgyOUZ3eExyeVpKWjJXTUpsNldacTVIQ1JqMS1CWDRGLVh3VVFYSjFpVXk3bW9kbEZRZw?oc=5"
         }
       ]
     },
@@ -33,7 +93,7 @@
       "id": "f99f8533e50a",
       "title": "Measles epidemic tops 80,000 total cases in Bangladesh - Outbreak News Today",
       "published": "2026-06-08T21:18:20+00:00",
-      "summary": "Measles epidemic tops 80,000 total cases in Bangladesh&nbsp;&nbsp;Outbreak News TodayMeasles Outbreak In Bangladesh Claims Five More Lives; Deaths Rise To 610&nbsp;&nbsp;NDTV8 more children die of measles, symptoms in 24hrs | Health | FT&nbsp;&nbsp;thefinancetoday.netSylhet records another suspected measles death&nbsp;&nbsp;The Business StandardMEASLES: High treatment costs hit families hard&nbsp;&nbsp;newagebd.net",
+      "summary": "Measles epidemic tops 80,000 total cases in Bangladesh&nbsp;&nbsp;Outbreak News TodayBangladesh measles death toll rises to 601 as outbreak worsens&nbsp;&nbsp;News On AIREight children die in 24 hours in Bangladesh as measles death toll climbs to 628&nbsp;&nbsp;Nepalnews.comMEASLES: High treatment costs hit families hard&nbsp;&nbsp;newagebd.net8 more die with measles, symptoms in 24hrs&nbsp;&nbsp;Jagonews24.com",
       "sources": [
         {
           "name": "Outbreak News Today",
@@ -56,8 +116,8 @@
     {
       "id": "6bfcead8a085",
       "title": "Ebola: vaccines alone won’t stop an outbreak – here’s what else is needed - Gavi, the Vaccine Alliance",
-      "published": "2026-06-08T19:41:15+00:00",
-      "summary": "Ebola: vaccines alone won’t stop an outbreak – here’s what else is needed&nbsp;&nbsp;Gavi, the Vaccine Alliance'A disease anywhere can be a disease everywhere tomorrow morning': Public health expert on Ebola and the threat of future outbreaks&nbsp;&nbsp;Live ScienceUpdate on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 6/5/2026&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Faith, fear and trust: Inside DR Congo’s fight against Ebola&nbsp;&nbsp;Welcome to",
+      "published": "2026-06-08T19:46:27+00:00",
+      "summary": "Ebola: vaccines alone won’t stop an outbreak – here’s what else is needed&nbsp;&nbsp;Gavi, the Vaccine Alliance'A disease anywhere can be a disease everywhere tomorrow morning': Public health expert on Ebola and the threat of future outbreaks&nbsp;&nbsp;Live ScienceOpinion | This Is Why You Don’t Slash Humanitarian Aid&nbsp;&nbsp;The New York TimesUpdate on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 6/5/2026&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.go",
       "sources": [
         {
           "name": "Gavi, the Vaccine Alliance",
@@ -78,14 +138,26 @@
       ]
     },
     {
-      "id": "96a5b2840131",
-      "title": "Why do Venus and Jupiter meet up in the sky so often? It's a symptom of a solar system that supports life on Earth - Space",
-      "published": "2026-06-08T19:00:00+00:00",
-      "summary": "Why do Venus and Jupiter meet up in the sky so often? It's a symptom of a solar system that supports life on Earth&nbsp;&nbsp;SpaceHow to see the 'cosmic kiss' of Jupiter and Venus in the night sky&nbsp;&nbsp;National GeographicWhat’s Up: June 2026 Skywatching Tips from NASA&nbsp;&nbsp;NASA Science (.gov)The Sky Today on Monday, June 8: Venus and Jupiter close in&nbsp;&nbsp;Astronomy MagazineLook up tonight: Jupiter and Venus will almost touch in one of 2026's best skywatching events&nbsp;&nbsp;",
+      "id": "c8ff91d50229",
+      "title": "Can You Really Eat Your Way to Better Skin? I Put the Theory to the Test With Green Chef - Vogue",
+      "published": "2026-06-08T19:02:51+00:00",
+      "summary": "Can You Really Eat Your Way to Better Skin? I Put the Theory to the Test With Green Chef&nbsp;&nbsp;VogueIrresistible Skin Refreshments&nbsp;&nbsp;Deccan ChronicleMangoes: Not just a summer treat - Forget expensive serums, these 7 foods can support healthier skin&nbsp;&nbsp;The Economic Times",
       "sources": [
         {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ1hFbGxGRzY0OWVYbW4tOVllX2NCYktEWXRjZTBtOXJMRTBicTFiZHZYMi1iVXlsMmh5cG9zUi1Pd2gwZnVUX0tEWURaTmRhcjNZc3dXenRmLXU0anQwaXJheUE5S1N3YmJLMHFmMFJDSUhKNzBrOUh3X2JuNmlmczFyd1ZiTGEzNkR2THRNODR3VHlqdUlBY1ZtZENHUkZpQldkMTVSOEozUmNuS2dGUTFicnEtLVlFMi0zdlhIN1VrWklTUlFQRU5aYkFIRkxFVXJveklyTGNOLXBRWlE?oc=5"
+          "name": "Vogue",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1WFAzTXBFdTEtMEQ1aVppLXNsMUJtT0ppd0o4N1lmS2dMR1NpQy1CV1hzZDZyNnZkOU9ZMjBKUmtiOWxPMjNPLUhBUE5vWk1IaTRvMXpRZUE3MnQxWWc1RTRYN1dWall4dG14aERR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "68858376e68d",
+      "title": "Goa’s only unicorn working with WHO and Africa to combat Ebola outbreak - The Times of India",
+      "published": "2026-06-08T19:00:00+00:00",
+      "summary": "Goa’s only unicorn working with WHO and Africa to combat Ebola outbreak&nbsp;&nbsp;The Times of IndiaRoche develops RUO PCR assay to detect rare Ebola Bundibugyo virus&nbsp;&nbsp;YahooMolbio Diagnostics Deploys Decentralised Molecular Testing Solution to Support Ebola Outbreak Response in DRC and Uganda&nbsp;&nbsp;Sahyadri StartupsFrom Genome To RUO In Six Days: Roche’s Playbook For Rapid Outbreak Diagnostics&nbsp;&nbsp;Citeline News & InsightsRoche develops PCR test to detect the Ebola Bundibug",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNW4xU1V5Y29xUXV3eGpMdF9EVDlfZFBUN1ZIN0ZtcVR2R01penJ5dWhfSGIxanpCVU90Vk9MTFloWEdFcGJDT1RNQi04V25mNEV0amlOY0YybnRaakRscXRwbDZFZnhmWEZobEo0VElBVDBxNk1JcEhYRUFuc1RDeDFVX052N1JZZ1BmVHMxWW1TM1VQVUlMUjU0b2dRd2hhQjN2clFsN2psbU5Zc0JmRVlWdGR0eXFBMmg3Y2JkY24tUG5HYURzTEZMRVJ6SjByWFF0SjlmbzbSAd4BQVVfeXFMUDJyNUNZQ2Y5TjRCbk5EUWJfaERWOWRlTE1OUjktQlFXdWdCaDdsRURITVk4MElRMTZMNHo1V0ZMQlZ4cVY0azBrVGxWT0gyVDNRX1hwUmR3S29vMjZyU2xSN2Y0MGlqeUt5WHFTMlRQN0VGSzRKTXJEN3R6bjk3Z0QyYW5qQndBSFdNQmw1WGxBNW82LUUzWFFPbURrd1Q4VFh2TFhZWE82RGF1VDFTY083ZU91QVpkX0JNaktmc0FUUHVHQmFVck1mVTRNZXJtSTk4Rmdlb1g3bHJKYkdB?oc=5"
         }
       ]
     },
@@ -102,6 +174,18 @@
       ]
     },
     {
+      "id": "574b816787e3",
+      "title": "PMOS and the Politics of Women’s Health in Kashmir - Kashmir Observer",
+      "published": "2026-06-08T18:21:00+00:00",
+      "summary": "PMOS and the Politics of Women’s Health in Kashmir&nbsp;&nbsp;Kashmir ObserverYou’ve been lied to about PCOS. Its new name tries to correct that&nbsp;&nbsp;Scientific AmericanI Have PCOS, and Here's How I Feel About Its New Name&nbsp;&nbsp;PopsugarGarth Rattray | Rethink and rename ‘obesity’&nbsp;&nbsp;Jamaica GleanerPCOS has had a name change – but doctors are still falling behind in treating the hormone imbalance&nbsp;&nbsp;Yahoo Life UK",
+      "sources": [
+        {
+          "name": "Kashmir Observer",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOGpfVGI5dlF1dUpUdjJPR0tyMHBIUE5WeF9sQ0RMR2pLRnlaODhEWVUxdmtZWXBrM3IyN0NDUVZ4bGw0NWhJT3BJWEVuZUppaEhfXzV4LXVmQ1FZMzNvNDgyWTBaMFctN21QUHRMaUZxUFR3NGllWTJqbFV4V0FoNnZsbmYzTmp2TE11aEpQWEVlUzQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "96d788ba8195",
       "title": "AI and Physics Have More in Common Than You Might Think - Northeastern Global News",
       "published": "2026-06-08T18:11:22+00:00",
@@ -110,30 +194,6 @@
         {
           "name": "Northeastern Global News",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KdkkxZjNoaE9Pd1FRcUYtMWVBWTVrbGVmbHlWOGZSeHo0RnBtWkgxQWgwcC1qZnhoa2trc3dXNk1KNHlFVVNLc0hZUy1FUWQ1N1dPTFBJYXc1UURYTnVnRktaNlktcDRmOVJiZEk4a1JmTE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "acb43540f290",
-      "title": "AI-designed miniproteins unlock control of GPCR signaling - Drug Discovery News",
-      "published": "2026-06-08T17:32:33+00:00",
-      "summary": "AI-designed miniproteins unlock control of GPCR signaling&nbsp;&nbsp;Drug Discovery News",
-      "sources": [
-        {
-          "name": "Drug Discovery News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcGt1aEI4cXNaMGRJeE5faVByNTYzSk95cU5hR1pZVFMyTHY3c1AwX09OdGZMVWJoUk8zTmlCN1hJcEk4LWFNcnhzR0czOTdXVV9FcTdmcmtPWG5PMXFxWGUyLU4xSWE4MTFEVUgyOUZ3eExyeVpKWjJXTUpsNldacTVIQ1JqMS1CWDRGLVh3VVFYSjFpVXk3bW9kbEZRZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "15c0754025b3",
-      "title": "Postoperative delirium serves as strongest predictor of cognitive decline - News-Medical",
-      "published": "2026-06-08T17:01:00+00:00",
-      "summary": "Postoperative delirium serves as strongest predictor of cognitive decline&nbsp;&nbsp;News-MedicalDelirium after surgery is a strong predictor of cognitive decline in older adults&nbsp;&nbsp;Brown UniversitySurgery Linked to Slight Cognitive Decline in Older Adults&nbsp;&nbsp;MedscapeResearch Suggests Hidden EEG Signals Could Flag Delirium Risk in Seniors Undergoing Surgery&nbsp;&nbsp;Medical DialoguesPostoperative Delirium Stands Out as Major Predictor of Cognitive Decline&nbsp;&nbsp;Harvard Med",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMmtjQWVBcjJBaVpqa2ZwekI5NjY3ZzEzUEF1dTRueTBwZk5wWDFRN3ROcWY4VWsyeG14QmtMM2pndVozSERKZmxxeDI1d0Fpdl9OX2JHLXRNS3l6Z0RkS1l4dk1nTGNBeXZsTkJCUm5hVFMxMlVtQ3MwOExKZVl6TEFkZkNsZkRRV3h4TW9TS2t4VEoyT2NJRXMzQjhGaU5hTXZNdWNvdklqREU1aUZHUFpERlIyOE9pQ29obWJR?oc=5"
         }
       ]
     },
@@ -162,26 +222,14 @@
       ]
     },
     {
-      "id": "01104b863fe1",
-      "title": "Scientists reveal why laughing is good for brain health: ‘It’s a mental workout’ - Moneycontrol.com",
-      "published": "2026-06-08T14:51:24+00:00",
-      "summary": "Scientists reveal why laughing is good for brain health: ‘It’s a mental workout’&nbsp;&nbsp;Moneycontrol.comSee more headlines and perspectives on Google News",
+      "id": "47a5a47b2904",
+      "title": "Protecting heart health in an era of temperature extremes - Cornell Chronicle",
+      "published": "2026-06-08T13:36:10+00:00",
+      "summary": "Protecting heart health in an era of temperature extremes&nbsp;&nbsp;Cornell ChronicleSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdmhYeWg3SkJzRHc0UDI3UGRyY3JCWXN5X1AwN1NncEh6cnBhaVd6dU5UTWo0bDBVTFB2Y1N6bk4teDZtekZNclRGSEhXVFVFRGpzcXk1cnh1MmtucTNHT25OM2I5RHBQOU1saUZkSG1PUmlhRjBnUnJtbTdNaEdIdTI4UVpIV0NSQWswVi1uVFRiQURaODB3a0tJNXZUbnN2aGxjUWdVSm15OC1IQXpVLTlBTEREQ0U5dkg3TVFyYWtDaURjdmhKMWVuVFDSAdIBQVVfeXFMTkNqeUpXc3hZZndncktjeVQtUVFCSXFWR3JrZ2hvUWdacktIbFExYVJjd3N5OFVuSXdockVOMHJJZWhkdDV5b2c3TTROQzBVWWFFb2dhMllvbjZ6UnJOZzg4ZTBnX3FsNzAtX3V1dHdBdEVja0dicU1CcWp1a0xVM2R0RE16WHJMcTZpZ0dQNWNXZjcwMjg4WldjZGlMYkhsVGdyeUgwMlNKaWwwbmE5aTlySEN0cHBZUm5yNU5NTEZHNkdXdGJITVVVSWF6a3Z3ZVd3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "de873b94fe9e",
-      "title": "Discovery of quasar variability and early accretion disk signatures at cosmic dawn - Nature",
-      "published": "2026-06-08T14:15:00+00:00",
-      "summary": "Discovery of quasar variability and early accretion disk signatures at cosmic dawn&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsVXFWZjRxZGtQSWQ2MVRkVGlnR0N3ZXAwYmNlWW1FeHVNalV6UXVfNDdQdERhNnFSV1B5QjZ0MHdQSE9TYjc5VWstcnZfcDhfSlJTSVF2dThtLWZpNE1F?oc=5"
+          "name": "Cornell Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXR3cFdTZ05LcjZ0UUJpVmwwUzFLX3oxNHJhQ213UTRoYU0taUNuZmpvMENGNVVEeXdTbkQtVXdGN2laUkhid0NaUE5IcXRZa2NZMlhsOGpKbVdkVU01UkU4bDF5UjBZdnVhTGxLNGtZZl96MUV1dlVIMkl2b1VZNm9OX2Rtd25hR1dTRzRFQ0lxc28?oc=5"
         }
       ]
     },
@@ -201,7 +249,7 @@
       "id": "9ddc7dbda0c3",
       "title": "HIV Enters The Brain And Doesn't Leave - Paradoxically, Drugs Intended To Reduce Brain Inflammation Increase Virus Levels - NDTV",
       "published": "2026-06-08T13:21:21+00:00",
-      "summary": "HIV Enters The Brain And Doesn't Leave - Paradoxically, Drugs Intended To Reduce Brain Inflammation Increase Virus Levels&nbsp;&nbsp;NDTVThe Conversation: HIV enters the brain and doesn’t leave – paradoxically, drugs intended to reduce brain inflammation increase virus levels&nbsp;&nbsp;European AIDS Treatment GroupHIV enters the brain and doesn’t leave – paradoxically, drugs intended to reduce brain inflammation increase virus levels&nbsp;&nbsp;The Conversation",
+      "summary": "HIV Enters The Brain And Doesn't Leave - Paradoxically, Drugs Intended To Reduce Brain Inflammation Increase Virus Levels&nbsp;&nbsp;NDTVHIV enters the brain and doesn’t leave – paradoxically, drugs intended to reduce brain inflammation increase virus levels&nbsp;&nbsp;The Conversation",
       "sources": [
         {
           "name": "NDTV",
@@ -213,7 +261,7 @@
       "id": "de375d66c87c",
       "title": "The late-night eating habit that may throw your gut health into chaos - CNN",
       "published": "2026-06-08T13:00:07+00:00",
-      "summary": "The late-night eating habit that may throw your gut health into chaos&nbsp;&nbsp;CNNWhy eating in the middle of the night can be a gut punch: Newsroom&nbsp;&nbsp;UT Southwestern Medical CenterScientists Just Discovered What Happens to Your Gut When You Eat at 2 A.M.&nbsp;&nbsp;Men's JournalLate-night snacking is one of the biggest culprits for gut problems, warns gastroenterologist&nbsp;&nbsp;Moneycontrol.comLate-Night Stress Eating Can Make Your Gut Problems Even Worse&nbsp;&nbsp;Verywell Healt",
+      "summary": "The late-night eating habit that may throw your gut health into chaos&nbsp;&nbsp;CNNScientists Just Discovered What Happens to Your Gut When You Eat at 2 A.M.&nbsp;&nbsp;Men's JournalLate-night snacking is one of the biggest culprits for gut problems, warns gastroenterologist&nbsp;&nbsp;Moneycontrol.comLate-Night Stress Eating Can Make Your Gut Problems Even Worse&nbsp;&nbsp;Verywell HealthWhy Eating in the Middle of the Night Can Be a Gut Punch | Newswise&nbsp;&nbsp;Newswise",
       "sources": [
         {
           "name": "CNN",
@@ -225,7 +273,7 @@
       "id": "5aa5f01c2292",
       "title": "Defective HIV copies explain persistent viral traces during treatment - News-Medical",
       "published": "2026-06-08T12:42:00+00:00",
-      "summary": "Defective HIV copies explain persistent viral traces during treatment&nbsp;&nbsp;News-Medical5′ Leader Defects Fuel Persistent HIV-1 Viremia&nbsp;&nbsp;Bioengineer.orgWhy a Detectable HIV Test Result Can Mean the Virus Is Already Broken&nbsp;&nbsp;ScienceBlog.com5′ leader defects drive persistent HIV-1 viremia on long-term ART&nbsp;&nbsp;NatureMost cases of HIV persistence in blood following treatment explained by defective copies of the virus&nbsp;&nbsp;EurekAlert!",
+      "summary": "Defective HIV copies explain persistent viral traces during treatment&nbsp;&nbsp;News-Medical5′ leader defects drive persistent HIV-1 viremia on long-term ART&nbsp;&nbsp;NatureJohns Hopkins University: Study explains why HIV sometimes persists in blood post-treatment&nbsp;&nbsp;European AIDS Treatment GroupDefective HIV RNA Linked to Persistent Viremia During Long-Term ART&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsWhy a Detectable HIV Test Result Can Mean the Virus Is Already Broken&n",
       "sources": [
         {
           "name": "News-Medical",
@@ -237,7 +285,7 @@
       "id": "170258b5ec09",
       "title": "Atlantic “Cold Blob” highlights role of ocean circulation in climate change - Tech Explorist",
       "published": "2026-06-08T12:25:37+00:00",
-      "summary": "Atlantic “Cold Blob” highlights role of ocean circulation in climate change&nbsp;&nbsp;Tech ExploristMysterious ‘cold blob’ in the Atlantic suggests the AMOC is weakening&nbsp;&nbsp;New ScientistAtlantic alert: The mysterious ‘cold blob’ could signal a dangerous ocean tipping point&nbsp;&nbsp;The Times of IndiaAtlantic 'cold blob' caused by weakening ocean current system that's likely nearing a tipping point, reanalysis finds&nbsp;&nbsp;Phys.orgClimate researcher warns: Switzerland not prepared ",
+      "summary": "Atlantic “Cold Blob” highlights role of ocean circulation in climate change&nbsp;&nbsp;Tech ExploristAtlantic alert: The mysterious ‘cold blob’ could signal a dangerous ocean tipping point&nbsp;&nbsp;The Times of IndiaMysterious ‘cold blob’ in the Atlantic suggests the AMOC is weakening&nbsp;&nbsp;New ScientistAtlantic 'cold blob' caused by weakening ocean current system that's likely nearing a tipping point, reanalysis finds&nbsp;&nbsp;Phys.orgClimate researcher warns: Switzerland not prepared ",
       "sources": [
         {
           "name": "Tech Explorist",
@@ -249,7 +297,7 @@
       "id": "faebc0ce21fa",
       "title": "What Happens When You Eat Almonds Every Day? 10 Health Benefits Explained - News18",
       "published": "2026-06-08T12:24:10+00:00",
-      "summary": "What Happens When You Eat Almonds Every Day? 10 Health Benefits Explained&nbsp;&nbsp;News18Health benefits of almonds: These superfoods can boost brain function and metabolic health in prediabetic adults, says Delhi study&nbsp;&nbsp;FirstpostEating Almonds Daily Can Prevent Cognitive Decline In Prediabetic Adults&nbsp;&nbsp;Health and MeLiving with prediabetes? Research finds eating almonds can help boost memory and control blood sugar&nbsp;&nbsp;Moneycontrol.com",
+      "summary": "What Happens When You Eat Almonds Every Day? 10 Health Benefits Explained&nbsp;&nbsp;News18Health benefits of almonds: These superfoods can boost brain function and metabolic health in prediabetic adults, says Delhi study&nbsp;&nbsp;FirstpostLiving with prediabetes? Research finds eating almonds can help boost memory and control blood sugar&nbsp;&nbsp;Moneycontrol.com",
       "sources": [
         {
           "name": "News18",
@@ -261,23 +309,11 @@
       "id": "4bbecd7b3a81",
       "title": "Indian-Origin Researcher Helps Lead Breakthrough Pancreatic Cancer Drug Trial - The CSR Journal",
       "published": "2026-06-08T12:00:08+00:00",
-      "summary": "Indian-Origin Researcher Helps Lead Breakthrough Pancreatic Cancer Drug Trial&nbsp;&nbsp;The CSR JournalThe Guardian view on cancer treatments: new hope for patients now and in the future | Editorial&nbsp;&nbsp;The GuardianExclusive: Biggest Pancreatic Cancer Breakthrough In 50 Years, Says Indian Doctor, Co-Author Of Global Clinical Trial&nbsp;&nbsp;NDTVA new pancreatic cancer drug is changing survival rates for one of the deadliest cancers&nbsp;&nbsp;UCHealthWhy Revolution Medicines (RVMD) Is D",
+      "summary": "Indian-Origin Researcher Helps Lead Breakthrough Pancreatic Cancer Drug Trial&nbsp;&nbsp;The CSR JournalThe Guardian view on cancer treatments: new hope for patients now and in the future | Editorial&nbsp;&nbsp;The GuardianWhy Revolution Medicines (RVMD) Is Down 8.8% After Phase 3 Daraxonrasib Pancreatic Cancer Survival Data Release And What's Next&nbsp;&nbsp;simplywall.stDaily pill doubles survival time for pancreatic cancer patients&nbsp;&nbsp;BBCIndian-origin researcher on pancreatic cancer b",
       "sources": [
         {
           "name": "The CSR Journal",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0lHTnRIRXIzZDRBSjdrMFJqMmV6emdLSUYtNmd4YU9zQ3VsY1B1QXNTRkFhakJfb3BOd1FkXzE1X200azJnVG1iZkRsSlpzNVpUNzhRMTE2cEV3Vjg5a3dzZzlkRGg1d1gxSTN6Tm5ySnk0M1ZWQ0JUVUZLUThrU3FZVVdOMkVCdWEwelNwWkVZTnhycGF3Si1QZXVSdDZSeG5ONjZ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2637a7c4d0dd",
-      "title": "Brain Tumour Survivors Show Immense Resilience After Treatment, Neurologist Reveals - NDTV",
-      "published": "2026-06-08T11:51:48+00:00",
-      "summary": "Brain Tumour Survivors Show Immense Resilience After Treatment, Neurologist Reveals&nbsp;&nbsp;NDTVSome headaches need more than a painkiller: when you need to see a doctor&nbsp;&nbsp;The HinduWorld Brain Tumour Day: Headaches, Seizures And More, Warning Signs You Shouldn't Ignore&nbsp;&nbsp;NDTVWorld Brain Tumour Day: Can your lifestyle really influence brain health and tumour risk?&nbsp;&nbsp;The Times of IndiaWorld Brain Tumour Day 2026: Doctors explain the early symptoms many people miss&nbs",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbl9Fdk4zUlc1SGxudGtOTmhLSFlMZjRsam5XcnNRWDlPQWluSDV1eUhaUkxXQm84c0R3XzQxNFM2by1JaERvS0Z3S1JfTDJoVkJoNFh3NHVDTDVUa1FOM0dFV0I2YkUzcnN2ekI0dmc5Sks3cS1JMlh3MW1hNHVfZGk0N1pzcGZuVGkzZmdEQTN1X3h1dzJRNE9sZFY5UGJiRy03LUJyTW9oWFlOa2FFYjcyMjdPSVo1NVBOSHFBMmh5S0ZZOEVILUJIUEhTM0HSAdcBQVVfeXFMUEhjSDJHQzhNcG1zYzFsRmhSYUp5UW5zdGRRMFdORkxBRVQ4OEs4MVd4UVhqQllwOFFxUmNLbld2bHUtQTdfeTFaZW1Xdk9rRzJEdGljUjM3R2RLaFNYaGYxbmtlQllYcmJMdV9lUDFKVXhJc2lXbjJydkdGUkhEVEpDb2V0OTg4TF9Ib2ZST0pJWktjUDVOZVhmMDM0N1IwaDc4MEFfQkhweWZ0Z1FkdTFtTi1oWnZjRmlNeS1lZERtN2N0TVpfWVZyLW45QXpoZGFGb3k3ZzQ?oc=5"
         }
       ]
     },
@@ -294,22 +330,10 @@
       ]
     },
     {
-      "id": "27b2e3b4b105",
-      "title": "World’s first AI-Designed Vaccine Successfully Tested in Humans - BioTecNika",
-      "published": "2026-06-08T11:45:29+00:00",
-      "summary": "World’s first AI-Designed Vaccine Successfully Tested in Humans&nbsp;&nbsp;BioTecNika'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCBreakthrough: Universal Coronavirus Vaccine Designed By AI Passes Human Trial&nbsp;&nbsp;NDTVResearchers Are Using AI to Create Vaccines—and It’s Working&nbsp;&nbsp;GizmodoEditorial: Skepticism—and success—matters on AI and vaccines&nbsp;&nbsp;C&amp;EN",
-      "sources": [
-        {
-          "name": "BioTecNika",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeV9oazFfZ3FwRzZiajQ2eENnRjNEc21pbm8tWUFGcU9lZFFzTWdOSWdVZUcwMzUxQ1N0aFdqS0ZBMVJWa3JCNl90cUhROWJTM1Fvd1k3R2tjeE9yVEpSZ2FRX3k1cWdFWnVLTGpKc05wT29zbWxueTgtbkJUYWlUZi16UnZBMVY5WlF6SlFGcnZUSzZzUUktN05CZmlVWFXSAaQBQVVfeXFMT3FCdF9XM3FDRTZEcUtsWmQ2SG1xTC1PZnotNEZRV1JDaV9YVHpVRGlCdnF0ekJyR2V4WFNad2szSkZYMDJoVVFxU0lSQjBhZmVyS2g2M3h4bWJoVTJoSHVrSS1PcGxPQUlDTnhxQTE3UU1yU2JRaFgwQlYxVE9pc3BHMW83dERGSXgzRmxDRHh1WEJLOFFDcTEzNlNoaWhwY2lhaF8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9af70697ba56",
       "title": "Why are so many young people getting cancer? What researchers do and don't know - Nature",
       "published": "2026-06-08T11:41:35+00:00",
-      "summary": "Why are so many young people getting cancer? What researchers do and don't know&nbsp;&nbsp;NatureCancer before 50? Why doctors are concerned about the rise in early-onset cases&nbsp;&nbsp;The Times of IndiaAIIMS-trained gastroenterologist shares 6 reasons for the rise in colon cancer cases in young women in their 30s&nbsp;&nbsp;Hindustan TimesCRC in 2026: Younger Patients, Rising Mortality, and Persistent Gaps&nbsp;&nbsp;Gastroenterology & Endoscopy NewsYoung colon cancer linked to specific fats",
+      "summary": "Why are so many young people getting cancer? What researchers do and don't know&nbsp;&nbsp;NatureCancer before 50? Why doctors are concerned about the rise in early-onset cases&nbsp;&nbsp;The Times of IndiaToo young for cancer, too alone to face it: Michele Seyranian&nbsp;&nbsp;Cleveland.comA Rare Cancer Is Surging in Young People, And Experts Don't Know Why&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
           "name": "Nature",
@@ -321,7 +345,7 @@
       "id": "7e92b5e89215",
       "title": "Super Typhoon Sinlaku reached the edge of space: NASA captures astonishing atmospheric ripples - The Times of India",
       "published": "2026-06-08T11:30:00+00:00",
-      "summary": "Super Typhoon Sinlaku reached the edge of space: NASA captures astonishing atmospheric ripples&nbsp;&nbsp;The Times of IndiaSuper Typhoon disturbed the atmosphere almost to the edge of space&nbsp;&nbsp;Universe Space TechSee the Gravity Waves from a Super Typhoon&nbsp;&nbsp;YahooSuper Typhoon Sinlaku triggered atmospheric gravity waves visible from space&nbsp;&nbsp;ScienceDailyLook What NASA Captured in Satellite Images as This Bizarre Phenomenon Erupted from the Heart of a Super Typhoon&nbsp;&n",
+      "summary": "Super Typhoon Sinlaku reached the edge of space: NASA captures astonishing atmospheric ripples&nbsp;&nbsp;The Times of IndiaSee the Gravity Waves from a Super Typhoon&nbsp;&nbsp;YahooSuper Typhoon Sinlaku triggered atmospheric gravity waves visible from space&nbsp;&nbsp;ScienceDailyLook What NASA Captured in Satellite Images as This Bizarre Phenomenon Erupted from the Heart of a Super Typhoon&nbsp;&nbsp;The DebriefSuper Typhoon Sinlaku created giant atmospheric ripples&nbsp;&nbsp;Tech Explorist",
       "sources": [
         {
           "name": "The Times of India",
@@ -330,26 +354,26 @@
       ]
     },
     {
-      "id": "197e9681f887",
-      "title": "Strange Stars Look Suspiciously Like They've Been Eating Planets - ScienceAlert",
-      "published": "2026-06-08T11:03:58+00:00",
-      "summary": "Strange Stars Look Suspiciously Like They've Been Eating Planets&nbsp;&nbsp;ScienceAlertA star in a binary system may have swallowed its planet&nbsp;&nbsp;Universe Space TechStudy suggests star may have engulfed its own planets | HD 81809 is 90 to 101 light-years from Earth | Inshorts&nbsp;&nbsp;InshortsStar suspected of eating its own planets in nearby system as astronomers find evidence&nbsp;&nbsp;Interesting Engineering🪐 Red dwarfs with chocolate around their mouths: they devour their planets",
+      "id": "7b740a5a9215",
+      "title": "Why Brain Tumours Are Often Diagnosed Late In India: Symptoms People Commonly Ignore : Dr. Raghuram Gopalakrishnan, Director & Senior Consultant, Head Of Stereotactic And Functional Neurosurgery, KIMS Hospitals, Mahadevapura, Bengaluru. - TRIPURA STAR NEWS",
+      "published": "2026-06-08T11:13:42+00:00",
+      "summary": "Why Brain Tumours Are Often Diagnosed Late In India: Symptoms People Commonly Ignore : Dr. Raghuram Gopalakrishnan, Director & Senior Consultant, Head Of Stereotactic And Functional Neurosurgery, KIMS Hospitals, Mahadevapura, Bengaluru.&nbsp;&nbsp;TRIPURA STAR NEWSSome headaches need more than a painkiller: when you need to see a doctor&nbsp;&nbsp;The HinduWorld Brain Tumour Day: Headaches, Seizures And More, Warning Signs You Shouldn't Ignore&nbsp;&nbsp;NDTVNeurologist says it’s not just a head",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnNUYmpndDNMcFo1UGdHT2owc0lYQVhwZkYwNmcyVXRtVW82RDJWU2RCa202VHRXR0lLY2FqSzBXeVM1M3dIVzN6WW1lYzQtamkwZ1B3WWVhZWNPTmtpQjFRRE1XektpTmsxTFZ3bjVEbzlST1ZlQUdoaVFtUE5vcXAyRWVPNjNVdDRwa2JCbVpwMGxseW5n?oc=5"
+          "name": "TRIPURA STAR NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNWHFxNS1nMnZ5ZGRBTlhmcUF1N3FKcWFhc2N6Ym9lN3hCeVFRQjJLdEZiSEJUN1J6TmtkSk1aMTlhZjZydVdHa3RlYXZBMVRpeTZSdUUxNlRteTBPeHo0NG1qUGY3MkJ3blNxWnNzakZUNVRlWng5NlUtSVV0YU90MkFlNm5HM2FzQVIyaVhRRm9lM21LSkJ2X2FLRmlYZHNyMmlLVlZibWVOMnJtTDF2XzNvN1JpQmtjMDFGd281aEw4OVA3QXd0eGtMVjAybWZwME51WUJXQktVb0JMaDNST2RidWQ0T3NMZHUyZ0ZnM0hLUXF6WHJiN1V3ZTR3MS1nWnc0ZGZ0YUpHeFhXekRJMDBkMnp2c3paOHpvTzdCSmxLbDlXcVAyQzBiQ1VPbWNRWkw5TTA0OEZhTHFEMWUyMQ?oc=5"
         }
       ]
     },
     {
-      "id": "017ff46be310",
-      "title": "Mariska Hargitay Partners with Bristol Myers Squibb for “Investigating Myeloma” Awareness Campaign to Honor Her Father 20 Years After Losing Him to the Disease - Business Wire",
-      "published": "2026-06-08T10:59:00+00:00",
-      "summary": "Mariska Hargitay Partners with Bristol Myers Squibb for “Investigating Myeloma” Awareness Campaign to Honor Her Father 20 Years After Losing Him to the Disease&nbsp;&nbsp;Business WireSee more headlines and perspectives on Google News",
+      "id": "197e9681f887",
+      "title": "Strange Stars Look Suspiciously Like They've Been Eating Planets - ScienceAlert",
+      "published": "2026-06-08T11:03:58+00:00",
+      "summary": "Strange Stars Look Suspiciously Like They've Been Eating Planets&nbsp;&nbsp;ScienceAlertA star in a binary system may have swallowed its planet&nbsp;&nbsp;Universe Space TechStudy suggests star may have engulfed its own planets | HD 81809 is 90 to 101 light-years from Earth | Inshorts&nbsp;&nbsp;InshortsStar suspected of eating its own planets in nearby system as astronomers find evidence&nbsp;&nbsp;Interesting EngineeringSix red dwarf stars ate rocky worlds like Earth. The 'fingerprints' expose",
       "sources": [
         {
-          "name": "Business Wire",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOUlZOME1QU0syZUMxQUlrSndpMDlmbHpPRzJzRjU1aC1fbnUyRWhsUmNsOEt5bkNMc1h1c3piX1RPYkxDTFI3TzczWXhFYll6U1pvZ1VUcGc4WS01RnU2a1JFTzVuNFV0OTFIQ3E1R2lnQVRyQzZTVzdyalF6bkVhVDloYTV5Ul9lWXBud0o3WWI1LU5Pd3V3OWozdldzanpkaWgya1dnTExmNXJ4eWdJU3ZwTkxpVlVFWUd1cFJqQ3pHWkFkeXB6a3Vlc3hpYmVpcTlXZFZpZ2o5WF85b2I1V3pGVXNTYXI5MnRYV1NWdlgzNE5NTVRtdFZyRHB2azM0NWcyWDhRNWVDYWNoWGVzNENXcUs4bll1MlRJbVdjd1c5LU9PRTZJZTVtTXZZRTNJUzZmVURTMGlaQQ?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnNUYmpndDNMcFo1UGdHT2owc0lYQVhwZkYwNmcyVXRtVW82RDJWU2RCa202VHRXR0lLY2FqSzBXeVM1M3dIVzN6WW1lYzQtamkwZ1B3WWVhZWNPTmtpQjFRRE1XektpTmsxTFZ3bjVEbzlST1ZlQUdoaVFtUE5vcXAyRWVPNjNVdDRwa2JCbVpwMGxseW5n?oc=5"
         }
       ]
     },
@@ -362,18 +386,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uWVNYcEs0YUg4TENWaTh2NEZ0LUFaQ0VxRzEtYkdKRlJZWEFmMV9Bb1U1YkcwYldQR19nRXVJMTl1T3JvWHQtLWJ5X3lfNWI0cmFmOGIzd0VBZ3NGQVdV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8b9fa17ee76",
-      "title": "PCOS is now being called PMOS - And it changes how we understand women’s health - Mathrubhumi English",
-      "published": "2026-06-08T09:56:17+00:00",
-      "summary": "PCOS is now being called PMOS - And it changes how we understand women’s health&nbsp;&nbsp;Mathrubhumi EnglishYou’ve been lied to about PCOS. Its new name tries to correct that&nbsp;&nbsp;Scientific AmericanI Have PCOS, and Here's How I Feel About Its New Name&nbsp;&nbsp;PopsugarGarth Rattray | Rethink and rename ‘obesity’&nbsp;&nbsp;Jamaica GleanerFrom $13,000 to $20 million: how a PCOS diagnosis and a pair of scissors built Xali Organics&nbsp;&nbsp;Business News Australia",
-      "sources": [
-        {
-          "name": "Mathrubhumi English",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnVmeEZKbFhkclR3V0NhVmlxWTJDd3ZRRUxNN192WlJkOXF4aFBxQUQwTGlLN2JiRW9LMUVCbTk1WUxVOGRKb1JrRl9pODE1SF9Gam5TcWxEek5aSHY4d2dfOGR4UDFJSi12Y1pMR1N1MUpoUEdNZlgzakNnTjlwdkR0enJoTGpXUDdGbnJzTnFFTWFyYnNn0gGcAUFVX3lxTE40czVfb0hZeUNZRHpRQ0xoczhiYXFSMWltS2hYQy1hYnVrUEVfZTVUVHNmeXhYZW1ITmhCUXBTSEtpaFhyVldsS0kyYnY1UXB3X2lGaXk1cjNvQ2Q1ZXprRWY1UkI1Y210VWJlb2FKMHZmNGtvaW9SRkEwTU02WG05YzBBclpYVEpmREl1NGo5ejlfOTNxV0s2bHhucA?oc=5"
         }
       ]
     },
@@ -393,7 +405,7 @@
       "id": "8dee74dccfba",
       "title": "Mental disorders nearly double globally, adolescents and women most affected - theweek.in",
       "published": "2026-06-08T09:51:36+00:00",
-      "summary": "Mental disorders nearly double globally, adolescents and women most affected&nbsp;&nbsp;theweek.inThe anxious generation: Nervous is the new normal – 7 June 2026&nbsp;&nbsp;heraldgoa.inMedical Bulletin 1/June/2026&nbsp;&nbsp;Medical DialoguesThe Billion-Person Burden: How A Generation Fell To Depression&nbsp;&nbsp;BBN TimesRFK Jr. Psych Backlash; 1.2 Billion With Mental Disorders; Schizophrenia Commission&nbsp;&nbsp;MedPage Today",
+      "summary": "Mental disorders nearly double globally, adolescents and women most affected&nbsp;&nbsp;theweek.inThe anxious generation: Nervous is the new normal – 7 June 2026&nbsp;&nbsp;heraldgoa.inMedical Bulletin 1/June/2026&nbsp;&nbsp;Medical DialoguesRFK Jr. Psych Backlash; 1.2 Billion With Mental Disorders; Schizophrenia Commission&nbsp;&nbsp;MedPage TodayMental health crisis spinning out of control&nbsp;&nbsp;The Jerusalem Post",
       "sources": [
         {
           "name": "theweek.in",
@@ -417,35 +429,11 @@
       "id": "dd344f06068d",
       "title": "Reduced blinking while using screens can lead to long-term eye issues: Experts - connectedtoindia.com",
       "published": "2026-06-08T09:27:38+00:00",
-      "summary": "Reduced blinking while using screens can lead to long-term eye issues: Experts&nbsp;&nbsp;connectedtoindia.comComputer Vision Syndrome Impairs Visual Quality, Suggests Study&nbsp;&nbsp;Medical DialoguesWhy your eyes feel dry, red and tired — The surprising reason may shock you&nbsp;&nbsp;Northeast HeraldFrom students to older adults, India’s screen addiction is taking toll on eye health&nbsp;&nbsp;The South FirstJust 15 Minutes on Your Phone in the Dark Can Damage Your Eyes&nbsp;&nbsp;Seoul Econ",
+      "summary": "Reduced blinking while using screens can lead to long-term eye issues: Experts&nbsp;&nbsp;connectedtoindia.comComputer Vision Syndrome Impairs Visual Quality, Suggests Study&nbsp;&nbsp;Medical DialoguesWhy your eyes feel dry, red and tired — The surprising reason may shock you&nbsp;&nbsp;Northeast HeraldFrom students to older adults, India’s screen addiction is taking toll on eye health&nbsp;&nbsp;The South FirstHow Reduced Blinking Is Affecting Eye Health In The Digital Age&nbsp;&nbsp;indica Ne",
       "sources": [
         {
           "name": "connectedtoindia.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmpCbXJvSi1KWURURUxZUE9mWUV1bHN3NHoyMzdsVTlqcHRLUWZwazNSb3lUTERSampSVGpkZzcybzBVQ2I1RFo5TjByUVJwX0dnY3d6NGsxZGYwTUVNVXdXbmFpb0ZBRlNYN3VEYU1jZ1ZGRDFhc2p3dExQYzg4MVl0cHM1cDg3UnYySldFQ1U3R0RDYzVoUzZpY2U0VEpyTktvVjV4UlhNaDdpMkZfWA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f34a1487d6da",
-      "title": "Scientists discover vast geological structure hidden beneath Antarctica's ice - WION",
-      "published": "2026-06-08T08:40:00+00:00",
-      "summary": "Scientists discover vast geological structure hidden beneath Antarctica's ice&nbsp;&nbsp;WIONA fan-shaped subglacial basin province in East Antarctica formed by rotational extension&nbsp;&nbsp;NatureScientists discover vast hidden structure beneath Antarctica’s ice&nbsp;&nbsp;ScienceDailyA Swedish research robot submarine detects unknown structures beneath Antarctica’s Dotson Ice Shelf, and the find suggests ice shelf’s underside is more complex than expected&nbsp;&nbsp;The Times of IndiaUnlocki",
-      "sources": [
-        {
-          "name": "WION",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVm5tU2dXVXNOM2ZGNVVPR3VSM2tiZmJiRUpqZVE3ckE1TnlKUkVsTG96VUVEdE1lUnZmanZZMVdKN0VJbFN6X3B3dnhZQ256c1JneF9EWWR5aC1sNTJJNjVjV0FuX2xFa0VtT1AxTEZsbmlZRlQ1bDljSno0Q0o2NUM4dXBRQkVkQmV6ZlI4STFkUUpCaHkxdTh6YWhjU3hFa3VKSG9hLXBvdXNzVk5hN2k2aTlGbzJKV3BiRUhvTDl0Z9IBxwFBVV95cUxOMGlTTjQ5X2hWOEpzQno0alBMT2drOXpWU0xYcDg0RG9UUzF4Rjd6c1hxZ0dWUUR2OVFsRFQwdEMtQ29rZU5ERzBVYWxOLTgydVpPYS1idXZMR3pYRk52MjFmT2xJUjhaSnN5WnVXaDg4YnFqcXdKUVBFMGlUaWREZXg2M2E0Vk9ISW5JVVc0dVJGMDJWNHZmLTUzdUtGMXpHMWp4bnBMT2NBWnFtTlRiRzlTWFg0Q3JHc0xWRTVydHBoLWhDY2Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4d06bbe020ee",
-      "title": "Ebola cases top 500 in DR Congo amid spread warning - chinadailyasia.com",
-      "published": "2026-06-08T08:36:07+00:00",
-      "summary": "Ebola cases top 500 in DR Congo amid spread warning&nbsp;&nbsp;chinadailyasia.comAfrica CDC and WHO launch joint continental Ebola response plan&nbsp;&nbsp;World Health Organization (WHO)WHO chief visits Ebola-hit Uganda&nbsp;&nbsp;The HinduWHO chief lauds Uganda’s response to Ebola outbreak&nbsp;&nbsp;Al JazeeraWHO’s Tedros says Uganda should reconsider Congo border closure over Ebola&nbsp;&nbsp;ThePrint",
-      "sources": [
-        {
-          "name": "chinadailyasia.com",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iMTFVUi1uUmZ6NTRUeHNUS1B3NWwwRmlPd3JiYS0zTjdIUDE1WmppZS14MHd5THpXcWk3N0pfeXU3dk9wZjlRTmhEeGhoYUNkeUhvNmZGVGw?oc=5"
         }
       ]
     },
@@ -465,7 +453,7 @@
       "id": "95eed5ddb23e",
       "title": "Not the Sun, but Jupiter? NASA-backed study suggests life on Earth may never have happened without Jupite - The Times of India",
       "published": "2026-06-08T08:20:00+00:00",
-      "summary": "Not the Sun, but Jupiter? NASA-backed study suggests life on Earth may never have happened without Jupite&nbsp;&nbsp;The Times of IndiaStudy Reveals Earth's Life-Supporting Ingredients Came From Inner Solar System&nbsp;&nbsp;NDTVLife on Earth came from inner solar system, finds study | The study was published in Science Advances | Inshorts&nbsp;&nbsp;InshortsEarth became habitable thanks to Jupiter&nbsp;&nbsp;Universe Space TechIron meteorites unlock secrets of the early solar system and Earth’s",
+      "summary": "Not the Sun, but Jupiter? NASA-backed study suggests life on Earth may never have happened without Jupite&nbsp;&nbsp;The Times of IndiaStudy Reveals Earth's Life-Supporting Ingredients Came From Inner Solar System&nbsp;&nbsp;NDTVLife on Earth came from inner solar system, finds study | The study was published in Science Advances | Inshorts&nbsp;&nbsp;InshortsEarth became habitable thanks to Jupiter&nbsp;&nbsp;Universe Space TechNASA Finds New Way Earth May Have Received Elements Needed for Life&",
       "sources": [
         {
           "name": "The Times of India",
@@ -477,7 +465,7 @@
       "id": "da328c1fbe08",
       "title": "Chemical impurities make carbon surfaces superslippery - Asia Research News |",
       "published": "2026-06-08T08:19:20+00:00",
-      "summary": "Chemical impurities make carbon surfaces superslippery&nbsp;&nbsp;Asia Research News |Impurities Enable Carbon Superlubricity&nbsp;&nbsp;Scientific FrontlineChemical Impurities Reduce Friction on Amorphous Carbon Surfaces&nbsp;&nbsp;geneonline.comChemical Impurities Turn Carbon Surfaces Super-Slippery&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Chemical impurities make carbon surfaces superslippery&nbsp;&nbsp;Asia Research News |Chemical Impurities Reduce Friction on Amorphous Carbon Surfaces&nbsp;&nbsp;geneonline.comChemical Impurities Turn Carbon Surfaces Super-Slippery&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Asia Research News |",
@@ -510,6 +498,30 @@
       ]
     },
     {
+      "id": "d08d119ddf6e",
+      "title": "Ebola outbreak could exceed 20,000 cases, CDC warns - africanews.com",
+      "published": "2026-06-08T06:40:14+00:00",
+      "summary": "Ebola outbreak could exceed 20,000 cases, CDC warns&nbsp;&nbsp;africanews.comEbola spread in central Africa could match 2014 record outbreak, US health officials say&nbsp;&nbsp;The GuardianEbola outbreak in DR Congo could reach West Africa epidemic scale, CDC modelling shows&nbsp;&nbsp;itij.comBundibugyo Ebola Outbreak: Cases May Exceed 20,000 - CDC&nbsp;&nbsp;OC AcademyFormer CDC Director Tom Frieden Calls for International Response to Ebola Outbreak&nbsp;&nbsp;geneonline.com",
+      "sources": [
+        {
+          "name": "africanews.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQk1VMjZoMkl4Vy1fd1VlMDNBQmlMdnREdmk5eVN6Wm9SbC1WamtvV1hYaHB3eFRYNUpFTlllR3ozVUNxUjVrMHF0SktRT2lyUVNERFUyTG5NTzFsVERWaG0tT3pyNi10TVU0OFltMkl4d0tseTJIREFCc0p2SzJvckgzN3lCVFFBNHVMUGFTeEJXQdIBlwFBVV95cUxQNzNnNktTTHREYndYejhOUEllNlphVndqVXBnaWIxMFpacTBfNUdMdHk2UVFOWnBfTTM5QlhiQjg3dTFqTzVzSUZ5bkJTU05ZNjh4Wm5rejg0dnJWbDUxN2htUC1iTFcwRGZnNVBMTVRFdEoxNEJ3bDYzdUZqeEs1QjZyQXBnNzRpN24xTXhKNXI1N2hZdlRn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bac63fe59e53",
+      "title": "Memory begins in the belly - Metro Vaartha",
+      "published": "2026-06-08T06:31:44+00:00",
+      "summary": "Memory begins in the belly&nbsp;&nbsp;Metro VaarthaThe Probiotic Breakthrough for Natural Anxiety Relief and Better Mental Health&nbsp;&nbsp;SciTechDailyQuickCheck: Is it true that your gut bacteria can actually influence your mood?&nbsp;&nbsp;thestar.com.myEarly-Life Stress Raises Gastrointestinal Disease Risk&nbsp;&nbsp;MedscapeLC-MS Links Gut Metabolites to Anxiety Therapy&nbsp;&nbsp;Chromatography Online",
+      "sources": [
+        {
+          "name": "Metro Vaartha",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KanNyOXdZcDllRTdKaVAtU2lyamRRWVVUMlJSQzJDWm1VUjlwSnVlNl9WemZfbjNwLXQ5M2kwZkZWanhjenN3cnpXYWpVMHNGblJnTEZseWFRU2ZEdEJxUm9OTGhTSER1aUplcVFJZ0VXMWlBSzF4MHdnQ0I1QdIBiwFBVV95cUxOdDFuZEtLRGtadklERDRaM0gxa2xMOXlkWC16T1ZUeG1QRFYwV0xRV3hGOWd4QXlMcmdXWnZOSHo0VmVEVFdGT1A1dUlRWUcwem1MSWZqQ2NQWnpNUko2RUhWeWMybC1ZOXBJOTM5WktJNVhzY2V5RHQ2ZWtyeEhHRjkyZDBITm92VUR3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "eafda5ee8064",
       "title": "Octopuses can use mirrors to locate food: Study - The Tribune",
       "published": "2026-06-08T06:19:59+00:00",
@@ -525,7 +537,7 @@
       "id": "fa42f3669e12",
       "title": "Short read: Debugging: Google requests permission to release 32m mosquitoes in California and Florida - marcellus.in",
       "published": "2026-06-08T05:43:18+00:00",
-      "summary": "Short read: Debugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;marcellus.inDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianGoogle is planning to release 32 million mosquitoes infected with Wolbachia bacteria across Florida and California&nbsp;&nbsp;The Times of IndiaQuick Take | Battle of bugs&nbsp;&nbsp;The New Indian ExpressDengue Is No Longer Just A Travel Risk — What Google’s Mo",
+      "summary": "Short read: Debugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;marcellus.inDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianQuick Take | Battle of bugs&nbsp;&nbsp;The New Indian ExpressGoogle mosquito army: Scientists say 'we must take action'&nbsp;&nbsp;dw.comDengue Is No Longer Just A Travel Risk — What Google’s Mosquito Plan Could Mean For Your Summer&nbsp;&nbsp;Optometry Advisor",
       "sources": [
         {
           "name": "marcellus.in",
@@ -534,34 +546,10 @@
       ]
     },
     {
-      "id": "7cfbb882a03c",
-      "title": "Irreversible nerve damage could be reversed, says University of Cambridge model - Healthcare Today",
-      "published": "2026-06-08T05:42:21+00:00",
-      "summary": "Irreversible nerve damage could be reversed, says University of Cambridge model&nbsp;&nbsp;Healthcare TodayScientists used a contraceptive drug to grow a tiny spinal cord circuit restart nerve repair&nbsp;&nbsp;ZME ScienceLab-Grown Brains Could One Day Help Reawaken Nerve Regeneration&nbsp;&nbsp;Discover MagazineCambridge Scientists Just Reversed a Form of Nerve Damage Once Thought Permanent&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "Healthcare Today",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNazFjd0RHTjc1WUc5VlhLNllQZk1raDd6XzhRal9qTDFJb3l4WTRRX2RfNGRLMGE2WmdtMFlhaV9aUEJJZ0ZUaFdaVTIzNXc1OVZlSGRrbE9KV1d0YUNJd3g2SlkzQXk3emdNYVM5blRYSzRnUFJNWUt5TS1maDJLd20yVC1HclpfU0xYZmgzb2R1NHRwR0ZNX1Y2NDBqSUpUVjdNTDBDMWdWZXd3djUwSTk1RlQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2b117c0eafb7",
-      "title": "Lung Cancer Risk May Be Detected With Blood Marker 5 Years In Advance, Australian Study Finds - Health and Me",
-      "published": "2026-06-08T01:30:00+00:00",
-      "summary": "Lung Cancer Risk May Be Detected With Blood Marker 5 Years In Advance, Australian Study Finds&nbsp;&nbsp;Health and MeScientists Find Blood Marker That Predicts Lung Cancer Five Years Early&nbsp;&nbsp;NDTVLung cancer: a scan that detects early and an injection that may prevent it&nbsp;&nbsp;The HinduInternational Study Reveals How Air Pollution and Smoke \"Awaken\" Dormant Cancer Mutations&nbsp;&nbsp;QRNewsYan Leyfman: A Promising Step Toward Lung Cancer Interception&nbsp;&nbsp;Oncodaily",
-      "sources": [
-        {
-          "name": "Health and Me",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMUJqZGpYZTF4TEJZSjZRNFUtNWlTNmkzdXBRcXRrMExhRGdxWVpSV0RmeGZjdzVJVEVMbTA2djc0aUw0ckJXNGFzNDVYU00yVUc0dGpDUWE5VmR6Y3RzTGRsWHM2MGdRVEpabUpqWFJVV3FHeHZiTFo2Wm9hYXRqQ2Y5YnZUWjJONVdDVDlpbHI0c2tjanJueDMzbGxId1l3anhWSUJxeC1UNkhwZDQ1bnUydWZKOFh4eFRrd2NYbHEtT3Y0RENEdFpQUmZFZEItM29EVUFfY1JVajFGekZaUkNCalp2dGVIelE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "027927b083bc",
       "title": "Getting AI to sniff out Alzheimer’s early - BusinessLine",
       "published": "2026-06-08T01:13:00+00:00",
-      "summary": "Getting AI to sniff out Alzheimer’s early&nbsp;&nbsp;BusinessLineA blood test may help detect Alzheimer’s disease years before cognitive symptoms appear&nbsp;&nbsp;The Straits TimesUPMC, Pitt develop new test to help detect Alzheimer's with greater accuracy&nbsp;&nbsp;WTAELike a car, your brain’s mileage matters. Unlike a car, you can wind it back&nbsp;&nbsp;South China Morning PostAlzheimer’s disease blood tests: Help or hype?&nbsp;&nbsp;MercyOne",
+      "summary": "Getting AI to sniff out Alzheimer’s early&nbsp;&nbsp;BusinessLineUPMC, Pitt develop new test to help detect Alzheimer's with greater accuracy&nbsp;&nbsp;WTAELike a car, your brain’s mileage matters. Unlike a car, you can wind it back&nbsp;&nbsp;South China Morning PostBlood test may pinpoint best time to start Alzheimer’s treatment: study&nbsp;&nbsp;koreabiomed.comAlzheimer’s disease blood tests: Help or hype?&nbsp;&nbsp;MercyOne",
       "sources": [
         {
           "name": "BusinessLine",
@@ -582,18 +570,6 @@
       ]
     },
     {
-      "id": "0c9cbae6a895",
-      "title": "Some Australian Aboriginal stories may remember coastlines that vanished beneath the sea over 10,000 years ago. Researchers think they could be among humanity’s oldest surviving true stories. - Space Daily",
-      "published": "2026-06-07T19:33:30+00:00",
-      "summary": "Some Australian Aboriginal stories may remember coastlines that vanished beneath the sea over 10,000 years ago. Researchers think they could be among humanity’s oldest surviving true stories.&nbsp;&nbsp;Space Daily",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOdjIyMWZ1MW5ueXNPM2JGYXVOT0xmS3JacG1iX2FpSE9Sc2IyUFlRaWp4SFd3R3BDN2lZRHJvWU5pWXBwdDFpczJwbmQ2NkZUT01nam5OaHhkUDVvdDRZVGQ2VS1scTR6eHVGNDFHVlNMVkh1M2tMaTdoYkRKaWtaNXJhS2JVZFBLcFVGWUlXb25hUkFRZ0ZfcmZIM25RWmZfUFg0TTZtaHlvMVJubHRXN0FMNkQybjVJODFmdWpEYXRJMGZuQ0tpcHYxb1FpNnhGYjMweGNJMWkzVFgtaUlwblB0U002NFhXS0x2Si14dUVESC0xMlJZd2VQVzd0WkhKdjl3Ui1KcGVCRlcyUzkyTHZfN1JFU0FJMGtnSU1wTlhvbmRDQXcyeVJpMXotSjVNYnNTNnpjUjk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cc76201df338",
       "title": "In vitro antitumor efficacy of hyaluronic acid coating for curcumin-loaded zeolitic imidazole frameworks-8 (ZIF-8) versus that of uncoated curcumin-loaded ZIF-8 nanocomposites - Nature",
       "published": "2026-06-07T18:48:59+00:00",
@@ -606,34 +582,10 @@
       ]
     },
     {
-      "id": "ede4fa55a97e",
-      "title": "Fly Genetics Simplifies Mammalian Neurobiology Models - Neuroscience News",
-      "published": "2026-06-07T18:09:58+00:00",
-      "summary": "Fly Genetics Simplifies Mammalian Neurobiology Models&nbsp;&nbsp;Neuroscience NewsTranscription factor codes patterning neuronal groundplans of the cerebrum&nbsp;&nbsp;NatureHow New Discoveries About 'Ground Plans' for Neurons Could Simplify Brain, Behavior Research | Newswise&nbsp;&nbsp;Newswise",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PdVprVTRQdnp0QXZoTlVuMWY2RVJhWWxIV3I1OEIwek5NLWlnNExFbG1PbUdYY0w5T216VjgxUEU1RHVhZGlHYjFPeVozVFZqUGFNek1IOFVzeVhNX3RtS08zVzdXNVpfOFNtdUJIU3lQaTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab2c0c4396bf",
-      "title": "Collagen boosts skin health but not athletic performance: Study - Deccan Herald",
-      "published": "2026-06-07T16:38:52+00:00",
-      "summary": "Collagen boosts skin health but not athletic performance: Study&nbsp;&nbsp;Deccan HeraldDoes Collagen Work? A Massive Review Reveals Its Impact On Joint Pain And Skin Health&nbsp;&nbsp;NDTVWhat Collagen Supplements Can Really Do for Your Skin and Joints&nbsp;&nbsp;Time MagazineCollagen Supplements Can Improve Skin Elasticity, Hydration, Reduce Arthritis Pain&nbsp;&nbsp;News18Want to try collagen? Here’s what experts say to check before you buy a supplement&nbsp;&nbsp;News24",
-      "sources": [
-        {
-          "name": "Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc1VMWFpXdjhkY1ZteGh6UWNFc1pmcnBlcjlmNS1XX0ZTcEdwS1gyLVlHQ01UTGtHRHBlaVA5cFY3NWZNcXJiOEJja2wxcTJFTUtONlMyOUl2V01OZE1zaWZhOTd5d2pvLTdLWVl1LUJTZEhGYWNyWjV6UXdIaGU0MFZqSnpfNDA0Mm9pVUZtWlg0SXpidHJrODlkZTRjYVNyN0RmSG5XT1ptT0ltWWp2Q2d0N05kU2w3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1d01e569ef03",
       "title": "Researchers identify world’s largest scorpion that roamed Earth 415 million years ago - Interesting Engineering",
       "published": "2026-06-07T12:51:00+00:00",
-      "summary": "Researchers identify world’s largest scorpion that roamed Earth 415 million years ago&nbsp;&nbsp;Interesting EngineeringWorld’s biggest scorpions were the size of baseball bats&nbsp;&nbsp;Popular ScienceMassachusetts students don bee suits to learn about nature&nbsp;&nbsp;AOL.comWorld's largest scorpion had 6-inch pincers, and prowled UK land and waters 415 million years ago&nbsp;&nbsp;Live ScienceLargest scorpion ever grew to over three-feet long and had six-inch pinchers, according to nightmar",
+      "summary": "Researchers identify world’s largest scorpion that roamed Earth 415 million years ago&nbsp;&nbsp;Interesting EngineeringWorld's largest scorpion had 6-inch pincers, and prowled UK land and waters 415 million years ago&nbsp;&nbsp;Live ScienceWorld’s biggest scorpions were the size of baseball bats&nbsp;&nbsp;Popular ScienceMassachusetts students don bee suits to learn about nature&nbsp;&nbsp;AOL.comWorld’s largest 410-million-year-old scorpion fossils discovered&nbsp;&nbsp;Minute Mirror",
       "sources": [
         {
           "name": "Interesting Engineering",
@@ -642,14 +594,38 @@
       ]
     },
     {
-      "id": "c9fd3fc7926c",
-      "title": "Smartwatches Becoming Essential Health Companions - Investment Guru",
+      "id": "006ce5d8c30d",
+      "title": "Smartwatches Becoming Essential Health Companions - Investment Guru India",
       "published": "2026-06-07T12:39:38+00:00",
-      "summary": "Smartwatches Becoming Essential Health Companions&nbsp;&nbsp;Investment GuruSee more headlines and perspectives on Google News",
+      "summary": "Smartwatches Becoming Essential Health Companions&nbsp;&nbsp;Investment Guru IndiaSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "Investment Guru",
+          "name": "Investment Guru India",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHNwN3BiODhBNlVJSGhhOUJ0bDkyQjlVRW1ubWxOQ2ZiSjEwZEZvZGtncFlCU1FvY09NamdLWHhCQkZrMm9QQzF5RDlWVm53RHNhWTZuRkQ1OXZoaEl0UGNWYy1rMDdNMmh4WjlabXNOOFhoNVAyVVRlTUhrSnVSMW1sek0wbW9lLVFOU1Z2LVVTbUV0MG5KWUFQbENqV0xmYjFDTw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6bdaf80850f8",
+      "title": "Collagen Supplements Can Improve Skin Elasticity, Hydration, Reduce Arthritis Pain - News18",
+      "published": "2026-06-07T11:30:40+00:00",
+      "summary": "Collagen Supplements Can Improve Skin Elasticity, Hydration, Reduce Arthritis Pain&nbsp;&nbsp;News18What Collagen Supplements Can Really Do for Your Skin and Joints&nbsp;&nbsp;Time MagazineDoes Collagen Work? A Massive Review Reveals Its Impact On Joint Pain And Skin Health&nbsp;&nbsp;NDTVCollagen boosts skin health but not athletic performance: Study&nbsp;&nbsp;Deccan HeraldWant to try collagen? Here’s what experts say to check before you buy a supplement&nbsp;&nbsp;News24",
+      "sources": [
+        {
+          "name": "News18",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU2w2VlVGRW1wNkdwd1lLZXNlWmZILUtkbWx6VThGS2dZSDZZUzlGT1dMd29uQTcxWXFpMGMxY3RUcTg4UVRrNzFqakc0VWZBUGx1VHJWTTlRR0p4QkpjaHphQ2NZbExacWJFN1pVeXRNckgyOWFPSXd6R1ByU0JYVi11M2xWQy05cm05dUUxS3RzcnV2aWpSSFhsSFlLVEl5VzFCVkVzTmJfWlh4OGJMZl9VVEVTVmxWSGJzcGRMSkhZMTRYOWx6WnJ2LWdCVk3SAdQBQVVfeXFMTmJETy1YdVUwbFBFbWRuenRMQkVWVS1UVGtKUnBBOWV6SHAxVGZNc0R1Zk5Ocm0wc1hOVmFmVEMzWUxjTFEtQktkT01OTklabGlWWDZ2VDBPRnp0UGYzTmNZaHVCZ3hWSWJvUjZlR1BSYlVZcVBkUWg5SVZQQklGd2dQOXZnX3JSTnl5QXpSaExEcXphMzhWS25GS01pcFBXMmJKek5pSjM3bWxSWUduWDZFUk5OaXJlbTF2d0Uzc0xzM05GTVVnRVl0WTlmb3hIODlGS3I?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e739494f1035",
+      "title": "India on high alert for Ebola; all suspected cases negative - NewsBytes",
+      "published": "2026-06-07T10:12:19+00:00",
+      "summary": "India on high alert for Ebola; all suspected cases negative&nbsp;&nbsp;NewsBytesEbola Scare In Rajasthan Ruled Out After Virology Report&nbsp;&nbsp;NDTVJaipur: Ugandan Tourist with Ebola-Like Symptoms Tests Negative&nbsp;&nbsp;Deccan ChronicleHealth centres in Karnataka to keep eye on Ebola, report cases ASAP&nbsp;&nbsp;The New Indian ExpressJ&amp;K steps up Ebola preparedness, surveillance amid global concerns&nbsp;&nbsp;Greater Kashmir",
+      "sources": [
+        {
+          "name": "NewsBytes",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVS1hMEJ0VldtVkpON0hZOFZ3SXBxWGRjNlMzNmtxeW9IVnpibEduNUgyWi1ub1gyVXkzTk5YcUlYWWYzNE1wbVZjVUxxUWhUYWVpODc5ZXNQdmdpRE1JWWVId2pjaEY0aUVveG82c2JyTzh5NnZURC1vb29lRnFJcDVrTmxBdXZUX3R1T0J6VTBpOGRrWHlfNlRSbUs5REFtV2MyLW9aVnZQd1dQV0E?oc=5"
         }
       ]
     },
@@ -657,7 +633,7 @@
       "id": "c6bdb71800f9",
       "title": "Alcohol linked to 10 types of cancer: Study says even one drink a day may raise disease risk - TheHealthSite",
       "published": "2026-06-07T09:32:00+00:00",
-      "summary": "Alcohol linked to 10 types of cancer: Study says even one drink a day may raise disease risk&nbsp;&nbsp;TheHealthSiteIs Alcohol Part of a Healthy Lifestyle?&nbsp;&nbsp;MedscapeHealth effects associated with alcohol consumption: a Burden of Proof study&nbsp;&nbsp;NatureEven Light Drinking Linked to an Increased Risk of Several Types of Cancer — What You Need to Know&nbsp;&nbsp;Discover Magazine6 Ways Men Can Reduce Their Cancer Risk&nbsp;&nbsp;The Examiner News",
+      "summary": "Alcohol linked to 10 types of cancer: Study says even one drink a day may raise disease risk&nbsp;&nbsp;TheHealthSiteThink one drink is safe? New study links low alcohol intake to cancer, heart disease, and premature death&nbsp;&nbsp;The Times of IndiaHealth effects associated with alcohol consumption: a Burden of Proof study&nbsp;&nbsp;NatureJust 1 beer or wine per day raises risk of death&nbsp;&nbsp;MagzterEven Light Drinking Linked to an Increased Risk of Several Types of Cancer — What You Ne",
       "sources": [
         {
           "name": "TheHealthSite",
@@ -674,54 +650,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBneTdHWnFHRmNVZXNKdlMtVnZxelk4R3llRDhYVzFfam0xZm42NDFLOVF0bXJIUmEyU3FBaHJvQ1kySzl6TDJuQkZicVFQTERxVERqRVJJU0FrSkdlaHdz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d53724d8452e",
-      "title": "Harvard-Trained Gastroenterologist Reveals What Most People Miss About GLP-1 Drugs - NDTV",
-      "published": "2026-06-07T08:32:46+00:00",
-      "summary": "Harvard-Trained Gastroenterologist Reveals What Most People Miss About GLP-1 Drugs&nbsp;&nbsp;NDTVHow a diabetes drug became a weight-loss hack, and why doctors are concerned&nbsp;&nbsp;CNADo GLP-1 pills work as well as injections? Here’s what studies show about weight loss, side effects&nbsp;&nbsp;WWLPOzempic beyond weight loss: Separating science from hype&nbsp;&nbsp;News Arena IndiaWhat We Know About Weight-Loss Drugs Is Rapidly Changing&nbsp;&nbsp;The New York Times",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORlNsa1RwTFJfNlV4cURUUnJwUE5wSks3LTE1QUk5Tmd4RDZOSEN6Nm9fNHZFMlp1UlhrOGJ4dzBOYlo0a2xqU1JmV0pXRC1ETFVON3Y4Uk1KSTQ2ZXJZZktBS1Z1cEwyendPU0xZakpWTWJST0x2eEVKdFRGcTljWl9uYmVFc0haVzV6MEhqT2VyNVREUVJFUmFab2ZmX2FUVlR4SjlnOXQzd0ZTU0xvVDQweUdKQW4zdDhPemRwZFJwQnNmLXhQVDVULUUxOVlKd2hv0gHbAUFVX3lxTE1IMzU4bDNaV1FRbWNlajNRMS1ULXRZMWVibUd6NjJ3Y25lYVhiMGFHODNWMWI2MU5ZNTd0ZExER3AwZ1FPT1FzeXM1Y01UZC1oRlpIc1ZpdnZ3VWhHZmtBdERpMGFDbXA3ZW5YbmRhbzVBWGt4cDAwQU4wcjl4a3A4WjZmN242S2NyV1B2ckVqa25oWHVtZW5hMjF6SnRVYWQzYWgzNDQ3cGMwRXdEdmN5VE5xc0NJTlJPS2I4dmNKcWM1eVJUcWs5MTVaanJuQWlfZWZuaVp6YjZrdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "59de7f7fcfbf",
-      "title": "Suspected Ebola case in Rajasthan ruled out after NIV report - tennews.in",
-      "published": "2026-06-07T06:41:52+00:00",
-      "summary": "Suspected Ebola case in Rajasthan ruled out after NIV report&nbsp;&nbsp;tennews.inEbola Scare In Rajasthan Ruled Out After Virology Report&nbsp;&nbsp;NDTVJaipur: Ugandan Tourist with Ebola-Like Symptoms Tests Negative&nbsp;&nbsp;Deccan ChronicleHealth centres in Karnataka to keep eye on Ebola, report cases ASAP&nbsp;&nbsp;The New Indian ExpressJ&amp;K steps up Ebola preparedness, surveillance amid global concerns&nbsp;&nbsp;Greater Kashmir",
-      "sources": [
-        {
-          "name": "tennews.in",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdVhDNFlDWW9vNEdSSHN2STJtaG82VEd3Yzlybk5Xcy1lVVFfVU4zWWJ0d0JFaUduRjFZQ19COHJua3dLRFBVQmdMenJXZ0ppYmdnSEh0RklkNUdYZ3M4eW5kQWhPYlBqaXhzRlBlVTJ3VXlDZGx3UDZUUnBQQVZwMHFaQ3RxeDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fb7d42bb1ecb",
-      "title": "The James Webb telescope keeps finding early galaxies that look brighter, bigger and more mature than astronomers expected, forcing researchers to rethink how quickly the first galaxies formed stars and assembled after the Big Bang. - Space Daily",
-      "published": "2026-06-07T06:04:57+00:00",
-      "summary": "The James Webb telescope keeps finding early galaxies that look brighter, bigger and more mature than astronomers expected, forcing researchers to rethink how quickly the first galaxies formed stars and assembled after the Big Bang.&nbsp;&nbsp;Space DailyWhy Webb Is Rewriting The Story Of The Early Universe&nbsp;&nbsp;WorldAtlas'Astonishing': James Webb telescope spots the most chemically primitive galaxy in the ancient universe&nbsp;&nbsp;Live Science",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQUTFkX0lieHp3a1ZFNlVSejRwM094TmpfSEw0ejBfb2U4ZEVwRzkwSGVHaF9xd3BtWWlTWUlBaktUNXZIOE9wRU1rSkxfQk02NmFaS1F5YzZlbWs5SkY4TFowMGsteTU3emNUazJfNVlXZmszNGc3RDJSS3N2eDZnMDNwNlo2cGw5QnZiT3cyUGc0M01sLTlEN0Q3MjFkTXBqTU9pX0h5QmxiaW4zbWh1YlBoeEs5UVdwODRLaW5EQm5haloxUERQVWtPbjhDb3lheHoyVzRwajZRcHVZdjlTRWI5dUwyaG9ib1d3a2xzaW50a2w2LWJvdGxZUVFtaGhrVnlfdmhnc3pWYXdkVVZqSDUwRzlkS1B0cjNCWEJyWTNVLUpYWWNwQUQtV1pyVThrVVdVNnBvdm5Cdk1qdDdvbnVFd3lESU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "36c788813d87",
-      "title": "Earth’s Rotation Is Slowing Faster Than In 3.6 Million Years - Forbes",
-      "published": "2026-06-07T06:00:00+00:00",
-      "summary": "Earth’s Rotation Is Slowing Faster Than In 3.6 Million Years&nbsp;&nbsp;ForbesStudy Finds Climate Change Is Affecting Earth's Rotation Rate&nbsp;&nbsp;NDTVEarth Has Tilted 31.5 Inches. That Shouldn’t Happen.&nbsp;&nbsp;Popular MechanicsVienna and ETH Zurich find climate change lengthens Earth's days&nbsp;&nbsp;NewsBytesEarth's Tilt: A Hidden Shift That Could Change Everything&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNnZiQ0ZHamNUclBSOG9Vcnh3V21CYmh1eWxTX0gtemZpbWJYLTRmUWlCUnBsMWJVQUVtRXliTTNvc2Q0emo0QjZDNy1NUUNmT0diN3k0c2VQTVo0QnZSTUEtQ2g2ZVdBS0xzOHAtbkxIaXVQQldqTzZ6LUdpdXg4a3ZKaXRIQTdLMDhqWTJYVE9Dak9CcEZ1NHM4amtsejNULXdTdVFwQklfbnVhVk43ME5JV3g4a3pv?oc=5"
         }
       ]
     }
