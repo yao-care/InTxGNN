@@ -1,10 +1,70 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-06-16T20:33:00.130798+00:00",
-  "total_fetched": 123,
-  "unique_count": 123,
-  "health_related_count": 71,
+  "fetched_at": "2026-06-17T02:11:41.966989+00:00",
+  "total_fetched": 132,
+  "unique_count": 132,
+  "health_related_count": 73,
   "news": [
+    {
+      "id": "351d14fdb177",
+      "title": "Bringing ancient light-sensing proteins back to life - Asia Research News |",
+      "published": "2026-06-17T01:29:45+00:00",
+      "summary": "Bringing ancient light-sensing proteins back to life&nbsp;&nbsp;Asia Research News |",
+      "sources": [
+        {
+          "name": "Asia Research News |",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcGJudC1PSUNURklpWHRhNFdhM3pVWFg3bHByVVVVbzRudXliUUZRUUlGbUpLN3hqUlFvRDBwWGcxVUxVcHVXdEtucTk1cGxxTk5BZkw2LVBoU21aSkx4RG5tbjNJVWZ6Z1Y3WFNCYmFiYUQxMFY2UFVsR3luQnNSTzVpMy1CcUNsUi04b3NLRHJKWTQt?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "35010f58ba67",
+      "title": "Denisovan DNA still switches genes on and off in humans - Earth.com",
+      "published": "2026-06-16T23:15:00+00:00",
+      "summary": "Denisovan DNA still switches genes on and off in humans&nbsp;&nbsp;Earth.comGenomes from Oceania offer new clues to human evolution&nbsp;&nbsp;YaleNewsPeople on These Pacific Islands Have the Most Ancient Genome of All Humans (and a Lot of Denisovan Genes)&nbsp;&nbsp;ZME ScienceThe Incredible True Story Of The Cave That Exposed A Lost Branch Of Humanity&nbsp;&nbsp;News18Study: Pacific Islanders Appear To Have Most Ancient Human DNA On Earth&nbsp;&nbsp;StudyFinds",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWFGTm5sQ2NydDVNYThtcDN4eGhEVkRKTWd1cU5XQmh5WmVOMUpKVjJ6SjQ3Sl9GbFd0aFB4VjRFc1F2Q2ZEcFlVREFnUkFuYU1weGQtSDROUVd6SWVOQWRHNGdQRGNuM1FRTnJQRFhIZkhfVTNqbXBzOUhmZ3hHaHlqY2VqSmFyUzVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "44d9df8d890c",
+      "title": "Is California facing earthquake threat? New study flags record stress on San Andreas fault | Hindustan Times - Hindustan Times",
+      "published": "2026-06-16T22:08:35+00:00",
+      "summary": "Is California facing earthquake threat? New study flags record stress on San Andreas fault | Hindustan Times&nbsp;&nbsp;Hindustan TimesEarthquake model reveals: Stress in California at record level&nbsp;&nbsp;Universität BernSan Andreas Fault, Location, Formation, Latest News&nbsp;&nbsp;Vajiram & RaviWhy the stress building on California’s faults could result in a major quake&nbsp;&nbsp;The Washington PostChance of mega earthquake hitting California now at a 'historic high', experts warn&nbsp;&n",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPblI2QXlYOWlBa3NCOEZLQ2JsUzlBdUo3SlZ2WWRiT3RsdUJkczdIZjZXN1BMcW1mWWxDR3N5bktpcE9XLXQxdEY0UEtzd1VZYmItZnpBN3lGbnIxbW1kZzRmOG5tLXBxX2YyM0dUNnJXazNoZFY3WWs3QVRhcktQMGExMVhoeUl2NUU4X04yQVJlc2ZnZGxtTUpQYlFucGJJQml5Y3M5VHFOUVdtVjVOWjY1Ym5vTWZkVkdNQnNCbnQxYVFHZ0Q1Q3hDSjVJOGlZWXpsY3lzWkZxaVJSWWFicHZyQ25BeUxWbWxLOURuNVVYUdIB9wFBVV95cUxQSVh1QTBHOGJncG9NUTNFSWNJTXg2UFlKZG83MHpxRUdNa1N5SDd2WUZTTGFKckdleXVDd2dNdWduRmJzcDJkOER5NkFTRGJHUV9aSzRKRGhCNHpVOExmNHVIc2pYUEF2aUVsUWFGbmpPbVVQcFZNMGV2YmZqcjJTcEQzbUROamx1dDZFUGg5REExY1U0MWo4Ri1RRy1lc2dzVjEzUHNrNWcyOV9aNkRaV3lSUzNwU3dEMG1vRDVZa3pyQi1IelhVOEgzMnZBUzRaeWF0OTVELTZzY1BYS3N4aUpVc0lkWHVndmRIVktjRTdxbzgyYWZN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e5d5ceca6b5",
+      "title": "Retinal Photos and AI Predict Early Alzheimer’s Risk - Neuroscience News",
+      "published": "2026-06-16T21:18:29+00:00",
+      "summary": "Retinal Photos and AI Predict Early Alzheimer’s Risk&nbsp;&nbsp;Neuroscience NewsRetinal photographs can help predict Alzheimer’s disease risk factors&nbsp;&nbsp;University of FloridaOCT-A Biomarkers Point to Early Changes in Alzheimer Disease, Cognitive Decline&nbsp;&nbsp;Ophthalmology AdvisorAI May Unlock Early Disease Clues Hidden in Routine Eye Exams&nbsp;&nbsp;AZoRoboticsRecognizing biomarkers of Alzheimer Disease using OCTA&nbsp;&nbsp;Ophthalmology Times",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlT0R6QkJkd21SM2k0a1dER0lTVTN1VlJaWWtMQTZvTGF0UTJLY0YyQ0FFanNTRFQxZDQ3WGVrdGQ4bmR2Q09oTFFiU0tmNjZUVjN4Y0szRFpSUGtuYWR6NGxhcUVQNVVt?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d96a1e9418ae",
+      "title": "Lifestyle Change in Prediabetes Cuts Risk of Multimorbidity - MedPage Today",
+      "published": "2026-06-16T21:09:08+00:00",
+      "summary": "Lifestyle Change in Prediabetes Cuts Risk of Multimorbidity&nbsp;&nbsp;MedPage Today58% Lower Heart Disease Risk: Study Explains The Benefits Of Reversing Prediabetes&nbsp;&nbsp;NDTVWinning strategy to prevent diabetes and related chronic diseases&nbsp;&nbsp;NPRHealthy Lifestyle Changes Can Help Prevent Multiple Chronic Diseases Later in Life&nbsp;&nbsp;CU Anschutz newsroomTwo simple habits may outperform a popular longevity wonder drug: study&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "MedPage Today",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LUnZYWmdmMnJXczZKWGgyR2xlT0lnQXlhdnZFRWM3SFFqSmdxMWROVEtFSktFVlBfXzJUNnpCeHZmZWZnNHV5TUpNaFFRaURLVGxYNUtCcG1uYVF4Ym51b0NRV1RsT0VxOVozOV9ISQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "6dafe0bf3426",
       "title": "Fibroblast Signaling Pathways Linked to Angiogenesis Differences in NSCLC - Inside Precision Medicine",
@@ -42,22 +102,10 @@
       ]
     },
     {
-      "id": "2e06eafeedcc",
-      "title": "Napping and Liver Disease Risk in Diabetes Patients - respiratory-therapy.com",
-      "published": "2026-06-16T17:40:14+00:00",
-      "summary": "Napping and Liver Disease Risk in Diabetes Patients&nbsp;&nbsp;respiratory-therapy.comLong naps may increase the risk of chronic liver disease in people with diabetes&nbsp;&nbsp;Endocrine SocietyCan Poor Sleep Increase Your Risk Of Fatty Liver Disease? Experts Explain&nbsp;&nbsp;NDTVMore sleep means good health? Answer is... Study says people with diabetes face risk of developing deadly&nbsp;&nbsp;The Economic TimesCould Napping Increase the Odds of Liver Disease From Type 2 Diabetes?&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "respiratory-therapy.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdTFqb3I2UkEwVFlrNEpHU1FBS0ZlVk42eF8tdjM5RE9WMlVQZWN6X0xUYThVdEJNQnN1QlR5eHl6ckhSa2U3MlgzbWVibEdheF90WXRDQnNzUUl4T0xCUG5Ebkd4Yzh2RHhPeXl3aHZsVVBjTDlsMDZBdU9zdzVubFc5UUpLTzZJcWFNOHVzRHdvdVJXSXBYNWNmR2FPUm5RMDg2R2l1QnVMNTlGZ09mR3ZBNnJfSXNaWmxCOEUyZHB2M3N3SmVZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7e0f6efdd7ec",
       "title": "Media Tip Sheet: FDA Hormone Therapy Decision Could Have Implications Beyond Hot Flashes - The George Washington University",
       "published": "2026-06-16T17:34:15+00:00",
-      "summary": "Media Tip Sheet: FDA Hormone Therapy Decision Could Have Implications Beyond Hot Flashes&nbsp;&nbsp;The George Washington UniversityFDA Hormone Therapy Decision Could Have Implications Beyond Hot Flashes | Newswise&nbsp;&nbsp;NewswiseDr. Leach OBGYN Highlights Menopause Society Certification and FDA Hormone Therapy Label Update&nbsp;&nbsp;EIN PresswireThe Conversation Around Hormone Therapy for Women Is Changing. Here’s Why.&nbsp;&nbsp;AARPHormone therapy: New FDA guidance&nbsp;&nbsp;Mayo Clinic",
+      "summary": "Media Tip Sheet: FDA Hormone Therapy Decision Could Have Implications Beyond Hot Flashes&nbsp;&nbsp;The George Washington UniversityFDA Hormone Therapy Decision Could Have Implications Beyond Hot Flashes | Newswise&nbsp;&nbsp;NewswiseDr. Leach OBGYN Highlights Menopause Society Certification and FDA Hormone Therapy Label Update&nbsp;&nbsp;The National Law ReviewThe Conversation Around Hormone Therapy for Women Is Changing. Here’s Why.&nbsp;&nbsp;AARPHormone therapy: New FDA guidance&nbsp;&nbsp;M",
       "sources": [
         {
           "name": "The George Washington University",
@@ -69,7 +117,7 @@
       "id": "8ac8306d616d",
       "title": "SpaceX Dragon cargo capsule undocks from ISS, heads home to Earth - Space",
       "published": "2026-06-16T16:38:34+00:00",
-      "summary": "SpaceX Dragon cargo capsule undocks from ISS, heads home to Earth&nbsp;&nbsp;SpaceNASA to Cover 34th SpaceX Resupply Mission Space Station Departure&nbsp;&nbsp;NASA (.gov)Botany and Biology Research Wrap Up Week as Dragon Preps for Earth Return&nbsp;&nbsp;NASA (.gov)SpaceX Dragon Departs ISS With Bioprinted Tissue and Cancer Treatment Research&nbsp;&nbsp;Tech TimesSpaceX Dragon to begin journey home from ISS after Florida launch&nbsp;&nbsp;Florida Today",
+      "summary": "SpaceX Dragon cargo capsule undocks from ISS, heads home to Earth&nbsp;&nbsp;SpaceNASA to Cover 34th SpaceX Resupply Mission Space Station Departure&nbsp;&nbsp;NASA (.gov)Botany and Biology Research Wrap Up Week as Dragon Preps for Earth Return&nbsp;&nbsp;NASA (.gov)SpaceX Dragon to begin journey home from ISS after Florida launch&nbsp;&nbsp;Florida TodaySpaceX Cargo Dragon Departs Space Station With Science Research&nbsp;&nbsp;Aviation Week",
       "sources": [
         {
           "name": "Space",
@@ -80,12 +128,24 @@
     {
       "id": "043e9805511a",
       "title": "Chinese scientists unravel mystery behind formation of more than 40,000 undersea peaks - TV BRICS",
-      "published": "2026-06-16T16:01:04+00:00",
+      "published": "2026-06-16T16:02:18+00:00",
       "summary": "Chinese scientists unravel mystery behind formation of more than 40,000 undersea peaks&nbsp;&nbsp;TV BRICSChinese researchers unveil formation of global seamounts&nbsp;&nbsp;XinhuaDeep Earth model traces 270 million years of seamount formation across oceans&nbsp;&nbsp;Phys.orgDeep mantle plume origin of oceanic intraplate volcanism&nbsp;&nbsp;Nature",
       "sources": [
         {
           "name": "TV BRICS",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXNibHVaV3JONFpuZHZOd1NZckd1ekFqWjF2bkZ6b3N5NEExUDAtanFzZ1lHOXZHYnhOQW1IWERmZTlpVVZ1cU55M0hQcEVDMW5YZWRiUld5VmdRWnpMLXoyQWRMVjg2WjNOQlJIUDRpOGZqVlVhajFHeGRieGxMTEptWFBUY1MzMUtZblNaSjdjUG5pcmdKZkd5dEdFZUZfZmp0d2p6YlprdEpnUWxWREctVHF4dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8be6124cbaee",
+      "title": "Why Ebola outbreaks trigger extraordinary control measures - Gavi, the Vaccine Alliance",
+      "published": "2026-06-16T15:30:36+00:00",
+      "summary": "Why Ebola outbreaks trigger extraordinary control measures&nbsp;&nbsp;Gavi, the Vaccine AllianceWhat is the Bundibugyo Ebolavirus – and how do you get it?&nbsp;&nbsp;The IndependentHow deadly is the rare species of Ebola and how fast is it spreading?&nbsp;&nbsp;The TelegraphDiseases know no borders!&nbsp;&nbsp;Inside Tucson BusinessIJID: Regional Signals Preceding the 2026 Bundibugyo Virus Disease Outbreak&nbsp;&nbsp;Avian Flu Diary",
+      "sources": [
+        {
+          "name": "Gavi, the Vaccine Alliance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVFRFUTl6eHR5TkdCTHo2aUt1WUk3bUxSaFBvNnFLYnp6bzVVcFJKMzN2aXdYdmtvU0RXOWN0bTFob05EYmtNc0MybFZvLWktU3NoNTcxeXhmcVQzTDZ1YnR1b285T0o3aXBYcE5qd0xOaV91Zko4cjVGeTB6NzhvSmZYdHR6RkxCNWQ5THRZNm9HOThGRzFv?oc=5"
         }
       ]
     },
@@ -186,18 +246,6 @@
       ]
     },
     {
-      "id": "c34bd0328a1d",
-      "title": "Ebola Bundibugyo vaccine candidates could enter Phase 1 trials as early as July - Reuters",
-      "published": "2026-06-16T13:34:22+00:00",
-      "summary": "Ebola Bundibugyo vaccine candidates could enter Phase 1 trials as early as July&nbsp;&nbsp;ReutersWhy existing vaccines won’t help this Ebola outbreak&nbsp;&nbsp;National GeographicWhat Will It Take to Get a Bundibugyo Vaccine?&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public HealthSoligenix Applying for Vaccine Development Funding for Bundibugyo Ebola Vaccine&nbsp;&nbsp;PR NewswireScientists Race to Test Treatments as Ebola Outbreak Widens&nbsp;&nbsp;The New York Times",
-      "sources": [
-        {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSFJrTllUcHJPaFU0TlQyWHEzN0NSNjd5M3BQQnh4STJrUEEyV2J3VWp6RHY4VmJkMEtZTlU0cEVrWF9kbTVKaVcyeFFIN25uX0IzNGhCNmdVQzlldF9iWEFsT04xWC1pa0hEX2dWbXBveUVycDZ3NW01YkhDMUM0VV9HT1NuamRIVTltVFVHTnFDOGdVMDlmUl80TVdJZGkzYTF0Q19SUVdKMFo1U2hjUjBMTEpCNkpqVDhKaWxNaVBYRjI0WnRzLWdZUk50dEtFWjFwNWV4dHV6M2swU1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1ecf4f125542",
       "title": "Finerenone May Cut Sudden Death Risk Across the CKM Spectrum - Medscape",
       "published": "2026-06-16T13:21:32+00:00",
@@ -210,14 +258,14 @@
       ]
     },
     {
-      "id": "cbb0677cafa2",
-      "title": "Which Protein Products Are Real And Which Are A Scam: Let’s Check - ED Times",
-      "published": "2026-06-16T13:20:47+00:00",
-      "summary": "Which Protein Products Are Real And Which Are A Scam: Let’s Check&nbsp;&nbsp;ED TimesThe protein craze: Are high-protein diets and supplements putting your liver at risk?&nbsp;&nbsp;The Times of IndiaExperts Warn of Liver Damage Risk from Unsafe Protein Supplements in Fitness Industry&nbsp;&nbsp;Daily PioneerI Proteinmaxxed Too Hard. Here’s What Happened to My Body&nbsp;&nbsp;GQIs Protein Maxxing Actually Good For You, Or Just Another Viral Diet Trap?&nbsp;&nbsp;Blavity News",
+      "id": "ee6e29ca9871",
+      "title": "Ebola Bundibugyo vaccine candidates could enter Phase 1 trials as early as July - marketscreener.com",
+      "published": "2026-06-16T13:18:44+00:00",
+      "summary": "Ebola Bundibugyo vaccine candidates could enter Phase 1 trials as early as July&nbsp;&nbsp;marketscreener.comSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "ED Times",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV241Z1VBS2UycTZ2SWcySGVIUHhocVVkNG5rQjV4OU9EMTM0eTM4VVNJUG9VLXBSR0p4aU9wXzBTNU1DVk1aR0FjRWpEQU4yS2FTMFlNcDBwalh0S1hTVjBpZEpWWG5lbmluY21ocmRTZDA5QjN2Vmp4ZVZFUV8tQjZUMGhMS2pTSjU0?oc=5"
+          "name": "marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGNDVlJWQmVTSTdGWGZLbl8ycnptX2JEZ0E1M29jYlFrWDRLOEpjenJfSE9TUURkU3VDQ1JyWUZjQWJ3OS1rQjEwcHlwZ1lUU2hWT0VhaFp0T2dwRzQxalloTkJKT280Q1kxQTdNWWVnamw2cFIxZUJ0UkRWYjRJcEtBcmF5Wkw3VTl1MHhSSlJ2ZjZQZU5iNFdibnlsSTlyeXRvZU9xRGNfQnhDdWVnbUh1UEpEcFU1UUxUc3RmSFp5SnpCUE9Cd3BUeFc?oc=5"
         }
       ]
     },
@@ -225,7 +273,7 @@
       "id": "29eb4b5da158",
       "title": "Reinforcing body clock rhythms may help brain recover from stroke, study suggests - ET HealthWorld",
       "published": "2026-06-16T12:55:48+00:00",
-      "summary": "Reinforcing body clock rhythms may help brain recover from stroke, study suggests&nbsp;&nbsp;ET HealthWorld",
+      "summary": "Reinforcing body clock rhythms may help brain recover from stroke, study suggests&nbsp;&nbsp;ET HealthWorldResearchers Harness the Body’s Internal Clock to Improve Stroke Recovery&nbsp;&nbsp;University of Rochester MedicineRochester researchers find body’s internal clock may play key role in stroke recovery&nbsp;&nbsp;Fingerlakes1.com",
       "sources": [
         {
           "name": "ET HealthWorld",
@@ -249,7 +297,7 @@
       "id": "f1ce1cdb31fc",
       "title": "NFHS-6 Report Flags Sharp Rise In Metabolic Health Issues Post COVID-19 - ABP News",
       "published": "2026-06-16T12:44:33+00:00",
-      "summary": "NFHS-6 Report Flags Sharp Rise In Metabolic Health Issues Post COVID-19&nbsp;&nbsp;ABP NewsSee more headlines and perspectives on Google News",
+      "summary": "NFHS-6 Report Flags Sharp Rise In Metabolic Health Issues Post COVID-19&nbsp;&nbsp;ABP NewsYour heart may be older than you think; doctors warn of growing obesity in India&nbsp;&nbsp;ET HealthWorldThe Cost of Obesity&nbsp;&nbsp;Governance NowObesity rewrites global heart disease trends, driving rising deaths in midlife and developing nations&nbsp;&nbsp;Endocrine SocietyIndia Is Facing Two Epidemics At Once, Undernutrition And Obesity. We Are Only Talking About One&nbsp;&nbsp;NDTV",
       "sources": [
         {
           "name": "ABP News",
@@ -261,7 +309,7 @@
       "id": "4add909f2161",
       "title": "7 in 10 employees are at risk: Why standard benefits are not solving corporate health crisis - Deccan Herald",
       "published": "2026-06-16T12:05:21+00:00",
-      "summary": "7 in 10 employees are at risk: Why standard benefits are not solving corporate health crisis&nbsp;&nbsp;Deccan HeraldNine out of 10 employees carrying ‘significant’ heart health risk&nbsp;&nbsp;Personnel TodayEmployers face hidden health crisis as 86pc of workers show cardiovascular risk flags&nbsp;&nbsp;Corporate AdviserAre wellness apps making early cardiovascular risks in remote workers?&nbsp;&nbsp;newspatrolling.com",
+      "summary": "7 in 10 employees are at risk: Why standard benefits are not solving corporate health crisis&nbsp;&nbsp;Deccan HeraldNine out of 10 employees carrying ‘significant’ heart health risk&nbsp;&nbsp;Personnel TodayEmployers face hidden health crisis as 86pc of workers show cardiovascular risk flags&nbsp;&nbsp;Corporate AdviserAre wellness apps making early cardiovascular risks in remote workers?&nbsp;&nbsp;Newspatrolling.com",
       "sources": [
         {
           "name": "Deccan Herald",
@@ -270,10 +318,22 @@
       ]
     },
     {
+      "id": "a51941e7140c",
+      "title": "Calcium And Vitamin D May Not Protect Seniors From Fractures The Way Many Believed - NCHStats",
+      "published": "2026-06-16T11:45:18+00:00",
+      "summary": "Calcium And Vitamin D May Not Protect Seniors From Fractures The Way Many Believed&nbsp;&nbsp;NCHStatsMillions take calcium and vitamin D for stronger bones. A major review finds little benefit&nbsp;&nbsp;ScienceDailyResearch finds calcium and vitamin D supplements do little to prevent falls in old age, here's what you...&nbsp;&nbsp;Moneycontrol.comRethinking the need for calcium and vitamin D supplementation&nbsp;&nbsp;The StarVitamin D, calcium don't lower fracture risk in older adults: Study ",
+      "sources": [
+        {
+          "name": "NCHStats",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUZkxXai0tREJwbnJfaEwwTHlKQVJTWGhZODZVLWVRcFota09YdHJobFFWTW1Ra0p6OEUtWmlVV0UwcVBrOWtEMkxUSUNvamNBVHQwZF9Ld1BDQks3Y0JDZFpqeDZPNnRZVVNSOXBwdkFMUTNfWTBwSVBYMA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7cc004c59664",
       "title": "Just 15 minutes a day: You can sharpen your brain at any age (even at 94), new study finds - The Times of India",
       "published": "2026-06-16T11:33:00+00:00",
-      "summary": "Just 15 minutes a day: You can sharpen your brain at any age (even at 94), new study finds&nbsp;&nbsp;The Times of IndiaThe midlife habits that could make or break your brain health long-term&nbsp;&nbsp;The Washington PostHealthy habits that can help keep your mind sharp as you age&nbsp;&nbsp;qz.comAs a neuroscientist, these are my daily habits to ward off dementia&nbsp;&nbsp;The TelegraphRecipe for brain health includes physical and cognitive exercise&nbsp;&nbsp;Tallahassee Democrat",
+      "summary": "Just 15 minutes a day: You can sharpen your brain at any age (even at 94), new study finds&nbsp;&nbsp;The Times of IndiaThe midlife habits that could make or break your brain health long-term&nbsp;&nbsp;The Washington PostHealthy habits that can help keep your mind sharp as you age&nbsp;&nbsp;qz.comAs a neuroscientist, these are my daily habits to ward off dementia&nbsp;&nbsp;The TelegraphBrain-healthy Habits for Men&nbsp;&nbsp;PR Newswire",
       "sources": [
         {
           "name": "The Times of India",
@@ -393,7 +453,7 @@
       "id": "e0f15968d493",
       "title": "Less addiction, same relief? Study explores antidepressants as an alternative to opioids - Moneycontrol.com",
       "published": "2026-06-16T07:02:49+00:00",
-      "summary": "Less addiction, same relief? Study explores antidepressants as an alternative to opioids&nbsp;&nbsp;Moneycontrol.comAntidepressants and antipsychotics could serve as alternatives to opioids, study finds&nbsp;&nbsp;The GuardianAntidepressants may replace opioids for pain relief: Study | Antipsychotics are used to manage psychosis | Inshorts&nbsp;&nbsp;InshortsAntidepressants may offer pain relief without opioid risks: Study&nbsp;&nbsp;GujaratSamachar EnglishUCSF study finds nonopioid options for ",
+      "summary": "Less addiction, same relief? Study explores antidepressants as an alternative to opioids&nbsp;&nbsp;Moneycontrol.comCan psychiatric medicines replace opioids for pain relief? Reveals this new study&nbsp;&nbsp;HealthshotsAntidepressants and antipsychotics could serve as alternatives to opioids, study finds&nbsp;&nbsp;The GuardianAntidepressants may replace opioids for pain relief: Study | Antipsychotics are used to manage psychosis | Inshorts&nbsp;&nbsp;InshortsAntidepressants may offer pain reli",
       "sources": [
         {
           "name": "Moneycontrol.com",
@@ -405,7 +465,7 @@
       "id": "9e4af109dc32",
       "title": "Regional dengue groups team up to strengthen Asia cooperation - Xinhua",
       "published": "2026-06-16T06:50:30+00:00",
-      "summary": "Regional dengue groups team up to strengthen Asia cooperation&nbsp;&nbsp;XinhuaSix regional organisations sign MoU to strengthen Asia's dengue response&nbsp;&nbsp;BioSpectrum AsiaIndonesia Targets Zero Dengue Deaths by 2030&nbsp;&nbsp;Jakarta GlobeRegional groups sign pact to team up and boost dengue defence&nbsp;&nbsp;The Straits TimesSix Regional Organisations Sign MoU to Strengthen Asia's Dengue Response as Cases Rise&nbsp;&nbsp;Yahoo Finance",
+      "summary": "Regional dengue groups team up to strengthen Asia cooperation&nbsp;&nbsp;XinhuaSix regional organisations sign MoU to strengthen Asia's dengue response&nbsp;&nbsp;BioSpectrum AsiaRegional groups sign pact to team up and boost dengue defence&nbsp;&nbsp;The Straits TimesSix Regional Organisations Sign MoU to Strengthen Asia's Dengue Response as Cases Rise&nbsp;&nbsp;Yahoo Finance",
       "sources": [
         {
           "name": "Xinhua",
@@ -417,7 +477,7 @@
       "id": "765deddb2c1f",
       "title": "Are men reducing their lifespans upto a year by consuming this common nutrient supplement - The Times of India",
       "published": "2026-06-16T06:44:00+00:00",
-      "summary": "Are men reducing their lifespans upto a year by consuming this common nutrient supplement&nbsp;&nbsp;The Times of IndiaThis popular brain supplement was linked to shorter lifespans in men&nbsp;&nbsp;ScienceDailyHigher Tyrosine in Men Linked to Shorter Lifespan&nbsp;&nbsp;LabrootsA popular supplement ingredient was linked to a shorter lifespan in men, and the twist is that the signal appears where people expect benefits&nbsp;&nbsp;OkDiarioNew study finds a common supplement ingredient for cogniti",
+      "summary": "Are men reducing their lifespans upto a year by consuming this common nutrient supplement&nbsp;&nbsp;The Times of IndiaHigher Tyrosine in Men Linked to Shorter Lifespan&nbsp;&nbsp;LabrootsNew study finds a common supplement ingredient for cognitive enhancement may lead to a shorter lifespan&nbsp;&nbsp;Fast CompanyA popular supplement ingredient was linked to a shorter lifespan in men, and the twist is that the signal appears where people expect benefits&nbsp;&nbsp;OkDiarioPopular Supplement Ingr",
       "sources": [
         {
           "name": "The Times of India",
@@ -462,26 +522,26 @@
       ]
     },
     {
-      "id": "2cb048295e26",
-      "title": "Modified steroids for treating leukaemia among kids reduce fatalities: Study - DT Next",
-      "published": "2026-06-16T05:38:05+00:00",
-      "summary": "Modified steroids for treating leukaemia among kids reduce fatalities: Study&nbsp;&nbsp;DT Next",
+      "id": "e3fa1900a0e3",
+      "title": "Copper-Containing Drug Reduces Toxic Proteins in Alzheimer's, Improves Cognition- Study Suggests - IndiaMedToday",
+      "published": "2026-06-16T04:53:33+00:00",
+      "summary": "Copper-Containing Drug Reduces Toxic Proteins in Alzheimer's, Improves Cognition- Study Suggests&nbsp;&nbsp;IndiaMedTodayCopper-containing drug reduces toxic proteins in Alzheimer's, improves cognition, study suggests&nbsp;&nbsp;ETPharma.comResearch authors (IMAGE)&nbsp;&nbsp;EurekAlert!This cheaper dementia treatment may ‘unclog’ the brain&nbsp;&nbsp;Herald SunBreakthrough offers fresh hope in fight against Alzheimer’s&nbsp;&nbsp;Starts at 60",
       "sources": [
         {
-          "name": "DT Next",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlpOcjN3dDZQbGxVUWpQZEdBMHZwYTAwd3NKOTBtMS1MUEtFNHVJM2JqOGRJcy13bmFaU25lTjR2MG9nMGgxejZqdThVOUQwdlRfWTlIUDFCUWNSNVRvLTlJZWdRaVpGVVNyS3NKdlVVUUJYZjBkTDBpQ0sydDhjNXJFTG9TWHJ0Rm9XTl9hczEzaWw5aHNFX1JhNnVqWUVma2NldGotRGVjR2vSAbgBQVVfeXFMTXpwZlpaWUs1U29aNDlYUVhxNFRDMEQtNzlndEFSTk5QRHVoRGhZd1IyNV8xcktyOFRlUmlUQ1pXekczMk1EbDNWaEctRnVJb0V3WllfNkJPbWR2UFpVQm52cGxFaGtFdkpKM1FrbWNreFN2a1N6eV9MeGtSQjc3WGZ0NnVpVHN1ZXdYUjRXc0tYbWNkN2tjc2dXMHZOMHh0NHdNTjFHWDE3RFdydFl0NnM1QkY0ckVzLQ?oc=5"
+          "name": "IndiaMedToday",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2t0ekhnZThpZVFoc1QyQ1VEZGp6aUdObTgweTdmbDBEUi13OG1tSXA4X2M5STVMdmtXOUQ0ZXBEQkpBSGtxM1E1UDN0a282ZXJaYXZ0Y0VwT2UzWHVuUzI0b3F3WmRsVmNWYzdVOU95WW5ZaGhqd0Y1Z1padElBMlBxNnBxdHdJRFNVNjhOV0tTZkxNZnc0VkhEdUxXb3czdnlmZ05MNTd3TGw4YURHNEhzcEdxeHNOdzZTNw?oc=5"
         }
       ]
     },
     {
-      "id": "9f9379dbb60c",
-      "title": "IBD-Specific Cognitive Behavioral Teletherapy Protocol Reduces IBD-Related Disability - Gastroenterology Advisor",
-      "published": "2026-06-16T04:00:00+00:00",
-      "summary": "IBD-Specific Cognitive Behavioral Teletherapy Protocol Reduces IBD-Related Disability&nbsp;&nbsp;Gastroenterology Advisor",
+      "id": "400e1cd4caff",
+      "title": "Flesh-eating bacteria left Cambridgeshire mother in two-week coma - BBC",
+      "published": "2026-06-16T04:35:20+00:00",
+      "summary": "Flesh-eating bacteria left Cambridgeshire mother in two-week coma&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "Gastroenterology Advisor",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmxvM2RmaHJkdXA5NnprMHQ2dXhNRjUtYnNNYVVjWUNSQ04tNlNXSTBldUxwRkwwUlRPeXRKMGJZekJXQXh0TkhTanpaRmZGMDB6ektoa1p6UGRweHc2cUNvLTVKNFc0NjRtc0h1LUtlWm1YZXo1aDBid2J5UV90bkJQNUM4R2RQR2lRYmZhRGg4VUxMMEZYdjR2cEE0UlVaM1p1ZE1FeWg0RVpTOEotY0dFWkgxMXlVLXNneGl4OHJJYmwtR0xJWGNOTQ?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41SWkyVi1sSjV3c3Fabm5DNGREeWhKX0pMdGxWMkxVSTliTmQwSFJIRXdGREs4Z1cwNTRFZ3ZfcXJHWVJFbDlVVjRGR2llcllrU3lZRFFiWjFoQQ?oc=5"
         }
       ]
     },
@@ -498,6 +558,18 @@
       ]
     },
     {
+      "id": "9f9379dbb60c",
+      "title": "IBD-Specific Cognitive Behavioral Teletherapy Protocol Reduces IBD-Related Disability - Gastroenterology Advisor",
+      "published": "2026-06-16T04:00:00+00:00",
+      "summary": "IBD-Specific Cognitive Behavioral Teletherapy Protocol Reduces IBD-Related Disability&nbsp;&nbsp;Gastroenterology Advisor",
+      "sources": [
+        {
+          "name": "Gastroenterology Advisor",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmxvM2RmaHJkdXA5NnprMHQ2dXhNRjUtYnNNYVVjWUNSQ04tNlNXSTBldUxwRkwwUlRPeXRKMGJZekJXQXh0TkhTanpaRmZGMDB6ektoa1p6UGRweHc2cUNvLTVKNFc0NjRtc0h1LUtlWm1YZXo1aDBid2J5UV90bkJQNUM4R2RQR2lRYmZhRGg4VUxMMEZYdjR2cEE0UlVaM1p1ZE1FeWg0RVpTOEotY0dFWkgxMXlVLXNneGl4OHJJYmwtR0xJWGNOTQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b6026c76ee12",
       "title": "WHO Plans New Guidance To Improve NCD Care During Pregnancy - BW Healthcare World",
       "published": "2026-06-16T03:34:06+00:00",
@@ -506,18 +578,6 @@
         {
           "name": "BW Healthcare World",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1J4el9reVQ3MU1zaFB4N3ZqcFpMbW9QYU51SXJ4MktfM0JGa05XT1ZqeXMzLURuX0J4TkZ3VUN1SVdmQ1NYMVNWc0xfNXBRTVpzNDQzQzR1bFBFNXh2cVM1SmFucy1keVVpVHZXNGYxSWI0QmdFU0JzVWdqbk5XVmFXMFBFbmdYeG1URlRGbHpTeWstZFNfWVM1OHFEOVd5VTZQUjNBaXYtUmto?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1ca258a0a86",
-      "title": "Watch The Moon Cover Venus in a Rare Daytime Sky Event This Week - ScienceAlert",
-      "published": "2026-06-16T03:28:54+00:00",
-      "summary": "Watch The Moon Cover Venus in a Rare Daytime Sky Event This Week&nbsp;&nbsp;ScienceAlertSee Venus Disappear in Broad Daylight on June 17th&nbsp;&nbsp;Sky & TelescopeStarwatch: Sliver of moon and bright Venus create delightful twilight conjunction&nbsp;&nbsp;The GuardianMoon to block DC’s view of Venus on Wednesday afternoon&nbsp;&nbsp;WTOPGriffith Observatory will share video of Venus ‘disappearing' behind the moon&nbsp;&nbsp;NBC Los Angeles",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMnpQdVEwTkZMNWNGUkREeDdvOXFKcE1LWFg2aWFRazQ2QzFTZEZ5cEVCYjE0UlRRTm53YlVCaGRLcFE5cUpWRkRKZjBZV0ZjQUVvZXNiNmg5RDBkTGJHZUpuWmd1N08yRFQ4SWRhbV9QaFBlQVFMZGd4UzJXVElTN3RNMDdFN2RsRkV2cGtYTkxGdHIwVHljOQ?oc=5"
         }
       ]
     },
@@ -558,18 +618,6 @@
       ]
     },
     {
-      "id": "fd50294fdd57",
-      "title": "Global map of Earth’s mycorrhizal fungal networks could help protect them - news - Mongabay",
-      "published": "2026-06-15T22:01:10+00:00",
-      "summary": "Global map of Earth’s mycorrhizal fungal networks could help protect them&nbsp;&nbsp;news - MongabaySubterranean fungi networks more than 100 quadrillion km in length, study finds&nbsp;&nbsp;The GuardianA giant world of fungi beneath our feet&nbsp;&nbsp;The HinduAbout Arbuscular Mycorrhizal Fungi&nbsp;&nbsp;Vajiram & RaviForget the internet, there's a hidden superhighway under your feet, and it's almost a billion Sun trips lo&nbsp;&nbsp;The Economic Times",
-      "sources": [
-        {
-          "name": "news - Mongabay",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM01DWENBNWxUWGhBcHh1ajExNHdyQnQ0aEtZdi1Ec3QwcmtNVFdWTGNTU1dMbGpWdFZteWRZaXF3NmpYTEREUUNzZlhCVkVuS1JSTzRiYS1XTms5YTJ4XzY0TmstRmNNVUZqQy1jOV95ZGVXalEyMGZDcC1wVWhobHZPRGFxQ0RySGlXS3ZBVW9RU1hFd2FqUE4wNDVPZkgwaVVFOEwtTnF1MUJwdVJGemw0cw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3afde80d0de6",
       "title": "Chandra reveals flickering supernova remnants in M83 over 14 years - Phys.org",
       "published": "2026-06-15T21:20:07+00:00",
@@ -585,7 +633,7 @@
       "id": "fe043c686c90",
       "title": "A dying star can create a new universe instead of a black hole, says study - The Shillong Times",
       "published": "2026-06-15T21:13:47+00:00",
-      "summary": "A dying star can create a new universe instead of a black hole, says study&nbsp;&nbsp;The Shillong TimesScientists Propose That Entire Universes Can Form Inside Collapsing Stars&nbsp;&nbsp;FuturismBlack Holes Aren’t Real? Astronomers Propose Elusive Formation Mechanism for “Gravastar” Alternative That is “Easier to Accept”&nbsp;&nbsp;The DebriefCollapsing stars could form gravastars instead of black holes&nbsp;&nbsp;AOL.comA Dying Star Could Trigger the Birth of a New Universe, Scientists Say&nb",
+      "summary": "A dying star can create a new universe instead of a black hole, says study&nbsp;&nbsp;The Shillong TimesScientists Propose That Entire Universes Can Form Inside Collapsing Stars&nbsp;&nbsp;FuturismBlack Holes Aren’t Real? Astronomers Propose Elusive Formation Mechanism for “Gravastar” Alternative That is “Easier to Accept”&nbsp;&nbsp;The DebriefGravastars: Not all dying stars end up as black holes&nbsp;&nbsp;Earth.comA Dying Star Could Trigger the Birth of a New Universe, Scientists Say&nbsp;&nb",
       "sources": [
         {
           "name": "The Shillong Times",
@@ -597,11 +645,35 @@
       "id": "ccf7c4b033e4",
       "title": "What does being ‘trauma-informed’ actually mean? - The Conversation",
       "published": "2026-06-15T20:10:25+00:00",
-      "summary": "What does being ‘trauma-informed’ actually mean?&nbsp;&nbsp;The ConversationWhat Does Being 'Trauma-Informed' Actually Mean?&nbsp;&nbsp;NDTVTrauma-informed approach is preventive and not reactive in nature&nbsp;&nbsp;expresshealthcare.in",
+      "summary": "What does being ‘trauma-informed’ actually mean?&nbsp;&nbsp;The ConversationTrauma-informed approach is preventive and not reactive in nature&nbsp;&nbsp;expresshealthcare.in",
       "sources": [
         {
           "name": "The Conversation",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU3pmNnZFR0p1RmN2bEtmY1ZjaGhlY2FsS1MwLTJIQzFqTVpZYmwtSGx2Q2ZhWHdYNEpFVTNNb0o2OVRWZGJKWnd1TnFhNWM2M0p0ckZfUTNYTXNkNk5Ma1BzaU1OdUNOSC1JNU1OcWNIejVHUzRpVlNYZENpMXhqa1RVWU9SY2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "87fe935ec054",
+      "title": "Bilingual speakers use identical brain systems for both languages - News-Medical",
+      "published": "2026-06-15T18:27:00+00:00",
+      "summary": "Bilingual speakers use identical brain systems for both languages&nbsp;&nbsp;News-MedicalHow Does One Brain Speak Two Languages?&nbsp;&nbsp;The New York TimesBilingual Brains Use a Single Shared Engine for Grammar&nbsp;&nbsp;Neuroscience NewsOur Brains Harbor a Powerful 'Grammatical Engine'&nbsp;&nbsp;NewserBilingualism may be driven by a single neurological 'grammar engine'&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXViZUJJcHJ2UlNvTERoSXcxblAydVVBS08zdDAteUNCb1oyTHd2cFNwR09HV0xjdllERlczQW9taEdIcV9wMkdSNk0wWlFTRlVwbXc5UVpNdFJxcm5pZGRTSzgxeGF6Ump5Rk91YXNsTEc2dlo3d3kzd3RJb1RLbDI1cHlMems3Q29FNlRkcVZyMndOODRZVFhQaVMwMkZPWWF5bVVFQUJVNkU4S0RUZmdVbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ae8b306dbcee",
+      "title": "Long daily naps increase liver disease risk in diabetic patients - News-Medical",
+      "published": "2026-06-15T18:04:00+00:00",
+      "summary": "Long daily naps increase liver disease risk in diabetic patients&nbsp;&nbsp;News-MedicalLong naps may increase the risk of chronic liver disease in people with diabetes&nbsp;&nbsp;Endocrine SocietyCan Poor Sleep Increase Your Risk Of Fatty Liver Disease? Experts Explain&nbsp;&nbsp;NDTVNapping and Liver Disease Risk in Diabetes Patients&nbsp;&nbsp;respiratory-therapy.comMore sleep means good health? Answer is... Study says people with diabetes face risk of developing deadly&nbsp;&nbsp;The Economi",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWXg2UnFob0ZLWC15b3lQaWR4T3RzSl82QzJZUmUtVkNteDF1S280eTN5X24yZkxUSVJRbmlTTk56bGZsZUw1WVpnbkc1cXNfeWVEaTBJY0VOaUhoekY3S0owZjBXaTlOSVNoYWN2Nzl3MzhKdlFvR05wMGI2QWcwdFllZXRMQ3E1RTJBWVBENVZqTDVZbGVZVEhMLWtmVU0wekhCdFNNQmVqMzh3YzFSM2Z3?oc=5"
         }
       ]
     },
@@ -618,6 +690,18 @@
       ]
     },
     {
+      "id": "6284577c80cf",
+      "title": "Adiposity and cancer: systematic review and meta-analysis - Nature",
+      "published": "2026-06-15T14:49:54+00:00",
+      "summary": "Adiposity and cancer: systematic review and meta-analysis&nbsp;&nbsp;NatureAdiposity and cancer: epidemiology, mechanisms and future perspectives&nbsp;&nbsp;NatureDr. Richard French: Medical journal links obesity and cancer&nbsp;&nbsp;Hastings TribuneAdiposity and Cancer: Exploring Links and Future Insights&nbsp;&nbsp;Bioengineer.orgLifestyle diseases and cancer: Expert explains hidden link between obesity diabetes and rising cancer risk&nbsp;&nbsp;TheHealthSite",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45MDBIV0ZnM09wYXBHZnVvVHRERHFYYnhKMnFWZlR2LU5xd3hWb1pZSU1na1phM3lfSDhDLVlKakdKdFQ2SDJtcG9ESERtMTRQUXg0c0xxNmxaOXV2Vm5v?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a68b6a4aabfe",
       "title": "Novel, Protein-Chaperone Role for RNA is Revealed - Labroots",
       "published": "2026-06-15T14:38:00+00:00",
@@ -626,6 +710,18 @@
         {
           "name": "Labroots",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmE4TDdZVDFUZWRpT1k4R2ZUUzF2T2xDNV9DV25xYVppSnpHbkRIZUdjSVpZbVJ6Ylc5XzJRbE8zMWlQaVZOSm9ZUkticzBiaEFncEhoTENKcVdSRHV2eGZHNHlya0VUVGNvLTlabF85dlktWHBVUm1rc3RWWVJ5OUVRWnk3aGNORURUSlg4aF9JQ3dycEdvdVdKMlZpSTdJYktiNTN30gGrAUFVX3lxTFB1YXBibWlBc3A2bk56QU96ODZwclRNY3F2U2dyOG1IZXp5SGxzNXVtQTI2MmFUYTZSNmhJV0pEd2pTRmRzdTctU0YxVE8yLVdrOHdEUEYxczlMVTZxSm1DcXhPaHNvbmFiQ3FtNWZOTUNzYWozMnZGVVBQd3lvRkdDZFVWUkkyTGkyZkdmMy1pbHNlZDNPckVUZEFFMmZ1dVoyemRleWF5U3JOMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ce84bda29f0",
+      "title": "Hyderabad urologist explains recurrent UTI in women: Why they keep coming back and should not be ignored | Health - Hindustan Times",
+      "published": "2026-06-15T14:03:21+00:00",
+      "summary": "Hyderabad urologist explains recurrent UTI in women: Why they keep coming back and should not be ignored | Health&nbsp;&nbsp;Hindustan TimesBe Comfortable Talking About UTI Discomfort&nbsp;&nbsp;Deccan Chronicle",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRS1EeEhZdmdaV2FDbl9qbGJTSEVDSWwwYUdCV2Fmdmxfd25IX2podUFDV1JHWWEwSHpxNnJ0X0wyRmNCYzNqV0ZsVWRwSTZLZVJ2Ujd0VXNwTFVVTXhyM1lZQjRjaUtLVVlNTDJiTmw2YW9TVnFBaXZ5a3R5NTlsbjAxVWJnbWt3YlBDcUVDaHAteC12RENNMkpyOGUtU25NVjJieDZUb2ZEMlRLNnlWRlpqQl9TLUFHbS1JV09oMmtjUXZuUW9XN3VzX1JvTG4tQTBfQ085bWFvbDdVSnFoVGVxdDJQMUNYOUxmZXVYZ0YxM0tVZllQblhXa9IBgAJBVV95cUxNeFgyWGxWa3lOZ1NNdDJhMnBwMk1CbDZJdTUxMXR4UU15Snc4ZV85ZWpvUXlQcEJ0SUdueE5WLUc4T21ObDBYUjhkRUkwOW1EUU0yOWk2bUVXYWJaeldseUs2WVRGWl9aT3lVNWI3ek5qdEN2RnpBX0p1ZllCejlpbjBZaU5NcTVNMlh0ekNHeXlJVzJSNGdEZXZtYjVqZUlhRXZGcDMzeC1TZEI3eHVfTGI3MTNXdDd4a0lEbTE0c1FPVU1YaUlMSTgwTTQ3MjZVeHpmdHVnMWgwclFGMVhSXzZ4RDBQVlNHOXJjYUd1YjR6MjFjOEt2dmdGYVFzYzJ1?oc=5"
         }
       ]
     },
@@ -678,30 +774,6 @@
       ]
     },
     {
-      "id": "6e1d4ecb2adf",
-      "title": "Copper-containing drug reduces toxic proteins in Alzheimer's, improves cognition, study suggests - ETPharma.com",
-      "published": "2026-06-15T12:13:27+00:00",
-      "summary": "Copper-containing drug reduces toxic proteins in Alzheimer's, improves cognition, study suggests&nbsp;&nbsp;ETPharma.comResearch authors (IMAGE)&nbsp;&nbsp;EurekAlert!This cheaper dementia treatment may ‘unclog’ the brain&nbsp;&nbsp;Herald SunBreakthrough offers fresh hope in fight against Alzheimer’s&nbsp;&nbsp;Starts at 60A Copper Drug Cleared Toxic Proteins and Restored Memory in Alzheimer’s Mice&nbsp;&nbsp;ScienceBlog.com",
-      "sources": [
-        {
-          "name": "ETPharma.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPYkZQeE9VZ3dKS25CWGVDaGxreUs3YTNSQ0Z3Qjc0MVd5YkM3dENYNWZHZUhOeWdtaVVfMnduRWRHdXpqa3M2QWFacTcxdFlIYTF2MmpocHk2TXpGejNXYTdDdkI3YWtIQ0NBczZtYkVhN2gwSlFqVDZCeWhTZHh2WUpSVVQwbzlaUnhkNGZpRDhrd1IzeEcyU2Nzb1ZWVVQzY3Z1OWZqNHhjSHprTkhvX1dROUhfWUtpNmJtQ09XVjB2bDJwUzk5VDFjaDNtWnQyUzhzdnRzazQxOW5wRDdwbnlYOE12bDlCc0VUVUJRdXJBaS1wczZ2NUVITjQ4eVRFeldaS3ZFbFTSAY4CQVVfeXFMT3FPQXhPc21zQWhybkVxN0pxbDVWVWJGZ0lvanVYenFVUHNZcGdJWkhvYzNOM2ZGVkZoSnU4ZnpBVXB6dUgyZjJVeVNpd21LY244WldkWUV1bVJWTWl5SVhwUGdQVVVub3A0c2JCbURwWW9TU19ZbEh2ejJSMzRjNkNON29UUjYxczUtLXRBdWM5eG9MbVpXaXFXN1RMTmJ3dkdlWVVzZmZ2RHdVdWREY1RkSnU2QXlrOW9hWHNjNmtoQWlEQUJZbzVLQnRhY1FoSUg2bDBjTTFMMkVnZHFqeEVaVkNrOWNMQk5HYWg1d2Z1UG03WTJGWGNuNGg1ZDlDQW1Wa0RiVk5NYVBMMmNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c957b89fa64b",
-      "title": "Adiposity and cancer: epidemiology, mechanisms and future perspectives - Nature",
-      "published": "2026-06-15T12:13:23+00:00",
-      "summary": "Adiposity and cancer: epidemiology, mechanisms and future perspectives&nbsp;&nbsp;NatureAdiposity and cancer: systematic review and meta-analysis&nbsp;&nbsp;NatureAdiposity and Cancer: Exploring Links and Future Insights&nbsp;&nbsp;Bioengineer.orgDr. Richard French: Medical journal links obesity and cancer&nbsp;&nbsp;Hastings Tribune",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUTzcyS1E5aUQ2TkdabVYtOHhRbUZRMzZ3OFU5RFkwakZIZ1EwWktBYzdpSXdwZGprTXhRWms4c2QzWTJEWWV1T1NfSG8wZS1ub09jREo4TkNKNHhRRmNB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "41706c5cd808",
       "title": "Hidden sugar in everyday foods: 6 healthy foods that may be raising your risk of diabetes obesity and fatty liver disease - TheHealthSite",
       "published": "2026-06-15T11:42:00+00:00",
@@ -710,18 +782,6 @@
         {
           "name": "TheHealthSite",
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTWtDM1ZCalFsZ3hFR1VKeUFUb1lsR0d2NVpQcUw5N1FoVzFoUUhoS1hNa3JrWlZJTjNoNENMYUszSXZxTlRXLUxqcURna1NDU1FXTE5ERU9scmJreTB0OGIxdDBaV3NaeXl4UGlFUENZeXZKenhCSU5qUnVSdFNNRFFJYXZjMTRRa3dQMU5obEZwRmNUNmxjQVNzX3I1QTJnTkI1WXc3SE01QzRqaFZvZGRobl9VWWN1NG9WeGNUbXZjaEp6dHkybmljWWhaTmpsdU1tV3oyenJXRU1LN0VET19kVFozS2M0SEQwQlpkQy1wZHVJVjRjWEZLLTJTbmxjcU5VQWctQi1FSVXSAZACQVVfeXFMT1c0cEZKM0pnakU5VFQ3VzNhb2l5aFIydFRRQmRIV2I1SmZxUmJJdVNjN20xX3VKNDVhcHZ2UEF4Yng2b1NKMEoxU01sMTh1cmZ0RlFaeTY0SzFuUzhleGtsUXhaR1R4OE9jVmd2SElQTnhNUlBUNjZlTEJxZzNxbDNmcWthOElFdno4U0M3SXpZb3BGdG41U1pLQ3otS1JQMEJLQXpGWHRkV0xnVVBDR0xwSElYbk1xMlB5VUlwSWpxa2NrUEdPRXhTOWZVTGc3cEFrZl9HMXJSNVRiVGV3RlBObWJEU0pPUVMwaE40NlVGT0UtczBiTENKclBKUkFjSmRZLVVpdlZsSXRRQTlZRnU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3b6acc3f201",
-      "title": "Could earthquake gate open? San Andreas fault at highest stress level in 1,000 years - India Today",
-      "published": "2026-06-15T11:26:24+00:00",
-      "summary": "Could earthquake gate open? San Andreas fault at highest stress level in 1,000 years&nbsp;&nbsp;India TodayEarthquake model reveals: Stress in California at record level&nbsp;&nbsp;Universität BernSan Andreas Fault, Location, Formation, Latest News&nbsp;&nbsp;Vajiram & RaviDay Around the Bay: SoCal Faults Reach Historic Stress Levels, According to Study&nbsp;&nbsp;SFistWhy the stress building on California’s faults could result in a major quake&nbsp;&nbsp;The Washington Post",
-      "sources": [
-        {
-          "name": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRDgzdFJpbjZubmZWWWNJcjVOUWZWcVRxX1ZDc2RCaklsYXZhNDlvWDJSZkNlQ1h1YnZONk8tc3FZRlNTa3JuYTRETGw4VHYzWkpWV2g2cDlJRHdBMEtNcmhjTE1md1ByN1ZpMWV2Wlg4OFpEMGdLaFo4RDR1QVJmYW9ZZUExU2JYd3JscFVFVTVNdDFXeU5pQ2RhYVQ4OVQwT0h6Zll4dTUybnFPQktpOTFPZEdQdmJUZlM2SHFyOE9VcEZpY3ZFdmd6WXVmNlXSAdQBQVVfeXFMTkk1SkdZYkVYczhHSm5jWFVKcGdOTDlSRl9LZ3BxSVo2Ykd0eDhISXVhSnJYS1Ryd3JHSHRFVDZHdkpHaU9DUWxpV296WDNlU2ZCRERSUTNEVUlkVVBLMDFxTlNFeUNJVlRBc2lZR1U5Ym5lRHZsb0hXMXJFdHYyaFVTaDExZWZXeEhfZkFIbTQ3VWJRVnlUWWM0cWlqQjdkdlBwTVNYLVdPX3VvTjk2bkpfYUZ3ZEJfS1hHMTVFOEZHclhjUWZ0UFlmYnNzTzViRUhDRkM?oc=5"
         }
       ]
     },
@@ -738,6 +798,18 @@
       ]
     },
     {
+      "id": "4cd874bcb837",
+      "title": "Why waiting for symptoms could be the biggest mistake women make about their health - The Times of India",
+      "published": "2026-06-15T11:00:00+00:00",
+      "summary": "Why waiting for symptoms could be the biggest mistake women make about their health&nbsp;&nbsp;The Times of India'They can kill you silently': Expert warns how thalassemia and ovarian cancer can go unnoticed for years - symptoms women should never ignore&nbsp;&nbsp;TheHealthSite",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYkRsNFJpNFQ1bXVjQzNGMDNHMkZIZGF0RFM5VmtZSnNGX2lOdE0tbHd6NTk3LVJwNUtNVUVBQVA4Vjh3ZEhqZ2tnSExJVURuaDNZcXNoZUZFTXQ1dVd0Q2l6RDlVMWhHNVR2ZzhxVDc1d0dBNFNTSWJMWGFEUXk5c25lVEIxWG55emxNZGt5SXFrUzItUFRvNkExczhYU2pDaHJ0WFJKRm9oQUxpWkZaczluTVNSdEoxdS16dDhKX1VMWmhYa2dldGFSaEQyUlVpQzAwN2kzejQ3ZXA2SUh6RTNjaVhFM2fSAewBQVVfeXFMTmw5RGNqNVZYWVN4dFhNWDMtRjdlY1NXMV9yOWs2Tkx2VHZUajZ6ajQ1cktaWkNmaWpCVERNZWQ1MWVLaGNoMzlLZFBtNzFYVWdVRVR0MTF2a21DV0FCSHhKSy1yU0E4RG5ZZmpnQXlZcEtKb3pkbEFyR0JzaURtck81Zm1mUUJRdlN4Y3RwMXV1S05PdHYxRm5yb2NmUm52UkhGWC0zWUs3OGxvaWxBbWszNkFTWjk5N0Y3bWhzWGtURmoyS2htdjZGQnhCVWYtZFhLSmdtMkNWN2stY1hETElEQXFuSmpsaFlSVk0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ff87997295d3",
       "title": "Research on physics education where physics education happens - Nature",
       "published": "2026-06-15T10:49:35+00:00",
@@ -746,18 +818,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JTl82d0liMVJxMHUwMU5MVkItYWZpamticjZFRFpEWEJvaW9yaXJjWGNLUGZBUTZaZk0xNkMySHJ6akhQUUcyd1M3VEZkWVpSSF80dFBWVEpQWjI4VHJj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9ecda418a487",
-      "title": "A need for pragmatism in preclinical aging and longevity research - Nature",
-      "published": "2026-06-15T10:06:24+00:00",
-      "summary": "A need for pragmatism in preclinical aging and longevity research&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYNnhyQXN1VEtvWG5TVHF5SDVuRkpQbFJjN0xTU19aR0FnWnBhNjItOU9tb01CVnp1VWZnX3llLWhBcTdzb1A4YXFWM2g0RFhVN1VZdE9USC1aTVphZTh3?oc=5"
         }
       ]
     },
@@ -774,18 +834,6 @@
       ]
     },
     {
-      "id": "8893e7584c60",
-      "title": "New Quantum Experiment Shows Time is Created by Moving Atomic Disorder - AZoQuantum",
-      "published": "2026-06-15T09:36:00+00:00",
-      "summary": "New Quantum Experiment Shows Time is Created by Moving Atomic Disorder&nbsp;&nbsp;AZoQuantumScientist creates 'mini‑universe' to measure time without a clock&nbsp;&nbsp;Phys.orgToy universe shows that time could be a quantum illusion&nbsp;&nbsp;New ScientistBose-Einstein Condensate Evolves Across 44 Cycles Of Recollapse&nbsp;&nbsp;Quantum Zeitgeist090526_mini_uniserse-2 (IMAGE)&nbsp;&nbsp;EurekAlert!",
-      "sources": [
-        {
-          "name": "AZoQuantum",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTalBVeGRIQXZRN0tvQ3p2dDJPN3RVQzN4Q19SUGYzbjNSYkV2UktaZ0FySXJhVjlMN3B0SFczUk01ZU10LVJlNGtRdjJKN21jdkc3djVlVmg4eV9hYnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ff063be393c4",
       "title": "Grading of Hirsutism in Females: A Pilot Study - Cureus",
       "published": "2026-06-15T08:44:05+00:00",
@@ -798,62 +846,38 @@
       ]
     },
     {
-      "id": "1835b1775c4b",
-      "title": "New dengue strain raises infection risk as Sri Lanka launches prevention week - Xinhua",
-      "published": "2026-06-15T05:55:45+00:00",
-      "summary": "New dengue strain raises infection risk as Sri Lanka launches prevention week&nbsp;&nbsp;XinhuaNew Dengue Strain: Sri Lanka Launches Special Prevention Week&nbsp;&nbsp;NDTVNew Dengue strain raises infection risk in Sri Lanka | Tap to know more | Inshorts&nbsp;&nbsp;InshortsA long-term programme should be formulated to minimize the spread of the Dengue Epidemic – PM&nbsp;&nbsp;The island.lkDengue breeding sites found in 41% of schools nationwide – Health Minister&nbsp;&nbsp;Ada Derana",
-      "sources": [
-        {
-          "name": "Xinhua",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PNms5TkJJUGV1aENxSGpVTHUzRzkwZXJvVktUSDNFdVp6VGVLb2JUaUNMVGNHbXo0U2NMNEx3YmltZWMtV250YV8teGU0YlZ6VUNZMF95WG10Nm16Ykpna291RWp5REczNFZ4SlF0ZTVVZGg5ZzZ2ZmprV2k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "37df3a2199be",
-      "title": "Ultrasound viscosity imaging for stratified diagnosis of diabetic peripheral neuropathy: A prospective clinical study - Nature",
-      "published": "2026-06-15T05:30:06+00:00",
-      "summary": "Ultrasound viscosity imaging for stratified diagnosis of diabetic peripheral neuropathy: A prospective clinical study&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41bzdRNm90UW9tZjktU0l0TGtLMGR4NXRucmVOUWE1YlVqalVZS2NsYkYxOGFNblM5NERGS0F1cXhmclZ0S05uazFYNkhQUmFYQTlqNm1SYnYxd3BTMTNJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8178faf4172",
-      "title": "Music Therapy And Accessible Concerts Provide Vital Support For Dementia Patients In New York - NDTV",
-      "published": "2026-06-15T04:37:24+00:00",
-      "summary": "Music Therapy And Accessible Concerts Provide Vital Support For Dementia Patients In New York&nbsp;&nbsp;NDTVUAE President to attend G7 Summit in France on Macron's invitation&nbsp;&nbsp;Asianet NewsableSensory-focused memory care can spark connections&nbsp;&nbsp;Columbus Jewish NewsMusic Brings Joy And Connection To Seniors With Cognitive Impairments&nbsp;&nbsp;News12 | Long IslandDementia care: Re-envisioning the role of music&nbsp;&nbsp;The Conversation",
+      "id": "2c72bc6f488a",
+      "title": "New Dengue Strain: Sri Lanka Launches Special Prevention Week - NDTV",
+      "published": "2026-06-15T07:47:45+00:00",
+      "summary": "New Dengue Strain: Sri Lanka Launches Special Prevention Week&nbsp;&nbsp;NDTVNew Dengue strain raises infection risk in Sri Lanka | Tap to know more | Inshorts&nbsp;&nbsp;InshortsA long-term programme should be formulated to minimize the spread of the Dengue Epidemic – PM&nbsp;&nbsp;The island.lkSchools account for highest share of dengue breeding sites – Health Minister&nbsp;&nbsp;NewswireDengue transmission: Docs group blames LG waste inefficiency&nbsp;&nbsp;The Morning",
       "sources": [
         {
           "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2QycnFGdGc5VDlCRDlyLTF4RTZTS2FfdW1HSXk4Xy1mZW11WDRkUzlXX0djTzBnQzNYVHdZOWpUMjM0SGlGVWdQS2VNelV0bGhZM3Y5Y29lbFAtb3RtM2NpMHZmZnRtZ1FoOTNablNsTVRlck9LS0RyZmFmOTAzOHk4b2wyb0I2OUZaN1NoS3FSSzRJSlN6MWZ1NktVcHVNT0twYmZOWGtiOWhxUFFMaVlvSldzODludVlYalUtSUNrNVdfVThBWXpB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHQycE9TeUZVbVJrREpJOG11bG5lUTZQUUl6d0k5Y0lqTFlINjkwLXhhaVdoYVBDRjRzME5hN3RYWUdUaTRSeFhtbnN0OEw3T3VvQkFXZ280N0lkNmlUQzZEQkl4VDg1WGNfNWdyRjAzeTNVTkVfdnZGbERRNHd5anBOTFA4ZWJhejl1eXYtTWdQMzkyYXZkRngybTVKZ9IBpgFBVV95cUxPNENlMm01a0lNZDUtdFFqRjJnbG9vWUxQNUpZblBLOWt6eTgzUmUtQkd4S1RUcWo5eXR6SmxtUVlaVGlCSkNTN1NFY2x1N29HYTVzdXRiVUZ2c1dtNHJRRDBqZDgxYkE3bTFiTTZZYVN2YkhjWmU3ay16SmJ4Z215WlJuS3ZYekJ3dzdVUjA4cEJZLXF5QTBJWHc1MHlpY3ZUb0tjalB3?oc=5"
         }
       ]
     },
     {
-      "id": "132501b479ca",
-      "title": "Ooty observatory uses cosmic muons to monitor Earth's upper atmosphere and Sun’s magnetic field - researchmatters.in",
-      "published": "2026-06-15T00:30:00+00:00",
-      "summary": "Ooty observatory uses cosmic muons to monitor Earth's upper atmosphere and Sun’s magnetic field&nbsp;&nbsp;researchmatters.in",
+      "id": "e0f2f1887041",
+      "title": "For millions of women, PCOS was never just about the ovaries - Forbes India",
+      "published": "2026-06-15T07:06:12+00:00",
+      "summary": "For millions of women, PCOS was never just about the ovaries&nbsp;&nbsp;Forbes IndiaPCOS often isn’t about ovaries and cysts – and its new name better reflects what women go through&nbsp;&nbsp;CNA LifestyleWhat is PMOS (formerly PCOS)? What to know about the hormonal syndrome&nbsp;&nbsp;Live ScienceBaton Rouge is 1 of 4 places in the nation where Meta is launching their newest workforce academy&nbsp;&nbsp;AOL.comOpinion | This common women’s health issue is getting a new name. It’s about time.&n",
       "sources": [
         {
-          "name": "researchmatters.in",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR2FxeFVtYVZkNDR1UG9TUjFTaEJvN0lDTTdON3ZIXzhReWdMY2xMSV9IZURyclBJVy02c2tHVDNFY3hYWTdKRm0xblBqME5HUW1mNTNyNUh5T2VSd2NuaGNGakNNaHRqM3lqQkEzNFpFci1jcUhpcEsyMDE3emcyWjNvTjJUTkJXX3cwcWpOdklnLXZEM3JXLWJUbG9ySDBzRDIwUjd3cEhpamJ1WHp5MmxfS2pnanl5b05OWDFJbw?oc=5"
+          "name": "Forbes India",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjIzMFFVUzVWWDhyYWFKVkJTTktqdWxNNFprSDJDRUliUFktbmZBNUdQOThlZ0Fhb21MZE9sVTRyTlJydkJOUk5tZG94Z0RmZnpBS2NBOUVyRXVqckFHeDBrWEdudlQ1Y29nSjZKNUhWMk54Yy0wZWtBT0N5UG9OOUFTTWduRlNpQjhFbnFuU1dYSUdBVE5obDFOd0dkVU9EN0c3WjRLMHZzcGx2elVoQUtpMTd1UkVUMGZvYdIBwgFBVV95cUxQQXV1bWhpV3ByLVJmM29yemQyUVRONk1aaWRWNG84VEFWSVR4TldlZy0xWTM5R2JzRW14OE5wRWJLRWNnTmxnd3loLUZzN01nbnZvTmFnY1lqYTFuenUwc2tuRVhWc2FEVl9JLUJpckg3eHI0WmQ0dDluWEx2SWlQS3RTRVREbmdjT09kWlVuRFpQZlVBLVZDSVltTzFZdVg1cFdUbzRmaDVtLTl2Q0Zpcm1FdUpUMGxwQ1RGcnhicTlhUQ?oc=5"
         }
       ]
     },
     {
-      "id": "0b59f67ffb14",
-      "title": "Ancient scorpion the size of a labrador once roamed Britain - HeritageDaily",
-      "published": "2026-06-14T20:52:13+00:00",
-      "summary": "Ancient scorpion the size of a labrador once roamed Britain&nbsp;&nbsp;HeritageDailyScientists Identify The World's Biggest Known Scorpion, The Size of a Dog&nbsp;&nbsp;ScienceAlertFossils lift lid on when giant scorpions ruled the Earth!&nbsp;&nbsp;Monmouthshire BeaconThis Week in Science: World's Biggest Scorpion, a Whale Graveyard, And More!&nbsp;&nbsp;YahooResearchers reclassify century old fossils as giant scorpion&nbsp;&nbsp;mezha.net",
+      "id": "adb94b49e13d",
+      "title": "Music Therapy And Accessible Concerts Provide Vital Support For Dementia Patients In New York - NDTV",
+      "published": "2026-06-15T04:37:24+00:00",
+      "summary": "Music Therapy And Accessible Concerts Provide Vital Support For Dementia Patients In New York&nbsp;&nbsp;NDTVUAE President to attend G7 Summit in France on Macron's invitation&nbsp;&nbsp;Asianet NewsableSensory-focused memory care can spark connections&nbsp;&nbsp;Columbus Jewish NewsMusic therapy class helps dementia patients in Greenville&nbsp;&nbsp;FOX Carolina NewsHow music therapy is helping dementia patients in New York | Tap to know more | Inshorts&nbsp;&nbsp;Inshorts",
       "sources": [
         {
-          "name": "HeritageDaily",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVZCTUhqbTdiV2w5MGxOUDhqZ1JSOHhHd21aanFzYjRVcjg2UlE3MWMzSlppbGZ3QWpnLWxRSjJvMDFpUEx0RjloWERPOXVRMTY0azYzU0MzRXZkZ0dFajJ6bndVMjZHSWhQMHZqNXVPMkgyR3V0aEVXZW02TFc3Sy1MZVJqY1o0amlDTU9Cb0o5R3ZDTTMxNXpMek9aQ3RnVHhVS2NlVQ?oc=5"
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2QycnFGdGc5VDlCRDlyLTF4RTZTS2FfdW1HSXk4Xy1mZW11WDRkUzlXX0djTzBnQzNYVHdZOWpUMjM0SGlGVWdQS2VNelV0bGhZM3Y5Y29lbFAtb3RtM2NpMHZmZnRtZ1FoOTNablNsTVRlck9LS0RyZmFmOTAzOHk4b2wyb0I2OUZaN1NoS3FSSzRJSlN6MWZ1NktVcHVNT0twYmZOWGtiOWhxUFFMaVlvSldzODludVlYalUtSUNrNVdfVThBWXpB0gHSAUFVX3lxTE4tRlZ3Ykx0STQySDF3TzlYRTdPQnJiX19YcGRta3VSeERKamhvN0l1d3ZURVZvZ1h3RzROTHQzZXJpa3J5amxZU0pOZ2hyWFFBUldLUlVEYzFJUnhRN2lyMFd6RHYtWEZmU0ZHREJSQms2bWNNbFc1SnQySk0zSHAwS0JVUjY0QWUwU1IydGQ3ZFhDX0hFRXNkbWJIVVFseGdpWW9JLVYtN2ZGbWh5R3VOZ1NWSkNUaFgzUFBseVBVVlBNNU9MLUFCUjg5b2tqUy1xUQ?oc=5"
         }
       ]
     }
