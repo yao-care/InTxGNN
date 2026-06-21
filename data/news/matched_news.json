@@ -1,8 +1,113 @@
 {
-  "last_updated": "2026-06-20T19:04:05.887809+00:00",
-  "total_count": 52,
-  "matched_count": 36,
+  "last_updated": "2026-06-21T02:10:56.746892+00:00",
+  "total_count": 43,
+  "matched_count": 28,
   "news": [
+    {
+      "id": "6b649a9c5b98",
+      "title": "H5N1 bird flu confirmed in Australia for the first time, meaning virus has now reached every continent - Fox News",
+      "published": "2026-06-21T00:52:28+00:00",
+      "summary": "H5N1 bird flu confirmed in Australia for the first time, meaning virus has now reached every continent&nbsp;&nbsp;Fox NewsAustralia confirms first case of H5N1 bird flu as virus reaches every continent&nbsp;&nbsp;BBCThousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNAustralia pledges action on H5N1 after bird flu case confirmed&nbsp;&nbsp;Al JazeeraH5 Bird Flu Virus Reaches Every Continent As Australia Detects 1st Case&nbsp;&nbsp;ND",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTJFT3BKV25VYmhmaDR1ejR3aUt4WUczcjJhQ0JlRXBzdmEzbFh6MEpKaUtHTGtEcVZ0dXh5Wk9sazViN2tGRnl4V01vSWJZYnRtbG9vN1JXX0l3dUxlV25ReDdrTFpSYmY3bnpySHduTGdueHpFUWhXbWdCWk5kRUdfcjZCbWd3d1dNNTdpaVdxN0RkM3lVQ2pGY3NFRHZnQUVBNTd3NFhHcm1YSVlBRVhB0gG3AUFVX3lxTE9Ga0xEQ25icHFtN09TRW9CZWpCSHRwczhTRWc4cHlUMVlFendEc0l2ZnRIenZ5RVE3RUFQeEZoaVI4R2p4cndzWHQxaWotNlhGVTk4cjdXUlREU2Zvcm1vcnVMVjU4Uy1iaXdpU1FCUkIwUzlodkNjZ3J1NVZDUWZjUkF6XzhPX19kT3AyRU05ZF9sQ1ZQaXdzOS1OU0tSN01Gd2dRSWRmT2VMS0FTSFVRcktvdG1iaw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5812",
+          "name": "influenza",
+          "keyword": "flu"
+        }
+      ]
+    },
+    {
+      "id": "d1eb0d9bf112",
+      "title": "Congo says confirmed Ebola cases rise to 956, including 247 deaths - Arab News",
+      "published": "2026-06-20T21:55:26+00:00",
+      "summary": "Congo says confirmed Ebola cases rise to 956, including 247 deaths&nbsp;&nbsp;Arab NewsEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)At least 30 deaths at Congo camp show Ebola could be spreading fast&nbsp;&nbsp;ReutersEbola Outbreak, DRC and Region, Situation Report #7, June 18, 2026&nbsp;&nbsp;ReliefWebEbola Cases Increase Almost 40% In A Week As Deaths Cross 200&nbsp;&nbsp;NDTV",
+      "sources": [
+        {
+          "name": "Arab News",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iRG1yTzN4ZDJmblZ1NXJMYy1vOWdaWnFfR2E3X1dXcUtXMHhjVlcyaVBIVEFzQm16a29fRHdDa2M1Z2d1b3JWYnFhT0tqelhkekVOYUdB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "de96487459dd",
+      "title": "Milky Way fossil fragment reveals how our galaxy formed",
+      "published": "2026-06-20T20:57:27+00:00",
+      "summary": "Milky Way fossil fragment reveals how our galaxy formed&nbsp;&nbsp;Earth.comZoom to See Terzan 5 Near Our Milky Way Galaxy’s Bulge&nbsp;&nbsp;NASA Science (.gov)Webb telescope reveals odd Milky Way relic is more than it seems&nbsp;&nbsp;MashableTerzan 5: The ancient stellar system hidden in the heart of the Milky Way&nbsp;&nbsp;The Times of IndiaAmazing star system discovered at the center of the Milky Way&nbsp;&nbsp;Universe Space Tech",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd0FhbGhhLUpGYk1pQ1NIdnJvNmtxMGNkVllnV0pMQ25KcW0yQ1AxTXNCb3k5amxGOFNiMVlGNzdDWnMyX3JGZDhYTG1UQVoyR3BUY19KT1NGbDBEUXdmUW16NEx4ZWQxNndPNDlQOVBkMUtiTGEtSnNTS2tWYXhjM0FpN2xQcldxOUpF?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "82ba0fd8b869",
+      "title": "Scientists reprogram brain immune cells to fight Alzheimer’s - The Shillong Times",
+      "published": "2026-06-20T20:38:49+00:00",
+      "summary": "Scientists reprogram brain immune cells to fight Alzheimer’s&nbsp;&nbsp;The Shillong TimesSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "The Shillong Times",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3c2aUFLb0ExNVRxQk51ODNhb1RUSzRuOUJNdVRNb0xkd1AzaXQtYnpUTkVnbHI3aTBrM3lxUkcwaG1wdDh2cEpBSTlXbkYtWFZfZDgxR1BMWU1FSng5cTdNdzRqNHYxTklwSDEzRW9MRjU0b1ZOVXRyMmEtM3dkcUhWY0ZOSVNtR1BkWjhjdzk0dFVKdXhmcDVQQzQ5bEgxV1E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic_dementia",
+          "name": "dementia",
+          "keyword": "alzheimer"
+        }
+      ]
+    },
+    {
+      "id": "bf619b3c8ebe",
+      "title": "Radio scans find no alien tech from the latest interstellar comet",
+      "published": "2026-06-20T19:40:01+00:00",
+      "summary": "Radio scans find no alien tech from the latest interstellar comet&nbsp;&nbsp;Phys.org🔭 SETI delivers its conclusion on interstellar object 3I/ATLAS: extraterrestrial technology or not?&nbsp;&nbsp;Techno-Science.net",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50V3dCUFo5eUlubUJLMV9VSVJBN1dtR3BTcjNTZXNjVERPMVFBVHhiT0JIbUFIOHJWV2lKLWh2Q0pKSG85N2EtUWh5YmIzV21LUUgyeU9STTJaRzlVWDhjdTZiOTN5U21VVlBZVnlUZ2ZyUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "472416032233",
       "title": "New nanotube membranes reveal unusually fast lithium-ion transport",
@@ -30,36 +135,10 @@
       ]
     },
     {
-      "id": "64f982782a89",
-      "title": "Antarctica is offering 30 to 50 years' worth of warning on sea level rise, models suggest",
-      "published": "2026-06-20T15:00:01+00:00",
-      "summary": "Antarctica is offering 30 to 50 years' worth of warning on sea level rise, models suggest&nbsp;&nbsp;Phys.orgAntarctic Ice Loss Study Reveals Decades of Predictable Sea Level Rise&nbsp;&nbsp;environment coastal & offshoreEmergent decadal predictability in Antarctic contribution to sea-level rise&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkeURVVDNPNHRLRjdZUXR6RmJkcTFDTUJJU3J1OGdDMm5VcllqQWhJQ3RVS0plLWFNc3ZnVlU4Z0VIaDNRNnFwb25JX0tMZDZ2OFhxenVoc1NpTVNXTS0tdEI4eUxHaUx0OXlvRktB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB01592",
-          "keyword": "iron",
-          "name": "Iron"
-        },
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
       "id": "fd33e2e84e6e",
       "title": "Measles outbreak in Bangladesh claims seven more lives; death toll rises to 677",
       "published": "2026-06-20T14:43:35+00:00",
-      "summary": "Measles outbreak in Bangladesh claims seven more lives; death toll rises to 677&nbsp;&nbsp;tennews.inBangladesh measles outbreak worsens; death toll rises to 666: DGHS&nbsp;&nbsp;NewsonairAntibiotic resistance drives up child deaths, treatment costs amid measles outbreak&nbsp;&nbsp;The Business StandardChristians Help Battle Measles Outbreak in Bangladesh&nbsp;&nbsp;Christianity TodayBangladesh: Measles epidemic eclipses 90,000 total cases&nbsp;&nbsp;Outbreak News Today",
+      "summary": "Measles outbreak in Bangladesh claims seven more lives; death toll rises to 677&nbsp;&nbsp;tennews.inBangladesh measles outbreak worsens; death toll rises to 666: DGHS&nbsp;&nbsp;NewsonairAntibiotic resistance drives up child deaths, treatment costs amid measles outbreak&nbsp;&nbsp;The Business StandardMeasles cases reach 124,738 as transmission continues despite vaccination drive&nbsp;&nbsp;Dhaka TribuneFour children die with measles symptoms in 24 hours&nbsp;&nbsp;Views Bangladesh",
       "sources": [
         {
           "name": "tennews.in",
@@ -85,7 +164,7 @@
       "id": "70614ee72437",
       "title": "Zero cervical cancer deaths in vaccinated young women - The Times of India",
       "published": "2026-06-20T14:40:00+00:00",
-      "summary": "Zero cervical cancer deaths in vaccinated young women&nbsp;&nbsp;The Times of IndiaHPV jab successes boost cancer charity's campaign&nbsp;&nbsp;BBCYoung women now have 'close to zero' risk of cervical cancer death after HPV jab&nbsp;&nbsp;BBCCervical cancer deaths have plummeted thanks to HPV vaccine&nbsp;&nbsp;New ScientistChildren vaccinated for HPV have close to zero risk of dying from cervical cancer before age 30, study suggests&nbsp;&nbsp;Sky News",
+      "summary": "Zero cervical cancer deaths in vaccinated young women&nbsp;&nbsp;The Times of IndiaYoung women now have 'close to zero' risk of cervical cancer death after HPV jab&nbsp;&nbsp;BBCEngland got cervical cancer deaths down to zero in young women. What this means for India’s fight&nbsp;&nbsp;The Times of IndiaCervical cancer deaths for vaccinated young women fall to zero in England: study&nbsp;&nbsp;The HinduCould the HPV vaccine eliminate cervical cancer deaths?&nbsp;&nbsp;Al Jazeera",
       "sources": [
         {
           "name": "The Times of India",
@@ -176,7 +255,7 @@
       "id": "5c404bdd61ae",
       "title": "Humans May Soon Be Able to Regrow Body Parts—Including Fingers and Limbs—Thanks to a Groundbreaking Serum",
       "published": "2026-06-20T13:00:00+00:00",
-      "summary": "Humans May Soon Be Able to Regrow Body Parts—Including Fingers and Limbs—Thanks to a Groundbreaking Serum&nbsp;&nbsp;YahooHumans may have hidden regenerative powers&nbsp;&nbsp;ScienceDailyNew Study Suggests Humans May Possess Hidden Regenerative Powers for Tissue Repair&nbsp;&nbsp;Medical Dialogues\"Once you show regeneration can be activated, it opens the door to new questions...\" Mammals – including us – could regrow limbs say scientists&nbsp;&nbsp;BBC Wildlife MagazineFrom Lab to Life: Humans ",
+      "summary": "Humans May Soon Be Able to Regrow Body Parts—Including Fingers and Limbs—Thanks to a Groundbreaking Serum&nbsp;&nbsp;YahooHumans may have hidden regenerative powers&nbsp;&nbsp;ScienceDaily\"Once you show regeneration can be activated, it opens the door to new questions...\" Mammals – including us – could regrow limbs say scientists&nbsp;&nbsp;BBC Wildlife MagazineNew Study Suggests Humans May Possess Hidden Regenerative Powers for Tissue Repair&nbsp;&nbsp;Medical DialoguesScientists Discover Gene ",
       "sources": [
         {
           "name": "Yahoo",
@@ -224,19 +303,6 @@
       ]
     },
     {
-      "id": "2ed36b885c14",
-      "title": "World’s first HIV-to-HIV lung transplant achieved in the US - The Times of India",
-      "published": "2026-06-20T12:32:00+00:00",
-      "summary": "World’s first HIV-to-HIV lung transplant achieved in the US&nbsp;&nbsp;The Times of IndiaWorld's 1st HIV-to-HIV Lung Transplant Performed at NYU Langone Health&nbsp;&nbsp;PR NewswireIn world first, a man living with HIV received a lung transplant from an HIV-positive donor&nbsp;&nbsp;Scientific AmericanMedical miracle: World’s first HIV-to-HIV dual lung and liver transplant achieved in US&nbsp;&nbsp;Interesting EngineeringFirst HIV-Positive-to-HIV-Positive Lung Transplant Reported&nbsp;&nbsp;Con",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQjJ6QlFNQ3kxVjhMN3VmTlAwdjRFb1BjRWtfaEYyanVzQzlhUk9KdFdIOEdmYXNQd29rR05EV19kVUV5cGJiVU5zTlp5bktrQkJ6UGNwT3dkWWhOZi1xSk1rZ1piYjVMZWFVMzZmSVlEOE9CX0hVZEFuSEp5Y0lBN2lSaW1pOEJKbmpTYThER0wydkR4OHlnWVVFUzNaSVhNa3I5TUJ1Sk95aEk4WDlVd3I5Z19YX0JibkFVd3JCVHNTdWpMc1pMekxUWU51S2pRSEHSAdcBQVVfeXFMTVlIbjdpVDNlemFpUzEtUU9wRlVjdG50UXhTYTB0UGk5cnpWYVV2VWthZEkwUEYzM3hZLWlMT2VDSWN2ajEtbE9lUE5pTlBKNzdSODNuR3pLSmtJTUVlSWxzbkc3T0x5VG9BLWlILUJzSVFIZ3hHSGttLUYzc2VOLU4yZFhlQjBobC1JME1HZmotNFBDN25GOHRzX0JKTUp0SWN2QkZYM01OVV8ydEJMWlVGVUlxcHMyelo4Mi05MmlMMGhkMm1RUWtqZmhFNHhIRjMzNThBaUU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "be5808a81568",
       "title": "This DNA repair gene went rogue and exposed a cancer weakness",
       "published": "2026-06-20T12:29:24+00:00",
@@ -263,52 +329,6 @@
       ]
     },
     {
-      "id": "f6e09827413d",
-      "title": "IFS officer Vishvas Vidu Sapkal is India's new Ambassador to Slovakia - Asianet Newsable",
-      "published": "2026-06-20T12:00:45+00:00",
-      "summary": "IFS officer Vishvas Vidu Sapkal is India's new Ambassador to Slovakia&nbsp;&nbsp;Asianet Newsable'It's pure joy' - How silent discos can transform dementia care&nbsp;&nbsp;BBCSensory-focused memory care can spark connections&nbsp;&nbsp;Columbus Jewish NewsMusic therapy class helps dementia patients in Greenville&nbsp;&nbsp;FOX Carolina NewsDementia care: Re‑envisioning the role of music&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Asianet Newsable",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbEIySDFjVHpFcmxWXzh0dFcxZFR1UmxadGV4U1UzbDhMMmpBU3JYM28zTl94UkhFZlRVRE9TMXhmSEMzcTBNNEdtNmw1c2U5UU9TN3hyYnItYTM2YXNFS2NZTVlLalpRSThZQWF1M1dTZU4zZzd5UFN6SWRlN2RNV0RWZUNLdW8wRlA2SVF2ZW5hRmtQV01Yc2J2ZEIxamdkYVhBcnhfT01SemctYzB4QVBwSVR0THZ2N1VrVHZ2SnhpWG1yZ0HSAcsBQVVfeXFMUEpybnQxdWxNSWlRYmYtWXBsZl9vOVRCX3dzYjRVYnZWcjhCbHNNUkptbElxWXg5dW81a1VTekVJWUdYeTBqSWx1RlctTGdITGtNNTY4UmRJR2xXUFdPTEd0bTlHWG1PT20tZmtFSUN2Sy1VUTRoR3R6d2VDMElnYmdnb2hiNVJTdjRIWW1nUmF5clZvXzFyN0dpRTVxMy01bWxWRTVqTzBzQkVIdzN4bDRtTlNOOVdBS3c2aWdUYUxCUk1uanBZZFV6TGc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic_dementia",
-          "name": "dementia",
-          "keyword": "dementia"
-        }
-      ]
-    },
-    {
-      "id": "54cdb779943d",
-      "title": "EU ban on BPA chemical in food packaging takes effect",
-      "published": "2026-06-20T11:18:45+00:00",
-      "summary": "EU ban on BPA chemical in food packaging takes effect&nbsp;&nbsp;dw.com",
-      "sources": [
-        {
-          "name": "dw.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQnhFa3Y5dHVrV0xkMlgzSGg5Rk8tdXcxY1ZCYlpfcG5kVDluRmJsUjJ1YzFBdW5FbmItZkdMVW1zSXQ3cVVZcV85UTJaTDJ0SzljZjhtMC1pRXdYZllpZDc3cHZCTDRuU01ZME5UdnY5S19QdzBvczVhZ3JhakpraTlORFVpNHhkUVF2SXFpSdIBjwFBVV95cUxQckNIWUUxUlJub2hVUjEzdDJxdVpQcWs2WFBuR3ozeEI3SnRORlFsejhhOUxRdFo4MWJfUEtIbENna2wwT0tpQWdpZFREdHB1bEhhQ3hOcWJXZy04Mm5ZWVNVSWZUQzMyQno4Rzk4Q0tNdGw2U3YtUWZRUTZhMjhkOHFQQ0RwWlRZRWROU1JGUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "1200_1134_15512_5080_100078",
-          "name": "hypertension",
-          "keyword": "BP"
-        }
-      ]
-    },
-    {
       "id": "ca4ee85c67b6",
       "title": "Scientists mimic heart muscle cells with conductive plastic - Technology Org",
       "published": "2026-06-20T11:00:00+00:00",
@@ -322,6 +342,26 @@
       "matched_keywords": []
     },
     {
+      "id": "3c8e692098a3",
+      "title": "Saturn’s Icy Moon Is the Perfect Place to Settle, NASA Scientist Argues",
+      "published": "2026-06-20T11:00:00+00:00",
+      "summary": "Saturn’s Icy Moon Is the Perfect Place to Settle, NASA Scientist Argues&nbsp;&nbsp;FuturismThe 'Persian Gulf of Space': NASA study says Saturn's moon Titan holds vast natural gas and water reserves&nbsp;&nbsp;The Times of IndiaNew Study Assesses Titan's Resources and their Potential Uses&nbsp;&nbsp;Universe TodaySaturn’s icy moon ideal place to settle, establish rest stop for trips into deep space: NASA&nbsp;&nbsp;New York PostA Titan among worlds&nbsp;&nbsp;The Planetary Society",
+      "sources": [
+        {
+          "name": "Futurism",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6YTVlYVhfaTdSZFp3bFJLVFlPY1o4NWJRVGNndjQtZ3pTRWxlYktlREZWa092UzYzS19IaW9Ma001aXhNYjZkb1BJc2dEZGFBaEFETUJ5X2hvYjlON0tKdjdUZW43ZWlXZ2h3bjRJNHlIYkF4aG1lSw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
       "id": "33a4aa2c0610",
       "title": "Scientists identify two distinct biological subtypes of autism using brain scans",
       "published": "2026-06-20T10:05:18+00:00",
@@ -333,58 +373,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "85878ec6607f",
-      "title": "Largest Denisovan DNA study reveals ancient genes still active in Oceanian populations - Archaeology News Online Magazine",
-      "published": "2026-06-20T09:41:30+00:00",
-      "summary": "Largest Denisovan DNA study reveals ancient genes still active in Oceanian populations&nbsp;&nbsp;Archaeology News Online MagazineGenomes from Oceania offer new clues to human evolution&nbsp;&nbsp;YaleNewsDenisovan DNA influences the immune systems of modern Oceanians — but researchers aren't sure why&nbsp;&nbsp;Live SciencePeople on These Pacific Islands Have the Most Ancient Genome of All Humans (and a Lot of Denisovan Genes)&nbsp;&nbsp;ZME ScienceDenisovan DNA still switches genes on and off ",
-      "sources": [
-        {
-          "name": "Archaeology News Online Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1dTYnFnTE11anp5SUlINnprV3VsSkpGemV0SXRQY2FrekZUUWxqd2p3Z3pfa3pKR0dkRUNKOUI4bUNWNmdIR054MkIxajVEdV90dnZDQndaRFNncjg5Tko0VGNiQ29OVTg1TlR3YTlvcWt5c2d2V2MwSzJ2UFI5cU93?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5812",
-          "name": "influenza",
-          "keyword": "flu"
-        }
-      ]
-    },
-    {
-      "id": "202df6ca2968",
-      "title": "Deadly H5 bird flu spreads worldwide with Australia outbreak",
-      "published": "2026-06-20T09:30:22+00:00",
-      "summary": "Deadly H5 bird flu spreads worldwide with Australia outbreak&nbsp;&nbsp;ThePrintAustralia confirms first case of H5N1 bird flu as virus reaches every continent&nbsp;&nbsp;BBCThousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNAustralia pledges action on H5N1 after bird flu case confirmed&nbsp;&nbsp;Al JazeeraH5 Bird Flu Virus Reaches Every Continent As Australia Detects 1st Case&nbsp;&nbsp;NDTV",
-      "sources": [
-        {
-          "name": "ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUxSXzh1dkthTlJhUEZua1dGaVZuYUhUSDZtUzlwQUlUemZQUkpoMlg0Wm5BLU02RnNOOTNjaTllb3lzY2ZLNFRDRzlIN0x0OXJ1NDlZb0FUX2UtbXc2UkltMWJrRjl2dElsTGVGSVF2YW5DNVZjQzVQTHVzcHJIT05QdTVjRjB3ZEdlTmo3YjNwWXBGVnlOSU02Y9IBoAFBVV95cUxObTNaMFZwVnppQVZVTy15Q2k3YllTRVBQRlgzYUgyb1lqUlRhZGgtZTZpOWVNVzM4T3NJS3I1SnVPdl9FWkpkaDhXTllyeFJ3aDRrMEc1V1Q2bDhMSklTUXBWN1FsUUhDWlExVklKUHVaMG5SMlFlLW1oUVJ5Q3Qyb29kcV9SazdXZG1hT2pFMnRBQl80ZVV6cVlocmhaRGdY?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5812",
-          "name": "influenza",
-          "keyword": "flu"
-        }
-      ]
     },
     {
       "id": "e277d81474d3",
@@ -403,7 +391,7 @@
       "id": "5643c8e88cb6",
       "title": "Is PMOS The 'Diabetes Of The Ovaries'? Expert Warns Of India's Fertility, Infertility Crisis",
       "published": "2026-06-20T08:03:16+00:00",
-      "summary": "Is PMOS The 'Diabetes Of The Ovaries'? Expert Warns Of India's Fertility, Infertility Crisis&nbsp;&nbsp;NDTVpolyendocrine metabolic ovulatory syndrome&nbsp;&nbsp;The Island NewsGoodbye PCOS, Hello PMOS&nbsp;&nbsp;Greater KashmirYoga may aid PMOS management beyond weight loss, AIIMS studies show&nbsp;&nbsp;The Times of IndiaNew Name, New Treatment: GLP-1s Could Help Improve Symptoms of PMOS&nbsp;&nbsp;Medscape",
+      "summary": "Is PMOS The 'Diabetes Of The Ovaries'? Expert Warns Of India's Fertility, Infertility Crisis&nbsp;&nbsp;NDTVpolyendocrine metabolic ovulatory syndrome&nbsp;&nbsp;The Island NewsYoga may aid PMOS management beyond weight loss, AIIMS studies show&nbsp;&nbsp;The Times of IndiaGLP1-s Were Life-Changing For My PMOS — Then I Wanted My Old Face Back&nbsp;&nbsp;refinery29.comNew Name, New Treatment: GLP-1s Could Help Improve Symptoms of PMOS&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "NDTV",
@@ -429,7 +417,7 @@
       "id": "205aae772e69",
       "title": "Hypermetabolism in early life may harm long-term health: Study - Awaz The Voice",
       "published": "2026-06-20T06:35:36+00:00",
-      "summary": "Hypermetabolism in early life may harm long-term health: Study&nbsp;&nbsp;Awaz The VoiceCan Childhood Trauma Speed Up Cellular Ageing? Here's What A New Study Says&nbsp;&nbsp;NDTVImpact of Early Life Adversity on Epigenome at Molecular Level Mapped in Macaques&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsChildhood adversity may leave lasting biological scars decades later&nbsp;&nbsp;EurekAlert!KSU study explores how childhood trauma affects body and mind&nbsp;&nbsp;Kennesaw State Univers",
+      "summary": "Hypermetabolism in early life may harm long-term health: Study&nbsp;&nbsp;Awaz The VoiceCan Childhood Trauma Speed Up Cellular Ageing? Here's What A New Study Says&nbsp;&nbsp;NDTVEarly life adversity leaves a lasting molecular imprint across the body, primate study reveals&nbsp;&nbsp;Medical XpressWhy We Are Misjudging How Childhood Trauma Changes the Body&nbsp;&nbsp;Neuroscience NewsChildhood adversity may leave lasting biological scars decades later&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
           "name": "Awaz The Voice",
@@ -442,32 +430,6 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "ab3e57a714b9",
-      "title": "Scientists Reprogram Brain Immune Cells To Fight Alzheimer's: Study",
-      "published": "2026-06-20T06:34:07+00:00",
-      "summary": "Scientists Reprogram Brain Immune Cells To Fight Alzheimer's: Study&nbsp;&nbsp;NDTVSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmtFc1A4Q2JQLXdFN0NURlRxUXozOEhCb1pJN3RXbVNQUUJMeVBpTWlXbGhaS1VHcFloQmlSOGwtTlVmYnE0V1M5OVpNWFdvT0NMTUlUdkd2eExMdmJzUHFMQ1VTTHdIa2ZPSF85ZzhwLVhVdWdiemQwd19UdGdJQ2hsQThWMDVjXzc0VmxqZXdqQVN0QkFlWHhIbncxUHlZbUdmMHNkeG9qZGpMbHZvWFMxcjNOcW1F0gHAAUFVX3lxTE9RNzliR1Y0NWl6OHE0SDZma2E4WlR2OGg2VXhVY2RvcjdoalNVc19RN2VmYWlPSHV6N05WMGkzbzlkVlQzb3E2WDR0WFJ6XzBEN2ZpYnFwcFdoM1hhdUp0ZDU1Zk5oVmlmN18ybEMzNVZ3VG81dTFnMm04TV80Rkw0b2FvYTdDVlhsY0ZNVzBHcVlDUTZLM0lMcmctc2tLSlZ0c3k1dDRoRGVXN0Vhc2g4bjZ2UnV0bk9ySVdTVkpLbQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic_dementia",
-          "name": "dementia",
-          "keyword": "alzheimer"
         }
       ]
     },
@@ -581,63 +543,17 @@
       ]
     },
     {
-      "id": "e70f2b37ee4c",
-      "title": "DRC Ebola outbreak infects 75 medics since May, WHO says",
-      "published": "2026-06-20T03:52:21+00:00",
-      "summary": "DRC Ebola outbreak infects 75 medics since May, WHO says&nbsp;&nbsp;chinadailyasia.comEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)At least 30 deaths at Congo camp show Ebola could be spreading fast&nbsp;&nbsp;ReutersEbola Outbreak, DRC and Region, Situation Report #7, June 18, 2026&nbsp;&nbsp;ReliefWebMore than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’&nbsp;&nbsp;Al Jazeera",
+      "id": "3e883e437ec4",
+      "title": "World Continence Week 2026: Causes of Urinary Incontinence, Prevention Tips and Best Foods for Bladder Health",
+      "published": "2026-06-20T00:01:06+00:00",
+      "summary": "World Continence Week 2026: Causes of Urinary Incontinence, Prevention Tips and Best Foods for Bladder Health&nbsp;&nbsp;NetmedsHSE highlights importance of early intervention during World Continence Week&nbsp;&nbsp;SaoltaHSE information stand to highlight continence care in Galway Shopping Centre today&nbsp;&nbsp;Galway AdvertiserA leaky bladder isn’t just an embarrassing inconvenience&nbsp;&nbsp;Free Malaysia TodayEDANA Launches Landmark Continence Report To Mark The Start Of The World Contine",
       "sources": [
         {
-          "name": "chinadailyasia.com",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fblFudGRSQnZNeG9UOWZuRDlQRnE3Yi1NRUEwTE5oRDFDLXoyZVh5X1EtMHRXcGd2NjRzQ0k3ekllTk1Yb0tVa2FDZzZMdVpzN0kyOHp1S3o?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "2d40ec1a9f78",
-      "title": "Consciousness Could Exist in Bodies Nothing Like Ours, Researchers Say",
-      "published": "2026-06-20T02:00:52+00:00",
-      "summary": "Consciousness Could Exist in Bodies Nothing Like Ours, Researchers Say&nbsp;&nbsp;ScienceAlertConsciousness is Not Exclusive to Earth’s Biology, Philosophers Argue&nbsp;&nbsp;Sci.NewsThe Latest: Plants as “Non-Human Persons”&nbsp;&nbsp;Science and Culture TodayNew studies suggest consciousness exists in organisms without brains&nbsp;&nbsp;IAI TVConsciousness likely not unique to earthlings, paper says&nbsp;&nbsp;University of California, Riverside",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNzZSM2g5VmswSm5HSGRWZEthVUJ0OG5GV3FZR3Fna09zMkVHV2tLcThzczF3LW14WlJ3aUNpUTZQblBkR0ZEdzctNHpMZGpmOTkzVUNXN1BnU2R5TEs3RkhZVGw4RVFid3VteGR2azd0ODQ3QlcycWwwcGF2WVgxZDNHMlNGU1ZDMkFYNXpjRWtFYmZvaEN0b2FCdFcyMXM?oc=5"
+          "name": "Netmeds",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVXktcXhyNE1oNjBRdkpaRmwySXdOWHFtTS1lVGtNMUFJNFlNWFlTVVlvaXEyeXFfQjVPUENITzNnaGRTUFJkNkR1SFA2bERROWlLSmFpcnJwNW9JZnpMSnJBTHpZWi1fcDg4cGdrUlpPNjlDM0NqUmFxdDZjejJWdEd1aXp4VTA1NVNrZzF3VU8wamRxVjJRMmdwZ3VBMDU2eTFFVEVOR2U2UDI4S3AtMlE0MzJ0ZFhmMVdURElmVEVWWkFhdTBMOGNpbTM0SXVoQ25pcVRZaENCVzFGNUdZY1FqNjBIRjBJ?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "7161a73c22fd",
-      "title": "Popping a cocktail of supplements every day might be doing you more harm than good",
-      "published": "2026-06-20T00:46:56+00:00",
-      "summary": "Popping a cocktail of supplements every day might be doing you more harm than good&nbsp;&nbsp;BBCNew research reveals 20% of liver damage cases are caused by one common habit&nbsp;&nbsp;Daily ExpressWhat to Know Before Adding Supplements to Your Routine&nbsp;&nbsp;AARP6 tips for choosing quality vitamins and supplements&nbsp;&nbsp;Caledonian RecordSupplements that may help—and the ones to think twice about&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QQ1l4SUxKQi1Ka0dxc0xsX09mYktMVUlwLURKQXp0dGtOczFqRW5Gb2p0SVVYbWQzSjk4YXFmeDVDa2REUXlqMThhRTBfU2hhYlB6M0JaaDBLUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4979",
-          "name": "asthma",
-          "keyword": "dama"
-        }
-      ]
     },
     {
       "id": "6217892ca9fc",
@@ -653,10 +569,42 @@
       "matched_keywords": []
     },
     {
+      "id": "7c64f0c91962",
+      "title": "Could Vitamin C Be the Secret to Keeping Your Brain Younger?",
+      "published": "2026-06-19T18:33:24+00:00",
+      "summary": "Could Vitamin C Be the Secret to Keeping Your Brain Younger?&nbsp;&nbsp;SciTechDailyPeople Who Always Drink Orange Juice With Breakfast Have Stronger Brains As They Age&nbsp;&nbsp;YourTangoLow Vitamin C Levels Linked to Higher Dementia Risk, Study Finds&nbsp;&nbsp;Seoul Economic DailyCommon vitamin may influence brain aging in ways scientists didn’t expect&nbsp;&nbsp;New York PostPlasma Vitamin C Levels Linked to Healthier Brain Structure&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNUg0NGN2MGNGR3dRMlpzLU1JQTB5VEo4NlZNenM4NklIZGw3T0tzU2hhRnRYRmE0MFUwUmFhTEZSWVU4ZVozYlp4Q2hnLXVwSWU0cUd1bm9qLWRTcEtyMEVSUFpfalgwLXEyVmRvTEFfM3VBNWpFV1pCY2p3dU9MVDZ4MEJPLVNpUDVpV3d3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5812",
+          "name": "influenza",
+          "keyword": "flu"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic_dementia",
+          "name": "dementia",
+          "keyword": "dementia"
+        }
+      ]
+    },
+    {
       "id": "7b537b56705b",
       "title": "Hidden underground, fungi drive carbon storage, crop health and ecosystem stability",
       "published": "2026-06-19T17:40:02+00:00",
-      "summary": "Hidden underground, fungi drive carbon storage, crop health and ecosystem stability&nbsp;&nbsp;Phys.org68 Quadrillion Miles: Scientists Map Earth’s Vast Hidden Fungal Network for the First Time&nbsp;&nbsp;SciTechDailyA Hidden Universe: Underground Fungi Could Stretch to the Sun Nearly a Billion Times&nbsp;&nbsp;atmos.earthSubterranean fungi networks more than 100 quadrillion km in length, study finds&nbsp;&nbsp;The GuardianAn Underground Network - The Internet Beneath Our Feet&nbsp;&nbsp;PlanetF",
+      "summary": "Hidden underground, fungi drive carbon storage, crop health and ecosystem stability&nbsp;&nbsp;Phys.org68 Quadrillion Miles: Scientists Map Earth’s Vast Hidden Fungal Network for the First Time&nbsp;&nbsp;SciTechDailyA Hidden Universe: Underground Fungi Could Stretch to the Sun Nearly a Billion Times&nbsp;&nbsp;atmos.earthSampling in the Gobi Desert (IMAGE)&nbsp;&nbsp;EurekAlert!An Underground Network - The Internet Beneath Our Feet&nbsp;&nbsp;PlanetFood News",
       "sources": [
         {
           "name": "Phys.org",
@@ -669,6 +617,26 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "2d52a4805085",
+      "title": "EU ban on BPA chemical in food packaging takes effect",
+      "published": "2026-06-19T17:13:05+00:00",
+      "summary": "EU ban on BPA chemical in food packaging takes effect&nbsp;&nbsp;DW.com",
+      "sources": [
+        {
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQnhFa3Y5dHVrV0xkMlgzSGg5Rk8tdXcxY1ZCYlpfcG5kVDluRmJsUjJ1YzFBdW5FbmItZkdMVW1zSXQ3cVVZcV85UTJaTDJ0SzljZjhtMC1pRXdYZllpZDc3cHZCTDRuU01ZME5UdnY5S19QdzBvczVhZ3JhakpraTlORFVpNHhkUVF2SXFpSdIBjwFBVV95cUxQckNIWUUxUlJub2hVUjEzdDJxdVpQcWs2WFBuR3ozeEI3SnRORlFsejhhOUxRdFo4MWJfUEtIbENna2wwT0tpQWdpZFREdHB1bEhhQ3hOcWJXZy04Mm5ZWVNVSWZUQzMyQno4Rzk4Q0tNdGw2U3YtUWZRUTZhMjhkOHFQQ0RwWlRZRWROU1JGUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "1200_1134_15512_5080_100078",
+          "name": "hypertension",
+          "keyword": "BP"
         }
       ]
     },
@@ -708,31 +676,11 @@
       "id": "fa126f87a013",
       "title": "Sri Lanka dengue fever cases surge to 44,000 cases this year",
       "published": "2026-06-19T16:00:40+00:00",
-      "summary": "Sri Lanka dengue fever cases surge to 44,000 cases this year&nbsp;&nbsp;marketscreener.comSri Lanka is facing a new dengue strain outbreak | Tap to know more | Inshorts&nbsp;&nbsp;InshortsHealth authorities urge public to eliminate mosquito breeding sites as cases climb&nbsp;&nbsp;Daily Mirror - Sri LankaMinister urges weekly 30–45 minutes of cleaning surroundings to prevent dengue&nbsp;&nbsp;NewswireThe rising toll of dengue&nbsp;&nbsp;The Morning",
+      "summary": "Sri Lanka dengue fever cases surge to 44,000 cases this year&nbsp;&nbsp;marketscreener.comSri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year&nbsp;&nbsp;ReutersSri Lanka is facing a new dengue strain outbreak | Tap to know more | Inshorts&nbsp;&nbsp;InshortsNamal criticises dengue response and Government policies&nbsp;&nbsp;Daily Mirror - Sri LankaThe rising toll of dengue&nbsp;&nbsp;The Morning",
       "sources": [
         {
           "name": "marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlZZRHBOVHZSVklPM25QOUV6RFZBRUVXeEpWaXpLUldSYmtBSTU1cXpodkkyNldGTnQ3UTBJRWZOUk1odTc0aGJISUI5dEVyQTNMd1J4d0QtZlE3X2ZEdy1sdWxxemI3U3dWOHV5UE1SSTNoZkQtTzZsSndmU3dkSXpHNmFGVVVqTVZXd1RwTGo0eTNyWGZXc1dVQlpRbUgyTmpjYXdZMndNalNIWlQxdGlkTQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "32de5d13f688",
-      "title": "NASA should build a biocontainment facility on the moon to protect Earth, researchers advise",
-      "published": "2026-06-19T15:20:04+00:00",
-      "summary": "NASA should build a biocontainment facility on the moon to protect Earth, researchers advise&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pcW55WmllRWhmU0RqRjZlRExHa05vRVlIbU9sNUhtWHViT2Q3QmE2WU9hQzJmaGFra2dLQlQzZzJ6RzNPajZYWlljZXMxOVpTM19HOEs1U2JuSzQwMGR6cjd6MmI3WWlNaVZPTkZaRzd0QngwdmVlcTFWWFJIdWs?oc=5"
         }
       ],
       "matched_keywords": [
@@ -784,6 +732,19 @@
       "matched_keywords": []
     },
     {
+      "id": "4b18c747faa1",
+      "title": "Scientists finally pinpoint the cause of Atlantic Ocean warming",
+      "published": "2026-06-19T14:02:25+00:00",
+      "summary": "Scientists finally pinpoint the cause of Atlantic Ocean warming&nbsp;&nbsp;Earth.comResearchers (IMAGE)&nbsp;&nbsp;EurekAlert!The world’s two largest oceans may not follow the same climate rules&nbsp;&nbsp;Tech ExploristFSU Scientists Uncover Differences in Drivers of Long-Term Temperature Changes in Atlantic, Pacific Oceans | Newswise&nbsp;&nbsp;NewswiseAtlantic and Pacific may follow different rules on long-term warming, analysis shows&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUzkyUmxvSmp6RHRHeXZWZElJY2c3MUhmcmlCRnhTNGxkU1dleUZZY21QX29ZWUtTbXIwVDdGQk1PdWZFS1YxSHFVeG5jVkhjT0VDY2plUXdGRkpva2hFVXlQTlNNQkswQ2VfNHc1MHlTYTRhbXNiYkRQTXBCSmY2Njd2dElhT3FuTi1UbXBPcVo2NXVETFE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a39832950a57",
       "title": "WHO Issues First-Ever Guidance For Paediatric Dengue Treatments",
       "published": "2026-06-19T12:41:46+00:00",
@@ -800,7 +761,7 @@
       "id": "7f940bf61916",
       "title": "World Sickle Cell day 2026: Check causes, symptoms and awareness - The Economic Times",
       "published": "2026-06-19T12:31:05+00:00",
-      "summary": "World Sickle Cell day 2026: Check causes, symptoms and awareness&nbsp;&nbsp;The Economic TimesSickle Cell Anemia Awareness Day: Why Fighting Stigma Is As Important As Treatment&nbsp;&nbsp;NDTVBeyond Genotype Awareness: Nigeria Must Build a Sickle Cell Response That Serves Warriors&nbsp;&nbsp;MediumSickle Cell Warriors Want Treatment Included In Health Insurance Packages&nbsp;&nbsp;News Agency of NigeriaCOMMENTARY: Closing survival gap equity in sickle cell disease&nbsp;&nbsp;Dominica News Online",
+      "summary": "World Sickle Cell day 2026: Check causes, symptoms and awareness&nbsp;&nbsp;The Economic TimesSickle Cell Anemia Awareness Day: Why Fighting Stigma Is As Important As Treatment&nbsp;&nbsp;NDTVBeyond Genotype Awareness: Nigeria Must Build a Sickle Cell Response That Serves Warriors&nbsp;&nbsp;MediumBlood donations: A way to give back on World Sickle Cell Day and Juneteenth&nbsp;&nbsp;KCCIRaising awareness and highlighting advances in treatment on Sickle cell awareness day&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "The Economic Times",
@@ -813,45 +774,6 @@
           "disease_id": "11382",
           "name": "sickle cell anemia",
           "keyword": "sickle cell anemia"
-        }
-      ]
-    },
-    {
-      "id": "95c7caa7552c",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Safe, scalable Ebola (Bundibugyo) care in DR Congo: operations, clinical guidelines and treatment-centre design - World Health Organization (WHO)",
-      "published": "2026-06-19T12:27:17+00:00",
-      "summary": "WHO Health Emergencies EPI-WIN webinar: Safe, scalable Ebola (Bundibugyo) care in DR Congo: operations, clinical guidelines and treatment-centre design&nbsp;&nbsp;World Health Organization (WHO)WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease&nbsp;&nbsp;World Health Organization (WHO)WHO Releases First Comprehensive Clinical Guidelines for Filovirus Outbreaks&nbsp;&nbsp;streamlinefeed.co.keEbola spreading ‘fast’ in DR Congo, warns WHO&nbsp;&nbsp;News ",
-      "sources": [
-        {
-          "name": "World Health Organization (WHO)",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOTXlTWmdoQjFuVWVxdlU5cUdvODJCdWJDcm0tWE9kWnp6LURuaC1OenJJR3lYNzhDblBuSWNEaHMwWHBoMEpxWmYtOU5UUmxfdjczazFmMzk1eURjWkJyRmQxOTd6Mks0VmY2VVU1c1ZBZHYxdmdDZTFkcFVlaWwzRkUtLXZoRF9Mc3pFSDNUVkpKX0c3Q1NtT2VZSWtsWDNKYkpBT1MwSExZTlpMUUNCaVI0NHNnLW9FZHBBT2ZBejdlTzFmQjdyV3pLYm43aFBNcHlVS3B0RjhlWXBJSFVKcXpRN1pWQS1wS1NteFdJMWRpbnFvZmhQNFRyUTQtcDBndURoeDVyOGcxMEM3RmU3aUhuWU45a3pDYmJiQ1Bra3QwNkpFQk5UdnVQZE5tcUc4OEYteHptWlFCLUpKNHZiaXJn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ac0b374283cf",
-      "title": "Prevalence and risk factors associated with diabetic retinopathy: a cross-sectional study in northern Xinjiang",
-      "published": "2026-06-19T12:26:22+00:00",
-      "summary": "Prevalence and risk factors associated with diabetic retinopathy: a cross-sectional study in northern Xinjiang&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YN2xuclpRQ0prNHRpSmxJRUV4cUFNU3hqbG1kWUlobmZLM05SSmN4NTlrSDB0M2NfSGhXUjZhSlA3Q0dZbE1GS2FSX2N0Yk9DLWloY2JWY09yY0dKXzNr?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "5266",
-          "name": "diabetic retinopathy",
-          "keyword": "diabetic retinopathy"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic_diabetes",
-          "name": "diabetes",
-          "keyword": "diabetic"
         }
       ]
     },
@@ -882,26 +804,6 @@
       ]
     },
     {
-      "id": "91885a0c23e2",
-      "title": "NASA mission to study space weather impacts of Earth's atmosphere",
-      "published": "2026-06-19T11:00:01+00:00",
-      "summary": "NASA mission to study space weather impacts of Earth's atmosphere&nbsp;&nbsp;Phys.orgNASA Mission to Study Space Weather Impacts of Earth’s Atmosphere&nbsp;&nbsp;NASA (.gov)NASA Selects LASP Mission to Study How Earth and Space Weather Connect | Newswise&nbsp;&nbsp;NewswiseNASA selects mission to study space weather interaction with Earth’s atmosphere&nbsp;&nbsp;SpaceNewsNASA’s DAPHNE Mission Set To Study Space Weather’s Earth-bound Edge&nbsp;&nbsp;Orbital Today",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Uc2wxMFdqUlVxUjJEZ0hCMFotQkk1VDREMC1PbkNWNjBuaEE3S2tfcHZLUk5WTjMzRXRncjJTd2xFSWJ5UEw5S2hRV21kTzFwRGNfUGhSTFBaMXIzZmlpc01tWWdYV0t3SzZ3YnZaOFBsSXNaY0JkVw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
       "id": "9f7380bb7df0",
       "title": "Beyond Geriatric Peace: Ageing, Longevity Capital, and the New Frontier of Power",
       "published": "2026-06-19T10:47:53+00:00",
@@ -915,77 +817,17 @@
       "matched_keywords": []
     },
     {
-      "id": "514cca21afa8",
-      "title": "AI Could Help Scientists Search the Solar System for Alien Technology - WIRED Middle East",
-      "published": "2026-06-19T09:13:18+00:00",
-      "summary": "AI Could Help Scientists Search the Solar System for Alien Technology&nbsp;&nbsp;WIRED Middle EastTraces of Alien Technology Could Be Hidden in Moon Dust, Study Says&nbsp;&nbsp;ScienceAlertCould aliens already be in our Solar System? Scientists say we can't rule it out&nbsp;&nbsp;The Times of IndiaAre Alien Probes Hiding in Our Backyard? A New Study Says We’ve Barely Looked&nbsp;&nbsp;Universe TodayStar Granted Restraining Order Over Deranged Fan&nbsp;&nbsp;The Daily Beast",
+      "id": "d6a0b830182e",
+      "title": "AGA Updates POWER Guide for Obesity, Weight Management",
+      "published": "2026-06-19T10:37:42+00:00",
+      "summary": "AGA Updates POWER Guide for Obesity, Weight Management&nbsp;&nbsp;MedscapeOzempic changed obesity treatment, but experts say the real revolution is next&nbsp;&nbsp;ScienceDailyWhy weight-loss drugs don’t work for some people&nbsp;&nbsp;The ConversationBarbara Intermill: Nutrition matters for GLP-1 users&nbsp;&nbsp;The Grand Island IndependentAre Weight Loss Medications Right for You? Pros and Cons of GLP-1s&nbsp;&nbsp;cbn.com",
       "sources": [
         {
-          "name": "WIRED Middle East",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZE5jMWFheHNET09UT1lNOEhaMmw4OWZHMTBYbURXcl8wUElqYVFfVkhfeU54MU1GUkVQbUllQ3VEbTZmc1R4MVBEQXVhazUwSE1Xd3ZBRlVpYlBOZVMxck80VDhfWFdOU1hYSlhTWG95ejZwdEx5RUw3dFR5VllZc0JpcnlyOUlCSXdDZDlxNVZjazVKSUJyeFV6MEU?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "11b89fd081ea",
-      "title": "Watching water nanodrops spread themselves thin - Asia Research News |",
-      "published": "2026-06-19T09:02:34+00:00",
-      "summary": "Watching water nanodrops spread themselves thin&nbsp;&nbsp;Asia Research News |",
-      "sources": [
-        {
-          "name": "Asia Research News |",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORU8tcUM1YnhEeDVPQWJOT0VsMFhsQkVPSXA3SjNTUG91ZnFQN3c2d1o1V0gzcTh4SnFJd2JIMTAtNkpPeHhwYkREZWtwWnRxNk1weDMwTFhlc0Z3SUp5cjBVblpYaUM1WU5SeXBXWGoyclRWUTJyNVRSWjV4dEs2WUJuTzdJcVF4UGRuaDZkeTVaZw?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDgyWHBzVWFCSW80OVFtbFBLUUtHU3dNMGgxdVl5Z0RDdzQxeU9Ccm05TWFwUzFPWlNEeFhtQnM3YWd1bjN1NjZzdGdLNGx0NEN5ZW0yVl9IRGY4QmpWZ25wMUNpM0ViVkVzT3dzbXlOblVmRTBVSllpVXVzMFF0UnpYUURTanprdnkyREU1V09rNFczbGxyRzVZMi12RFU0?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "9f65d38e0441",
-      "title": "How Japan’s devastating 2011 earthquake ‘moved the country further east’ - The Independent",
-      "published": "2026-06-19T08:31:00+00:00",
-      "summary": "How Japan’s devastating 2011 earthquake ‘moved the country further east’&nbsp;&nbsp;The IndependentA Giant Seismic Wave Bounced Off Earth's Core And May Have Shifted Japan&nbsp;&nbsp;YahooAn earthquake hit Japan so hard it made the entire country move&nbsp;&nbsp;Scientific AmericanIn 2011, Japan's 9.0 quake sent waves to Earth's core and back, shifting it east 6mm, revealing a new aftershock hazard&nbsp;&nbsp;The Times of IndiaTohoku earthquake moved Japan eastward by 5-6 mm, study finds | Tōhok",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU1WYlV2VW1WVXhMRVhaZ1NnQ3lPR2drLXhSVnJrV3N5Tl9uMVJQZ0o2YWRfLXB0VS1SYWpMTHZFd1NWVFBJN3JjblNsckZHcXZtM1o0YTNGX1FSaXpWNnk2SGFlUTFGQ25kcW1PN3RIWndCRllYQzhXMXBQa0pfdk9tY3dLQTMxd0xqSHd1YndLbjZDdXVKZURGSmNUZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "17791ce4dba0",
-      "title": "Dolphins have a trick to avoid 'bad guys,' and it sounds surprisingly human: Study - The Times of India",
-      "published": "2026-06-19T08:21:00+00:00",
-      "summary": "Dolphins have a trick to avoid 'bad guys,' and it sounds surprisingly human: Study&nbsp;&nbsp;The Times of IndiaSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQzJVNHFrTnNWV0c2aGNtVU9tNFlzWTM0UUNWdUdEZ1NmSUZoa3A5a3hjU29GT3lYa2dDRGxYUFdvdlJmZ1VQYm5sMzF6c1VPMEJOQ2xTOXhJUGFRWV9ZazNwZVZJRnR6WFhLRW9DMFllZWdXYTVKNm9rNy04QWNSOU5FMGIxb3RyUW1VanRUUVZpTjlYZmp2eUtyLThmTFQxMVY4MG85UDhJVVl3cVozSzlRVmpZeUtVVUFHcWJPZkZvbk0wM3BNbHJ3eC1yMXptdEJCb1RVaWZKbl80alk1eFIzaUQ0RExZMG1N?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
     },
     {
       "id": "eef089d944b3",
@@ -1008,6 +850,26 @@
       ]
     },
     {
+      "id": "e68f25827d47",
+      "title": "NASA selects DAPHNE mission to improve space weather forecasting - Innovation News Network",
+      "published": "2026-06-19T07:37:05+00:00",
+      "summary": "NASA selects DAPHNE mission to improve space weather forecasting&nbsp;&nbsp;Innovation News NetworkNASA Mission to Study Space Weather Impacts of Earth’s Atmosphere&nbsp;&nbsp;NASA (.gov)NASA Selects LASP Mission to Study How Earth and Space Weather Connect | Newswise&nbsp;&nbsp;NewswiseNASA selects mission to study space weather interaction with Earth’s atmosphere&nbsp;&nbsp;SpaceNewsNASA’s DAPHNE Mission Set To Study Space Weather’s Earth-bound Edge&nbsp;&nbsp;Orbital Today",
+      "sources": [
+        {
+          "name": "Innovation News Network",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXRaX3Z0UnM3NmdVRkI0SWV3Y0RlT0JpME9za1hMZmFFaU51OVlkOWNJMzAxMlQ2MXo2eTdoUmQ3MFNOeGRZdnRSN1Q2MTRFUU5TNTJoUFB4QTRiWjcxUUlpVEJfamk1a1A3ZEtBdk9vTFBYajRCRXBUUmJaYk1OYzJ4QXFnMHVLc043eFFCN2w2eDBxeDVMOG16dFVXX0FCd2lvQThTbHlJR2pJQXc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
       "id": "5878561f2774",
       "title": "Interstellar comet 3I/ATLAS, once claimed to be an alien spaceship, may be 7 billion years old - The Times of India",
       "published": "2026-06-19T06:07:00+00:00",
@@ -1024,7 +886,7 @@
       "id": "06a4a0cb14ab",
       "title": "Yoga can reduce Type 2 diabetes risk by 40 per cent: Dr Jitendra Singh - Medical Dialogues",
       "published": "2026-06-19T05:29:14+00:00",
-      "summary": "Yoga can reduce Type 2 diabetes risk by 40 per cent: Dr Jitendra Singh&nbsp;&nbsp;Medical DialoguesYoga May Cut Type 2 Diabetes Risk by 40 per cent, says Dr Jitendra Singh&nbsp;&nbsp;Medical DialoguesEvidence Backs Yoga's Role In Diabetes Prevention, Says Jitendra Singh&nbsp;&nbsp;Outlook IndiaSurya namaskar may reverse diabetes nerve damage | Tap to know more | Inshorts&nbsp;&nbsp;InshortsNew Book Highlights Yoga’s Role in Preventing Type 2 Diabetes&nbsp;&nbsp;Devdiscourse",
+      "summary": "Yoga can reduce Type 2 diabetes risk by 40 per cent: Dr Jitendra Singh&nbsp;&nbsp;Medical DialoguesYoga May Cut Type 2 Diabetes Risk by 40 per cent, says Dr Jitendra Singh&nbsp;&nbsp;Medical DialoguesInternational Yoga Day 2026: Which Yoga Poses Help In Controlling Diabetes Naturally? Know Here&nbsp;&nbsp;The Sunday GuardianEvidence Backs Yoga's Role In Diabetes Prevention, Says Jitendra Singh&nbsp;&nbsp;Outlook IndiaSurya namaskar may reverse diabetes nerve damage | Tap to know more | Inshorts&",
       "sources": [
         {
           "name": "Medical Dialogues",
@@ -1051,59 +913,6 @@
           "keyword": "diabetes"
         }
       ]
-    },
-    {
-      "id": "e0cabfbcd916",
-      "title": "Astronomers find a \"fossil\" of the Milky Way that survived for 12.5 billion years, remained hidden near the center of the galaxy, and now reveals four different generations of stars. - CPG Click Petróleo e Gás",
-      "published": "2026-06-18T21:38:00+00:00",
-      "summary": "Astronomers find a \"fossil\" of the Milky Way that survived for 12.5 billion years, remained hidden near the center of the galaxy, and now reveals four different generations of stars.&nbsp;&nbsp;CPG Click Petróleo e GásZoom to See Terzan 5 Near Our Milky Way Galaxy’s Bulge&nbsp;&nbsp;NASA Science (.gov)Webb telescope reveals odd Milky Way relic is more than it seems&nbsp;&nbsp;MashableTerzan 5: The ancient stellar system hidden in the heart of the Milky Way&nbsp;&nbsp;The Times of IndiaAmazing st",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPLTZUS3RDUWFSa3NqeXFnUklxNnRiZms4TDJSU18yTEtlUlJaYnZPdkdPaXJORUYtQWlnMkhSaF9FTFVpdTNKbEVRaHpNUkVwSi1uS3pnMnpIdEJ5WTBvZjVUTWNZSmZlSUJGUTZsREdJTXRPb3hGdUdDenR3cks2enRISWNwSnYtd2tkc1JacXJuREJHMUNETnRsbXo5dWd0VjdBTDczT2FNZE1ZRW1lVXRtT3ZXemNxYzFMWEd6ZldPR0VEdjRYd0wteWU4ay1UQVNkem5rQ2Q1VWZPZ1dmQnJPY2Vzc3JMSWtneGQ3WExERXBFNUVfSWlYNDc1eTZyWGZvN0NCZHFic1VaQkhNTQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "6034c727cb47",
-      "title": "Scientists Spent 13 Years Bouncing Radar Off Europa. Here’s What They Found",
-      "published": "2026-06-18T21:20:27+00:00",
-      "summary": "Scientists Spent 13 Years Bouncing Radar Off Europa. Here’s What They Found&nbsp;&nbsp;GizmodoHundreds of Thousands of Quadrillions of Bacteria Could Have Reached a Moon of Jupiter from Earth in the Last 80 Million Years&nbsp;&nbsp;La Brújula VerdeEarth may have been sending life to Jupiter's moon Europa all this time&nbsp;&nbsp;starlust.orgRadar Echoes From Europa Reveal Secrets Beneath the Ice | Newswise&nbsp;&nbsp;NewswiseEuropa life theory: Study explores whether Earth microbes reached Jupit",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaG5DNnVDcVAwRV81T09zN0w4MkpQZkVCWVo0UXVERGxPc3pFZVBvZkVvc1VBT3gxcmZyWHdLa0EwQy05Y2ZmblN4LS1xRm9LTkE5R1czU1p6S25JTlItZC1udURiaXdibjUycGdTNWZUdmppNmdkTm1ZaE52UGdxQ3F1cG4wRHRpWDZuSUNuOFB2Wkxva1pzYVJpaTNNekl2U1pvaHFKWQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "40124a9fc384",
-      "title": "Plutonium in Earth Rocks Signals Long-ago Cosmic Collision - Universe Today",
-      "published": "2026-06-18T20:51:00+00:00",
-      "summary": "Plutonium in Earth Rocks Signals Long-ago Cosmic Collision&nbsp;&nbsp;Universe TodayAncient ocean ice reveals radioactive stardust falling on Earth; should we be worried&nbsp;&nbsp;The Times of IndiaScientists discover radioactive stardust still falling on Earth from an ancient cosmic blast&nbsp;&nbsp;The Economic TimesStudy links plutonium-244 in deep-sea crust to kilonova Nature Astronomy&nbsp;&nbsp;NewsBytesDeep-sea crust uncovers steady plutonium rain from ancient kilonova debris&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "Universe Today",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT2ZQVkFSSERjUlZJaDlUR0xXMXh0dDVvMkY2djNUWDI3VlUxcm41aGMtUlFaWUl5aTJFMmxzeG0tM0MwX1loYjF2U2xxdVVhVXZVSC1SNm85RmxpVjI0SHRNTHJudGZ4c2txZkJtb1BmWWdJeWhJLWRJbGZVbDFWa21TRzZ0dm5veG8zTE1GWnJ1YWpMUDdLdWwycU1JZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
