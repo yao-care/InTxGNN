@@ -1,14 +1,14 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-06-24T08:47:46.252889+00:00",
-  "total_fetched": 130,
-  "unique_count": 130,
-  "health_related_count": 77,
+  "fetched_at": "2026-06-24T13:57:43.501653+00:00",
+  "total_fetched": 123,
+  "unique_count": 123,
+  "health_related_count": 69,
   "news": [
     {
       "id": "45c1645d6812",
       "title": "As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo - Unicef",
-      "published": "2026-06-24T08:23:35+00:00",
+      "published": "2026-06-24T11:24:43+00:00",
       "summary": "As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo&nbsp;&nbsp;UnicefEbola cases in Congo reach highest first-month total of any outbreak, WHO says&nbsp;&nbsp;ReutersEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say&nbsp;&nbsp;The HinduUNFPA Ebola Outbreak - Democratic Republic of the C",
       "sources": [
         {
@@ -18,26 +18,14 @@
       ]
     },
     {
-      "id": "354262c844cf",
-      "title": "H5 bird flu detected in second Australia state - Yahoo Finance UK",
-      "published": "2026-06-24T07:02:44+00:00",
-      "summary": "H5 bird flu detected in second Australia state&nbsp;&nbsp;Yahoo Finance UKSecond Australian state reports bird flu case; Papua New Guinea blocks poultry imports&nbsp;&nbsp;ReutersThe first case of H5N1 bird flu in Australia has been confirmed. What does this mean?&nbsp;&nbsp;Down To EarthAustralia says checking for more H5 bird flu infections&nbsp;&nbsp;The HinduAustralia ramps up bird flu surveillance, testing after first mainland cases reported&nbsp;&nbsp;The Japan Times",
+      "id": "9afd6fae5aa0",
+      "title": "Plant-And-Fish-Based Modified Mediterranean Diet Could Change The Rules Of Living Longer And Healthier - ETV Bharat",
+      "published": "2026-06-24T07:36:51+00:00",
+      "summary": "Plant-And-Fish-Based Modified Mediterranean Diet Could Change The Rules Of Living Longer And Healthier&nbsp;&nbsp;ETV Bharat",
       "sources": [
         {
-          "name": "Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdzFnRVpTVndXY29PR3ZFN3NSRUJseGdFWnhsNUZYVDgzc3pmaGN4RkQ2djFjSkcyWUI1LTY3ODRsRnFlUWIzaS1QZjRaLTR5T2twQXIyLTNwS2JxUW1ISURSLWhXRWpQRUdfdkZsSmpnYmdxeHI2WlUtakFTNDVpcnhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "116df155e418",
-      "title": "Cow Urine May Help Fight Chikungunya, Reveals IIT Roorkee Study - NDTV",
-      "published": "2026-06-24T06:50:09+00:00",
-      "summary": "Cow Urine May Help Fight Chikungunya, Reveals IIT Roorkee Study&nbsp;&nbsp;NDTVNetizens spiral over IIT Roorkee’s cow urine study, findings reveal potential to fight Chikungunya virus&nbsp;&nbsp;Deccan HeraldCan cow urine fight chikungunya? IIT Roorkee study shows promising lab results&nbsp;&nbsp;India TodayIIT Roorkee identifies antiviral compounds in cow urine distillate against Chikungunya virus&nbsp;&nbsp;The News MillIIT Roorkee Scientists Identify Antiviral Compounds in Ayurvedic Cow Urine",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2huUzZwUjJULUpLcEF4VkhMaGVPakJWTmN1LUE5SVI0bFdsdU8wV0Z5S0JlQmE0RGpfcmdzOFVNbHRzVHpFR1RURjlJbEZNaWN3bV93VW1ydm8xSW10bW5YLVdjaUl4VmpJdkNYcUp6c1haVVdfMERfZXpUczBYMXpKcjZoSzQ3UDZCeTBHZ0o3cks3cEUxakFoa3BBblNT0gGoAUFVX3lxTE81eEIyeFZOOGNCbFhKQXpIZ0V3d0EwdHJWY3NjMVFic0JSWkxzQU9iSEdNa3poend5S0U1c1BPUEVFR0oyYWNINWQ2VW9TV3FmSVRYVnlSSDVyM1BQdlFwQTRPV0MyRkpQQWFwX3NzbTZ5MnNhbFNQSHhiRGpSbHRVNkRLRTZ5TzBnVk10OWxLUkhZbUpONGd6bDJ2UUFhUHNLelRuT2VTWg?oc=5"
+          "name": "ETV Bharat",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdzNjTHI3YTRWd1h3TW1RSVpEVzVwTzdqWGtBbmJuODRWSllBd1BId0twM0NhY1BaNDBsbkpFQlNVazltekFqY0J3OXhwc1NrZW9aSW5GZnd2U2laUXEzSW0xM08xbkEyVUtlWGRYdnhhT3ZpQUpDQmd5Sm5DWGJ0SThfeW4xRFhoUXRISVQ2WkZXM0hlT20xNldCRzZDY2VEWndGadIBqgFBVV95cUxNTU5GOU5sVWVCN0F5blVydWdkMkFhQjdwd3E3R25WODhaQ2tNb2Q1VjhReVh6R2J4dXBya1Iwd3BLdVJudmVXakltNk1HVlJuRDFfbGw2blBzVHk4MVFsNW5UY1Y0VDRtZERLY0FTb29zZ2M1WTlUSlpJTXhUS280ek9ldGpMWXFUV2tDNG5FX1k2eEI2cFM3eFVWcDd4WlJ4ejVEaFgyLXRDZw?oc=5"
         }
       ]
     },
@@ -54,9 +42,21 @@
       ]
     },
     {
+      "id": "7ddd7047bdcf",
+      "title": "Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three - The Guardian",
+      "published": "2026-06-24T06:19:00+00:00",
+      "summary": "Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three&nbsp;&nbsp;The GuardianAustralia ramps up bird flu testing as second state reports case&nbsp;&nbsp;ReutersThe first case of H5N1 bird flu in Australia has been confirmed. What does this mean?&nbsp;&nbsp;Down To EarthWestern Australian poultry farms locked down as second wild bird dies from H5N1 bird flu&nbsp;&nbsp;The GuardianAustralia says checking for more H5 bird flu infections&nbsp;&nbsp;The Hindu",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1kzNGpNeTJsYWpCOTFFeEFZX0Z4R2RYTkJhU19xbExRY3lqWkJLc2xtRjJxSjlsODRNY2JXeEVfUlIwWVZ2emlhX2lUZ3k2LTBid01Vb1NKUWlBVXg2MTM1T21vR05NRVVGY040UUJpWE14VkRWeUgwNHRWN1JrMjNCZVdQdEZTTml0ai1kVzkyOUM2S01Pd2FwS1BsMlc2ZDFvelEtYUJNbHVTb1llek03STAyZW42ZHZN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a67066aafa0d",
       "title": "UN General Assembly adopts political declaration on HIV/AIDS - DD India",
-      "published": "2026-06-24T05:04:00+00:00",
+      "published": "2026-06-24T05:09:15+00:00",
       "summary": "UN General Assembly adopts political declaration on HIV/AIDS&nbsp;&nbsp;DD IndiaUN Chief Warns Global HIV Fight Needs Faster Political Action&nbsp;&nbsp;NDTV‘Progress is Not Success,’ Warns UNAIDS at Start of Poorly Attended UN High-Level Meeting on HIV&nbsp;&nbsp;Health Policy Watch\"India remains firmly committed to ending AIDS as a public health threat by 2030\": Permanent Representative to UN Parvathaneni at UN High-Level Meet&nbsp;&nbsp;ANI NewsWHO warns funding cuts threaten HIV fight in Asi",
       "sources": [
         {
@@ -81,7 +81,7 @@
       "id": "aebf68871250",
       "title": "Study Reveals What Hit Earth Before Dinosaurs Even Existed - NDTV",
       "published": "2026-06-24T04:15:28+00:00",
-      "summary": "Study Reveals What Hit Earth Before Dinosaurs Even Existed&nbsp;&nbsp;NDTVWorld's Oldest Known Asteroid Crater Is 3 Billion Years Old, Study Confirms&nbsp;&nbsp;ScienceAlert'Unequivocal evidence' of the age of Earth's oldest impact crater turns out to be off by half a billion years&nbsp;&nbsp;Live ScienceScientists in Australia find ‘smoking gun’ evidence of world’s oldest meteorite strike&nbsp;&nbsp;The GuardianAsteroid crater in Pilbara confirmed again as world's oldest&nbsp;&nbsp;Australian B",
+      "summary": "Study Reveals What Hit Earth Before Dinosaurs Even Existed&nbsp;&nbsp;NDTVWorld's Oldest Known Asteroid Crater Is 3 Billion Years Old, Study Confirms&nbsp;&nbsp;ScienceAlert'Unequivocal evidence' of Earth's oldest impact crater turns out to be off by half a billion years&nbsp;&nbsp;Live ScienceScientists in Australia find ‘smoking gun’ evidence of world’s oldest meteorite strike&nbsp;&nbsp;The GuardianAsteroid crater in Pilbara confirmed again as world's oldest&nbsp;&nbsp;Australian Broadcasting",
       "sources": [
         {
           "name": "NDTV",
@@ -114,26 +114,26 @@
       ]
     },
     {
-      "id": "69033bc7ed4c",
-      "title": "Drinking sugary beverages starting in childhood may increase adult blood pressure risk - Harvard T.H. Chan School of Public Health",
-      "published": "2026-06-23T20:27:13+00:00",
-      "summary": "Drinking sugary beverages starting in childhood may increase adult blood pressure risk&nbsp;&nbsp;Harvard T.H. Chan School of Public HealthFrom Childhood To Adulthood: Study Finds The Hidden Link Between Sugary Drinks And High Blood Pressure&nbsp;&nbsp;NDTVCan a child’s favourite drink increase the risk of obesity and high blood pressure? doctor explains&nbsp;&nbsp;The Times of IndiaDrinking soda, juice in childhood linked to high BP risk: Study | Sports drinks linked to 36% higher risk of BP | ",
+      "id": "38db71971fe9",
+      "title": "PCOS Is Renamed PMOS: What You Need to Know - Yale Medicine",
+      "published": "2026-06-23T23:14:04+00:00",
+      "summary": "PCOS Is Renamed PMOS: What You Need to Know&nbsp;&nbsp;Yale MedicineIs PMOS The 'Diabetes Of The Ovaries'? Expert Warns Of India's Fertility, Infertility Crisis&nbsp;&nbsp;NDTVGLP1-s Were Life-Changing For My PMOS — Then I Wanted My Old Face Back&nbsp;&nbsp;Refinery29PCOS Has a New Name: Why PMOS Better Reflects the Health Risks for Women&nbsp;&nbsp;KiripostShe put on 35kg in 6 months from a hormonal disorder. How she dealt with it&nbsp;&nbsp;South China Morning Post",
       "sources": [
         {
-          "name": "Harvard T.H. Chan School of Public Health",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjlRZnh6Y05ZQWVQVUxHcDB5S19QWnp6YnFqa0Q3aXdLUnhxQ2wzVXhtbVhsZmlNVzU1d29SclZSZ2F4V0lEY042Y1lSRTFSSERqaUNoSHppUmNLZV9iNHVydnROQjhCRjRSSHZ2VUpsdlBDR1RDNkVRTzBMWHFzbWxkdWI1TDFTZ211Ql9FNDlSb3RxbTVCYTJuUmhkNDdHNUU2aklCWjBoczZ2SzliTUNTcC10eHlt?oc=5"
+          "name": "Yale Medicine",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlpqV181Q3pReWdhY3lZNEZIRVR4elBhNVpKaUdnMkNURXdmODd5WldpUkhZQUZoWmIzY1hVeWVTTmtqVnRnbnZwRzdKQkFqN2s5TUliOXRJcDFJSDBxdENUU2ZiWC1MV0V3VkZXTGpnamt3dE9uVUd5aWF5OFUxMktn?oc=5"
         }
       ]
     },
     {
-      "id": "0909d2ef0054",
-      "title": "USC study links modified Mediterranean diet to longer lifespan - News-Medical",
-      "published": "2026-06-23T19:17:00+00:00",
-      "summary": "USC study links modified Mediterranean diet to longer lifespan&nbsp;&nbsp;News-Medical",
+      "id": "010f0885e603",
+      "title": "How to get more protein and fiber from a single ‘sweet-spot’ food - Harvard T.H. Chan School of Public Health",
+      "published": "2026-06-23T20:12:00+00:00",
+      "summary": "How to get more protein and fiber from a single ‘sweet-spot’ food&nbsp;&nbsp;Harvard T.H. Chan School of Public Health5 Foods That Contain Both Protein and Fiber&nbsp;&nbsp;The New York TimesHigh protein and high fiber recipes for summer&nbsp;&nbsp;WFLAProtein Vs Fibre: What Should Your Breakfast Really Focus On? Expert Weighs In&nbsp;&nbsp;News18",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUdNdE1EckVTYnBTSnlvdkVrbk9aSDZXb2tXNjZZRFVBODhEcnBaUGlQOGxPWVYySFBERzk4U3Z6SUtYR2h1RmN5OE84TGRFTnJFQWgzSkhKYUxXakQxSktXRzg5Z2JGSWszUm5hSTRyUjJXQmFzQm9ka1J3R2sxUE80VFVhQldwbHd4T0NLcmFMc0hubkRhVWFrMW1WTUtyc0R5emJHbVh1NzROVjRF?oc=5"
+          "name": "Harvard T.H. Chan School of Public Health",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMC1qOWU5eVJreUEwLWl5emtJb1k2YnpVbGU0YjJ0UHk2SGJlQ0o0bkotaWZGVzhPVmVzZDU2N25EUHBJQnV6MWpQLXlycnhoYUlHM092YnRidG5sVXlaT3RpS2JtclplU293ckkySVpyLXNaOGV0ZmlnaU9fQ2NkTUpGWnp6QlBab0dWUHE2YUV6QjhJZHVwUlJn?oc=5"
         }
       ]
     },
@@ -198,6 +198,18 @@
       ]
     },
     {
+      "id": "6cef3ae12265",
+      "title": "From Childhood To Adulthood: Study Finds The Hidden Link Between Sugary Drinks And High Blood Pressure - NDTV",
+      "published": "2026-06-23T16:20:47+00:00",
+      "summary": "From Childhood To Adulthood: Study Finds The Hidden Link Between Sugary Drinks And High Blood Pressure&nbsp;&nbsp;NDTVSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTUVMQ1JMM3VhRUJ1bXhmQTNaQlJNRk5ZTnAtX3Rkd2M1WWo2OVEtNXZ3enFZTUI0RFBLeGZ5Q3pnbmRESXFXMHN5RHZVQ0p0UHNQMlMtbGdCa3VUWEExMnZjQWhQRGczcmU1ZU1uTFdjTWp4TklOMUtYSmF4UUNDT3lJSW9LbkRKZGg1QVBjUGtEVXhmT2FycUFJMlhSSUlJWkZFdmJRT2pVTTBpNFlFMGxkWHlqeU1jX3BfVmNJeXRCZ0hrdVVFcTg1V0NYWDBpVEFFa3BLUFRxOVJ3TmRPQ1pQVTNTYl9V0gHwAUFVX3lxTE84N2xtWFd5UFlzckxEVWZxS3Z2aWpadkFEd3QtQ2RSVFMzOWtNZW9CbmNoc0IzTXFGSVA5a0h6MElkcURXdHZyZUE4R0s1VUJ6cW03VThKM244N3JsMjAyY0VnY0RNQWNybEo5cjdCVFcxSUdVd2NFaU0wcDRZd2ROQ2pkc001M3E5Y1FDbnd5SUxIWEt6elEyRzlsaG9jaFo3eW9UZ0pSSjE4Yk45LXlXY1lMUEtRUnIwN0xJZW5Na2RDZEVKN1pIeFVhaWNVa1pYUXdKZ25lX0psT0tmQXVFSXh6a2NrR083bzBxTE5UTA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "72c70b272661",
       "title": "WHO Urges Dramatic Expansion Of Newborn Screening To Detect Birth Defects - Health Policy Watch",
       "published": "2026-06-23T16:04:06+00:00",
@@ -210,6 +222,18 @@
       ]
     },
     {
+      "id": "d2437082150a",
+      "title": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health' - Space",
+      "published": "2026-06-23T16:00:00+00:00",
+      "summary": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health'&nbsp;&nbsp;SpaceThe Next Outpost: NASA’s Plans for Replacing the Aging International Space Station&nbsp;&nbsp;U.S. Government Accountability Office (.gov)Downing the International Space Station: Current Plan Whips Up Worries by Ocean-health Group&nbsp;&nbsp;Inside Outer Space",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMGkxQzhUTEZCemJFaTFFWXFjZWdDUklPRTM1VFc5M0puZUc2eVZ5VHV5enE3UjhUdVB2UEl4S2dQSlI2TEVxaTUzRzNXaGp5dzNoaWxNbzhIVmR3akE3NkhfWVB4eUVrNl8zTWhSMTlVc3J0ZzBpTGtJSjNRWF80SEVHWkxkVjl1czJEdklOQzRtd0ZDck55TlJWTWtQZ3Z6ZnRMVDF4U0dqbHlnVW1DelNFY1ZEQlJoX0N4N1NGSkplYTRpcnJRWWtlMk5LZ1Y2UXhpZFdUd0wxWEw5XzFaWjVYRHRZX1ZCVGRwUDVSZHNudnJqMWRmRFhWRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ed9a0bcfcb64",
       "title": "Heavy Rainfall Linked to Underground Airflow Fluctuations at Sanford Research Facility - geneonline.com",
       "published": "2026-06-23T15:24:08+00:00",
@@ -218,18 +242,6 @@
         {
           "name": "geneonline.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemlrby1fS180LVl0WUhTcnJscFNkak14YlNoekhSTk5YN2pYd0dQWlBVZEJhM3pEdU5VMGFZRWg5eG0xbk5JXzhYbGhDREZLa1FZT0drT1pEUGRIYzd3RjZ1UjJBUmpIeXdOcE5paE1TTnE4RHF6TjJuQkhrdHBkTGlNbDM5VmZ5OWdTc1FQUlcwWHBfdDFKQ3hRQkNBWDlxSklsUE1NNlk3MUlOQ3lrRWh2U2g?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a9fefd644de5",
-      "title": "It’s Hard to Espresso How Pressure Affects Brewing - AIP Publishing LLC",
-      "published": "2026-06-23T15:01:59+00:00",
-      "summary": "It’s Hard to Espresso How Pressure Affects Brewing&nbsp;&nbsp;AIP Publishing LLCUniversity of Warsaw Study Analyzes Fluid Mechanics and Pressure in Espresso Extraction&nbsp;&nbsp;geneonline.comEspresso 'pucks' stop behaving predictably above certain pressures&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "AIP Publishing LLC",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdThNT1JoV1FFR0pzUnByVkktak9QU3VNeG5mX09mcnBQNWRBUld2MlJTSlhTWDA3OVlpd256djl5T2k4cTNLZV9PQjVSeWx2Wlh3TDhQdjg4cURLT2hyY0xnR0N4dDREZXd1R3F4V1ZVQTVoN1FHY2ZqdFRrU1RnQUxYR0FIMkoxTklDQzVfLWE3WExrX0hNQU1oT2U5R3lveUdxYnp0R1U?oc=5"
         }
       ]
     },
@@ -254,6 +266,18 @@
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGkxUERKa0JhWVRNb2hia2xYNlNqWWRqZGhlNERqbnFWV2FSUFRhZ3N5OU5tSWIwWkQ2TkJCX0toNW93b1I1Rm8zaENSYjlySzZTR1QyN1FvLWJxYlF4T0RXNE9jNnR6NEhGWDRMNVctT0tJalEwUTUtSGw1R0l5MmhvaFFDOHNWX3ptM2pudjdYeVNfQ1NtX2o4STV2bjNFMldNWkM1Y0xjYnM5SnQxRXVrd0c3c0k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75d07e4fd69d",
+      "title": "Swine Flu isn’t always mild: 1 H1N1 death highlights who is most at risk and the warning signs that need - The Times of India",
+      "published": "2026-06-23T13:30:00+00:00",
+      "summary": "Swine Flu isn’t always mild: 1 H1N1 death highlights who is most at risk and the warning signs that need&nbsp;&nbsp;The Times of IndiaKarnataka swine flu case: 41-year-old man dies of H1N1 in Mangaluru&nbsp;&nbsp;The Hindu41-year-old man dies of swine flu in Mangaluru&nbsp;&nbsp;Deccan Herald41-Year-Old Karnataka Man Dies Of Swine Flu: Symptoms, Risks And Prevention&nbsp;&nbsp;NDTV41-year-old man dies of swine flu in Mangaluru | Swine flu was confirmed in the tests | Inshorts&nbsp;&nbsp;Inshorts",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONkJvd3pqeXQ0dnM1Vkh1Zlo1TnVmSDBleTJsaFdkMGZvZzdEMFg4U2k1YmMzcjNfQVh1TVZEYWlPYzhpbXhpR05qbG9yREUzZlU5SHEyREtWN292a2Zwc2NvNDdmMWhaeXZfbTc0UXhiNE1mcUswU3ZWcTRCd0tMY1MzMzZEU3VUUlgtUnBiMEVvWllxQ1lOVV9KZTdFYWdpU2tGN2psSUFORXQwUG51WEFIbWRDSWJmcjhaUGJYRXlYRHRXMWI5NWExSXMyOUVLRkZrUU40UmZ0RVVCa19OblViUXdxNUEzaS1CTnh6b3JQNHpRTDdmSjZTVmpGZG1LRzgyTkgwTTZkbWFKaWRTTU1CTnB6d04zYWFR0gGgAkFVX3lxTE4xQjllMGZKSmIzcGdGUGp1LTRzdFN6aDd3TlRrN1NpdFdBb1EzdlMteC04N3pKNU9DbEhWZzhBaHFnM0MtM0pJSUdGTUxNRGczMDJpemFuM2hxNUJiSmpCa0hmRENiWEw5NGtNU3pWT1J6UFdhaE5wc1EyUmtBelc5dkIxamMxY3VzU1p6RVVaeEdDS0dHazE2WmlnQVJYdV9jUDdYS0czekpVZDgzbnFPUXpHTU5qMjdDYXd2Y24yV2RLd2U0dWZWTzBzSXRxdmNBeVJqdGVUMWhfTXdnS0x4bnhQT3d5MzJOWkRXUEdfUlMwQWdWb1NlRFNNbVc5RG9ER2VhdmJfU2pBZkl2czdrUEI1VDhTc1VRbGhtb0dJQw?oc=5"
         }
       ]
     },
@@ -290,6 +314,30 @@
         {
           "name": "ZME Science",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkNmT1lfdlNSUUhvT2FvT1JjSjM0R21ObkZhN29udlp3cDR3SWFQWlZmN1VCVzlOZGhCT25WNFdUUndwX1RmSkhiLVhyaXl2SlpGeTNvZkhnYlNiQTQxT3lvdmkxT2dWdVFUbi1uYzNnZ0hFMS14RlBiS1Rrbk1sSmQ5YzR4SmJjWXZpUWtZeEhCY2h5bzM0eWZncjBOd3hfOHktRHhqWWxvdDhta0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "48b14b40a820",
+      "title": "Your Taste For Onions May Reveal Something About Your Future Health - ScienceAlert",
+      "published": "2026-06-23T13:01:24+00:00",
+      "summary": "Your Taste For Onions May Reveal Something About Your Future Health&nbsp;&nbsp;ScienceAlertOnion-loving gene linked to lower diabetes and blood pressure risk&nbsp;&nbsp;News-MedicalMonell Center Study Finds Genetic Variations in Taste and Smell Influence Diet and Health&nbsp;&nbsp;Bioengineer.orgTaste and smell genes could help explain how diet influences disease risk&nbsp;&nbsp;Medical XpressOnion Preference Linked to Lower Diabetes Risk in UK Study&nbsp;&nbsp;Daily Beirut",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkRKVnI5UG9qUUl5R2FqM1BVbUdRVnJvdldYMFhnSTVxVkk2SU4teHFsNmZBVnVscFl1RXBBRFNVcXExX195dFRibWZIMUJYQnNDUGZEN25waVZuRkhmZWtWSHozZ1dlZDBILXVfT3VkdWF2eG9SQkZ4V1dVX3MyVGhkTXZ1U1BxTXQ0NnZjRHNQTDYxVjRpX1llYkk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7df69615981b",
+      "title": "SpaceX launches first Starfall reentry capsule on Falcon 9 - VIDEO - Latest news from Azerbaijan",
+      "published": "2026-06-23T12:03:41+00:00",
+      "summary": "SpaceX launches first Starfall reentry capsule on Falcon 9 - VIDEO&nbsp;&nbsp;Latest news from AzerbaijanSpaceX launches its 1st 'Starfall' reentry capsule in early morning Falcon 9 liftoff&nbsp;&nbsp;SpaceSpaceX launches reentry capsule demo mission called ‘Starfall’&nbsp;&nbsp;Spaceflight NowSpaceX's secretive plans to deliver cargo to Earth from space&nbsp;&nbsp;New ScientistWith Starfall, SpaceX eyes an edge in global cargo delivery from orbit&nbsp;&nbsp;Ars Technica",
+      "sources": [
+        {
+          "name": "Latest news from Azerbaijan",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ193RXF1S1pYd0dqdUoySVAzcG5XdzBoZkpzbXluZVJXUXI0LW5icFRnZW5uX2V0aWthbGRNUVQ4YkY4R0kwbm9LSFZCSFBEMWlFemM0ZUJUM3V4dWhGdlUtdDF5eUNBUXNhMHZYNzhIOExkV1BIMHc2eWhyTWdjaHdXU3NJcGl2bUoweENB?oc=5"
         }
       ]
     },
@@ -350,18 +398,6 @@
         {
           "name": "The Tribune",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNkVEbEVueU5qbkZ4SkI3bENiSGFkOG1Nel9EbF9KVTdhdXNPb19HRWZ4SWpTSG1pODZvaml0RUd4VHNEZUg3dzYxNUZnc3NveVdtZnRJbHZOUXpmX19jTEpkUTZrWGMyM0JoRUY2YkFCRC1xWW1wWnA1bEJQOVRIcERNQ2pjcXNGdnh6OVcwcWQ3QWZSWE5DZGFhYWMtbEg4NUdsRlN6WllSMERYRXBNVWlTQ0s4WlNNVHlBYmNXbHNQRFhNYmhsWmdybUx6eTgyMFHSAdYBQVVfeXFMTnlZMFkzWWN4OHB5VUxVLWdRV1Bwa3o0RExtU1VWalhqMlZCWVdrVGVmYjBsNUFzNU5HTHoxVWdLYnZFa0lsZjJMZFJmcmthTUM3WFhxanMzOC15VGstcTRBc2QybnJvMGRlckdza0dyczV1aDRvVjFkN2lNLWdaMk1rWlJUcWtMOXdtSVZCZUMxV1RnX1pOSXljeEFmdUVOUmRsbTAzdWs4a0VGT1hSSjYyVHlxMGVkOGY3THlta1R5eWdiQ1I2cXNSdnYyam1wMjFHQ3VzZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6335f2eed0e7",
-      "title": "SpaceX launches its 1st 'Starfall' reentry capsule in early morning Falcon 9 liftoff - Space",
-      "published": "2026-06-23T11:11:22+00:00",
-      "summary": "SpaceX launches its 1st 'Starfall' reentry capsule in early morning Falcon 9 liftoff&nbsp;&nbsp;SpaceSpaceX launches reentry capsule demo mission called ‘Starfall’&nbsp;&nbsp;Spaceflight NowSpaceX's secretive plans to deliver cargo to Earth from space&nbsp;&nbsp;New ScientistWith Starfall, SpaceX eyes an edge in global cargo delivery from orbit&nbsp;&nbsp;Ars TechnicaSpaceX to launch first-ever Starfall re-entry capsule today: What is it?&nbsp;&nbsp;India Today",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUjZYcWU4SEZGTFV3OE05ZWEtVTFPLXA2MThrM01BdldGbGFLNG9zZXl1cGxXY1FpdkhleUFlcHpfVFYtQ1JKalpJM2R4ZWdVZWgtczdkYmpvNFR4T2JPdTNVcW1xQzJhWHItWHJBbUx4LTY3R2RnSXU0S05qay1oT0NDYkVqQzcyOTRrZkFId2xYY1RLbGJIYmd1Y1Iya1lXdFZldEVReTBwbXNZZTFDeXpqZzl2THhzdzVoamtaTFRpRThpZEpWR3lWU215T3JBTklXUExMMA?oc=5"
         }
       ]
     },
@@ -441,7 +477,7 @@
       "id": "c89c89479b4d",
       "title": "Interstellar comet 3I/ATLAS is much older than the solar system itself - The Hindu",
       "published": "2026-06-23T10:30:29+00:00",
-      "summary": "Interstellar comet 3I/ATLAS is much older than the solar system itself&nbsp;&nbsp;The HinduNASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS&nbsp;&nbsp;NASA Science (.gov)Interstellar comet may be oldest object seen in our solar system, scientists say&nbsp;&nbsp;The GuardianWas Methane a Signature of Life in 3I/ATLAS?&nbsp;&nbsp;Avi Loeb – MediumStudy Reveals Interstellar Comet 3I/ATLAS Could Be The Oldest Object Detected In Solar System&nbsp;&nbsp;NDTV",
+      "summary": "Interstellar comet 3I/ATLAS is much older than the solar system itself&nbsp;&nbsp;The HinduNASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS&nbsp;&nbsp;NASA Science (.gov)Interstellar comet may be oldest object seen in our solar system, scientists say&nbsp;&nbsp;The GuardianStudy Reveals Interstellar Comet 3I/ATLAS Could Be The Oldest Object Detected In Solar System&nbsp;&nbsp;NDTVA rare interstellar visitor triggered a SETI search for alien technology&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
           "name": "The Hindu",
@@ -465,7 +501,7 @@
       "id": "baf91a7657e5",
       "title": "Humidity May Impact Biological Clock Of Insects, Study Suggests - Daily Excelsior",
       "published": "2026-06-23T09:43:02+00:00",
-      "summary": "Humidity May Impact Biological Clock Of Insects, Study Suggests&nbsp;&nbsp;Daily ExcelsiorHumidity As A Zeitgeber: Impact On Insect Biological Clocks&nbsp;&nbsp;RediffInsects exhibit evidence of a daily body clock for humidity&nbsp;&nbsp;MSNHumidity as a potential zeitgeber for circadian entrainment of insect systems&nbsp;&nbsp;NatureHumidity cycles steer insect behavior&nbsp;&nbsp;University of Cincinnati",
+      "summary": "Humidity May Impact Biological Clock Of Insects, Study Suggests&nbsp;&nbsp;Daily ExcelsiorNew Research Reveals Humidity's Role In Insect Circadian Rhythms&nbsp;&nbsp;RediffInsects exhibit evidence of a daily body clock for humidity&nbsp;&nbsp;MSNHumidity as a potential zeitgeber for circadian entrainment of insect systems&nbsp;&nbsp;NatureHumidity cycles steer insect behavior&nbsp;&nbsp;University of Cincinnati",
       "sources": [
         {
           "name": "Daily Excelsior",
@@ -510,14 +546,14 @@
       ]
     },
     {
-      "id": "c311833ef4c6",
-      "title": "H1N1 Alert: Karnataka Man Dies Of Swine Flu, Here Are Symptoms, Risk Factors And Prevention Tips You Should - News18",
-      "published": "2026-06-23T08:59:47+00:00",
-      "summary": "H1N1 Alert: Karnataka Man Dies Of Swine Flu, Here Are Symptoms, Risk Factors And Prevention Tips You Should&nbsp;&nbsp;News18Karnataka swine flu case: 41-year-old man dies of H1N1 in Mangaluru&nbsp;&nbsp;The HinduSwine Flu isn’t always mild: 1 H1N1 death highlights who is most at risk and the warning signs that need immediate attention&nbsp;&nbsp;The Times of India41-year-old man dies of swine flu in Mangaluru&nbsp;&nbsp;Deccan Herald41-Year-Old Karnataka Man Dies Of Swine Flu: Symptoms, Risks A",
+      "id": "e7c5db0f5ffd",
+      "title": "The Other Half of Infertility: Why India Can No Longer Ignore Men's Reproductive Health - Health and Me",
+      "published": "2026-06-23T09:30:00+00:00",
+      "summary": "The Other Half of Infertility: Why India Can No Longer Ignore Men's Reproductive Health&nbsp;&nbsp;Health and MeDoctor explains how lifestyle issues like stress and poor sleep impact male fertility&nbsp;&nbsp;Hindustan TimesFather’s Day: Why more young men are struggling with fertility&nbsp;&nbsp;HealthshotsMental Health and Male Fertility: How Is It Connected? Expert Explains&nbsp;&nbsp;OnlymyhealthRising male infertility burden in Delhi-NCR comes into focus this Father’s Day as 40% of fertilit",
       "sources": [
         {
-          "name": "News18",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVXE5R1NBcmhHZTUzODFKVjFHRVh1Zk5NaEZKakIwWTBFUWtEekE3SnEtb1Ryd1QyUE5MTkl1Snd3Q2hEX05xWjRWTmFBTTBkRUF3VjhQVEFDZ1dZNHRCclplMFFfTl9RMmRPcVJDRU9Hbko3Qk1qX1FtcS1QajJQT0cwNTRqeHVBZ3J6dnNyeEhrY3dncTNFdkRYbXF3eE4yVmJlY25wV1AxUzM1TDRLTWpqbW1WdEI4SU1fbS11Qm5ITU5yWkF1cUpMVEQ5Y1dVeFZtMlVJMW4wcHRpa05GdW1WNXcxTUkzLXVmYmgydTkzdVFZV3c1Q1ZMODNPVnM0UG5XZUsyVXFiVm1m0gGSAkFVX3lxTE1EajB5QXBtSVRkWjh1UHJrd3QzZVNlb0l6TXRVSlU4VDNHUTM2ZDhjek1GS0tYQ1NhaWxyd0dfcEVia0t1MU5WRS1aLXJQRDRFeGQ3Q2xPYkFKWVM2andUY2lkMldpaTAxNjFTaHd4d01fUjA4cVRHNWVnUHc1WGdQeGZJR2k4bTVPaDhTLTNzalRTWG81cy10V2hlcHhRQlVmQmpNY2ZRSFQ1QnhHVzR6T3J5MUZmMW9MN29Vc2tMV1FCME5OUVNYa3BHTWNOQ1F1VGZyLVE3WTBHZW02TGJlVVdnYk5MSmxKU1JIQlhJVGh0T2F6eTVDNTMxVjhvSjRDcklXdTFFVjBTbWlwVEQ4UGc?oc=5"
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSjhfVmV0YngxYkc1UGJNX1BQOVpRRU15ekRocGJzM01WcWdDakNYR3BwRjhoRi1aYjYzNEhqaVBsbW1kTDV5bmdMczVreUVwTGk5OE11aERBNGEyVXhJNzlJbUtObXp3d1NzYUlYVnlMNkgwQlZhV0N5SUl0dGxKZWpBLVF4V2lSMmdHNXRONkNwZ0hlWG9tTkJ1MThac1VrRHdhTnROeUUxV1ZQSmk5T0k5UXpnR0pxWWpsWmtpTUZIb0JBMGxZelphenBSbkNZVkN6T0tyTEk?oc=5"
         }
       ]
     },
@@ -606,26 +642,26 @@
       ]
     },
     {
-      "id": "2160ccee9d45",
-      "title": "Exposed to the sun at work? - Safety+Health Magazine",
-      "published": "2026-06-23T05:30:56+00:00",
-      "summary": "Exposed to the sun at work?&nbsp;&nbsp;Safety+Health Magazine",
+      "id": "d1b527d0a9c8",
+      "title": "GLP-1 medications and skin changes during weight loss in India - The News Mill",
+      "published": "2026-06-23T04:17:40+00:00",
+      "summary": "GLP-1 medications and skin changes during weight loss in India&nbsp;&nbsp;The News MillCan diabetes and obesity drugs also help the skin?&nbsp;&nbsp;Medical DialoguesThe Other Side Of Ozempic Face: What Rapid Weight Loss Does To Muscle, Skin, And Strength And How To Prevent I&nbsp;&nbsp;Times NowHow GLP-1s Are Reshaping the Beauty and Wellness Landscape&nbsp;&nbsp;British Beauty CouncilDermatologic Outcomes of GLP-1 RA Use&nbsp;&nbsp;Dermatology Advisor",
       "sources": [
         {
-          "name": "Safety+Health Magazine",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wRzJ4S1c0R0hYU2V6WE5rNzFiX3hKSjNIczJKZzFQSlc0OEl0WDkzX1NnaFU5Vk9IV0VCcnVUSzBJc1YzeWVaY1dicmw0WTJnX3hvRDJZZGJTZG5mYXJzR0tqM0ZuZlRWM2xsZTI1aXdONWhSR3c?oc=5"
+          "name": "The News Mill",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOTA4MHN0Y1dTVzJ3TU5HWTA4ZGdWLXlOdTJ5cHhNNjljdXRRZ2pDTVlsQzMza0JHQ29XWkxEV1hHOTh5NHZJNm5ZTnJMT1Q0VVdwUGMzUTVKYUVVdFZUQ3FaRWNTYVRQc2hId0FETER0czRKOUZTdEZNNDUzcGNLOVVVc1I3NldLbDNMeHVqMWlnNUpYVVZ3YmI5NXhoT016NmpZYTZKbHNuaUtiR3QyRi1uVjlCVHRw?oc=5"
         }
       ]
     },
     {
-      "id": "b4c1732405ab",
-      "title": "GLP-1 & Skin problems- A dermatologist's perspective on the Weight-Loss Revolution - Devdiscourse",
-      "published": "2026-06-23T04:26:11+00:00",
-      "summary": "GLP-1 & Skin problems- A dermatologist's perspective on the Weight-Loss Revolution&nbsp;&nbsp;DevdiscourseCan diabetes and obesity drugs also help the skin?&nbsp;&nbsp;Medical DialoguesThe Other Side Of Ozempic Face: What Rapid Weight Loss Does To Muscle, Skin, And Strength And How To Prevent I&nbsp;&nbsp;Times NowHow GLP-1s Are Reshaping the Beauty and Wellness Landscape&nbsp;&nbsp;British Beauty CouncilDermatologic Outcomes of GLP-1 RA Use&nbsp;&nbsp;Dermatology Advisor",
+      "id": "91978b673779",
+      "title": "ACP Issues Guidelines for Pharmacologic Treatment of Overweight, Obesity in Adults - Psychiatry Advisor",
+      "published": "2026-06-23T04:00:00+00:00",
+      "summary": "ACP Issues Guidelines for Pharmacologic Treatment of Overweight, Obesity in Adults&nbsp;&nbsp;Psychiatry AdvisorSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "Devdiscourse",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX3g5WWx4aXozaDNJUjlqZ1lFUmJWa0l1Q290SmZCcnlKbThpVVVCM0hoQjVRVG1ZVjhxdllKNlNSWVVtaFN5Sk5NS2xCUzlhNF8yM19HTy1fTVlOa3BZNVNoVUJmT2NfM1FRV0JTSUFXUGxiR1BkaldyN1k3TVJ5d1lROWdtbkYwZjYyQ2taXzdfZUgtVzhLUTF6WmdCT25zdTJpQWpBQzc4OGx6SXRpTEVuSEN5N2hQb3BfZDFXelBiXzNsbjhSbGxBbVdMU2fSAdQBQVVfeXFMTzZVM1pvYkMzTjBpNDA0aF95cHZyOFM2VGlHTngxdzFnQnBSazc5blp1dzE3ZHhnMDYtUUU5aWp1eGRDWENEZWxsVDhLQ1pjckNxVE01ZDFlcVBINko0SWZlRFhNeF9nXzhGRjk0dHlobGRYLWdrd1BsenIyc0lid0NnMHVSd3NmZnI0dVROTHAtN0VoUlpKNGIydGtERlJpRHBvU09Ec3pDcVNxQzFiSDlKMEk2ZElLeHh1LW5qdElra3BRNmJGZ05SRnB0b19hbmtKYnU?oc=5"
+          "name": "Psychiatry Advisor",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0xRYVp0eFNYNFZnYWFYd1oxb21obUQyZURLaFFyaER2cHpjWGpUdE1IZ2ozemp3bWJxOTZQWGZsZWpFRHdJdVhIYV9ZYUJfaWY5d3htb2NNMjlvdnNjWkFtek9KemF5M1pnb0VkNWIyNmlWcHJrb0lWN1ZyR0Iyb2p2WDJJVnFpeUNGTXpEU21ucmFiN1Myc0d5bC1uZFdNWi10U1lTaTNtdWRKdlJZb0hZRUluSUJ1ODFxQndR?oc=5"
         }
       ]
     },
@@ -702,18 +738,6 @@
       ]
     },
     {
-      "id": "b70c803e54c8",
-      "title": "SSRF Launches BL18U1 Protein Microcrystallography Beamline for Structural Biology Research - geneonline.com",
-      "published": "2026-06-22T20:09:17+00:00",
-      "summary": "SSRF Launches BL18U1 Protein Microcrystallography Beamline for Structural Biology Research&nbsp;&nbsp;geneonline.com",
-      "sources": [
-        {
-          "name": "geneonline.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeEVRWnBqbWVlWUtQQXJ3RXRKc2xTZ0pBaFNUOW1zUmRJUnJHaTRXSTd2aDlKaUJaeWV0RFlGOFEzZm0tMmR0TTdZRnJzMzBQNHZldlBxVi15REtGTlVzZEV5blhrWjhnaEQ1b1g2SkJzT2xSUjBEcm5GVWM5bFIzUVZOa3Fyd1FqbWNuUTMwQk11aUtfeW44QjZSZEh3SF93REFZMWFfXzZ5MDV6VVN3bVpfbmpoWDMxMUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c2f5ae03f957",
       "title": "Infant Screen Exposure Linked to Lower Future Working Memory - Neuroscience News",
       "published": "2026-06-22T20:08:14+00:00",
@@ -750,18 +774,6 @@
       ]
     },
     {
-      "id": "56cbc4338454",
-      "title": "Monash, Brigham and Women’s Renew Sleep Research Partnership - respiratory-therapy.com",
-      "published": "2026-06-22T17:02:48+00:00",
-      "summary": "Monash, Brigham and Women’s Renew Sleep Research Partnership&nbsp;&nbsp;respiratory-therapy.com",
-      "sources": [
-        {
-          "name": "respiratory-therapy.com",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSm9UZ0JfVzBGNk5qY08ycW42aXZnRll3cVZVb2lWN0dxZUN3eUlTSDZpOEVPSUhiZ0Y2THBORjRFNEVZTE1DZnF4UnZrWlZySHZLbENTajE0ckw0alZFNWNxLXFGNDlydUJtX3ppTm5MZThaY0hOTzBrUXR3MDdFcFBsVjgzdV9OdUsyTmlrSFBFYUlPWHIwcEVvT0dlcDNwdTNJRDVXazRwdHBDS1B0cFhtMW9jNDRhMGI4TnY4aWV2d0hmZGtvTy1vY1RVRVVSUlItZE93c1FRNm1oSHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3b63a132b21a",
       "title": "Migraine Is More Than a Bad Headache - Medscape",
       "published": "2026-06-22T16:48:44+00:00",
@@ -770,18 +782,6 @@
         {
           "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTDA5Q2h6MzRLWjZNUXhYc2Vud0hmcFZ3THJnRUhXZ2R2aTlha05LUFZ2SWcwTVhpWXBoaDRmd3VmalZaRWtJdkV2bm1RdnpOWlI4azJyUEhnbzRGSXJPcEo1MUpieExRZ2RaajBrN2JHX2d5djdhMUdNWFRXU0Vibi1lbzFUamYx?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2b1d3a3dbe52",
-      "title": "Two patients with severe autoimmune disease remain relapse-free for over 15 years after stem cell transplant - Medical Xpress",
-      "published": "2026-06-22T15:40:04+00:00",
-      "summary": "Two patients with severe autoimmune disease remain relapse-free for over 15 years after stem cell transplant&nbsp;&nbsp;Medical XpressOne Stem Cell Treatment, 15 Years Without Disease&nbsp;&nbsp;BioTecNikaStem Cells Deliver 15-Year Remission in Devastating Autoimmune Disease—Breakthrough or Exceptional Outlier?&nbsp;&nbsp;trialsitenews.comRare autoimmune disease halted for 15 years after stem-cell transplant&nbsp;&nbsp;Qazinform",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREF0MFdfM1hkLWl5TWhaNml3Q1FkbFd5QmtYR01NalBCZFNOekxEdjdUNGx5MFJoUmlGRG1JMWVSX0JoTjBvWVFTS1BDVDlsQVRwNDFIS1lPVl9BOUY2aF9uYUZmZVhpa3UwcXFUYzFBeC1obW9qaHByaGVrTVltLV9rc1F6SWZ5NW1uWVY1TQ?oc=5"
         }
       ]
     },
@@ -798,26 +798,14 @@
       ]
     },
     {
-      "id": "beb2ee929746",
-      "title": "News you can use: PCOS to PMOS — what the new name means for women battling this complicated condition - Marquette Today",
-      "published": "2026-06-22T14:26:55+00:00",
-      "summary": "News you can use: PCOS to PMOS — what the new name means for women battling this complicated condition&nbsp;&nbsp;Marquette TodayIs PMOS The 'Diabetes Of The Ovaries'? Expert Warns Of India's Fertility, Infertility Crisis&nbsp;&nbsp;NDTVGLP1-s Were Life-Changing For My PMOS — Then I Wanted My Old Face Back&nbsp;&nbsp;Refinery29PCOS Has a New Name: Why PMOS Better Reflects the Health Risks for Women&nbsp;&nbsp;KiripostShe put on 35kg in 6 months from a hormonal disorder. How she dealt with it&nbs",
+      "id": "a50ebb183ba1",
+      "title": "ISRO invites proposals from Indian astronomical community to analyse data from XPoSat mission - The Hindu",
+      "published": "2026-06-22T14:03:37+00:00",
+      "summary": "ISRO invites proposals from Indian astronomical community to analyse data from XPoSat mission&nbsp;&nbsp;The HinduIndian Scientists Can Now Access ISRO's XPoSat Mission Data&nbsp;&nbsp;RediffISRO Invites Indian Astronomers To Explore XPoSAT Data For New Cosmic Discoveries | India News&nbsp;&nbsp;News18ISRO invites Indian researchers to access XPoSat mission data&nbsp;&nbsp;BusinessLineISRO invites Indian astronomers to propose research using XPoSAT&nbsp;&nbsp;NewsBytes",
       "sources": [
         {
-          "name": "Marquette Today",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTkhrS3g3NFk5aDJxc0JfWFV2eloxWmlaeVdNZk9DMGZmenIzRVlGWW5VOHBlWE5tZXk2TFNHMVVIZ20tcWlscHRSZHNSLUo3SnhBSTdSQ2trdUVLRTZSaFR0X3VMbzZnTk9OdWhuWlAwV1RGVEpMSUl3VGRzNU54cS1VTkRiVThuNFNQWGkwelZhak9QZERmLU5hdjVzdXV5aHZIWW9Kdnd2V2xrby1fYnhuaW94UE5XU1ZrLWlicGRwRHNCTU51QlVjYXdBX3plbVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "003a242dee67",
-      "title": "Doctor explains how lifestyle issues like stress and poor sleep impact male fertility | Health - Hindustan Times",
-      "published": "2026-06-22T14:15:36+00:00",
-      "summary": "Doctor explains how lifestyle issues like stress and poor sleep impact male fertility | Health&nbsp;&nbsp;Hindustan TimesThe Other Half of Infertility: Why India Can No Longer Ignore Men's Reproductive Health&nbsp;&nbsp;Health and MeFather’s Day: Why more young men are struggling with fertility&nbsp;&nbsp;HealthshotsMental Health and Male Fertility: How Is It Connected? Expert Explains&nbsp;&nbsp;OnlymyhealthMale infertility: A growing social and financial burden&nbsp;&nbsp;Bona Magazine",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZmVhMTlkRkRtcnFpbkY3NExSOXFoZG52Zkd2M2tKbFNYX3Iwb0Yya0M0V3ltRW05ZHhYb2IxbVE5SWdHVTVqbEhqYV9rZVk1bkRFN05nQ3pxVEFSS3RYV3BFYm5zUWpWV0VlYmNUcVd5ejQ1NWRWbE9IVTFmY1ZtS3dadW01YjhaUnJzaWNHbGpnNjZ1Rl9mSmI4ZkIxUE9WSE5hd3VtdVNYY05RRUxxeFRfRWRGMURERXA3T0Y1cE1BdzNXSFJkd0p1YnFQMGlBQUFfcmdybmk5TWk1UmlXQm01SG9FNy1lWnfSAe8BQVVfeXFMT2dXazUwb1J2dFl3eXU3Y3pVYV80ODBnT1c2cVVrX2FKdFhtODRMb2hDdlBYakRkVGJ6WUVFQnJyTlJYbHZ2RGxtS01XTGJCVFdWRWNPR1czVk9qYks3SFJyZkt5ak9GLW10SXkyRXVJUkpISl9RWlJhd1N4aEpNbmk5ZG50TXBtUDlDUUdBYVQtTXUyMFpTWk1VV05nUE1CT1VFRkhpVDNOQlF0MFljNzBmTWR3OVZBUnNWYmlBRDU1MWFDVkk4aDBnbU5TS3dnR3VZbEcyVjc1Qjd5aERmQ1RUaTllaHI2amllT1hfUlE?oc=5"
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObmw5UG5HSnJHeXJkSzlubUgtamRtWnYzYUcxRjZRTGdJVjJOaGphVmRuTXVGNGo2TjVKV05DcmZqTWxzX1kxbThyYmVrbFkycjlZNGFDc2dxRDVtcXBQSlBnY1dLeTltcjdGWWV6dEJSb3FDWE1oUEFQaFROcm4xTjBCdHN4d2dJS0ZlLXZkQzFQajVzLWtkX0FwN2xRS29YZS1FdmY2bE9fd2JtZjdqcWN4YlZMSFVFYVRudzZseHNMLUtXb0YtZFZXekN3OWVpR280dFNhaEgyTnBrM2Jja0taWi1PV3ZxZ05KTmhuTVNCWEd00gH7AUFVX3lxTE5aTUN3aFRHSFVpQllrRmk5cnViQ3ZlWjZoek5YVTkyMEVWWFFBOEQ4WjdMWUo1M24yQ3Vkb2dxQi1nTldYVEhxc3pHUUNKTEwtZG15OThfeElWNW5oaFQ5ZkZDcG5MMFhhUkdkLVp2Mmsza1A1VGk1MXVsU01MWW5mcWpYVVc5TU01dzZldTZMLVJqVW5ZbndUVU1jMG9rLXhlRVNDTlEwNmZNZ0hlSEJqc0pxUEZYRG1BM0VLSVFka01SVDBSSW9iTFpfQTZpQTFTcnZ1SjhRR2hhcEdQQXg4RWc1ZVMxaXMzT3JnMGtqZ25ORURiT0dmWThv?oc=5"
         }
       ]
     },
@@ -842,90 +830,6 @@
         {
           "name": "NDTV",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGFRVDV2M1lDa0F6YWl6dmVJWk9qSE9wZC1kVUhxSlVRc1ZBQXZSR2Z0R2d1OVprb0dER2xHanJwY3laU2V1dEQ4d3NFMWEzR2lSN1BkQzJBclJHUzZBTFAwcDZqWWg0ZV92Ry1xVHh0S3cxT0xoMG8xbWRRUGNSVTJzYmQwaklLMHdoNTRSNDFKQjFnNWdBSkpsdTZja2JJSkJyM2N0a2s1X2pnUzEySmVzWUpkbEpESHRCcWdyTzREaFVXck5KRkk1YVbSAdQBQVVfeXFMT25yd0xOU3pzZ3paR0RDLUFKODhIZWk3WGVUTDJaSHpGcWtTcHhpNGpWM2FPRk84cW1HSlcyU2pRSkYxVnZrcUJWTnc4MDZVbEJFOUsxMnlpM2haZmRBRXJ5dkxLVUQzbEhkN1g4OG9FVlRQNDN4VmVUSDFSb09qQ21weGEzWldCclNlNUdNR1RDSTZoRnYzS3VLUUVnV2h0MkZxc2RSajNXemFuSnRRZ29EZzVRN1FvLTFYS1psYnpBMGVOZzFnd2JRZ25uVGY5Skdua0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b095dab6ad12",
-      "title": "ISRO invites Indian researchers to access XPoSat mission data - BusinessLine",
-      "published": "2026-06-22T13:09:43+00:00",
-      "summary": "ISRO invites Indian researchers to access XPoSat mission data&nbsp;&nbsp;BusinessLineISRO invites proposals from Indian astronomical community to analyse data from XPoSat mission&nbsp;&nbsp;The HinduIndian Scientists Can Now Access ISRO's XPoSat Mission Data&nbsp;&nbsp;RediffISRO Invites Indian Astronomers To Explore XPoSAT Data For New Cosmic Discoveries | India News&nbsp;&nbsp;News18ISRO invites Indian astronomers to propose research using XPoSAT&nbsp;&nbsp;NewsBytes",
-      "sources": [
-        {
-          "name": "BusinessLine",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVXM1SndJVUt6ODI5cHkzTG9VSmVtUncyeUJWUC04VDlCeGdWbnRMZzJsZWhlNVYwRmE5M3JTTTZRZG9McnJJWGpmMzN0LTJVY3JSSmZmcjdaZXV3Tk5QS3lSRFVDYy1Ebnhaa1RrLWZuVVNrOEN4MmxoQWFHczNXUFF6V0gwVFQtWG9PcUtiVTBEcDRvd3hQcTE0TmROVzBSSHdTVFMtbGNWSWM2SjRKcE01VnpNa01uVlBpZGtUM0ViVVphakRZVW56MHpqRTJCQnVZY1Z2YV9WdjN0UjJF0gHmAUFVX3lxTE5fdHExN1BPdjNBTkVrVUcySk1LeXJjdXVMazNQbDljN0t0LXFDTGpBN0RtUVpKdmpsZ0FMNE13dTl4OU5HdS1KZVRnSFI0N3BLejVVWi16anFQVkxKMTJONmVvNWxlRHlVWENweno5c1A2VkhXLTJValJFamVuQXZGdDc4LVJhSTBXdXBpVlhfUUJmbFhsSlBPaEdmTlptNFZ0allDZUpWNDV4V0Q5b1cxN2dTMDRDYWFlTUV0YXZBcUYyWnVSWUZUVmQ0WGtBcDhBcmxxUlQ0SGRoaXpuZDViNFlCQ0hR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "096053cf9d6c",
-      "title": "What if the secret to a healthier ageing brain has been sitting in your fruit bowl all along? Study finds - The Times of India",
-      "published": "2026-06-22T12:24:05+00:00",
-      "summary": "What if the secret to a healthier ageing brain has been sitting in your fruit bowl all along? Study finds&nbsp;&nbsp;The Times of IndiaVitamin C May Support Healthy Brain Ageing, Study Explains How&nbsp;&nbsp;NDTVPeople Who Always Drink Orange Juice With Breakfast Have Stronger Brains As They Age&nbsp;&nbsp;YourTangoScientists Say This 1 Vitamin May Protect Your Brain as You Age&nbsp;&nbsp;PreventionStudy Reveals Vitamin C Levels Linked to Slower Brain Aging&nbsp;&nbsp;Ratopati",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTEN5Wlh0YnZOcXZ2MUtLcGtqM09pUElLb2I0ZEdZb2tNX1pKbWg4SDUtYjJFMDVyMjVTYXdRRW91eHdHelpxanRyYnM5Qi1mZ0tiUGtSRVRpb1ZTRFpRR2sxMHdfMS1qekplbWN4OER5MjdHU3RyQi1aTTd1S1cyVmctdjJ2VEtCZmJLUzFHb3UyRVdiWWkyMDN0d0FLZHJnc0V0a040dTFLX0JHbk1xUUEwYklPQy04LTRsZ0g5X2Jpc3E4WWtDU2w1MEdkSEFyYkIzN00wZ3V2SFVaZml6WWhmbEtnNTVBSFNkRnY3R3F0a3d3UkhTYjI2NVIzZFZCWUHSAYoCQVVfeXFMUHMyODNpTmpTNzU4dUJ3ZlE3NGNLOWtrTXZEMU1pcGVOazNnbnM3NW5IRmxZTUc4RXF0N0tOSzljdG11S1hSbmhiMHJqaXI5Z2RmRW9wRzNaNTVZREhCU0FKUUZHU2xha1dHMERMRmdYc2pRX2diZ19Od0NBWldsZnJ5QlRNS3hIc1l2ZFpJNzBPWXlvS0Y1VlA4Vjg4dElQRVIwR2xFRDdRcS1FUmtsTU1nRG42VlBTNDM5VG5yd05TeVVSMEszOVJRcnN0RWNvbVZiblpqUkg3c1o5T0xzSEVzdHBzbC1SV19saFp4V2xmaEZpT0hwOEFTWHJ0VVg5SGhwbHoxYTFzQ3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b42c6f56eee2",
-      "title": "Crop Diversity Helps Drive Down Fusarium Crown Rot Risk - Global Agriculture",
-      "published": "2026-06-22T10:59:30+00:00",
-      "summary": "Crop Diversity Helps Drive Down Fusarium Crown Rot Risk&nbsp;&nbsp;Global Agriculture",
-      "sources": [
-        {
-          "name": "Global Agriculture",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPek8wSDIzeUUzZlJNLUcyZjBtNmZocHRfM1NhaGIwejVzazJFYUNXX282MlJUYXNlbzV3bkRSX2gyeFlsWG4tTXg3OS01bnBEb0k1Zmt0cUJETVl3dUhOeWx1emN4MXMzQ1dMam80WmQxMkpnMVI0NVRXcFJqTVZmNTNsdVVRSjR0QzIySDJ3enFNdFZxTTlSZDdwSjBBWWhreVlVY3FmX0EzSVNjeEZV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "87a5bd7af5ac",
-      "title": "Orientation Programme for Members of National Immunization Technical Advisory Groups of WHO South-East Asia Region - World Health Organization (WHO)",
-      "published": "2026-06-22T10:53:39+00:00",
-      "summary": "Orientation Programme for Members of National Immunization Technical Advisory Groups of WHO South-East Asia Region&nbsp;&nbsp;World Health Organization (WHO)",
-      "sources": [
-        {
-          "name": "World Health Organization (WHO)",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNY1BnTExmUXJZMnJsa2R3ZTZwTVRkakpEV2tFbnhTcUJOdzBDMlVSWHZoUXZPNzlpbW1GTzJUQ0czd2EzckpfeDkzei1ZTms3ODRWWG9wZ3JITnFmcGtUc2RvMXlYRWVyN1U2LXJrNDdkUU9oN19fdjNHdHd6UDF1Y055VjRwajNtdDZ6Qk4xb1lwMFZUTlkyNTBUaWtvNmFQNHRKOVRlcEpYcERocWpHSUo4LXZNMVBfdFZLU2M1RGRldy1kYU5aTlA4NXJXenRsempxdXN1aWhWbTJObjNLQ3RmdENWckVYN2cwN1p4X3NpZ1JyR0ZycGFJRWU3dXls?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "556e683ffd4e",
-      "title": "Think you're healthy? Doctors warn of silent risks in your 30s and 40s - India Today",
-      "published": "2026-06-22T10:19:06+00:00",
-      "summary": "Think you're healthy? Doctors warn of silent risks in your 30s and 40s&nbsp;&nbsp;India TodaySee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN1puSXJvR3ZUMXYwbjhLMDJlRnRlX2Z1cnNrNmgzNDhIa1N3MWxwajV1TWZSWm1TamtCb29QdlE3cTA1d0RaTDczdGg5WlJGazN1YnJaamdDMXJlOXd6WTlncFhjbG9RUHA4UDRrNjlndktQdWJOcWF5MHVkMS1sb05JdTdSYmNMU1NTa0huY2JpWHp2X0NuWU5jcjM3M0tzcm4yc00xV21kQm91ZTJEem1MS2VaaTZVNjE4Z2UzNTRlTDBtWnhRMHVR0gHKAUFVX3lxTE83Wm5Jcm9HdlQxdjBuOEswMmVGdGVfZnVyc2s2aDM0OEhrU3cxbHBqNXVNZlJabVNqa0Jvb1B2UTdxMDV3RFpMNzN0aDlaUkZrM3ViclpqZ0MxcmU5d3pZOWdwWGNsb1FQcDhQNGs2OWd2S1B1Yk5xYXkwdWQxLWxvTkl1N1JiY0xTU1NrSG5jYmlYenZfQ25ZTmNyMzczS3NybjJzTTFXbWRCb3VlMkR6bUxLZVppNlU2MThnZTM1NGVMMG1aeFEwdVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6be076ed5a8d",
-      "title": "A Simple Family Activity May Boost Brain Function, Study Finds - ScienceAlert",
-      "published": "2026-06-22T10:01:16+00:00",
-      "summary": "A Simple Family Activity May Boost Brain Function, Study Finds&nbsp;&nbsp;ScienceAlertScarlett Fountain&nbsp;&nbsp;Mena FN",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRWlyVUhyUnZERmxYZ0MtUU83cVlObGFFQXk4Tk5xVmlaTUlCQTE5dThHemhJdEVGM1kyWGdweFV6X3JTLUcwcnpoUU5iTzlMVzdZa2pqOU5USlZpUE1qOHgzdnJnWVpQcmt0ay0wMVhaNlM5aVdnWng3c18wbmNyXy1ybmEwTGVhVmpuQmNzRkZXa1Ez?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3d3a71d7aab9",
-      "title": "Researchers explore DNA-based approach to improve prostate cancer detection - expresshealthcare.in",
-      "published": "2026-06-22T09:52:56+00:00",
-      "summary": "Researchers explore DNA-based approach to improve prostate cancer detection&nbsp;&nbsp;expresshealthcare.in",
-      "sources": [
-        {
-          "name": "expresshealthcare.in",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmVLUjJDQTdTdkdlaVJtVVlvT2hNelkzd3FRZUxodHdYdmhfRkZuZ0NvVE10OEpwZzNnLW5haGlCSUlUaUk0S2hJTG5YdThXMEJUcVVkX0pIYlltOFBFSkg5cTZoUmNQMzVFMTk5OUcxNWVTdERueUVVYzNXWGJ0R0lCM05SdExCNVRzSlR2dDJJRElyaHllZC1oS3A1NDZoZkg2QmpISTNFaGk3aVF6VUZTX2lyVkpDY0Z0UExn0gHDAUFVX3lxTE8xUS0tS2NTaDA2Q21mX2x2S25wX01aWlJ2YjYtUGRtbHlzdW5OWGVfS28wQmM5UFVJblBCUU9HOGcyUFlQVGppTmNTYm5RRGgxVE1DcEZIU0wyZEc3eThWSGhJSXJOdHNhcXFRSUo3U25CdWxyak9fNkVCaDRac0oySWdSOEkxd29sQlFQSXhYNTQyT0NEaFpidXpST3hRc3pMcXliY0pxUlY1Y21RSzBkMWpWWnBOdXNjSE9nTWY3NHBxaw?oc=5"
         }
       ]
     }
