@@ -1,19 +1,151 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-07-02T13:23:02.262115+00:00",
-  "total_fetched": 94,
-  "unique_count": 94,
-  "health_related_count": 67,
+  "fetched_at": "2026-07-02T19:03:38.023752+00:00",
+  "total_fetched": 95,
+  "unique_count": 95,
+  "health_related_count": 66,
   "news": [
     {
-      "id": "dac34015e720",
-      "title": "New biological clues behind coffee's benefit to liver health - Medical Xpress",
-      "published": "2026-07-02T13:00:04+00:00",
-      "summary": "New biological clues behind coffee's benefit to liver health&nbsp;&nbsp;Medical Xpress4 surprising (and evidence-based) health benefits of drinking coffee&nbsp;&nbsp;The Washington PostYour daily coffee intake may cut your risk for liver disease&nbsp;&nbsp;CNNCan’t do without regular caffeine hits? Here's how much coffee doctors say is safe&nbsp;&nbsp;Telegraph IndiaIs Coffee Bad for You? Its Real Effect on Weight Loss, Cholesterol and More&nbsp;&nbsp;Yahoo Health",
+      "id": "74395494d39c",
+      "title": "New calculator reveals whether you should really worry about statin side effects - ScienceDaily",
+      "published": "2026-07-02T18:31:39+00:00",
+      "summary": "New calculator reveals whether you should really worry about statin side effects&nbsp;&nbsp;ScienceDailyStatins: Serious Side Effects on Muscles Are Rare, Study Finds&nbsp;&nbsp;HealthlineRisk calculator gives personalised prediction for statin muscle side effect risk&nbsp;&nbsp;Pulse TodayAre Statins Really Dangerous? New Oxford Research Links Drug To These Muscular Side Effects&nbsp;&nbsp;News18Statin muscle side effects may involve inflammatory danger signals&nbsp;&nbsp;diabetes.co.uk",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmZTMlpid2tUbGlRTlRxNGx5LU94eW9lQlJrdmVadTNWblNrVl81X0ZkVnlzYXROcGJrd0o0Y3cyTjlHSUhuTXBhd09LZVh1TGEyT2VPdFBqVExGcXNqS1F6TzVUY3NaNFB5TzhMVGFNbVBZNEU2RDI1V2s0cjZSSnVTMXZSUk9l?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YMERacWMxRUlrRUt2aDRIaFUxZ3d5SG5ocE9Fa1BQNmtnTU1UVmVkOURCcVJ5NFpVQkRSUnBxQlpoSEZxaUJOcW9fOVJSdk9aaXdnd241Vmc0Q0tXcGdpZVdWVTNyencwV3pPY2tLbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2ba9daff867",
+      "title": "Cochlear, Hearing Experts Launch Summer Campaign Urging Americans to Address Hearing Loss - The Hearing Review",
+      "published": "2026-07-02T18:08:44+00:00",
+      "summary": "Cochlear, Hearing Experts Launch Summer Campaign Urging Americans to Address Hearing Loss&nbsp;&nbsp;The Hearing ReviewHearing loss: How and why it breaks down the ability to communicate&nbsp;&nbsp;Telegraph IndiaTips and tools for navigating hearing loss&nbsp;&nbsp;PsycheDr. Kadie Nausha Shares Expert Advice on Hearing Health and Common Ear Conditions&nbsp;&nbsp;Palm Springs LifeResearchers are taking a different approach to fighting hearing loss&nbsp;&nbsp;Federal News Network",
+      "sources": [
+        {
+          "name": "The Hearing Review",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVkVNNzQ1VUg4MXoxRkVEWnB2d3gwbzE4X19kekhFc1BwZEwwN1FTZWdYdC12WVZnNVNmZUhlekRfRFFBaVRjdkRJYWM3UTVSaXFJd1p1aTI5ODBqYjl4Y2VWZnJ0SDdSTVVMM1V4aVZDbEtWUHNPVDliN01KOEhNWmNRMlZwVlBRb0lsSDhPUFMxQnNKWEFuaW1CeVN3QWEzWnBBNkRET3Q5cFIxZ2h0eWg3Yl9qR3FTNHhLaVpVaTRhOWRUYUhrODJsQ25TV3V4Nl9IQnNWVmRxM00?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1788ff295719",
+      "title": "Sitting for more than 30 minutes at a time linked to higher risk of cancer death - The Guardian",
+      "published": "2026-07-02T18:00:00+00:00",
+      "summary": "Sitting for more than 30 minutes at a time linked to higher risk of cancer death&nbsp;&nbsp;The GuardianFive-minute hourly walks linked to higher productivity and better mood, study finds&nbsp;&nbsp;IndiatimesI’m the laziest person, but even I get up to move around every hour: What's stopping you?&nbsp;&nbsp;Hindustan TimesYou Gotta Get Up to Get Your Cancer Risk Down, New Study Finds&nbsp;&nbsp;GizmodoExpert shares practical tips to reduce sitting time at modern workplaces&nbsp;&nbsp;Moneycontr",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSS1PMjJqeWdIOWxyTUZaRkhOTlZhY05kZFRQenQ1NGVDemNaT1lBX1VkWW9ucG1neVFpVGVOVUV4ZXQ1VHFHN0ttMVdMX0RNc29ubTlnenFtTlk5V0hrX0VmTUZQcktmVG1MNEM3TWFOcTU4eVM2ampvZ0hzQmFlTzJYUzE2WVphd3ZaWWFZakU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "310bf6cd3b01",
+      "title": "Most ‘GLP-1 Nonresponders’ Never Get a Fair Shot - Medscape",
+      "published": "2026-07-02T17:14:47+00:00",
+      "summary": "Most ‘GLP-1 Nonresponders’ Never Get a Fair Shot&nbsp;&nbsp;MedscapeLet's Discuss GLP-1 \"Nonnegotiables\"&nbsp;&nbsp;PopsugarWilmington doctor explains benefits and potential side effects of GLP-1 weight-loss medications&nbsp;&nbsp;WWAYTV3Triad physician answers the GLP-1 questions everyone’s asking&nbsp;&nbsp;The Business JournalsGLP-1s 101: What the science says about weight loss, side effects, safety&nbsp;&nbsp;Stanford Medicine",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXlabFltbGpIY2hnemRxZExkbG01QnBNcktmLWtJQjI0UTA1blduSDNyQm04bzRyV2lJajFWOGJ3M05YYnZrelVmOFJobDktN0FieDk3TTlyTlZfMVhoQWNfU043ekJvNGFOQzBjWE9neE9UMmVQN0NyNkhmaGJTTlB4WHdFUEhwclRFTGdMbVZTX0VHcThtWVNQLXNjRXY5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f89310f22fc3",
+      "title": "Eight-hour eating window sustains long-term weight loss - News-Medical",
+      "published": "2026-07-02T17:11:00+00:00",
+      "summary": "Eight-hour eating window sustains long-term weight loss&nbsp;&nbsp;News-MedicalIntermittent Fasting vs. Calorie Count: Which Is Best for Weight Loss?&nbsp;&nbsp;HealthlineIs Intermittent Fasting Safe For People With Kidney Disease? Nephrologist Explains&nbsp;&nbsp;NDTVIntermittent fasting: Does it help with weight loss and heart health?&nbsp;&nbsp;Nebraska Medicine31 Studies Reveal The Sweet Spot For Intermittent Fasting&nbsp;&nbsp;Yahoo Health",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHFvNHl0dFg1ZGhJZWt0dDN3LXVzZjhrUm5zb1JEZ0pCUXc0V1BjVDJRMUN2cDhmU25GQjRQb3RSeENTVHBkRWt3NjQtbkdRQjdRczlrandwMG5pX1B2RlBVTVVieWRXODNTTlc3dmxZS01qUnplaTljUjNfeDhFWm9OaGhXVnVDVVlUcXpubDJSN2pEOG95c2o4Y2d6YkRLWHF3cVpB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc1fc41c582e",
+      "title": "Africa CDC chief says Ebola outbreak in DR Congo \"very serious\" with over 400 deaths - Xinhua",
+      "published": "2026-07-02T16:44:15+00:00",
+      "summary": "Africa CDC chief says Ebola outbreak in DR Congo \"very serious\" with over 400 deaths&nbsp;&nbsp;XinhuaEbola Outbreak, DRC and Region, Situation Report #9, July 1, 2026&nbsp;&nbsp;ReliefWebDR Congo’s Ebola official death toll exceeds 400: authorities&nbsp;&nbsp;Arab NewsOn the front line of Congo’s Ebola outbreak&nbsp;&nbsp;Al JazeeraCongo traces possible Ebola spread to two new provinces, sources say&nbsp;&nbsp;ET HealthWorld",
+      "sources": [
+        {
+          "name": "Xinhua",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MaTFsdTlXOVFHQWpSRGNzWEFkczJkUU9OME52M0NqYjVxNk1rVmZqaG5GMEtsaGdPMjh1TGExWVg2VGE1enJfdU41OXBMUHh2YzdMN0FtVkdjWHREZkd3M3BWaHlXNUxfellMbjRaS0VfeTNONDNNTTNQaXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ada095d6bdfa",
+      "title": "Q&A: Can More Patients With MIBC Keep Their Bladder? - Medscape",
+      "published": "2026-07-02T16:21:50+00:00",
+      "summary": "Q&amp;A: Can More Patients With MIBC Keep Their Bladder?&nbsp;&nbsp;MedscapeMultidisciplinary Tumor Board Integration of ctDNA Results&nbsp;&nbsp;OncLiveArpita Chauhan: ctDNA-MRD Testing Moves Into Clinical Decision-Making in Bladder Cancer&nbsp;&nbsp;Oncodaily",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUpreWJHT0FUNFVQc2p5clJ2TVlqQ3YtSDdSazVkNDZXdkR4QXhRTURkSzRnSjE0cjVXTHlobE5nVFpTU3dRRDJBQjBRSFR5bzE1bG9OM0ViQXZOcWRkaUhMMzdFV1NqbktFXzhET3pJV0c2R2FNU2t3Y2RjQk1COFFVY29UY2xuNEJpUExMVnhfdkJZdmhteg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08f04fe3ec27",
+      "title": "Trial for Bundibugyo Ebola treatment starts in DRC, WHO says - Reuters",
+      "published": "2026-07-02T15:45:14+00:00",
+      "summary": "Trial for Bundibugyo Ebola treatment starts in DRC, WHO says&nbsp;&nbsp;ReutersSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSUgwZUFNb1E0eDlReldLV3ljNDI2cTlicUlISm5TLXZrc3JpTENNTXFYdVNVWU9XYmdibldxNkVzeUxhSkhtS0JpRXNIR19RTU9sSFlQWGZrQXMwQWRJSGhmSW5YZnB5Y3NTMW5JV1BzYnZPb21UV2t1ejdoVl91d2dwTHgtQ3hYMzhPM3VnV2xVQXNqX0J0RDZGLV9ZYllwYWUxb3lvMjZlRkg0eWZncTAxZ1FmUjRsd2xwNDRkLWZRdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c7bee25ef747",
+      "title": "Communicable Disease Risk at the 2026 FIFA World Cup - EMJ",
+      "published": "2026-07-02T15:02:42+00:00",
+      "summary": "Communicable Disease Risk at the 2026 FIFA World Cup&nbsp;&nbsp;EMJPublic-Health Officials Cross Their Fingers During World Cup&nbsp;&nbsp;The American ProspectGillings-supported center helps public health teams prioritize infectious disease risks, from measles to the World Cup&nbsp;&nbsp;UNC Gillings School of Global Public HealthWorld Cup visitors could be a test for U.S. healthcare systems&nbsp;&nbsp;KIRO 7 News SeattleInfectious disease experts monitor potential outbreaks due to World Cup&nb",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3lVX3hmX09WT0xWY2VWWm5jTV9PUkVtTy1LWU5uQThRcVgtZkdtbFJybGV1R1VDTWtmTTZFZmQtbmV0ZGd5ZHo5RmsyZHI3Y1g3RWlrUGI2am4tZ3lrd2N0dzdYa056WXYwX0RmWjgzbFZUNnI3NnppRm80c1FyX21CcU1VWEVaOVJnN3duY19Pcll4eVBOckFUR2kxTzZHczN4cVhaMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3ee43430a0c3",
+      "title": "Ultrasound can target oral cancer cells: Study - The Hindu",
+      "published": "2026-07-02T14:57:01+00:00",
+      "summary": "Ultrasound can target oral cancer cells: Study&nbsp;&nbsp;The HinduSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLWJ0NDE0eWtSZ2I0QWtNallvRzZzeC12NnZfSVdWeENHWHE1bVh2UHF6dTAwX180QjhZcWRCQnZMVWpVMjQxeTFRTDJvMHE2ZHVaQ2tKMXJULTAyRkNOU0JWdG5SRkVLa1dDSEN3R3JmMGVjUkNQRk1YNEJtSEVXdnpwM3ZlcVRaNG1HLUlZcy1xZ0hBYlRUcjJ3dnVPcWNLSHlIQkE2b29kVEJqeUFXWWlvbzDSAbsBQVVfeXFMTTNyX2k5RmlkWlZxRm5mLW1Wa3JnZXMwRk1uSlIzLVFCelFmWllRN3B4cWxoTDlud2lsMU41U3lDaktIZklHVWk5Q2t2M2FUY1NfVFZpZGsxXzhhYkNwb0JjQnBGWU9PMTVFN05iMUN3cUZIY0FaV0RIcHlwTk9IaHlVNlZZQVFfbzJKVDdlVHVTWV8xTG5ZWXhtUTJzUWlJaEJmcWtFZlp5eGpWSTJ3OXFtbXZpUzYybkV3Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2377f08a5f49",
+      "title": "Are biotin gummies safe for your hair? Dermatologist shares 6 tips to choose the perfect hair gummies | Health - Hindustan Times",
+      "published": "2026-07-02T14:05:39+00:00",
+      "summary": "Are biotin gummies safe for your hair? Dermatologist shares 6 tips to choose the perfect hair gummies | Health&nbsp;&nbsp;Hindustan Times",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSFRBQUlSQ0ZyZ0c0dWJ4aFpSS2J5OUxOaWoxQ1BYemVCT3dZbDdnMmU4RDdSSXlzNjZOTmNNcVk1RHhValEwankwQnBYekRkUzBDTl9Ma3kzNWE4cEhQSWdOSnEzX1dXZk9UdFdXS0hBbXYtS2ZwNEFQa1dTeG1iX1lpZEhDeFJVcXd6T2NKRmt2eHY4bTFoT0NvcS1tSjNySzg1bW50c3pPdjV2dF94UERRdHNpd2YxdXRKZ0FURFRfaFpwTHpfVnRFelNIdDA0RUU5OHBIREJta0xILWUyN3Yxcm5vQVljN0phdDJkZHExN1BmUjk5RUFsZERUUdIBgwJBVV95cUxNc2tTR2pvRlkzTzVPczdzLWcyNzVqVlJ1bVVnU043RVIyODlRbGZ4ak05TlRNa3dSMmRyWTZnWW9WUkxuQmJpb3ltb3NvU0wzTEFDOWRqa3RpWnAzQWVHX3J4ajRqbW00XzJkTmk0bnM1N0JVLWNHTHlPZ1N4dHA0R25lcFJXNjVIY3BXcmlmUXVQQ1BxT0NTZlljRzh0Y2RlLW1HOHl6OXEyWldacFVVU2dqbzBDSVV2QnRkaWNVbTJBaENiWnBENXE0T3VwUTNHczNmSFhQSXNldGNlRTQxaW9TMFlVVXNySjVGcTRXOU9hRVQtYndDU1ZtbzE1czBBMEpz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e02f72eb92a",
+      "title": "Severe gum disease linked to early kidney function decline - News-Medical",
+      "published": "2026-07-02T13:38:00+00:00",
+      "summary": "Severe gum disease linked to early kidney function decline&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2prT0lnYl9HMWVGTW5oM1hfSjF2SGZEU0hFX0dwcVVPNzZLQXAxSzk0TUJfc0ZybHB1bDh1TlYxSmwwLU9qeTBtc19MeEVHcFNBX3dZQnBkc1o4djJtLWg5aG9WOHhtWXdZcW50dEpRMVhjMXNhTjdxcVZpYVBjOS1aZ3JiTmptZVVVMFg3dXY3OXJfSWNhOGVVbS1Bc3dOZzBnNkJzRnFSQQ?oc=5"
         }
       ]
     },
@@ -33,7 +165,7 @@
       "id": "b8c2da6616a4",
       "title": "Why Do Humans Have Grey Hair? A Biologist Explains What’s Happening - Forbes",
       "published": "2026-07-02T12:00:12+00:00",
-      "summary": "Why Do Humans Have Grey Hair? A Biologist Explains What’s Happening&nbsp;&nbsp;ForbesHow to delay grey hair naturally: 5 science-backed hacks&nbsp;&nbsp;Indulge Express'Why am I seeing grey hair in my 20s?' Expert explains the real causes of premature greying&nbsp;&nbsp;TheHealthSite",
+      "summary": "Why Do Humans Have Grey Hair? A Biologist Explains What’s Happening&nbsp;&nbsp;ForbesHow to delay grey hair naturally: 5 science-backed hacks&nbsp;&nbsp;Indulge ExpressGrey hair in your 20s, poor memory in your 30s? Neurologists explain whether chronic stress is making you age faster&nbsp;&nbsp;Hindustan Times'Why am I seeing grey hair in my 20s?' Expert explains the real causes of premature greying&nbsp;&nbsp;TheHealthSite",
       "sources": [
         {
           "name": "Forbes",
@@ -42,10 +174,22 @@
       ]
     },
     {
+      "id": "bb3a9f52db6c",
+      "title": "Genetic differences affecting infant's activity also associated with ADHD, study finds - ET HealthWorld",
+      "published": "2026-07-02T11:57:37+00:00",
+      "summary": "Genetic differences affecting infant's activity also associated with ADHD, study finds&nbsp;&nbsp;ET HealthWorldGenome-wide association studies of infant and toddler temperament in European and multi-ancestry populations&nbsp;&nbsp;NatureToddler Temperament Is Genetic—And Linked to ADHD and Autism&nbsp;&nbsp;Technology NetworksGenetic markers for ADHD influence early toddler activity levels&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "ET HealthWorld",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPb3JzT3AyQ0F6b0d6T0dxZlNQd2JKc2hSNnhyd042VlJjODJZSnJTbFViVlVHMXBLbzg5WTRsU1J2SklZdE1EUTFNcGJJUUswOEZBekJHZjJSRldpeWhVR0VfQ0h0cGhkZFVlY2pJbXhXWVhyTU9CTWdqRWxidmhCN2I1clhZM3M0OHpaM0ExZTBjSkUtbWg0djFJbjNVTVcyOVUydU83T0o3REJLNFlYZUd0TnlhR21CZ0s4RUVvd29TamZqRE1ldUp0ZUFfNWYwRC1Fb0plU1hwU01pRVMyMUxsWXZ5eEHSAewBQVVfeXFMTzlGY2tOMDI2S3BYOWZUUDF3RUNhTHg2djUtc1JQeGphZlU5UXYxY0t5REt3UWpkSGFRdUNJZFo3RXNBNlJrNDVpYUlLcUpRbDQwd1NwQ0JxZTlsSFhrM2pRNkxkZDNZbnVicnNwU3RyYm4yTjJjSmkwWUVSaXZEaFppdG9wb0RiclhZVXhZYk1SVER0RVZfd3pPYWFnbEpuaHMzd294RTBDb0ZDVEdrSEtmRDRtRWlLTzBjV0w1RVBURjd6bktpYlZTMFdtUUQ4MWpIcThfVGYtcS0zeWFpbzNSNXJPLXNjZEhYT3o?oc=5"
+        }
+      ]
+    },
+    {
       "id": "30b30f0a0529",
       "title": "The Silent And Growing Burden Of Liver Disease - BW Healthcare",
       "published": "2026-07-02T11:54:22+00:00",
-      "summary": "The Silent And Growing Burden Of Liver Disease&nbsp;&nbsp;BW HealthcareWhat to do after a Grade 1 fatty liver diagnosis&nbsp;&nbsp;The Indian ExpressAIIMS-trained gastroenterologist shares 3 habits that destroy the liver before 40: Alcohol, ultra-processed food…&nbsp;&nbsp;Hindustan TimesFatty Liver Alert: Researchers shed new light on how this disease develops and progresses&nbsp;&nbsp;Telegraph India3 things that damage your liver before 40, according to a Harvard-trained doctor&nbsp;&nbsp;Mon",
+      "summary": "The Silent And Growing Burden Of Liver Disease&nbsp;&nbsp;BW HealthcareFatty Liver Alert: Researchers shed new light on how this disease develops and progresses&nbsp;&nbsp;Telegraph IndiaAIIMS-trained gastroenterologist shares 3 habits that destroy the liver before 40: Alcohol, ultra-processed food…&nbsp;&nbsp;Hindustan TimesWhat to do after a Grade 1 fatty liver diagnosis&nbsp;&nbsp;The Indian Express3 things that damage your liver before 40, according to a Harvard-trained doctor&nbsp;&nbsp;Mon",
       "sources": [
         {
           "name": "BW Healthcare",
@@ -54,14 +198,14 @@
       ]
     },
     {
-      "id": "f89310f22fc3",
-      "title": "Eight-hour eating window sustains long-term weight loss - News-Medical",
-      "published": "2026-07-02T11:33:00+00:00",
-      "summary": "Eight-hour eating window sustains long-term weight loss&nbsp;&nbsp;News-MedicalIntermittent Fasting vs. Calorie Count: Which Is Best for Weight Loss?&nbsp;&nbsp;HealthlineIs Intermittent Fasting Safe For People With Kidney Disease? Nephrologist Explains&nbsp;&nbsp;NDTVIntermittent fasting: Does it help with weight loss and heart health?&nbsp;&nbsp;Nebraska Medicine31 Studies Reveal The Sweet Spot For Intermittent Fasting&nbsp;&nbsp;Yahoo Health",
+      "id": "0af8b486e469",
+      "title": "11-year-old boy dies from rabies in Canada after waking up to a bat on his face - Euronews.com",
+      "published": "2026-07-02T11:46:41+00:00",
+      "summary": "11-year-old boy dies from rabies in Canada after waking up to a bat on his face&nbsp;&nbsp;Euronews.comCanadian boy, 11, dies of rabies after waking to bat on his face&nbsp;&nbsp;BBCCanadian boy dies of rabies after waking to find bat on his face&nbsp;&nbsp;The Guardian11-year-old Canadian boy died of rabies after waking up with a bat on his face despite having no visible b&nbsp;&nbsp;The Economic TimesFatal rabies case underscores need for immediate preventive treatment&nbsp;&nbsp;News-Medical",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHFvNHl0dFg1ZGhJZWt0dDN3LXVzZjhrUm5zb1JEZ0pCUXc0V1BjVDJRMUN2cDhmU25GQjRQb3RSeENTVHBkRWt3NjQtbkdRQjdRczlrandwMG5pX1B2RlBVTVVieWRXODNTTlc3dmxZS01qUnplaTljUjNfeDhFWm9OaGhXVnVDVVlUcXpubDJSN2pEOG95c2o4Y2d6YkRLWHF3cVpB?oc=5"
+          "name": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ2NCbkJkMWVjSE9nVlR2TzczbWcyV3hwS1hyN0dKMXBCT1JwVnJVb0RhOUVwdk5wMEhBVGJyZ1lMUlQ4SWZBbHN5UFBuS3hhall5emlUMlpqTkRMTWRyOEdoM3Bja3lKTVlPQldsM1NTeHZ5YVB6U1M2WDZuSWV6Y05RMlpQTEJGTlRsYVdNcTRzMU8zWXFEQkVfMkd3dmNHY0JmaWhMZmdOa0dvbFBWdWpTLTdMZw?oc=5"
         }
       ]
     },
@@ -69,7 +213,7 @@
       "id": "c3155bcd1182",
       "title": "What do ovaries do after menopause? New US study says they make a career shift - ThePrint",
       "published": "2026-07-02T10:25:27+00:00",
-      "summary": "What do ovaries do after menopause? New US study says they make a career shift&nbsp;&nbsp;ThePrintOvaries Appear to Develop an Incredible Second Role After Menopause&nbsp;&nbsp;ScienceAlertOvaries Might Take on an Immune Function After Menopause&nbsp;&nbsp;YahooThe ovaries may play a 'second role' even after a woman goes through menopause.&nbsp;&nbsp;GIGAZINEDo ovaries take on a new immunity role after menopause?&nbsp;&nbsp;India Today",
+      "summary": "What do ovaries do after menopause? New US study says they make a career shift&nbsp;&nbsp;ThePrintOvaries Appear to Develop an Incredible Second Role After Menopause&nbsp;&nbsp;ScienceAlertOvaries Might Take on an Immune Function After Menopause&nbsp;&nbsp;yahoo.comThe ovaries may play a 'second role' even after a woman goes through menopause.&nbsp;&nbsp;GIGAZINEDo ovaries take on a new immunity role after menopause?&nbsp;&nbsp;India Today",
       "sources": [
         {
           "name": "ThePrint",
@@ -78,14 +222,14 @@
       ]
     },
     {
-      "id": "51e0a0caed45",
-      "title": "Haney Physiotherapy Earns ThreeBestRated® Recognition for Their One-on-One, Patient-Centered Approach to Recovery - EIN Presswire",
-      "published": "2026-07-02T10:05:00+00:00",
-      "summary": "Haney Physiotherapy Earns ThreeBestRated® Recognition for Their One-on-One, Patient-Centered Approach to Recovery&nbsp;&nbsp;EIN Presswire",
+      "id": "6aa4e0d9039a",
+      "title": "Is your heart healthy? How to protect it at every age - The Times",
+      "published": "2026-07-02T10:20:00+00:00",
+      "summary": "Is your heart healthy? How to protect it at every age&nbsp;&nbsp;The Times6 summer tips for maintaining a healthy heart&nbsp;&nbsp;WSTMLongevity doctor shares 5 non-negotiable factors to maintain heart health: Muscle mass, VO2 max, and more&nbsp;&nbsp;Hindustan Times5 Things to Do This Summer for Better Heart Health, According to a Cardiologist&nbsp;&nbsp;Yahoo HealthWant to avoid a heart attack before 60? Cardiologist shares 10 important tips&nbsp;&nbsp;India TV News",
       "sources": [
         {
-          "name": "EIN Presswire",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNWpuMG0wMkJEYUZJUklITmlCVlNKa0o4WWVmT1FzQVVxanhkQjJUYm5uMXF5OFF5Nlg0eWJlbzBNSTVCaFIwdTJHVWtSTkJ2QTlpdjJxX0dGOTdOaXZVWnM3ckxSdTVPYW1JTC1yMmp6Tkt5WmtFWldjaUJUWDFJQzdkZUl3TEN5UGcwVzdDb2RvSXRGTkRmdVdSbzdvc3BZN3RnOHY1cHRvcXM2Q1ZoQmRXU3l6MlV0UVI5amF4S25iQlhtS2JpTTFkMGZkWTBNdUtKWFZYVzNuMzlxS1NJdzVzVXpCLXQwYWxpLXRvVQ?oc=5"
+          "name": "The Times",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBBRHoyVFNPYzBHRVVodkpxZ25OdENVSXc1OUhubUNkSGtKNVJfRnMzM1pGM0JQY2N0dERRdzdoY3hhSW5palNlcTlpSkJHWFRxczg3YVNudDZ6R3lERTFOSmhJcWNJLWNoaGZEcGQ2eFF4bFNhTjBpRUtfYkZJZ1JLRFRUMDJ1TXBCVzNrMHRTS1kwQmhGN0k2d0t6TXZDLW5GaDdvQ3BBX2VXaVJHeFpvM2lsZw?oc=5"
         }
       ]
     },
@@ -98,18 +242,6 @@
         {
           "name": "EMJ",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVDN0aW4wWDFiMXo4WDNWMVhkRDZ3MkFrZTUxelI4b3k4YVFkbmZaejJpbXNkQUJrU2tfVTJHWjRkM0RzSi05Y2M4dy1jOXk3aTM0ckFsdmN5SU1oWWRfZlhySU5PSTZxOU82T0RmYzFfR1ZuMGttX3hpUzRJUUNtenRPTDViMW0yLTlBcVdObDdQSGVHcGZjLW1oOGU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c3f65523f04",
-      "title": "Comparative Epidemiological and Metabolic Profiling in Alcoholic Versus Metabolic Dysfunction-Associated Steatotic Liver Disease: A Western India Cross-Sectional Analysis - Cureus",
-      "published": "2026-07-02T10:01:44+00:00",
-      "summary": "Comparative Epidemiological and Metabolic Profiling in Alcoholic Versus Metabolic Dysfunction-Associated Steatotic Liver Disease: A Western India Cross-Sectional Analysis&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdkx0YjhyZUVGRTVRVG1PcDBSUDY3bnl2ci1MdnpabVFaX3pSeUtjYjEzRFRWM056UlFuanV3NEJiR21Vb2I1SDN5TFUtYTJ1SXdoR0w1LU1HeEtSS25UemQ1VG8wZnJPQ2lMcDRLa0tQMWZ3WVpHQkpiM3JlVlhrSEx0clo0bk44SzI2SjEwa2ptZmdmOXNCaEZ0VVIxaDFIRndXNUFVRENSRmRqZ01UZ1JPTmo0ZEM4UEdvLVo1RXk1anVaWEZjbVVEWmFTZ201UnMwbEhINmVoNlh1ZE1KY2xHTWQ4Y2E5MFItbFh1Z1dqa2Q3NnhvX3J3aEdfUWs4cG9DbnJWbFdJVS1adnZBRFRFbU5xSmZmSS1jR1RMdk5RXzh2dTF3aG9pOFdpZG5HbGc?oc=5"
         }
       ]
     },
@@ -138,6 +270,18 @@
       ]
     },
     {
+      "id": "bda8be85b58e",
+      "title": "Can bending or walking trigger a miscarriage? - News Arena India",
+      "published": "2026-07-02T09:01:23+00:00",
+      "summary": "Can bending or walking trigger a miscarriage?&nbsp;&nbsp;News Arena IndiaBending forwards and walking a lot at work may raise miscarriage risk in early pregnancy: Study&nbsp;&nbsp;Medical DialoguesOccupational Standing, Walking, Forward Bending May Be Linked to Miscarriage&nbsp;&nbsp;Optometry AdvisorSurprising Work Habit Tied to Miscarriage Risk in New Study of 800,000 Pregnancies&nbsp;&nbsp;StudyFindsCan bending or walking during pregnancy increase miscarriage risk? Here’s what experts say&nbs",
+      "sources": [
+        {
+          "name": "News Arena India",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUw5Tm1lZnpRNGZTamdvcFZUNVVIREFscm5SVGdocC1QR0hIaHVzWlplM1VNLWVzUXBQR3otTXh3VTM4bUtSRmItMzFISFVmS1pGSEZUOEdqVThwUThYMXY5QVE1aU5qZm5KT3dhNHVTV1JSX3pwMFdVazVHS2NidG5naTdjNWhZZTNlUw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "09be9c26eaa7",
       "title": "Vitiligo: Why Does Mental Health Still Go Unseen? - Medscape",
       "published": "2026-07-02T09:00:40+00:00",
@@ -153,7 +297,7 @@
       "id": "8803d1f430a3",
       "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak - The Guardian",
       "published": "2026-07-02T09:00:00+00:00",
-      "summary": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak&nbsp;&nbsp;The GuardianWhat makes Ebola one of the world's deadliest viruses?&nbsp;&nbsp;ScienceNorwayThe Ebola Outbreak’s Central Mystery: Where Did This Virus Come From?&nbsp;&nbsp;The New York Times",
+      "summary": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak&nbsp;&nbsp;The GuardianEbola Returns: How We Can Fight Back&nbsp;&nbsp;Time MagazineEbola response highlights value of African science&nbsp;&nbsp;SciDev.NetThe fight against Ebola&nbsp;&nbsp;Harvard T.H. Chan School of Public HealthWhat Ebola and Marburg are teaching us about the next pandemic&nbsp;&nbsp;STAT",
       "sources": [
         {
           "name": "The Guardian",
@@ -165,11 +309,47 @@
       "id": "c82c993c66dd",
       "title": "Protect Your Brain Before It's Too Late: Expert Tips - The Hans India",
       "published": "2026-07-02T08:43:01+00:00",
-      "summary": "Protect Your Brain Before It's Too Late: Expert Tips&nbsp;&nbsp;The Hans IndiaDoctorSpeak: Simple ways to defy dementia&nbsp;&nbsp;The TribuneGrey hair in your 20s, poor memory in your 30s? Neurologists explain whether chronic stress is making you age faster&nbsp;&nbsp;Hindustan TimesWhy People in Their 40s and 50s Are Getting Serious About Cognitive Health&nbsp;&nbsp;San Francisco ExaminerNew Strategies in Brain Health&nbsp;&nbsp;AARP",
+      "summary": "Protect Your Brain Before It's Too Late: Expert Tips&nbsp;&nbsp;The Hans IndiaExploring Brain Health: NYU Langone Experts Talk About the Mind, Brain, and Body&nbsp;&nbsp;NYU Langone HealthNew Strategies in Brain Health&nbsp;&nbsp;AARPAsk the Experts: How your brain changes as you age&nbsp;&nbsp;Grosse Pointe NewsHow to stop your BRAIN SHRINKING&nbsp;&nbsp;PressReader",
       "sources": [
         {
           "name": "The Hans India",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFRmUW9yMksxTkJrVHNpeHJmSWFCb0FScTgyRkhQN1ZQWWJ6ME9Bbnh4cTBHSktFSUlXS25ycnFrS3MxRC1TZE9tNnJ6QS1xbEhxcFZzZlU4M3VUTU1WVEI2QmR2d0FMT2dDVzc3SkpEY1ZKWUhqcUVOaEQ3aHB5cHNXY1I0Ti10ck1OZVlYN2o3OTN3RGlWQS1BOWMySmPSAaQBQVVfeXFMTlZnamQtMmQzaUpkYVJDUUJLTl96TkpKa1hmT0pUYjRzY0pQS1JJV19GaEtXUUxSUUtBWGZfaG9nYUk4VklVZC1ycTNPV3daTTBnLWt3cFpvZ3UwNnUwRVFyallHaUlGdmUwdm81bzRQem5hdVBsNzJjNGtTVVoweEk3SVN6a3ZFMmZZWE8waVMyenRKLWQzcHM3TWdSM0J6T2I2ck0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e4cfd732f60c",
+      "title": "Team in Australia builds soft-robot heart for cardiac study, device testing - Xinhua",
+      "published": "2026-07-02T08:31:00+00:00",
+      "summary": "Team in Australia builds soft-robot heart for cardiac study, device testing&nbsp;&nbsp;XinhuaAustralian team develops soft robotic heart&nbsp;&nbsp;AzerNewsSoft robotic heart helps model cardiovascular disease&nbsp;&nbsp;The EngineerResearchers Built a Silicone Heart That Beats, Bleeds, and Breaks Like a Real One&nbsp;&nbsp;Yahoo TechInnovative soft robotic heart offers new way to study disease and test life-saving devices&nbsp;&nbsp;UNSW Sydney",
+      "sources": [
+        {
+          "name": "Xinhua",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wRFRGZHJLNVFDdHhPSjlucVFUSmtRY0twNUlHWXdlQ2xHR0pZZzNjSUZ2WTRPTlZtOVAyZ3hGVERHZHM2V3JqV3FSRWRGZ25DMHkwNWRQZXBuXzh1Q013RzVsZjBhWDVhX0dwb0VYR3VaemVhblF2dnN2MUo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e76d31a301ab",
+      "title": "Astrobotic’s Peregrine Lander to Deliver Two NASA CLPS Moon Base Missions in 2028 - SpaceWatch.GLOBAL",
+      "published": "2026-07-02T08:24:53+00:00",
+      "summary": "Astrobotic’s Peregrine Lander to Deliver Two NASA CLPS Moon Base Missions in 2028&nbsp;&nbsp;SpaceWatch.GLOBAL'PROMISE' me the moon? NASA wants to send spare nuclear-powered Mars rover to the lunar surface&nbsp;&nbsp;SpaceNASA Awards More Moon Base Science, Previews New Opportunities&nbsp;&nbsp;NASA (.gov)Nasa unveils $600 million for new Lunar base missions for 2028: Inside the plan to build a lasting presence on the Moon&nbsp;&nbsp;The Times of IndiaNASA may send a backup, nuclear-powered Mars",
+      "sources": [
+        {
+          "name": "SpaceWatch.GLOBAL",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjJhcG9FVGFrTGxMQllLTFV4alVnZ0Z6QW16ckVOZmJUbVBScE80R0pmTmg1dGRrRWdUMGU5c283c3UxS1hoTWtMdmJxSURvM1VxZkxRVUZWZ21yeVVvQzU0TFBKYlplQk1oUjVzbnJnYS1CZlNZREhDWmtHOVZyRHV1UkNZbnBqQXBmMHVpT3B2S1IwVVBreW1wX1EzSlllREtZamVzWVliX0ptdnFhdTVXVWM2dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "42e7eedd86fd",
+      "title": "Can’t do without regular caffeine hits? Here's how much coffee doctors say is safe - Telegraph India",
+      "published": "2026-07-02T08:14:32+00:00",
+      "summary": "Can’t do without regular caffeine hits? Here's how much coffee doctors say is safe&nbsp;&nbsp;Telegraph India4 surprising (and evidence-based) health benefits of drinking coffee&nbsp;&nbsp;The Washington PostYour daily coffee intake may cut your risk for liver disease&nbsp;&nbsp;CNNHot cars, holiday hazards and coffee's surprising liver boost&nbsp;&nbsp;WKYCNew biological clues behind coffee's benefit to liver health&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Telegraph India",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOGs1QU9FTmlMa01BRHdqSGhwdktweTBoSld1eWl6WDRaOFdHenFUOWVUX3VFd1YwaFFyWldHNzRuMVlEaDAxMTY1VWdsMWNJZDlhaFBEQ3ZFSHRxenVxMWE4M3ZoNjhiVHF3LW9sU3N4emZqaFNhbWdQWGpLUnVhblB2REhDS25vNkczMFdBR19JSV9MNkhKTlMyWkg0SjlsNkllR0xkMVc0STJreWVQLWlVSnJwS1l1MG82a0U2NnBDOFA3TFpGTElB?oc=5"
         }
       ]
     },
@@ -186,26 +366,14 @@
       ]
     },
     {
-      "id": "4e0111a69f85",
-      "title": "38 Parasites Found In UK Woman's Brain After Her Trip To India: What Is Neurocysticercosis? - NDTV",
-      "published": "2026-07-02T07:48:39+00:00",
-      "summary": "38 Parasites Found In UK Woman's Brain After Her Trip To India: What Is Neurocysticercosis?&nbsp;&nbsp;NDTVA trip to India left me with 38 parasites in my brain&nbsp;&nbsp;BBCGot 38 parasites in brain after India visit, says UK woman. 3 facts and a question&nbsp;&nbsp;India TodayI came back from India with 38 brain parasites – here’s what happened next&nbsp;&nbsp;The IndependentUK woman’s trip to India left her with ‘38 parasites in brain’: Lowri Denman shares story of her battle with neurocysti",
+      "id": "b4311818dead",
+      "title": "mRNA Vaccines Proven Safe And Highly Effective Against Severe Infectious Diseases, Finds Lancet Review - NDTV",
+      "published": "2026-07-02T07:48:53+00:00",
+      "summary": "mRNA Vaccines Proven Safe And Highly Effective Against Severe Infectious Diseases, Finds Lancet Review&nbsp;&nbsp;NDTVmRNA vaccines protect against severe infectious diseases, review confirms&nbsp;&nbsp;ET HealthWorldBillions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise&nbsp;&nbsp;UBC NewsWhat came after Covid could reshape medicine&nbsp;&nbsp;Courthouse NewsReview Of mRNA COVID Vaccines Once Again Finds They Are Safe, Highly Effective, And Full Of",
       "sources": [
         {
           "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlctd1JCYUtNalVENEo4cDljYWVmRHRWTjI5SHB2VnpycW42N096Nk13dmt3NkFfUW94cFIwNGhVa1FRc2IzRnlacFAyblRLME5KRFhWTHJId05FaXFXdmowZjJfdE5tV1JVWWoycERtV0Vyejlhc2RUVlZPMkJzR2ZwUGV4amZTSGhCMlk4dU8zbXoybHo3RERRejZaR241NTB1MnZPSWJGQ1poNjNTaXhMMjY1V1Q3djR3a1AtMGc0RTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "88ca37f6f724",
-      "title": "Five-minute hourly walks linked to higher productivity and better mood, study finds - Indiatimes",
-      "published": "2026-07-02T07:30:00+00:00",
-      "summary": "Five-minute hourly walks linked to higher productivity and better mood, study finds&nbsp;&nbsp;IndiatimesI’m the laziest person, but even I get up to move around every hour: What's stopping you?&nbsp;&nbsp;Hindustan TimesWant to feel happier at work? Take a five-minute walk&nbsp;&nbsp;BBCExpert shares practical tips to reduce sitting time at modern workplaces&nbsp;&nbsp;Moneycontrol.comSit All Day? A New Study Offers a Much-Needed Survival Hack&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "Indiatimes",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTlFNaTZpVTlZSlpIbVB5aGc4VWtQaFFobTFGdmZHekJPMEtqMEx3aXZSWHBFZkNtamJRcE0xWDB2SVh2djBsbEJUVTV1VHBjc1pDc084WXdhaTZwcnZGNVMyblJVeTlwRUEyN2JtMG1jSFpoajNWOVFWUk1XS1dQX3Qtd1psLW1CMm5CVURnbVZ3NGJnc0hQSGhXRVVkZTVfVU50M1ZuUTc2dmZlSkI0NVAyWU1CaGhTeGhpSnhNRU52MjN5Nktza2tMcmpyUDl4cjFfTURMQXfSAd4BQVVfeXFMT0tWV1pyZzhwVEw4eElfN3FpTEpZYWh6eFBsMTBPUEFkX3hKdF9rWXk1WjlyVWpjODN3NzQ1dzVKX0RjMzktQlpHZm4xTV9pS0JDYWpGYkM2QmZ4bjB5TmtOZGVnWUNpX3g3aWtHcTF5T1EyQ04zSERVbUtJckpsekc5SXJQOWpDVHRNbUhuRHl5anprczdHOURUWEtlNEh1OHdzTjZZeHowX3pONkxhSHlBaTh6NFN0Z2tEZlR6X3dyWnpRUllfTmtvMDZwU0FySnBXbjJPOFg3TjJzYWxn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSWdPeTNSV1F6MFhrSk1xcWI3VG9ENkVCOGpUZ1VXT3k3MUhYYmU4OVhEb0ktRDFTczd4LUFNWFlKR3hqTUN3RHFzV2lja1dXcWtUUmdVRElxOGJzU2hGNENSbUNrNnBSSVZmcjhlYW9aVEJ3QnBkTDJFUDdYY2xXZzF0VWpuNlllakxnWTNOSVU1bUhfSVBwTkJ4NldKaUJMZGRaWF90MDRLRzdoMkZHZG1nUGxUaFdoMkFyT2RNdFRUZEZZVElmMzN5SEhXVFFRSUV5TtIB3AFBVV95cUxNbzU5SlBSWGk5SUR3ZnZSMERwbXREODUzOEsyUlRjRzVyZEVUZzloZHV6M1d5azdRUklhTUtBSWd1REd1eFljcS1RMnhLaFdMN1VQVV91RW1HS0lvaHlBWE5WNkdsS2wtTV9mODVqNy12dXFyX0VZVzJUUzZqdjlPVlQ0THN0blhMZHY1UnVORFBFWjQ4TUI0ZHRRRTJvdUNOeEh2NXJPVnVsRlBtOWdvU2g1TjlsQXFsMlNnMEdKVlRDUVRHcUNhaGVCaWV4RHdsN1VmY3QwMmR3XzNz?oc=5"
         }
       ]
     },
@@ -222,50 +390,26 @@
       ]
     },
     {
-      "id": "cab5b7419a6a",
-      "title": "Whole-Genome Sequencing-Based Characterisation of Clinically Relevant Mycobacterium abscessus Complex Isolates from India - Cureus",
-      "published": "2026-07-02T07:16:44+00:00",
-      "summary": "Whole-Genome Sequencing-Based Characterisation of Clinically Relevant Mycobacterium abscessus Complex Isolates from India&nbsp;&nbsp;Cureus",
+      "id": "e7bdef706abb",
+      "title": "Scientists develop flexible system for designing anti-cancer drugs - EdexLive",
+      "published": "2026-07-02T05:45:03+00:00",
+      "summary": "Scientists develop flexible system for designing anti-cancer drugs&nbsp;&nbsp;EdexLiveMolecular basis for depsipeptide HDAC inhibitor combinatorial biosynthesis&nbsp;&nbsp;NatureStudy Reveals How Bacteria Create Diverse Anti-Cancer Compounds&nbsp;&nbsp;Technology NetworksDocking Domains: The Key to Bacterial Drug Assembly (IMAGE)&nbsp;&nbsp;EurekAlert!Bacterial ‘Docking Domains’ May Open New Paths to Next-Generation HDAC Inhibitors&nbsp;&nbsp;Inside Precision Medicine",
       "sources": [
         {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNVU3NkxUSTE3T1liNk9SQXBNbHltZmVMQnUtSy00em8ydXJxZVJVWFlJcDZBX2IzclktTnNoMkRhOEtuelhFUmVoel9yU0diQ0cySTJrbTluVERaeVU2R09xT3padUtVeWxqR0p2R0M5ZkFndTdCbXNzVkhybi1qQk1fOVFOWUlNcUtwcEdIVVdtTkVDbmRCbVpFa3dRMjQ2cjZKb1pvcHV6ZHkwWlBSakhIbGxRRVM0TVQza0xFLWwxdUFqRUE3d2c4WktPRVR0aVBBdDZ1VG84V0o4UWNhX2ttUHV6aWlWRnJOWHJuZW1nZw?oc=5"
+          "name": "EdexLive",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjk4M2tyakpqRjdJY3c0SXlKbWQ3MlhiN1hCRnhHdXVwVmlQLTF0aXprSGlKVHdfUURLU2lKR0NiMHB2M0l3QnhDUTJpVnpEalBUVUZKTXpRTC1YVl80ZFptUlNyMHRyOUUxajFfTnM4bUw1c1FrMkF4aG9QckEta3FObm5fbEEtcWRqTUs2bFU1bmNRbmlkZWd2bzHSAaoBQVVfeXFMTUw4UXl3S0tNVjJISC1ZdUlXNDdSOEpfWE5WaHVCWU1XSUNfNTR4TV96bEJVRl9mX2F5NExFWXZNdUJUTFlWN3Atc0szOGh1TEZZYVJGVzBPa0VsVHdmWnk2OGk5YVdLZnh0UDVlY01hSWxlVHNFLVVCMnJVLXQxa1VVYjRhVHBWSVRxbnZkMTJESnh1UTY5bDQ4YXBFMS1qNUVla19aaXNVb0E?oc=5"
         }
       ]
     },
     {
-      "id": "709f20e9abd2",
-      "title": "Smoking, comorbidities and severe COVID-19—not vaccination—behind heart attacks in young Indians: ICMR study - The South First",
-      "published": "2026-07-02T07:05:55+00:00",
-      "summary": "Smoking, comorbidities and severe COVID-19—not vaccination—behind heart attacks in young Indians: ICMR study&nbsp;&nbsp;The South First",
+      "id": "1c8cf86c783f",
+      "title": "Community-based programs show greater promise for dementia prevention efforts - News-Medical",
+      "published": "2026-07-02T05:18:00+00:00",
+      "summary": "Community-based programs show greater promise for dementia prevention efforts&nbsp;&nbsp;News-MedicalCM Fadnavis orders for stay on new RTI as Anna Hazare calls for protest&nbsp;&nbsp;Mid-dayDoctorSpeak: Simple ways to defy dementia&nbsp;&nbsp;The TribuneThe simple changes that can prevent more than half of dementia cases&nbsp;&nbsp;The IndependentWhy People in Their 40s and 50s Are Getting Serious About Cognitive Health&nbsp;&nbsp;San Francisco Examiner",
       "sources": [
         {
-          "name": "The South First",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQXlVTUVzVndWdUlSWGw0cGFnWmdubnBFZmlfT2FKazd2TEVZQVVMTlg4Q1RfTUd3WUxfaW5DZnp1bFNYQUF5TWJ5bHJPaEJIRnFuTXAyNEw1RWJfclpCaDR2WElINjItdzRORjZLVjRLMlFDaG0xQXE1Tml5bjlnc29xS1JOYXc4UDA3Q3dXRW9xdi1OWG8xdEtiY1dFdzFkeDZEYlhtVWVBQ2tjV3RBTkRKZWFvMUd5WHdxMlNucl9nWVdFbkg2Z1FEelJJaHNKX0dNUGNrRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9b3fd27cd9d1",
-      "title": "Top Gastroenterologist Warns About The Health Risks Of Sleeping In A Highly Chilled Room After Eating - NDTV",
-      "published": "2026-07-02T06:30:29+00:00",
-      "summary": "Top Gastroenterologist Warns About The Health Risks Of Sleeping In A Highly Chilled Room After Eating&nbsp;&nbsp;NDTV",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTTI2QUdDZ21UbGsyODVnODA0VG9ISVFZQTlDTzkxWHRHaG5oMFRvLVNyYk81dnN5bHFJZ2l2dS14VTd0RUZQZ1JsSVUzdWdpSlF0cmQ0c1U2V1RYQno0TTM5ZlJMM0sta1pvODJlVzdPSm91dTlIYmV5TWRCbmxFS3pVeWVUMjNoQU42aEE4SWdHV2xaTW55UjdQQTFzSUo0aWR5THNWVUVsMHo3dWVReE96Y3oyczFBdFNRNEJ5R29IZnJScDBrWDZKT2dVWkl4YmdqQjhkaUpuUlQ5bEVNZGkzeGRtMzVN0gHwAUFVX3lxTE94UVRCM3o2YkVaejNCX1lJQktoLUZUd3YwbXpweXQ1a2dtSk1VXzRSek5jRkp3V3dXejdlQ2hna0hPY3NPOU9LTVdGdi10N25HREpWS1psM0syX2pCNUdtRU9qdTFGVUEwWk1tZjJvc2hvVXVzckxyXzNOTXZSVjM3cGJmOHhXMmQzOWM0LUNXbDkyT2dKYjdFdzR3YmJCUExuNE5TNkhFZEpRSGVBRVktazFhT1V2LVE3d2thSHVZYlltMEpJVDAwZEo2V1NoM29YWXp4YzM2M0JtcldlRUNtOTMzT0hGUnVzYlpEUEM1MA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8270f0becd98",
-      "title": "On the front line of Congo’s Ebola outbreak - Al Jazeera",
-      "published": "2026-07-02T06:22:37+00:00",
-      "summary": "On the front line of Congo’s Ebola outbreak&nbsp;&nbsp;Al JazeeraEbola Outbreak, DRC and Region, Situation Report #9, July 1, 2026&nbsp;&nbsp;ReliefWebDeath toll from Ebola outbreak in DRC rises above 400 as cases surge: health officials&nbsp;&nbsp;TRT WorldCongo traces possible Ebola spread to two new provinces, sources say&nbsp;&nbsp;ET HealthWorldThe Republic of the Congo strengthens Ebola preparedness at points of entry&nbsp;&nbsp;WHO | Regional Office for Africa",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZk9uZXpSWUthbFctbHZBZXM4c2lkRXk1TTk3LTN1TTlZb2dzSjJ1dm1DUDVqWFJ4OXB5eDA5Qmk4SG05cUY0THRQMmFWbEs2TWpJbHVMQlp4cUxKUXc2a0NteUZXUGw0TGFqVm1XWndrdkhZemE0ZnBVR2t2TV9vZXRxc09uR1phUVVNb2Z2cWXSAZYBQVVfeXFMTjhFMjB2QnhGX3hJOGtoQW9LWkNWWG5tMU5RU041TXE0X3BwMHhrUjhsVmtHUWZBRTJKNlNYVjdhT3F2am1hZUVKWXlBNlByX2kwbTlRbUR2ZHBpLU1oc3Z6dkdiY1dxWEhsOWgzUzVrNFZhWVJJbkRwU2xoeUFPVzRvdHBsS1BXUzh2QzhaaWU0Yk5LMDFB?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcktPdG8wNGhaTUN6WEh5T0h6VlhxVWJVM0ZJNXpERE1Ob2lhcWdjTDVIYXN3TjRNbk5NZ3VUbTJuNDAybjdjd3JObTVPcW1XZy1sRmpjY1JiSkxaTG5KbmRlMm5ZbFhTcWFVdV9KRl9rZHExSk5sSHdDZ0JMVS1jVkFaQUE4em5mTjBhLUUzWUpQamNuOUNKN2FqU0tjcGhES0JoVV91cWYtYlphSWZEcVU0U29MQ1NrUmxNZzhNTlR6MW8?oc=5"
         }
       ]
     },
@@ -273,7 +417,7 @@
       "id": "9e0a2a0715bc",
       "title": "Decades of research reveal surprising secrets about hantavirus evolution - News-Medical",
       "published": "2026-07-02T05:04:00+00:00",
-      "summary": "Decades of research reveal surprising secrets about hantavirus evolution&nbsp;&nbsp;News-MedicalHantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness&nbsp;&nbsp;National Emerging Special Pathogens Training & Education CenterHantavirus and Ebola virus disease: 10 things to know&nbsp;&nbsp;Hospital NewsPennsylvania doctors share why you should take hantavirus seriously&nbsp;&nbsp;Chambersburg Public OpinionThe not-so-new World Virus&nbsp;&nbsp;Folio",
+      "summary": "Decades of research reveal surprising secrets about hantavirus evolution&nbsp;&nbsp;News-MedicalPennsylvania doctors share why you should take hantavirus seriously&nbsp;&nbsp;Chambersburg Public OpinionA simple way to prevent deadly disease outbreaks (restore biodiversity!)&nbsp;&nbsp;Maastricht UniversityThe not-so-new World Virus&nbsp;&nbsp;Folio WeeklyHantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness&nbsp;&nbsp;National Emerging Special Pat",
       "sources": [
         {
           "name": "News-Medical",
@@ -282,34 +426,10 @@
       ]
     },
     {
-      "id": "fdf16c66b068",
-      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face - BBC",
-      "published": "2026-07-02T03:07:39+00:00",
-      "summary": "Canadian boy, 11, dies of rabies after waking to bat on his face&nbsp;&nbsp;BBCCanadian boy, 11, died from rabies after waking up with bat on his mouth&nbsp;&nbsp;CNNBat on his face, no visible bite: 11-year-old Canadian boy dies of rabies weeks later&nbsp;&nbsp;The Times of IndiaFatal rabies case underscores need for immediate preventive treatment&nbsp;&nbsp;News-Medical11-Year-Old Canadian Boy Dies Of Rabies After Waking Up With Bat On His Face&nbsp;&nbsp;NDTV",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5raHRnTDgwTDJmM3BuaS03WFczZTQxdzVDTkkzX1dNWlRkTmxlUEtqd3VybFh3WFlqMGVySlRCNnFiczktZnc1U2dHVXp4MFBLRmkzR3A1alozdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc728eb0e638",
-      "title": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities - Cureus",
-      "published": "2026-07-02T02:46:44+00:00",
-      "summary": "Closing Critical Gaps in the 2026 Bundibugyo Ebola Response: Five Actionable Priorities&nbsp;&nbsp;CureusWhat Ebola and Marburg are teaching us about the next pandemic&nbsp;&nbsp;STATWebinar on zoonotic diseases and outbreak preparedness to be held on June 27&nbsp;&nbsp;The HinduEbola response highlights value of African science&nbsp;&nbsp;SciDev.NetThe fight against Ebola&nbsp;&nbsp;Harvard T.H. Chan School of Public Health",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM1dFU18wTjhLYzJoWG1DemsyX2Z5bndYZDdINF9oaGREV0cxemtrdFJIcmQxZDZTdVNaM0kwRHY4MVF5amx0U0h6c0lDNDBDY0xoUXZ6V2xMOEp3R2lmaDN4d1VWLXNpNGJWQjRHR0xfTmdJMDQ2T0xFNTBsREdJbGlIRmpEQkE1MHBzVmlzWllpOXloZFhlcHYzYTh5WGh1Yi1PMER6SVgtQ01CbHZjN0RuU2RDdFFZN2hXZHY2Ukk3V1k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8541b4e1ec72",
       "title": "Study links obesity to distinct molecular process driving invasive breast cancer - ET HealthWorld",
       "published": "2026-07-02T01:36:57+00:00",
-      "summary": "Study links obesity to distinct molecular process driving invasive breast cancer&nbsp;&nbsp;ET HealthWorldResearchers identify reasons obesity causes cancer&nbsp;&nbsp;ConsumerAffairsObesity drives distinct molecular pathway toward invasive breast cancer&nbsp;&nbsp;News-MedicalHigher Body Mass Index (BMI) linked to 19 types of cancer, finds study&nbsp;&nbsp;Down To EarthObesity Linked to 19 Cancers: Key Shifts for India's Healthcare Demand&nbsp;&nbsp;Whalesbook",
+      "summary": "Study links obesity to distinct molecular process driving invasive breast cancer&nbsp;&nbsp;ET HealthWorldResearchers identify reasons obesity causes cancer&nbsp;&nbsp;ConsumerAffairsSpatially Resolved Obesity-Driven Molecular Changes in Early Breast Cancer (IMAGE)&nbsp;&nbsp;EurekAlert!Higher Body Mass Index (BMI) linked to 19 types of cancer, finds study&nbsp;&nbsp;Down To EarthObesity Linked to 19 Cancers: Key Shifts for India's Healthcare Demand&nbsp;&nbsp;Whalesbook",
       "sources": [
         {
           "name": "ET HealthWorld",
@@ -321,7 +441,7 @@
       "id": "68a29d4b1dae",
       "title": "Hadean heat: Early Earth was kept hot by asteroid impacts - DT Next",
       "published": "2026-07-02T01:30:00+00:00",
-      "summary": "Hadean heat: Early Earth was kept hot by asteroid impacts&nbsp;&nbsp;DT NextAsteroids Shaped Earth's Early Landscape: Study Reveals How Bombardment Affected Crust Formation&nbsp;&nbsp;The Times of IndiaMeteorites and microbes&nbsp;&nbsp;the-messenger.comThe Secret Behind Earth's Fiery Beginning? Giant Asteroid Impacts&nbsp;&nbsp;The Morning VoiceHow asteroids may have sparked life on Earth&nbsp;&nbsp;ScienceDaily",
+      "summary": "Hadean heat: Early Earth was kept hot by asteroid impacts&nbsp;&nbsp;DT NextAsteroids Shaped Earth's Early Landscape: Study Reveals How Bombardment Affected Crust Formation&nbsp;&nbsp;The Times of IndiaMeteorites and microbes&nbsp;&nbsp;the-messenger.comAsteroid Assault Made Ancient Earth Too Hot And Chaotic For Continents To Form&nbsp;&nbsp;Astrobiology WebHow asteroids may have sparked life on Earth&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
           "name": "DT Next",
@@ -345,7 +465,7 @@
       "id": "bb2d8ca03ad3",
       "title": "Antibiotics, antimicrobial resistance and the Revenge of the Microbes - Outbreak News Today",
       "published": "2026-07-01T23:27:44+00:00",
-      "summary": "Antibiotics, antimicrobial resistance and the Revenge of the Microbes&nbsp;&nbsp;Outbreak News TodayOptimizing antibodies for antimicrobial resistance&nbsp;&nbsp;IAVIAntibiotic resistance: The next silent pandemic?&nbsp;&nbsp;The Malta IndependentWhy common infections are becoming harder to treat: Doctor explains the antibiotic resistance crisis&nbsp;&nbsp;India TV NewsHealth chiefs issue urgent Monday alert as deadly infection reaches 400 new cases a week&nbsp;&nbsp;MSN",
+      "summary": "Antibiotics, antimicrobial resistance and the Revenge of the Microbes&nbsp;&nbsp;Outbreak News TodayOptimizing antibodies for antimicrobial resistance&nbsp;&nbsp;IAVIExperts claim prevention as the most effective weapon against antibiotic resistance&nbsp;&nbsp;DemócrataAntibiotic resistance: The next silent pandemic?&nbsp;&nbsp;The Malta IndependentHealth chiefs issue urgent Monday alert as deadly infection reaches 400 new cases a week&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "Outbreak News Today",
@@ -366,14 +486,14 @@
       ]
     },
     {
-      "id": "6c4763b7ed6e",
-      "title": "Company Plans to Drop 600,000 Bacteria-Infected Mosquitoes into DC This Summer - Gizmodo",
-      "published": "2026-07-01T20:25:29+00:00",
-      "summary": "Company Plans to Drop 600,000 Bacteria-Infected Mosquitoes into DC This Summer&nbsp;&nbsp;GizmodoGTA VI left the box?, Google's mosquito project, and more...&nbsp;&nbsp;FinshotsSilver Spring company to release 600,000 mosquitoes for pest control&nbsp;&nbsp;Baltimore SunGoogle's Biotechnology Project Seeks EPA Approval to Release 64 Million Bacteria-Infected Male Mosquitoes to Curb Disease Transmission&nbsp;&nbsp;CPG Click Oil and GasSilver Spring firm wants to take the sting out of summer&nbsp;&",
+      "id": "1555d6f1d8ef",
+      "title": "First 3D Structure of Malaria’s “Moving Junction” Solves Infection Mystery - Genetic Engineering and Biotechnology News",
+      "published": "2026-07-01T21:30:41+00:00",
+      "summary": "First 3D Structure of Malaria’s “Moving Junction” Solves Infection Mystery&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsScientists Solve Decades-old Mystery of How Malaria Parasites Invade Human Cells&nbsp;&nbsp;Columbia University Irving Medical CenterHow does malaria invade human cells? Scientists finally know&nbsp;&nbsp;Tech Explorist",
       "sources": [
         {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlVCZTFVbGF5WkJkVGtYc0ZTQ0pIeW1oc2JHd2szRkdlQW9ZamFVR3pRWmFrUHYzNThRWjlLcnhneUhRRVZjMnhya1pRdVZ0UG1PWC1qdzhHZEtWVWdhRHo3OXI2N21SWmNJTkxsQzUyRkZ1djFBcGNLVVcwYU1jR2YtRUZoUkpUMm5wZlpkUE9hUUJRLUV2VS1ZV2I3X19wVDRxLUVwOXQxYVFB?oc=5"
+          "name": "Genetic Engineering and Biotechnology News",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2tjRGlBRzRSd052N1VEbkFfSlZITUxRcExDZFdVTy1jZ3BTQVktVDFVam9RLVJJanRmMm91N1J5YWgzd2xTckVNVkVramZhaXhQdlVucUJWR05reXJWdHdITUdZdUwtY3prbXJhQlViNXVFS2l5eGhqeFlNSzAzYmVtVWM2dC1mR1BGNVgxMjZKMTBxekR1NUszR3pyQTBkWUdqbUM0OVRXMzk1V3BqeVUwZzdSLVpza2RXM1hiQTlyVVdw?oc=5"
         }
       ]
     },
@@ -393,7 +513,7 @@
       "id": "06eb877e02e8",
       "title": "The link between hot weather and kidney stones - The Washington Post",
       "published": "2026-07-01T20:00:00+00:00",
-      "summary": "The link between hot weather and kidney stones&nbsp;&nbsp;The Washington PostSee more headlines and perspectives on Google News",
+      "summary": "The link between hot weather and kidney stones&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
           "name": "The Washington Post",
@@ -405,7 +525,7 @@
       "id": "7ae35872fe2e",
       "title": "Glucagon-Like Peptide-1 Receptor Agonists and Reproductive Health: A Narrative Review for Obstetrician-Gynecologists - Cureus",
       "published": "2026-07-01T19:31:44+00:00",
-      "summary": "Glucagon-Like Peptide-1 Receptor Agonists and Reproductive Health: A Narrative Review for Obstetrician-Gynecologists&nbsp;&nbsp;CureusPrepregnancy GLP-1 exposure and potential gestational weight gain associations with Nishita Pondugula, MD, MS&nbsp;&nbsp;Contemporary OB/GYNThis Popular Weight-Loss Medication May Boost Fertility, Too&nbsp;&nbsp;Yahoo Health",
+      "summary": "Glucagon-Like Peptide-1 Receptor Agonists and Reproductive Health: A Narrative Review for Obstetrician-Gynecologists&nbsp;&nbsp;CureusSee more headlines and perspectives on Google News",
       "sources": [
         {
           "name": "Cureus",
@@ -426,14 +546,14 @@
       ]
     },
     {
-      "id": "200f404c4221",
-      "title": "New bacterial enzyme blueprint could accelerate cancer treatment development - News-Medical",
-      "published": "2026-07-01T16:26:00+00:00",
-      "summary": "New bacterial enzyme blueprint could accelerate cancer treatment development&nbsp;&nbsp;News-MedicalMolecular basis for depsipeptide HDAC inhibitor combinatorial biosynthesis&nbsp;&nbsp;NatureDocking Domains: The Key to Bacterial Drug Assembly (IMAGE)&nbsp;&nbsp;EurekAlert!Bacteria's 'mix-and-match' code could create new cancer-fighting drugs&nbsp;&nbsp;Medical XpressBacterial ‘Docking Domains’ May Open New Paths to Next-Generation HDAC Inhibitors&nbsp;&nbsp;Inside Precision Medicine",
+      "id": "89784c996b53",
+      "title": "Mammographic AI Adds Predictive Power to Breast Cancer Risk Models - Inside Precision Medicine",
+      "published": "2026-07-01T17:07:21+00:00",
+      "summary": "Mammographic AI Adds Predictive Power to Breast Cancer Risk Models&nbsp;&nbsp;Inside Precision Medicine40 An AI Digital Twin Compares Favorably to Radiologists for Landmark Identification and Measurement in Early-Stage Breast Cancer: A Retrospective, Multi-Institution Clinical Study&nbsp;&nbsp;CancerNetworkEnhancing breast cancer detection with AI for early diagnosis and recurrence prediction [IMAGE]&nbsp;&nbsp;EurekAlert!Research Supports Hologic’s AI-Powered Mammography Tech for Detecting Chal",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNklfTmlySFY0NXZhay1ra1M4eGxOcVVHMzBNSlRMQnF1M3NTOEZvc19zLXU0SEZacHFmeGwwVktPNXhoY05rWUtYakU0SWFOdlVGVEJiTFBadjlqTGlGZlpXc0pBSjA4Z0RPQW9sMklETFZlTzc4alpPOGRDbmJFRTJIMkxzMkk3TE1Xdm5ncmdYdS1TbDVjMFQwN3FxdzFSU0FlWXIwd2VhWkhSZU5MbDUwaFowUGJ5WnNwa2pveWpvZw?oc=5"
+          "name": "Inside Precision Medicine",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU1VTaWlJRjEySlVrM0ExYV9vSlR4X0FkanJFZThWZElBTTJtTnRzTldnLTg5em5zNGptM3MzOVlLaGZmYTgzS3NqXzN0ZjhyMjktNS0zclpCX21BLVFleHZsSzNZRDJyMGtNel8wc2gzdFZ1S1V1X0pNeEV1OGJwSVZ5MS1NQkpjTDd5cHkzakU2S09LazdXcFE3ZUVHdTJ0bVl5YUhVRGFwOVk3SC1JMEpuSEJWNDBpMUFJZ2NDTWM?oc=5"
         }
       ]
     },
@@ -465,23 +585,11 @@
       "id": "c22936ef0ea1",
       "title": "NICE issues first UK guidance for PMOS treatment - The Pharmaceutical Journal",
       "published": "2026-07-01T15:34:27+00:00",
-      "summary": "NICE issues first UK guidance for PMOS treatment&nbsp;&nbsp;The Pharmaceutical JournalWomen with PMOS should have yearly NHS checks, says health watchdog&nbsp;&nbsp;BBCThe Rise of PCOS in Indian Women: What’s Really Causing It? Insights by Shah Prachi&nbsp;&nbsp;EIN NewsNHS to check women with irregular periods for chronic hormonal condition&nbsp;&nbsp;The TelegraphNICE recommends annual reviews for patients with PMOS&nbsp;&nbsp;Nursing in Practice",
+      "summary": "NICE issues first UK guidance for PMOS treatment&nbsp;&nbsp;The Pharmaceutical JournalWomen with PMOS should have yearly NHS checks, says health watchdog&nbsp;&nbsp;BBCPCOS Has a New Name — Here Is Why That Actually Matters for Millions of Women's Health&nbsp;&nbsp;Medical DailyNHS to check women with irregular periods for chronic hormonal condition&nbsp;&nbsp;The TelegraphNICE recommends annual reviews for patients with PMOS&nbsp;&nbsp;Nursing in Practice",
       "sources": [
         {
           "name": "The Pharmaceutical Journal",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDk3ZGo4ZzBZOUpOWUY5SlBid1dqbllfSzNGZDVQU1VNeUVLdVF1cUNIcHNuOFVNcngtNlBIMFZKOU5TTVJWeUw0UUlTZWJHRXZINm1xakZrZU5HdE5XQzVJaS1HQVhvY3NGenBHRG5TSG1zeGhDaHcyUFR4dUY0NHJqcVktY3NtTjcwLS1nVDJDd1RBQm1mei1MRXU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3535771b5acf",
-      "title": "New study reveals hidden risk of going sugar-free - The Independent",
-      "published": "2026-07-01T14:30:00+00:00",
-      "summary": "New study reveals hidden risk of going sugar-free&nbsp;&nbsp;The IndependentSugar is not uniquely bad for you. But it’s undermining good habits&nbsp;&nbsp;NZ HeraldSugar substitutes may not be much better than the real thing&nbsp;&nbsp;Deseret NewsThe sugar-free trap: Are artificial sweeteners safer&nbsp;&nbsp;THIP MediaCan sugar substitutes increase the risk of diabetes?&nbsp;&nbsp;ConsumerAffairs",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTW9ZRkVzQjNnMk5iNjdEMUVQcGJlWWFNQjIyaS1kWVhueGVMOV9tTFRWUWhaZGV1cUxFQnlTNzJkOTYzc1BDSmVtVTZzTEJhMFZwX3hyWXBIZEJ0UFBzVnNGdE5ncEhuMGRsaTVVZ2N1SzRYMy1CUDFoaU5DMS1oSVdBeE1kZWVZOVRFd1dsS3hLTk5McVNPb0xJWl9yeVNKOXhRc20xTlRFdFhtT3Mwa1hR?oc=5"
         }
       ]
     },
@@ -498,26 +606,14 @@
       ]
     },
     {
-      "id": "ec0c5c1b0646",
-      "title": "Mizoram Eyes First Place After Ranking Third In HPV Vaccination, Says Minister Lalrinpuii - Northeast Today",
-      "published": "2026-07-01T13:26:00+00:00",
-      "summary": "Mizoram Eyes First Place After Ranking Third In HPV Vaccination, Says Minister Lalrinpuii&nbsp;&nbsp;Northeast TodayMizoram ranks third in HPV vaccination drive, targets Indias top spot, says Health Minister&nbsp;&nbsp;NE NOWMizoram Targets Top Spot in National HPV Vaccination Drive&nbsp;&nbsp;newire.inMizoram Claims Third Spot in National HPV Immunisation Drive&nbsp;&nbsp;The Sentinel - of this Land, for its PeopleMizoram ranks third nationally in HPV vaccination drive, eyes top spot&nbsp;&nbsp",
+      "id": "0274f6568395",
+      "title": "Dr Google Vs Your Doctor: Why Reliable Medical Advice Matters - BW Healthcare",
+      "published": "2026-07-01T12:58:24+00:00",
+      "summary": "Dr Google Vs Your Doctor: Why Reliable Medical Advice Matters&nbsp;&nbsp;BW HealthcareReused prescriptions, self-medication, playing doctor: This Doctor's Day, doctors want you to stop doing these things, for your heart and your lungs&nbsp;&nbsp;The Times of IndiaDoctors' Day 2026: Debunking five common myths harming your health&nbsp;&nbsp;theweek.inDoctor's Day 2026: We Asked Doctors What They Wish You'd Stop Googling&nbsp;&nbsp;BoldskyHeading straight to a specialist may not always help patien",
       "sources": [
         {
-          "name": "Northeast Today",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYVpWdGVfcnhINldFS2VtUVB2c2p2eHd2cVpaX0psWWlHVktVVFlHdHVfSzd2VXcwNjdmY3NxaG5xMGVDQ1psbzkzeGtQN0tsVzFzcnp2SEpGRHdyZGtNRUtmeTJ0NzVOdlZSNWYwYjkyTkFyYWF3RWV5LXM2RVhWZ05kWDhfdzFsVDM2Uy1TT2VlSi02eTdHVG01RWw3RkpRc0MzNzFqWEJBbkVUc2Q4bm5xbVdWQTdVTi16UmhvM0tzcHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "563b09c4f470",
-      "title": "mRNA vaccines protect against severe infectious diseases, review confirms - ET HealthWorld",
-      "published": "2026-07-01T10:13:45+00:00",
-      "summary": "mRNA vaccines protect against severe infectious diseases, review confirms&nbsp;&nbsp;ET HealthWorldmRNA Vaccines Proven Safe And Highly Effective Against Severe Infectious Diseases, Finds Lancet Review&nbsp;&nbsp;NDTVBillions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise&nbsp;&nbsp;UBC NewsWhat came after Covid could reshape medicine&nbsp;&nbsp;Courthouse NewsNew Study of Billions of mRNA Vaccine Shots Confirms Their Safety and Efficacy&nbsp;&nbsp;R",
-      "sources": [
-        {
-          "name": "ET HealthWorld",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaVJXV2FDS3NXV2hvSThBSnh4WUYxNU9YMVZkTjhqN2lfel9OWVZBMnpjVzJ1RGFLdlJzZHhHcVBJajJsQVBNNC1OMGowT2VCa0VNSWlfdXpNamQwVVg4czVHcjQtWjNMRktUVDhOV0xVLXpXaUd2dFlOOTJXNy02eTlnOU9jSVExMVF3X3c2Zmszb0U5c0I4aWpERk52Y0VtZHloNmduWlpkSnFVWGJLQ3NzUHZlRkJ4dm44akFiNmcycExsSi1Wdk8xWWh2QWhMMWs2bkNmTdIB3AFBVV95cUxPX0tOaTRRNzBlQ3RIaEJiTGFtaXNHZ0IyMEpOM01lRWc1VjloZVV6M1E4UHBsOGd5aTRSVU1XUlNSWFFGOVJENDhseDZNZUQ5UFZjRGNhZHdBdTl1b3kxcnBiNnRmNHlDNzFtc1MyWmo5M2RiamRsdXVNRG5XM1dBWmtEZUNsRndfYWM3OU43cXVyZW15VnkwVC1vd1dlZnl2aDhLcnBSUUNOQWtxdzAwZ3Rvb2c4emVSUk0ybVQ2cDZjOTV6T2ZRMVc3WnpkbUNNTHh0LWoxeHZnYzBp?oc=5"
+          "name": "BW Healthcare",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeFg5YU44MlJ4ZTJiN2pqSThkc3diMjZLVEczNGVUa2otQWlqSUNDRFFjaDFuT1E3NWVJV2pVVW1mZ2x2RFQta3VnMkVFcW4xeDdTRXpSWUJvcDhGMmF2QWV5VlMtSUtDUEh6X2xaWUxxOC0xRnBUS3JKUGZRQ3VZRlp5STVsaXIxaFFock9JNm5VbjV1SGY3OWRmM3M4dWtUdWI0QjVuNHdCNllBSnc?oc=5"
         }
       ]
     },
@@ -570,38 +666,14 @@
       ]
     },
     {
-      "id": "209f84f313f7",
-      "title": "The ‘Heartsavers’: How strong chest and back muscles (and THESE workouts) may lower heart attack risk - The Times of India",
-      "published": "2026-07-01T07:27:00+00:00",
-      "summary": "The ‘Heartsavers’: How strong chest and back muscles (and THESE workouts) may lower heart attack risk&nbsp;&nbsp;The Times of IndiaPeople with strong chest and back less likely to have a heart attack, analysis suggests&nbsp;&nbsp;The GuardianLow muscle density on coronary CT linked to heart risk&nbsp;&nbsp;AuntMinnieExercises to reduce heart attack risk, according to a personal trainer&nbsp;&nbsp;The IndependentNew Study: These 3 Muscle Groups Could Reveal Your Heart Attack Risk&nbsp;&nbsp;The H",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQel9nSVJEalgyelB1QVNKTmxIckN2OHFmTGYtN1pLdHZubTlNZE45b2ZaNG1iSHVSczVHalp6MkpfOG85Zl91d193UnhkNlp6WER3dEZYdkpuN185T1ZoZTIwTkdHRTNkeFIzTXNORGw4NWs5OUVKcHFnZm8yQldfcHVnUjRraWRLYTRkeEhMWTlIMEMzaVV0RmR2VmFRVHVyTTRaclBBR1Nxa2otdUJseThpamhWSTVhcm0xYWd6akV3UEJ6Z2dEVGd5LTV2RXh3ZlhFQXZLRXRrRTRvZGRaYUxtNGNHUDI5X2lldU91SW5OTDhPeVQ2Q3BUOVZId2Q2aWV4Z9IBigJBVV95cUxPWUJTV0JMbFJ6dEFta3JZWHhWTEd3R1VYU0NFbDhERi1nVWgzdmxWWGYxazJLTnZTS3k0X3JERkdLWVhzMmprbWxJSG42WWt4SXpsN0R3U0FTR2JzQzlodEFCdkY4ODExRmFLYVdCV1gteDViVEZzZFpIMGlHLXRFRkxvMFpxQW9QYmw2MUJITjV2YVBxZW04ODExblpnSmkyNlhHVEFRUUNzaU85aVpaQUR0WW1FLS1ZTGZOSXhrUXJNT3NEZVZFYVlOTmdjUzBLRGJDckp3OXlSTlV0UjdzZkRwLVNTX1pRampNM0VZZVYwLWUtakN0aDJsb3p2dFYtOXNQUmVmSjl1Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "72704f0da000",
       "title": "Imagine fixing a robot while flying at 28,000 kmph. NASA astronauts just did it - Moneycontrol.com",
       "published": "2026-07-01T07:22:29+00:00",
-      "summary": "Imagine fixing a robot while flying at 28,000 kmph. NASA astronauts just did it&nbsp;&nbsp;Moneycontrol.comCrew Splits Day Between Relaxing, Spacesuit Work, and Cardiac Research&nbsp;&nbsp;NASA (.gov)2 astronauts repairing Space Station's robotic arm flying at 28,000 kmph | The spacewalk began at 6:05 pm IST | Inshorts&nbsp;&nbsp;InshortsNetflix to stream next NASA spacewalk outside ISS. Watch live&nbsp;&nbsp;USA TodayNasa astronauts begin spacewalk to repair robotic arm&nbsp;&nbsp;AOL.com",
+      "summary": "Imagine fixing a robot while flying at 28,000 kmph. NASA astronauts just did it&nbsp;&nbsp;Moneycontrol.comCrew Splits Day Between Relaxing, Spacesuit Work, and Cardiac Research&nbsp;&nbsp;NASA (.gov)2 astronauts repairing Space Station's robotic arm flying at 28,000 kmph | The spacewalk began at 6:05 pm IST | Inshorts&nbsp;&nbsp;InshortsNASA astronauts set for 2nd spacewalk of 2026. How to watch live&nbsp;&nbsp;Florida TodayNasa astronauts begin spacewalk to repair robotic arm&nbsp;&nbsp;AOL.co",
       "sources": [
         {
           "name": "Moneycontrol.com",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbmhZX2o1TzZWWnhtUU1LT1FQdG9mOFVPYmZrZnpCTWRfVWpNM3ZLT1ZxMFpQc3RYYjJ0eGNlRzVIWVIzelhpZGhJRE1VbGVyOTU4S2FvbGZzMnJ6WnNDQkY0c0YzcjYtZjlJWmFlVDBnV3lVRzV0MHBhaEk5TUVtWGZBbjhVeHFZMV9xaWx0T0g4QjJPZkttdW4yYUVSUGlxZ0oxZGZtcnAteGxhVGRDT1hVY3FrWUt3LWRCcjU0N0ctbXVvZGptVGh1S0Npd9IB0wFBVV95cUxOQkdzM0hqd1JveDVlLVF3TnBsa3g1R292NG1YM1V3V3pldXlta0hrUHl1X05vM0hyUU5QTFRUb2NMS3d3T1Jqa0VFZ0xoMnctNmFqWWdtYWw0Wm4wbFRCUEM3RElUeDF5NGsyOXFBVURpaExFR1FzMkllNDRxTWg5ejl2TzBuelF0ZXpremhwUnBFTEtXMEN5Ujh0ak53R1h1eS1HUFhVQkJRRXBNall2UXhjVzRKWnJaRnNuY0Y5Wmx0T255d2dSRHN5SGJ0TWE3ZVVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "530e5cbd3c03",
-      "title": "Global Mitochondrial Health Summit 2026 positions mitochondrial health as the foundation of healthspan - Nutraceutical Business Review",
-      "published": "2026-07-01T07:13:50+00:00",
-      "summary": "Global Mitochondrial Health Summit 2026 positions mitochondrial health as the foundation of healthspan&nbsp;&nbsp;Nutraceutical Business ReviewMitochondrial quality control in human ageing and longevity&nbsp;&nbsp;NatureThe Cells In Your Body Fade With Age, But There May Be a Way to Reverse It&nbsp;&nbsp;ScienceAlertA damaged mitochondrion is worse than useless — it leaks and drags down the entire cell around it, like an engine slowly clogging on its own exhaust, until a recycling crew dismantle",
-      "sources": [
-        {
-          "name": "Nutraceutical Business Review",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTBGNkFEVVNzOHJqeHhoVm55bDlxMjAtQWJwTmRDWnExbF9QVGpRVlpiSFpBdEFHS09aWGplOEJlQ2FzNE1weVJFRVo1bGZoYzA4bjRMRUxPMFRkT1NOT0dEUTdZeVZpQXZhcXFwd2k4X2VERTNmeFFaMU1KM2taQjdnRmxTR3VRSzhTM2I2ZWViUzIzYk9ocnl5QU9GM0Y3UnMxNGtveE1OdGpDSnRN?oc=5"
         }
       ]
     },
@@ -630,22 +702,10 @@
       ]
     },
     {
-      "id": "9eb54d211d25",
-      "title": "New laboratory tool to find better treatments for resistant melanomas - healthcare-in-europe.com",
-      "published": "2026-07-01T06:05:34+00:00",
-      "summary": "New laboratory tool to find better treatments for resistant melanomas&nbsp;&nbsp;healthcare-in-europe.com",
-      "sources": [
-        {
-          "name": "healthcare-in-europe.com",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjBNX1BBS3RPTlUxbGhvRWJPbllrR184Mk1VeXNEdEd6alFwcVNWRmlOMVdBSndJZXRMQV9Ja0NJTmd3TlF6YU1fTlN6a3JpVHpWZ24zTTdtNXNEc2RRU19KYVFzaElha29jSFFNT1NzYW9EaWU5eEZLWmhMRDFLTA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cfde3e0d17a9",
       "title": "This Antarctic Waterfall Looks Like It's Bleeding. Scientists Finally Solve The Mystery - NDTV",
       "published": "2026-07-01T06:05:13+00:00",
-      "summary": "This Antarctic Waterfall Looks Like It's Bleeding. Scientists Finally Solve The Mystery&nbsp;&nbsp;NDTVBlood Falls: The mysterious Antarctic waterfall that looks like it’s pouring blood&nbsp;&nbsp;The Times of IndiaBacteria Surviving for a Million Years Without Sunlight Discovered in Antarctica&nbsp;&nbsp;inkorr.comThe Mystery of the Bloody Waterfall: Scientists Have Finally Explained the Nature of the Phenomenon&nbsp;&nbsp;UA.NEWSMystery over Antarctica’s ‘waterfall of BLOOD’ solved after more ",
+      "summary": "This Antarctic Waterfall Looks Like It's Bleeding. Scientists Finally Solve The Mystery&nbsp;&nbsp;NDTV\"Bloody Waterfall\" in Antarctica&nbsp;&nbsp;Radar.amBlood Falls: The mysterious Antarctic waterfall that looks like it’s pouring blood&nbsp;&nbsp;The Times of IndiaBacteria Surviving for a Million Years Without Sunlight Discovered in Antarctica&nbsp;&nbsp;inkorr.comThe Mystery of the Bloody Waterfall: Scientists Have Finally Explained the Nature of the Phenomenon&nbsp;&nbsp;UA.NEWS",
       "sources": [
         {
           "name": "NDTV",
@@ -678,6 +738,18 @@
       ]
     },
     {
+      "id": "3580604b51b4",
+      "title": "From malnutrition to metabolic health | Hindustan Times - Hindustan Times",
+      "published": "2026-07-01T04:38:41+00:00",
+      "summary": "From malnutrition to metabolic health | Hindustan Times&nbsp;&nbsp;Hindustan TimesWhat the NFHS-6 tells us about how women and children are doing in India&nbsp;&nbsp;The HinduCensus, GDP & NFHS: Are India’s Official Figures Being Manipulated?&nbsp;&nbsp;TheWire.inAddressing Adolescent Malnutrition in India, Current Status, Causes&nbsp;&nbsp;Vajiram & RaviWhy Every Third Indian Child Is Still Underweight&nbsp;&nbsp;Indiaspend",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2xQZ3NrLXhQU1JTdU9YMzZWUkZXOXV1UnpVWWJnNzV6UDZLMnlzZWVWWU1GNUdsQ2V6UVFCR0RFcGtGbzZKQWoxcnpfWmk1UzNWclVNdVc0Y1R4VlE3cGxzOTJTdXlGUUZnTlNiaGVYTk8tTFROUjlSN1NIdS1MUHBKLUdNNTc2NEMtYUYxWVNuWFIwb3hteGVjNkFySS0tR21tWk9GamxaamVQcUtTZjI5TkXSAboBQVVfeXFMT29RbUtrQllyM1lCTEtsQUpRX3Z0TmtuR09PLUNxYmNCWmh6VG54c1lLcjFhbmFKMER3NjlhLVZxcVBqUWVXd1dkaFhpa05Bejlpc1RLNWstdHIxZU81S0ZDSE1EamU3QmtJQ0NEVUxITVBnRlR1SkVuM2JBU3VSZ1pvVWN3YmR1aVhnczN0Vm9fdHlwYUJ0RmUySnR0Sl8zVjE5c1kxQVZGUkJOMkppb2pQOEtzLW0zSlNB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c7ee66c519f3",
       "title": "Diabetes Worsens Outcomes, Disease Severity in Patients With Bronchiectasis - Infectious Disease Advisor",
       "published": "2026-07-01T04:00:00+00:00",
@@ -686,18 +758,6 @@
         {
           "name": "Infectious Disease Advisor",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTV9yd212bEF3YlVsOUFBU0FMdTg1UU0xSUlMQ1A3MlZSWmkxLXVyS1NIMWNKd04tNEdYcERvSWF4NTdQT2V1ZlFQNUxQWkphX0ZsSzFleFBVVlNfV1ZOMGxtZ1ZSX1JGRGRhZnZfa2RVSTlTMEs0elA1b21ST0V1alMwbkgwTkdONVVHQnl4NTNPMU1ZZUdz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed9c15a9cd7c",
-      "title": "Occupational Standing, Walking, Forward Bending May Be Linked to Miscarriage - Infectious Disease Advisor",
-      "published": "2026-07-01T04:00:00+00:00",
-      "summary": "Occupational Standing, Walking, Forward Bending May Be Linked to Miscarriage&nbsp;&nbsp;Infectious Disease AdvisorBending forwards and walking a lot at work may raise miscarriage risk in early pregnancy: Study&nbsp;&nbsp;Medical DialoguesCan bending or walking trigger a miscarriage?&nbsp;&nbsp;News Arena IndiaSurprising Work Habit Tied to Miscarriage Risk in New Study of 800,000 Pregnancies&nbsp;&nbsp;StudyFinds",
-      "sources": [
-        {
-          "name": "Infectious Disease Advisor",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYWswSHJxYmpKWXItYTVsbXN2TTFOenluODZ4QzVZOVNITThtbi1oYWJHaDhSVHJydklsY0dBd1FwZl9yaGMtREpJNDQ2LU9aV2pGTHlXemNBWUFCWjBybWJ1WlNIekxmTXladURLX2kyX2ZxRGlPb0I2My13bzVwZ1cyLUZzSzJGZF9HemRtemlMd0p4eUoweDhWV1BDbFIwMFRVY3hsNHN2dV9iX0h3SklobVU3YnBJR01JX09B?oc=5"
         }
       ]
     },
@@ -714,34 +774,10 @@
       ]
     },
     {
-      "id": "4654f0319b0c",
-      "title": "Hearing loss: How and why it breaks down the ability to communicate - Telegraph India",
-      "published": "2026-07-01T01:36:44+00:00",
-      "summary": "Hearing loss: How and why it breaks down the ability to communicate&nbsp;&nbsp;Telegraph IndiaTips and tools for navigating hearing loss&nbsp;&nbsp;PsycheDr. Kadie Nausha Shares Expert Advice on Hearing Health and Common Ear Conditions&nbsp;&nbsp;Palm Springs LifeCan Hearing and Vision Loss Increase Dementia Risk?&nbsp;&nbsp;Stony Brook MedicineWhy hearing loss is emerging as one of the most preventable warning signals of future dementia risk&nbsp;&nbsp;Miami Herald",
-      "sources": [
-        {
-          "name": "Telegraph India",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUnlQcVd6TTVHS2tVUlFEbE84dzU1ZWwxbHFlZUs4ZHZNLUhSdmdyemkzUHNGUDFJQk1hamF0RkpPX3JFUEY3bWUyRzJjR0pSUkhtRXY5LUFHU1h3OHpvUUhJSWU5QXJkMnJyUDVxV0cyRkhKSTJGYVVpcGp4cmdHRVhUMHgyRGJUdzBJWF8tUkZBZVVBcTJENmplMzZXaWh1N0hRd2wwX21MVTM4azZTRUZyUDVqOFZGR3dSZVBLS0JMLUlhcksw0gHMAUFVX3lxTE1hY05LeldzbjlUR0NZWU0xSGxVVDFYOHZnS1MzMWtLUmdkMmo1RFFEMUgxcl8yV0xUS1FYU0JnajlacFlfemdxRTRQNlFUWGZSYnItdEdpNlVreEgxaHZQS1BrYUROeVpMU1dQcUJ0Wk1xa3Z4QTFNb0FUaUp6YUxZZVFFNUc0VDY4S3BfNXhCWE96UHlHMXowU1NFM1VSUEQ3MzZCME82NzJ4VkNJZGtEYjJ3S05BQkltdlV1WTN0aVVXbFI3bjljMWhRMg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cc00db2ba7c9",
-      "title": "Vibrio in Summer: Why the Risk Increases and How to Stay Safe - foodpoisoningnews.com",
-      "published": "2026-06-30T23:28:36+00:00",
-      "summary": "Vibrio in Summer: Why the Risk Increases and How to Stay Safe&nbsp;&nbsp;foodpoisoningnews.comNew disease threats follow Trump administration's health program cuts&nbsp;&nbsp;CBS NewsDoctors warn swimmers about risk of flesh-eating bacteria in Houston-area beaches, lakes, and ponds&nbsp;&nbsp;Click2HoustonSouth MS man fighting for his life after swimming, fishing in Coast waterways&nbsp;&nbsp;Sun HeraldHeatwaves and warming seas raise flesh-eating bacteria risk at European beaches&nbsp;&nbsp;Tra",
-      "sources": [
-        {
-          "name": "foodpoisoningnews.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRk5QZWZXQUxtSjdHcVI0aXFjaThjZ0lGZ0cxVGQyUHhHZjVCRWFnRmhuR2wxZldjTk5jNmRhNXdtMGFVSWxfQkRrNlZtR3ZZNnQ0TkNCRjFib2FoeVc0OGQyTG10dzlCbkZHd0MxeVdOVkdfT2hWQzhMcFpSbUhFN2cwWVlWMjVrN1VfeVU0Qm85SGI5UFBlajNDOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f13d618256f5",
       "title": "What’s in a vape? Why e-cigarettes are hardly harmless - www.heart.org",
       "published": "2026-06-30T21:40:02+00:00",
-      "summary": "What’s in a vape? Why e-cigarettes are hardly harmless&nbsp;&nbsp;www.heart.orgA study suggests that cooling agents in vaping could increase the risk of arrhythmias or cardiac arrest.&nbsp;&nbsp;Génération sans tabacAre E-cigarettes really safer? Oncologist debunks common myths and explains the health risks&nbsp;&nbsp;Hindustan TimesThe American Heart Association just issued a stark warning on vaping&nbsp;&nbsp;MSNVaping causes serious health issues including heart disease, cancer&nbsp;&nbsp;Sou",
+      "summary": "What’s in a vape? Why e-cigarettes are hardly harmless&nbsp;&nbsp;www.heart.orgA study suggests that cooling agents in vaping could increase the risk of arrhythmias or cardiac arrest.&nbsp;&nbsp;Génération sans tabacGrowing scientific evidence links e-cigarette chemicals to heart health risks&nbsp;&nbsp;Medical XpressAre E-cigarettes really safer? Oncologist debunks common myths and explains the health risks&nbsp;&nbsp;Hindustan TimesThe American Heart Association just issued a stark warning on ",
       "sources": [
         {
           "name": "www.heart.org",
@@ -750,62 +786,14 @@
       ]
     },
     {
-      "id": "9f6347eac845",
-      "title": "Brain Worm Lesions Mimicking Cancer; Midlife Dementia Marker; Ovarian Reserve and MS - MedPage Today",
-      "published": "2026-06-30T17:49:51+00:00",
-      "summary": "Brain Worm Lesions Mimicking Cancer; Midlife Dementia Marker; Ovarian Reserve and MS&nbsp;&nbsp;MedPage TodayDoctors Suspected Brain Cancer, But Scan Revealed Rare Tapeworm Infection in Spanish Man&nbsp;&nbsp;Medical DialoguesRare Case of Neurocysticercosis in Spain: 60-Year-Old Man's Suspected Brain Cancer Turns Out to Be Tapeworm Cysts, Avoiding Invasive Cancer Treatments&nbsp;&nbsp;CPG Click Oil and GasDoctors Thought a Man Had a Brain Tumor. It Turned Out His Head Was Full of Worms.&nbsp;&nb",
+      "id": "a732db050835",
+      "title": "-death-tally-from-confirmed-and-suspected-cases-reaches-716 News in Hindi -1 News Headlines Found - UNITED NEWS OF INDIA",
+      "published": "2026-06-29T16:16:04+00:00",
+      "summary": "-death-tally-from-confirmed-and-suspected-cases-reaches-716 News in Hindi -1 News Headlines Found&nbsp;&nbsp;UNITED NEWS OF INDIABangladesh measles outbreak crosses 1 lakh suspected cases, death toll rises to 716&nbsp;&nbsp;The Indian ExpressDGHS records five more deaths with measles symptoms&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)Beyond immunity gaps: health-system constraints and measles mortality in Bangladesh&nbsp;&nbsp;Springer Nature LinkBangladesh Measles Outbreak Tops 100,000: How V",
       "sources": [
         {
-          "name": "MedPage Today",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MRndDb282dEJwMHdxVmFuazJ1ZjlOZkNKVGdvaG5iREhRWkRfaS1LSThlSUNjSG5GVUx2X3ByNm1FdTN2bkE0bDhmRDNRU0dxdFZPdWlVSUJZOGtyOVdIX2R6U1NicmZxR2FnRjA1aw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3135792561b",
-      "title": "New Vitamin B12 Therapy That Crosses Blood-Brain Barrier Shows Promise In Fighting Deadly Brain Cancer: Study - Health and Me",
-      "published": "2026-06-30T16:30:00+00:00",
-      "summary": "New Vitamin B12 Therapy That Crosses Blood-Brain Barrier Shows Promise In Fighting Deadly Brain Cancer: Study&nbsp;&nbsp;Health and MeMedical Bulletin 01/July/2026&nbsp;&nbsp;Medical DialoguesNew vitamin B12 therapy shows promise against deadly brain cancer&nbsp;&nbsp;ScienceDailyNew Vitamin B12-Based Therapy May Help Fight Deadly Brain Cancer, Study Finds&nbsp;&nbsp;Open MagazineNew Research Offers Hope For Hard-To-Treat Brain Cancer&nbsp;&nbsp;indica News",
-      "sources": [
-        {
-          "name": "Health and Me",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLXhuaFdBTjFtS0xPeFBXQ1lYM2JhVXZJNjc2R3BOZmVtemVRQnU5c3RLQTFJXzB6RGtndElzUklRTTFhM1FxQUVqTVdmWU5FUTlQSjBBNDZFd1p6SU41TEJDWHEwNmVQbm5QSkZqNnNPUFZyTE53QWM0RXNLRnhBU05pMXdlZ2V6RzFTOHdaSmwwY0k3U3NyUkl1SXdldTAxeFVOdmtJbjB3ODMta3gxOVZnODBnOGdHclBfS3V1S1JRT0I5clkydGIwTGhYWU9Lemg3UA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "141d86a9adee",
-      "title": "Extreme temperatures increase emergency department visits among people with dementia, study finds - Medical Xpress",
-      "published": "2026-06-30T16:00:03+00:00",
-      "summary": "Extreme temperatures increase emergency department visits among people with dementia, study finds&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUEJPaFdxMXdFeGRXMmVyYW84dHNWUm1mQUs2bklWOGIxTk1MdmR0V3hBVF9mQVpkS21Pbm1wVm9yemU0TGFUX0c2Q3ZoOVVwUWlhV19XOHJGMWRSSVNoTTVTM1VkeXlES1NfU3pIb1VWNWdfTzh6ZmZzek5YM3NUTXBudm8xMWdxajNjSmwwYW9BNGNfaUJZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "021632587761",
-      "title": "Fix your fibre: Low intake linked to colorectal cancer - Deccan Herald",
-      "published": "2026-06-30T14:18:46+00:00",
-      "summary": "Fix your fibre: Low intake linked to colorectal cancer&nbsp;&nbsp;Deccan HeraldSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGxxRkZyQ05XRFduUE5RZjcwRUdUNl9PbHFON0tSdlFGSDQ4bXhHMnAxNnJKTWo3RVhEb3laeGRhYUk0UFRFQzRHZjgzMnVwZWZqMWNjZXI4RUNUSG9DY2xjNVBHbzdvV2h5MWlmYWNYNnBneEFzM0xwTEVNdkI2bGI4dVJWdFZrY2VmazVGSHBBQzViMkNlbGNkUlN5bE93eTctSVVXTWlXYk84?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd7dc35e7229",
-      "title": "Gynaecologist explains which everyday habits affect fertility in men: ‘Your laptop, your tight jeans, all hurting’ | Health - Hindustan Times",
-      "published": "2026-06-30T13:47:11+00:00",
-      "summary": "Gynaecologist explains which everyday habits affect fertility in men: ‘Your laptop, your tight jeans, all hurting’ | Health&nbsp;&nbsp;Hindustan TimesHow male infertility is still not getting enough attention&nbsp;&nbsp;BBCFor A Successful IVF, Men's Reproductive Health Is As Important As A Woman's&nbsp;&nbsp;News18Only 25% of men have healthy sperm – Experts&nbsp;&nbsp;Business News NigeriaMen Have a Biological Clock, Too: Why sperm health matters&nbsp;&nbsp;The Glendale Star",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMXFnMFNEdnhDUmtZbWNhS1h1aWJUY2YwZndabHVLVWd4dUJ1WnVEdGM4dXJNbk5zekFmOU1wU2hEYmFmYmJiUER2UGl6WjdTSGFveDg2QURWM0J0MWZEVzlzcFNMNHZiaVFBVW9MdTI3ekhoVnVScE9aTW9uTzlFTDc2VlBpOHdiaWE2bVoyNlg2alg4emRUWElxR2pReDIxNVdZRTVYeWxyOGZSUVVtejhrdWNtUDN4V2FLMFIwSFhHendZd2hlbUxvczRlc3BvZlExclNJYWY4WC1hamdsczgxejVLNXk0MWg3Rld2YlJFSHZ2dzV3R0dWT2VfUFVnYjN0NmtIOEluQdIBjwJBVV95cUxOb0xyZUhQUDdGYzdlcUxHazJoaE1GOC1XWmh3dEtDd1lvWjgzZ3BDX3pBUEtrdDRBblBWWk1ab0I0MmxXdjAtNlNDUUZxZXl1dWR0QktIWEp6c3BPY0wtYm56dXlVYWF6dmJxaWdOM0Q2RW1RTTBKbDdrRHlva2VvUUFqWWNEekhjZ28wb002N2RBbXpfTlRKbVVnRDdqRVZTaFRfRy1MRFRPWE1hS0x5YzRVMzYxNU1WVDVzUkNobTJhclc3QmlMQ3p6eHVMblVablNlWGlWcEE3TkJfNlFrbF9pZ19LMFdVT2ZRUXhUWmxvSFE4WjVHaXpCUkdtODFTMkRtQWJBcC1vaTdOUDJR?oc=5"
+          "name": "UNITED NEWS OF INDIA",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWE5FNWdMT0t1SEFNbTFjM2tqX0FFWWFhMlUwbDYtLVQzY3pnbzJMSHBveFBsQ1MydU1qb1o3SG9laEZxMm9lTVJjQUZXYWpBaXBWeHhORFB4QVdYREx0NWFUVmFKczVQTVNnamZaOG5XTlN6Mk4zbGlHdnVVSnB4TFJpQXg4bXRRd2YzUFphUjg3YXc?oc=5"
         }
       ]
     }
