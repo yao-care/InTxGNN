@@ -2,7 +2,7 @@
 layout: default
 title: Magnesium Carbonate
 parent: 僅模型預測 (L5)
-nav_order: 309
+nav_order: 378
 evidence_level: L5
 indication_count: 10
 ---

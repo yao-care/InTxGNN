@@ -2,7 +2,7 @@
 layout: default
 title: Dalteparin
 parent: 僅模型預測 (L5)
-nav_order: 152
+nav_order: 192
 evidence_level: L5
 indication_count: 5
 ---

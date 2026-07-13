@@ -2,7 +2,7 @@
 layout: default
 title: Dichlorobenzyl Alcohol
 parent: 僅模型預測 (L5)
-nav_order: 183
+nav_order: 223
 evidence_level: L5
 indication_count: 2
 ---

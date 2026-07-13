@@ -2,7 +2,7 @@
 layout: default
 title: Methoxsalen
 parent: 僅模型預測 (L5)
-nav_order: 333
+nav_order: 402
 evidence_level: L5
 indication_count: 10
 ---

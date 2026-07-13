@@ -2,7 +2,7 @@
 layout: default
 title: Nicotinamide
 parent: 僅模型預測 (L5)
-nav_order: 391
+nav_order: 460
 evidence_level: L5
 indication_count: 0
 ---

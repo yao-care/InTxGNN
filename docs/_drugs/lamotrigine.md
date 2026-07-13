@@ -2,7 +2,7 @@
 layout: default
 title: Lamotrigine
 parent: 僅模型預測 (L5)
-nav_order: 273
+nav_order: 342
 evidence_level: L5
 indication_count: 9
 ---
