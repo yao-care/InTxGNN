@@ -2,7 +2,7 @@
 layout: default
 title: Magnesium Citrate
 parent: 僅模型預測 (L5)
-nav_order: 310
+nav_order: 379
 evidence_level: L5
 indication_count: 2
 ---

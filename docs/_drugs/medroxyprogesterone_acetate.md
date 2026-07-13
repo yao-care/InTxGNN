@@ -2,7 +2,7 @@
 layout: default
 title: Medroxyprogesterone Acetate
 parent: 僅模型預測 (L5)
-nav_order: 315
+nav_order: 384
 evidence_level: L5
 indication_count: 10
 ---

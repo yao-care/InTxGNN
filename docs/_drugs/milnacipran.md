@@ -2,7 +2,7 @@
 layout: default
 title: Milnacipran
 parent: 僅模型預測 (L5)
-nav_order: 350
+nav_order: 419
 evidence_level: L5
 indication_count: 10
 ---

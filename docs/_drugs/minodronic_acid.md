@@ -2,7 +2,7 @@
 layout: default
 title: Minodronic Acid
 parent: 僅模型預測 (L5)
-nav_order: 354
+nav_order: 423
 evidence_level: L5
 indication_count: 7
 ---

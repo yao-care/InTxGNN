@@ -2,7 +2,7 @@
 layout: default
 title: Methotrexate
 parent: 僅模型預測 (L5)
-nav_order: 332
+nav_order: 401
 evidence_level: L5
 indication_count: 10
 ---
