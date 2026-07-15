@@ -62,7 +62,6 @@ htmlcov/
 docs/_site/
 docs/.jekyll-cache/
 docs/.jekyll-metadata
-docs/Gemfile.lock
 
 # Secrets
 .env
