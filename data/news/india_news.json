@@ -1,14 +1,206 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-07-20T13:40:11.883431+00:00",
-  "total_fetched": 117,
-  "unique_count": 117,
-  "health_related_count": 65,
+  "fetched_at": "2026-07-20T19:18:59.181953+00:00",
+  "total_fetched": 135,
+  "unique_count": 135,
+  "health_related_count": 74,
   "news": [
+    {
+      "id": "c60a5796ebcc",
+      "title": "Researchers analyzing colon cancer screenings find hope for higher retest rates - Medical Xpress",
+      "published": "2026-07-20T19:00:13+00:00",
+      "summary": "Researchers analyzing colon cancer screenings find hope for higher retest rates&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMkpQQmJBbnQwTGNKNTlpZk9hUV84NDVnYVZfcTkwdlBaOEprVTBUdTA3NXU4aF81cVlVWEg1STRvN05VUXVxYTVnZDBCSHY5Rk9oNVg4b0VqTm5hNnB1Z0k2OHRhSk54OGlwWVA4Y3dTQUV1cVhzYVVKREdGTkxtcFVOdHAySVVL?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "64affa10f652",
+      "title": "Gentle electroacupuncture effectively promotes nerve repair in facial paralysis - News-Medical",
+      "published": "2026-07-20T18:57:00+00:00",
+      "summary": "Gentle electroacupuncture effectively promotes nerve repair in facial paralysis&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcFJ4NVlOR2tsMnk2QUR0YmpIQVlTd1Y2d1pGN3p2bURpWW9yMU41OTlaYzM1QkViT2tJaW9uT1RZTVlfRjc0SnhBMGtSbXplUjkxNlR5UDJ1NlR1Y1NzMmk1VFNaQUU4R19uaTkzbDhHMm5ZcnRCeDFLX3ZsdG5ZcThjUGlLVXE4dGdFYlVfSURCcUt2RnM1bEV0bWc0RlloMmV2SmxGSlBhV09OWFllbHo5ZnZjN29KbTdZeUNabkt0YnpyRlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b0736fda5a87",
+      "title": "New electronic skin brings self-healing sensors to underwater robots and divers - Tech Xplore",
+      "published": "2026-07-20T18:40:07+00:00",
+      "summary": "New electronic skin brings self-healing sensors to underwater robots and divers&nbsp;&nbsp;Tech XploreUnderwater sensor detects damage and self-repairs&nbsp;&nbsp;The EngineerMore than skin deep: NUS researchers develop electronic skin that senses, heals and thrives even under water&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "Tech Xplore",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3Y4d1pKZFJ1akt4LWlLNkFONHItaHotck40TWZuajlmSk9TekY5SXdjY3NpX0VONGUzU3dja1VGZDl6Q2NWTFFMMWRaYi1tQnBvdTROUHZ5VC04a1FBUEtmbXA3VlJJTG8yWlY0Y3ZyYVhkNUJjUnVsUjNRYW1WUUdIRDdZTDlwWUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "55e21ef3c1eb",
+      "title": "Comparative Assessment of Fasting and Stimulated C-peptide Levels as Discriminatory Markers of Coronary Artery Disease in Type 2 Diabetes Mellitus: A Cross-Sectional Study - Cureus",
+      "published": "2026-07-20T17:51:29+00:00",
+      "summary": "Comparative Assessment of Fasting and Stimulated C-peptide Levels as Discriminatory Markers of Coronary Artery Disease in Type 2 Diabetes Mellitus: A Cross-Sectional Study&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPV2xkc2hiemt4dFZ2eVdlYWFzZzZZS0Z4REY2Y3lVckdHa05QWWRFOW1LeHJSTmlEa29LemF3OGxNV2F0X2I4R2lDd1lvQllxT3oxdklqaW1BSGtHVWVSQkM1QUd3blZXd0NBNEdhb0xnWVNNSUxOSXdkUkFiNlVsN1ktVm1DVkd3WFl0Tk5WUW0yZ2xIVFlacmVkRDhYUEdBaUFvc19JaVp3a0JXN1hneDhXdkl1bkdmSFMwOURPODY5aDRTSDNpT1I3RXhHX3FTamZlZUVicjV3dG9nTmctd2hwY284OHV5RG9rREg0M1hma2FqR3p1YkRzOXloUUpBQVZDWDJKZUdVcHhhUnZfS0t3UjBpYm55cURaTzE1YjMxTUJRcnZMRTZVdW1zMW1KcEg5WHpiSFBXRjgxM0NqYVBiOUsyZk9iY2NXdg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "547c5ca3e0ca",
+      "title": "Scientists found that a sea anemone can distinguish helpful bacteria from harmful bacteria without antibodies or immune memory cells - The Times of India",
+      "published": "2026-07-20T17:33:00+00:00",
+      "summary": "Scientists found that a sea anemone can distinguish helpful bacteria from harmful bacteria without antibodies or immune memory cells&nbsp;&nbsp;The Times of India",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPMmR4YUZnUVNKYjFNYkZpZUEyNkdxSDV4TWpSUDQ5cXhYaFNxaS1sVlNLMDhEdEVOeFpYZE5KallTMmZqYTJNSUhYVjQxSUpDTjZsUTNnS1EtaVVub0dqRU43aE0zOFRRY1F6a0psNW9nZllvSkF5UnZNeGREd01QYXFhTEowVGtFMUpIUFNqUnpJQTZnckRFcVdpVllRc0lIR1luQzBMTFJQeFg3bFJtRl8wNkpCOGlTUkRJOG9tX3pVRDNBdDFYWnR6TG5vS2tPWXE0MjZSM1RzQVp3elVjelY4UllzU1l4cjFYZXZLbGNjQUtQVDc4V2JHeDZUV1NrSXhsZjNMdHE4NjdfSW1tRHBfTmV4V1FxQ1FEcHhrMVlDSE5oUHRXM3V3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "72693cc9c796",
+      "title": "Researchers Used Two Telescopes to Discover a Planet Hidden In Plain Sight - PetaPixel",
+      "published": "2026-07-20T17:28:49+00:00",
+      "summary": "Researchers Used Two Telescopes to Discover a Planet Hidden In Plain Sight&nbsp;&nbsp;PetaPixelNASA's James Webb Space Telescope Discovers New Giant Planet Hidden In Nearby Star System&nbsp;&nbsp;NDTVNASA’s Webb Discovers Hidden Planet in Famous Star System&nbsp;&nbsp;NASA Science (.gov)Astronomers Discover and Directly Image Third Planet in Beta Pictoris System&nbsp;&nbsp;Sci.NewsFaintest planet ever imaged from Earth found after more than 10 years of hide-and-seek&nbsp;&nbsp;eso.org",
+      "sources": [
+        {
+          "name": "PetaPixel",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHdwV1ZpS3dUSGlFMHJpSFYwa0FTZV8zX0FTTE5mX2RvYTJjYmxrcldpMWliVGFmcERUWXZKOXVZejd2TmtQYTV3NWtFNXJsMzMyTGtkSG1EcTM1ZVZxa0Z2U2szZmZFaHJxNklSWEFxekpQNVV6cDJWV3BTcTd1b3ZLbXZRVm9NaUdzWEJNbFQ2WGRzRGxZT0tHY1p1ZmpDYVF6SUc0X3FKTTJr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "76c96bd177d8",
+      "title": "India approves dengue vaccine: Doctor explains the four virus strains and why immunity remains a major challenge - The Times of India",
+      "published": "2026-07-20T17:26:33+00:00",
+      "summary": "India approves dengue vaccine: Doctor explains the four virus strains and why immunity remains a major challenge&nbsp;&nbsp;The Times of IndiaWhy India's Multi-Strain Dengue Outbreaks Are Dangerous&nbsp;&nbsp;NDTVWill Waterborne Diseases Rise In The Future? New Study Says Climate Change Could Be A Major Driver&nbsp;&nbsp;Health and MeClimate change reshapes waterborne disease risks as pathogens respond differently, review finds&nbsp;&nbsp;MSNWaterborne diseases are shifting in a warming world&nb",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQT1EwbzEyMlJZX1lTSHV1R0FlTk01dnFrXzQ2RUV1a2MyQ0txRlBQbDVYNHlqdFVRcGwzSmY1ckkzWjlsanRITmlrNTlJQ2E1ZFhkYldBVzJuUTJ4cGJkcDF4WUR1NDFfR0hobFdQd2xqTFBNaXRBa1hXU2xHUjZwdFdsTDNOSGlJTlV3YUNYM1o2SV85UXZKM2l4TlVYclF5ZHMtd1JOY1IxTXAxN2RNNm80b2N2ZWVxZXlJSTREUURSUUwtTUI0djFObTRYN1lEcVV4X1lzLWZWQWtVd19fakhFQ2lhRmM2bzFGSTNRb04wQnk0azQwZThMMnl1OTRuNGkyQ2FkUWx4UDBrRF9pS1ZOZE3SAZwCQVVfeXFMUGJUcXpNRnJKTlltMTVybkhyVEk3T1ZYTy1sZUl0bWttajRCZEJaYWFQVzZvZUoxSFU2OGo5cjBndHZlOVZ2WkRyTUxHLTJLYTlFZUJ0Y282S2xqcTFHcGlKeUw5MzQ3bkNfZVBDdFFrZUY0M0tPQ056U1VrT0hMbDZ0bmtGdm1hSkZIdkxwbjhnWkhLOFZrV2YxeXAwZl9NMVZ2OGxVV1hweDI2VVQwOEpabG9UWTNIeTVLQzFGcWgwbmpadHNfdWMzcFJkSkFjSXVkVFUtUnVINEMwLXFwamMyYmo5R1ZtSUgwM2c0aTQ5dWVOR0l3VHpLNWdxRWhMNVpZWXFVdkJ6X1dtdEd0c0Z4ZU16WGdnZzc1ZU8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "44e2a10d1608",
+      "title": "The brain prepares for a viral attack in advance - Futurity",
+      "published": "2026-07-20T17:01:09+00:00",
+      "summary": "The brain prepares for a viral attack in advance&nbsp;&nbsp;FuturityAn early warning system protects the brain from viral attacks, say scientists&nbsp;&nbsp;ThePrintRemarkable early warning system helps the brain prepare for a viral attack&nbsp;&nbsp;healthcare-in-europe.com",
+      "sources": [
+        {
+          "name": "Futurity",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xYlUxUkxHdzI2d2dzN3E1clhmMFJpN3M4a3dlbzJoQ2YxenVBQ2ZNSEpfZzJmUTdsZU5RdmlkUWl0Nk1wWFVOeVd4TzF2ZHRkaDJsa2xTM3VwMWlqODZZUnFTbnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b5edfdb95b6",
+      "title": "How autistic brains process faces differently - Medical Xpress",
+      "published": "2026-07-20T17:00:07+00:00",
+      "summary": "How autistic brains process faces differently&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zT2JCeDlOd2RtU0RJT1FaUWZmLTYtSm9BblY3R291VFNPSklLZW1PNGZ3NlI2MDZ6ZndTd1JxaGVheU9pNU9lbFhsTE1taFY5VHlRZ3J3UmcxODN1d1BObE5rYzEwcjJmRE1wdzNhQ254LVF4aXprUzN2OA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f8e043aacd3b",
+      "title": "MIT scientists develop a new way to grow artificial blood vessels - The Brighter Side of News",
+      "published": "2026-07-20T16:00:00+00:00",
+      "summary": "MIT scientists develop a new way to grow artificial blood vessels&nbsp;&nbsp;The Brighter Side of NewsEngineers find a precise way to grow artificial blood vessels&nbsp;&nbsp;Phys.orgMIT engineers control blood vessel growth using mechanical stretching&nbsp;&nbsp;Drug Target Review",
+      "sources": [
+        {
+          "name": "The Brighter Side of News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3FKOExXN3BMb2JkaWtwV1NJM3VXbVdjbkhVSVZmQUV1bHZyZk41bTY2aWZyRnYzWVNWRENqNHdqeHZwcE5xTm9xM3RKemVCOVJUTjNBRVdpMENoUVNIOUFmTW1oaFRydmJyaVduNmwzUDl1NGt3Y3NSR0ZOaHE5MkU2MmJUWGpJMXdiZHowVERnNUZkMVBRUGxKOUpLR013TU1ZUW9LOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "747f6d45cf2c",
+      "title": "Bee brains reveal how colonies divide work without central planning - Phys.org",
+      "published": "2026-07-20T15:40:03+00:00",
+      "summary": "Bee brains reveal how colonies divide work without central planning&nbsp;&nbsp;Phys.orgHoney bees often split jobs by age, but shared food and social cues may help decide who nurses, who forages, and how the colony stays organised&nbsp;&nbsp;The Times of India",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByZVNYY0RZMlgwR212U19nekJzSnNqU2VJc1piYlBzZlV1cmNRTXlrNzVoNVlNcERfRWppNUI0R21ZbXFrek5ZVkxxaE5uQXNPdmo2SE5Wa3RpQml6Y1BrYWc1c0h0U01hWWVWU1J0ZGd6VV9kTGV3YQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "308c45e5b261",
+      "title": "Gut check: What the digestive system means for our overall health - YaleNews",
+      "published": "2026-07-20T15:36:57+00:00",
+      "summary": "Gut check: What the digestive system means for our overall health&nbsp;&nbsp;YaleNewsWhy gut health has become one of the biggest wellness trends&nbsp;&nbsp;CT InsiderGut Check: Digestive System's Role in Overall Health&nbsp;&nbsp;Mirage NewsThis Surprising Fiber Benefit Has Nothing To Do With Digestion&nbsp;&nbsp;MindBodyGreenWhat's the Ideal Path to Improved Gut Health?&nbsp;&nbsp;InsideHook",
+      "sources": [
+        {
+          "name": "YaleNews",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNME9nSW9QYjBGZUtnam5fSWFjN05kWlFpOHJFOFZkR0ZRYzY2MGpjb1hIbHU5bU93eFhTOExpeFdwVERWYUh2UXV2SDNMZEtTc3A2cjF6aDhuR1NMbE5idTVXeXg2d01TVE0xTkdRcE1KdW44cXFQa2Z1N1ZacDRDX0JsRTF4OGpvX1l3VzVoXzdGcU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18edfa45f317",
+      "title": "United to end AIDS - Report of the UN Secretary General - International Drug Policy Consortium (IDPC)",
+      "published": "2026-07-20T15:23:09+00:00",
+      "summary": "United to end AIDS - Report of the UN Secretary General&nbsp;&nbsp;International Drug Policy Consortium (IDPC)See more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "International Drug Policy Consortium (IDPC)",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnJLX0c0QVhCSVltWG43akJQeXlVQV84UnNvelJYZHNFNEhYNTNvV0hYMU8wS2t6Uk9vd2RQcU5vVFRzY1pPWFJuMjNKakZRQ2RwTlY3NTROQm1URnBENnNEWHY0QUY1dk1iM3lWMHVMVmdFOURTaGZPbVpDS01hLWN0MzladGJuVl9LTGZZSTY5UEh2M0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e251ee0757c9",
+      "title": "4th International Conference on Innovations and Advances in Cancer Research and Treatment – UICC - Oncodaily",
+      "published": "2026-07-20T15:21:08+00:00",
+      "summary": "4th International Conference on Innovations and Advances in Cancer Research and Treatment – UICC&nbsp;&nbsp;Oncodaily",
+      "sources": [
+        {
+          "name": "Oncodaily",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbG5jRktOeTFlbG9PZEwzOE1ILUJvVHhESl9Ia1Jhd3dwS1lwcmZrLUNvdDdZMVJFWkFKdnNxN1QzclZwZzZGQW9mZmU5T1FYUHRyMTg4R05sUnF3WXQ3UzFfQmFVb1dCVF91Y0tFM3JLblJpWWtxSjRHMnVUNkd3YzF3ME8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d94aa42b2026",
+      "title": "Gates Medical Research Institute links up with SII on vaccines - The Pharma Letter",
+      "published": "2026-07-20T15:12:55+00:00",
+      "summary": "Gates Medical Research Institute links up with SII on vaccines&nbsp;&nbsp;The Pharma LetterSerum Institute partners with Gates MRI to make expiremental TB vaccine&nbsp;&nbsp;ETPharma.comCurrent Affairs for 17 July 2026&nbsp;&nbsp;Sanskriti IASRevolutionary TB Vaccine: A Major Leap Forward in Global Health&nbsp;&nbsp;DevdiscourseGSK-developed TB vaccine candidate progresses toward global access with new manufacturing agreement&nbsp;&nbsp;GSK",
+      "sources": [
+        {
+          "name": "The Pharma Letter",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHNOZHE5dUdGVVhhODFZZUpIZXcxYWU5OWowcGFRcVdkdWtYbGpyLU93VmNhYkJwZUxuY3hNS2FQZXhCejJveUhXLXFtT2UtYmdKZUV4Q0ZpXzAxSE1yWWNEbk5jMlM0aVNTQmxWWHJHa3lPM1Jac0IxU0hLQWlPTVRFTUdFRk9BNUVmVTUyRnNiQS16X3VMS3NZRmEtWUtVdEhsR2dB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "db629922c431",
+      "title": "Nine in 10 Indian Adults Have Abnormal Blood Lipids, Study Warns - The Indian Practitioner",
+      "published": "2026-07-20T15:09:11+00:00",
+      "summary": "Nine in 10 Indian Adults Have Abnormal Blood Lipids, Study Warns&nbsp;&nbsp;The Indian PractitionerIndia's Cholesterol Crisis: 9 In 10 Adults Have Abnormal Blood Lipids, ICMR Study Reveals&nbsp;&nbsp;NDTVTelangana: Dyslipidaemia Widespread Among Adults: ICMR&nbsp;&nbsp;Deccan ChronicleLow good cholesterol biggest driver of India’s lipid crisis&nbsp;&nbsp;India TodayICMR study says nearly 9 in 10 adults have abnormal blood lipids&nbsp;&nbsp;Deccan Herald",
+      "sources": [
+        {
+          "name": "The Indian Practitioner",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1cwSnBFSGJNLW9MTnFheGxPZXNUOTJkQTdpZ0QwNWRNX0tCdG9aTEdMN2JuSEJYRFJUNDA0RmloaHplT3h3MnZoR1FEM0dobFhwbkl2MXRSS2VPbEdhY0RMLUwxQThiNnJqMWxmd3ZXbHJ2enktdDJuS0ttNkhpdFpKZmlGSWlxZ1RVRm54a3U4eERLMkF5MVhMRmEwaVk?oc=5"
+        }
+      ]
+    },
     {
       "id": "9212bfc3d54b",
       "title": "Fatty Pancreas Recognised as a Disease, Linked to Diabetes and Cancer - The Indian Practitioner",
-      "published": "2026-07-20T12:47:01+00:00",
+      "published": "2026-07-20T15:08:04+00:00",
       "summary": "Fatty Pancreas Recognised as a Disease, Linked to Diabetes and Cancer&nbsp;&nbsp;The Indian PractitionerFatty pancreas now a disease linked to diabetes and cancer&nbsp;&nbsp;The Times of IndiaConceptual framework and expert guidance on intrapancreatic fat deposition: the Melbourne consensus&nbsp;&nbsp;NatureMelbourne Consensus Offers Framework and Expert Guidance on Pancreatic Fat Accumulation&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
@@ -18,10 +210,46 @@
       ]
     },
     {
+      "id": "3113d3684a13",
+      "title": "The Silent Intruder: A Case Report of an Incidentally Discovered Solitary Fibrous Tumor of the Lung - Cureus",
+      "published": "2026-07-20T14:38:33+00:00",
+      "summary": "The Silent Intruder: A Case Report of an Incidentally Discovered Solitary Fibrous Tumor of the Lung&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZHVVc1lGcUpZTDJGWlZEV2RRZzhzN3NRU2EzakJTMmkyS3hLZ1FvUW9kVHotS3kwR1VJVFR5T2Z2WjBNczVWcFRxN09tb19rakhLbEdTZ3dxX0RRclBWSGhvQ3h2eFNvX3NMVjNseG44c19QNzlMQWtHRWpJZUl2bkZoNUh2VEhGV29uWEJaMnFvOUpnSDN2UTdVc3RCb3U0VXNqNVlBbnR0ZE1kZHp5OUllQmJWT3VtSmZncWQzWjhYN0NRRHByS01XOUo5OENzNTFr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5f41c1f03de",
+      "title": "3 Dead and 71 Others Sickened from Legionnaires’ Disease Outbreak in NYC’s Upper East Side - Yahoo News Singapore",
+      "published": "2026-07-20T13:42:43+00:00",
+      "summary": "3 Dead and 71 Others Sickened from Legionnaires’ Disease Outbreak in NYC’s Upper East Side&nbsp;&nbsp;Yahoo News SingaporeTwo More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan&nbsp;&nbsp;The New York Times3rd person dies from Legionnaires' disease in New York City&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosNow United States, Canada, United Kingdom, and Australia Confront New York City Legionnaires’ Disease Outbreak as Second Death Intensifies Global Travel Healt",
+      "sources": [
+        {
+          "name": "Yahoo News Singapore",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlRnJCc2xIQ2pKQ09nQTZHMkN5U19xZmlmQU1NQ09sdEZ1aUt6Y1h1MzJqMDlmQWJhaUM3d0xLZ2t6V2dDeU5OQW9IZDFwS000WEs2MU1zWGRDVE1jcnJhQXZKaktsb000RFRmUGY0R2tRUzRM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fee60dc6377e",
+      "title": "Balanced fluids or normal saline: Which is better for children with septic shock? - TheHealthSite",
+      "published": "2026-07-20T13:07:00+00:00",
+      "summary": "Balanced fluids or normal saline: Which is better for children with septic shock?&nbsp;&nbsp;TheHealthSiteJuly 10, 2026: A Pragmatic Pediatric Trial of Balanced Versus Normal Saline Fluid in Sepsis (Scott L. Weiss, MD, MSCE; Fran Balamuth, MD, PhD, MSCE)&nbsp;&nbsp;Rethinking Clinical TrialsFluid Choice Does Not Change Pediatric Sepsis Outcomes&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "TheHealthSite",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSlo0aVRVRGpsbWNyYjJLeDlkSFdDcWhacTNwRzBjQ0RzZm5QOVliaFltcmxVQ1N1QXpxTnNrYTlLckxjRm9ESzdhQXFYRzU5VkxxQXZOc1NCZ3FHSEJCSy02a3ktLUlWNGl4a2JubW9qVjFNbXhaUWVfTnpoZDNIblc4d21lbG9TaTYzNG9qQUpBS2ZRb194aWFVcWtQRDQzRVlZb0pDYkR0cU10SjNzaE9PeENYMVNxazRqMTJuNExtbUlROUNzQTBRdUZ5NXJJSkVuatIB2gFBVV95cUxOSXM5OHFKUXhxYzBGRUxuc2lfWVdYVzJXWHJQcmxXSUtuTzJ3aGRtX3pNTVdkaDE3NFY0SGFMV2gzT2M2V2VBLTlzR3M1dXMzQzBXT3R4NUZMQTBoVEszSUdIcTNjdmxKaDQ3WVlKVFJCRVJDNzdfbDNzcDZFcEsyRFdmc3h4V0hvZHl2c1N2ekRpZmsxbzdMbXc2cmtnMXpkalA3YlRJUldYU3hMbF96WVNOVG1jLVZycW5JRVBKNVBYNnpzUHFpTkpRVWtGR05XS24wNWdxUDVCUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9bb4cfa7d693",
       "title": "Brain disorders on rise as India grapples with shortage of neurologists - BioSpectrum India",
       "published": "2026-07-20T12:33:23+00:00",
-      "summary": "Brain disorders on rise as India grapples with shortage of neurologists&nbsp;&nbsp;BioSpectrum IndiaWorld Neurology: May-June issue now available online&nbsp;&nbsp;World Federation of NeurologyAustralia has a blind spot: it’s time for a national brain health strategy&nbsp;&nbsp;Medical RepublicMEDIA ALERT World Brain Day 2026: Australia’s leading brain experts call for a National Brain Health Strategy&nbsp;&nbsp;Medianet News HubWhy Australia’s top performers are treating brain health as their g",
+      "summary": "Brain disorders on rise as India grapples with shortage of neurologists&nbsp;&nbsp;BioSpectrum IndiaWorld Brain Day 2026: Global Leaders Unite to Address Neurological Care Gap&nbsp;&nbsp;World Federation of NeurologyAustralia has a blind spot: it’s time for a national brain health strategy&nbsp;&nbsp;Medical RepublicNeurological Disorders Emerging As India's Next Major Public Health Challenge, Say Experts&nbsp;&nbsp;Health and MeMEDIA ALERT World Brain Day 2026: Australia’s leading brain experts",
       "sources": [
         {
           "name": "BioSpectrum India",
@@ -45,23 +273,11 @@
       "id": "2106556e723b",
       "title": "Study detects sugar in interstellar space - BusinessLine",
       "published": "2026-07-20T12:20:32+00:00",
-      "summary": "Study detects sugar in interstellar space&nbsp;&nbsp;BusinessLineA sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNDetection of a four-carbon sugar in interstellar space&nbsp;&nbsp;NatureScientists Discover Sugar Near Milky Way's Centre, Raising Hope In Search For Life&nbsp;&nbsp;NDTVAstronomers just spotted erythrulose, the tastiest sugar found in some berries here on Earth, and why this discovery could change how we search for life in space&nbsp;&nbsp;T",
+      "summary": "Study detects sugar in interstellar space&nbsp;&nbsp;BusinessLineDetection of a four-carbon sugar in interstellar space&nbsp;&nbsp;NatureA sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNScientists Discover Sugar Near Milky Way's Centre, Raising Hope In Search For Life&nbsp;&nbsp;NDTVAstronomers just spotted erythrulose, the tastiest sugar found in some berries here on Earth, and why this discovery could change how we search for life in space&nbsp;&nbsp;T",
       "sources": [
         {
           "name": "BusinessLine",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZVBvUGxPVWxDVmRxbG9mT08xMWpfUVdoTzgwYzRTRDI5cnl0djlLVEg1Ml9rX0U2VW9XMXh3QWFIdDN4TXR5Sjg5QmpZbDZUQnFTTGdES0VsOHVoSDFtTzkwZ2NlR2V1RnBla2RZYTlNYWZyM19fTE5VTk92X2RIdkxRWmVQQnltWGlrbW5HVlcyQTlqODdvN1R6N0hsZFp2ZUpJellQMHFSWE1LU2FOTtIBtwFBVV95cUxNMUFaNVhfS2ZmdFVFQ0RBbWhlMGg5aWFIbWFENFRFS0doT3pBamhXWWI3QmxLVVpMTTNPNUNkMEdYeDBOQWhfSFNoZ1h1blF2Umk0RnFwUURIWkI3N1p3RjNZYlM2eC1kZWxPSHdCYzQ2c2Rqdl9vXzh6TFZ5bDltdU5Gbm41VWN1YS12bTcwT0gyUTZGZjMxUjNpOG9vSjM4WGVhVTZOVXFEQ2Voc0FlTnBHa2dxa1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25a017e28f88",
-      "title": "Researchers find tiny but dangerous space debris - Unmanned airspace",
-      "published": "2026-07-20T12:07:06+00:00",
-      "summary": "Researchers find tiny but dangerous space debris&nbsp;&nbsp;Unmanned airspaceSpace junk debris cloud discovered in high-traffic orbit 'is a potential minefield' for the costliest satellites&nbsp;&nbsp;SpaceThe future of space depends on keeping satellites alive longer&nbsp;&nbsp;The World Economic ForumThe growing threat of space junk around Earth&nbsp;&nbsp;GeographicalExperts warn tougher spacecraft are causing more backyard debris landings&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "Unmanned airspace",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONER4RzhwMEVlLWpnZ2w1c0hNRHRweEdLNXI1Rk1LLURGQ1FuWFA1eFVreU5PSkMxRWRUSVJZa0NkZTZ5cU5YUFB3Y19DdE1rWi00eUVkR2pqOURqUURuQ2NaUEI2SjUtSFVsOS1BS0JHQkVPQU9LVFBOalBLNlJqQ2hwQmxEX05hYklXa0pwcll2VlNUSE9PSFV1M1lMUENpaVZiYVpQUmVTYVFJOVdGdA?oc=5"
         }
       ]
     },
@@ -78,18 +294,6 @@
       ]
     },
     {
-      "id": "98d726eebb44",
-      "title": "Quantum Materials Discovery Could Advance Electronics For Extreme Environments - The Quantum Insider",
-      "published": "2026-07-20T12:01:42+00:00",
-      "summary": "Quantum Materials Discovery Could Advance Electronics For Extreme Environments&nbsp;&nbsp;The Quantum InsiderGraphene Nanoribbons for Extreme Radiation Sensors&nbsp;&nbsp;Scientific FrontlineGraphene nanoribbons can withstand extreme environments, could be used in fusion reactors&nbsp;&nbsp;Interesting Engineering",
-      "sources": [
-        {
-          "name": "The Quantum Insider",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmVYMXQyWVB6NGRleXFGZUx0bUwxemxBVWpEd3ZBdE1ESEJJbk4wZnItVmIyaWwxaVdUMkNwMVNOZVh6TFhUQ1BvVXNjRlhhdnp5Z0RFM2QxWWJmZ0VGNk5XREFkNzE0djlOakRrbVBYRzUwenBVcERULXBGU0RqWlZBUXJxUDdfM0VLMTdVVG9fUmNVTWVteGplWEhBWmZWWnJoOGdtS0lIR1ZONjZOMFVlWXFqNDB5Z3JRNA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "98d8bf02d32b",
       "title": "Nasa explored putting astronauts into a hibernation-like state for Mars missions, but scientists are stil - The Times of India",
       "published": "2026-07-20T12:00:00+00:00",
@@ -102,10 +306,34 @@
       ]
     },
     {
+      "id": "23bb8a3d55f3",
+      "title": "The UK commences testing of new Ebola vaccine - medwatch.com",
+      "published": "2026-07-20T11:49:00+00:00",
+      "summary": "The UK commences testing of new Ebola vaccine&nbsp;&nbsp;medwatch.comHuman trials of new Ebola vaccine set to begin in UK&nbsp;&nbsp;Sky NewsHealth Workers May Get Experimental Ebola Vaccine Strategy as Outbreak Grows&nbsp;&nbsp;Bloomberg.comNewshour | UK begins trials of Ebola vaccine as outbreak in DRC intensifies&nbsp;&nbsp;BBCPune’s Serum Institute ships 4,000 Ebola vax doses to UK for phase I human trial&nbsp;&nbsp;The Times of India",
+      "sources": [
+        {
+          "name": "medwatch.com",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yMnBBaUw5dEJLODVRNGJ0MmNZbGVHM0NGSUtsOHV4LTZiRWZhMkNwT19oNFEtQzNGbHJOeWJ2clVxcnp2NGpKM1lvRnE2eURXVWxMWlhsaHFfTUJscU93R29wb2trelJvYVZiRTBJRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "95877384a845",
+      "title": "Risk assessment and climate adaptation research for agricultural cultivation and water resource systems within rural green production models - Nature",
+      "published": "2026-07-20T11:37:30+00:00",
+      "summary": "Risk assessment and climate adaptation research for agricultural cultivation and water resource systems within rural green production models&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12eDI4dHpodmpqODIzWjFycnZia3B2OVlKYUxid0lENzhVQ1lJNm4xTUpaTjFtUENjZ042VVR3Y0xPamZQRkIzMUowTFQ3TlVWQ3hCbnV6THdwaEtwY1F3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "74800cbe5275",
       "title": "Alternative therapies may offer a new way to fight antibiotic resistance - Down To Earth",
       "published": "2026-07-20T11:35:05+00:00",
-      "summary": "Alternative therapies may offer a new way to fight antibiotic resistance&nbsp;&nbsp;Down To EarthAntibiotic resistance is a growing problem, but solutions do exist – expert Q&amp;A&nbsp;&nbsp;The ConversationProfessor Gian Maria Rossolini Discusses the Global Threat of Antimicrobial Resistance and the Future of Clinical Microbiology&nbsp;&nbsp;Infection Control TodayAntibiotic resistance is rising worldwide: Expert explains why common medicines are failing and what can still be done&nbsp;&nbsp;T",
+      "summary": "Alternative therapies may offer a new way to fight antibiotic resistance&nbsp;&nbsp;Down To EarthAntibiotic-resistant bacteria increasingly leaving children vulnerable to common infections, global study finds&nbsp;&nbsp;The GuardianOutmarting Superbugs: From Brewing to Biofilms&nbsp;&nbsp;Georgia State University NewsAntibiotic resistance is a growing problem, but solutions do exist – expert Q&amp;A&nbsp;&nbsp;The ConversationRising antimicrobial resistance in children threatens life-saving anti",
       "sources": [
         {
           "name": "Down To Earth",
@@ -114,22 +342,10 @@
       ]
     },
     {
-      "id": "6c4db9fb27e5",
-      "title": "Up To 5 Cups Of Coffee A Day Is Safe For Most Adults, Says Study - NDTV",
-      "published": "2026-07-20T11:32:49+00:00",
-      "summary": "Up To 5 Cups Of Coffee A Day Is Safe For Most Adults, Says Study&nbsp;&nbsp;NDTVCaffeine and Cardiovascular Disease&nbsp;&nbsp;professional.heart.orgNew AHA Guidelines: Safe Caffeine Levels and Heart Health&nbsp;&nbsp;DevdiscourseAmerican Heart Association Reveals The Optimal Daily Cups of Coffee For Your Health&nbsp;&nbsp;ScienceAlertUp to 5 cups of coffee per day may potentially lower heart disease risk&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSjhIT1dCNEpVb25mV1VVS1RHa20xWUR2WmppdHh0dS1CelFHSUtrZEhfYTZ3TWZhblRSWjJhUmhqNlY5T3MtWTJTbldQTGxGeXp1Zkp1X1V0bFFzWnI3bzNmWjgtcHlqOUJiNlVfVU05RUtjZEs2UFcwYWJubVluTWpIUnA5WUVzV2k2MEtteEpEblpNSDJ2dDA3d1ItTVJCOGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e2233c51ac00",
       "title": "Filtered Coffee May Slow Biological Ageing Better Than Instant Coffee: Study - NDTV",
       "published": "2026-07-20T11:25:29+00:00",
-      "summary": "Filtered Coffee May Slow Biological Ageing Better Than Instant Coffee: Study&nbsp;&nbsp;NDTVThe Espresso Effect: How Coffee Turns On Your Body’s Stress‑Shield Genes&nbsp;&nbsp;ProHealth LongevityCoffee may help the body fight stress and aging through a hidden cellular switch&nbsp;&nbsp;ScienceDailyCoffee found to have startling effect on aging, says new study&nbsp;&nbsp;MSNFiltered coffee links to slower biological aging while instant coffee shows the opposite&nbsp;&nbsp;News-Medical",
+      "summary": "Filtered Coffee May Slow Biological Ageing Better Than Instant Coffee: Study&nbsp;&nbsp;NDTVFiltered coffee links to slower biological aging while instant coffee shows the opposite&nbsp;&nbsp;News-MedicalThe Espresso Effect: How Coffee Turns On Your Body’s Stress‑Shield Genes&nbsp;&nbsp;ProHealth LongevityCoffee may help the body fight stress and aging through a hidden cellular switch&nbsp;&nbsp;ScienceDailyCoffee found to have startling effect on aging, says new study&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "NDTV",
@@ -141,7 +357,7 @@
       "id": "f50b2d8e862e",
       "title": "Night owls may have more belly fat, higher blood sugar, poorer lipid profiles, study finds - Telegraph India",
       "published": "2026-07-20T11:15:58+00:00",
-      "summary": "Night owls may have more belly fat, higher blood sugar, poorer lipid profiles, study finds&nbsp;&nbsp;Telegraph IndiaSee more headlines and perspectives on Google News",
+      "summary": "Night owls may have more belly fat, higher blood sugar, poorer lipid profiles, study finds&nbsp;&nbsp;Telegraph IndiaNight Owls May Have More Belly Fat, Higher Blood Sugar, Poorer Lipid Profiles: Study&nbsp;&nbsp;NDTVWhy the same foods you eat during the day can lead to belly fat, higher blood sugar & poorer cholesterol l&nbsp;&nbsp;The Economic TimesSleep patterns influence eating habits and metabolic health&nbsp;&nbsp;News-MedicalCan meal timing affect belly fat? Study says night owls face a h",
       "sources": [
         {
           "name": "Telegraph India",
@@ -150,22 +366,10 @@
       ]
     },
     {
-      "id": "2eec37e41199",
-      "title": "United to end AIDS - Report of the UN Secretary General - International Drug Policy Consortium (IDPC)",
-      "published": "2026-07-20T11:03:42+00:00",
-      "summary": "United to end AIDS - Report of the UN Secretary General&nbsp;&nbsp;International Drug Policy Consortium (IDPC)Why latest blow to the HIV/AIDS response at UN should have everyone sounding alarm&nbsp;&nbsp;Telangana TodayCivil society statements of priorities for the 2026 United Nations High-Level Meeting on HIV/AIDS&nbsp;&nbsp;International Drug Policy Consortium (IDPC)",
-      "sources": [
-        {
-          "name": "International Drug Policy Consortium (IDPC)",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQzVlaWFnZnBfTlp0bkppdE9kaGVYSGUwdXM5VUZpRExfWFdyNm56MzJFa0RGem92TWFDaHV5WEpEbmFwM2k5am5YblVRUG5RVi1CRmYtRUZJdC1qTzFJQnJRcmxoNEhYUlM1TzE0LVE0UWhnS2NJUTViaGg0TVVkVnpNaTVSSGMxVjNR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f193324c791f",
       "title": "Why are more women facing hormonal imbalances at a younger age? An expert explains the hidden reasons - The Times of India",
       "published": "2026-07-20T11:00:00+00:00",
-      "summary": "Why are more women facing hormonal imbalances at a younger age? An expert explains the hidden reasons&nbsp;&nbsp;The Times of IndiaMeet the doctor on a mission to demystify our hormones&nbsp;&nbsp;Imperial College Healthcare NHS TrustHow weight, diet and lifestyles are affecting women’s hormonal health&nbsp;&nbsp;Baylor College of Medicine Blog Network -Women's health is more than hormones&nbsp;&nbsp;The Daily News | Texas' Oldest NewspaperThe delicate balance of hormones&nbsp;&nbsp;The Jakarta ",
+      "summary": "Why are more women facing hormonal imbalances at a younger age? An expert explains the hidden reasons&nbsp;&nbsp;The Times of IndiaHow weight, diet and lifestyles are affecting women’s hormonal health&nbsp;&nbsp;Baylor College of Medicine Blog Network -Women's health is more than hormones&nbsp;&nbsp;The Daily News | Texas' Oldest NewspaperThe delicate balance of hormones&nbsp;&nbsp;The Jakarta Post",
       "sources": [
         {
           "name": "The Times of India",
@@ -186,10 +390,34 @@
       ]
     },
     {
+      "id": "d99724bf8c6a",
+      "title": "Moon Day focuses growing concerns around space junk - UN News",
+      "published": "2026-07-20T10:26:42+00:00",
+      "summary": "Moon Day focuses growing concerns around space junk&nbsp;&nbsp;UN NewsOpinion | Look at Earth’s orbit. This mess is dangerous.&nbsp;&nbsp;The Washington PostResearchers find tiny but dangerous space debris&nbsp;&nbsp;Unmanned airspace",
+      "sources": [
+        {
+          "name": "UN News",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjYjZiUVMzbzJPVXJMUkwyS1ZlNVNBV1UxSm5BY0J4QXVqM3BXUjZIMGx2Q1o0eDJHQlZqYzNLcjNHUzVkMXZoNjlsTC1fN2lNU0xQZWFOdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5a923b984417",
+      "title": "Going to the movies or a concert frequently? Your body might be ageing slower, says new study - Firstpost",
+      "published": "2026-07-20T10:15:47+00:00",
+      "summary": "Going to the movies or a concert frequently? Your body might be ageing slower, says new study&nbsp;&nbsp;Firstpost'Your Friday movie night is basically medicine': Neurologist cites study by Japan researchers on how cultural engagements can slow down aging&nbsp;&nbsp;The Times of IndiaCan museum visits and concerts keep you young? What a new study suggests&nbsp;&nbsp;India TodayNew study suggests one must keep going to cinemas and concerts — here's why&nbsp;&nbsp;Deccan HeraldVisit a museum to he",
+      "sources": [
+        {
+          "name": "Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcHJUa0JoM2xJX00xb0dmQndfVnFfLW0xR3dpQnJYY0FpeE1UemZwWFcyODVQVlVZaFg0dXItQW1PMGNWMnlkbm41X0UyeHFlbXZCaXZ3NVB5SVE4UWIxTEhPMUJvaUtsSWw5TGsydGZnUnJjbENHMlZ1eUxlYlRsRVhNbnV1MV84alR0cUNoV3UtRmRyakgwWkFDQWRYMTJXZVlqRjEtMTVXTC1oYXJMSUNrZGV2QkhjTzdOaHJadUNxWHlGTVlwNmxQLU4zWmZ1N3dqM1Z4a9IB3AFBVV95cUxQcUpGVHBrWDdSMnB2Smt6aGVDYTZIanp6bzlsdEhJcXdLOWI3Tk1aT2NRSHNFYlZ5c0xSUEtyTm9zUlppQUZpblNka0hLTjhKVmxEUFdnV3hkSjhSX1RNc3NHQmxaT3JycHZoZHRKbDdzWnJGVjRKOWRIZVBFa2lSOFZtQ2QyWjl0eTdBa0NXNWJLNHU0TFdQQlRhWTdZajhtQVBhRXpiM0ZROGVwQVVudjBMSnpJZUVaM3BkM2d2VFJCaWJPUzJqRjRvUzBSNkIxOGwxZ0pBRzlkWFhr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d9d44be37bb5",
       "title": "Mapping how influenza virus rewires human host cells - News-Medical",
       "published": "2026-07-20T10:00:00+00:00",
-      "summary": "Mapping how influenza virus rewires human host cells&nbsp;&nbsp;News-MedicalResearchers Map How Influenza A Virus Hijacks And Rewires Human Cells&nbsp;&nbsp;NDTVMapping in-cell protein contact sites reveals hijacking of paraspeckles during influenza A virus infection&nbsp;&nbsp;Nature",
+      "summary": "Mapping how influenza virus rewires human host cells&nbsp;&nbsp;News-MedicalMapping in-cell protein contact sites reveals hijacking of paraspeckles during influenza A virus infection&nbsp;&nbsp;NatureResearchers Map How Influenza A Virus Hijacks And Rewires Human Cells&nbsp;&nbsp;NDTVScientists map how the flu virus rewires the human cell from the inside&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "News-Medical",
@@ -198,50 +426,14 @@
       ]
     },
     {
-      "id": "01b75a5caa40",
-      "title": "AI-altered images on birdwatching forums putting research at risk - The Guardian",
-      "published": "2026-07-20T09:35:00+00:00",
-      "summary": "AI-altered images on birdwatching forums putting research at risk&nbsp;&nbsp;The GuardianScientists warn AI-edited bird photos could create fake sightings and threaten biodiversity research&nbsp;&nbsp;The Times of IndiaAI-edited bird photos could threaten wildlife research, scientists warn&nbsp;&nbsp;Getaway MagazineHow AI-altered images are putting birdwatching at risk&nbsp;&nbsp;NewsBytes",
+      "id": "7d94897e23b4",
+      "title": "Research on the roof hazard factors quantification based on Chinese word segmentation and TF-IDF algorithm - Nature",
+      "published": "2026-07-20T09:22:30+00:00",
+      "summary": "Research on the roof hazard factors quantification based on Chinese word segmentation and TF-IDF algorithm&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0RYZHhncWU1bGVyU2tKaVR2UFA4aE00RFdtd1B2VTFDWUoyUElKRElMQ0ZaYnl0bHg1SlRyRDVtYTRHN1RuZWx0emU3WmRFaU1Qa3NCOWd0SEJXZU1IRVl0Mk9QemhLYTlGRFMtU0xiUzU1UDBsTlgxbWdQSUFYOVVKWDJEZlVDWDlLRllmYXliU1dwRml2ZWtjbXJnLXBWOWZ3VWxwOU93bkxoM2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bcdd1131d5a3",
-      "title": "The surprising benefits of a five-minute dance break - BBC",
-      "published": "2026-07-20T09:32:24+00:00",
-      "summary": "The surprising benefits of a five-minute dance break&nbsp;&nbsp;BBCWhen you’re in sync with others, joy is shared&nbsp;&nbsp;PsycheMay cause joy: The full-spectrum health benefits of dance&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1Y1cHFyX3RsVWktbFRGQlNMdTJrcF9qUHF2dXVSQzNpazVlc216Qk1xcDZ4Z2dPRE1HdkNvbDFNSU14ZlhhdVJOV09DMEQ2X2JzR003OHZPaTNNN3ozSWlaODdtVTh1S2pCa1RWQTVNTl8xaFNxTzdvelRHUnZ2dmV5LTNWbXd1Snk4TUdfRFNYb0IzcGZHaHZDcE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a924a1666f12",
-      "title": "Scientists find 24-million-year-old Kevda fossils in Assam, rewriting the plant's history - Moneycontrol.com",
-      "published": "2026-07-20T09:29:02+00:00",
-      "summary": "Scientists find 24-million-year-old Kevda fossils in Assam, rewriting the plant's history&nbsp;&nbsp;Moneycontrol.comAncient Kevda Fossils Found In Assam Show Plant Is Older Than Human Civilisation&nbsp;&nbsp;NDTVOlder than Himalayas: 85mn-year-old Kewra plant reached India 24mn years ago, fossil discovery in Assam shows&nbsp;&nbsp;WIONAssam: Fossils push India’s Kewra lineage back 24 million years&nbsp;&nbsp;EastMojo",
-      "sources": [
-        {
-          "name": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkw0ZVpvaHBYU2xTdGhvMkJibm9Fd0JacnlFR01UUTN1bmJHWGtaemJmYU8zVWEwM3ZRbGNDa1NUbk95TjJONkoyN3VZa0JoSVpaZ28tRVdMbERqcWRYWDY0VzhRZXc3MVpGRmxSRTlFRElURUI3dm00LW1RazEtTUJjWGpNUmlOOHloS0dGWFdTSGRJQ2wzZHgySXJFdC1zTDdIVlZhT2I3QzA5OW9oNWdIRjRQckd3T21vSlQzY0pRaHN1M1R3UUE2N2EwV2xYcU1wd1A0MzRqa3fSAeABQVVfeXFMT2dNNW14MUItQThfdTJhV0ZmOURud1YyWGI3cm1TT0JfMFFLRHdDNEpnbWRIajFhaUktaTlsbGI5bTd6ZEkwMGJhdzJyMmQzaUxCN3RsMHFkOUxsTlJleHF2aGxfTjdVaHBfSzhwR3VxWENFOG5Vc1FHbXZidDgxY2RLZVZKV25FR1o4aVhNM1RsSnAybXh0aW84bjJZRGVMakduOF9YS1hTQi1rS3dFd3phei1IYnNoUUdkVDhhSEptR01UWnlfX2VscVBacmwxYkRIcGxCRHB3b1VCSG1Xdkc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a4bf67a8e4c7",
-      "title": "'Your Friday movie night is basically medicine': Neurologist cites study by Japan researchers on how cult - The Times of India",
-      "published": "2026-07-20T07:58:00+00:00",
-      "summary": "'Your Friday movie night is basically medicine': Neurologist cites study by Japan researchers on how cult&nbsp;&nbsp;The Times of IndiaCould That Museum Visit Help You Live Longer?&nbsp;&nbsp;WSJGoing to the movies or a concert frequently? Your body might be ageing slower, says new study&nbsp;&nbsp;FirstpostCan museum visits and concerts keep you young? What a new study suggests&nbsp;&nbsp;India TodayNew study suggests one must keep going to cinemas and concerts — here's why&nbsp;&nbsp;Deccan He",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWHI2a2tMdkE1TnVidi1ZZVZpWks0MzgySkpfWFJHWm04YkgyY1pTNEMyS0h1blNWd2hLb0tLN1RiNGJrTU9aekJDcGNVckplck9IdzVKVTFMN1VYVjJOdU1aSkdXU0R3QUNUcUUzX2QzLTQyM1cwaC1BR2hDRUtfQmZfNXd2MVlRakxEU29NOUJvbWVCOEtINDBmT19iNk9IdmxjbUJMa1YwcTdWcGxwMGswam1ESkRUcjI5NUQ4VVpOTF84U0JxSy0wZEExYmI1V0tSVFJ2N2ZyelB5Yy13VTMtZ3htUGREZTJDdjVURE9GY2VTcnJ3NTBkLTZfMFk1YUhnVUpIbGxmNEZCNXdscGRLZ1_SAZoCQVVfeXFMTzdoa0xOOURfLTBVRkxoUGtQWHpUdnp2ZGJJTVZGTTVMV3F4U2M0dWxVMllibm1MT24tZk9FUERMdEdDeWVkYV9jOVlfZlhHeGVXMUlPejBZVnJNdTFKc25PSktVYmFmQ041bnFSY2xRR1FxNGhBS1JNMWdvcUFYckVPSjJrdFBJa1liZ1JyejhBa1M0QWk0SWF6eVItMVNyZjdWVTkzNUxCUnJFOWRvbTE1LWctZG9lTDNOanVwSDFvM2pnTXdfWEJPMlVhNFJtSlplMWZyVjVnbXdMd2dPZG1fVVVZRkV6MHBUMTlRSjJjUzdTSEZndzRyME9lNXJ6RGZVSnZpTGdaZlRYTWE1M0N0eWxTRWJFZmZB?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lOFRzbXdzd1djSEtjeVJTMFZoZVlqZFJabzU2c0RTSEtubUtLTTFLMGx6eVZxVDFPN1l6aEN2OW5vM2JXU1Z5NHJiZWs4RFB6RS1fNVljOERlSWgtWjJn?oc=5"
         }
       ]
     },
@@ -249,7 +441,7 @@
       "id": "dc912097d59f",
       "title": "Takeda dengue vaccine Qdenga wins marketing approval in India - ETPharma.com",
       "published": "2026-07-20T07:44:13+00:00",
-      "summary": "Takeda dengue vaccine Qdenga wins marketing approval in India&nbsp;&nbsp;ETPharma.comIndia approves first dengue vaccine for individuals aged 4 to 60 years&nbsp;&nbsp;The HinduJapanese drugmaker Takeda's QDENGA becomes first dengue vaccine approved in India&nbsp;&nbsp;ReutersTakeda Biopharmaceuticals gets DCGI nod for dengue vaccine QDENGA&nbsp;&nbsp;The Economic TimesIndia Gets Its First Dengue Vaccine, QDENGA: Effectiveness, Doses, Eligibility Explained&nbsp;&nbsp;NDTV",
+      "summary": "Takeda dengue vaccine Qdenga wins marketing approval in India&nbsp;&nbsp;ETPharma.comIndia approves first dengue vaccine for individuals aged 4 to 60 years&nbsp;&nbsp;The HinduJapanese drugmaker Takeda's Qdenga becomes first dengue vaccine approved in India&nbsp;&nbsp;ReutersCity-based pvt varsity conducted dengue vaccine’s chemical trial&nbsp;&nbsp;The Times of IndiaTakeda Biopharmaceuticals gets DCGI nod for dengue vaccine QDENGA&nbsp;&nbsp;The Economic Times",
       "sources": [
         {
           "name": "ETPharma.com",
@@ -270,14 +462,14 @@
       ]
     },
     {
-      "id": "c555b506cdfb",
-      "title": "Why India's Multi-Strain Dengue Outbreaks Are Dangerous - NDTV",
-      "published": "2026-07-20T07:02:52+00:00",
-      "summary": "Why India's Multi-Strain Dengue Outbreaks Are Dangerous&nbsp;&nbsp;NDTVClimate change is shaking up waterborne disease risks, warn scientists&nbsp;&nbsp;The Times of IndiaWaterborne diseases are shifting in a warming world&nbsp;&nbsp;Earth.comNDTV Lifeline X Climate Change: Why Is Dengue Difficult To Diagnose Initially?&nbsp;&nbsp;NDTVStudy Warns Climate Change Could Increase Waterborne Disease Risk&nbsp;&nbsp;The Indian Practitioner",
+      "id": "ce7bc56a782a",
+      "title": "Climate-only Lens on Alternative Proteins Risks Worsening Micronutrient Deficiencies - EIN Presswire",
+      "published": "2026-07-20T07:08:00+00:00",
+      "summary": "Climate-only Lens on Alternative Proteins Risks Worsening Micronutrient Deficiencies&nbsp;&nbsp;EIN Presswire",
       "sources": [
         {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWUFxbUgyY2V5VEFkdXZnWm9sUlgtWUZmZ1JaNURPcmx1dElOMDEzZE4zUGxqSWo5QUFkSmw4LThHTjVfRXZiWU9PQjBDQnM4MG1xMTZUdHdCVlRPMWh4NENnbXJNbXVoVzJ4TlJTSjQwRjRES3g2N3psX0V4TnFqVGpQaTRRbVB1T1F6aFExQXlfMzJKY2xidlBSWHJqUFgtcHYtOG03czEzWTNHc0hNNmk1bUtLTFM1Y3Rv?oc=5"
+          "name": "EIN Presswire",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR3Bna2hSTmplYzl1MjJHU2dmOW04RG5GVG42dHpOdHFhUGNIQUNKLVpkZzJzWXhDRFpIcTg1dERxNTVmUmM4VlN4XzFQMzUzR2dEY0NHYWpTRmpxc1pUMjNCMHJYXzdzaFlSR18yVUpSWFQ1a0ItNHVXcG91Vk1sdEVsdmFOMXpTZFc5YUIzUmpFaU8xeGdhb096Z0pTbDBRd1Q2LTFSSVI4czlVTE0tZG1rNmxlbS00V2hNN3NQNXpTcHNDeFNjQWRaTQ?oc=5"
         }
       ]
     },
@@ -378,38 +570,50 @@
       ]
     },
     {
-      "id": "32ddac87b697",
-      "title": "Cardiac Troponin Elevation Beyond Type 1 Myocardial Infarction: A Systematic Review of Prognostic Significance and Cardiovascular Risk Stratification - Cureus",
-      "published": "2026-07-20T02:53:32+00:00",
-      "summary": "Cardiac Troponin Elevation Beyond Type 1 Myocardial Infarction: A Systematic Review of Prognostic Significance and Cardiovascular Risk Stratification&nbsp;&nbsp;Cureus",
+      "id": "8db0a139a190",
+      "title": "New Cancer Cases Predicted to Increase to 34.4 Million by 2050 - Optometry Advisor",
+      "published": "2026-07-20T04:00:00+00:00",
+      "summary": "New Cancer Cases Predicted to Increase to 34.4 Million by 2050&nbsp;&nbsp;Optometry AdvisorSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNQk5lUHBLYTVlMkVncFBrNE5HRXprUWV6TGpuZlpFVkFteWl2Y2x5VGVyZXZYYmFVSFlkcDZTOFowaXhGLXduVEV2d0VnM05QVmg3bUczLWJWM3RiWTk1c1puWm8weXhwQjd0MndpdDhsTXZJXy1iRllDU2IxR0JDdXIxc1BGWHBXNkZGUFhZbGliSUM0UnVGTTViUUwyenctZFRMbnJSXzVLclJJd1hCREZHM1FLaTZ2QWxXUnNIcjJ0SkcwS2d1dkEwZ01qYlNXQS1fRzhzSUM2RDc1T1FHWlVwbjQ2ZmZMMzhEdHY2bmxrQW94ZnVZRDg5eUxCSnJjelYxMDhzQUU4QjVJTmtaVTNGZ2lEUQ?oc=5"
+          "name": "Optometry Advisor",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNG9VZm5ydUVzRXg5VmJveE1PMDZVTk84Y2F6czRuMXpzeTExdTh6Rm5hSEgyc0tnRi1FWTlJYnJzV0pPVzIxMml4VWJQZzVnbUtFZGNmMkFxdVY1c0NDUjk1Q2lITEFRQmtVbC0yWXFOelpLMjJIYkJUdS1mR1JjcUVBVm5OSnYxRHZiR243U1BkMW1fMGhZQ19DWDgwTmlVUUhN?oc=5"
         }
       ]
     },
     {
-      "id": "ab021ce87fd0",
-      "title": "Nearly 9 in 10 Indian Adults Have Abnormal Blood Lipids: Landmark ICMR-INDIAB Study Raises Urgent Alarm on Cardiovascular Risk - drugscontrol.org",
-      "published": "2026-07-20T02:50:26+00:00",
-      "summary": "Nearly 9 in 10 Indian Adults Have Abnormal Blood Lipids: Landmark ICMR-INDIAB Study Raises Urgent Alarm on Cardiovascular Risk&nbsp;&nbsp;drugscontrol.orgIndia's Cholesterol Crisis: 9 In 10 Adults Have Abnormal Blood Lipids, ICMR Study Reveals&nbsp;&nbsp;NDTVLow good cholesterol biggest driver of India’s lipid crisis&nbsp;&nbsp;India TodayICMR study says nearly 9 in 10 adults have abnormal blood lipids&nbsp;&nbsp;Deccan HeraldIndia’s bad cholesterol crisis: ICMR study says nearly 9 in 10 adults ",
+      "id": "62be99bf1604",
+      "title": "Review Shows Most Obesity Drugs Do Not Aid Quality of Life, Heart Health - Medical Professionals Reference",
+      "published": "2026-07-20T04:00:00+00:00",
+      "summary": "Review Shows Most Obesity Drugs Do Not Aid Quality of Life, Heart Health&nbsp;&nbsp;Medical Professionals ReferenceNFHS-6: Rising Obesity in India Signals Urgent Public Health Challenge&nbsp;&nbsp;Daily PioneerThe hidden cost of weight-loss drugs: Muscle and bone loss&nbsp;&nbsp;YnetnewsWhy do Ozempic and Mounjaro work for some people but not others?&nbsp;&nbsp;The Indian ExpressMajor review finds weight loss drugs fail to boost life quality&nbsp;&nbsp;MSN",
       "sources": [
         {
-          "name": "drugscontrol.org",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRSkd0M3B2T3A2eXNwa0ZkNDQ2WGtLMGxpTkNyZU9ZbGNpX28zakd0MTdqcE53dzVMbnE2WnAtU09OQldDNHdmY2dJV3c0WUI5aHVEY3J1QjE3amViRWRFQm4yRQ?oc=5"
+          "name": "Medical Professionals Reference",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclAxUDFrdGprVEFEVl9DNVBBLU52UkxZVlNnb3JyWWMzVWJqTkt4OVA2YlhqTzFuNmVVTXJseHVPbWx2WUNPZUhLbzlvbkUyUnZaM1V2U1hudjE4VkZVWHhwMWp5a1NnUnVHamlxTVAyZlJJMWlMWUdyN2E2Ui1Sa0FsY0p3WDVoei1GZHlKcEVVU0hhYy14d0dvakNITEU?oc=5"
         }
       ]
     },
     {
-      "id": "c9fc010244b5",
-      "title": "Self-healing underwater electronic skin senses damage without external power - News-Medical",
-      "published": "2026-07-20T02:47:00+00:00",
-      "summary": "Self-healing underwater electronic skin senses damage without external power&nbsp;&nbsp;News-Medical",
+      "id": "f80c9bd83d2f",
+      "title": "Excessive TV Watching In Midlife May Shrink Brain Areas Essential For Memory, Study Finds - Health and Me",
+      "published": "2026-07-20T03:30:00+00:00",
+      "summary": "Excessive TV Watching In Midlife May Shrink Brain Areas Essential For Memory, Study Finds&nbsp;&nbsp;Health and MeHeavy TV watching associated with smaller brain structures, study finds&nbsp;&nbsp;Medical XpressTurns out Mom was right: Watching too much TV may be shrinking your brain, says study&nbsp;&nbsp;The Times of IndiaBrain scans reveal the hidden neurological cost of passive TV watching&nbsp;&nbsp;PsyPostScientists say one everyday habit may be quietly shrinking your brain&nbsp;&nbsp;Fast",
+      "sources": [
+        {
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR1lrbmY5M0JEZ2FCUjliVWMzekZSQUZwQzZwVk8ydW4wR1Y3cEREc3lIaDdibDVzZUlkUW5WcXVzZDlURXlEM0Qwc3BpQjNCZXpwbUZ1U2pPT1FocUdmeENKcVptY1llZGNVbEo0WWtaWGIwM0txNVVGNEtZMmpDT1c2Y2J1UVpWSzF1VGROTzBJc0ZfYTRQR3BKTUZycllBdWQ1bkt3di1zb2V2cnFTQUd5RUx1U0lYWFRfRW1TcVRxQjJONVhmaDdIZzNUX2FJTkVGWWsxS1RqT0pQY3kw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8eb8bf88093d",
+      "title": "Study identifies immune response causing severe COVID-19 susceptibility - News-Medical",
+      "published": "2026-07-20T03:07:00+00:00",
+      "summary": "Study identifies immune response causing severe COVID-19 susceptibility&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLTMzd2pqblBsRjVydXVUTUhwRUU2OTk5eXFmdV9BbnM4WWRJXy1xM0U2clpBRXhBVkpqNDNWTW9yRFJQNTIwa0tMWElTSTQxWkM3d1d6MDZCNC1HUEd2R0JOQ1gzVUFBVE81R3R1YXBxV3hzbWdGbUUwc3A3Q3Y0Q3ZTUlBkZGRYVkJacVdZSkhaMVZTNVhsMkNIQmVOVHZfa3o1YUlMS1RNRXFtTGVuZzhqdlB5em5KdGpZU3V1OXpRQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb0tWOEUxU1lJQ0luX2JQLTN4VjBZMWVDREtnSEc4WjJqVmNvNlBpclNJOVJQTWFLLVlhZm14QWZfMkVERHF3aHREeGN3LWl0cFZsX1V5YXhOT0RhNno2dGxKTThyVU82U2xVbmR4UjBIOThfWlJxR1RsM2FlS21YQzVWNFFyM1pPdTRLRjNScXpRNkRYbjFrRktnejJuSE1wQ2RtRXBEWl9KSjRHckdaMkYyVWl6bkFQZElz?oc=5"
         }
       ]
     },
@@ -486,18 +690,6 @@
       ]
     },
     {
-      "id": "a8d326418d4b",
-      "title": "Heavy TV watching associated with smaller brain structures, study finds - Medical Xpress",
-      "published": "2026-07-19T18:00:01+00:00",
-      "summary": "Heavy TV watching associated with smaller brain structures, study finds&nbsp;&nbsp;Medical XpressTurns out Mom was right: Watching too much TV may be shrinking your brain, says study&nbsp;&nbsp;The Times of IndiaBrain scans reveal the hidden neurological cost of passive TV watching&nbsp;&nbsp;PsyPostWatching too much TV is linked to changes in the brain&nbsp;&nbsp;Earth.comExcessive TV Watching In Midlife May Shrink Brain Areas Essential For Memory, Study Finds&nbsp;&nbsp;Health and Me",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvTGY3SGtxQXJ5cjhBdE4zTVpGNnF0aWFmTnRhc2FqcGtweHI5V3lUdGcwbDRTdWFNdUM5eTFIZU1HTGxNMzJ4eG1FLXRyWmxDcmxJT1dXamRUZkhVQ3VLOGNaY0RqdVgyaTNSNTE3dVZwLXNk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a7f3ee5f2079",
       "title": "Scientists used children’s ‘silly sprinklers’ to solve a physics problem Richard Feynman could not; the r - The Times of India",
       "published": "2026-07-19T17:27:00+00:00",
@@ -513,7 +705,7 @@
       "id": "ae800a7f2218",
       "title": "Scientists studied how animals survive winter and found fruit flies rebuild their biological clock into a - The Times of India",
       "published": "2026-07-19T17:00:00+00:00",
-      "summary": "Scientists studied how animals survive winter and found fruit flies rebuild their biological clock into a&nbsp;&nbsp;The Times of IndiaHow One Gene Locks Fruit Flies Into Winter Mode, Even When It’s Warm&nbsp;&nbsp;StudyFindsAnimals have a genetic switch that puts them in winter mode&nbsp;&nbsp;Earth.comStudy reveals a winter version of the biological clock&nbsp;&nbsp;WSU Insider",
+      "summary": "Scientists studied how animals survive winter and found fruit flies rebuild their biological clock into a&nbsp;&nbsp;The Times of IndiaHow Fruit Flies Tell What Time of Year It Is Without a Calendar&nbsp;&nbsp;NautilusSingle Gene May Serve As Internal ‘Clock’ Animals Turn On During Winter&nbsp;&nbsp;StudyFindsAnimals have a genetic switch that puts them in winter mode&nbsp;&nbsp;Earth.comStudy reveals a winter version of the biological clock&nbsp;&nbsp;WSU Insider",
       "sources": [
         {
           "name": "The Times of India",
@@ -525,7 +717,7 @@
       "id": "1503d22949d5",
       "title": "FCC approves giant space mirror as astronomers warn of risks to the night sky - The Brighter Side of News",
       "published": "2026-07-19T16:00:00+00:00",
-      "summary": "FCC approves giant space mirror as astronomers warn of risks to the night sky&nbsp;&nbsp;The Brighter Side of NewsUS approves deployment of giant space mirror to illuminate Earth after dark&nbsp;&nbsp;DezeenThe US Approves Launch of Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night&nbsp;&nbsp;WIREDReflect Orbital readies for first on-orbit demo of shining sunlight at night&nbsp;&nbsp;Aerospace AmericaFCC approves first launch for space reflector constellation&nbsp;&nbs",
+      "summary": "FCC approves giant space mirror as astronomers warn of risks to the night sky&nbsp;&nbsp;The Brighter Side of NewsUS Approves Gigantic Satellite Mirror That Will Illuminate the Earth at Night&nbsp;&nbsp;PetaPixelUS approves deployment of giant space mirror to illuminate Earth after dark&nbsp;&nbsp;DezeenReflect Orbital readies for first on-orbit demo of shining sunlight at night&nbsp;&nbsp;Aerospace AmericaFCC approves first launch for space reflector constellation&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "The Brighter Side of News",
@@ -537,7 +729,7 @@
       "id": "5ff4ae2ff1b9",
       "title": "Robot doesn't perform the surgery: Cardiac surgeon debunks the biggest myths around robotic heart surgery - The Times of India",
       "published": "2026-07-19T12:22:00+00:00",
-      "summary": "Robot doesn't perform the surgery: Cardiac surgeon debunks the biggest myths around robotic heart surgery&nbsp;&nbsp;The Times of IndiaSurgery and the limits of the robotic ideal&nbsp;&nbsp;Engelsberg Ideas",
+      "summary": "Robot doesn't perform the surgery: Cardiac surgeon debunks the biggest myths around robotic heart surgery&nbsp;&nbsp;The Times of IndiaSurgery and the limits of the robotic ideal&nbsp;&nbsp;Engelsberg IdeasAI Won't Replace Surgeons, But It Is Making Surgery Smarter, Safer And More Precise&nbsp;&nbsp;ETV Bharat",
       "sources": [
         {
           "name": "The Times of India",
@@ -546,14 +738,14 @@
       ]
     },
     {
-      "id": "95204e40d365",
-      "title": "Scientists Studying Earth's Flowering Plants Issue a Stark Warning to Humanity - ScienceAlert",
-      "published": "2026-07-19T12:02:37+00:00",
-      "summary": "Scientists Studying Earth's Flowering Plants Issue a Stark Warning to Humanity&nbsp;&nbsp;ScienceAlert",
+      "id": "7c9ab40694bf",
+      "title": "Serum REG3α Enhances Ulcerative Colitis Disease Activity Detection - EMJ",
+      "published": "2026-07-19T12:02:26+00:00",
+      "summary": "Serum REG3α Enhances Ulcerative Colitis Disease Activity Detection&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPclNtNWNPb2JfSnVYMC04MVg4aTRWUU1ncUdaVTQ2LVlhTFZWSzQ4RnAyU0lpcG5GQllKdzB0QUFrbUFObzhlOEVKckFCZTlxOGtzZWtuSkVVNnlwRTk2S004emVxeWJfLWdFQVQ5aEpqeWdiSFgxZklhVXpScDFRYjg2UnoyeGZfVm1RaGFLMUVITS1TX1o0Mko3cU82dy1RYW9GYzJoOFN5dw?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkh2b3RuNlRoSkhjVlNaWU9UdUxJemdLSUNQb2VxQUlXTVdjWGdWLUVKeHNiZWNKWi1MTUNmb3UzREdRR3FJSzlHQkY2YTNLYXNtWVVLdmxQWXVMTVhDQjBVWEs0MlpPTTgwVmxyT0V5bk9KWWJESVVSbnY0MFlDUXU3MUlBUm9ZeFJHVWRWLUpiaDdsNllfWWRMbDcyUmRzb3FaLVM4UTFJdzhiVDZxeTY4V00zMXVSN3Z5RVV3?oc=5"
         }
       ]
     },
@@ -573,7 +765,7 @@
       "id": "abb02d5fbe72",
       "title": "James Webb Space Telescope discovers how black holes feed themselves - Space",
       "published": "2026-07-19T12:00:00+00:00",
-      "summary": "James Webb Space Telescope discovers how black holes feed themselves&nbsp;&nbsp;SpaceNASA’s James Webb catches a supermassive black hole feeding&nbsp;&nbsp;ScienceDailyJWST shows supermassive black holes recycle gas, curb star formation&nbsp;&nbsp;NewsBytesUK researcher helps solve longstanding black hole mystery&nbsp;&nbsp;UKNowJames Webb Telescope reveals clue about supermassive black holes&nbsp;&nbsp;Minute Mirror",
+      "summary": "James Webb Space Telescope discovers how black holes feed themselves&nbsp;&nbsp;SpaceNASA’s James Webb catches a supermassive black hole feeding&nbsp;&nbsp;ScienceDailyJWST captures black hole recycling its own fuel&nbsp;&nbsp;MSNUK researcher helps solve longstanding black hole mystery&nbsp;&nbsp;UKNowJWST Solves Decades-Old Puzzle: Magnetic Gas Rivers Refuel Black Holes&nbsp;&nbsp;Tech Times",
       "sources": [
         {
           "name": "Space",
@@ -582,14 +774,26 @@
       ]
     },
     {
-      "id": "c19798a29c46",
-      "title": "Your Smartphone Is Changing Your Body. Doctors Say Most People Don't Know It's Happening - inc.com",
-      "published": "2026-07-19T11:02:36+00:00",
-      "summary": "Your Smartphone Is Changing Your Body. Doctors Say Most People Don't Know It's Happening&nbsp;&nbsp;inc.comTech neck in kids: UAE doctors warn against excessive screen time over summer holidays&nbsp;&nbsp;Khaleej Times9 Posture Mistakes You Are Making While Scrolling On The Couch&nbsp;&nbsp;femina.inYour smartphone could be damaging your body: 6 Health problems linked to excessive screen time&nbsp;&nbsp;India TV News",
+      "id": "fdb41e57d8a7",
+      "title": "Kaposi Sarcoma Risk in People with HIV Linked to MAVS Gene Variant - EMJ",
+      "published": "2026-07-19T11:02:23+00:00",
+      "summary": "Kaposi Sarcoma Risk in People with HIV Linked to MAVS Gene Variant&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "inc.com",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb2Nya3Z3X1RMcjJUVkMxR0lXcC1WbTFjUGxYbksxcFhCRkdsMWduQ0tvNlptNGtjNktIWnBvWjI0NDB6Nnl4Zm5sQUFyb1JHMVBBMUtBdW9OTERFZE5CcXc2blBXVGZRUV9FajV6aTBLYmoxRXYtVnA2WW5VeE5uWi1HY2lXbS0xbEdnWks2VFlIVDRSengtR3BwRkRzcVliSHNndzRBeXkzaUx2SnBiQUJIOXJEcmlOZF9DR2tn?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWRUdFJyMHFtYjVQWXk1aXVmQUk1V1VjbHFZOFAwMWt0V3AxbFFEMzlxLWxkZk5Ja2VhTHFxWkRBTVIxQl94SVR3TERlaGxrVGVQc1BEYXNEazQ3MzR5QzAxVkREUWluS2djVXZQYW9waFhGZFBmdmE3eWgweEc2OHJTZmlVYnVpbXNBbVk0cWdEQVdTNEVReXkzTmRybHc1TkhXdkRGbHMyMXFS?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e331d32991b5",
+      "title": "Two Outbreaks Reveal a Dangerous Double Standard in Global Health - Contagion Live",
+      "published": "2026-07-19T10:29:29+00:00",
+      "summary": "Two Outbreaks Reveal a Dangerous Double Standard in Global Health&nbsp;&nbsp;Contagion LiveHantavirus and Ebola scares reveal cracks in public health messaging, infectious diseases experts warn&nbsp;&nbsp;Labmate OnlineIs It Too Risky to Travel Internationally?&nbsp;&nbsp;Right as Rain by UW MedicineViruses do not respect borders. An expert explains how the world should prepare for their outbreaks&nbsp;&nbsp;The Indian Express",
+      "sources": [
+        {
+          "name": "Contagion Live",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcHRydmNDZi0zaXV3TWhwVlF6em1GeDFjUnk1Tjc3TW15eW1GcU1jckdtamlvQXI2SnhieENBYTByS21uX1FRR3dPMXQ5U2d6UmxTLUVwZjJPQ19HdGdTcG5hLVdFUmhoaHpwY2syM1VyT1lxaWx2b1U5WVZiVnNvZzZJakNnS2hqNmM2VUd6MUZwRzBDTmQzWWNUbWQ2OVE2Q2c?oc=5"
         }
       ]
     },
@@ -606,18 +810,6 @@
       ]
     },
     {
-      "id": "b4dbc1005341",
-      "title": "Scientists told them, 'No, it's too dangerous,' but they did it anyway: Inside Japan's super-close asteroid flyby - Space",
-      "published": "2026-07-19T10:00:00+00:00",
-      "summary": "Scientists told them, 'No, it's too dangerous,' but they did it anyway: Inside Japan's super-close asteroid flyby&nbsp;&nbsp;SpaceHayabusa2 Executes Risky July 5 Asteroid Flyby, Space Brief 20 Jul 2026&nbsp;&nbsp;KeepTrackJersey Skies: Two asteroid flybys&nbsp;&nbsp;Jersey's BestHayabusa2’s Next Target Is A Tiny 11 Meter Asteroid&nbsp;&nbsp;Hackaday",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdndFMFhDbVEwUktBVnhhS3BnRl8yX0xjU3B5MkJVVXVSQ1pYSmNHSFRTLXVrRnc1M0RJUGxzSXNiSm51V0RPOHNmdG00UkRIUFE4VEJzc0lGb3h2NVczUkdITnN2cUx4MUxkakp0b21HMTdJbVlZUVJYeml5dlktTGFFZEhxWS00N0g0YmgwVFVzd1VKRG02eW1MdTB5NVgwYkNlNml2WFBERHBuU012Zkp2VjduY2x3UW82SVpVR3lSR1VlSEY4eHFzak12eVlncHI3SDc1ZzZjN0J2SFM5N3IxTnNTUUVxd2VRQmNhYUJKSHJnZWRXa3pXZjFuQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c38536d27666",
       "title": "Scientists are regrowing human teeth - BBC",
       "published": "2026-07-19T09:01:48+00:00",
@@ -630,26 +822,14 @@
       ]
     },
     {
-      "id": "b250aa3090ae",
-      "title": "WHO's alarming cancer warning: 1 in 5 people will get the disease - theweek.in",
-      "published": "2026-07-19T07:39:53+00:00",
-      "summary": "WHO's alarming cancer warning: 1 in 5 people will get the disease&nbsp;&nbsp;theweek.inPatents should not put cancer care out of reach&nbsp;&nbsp;The Indian ExpressOpinion: Among causes of death, non-communicable diseases like cancer are outmuscling infectious ones&nbsp;&nbsp;The Globe and MailWHO warns cancer cases may rise 70% by 2050 on lifestyle and pollution risks&nbsp;&nbsp;financialexpress.comNew Cancer Cases Predicted to Increase to 34.4 Million by 2050&nbsp;&nbsp;Renal and Urology News",
+      "id": "d4d5813538d8",
+      "title": "Multiparametric MRI Shows Promise in Breast Cancer Subtyping - EMJ",
+      "published": "2026-07-19T08:01:33+00:00",
+      "summary": "Multiparametric MRI Shows Promise in Breast Cancer Subtyping&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "theweek.in",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlRIYUFmMWJwdDJUUTZpaXUyQ0dTTWItQVFCVjJjQmc0WlU0Z2NmZERxalhLTnlwenlnN3dUTGh3NVlXZjVLWUxLcFliOXJmUFJGSEc3RXdaUnlPVFJUdEFMNjRDLXZzMi1DbHd6V1FIWGtLX1V5MTN3N05vVTVVZ3JUWmJzdzRyQU9NeGxDVUFXWTV4STRaNUdHd1lNanR4N1QzZm1NaGc2NTg4a0ZLb0Q3cUvSAboBQVVfeXFMTmFWYkdmQ1J2ZEdzS3gycW1jX0xyaHRGWjVmQTltZzZXam52eTg0bWFCeU1tT1VEMThoRmdUTmRuTjU5TnNETWJOMXJTdHI4Y1BKbjdsRUJBWUlvV1hkRE1IanpWQ3I1YVBta2lLSE5OWGtkNXlaWWNoRkxabUN2Z0RQYkdfLUJCRzZCSVpJbmw5Qkt5NGVxRWRvbXBfXzBBaGtKemlUUDRNWWc2NmMtOEJjOFZIbi1IN2dB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "14054c2973db",
-      "title": "Oxford launches world's first human trial of Bundibugyo ebola vaccine - Indian Pharma Post",
-      "published": "2026-07-19T07:03:53+00:00",
-      "summary": "Oxford launches world's first human trial of Bundibugyo ebola vaccine&nbsp;&nbsp;Indian Pharma PostHuman trials of new Ebola vaccine set to begin in UK&nbsp;&nbsp;Sky NewsCEPI-backed Bundibugyo ebolavirus vaccine trial launched by Oxford Vaccine Group&nbsp;&nbsp;CEPIHealth Workers May Get Experimental Ebola Vaccine Strategy as Outbreak Grows&nbsp;&nbsp;Bloomberg.comNewshour | UK begins trials of Ebola vaccine as outbreak in DRC intensifies&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "Indian Pharma Post",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1dWMDhrZDc2QV9JZWNGbUtnYTVBbHFJZ1V3RFFfWVNMR0RQWktIS0hBVXJZX2dOVllCMEt6WE5SbEZnLVVMNjF3MG8yOURpeXQ4SWk1eXZQamx1YjRzWVl6TmRSQ2xTREcyZDF0U2prY2hyYWpFT3g5aDRkaVBKdkgxSU5PX0JPaVd4UTR5Z2w4QVpKTzhUTzJLMzIwQm9pLWJQd1RLM055cGYtQnc3WU9Wa1hxV2xpSFpDVVllRlbSAccBQVVfeXFMTjJXdDl0S0ZBTndHWm90ZkpvZlpnX19fTWgxdFByNEtpRDVVN2hsQ1NweGlERG5RZk1mMkMtby1HUnZfMzZQWWdnN0kwNXFvS2xpV25SWFZsSVlDUW83X3B2YUx3RmxZempWd1pHVk91SmQzZnlfamRFV1hjeWhUbGNyNDNZSVhNazJfMVp2RkJDaGFOLTBFTC1ram8tWVBlNmtabUJsdFFyQm9ic0R5d0trY0hqNzhpdFk3RDkzd0NhVTJvU2M0aw?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTUE2NThmVWJKbDMzX2YyaWRRYWEwQnMtZEpUX3ZocWwzTEY5aGRwbTFDUmJ3SzVIZUk4U0NwQmdwNlBRbWVtU0dtV090anMyS1YyQjhRbFJPMmprTjF1X1o4X3dPbm43T0ZRc3ViU3U2ZTlIbW8wR3VqdkpPNXlob1lDMkFlM1ZtVFE3aENkeXhQQ25vTHhGa2NYV2plWktialp2cUp3?oc=5"
         }
       ]
     },
@@ -662,18 +842,6 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNNldyQW84dThTMVVibUcyemJhZU1PX3FQRnNMaVN4cTZneDNuN094Q1ljOXVHdVkwYW5Ga1o5ZU9FS0w4UzJmM3Q2MWlZTjdlTDBzWGk3VmNuTFBMSHV0WThzSFFGb2t1dHkyVkptNkJnZVlhLUNKN3p0a3h1SlpyUHowWGQ2TDZWc1otQk5Va3Y4emtJTG1PdWszZ3R0RktIbzRJOHNzc2UzRWxEaGhZWWtfZ1NBeGFrUUpfU21mZ3lUS09CYllmY212Y0VYX3l4OWxLeVM2U1dCdFZITExmX1hYdC1HdVF0cVAwMTJNYW1uQWlnZ0tZaFVrZHl3dGd0cjBrOWw2ZnN4VlVxYUFPcmN1dm1SempXTnJJT1htRdIBpAJBVV95cUxNTGVmcmVMLXV0Mmk3MU1NTFRQcXNqci00Q0x3Q0ZvaldGMXJUbGhfS0x2RWlCR1NwaVB1dTV5TVlxNHZfNHRyWGNGNTh4R3BUSDlQUXUyaTk4aHd4UEw0azkxLVBDTUpSR0xDZWRhSWR3M29lNEN2dHVmaXgyUnBxdUM2NDF1SHRsZ1M2ZUxUNmpsYkhQWkIxOFVrTEFPbzliOExPTURSZVpFbl83RjVIT1BUVi10b1FySWlRMXo4RnJSR04tWjFYYjg1bzNDMGJSQ1o2MjVScWJkNnRoN2RyV3ZQX2RrNUxGUGlGX09WYldSOVNoY1BDNDBTS09valJSN0RZc1FoWnVXQllEbGxVRlFsZlZBVnotMUxaYk8wbkd6T3lh?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c9ce228f9977",
-      "title": "Geologists have taught for decades that rivers needed plants to form their distinctive S-shaped meanders, but Stanford University researchers published a study in August 2025 showing that rivers were carving those curves long before vegetation existed on la - Space Daily",
-      "published": "2026-07-19T05:30:51+00:00",
-      "summary": "Geologists have taught for decades that rivers needed plants to form their distinctive S-shaped meanders, but Stanford University researchers published a study in August 2025 showing that rivers were carving those curves long before vegetation existed on la&nbsp;&nbsp;Space Daily",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44blRuc0kwNEhTaGpCcG9HSVMxTktKQW9tWUNxbzZwVUtvUEc2XzJqNkl1cUhlUEctalNQaEVGM3lUZnFnUXdOaVh6ZWIzY1dacUhBZ2Q2dDRIRW14bzlCdlpNSFctano2R1FJZjdrXzVqU0FJRlI2eWRGNWdtRlk?oc=5"
         }
       ]
     },
@@ -705,7 +873,7 @@
       "id": "de990fc9ba6f",
       "title": "NASA Solves Mystery Of Near-Earth Object, Finds It Was A Hidden Comet - NDTV",
       "published": "2026-07-19T04:14:24+00:00",
-      "summary": "NASA Solves Mystery Of Near-Earth Object, Finds It Was A Hidden Comet&nbsp;&nbsp;NDTVNASA Study Finds Near-Earth Asteroid Is Actually Comet&nbsp;&nbsp;NASA (.gov)NASA discovers ‘asteroid’ near Earth is actually a hidden comet after decades of mystery&nbsp;&nbsp;The Times of IndiaNear-Earth asteroid not an asteroid at all&nbsp;&nbsp;Popular ScienceA near-Earth asteroid has revealed itself as a comet 27 years after its discovery in a NASA study&nbsp;&nbsp;starlust.org",
+      "summary": "NASA Solves Mystery Of Near-Earth Object, Finds It Was A Hidden Comet&nbsp;&nbsp;NDTVNASA Study Finds Near-Earth Asteroid Is Actually Comet&nbsp;&nbsp;NASA (.gov)NASA discovers ‘asteroid’ near Earth is actually a hidden comet after decades of mystery&nbsp;&nbsp;The Times of IndiaAn ‘Asteroid’ Tracked Since 1998 Made an Unexplained Orbital Shift—Now Astronomers Say It’s Something Far More Mysterious&nbsp;&nbsp;The DebriefA Dark Comet Was Hiding Right Under Our Noses And Got Just 2 Million Miles F",
       "sources": [
         {
           "name": "NDTV",
@@ -714,74 +882,14 @@
       ]
     },
     {
-      "id": "baf3cae3a5dc",
-      "title": "Prognostic significance of the hemoglobin glycation index in critically ill patients with and without diabetes: analysis of the MIMIC-IV database - Nature",
-      "published": "2026-07-19T03:00:59+00:00",
-      "summary": "Prognostic significance of the hemoglobin glycation index in critically ill patients with and without diabetes: analysis of the MIMIC-IV database&nbsp;&nbsp;Nature",
+      "id": "6f9fb378b1f9",
+      "title": "Cancer treatment leaves long-lasting effects on child survivors - Spectrum News",
+      "published": "2026-07-18T20:27:00+00:00",
+      "summary": "Cancer treatment leaves long-lasting effects on child survivors&nbsp;&nbsp;Spectrum NewsChildhood Cancer Treatment: Oncologist Explains The Long-Term Effects&nbsp;&nbsp;OnlymyhealthPediatric cancer: The balance of survivorship and long-term side effects&nbsp;&nbsp;KBIA",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16TVNjWHRKQjdhLThDczBMTVZ1V0JSYXJmVmVBaU1nVTBWZVN2WFYtbFdlRmdsMmxkSkZQd1E4bTJnTjBpbUc1NXduaHJZcUlwSjVGbjZ5YUNibXhNMDFZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5fb074c7b159",
-      "title": "Red blood cell-derived parameters as a potential tool in the differential diagnosis of parkinsonian syndromes - Nature",
-      "published": "2026-07-19T00:56:31+00:00",
-      "summary": "Red blood cell-derived parameters as a potential tool in the differential diagnosis of parkinsonian syndromes&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IVDNjUnExM2JJZk81X242eUJITFdkZV9pVWNSTkpZbVE3MHhpOTVpV3lJV0Q5VmdYR2gzZjFRaHVYWTB3SDR4MTNyNm9vRFJJVzRIb1VNVWpRcFN6RXVJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3fe514300592",
-      "title": "Choroidal thickness postural changes in healthy young adults - Nature",
-      "published": "2026-07-18T20:06:36+00:00",
-      "summary": "Choroidal thickness postural changes in healthy young adults&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2VzhXRWVxRm5sSG5NbTlOWndwQnFxSnpTWkVib1FIa2pyQUkyaTU4TGdMUGtHVlc2NV9QT3BmQUJhS3VrVXB6SzZ0RmQ5bzJfXzdHSzR4RnBHbXk5WlVJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57667650723f",
-      "title": "Visual fidelity–driven quality assessment of medical image translation - Nature",
-      "published": "2026-07-18T19:49:15+00:00",
-      "summary": "Visual fidelity–driven quality assessment of medical image translation&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IQmhfUzgzS0dwb0oxQnMxXzEzNnNyMVFzQ1Zxdkx1bUlUT2VobTE3S1RoSVozQ1Y0QlJ4a3FaQmdwRzVPd0NPN1ltTXZrbHpmOTM1d3l5ZXZmUU9obDk4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c189f0339abf",
-      "title": "One in Four Adults with Type 2 Diabetes Experiences Hearing Loss - EMJ",
-      "published": "2026-07-18T15:04:28+00:00",
-      "summary": "One in Four Adults with Type 2 Diabetes Experiences Hearing Loss&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV2xaNy1kQVRCX19uTXFmZFpUMzJSUkRsVFQtS3F5S1QzeGxHaDV3Z2NUbVIzNGZ6S05kM1pSbUZpTzlhVVhWZGdmY0dFb0hReHhUa0pNY3JnR2hBc1lHVjFCRDN3dGRIbnBTSDJITHVpWjFIVGFuMFAxZlVjWEd0dmhNWWYtYjVaaEFOZXc4ZmJwWlZ1TmxWRWU2a0hfS3hfakRaUF9RNHk3dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "557dfac7b937",
-      "title": "You may be ageing your brain without knowing it: Neurologists reveal how poor sleep and everyday habits could affect memory and cognitive health - The Times of India",
-      "published": "2026-07-18T14:34:20+00:00",
-      "summary": "You may be ageing your brain without knowing it: Neurologists reveal how poor sleep and everyday habits could affect memory and cognitive health&nbsp;&nbsp;The Times of IndiaPoor sleep alters brain communication networks differently across adult lifespan&nbsp;&nbsp;News-MedicalSleeping For Too Long Might Up Your Dementia Risk, Study Finds&nbsp;&nbsp;Yahoo News New ZealandWhy Poor Sleep May Affect Women's Brains Differently With Age&nbsp;&nbsp;MindBodyGreenNew Study Suggests Unexpected Link Betwe",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNQ0loMzFjRjBpSGt3SGZkMmJVV3FmNFBINF94VjVCbC1rOU5lbmM1Q1E4b3hpSmZRdzlsdXRJQmVVb3NzRmU5YXUwMWd3SkkzU0RQai1vOWZXcXhZcU5lSTFkZkJUekQ3aWF6eE1mWS1zRFdOTC1wSEtOODA1b2lHNjgxUElYUjZ5dnk2bGpxZmM3dTZBUHpWUjJQaTZmRHI3bGZObkN4Q015cDg0UWtUN3BZNzVvMTB1Uk5vaTRTcVBoU3ZqbnhuR3FndkZsaUdUaDctWkFIaEpWX3BrR2MwMHVYODIzSTBsMkx2cjFHSTNscUJzN0FsYXJ0SGpzZURIYkhrT2EwSE5kQWszekRoVE41ZllpSzBpbDYxNEJqZlc4MlBYRkVNa2lZbUQyNG42R29vSElR0gG-AkFVX3lxTE5uRHUxRnVIOURIZ2tZLVcza3RZQXRrYlU3eEthU2lxMThnZ2FuYTREalB0cXY3bC01ekRMOU9SeVRELWlGQU9mWmRBQjJGdHd1TnlIQ2tzOE9nNGV6MGotT1NSWnpKZnRURzJ4Q2VrbG95ajJfZTNEMnRJZUFyY05jUE5aWHBBSUl6NFAwemxJVVFTZXUtR2FJRVVfQ0t2aGt2ZU9uUkVYNkFoT1d2a0ZaWTdVSzdLT0FqNXZrWkU2MlNXaGhNbG9aY1ZBM3E2NWtEODhCOTI0N2k4Q0M0cGx6VWtVSTZPVnBLbVdwWGd5U1RMX25ZTTNLSEo1WW9TVkVZNnM5Zmk5U0RGaXItTnZ1Z3I3UEVmaVgySnk2M3R3TFprWHhfUEdjclE2MW93UXNnWE5HdWJ0dWtHblc3UQ?oc=5"
+          "name": "Spectrum News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTJrOUlVWk84dGZYeHVmUmRGVVRXLVN5bDcwSjRyeGVQSklrNkZSUTJoTmc1M2FUdF9sbHF3WHV1SE96NktSdEVJTWZVQ2p6ekVCSmFteUoyVzhWbzd3S182UjdSU0JNQ2laa3JiTmZzZnp5REdZX29GUkRQeUtwdzZ3dUZqalBDZ2VISnpUdzE4eDZqZUpXQjRjTUcwdk9ZZHJXRS1vbGs0X21MM19Kam5ocVE?oc=5"
         }
       ]
     }
