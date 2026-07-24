@@ -1,41 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-23T18:54:32.969138+00:00",
-  "count": 61,
+  "fetched_at": "2026-07-24T01:17:14.209467+00:00",
+  "count": 70,
   "news": [
     {
-      "id": "68ac6de09b16",
-      "title": "Emerging Challenges in Contemporary Maternity Care: Interview with Karen Joash - EMJ",
-      "published": "2026-07-23T14:01:26+00:00",
-      "summary": "Emerging Challenges in Contemporary Maternity Care: Interview with Karen Joash&nbsp;&nbsp;EMJ",
+      "id": "6318fc6edb0f",
+      "title": "What experts are saying as Ebola outbreak in Congo and Uganda kills more than 1,000 people - WPSD Local 6",
+      "published": "2026-07-23T23:31:00+00:00",
+      "summary": "What experts are saying as Ebola outbreak in Congo and Uganda kills more than 1,000 people&nbsp;&nbsp;WPSD Local 6Ebola Deaths Cross 1,000 In Congo: Why Experts Are Concerned&nbsp;&nbsp;NDTVBreaking News Live Updates: SIT takes former TDB president PS Prasanth into custody in Sabarimala gold loss case&nbsp;&nbsp;The Times of India‘We Will All Die From Ebola Here’: Virus Stalks Crowded Camps in Congo&nbsp;&nbsp;The New York TimesDR Congo sees early signs of Ebola stabilization&nbsp;&nbsp;China Da",
       "sources": [
         {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONkM0ckJ4NGNGREJ5Rlp2RVJHNXJxUHNyQUI1ZHhXb0sxSWFqYUV2b0s5WW5MSTFYVkx1SlFKRndoU1BjU2lHLXd1SDBSMno3TXpKOXlQUkVja05PbEdwak9UOC1PaTBLYXdGbENBZTd3U0FNdmxEajdTUnFHNUhoSjRRYy1oMHZlMUt1LVNiWHp6alE1WVVBU1pfa0k1aDVEMVA0RVowcXhtR0szTUQ1Yk5fcDBURUQ1NmRySEVHbkxGckI2YnMyRGE1N2Nldw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ade1f466d097",
-      "title": "By the Numbers: This year's Ebola outbreak has spread faster than the worst on record - Medical Xpress",
-      "published": "2026-07-23T17:50:01+00:00",
-      "summary": "By the Numbers: This year's Ebola outbreak has spread faster than the worst on record&nbsp;&nbsp;Medical XpressEbola Deaths Cross 1,000 In Congo: Why Experts Are Concerned&nbsp;&nbsp;NDTV‘We Will All Die From Ebola Here’: Virus Stalks Crowded Camps in Congo&nbsp;&nbsp;The New York TimesBreaking News Live Updates: SIT takes former TDB president PS Prasanth into custody in Sabarimala gold loss case&nbsp;&nbsp;The Times of IndiaWorld Insights: Fastest-ever Ebola outbreak tests global health respons",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdURSa2Y2OFo0RzE5ekVSNDhLekRKaFgxUVZGb1FzMHk2anNKemczak5ZRFg0T3VjWWFnV0puTTU1cXVlZ0lHY0JJU1F4WmRBZENQVTFkMllpREdPaHZOQjN6dDlZNmFBTWw1Nkp0ejdUWEdCdWxDTUgxUW5TaDZNMU13?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c19629d18c25",
-      "title": "World Sjögren's Day 2026: Theme, Significance, Early Symptoms And Effective Ways - Netmeds",
-      "published": "2026-07-23T04:39:12+00:00",
-      "summary": "World Sjögren's Day 2026: Theme, Significance, Early Symptoms And Effective Ways&nbsp;&nbsp;NetmedsMore Than Dry Eyes: The Many Faces of Sjögren’s Disease&nbsp;&nbsp;AmgenReducing Misdiagnosis in Patients With Sjögren Disease&nbsp;&nbsp;Rheumatology AdvisorGlobal campaign aims to raise awareness of Sjögren’s disease&nbsp;&nbsp;Sjogren's Disease NewsBridging the Gap in Sjögren's Disease: A Comprehensive Review of Unmet Needs, Diagnostic Challenges, and Emerging Therapeutic Strategies&nbsp;&nbsp;C",
-      "sources": [
-        {
-          "name": "Netmeds",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdFFPSGdaRHk0NWxIYjJJdndQbFJMQV92c3JuODVtejRfWFJkX1pzb0QxUzZqcFRIY1N1U25RRU85V3lIRHUyU0E4eDZ5Z0tVZTRtTlV5bXpudWx0cEtXOUZVUi1kNnU3M084Qkh4ajNFdy05SEViZGNfZll0V2FuVVMxck0xX0w2V2N6Z2NRY3hYaUxjV3dzU0w1VUxuX1RWWmJCWk8zQk13V0Z2YjRwZ0VNdHVSN3dhZFFQeHBoTG9mcWdYSkZtMGR1NjZKUGVkVGFfVGd0MkF6My12bnF0SGxnVHozNlJiZ3lEVTh3?oc=5"
+          "name": "WPSD Local 6",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMWcwY3BLRVNaUE9kOTZhYVA0eTgzMmlzTWRCU3I3Umxyb1VVZU5RalNQMThZT0lxY2lLbGx6NW1qVm1hZm9SRWZUVFJ4VnI4RVdSaEF3NGNGaVl0SnppZElSNzF6amlFTzV1WUpIbXlhUi16T0F0YlVCMG01SHZsOFU3OC0yQk5lem5HSE0tenV2ZGZEbnBnTkFHSXNYWmxWT0NsbTNGNUFLdU1LVlBxYl9LbnJlR1NSVjU0NGRoVGIxcW83UUtnazMydE5KdUI5ZmxsbDV0NjRYX193MXlBMkFzYlYzUlFNNHBCUGYzNU1qemM?oc=5"
         }
       ]
     },
@@ -52,14 +28,14 @@
       ]
     },
     {
-      "id": "441acc770808",
-      "title": "GLP-1 Use Linked to Breast Cancer Survival in Patients with Diabetes - EMJ",
-      "published": "2026-07-23T11:16:18+00:00",
-      "summary": "GLP-1 Use Linked to Breast Cancer Survival in Patients with Diabetes&nbsp;&nbsp;EMJ",
+      "id": "c19629d18c25",
+      "title": "World Sjögren's Day 2026: Theme, Significance, Early Symptoms And Effective Ways - Netmeds",
+      "published": "2026-07-23T04:39:12+00:00",
+      "summary": "World Sjögren's Day 2026: Theme, Significance, Early Symptoms And Effective Ways&nbsp;&nbsp;NetmedsMore Than Dry Eyes: The Many Faces of Sjögren’s Disease&nbsp;&nbsp;AmgenReducing Misdiagnosis in Patients With Sjögren Disease&nbsp;&nbsp;Rheumatology AdvisorGlobal campaign aims to raise awareness of Sjögren’s disease&nbsp;&nbsp;Sjogren's Disease NewsBridging the Gap in Sjögren's Disease: A Comprehensive Review of Unmet Needs, Diagnostic Challenges, and Emerging Therapeutic Strategies&nbsp;&nbsp;C",
       "sources": [
         {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzBVNGlYLVd5VTZLd1YzNlVPbWJYNnM2SUIwNjlTcEZ1M1ZqZ3V1SFVzZUJ3RE9PdjZ0aFhKY3Bicjd1eWNoX0NzRDV1bUVzQ000MnE2UEM5bTdxNzBxZlBuUjRxWEtGeVp2aGx5VFg2QXduZjlsNlJRM1NHWTZFU3NVWk5mZ0U0YmxqSkt3bFBkMHB5b3RLSlRod1lrVDh4MWdoaUtXaXRSYTlLbzhZ?oc=5"
+          "name": "Netmeds",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdFFPSGdaRHk0NWxIYjJJdndQbFJMQV92c3JuODVtejRfWFJkX1pzb0QxUzZqcFRIY1N1U25RRU85V3lIRHUyU0E4eDZ5Z0tVZTRtTlV5bXpudWx0cEtXOUZVUi1kNnU3M084Qkh4ajNFdy05SEViZGNfZll0V2FuVVMxck0xX0w2V2N6Z2NRY3hYaUxjV3dzU0w1VUxuX1RWWmJCWk8zQk13V0Z2YjRwZ0VNdHVSN3dhZFFQeHBoTG9mcWdYSkZtMGR1NjZKUGVkVGFfVGd0MkF6My12bnF0SGxnVHozNlJiZ3lEVTh3?oc=5"
         }
       ]
     },
@@ -76,6 +52,18 @@
       ]
     },
     {
+      "id": "2ef45ab436d7",
+      "title": "Can belly fat affect your brain? Neurologist Dr Sudhir Kumar explains how what's good for your waist is good for brain | Health - Hindustan Times",
+      "published": "2026-07-23T01:58:24+00:00",
+      "summary": "Can belly fat affect your brain? Neurologist Dr Sudhir Kumar explains how what's good for your waist is good for brain | Health&nbsp;&nbsp;Hindustan TimesVirginia Tech research links obesity to faster brain aging, memory loss&nbsp;&nbsp;WDBJ7Can belly fat shrink your brain? Top neurologist explains the hidden link between visceral fat, memory los&nbsp;&nbsp;The Economic TimesStudy finds complex association between dietary fat intake and brain atrophy in older adults&nbsp;&nbsp;PsyPost",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOd21EdUxsU2lsaEpIWU5IcnRXRXZnR0RNdlpHR283NV9UbklScVVBVDZHZjd2TWpsR2VUaTdSdkVpLW10SzlXYkJ2QmZSMEEwVGw3SDdEVWpxa1dMRHNRZnBUSm1FY1l3eXU2VWpKV2oxLTgxdU43bGZfX0xzOFI5YVlIQXIxVThVcUNLcXdfdVY3djRSdEdON3Z1SUlMM04xQ2o3ZDRLUEFxRWhjY2l3ZTFiR3IwZE9TSS0yZkpadUtfTkQtbGkwbnItdFl0NGFmakR4cHZOLWZ5OUNyV3NwQVVXZG1VR1JZOGhUV1RmQWZSOHMxc0ZxbkdzR2RRektpWEhPbVJ6UE12WmVqcG5id1MzLVdnQdIBmwJBVV95cUxObzk5RlZEaFVPZXJSMEZKemp1azlnY2pyTU5TZXFiUzBwV0p3aFkzVV8tRm83cXpnRUlKeEZtT29SSS1pT1FOdXN4b2czSGpReGtpMFctUXdxRFdVanZ0WkZTVEI5RVdZd1RSdjVicUtJQlNqX25meFJoWFJJZW0tRVQtV3VLV3BJSTNRWXlhVFowdjlNcEEwVWtwbS1aSnJRNXVhLXUyX1BxTXl1WDRsaWlnaDFqR3dGbDFUVGxEbTYxWHM1UVRrdlVabFN6WlRxUFB5ei1QZ2ZuM0JfMnZsenA5ZjVheXJIcWstTXdZbmd3dVhlWFBEYmNuaUF0b0tTNm9wOXFKZkZPeGRtYjRUeG9ndE5leDB4MzJB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c7616734c53a",
       "title": "The Symptoms You Shouldn’t Learn to Live With - The Hindu",
       "published": "2026-07-22T13:32:24+00:00",
@@ -84,6 +72,54 @@
         {
           "name": "The Hindu",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV1QtX3pvZFFaNi1DNkpIZGg3Ti1fRXZQc0JyWGpSeWNyRWhmWEstSkZIMWkxdGpUdUh4UjFMd0VQcUdjaUZuRGZaNlp1dEgxTlA3M00xOW00N0tHZ1ljTnRUQ2NjMGo2b1VORmhKOFpJdmx2WnN0Y2ljRlFfMUZMdTJFTDZONmxPanExS0FabXd4VlI4Z3ZQS05mNnJtUDZMb3hzQWtKaXFKX2dwQkFmQThrSHpqUDNSLV9V0gHCAUFVX3lxTE5tRVRhdjNwU19iOVFYZG5MalEyVTJOTVM0S3pRRW9STGFRVVRORm5Tc0dkYWVMaU1EOHpQYVFraUZ3bjVHUlRVOVpualdGeWVqd2cxYzhqREZ0c1l4UFN6cnB6TU1valExZ2NWUXphU1Axb0tuVmoyLXpGczFoS3lTTTdyM0pabHFMNnhPMFZYUFFubGdPb2JiQ1ZNZ0s1eEFENzlxTjl1QmlLc3ZNb2Fma2paeFdFYXJpcndNSVRqODR3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "68ac6de09b16",
+      "title": "Emerging Challenges in Contemporary Maternity Care: Interview with Karen Joash - EMJ",
+      "published": "2026-07-23T14:01:26+00:00",
+      "summary": "Emerging Challenges in Contemporary Maternity Care: Interview with Karen Joash&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONkM0ckJ4NGNGREJ5Rlp2RVJHNXJxUHNyQUI1ZHhXb0sxSWFqYUV2b0s5WW5MSTFYVkx1SlFKRndoU1BjU2lHLXd1SDBSMno3TXpKOXlQUkVja05PbEdwak9UOC1PaTBLYXdGbENBZTd3U0FNdmxEajdTUnFHNUhoSjRRYy1oMHZlMUt1LVNiWHp6alE1WVVBU1pfa0k1aDVEMVA0RVowcXhtR0szTUQ1Yk5fcDBURUQ1NmRySEVHbkxGckI2YnMyRGE1N2Nldw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71f30acdbf0b",
+      "title": "Personalized Care and Advanced Tech Offer Hope After Recurrent IVF Failures, Say Experts - This Week India",
+      "published": "2026-07-22T13:40:05+00:00",
+      "summary": "Personalized Care and Advanced Tech Offer Hope After Recurrent IVF Failures, Say Experts&nbsp;&nbsp;This Week IndiaDr. Manjunath C S Busts 7 IVF Myths That Could Be Delaying Parenthood&nbsp;&nbsp;Business StandardWorld IVF Day 2026: IVF or IUI? Expert explains which fertility treatment is right for you&nbsp;&nbsp;TheHealthSiteWhy, despite growing market, IVF continues to pose a challenge for many&nbsp;&nbsp;The FederalWorld IVF Day 2026: Significance And Advances In Fertility Treatment&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "This Week India",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYml5dVN3aWctMWxaMHVRc0JNQzRDczBRZ21wc2N4WnNGLVl5U2VyR2pwSEF5a2czYlJ5UV9WNkl5dWVmdmJpb1lLY2I5SU55MVRPY2NQSUNZWmFqVjRHVktQTjZyd0hsTGZHS2s1aFZia2hKdWI1WVpkaUZ2QW9uY1hMWlFZY01oVVVTbHFGUDN6SDJwemtCS0oxQU9nQ2YtMFVYLW5HaFgyTDY4U1Frc2RqUkMtQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "441acc770808",
+      "title": "GLP-1 Use Linked to Breast Cancer Survival in Patients with Diabetes - EMJ",
+      "published": "2026-07-23T11:16:18+00:00",
+      "summary": "GLP-1 Use Linked to Breast Cancer Survival in Patients with Diabetes&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzBVNGlYLVd5VTZLd1YzNlVPbWJYNnM2SUIwNjlTcEZ1M1ZqZ3V1SFVzZUJ3RE9PdjZ0aFhKY3Bicjd1eWNoX0NzRDV1bUVzQ000MnE2UEM5bTdxNzBxZlBuUjRxWEtGeVp2aGx5VFg2QXduZjlsNlJRM1NHWTZFU3NVWk5mZ0U0YmxqSkt3bFBkMHB5b3RLSlRod1lrVDh4MWdoaUtXaXRSYTlLbzhZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d47af8041e7",
+      "title": "Marengo Asia Hospitals launches rTMS therapy to support stroke rehabilitation and neurosciences programme - expresshealthcare.in",
+      "published": "2026-07-22T09:35:14+00:00",
+      "summary": "Marengo Asia Hospitals launches rTMS therapy to support stroke rehabilitation and neurosciences programme&nbsp;&nbsp;expresshealthcare.inMarengo Asia Hospitals Introduces Advanced rTMS Therapy To Strengthen Stroke Rehabilitation&nbsp;&nbsp;The Hans India",
+      "sources": [
+        {
+          "name": "expresshealthcare.in",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLXpLdl9WUFhGeXRXamVyeElPRkM0TGhoQ2N4eTUtc3Rvc1UxS3puSVlFakV2MFJQcm9vOUMtM2VHTTVlRG9FcHNEMHYwVGw2UlEzalktNHBBRWZmUHRLUElRZkJvbmM5N3pOZEpJMVQ4VUlnajd3U3E0WC04S1NxVW1mUTFBQmx5S0RhdlljOHJubzJkSHgyN1R4VUFDNHFpd0EwTGM4ZTI5WjRWWGNxY2pJOGhjRzhoSDgxS2VrRW00ZkhUN2UwRGYxUnRRTHJ5WEdSQVUxMGNoc1BTTUJydXJQWVhwQQ?oc=5"
         }
       ]
     },
@@ -100,26 +136,14 @@
       ]
     },
     {
-      "id": "71f30acdbf0b",
-      "title": "Personalized Care and Advanced Tech Offer Hope After Recurrent IVF Failures, Say Experts - This Week India",
-      "published": "2026-07-22T13:40:05+00:00",
-      "summary": "Personalized Care and Advanced Tech Offer Hope After Recurrent IVF Failures, Say Experts&nbsp;&nbsp;This Week IndiaDr. Manjunath C S Busts 7 IVF Myths That Could Be Delaying Parenthood&nbsp;&nbsp;Business StandardWorld IVF Day 2026: Significance And Advances In Fertility Treatment&nbsp;&nbsp;Metropolis HealthcareWhy, despite growing market, IVF continues to pose a challenge for many&nbsp;&nbsp;The FederalDelayed fertility treatment often reduces success, raises costs&nbsp;&nbsp;financialexpress.",
+      "id": "caa7041b0db4",
+      "title": "PMOS (Formerly PCOS) May Quadruple Risk of Heart Attack, Stroke - Healthline",
+      "published": "2026-07-23T14:36:33+00:00",
+      "summary": "PMOS (Formerly PCOS) May Quadruple Risk of Heart Attack, Stroke&nbsp;&nbsp;HealthlineWomen With PMOS Have 4 Times Higher Risk Of Heart Disease: Lancet Study&nbsp;&nbsp;NDTVIt took five years to be diagnosed with this painful condition. It needs to change&nbsp;&nbsp;NT NewsFROM PCOS to PMOS: A New Name in Women’s Health&nbsp;&nbsp;WLNS 6 NewsPMOS, formerly PCOS, raises risk of atherosclerotic cardiovascular disease, heart attacks, strokes&nbsp;&nbsp;Penn Today",
       "sources": [
         {
-          "name": "This Week India",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYml5dVN3aWctMWxaMHVRc0JNQzRDczBRZ21wc2N4WnNGLVl5U2VyR2pwSEF5a2czYlJ5UV9WNkl5dWVmdmJpb1lLY2I5SU55MVRPY2NQSUNZWmFqVjRHVktQTjZyd0hsTGZHS2s1aFZia2hKdWI1WVpkaUZ2QW9uY1hMWlFZY01oVVVTbHFGUDN6SDJwemtCS0oxQU9nQ2YtMFVYLW5HaFgyTDY4U1Frc2RqUkMtQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2ef45ab436d7",
-      "title": "Can belly fat affect your brain? Neurologist Dr Sudhir Kumar explains how what's good for your waist is good for brain | Health - Hindustan Times",
-      "published": "2026-07-23T01:58:24+00:00",
-      "summary": "Can belly fat affect your brain? Neurologist Dr Sudhir Kumar explains how what's good for your waist is good for brain | Health&nbsp;&nbsp;Hindustan TimesVirginia Tech research links obesity to faster brain aging, memory loss&nbsp;&nbsp;WDBJ7Can belly fat shrink your brain? Top neurologist explains the hidden link between visceral fat, memory los&nbsp;&nbsp;The Economic TimesStudy finds complex association between dietary fat intake and brain atrophy in older adults&nbsp;&nbsp;PsyPost",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOd21EdUxsU2lsaEpIWU5IcnRXRXZnR0RNdlpHR283NV9UbklScVVBVDZHZjd2TWpsR2VUaTdSdkVpLW10SzlXYkJ2QmZSMEEwVGw3SDdEVWpxa1dMRHNRZnBUSm1FY1l3eXU2VWpKV2oxLTgxdU43bGZfX0xzOFI5YVlIQXIxVThVcUNLcXdfdVY3djRSdEdON3Z1SUlMM04xQ2o3ZDRLUEFxRWhjY2l3ZTFiR3IwZE9TSS0yZkpadUtfTkQtbGkwbnItdFl0NGFmakR4cHZOLWZ5OUNyV3NwQVVXZG1VR1JZOGhUV1RmQWZSOHMxc0ZxbkdzR2RRektpWEhPbVJ6UE12WmVqcG5id1MzLVdnQdIBmwJBVV95cUxObzk5RlZEaFVPZXJSMEZKemp1azlnY2pyTU5TZXFiUzBwV0p3aFkzVV8tRm83cXpnRUlKeEZtT29SSS1pT1FOdXN4b2czSGpReGtpMFctUXdxRFdVanZ0WkZTVEI5RVdZd1RSdjVicUtJQlNqX25meFJoWFJJZW0tRVQtV3VLV3BJSTNRWXlhVFowdjlNcEEwVWtwbS1aSnJRNXVhLXUyX1BxTXl1WDRsaWlnaDFqR3dGbDFUVGxEbTYxWHM1UVRrdlVabFN6WlRxUFB5ei1QZ2ZuM0JfMnZsenA5ZjVheXJIcWstTXdZbmd3dVhlWFBEYmNuaUF0b0tTNm9wOXFKZkZPeGRtYjRUeG9ndE5leDB4MzJB?oc=5"
+          "name": "Healthline",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1lhd0Y1VTFxU2VWaG1HMnhxVUh0STNLQTgwaTViOGRTX1kwT2RwNDJpdG1yWVE2NGszUllZc2MzRVp4bmgyVHQ5NEpOclJmVnBUYTZBeDlzdkg3OERON0pDZUhDbTRTUUhoQ1ZEWlpZTm1jcXdIY3dVVHpyMk5tTUZ3OENVQ0dmMUw1TTJScERYalJhdUg3dTl3?oc=5"
         }
       ]
     },
@@ -136,6 +160,18 @@
       ]
     },
     {
+      "id": "42ae9e23363c",
+      "title": "6 nutritionist-approved ways to add more protein to every meal - vogueadria.com",
+      "published": "2026-07-22T08:00:53+00:00",
+      "summary": "6 nutritionist-approved ways to add more protein to every meal&nbsp;&nbsp;vogueadria.comWant to incorporate more protein in your diet? Balance and healthy sources are key&nbsp;&nbsp;High Plains Journal6 nutritionist-backed ways to bump up the protein of any meal&nbsp;&nbsp;Vogue India",
+      "sources": [
+        {
+          "name": "vogueadria.com",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05MG8yemZKd1dfWW5sSlVvVmcyREgzR2hVbllhNV9LbnpxUVBiTEMwZDZzYzFNc1QweHZDS2RLbmdYQjlpNmtCcTFSSXp1TWJsVlpDUnNqSFNieWxMZFdPRFVDbG8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6c0be85fc70d",
       "title": "Now, 60-plus cancer patients have a special therapy protocol - The Indian Express",
       "published": "2026-07-23T09:31:18+00:00",
@@ -144,30 +180,6 @@
         {
           "name": "The Indian Express",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS2N1dHk3UnMxVlZmZS1vU2lMV0NzSzRfS2RlNkl5cjFLSmFBZ2g1dlMxY0J1STRiaWt1Y1duc05EZ3J3Nl9JSm12R3VRQlpHNkNtZ18xMjI4dUtRdjlWRmdFb0NyMUU5N09NdlJiOHc3TmpxZnl4ZE5oMEhZRWpLVVdHZ1JudzJVUmJldjlDSnluS3pybUlNR2hyeUtPSHNwQjFGcnRaLUxjb05KMms4RkxWNDV4NERQZ0R5aW9yVUo0Q3Q40gHLAUFVX3lxTE1JT0dOSUZZdkI1YzRoNnF3YUx1VmRtVjN6ZG9zT0t3ZkhJeWlSMDNoclUtLXl1NnJ6OVFhV3pIU2tib0Q3cGUzZWsyYnFZeUF3NEZ4RmYxaU5Jazhrano0MHUyYV9Vd2QxcWtjS1dHdHRBUzJpNld6NjVPMzNFR3gtRWYwYi11ZDQwQW1mQzI5RHo2TmJEaWFJNl9vVXhVZVZOM2Y1VjNUN2t0aFN0ZURURWl5Qzk1aFB4VmpzdElLUk9yVzhYSlhMWExj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "caa7041b0db4",
-      "title": "PMOS (Formerly PCOS) May Quadruple Risk of Heart Attack, Stroke - Healthline",
-      "published": "2026-07-23T14:36:33+00:00",
-      "summary": "PMOS (Formerly PCOS) May Quadruple Risk of Heart Attack, Stroke&nbsp;&nbsp;HealthlineWomen With PMOS Have 4 Times Higher Risk Of Heart Disease: Lancet Study&nbsp;&nbsp;NDTVIt took five years to be diagnosed with this painful condition. It needs to change&nbsp;&nbsp;NT NewsFROM PCOS to PMOS: A New Name in Women’s Health&nbsp;&nbsp;WLNS 6 NewsPMOS, formerly PCOS, raises risk of atherosclerotic cardiovascular disease, heart attacks, strokes&nbsp;&nbsp;Penn Today",
-      "sources": [
-        {
-          "name": "Healthline",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1lhd0Y1VTFxU2VWaG1HMnhxVUh0STNLQTgwaTViOGRTX1kwT2RwNDJpdG1yWVE2NGszUllZc2MzRVp4bmgyVHQ5NEpOclJmVnBUYTZBeDlzdkg3OERON0pDZUhDbTRTUUhoQ1ZEWlpZTm1jcXdIY3dVVHpyMk5tTUZ3OENVQ0dmMUw1TTJScERYalJhdUg3dTl3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d47af8041e7",
-      "title": "Marengo Asia Hospitals launches rTMS therapy to support stroke rehabilitation and neurosciences programme - expresshealthcare.in",
-      "published": "2026-07-22T09:35:14+00:00",
-      "summary": "Marengo Asia Hospitals launches rTMS therapy to support stroke rehabilitation and neurosciences programme&nbsp;&nbsp;expresshealthcare.inInnovative rTMS Therapy to Enhance Stroke Rehabilitation and Neuroscience Programme&nbsp;&nbsp;MagzterMarengo Asia Hospitals Introduces Advanced rTMS Therapy To Strengthen Stroke Rehabilitation&nbsp;&nbsp;The Hans India",
-      "sources": [
-        {
-          "name": "expresshealthcare.in",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLXpLdl9WUFhGeXRXamVyeElPRkM0TGhoQ2N4eTUtc3Rvc1UxS3puSVlFakV2MFJQcm9vOUMtM2VHTTVlRG9FcHNEMHYwVGw2UlEzalktNHBBRWZmUHRLUElRZkJvbmM5N3pOZEpJMVQ4VUlnajd3U3E0WC04S1NxVW1mUTFBQmx5S0RhdlljOHJubzJkSHgyN1R4VUFDNHFpd0EwTGM4ZTI5WjRWWGNxY2pJOGhjRzhoSDgxS2VrRW00ZkhUN2UwRGYxUnRRTHJ5WEdSQVUxMGNoc1BTTUJydXJQWVhwQQ?oc=5"
         }
       ]
     },
@@ -184,38 +196,14 @@
       ]
     },
     {
-      "id": "25f68faacdc3",
-      "title": "Premature blood stem cell aging in sickle cell disease may be reversible - Medical Xpress",
-      "published": "2026-07-23T16:00:04+00:00",
-      "summary": "Premature blood stem cell aging in sickle cell disease may be reversible&nbsp;&nbsp;Medical XpressPremature Blood Stem Cell Aging in Sickle Cell Disease May Be Reversible | Newswise&nbsp;&nbsp;Newswise",
+      "id": "f2839a86e003",
+      "title": "Morbidity gap widening across most countries since 1990, study finds - ET HealthWorld",
+      "published": "2026-07-22T10:03:19+00:00",
+      "summary": "Morbidity gap widening across most countries since 1990, study finds&nbsp;&nbsp;ET HealthWorldThe hidden cost of living longer: Israelis spend over a decade in poor health&nbsp;&nbsp;YnetnewsPeople Living Longer, But Spending More Years With Illness And Disability&nbsp;&nbsp;U.S. News & World ReportGlobal study reveals widening gap between lifespan and healthspan&nbsp;&nbsp;News-MedicalLiving Longer, Feeling Worse: Americans Now Spend 14 Years Of Their Lives In Poor Health&nbsp;&nbsp;StudyFinds",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWU5BTGhSNkQtOVNNQ3UwZ1pnLTJ0ZkpFYUI3dDJiQ0NyeEVUZ0s4bVVFZllEWVNZX2toMnBfS0ZLY3E1cFNqS2F2VGl2VU5OdWFkcHZoUUlud005ZWFiU2NReDVNdUZ2a2U3bVVJTzJpTEh2Q2lMZG1ZSHZtQ2d2Qg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8d470c2ed265",
-      "title": "How telehealth Is driving a surge in ADHD prescriptions - Awaz The Voice",
-      "published": "2026-07-23T06:58:06+00:00",
-      "summary": "How telehealth Is driving a surge in ADHD prescriptions&nbsp;&nbsp;Awaz The VoiceHow telehealth is fueling a surge in ADHD scripts in a business model that benefits the rich&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Awaz The Voice",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzEyRFhOVzg1NHFTNEVLcnpTMDd2aF8xcmpMVUt6U2lMcG5hdU5fcUVWcmRBa01RN0dHRFhrWDR3MF9tcU9yakFYR3hhZ3FDNUhMMTBycWlaRGh5N2VtWk1oMW50YnNTWGFLRFlKSU55S3d5bjBmZTdRYkdxU2tjM0YyUXZJY0lJV3VlOWtBcFJuYXZVWjBtNjhmakdSUUFXeExyOW96UTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "42ae9e23363c",
-      "title": "6 nutritionist-approved ways to add more protein to every meal - vogueadria.com",
-      "published": "2026-07-22T08:00:53+00:00",
-      "summary": "6 nutritionist-approved ways to add more protein to every meal&nbsp;&nbsp;vogueadria.comWant to incorporate more protein in your diet? Balance and healthy sources are key&nbsp;&nbsp;High Plains Journal6 nutritionist-backed ways to bump up the protein of any meal&nbsp;&nbsp;Vogue India",
-      "sources": [
-        {
-          "name": "vogueadria.com",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05MG8yemZKd1dfWW5sSlVvVmcyREgzR2hVbllhNV9LbnpxUVBiTEMwZDZzYzFNc1QweHZDS2RLbmdYQjlpNmtCcTFSSXp1TWJsVlpDUnNqSFNieWxMZFdPRFVDbG8?oc=5"
+          "name": "ET HealthWorld",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOemhXWV9MWXBGTncwZWRNTS0tYjNBRE51Y2s5enY5SU41bXNjV0pVdHFkejRGdm9lY3JBcFQtSFhjaEtLVWNZQzhqdW11blp2ZHY0VFpUdlNCX2RlZ3NMcTBnLXAxWnVKUmcxV0h2eEQ4Z2s4NXJrRVlDMlZhSW0ySTd3SmQ0RkVyb0hZQ2FDYVo5dWNCQWJGWmxsb3NpcWFMLWQtSHNxa0drYkV6STBwSWNyOWZlTTVPR3dXWHhKdENMaUN4TFlkLWphVkVWSmlP0gHWAUFVX3lxTFBJVWpTcUVORVRvaHlVM3Q1VUgzWDZFa09PR2YzNndJMkc3Q3VDZHluMEpuS19wOHlQeFgzaFNOLU1ORnM3a1Vua0FiUUZsQ2RBb1NOV1lLZVpsa2Z3LVc1MGp1ZGFFRjBYYXU2LS1mNnVQLW5GS3h1LTNwZHFZRHJLR1VZZ25sbjVhVHlBYjk4U2x3ZGI5VU5RczRJSTg2bkZsS3ZDdTBZSnRrX3hhVlNJMFFqazhYNjhGM0VPcDNoNHBHQmNZbFRTd1duRC05ajNKNlZYT1E?oc=5"
         }
       ]
     },
@@ -232,6 +220,30 @@
       ]
     },
     {
+      "id": "25f68faacdc3",
+      "title": "Premature blood stem cell aging in sickle cell disease may be reversible - Medical Xpress",
+      "published": "2026-07-23T16:00:04+00:00",
+      "summary": "Premature blood stem cell aging in sickle cell disease may be reversible&nbsp;&nbsp;Medical XpressPremature Blood Stem Cell Aging in Sickle Cell Disease May Be Reversible | Newswise&nbsp;&nbsp;Newswise",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWU5BTGhSNkQtOVNNQ3UwZ1pnLTJ0ZkpFYUI3dDJiQ0NyeEVUZ0s4bVVFZllEWVNZX2toMnBfS0ZLY3E1cFNqS2F2VGl2VU5OdWFkcHZoUUlud005ZWFiU2NReDVNdUZ2a2U3bVVJTzJpTEh2Q2lMZG1ZSHZtQ2d2Qg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1f3d5d45ef1",
+      "title": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests - MedPage Today",
+      "published": "2026-07-23T17:41:57+00:00",
+      "summary": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests&nbsp;&nbsp;MedPage TodayThe world’s first Bundibugyo Ebola vaccine has entered human trials: here’s why it matters&nbsp;&nbsp;Gavi, the Vaccine AllianceExisting vaccines induce antibody response against the Ebolavirus that's driving Congo outbreak&nbsp;&nbsp;CIDRAPNew study supports testing of Merck’s Ebola vaccine in DRC outbreak&nbsp;&nbsp;STATExplainer: What Ebola vaccines and treatments are under development&nbsp;&n",
+      "sources": [
+        {
+          "name": "MedPage Today",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6Q1JseFJ2eUtLbG5YV0h3SnpRTGFtNC12TTg1WXpoNmVXXzRLYnlhTU53dVVPY2YyY1NIdml3dUZTSDNFMGswN1BLenFTSUljWGhMZlU3UjRMY3BJMVJWdjZXcExEVW5yX0tN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "397f1bbbaca8",
       "title": "5 Common Things You Use Every Day That Could Secretly Damage Your Liver - Asianet Newsable",
       "published": "2026-07-22T12:33:13+00:00",
@@ -244,14 +256,14 @@
       ]
     },
     {
-      "id": "45d259a910be",
-      "title": "Global Cancer Statistics Reveal Surging Lifetime Risks - EMJ",
-      "published": "2026-07-22T08:01:29+00:00",
-      "summary": "Global Cancer Statistics Reveal Surging Lifetime Risks&nbsp;&nbsp;EMJSPCC Applauds WHO and IARC Report Shaping the Future of Oncopolicy&nbsp;&nbsp;OncodailyCancer cases set to ‘nearly double’ by 2050, new report from World Health Organization&nbsp;&nbsp;KGET.comZainab Shinkafi-Bagudu: Why Breast Cancer Numbers Keep Rising&nbsp;&nbsp;OncodailyGLOBOCAN 2024: Looking Beyond the Numbers to Understand Global Cancer Disparities&nbsp;&nbsp;Oncodaily",
+      "id": "e6876604f81a",
+      "title": "Study Maps Motor Abnormalities Across Mental Health Spectrums - Neuroscience News",
+      "published": "2026-07-23T21:27:43+00:00",
+      "summary": "Study Maps Motor Abnormalities Across Mental Health Spectrums&nbsp;&nbsp;Neuroscience News",
       "sources": [
         {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSTBONUtpbnVfd1VrNEw3cjlzLVFXQWVLVW1aczdBYk5ERVZ0SXNoRk8wQkg0X1EwUVpSRnFrOEpXeWxfWWtDQzVnSnVVNVc2YWtTSzMzRzJVM0FHOXZlZ1JINFBFbFVTMi1zYzVJMW1RTnhaMlMzZ3diNl9kRGx5bm1lemV0OW5JWDZ2TGJFR2xvb3dfa3RWLVJLMkg?oc=5"
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05QnZuQXdaZDcxU3NSQ0xEVHAzUFZpVXRFaFNKSTk3WmxVQ2I0REIta2tkNkJQTVpwa0xPUHIzbEc0VVlJUjliU2dtVUFzaFVLWFY2a0ZtZjdCTUc4Sm0tNnJJNDRoMXVkOVUxT2hTTEJQWFozTzhN?oc=5"
         }
       ]
     },
@@ -280,54 +292,6 @@
       ]
     },
     {
-      "id": "7a69c4d5fa3c",
-      "title": "Your second brain is in your gut: This World Brain Day, neurologist explains the hidden connection - The Times of India",
-      "published": "2026-07-22T05:30:00+00:00",
-      "summary": "Your second brain is in your gut: This World Brain Day, neurologist explains the hidden connection&nbsp;&nbsp;The Times of IndiaBy wiretapping the conversation between gut and brain, U of A researcher hopes to change the discussion around healthy eating&nbsp;&nbsp;College of Medicine - TucsonHow exploring the gut microbiome could support mental health&nbsp;&nbsp;New ScientistYour gut may be acting like a second brain, and neurosurgeons say it can quietly influence your mood through what you eat&",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYm5nYTNvY1lQSDhYTTFJcjBMdm1zcjJ2VzV5bGVGZ1MwSk9KT2NKVFZSRDJIZjlRak1LczJ3MzJhX0NrVVBjNXgzOV9yZUNJaUhHeGlqRVdtZDNCYWJELXVDbEpYV3NpTE81VzlZeURxODRCTk9XTlNwVWlyTVZwaGphOEw5MHY0RXBlUDFieWxHUll3VTVCTXNkVFRTc0UxS3ItU0t3UzJGUkpCd1pLLTZuQmd5NHdvYXpkZVRqSWNoYlg3WXF4eW5ENGdHQ2tyQ1VoU21IbTFuMFQtWDNlRmxKcV84MzYyRG9yQ0JqMFAzaEFDd2wzM9IB_gFBVV95cUxNZlYtcjJyZ19TR2RnaTFSdEpJdERULWZ1c21oMk5zb0dwanF1MWsyajRSM0lKMTg3REtyQmRFaUFhX0ZJWXRfVlhmeERUc0tXdkh4c2pSREIyWlFNaGpyRUdMaC1jbnpWbF9vcWhJVm00dFM3d0dxSDkyYmFPZC1nR2ZjNE9KaXlDeVNfcnZNMzBzY3o2Y1NvVUFGU0lwak5KN3pSS3BVWmk2aThqcTFiRjZkOHpDX2s4SjJJZjNtNUJEVW9FZWc1RTM4NDFyRXhaNERhaGNJY0hyTFJBM3pZWjc0NXlaOENqZFdTdFd2QUQ3aHUwdFpGRWV0UGM4QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "031bfde2f3bf",
-      "title": "Global study reveals widening gap between lifespan and healthspan - News-Medical",
-      "published": "2026-07-22T03:55:00+00:00",
-      "summary": "Global study reveals widening gap between lifespan and healthspan&nbsp;&nbsp;News-MedicalMorbidity gap widening across most countries since 1990, study finds&nbsp;&nbsp;ET HealthWorldThe hidden cost of living longer: Israelis spend over a decade in poor health&nbsp;&nbsp;YnetnewsPeople Living Longer, But Spending More Years With Illness And Disability&nbsp;&nbsp;U.S. News & World ReportLiving Longer, Feeling Worse: Americans Now Spend 14 Years Of Their Lives In Poor Health&nbsp;&nbsp;StudyFinds",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU3lsZWRkbUxfZFAwOWFsU2UwcEtzbklUcV9IYVV1ay1pWkhHQlVlcFNPczVHSnZtRS1Xd01fYS1ZTmxzSlpyWHA0dlZPQ19JWkwtQWtxVU5UWWVqQW9kVjNyTFp6VTZBMnlZMzR6VG9iaDdZdWxkWWNiYlVlM0V0bm1VMGdrSHEzbGd2UlpfdUlESmdVX3dhWG1rblVUWmVvbkd6QzR4ZnNwQ3JwV0lXTDlkZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c1f3d5d45ef1",
-      "title": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests - MedPage Today",
-      "published": "2026-07-23T17:41:57+00:00",
-      "summary": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests&nbsp;&nbsp;MedPage TodayThe world’s first Bundibugyo Ebola vaccine has entered human trials: here’s why it matters&nbsp;&nbsp;Gavi, the Vaccine AllianceExisting vaccines induce antibody response against the Ebolavirus that's driving Congo outbreak&nbsp;&nbsp;CIDRAPRussian scientists test Ebola vaccine candidate against emerging strain with 40% fatality rate&nbsp;&nbsp;Новости GxPNew study supports testing of Merck’s Ebo",
-      "sources": [
-        {
-          "name": "MedPage Today",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6Q1JseFJ2eUtLbG5YV0h3SnpRTGFtNC12TTg1WXpoNmVXXzRLYnlhTU53dVVPY2YyY1NIdml3dUZTSDNFMGswN1BLenFTSUljWGhMZlU3UjRMY3BJMVJWdjZXcExEVW5yX0tN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aea379290b1d",
-      "title": "Autism-Like Traits in Mice Improved After Single Rapamycin Dose - Genetic Engineering and Biotechnology News",
-      "published": "2026-07-23T18:40:46+00:00",
-      "summary": "Autism-Like Traits in Mice Improved After Single Rapamycin Dose&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsDrug temporarily reverses autism-like brain changes in adult mice within hours&nbsp;&nbsp;Medical XpressA Single Rapamycin Dose Reversed Adult Autism Traits&nbsp;&nbsp;Technology NetworksStudy Shows Rapid Reversal of Autism Traits&nbsp;&nbsp;Neuroscience News",
-      "sources": [
-        {
-          "name": "Genetic Engineering and Biotechnology News",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1BJaWhpRE10NEJ0M3pXZUN0XzFPaE1RU0ZrdlVTQXhpRlR4eFVuLXZQbU1UZ01qVzBUZWVXNlRZeHB4LTF0STFCMWN2dWZWU1JjenA5aHJfU1FXRlBiQmhPUHZRN21ad3ppQnFDRkVES2RMZjJvMG5HOFBwVmgzVzFXVW9OcVJ4eVRzMG5UX21TaFpaSVRmWFhESlBXY3pfVWgwTXh2dWdBek0yY0swaWY5RkxEb1k2bWNVdHFR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "efb6a94c297c",
       "title": "From reaction to prevention: Rethinking dengue control in urban India - expresshealthcare.in",
       "published": "2026-07-22T06:52:45+00:00",
@@ -340,134 +304,38 @@
       ]
     },
     {
-      "id": "eafee83fb174",
-      "title": "ICMR Licenses Indigenous Biomedical Technologies - Chemical Industry Digest",
-      "published": "2026-07-23T06:45:21+00:00",
-      "summary": "ICMR Licenses Indigenous Biomedical Technologies&nbsp;&nbsp;Chemical Industry DigestICMR transfers 3 biomedical technologies to Emcure and Biological E&nbsp;&nbsp;ETPharma.comICMR transfers three indigenous biomedical technologies for advancements in cancer and infectious disease solutions&nbsp;&nbsp;BioSpectrum IndiaICMR licenses cancer, vaccine technologies to Emcure, Biological E&nbsp;&nbsp;The Economic TimesICMR Transfers Indigenous Medical Technologies for Commercialisation&nbsp;&nbsp;GK To",
-      "sources": [
-        {
-          "name": "Chemical Industry Digest",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0l1TGl1ZkhFTmtiMGtzR3NERzRiRUtXVFVyWnRwOEtiOHpWdVdpNzh2emNXR1NxaU5FNElMZlI0dHpNVkgzNlRmU2U0S3RRSkdadWozc3M2Ti11UEVIdzFyeV8tNlpsYURCeFFZTms5OGhUREstOFlsWVRvWGs4dWpUaGZaZFhoa0pWRmtweTNWd1Vsd1V3aVo5SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8403a0270e25",
-      "title": "Brain Health at Risk: Disorders Associated with Accelerated Ageing, Says Study - The Indian Practitioner",
-      "published": "2026-07-23T14:57:59+00:00",
-      "summary": "Brain Health at Risk: Disorders Associated with Accelerated Ageing, Says Study&nbsp;&nbsp;The Indian PractitionerBrain disorders associated with increased brain ageing: Study&nbsp;&nbsp;ET HealthWorldDementia addiction and psychiatric disorders show distinct patterns of accelerated brain aging&nbsp;&nbsp;News-MedicalMRI reveals links between brain aging, neuro disorders&nbsp;&nbsp;AuntMinnieNearly 49,000 brain scans reveal aging signatures linked to dementia, addiction and mental illness&nbsp;&n",
-      "sources": [
-        {
-          "name": "The Indian Practitioner",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYTFPWno5djE1RVJwLV9PUGFPbXJ3R2VSQ1hQM2dBSXFxNld0a2s4TkFkVlBPNEtJNE1ZbTN1Y2NFUTgyOVkzVXFDdzYzNGhDXzZvcGw0UUV2S3M0Q19WVjdSRWRoTU05azNPQU9JUEJnREN4OVkyRVc2YjFLT1BOOGtXdEhEdnVBTXoydmNDcDM2Ujl3YVFpWkNGOENXRlZfWFZhOVRTWWVMT2JXWE1VZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b621a41871d6",
-      "title": "How many cups of coffee can you drink in a day? Science says your daily limit is higher than expected - GQ India",
-      "published": "2026-07-23T09:30:00+00:00",
-      "summary": "How many cups of coffee can you drink in a day? Science says your daily limit is higher than expected&nbsp;&nbsp;GQ IndiaCoffee and heart health: How many cups of caffeinated coffee are safe to drink each day?&nbsp;&nbsp;www.heart.orgThe Caffeine Paradox: How Coffee Protects Your Heart While Energy Drinks Damage It&nbsp;&nbsp;NDTV4 cups of coffee a day 'lowers stroke, heart failure risk’: Heart surgeon Dr London explains when it can benefit you&nbsp;&nbsp;Hindustan TimesModerate Coffee and Caffe",
-      "sources": [
-        {
-          "name": "GQ India",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWXItRC1VMVFzV0JLMlIwVGtya1RBMWNQMVVEQU9MbzlQNmFUN2FyWTFGUEVyYm1sd2FMeW5Bemo2bHdlVGFGUHFsSjh3VGZtaVRWdm9xb25yR0R5d0dtMkNLNGxYbUl4dFhEdzhFTnB3ZUpQUjJBYmI2VDBDOXZyRXBTQXdzNVNWQmExOWpvRTUzYlNiR2o3Z2F4dGcyZDBVR2gtNGcxeG9zekM2eDlsR2VwZmlHREhSMnNfMnlGWVRuWDEzZVlGek9ua3M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "de67921a0bd9",
-      "title": "Cardiac Integrated Chip Model Recreates Brain-Heart Signalling - EMJ",
-      "published": "2026-07-22T15:32:02+00:00",
-      "summary": "Cardiac Integrated Chip Model Recreates Brain-Heart Signalling&nbsp;&nbsp;EMJ",
+      "id": "45d259a910be",
+      "title": "Global Cancer Statistics Reveal Surging Lifetime Risks - EMJ",
+      "published": "2026-07-22T08:01:29+00:00",
+      "summary": "Global Cancer Statistics Reveal Surging Lifetime Risks&nbsp;&nbsp;EMJSPCC Applauds WHO and IARC Report Shaping the Future of Oncopolicy&nbsp;&nbsp;OncodailyCancer cases set to ‘nearly double’ by 2050, new report from World Health Organization&nbsp;&nbsp;KGET.comZainab Shinkafi-Bagudu: Why Breast Cancer Numbers Keep Rising&nbsp;&nbsp;OncodailyGLOBOCAN 2024: Looking Beyond the Numbers to Understand Global Cancer Disparities&nbsp;&nbsp;Oncodaily",
       "sources": [
         {
           "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTVaMjZoUHEzVmh2dFZOQm40dU54ZHFuTnh3aGNCUEswd3dWSzZFNXZoYWQ5UkVESGpOWlJnRUdZenZkazZ0VWV6X0tibFFOc3psOEI2ZkNwdmlHYXFJcjBvTkpubHZiYWVfclBmcUxVOC1DaTRySW9OVmdTTWI5b1hua3JLQ0c5S3Y4QklSaHFhWUphbVF5blhRWTg2Wkhobk04ZnhsNVlZQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSTBONUtpbnVfd1VrNEw3cjlzLVFXQWVLVW1aczdBYk5ERVZ0SXNoRk8wQkg0X1EwUVpSRnFrOEpXeWxfWWtDQzVnSnVVNVc2YWtTSzMzRzJVM0FHOXZlZ1JINFBFbFVTMi1zYzVJMW1RTnhaMlMzZ3diNl9kRGx5bm1lemV0OW5JWDZ2TGJFR2xvb3dfa3RWLVJLMkg?oc=5"
         }
       ]
     },
     {
-      "id": "eaca4e2a39eb",
-      "title": "Five people dead from Legionnaires' disease in New York City - news.cgtn.com",
-      "published": "2026-07-23T06:42:37+00:00",
-      "summary": "Five people dead from Legionnaires' disease in New York City&nbsp;&nbsp;news.cgtn.comQuit 'bug'ging me&nbsp;&nbsp;PressReaderNew York City confirms Legionella cluster tied to cooling towers after a death&nbsp;&nbsp;Межа. Новини України.Beware the flamboyant candidates with no experience&nbsp;&nbsp;thealpenanews.comMayor Zohran Mamdani hits back at NYC Council Speaker Menin’s charge of mishandling Legionnaires’ outbreak&nbsp;&nbsp;Yahoo News New Zealand",
+      "id": "7a69c4d5fa3c",
+      "title": "Your second brain is in your gut: This World Brain Day, neurologist explains the hidden connection - The Times of India",
+      "published": "2026-07-22T05:30:00+00:00",
+      "summary": "Your second brain is in your gut: This World Brain Day, neurologist explains the hidden connection&nbsp;&nbsp;The Times of IndiaBy wiretapping the conversation between gut and brain, U of A researcher hopes to change the discussion around healthy eating&nbsp;&nbsp;College of Medicine - TucsonHow exploring the gut microbiome could support mental health&nbsp;&nbsp;New ScientistYour gut may be acting like a second brain, and neurosurgeons say it can quietly influence your mood through what you eat&",
       "sources": [
         {
-          "name": "news.cgtn.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2lxX3l1WDhvb2ZseGwtYzRwZVh0LXgyMS1CT282WXhVeUhXelR5Q1ZlSllHdDE4M0lEZDhTa3FRaXNhN21hYzRuSzBIU3ZuNGd4SFdySTMzQnJzMmdKUzU5Yktlc0FQU2F0WklnVkZMNTdicmgwdXYxYWEwNzYySU5Yb28xdmFFNHJTVzBiVE9LNFVoLVpvTmlwcUlZbUVVU0FUb0ZjRFFhOVBzbjBmRmZOdnA5WnM?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYm5nYTNvY1lQSDhYTTFJcjBMdm1zcjJ2VzV5bGVGZ1MwSk9KT2NKVFZSRDJIZjlRak1LczJ3MzJhX0NrVVBjNXgzOV9yZUNJaUhHeGlqRVdtZDNCYWJELXVDbEpYV3NpTE81VzlZeURxODRCTk9XTlNwVWlyTVZwaGphOEw5MHY0RXBlUDFieWxHUll3VTVCTXNkVFRTc0UxS3ItU0t3UzJGUkpCd1pLLTZuQmd5NHdvYXpkZVRqSWNoYlg3WXF4eW5ENGdHQ2tyQ1VoU21IbTFuMFQtWDNlRmxKcV84MzYyRG9yQ0JqMFAzaEFDd2wzM9IB_gFBVV95cUxNZlYtcjJyZ19TR2RnaTFSdEpJdERULWZ1c21oMk5zb0dwanF1MWsyajRSM0lKMTg3REtyQmRFaUFhX0ZJWXRfVlhmeERUc0tXdkh4c2pSREIyWlFNaGpyRUdMaC1jbnpWbF9vcWhJVm00dFM3d0dxSDkyYmFPZC1nR2ZjNE9KaXlDeVNfcnZNMzBzY3o2Y1NvVUFGU0lwak5KN3pSS3BVWmk2aThqcTFiRjZkOHpDX2s4SjJJZjNtNUJEVW9FZWc1RTM4NDFyRXhaNERhaGNJY0hyTFJBM3pZWjc0NXlaOENqZFdTdFd2QUQ3aHUwdFpGRWV0UGM4QQ?oc=5"
         }
       ]
     },
     {
-      "id": "ec7ee3e7514a",
-      "title": "Replacing Gas Stoves With Electric Stoves Greatly Reduces Asthma Symptoms - NDTV",
-      "published": "2026-07-23T13:51:04+00:00",
-      "summary": "Replacing Gas Stoves With Electric Stoves Greatly Reduces Asthma Symptoms&nbsp;&nbsp;NDTV",
+      "id": "8db867c0a68e",
+      "title": "Speeding up gynaecological diagnoses - Healthcare Today",
+      "published": "2026-07-23T06:18:43+00:00",
+      "summary": "Speeding up gynaecological diagnoses&nbsp;&nbsp;Healthcare Today'I lost years waiting for endometriosis diagnosis'&nbsp;&nbsp;BBCUK experts unveil endometriosis tests that could cut diagnosis time from 9 years to 45 minutes; call them 'game changing'&nbsp;&nbsp;Deccan HeraldNew tool could change the way endometriosis is diagnosed&nbsp;&nbsp;Spectrum NewsHow Close Are We To Quicker Endometriosis Tests? A Women's Health Expert Explains&nbsp;&nbsp;MindBodyGreen",
       "sources": [
         {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjl1TnRNQVpCZExRU1BiMDlTdy1Sa1k0a29FRGROdUMxamdENGZ1UFczZzIwVEZHMGhQai1fNFV6X1RKSXlUaVJBVXYxMnV5V252Uk1QX0FzUWNyand4MFdiWnE2OU1YUWY0bUlBN3d5dWQtT19MWkRPWEJQUkpxOWVDQ3ZsSTJIdUFsdXN2UzZXQ25YU1doeHBzTGNoWTVrVjJyNVhhX3FXanE2YzNj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46d1e52a74c9",
-      "title": "Why the country needs a national birth anomalies registry - expresshealthcare.in",
-      "published": "2026-07-22T08:22:25+00:00",
-      "summary": "Why the country needs a national birth anomalies registry&nbsp;&nbsp;expresshealthcare.in",
-      "sources": [
-        {
-          "name": "expresshealthcare.in",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHZ6V2RQY3pfdm5yUk1KQnRNd1V1RHltck9TNTU3MFFMYlVscUpKaXQwbzM3cjQ4eTNybXEwY2p5TWl3Y3VqY0RrX25UeTB5Z1NOaVZqOVczX29xZVBSWTdqUjdyYnNmZ2ROR3dJZ2QzUmRFOW9wNm1heEZnZWFuQ0EwUGttWFA2LVBZaFU3bzkzbmxfZi1welZ5YV9ielZ0LUg4RWF3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf7f58d01ebc",
-      "title": "New Cancer Cases Predicted to Increase to 34.4 Million by 2050 - Neurology Advisor",
-      "published": "2026-07-22T04:00:00+00:00",
-      "summary": "New Cancer Cases Predicted to Increase to 34.4 Million by 2050&nbsp;&nbsp;Neurology AdvisorSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "Neurology Advisor",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVBBODRaQktwR0VyZEdXelU2SGd4c2dlekpoOGY4ZklpaE04WnY2M0llNGlfc2lqNDIyYUFtNDFIOHVhcTFWU0FmZlBTcTRRaHNiT0NHLVc3a1VwMWQtVGUtTnpWSVlvQ0NteFhCaThwSFBOeXVyc2NnaTJwMXhmOVBXVUxHSU9aSUpXWHJkblo1TGdmeG1GcVdGb3pVb1BRXzdv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2c09d1902947",
-      "title": "WHO warns vitamins alone won't prevent dementia in updated guidance - TheHealthSite",
-      "published": "2026-07-22T07:30:00+00:00",
-      "summary": "WHO warns vitamins alone won't prevent dementia in updated guidance&nbsp;&nbsp;TheHealthSiteNew WHO guidelines: up to 45% of dementia risk could be prevented or delayed&nbsp;&nbsp;World Health Organization (WHO)The earlier you know, the more you can do&nbsp;&nbsp;Oman ObserverAmong the adjustable dementia risk factors for the elderly in Korea, the impact of \"low education le..&nbsp;&nbsp;매일경제WHO calls for action on preventable dementia risks&nbsp;&nbsp;Aged Care Insite",
-      "sources": [
-        {
-          "name": "TheHealthSite",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQnA5TmEtNWM1THhSWm1WbFdiTm02UWczczJxaVRxR3gzR282RzZEV1ZOS1MzYnFfaFh0b3BFUVRqTGF6SlhyUUdFWWN6cm9hZWswdUVQY0paUGJaTi1SX2EwZG9xM0FZcGRIdVdubkwxVnlhRGhvejhPdlZ2SlI0OUxyRTh2MU5lbzZhTGZKZy0xMndwT3lrWG44SGVLVE8xSlR0NFpZS21SWXVUOGtZcVFzazRZcDA2SG43VkZTUjhub1XSAcgBQVVfeXFMTy1sdUZaOFVMdkRCNUxzSGpUeGwxUnQ0UmROcnRGdk9oUVk2akF4d055RENoOHJxcUo0UWI1WFo4SHh1cHJpRGdTSExIMTNhdEhRaEp1Q0xXZVRqSGlpajhQSGxKSjhLZ1NtRmtXWjFDblVJMHZLd2N3ZjBJNjN0R01CTmoxMkQ5anZhVVp4bmVLRnBQT1FXRndMa0kyLThFMUVFV0xyNUozNk1Eejd1eUhOOFM5V0E5UXh3SDM5ZW5jc2xMeHViYjE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "10702bea0b6d",
-      "title": "Here's why mosquitoes bite you more than others - Firstpost",
-      "published": "2026-07-22T08:39:08+00:00",
-      "summary": "Here's why mosquitoes bite you more than others&nbsp;&nbsp;FirstpostHow mosquitoes really pick their victims at your next evening party&nbsp;&nbsp;Futura, le média qui explore le mondeVERIFY: Are mosquitoes more attracted to certain blood types? Here's what experts say&nbsp;&nbsp;WCNCSo THAT'S Why Mosquitoes Bite Some People More Than Others&nbsp;&nbsp;HuffPostPse mushkonjat pickojnë disa njerëz më shumë se të tjerët&nbsp;&nbsp;Reporteri.net",
-      "sources": [
-        {
-          "name": "Firstpost",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGZ3cnJ6OUtYVmJNdllnOU5xT3hCV0FNM29CcV9zenpJTjctVXoxc0hLaFk4WlRCNGFKUG9od2ZmbzliWEhPN2hOY3JTZWs1d0cwSUxmZFRsYnZ0QTQ1c2FqMDNpOVJsb0huaU5Sa2NGU1oybTVBdTl4Uy1EVllVSnllX21Hci1QSlZXV3kyUXdIM1VzUkUwX3pPdUFYZUdyMnfSAacBQVVfeXFMTzRnVFJRTGZXOElMZHFVRzZmRVR1eGxnZGZFdDkyQTd2UmowRkVONWtCa0F3SE0zZ0UtQlFVSW5Ia1hOMjlzbDRwZUNyUC1RYVlPbmIxSldRbWJjN2pra3YzTUpwUFdxbDhBMWd1a1pYOXlBcGVhbWJheGFEWFhBS0U3OTRidE0wWkZ4SUNwZjhobDBHNnhYa092Wld2ZmlWa0szVnFzMUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0403f24716f2",
-      "title": "Sri Lanka to use drones to fight dengue fever - Baltic News Network",
-      "published": "2026-07-23T12:03:51+00:00",
-      "summary": "Sri Lanka to use drones to fight dengue fever&nbsp;&nbsp;Baltic News NetworkDengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight?&nbsp;&nbsp;BBCSri Lanka uses air force drones to tackle spreading dengue outbreak&nbsp;&nbsp;ReutersSri Lanka National Dengue Control Unit: Weekly Dengue Update, Week 29 (13th - 19th July 2026)&nbsp;&nbsp;ReliefWebDengue threat to continue till mid-August: Health Minister&nbsp;&nbsp;Daily Mirror - Sri Lanka",
-      "sources": [
-        {
-          "name": "Baltic News Network",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oODZWSjNhZklzVmpjd2VnTWp6MU01SXA3S1RnSFdnRTh2N2NrS2pyWXNLajlWbmVzeEg1RWRYUGlLTXUtcmR3ajRydXlTc0pUalhtc2xaa1FSWFlXY09KUFNKRUxWbmtidWlzSFZKRFdScXl3SGhWMjlxYlMtZw?oc=5"
+          "name": "Healthcare Today",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02aktSb3V4VUhmdHFHQ21idVdySkNZVVVJZEhRT2N1NHFJeEd4eWFaUWVzNHJFa0ZTNXptVjJ6bDlERHVCemRndnRFNW1NUVhDUjYtang2Tm1lTmN4M0RHMjBjeUJ6Vk55YnFXYUFuUFgtQ2tOM1RHU3FGbE4?oc=5"
         }
       ]
     },
@@ -484,14 +352,170 @@
       ]
     },
     {
+      "id": "bf7f58d01ebc",
+      "title": "New Cancer Cases Predicted to Increase to 34.4 Million by 2050 - Neurology Advisor",
+      "published": "2026-07-22T04:00:00+00:00",
+      "summary": "New Cancer Cases Predicted to Increase to 34.4 Million by 2050&nbsp;&nbsp;Neurology AdvisorSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Neurology Advisor",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVBBODRaQktwR0VyZEdXelU2SGd4c2dlekpoOGY4ZklpaE04WnY2M0llNGlfc2lqNDIyYUFtNDFIOHVhcTFWU0FmZlBTcTRRaHNiT0NHLVc3a1VwMWQtVGUtTnpWSVlvQ0NteFhCaThwSFBOeXVyc2NnaTJwMXhmOVBXVUxHSU9aSUpXWHJkblo1TGdmeG1GcVdGb3pVb1BRXzdv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aea379290b1d",
+      "title": "Autism-Like Traits in Mice Improved After Single Rapamycin Dose - Genetic Engineering and Biotechnology News",
+      "published": "2026-07-23T18:40:46+00:00",
+      "summary": "Autism-Like Traits in Mice Improved After Single Rapamycin Dose&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsDrug temporarily reverses autism-like brain changes in adult mice within hours&nbsp;&nbsp;Medical XpressA Single Rapamycin Dose Reversed Adult Autism Traits&nbsp;&nbsp;Technology NetworksAutism breakthrough as scientists find cheap drug backed by longevity experts may reverse symptoms&nbsp;&nbsp;Daily Mail",
+      "sources": [
+        {
+          "name": "Genetic Engineering and Biotechnology News",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1BJaWhpRE10NEJ0M3pXZUN0XzFPaE1RU0ZrdlVTQXhpRlR4eFVuLXZQbU1UZ01qVzBUZWVXNlRZeHB4LTF0STFCMWN2dWZWU1JjenA5aHJfU1FXRlBiQmhPUHZRN21ad3ppQnFDRkVES2RMZjJvMG5HOFBwVmgzVzFXVW9OcVJ4eVRzMG5UX21TaFpaSVRmWFhESlBXY3pfVWgwTXh2dWdBek0yY0swaWY5RkxEb1k2bWNVdHFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d470c2ed265",
+      "title": "How telehealth Is driving a surge in ADHD prescriptions - Awaz The Voice",
+      "published": "2026-07-23T06:58:06+00:00",
+      "summary": "How telehealth Is driving a surge in ADHD prescriptions&nbsp;&nbsp;Awaz The VoiceHow telehealth is fueling a surge in ADHD scripts in a business model that benefits the rich&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Awaz The Voice",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzEyRFhOVzg1NHFTNEVLcnpTMDd2aF8xcmpMVUt6U2lMcG5hdU5fcUVWcmRBa01RN0dHRFhrWDR3MF9tcU9yakFYR3hhZ3FDNUhMMTBycWlaRGh5N2VtWk1oMW50YnNTWGFLRFlKSU55S3d5bjBmZTdRYkdxU2tjM0YyUXZJY0lJV3VlOWtBcFJuYXZVWjBtNjhmakdSUUFXeExyOW96UTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2c09d1902947",
+      "title": "WHO warns vitamins alone won't prevent dementia in updated guidance - TheHealthSite",
+      "published": "2026-07-22T07:30:00+00:00",
+      "summary": "WHO warns vitamins alone won't prevent dementia in updated guidance&nbsp;&nbsp;TheHealthSiteNew WHO guidelines: up to 45% of dementia risk could be prevented or delayed&nbsp;&nbsp;World Health Organization (WHO)The earlier you know, the more you can do&nbsp;&nbsp;Oman ObserverAmong the adjustable dementia risk factors for the elderly in Korea, the impact of \"low education le..&nbsp;&nbsp;매일경제WHO updates dementia guidance&nbsp;&nbsp;Clarity News",
+      "sources": [
+        {
+          "name": "TheHealthSite",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQnA5TmEtNWM1THhSWm1WbFdiTm02UWczczJxaVRxR3gzR282RzZEV1ZOS1MzYnFfaFh0b3BFUVRqTGF6SlhyUUdFWWN6cm9hZWswdUVQY0paUGJaTi1SX2EwZG9xM0FZcGRIdVdubkwxVnlhRGhvejhPdlZ2SlI0OUxyRTh2MU5lbzZhTGZKZy0xMndwT3lrWG44SGVLVE8xSlR0NFpZS21SWXVUOGtZcVFzazRZcDA2SG43VkZTUjhub1XSAcgBQVVfeXFMTy1sdUZaOFVMdkRCNUxzSGpUeGwxUnQ0UmROcnRGdk9oUVk2akF4d055RENoOHJxcUo0UWI1WFo4SHh1cHJpRGdTSExIMTNhdEhRaEp1Q0xXZVRqSGlpajhQSGxKSjhLZ1NtRmtXWjFDblVJMHZLd2N3ZjBJNjN0R01CTmoxMkQ5anZhVVp4bmVLRnBQT1FXRndMa0kyLThFMUVFV0xyNUozNk1Eejd1eUhOOFM5V0E5UXh3SDM5ZW5jc2xMeHViYjE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10702bea0b6d",
+      "title": "Here's why mosquitoes bite you more than others - Firstpost",
+      "published": "2026-07-22T08:39:08+00:00",
+      "summary": "Here's why mosquitoes bite you more than others&nbsp;&nbsp;FirstpostHow mosquitoes really pick their victims at your next evening party&nbsp;&nbsp;Futura, le média qui explore le mondeWATCH — Don’t let the mosquitoes bug you. Here’s why they bite | story | Kids News&nbsp;&nbsp;CBCVERIFY: Are mosquitoes more attracted to certain blood types? Here's what experts say&nbsp;&nbsp;WCNCWhy do mosquitoes bite some people more than others? CWRU researchers explain&nbsp;&nbsp;FOX 8 News",
+      "sources": [
+        {
+          "name": "Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGZ3cnJ6OUtYVmJNdllnOU5xT3hCV0FNM29CcV9zenpJTjctVXoxc0hLaFk4WlRCNGFKUG9od2ZmbzliWEhPN2hOY3JTZWs1d0cwSUxmZFRsYnZ0QTQ1c2FqMDNpOVJsb0huaU5Sa2NGU1oybTVBdTl4Uy1EVllVSnllX21Hci1QSlZXV3kyUXdIM1VzUkUwX3pPdUFYZUdyMnfSAacBQVVfeXFMTzRnVFJRTGZXOElMZHFVRzZmRVR1eGxnZGZFdDkyQTd2UmowRkVONWtCa0F3SE0zZ0UtQlFVSW5Ia1hOMjlzbDRwZUNyUC1RYVlPbmIxSldRbWJjN2pra3YzTUpwUFdxbDhBMWd1a1pYOXlBcGVhbWJheGFEWFhBS0U3OTRidE0wWkZ4SUNwZjhobDBHNnhYa092Wld2ZmlWa0szVnFzMUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "de67921a0bd9",
+      "title": "Cardiac Integrated Chip Model Recreates Brain-Heart Signalling - EMJ",
+      "published": "2026-07-22T15:32:02+00:00",
+      "summary": "Cardiac Integrated Chip Model Recreates Brain-Heart Signalling&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTVaMjZoUHEzVmh2dFZOQm40dU54ZHFuTnh3aGNCUEswd3dWSzZFNXZoYWQ5UkVESGpOWlJnRUdZenZkazZ0VWV6X0tibFFOc3psOEI2ZkNwdmlHYXFJcjBvTkpubHZiYWVfclBmcUxVOC1DaTRySW9OVmdTTWI5b1hua3JLQ0c5S3Y4QklSaHFhWUphbVF5blhRWTg2Wkhobk04ZnhsNVlZQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bbcb4a3db4fa",
+      "title": "Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight? - BBC",
+      "published": "2026-07-23T06:24:58+00:00",
+      "summary": "Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight?&nbsp;&nbsp;BBCSri Lanka uses air force drones to tackle spreading dengue outbreak&nbsp;&nbsp;ReutersSri Lanka National Dengue Control Unit: Weekly Dengue Update, Week 29 (13th - 19th July 2026)&nbsp;&nbsp;ReliefWebDengue threat to continue till mid-August: Health Minister&nbsp;&nbsp;Daily Mirror - Sri LankaDengue cases continue rise in Bangladesh and Sri Lanka&nbsp;&nbsp;Outbreak News Today",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRmNIVXVVYjBvamJObjU3MUZiUzhRMGV4dnhVSC1KbnNyU3pWM3lfbTNleTVkWnE0UkFtZ2lsc3ViRm94SlRJdUVKa3V4OTNhZG5qSUM4YmtyUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eafee83fb174",
+      "title": "ICMR Licenses Indigenous Biomedical Technologies - Chemical Industry Digest",
+      "published": "2026-07-23T06:45:21+00:00",
+      "summary": "ICMR Licenses Indigenous Biomedical Technologies&nbsp;&nbsp;Chemical Industry DigestICMR transfers 3 biomedical technologies to Emcure and Biological E&nbsp;&nbsp;ETPharma.comICMR transfers three indigenous biomedical technologies for advancements in cancer and infectious disease solutions&nbsp;&nbsp;BioSpectrum IndiaICMR licenses cancer, vaccine technologies to Emcure, Biological E&nbsp;&nbsp;The Economic TimesICMR Transfers Indigenous Medical Technologies for Commercialisation&nbsp;&nbsp;GK To",
+      "sources": [
+        {
+          "name": "Chemical Industry Digest",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0l1TGl1ZkhFTmtiMGtzR3NERzRiRUtXVFVyWnRwOEtiOHpWdVdpNzh2emNXR1NxaU5FNElMZlI0dHpNVkgzNlRmU2U0S3RRSkdadWozc3M2Ti11UEVIdzFyeV8tNlpsYURCeFFZTms5OGhUREstOFlsWVRvWGs4dWpUaGZaZFhoa0pWRmtweTNWd1Vsd1V3aVo5SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "46d1e52a74c9",
+      "title": "Why the country needs a national birth anomalies registry - expresshealthcare.in",
+      "published": "2026-07-22T08:22:25+00:00",
+      "summary": "Why the country needs a national birth anomalies registry&nbsp;&nbsp;expresshealthcare.in",
+      "sources": [
+        {
+          "name": "expresshealthcare.in",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHZ6V2RQY3pfdm5yUk1KQnRNd1V1RHltck9TNTU3MFFMYlVscUpKaXQwbzM3cjQ4eTNybXEwY2p5TWl3Y3VqY0RrX25UeTB5Z1NOaVZqOVczX29xZVBSWTdqUjdyYnNmZ2ROR3dJZ2QzUmRFOW9wNm1heEZnZWFuQ0EwUGttWFA2LVBZaFU3bzkzbmxfZi1welZ5YV9ielZ0LUg4RWF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8403a0270e25",
+      "title": "Brain Health at Risk: Disorders Associated with Accelerated Ageing, Says Study - The Indian Practitioner",
+      "published": "2026-07-23T14:57:59+00:00",
+      "summary": "Brain Health at Risk: Disorders Associated with Accelerated Ageing, Says Study&nbsp;&nbsp;The Indian PractitionerBrain disorders associated with increased brain ageing: Study&nbsp;&nbsp;ET HealthWorldDementia addiction and psychiatric disorders show distinct patterns of accelerated brain aging&nbsp;&nbsp;News-MedicalMRI reveals links between brain aging, neuro disorders&nbsp;&nbsp;AuntMinnieNearly 49,000 brain scans reveal aging signatures linked to dementia, addiction and mental illness&nbsp;&n",
+      "sources": [
+        {
+          "name": "The Indian Practitioner",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYTFPWno5djE1RVJwLV9PUGFPbXJ3R2VSQ1hQM2dBSXFxNld0a2s4TkFkVlBPNEtJNE1ZbTN1Y2NFUTgyOVkzVXFDdzYzNGhDXzZvcGw0UUV2S3M0Q19WVjdSRWRoTU05azNPQU9JUEJnREN4OVkyRVc2YjFLT1BOOGtXdEhEdnVBTXoydmNDcDM2Ujl3YVFpWkNGOENXRlZfWFZhOVRTWWVMT2JXWE1VZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec7ee3e7514a",
+      "title": "Replacing Gas Stoves With Electric Stoves Greatly Reduces Asthma Symptoms - NDTV",
+      "published": "2026-07-23T13:51:04+00:00",
+      "summary": "Replacing Gas Stoves With Electric Stoves Greatly Reduces Asthma Symptoms&nbsp;&nbsp;NDTV",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjl1TnRNQVpCZExRU1BiMDlTdy1Sa1k0a29FRGROdUMxamdENGZ1UFczZzIwVEZHMGhQai1fNFV6X1RKSXlUaVJBVXYxMnV5V252Uk1QX0FzUWNyand4MFdiWnE2OU1YUWY0bUlBN3d5dWQtT19MWkRPWEJQUkpxOWVDQ3ZsSTJIdUFsdXN2UzZXQ25YU1doeHBzTGNoWTVrVjJyNVhhX3FXanE2YzNj?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2ab17e1e6d06",
       "title": "What the latest routine immunization coverage estimates mean for eradication - ReliefWeb",
       "published": "2026-07-23T10:33:05+00:00",
-      "summary": "What the latest routine immunization coverage estimates mean for eradication&nbsp;&nbsp;ReliefWebGlobal childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO&nbsp;&nbsp;World Health Organization (WHO)WHO UNICEF Immunization Coverage Estimates 2025 revision (released 15 July 2026)&nbsp;&nbsp;ReliefWebExplained | Understanding the global crisis of 13.5 million 'zero-dose' children&nbsp;&nbsp;Deccan HeraldExplainer: How falling vaccination rates are fueling mea",
+      "summary": "What the latest routine immunization coverage estimates mean for eradication&nbsp;&nbsp;ReliefWebGlobal childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO&nbsp;&nbsp;World Health Organization (WHO)WHO UNICEF Immunization Coverage Estimates 2025 revision (released 15 July 2026)&nbsp;&nbsp;ReliefWebWHO: World vaccinated 1.5m more babies in 2025, but millions remain unprotected&nbsp;&nbsp;the-star.co.keExplained | Understanding the global crisis of 13.5 mill",
       "sources": [
         {
           "name": "ReliefWeb",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeDJKdUtMbzZWU2ZOeEV0bXRkOHR0SHVGeXV6TF9Xc2J5c2RES05JYk1LZG5FTUJwbzhaRWJSYVhueFVMQms3OGhpcW0yVVJWMzgxNlQ0RG9XdnFIa0hwSnhGU2h6aUJZZ08tUjQ0aUhLUDA1VXUxNXNQb1BUYkFiUl9hVGdHaWZLMnZuMlp6Yk45N2FacmpJc3dxWk53LWpSZ1N4NDRB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "acad9a992c78",
+      "title": "World Hepatitis Day webinar to be held on July 27 - The Hindu",
+      "published": "2026-07-23T19:20:48+00:00",
+      "summary": "World Hepatitis Day webinar to be held on July 27&nbsp;&nbsp;The HinduPrevention, Diagnosis and Management of Hepatitis B: Operational Toolkit for Healthcare Workers Across All Levels of Care&nbsp;&nbsp;ReliefWebWhat are the effects of Hepatitis B, and why should one vaccinate? Gastroenterologist Dr Ayush Dhingra explains&nbsp;&nbsp;Hindustan TimesDoctors warn against ignoring Jaundice: Hepatitis cases reveal hidden risks; early diagnosis can save lives&nbsp;&nbsp;Bhaskar EnglishWHO urges Africa",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkRERHRmN2dIT0VfSm15bHpJOHRZbEg2dmU0WFFaQTZEZTVXczMtMjFwZjI1ckVIajhFUnhtdUhhWWM3b3l1cnNSNUFIVEMzSkFiVHA0RDhub281amFOWEhLYzZUSkQ0dS1PWW5vWTliMGI5U3VBSHNPcVNXWG9zdGtwZURvZDU2N09RQkozRXR0dEdfakpETTUzZ09uSWRVVVFXN29ucUhWM2pQeWpSMTRUUVJISDRUd3FZ0gHCAUFVX3lxTFBwLXB5SUI3dFZsczVUd3E2ek1ld2E0ejdKR05NSm5Md0IyejczdXRVXzNLMm9tb0NKSzZ6T242QjUzMndfcENnaGtpdEFWWmNTLWhYaHgzbE9VRTRoQnJrcHVSd1cyalozZGdYa0w3YTF1cjBaU3VTVkdXLUpaUGdKTEZQb083RGlydjd5UXZjS0F5REt4VnExTzNKeGwydzNoSHFvSzJzZVpPSERiNVE4TWJQdGVkLWptX2pKTFh3MzVB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "303adb2ee1b9",
+      "title": "6 early dementia signs — and how to lower your risk - Advisory Board",
+      "published": "2026-07-22T14:28:42+00:00",
+      "summary": "6 early dementia signs — and how to lower your risk&nbsp;&nbsp;Advisory Board6 dementia symptoms that can show up years before diagnosis: Early warning signs you shouldn't ignore&nbsp;&nbsp;The Times of IndiaThis nighttime disorder may signal Alzheimer’s years before memory loss appears&nbsp;&nbsp;Futura, le média qui explore le mondeCan’t find your keys? Read this:&nbsp;&nbsp;Knox TN TodayPredicting dementia and Alzheimer’s 9 years before the first symptoms&nbsp;&nbsp;Techno-Science",
+      "sources": [
+        {
+          "name": "Advisory Board",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53YWdhX0NRYzRBU0pJODhjdDk2SkxHdEFHWmY2WGhnS3F3ZDljNnZaM01qSHduZGpHUk93UHBjNVBpdVc1SnNuSEgwU1hYZXNtM0luVU42Q1loRlVWcEloZExqd0pXVWs2MWM2Tzg5MVEwY0pkTHpZ?oc=5"
         }
       ]
     },
@@ -508,134 +532,14 @@
       ]
     },
     {
-      "id": "44967c534438",
-      "title": "Supercare hospital to run 4-day liver health campaign ahead of WHD - Hub News",
-      "published": "2026-07-23T15:47:57+00:00",
-      "summary": "Supercare hospital to run 4-day liver health campaign ahead of WHD&nbsp;&nbsp;Hub NewsPrevention, Diagnosis and Management of Hepatitis B: Operational Toolkit for Healthcare Workers Across All Levels of Care&nbsp;&nbsp;ReliefWebWhat are the effects of Hepatitis B, and why should one vaccinate? Gastroenterologist Dr Ayush Dhingra explains&nbsp;&nbsp;Hindustan TimesDoctors warn against ignoring Jaundice: Hepatitis cases reveal hidden risks; early diagnosis can save lives&nbsp;&nbsp;Bhaskar English",
+      "id": "29fbcf99de6d",
+      "title": "Popular Snack Foods May Increase Exposure to Toxins Linked to Cancer and Other Health Issues, Study Finds - Yahoo News New Zealand",
+      "published": "2026-07-23T13:58:54+00:00",
+      "summary": "Popular Snack Foods May Increase Exposure to Toxins Linked to Cancer and Other Health Issues, Study Finds&nbsp;&nbsp;Yahoo News New Zealand",
       "sources": [
         {
-          "name": "Hub News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVG96ajRBd0tycDR1a2Y1bTlyaWUzT0xKcnFwbk9XclRpdmlyM1kta0QxTTE0REpPaC1VdlRkX1dGbmtWdi1uTmhzc1FJRVNfTVlFck1ic2NJRHB0MlV2NHNwbUFaQzVtdnBSUUdlX2gyOG5mUVBiei12NmRkek5lN1hTZ0R1amJEbm1KU2x3UW9rcTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8b0b54e27292",
-      "title": "Can Your Child’s Diet Shape Future Diabetes Risk? Study Links Ultra Processed Foods To Insulin Responses - Health and Me",
-      "published": "2026-07-22T13:54:00+00:00",
-      "summary": "Can Your Child’s Diet Shape Future Diabetes Risk? Study Links Ultra Processed Foods To Insulin Responses&nbsp;&nbsp;Health and MeUltra-processed foods tied to brain differences in young children&nbsp;&nbsp;Contemporary PediatricsChildhood ultra-processed food intake associates with altered insulin responses&nbsp;&nbsp;News-MedicalMaternal diets high in UPFs may influence children’s health years later&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "Health and Me",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVFBYWTFTM0dHRzFNTzJUSkNYVjdLUWJfZHR5OGdvWGNRNldMVkxRVGM2MHlfWkM1NEFxOVRwNTFkTmRyS0ZaQ0xkbEoxUWFXUU1NSHNNUVQwU3R3QTBGMjBMbW96d3hZbDBlVE5WOV9nd29JbThFSTRLTExYSzMxTUdfQzdKRWs0MVhCeHc4ME9xOVdiVHNoVkNYSlVONVMtNEY1bjItaTNjcF9NX1JYc0dmcGdLb1pOLXhIUHJNZzJPSE1Pa2g0M2w5bnJrVFcxdXRjdDNSbGlIbUFoZGFMVmc5NE0wek5yMnI5Ui1zWUZKQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "27a3262315c9",
-      "title": "The heart has a ‘little brain’ — and it protects against stress - Nature",
-      "published": "2026-07-22T20:10:12+00:00",
-      "summary": "The heart has a ‘little brain’ — and it protects against stress&nbsp;&nbsp;NatureHow the heart's 'little brain' helps it function and protects it against stress&nbsp;&nbsp;Medical XpressScientists Discover the Heart’s ‘Little Brain’ That Helps Protect Against Stress&nbsp;&nbsp;slguardian.orgOur Heart Has A 'Little Brain'. New Study Reveals How It May Protect Us During Stress&nbsp;&nbsp;News18",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4ejlUTHU1bDgtczY5Y2JUQ2NaWGFMbnkwbDNZWGhsWDVpdkZ3UmszbXh3ZUZJY19pMmpmNmVDTFJkYnBxbVBERUJWU3QxLUJ3SWlndEt5RHlWbXptVld3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "731ae4c2b6f6",
-      "title": "Blood test developed to better predict colorectal cancer recurrence, metastasis - koreabiomed.com",
-      "published": "2026-07-22T01:15:11+00:00",
-      "summary": "Blood test developed to better predict colorectal cancer recurrence, metastasis&nbsp;&nbsp;koreabiomed.comThe Blood Test Changing Rectal Cancer Surveillance&nbsp;&nbsp;Cleveland ClinicA Single Blood Sample May Improve the Prediction of Colorectal Cancer Recurrence or Metastasis, KAIST Study Finds&nbsp;&nbsp;EurekAlert!Can a Blood Test Tell If Colorectal Cancer Will Come Back?&nbsp;&nbsp;StudyFindsA single blood sample may improve the prediction of colorectal cancer recurrence or metastasis&nbsp;",
-      "sources": [
-        {
-          "name": "koreabiomed.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhblJQTHVROEdiVktiSlVka0xaaHdpbFlHQUtteHA0MDd5Vm5qZnRWN3Q0T1lwVi1LbFE5S0JvOElueHl4U3JkaWl3T0JueTlHeFFmY2pIR0NrSXVZMlJFMWFvQ1Y0S3doaXRnZTV30gFyQVVfeXFMUFQzX2t4Y0VFRDRwdXU3TDVXR0djUlNKRFhxYzlhTzBHRTZmODB3RzhzX21tUTloa2x1TE8xc1hmRGhyV2w3WDk1QWMtRFF6RWlOQkR0bXNUNFZjRTl3b19UX3FobnM1b3l0SWRCQjRyLS1n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4b11b758bc34",
-      "title": "CT Histogram Analysis May Support Liver Fibrosis Assessment - EMJ",
-      "published": "2026-07-22T14:31:56+00:00",
-      "summary": "CT Histogram Analysis May Support Liver Fibrosis Assessment&nbsp;&nbsp;EMJCirrhosis research discovers value of CT scans&nbsp;&nbsp;Scientist LiveCT-Measured Fat and Muscle Changes Predict Severe Liver Complications in Chronic Hepatitis B-Related Cirrhosis | Newswise&nbsp;&nbsp;NewswiseCT-measured fat and muscle changes predict severe liver complications in Chronic Hepatitis B-Related Cirrhosis&nbsp;&nbsp;EurekAlert!",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWlQNlIwZ0QwYzBudmNSWnFvSlpxVjVWQVUzNWdSN2VpOS1rTXhYa3hfb21FZjctS3BaT0VkT0NYRWdfejM0VFAwZm00ZjJhS1MydEpXSEJTd0p2dmo1TEZISWpJZUhvNElFS2lVOWhiMG90X3djd05NeWVRX2xsOEhRY1l0akg1VVBWWFpnVGtFNW9CeWMtUWpVd19lWHVUMVBOYg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f64abf91bee",
-      "title": "Stroke can happen at any age! Know warning signs and act FAST this World Brain Day 2026 - Healthshots",
-      "published": "2026-07-22T10:28:47+00:00",
-      "summary": "Stroke can happen at any age! Know warning signs and act FAST this World Brain Day 2026&nbsp;&nbsp;HealthshotsWhy Are Brain Stroke Cases Rising In People Under 40? Neurologist Explains&nbsp;&nbsp;NDTVMini strokes rising in young adults: Warning signs you should never ignore&nbsp;&nbsp;The Indian ExpressHow to know if you're having a stoke? Physician Dr Kunal Sood shares the easiest way to recognise the warning signs&nbsp;&nbsp;Hindustan TimesStroke is rising among young adults. Doctor explains w",
-      "sources": [
-        {
-          "name": "Healthshots",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYkFnbVRKZGdTcm15Nkk3VDFJMnBWZk02OHJscUNTN1pkNVRXbkpLTzY0YjFQYmZtTkx3aUJhblN1SkUza0ZDdEVSNWxCcXJQcnNEZm9jREdlU1BlMFR6Rmx4LVpUT1p2VjNlMzhfYVluREVmamRSOHNjcXl5Z1BOV1hfVmUzbEIza1JsLdIBkAFBVV95cUxPQWpvazR5bzVpSXBPMnlmZXhHbFBiOVEwbGtYM0JybmJCcjBTMzRVUkRNTWtkX3JFMFZKUFdvb0xZRW1JblF6ZXpwdGlLZ1ZMSzFKanZVNkpWMThEblFrTE5Gd04zVEcxSl9MRkZ4M3dGYzBmeklaZ3NrZFZ4dUNuN211M1RBVVhjT3VmSjJ4aTI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce662ebaab44",
-      "title": "ADHD can remain hidden for decades: Why delays in diagnosis are common - The Hindu",
-      "published": "2026-07-22T13:13:58+00:00",
-      "summary": "ADHD can remain hidden for decades: Why delays in diagnosis are common&nbsp;&nbsp;The HinduHas the Pressure on the ADHD Diagnosis Reached a Tipping Point?&nbsp;&nbsp;Mad In AmericaAre rates of ADHD really rising?&nbsp;&nbsp;Psychology TodayADHD: What’s behind the recent explosion in diagnoses?&nbsp;&nbsp;New ScientistFinding ADHD later in life&nbsp;&nbsp;Top South Now",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjVkX3FOdzZuTUt1NFdrTEZMWFczdUF0clJmQS10MUdvSkctUEM3eVhXQ3hsb3JvUzJ0bGpTdC14dkt2UXBtRVdVUlA2Z1F2NlZ3bFlXd3NIUTJVcjZ2enlNQkF0QVhkbTBDSEFQX1oyMXJ3cEs4anJ6NWgwNXI4TEgxNm1oYWkxUFRWZGJ0OE5iRHR3dlRaYmFMRVY2OWtCZ0dfWmFWVmhaRHYtN19TY2dHSXVFd3JNbDNFRDBEZHVOc2VXTUxlOEln0gHQAUFVX3lxTE5mTVhyMEtvT01Sc3lKa3FoN29xdTdzMmhCMUpWYktRYk54dEgwZXo1UFR1UHRrOFp3ekIxQlN2WGhRYmpQZTFYeGV3NFVvX3lZUWN5VTFPMWJGMTdYdXhIdERya0pHZUVRSHNDWDM3ak5uSlV2ekNzSEVJRGR6LUxiczlQMlV2cjloTUtCVnNPYUJjdG12NDNKMVRVS0dMSE9vSWM0bENWbnl1dl9Fc0Q2YlhJaElaSDVCMm53Q3dGR2drZkJVQzJWRWFHWHJLMEw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "215bd8537cd3",
-      "title": "Facial paralysis: How gentle electroacupuncture may boost nerve repair - TheHealthSite",
-      "published": "2026-07-22T01:46:00+00:00",
-      "summary": "Facial paralysis: How gentle electroacupuncture may boost nerve repair&nbsp;&nbsp;TheHealthSiteComparison of FDIP and FDIS scores before and after treatment of patients with peripheral facial paralysis in the 3 groups (x̄ ± s).&nbsp;&nbsp;EurekAlert!Gentle electroacupuncture effectively promotes nerve repair in facial paralysis&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "TheHealthSite",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmtEV05OWFRIRVAzRnEtTllYekFjVHA3NWdtZXNOUHBSdml6UWgzeTJhUmxrQ05pSTR0dWJLWWdJbUVvVWVpVW9vTmhmckVHUllrd1hXZm00S0ZicnUtQVJYWjN3QnhlcElveU1wckgtdFBkQ21mN0FKY3p3dC1NblMxRl90TGhHOFJCalJiUm5xRGZESld1aFpsOUJoNkVWNzRTaXV5aXpUQUVEM19wTzhyVUhqaEZLMnA1VGNCVTJ2b1BZRzdr0gHMAUFVX3lxTE5BaWRoeG5YcGlfTFE0SklWWndRamozaEItU0Zyai1MVDV1dkJibWN4aHVsZ3A1UTd4VjFwcTh4Uk84WVVicTZ3Y0UyTHlkNnN3SXc3TGQwVG9JT0lmOHNfZktFeFN4cXR0T1ZpVHBxTzdXUDdnUmdYOFdOdVVETUV5VnpOVjNZMTZWaXN6VzdoamdUQ0d0OUl4TXVqeVFmN2E0WnhONHV4bHBLNDRnZDl4TEV3akh6NkI5UFNRZGhlZzVrUl9iR21UMDJpUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29c0eed8ff76",
-      "title": "How Obesity Shapes Outcomes in Psoriatic Arthritis - EMJ",
-      "published": "2026-07-22T15:22:00+00:00",
-      "summary": "How Obesity Shapes Outcomes in Psoriatic Arthritis&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjc0dlBOVUtPc1BVUXI1R2s1NUd3Qm5zem5GZldyVWh5SjM5Ui14ekYyak9GY2FfVnpQQzg1Y2VKSlI1enRyLWdpRlZpNGtrYXprcmZEVlZTTUNzeUtTX1pqY0tOSnNtelpPMWd2WUdVZDkwaXBnTWh0QTlyVVBpWmJnSVFaZllXZWE1NEhWalVvN1V5QW4xTlgwSWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8db867c0a68e",
-      "title": "Speeding up gynaecological diagnoses - Healthcare Today",
-      "published": "2026-07-23T06:18:43+00:00",
-      "summary": "Speeding up gynaecological diagnoses&nbsp;&nbsp;Healthcare Today'I lost years waiting for endometriosis diagnosis'&nbsp;&nbsp;BBCUK experts unveil endometriosis tests that could cut diagnosis time from 9 years to 45 minutes; call them 'game changing'&nbsp;&nbsp;Deccan HeraldNew Endometriosis Tests Could Speed Up Diagnosis—We Asked A Women's Health Expert What You Need To Know&nbsp;&nbsp;Yahoo HealthTwo New Tests Could Help GPs Diagnose Endometriosis Faster&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "Healthcare Today",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02aktSb3V4VUhmdHFHQ21idVdySkNZVVVJZEhRT2N1NHFJeEd4eWFaUWVzNHJFa0ZTNXptVjJ6bDlERHVCemRndnRFNW1NUVhDUjYtang2Tm1lTmN4M0RHMjBjeUJ6Vk55YnFXYUFuUFgtQ2tOM1RHU3FGbE4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "133c1c1c020c",
-      "title": "Poor sleep increases the risk of brain disorders: Warning signs you should never ignore - theweek.in",
-      "published": "2026-07-22T10:44:44+00:00",
-      "summary": "Poor sleep increases the risk of brain disorders: Warning signs you should never ignore&nbsp;&nbsp;theweek.inQuality sleep key to protecting brain health amid rising screen time, say neurologists&nbsp;&nbsp;The HinduWorld Brain Day 2026: Doctor explains why your brain stays active even during sleep&nbsp;&nbsp;FirstpostStress, Screens And Sleep: A Brain Health Check&nbsp;&nbsp;BW Healthcare WorldPoor sleep may affect the brain differently at different ages&nbsp;&nbsp;diabetes.co.uk",
-      "sources": [
-        {
-          "name": "theweek.in",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVWg1VkVLVWxoRTdHZ2VsRlJLYzZleWw5QnIwMDFwRlJSYWRPSURMaWdBdDRmZnQ5bHFONExiek03ZlFiY2tXVEszdW50ekFUejJiYjZhQWhCU0gzTVpMRWpxeDBDY3JXc3VTYWVBWW12VW9sYWdhQklnSHIxSDgtb2lmeUlTYlVRTTVDMkxnRDZIdWgwYlQyS1NhOENNRlBSdnpnQ2R1ZXJlTVpic1dtMEpISEZlT0FPNmFrTzFQM0pQeHBWM3YxVjVnMXYyaGNJZ3VR0gHYAUFVX3lxTE92VFVVWXJZcFJLR1ZqUXlKNnk0cjExUldNWnNOcHNONVdxWDk3UHVxempodWpCRjRPd2VlYzBwWFBzbkpJUTM0Tmxnd1RpU3h6U2FlYWw5Q0M4b2ZzamFfNTNlQldNc19YaC13OUE0YXdNSWpGeEVSbXF5OGM5OGFXaTJkZjJvcFo2MGR4MU1tbE0yTGd2bF9tVEZCNkdQdTRVMHdxdmNaUmVpTy0yUV9mNmI0bHczcy1TMnB4eTdsY0NZWkpQaGw3QXlrTHljTHF4MjZUMy1MSQ?oc=5"
+          "name": "Yahoo News New Zealand",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KVTZjQVNRRjljUGFXeU9fTXBCbl9yYUJJek9Dc0p5TDZwLXFkeHlhODk1b2dLMmNZSlpRYzU2N3dqN1N3cGxsd1dPT0k4YTNYYjl4cmZ3c2R3cXJ5cklYTmpWa2Z3WnlfVjRwbjU0azk5LXhrZWJBRmFmU0VLZw?oc=5"
         }
       ]
     },
@@ -652,6 +556,162 @@
       ]
     },
     {
+      "id": "eaca4e2a39eb",
+      "title": "Five people dead from Legionnaires' disease in New York City - news.cgtn.com",
+      "published": "2026-07-23T06:42:37+00:00",
+      "summary": "Five people dead from Legionnaires' disease in New York City&nbsp;&nbsp;news.cgtn.comQuit 'bug'ging me&nbsp;&nbsp;PressReaderNew York City confirms Legionella cluster tied to cooling towers after a death&nbsp;&nbsp;Межа. Новини України.Beware the flamboyant candidates with no experience&nbsp;&nbsp;thealpenanews.comMayor Zohran Mamdani hits back at NYC Council Speaker Menin’s charge of mishandling Legionnaires’ outbreak&nbsp;&nbsp;Yahoo News New Zealand",
+      "sources": [
+        {
+          "name": "news.cgtn.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2lxX3l1WDhvb2ZseGwtYzRwZVh0LXgyMS1CT282WXhVeUhXelR5Q1ZlSllHdDE4M0lEZDhTa3FRaXNhN21hYzRuSzBIU3ZuNGd4SFdySTMzQnJzMmdKUzU5Yktlc0FQU2F0WklnVkZMNTdicmgwdXYxYWEwNzYySU5Yb28xdmFFNHJTVzBiVE9LNFVoLVpvTmlwcUlZbUVVU0FUb0ZjRFFhOVBzbjBmRmZOdnA5WnM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b621a41871d6",
+      "title": "How many cups of coffee can you drink in a day? Science says your daily limit is higher than expected - GQ India",
+      "published": "2026-07-23T09:30:00+00:00",
+      "summary": "How many cups of coffee can you drink in a day? Science says your daily limit is higher than expected&nbsp;&nbsp;GQ IndiaCoffee and heart health: How many cups of caffeinated coffee are safe to drink each day?&nbsp;&nbsp;www.heart.orgThe Caffeine Paradox: How Coffee Protects Your Heart While Energy Drinks Damage It&nbsp;&nbsp;NDTV4 cups of coffee a day 'lowers stroke, heart failure risk’: Heart surgeon Dr London explains when it can benefit you&nbsp;&nbsp;Hindustan TimesModerate Coffee and Caffe",
+      "sources": [
+        {
+          "name": "GQ India",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWXItRC1VMVFzV0JLMlIwVGtya1RBMWNQMVVEQU9MbzlQNmFUN2FyWTFGUEVyYm1sd2FMeW5Bemo2bHdlVGFGUHFsSjh3VGZtaVRWdm9xb25yR0R5d0dtMkNLNGxYbUl4dFhEdzhFTnB3ZUpQUjJBYmI2VDBDOXZyRXBTQXdzNVNWQmExOWpvRTUzYlNiR2o3Z2F4dGcyZDBVR2gtNGcxeG9zekM2eDlsR2VwZmlHREhSMnNfMnlGWVRuWDEzZVlGek9ua3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b11b758bc34",
+      "title": "CT Histogram Analysis May Support Liver Fibrosis Assessment - EMJ",
+      "published": "2026-07-22T14:31:56+00:00",
+      "summary": "CT Histogram Analysis May Support Liver Fibrosis Assessment&nbsp;&nbsp;EMJCirrhosis research discovers value of CT scans&nbsp;&nbsp;Scientist LiveCT-Measured Fat and Muscle Changes Predict Severe Liver Complications in Chronic Hepatitis B-Related Cirrhosis | Newswise&nbsp;&nbsp;NewswiseCT-measured fat and muscle changes predict severe liver complications in Chronic Hepatitis B-Related Cirrhosis&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWlQNlIwZ0QwYzBudmNSWnFvSlpxVjVWQVUzNWdSN2VpOS1rTXhYa3hfb21FZjctS3BaT0VkT0NYRWdfejM0VFAwZm00ZjJhS1MydEpXSEJTd0p2dmo1TEZISWpJZUhvNElFS2lVOWhiMG90X3djd05NeWVRX2xsOEhRY1l0akg1VVBWWFpnVGtFNW9CeWMtUWpVd19lWHVUMVBOYg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29c0eed8ff76",
+      "title": "How Obesity Shapes Outcomes in Psoriatic Arthritis - EMJ",
+      "published": "2026-07-22T15:22:00+00:00",
+      "summary": "How Obesity Shapes Outcomes in Psoriatic Arthritis&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjc0dlBOVUtPc1BVUXI1R2s1NUd3Qm5zem5GZldyVWh5SjM5Ui14ekYyak9GY2FfVnpQQzg1Y2VKSlI1enRyLWdpRlZpNGtrYXprcmZEVlZTTUNzeUtTX1pqY0tOSnNtelpPMWd2WUdVZDkwaXBnTWh0QTlyVVBpWmJnSVFaZllXZWE1NEhWalVvN1V5QW4xTlgwSWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92cf4d2a5bbc",
+      "title": "How the heart's 'little brain' helps it function and protects it against stress - Medical Xpress",
+      "published": "2026-07-23T14:28:55+00:00",
+      "summary": "How the heart's 'little brain' helps it function and protects it against stress&nbsp;&nbsp;Medical XpressScientists Discover the Heart’s ‘Little Brain’ That Helps Protect Against Stress&nbsp;&nbsp;slguardian.orgOur Heart Has A 'Little Brain'. New Study Reveals How It May Protect Us During Stress&nbsp;&nbsp;News18",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nLU43akhlVEJWaUR4SnNCVWpTbkJCM1VNY2ZqYXpDQ1BVU1VGOFpUMHBlVXprTlludGpmc2hYR1RycFNfdi10NkliY1pPT0VFNnNqR0Rwc0lRVEE0dkNXVTFmbUg0cE9fYkxSaHRIRTc3NjNxUW5hb0NsYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "19a9d96e373f",
+      "title": "Breast Cancer Survivors Face Higher Ischemic Stroke Risk in First Year Post-Dx - Oncology Nursing News",
+      "published": "2026-07-23T13:08:59+00:00",
+      "summary": "Breast Cancer Survivors Face Higher Ischemic Stroke Risk in First Year Post-Dx&nbsp;&nbsp;Oncology Nursing News",
+      "sources": [
+        {
+          "name": "Oncology Nursing News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEVhM0VueEJRejJPbldBcko2cWw5czR4b0NPb21XV1o5R3lPVUhNRnlzQ2JqalFEVTlWblJReUdTTWl2cUoyRjd0djlTU1BmUmxwNmxza0JDWG9YR2pIMXROb2VrbmFHQkRoRFlzNFdJME5sS2pTUXgwbWRXVnpMNlFmeWtyamRCUkYtU0lqcTRtcVQyMFMzZWVYSmNjdFA1N1gwOC1yeHdZU0c0SzMwdHl2bVU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f64abf91bee",
+      "title": "Stroke can happen at any age! Know warning signs and act FAST this World Brain Day 2026 - Healthshots",
+      "published": "2026-07-22T10:28:47+00:00",
+      "summary": "Stroke can happen at any age! Know warning signs and act FAST this World Brain Day 2026&nbsp;&nbsp;HealthshotsWhy Are Brain Stroke Cases Rising In People Under 40? Neurologist Explains&nbsp;&nbsp;NDTVMini strokes rising in young adults: Warning signs you should never ignore&nbsp;&nbsp;The Indian ExpressHow to know if you're having a stoke? Physician Dr Kunal Sood shares the easiest way to recognise the warning signs&nbsp;&nbsp;Hindustan TimesStroke rising among 30s-40s in UP; experts stress earl",
+      "sources": [
+        {
+          "name": "Healthshots",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYkFnbVRKZGdTcm15Nkk3VDFJMnBWZk02OHJscUNTN1pkNVRXbkpLTzY0YjFQYmZtTkx3aUJhblN1SkUza0ZDdEVSNWxCcXJQcnNEZm9jREdlU1BlMFR6Rmx4LVpUT1p2VjNlMzhfYVluREVmamRSOHNjcXl5Z1BOV1hfVmUzbEIza1JsLdIBkAFBVV95cUxPQWpvazR5bzVpSXBPMnlmZXhHbFBiOVEwbGtYM0JybmJCcjBTMzRVUkRNTWtkX3JFMFZKUFdvb0xZRW1JblF6ZXpwdGlLZ1ZMSzFKanZVNkpWMThEblFrTE5Gd04zVEcxSl9MRkZ4M3dGYzBmeklaZ3NrZFZ4dUNuN211M1RBVVhjT3VmSjJ4aTI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "215bd8537cd3",
+      "title": "Facial paralysis: How gentle electroacupuncture may boost nerve repair - TheHealthSite",
+      "published": "2026-07-22T01:46:00+00:00",
+      "summary": "Facial paralysis: How gentle electroacupuncture may boost nerve repair&nbsp;&nbsp;TheHealthSiteComparison of FDIP and FDIS scores before and after treatment of patients with peripheral facial paralysis in the 3 groups (x̄ ± s).&nbsp;&nbsp;EurekAlert!Gentle electroacupuncture effectively promotes nerve repair in facial paralysis&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "TheHealthSite",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmtEV05OWFRIRVAzRnEtTllYekFjVHA3NWdtZXNOUHBSdml6UWgzeTJhUmxrQ05pSTR0dWJLWWdJbUVvVWVpVW9vTmhmckVHUllrd1hXZm00S0ZicnUtQVJYWjN3QnhlcElveU1wckgtdFBkQ21mN0FKY3p3dC1NblMxRl90TGhHOFJCalJiUm5xRGZESld1aFpsOUJoNkVWNzRTaXV5aXpUQUVEM19wTzhyVUhqaEZLMnA1VGNCVTJ2b1BZRzdr0gHMAUFVX3lxTE5BaWRoeG5YcGlfTFE0SklWWndRamozaEItU0Zyai1MVDV1dkJibWN4aHVsZ3A1UTd4VjFwcTh4Uk84WVVicTZ3Y0UyTHlkNnN3SXc3TGQwVG9JT0lmOHNfZktFeFN4cXR0T1ZpVHBxTzdXUDdnUmdYOFdOdVVETUV5VnpOVjNZMTZWaXN6VzdoamdUQ0d0OUl4TXVqeVFmN2E0WnhONHV4bHBLNDRnZDl4TEV3akh6NkI5UFNRZGhlZzVrUl9iR21UMDJpUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b0b54e27292",
+      "title": "Can Your Child’s Diet Shape Future Diabetes Risk? Study Links Ultra Processed Foods To Insulin Responses - Health and Me",
+      "published": "2026-07-22T13:54:00+00:00",
+      "summary": "Can Your Child’s Diet Shape Future Diabetes Risk? Study Links Ultra Processed Foods To Insulin Responses&nbsp;&nbsp;Health and MeUltra-processed foods tied to brain differences in young children&nbsp;&nbsp;Contemporary PediatricsChildhood ultra-processed food intake associates with altered insulin responses&nbsp;&nbsp;News-MedicalMaternal diets high in UPFs may influence children’s health years later&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVFBYWTFTM0dHRzFNTzJUSkNYVjdLUWJfZHR5OGdvWGNRNldMVkxRVGM2MHlfWkM1NEFxOVRwNTFkTmRyS0ZaQ0xkbEoxUWFXUU1NSHNNUVQwU3R3QTBGMjBMbW96d3hZbDBlVE5WOV9nd29JbThFSTRLTExYSzMxTUdfQzdKRWs0MVhCeHc4ME9xOVdiVHNoVkNYSlVONVMtNEY1bjItaTNjcF9NX1JYc0dmcGdLb1pOLXhIUHJNZzJPSE1Pa2g0M2w5bnJrVFcxdXRjdDNSbGlIbUFoZGFMVmc5NE0wek5yMnI5Ui1zWUZKQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce662ebaab44",
+      "title": "ADHD can remain hidden for decades: Why delays in diagnosis are common - The Hindu",
+      "published": "2026-07-22T13:13:58+00:00",
+      "summary": "ADHD can remain hidden for decades: Why delays in diagnosis are common&nbsp;&nbsp;The HinduHas the Pressure on the ADHD Diagnosis Reached a Tipping Point?&nbsp;&nbsp;Mad In AmericaAre rates of ADHD really rising?&nbsp;&nbsp;Psychology TodayADHD: What’s behind the recent explosion in diagnoses?&nbsp;&nbsp;New ScientistFinding ADHD later in life&nbsp;&nbsp;Top South Now",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjVkX3FOdzZuTUt1NFdrTEZMWFczdUF0clJmQS10MUdvSkctUEM3eVhXQ3hsb3JvUzJ0bGpTdC14dkt2UXBtRVdVUlA2Z1F2NlZ3bFlXd3NIUTJVcjZ2enlNQkF0QVhkbTBDSEFQX1oyMXJ3cEs4anJ6NWgwNXI4TEgxNm1oYWkxUFRWZGJ0OE5iRHR3dlRaYmFMRVY2OWtCZ0dfWmFWVmhaRHYtN19TY2dHSXVFd3JNbDNFRDBEZHVOc2VXTUxlOEln0gHQAUFVX3lxTE5mTVhyMEtvT01Sc3lKa3FoN29xdTdzMmhCMUpWYktRYk54dEgwZXo1UFR1UHRrOFp3ekIxQlN2WGhRYmpQZTFYeGV3NFVvX3lZUWN5VTFPMWJGMTdYdXhIdERya0pHZUVRSHNDWDM3ak5uSlV2ekNzSEVJRGR6LUxiczlQMlV2cjloTUtCVnNPYUJjdG12NDNKMVRVS0dMSE9vSWM0bENWbnl1dl9Fc0Q2YlhJaElaSDVCMm53Q3dGR2drZkJVQzJWRWFHWHJLMEw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d29c64dfff9",
+      "title": "Study Compared Data Sources for Hepatitis C Care Outcomes in the USA - EMJ",
+      "published": "2026-07-22T14:36:12+00:00",
+      "summary": "Study Compared Data Sources for Hepatitis C Care Outcomes in the USA&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUJqajBrVFdMRmxpaW1rQ0lxR0ExdV9zYko4dWxUaUxsZU8ybURaMjNQdVpyUk1LcDlPVE54VElqbjRFLWhzeHh3NUNGb2hFX1lDeHg0NG1IcG5fSnVGSW1ZaVNyU1FGTFVGWndiS3ZSSnMzNS1lLWxnTjFvYTR0T3NIbmN6eC1PX2Z3VjNlU2hLY3JnUW44bkNKQmJiUU1TcURVTzRnUXVlUFFtUGx4X2h3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "133c1c1c020c",
+      "title": "Poor sleep increases the risk of brain disorders: Warning signs you should never ignore - theweek.in",
+      "published": "2026-07-22T10:44:44+00:00",
+      "summary": "Poor sleep increases the risk of brain disorders: Warning signs you should never ignore&nbsp;&nbsp;theweek.inQuality sleep key to protecting brain health amid rising screen time, say neurologists&nbsp;&nbsp;The HinduWorld Brain Day 2026: Doctor explains why your brain stays active even during sleep&nbsp;&nbsp;FirstpostStress, Screens And Sleep: A Brain Health Check&nbsp;&nbsp;BW Healthcare WorldPoor sleep may affect the brain differently at different ages&nbsp;&nbsp;diabetes.co.uk",
+      "sources": [
+        {
+          "name": "theweek.in",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVWg1VkVLVWxoRTdHZ2VsRlJLYzZleWw5QnIwMDFwRlJSYWRPSURMaWdBdDRmZnQ5bHFONExiek03ZlFiY2tXVEszdW50ekFUejJiYjZhQWhCU0gzTVpMRWpxeDBDY3JXc3VTYWVBWW12VW9sYWdhQklnSHIxSDgtb2lmeUlTYlVRTTVDMkxnRDZIdWgwYlQyS1NhOENNRlBSdnpnQ2R1ZXJlTVpic1dtMEpISEZlT0FPNmFrTzFQM0pQeHBWM3YxVjVnMXYyaGNJZ3VR0gHYAUFVX3lxTE92VFVVWXJZcFJLR1ZqUXlKNnk0cjExUldNWnNOcHNONVdxWDk3UHVxempodWpCRjRPd2VlYzBwWFBzbkpJUTM0Tmxnd1RpU3h6U2FlYWw5Q0M4b2ZzamFfNTNlQldNc19YaC13OUE0YXdNSWpGeEVSbXF5OGM5OGFXaTJkZjJvcFo2MGR4MU1tbE0yTGd2bF9tVEZCNkdQdTRVMHdxdmNaUmVpTy0yUV9mNmI0bHczcy1TMnB4eTdsY0NZWkpQaGw3QXlrTHljTHF4MjZUMy1MSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "745825b8ce57",
+      "title": "Microplastics detected in most heart attack patients' blood in startling new study - Fox News",
+      "published": "2026-07-23T19:23:54+00:00",
+      "summary": "Microplastics detected in most heart attack patients' blood in startling new study&nbsp;&nbsp;Fox NewsDo patients who suffer heart attack have more micro and nanoplastic in their blood? New study assessed&nbsp;&nbsp;The ConversationCould microplastics be linked to cardiovascular disease?&nbsp;&nbsp;pharmaphorumMicroplastics Found in 84% of Serious Heart Attack Patients&nbsp;&nbsp;SciTechDailyThe Emerging Link Between Microplastics and Heart Disease&nbsp;&nbsp;Time Magazine",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamE3dEpKbFZaWnAwNVh2a1ZBa05rN3EyLUJ4TU9oekM1SEJWLXpya0RxMWRqRFBENTZCdnRIc3I2QlY1U1JuV0FwbTNRMjlzZmJJNWUwTGFvRGlrcFBGem9YMEtUXzNjYllIWjViMXhEa0V3M0hYc05kbXpwc1FQLXQ1dzl5b0g4bHE5SUlFeWRKbVZQdWJmX0l6b2xScGJXLU43ZVQtZWZrZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ac304f658269",
       "title": "Protecting brain health through early action in MS | Hindustan Times - Hindustan Times",
       "published": "2026-07-22T10:11:56+00:00",
@@ -664,74 +724,122 @@
       ]
     },
     {
-      "id": "72e51a9cc2dd",
-      "title": "Your brain starts ageing long before memory loss begins: Neurologist explains the daily habits that can protect it as you grow older - The Times of India",
-      "published": "2026-07-22T06:30:00+00:00",
-      "summary": "Your brain starts ageing long before memory loss begins: Neurologist explains the daily habits that can protect it as you grow older&nbsp;&nbsp;The Times of India​Brain health starts young: 5 habits every young adult should adopt for a sharper mind, according to neurologist​&nbsp;&nbsp;The Times of IndiaNeurosurgeon shares 7 science-backed habits to support brain health and cognitive ageing&nbsp;&nbsp;Hindustan TimesWhy Age Doesn’t Tell the Whole Story&nbsp;&nbsp;98.4 Capital FM KenyaThis Simple",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNZkdvcTJ0WUdWMnBhaGV4alVOTWtmT0s2NmlqZDRsdzZnbDE1TG5JZ2JBSTZobE04anc4eVhTZzdRRDRvZHNzVVRjQ3VjemxJRF82aFdBN2VXYnhuUWVEWEZVa2VnOXBaLTBFbnluNDVwTHdUS2lNZzg1SWRHUFNuMHVlUXhCTS1oTFdlZlNvaHRWRVA5S2szMlJSbEFucW9RUVlaQmJPNWd1OHJlOElaY05fd3VYUFN4bVlmMF9QUUZIWnRsbHZ4ZW9xcVRDV25DWnNtVGx3bEN5blpLdnRfelIxbjdjSmx0cXAyX19saF96ampJRDI4OWtaZUY4XzdBT3Qyd1hUc2MtRmEzeV8zanZFeHpBTEhmZFpXYmdESEJXUWlPNlHSAa4CQVVfeXFMTVIzcDFHXzI1TndxSlhNc3R2Mm05d1VETHlGQ1ZmVW8wLW9RMjRqdGhKeEJVeGFBZXR0MUhhWmhfeUNCa2JYd28wekluVExXR01rLTBZQm95MEhfNms3NlpHZGpweHhlR2VXSjV4SjY3STVsR0lDVFRvaDJhcmV1QnFjeHVHTEUtdFp6MWUyc2o4amZ3NnpqYk9uUExrcUZQUGZoQmlXaDY5ZmFzT3lFbGQ3M0lCSnRqQm5XMFpHS21aYTlCTlUtemtFeVJCMW1SOXJQSVZkbjZsc0pQM1RGRWN6Q21mVUh6VGcwYlhiaFNfMzZUVzc2Y2daRjcwWkt3dXBwcDNNcGk3WHJTNEtrSmFmV3d5cDFsZUFsemtDME45Z1VjVHVBRTV1X3N5WGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e804b0990e5f",
-      "title": "Goodbye, cavities? New gel could regrow tooth enamel - ScienceDaily",
-      "published": "2026-07-23T04:20:29+00:00",
-      "summary": "Goodbye, cavities? New gel could regrow tooth enamel&nbsp;&nbsp;ScienceDailyCan Humans Regrow Lost Teeth? Here Is What Science Says&nbsp;&nbsp;NDTVScientists are regrowing human teeth&nbsp;&nbsp;BBCNew Protein Gel Regrows Tooth Enamel, Human Trials Begin 2026&nbsp;&nbsp;Intelligent LivingScientists move closer to regrowing human teeth&nbsp;&nbsp;www.christiandaily.com",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVU1CLTI1dVVyOFp3TW9qOTY5MHhlTmY4UGhDRnk2bFFVay1QU3JmSldELS1NbFVtSl9KOHRuREs3UmtOS184QVdDVDJWYTktVmZQTUlOOXJpR2U2VWpLbmNLbWYzZVJqWWd6MVJ0WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "295558c58370",
-      "title": "In 2025 the World Health Organization put a number on loneliness, and it was grim: it now touches about one in six people on Earth - Silicon Canals",
-      "published": "2026-07-21T19:19:13+00:00",
-      "summary": "In 2025 the World Health Organization put a number on loneliness, and it was grim: it now touches about one in six people on Earth&nbsp;&nbsp;Silicon CanalsMassive New Research Studied Over 2 Million People to Answer a Puzzling Question About Loneliness. Here's the Result&nbsp;&nbsp;inc.comFeeling Lonely May Take a Bigger Toll on Health Than Expected&nbsp;&nbsp;SciTechDailyWhy doctors are having a tough time tackling loneliness&nbsp;&nbsp;Earth.comAgeless Generation: Socialization alievates many",
-      "sources": [
-        {
-          "name": "Silicon Canals",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN3JvWlJzS0kxSDdMSXMtSGlCcm1fVk9Yc1pia2VXZ2JReWdVUExUM3RtbGFwSjl3OE5yN3RWTGR6eXZjclV6eXJTcFZvQ2lrUkJkQlktR284eG1kNUxqNlYzVzFtM19nMUJlejV2SXdaREtwUzc1eGVhZlZ0cW83ZV8yQXlaMEZfVTlSazg2YmNCdnB3TFpRcTM5QkhlNE5lNVJvd2FvN2czX1gxWS1OYkV5S0luUVY4Z0hIdHd0Q1UxSlZBeHBuVXRkeTlfWjZIUlh1Vk0tWThha0ZTdzFDaDNvWFpSVHRPNlc0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb8002235dc6",
-      "title": "Can smoking help microplastics reach your heart? A new study says it might - Mathrubhumi English",
-      "published": "2026-07-22T07:39:06+00:00",
-      "summary": "Can smoking help microplastics reach your heart? A new study says it might&nbsp;&nbsp;Mathrubhumi EnglishDo patients who suffer heart attack have more micro and nanoplastic in their blood? New study assessed&nbsp;&nbsp;The ConversationHeart Attack Patients Have More Plastic In Their Blood, Study Finds&nbsp;&nbsp;StudyFindsCould microplastics be linked to cardiovascular disease?&nbsp;&nbsp;pharmaphorumMicroplastics Found in 84% of Serious Heart Attack Patients&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "Mathrubhumi English",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGZuQXVJWmtDZm1pRlVKX1E1dDgxbmJCSU9LdElFcnV0cW1CMGpmNkxWeEF3Rm9ybWh5OXNaN2g5bE9WWFVwLTZYcHZJMEs5MUlHd2sweWstVEI3QXVCdUN0ZF9fUHZ2amtOejlfU3JIVHI5czBVZHB6MG52eXlfUHk2SWJUcTN5VGRXU21xREF2Y3Q0aG9ZM0VDWGRGa3hJTHBJdWRxZ3JIZ1VodGI4SFNSNWIzc3M3Y0JOZlY0QnJIYlFaQ1ZkcUNBONIB0AFBVV95cUxOdF9xQzRDaS1yRUExcFdreHl4alNuZXBLeTJReVVXZ2N4aWR0MGdESzJzenA0WXNLRWlvVDExa0ZZTFd5S3VGX3FGTlp0MktNQjEwZnRaV0J2aFAwTE1qWUVJMnEtdWQxTlJBbTNXVVh5Q2hKM1Z4enBJb3JfYXNzcW1wN29HZlA3NWNtbnJSZ2Y0aU9XWHc5NmhyOE9NQ0VISW1aRGFVTDFNTkhuR05HSnBteExuc3l2bGphNlRtYWJycFFycHJ3NkF6M0hwbjZT?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "feb6ed2a6d87",
-      "title": "Repeatedly losing and gaining weight may accelerate muscle loss - News-Medical",
-      "published": "2026-07-21T20:19:00+00:00",
-      "summary": "Repeatedly losing and gaining weight may accelerate muscle loss&nbsp;&nbsp;News-MedicalSee more headlines and perspectives on Google News",
+      "id": "c05103b6d968",
+      "title": "UWM neuroscientist explores how estrogens regulate memory and brain function - News-Medical",
+      "published": "2026-07-22T12:46:00+00:00",
+      "summary": "UWM neuroscientist explores how estrogens regulate memory and brain function&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmdUejlrWk5QaXVwb19tSFdJblZzTjJUM1ZPYTdUX0x5WXNfTFFvN3cwNWJYeFhDelZRSjZEdWFKSmFEbVdrM1N4WXRIdEdoaXBGSWsyMjJKaTNuaWNKRy1xbTdIV1d3U1k1SE5ZeFM2LVdONDdGTzhuWGhFNC1nalVSOTdOTm5yQjN3Tk9NWi1zQ3hNMHBJRmYyN3pmUEtVXzRROFYyRXdZd2tHZDNYOA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSEU1MXdMWUF6c0hwQlN1cXB1bXl0aUViY0dRY29rb3ZKbjBPZlNieXB3a0pTUmtNSVlVeE9JU2ViY2Nicktac1dTVlhiVDM1Z3Y3aWlKeERNc0JYRDA0RlU4QWU3YzUxYjlldFVnVVVGSENyYTZPaklSSWc2b2NEeVptQlh3LUtmNlhyMEJOaXBGN3UyMnRLQmdMcFBBMDRPSXI2M1NaYzBqcVRuWUVhMERuYjVDX3VJNlJJVHBvMTRNdw?oc=5"
         }
       ]
     },
     {
-      "id": "55f3eb49d6b2",
-      "title": "World Brain Day 2026: 7 Foods That Can Boost Memory, Focus And Long-Term Brain Health - News18",
-      "published": "2026-07-22T09:48:08+00:00",
-      "summary": "World Brain Day 2026: 7 Foods That Can Boost Memory, Focus And Long-Term Brain Health&nbsp;&nbsp;News18World Brain Day 2026: Neurosurgeon recommends brain-friendly foods to improve cognitive functions, from curd to berries&nbsp;&nbsp;Hindustan TimesScientists Warn This Common Kitchen Habit Could Raise Your Dementia Risk, According to Latest Research&nbsp;&nbsp;Women's HealthLifestyle Habits That Support Memory as You Age&nbsp;&nbsp;Yahoo HealthMIND Diet May Benefit People With Higher Alzheimer’s",
+      "id": "e67d494b4f2d",
+      "title": "Combining Bee Venom and L-DOPA to Treat Parkinson’s Disease - Neuroscience News",
+      "published": "2026-07-22T18:41:18+00:00",
+      "summary": "Combining Bee Venom and L-DOPA to Treat Parkinson’s Disease&nbsp;&nbsp;Neuroscience NewsA sting of hope for Parkinson’s disease&nbsp;&nbsp;EurekAlert!Bee venom helps preserve memory in new Parkinson’s disease study&nbsp;&nbsp;The Brighter Side of NewsExploring Bee Venom’s Potential in Parkinson’s Disease (IMAGE)&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
-          "name": "News18",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQ1dMVjUxMXhiSGl3YThKd1Rjak9qRXJWRm5ZVUJ2cjdLZ2p0bVUzcU9TNHA2YWxNT2dvNmVFa1lPa2t5TW5NTkdJUWlFcXFaWnlvNkFZdEdtMkNMQXI4UEhFTC1VZk1ZMjhJRkJla1pkRU5yY0pkank1UzhCMHdIVll4YnEyT1FLVW9WNVRYQ0JWUWNWWS13UGlIQ2xYTmFLTHhfZmQtdl93ZlVYUU9uQXNjVzUxZmdjbks4M3pyRlV0UEY0QVVpcUhSNGJZMzVNR3h0MldFQlNtOGota1I2ZnVSV1dIUW1CZ2ZwWEVSMy1KckxQ0gH6AUFVX3lxTFBxT0ZvMEpiUkZhZHVTU0VYMV9jWVBSendCZTM2MjN2emdmWWRYNV9yMHB0SWo2STcyLV80aGstN2VNZEJEQXBEQmM3MU9ET1ZqeWJaUmN4N1N2enh2UjV0UFppVG1LQXp6bVE4TTJqaVdXLVJYc3RYTl9kODNmX3hPdEJUVlFCUFp2Y043TV8wVll2eUxRMGlVUm10dXdvQ21OOEQ5X3ZCQzNDUU50Z2lYMm5CYzdEQVRWaXhQQ09kZHhxVWxuWVJQT3VSY3NReVRyTGltMlZhbFFlLWR0bUdDRDJxTnAxZHNuRUhlem1Nazh6VDZIVmF5Y3c?oc=5"
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkR2RWQWVUTTRIM2JlMWdkOW5pamE0TTZVdWFMWWQ0MndZcjFyWnRLX1N0anBfREhkWDhOdDhYQ0hkS1pFWTV0V2o2NVVqblNGdXItdzRpZS1HdkViZWdLNU1NTDlEazJtclpJdmJYQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "42424ba4debc",
+      "title": "High-Dose Vitamin D Eases Cancer Therapy Skin Toxicity - EMJ",
+      "published": "2026-07-22T15:22:00+00:00",
+      "summary": "High-Dose Vitamin D Eases Cancer Therapy Skin Toxicity&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjlPUFRHQXFrckZMWUU0YmRPQ1NGZDVDelE5QUt2Qk1TeE56Y2daMTRJVW1OUDNvYVpPVE1Cc0ZwV0p6NWtEUmNyRnE2eXQ5UFNRVHBQdGtSQlJpem9uaWRQR3c5VXI0Q3hLYm9kSmVJNDFaMy1mX1JGWXN3V0c0RDJoZG1DaEhRenVvRURfV3k0WFFqc1ZkbUoybmVoZ0ZK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ef799f66973",
+      "title": "Study Says Going To A Theatre, Visiting A Museum May Slow Biological Ageing - NDTV",
+      "published": "2026-07-23T14:46:28+00:00",
+      "summary": "Study Says Going To A Theatre, Visiting A Museum May Slow Biological Ageing&nbsp;&nbsp;NDTV'Your Friday movie night is basically medicine': Neurologist cites study by Japan researchers on how cultural engagements can slow down aging&nbsp;&nbsp;The Times of IndiaGoing to museums, movies, and theater may help your body stay younger&nbsp;&nbsp;ScienceDaily6 fun activities that can slow aging, according to science — it’s good news for Broadway fans&nbsp;&nbsp;New York Post5 Art Habits That Can Help ",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODlhOUtUX3ZYMjQ1NG5mUlppNlowM2drMG1kUkk5emlZbU5kWE9qcHRVaHBrRzEzM0pYN1U0dE95OXZSUGIxN0JvUk1FSGJaUlVVMVlTaWZmWC1pMExVb0lZUmNKc3BWWHk1Z1dMRDZEcklia3pMVDN0ejlnQzF0WHNiNDlWX3RmTXRTNHZFWFFaRG4wVGVSTEEtam1SUHNmc0dTRVJpVWhFOWZWTGN0S2xkcEhmb25RdVpwSVhvUFVxYWcx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ed31f42da94",
+      "title": "GAO Examines Microplastics Sources, Health Concerns, and Policy Challenges - Food Safety Magazine",
+      "published": "2026-07-23T12:05:05+00:00",
+      "summary": "GAO Examines Microplastics Sources, Health Concerns, and Policy Challenges&nbsp;&nbsp;Food Safety MagazineWhat Do We Really Know About the Microplastics Building Up Inside Us?&nbsp;&nbsp;Mother JonesHow much microplastic are we actually breathing in?&nbsp;&nbsp;1NewsHow food packaging is silently poisoning your health&nbsp;&nbsp;The Financial ExpressA Reporter Counted the Plastic in Her Blood. Vermont Has Been Counting It in the Lake&nbsp;&nbsp;Compass Vermont",
+      "sources": [
+        {
+          "name": "Food Safety Magazine",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaFI4ZTl6OVVpZ2ZqdHBTS0lzOUNpYjZIZm5MVlZia1NXdnZjVVV5b0dmZHlsYk4xYmxJX1B1MTdXaUFRdmV4WTNEeVdUbjJQWG9vU2RQUDFkaEtrZzllb3J3Y0JnajVjQzFrODZudk1tb0lxZ05OVV9vdDBSeWl2VUpDMkZJc2tkVjRab3NScy1ueFpMcjZZQ2VaV1hwTlVITDdOTWUwVHI4MjFVVzhKc2JJUGRIdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7344c6bd6ec4",
+      "title": "An invisible serial killer arrived. Now this nation is racing to protect its treasured native birds - CNN",
+      "published": "2026-07-22T04:01:25+00:00",
+      "summary": "An invisible serial killer arrived. Now this nation is racing to protect its treasured native birds&nbsp;&nbsp;CNNSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVi1YbmRJNElhWmozSzFzY0dXNTVDUnZWTWR1VEYwT1F2NzNsZF9mYnhTT0FvaFkwbkdkTXdCc1dSMUc5WHBvZmlpUHQ4MTJGU2VhZGpTcWJJRExLUEU3d0xsdVh3bHJuWmQzTDF1UEIxUlA5TTJWMzFsTG5JenVpcURQNWlpd25wQ3RHN252aW0zMUFa?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8abd0b4b2a6e",
+      "title": "No ultra-processed foods for 10 days: Here’s what happens to your body when you stop eating it - TheHealthSite",
+      "published": "2026-07-22T04:05:00+00:00",
+      "summary": "No ultra-processed foods for 10 days: Here’s what happens to your body when you stop eating it&nbsp;&nbsp;TheHealthSiteCutting down on ultra-processed foods isn’t easy. Here are eight tips that worked for my family&nbsp;&nbsp;The GuardianWhat Happens When You Stop Eating Ultra-Processed Foods for 30 Days&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "TheHealthSite",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVRDS1NfM3lWdlRCejZ0ODhHcHJHb0xyendIWWllVnY4X3pDdTJtSWlYRVpFcWE2SnZXTkJ2Ym9mczNQZDFocklvRGkwYUFYdXlWbWdGTm1qSjZwa1MxRDVrcllxbVNKQTF0ZU4xZ3Bmd2VfbFBXbHloZ3NleTRvTlFldnM1UDd5RnpQTW9rSGx4M2kxTUcwUDlzMzRqbEtTeTQwLTF6b3JsYXJBbkxOazZyd2JJYURTUFpKbVR2cWttbjlxQ0M3TjlrN0c0Q1R3dGZpYm84aC1EZ1hWVTEwZHluZ0ZNUdIB6wFBVV95cUxQT3JuSS1UenRMdnZWRnlaOXFnTktzZ3F4d3c1MWJRb3hyTDJCSDVSRUpDeVl5WDV2UzQxaHRkRF84aEMzLWtMcDRFaWJkWktySUIwUzFaLWlPQ3NGTU1CcWM0SXJOT3Frc2pUZG90M1pYYkVydy1MLVdMbmRVMDVkOUJINEh6LUNXOWxFT1E3Y0NQWlhYM2FPYlRic20tbEd1akxCRWVKUl9RNnYyZkZBRXlXQzlRUXhQX0FhemFZTzgzUHRCTzJ2S2d6bEQtUzQ2WExhcG5SYnplaU9yQm50TTVabUFkcV9xb1FN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed4665b30474",
+      "title": "Neurosurgeon shares 7 science-backed habits to support brain health and cognitive ageing | Health - Hindustan Times",
+      "published": "2026-07-23T09:02:29+00:00",
+      "summary": "Neurosurgeon shares 7 science-backed habits to support brain health and cognitive ageing | Health&nbsp;&nbsp;Hindustan Times​Brain health starts young: 5 habits every young adult should adopt for a sharper mind, according to neurologist​&nbsp;&nbsp;The Times of IndiaWhy Age Doesn’t Tell the Whole Story&nbsp;&nbsp;98.4 Capital FM KenyaThis Simple Habit May Be One of the Fastest Ways to Boost Your Brain Health—Scientists Suggest Doing It Every Day&nbsp;&nbsp;Women's HealthAlzheimer’s and Brain Awa",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNU5ySkJHb01pOGJieS1SYXdtZjBncURyNEN4OVp5MzlDSlQ4QThrbFFMUl92clRjZGdvbkF1R0w4LTJoMi01UThkdkdJY3lOWGlfQkoyT2FpaXpnMjZ3ZEdwMTFISzRGWUYxS1pKdmY2SkUyckRoa1ZaZFBVakw2UGVNa0VwZG5uU3hocFZ3cUhoOW1KakhyUXZzMmhYSDYyYnRIWjJQS19PVlpfUlc3YkxhWlBuX05sQWpoUHNCZWJNSlUza2JlcDhvLU14SzNHQUt2M0Qwb1duM1A4NjhmdDFITmNCV0JUa0hxWUF30gHzAUFVX3lxTFBzdXhZU3dwVlc2dWQwaWVRV2JIVzhaNV9SdGgtaHF4Rm1uRE1qdFRNbzJJNEVsb2k1OF9OZUlVVks5bzJ5S2RFZDNVaHBSRjNpRC1GcVZ6YmU0Q01yX1F5X3ItZzJtSVJXWGppRW5mbjN3aVQ1b3Z6eDZjSl9ZWC0wV2hxd2Y0UmRyTkh1cXBRZzZPR0s5dHZnX0Y5eEFrQnVRUFZfWS01QlNGWG4waFAxc3M4cTdqcnhvS2Z0Rk1qeklEZ2tqLTdwMk5Ubi05T1BwLTRiQjRxNVAwODRsbXZNRDRraDJraFRaNUlTSk0tNTB4UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "03a7ec6affb5",
+      "title": "Adverse pregnancy outcomes increase future peripheral artery disease risk - News-Medical",
+      "published": "2026-07-22T02:42:00+00:00",
+      "summary": "Adverse pregnancy outcomes increase future peripheral artery disease risk&nbsp;&nbsp;News-MedicalStudy Shows Pregnancy Complications Could Increase Risk for Peripheral Artery Disease&nbsp;&nbsp;dicardiology.comStudy Finds a Pregnancy Complication That Can Increase a Child’s Risk of Heart Disease&nbsp;&nbsp;Rutgers UniversityPregnancy Complications Increase the Risk of Peripheral Artery Disease&nbsp;&nbsp;Inside Precision MedicinePregnancy may flag future heart and metabolic risk, even without ma",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYy1tMWE1UEpJb3Z5WWhnUWdzVEVsZ193Z1J1cUFRX1hXZEdGN3Z4UklmYjZsQ1Y4RHpWRmplcTlRa19KQTE4QjMwOUdyMS1wVTd4R1VfMkNtN0RtNkhWMXpqSEFYMnd4UW1kdGlaVDdhdncwUVVwdEt3QTBfNGNyNGpNZ2FJZjdPU25FRk1HNU1yN1RUbmx2UU1QeTFsQUY5MTNYRU9QQUJMZHpZV0ZfcUhpVXJMWVZNalFmM2lB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "de697ca32342",
+      "title": "Why A New Mother Can't Stop Looking At Her Baby | Science Says It's How Her Brain Is Rewired - ETV Bharat",
+      "published": "2026-07-23T05:43:29+00:00",
+      "summary": "Why A New Mother Can't Stop Looking At Her Baby | Science Says It's How Her Brain Is Rewired&nbsp;&nbsp;ETV BharatThe brain rewires itself for motherhood. We now know more about how&nbsp;&nbsp;The ConversationA mother's devotion to newborns begins in the brain, study suggests&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "ETV Bharat",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbUtaQmhQbmFqaUNWOEZhNXhMcWI1NzZMNkFCOThCSGdsOGJaZFRBRl9pRm9UT29QU3lucnJPWFZSOGt4RzZyWlp5NjZTWnNoNTFEemdaS1hjb2NmVjlFbnNZc2hCeGlKNl85bUxlZ3YwX2FIaHBLdGdrZ3M3S3lFeW85NTBMbHVHb3QxR1hYenNzS2lZ0gGaAUFVX3lxTE8yNzdhT3EzQTBqakVZYkZhdWk1bEtvei1uWVhOdUo0TjlCY0QyVG85V2RhbVozUDlYMWtCei1qVE5lZ2p1QUswQmU2R2NrNHZSSmYwLXFrRHpjZG9Nb3d6alAza2N4TkpXV3ZILXdyZ0RpUHkzeUhFemV0cW5KdHdldFRKUEIzcFNmcnZhZDdVR0JndFFrOV9IUGc?oc=5"
         }
       ]
     }
