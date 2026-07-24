@@ -1,15 +1,99 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-07-23T18:54:34.526429+00:00",
-  "total_fetched": 131,
-  "unique_count": 131,
-  "health_related_count": 80,
+  "fetched_at": "2026-07-24T01:17:15.701828+00:00",
+  "total_fetched": 140,
+  "unique_count": 140,
+  "health_related_count": 88,
   "news": [
+    {
+      "id": "100d6d3294e2",
+      "title": "SKKU Identifies World’s First ‘Zinc Oxide Spin Qubit’ — a Breakthrough for Next-Generation Semiconductor-Based Quantum Technology - Asia Research News |",
+      "published": "2026-07-24T00:18:50+00:00",
+      "summary": "SKKU Identifies World’s First ‘Zinc Oxide Spin Qubit’ — a Breakthrough for Next-Generation Semiconductor-Based Quantum Technology&nbsp;&nbsp;Asia Research News |",
+      "sources": [
+        {
+          "name": "Asia Research News |",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY09hdjNtalkyVWs4MG0zNmFyZ0NmUHdxLUFtWTlydTN2dU5rLTZoVG96Ni1hXzRMcWR6TVhLcHZqRTNVYWdqcl9pamJvTW1fRFpQV3JQWTdxcFQ1QVBHYWJpdFpHWm93azZxQ0kzUkNZN0VSODd2R3JUVmdsOW5kUFBYUTdlUGY4ZF9mT3l0U0oyOWJIdkg1RUNmZ1JQV1JrU1pUZnJ0QUhWTGVSYnVrUk4wUmZEcnBJR2pINTg2d2l5TWRLR2hkZWdLTmNLOFZrWmI4NU1wX09DWXF5aVRrX2xkMFlFUWRtTHMtTU93?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6318fc6edb0f",
+      "title": "What experts are saying as Ebola outbreak in Congo and Uganda kills more than 1,000 people - WPSD Local 6",
+      "published": "2026-07-23T23:31:00+00:00",
+      "summary": "What experts are saying as Ebola outbreak in Congo and Uganda kills more than 1,000 people&nbsp;&nbsp;WPSD Local 6Ebola Deaths Cross 1,000 In Congo: Why Experts Are Concerned&nbsp;&nbsp;NDTVBreaking News Live Updates: SIT takes former TDB president PS Prasanth into custody in Sabarimala gold loss case&nbsp;&nbsp;The Times of India‘We Will All Die From Ebola Here’: Virus Stalks Crowded Camps in Congo&nbsp;&nbsp;The New York TimesDR Congo sees early signs of Ebola stabilization&nbsp;&nbsp;China Da",
+      "sources": [
+        {
+          "name": "WPSD Local 6",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMWcwY3BLRVNaUE9kOTZhYVA0eTgzMmlzTWRCU3I3Umxyb1VVZU5RalNQMThZT0lxY2lLbGx6NW1qVm1hZm9SRWZUVFJ4VnI4RVdSaEF3NGNGaVl0SnppZElSNzF6amlFTzV1WUpIbXlhUi16T0F0YlVCMG01SHZsOFU3OC0yQk5lem5HSE0tenV2ZGZEbnBnTkFHSXNYWmxWT0NsbTNGNUFLdU1LVlBxYl9LbnJlR1NSVjU0NGRoVGIxcW83UUtnazMydE5KdUI5ZmxsbDV0NjRYX193MXlBMkFzYlYzUlFNNHBCUGYzNU1qemM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6876604f81a",
+      "title": "Study Maps Motor Abnormalities Across Mental Health Spectrums - Neuroscience News",
+      "published": "2026-07-23T21:27:43+00:00",
+      "summary": "Study Maps Motor Abnormalities Across Mental Health Spectrums&nbsp;&nbsp;Neuroscience News",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05QnZuQXdaZDcxU3NSQ0xEVHAzUFZpVXRFaFNKSTk3WmxVQ2I0REIta2tkNkJQTVpwa0xPUHIzbEc0VVlJUjliU2dtVUFzaFVLWFY2a0ZtZjdCTUc4Sm0tNnJJNDRoMXVkOVUxT2hTTEJQWFozTzhN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "745825b8ce57",
+      "title": "Microplastics detected in most heart attack patients' blood in startling new study - Fox News",
+      "published": "2026-07-23T19:23:54+00:00",
+      "summary": "Microplastics detected in most heart attack patients' blood in startling new study&nbsp;&nbsp;Fox NewsDo patients who suffer heart attack have more micro and nanoplastic in their blood? New study assessed&nbsp;&nbsp;The ConversationCould microplastics be linked to cardiovascular disease?&nbsp;&nbsp;pharmaphorumMicroplastics Found in 84% of Serious Heart Attack Patients&nbsp;&nbsp;SciTechDailyThe Emerging Link Between Microplastics and Heart Disease&nbsp;&nbsp;Time Magazine",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamE3dEpKbFZaWnAwNVh2a1ZBa05rN3EyLUJ4TU9oekM1SEJWLXpya0RxMWRqRFBENTZCdnRIc3I2QlY1U1JuV0FwbTNRMjlzZmJJNWUwTGFvRGlrcFBGem9YMEtUXzNjYllIWjViMXhEa0V3M0hYc05kbXpwc1FQLXQ1dzl5b0g4bHE5SUlFeWRKbVZQdWJmX0l6b2xScGJXLU43ZVQtZWZrZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "495457bc7e3f",
+      "title": "Gravity behaves like Einstein said even in tough conditions, Indian scientists validate findings - The Times of India",
+      "published": "2026-07-23T19:21:00+00:00",
+      "summary": "Gravity behaves like Einstein said even in tough conditions, Indian scientists validate findings&nbsp;&nbsp;The Times of IndiaAlbert Einstein’s biggest scientific mistake: Why the genius was wrong about major parts of the universe&nbsp;&nbsp;Diario ASEinstein was right: Biggest black hole study fails to prove his theory wrong again&nbsp;&nbsp;India TodayEinstein’s “Greatest Blunder” May Be Breaking Cosmology&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMTByNjVXWEc2WGs5NEVqN1JwbkFvOUt1a09ZcmpzZnJ5UTVUQzk5NFpXZkN6U2lVRUpGUDVWWk9WMXcxeWR3UFRHU1lidGhfeUtFNmhMbDc1ODE3OXJVeGF0WjgzZWQzcGpFaFF2OUFWbFdOUjNpRk4zZUZuZzdjc19FS2w5Nmx0LVdpektnWkV6d1BPS01LeDdKdHpXbjdxNUNtcTF3UXhEQXdOdGZ5a3hQQjVOdkMwQWVfSDc3cUFCTUxBd3RDODVmVUJ4SXNQd3B5RU84ckwwZWtwNms4bDdpY1A2UElBZFpMVzM0RXg1TnBsc1gyOFJUc9IBgAJBVV95cUxOY0hCZV9GX2x4VzNuRkRSLWtodXdQWkItSnQ5bjRtLXdpX0lqQTR3RGNWdWc5cTVPZnYzbk1yVW1BMGg1YWxlZmtGeW1EdldHc2R5MFhULXVuQmVHZm5ib0ZRVzB0RWhhOGNLYy1SMzhiSHJHWkxXMGkyeXlsYWd5RXdvZHJrVFUyeEllTjBrU0EwNDZVR3dKSXVVaUFWNEV4RkxubHczX3YxNGtwVDFvRzlXc3pBMzdHV3FQbm92YlFSTV9XVXl4Rkt1Xzc5M2JSVzk0cGtlb0ptbzQtZWRXWWZvM254eWRVWXpaZUhybi1pcmc4VWFybnJBeTFCQUxf?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "acad9a992c78",
+      "title": "World Hepatitis Day webinar to be held on July 27 - The Hindu",
+      "published": "2026-07-23T19:20:48+00:00",
+      "summary": "World Hepatitis Day webinar to be held on July 27&nbsp;&nbsp;The HinduPrevention, Diagnosis and Management of Hepatitis B: Operational Toolkit for Healthcare Workers Across All Levels of Care&nbsp;&nbsp;ReliefWebWhat are the effects of Hepatitis B, and why should one vaccinate? Gastroenterologist Dr Ayush Dhingra explains&nbsp;&nbsp;Hindustan TimesDoctors warn against ignoring Jaundice: Hepatitis cases reveal hidden risks; early diagnosis can save lives&nbsp;&nbsp;Bhaskar EnglishWHO urges Africa",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkRERHRmN2dIT0VfSm15bHpJOHRZbEg2dmU0WFFaQTZEZTVXczMtMjFwZjI1ckVIajhFUnhtdUhhWWM3b3l1cnNSNUFIVEMzSkFiVHA0RDhub281amFOWEhLYzZUSkQ0dS1PWW5vWTliMGI5U3VBSHNPcVNXWG9zdGtwZURvZDU2N09RQkozRXR0dEdfakpETTUzZ09uSWRVVVFXN29ucUhWM2pQeWpSMTRUUVJISDRUd3FZ0gHCAUFVX3lxTFBwLXB5SUI3dFZsczVUd3E2ek1ld2E0ejdKR05NSm5Md0IyejczdXRVXzNLMm9tb0NKSzZ6T242QjUzMndfcENnaGtpdEFWWmNTLWhYaHgzbE9VRTRoQnJrcHVSd1cyalozZGdYa0w3YTF1cjBaU3VTVkdXLUpaUGdKTEZQb083RGlydjd5UXZjS0F5REt4VnExTzNKeGwydzNoSHFvSzJzZVpPSERiNVE4TWJQdGVkLWptX2pKTFh3MzVB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd9234d50772",
+      "title": "Limited tissue persistence confirms attenuation of live-attenuated chikungunya vaccine VLA1553 in non-human primates - Nature",
+      "published": "2026-07-23T19:18:45+00:00",
+      "summary": "Limited tissue persistence confirms attenuation of live-attenuated chikungunya vaccine VLA1553 in non-human primates&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mY3l5cVZCbHRGa0N0aHVJU1pmaUFjTUxKdVJGVEF4dUFjTFFpYkhmY1hLa0xMSmoyN2V0c0JCbV9XU01hTGpSUW9fMVlSZ1o3azNwMTJJb0RxVm9LTWxV?oc=5"
+        }
+      ]
+    },
     {
       "id": "aea379290b1d",
       "title": "Autism-Like Traits in Mice Improved After Single Rapamycin Dose - Genetic Engineering and Biotechnology News",
       "published": "2026-07-23T18:40:46+00:00",
-      "summary": "Autism-Like Traits in Mice Improved After Single Rapamycin Dose&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsDrug temporarily reverses autism-like brain changes in adult mice within hours&nbsp;&nbsp;Medical XpressA Single Rapamycin Dose Reversed Adult Autism Traits&nbsp;&nbsp;Technology NetworksStudy Shows Rapid Reversal of Autism Traits&nbsp;&nbsp;Neuroscience News",
+      "summary": "Autism-Like Traits in Mice Improved After Single Rapamycin Dose&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsDrug temporarily reverses autism-like brain changes in adult mice within hours&nbsp;&nbsp;Medical XpressA Single Rapamycin Dose Reversed Adult Autism Traits&nbsp;&nbsp;Technology NetworksAutism breakthrough as scientists find cheap drug backed by longevity experts may reverse symptoms&nbsp;&nbsp;Daily Mail",
       "sources": [
         {
           "name": "Genetic Engineering and Biotechnology News",
@@ -18,10 +102,22 @@
       ]
     },
     {
+      "id": "6d338b037248",
+      "title": "Structure-based design of stable recombinant hepatitis C virus E1E2 heterodimers - Nature",
+      "published": "2026-07-23T18:21:40+00:00",
+      "summary": "Structure-based design of stable recombinant hepatitis C virus E1E2 heterodimers&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nMlBkMjRmZzJNOHpoYWk2UnNQMkVTYjl6NWdyWUthY3hHWER4VTBNUnhJZ3BHTmlvMS12Zk1kSXhIUHNOQUxEcEJaZ1BydHhvaWR2YzYtQm5TVkxyeVNn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "28ba81a54fcf",
       "title": "NASA says longtime hidden comet mistaken for asteroid could unlock new methods for planetary defense - FOX Weather",
       "published": "2026-07-23T17:54:00+00:00",
-      "summary": "NASA says longtime hidden comet mistaken for asteroid could unlock new methods for planetary defense&nbsp;&nbsp;FOX WeatherNASA Study Finds Near-Earth Asteroid Is Actually Comet&nbsp;&nbsp;NASA (.gov)A strange asteroid forces astronomers to rethink comets&nbsp;&nbsp;MashableScientists Believed This Near-Earth Object Was an Asteroid for 28 Years. They Were Wrong&nbsp;&nbsp;GizmodoAsteroid with unexplained orbital shift turns out to be a 'dark comet'&nbsp;&nbsp;Phys.org",
+      "summary": "NASA says longtime hidden comet mistaken for asteroid could unlock new methods for planetary defense&nbsp;&nbsp;FOX WeatherA strange asteroid forces astronomers to rethink comets&nbsp;&nbsp;MashableNASA Study Finds Near-Earth Asteroid Is Actually Comet&nbsp;&nbsp;NASA (.gov)Asteroid with unexplained orbital shift turns out to be a 'dark comet'&nbsp;&nbsp;Phys.orgObject thought to be an asteroid for 30 years is actually a comet&nbsp;&nbsp;Earth.com",
       "sources": [
         {
           "name": "FOX Weather",
@@ -30,22 +126,10 @@
       ]
     },
     {
-      "id": "ade1f466d097",
-      "title": "By the Numbers: This year's Ebola outbreak has spread faster than the worst on record - Medical Xpress",
-      "published": "2026-07-23T17:50:01+00:00",
-      "summary": "By the Numbers: This year's Ebola outbreak has spread faster than the worst on record&nbsp;&nbsp;Medical XpressEbola Deaths Cross 1,000 In Congo: Why Experts Are Concerned&nbsp;&nbsp;NDTV‘We Will All Die From Ebola Here’: Virus Stalks Crowded Camps in Congo&nbsp;&nbsp;The New York TimesBreaking News Live Updates: SIT takes former TDB president PS Prasanth into custody in Sabarimala gold loss case&nbsp;&nbsp;The Times of IndiaWorld Insights: Fastest-ever Ebola outbreak tests global health respons",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdURSa2Y2OFo0RzE5ekVSNDhLekRKaFgxUVZGb1FzMHk2anNKemczak5ZRFg0T3VjWWFnV0puTTU1cXVlZ0lHY0JJU1F4WmRBZENQVTFkMllpREdPaHZOQjN6dDlZNmFBTWw1Nkp0ejdUWEdCdWxDTUgxUW5TaDZNMU13?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c1f3d5d45ef1",
       "title": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests - MedPage Today",
       "published": "2026-07-23T17:41:57+00:00",
-      "summary": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests&nbsp;&nbsp;MedPage TodayThe world’s first Bundibugyo Ebola vaccine has entered human trials: here’s why it matters&nbsp;&nbsp;Gavi, the Vaccine AllianceExisting vaccines induce antibody response against the Ebolavirus that's driving Congo outbreak&nbsp;&nbsp;CIDRAPRussian scientists test Ebola vaccine candidate against emerging strain with 40% fatality rate&nbsp;&nbsp;Новости GxPNew study supports testing of Merck’s Ebo",
+      "summary": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests&nbsp;&nbsp;MedPage TodayThe world’s first Bundibugyo Ebola vaccine has entered human trials: here’s why it matters&nbsp;&nbsp;Gavi, the Vaccine AllianceExisting vaccines induce antibody response against the Ebolavirus that's driving Congo outbreak&nbsp;&nbsp;CIDRAPNew study supports testing of Merck’s Ebola vaccine in DRC outbreak&nbsp;&nbsp;STATExplainer: What Ebola vaccines and treatments are under development&nbsp;&n",
       "sources": [
         {
           "name": "MedPage Today",
@@ -62,30 +146,6 @@
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWU5BTGhSNkQtOVNNQ3UwZ1pnLTJ0ZkpFYUI3dDJiQ0NyeEVUZ0s4bVVFZllEWVNZX2toMnBfS0ZLY3E1cFNqS2F2VGl2VU5OdWFkcHZoUUlud005ZWFiU2NReDVNdUZ2a2U3bVVJTzJpTEh2Q2lMZG1ZSHZtQ2d2Qg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b5b48182ebc8",
-      "title": "Different Training Regimens Shape Athletes’ Body, Metabolism and Gut Health: ICMR-NIN Study - Deccan Chronicle",
-      "published": "2026-07-23T15:50:56+00:00",
-      "summary": "Different Training Regimens Shape Athletes’ Body, Metabolism and Gut Health: ICMR-NIN Study&nbsp;&nbsp;Deccan Chronicle",
-      "sources": [
-        {
-          "name": "Deccan Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd25STkhjOTIwM2ZUSm5XT2lzbVYyWXJuYmpsU2RQMjhIMVE0aEVlLXh4dmozYi1Qbk43M3l1VHk2UUU3WEUzNXRvZ1NVODBHeFVWVUEtRUtOcC1xb0J1OFBGMXBld1RvYzdVREJOZEVkT1ZvR09CelE2T1VqbGZvN3otZjJjNUFMcVQ2bnNHa3IwRTN5UzhoY1hFUXhTZF91Y05uTDBKMnlUVnM2Q0p3ZWVTWjdXLS1iN2tIVGdRdF96emVLdlVjZjR4WWFaaEhIYWdqS2lqandMal9hVzBFSWhtdkt3TFdrMXBQdWVMVTljQdIB9wFBVV95cUxQSldHc2oyNnZ3OGM1aDNzUGtnZ213N2p5dm45NnFFalJwczJFaDF5VXl6TEtXbElxeHo5ZVhqSmtLbmszN0tNRk8zdVhQTU5NLUdmN2NmVklEWHFIRWlhOXVldE9jSG1aLW0yR1g0TGFPaWk0Qk9vdkVQSy1nTndxXzBxM19PWnlqZjRKNGhFSUt1YnNLSlFIV2tFOFdlOVh5MmNxMENVdTRJWmxpYUt5c3A5Y0UxR3NzYjVKYl8tNU41R0c2d3g2MTVxeWZ4cDlFZlZEdGFXUkU5LVBqYXN5aE91cWlleWI1WEJxOWlJQm1OdllULVhr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44967c534438",
-      "title": "Supercare hospital to run 4-day liver health campaign ahead of WHD - Hub News",
-      "published": "2026-07-23T15:47:57+00:00",
-      "summary": "Supercare hospital to run 4-day liver health campaign ahead of WHD&nbsp;&nbsp;Hub NewsPrevention, Diagnosis and Management of Hepatitis B: Operational Toolkit for Healthcare Workers Across All Levels of Care&nbsp;&nbsp;ReliefWebWhat are the effects of Hepatitis B, and why should one vaccinate? Gastroenterologist Dr Ayush Dhingra explains&nbsp;&nbsp;Hindustan TimesDoctors warn against ignoring Jaundice: Hepatitis cases reveal hidden risks; early diagnosis can save lives&nbsp;&nbsp;Bhaskar English",
-      "sources": [
-        {
-          "name": "Hub News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVG96ajRBd0tycDR1a2Y1bTlyaWUzT0xKcnFwbk9XclRpdmlyM1kta0QxTTE0REpPaC1VdlRkX1dGbmtWdi1uTmhzc1FJRVNfTVlFck1ic2NJRHB0MlV2NHNwbUFaQzVtdnBSUUdlX2gyOG5mUVBiei12NmRkek5lN1hTZ0R1amJEbm1KU2x3UW9rcTQ?oc=5"
         }
       ]
     },
@@ -114,14 +174,14 @@
       ]
     },
     {
-      "id": "db051f7723cb",
-      "title": "Juno Detects Heat Rising Beneath Io’s Volcanic Crust - MLQ.ai",
-      "published": "2026-07-23T14:45:03+00:00",
-      "summary": "Juno Detects Heat Rising Beneath Io’s Volcanic Crust&nbsp;&nbsp;MLQ.aiNASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io&nbsp;&nbsp;NASA (.gov)Nasa's Juno mission uncovered a surprising secret beneath Jupiter's volcanic moon Io&nbsp;&nbsp;The Times of IndiaJupiter's moon Io is hiding a surprising secret beneath its surface, Nasa finds&nbsp;&nbsp;India TodayStudy Led by JPL Finds Heat Rising Beneath the Surface of Jupiter’s Volcanic Moon Io&nbsp;&nbsp;Pasadena Now",
+      "id": "0ef799f66973",
+      "title": "Study Says Going To A Theatre, Visiting A Museum May Slow Biological Ageing - NDTV",
+      "published": "2026-07-23T14:46:28+00:00",
+      "summary": "Study Says Going To A Theatre, Visiting A Museum May Slow Biological Ageing&nbsp;&nbsp;NDTV'Your Friday movie night is basically medicine': Neurologist cites study by Japan researchers on how cultural engagements can slow down aging&nbsp;&nbsp;The Times of IndiaGoing to museums, movies, and theater may help your body stay younger&nbsp;&nbsp;ScienceDaily6 fun activities that can slow aging, according to science — it’s good news for Broadway fans&nbsp;&nbsp;New York Post5 Art Habits That Can Help ",
       "sources": [
         {
-          "name": "MLQ.ai",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZelIwbl9xNVNNaVFKMC04LWU2b04zUVc4T0t4eVR4eTdicXJ1T1RnOEdjTVJ3YnZLTlVGTUtaTVRfYmllREhCNTU2TTd6VGVtczNPOExQM3RDS29Nb2t6bW56ckswSFRBa3V1TWstOWo4ZFk2SkdzZmg0eko?oc=5"
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODlhOUtUX3ZYMjQ1NG5mUlppNlowM2drMG1kUkk5emlZbU5kWE9qcHRVaHBrRzEzM0pYN1U0dE95OXZSUGIxN0JvUk1FSGJaUlVVMVlTaWZmWC1pMExVb0lZUmNKc3BWWHk1Z1dMRDZEcklia3pMVDN0ejlnQzF0WHNiNDlWX3RmTXRTNHZFWFFaRG4wVGVSTEEtam1SUHNmc0dTRVJpVWhFOWZWTGN0S2xkcEhmb25RdVpwSVhvUFVxYWcx?oc=5"
         }
       ]
     },
@@ -138,6 +198,30 @@
       ]
     },
     {
+      "id": "92cf4d2a5bbc",
+      "title": "How the heart's 'little brain' helps it function and protects it against stress - Medical Xpress",
+      "published": "2026-07-23T14:28:55+00:00",
+      "summary": "How the heart's 'little brain' helps it function and protects it against stress&nbsp;&nbsp;Medical XpressScientists Discover the Heart’s ‘Little Brain’ That Helps Protect Against Stress&nbsp;&nbsp;slguardian.orgOur Heart Has A 'Little Brain'. New Study Reveals How It May Protect Us During Stress&nbsp;&nbsp;News18",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nLU43akhlVEJWaUR4SnNCVWpTbkJCM1VNY2ZqYXpDQ1BVU1VGOFpUMHBlVXprTlludGpmc2hYR1RycFNfdi10NkliY1pPT0VFNnNqR0Rwc0lRVEE0dkNXVTFmbUg0cE9fYkxSaHRIRTc3NjNxUW5hb0NsYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29fbcf99de6d",
+      "title": "Popular Snack Foods May Increase Exposure to Toxins Linked to Cancer and Other Health Issues, Study Finds - Yahoo News New Zealand",
+      "published": "2026-07-23T13:58:54+00:00",
+      "summary": "Popular Snack Foods May Increase Exposure to Toxins Linked to Cancer and Other Health Issues, Study Finds&nbsp;&nbsp;Yahoo News New Zealand",
+      "sources": [
+        {
+          "name": "Yahoo News New Zealand",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KVTZjQVNRRjljUGFXeU9fTXBCbl9yYUJJek9Dc0p5TDZwLXFkeHlhODk1b2dLMmNZSlpRYzU2N3dqN1N3cGxsd1dPT0k4YTNYYjl4cmZ3c2R3cXJ5cklYTmpWa2Z3WnlfVjRwbjU0azk5LXhrZWJBRmFmU0VLZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ec7ee3e7514a",
       "title": "Replacing Gas Stoves With Electric Stoves Greatly Reduces Asthma Symptoms - NDTV",
       "published": "2026-07-23T13:51:04+00:00",
@@ -146,6 +230,18 @@
         {
           "name": "NDTV",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjl1TnRNQVpCZExRU1BiMDlTdy1Sa1k0a29FRGROdUMxamdENGZ1UFczZzIwVEZHMGhQai1fNFV6X1RKSXlUaVJBVXYxMnV5V252Uk1QX0FzUWNyand4MFdiWnE2OU1YUWY0bUlBN3d5dWQtT19MWkRPWEJQUkpxOWVDQ3ZsSTJIdUFsdXN2UzZXQ25YU1doeHBzTGNoWTVrVjJyNVhhX3FXanE2YzNj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "19a9d96e373f",
+      "title": "Breast Cancer Survivors Face Higher Ischemic Stroke Risk in First Year Post-Dx - Oncology Nursing News",
+      "published": "2026-07-23T13:08:59+00:00",
+      "summary": "Breast Cancer Survivors Face Higher Ischemic Stroke Risk in First Year Post-Dx&nbsp;&nbsp;Oncology Nursing News",
+      "sources": [
+        {
+          "name": "Oncology Nursing News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEVhM0VueEJRejJPbldBcko2cWw5czR4b0NPb21XV1o5R3lPVUhNRnlzQ2JqalFEVTlWblJReUdTTWl2cUoyRjd0djlTU1BmUmxwNmxza0JDWG9YR2pIMXROb2VrbmFHQkRoRFlzNFdJME5sS2pTUXgwbWRXVnpMNlFmeWtyamRCUkYtU0lqcTRtcVQyMFMzZWVYSmNjdFA1N1gwOC1yeHdZU0c0SzMwdHl2bVU?oc=5"
         }
       ]
     },
@@ -162,14 +258,14 @@
       ]
     },
     {
-      "id": "0403f24716f2",
-      "title": "Sri Lanka to use drones to fight dengue fever - Baltic News Network",
-      "published": "2026-07-23T12:03:51+00:00",
-      "summary": "Sri Lanka to use drones to fight dengue fever&nbsp;&nbsp;Baltic News NetworkDengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight?&nbsp;&nbsp;BBCSri Lanka uses air force drones to tackle spreading dengue outbreak&nbsp;&nbsp;ReutersSri Lanka National Dengue Control Unit: Weekly Dengue Update, Week 29 (13th - 19th July 2026)&nbsp;&nbsp;ReliefWebDengue threat to continue till mid-August: Health Minister&nbsp;&nbsp;Daily Mirror - Sri Lanka",
+      "id": "5ed31f42da94",
+      "title": "GAO Examines Microplastics Sources, Health Concerns, and Policy Challenges - Food Safety Magazine",
+      "published": "2026-07-23T12:05:05+00:00",
+      "summary": "GAO Examines Microplastics Sources, Health Concerns, and Policy Challenges&nbsp;&nbsp;Food Safety MagazineWhat Do We Really Know About the Microplastics Building Up Inside Us?&nbsp;&nbsp;Mother JonesHow much microplastic are we actually breathing in?&nbsp;&nbsp;1NewsHow food packaging is silently poisoning your health&nbsp;&nbsp;The Financial ExpressA Reporter Counted the Plastic in Her Blood. Vermont Has Been Counting It in the Lake&nbsp;&nbsp;Compass Vermont",
       "sources": [
         {
-          "name": "Baltic News Network",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oODZWSjNhZklzVmpjd2VnTWp6MU01SXA3S1RnSFdnRTh2N2NrS2pyWXNLajlWbmVzeEg1RWRYUGlLTXUtcmR3ajRydXlTc0pUalhtc2xaa1FSWFlXY09KUFNKRUxWbmtidWlzSFZKRFdScXl3SGhWMjlxYlMtZw?oc=5"
+          "name": "Food Safety Magazine",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaFI4ZTl6OVVpZ2ZqdHBTS0lzOUNpYjZIZm5MVlZia1NXdnZjVVV5b0dmZHlsYk4xYmxJX1B1MTdXaUFRdmV4WTNEeVdUbjJQWG9vU2RQUDFkaEtrZzllb3J3Y0JnajVjQzFrODZudk1tb0lxZ05OVV9vdDBSeWl2VUpDMkZJc2tkVjRab3NScy1ueFpMcjZZQ2VaV1hwTlVITDdOTWUwVHI4MjFVVzhKc2JJUGRIdw?oc=5"
         }
       ]
     },
@@ -201,7 +297,7 @@
       "id": "2ab17e1e6d06",
       "title": "What the latest routine immunization coverage estimates mean for eradication - ReliefWeb",
       "published": "2026-07-23T10:33:05+00:00",
-      "summary": "What the latest routine immunization coverage estimates mean for eradication&nbsp;&nbsp;ReliefWebGlobal childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO&nbsp;&nbsp;World Health Organization (WHO)WHO UNICEF Immunization Coverage Estimates 2025 revision (released 15 July 2026)&nbsp;&nbsp;ReliefWebExplained | Understanding the global crisis of 13.5 million 'zero-dose' children&nbsp;&nbsp;Deccan HeraldExplainer: How falling vaccination rates are fueling mea",
+      "summary": "What the latest routine immunization coverage estimates mean for eradication&nbsp;&nbsp;ReliefWebGlobal childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO&nbsp;&nbsp;World Health Organization (WHO)WHO UNICEF Immunization Coverage Estimates 2025 revision (released 15 July 2026)&nbsp;&nbsp;ReliefWebWHO: World vaccinated 1.5m more babies in 2025, but millions remain unprotected&nbsp;&nbsp;the-star.co.keExplained | Understanding the global crisis of 13.5 mill",
       "sources": [
         {
           "name": "ReliefWeb",
@@ -270,6 +366,18 @@
       ]
     },
     {
+      "id": "ed4665b30474",
+      "title": "Neurosurgeon shares 7 science-backed habits to support brain health and cognitive ageing | Health - Hindustan Times",
+      "published": "2026-07-23T09:02:29+00:00",
+      "summary": "Neurosurgeon shares 7 science-backed habits to support brain health and cognitive ageing | Health&nbsp;&nbsp;Hindustan Times​Brain health starts young: 5 habits every young adult should adopt for a sharper mind, according to neurologist​&nbsp;&nbsp;The Times of IndiaWhy Age Doesn’t Tell the Whole Story&nbsp;&nbsp;98.4 Capital FM KenyaThis Simple Habit May Be One of the Fastest Ways to Boost Your Brain Health—Scientists Suggest Doing It Every Day&nbsp;&nbsp;Women's HealthAlzheimer’s and Brain Awa",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNU5ySkJHb01pOGJieS1SYXdtZjBncURyNEN4OVp5MzlDSlQ4QThrbFFMUl92clRjZGdvbkF1R0w4LTJoMi01UThkdkdJY3lOWGlfQkoyT2FpaXpnMjZ3ZEdwMTFISzRGWUYxS1pKdmY2SkUyckRoa1ZaZFBVakw2UGVNa0VwZG5uU3hocFZ3cUhoOW1KakhyUXZzMmhYSDYyYnRIWjJQS19PVlpfUlc3YkxhWlBuX05sQWpoUHNCZWJNSlUza2JlcDhvLU14SzNHQUt2M0Qwb1duM1A4NjhmdDFITmNCV0JUa0hxWUF30gHzAUFVX3lxTFBzdXhZU3dwVlc2dWQwaWVRV2JIVzhaNV9SdGgtaHF4Rm1uRE1qdFRNbzJJNEVsb2k1OF9OZUlVVks5bzJ5S2RFZDNVaHBSRjNpRC1GcVZ6YmU0Q01yX1F5X3ItZzJtSVJXWGppRW5mbjN3aVQ1b3Z6eDZjSl9ZWC0wV2hxd2Y0UmRyTkh1cXBRZzZPR0s5dHZnX0Y5eEFrQnVRUFZfWS01QlNGWG4waFAxc3M4cTdqcnhvS2Z0Rk1qeklEZ2tqLTdwMk5Ubi05T1BwLTRiQjRxNVAwODRsbXZNRDRraDJraFRaNUlTSk0tNTB4UQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "237b06d04364",
       "title": "Changes in facial recognition analysis after orthognathic surgery - Nature",
       "published": "2026-07-23T09:00:14+00:00",
@@ -290,6 +398,30 @@
         {
           "name": "EMJ",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWdNeVd4RTJOQ000RUZxOEMwWnRyX0FieDVxekE3cHlnb1VPcmFCRFpRY25vbUZKcUNKWl9xLUVmWXFySFdsaGM4RGRYTVQ5RExyZ0RwdkpSTTJUQVJpOTF3QVJwZXRvSWtTOXd1OElQSnBMa1JFNkdPUkVMNEVFOG5Jdi1PdDR3VVBkRGlRRVVnZ2tsNXhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "394aec800ca5",
+      "title": "IDBac: an open-access web platform to identify bacteria and analyze relationships in culture collections using MALDI-TOF mass spectrometry - Nature",
+      "published": "2026-07-23T08:44:08+00:00",
+      "summary": "IDBac: an open-access web platform to identify bacteria and analyze relationships in culture collections using MALDI-TOF mass spectrometry&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85YnlYM1lMRVBEb3RuOWNvN3NJcmNsbjkyVmtTdVdXcHpMdHRQbUNLTkc1THZrNUN0X291Y2JmbE5DdnlwTVBtMExkLTI5YVRIQ0lhdHBrM25kZ3psWUdz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b5d6e4ddc4ef",
+      "title": "Evaluation of the synergistic and antagonistic antibacterial effects of pulsed electromagnetic fields combined with ciprofloxacin and nanochitosan - Nature",
+      "published": "2026-07-23T08:04:21+00:00",
+      "summary": "Evaluation of the synergistic and antagonistic antibacterial effects of pulsed electromagnetic fields combined with ciprofloxacin and nanochitosan&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EMDdkSlZBeTBwVXF2Uy1uUjZuWDBYWlhhU3FTMXpaNzdFeWN0WkJTX2dYWEMwcC1qM2M1dmpIMDFLY1otMmxGX0hwY2t3VWJBYU9TVURaMlRxdURRZGFr?oc=5"
         }
       ]
     },
@@ -342,10 +474,22 @@
       ]
     },
     {
+      "id": "bbcb4a3db4fa",
+      "title": "Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight? - BBC",
+      "published": "2026-07-23T06:24:58+00:00",
+      "summary": "Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight?&nbsp;&nbsp;BBCSri Lanka uses air force drones to tackle spreading dengue outbreak&nbsp;&nbsp;ReutersSri Lanka National Dengue Control Unit: Weekly Dengue Update, Week 29 (13th - 19th July 2026)&nbsp;&nbsp;ReliefWebDengue threat to continue till mid-August: Health Minister&nbsp;&nbsp;Daily Mirror - Sri LankaDengue cases continue rise in Bangladesh and Sri Lanka&nbsp;&nbsp;Outbreak News Today",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRmNIVXVVYjBvamJObjU3MUZiUzhRMGV4dnhVSC1KbnNyU3pWM3lfbTNleTVkWnE0UkFtZ2lsc3ViRm94SlRJdUVKa3V4OTNhZG5qSUM4YmtyUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8db867c0a68e",
       "title": "Speeding up gynaecological diagnoses - Healthcare Today",
       "published": "2026-07-23T06:18:43+00:00",
-      "summary": "Speeding up gynaecological diagnoses&nbsp;&nbsp;Healthcare Today'I lost years waiting for endometriosis diagnosis'&nbsp;&nbsp;BBCUK experts unveil endometriosis tests that could cut diagnosis time from 9 years to 45 minutes; call them 'game changing'&nbsp;&nbsp;Deccan HeraldNew Endometriosis Tests Could Speed Up Diagnosis—We Asked A Women's Health Expert What You Need To Know&nbsp;&nbsp;Yahoo HealthTwo New Tests Could Help GPs Diagnose Endometriosis Faster&nbsp;&nbsp;EMJ",
+      "summary": "Speeding up gynaecological diagnoses&nbsp;&nbsp;Healthcare Today'I lost years waiting for endometriosis diagnosis'&nbsp;&nbsp;BBCUK experts unveil endometriosis tests that could cut diagnosis time from 9 years to 45 minutes; call them 'game changing'&nbsp;&nbsp;Deccan HeraldNew tool could change the way endometriosis is diagnosed&nbsp;&nbsp;Spectrum NewsHow Close Are We To Quicker Endometriosis Tests? A Women's Health Expert Explains&nbsp;&nbsp;MindBodyGreen",
       "sources": [
         {
           "name": "Healthcare Today",
@@ -354,14 +498,14 @@
       ]
     },
     {
-      "id": "9e7fc42df0bd",
-      "title": "US-India NISAR satellite captures a ‘hummingbird’ in Antarctica. What it reveals - ThePrint",
-      "published": "2026-07-23T05:00:37+00:00",
-      "summary": "US-India NISAR satellite captures a ‘hummingbird’ in Antarctica. What it reveals&nbsp;&nbsp;ThePrintUS-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica&nbsp;&nbsp;NASA Jet Propulsion Laboratory (JPL) (.gov)Satellite spots a 'hummingbird' in Antarctica photo of the day for July 23, 2026&nbsp;&nbsp;SpaceNASA's NISAR satellite Antarctica image captures a giant bird-like shape hidden in East Antarctica's ice;&nbsp;&nbsp;The Economic TimesUS-India Satellite Reveals 'Hummingbird'-Sha",
+      "id": "de697ca32342",
+      "title": "Why A New Mother Can't Stop Looking At Her Baby | Science Says It's How Her Brain Is Rewired - ETV Bharat",
+      "published": "2026-07-23T05:43:29+00:00",
+      "summary": "Why A New Mother Can't Stop Looking At Her Baby | Science Says It's How Her Brain Is Rewired&nbsp;&nbsp;ETV BharatThe brain rewires itself for motherhood. We now know more about how&nbsp;&nbsp;The ConversationA mother's devotion to newborns begins in the brain, study suggests&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
-          "name": "ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1JWeDdJektyNVlGcklSbEtDem9TUEJTanFTYTBCeTN4X1lfQjluSml6MG5lQVpDVHBBa1NZR2Qwc3N3NWNoNjhiR1lUQ0N5d19nSGtYVTNydlk5MC1BaEZvWVRCVXZMVENOZl8xTnJKXzdTRll5WUJfVFhiVVdFd1hUTS1kMGhYMGtBU05vZlJib2dWTjlzTS0yME1HUWNmN1Fv0gGoAUFVX3lxTE5IRnJEekRHLUZDZ1cweHhFTHpYcTZadzNrZUdkNWxkRHBVV0FMWDYyZExlQXZyTW9neFlleVJKTFI3cDZsX0RNQ0ZWZlB6Q1A0YUdiOHRtMXZMWEhVVE52c3JsemlvemEzaGlxMjFPdzc2bjRualRqRzhMc0JwTk5SS3M1T1F0Yl9IZnVsMU1ubUpheEtOMkoxbnVvT2tlNV93T0N2TS1abw?oc=5"
+          "name": "ETV Bharat",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbUtaQmhQbmFqaUNWOEZhNXhMcWI1NzZMNkFCOThCSGdsOGJaZFRBRl9pRm9UT29QU3lucnJPWFZSOGt4RzZyWlp5NjZTWnNoNTFEemdaS1hjb2NmVjlFbnNZc2hCeGlKNl85bUxlZ3YwX2FIaHBLdGdrZ3M3S3lFeW85NTBMbHVHb3QxR1hYenNzS2lZ0gGaAUFVX3lxTE8yNzdhT3EzQTBqakVZYkZhdWk1bEtvei1uWVhOdUo0TjlCY0QyVG85V2RhbVozUDlYMWtCei1qVE5lZ2p1QUswQmU2R2NrNHZSSmYwLXFrRHpjZG9Nb3d6alAza2N4TkpXV3ZILXdyZ0RpUHkzeUhFemV0cW5KdHdldFRKUEIzcFNmcnZhZDdVR0JndFFrOV9IUGc?oc=5"
         }
       ]
     },
@@ -374,18 +518,6 @@
         {
           "name": "Netmeds",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdFFPSGdaRHk0NWxIYjJJdndQbFJMQV92c3JuODVtejRfWFJkX1pzb0QxUzZqcFRIY1N1U25RRU85V3lIRHUyU0E4eDZ5Z0tVZTRtTlV5bXpudWx0cEtXOUZVUi1kNnU3M084Qkh4ajNFdy05SEViZGNfZll0V2FuVVMxck0xX0w2V2N6Z2NRY3hYaUxjV3dzU0w1VUxuX1RWWmJCWk8zQk13V0Z2YjRwZ0VNdHVSN3dhZFFQeHBoTG9mcWdYSkZtMGR1NjZKUGVkVGFfVGd0MkF6My12bnF0SGxnVHozNlJiZ3lEVTh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e804b0990e5f",
-      "title": "Goodbye, cavities? New gel could regrow tooth enamel - ScienceDaily",
-      "published": "2026-07-23T04:20:29+00:00",
-      "summary": "Goodbye, cavities? New gel could regrow tooth enamel&nbsp;&nbsp;ScienceDailyCan Humans Regrow Lost Teeth? Here Is What Science Says&nbsp;&nbsp;NDTVScientists are regrowing human teeth&nbsp;&nbsp;BBCNew Protein Gel Regrows Tooth Enamel, Human Trials Begin 2026&nbsp;&nbsp;Intelligent LivingScientists move closer to regrowing human teeth&nbsp;&nbsp;www.christiandaily.com",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVU1CLTI1dVVyOFp3TW9qOTY5MHhlTmY4UGhDRnk2bFFVay1QU3JmSldELS1NbFVtSl9KOHRuREs3UmtOS184QVdDVDJWYTktVmZQTUlOOXJpR2U2VWpLbmNLbWYzZVJqWWd6MVJ0WQ?oc=5"
         }
       ]
     },
@@ -438,30 +570,6 @@
       ]
     },
     {
-      "id": "b5d6e4ddc4ef",
-      "title": "Evaluation of the synergistic and antagonistic antibacterial effects of pulsed electromagnetic fields combined with ciprofloxacin and nanochitosan - Nature",
-      "published": "2026-07-22T23:57:51+00:00",
-      "summary": "Evaluation of the synergistic and antagonistic antibacterial effects of pulsed electromagnetic fields combined with ciprofloxacin and nanochitosan&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EMDdkSlZBeTBwVXF2Uy1uUjZuWDBYWlhhU3FTMXpaNzdFeWN0WkJTX2dYWEMwcC1qM2M1dmpIMDFLY1otMmxGX0hwY2t3VWJBYU9TVURaMlRxdURRZGFr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d8174ef17f2",
-      "title": "The planktonic microbiome of the Great Barrier Reef - Nature",
-      "published": "2026-07-22T22:19:50+00:00",
-      "summary": "The planktonic microbiome of the Great Barrier Reef&nbsp;&nbsp;NatureScientists mapped the invisible microbiome of the Great Barrier Reef and found more than 500 new bacterial species and over 300,000 viruses in its waters&nbsp;&nbsp;The Times of IndiaSeawater sampling Great Barrier Reef (IMAGE)&nbsp;&nbsp;EurekAlert!The Great Barrier Reef has a microbiome too&nbsp;&nbsp;UQ NewsGreat Barrier Reef Has Microbiome Too&nbsp;&nbsp;Mirage News",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Dam04b2JrdFIxQ3V3azN1QjVRbldjbGFGLVN0WnFzdHZXMmlFQmo5cDQ1a25rSDZDU0ZCYWNlMGpBanJVOGVPeWJTQnBXSkoweGJmcER3bkF5ZVFOdURZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0dec3705539b",
       "title": "Green synthesis of zirconium oxide nanoparticles using Azadirachta indica leaves extract for multifunctional biomedical applications - Nature",
       "published": "2026-07-22T21:56:15+00:00",
@@ -470,18 +578,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qb0lBTWFYdU9rMXdDall2T0VGWF9wM3RQTjVIQUY0dGh6MF94Mzk4Y2tzMDM0QWZPR3hYa0lmSEVCZ1ItVEoteW9qU1E4MTZlNk1uWTNTVE5Hb29JbkVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "27a3262315c9",
-      "title": "The heart has a ‘little brain’ — and it protects against stress - Nature",
-      "published": "2026-07-22T20:10:12+00:00",
-      "summary": "The heart has a ‘little brain’ — and it protects against stress&nbsp;&nbsp;NatureHow the heart's 'little brain' helps it function and protects it against stress&nbsp;&nbsp;Medical XpressScientists Discover the Heart’s ‘Little Brain’ That Helps Protect Against Stress&nbsp;&nbsp;slguardian.orgOur Heart Has A 'Little Brain'. New Study Reveals How It May Protect Us During Stress&nbsp;&nbsp;News18",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4ejlUTHU1bDgtczY5Y2JUQ2NaWGFMbnkwbDNZWGhsWDVpdkZ3UmszbXh3ZUZJY19pMmpmNmVDTFJkYnBxbVBERUJWU3QxLUJ3SWlndEt5RHlWbXptVld3?oc=5"
         }
       ]
     },
@@ -498,6 +594,18 @@
       ]
     },
     {
+      "id": "e67d494b4f2d",
+      "title": "Combining Bee Venom and L-DOPA to Treat Parkinson’s Disease - Neuroscience News",
+      "published": "2026-07-22T18:41:18+00:00",
+      "summary": "Combining Bee Venom and L-DOPA to Treat Parkinson’s Disease&nbsp;&nbsp;Neuroscience NewsA sting of hope for Parkinson’s disease&nbsp;&nbsp;EurekAlert!Bee venom helps preserve memory in new Parkinson’s disease study&nbsp;&nbsp;The Brighter Side of NewsExploring Bee Venom’s Potential in Parkinson’s Disease (IMAGE)&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkR2RWQWVUTTRIM2JlMWdkOW5pamE0TTZVdWFMWWQ0MndZcjFyWnRLX1N0anBfREhkWDhOdDhYQ0hkS1pFWTV0V2o2NVVqblNGdXItdzRpZS1HdkViZWdLNU1NTDlEazJtclpJdmJYQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b44e60ebab37",
       "title": "Spouses May Increase Risk Of Dementia By Up To 70%, New Study Finds - NDTV",
       "published": "2026-07-22T18:16:32+00:00",
@@ -510,10 +618,22 @@
       ]
     },
     {
+      "id": "273c63e8e8d2",
+      "title": "A tapeworm infects worker ants and makes them live several times longer by turning their bodies more like - The Times of India",
+      "published": "2026-07-22T18:09:00+00:00",
+      "summary": "A tapeworm infects worker ants and makes them live several times longer by turning their bodies more like&nbsp;&nbsp;The Times of IndiaA Wild Parasite Makes Ants Live Longer And Tricks Others Into Worshipping Them. Scientists Finally Know How.&nbsp;&nbsp;ScienceAlertTapeworms Extend Ant Lifespans via Genetic Changes&nbsp;&nbsp;Scientific FrontlineTapeworms aren't just harmful to your brain. These tiny parasites can turn ordinary worker ants into long-&nbsp;&nbsp;The Economic TimesTapeworm makes ",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPV1YxNkY4WXJKQkl5bUlLU0kyRmg3ckI4MjYzRDlKb05xMk85bEpQc0hYZENVTTZXVjJLZzJuc3RWQ2FMUE1RU3BHdlFYbDBfYmhBN2dRMHlmUHU0NUhQNTZkMVpqOVRwMVRKal9vaExkRi1FR0gwUDkyQ3BPNmotOUtqUDc5T1d5d1h5dlpwMDAtZHhhbkdORGZkamVFbWRUNzRWRzJ6VTlCUEJrQWtWUWZHeWpSa3A1My1lU25Ia3F2VUlveFFtdU5qTlZYQnEzSVZZUEh2cjZpajFENXcza2dHbEk1TFNmMWVwZE1mV1NBdkxnRUM4SEJpZGhOMm11b08yNnVySV96UmNOckFOLXhuUG5Xb1dmc2NZ0gGgAkFVX3lxTE1LYXlmcFAzNnNENkE0clJoaDd1di1Ld19Vc0gxMmZpSG9lOEdsZHhhZTFBUTZNdER5Q21VelRxLWlocmdFVnFyb25XOW9zZDhhS3RDQlR6dWVUM3BrM1Mxa0lmZTJqS2ZwdHN1RmhTSGdBREpObnlXN25hQjJ1dkZGellFenhfOUIyTncwVnlISUd3LW5fdlN2ekVhb3Z1UU1haDNGMTBFMG41REVnRFBpNzMxRVowRVNUaVZvZUxIemVmV2NHU3paaGNIbHRtMXFkejlVdjBoUDMybHdjU01QUzFMZWFGUXBMcHlXY04tWHNQcXdZNXhFNkIyXzBLNjRadTVmc1o1LURMYjQtaUU1Tm4wenExRzA2T2pIb1c5Vw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1376691a4881",
       "title": "Researchers discover Earth-like planet with atmosphere 48 light-years away - Scripps News",
       "published": "2026-07-22T17:40:59+00:00",
-      "summary": "Researchers discover Earth-like planet with atmosphere 48 light-years away&nbsp;&nbsp;Scripps NewsAstronomers Find an Atmosphere on a Nearby Earthlike Planet&nbsp;&nbsp;The New York TimesEarth-like exoplanet found to have an atmosphere&nbsp;&nbsp;The GuardianAstronomers find the first atmosphere on a rocky world in the habitable zone&nbsp;&nbsp;ScienceDailyA super-Earth exoplanet’s leaking helium could be evidence of a complex atmosphere&nbsp;&nbsp;Scientific American",
+      "summary": "Researchers discover Earth-like planet with atmosphere 48 light-years away&nbsp;&nbsp;Scripps NewsAstronomers Find an Atmosphere on a Nearby Earthlike Planet&nbsp;&nbsp;The New York TimesFirst atmosphere found on Earth-like planet in habitable zone of distant star&nbsp;&nbsp;BBCEarth-like exoplanet found to have an atmosphere&nbsp;&nbsp;The GuardianScientists spot helium escaping from potentially habitable rocky exoplanet&nbsp;&nbsp;Qazinform",
       "sources": [
         {
           "name": "Scripps News",
@@ -534,14 +654,26 @@
       ]
     },
     {
-      "id": "95199d1219cb",
-      "title": "Israeli-U.S. joint research achieves light control in under one-trillionth of a second - Xinhua",
-      "published": "2026-07-22T14:38:00+00:00",
-      "summary": "Israeli-U.S. joint research achieves light control in under one-trillionth of a second&nbsp;&nbsp;Xinhua",
+      "id": "42424ba4debc",
+      "title": "High-Dose Vitamin D Eases Cancer Therapy Skin Toxicity - EMJ",
+      "published": "2026-07-22T15:22:00+00:00",
+      "summary": "High-Dose Vitamin D Eases Cancer Therapy Skin Toxicity&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "Xinhua",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02dzhxeXFBcW1oU2VWSmNPLTVHQkxDSVJnbXFiN3E3Z3pINHduU3NsajhuOGw1empPbTBkQU5iUUV3MzBBeW4wSmhsaFNzLUxlWWQtZDdtbHdDSFhfbTBJXzZtc1Q2V01yYmxpWThCRDFGVzBydmhLZ29oM2k?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjlPUFRHQXFrckZMWUU0YmRPQ1NGZDVDelE5QUt2Qk1TeE56Y2daMTRJVW1OUDNvYVpPVE1Cc0ZwV0p6NWtEUmNyRnE2eXQ5UFNRVHBQdGtSQlJpem9uaWRQR3c5VXI0Q3hLYm9kSmVJNDFaMy1mX1JGWXN3V0c0RDJoZG1DaEhRenVvRURfV3k0WFFqc1ZkbUoybmVoZ0ZK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d29c64dfff9",
+      "title": "Study Compared Data Sources for Hepatitis C Care Outcomes in the USA - EMJ",
+      "published": "2026-07-22T14:36:12+00:00",
+      "summary": "Study Compared Data Sources for Hepatitis C Care Outcomes in the USA&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUJqajBrVFdMRmxpaW1rQ0lxR0ExdV9zYko4dWxUaUxsZU8ybURaMjNQdVpyUk1LcDlPVE54VElqbjRFLWhzeHh3NUNGb2hFX1lDeHg0NG1IcG5fSnVGSW1ZaVNyU1FGTFVGWndiS3ZSSnMzNS1lLWxnTjFvYTR0T3NIbmN6eC1PX2Z3VjNlU2hLY3JnUW44bkNKQmJiUU1TcURVTzRnUXVlUFFtUGx4X2h3?oc=5"
         }
       ]
     },
@@ -558,14 +690,14 @@
       ]
     },
     {
-      "id": "4e7e2362b949",
-      "title": "Non-ordinary states of consciousness evoked by breathwork correlate with improved heart-rate variability - Nature",
-      "published": "2026-07-22T14:28:37+00:00",
-      "summary": "Non-ordinary states of consciousness evoked by breathwork correlate with improved heart-rate variability&nbsp;&nbsp;Nature",
+      "id": "303adb2ee1b9",
+      "title": "6 early dementia signs — and how to lower your risk - Advisory Board",
+      "published": "2026-07-22T14:28:42+00:00",
+      "summary": "6 early dementia signs — and how to lower your risk&nbsp;&nbsp;Advisory Board6 dementia symptoms that can show up years before diagnosis: Early warning signs you shouldn't ignore&nbsp;&nbsp;The Times of IndiaThis nighttime disorder may signal Alzheimer’s years before memory loss appears&nbsp;&nbsp;Futura, le média qui explore le mondeCan’t find your keys? Read this:&nbsp;&nbsp;Knox TN TodayPredicting dementia and Alzheimer’s 9 years before the first symptoms&nbsp;&nbsp;Techno-Science",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5T1owTXQweDlZUXQ5blEyRm03TF81U01reUxNaVNNUzFFV2ZJV0RTb080OVVkNEVWR0hmQ2dyTTVGZjNwYkx3bG1yVGw1TW1OWk9sSmUwRXRnN0hKaWtZ?oc=5"
+          "name": "Advisory Board",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53YWdhX0NRYzRBU0pJODhjdDk2SkxHdEFHWmY2WGhnS3F3ZDljNnZaM01qSHduZGpHUk93UHBjNVBpdVc1SnNuSEgwU1hYZXNtM0luVU42Q1loRlVWcEloZExqd0pXVWs2MWM2Tzg5MVEwY0pkTHpZ?oc=5"
         }
       ]
     },
@@ -609,7 +741,7 @@
       "id": "71f30acdbf0b",
       "title": "Personalized Care and Advanced Tech Offer Hope After Recurrent IVF Failures, Say Experts - This Week India",
       "published": "2026-07-22T13:40:05+00:00",
-      "summary": "Personalized Care and Advanced Tech Offer Hope After Recurrent IVF Failures, Say Experts&nbsp;&nbsp;This Week IndiaDr. Manjunath C S Busts 7 IVF Myths That Could Be Delaying Parenthood&nbsp;&nbsp;Business StandardWorld IVF Day 2026: Significance And Advances In Fertility Treatment&nbsp;&nbsp;Metropolis HealthcareWhy, despite growing market, IVF continues to pose a challenge for many&nbsp;&nbsp;The FederalDelayed fertility treatment often reduces success, raises costs&nbsp;&nbsp;financialexpress.",
+      "summary": "Personalized Care and Advanced Tech Offer Hope After Recurrent IVF Failures, Say Experts&nbsp;&nbsp;This Week IndiaDr. Manjunath C S Busts 7 IVF Myths That Could Be Delaying Parenthood&nbsp;&nbsp;Business StandardWorld IVF Day 2026: IVF or IUI? Expert explains which fertility treatment is right for you&nbsp;&nbsp;TheHealthSiteWhy, despite growing market, IVF continues to pose a challenge for many&nbsp;&nbsp;The FederalWorld IVF Day 2026: Significance And Advances In Fertility Treatment&nbsp;&nbs",
       "sources": [
         {
           "name": "This Week India",
@@ -666,6 +798,18 @@
       ]
     },
     {
+      "id": "c05103b6d968",
+      "title": "UWM neuroscientist explores how estrogens regulate memory and brain function - News-Medical",
+      "published": "2026-07-22T12:46:00+00:00",
+      "summary": "UWM neuroscientist explores how estrogens regulate memory and brain function&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSEU1MXdMWUF6c0hwQlN1cXB1bXl0aUViY0dRY29rb3ZKbjBPZlNieXB3a0pTUmtNSVlVeE9JU2ViY2Nicktac1dTVlhiVDM1Z3Y3aWlKeERNc0JYRDA0RlU4QWU3YzUxYjlldFVnVVVGSENyYTZPaklSSWc2b2NEeVptQlh3LUtmNlhyMEJOaXBGN3UyMnRLQmdMcFBBMDRPSXI2M1NaYzBqcVRuWUVhMERuYjVDX3VJNlJJVHBvMTRNdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "397f1bbbaca8",
       "title": "5 Common Things You Use Every Day That Could Secretly Damage Your Liver - Asianet Newsable",
       "published": "2026-07-22T12:33:13+00:00",
@@ -674,18 +818,6 @@
         {
           "name": "Asianet Newsable",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOczRTcmJ6WWRUbXppLU5Yc3RqWUFqcDJKVkljQ053aWRmYWNFV3RFUGV3bGV2YzdMTHlVZW9CTmtQbVlYM2tYbEd4aGxzVlVqQ21nTWxzNzdEUUl0b04yYTl4SFVzQjhBNDd6czNILTdoa0llRF9DeER6aEgySkFuRlM2R0NrTXNvSnNNQkI5eVJ5WW4tR0VpZndGZFd6aUtUT1JiQUxSZ1o3UUo5dUxzQnYwcmpmSk44MVVQMWN1VTlIVTZ0SUVObFJR0gHPAUFVX3lxTE5lVU5VNVgyTlBUOXJpX3NtMWo4dHlzVXViV0xDVjFTUjRBMm1KQWlFWXRyMnNsVGxZNjRfeURwajd4Z2RZalU0a1M3NW16WE9LRkVLU1VlNjYwdm9CUVlnVGVDajU4bTFHNnlDN2Nib3cyeTQ3WnlvVzNBZTh5b0ozb3ktOGJHM0xtaFN6Wm1scC1HN0tQTW9zNkUzZHctbFFCX1o1N29DcDhqdmVYWGNwMDgtM2t3UktIWlh6aEtRRS1HU1A0NUZoSl9nRHpqMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e8a9d787b152",
-      "title": "Einstein was right: Biggest black hole study fails to prove his theory wrong again - India Today",
-      "published": "2026-07-22T11:15:51+00:00",
-      "summary": "Einstein was right: Biggest black hole study fails to prove his theory wrong again&nbsp;&nbsp;India Today",
-      "sources": [
-        {
-          "name": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMHMxX3dOeG1PS3pIaUw0QlFUdFM5SGpoek9aZkQ4NjN6TS00WXYyN3FmUlJONjhKbVVHTk9STzFfZXJ3bjF4akdkWk9MVTVNM2hrWllEaTQ5ZmQ3MkFzNFU2eGpZMHRsQ3h1eU9aaDM0ck5zVngzWElBX2VBcVZ5Y0ptaFdaR2ZtRlJWMmRSLXhfVGczXzZMWG5qT2gzXy02UGRsOGFMODNOMjh5VjBoS0llNVUyTGxEVkQzeHdxaS15Tm9NSVRnT1VVQndzM0g5aEpUMGhCRdIB3AFBVV95cUxQamdKMUg4R3ZuZ3lNa0FUaThlX2tKNnF6aWMwdGJMa3J1WVZ6amJsUlFrclo2Y2luSHpQa0xSWlU1TnZKZEx6dVBmcmxUcHotODIwbFhtMzVkXzhsY2JiV09iaFFTUjAzNGV0dnZTYjBjZEphWTJQMWIwbW5najhYY3haTERDUVdsdjFHbnVfelRHTFQyVmQ5dHpRX0hFaHdEc29uSmZSUExqXzc4ZVZ5VHdOYmtuQTNDeXNzZGptZ0xvRzB4eGFOVmdrOTR4OG45WFgwQ1FGU3F0SVhT?oc=5"
         }
       ]
     },
@@ -705,7 +837,7 @@
       "id": "7f64abf91bee",
       "title": "Stroke can happen at any age! Know warning signs and act FAST this World Brain Day 2026 - Healthshots",
       "published": "2026-07-22T10:28:47+00:00",
-      "summary": "Stroke can happen at any age! Know warning signs and act FAST this World Brain Day 2026&nbsp;&nbsp;HealthshotsWhy Are Brain Stroke Cases Rising In People Under 40? Neurologist Explains&nbsp;&nbsp;NDTVMini strokes rising in young adults: Warning signs you should never ignore&nbsp;&nbsp;The Indian ExpressHow to know if you're having a stoke? Physician Dr Kunal Sood shares the easiest way to recognise the warning signs&nbsp;&nbsp;Hindustan TimesStroke is rising among young adults. Doctor explains w",
+      "summary": "Stroke can happen at any age! Know warning signs and act FAST this World Brain Day 2026&nbsp;&nbsp;HealthshotsWhy Are Brain Stroke Cases Rising In People Under 40? Neurologist Explains&nbsp;&nbsp;NDTVMini strokes rising in young adults: Warning signs you should never ignore&nbsp;&nbsp;The Indian ExpressHow to know if you're having a stoke? Physician Dr Kunal Sood shares the easiest way to recognise the warning signs&nbsp;&nbsp;Hindustan TimesStroke rising among 30s-40s in UP; experts stress earl",
       "sources": [
         {
           "name": "Healthshots",
@@ -726,14 +858,14 @@
       ]
     },
     {
-      "id": "55f3eb49d6b2",
-      "title": "World Brain Day 2026: 7 Foods That Can Boost Memory, Focus And Long-Term Brain Health - News18",
-      "published": "2026-07-22T09:48:08+00:00",
-      "summary": "World Brain Day 2026: 7 Foods That Can Boost Memory, Focus And Long-Term Brain Health&nbsp;&nbsp;News18World Brain Day 2026: Neurosurgeon recommends brain-friendly foods to improve cognitive functions, from curd to berries&nbsp;&nbsp;Hindustan TimesScientists Warn This Common Kitchen Habit Could Raise Your Dementia Risk, According to Latest Research&nbsp;&nbsp;Women's HealthLifestyle Habits That Support Memory as You Age&nbsp;&nbsp;Yahoo HealthMIND Diet May Benefit People With Higher Alzheimer’s",
+      "id": "f2839a86e003",
+      "title": "Morbidity gap widening across most countries since 1990, study finds - ET HealthWorld",
+      "published": "2026-07-22T10:03:19+00:00",
+      "summary": "Morbidity gap widening across most countries since 1990, study finds&nbsp;&nbsp;ET HealthWorldThe hidden cost of living longer: Israelis spend over a decade in poor health&nbsp;&nbsp;YnetnewsPeople Living Longer, But Spending More Years With Illness And Disability&nbsp;&nbsp;U.S. News & World ReportGlobal study reveals widening gap between lifespan and healthspan&nbsp;&nbsp;News-MedicalLiving Longer, Feeling Worse: Americans Now Spend 14 Years Of Their Lives In Poor Health&nbsp;&nbsp;StudyFinds",
       "sources": [
         {
-          "name": "News18",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQ1dMVjUxMXhiSGl3YThKd1Rjak9qRXJWRm5ZVUJ2cjdLZ2p0bVUzcU9TNHA2YWxNT2dvNmVFa1lPa2t5TW5NTkdJUWlFcXFaWnlvNkFZdEdtMkNMQXI4UEhFTC1VZk1ZMjhJRkJla1pkRU5yY0pkank1UzhCMHdIVll4YnEyT1FLVW9WNVRYQ0JWUWNWWS13UGlIQ2xYTmFLTHhfZmQtdl93ZlVYUU9uQXNjVzUxZmdjbks4M3pyRlV0UEY0QVVpcUhSNGJZMzVNR3h0MldFQlNtOGota1I2ZnVSV1dIUW1CZ2ZwWEVSMy1KckxQ0gH6AUFVX3lxTFBxT0ZvMEpiUkZhZHVTU0VYMV9jWVBSendCZTM2MjN2emdmWWRYNV9yMHB0SWo2STcyLV80aGstN2VNZEJEQXBEQmM3MU9ET1ZqeWJaUmN4N1N2enh2UjV0UFppVG1LQXp6bVE4TTJqaVdXLVJYc3RYTl9kODNmX3hPdEJUVlFCUFp2Y043TV8wVll2eUxRMGlVUm10dXdvQ21OOEQ5X3ZCQzNDUU50Z2lYMm5CYzdEQVRWaXhQQ09kZHhxVWxuWVJQT3VSY3NReVRyTGltMlZhbFFlLWR0bUdDRDJxTnAxZHNuRUhlem1Nazh6VDZIVmF5Y3c?oc=5"
+          "name": "ET HealthWorld",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOemhXWV9MWXBGTncwZWRNTS0tYjNBRE51Y2s5enY5SU41bXNjV0pVdHFkejRGdm9lY3JBcFQtSFhjaEtLVWNZQzhqdW11blp2ZHY0VFpUdlNCX2RlZ3NMcTBnLXAxWnVKUmcxV0h2eEQ4Z2s4NXJrRVlDMlZhSW0ySTd3SmQ0RkVyb0hZQ2FDYVo5dWNCQWJGWmxsb3NpcWFMLWQtSHNxa0drYkV6STBwSWNyOWZlTTVPR3dXWHhKdENMaUN4TFlkLWphVkVWSmlP0gHWAUFVX3lxTFBJVWpTcUVORVRvaHlVM3Q1VUgzWDZFa09PR2YzNndJMkc3Q3VDZHluMEpuS19wOHlQeFgzaFNOLU1ORnM3a1Vua0FiUUZsQ2RBb1NOV1lLZVpsa2Z3LVc1MGp1ZGFFRjBYYXU2LS1mNnVQLW5GS3h1LTNwZHFZRHJLR1VZZ25sbjVhVHlBYjk4U2x3ZGI5VU5RczRJSTg2bkZsS3ZDdTBZSnRrX3hhVlNJMFFqazhYNjhGM0VPcDNoNHBHQmNZbFRTd1duRC05ajNKNlZYT1E?oc=5"
         }
       ]
     },
@@ -741,11 +873,23 @@
       "id": "0d47af8041e7",
       "title": "Marengo Asia Hospitals launches rTMS therapy to support stroke rehabilitation and neurosciences programme - expresshealthcare.in",
       "published": "2026-07-22T09:35:14+00:00",
-      "summary": "Marengo Asia Hospitals launches rTMS therapy to support stroke rehabilitation and neurosciences programme&nbsp;&nbsp;expresshealthcare.inInnovative rTMS Therapy to Enhance Stroke Rehabilitation and Neuroscience Programme&nbsp;&nbsp;MagzterMarengo Asia Hospitals Introduces Advanced rTMS Therapy To Strengthen Stroke Rehabilitation&nbsp;&nbsp;The Hans India",
+      "summary": "Marengo Asia Hospitals launches rTMS therapy to support stroke rehabilitation and neurosciences programme&nbsp;&nbsp;expresshealthcare.inMarengo Asia Hospitals Introduces Advanced rTMS Therapy To Strengthen Stroke Rehabilitation&nbsp;&nbsp;The Hans India",
       "sources": [
         {
           "name": "expresshealthcare.in",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLXpLdl9WUFhGeXRXamVyeElPRkM0TGhoQ2N4eTUtc3Rvc1UxS3puSVlFakV2MFJQcm9vOUMtM2VHTTVlRG9FcHNEMHYwVGw2UlEzalktNHBBRWZmUHRLUElRZkJvbmM5N3pOZEpJMVQ4VUlnajd3U3E0WC04S1NxVW1mUTFBQmx5S0RhdlljOHJubzJkSHgyN1R4VUFDNHFpd0EwTGM4ZTI5WjRWWGNxY2pJOGhjRzhoSDgxS2VrRW00ZkhUN2UwRGYxUnRRTHJ5WEdSQVUxMGNoc1BTTUJydXJQWVhwQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10702bea0b6d",
+      "title": "Here's why mosquitoes bite you more than others - Firstpost",
+      "published": "2026-07-22T08:39:08+00:00",
+      "summary": "Here's why mosquitoes bite you more than others&nbsp;&nbsp;FirstpostHow mosquitoes really pick their victims at your next evening party&nbsp;&nbsp;Futura, le média qui explore le mondeWATCH — Don’t let the mosquitoes bug you. Here’s why they bite | story | Kids News&nbsp;&nbsp;CBCVERIFY: Are mosquitoes more attracted to certain blood types? Here's what experts say&nbsp;&nbsp;WCNCWhy do mosquitoes bite some people more than others? CWRU researchers explain&nbsp;&nbsp;FOX 8 News",
+      "sources": [
+        {
+          "name": "Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGZ3cnJ6OUtYVmJNdllnOU5xT3hCV0FNM29CcV9zenpJTjctVXoxc0hLaFk4WlRCNGFKUG9od2ZmbzliWEhPN2hOY3JTZWs1d0cwSUxmZFRsYnZ0QTQ1c2FqMDNpOVJsb0huaU5Sa2NGU1oybTVBdTl4Uy1EVllVSnllX21Hci1QSlZXV3kyUXdIM1VzUkUwX3pPdUFYZUdyMnfSAacBQVVfeXFMTzRnVFJRTGZXOElMZHFVRzZmRVR1eGxnZGZFdDkyQTd2UmowRkVONWtCa0F3SE0zZ0UtQlFVSW5Ia1hOMjlzbDRwZUNyUC1RYVlPbmIxSldRbWJjN2pra3YzTUpwUFdxbDhBMWd1a1pYOXlBcGVhbWJheGFEWFhBS0U3OTRidE0wWkZ4SUNwZjhobDBHNnhYa092Wld2ZmlWa0szVnFzMUk?oc=5"
         }
       ]
     },
@@ -789,7 +933,7 @@
       "id": "3746e1bbaa21",
       "title": "How Magnetic Forces Could Help Grow Replacement Tissues And Blood Vessels - NDTV",
       "published": "2026-07-22T07:44:16+00:00",
-      "summary": "How Magnetic Forces Could Help Grow Replacement Tissues And Blood Vessels&nbsp;&nbsp;NDTVEngineers create ‘blood vessel on a chip’&nbsp;&nbsp;DPA MagazineMIT Researchers Develop Precise Lab-Grown Microvascular Networks&nbsp;&nbsp;Daily BeirutMIT Scientists Grew Artificial Blood Vessels In The Lab Using Magnets&nbsp;&nbsp;ScienceAlertMIT scientists develop a new way to grow artificial blood vessels&nbsp;&nbsp;AOL.com",
+      "summary": "How Magnetic Forces Could Help Grow Replacement Tissues And Blood Vessels&nbsp;&nbsp;NDTVMIT engineers find a precise way to grow artificial blood vessels&nbsp;&nbsp;MIT NewsMIT Researchers Develop Precise Lab-Grown Microvascular Networks&nbsp;&nbsp;Daily BeirutBlood-Vessel-on-a-Chip Models Can Now Grow and Redirect New Capillaries&nbsp;&nbsp;Discover MagazineMIT Scientists Grew Artificial Blood Vessels In The Lab Using Magnets&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
           "name": "NDTV",
@@ -798,22 +942,10 @@
       ]
     },
     {
-      "id": "cb8002235dc6",
-      "title": "Can smoking help microplastics reach your heart? A new study says it might - Mathrubhumi English",
-      "published": "2026-07-22T07:39:06+00:00",
-      "summary": "Can smoking help microplastics reach your heart? A new study says it might&nbsp;&nbsp;Mathrubhumi EnglishDo patients who suffer heart attack have more micro and nanoplastic in their blood? New study assessed&nbsp;&nbsp;The ConversationHeart Attack Patients Have More Plastic In Their Blood, Study Finds&nbsp;&nbsp;StudyFindsCould microplastics be linked to cardiovascular disease?&nbsp;&nbsp;pharmaphorumMicroplastics Found in 84% of Serious Heart Attack Patients&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "Mathrubhumi English",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGZuQXVJWmtDZm1pRlVKX1E1dDgxbmJCSU9LdElFcnV0cW1CMGpmNkxWeEF3Rm9ybWh5OXNaN2g5bE9WWFVwLTZYcHZJMEs5MUlHd2sweWstVEI3QXVCdUN0ZF9fUHZ2amtOejlfU3JIVHI5czBVZHB6MG52eXlfUHk2SWJUcTN5VGRXU21xREF2Y3Q0aG9ZM0VDWGRGa3hJTHBJdWRxZ3JIZ1VodGI4SFNSNWIzc3M3Y0JOZlY0QnJIYlFaQ1ZkcUNBONIB0AFBVV95cUxOdF9xQzRDaS1yRUExcFdreHl4alNuZXBLeTJReVVXZ2N4aWR0MGdESzJzenA0WXNLRWlvVDExa0ZZTFd5S3VGX3FGTlp0MktNQjEwZnRaV0J2aFAwTE1qWUVJMnEtdWQxTlJBbTNXVVh5Q2hKM1Z4enBJb3JfYXNzcW1wN29HZlA3NWNtbnJSZ2Y0aU9XWHc5NmhyOE9NQ0VISW1aRGFVTDFNTkhuR05HSnBteExuc3l2bGphNlRtYWJycFFycHJ3NkF6M0hwbjZT?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2c09d1902947",
       "title": "WHO warns vitamins alone won't prevent dementia in updated guidance - TheHealthSite",
       "published": "2026-07-22T07:30:00+00:00",
-      "summary": "WHO warns vitamins alone won't prevent dementia in updated guidance&nbsp;&nbsp;TheHealthSiteNew WHO guidelines: up to 45% of dementia risk could be prevented or delayed&nbsp;&nbsp;World Health Organization (WHO)The earlier you know, the more you can do&nbsp;&nbsp;Oman ObserverAmong the adjustable dementia risk factors for the elderly in Korea, the impact of \"low education le..&nbsp;&nbsp;매일경제WHO calls for action on preventable dementia risks&nbsp;&nbsp;Aged Care Insite",
+      "summary": "WHO warns vitamins alone won't prevent dementia in updated guidance&nbsp;&nbsp;TheHealthSiteNew WHO guidelines: up to 45% of dementia risk could be prevented or delayed&nbsp;&nbsp;World Health Organization (WHO)The earlier you know, the more you can do&nbsp;&nbsp;Oman ObserverAmong the adjustable dementia risk factors for the elderly in Korea, the impact of \"low education le..&nbsp;&nbsp;매일경제WHO updates dementia guidance&nbsp;&nbsp;Clarity News",
       "sources": [
         {
           "name": "TheHealthSite",
@@ -834,26 +966,26 @@
       ]
     },
     {
-      "id": "1c4465cc5fb6",
-      "title": "Faint New Planet Is Revealed Around A Young Star After A Decade In Hiding - Deccan Chronicle",
-      "published": "2026-07-22T06:30:53+00:00",
-      "summary": "Faint New Planet Is Revealed Around A Young Star After A Decade In Hiding&nbsp;&nbsp;Deccan ChronicleNASA’s Webb Discovers Hidden Planet in Famous Star System&nbsp;&nbsp;NASA Science (.gov)New planet revealed around a young star after a decade in hiding&nbsp;&nbsp;The Hindu'Found you!' Astronomers spot faintest exoplanet ever seen from Earth after a decade of hide-and-seek&nbsp;&nbsp;SpaceNASA's Webb telescope wasn't looking for a new planet around Beta Pictoris — it was studying a known one — a",
+      "id": "5ce8e48cf87c",
+      "title": "Coldest Since 2012? Antarctica's -84°C plunge has made scientists alarmed - Moneycontrol.com",
+      "published": "2026-07-22T06:39:16+00:00",
+      "summary": "Coldest Since 2012? Antarctica's -84°C plunge has made scientists alarmed&nbsp;&nbsp;Moneycontrol.comConcordia Station hits minus 84.7°C as Death Valley reaches 121°F&nbsp;&nbsp;NewsBytesEarth’s Hottest and Coldest Places Were Separated by an Astonishing 136 Degrees Celsius Last Week&nbsp;&nbsp;ZME ScienceToday in 1983: The Coldest Temperature Ever Recorded on Earth&nbsp;&nbsp;farmersalmanac.comAntarctica records earth’s lowest temperature in over a decade&nbsp;&nbsp;Deseret News",
       "sources": [
         {
-          "name": "Deccan Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbnFIQkJKWE84RmNMZFBzV0djTWhIWTByMVUyS1pGY1FQYlpwUEI1QTFCcnRRUW16U0VKTVNkVE4tVG42QTJPajVVTVAxdll3UDhsY1poMWpzVnNDRHZUZHZRUzA1SjVRbHp3aGhycGZHNXE3cEN6VWFWYXBENFhUalNITDlVdk0zU0dfQ0tHUlAwNEZyWHkxS1dyUHpfM0E2dlZfbk0wZmdQbmNCT1dKdEVaemZSaU82LVV5ZUV30gHDAUFVX3lxTE5XTkY2c0YyLWx5S2FQOTNubDViNW1aTHNnTHZrY3FfXzlESGRDUzktUEtjMlNtcXM4YXRMVE9ib1Y3bzN3OUFvZGMzZmxwSENBaEYxODFnMFBpYjBLQV9jZnVvQkNOc1NnMkdEUmtCOC1rV3pZRDRHRnlUaEpqUzJmVWd3VWh6dXhUZDhzY3JvVVU5WE1WQ19VXy1yV2hMaTRZenJka1BsRXRVWk9wNXFPRXdqQ2RDQXJob3FGQXlpOHJYMA?oc=5"
+          "name": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa2NLWU91MU5mdmpZYmdsVm4tLUxycy1FYkZNekJEOGw4dTZNd195R05WMXhoRGthWURLMUM4NU0xNkVMc2ttSTV3ZVVuSk11ckNrY2tRWUNyWVpOZ2RiV2VfdWJvTVJzU2VYbjQtQnBfTmIyYXpTby1TZFkzLTRsMW1WVG9laFRqTnAtbGJTejZ2dFVma3BqcjNuOGk3cnJuV1U4clQtM1JLR3U4RTVVTmU1WkdTcHpfa1RGaDVHeUFHamRCUkRLSjFR0gHPAUFVX3lxTE5HMXZObmRZNUYtQzl3WmpVVk1wQnRadE03eWt3UmZyaXdKemZoNkE1LUhNUkZVenF3THJkRk44T0tKMW8zSmg2NFQ2U1lmNjhSZ0xFZ01IU0d6dVpxLTFSc21DbjRBeXF3WHdZUWM0MWFJYU84WUZRWGc0UHhRVkREcGcyQlYtWGJ1NlRQQnZuZU9RcDhLMHMzYWdmQ1gzY0szeVEzYm16bGs0ZWE1ekJKM25TT2dxQmRmYWV3dW9WWDlEZW5iT05YV3dNMVJsdw?oc=5"
         }
       ]
     },
     {
-      "id": "72e51a9cc2dd",
-      "title": "Your brain starts ageing long before memory loss begins: Neurologist explains the daily habits that can protect it as you grow older - The Times of India",
-      "published": "2026-07-22T06:30:00+00:00",
-      "summary": "Your brain starts ageing long before memory loss begins: Neurologist explains the daily habits that can protect it as you grow older&nbsp;&nbsp;The Times of India​Brain health starts young: 5 habits every young adult should adopt for a sharper mind, according to neurologist​&nbsp;&nbsp;The Times of IndiaNeurosurgeon shares 7 science-backed habits to support brain health and cognitive ageing&nbsp;&nbsp;Hindustan TimesWhy Age Doesn’t Tell the Whole Story&nbsp;&nbsp;98.4 Capital FM KenyaThis Simple",
+      "id": "463b6f575499",
+      "title": "NASA's IXPE maps hidden magnetic fields around the 'Lighthouse' pulsar for the first time - Moneycontrol.com",
+      "published": "2026-07-22T05:49:49+00:00",
+      "summary": "NASA's IXPE maps hidden magnetic fields around the 'Lighthouse' pulsar for the first time&nbsp;&nbsp;Moneycontrol.comNASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula&nbsp;&nbsp;NASA (.gov)Lighthouse Pulsar Gets First X-Ray Magnetic Map: Theory Holds, Models Don’t&nbsp;&nbsp;Tech TimesX-Ray Eyes Reveal the Magnetic Secrets of the Lighthouse Pulsar's Cosmic Wake&nbsp;&nbsp;Universe Today",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNZkdvcTJ0WUdWMnBhaGV4alVOTWtmT0s2NmlqZDRsdzZnbDE1TG5JZ2JBSTZobE04anc4eVhTZzdRRDRvZHNzVVRjQ3VjemxJRF82aFdBN2VXYnhuUWVEWEZVa2VnOXBaLTBFbnluNDVwTHdUS2lNZzg1SWRHUFNuMHVlUXhCTS1oTFdlZlNvaHRWRVA5S2szMlJSbEFucW9RUVlaQmJPNWd1OHJlOElaY05fd3VYUFN4bVlmMF9QUUZIWnRsbHZ4ZW9xcVRDV25DWnNtVGx3bEN5blpLdnRfelIxbjdjSmx0cXAyX19saF96ampJRDI4OWtaZUY4XzdBT3Qyd1hUc2MtRmEzeV8zanZFeHpBTEhmZFpXYmdESEJXUWlPNlHSAa4CQVVfeXFMTVIzcDFHXzI1TndxSlhNc3R2Mm05d1VETHlGQ1ZmVW8wLW9RMjRqdGhKeEJVeGFBZXR0MUhhWmhfeUNCa2JYd28wekluVExXR01rLTBZQm95MEhfNms3NlpHZGpweHhlR2VXSjV4SjY3STVsR0lDVFRvaDJhcmV1QnFjeHVHTEUtdFp6MWUyc2o4amZ3NnpqYk9uUExrcUZQUGZoQmlXaDY5ZmFzT3lFbGQ3M0lCSnRqQm5XMFpHS21aYTlCTlUtemtFeVJCMW1SOXJQSVZkbjZsc0pQM1RGRWN6Q21mVUh6VGcwYlhiaFNfMzZUVzc2Y2daRjcwWkt3dXBwcDNNcGk3WHJTNEtrSmFmV3d5cDFsZUFsemtDME45Z1VjVHVBRTV1X3N5WGc?oc=5"
+          "name": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeC1IbEZYNzkzaHRqV3p5WDQ4dklBX283c3FDeTdzQ3JERmFwenZRdUdtZEZ5VHhsanpmTnRBSlhLVk1acXJYazNKVEdCbXJaeWVaUkhYczhXQlJlbFVkSkNLSmVNQkIwZFdad3RDMWtES29Qc1RIdnBiQUlmeEpWa3lyQ1o1V0RqV1JwS1loM3JDM1BDRWJuNlJ4ZVU1OVkxNzdNOU5KTHBvWDJNbU9XZWg3YTdMdHA1RjB0cm9DMEJGOEMtV0hsZkkxcHBkYi1rZFpUWmctR2RLR3hnR1Q40gHkAUFVX3lxTE1QZWpVeno4WDJ4VE11YTE1aFd1UGhVVUo4V1V3SElYaGpiVThqeEdfb0V3N3ZtM2pFZEduZnl1LWtQVkhzbDFGUjFUVV95SXVPUFJQa2I1TDJNQmdXcWpHRldTU1VBaW9rWDJBb2NhRENiQ3ZRYlNhak15UVRIenByYjR0RS1wRDdqZDgxUVVlYklLcEd5MnZBNnBrdm5WVVNZbXhYZ2dzcWlrY0tCU2VlZGRxQUNsUEZsb0ItOG1XVExYbmFJNHVpYzhfMUJiZW5JYUIxbTdOMERIMWxtaGJpWFZfcQ?oc=5"
         }
       ]
     },
@@ -882,6 +1014,18 @@
       ]
     },
     {
+      "id": "8abd0b4b2a6e",
+      "title": "No ultra-processed foods for 10 days: Here’s what happens to your body when you stop eating it - TheHealthSite",
+      "published": "2026-07-22T04:05:00+00:00",
+      "summary": "No ultra-processed foods for 10 days: Here’s what happens to your body when you stop eating it&nbsp;&nbsp;TheHealthSiteCutting down on ultra-processed foods isn’t easy. Here are eight tips that worked for my family&nbsp;&nbsp;The GuardianWhat Happens When You Stop Eating Ultra-Processed Foods for 30 Days&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "TheHealthSite",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVRDS1NfM3lWdlRCejZ0ODhHcHJHb0xyendIWWllVnY4X3pDdTJtSWlYRVpFcWE2SnZXTkJ2Ym9mczNQZDFocklvRGkwYUFYdXlWbWdGTm1qSjZwa1MxRDVrcllxbVNKQTF0ZU4xZ3Bmd2VfbFBXbHloZ3NleTRvTlFldnM1UDd5RnpQTW9rSGx4M2kxTUcwUDlzMzRqbEtTeTQwLTF6b3JsYXJBbkxOazZyd2JJYURTUFpKbVR2cWttbjlxQ0M3TjlrN0c0Q1R3dGZpYm84aC1EZ1hWVTEwZHluZ0ZNUdIB6wFBVV95cUxQT3JuSS1UenRMdnZWRnlaOXFnTktzZ3F4d3c1MWJRb3hyTDJCSDVSRUpDeVl5WDV2UzQxaHRkRF84aEMzLWtMcDRFaWJkWktySUIwUzFaLWlPQ3NGTU1CcWM0SXJOT3Frc2pUZG90M1pYYkVydy1MLVdMbmRVMDVkOUJINEh6LUNXOWxFT1E3Y0NQWlhYM2FPYlRic20tbEd1akxCRWVKUl9RNnYyZkZBRXlXQzlRUXhQX0FhemFZTzgzUHRCTzJ2S2d6bEQtUzQ2WExhcG5SYnplaU9yQm50TTVabUFkcV9xb1FN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bf7f58d01ebc",
       "title": "New Cancer Cases Predicted to Increase to 34.4 Million by 2050 - Neurology Advisor",
       "published": "2026-07-22T04:00:00+00:00",
@@ -894,14 +1038,14 @@
       ]
     },
     {
-      "id": "031bfde2f3bf",
-      "title": "Global study reveals widening gap between lifespan and healthspan - News-Medical",
-      "published": "2026-07-22T03:55:00+00:00",
-      "summary": "Global study reveals widening gap between lifespan and healthspan&nbsp;&nbsp;News-MedicalMorbidity gap widening across most countries since 1990, study finds&nbsp;&nbsp;ET HealthWorldThe hidden cost of living longer: Israelis spend over a decade in poor health&nbsp;&nbsp;YnetnewsPeople Living Longer, But Spending More Years With Illness And Disability&nbsp;&nbsp;U.S. News & World ReportLiving Longer, Feeling Worse: Americans Now Spend 14 Years Of Their Lives In Poor Health&nbsp;&nbsp;StudyFinds",
+      "id": "03a7ec6affb5",
+      "title": "Adverse pregnancy outcomes increase future peripheral artery disease risk - News-Medical",
+      "published": "2026-07-22T02:42:00+00:00",
+      "summary": "Adverse pregnancy outcomes increase future peripheral artery disease risk&nbsp;&nbsp;News-MedicalStudy Shows Pregnancy Complications Could Increase Risk for Peripheral Artery Disease&nbsp;&nbsp;dicardiology.comStudy Finds a Pregnancy Complication That Can Increase a Child’s Risk of Heart Disease&nbsp;&nbsp;Rutgers UniversityPregnancy Complications Increase the Risk of Peripheral Artery Disease&nbsp;&nbsp;Inside Precision MedicinePregnancy may flag future heart and metabolic risk, even without ma",
       "sources": [
         {
           "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU3lsZWRkbUxfZFAwOWFsU2UwcEtzbklUcV9IYVV1ay1pWkhHQlVlcFNPczVHSnZtRS1Xd01fYS1ZTmxzSlpyWHA0dlZPQ19JWkwtQWtxVU5UWWVqQW9kVjNyTFp6VTZBMnlZMzR6VG9iaDdZdWxkWWNiYlVlM0V0bm1VMGdrSHEzbGd2UlpfdUlESmdVX3dhWG1rblVUWmVvbkd6QzR4ZnNwQ3JwV0lXTDlkZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYy1tMWE1UEpJb3Z5WWhnUWdzVEVsZ193Z1J1cUFRX1hXZEdGN3Z4UklmYjZsQ1Y4RHpWRmplcTlRa19KQTE4QjMwOUdyMS1wVTd4R1VfMkNtN0RtNkhWMXpqSEFYMnd4UW1kdGlaVDdhdncwUVVwdEt3QTBfNGNyNGpNZ2FJZjdPU25FRk1HNU1yN1RUbmx2UU1QeTFsQUY5MTNYRU9QQUJMZHpZV0ZfcUhpVXJMWVZNalFmM2lB?oc=5"
         }
       ]
     },
@@ -914,54 +1058,6 @@
         {
           "name": "TheHealthSite",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmtEV05OWFRIRVAzRnEtTllYekFjVHA3NWdtZXNOUHBSdml6UWgzeTJhUmxrQ05pSTR0dWJLWWdJbUVvVWVpVW9vTmhmckVHUllrd1hXZm00S0ZicnUtQVJYWjN3QnhlcElveU1wckgtdFBkQ21mN0FKY3p3dC1NblMxRl90TGhHOFJCalJiUm5xRGZESld1aFpsOUJoNkVWNzRTaXV5aXpUQUVEM19wTzhyVUhqaEZLMnA1VGNCVTJ2b1BZRzdr0gHMAUFVX3lxTE5BaWRoeG5YcGlfTFE0SklWWndRamozaEItU0Zyai1MVDV1dkJibWN4aHVsZ3A1UTd4VjFwcTh4Uk84WVVicTZ3Y0UyTHlkNnN3SXc3TGQwVG9JT0lmOHNfZktFeFN4cXR0T1ZpVHBxTzdXUDdnUmdYOFdOdVVETUV5VnpOVjNZMTZWaXN6VzdoamdUQ0d0OUl4TXVqeVFmN2E0WnhONHV4bHBLNDRnZDl4TEV3akh6NkI5UFNRZGhlZzVrUl9iR21UMDJpUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "731ae4c2b6f6",
-      "title": "Blood test developed to better predict colorectal cancer recurrence, metastasis - koreabiomed.com",
-      "published": "2026-07-22T01:15:11+00:00",
-      "summary": "Blood test developed to better predict colorectal cancer recurrence, metastasis&nbsp;&nbsp;koreabiomed.comThe Blood Test Changing Rectal Cancer Surveillance&nbsp;&nbsp;Cleveland ClinicA Single Blood Sample May Improve the Prediction of Colorectal Cancer Recurrence or Metastasis, KAIST Study Finds&nbsp;&nbsp;EurekAlert!Can a Blood Test Tell If Colorectal Cancer Will Come Back?&nbsp;&nbsp;StudyFindsA single blood sample may improve the prediction of colorectal cancer recurrence or metastasis&nbsp;",
-      "sources": [
-        {
-          "name": "koreabiomed.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhblJQTHVROEdiVktiSlVka0xaaHdpbFlHQUtteHA0MDd5Vm5qZnRWN3Q0T1lwVi1LbFE5S0JvOElueHl4U3JkaWl3T0JueTlHeFFmY2pIR0NrSXVZMlJFMWFvQ1Y0S3doaXRnZTV30gFyQVVfeXFMUFQzX2t4Y0VFRDRwdXU3TDVXR0djUlNKRFhxYzlhTzBHRTZmODB3RzhzX21tUTloa2x1TE8xc1hmRGhyV2w3WDk1QWMtRFF6RWlOQkR0bXNUNFZjRTl3b19UX3FobnM1b3l0SWRCQjRyLS1n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6e4c8571ebb",
-      "title": "Scientists Warn Earth’s Waters Are Running Out of Oxygen - GreekReporter.com",
-      "published": "2026-07-21T20:59:34+00:00",
-      "summary": "Scientists Warn Earth’s Waters Are Running Out of Oxygen&nbsp;&nbsp;GreekReporter.comEarth’s Oceans Are Rapidly Losing Oxygen. It Could Destabilize the Planet&nbsp;&nbsp;GizmodoThe Invisible Crisis: Why Aquatic Oxygen Depletion Threatens Our Planet&nbsp;&nbsp;جو 24Underwater Oxygen Loss Threatens Earth’s Stability, Researchers Warn&nbsp;&nbsp;Astrobiology WebScientists have warned of a dangerous drop in oxygen levels in the Earth's water bodies&nbsp;&nbsp;UA.NEWS",
-      "sources": [
-        {
-          "name": "GreekReporter.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0dlaFpSLWt3SVJ1XzdjLWZ4WGxvMnJWV2tmTjJFUWNZM2dlZnlGdDdhd3R2SHlzRzJoNS0wWFhOSzVFMG9yT0VzMDdVb01BaFlIdWtGSjNLTTlXNzhvWTZDMFdvVnZucHdpTDZTZmpHNTRzQnRHTHVodFZaMkFRZlIwZGZlWnJUckE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "feb6ed2a6d87",
-      "title": "Repeatedly losing and gaining weight may accelerate muscle loss - News-Medical",
-      "published": "2026-07-21T20:19:00+00:00",
-      "summary": "Repeatedly losing and gaining weight may accelerate muscle loss&nbsp;&nbsp;News-MedicalSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmdUejlrWk5QaXVwb19tSFdJblZzTjJUM1ZPYTdUX0x5WXNfTFFvN3cwNWJYeFhDelZRSjZEdWFKSmFEbVdrM1N4WXRIdEdoaXBGSWsyMjJKaTNuaWNKRy1xbTdIV1d3U1k1SE5ZeFM2LVdONDdGTzhuWGhFNC1nalVSOTdOTm5yQjN3Tk9NWi1zQ3hNMHBJRmYyN3pmUEtVXzRROFYyRXdZd2tHZDNYOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "295558c58370",
-      "title": "In 2025 the World Health Organization put a number on loneliness, and it was grim: it now touches about one in six people on Earth - Silicon Canals",
-      "published": "2026-07-21T19:19:13+00:00",
-      "summary": "In 2025 the World Health Organization put a number on loneliness, and it was grim: it now touches about one in six people on Earth&nbsp;&nbsp;Silicon CanalsMassive New Research Studied Over 2 Million People to Answer a Puzzling Question About Loneliness. Here's the Result&nbsp;&nbsp;inc.comFeeling Lonely May Take a Bigger Toll on Health Than Expected&nbsp;&nbsp;SciTechDailyWhy doctors are having a tough time tackling loneliness&nbsp;&nbsp;Earth.comAgeless Generation: Socialization alievates many",
-      "sources": [
-        {
-          "name": "Silicon Canals",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN3JvWlJzS0kxSDdMSXMtSGlCcm1fVk9Yc1pia2VXZ2JReWdVUExUM3RtbGFwSjl3OE5yN3RWTGR6eXZjclV6eXJTcFZvQ2lrUkJkQlktR284eG1kNUxqNlYzVzFtM19nMUJlejV2SXdaREtwUzc1eGVhZlZ0cW83ZV8yQXlaMEZfVTlSazg2YmNCdnB3TFpRcTM5QkhlNE5lNVJvd2FvN2czX1gxWS1OYkV5S0luUVY4Z0hIdHd0Q1UxSlZBeHBuVXRkeTlfWjZIUlh1Vk0tWThha0ZTdzFDaDNvWFpSVHRPNlc0?oc=5"
         }
       ]
     }
