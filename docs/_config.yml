@@ -3,6 +3,10 @@
 # Basic settings
 title: "InTxGNN Drug Repurposing Reports"
 description: "India Drug Repurposing Predictions using TxGNN Knowledge Graph"
+
+author:
+  name: 藥提醒科技有限公司 (yao.care)
+  url: https://www.yao.care/
 url: "https://intxgnn.yao.care"
 baseurl: ""
 lang: "en"
@@ -23,7 +27,7 @@ search:
   heading_level: 3
 
 # Footer
-footer_content: "Copyright &copy; 2026 InTxGNN Project. For research purposes only. Not medical advice."
+footer_content: "Copyright &copy; 2026 藥提醒科技有限公司 (yao.care). For research purposes only. Not medical advice."
 
 # RSS Feed
 feed:
@@ -62,3 +66,4 @@ exclude:
   - node_modules
   - vendor
   - "*.template"
+
