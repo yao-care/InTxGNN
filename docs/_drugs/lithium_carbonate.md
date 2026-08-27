@@ -2,7 +2,7 @@
 layout: default
 title: Lithium Carbonate
 parent: 僅模型預測 (L5)
-nav_order: 366
+nav_order: 392
 evidence_level: L5
 indication_count: 10
 ---

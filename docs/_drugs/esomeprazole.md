@@ -2,7 +2,7 @@
 layout: default
 title: Esomeprazole
 parent: 僅模型預測 (L5)
-nav_order: 285
+nav_order: 298
 evidence_level: L5
 indication_count: 3
 ---

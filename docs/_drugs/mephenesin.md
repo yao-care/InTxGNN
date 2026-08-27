@@ -2,7 +2,7 @@
 layout: default
 title: Mephenesin
 parent: 僅模型預測 (L5)
-nav_order: 390
+nav_order: 416
 evidence_level: L5
 indication_count: 10
 ---

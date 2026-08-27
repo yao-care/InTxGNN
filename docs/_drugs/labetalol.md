@@ -2,7 +2,7 @@
 layout: default
 title: Labetalol
 parent: 僅模型預測 (L5)
-nav_order: 338
+nav_order: 364
 evidence_level: L5
 indication_count: 4
 ---

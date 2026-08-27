@@ -2,7 +2,7 @@
 layout: default
 title: Mexiletine
 parent: 僅模型預測 (L5)
-nav_order: 412
+nav_order: 438
 evidence_level: L5
 indication_count: 10
 ---

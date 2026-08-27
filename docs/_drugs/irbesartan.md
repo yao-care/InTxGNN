@@ -2,7 +2,7 @@
 layout: default
 title: Irbesartan
 parent: 僅模型預測 (L5)
-nav_order: 318
+nav_order: 344
 evidence_level: L5
 indication_count: 4
 ---

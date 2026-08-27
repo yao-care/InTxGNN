@@ -2,7 +2,7 @@
 layout: default
 title: L-Glutamine
 parent: 僅模型預測 (L5)
-nav_order: 337
+nav_order: 363
 evidence_level: L5
 indication_count: 10
 ---

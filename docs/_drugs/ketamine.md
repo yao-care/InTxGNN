@@ -2,7 +2,7 @@
 layout: default
 title: Ketamine
 parent: 僅模型預測 (L5)
-nav_order: 333
+nav_order: 359
 evidence_level: L5
 indication_count: 1
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Lansoprazole
 parent: 僅模型預測 (L5)
-nav_order: 343
+nav_order: 369
 evidence_level: L5
 indication_count: 2
 ---

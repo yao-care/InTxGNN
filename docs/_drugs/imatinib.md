@@ -2,7 +2,7 @@
 layout: default
 title: Imatinib
 parent: 僅模型預測 (L5)
-nav_order: 298
+nav_order: 324
 evidence_level: L5
 indication_count: 10
 ---

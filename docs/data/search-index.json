@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-13",
-  "drug_count": 1285,
-  "indication_count": 2236,
+  "generated": "2026-08-27",
+  "drug_count": 1319,
+  "indication_count": 2267,
   "drugs": [
     {
       "name": "Abacavir",
@@ -6660,6 +6660,121 @@
       "original": "",
       "level": "L5",
       "indications": []
+    },
+    {
+      "name": "Citric Acid",
+      "slug": "citric_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cladribine",
+      "slug": "cladribine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clarithromycin",
+      "slug": "clarithromycin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clemastine",
+      "slug": "clemastine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clidinium",
+      "slug": "clidinium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Climbazole",
+      "slug": "climbazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clindamycin",
+      "slug": "clindamycin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clioquinol",
+      "slug": "clioquinol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clobazam",
+      "slug": "clobazam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clobetasol",
+      "slug": "clobetasol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clobetasone",
+      "slug": "clobetasone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clofarabine",
+      "slug": "clofarabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clofazimine",
+      "slug": "clofazimine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Malaria | 99.60% | L4 | Research Question | Only *in vitro* activity reported for clofazimine **analogues** (not clofazimine itself); no clinical trials; most retrieved literature is about drug-resistant tuberculosis and is not actually malaria-relevant.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Gastrin secretion abnormality | 99.57% | L5 | Hold | No clinical trials or literature support whatsoever — score is a pure model output with no biological rationale.",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
     },
     {
       "name": "D-Glucose",
@@ -159264,6 +159379,164 @@
       ]
     },
     {
+      "name": "Gemcitabine",
+      "slug": "gemcitabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Gemfibrozil",
+      "slug": "gemfibrozil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Gemifloxacin",
+      "slug": "gemifloxacin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Gemigliptin",
+      "slug": "gemigliptin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Gimeracil",
+      "slug": "gimeracil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Glatiramer",
+      "slug": "glatiramer",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Glimepiride",
+      "slug": "glimepiride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Glucagon",
+      "slug": "glucagon",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Glutathione",
+      "slug": "glutathione",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Glycerin",
+      "slug": "glycerin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Cauda equina syndrome | 99.60% | L5 | **False positive** — no mechanistic link; surgical emergency, unrelated to Glycerin's pharmacology",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Open-angle glaucoma | 99.59% | L4 | Weak — Glycerin's real, established use is *acute angle-closure* glaucoma emergencies, not chronic open-angle disease; the one retrieved trial (withdrawn, n=0) is about an unrelated macular-pigment supplement",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Primary hereditary glaucoma | 99.56% | L5 | **False positive** — structural/genetic outflow defect, not addressable by an osmotic agent",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Alopecia | 99.55% | L4 | Weak-to-moderate — 1 ambiguous trial (drug identity unconfirmed) + 13 publications, mostly indirect (Glycerin as a formulation excipient, or basic skin-barrier science), not direct efficacy evidence",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Congenital hypotrichosis milia | 99.50% | L5 | **False positive** — rare structural/developmental hair-follicle disorder",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Hypotrichosis simplex of the scalp | 99.47% | L5 | **False positive** — genetic follicle-development defect",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Diffuse alopecia areata | 99.45% | L5 | **False positive** — autoimmune mechanism, unrelated to osmotic/humectant action",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Migraine disorder | 99.27% | L5 | **Likely data-confusion artifact** — core literature actually studies Glycerol Trinitrate (nitroglycerin), a different drug used to *induce* migraine models, not treat migraine",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Migraine with brainstem aura | 99.18% | L5 | Same artifact as above, with thinner evidence (2 papers)",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Glycine",
+      "slug": "glycine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Glycolic Acid",
+      "slug": "glycolic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Esophageal disease | 99.69% | L4 | 9 | Mostly PGA/PLGA biomaterial studies (name-collision false positives); one paper on glycolic acid points to pathology, not treatment",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Aortic malformation | 99.58% | L5 | 1 | PLGA vascular wrap material study, unrelated to glycolic acid pharmacology",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Disorder of carbohydrate absorption/transport | 99.52% | L5 | 2 | PLGA nanoparticle drug-delivery studies, unrelated to the proposed indication's mechanism",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
       "name": "Idoxuridine",
       "slug": "idoxuridine",
       "brands": [],
@@ -165975,6 +166248,166 @@
       ]
     },
     {
+      "name": "Primaquine",
+      "slug": "primaquine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Primidone",
+      "slug": "primidone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Trigeminal nerve neoplasm | 99.99% | 0 / 0 | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Orgasm-induced seizures | 99.99% | 0 / 0 | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Thinking seizures | 99.99% | 0 / 1 | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Startle epilepsy | 99.99% | 0 / 1 | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Eating seizures | 99.99% | 0 / 0 | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Micturation-induced seizures | 99.99% | 0 / 15 | Pending | Pending",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Reading seizures | 99.99% | 0 / 9 | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Trigeminal neuralgia | 99.98% | 0 / 0 | L4 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Beta-ketothiolase deficiency | 99.96% | 0 / 0 | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Probenecid",
+      "slug": "probenecid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Lesch-Nyhan Syndrome | 99.39% | L4 | 0 / 4 (all old, tier 3) | HGPRT deficiency causes urate *overproduction*; standard care is xanthine-oxidase inhibition (e.g. allopurinol), not increased excretion. A uricosuric agent risks worsening uric acid crystalluria/nephrolithiasis in this population.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "HGPRT Partial Deficiency (Kelley-Seegmiller spectrum) | 99.37% | L5 | 0 / 0 | Same overproduction/excretion mismatch as above, but with **zero** supporting literature or trials — a pure graph-topology extrapolation from the Lesch-Nyhan node.",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Procarbazine",
+      "slug": "procarbazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Prochlorperazine",
+      "slug": "prochlorperazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Procyclidine",
+      "slug": "procyclidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Progesterone",
+      "slug": "progesterone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Propafenone",
+      "slug": "propafenone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Periodic paralysis with transient compartment-like syndrome | 99.67% | Weak — analogy to mexiletine's use in Nav1.4-related periodic paralysis; no direct evidence",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Prinzmetal angina | 99.45% | Weak — pathology is coronary vasospasm; propafenone has no known antispasmodic action and carries proarrhythmic risk in ischemic disease",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Incessant infant ventricular tachycardia | 99.44% | Moderate — Class Ic agents have off-label pediatric use for refractory VT, but no supporting data here",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Arrhythmogenic right ventricular cardiomyopathy | 99.42% | Moderate — consistent with clinical practice of using Class Ic agents adjunctively in ARVC, but unsupported in this pack",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Nephrogenic syndrome of inappropriate antidiuresis | 99.23% | Very weak — driven by AVPR2 signaling, unrelated to cardiac sodium-channel pharmacology; likely embedding-space artifact",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Trichotillomania | 99.17% | Very weak — no plausible mechanistic overlap; likely prediction noise",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Propofol",
+      "slug": "propofol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Triptorelin",
       "slug": "triptorelin",
       "brands": [],
@@ -166928,6 +167361,17 @@
       ]
     },
     {
+      "name": "Alopecia | 99.55% | L4 | Weak-to-moderate — 1 ambiguous trial (drug identity unconfirmed) + 13 publications, mostly indirect (Glycerin as a formulation excipient, or basic skin-barrier science), not direct efficacy evidence",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glycerin",
+          "slug": "glycerin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Alzheimer disease without neurofibrillary tangles | TxGNN Knowledge Graph",
       "drug_count": 23,
       "drugs": [
@@ -167135,6 +167579,28 @@
         {
           "drug": "Iohexol",
           "slug": "iohexol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Aortic malformation | 99.58% | L5 | 1 | PLGA vascular wrap material study, unrelated to glycolic acid pharmacology",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glycolic Acid",
+          "slug": "glycolic_acid",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Arrhythmogenic right ventricular cardiomyopathy | 99.42% | Moderate — consistent with clinical practice of using Class Ic agents adjunctively in ARVC, but unsupported in this pack",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Propafenone",
+          "slug": "propafenone",
           "score": 99.0
         }
       ]
@@ -167536,6 +168002,17 @@
       ]
     },
     {
+      "name": "Beta-ketothiolase deficiency | 99.96% | 0 / 0 | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Blepharophimosis-intellectual disability syndrome, Ohdo type | 99.82% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -167807,6 +168284,17 @@
         {
           "drug": "Amylmetacresol",
           "slug": "amylmetacresol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Cauda equina syndrome | 99.60% | L5 | **False positive** — no mechanistic link; surgical emergency, unrelated to Glycerin's pharmacology",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glycerin",
+          "slug": "glycerin",
           "score": 99.0
         }
       ]
@@ -168100,6 +168588,17 @@
       ]
     },
     {
+      "name": "Congenital hypotrichosis milia | 99.50% | L5 | **False positive** — rare structural/developmental hair-follicle disorder",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glycerin",
+          "slug": "glycerin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Conjunctivitis | 98.45% | 0 | 0 | L5 | Hold | No ophthalmic formulation; theoretical iodine antimicrobial effect unvalidated",
       "drug_count": 1,
       "drugs": [
@@ -168361,6 +168860,28 @@
       ]
     },
     {
+      "name": "Diffuse alopecia areata | 99.45% | L5 | **False positive** — autoimmune mechanism, unrelated to osmotic/humectant action",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glycerin",
+          "slug": "glycerin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Disorder of carbohydrate absorption/transport | 99.52% | L5 | 2 | PLGA nanoparticle drug-delivery studies, unrelated to the proposed indication's mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glycolic Acid",
+          "slug": "glycolic_acid",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Drug-Induced Osteoporosis | 99.9993% | L5 | Hold | Adverse mechanistic signal (ALP inhibition)",
       "drug_count": 1,
       "drugs": [
@@ -168445,6 +168966,17 @@
         {
           "drug": "Brivaracetam",
           "slug": "brivaracetam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Eating seizures | 99.99% | 0 / 0 | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
           "score": 99.0
         }
       ]
@@ -168620,6 +169152,17 @@
         {
           "drug": "CEFTRIAXONE",
           "slug": "db01212",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Esophageal disease | 99.69% | L4 | 9 | Mostly PGA/PLGA biomaterial studies (name-collision false positives); one paper on glycolic acid points to pathology, not treatment",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glycolic Acid",
+          "slug": "glycolic_acid",
           "score": 99.0
         }
       ]
@@ -168812,6 +169355,17 @@
         {
           "drug": "PENICILLAMINE",
           "slug": "db00859",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Gastrin secretion abnormality | 99.57% | L5 | Hold | No clinical trials or literature support whatsoever — score is a pure model output with no biological rationale.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Clofazimine",
+          "slug": "clofazimine",
           "score": 99.0
         }
       ]
@@ -169050,6 +169604,17 @@
         {
           "drug": "TRASTUZUMAB",
           "slug": "db00072",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "HGPRT Partial Deficiency (Kelley-Seegmiller spectrum) | 99.37% | L5 | 0 / 0 | Same overproduction/excretion mismatch as above, but with **zero** supporting literature or trials — a pure graph-topology extrapolation from the Lesch-Nyhan node.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Probenecid",
+          "slug": "probenecid",
           "score": 99.0
         }
       ]
@@ -169582,6 +170147,17 @@
       ]
     },
     {
+      "name": "Hypotrichosis simplex of the scalp | 99.47% | L5 | **False positive** — genetic follicle-development defect",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glycerin",
+          "slug": "glycerin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "IDDM 1 | TxGNN Knowledge Graph",
       "drug_count": 20,
       "drugs": [
@@ -169768,6 +170344,17 @@
         {
           "drug": "Mebendazole",
           "slug": "mebendazole",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Incessant infant ventricular tachycardia | 99.44% | Moderate — Class Ic agents have off-label pediatric use for refractory VT, but no supporting data here",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Propafenone",
+          "slug": "propafenone",
           "score": 99.0
         }
       ]
@@ -170439,6 +171026,17 @@
       ]
     },
     {
+      "name": "Lesch-Nyhan Syndrome | 99.39% | L4 | 0 / 4 (all old, tier 3) | HGPRT deficiency causes urate *overproduction*; standard care is xanthine-oxidase inhibition (e.g. allopurinol), not increased excretion. A uricosuric agent risks worsening uric acid crystalluria/nephrolithiasis in this population.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Probenecid",
+          "slug": "probenecid",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome",
       "drug_count": 1,
       "drugs": [
@@ -170566,6 +171164,17 @@
           "drug": "Aripiprazole",
           "slug": "aripiprazole",
           "score": 99.26
+        }
+      ]
+    },
+    {
+      "name": "Malaria | 99.60% | L4 | Research Question | Only *in vitro* activity reported for clofazimine **analogues** (not clofazimine itself); no clinical trials; most retrieved literature is about drug-resistant tuberculosis and is not actually malaria-relevant.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Clofazimine",
+          "slug": "clofazimine",
+          "score": 99.0
         }
       ]
     },
@@ -170798,6 +171407,17 @@
       ]
     },
     {
+      "name": "Micturation-induced seizures | 99.99% | 0 / 15 | Pending | Pending",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Middle ear neuroendocrine tumor | 94.42% | L5 | Research Question | NETs are typically hypervascular; anti-angiogenic class-extension hypothesis reasonable",
       "drug_count": 1,
       "drugs": [
@@ -170831,6 +171451,17 @@
       ]
     },
     {
+      "name": "Migraine disorder | 99.27% | L5 | **Likely data-confusion artifact** — core literature actually studies Glycerol Trinitrate (nitroglycerin), a different drug used to *induce* migraine models, not treat migraine",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glycerin",
+          "slug": "glycerin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Migraine with Brainstem Aura | 99.35% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -170859,6 +171490,17 @@
         {
           "drug": "Apixaban",
           "slug": "apixaban",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Migraine with brainstem aura | 99.18% | L5 | Same artifact as above, with thinner evidence (2 papers)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glycerin",
+          "slug": "glycerin",
           "score": 99.0
         }
       ]
@@ -171025,6 +171667,17 @@
         {
           "drug": "Dexmedetomidine",
           "slug": "dexmedetomidine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Nephrogenic syndrome of inappropriate antidiuresis | 99.23% | Very weak — driven by AVPR2 signaling, unrelated to cardiac sodium-channel pharmacology; likely embedding-space artifact",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Propafenone",
+          "slug": "propafenone",
           "score": 99.0
         }
       ]
@@ -171204,12 +171857,34 @@
       ]
     },
     {
+      "name": "Open-angle glaucoma | 99.59% | L4 | Weak — Glycerin's real, established use is *acute angle-closure* glaucoma emergencies, not chronic open-angle disease; the one retrieved trial (withdrawn, n=0) is about an unrelated macular-pigment supplement",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glycerin",
+          "slug": "glycerin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Orgasm-induced Seizures | 99.19% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Brivaracetam",
           "slug": "brivaracetam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Orgasm-induced seizures | 99.99% | 0 / 0 | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
           "score": 99.0
         }
       ]
@@ -171517,6 +172192,17 @@
         {
           "drug": "ERTAPENEM",
           "slug": "db00303",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Periodic paralysis with transient compartment-like syndrome | 99.67% | Weak — analogy to mexiletine's use in Nav1.4-related periodic paralysis; no direct evidence",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Propafenone",
+          "slug": "propafenone",
           "score": 99.0
         }
       ]
@@ -172019,6 +172705,17 @@
       ]
     },
     {
+      "name": "Primary hereditary glaucoma | 99.56% | L5 | **False positive** — structural/genetic outflow defect, not addressable by an osmotic agent",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glycerin",
+          "slug": "glycerin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Primary release disorder of platelets | 99.61% | L4 | Low (eosinophil–platelet aggregates, basic research only) | Hold",
       "drug_count": 1,
       "drugs": [
@@ -172093,6 +172790,17 @@
         {
           "drug": "Valsartan",
           "slug": "valsartan",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Prinzmetal angina | 99.45% | Weak — pathology is coronary vasospasm; propafenone has no known antispasmodic action and carries proarrhythmic risk in ischemic disease",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Propafenone",
+          "slug": "propafenone",
           "score": 99.0
         }
       ]
@@ -172534,6 +173242,17 @@
         {
           "drug": "ISOXSUPRINE",
           "slug": "db08941",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Reading seizures | 99.99% | 0 / 9 | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
           "score": 99.0
         }
       ]
@@ -173059,6 +173778,17 @@
       ]
     },
     {
+      "name": "Startle epilepsy | 99.99% | 0 / 1 | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Status Epilepticus | 99.40% | L2 | Proceed with Guardrails",
       "drug_count": 1,
       "drugs": [
@@ -173145,6 +173875,17 @@
         {
           "drug": "Brivaracetam",
           "slug": "brivaracetam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Thinking seizures | 99.99% | 0 / 1 | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
           "score": 99.0
         }
       ]
@@ -173275,12 +174016,45 @@
       ]
     },
     {
+      "name": "Trichotillomania | 99.17% | Very weak — no plausible mechanistic overlap; likely prediction noise",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Propafenone",
+          "slug": "propafenone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Trigeminal Autonomic Cephalalgia | 99.09% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Dexmedetomidine",
           "slug": "dexmedetomidine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Trigeminal nerve neoplasm | 99.99% | 0 / 0 | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Trigeminal neuralgia | 99.98% | 0 / 0 | L4 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
           "score": 99.0
         }
       ]
