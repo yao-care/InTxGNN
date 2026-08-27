@@ -2,7 +2,7 @@
 layout: default
 title: Tulobuterol
 parent: 僅模型預測 (L5)
-nav_order: 475
+nav_order: 511
 evidence_level: L5
 indication_count: 10
 ---

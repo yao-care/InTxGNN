@@ -2,7 +2,7 @@
 layout: default
 title: Luliconazole
 parent: 僅模型預測 (L5)
-nav_order: 375
+nav_order: 401
 evidence_level: L5
 indication_count: 7
 ---

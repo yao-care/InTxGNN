@@ -2,7 +2,7 @@
 layout: default
 title: Methdilazine
 parent: 僅模型預測 (L5)
-nav_order: 399
+nav_order: 425
 evidence_level: L5
 indication_count: 1
 ---

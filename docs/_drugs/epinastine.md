@@ -2,7 +2,7 @@
 layout: default
 title: Epinastine
 parent: 僅模型預測 (L5)
-nav_order: 275
+nav_order: 288
 evidence_level: L5
 indication_count: 2
 ---

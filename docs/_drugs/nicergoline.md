@@ -2,7 +2,7 @@
 layout: default
 title: Nicergoline
 parent: 僅模型預測 (L5)
-nav_order: 457
+nav_order: 483
 evidence_level: L5
 indication_count: 8
 ---

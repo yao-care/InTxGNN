@@ -2,7 +2,7 @@
 layout: default
 title: Levetiracetam
 parent: 僅模型預測 (L5)
-nav_order: 354
+nav_order: 380
 evidence_level: L5
 indication_count: 10
 ---

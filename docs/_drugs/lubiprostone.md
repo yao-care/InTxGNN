@@ -2,7 +2,7 @@
 layout: default
 title: Lubiprostone
 parent: 僅模型預測 (L5)
-nav_order: 374
+nav_order: 400
 evidence_level: L5
 indication_count: 10
 ---
