@@ -1,10 +1,106 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-09-03T20:10:35.734537+00:00",
+  "fetched_at": "2026-09-04T01:30:25.950045+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 79,
+  "health_related_count": 84,
   "news": [
+    {
+      "id": "1d0c71d72756",
+      "title": "As life expectancy rises, healthy aging is more important than ever - News-Medical",
+      "published": "2026-09-04T00:52:00+00:00",
+      "summary": "As life expectancy rises, healthy aging is more important than ever&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1RTal9lU2U2WWdjSlZSRWxRbUdKSWk2cFMwb0J0bUxmdXBDZWVjNVBNT1FzaF9SOVp0YnNpckc2d2ZBdm1vMGVYcFR5Qnl6cUtCQ1owNjlGTEp1N3ZEUnNoZld5aEJDVVo3QTZkSmJ6NGFEaXZnSnJZY1pHQ05xWlVLMXRfU1dORDEzTURmSDcwMUdvX2hKZ0Joa1IwcUo5ZHlralRuaHY3MmxiRW5iN3VUOU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71d97c0e9634",
+      "title": "Coffee, tea and dementia risk: Why the amount you drink could matter - News-Medical",
+      "published": "2026-09-03T23:16:00+00:00",
+      "summary": "Coffee, tea and dementia risk: Why the amount you drink could matter&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMU8yOUdfODU1OFRYY2tuSUFsNU5BM1BUZGxiMnNaWk1uWVYxQ1JjbTJpdS1CMldyYWpyQ0NraWpfQnV5eGZXQ212OEphQjdQTUk1NThhcm1GQXN4R0I3R041cW0tbGE1dk05M0d4b1dudjBhQjloaXo2Skc1Wmt1ck4xaXQ4S2RVWDc5TllyWlJvTGpiTzBtS2VZZkRwSmFWaGRzc2VBdG54LUZmek11YUtMNVk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0141f90b912f",
+      "title": "Two Target Proteins ID’d to Treat Pulmonary Arterial Hypertension - respiratory-therapy.com",
+      "published": "2026-09-03T22:28:26+00:00",
+      "summary": "Two Target Proteins ID’d to Treat Pulmonary Arterial Hypertension&nbsp;&nbsp;respiratory-therapy.com",
+      "sources": [
+        {
+          "name": "respiratory-therapy.com",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR2pqcUZWMzQ0bWlSai1lNkc4WG53a2hIWmh5dHllZXR1S2RkVnluQkZPa3BPSkRCUWRXZ0drcUxmX1NwTVhtYXJKVDFLb0xUT3plWkIxd2RXVXBzbUpnU2Z0RHVuZzhUMmptMXBfN0YtNUtxXzUxSG5QSTNVYlFyYmZteTBpdG9ZSjdYUW1Hd1gwVTFoLWYzSEdHUHZtaVI0N180VTNPNmtNcXBGTWhjYW9sRldfcnZfY0gzeUcyaXNGRHFGTzhOVWpKamJONTFfNkd3dDN3QWxqbnVBTzJFQ2xTNmdmSFRhVjI4NTZwdUU1dlpEcm9z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5b8749f7d92",
+      "title": "Spare NRO Mirror Became Heart Of Roman Telescope - Aviation Week",
+      "published": "2026-09-03T22:12:49+00:00",
+      "summary": "Spare NRO Mirror Became Heart Of Roman Telescope&nbsp;&nbsp;Aviation WeekNASA’s latest mission to map the cosmos takes off&nbsp;&nbsp;The Economist'A giant leap forward': Nasa launches powerful new space telescope&nbsp;&nbsp;BBCNASA’s Roman Completes First Mid-Course Correction Burn&nbsp;&nbsp;NASA Science (.gov)Falcon Heavy brings the heat photo of the day for Sept. 2, 2026&nbsp;&nbsp;Space",
+      "sources": [
+        {
+          "name": "Aviation Week",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTS14WUxtOVZaVF9CWWI4R0FWMGwxdktXUjIxNTJNMHJ4RG8wSkdkR0xRWVBFS1Vhc2lfRnJPc2g2bjJRX1B5aUMxczJkSlAtZmVHWVl3RkdJNGlxS2xDYXo4ZHk3RWlSLUVvT2FNa0R0WDJTVmNBekZmcDdJV3JXTE1EWS1UWlR2REh0M0lYVnhIMFRiX2VnQXF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed6640a4c7ec",
+      "title": "How Worms Navigate Narrow Paths Faster Than Wide Ones Is Informing Future Robot Design - Industrial Equipment News",
+      "published": "2026-09-03T21:51:33+00:00",
+      "summary": "How Worms Navigate Narrow Paths Faster Than Wide Ones Is Informing Future Robot Design&nbsp;&nbsp;Industrial Equipment News",
+      "sources": [
+        {
+          "name": "Industrial Equipment News",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTWdlSDd4MlMwUVBOYjRnNGdyTlJ2dk5BeEZERmFVRnlOUGN0MzF4UWd4ODdmXzVFcHNGTmVCeHh5S2xteUVia1ZIX3NVc0dDYzdZVEtEM1J4T2xLRmF3MElNZUpGMnBLUnJrZ1k4MHpIaUlKX0Y4SW9xd2VhTldhNXR3SGwwd2pDdk4yX2lrY0ZONVBMa0NlWmx4NEg3blduaE9YUUZqMXZMenI4VlZFT3BtSHpqX1BiQm5FSDExYXNZNjZUMFVYOGMxUmdhUElBd2hvNGpmX21heWs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92ddbcd3e5e8",
+      "title": "New Study Expands Search for \"Dark Photons,\" a Leading Dark Matter Candidate - Universe Today",
+      "published": "2026-09-03T20:30:00+00:00",
+      "summary": "New Study Expands Search for \"Dark Photons,\" a Leading Dark Matter Candidate&nbsp;&nbsp;Universe Today",
+      "sources": [
+        {
+          "name": "Universe Today",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlFwVVZjMWY1clJoOHpXQ2xKYW9iU1JMVTk4WDVjQUliaTE2QzVyVFhSV05veTlOamdNZUNkdHlwSEE4M1NGUnJpT0tWSmt5dHVhU3NxSVZqcXJTWDZSZkstLVNmTU5ERVRUY1QwN3FGRXlaeEJxc242V3ZaWnMteWJZazBLRWRieGVmQzdLc1lKSkwxZ29tVHFDdGxULTdaRFNvNDVUNHhkSEFiaFM0c3F3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26ca7a5a3875",
+      "title": "‘The Scope Of Physiotherapy Is Wide’: Dr. Ayush Laxkar On Rehabilitation, Technology And Patient Care - Business Remedies",
+      "published": "2026-09-03T20:09:45+00:00",
+      "summary": "‘The Scope Of Physiotherapy Is Wide’: Dr. Ayush Laxkar On Rehabilitation, Technology And Patient Care&nbsp;&nbsp;Business RemediesRobotic Exoskeleton Shows Benefits Over Conventional Stroke Therapy&nbsp;&nbsp;Neurology TodayAI Is Giving Physical Therapy a Robotic Makeover&nbsp;&nbsp;NewsweekBeyond exercise: How robotics is changing physiotherapy and rehabilitation&nbsp;&nbsp;expresshealthcare.in",
+      "sources": [
+        {
+          "name": "Business Remedies",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOUpURVA1WDNSZ0gzZ3JFa1dmYjhiTmJrMjRXS0wybUNIcGFBeXIxaWh4NTBWRkY1ejNNLS1Ba3VFdDZ5V3RnblV6R2YwQ1pDdWQ4Yjg2dUdDaTdvRVc4Tmp3dEE2b3hZT1RpX21xXzlrcXJnTXdBWlVfY2pCSTNOdXRTQnlMbkVDWkxsRUJpVjkwbTJmUnhQOEN6OTNXQUVnbk1GTm5LSHpSTHVTOGF1cDVoM3FCOWgxWkp0c05nQ3FtOWt1bUE4SElR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a5c4dedac36",
+      "title": "ESC Introduces First Clinical Guideline for Cardiac Rehab - TCTMD.com",
+      "published": "2026-09-03T19:26:00+00:00",
+      "summary": "ESC Introduces First Clinical Guideline for Cardiac Rehab&nbsp;&nbsp;TCTMD.comNew European Guidelines Urge a Blood and Urine Test for Kidney Disease in Every Heart Patient&nbsp;&nbsp;Medical DailyRemote exercise-based cardiac rehabilitation can be an additional option for heart patients&nbsp;&nbsp;News-MedicalNew ESC, ERA Guideline Calls for Universal CKD Screening in Cardiovascular Disease&nbsp;&nbsp;hcplive.comCKD Screening Recommended in Heart Disease: ESC 2026&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "TCTMD.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnNIa2gtVTVydzVPb0h5em9HRWtoTHQzMFRlZmhsZTNhRDRpR3ktUU5OX2FteTNrQi1lSUJOVng4dGRJSjdVNG5jSnI1WEszNEJPM3FmNGs2R0pOSnJ0V0tTNEJJaC1rbG9idFpzblFKYnExM2RDWEpoZzd6QVZjbkNkNjNBVnc?oc=5"
+        }
+      ]
+    },
     {
       "id": "8241556d1eb7",
       "title": "From Field Epidemiology to Hospital Wards with William Schaffner - EMJ",
@@ -18,22 +114,10 @@
       ]
     },
     {
-      "id": "2463cafbdb15",
-      "title": "Caregivers of children with cancer engage in culinary medicine classes and coaching in new study - Medical Xpress",
-      "published": "2026-09-03T18:40:03+00:00",
-      "summary": "Caregivers of children with cancer engage in culinary medicine classes and coaching in new study&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbG11bHBfM3JaMUlpX1Bobk5ENnEtcVd3ckwwNWFaYjZrMmJfX0gyN2lIY0laVUlkSjFneWdXV0hRTXMyQk02M2JRUUtJTEFvSUNDWTJiT004b3dUd25VVWZxVHJCaExmVGJzZ19LU045SmhkMG9iMHBwZ2JtNlk4WTJGRFNYSDk2bjd5b2V3WQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3298f9ed532f",
       "title": "Allen Institute, UW and Fred Hutch launch $95M AI biology initiative - LinkedIn",
       "published": "2026-09-03T18:36:26+00:00",
-      "summary": "Allen Institute, UW and Fred Hutch launch $95M AI biology initiative&nbsp;&nbsp;LinkedInSeattle researchers want AI to design biology beyond nature&nbsp;&nbsp;AxiosAI BioDesign Accelerator Launches in Seattle to Advance Biomedical Discovery&nbsp;&nbsp;Inside Precision MedicineAI BioDesign Initiative Aims To Design Proteins Nature Never Produced&nbsp;&nbsp;Technology Networks",
+      "summary": "Allen Institute, UW and Fred Hutch launch $95M AI biology initiative&nbsp;&nbsp;LinkedInSeattle researchers want AI to design biology beyond nature&nbsp;&nbsp;AxiosSeattle scientists launch $95 million AI biology effort&nbsp;&nbsp;STATAI BioDesign project aims to adapt nature’s design rules&nbsp;&nbsp;newsroom.uw.eduAI BioDesign Accelerator Launches in Seattle to Advance Biomedical Discovery&nbsp;&nbsp;insideprecisionmedicine.com",
       "sources": [
         {
           "name": "LinkedIn",
@@ -42,14 +126,26 @@
       ]
     },
     {
-      "id": "0141f90b912f",
-      "title": "Two Target Proteins ID’d to Treat Pulmonary Arterial Hypertension - respiratory-therapy.com",
-      "published": "2026-09-03T18:13:21+00:00",
-      "summary": "Two Target Proteins ID’d to Treat Pulmonary Arterial Hypertension&nbsp;&nbsp;respiratory-therapy.com",
+      "id": "189f42d3c63f",
+      "title": "Swine Flu Numbers Spike In Last 7 Days, Many Seek Hospitalisation - The Times of India",
+      "published": "2026-09-03T18:35:00+00:00",
+      "summary": "Swine Flu Numbers Spike In Last 7 Days, Many Seek Hospitalisation&nbsp;&nbsp;The Times of IndiaIndia’s current flu spike is a test for the next pandemic. Failure is not an option&nbsp;&nbsp;The Indian ExpressWhy H1N1 feels longer this monsoon even without signs of a harsher virus&nbsp;&nbsp;India TodayFlu Shots Can Keep India Healthier. Yet, Few Actually Take Them&nbsp;&nbsp;thenewsminute.comH1N1 Surge: Can You Have Swine Flu Without A Fever?&nbsp;&nbsp;NDTV",
       "sources": [
         {
-          "name": "respiratory-therapy.com",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR2pqcUZWMzQ0bWlSai1lNkc4WG53a2hIWmh5dHllZXR1S2RkVnluQkZPa3BPSkRCUWRXZ0drcUxmX1NwTVhtYXJKVDFLb0xUT3plWkIxd2RXVXBzbUpnU2Z0RHVuZzhUMmptMXBfN0YtNUtxXzUxSG5QSTNVYlFyYmZteTBpdG9ZSjdYUW1Hd1gwVTFoLWYzSEdHUHZtaVI0N180VTNPNmtNcXBGTWhjYW9sRldfcnZfY0gzeUcyaXNGRHFGTzhOVWpKamJONTFfNkd3dDN3QWxqbnVBTzJFQ2xTNmdmSFRhVjI4NTZwdUU1dlpEcm9z?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb0dLRlEwaEVFdEZVZGtHQVRNYlVDVTZ6SEtpejBsajBUV2dXa0JrbkRzUmNheGxBY0NqR1NBeVBoWkpYbERxa0pTVk1qTWY2Yml4NGVHRFRhdkJ1NWZLaE85YzBwSHlpeS11SVFPS09vSzNEYjRYeFRldnZsdWNlR0F1cmNMVlJ3cERHUklGZkhza2JWOGhHaE93RGh5Y2ZBZThWTkxmMUNucEVIYlRiVHljWWVwWDNQVFVWMmk2QW11b3RtNE4yekUtU0xDWXJoLVlaaWNB0gHbAUFVX3lxTE0yMTRsTnF0TlgwNmNQbWkxOGlPeTRvZVZXLTZtTnFOTG1kZzV0N3RsYjR3S0w2MW9TdUt1ZkNxZEhEY0h5ZHVGUjJ3dnVvckJVTlRWbXNPNElHTUFyYmJDeXZrUDN0QXhRX3V1Q25DYmdDRW90UVpSYUdJM1pTVlJiVkdxeHhEckNBTXZ6NGNXWFVOanFLQUNka0hnWmdQMGw3QW5QZ1ZfMFRIVVBZVVhmQThVWHZ4d3loRHhJTlVLZjZ0TDFndjY1X0ZxZFlJb3ROWG9iZENONHNtQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "38dab7483fab",
+      "title": "New device design could miniaturize photonics, quantum technologies - Nanowerk",
+      "published": "2026-09-03T18:12:57+00:00",
+      "summary": "New device design could miniaturize photonics, quantum technologies&nbsp;&nbsp;NanowerkNew nanostructure makes non-linear light conversion 72,000 times more efficient&nbsp;&nbsp;Phys.orgResearchers Achieve 1.6 Nm V⁻¹ Nonlinearity In Quantum-well Structure&nbsp;&nbsp;Quantum Zeitgeist",
+      "sources": [
+        {
+          "name": "Nanowerk",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAteXZOWlRLZjZaZGhORjByNzJ6RnBPREtZdDV2d2EyU0RIZ052M1hhaUQ1TWh5WnhaeXFMVWFwN1hBT0RGUU1DMElLb2d4V1lQUDYtbmdBY3NNWFZ6b19YQ0Z3eXVZTzdsYnJkQzVTTQ?oc=5"
         }
       ]
     },
@@ -66,38 +162,26 @@
       ]
     },
     {
-      "id": "24ec287fc0b5",
-      "title": "New enzyme mechanism explains how sulfur-reducing bacteria process elemental sulfur - Phys.org",
-      "published": "2026-09-03T16:40:10+00:00",
-      "summary": "New enzyme mechanism explains how sulfur-reducing bacteria process elemental sulfur&nbsp;&nbsp;Phys.org",
+      "id": "598a3f6d1c1a",
+      "title": "Cancer is getting younger. Should we be worried? - Deccan Chronicle",
+      "published": "2026-09-03T16:20:32+00:00",
+      "summary": "Cancer is getting younger. Should we be worried?&nbsp;&nbsp;Deccan ChronicleWhat Are We Missing, Dr?&nbsp;&nbsp;Deccan ChronicleWe’re getting cancer younger. Here’s how to reduce your risk&nbsp;&nbsp;The TelegraphPatients Are Getting Sicker At Younger Ages, And It May Not Slow Down&nbsp;&nbsp;YahooGuiding Patients through Cancer Screenings&nbsp;&nbsp;Cleveland Clinic",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGxOcUJBdWdqRnp2bnF0a25SNmFVellxQ0h5ZUJ0d0lMY3Y3aTM2MllNSzJ4d3hrT3lTakRTVkpYTUQ0SUFGUGc4Yy1jMWFNcnNqS0VvOTV0S0JHM01SdzktQVE4U2tleFYyQzBkRUdyalVjOVpadkVqdzRVc0NRaXpOTQ?oc=5"
+          "name": "Deccan Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLVVoMFZFbUxIN05DUHJVUmxGdjFudTVhVGJDd2xfWEtJVzBVWFRnVEFfN0xtMGd6czFLX2drZVdNdXhFWDdaSGo1UjVDQi15X1Qwc1I2TzJXMEJpVlV4RjFSME1Od0NpVmYxRVJsT3pGcjNnSHRCY2tjUmpGcmlZOEw2YjVDX3V3eHFNR3FZZWZqZnZBWjZZNFN5eXMzQWNIUVY5ZFdiaktHbDFlU0NZaVQxXzDSAboBQVVfeXFMTkNVcDR6R3BGOFBUU2l5N19xQlo4OW5pU1hZazVEVFo0S2VmOUp2ajJ2OUYwbWRjTGdKZF9xR18tMmJIZlJCUXZFLU94LThEM0V3Tmt0MDFQckE1R1dBQUhUdzh5ZXhteTVEckM0VHpodEtXakxHbXdNRUhwUFhGUDAwR3pzRnM2NTFveDlZWG5WdjhMcTJyT0ZheTBFd1hvblkxTXMyUFYxVjZCbWxuWC1LVXR4UzlDU0J3?oc=5"
         }
       ]
     },
     {
-      "id": "b80a295f463b",
-      "title": "Researchers observes gravity's predicted quantum phase - Xinhua",
-      "published": "2026-09-03T16:20:00+00:00",
-      "summary": "Researchers observes gravity's predicted quantum phase&nbsp;&nbsp;XinhuaScientists finally observe a strange effect predicted by Einstein in a falling quantum object — what it me&nbsp;&nbsp;The Economic TimesInternational Team Including Sir Roger Penrose Demonstrates Falling Atoms Show Gravity Works on Quantum Objects&nbsp;&nbsp;quantumzeitgeist.comScientists observe the effect of gravity on a quantum object for the first time&nbsp;&nbsp;Interesting EngineeringPhysicists test the weak equivalenc",
+      "id": "1035c3a37408",
+      "title": "Immunotherapy Prior to Surgery Improves Brain Cancer Treatment Success - Labroots",
+      "published": "2026-09-03T16:15:00+00:00",
+      "summary": "Immunotherapy Prior to Surgery Improves Brain Cancer Treatment Success&nbsp;&nbsp;LabrootsGiving immunotherapy before surgery boosts brain tumor treatment success&nbsp;&nbsp;News-MedicalUS FDA Grants Fast Track Designation to T-MAXIMUM’s Allogeneic CAR-T Therapy for Recurrent Glioblastoma&nbsp;&nbsp;BioPharma APAC",
       "sources": [
         {
-          "name": "Xinhua",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hWHI5MVhwUlB3Ni12NkxTdm9hNVZFVHFkeGFJQzVuNU50U0c0WlF3MzliWTlSVWJwTHZVMExYX05ob1VHd3R3Q1otU181T3p1RXp4RGRDSmNFSjNaQmpiZ2J0TzJucmxTM2ZxX2E5R2xDc3NqMi1PRmtpYVU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "743c70dafcab",
-      "title": "JWST finds mysterious red objects pairing up in the early universe - The Brighter Side of News",
-      "published": "2026-09-03T16:07:00+00:00",
-      "summary": "JWST finds mysterious red objects pairing up in the early universe&nbsp;&nbsp;The Brighter Side of NewsAstronomers Find Little Red Dots About to Merge&nbsp;&nbsp;Universe TodayAstronomers have discovered a strange object the boundary between a star and a black hole&nbsp;&nbsp;UA.NEWSThis Little Red Dot Might Be Hiding a Black Hole From the Beginning of Time&nbsp;&nbsp;Popular MechanicsResearch roundup: 7 cool science stories we almost missed&nbsp;&nbsp;Ars Technica",
-      "sources": [
-        {
-          "name": "The Brighter Side of News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVM3X3Z4b2dsZ2Z2TEhOQnU2cUJSejB5cUVJUFRjdmtiZUE3UDJjb0owY2tnVmd2SlhxNXJDRnFlSDZkaEREd1o2LUMxel8wQWVfTk0xUlVYMGFyTXY2VDREX3VQdU5YNkpFTzNGRGpUWlZqS2t2alF4MG5HcVdEWVpGSFpmVkxJaExyRlZvN05jRzExS0Vpdk9ZYVIxOW0yRGxSOFJ6eWY?oc=5"
+          "name": "Labroots",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYUpQcTZ1MkFDQWxQMjhLVFZJTDROdjg5R0FERk9RRWYzUVNLSXFnMjd2Z29ZZlJhUFFNZEF1d0VIMDFYRk9Nd3ZRR3V2akw2aTMzeGp1bUlkM0V4Ty10S3cySUhBZTJPSVphOGNqRFNGYW9qVlBqVHhlZERhXzA3MEZaNmpVaTJaOXlVLUF2LURkMXJvXzN0ZFRkekdwRnFGcW1DTjhYMXlXYlc0Z0V5V3p2MFJ5MU1QN3pZT0RQN1p5WldOXy1ZcTliT1RQZUp6QTROQW9n0gHbAUFVX3lxTE5OLWlKYXI3dnNXQ1FEUE1xQkxBdUxvcmZ1WTNUUzFwT1AwaGFGTkFseWVpc2pTaGcwMHIwR3dtV3FZOXhPaGE3SU1USEdfMVBicmZibzY4U2EtTjU1ZmlrUnI1QXdSdl9fZmxHdG5nWGpoSElITXF0d0xybDJoNHRIT1c1NFhpY2UwcVU3QjdXdExYVjJkN0lPa1hleWFQcXowVVRXR2l4VzZZUkhwaGZ6b1ppaEE0VkN5U0J4UTlfTEtlR1FwcmpkUjBEc0lXZkh4OWJfVkpvUk9zbw?oc=5"
         }
       ]
     },
@@ -105,7 +189,7 @@
       "id": "a69a92c53003",
       "title": "Could eating less sugar early in life lower dementia risk decades later? - theweek.in",
       "published": "2026-09-03T16:00:17+00:00",
-      "summary": "Could eating less sugar early in life lower dementia risk decades later?&nbsp;&nbsp;theweek.inLess sugar in the first 1,000 days may change health decades later, study finds lower cancer risk and slower ageing&nbsp;&nbsp;The Times of IndiaCutting Sugar in Toddlers Till Age 2 May Help Lower Future Cancer Risk: New Study&nbsp;&nbsp;OnlymyhealthDoes Sugar Intake in the First 1,000 Days Shape Health?...Lower Risk of Cancer and Dementia&nbsp;&nbsp;아시아경제Less Sugar Before Age 2 May Lower Cancer Risk an",
+      "summary": "Could eating less sugar early in life lower dementia risk decades later?&nbsp;&nbsp;theweek.inWorld War II Sugar Rationing Data Hints That Limiting Intake of the Sweet Stuff Early in Life Lowers the Risk of Dementia and Cancer&nbsp;&nbsp;Smithsonian MagazineLess sugar in the first 1,000 days may change health decades later, study finds lower cancer risk and slower ageing&nbsp;&nbsp;The Times of IndiaCutting Sugar in Toddlers Till Age 2 May Help Lower Future Cancer Risk: New Study&nbsp;&nbsp;Only",
       "sources": [
         {
           "name": "theweek.in",
@@ -138,26 +222,26 @@
       ]
     },
     {
-      "id": "f7d590dc2012",
-      "title": "New map of a male fly central nervous system includes all 166,000 neurons — and enables direct comparisons to female fly brain - Live Science",
-      "published": "2026-09-03T15:00:00+00:00",
-      "summary": "New map of a male fly central nervous system includes all 166,000 neurons — and enables direct comparisons to female fly brain&nbsp;&nbsp;Live ScienceA connectomics milestone: Mapping the complete male fruit fly brain&nbsp;&nbsp;Google ResearchHow the brain of a fly may help explain human behaviour&nbsp;&nbsp;BBC5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience&nbsp;&nbsp;blog.googleThe brain, solved&nbsp;&nbsp;Scientific American",
+      "id": "12b770134f23",
+      "title": "STAREE Strengthens Case for OTC Statins - Medscape",
+      "published": "2026-09-03T14:21:26+00:00",
+      "summary": "STAREE Strengthens Case for OTC Statins&nbsp;&nbsp;MedscapeAtorvastatin reduces major cardiovascular events but misses disability-free survival goal&nbsp;&nbsp;News-MedicalThis Popular Cholesterol Pill Lowers Heart Attack Risk By 30%, Here's How&nbsp;&nbsp;NDTVSTAREE: Statins Cut MACE Risk by 30% in Older Adults With No CVD History&nbsp;&nbsp;TCTMD.comStatins deliver for the over-70s&nbsp;&nbsp;medicalrepublic.com.au",
       "sources": [
         {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVTl4bVlfTko3NU1sX3BJX3dmMnpLX1ZTWWlMa1gxdm5wbkV1RDdNQUc4anQ5c2ZCWGtYNTljRXRMTzY5d1NZU2owNFExT2xNdElqbThyelJPMVFJS0lweWJnN2VISmg1NkdlZGdiSzdocjBTaWRpdkhoVGFhYkw0UWJfV0ZJVXhlRGFtZUZDb0ZBbHFlSldjMzlFTmQ2VzM4OHRxYW01U2ZwN0ppbWp5em9EeFZ6MzVXYmJpbExURWpqQXd1VS16S29oSXZFcXR0cmhORVZPZmpzNmVYMEVsNXJYdk9VOXZyWUxVbmVTdkVxaExncS1vUTd2NlRMUlRMZmc?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWndraVhfS0pQZUhKX09vajk2TTdzMUczZ1lyV2c4dGRuaUNmUDZwWWdlVDd2V2l0YlJVd2FvbzVfUGxZNkVsdWJUdFdwaU91V0tIamQtVlZuMzNsRlprbmtOSjBSTW1aUENOUUhob0FyQnlvLTBCSmNYckp3aEZFZVZaUVE1V2RzSy15ak1reEVlQk9oUDdEcjNR?oc=5"
         }
       ]
     },
     {
-      "id": "03482c242f9c",
-      "title": "Is Magnesium Better for Sleep Than Melatonin? - The New York Times",
-      "published": "2026-09-03T13:19:34+00:00",
-      "summary": "Is Magnesium Better for Sleep Than Melatonin?&nbsp;&nbsp;The New York TimesFeeling tired or getting frequent muscle cramps? Here’s what low magnesium levels may signal&nbsp;&nbsp;The Times of IndiaHow Taking Magnesium Regularly Transformed My Sleep&nbsp;&nbsp;Good HousekeepingThe Best Magnesium Supplements and What to Look For, According to an Expert&nbsp;&nbsp;Rolling StoneASK THE DOCTORS: Magnesium Is Crucial to Good Health | Bonus | mdjonline.com&nbsp;&nbsp;Marietta Daily Journal",
+      "id": "a7e0f62d987f",
+      "title": "Feeling tired or getting frequent muscle cramps? Here’s what low magnesium levels may signal - The Times of India",
+      "published": "2026-09-03T13:30:00+00:00",
+      "summary": "Feeling tired or getting frequent muscle cramps? Here’s what low magnesium levels may signal&nbsp;&nbsp;The Times of IndiaIs Magnesium Better for Sleep Than Melatonin?&nbsp;&nbsp;The New York TimesHow Taking Magnesium Regularly Transformed My Sleep&nbsp;&nbsp;Good HousekeepingThe Best Magnesium Supplements and What to Look For, According to an Expert&nbsp;&nbsp;Rolling StoneASK THE DOCTORS: Magnesium Is Crucial to Good Health | Bonus | mdjonline.com&nbsp;&nbsp;Marietta Daily Journal",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOak1ZUkhPS2NOOHJROS03NFM4Und0U094MTFlX3BrS0JoNXRlb2Q4QjNNMXdZTy1teEllNnBPTENfeEpSYkl0YTBTOXdmRE83cS01UV9RenQ4OHFnLTlGeDFGeUgzaW4tWk0xOV82NEp1R25CTXdBYm5ORjFYMkF3dXl2cDEzakVa?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeldKUTVIRzQ4SHBkSnhJeThTUUNVTnE5Z3RKc1lfOWExV2ZVUGZCT19uMXBCU1NmUVBBc2RFNmtPOVdrbmJxelBTVDVUTTR2eWpQams3TDlCS0QxWkZwRktHUVJ4Z1NCbFBXNVk4LWlqelpaYmY2NUJ5MlM3cUVzQ21CY1VwRG9LQ054VmJEbG5RanhsXzJvVkFUcjNQM2k2LXVITDZWVlRYdGFLZUtCdC05QVZKSl9aZU0wV3Jvak1ObGpnbVZDUXFvTHc5R1FoUnozZTRZTER0ZkhrcWlIVXhRMGV1RlZIUk9EYUwyNNIB9wFBVV95cUxOc2ZCVUJIRnN5VjB1U1NSVi03dVB6TUpXYTNKQlo3WUJZaFBiNWFJQzg0ckpxWDhxcG1rNG9hLU5tcS1mNm1GRXVyTGFzdDRzcl9Od1NyQVB1VDluRmt4NW9IeVBDWDFoMUM5Vkh6aHcyLUJxWTIyM2k4VzU3NjlKVTVvck9GTVA1VVlBZEtYRnlVakdNQTJZWjNsNTVfeldCSUEwTE9ydlZ4bWlCVUtlbFZvakhzbTVnQ2FMNXlaMG5Rc1JMM0llYWVyRkx3TjRiN00wTG9pSGtnREdIWFJsRTQtd01VVlQxU2YxNHRQUG9xcThEWXVr?oc=5"
         }
       ]
     },
@@ -177,7 +261,7 @@
       "id": "c9ecae7e6a35",
       "title": "From Analysing Biology to Designing It: The Emerging AI-Bio Pipeline - orfonline.org",
       "published": "2026-09-03T12:27:06+00:00",
-      "summary": "From Analysing Biology to Designing It: The Emerging AI-Bio Pipeline&nbsp;&nbsp;orfonline.orgShoma Chaudhury on Tech’s New Inflection Point: SYNAPSE, AI IPOs and the First AI-Made Viruses&nbsp;&nbsp;LivemintScientists Are Using AI And Viruses To Help Defeat Superbugs&nbsp;&nbsp;ForbesHitting bacteria hard and early with diverse phage cocktails may curb resistance&nbsp;&nbsp;Phys.orgScientists use AI to invent viruses never seen in nature, fueling hope for medical breakthrough&nbsp;&nbsp;The Cool",
+      "summary": "From Analysing Biology to Designing It: The Emerging AI-Bio Pipeline&nbsp;&nbsp;orfonline.orgShoma Chaudhury on Tech’s New Inflection Point: SYNAPSE, AI IPOs and the First AI-Made Viruses&nbsp;&nbsp;LivemintScientists Are Using AI And Viruses To Help Defeat Superbugs&nbsp;&nbsp;ForbesScientists use AI to invent viruses never seen in nature, fueling hope for medical breakthrough&nbsp;&nbsp;The Cool DownLANL: Bacteriophage Therapy Modeling Offers Hope For Drug-Resistant Bacterial Infections&nbsp;&",
       "sources": [
         {
           "name": "orfonline.org",
@@ -186,14 +270,14 @@
       ]
     },
     {
-      "id": "717984cf3fd3",
-      "title": "Q&A: With peptide supplements, marketing outpaces the medicine - Medical Xpress",
-      "published": "2026-09-03T12:20:06+00:00",
-      "summary": "Q&amp;A: With peptide supplements, marketing outpaces the medicine&nbsp;&nbsp;Medical XpressOpinion | Peptides are having a moment. Here’s what the ads don’t tell you.&nbsp;&nbsp;startribune.comCarrie Carda, MD, on peptide therapy for PMOS, endometriosis, and fertility&nbsp;&nbsp;Contemporary OB/GYNUnderstanding peptides: the science of cellular communication in modern health&nbsp;&nbsp;Las Cruces BulletinPeptide Therapy: What Doctors Want You to Know&nbsp;&nbsp;Hartford HealthCare",
+      "id": "f1aba1554083",
+      "title": "Bats carry dangerous viruses without getting sick. This may be why - Science Daily",
+      "published": "2026-09-03T12:19:13+00:00",
+      "summary": "Bats carry dangerous viruses without getting sick. This may be why&nbsp;&nbsp;Science DailyBats' longevity genes could hold clues for human health, study&nbsp;&nbsp;Euronews.comBats don’t get cancer like humans do. Vermont scientists helped uncover one possible explanation&nbsp;&nbsp;Vermont PublicStudy sheds light on bat immunity mystery&nbsp;&nbsp;FuturityBrown bats' cell-killing defense may hold clues for human cancer | Tap to know more | Inshorts&nbsp;&nbsp;Inshorts",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUjg3THNrOXZ5YWJ2anVvYzl5czE1SGZzaVNBbWU3TFB2RDFleFZEcDZjWERwcGRHZVVwRXdpazRLa1NaZTVra0x2SzZLYVBudkY1bzZLUUhBaG9vQnRuamYyVndodWRNZlRJdklLMmYyTHEyYmxmNkxySmJVRHVGaVVzX3YzaFNCbFZ3dw?oc=5"
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IUVl4TjNsM2RSV2FDT0VlNXl4a01haUhzWE5jLVhkb2xENTE0VXZudVZSUy1wUXV1LU5vQk5KVkxqeFY2cFBkU09XNmlqcWFxNVFDb2phdktueXZaeEhHWFc0cjV1a2lTenh2Q04waw?oc=5"
         }
       ]
     },
@@ -201,11 +285,23 @@
       "id": "4efaca5e176a",
       "title": "Oxford BioDynamics study links five fatigue conditions By Investing.com - Investing.com India",
       "published": "2026-09-03T12:17:12+00:00",
-      "summary": "Oxford BioDynamics study links five fatigue conditions By Investing.com&nbsp;&nbsp;Investing.com IndiaWhy Are You Always Exhausted? Study Finds Common Link In 5 Conditions&nbsp;&nbsp;NDTVScientists uncover shared biology behind profound fatigue in five major illnesses&nbsp;&nbsp;Medical XpressOxford BioDynamics' EpiSwitch® Orion Platform Identifies Common 3D Regulatory Networks Across Five Major Fatigue-Related Diseases in Peer-Reviewed Research&nbsp;&nbsp;Kalkine Media",
+      "summary": "Oxford BioDynamics study links five fatigue conditions By Investing.com&nbsp;&nbsp;Investing.com IndiaStudy links shared process to chronic exhaustion in 5 separate illnesses&nbsp;&nbsp;ET HealthWorldScientists uncover shared biology behind profound fatigue in five major illnesses&nbsp;&nbsp;Medical XpressOxford BioDynamics' EpiSwitch® Orion Platform Identifies Common 3D Regulatory Networks Across Five Major Fatigue-Related Diseases in Peer-Reviewed Research&nbsp;&nbsp;Kalkine Media",
       "sources": [
         {
           "name": "Investing.com India",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDE3WUZsNWFrQVJZclJHOEw4RVdsY3E2M0YweG8wQ2dfb29JMTZXRGNVT0w2SHA2VjB6OExRSnFGVG1yZmhySFB3d3B2WlpSWWhUaGVTNkd2TTFqM25XTzQxQl9Xb2R0UmVjY2M4RElITVRmRmRNT01XczhmX2RUWU1icEdCbnNXODlkZWRRUFAzR0ZsWERkMXJodGpIZXBVVDJJY0JBTnZwRGVuVVNpT1pQUkRTZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "974698787ceb",
+      "title": "Specialist Referral Improves Cardiovascular Risk in Prostate Cancer - EMJ",
+      "published": "2026-09-03T12:05:40+00:00",
+      "summary": "Specialist Referral Improves Cardiovascular Risk in Prostate Cancer&nbsp;&nbsp;EMJRoutine referral of prostate cancer patients to a cardiovascular specialist fails to cut cardiac events&nbsp;&nbsp;News-MedicalAvirup Guha: Strongest Randomized Evidence Yet for Organizing Cardio Oncology Around Prostate Cancer&nbsp;&nbsp;OncodailyAvirup Guha: How Should Cardio-Oncology Be Organized Around Prostate Cancer&nbsp;&nbsp;Oncodaily",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdERFMEZweUdseVdZN1lGZmZqbUhtZzBaTG9FQUxsSVZldXZmei0xMEQ1MmFwbmV2a25hSzJwaDhzejhQRWZDLXpzX3ZLUFJiQ1NOdnNhVmkySG9Xd3Yza2hOMHc0aGUzRThoYVkxYkJBMUFyWnVUNW9HcVo0WEh4SEV1bmE5T2NCbVJSbFNqZ3lHb1hMVVUwWVlWbWJjTEszelpod3JtX3YzN2F2?oc=5"
         }
       ]
     },
@@ -222,22 +318,10 @@
       ]
     },
     {
-      "id": "974698787ceb",
-      "title": "Specialist Referral Improves Cardiovascular Risk in Prostate Cancer - EMJ",
-      "published": "2026-09-03T12:05:40+00:00",
-      "summary": "Specialist Referral Improves Cardiovascular Risk in Prostate Cancer&nbsp;&nbsp;EMJAvirup Guha: How Should Cardio-Oncology Be Organized Around Prostate Cancer&nbsp;&nbsp;OncodailyCardiologist Referrals Boost Prostate Cancer Cholesterol&nbsp;&nbsp;Mirage NewsAvirup Guha: Strongest Randomized Evidence Yet for Organizing Cardio Oncology Around Prostate Cancer&nbsp;&nbsp;Oncodaily",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdERFMEZweUdseVdZN1lGZmZqbUhtZzBaTG9FQUxsSVZldXZmei0xMEQ1MmFwbmV2a25hSzJwaDhzejhQRWZDLXpzX3ZLUFJiQ1NOdnNhVmkySG9Xd3Yza2hOMHc0aGUzRThoYVkxYkJBMUFyWnVUNW9HcVo0WEh4SEV1bmE5T2NCbVJSbFNqZ3lHb1hMVVUwWVlWbWJjTEszelpod3JtX3YzN2F2?oc=5"
-        }
-      ]
-    },
-    {
       "id": "25f69327894e",
       "title": "High Progesterone During Periods May Affect Emotion Control In Brain: Study - NDTV",
       "published": "2026-09-03T11:58:59+00:00",
-      "summary": "High Progesterone During Periods May Affect Emotion Control In Brain: Study&nbsp;&nbsp;NDTV",
+      "summary": "High Progesterone During Periods May Affect Emotion Control In Brain: Study&nbsp;&nbsp;NDTVIn a Bad Mood the Week Before Your Period Starts? This Hormonal Shift Could Be a Contributing Factor&nbsp;&nbsp;Everyday HealthBrain scans reveal new link between progesterone and women's mood&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "NDTV",
@@ -249,23 +333,11 @@
       "id": "8ce187b79f50",
       "title": "AI-generated video falsely shown as SpaceX rocket's Moon impact - Fact Check AFP",
       "published": "2026-09-03T11:49:16+00:00",
-      "summary": "AI-generated video falsely shown as SpaceX rocket's Moon impact&nbsp;&nbsp;Fact Check AFPTasmanian Researchers Help Track 13-Metre Rocket to Moon&nbsp;&nbsp;Mirage NewsUnplanned impact: NASA says SpaceX rocket debris may hit Moon&nbsp;&nbsp;au.news.yahoo.comSpaceX rocket crashes into Moon and leaves a giant 60-foot crater&nbsp;&nbsp;Moneycontrol.com",
+      "summary": "AI-generated video falsely shown as SpaceX rocket's Moon impact&nbsp;&nbsp;Fact Check AFPTasmanian Researchers Help Track 13-Metre Rocket to Moon&nbsp;&nbsp;Mirage NewsUnplanned impact: NASA says SpaceX rocket debris may hit Moon&nbsp;&nbsp;Yahoo News AustraliaSpaceX rocket crashes into Moon and leaves a giant 60-foot crater&nbsp;&nbsp;Moneycontrol.com",
       "sources": [
         {
           "name": "Fact Check AFP",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fQ3JCNm5yd0lCcHhhZ0N3Ml9rMW5yTU1saUZQMkVfZTJGUTExaVhOZjJ0RzR6YVhVYkxsSmRvak1IZzBSMU9uMjZ4amNsbEVQMlVBNnlES1I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dde2cec91082",
-      "title": "4 symptoms of ovarian cancer a GP says you should never ignore - Women's Health",
-      "published": "2026-09-03T11:15:42+00:00",
-      "summary": "4 symptoms of ovarian cancer a GP says you should never ignore&nbsp;&nbsp;Women's HealthSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOalh1UVVabGhqeVlhMWhXQllMOFZJTFd6b1RWSWxwMWFmZDJPN2tKNlltRFlqSWplUDhOWXU5ZkdtUmFkb2NyQnFRbWNLSUstcG1GVmlPVTRqdXBoc3B3ZjVtVHFmQlN2ZVBQdXBOV1B5UWszNHBaSGRXbmNTUDU2dmZ0RjN1WXRtZmt0QkFjTk8?oc=5"
         }
       ]
     },
@@ -294,13 +366,13 @@
       ]
     },
     {
-      "id": "f2ff4612f81f",
-      "title": "Earth-Theia collision created the moon in just 5 hours, study shows - WION",
+      "id": "383e7e6723b2",
+      "title": "Earth-Theia collision created the moon in just 5 hours, study shows - wionews.com",
       "published": "2026-09-03T10:23:38+00:00",
-      "summary": "Earth-Theia collision created the moon in just 5 hours, study shows&nbsp;&nbsp;WIONScientists find new details on how exactly the Moon was formed&nbsp;&nbsp;The IndependentGiant impact could have formed an intact moon within five hours, simulations suggest&nbsp;&nbsp;Phys.orgSimulations provide new clues about how the Moon formed&nbsp;&nbsp;Notebookcheck",
+      "summary": "Earth-Theia collision created the moon in just 5 hours, study shows&nbsp;&nbsp;wionews.comScientists find new details on how exactly the Moon was formed&nbsp;&nbsp;independent.co.ukScientists could soon settle question of Moon’s origins&nbsp;&nbsp;The TelegraphSimulations provide new clues about how the Moon formed&nbsp;&nbsp;NotebookcheckGiant impact could have formed an intact moon within five hours, simulations suggest&nbsp;&nbsp;Phys.org",
       "sources": [
         {
-          "name": "WION",
+          "name": "wionews.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlVsRXczc3VGTGFzajYwS2FDd01JdEdxNW5WVFowckFNd0gtb3Vpc1JOOHgzWXZsUm9ZbWdJRllXbUxsTWxlM29NZEEyTkpRLUNnV2w1dUd4R1Vsdkgtc3V2WGZreFBMSlByYnZjZEdsQzhYX0ZSN1RNdkI4bF9GUEtkMlozQmNINVM4RHhlX19XMTdzR3pFTGVaY0huTU91WWtFVVFxZlF6eUdGemxSdkZPWdIBuAFBVV95cUxNc05lMFQ5SEIwNDQ4OW9wSmtIbHh2THZlbTRCLTgwRU1LYmpmcTNWZkNyREdSQVZETEN2UkQ5Yl9PVTV1bWc3c1AzSG9NVVJ2a19jYkJINTFVSkNkdVNOdk5mM3ZhSXJXbnItVGpKT3d2b1gxN1ljSGFkU3B0Yk9KcGxCTGhsZDZSV2t6STB0X0tUcktqbl9IVkdfN2lwbWplZmMxVXJxU1ZoMzUtenNpMWZFS2ZZX09w?oc=5"
         }
       ]
@@ -318,6 +390,30 @@
       ]
     },
     {
+      "id": "a80e406c67ae",
+      "title": "Human brain organoids mature for more than five years in laboratory culture - Labmate Online",
+      "published": "2026-09-03T10:00:00+00:00",
+      "summary": "Human brain organoids mature for more than five years in laboratory culture&nbsp;&nbsp;Labmate OnlineHarvard neuroscientists kept peppercorn-sized clumps of human brain cells alive in a dish for more than five years, tripling the previous 694-day record set in 2021 and long enough that the organoids began mimicking developmental stages seen in living peo&nbsp;&nbsp;Space DailyTiny brain organoids survive and develop for years outside the body&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "Labmate Online",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcnJtVXJkTWdyUG44bnN5eVNjeU1TMmRPd2hHTllPUDg2Tl9wYV9vMko4ZEszUTlKLWU0T3hBdElUb2NsQXNtMXBYTWM0ZXRJejB1ekRtZndIeXZnYjM0WWlmczRLWHJrY0FpZ0laeDNGWlpQTHRqZXdKSUlDQngwdXJKQV95MnNLNWs1ZGJiOTJiZUlYQTBMMzFLWkd5WHBSQV9rWjFEbnc5ZGkyd0xMZXlhRWFTU3o4eGw1Z2Y4WGstS0s1dXBRcThZdGQ4QzZIM2JHTTNWUWcybVVDcWJEaVQ4TTdWeEU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "53b2b7dbd51d",
+      "title": "Reduced exposure to nature is linked to immune system diseases [Commentary] - Mongabay India",
+      "published": "2026-09-03T09:49:22+00:00",
+      "summary": "Reduced exposure to nature is linked to immune system diseases [Commentary]&nbsp;&nbsp;Mongabay India",
+      "sources": [
+        {
+          "name": "Mongabay India",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzFnVWxuYW9pQ2xKNXNWY0N6azhhWUVLQ0VlVmlHdFgwbnpGTjFhdTlWR3VhTE1KQ3pHOUc1X3VSWFJvSFBVU2RncWNXRWg3cXU0cjEzQ2l6dXdrV1pQaDcyeWhGNmt6SG5SN0NtQUEyV05OMk5nT1h6QktvdnZOWlZIN1lJaUJtT0dhZVlBcjJmeDBsOHBIU0FISXE1Qm5SUDVxa25yR2hrUFNwanc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a31943e5db69",
       "title": "Engineering Spleen-Targeting Bacterial Nanoplatform to Reprogram Immune Cells and Prevent Cancer Recurrence - Asia Research News |",
       "published": "2026-09-03T09:34:35+00:00",
@@ -330,14 +426,14 @@
       ]
     },
     {
-      "id": "4b54a3ae0152",
-      "title": "New research shows a neutrino laser is impossible - Nanowerk",
-      "published": "2026-09-03T09:32:18+00:00",
-      "summary": "New research shows a neutrino laser is impossible&nbsp;&nbsp;NanowerkGroundbreaking laser of ghostly particles may be impossible to build&nbsp;&nbsp;New ScientistMIT Physics Finds No Quantum Neutrino Laser Possible&nbsp;&nbsp;quantumzeitgeist.comNeutrino Laser is Physically and Fundamentally Impossible, Physicists Say&nbsp;&nbsp;Sci.News",
+      "id": "7280b37ea301",
+      "title": "Heavy water helps weather forecasts - Asia Research News |",
+      "published": "2026-09-03T09:34:35+00:00",
+      "summary": "Heavy water helps weather forecasts&nbsp;&nbsp;Asia Research News |Scientists use water’s ‘fingerprints’ to improve weather forecasts&nbsp;&nbsp;Tech ExploristHeavy water's atmospheric fingerprints boost weather forecasts for up to five days&nbsp;&nbsp;Phys.org",
       "sources": [
         {
-          "name": "Nanowerk",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82c2JwRTdDRjdCMWVUR01VN0tsM1lRTlVPQV9aNDlqLVJPVTM5OEtnQ2YzRURKMzZweXdrNUFVTkd6bUJDM1cxQ1BZVU43ZWYtbWF4X05BSnlLS2FaVDNYRi1fTlJVX0luQkpRQmI4Zw?oc=5"
+          "name": "Asia Research News |",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHlienE0OFhyTHh4RVhtU1d4YUUwSnlPN2h3RzNIUmZtNmJNMnhsU3h1S1lFbEZFcFFBMEFvX0FsYXU1SjQ5NlBTOGdETW43aGg4VUFNUFNybmxucmtQMUUzV3FYQ1BvR2FhMWEtWHBPbzVXQ203N3loTkNOdDVGaEdB?oc=5"
         }
       ]
     },
@@ -345,7 +441,7 @@
       "id": "33c946eb83d2",
       "title": "Aditya-L1 catches Sun’s early warning signs before solar flares - Manorama Yearbook",
       "published": "2026-09-03T09:28:25+00:00",
-      "summary": "Aditya-L1 catches Sun’s early warning signs before solar flares&nbsp;&nbsp;Manorama YearbookSolar flares explained: What these giant explosions on the Sun mean for us&nbsp;&nbsp;starlust.orgSun gives early clues before powerful solar flares, study finds | Tap to know more | Inshorts&nbsp;&nbsp;InshortsManipal and ISRO researchers find solar preflare bursts hours ahead&nbsp;&nbsp;NewsBytes",
+      "summary": "Aditya-L1 catches Sun’s early warning signs before solar flares&nbsp;&nbsp;Manorama YearbookAI Model Detects Solar Storm Warning Signs Hours in Advance&nbsp;&nbsp;ColombiaOne.comSun gives early clues before powerful solar flares, study finds | Tap to know more | Inshorts&nbsp;&nbsp;InshortsManipal and ISRO researchers find solar preflare bursts hours ahead&nbsp;&nbsp;NewsBytes",
       "sources": [
         {
           "name": "Manorama Yearbook",
@@ -354,10 +450,22 @@
       ]
     },
     {
+      "id": "797c48a8f652",
+      "title": "Researchers turn climate pollution into usable material - openaccessgovernment.org",
+      "published": "2026-09-03T08:56:45+00:00",
+      "summary": "Researchers turn climate pollution into usable material&nbsp;&nbsp;openaccessgovernment.orgFive-metal 2D catalysts could convert CO₂ to CO without needing an extra electrical boost&nbsp;&nbsp;Phys.orgScientists Convert Climate Pollution to Usable Material&nbsp;&nbsp;Mirage News",
+      "sources": [
+        {
+          "name": "openaccessgovernment.org",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQay1WRmtLdC10a0NZQVl5RWJreVpkQ3V5Q1I4Y1VmbkNNdHlKM3dBak1feTRCaHQ1M0lLUm9XazZRaTdKazhGMmh1MkEwdkRtYjdrakpiS0lYUFRQVFlkenluN3R2T1VvSlA4S0FNMEZCTXNBV2NnS3p1UmNGWlV3d2JNbkZOcUliSnJVTVBjWkFaTENIRHlaQ0FvbFBaZmFJc2c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "daf4feac3050",
       "title": "Postpartum depression: Doctors explain why a mother can look fine and still be struggling - Firstpost",
       "published": "2026-09-03T07:44:43+00:00",
-      "summary": "Postpartum depression: Doctors explain why a mother can look fine and still be struggling&nbsp;&nbsp;FirstpostShe has a healthy baby but doesn’t feel happy: 23.5% of Indian mothers may face postpartum depression, here’s what families should know&nbsp;&nbsp;The Times of IndiaThere’s A PPD Screening Problem In America, And Moms Know It&nbsp;&nbsp;Scary Mommy7 Phrases You Should Never Say To A Postpartum Parent — And What To Say Instead&nbsp;&nbsp;HuffPost‘I’m not ok:’ Mothers come together to disc",
+      "summary": "Postpartum depression: Doctors explain why a mother can look fine and still be struggling&nbsp;&nbsp;FirstpostShe has a healthy baby but doesn’t feel happy: 23.5% of Indian mothers may face postpartum depression, here’s what families&nbsp;&nbsp;The Times of IndiaPostpartum Depression: What Mothers Face After Giving Birth&nbsp;&nbsp;The DecaturianAmerica's postpartum crisis&nbsp;&nbsp;Central Oregon Daily7 Phrases You Should Never Say To A Postpartum Parent — And What To Say Instead&nbsp;&nbsp;hu",
       "sources": [
         {
           "name": "Firstpost",
@@ -366,26 +474,26 @@
       ]
     },
     {
-      "id": "752f2479c945",
-      "title": "Africa gets new mpox vaccine lifeline as global stockpile launches - zawya.com",
-      "published": "2026-09-03T07:06:00+00:00",
-      "summary": "Africa gets new mpox vaccine lifeline as global stockpile launches&nbsp;&nbsp;zawya.comMpox Vaccine Stockpile Creates a Permanent Emergency Buffer for Future Outbreaks&nbsp;&nbsp;DevdiscourseHow a new global mpox vaccine stockpile could help the world respond faster to outbreaks&nbsp;&nbsp;Gavi, the Vaccine AllianceGlobal mpox vaccine stockpile begins operations in September&nbsp;&nbsp;Peoples Gazette Nigeria",
+      "id": "8f505a3890f2",
+      "title": "Advanced Therapies Bring New Hope to Blood Cancer Patients in India - ED Times",
+      "published": "2026-09-03T07:32:58+00:00",
+      "summary": "Advanced Therapies Bring New Hope to Blood Cancer Patients in India&nbsp;&nbsp;ED Times",
       "sources": [
         {
-          "name": "zawya.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMW11UXlnZTR3VmtvTGlyVDloWXhoTGxlUmRkYkFmTXFxQTVCbE1BeW45MEltd3FwNUgyUmVSb0Y5TElTUnF0aGhzVWM1RXBEUlpPbVNWWXJrZ3ZvMFNldFFUNXFxbk91X3h3dHN2QlRUODVGVElCV0poU3ZfUG16QkdkOFZPa3BhMWpTNUJrMkZyM1BGZ0VyNUFEdUZ2QWpiVms4TW8wM3hycURXUUJsMDloVQ?oc=5"
+          "name": "ED Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSUxCYkd0bGlTY3JfQjlsMW5FaTlyWnBBbUtoUDcydkpVNV9MRzN6LWdwbmVpbWdEaUh0SHVxMU5JLXh5S0dWdTlEclNxdHFHQ0loM2QtX19ZdnFSdGJ0X3U1Z0x3YXlBaUlpT2V1bnhVaW9uSnl5NHJYeWVRSlJaX05kMjBEY0xuWmUydzRsenQ?oc=5"
         }
       ]
     },
     {
-      "id": "22a866b2d9c7",
-      "title": "Cold Allodynia, Causes, Symptoms, Latest News - Vajiram & Ravi",
-      "published": "2026-09-03T07:00:17+00:00",
-      "summary": "Cold Allodynia, Causes, Symptoms, Latest News&nbsp;&nbsp;Vajiram & Ravi",
+      "id": "e316beda0165",
+      "title": "From Insulin Resistance to Fertility: Understanding the Metabolic Side of PCOS - Health and Me",
+      "published": "2026-09-03T07:30:00+00:00",
+      "summary": "From Insulin Resistance to Fertility: Understanding the Metabolic Side of PCOS&nbsp;&nbsp;Health and MeCan You Have PCOS Without Being Overweight? The 'Lean PCOS' Explained&nbsp;&nbsp;NDTVPCOS is now PMOS: Why 70% of women don’t know they have it&nbsp;&nbsp;News Channel 3-12Illuminating commentary on Waterford Council PCOS awareness initiative&nbsp;&nbsp;waterford-news.ieWord of the Day for September 2, 2026: PMOS&nbsp;&nbsp;ABS-CBN",
       "sources": [
         {
-          "name": "Vajiram & Ravi",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14NE9kMnNkZ1hVZkxGY2EzS1B2ajVZRU9QR3d2M0IxRWpyMmJBaVNkNDlrUUZ6YXljcEFlSXJ5MHhRV29TUnFtNWV6QzF6NU9US1plZ293dXBjc28xWEhaWE1hOE9fQzJ0UFE?oc=5"
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdndWcElST3duY09MV3ZJYjVsZ1pwMmduSFNiMlBzdmp3NldULWk0MWhYMVczWUNjbWl3THZ1QU1uVTQ3dkIxZndTMHpYUzZaU1BWWnQtQXNyWi03eHBReUF2U01JeGd3bjNvSTlqSTZ0Sm5KMUo0bjlFemh4d2xIRTAwdTN6R254SUN1MGxCVWtWYlFQTHhMZVBUdF8tWWlRUnA4MWtDTS0xVFZKU0ZQeTVPcU1QVFBvQTlyTlg4a2hkYWFteGE5SFBQblBqM1lJbjJnMm5n?oc=5"
         }
       ]
     },
@@ -393,7 +501,7 @@
       "id": "be42335e4298",
       "title": "Why are more young adults experiencing heart palpitations? Cardiologist explains when it may need attention | Health - Hindustan Times",
       "published": "2026-09-03T06:51:57+00:00",
-      "summary": "Why are more young adults experiencing heart palpitations? Cardiologist explains when it may need attention | Health&nbsp;&nbsp;Hindustan Times",
+      "summary": "Why are more young adults experiencing heart palpitations? Cardiologist explains when it may need attention | Health&nbsp;&nbsp;Hindustan TimesWhy Do Indians Need To Think About Heart Health Differently?&nbsp;&nbsp;Republic World",
       "sources": [
         {
           "name": "Hindustan Times",
@@ -402,14 +510,14 @@
       ]
     },
     {
-      "id": "99fdd474ebab",
-      "title": "Lancet Study Highlights Deadly Impact Of Antibiotic Resistant Infections - NDTV",
-      "published": "2026-09-03T04:50:22+00:00",
-      "summary": "Lancet Study Highlights Deadly Impact Of Antibiotic Resistant Infections&nbsp;&nbsp;NDTVWhen The Last-Resort Antibiotic Fails – OpEd&nbsp;&nbsp;Eurasia ReviewAntibiotic-resistant infections kill more patients and cost more, finds major India study&nbsp;&nbsp;The Indian ExpressICMR Study Highlights Rising Challenge of Drug-Resistant Infections in India&nbsp;&nbsp;The Indian PractitionerICMR study warns drug-resistant infections are deadlier in India | Tap to know more | Inshorts&nbsp;&nbsp;Inshor",
+      "id": "31a4456e7d29",
+      "title": "Understanding lung cancer subtypes: How precision medicine has changed treatment - expresshealthcare.in",
+      "published": "2026-09-03T05:25:40+00:00",
+      "summary": "Understanding lung cancer subtypes: How precision medicine has changed treatment&nbsp;&nbsp;expresshealthcare.inNew developments shed hope on patients living with Small Cell Lung Cancer&nbsp;&nbsp;KOIN.comBest of BayCare | New advances in lung cancer care&nbsp;&nbsp;Tampa Bay 28New Therapies Bring ‘Wins’ to Small Cell Lung Cancer Treatment&nbsp;&nbsp;Cure Today",
       "sources": [
         {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWFXWGNkUHdHRjZGTzBEaXJXSmRzQmdRNGJOQk4tUE51VGdpYXl4d3dEOXV1WTNhcXpEVm9hMTlBU2Vrblh2dzhES1FJYnFFUHBHYzU0OVMzVG56SVVITVFaZzBhZ3U3c3RGb09xdkYybWxSUUJsYXJULWxxMXJSRUx3SkFzb0hOZlhudUZ0S0lLMV93dTQ5a1pWVVpqQVlJaGluTE5lSWZjeTVsY2c?oc=5"
+          "name": "expresshealthcare.in",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZzh6SXByakhxcUVOWExyS3N5OTc3OERzNzFXRjQ3cWxDVldSVFZiaXotWU5DV3drNmlDS21ZN3pwM1dTTDNWQTJZRnhfSmFSdkJfQlhqRmxiN2YzX3pGQ2swb1I5ZzJpWnVfeFRxVmhEZDFMb1RDN0F1UFVhWGRLWWhDQVk0dXBNQ2RDakNLWG4weVhSNWVXbE9ZUkNCY1F3cVd4U25RejR5MDJTYzdZRnFjUmdHWkJVdXJtS3E5cXRlNm8?oc=5"
         }
       ]
     },
@@ -441,7 +549,7 @@
       "id": "07eef0346d56",
       "title": "Higher Parental Vitamin B12 Tied to Lower Prevalence of Birth Defects - Ophthalmology Advisor",
       "published": "2026-09-03T04:00:00+00:00",
-      "summary": "Higher Parental Vitamin B12 Tied to Lower Prevalence of Birth Defects&nbsp;&nbsp;Ophthalmology AdvisorLow B12, Folate in Fathers Linked to Birth Defects&nbsp;&nbsp;MedscapeNutrient Deficiency in Expectant Fathers Affects Child’s Risk of Heart Defects&nbsp;&nbsp;Yahoo Life UKLow Vitamin B12 in Parents Can Increase Birth Defect Risk in Offspring&nbsp;&nbsp;Inside Precision MedicineParents’ Vitamin B12 Levels Linked To Birth Defect Risk In Babies, New Study Reveals | Health and Fitness News&nbsp;&n",
+      "summary": "Higher Parental Vitamin B12 Tied to Lower Prevalence of Birth Defects&nbsp;&nbsp;Ophthalmology AdvisorLow B12, Folate in Fathers Linked to Birth Defects&nbsp;&nbsp;MedscapeNutrient Deficiency in Expectant Fathers Affects Child’s Risk of Heart Defects&nbsp;&nbsp;Yahoo Life UKLow Vitamin B12 in Parents Can Increase Birth Defect Risk in Offspring&nbsp;&nbsp;insideprecisionmedicine.comParents’ Vitamin B12 Levels Linked To Birth Defect Risk In Babies, New Study Reveals | Health and Fitness News&nbsp;",
       "sources": [
         {
           "name": "Ophthalmology Advisor",
@@ -450,14 +558,62 @@
       ]
     },
     {
-      "id": "30af25561279",
-      "title": "Researchers Control Schrödinger Cat State Geometry Via Laser Shaping - quantumzeitgeist.com",
-      "published": "2026-09-02T20:56:18+00:00",
-      "summary": "Researchers Control Schrödinger Cat State Geometry Via Laser Shaping&nbsp;&nbsp;quantumzeitgeist.com",
+      "id": "41cdedad3320",
+      "title": "AI learned from cardiologists’ notes, and needed far less labeled ECG data - News-Medical",
+      "published": "2026-09-03T02:31:00+00:00",
+      "summary": "AI learned from cardiologists’ notes, and needed far less labeled ECG data&nbsp;&nbsp;News-Medical‘Superhuman’ AI tool spots heart disease in less than 2 seconds&nbsp;&nbsp;The GuardianHeart disease spotted in 2 seconds? Here’s how ‘Superhuman’ AI tool may revolutionize diagnosis&nbsp;&nbsp;The Times of IndiaDoctors agree: “AI can detect heart failure or valve disease that would never be picked up by a human doctor”&nbsp;&nbsp;Diario ASAI-assisted approach helps novice users capture heart ultras",
       "sources": [
         {
-          "name": "quantumzeitgeist.com",
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1I3cmJ4NUtIT0NQNWkwS2dhRm5fZ0JkY1JEVXZfMjZTeUNJdDJLdktfV0g4Zm1OdERWMjFUQXNNbUI0dVE0RTN6MEZaR1N0S1lCUHl2RmRFWmdiOFpZcUtLRmVqYjRPdmRaeGVGcVk5VE5hbk1CQ0dNbDVyRnA3ZWlYUGF5T1lGSS0wUkJuSnpDTzFSckx4T20yLXBFZmpEMmhIRlpZcVZrcTdUSVZEemhWYTYxRFhEUFRMSTdKNjlpQ05q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f6d73a3f885",
+      "title": "The Human Body May Age in Two Major Bursts, And a New Study Reveals What Drives Them - ScienceAlert",
+      "published": "2026-09-03T02:07:57+00:00",
+      "summary": "The Human Body May Age in Two Major Bursts, And a New Study Reveals What Drives Them&nbsp;&nbsp;ScienceAlertBody's Organs Age in Distinct, Synchronized Waves&nbsp;&nbsp;LabcompareThe 2 key points ageing speeds up – with detrimental damage starting in your THIRTIES&nbsp;&nbsp;The SunComputer vision 'sees' our organs age at different rates&nbsp;&nbsp;Medical XpressYour Organs Are Aging On Different Timelines, Study Suggests&nbsp;&nbsp;studyfinds.com",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcHNpOTZrVDdLY0hPTVgtN2VPZUk1emRYV0hWcGFoV1Axdm1WaXM5QjZEVkNGSTEzdjNVVkhBZ3RJLWh3cVhCU3U2TmpERXBya2c5UXQyQ2J2Z0dCNGVaYTRxZF9yM29BOU1GZGdrM01COFdQYU9OQjIxZGxXUDdVcDQwc0RZd1NBNWVCZE5ZT1ktWVFoaWdnUEJsUFl6M0RkZXE1MFFQemZkaEZyVHR5cFVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d0fd2fe9787",
+      "title": "Quantum Physics Limits Rule Out 1 MeV Neutrino Laser - Quantum Zeitgeist",
+      "published": "2026-09-02T20:56:18+00:00",
+      "summary": "Quantum Physics Limits Rule Out 1 MeV Neutrino Laser&nbsp;&nbsp;Quantum ZeitgeistGroundbreaking laser of ghostly particles may be impossible to build&nbsp;&nbsp;New ScientistMIT Physics Finds No Quantum Neutrino Laser Possible&nbsp;&nbsp;Quantum ZeitgeistNew research shows a neutrino laser is impossible&nbsp;&nbsp;news.mit.eduMIT Physicists Kill Neutrino Laser Proposal With Two Independent Quantum Proofs&nbsp;&nbsp;Tech Times",
+      "sources": [
+        {
+          "name": "Quantum Zeitgeist",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xVWtoeUNNTU00M0ItQmFteFBTQlBmTUIwRmxwSVV3b2llYk9wVlphMG9XZk5pbm1pRWVCdXNDRGJUVU43M0czWnJOdnpndWJEbF9xWlVzeERzVHRyTU14RUxwbVlqTHhhckxCbQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1cb46f40085a",
+      "title": "Researchers Control Schrödinger Cat State Geometry Via Laser Shaping - Quantum Zeitgeist",
+      "published": "2026-09-02T20:56:18+00:00",
+      "summary": "Researchers Control Schrödinger Cat State Geometry Via Laser Shaping&nbsp;&nbsp;Quantum Zeitgeist",
+      "sources": [
+        {
+          "name": "Quantum Zeitgeist",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaWh6SnhneWFUdXZtT0IxR1ZkXzltSnhXWWMyUUtMNjdub1ZJVnQxS2ZHVkVycWNWcXk5ZWtYR3RVRXlDTDNuMVlFdzJPZ3pkdjZhSTl4UjFma05LR25Lemkwb1FfR2psOGlBY243aE1sRzBSMS0tQVE1MC11RUFZQ0I2Ty1mLVBSLUxqeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c772495360bc",
+      "title": "Global initiative launched to improve access to mpox vaccines - UNICEF",
+      "published": "2026-09-02T20:10:21+00:00",
+      "summary": "Global initiative launched to improve access to mpox vaccines&nbsp;&nbsp;UNICEFSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "UNICEF",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlp6SDZheTZQV3hPWnFKejZRb3lLbHdmLVNTX3hoM09fbmplcm1iaFVuVHpQV2x3QjRaRXpLNVZYX2xhU1JVREZBYWNvbS1TX1VSR1FOVTlzc1FkLXZsVk1nY1IxNjc4ZDdrX0lqbWRlMGFhd1hGQXNIZzRXY1JMaHlZTXBwY2dWYTdiNHRWV1pIdS02TGtGZg?oc=5"
         }
       ]
     },
@@ -465,7 +621,7 @@
       "id": "4fbfada570d4",
       "title": "Antarctica's 'Doomsday Glacier' spawned hundreds of rare ice quakes, study finds - Yahoo",
       "published": "2026-09-02T19:15:00+00:00",
-      "summary": "Antarctica's 'Doomsday Glacier' spawned hundreds of rare ice quakes, study finds&nbsp;&nbsp;YahooInside Antarctica’s Doomsday Glacier&nbsp;&nbsp;Arizona PBSHundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier&nbsp;&nbsp;sciencedaily.com",
+      "summary": "Antarctica's 'Doomsday Glacier' spawned hundreds of rare ice quakes, study finds&nbsp;&nbsp;YahooInside Antarctica’s Doomsday Glacier&nbsp;&nbsp;azpbs.orgHundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier&nbsp;&nbsp;Science Daily",
       "sources": [
         {
           "name": "Yahoo",
@@ -498,38 +654,26 @@
       ]
     },
     {
-      "id": "caa31b9b9b4c",
-      "title": "Giving immunotherapy before surgery boosts brain tumor treatment success - News-Medical",
-      "published": "2026-09-02T17:23:00+00:00",
-      "summary": "Giving immunotherapy before surgery boosts brain tumor treatment success&nbsp;&nbsp;News-MedicalUS FDA Grants Fast Track Designation to T-MAXIMUM’s Allogeneic CAR-T Therapy for Recurrent Glioblastoma&nbsp;&nbsp;BioPharma APAC",
+      "id": "22663b10b98f",
+      "title": "Human Pancreatic Duct Cells Show Diabetes Therapy Potential - Genetic Engineering and Biotechnology News",
+      "published": "2026-09-02T18:00:00+00:00",
+      "summary": "Human Pancreatic Duct Cells Show Diabetes Therapy Potential&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmpDX25OY2NINnRCZ0FzcVJTOTVuSDZhRmFDTEZYOWhZOEVoS2U3NnFNVVpnZ0tJMGtrZWJzNUllZ3lFdGsxYVN1TS14cHVvX05fWVZJVjhrcHRITWVmNmp2c0I0bWJid1RVMnFXaU5nZnpwV210VVM5MVVoenNpbm8tempWUTZEbkxuQ1VRQVk5Z2VRcVIxa1ZodTk0RGJBWHM2azB6V2RjWjhhYWE0WUJWRTB1YlkyNzBBTA?oc=5"
+          "name": "Genetic Engineering and Biotechnology News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOemlCTXJqdFVocERuS2N1akNESk05TG5NVFpsUlJHdEdNNmN1dy1qeDQtb0FNYUw1OUMwbjhZMFcwTDZWQnNrVVBpWG05YndQSllBYnJTeDZDcVFoSV9IV1dLTUgzTGJRZmpzdnlTSXVWZ1ZBdy1HdVdDTll4MnNtUUhwcGtMdmVxYXl4Ylg2Q1RGMU5tSjdfbGltRmtjU0wxbXNkYTgxb3FIVWkzT0pUaWRSd2FsdVlP?oc=5"
         }
       ]
     },
     {
-      "id": "0e4fb0aabf44",
-      "title": "ECG-based AI algorithm could improve detection and prediction of heart diseases - Medical Xpress",
-      "published": "2026-09-02T17:20:06+00:00",
-      "summary": "ECG-based AI algorithm could improve detection and prediction of heart diseases&nbsp;&nbsp;Medical Xpress‘Superhuman’ AI tool spots heart disease in less than 2 seconds&nbsp;&nbsp;The GuardianHeart disease spotted in 2 seconds? Here’s how ‘Superhuman’ AI tool may revolutionize diagnosis&nbsp;&nbsp;The Times of IndiaDoctors agree: “AI can detect heart failure or valve disease that would never be picked up by a human doctor”&nbsp;&nbsp;Diario ASAI learned from cardiologists’ notes, and needed far ",
+      "id": "287e58435d27",
+      "title": "Why some stroke patients fare better than others - Medical Xpress",
+      "published": "2026-09-02T16:00:07+00:00",
+      "summary": "Why some stroke patients fare better than others&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MLXp6NUNIZlpiQkVxd0xsSTB6SmdoYk9qQXowWnZjalNHNzNyUjhYZFBUYTJWSXNWNFR4bmdONjF5U2Nlem1VX1pHMWxNRlBvQktRc1E0Z2VWWko5YWxuYlFRTVpzX0NWaXpZMjg2LWhCdURZZVRKS1c5STM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b53c17495943",
-      "title": "Health secretary asks districts to begin swine flu testing - The Times of India",
-      "published": "2026-09-02T15:30:00+00:00",
-      "summary": "Health secretary asks districts to begin swine flu testing&nbsp;&nbsp;The Times of IndiaJharkhand issues H1N1 alert after eight swine flu cases detected&nbsp;&nbsp;India TodayJharkhand on High Alert Over Swine Flu&nbsp;&nbsp;The Indian PractitionerJkhand health dept sounds alert after 8 people test positive for swine flu&nbsp;&nbsp;The Tribune8 test positive for H1N1 in Jharkhand; health dept sounds alert&nbsp;&nbsp;The Times of India",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNazRKZG5UYnpmYkY2ZVp6aEtpOUxpbWFycG1rSHFLbFpQUS0wMXJzeVU1cWVYZi1lUVBsZHZleGQ3SDBTU3VKT0N1YWw1RGc4UlVNOHlaWXg0b0RDd2pVOUV6OXhkYWlBdjFCOWZ2eUtSSVNJSS0yY0Y5YTBsNnNLNFVfS2tWRkpwaHJHbWpEVVQ4OGlocnBOREZPR2tzLVpIbEJkVG5kSmFmMjNrdlRTNFUwVlVaNXJkTVM1aXR6ZGRKVUgySzVVdTVMYVbSAdIBQVVfeXFMUHo5YjRydWdYN21STmFwTlgzcEtTMmhQR3Fid0gyVWxQb1FtYnVRRUlsR1ZTdFQ0ZllSajN3X2oySEJTeW1pZlY4X2g1OG9VZmhxN2ZuRC05Z051bUVEbUExX0p4cEtpb2tEdlFxeklyRksyRFRZajRDMndPVllSX3VSV2tNTzNId25BSkpFM2VHeHg2bE9udjA1Ni13MUg2Z0taX0dEYkZaZmRmMmRiclNybVc0VzdOa1E4LVFGYmY5WVp3dmNfazdJUnNraWhMb1ZR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoZkJyMUNrazhLc3hPMG1hclA1TVFGbHNLTk9zUnNBY3VFVlFnbC1EbjlVZTdOYzg1cG1JTUF6XzYyWEtiaFFaME5GeFNWbUJDMjFPMlJZamJDOTlRS2FTeGZlQ05udUhN?oc=5"
         }
       ]
     },
@@ -542,18 +686,6 @@
         {
           "name": "The ASCO Post",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOREtlVzVBMWg1djFSeGM0YlBlOC10Q0lhSkdQMThfTUlDd0FuaW5senFkUmw5ZXpCcXRmdGE5cm0yOEtMdmw2SkpWVXQ0eVVFYUxyREhCb091c3NtRWlIUVRDT1lTZHJJV1VTeDdfOFE2MEdPcUNzSVVESDlqWm9CNG92cHRDSlpIdElTcmFWcWRPUko5OWlTMkN2VHo0TXl4d3Y3TVFXbGNKR2s0Vi1vX05HdjJ0dGtBUHMwQWZ3T1g3b0IzRHNvMVVoRnJUNmZiQzRGYVozOE5xdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "76735d185987",
-      "title": "Why heart patients shouldn’t ignore their kidneys: New guidelines recommend 2 simple tests - The Indian Express",
-      "published": "2026-09-02T14:30:24+00:00",
-      "summary": "Why heart patients shouldn’t ignore their kidneys: New guidelines recommend 2 simple tests&nbsp;&nbsp;The Indian ExpressNew European Guidelines Urge a Blood and Urine Test for Kidney Disease in Every Heart Patient&nbsp;&nbsp;Medical DailyRemote exercise-based cardiac rehabilitation—an additional option but not a replacement for center-based rehabilitation&nbsp;&nbsp;Medical XpressNew international guidelines highlight the extensive benefits of cardiac rehabilitation&nbsp;&nbsp;News-MedicalNew ES",
-      "sources": [
-        {
-          "name": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYm9pSE45X1A0UHFBd1BXOERqa1ZCR3ljQjdKcGhWRTJLcTFxemF3dmNGQ3JiRjdIS1YwMGFzbWEwYUNrQzBCUlJRamVQMEU1dzJzVV8yQWEwVUx6VER0Y3gxa2xTM1dQLTh6RGVmUWlmVllVa05IeXNaWjEyNGVCcUtSYTI0THlseDFZZ0NQcV9oWXRqSUZLX0tfVF8tenpJZG4yYXB4djdJd2t5ejVxRXdtSjFEVkxFSmpVSlNDRFh5TXdmcGFGUkd5a1VHcFVzcEhyU0w4cUZNbFBtVlc3RDRPONIB6gFBVV95cUxNV1gzZ2czR1NxcURzdl9oOGQ2eC14cnBnbm9CMTNhOWlBcXNkUkoxUzFjOFV0dThCMHltVUhMRnpnSEY4Z2t5Q2lfam40TTUya2tmMEl4NnpVUE9LQlNoT1FtUVJEWFhYN2pUTkxIVXFzYm5wNmRPemNJVDM2YzJucEJMa2szM3ZXdG9ZaFJiN29HZHZrOU9Sc1E4cVJEQnVpdU1fUkR3LXJjeDFwS3ktc0ZSVG9aUWpWWlhIOTlaWTdDN05EOVFkTGMteE42ZFM1dU4xMFFrdUZwOVA3TUJ5NWljMmoxcUtLRnc?oc=5"
         }
       ]
     },
@@ -582,14 +714,26 @@
       ]
     },
     {
-      "id": "0935ed77dffb",
-      "title": "Alzheimer’s may leave a mark on the brain long before plaques appear - sciencedaily.com",
+      "id": "7fa9f61b7d01",
+      "title": "Alzheimer’s may leave a mark on the brain long before plaques appear - Science Daily",
       "published": "2026-09-02T13:55:25+00:00",
-      "summary": "Alzheimer’s may leave a mark on the brain long before plaques appear&nbsp;&nbsp;sciencedaily.comCortical Thickness Alterations Can Precede Amyloid Positivity&nbsp;&nbsp;Ophthalmology Advisor",
+      "summary": "Alzheimer’s may leave a mark on the brain long before plaques appear&nbsp;&nbsp;Science DailyCortical Thickness Alterations Can Precede Amyloid Positivity&nbsp;&nbsp;Ophthalmology Advisor",
       "sources": [
         {
-          "name": "sciencedaily.com",
+          "name": "Science Daily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRWE1QYi1qUk1TcGhIUk9UQ0Exd1ZjdVMxeGdSclJvUGVLZmJmdDBXQ3hoY3Znem9XZ1YydGZ2NDdsb1o0dUZmb1E2X1dxSFRsUXVta2Z4cmkwdmsxTnVNbzdFMjR1MWVCVjJJNUlfdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "321dab4bcc3a",
+      "title": "This Little Red Dot Might Be Hiding a Black Hole From the Beginning of Time - Yahoo",
+      "published": "2026-09-02T13:30:00+00:00",
+      "summary": "This Little Red Dot Might Be Hiding a Black Hole From the Beginning of Time&nbsp;&nbsp;YahooAstronomers Find Little Red Dots About to Merge&nbsp;&nbsp;Universe TodayJWST Data Hints at Cosmic Hybrid: Could \"Little Red Dots\" Be Black Hole Stars?&nbsp;&nbsp;Futura, le média qui explore le mondeFour 'Little Red Dot' pairs hint at black hole mergers in early universe&nbsp;&nbsp;Phys.orgResearch roundup: 7 cool science stories we almost missed&nbsp;&nbsp;Ars Technica",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWkJuQlcxdHUzRDZMWVB3SzhsbmFnSGZGdm8wRi1WMUpmSDJHZzdtWnVBZWxjbWdBZ1g2OV82MWgwQy16R29ORXI4QWJrblY4ckJCbnVvMEdkcGVZd2NqUDFNZFJMb3RBWlNyMVFrUXk3ZHcxTWEwM0o5Vk0xcC02TlRVY05ieWJENWxSNk03UQ?oc=5"
         }
       ]
     },
@@ -597,7 +741,7 @@
       "id": "8ac1ce0bff83",
       "title": "Does the shingles vaccine prevent dementia? - Your Local Epidemiologist",
       "published": "2026-09-02T13:11:50+00:00",
-      "summary": "Does the shingles vaccine prevent dementia?&nbsp;&nbsp;Your Local EpidemiologistRecombinant shingles vaccine linked to lower cardiovascular disease risk&nbsp;&nbsp;Managed Healthcare ExecutiveVaccine impact on Alzheimer's risk&nbsp;&nbsp;Click2HoustonThe Vaccine That Adults 50+ Shouldn’t Skip&nbsp;&nbsp;WebMDMounjaro, Shingles Vaccine Linked to Heart Health Benefits&nbsp;&nbsp;NBC Palm Springs",
+      "summary": "Does the shingles vaccine prevent dementia?&nbsp;&nbsp;Your Local EpidemiologistMounjaro, Shingles Vaccine Linked to Heart Health Benefits&nbsp;&nbsp;NBC Palm SpringsShingrix Linked to 24% Lower Dementia Risk in Older Adults, Study Finds&nbsp;&nbsp;wowo.comRecombinant shingles vaccine linked to lower cardiovascular disease risk&nbsp;&nbsp;Managed Healthcare ExecutiveOpinion | Yet another reason to get the shingles vaccine&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
           "name": "Your Local Epidemiologist",
@@ -606,10 +750,34 @@
       ]
     },
     {
+      "id": "c41d250550bf",
+      "title": "Drug-resistant Infections Linked to High Mortality, Greater Costs for Patients - TheWire.in",
+      "published": "2026-09-02T12:39:02+00:00",
+      "summary": "Drug-resistant Infections Linked to High Mortality, Greater Costs for Patients&nbsp;&nbsp;TheWire.inLancet Study Highlights Deadly Impact Of Antibiotic Resistant Infections&nbsp;&nbsp;NDTVAntimicrobial Resistance Is Killing Millions. Climate Change Is Making It Worse.&nbsp;&nbsp;eos.orgWhen The Last-Resort Antibiotic Fails – OpEd&nbsp;&nbsp;eurasiareview.comICMR Study Highlights Rising Challenge of Drug-Resistant Infections in India&nbsp;&nbsp;The Indian Practitioner",
+      "sources": [
+        {
+          "name": "TheWire.in",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUxOaTNzSmRLZnVyTndISzdyaFdRM1RxNkZ1T0VFNG5xS1pMQkFNbFllRWhuYzBhRlZwOGFyMEtxQjFBdW85dUFoV0xrRl9TcFo4bnBJNTN6OWRmel9ucEVpblZJUVl1SFBOalNJcE9TTWZUVzJXcUJsU1FzV0VLQTJNcWlkc3lYWTRBTGtpZHlzVGlFY2VxNnFvTFNQakk4Z09BenhZR0zSAbgBQVVfeXFMTnlaMWlBQkp6QzlSeFJWYWJPY2E0X1N1MTd0Z2hDdDloV1l0TkVWRjZBMVFuUGVuNUVXSnBRdkNnaS1NUmU4R1d1ZzQ3b1F2U21rcDBIc0V0aThwUGY5d1p6ZXdoT1prWnFxM05iOHV5NDdyZ183alZ3NDNOcGVta2xkVGVNN0tzUktqTDdBSXNubUdzYVNoYWo1VWtQRXBVQmkzdGRVNHZRU3VuZFQxLVNkdUQ4bzc1NQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5b3a26cfcb7d",
+      "title": "Sharp rise in H1N1 cases in Jharkhand; all major hospitals on high alert - newsonair.gov.in",
+      "published": "2026-09-02T12:09:52+00:00",
+      "summary": "Sharp rise in H1N1 cases in Jharkhand; all major hospitals on high alert&nbsp;&nbsp;newsonair.gov.inJharkhand on high alert over Swine Flu; Health Minister directs hospitals to reserve beds, ramp up surveilla..&nbsp;&nbsp;ET HealthWorldRanchi Diary | Vigilance stepped up against swine flu&nbsp;&nbsp;The New Indian ExpressJharkhand issues H1N1 alert after eight swine flu cases detected&nbsp;&nbsp;India TodayJharkhand on High Alert Over Swine Flu&nbsp;&nbsp;The Indian Practitioner",
+      "sources": [
+        {
+          "name": "newsonair.gov.in",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeEhOY2Q4OWE5Wi1kT01pMnFYc21vY05PTVFjQy1sVzdkbjlPOUptQjQwaGZOMnFfdWxOd2RUSXlYbnRSR0U2UTROLXZQMnN1UU1MdVdBTXFRNl9IUjJZMHF4bVBRZjhkcGFDcTlHbXFiN1psQWNtZmltckdVOC1BclVHS3phWnVBYjdyRU1zcFZ1NTNwN084cW5lUmFRUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6f92a4c41a24",
       "title": "Stay sharp after menopause: How aerobic exercise can improve key thinking skills - News-Medical",
       "published": "2026-09-02T11:55:00+00:00",
-      "summary": "Stay sharp after menopause: How aerobic exercise can improve key thinking skills&nbsp;&nbsp;News-MedicalThis Is The Workout Your Brain Starts Secretly Craving After Menopause&nbsp;&nbsp;MindBodyGreenRutgers study finds aerobic exercise may improve thinking skills in postmenopausal women&nbsp;&nbsp;WRNJ Radio",
+      "summary": "Stay sharp after menopause: How aerobic exercise can improve key thinking skills&nbsp;&nbsp;News-MedicalThis Is The Workout Your Brain Starts Secretly Craving After Menopause&nbsp;&nbsp;MindBodyGreenExercise has a surprising effect on the brain after menopause&nbsp;&nbsp;Earth.comRutgers study finds aerobic exercise may improve thinking skills in postmenopausal women&nbsp;&nbsp;WRNJ Radio",
       "sources": [
         {
           "name": "News-Medical",
@@ -618,13 +786,25 @@
       ]
     },
     {
-      "id": "da30c0ed173f",
-      "title": "Heart attack has a new definition in a major upgrade - Deccan Herald",
-      "published": "2026-09-02T11:47:13+00:00",
-      "summary": "Heart attack has a new definition in a major upgrade&nbsp;&nbsp;Deccan HeraldPrimary, secondary or procedure-related: 3 new settings for classifying heart attacks explained&nbsp;&nbsp;The Indian Express​Heart attack in women: 7 things to know as new definition promises better care​&nbsp;&nbsp;The Times of IndiaFifth Universal Definition of Myocardial Infarction (2026)&nbsp;&nbsp;professional.heart.orgNHS 'to overhaul heart attack care' as docs admit treatment bias against women&nbsp;&nbsp;The Su",
+      "id": "446b9809525e",
+      "title": "After Finding God Particle, CERN Eyes Universe's Biggest Mystery: Dark Matter - NDTV",
+      "published": "2026-09-02T11:52:27+00:00",
+      "summary": "After Finding God Particle, CERN Eyes Universe's Biggest Mystery: Dark Matter&nbsp;&nbsp;NDTVWe need more mega-science projects, says CERN Director-General&nbsp;&nbsp;thehindu.comCERN Turns to Dark Matter After Higgs Discovery as India Strengthens Its Role in the Search, Here's How&nbsp;&nbsp;GujaratSamachar EnglishWhat if we never find dark matter? Why the hunt for the invisible universe is testing the limits of known physics&nbsp;&nbsp;BBC Sky at Night Magazine",
       "sources": [
         {
-          "name": "Deccan Herald",
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ3lMN0VNREVkamcwY2NqYUVKTjBFQlhEZE1YUGJPWUFNWGxMN19mLWF0UzJTTmo2Y3Q1WXRVM1RDWFU3RlBFN21vaDFQenJ1MVVyY3hFMVBRSVFpTXpYRkFHQ3dfUnJvUm9CUzRsSE50cE5fOHI5ZG9jX01QZVU2Yy1IbDJ0bjZrbldialAwWVh3eVNLUnJuUXc5V2phdi14T3hhWmpxYWE5ZDgyV0RCTzZ6WDNwQdIBvgFBVV95cUxNX0JvbFpUYlRZUC01RmRCdVMwOVEzZ3NOOENvYnNRU3UyX1VtQm5kX21uUGhHWHVyM1gyUnFqeVVpYndXaHdOUzA5SzZHOG1ISlR1REtmUHV1Vjg4YTZsSXdWbVF5c3RkQ1ZKZzlhOEp2UXRpTVZoZHVzdEl0VkVhdzY4TXF1UGI0dFloZHNRcDUzSHBvMVMyM29fVlpNREZCdllZU3NlSnY2eXhsVEc1bDctMWlDSzVOb0RiVmd3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b74c464508b8",
+      "title": "Heart attack has a new definition in a major upgrade - deccanherald.com",
+      "published": "2026-09-02T11:47:13+00:00",
+      "summary": "Heart attack has a new definition in a major upgrade&nbsp;&nbsp;deccanherald.comPrimary, secondary or procedure-related: 3 new settings for classifying heart attacks explained&nbsp;&nbsp;The Indian ExpressFifth Universal Definition of Myocardial Infarction (2026)&nbsp;&nbsp;professional.heart.orgNew MI Definition; Lipid-Lowering Advances; Former ESC Prez's Misconduct?&nbsp;&nbsp;MedPage TodayGlobal heart groups adopt new definition of heart attacks to improve diagnosis&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "deccanherald.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3c3NHJyY0t3M0Rtb0tqMFVTQTVVZkFzWGV0bGJKQlF4QmNDV2oydVdTWldGWTk1NmIxNXBfbUR5WHNPbmJmclU3NFRLSkN0TXJDcXBZb28tcDRFTWl1ellhNWxnTG9PTUFBVzR2RVlIQWpnOEZQZnJBRGQ1dW1WUzhCRkw1d2libm5YWU5oMnJDcTdFaFJfZG1tek8?oc=5"
         }
       ]
@@ -633,7 +813,7 @@
       "id": "d283b267bc5a",
       "title": "Why do mosquitoes bite some people more? IIT Kanpur studies their brain - India Today",
       "published": "2026-09-02T10:05:03+00:00",
-      "summary": "Why do mosquitoes bite some people more? IIT Kanpur studies their brain&nbsp;&nbsp;India TodayThe main reason why you're a mosquito magnet, but your friend doesn't&nbsp;&nbsp;Periskopi",
+      "summary": "Why do mosquitoes bite some people more? IIT Kanpur studies their brain&nbsp;&nbsp;India TodayYour skin chemistry may affect which mosquitoes most want to bite you&nbsp;&nbsp;Science NewsThe main reason why you're a mosquito magnet, but your friend doesn't&nbsp;&nbsp;Periskopi",
       "sources": [
         {
           "name": "India Today",
@@ -642,26 +822,38 @@
       ]
     },
     {
-      "id": "5fce872e4cfe",
-      "title": "Fever, body ache and cough? What you should do if flu symptoms have already started as H1N1 cases rise - The Times of India",
-      "published": "2026-09-02T07:40:00+00:00",
-      "summary": "Fever, body ache and cough? What you should do if flu symptoms have already started as H1N1 cases rise&nbsp;&nbsp;The Times of IndiaIndia’s current flu spike is a test for the next pandemic. Failure is not an option&nbsp;&nbsp;The Indian ExpressH1N1 Surge: Can You Have Swine Flu Without A Fever?&nbsp;&nbsp;NDTVSwine Flu Numbers Spike In Last 7 Days, Many Seek Hospitalisation&nbsp;&nbsp;The Times of IndiaWhy H1N1 feels longer this monsoon even without signs of a harsher virus&nbsp;&nbsp;India Tod",
+      "id": "fd47d09d81e5",
+      "title": "Too much coffee may weaken bones, study finds - Science Daily",
+      "published": "2026-09-02T06:05:23+00:00",
+      "summary": "Too much coffee may weaken bones, study finds&nbsp;&nbsp;Science DailyWant Stronger Bones as You Age? A 10-Year Study Found the Coffee Limit That Matters&nbsp;&nbsp;inc.comAttention Ladies: More Than 5 Cups Of Coffee Linked To Lower Bone Density; Tea May Help&nbsp;&nbsp;Health and Me",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOV1MzcGVRY1RBNXZLTVd2Q2JKNlBpRkxwYUhvUTJQTkcweHB2WlV6bnBsRjQ2Zlp5dF82amQ4ZGdqSGdCOEQ4OVc5MkJvNEdfazBPMnl2X3U3c2FxRnNOMlpYLUFLUmpjOFNTdVJ5RDZtMWp5ZlRrZkVFdzlRRXd5TmNNT0J2a0FUMVpmM0Jaam8xWGNlUzhOMms4Z3FuVm9PRnRfMEt2Mno2NWxEa1gwM2k0MGNQTEJ4NFZFR3lBNE5oa1p4a0RtbllSdDBzMXVKeEdaYk1pbjBPNkVzNUZwLWxreVh1b3BsYnFIZFNaMVlHbGlYRmtreFgyNljSAYQCQVVfeXFMT1V3X09tYWh4R1B4eWJfVWhTcVZDay16Z1lXQndyVDVUdUFUcTNyeVRNd2pHVjNTTmZkalBWT2ZiNXZ4cEFVdXpDX1RnSk1TNmpvZmNHLTNEUlBPX2JWZzhFdElyM29aNXMzb2xKOVd4Q2NSODdWVXhVR3NTalN1Ul8tQlBJWlctYjU2SlpWZ0tGRDhPbUxyVGhYOTdEUEl5YjhLNGx6cll6dnZDam1EZXM2TUZBOHctWk5mSmExeTBiWlMtYW1JNzQwNWJqZlBjbjYtbWRFck9pSW1uZHVqNE0wM2FzaEZmVDVWbFkwUWdIQlc5WlU2d2dVUEFCVjFIRHVZajk?oc=5"
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kcUVPT2FnWFFZZl9yakU4Mkc0S0lRamNPVnBOaWxDSU9NRnI4ME92X0ZldkFoSF9hdWUxelMwVG5VR0Z6YXhRSDhpLS1kN004em9GSE5oMlZuQmNZdDJ1aFdURUdHT1NYb195eDVKZw?oc=5"
         }
       ]
     },
     {
-      "id": "e191ec44539d",
-      "title": "Too much coffee may weaken bones, study finds - sciencedaily.com",
-      "published": "2026-09-02T06:05:23+00:00",
-      "summary": "Too much coffee may weaken bones, study finds&nbsp;&nbsp;sciencedaily.comWant Stronger Bones as You Age? A 10-Year Study Found the Coffee Limit That Matters&nbsp;&nbsp;inc.com",
+      "id": "813fef8c3e0e",
+      "title": "Daily sugar-sweetened drinks linked to 2.45 times higher gastric cancer risk: Study - Mid-Day",
+      "published": "2026-09-02T03:10:00+00:00",
+      "summary": "Daily sugar-sweetened drinks linked to 2.45 times higher gastric cancer risk: Study&nbsp;&nbsp;Mid-DayCommon everyday drink could double risk of stomach cancer&nbsp;&nbsp;Yahoo HealthOne Sugary Drink a Day May Increase Stomach Cancer Risk, Study Shows&nbsp;&nbsp;Verywell HealthSugary and Energy drinks: The health risks hiding in your daily drink&nbsp;&nbsp;GhanaWebSugary Drinks Linked to 145% Higher Risk of Gastric Cancer&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
-          "name": "sciencedaily.com",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kcUVPT2FnWFFZZl9yakU4Mkc0S0lRamNPVnBOaWxDSU9NRnI4ME92X0ZldkFoSF9hdWUxelMwVG5VR0Z6YXhRSDhpLS1kN004em9GSE5oMlZuQmNZdDJ1aFdURUdHT1NYb195eDVKZw?oc=5"
+          "name": "Mid-Day",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRlJjYk5NTVE0TzBPZWhJd1UwRVJCM3RZVzlpVEdpMDZPRUE4bXN2ekphamFJNTZwamtUaVB4ZUtOTUhQYWhIRWMzNFhDNEJaRnJUZ0w3TW5QckZwaXlySWhoWHlKNmZUTnFRUG1aTEZOYndlaW9kbVBTNHBfM3ZKMWstTlVweTFzQl9nTnp0ZjMtRmlTdG9zQ0cwN1IwR1ZEOUNtNF9JbDhVWDlGTWUtWnN5RGg0anQxU0l1XzRvV1VYMDlBYk5Lc1pLSjdoa0ZZZXBmUktB0gHbAUFVX3lxTE1aaVNYX1pVZFNLTGtmd2tLZ3Y3QXlWcm5yWW1WNlVkUFo3WnlHYXVaNzE3MGpDaVd5aW0xNldsQktGR0xXcThrNU5FZVE3eWlKUXdjcGpVaUVmUXhySzlNMHlnTmZkMW1ZMXo5cFFGaFdPeHFUQkZOWV9xa3dJUHBZRUREemZWMXJKYXBfM2RvcGkyNmFVNHZNSmtwX2dCMlVraDNBaTBFMzUwT1hfU3dGcm1qSVdRaTlwVE5WXzhVLW9UaGY3cTFMY3hFbDB6ci1ScjVFeG5jWU13bw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f095bd869800",
+      "title": "AI in Research: Why Researchers Must Challenge AI Constantly - thehindu.com",
+      "published": "2026-09-02T03:00:00+00:00",
+      "summary": "AI in Research: Why Researchers Must Challenge AI Constantly&nbsp;&nbsp;thehindu.com",
+      "sources": [
+        {
+          "name": "thehindu.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd0x0RzNRc3dnNzNval8yVlZSYXZEV0Nnci1LQThmcG53X1BpdzVYWnFJYlNXLTlhcXlFMDVqb1dkcUpJVThYdGpMb3RDNEdiM28xVVZFZ1dNX0tvVFBILUE4Q0pZM0NqeEQxTnI2QlhETG1PbjBmS2xUTVF0Ti1pSUVOSmVpaHhqYkE3UkFJY2xzR19OVDQyQzNuR0JzY2t4LUVLd1pmelpBdlc4Si1RbV9RclRRRmIz0gG_AUFVX3lxTE9QeE5CSm9hYzltVnVaU3VTejdMSHM0YjJhWi1sUG9teFRPcHBmOXdRck12T3BUZHYyS01nci1KSWoybHVCR2dNTU9rWHRZaVdaVndjNTREbUk5ZnRJNjVFNHRhUloxV3cweF9aNU5LOXBpZ0ZGaFVJVm5Qd0kwR05VVHkyWF8zMDV5TzhjX3M0d1dMN1N2UVZOUGpYMnpDdHROWHVoQmc3VVh4RVdQS1UwWVRRcFBmOWcxNjhZTnZN?oc=5"
         }
       ]
     },
@@ -681,35 +873,11 @@
       "id": "3c2b5686ee42",
       "title": "Nurse-led care at Kerala’s Sree Chitra slashes heart failure deaths by 22% in landmark TIME-HF trial - The New Indian Express",
       "published": "2026-09-02T01:15:35+00:00",
-      "summary": "Nurse-led care at Kerala’s Sree Chitra slashes heart failure deaths by 22% in landmark TIME-HF trial&nbsp;&nbsp;The New Indian Express",
+      "summary": "Nurse-led care at Kerala’s Sree Chitra slashes heart failure deaths by 22% in landmark TIME-HF trial&nbsp;&nbsp;The New Indian ExpressNurse-led collaborative care significantly improves heart failure patient outcomes&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "The New Indian Express",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT0dfTFMtOHNsMFlhTC0tSmNjRDZ2c2JtYk5ncWdPbjFzaEJ1dXlJWTFlTzhaV3ZvRk9aM0QyN1dmNlVFN0l0dzhweHdaVE15RGFLem10Sm9iNkZDajFvYmlHbVFTTmhjTThBazdsaEVMeC1uRjVFYU16SFpOWFotUmZIaDhjbTFQRjItWGE1dDFGVVhzMnZSNWNMOWE1UEE0OXMzZFRrWTlWYmk2LTA1WlAtODRDajBZN1A3YTZNNUh6TGN6cVZqaTU4azN2ZzdocHhaT29PZGo4R196Z29CZTBHVzR4MDBrZEUwYm9B0gH7AUFVX3lxTE85aU1nWFhITVNFSVN3bGRKMm5hM1ROMmNRa1pGdHhnRGFTWTFvMEZucDBYaE5WYTNJajhyWWRNb01LT1lHaVVtMFNzYzFKWDR5ZkRUN1NtZjl0UjlSQkp3ZXhCa0FxNEY1TG9kamkwZHY5aFJ2YmEwYzVqWGFkeXJ1X2lOdnBKcFNmb3VjNDNERE0xbUZpU2ltS0VXX054d0Qza0EtY2Rxend2WS04bWlRdFNkdkJ6LXBfMkxvYnhzWDBuUHF0QWZKUHVmcDMweGFLYnB3VHdZMlZ1c0JzR2FxYktCYVJWSnVOOE0wOXFubUVybU5DV1JBNC0w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44b9016b0958",
-      "title": "People With Unexplained Fainting Finally Get Some Answers With Take-Home Device - MedPage Today",
-      "published": "2026-09-01T21:40:39+00:00",
-      "summary": "People With Unexplained Fainting Finally Get Some Answers With Take-Home Device&nbsp;&nbsp;MedPage TodayWearable ECG monitor boosts arrhythmia detection after unexplained fainting&nbsp;&nbsp;HealioA wearable device could reveal why you fainted&nbsp;&nbsp;Tech ExploristA Two Week Chest Patch Doubled the Rate of Dangerous Heart Rhythms Found After Unexplained Fainting&nbsp;&nbsp;Medical DailyEarly cardiac monitoring reveals hidden arrhythmias in patients with unexplained fainting&nbsp;&nbsp;News-M",
-      "sources": [
-        {
-          "name": "MedPage Today",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hanR1bThQU0gzcGI2dnN5VXRQTzQwdnBQNmtsbDVGaGw0NUtGTWF3WVRyXzFkTHp4Yks2b1R1OVVoeHJCb0NQeWlVSExxd1VGTDJHckVUU2gxNVRTYnRrZkRYUlZUQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "87a3e63e84d5",
-      "title": "Immunotherapy shows potential for treating rising gynecological tumors - News-Medical",
-      "published": "2026-09-01T16:16:00+00:00",
-      "summary": "Immunotherapy shows potential for treating rising gynecological tumors&nbsp;&nbsp;News-MedicalGynecologic Cancer Trends, Testing, and Treatment Advances Explained&nbsp;&nbsp;Targeted OncologyGynaecologic Cancer Awareness Month Begins – ESGO&nbsp;&nbsp;OncodailyThe importance of early detection for gynecologic cancers&nbsp;&nbsp;WOODTV.comGynecologic Cancers: Types, Symptoms, Diagnosis, Treatment, and Prevention&nbsp;&nbsp;Oncodaily",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWS1DbWE5Y3kxazhOMFdlaGg0bFpfSHB3c0x5aUlvOFZJQThib2RCQ191YWZDOGRHSmFodlFrM2JjVzQ3U0Y1WGc0R3daMnZzWE5wUmVjMmY0NFBBRC1GYURmV1E4S2l4T3B1Rjd5dU1YdkNhSXpFdnRXR1o0NXhtY05PUHl6Q3pzTU9RMDFfdnprc3IwcjVTaVVWOUdDMzN6YWFxZHhleER3YTBVVXFmMGpkM3JPMXBMNlE?oc=5"
         }
       ]
     },
@@ -726,134 +894,74 @@
       ]
     },
     {
-      "id": "7c5e098253e0",
-      "title": "Why are strokes rising among young adults? Neurosurgeon shares 5 warning signs | Health - Hindustan Times",
-      "published": "2026-09-01T12:35:46+00:00",
-      "summary": "Why are strokes rising among young adults? Neurosurgeon shares 5 warning signs | Health&nbsp;&nbsp;Hindustan Times",
+      "id": "083065ed6111",
+      "title": "Tests To Detect Lung Cancer In Early Stages - BW Healthcare World",
+      "published": "2026-09-01T14:18:54+00:00",
+      "summary": "Tests To Detect Lung Cancer In Early Stages&nbsp;&nbsp;BW Healthcare WorldLocal doctor urges lung cancer screenings as too few at-risk patients get tested&nbsp;&nbsp;WKRCLow-Dose CT Screening Helps Detect Lung Cancer Earlier, Expanding Treatment Options&nbsp;&nbsp;Aspirus HealthHere for Health: The importance of lung cancer tests&nbsp;&nbsp;WLNS 6 NewsStudy shows earlier detection of lung cancer with new technology&nbsp;&nbsp;Upper Michigan's Source",
       "sources": [
         {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeEJnclI3ay0zanhKS1ZaNDI5VTZQN0drQUFjQUsyN3JUNzlUSXoxUUtoWEd6X0hYTHFyOV96RkNDN0JYb2JJaTBiV2NsREg3UlhzTlJrRHlEVWJfZTZGRXVpenNIaDNXbWFxTlJSUVVyS0V4RkpYcUpZTEFVcFFldXhvRlJ5UVFTQUstY3hCVzFuTkUtZWlmWFNGRy1xMi1tZVlvMjd5UjF1RjMzLV8wUXYtRzUwZTRxaFp0U1ZsRTV4eURMalRmSEpuVVRld3dad3k2VkZEUVZYR1ljLTd30gHkAUFVX3lxTE0zRWZESlF2S0xrOVRYOUJucGE0aTRfUWRXNG5IeVRxRlE4Zk93ZEtCYkJSdTFJc042X2g1c2JzZTBWdXNUNDJGTGV0VFhYeWl0eFh4U1pWeVkycVp6bUhRT1o5TDh1aWxTRkNBWk1Xd3FWeG9iSm5RU2JRUFhNS0xRQ2ZsbjBIZGNlS2ZZbDQ1QjYtQTBEdXpEaVZ0XzhxU0pnOUo3ei1nbVFweTBwN3JEdUlOZlpFbzM3Sk03TDJuMWpyV0pvX0xGdGJ5LW5VVDJROVpsRFU3ZXRONWJyRzd4dW1rLQ?oc=5"
+          "name": "BW Healthcare World",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWWZGdFRaTUdpLUY5cUVsLXVpQXp6eWdnLXdNUkw0ZWNkYkJqdlNSUEwyY0ZWZ1NwM0xWTk1NRmtUbmhKZ0lDWkZUSFNKU3M5T1RoSFlybmcxMmxweGtqa2ZSN1pnQ043dmNJOElhMHpGRk9XbnJkN3BZLWFaTk9nbHItckNpM2pud3Y2dWFVazJXc1BwOHJV?oc=5"
         }
       ]
     },
     {
-      "id": "caeb6a325f94",
-      "title": "PCOS to PMOS: What the Name Change Means for Clinicians - Patient Care Online",
-      "published": "2026-08-31T21:16:22+00:00",
-      "summary": "PCOS to PMOS: What the Name Change Means for Clinicians&nbsp;&nbsp;Patient Care OnlineCan You Have PCOS Without Being Overweight? The 'Lean PCOS' Explained&nbsp;&nbsp;NDTVDetecting soon the polyendocrine metabolic ovarian syndrome helps to preserve fertility, according to a gynecologist.&nbsp;&nbsp;DemócrataPCOS is now PMOS: Why 70% of women don’t know they have it&nbsp;&nbsp;KRDOIlluminating commentary on Waterford Council PCOS awareness initiative&nbsp;&nbsp;waterford-news.ie",
+      "id": "a92b3c865140",
+      "title": "GLP-1 Drugs Linked to Lower Infection Risk - Voice of Healthcare",
+      "published": "2026-09-01T07:00:00+00:00",
+      "summary": "GLP-1 Drugs Linked to Lower Infection Risk&nbsp;&nbsp;Voice of HealthcareGLP-1 Studies Suggest Benefits Extend to Infectious Diseases&nbsp;&nbsp;MedPage TodayOzempic and Other GLP-1s Are Being Linked to Fewer Serious Infections—Including TB&nbsp;&nbsp;gizmodo.comNew study suggests GLP-1s may protect against serious infections&nbsp;&nbsp;WCVBGLP1 Medication Linked to Lowered Risk of TB in Type 2 Diabetes&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "Patient Care Online",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRW1SM3hBNjdteDMtc1FDdlV2M2FPNXNPbFB5bVNjX2dWNmVrZ1BVNUdqdldBeFJoclFmRnNtcndUaDBHWl9Ka05vY1VVV0ZQaVdKTEk0NXJlLU9QTXRxazZWNWd5TlhqUTI1WTdCZS1UZHZnWjdQVm02R2Z1RHVEUW5aajhmSnI0U3pPaVVkblhMcVQwWWloMQ?oc=5"
+          "name": "Voice of Healthcare",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQU92NHZBbEtEb195YWZUWnotdFhEOUNkMk00SXd5bFNGVHVVcUpPcUMweVViR25fQWdjZHR4UnBDV3JxbXNTQlYyRDFqd3JEWGIwRkFSRDl5UFR6VTFSNDNTX2NjdTlIX19zRnkzZmtJcGZpd2MtV0xwZ1lrVHA1UEpHR3lSWVZkdUR3UVh4QXVjQUlsMFQwZDZLdXJ1OWtXY2ZJQ3Q5T05iNW5udVlaRw?oc=5"
         }
       ]
     },
     {
-      "id": "9d008fe67e9a",
-      "title": "Bleeding Gums? Try These At-Home Gum Disease Treatments for Fast Relief - Yahoo Health",
-      "published": "2026-08-31T18:00:10+00:00",
-      "summary": "Bleeding Gums? Try These At-Home Gum Disease Treatments for Fast Relief&nbsp;&nbsp;Yahoo Health",
+      "id": "10be0c693a8e",
+      "title": "Early cardiac monitoring reveals hidden arrhythmias in patients with unexplained fainting - News-Medical",
+      "published": "2026-08-31T16:00:00+00:00",
+      "summary": "Early cardiac monitoring reveals hidden arrhythmias in patients with unexplained fainting&nbsp;&nbsp;News-MedicalSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "Yahoo Health",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdVVSOVhzQjFqVXZ0d1BnbTZDQzB0QVpCc09LWlVib2dFRGo1ODQxMXgyWGZ6enVTa2YtMWdGMkowMjk0dTFNWGgxMHN5UU00TG9oRF9PaVdLN1hqaXYyejlKdnROaUxhQ200NGdCZGFWRmYzY0JTSU1ZR01YTE1pNHFJblZzQ09ZVTVBaDdnRjRUelltVTFWM3FqOWcxdw?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY3YyM0NKSndWZnNidG1GTFpPc0hzbWEyYlYxcXp4a0VXYnFGYTFQcG1Ibkl1MXR3M0tBVnlEdlVkZ3dmU293RDlyU3piNld6TE9fTXJELXFZZWlRd0gwR0h0bHhHdmJPQU9MdUc2OXpxOUdDYnIxNlNzTkl4WnY4U3JFb0lRMmVxZWJxWnZvb2tVRnRlcGtULVprdGFOdy1fSjhsTGxYd25OYXdoMmJkM29FT1NyeDBuVnMtRF9GNkJNQnpxV1BWTlNHTTNkTzQtbzVN?oc=5"
         }
       ]
     },
     {
-      "id": "5f629adf2d01",
-      "title": "Mystery Behind Rare Cancer Cluster In California Community Deepens After 20-YO Warning Emerges: What Is Ewing Sarcoma? - Health and Me",
-      "published": "2026-08-31T09:30:00+00:00",
-      "summary": "Mystery Behind Rare Cancer Cluster In California Community Deepens After 20-YO Warning Emerges: What Is Ewing Sarcoma?&nbsp;&nbsp;Health and MeA rare disease is haunting the children of an idyllic California suburb&nbsp;&nbsp;SFGATELadera Ranch childhood cancer mystery deepens after 20-year-old handwritten warning emerges&nbsp;&nbsp;New York Post'This well is not to be built over': A California ranch was warned 20 years ago; young teens are now suffering from a rare cancer&nbsp;&nbsp;The Times o",
+      "id": "41ae5baad6b7",
+      "title": "H1N1 cases rise in Delhi, but experts see no sign of new dangerous strain - The Times of India",
+      "published": "2026-08-29T09:56:00+00:00",
+      "summary": "H1N1 cases rise in Delhi, but experts see no sign of new dangerous strain&nbsp;&nbsp;The Times of IndiaFever, body ache and cough? What you should do if flu symptoms have already started as H1N1 cases rise&nbsp;&nbsp;The Times of IndiaSwine Flu Awareness: Symptoms, Prevention & When To Seek Care&nbsp;&nbsp;BW Healthcare WorldVaccines every adult over 60 needs this H1N1 flu season | Tap to know more | Inshorts&nbsp;&nbsp;InshortsH1N1 cases are rising: Cancer specialist explains when flu symptoms ",
       "sources": [
         {
-          "name": "Health and Me",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdDh6SkRPTlk1SFRGeUFlRTlfUHAzdnROZWJpcnFRTzY1NTc3WGlmQVVKQThmMFBuZkNucVhvcEhDRHRjQkdJazVvMEhYYlVMM0pqRW5SVC1zT0tMbThmcHlCT0lJTTlVS2FEdlFnM3VCbks0MzA1SWNfNEMzUWx2QW5XWmlZUDZ3S3JGVUNUbE1oTndFdW81SGdrOThlSDVSQ1FFVjM2cU9ibHFneDFSXzc5OTk1OEhDdVE4WV9zZXRBSTJBbFNFX3dKZFZfdzc2SjRTLVlsbWVIaVBrRG5oUklkZjZraXdfMU13MlhPT0ZpS0kyRHZyTmp5RGlRWHhUdzFaSw?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObUJsekNGQldEYW5iY09WZTFzc01EeWRjWVRZUXFMSnRhOUxKa21yYVEzcGdsY2dlenVzLUJGcktlZTczT3ZUT3pCU1puekpoSzIwczJIOGdfamdoVkM0Nkxyb3VBcDV4SGNjLWs2Z0wwUTNUMTNwQlIyOWRoekdITXJQTUlNQllfNUpvUVlGUTE4VEZGX3NYMDlicVZfUk51aF9kUUJsdGR1eEw1MUg2a1NBVEtpclFNdXpkZzF5NkxVQUpXVXdOa2hmeEVvbVpfT2xrT2FPZjQ2TGJyc1E?oc=5"
         }
       ]
     },
     {
-      "id": "6e0570cbb0b5",
-      "title": "No Excess Cancer Risk with Long-Term Spondyloarthritis Therapy - EMJ",
-      "published": "2026-08-31T07:00:00+00:00",
-      "summary": "No Excess Cancer Risk with Long-Term Spondyloarthritis Therapy&nbsp;&nbsp;EMJ",
+      "id": "8ae9b93c8bdb",
+      "title": "New ESC heart failure guidelines include major updates - Cardiovascular Business",
+      "published": "2026-08-28T15:45:11+00:00",
+      "summary": "New ESC heart failure guidelines include major updates&nbsp;&nbsp;Cardiovascular BusinessEuropean Cardiologists Redraw Heart Failure Categories in First Full Guideline Rewrite Since 2021 Affecting Millions of Patients&nbsp;&nbsp;Medical DailyEsc Guidelines Provide Class IA Recommendation For Finerenone For Heart Failure&nbsp;&nbsp;TradingViewSecond universal definition of heart failure released to improve diagnosis&nbsp;&nbsp;deccanherald.comNew guidelines simplify heart failure phenotypes into ",
       "sources": [
         {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1NybmJKckRkTWViQnQ0Y1A1Z2wtSWhMYXNQX1U4RzdXMU9naWtPekhlT0xfSWhQNm9pWmdSa1RHemJHc1JJdENuU21VN1cwSjlpVjNqWUU1MHFmZW9ydlJ2X0ltWXhQNG5FbnRNSURPd2RZaFowNUNnaHR0QW1wZXA1eUtSbHFDTm5tOXNZeTJxU2FfT0dyYTB3Z0VUaUZhREhMcXhLVDZtUDhP?oc=5"
+          "name": "Cardiovascular Business",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY25SOWg0WlJObkxzZFV2Qkg5VmdzUG9LZThGelA2M1otSGVZY0tDZTc0NExIQ0hnOW9NQW5OUkR0LVNWRkstdGVlemhxX0hHdi1ETjM0RkFfTV85dEJUY21XRnBrQVJ5MjBHVzNGbDN5QmNYZjFxNmhJUVNfWGxPeHR3cjJRdU9IWFNXMDNDdV8wdGJCX1ZuVjVlb2tHY0JXbUNMelBvUGhrZzJBaFdycHFYOU82WE1vSFhB?oc=5"
         }
       ]
     },
     {
-      "id": "36b797c335bc",
-      "title": "Beyond exercise: How robotics is changing physiotherapy and rehabilitation - expresshealthcare.in",
-      "published": "2026-08-31T05:37:36+00:00",
-      "summary": "Beyond exercise: How robotics is changing physiotherapy and rehabilitation&nbsp;&nbsp;expresshealthcare.inAI Is Giving Physical Therapy a Robotic Makeover&nbsp;&nbsp;Newsweek",
-      "sources": [
-        {
-          "name": "expresshealthcare.in",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWnFXREdVSERuTjY1bHJQSEVibTZ4RkhPVFNaRUFMbDZsRnVJQm9ETWtLTk5lSUE3QjU5ejkzcHdTX1Z6aFFkb2FfWG1RY2g2MkZUeFcxejdiTUZBZzlMalNxUWl1Y3FCN3VMSXRfU1VsVEdKUXZfMnRMNm9XQ2FIVVl5dkt0alhxLXBLVF9oZnZSMUVyNDBGaHdUc3VPWmhZc0VsWDU1eGJ4LUZvT18xcTBoalM4RFBHTWow?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d48ccdeffc9",
-      "title": "India's Gut Is Different, And Scientists Now Have Data To Prove It - ETV Bharat",
-      "published": "2026-08-31T05:02:22+00:00",
-      "summary": "India's Gut Is Different, And Scientists Now Have Data To Prove It&nbsp;&nbsp;ETV BharatNo one-size-fits-all gut: New study has an important message for Indians&nbsp;&nbsp;The Indian Express",
+      "id": "ac37f0bd05ca",
+      "title": "Ebola Outbreak In Eastern Congo Spreads To 2 New Health Zones With A Total Of 60 Areas Now Affected - ETV Bharat",
+      "published": "2026-08-28T15:13:38+00:00",
+      "summary": "Ebola Outbreak In Eastern Congo Spreads To 2 New Health Zones With A Total Of 60 Areas Now Affected&nbsp;&nbsp;ETV BharatMore than 6,000 people infected with Ebola in Congo, government figures show&nbsp;&nbsp;ET HealthWorldDRC — Ituri: Flow Monitoring — Ebola virus disease response (17/08/2026 – 23/08/2026, week 34)&nbsp;&nbsp;ReliefWebCongo Ebola outbreak crosses 6,000 cases as insecurity hinders response&nbsp;&nbsp;India TodayFive Ebola survivors discharged as DRCongo’s case count breaks 6,000",
       "sources": [
         {
           "name": "ETV Bharat",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOazlqOEFQWU9OVC10cjh1MTQ3bGVHd1lWRTl0Tm02MUdjRlBlSjhzbW4zaThaRjBsRzUtR2R6UjhTeVB5Q3ZpQ3E1Ul9sV0daNE9mZ3hfZjFuVzRTQXY3dm15RUNRbVMzZldDT0pUYVZWeUxQemduZDl5RlRiSy1fX3BQb3NPb05zWmZuVGNtRWVwOXhq0gGaAUFVX3lxTFBsMVNNZWdiUzlIdHZsNFBNNVZXOUx5dDBNdm8wZDJxOEhETmdzVjNtbmE1UnlRY05ST1liTGJ5WjdsbVZnLU4yUHRkNVBNTXRNZGdnUVlzdGhjYUhuVl9GQjZ4YXc0dlhsbGMyUGdBSER6YVI0bG1iYlhNT1RZUmtjM3ozVmhzXzdjYWZKd3hmc3FMczBYZU5pdkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd8562ff47cd",
-      "title": "The 30-something brain fog: Why our grey matter is burning out decades too early - Livemint",
-      "published": "2026-08-30T03:31:13+00:00",
-      "summary": "The 30-something brain fog: Why our grey matter is burning out decades too early&nbsp;&nbsp;LivemintWhy you need to start at 40 to protect your memory at 70&nbsp;&nbsp;The Times of India",
-      "sources": [
-        {
-          "name": "Livemint",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSmZuSjBsVUg2dmxFVXR1OGFDZjRkSHRrdlJvRDd6RVVwS3h4Z2JGMW5kb1VLX3RMaGNWYmVHUXA1emNVWEV4N3VCdmVmTXJqaHZJVGY2Tk5GNG82aUhqUFJSS3lUMEQxMFVkWlRGV1Zza3BxenVBekQ5ZUg1U3J2Vy12Z0s4cTNsZ01DS2VLdVJ0RXJtaWc0SEx1RHQ0SUVjV2dGUjJ5WmRLUmMwVnlUVDBLSWVPTXRCbTVabEFlbW5iczJMejVxTU5zbWVpNXpsRUt4OFFn0gHbAUFVX3lxTE80b1RSdmFsTkx3SEFzNmw5bGszUDNma1Utai1RSnQwbWtsZ0JIT1ZrYmVIOVUyakl0ZDlLVHVyTTU5QnJxRW5RdGtFeDRqc1VLbXF6aEZRMmFyQVRjeVBjVUoyY29CeE9aT3R4YkVOM2c3aHA1T0U4SjBKZUVoRVd2SmFhUGZzcW81M1lGZGdaeWF2MWFuTU1Kb21KZlV6b0xOUDFhOTAxVVRyUDBuU1lqYU0zUC1ZTkRhdkQ3djUwbTZ3RmN1bUVaNFFDcGQwWkxGX1Fndk15dzFLaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a34ef6dc8632",
-      "title": "GLP1 Medication Linked to Lowered Risk of TB in Type 2 Diabetes - EMJ",
-      "published": "2026-08-29T15:02:45+00:00",
-      "summary": "GLP1 Medication Linked to Lowered Risk of TB in Type 2 Diabetes&nbsp;&nbsp;EMJOzempic and Other GLP-1s Are Being Linked to Fewer Serious Infections—Including TB&nbsp;&nbsp;AOL.comNew study suggests GLP-1s may protect against serious infections&nbsp;&nbsp;WCVBGLP-1 Drugs Linked to Lower Infection Risk&nbsp;&nbsp;Voice of Healthcare",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTAxNnFLSmtyY2dTVUc4eEFOMjJLRzkxa3Zya0FMOGpiOHFEUU9YbVhROURUVzZkWGJERm4wSnU4UWVhZjkydTFjNXdQY2VHbHpVcUVGYUwtVUJPWXNvWUlhRmFSU1RJNTdQU2xOSGY2REZDeFVzZjBEYnN4bXdBTTRTYkU4dFVtWTNtZ24tbFdmeHA5MWFPNENOemxubngzb0FSYkdGdmg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56ca4edd394c",
-      "title": "Young adults getting cancer: Is genetics playing a bigger role? - theweek.in",
-      "published": "2026-08-29T06:43:55+00:00",
-      "summary": "Young adults getting cancer: Is genetics playing a bigger role?&nbsp;&nbsp;theweek.inCancer is getting younger. Should we be worried?&nbsp;&nbsp;Deccan ChronicleThe screenings and other habits doctors recommend as early-onset cancers rise&nbsp;&nbsp;washingtonpost.comPatients Are Getting Sicker At Younger Ages, And It May Not Slow Down&nbsp;&nbsp;ForbesGuiding Patients through Cancer Screenings&nbsp;&nbsp;Cleveland Clinic",
-      "sources": [
-        {
-          "name": "theweek.in",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3V2N3FzZVVmLU1hZF9CVE1uNXR6dEZ0X21peVJrM0RRdHM0ODVWRWF6aERwbjg5UGlVVG40VWZ0a1RHeDR5am9PeU0yTXhpZVFsU2NISW1wdUhnWHlnRVNOaFF2cTFwRGxCaGU4Qm9wMVZQdWJacEVGWkROT3BlRkdkZnU0aTEyZ1p4ODJPckhZeTJhdGJ6Ym1iSVd0b3pwaWdvUmM5U1plYmRSS3h0bTRB0gG3AUFVX3lxTFB0V3NycWNCQVRFN3JMeWl4bWY0VFpIeld5cno0VWNvX19FbjRXeTRTbWFOaVVCYlRVZHRlRjRjSjVMdklRaEl2U0ZTajZOb0FvMDdoN1JpUGtPUkd5WlZ2SzltMEpJcTRIQ0xYdFFCeW9DTlVHa01XMkR4SjVwS0JydWJZSHh1TVVkSDU2RUJGOGtRemxYdWdtek9rUkt4RnJKR09UVjFDT1ZsY2xoSGYzTEh5TVl0aw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1609e1393632",
-      "title": "Researchers throw more light on 1.2bn-yr-old Mars meteorite - ummid.com",
-      "published": "2026-08-28T14:55:00+00:00",
-      "summary": "Researchers throw more light on 1.2bn-yr-old Mars meteorite&nbsp;&nbsp;ummid.com",
-      "sources": [
-        {
-          "name": "ummid.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWldtTUVuZ3NibndKNDNNQmJPVnk2Y0s0TDhlb0FnbE5Pcnd6WndLYjNnLVppc05heWNuZzlGZ2NYYzFDYlkyS2kwUzJfbU9VSVh6aTc2dVByVlVJUkcxd3BHM0tsOHZRNG84ZHNJUU1xR2dHMXYwYUVqTDVWMEZCZFprZzFqZW11d2JVWmplSUI1RHpUMi1oZzBmUklINUU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMkxKcTY3dHI2NlhpY3hkbURvX0tuTkZSTWVDdjd2dnRiRXlmNVp6dkJRZk1UbU1BbFI0dThKRWJKZmp0TmtVNS15QXdueGdxbVExTTctcl9NM3VwdkNDakthdm1Dd3h2MVZaOFhsWGI1VXFkMklTRGl4T01KMGNCSnlZeU5lTmFmd2hfWlM1OXFJclVjVm5pd3ktcUVwYkdUUTR5VkI2alhORXkzNmhxa0w4NkgyVncybXZIUzZuby1CNWthalh3WWtMOWU5MVM0NVpSa19nWWJtOE1SeDdaR0hyU1NxcjMxdU5nR3RR0gHzAUFVX3lxTFBNWC05STVBNmg2eTlRcFhlY09sWVlncEozeDRtQmNyY0ZIblhNTWZoa3RBczRFeVVRRk9PTXJGMzcwV1FJQVhCTjFHUHV0Zl8wRmkwUEs5LTNKTnpmcldXNjBGSU1paWE3dElXZG0xcUVmejVNa3hPY1hQaHFwWDhiVEdrd0pCbWZNTUd5Y2VWVjc1MmpEUkxpTTYtMmlLeGZaeTlsdGZwWXdLWlBaY1lhVEhaa2hIelI0Yl84bjdnd3BHMW5yX09INDFMUXJnUDZBUzVMUktwZUtDdTR6SGM1UGhkQ18yWmgzZW55RGh4X28zOA?oc=5"
         }
       ]
     },
@@ -870,22 +978,10 @@
       ]
     },
     {
-      "id": "539da68b4fd3",
-      "title": "2026 ESC Guidelines for Heart Failure Redefine Disease and Treatment Subtypes - HCPLive",
-      "published": "2026-08-28T13:05:36+00:00",
-      "summary": "2026 ESC Guidelines for Heart Failure Redefine Disease and Treatment Subtypes&nbsp;&nbsp;HCPLiveHeart Failure Guidelines Introduce New Classifications: ESC 2026&nbsp;&nbsp;EMJESC 2026: Evidence supporting SGLT2 inhibitors and finerenone in heart failure grows&nbsp;&nbsp;pharmaceutical-technology.comSecond universal definition of heart failure released to improve diagnosis&nbsp;&nbsp;Deccan HeraldEsc Guidelines Provide Class IA Recommendation For Finerenone For Heart Failure&nbsp;&nbsp;TradingVie",
-      "sources": [
-        {
-          "name": "HCPLive",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVVDcTRXSGVuYk5DZlNwMHg1cU5xSF85bkZrOE9HNHRlTjltaFN5ZVZmQjJ6V0NiUlI5QjlZN2UwSDRjVXc5WHFyZWxldEVOc3ZDNTU5Q1VTRFdHdzA1aHhWUmZiX05qS2x1WUota3BsbWdneWpJUHY3SlJiSWNYX0xCdzVDTUpmcEExNHRta2dYa2RvNUlCTWc4QnYyXzBrWXk1OTg1dkJNQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f97f478d831e",
       "title": "HPV VACCINATION CAMPAIGN TO BE CONDUCTED IN ZUNHEBOTO DISTRICT - DIPR Nagaland",
       "published": "2026-08-28T12:45:56+00:00",
-      "summary": "HPV VACCINATION CAMPAIGN TO BE CONDUCTED IN ZUNHEBOTO DISTRICT&nbsp;&nbsp;DIPR NagalandThe Wright Medicine: HPV vaccine critical in fight against infectious disease, cancer&nbsp;&nbsp;Scranton Times-TribuneHPV vaccination may reduce the risk of head and neck cancer in both women and men.&nbsp;&nbsp;GIGAZINEHPV vaccination campaign in Zunheboto&nbsp;&nbsp;Nagaland TribuneDispelling myths, misconceptions surrounding HPV vaccination for young women&nbsp;&nbsp;Deccan Herald",
+      "summary": "HPV VACCINATION CAMPAIGN TO BE CONDUCTED IN ZUNHEBOTO DISTRICT&nbsp;&nbsp;DIPR NagalandThe Wright Medicine: HPV vaccine critical in fight against infectious disease, cancer&nbsp;&nbsp;Scranton Times-TribuneHPV vaccination may reduce the risk of head and neck cancer in both women and men.&nbsp;&nbsp;GIGAZINEHPV vaccination campaign in Zunheboto&nbsp;&nbsp;Nagaland Tribune",
       "sources": [
         {
           "name": "DIPR Nagaland",
@@ -906,50 +1002,14 @@
       ]
     },
     {
-      "id": "7cb25076579d",
-      "title": "DR Congo begins Ebola vaccinations as deadliest outbreak on record spreads - africanews.com",
-      "published": "2026-08-28T04:11:38+00:00",
-      "summary": "DR Congo begins Ebola vaccinations as deadliest outbreak on record spreads&nbsp;&nbsp;africanews.comMore than 6,000 people infected with Ebola in Congo, government figures show&nbsp;&nbsp;ET HealthWorldDRC — Ituri: Flow Monitoring — Ebola virus disease response (17/08/2026 – 23/08/2026, week 34)&nbsp;&nbsp;ReliefWebCongo Ebola outbreak crosses 6,000 cases as insecurity hinders response&nbsp;&nbsp;India TodayFive Ebola survivors discharged as DRCongo’s case count breaks 6,000&nbsp;&nbsp;africanew",
+      "id": "4c89df2aa9f3",
+      "title": "World's first patient to undergo live AI-assisted surgery gets his brain tumour removed; here's how it ha - The Times of India",
+      "published": "2026-08-28T06:12:00+00:00",
+      "summary": "World's first patient to undergo live AI-assisted surgery gets his brain tumour removed; here's how it ha&nbsp;&nbsp;The Times of IndiaA Tumor Threatened His Sight. Surgeons Used a New Tool to Remove It in a World-First Brain Surgery&nbsp;&nbsp;inc.comThe AI-assisted Brain Surgery that Helped Preserve a Patient’s Vision&nbsp;&nbsp;ColombiaOne.comThe first AI-assisted brain surgery helped a man in the UK regain his eyesight. The surgery was a research trial, financed by the National Institute for",
       "sources": [
         {
-          "name": "africanews.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEJ1Z0V3Z3JvMDU3c3hhaF9yRmxieWNuT3NuU0VwdVBJaG51ektTMzV2UjNITUQ4UXVVNWdaUzI1ajNUUVY5SVlFRW9jR0VWSHdiQ0ljb0pCZ1lxRi1kb1RTRXhnTEVMcXJqc3RaWGRZaVpTUnNlYnNPbk5fQVFlMkEwb1NJdEx4YTFKczZxYW8wSzNrOVNEZ3gwQk9LQ1dOdHZyMGRaMVdjZ0JncTVmamlkNNIBuAFBVV95cUxQa0tOcEozY0pUd19sT0NkMm1PbnpzZV9xWXJnSkI4eVJ2S2J6YmVSQzh4ZURvYm9qNktGdkllNWhXYUtKd1VDc05ma3NNZGlLb1dPSWE4V2dleXd5VEhoRktRRUJGdERrN2FJaE1xUEtxVzhkVFJqQWVzT3FsajBxeFFEMzlwNWFXdGtuY09sVTVacDJpUUlqOHMzRk1nYzNMNUFlVTFOd0xwYTBvZHVHYlhDNTZSOHFT?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8a76f67468ef",
-      "title": "Demand for vaccines surges as H1N1, other influenza cases see a sharp rise - pharma.economictimes.indiatimes.com",
-      "published": "2026-08-28T01:52:48+00:00",
-      "summary": "Demand for vaccines surges as H1N1, other influenza cases see a sharp rise&nbsp;&nbsp;pharma.economictimes.indiatimes.comSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "pharma.economictimes.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaGRtZWY4ZHJMWXdWYWRGUUpIcV9mMzhRVE0tWVJiV3VWYW4xVzJTNjV1Z0tFRk9CaG1wczhLMEJPcmFDcEt0M3dyMUJpVnE2VWhBODdzRXRrVHRoczhtSmlxa1hBQ3VlTzVkQ1FKTFFtZVNvMVdwbEMtcXh4VG5DaXpZR1oxZS01eWtDamRnU2wwNmRQWHJXVWpxclBqSVBpMllXRlRkeFl5WlptXzdHNjc0RHl2RFNneGJGbkdEMFB3NGRVejNuNUo2RlE0TGhvblBobWY5ZkNaYXJGbElTU3B30gHnAUFVX3lxTFBFWUduWXQ1RFpIUlVzcXh0OUtSak9GNHpZRTFBY3JPQ3lvY2ktUVk1dEo2V21UR0k5OVY5U2oyakdVTWlibUd5ZDRFLU9LVDh5NkpPeHVLZ0lMUXBtVzRXZ1BHcV9PbkZGQkJvOEcxVk05cnVnMFdOTC1tY180MmRiMGVsdTFlM0l5NGRXZnRaOTdMUkRldF9fUkUwV2x3VWVRdjBYWWJxUDVCQmRwZUtwWDZESUJSWmNzdWV0el9WTUx6dDZzQ3c0LXNPbk5iNEg1T3BuVHVxV0YwZjQzRi1OUXJHVTRVTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4f340dd25ce",
-      "title": "Sunlight, blood sugar and diabetes: a new study finds an intriguing connection - News-Medical",
-      "published": "2026-08-28T00:48:00+00:00",
-      "summary": "Sunlight, blood sugar and diabetes: a new study finds an intriguing connection&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fccc3592dde6",
-      "title": "World’s first AI-assisted brain surgery removes tumour: Artificial Intelligence guides surgeons in real tim... - Bhaskar English",
-      "published": "2026-08-28T00:36:06+00:00",
-      "summary": "World’s first AI-assisted brain surgery removes tumour: Artificial Intelligence guides surgeons in real tim...&nbsp;&nbsp;Bhaskar EnglishA Tumor Threatened His Sight. Surgeons Used a New Tool to Remove It in a World-First Brain Surgery&nbsp;&nbsp;inc.comThe AI-assisted Brain Surgery that Helped Preserve a Patient’s Vision&nbsp;&nbsp;ColombiaOne.comThe first AI-assisted brain surgery helped a man in the UK regain his eyesight. The surgery was a research trial, financed by the National Institute f",
-      "sources": [
-        {
-          "name": "Bhaskar English",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaExUajZSQWNyVmhCTkdBX0pZdGNwOVdpTndSQ052d0dYZU01SWpsT3l0MDBBdDBwaFlRQ3BJcFdGX09PUXhya25HWWxpS05Td0JWM2o3UmVKNHl1cEdsakNRazIzSmNDdFJiVjZDZnNaX3ZFQVMwUGxHUkxYeHI5d1M1dUt6LW9IcHNSRlpGcl84MlpQeThoVWE5d3JQU0Y1RkdlUlNhdmRoc2gyU2tqbmZNMHMwWGhCLVFzbkFWV1XSAcYBQVVfeXFMT09zZ1BOMkpCZVliQ2hTdms1UUhrb2xhRWhuMEdIZ2VMNmdZcHJhUkJuM1NHUzg0Ml94Sm9UbDlaTUdxNy1UQW5panNPcWpwdEcyRFZHa1o5Q1p6SHBXNzhPRXFaek9NVUxpWFNrTjVkdG40dDI4UFZiR1dVcnJKSTdvV3lxR1M0bzFXVVRGaDU3WE5wX3dqOVVCYUhaVnRtSFg1SFVvcDdXMTBVYVNkM3ptNi1nUDA5S0g2dDgwR3ZOY3cxY1N3?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOLWxETW1wdEFfNUwyZEZaSzhKQWVKcE5MSVoxUVQ1Tk03a1ZTOWlMX0VTTHZoejJtV0t0bmZpc215QTBDaTNTWlBUUGQ5Xy1LRlp6bWlLbXl6OWFvcThoeXVUN0JqUzNsRE4yQzI5WTVfWWpIcDZ5czZ2N0NzN0ttalJQbDJGUWVwazJDY3hOZTNOT0ZWWXctc2ZfWmhfQzkzUzQxM1FmX3k1Y3VpMGJtUUk5eS0tQU1jdnZDdkdtUmVlUHJZMzJKeVdLQ1NXVERnMnF1R0RSaVVlazhTY3JNaDNLU011eEFqenRycTktRjJ6NmR5eGdWWi11OUFKZ2hhd0NnZ0d4NGhPTjZiUE5xWXVOa0diVEZsMERj0gGgAkFVX3lxTFBoWFdTU05lM05sdkJuS0REWXdPdkdKdmV3SWlWSmJxc3BLZjRRZ29yOFFCb2owQXZsY2RYaVJONkZmUE45WkZLeTdBZlJ3WWhDREhqc0Vudnk1a3FiazRUS2lmblZ3a0FZT2ZHVW1DRzNoODhlZnV1N1hDWjBQWFVBajEwd2QzbC1fcVFhVDJ0Q2Q2MV8tTUxyY2JUcUJGcHN6MGVTcGl1Q3ZySi1fd3RYTjJwVEI3c0s0OVNTVnBpeklHVnY3bWNSd3B0YUxUczJiT0tHT05BcUtDRkFzVmV1SV9wQ0EyWFZGTzZwTkdMMnQ0dlBvaElNMllRV094QXROUjdIRlJxYWg5THRjTDVXRy1VRWFCMDV2QWNWM3RzUA?oc=5"
         }
       ]
     }
