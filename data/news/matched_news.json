@@ -1,20 +1,257 @@
 {
-  "last_updated": "2026-09-06T14:27:36.474151+00:00",
-  "total_count": 91,
-  "matched_count": 69,
+  "last_updated": "2026-09-06T19:38:44.242564+00:00",
+  "total_count": 93,
+  "matched_count": 67,
   "news": [
     {
-      "id": "6ef1b88be4ca",
-      "title": "Real-World Data Reveals Underdiagnosis of SCLC-Associated LEMS",
-      "published": "2026-09-06T14:09:21+00:00",
-      "summary": "Real-World Data Reveals Underdiagnosis of SCLC-Associated LEMS&nbsp;&nbsp;CancerNetwork",
+      "id": "7d2154a02927",
+      "title": "Scientists map 300 million connections in fruit fly brain - The New Indian Express",
+      "published": "2026-09-06T18:42:55+00:00",
+      "summary": "Scientists map 300 million connections in fruit fly brain&nbsp;&nbsp;The New Indian ExpressA connectomics milestone: Mapping the complete male fruit fly brain&nbsp;&nbsp;Google Research5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience&nbsp;&nbsp;blog.googleFruit Fly Brain Simulated Inside Minecraft&nbsp;&nbsp;x.comHow the brain of a fly may help explain human behaviour&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "CancerNetwork",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZWI3VGhJb1NjNXF5NEYxc25RUENsZ0JSWEFMT2hBVzJOMFZqcW9GalRuMHUwTnRZZWkwX3E4NzVpb3BkVndUM09jOHpzQnhWQXBDM2l3SktrMzlTdnJFQlhRYjctXzVCTTREYVVCcFBlSm03SV9iQkRtbHI3RjNsZjBBd1g1dHJWcWdINzZNMmcyU3R1N25ZeVVTaG9qZw?oc=5"
+          "name": "The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWmpFMDM4UF92Nkh6TjJ0YzNJbXZXemxueGhrbUZxcHI1S2JMdmQ5N2xCMGFfWks3ZXU1UHF3MkNYQ2g5M0J4OTJWLVgzN1JvY1pyWTFiODgxMURHNWZBWlhreDNRUUlKTnM5bm5neTRNNWI0YmZEOHhtTnE4dXpNeWlkdVNGWGcxc0Y2TDRzUk5EZmlpU2pfblVQYnFwam16Wl92QndPam85ZE9iblZ6dlluR0pmeXZUNGd1dtIBygFBVV95cUxOYmxXRlVGT2VfOGFwTld1Qjk3bzlVOU9idFRORGFhQUE5aWY1dXBJZ3dDMlBicW91LVBXcWppY3NRWjJVMU4td3VPRndIakwxUW55S2RlNzd0OFdWNVpLeUZRSlZKLW9tVks5ejd2NElMeUgzdGhxOTU5cXlGT3JCZTlxQ1pYTERxNGFURm50WWZqOVcyellROU9NYVY4bENTYnU4V0R5bWp1SjlHbVhhYXFSNDJDUGdGQVJyczdoOUZVaWpzYmVRb1Jn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "465703fce7a4",
+      "title": "Enceladus is just 504 kilometres across — roughly half the length of Great Britain — yet a 2026 study traced its electromagnetic Alfvén-wave wake at least 504,000 kilometres downstream through Saturn’s magnetosphere, farther than the Moon ever travels fro - Space Daily",
+      "published": "2026-09-06T18:30:00+00:00",
+      "summary": "Enceladus is just 504 kilometres across — roughly half the length of Great Britain — yet a 2026 study traced its electromagnetic Alfvén-wave wake at least 504,000 kilometres downstream through Saturn’s magnetosphere, farther than the Moon ever travels fro&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HSHNDaWRDTzFzZEJ3akdESUU4b29vWUFYYjBxNFhjbFhMU3FQZVJlSDFyZXBPQzA0dDdrT1gwREFBdFRmeTNqYlNsRjNSaFJNcUkyX2o1RG9sWnlVV3haSk1YSklTakhWcDBReFRKcXc4Y3QwOFBsWDBR?oc=5"
         }
       ],
       "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "5ce75083aed3",
+      "title": "ORFAN-MAESTRIA: AI Predicts Cardioembolic Stroke, Atrial Fibrillation from CT Scans",
+      "published": "2026-09-06T18:03:10+00:00",
+      "summary": "ORFAN-MAESTRIA: AI Predicts Cardioembolic Stroke, Atrial Fibrillation from CT Scans&nbsp;&nbsp;HCPLiveThe Coronary Artery Inflammation Controversy&nbsp;&nbsp;Ground Truths | Eric TopolZEUS And Lp(a)HORIZON: Biomarkers Vs. Cardiovascular Outcomes&nbsp;&nbsp;ForbesNew Data Validates FAI-Score Biomarker, Highlights Potential Non-Contrast Cardiac CT Opportunity&nbsp;&nbsp;dicardiology.comWhat CCTA-Based AI Detection of Coronary Inflammation May Reveal About Patients with No Traditional CV Risk Facto",
+      "sources": [
+        {
+          "name": "HCPLive",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObTdDdllEZnpJQ2x2Z0VJQ2hxaGRYSlhjREVqR292eFpzOVRvU3B3amR4NUExdUZMdHBkSXFzQlplUFhocEVqYUZqdUhPZWpqRVJmMHhNVUZ6R1BrSlVmQWNlZWgtS041OVVtazd2Wk5ubXJIUXkwY3AxZGExUmVDWGJBYmZfTUNLc0I5WHpWdmJLbXhjNkM1TGlIaVFMNi1vWDJTc2ZCajFZZ2U5N0JB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "generic__cardiovascular",
+          "name": "cardiovascular",
+          "keyword": "cardiovascular"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__heart_disease",
+          "name": "heart_disease",
+          "keyword": "cardiac"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic_stroke",
+          "name": "stroke",
+          "keyword": "stroke"
+        }
+      ]
+    },
+    {
+      "id": "e4e2d1ef4d5e",
+      "title": "Triple M Overlap Syndrome: A Rare Complication of Immune Checkpoint Inhibitors",
+      "published": "2026-09-06T17:39:45+00:00",
+      "summary": "Triple M Overlap Syndrome: A Rare Complication of Immune Checkpoint Inhibitors&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1BqV2tmMHo1d29wTDk0ay0zMTVrOXlIa1NtUFVyd3plcTVtcV9lT0N3VFJyMkNFSEx0RHRBc2ZDdVd0LWEzaTFHVnBuNjA3QlJpQTdpVFd6c2hEVXM0bkxKVHVxTFJwUnhwRUNBWi1za3l5NzhTNG5uUjQwX1BxMmFKdWx3a21OU1Z0bUxDeHpLc3hrNV9XQUx0cmxnZWJQdERCdEVRRlBLbDhOd2dJNFJiOTA5bDg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0937bec6e2ef",
+      "title": "New prostate cancer screening advances improve early detection",
+      "published": "2026-09-06T17:36:00+00:00",
+      "summary": "New prostate cancer screening advances improve early detection&nbsp;&nbsp;News-MedicalProstate Cancer: Cases Rising 3% Annually as Experts Urge Screening&nbsp;&nbsp;healthline.comOpinion: A message for men over 50&nbsp;&nbsp;Idaho State JournalProstate cancer awareness month: why men shouldn’t wait for symptoms&nbsp;&nbsp;KATVProstate Cancer: What Men Should Know About Screening, Diagnosis and Treatment&nbsp;&nbsp;City of Hope",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTkhkTkltLUtsMVRaV0tENkRaVHI5V25fVDREV3B0Q3pMaXlWa2NIS1UxbnNDWjlMdTNzR1hOT1ZITEZBNFpicElCRFB5S1Fuc0IxRm1Fa1N4dTRSSlFET01Zd1RJVV9TSUN4eEVKRFpkVlRzWEdzamxEdjJENFVBZmdTSC1aZGh5a19IeWVINkU5X0t4bnJld1ItMkJ4cVhMQ2ZXYjdHLTI5cmlneEVr?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5159",
+          "name": "prostate carcinoma",
+          "keyword": "prostate cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "8315",
+          "name": "prostate cancer",
+          "keyword": "prostate cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
+    {
+      "id": "72a2b616dc7b",
+      "title": "Characteristics of Posterior Root Tears of the Lateral Meniscus",
+      "published": "2026-09-06T16:55:08+00:00",
+      "summary": "Characteristics of Posterior Root Tears of the Lateral Meniscus&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVnVFSk8zMUNlOGR1RTUwQ3NiWmdmVGpvZ0p1ckRvNWZFb0FDY1NHYUVwZFd4NjVmSU85RElLYmprRGgyRFBKRDdqZDMwSUlRX2lZLTd6bzZOaS0zNDZ6RU9KaW5GRkI2ekJDODZyZF9obkxJa1NDeXJ1ZUhJUHRGemJPSXFwRFZFajVLWnBRd3c2N2pmR1JCbGlhQUJ0blZlM052Mw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "acf0c59514f1",
+      "title": "The One Seed Dietitians Recommend for Brain, Heart, and Gut Health - Real Simple",
+      "published": "2026-09-06T16:00:00+00:00",
+      "summary": "The One Seed Dietitians Recommend for Brain, Heart, and Gut Health&nbsp;&nbsp;Real Simple",
+      "sources": [
+        {
+          "name": "Real Simple",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14cUtnV1JjNEt1RlI2M2lGckZZN1B5ejZVN1NJQkRzN2laaFR1SVdmWUVULVBzcnlRaUJocmYtLU1BbExuMi1QRERuaEtsZDVWbUVoRUo3U1JOc2dIR29FWTFjeXM2UmZtblUydC1oUkNWUXN0OFJ5N3NNTE0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7c9a2cb9c5f7",
+      "title": "Scientists get close to discovering dark matter - The Daily Star",
+      "published": "2026-09-06T15:59:52+00:00",
+      "summary": "Scientists get close to discovering dark matter&nbsp;&nbsp;The Daily StarScientists Hunting Dark Matter Found Something Strange&nbsp;&nbsp;The New York TimesHave scientists discovered a dark matter particle?&nbsp;&nbsp;Al JazeeraLZ Sees Surprising Result in Search for Dark Matter&nbsp;&nbsp;Berkeley Lab News Center (.gov)The LUX-ZEPLIN experiment beneath South Dakota found one particle interaction in 220 live days that researchers have struggled to explain using known background processes—not a ",
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmZEZzEzUkVVS2Z0ZlBWVjFBTjNaY21zZldNRlQ5UTA0RW5ON2tpMDdZaE9pRzlXdWRRWkFqZWZMd2d3MDFJVUNFSTFhOFRUUndzZHczUU9qSU0zRksyNkVZZkViUDhrXzA5OC1CbU44OGJBWlZMVEVsLXE0M0VhMC16Q1U3RGdmcFlmdWtVaTN1eFhJZEJrSlkwNzktZjNUekQtaQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5d76c3125348",
+      "title": "Drug-resistant ringworm fungus has spread to 29 countries: Study",
+      "published": "2026-09-06T15:51:43+00:00",
+      "summary": "Drug-resistant ringworm fungus has spread to 29 countries: Study&nbsp;&nbsp;NewsNationSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSHVCc2E1VGdldlFJY0RJeUpNYWoxWENxWmdxOXMzaEgxR3hORjJ1NmRSamJTZlg5NjhYcmZZbFZ5WnNud1JFbG5jNHh0RHVhNVV2aUJILTNvazExaXkxbUdJRDZYNTVUZWsyVkQ4dG5WMHZ0RmM0WGVLN1hTM2RuUURKQ3BpekV60gGOAUFVX3lxTE9WV3liRi15SEt2WV9XWjRERkFpZm5lTVo1YTAzb2FfWEtDRmlGaHRhWGRiLXFXeDVFeS02dTNTWUxzRWtlVFo1c05TNmRqY2xpN2hCcDBmX2tiTUZTSDZ5OWRCb2JHVUxwRXVDc0w5dXhSQnJ4TVdYbDJkWE9yeDdoNVpLMnZGWmMxbnJSa1E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "091dc356cddc",
+      "title": "Long-Lived Monocyte-Derived Cells Found to Support Lasting Lung Immunity Against Influenza - Pharmacy Times",
+      "published": "2026-09-06T15:33:45+00:00",
+      "summary": "Long-Lived Monocyte-Derived Cells Found to Support Lasting Lung Immunity Against Influenza&nbsp;&nbsp;Pharmacy TimesHidden Immune Cells in the Lung Could Lead to Better Flu Vaccines&nbsp;&nbsp;University of Rochestercells provide innate immune help in the generation of functional memory CD8&nbsp;&nbsp;NatureA Lung Cell Textbooks Call Short Lived Turned Out to Survive Four Months, and It May Fix Nasal Flu Shots&nbsp;&nbsp;Medical DailyKey Immune Cells Identified That Could Strengthen Flu Vaccines",
+      "sources": [
+        {
+          "name": "Pharmacy Times",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFROd0M5aG9IQS1DUFBXVjh6eDRYWWJtYmRvbFVLVjMydDluRVJDUU5HSDUtREJxdzl2UXczT3NrMC1FVGlKemR2YkxVdlVRdDdOeU1JS1JpaHBjMVB6MVVHcW9QOG1YNEpWRXlMc2dwajNtaEllbHhpa3cyV3lIeWpCa1d6c0xUVWFiMWRsOW8weTdoZUlIbHFINzBkYld1a2JneFpWRmtoNUhUNDRXVlFRendVZk5IX3Q1dUtRMURVWVU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB03904",
+          "keyword": "urea",
+          "name": "Urea"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5812",
+          "name": "influenza",
+          "keyword": "influenza"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5812",
+          "name": "influenza",
+          "keyword": "flu"
+        }
+      ]
+    },
+    {
+      "id": "ae6f93d1b0ae",
+      "title": "U.S. study tests psilocybin to fight cancer side effects - The Hindu",
+      "published": "2026-09-06T15:10:49+00:00",
+      "summary": "U.S. study tests psilocybin to fight cancer side effects&nbsp;&nbsp;The HinduPsychedelic drug shows promise for preventing chemotherapy-induced nerve damage&nbsp;&nbsp;pharma.economictimes.indiatimes.comMD Anderson poised for trial of psilocybin in blocking neurotoxicity of chemotherapies&nbsp;&nbsp;BioWorld NewsIn Future, Psilocybin Doses May Precede Chemotherapy&nbsp;&nbsp;A Rich LifePsychedelic Compound Found In 'Magic Mushrooms' May Help Prevent Painful Chemotherapy Side Effects, Study Finds",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGppMXNOVEFQZlQyZ1FOdGdndGIxZVZwSm4teFFwR3FXYlNEbEJwWHMzdUxkVTRVVkc3bC1pQldicTZGRm5UVnp4cVhuVkJoU3VPMmY0Smg5MkFTZ3FFdnJiSy1fN25qTkVjYnhYclNPSXJicE55ZmY5bDdSR3oxS2JDZFBqM3FlYTZ4WXhTZUw3QnJUa0tDZkE0MFFucWc5a2FLaHBPVW51TTNhNlN0dnJMUzZVZ9IBvAFBVV95cUxObEN1SjQ0VTFIUEZ0UUx5OGY5aW1adE5TRGxpODI0YjV6Tkx3bF9ZTWFKSUNQUkJNbXRDUEdrd3ZxZnRESmtDeUNoY19UTnhOWmdFWVZnbmFkYjVBZFRTc0J0dDlKU0RJZ3l1cjB5R2Y1VHpoVm9MTmxKLXlIcjdtSjV2Yk1seVQwZW5VWFVqZHd4M2lXOE5od0xacDJXcmtNOXNENjhtdTdmdkllekhLQzNtSmNKR0ljNXBhXw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB11664",
+          "keyword": "psilocybin",
+          "name": "Psilocybin"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4979",
+          "name": "asthma",
+          "keyword": "dama"
+        },
         {
           "type": "indication",
           "disease_id": "4992",
@@ -26,6 +263,130 @@
           "disease_id": "generic__generic_cancer",
           "name": "generic_cancer",
           "keyword": "cancer"
+        }
+      ]
+    },
+    {
+      "id": "097bafbdde87",
+      "title": "Statins Linked to Lower Dementia Risk in Massive Type 2 Diabetes Study",
+      "published": "2026-09-06T15:01:54+00:00",
+      "summary": "Statins Linked to Lower Dementia Risk in Massive Type 2 Diabetes Study&nbsp;&nbsp;ScienceAlertSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEN3ellHTk5zX3NCQTM1em1LQ1VQUWFQTDJxTzEydnIyMFJnZko3RE5Wa2lMcWZtdC1heU11Tmd6cEtHOGI4QlZsREhQUTJ6NndUQ0E3cVYzeUx3ck15Y2xfYjI3eGNLYzJGNTBxcHZtMng4cTVlSy16ck5BN2pVNE1GQTNiVmN2TWdWckdfZjB6N0xfRkp0WncxRHdhUTJp?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic_dementia",
+          "name": "dementia",
+          "keyword": "dementia"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic_diabetes",
+          "name": "diabetes",
+          "keyword": "diabetes"
+        }
+      ]
+    },
+    {
+      "id": "823f8133aae9",
+      "title": "Let your mind wander, don’t retire and stop worrying: surprising ways to help save your brain from the cognitive cliff - The Guardian",
+      "published": "2026-09-06T15:01:00+00:00",
+      "summary": "Let your mind wander, don’t retire and stop worrying: surprising ways to help save your brain from the cognitive cliff&nbsp;&nbsp;The Guardian3 things to try to improve your brain health&nbsp;&nbsp;The Washington PostWhy some people stay mentally sharp well into old age&nbsp;&nbsp;Earth.comWant Sharper Working Memory With Age? Build This First&nbsp;&nbsp;Yahoo7 daily habits that are secretly ageing your brain – and what to do instead&nbsp;&nbsp;goodhousekeeping.com",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVdVZ2dNdHJOQnVVNWNFdHhlcHdpM3VFX3QzaGFld1NiWWZRblM4cmxVTTFiS3AxbFBsdWF4WjE5YkhzWkx6MHVBeEJ2QUZVY3puUHBDaXpVWlFHQmM1eFlnZ2J3RGxzMl9YakJiblQyVHE3UjV3Q0NfMXlEQ2xVazFRQjROcElBdEhwOThRRXhKT182bERfY1BsMEp6a1VCaFBSMFBLeVo1VGpjQWIycTJR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "11cd31590c7e",
+      "title": "Association Between Blood Transfusion Volume and Adverse Clinical Outcomes in Chronic Liver Disease: A Retrospective Observational Study",
+      "published": "2026-09-06T14:59:45+00:00",
+      "summary": "Association Between Blood Transfusion Volume and Adverse Clinical Outcomes in Chronic Liver Disease: A Retrospective Observational Study&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQOWxIamVxSmVtWHpJS004ejM2QnM0am8wT2Q1RktuVHlwVXhZblpJZkRGZVV0Q3BkZHI4VHZfcC1CVTkyWF95NjFqWEUtU3ZXeENya2ZiQkFfRXd5QlkxZFpLQlZEb1BCbDNFWkh1YVhLSzcza290djM4RmdFcnFlV25LMURvcDNIakNkU1JaMHJFVDRYX0ZJeWh5V0RaMTM0RHVmZ1hfd0VRZGxqM1AyYjVqTFl1SkxBaEZFZGpQN3U4eG8wNzFPUFMtVWZ0MFhxVzEzWmNmd1hUU3UzQnZiVGxDNEVqYm5KTUtyV1FaTGRJbDZTWVNKU2hNT1VTYTV3eXZkSw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "5154",
+          "name": "liver disease",
+          "keyword": "liver disease"
+        }
+      ]
+    },
+    {
+      "id": "4a4dedcaa398",
+      "title": "More children under 12 in U.S. are being prescribed weight-loss drugs, study finds - The Hindu",
+      "published": "2026-09-06T14:33:54+00:00",
+      "summary": "More children under 12 in U.S. are being prescribed weight-loss drugs, study finds&nbsp;&nbsp;The HinduGLP-1 use in US kids under-12 soars - even without FDA approval&nbsp;&nbsp;The IndependentChildhood obesity prescriptions for GLP-1 drugs surge in the U.S.&nbsp;&nbsp;News-MedicalIs GLP-1 Social Media Content Really Harming Teens?&nbsp;&nbsp;MedscapeTeenagers feeling the pressure of weight loss drugs&nbsp;&nbsp;WSAV-TV",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONkxfU0drU2ZMQXdRSHZUN2J1Ny1MZEJGeUZ6MlN0RG02QkhMY0dCWlJ3NTgxcHZYZUFWbjFVR3FSZHFwLUpMc0ZKRUZzSlpfUGFtRlA2aGMyNDMzQzVlXy1tNVRvN3VkZG1URjZXbVVVVU42YmVaMTZsYVRQc3VSdWFCa21meTNIeUVDWkl1aXlnTnRWeUV1TE1taWtadUNJU3dPRHhsTHNiR0g3cFVSMFVIbjliNnAxUFhTbkloU2FfaTdweFFFVUpOeU4xLXVmX0k5VmhIY9IB3gFBVV95cUxQYkgwdmo5NTVRbHNKRW1JaURKS1BoTWNFb1h1RzdxZGJYRGtGcUQtRDZxSk1JMnEtUHdRSmd5dUxmTUphSVc5d05aNVRFYkhOWGZRcklHM2pPYUlobVJ6a05nMWJldURPWE9xcWk4VmRPaWRCQnRNQXhZelgycXZka002ZTRiRWItNUs2WVE0RzZwVlhZeTZ4OEJfajBTcUNaUEUyRGF5NW1XdUlTcVBoNTBNWmcwSWdEV1JCZE1VYlZNZno3ZkpnQjVrMDdSZ2lpdzFYV3J2OWFxN1ZfNlE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "c52c78f61da6",
+      "title": "Not all types of dementia cause memory loss: what happens when it strikes early - The Hindu",
+      "published": "2026-09-06T14:19:54+00:00",
+      "summary": "Not all types of dementia cause memory loss: what happens when it strikes early&nbsp;&nbsp;The Hindu“Most people miss this warning sign”: the overlooked symptom in 80% of Alzheimer’s cases&nbsp;&nbsp;Futura, le média qui explore le mondeSeptember is World Alzheimer’s Month&nbsp;&nbsp;westerniowatoday.comEarly Alzheimer’s diagnosis can improve care, protect rights&nbsp;&nbsp;omanobserver.omWorld Alzheimer's Month 2026: Dr. Mohana Rao Patibandla Highlights Early Recognition of Memory Disorders & B",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZGtvWk84UnpyVm5RV0g4RExiN01kQUhQeHlLTXNDVzRucmhPQmFsenBvY1pCS2x0TGNUYW1zZ1dMZjFKTlJWeGVEWmZQcUV0ZWxqbGVHMXZEYjI2WUgwOTlTOFpJVUpaSGppNlA3cTlyRnE0UW9ORTBXeHlzellOSnBNYlkwX2tqYzdONmR4VmtyaTRvbnZtVU5XTmpWWDBXVUwxUXV1TDhGUjdPM1BaVVFvTnE5LVFWczZXaXlobklWalhzOGlfNURiY1FYUmFvRUI2dWVB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic_dementia",
+          "name": "dementia",
+          "keyword": "dementia"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic_dementia",
+          "name": "dementia",
+          "keyword": "memory loss"
         }
       ]
     },
@@ -50,13 +411,13 @@
       ]
     },
     {
-      "id": "34bca2ed6170",
+      "id": "14a2c23c01ec",
       "title": "Immediate Unrestricted Assisted Full Weight-Bearing After Bicondylar Tibial Plateau Fixation: A Case Series",
-      "published": "2026-09-06T13:15:03+00:00",
-      "summary": "Immediate Unrestricted Assisted Full Weight-Bearing After Bicondylar Tibial Plateau Fixation: A Case Series&nbsp;&nbsp;cureus.com",
+      "published": "2026-09-06T13:44:45+00:00",
+      "summary": "Immediate Unrestricted Assisted Full Weight-Bearing After Bicondylar Tibial Plateau Fixation: A Case Series&nbsp;&nbsp;Cureus",
       "sources": [
         {
-          "name": "cureus.com",
+          "name": "Cureus",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcEE4VlF1a0tXU2xVZ0thZmlncVdpbVo3RWRfN09CZUYzeTJJaE5oaFZSYmFOY19faXB3LTFuSjJBVll2Y2x0UklRMXdkODFfWFk0TktycUtlMTFncFV0ZDEtdHR2dEZYMjFtU0pvcEFocy1LbTdndWFCTmU2MHUyNUIxOXdsbjc2V0IyTjBjNkZWaF9TS2hlRE9FUDZpV0p2U2FxZkFrSkQ2eFFIeGZEcWxROUtLODVQRDdoSlVXWXVVQVV2VmdKWHBFWVNTeHVHLVpYak5ETDNwLXdFcGc?oc=5"
         }
       ],
@@ -70,13 +431,58 @@
       ]
     },
     {
-      "id": "83ef7dd0d75e",
-      "title": "Endoscopic Removal of an Intrabronchial Foreign Body Using Single-Use Flexible Bronchoscopy in an Older Adult: A Case Report and Review of the Literature",
-      "published": "2026-09-06T12:44:45+00:00",
-      "summary": "Endoscopic Removal of an Intrabronchial Foreign Body Using Single-Use Flexible Bronchoscopy in an Older Adult: A Case Report and Review of the Literature&nbsp;&nbsp;cureus.com",
+      "id": "79a98f06c04a",
+      "title": "Pig Kidney Transplant Patient Survives 271 Days, Then Successfully Receives Human Kidney—Setting New Longevity Record",
+      "published": "2026-09-06T13:05:00+00:00",
+      "summary": "Pig Kidney Transplant Patient Survives 271 Days, Then Successfully Receives Human Kidney—Setting New Longevity Record&nbsp;&nbsp;finance.biggo.comPatient Who Received Pig Kidney Becomes First To Progress to Human Kidney Transplant&nbsp;&nbsp;Harvard Medical SchoolPig kidneys successfully transplanted into humans&nbsp;&nbsp;Financial TimesPig Kidneys Yield ‘Life-Changing’ Independence From Dialysis&nbsp;&nbsp;ForbesPig kidney saved a kidney failure patient from dying for 9 months before needing a",
       "sources": [
         {
-          "name": "cureus.com",
+          "name": "finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PcWFvZ2lhZWtyV3hZU2RSSDN5MHhHWkNFVXJXM2JIYkVmeHptbHVHT3JOVE5Gel9jRHFfMFpBVS1kbFd3d3A4ODNhOUxFaklSZHpycFVPT2J5RHBLei1BVDRjdmQtSmhUTjZjR1BMQWhFalhmcmc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5300",
+          "name": "chronic kidney disease",
+          "keyword": "kidney failure"
+        },
+        {
+          "type": "indication",
+          "disease_id": "1106",
+          "name": "kidney failure",
+          "keyword": "kidney failure"
+        }
+      ]
+    },
+    {
+      "id": "97030e6fd311",
+      "title": "The sleeping x eating secret: 15 ways to better rest, a healthier diet – and a happier life - The Guardian",
+      "published": "2026-09-06T13:00:00+00:00",
+      "summary": "The sleeping x eating secret: 15 ways to better rest, a healthier diet – and a happier life&nbsp;&nbsp;The Guardian8 Foods That Can Help You Sleep Better at Night, According to Dietitians&nbsp;&nbsp;Real SimpleThese 8 foods and drinks may be hurting your sleep — here’s what experts say to avoid&nbsp;&nbsp;health.yahoo.comDietitians name eight foods that may support sleep&nbsp;&nbsp;UA.NEWSDietitians Agree—Oatmeal Is Actually a Great Bedtime Snack to Help You Sleep&nbsp;&nbsp;Verywell Health",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTUV1WmxGUmtmNHE2b1JacTZ5LTVWcUZ4NUdac0wyZUU0WjNOWXktSEM4VVlTRlJ2NkxwN25oeUFnTlBPbjVOUklkbnk3VkJLeVJiWVF1TW5nOUxOSkJxNHBMdDVLSk1iMUpTWTRJWWZRSnplejF4NWlRLWdyNDlYOWdPd1Ezd0QzeGRPUnhoaWItel9Ubmg2UDFlUmFTdGh3YzVEbW55ZmNHT19ESzEwam12QnVHbjNpb1EzRnF1ZHVYd01nUlVfbDhzOGo?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6701a8a56183",
+      "title": "Endoscopic Removal of an Intrabronchial Foreign Body Using Single-Use Flexible Bronchoscopy in an Older Adult: A Case Report and Review of the Literature",
+      "published": "2026-09-06T12:44:45+00:00",
+      "summary": "Endoscopic Removal of an Intrabronchial Foreign Body Using Single-Use Flexible Bronchoscopy in an Older Adult: A Case Report and Review of the Literature&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
           "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNdk5aczEtMmZvcXZWVzFMZWZvZ0U2Ni1uaUdpOHhEam92OVdBOUF1cnJvU1ZRVVdIUW5RVXBJQ0V4VF8xNzI1NVF2RTdMZURnRm1aMFBpZVJzYUtpSTd5UTd5NmZyRXVOMEwwbnNQckM1d09ScW9vYTRkc0FCX0NLYkx2YV92el9kU1RQV25sdGVFaFo0aUdrLVZRUXVMX0F1d2ZiNTA2Um10bHZHOXpWdGg0Z00yNHB4cmhZNnVwbV9DbHdFUEhyOW1YUmhiaVJSVGVLOVBPV2trN3l0UDlsQ1QtTU9DRjhCWGJ4ZENpOVVxbEZpWExIb2ltSmY3QkY5WG1aMXRvcGZBdXlvM1ViWHg4c3ZBU3dMX3p3?oc=5"
         }
       ],
@@ -90,10 +496,42 @@
       ]
     },
     {
+      "id": "c20f275fe8da",
+      "title": "New urine test kit can detect 9 in 10 cases of bladder cancer: Study - Deccan Herald",
+      "published": "2026-09-06T12:05:12+00:00",
+      "summary": "New urine test kit can detect 9 in 10 cases of bladder cancer: Study&nbsp;&nbsp;Deccan HeraldBladder Cancer Breakthrough: New Urine Test Accurately Detects 92% Of Cancers&nbsp;&nbsp;NDTVStudy finds GALEAS bladder 92.2% sensitive, may guide cystoscopy decisions&nbsp;&nbsp;NewsBytesRik Bryan: New Data Highlight the Potential of the GALEAS Bladder Test&nbsp;&nbsp;OncodailyPee-in-a-pot urine test detects bladder cancer at home&nbsp;&nbsp;The Naked Scientists",
+      "sources": [
+        {
+          "name": "Deccan Herald",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDR5LXVDOTBOYy1la0VVUEFlaG9oSUtyOV9YX1RJZkpvdmZQT0cxTE9MeWMtU2VZa3JDaFNETzh6bGpvaWRRcjVJZXgwdDJyNG1xRUZQbl9NckZFaFU3bzdXVlNTbS1XNzNEcGMxRzN1S1VuYzVmSHlXYlN5ZXBRdTRjYVNZTUc3OHNkMkxKWjZnQVdQMDlCYU5TV3lNSHQweENLRmFiTzhCYmhLU1k5NkJaMEhqUU40X2pzbnd4RQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "1187",
+          "name": "urinary bladder cancer",
+          "keyword": "bladder cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4992",
+          "name": "cancer",
+          "keyword": "cancer"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__generic_cancer",
+          "name": "generic_cancer",
+          "keyword": "cancer"
+        }
+      ]
+    },
+    {
       "id": "a0c167b76e02",
       "title": "Study Reveals New Details About Death Of Largest T Rex Ever Discovered",
       "published": "2026-09-06T11:44:52+00:00",
-      "summary": "Study Reveals New Details About Death Of Largest T Rex Ever Discovered&nbsp;&nbsp;NDTV‘Winning the lottery’: Preserved fossil tissue reveals shocking cause of death for largest T. Rex ever found&nbsp;&nbsp;New York PostNeutron bone imaging brings T. rex to life&nbsp;&nbsp;Phys.orgFossilized tissue reveals largest known T. rex died from broken rib&nbsp;&nbsp;Popular Science",
+      "summary": "Study Reveals New Details About Death Of Largest T Rex Ever Discovered&nbsp;&nbsp;NDTVNeutron bone imaging brings T. rex to life&nbsp;&nbsp;Phys.org‘Winning the lottery’: Preserved fossil tissue reveals shocking cause of death for largest T. Rex ever found&nbsp;&nbsp;New York PostIncredible reconstruction reveals exactly how a 42ft T. rex died&nbsp;&nbsp;Daily MailFossilized tissue reveals largest known T. rex died from broken rib&nbsp;&nbsp;Popular Science",
       "sources": [
         {
           "name": "NDTV",
@@ -103,28 +541,46 @@
       "matched_keywords": []
     },
     {
-      "id": "35d7f04d0cc5",
-      "title": "Hornet Sting-Induced Type I Kounis Syndrome Presenting as a Non-ST-Elevation Acute Coronary Syndrome: A Case Report",
-      "published": "2026-09-06T11:37:30+00:00",
-      "summary": "Hornet Sting-Induced Type I Kounis Syndrome Presenting as a Non-ST-Elevation Acute Coronary Syndrome: A Case Report&nbsp;&nbsp;cureus.com",
+      "id": "61c4492c199a",
+      "title": "Do you eat dinner after 9 pm? Cardiologist explains how it may affect you, right time to eat for a healthy heart | Health - Hindustan Times",
+      "published": "2026-09-06T11:17:49+00:00",
+      "summary": "Do you eat dinner after 9 pm? Cardiologist explains how it may affect you, right time to eat for a healthy heart | Health&nbsp;&nbsp;Hindustan TimesHow meal timing programs the liver's daily rhythms&nbsp;&nbsp;Medical XpressEating jetlag based on meal timing discrepancies and risk of cardiovascular disease using the prospective cohort NutriNet-Santé&nbsp;&nbsp;NatureDr. Crandall: Earlier Meals Better for Heart Health&nbsp;&nbsp;health.yahoo.comWeekend ‘Eating Jetlag’ Tied to Higher Heart Disease",
       "sources": [
         {
-          "name": "cureus.com",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOVIzQmlSWnh4T0ZSaU1qUGg2YzBqLTB0cFVzaXRnWm9kN294NERSOFAyQ0hhZExfYzhtTXBhWkN1SWc5Qml2blZmRjExaGNZajhzUVpTMlUwYnpmVXR3ajEyQ2VRM2Ezbzh2LUtzQy1mb2Y0UTUtalBaZG43ZGVqNVBQV1R0YVJLdzhKcklPQ3hGaXNtOVlfbEdNM1REbUozdXFDU2paT1p2Sm92TW5vRDlMcFR2V3AycE55RjJzc1JYNkdSamc3UlkzblJKcDdvQUFrSGJmYm9HZVV0ckVkcXdSSkNWY2Fx?oc=5"
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZnQ1UXB1NkdnUDlHeGtXenB2TzhDVEJUU0tmRENia2EwSHBaUWVoWUNqazE0NzJIM1ZTZ2czc2FfR0hrbkowS0d6U2JzRDY4S2ZCMHNBZEN3WUxRN0tTWXgwVGpKOEI5eWdxdFUwdWk4Y215WkF2czd6a00tS1J5QVhYNzNPdVN1eUxSRW5FOFRCQzZHRTlqd3lXcjdoOURJQ2RuV0xhbGlCVFhQYTRoWWRud3Nvc3NXeWRIcGhQUGlwN21mYzFRbEx0TW44NmhQT0I4ZmJXMlhPMFY5VUliLV9iSnJadWxfTTJWUExhaXMtY3VDWFR6RmlOOUp5eUlfalh5R09PcE9OVlnSAZACQVVfeXFMUDJwdG5pUlh1U0tOUEtpQ185dFlrUmd1c01aOTBza1VpWHZiNWNSV3l6aERDcHZ5SFRwWWpKcmtvRHZ3OWY5SWh0T0xLUFJMX25tNnoxdTE3QVRkNlJOYU0xRklKMVJWeWJqNmY2THZZYWowOWg5c0RzYzNXbHdjdmZsbW1GYkRiTG42bWZ5S21MNzNuVW4xUHMyZFZIVlMzWEcxUDNoSDRLRFJKWG00bTRlUzQzdnA3T3BELXJHeDZWcW9OVHk5MGI3c0tkaFdFR3lRS3lORGJHQ3l5cE44YWhRYVAydmctMDJjZXg1dkNyNVlGRzJHaExEMG1zNnI4WHZIOThicWptWVp6bk9fN3A?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "disease_id": "5542",
-          "name": "acute coronary syndrome",
-          "keyword": "acute coronary syndrome"
+          "disease_id": "5267",
+          "name": "heart disease",
+          "keyword": "heart disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5385",
+          "name": "vascular disease",
+          "keyword": "vascular disease"
+        },
+        {
+          "type": "indication",
+          "disease_id": "4995",
+          "name": "cardiovascular disease",
+          "keyword": "cardiovascular disease"
         },
         {
           "type": "indication",
           "disease_id": "generic__cardiovascular",
           "name": "cardiovascular",
-          "keyword": "coronary"
+          "keyword": "cardiovascular"
+        },
+        {
+          "type": "indication",
+          "disease_id": "generic__heart_disease",
+          "name": "heart_disease",
+          "keyword": "heart disease"
         }
       ]
     },
@@ -176,7 +632,7 @@
       "id": "8cea2981c37c",
       "title": "HbA1c is not the whole story: What doctors check to know if your diabetes is truly under control - The Times of India",
       "published": "2026-09-06T11:03:32+00:00",
-      "summary": "HbA1c is not the whole story: What doctors check to know if your diabetes is truly under control&nbsp;&nbsp;The Times of IndiaHbA1c of 6.4% is NOT 'almost normal': Why this borderline reading can be a warning sign&nbsp;&nbsp;businesstoday.inSickle Cell Trait + Diabetes: Why Your A1C May Not Be Accurate&nbsp;&nbsp;Beyond Type 1HbA1c and anaemia: Why your blood sugar test may not tell the full story&nbsp;&nbsp;The Indian Express‘My blood glucose is always high (160-220) but my HbA1c is always unde",
+      "summary": "HbA1c is not the whole story: What doctors check to know if your diabetes is truly under control&nbsp;&nbsp;The Times of IndiaHbA1c of 6.4% is NOT 'almost normal': Why this borderline reading can be a warning sign&nbsp;&nbsp;Business TodaySickle Cell Trait + Diabetes: Why Your A1C May Not Be Accurate&nbsp;&nbsp;Beyond Type 1HbA1c and anaemia: Why your blood sugar test may not tell the full story&nbsp;&nbsp;The Indian Express‘My blood glucose is always high (160-220) but my HbA1c is always under ",
       "sources": [
         {
           "name": "The Times of India",
@@ -205,6 +661,45 @@
       ]
     },
     {
+      "id": "967d02e9437c",
+      "title": "Peptides can be stable in concentrated sulphuric acid: study - The Hindu",
+      "published": "2026-09-06T10:32:39+00:00",
+      "summary": "Peptides can be stable in concentrated sulphuric acid: study&nbsp;&nbsp;The HinduSomething strange may be happening high above the surface of Venus: New study finds a surprising clue abou&nbsp;&nbsp;The Economic TimesPeptides may persist in Venusian clouds&nbsp;&nbsp;C&amp;ENCould life exist on Venus? Peptides survive harsh acid.&nbsp;&nbsp;Universe TodayVenus-like conditions did not destroy these building blocks of life&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQVVqMUd4NlNUQ3hXc29ZRmc3V0xHZ2tJbGg3Y2RSeHlnQTR0blVOOEFETmFXOHNVeFpMQXMtZTBOdEFsRTBtNkdBWS1laF91d2pUSkYxOHF6Si1jNFFKTHhzNHdlRzdCVmF3a3RKZk5jSFU0R0NpRTllT3QxNlphd2pZV0VwZ0tOMVRkVlVBb2RKRmVlSWtuTjRsTXozV1J1THlzSWRydGwzSDZjXzY5MU9SSWtiV1pfUVVNX2Z30gHEAUFVX3lxTE8wbW9PQlZ3R0FmbW9keEZra25sOFZMbWRhb2plVHU5aFVvZGRoeWR4SEVySVQzZ1RTcEFzRGV6UWpmUU40Sk9VWGxyeVVUTjBsNnpyZkZBblpkQkFlbXFsVm0xcGlMY1B1RVBJaU9vX1ZGV0tMTkkxTWJ5WHNBbHBDcXlSMWtJT2RQcHl1dW01N0FjSXJRWXFrUnBPZnZZeHBjTjFtcGo1aHlicGJJcWVGLVlSSWhFdlJ2aExfTzZLSk54UHk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "drugbank_id": "DB08844",
+          "keyword": "uric acid",
+          "name": "Uric acid"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5393",
+          "name": "gout",
+          "keyword": "uric acid"
+        }
+      ]
+    },
+    {
+      "id": "fc9d009849ec",
+      "title": "Billion times fainter than earth: Chinese-German researchers build floating compass that could hunt dark matter",
+      "published": "2026-09-06T09:37:00+00:00",
+      "summary": "Billion times fainter than earth: Chinese-German researchers build floating compass that could hunt dark matter&nbsp;&nbsp;WIONChinese, German scientists build room temperature magnetic sensor | Sensor relies on levitating magnet | Inshorts&nbsp;&nbsp;InshortsLevitated magnet opens new frontier in search for ultraheavy dark matter&nbsp;&nbsp;EurekAlert!Chinese-German team develops levitating magnetic sensor&nbsp;&nbsp;UA.NEWSThis ultra-sensitive 'floating compass' can help search for dark matter",
+      "sources": [
+        {
+          "name": "WION",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ0x3MS15akZKZ0s1eUluSGViakhDcy1mUy1tMHhGTEZ6dWNCT3ZJRmxxSlVpb29SeDI1NmE4STBOeFh0cG84N29Pc1ZxZ3BUMkxPT0RKZGVGZ2FOTmZXMjk1ZWZEWWd0NjBObWIxNEtSVVhfNXNMOXZ2cmtFUS02X0NXeE44WEo2eHZjeW0zYzFERk1lelBiaEItUVdaT0FwZTVCT1JoN3AtWkpVbVE0aG5KZl9BelRqWll2Y0NKek9MbV9KZDhDZ25VTUVzaEFIbzZxSENqbU1ZTmpWT0NJUXVMNGNoOWJ6NDIwMUZn0gHzAUFVX3lxTFB3cFl6cTQxd0tocGZlV3hfOWF4MXdmN2I5cUFHcXRmVWk2Mzh3NWNHS1NrdWducGNZcjREUlZQY2NldG14eXVydm0wYWpabjRUZlI3ZWgyQ3RxOFJ1NW50VTFfYTEtUzlyUklGSnVNY2RINW1MMkhhNDRxcVBQdVBLN3F1a2k1UVFGaE9nZ0loVU1jTVFuMUN1UmxGTlh4UWhmNFgxdG1WdVRmTFdVaEE3SEhseTVJZm84X0dPS2REY01pckpjbU5rb3VySFg2dGs1Z3VjRDZuSFNNQkR6WE5PSmlCYUdRUnBEdnVjcENOSE94OA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "116de207647b",
       "title": "Predicting Keto Diet Efficacy in Pediatric Drug-Resistant Epilepsy",
       "published": "2026-09-06T09:04:02+00:00",
@@ -231,13 +726,13 @@
       ]
     },
     {
-      "id": "36d68cca6e91",
+      "id": "2a26d983e59f",
       "title": "Postoperative Quality of Life in Patients Undergoing Surgery for Breast Cancer: A Cross-Sectional Study at a Tertiary Care Hospital of North India",
       "published": "2026-09-06T08:24:45+00:00",
-      "summary": "Postoperative Quality of Life in Patients Undergoing Surgery for Breast Cancer: A Cross-Sectional Study at a Tertiary Care Hospital of North India&nbsp;&nbsp;cureus.com",
+      "summary": "Postoperative Quality of Life in Patients Undergoing Surgery for Breast Cancer: A Cross-Sectional Study at a Tertiary Care Hospital of North India&nbsp;&nbsp;Cureus",
       "sources": [
         {
-          "name": "cureus.com",
+          "name": "Cureus",
           "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWlZ3RDJWd3BnS21zVmZGLXdGemhkSndiODg3TTd5MWJWMjBrdFdZOXY1MW5QNjFWX3R6SWljczV3enVheUFyd1lLZ2NSM2FNR3FUYTJqbUtjM3JSY2ttZXdxajRQOTVfRVY1bHY4NHA2d3R4cU94QXJPaFlXS3ZCV3lGbGRKUzh0YmpyY2lpbXljVlpFM3dENUU3MC1DT19wN09taFlyWDdHdEVnSTNyTjBwSjY4VWFpV0lPbnNlZlBLemZYcGlVQjhZUlJPYXdiemt0bjdIalZXMDV3VGFLTnRYQWVtOGlvZWRBYVR3WldvajRDYkNxa21Gd0pzUHZUZkNKLVEwdl83RHNFdEphX0R3?oc=5"
         }
       ],
@@ -266,7 +761,7 @@
       "id": "871712f5e03b",
       "title": "Unveiling the Cosmos: MOONS Reveals Hidden Stars and Galaxies from Chile’s Paranal Observatory",
       "published": "2026-09-06T08:17:51+00:00",
-      "summary": "Unveiling the Cosmos: MOONS Reveals Hidden Stars and Galaxies from Chile’s Paranal Observatory&nbsp;&nbsp;freeyorkBritish-led instrument peers into the heart of the Milky Way in major astronomy breakthrough&nbsp;&nbsp;conservativepost.co.ukMOONS Spectrograph Achieves First Light: 1,000 Stars in Milky Way's Hidden Core Mapped at Once&nbsp;&nbsp;Tech TimesScottish-built MOONS instrument starts mapping stars and galaxies from Chile&nbsp;&nbsp;The Herald",
+      "summary": "Unveiling the Cosmos: MOONS Reveals Hidden Stars and Galaxies from Chile’s Paranal Observatory&nbsp;&nbsp;freeyorkBritish-led instrument peers into the heart of the Milky Way in major astronomy breakthrough&nbsp;&nbsp;conservativepost.co.ukMOONS Spectrograph Achieves First Light: 1,000 Stars in Milky Way's Hidden Core Mapped at Once&nbsp;&nbsp;techtimes.comScottish-built MOONS instrument starts mapping stars and galaxies from Chile&nbsp;&nbsp;The Herald",
       "sources": [
         {
           "name": "freeyork",
@@ -327,13 +822,13 @@
       ]
     },
     {
-      "id": "b92f2321446a",
+      "id": "a3ee9a8bbe3a",
       "title": "Effect of Sodium-Glucose Cotransporter-2 (SGLT-2) Inhibitors on Chronic Kidney Disease Progression: A Systematic Review",
       "published": "2026-09-06T05:54:45+00:00",
-      "summary": "Effect of Sodium-Glucose Cotransporter-2 (SGLT-2) Inhibitors on Chronic Kidney Disease Progression: A Systematic Review&nbsp;&nbsp;cureus.com",
+      "summary": "Effect of Sodium-Glucose Cotransporter-2 (SGLT-2) Inhibitors on Chronic Kidney Disease Progression: A Systematic Review&nbsp;&nbsp;Cureus",
       "sources": [
         {
-          "name": "cureus.com",
+          "name": "Cureus",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbV9tRDR2cDJMVDdSZTBxM1hMZWFtODRJMGU5V3NKTUt3YzY0NGZVbWpIT2k3ajdIU1BnQ3g3N0RRejc5WHo2eEV6NzQtRzhla09sU19OSzIzUUFZWjAxT1VROG5nZWFhd1Z6MjJZYTk1dXp2VEJSeExiaGxPM3hIR3FXMGd4YzZSVkNTT2d2NWI3ZlJ2NzB3SEZJOFRMQVNDenBMN1d4Y1lEcVd0Z3ByemxPTjdXRHc1QnVMZEc2MVNnOHNwMmZGOWR1TDdTSm1xWGE5MG0tenlkY0pIN21RTExBa1lja0dnZDlN?oc=5"
         }
       ],
@@ -353,13 +848,13 @@
       ]
     },
     {
-      "id": "83e87bae03d5",
+      "id": "f45cba6c09d0",
       "title": "Role of Topical Nitroglycerin in Prevention and Management of Post-mastectomy Skin Flap Necrosis: A Prospective Randomized Controlled Study",
       "published": "2026-09-06T05:09:45+00:00",
-      "summary": "Role of Topical Nitroglycerin in Prevention and Management of Post-mastectomy Skin Flap Necrosis: A Prospective Randomized Controlled Study&nbsp;&nbsp;cureus.com",
+      "summary": "Role of Topical Nitroglycerin in Prevention and Management of Post-mastectomy Skin Flap Necrosis: A Prospective Randomized Controlled Study&nbsp;&nbsp;Cureus",
       "sources": [
         {
-          "name": "cureus.com",
+          "name": "Cureus",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeXYxY1lfbWVGUUdhQTJ5TnRkTTVzYWQ5QXRjMndWZi1uc1dSVHIta011MFc0cmJmSld0MmM5dzRzbU50VkRUSlYwejY2QnVrSnZJMVhuVlVkaVkzaFh0UDNzSjR4ZXdsaXJ0WG41Nmo4ajFaS3lrVDdFcGJESFRaTzl6U0gycko4MFVEbjVsSlN0LUcyOFJBV200TVZjTlJnaXMtbjFzemxza1JPbFlYWl9wb0NyMWVFNnhkSTVoYU1hdlJjeGF2bTM1SGNwVjIwQlh4YjFBREFod3lINEQzR3EyNjlJQ0FIZXNHRjNXb3NHWmdKNmFycTc5UllsLWVKZnA4SjhEdDg?oc=5"
         }
       ],
@@ -392,46 +887,22 @@
       "matched_keywords": []
     },
     {
-      "id": "5b615579f478",
-      "title": "Psilocybin may help prevent painful chemotherapy side effect, study finds - Fox 59",
-      "published": "2026-09-06T04:07:04+00:00",
-      "summary": "Psilocybin may help prevent painful chemotherapy side effect, study finds&nbsp;&nbsp;Fox 59Psychedelic drug shows promise for preventing chemotherapy-induced nerve damage&nbsp;&nbsp;pharma.economictimes.indiatimes.comPsilocybin May Help Manage Cancer Treatment Side Effects: Study&nbsp;&nbsp;NDTVMD Anderson poised for trial of psilocybin in blocking neurotoxicity of chemotherapies&nbsp;&nbsp;BioWorld NewsIn Future, Psilocybin Doses May Precede Chemotherapy&nbsp;&nbsp;A Rich Life",
+      "id": "0fa7f404ffbd",
+      "title": "AI BioDesign’s $95M Model-to-Lab Experiment Loop",
+      "published": "2026-09-06T04:16:07+00:00",
+      "summary": "AI BioDesign’s $95M Model-to-Lab Experiment Loop&nbsp;&nbsp;quasa.ioAI BioDesign project aims to adapt nature’s design rules&nbsp;&nbsp;UW Medicine | NewsroomNew $95 million Seattle accelerator aims to design biological tools with AI&nbsp;&nbsp;The Business JournalsSeattle scientists launch $95 million AI biology effort&nbsp;&nbsp;STATAllen Institute, UW and Fred Hutch launch $95M AI biology initiative&nbsp;&nbsp;LinkedIn",
       "sources": [
         {
-          "name": "Fox 59",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWxoekxQaUJwRTRKT0l4VzU3NEJVT3UxRHE0aEJGSlBnRXEwTHY4dFZURG51M3A4SjA3R1pxVnpEVmkzcFE2LTJHZmVDc3NFbThrNHBPRzJXTTRoZGE1QWJUZnA4WHZqVUkycWdsb0p0SXdGWmgxaGZPcm00aWVZM0JpTm1nZGJJWllYQUF1UVZOT3JrYTNuRmlyXzFVRkdZZTdfSGI0YTNvdFpYVmtnYtIBtgFBVV95cUxNMXNBQ2FrSHJ2WTlhU3pndlpxMXlRRC1lMUk5MGt2a3VsbUxfdmxIOTdFR3h4dU1yanlLMVU3N2Z4VWhmRm9xUW44c1ZsVUZZS2VlaXBIeDdNY2E4OVhtcE9fb3RvTjNOVjFyNEFyMXJPVUJLSzhGeXc3SFoyNUQ5OHhBMVBOYnFtUFVVZVVJaGg3T2IwOEw0V1hUTU5sd0ltTXg1RnJfTS14Y0NaN2hIdkNkVFd5QQ?oc=5"
+          "name": "quasa.io",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMkp3Q3BnNU1FYjUwT2lmRzV3Q0s5YV9TQlpBNi1hZGFZTWUzWFI3QlJhTTNlMjl4Q243QWpma1dra1I1XzctVXJFbHZqTjNDVkR3djNZNE1NOU84WEtsWlFEV3hvbUZWaEhGN1ExTGZFZDk2U1ctVF9td0J3Q2VjSW51T1lEUkpkdzk2SndqZlFWcjR4eWw1VnItYw?oc=5"
         }
       ],
       "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB11664",
-          "keyword": "psilocybin",
-          "name": "Psilocybin"
-        },
         {
           "type": "indication",
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4979",
-          "name": "asthma",
-          "keyword": "dama"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
         }
       ]
     },
@@ -439,21 +910,14 @@
       "id": "8e0f2569c851",
       "title": "Life on the frontline against Ebola - Financial Times",
       "published": "2026-09-06T04:03:04+00:00",
-      "summary": "Life on the frontline against Ebola&nbsp;&nbsp;Financial TimesCongo Keeps Struggling to Pay the People Fighting Its Ebola Outbreaks | Today News&nbsp;&nbsp;LivemintOn the frontlines of infection prevention for Ebola control&nbsp;&nbsp;WHO | Regional Office for AfricaDRC: The International Red Cross and Red Crescent Movement condemns attacks on its volunteers and staff&nbsp;&nbsp;IFRC",
+      "summary": "Life on the frontline against Ebola&nbsp;&nbsp;Financial TimesCongo Keeps Struggling to Pay the People Fighting Its Ebola Outbreaks | Today News&nbsp;&nbsp;LivemintOn the frontlines of infection prevention for Ebola control&nbsp;&nbsp;WHO | Regional Office for Africa",
       "sources": [
         {
           "name": "Financial Times",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3g2MUpRdE9va0E5VzlDQUd6N2xZSzczNXE4bkkyOW1DaXNZQVhQNThLUmhmX25xbTRockMwZDgtWXRpeWpEWi1zYUlTRDBwa08ya3FfZ2dPd1JVUXN4d2NrdlRFM0QyQUNTaHBiaVViMGdwajQzcGNmQ1Mxb3Jub2tJNU0?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "3f1cc14f737b",
@@ -472,7 +936,7 @@
       "id": "8fea76fe6720",
       "title": "​Popular sugar substitute linked to increased risk of heart attacks and strokes: 5 natural sweeteners to choose for a healthy heart​ - The Times of India",
       "published": "2026-09-06T02:37:05+00:00",
-      "summary": "​Popular sugar substitute linked to increased risk of heart attacks and strokes: 5 natural sweeteners to choose for a healthy heart​&nbsp;&nbsp;The Times of IndiaThis Popular \"Sugar-Free\" Sweetener May Increase Cardiovascular Risk&nbsp;&nbsp;MindBodyGreenNew study links artificial sweetener to heart attack, stroke risk&nbsp;&nbsp;WFLAQuick Take | Mind that substitute&nbsp;&nbsp;The New Indian ExpressXylitol may be linked to major cardiovascular events, study suggests&nbsp;&nbsp;WFTV",
+      "summary": "​Popular sugar substitute linked to increased risk of heart attacks and strokes: 5 natural sweeteners to choose for a healthy heart​&nbsp;&nbsp;The Times of IndiaSweetener used in chewing gum, toothpaste linked to strokes, heart attacks and death: Study | To know more from the study | Inshorts&nbsp;&nbsp;InshortsResearch Finds One Of The Most Popular \"Sugar-Free\" Sweeteners May Increase Cardiovascular Risk&nbsp;&nbsp;mindbodygreen.comNew study links artificial sweetener to heart attack, stroke r",
       "sources": [
         {
           "name": "The Times of India",
@@ -481,16 +945,16 @@
       ],
       "matched_keywords": [
         {
-          "type": "drug",
-          "drugbank_id": "DB11195",
-          "keyword": "xylitol",
-          "name": "Xylitol"
-        },
-        {
           "type": "indication",
           "disease_id": "5148",
           "name": "type 2 diabetes mellitus",
           "keyword": "sugar"
+        },
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
         },
         {
           "type": "indication",
@@ -513,13 +977,13 @@
       ]
     },
     {
-      "id": "be5a5a54b418",
-      "title": "When the last-resort antibiotic fails - Highland Post",
+      "id": "7cdcd07181d5",
+      "title": "When the last-resort antibiotic fails",
       "published": "2026-09-06T02:30:31+00:00",
-      "summary": "When the last-resort antibiotic fails&nbsp;&nbsp;Highland PostLancet Study Highlights Deadly Impact Of Antibiotic Resistant Infections&nbsp;&nbsp;NDTVExpert Explains | Why India’s drug-resistance problem is bigger than antibiotic overuse&nbsp;&nbsp;The Indian ExpressICMR Study Warns of Rising Antibiotic Resistance&nbsp;&nbsp;Voice of HealthcareAntimicrobial Resistance Is Killing Millions. Climate Change Is Making It Worse.&nbsp;&nbsp;eos.org",
+      "summary": "When the last-resort antibiotic fails&nbsp;&nbsp;highlandpost.comLancet Study Highlights Deadly Impact Of Antibiotic Resistant Infections&nbsp;&nbsp;NDTVExpert Explains | Why India’s drug-resistance problem is bigger than antibiotic overuse&nbsp;&nbsp;The Indian ExpressICMR Study Warns of Rising Antibiotic Resistance&nbsp;&nbsp;Voice of HealthcareAntimicrobial Resistance Is Killing Millions. Climate Change Is Making It Worse.&nbsp;&nbsp;eos.org",
       "sources": [
         {
-          "name": "Highland Post",
+          "name": "highlandpost.com",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tdHVtR3pSaUczR0EycnE4WEktSDFkaS1KSlkxWUtzM0tnTWNoMmg0X2NMNDFyVEJmMVpHZExpUlVDR0Qyc2dHWWd1VVl3QWgxYU1hRkQyRi1ldy1GRHM5TjJ6dEhVeUdkenFWOGZlRFc?oc=5"
         }
       ],
@@ -533,30 +997,23 @@
       ]
     },
     {
-      "id": "b8abf451bd5c",
-      "title": "Pig kidneys successfully transplanted into humans - Nagaland Post",
-      "published": "2026-09-06T02:30:26+00:00",
-      "summary": "Pig kidneys successfully transplanted into humans&nbsp;&nbsp;Nagaland PostSee more headlines and perspectives on Google News",
+      "id": "9c61dde9be5f",
+      "title": "India Approves First Dengue Vaccine as Cases Surge 11-Fold Over Two Decades - BioPharma APAC",
+      "published": "2026-09-06T01:43:16+00:00",
+      "summary": "India Approves First Dengue Vaccine as Cases Surge 11-Fold Over Two Decades&nbsp;&nbsp;BioPharma APAC",
       "sources": [
         {
-          "name": "Nagaland Post",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWng1LWF0dXc4V29tRGZIRm11ZnVQZm1maXFBb1NxVVBZUUtoeUt0MmxYSVNVSWhXTlZHQlVQT3FHeXlLLW4wVUNHcS1zVVFhOTVXLVpGZmxLUmNKYmkzcWlublVZOExWLUNOR0p5a1F2WUszUHY0Yy1jTkYwT0NxYw?oc=5"
+          "name": "BioPharma APAC",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdlk4VzB0Y0hCd3RNUVlUZVFlamk3dEQ0aUlYd3dUSURHSllaamkzZzNZUUp2ZmZ6akxkNS1ueEdqVFpEVTJfOUc5dzJjU1lNU1NrNzdfelpPem9VVExHczdNTnphOUUwV0Y0WnVUcS1NXzBtUS1KdXBTeVd2dm8zOFR2WHRyREc2OXYxa2ktVk5LYWVVakhVSm50ZjRCdkxxR3hXSDJHaTRidHVjTmpkYTFNeGRCTEZVM2pZ?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "e45c18444c83",
       "title": "Space between Moon and Earth could become battleground in future: Study | Study published in Journal of Command & Control | Inshorts",
       "published": "2026-09-06T01:32:12+00:00",
-      "summary": "Space between Moon and Earth could become battleground in future: Study | Study published in Journal of Command & Control | Inshorts&nbsp;&nbsp;InshortsWar on Earth could spill over to the moon, Chinese space scientists warn&nbsp;&nbsp;South China Morning PostWars on Earth could extend into space, Chinese study warns&nbsp;&nbsp;bangladeshpost.netSpace between Earth and Moon might become a battleground: Study&nbsp;&nbsp;NewsBytes",
+      "summary": "Space between Moon and Earth could become battleground in future: Study | Study published in Journal of Command & Control | Inshorts&nbsp;&nbsp;InshortsWar on Earth could spill over to the moon, Chinese space scientists warn&nbsp;&nbsp;SCMPWars on Earth could extend into space, Chinese study warns&nbsp;&nbsp;bangladeshpost.netSpace between Earth and Moon might become a battleground: Study&nbsp;&nbsp;NewsBytes",
       "sources": [
         {
           "name": "Inshorts",
@@ -576,7 +1033,7 @@
       "id": "b114acdea98f",
       "title": "AI spots signs of heart disease in routine ECGs within seconds - The Rundown AI",
       "published": "2026-09-06T01:02:33+00:00",
-      "summary": "AI spots signs of heart disease in routine ECGs within seconds&nbsp;&nbsp;The Rundown AIWhat went right this week: the good news that matters&nbsp;&nbsp;Positive NewsCan AI really spot heart disease in less than two seconds?&nbsp;&nbsp;The Spectator‘Superhuman’ AI tool spots heart disease in less than 2 seconds&nbsp;&nbsp;theguardian.comFDA authorizes ‘Queen of Hearts’ AI model for detecting heart attacks in ECG results&nbsp;&nbsp;Cardiovascular Business",
+      "summary": "AI spots signs of heart disease in routine ECGs within seconds&nbsp;&nbsp;The Rundown AIWhat went right this week: the good news that matters&nbsp;&nbsp;Positive News‘Superhuman’ AI tool spots heart disease in less than 2 seconds&nbsp;&nbsp;The GuardianNew AI algorithm could improve detection and prediction of heart diseases&nbsp;&nbsp;Scripps ResearchFDA authorizes ‘Queen of Hearts’ AI model for detecting heart attacks in ECG results&nbsp;&nbsp;Cardiovascular Business",
       "sources": [
         {
           "name": "The Rundown AI",
@@ -620,7 +1077,7 @@
       "id": "29ef35c409fe",
       "title": "Heart disease and kidney disease can fuel each other. New guidelines aim to break the cycle - Science Daily",
       "published": "2026-09-06T00:24:59+00:00",
-      "summary": "Heart disease and kidney disease can fuel each other. New guidelines aim to break the cycle&nbsp;&nbsp;Science DailyESC Introduces First Clinical Guideline for Cardiac Rehab&nbsp;&nbsp;TCTMD.comESC presents first guidelines on cardiovascular disease and chronic kidney disease&nbsp;&nbsp;UA.NEWSRemote option does not increase participation in cardiac rehabilitation after heart attack&nbsp;&nbsp;HealioWhy heart patients shouldn’t ignore their kidneys: New guidelines recommend 2 simple tests&nbsp;&",
+      "summary": "Heart disease and kidney disease can fuel each other. New guidelines aim to break the cycle&nbsp;&nbsp;Science DailyESC Introduces First Clinical Guideline for Cardiac Rehab&nbsp;&nbsp;TCTMD.comHeart Disease Can Damage Your Kidneys And Vice-Versa: New Guidelines Explain Why&nbsp;&nbsp;Health and MeRemote option does not increase participation in cardiac rehabilitation after heart attack&nbsp;&nbsp;HealioWhy heart patients shouldn’t ignore their kidneys: New guidelines recommend 2 simple tests&nb",
       "sources": [
         {
           "name": "Science Daily",
@@ -642,39 +1099,15 @@
         },
         {
           "type": "indication",
-          "disease_id": "5385",
-          "name": "vascular disease",
-          "keyword": "vascular disease"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4995",
-          "name": "cardiovascular disease",
-          "keyword": "cardiovascular disease"
-        },
-        {
-          "type": "indication",
           "disease_id": "5240",
           "name": "kidney disease",
           "keyword": "kidney disease"
         },
         {
           "type": "indication",
-          "disease_id": "5300",
-          "name": "chronic kidney disease",
-          "keyword": "chronic kidney disease"
-        },
-        {
-          "type": "indication",
           "disease_id": "6652_3678_1090_3672_3673_3676_3677_3679_6803",
           "name": "myocardial infarction",
           "keyword": "heart attack"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__cardiovascular",
-          "name": "cardiovascular",
-          "keyword": "cardiovascular"
         },
         {
           "type": "indication",
@@ -685,22 +1118,42 @@
       ]
     },
     {
-      "id": "a19cd6cf3ea7",
-      "title": "Targeting cell division protein CDK2 could boost immunotherapy response across a wide range of cancers - Medical Xpress",
-      "published": "2026-09-05T21:00:03+00:00",
-      "summary": "Targeting cell division protein CDK2 could boost immunotherapy response across a wide range of cancers&nbsp;&nbsp;Medical Xpress",
+      "id": "cb586a0ac9ed",
+      "title": "Extended Foville Syndrome Due to a Pontine Tegmental Hemorrhage: A Clinicoradiologic Case Report",
+      "published": "2026-09-05T23:34:45+00:00",
+      "summary": "Extended Foville Syndrome Due to a Pontine Tegmental Hemorrhage: A Clinicoradiologic Case Report&nbsp;&nbsp;Cureus",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRmlSSXE4bDBVTnlXdTBJQVdWOVFiWTdfTndSOHlpMzJWbEJqMkY1TXhTOXdYS25VakNqajZzeUhNY3dxNVJ2aEJ2X2llamxycU9SSGtMel8zX2I1VWV0X2FiRnB3LXZnUWhkU3V2cktDcWhMZXBZWUpLZi1LeE1aVVhn?oc=5"
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa2lGSE5ScldWZWpRYjNoY0Nyd2RNRVlFdlNzSTRsTkRnWjBXTkVJbHREZi0xMFNxZm16eWk5RHhIenUxTnpnZzdLalBnUDJXamtKbUlISHY5SXkwaHE2VGIwUDRTQjdFelRqMWttZEFIWTE2dFlOS0RqZ2xjaTJYbloySmg1QzNwTmJhVEZtU3diYWNFbDBOVklnTG1uX01QR29IV2dnWG9KRVVOanh6MDVBSmNrQ0Y0c25NdGQ3LWxSZVZzbTlMVGJkQWNlUWM?oc=5"
         }
       ],
       "matched_keywords": [
         {
-          "type": "drug",
-          "drugbank_id": "DB11312",
-          "keyword": "protein c",
-          "name": "Protein C"
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
+    },
+    {
+      "id": "08e9e82f30e2",
+      "title": "What Happens to Your Cancer Risk When You Drink Alcohol, According to Experts",
+      "published": "2026-09-05T23:00:00+00:00",
+      "summary": "What Happens to Your Cancer Risk When You Drink Alcohol, According to Experts&nbsp;&nbsp;EatingWellWhy there is no completely safe amount of alcohol&nbsp;&nbsp;The Indian ExpressU.S. Cancer Deaths Linked to Alcohol Have Doubled Since 1990, Study Finds&nbsp;&nbsp;University of MiamiCan AI Improve Awareness of Alcohol-Related Cancer Risks - Sylvester Comprehensive Cancer Center&nbsp;&nbsp;OncodailyOne standard drink a day has been linked to a higher risk of cancer&nbsp;&nbsp;UkrMedia News",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DVHkybnFNQVVLck1hTDNaZDFnM3o1eGZPLUFoMnJ1NmhaYThkMXFTczN5TEk3cFlPZnZkUXVuZkZpdmRWbWwycjlEX28yVkJ4cTMtUlpuOVhxT3VVY3JqS1hZV3E5dWIyWG1MZ0d6cTVfdzBVQ3c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
         },
         {
           "type": "indication",
@@ -717,14 +1170,14 @@
       ]
     },
     {
-      "id": "b30013d553f8",
+      "id": "48ecd6a63d68",
       "title": "Structural characterization and in vitro anticancer activity of biogenic NiFe₂O₄ nanoparticles",
       "published": "2026-09-05T20:54:51+00:00",
-      "summary": "Structural characterization and in vitro anticancer activity of biogenic NiFe₂O₄ nanoparticles&nbsp;&nbsp;nature.com",
+      "summary": "Structural characterization and in vitro anticancer activity of biogenic NiFe₂O₄ nanoparticles&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "nature.com",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51UlBCdnprY2Zia3g2RWd0WS1KcUoyM0hfRjZkRU5XemttbXpWOGh3VUJPTDNQNGw1S2t3M01zRXJsNmNEMTVxdGFHWHdQNjZvUG1HS2NNOWRWbFpIeThObDN2d1g?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KS0IxbXdiT05qUDVSMmRUSEN0U2ZtQ2RlOUNnbnZOandyMTZHUm80bzRxcmtIU3RQUl94ZHJFUmh3WHZRYWpxWUd5YVVpbUppRGlVRjdhcE5jSmduSWNR?oc=5"
         }
       ],
       "matched_keywords": [
@@ -743,13 +1196,13 @@
       ]
     },
     {
-      "id": "7a50177f0d09",
+      "id": "eb70fad6fc78",
       "title": "Experimental study of a ventilated supercavitating vehicle model in a high-speed water tunnel",
       "published": "2026-09-05T20:54:51+00:00",
-      "summary": "Experimental study of a ventilated supercavitating vehicle model in a high-speed water tunnel&nbsp;&nbsp;nature.com",
+      "summary": "Experimental study of a ventilated supercavitating vehicle model in a high-speed water tunnel&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "nature.com",
+          "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCV0MxSUxsOUpZTGhoc0lMSldTYkcyejAxMlRuMFFZeDloQmZEcWYwd1liQW5PUkUzY0U4ODJZSldpbUJhLXM3M0ZPcWl2cU9FV3dRc3dYY3VvNFNoMEZ3?oc=5"
         }
       ],
@@ -783,13 +1236,13 @@
       ]
     },
     {
-      "id": "c87ee0ec3916",
+      "id": "1029f9d0a975",
       "title": "Molecular Detection of Gastrointestinal Pathogens Using a Multiplex Gastrointestinal Panel and Their Associations With Demographic and Clinical Characteristics",
       "published": "2026-09-05T19:22:00+00:00",
-      "summary": "Molecular Detection of Gastrointestinal Pathogens Using a Multiplex Gastrointestinal Panel and Their Associations With Demographic and Clinical Characteristics&nbsp;&nbsp;cureus.com",
+      "summary": "Molecular Detection of Gastrointestinal Pathogens Using a Multiplex Gastrointestinal Panel and Their Associations With Demographic and Clinical Characteristics&nbsp;&nbsp;Cureus",
       "sources": [
         {
-          "name": "cureus.com",
+          "name": "Cureus",
           "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNV2FQYUMxU3dSdkxuWWphUHAxZThaUkxnUVZsRHFuYW9ReGtZNXk2c2s2eXNFSlBheDV0MWUzUWNOWnppaHk5bnRWVmg4NHNJeW1NZ18zV1J2YVp6ZHoxZGo3dWwweVhSX21yWmhwbG5jbm9hN3p0dlNXZTd2TVQ2bFR2S2pWUVJ3cTljOS1jVndhbWRibXZwc05CTWk0Tnk0OC1HcmprVV9pQlZZcU5OTm1IblhLTEV2RnJYOXQzcDJER1J4akgzWElpQVdFUWhweTVuWDV0NlVaWWJHc0NFTVUzZmpTaXlhUkV1bkdHVVZacWdtaGtDNmhEV2p2ZlBxMXRnaEtmWl9FRGlMbjlSdFJnMEtEU3E4aWFNTk14Qm91c1JQ?oc=5"
         }
       ],
@@ -803,13 +1256,13 @@
       ]
     },
     {
-      "id": "76eb756e9833",
+      "id": "84a6aadeea72",
       "title": "Effect of Multicomponent Balance Training With Sensorimotor Foot Mobilization on Gait Adaptability and Functional Mobility in a Patient With Diabetic Peripheral Neuropathy: A Case Report",
       "published": "2026-09-05T17:49:45+00:00",
-      "summary": "Effect of Multicomponent Balance Training With Sensorimotor Foot Mobilization on Gait Adaptability and Functional Mobility in a Patient With Diabetic Peripheral Neuropathy: A Case Report&nbsp;&nbsp;cureus.com",
+      "summary": "Effect of Multicomponent Balance Training With Sensorimotor Foot Mobilization on Gait Adaptability and Functional Mobility in a Patient With Diabetic Peripheral Neuropathy: A Case Report&nbsp;&nbsp;Cureus",
       "sources": [
         {
-          "name": "cureus.com",
+          "name": "Cureus",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNRzNyT2hVd016QlpmMTh0Q1BUTHJLUVFGdWJyazlGQ2pLUUdhLS15NVlBN3R1bEVEMGltMHhjeWVGWC0ybkswOUc2QnhGcFF4Qkk5WnVnVV95LXRiS0RnQ3Z5Wjk4bENOYlNNWlhVV1dYOFBobWFkUFZ0NUJjOUlJUmtLOVpYOXNqN2dVZ2R1S3k4el9rUHBlaGFyRldtTGpUWXo2MldvVnl2dkYxOFVpVHFfMF9kR1FOMWhHNVJlVUN1VlI5NnR4RWFUcUJ2TEJPRDJwVlZjR2p5YlphcTlXQUZTbW95WUpiLU5HaWlsNzMzcE1YbjdRajRiMlZ3dzZUV0lJT2pFcDRMNXkwZzA0dEtOZl9leEZpc003Z0JCb0NBd2h0bTNxSjd0YjJFNW83YnF6RHJYTUtZdlhYcmdOYkpBTWxBbUE?oc=5"
         }
       ],
@@ -835,28 +1288,22 @@
       ]
     },
     {
-      "id": "a2f35098bbfc",
-      "title": "Is Your Backyard Bird Feeder Spreading Bird Flu? - A-Z Animals",
-      "published": "2026-09-05T16:00:00+00:00",
-      "summary": "Is Your Backyard Bird Feeder Spreading Bird Flu?&nbsp;&nbsp;A-Z AnimalsFirst Confirmed Case Of H5N1 Bird Flu Detected In Sydney, Australian Authorities Issue Precautions&nbsp;&nbsp;NDTVAustralia news as it happened: H5N1 bird flu reaches Sydney with first confirmed case on city’s northern beaches; Two more Australians located in Nepal and Tibet, trapped worker rescued alive from tunnel&nbsp;&nbsp;The AgeAuthorities confirm bird flu in fox and suspected case in dolphin&nbsp;&nbsp;ABC News & Headl",
+      "id": "42588e0a75ed",
+      "title": "A Cross-Sectional Observational Study of the Correlation Between Asthma-Related Quality of Life (AQLQ) and Asthma Control Measures",
+      "published": "2026-09-05T15:59:45+00:00",
+      "summary": "A Cross-Sectional Observational Study of the Correlation Between Asthma-Related Quality of Life (AQLQ) and Asthma Control Measures&nbsp;&nbsp;Cureus",
       "sources": [
         {
-          "name": "A-Z Animals",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOThDV3ljWnB0c0RqWm9JbndCV2JpbGZZSnJmUGNTODVnWExRU2ttMlpxUVJVX2RqYzQxazdwNGRrUVAtT0pFM0Q5eFpYajU2bVZnNmJhT1U0WWxhOVdEbWNzVDJxYWlxR2lkSm9CS2dwdURualdZOVNFczFEeEp0WXBmbGlxVDA5?oc=5"
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOU3lLNmdoMmljeTBMM200UnA0VWxBZHpBSHVjWjFOQXU4enVWazctSDZZX2lHeTViVVBkdUUtcExkS1JLT29qME9OeTU0Q0djQTVFQ1JOTjI0dmRwUzAtTGwyYmdaZ1E3X1Y4UW9KTERvX1RndW1ycHVVMGM4aUZZd29nU3VuVk90a3k4b09GeXVEeUdDLXJzdUpTQjJTTEpLcktJd3VXa0FCN0ZQYl9XTEdYc2tFQXpTY0RnZ2JyWTBkRWRORU8yRElVQnRNbUxPUkJyQUVBRmROTEVwRUdMR0plV1Bhb2tYbnoxVEt4bkQ1cVVIZGtZR2xqUQ?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5812",
-          "name": "influenza",
-          "keyword": "flu"
+          "disease_id": "4979",
+          "name": "asthma",
+          "keyword": "asthma"
         }
       ]
     },
@@ -874,13 +1321,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e435030c26d3",
+      "id": "4ee9b321d676",
       "title": "When Stroke Is Not a Stroke: A Case Report of Crimean-Congo Hemorrhagic Fever Presenting With Focal Neurological Deficits",
       "published": "2026-09-05T15:34:45+00:00",
-      "summary": "When Stroke Is Not a Stroke: A Case Report of Crimean-Congo Hemorrhagic Fever Presenting With Focal Neurological Deficits&nbsp;&nbsp;cureus.com",
+      "summary": "When Stroke Is Not a Stroke: A Case Report of Crimean-Congo Hemorrhagic Fever Presenting With Focal Neurological Deficits&nbsp;&nbsp;Cureus",
       "sources": [
         {
-          "name": "cureus.com",
+          "name": "Cureus",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcHpRODVMZm91UGZ4NkVFNF9kSG56M0V5TFdHQzJxY0o3bmVQcmZ2V1MwajRINEFsQTZITDRFMnk3Zy1zTllraGFGQU15OWMwWUUtM0FSX1habUZTY0toYVprRlZzTy0zRW9DLW1tYVFrWnFLcFFKRG9LXzh5WUVVMFdEa205UnZVMGJGbS1xTU84TnFzR0Z6VmktalBKdmRPZlBrTGVuZ1NCTmk0ejNvUXViQVNYTUc1V0I3SE1FZHBKQXY4Z1BDOUplVDUydC1LYWE0blJkVmNNRmJhX2ZUVlpBT1ptY1Zqb1hVTVpEYUc?oc=5"
         }
       ],
@@ -906,42 +1353,10 @@
       ]
     },
     {
-      "id": "03e05c7911d7",
-      "title": "Prospective Symptoms Improve Seasonal Allergic Rhinitis Classification",
-      "published": "2026-09-05T15:28:40+00:00",
-      "summary": "Prospective Symptoms Improve Seasonal Allergic Rhinitis Classification&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUJGWFBKamcwcFJSQk9qMklHRFVGNVZVcEhqenhhd0NicTZEWElMODZyTWUtVGt4bFBnMlpzTmZqaXljNS1XWnJUQlRJT1VIdk12VDdsWndkaENDT29ycktyeWxUQzgxWERWcmxrX295UTJTZ3E4enBucm14VzM4cXlKLXVaWlFZLXFDTjdNa1V0aHJOY1VPYTc1U2UtQVRxWG9tcVdEclQyNGNoYXY0OTVndHVmVlNPcTI0WHdoZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB03384",
-          "keyword": "fica",
-          "name": "Fica"
-        },
-        {
-          "type": "indication",
-          "disease_id": "3014_4514",
-          "name": "rhinitis",
-          "keyword": "rhinitis"
-        },
-        {
-          "type": "indication",
-          "disease_id": "11786_5324_24332",
-          "name": "allergic rhinitis",
-          "keyword": "allergic rhinitis"
-        }
-      ]
-    },
-    {
       "id": "02e04a1024c2",
       "title": "Weekly Health Update | DRC Adds Mobile Data to Ebola Surveillance - Ecofin Agency",
       "published": "2026-09-05T15:12:46+00:00",
-      "summary": "Weekly Health Update | DRC Adds Mobile Data to Ebola Surveillance&nbsp;&nbsp;Ecofin Agency5 challenges Congo faces in containing its fast-moving Ebola outbreak&nbsp;&nbsp;The New Indian ExpressCongo’s Ebola infections rise above 4,000 for first time in outbreak&nbsp;&nbsp;Arab NewsEbola outbreak in Congo not yet under control: Africa CDC | Tap to know more | Inshorts&nbsp;&nbsp;InshortsBundibugyo Ebola outbreak continues to defy control measures&nbsp;&nbsp;BioWorld News",
+      "summary": "Weekly Health Update | DRC Adds Mobile Data to Ebola Surveillance&nbsp;&nbsp;Ecofin AgencyEbola outbreak in Congo not yet under control: Africa CDC | Tap to know more | Inshorts&nbsp;&nbsp;InshortsCongo’s Ebola infections rise above 4,000 for first time in outbreak&nbsp;&nbsp;Arab News5 challenges Congo faces in containing its fast-moving Ebola outbreak&nbsp;&nbsp;The New Indian ExpressBundibugyo Ebola outbreak continues to defy control measures&nbsp;&nbsp;BioWorld News",
       "sources": [
         {
           "name": "Ecofin Agency",
@@ -958,13 +1373,13 @@
       ]
     },
     {
-      "id": "2bc8e097b58e",
+      "id": "40a303d3ded8",
       "title": "Factors Associated With 30-Day Functional Outcome and Mortality Following Spontaneous Intracerebral Hemorrhage in Bangladesh: A Prospective Two-Center Cohort Study",
       "published": "2026-09-05T14:49:45+00:00",
-      "summary": "Factors Associated With 30-Day Functional Outcome and Mortality Following Spontaneous Intracerebral Hemorrhage in Bangladesh: A Prospective Two-Center Cohort Study&nbsp;&nbsp;cureus.com",
+      "summary": "Factors Associated With 30-Day Functional Outcome and Mortality Following Spontaneous Intracerebral Hemorrhage in Bangladesh: A Prospective Two-Center Cohort Study&nbsp;&nbsp;Cureus",
       "sources": [
         {
-          "name": "cureus.com",
+          "name": "Cureus",
           "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPdGZvVUgtcTl3RTRqbDJRcmVEbm5fcnJWVVd5d3NZbkQ1MXpTZHFmQ1pGWXlMcjlmbnJuNkFKWlJ0cTRsNFd5eTRsWU9ZUmdvQ0ktZ19WamVjd3MtYkI3UVN0M1BPQjRKUmtnZmh3QndYTXh0VnBqZ3Q4S1p4M0FkLXhMYndjeVZLY3JwUWUwT1A2MDZVME1UUnFKVkFnZ3RFTllxYkt4MmhJTURmcVg1VzNzR3BPa2hjSXluSFd5X0xCbFkzMmxRZEl0SmtzYlFPMFQwcnJUS1I3cjl1cV9IZVA1UFc1am5WX2ZTU3k4bEZOUXJfdGNZR2RxTURJMDFyU2ZPNXpOOEdsWDBKOWQ4bHVHamlwbnFMTGRTeE9LYmtIZ2FTWXFLZg?oc=5"
         }
       ],
@@ -1036,13 +1451,13 @@
       ]
     },
     {
-      "id": "53ff7552c334",
+      "id": "49638775275f",
       "title": "Oceans in a changing climate",
       "published": "2026-09-05T13:42:47+00:00",
-      "summary": "Oceans in a changing climate&nbsp;&nbsp;millenniumpost.inNorth Atlantic temperature patterns change with AMOC strength, models show&nbsp;&nbsp;The Watchers - Watching the world evolve and transformOregon State research examines potential weakening of major Atlantic ocean current amid climate change&nbsp;&nbsp;ktvb.comUnderstanding the relationship between the weakening AMOC current and El Niño&nbsp;&nbsp;MPR NewsA ‘monster web’ of ocean currents is set to collapse. And the US is not prepared&nbs",
+      "summary": "Oceans in a changing climate&nbsp;&nbsp;MillenniumPostNorth Atlantic temperature patterns change with AMOC strength, models show&nbsp;&nbsp;The Watchers - Watching the world evolve and transformOregon State research examines potential weakening of major Atlantic ocean current amid climate change&nbsp;&nbsp;KTVBUnderstanding the relationship between the weakening AMOC current and El Niño&nbsp;&nbsp;MPR NewsA ‘monster web’ of ocean currents is set to collapse. And the US is not prepared&nbsp;&nbsp",
       "sources": [
         {
-          "name": "millenniumpost.in",
+          "name": "MillenniumPost",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSnUtMndFREtRWno0US1VY2VrRS12UUMyVnY1bTZEbmN6WHpPdTZSZkhoRWhXdzBhODhKT3ZpTkhWV01EaDZrVFpsZDltblZKamhEdzhlLUxSZ0tRQXpweFZSdGhENUo0UHNSbjY4bEtwc0x4dTFoS0FXdGt5bUh3SFR2Y3BkZEZvWUp30gGQAUFVX3lxTE9oRjdvT1BVcW1OMXhESUFEV2lIbUpoNmY1ejBNVWFfTloxdzdsZWM2TGFJWTVKTHJiSEJtTzdBTDN6cm5DbURjTS1WYVJQWnN4SldrZzBWT1pYUDh5NDU2bFlfTk5DaXRwN3RVZUNrTzRyYkFUVW1LdU5kbTBfU09nMDFRN2EtV2tPbTBzNWd1Mw?oc=5"
         }
       ],
@@ -1056,14 +1471,14 @@
       ]
     },
     {
-      "id": "4f18655ce41d",
+      "id": "729d0705629a",
       "title": "'Every Indian over 18 should check cholesterol levels': Cardiac surgeon Dr Devi Prasad Shetty - Deccan Herald",
       "published": "2026-09-05T13:35:00+00:00",
-      "summary": "'Every Indian over 18 should check cholesterol levels': Cardiac surgeon Dr Devi Prasad Shetty&nbsp;&nbsp;Deccan HeraldHeart of the matter: Dr Arneja&nbsp;&nbsp;thehitavada.comWhy are more young adults experiencing heart palpitations? Cardiologist explains when it may need attention&nbsp;&nbsp;hindustantimes.comWhy Do Indians Need To Think About Heart Health Differently?&nbsp;&nbsp;Republic World",
+      "summary": "'Every Indian over 18 should check cholesterol levels': Cardiac surgeon Dr Devi Prasad Shetty&nbsp;&nbsp;Deccan HeraldHeart of the matter: Dr Arneja&nbsp;&nbsp;thehitavada.comWhy are more young adults experiencing heart palpitations? Cardiologist explains when it may need attention&nbsp;&nbsp;Hindustan TimesWhy Do Indians Need To Think About Heart Health Differently?&nbsp;&nbsp;Republic World",
       "sources": [
         {
           "name": "Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdXM1ZGtldU1VQ3FUZXh0dHJrQUZESUZTOVNuQm1vSExhWHBzZlF5RHllc0szRjhZSmhBX3J6bmZFemVoZm15QkMtWmo3cXptZGltdm1PX1hBRndJWGh2LXpWZF9aMktpVjZXSjA0VkZpZXVvbkhFTnFOaGY1WklibnJWU25IVzZGNXNzbGp5RWhRX203dFdJcGpRek5HNmJUdFdzTFJ4UzVQalkxWVVQOXA3RGh6TEJOczFtWjNkQkN6RGQycU9ibndSZlJLa0k?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdXM1ZGtldU1VQ3FUZXh0dHJrQUZESUZTOVNuQm1vSExhWHBzZlF5RHllc0szRjhZSmhBX3J6bmZFemVoZm15QkMtWmo3cXptZGltdm1PX1hBRndJWGh2LXpWZF9aMktpVjZXSjA0VkZpZXVvbkhFTnFOaGY1WklibnJWU25IVzZGNXNzbGp5RWhRX203dFdJcGpRek5HNmJUdFdzTFJ4UzVQalkxWVVQOXA3RGh6TEJOczFtWjNkQkN6RGQycU9ibndSZlJLa0nSAd8BQVVfeXFMTVJybXpYaDZmdV9nWnZmbGJKb0JsdWoyUDNLZmlLN1dCQWJLeEZYUWxQWjRGN1BCc0JIakRNa3M5WFNFVkxsMUcySDhlVzdWZ0dpaHliLXNCajdPOFYzeUp5X0RCY05reEo1MUkyNjZ2dkpZTEFZLVktcWl3cVVQV1I4VU44c2pOTGhnTWR0SU13NVo1ZWsxWWVUeFVHOXRISDFRSnRTbzg0bGRSU3VEd1hOaWl1UExYRnRlVnRjc2FLWkZST29SdjJOTUpSd0dQdW9Xd2NsSjFqdDRXV3VNZw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1101,42 +1516,10 @@
       "matched_keywords": []
     },
     {
-      "id": "16d2d01f6b46",
-      "title": "Bladder Cancer Breakthrough: New Urine Test Accurately Detects 92% Of Cancers",
-      "published": "2026-09-05T13:21:52+00:00",
-      "summary": "Bladder Cancer Breakthrough: New Urine Test Accurately Detects 92% Of Cancers&nbsp;&nbsp;NDTVStudy finds GALEAS bladder 92.2% sensitive, may guide cystoscopy decisions&nbsp;&nbsp;NewsBytesRik Bryan: New Data Highlight the Potential of the GALEAS Bladder Test&nbsp;&nbsp;OncodailyPee-in-a-pot urine test detects bladder cancer at home&nbsp;&nbsp;The Naked ScientistsNew urine test kit can detect 9 in 10 cases of bladder cancer: Study&nbsp;&nbsp;Deccan Herald",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWUJJVVBWSUw3Ti1oU2FvaVMycHRSSkd6THdGSUtCV3pWRGQ3cndFSzdZS1dqbUdncVhWU0o5cGc1RE1WT2NjT3phTWJvVkI3SVRjSEJFc2YxMWVZOUlwODloY0haTDEyVVVuck1MRkxXY2tXZU5ubmdOLXM0X0t6VUNxN0pOeHFrbVJWUFhkaWxZcHZQcHlrckcyMTRsQzhkQmxib0U1LUtXcy1NQ2NEYnlWZmR2d3JOanc5ZkVkbzFUZEpt?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "1187",
-          "name": "urinary bladder cancer",
-          "keyword": "bladder cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        }
-      ]
-    },
-    {
       "id": "16a81d93c868",
       "title": "Weight Loss Medicines And Hair Loss: New Study Finds Genetic Link In Men",
       "published": "2026-09-05T11:38:43+00:00",
-      "summary": "Weight Loss Medicines And Hair Loss: New Study Finds Genetic Link In Men&nbsp;&nbsp;NDTVWeight Loss Drugs And Hair Loss: New Study Finds Genetic Link In Men&nbsp;&nbsp;NDTVCould Doctors Predict Hair Loss Before Prescribing GLP-1 Drugs? Researchers See a Path&nbsp;&nbsp;inc.comCould Your GLP-1 Be Making You Bald? One Study Says Maybe&nbsp;&nbsp;GQGLP1R Expression Linked to Risk for Male Pattern Hair Loss&nbsp;&nbsp;Medscape",
+      "summary": "Weight Loss Medicines And Hair Loss: New Study Finds Genetic Link In Men&nbsp;&nbsp;NDTVCould Doctors Predict Hair Loss Before Prescribing GLP-1 Drugs? Researchers See a Path&nbsp;&nbsp;inc.comTaking Ozempic or Wegovy? New study flags hair loss risk in men&nbsp;&nbsp;Mathrubhumi EnglishWeight Loss Drugs Linked to Increased Risk of Baldness in Men&nbsp;&nbsp;devdiscourse.comGLP1R Expression Linked to Risk for Male Pattern Hair Loss&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "NDTV",
@@ -1144,66 +1527,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "cb308661852c",
-      "title": "AIIMS Director Dr Nikhil Tandon inaugurates AIIMS Obesity Summit 2026 in New Delhi - News On AIR",
-      "published": "2026-09-05T11:22:27+00:00",
-      "summary": "AIIMS Director Dr Nikhil Tandon inaugurates AIIMS Obesity Summit 2026 in New Delhi&nbsp;&nbsp;News On AIRObesity Should Not Be Defined Solely By BMI: AIIMS Director Explains Fat Distribution & Metabolic Health&nbsp;&nbsp;Health and MeExperts call for medical approach to obesity&nbsp;&nbsp;The Express Tribune",
-      "sources": [
-        {
-          "name": "News On AIR",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWgzeDdHWkxjWndVY3Y3QUJVaENOengtMndIUjVaTTdFVVVyUHg4Y2MtM2NtazR1UXVVTEpMT0U1aUkwZmJDSHNzYVNqR2x4c2p3UFdpandPU2NaWE5ISHNLbDdfYXN1cnhYR3NGMzlNdXN1Z0ZIckR5SDFjMW1tUUxZaDdYZUZsbk9PODFnc0RGTy1Ma2FPVHVpaEIzSF9fVVNaT21jdHQ3OG5J?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "6652_3678_1090_3672_3673_3676_3677_3679_6803",
-          "name": "myocardial infarction",
-          "keyword": "MI"
-        }
-      ]
-    },
-    {
-      "id": "0a241fe3b8af",
-      "title": "Reintubation in the ICU: A Prospective Observational Study of Its Impact on Recovery Outcomes and Mortality",
-      "published": "2026-09-05T10:44:45+00:00",
-      "summary": "Reintubation in the ICU: A Prospective Observational Study of Its Impact on Recovery Outcomes and Mortality&nbsp;&nbsp;cureus.com",
-      "sources": [
-        {
-          "name": "cureus.com",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU05WFpodF8zSTNHVkxvbHJ6T1ppQ2RrbWlCdWo4dXo5ck5tTjNIZjNQX2Rrc1QzVzlZSmpVNDYtRGVTVG9HTTBuRHNBbmpmc1UxMUZPcXBPNWdhNjlRRnB3TTgxRkM0anpuVTZpNkNFaEtTR2hQV0JJVXdoQlp1R3pmOHNSNEtDT29lTlZkekRSTjVsUHNGWEN5OFpaanNCNUM3TEwtdlpScE42elcyMVNPVVZMX2EyeDhYWlA1RHlNX2lkTWw4ZFJEcE1NNTJnZ21WUGt1ZUEwV1dQdlE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "a1237e87af41",
-      "title": "Could life exist on Venus? Peptides survive harsh acid. - Universe Today",
-      "published": "2026-09-05T08:40:00+00:00",
-      "summary": "Could life exist on Venus? Peptides survive harsh acid.&nbsp;&nbsp;Universe TodaySomething strange may be happening high above the surface of Venus: New study finds a surprising clue abou&nbsp;&nbsp;The Economic TimesPeptides may persist in Venusian clouds&nbsp;&nbsp;C&amp;ENVenus-like conditions did not destroy these building blocks of life&nbsp;&nbsp;Earth.comStudy: Peptides can form well-defined structures in harsh, Venus-like conditions&nbsp;&nbsp;MIT News",
-      "sources": [
-        {
-          "name": "Universe Today",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFFZWVJaT04wVHl5WWl6Z1ZNX0RuNk5iRWI5UnJfZmFySmREeXFIQkdjb1JOOWlpZWZINzREa1FSMEgyZ0RHWTdjZ2hwRjRDeEtKajRLbGVJV0NodFZXcHNrM2pJbXNWUkVsbFNBV0llU1dDaE1zYnF2aEd5T095Si1TNUFXSTRib1VmWW42Y1RZUG1LVWZB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "6652_3678_1090_3672_3673_3676_3677_3679_6803",
-          "name": "myocardial infarction",
-          "keyword": "MI"
-        }
-      ]
     },
     {
       "id": "582072b7a725",
@@ -1245,23 +1568,10 @@
       ]
     },
     {
-      "id": "52ffa3b23842",
-      "title": "Aerobic Exercise May Boost Cognition After Menopause",
-      "published": "2026-09-05T08:03:36+00:00",
-      "summary": "Aerobic Exercise May Boost Cognition After Menopause&nbsp;&nbsp;EMJThis Is The Workout Your Brain Starts Secretly Craving After Menopause&nbsp;&nbsp;MindBodyGreenExercise has a surprising effect on the brain after menopause&nbsp;&nbsp;Earth.comAerobics Key To Staying Sharp After Menopause&nbsp;&nbsp;U.S. News & World Report",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkQxZnZfOWk5cm8zOUYwbEwwLXBteUhfUHM1TTRlTXV4ODJqSFlxNGtQVGlldmNnR1JkR2F5b0JVS09CR3k5QVAySHFFQzZoNTZMbzI5eXJncnBBOWhobnVYbzhZWDFvekZYZ1FpZ2VGYm1GOVJ5Q2xaSGQ4bTI0Y0o4OXVJei12NUhyNWFvU0ZoaEl4UDFPU1pvRFRBdncwdVRwdGZSc2E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "de6f90c67de8",
       "title": "Scientists reveal the cellular secret that makes humans smarter than animals - The Times of India",
       "published": "2026-09-05T08:01:00+00:00",
-      "summary": "Scientists reveal the cellular secret that makes humans smarter than animals&nbsp;&nbsp;The Times of India3D epigenome of glial cell types in developing human cortex&nbsp;&nbsp;nature.comScientists reveal the hidden instructions that build the human brain&nbsp;&nbsp;Science DailyUCLA studies show radial glia drive human cortex development&nbsp;&nbsp;NewsBytesResearchers in Australia uncover pathway controlling timing of brain development&nbsp;&nbsp;The Star",
+      "summary": "Scientists reveal the cellular secret that makes humans smarter than animals&nbsp;&nbsp;The Times of India3D epigenome of glial cell types in developing human cortex&nbsp;&nbsp;NatureScientists reveal the hidden instructions that build the human brain&nbsp;&nbsp;Science DailyUCLA studies show radial glia drive human cortex development&nbsp;&nbsp;NewsBytesResearchers in Australia uncover pathway controlling timing of brain development&nbsp;&nbsp;The Star",
       "sources": [
         {
           "name": "The Times of India",
@@ -1274,14 +1584,21 @@
       "id": "7076e4c35244",
       "title": "Protein Is In Everything, But Is Every Source Actually Healthy? Experts Explain - Health and Me",
       "published": "2026-09-05T07:30:00+00:00",
-      "summary": "Protein Is In Everything, But Is Every Source Actually Healthy? Experts Explain&nbsp;&nbsp;Health and MeIs Your 'High Protein' Snack Really Healthy? Experts Explain&nbsp;&nbsp;NDTVAre You Actually Getting Enough Protein? (Probably Worth Checking)&nbsp;&nbsp;About Town MagazineProtein Power with Dietician Tony Castillo&nbsp;&nbsp;Stuart MagazineAre You Eating Enough Protein? 5 Unexpected Skin and Nail Changes to Watch For&nbsp;&nbsp;Onlymyhealth",
+      "summary": "Protein Is In Everything, But Is Every Source Actually Healthy? Experts Explain&nbsp;&nbsp;Health and MeIs Your 'High Protein' Snack Really Healthy? Experts Explain&nbsp;&nbsp;NDTVProtein Power with Dietician Tony Castillo&nbsp;&nbsp;Stuart MagazineNew protein guidelines increase the minimum recommended intake&nbsp;&nbsp;Parkview Health6 Common Protein Myths Dietitians Say You Should Stop Believing&nbsp;&nbsp;Real Simple",
       "sources": [
         {
           "name": "Health and Me",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbnhiMmhMWHAyWHFtRlJKT3d0Slo1Z1NKckxtN1Z3TXFhU0JVblZoc0FKMjYzc0RJbzF6Wi16eUR6c3M1amtHSGc0UnVIb1FiY184Y0xtSWZ4QjliZVF4b2MyVWFjZFBvbjZUNThJU1MySTZFMTNvTjBFcHpmSDFjY21tb2RLc0lzNFprVEplZnpwb3ZmcEdsTzd0MG1MNkVnd0h0RzlkbTFITkg1ZzdMcjBybEFFUl9vaU5nZUNMOUMzX0gxNUhSZXNnc0k2QQ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "7270_12900_54838_12306",
+          "name": "mo",
+          "keyword": "mo"
+        }
+      ]
     },
     {
       "id": "b3df3eaf092f",
@@ -1295,6 +1612,39 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "9b774d8c5a2a",
+      "title": "How an Old Antibiotic Can Kill a Drug-Resistant Superbug",
+      "published": "2026-09-05T07:00:00+00:00",
+      "summary": "How an Old Antibiotic Can Kill a Drug-Resistant Superbug&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbXdQNTNkYXhhMzJtb1JCOWpXX3BfSEJHcldGbTNuMmtVVi1Fb1d6SV95OEc5MVpTcUF3dnREeVkxV0NrT3BLbklOeW9GRGpWc1FOSU5lbExzbERaZjdmcXRIRFJVbDR1M0pKZWVUZDkyeFBVcl9jWFdOQTEzM0VOQ2hpY3N0RllkN0pSeExIM1NSQ2RKbmtnaGlSTmJQS1NfdWllWkNuTlo?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e0e3afaf74d4",
+      "title": "A Rare Case of Pyogenic Granuloma on the Lip in a 10-Year-Old Girl: Case Report and Literature Review",
+      "published": "2026-09-05T05:44:45+00:00",
+      "summary": "A Rare Case of Pyogenic Granuloma on the Lip in a 10-Year-Old Girl: Case Report and Literature Review&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYnRPQ3B3c3g5YlBZZ1R1N2pBN192NURoZC1UbjNWYmlsMUxYcDJtRWxJb2tFQndhU1VONGg5NHVNbUlvVHdqd3dJa0VnOGJuYk5fY1h4U19sUjVBdG9nM0d5R0hoeDM1d3laNU9TNTNsTVBfWTZqaDh4dEVPWHZWTk9kZ1BBbi1hQUJJZGZTMlBqTldDTWJYMElhdlJPaWZaaTFiU0hDdUUxTzJJQ1R0cDVodnQzcW5UMjVvNnN6bDdfNGVTaDRwMjczb2pPTnVGNDhNaW5R?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "disease_id": "22096",
+          "name": "pyogenic granuloma",
+          "keyword": "pyogenic granuloma"
+        }
+      ]
     },
     {
       "id": "85d884036b87",
@@ -1329,13 +1679,13 @@
       ]
     },
     {
-      "id": "af9c16cd4cb4",
-      "title": "India's longevity boom must stop treating women as an afterthought | Hindustan Times",
+      "id": "b9cff04576a9",
+      "title": "India's longevity boom must stop treating women as an afterthought | Hindustan Times - Hindustan Times",
       "published": "2026-09-05T05:08:13+00:00",
-      "summary": "India's longevity boom must stop treating women as an afterthought | Hindustan Times&nbsp;&nbsp;hindustantimes.comWhy India must reclaim its later years&nbsp;&nbsp;hindustantimes.comAs life expectancy rises, healthy aging is more important than ever&nbsp;&nbsp;News-MedicalWomen Are Living Longer, But Not Necessarily Healthier. Here's Why It Matters&nbsp;&nbsp;Hercircle",
+      "summary": "India's longevity boom must stop treating women as an afterthought | Hindustan Times&nbsp;&nbsp;Hindustan TimesWhy India must reclaim its later years&nbsp;&nbsp;Hindustan TimesAs life expectancy rises, healthy aging is more important than ever&nbsp;&nbsp;News-MedicalWomen Are Living Longer, But Not Necessarily Healthier. Here's Why It Matters&nbsp;&nbsp;Hercircle",
       "sources": [
         {
-          "name": "hindustantimes.com",
+          "name": "Hindustan Times",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSG1CUGN6QXBrMURSODhLa094UGQtOGJuZTE2RVdQQW0yRGhIY3ZETXo2bHdBMzl0el94YkpLLS1SZ2lMMDhoNV9iNW9HeGYxMnVYeUJjWGItdndmbUp1TkxBYWNMUUs1ZnlOd05JZGRKV1R3MWg0cGVxQUNacHpuNGJQelQ4VWllZHZjbHZpWWRKZVVsLXA5Z25IZ2YwR0Y3RUZKZC05cVU0cWpZaV92bUd6RDdEV2lOUndYMS1UWUNyYmU4TXo1UXdySGs4dm1vRXcxb1RKc2hqQdIB3wFBVV95cUxNYTcwQlNMcVRlMlAzaTJLdnhtek9oY2psejZYa094eFB4UG5nRGpBUXBYSl81ZW82N190NFNiS3A4UUJWdVU5ZTk5TE8wdkFEMlpTUk9ZRHpZLUVSSXV1ckg0VU5sSTUyaDBaVmJOZXNyZF8xSHZ5cXRUTVlFNTZRd1llT2x6VjZ6M2Y0eUFHYm05M1VUYi1LMzZBTmR4dm15ZklOMGZhendEekpIQ0lDeDU3bFdfcFhReVpsXzdzNHNTblRHakhabklCRVIwN19fdlRvVEc2eHpJc21sY29j?oc=5"
         }
       ],
@@ -1352,7 +1702,7 @@
       "id": "3eef96a75d1f",
       "title": "Engineered bacteria may speed one of Earth's oldest ways of pulling carbon dioxide from the air",
       "published": "2026-09-05T05:07:00+00:00",
-      "summary": "Engineered bacteria may speed one of Earth's oldest ways of pulling carbon dioxide from the air&nbsp;&nbsp;YahooSee more headlines and perspectives on Google News",
+      "summary": "Engineered bacteria may speed one of Earth's oldest ways of pulling carbon dioxide from the air&nbsp;&nbsp;Yahooremoval from the atmosphere with ocean bacteria&nbsp;&nbsp;NatureEngineered bacteria speed rock weathering for carbon removal&nbsp;&nbsp;C&amp;EN",
       "sources": [
         {
           "name": "Yahoo",
@@ -1369,13 +1719,13 @@
       ]
     },
     {
-      "id": "5dca8b45207d",
+      "id": "429925b24b94",
       "title": "Why Indians avoid annual flu shots despite ‘40-60% protection’ and reduced risk of hospitalisation",
       "published": "2026-09-05T03:30:54+00:00",
-      "summary": "Why Indians avoid annual flu shots despite ‘40-60% protection’ and reduced risk of hospitalisation&nbsp;&nbsp;theprint.inIndia’s current flu spike is a test for the next pandemic. Failure is not an option&nbsp;&nbsp;The Indian ExpressMake affordable flu vaccine available to all in National Capital&nbsp;&nbsp;The New Indian ExpressFlu Shots Can Keep India Healthier. Yet, Few Actually Take Them&nbsp;&nbsp;isignal.inUnderstanding Monsoon Flu Surges, Vaccines, and Lingering Coughs in India&nbsp;&nbs",
+      "summary": "Why Indians avoid annual flu shots despite ‘40-60% protection’ and reduced risk of hospitalisation&nbsp;&nbsp;ThePrintIndia’s current flu spike is a test for the next pandemic. Failure is not an option&nbsp;&nbsp;The Indian ExpressMake affordable flu vaccine available to all in National Capital&nbsp;&nbsp;The New Indian ExpressFlu Shots Can Keep India Healthier. Yet, Few Actually Take Them&nbsp;&nbsp;isignal.inUnderstanding Monsoon Flu Surges, Vaccines, and Lingering Coughs in India&nbsp;&nbsp;T",
       "sources": [
         {
-          "name": "theprint.in",
+          "name": "ThePrint",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbGNISW5kUlhncUxJVUlFQXpkZ2VlMUpYTXFMRHVQSGhIcmVfRmMwTW9GVmJfWVRaYkUyNUV6cFVtd216R3RJTV82YjNacHdmVmx5NFFhOTRENkF5cUhKdU5JRTVnd21ZTlRYVjdiUHg4WDZpQkFYUjRDY2hFNDY3VkNmUkVoQl9vS3dTeU1FYU85TEZqY3pPY0pBMHlJZFU2OVBxcU9UdnE5dlNsbFZmWHNkRUJZYll6WHQyY0o0WC1EalV0eWx1QmJBRdIB0AFBVV95cUxPLXVYb0pONHlRb2wxeUNvdFpUZERBdVlXNEF2TENzT0E5UGJUdHFrUDkyclBEc1MwSWZydklIUWJJNlJNWFhPTGgwRjZXbzd1bVpaVGdSRm1pQTBVQXZFYVZ5Q0xiQlUzcVRQNFVzZ29MWmJCenVsTTI3UjlmNl9qTHZMN21fZ2FGUVl2VDdKOU4yRHNtYzBsa1Q4QjVSQmhENXZ5anR3SWRqWDNQNTg0Y2tWU2RmVklsSzRzLUtTVEljSDZaUFFEQklSeUMtbmVP?oc=5"
         }
       ],
@@ -1435,148 +1785,6 @@
       ]
     },
     {
-      "id": "ee84854014b2",
-      "title": "Fortis Healthcare and Takeda Launch National Dengue Awareness Campaign - India News Network",
-      "published": "2026-09-04T19:50:01+00:00",
-      "summary": "Fortis Healthcare and Takeda Launch National Dengue Awareness Campaign&nbsp;&nbsp;India News NetworkFortis Healthcare, Takeda launch ‘Mission Dengue Free India’ campaign&nbsp;&nbsp;expresshealthcare.inFortis Healthcare, Takeda launch Mission Dengue Free India awareness campaign&nbsp;&nbsp;Indian Pharma Post",
-      "sources": [
-        {
-          "name": "India News Network",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTU0tLWF3b3FZRlJPOEJkNlotcm4zaTdpUWxyVzFUNWlzLWVtcGs3ZFJ0c2t5dHc1QjFSN1oxVmMwaDRHekFoeEN2dEFqNnZKTjVfblRkaFc1czVjdllOUndwRWI3UkpNSXpyM0V1UHV3UWx4dTZmVlBlaVE4cWNKTDJnQk1TN2NPNjA4ZlJRVFZLX3VnNmoyWWdjY3kxUko4dWdnY0RCOGlPQWp4NWNNNA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f2ce2df203ef",
-      "title": "PMOS: It’s Not Just About The Ovaries - Kashmir Reader",
-      "published": "2026-09-04T19:47:34+00:00",
-      "summary": "PMOS: It’s Not Just About The Ovaries&nbsp;&nbsp;Kashmir ReaderPCOS is now PMOS: Why 70% of women don’t know they have it&nbsp;&nbsp;Cottage Grove JournalA recent name change to an endocrine disorder results in better research and treatment for women&nbsp;&nbsp;WXXI NewsKerry native establishes organisation to create stronger voice for women with PMOS&nbsp;&nbsp;Radio KerryTipperary people urged to get involved as new PMOS Ireland organisation launches&nbsp;&nbsp;Tipperary Live",
-      "sources": [
-        {
-          "name": "Kashmir Reader",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qSjJXOFI3VV9SX3FhRVJydEE5RUdGcnFtOXRlb3Nod2pKVGFZRmpuamFaT1QtMTJWOGNVUzR4VmkyNWRyODJJR2F0OHRGUkN2bG5QNk0wckVaVFhFMXhJQ2l0akZCc3FXYzMtZEpJUnV1Y3Q0TWlONzI3UXJ4dw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "a024384d70f7",
-      "title": "Classic Moon-formation simulations treated the colliding proto-Earth and Theia as strengthless fluids, typically producing a debris disk that assembled later—but when Southwest Research Institute researchers added temperature-dependent rock strength, one - Space Daily",
-      "published": "2026-09-04T18:30:00+00:00",
-      "summary": "Classic Moon-formation simulations treated the colliding proto-Earth and Theia as strengthless fluids, typically producing a debris disk that assembled later—but when Southwest Research Institute researchers added temperature-dependent rock strength, one&nbsp;&nbsp;Space DailyEarth-Theia collision created the moon in just 5 hours, study shows&nbsp;&nbsp;WIONScientists find new details on how exactly the Moon was formed&nbsp;&nbsp;The IndependentSimulations provide new clues about how the Moon fo",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43WTFreGNtU2NSUDdPMWtfZHVUaFhCZEM0S0hTRHdBUnFJMXQyaENPOTRUSnRYOVJqQUJjSmN5WXlzM0JNNWhGbHRlRkRSVGNqVy1Pb3gzQmlhTkZzZERIVGloYU5ablFLT0tCWElnOHFIekE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5812",
-          "name": "influenza",
-          "keyword": "flu"
-        }
-      ]
-    },
-    {
-      "id": "0f1448c1ee19",
-      "title": "Second complete map of a fruit fly brain completed - Ars Technica",
-      "published": "2026-09-04T16:24:24+00:00",
-      "summary": "Second complete map of a fruit fly brain completed&nbsp;&nbsp;Ars TechnicaHow the brain of a fly may help explain human behaviour&nbsp;&nbsp;BBC5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience&nbsp;&nbsp;blog.googleA connectomics milestone: Mapping the complete male fruit fly brain&nbsp;&nbsp;Google ResearchThe blueprint for taste: scientists map the complete circuitry behind an animal’s feeding decisions&nbsp;&nbsp;EurekAlert!",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMExXSUVqa0w4a3FxdW02UlBEeVRrRnJweXlqdG8xdDROeWV3eUtnREsxZXR2bXhENWtGTDVXYlk2cXJTWUdXeWt0Q092d1c4bVNJaGM0MEd1dzdESlBoVC0zX3ZVYnNuS2VRNU5wT0VuN1ozTk83cmxzeEY2a24xVXNuMjVnOGdFTmUzTGJGenQ5M2tjRmgxNF9XWWpJZ3ZMakN0aGRvOUFTRUx4UTMtUFZCQjE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "bfa817bf40a5",
-      "title": "Prostate Cancer Cardiovascular Risk Factors May Help Identify Patients Who Would Benefit From Additional Cardiac Care - The ASCO Post",
-      "published": "2026-09-04T16:21:57+00:00",
-      "summary": "Prostate Cancer Cardiovascular Risk Factors May Help Identify Patients Who Would Benefit From Additional Cardiac Care&nbsp;&nbsp;The ASCO PostRoutine referral of prostate cancer patients to a cardiovascular specialist fails to cut cardiac events&nbsp;&nbsp;News-MedicalSpecialist Referral Improves Cardiovascular Risk in Prostate Cancer&nbsp;&nbsp;EMJAvirup Guha: Strongest Randomized Evidence Yet for Organizing Cardio Oncology Around Prostate Cancer&nbsp;&nbsp;Oncodaily",
-      "sources": [
-        {
-          "name": "The ASCO Post",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWXAwVjZvSWw2blpWdDlfdV9NNUdCWkJ5Z0c5TDI2VWpaVjJxd3RSYVN5WldJVnFwVVJxNm9FMDNNRUZWM25RY3VxYzB3M28xSGVnOVQzWkJwTlRxNUhQZHpjWjdHWDhwcWYwX3dKenh4RW9OZmlPWlhvQ1BEYzVUaFhSWTBxY21iYXB4ejBmX2M4ODNxQ01odE9tcXlRcmptUTczb1I5ZGo3QzBlUUZqMWx5VXF1UkwtandpR1Z6NFkzZ2VoMHZzVTF4SkJYTUp3QzlaYVR5Z0tOT3JHU2pOVUcwSFNnSlAyajVuUVhCeVA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5159",
-          "name": "prostate carcinoma",
-          "keyword": "prostate cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "8315",
-          "name": "prostate cancer",
-          "keyword": "prostate cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__cardiovascular",
-          "name": "cardiovascular",
-          "keyword": "cardiovascular"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__heart_disease",
-          "name": "heart_disease",
-          "keyword": "cardiac"
-        }
-      ]
-    },
-    {
-      "id": "eafea01cb8de",
-      "title": "A fourth T6SS in clinical Pseudomonas aeruginosa deploys the pore-forming effector TseMt - EIN Presswire",
-      "published": "2026-09-04T15:48:00+00:00",
-      "summary": "A fourth T6SS in clinical Pseudomonas aeruginosa deploys the pore-forming effector TseMt&nbsp;&nbsp;EIN Presswire",
-      "sources": [
-        {
-          "name": "EIN Presswire",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcU4zS0RBemhfR0hjSmVYMi0yVlh6X1JxbVFQclpjWnpQTG12UUQtSjBJc1ptdVAtbm1SdVh3ZU1wcUMtbWFzRjFmb0c1VS10NGRvcjV3NXgtcW5ibnpTYXpsT01LVmpqdktwUkZkX2lKLXNpc0REYUVmb3RyX2wySld3dm9lLVZDai01U0UtY2RNNEx2QktSN3pvazRPMTBXeGxWR0lOVlZEcV84bFpnMzRIMS1WZjFJc1ROZHpHZGg5RVFaSVlLZVM2YlU1X0VO?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
       "id": "f006af03143d",
       "title": "AI may help identify breast cancers missed by mammograms, but clinical benefit remains uncertain - Medical Xpress",
       "published": "2026-09-04T15:40:08+00:00",
@@ -1621,117 +1829,13 @@
       ]
     },
     {
-      "id": "ff7628d9aa03",
-      "title": "Childbirth | Rising cost of motherhood - India Today",
-      "published": "2026-09-04T14:33:38+00:00",
-      "summary": "Childbirth | Rising cost of motherhood&nbsp;&nbsp;India TodaySee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXExMVNNUzhKaDdjOEx2bmtycDg5NGNhR1dwelJkMWRYUktxWm9ZVWg5Z2VQaGtSZEJLdzRRMHZ1dGoyWlZ2TW9JMlhQN3ZtSzNZREloSFZaNUY0TC1CYzBwVG9pS3h3bXFDR2piRFgtZXJFZ21uUWt0VF9PeVVzeW83YnFBZEV4d2RYalFocjF1bE5oU2R6dGh0aXd1X3p2SVZYSG9xY2JXNE01RDBIV2Fn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "789d86d22070",
-      "title": "Find Trial: ctDNA-Guided Surveillance After Colorectal Cancer Surgery - Oncology News Central",
-      "published": "2026-09-04T12:55:36+00:00",
-      "summary": "Find Trial: ctDNA-Guided Surveillance After Colorectal Cancer Surgery&nbsp;&nbsp;Oncology News Central",
-      "sources": [
-        {
-          "name": "Oncology News Central",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVBlYkpkZTNSNGlOUHYyMzM1VWtkNGdwWTI1c2tkelhvUFAycElERHdfMnZWWEhhejdvTUZzUmZrRUE5cUgxRGM3TDZsdHBva2pIa09RY3NkbDBmMHBLN2M2bUhTME9JSi1Yc1ltNzc1MmRSQ2cwNFVWOFRfWkgtb29NaTVUd0F5NFNNcVBKRmlWMWY5SW5TeXRxaVUydnFtekMtU2k4VnBldlJuemR5VnBXNUdPVzhtaGZxc2pnUnM2THBJ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "5575",
-          "name": "colorectal cancer",
-          "keyword": "colorectal cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "4992",
-          "name": "cancer",
-          "keyword": "cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "6519",
-          "name": "rectal cancer",
-          "keyword": "rectal cancer"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic__generic_cancer",
-          "name": "generic_cancer",
-          "keyword": "cancer"
-        }
-      ]
-    },
-    {
-      "id": "d2285ced6328",
-      "title": "Miguel Bronchud: PSA Decline Below 0.2 ng/mL Signals Better Outcomes",
-      "published": "2026-09-04T12:01:22+00:00",
-      "summary": "Miguel Bronchud: PSA Decline Below 0.2 ng/mL Signals Better Outcomes&nbsp;&nbsp;Oncodaily",
-      "sources": [
-        {
-          "name": "Oncodaily",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kclNsYk9tLWt2NFcxUW43LVRFT3VCS2pFRGlRNjRrUjFFbW5CbjlFYkFTaGFfTS1keGZtcmJCb2h2aVE5Z3RvTHNNR1JiYXpwVW85MVdIT0l2R3B4M19YNXNfbExueWVnOHFTRG12SjVvRUdtUk53?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "aafe999aa692",
-      "title": "A longer exhale may push your brain toward bolder decisions - Science Daily",
-      "published": "2026-09-04T11:35:10+00:00",
-      "summary": "A longer exhale may push your brain toward bolder decisions&nbsp;&nbsp;Science DailyScientists changed how people breathed and watched their brains respond — the unexpected finding could explain why we make different choices under pressure&nbsp;&nbsp;The Economic TimesWhat if we could use every breath to change how we think?&nbsp;&nbsp;Innovators MagazineCan the way you breathe affect your decisions? Study finds surprising link to risk-taking&nbsp;&nbsp;The Peninsula QatarHow the heart, lungs an",
-      "sources": [
-        {
-          "name": "Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVR0J5MTRzN1FuZlp4SWVfM2s3NV91SzRqdF9uWUZzc3ZWT3ZtRTZqRzBUQVBGOVF5M0FoQU8xeFhkOUt4X3JRZnNLamlWbnJpRzltRGxrc2o3eS0zNEdEWVRELUdXVHctREJZQktFRQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1c06873fbfd5",
-      "title": "Genes Behind Personality Traits Linked To Major Life Outcomes: Study",
-      "published": "2026-09-04T11:07:54+00:00",
-      "summary": "Genes Behind Personality Traits Linked To Major Life Outcomes: Study&nbsp;&nbsp;NDTVRobust inference and correlates from genetic associations with personality&nbsp;&nbsp;nature.comWhat shapes your personality? Your genes and environment play a big role.&nbsp;&nbsp;Popular ScienceScientists identify genetic markers linked to Big Five personality traits&nbsp;&nbsp;FOX 56 NewsUp To 13% Of Your Personality Comes From Your Genes – But How It Ultimately Turns Out Is Down To Something Else&nbsp;&nbsp;I",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXNDMzg1X3Q2X1JpVjlyR3dqS1FHd0FxMlB4XzJpYmNORFI2TTJLN3ZyVUt0YUN5dVVPRS01R3hMWkE0OWlwbF9aU19jTTRBcm9DVzRXakJsSEpSZUtoWXJJa3NsQWZHOW5US0FXMGt2NEJ2TGJEOGpQcmZMZlpCNkdOc1dwTzJFRHpLSzFOb0pRVlgzcUFMMGs1YkRueHJtMzBTcTdFTQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB01592",
-          "keyword": "iron",
-          "name": "Iron"
-        }
-      ]
-    },
-    {
-      "id": "e0568c5b20e7",
+      "id": "9184c9d76d7c",
       "title": "5 Plant-Based Foods That Can Help You Get More Protein Every Day",
       "published": "2026-09-04T07:00:00+00:00",
-      "summary": "5 Plant-Based Foods That Can Help You Get More Protein Every Day&nbsp;&nbsp;Health.com5 Plant-Based Foods With More Protein Than 2 Eggs&nbsp;&nbsp;Health.comA Guide To Plant-Based Protein Sources&nbsp;&nbsp;Cleveland Clinic Health Essentials5 Plant-Based Foods That Help You Get More Protein Daily&nbsp;&nbsp;وكالة صدى نيوز",
+      "summary": "5 Plant-Based Foods That Can Help You Get More Protein Every Day&nbsp;&nbsp;health.com5 Plant-Based Foods With More Protein Than 2 Eggs&nbsp;&nbsp;health.comA Guide To Plant-Based Protein Sources&nbsp;&nbsp;Cleveland Clinic Health Essentials5 Plant-Based Foods That Help You Get More Protein Daily&nbsp;&nbsp;وكالة صدى نيوز",
       "sources": [
         {
-          "name": "Health.com",
+          "name": "health.com",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpbGxpX2hyZXNDOHMzZkJVUWxpRmpBSzlxUE1DaFJwZ3RzdWlPMWstRG5lNGpSenQ2WVpNdTdYMjdOanFKNzdnV1ZDZ1kzV2dLeE5ERkN4N1ZMVWJnWGx3ejRBLWZFZTI5VUlFcXhvVTBXRU0z?oc=5"
         }
       ],
@@ -1745,6 +1849,19 @@
       ]
     },
     {
+      "id": "b86b7755120a",
+      "title": "Fortis Healthcare, Takeda launch ‘Mission Dengue Free India’ campaign",
+      "published": "2026-09-04T05:43:09+00:00",
+      "summary": "Fortis Healthcare, Takeda launch ‘Mission Dengue Free India’ campaign&nbsp;&nbsp;expresshealthcare.inFortis Healthcare, Takeda launch Mission Dengue Free India awareness campaign&nbsp;&nbsp;Indian Pharma Post",
+      "sources": [
+        {
+          "name": "expresshealthcare.in",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUZfcmxCRVBXZy10NVNzaFpqT3FYNWozMUhkdVQ0aV9pOEJfRlpKTjFLUlhBWGptVTdOTTJ5NGh0S3JETEdSYmVQcEdNVm13MW5pRlhRblhpcTktZ2ZMbXVuSS10eDhmajRtSUFOS0tUaFE4dHNyNVJEVktEV3VuRHVTNHFXYnVvTTdTMV9TQUc0eTd6eFlVcnd1bWUwOWtIZjFzQ3p2TzRWd1RsYVM2M0V3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "26ca7a5a3875",
       "title": "‘The Scope Of Physiotherapy Is Wide’: Dr. Ayush Laxkar On Rehabilitation, Technology And Patient Care - Business Remedies",
       "published": "2026-09-03T20:09:45+00:00",
@@ -1753,19 +1870,6 @@
         {
           "name": "Business Remedies",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOUpURVA1WDNSZ0gzZ3JFa1dmYjhiTmJrMjRXS0wybUNIcGFBeXIxaWh4NTBWRkY1ejNNLS1Ba3VFdDZ5V3RnblV6R2YwQ1pDdWQ4Yjg2dUdDaTdvRVc4Tmp3dEE2b3hZT1RpX21xXzlrcXJnTXdBWlVfY2pCSTNOdXRTQnlMbkVDWkxsRUJpVjkwbTJmUnhQOEN6OTNXQUVnbk1GTm5LSHpSTHVTOGF1cDVoM3FCOWgxWkp0c05nQ3FtOWt1bUE4SElR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8241556d1eb7",
-      "title": "From Field Epidemiology to Hospital Wards with William Schaffner",
-      "published": "2026-09-03T18:57:11+00:00",
-      "summary": "From Field Epidemiology to Hospital Wards with William Schaffner&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb0Qwek8wV1VWZlBLZjU3cFVGVWdnZ1h5Uml3Ny1rak9MV0d5THdlb0xYN3RWQTZSOTg3Q25UdVVyMjdaN1o5a1FyVHFGQVMwVHZCT1N0QWlxbXdBLUxULXJmbHc3eWp6WTZ6RW9sX2NUMWhuOVdVQXdiVHRMd084ZHRhOUpTc2Nwbzd5LXRSMzVpbkhUY3dsWl9LX3UxYS1TMVBRZ0ZMTkFKWjVlYzM4SXA5dERFMC14MWJ5eUZYTXo5N1RiakNxMHRFbGxNUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1797,36 +1901,10 @@
       ]
     },
     {
-      "id": "6e88252368e2",
-      "title": "Suppressor tRNAs restore cystic fibrosis protein in models",
-      "published": "2026-09-03T15:12:55+00:00",
-      "summary": "Suppressor tRNAs restore cystic fibrosis protein in models&nbsp;&nbsp;C&amp;ENEngineered tRNAs and lipid nanoparticles target nonsense mutation cystic fibrosis&nbsp;&nbsp;Drug Target ReviewRNA approach restores CFTR function in preclinical cystic fibrosis models&nbsp;&nbsp;Cystic Fibrosis News Today",
-      "sources": [
-        {
-          "name": "C&EN",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzBsWGthLVB0NVA5N0F3RHo4SUM5aUNrdzd2VTF1TWxyWUVmcU9qdVlhdG5SZWE2eUlUM0FqWTgwR0RUYkV5QktNZkVDaFJPdHJoZlNXNkJUeWhhMVU2UW1Hek0tN0V5RTRRVEdpUkJhdS1oaEdNMXduZVBrd3h0d2Y4eDJZNFE3NWpYOVV6bDREcjVfdUtUTU1zb01xRHc5RDI4ZjVlREhZUE1vX0JCVFRGTjYyLVozSnc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "9061",
-          "name": "cystic fibrosis",
-          "keyword": "cystic fibrosis"
-        }
-      ]
-    },
-    {
       "id": "12b770134f23",
       "title": "STAREE Strengthens Case for OTC Statins",
       "published": "2026-09-03T14:21:26+00:00",
-      "summary": "STAREE Strengthens Case for OTC Statins&nbsp;&nbsp;MedscapeWhy statins are so important in preventing heart disease&nbsp;&nbsp;RTE.ieStatins show primary prevention benefit after 70&nbsp;&nbsp;the limbic",
+      "summary": "STAREE Strengthens Case for OTC Statins&nbsp;&nbsp;MedscapeWhy statins are so important in preventing heart disease&nbsp;&nbsp;RTE.ieStatins deliver for the over-70s&nbsp;&nbsp;Medical Republic",
       "sources": [
         {
           "name": "Medscape",
@@ -1849,27 +1927,14 @@
       ]
     },
     {
-      "id": "7b5b4a737cd1",
-      "title": "Stopping chronic pain before it starts: Surprising biological pathway may play key role - Medical Xpress",
-      "published": "2026-09-03T14:00:06+00:00",
-      "summary": "Stopping chronic pain before it starts: Surprising biological pathway may play key role&nbsp;&nbsp;Medical XpressMedical Bulletin 02/September/2026&nbsp;&nbsp;medicaldialogues.inThe Brain Has a Switch That Shuts Off Chronic Pain&nbsp;&nbsp;The Good Men ProjectResearchers Have Discovered a New Way To Reduce Chronic Nerve Pain&nbsp;&nbsp;SciTechDailyScientists Find the Brain’s Natural Brake on Chronic Nerve Pain&nbsp;&nbsp;The Eastern Herald",
+      "id": "f2ff4612f81f",
+      "title": "Earth-Theia collision created the moon in just 5 hours, study shows",
+      "published": "2026-09-03T10:23:38+00:00",
+      "summary": "Earth-Theia collision created the moon in just 5 hours, study shows&nbsp;&nbsp;WIONMoon may have formed in 5 hrs after planet Theia hit Earth: Study | 'Finding may help learn exact time of collision' | Inshorts&nbsp;&nbsp;InshortsClassic Moon-formation simulations treated the colliding proto-Earth and Theia as strengthless fluids, typically producing a debris disk that assembled later—but when Southwest Research Institute researchers added temperature-dependent rock strength, one&nbsp;&nbsp;Spac",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQTRyc0FLVUtoazZYZXpTX3o2QXlualVkelZ3YlZJZWZsN1h0YWxrM0w4S0pmMlR2cXBteURndEVId19EeVY1WFB1Qy1UeEx3SjFTUzBiMEhobUFNYTJtX2pYSnhENG8zR1k2WjlnM09KOUU2WTFSNjllVVlTZFpaTTZMU0FtdW8?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "87ea82c4cb9a",
-      "title": "WHO Postpartum Haemorrhage Criteria Could Support Earlier Treatment",
-      "published": "2026-09-03T12:05:40+00:00",
-      "summary": "WHO Postpartum Haemorrhage Criteria Could Support Earlier Treatment&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdTdWbHZIRDU3Mmk5Z2FsVzlwaFdKbVY3RjN1N29WcW0wa0dDanc4aDNuR3o4Ykxkajh0Y1FJX3IxcW5Yb01WUkFveElLYkp1aUFvYm5pbjRtbWxsMTg0MWltbmEtbFM4LVMwMmpJalYxaWNhUUFWbDhJcUJlQXJWNnE5VGtzYXR5SmZEcEFHOTh0cVYwdTZPVmNiQ040NmVGb2o3QXFlN1ZhVnpvMWhJUGp5VE1iYnFzWlNkNQ?oc=5"
+          "name": "WION",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlVsRXczc3VGTGFzajYwS2FDd01JdEdxNW5WVFowckFNd0gtb3Vpc1JOOHgzWXZsUm9ZbWdJRllXbUxsTWxlM29NZEEyTkpRLUNnV2w1dUd4R1Vsdkgtc3V2WGZreFBMSlByYnZjZEdsQzhYX0ZSN1RNdkI4bF9GUEtkMlozQmNINVM4RHhlX19XMTdzR3pFTGVaY0huTU91WWtFVVFxZlF6eUdGemxSdkZPWdIBuAFBVV95cUxNc05lMFQ5SEIwNDQ4OW9wSmtIbHh2THZlbTRCLTgwRU1LYmpmcTNWZkNyREdSQVZETEN2UkQ5Yl9PVTV1bWc3c1AzSG9NVVJ2a19jYkJINTFVSkNkdVNOdk5mM3ZhSXJXbnItVGpKT3d2b1gxN1ljSGFkU3B0Yk9KcGxCTGhsZDZSV2t6STB0X0tUcktqbl9IVkdfN2lwbWplZmMxVXJxU1ZoMzUtenNpMWZFS2ZZX09w?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1878,6 +1943,12 @@
           "disease_id": "7270_12900_54838_12306",
           "name": "mo",
           "keyword": "mo"
+        },
+        {
+          "type": "indication",
+          "disease_id": "5812",
+          "name": "influenza",
+          "keyword": "flu"
         }
       ]
     },
@@ -1895,49 +1966,17 @@
       "matched_keywords": []
     },
     {
-      "id": "53b2b7dbd51d",
-      "title": "Reduced exposure to nature is linked to immune system diseases [Commentary] - Mongabay India",
-      "published": "2026-09-03T09:49:22+00:00",
-      "summary": "Reduced exposure to nature is linked to immune system diseases [Commentary]&nbsp;&nbsp;Mongabay India",
+      "id": "f1ebec1650e1",
+      "title": "PCOS to PMOS: What women need to know about hormones, insulin, weight and fertility - Odisha TV",
+      "published": "2026-09-03T04:51:32+00:00",
+      "summary": "PCOS to PMOS: What women need to know about hormones, insulin, weight and fertility&nbsp;&nbsp;Odisha TVA recent name change to an endocrine disorder results in better research and treatment for women&nbsp;&nbsp;WXXI NewsCan You Have PCOS Without Being Overweight? The 'Lean PCOS' Explained&nbsp;&nbsp;NDTVPCOS is now PMOS: Why 70% of women don’t know they have it&nbsp;&nbsp;Kern Valley SunTipperary people urged to get involved as new PMOS Ireland organisation launches&nbsp;&nbsp;Tipperary Live",
       "sources": [
         {
-          "name": "Mongabay India",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzFnVWxuYW9pQ2xKNXNWY0N6azhhWUVLQ0VlVmlHdFgwbnpGTjFhdTlWR3VhTE1KQ3pHOUc1X3VSWFJvSFBVU2RncWNXRWg3cXU0cjEzQ2l6dXdrV1pQaDcyeWhGNmt6SG5SN0NtQUEyV05OMk5nT1h6QktvdnZOWlZIN1lJaUJtT0dhZVlBcjJmeDBsOHBIU0FISXE1Qm5SUDVxa25yR2hrUFNwanc?oc=5"
+          "name": "Odisha TV",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcUdRSGt0UEtWME5yQlVKREhqRkNaQ3BrR0x2N2JuMFlUUlpiTGpSeFZuNDNWMmhLRjZaSnRvaGNLYVZYYXhrQ1cyQV9aWVJPQ1U2S1N5UG5TZW41dDR2LVlFaE91NXVhNjc5R09TZ1V4TWJ0dmRxTWFOVzZHOTNrcXVDQkJCeS1hWGJ1WHlSaENVYWNoXzgydFhJaDhqN0hwdGRobl9tbTlaQ0xxWHdnbi1zWmJWX03SAbwBQVVfeXFMUFJlRTlYYkx1T3E1NGdnRHdJOXFoMVU2NC1mRndnVFlFRWIzS3NUNDdpUGdyT21lUWQzSVpKZEwwZjR0THIxaXhKOXVfUDE2d2FveS1vYzdHbjd2bzByZUgzdklvenlwSHBUNGxidXA2Umg2NzJRY2Q5V1lVX0VQT01weGV1QlQzcVlCc244RGRRX1ViSWpnVkp6aFN4MW1oNDAzbjNTeXFqZC00X2NUQW5kNi1MUnA5cExQNlE?oc=5"
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5046",
-          "name": "immune system disease",
-          "keyword": "immune system disease"
-        }
-      ]
-    },
-    {
-      "id": "afc3e2cc658c",
-      "title": "Progesterone levels linked to brain patterns underlying mood changes",
-      "published": "2026-09-03T02:44:00+00:00",
-      "summary": "Progesterone levels linked to brain patterns underlying mood changes&nbsp;&nbsp;News-MedicalHigh Progesterone During Periods May Affect Emotion Control In Brain: Study&nbsp;&nbsp;NDTVProgesterone levels may be linked to how the brain handles emotions&nbsp;&nbsp;Earth.comThis Hormonal Shift Might Explain Why Your Mood Can Take a Dive the Week Before Your Period Starts&nbsp;&nbsp;Everyday HealthMRI shows how hormones affect mood&nbsp;&nbsp;AuntMinnie",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDlhTnFDY1pvbllicEwzdlF6SVVhdFZpVHJFejF3bFlOU2lRX2o3TXE5V2Y4cjVDNkstZlZHMEY2Q3k3QTd6Yzh6N1BFTllyM2M2bnl0MmVDazkxTEliZlJhTTR2NjJJZ3VSTTNWemhFb1M0c0pyUXNtdWlHWDV3bGxMOXZoWDNZSE92ME9aQU9mMXpaX3lLRmhoMTR1Sm1FWmlRN0duQU9mNkZfMmxUMGtXd09zMGM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "drugbank_id": "DB00396",
-          "keyword": "progesterone",
-          "name": "Progesterone"
-        },
         {
           "type": "indication",
           "disease_id": "7270_12900_54838_12306",
@@ -1950,7 +1989,7 @@
       "id": "c772495360bc",
       "title": "Global initiative launched to improve access to mpox vaccines",
       "published": "2026-09-02T20:10:21+00:00",
-      "summary": "Global initiative launched to improve access to mpox vaccines&nbsp;&nbsp;UNICEFMpox Vaccine Stockpile Creates a Permanent Emergency Buffer for Future Outbreaks&nbsp;&nbsp;DevdiscourseKenya to Benefit From New Global Mpox Vaccine Stockpile&nbsp;&nbsp;Capital FM AfricaGlobal mpox vaccine reserve established to speed up emergency supply to Africa&nbsp;&nbsp;Channel AfricaHow a new global mpox vaccine stockpile could help the world respond faster to outbreaks&nbsp;&nbsp;Gavi, the Vaccine Alliance",
+      "summary": "Global initiative launched to improve access to mpox vaccines&nbsp;&nbsp;UNICEFMpox Vaccine Stockpile Creates a Permanent Emergency Buffer for Future Outbreaks&nbsp;&nbsp;devdiscourse.comKenya to Benefit From New Global Mpox Vaccine Stockpile&nbsp;&nbsp;Capital FM AfricaGlobal mpox vaccine reserve established to speed up emergency supply to Africa&nbsp;&nbsp;Channel AfricaHow a new global mpox vaccine stockpile could help the world respond faster to outbreaks&nbsp;&nbsp;Gavi, the Vaccine Allianc",
       "sources": [
         {
           "name": "UNICEF",
@@ -1960,10 +1999,23 @@
       "matched_keywords": []
     },
     {
+      "id": "c08bae152385",
+      "title": "Parents’ Vitamin B12 Levels Linked To Birth Defect Risk In Babies, New Study Reveals",
+      "published": "2026-09-02T14:01:39+00:00",
+      "summary": "Parents’ Vitamin B12 Levels Linked To Birth Defect Risk In Babies, New Study Reveals&nbsp;&nbsp;News18Low B12, Folate in Fathers Linked to Birth Defects&nbsp;&nbsp;MedscapeHigher vitamin B12 levels in both parents are associated with lower risk of birth defects&nbsp;&nbsp;Medical DialoguesNutrient Deficiency in Expectant Fathers Affects Child’s Risk of Heart Defects&nbsp;&nbsp;Yahoo Life UKOne Vitamin in Both Parents Linked to Healthier Pregnancies, Study Finds&nbsp;&nbsp;Newsweek",
+      "sources": [
+        {
+          "name": "News18",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYmpMOEgtMXZHYU54cGtPcmlrd2d6TERNYjRGSEI5NXU5eG93ZzBOZXVqVjQ1Z1lZdkJuQlMtX0UzRzNSU3I0OVpCNHVHUnJ0ODJOdDVSYUs5M3dLRERLZTZTS2dPdW5CNTlfd1RkNnhDZFhCR29MYy15aFgtTWgybFFGNEI4ak51bktINlpYSnJHU2RiSU53MFdGZ2lwVWNPY1Y0OHR2bVFvUnliZzAtWWR4UnBnSjdYUzNoelBKNmV5YWp1bXdWVm9mNHBZVnBUenp0RjQzQjF2c2xWbUN2TTc3XzEzbjRH0gHuAUFVX3lxTE81ejZFaXFTZV9fVFlhVUJtUG9HZHotRENiY1lfZTJiNXgxYTlZVHQxY1paczdFSGFYd09YQUJYZUE4MllpcUctS0JiZHBhQW43eFFpQ0U4WHptV1FhWHN4ZTJfMlZUdGkzTjFsUldhT1RIT3BnVmFGQl9MOWh2WTA0M3VQbkFfUWp2MWdBTWk3cWpCZFA2SUNqMHhUYjF0NmstNDdQb1ZEdjVnaE5WSF9rT3ZnTmFsTXlIUmMzSDBPZERISnNsVEJBckh2TWxqUUZ0SExzbkJYRHIxdUJjd0dTdjllbl9yYjFDbnFOWXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f54f851f2a8c",
       "title": "Beyond heart attack: cardiologists redefine myocardial infarction",
       "published": "2026-09-02T06:05:20+00:00",
-      "summary": "Beyond heart attack: cardiologists redefine myocardial infarction&nbsp;&nbsp;healthcare-in-europe.comNew definition of heart attack promises better care for women&nbsp;&nbsp;BioWorld NewsThe Definition for a Heart Attack Just Changed—and It Could Help Women in a Big Way&nbsp;&nbsp;Yahoo HealthNew MI Definition; Lipid-Lowering Advances; Former ESC Prez's Misconduct?&nbsp;&nbsp;MedPage TodayNew recognition of heart attacks mainly affecting women&nbsp;&nbsp;British Heart Foundation",
+      "summary": "Beyond heart attack: cardiologists redefine myocardial infarction&nbsp;&nbsp;healthcare-in-europe.comNew definition of heart attack promises better care for women&nbsp;&nbsp;BioWorld NewsThe Definition for a Heart Attack Just Changed—and It Could Help Women in a Big Way&nbsp;&nbsp;health.yahoo.comNew MI Definition; Lipid-Lowering Advances; Former ESC Prez's Misconduct?&nbsp;&nbsp;MedPage TodayNew recognition of heart attacks mainly affecting women&nbsp;&nbsp;British Heart Foundation",
       "sources": [
         {
           "name": "healthcare-in-europe.com",
@@ -1992,34 +2044,14 @@
       ]
     },
     {
-      "id": "383baeef89dc",
-      "title": "Higher vitamin B12 levels in parents before conception may lower risk of birth defect: Study - ET HealthWorld",
-      "published": "2026-09-02T01:45:06+00:00",
-      "summary": "Higher vitamin B12 levels in parents before conception may lower risk of birth defect: Study&nbsp;&nbsp;ET HealthWorldSee more headlines and perspectives on Google News",
+      "id": "93fbbc250c07",
+      "title": "Fatty Liver, Colorectal Cancer Rise in India; Experts Urge Early Detection - Deccan Chronicle",
+      "published": "2026-09-01T17:06:21+00:00",
+      "summary": "Fatty Liver, Colorectal Cancer Rise in India; Experts Urge Early Detection&nbsp;&nbsp;Deccan ChronicleLiver damage without a drop of alcohol? The hidden causes doctor wants you to know&nbsp;&nbsp;The Times of India‘Thin-fat’ Indians? Health coach on why ‘40 is new 60 for Indian metabolism’; diabetes, fatty liver rising at young age&nbsp;&nbsp;Hindustan TimesDelhi set to host first World Congress of Gastroenterology in India, around 3,000 delegates expected&nbsp;&nbsp;The New Indian Express‘I tho",
       "sources": [
         {
-          "name": "ET HealthWorld",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQREluNV9nSXJMUGhId3llZ1MwUnMxaXVZajJOMDhDcUNYUzU0WjdxbzFwUmJ4MFRmRFdlemdsU0ZLYU1KRmNVdW9kcGtLQ0VJVzNES1JMUFdqamlMY3BZTnpLRDhYQlVzekJaSGF4SzFJVDFtdGNaQlpxX2pqTlY3VTR4ZUx0QV9Ob0pDYTgybmR3WFVHRXhOdjFFUjVfQ0VSVGRSTjFNSzJCQ2VhdmRybl9xQVNtVXN3ODNmZ1dVTDJUeXg1LWhIMFA1eENud2s5UHlJbjBOX0RBY2VPQ0VMVW84NWlXaHNiS04wdWZWakrSAfYBQVVfeXFMTVQxYUpQNU9GbWVxd0hBQXNrWHA3MVZaQkdRQkk0T2pZRUtjaklFWENMNElGVzZwZDFrelFMZld6N2tmSHpOWjhEclFIUzBoWlFOQmNmVm5rWjVTeUszOXVmd0h1NDVVYkNTdmhJLUNfY0VDZVp1cExsRVlEN0J0bEVxTW10V2xsWm1wTFhFRmVHeHYwckVOb0hITTlPY2NQcGRfM2hXVFRQSERUUmFDR015OGVXekZwWUhObk1mMGpva1N4ZDFyanFZdTFPS2VlbkFYc1M3RzY0ZDhWaWpLd0Q1YkliNkZvemJ6NFBHdmZWTEd5RUN3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        }
-      ]
-    },
-    {
-      "id": "c680378826fc",
-      "title": "From fatty liver to colorectal cancer, poor gut health is India's emerging health crisis: AIIMS doctors - Deccan Herald",
-      "published": "2026-09-01T16:23:54+00:00",
-      "summary": "From fatty liver to colorectal cancer, poor gut health is India's emerging health crisis: AIIMS doctors&nbsp;&nbsp;Deccan HeraldLiver damage without a drop of alcohol? The hidden causes doctor wants you to know&nbsp;&nbsp;The Times of India‘Thin-fat’ Indians? Health coach on why ‘40 is new 60 for Indian metabolism’; diabetes, fatty liver rising at young age&nbsp;&nbsp;hindustantimes.comDelhi set to host first World Congress of Gastroenterology in India, around 3,000 delegates expected&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONVZ3bDIzOVp5UDRRTGx3ODMxVi1uSUR4R0tFYnp4WEg0YkZxbVhZb01FVkxZZTlFU3RrWHI2amtyUXY3Uzh4RDcyUC1mLU1ES3ZOd3IxVXFmSERrVUp5UGItcnpSRUtMTFMwbWJIZnFFM29tb0xyVHdPVTJ5M21oSnZEY25OdDJpeVRKdTlrNUV3OXRxWnNLNlBVazI5MjNRejEycXYweG1XYUtMMDBRUnc1b1BCeVNlTHVwczFvNjVNZ1N4RDFGMUVDdVFTRzgwdzhmYWRobHJCWXlqQU8zZkJIc0R4UzR1Yzk0?oc=5"
+          "name": "Deccan Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEg0a3hzaExCT0l1ekpOOHpicTFsSXpwNEJwVF9KS2c4U3lpUUdDdERWNnJYVkxjUUJUcFhHUDduT29uSWRjTmQwS1p0eXVTOXBvYUI3eVotRmk4UVFKWHd1dHJnVEdMelpuUVluVkFRRDZRZ3VqR1hZT0VvRENqSVpjN0J0NEU0N1dMa2lUMU54dVl6bHZhUnFfTEw5WUZjTk9Od1FmQTRNXzdqclJkM3kwalN6ZG11cllzdXYwQdIBxAFBVV95cUxOWF9VM0hCcVRJSVBsUm1BQVNib2x1MFFkWHE2ZHY4NzVhVS1YTnM4bXhkdkd1SzRTYkFOUVNNV0t3NzF0QkpIUUZUS2xZQmVTRDlESFBKdWRxVFZpdGlwRlVWYzVHeFVSb3RLRUVSR2J5U1p6OW1Cc3ZRSFM0VWNoM0ZDNWNJSUczTk00ZGt4Nktlc0xUb0VXVmFGS1NYZ3VodFE4aVdqY1JGR2JlZ1BXTFNfTWtIbXgwV1FtNzhhRTM0TkN3?oc=5"
         }
       ],
       "matched_keywords": [
@@ -2062,72 +2094,35 @@
       ]
     },
     {
-      "id": "49cd6da3fd2f",
-      "title": "Why are strokes rising among young adults? Neurosurgeon shares 5 warning signs | Health",
-      "published": "2026-09-01T12:35:46+00:00",
-      "summary": "Why are strokes rising among young adults? Neurosurgeon shares 5 warning signs | Health&nbsp;&nbsp;hindustantimes.comBE FAST: Spotting stroke symptoms, and how one survivor says it saved her life&nbsp;&nbsp;News4JAXStroke warning signs&nbsp;&nbsp;PressReaderSpreading stroke awareness&nbsp;&nbsp;Yahoo6 Stroke Warning Signs That Define the Golden Hour and What to Do in the First Minute&nbsp;&nbsp;inkl",
+      "id": "97cc1fcdbbe8",
+      "title": "Each human breath acts as unique fingerprint for thinking",
+      "published": "2026-08-31T18:50:00+00:00",
+      "summary": "Each human breath acts as unique fingerprint for thinking&nbsp;&nbsp;News-MedicalA longer exhale may push your brain toward bolder decisions&nbsp;&nbsp;Science DailyScientists changed how people breathed and watched their brains respond — the unexpected finding could explain why we make different choices under pressure&nbsp;&nbsp;The Economic TimesWhat if we could use every breath to change how we think?&nbsp;&nbsp;Innovators MagazineCan the way you breathe affect your decisions? Study finds sur",
       "sources": [
         {
-          "name": "hindustantimes.com",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeEJnclI3ay0zanhKS1ZaNDI5VTZQN0drQUFjQUsyN3JUNzlUSXoxUUtoWEd6X0hYTHFyOV96RkNDN0JYb2JJaTBiV2NsREg3UlhzTlJrRHlEVWJfZTZGRXVpenNIaDNXbWFxTlJSUVVyS0V4RkpYcUpZTEFVcFFldXhvRlJ5UVFTQUstY3hCVzFuTkUtZWlmWFNGRy1xMi1tZVlvMjd5UjF1RjMzLV8wUXYtRzUwZTRxaFp0U1ZsRTV4eURMalRmSEpuVVRld3dad3k2VkZEUVZYR1ljLTd30gHkAUFVX3lxTE0zRWZESlF2S0xrOVRYOUJucGE0aTRfUWRXNG5IeVRxRlE4Zk93ZEtCYkJSdTFJc042X2g1c2JzZTBWdXNUNDJGTGV0VFhYeWl0eFh4U1pWeVkycVp6bUhRT1o5TDh1aWxTRkNBWk1Xd3FWeG9iSm5RU2JRUFhNS0xRQ2ZsbjBIZGNlS2ZZbDQ1QjYtQTBEdXpEaVZ0XzhxU0pnOUo3ei1nbVFweTBwN3JEdUlOZlpFbzM3Sk03TDJuMWpyV0pvX0xGdGJ5LW5VVDJROVpsRFU3ZXRONWJyRzd4dW1rLQ?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd3R3aS1BMWVoWFBzZXpRWlhWQWpMN2ZiZEI1RXp6MFNEejhtbXNvc2xNTU9FNkl1MGQ1czd6R01FSFJEMVdLei1GcHFZYWp6T1lxV01XRkRLdDdYaDN3MlhqVzVseDlJZ0lJRmpkTkczWmxvamZJeE5GTG5kQ1Rjd2MyYzl4NVdHSVFmLVpLbWRoOVd5SmpXNjA2Z1J6VENfWGF5ajBNWTA?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "generic_stroke",
-          "name": "stroke",
-          "keyword": "stroke"
-        }
-      ]
+      "matched_keywords": []
     },
     {
-      "id": "e2b608d6d47e",
-      "title": "GLP-1 Studies Suggest Benefits Extend to Infectious Diseases - MedPage Today",
-      "published": "2026-08-31T21:33:21+00:00",
-      "summary": "GLP-1 Studies Suggest Benefits Extend to Infectious Diseases&nbsp;&nbsp;MedPage TodayGLP-1 Drugs Linked to Lower Risk of Tuberculosis and Severe Infections: Study&nbsp;&nbsp;medicaldialogues.inOzempic and Other GLP-1s Are Being Linked to Fewer Serious Infections—Including TB&nbsp;&nbsp;GizmodoNew study suggests GLP-1s may protect against serious infections&nbsp;&nbsp;WCVBGLP-1 Drugs Linked to Lower Infection Risk&nbsp;&nbsp;Voice of Healthcare",
+      "id": "a7c974440d3b",
+      "title": "H5N1 Bird Flu Outbreak: Impact on Australian Wildlife and Conservation - India News Network",
+      "published": "2026-08-31T07:40:32+00:00",
+      "summary": "H5N1 Bird Flu Outbreak: Impact on Australian Wildlife and Conservation&nbsp;&nbsp;India News NetworkAuthorities in Australia confirm Sydney’s 1st case of H5N1 bird flu strain&nbsp;&nbsp;News On AIRIs Your Backyard Bird Feeder Spreading Bird Flu?&nbsp;&nbsp;A-Z AnimalsAuthorities confirm bird flu in fox and suspected case in dolphin&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting CorporationOur Tern: Bird flu arrives on the Northern Beaches&nbsp;&nbsp;Manly Observer",
       "sources": [
         {
-          "name": "MedPage Today",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjJHOXQ4UkZPSl9ZZDV1U3NuY0REWTk2ZlAxTThDVXZjUEk3QUZwMFNTdFdXMHREbFpITDJqOW9QVFQ0UzlZY3pYbGdRMWp4NElUT1dUeFEyMklTLTFaMjlpSHRGRVpkQjlDd3lNMXRLeVdvbU83bS1iY1FVQWFmSFR0Yzc?oc=5"
+          "name": "India News Network",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVFFOazFKbDdGZkE0aS1IR1Y5Q0d2ZWljYzZrOGNxcEhRNlFaZktIZTlCak91bElUZ3FDeVlzYnBVWG9Wd3JoLTYwUXNOQTMtT0tON1FNYWJhaWdqNUhBZU1QbWx5anFJUEJJRGpQbk1NZEYyX3BXc0hKTDNsWWZ6MWNCczMxUGpFdXhraFAxbEt1bGo4dWNFNkN0UG03LUo3ekFNb2RCLXFCcG8?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "disease_id": "7270_12900_54838_12306",
-          "name": "mo",
-          "keyword": "mo"
-        },
-        {
-          "type": "indication",
-          "disease_id": "18076",
-          "name": "tuberculosis",
-          "keyword": "tuberculosis"
-        },
-        {
-          "type": "indication",
-          "disease_id": "18076",
-          "name": "tuberculosis",
-          "keyword": "TB"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5113_5550_5108",
-          "name": "infectious disease",
-          "keyword": "infectious disease"
-        },
-        {
-          "type": "indication",
-          "disease_id": "5027",
-          "name": "epilepsy",
-          "keyword": "fits"
+          "disease_id": "5812",
+          "name": "influenza",
+          "keyword": "flu"
         }
       ]
     },
@@ -2161,7 +2156,7 @@
       "id": "7f5c1e7afc9f",
       "title": "India cuts malaria cases and deaths by nearly 80% over a decade - Indian Pharma Post",
       "published": "2026-08-31T05:00:28+00:00",
-      "summary": "India cuts malaria cases and deaths by nearly 80% over a decade&nbsp;&nbsp;Indian Pharma PostIndia’s malaria paradox: Closer than ever to elimination, but last mile may be the hardest yet&nbsp;&nbsp;theprint.inMalaria Down 80%, But 33 Districts Still Account For Bulk Of India’s Burden&nbsp;&nbsp;Outlook India",
+      "summary": "India cuts malaria cases and deaths by nearly 80% over a decade&nbsp;&nbsp;Indian Pharma PostIndia’s malaria paradox: Closer than ever to elimination, but last mile may be the hardest yet&nbsp;&nbsp;ThePrintMalaria Down 80%, But 33 Districts Still Account For Bulk Of India’s Burden&nbsp;&nbsp;Outlook India",
       "sources": [
         {
           "name": "Indian Pharma Post",
@@ -2186,19 +2181,6 @@
         {
           "name": "The Hindu",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYnduVC1uZlRSTFg5clEzY2NhWHdfX1NXUGpHcWRHREI3SlZhWVRrcHlFS2RlU3lLeVRROHY3d0UtRUhTV3YxQ1lmU0tfcGpVbnZkYVh2ZTJ4RC1pSEFhN3pCQU1kYnpQRHlnVERkQVhuVXB4a29MTkRxSUQxYVhUdGFPS0hUMHlIMnVOeTFGb3dHajFCNVlsWnM2eFM5WEVYaEVZdWgzdEtrenBNMTBCSk9ZSGJJc3E4VTJ4NlJ4d1ZEWUdVZkE2VXpMcHhUbzA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7c6105fa6a30",
-      "title": "New study captures Sun’s early warning signs before solar flares - The Hindu",
-      "published": "2026-08-30T15:22:26+00:00",
-      "summary": "New study captures Sun’s early warning signs before solar flares&nbsp;&nbsp;The HinduAdvancing space weather preparedness for the grids&nbsp;&nbsp;enlit.worldIndia’s Aditya-L1 catches early warning signs before major solar flares—it could be a life saver&nbsp;&nbsp;starlust.orgNew AI Detects Hidden Warning Signs of Solar Eruptions Hours Before They Emerge&nbsp;&nbsp;SciTechDailyAditya-L1 catches Sun’s early warning signs before solar flares&nbsp;&nbsp;Manorama Yearbook",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcFlzdWM2UTFUb0QwR21TSjJ6Q2V4OGFWb3RxTUV0YkNjZElmZXdLNktCOGduZDJDdzJaYzcxTjNfSFEyZzB1VHI5c09rUzJyd3BaWHhtcEJEUWt6cW9TcUl3SEFieUZzUWZxTHdIcnA1dzBHeHhNNHhDOWZ1dF9DVi1DMFk0UThjRFF1YkpRZlk5RG9PTk9MQTNzNUpGY3hfaEZjLTZpMUpXc3Z2bVVBVUU0QzhmUmpWcFpQVk5Xa21JY0k?oc=5"
         }
       ],
       "matched_keywords": []
