@@ -2,7 +2,7 @@
 layout: default
 title: Nitroglycerin
 parent: 僅模型預測 (L5)
-nav_order: 495
+nav_order: 598
 evidence_level: L5
 indication_count: 5
 ---

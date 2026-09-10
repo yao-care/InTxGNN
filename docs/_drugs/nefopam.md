@@ -2,7 +2,7 @@
 layout: default
 title: Nefopam
 parent: 僅模型預測 (L5)
-nav_order: 476
+nav_order: 579
 evidence_level: L5
 indication_count: 10
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Propafenone
 parent: 僅模型預測 (L5)
-nav_order: 505
+nav_order: 699
 evidence_level: L5
 indication_count: 8
 ---

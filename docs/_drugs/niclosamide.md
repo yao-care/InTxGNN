@@ -2,7 +2,7 @@
 layout: default
 title: Niclosamide
 parent: 僅模型預測 (L5)
-nav_order: 484
+nav_order: 587
 evidence_level: L5
 indication_count: 10
 ---

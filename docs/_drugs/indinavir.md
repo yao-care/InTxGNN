@@ -2,7 +2,7 @@
 layout: default
 title: Indinavir
 parent: 僅模型預測 (L5)
-nav_order: 330
+nav_order: 427
 evidence_level: L5
 indication_count: 7
 ---

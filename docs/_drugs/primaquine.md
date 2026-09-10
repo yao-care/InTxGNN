@@ -2,7 +2,7 @@
 layout: default
 title: Primaquine
 parent: 僅模型預測 (L5)
-nav_order: 498
+nav_order: 692
 evidence_level: L5
 indication_count: 8
 ---

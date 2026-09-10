@@ -2,7 +2,7 @@
 layout: default
 title: Primidone
 parent: 僅模型預測 (L5)
-nav_order: 499
+nav_order: 693
 evidence_level: L5
 indication_count: 10
 ---
