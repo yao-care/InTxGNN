@@ -2,7 +2,7 @@
 layout: default
 title: Montelukast
 parent: 僅模型預測 (L5)
-nav_order: 460
+nav_order: 563
 evidence_level: L5
 indication_count: 5
 ---

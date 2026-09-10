@@ -2,7 +2,7 @@
 layout: default
 title: Urofollitropin
 parent: 僅模型預測 (L5)
-nav_order: 513
+nav_order: 804
 evidence_level: L5
 indication_count: 10
 ---

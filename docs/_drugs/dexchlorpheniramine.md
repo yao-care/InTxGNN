@@ -2,7 +2,7 @@
 layout: default
 title: Dexchlorpheniramine
 parent: 僅模型預測 (L5)
-nav_order: 226
+nav_order: 248
 evidence_level: L5
 indication_count: 2
 ---

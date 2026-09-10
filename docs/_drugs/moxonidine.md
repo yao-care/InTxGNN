@@ -2,7 +2,7 @@
 layout: default
 title: Moxonidine
 parent: 僅模型預測 (L5)
-nav_order: 464
+nav_order: 567
 evidence_level: L5
 indication_count: 10
 ---

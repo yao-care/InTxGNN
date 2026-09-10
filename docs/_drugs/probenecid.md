@@ -2,7 +2,7 @@
 layout: default
 title: Probenecid
 parent: 僅模型預測 (L5)
-nav_order: 500
+nav_order: 694
 evidence_level: L5
 indication_count: 3
 ---

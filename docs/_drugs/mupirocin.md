@@ -2,7 +2,7 @@
 layout: default
 title: Mupirocin
 parent: 僅模型預測 (L5)
-nav_order: 465
+nav_order: 568
 evidence_level: L5
 indication_count: 10
 ---

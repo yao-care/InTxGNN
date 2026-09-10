@@ -2,7 +2,7 @@
 layout: default
 title: Niacin
 parent: 僅模型預測 (L5)
-nav_order: 482
+nav_order: 585
 evidence_level: L5
 indication_count: 1
 ---

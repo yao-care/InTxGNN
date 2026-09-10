@@ -2,7 +2,7 @@
 layout: default
 title: Natalizumab
 parent: 僅模型預測 (L5)
-nav_order: 473
+nav_order: 576
 evidence_level: L5
 indication_count: 5
 ---
