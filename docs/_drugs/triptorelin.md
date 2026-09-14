@@ -2,7 +2,7 @@
 layout: default
 title: Triptorelin
 parent: 僅模型預測 (L5)
-nav_order: 799
+nav_order: 862
 evidence_level: L5
 indication_count: 10
 ---
