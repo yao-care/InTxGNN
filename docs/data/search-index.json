@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10",
-  "drug_count": 1615,
-  "indication_count": 2425,
+  "generated": "2026-09-14",
+  "drug_count": 1712,
+  "indication_count": 2443,
   "drugs": [
     {
       "name": "Abacavir",
@@ -169595,6 +169595,610 @@
       "indications": []
     },
     {
+      "name": "Tamoxifen",
+      "slug": "tamoxifen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tamsulosin",
+      "slug": "tamsulosin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tapentadol",
+      "slug": "tapentadol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tazarotene",
+      "slug": "tazarotene",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tegafur",
+      "slug": "tegafur",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tegaserod",
+      "slug": "tegaserod",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Telbivudine",
+      "slug": "telbivudine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Telmisartan",
+      "slug": "telmisartan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Temozolomide",
+      "slug": "temozolomide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Temsirolimus",
+      "slug": "temsirolimus",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tenecteplase",
+      "slug": "tenecteplase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Teneligliptin",
+      "slug": "teneligliptin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tenofovir Alafenamide",
+      "slug": "tenofovir_alafenamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tenofovir Disoproxil",
+      "slug": "tenofovir_disoproxil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tenoxicam",
+      "slug": "tenoxicam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Terazosin",
+      "slug": "terazosin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Terbutaline",
+      "slug": "terbutaline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Terfenadine",
+      "slug": "terfenadine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Teriflunomide",
+      "slug": "teriflunomide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Teriparatide",
+      "slug": "teriparatide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Terlipressin",
+      "slug": "terlipressin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tetrabenazine",
+      "slug": "tetrabenazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tetracycline",
+      "slug": "tetracycline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Theophylline",
+      "slug": "theophylline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Thiamine",
+      "slug": "thiamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Thiocolchicoside",
+      "slug": "thiocolchicoside",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Thiopental",
+      "slug": "thiopental",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Thioridazine",
+      "slug": "thioridazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tiagabine",
+      "slug": "tiagabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tiapride",
+      "slug": "tiapride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ticagrelor",
+      "slug": "ticagrelor",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ticarcillin",
+      "slug": "ticarcillin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tinidazole",
+      "slug": "tinidazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tioconazole",
+      "slug": "tioconazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tiotropium",
+      "slug": "tiotropium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tipiracil",
+      "slug": "tipiracil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tizanidine",
+      "slug": "tizanidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tobramycin",
+      "slug": "tobramycin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tofisopam",
+      "slug": "tofisopam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tolfenamic Acid",
+      "slug": "tolfenamic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tolmetin",
+      "slug": "tolmetin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tolperisone",
+      "slug": "tolperisone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tolvaptan",
+      "slug": "tolvaptan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Topiramate",
+      "slug": "topiramate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Trigeminal nerve neoplasm | 99.70% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "**Visual epilepsy** | 99.28% | **L3** | S2 | **Proceed with Guardrails**",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Eating seizures | 99.21% | L4 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Orgasm-induced seizures | 99.21% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Audiogenic seizures | 99.21% | L4 | S1 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "**Thinking seizures** | 99.21% | **L3** | S2 | **Proceed with Guardrails**",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Micturition-induced seizures | 99.21% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Startle epilepsy | 99.21% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Reading seizures | 99.09% | L3 | S1 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Topiroxostat",
+      "slug": "topiroxostat",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Topotecan",
+      "slug": "topotecan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trabectedin",
+      "slug": "trabectedin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tramadol",
+      "slug": "tramadol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trametinib",
+      "slug": "trametinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tranexamic Acid",
+      "slug": "tranexamic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tranylcypromine",
+      "slug": "tranylcypromine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trastuzumab",
+      "slug": "trastuzumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Travoprost",
+      "slug": "travoprost",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trazodone",
+      "slug": "trazodone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Treosulfan",
+      "slug": "treosulfan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tretinoin",
+      "slug": "tretinoin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Triamcinolone",
+      "slug": "triamcinolone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Alopecia mucinosa | 99.99% | pending | pending | 待評估（4篇文獻，均為病例報告層級）",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Telogen effluvium | 99.99% | L5 | S0 | Hold（非發炎主導病理，機轉關聯薄弱）",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Quinquaud's folliculitis decalvans | 99.99% | L4 | S1 | Research Question（機轉合理但文獻未直接對應 triamcinolone）",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Alopecia antibody deficiency | 99.99% | L5 | S0 | Hold（無文獻／試驗支持）",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Hereditary hypotrichosis with recurrent skin vesicles | 99.99% | L5 | S0 | Hold（單基因疾病，機轉不相關）",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome | 99.99% | L5 | S0 | Hold（罕見症候群，無證據）",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Atrichia with papular lesions | 99.96% | L5 | S0 | Hold（角質分化異常，非發炎驅動）",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Alopecia universalis onychodystrophy vitiligo | 99.75% | L5 | S0 | Hold（無文獻／試驗支持）",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Sporadic idiopathic steroid-**resistant** nephrotic syndrome | 99.74% | L5 | S0 | Hold（**機轉矛盾**：定義即為對類固醇無反應，與 triamcinolone 作用機轉相悖）",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Triamterene",
+      "slug": "triamterene",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Triclofos",
+      "slug": "triclofos",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trifluoperazine",
+      "slug": "trifluoperazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trihexyphenidyl",
+      "slug": "trihexyphenidyl",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trimebutine",
+      "slug": "trimebutine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trimetazidine",
+      "slug": "trimetazidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trimethoprim",
+      "slug": "trimethoprim",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Triptorelin",
       "slug": "triptorelin",
       "brands": [],
@@ -169997,6 +170601,270 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Vancomycin",
+      "slug": "vancomycin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vandetanib",
+      "slug": "vandetanib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Varenicline",
+      "slug": "varenicline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vasopressin",
+      "slug": "vasopressin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vecuronium",
+      "slug": "vecuronium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Verapamil",
+      "slug": "verapamil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Verteporfin",
+      "slug": "verteporfin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vilazodone",
+      "slug": "vilazodone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vildagliptin",
+      "slug": "vildagliptin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vinblastine",
+      "slug": "vinblastine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vincristine",
+      "slug": "vincristine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vinorelbine",
+      "slug": "vinorelbine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vinpocetine",
+      "slug": "vinpocetine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vitamin A",
+      "slug": "vitamin_a",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vitamin E",
+      "slug": "vitamin_e",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Voglibose",
+      "slug": "voglibose",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vortioxetine",
+      "slug": "vortioxetine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Warfarin",
+      "slug": "warfarin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Xylitol",
+      "slug": "xylitol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Xylometazoline",
+      "slug": "xylometazoline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zafirlukast",
+      "slug": "zafirlukast",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zaltoprofen",
+      "slug": "zaltoprofen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zidovudine",
+      "slug": "zidovudine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zinc Acetate",
+      "slug": "zinc_acetate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zinc Chloride",
+      "slug": "zinc_chloride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zinc Gluconate",
+      "slug": "zinc_gluconate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zinc Oxide",
+      "slug": "zinc_oxide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zinc Sulfate",
+      "slug": "zinc_sulfate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ziprasidone",
+      "slug": "ziprasidone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zolmitriptan",
+      "slug": "zolmitriptan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zolpidem",
+      "slug": "zolpidem",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zonisamide",
+      "slug": "zonisamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zuclopenthixol",
+      "slug": "zuclopenthixol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     }
   ],
   "indications": [
@@ -170111,12 +170979,34 @@
       ]
     },
     {
+      "name": "**Thinking seizures** | 99.21% | **L3** | S2 | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Topiramate",
+          "slug": "topiramate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "**Vaginal discharge** | 99.41% | **L1** | **Proceed with Guardrails**",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Secnidazole",
           "slug": "secnidazole",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "**Visual epilepsy** | 99.28% | **L3** | S2 | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Topiramate",
+          "slug": "topiramate",
           "score": 99.0
         }
       ]
@@ -170636,12 +171526,56 @@
       ]
     },
     {
+      "name": "Alopecia antibody deficiency | 99.99% | L5 | S0 | Hold（無文獻／試驗支持）",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Triamcinolone",
+          "slug": "triamcinolone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Alopecia mucinosa | 99.99% | pending | pending | 待評估（4篇文獻，均為病例報告層級）",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Triamcinolone",
+          "slug": "triamcinolone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Alopecia universalis onychodystrophy vitiligo | 99.75% | L5 | S0 | Hold（無文獻／試驗支持）",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Triamcinolone",
+          "slug": "triamcinolone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Alopecia | 99.55% | L4 | Weak-to-moderate — 1 ambiguous trial (drug identity unconfirmed) + 13 publications, mostly indirect (Glycerin as a formulation excipient, or basic skin-barrier science), not direct efficacy evidence",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Glycerin",
           "slug": "glycerin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome | 99.99% | L5 | S0 | Hold（罕見症候群，無證據）",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Triamcinolone",
+          "slug": "triamcinolone",
           "score": 99.0
         }
       ]
@@ -170914,6 +171848,17 @@
       ]
     },
     {
+      "name": "Atrichia with papular lesions | 99.96% | L5 | S0 | Hold（角質分化異常，非發炎驅動）",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Triamcinolone",
+          "slug": "triamcinolone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Audiogenic Seizures",
       "drug_count": 1,
       "drugs": [
@@ -170931,6 +171876,17 @@
         {
           "drug": "Brivaracetam",
           "slug": "brivaracetam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Audiogenic seizures | 99.21% | L4 | S1 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Topiramate",
+          "slug": "topiramate",
           "score": 99.0
         }
       ]
@@ -172587,6 +173543,17 @@
       ]
     },
     {
+      "name": "Eating seizures | 99.21% | L4 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Topiramate",
+          "slug": "topiramate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Eating seizures | 99.99% | 0 / 0 | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -173651,6 +174618,17 @@
         {
           "drug": "Hydroxyurea",
           "slug": "hydroxyurea",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Hereditary hypotrichosis with recurrent skin vesicles | 99.99% | L5 | S0 | Hold（單基因疾病，機轉不相關）",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Triamcinolone",
+          "slug": "triamcinolone",
           "score": 99.0
         }
       ]
@@ -175562,6 +176540,17 @@
       ]
     },
     {
+      "name": "Micturition-induced seizures | 99.21% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Topiramate",
+          "slug": "topiramate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Middle ear neuroendocrine tumor | 94.42% | L5 | Research Question | NETs are typically hypervascular; anti-angiogenic class-extension hypothesis reasonable",
       "drug_count": 1,
       "drugs": [
@@ -176194,6 +177183,17 @@
         {
           "drug": "Brivaracetam",
           "slug": "brivaracetam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Orgasm-induced seizures | 99.21% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Topiramate",
+          "slug": "topiramate",
           "score": 99.0
         }
       ]
@@ -177667,6 +178667,17 @@
       ]
     },
     {
+      "name": "Quinquaud's folliculitis decalvans | 99.99% | L4 | S1 | Research Question（機轉合理但文獻未直接對應 triamcinolone）",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Triamcinolone",
+          "slug": "triamcinolone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "RCC associated with neuroblastoma | 99.65% | L4 | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -177821,6 +178832,17 @@
           "drug": "Oxcarbazepine",
           "slug": "oxcarbazepine",
           "score": 99.84
+        }
+      ]
+    },
+    {
+      "name": "Reading seizures | 99.09% | L3 | S1 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Topiramate",
+          "slug": "topiramate",
+          "score": 99.0
         }
       ]
     },
@@ -178510,6 +179532,17 @@
       ]
     },
     {
+      "name": "Sporadic idiopathic steroid-**resistant** nephrotic syndrome | 99.74% | L5 | S0 | Hold（**機轉矛盾**：定義即為對類固醇無反應，與 triamcinolone 作用機轉相悖）",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Triamcinolone",
+          "slug": "triamcinolone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Startle Epilepsy",
       "drug_count": 1,
       "drugs": [
@@ -178527,6 +179560,17 @@
         {
           "drug": "Brivaracetam",
           "slug": "brivaracetam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Startle epilepsy | 99.21% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Topiramate",
+          "slug": "topiramate",
           "score": 99.0
         }
       ]
@@ -178619,6 +179663,17 @@
           "drug": "Epalrestat",
           "slug": "epalrestat",
           "score": 98.7
+        }
+      ]
+    },
+    {
+      "name": "Telogen effluvium | 99.99% | L5 | S0 | Hold（非發炎主導病理，機轉關聯薄弱）",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Triamcinolone",
+          "slug": "triamcinolone",
+          "score": 99.0
         }
       ]
     },
@@ -178886,6 +179941,17 @@
         {
           "drug": "Clonazepam",
           "slug": "clonazepam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Trigeminal nerve neoplasm | 99.70% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Topiramate",
+          "slug": "topiramate",
           "score": 99.0
         }
       ]
