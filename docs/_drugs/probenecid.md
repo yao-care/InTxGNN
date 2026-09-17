@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Probenecid
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 694
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Probenecid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,14 +25,14 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
 Using the report structure exactly as specified in your prompt. A few data-fidelity notes before the report:
 
 - `drug.original_indications` is empty and `original_moa` is `[Data Gap]` (DG002) — no original indication/MOA is present in the evidence pack itself. I've used Probenecid's well-established pharmacological classification (uricosuric agent) only where the template's fallback language explicitly calls for it, and flagged it clearly as outside the evidence pack.
-- `taiwan_regulatory.licenses` is empty (0 registrations, 未上市) → per your Prohibition #5 ("do not list empty sections"), the Market Information table is omitted rather than shown empty.
+- `taiwan_regulatory.licenses` is empty (0 registrations, Not marketed) → per your Prohibition #5 ("do not list empty sections"), the Market Information table is omitted rather than shown empty.
 - Probenecid is not antineoplastic → Cytotoxicity section omitted per the rules.
 - `key_warnings`/`contraindications` are both `[Data Gap]` → excluded per Prohibition #1; only the DDI data (which has real content) is reported under Safety.
 - I added one short subsection ("Other Candidate Indications Considered") that isn't in your template's fixed list, because omitting ranks #2 and #3 — which carry real safety signal — would violate "do not omit data." It sits between the reasoning section and the trial/literature tables so the required section order is otherwise untouched.
@@ -55,7 +55,7 @@ Probenecid is a classic uricosuric agent historically used to treat gout and chr
 | Predicted New Indication | Renal Hypouricemia (hypouricemia, renal) |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L5 |
-| India Market Status | ✗ 未上市 (Not Marketed) |
+| India Market Status | ✗ Not marketed (Not Marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Folic Acid
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 373
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Folic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Folic acid (DrugBank DB00158) is a water-soluble B-vitamin conventionally used t
 | Predicted New Indication | Biotin metabolic disease |
 | TxGNN Prediction Score | 99.49% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed (未上市) |
+| India Market Status | ✗ Not Marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -93,7 +93,7 @@ No RCT evidence exists linking folic acid to biotin metabolic disease; all retri
 
 ## India Market Information
 
-Folic acid currently holds no marketing authorization record in this dataset (market status: 未上市 / Not Marketed; 0 registrations). No license or product information is available.
+Folic acid currently holds no marketing authorization record in this dataset (market status: Not marketed / Not Marketed; 0 registrations). No license or product information is available.
 
 ## Safety Considerations
 

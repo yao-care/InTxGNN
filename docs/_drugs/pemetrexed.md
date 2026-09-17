@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Pemetrexed
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 649
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Pemetrexed
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -97,7 +97,7 @@ Given that TS is highly expressed in mesothelioma cells regardless of anatomical
 
 ## India Market Information
 
-Pemetrexed is currently **not marketed** in India according to this evidence pack (`market_status: 未上市`, 0 registrations). No license records are available to summarize.
+Pemetrexed is currently **not marketed** in India according to this evidence pack (`market_status: Not marketed`, 0 registrations). No license records are available to summarize.
 
 ---
 

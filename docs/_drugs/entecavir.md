@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Entecavir
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 306
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Entecavir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -101,7 +101,7 @@ However, the mechanistic basis for genuine ETV activity against HCV is criticall
 
 ## India Market Information
 
-Entecavir is **not currently registered** in India based on the data in this Evidence Pack (`market_status: "未上市"`, `total_licenses: 0`). No license authorization records are available to display.
+Entecavir is **not currently registered** in India based on the data in this Evidence Pack (`market_status: "Not marketed"`, `total_licenses: 0`). No license authorization records are available to display.
 
 > **Note**: Entecavir (brand name Baraclude®, Bristol-Myers Squibb) holds regulatory approvals in multiple major markets including the United States (FDA, 2005), the European Union (EMA), Japan (PMDA), and China (NMPA) for chronic HBV infection. Independent verification with the **Central Drugs Standard Control Organisation (CDSCO)** of India is strongly recommended to confirm current registration status, as market data gaps may reflect a data retrieval limitation rather than a definitive regulatory absence.
 

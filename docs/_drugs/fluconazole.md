@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluconazole
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 355
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Fluconazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ but this prediction is currently supported by **0 clinical trials** and **0 publ
 | Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
 | TxGNN Prediction Score | 99.24% (rank 11,709) |
 | Evidence Level | L5 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related literature available
 
 ## Taiwan Market Information
 
-Fluconazole currently has no marketing license on record in Taiwan (market_status: 未上市, total_licenses: 0). No registration entries are available to summarize.
+Fluconazole currently has no marketing license on record in Taiwan (market_status: Not marketed, total_licenses: 0). No registration entries are available to summarize.
 
 ---
 

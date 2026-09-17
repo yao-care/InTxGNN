@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teneligliptin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 809
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Teneligliptin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 8
 | Predicted New Indication | Opsismodysplasia |
 | TxGNN Prediction Score | 99.45% (raw score), but ranked **9038th** overall — many disease pairs score near this ceiling, so the raw score alone is not strongly discriminating |
 | Evidence Level | L5 |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -67,7 +67,7 @@ Currently no related literature available.
 
 ## Taiwan Market Information
 
-Teneligliptin currently holds **no drug license registration in Taiwan** (market status: 未上市 / Not Marketed; total licenses: 0). No product, dosage form, or approved indication data is available from the Taiwan regulatory record.
+Teneligliptin currently holds **no drug license registration in Taiwan** (market status: Not marketed / Not Marketed; total licenses: 0). No product, dosage form, or approved indication data is available from the Taiwan regulatory record.
 
 ## Safety Considerations
 

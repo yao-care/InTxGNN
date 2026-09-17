@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Vitamin A
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 885
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Vitamin A
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -33,7 +33,7 @@ Using no additional skill — this is a direct content-generation task fully spe
 
 **Note before the report:** This Evidence Pack contains 10 TxGNN-predicted indications for Vitamin A (DB00162), not one. Per the scoring already embedded in the data, **9 of 10 candidates are flagged `Hold`** (L4–L5, no mechanistic support — several are explicitly annotated as likely knowledge-graph artifacts, e.g., confusion between Vitamin A and Vitamin K, or ontology-category nodes rather than real diseases). Only **rank 6 ("perinatal disease," decision stage S2, recommendation "Proceed with Guardrails," evidence level L2)** clears a meaningful evidence bar. Following literal `predicted_indications[0]` would produce a report on "congenital prothrombin deficiency" — a candidate the evidence pack itself says has **no mechanistic link** and should be held. As the acting drug repurposing expert, I report on the actionable candidate (rank 6) and disclose this substitution transparently below, rather than surface a self-flagged false positive.
 
-Also flagging: the input schema is labeled `taiwan_regulatory` with TFDA-specific data gaps (DG001/DG002 reference "TFDA 官網" and "TFDA 仿單警語"), while the prompt template header describes "India/CDSCO." I've followed the data (Taiwan/TFDA), not the template's India wording, since the data itself is unambiguous and guessing the wrong jurisdiction would be a factual error.
+Also flagging: the input schema is labeled `taiwan_regulatory` with TFDA-specific data gaps (DG001/DG002 reference "India Pharma website" and "TFDA 仿單警語"), while the prompt template header describes "India/CDSCO." I've followed the data (Taiwan/TFDA), not the template's India wording, since the data itself is unambiguous and guessing the wrong jurisdiction would be a factual error.
 
 ---
 
@@ -55,7 +55,7 @@ Also flagging: the input schema is labeled `taiwan_regulatory` with TFDA-specifi
 | Predicted New Indication | Perinatal disease — narrowed to: Bronchopulmonary dysplasia (BPD) prevention in very low birth weight infants |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L2 |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -103,7 +103,7 @@ Note: no registered trial in this Evidence Pack directly tests vitamin A for BPD
 
 ## Taiwan Market Information
 
-Vitamin A is **not currently registered as an approved pharmaceutical product** in this jurisdiction (0 licenses on file, `market_status: 未上市`). As a vitamin, it may be available through nutritional/supplement channels outside formal drug registration, but no TFDA drug license record exists in this dataset. This absence of formal registration is itself a gating factor for any repurposing pathway (see Conclusion).
+Vitamin A is **not currently registered as an approved pharmaceutical product** in this jurisdiction (0 licenses on file, `market_status: Not marketed`). As a vitamin, it may be available through nutritional/supplement channels outside formal drug registration, but no TFDA drug license record exists in this dataset. This absence of formal registration is itself a gating factor for any repurposing pathway (see Conclusion).
 
 ---
 
@@ -131,7 +131,7 @@ Five successive Cochrane systematic review updates over 16 years provide consist
 - Obtain TFDA package insert warnings/contraindications (DG001, currently Blocking) before any S1 safety review
 - Confirm formal DrugBank/pharmacology MOA documentation (DG002)
 - Narrow the target indication explicitly to "BPD/mortality prevention in VLBW/preterm infants" rather than the broad "perinatal disease" category before advancing
-- Clarify local regulatory pathway given the drug is currently unregistered (未上市) — determine whether this would proceed as a supplement or require new drug registration
+- Clarify local regulatory pathway given the drug is currently unregistered (Not marketed) — determine whether this would proceed as a supplement or require new drug registration
 - Exclude the ontology-artifact candidate ("disease by subcellular system affected") from future TxGNN candidate lists at the pipeline level
 ## Disclaimer
 

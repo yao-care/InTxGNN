@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vitamin E
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 886
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Vitamin E
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -41,11 +41,11 @@ Vitamin E（維生素E）為脂溶性抗氧化營養素，目前台灣未查得�
 
 | 項目 | 內容 |
 |------|------|
-| 原始適應症 | 查無資料（台灣未上市，無核准適應症文字） |
+| 原始適應症 | 查無資料（台灣Not marketed，無核准適應症文字） |
 | 預測新適應症 | Inborn Disorder of Bilirubin Metabolism（先天性膽紅素代謝障礙） |
 | TxGNN 預測分數 | 99.99%（rank 522） |
 | 證據等級 | L4（機轉/臨床前層級） |
-| 台灣市場狀態 | 未上市 |
+| 台灣市場狀態 | Not marketed |
 | 藥證登記數 | 0 |
 | 建議決策 | **Hold（暫緩）** |
 
@@ -80,7 +80,7 @@ Vitamin E（維生素E）為脂溶性抗氧化營養素，目前台灣未查得�
 
 ## 台灣市場資訊
 
-目前查無台灣核准藥證資料（市場狀態：未上市，登記數：0，無可列示之許可證/適應症文字）。
+目前查無台灣核准藥證資料（市場狀態：Not marketed，登記數：0，無可列示之許可證/適應症文字）。
 
 ---
 
@@ -105,7 +105,7 @@ Vitamin E（維生素E）為脂溶性抗氧化營養素，目前台灣未查得�
 
 **若要推進，需補齊：**
 - TFDA 仿單警語與禁忌症資料（下載並解析官方仿單 PDF）
-- Vitamin E 完整作用機轉（MOA）資料（查詢 DrugBank API）
+- Vitamin E 完整作用機轉（MOA）資料（Query the DrugBank API）
 - 針對先天性膽紅素代謝障礙之直接介入性人體試驗證據
 
 **附註：** 同一 Evidence Pack 中排名第二的「bilirubin metabolism disease（廣義膽紅素代謝疾病，含 NAFLD/NASH 相關肝功能異常）」證據等級達 **L2**，已有一項完成之 Phase 4 頭對頭 RCT（Vitamin E vs UDCA vs pentoxifylline，n=102）及多項觀察性佇列支持，建議另案評估該適應症之推進可行性。

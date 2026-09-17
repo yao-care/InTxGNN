@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Zolpidem
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 902
-evidence_level: L5
+evidence_level: L1
 indication_count: 3
 ---
 
 # Zolpidem
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Evidence Level: **L1** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -57,7 +57,7 @@ indication_count: 3
 
 Currently, detailed mechanism of action data is not available in this Evidence Pack (`original_moa: [Data Gap]`). Based on well-established pharmacological knowledge, Zolpidem is a non-benzodiazepine hypnotic ("Z-drug") that acts as a selective agonist at the α1 subunit of the GABA-A receptor. This mechanism produces sedative-hypnotic effects with a more selective receptor profile than traditional benzodiazepines, and its efficacy for insomnia has been documented internationally for over three decades.
 
-Notably, this case differs from a typical "repurposing" scenario: the predicted indication (insomnia) is not a novel disease area for Zolpidem but its core, already-known therapeutic use. The evidence pack shows Zolpidem is **not currently registered in India** (0 licenses, market status "未上市"), so the practical significance of this TxGNN prediction is less about discovering a new mechanism and more about **confirming strong, pre-existing evidence** for a potential first-time market introduction of Zolpidem in India.
+Notably, this case differs from a typical "repurposing" scenario: the predicted indication (insomnia) is not a novel disease area for Zolpidem but its core, already-known therapeutic use. The evidence pack shows Zolpidem is **not currently registered in India** (0 licenses, market status "Not marketed"), so the practical significance of this TxGNN prediction is less about discovering a new mechanism and more about **confirming strong, pre-existing evidence** for a potential first-time market introduction of Zolpidem in India.
 
 The literature evidence reflects this maturity: Zolpidem appears repeatedly as the active comparator in modern Phase 3 trials of newer hypnotics (lemborexant, daridorexant), and in multiple meta-analyses and network meta-analyses evaluating pharmacological treatments for insomnia — indicating an extensive, decades-deep evidence base rather than early-stage or purely computational signal.
 
@@ -88,7 +88,7 @@ Currently no related clinical trials registered (the `clinical_trials` and `ictr
 
 ## India Market Information
 
-Zolpidem currently holds **no market registrations in India** (`market_status: 未上市`, `total_licenses: 0`). No authorization records are available to summarize.
+Zolpidem currently holds **no market registrations in India** (`market_status: Not marketed`, `total_licenses: 0`). No authorization records are available to summarize.
 
 ---
 

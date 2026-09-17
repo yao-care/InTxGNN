@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Tenofovir Disoproxil
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 811
-evidence_level: L5
+evidence_level: L3
 indication_count: 4
 ---
 
 # Tenofovir Disoproxil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Evidence Level: **L3** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -99,7 +99,7 @@ All literature except the single 2010 human-PrEP review is drawn from non-human 
 
 ## India/Taiwan Market Information
 
-No license records are available for tenofovir disoproxil in this evidence pack — `taiwan_regulatory.licenses` is empty and `market_status` is recorded as **未上市 (Not Marketed)**, with 0 total registrations. No product-level authorization table can be produced from the data provided.
+No license records are available for tenofovir disoproxil in this evidence pack — `taiwan_regulatory.licenses` is empty and `market_status` is recorded as **Not marketed (Not Marketed)**, with 0 total registrations. No product-level authorization table can be produced from the data provided.
 
 ---
 

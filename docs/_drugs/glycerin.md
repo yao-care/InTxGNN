@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glycerin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 393
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Glycerin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -51,7 +51,7 @@ indication_count: 10
 | Predicted New Indication | Irritable Bowel Syndrome (constipation-predominant) — selected as the most mechanistically plausible candidate; see note above |
 | TxGNN Prediction Score | 99.49% (rank 6 of 10; overall top-ranked candidate was 99.60% but assessed as a false positive) |
 | Evidence Level | L4 (mechanism-based hypothesis; no disease-specific clinical trial or literature) |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -83,7 +83,7 @@ Currently no related literature available specific to Glycerin and Irritable Bow
 
 ## Taiwan Market Information
 
-Glycerin currently has **no registered pharmaceutical product licenses in Taiwan** (`market_status: 未上市`, `total_licenses: 0`). No brand names, dosage forms, or approved indication text are available from TFDA records in this evidence pack.
+Glycerin currently has **no registered pharmaceutical product licenses in Taiwan** (`market_status: Not marketed`, `total_licenses: 0`). No brand names, dosage forms, or approved indication text are available from TFDA records in this evidence pack.
 
 ---
 

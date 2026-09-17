@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ripasudil
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 737
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Ripasudil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 10
 | Predicted New Indication | Hyperprolactinemia (disease) |
 | TxGNN Prediction Score | 99.87% |
 | Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -104,7 +104,7 @@ For reference, the only literature found anywhere in this batch relates to rank 
 
 ## Taiwan Market Information
 
-This drug is **not currently marketed in Taiwan** (未上市). No registration or license records are available in this dataset.
+This drug is **not currently marketed in Taiwan** (Not marketed). No registration or license records are available in this dataset.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Arginine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 68
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Arginine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ L-Arginine（精胺酸）是人體的半必需胺基酸，臨床上廣泛用於�
 | Predicted New Indication | Gastroparesis（胃輕癱） |
 | TxGNN Prediction Score | 99.42% |
 | Evidence Level | L4（臨床前研究 / 機轉研究） |
-| India Market Status | ✗ 未上市 |
+| India Market Status | ✗ Not marketed |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -94,7 +94,7 @@ L-精胺酸（L-Arginine）是一氧化氮合酶（NOS）的唯一生理底物�
 
 ## India Market Information
 
-根據現有資料，**L-Arginine 目前在印度無已登記之藥品許可證（License）**，市場狀態為「未上市」。
+根據現有資料，**L-Arginine 目前在印度無已登記之藥品許可證（License）**，市場狀態為「Not marketed」。
 
 > 注意：精胺酸以膳食補充劑形式在市場上廣泛流通，但作為處方藥物適應症的正式核准資料尚未收錄於本資料庫。建議另查 CDSCO 官方資料庫確認補充劑及原料藥的登記現況。
 

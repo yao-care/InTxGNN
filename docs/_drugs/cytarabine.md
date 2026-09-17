@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cytarabine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 221
 evidence_level: L5
 indication_count: 9
@@ -10,12 +10,12 @@ indication_count: 9
 # Cytarabine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -44,7 +44,7 @@ The TxGNN model predicts it may be effective for **Small Cell Lung Carcinoma**, 
 | Predicted New Indication | Small Cell Lung Carcinoma |
 | TxGNN Prediction Score | 99.78% |
 | Evidence Level | L3 (uncontrolled/non-randomized human Phase II studies; no RCT of cytarabine specifically in SCLC identified) |
-| India Market Status | Not Marketed (未上市) |
+| India Market Status | Not Marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -83,7 +83,7 @@ However, it is important to note that the three registered clinical trials in th
 
 ## India Market Information
 
-Cytarabine is currently **not marketed** under this evidence pack's regulatory registry (`market_status: 未上市`, `total_licenses: 0`). No license or product registration records are available.
+Cytarabine is currently **not marketed** under this evidence pack's regulatory registry (`market_status: Not marketed`, `total_licenses: 0`). No license or product registration records are available.
 
 ## Cytotoxicity
 

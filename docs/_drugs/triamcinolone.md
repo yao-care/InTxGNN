@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Triamcinolone
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 854
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Triamcinolone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -33,7 +33,7 @@ indication_count: 10
 
 ## 一句話摘要
 
-Triamcinolone 是合成型糖皮質類固醇（corticosteroid），已知作用機轉資料目前缺失，但依藥理分類廣泛用於發炎、過敏及自體免疫相關疾病；該藥於印度**尚未上市**，無在地藥證。TxGNN 本次針對此藥共預測 10 個候選適應症，其中以 **Idiopathic Steroid-Sensitive Nephrotic Syndrome（類固醇敏感型腎病症候群）** 之機轉合理性與證據品質最高（預測分數 **99.76%**），目前有 **3 篇文獻**支持，但尚無 triamcinolone 專屬之臨床試驗。其餘 9 項候選多屬毛囊/落髮相關罕見疾病，證據品質偏低（多為 L5，Hold）。
+Triamcinolone 是合成型糖皮質類固醇（corticosteroid），已知作用機轉資料目前缺失，但依藥理分類廣泛用於發炎、過敏及自體免疫相關疾病；該藥於印度**尚Not marketed**，無在地藥證。TxGNN 本次針對此藥共預測 10 個候選適應症，其中以 **Idiopathic Steroid-Sensitive Nephrotic Syndrome（類固醇敏感型腎病症候群）** 之機轉合理性與證據品質最高（預測分數 **99.76%**），目前有 **3 篇文獻**支持，但尚無 triamcinolone 專屬之臨床試驗。其餘 9 項候選多屬毛囊/落髮相關罕見疾病，證據品質偏低（多為 L5，Hold）。
 
 ---
 
@@ -41,11 +41,11 @@ Triamcinolone 是合成型糖皮質類固醇（corticosteroid），已知作用�
 
 | 項目 | 內容 |
 |------|------|
-| 原始適應症 | 資料缺失（印度未上市，無核准適應症文字；依藥理分類已知用於發炎/過敏/自體免疫疾病） |
+| 原始適應症 | 資料缺失（印度Not marketed，無核准適應症文字；依藥理分類已知用於發炎/過敏/自體免疫疾病） |
 | 預測新適應症 | Idiopathic Steroid-Sensitive Nephrotic Syndrome |
 | TxGNN 預測分數 | 99.76%（原始分數 0.99758，rank 4783） |
 | 證據等級 | L3（觀察性研究／系統性回顧） |
-| 印度市場狀態 | ✗ 未上市 |
+| 印度市場狀態 | ✗ Not marketed |
 | 藥證登記數 | 0 |
 | 建議決策 | Proceed with Guardrails（附加條件下推進） |
 
@@ -97,7 +97,7 @@ Idiopathic steroid-sensitive nephrotic syndrome 此一疾病的**定義本身即
 
 ## 印度市場資訊
 
-Triamcinolone 目前於印度**未上市**，無任何有效藥證登記，故無藥品名稱、劑型或核准適應症資料可供列示。
+Triamcinolone 目前於印度**Not marketed**，無任何有效藥證登記，故無藥品名稱、劑型或核准適應症資料可供列示。
 
 ---
 
@@ -129,12 +129,12 @@ Triamcinolone 目前於印度**未上市**，無任何有效藥證登記，故�
 **決策：Proceed with Guardrails（附加條件下推進）**
 
 **理由：**
-Idiopathic steroid-sensitive nephrotic syndrome 之候選適應症具高度機轉合理性（疾病定義本身即為類固醇反應性），並有 L3 等級的觀察性研究／回顧文獻支持，但目前缺乏 triamcinolone 專屬之對照試驗，且本藥於印度尚未上市、仿單安全性資料缺失，故不宜直接判定 Go，需附加條件推進。
+Idiopathic steroid-sensitive nephrotic syndrome 之候選適應症具高度機轉合理性（疾病定義本身即為類固醇反應性），並有 L3 等級的觀察性研究／回顧文獻支持，但目前缺乏 triamcinolone 專屬之對照試驗，且本藥於印度尚Not marketed、仿單安全性資料缺失，故不宜直接判定 Go，需附加條件推進。
 
 **若要繼續推進，需補齊：**
 - 取得完整仿單警語與禁忌資料（DG001，Blocking 等級，S1 安全性初評之必要前提）
 - 取得 triamcinolone 完整作用機轉（MOA）資料（DG002）
-- 評估印度上市／引進路徑（目前市場狀態為未上市，藥證數為 0）
+- 評估印度上市／引進路徑（目前市場狀態為Not marketed，藥證數為 0）
 - 搜尋或規劃 triamcinolone 專屬於 idiopathic steroid-sensitive nephrotic syndrome 之前瞻性療效資料，以補強 L3 等級證據
 - 其餘 9 項候選適應症（多為 L5／S0／Hold）暫不建議投入資源，除非未來出現新增文獻或試驗證據；特別留意 rank 10（steroid-resistant nephrotic syndrome）屬機轉矛盾案例，不應與 rank 8 混淆處理
 ## Disclaimer

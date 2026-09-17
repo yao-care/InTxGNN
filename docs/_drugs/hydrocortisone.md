@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Hydrocortisone
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 408
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Hydrocortisone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ Hydrocortisone is a glucocorticoid receptor agonist with established anti-inflam
 | Predicted New Indication | Alopecia Areata |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L1 |
-| India Market Status | 未上市 (Not Marketed) |
+| India Market Status | Not marketed (Not Marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -91,7 +91,7 @@ This is not a novel mechanistic hypothesis — topical and intralesional cortico
 
 ## India Market Information
 
-No drug license or registration records are currently on file for hydrocortisone in this market — `taiwan_regulatory.market_status` is **未上市 (Not Marketed)** with **0** registrations. Original indication and formulation data cannot be extracted until this gap is resolved.
+No drug license or registration records are currently on file for hydrocortisone in this market — `taiwan_regulatory.market_status` is **Not marketed (Not Marketed)** with **0** registrations. Original indication and formulation data cannot be extracted until this gap is resolved.
 
 ---
 
@@ -113,7 +113,7 @@ The lead candidate indication (alopecia areata) is supported by an L1 evidence l
 **To proceed, the following is needed:**
 - TFDA/local regulatory label — warnings, contraindications, and precautions (DG001, blocking S1 safety screening)
 - Structured mechanism-of-action documentation (DG002)
-- Local market registration and dosage-form data for this jurisdiction (currently 未上市/not marketed with 0 licenses)
+- Local market registration and dosage-form data for this jurisdiction (currently Not marketed/not marketed with 0 licenses)
 - Formal DDI risk-tiering against likely AA co-medications (e.g., other immunomodulators) given the 722-interaction dataset
 ## Disclaimer
 

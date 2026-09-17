@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Nortriptyline
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 604
-evidence_level: L5
+evidence_level: L3
 indication_count: 2
 ---
 
 # Nortriptyline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Evidence Level: **L3** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ with **0 registered clinical trials** but **20 supporting publications**, includ
 | Predicted New Indication | Attention-Deficit/Hyperactivity Disorder (ADHD) |
 | TxGNN Prediction Score | 99.42% |
 | Evidence Level | L3 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 

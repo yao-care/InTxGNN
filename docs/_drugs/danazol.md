@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Danazol
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 228
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Danazol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Danazol is a synthetic androgen derivative historically used for endometriosis, 
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 99.9995% |
 | Evidence Level | L2 |
-| Market Status (Taiwan) | 未上市 (Not marketed) |
+| Market Status (Taiwan) | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -86,7 +86,7 @@ Currently no related clinical trials registered.
 
 ## Taiwan Market Information
 
-Danazol currently has no registered product license in Taiwan (market status: 未上市, 0 registrations). No product/dosage-form/indication records are available to summarize.
+Danazol currently has no registered product license in Taiwan (market status: Not marketed, 0 registrations). No product/dosage-form/indication records are available to summarize.
 
 ---
 

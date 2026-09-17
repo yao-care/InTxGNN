@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Tolvaptan
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 840
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -80,7 +80,7 @@ Currently no related clinical trials registered in this evidence pack for this i
 
 ## India Market Information
 
-Tolvaptan is currently **not marketed in India** — this evidence pack contains zero registered licenses (`total_licenses: 0`, `market_status: 未上市`). There is no local approved-indication text to extract.
+Tolvaptan is currently **not marketed in India** — this evidence pack contains zero registered licenses (`total_licenses: 0`, `market_status: Not marketed`). There is no local approved-indication text to extract.
 
 ## Safety Considerations
 

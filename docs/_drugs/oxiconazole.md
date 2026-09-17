@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Oxiconazole
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 623
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 ---
 
 # Oxiconazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L3** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Oxiconazole is a topical imidazole antifungal traditionally used against dermato
 | Predicted New Indication | Cutaneous Candidiasis |
 | TxGNN Prediction Score | 99.81% |
 | Evidence Level | L3 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 

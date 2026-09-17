@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glimepiride
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 390
 evidence_level: L5
 indication_count: 9
@@ -10,12 +10,12 @@ indication_count: 9
 # Glimepiride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ but this prediction is currently supported by **0 clinical trials** and **0 publ
 | Predicted New Indication | Focal Stiff Limb Syndrome |
 | TxGNN Prediction Score | 99.75% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed (未上市) |
+| India Market Status | Not Marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related literature available
 
 ## India Market Information
 
-Glimepiride is currently **not marketed** in this jurisdiction (未上市) and holds **no active local drug licenses** (total_licenses = 0). No license records are available to summarize authorization number, product name, dosage form, or approved indication.
+Glimepiride is currently **not marketed** in this jurisdiction (Not marketed) and holds **no active local drug licenses** (total_licenses = 0). No license records are available to summarize authorization number, product name, dosage form, or approved indication.
 
 ---
 

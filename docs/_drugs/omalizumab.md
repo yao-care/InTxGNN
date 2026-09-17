@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Omalizumab
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 613
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Omalizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ Omalizumab is an anti-IgE monoclonal antibody whose established global use is fo
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.9992% |
 | Evidence Level | L4 |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Bronchitis and asthma share overlapping airway inflammation biology, particularl
 
 ## Taiwan Market Information
 
-Omalizumab currently has **0 registered licenses** in Taiwan (market status: 未上市 / Not Marketed). No product registration records are available in this evidence pack.
+Omalizumab currently has **0 registered licenses** in Taiwan (market status: Not marketed / Not Marketed). No product registration records are available in this evidence pack.
 
 ## Safety Considerations
 

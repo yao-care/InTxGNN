@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Fosphenytoin
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 378
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 ---
 
 # Fosphenytoin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Evidence Level: **L4** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -78,7 +78,7 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Fosphenytoin currently has **no registered products in India** (`market_status: 未上市`, `total_licenses: 0`). No license records are available to summarize.
+Fosphenytoin currently has **no registered products in India** (`market_status: Not marketed`, `total_licenses: 0`). No license records are available to summarize.
 
 ---
 

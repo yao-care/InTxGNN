@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Isoniazid
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 445
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Isoniazid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Isoniazid is a first-line antitubercular drug, originally used to treat tubercul
 | Predicted New Indication | Conjunctivitis |
 | TxGNN Prediction Score | 99.36% |
 | Evidence Level | L4 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -90,7 +90,7 @@ Note: nearly all identified literature concerns tuberculosis-associated ocular d
 
 ## Taiwan Market Information
 
-Isoniazid currently has **no marketing authorization on record in Taiwan** (market status: 未上市, 0 registrations), so no license/product table can be produced.
+Isoniazid currently has **no marketing authorization on record in Taiwan** (market status: Not marketed, 0 registrations), so no license/product table can be produced.
 
 ---
 
