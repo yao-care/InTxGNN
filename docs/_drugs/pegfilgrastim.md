@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pegfilgrastim
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 647
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Pegfilgrastim
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Pegfilgrastim is a PEGylated granulocyte-colony stimulating factor (G-CSF) analo
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 99.89% (rank 2523) |
 | Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| India Market Status | Not marketed (未上市) |
+| India Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## India Market Information
 
-Pegfilgrastim is currently not marketed in India under this evidence pack (`market_status: 未上市`, 0 registrations); no license records are available to summarize.
+Pegfilgrastim is currently not marketed in India under this evidence pack (`market_status: Not marketed`, 0 registrations); no license records are available to summarize.
 
 ---
 

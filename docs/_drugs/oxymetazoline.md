@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Oxymetazoline
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 625
-evidence_level: L5
+evidence_level: L3
 indication_count: 3
 ---
 
 # Oxymetazoline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Evidence Level: **L3** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Oxymetazoline is a topical alpha-adrenergic agonist globally known as an over-th
 | Predicted New Indication | Nasal Cavity Disease |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L3 |
-| Market Status | Not marketed (未上市) |
+| Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -90,7 +90,7 @@ Mechanistically, α-adrenergic-mediated vasoconstriction directly reduces mucosa
 
 ## Market Information
 
-No marketing authorization is currently registered for this product in the reviewed jurisdiction (market status: 未上市 / not marketed; total registrations: 0).
+No marketing authorization is currently registered for this product in the reviewed jurisdiction (market status: Not marketed / not marketed; total registrations: 0).
 
 ---
 

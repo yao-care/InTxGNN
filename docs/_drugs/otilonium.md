@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Otilonium
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 617
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Otilonium
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Otilonium（DrugBank DB13500）在證據包中原始適應症清單為空、作�
 | 預測新適應症 | Hypertrichosis（多毛症） |
 | TxGNN 預測分數 | 98.94% |
 | 證據等級 | L5（僅模型預測，無臨床試驗、無文獻） |
-| 台灣市場狀態 | 未上市 |
+| 台灣市場狀態 | Not marketed |
 | 登記證數量 | 0 |
 | 建議決策 | Hold |
 
@@ -75,7 +75,7 @@ Otilonium（DrugBank DB13500）在證據包中原始適應症清單為空、作�
 
 ## 台灣市場資訊
 
-Otilonium 目前於台灣**未上市**，無有效藥品許可證（`total_licenses` = 0），無登記資料可列示。
+Otilonium 目前於台灣**Not marketed**，無有效藥品許可證（`total_licenses` = 0），無登記資料可列示。
 
 ---
 

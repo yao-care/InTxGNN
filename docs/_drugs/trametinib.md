@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Trametinib
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 846
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Trametinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -96,7 +96,7 @@ Currently no dedicated publications are indexed under the "non-cutaneous melanom
 
 ## India Market Information
 
-Trametinib currently has **no registered license in India** (`market_status: 未上市 / Not Marketed`, 0 total registrations). No brand names, dosage forms, or approved indication text are available from the local regulatory dataset. Global label information (via DrugBank pharmacology data) indicates approval for BRAF V600 mutation-positive cutaneous melanoma (monotherapy and adjuvant, combined with dabrafenib), anaplastic thyroid cancer (combined with dabrafenib), and EMA orphan designation for BRAF V600E-mutant glioma.
+Trametinib currently has **no registered license in India** (`market_status: Not marketed / Not Marketed`, 0 total registrations). No brand names, dosage forms, or approved indication text are available from the local regulatory dataset. Global label information (via DrugBank pharmacology data) indicates approval for BRAF V600 mutation-positive cutaneous melanoma (monotherapy and adjuvant, combined with dabrafenib), anaplastic thyroid cancer (combined with dabrafenib), and EMA orphan designation for BRAF V600E-mutant glioma.
 
 ---
 

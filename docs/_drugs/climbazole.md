@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Climbazole
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 192
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Climbazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -94,7 +94,7 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-No market authorization records found. Climbazole currently has no registered pharmaceutical license in India (`market_status`: 未上市 / Not Marketed; `total_licenses`: 0).
+No market authorization records found. Climbazole currently has no registered pharmaceutical license in India (`market_status`: Not marketed / Not Marketed; `total_licenses`: 0).
 
 ---
 

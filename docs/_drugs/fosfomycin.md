@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Fosfomycin
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 376
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Fosfomycin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ Fosfomycin is a long-established antibacterial agent whose principal use is the 
 | Number of Registrations | 0 |
 | Recommended Decision | Research Question |
 
-> **Note on Original Indication**: Fosfomycin has no current India (CDSCO) marketing license in this Evidence Pack (`market_status: 未上市`, 0 licenses), so the original indication above is drawn from the drug's globally established antibacterial use referenced in the supporting literature (e.g., PMID 23958364, PMID 30861061), not from a local regulatory record.
+> **Note on Original Indication**: Fosfomycin has no current India (CDSCO) marketing license in this Evidence Pack (`market_status: Not marketed`, 0 licenses), so the original indication above is drawn from the drug's globally established antibacterial use referenced in the supporting literature (e.g., PMID 23958364, PMID 30861061), not from a local regulatory record.
 
 ---
 

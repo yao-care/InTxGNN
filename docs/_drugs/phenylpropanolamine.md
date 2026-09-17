@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Phenylpropanolamine
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 659
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
 # Phenylpropanolamine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Evidence Level: **L3** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ Four additional lower-ranked predictions (acute laryngopharyngitis, rosacea conj
 | Predicted New Indication | Nasal Cavity Disease |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L3 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -83,7 +83,7 @@ The remaining four predicted indications (laryngopharyngitis, rosacea conjunctiv
 
 ## Taiwan Market Information
 
-Phenylpropanolamine currently holds no marketing authorization in Taiwan (market status: 未上市 / Not marketed; 0 registered licenses). No license or product data is available to summarize.
+Phenylpropanolamine currently holds no marketing authorization in Taiwan (market status: Not marketed / Not marketed; 0 registered licenses). No license or product data is available to summarize.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluvoxamine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 372
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Fluvoxamine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -54,7 +54,7 @@ Fluvoxamine (DB00176) is a selective serotonin reuptake inhibitor (SSRI); the ev
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this candidate (flagged as a Blocking/High-severity data gap). No original indication is on file in Taiwan's regulatory record either, since the drug is currently unregistered (未上市) here. The only mechanistic context present in the evidence pack comes indirectly from the literature and clinical trial titles collected for other predicted indications in this same pack, which consistently describe fluvoxamine as a serotonin reuptake inhibitor historically studied in obsessive-compulsive disorder, panic disorder, and social/generalized anxiety.
+Detailed mechanism of action data is not available for this candidate (flagged as a Blocking/High-severity data gap). No original indication is on file in Taiwan's regulatory record either, since the drug is currently unregistered (Not marketed) here. The only mechanistic context present in the evidence pack comes indirectly from the literature and clinical trial titles collected for other predicted indications in this same pack, which consistently describe fluvoxamine as a serotonin reuptake inhibitor historically studied in obsessive-compulsive disorder, panic disorder, and social/generalized anxiety.
 
 For the top-ranked candidate itself — schizotypal personality disorder — there is no clinical trial or published study of any kind linking fluvoxamine to this condition. The model's very high score (99.9972%, TxGNN internal rank 114) reflects graph-embedding similarity to other conditions in TxGNN's knowledge graph, not an observed pharmacological or clinical relationship. As stated in the underlying rationale: this should be treated as a first-pass screening hit only, not a candidate ready for further mechanistic or clinical evaluation.
 

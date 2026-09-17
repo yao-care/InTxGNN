@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clobetasone
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 197
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Clobetasone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -46,7 +46,7 @@ The TxGNN model predicts it may be effective for **Primary Cutaneous T-Cell Lymp
 | Predicted New Indication | Primary Cutaneous T-Cell Lymphoma |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L4 (mechanism-based only; no direct trials or literature) |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -76,7 +76,7 @@ Currently no related literature available.
 
 ## Taiwan Market Information
 
-Clobetasone currently has no TFDA marketing authorization on file (market status: 未上市, 0 registrations). No dosage form, brand name, or approved indication text is available for Taiwan.
+Clobetasone currently has no TFDA marketing authorization on file (market status: Not marketed, 0 registrations). No dosage form, brand name, or approved indication text is available for Taiwan.
 
 ---
 

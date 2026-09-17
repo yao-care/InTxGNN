@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Fluphenazine
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 365
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Fluphenazine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ Fluphenazine is a first-generation (typical) phenothiazine antipsychotic, primar
 | Predicted New Indication | Manic bipolar affective disorder (bipolar mania) |
 | TxGNN Prediction Score | 99.98% (rank 852 among all candidates) |
 | Evidence Level | L3 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -86,7 +86,7 @@ Currently no related clinical trials registered.
 
 ## Taiwan Market Information
 
-Fluphenazine currently holds no TFDA license and is not marketed in Taiwan (未上市, 0 registrations). No local product, dosage form, or approved indication data is available.
+Fluphenazine currently holds no TFDA license and is not marketed in Taiwan (Not marketed, 0 registrations). No local product, dosage form, or approved indication data is available.
 
 ---
 
@@ -111,7 +111,7 @@ Manic bipolar affective disorder is supported by a class-effect mechanistic rati
 **To proceed, the following is needed:**
 - TFDA product labeling (warnings/contraindications) — currently a **blocking** data gap (DG001); required before formal S1 safety assessment can begin
 - Confirmed mechanism of action (MOA) documentation from DrugBank or equivalent source (DG002)
-- A formal Taiwan market-entry or import pathway assessment, given current "未上市" status
+- A formal Taiwan market-entry or import pathway assessment, given current "Not marketed" status
 - Consideration of a fluphenazine- or class-specific prospective study in bipolar mania, since existing evidence is largely LAI-formulation and class-level rather than drug-specific RCT data
 ## Disclaimer
 

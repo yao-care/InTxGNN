@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluocinolone Acetonide
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 360
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Fluocinolone Acetonide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Fluocinolone acetonide is a halogenated topical corticosteroid classically used 
 | Predicted New Indication | Lichen Planus Pigmentosus |
 | TxGNN Prediction Score | 99.42% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed (未上市) |
+| Taiwan Market Status | ✗ Not Marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related literature available.
 
 ## Taiwan Market Information
 
-This drug currently has no marketing authorizations registered in Taiwan (0 licenses; market status: 未上市 / Not Marketed).
+This drug currently has no marketing authorizations registered in Taiwan (0 licenses; market status: Not marketed / Not Marketed).
 
 ---
 

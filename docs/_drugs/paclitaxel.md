@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Paclitaxel
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 630
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Paclitaxel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Paclitaxel is a taxane-class antineoplastic agent with long-established use acro
 | Predicted New Indication | Female Breast Carcinoma |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L1 |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -120,7 +120,7 @@ Multiple completed Phase 2/3 randomized trials — including large studies such 
 **To proceed, the following is needed:**
 - TFDA package insert warnings/contraindications (currently a Blocking data gap — DG001; remediation: download and parse the official TFDA label PDF)
 - Formal DrugBank-sourced mechanism of action record (High-severity gap — DG002; remediation: query the DrugBank API)
-- Verification of actual Taiwan market/registration status for paclitaxel-containing products, since the "0 licenses / 未上市" result is unusual for a globally standard chemotherapy agent and may reflect a data-collection gap rather than true absence from the market
+- Verification of actual Taiwan market/registration status for paclitaxel-containing products, since the "0 licenses / Not marketed" result is unusual for a globally standard chemotherapy agent and may reflect a data-collection gap rather than true absence from the market
 - Route-of-administration compatibility confirmation (marked "pending" in this evidence pack)
 ## Disclaimer
 

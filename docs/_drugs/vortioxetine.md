@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Vortioxetine
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 888
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
 # Vortioxetine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Evidence Level: **L3** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -81,7 +81,7 @@ This interpretation is reinforced by two closely related, higher-confidence cand
 
 ## India Market Information
 
-Vortioxetine is not currently marketed in India — no license registrations are recorded in this evidence pack (`total_licenses: 0`, `market_status: 未上市`).
+Vortioxetine is not currently marketed in India — no license registrations are recorded in this evidence pack (`total_licenses: 0`, `market_status: Not marketed`).
 
 ---
 

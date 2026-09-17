@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Trabectedin
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 844
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 ---
 
 # Trabectedin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L2** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 1
 | Predicted New Indication | Female Breast Carcinoma |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L2 |
-| India Market Status | ✗ Not marketed (未上市) |
+| India Market Status | ✗ Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Vildagliptin
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 880
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Vildagliptin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -53,7 +53,7 @@ Note before the report: this Evidence Pack lists **10** TxGNN-predicted indicati
 | Predicted New Indication | Type 1 Diabetes Mellitus |
 | TxGNN Prediction Score | 99.37% (rank 10,073 of full candidate list) |
 | Evidence Level | L2 |
-| India Market Status | ✗ Not marketed (未上市) |
+| India Market Status | ✗ Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -95,7 +95,7 @@ This is fundamentally an off-label mechanistic extension — β-cell preservatio
 
 ## India Market Information
 
-Vildagliptin currently has **no market authorization in India** (`market_status: 未上市`, 0 registered licenses). No product registration data is available to summarize.
+Vildagliptin currently has **no market authorization in India** (`market_status: Not marketed`, 0 registered licenses). No product registration data is available to summarize.
 
 ## Safety Considerations
 

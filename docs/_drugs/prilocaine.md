@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Prilocaine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 691
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Prilocaine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Prilocaine is an amide-type local anesthetic best known as a component of EMLA c
 | Predicted New Indication | Neuralgia (incl. postherpetic neuralgia) |
 | TxGNN Prediction Score | 99.34% |
 | Evidence Level | L2 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -97,7 +97,7 @@ The main caveat is that most supporting evidence tests the **lidocaine + priloca
 
 ## Taiwan Market Information
 
-Prilocaine currently has **no marketing authorization in Taiwan** (market status: 未上市; total registrations: 0). No license records are available to summarize product name, dosage form, or approved indication text.
+Prilocaine currently has **no marketing authorization in Taiwan** (market status: Not marketed; total registrations: 0). No license records are available to summarize product name, dosage form, or approved indication text.
 
 ---
 

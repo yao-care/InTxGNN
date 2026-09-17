@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Sertraline
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 763
-evidence_level: L5
+evidence_level: L1
 indication_count: 8
 ---
 
 # Sertraline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Evidence Level: **L1** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,11 +43,11 @@ indication_count: 8
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in dataset (India: 未上市/not marketed; MOA and indication data gaps — DG001, DG002) |
+| Original Indication | Not documented in dataset (India: Not marketed/not marketed; MOA and indication data gaps — DG001, DG002) |
 | Predicted New Indication | Agoraphobia |
 | TxGNN Prediction Score | 99.54% |
 | Evidence Level | L1 |
-| India Market Status | 未上市 (Not marketed) |
+| India Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -93,7 +93,7 @@ By contrast, the other 7 TxGNN predictions in this pack (paranoid, schizoid, his
 
 ## India Market Information
 
-Sertraline currently has **no marketing authorization records in India** in this dataset (market status: 未上市 / not marketed; 0 registrations).
+Sertraline currently has **no marketing authorization records in India** in this dataset (market status: Not marketed / not marketed; 0 registrations).
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Filgrastim
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 349
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Filgrastim
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Filgrastim is a recombinant human G-CSF, widely known for stimulating neutrophil
 | Predicted New Indication | Primary Release Disorder of Platelets |
 | TxGNN Prediction Score | 99.9976% |
 | Evidence Level | L4 |
-| India Market Status | 未上市 (Not Marketed) |
+| India Market Status | Not marketed (Not Marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 

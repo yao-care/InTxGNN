@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cladribine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 188
 evidence_level: L5
 indication_count: 7
@@ -10,12 +10,12 @@ indication_count: 7
 # Cladribine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ Cladribine's original approved indication is not recorded in this evidence pack 
 | Predicted New Indication | Parameningeal Embryonal Rhabdomyosarcoma |
 | TxGNN Prediction Score | 99.77% (raw score 0.9977; graph rank 4548) |
 | Evidence Level | L5 (model prediction only, no supporting studies) |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## Taiwan Market Information
 
-No approved products are currently registered in Taiwan for cladribine (`market_status`: 未上市 / Not Marketed; `total_licenses`: 0). No license records are available to summarize.
+No approved products are currently registered in Taiwan for cladribine (`market_status`: Not marketed / Not Marketed; `total_licenses`: 0). No license records are available to summarize.
 
 ## Cytotoxicity
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Griseofulvin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Griseofulvin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ but currently only **0 clinical trials** and **1 loosely related, unclassified p
 | Predicted New Indication | Myiasis |
 | TxGNN Prediction Score | 99.41% |
 | Evidence Level | L5 |
-| India Market Status | 未上市 (Not marketed) |
+| India Market Status | Not marketed (Not marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Hold |
 
@@ -79,7 +79,7 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Griseofulvin currently holds no registrations and is not marketed in this jurisdiction (market status: 未上市, total licenses: 0). No authorization records are available.
+Griseofulvin currently holds no registrations and is not marketed in this jurisdiction (market status: Not marketed, total licenses: 0). No authorization records are available.
 
 ---
 

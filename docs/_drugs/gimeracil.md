@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Gimeracil
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 388
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Gimeracil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ Gimeracil is the DPD-inhibitor component of the S-1 combination (tegafur + gimer
 | Predicted New Indication | Colonic Neoplasm (Colorectal Cancer) |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L1 |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of Registrations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -99,7 +99,7 @@ The caveat is that the supporting clinical evidence below is generated with the 
 
 ## Taiwan Market Information
 
-Gimeracil currently has **no marketing authorization in Taiwan** (`market_status: 未上市`, 0 registrations, no license records available). No approved product, dosage form, or labeled indication exists locally for this drug as a standalone entity or within an S-1 combination product.
+Gimeracil currently has **no marketing authorization in Taiwan** (`market_status: Not marketed`, 0 registrations, no license records available). No approved product, dosage form, or labeled indication exists locally for this drug as a standalone entity or within an S-1 combination product.
 
 ---
 

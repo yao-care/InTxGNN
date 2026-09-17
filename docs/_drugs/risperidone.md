@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Risperidone
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 738
-evidence_level: L5
+evidence_level: L1
 indication_count: 6
 ---
 
 # Risperidone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Evidence Level: **L1** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ indication_count: 6
 | Predicted New Indication | Major Affective Disorder (bipolar disorder / treatment-resistant depression, adjunctive use) |
 | TxGNN Prediction Score | 99.11% |
 | Evidence Level | L1 |
-| Taiwan Market Status | 未上市 (Not Marketed) per available regulatory data |
+| Taiwan Market Status | Not marketed (Not Marketed) per available regulatory data |
 | Number of Registrations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -103,7 +103,7 @@ This mechanistic plausibility is strongly reinforced by direct evidence: multipl
 
 ## Taiwan Market Information
 
-No active registration records were found in the supplied regulatory dataset (0 licenses, market status "未上市"). This should be treated with caution: Risperidone is a globally established, long-marketed antipsychotic, and this "not marketed" status may reflect a data gap in the source registry (see DG001 below) rather than genuine absence from the Taiwan market. **This must be verified against the TFDA database directly before finalizing any regulatory conclusion.**
+No active registration records were found in the supplied regulatory dataset (0 licenses, market status "Not marketed"). This should be treated with caution: Risperidone is a globally established, long-marketed antipsychotic, and this "not marketed" status may reflect a data gap in the source registry (see DG001 below) rather than genuine absence from the Taiwan market. **This must be verified against the TFDA database directly before finalizing any regulatory conclusion.**
 
 ---
 

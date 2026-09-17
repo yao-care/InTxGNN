@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Tiotropium
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 832
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Tiotropium
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -61,7 +61,7 @@ Using the specified v5 report template to synthesize this Evidence Pack into the
 
 Currently, a structured mechanism-of-action (MOA) record for tiotropium is a flagged data gap in this pack (DG002 — High severity, remediation: query DrugBank API). However, the evidence pack's own repurposing rationale supplies the pharmacological basis: **tiotropium is a long-acting muscarinic receptor antagonist (LAMA)** that blocks M1 and M3 receptors, inhibiting acetylcholine-mediated bronchoconstriction. This is the standard mechanistic pathway underlying treatment of obstructive airway diseases such as COPD and severe persistent asthma.
 
-Because `original_indications` and `taiwan_regulatory.licenses` are both empty, this jurisdiction has no on-file record of tiotropium ever being formally indicated or registered locally — the drug shows as "Not Marketed" with zero registrations. The TxGNN model's top prediction, "obstructive lung disease," is therefore not a novel mechanistic leap; it converges with tiotropium's globally recognized primary use, as explicitly noted in the rank-5 rationale for "chronic obstructive pulmonary disease" in the same pack ("此為Tiotropium國際公認之主要適應症，本資料集market_status標示未上市可能僅反映該轄區尚未核准" — this is tiotropium's internationally recognized primary indication; the "not marketed" status here likely just reflects that this jurisdiction has not yet approved it).
+Because `original_indications` and `taiwan_regulatory.licenses` are both empty, this jurisdiction has no on-file record of tiotropium ever being formally indicated or registered locally — the drug shows as "Not Marketed" with zero registrations. The TxGNN model's top prediction, "obstructive lung disease," is therefore not a novel mechanistic leap; it converges with tiotropium's globally recognized primary use, as explicitly noted in the rank-5 rationale for "chronic obstructive pulmonary disease" in the same pack ("此為Tiotropium國際公認之主要適應症，本資料集market_status標示Not marketed可能僅反映該轄區尚未核准" — this is tiotropium's internationally recognized primary indication; the "not marketed" status here likely just reflects that this jurisdiction has not yet approved it).
 
 In other words, the mechanistic applicability is high because the "new" indication and the drug's known pharmacology are the same disease class — the gap is regulatory/administrative (no local license on record), not scientific.
 
