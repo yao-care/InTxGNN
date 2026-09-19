@@ -1,87 +1,72 @@
 #!/usr/bin/env python3
 """
-Generate news monitoring keyword list
+產生新聞監測用的關鍵字清單
 
-Extract keywords from:
-- DrugBank vocabulary (drug names)
-- Disease vocabulary (disease names)
-- Synonyms mapping
+從現有資料提取：
+- 191 個藥物名稱（英文 + 中文商品名）
+- 原始適應症（中文）
+- 預測適應症（英文）
 
-Output: data/news/keywords.json
+輸出：data/news/keywords.json
 """
 
 import json
-import sys
+import re
 from datetime import datetime
 from pathlib import Path
 
-# Add src to Python path
-src_path = Path(__file__).parent.parent / "src"
-sys.path.insert(0, str(src_path))
-
+# 專案根目錄
 PROJECT_ROOT = Path(__file__).parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
+DOCS_DATA_DIR = PROJECT_ROOT / "docs" / "data"
 
 
 def load_json(path: Path) -> dict | list:
-    """Load JSON file"""
+    """載入 JSON 檔案"""
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
+def extract_chinese_terms(text: str) -> list[str]:
+    """從中文文字中提取獨立的詞彙（以頓號、逗號、句號分隔）"""
+    if not text:
+        return []
+    # 分隔符：頓號、逗號、句號、分號
+    terms = re.split(r"[、，。；,;]", text)
+    # 清理空白並過濾空字串
+    return [t.strip() for t in terms if t.strip() and len(t.strip()) >= 2]
+
+
+def get_brand_names_from_fda(fda_data: list, drug_name: str) -> list[str]:
+    """從 FDA 資料中找出藥物的中文商品名"""
+    brand_names = set()
+    drug_name_lower = drug_name.lower()
+
+    for item in fda_data:
+        # 檢查主成分是否匹配
+        ingredient = item.get("主成分略述") or ""
+        if drug_name_lower in ingredient.lower():
+            chinese_name = item.get("中文品名", "")
+            if chinese_name and item.get("註銷狀態") != "已註銷":
+                # 只取品牌名部分（通常在括號前或第一個空白前）
+                # 例如：「安美達錠 1 毫克」取「安美達」
+                match = re.match(r"^([^\s\d（(]+)", chinese_name)
+                if match:
+                    brand = match.group(1).strip()
+                    if len(brand) >= 2:
+                        brand_names.add(brand)
+
+    return list(brand_names)[:5]  # 最多取 5 個商品名
+
+
 def load_synonyms(path: Path) -> dict:
-    """Load synonyms mapping"""
+    """載入中文同義詞對照表"""
     if not path.exists():
         return {"indication_synonyms": {}, "drug_synonyms": {}}
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
-def load_drugbank_vocab() -> list[dict]:
-    """Load DrugBank vocabulary"""
-    vocab_path = DATA_DIR / "external" / "drugbank_vocab.csv"
-    if not vocab_path.exists():
-        print(f"Warning: {vocab_path} not found")
-        return []
-
-    import pandas as pd
-    df = pd.read_csv(vocab_path)
-
-    drugs = []
-    for _, row in df.iterrows():
-        drug_id = row.get("drugbank_id", "")
-        drug_name = row.get("drug_name", "")
-        if drug_id and drug_name:
-            drugs.append({
-                "drugbank_id": drug_id,
-                "name": drug_name
-            })
-    return drugs
-
-
-def load_disease_vocab() -> list[dict]:
-    """Load disease vocabulary"""
-    vocab_path = DATA_DIR / "external" / "disease_vocab.csv"
-    if not vocab_path.exists():
-        print(f"Warning: {vocab_path} not found")
-        return []
-
-    import pandas as pd
-    df = pd.read_csv(vocab_path)
-
-    diseases = []
-    for _, row in df.iterrows():
-        disease_id = row.get("disease_id", "")
-        disease_name = row.get("disease_name", "")
-        if disease_id and disease_name:
-            diseases.append({
-                "disease_id": disease_id,
-                "name": disease_name
-            })
-    return diseases
-
-
-# Generic keyword patterns for common disease categories
 GENERIC_KEYWORD_PATTERNS = {
     "_generic_cancer": [
         "cancer", "carcinoma", "tumor", "tumour", "neoplasm", "malignant",
@@ -98,104 +83,191 @@ GENERIC_KEYWORD_PATTERNS = {
     "stroke": ["stroke", "ischemic stroke", "cerebrovascular"],
     "herpes zoster": ["herpes", "zoster", "varicella"],
     "dementia": ["dementia", "alzheimer", "cognitive impairment"],
-    "diabetes": ["diabetes", "diabetic", "hyperglycemia", "insulin resistance"],
-    "hypertension": ["hypertension", "high blood pressure", "hypertensive"],
+    "pancreatic cancer": ["pancreatic cancer", "pancreatic carcinoma", "pancreatic neoplasm"],
+    "menopause": ["menopause", "postmenopaus", "estrogen-receptor", "hormone-resistant"],
 }
 
 
-def main():
-    print("Loading data files...")
+def build_indication_index(drugs_data: list, search_index: dict, synonyms: dict) -> dict:
+    """建立適應症索引，記錄每個適應症關聯哪些藥物"""
+    indication_map = {}
+    indication_synonyms = synonyms.get("indication_synonyms", {})
 
-    # Load vocabularies
-    drugbank_vocab = load_drugbank_vocab()
-    disease_vocab = load_disease_vocab()
+    # 首先加入所有同義詞條目（包括通用關鍵字如 _generic_cancer）
+    # 這些可能不對應特定藥物，但對新聞匹配很重要
+    for en_name, zh_list in indication_synonyms.items():
+        key = en_name.lower()
+        if key not in indication_map:
+            indication_map[key] = {
+                "name": en_name.lstrip("_"),  # 移除前綴下劃線
+                "keywords_en": [en_name] if not en_name.startswith("_") else [],
+                "keywords_zh": zh_list.copy(),
+                "related_drugs": []
+            }
+            # 為每個中文同義詞也建立索引
+            for zh in zh_list:
+                zh_key = zh.lower()
+                if zh_key not in indication_map:
+                    indication_map[zh_key] = {
+                        "name": zh,
+                        "keywords_en": [en_name] if not en_name.startswith("_") else [],
+                        "keywords_zh": [zh],
+                        "related_drugs": []
+                    }
+
+    for drug in search_index.get("drugs", []):
+        drug_slug = drug.get("slug", "")
+
+        # 處理預測適應症
+        for ind in drug.get("indications", []):
+            ind_name = ind.get("name", "").lower()
+            if ind_name:
+                if ind_name not in indication_map:
+                    # 查找同義詞
+                    zh_synonyms = indication_synonyms.get(ind.get("name", ""), [])
+                    indication_map[ind_name] = {
+                        "name": ind.get("name", ""),
+                        "keywords_en": [ind.get("name", "")],
+                        "keywords_zh": zh_synonyms.copy(),
+                        "related_drugs": []
+                    }
+                # 將中文同義詞也建立獨立索引（方便匹配）
+                for zh in indication_synonyms.get(ind.get("name", ""), []):
+                    zh_key = zh.lower()
+                    if zh_key not in indication_map:
+                        indication_map[zh_key] = {
+                            "name": zh,
+                            "keywords_en": [ind.get("name", "")],
+                            "keywords_zh": [zh],
+                            "related_drugs": []
+                        }
+                    if drug_slug not in indication_map[zh_key]["related_drugs"]:
+                        indication_map[zh_key]["related_drugs"].append(drug_slug)
+
+                if drug_slug not in indication_map[ind_name]["related_drugs"]:
+                    indication_map[ind_name]["related_drugs"].append(drug_slug)
+
+    # 從 drugs.json 加入原始適應症的中文關鍵字
+    for drug_info in drugs_data.get("drugs", []):
+        original = drug_info.get("original_indication", "")
+        drug_slug = drug_info.get("slug", "")
+
+        # 提取中文詞彙
+        zh_terms = extract_chinese_terms(original)
+
+        # 為每個中文適應症詞彙建立映射
+        for term in zh_terms:
+            # 嘗試找到對應的英文適應症（簡化處理）
+            term_key = term.lower()
+            if term_key not in indication_map:
+                indication_map[term_key] = {
+                    "name": term,
+                    "keywords_en": [],
+                    "keywords_zh": [term],
+                    "related_drugs": []
+                }
+            else:
+                if term not in indication_map[term_key]["keywords_zh"]:
+                    indication_map[term_key]["keywords_zh"].append(term)
+
+            if drug_slug not in indication_map[term_key]["related_drugs"]:
+                indication_map[term_key]["related_drugs"].append(drug_slug)
+
+    # 將通用關鍵字連結到有相關適應症的藥物
+    for generic_key, patterns in GENERIC_KEYWORD_PATTERNS.items():
+        generic_key_lower = generic_key.lower()
+        if generic_key_lower not in indication_map:
+            continue
+
+        # 找出所有符合模式的藥物
+        for drug in search_index.get("drugs", []):
+            drug_slug = drug.get("slug", "")
+            for ind in drug.get("indications", []):
+                ind_name = ind.get("name", "").lower()
+                # 檢查是否匹配任何模式
+                for pattern in patterns:
+                    if pattern.lower() in ind_name:
+                        if drug_slug not in indication_map[generic_key_lower]["related_drugs"]:
+                            indication_map[generic_key_lower]["related_drugs"].append(drug_slug)
+                        break
+
+        # 同時更新該通用關鍵字的中文同義詞條目
+        zh_list = indication_synonyms.get(generic_key, [])
+        for zh in zh_list:
+            zh_key = zh.lower()
+            if zh_key in indication_map:
+                for drug_slug in indication_map[generic_key_lower]["related_drugs"]:
+                    if drug_slug not in indication_map[zh_key]["related_drugs"]:
+                        indication_map[zh_key]["related_drugs"].append(drug_slug)
+
+    return indication_map
+
+
+def main():
+    print("載入資料檔案...")
+
+    # 載入資料
+    search_index = load_json(DOCS_DATA_DIR / "search-index.json")
+    drugs_data = load_json(DOCS_DATA_DIR / "drugs.json")
+    fda_path = DATA_DIR / "raw" / "tw_fda_drugs.json"
+    fda_data = load_json(fda_path) if fda_path.exists() else []
     synonyms = load_synonyms(DATA_DIR / "news" / "synonyms.json")
 
-    print(f"  - DrugBank vocabulary: {len(drugbank_vocab)} drugs")
-    print(f"  - Disease vocabulary: {len(disease_vocab)} diseases")
-    print(f"  - Synonyms: {len(synonyms.get('indication_synonyms', {}))} indication synonyms")
+    print(f"  - search-index.json: {search_index.get('drug_count', 0)} 藥物")
+    print(f"  - drugs.json: {drugs_data.get('total_count', 0)} 藥物")
+    print(f"  - tw_fda_drugs.json: {len(fda_data)} 筆 FDA 資料 (可能為空)")
+    print(f"  - synonyms.json: {len(synonyms.get('indication_synonyms', {}))} 適應症同義詞")
 
-    # Build drug keywords list
+    # 建立藥物關鍵字清單
     drugs_keywords = []
-    drug_synonyms = synonyms.get("drug_synonyms", {})
 
-    for drug in drugbank_vocab:
-        drug_name = drug["name"]
-        drug_id = drug["drugbank_id"]
+    for drug in search_index.get("drugs", []):
+        drug_name = drug.get("name", "")
+        drug_slug = drug.get("slug", "")
 
-        # English keywords
+        # 英文關鍵字
         keywords_en = [drug_name.lower()]
 
-        # Add synonyms if available
-        if drug_name in drug_synonyms:
-            for syn in drug_synonyms[drug_name]:
-                if syn.lower() not in keywords_en:
-                    keywords_en.append(syn.lower())
+        # 加入品牌名（從 search-index）
+        for brand in drug.get("brands", []):
+            if brand.lower() not in keywords_en:
+                keywords_en.append(brand.lower())
 
-        # Hindi/local language keywords (if available in synonyms)
-        keywords_local = drug_synonyms.get(drug_name, [])
+        # 中文商品名（從 FDA 資料）
+        keywords_zh = get_brand_names_from_fda(fda_data, drug_name)
 
         drugs_keywords.append({
-            "drugbank_id": drug_id,
+            "slug": drug_slug,
             "name": drug_name,
             "keywords": {
                 "en": keywords_en,
-                "local": keywords_local
-            }
+                "zh": keywords_zh
+            },
+            "url": f"/drugs/{drug_slug}/"
         })
 
-    print(f"\nProcessed drug keywords: {len(drugs_keywords)} drugs")
+    print(f"\n處理藥物關鍵字: {len(drugs_keywords)} 個藥物")
 
-    # Build indication keywords list
+    # 建立適應症關鍵字清單
+    indication_map = build_indication_index(drugs_data, search_index, synonyms)
+
+    # 轉換為列表格式（只保留有相關藥物的關鍵字）
     indications_keywords = []
-    indication_synonyms = synonyms.get("indication_synonyms", {})
-
-    # Track unique diseases to avoid duplicates
-    seen_diseases = set()
-
-    for disease in disease_vocab:
-        disease_name = disease["name"]
-        disease_id = disease["disease_id"]
-
-        if disease_name.lower() in seen_diseases:
-            continue
-        seen_diseases.add(disease_name.lower())
-
-        # English keywords
-        keywords_en = [disease_name.lower()]
-
-        # Local language synonyms
-        keywords_local = indication_synonyms.get(disease_name, [])
-
-        # Also check lowercase version
-        if not keywords_local:
-            keywords_local = indication_synonyms.get(disease_name.lower(), [])
-
-        indications_keywords.append({
-            "disease_id": disease_id,
-            "name": disease_name,
-            "keywords": {
-                "en": keywords_en,
-                "local": keywords_local
-            }
-        })
-
-    # Add generic keyword patterns
-    for pattern_name, patterns in GENERIC_KEYWORD_PATTERNS.items():
-        if pattern_name.lower() not in seen_diseases:
-            keywords_local = indication_synonyms.get(pattern_name, [])
+    for key, data in indication_map.items():
+        # 只保留有關聯藥物的適應症
+        if data["related_drugs"]:
             indications_keywords.append({
-                "disease_id": f"generic_{pattern_name}",
-                "name": pattern_name.lstrip("_"),
+                "name": data["name"],
                 "keywords": {
-                    "en": patterns,
-                    "local": keywords_local
-                }
+                    "en": data["keywords_en"],
+                    "zh": data["keywords_zh"]
+                },
+                "related_drugs": data["related_drugs"]
             })
 
-    print(f"Processed indication keywords: {len(indications_keywords)} indications")
+    print(f"處理適應症關鍵字: {len(indications_keywords)} 個適應症")
 
-    # Output
+    # 輸出
     output = {
         "generated": datetime.now().strftime("%Y-%m-%d"),
         "drug_count": len(drugs_keywords),
@@ -210,9 +282,9 @@ def main():
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\nOutput: {output_path}")
-    print(f"  - Drug keywords: {len(drugs_keywords)}")
-    print(f"  - Indication keywords: {len(indications_keywords)}")
+    print(f"\n輸出: {output_path}")
+    print(f"  - 藥物關鍵字: {len(drugs_keywords)} 個")
+    print(f"  - 適應症關鍵字: {len(indications_keywords)} 個")
 
 
 if __name__ == "__main__":
