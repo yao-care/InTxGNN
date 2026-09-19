@@ -14,7 +14,7 @@ permalink: /news/nadifloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Nadifloxacin?">
-<strong>Nadifloxacin</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Nadifloxacin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Nadifloxacin with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li class="indication-matched">malaria (99.2%)<span class="indication-tag">📰 malaria</span></li>
+<li>malaria (99.2%)</li>
 <li>pyogenic arthritis-pyoderma gangrenosum-acne syndrome (98.4%)</li>
 <li>spondyloarthropathy, susceptibility to (98.4%)</li>
 <li>relapsing fever (97.9%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Nadifloxacin with the latest
 <p><a href="{{ '/drugs/nadifloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [The many faces of malaria parasites](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lbTB2OF9tNzYyV2xKVXF1TFFZOTNFUktUdWs2Y01WLTdBcUlrVDNwSGxUdm9PTUpiS2JfaHRhNzFmVUlGYzZtdTBvdWZkOW1kZXBXM0FaZmktYnY4R084?oc=5)
-
-2026-09-18 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
-
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lbTB2OF9tNzYyV2xKVXF1TFFZOTNFUktUdWs2Y01WLTdBcUlrVDNwSGxUdm9PTUpiS2JfaHRhNzFmVUlGYzZtdTBvdWZkOW1kZXBXM0FaZmktYnY4R084?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

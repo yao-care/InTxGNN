@@ -30,11 +30,11 @@ This page combines the AI-predicted indications for Norepinephrine with the late
 
 ## Related News (1)
 
-### [Scientists map brain's mysterious 'blue place' and discover longest neuron ever measured in a mouse - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUZVTmgtU2Q0MndVbkE0SGhmcm8wclR3RTllLWNfSzBjd2hWZ3ZzVWdCUUxyalVPLUg1Q2dvNkZnbXdVVkcwX0RlMEtMejNQdDdlejJtOFFsSW1yYlpQU3pGSWVXXzFXNERnNFgtT2dLTy11OTRXTkFvdUZJay1pOS1iaHotemdsbHNoVg?oc=5)
+### [Topographic structure and function of locus coeruleus noradrenaline neurons](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nczhablNjRTlrY0hXYzliLTRWd0tTSm9VX2ZPdkgyR3BKMXlXMzVScjZRdkcyNHQ1TzRDdGRfX1NTTlQ5cVIxcmstUFBYZzQtUG1hQklJYkU5S2FWMUNn?oc=5)
 
-2026-09-17 <span class="news-drug-tag">NOREPINEPHRINE</span> <span class="news-drug-tag">Epinephrine</span> <span class="news-drug-tag">Norepinephrine</span>
+2026-09-16 <span class="news-drug-tag">NOREPINEPHRINE</span> <span class="news-drug-tag">Epinephrine</span> <span class="news-drug-tag">Norepinephrine</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUZVTmgtU2Q0MndVbkE0SGhmcm8wclR3RTllLWNfSzBjd2hWZ3ZzVWdCUUxyalVPLUg1Q2dvNkZnbXdVVkcwX0RlMEtMejNQdDdlejJtOFFsSW1yYlpQU3pGSWVXXzFXNERnNFgtT2dLTy11OTRXTkFvdUZJay1pOS1iaHotemdsbHNoVg?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nczhablNjRTlrY0hXYzliLTRWd0tTSm9VX2ZPdkgyR3BKMXlXMzVScjZRdkcyNHQ1TzRDdGRfX1NTTlQ5cVIxcmstUFBYZzQtUG1hQklJYkU5S2FWMUNn?oc=5)
 
 ---
 

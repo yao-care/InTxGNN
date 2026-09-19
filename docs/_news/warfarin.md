@@ -14,7 +14,7 @@ permalink: /news/warfarin/
 ---
 
 <p class="key-answer" data-question="What news is there about Warfarin?">
-<strong>Warfarin</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Warfarin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,15 +28,9 @@ This page combines the AI-predicted indications for Warfarin with the latest hea
 <p><a href="{{ '/drugs/warfarin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Warfarin for Left Ventricular Thrombus in Nonischemic Cardiomyopathy With Acute Kidney Injury: A Case Report and Literature Review of Anticoagulation Strategies in Renal Impairment](https://news.google.com/rss/articles/CBMivwJBVV95cUxQR21OUkxZU19Ra2xfZ2NPV2x3ZE9tSnMxYU5mWFJ5bzgyQmxfV2RjSHJkcVB5NDEyWkhrQjJoa1A3b0hkYS1Ua3pHcW9lLVhpYkszZVZfUUM0c2ZGdGR3eUtuM0kwRzVkNnlBMVo5X0dFblc4cDFOTVU5WU9aRGZ6VEw0M0pEcUtsb2dBNUlFek1JU2dCRFFHMThKRDlSQzdtVWNBVFlaSHdRMUxSdDBXVE5pMUpPZklQOWxWaXR0NmlibFd2VGwwZzdsYVR0dlFuN3VnM3k0elR1Q0RNM1B0TEFiQnpKT1VqVHZSbzZZNV9sZUUwZEIxT1J2eDNySlRxNFEyZHdjbFJDVmFzb3Njbl92dHdsX2dXbkU3OUt1YWlzaHNmMEJUWHRSS0c3aVRnaG1zbjYxQUN6TEdqV2xv?oc=5)
-
-2026-09-19 <span class="news-drug-tag">WARFARIN</span> <span class="news-drug-tag">Warfarin</span> <span class="news-indication-tag">cardiomyopathy</span> <span class="news-indication-tag">injury</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMivwJBVV95cUxQR21OUkxZU19Ra2xfZ2NPV2x3ZE9tSnMxYU5mWFJ5bzgyQmxfV2RjSHJkcVB5NDEyWkhrQjJoa1A3b0hkYS1Ua3pHcW9lLVhpYkszZVZfUUM0c2ZGdGR3eUtuM0kwRzVkNnlBMVo5X0dFblc4cDFOTVU5WU9aRGZ6VEw0M0pEcUtsb2dBNUlFek1JU2dCRFFHMThKRDlSQzdtVWNBVFlaSHdRMUxSdDBXVE5pMUpPZklQOWxWaXR0NmlibFd2VGwwZzdsYVR0dlFuN3VnM3k0elR1Q0RNM1B0TEFiQnpKT1VqVHZSbzZZNV9sZUUwZEIxT1J2eDNySlRxNFEyZHdjbFJDVmFzb3Njbl92dHdsX2dXbkU3OUt1YWlzaHNmMEJUWHRSS0c3aVRnaG1zbjYxQUN6TEdqV2xv?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

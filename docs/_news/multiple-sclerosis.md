@@ -31,11 +31,11 @@ This page brings together the latest health news about “multiple sclerosis” 
 
 ## Related News (1)
 
-### [FDA Clears Phase 1b/2 Trial of CAR T-Cell Therapy C-CAR168 for Refractory Progressive Multiple Sclerosis](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZk0wWEpGODZueVdKUHRaUk9YYXRuNDNydTVrcU9rSVhyd1FIZGN3LW5pWVIzMk5ZVFVaQ1hsOUFvaXNvWndJS0NVYkF2dmI1VFM3eVRmX1QwckNtQWk3R1lJYjBhMFk1d2tCal9xUnMzU1BtcHRaTE1CNENQbi1rb0JrbzNOTDQycXpaUlo3Nlp6U19VcHUxLVF2bEhsQ2c0TDRWMA?oc=5)
+### [Chimeric Antigen Receptor T-cell (CAR-T) Therapy in Autoimmune Diseases: A Narrative Review](https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVdpQmg5UmdsOTlGbDZPblQ5dUNNNjdValdpamtRUUNXb016X0VsUzVHNzd0eWs4eTBOa0gyTndSOTdoc0tFU2hWU2FHTTJwUWxzVVJ6cVhhUy1YeUI3YXVlSlpCOEpMNU5jOUZ3R3ZwVzBMSFdyc2RfUVpfSjVBTHhCMXozLXhSUjVRb3czNVFvY0g3U0RaMWxOWXI2VjVyc3F4YjlpR2huakItOHBBTkJXMGM1R1pFUVJiNS1IbUowbjR4YWc?oc=5)
 
-2026-09-17
+2026-09-16
 
-Source: [NeurologyLive](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZk0wWEpGODZueVdKUHRaUk9YYXRuNDNydTVrcU9rSVhyd1FIZGN3LW5pWVIzMk5ZVFVaQ1hsOUFvaXNvWndJS0NVYkF2dmI1VFM3eVRmX1QwckNtQWk3R1lJYjBhMFk1d2tCal9xUnMzU1BtcHRaTE1CNENQbi1rb0JrbzNOTDQycXpaUlo3Nlp6U19VcHUxLVF2bEhsQ2c0TDRWMA?oc=5)
+Source: [Cureus](https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVdpQmg5UmdsOTlGbDZPblQ5dUNNNjdValdpamtRUUNXb016X0VsUzVHNzd0eWs4eTBOa0gyTndSOTdoc0tFU2hWU2FHTTJwUWxzVVJ6cVhhUy1YeUI3YXVlSlpCOEpMNU5jOUZ3R3ZwVzBMSFdyc2RfUVpfSjVBTHhCMXozLXhSUjVRb3czNVFvY0g3U0RaMWxOWXI2VjVyc3F4YjlpR2huakItOHBBTkJXMGM1R1pFUVJiNS1IbUowbjR4YWc?oc=5)
 
 ---
 

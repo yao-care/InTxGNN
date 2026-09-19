@@ -14,7 +14,7 @@ permalink: /news/becaplermin/
 ---
 
 <p class="key-answer" data-question="What news is there about Becaplermin?">
-<strong>Becaplermin</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Becaplermin</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,29 +40,21 @@ This page combines the AI-predicted indications for Becaplermin with the latest 
 <p><a href="{{ '/drugs/becaplermin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [Study identifies key factors in breast cancer survivors' sexual recovery](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVpTUlZYR0U4Rm51TWtjY1hCNE5jRjZVcEtGQUFHbzBqcmQyZjZXRDdGMnR3dmlZdHdBOU1OaFJkUkNxelFxRWg5QjFoMzBOY0VEXzR5ZDZ4cXV2ZWd0S2lFdlYwZHE4ZHd6Z3JWWVFuWFU4NWg4SHhJWUh3ZGpHUFEtazNWb29XMEwxR2VXZlg0SUI5dTg0YlNYTFF3dVAyRDJLSXhjdFhINFpmX2JLdHk1VGgtVGx3Tkw4?oc=5)
+### [Loss of Y chromosome in men could be an early warning sign of cancer](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
 
-2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-09-19 <span class="news-indication-tag">cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVpTUlZYR0U4Rm51TWtjY1hCNE5jRjZVcEtGQUFHbzBqcmQyZjZXRDdGMnR3dmlZdHdBOU1OaFJkUkNxelFxRWg5QjFoMzBOY0VEXzR5ZDZ4cXV2ZWd0S2lFdlYwZHE4ZHd6Z3JWWVFuWFU4NWg4SHhJWUh3ZGpHUFEtazNWb29XMEwxR2VXZlg0SUI5dTg0YlNYTFF3dVAyRDJLSXhjdFhINFpmX2JLdHk1VGgtVGx3Tkw4?oc=5)
-
----
-
-### [Childhood cancer: What happens to a child’s heart, growth and fertility after the cancer is gone?](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeUVlY0hwT0FBXzk5OFEwamNwelByV1l1MlgwYnFjYVFqYVNOQ1o5MjlTamc2UmN2ZFBPb0RySVpzWmpuaGtEamFWOFdhYTQtTW92cFN6SmdqYmFHbFpDM18tNUJEalV5dkVlVzVzSjhSRzNLRFFOTVdiVDhEb1Zjb0NBUkZ2MEVxSEtkLS1lU1ZLWEN5d3VvZG8tT3pSLS1TeF9nZW5EUEhndElQZElJSHpLdFIyU3UtSzZjaHF5TFdkU0MyZWN4cjVvcFBrX0lmOE1mdVN5QdIB3AFBVV95cUxNSEtWTnJ6TTNYM0RUUVZMTFVHNnNaRjVNYVU5dWMxWVFzQXl6d2JJdHlVWjMzVW9raGMzQWJveWhyU1pTMi1QVE0xcGstSHFEZGZrbEp2UWlGYW53LVg5ZDZ6N3hXNkdIMFBTakdZdnFVX0FmbGFSLU5hZ1RfMkxpcExYTG11ZTdwaE9NT3ROWTdVS0RqMlR6ak8zdTAtVzJtbDdvM0hLR2NieXlJemVIT1VPOWNGVlNYVUJJdGExVjQ2TnVOeU1iZ3hDbC15eDV1dEU5ZzdYOXVrYlVF?oc=5)
-
-2026-09-17 <span class="news-indication-tag">cancer</span>
-
-Source: [Firstpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeUVlY0hwT0FBXzk5OFEwamNwelByV1l1MlgwYnFjYVFqYVNOQ1o5MjlTamc2UmN2ZFBPb0RySVpzWmpuaGtEamFWOFdhYTQtTW92cFN6SmdqYmFHbFpDM18tNUJEalV5dkVlVzVzSjhSRzNLRFFOTVdiVDhEb1Zjb0NBUkZ2MEVxSEtkLS1lU1ZLWEN5d3VvZG8tT3pSLS1TeF9nZW5EUEhndElQZElJSHpLdFIyU3UtSzZjaHF5TFdkU0MyZWN4cjVvcFBrX0lmOE1mdVN5QdIB3AFBVV95cUxNSEtWTnJ6TTNYM0RUUVZMTFVHNnNaRjVNYVU5dWMxWVFzQXl6d2JJdHlVWjMzVW9raGMzQWJveWhyU1pTMi1QVE0xcGstSHFEZGZrbEp2UWlGYW53LVg5ZDZ6N3hXNkdIMFBTakdZdnFVX0FmbGFSLU5hZ1RfMkxpcExYTG11ZTdwaE9NT3ROWTdVS0RqMlR6ak8zdTAtVzJtbDdvM0hLR2NieXlJemVIT1VPOWNGVlNYVUJJdGExVjQ2TnVOeU1iZ3hDbC15eDV1dEU5ZzdYOXVrYlVF?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
 
 ---
 
-### [WHO Unveils Strategy to Improve Access to Childhood Cancer Medicines](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHBRVW9OcU9EUEJVOU1Ea1NmeENLM2FCVXRTYXNUckFFM1RtX3lsNTJkZDlCMU1EbWlTTEhzajMwdHRZZk53ZDQ4SVoxd0V4clNmcDZsUUd2QW1MVzctUnExVHV1Z0EtSlNIVjMtSDQwQU0yNkRiM2p1cGJDYkprN2FuZ3lCd2hlSjN3Y2pTaHF5bnRjOUZ5dDMtdFU?oc=5)
+### [The Big Questions in Cancer Immunotherapy: Are Personalized Cancer Vaccines Finally Ready to Deliver?](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2d2VVhBWHpPdU96QVVDRGttMnFneERud3BlcFRXMHlheVBsV0ZLSkRhY1UwU3VWMVR0dllhMEhla0kxSDVYZDc2TkY3aE1NTUxoaGl4Qmtwb0o5bUVVclNZekY5cVJCNjBILVc4NHJCOHVQb2ZPUHo0MS1sRDlGYllEMG4?oc=5)
 
-2026-09-16 <span class="news-indication-tag">cancer</span>
+2026-09-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">head and neck cancer</span>
 
-Source: [boldnewsonline.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHBRVW9OcU9EUEJVOU1Ea1NmeENLM2FCVXRTYXNUckFFM1RtX3lsNTJkZDlCMU1EbWlTTEhzajMwdHRZZk53ZDQ4SVoxd0V4clNmcDZsUUd2QW1MVzctUnExVHV1Z0EtSlNIVjMtSDQwQU0yNkRiM2p1cGJDYkprN2FuZ3lCd2hlSjN3Y2pTaHF5bnRjOUZ5dDMtdFU?oc=5)
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2d2VVhBWHpPdU96QVVDRGttMnFneERud3BlcFRXMHlheVBsV0ZLSkRhY1UwU3VWMVR0dllhMEhla0kxSDVYZDc2TkY3aE1NTUxoaGl4Qmtwb0o5bUVVclNZekY5cVJCNjBILVc4NHJCOHVQb2ZPUHo0MS1sRDlGYllEMG4?oc=5)
 
 ---
 
