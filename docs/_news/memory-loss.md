@@ -3,7 +3,7 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 3 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 2 articles, 8 related drugs."
 permalink: /news/memory-loss/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/memory-loss/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Can we protect brain health as we age? 4 everyday habits doctor says can lower dementia risk - The Times of India](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcDNfb0JkYk5GbmVhNE5kWWRJREpYMFZULWpxaDZSLTdBTGJvWnBWMUVDS09xa2tMalJnSzhtUkpLR0F0UXZweHdPRUszNHBGZkZfSXp3VWlQZlFhR2NvZ3NBRGRqSVBVcmQ5aTJacTlJbXNCXzI4N1QyRk84NVJLZHdCdjNFTHZVYXJSN1Y4QVY4M2xoSHFkbGVYYkVYb3pRNVFrYVgwT0JjajR1N0xjNWVKeGE5T0RSNk9Ha0kzSnY0Z3NwSVdZMXl0UzR2WUJzUWhaSWwwY3Rjbi00ZVFNR2RMQ20xZlRhTEtrMXQ2NDhXd9IB9wFBVV95cUxQM1lYenZYYWdYTlBZUURxN3p6Ml9tOExiNUxJT0dGSFZqQXlCMFI5amxQekdRLVVfOGZPZkhTaGw3NUdaZ1FWYllIQmowQ3FrZHJ2bGlTUjh0NWx3bGRoMVVYampoY0hURUtlc0w2THZQRTNXbFVaVDdpVUo2WWVfdnFKekpXMjlzSEpROGUzSEFRTUY5OTFBLTJvOHY5aVZwaE9aTFp3eE9TUjZpVmo2dWZteFQ3NHpJRU5LdkNLcHBHdmpaNFFaMW9talFBVnozZ0dfQVRlQ0FXbExyZzJkM0VVMG45eDduUm1kZ0JjU2RvRTBWX3Jz?oc=5)
 
 2026-09-18
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcDNfb0JkYk5GbmVhNE5kWWRJREpYMFZULWpxaDZSLTdBTGJvWnBWMUVDS09xa2tMalJnSzhtUkpLR0F0UXZweHdPRUszNHBGZkZfSXp3VWlQZlFhR2NvZ3NBRGRqSVBVcmQ5aTJacTlJbXNCXzI4N1QyRk84NVJLZHdCdjNFTHZVYXJSN1Y4QVY4M2xoSHFkbGVYYkVYb3pRNVFrYVgwT0JjajR1N0xjNWVKeGE5T0RSNk9Ha0kzSnY0Z3NwSVdZMXl0UzR2WUJzUWhaSWwwY3Rjbi00ZVFNR2RMQ20xZlRhTEtrMXQ2NDhXd9IB9wFBVV95cUxQM1lYenZYYWdYTlBZUURxN3p6Ml9tOExiNUxJT0dGSFZqQXlCMFI5amxQekdRLVVfOGZPZkhTaGw3NUdaZ1FWYllIQmowQ3FrZHJ2bGlTUjh0NWx3bGRoMVVYampoY0hURUtlc0w2THZQRTNXbFVaVDdpVUo2WWVfdnFKekpXMjlzSEpROGUzSEFRTUY5OTFBLTJvOHY5aVZwaE9aTFp3eE9TUjZpVmo2dWZteFQ3NHpJRU5LdkNLcHBHdmpaNFFaMW9talFBVnozZ0dfQVRlQ0FXbExyZzJkM0VVMG45eDduUm1kZ0JjU2RvRTBWX3Jz?oc=5)
-
----
-
-### [World Alzheimer's Day: Steps to Prevent Dementia - Mirage News](https://news.google.com/rss/articles/CBMiigFBVV95cUxNM3F1czY0VGRBWi1KcFVVOVZFSFRGSFBnZVYwc2RYQ2tkZkJINkp3QUJfWDhHYi0yT2VUcFZFZEVCX2hqYWZFQkx1UTg3MU5BVTVSLVZIZmtGMlo5UlEta295NnJrN1M0dzFEYTFMWUlBYnllOEliM1o1Ukl4ekVqNnNnSG9SMFRpRWc?oc=5)
-
-2026-09-18
-
-Source: [Mirage News](https://news.google.com/rss/articles/CBMiigFBVV95cUxNM3F1czY0VGRBWi1KcFVVOVZFSFRGSFBnZVYwc2RYQ2tkZkJINkp3QUJfWDhHYi0yT2VUcFZFZEVCX2hqYWZFQkx1UTg3MU5BVTVSLVZIZmtGMlo5UlEta295NnJrN1M0dzFEYTFMWUlBYnllOEliM1o1Ukl4ekVqNnNnSG9SMFRpRWc?oc=5)
 
 ---
 

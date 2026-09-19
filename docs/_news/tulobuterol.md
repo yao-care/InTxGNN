@@ -46,7 +46,7 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 
 2026-09-13 <span class="news-indication-tag">COPD</span>
 
-Source: [emjreviews.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0dyTjZUMFROelg1TE9SeDZZVGllMVhHTElGODNCYTBtR3pveFlvdzBRZUs3NjA5bExBZHVLanhaNFV4U3BFdTFkZ2lmQVJuZ2tvX1ZycS1YeDFVQmRNMm5vb0lvSE1xb3FXek1tNnR0ODhGcDNFVENsbzRUQ3BGeWpTa3FFcHF2THZldWw4SURKUjNSM2N0dWNIbVZhaXUybXFuSEhrMjRBZzFKbGpoaQ?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0dyTjZUMFROelg1TE9SeDZZVGllMVhHTElGODNCYTBtR3pveFlvdzBRZUs3NjA5bExBZHVLanhaNFV4U3BFdTFkZ2lmQVJuZ2tvX1ZycS1YeDFVQmRNMm5vb0lvSE1xb3FXek1tNnR0ODhGcDNFVENsbzRUQ3BGeWpTa3FFcHF2THZldWw4SURKUjNSM2N0dWNIbVZhaXUybXFuSEhrMjRBZzFKbGpoaQ?oc=5)
 
 ---
 
