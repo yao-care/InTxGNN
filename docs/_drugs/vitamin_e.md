@@ -29,86 +29,87 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vitamin E：從維生素補充適應症到先天性膽紅素代謝障礙（Inborn Disorder of Bilirubin Metabolism）
+# Vitamin E: From Vitamin Supplementation Indication to Inborn Disorder of Bilirubin Metabolism
 
-## 一句話摘要
+## One-Sentence Summary
 
-Vitamin E（維生素E）為脂溶性抗氧化營養素，目前台灣未查得核准藥證與明確核准適應症。TxGNN 模型預測其可能對**先天性膽紅素代謝障礙**具潛在效益，但目前僅有 **3 筆臨床試驗**（皆非直接測試 Vitamin E 於此疾病）與 **2 篇文獻**（均為 Tier 3 回顧/個案性質）支持，證據強度薄弱。
-
----
-
-## 快速總覽
-
-| 項目 | 內容 |
-|------|------|
-| 原始適應症 | 查無資料（台灣Not marketed，無核准適應症文字） |
-| 預測新適應症 | Inborn Disorder of Bilirubin Metabolism（先天性膽紅素代謝障礙） |
-| TxGNN 預測分數 | 99.99%（rank 522） |
-| 證據等級 | L4（機轉/臨床前層級） |
-| 台灣市場狀態 | Not marketed |
-| 藥證登記數 | 0 |
-| 建議決策 | **Hold（暫緩）** |
+Vitamin E is a fat-soluble antioxidant nutrient for which no approved drug license or clearly defined approved indication has been identified in Taiwan. The TxGNN model predicts that it may have potential benefit for **inborn disorder of bilirubin metabolism**, but currently only **3 clinical trials** (none directly testing Vitamin E in this disease) and **2 publications** (both Tier 3 reviews/case reports) provide support, indicating weak evidence strength.
 
 ---
 
-## 為什麼這個預測合理？
+## Quick Overview
 
-目前**沒有 Vitamin E 詳細作用機轉（MOA）資料**（DG002，High 嚴重度缺口）。根據既有公開資訊，Vitamin E 屬脂溶性抗氧化維生素，其在「維生素E缺乏症」的療效已獲確立；機轉上，作為自由基清除劑，理論上可能減少脂質過氧化、降低氧化壓力，因此被模型連結至肝膽代謝相關疾病。
-
-然而，就先天性膽紅素代謝障礙（如 Crigler-Najjar 症候群、進行性家族性肝內膽汁淤積等）而言，此類疾病的核心病理是**膽紅素合成酵素或轉運蛋白的原發性基因缺陷**，並非氧化壓力主導。文獻與試驗證據顯示，這類病人常見脂溶性維生素（含 Vitamin E）吸收不良，因此臨床上補充 Vitamin E 多屬「糾正繼發性缺乏」，而非「治療原發代謝缺陷」。現有列出的 3 筆臨床試驗也均非直接以 Vitamin E 介入本疾病為目的，關聯性偏間接、機轉推論尚待驗證。
-
----
-
-## 臨床試驗證據
-
-| 試驗編號 | 期別 | 狀態 | 收案人數 | 重點發現 |
-|---------|------|------|------|---------|
-| [NCT06465810](https://clinicaltrials.gov/study/NCT06465810) | N/A | 招募中 | 1,850 | 跨國 ATTR 類澱粉沉積症真實世界登錄研究，涵蓋膽紅素代謝疾病族群，但未特定測試 Vitamin E 介入（相關性等級 B） |
-| [NCT01556906](https://clinicaltrials.gov/study/NCT01556906) | Phase 2 | 已完成 | 6 | MTP 抑制劑 lomitapide 於純合子家族性高膽固醇血症之劑量遞增試驗，介入藥物非 Vitamin E，僅間接相關（相關性等級 C） |
-| [NCT03115086](https://clinicaltrials.gov/study/NCT03115086) | N/A | 進行中未招募 | 55 | Cholbam（cholic acid）上市後觀察性病患登錄，收集疾病自然史資料，非藥物介入試驗（相關性等級 B） |
+| Item | Content |
+|------|---------|
+| Original Indication | No data found (Taiwan Not marketed; no approved indication text) |
+| Predicted New Indication | Inborn Disorder of Bilirubin Metabolism |
+| TxGNN Prediction Score | 99.99% (rank 522) |
+| Evidence Level | L4 (mechanism/preclinical level) |
+| Taiwan Market Status | Not marketed |
+| Number of Drug Licenses | 0 |
+| Recommended Decision | **Hold (deferred)** |
 
 ---
 
-## 文獻證據
+## Why is This Prediction Reasonable?
 
-| PMID | 年份 | 類型 | 期刊 | 重點發現 |
-|------|-----|------|------|---------|
-| [7915305](https://pubmed.ncbi.nlm.nih.gov/7915305/) | 1994 | Case report/Review | The Journal of Pediatrics | 描述 3β-hydroxy-C27-steroid dehydrogenase/isomerase 缺乏導致之進行性肝內膽汁淤積新病因，屬疾病機轉描述性文獻，非 Vitamin E 介入研究 |
-| [803225](https://pubmed.ncbi.nlm.nih.gov/803225/) | 1975 | Review | The New England Journal of Medicine | 新生兒非溶血性黃疸之回顧文獻，無摘要內容，與 Vitamin E 治療無直接關聯 |
+Currently **no detailed Vitamin E mechanism of action (MOA) data is available** (DG002, High severity gap). Based on existing public information, Vitamin E is a fat-soluble antioxidant vitamin whose efficacy in "Vitamin E deficiency" has been established; mechanistically, as a free radical scavenger, it could theoretically reduce lipid peroxidation and lower oxidative stress, thus being linked by the model to hepatobiliary metabolism-related diseases.
 
----
-
-## 台灣市場資訊
-
-目前查無台灣核准藥證資料（市場狀態：Not marketed，登記數：0，無可列示之許可證/適應症文字）。
+However, in inborn disorders of bilirubin metabolism (such as Crigler-Najjar syndrome, progressive familial intrahepatic cholestasis, etc.), the core pathophysiology is **primary genetic defects of bilirubin-synthesizing enzymes or transport proteins**, not oxidative stress-driven disease. Literature and trial evidence show that such patients frequently present with malabsorption of fat-soluble vitamins (including Vitamin E), so clinical Vitamin E supplementation typically aims to "correct secondary deficiency" rather than "treat primary metabolic defects." The 3 listed clinical trials are also not designed to directly test Vitamin E intervention in this disease; the associations are indirect and the mechanistic reasoning awaits validation.
 
 ---
 
-## 安全性考量
+## Clinical Trial Evidence
 
-**藥物交互作用**（來源：DDInter，共查得 173 筆交互作用紀錄，以下為節錄）：
-
-- **Moderate 等級**（需留意，多與抗凝血/抗血小板及礦物質吸收相關）：Acetylsalicylic acid、Iron、Iron sucrose、Sevelamer、Abciximab、Antithrombin III human、Apixaban、Dipyridamole、Betrixaban、Bivalirudin、Cangrelor、Caplacizumab — 高劑量 Vitamin E 理論上可能增強抗凝血/抗血小板藥物之出血風險，並可能與鐵劑/磷結合劑產生吸收層面交互作用。
-- **Minor 等級**：Hydrocortisone、Triamcinolone、Dexamethasone、Betamethasone、Budesonide、Orlistat、Prednisone、Prednisolone。
-
-⚠️ 因**仿單警語與禁忌症資料缺失**（DG001，Blocking 嚴重度），無法完成完整安全性初評，此為進入下一階段的阻斷性缺口。
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|--------------|-------|--------|------------|--------------|
+| [NCT06465810](https://clinicaltrials.gov/study/NCT06465810) | N/A | Recruiting | 1,850 | International ATTR amyloidosis real-world registry study, encompassing a cohort with bilirubin metabolism disease, but not specifically testing Vitamin E intervention (relevance grade B) |
+| [NCT01556906](https://clinicaltrials.gov/study/NCT01556906) | Phase 2 | Completed | 6 | Dose-escalation trial of MTP inhibitor lomitapide in homozygous familial hypercholesterolemia; investigational drug is not Vitamin E, only indirectly related (relevance grade C) |
+| [NCT03115086](https://clinicaltrials.gov/study/NCT03115086) | N/A | Active, not recruiting | 55 | Post-marketing patient registry for Cholbam (cholic acid), collecting disease natural history data; not a drug intervention trial (relevance grade B) |
 
 ---
 
-## 結論與下一步
+## Literature Evidence
 
-**決策：Hold（暫緩）**
+| PMID | Year | Type | Journal | Key Findings |
+|------|------|------|---------|--------------|
+| [7915305](https://pubmed.ncbi.nlm.nih.gov/7915305/) | 1994 | Case report/Review | The Journal of Pediatrics | Describes a novel disease cause (3β-hydroxy-C27-steroid dehydrogenase/isomerase deficiency) leading to progressive familial intrahepatic cholestasis; this is a disease mechanistic descriptive publication, not a Vitamin E intervention study |
+| [803225](https://pubmed.ncbi.nlm.nih.gov/803225/) | 1975 | Review | The New England Journal of Medicine | Review of unconjugated hyperbilirubinemia in newborns; no abstract available; no direct association with Vitamin E treatment |
 
-**理由：**
-- 排名第一之預測適應症（先天性膽紅素代謝障礙）僅達 L4（機轉/臨床前）證據等級，現有 3 筆試驗皆非直接測試 Vitamin E 於此疾病，2 篇文獻亦僅屬回顧/個案描述性質，尚不足以支持進入下一階段安全性評估。
-- 仿單警語/禁忌症資料缺失屬 Blocking 等級缺口，依規範無法完成 S1 安全性初評。
+---
 
-**若要推進，需補齊：**
-- TFDA 仿單警語與禁忌症資料（下載並解析官方仿單 PDF）
-- Vitamin E 完整作用機轉（MOA）資料（Query the DrugBank API）
-- 針對先天性膽紅素代謝障礙之直接介入性人體試驗證據
+## Taiwan Market Information
 
-**附註：** 同一 Evidence Pack 中排名第二的「bilirubin metabolism disease（廣義膽紅素代謝疾病，含 NAFLD/NASH 相關肝功能異常）」證據等級達 **L2**，已有一項完成之 Phase 4 頭對頭 RCT（Vitamin E vs UDCA vs pentoxifylline，n=102）及多項觀察性佇列支持，建議另案評估該適應症之推進可行性。
+No approved drug license data currently identified in Taiwan (market status: Not marketed; registration count: 0; no permit/indication text available for display).
+
+---
+
+## Safety Considerations
+
+**Drug Interactions** (source: DDInter; 173 interaction records identified total; excerpted below):
+
+- **Moderate grade** (warrant attention; predominantly related to anticoagulation/antiplatelet agents and mineral absorption): Acetylsalicylic acid, Iron, Iron sucrose, Sevelamer, Abciximab, Antithrombin III human, Apixaban, Dipyridamole, Betrixaban, Bivalirudin, Cangrelor, Caplacizumab — high-dose Vitamin E could theoretically potentiate the bleeding risk of anticoagulant/antiplatelet drugs and may produce absorption-level interactions with iron products/phosphate binders.
+- **Minor grade**: Hydrocortisone, Triamcinolone, Dexamethasone, Betamethasone, Budesonide, Orlistat, Prednisone, Prednisolone.
+
+⚠️ Due to **missing product information warnings and contraindication data** (DG001, Blocking severity), a comprehensive safety initial assessment cannot be completed, which is a blocking gap for proceeding to the next phase.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold (deferred)**
+
+**Rationale:**
+- The top-ranked predicted indication (inborn disorder of bilirubin metabolism) achieves only L4 (mechanism/preclinical) evidence level; the 3 existing trials are not designed to directly test Vitamin E in this disease, and the 2 publications are merely descriptive reviews/case reports, insufficient to support progression to the next stage of safety assessment.
+- Missing product information warnings and contraindication data constitute a Blocking-level gap; per protocol, S1 safety initial assessment cannot be completed.
+
+**To proceed further, the following must be completed:**
+- TFDA product information warnings and contraindication data (download and parse official product information PDF)
+- Complete Vitamin E mechanism of action (MOA) data (query the DrugBank API)
+- Direct intervention human trial evidence for inborn disorder of bilirubin metabolism
+
+**Note:** In the same Evidence Pack, the second-ranked indication "bilirubin metabolism disease (broad sense bilirubin metabolism disease, including NAFLD/NASH-related hepatic dysfunction)" achieves **L2** evidence level, supported by one completed Phase 4 head-to-head RCT (Vitamin E vs UDCA vs pentoxifylline, n=102) and multiple observational cohorts; evaluation of the feasibility of advancing this indication is recommended as a separate agenda item.
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
