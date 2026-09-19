@@ -14,7 +14,7 @@ permalink: /news/eptifibatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Eptifibatide?">
-<strong>Eptifibatide</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
+<strong>Eptifibatide</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Eptifibatide with the latest
 <p><a href="{{ '/drugs/eptifibatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (7)
+
+### [A missing Y chromosome may be an early clue to cancer - Tech Explorist](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdkM5X2Qza0FrcldxdVdjNkpfZUZyc1JGU09qTVRnUHBjdTFxYW5BSUNrcmtwLWFLZ3UyQjlmUE1VUTlZeTJtT1lEYVVmNXJ5UUVnbWtLN1RnS3c3SlctaFVuWWxweTdELUVmdVhWdmZFVnZPeE1fS3UyVjhXaXpxM0Nn?oc=5)
+
+2026-09-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Tech Explorist](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdkM5X2Qza0FrcldxdVdjNkpfZUZyc1JGU09qTVRnUHBjdTFxYW5BSUNrcmtwLWFLZ3UyQjlmUE1VUTlZeTJtT1lEYVVmNXJ5UUVnbWtLN1RnS3c3SlctaFVuWWxweTdELUVmdVhWdmZFVnZPeE1fS3UyVjhXaXpxM0Nn?oc=5)
+
+---
 
 ### [Loss of Y chromosome in men could be an early warning sign of cancer](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
 
@@ -50,11 +58,11 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdl
 
 ---
 
-### [IBM and NASA release Open-Source AI model to support lunar exploration - Portal ERP](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZk5sVVNrcDRuTGpqeXNYV05lck1HME5GU1JJb2c2ODZWRDRIZVV3bmtmSXJKMGtkempQaThsX29ES1drdXNwVlJQTWxCSWRoeWhjQ3JsbWFtSkYybjJoc2F4a2VZbHpRUHFwSWxMZ2tybnJMOXNJN2Q5Vl9YSGRERDVTaE1rV3VraUR1d1lKcjFZTnZpTlJWdVNXR1NDTDZrMXc?oc=5)
+### [Ovarian cancer warning signs: A 47-year-old mom diagnosed after THIS sudden symptom; red flags women should watch out for - The Times of India](https://news.google.com/rss/articles/CBMiogJBVV95cUxNRUNDV2RJMExhT1pDMWw2SkZZdmc2TjVOU2lCcXFLUTZQak9TVnJxUzZoeTVDSFY0YkNDUW9yVGlHVGpZOGhkN2tmNFBQNkY0cVVqeTRnVE1YX0R2Wi03aWxPSXZCSHJJaTZXdUQtX1hiVmo1dFNnSWd6S3JCVkEzZUlFcWRzV1ZvUEZva0RxM1VvYVlFdmZsWERBNUZ5bXNTR2tvdGVjX051MExLNHBta0J4RFZBMkhwM2NSRUs0ZnJZOVdFaUl4Y1VMY2dnbE1WQVFnR2dsa1o4WFdsYlN1T3BBNHYwNm5pbERMRmNlaDFTWGFNSFk4UGRNV3EwVWhKaDl3VU5wclIyYnVaZ2lTakFhazhHU2o5QW5jbDNxQW9tZ9IBqgJBVV95cUxNd1FOa0pDUEtRcUVfbkJBTUpZNGY3LXplcXBCVVc2RDFRLXZIaTItRFRGQUdPQk9VUi1pekh5UWxvRWN2b2tmMVlIZDE2aFk0czBWaVJxODVod2VlYnE3M2tHYkdxTHVhVlhDUEF1LTlZS0w5N2U3YmF3bnJxb3JxZnBlZ1AxR0NmcHdVaEU4aW4xQ21ZZ0Fjd2xyQkw1ODk2c21tWGZ0cUgtbHItUUZ3QVMwTC03bmRUWTBPNFowWk5vT1dHMkpBazMwY1JFU3VDTjRia056VHIwTU5kWUJ3a250Nm5OX1J3SlM3aTFvaVpkcU1yLW1zQkVGTVpWc2FhQllscVRBbGMtcGRoT0lDaGI1cDJUbF8ya2RTOUlsbDQwVnZsWGR5ZEVR?oc=5)
 
-2026-09-19 <span class="news-indication-tag">RA</span>
+2026-09-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
 
-Source: [Portal ERP](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZk5sVVNrcDRuTGpqeXNYV05lck1HME5GU1JJb2c2ODZWRDRIZVV3bmtmSXJKMGtkempQaThsX29ES1drdXNwVlJQTWxCSWRoeWhjQ3JsbWFtSkYybjJoc2F4a2VZbHpRUHFwSWxMZ2tybnJMOXNJN2Q5Vl9YSGRERDVTaE1rV3VraUR1d1lKcjFZTnZpTlJWdVNXR1NDTDZrMXc?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMiogJBVV95cUxNRUNDV2RJMExhT1pDMWw2SkZZdmc2TjVOU2lCcXFLUTZQak9TVnJxUzZoeTVDSFY0YkNDUW9yVGlHVGpZOGhkN2tmNFBQNkY0cVVqeTRnVE1YX0R2Wi03aWxPSXZCSHJJaTZXdUQtX1hiVmo1dFNnSWd6S3JCVkEzZUlFcWRzV1ZvUEZva0RxM1VvYVlFdmZsWERBNUZ5bXNTR2tvdGVjX051MExLNHBta0J4RFZBMkhwM2NSRUs0ZnJZOVdFaUl4Y1VMY2dnbE1WQVFnR2dsa1o4WFdsYlN1T3BBNHYwNm5pbERMRmNlaDFTWGFNSFk4UGRNV3EwVWhKaDl3VU5wclIyYnVaZ2lTakFhazhHU2o5QW5jbDNxQW9tZ9IBqgJBVV95cUxNd1FOa0pDUEtRcUVfbkJBTUpZNGY3LXplcXBCVVc2RDFRLXZIaTItRFRGQUdPQk9VUi1pekh5UWxvRWN2b2tmMVlIZDE2aFk0czBWaVJxODVod2VlYnE3M2tHYkdxTHVhVlhDUEF1LTlZS0w5N2U3YmF3bnJxb3JxZnBlZ1AxR0NmcHdVaEU4aW4xQ21ZZ0Fjd2xyQkw1ODk2c21tWGZ0cUgtbHItUUZ3QVMwTC03bmRUWTBPNFowWk5vT1dHMkpBazMwY1JFU3VDTjRia056VHIwTU5kWUJ3a250Nm5OX1J3SlM3aTFvaVpkcU1yLW1zQkVGTVpWc2FhQllscVRBbGMtcGRoT0lDaGI1cDJUbF8ya2RTOUlsbDQwVnZsWGR5ZEVR?oc=5)
 
 ---
 
@@ -66,11 +74,19 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2d2VVh
 
 ---
 
-### [Chimeric Antigen Receptor T-cell (CAR-T) Therapy in Autoimmune Diseases: A Narrative Review](https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVdpQmg5UmdsOTlGbDZPblQ5dUNNNjdValdpamtRUUNXb016X0VsUzVHNzd0eWs4eTBOa0gyTndSOTdoc0tFU2hWU2FHTTJwUWxzVVJ6cVhhUy1YeUI3YXVlSlpCOEpMNU5jOUZ3R3ZwVzBMSFdyc2RfUVpfSjVBTHhCMXozLXhSUjVRb3czNVFvY0g3U0RaMWxOWXI2VjVyc3F4YjlpR2huakItOHBBTkJXMGM1R1pFUVJiNS1IbUowbjR4YWc?oc=5)
+### [Fiji Declares National HIV Emergency Amid Sharp Rise in HIV Infections - Vajiram & Ravi](https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEF3aFpGUHQxOUZZSTZBMzQ1RzB6d29lMW5oSFZ3RWpaYVpUU0dualhMMV9zTTFwbkV5bmNOLTFzdldlN21mcGpMMkJUUkdUUzlNMVNJZEZ4MG1FQ1VCZ2pGckRMVHZ4QXIwSXZ3UVV1cXFrVTBmbXJEZEQ4TjRvZ2JZY1FoSVE?oc=5)
+
+2026-09-18 <span class="news-indication-tag">RA</span>
+
+Source: [Vajiram & Ravi](https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEF3aFpGUHQxOUZZSTZBMzQ1RzB6d29lMW5oSFZ3RWpaYVpUU0dualhMMV9zTTFwbkV5bmNOLTFzdldlN21mcGpMMkJUUkdUUzlNMVNJZEZ4MG1FQ1VCZ2pGckRMVHZ4QXIwSXZ3UVV1cXFrVTBmbXJEZEQ4TjRvZ2JZY1FoSVE?oc=5)
+
+---
+
+### [FDA gives go-ahead for trial testing CAR T-cell therapy for progressive MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXRhTnJ2b3d5MnNtelIyT0JGeG52ZlVOQlhndTlZbnpzVFhxLU4yaFNtOFJ4UV9MR21jbjQ5VFowX0doM2ZvSlJXZTFGWWx3cHlUQTBQdEcycFlPSkZhaFdCTGlJUm9aUF9qRmZkSWdZNnp1ekZWZG9oUG1TNy00YU9uNFZWLThBOHBxUVJ3SW1tVGxhMVp6UlI4UHpPZzh6RndVU2JMVEtLNGIweXM1Zy1PYW4tRWlIMVBWVWhoRUJLYWVpUjRz?oc=5)
 
 2026-09-16 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">multiple sclerosis</span>
 
-Source: [Cureus](https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVdpQmg5UmdsOTlGbDZPblQ5dUNNNjdValdpamtRUUNXb016X0VsUzVHNzd0eWs4eTBOa0gyTndSOTdoc0tFU2hWU2FHTTJwUWxzVVJ6cVhhUy1YeUI3YXVlSlpCOEpMNU5jOUZ3R3ZwVzBMSFdyc2RfUVpfSjVBTHhCMXozLXhSUjVRb3czNVFvY0g3U0RaMWxOWXI2VjVyc3F4YjlpR2huakItOHBBTkJXMGM1R1pFUVJiNS1IbUowbjR4YWc?oc=5)
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXRhTnJ2b3d5MnNtelIyT0JGeG52ZlVOQlhndTlZbnpzVFhxLU4yaFNtOFJ4UV9MR21jbjQ5VFowX0doM2ZvSlJXZTFGWWx3cHlUQTBQdEcycFlPSkZhaFdCTGlJUm9aUF9qRmZkSWdZNnp1ekZWZG9oUG1TNy00YU9uNFZWLThBOHBxUVJ3SW1tVGxhMVp6UlI4UHpPZzh6RndVU2JMVEtLNGIweXM1Zy1PYW4tRWlIMVBWVWhoRUJLYWVpUjRz?oc=5)
 
 ---
 
@@ -78,7 +94,7 @@ Source: [Cureus](https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVdpQmg5Um
 
 2026-09-15 <span class="news-indication-tag">cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUt5MlZRZ3pKQTRMTVFwaEhFbC1hd1h2UWF1YXlDbTFxMkZZMGdHSTVmXzZWQWZWODBNMmVsYjRXYjJlSWVHLUlGQ21tS2JoVVNqeFlaRTRhTW1peXdtUldxZUxYWUJybXlSM3RGR3pGRzZreDcxTkJvUVg5M2ZleS11TzVwX0cweVdjMG54dldONUdpN21XcTJnMUVuVUE5c1I2b0I4ZjBLV3BoM2YtRFJRYU5jMTFJSXJ6REgzRk5scnM2c2FlbkFMUWZILVRjZ2xxVzB0eXNmNHlD?oc=5)
+Source: [news-medical.net](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUt5MlZRZ3pKQTRMTVFwaEhFbC1hd1h2UWF1YXlDbTFxMkZZMGdHSTVmXzZWQWZWODBNMmVsYjRXYjJlSWVHLUlGQ21tS2JoVVNqeFlaRTRhTW1peXdtUldxZUxYWUJybXlSM3RGR3pGRzZreDcxTkJvUVg5M2ZleS11TzVwX0cweVdjMG54dldONUdpN21XcTJnMUVuVUE5c1I2b0I4ZjBLV3BoM2YtRFJRYU5jMTFJSXJ6REgzRk5scnM2c2FlbkFMUWZILVRjZ2xxVzB0eXNmNHlD?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 3 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 5 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>3 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>5 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -256,13 +256,29 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [A missing Y chromosome may be an early clue to cancer - Tech Explorist](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdkM5X2Qza0FrcldxdVdjNkpfZUZyc1JGU09qTVRnUHBjdTFxYW5BSUNrcmtwLWFLZ3UyQjlmUE1VUTlZeTJtT1lEYVVmNXJ5UUVnbWtLN1RnS3c3SlctaFVuWWxweTdELUVmdVhWdmZFVnZPeE1fS3UyVjhXaXpxM0Nn?oc=5)
+
+2026-09-19
+
+Source: [Tech Explorist](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdkM5X2Qza0FrcldxdVdjNkpfZUZyc1JGU09qTVRnUHBjdTFxYW5BSUNrcmtwLWFLZ3UyQjlmUE1VUTlZeTJtT1lEYVVmNXJ5UUVnbWtLN1RnS3c3SlctaFVuWWxweTdELUVmdVhWdmZFVnZPeE1fS3UyVjhXaXpxM0Nn?oc=5)
+
+---
 
 ### [Loss of Y chromosome in men could be an early warning sign of cancer](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
 
 2026-09-19
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
+
+---
+
+### [Ovarian cancer warning signs: A 47-year-old mom diagnosed after THIS sudden symptom; red flags women should watch out for - The Times of India](https://news.google.com/rss/articles/CBMiogJBVV95cUxNRUNDV2RJMExhT1pDMWw2SkZZdmc2TjVOU2lCcXFLUTZQak9TVnJxUzZoeTVDSFY0YkNDUW9yVGlHVGpZOGhkN2tmNFBQNkY0cVVqeTRnVE1YX0R2Wi03aWxPSXZCSHJJaTZXdUQtX1hiVmo1dFNnSWd6S3JCVkEzZUlFcWRzV1ZvUEZva0RxM1VvYVlFdmZsWERBNUZ5bXNTR2tvdGVjX051MExLNHBta0J4RFZBMkhwM2NSRUs0ZnJZOVdFaUl4Y1VMY2dnbE1WQVFnR2dsa1o4WFdsYlN1T3BBNHYwNm5pbERMRmNlaDFTWGFNSFk4UGRNV3EwVWhKaDl3VU5wclIyYnVaZ2lTakFhazhHU2o5QW5jbDNxQW9tZ9IBqgJBVV95cUxNd1FOa0pDUEtRcUVfbkJBTUpZNGY3LXplcXBCVVc2RDFRLXZIaTItRFRGQUdPQk9VUi1pekh5UWxvRWN2b2tmMVlIZDE2aFk0czBWaVJxODVod2VlYnE3M2tHYkdxTHVhVlhDUEF1LTlZS0w5N2U3YmF3bnJxb3JxZnBlZ1AxR0NmcHdVaEU4aW4xQ21ZZ0Fjd2xyQkw1ODk2c21tWGZ0cUgtbHItUUZ3QVMwTC03bmRUWTBPNFowWk5vT1dHMkpBazMwY1JFU3VDTjRia056VHIwTU5kWUJ3a250Nm5OX1J3SlM3aTFvaVpkcU1yLW1zQkVGTVpWc2FhQllscVRBbGMtcGRoT0lDaGI1cDJUbF8ya2RTOUlsbDQwVnZsWGR5ZEVR?oc=5)
+
+2026-09-19
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMiogJBVV95cUxNRUNDV2RJMExhT1pDMWw2SkZZdmc2TjVOU2lCcXFLUTZQak9TVnJxUzZoeTVDSFY0YkNDUW9yVGlHVGpZOGhkN2tmNFBQNkY0cVVqeTRnVE1YX0R2Wi03aWxPSXZCSHJJaTZXdUQtX1hiVmo1dFNnSWd6S3JCVkEzZUlFcWRzV1ZvUEZva0RxM1VvYVlFdmZsWERBNUZ5bXNTR2tvdGVjX051MExLNHBta0J4RFZBMkhwM2NSRUs0ZnJZOVdFaUl4Y1VMY2dnbE1WQVFnR2dsa1o4WFdsYlN1T3BBNHYwNm5pbERMRmNlaDFTWGFNSFk4UGRNV3EwVWhKaDl3VU5wclIyYnVaZ2lTakFhazhHU2o5QW5jbDNxQW9tZ9IBqgJBVV95cUxNd1FOa0pDUEtRcUVfbkJBTUpZNGY3LXplcXBCVVc2RDFRLXZIaTItRFRGQUdPQk9VUi1pekh5UWxvRWN2b2tmMVlIZDE2aFk0czBWaVJxODVod2VlYnE3M2tHYkdxTHVhVlhDUEF1LTlZS0w5N2U3YmF3bnJxb3JxZnBlZ1AxR0NmcHdVaEU4aW4xQ21ZZ0Fjd2xyQkw1ODk2c21tWGZ0cUgtbHItUUZ3QVMwTC03bmRUWTBPNFowWk5vT1dHMkpBazMwY1JFU3VDTjRia056VHIwTU5kWUJ3a250Nm5OX1J3SlM3aTFvaVpkcU1yLW1zQkVGTVpWc2FhQllscVRBbGMtcGRoT0lDaGI1cDJUbF8ya2RTOUlsbDQwVnZsWGR5ZEVR?oc=5)
 
 ---
 
@@ -278,7 +294,7 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2d2VVh
 
 2026-09-15
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUt5MlZRZ3pKQTRMTVFwaEhFbC1hd1h2UWF1YXlDbTFxMkZZMGdHSTVmXzZWQWZWODBNMmVsYjRXYjJlSWVHLUlGQ21tS2JoVVNqeFlaRTRhTW1peXdtUldxZUxYWUJybXlSM3RGR3pGRzZreDcxTkJvUVg5M2ZleS11TzVwX0cweVdjMG54dldONUdpN21XcTJnMUVuVUE5c1I2b0I4ZjBLV3BoM2YtRFJRYU5jMTFJSXJ6REgzRk5scnM2c2FlbkFMUWZILVRjZ2xxVzB0eXNmNHlD?oc=5)
+Source: [news-medical.net](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUt5MlZRZ3pKQTRMTVFwaEhFbC1hd1h2UWF1YXlDbTFxMkZZMGdHSTVmXzZWQWZWODBNMmVsYjRXYjJlSWVHLUlGQ21tS2JoVVNqeFlaRTRhTW1peXdtUldxZUxYWUJybXlSM3RGR3pGRzZreDcxTkJvUVg5M2ZleS11TzVwX0cweVdjMG54dldONUdpN21XcTJnMUVuVUE5c1I2b0I4ZjBLV3BoM2YtRFJRYU5jMTFJSXJ6REgzRk5scnM2c2FlbkFMUWZILVRjZ2xxVzB0eXNmNHlD?oc=5)
 
 ---
 

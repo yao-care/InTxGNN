@@ -31,11 +31,11 @@ This page brings together the latest health news about “multiple sclerosis” 
 
 ## Related News (1)
 
-### [Chimeric Antigen Receptor T-cell (CAR-T) Therapy in Autoimmune Diseases: A Narrative Review](https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVdpQmg5UmdsOTlGbDZPblQ5dUNNNjdValdpamtRUUNXb016X0VsUzVHNzd0eWs4eTBOa0gyTndSOTdoc0tFU2hWU2FHTTJwUWxzVVJ6cVhhUy1YeUI3YXVlSlpCOEpMNU5jOUZ3R3ZwVzBMSFdyc2RfUVpfSjVBTHhCMXozLXhSUjVRb3czNVFvY0g3U0RaMWxOWXI2VjVyc3F4YjlpR2huakItOHBBTkJXMGM1R1pFUVJiNS1IbUowbjR4YWc?oc=5)
+### [FDA gives go-ahead for trial testing CAR T-cell therapy for progressive MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXRhTnJ2b3d5MnNtelIyT0JGeG52ZlVOQlhndTlZbnpzVFhxLU4yaFNtOFJ4UV9MR21jbjQ5VFowX0doM2ZvSlJXZTFGWWx3cHlUQTBQdEcycFlPSkZhaFdCTGlJUm9aUF9qRmZkSWdZNnp1ekZWZG9oUG1TNy00YU9uNFZWLThBOHBxUVJ3SW1tVGxhMVp6UlI4UHpPZzh6RndVU2JMVEtLNGIweXM1Zy1PYW4tRWlIMVBWVWhoRUJLYWVpUjRz?oc=5)
 
 2026-09-16
 
-Source: [Cureus](https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVdpQmg5UmdsOTlGbDZPblQ5dUNNNjdValdpamtRUUNXb016X0VsUzVHNzd0eWs4eTBOa0gyTndSOTdoc0tFU2hWU2FHTTJwUWxzVVJ6cVhhUy1YeUI3YXVlSlpCOEpMNU5jOUZ3R3ZwVzBMSFdyc2RfUVpfSjVBTHhCMXozLXhSUjVRb3czNVFvY0g3U0RaMWxOWXI2VjVyc3F4YjlpR2huakItOHBBTkJXMGM1R1pFUVJiNS1IbUowbjR4YWc?oc=5)
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXRhTnJ2b3d5MnNtelIyT0JGeG52ZlVOQlhndTlZbnpzVFhxLU4yaFNtOFJ4UV9MR21jbjQ5VFowX0doM2ZvSlJXZTFGWWx3cHlUQTBQdEcycFlPSkZhaFdCTGlJUm9aUF9qRmZkSWdZNnp1ekZWZG9oUG1TNy00YU9uNFZWLThBOHBxUVJ3SW1tVGxhMVp6UlI4UHpPZzh6RndVU2JMVEtLNGIweXM1Zy1PYW4tRWlIMVBWVWhoRUJLYWVpUjRz?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/caffeine/
 ---
 
 <p class="key-answer" data-question="What news is there about Caffeine?">
-<strong>Caffeine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Caffeine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Caffeine with the latest hea
 <p><a href="{{ '/drugs/caffeine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Can coffee help you live longer? Longevity experts weigh in - GQ India](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDlPY1pxc2ZWRjdVaEltX0ZLekp0X3c3RnB1MnNrdTZPU1BRZ3BKTGQ3MkdhNmtFbFJtR0tGRXlTczQyLUJabTdmQ3ZTSFBubFY5QXV5cE5qLXJ0TE8tQjdJNlQzbERING9lMlBNd2JmTFR5U2RwMXB5Nk5WT25WaWtLbzVwN3BPNmZUYzBnTkw2NDRr?oc=5)
-
-2026-09-13 <span class="news-drug-tag">Caffeine</span> <span class="news-drug-tag">CAFFEINE</span>
-
-Source: [GQ India](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDlPY1pxc2ZWRjdVaEltX0ZLekp0X3c3RnB1MnNrdTZPU1BRZ3BKTGQ3MkdhNmtFbFJtR0tGRXlTczQyLUJabTdmQ3ZTSFBubFY5QXV5cE5qLXJ0TE8tQjdJNlQzbERING9lMlBNd2JmTFR5U2RwMXB5Nk5WT25WaWtLbzVwN3BPNmZUYzBnTkw2NDRr?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
