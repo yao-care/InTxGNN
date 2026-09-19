@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Iron</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,13 +28,21 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Iron overload: how tea, coffee, red meat and alcohol can affect absorption - The Shillong Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1dWUzdKVGRuR0hyRTYyRFFpZW8zRHQwMnRYTFJLLTdoZHFQUnVPdEVFV2ZkQVFqdGthRENiYmxBbHJEblBZSktxc2I1dkt5ZTNBUDBaYm5rMjdRRDBhUlNuc185Zm5tTmtJRGdMMmw0d19pTkNzVWxKd1BnSk03VEVHemh2djdxUWF5NWhudnJGY1JFdVF1aGJrUDgxdXpkZHVIZ3YzYzF5QjNlWkhzY0p3?oc=5)
 
 2026-09-18 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
 Source: [The Shillong Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1dWUzdKVGRuR0hyRTYyRFFpZW8zRHQwMnRYTFJLLTdoZHFQUnVPdEVFV2ZkQVFqdGthRENiYmxBbHJEblBZSktxc2I1dkt5ZTNBUDBaYm5rMjdRRDBhUlNuc185Zm5tTmtJRGdMMmw0d19pTkNzVWxKd1BnSk03VEVHemh2djdxUWF5NWhudnJGY1JFdVF1aGJrUDgxdXpkZHVIZ3YzYzF5QjNlWkhzY0p3?oc=5)
+
+---
+
+### [What ‘ferritin face’ means — and how to tell if you may be iron-deficient - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3VHc2VocEZkQjBwSUtMYWhyNzhhLVZQZVNLMXV0MldwS1NXeTVhX3g5S0EzTC1ETlY4TFZtRzNsdERldlQ4TmczNk16LXNHdWYyNnNFaVZiRzcxMzlYZDlVY1F3aFBkczNST0prenZ1MlJtX0xVWDFMQVhCbXBNeE1memJjN3lNWEVsQzREbmxYV3RsZlJPXzlhaXJhV3JpMjZyMWoxRGtkZjYzOVBwZi1OWEc?oc=5)
+
+2026-09-15 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3VHc2VocEZkQjBwSUtMYWhyNzhhLVZQZVNLMXV0MldwS1NXeTVhX3g5S0EzTC1ETlY4TFZtRzNsdERldlQ4TmczNk16LXNHdWYyNnNFaVZiRzcxMzlYZDlVY1F3aFBkczNST0prenZ1MlJtX0xVWDFMQVhCbXBNeE1memJjN3lNWEVsQzREbmxYV3RsZlJPXzlhaXJhV3JpMjZyMWoxRGtkZjYzOVBwZi1OWEc?oc=5)
 
 ---
 

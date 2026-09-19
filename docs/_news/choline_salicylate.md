@@ -14,7 +14,7 @@ permalink: /news/choline_salicylate/
 ---
 
 <p class="key-answer" data-question="What news is there about Choline Salicylate?">
-<strong>Choline Salicylate</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Choline Salicylate</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>Prinzmetal angina (99.8%)</li>
-<li class="indication-matched">rheumatoid arthritis (99.8%)<span class="indication-tag">📰 RA</span></li>
+<li class="indication-matched">rheumatoid arthritis (99.8%)<span class="indication-tag">📰 rheumatoid arthritis</span></li>
 <li>hypertensive disorder (99.8%)</li>
 <li>migraine disorder (99.8%)</li>
 <li>pulmonary hypertension owing to lung disease and/or hypoxia (99.8%)</li>
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <p><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (5)
+
+### [Loss of Y chromosome in men could be an early warning sign of cancer](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
+
+2026-09-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
+
+---
 
 ### [IBM and NASA release Open-Source AI model to support lunar exploration - Portal ERP](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZk5sVVNrcDRuTGpqeXNYV05lck1HME5GU1JJb2c2ODZWRDRIZVV3bmtmSXJKMGtkempQaThsX29ES1drdXNwVlJQTWxCSWRoeWhjQ3JsbWFtSkYybjJoc2F4a2VZbHpRUHFwSWxMZ2tybnJMOXNJN2Q5Vl9YSGRERDVTaE1rV3VraUR1d1lKcjFZTnZpTlJWdVNXR1NDTDZrMXc?oc=5)
 
@@ -50,43 +58,19 @@ Source: [Portal ERP](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZk5sVV
 
 ---
 
-### [FDA Clears Phase 1b/2 Trial of CAR T-Cell Therapy C-CAR168 for Refractory Progressive Multiple Sclerosis](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZk0wWEpGODZueVdKUHRaUk9YYXRuNDNydTVrcU9rSVhyd1FIZGN3LW5pWVIzMk5ZVFVaQ1hsOUFvaXNvWndJS0NVYkF2dmI1VFM3eVRmX1QwckNtQWk3R1lJYjBhMFk1d2tCal9xUnMzU1BtcHRaTE1CNENQbi1rb0JrbzNOTDQycXpaUlo3Nlp6U19VcHUxLVF2bEhsQ2c0TDRWMA?oc=5)
+### [The Big Questions in Cancer Immunotherapy: Are Personalized Cancer Vaccines Finally Ready to Deliver?](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2d2VVhBWHpPdU96QVVDRGttMnFneERud3BlcFRXMHlheVBsV0ZLSkRhY1UwU3VWMVR0dllhMEhla0kxSDVYZDc2TkY3aE1NTUxoaGl4Qmtwb0o5bUVVclNZekY5cVJCNjBILVc4NHJCOHVQb2ZPUHo0MS1sRDlGYllEMG4?oc=5)
 
-2026-09-17 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">multiple sclerosis</span>
+2026-09-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">head and neck cancer</span>
 
-Source: [NeurologyLive](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZk0wWEpGODZueVdKUHRaUk9YYXRuNDNydTVrcU9rSVhyd1FIZGN3LW5pWVIzMk5ZVFVaQ1hsOUFvaXNvWndJS0NVYkF2dmI1VFM3eVRmX1QwckNtQWk3R1lJYjBhMFk1d2tCal9xUnMzU1BtcHRaTE1CNENQbi1rb0JrbzNOTDQycXpaUlo3Nlp6U19VcHUxLVF2bEhsQ2c0TDRWMA?oc=5)
-
----
-
-### [Study identifies key factors in breast cancer survivors' sexual recovery](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVpTUlZYR0U4Rm51TWtjY1hCNE5jRjZVcEtGQUFHbzBqcmQyZjZXRDdGMnR3dmlZdHdBOU1OaFJkUkNxelFxRWg5QjFoMzBOY0VEXzR5ZDZ4cXV2ZWd0S2lFdlYwZHE4ZHd6Z3JWWVFuWFU4NWg4SHhJWUh3ZGpHUFEtazNWb29XMEwxR2VXZlg0SUI5dTg0YlNYTFF3dVAyRDJLSXhjdFhINFpmX2JLdHk1VGgtVGx3Tkw4?oc=5)
-
-2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVpTUlZYR0U4Rm51TWtjY1hCNE5jRjZVcEtGQUFHbzBqcmQyZjZXRDdGMnR3dmlZdHdBOU1OaFJkUkNxelFxRWg5QjFoMzBOY0VEXzR5ZDZ4cXV2ZWd0S2lFdlYwZHE4ZHd6Z3JWWVFuWFU4NWg4SHhJWUh3ZGpHUFEtazNWb29XMEwxR2VXZlg0SUI5dTg0YlNYTFF3dVAyRDJLSXhjdFhINFpmX2JLdHk1VGgtVGx3Tkw4?oc=5)
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2d2VVhBWHpPdU96QVVDRGttMnFneERud3BlcFRXMHlheVBsV0ZLSkRhY1UwU3VWMVR0dllhMEhla0kxSDVYZDc2TkY3aE1NTUxoaGl4Qmtwb0o5bUVVclNZekY5cVJCNjBILVc4NHJCOHVQb2ZPUHo0MS1sRDlGYllEMG4?oc=5)
 
 ---
 
-### [Childhood cancer: What happens to a child’s heart, growth and fertility after the cancer is gone?](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeUVlY0hwT0FBXzk5OFEwamNwelByV1l1MlgwYnFjYVFqYVNOQ1o5MjlTamc2UmN2ZFBPb0RySVpzWmpuaGtEamFWOFdhYTQtTW92cFN6SmdqYmFHbFpDM18tNUJEalV5dkVlVzVzSjhSRzNLRFFOTVdiVDhEb1Zjb0NBUkZ2MEVxSEtkLS1lU1ZLWEN5d3VvZG8tT3pSLS1TeF9nZW5EUEhndElQZElJSHpLdFIyU3UtSzZjaHF5TFdkU0MyZWN4cjVvcFBrX0lmOE1mdVN5QdIB3AFBVV95cUxNSEtWTnJ6TTNYM0RUUVZMTFVHNnNaRjVNYVU5dWMxWVFzQXl6d2JJdHlVWjMzVW9raGMzQWJveWhyU1pTMi1QVE0xcGstSHFEZGZrbEp2UWlGYW53LVg5ZDZ6N3hXNkdIMFBTakdZdnFVX0FmbGFSLU5hZ1RfMkxpcExYTG11ZTdwaE9NT3ROWTdVS0RqMlR6ak8zdTAtVzJtbDdvM0hLR2NieXlJemVIT1VPOWNGVlNYVUJJdGExVjQ2TnVOeU1iZ3hDbC15eDV1dEU5ZzdYOXVrYlVF?oc=5)
+### [Chimeric Antigen Receptor T-cell (CAR-T) Therapy in Autoimmune Diseases: A Narrative Review](https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVdpQmg5UmdsOTlGbDZPblQ5dUNNNjdValdpamtRUUNXb016X0VsUzVHNzd0eWs4eTBOa0gyTndSOTdoc0tFU2hWU2FHTTJwUWxzVVJ6cVhhUy1YeUI3YXVlSlpCOEpMNU5jOUZ3R3ZwVzBMSFdyc2RfUVpfSjVBTHhCMXozLXhSUjVRb3czNVFvY0g3U0RaMWxOWXI2VjVyc3F4YjlpR2huakItOHBBTkJXMGM1R1pFUVJiNS1IbUowbjR4YWc?oc=5)
 
-2026-09-17 <span class="news-indication-tag">cancer</span>
+2026-09-16 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">multiple sclerosis</span>
 
-Source: [Firstpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeUVlY0hwT0FBXzk5OFEwamNwelByV1l1MlgwYnFjYVFqYVNOQ1o5MjlTamc2UmN2ZFBPb0RySVpzWmpuaGtEamFWOFdhYTQtTW92cFN6SmdqYmFHbFpDM18tNUJEalV5dkVlVzVzSjhSRzNLRFFOTVdiVDhEb1Zjb0NBUkZ2MEVxSEtkLS1lU1ZLWEN5d3VvZG8tT3pSLS1TeF9nZW5EUEhndElQZElJSHpLdFIyU3UtSzZjaHF5TFdkU0MyZWN4cjVvcFBrX0lmOE1mdVN5QdIB3AFBVV95cUxNSEtWTnJ6TTNYM0RUUVZMTFVHNnNaRjVNYVU5dWMxWVFzQXl6d2JJdHlVWjMzVW9raGMzQWJveWhyU1pTMi1QVE0xcGstSHFEZGZrbEp2UWlGYW53LVg5ZDZ6N3hXNkdIMFBTakdZdnFVX0FmbGFSLU5hZ1RfMkxpcExYTG11ZTdwaE9NT3ROWTdVS0RqMlR6ak8zdTAtVzJtbDdvM0hLR2NieXlJemVIT1VPOWNGVlNYVUJJdGExVjQ2TnVOeU1iZ3hDbC15eDV1dEU5ZzdYOXVrYlVF?oc=5)
-
----
-
-### [WHO Unveils Strategy to Improve Access to Childhood Cancer Medicines](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHBRVW9OcU9EUEJVOU1Ea1NmeENLM2FCVXRTYXNUckFFM1RtX3lsNTJkZDlCMU1EbWlTTEhzajMwdHRZZk53ZDQ4SVoxd0V4clNmcDZsUUd2QW1MVzctUnExVHV1Z0EtSlNIVjMtSDQwQU0yNkRiM2p1cGJDYkprN2FuZ3lCd2hlSjN3Y2pTaHF5bnRjOUZ5dDMtdFU?oc=5)
-
-2026-09-16 <span class="news-indication-tag">cancer</span>
-
-Source: [boldnewsonline.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHBRVW9OcU9EUEJVOU1Ea1NmeENLM2FCVXRTYXNUckFFM1RtX3lsNTJkZDlCMU1EbWlTTEhzajMwdHRZZk53ZDQ4SVoxd0V4clNmcDZsUUd2QW1MVzctUnExVHV1Z0EtSlNIVjMtSDQwQU0yNkRiM2p1cGJDYkprN2FuZ3lCd2hlSjN3Y2pTaHF5bnRjOUZ5dDMtdFU?oc=5)
-
----
-
-### [Bacterial strains determine pneumonia and meningitis risk from air pollution](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbV9VN3RCMGV3aFZoeE5OM1lSU0JBS2x0T2wxSjExbmFQbVBHNkNVazZ3MHJDeHlYVzFPeldLaXoyZS1XQTdUY1BTWDgwSU9lQ1QxWThadERnUzNqS2RzNXhRU2xISjBET29KdDB4M1dlUWlMa2RQcGpVMUVaN0ZhMWtlNDRCZTNWMG5zbDhiR0RDYnRVclhYOGhEWWlJVVA5TkJXTGJYTVFxRDZpWFJ5NkYyNXhpV1B2R3pEOHM3dHBCQQ?oc=5)
-
-2026-09-15 <span class="news-indication-tag">RA</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbV9VN3RCMGV3aFZoeE5OM1lSU0JBS2x0T2wxSjExbmFQbVBHNkNVazZ3MHJDeHlYVzFPeldLaXoyZS1XQTdUY1BTWDgwSU9lQ1QxWThadERnUzNqS2RzNXhRU2xISjBET29KdDB4M1dlUWlMa2RQcGpVMUVaN0ZhMWtlNDRCZTNWMG5zbDhiR0RDYnRVclhYOGhEWWlJVVA5TkJXTGJYTVFxRDZpWFJ5NkYyNXhpV1B2R3pEOHM3dHBCQQ?oc=5)
+Source: [Cureus](https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVdpQmg5UmdsOTlGbDZPblQ5dUNNNjdValdpamtRUUNXb016X0VsUzVHNzd0eWs4eTBOa0gyTndSOTdoc0tFU2hWU2FHTTJwUWxzVVJ6cVhhUy1YeUI3YXVlSlpCOEpMNU5jOUZ3R3ZwVzBMSFdyc2RfUVpfSjVBTHhCMXozLXhSUjVRb3czNVFvY0g3U0RaMWxOWXI2VjVyc3F4YjlpR2huakItOHBBTkJXMGM1R1pFUVJiNS1IbUowbjR4YWc?oc=5)
 
 ---
 

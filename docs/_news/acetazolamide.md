@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Acetazolamide?">
-<strong>Acetazolamide</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
+<strong>Acetazolamide</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Acetazolamide with the lates
 <li>hypertrophic cardiomyopathy due to intensive athletic training (99.9%)</li>
 <li>distal myopathy, Tateyama type (99.9%)</li>
 <li>cirrhotic cardiomyopathy (99.9%)</li>
-<li class="indication-matched">cardiomyopathy (99.8%)<span class="indication-tag">📰 cardiomyopathy</span></li>
+<li>cardiomyopathy (99.8%)</li>
 <li>intestinal obstruction (99.8%)</li>
 <li>glycogen storage disease due to acid maltase deficiency, late-onset (99.8%)</li>
 <li>myopathic intestinal pseudoobstruction (99.8%)</li>
@@ -40,37 +40,21 @@ This page combines the AI-predicted indications for Acetazolamide with the lates
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (3)
 
-### [Warfarin for Left Ventricular Thrombus in Nonischemic Cardiomyopathy With Acute Kidney Injury: A Case Report and Literature Review of Anticoagulation Strategies in Renal Impairment](https://news.google.com/rss/articles/CBMivwJBVV95cUxQR21OUkxZU19Ra2xfZ2NPV2x3ZE9tSnMxYU5mWFJ5bzgyQmxfV2RjSHJkcVB5NDEyWkhrQjJoa1A3b0hkYS1Ua3pHcW9lLVhpYkszZVZfUUM0c2ZGdGR3eUtuM0kwRzVkNnlBMVo5X0dFblc4cDFOTVU5WU9aRGZ6VEw0M0pEcUtsb2dBNUlFek1JU2dCRFFHMThKRDlSQzdtVWNBVFlaSHdRMUxSdDBXVE5pMUpPZklQOWxWaXR0NmlibFd2VGwwZzdsYVR0dlFuN3VnM3k0elR1Q0RNM1B0TEFiQnpKT1VqVHZSbzZZNV9sZUUwZEIxT1J2eDNySlRxNFEyZHdjbFJDVmFzb3Njbl92dHdsX2dXbkU3OUt1YWlzaHNmMEJUWHRSS0c3aVRnaG1zbjYxQUN6TEdqV2xv?oc=5)
+### [Loss of Y chromosome in men could be an early warning sign of cancer](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
 
-2026-09-19 <span class="news-drug-tag">WARFARIN</span> <span class="news-drug-tag">Warfarin</span> <span class="news-indication-tag">cardiomyopathy</span> <span class="news-indication-tag">injury</span>
+2026-09-19 <span class="news-indication-tag">cancer</span>
 
-Source: [Cureus](https://news.google.com/rss/articles/CBMivwJBVV95cUxQR21OUkxZU19Ra2xfZ2NPV2x3ZE9tSnMxYU5mWFJ5bzgyQmxfV2RjSHJkcVB5NDEyWkhrQjJoa1A3b0hkYS1Ua3pHcW9lLVhpYkszZVZfUUM0c2ZGdGR3eUtuM0kwRzVkNnlBMVo5X0dFblc4cDFOTVU5WU9aRGZ6VEw0M0pEcUtsb2dBNUlFek1JU2dCRFFHMThKRDlSQzdtVWNBVFlaSHdRMUxSdDBXVE5pMUpPZklQOWxWaXR0NmlibFd2VGwwZzdsYVR0dlFuN3VnM3k0elR1Q0RNM1B0TEFiQnpKT1VqVHZSbzZZNV9sZUUwZEIxT1J2eDNySlRxNFEyZHdjbFJDVmFzb3Njbl92dHdsX2dXbkU3OUt1YWlzaHNmMEJUWHRSS0c3aVRnaG1zbjYxQUN6TEdqV2xv?oc=5)
-
----
-
-### [Study identifies key factors in breast cancer survivors' sexual recovery](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVpTUlZYR0U4Rm51TWtjY1hCNE5jRjZVcEtGQUFHbzBqcmQyZjZXRDdGMnR3dmlZdHdBOU1OaFJkUkNxelFxRWg5QjFoMzBOY0VEXzR5ZDZ4cXV2ZWd0S2lFdlYwZHE4ZHd6Z3JWWVFuWFU4NWg4SHhJWUh3ZGpHUFEtazNWb29XMEwxR2VXZlg0SUI5dTg0YlNYTFF3dVAyRDJLSXhjdFhINFpmX2JLdHk1VGgtVGx3Tkw4?oc=5)
-
-2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVpTUlZYR0U4Rm51TWtjY1hCNE5jRjZVcEtGQUFHbzBqcmQyZjZXRDdGMnR3dmlZdHdBOU1OaFJkUkNxelFxRWg5QjFoMzBOY0VEXzR5ZDZ4cXV2ZWd0S2lFdlYwZHE4ZHd6Z3JWWVFuWFU4NWg4SHhJWUh3ZGpHUFEtazNWb29XMEwxR2VXZlg0SUI5dTg0YlNYTFF3dVAyRDJLSXhjdFhINFpmX2JLdHk1VGgtVGx3Tkw4?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
 
 ---
 
-### [Childhood cancer: What happens to a child’s heart, growth and fertility after the cancer is gone?](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeUVlY0hwT0FBXzk5OFEwamNwelByV1l1MlgwYnFjYVFqYVNOQ1o5MjlTamc2UmN2ZFBPb0RySVpzWmpuaGtEamFWOFdhYTQtTW92cFN6SmdqYmFHbFpDM18tNUJEalV5dkVlVzVzSjhSRzNLRFFOTVdiVDhEb1Zjb0NBUkZ2MEVxSEtkLS1lU1ZLWEN5d3VvZG8tT3pSLS1TeF9nZW5EUEhndElQZElJSHpLdFIyU3UtSzZjaHF5TFdkU0MyZWN4cjVvcFBrX0lmOE1mdVN5QdIB3AFBVV95cUxNSEtWTnJ6TTNYM0RUUVZMTFVHNnNaRjVNYVU5dWMxWVFzQXl6d2JJdHlVWjMzVW9raGMzQWJveWhyU1pTMi1QVE0xcGstSHFEZGZrbEp2UWlGYW53LVg5ZDZ6N3hXNkdIMFBTakdZdnFVX0FmbGFSLU5hZ1RfMkxpcExYTG11ZTdwaE9NT3ROWTdVS0RqMlR6ak8zdTAtVzJtbDdvM0hLR2NieXlJemVIT1VPOWNGVlNYVUJJdGExVjQ2TnVOeU1iZ3hDbC15eDV1dEU5ZzdYOXVrYlVF?oc=5)
+### [The Big Questions in Cancer Immunotherapy: Are Personalized Cancer Vaccines Finally Ready to Deliver?](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2d2VVhBWHpPdU96QVVDRGttMnFneERud3BlcFRXMHlheVBsV0ZLSkRhY1UwU3VWMVR0dllhMEhla0kxSDVYZDc2TkY3aE1NTUxoaGl4Qmtwb0o5bUVVclNZekY5cVJCNjBILVc4NHJCOHVQb2ZPUHo0MS1sRDlGYllEMG4?oc=5)
 
-2026-09-17 <span class="news-indication-tag">cancer</span>
+2026-09-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">head and neck cancer</span>
 
-Source: [Firstpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeUVlY0hwT0FBXzk5OFEwamNwelByV1l1MlgwYnFjYVFqYVNOQ1o5MjlTamc2UmN2ZFBPb0RySVpzWmpuaGtEamFWOFdhYTQtTW92cFN6SmdqYmFHbFpDM18tNUJEalV5dkVlVzVzSjhSRzNLRFFOTVdiVDhEb1Zjb0NBUkZ2MEVxSEtkLS1lU1ZLWEN5d3VvZG8tT3pSLS1TeF9nZW5EUEhndElQZElJSHpLdFIyU3UtSzZjaHF5TFdkU0MyZWN4cjVvcFBrX0lmOE1mdVN5QdIB3AFBVV95cUxNSEtWTnJ6TTNYM0RUUVZMTFVHNnNaRjVNYVU5dWMxWVFzQXl6d2JJdHlVWjMzVW9raGMzQWJveWhyU1pTMi1QVE0xcGstSHFEZGZrbEp2UWlGYW53LVg5ZDZ6N3hXNkdIMFBTakdZdnFVX0FmbGFSLU5hZ1RfMkxpcExYTG11ZTdwaE9NT3ROWTdVS0RqMlR6ak8zdTAtVzJtbDdvM0hLR2NieXlJemVIT1VPOWNGVlNYVUJJdGExVjQ2TnVOeU1iZ3hDbC15eDV1dEU5ZzdYOXVrYlVF?oc=5)
-
----
-
-### [WHO Unveils Strategy to Improve Access to Childhood Cancer Medicines](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHBRVW9OcU9EUEJVOU1Ea1NmeENLM2FCVXRTYXNUckFFM1RtX3lsNTJkZDlCMU1EbWlTTEhzajMwdHRZZk53ZDQ4SVoxd0V4clNmcDZsUUd2QW1MVzctUnExVHV1Z0EtSlNIVjMtSDQwQU0yNkRiM2p1cGJDYkprN2FuZ3lCd2hlSjN3Y2pTaHF5bnRjOUZ5dDMtdFU?oc=5)
-
-2026-09-16 <span class="news-indication-tag">cancer</span>
-
-Source: [boldnewsonline.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHBRVW9OcU9EUEJVOU1Ea1NmeENLM2FCVXRTYXNUckFFM1RtX3lsNTJkZDlCMU1EbWlTTEhzajMwdHRZZk53ZDQ4SVoxd0V4clNmcDZsUUd2QW1MVzctUnExVHV1Z0EtSlNIVjMtSDQwQU0yNkRiM2p1cGJDYkprN2FuZ3lCd2hlSjN3Y2pTaHF5bnRjOUZ5dDMtdFU?oc=5)
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2d2VVhBWHpPdU96QVVDRGttMnFneERud3BlcFRXMHlheVBsV0ZLSkRhY1UwU3VWMVR0dllhMEhla0kxSDVYZDc2TkY3aE1NTUxoaGl4Qmtwb0o5bUVVclNZekY5cVJCNjBILVc4NHJCOHVQb2ZPUHo0MS1sRDlGYllEMG4?oc=5)
 
 ---
 
