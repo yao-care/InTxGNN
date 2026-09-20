@@ -14,7 +14,7 @@ permalink: /news/cabazitaxel/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabazitaxel?">
-<strong>Cabazitaxel</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
+<strong>Cabazitaxel</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 <p><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (11)
 
-### [Fiji’s HIV Emergency a Wake-Up Call for Samoa and the Pacific](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
+### [Fiji’s HIV Emergency a Wake-Up Call for Samoa and the Pacific - Samoa Global News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
 
 2026-09-20 <span class="news-indication-tag">RA</span>
 
-Source: [samoaglobalnews.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
+Source: [Samoa Global News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
 
 ---
 
@@ -76,7 +76,7 @@ Source: [Moneycontrol.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxN
 
 ### [A melanoma vaccine was hailed as a breakthrough. Which cancers are next? - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd01EWFpGRkJ5Q09ndFBoU1JUWmlCY0NtTlVOUG1kbXFlYVh6Vm1NeHhBc2ktdUZ2RHB2dG9zVUNRdmpRN1RidnZjMGtKRjZuSFJwRm45V1E5bmkzRGlJQ0g3WWh2YTI3bkwzNVh0N3gxS25JTFZLVGNGb2R1WHV6a1FYRzBfdlZBMWRiRE5xNngwTjNOU1ZFUl9yZllXSzFsRDJtWXRGdzhqb0pSVGRJc0RINA?oc=5)
 
-2026-09-19 <span class="news-indication-tag">cancer</span>
+2026-09-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">head and neck cancer</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd01EWFpGRkJ5Q09ndFBoU1JUWmlCY0NtTlVOUG1kbXFlYVh6Vm1NeHhBc2ktdUZ2RHB2dG9zVUNRdmpRN1RidnZjMGtKRjZuSFJwRm45V1E5bmkzRGlJQ0g3WWh2YTI3bkwzNVh0N3gxS25JTFZLVGNGb2R1WHV6a1FYRzBfdlZBMWRiRE5xNngwTjNOU1ZFUl9yZllXSzFsRDJtWXRGdzhqb0pSVGRJc0RINA?oc=5)
 
@@ -98,11 +98,11 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMieEFVX3lxTFAzNlB0OVV
 
 ---
 
-### [Study Identifies Genetic Risk Factor for Lung Cancer in Never-Smokers - The Indian Practitioner](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
+### [Study Identifies Genetic Risk Factor for Lung Cancer in Never-Smokers](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
 
 2026-09-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
+Source: [theindianpractitioner.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
 
 ---
 
@@ -119,14 +119,6 @@ Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMitAFBVV95c
 2026-09-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMiogJBVV95cUxNRUNDV2RJMExhT1pDMWw2SkZZdmc2TjVOU2lCcXFLUTZQak9TVnJxUzZoeTVDSFY0YkNDUW9yVGlHVGpZOGhkN2tmNFBQNkY0cVVqeTRnVE1YX0R2Wi03aWxPSXZCSHJJaTZXdUQtX1hiVmo1dFNnSWd6S3JCVkEzZUlFcWRzV1ZvUEZva0RxM1VvYVlFdmZsWERBNUZ5bXNTR2tvdGVjX051MExLNHBta0J4RFZBMkhwM2NSRUs0ZnJZOVdFaUl4Y1VMY2dnbE1WQVFnR2dsa1o4WFdsYlN1T3BBNHYwNm5pbERMRmNlaDFTWGFNSFk4UGRNV3EwVWhKaDl3VU5wclIyYnVaZ2lTakFhazhHU2o5QW5jbDNxQW9tZ9IBqgJBVV95cUxNd1FOa0pDUEtRcUVfbkJBTUpZNGY3LXplcXBCVVc2RDFRLXZIaTItRFRGQUdPQk9VUi1pekh5UWxvRWN2b2tmMVlIZDE2aFk0czBWaVJxODVod2VlYnE3M2tHYkdxTHVhVlhDUEF1LTlZS0w5N2U3YmF3bnJxb3JxZnBlZ1AxR0NmcHdVaEU4aW4xQ21ZZ0Fjd2xyQkw1ODk2c21tWGZ0cUgtbHItUUZ3QVMwTC03bmRUWTBPNFowWk5vT1dHMkpBazMwY1JFU3VDTjRia056VHIwTU5kWUJ3a250Nm5OX1J3SlM3aTFvaVpkcU1yLW1zQkVGTVpWc2FhQllscVRBbGMtcGRoT0lDaGI1cDJUbF8ya2RTOUlsbDQwVnZsWGR5ZEVR?oc=5)
-
----
-
-### [‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
-
-2026-09-16 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">cold</span>
-
-Source: [wired.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
 
 ---
 

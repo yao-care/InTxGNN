@@ -40,11 +40,11 @@ This page combines the AI-predicted indications for Mefenamic Acid with the late
 
 ## Related News (2)
 
-### [Fiji’s HIV Emergency a Wake-Up Call for Samoa and the Pacific](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
+### [Fiji’s HIV Emergency a Wake-Up Call for Samoa and the Pacific - Samoa Global News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
 
 2026-09-20 <span class="news-indication-tag">RA</span>
 
-Source: [samoaglobalnews.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
+Source: [Samoa Global News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
 
 ---
 

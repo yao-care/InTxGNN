@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Netarsudil with the latest h
 
 ## Related News (1)
 
-### [Air Pollution Linked to Higher Glaucoma and Cataract Risk: ESCRS 2026](https://news.google.com/rss/articles/CBMivAFBVV95cUxOODdrd1BUcTZPRU94ZG40SlVGeXdFeWhjZGE5SjAyQW9CNWl0QmR0UjcxSVZRUnNaTmlzQTZudGJFZWlJTHFHc3lwdkw0ZzdHaEdhY0psM3N3NGJYbVVWVjJOVi1yc3llX1g5UVNfdVRaREsyNjgxYU5jVGFzUkZRN0F6OURmT2J5OTVnc01OVVFHcG4zOE45MjAwazNwRnBxeGx6MDdRZnJtY084OVJKOUIwemxONTZ6aUNRSw?oc=5)
+### [Air pollution linked to higher risks of glaucoma and cataract](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWGx4Yzljc1Z1X0o1REljZnJLOGQ1bU9BQnlKdzNtYkFoNjRSRmZFcmJDT1hBQlBLREd1T0N1NnVVZ2ZVUmVIQ3NFeDNkV0xHWHhQWmpVWGVVWlkyekV1RFNVZTZYWWlQQUYwc0piY01EV0J1UnNqbFdJNnpMcVFPekloZERmbzdSRDdkaFFuYzVqRHlxYXVlMDFFSjZpdk1PNWNEVDVfZnhJVzNRcHc?oc=5)
 
-2026-09-18 <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span>
+2026-09-15 <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMivAFBVV95cUxOODdrd1BUcTZPRU94ZG40SlVGeXdFeWhjZGE5SjAyQW9CNWl0QmR0UjcxSVZRUnNaTmlzQTZudGJFZWlJTHFHc3lwdkw0ZzdHaEdhY0psM3N3NGJYbVVWVjJOVi1yc3llX1g5UVNfdVRaREsyNjgxYU5jVGFzUkZRN0F6OURmT2J5OTVnc01OVVFHcG4zOE45MjAwazNwRnBxeGx6MDdRZnJtY084OVJKOUIwemxONTZ6aUNRSw?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWGx4Yzljc1Z1X0o1REljZnJLOGQ1bU9BQnlKdzNtYkFoNjRSRmZFcmJDT1hBQlBLREd1T0N1NnVVZ2ZVUmVIQ3NFeDNkV0xHWHhQWmpVWGVVWlkyekV1RFNVZTZYWWlQQUYwc0piY01EV0J1UnNqbFdJNnpMcVFPekloZERmbzdSRDdkaFFuYzVqRHlxYXVlMDFFSjZpdk1PNWNEVDVfZnhJVzNRcHc?oc=5)
 
 ---
 
