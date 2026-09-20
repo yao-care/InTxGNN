@@ -14,7 +14,7 @@ permalink: /news/tulobuterol/
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <li>bronchitis (100.0%)</li>
 <li>obstructive lung disease (100.0%)</li>
 <li>respiratory malformation (100.0%)</li>
-<li class="indication-matched">chronic obstructive pulmonary disease (99.9%)<span class="indication-tag">📰 COPD</span></li>
+<li>chronic obstructive pulmonary disease (99.9%)</li>
 <li>Rienhoff syndrome (99.9%)</li>
 <li>compensatory emphysema (99.9%)</li>
 <li>interstitial emphysema (99.9%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Laughter Therapy May Ease Breathlessness in COPD Patients: ERS 2026](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0dyTjZUMFROelg1TE9SeDZZVGllMVhHTElGODNCYTBtR3pveFlvdzBRZUs3NjA5bExBZHVLanhaNFV4U3BFdTFkZ2lmQVJuZ2tvX1ZycS1YeDFVQmRNMm5vb0lvSE1xb3FXek1tNnR0ODhGcDNFVENsbzRUQ3BGeWpTa3FFcHF2THZldWw4SURKUjNSM2N0dWNIbVZhaXUybXFuSEhrMjRBZzFKbGpoaQ?oc=5)
-
-2026-09-13 <span class="news-indication-tag">COPD</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0dyTjZUMFROelg1TE9SeDZZVGllMVhHTElGODNCYTBtR3pveFlvdzBRZUs3NjA5bExBZHVLanhaNFV4U3BFdTFkZ2lmQVJuZ2tvX1ZycS1YeDFVQmRNMm5vb0lvSE1xb3FXek1tNnR0ODhGcDNFVENsbzRUQ3BGeWpTa3FFcHF2THZldWw4SURKUjNSM2N0dWNIbVZhaXUybXFuSEhrMjRBZzFKbGpoaQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

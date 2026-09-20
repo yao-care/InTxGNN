@@ -14,7 +14,7 @@ permalink: /news/bromfenac/
 ---
 
 <p class="key-answer" data-question="What news is there about Bromfenac?">
-<strong>Bromfenac</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Bromfenac</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Bromfenac with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>eye disease (99.8%)</li>
+<li class="indication-matched">eye disease (99.8%)<span class="indication-tag">📰 eye disease</span></li>
 <li>optic papillitis (99.8%)</li>
 <li>von Hippel anomaly (99.8%)</li>
 <li>mcpherson robertson cammarano syndrome (99.8%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Bromfenac with the latest he
 <p><a href="{{ '/drugs/bromfenac/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [People exposed to more polluted air may face higher risk of glaucoma and cataracts - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFc0ckRXUU5mOUJHTHNVbERmMFB1M3VvRG9jWmktbmNDbzIweXJYNk1qYnN3cEVjdkxqekJmd21FaGRkQklDMFhVVFczM3hzbkJqRWpTT095eGlWQ1NlN1dkSi1tMkVLMVZyNGhaTFEzak91U181eXNkdEwtcTk0VmZpeXU?oc=5)
+
+2026-09-18 <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">eye disease</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFc0ckRXUU5mOUJHTHNVbERmMFB1M3VvRG9jWmktbmNDbzIweXJYNk1qYnN3cEVjdkxqekJmd21FaGRkQklDMFhVVFczM3hzbkJqRWpTT095eGlWQ1NlN1dkSi1tMkVLMVZyNGhaTFEzak91U181eXNkdEwtcTk0VmZpeXU?oc=5)
+
+---
 
 
 <div class="disclaimer">

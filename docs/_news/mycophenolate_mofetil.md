@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Mycophenolate Mofetil with t
 
 ## Related News (1)
 
-### [FDA gives go-ahead for trial testing CAR T-cell therapy for progressive MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXRhTnJ2b3d5MnNtelIyT0JGeG52ZlVOQlhndTlZbnpzVFhxLU4yaFNtOFJ4UV9MR21jbjQ5VFowX0doM2ZvSlJXZTFGWWx3cHlUQTBQdEcycFlPSkZhaFdCTGlJUm9aUF9qRmZkSWdZNnp1ekZWZG9oUG1TNy00YU9uNFZWLThBOHBxUVJ3SW1tVGxhMVp6UlI4UHpPZzh6RndVU2JMVEtLNGIweXM1Zy1PYW4tRWlIMVBWVWhoRUJLYWVpUjRz?oc=5)
+### [CAR T-cell therapy tested for rheumatoid arthritis to eliminate disease-driving B cells](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZHByZkM5c2Y0VnZ4MFlkaUVmRm9Gak9FZXpZQzY0c1JDcHBUVEhVVE1QbjZCTWVpQkpXazJfR1NsUU5lVUdLaDdYR05fQnpmQ3VFU2x2bUVfV3RtbVNTdEFWckJ4LWx4VnhYYmluRnA4TENPM3Rnc25NQnNvZ20yeWo2YTc4RmJoWjM1a1hXZ1Q0akJSaVktM3FMQ3E4eVBRU1BVaDNUN2p2blBPb3EwYWJrY1k2R204NkdFQ0U2eE1HNWxHYXMwQ0htMmZERnl1WUp6bkQzM01pUTRG0gHiAUFVX3lxTE9yUzA1ajJBRFhOd1ZQSW01Y25WbjZRdlNrU2ZEcFVzRVdHdVYzWEFUX1RIWVNkbERkbzNsMldUSm5ldGdyM2I2R0pWQlhuV0xaQWFYd2xyLVhpaEVBenhiWENiVUtkbHJ3NjdOcXl4M0pyTmMtMDZieWUwQWI0SVR1cFRGSl9aZFdtdC1fQnhrZFl6ODNEUk5rXzQ5cVN2ZEpjUlA1MTA1dUFzc2ZycUNFWkpNcnE3c09SRzdjT0xqLUUtYkR3dWNZM0poMW53M3BhZnNCWFVMS2IzbEpjTGF0UUE?oc=5)
 
-2026-09-16 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">multiple sclerosis</span>
+2026-09-14 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">multiple sclerosis</span>
 
-Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXRhTnJ2b3d5MnNtelIyT0JGeG52ZlVOQlhndTlZbnpzVFhxLU4yaFNtOFJ4UV9MR21jbjQ5VFowX0doM2ZvSlJXZTFGWWx3cHlUQTBQdEcycFlPSkZhaFdCTGlJUm9aUF9qRmZkSWdZNnp1ekZWZG9oUG1TNy00YU9uNFZWLThBOHBxUVJ3SW1tVGxhMVp6UlI4UHpPZzh6RndVU2JMVEtLNGIweXM1Zy1PYW4tRWlIMVBWVWhoRUJLYWVpUjRz?oc=5)
+Source: [Mid-Day](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZHByZkM5c2Y0VnZ4MFlkaUVmRm9Gak9FZXpZQzY0c1JDcHBUVEhVVE1QbjZCTWVpQkpXazJfR1NsUU5lVUdLaDdYR05fQnpmQ3VFU2x2bUVfV3RtbVNTdEFWckJ4LWx4VnhYYmluRnA4TENPM3Rnc25NQnNvZ20yeWo2YTc4RmJoWjM1a1hXZ1Q0akJSaVktM3FMQ3E4eVBRU1BVaDNUN2p2blBPb3EwYWJrY1k2R204NkdFQ0U2eE1HNWxHYXMwQ0htMmZERnl1WUp6bkQzM01pUTRG0gHiAUFVX3lxTE9yUzA1ajJBRFhOd1ZQSW01Y25WbjZRdlNrU2ZEcFVzRVdHdVYzWEFUX1RIWVNkbERkbzNsMldUSm5ldGdyM2I2R0pWQlhuV0xaQWFYd2xyLVhpaEVBenhiWENiVUtkbHJ3NjdOcXl4M0pyTmMtMDZieWUwQWI0SVR1cFRGSl9aZFdtdC1fQnhrZFl6ODNEUk5rXzQ5cVN2ZEpjUlA1MTA1dUFzc2ZycUNFWkpNcnE3c09SRzdjT0xqLUUtYkR3dWNZM0poMW53M3BhZnNCWFVMS2IzbEpjTGF0UUE?oc=5)
 
 ---
 

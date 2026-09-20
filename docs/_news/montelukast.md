@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>bronchitis (100.0%)</li>
 <li>atopic eczema (99.8%)</li>
-<li class="indication-matched">asthma (99.5%)<span class="indication-tag">📰 dama</span></li>
+<li>asthma (99.5%)</li>
 <li>obstructive lung disease (99.3%)</li>
 <li>asthma-related traits, susceptibility to (99.2%)</li>
 </ul></li>
@@ -35,15 +35,9 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Chronic stress linked to heart damage, other risks in new imaging study - Cardiovascular Business](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQWN6WUtDTUxPYVhhQjhrOTVySzdVSERiakotV2h4aURpb0MxQ0NDeFoyZ3R4Vm14MW5leDR2b1UySWhhdVNkRlpSWE5aSlI0OWQyRWE2RlNGbUxIcHAzTkttX1dDdUpSLU5XXzdLbHpKNXhiZ0pkWlZScGNqbVdWWjVrdDFLV0JuUGxOcTI4ZXd1R05sTjZyM01TTVQ3UFFicm9reU1vSEZUN2lzdVZpV3dPbkhRYUtzLXdnRWt6RnQ1UGg2TFNz?oc=5)
-
-2026-09-18 <span class="news-indication-tag">dama</span>
-
-Source: [Cardiovascular Business](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQWN6WUtDTUxPYVhhQjhrOTVySzdVSERiakotV2h4aURpb0MxQ0NDeFoyZ3R4Vm14MW5leDR2b1UySWhhdVNkRlpSWE5aSlI0OWQyRWE2RlNGbUxIcHAzTkttX1dDdUpSLU5XXzdLbHpKNXhiZ0pkWlZScGNqbVdWWjVrdDFLV0JuUGxOcTI4ZXd1R05sTjZyM01TTVQ3UFFicm9reU1vSEZUN2lzdVZpV3dPbkhRYUtzLXdnRWt6RnQ1UGg2TFNz?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

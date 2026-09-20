@@ -42,19 +42,35 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 
 ## Related News (7)
 
-### [A missing Y chromosome may be an early clue to cancer - Tech Explorist](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdkM5X2Qza0FrcldxdVdjNkpfZUZyc1JGU09qTVRnUHBjdTFxYW5BSUNrcmtwLWFLZ3UyQjlmUE1VUTlZeTJtT1lEYVVmNXJ5UUVnbWtLN1RnS3c3SlctaFVuWWxweTdELUVmdVhWdmZFVnZPeE1fS3UyVjhXaXpxM0Nn?oc=5)
+### [Don’t sip that tea very hot](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkx2ZUpya0NNZkpGWDlaV0F6MEJMbWhKNmg1LXRtdG43NEJsdE9naUMxeWJYYnpvdnBNRzE3Y0JzSHBxbWxnS19qSnJDTHcwMDk2TjVRYzFCU0JqNEUxOTl3YTJSdXp3N053T18wQnpSQUZXN256cWxxOXBmSGhwVUVWSEEzbGhCVktR0gGSAUFVX3lxTE5jRUxzS1EweWR5YVpPeHVzVGM5dGZhNW4zRU9xRlNVUkpPYkg3eGIta3BvRkc0eXJKSnZFRXQyVjEtQWxvRHVTZFdpUUhUb1E4YmVoZXlHUVp1UWFQMl9hOE0yMXh0T0RuUmZ3c29ja2VyWDA1WThtc1JZMlJIbTFHbUtBRHh2NzJRSzE5VFhmM213?oc=5)
 
 2026-09-19 <span class="news-indication-tag">cancer</span>
 
-Source: [Tech Explorist](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdkM5X2Qza0FrcldxdVdjNkpfZUZyc1JGU09qTVRnUHBjdTFxYW5BSUNrcmtwLWFLZ3UyQjlmUE1VUTlZeTJtT1lEYVVmNXJ5UUVnbWtLN1RnS3c3SlctaFVuWWxweTdELUVmdVhWdmZFVnZPeE1fS3UyVjhXaXpxM0Nn?oc=5)
+Source: [financialexpress.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkx2ZUpya0NNZkpGWDlaV0F6MEJMbWhKNmg1LXRtdG43NEJsdE9naUMxeWJYYnpvdnBNRzE3Y0JzSHBxbWxnS19qSnJDTHcwMDk2TjVRYzFCU0JqNEUxOTl3YTJSdXp3N053T18wQnpSQUZXN256cWxxOXBmSGhwVUVWSEEzbGhCVktR0gGSAUFVX3lxTE5jRUxzS1EweWR5YVpPeHVzVGM5dGZhNW4zRU9xRlNVUkpPYkg3eGIta3BvRkc0eXJKSnZFRXQyVjEtQWxvRHVTZFdpUUhUb1E4YmVoZXlHUVp1UWFQMl9hOE0yMXh0T0RuUmZ3c29ja2VyWDA1WThtc1JZMlJIbTFHbUtBRHh2NzJRSzE5VFhmM213?oc=5)
 
 ---
 
-### [Loss of Y chromosome in men could be an early warning sign of cancer](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
+### [WHO Flags Six Essential Childhood Cancer Medicines Facing Critical Access Gaps](https://news.google.com/rss/articles/CBMieEFVX3lxTFAzNlB0OVVWOERWSmJITUVWbVJzaHh3SWQxRnY4NnJEU1Eyb0I5b0ItZkcxN1Q0VkRDRW9KTzMxYzJ3bXdJODlKZU83NThRN1dDVklpVG45UEZhZEszTEh5ZWlKaU5PbWJENjhKdk9qTVYyVVp5LTlmSw?oc=5)
 
 2026-09-19 <span class="news-indication-tag">cancer</span>
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMieEFVX3lxTFAzNlB0OVVWOERWSmJITUVWbVJzaHh3SWQxRnY4NnJEU1Eyb0I5b0ItZkcxN1Q0VkRDRW9KTzMxYzJ3bXdJODlKZU83NThRN1dDVklpVG45UEZhZEszTEh5ZWlKaU5PbWJENjhKdk9qTVYyVVp5LTlmSw?oc=5)
+
+---
+
+### [Loss of Y chromosome in men could be early warning sign of cancer: Study | To read the study in detail | Inshorts](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2tOakN4ZXNWMFZwYUJoT2hnc1E1SVhzT0FJWktqdzdncjVDaGN0RW90dXFuajhFSjVocE8zdTM0ME55ZXZ2NkJ1UVlDOWJjRDlfN0EybmNuNUJiZVdUQlZINVFEdVgyUXNpVElEZW9jRlVqUjVvdVJhV2ZTX2hyN0lQN2cxVFFPdjJxMXlSVk1YQlNKYlI3R3lxSUFlOHhMM3VsbVZ0djAtWmprSndTTzFpSEtvQdIBuwFBVV95cUxPTnVMUXl0dkI2OFVKb2pGTHhDc3hnZmJObl9tRnVsdWk2b09hb09SbHRQOWMya3owYldWbHh0RjV2RjFNMkxWdFVPWWxOWWRLVHdGMDk1eldCOEhqVjEwdldna3ZUU3gxaU55eWZwckc1VFNPMWdBdnZzeWlJRDJCaEk2MWFLUjc2cTlONWpnT2ZuazVDQmpNSTJzUm5lc081dHdiRGdCS0tZc3o1dC1PZmdITUdDSXUyOVpv?oc=5)
+
+2026-09-19 <span class="news-indication-tag">cancer</span>
+
+Source: [inshorts.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2tOakN4ZXNWMFZwYUJoT2hnc1E1SVhzT0FJWktqdzdncjVDaGN0RW90dXFuajhFSjVocE8zdTM0ME55ZXZ2NkJ1UVlDOWJjRDlfN0EybmNuNUJiZVdUQlZINVFEdVgyUXNpVElEZW9jRlVqUjVvdVJhV2ZTX2hyN0lQN2cxVFFPdjJxMXlSVk1YQlNKYlI3R3lxSUFlOHhMM3VsbVZ0djAtWmprSndTTzFpSEtvQdIBuwFBVV95cUxPTnVMUXl0dkI2OFVKb2pGTHhDc3hnZmJObl9tRnVsdWk2b09hb09SbHRQOWMya3owYldWbHh0RjV2RjFNMkxWdFVPWWxOWWRLVHdGMDk1eldCOEhqVjEwdldna3ZUU3gxaU55eWZwckc1VFNPMWdBdnZzeWlJRDJCaEk2MWFLUjc2cTlONWpnT2ZuazVDQmpNSTJzUm5lc081dHdiRGdCS0tZc3o1dC1PZmdITUdDSXUyOVpv?oc=5)
+
+---
+
+### [Max Onco Updates 2026 Brings 800+ Cancer Experts Together In Delhi - BW Healthcare World](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFlkYm9hYTZNS1pnVDFrczhQcDI4NTFNQjBFSVg3SVpWSktoTWJTNzBqQkl4c0gtbkM0RDhqLWNoTm9hNkdFcDN1SmtCazZJajI0UDhpbTdmRnFIMDhjV0l5NWlROTRLU3B5NlR2WFpYVjJ5OWs3TjhwbjhjbERYU1pTOXI2NXhHU29xUWVJTXoxWlR3U21XMnVQcVI1eFhqVUZjNnFMd0pzeFh2UC10Nm4yUVk?oc=5)
+
+2026-09-19 <span class="news-indication-tag">cancer</span>
+
+Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFlkYm9hYTZNS1pnVDFrczhQcDI4NTFNQjBFSVg3SVpWSktoTWJTNzBqQkl4c0gtbkM0RDhqLWNoTm9hNkdFcDN1SmtCazZJajI0UDhpbTdmRnFIMDhjV0l5NWlROTRLU3B5NlR2WFpYVjJ5OWs3TjhwbjhjbERYU1pTOXI2NXhHU29xUWVJTXoxWlR3U21XMnVQcVI1eFhqVUZjNnFMd0pzeFh2UC10Nm4yUVk?oc=5)
 
 ---
 
@@ -74,27 +90,11 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2d2VVh
 
 ---
 
-### [Fiji Declares National HIV Emergency Amid Sharp Rise in HIV Infections - Vajiram & Ravi](https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEF3aFpGUHQxOUZZSTZBMzQ1RzB6d29lMW5oSFZ3RWpaYVpUU0dualhMMV9zTTFwbkV5bmNOLTFzdldlN21mcGpMMkJUUkdUUzlNMVNJZEZ4MG1FQ1VCZ2pGckRMVHZ4QXIwSXZ3UVV1cXFrVTBmbXJEZEQ4TjRvZ2JZY1FoSVE?oc=5)
+### [CAR T-cell therapy tested for rheumatoid arthritis to eliminate disease-driving B cells](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZHByZkM5c2Y0VnZ4MFlkaUVmRm9Gak9FZXpZQzY0c1JDcHBUVEhVVE1QbjZCTWVpQkpXazJfR1NsUU5lVUdLaDdYR05fQnpmQ3VFU2x2bUVfV3RtbVNTdEFWckJ4LWx4VnhYYmluRnA4TENPM3Rnc25NQnNvZ20yeWo2YTc4RmJoWjM1a1hXZ1Q0akJSaVktM3FMQ3E4eVBRU1BVaDNUN2p2blBPb3EwYWJrY1k2R204NkdFQ0U2eE1HNWxHYXMwQ0htMmZERnl1WUp6bkQzM01pUTRG0gHiAUFVX3lxTE9yUzA1ajJBRFhOd1ZQSW01Y25WbjZRdlNrU2ZEcFVzRVdHdVYzWEFUX1RIWVNkbERkbzNsMldUSm5ldGdyM2I2R0pWQlhuV0xaQWFYd2xyLVhpaEVBenhiWENiVUtkbHJ3NjdOcXl4M0pyTmMtMDZieWUwQWI0SVR1cFRGSl9aZFdtdC1fQnhrZFl6ODNEUk5rXzQ5cVN2ZEpjUlA1MTA1dUFzc2ZycUNFWkpNcnE3c09SRzdjT0xqLUUtYkR3dWNZM0poMW53M3BhZnNCWFVMS2IzbEpjTGF0UUE?oc=5)
 
-2026-09-18 <span class="news-indication-tag">RA</span>
+2026-09-14 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">multiple sclerosis</span>
 
-Source: [Vajiram & Ravi](https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEF3aFpGUHQxOUZZSTZBMzQ1RzB6d29lMW5oSFZ3RWpaYVpUU0dualhMMV9zTTFwbkV5bmNOLTFzdldlN21mcGpMMkJUUkdUUzlNMVNJZEZ4MG1FQ1VCZ2pGckRMVHZ4QXIwSXZ3UVV1cXFrVTBmbXJEZEQ4TjRvZ2JZY1FoSVE?oc=5)
-
----
-
-### [FDA gives go-ahead for trial testing CAR T-cell therapy for progressive MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXRhTnJ2b3d5MnNtelIyT0JGeG52ZlVOQlhndTlZbnpzVFhxLU4yaFNtOFJ4UV9MR21jbjQ5VFowX0doM2ZvSlJXZTFGWWx3cHlUQTBQdEcycFlPSkZhaFdCTGlJUm9aUF9qRmZkSWdZNnp1ekZWZG9oUG1TNy00YU9uNFZWLThBOHBxUVJ3SW1tVGxhMVp6UlI4UHpPZzh6RndVU2JMVEtLNGIweXM1Zy1PYW4tRWlIMVBWVWhoRUJLYWVpUjRz?oc=5)
-
-2026-09-16 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">multiple sclerosis</span>
-
-Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXRhTnJ2b3d5MnNtelIyT0JGeG52ZlVOQlhndTlZbnpzVFhxLU4yaFNtOFJ4UV9MR21jbjQ5VFowX0doM2ZvSlJXZTFGWWx3cHlUQTBQdEcycFlPSkZhaFdCTGlJUm9aUF9qRmZkSWdZNnp1ekZWZG9oUG1TNy00YU9uNFZWLThBOHBxUVJ3SW1tVGxhMVp6UlI4UHpPZzh6RndVU2JMVEtLNGIweXM1Zy1PYW4tRWlIMVBWVWhoRUJLYWVpUjRz?oc=5)
-
----
-
-### [Like your tea or coffee very hot? A study of nearly 1 million adults found a striking cancer link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUt5MlZRZ3pKQTRMTVFwaEhFbC1hd1h2UWF1YXlDbTFxMkZZMGdHSTVmXzZWQWZWODBNMmVsYjRXYjJlSWVHLUlGQ21tS2JoVVNqeFlaRTRhTW1peXdtUldxZUxYWUJybXlSM3RGR3pGRzZreDcxTkJvUVg5M2ZleS11TzVwX0cweVdjMG54dldONUdpN21XcTJnMUVuVUE5c1I2b0I4ZjBLV3BoM2YtRFJRYU5jMTFJSXJ6REgzRk5scnM2c2FlbkFMUWZILVRjZ2xxVzB0eXNmNHlD?oc=5)
-
-2026-09-15 <span class="news-indication-tag">cancer</span>
-
-Source: [news-medical.net](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUt5MlZRZ3pKQTRMTVFwaEhFbC1hd1h2UWF1YXlDbTFxMkZZMGdHSTVmXzZWQWZWODBNMmVsYjRXYjJlSWVHLUlGQ21tS2JoVVNqeFlaRTRhTW1peXdtUldxZUxYWUJybXlSM3RGR3pGRzZreDcxTkJvUVg5M2ZleS11TzVwX0cweVdjMG54dldONUdpN21XcTJnMUVuVUE5c1I2b0I4ZjBLV3BoM2YtRFJRYU5jMTFJSXJ6REgzRk5scnM2c2FlbkFMUWZILVRjZ2xxVzB0eXNmNHlD?oc=5)
+Source: [Mid-Day](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZHByZkM5c2Y0VnZ4MFlkaUVmRm9Gak9FZXpZQzY0c1JDcHBUVEhVVE1QbjZCTWVpQkpXazJfR1NsUU5lVUdLaDdYR05fQnpmQ3VFU2x2bUVfV3RtbVNTdEFWckJ4LWx4VnhYYmluRnA4TENPM3Rnc25NQnNvZ20yeWo2YTc4RmJoWjM1a1hXZ1Q0akJSaVktM3FMQ3E4eVBRU1BVaDNUN2p2blBPb3EwYWJrY1k2R204NkdFQ0U2eE1HNWxHYXMwQ0htMmZERnl1WUp6bkQzM01pUTRG0gHiAUFVX3lxTE9yUzA1ajJBRFhOd1ZQSW01Y25WbjZRdlNrU2ZEcFVzRVdHdVYzWEFUX1RIWVNkbERkbzNsMldUSm5ldGdyM2I2R0pWQlhuV0xaQWFYd2xyLVhpaEVBenhiWENiVUtkbHJ3NjdOcXl4M0pyTmMtMDZieWUwQWI0SVR1cFRGSl9aZFdtdC1fQnhrZFl6ODNEUk5rXzQ5cVN2ZEpjUlA1MTA1dUFzc2ZycUNFWkpNcnE3c09SRzdjT0xqLUUtYkR3dWNZM0poMW53M3BhZnNCWFVMS2IzbEpjTGF0UUE?oc=5)
 
 ---
 
