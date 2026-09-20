@@ -14,7 +14,7 @@ permalink: /news/cabergoline/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabergoline?">
-<strong>Cabergoline</strong> currently has <strong>11 news articles</strong>, with 5 predicted indications.
+<strong>Cabergoline</strong> currently has <strong>10 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page combines the AI-predicted indications for Cabergoline with the latest 
 <p><a href="{{ '/drugs/cabergoline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
 
 ### [Glioma Metabolite Drives Neuronal Activity and Tumour Growth](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGtLdm9wb05tZjVqT0NqVDd6czh4VDVlVWIxZkJsMDJQRlpWS1lxTDlmYmZHR3pRTVk4MlMyY0xMZlFHcEM2ekUyenFnWW9VVGhyc0hwczNnT2xtaGxyaVNYOTlYb0I0LXY3TE12RmhjX2xpSmRyMzlyczFMblBWaFUyUUZTS01iU2tDczEyUmgxUGdPWWJQWTFRUjl5NWhSN09GTQ?oc=5)
 
@@ -55,7 +55,7 @@ Source: [Moneycontrol.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxN
 
 ### [A melanoma vaccine was hailed as a breakthrough. Which cancers are next? - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd01EWFpGRkJ5Q09ndFBoU1JUWmlCY0NtTlVOUG1kbXFlYVh6Vm1NeHhBc2ktdUZ2RHB2dG9zVUNRdmpRN1RidnZjMGtKRjZuSFJwRm45V1E5bmkzRGlJQ0g3WWh2YTI3bkwzNVh0N3gxS25JTFZLVGNGb2R1WHV6a1FYRzBfdlZBMWRiRE5xNngwTjNOU1ZFUl9yZllXSzFsRDJtWXRGdzhqb0pSVGRJc0RINA?oc=5)
 
-2026-09-19 <span class="news-indication-tag">cancer</span>
+2026-09-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">head and neck cancer</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd01EWFpGRkJ5Q09ndFBoU1JUWmlCY0NtTlVOUG1kbXFlYVh6Vm1NeHhBc2ktdUZ2RHB2dG9zVUNRdmpRN1RidnZjMGtKRjZuSFJwRm45V1E5bmkzRGlJQ0g3WWh2YTI3bkwzNVh0N3gxS25JTFZLVGNGb2R1WHV6a1FYRzBfdlZBMWRiRE5xNngwTjNOU1ZFUl9yZllXSzFsRDJtWXRGdzhqb0pSVGRJc0RINA?oc=5)
 
@@ -77,11 +77,11 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMieEFVX3lxTFAzNlB0OVV
 
 ---
 
-### [Study Identifies Genetic Risk Factor for Lung Cancer in Never-Smokers - The Indian Practitioner](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
+### [Study Identifies Genetic Risk Factor for Lung Cancer in Never-Smokers](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
 
 2026-09-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
+Source: [theindianpractitioner.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
 
 ---
 
@@ -101,27 +101,19 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiogJBVV95cU
 
 ---
 
-### [Air Pollution Linked to Higher Glaucoma and Cataract Risk: ESCRS 2026](https://news.google.com/rss/articles/CBMivAFBVV95cUxOODdrd1BUcTZPRU94ZG40SlVGeXdFeWhjZGE5SjAyQW9CNWl0QmR0UjcxSVZRUnNaTmlzQTZudGJFZWlJTHFHc3lwdkw0ZzdHaEdhY0psM3N3NGJYbVVWVjJOVi1yc3llX1g5UVNfdVRaREsyNjgxYU5jVGFzUkZRN0F6OURmT2J5OTVnc01OVVFHcG4zOE45MjAwazNwRnBxeGx6MDdRZnJtY084OVJKOUIwemxONTZ6aUNRSw?oc=5)
-
-2026-09-18 <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMivAFBVV95cUxOODdrd1BUcTZPRU94ZG40SlVGeXdFeWhjZGE5SjAyQW9CNWl0QmR0UjcxSVZRUnNaTmlzQTZudGJFZWlJTHFHc3lwdkw0ZzdHaEdhY0psM3N3NGJYbVVWVjJOVi1yc3llX1g5UVNfdVRaREsyNjgxYU5jVGFzUkZRN0F6OURmT2J5OTVnc01OVVFHcG4zOE45MjAwazNwRnBxeGx6MDdRZnJtY084OVJKOUIwemxONTZ6aUNRSw?oc=5)
-
----
-
-### [‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
-
-2026-09-16 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">cold</span>
-
-Source: [wired.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
-
----
-
 ### [Integrating Frontline Biomarkers and Multidisciplinary Teams in Prostate Cancer - Targeted Oncology](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR1lZUWtiUEJ3MjlVaXJ2OWtVdkQ2b2dmWG9iUVc5MmQ1R2l4Vi1mZTBOYS1IU253UW1WYXE1a3RTaUtUM0pPeEZrajkwUjNHdE40ZkZmNUtsdUNwNURfU1Z1MzNoR3JiSk9MdmFHWDFCZ0hMOGtYN2dIc0xqN2VUSC1jbnZVTUk5ckthNFRSZGlCLU83SUJ5WGo5bnBpaVI1UEhRcmg1clZmY1RzNGp4SWpB?oc=5)
 
 2026-09-15 <span class="news-indication-tag">cancer</span>
 
 Source: [Targeted Oncology](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR1lZUWtiUEJ3MjlVaXJ2OWtVdkQ2b2dmWG9iUVc5MmQ1R2l4Vi1mZTBOYS1IU253UW1WYXE1a3RTaUtUM0pPeEZrajkwUjNHdE40ZkZmNUtsdUNwNURfU1Z1MzNoR3JiSk9MdmFHWDFCZ0hMOGtYN2dIc0xqN2VUSC1jbnZVTUk5ckthNFRSZGlCLU83SUJ5WGo5bnBpaVI1UEhRcmg1clZmY1RzNGp4SWpB?oc=5)
+
+---
+
+### [Air pollution linked to higher risks of glaucoma and cataract](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWGx4Yzljc1Z1X0o1REljZnJLOGQ1bU9BQnlKdzNtYkFoNjRSRmZFcmJDT1hBQlBLREd1T0N1NnVVZ2ZVUmVIQ3NFeDNkV0xHWHhQWmpVWGVVWlkyekV1RFNVZTZYWWlQQUYwc0piY01EV0J1UnNqbFdJNnpMcVFPekloZERmbzdSRDdkaFFuYzVqRHlxYXVlMDFFSjZpdk1PNWNEVDVfZnhJVzNRcHc?oc=5)
+
+2026-09-15 <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWGx4Yzljc1Z1X0o1REljZnJLOGQ1bU9BQnlKdzNtYkFoNjRSRmZFcmJDT1hBQlBLREd1T0N1NnVVZ2ZVUmVIQ3NFeDNkV0xHWHhQWmpVWGVVWlkyekV1RFNVZTZYWWlQQUYwc0piY01EV0J1UnNqbFdJNnpMcVFPekloZERmbzdSRDdkaFFuYzVqRHlxYXVlMDFFSjZpdk1PNWNEVDVfZnhJVzNRcHc?oc=5)
 
 ---
 

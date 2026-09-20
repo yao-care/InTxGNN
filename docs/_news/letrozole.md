@@ -42,6 +42,14 @@ This page combines the AI-predicted indications for Letrozole with the latest he
 
 ## Related News (11)
 
+### [From muscle to menopause: Why creatine is finding a new audience in women - CNBC TV18](https://news.google.com/rss/articles/CBMiywFBVV95cUxNekR0d1g5LXZKUmF3WnJRdUg1dUlteW9aYzNVamVsTnN0MlhJQ0ZVX05xeVRxVVc3TTMyYzN0ZmpuMERjSGVKcWFoMUFvUmoweDZvY2w2eWNOQmpsenlJaWVzZjlEVFZ4WEwyekFiNUhpcE1DZzNBWnRtRTRIWDlManNQc3V1MExMNkZ1LWpBb2NqWTVkcHNzNmlvUnN3ZXlLZDBKdUhCeW80X081bWFyWnE3dDBIbWF4U2tnTTcwaE1ZaS1uWlZ4cm9VWdIB0AFBVV95cUxOYUtGUFQ5NWJnaExKdElHeVpUdWxaZDgtaGduN1lBa0w4TlpmRmVBUE9XZ2Z6Z0xfV2d4OG9Ydjc1bVJBOTkwS0tVdmVtR1AyQU02Rlo1X1BiLXNVM0Ftc1dCTlZXWjJLX2hhWnFQYjcyU3FET1pUQWNnbTBGWGd0M0RjcWVodVNJTTBTcjFVRVJ2cHFOcWZGQnhycmMtTXYzTG1GM005ZERlQml3bGRmRnRIdUVXaWFZOWs2T2ZEbWtLSjNRR2dxMFNiUHp2QlBi?oc=5)
+
+2026-09-20 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [CNBC TV18](https://news.google.com/rss/articles/CBMiywFBVV95cUxNekR0d1g5LXZKUmF3WnJRdUg1dUlteW9aYzNVamVsTnN0MlhJQ0ZVX05xeVRxVVc3TTMyYzN0ZmpuMERjSGVKcWFoMUFvUmoweDZvY2w2eWNOQmpsenlJaWVzZjlEVFZ4WEwyekFiNUhpcE1DZzNBWnRtRTRIWDlManNQc3V1MExMNkZ1LWpBb2NqWTVkcHNzNmlvUnN3ZXlLZDBKdUhCeW80X081bWFyWnE3dDBIbWF4U2tnTTcwaE1ZaS1uWlZ4cm9VWdIB0AFBVV95cUxOYUtGUFQ5NWJnaExKdElHeVpUdWxaZDgtaGduN1lBa0w4TlpmRmVBUE9XZ2Z6Z0xfV2d4OG9Ydjc1bVJBOTkwS0tVdmVtR1AyQU02Rlo1X1BiLXNVM0Ftc1dCTlZXWjJLX2hhWnFQYjcyU3FET1pUQWNnbTBGWGd0M0RjcWVodVNJTTBTcjFVRVJ2cHFOcWZGQnhycmMtTXYzTG1GM005ZERlQml3bGRmRnRIdUVXaWFZOWs2T2ZEbWtLSjNRR2dxMFNiUHp2QlBi?oc=5)
+
+---
+
 ### [Glioma Metabolite Drives Neuronal Activity and Tumour Growth](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGtLdm9wb05tZjVqT0NqVDd6czh4VDVlVWIxZkJsMDJQRlpWS1lxTDlmYmZHR3pRTVk4MlMyY0xMZlFHcEM2ekUyenFnWW9VVGhyc0hwczNnT2xtaGxyaVNYOTlYb0I0LXY3TE12RmhjX2xpSmRyMzlyczFMblBWaFUyUUZTS01iU2tDczEyUmgxUGdPWWJQWTFRUjl5NWhSN09GTQ?oc=5)
 
 2026-09-20 <span class="news-indication-tag">tumor</span>
@@ -60,7 +68,7 @@ Source: [Moneycontrol.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxN
 
 ### [A melanoma vaccine was hailed as a breakthrough. Which cancers are next? - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd01EWFpGRkJ5Q09ndFBoU1JUWmlCY0NtTlVOUG1kbXFlYVh6Vm1NeHhBc2ktdUZ2RHB2dG9zVUNRdmpRN1RidnZjMGtKRjZuSFJwRm45V1E5bmkzRGlJQ0g3WWh2YTI3bkwzNVh0N3gxS25JTFZLVGNGb2R1WHV6a1FYRzBfdlZBMWRiRE5xNngwTjNOU1ZFUl9yZllXSzFsRDJtWXRGdzhqb0pSVGRJc0RINA?oc=5)
 
-2026-09-19 <span class="news-indication-tag">cancer</span>
+2026-09-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">head and neck cancer</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd01EWFpGRkJ5Q09ndFBoU1JUWmlCY0NtTlVOUG1kbXFlYVh6Vm1NeHhBc2ktdUZ2RHB2dG9zVUNRdmpRN1RidnZjMGtKRjZuSFJwRm45V1E5bmkzRGlJQ0g3WWh2YTI3bkwzNVh0N3gxS25JTFZLVGNGb2R1WHV6a1FYRzBfdlZBMWRiRE5xNngwTjNOU1ZFUl9yZllXSzFsRDJtWXRGdzhqb0pSVGRJc0RINA?oc=5)
 
@@ -82,11 +90,11 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMieEFVX3lxTFAzNlB0OVV
 
 ---
 
-### [Study Identifies Genetic Risk Factor for Lung Cancer in Never-Smokers - The Indian Practitioner](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
+### [Study Identifies Genetic Risk Factor for Lung Cancer in Never-Smokers](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
 
 2026-09-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
+Source: [theindianpractitioner.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
 
 ---
 
@@ -111,14 +119,6 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiogJBVV95cU
 2026-09-16 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUjBGNnBidG5uZ2RzZENSV2VSZEpvSjVXVmJHLUR6bzlUQ1FlLUkyLXozaVhheWFncW91RkJuQTlDNkV0dF9IVTJEZEhrdzQtYU1ySFVuYzdHX0YwTkJ5S21iWm5IYmRkTndsMTEzZHVKRmtsTkxELWJjLWZCUEl6ODNhRGptQjNDbE5Uc29lSzRjU0VCeVFyWDdNTVhPTF81VjFTOG9xSVU3WW42SVFUSXFCeDlzX2F6NEZQeVNfOGd3cUJRZklMd2xSaTF0bERsMW1falZLUzJCZ19lc1dwZnpiWkx3cldWMG5sbGxHMkYwdTh5VmfSAfsBQVVfeXFMTnp6bVg5ZHJTRlk5RU1zMG9tM19MQS1iWUZwODBqTFZwdUZoT0l2MDJyTnpjQ0didXhOcFpneGhQWUoxSGFmOWlDSlZIanVoLXU3TmVjUEFqZmZKUDd2c2cwYm5DbFV1eGlmb0N2M2sySTBlZ2VOR2RWMExQOUp3X29TRFFEMFd4bmRraVBEMUM5SlRtSmQyT1JrN2l1cmZlMy1PUDd1VlYwWk9PeVY0RW85Q2VSU0RBYzQ5Qmp0SHBBZ2FPZzhyUFQ4YlRkOXc1aFVrbUVaOHBVX3NCdjdubnF3QW90NnJMZGZtamw4MWdWS0M0MThDaTluMGc?oc=5)
-
----
-
-### [‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
-
-2026-09-16 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">cold</span>
-
-Source: [wired.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -59,21 +59,13 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Chronic Inflammation Linked To Silent Heart Damage, Study Says](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTdRZGJMTjlQYXE0VGZZZTl0dndfTHFydUlQQ1JjT2I3NHVkV2xNSVo2ZjVwakpCcGdTN1Y0SHhVNTBnRl9wV2ZnQ09ZQ05xNGh3VVZyd2VZV2ZRVVdteWxKbUZNVldMbGlvcTFpbzdmRWpZT2wycVBIX0w5QXVQel9uS01xWnVBdXkwTm9YR19QWTF1NUVzaVhhdmNTanc?oc=5)
 
 2026-09-20
 
 Source: [NDTV](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTdRZGJMTjlQYXE0VGZZZTl0dndfTHFydUlQQ1JjT2I3NHVkV2xNSVo2ZjVwakpCcGdTN1Y0SHhVNTBnRl9wV2ZnQ09ZQ05xNGh3VVZyd2VZV2ZRVVdteWxKbUZNVldMbGlvcTFpbzdmRWpZT2wycVBIX0w5QXVQel9uS01xWnVBdXkwTm9YR19QWTF1NUVzaVhhdmNTanc?oc=5)
-
----
-
-### [How are noisy celebrations and DJs affecting our hearing? - The Hindu](https://news.google.com/rss/articles/CBMixwFBVV95cUxPMzhYUGZOaFBVcG5oVGVsbEtzb1BNVTFuWVotUlpVMV9zTHJUeVFoVWdhNG9LbVduN2lLR3pkRXV1WkVXOW4zZTdhQzRUa0pOTjRtZDRUSDZrQmI1YTZ3RE9Tbi1DVHhzNEgtQWFRRnl2N2pSWHJaRHRNU2xrd3JydTUwdHliOE85eFJxVTYxTzN1Q0hSdGhlamxRTmgtcTRoVzdYQXgyX0tTOFZVQVNsMlQxclZWWHpvUm5BbFlVbEo0OUxLb3NR0gHOAUFVX3lxTFA3UDBURWhGdllaQXdPZEVJTTFzZ2RhalQzVWg1elloSkRTc0xIR09NalFENFpMdGxZSjZTaG9SVHJBaTh3VTZPQnpHUkk1SUtjS3pMZWROTXJzNHBXR3ZXajdhUkFPYTZkV1Y5RmF6ZndPMDVLTFlhVEpqMkMwdFZmbXlGRnZLRlBzT1VjTUNDYXdFNEF5V0ZqVmlMcUw2Qm1WVHl4T19HZ09aNDhGU0Z0STNkdUlkZHgzNVJWdXpyd3JCWUFhc1lQcmRfSTJ3?oc=5)
-
-2026-09-19
-
-Source: [The Hindu](https://news.google.com/rss/articles/CBMixwFBVV95cUxPMzhYUGZOaFBVcG5oVGVsbEtzb1BNVTFuWVotUlpVMV9zTHJUeVFoVWdhNG9LbVduN2lLR3pkRXV1WkVXOW4zZTdhQzRUa0pOTjRtZDRUSDZrQmI1YTZ3RE9Tbi1DVHhzNEgtQWFRRnl2N2pSWHJaRHRNU2xrd3JydTUwdHliOE85eFJxVTYxTzN1Q0hSdGhlamxRTmgtcTRoVzdYQXgyX0tTOFZVQVNsMlQxclZWWHpvUm5BbFlVbEo0OUxLb3NR0gHOAUFVX3lxTFA3UDBURWhGdllaQXdPZEVJTTFzZ2RhalQzVWg1elloSkRTc0xIR09NalFENFpMdGxZSjZTaG9SVHJBaTh3VTZPQnpHUkk1SUtjS3pMZWROTXJzNHBXR3ZXajdhUkFPYTZkV1Y5RmF6ZndPMDVLTFlhVEpqMkMwdFZmbXlGRnZLRlBzT1VjTUNDYXdFNEF5V0ZqVmlMcUw2Qm1WVHl4T19HZ09aNDhGU0Z0STNkdUlkZHgzNVJWdXpyd3JCWUFhc1lQcmRfSTJ3?oc=5)
 
 ---
 
