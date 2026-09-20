@@ -31,11 +31,11 @@ This page brings together the latest health news about “asthma” and lists th
 
 ## Related News (1)
 
-### [WHO asthma guidelines to focus on patient safety - Voice of Healthcare](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU2tmZmgtamkzNUxYM1gycDJ4b0pNSjcwREk2NlNPazVReGdWcC16LXJYR1RTcmRLRUdUcW1JX0ZrY01XazlZRGpZdGdXVzJPaVU1ZXFraktuZi1OWXlZeFZKd3JRUmduaUJadWpBS2VzaXRYTWdUc3NKWnZLXzFaM1gwR3gydE5qaGZ0Z3VwMXV3ZUpNaVFHdjNIeVNTUm95bnBBMS1feEE2MzA?oc=5)
+### [Could Earlier Biologics Change the Course of Severe Asthma?](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWJsRE9MQVZ2dlV1eEdtdmNPSnhKMXFMckI1T1ZVMU8xS01iYmMxY1RuaUJSOFlDRkhNUEtJcklwcll5Yk5aNkFHcDV1aEVIb1RudVhaUk9NRTYzdEc2clNSa2FyVHU1aGJCYmhFQk9hd0Z1M0VqVF9zVFZoazZ1T3Z3MzhrWFlhTFdjVzNqM1BuR3VGNUNrN2JRdHdpdW5OWkR0VEdR?oc=5)
 
-2026-09-18
+2026-09-20
 
-Source: [Voice of Healthcare](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU2tmZmgtamkzNUxYM1gycDJ4b0pNSjcwREk2NlNPazVReGdWcC16LXJYR1RTcmRLRUdUcW1JX0ZrY01XazlZRGpZdGdXVzJPaVU1ZXFraktuZi1OWXlZeFZKd3JRUmduaUJadWpBS2VzaXRYTWdUc3NKWnZLXzFaM1gwR3gydE5qaGZ0Z3VwMXV3ZUpNaVFHdjNIeVNTUm95bnBBMS1feEE2MzA?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWJsRE9MQVZ2dlV1eEdtdmNPSnhKMXFMckI1T1ZVMU8xS01iYmMxY1RuaUJSOFlDRkhNUEtJcklwcll5Yk5aNkFHcDV1aEVIb1RudVhaUk9NRTYzdEc2clNSa2FyVHU1aGJCYmhFQk9hd0Z1M0VqVF9zVFZoazZ1T3Z3MzhrWFlhTFdjVzNqM1BuR3VGNUNrN2JRdHdpdW5OWkR0VEdR?oc=5)
 
 ---
 
