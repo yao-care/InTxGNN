@@ -14,7 +14,7 @@ permalink: /news/amiodarone/
 ---
 
 <p class="key-answer" data-question="What news is there about Amiodarone?">
-<strong>Amiodarone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Amiodarone</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Amiodarone with the latest h
 <li>incessant infant ventricular tachycardia (99.7%)</li>
 <li>ventricular tachycardia (99.6%)</li>
 <li>obsolete bundle branch block (99.6%)</li>
-<li>rheumatoid arthritis (99.4%)</li>
+<li class="indication-matched">rheumatoid arthritis (99.4%)<span class="indication-tag">📰 RA</span></li>
 <li>brachydactyly-syndactyly syndrome (99.4%)</li>
 <li>heparin cofactor 2 deficiency (99.4%)</li>
 <li>trichotillomania (99.3%)</li>
@@ -40,9 +40,23 @@ This page combines the AI-predicted indications for Amiodarone with the latest h
 <p><a href="{{ '/drugs/amiodarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Fiji’s HIV Emergency a Wake-Up Call for Samoa and the Pacific](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
+
+2026-09-20 <span class="news-indication-tag">RA</span>
+
+Source: [samoaglobalnews.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
+
+---
+
+### [HIV injections keep virus suppressed better than daily pills: Study - ANI News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlAxMVdpU2owMWduUWRrclItZ0MzUDhzUDljT1AwcHdvNmVXSjdNQTgxTkQ0cmJoN1VHMlBmT2pJX3FYSHIyb3ZnSWV5ZjMwQndaWnJmNUVoS01jRTk3RkZhc1AtbmtwRE5WRFZGQmxJN19fd01kYkVmRFpDUHN2LTZTN3p5U3kwdGJiNmVnQTdtNmlqUVZsN01jU2hkeEJkUHB3Mm9nSUVjb0VwWm91QVJ1QjNpeGc?oc=5)
+
+2026-09-20 <span class="news-indication-tag">RA</span>
+
+Source: [ANI News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlAxMVdpU2owMWduUWRrclItZ0MzUDhzUDljT1AwcHdvNmVXSjdNQTgxTkQ0cmJoN1VHMlBmT2pJX3FYSHIyb3ZnSWV5ZjMwQndaWnJmNUVoS01jRTk3RkZhc1AtbmtwRE5WRFZGQmxJN19fd01kYkVmRFpDUHN2LTZTN3p5U3kwdGJiNmVnQTdtNmlqUVZsN01jU2hkeEJkUHB3Mm9nSUVjb0VwWm91QVJ1QjNpeGc?oc=5)
+
+---
 
 
 <div class="disclaimer">

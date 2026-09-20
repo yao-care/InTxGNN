@@ -14,7 +14,7 @@ permalink: /news/mesalazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mesalazine?">
-<strong>Mesalazine</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Mesalazine</strong> currently has <strong>2 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <li><strong>Predicted indications (7)</strong>:<ul>
 <li>congenital hypotrichosis with juvenile macular dystrophy (99.7%)</li>
 <li>osteoarthritis (99.6%)</li>
-<li>rheumatoid arthritis (99.6%)</li>
+<li class="indication-matched">rheumatoid arthritis (99.6%)<span class="indication-tag">📰 RA</span></li>
 <li>seborrheic keratosis (99.5%)</li>
 <li>osteoarthritis susceptibility (99.3%)</li>
 <li>vulvar inverted follicular keratosis (99.3%)</li>
@@ -37,9 +37,23 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <p><a href="{{ '/drugs/mesalazine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Fiji’s HIV Emergency a Wake-Up Call for Samoa and the Pacific](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
+
+2026-09-20 <span class="news-indication-tag">RA</span>
+
+Source: [samoaglobalnews.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
+
+---
+
+### [HIV injections keep virus suppressed better than daily pills: Study - ANI News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlAxMVdpU2owMWduUWRrclItZ0MzUDhzUDljT1AwcHdvNmVXSjdNQTgxTkQ0cmJoN1VHMlBmT2pJX3FYSHIyb3ZnSWV5ZjMwQndaWnJmNUVoS01jRTk3RkZhc1AtbmtwRE5WRFZGQmxJN19fd01kYkVmRFpDUHN2LTZTN3p5U3kwdGJiNmVnQTdtNmlqUVZsN01jU2hkeEJkUHB3Mm9nSUVjb0VwWm91QVJ1QjNpeGc?oc=5)
+
+2026-09-20 <span class="news-indication-tag">RA</span>
+
+Source: [ANI News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlAxMVdpU2owMWduUWRrclItZ0MzUDhzUDljT1AwcHdvNmVXSjdNQTgxTkQ0cmJoN1VHMlBmT2pJX3FYSHIyb3ZnSWV5ZjMwQndaWnJmNUVoS01jRTk3RkZhc1AtbmtwRE5WRFZGQmxJN19fd01kYkVmRFpDUHN2LTZTN3p5U3kwdGJiNmVnQTdtNmlqUVZsN01jU2hkeEJkUHB3Mm9nSUVjb0VwWm91QVJ1QjNpeGc?oc=5)
+
+---
 
 
 <div class="disclaimer">
