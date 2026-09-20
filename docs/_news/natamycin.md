@@ -14,7 +14,7 @@ permalink: /news/natamycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Natamycin?">
-<strong>Natamycin</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
+<strong>Natamycin</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,37 @@ This page combines the AI-predicted indications for Natamycin with the latest he
 <p><a href="{{ '/drugs/natamycin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
 
-### [A missing Y chromosome may be an early clue to cancer - Tech Explorist](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdkM5X2Qza0FrcldxdVdjNkpfZUZyc1JGU09qTVRnUHBjdTFxYW5BSUNrcmtwLWFLZ3UyQjlmUE1VUTlZeTJtT1lEYVVmNXJ5UUVnbWtLN1RnS3c3SlctaFVuWWxweTdELUVmdVhWdmZFVnZPeE1fS3UyVjhXaXpxM0Nn?oc=5)
+### [Don’t sip that tea very hot](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkx2ZUpya0NNZkpGWDlaV0F6MEJMbWhKNmg1LXRtdG43NEJsdE9naUMxeWJYYnpvdnBNRzE3Y0JzSHBxbWxnS19qSnJDTHcwMDk2TjVRYzFCU0JqNEUxOTl3YTJSdXp3N053T18wQnpSQUZXN256cWxxOXBmSGhwVUVWSEEzbGhCVktR0gGSAUFVX3lxTE5jRUxzS1EweWR5YVpPeHVzVGM5dGZhNW4zRU9xRlNVUkpPYkg3eGIta3BvRkc0eXJKSnZFRXQyVjEtQWxvRHVTZFdpUUhUb1E4YmVoZXlHUVp1UWFQMl9hOE0yMXh0T0RuUmZ3c29ja2VyWDA1WThtc1JZMlJIbTFHbUtBRHh2NzJRSzE5VFhmM213?oc=5)
 
 2026-09-19 <span class="news-indication-tag">cancer</span>
 
-Source: [Tech Explorist](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdkM5X2Qza0FrcldxdVdjNkpfZUZyc1JGU09qTVRnUHBjdTFxYW5BSUNrcmtwLWFLZ3UyQjlmUE1VUTlZeTJtT1lEYVVmNXJ5UUVnbWtLN1RnS3c3SlctaFVuWWxweTdELUVmdVhWdmZFVnZPeE1fS3UyVjhXaXpxM0Nn?oc=5)
+Source: [financialexpress.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkx2ZUpya0NNZkpGWDlaV0F6MEJMbWhKNmg1LXRtdG43NEJsdE9naUMxeWJYYnpvdnBNRzE3Y0JzSHBxbWxnS19qSnJDTHcwMDk2TjVRYzFCU0JqNEUxOTl3YTJSdXp3N053T18wQnpSQUZXN256cWxxOXBmSGhwVUVWSEEzbGhCVktR0gGSAUFVX3lxTE5jRUxzS1EweWR5YVpPeHVzVGM5dGZhNW4zRU9xRlNVUkpPYkg3eGIta3BvRkc0eXJKSnZFRXQyVjEtQWxvRHVTZFdpUUhUb1E4YmVoZXlHUVp1UWFQMl9hOE0yMXh0T0RuUmZ3c29ja2VyWDA1WThtc1JZMlJIbTFHbUtBRHh2NzJRSzE5VFhmM213?oc=5)
 
 ---
 
-### [Loss of Y chromosome in men could be an early warning sign of cancer](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
+### [WHO Flags Six Essential Childhood Cancer Medicines Facing Critical Access Gaps](https://news.google.com/rss/articles/CBMieEFVX3lxTFAzNlB0OVVWOERWSmJITUVWbVJzaHh3SWQxRnY4NnJEU1Eyb0I5b0ItZkcxN1Q0VkRDRW9KTzMxYzJ3bXdJODlKZU83NThRN1dDVklpVG45UEZhZEszTEh5ZWlKaU5PbWJENjhKdk9qTVYyVVp5LTlmSw?oc=5)
 
 2026-09-19 <span class="news-indication-tag">cancer</span>
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMieEFVX3lxTFAzNlB0OVVWOERWSmJITUVWbVJzaHh3SWQxRnY4NnJEU1Eyb0I5b0ItZkcxN1Q0VkRDRW9KTzMxYzJ3bXdJODlKZU83NThRN1dDVklpVG45UEZhZEszTEh5ZWlKaU5PbWJENjhKdk9qTVYyVVp5LTlmSw?oc=5)
+
+---
+
+### [Loss of Y chromosome in men could be early warning sign of cancer: Study | To read the study in detail | Inshorts](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2tOakN4ZXNWMFZwYUJoT2hnc1E1SVhzT0FJWktqdzdncjVDaGN0RW90dXFuajhFSjVocE8zdTM0ME55ZXZ2NkJ1UVlDOWJjRDlfN0EybmNuNUJiZVdUQlZINVFEdVgyUXNpVElEZW9jRlVqUjVvdVJhV2ZTX2hyN0lQN2cxVFFPdjJxMXlSVk1YQlNKYlI3R3lxSUFlOHhMM3VsbVZ0djAtWmprSndTTzFpSEtvQdIBuwFBVV95cUxPTnVMUXl0dkI2OFVKb2pGTHhDc3hnZmJObl9tRnVsdWk2b09hb09SbHRQOWMya3owYldWbHh0RjV2RjFNMkxWdFVPWWxOWWRLVHdGMDk1eldCOEhqVjEwdldna3ZUU3gxaU55eWZwckc1VFNPMWdBdnZzeWlJRDJCaEk2MWFLUjc2cTlONWpnT2ZuazVDQmpNSTJzUm5lc081dHdiRGdCS0tZc3o1dC1PZmdITUdDSXUyOVpv?oc=5)
+
+2026-09-19 <span class="news-indication-tag">cancer</span>
+
+Source: [inshorts.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2tOakN4ZXNWMFZwYUJoT2hnc1E1SVhzT0FJWktqdzdncjVDaGN0RW90dXFuajhFSjVocE8zdTM0ME55ZXZ2NkJ1UVlDOWJjRDlfN0EybmNuNUJiZVdUQlZINVFEdVgyUXNpVElEZW9jRlVqUjVvdVJhV2ZTX2hyN0lQN2cxVFFPdjJxMXlSVk1YQlNKYlI3R3lxSUFlOHhMM3VsbVZ0djAtWmprSndTTzFpSEtvQdIBuwFBVV95cUxPTnVMUXl0dkI2OFVKb2pGTHhDc3hnZmJObl9tRnVsdWk2b09hb09SbHRQOWMya3owYldWbHh0RjV2RjFNMkxWdFVPWWxOWWRLVHdGMDk1eldCOEhqVjEwdldna3ZUU3gxaU55eWZwckc1VFNPMWdBdnZzeWlJRDJCaEk2MWFLUjc2cTlONWpnT2ZuazVDQmpNSTJzUm5lc081dHdiRGdCS0tZc3o1dC1PZmdITUdDSXUyOVpv?oc=5)
+
+---
+
+### [Max Onco Updates 2026 Brings 800+ Cancer Experts Together In Delhi - BW Healthcare World](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFlkYm9hYTZNS1pnVDFrczhQcDI4NTFNQjBFSVg3SVpWSktoTWJTNzBqQkl4c0gtbkM0RDhqLWNoTm9hNkdFcDN1SmtCazZJajI0UDhpbTdmRnFIMDhjV0l5NWlROTRLU3B5NlR2WFpYVjJ5OWs3TjhwbjhjbERYU1pTOXI2NXhHU29xUWVJTXoxWlR3U21XMnVQcVI1eFhqVUZjNnFMd0pzeFh2UC10Nm4yUVk?oc=5)
+
+2026-09-19 <span class="news-indication-tag">cancer</span>
+
+Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFlkYm9hYTZNS1pnVDFrczhQcDI4NTFNQjBFSVg3SVpWSktoTWJTNzBqQkl4c0gtbkM0RDhqLWNoTm9hNkdFcDN1SmtCazZJajI0UDhpbTdmRnFIMDhjV0l5NWlROTRLU3B5NlR2WFpYVjJ5OWs3TjhwbjhjbERYU1pTOXI2NXhHU29xUWVJTXoxWlR3U21XMnVQcVI1eFhqVUZjNnFMd0pzeFh2UC10Nm4yUVk?oc=5)
 
 ---
 
@@ -74,19 +90,11 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2d2VVh
 
 ---
 
-### [Women’s Heart Health May Start Changing In Late 30s, Way Before Menopause - Health and Me](https://news.google.com/rss/articles/CBMizgFBVV95cUxOU0xOSUhIVHNESFZIcUJaXzR2YWxOOXFJRXFzZDhrQWxYT0ZIYzNZeVJmVktwcVlQZDZUaVZZallMb21QRmhGRUN4MG1CXzQtcXA1c2pPZWZlSThLM0NOa1daT0VKOUdMcGsyQ3JjanEtSUJwUWkyRzlQTUF6bGF1Rzc3bTdISVFQWmgtZG9PZ01wSm5Pd2p0VTU1b290M0VEZGYtVWNfd0VxSXplemM3RThXVEpMU1RIY1hOZFNfQ2tOZTdPcXpvTHlUX1Z3UQ?oc=5)
+### [Midlife Onset of Increasing Pulse Pressure Not Linked to Menopause - The Cardiology Advisor](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0Q3X0NCc2VYX1BNRzRFNmpWZnoyTzh0SG4yTWJ5UkwzaE1YOWpvNko1dFhILVFWeU9QRXQycDhDQXN6LXc4TklnVEZKdXhad2QwSkZNSjRqN185TGRxajFzdlkxUnFNR1pvVGR3WEJsMTFGa3BmWVRuQk0zTUlaSWFMclNxQkgyS3lzcU5DVUJWdnFzRUVhb3JyODlCeW53YlBkdmhvWTlWWnhXNHc?oc=5)
 
 2026-09-18 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [Health and Me](https://news.google.com/rss/articles/CBMizgFBVV95cUxOU0xOSUhIVHNESFZIcUJaXzR2YWxOOXFJRXFzZDhrQWxYT0ZIYzNZeVJmVktwcVlQZDZUaVZZallMb21QRmhGRUN4MG1CXzQtcXA1c2pPZWZlSThLM0NOa1daT0VKOUdMcGsyQ3JjanEtSUJwUWkyRzlQTUF6bGF1Rzc3bTdISVFQWmgtZG9PZ01wSm5Pd2p0VTU1b290M0VEZGYtVWNfd0VxSXplemM3RThXVEpMU1RIY1hOZFNfQ2tOZTdPcXpvTHlUX1Z3UQ?oc=5)
-
----
-
-### [Like your tea or coffee very hot? A study of nearly 1 million adults found a striking cancer link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUt5MlZRZ3pKQTRMTVFwaEhFbC1hd1h2UWF1YXlDbTFxMkZZMGdHSTVmXzZWQWZWODBNMmVsYjRXYjJlSWVHLUlGQ21tS2JoVVNqeFlaRTRhTW1peXdtUldxZUxYWUJybXlSM3RGR3pGRzZreDcxTkJvUVg5M2ZleS11TzVwX0cweVdjMG54dldONUdpN21XcTJnMUVuVUE5c1I2b0I4ZjBLV3BoM2YtRFJRYU5jMTFJSXJ6REgzRk5scnM2c2FlbkFMUWZILVRjZ2xxVzB0eXNmNHlD?oc=5)
-
-2026-09-15 <span class="news-indication-tag">cancer</span>
-
-Source: [news-medical.net](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUt5MlZRZ3pKQTRMTVFwaEhFbC1hd1h2UWF1YXlDbTFxMkZZMGdHSTVmXzZWQWZWODBNMmVsYjRXYjJlSWVHLUlGQ21tS2JoVVNqeFlaRTRhTW1peXdtUldxZUxYWUJybXlSM3RGR3pGRzZreDcxTkJvUVg5M2ZleS11TzVwX0cweVdjMG54dldONUdpN21XcTJnMUVuVUE5c1I2b0I4ZjBLV3BoM2YtRFJRYU5jMTFJSXJ6REgzRk5scnM2c2FlbkFMUWZILVRjZ2xxVzB0eXNmNHlD?oc=5)
+Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0Q3X0NCc2VYX1BNRzRFNmpWZnoyTzh0SG4yTWJ5UkwzaE1YOWpvNko1dFhILVFWeU9QRXQycDhDQXN6LXc4TklnVEZKdXhad2QwSkZNSjRqN185TGRxajFzdlkxUnFNR1pvVGR3WEJsMTFGa3BmWVRuQk0zTUlaSWFMclNxQkgyS3lzcU5DVUJWdnFzRUVhb3JyODlCeW53YlBkdmhvWTlWWnhXNHc?oc=5)
 
 ---
 

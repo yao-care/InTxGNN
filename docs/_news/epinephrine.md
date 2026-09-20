@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>1 news articles</strong>, with 4 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,9 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Scientists map brain's mysterious 'blue place' and discover longest neuron ever measured in a mouse - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUZVTmgtU2Q0MndVbkE0SGhmcm8wclR3RTllLWNfSzBjd2hWZ3ZzVWdCUUxyalVPLUg1Q2dvNkZnbXdVVkcwX0RlMEtMejNQdDdlejJtOFFsSW1yYlpQU3pGSWVXXzFXNERnNFgtT2dLTy11OTRXTkFvdUZJay1pOS1iaHotemdsbHNoVg?oc=5)
-
-2026-09-17 <span class="news-drug-tag">NOREPINEPHRINE</span> <span class="news-drug-tag">Epinephrine</span> <span class="news-drug-tag">Norepinephrine</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUZVTmgtU2Q0MndVbkE0SGhmcm8wclR3RTllLWNfSzBjd2hWZ3ZzVWdCUUxyalVPLUg1Q2dvNkZnbXdVVkcwX0RlMEtMejNQdDdlejJtOFFsSW1yYlpQU3pGSWVXXzFXNERnNFgtT2dLTy11OTRXTkFvdUZJay1pOS1iaHotemdsbHNoVg?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

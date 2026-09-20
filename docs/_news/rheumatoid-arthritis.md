@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "RA (rheumatoid arthritis) News"
+title: "rheumatoid arthritis News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (rheumatoid arthritis). 2 articles, 21 related drugs."
+description: "Health news about rheumatoid arthritis. 1 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
 ---
 
-# RA (rheumatoid arthritis) News
+# rheumatoid arthritis News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about RA (rheumatoid arthritis)?">
-<strong>RA (rheumatoid arthritis)</strong> currently has <strong>2 news articles</strong> and 21 related drugs.
+<p class="key-answer" data-question="What news is there about rheumatoid arthritis?">
+<strong>rheumatoid arthritis</strong> currently has <strong>1 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “RA” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “rheumatoid arthritis” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -49,21 +49,13 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Fiji Declares National HIV Emergency Amid Sharp Rise in HIV Infections - Vajiram & Ravi](https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEF3aFpGUHQxOUZZSTZBMzQ1RzB6d29lMW5oSFZ3RWpaYVpUU0dualhMMV9zTTFwbkV5bmNOLTFzdldlN21mcGpMMkJUUkdUUzlNMVNJZEZ4MG1FQ1VCZ2pGckRMVHZ4QXIwSXZ3UVV1cXFrVTBmbXJEZEQ4TjRvZ2JZY1FoSVE?oc=5)
+### [CAR T-cell therapy tested for rheumatoid arthritis to eliminate disease-driving B cells](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZHByZkM5c2Y0VnZ4MFlkaUVmRm9Gak9FZXpZQzY0c1JDcHBUVEhVVE1QbjZCTWVpQkpXazJfR1NsUU5lVUdLaDdYR05fQnpmQ3VFU2x2bUVfV3RtbVNTdEFWckJ4LWx4VnhYYmluRnA4TENPM3Rnc25NQnNvZ20yeWo2YTc4RmJoWjM1a1hXZ1Q0akJSaVktM3FMQ3E4eVBRU1BVaDNUN2p2blBPb3EwYWJrY1k2R204NkdFQ0U2eE1HNWxHYXMwQ0htMmZERnl1WUp6bkQzM01pUTRG0gHiAUFVX3lxTE9yUzA1ajJBRFhOd1ZQSW01Y25WbjZRdlNrU2ZEcFVzRVdHdVYzWEFUX1RIWVNkbERkbzNsMldUSm5ldGdyM2I2R0pWQlhuV0xaQWFYd2xyLVhpaEVBenhiWENiVUtkbHJ3NjdOcXl4M0pyTmMtMDZieWUwQWI0SVR1cFRGSl9aZFdtdC1fQnhrZFl6ODNEUk5rXzQ5cVN2ZEpjUlA1MTA1dUFzc2ZycUNFWkpNcnE3c09SRzdjT0xqLUUtYkR3dWNZM0poMW53M3BhZnNCWFVMS2IzbEpjTGF0UUE?oc=5)
 
-2026-09-18
+2026-09-14
 
-Source: [Vajiram & Ravi](https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEF3aFpGUHQxOUZZSTZBMzQ1RzB6d29lMW5oSFZ3RWpaYVpUU0dualhMMV9zTTFwbkV5bmNOLTFzdldlN21mcGpMMkJUUkdUUzlNMVNJZEZ4MG1FQ1VCZ2pGckRMVHZ4QXIwSXZ3UVV1cXFrVTBmbXJEZEQ4TjRvZ2JZY1FoSVE?oc=5)
-
----
-
-### [FDA gives go-ahead for trial testing CAR T-cell therapy for progressive MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXRhTnJ2b3d5MnNtelIyT0JGeG52ZlVOQlhndTlZbnpzVFhxLU4yaFNtOFJ4UV9MR21jbjQ5VFowX0doM2ZvSlJXZTFGWWx3cHlUQTBQdEcycFlPSkZhaFdCTGlJUm9aUF9qRmZkSWdZNnp1ekZWZG9oUG1TNy00YU9uNFZWLThBOHBxUVJ3SW1tVGxhMVp6UlI4UHpPZzh6RndVU2JMVEtLNGIweXM1Zy1PYW4tRWlIMVBWVWhoRUJLYWVpUjRz?oc=5)
-
-2026-09-16
-
-Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXRhTnJ2b3d5MnNtelIyT0JGeG52ZlVOQlhndTlZbnpzVFhxLU4yaFNtOFJ4UV9MR21jbjQ5VFowX0doM2ZvSlJXZTFGWWx3cHlUQTBQdEcycFlPSkZhaFdCTGlJUm9aUF9qRmZkSWdZNnp1ekZWZG9oUG1TNy00YU9uNFZWLThBOHBxUVJ3SW1tVGxhMVp6UlI4UHpPZzh6RndVU2JMVEtLNGIweXM1Zy1PYW4tRWlIMVBWVWhoRUJLYWVpUjRz?oc=5)
+Source: [Mid-Day](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZHByZkM5c2Y0VnZ4MFlkaUVmRm9Gak9FZXpZQzY0c1JDcHBUVEhVVE1QbjZCTWVpQkpXazJfR1NsUU5lVUdLaDdYR05fQnpmQ3VFU2x2bUVfV3RtbVNTdEFWckJ4LWx4VnhYYmluRnA4TENPM3Rnc25NQnNvZ20yeWo2YTc4RmJoWjM1a1hXZ1Q0akJSaVktM3FMQ3E4eVBRU1BVaDNUN2p2blBPb3EwYWJrY1k2R204NkdFQ0U2eE1HNWxHYXMwQ0htMmZERnl1WUp6bkQzM01pUTRG0gHiAUFVX3lxTE9yUzA1ajJBRFhOd1ZQSW01Y25WbjZRdlNrU2ZEcFVzRVdHdVYzWEFUX1RIWVNkbERkbzNsMldUSm5ldGdyM2I2R0pWQlhuV0xaQWFYd2xyLVhpaEVBenhiWENiVUtkbHJ3NjdOcXl4M0pyTmMtMDZieWUwQWI0SVR1cFRGSl9aZFdtdC1fQnhrZFl6ODNEUk5rXzQ5cVN2ZEpjUlA1MTA1dUFzc2ZycUNFWkpNcnE3c09SRzdjT0xqLUUtYkR3dWNZM0poMW53M3BhZnNCWFVMS2IzbEpjTGF0UUE?oc=5)
 
 ---
 
