@@ -14,7 +14,7 @@ permalink: /news/silver/
 ---
 
 <p class="key-answer" data-question="What news is there about Silver?">
-<strong>Silver</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Silver</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ This page combines the AI-predicted indications for Silver with the latest healt
 <p><a href="{{ '/drugs/silver/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Development and assessment of silver-zinc dual doped silymarin nanocrystals for multifunctional photocatalytic, antibacterial, and cytotoxic applications](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KcnhuMlhKWE5qX21Mc3U2NGRHR0U3ZjBHUkRNN1hEcnBJdExkcXBZNWNMR0lFZ2tpb1EtNC05RXlfMERoekRnX3R6aWtGTGROZWE4aG5IZFB3VUloQlNn?oc=5)
+
+2026-09-20 <span class="news-drug-tag">Silver</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KcnhuMlhKWE5qX21Mc3U2NGRHR0U3ZjBHUkRNN1hEcnBJdExkcXBZNWNMR0lFZ2tpb1EtNC05RXlfMERoekRnX3R6aWtGTGROZWE4aG5IZFB3VUloQlNn?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [World Alzheimer’s Day 2026: Building brain resilience in your 30s and 40s for lifelong health](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONGxrNXh5ZG9jcy04U0o2VW10dkw2MEExRms4am96aDZmUkFHcDdDMmpJYXlpMkVaaU1MWVM3X2h3Y1AxeGY5eDdiOFhfaDJTMTlUUTBKbHRGWl9sV2N5WmJLb3pSVnJ0cWlxeXN2bEZDS2t4dTZUWUNZUmFFM0FiOHpmd1FPUjJuTGVtLS1LWjVhbUNrLUVaX3AyTmVha2FVUEUxQm84TmI1azNpdVNVaDVKdUpTbDFqWDg1ZlMzQ1NVaUhydThuVW9FWG1SYWtmMzVUSWF1UGVvVVZfbTZKU1N1ejZnM2Y1MWZqZUZ5QzRuTjDSAfgBQVVfeXFMTXBRWDExSl9LanhwRnI0R0ZIZFZZazVxUFBfTEgtRlVDTVhZRWdwYlc2cjV2UWpLT1Y3LV9GSWRqWGFZdm5DOWRIWmJiRmkzRlhlTHo2WkhmWk1YT0Fma0VON0RQdEFDajYxYUtJMEFRT3BEb0syQWh1dldKem1sd1dBdFNESS15SlF0YzRmZnVvOGpxaEdIQkJ5YmFYZDlaOHpJNi1BT0RzU0VqaS1BM1VHQkxnVVV5ZDBJYi1qRHNiLWlPbG12dDJGQVBIMk9uVlZDSi1xNlNkVmstOVZrOTlJbVNvS0RZb21jTFd4RUhVMDlWSnUyTEo?oc=5)
+
+2026-09-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [mid-day.com](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONGxrNXh5ZG9jcy04U0o2VW10dkw2MEExRms4am96aDZmUkFHcDdDMmpJYXlpMkVaaU1MWVM3X2h3Y1AxeGY5eDdiOFhfaDJTMTlUUTBKbHRGWl9sV2N5WmJLb3pSVnJ0cWlxeXN2bEZDS2t4dTZUWUNZUmFFM0FiOHpmd1FPUjJuTGVtLS1LWjVhbUNrLUVaX3AyTmVha2FVUEUxQm84TmI1azNpdVNVaDVKdUpTbDFqWDg1ZlMzQ1NVaUhydThuVW9FWG1SYWtmMzVUSWF1UGVvVVZfbTZKU1N1ejZnM2Y1MWZqZUZ5QzRuTjDSAfgBQVVfeXFMTXBRWDExSl9LanhwRnI0R0ZIZFZZazVxUFBfTEgtRlVDTVhZRWdwYlc2cjV2UWpLT1Y3LV9GSWRqWGFZdm5DOWRIWmJiRmkzRlhlTHo2WkhmWk1YT0Fma0VON0RQdEFDajYxYUtJMEFRT3BEb0syQWh1dldKem1sd1dBdFNESS15SlF0YzRmZnVvOGpxaEdIQkJ5YmFYZDlaOHpJNi1BT0RzU0VqaS1BM1VHQkxnVVV5ZDBJYi1qRHNiLWlPbG12dDJGQVBIMk9uVlZDSi1xNlNkVmstOVZrOTlJbVNvS0RZb21jTFd4RUhVMDlWSnUyTEo?oc=5)
+
+---
 
 ### [Can we protect brain health as we age? 4 everyday habits doctor says can lower dementia risk - The Times of India](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcDNfb0JkYk5GbmVhNE5kWWRJREpYMFZULWpxaDZSLTdBTGJvWnBWMUVDS09xa2tMalJnSzhtUkpLR0F0UXZweHdPRUszNHBGZkZfSXp3VWlQZlFhR2NvZ3NBRGRqSVBVcmQ5aTJacTlJbXNCXzI4N1QyRk84NVJLZHdCdjNFTHZVYXJSN1Y4QVY4M2xoSHFkbGVYYkVYb3pRNVFrYVgwT0JjajR1N0xjNWVKeGE5T0RSNk9Ha0kzSnY0Z3NwSVdZMXl0UzR2WUJzUWhaSWwwY3Rjbi00ZVFNR2RMQ20xZlRhTEtrMXQ2NDhXd9IB9wFBVV95cUxQM1lYenZYYWdYTlBZUURxN3p6Ml9tOExiNUxJT0dGSFZqQXlCMFI5amxQekdRLVVfOGZPZkhTaGw3NUdaZ1FWYllIQmowQ3FrZHJ2bGlTUjh0NWx3bGRoMVVYampoY0hURUtlc0w2THZQRTNXbFVaVDdpVUo2WWVfdnFKekpXMjlzSEpROGUzSEFRTUY5OTFBLTJvOHY5aVZwaE9aTFp3eE9TUjZpVmo2dWZteFQ3NHpJRU5LdkNLcHBHdmpaNFFaMW9talFBVnozZ0dfQVRlQ0FXbExyZzJkM0VVMG45eDduUm1kZ0JjU2RvRTBWX3Jz?oc=5)
 

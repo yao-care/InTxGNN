@@ -14,7 +14,7 @@ permalink: /news/dasatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,31 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (12)
+
+### [World Alzheimer’s Day 2026: Building brain resilience in your 30s and 40s for lifelong health](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONGxrNXh5ZG9jcy04U0o2VW10dkw2MEExRms4am96aDZmUkFHcDdDMmpJYXlpMkVaaU1MWVM3X2h3Y1AxeGY5eDdiOFhfaDJTMTlUUTBKbHRGWl9sV2N5WmJLb3pSVnJ0cWlxeXN2bEZDS2t4dTZUWUNZUmFFM0FiOHpmd1FPUjJuTGVtLS1LWjVhbUNrLUVaX3AyTmVha2FVUEUxQm84TmI1azNpdVNVaDVKdUpTbDFqWDg1ZlMzQ1NVaUhydThuVW9FWG1SYWtmMzVUSWF1UGVvVVZfbTZKU1N1ejZnM2Y1MWZqZUZ5QzRuTjDSAfgBQVVfeXFMTXBRWDExSl9LanhwRnI0R0ZIZFZZazVxUFBfTEgtRlVDTVhZRWdwYlc2cjV2UWpLT1Y3LV9GSWRqWGFZdm5DOWRIWmJiRmkzRlhlTHo2WkhmWk1YT0Fma0VON0RQdEFDajYxYUtJMEFRT3BEb0syQWh1dldKem1sd1dBdFNESS15SlF0YzRmZnVvOGpxaEdIQkJ5YmFYZDlaOHpJNi1BT0RzU0VqaS1BM1VHQkxnVVV5ZDBJYi1qRHNiLWlPbG12dDJGQVBIMk9uVlZDSi1xNlNkVmstOVZrOTlJbVNvS0RZb21jTFd4RUhVMDlWSnUyTEo?oc=5)
+
+2026-09-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [mid-day.com](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONGxrNXh5ZG9jcy04U0o2VW10dkw2MEExRms4am96aDZmUkFHcDdDMmpJYXlpMkVaaU1MWVM3X2h3Y1AxeGY5eDdiOFhfaDJTMTlUUTBKbHRGWl9sV2N5WmJLb3pSVnJ0cWlxeXN2bEZDS2t4dTZUWUNZUmFFM0FiOHpmd1FPUjJuTGVtLS1LWjVhbUNrLUVaX3AyTmVha2FVUEUxQm84TmI1azNpdVNVaDVKdUpTbDFqWDg1ZlMzQ1NVaUhydThuVW9FWG1SYWtmMzVUSWF1UGVvVVZfbTZKU1N1ejZnM2Y1MWZqZUZ5QzRuTjDSAfgBQVVfeXFMTXBRWDExSl9LanhwRnI0R0ZIZFZZazVxUFBfTEgtRlVDTVhZRWdwYlc2cjV2UWpLT1Y3LV9GSWRqWGFZdm5DOWRIWmJiRmkzRlhlTHo2WkhmWk1YT0Fma0VON0RQdEFDajYxYUtJMEFRT3BEb0syQWh1dldKem1sd1dBdFNESS15SlF0YzRmZnVvOGpxaEdIQkJ5YmFYZDlaOHpJNi1BT0RzU0VqaS1BM1VHQkxnVVV5ZDBJYi1qRHNiLWlPbG12dDJGQVBIMk9uVlZDSi1xNlNkVmstOVZrOTlJbVNvS0RZb21jTFd4RUhVMDlWSnUyTEo?oc=5)
+
+---
+
+### [Sore throat after cancer treatment: What it could mean - The Indian Express](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVkyclFMWjA2NG5Ra1JEQVpQd1R5MlZicWNRWENYeWVnV0NqYlBrRkxsQnRwOXVFUTBXMGwtQlFGWGRvQ1M1TUhSTWpic0tHVGdlejEwS1hoaFJKZmdoVEJDSFFtYXV3YTdYOE44bVcyNVZlcklUcUNQSzVldm5sTjkzWHlwTzRGcTNBRnZlMnFtRkJuZXJiSjQtV2tGVHNfOXdFRG9pNGtzc3htcmF1c09fTTjSAbsBQVVfeXFMTU1wWDBaQTliRmZiRnRpX2MwLTF1S3BIcGdvd2V4NjR3VHMtazNObFB1WjZsOHpLVkowczlaUkN4M3d3bnJPTUJzbG5uRURqeE80bHZqVHkycHJCU1BCVE03V1RQaTdlUUJEVWVEUWRNSml0V3FOZW9XMnZLQTZGU2xRZXN4bGJwakFfMDlQU0Z5djN5VWEwbjduc1h0LU5OWndqakt6VndEampkc01FcDJDY3VvVFo4T0ViQQ?oc=5)
+
+2026-09-20 <span class="news-indication-tag">cancer</span>
+
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVkyclFMWjA2NG5Ra1JEQVpQd1R5MlZicWNRWENYeWVnV0NqYlBrRkxsQnRwOXVFUTBXMGwtQlFGWGRvQ1M1TUhSTWpic0tHVGdlejEwS1hoaFJKZmdoVEJDSFFtYXV3YTdYOE44bVcyNVZlcklUcUNQSzVldm5sTjkzWHlwTzRGcTNBRnZlMnFtRkJuZXJiSjQtV2tGVHNfOXdFRG9pNGtzc3htcmF1c09fTTjSAbsBQVVfeXFMTU1wWDBaQTliRmZiRnRpX2MwLTF1S3BIcGdvd2V4NjR3VHMtazNObFB1WjZsOHpLVkowczlaUkN4M3d3bnJPTUJzbG5uRURqeE80bHZqVHkycHJCU1BCVE03V1RQaTdlUUJEVWVEUWRNSml0V3FOZW9XMnZLQTZGU2xRZXN4bGJwakFfMDlQU0Z5djN5VWEwbjduc1h0LU5OWndqakt6VndEampkc01FcDJDY3VvVFo4T0ViQQ?oc=5)
+
+---
+
+### [A melanoma vaccine was hailed as a breakthrough. Which cancers are next?](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd01EWFpGRkJ5Q09ndFBoU1JUWmlCY0NtTlVOUG1kbXFlYVh6Vm1NeHhBc2ktdUZ2RHB2dG9zVUNRdmpRN1RidnZjMGtKRjZuSFJwRm45V1E5bmkzRGlJQ0g3WWh2YTI3bkwzNVh0N3gxS25JTFZLVGNGb2R1WHV6a1FYRzBfdlZBMWRiRE5xNngwTjNOU1ZFUl9yZllXSzFsRDJtWXRGdzhqb0pSVGRJc0RINA?oc=5)
+
+2026-09-19 <span class="news-indication-tag">cancer</span>
+
+Source: [washingtonpost.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd01EWFpGRkJ5Q09ndFBoU1JUWmlCY0NtTlVOUG1kbXFlYVh6Vm1NeHhBc2ktdUZ2RHB2dG9zVUNRdmpRN1RidnZjMGtKRjZuSFJwRm45V1E5bmkzRGlJQ0g3WWh2YTI3bkwzNVh0N3gxS25JTFZLVGNGb2R1WHV6a1FYRzBfdlZBMWRiRE5xNngwTjNOU1ZFUl9yZllXSzFsRDJtWXRGdzhqb0pSVGRJc0RINA?oc=5)
+
+---
 
 ### [Don’t sip that tea very hot](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkx2ZUpya0NNZkpGWDlaV0F6MEJMbWhKNmg1LXRtdG43NEJsdE9naUMxeWJYYnpvdnBNRzE3Y0JzSHBxbWxnS19qSnJDTHcwMDk2TjVRYzFCU0JqNEUxOTl3YTJSdXp3N053T18wQnpSQUZXN256cWxxOXBmSGhwVUVWSEEzbGhCVktR0gGSAUFVX3lxTE5jRUxzS1EweWR5YVpPeHVzVGM5dGZhNW4zRU9xRlNVUkpPYkg3eGIta3BvRkc0eXJKSnZFRXQyVjEtQWxvRHVTZFdpUUhUb1E4YmVoZXlHUVp1UWFQMl9hOE0yMXh0T0RuUmZ3c29ja2VyWDA1WThtc1JZMlJIbTFHbUtBRHh2NzJRSzE5VFhmM213?oc=5)
 
@@ -58,11 +82,19 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMieEFVX3lxTFAzNlB0OVV
 
 ---
 
+### [Study Identifies Genetic Risk Factor for Lung Cancer in Never-Smokers - The Indian Practitioner](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
+
+2026-09-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
+
+---
+
 ### [Loss of Y chromosome in men could be early warning sign of cancer: Study | To read the study in detail | Inshorts](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2tOakN4ZXNWMFZwYUJoT2hnc1E1SVhzT0FJWktqdzdncjVDaGN0RW90dXFuajhFSjVocE8zdTM0ME55ZXZ2NkJ1UVlDOWJjRDlfN0EybmNuNUJiZVdUQlZINVFEdVgyUXNpVElEZW9jRlVqUjVvdVJhV2ZTX2hyN0lQN2cxVFFPdjJxMXlSVk1YQlNKYlI3R3lxSUFlOHhMM3VsbVZ0djAtWmprSndTTzFpSEtvQdIBuwFBVV95cUxPTnVMUXl0dkI2OFVKb2pGTHhDc3hnZmJObl9tRnVsdWk2b09hb09SbHRQOWMya3owYldWbHh0RjV2RjFNMkxWdFVPWWxOWWRLVHdGMDk1eldCOEhqVjEwdldna3ZUU3gxaU55eWZwckc1VFNPMWdBdnZzeWlJRDJCaEk2MWFLUjc2cTlONWpnT2ZuazVDQmpNSTJzUm5lc081dHdiRGdCS0tZc3o1dC1PZmdITUdDSXUyOVpv?oc=5)
 
 2026-09-19 <span class="news-indication-tag">cancer</span>
 
-Source: [inshorts.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2tOakN4ZXNWMFZwYUJoT2hnc1E1SVhzT0FJWktqdzdncjVDaGN0RW90dXFuajhFSjVocE8zdTM0ME55ZXZ2NkJ1UVlDOWJjRDlfN0EybmNuNUJiZVdUQlZINVFEdVgyUXNpVElEZW9jRlVqUjVvdVJhV2ZTX2hyN0lQN2cxVFFPdjJxMXlSVk1YQlNKYlI3R3lxSUFlOHhMM3VsbVZ0djAtWmprSndTTzFpSEtvQdIBuwFBVV95cUxPTnVMUXl0dkI2OFVKb2pGTHhDc3hnZmJObl9tRnVsdWk2b09hb09SbHRQOWMya3owYldWbHh0RjV2RjFNMkxWdFVPWWxOWWRLVHdGMDk1eldCOEhqVjEwdldna3ZUU3gxaU55eWZwckc1VFNPMWdBdnZzeWlJRDJCaEk2MWFLUjc2cTlONWpnT2ZuazVDQmpNSTJzUm5lc081dHdiRGdCS0tZc3o1dC1PZmdITUdDSXUyOVpv?oc=5)
+Source: [Inshorts](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2tOakN4ZXNWMFZwYUJoT2hnc1E1SVhzT0FJWktqdzdncjVDaGN0RW90dXFuajhFSjVocE8zdTM0ME55ZXZ2NkJ1UVlDOWJjRDlfN0EybmNuNUJiZVdUQlZINVFEdVgyUXNpVElEZW9jRlVqUjVvdVJhV2ZTX2hyN0lQN2cxVFFPdjJxMXlSVk1YQlNKYlI3R3lxSUFlOHhMM3VsbVZ0djAtWmprSndTTzFpSEtvQdIBuwFBVV95cUxPTnVMUXl0dkI2OFVKb2pGTHhDc3hnZmJObl9tRnVsdWk2b09hb09SbHRQOWMya3owYldWbHh0RjV2RjFNMkxWdFVPWWxOWWRLVHdGMDk1eldCOEhqVjEwdldna3ZUU3gxaU55eWZwckc1VFNPMWdBdnZzeWlJRDJCaEk2MWFLUjc2cTlONWpnT2ZuazVDQmpNSTJzUm5lc081dHdiRGdCS0tZc3o1dC1PZmdITUdDSXUyOVpv?oc=5)
 
 ---
 
@@ -90,19 +122,19 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi8gFBVV95cU
 
 ---
 
-### [The Big Questions in Cancer Immunotherapy: Are Personalized Cancer Vaccines Finally Ready to Deliver?](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2d2VVhBWHpPdU96QVVDRGttMnFneERud3BlcFRXMHlheVBsV0ZLSkRhY1UwU3VWMVR0dllhMEhla0kxSDVYZDc2TkY3aE1NTUxoaGl4Qmtwb0o5bUVVclNZekY5cVJCNjBILVc4NHJCOHVQb2ZPUHo0MS1sRDlGYllEMG4?oc=5)
-
-2026-09-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">head and neck cancer</span>
-
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2d2VVhBWHpPdU96QVVDRGttMnFneERud3BlcFRXMHlheVBsV0ZLSkRhY1UwU3VWMVR0dllhMEhla0kxSDVYZDc2TkY3aE1NTUxoaGl4Qmtwb0o5bUVVclNZekY5cVJCNjBILVc4NHJCOHVQb2ZPUHo0MS1sRDlGYllEMG4?oc=5)
-
----
-
 ### [Terminal lucidity: when dying dementia patients regain awareness](https://news.google.com/rss/articles/CBMikAFBVV95cUxQY3pFRmNQMTd1c1lLajg3d0F0aG1LMFV5SDFPUjFhR1lLQlhYMkVPXzJQRlZWcnlGaEhhR21yOWFJQWhLTUdqS1VTUVl4bXV2WGIwZXpYSnJuaTZrZ1hCR1NfWWh4aS00MlBlZG9TNm9DekVhVlZHX1V5aGNLZ2ZDYWNNdDVEdkpQZ1dHeWY0cmo?oc=5)
 
 2026-09-16 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [Psyche](https://news.google.com/rss/articles/CBMikAFBVV95cUxQY3pFRmNQMTd1c1lLajg3d0F0aG1LMFV5SDFPUjFhR1lLQlhYMkVPXzJQRlZWcnlGaEhhR21yOWFJQWhLTUdqS1VTUVl4bXV2WGIwZXpYSnJuaTZrZ1hCR1NfWWh4aS00MlBlZG9TNm9DekVhVlZHX1V5aGNLZ2ZDYWNNdDVEdkpQZ1dHeWY0cmo?oc=5)
+
+---
+
+### [‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
+
+2026-09-16 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">cold</span>
+
+Source: [WIRED](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
 
 ---
 

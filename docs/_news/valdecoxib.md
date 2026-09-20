@@ -14,7 +14,7 @@ permalink: /news/valdecoxib/
 ---
 
 <p class="key-answer" data-question="What news is there about Valdecoxib?">
-<strong>Valdecoxib</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
+<strong>Valdecoxib</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,21 +26,15 @@ This page combines the AI-predicted indications for Valdecoxib with the latest h
 <ul>
 <li><strong>Predicted indications (2)</strong>:<ul>
 <li>osteoarthritis susceptibility (99.5%)</li>
-<li class="indication-matched">rheumatoid arthritis (99.1%)<span class="indication-tag">📰 rheumatoid arthritis</span></li>
+<li>rheumatoid arthritis (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/valdecoxib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [CAR T-cell therapy tested for rheumatoid arthritis to eliminate disease-driving B cells](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZHByZkM5c2Y0VnZ4MFlkaUVmRm9Gak9FZXpZQzY0c1JDcHBUVEhVVE1QbjZCTWVpQkpXazJfR1NsUU5lVUdLaDdYR05fQnpmQ3VFU2x2bUVfV3RtbVNTdEFWckJ4LWx4VnhYYmluRnA4TENPM3Rnc25NQnNvZ20yeWo2YTc4RmJoWjM1a1hXZ1Q0akJSaVktM3FMQ3E4eVBRU1BVaDNUN2p2blBPb3EwYWJrY1k2R204NkdFQ0U2eE1HNWxHYXMwQ0htMmZERnl1WUp6bkQzM01pUTRG0gHiAUFVX3lxTE9yUzA1ajJBRFhOd1ZQSW01Y25WbjZRdlNrU2ZEcFVzRVdHdVYzWEFUX1RIWVNkbERkbzNsMldUSm5ldGdyM2I2R0pWQlhuV0xaQWFYd2xyLVhpaEVBenhiWENiVUtkbHJ3NjdOcXl4M0pyTmMtMDZieWUwQWI0SVR1cFRGSl9aZFdtdC1fQnhrZFl6ODNEUk5rXzQ5cVN2ZEpjUlA1MTA1dUFzc2ZycUNFWkpNcnE3c09SRzdjT0xqLUUtYkR3dWNZM0poMW53M3BhZnNCWFVMS2IzbEpjTGF0UUE?oc=5)
-
-2026-09-14 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">multiple sclerosis</span>
-
-Source: [Mid-Day](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZHByZkM5c2Y0VnZ4MFlkaUVmRm9Gak9FZXpZQzY0c1JDcHBUVEhVVE1QbjZCTWVpQkpXazJfR1NsUU5lVUdLaDdYR05fQnpmQ3VFU2x2bUVfV3RtbVNTdEFWckJ4LWx4VnhYYmluRnA4TENPM3Rnc25NQnNvZ20yeWo2YTc4RmJoWjM1a1hXZ1Q0akJSaVktM3FMQ3E4eVBRU1BVaDNUN2p2blBPb3EwYWJrY1k2R204NkdFQ0U2eE1HNWxHYXMwQ0htMmZERnl1WUp6bkQzM01pUTRG0gHiAUFVX3lxTE9yUzA1ajJBRFhOd1ZQSW01Y25WbjZRdlNrU2ZEcFVzRVdHdVYzWEFUX1RIWVNkbERkbzNsMldUSm5ldGdyM2I2R0pWQlhuV0xaQWFYd2xyLVhpaEVBenhiWENiVUtkbHJ3NjdOcXl4M0pyTmMtMDZieWUwQWI0SVR1cFRGSl9aZFdtdC1fQnhrZFl6ODNEUk5rXzQ5cVN2ZEpjUlA1MTA1dUFzc2ZycUNFWkpNcnE3c09SRzdjT0xqLUUtYkR3dWNZM0poMW53M3BhZnNCWFVMS2IzbEpjTGF0UUE?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
