@@ -14,7 +14,7 @@ permalink: /news/ascorbic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Ascorbic Acid?">
-<strong>Ascorbic Acid</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Ascorbic Acid</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <p><a href="{{ '/drugs/ascorbic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [In 2019, NASA sent tiny human “organs-on-chips” into orbit and found that kidney cells showed injury and - The Times of India](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPdWR1ODhDSWNQQmJ3MEZXcGhad2VjS01xOVAwN1dwRUFjMDRsd25ZV0p5dGtmUDlLal9VMFQzNHVxSFY1U2VIZmYtMUhacnJCRkpjR25oZVpQVnFHcDRCd1pmVndZUFJNdTIxQl90RTg4V0xmNmFyLWY3NEtzbHpPa2NIcC1icXNMTDY1WDZRZ00zem52M3FKdVZsOVpYelNYang5NzlBa1hFVWF5VXhNT2lhdkM5bG5wTTFSc0M4bldDMUVNOXlDem5MbHVtRTZJV0RrdGRiOHJ0ZDl4eUJXTnZjVGIwNmtvaTJJczNsTS1la2pwaFhaTzFEUUpTRmNEYXN3M3V5MFJSd0dzUTNSRlY1Ym5wbXlFM2RvQm9tOVZneGN6dlVWNzB0bF92c3J6blpMbHRFUy0xZzjSAcACQVVfeXFMUFB4TzlOSXdxVWQ4MlUxNnN2b3dzYmRlVnd4OWlSQV9sWUx0M1dLRVRkb0RYYW1HV28yeDJmX192QlRwTWlKRU1wTGVQLXlJd0tfcmFmVThOQVJqTEFTZUxMTEQ4cWVHVXI4ZWN0enFVUWxGTTB6Y2twb0dCaFByOHJncUhNUTFCYWhCNmtkVkVaU180WWl2bG9MOEdSVXZuRzFST1Qtckt1TTJYN3JPWVNEMHl5ZEdNUXd5TG4weWQyNTV6bjVDTWZzRFAtdERkeDMxaEVTQlNYN1VmcUNfUWw5SmpjVF85OXkzc1BnVy0xZU95RFpUMVB5RnFjVVNQa1JOQURwZWI4MlBFQ3drT0xqeEtDcGV1OEM4U3VTb01rckhiM2oyVW9kOWRiMVRmalFPTEpKWC1jb0Nad2dKRUc?oc=5)
-
-2026-09-19 <span class="news-indication-tag">injury</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPdWR1ODhDSWNQQmJ3MEZXcGhad2VjS01xOVAwN1dwRUFjMDRsd25ZV0p5dGtmUDlLal9VMFQzNHVxSFY1U2VIZmYtMUhacnJCRkpjR25oZVpQVnFHcDRCd1pmVndZUFJNdTIxQl90RTg4V0xmNmFyLWY3NEtzbHpPa2NIcC1icXNMTDY1WDZRZ00zem52M3FKdVZsOVpYelNYang5NzlBa1hFVWF5VXhNT2lhdkM5bG5wTTFSc0M4bldDMUVNOXlDem5MbHVtRTZJV0RrdGRiOHJ0ZDl4eUJXTnZjVGIwNmtvaTJJczNsTS1la2pwaFhaTzFEUUpTRmNEYXN3M3V5MFJSd0dzUTNSRlY1Ym5wbXlFM2RvQm9tOVZneGN6dlVWNzB0bF92c3J6blpMbHRFUy0xZzjSAcACQVVfeXFMUFB4TzlOSXdxVWQ4MlUxNnN2b3dzYmRlVnd4OWlSQV9sWUx0M1dLRVRkb0RYYW1HV28yeDJmX192QlRwTWlKRU1wTGVQLXlJd0tfcmFmVThOQVJqTEFTZUxMTEQ4cWVHVXI4ZWN0enFVUWxGTTB6Y2twb0dCaFByOHJncUhNUTFCYWhCNmtkVkVaU180WWl2bG9MOEdSVXZuRzFST1Qtckt1TTJYN3JPWVNEMHl5ZEdNUXd5TG4weWQyNTV6bjVDTWZzRFAtdERkeDMxaEVTQlNYN1VmcUNfUWw5SmpjVF85OXkzc1BnVy0xZU95RFpUMVB5RnFjVVNQa1JOQURwZWI4MlBFQ3drT0xqeEtDcGV1OEM4U3VTb01rckhiM2oyVW9kOWRiMVRmalFPTEpKWC1jb0Nad2dKRUc?oc=5)
-
----
+## Related News (1)
 
 ### [Machine Learning Predicts Acute Kidney Injury Risk](https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0JKX0tNbndweHBPRHh5Mm5HZFZCRFExWm9XZmhmSjllWnlUQkJhVU93VmFhZXAwYXpxNVcxa19sWkRfcXZYUmZsbDllc0diQzM2ZHRRbTFsX3BNQ0ZQOE9nS25TS3dtdEFpZXU3cUhraG8zOHVGZktfdFEzcFhUQzA3cjNOTGJCXzdhVVFlVWNZSjJ2WmZ3WHd3?oc=5)
 
 2026-09-17 <span class="news-indication-tag">injury</span>
 
-Source: [emjreviews.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0JKX0tNbndweHBPRHh5Mm5HZFZCRFExWm9XZmhmSjllWnlUQkJhVU93VmFhZXAwYXpxNVcxa19sWkRfcXZYUmZsbDllc0diQzM2ZHRRbTFsX3BNQ0ZQOE9nS25TS3dtdEFpZXU3cUhraG8zOHVGZktfdFEzcFhUQzA3cjNOTGJCXzdhVVFlVWNZSjJ2WmZ3WHd3?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0JKX0tNbndweHBPRHh5Mm5HZFZCRFExWm9XZmhmSjllWnlUQkJhVU93VmFhZXAwYXpxNVcxa19sWkRfcXZYUmZsbDllc0diQzM2ZHRRbTFsX3BNQ0ZQOE9nS25TS3dtdEFpZXU3cUhraG8zOHVGZktfdFEzcFhUQzA3cjNOTGJCXzdhVVFlVWNZSjJ2WmZ3WHd3?oc=5)
 
 ---
 

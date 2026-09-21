@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="What news is there about Nitrofurantoin?">
-<strong>Nitrofurantoin</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Nitrofurantoin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Nitrofurantoin with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li class="indication-matched">rheumatoid arthritis (99.9%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (99.9%)</li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.8%)</li>
 <li>brain small vessel disease 1 with or without ocular anomalies (99.8%)</li>
 <li>diabetic nephropathy (99.8%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Nitrofurantoin with the late
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Fiji’s HIV Emergency a Wake-Up Call for Samoa and the Pacific - Samoa Global News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
-
-2026-09-20 <span class="news-indication-tag">RA</span>
-
-Source: [Samoa Global News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

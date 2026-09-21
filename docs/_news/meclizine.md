@@ -38,11 +38,11 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 
 ## Related News (1)
 
-### [‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
+### [Is It Covid-19 Or Just A Cold? An Expert Explains How To Tell And Why It Matters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ2dXdURBVk0yTDVuMTYxUEtmRDdTYnNLUzhDNzBuNW1sSk1SSnhxT3hYTjJqeEdmSkFUdnlpb1VOUFpvbXZHcFZuVk9vN3FFSG1IWlZRazU2MDE3R1UtX29IaEhvaFhLbW1aUk9lNVBScTdobzA1NjFqbDh0dzBnSFRrb1FMNWJUUDFqMDlsbmFJbUF1TUgxeWZXM0hiMnBnQnNoTmxKSjRMR1AtVXRIU0xRMjJiSEE?oc=5)
 
-2026-09-16 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">cold</span>
+2026-09-21 <span class="news-indication-tag">cold</span>
 
-Source: [WIRED](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ2dXdURBVk0yTDVuMTYxUEtmRDdTYnNLUzhDNzBuNW1sSk1SSnhxT3hYTjJqeEdmSkFUdnlpb1VOUFpvbXZHcFZuVk9vN3FFSG1IWlZRazU2MDE3R1UtX29IaEhvaFhLbW1aUk9lNVBScTdobzA1NjFqbDh0dzBnSFRrb1FMNWJUUDFqMDlsbmFJbUF1TUgxeWZXM0hiMnBnQnNoTmxKSjRMR1AtVXRIU0xRMjJiSEE?oc=5)
 
 ---
 

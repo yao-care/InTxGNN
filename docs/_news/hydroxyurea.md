@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="What news is there about Hydroxyurea?">
-<strong>Hydroxyurea</strong> currently has <strong>10 news articles</strong>, with 9 predicted indications.
+<strong>Hydroxyurea</strong> currently has <strong>7 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,37 @@ This page combines the AI-predicted indications for Hydroxyurea with the latest 
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (7)
+
+### [Blood test combines cell-free DNA signals to detect head and neck cancers - Labmate Online](https://news.google.com/rss/articles/CBMihAJBVV95cUxQenRqYTltYnBhRlNkS29MSl91VVN2dU8xMWhXb0VWc1VZWW82anVmbDBxZXBJd0lsZW9FN1JvQy1wUDdsT2wxcV80cUg5dlhJWGxWMVJqVjY1NEVFeTFTMjdfUW1ITjVNMC00SGFkQzFuaHcxX2lHUXhFYWpDZWptWHRLOWRYOVZla05aaEJNcTVFUHphQV9wUzRjRUJPNXdrOFUxR1hXdzZtdm04TWN0UVR3YUpWSlhWbzZQTFRYZjF6aWo3YWlHT3FQcnJZbzFvTTRpQlo1c2psYW1BeFU4SGNaaTZsMmtHVVdGQ00ySURQZ3hYMndyeFZuLThpOXUtck5GSw?oc=5)
+
+2026-09-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">head and neck cancer</span>
+
+Source: [Labmate Online](https://news.google.com/rss/articles/CBMihAJBVV95cUxQenRqYTltYnBhRlNkS29MSl91VVN2dU8xMWhXb0VWc1VZWW82anVmbDBxZXBJd0lsZW9FN1JvQy1wUDdsT2wxcV80cUg5dlhJWGxWMVJqVjY1NEVFeTFTMjdfUW1ITjVNMC00SGFkQzFuaHcxX2lHUXhFYWpDZWptWHRLOWRYOVZla05aaEJNcTVFUHphQV9wUzRjRUJPNXdrOFUxR1hXdzZtdm04TWN0UVR3YUpWSlhWbzZQTFRYZjF6aWo3YWlHT3FQcnJZbzFvTTRpQlo1c2psYW1BeFU4SGNaaTZsMmtHVVdGQ00ySURQZ3hYMndyeFZuLThpOXUtck5GSw?oc=5)
+
+---
+
+### [Loss of the Y Chromosome Could Pave the Way for Cancer To Develop](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWdCTmZ3Snd3U3VrVXlWejQ3VHd0aE9BWHhnV3dzZXNIY2tWSWhvazFpOW93S0dlN2NMQjlzc0Q1eDFRbXdOTDllYnJfNFp5dzllM3FHd3Bwc3FFM01jMjdmSkR5YVBjZnB4WU1VYWRLbHRUcXR5NGtlV1ZWVkJVVkRyOGZsNjNHekY5ODBMemJIaW1MZWRLWXRzek1hMjNqYW5TZi1SZ3plMUY0NDhFX3U5V2FsQQ?oc=5)
+
+2026-09-21 <span class="news-indication-tag">cancer</span>
+
+Source: [technologynetworks.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWdCTmZ3Snd3U3VrVXlWejQ3VHd0aE9BWHhnV3dzZXNIY2tWSWhvazFpOW93S0dlN2NMQjlzc0Q1eDFRbXdOTDllYnJfNFp5dzllM3FHd3Bwc3FFM01jMjdmSkR5YVBjZnB4WU1VYWRLbHRUcXR5NGtlV1ZWVkJVVkRyOGZsNjNHekY5ODBMemJIaW1MZWRLWXRzek1hMjNqYW5TZi1SZ3plMUY0NDhFX3U5V2FsQQ?oc=5)
+
+---
+
+### [Researchers find genetic answer to lung cancer in those who never smoked - ET HealthWorld](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZE5EekVCSXVqZDRLbHdnb0JJeUNPc0J3RjgtN1NZY21CaHQ3R3pVcW8tTjFjUFlNZ0lIRFg4NXdVT1RXUWpoeXdoeTZDWXM5eUZxN1E4NkxaSlIzLWQ5TlRPRThvUGRMQ2RDeHZ3c05VMXYwV2JnMjhLb0ExcFc2YUVNMGZHTFp1elpZMUcyanJoUjRpYVBnS0t4eFRULUhLQVpjMlJYMkY1U2djMUZZT21xRUhNZDFqZnJYbk9vcmNVRk4wclBsUmZKME5Bd1RfOEU1bXhuSdIB3AFBVV95cUxQRjVVdjVGY0pmRHVNcFFwUk1pN1hVdHBWZVRYbnYtMnZBQ2lBNFpfSUt4ZkdXQ3RCTUlRQlF2UGRRSmc4ZkswNC1LNTBhQWNQZ19zRnA3UklaaHh1MjVtY1VmNmZjMDJaTm5ZRTVJeXA1U1ZkOE1fbFZDMTQ5QlB6SUhqVXJNN0tRWUpEOFQ1MzJmSEhJLTNUMFJISWdVVkprRE1rbm54TmVFRTRBblphTDhyWExmVWQxRE54WmVsOHQxRExaYnFwbWQ5YnJtcTFDSGVqR0kxR2ZmUHFQ?oc=5)
+
+2026-09-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZE5EekVCSXVqZDRLbHdnb0JJeUNPc0J3RjgtN1NZY21CaHQ3R3pVcW8tTjFjUFlNZ0lIRFg4NXdVT1RXUWpoeXdoeTZDWXM5eUZxN1E4NkxaSlIzLWQ5TlRPRThvUGRMQ2RDeHZ3c05VMXYwV2JnMjhLb0ExcFc2YUVNMGZHTFp1elpZMUcyanJoUjRpYVBnS0t4eFRULUhLQVpjMlJYMkY1U2djMUZZT21xRUhNZDFqZnJYbk9vcmNVRk4wclBsUmZKME5Bd1RfOEU1bXhuSdIB3AFBVV95cUxQRjVVdjVGY0pmRHVNcFFwUk1pN1hVdHBWZVRYbnYtMnZBQ2lBNFpfSUt4ZkdXQ3RCTUlRQlF2UGRRSmc4ZkswNC1LNTBhQWNQZ19zRnA3UklaaHh1MjVtY1VmNmZjMDJaTm5ZRTVJeXA1U1ZkOE1fbFZDMTQ5QlB6SUhqVXJNN0tRWUpEOFQ1MzJmSEhJLTNUMFJISWdVVkprRE1rbm54TmVFRTRBblphTDhyWExmVWQxRE54WmVsOHQxRExaYnFwbWQ5YnJtcTFDSGVqR0kxR2ZmUHFQ?oc=5)
+
+---
 
 ### [Glioma Metabolite Drives Neuronal Activity and Tumour Growth](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGtLdm9wb05tZjVqT0NqVDd6czh4VDVlVWIxZkJsMDJQRlpWS1lxTDlmYmZHR3pRTVk4MlMyY0xMZlFHcEM2ekUyenFnWW9VVGhyc0hwczNnT2xtaGxyaVNYOTlYb0I0LXY3TE12RmhjX2xpSmRyMzlyczFMblBWaFUyUUZTS01iU2tDczEyUmgxUGdPWWJQWTFRUjl5NWhSN09GTQ?oc=5)
 
 2026-09-20 <span class="news-indication-tag">tumor</span>
 
-Source: [emjreviews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGtLdm9wb05tZjVqT0NqVDd6czh4VDVlVWIxZkJsMDJQRlpWS1lxTDlmYmZHR3pRTVk4MlMyY0xMZlFHcEM2ekUyenFnWW9VVGhyc0hwczNnT2xtaGxyaVNYOTlYb0I0LXY3TE12RmhjX2xpSmRyMzlyczFMblBWaFUyUUZTS01iU2tDczEyUmgxUGdPWWJQWTFRUjl5NWhSN09GTQ?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGtLdm9wb05tZjVqT0NqVDd6czh4VDVlVWIxZkJsMDJQRlpWS1lxTDlmYmZHR3pRTVk4MlMyY0xMZlFHcEM2ekUyenFnWW9VVGhyc0hwczNnT2xtaGxyaVNYOTlYb0I0LXY3TE12RmhjX2xpSmRyMzlyczFMblBWaFUyUUZTS01iU2tDczEyUmgxUGdPWWJQWTFRUjl5NWhSN09GTQ?oc=5)
 
 ---
 
@@ -53,15 +77,7 @@ Source: [emjreviews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZG
 
 2026-09-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
 
-Source: [emjreviews.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVZVNnQtZjluWVJxZVBXcE1Od2ZkY3A2dU1mN1p5RExvZ0FlSkVaY0lKU1l6clViaElxQk0zVjVtQzVMY25GZHBGVVpKNWlGczhXVFZqUlNXdkh2MkpoY09VbUhuSGcwbXdVSnFXLVF5UE5Qek5VVnBSQzJ5YUR6VEdWdUY2T2pQYkZia1liU1VJR1pfUEF6dTZ0Q0ZCR05sR3I1Q1pDZGNNQQ?oc=5)
-
----
-
-### [Loss of Y Chromosome Linked to Early Cancer Identification](https://news.google.com/rss/articles/CBMimwFBVV95cUxNam5iQWxqQU5OVS1uWjBJZkpUZGlwWkpqNmNSOWpObm1DeUVuS0ZRVnlNV0trRk0wMHI2MkZlZmhVMUVLUFdabVQxQS1hZE4tZm02VjVSeXA2V1hrN0YtODlsckNwRGItRUNyVFVYMnBUZENSbzdXQ3UzTjBENGZVcDdreWoxVXYyNFVmbV9WSHFDa2l0TGJyUEFjbw?oc=5)
-
-2026-09-20 <span class="news-indication-tag">cancer</span>
-
-Source: [indianewsnetwork.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNam5iQWxqQU5OVS1uWjBJZkpUZGlwWkpqNmNSOWpObm1DeUVuS0ZRVnlNV0trRk0wMHI2MkZlZmhVMUVLUFdabVQxQS1hZE4tZm02VjVSeXA2V1hrN0YtODlsckNwRGItRUNyVFVYMnBUZENSbzdXQ3UzTjBENGZVcDdreWoxVXYyNFVmbV9WSHFDa2l0TGJyUEFjbw?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVZVNnQtZjluWVJxZVBXcE1Od2ZkY3A2dU1mN1p5RExvZ0FlSkVaY0lKU1l6clViaElxQk0zVjVtQzVMY25GZHBGVVpKNWlGczhXVFZqUlNXdkh2MkpoY09VbUhuSGcwbXdVSnFXLVF5UE5Qek5VVnBSQzJ5YUR6VEdWdUY2T2pQYkZia1liU1VJR1pfUEF6dTZ0Q0ZCR05sR3I1Q1pDZGNNQQ?oc=5)
 
 ---
 
@@ -78,46 +94,6 @@ Source: [financialexpress.com](https://news.google.com/rss/articles/CBMiiwFBVV95
 2026-09-19 <span class="news-indication-tag">cancer</span>
 
 Source: [Oncodaily](https://news.google.com/rss/articles/CBMieEFVX3lxTFAzNlB0OVVWOERWSmJITUVWbVJzaHh3SWQxRnY4NnJEU1Eyb0I5b0ItZkcxN1Q0VkRDRW9KTzMxYzJ3bXdJODlKZU83NThRN1dDVklpVG45UEZhZEszTEh5ZWlKaU5PbWJENjhKdk9qTVYyVVp5LTlmSw?oc=5)
-
----
-
-### [Study Identifies Genetic Risk Factor for Lung Cancer in Never-Smokers - The Indian Practitioner](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
-
-2026-09-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
-
----
-
-### [Max Onco Updates 2026 Brings 800+ Cancer Experts Together In Delhi - BW Healthcare World](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFlkYm9hYTZNS1pnVDFrczhQcDI4NTFNQjBFSVg3SVpWSktoTWJTNzBqQkl4c0gtbkM0RDhqLWNoTm9hNkdFcDN1SmtCazZJajI0UDhpbTdmRnFIMDhjV0l5NWlROTRLU3B5NlR2WFpYVjJ5OWs3TjhwbjhjbERYU1pTOXI2NXhHU29xUWVJTXoxWlR3U21XMnVQcVI1eFhqVUZjNnFMd0pzeFh2UC10Nm4yUVk?oc=5)
-
-2026-09-19 <span class="news-indication-tag">cancer</span>
-
-Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFlkYm9hYTZNS1pnVDFrczhQcDI4NTFNQjBFSVg3SVpWSktoTWJTNzBqQkl4c0gtbkM0RDhqLWNoTm9hNkdFcDN1SmtCazZJajI0UDhpbTdmRnFIMDhjV0l5NWlROTRLU3B5NlR2WFpYVjJ5OWs3TjhwbjhjbERYU1pTOXI2NXhHU29xUWVJTXoxWlR3U21XMnVQcVI1eFhqVUZjNnFMd0pzeFh2UC10Nm4yUVk?oc=5)
-
----
-
-### [Ovarian cancer warning signs: A 47-year-old mom diagnosed after THIS sudden symptom; red flags women should watch out for - The Times of India](https://news.google.com/rss/articles/CBMiogJBVV95cUxNRUNDV2RJMExhT1pDMWw2SkZZdmc2TjVOU2lCcXFLUTZQak9TVnJxUzZoeTVDSFY0YkNDUW9yVGlHVGpZOGhkN2tmNFBQNkY0cVVqeTRnVE1YX0R2Wi03aWxPSXZCSHJJaTZXdUQtX1hiVmo1dFNnSWd6S3JCVkEzZUlFcWRzV1ZvUEZva0RxM1VvYVlFdmZsWERBNUZ5bXNTR2tvdGVjX051MExLNHBta0J4RFZBMkhwM2NSRUs0ZnJZOVdFaUl4Y1VMY2dnbE1WQVFnR2dsa1o4WFdsYlN1T3BBNHYwNm5pbERMRmNlaDFTWGFNSFk4UGRNV3EwVWhKaDl3VU5wclIyYnVaZ2lTakFhazhHU2o5QW5jbDNxQW9tZ9IBqgJBVV95cUxNd1FOa0pDUEtRcUVfbkJBTUpZNGY3LXplcXBCVVc2RDFRLXZIaTItRFRGQUdPQk9VUi1pekh5UWxvRWN2b2tmMVlIZDE2aFk0czBWaVJxODVod2VlYnE3M2tHYkdxTHVhVlhDUEF1LTlZS0w5N2U3YmF3bnJxb3JxZnBlZ1AxR0NmcHdVaEU4aW4xQ21ZZ0Fjd2xyQkw1ODk2c21tWGZ0cUgtbHItUUZ3QVMwTC03bmRUWTBPNFowWk5vT1dHMkpBazMwY1JFU3VDTjRia056VHIwTU5kWUJ3a250Nm5OX1J3SlM3aTFvaVpkcU1yLW1zQkVGTVpWc2FhQllscVRBbGMtcGRoT0lDaGI1cDJUbF8ya2RTOUlsbDQwVnZsWGR5ZEVR?oc=5)
-
-2026-09-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMiogJBVV95cUxNRUNDV2RJMExhT1pDMWw2SkZZdmc2TjVOU2lCcXFLUTZQak9TVnJxUzZoeTVDSFY0YkNDUW9yVGlHVGpZOGhkN2tmNFBQNkY0cVVqeTRnVE1YX0R2Wi03aWxPSXZCSHJJaTZXdUQtX1hiVmo1dFNnSWd6S3JCVkEzZUlFcWRzV1ZvUEZva0RxM1VvYVlFdmZsWERBNUZ5bXNTR2tvdGVjX051MExLNHBta0J4RFZBMkhwM2NSRUs0ZnJZOVdFaUl4Y1VMY2dnbE1WQVFnR2dsa1o4WFdsYlN1T3BBNHYwNm5pbERMRmNlaDFTWGFNSFk4UGRNV3EwVWhKaDl3VU5wclIyYnVaZ2lTakFhazhHU2o5QW5jbDNxQW9tZ9IBqgJBVV95cUxNd1FOa0pDUEtRcUVfbkJBTUpZNGY3LXplcXBCVVc2RDFRLXZIaTItRFRGQUdPQk9VUi1pekh5UWxvRWN2b2tmMVlIZDE2aFk0czBWaVJxODVod2VlYnE3M2tHYkdxTHVhVlhDUEF1LTlZS0w5N2U3YmF3bnJxb3JxZnBlZ1AxR0NmcHdVaEU4aW4xQ21ZZ0Fjd2xyQkw1ODk2c21tWGZ0cUgtbHItUUZ3QVMwTC03bmRUWTBPNFowWk5vT1dHMkpBazMwY1JFU3VDTjRia056VHIwTU5kWUJ3a250Nm5OX1J3SlM3aTFvaVpkcU1yLW1zQkVGTVpWc2FhQllscVRBbGMtcGRoT0lDaGI1cDJUbF8ya2RTOUlsbDQwVnZsWGR5ZEVR?oc=5)
-
----
-
-### [‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
-
-2026-09-16 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">cold</span>
-
-Source: [WIRED](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
-
----
-
-### [Integrating Frontline Biomarkers and Multidisciplinary Teams in Prostate Cancer - Targeted Oncology](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR1lZUWtiUEJ3MjlVaXJ2OWtVdkQ2b2dmWG9iUVc5MmQ1R2l4Vi1mZTBOYS1IU253UW1WYXE1a3RTaUtUM0pPeEZrajkwUjNHdE40ZkZmNUtsdUNwNURfU1Z1MzNoR3JiSk9MdmFHWDFCZ0hMOGtYN2dIc0xqN2VUSC1jbnZVTUk5ckthNFRSZGlCLU83SUJ5WGo5bnBpaVI1UEhRcmg1clZmY1RzNGp4SWpB?oc=5)
-
-2026-09-15 <span class="news-indication-tag">cancer</span>
-
-Source: [Targeted Oncology](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR1lZUWtiUEJ3MjlVaXJ2OWtVdkQ2b2dmWG9iUVc5MmQ1R2l4Vi1mZTBOYS1IU253UW1WYXE1a3RTaUtUM0pPeEZrajkwUjNHdE40ZkZmNUtsdUNwNURfU1Z1MzNoR3JiSk9MdmFHWDFCZ0hMOGtYN2dIc0xqN2VUSC1jbnZVTUk5ckthNFRSZGlCLU83SUJ5WGo5bnBpaVI1UEhRcmg1clZmY1RzNGp4SWpB?oc=5)
 
 ---
 

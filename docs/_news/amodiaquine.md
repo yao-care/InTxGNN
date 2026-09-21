@@ -14,7 +14,7 @@ permalink: /news/amodiaquine/
 ---
 
 <p class="key-answer" data-question="What news is there about Amodiaquine?">
-<strong>Amodiaquine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Amodiaquine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Amodiaquine with the latest 
 <li>kyphoscoliotic heart disease (99.1%)</li>
 <li>migraine with or without aura, susceptibility to (99.0%)</li>
 <li>migraine with brainstem aura (99.0%)</li>
-<li class="indication-matched">rheumatoid arthritis (98.7%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (98.7%)</li>
 <li>leprosy (98.4%)</li>
 <li>atrophoderma vermiculata (98.3%)</li>
 <li>ulerythema ophryogenesis (98.2%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Amodiaquine with the latest 
 <p><a href="{{ '/drugs/amodiaquine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Fiji’s HIV Emergency a Wake-Up Call for Samoa and the Pacific - Samoa Global News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
-
-2026-09-20 <span class="news-indication-tag">RA</span>
-
-Source: [Samoa Global News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
