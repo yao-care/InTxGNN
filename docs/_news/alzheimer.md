@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 4 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 5 articles, 8 related drugs."
 permalink: /news/alzheimer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,29 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [Neurologists raise caution about early onset of Alzheimer’s - The Times of India](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdEN3ZWlpeFEwRmdDMURlVVZ6TnBKSURHOUhid0ZOdndGSHY5andoT0xJOEh6bmpaZ2lRQk9IMFcyWmxHeVJGUG5FMFFGdU12WGtaSUdSY2hrSG84QTNNQU9JYUVlSVdWNUdkdEJRUWQxYlE4RjFVdnFpYXRkU0VVbmVON2JEc3dwRHVmQnJXb1QxZzVUVGg1SDd5NzJzTnhFeGwwYlJZMlBORlpKVTVYNDF3aVlWNGNYc2p1dnh1LUNvVnR6OFZpRTIyaEFaUdIB0wFBVV95cUxQTTRrQXJ1dnAxajFQVUZnRDRBSjktQm44dWJiTkVWRzU3RnpRbWEyY2VvaDRCQ1RfQlRPbHBYa0UyM0J3TWNCYVFrckxhbzVZVFpwT0tBdnFTR0VrcVpBaUZhWW9pSUpSTGxoa0xkdmtmcEdrVlZ1YmdrbUxUaEZoZkxMNXF1aGVPQ3VNNE90OVp5NFhyRXdXWmJpTGNIN3BwaURYaWNwVGJrR2l4S1BMOG5fU2ZFR2dyeFFDN3A0MklDZk5XUHZncDF4TFQ1b2hSYVdB?oc=5)
+### [Can AI Spot Alzheimer’s Early? - BW Healthcare World](https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2Q5ZDU0eE1XZmRQM092SGJ0NEltYlBVNmVlWUVyTWRMOERwMm1DMkF3MEZWMUxjbnVRazAtX3BjNnBVczdYam1iYm9yV21EaWpTdXVEZkhSUDctMlpjVEFOckN6UGt5LXNPbWFLdTVyVUlDSGYzMXdyOHlFY080T2lUdzk?oc=5)
 
-2026-09-20
+2026-09-21
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdEN3ZWlpeFEwRmdDMURlVVZ6TnBKSURHOUhid0ZOdndGSHY5andoT0xJOEh6bmpaZ2lRQk9IMFcyWmxHeVJGUG5FMFFGdU12WGtaSUdSY2hrSG84QTNNQU9JYUVlSVdWNUdkdEJRUWQxYlE4RjFVdnFpYXRkU0VVbmVON2JEc3dwRHVmQnJXb1QxZzVUVGg1SDd5NzJzTnhFeGwwYlJZMlBORlpKVTVYNDF3aVlWNGNYc2p1dnh1LUNvVnR6OFZpRTIyaEFaUdIB0wFBVV95cUxQTTRrQXJ1dnAxajFQVUZnRDRBSjktQm44dWJiTkVWRzU3RnpRbWEyY2VvaDRCQ1RfQlRPbHBYa0UyM0J3TWNCYVFrckxhbzVZVFpwT0tBdnFTR0VrcVpBaUZhWW9pSUpSTGxoa0xkdmtmcEdrVlZ1YmdrbUxUaEZoZkxMNXF1aGVPQ3VNNE90OVp5NFhyRXdXWmJpTGNIN3BwaURYaWNwVGJrR2l4S1BMOG5fU2ZFR2dyeFFDN3A0MklDZk5XUHZncDF4TFQ1b2hSYVdB?oc=5)
+Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2Q5ZDU0eE1XZmRQM092SGJ0NEltYlBVNmVlWUVyTWRMOERwMm1DMkF3MEZWMUxjbnVRazAtX3BjNnBVczdYam1iYm9yV21EaWpTdXVEZkhSUDctMlpjVEFOckN6UGt5LXNPbWFLdTVyVUlDSGYzMXdyOHlFY080T2lUdzk?oc=5)
 
 ---
 
-### [How to carry out your own midlife dementia MOT](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUJIa3IxVHNkWWQ0dG00NXgta0lkU00zNHFjdU1fTVdBMFlpYW05N0E5ckduNU9pVVlYaW43VEZIOHMxbm1zSFVOeE15RElHRk5wb3BieDdvQkxtdjhlODFucEthTVNWM3ZQVm9aTFhXVUJSOTlFVU1ocnVEakdPdENlTzVyV0VOYVRUSUxoQ3Q5ejkzQkE?oc=5)
+### [Brits urged to check six things to lower risk of dementia - Daily Express](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnRERVlIdlFtRGV1VzdjQjNBS05Kd2U2UlpKdC1PTjh4c1M2TGJ6TEsyNXFoYXNhWjN3THNLV084VkpMcmFSZGdIaVRJSWdZa09ObVdFdVZJSGVOcUlmVkpwMWNnOTZwTXh2UlQ4LU1NaWc2TUNNMVRfQkhpYlBxaDF3S2IyUjJqbW9BSTVrUFRfZ9IBlwFBVV95cUxPYU9uakFTMU1SY25weVVPY0NOWGttN29fN2hId0l0bW5vRGpQTTVUVU1fWlNfS2FEUjEwRjN1dm9ITHR5OXF5LUlqcndyNkJ5dU5PYUwzSEVoekNkRXpFNWFGeU1TUzZJc0dtemdMNlJUbzVnVThtRlJ6YXZ1VmYwY1F2WmR1b3NZV2RiV2JLaHowcTIzdjRR?oc=5)
 
 2026-09-20
 
-Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUJIa3IxVHNkWWQ0dG00NXgta0lkU00zNHFjdU1fTVdBMFlpYW05N0E5ckduNU9pVVlYaW43VEZIOHMxbm1zSFVOeE15RElHRk5wb3BieDdvQkxtdjhlODFucEthTVNWM3ZQVm9aTFhXVUJSOTlFVU1ocnVEakdPdENlTzVyV0VOYVRUSUxoQ3Q5ejkzQkE?oc=5)
+Source: [Daily Express](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnRERVlIdlFtRGV1VzdjQjNBS05Kd2U2UlpKdC1PTjh4c1M2TGJ6TEsyNXFoYXNhWjN3THNLV084VkpMcmFSZGdIaVRJSWdZa09ObVdFdVZJSGVOcUlmVkpwMWNnOTZwTXh2UlQ4LU1NaWc2TUNNMVRfQkhpYlBxaDF3S2IyUjJqbW9BSTVrUFRfZ9IBlwFBVV95cUxPYU9uakFTMU1SY25weVVPY0NOWGttN29fN2hId0l0bW5vRGpQTTVUVU1fWlNfS2FEUjEwRjN1dm9ITHR5OXF5LUlqcndyNkJ5dU5PYUwzSEVoekNkRXpFNWFGeU1TUzZJc0dtemdMNlJUbzVnVThtRlJ6YXZ1VmYwY1F2WmR1b3NZV2RiV2JLaHowcTIzdjRR?oc=5)
+
+---
+
+### [Menopause May Temporarily Alter Your Brain's Normal Aging, Scans Reveal](https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmRheU5LSWY1Z19CYXJKUzFrZ19YbWhtTXZoZFdBdlpMTU5LLUg3Y1RmTW1tZms1VWJlQURqaUdWalFxc1E2UlRmdElyUjFIUElUUnl3RnRCR3V5RVdvR21MNmxLMW42TVN1TEwxOXNqRG9lRjNnTmJ4dTBvblZVT3hvV2hwYTNJNHlGUnZURFppcTI4TTlhckxMSWs2M3c?oc=5)
+
+2026-09-20
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmRheU5LSWY1Z19CYXJKUzFrZ19YbWhtTXZoZFdBdlpMTU5LLUg3Y1RmTW1tZms1VWJlQURqaUdWalFxc1E2UlRmdElyUjFIUElUUnl3RnRCR3V5RVdvR21MNmxLMW42TVN1TEwxOXNqRG9lRjNnTmJ4dTBvblZVT3hvV2hwYTNJNHlGUnZURFppcTI4TTlhckxMSWs2M3c?oc=5)
 
 ---
 

@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>bronchitis (100.0%)</li>
 <li>atopic eczema (99.8%)</li>
-<li class="indication-matched">asthma (99.5%)<span class="indication-tag">📰 dama</span></li>
+<li class="indication-matched">asthma (99.5%)<span class="indication-tag">📰 asthma</span></li>
 <li>obstructive lung disease (99.3%)</li>
 <li>asthma-related traits, susceptibility to (99.2%)</li>
 </ul></li>
@@ -37,19 +37,19 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 
 ## Related News (2)
 
+### [Chronic inflammation linked to silent heart damage, study says - ET HealthWorld](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFJobnNoLVdaS09mUlhLdkdHMEk4cFdIalRwejhjSXZvXzk4cUlNdUdWRVJnMmIyUkV6VmYwMEFmdzZmMVBDTVNHaTUwNzBYM2UzQ0hXRmZ0T1hPZDRmbXVkTnVuNU9jRWtyMDE0ZERpOFc0LUptQ0hreXlLa01DNUVxa0RWM0RFQzlMSzNQNlpVWWF0Y2pxWktwc3hDcEduVF8xOUtVaXVwYWtlXzZ6Ynp6cWlFUzl4LVVlczFKNHNOMUNCSXhzX9IBzgFBVV95cUxPUzhkcjV4S2RzdEJQWWRmc0RSeHprVXgxZzdXZWNnR1BsV21rWVBVdU9DTklzOUFYU3ZkSzRZVmxTLU1JWDNvSk5XRHJ4dDh2b2VQbmdpazZqeFRPY2dpWDAxbEFacDdWY0I1em5qZXBxRGhET3V6LXRsQVFJam1xSWxmWVBNM19NZE9LODVMVWh0NFRLcGp6VWdBY2t6dTBMb0xwakRTN0xsa1B2Qk9YY0RRbi1TUkpraDh4WklkZ1dRYzg1VWZLZ0hudDRzdw?oc=5)
+
+2026-09-21 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">dama</span>
+
+Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFJobnNoLVdaS09mUlhLdkdHMEk4cFdIalRwejhjSXZvXzk4cUlNdUdWRVJnMmIyUkV6VmYwMEFmdzZmMVBDTVNHaTUwNzBYM2UzQ0hXRmZ0T1hPZDRmbXVkTnVuNU9jRWtyMDE0ZERpOFc0LUptQ0hreXlLa01DNUVxa0RWM0RFQzlMSzNQNlpVWWF0Y2pxWktwc3hDcEduVF8xOUtVaXVwYWtlXzZ6Ynp6cWlFUzl4LVVlczFKNHNOMUNCSXhzX9IBzgFBVV95cUxPUzhkcjV4S2RzdEJQWWRmc0RSeHprVXgxZzdXZWNnR1BsV21rWVBVdU9DTklzOUFYU3ZkSzRZVmxTLU1JWDNvSk5XRHJ4dDh2b2VQbmdpazZqeFRPY2dpWDAxbEFacDdWY0I1em5qZXBxRGhET3V6LXRsQVFJam1xSWxmWVBNM19NZE9LODVMVWh0NFRLcGp6VWdBY2t6dTBMb0xwakRTN0xsa1B2Qk9YY0RRbi1TUkpraDh4WklkZ1dRYzg1VWZLZ0hudDRzdw?oc=5)
+
+---
+
 ### [Could Earlier Biologics Change the Course of Severe Asthma?](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWJsRE9MQVZ2dlV1eEdtdmNPSnhKMXFMckI1T1ZVMU8xS01iYmMxY1RuaUJSOFlDRkhNUEtJcklwcll5Yk5aNkFHcDV1aEVIb1RudVhaUk9NRTYzdEc2clNSa2FyVHU1aGJCYmhFQk9hd0Z1M0VqVF9zVFZoazZ1T3Z3MzhrWFlhTFdjVzNqM1BuR3VGNUNrN2JRdHdpdW5OWkR0VEdR?oc=5)
 
 2026-09-20 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span>
 
-Source: [emjreviews.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWJsRE9MQVZ2dlV1eEdtdmNPSnhKMXFMckI1T1ZVMU8xS01iYmMxY1RuaUJSOFlDRkhNUEtJcklwcll5Yk5aNkFHcDV1aEVIb1RudVhaUk9NRTYzdEc2clNSa2FyVHU1aGJCYmhFQk9hd0Z1M0VqVF9zVFZoazZ1T3Z3MzhrWFlhTFdjVzNqM1BuR3VGNUNrN2JRdHdpdW5OWkR0VEdR?oc=5)
-
----
-
-### [Chronic inflammation linked to silent heart damage, study says - ANI News](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWF1V25fU0lBb05qOVkxcjZnMUlKeTkyNk93eVZNNS1DZi1lUVI2TWRKT3BIX28wQVAxbEVlQ1FiYmZVNVhITFU1MmFTV19uVGM5SnVzc0V4MTBNUnBBRHhLU0lYX0lVSV9SbkVvX1ZzM3lHWnduZjFnbXN1SXVXSXRReElydzc3eUs3ZTNMb04xa1AzcldCbXZfTDlVV183QUkwNnI5T3FORndYYnRpcQ?oc=5)
-
-2026-09-20 <span class="news-indication-tag">dama</span>
-
-Source: [ANI News](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWF1V25fU0lBb05qOVkxcjZnMUlKeTkyNk93eVZNNS1DZi1lUVI2TWRKT3BIX28wQVAxbEVlQ1FiYmZVNVhITFU1MmFTV19uVGM5SnVzc0V4MTBNUnBBRHhLU0lYX0lVSV9SbkVvX1ZzM3lHWnduZjFnbXN1SXVXSXRReElydzc3eUs3ZTNMb04xa1AzcldCbXZfTDlVV183QUkwNnI5T3FORndYYnRpcQ?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWJsRE9MQVZ2dlV1eEdtdmNPSnhKMXFMckI1T1ZVMU8xS01iYmMxY1RuaUJSOFlDRkhNUEtJcklwcll5Yk5aNkFHcDV1aEVIb1RudVhaUk9NRTYzdEc2clNSa2FyVHU1aGJCYmhFQk9hd0Z1M0VqVF9zVFZoazZ1T3Z3MzhrWFlhTFdjVzNqM1BuR3VGNUNrN2JRdHdpdW5OWkR0VEdR?oc=5)
 
 ---
 

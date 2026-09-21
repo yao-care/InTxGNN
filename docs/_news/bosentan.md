@@ -14,7 +14,7 @@ permalink: /news/bosentan/
 ---
 
 <p class="key-answer" data-question="What news is there about Bosentan?">
-<strong>Bosentan</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Bosentan</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Bosentan with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (9)</strong>:<ul>
-<li class="indication-matched">rheumatoid arthritis (99.8%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (99.8%)</li>
 <li>brachydactyly-syndactyly syndrome (99.7%)</li>
 <li>limited systemic sclerosis (99.7%)</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
@@ -39,15 +39,9 @@ This page combines the AI-predicted indications for Bosentan with the latest hea
 <p><a href="{{ '/drugs/bosentan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Fiji’s HIV Emergency a Wake-Up Call for Samoa and the Pacific - Samoa Global News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
-
-2026-09-20 <span class="news-indication-tag">RA</span>
-
-Source: [Samoa Global News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxVUUQta1RUTUs0NU1DVi01N0hvYmotNTFoMzNUMFJiREZiTEdBWlNDV3VkRGhmMVQ0Z25zV0RNRFdGTE13ckNndzdCOUpNN0xDR3hsOVQzNU8yOW1LTzhKcmdic0NWTnhETC1FNW9MNWhJT1N5amNQZmFxS3dfT192MGRvUkE5WFRfTlVVQnVzcmM?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
