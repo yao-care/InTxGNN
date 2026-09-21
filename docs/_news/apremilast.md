@@ -14,7 +14,7 @@ permalink: /news/apremilast/
 ---
 
 <p class="key-answer" data-question="What news is there about Apremilast?">
-<strong>Apremilast</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Apremilast</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>migraine disorder (98.7%)</li>
 <li>migraine with brainstem aura (98.5%)</li>
-<li>rheumatoid arthritis (98.1%)</li>
+<li class="indication-matched">rheumatoid arthritis (98.1%)<span class="indication-tag">📰 RA</span></li>
 <li>pulmonary hypertension (98.1%)</li>
 <li>migraine with or without aura, susceptibility to (97.8%)</li>
 <li>kyphoscoliotic heart disease (97.8%)</li>
@@ -40,9 +40,23 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Short Antibiotic Course Noninferior in Orthopedic Infections](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnRHdVpOUXdJc1FQemliWUd0bURPRUh2T1NfMUhrTDlUcjJjM29oOUdGNW5pLUNJNUQwVW15ZHU4RmRYbnhXMnF6WE1RdjNjcnN2RHU2SzJmTkFHWG5OVUVsQUJNeDhtUW5RbFZfdDRBaTJxNGU2bFA2aUplblZDY29ERjFjRXUwbkYwdk4yUjBJNDAzZVA4NmZ3cWtETFJPaG5iamVSc1Q4OUowQ2c?oc=5)
+
+2026-09-21 <span class="news-indication-tag">RA</span>
+
+Source: [medscape.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnRHdVpOUXdJc1FQemliWUd0bURPRUh2T1NfMUhrTDlUcjJjM29oOUdGNW5pLUNJNUQwVW15ZHU4RmRYbnhXMnF6WE1RdjNjcnN2RHU2SzJmTkFHWG5OVUVsQUJNeDhtUW5RbFZfdDRBaTJxNGU2bFA2aUplblZDY29ERjFjRXUwbkYwdk4yUjBJNDAzZVA4NmZ3cWtETFJPaG5iamVSc1Q4OUowQ2c?oc=5)
+
+---
+
+### [Measles outbreaks may reveal more than gaps in vaccination](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXo4dmpkaGhvMktOVUZ5WVR5WWJLLXdDMGJoc2xwM1dWcUhYdmRybnlsY2RRQjBMelVnLWw4UlBtZjY1aHhWXzVzUDV3TmQ4d19DaldvYWduUW9Sa280Wjl3TVF4ckEwYXpndUJmMlZtTjB0RWg1WU5CS1pIOWk2RUhjX3ozSHpJTDNhMWZ4VTVvcWFQWFFHNDg5alR2em5vd1lQNUllYmFVUQ?oc=5)
+
+2026-09-21 <span class="news-indication-tag">RA</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXo4dmpkaGhvMktOVUZ5WVR5WWJLLXdDMGJoc2xwM1dWcUhYdmRybnlsY2RRQjBMelVnLWw4UlBtZjY1aHhWXzVzUDV3TmQ4d19DaldvYWduUW9Sa280Wjl3TVF4ckEwYXpndUJmMlZtTjB0RWg1WU5CS1pIOWk2RUhjX3ozSHpJTDNhMWZ4VTVvcWFQWFFHNDg5alR2em5vd1lQNUllYmFVUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Iron</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,15 +28,9 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [‘Ferritin face’: Why one must not fall prey to this viral skin care trend - Deccan Herald](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUZxN3RnZGdqRkhwNWRpaVgzZWY5ZENpWVpERWNKTDhvSUF3VzA3ZkV3bDJIUGtIRzdWUWtMdTZzLVcwZmhjRkJXMXFMa1NiOVdfdmlCSGdfQnJGTGlDR285M2w2SlhocjBlbGczbTdfVjgwUl9zbFJWMU9HUEUwSTVGRDNjVTk2ZzNqYW41MW5pZEEwX3FNekFiUGI4N1h2YXpMZGZKSHM1bFdobjdzOGY5TW0?oc=5)
-
-2026-09-19 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
-
-Source: [Deccan Herald](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUZxN3RnZGdqRkhwNWRpaVgzZWY5ZENpWVpERWNKTDhvSUF3VzA3ZkV3bDJIUGtIRzdWUWtMdTZzLVcwZmhjRkJXMXFMa1NiOVdfdmlCSGdfQnJGTGlDR285M2w2SlhocjBlbGczbTdfVjgwUl9zbFJWMU9HUEUwSTVGRDNjVTk2ZzNqYW41MW5pZEEwX3FNekFiUGI4N1h2YXpMZGZKSHM1bFdobjdzOGY5TW0?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

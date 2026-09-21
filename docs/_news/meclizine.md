@@ -14,7 +14,7 @@ permalink: /news/meclizine/
 ---
 
 <p class="key-answer" data-question="What news is there about Meclizine?">
-<strong>Meclizine</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
+<strong>Meclizine</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 <ul>
 <li><strong>Predicted indications (6)</strong>:<ul>
 <li>allergic urticaria (99.7%)</li>
-<li class="indication-matched">common cold (99.5%)<span class="indication-tag">📰 cold</span></li>
+<li>common cold (99.5%)</li>
 <li>nasal cavity disease (99.5%)</li>
 <li>pharyngitis (99.5%)</li>
 <li>acute laryngopharyngitis (99.4%)</li>
@@ -36,15 +36,9 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 <p><a href="{{ '/drugs/meclizine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Is It Covid-19 Or Just A Cold? An Expert Explains How To Tell And Why It Matters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ2dXdURBVk0yTDVuMTYxUEtmRDdTYnNLUzhDNzBuNW1sSk1SSnhxT3hYTjJqeEdmSkFUdnlpb1VOUFpvbXZHcFZuVk9vN3FFSG1IWlZRazU2MDE3R1UtX29IaEhvaFhLbW1aUk9lNVBScTdobzA1NjFqbDh0dzBnSFRrb1FMNWJUUDFqMDlsbmFJbUF1TUgxeWZXM0hiMnBnQnNoTmxKSjRMR1AtVXRIU0xRMjJiSEE?oc=5)
-
-2026-09-21 <span class="news-indication-tag">cold</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ2dXdURBVk0yTDVuMTYxUEtmRDdTYnNLUzhDNzBuNW1sSk1SSnhxT3hYTjJqeEdmSkFUdnlpb1VOUFpvbXZHcFZuVk9vN3FFSG1IWlZRazU2MDE3R1UtX29IaEhvaFhLbW1aUk9lNVBScTdobzA1NjFqbDh0dzBnSFRrb1FMNWJUUDFqMDlsbmFJbUF1TUgxeWZXM0hiMnBnQnNoTmxKSjRMR1AtVXRIU0xRMjJiSEE?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

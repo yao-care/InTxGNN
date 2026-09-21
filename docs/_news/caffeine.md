@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Caffeine with the latest hea
 
 ## Related News (1)
 
-### [Ever Wonder Why Caffeine Works for Everyone Except You? Here’s Why - Yahoo Health](https://news.google.com/rss/articles/CBMinwFBVV95cUxNOW1OVUVwanJhaThfM3pEbzhOYlplOEVhZjh3YVNoNFJmS0xqUlRMSVVKczFVNW1IYmREczRvNWNJdVdZRzBnTG4zVXg0cjQ4MGtPazVpSzRMdFlJS2JESm56eWVpcW52MHdfQWlfaDh0LS1IekRNTjlvSm9uckRNTV9PSnRIMkpDTDZPczlnT04zVWE4QTUwS2tWek1UM1U?oc=5)
+### [Ever Wonder Why Caffeine Works for Everyone Except You? Here’s Why](https://news.google.com/rss/articles/CBMinwFBVV95cUxNOW1OVUVwanJhaThfM3pEbzhOYlplOEVhZjh3YVNoNFJmS0xqUlRMSVVKczFVNW1IYmREczRvNWNJdVdZRzBnTG4zVXg0cjQ4MGtPazVpSzRMdFlJS2JESm56eWVpcW52MHdfQWlfaDh0LS1IekRNTjlvSm9uckRNTV9PSnRIMkpDTDZPczlnT04zVWE4QTUwS2tWek1UM1U?oc=5)
 
 2026-09-20 <span class="news-drug-tag">Caffeine</span> <span class="news-drug-tag">CAFFEINE</span>
 
-Source: [Yahoo Health](https://news.google.com/rss/articles/CBMinwFBVV95cUxNOW1OVUVwanJhaThfM3pEbzhOYlplOEVhZjh3YVNoNFJmS0xqUlRMSVVKczFVNW1IYmREczRvNWNJdVdZRzBnTG4zVXg0cjQ4MGtPazVpSzRMdFlJS2JESm56eWVpcW52MHdfQWlfaDh0LS1IekRNTjlvSm9uckRNTV9PSnRIMkpDTDZPczlnT04zVWE4QTUwS2tWek1UM1U?oc=5)
+Source: [health.yahoo.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNOW1OVUVwanJhaThfM3pEbzhOYlplOEVhZjh3YVNoNFJmS0xqUlRMSVVKczFVNW1IYmREczRvNWNJdVdZRzBnTG4zVXg0cjQ4MGtPazVpSzRMdFlJS2JESm56eWVpcW52MHdfQWlfaDh0LS1IekRNTjlvSm9uckRNTV9PSnRIMkpDTDZPczlnT04zVWE4QTUwS2tWek1UM1U?oc=5)
 
 ---
 
