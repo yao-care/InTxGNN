@@ -14,7 +14,7 @@ permalink: /news/caffeine/
 ---
 
 <p class="key-answer" data-question="What news is there about Caffeine?">
-<strong>Caffeine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Caffeine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Caffeine with the latest hea
 <p><a href="{{ '/drugs/caffeine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Ever Wonder Why Caffeine Works for Everyone Except You? Here’s Why](https://news.google.com/rss/articles/CBMinwFBVV95cUxNOW1OVUVwanJhaThfM3pEbzhOYlplOEVhZjh3YVNoNFJmS0xqUlRMSVVKczFVNW1IYmREczRvNWNJdVdZRzBnTG4zVXg0cjQ4MGtPazVpSzRMdFlJS2JESm56eWVpcW52MHdfQWlfaDh0LS1IekRNTjlvSm9uckRNTV9PSnRIMkpDTDZPczlnT04zVWE4QTUwS2tWek1UM1U?oc=5)
-
-2026-09-20 <span class="news-drug-tag">Caffeine</span> <span class="news-drug-tag">CAFFEINE</span>
-
-Source: [health.yahoo.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNOW1OVUVwanJhaThfM3pEbzhOYlplOEVhZjh3YVNoNFJmS0xqUlRMSVVKczFVNW1IYmREczRvNWNJdVdZRzBnTG4zVXg0cjQ4MGtPazVpSzRMdFlJS2JESm56eWVpcW52MHdfQWlfaDh0LS1IekRNTjlvSm9uckRNTV9PSnRIMkpDTDZPczlnT04zVWE4QTUwS2tWek1UM1U?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -39,11 +39,11 @@ This page brings together the latest health news about “breast cancer” and l
 
 ## Related News (1)
 
-### [What SIRPα reveals about how breast cancer takes hold in the brain](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzdRYWo0MlpPVEZpakRaU2VRVUdUbXAtQVRCb2VtdWtWc0FFWDRybklKdHFQSFo0VzZLQS1jeDVoZnF4NlRCQXdoaUZNenhhbXlZRTJBS0VYRi1VMzFvUFNxZ01iUVBOSjN4S1gxS3lUcXJ6M09OTFBJakpDZDIxbVVISXpSNXgwX3IwZFB3OVpCZXNlZjJPc3FVQmZxQjFlNl9leHYzTDQzVWpINFNGYVpRbWw?oc=5)
+### [What SIRPα reveals about how breast cancer takes hold in the brain - Drug Target Review](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkRPcng3WnNNalBCUHdUSHhyVXJjRVkwQmIxc3RUdzRDTklxa2Q4X2o5UXRjM2thRUhDYjhmbGdKU25Dcl9LT2NlS2dicnFDeTFRaGQ3ZFBqa2hnZGw5OGpkdlBtZFRoRnJXd3Noa3lQNkhBdzctMVV4SE5iRTJZVFV6YzMwTUZ6cEJ2MndhWkJ4YjJtajRKaUtkOGJHbHdtVmVJWmo5SkVadlZCNU9STGJWdGgwZTZUaHpZ?oc=5)
 
 2026-09-21
 
-Source: [drugtargetreview.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzdRYWo0MlpPVEZpakRaU2VRVUdUbXAtQVRCb2VtdWtWc0FFWDRybklKdHFQSFo0VzZLQS1jeDVoZnF4NlRCQXdoaUZNenhhbXlZRTJBS0VYRi1VMzFvUFNxZ01iUVBOSjN4S1gxS3lUcXJ6M09OTFBJakpDZDIxbVVISXpSNXgwX3IwZFB3OVpCZXNlZjJPc3FVQmZxQjFlNl9leHYzTDQzVWpINFNGYVpRbWw?oc=5)
+Source: [Drug Target Review](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkRPcng3WnNNalBCUHdUSHhyVXJjRVkwQmIxc3RUdzRDTklxa2Q4X2o5UXRjM2thRUhDYjhmbGdKU25Dcl9LT2NlS2dicnFDeTFRaGQ3ZFBqa2hnZGw5OGpkdlBtZFRoRnJXd3Noa3lQNkhBdzctMVV4SE5iRTJZVFV6YzMwTUZ6cEJ2MndhWkJ4YjJtajRKaUtkOGJHbHdtVmVJWmo5SkVadlZCNU9STGJWdGgwZTZUaHpZ?oc=5)
 
 ---
 

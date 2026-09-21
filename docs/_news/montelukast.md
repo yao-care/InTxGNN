@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>3 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,11 +35,19 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Flatworm genes reveal secrets to regrowing damaged brain cells](https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0d4bG1SYWx6QkdfVXZRbmlkMzVvNW50dE1PSDVVbDQ5enpjOWxON3k1X2JBTDdPZEs4MThvRG1ldlNIVllYeDJuOFhBdUV2andjODB0V01WM012V1loWUlGUW9fblp4cDdWTWI1bTFTekhsd0NNTnFuRVZQNG1CYWhhMEh2YzBnc1o0dU03Qzk3aVN3cVU2SHpHVGJNX0MxZndGdmg2QjY4b2pIVzZZ?oc=5)
+
+2026-09-21 <span class="news-indication-tag">dama</span>
+
+Source: [news-medical.net](https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0d4bG1SYWx6QkdfVXZRbmlkMzVvNW50dE1PSDVVbDQ5enpjOWxON3k1X2JBTDdPZEs4MThvRG1ldlNIVllYeDJuOFhBdUV2andjODB0V01WM012V1loWUlGUW9fblp4cDdWTWI1bTFTekhsd0NNTnFuRVZQNG1CYWhhMEh2YzBnc1o0dU03Qzk3aVN3cVU2SHpHVGJNX0MxZndGdmg2QjY4b2pIVzZZ?oc=5)
+
+---
 
 ### [Chronic inflammation linked to silent heart damage, study says - ET HealthWorld](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFJobnNoLVdaS09mUlhLdkdHMEk4cFdIalRwejhjSXZvXzk4cUlNdUdWRVJnMmIyUkV6VmYwMEFmdzZmMVBDTVNHaTUwNzBYM2UzQ0hXRmZ0T1hPZDRmbXVkTnVuNU9jRWtyMDE0ZERpOFc0LUptQ0hreXlLa01DNUVxa0RWM0RFQzlMSzNQNlpVWWF0Y2pxWktwc3hDcEduVF8xOUtVaXVwYWtlXzZ6Ynp6cWlFUzl4LVVlczFKNHNOMUNCSXhzX9IBzgFBVV95cUxPUzhkcjV4S2RzdEJQWWRmc0RSeHprVXgxZzdXZWNnR1BsV21rWVBVdU9DTklzOUFYU3ZkSzRZVmxTLU1JWDNvSk5XRHJ4dDh2b2VQbmdpazZqeFRPY2dpWDAxbEFacDdWY0I1em5qZXBxRGhET3V6LXRsQVFJam1xSWxmWVBNM19NZE9LODVMVWh0NFRLcGp6VWdBY2t6dTBMb0xwakRTN0xsa1B2Qk9YY0RRbi1TUkpraDh4WklkZ1dRYzg1VWZLZ0hudDRzdw?oc=5)
 
-2026-09-21 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">dama</span>
+2026-09-21 <span class="news-indication-tag">dama</span>
 
 Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFJobnNoLVdaS09mUlhLdkdHMEk4cFdIalRwejhjSXZvXzk4cUlNdUdWRVJnMmIyUkV6VmYwMEFmdzZmMVBDTVNHaTUwNzBYM2UzQ0hXRmZ0T1hPZDRmbXVkTnVuNU9jRWtyMDE0ZERpOFc0LUptQ0hreXlLa01DNUVxa0RWM0RFQzlMSzNQNlpVWWF0Y2pxWktwc3hDcEduVF8xOUtVaXVwYWtlXzZ6Ynp6cWlFUzl4LVVlczFKNHNOMUNCSXhzX9IBzgFBVV95cUxPUzhkcjV4S2RzdEJQWWRmc0RSeHprVXgxZzdXZWNnR1BsV21rWVBVdU9DTklzOUFYU3ZkSzRZVmxTLU1JWDNvSk5XRHJ4dDh2b2VQbmdpazZqeFRPY2dpWDAxbEFacDdWY0I1em5qZXBxRGhET3V6LXRsQVFJam1xSWxmWVBNM19NZE9LODVMVWh0NFRLcGp6VWdBY2t6dTBMb0xwakRTN0xsa1B2Qk9YY0RRbi1TUkpraDh4WklkZ1dRYzg1VWZLZ0hudDRzdw?oc=5)
 
