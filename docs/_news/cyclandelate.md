@@ -14,7 +14,7 @@ permalink: /news/cyclandelate/
 ---
 
 <p class="key-answer" data-question="What news is there about Cyclandelate?">
-<strong>Cyclandelate</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
+<strong>Cyclandelate</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,15 +39,7 @@ This page combines the AI-predicted indications for Cyclandelate with the latest
 <p><a href="{{ '/drugs/cyclandelate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Chronic Inflammation Linked To Silent Heart Damage, Study Says](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTdRZGJMTjlQYXE0VGZZZTl0dndfTHFydUlQQ1JjT2I3NHVkV2xNSVo2ZjVwakpCcGdTN1Y0SHhVNTBnRl9wV2ZnQ09ZQ05xNGh3VVZyd2VZV2ZRVVdteWxKbUZNVldMbGlvcTFpbzdmRWpZT2wycVBIX0w5QXVQel9uS01xWnVBdXkwTm9YR19QWTF1NUVzaVhhdmNTanc?oc=5)
-
-2026-09-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTdRZGJMTjlQYXE0VGZZZTl0dndfTHFydUlQQ1JjT2I3NHVkV2xNSVo2ZjVwakpCcGdTN1Y0SHhVNTBnRl9wV2ZnQ09ZQ05xNGh3VVZyd2VZV2ZRVVdteWxKbUZNVldMbGlvcTFpbzdmRWpZT2wycVBIX0w5QXVQel9uS01xWnVBdXkwTm9YR19QWTF1NUVzaVhhdmNTanc?oc=5)
-
----
+## Related News (1)
 
 ### [Decades before menopause, a woman’s heart starts ageing in late 30s, shows long-running study - The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUjBGNnBidG5uZ2RzZENSV2VSZEpvSjVXVmJHLUR6bzlUQ1FlLUkyLXozaVhheWFncW91RkJuQTlDNkV0dF9IVTJEZEhrdzQtYU1ySFVuYzdHX0YwTkJ5S21iWm5IYmRkTndsMTEzZHVKRmtsTkxELWJjLWZCUEl6ODNhRGptQjNDbE5Uc29lSzRjU0VCeVFyWDdNTVhPTF81VjFTOG9xSVU3WW42SVFUSXFCeDlzX2F6NEZQeVNfOGd3cUJRZklMd2xSaTF0bERsMW1falZLUzJCZ19lc1dwZnpiWkx3cldWMG5sbGxHMkYwdTh5VmfSAfsBQVVfeXFMTnp6bVg5ZHJTRlk5RU1zMG9tM19MQS1iWUZwODBqTFZwdUZoT0l2MDJyTnpjQ0didXhOcFpneGhQWUoxSGFmOWlDSlZIanVoLXU3TmVjUEFqZmZKUDd2c2cwYm5DbFV1eGlmb0N2M2sySTBlZ2VOR2RWMExQOUp3X29TRFFEMFd4bmRraVBEMUM5SlRtSmQyT1JrN2l1cmZlMy1PUDd1VlYwWk9PeVY0RW85Q2VSU0RBYzQ5Qmp0SHBBZ2FPZzhyUFQ4YlRkOXc1aFVrbUVaOHBVX3NCdjdubnF3QW90NnJMZGZtamw4MWdWS0M0MThDaTluMGc?oc=5)
 

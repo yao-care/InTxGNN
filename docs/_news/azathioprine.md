@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <li>brachydactyly-syndactyly syndrome (100.0%)</li>
 <li>osteoarthritis susceptibility (99.7%)</li>
 <li>WHIM syndrome (99.7%)</li>
-<li class="indication-matched">inflammatory bowel disease (99.5%)<span class="indication-tag">📰 inflammatory bowel disease</span></li>
+<li>inflammatory bowel disease (99.5%)</li>
 <li>granulomatous disease, chronic, autosomal recessive, 5 (99.4%)</li>
 <li>osteoarthritis (99.4%)</li>
 <li>granulomatous disease with defect in neutrophil chemotaxis (99.4%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Researchers hope powerful new microscope will reveal ‘root cause’ of incurable bowel disease - The Guardian](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV2dtd0dMMFBGdFM2NzVkV1pFamFqTDhucGo0d1dfLUN2b01MYnVaNkppRWZ1dXh2V1cxVFllb1FQNHlrSTlpVWFyZ1R0TUxsV2I4M1BQM0xwclFxdU4zcHp5VnRfcjJScmVaZmd2NFVMMkZOQXVqVTc1QnBXcVFUTUpXejN5TnVtZ3BVZUtYS21BaTZCLW9KT3AzZ1dYWVFNc1ZXTlRmNmF0b2oxNUtzZ0VmYzBkS2ZESjZCNE5ZZjJCbXRvazdrYVhRUldpTG5hWXVEZ1YwNA?oc=5)
-
-2026-09-14 <span class="news-indication-tag">inflammatory bowel disease</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV2dtd0dMMFBGdFM2NzVkV1pFamFqTDhucGo0d1dfLUN2b01MYnVaNkppRWZ1dXh2V1cxVFllb1FQNHlrSTlpVWFyZ1R0TUxsV2I4M1BQM0xwclFxdU4zcHp5VnRfcjJScmVaZmd2NFVMMkZOQXVqVTc1QnBXcVFUTUpXejN5TnVtZ3BVZUtYS21BaTZCLW9KT3AzZ1dYWVFNc1ZXTlRmNmF0b2oxNUtzZ0VmYzBkS2ZESjZCNE5ZZjJCbXRvazdrYVhRUldpTG5hWXVEZ1YwNA?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -35,11 +35,11 @@ This page brings together the latest health news about “lung cancer” and lis
 
 ## Related News (1)
 
-### [Study Identifies Genetic Risk Factor for Lung Cancer in Never-Smokers](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
+### [Study Identifies Genetic Risk Factor for Lung Cancer in Never-Smokers - The Indian Practitioner](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
 
 2026-09-19
 
-Source: [theindianpractitioner.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
+Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzg1NkhzOHpOZlhfUE5HcUtqeHBvcWkzRENkdjNITEdZVmI3T3VXMm05SzRnVzA1My1hU0c0Tjc0X0tnM19NeHktNVJIVXRQX3Z3TmFaN1pVRVZKdDhhRjBVaTl3ZUUxdG9kRmZaUjFSNnNoNmhma0lfbVJoOFhBSW9JSHYyR19aWlNTNkVBNHFRektjc3N4NnZoc2JRSXl2OVhPZlg4bw?oc=5)
 
 ---
 

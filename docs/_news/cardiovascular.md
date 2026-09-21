@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease (cardiovascular) News"
+title: "cardiovascular News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
+description: "Health news about cardiovascular. 1 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
-# heart disease (cardiovascular) News
+# cardiovascular News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about cardiovascular?">
+<strong>cardiovascular</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cardiovascular” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -59,15 +59,7 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (2)
-
-### [Chronic Inflammation Linked To Silent Heart Damage, Study Says](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTdRZGJMTjlQYXE0VGZZZTl0dndfTHFydUlQQ1JjT2I3NHVkV2xNSVo2ZjVwakpCcGdTN1Y0SHhVNTBnRl9wV2ZnQ09ZQ05xNGh3VVZyd2VZV2ZRVVdteWxKbUZNVldMbGlvcTFpbzdmRWpZT2wycVBIX0w5QXVQel9uS01xWnVBdXkwTm9YR19QWTF1NUVzaVhhdmNTanc?oc=5)
-
-2026-09-20
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTdRZGJMTjlQYXE0VGZZZTl0dndfTHFydUlQQ1JjT2I3NHVkV2xNSVo2ZjVwakpCcGdTN1Y0SHhVNTBnRl9wV2ZnQ09ZQ05xNGh3VVZyd2VZV2ZRVVdteWxKbUZNVldMbGlvcTFpbzdmRWpZT2wycVBIX0w5QXVQel9uS01xWnVBdXkwTm9YR19QWTF1NUVzaVhhdmNTanc?oc=5)
-
----
+## Related News (1)
 
 ### [Decades before menopause, a woman’s heart starts ageing in late 30s, shows long-running study - The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUjBGNnBidG5uZ2RzZENSV2VSZEpvSjVXVmJHLUR6bzlUQ1FlLUkyLXozaVhheWFncW91RkJuQTlDNkV0dF9IVTJEZEhrdzQtYU1ySFVuYzdHX0YwTkJ5S21iWm5IYmRkTndsMTEzZHVKRmtsTkxELWJjLWZCUEl6ODNhRGptQjNDbE5Uc29lSzRjU0VCeVFyWDdNTVhPTF81VjFTOG9xSVU3WW42SVFUSXFCeDlzX2F6NEZQeVNfOGd3cUJRZklMd2xSaTF0bERsMW1falZLUzJCZ19lc1dwZnpiWkx3cldWMG5sbGxHMkYwdTh5VmfSAfsBQVVfeXFMTnp6bVg5ZHJTRlk5RU1zMG9tM19MQS1iWUZwODBqTFZwdUZoT0l2MDJyTnpjQ0didXhOcFpneGhQWUoxSGFmOWlDSlZIanVoLXU3TmVjUEFqZmZKUDd2c2cwYm5DbFV1eGlmb0N2M2sySTBlZ2VOR2RWMExQOUp3X29TRFFEMFd4bmRraVBEMUM5SlRtSmQyT1JrN2l1cmZlMy1PUDd1VlYwWk9PeVY0RW85Q2VSU0RBYzQ5Qmp0SHBBZ2FPZzhyUFQ4YlRkOXc1aFVrbUVaOHBVX3NCdjdubnF3QW90NnJMZGZtamw4MWdWS0M0MThDaTluMGc?oc=5)
 
