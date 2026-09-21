@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>bronchitis (100.0%)</li>
 <li>atopic eczema (99.8%)</li>
-<li class="indication-matched">asthma (99.5%)<span class="indication-tag">📰 asthma</span></li>
+<li class="indication-matched">asthma (99.5%)<span class="indication-tag">📰 dama</span></li>
 <li>obstructive lung disease (99.3%)</li>
 <li>asthma-related traits, susceptibility to (99.2%)</li>
 </ul></li>
@@ -35,13 +35,21 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Could Earlier Biologics Change the Course of Severe Asthma?](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWJsRE9MQVZ2dlV1eEdtdmNPSnhKMXFMckI1T1ZVMU8xS01iYmMxY1RuaUJSOFlDRkhNUEtJcklwcll5Yk5aNkFHcDV1aEVIb1RudVhaUk9NRTYzdEc2clNSa2FyVHU1aGJCYmhFQk9hd0Z1M0VqVF9zVFZoazZ1T3Z3MzhrWFlhTFdjVzNqM1BuR3VGNUNrN2JRdHdpdW5OWkR0VEdR?oc=5)
 
 2026-09-20 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWJsRE9MQVZ2dlV1eEdtdmNPSnhKMXFMckI1T1ZVMU8xS01iYmMxY1RuaUJSOFlDRkhNUEtJcklwcll5Yk5aNkFHcDV1aEVIb1RudVhaUk9NRTYzdEc2clNSa2FyVHU1aGJCYmhFQk9hd0Z1M0VqVF9zVFZoazZ1T3Z3MzhrWFlhTFdjVzNqM1BuR3VGNUNrN2JRdHdpdW5OWkR0VEdR?oc=5)
+Source: [emjreviews.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWJsRE9MQVZ2dlV1eEdtdmNPSnhKMXFMckI1T1ZVMU8xS01iYmMxY1RuaUJSOFlDRkhNUEtJcklwcll5Yk5aNkFHcDV1aEVIb1RudVhaUk9NRTYzdEc2clNSa2FyVHU1aGJCYmhFQk9hd0Z1M0VqVF9zVFZoazZ1T3Z3MzhrWFlhTFdjVzNqM1BuR3VGNUNrN2JRdHdpdW5OWkR0VEdR?oc=5)
+
+---
+
+### [Chronic inflammation linked to silent heart damage, study says - ANI News](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWF1V25fU0lBb05qOVkxcjZnMUlKeTkyNk93eVZNNS1DZi1lUVI2TWRKT3BIX28wQVAxbEVlQ1FiYmZVNVhITFU1MmFTV19uVGM5SnVzc0V4MTBNUnBBRHhLU0lYX0lVSV9SbkVvX1ZzM3lHWnduZjFnbXN1SXVXSXRReElydzc3eUs3ZTNMb04xa1AzcldCbXZfTDlVV183QUkwNnI5T3FORndYYnRpcQ?oc=5)
+
+2026-09-20 <span class="news-indication-tag">dama</span>
+
+Source: [ANI News](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWF1V25fU0lBb05qOVkxcjZnMUlKeTkyNk93eVZNNS1DZi1lUVI2TWRKT3BIX28wQVAxbEVlQ1FiYmZVNVhITFU1MmFTV19uVGM5SnVzc0V4MTBNUnBBRHhLU0lYX0lVSV9SbkVvX1ZzM3lHWnduZjFnbXN1SXVXSXRReElydzc3eUs3ZTNMb04xa1AzcldCbXZfTDlVV183QUkwNnI5T3FORndYYnRpcQ?oc=5)
 
 ---
 

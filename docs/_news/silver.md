@@ -34,7 +34,7 @@ This page combines the AI-predicted indications for Silver with the latest healt
 
 2026-09-20 <span class="news-drug-tag">Silver</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KcnhuMlhKWE5qX21Mc3U2NGRHR0U3ZjBHUkRNN1hEcnBJdExkcXBZNWNMR0lFZ2tpb1EtNC05RXlfMERoekRnX3R6aWtGTGROZWE4aG5IZFB3VUloQlNn?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KcnhuMlhKWE5qX21Mc3U2NGRHR0U3ZjBHUkRNN1hEcnBJdExkcXBZNWNMR0lFZ2tpb1EtNC05RXlfMERoekRnX3R6aWtGTGROZWE4aG5IZFB3VUloQlNn?oc=5)
 
 ---
 

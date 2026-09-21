@@ -35,7 +35,7 @@ This page brings together the latest health news about “asthma” and lists th
 
 2026-09-20
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWJsRE9MQVZ2dlV1eEdtdmNPSnhKMXFMckI1T1ZVMU8xS01iYmMxY1RuaUJSOFlDRkhNUEtJcklwcll5Yk5aNkFHcDV1aEVIb1RudVhaUk9NRTYzdEc2clNSa2FyVHU1aGJCYmhFQk9hd0Z1M0VqVF9zVFZoazZ1T3Z3MzhrWFlhTFdjVzNqM1BuR3VGNUNrN2JRdHdpdW5OWkR0VEdR?oc=5)
+Source: [emjreviews.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWJsRE9MQVZ2dlV1eEdtdmNPSnhKMXFMckI1T1ZVMU8xS01iYmMxY1RuaUJSOFlDRkhNUEtJcklwcll5Yk5aNkFHcDV1aEVIb1RudVhaUk9NRTYzdEc2clNSa2FyVHU1aGJCYmhFQk9hd0Z1M0VqVF9zVFZoazZ1T3Z3MzhrWFlhTFdjVzNqM1BuR3VGNUNrN2JRdHdpdW5OWkR0VEdR?oc=5)
 
 ---
 
