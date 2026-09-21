@@ -14,7 +14,7 @@ permalink: /news/balsalazide/
 ---
 
 <p class="key-answer" data-question="What news is there about Balsalazide?">
-<strong>Balsalazide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Balsalazide</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Balsalazide with the latest 
 <li>gout (99.8%)</li>
 <li>congenital hypotrichosis with juvenile macular dystrophy (99.7%)</li>
 <li>ankylosing spondylitis (99.7%)</li>
-<li>rheumatoid arthritis (99.6%)</li>
+<li class="indication-matched">rheumatoid arthritis (99.6%)<span class="indication-tag">📰 RA</span></li>
 <li>rheumatoid vasculitis (99.6%)</li>
 <li>hypermobility of coccyx (99.5%)</li>
 <li>inflammatory spondylopathy (99.5%)</li>
@@ -40,9 +40,23 @@ This page combines the AI-predicted indications for Balsalazide with the latest 
 <p><a href="{{ '/drugs/balsalazide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Short Antibiotic Course Noninferior in Orthopedic Infections](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnRHdVpOUXdJc1FQemliWUd0bURPRUh2T1NfMUhrTDlUcjJjM29oOUdGNW5pLUNJNUQwVW15ZHU4RmRYbnhXMnF6WE1RdjNjcnN2RHU2SzJmTkFHWG5OVUVsQUJNeDhtUW5RbFZfdDRBaTJxNGU2bFA2aUplblZDY29ERjFjRXUwbkYwdk4yUjBJNDAzZVA4NmZ3cWtETFJPaG5iamVSc1Q4OUowQ2c?oc=5)
+
+2026-09-21 <span class="news-indication-tag">RA</span>
+
+Source: [medscape.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnRHdVpOUXdJc1FQemliWUd0bURPRUh2T1NfMUhrTDlUcjJjM29oOUdGNW5pLUNJNUQwVW15ZHU4RmRYbnhXMnF6WE1RdjNjcnN2RHU2SzJmTkFHWG5OVUVsQUJNeDhtUW5RbFZfdDRBaTJxNGU2bFA2aUplblZDY29ERjFjRXUwbkYwdk4yUjBJNDAzZVA4NmZ3cWtETFJPaG5iamVSc1Q4OUowQ2c?oc=5)
+
+---
+
+### [Measles outbreaks may reveal more than gaps in vaccination](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXo4dmpkaGhvMktOVUZ5WVR5WWJLLXdDMGJoc2xwM1dWcUhYdmRybnlsY2RRQjBMelVnLWw4UlBtZjY1aHhWXzVzUDV3TmQ4d19DaldvYWduUW9Sa280Wjl3TVF4ckEwYXpndUJmMlZtTjB0RWg1WU5CS1pIOWk2RUhjX3ozSHpJTDNhMWZ4VTVvcWFQWFFHNDg5alR2em5vd1lQNUllYmFVUQ?oc=5)
+
+2026-09-21 <span class="news-indication-tag">RA</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXo4dmpkaGhvMktOVUZ5WVR5WWJLLXdDMGJoc2xwM1dWcUhYdmRybnlsY2RRQjBMelVnLWw4UlBtZjY1aHhWXzVzUDV3TmQ4d19DaldvYWduUW9Sa280Wjl3TVF4ckEwYXpndUJmMlZtTjB0RWg1WU5CS1pIOWk2RUhjX3ozSHpJTDNhMWZ4VTVvcWFQWFFHNDg5alR2em5vd1lQNUllYmFVUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

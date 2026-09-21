@@ -14,7 +14,7 @@ permalink: /news/nalidixic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Nalidixic Acid?">
-<strong>Nalidixic Acid</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Nalidixic Acid</strong> currently has <strong>2 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,16 +27,30 @@ This page combines the AI-predicted indications for Nalidixic Acid with the late
 <li><strong>Predicted indications (4)</strong>:<ul>
 <li>conjunctivitis (99.8%)</li>
 <li>sclerosing cholangitis (99.6%)</li>
-<li>rheumatoid arthritis (99.4%)</li>
+<li class="indication-matched">rheumatoid arthritis (99.4%)<span class="indication-tag">📰 RA</span></li>
 <li>infectious otitis media (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nalidixic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Short Antibiotic Course Noninferior in Orthopedic Infections](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnRHdVpOUXdJc1FQemliWUd0bURPRUh2T1NfMUhrTDlUcjJjM29oOUdGNW5pLUNJNUQwVW15ZHU4RmRYbnhXMnF6WE1RdjNjcnN2RHU2SzJmTkFHWG5OVUVsQUJNeDhtUW5RbFZfdDRBaTJxNGU2bFA2aUplblZDY29ERjFjRXUwbkYwdk4yUjBJNDAzZVA4NmZ3cWtETFJPaG5iamVSc1Q4OUowQ2c?oc=5)
+
+2026-09-21 <span class="news-indication-tag">RA</span>
+
+Source: [medscape.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnRHdVpOUXdJc1FQemliWUd0bURPRUh2T1NfMUhrTDlUcjJjM29oOUdGNW5pLUNJNUQwVW15ZHU4RmRYbnhXMnF6WE1RdjNjcnN2RHU2SzJmTkFHWG5OVUVsQUJNeDhtUW5RbFZfdDRBaTJxNGU2bFA2aUplblZDY29ERjFjRXUwbkYwdk4yUjBJNDAzZVA4NmZ3cWtETFJPaG5iamVSc1Q4OUowQ2c?oc=5)
+
+---
+
+### [Measles outbreaks may reveal more than gaps in vaccination](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXo4dmpkaGhvMktOVUZ5WVR5WWJLLXdDMGJoc2xwM1dWcUhYdmRybnlsY2RRQjBMelVnLWw4UlBtZjY1aHhWXzVzUDV3TmQ4d19DaldvYWduUW9Sa280Wjl3TVF4ckEwYXpndUJmMlZtTjB0RWg1WU5CS1pIOWk2RUhjX3ozSHpJTDNhMWZ4VTVvcWFQWFFHNDg5alR2em5vd1lQNUllYmFVUQ?oc=5)
+
+2026-09-21 <span class="news-indication-tag">RA</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXo4dmpkaGhvMktOVUZ5WVR5WWJLLXdDMGJoc2xwM1dWcUhYdmRybnlsY2RRQjBMelVnLWw4UlBtZjY1aHhWXzVzUDV3TmQ4d19DaldvYWduUW9Sa280Wjl3TVF4ckEwYXpndUJmMlZtTjB0RWg1WU5CS1pIOWk2RUhjX3ozSHpJTDNhMWZ4VTVvcWFQWFFHNDg5alR2em5vd1lQNUllYmFVUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

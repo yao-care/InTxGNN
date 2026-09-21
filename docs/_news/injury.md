@@ -31,11 +31,11 @@ This page brings together the latest health news about “injury” and lists th
 
 ## Related News (1)
 
-### [Machine Learning Predicts Acute Kidney Injury Risk](https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0JKX0tNbndweHBPRHh5Mm5HZFZCRFExWm9XZmhmSjllWnlUQkJhVU93VmFhZXAwYXpxNVcxa19sWkRfcXZYUmZsbDllc0diQzM2ZHRRbTFsX3BNQ0ZQOE9nS25TS3dtdEFpZXU3cUhraG8zOHVGZktfdFEzcFhUQzA3cjNOTGJCXzdhVVFlVWNZSjJ2WmZ3WHd3?oc=5)
+### [Development and external validation of prediction models for a trial-informed operational composite after stage 3 acute kidney injury](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKaExydnZkUjJhSUtXdjV4aUdvZTV1VEFRLUhKY1VpUnpqQ1B3UHQtUkZlYTBybUc0NTZmYkVoMndMVWdhMHdQM29NTVV0dDZLcGkzRlFXNWktNm1IaDdr?oc=5)
 
-2026-09-17
+2026-09-20
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0JKX0tNbndweHBPRHh5Mm5HZFZCRFExWm9XZmhmSjllWnlUQkJhVU93VmFhZXAwYXpxNVcxa19sWkRfcXZYUmZsbDllc0diQzM2ZHRRbTFsX3BNQ0ZQOE9nS25TS3dtdEFpZXU3cUhraG8zOHVGZktfdFEzcFhUQzA3cjNOTGJCXzdhVVFlVWNZSjJ2WmZ3WHd3?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKaExydnZkUjJhSUtXdjV4aUdvZTV1VEFRLUhKY1VpUnpqQ1B3UHQtUkZlYTBybUc0NTZmYkVoMndMVWdhMHdQM29NTVV0dDZLcGkzRlFXNWktNm1IaDdr?oc=5)
 
 ---
 
