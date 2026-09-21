@@ -35,11 +35,11 @@ This page brings together the latest health news about “lung cancer” and lis
 
 ## Related News (1)
 
-### [Rare EGFR mutation increases lung cancer risk 62 times in never smokers - Fierce Biotech](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2lJc0ZOQ0xMMmVpd1NjcFVCckJmeXF6LTByY004UW1nOWdPa1d2RXkxdGRFdVl6ZXVZMkZFZGRXZEJmdWNlbmFsZE9yaFB0LURCUndZZXpqUUpaa3JubHhQVVA4OEtVRlBKTm1VU1lhNHBnV2JlOTl2QWlVeTFGelRZeC1xMGZCYTg4TVU4VlQ1cWdjZUY1WER6azY5Y3lNLWZ2RDlJNzV3VkttaU1XTkZPUTAtZ1U?oc=5)
+### [Study identifies powerful inherited risk factor for lung cancer](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMG1PQXR4UDRqcGhDblN3MmJRWVlET3JTeVZ3cUtCM2MyaUFNT2NDMkJpYUFUMHc3dVFIQ2JVZ2gyZkNxUDkyczA0WlVTd0NLcThkOGdmRThEMkJULXR6Q3RJOVJWMEpfMlc5SjM4dXhYa1FRa3kzemlDdXR6Wm1kamgzWXZwY2lSZ3lvYW9uWG4xeHB5YzhwVEJmYmI5U1Z5TnBGM0Q2NjFucFBaaUNadg?oc=5)
 
 2026-09-17
 
-Source: [Fierce Biotech](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2lJc0ZOQ0xMMmVpd1NjcFVCckJmeXF6LTByY004UW1nOWdPa1d2RXkxdGRFdVl6ZXVZMkZFZGRXZEJmdWNlbmFsZE9yaFB0LURCUndZZXpqUUpaa3JubHhQVVA4OEtVRlBKTm1VU1lhNHBnV2JlOTl2QWlVeTFGelRZeC1xMGZCYTg4TVU4VlQ1cWdjZUY1WER6azY5Y3lNLWZ2RDlJNzV3VkttaU1XTkZPUTAtZ1U?oc=5)
+Source: [news-medical.net](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMG1PQXR4UDRqcGhDblN3MmJRWVlET3JTeVZ3cUtCM2MyaUFNT2NDMkJpYUFUMHc3dVFIQ2JVZ2gyZkNxUDkyczA0WlVTd0NLcThkOGdmRThEMkJULXR6Q3RJOVJWMEpfMlc5SjM4dXhYa1FRa3kzemlDdXR6Wm1kamgzWXZwY2lSZ3lvYW9uWG4xeHB5YzhwVEJmYmI5U1Z5TnBGM0Q2NjFucFBaaUNadg?oc=5)
 
 ---
 
