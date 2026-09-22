@@ -42,11 +42,27 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 
 ## Related News (11)
 
-### [Can Alzheimer’s Be Prevented? Understanding the Role of Lifestyle and Brain Health - The Indian Practitioner](https://news.google.com/rss/articles/CBMitgFBVV95cUxNazVCMnZ4T3E4dmpHYk1YS3d5bW9wWExDTVRoZGNkN2NQZ05EMXVOelJQQVhad0NRaTF0ZFM5UFZDMnFxRmh4TlZxTDh5LXVYMWFvLTNaZGhrTlR5SWw3UjZXV2w4blRJWWlrQ0J2dHdMWmdoRFNWUGR2MzhicTdHVmN3eHoxamJCNG1nVG1XVEZ2aHRMMkxiS0xBMXljM3ktdWFseHZmejNCa1ltbUs2T0ZrNklDUQ?oc=5)
+### [Cell death: immunogenic potential of cuproptosis in cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MMzFsM1RQaEdhX3c4NEVuS3RpWHR0cnBweHM0YVdmNUZiVkZwODZIR0dGRU5vZU5TOHEyOG9FQVlmRVRBRU5nT1E0M1IyY1NHZEFacGlqeUZGOUhZSno0?oc=5)
 
-2026-09-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-09-21 <span class="news-indication-tag">cancer</span>
 
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMitgFBVV95cUxNazVCMnZ4T3E4dmpHYk1YS3d5bW9wWExDTVRoZGNkN2NQZ05EMXVOelJQQVhad0NRaTF0ZFM5UFZDMnFxRmh4TlZxTDh5LXVYMWFvLTNaZGhrTlR5SWw3UjZXV2w4blRJWWlrQ0J2dHdMWmdoRFNWUGR2MzhicTdHVmN3eHoxamJCNG1nVG1XVEZ2aHRMMkxiS0xBMXljM3ktdWFseHZmejNCa1ltbUs2T0ZrNklDUQ?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MMzFsM1RQaEdhX3c4NEVuS3RpWHR0cnBweHM0YVdmNUZiVkZwODZIR0dGRU5vZU5TOHEyOG9FQVlmRVRBRU5nT1E0M1IyY1NHZEFacGlqeUZGOUhZSno0?oc=5)
+
+---
+
+### [Application of symptom network analysis among patients with gastric cancer: A scoping review](https://news.google.com/rss/articles/CBMifkFVX3lxTFBkY2plYktWNGtHYnRGeGlaZHlOdm5ybDN6cC1oM3lFVDN2dXo2YUJGTmJuaDVKVjNvVm1WWTQ0czRmalVTdmk5SG42cG5DaUtwS0dzUUJ0M3E1a1FTdlF3dGRsUTBBTGpFMlZGZHVlWjJ2aWFyRnVqQzN4bkVpQQ?oc=5)
+
+2026-09-21 <span class="news-indication-tag">cancer</span>
+
+Source: [PLOS](https://news.google.com/rss/articles/CBMifkFVX3lxTFBkY2plYktWNGtHYnRGeGlaZHlOdm5ybDN6cC1oM3lFVDN2dXo2YUJGTmJuaDVKVjNvVm1WWTQ0czRmalVTdmk5SG42cG5DaUtwS0dzUUJ0M3E1a1FTdlF3dGRsUTBBTGpFMlZGZHVlWjJ2aWFyRnVqQzN4bkVpQQ?oc=5)
+
+---
+
+### [Harnessing microfluidics for microbiology: from bacteria-host interactions to emerging cancer therapies](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UYUx4Q1hFajJWdUNHX2FHOFFEU1VTTzhBNkhXc2RpSTJBM2VvbTFKQjNEdm1aRGtUaTAyVzdWc0Y0T0J4TWJ1VW9VVkJfTDJwal92T29EWkpPMDNnOHJ3?oc=5)
+
+2026-09-21 <span class="news-indication-tag">cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UYUx4Q1hFajJWdUNHX2FHOFFEU1VTTzhBNkhXc2RpSTJBM2VvbTFKQjNEdm1aRGtUaTAyVzdWc0Y0T0J4TWJ1VW9VVkJfTDJwal92T29EWkpPMDNnOHJ3?oc=5)
 
 ---
 
@@ -58,11 +74,19 @@ Source: [Drug Target Review](https://news.google.com/rss/articles/CBMiuwFBVV95cU
 
 ---
 
-### [Harnessing microfluidics for microbiology: from bacteria-host interactions to emerging cancer therapies](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UYUx4Q1hFajJWdUNHX2FHOFFEU1VTTzhBNkhXc2RpSTJBM2VvbTFKQjNEdm1aRGtUaTAyVzdWc0Y0T0J4TWJ1VW9VVkJfTDJwal92T29EWkpPMDNnOHJ3?oc=5)
+### [Alzheimer’s Research Is Moving Earlier — So Should Brain Health Management | World Alzheimer’s Day](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1bkRSQkE3RVJvUXp1REl4NnFuWld1Y0gxVjg2Z1RiYnBfVzdQckx2UURGOXFfNzFGRGNPeC1qTWdmNGxHc2lTam5RY1k3WTdEbmRDQXJFY3UxbEhUQUNtMXBRSnZhVWE3?oc=5)
+
+2026-09-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [bgi.com](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1bkRSQkE3RVJvUXp1REl4NnFuWld1Y0gxVjg2Z1RiYnBfVzdQckx2UURGOXFfNzFGRGNPeC1qTWdmNGxHc2lTam5RY1k3WTdEbmRDQXJFY3UxbEhUQUNtMXBRSnZhVWE3?oc=5)
+
+---
+
+### [Medical Bulletin 21/September/2026 - Medical Dialogues](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbTBuMVNQSWhTZWE4VjN0OTlqbkpJSXVTYWVpM0JNNjVaQUZKNXpkbndhaE9HcVBOR2ZBM1l6eGpwNVBqR25mN2ZGMW81d2VwX1J0eEc1U2daVXkzSmozY0NVbjdjWkNZMFdqZmduTmJ5aVB2bXVabkNqYm1oemFJY0VzWXJGNEM1NXJaQU1ZWm9PLW96eUHSAZsBQVVfeXFMUHNkMnhkZkhBcmFYYUNvTHJuSk9UNmRVQnJBN2ltU0dER2t0VHNnQlNLVEg2bDYyQkhnYzlnaVVxdGZkM2hBZlR1MkgzZ05pNGVxS0hPeHVUUmhlWE1ieVd5blV4VElmbGwyUEpRcG5IdElvd2N4NkR2S3dQeGVNWElIdVhHRmNmOG9ya29MY3o1X0djRlA1azR1V0k?oc=5)
 
 2026-09-21 <span class="news-indication-tag">cancer</span>
 
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UYUx4Q1hFajJWdUNHX2FHOFFEU1VTTzhBNkhXc2RpSTJBM2VvbTFKQjNEdm1aRGtUaTAyVzdWc0Y0T0J4TWJ1VW9VVkJfTDJwal92T29EWkpPMDNnOHJ3?oc=5)
+Source: [Medical Dialogues](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbTBuMVNQSWhTZWE4VjN0OTlqbkpJSXVTYWVpM0JNNjVaQUZKNXpkbndhaE9HcVBOR2ZBM1l6eGpwNVBqR25mN2ZGMW81d2VwX1J0eEc1U2daVXkzSmozY0NVbjdjWkNZMFdqZmduTmJ5aVB2bXVabkNqYm1oemFJY0VzWXJGNEM1NXJaQU1ZWm9PLW96eUHSAZsBQVVfeXFMUHNkMnhkZkhBcmFYYUNvTHJuSk9UNmRVQnJBN2ltU0dER2t0VHNnQlNLVEg2bDYyQkhnYzlnaVVxdGZkM2hBZlR1MkgzZ05pNGVxS0hPeHVUUmhlWE1ieVd5blV4VElmbGwyUEpRcG5IdElvd2N4NkR2S3dQeGVNWElIdVhHRmNmOG9ya29MY3o1X0djRlA1azR1V0k?oc=5)
 
 ---
 
@@ -70,7 +94,7 @@ Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UYUx4Q1
 
 2026-09-21 <span class="news-indication-tag">cancer</span>
 
-Source: [news-medical.net](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamRncDI4SlZ6M3pNb3BaemM3ekRIU1EycEpxeUhhSFhpNEdzRlFtWFpwcmZNcms1QU53UF9qWnlFdk0wUWZuTlRPZmEzazc5aFl0NlVSSDl5Nm1jLUVZSEpTY3d5RWlHRURhbnZ0aXltTTU5UWUzNlhIQml4dFdTekN4bnBWOWNGajJpR2hhSWp0cnNlSXl2QkZSdGdab3Q5VFdETmsxS3hXUmUyMl8wWGpaQkVYSFk2MkYxMnRRNG4yZw?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamRncDI4SlZ6M3pNb3BaemM3ekRIU1EycEpxeUhhSFhpNEdzRlFtWFpwcmZNcms1QU53UF9qWnlFdk0wUWZuTlRPZmEzazc5aFl0NlVSSDl5Nm1jLUVZSEpTY3d5RWlHRURhbnZ0aXltTTU5UWUzNlhIQml4dFdTekN4bnBWOWNGajJpR2hhSWp0cnNlSXl2QkZSdGdab3Q5VFdETmsxS3hXUmUyMl8wWGpaQkVYSFk2MkYxMnRRNG4yZw?oc=5)
 
 ---
 
@@ -82,14 +106,6 @@ Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMihAFBVV95c
 
 ---
 
-### [Losing the Y chromosome could reveal where cancer is beginning](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3V1MFA2NnNXRHpqTDZQamZQdlBkZFdaMTk5UzVybXkxWVZ6SEJpTlQ0NXdnRUpnWUZ0LUJFVlI1T3BhMklKY3hXVlF3RkR2MEkzRkxINkR2MGoxODlSUFlwRWhuMW9UakxrOFEwX2RJMEFKN01ma19SUHJucXpZbmMxZUlzM3h2LVNVbWFVRDdwc1hnU2ZSVkdyNllCNUk2QTRyOWxjMXVrVkhOOWotS2VJSHViQ3JQ0gG-AUFVX3lxTE54d1VrSElxLWFnMExxQkpEd090R04xYzdteHNwa0dLN24zSWNaMXpqLXA5Rk03M2RVSHhWWDNOT0lFM191dFA2dUt4V21tWmx0MjNKWk9vZFJfN3lnUkxIYk8tT1pfZFJTQ3Y4QnBwaWI1aGZha2J4M244M3VYaEpPYUhDNS1SNlA0YWVGTElhUHE3S0dSb0tiSGl2T19Ja1ZjSXlSdk9HVzdaZVFXM2ZoSHdTWi05QXJVcGVEeXc?oc=5)
-
-2026-09-20 <span class="news-indication-tag">cancer</span>
-
-Source: [Moneycontrol.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3V1MFA2NnNXRHpqTDZQamZQdlBkZFdaMTk5UzVybXkxWVZ6SEJpTlQ0NXdnRUpnWUZ0LUJFVlI1T3BhMklKY3hXVlF3RkR2MEkzRkxINkR2MGoxODlSUFlwRWhuMW9UakxrOFEwX2RJMEFKN01ma19SUHJucXpZbmMxZUlzM3h2LVNVbWFVRDdwc1hnU2ZSVkdyNllCNUk2QTRyOWxjMXVrVkhOOWotS2VJSHViQ3JQ0gG-AUFVX3lxTE54d1VrSElxLWFnMExxQkpEd090R04xYzdteHNwa0dLN24zSWNaMXpqLXA5Rk03M2RVSHhWWDNOT0lFM191dFA2dUt4V21tWmx0MjNKWk9vZFJfN3lnUkxIYk8tT1pfZFJTQ3Y4QnBwaWI1aGZha2J4M244M3VYaEpPYUhDNS1SNlA0YWVGTElhUHE3S0dSb0tiSGl2T19Ja1ZjSXlSdk9HVzdaZVFXM2ZoSHdTWi05QXJVcGVEeXc?oc=5)
-
----
-
 ### [How Salpingectomy at Hysterectomy Prevents Serous Ovarian Cancer](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVZVNnQtZjluWVJxZVBXcE1Od2ZkY3A2dU1mN1p5RExvZ0FlSkVaY0lKU1l6clViaElxQk0zVjVtQzVMY25GZHBGVVpKNWlGczhXVFZqUlNXdkh2MkpoY09VbUhuSGcwbXdVSnFXLVF5UE5Qek5VVnBSQzJ5YUR6VEdWdUY2T2pQYkZia1liU1VJR1pfUEF6dTZ0Q0ZCR05sR3I1Q1pDZGNNQQ?oc=5)
 
 2026-09-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
@@ -98,11 +114,11 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVZVNnQtZjluW
 
 ---
 
-### [Study identifies powerful inherited risk factor for lung cancer](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMG1PQXR4UDRqcGhDblN3MmJRWVlET3JTeVZ3cUtCM2MyaUFNT2NDMkJpYUFUMHc3dVFIQ2JVZ2gyZkNxUDkyczA0WlVTd0NLcThkOGdmRThEMkJULXR6Q3RJOVJWMEpfMlc5SjM4dXhYa1FRa3kzemlDdXR6Wm1kamgzWXZwY2lSZ3lvYW9uWG4xeHB5YzhwVEJmYmI5U1Z5TnBGM0Q2NjFucFBaaUNadg?oc=5)
+### [Germline EGFR T790M mutation and lung cancer risk - Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mbXdEQ2ZCZmZQU2lNYzBBM2pDUzlhZjdYMXFCbE8xTFVrZDNnQ2tndWJja25SbXktSXAtSFAtZ1V2U1lzQzJuVVplYUtEVUo1R1ZxN3ZCNEU5RVk5ZjNFdg?oc=5)
 
 2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
-Source: [news-medical.net](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMG1PQXR4UDRqcGhDblN3MmJRWVlET3JTeVZ3cUtCM2MyaUFNT2NDMkJpYUFUMHc3dVFIQ2JVZ2gyZkNxUDkyczA0WlVTd0NLcThkOGdmRThEMkJULXR6Q3RJOVJWMEpfMlc5SjM4dXhYa1FRa3kzemlDdXR6Wm1kamgzWXZwY2lSZ3lvYW9uWG4xeHB5YzhwVEJmYmI5U1Z5TnBGM0Q2NjFucFBaaUNadg?oc=5)
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mbXdEQ2ZCZmZQU2lNYzBBM2pDUzlhZjdYMXFCbE8xTFVrZDNnQ2tndWJja25SbXktSXAtSFAtZ1V2U1lzQzJuVVplYUtEVUo1R1ZxN3ZCNEU5RVk5ZjNFdg?oc=5)
 
 ---
 
@@ -111,22 +127,6 @@ Source: [news-medical.net](https://news.google.com/rss/articles/CBMisAFBVV95cUxN
 2026-09-17 <span class="news-indication-tag">cancer</span>
 
 Source: [Oncodaily](https://news.google.com/rss/articles/CBMibkFVX3lxTE1XSWdQekRlWWozdXN5VUFzUzBHdlFCYVJ2TElIcjJJV1dzWHhxRmlQaFQwV2xldm1QMjFoRFZ4dnZMdXVReXg5RDNXeGVwVzF0U2poZUd6a21XNW9xQmdSTkVFTjRyWDQ3bEZUSzJ3?oc=5)
-
----
-
-### [Terminal lucidity: when dying dementia patients regain awareness](https://news.google.com/rss/articles/CBMikAFBVV95cUxQY3pFRmNQMTd1c1lLajg3d0F0aG1LMFV5SDFPUjFhR1lLQlhYMkVPXzJQRlZWcnlGaEhhR21yOWFJQWhLTUdqS1VTUVl4bXV2WGIwZXpYSnJuaTZrZ1hCR1NfWWh4aS00MlBlZG9TNm9DekVhVlZHX1V5aGNLZ2ZDYWNNdDVEdkpQZ1dHeWY0cmo?oc=5)
-
-2026-09-16 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Psyche](https://news.google.com/rss/articles/CBMikAFBVV95cUxQY3pFRmNQMTd1c1lLajg3d0F0aG1LMFV5SDFPUjFhR1lLQlhYMkVPXzJQRlZWcnlGaEhhR21yOWFJQWhLTUdqS1VTUVl4bXV2WGIwZXpYSnJuaTZrZ1hCR1NfWWh4aS00MlBlZG9TNm9DekVhVlZHX1V5aGNLZ2ZDYWNNdDVEdkpQZ1dHeWY0cmo?oc=5)
-
----
-
-### [Like your tea or coffee very hot? A study of nearly 1 million adults found a striking cancer link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUt5MlZRZ3pKQTRMTVFwaEhFbC1hd1h2UWF1YXlDbTFxMkZZMGdHSTVmXzZWQWZWODBNMmVsYjRXYjJlSWVHLUlGQ21tS2JoVVNqeFlaRTRhTW1peXdtUldxZUxYWUJybXlSM3RGR3pGRzZreDcxTkJvUVg5M2ZleS11TzVwX0cweVdjMG54dldONUdpN21XcTJnMUVuVUE5c1I2b0I4ZjBLV3BoM2YtRFJRYU5jMTFJSXJ6REgzRk5scnM2c2FlbkFMUWZILVRjZ2xxVzB0eXNmNHlD?oc=5)
-
-2026-09-15 <span class="news-indication-tag">cancer</span>
-
-Source: [news-medical.net](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUt5MlZRZ3pKQTRMTVFwaEhFbC1hd1h2UWF1YXlDbTFxMkZZMGdHSTVmXzZWQWZWODBNMmVsYjRXYjJlSWVHLUlGQ21tS2JoVVNqeFlaRTRhTW1peXdtUldxZUxYWUJybXlSM3RGR3pGRzZreDcxTkJvUVg5M2ZleS11TzVwX0cweVdjMG54dldONUdpN21XcTJnMUVuVUE5c1I2b0I4ZjBLV3BoM2YtRFJRYU5jMTFJSXJ6REgzRk5scnM2c2FlbkFMUWZILVRjZ2xxVzB0eXNmNHlD?oc=5)
 
 ---
 

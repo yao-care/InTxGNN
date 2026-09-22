@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 
 ## Related News (1)
 
-### [Turn up the music and hide the needle: science-based strategies to make vaccination less stressful - Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQVFZUnQ3d0ZpZkRuNFV2UVlkSkJVNmFjYXBkbjlfTFczR1YxVVlkQmdONmxFU0puS0NnRjZTMGF3NTJlT3lQZWRxV25OWjAyanMzOUFtbUxqb3YxRlVfdkMtYzM2QnkzaXgtM2doYlY5TU81T28wenF4bEZpRjdoZTRuVkZHNnhEYjlEMzlnX2hVOWVIajVQVVFVbXByLUxVb0M5dDcxMFRKQWE0LWgtZmo0Vy1jdmQy?oc=5)
+### [Updated clinical guideline offers strategies to reduce vaccination distress](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHZPYlEtVXhCRVRpaWtpWkVvVWZVMENEcUJjdlNrMXo4NmdBZkhFaUc4Yy0zNDJ5bnVhSWY0bHBVa19hVmc0SmQxWEhGY3FvdE5DbUdmeXEtOXVTakw0MzdCVXQtQm5HX05vUVktejFwaC1NVnh4S2EzOHotR2pYQklEcmtDYldoTjZHaVBkRWhpRWoxSFJKQjQ0VDVxd0tnVDdOX19ZR0FkWTBEWV9DM2paaVZDd09YenRtNi1qeF8?oc=5)
 
 2026-09-21 <span class="news-indication-tag">RA</span>
 
-Source: [Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQVFZUnQ3d0ZpZkRuNFV2UVlkSkJVNmFjYXBkbjlfTFczR1YxVVlkQmdONmxFU0puS0NnRjZTMGF3NTJlT3lQZWRxV25OWjAyanMzOUFtbUxqb3YxRlVfdkMtYzM2QnkzaXgtM2doYlY5TU81T28wenF4bEZpRjdoZTRuVkZHNnhEYjlEMzlnX2hVOWVIajVQVVFVbXByLUxVb0M5dDcxMFRKQWE0LWgtZmo0Vy1jdmQy?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHZPYlEtVXhCRVRpaWtpWkVvVWZVMENEcUJjdlNrMXo4NmdBZkhFaUc4Yy0zNDJ5bnVhSWY0bHBVa19hVmc0SmQxWEhGY3FvdE5DbUdmeXEtOXVTakw0MzdCVXQtQm5HX05vUVktejFwaC1NVnh4S2EzOHotR2pYQklEcmtDYldoTjZHaVBkRWhpRWoxSFJKQjQ0VDVxd0tnVDdOX19ZR0FkWTBEWV9DM2paaVZDd09YenRtNi1qeF8?oc=5)
 
 ---
 

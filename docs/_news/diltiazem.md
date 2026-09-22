@@ -14,7 +14,7 @@ permalink: /news/diltiazem/
 ---
 
 <p class="key-answer" data-question="What news is there about Diltiazem?">
-<strong>Diltiazem</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Diltiazem</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,9 +31,23 @@ This page combines the AI-predicted indications for Diltiazem with the latest he
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Lightweight hybrid CNN–SNN framework for ischemic stroke lesion segmentation](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ncEdzYkJVQnNNNUpMeWFjbG8tRmk2SUR3T3BDZzZqLVZzRWdGaVZtRFE0aWRiTWcxcWwxY3dQSnVLSWh5eFo0NDY2QVBnNDJkQURjYmFZLXJiRUlHVlk4?oc=5)
+
+2026-09-21 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ncEdzYkJVQnNNNUpMeWFjbG8tRmk2SUR3T3BDZzZqLVZzRWdGaVZtRFE0aWRiTWcxcWwxY3dQSnVLSWh5eFo0NDY2QVBnNDJkQURjYmFZLXJiRUlHVlk4?oc=5)
+
+---
+
+### [Constant stress, chronic inflammation could cause structural changes to heart: Study - Press Trust of India](https://news.google.com/rss/articles/CBMixwFBVV95cUxPOU1EQ3RuYXY5RHlIQUk0LVg5T3JLODVpY2NhRGc3a01Dc1lwOVpxRDktcW9NcVMyNUJNSWtSTXZ3ckVNbVk3a0J6dW1HUlZ3QUlmM1FCemJ2NUpSM1c1V1JoMXpPQ1ZWSzVBcHRVWEV4ZC1udTg1aDNaSEs1NHhTVzVQeTFtb1BvMnNYOFE2TTQzZWJ6TGp4M2FkMXd0S1NQNGZOY3ZnVlpYektoS3Y2b01zVjJvLWszSkhfTXg4cDlJNnI4ZUpR?oc=5)
+
+2026-09-21 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Press Trust of India](https://news.google.com/rss/articles/CBMixwFBVV95cUxPOU1EQ3RuYXY5RHlIQUk0LVg5T3JLODVpY2NhRGc3a01Dc1lwOVpxRDktcW9NcVMyNUJNSWtSTXZ3ckVNbVk3a0J6dW1HUlZ3QUlmM1FCemJ2NUpSM1c1V1JoMXpPQ1ZWSzVBcHRVWEV4ZC1udTg1aDNaSEs1NHhTVzVQeTFtb1BvMnNYOFE2TTQzZWJ6TGp4M2FkMXd0S1NQNGZOY3ZnVlpYektoS3Y2b01zVjJvLWszSkhfTXg4cDlJNnI4ZUpR?oc=5)
+
+---
 
 
 <div class="disclaimer">

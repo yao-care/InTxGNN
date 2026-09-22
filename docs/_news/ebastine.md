@@ -14,7 +14,7 @@ permalink: /news/ebastine/
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Ebastine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Constant stress, chronic inflammation could cause structural changes to heart: Study - Press Trust of India](https://news.google.com/rss/articles/CBMixwFBVV95cUxPOU1EQ3RuYXY5RHlIQUk0LVg5T3JLODVpY2NhRGc3a01Dc1lwOVpxRDktcW9NcVMyNUJNSWtSTXZ3ckVNbVk3a0J6dW1HUlZ3QUlmM1FCemJ2NUpSM1c1V1JoMXpPQ1ZWSzVBcHRVWEV4ZC1udTg1aDNaSEs1NHhTVzVQeTFtb1BvMnNYOFE2TTQzZWJ6TGp4M2FkMXd0S1NQNGZOY3ZnVlpYektoS3Y2b01zVjJvLWszSkhfTXg4cDlJNnI4ZUpR?oc=5)
+
+2026-09-21 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Press Trust of India](https://news.google.com/rss/articles/CBMixwFBVV95cUxPOU1EQ3RuYXY5RHlIQUk0LVg5T3JLODVpY2NhRGc3a01Dc1lwOVpxRDktcW9NcVMyNUJNSWtSTXZ3ckVNbVk3a0J6dW1HUlZ3QUlmM1FCemJ2NUpSM1c1V1JoMXpPQ1ZWSzVBcHRVWEV4ZC1udTg1aDNaSEs1NHhTVzVQeTFtb1BvMnNYOFE2TTQzZWJ6TGp4M2FkMXd0S1NQNGZOY3ZnVlpYektoS3Y2b01zVjJvLWszSkhfTXg4cDlJNnI4ZUpR?oc=5)
+
+---
 
 
 <div class="disclaimer">
