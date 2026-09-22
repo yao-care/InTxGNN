@@ -35,11 +35,11 @@ This page brings together the latest health news about “lung cancer” and lis
 
 ## Related News (1)
 
-### [Study identifies powerful inherited risk factor for lung cancer](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMG1PQXR4UDRqcGhDblN3MmJRWVlET3JTeVZ3cUtCM2MyaUFNT2NDMkJpYUFUMHc3dVFIQ2JVZ2gyZkNxUDkyczA0WlVTd0NLcThkOGdmRThEMkJULXR6Q3RJOVJWMEpfMlc5SjM4dXhYa1FRa3kzemlDdXR6Wm1kamgzWXZwY2lSZ3lvYW9uWG4xeHB5YzhwVEJmYmI5U1Z5TnBGM0Q2NjFucFBaaUNadg?oc=5)
+### [Germline EGFR T790M mutation and lung cancer risk - Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mbXdEQ2ZCZmZQU2lNYzBBM2pDUzlhZjdYMXFCbE8xTFVrZDNnQ2tndWJja25SbXktSXAtSFAtZ1V2U1lzQzJuVVplYUtEVUo1R1ZxN3ZCNEU5RVk5ZjNFdg?oc=5)
 
 2026-09-17
 
-Source: [news-medical.net](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMG1PQXR4UDRqcGhDblN3MmJRWVlET3JTeVZ3cUtCM2MyaUFNT2NDMkJpYUFUMHc3dVFIQ2JVZ2gyZkNxUDkyczA0WlVTd0NLcThkOGdmRThEMkJULXR6Q3RJOVJWMEpfMlc5SjM4dXhYa1FRa3kzemlDdXR6Wm1kamgzWXZwY2lSZ3lvYW9uWG4xeHB5YzhwVEJmYmI5U1Z5TnBGM0Q2NjFucFBaaUNadg?oc=5)
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mbXdEQ2ZCZmZQU2lNYzBBM2pDUzlhZjdYMXFCbE8xTFVrZDNnQ2tndWJja25SbXktSXAtSFAtZ1V2U1lzQzJuVVplYUtEVUo1R1ZxN3ZCNEU5RVk5ZjNFdg?oc=5)
 
 ---
 
