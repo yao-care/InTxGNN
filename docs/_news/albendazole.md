@@ -14,7 +14,7 @@ permalink: /news/albendazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
+<strong>Albendazole</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,31 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (12)
+
+### [Hot Drinks Tied to Esophageal Cancer. Should Patients Worry?](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0RJdFBwYWdsekduTDk4NWRvUWo5Mkd2QTQwaU9KYVpFYnRCa3h1YTVhcHhLQ0xZeGJnMWFSQlZURmNMaVAzOHZZdmZxZ3Y1NnQyMW1kaVFHMHFCemNQMjhRY3ZpOGd0dHQ1cVpYZjlRQzN5WEZLeU14Nm1WS2U2OW1FNzZJcTgtdnhlbFMyNnZ3aDdmTEMxdktybzZJNUhOOTVLTzlyRUc?oc=5)
+
+2026-09-22 <span class="news-indication-tag">cancer</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0RJdFBwYWdsekduTDk4NWRvUWo5Mkd2QTQwaU9KYVpFYnRCa3h1YTVhcHhLQ0xZeGJnMWFSQlZURmNMaVAzOHZZdmZxZ3Y1NnQyMW1kaVFHMHFCemNQMjhRY3ZpOGd0dHQ1cVpYZjlRQzN5WEZLeU14Nm1WS2U2OW1FNzZJcTgtdnhlbFMyNnZ3aDdmTEMxdktybzZJNUhOOTVLTzlyRUc?oc=5)
+
+---
+
+### [How modern ovarian cancer care is evolving - The New Indian Express](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVBSeF9UWHFNY3FqdFlFQmJuQThYc0F6bFRsNzh4M056aFFkY19BSFVIXzFZVTRLYjdCaHJ5OEhfNndaN0s3cktZaUdRcWJial9jVkFzOXFUSFlPWjE1YkkycnNZVXVObmw5M01zTm43dl9nVXVsVFdTaEpyLS1YNUhjcDlJeWN1REJEazc2RmxQSWxPdzFYZl9jelRBbEpKczUxUmZVRdIBtAFBVV95cUxNOTZvamZieU9ZQ3NHcV9JaXV3SlNWNmJnb0syTy1yZ2J2eWEzQ0d5SUFjTmtwcmZkVWZJSU55NndqRldndzQ0OVhybUZjYWcxUWtaRUdEZ2QwX0xOWWlkYkktYllVQ09pbkJ6YXlzV0VyaVJpb3NLOHJ5RjBIeGhpeG5lZWczN3RPRVItZHJJLTRGV3VUV1h3MXFvVUpSc3hKQjFhZWJkQ0NxSmhuMS1EOU0xVGc?oc=5)
+
+2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
+
+Source: [The New Indian Express](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVBSeF9UWHFNY3FqdFlFQmJuQThYc0F6bFRsNzh4M056aFFkY19BSFVIXzFZVTRLYjdCaHJ5OEhfNndaN0s3cktZaUdRcWJial9jVkFzOXFUSFlPWjE1YkkycnNZVXVObmw5M01zTm43dl9nVXVsVFdTaEpyLS1YNUhjcDlJeWN1REJEazc2RmxQSWxPdzFYZl9jelRBbEpKczUxUmZVRdIBtAFBVV95cUxNOTZvamZieU9ZQ3NHcV9JaXV3SlNWNmJnb0syTy1yZ2J2eWEzQ0d5SUFjTmtwcmZkVWZJSU55NndqRldndzQ0OVhybUZjYWcxUWtaRUdEZ2QwX0xOWWlkYkktYllVQ09pbkJ6YXlzV0VyaVJpb3NLOHJ5RjBIeGhpeG5lZWczN3RPRVItZHJJLTRGV3VUV1h3MXFvVUpSc3hKQjFhZWJkQ0NxSmhuMS1EOU0xVGc?oc=5)
+
+---
+
+### [Blood Biomarkers and AI Imaging Reshape the Path to Earlier Alzheimer's Diagnosis, Experts at Mahajan Imaging & Labs Say - eHealth Magazine](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMXpaZjNqWTY1U0QyUl90amxwUUxNbExrY180MEJlMFQ5T1lUN0Z0VUFfWW1WWUh3eURxcWROd2NLSG1EU1ZIRzhWSzdaTENORVN2OFNCZ1FvRlVLRFNBeUJMa3B1SFJjaC0wY3dhNjAwUm1oNEU2MEdmeGNEMmNWcm9KWkl2TFpaVDZETFJ2V2FCdXlKZ1dTdXhCV0czSW1iSTZubXVnQ3VlTkNfaWdwRXhRSkxpZFI2OWVZSWRubkVqV3JDS21uWFpjZ21LYlZOeFh3bHdNQ3k1bmMtLUZWRWRQbWZERFF4Nk4wR3pn?oc=5)
+
+2026-09-22 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [eHealth Magazine](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMXpaZjNqWTY1U0QyUl90amxwUUxNbExrY180MEJlMFQ5T1lUN0Z0VUFfWW1WWUh3eURxcWROd2NLSG1EU1ZIRzhWSzdaTENORVN2OFNCZ1FvRlVLRFNBeUJMa3B1SFJjaC0wY3dhNjAwUm1oNEU2MEdmeGNEMmNWcm9KWkl2TFpaVDZETFJ2V2FCdXlKZ1dTdXhCV0czSW1iSTZubXVnQ3VlTkNfaWdwRXhRSkxpZFI2OWVZSWRubkVqV3JDS21uWFpjZ21LYlZOeFh3bHdNQ3k1bmMtLUZWRWRQbWZERFF4Nk4wR3pn?oc=5)
+
+---
 
 ### [WHO pushes for more research into traditional medicine - Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
 
@@ -58,6 +82,14 @@ Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMitgFBV
 
 ---
 
+### [Oncologist says isabgol is more than a laxative…’even reduces cancer risk’; gastroenterologist weighs in - The Indian Express](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWVRtdF8xZHdGZTNEeDJUMzBRQzdvR3g5Zjd6SkJuTjI1SWwxYXdESk5FdE83cUJwcjY2LW1WdlIwckxPcDcwYUlHWXdXdTJ5b01hNmpUeWhhRGNiZ0F0NGdkVVlweDd0WnpFU214eTE0aHBWMmN3UkxKTDZBZ1RNWmsybFZza2ZzbmVydHJWV1Vpa1BZR3BvMGdqeWhnQTNCdGVWV0pLM0w1T2I5X3IzSU4zMVJMcU9oaWQ3VldzUF9EelM4dEpMQWg2Y2dPUlRQZDBXeE1kTdIB3gFBVV95cUxPNnFKNzVkSVc1NGNIOFJWM1JXVlF1anppVlEzSkpGekFFbXVLUlpUQlVLMkJobndoNHM3Y0hxcHlYNFJfRVNOM1NsOFFjX0gyYmRQV2llS1FUWTdlTkhMMGx6UUlDS1kyRGxtZjlGeEpDREl3QU1IbE4tZVNSQWdXTjhTQUpmWHpibE8yb2Q1WGNhdENMSVE2S1o2OEM2aHFSeVJJdXprSFlIQmlMMFM0eHg2djdnR2c1a0p5MUd1cmd4Y2U2WnVfQlNEeWpuWldfMkx6YXF3Wk1lNW9UUUE?oc=5)
+
+2026-09-21 <span class="news-indication-tag">cancer</span>
+
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWVRtdF8xZHdGZTNEeDJUMzBRQzdvR3g5Zjd6SkJuTjI1SWwxYXdESk5FdE83cUJwcjY2LW1WdlIwckxPcDcwYUlHWXdXdTJ5b01hNmpUeWhhRGNiZ0F0NGdkVVlweDd0WnpFU214eTE0aHBWMmN3UkxKTDZBZ1RNWmsybFZza2ZzbmVydHJWV1Vpa1BZR3BvMGdqeWhnQTNCdGVWV0pLM0w1T2I5X3IzSU4zMVJMcU9oaWQ3VldzUF9EelM4dEpMQWg2Y2dPUlRQZDBXeE1kTdIB3gFBVV95cUxPNnFKNzVkSVc1NGNIOFJWM1JXVlF1anppVlEzSkpGekFFbXVLUlpUQlVLMkJobndoNHM3Y0hxcHlYNFJfRVNOM1NsOFFjX0gyYmRQV2llS1FUWTdlTkhMMGx6UUlDS1kyRGxtZjlGeEpDREl3QU1IbE4tZVNSQWdXTjhTQUpmWHpibE8yb2Q1WGNhdENMSVE2S1o2OEM2aHFSeVJJdXprSFlIQmlMMFM0eHg2djdnR2c1a0p5MUd1cmd4Y2U2WnVfQlNEeWpuWldfMkx6YXF3Wk1lNW9UUUE?oc=5)
+
+---
+
 ### [Daily vitamin C may benefit pre-cancerous blood disorder patients](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWt3Tk5reW80XzZwSEFLdzV4MDRGWkxiVTZqR3FkU3dqOHk4OE9BTW9wd1ZZYTRzbTU4TXEyVHF6cGtReEd0UGNtNnJzbW12d1lSMGkwQWN3dlpocGtoYVlYUVZqRVlPU1JQU0hxTkk1ZWpIUHBiSzB5cVoycm9LVXdTYVBpSnFEWmpISUppZFVjNTJ0N3VhREVocUJPamNBb2FrWmtOMzNmTWU3OTkwQW5waw?oc=5)
 
 2026-09-21 <span class="news-indication-tag">cancer</span>
@@ -70,7 +102,7 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWt3
 
 2026-09-21 <span class="news-indication-tag">cancer</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UYUx4Q1hFajJWdUNHX2FHOFFEU1VTTzhBNkhXc2RpSTJBM2VvbTFKQjNEdm1aRGtUaTAyVzdWc0Y0T0J4TWJ1VW9VVkJfTDJwal92T29EWkpPMDNnOHJ3?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UYUx4Q1hFajJWdUNHX2FHOFFEU1VTTzhBNkhXc2RpSTJBM2VvbTFKQjNEdm1aRGtUaTAyVzdWc0Y0T0J4TWJ1VW9VVkJfTDJwal92T29EWkpPMDNnOHJ3?oc=5)
 
 ---
 
@@ -98,51 +130,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamRn
 
 ---
 
-### [The New Alzheimer’s Diagnostic Era: Can Biomarkers Move Diagnosis Before Dementia? - Voice of Healthcare](https://news.google.com/rss/articles/CBMiywFBVV95cUxQblZ2YXYtLWlfOEdsT0ItZzAtMTc3LVZObzJYUHo5V0lHdWlmR3hvSlR4RFhMaGd2dDFZUkROdlp3bFgwcG1BYi1QWVp0ZVBPM0xvYzhGMm5mWGk3OXM5anVQYkpWamRGYkFEMGZLZkNpN2pxNzlQMEcyQ1NJNzA1amxYa09rY2VqbzE5UUkzQ2pncFBNUHlKUnVFdkhRalBtdmxJU1d0eXA3bHpPM0JnU2lQWE9TTE9qU1VMZ3NsXy1DckdVR0lHUFN2VQ?oc=5)
-
-2026-09-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Voice of Healthcare](https://news.google.com/rss/articles/CBMiywFBVV95cUxQblZ2YXYtLWlfOEdsT0ItZzAtMTc3LVZObzJYUHo5V0lHdWlmR3hvSlR4RFhMaGd2dDFZUkROdlp3bFgwcG1BYi1QWVp0ZVBPM0xvYzhGMm5mWGk3OXM5anVQYkpWamRGYkFEMGZLZkNpN2pxNzlQMEcyQ1NJNzA1amxYa09rY2VqbzE5UUkzQ2pncFBNUHlKUnVFdkhRalBtdmxJU1d0eXA3bHpPM0JnU2lQWE9TTE9qU1VMZ3NsXy1DckdVR0lHUFN2VQ?oc=5)
-
----
-
-### [Can AI Spot Alzheimer’s Early? - BW Healthcare World](https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2Q5ZDU0eE1XZmRQM092SGJ0NEltYlBVNmVlWUVyTWRMOERwMm1DMkF3MEZWMUxjbnVRazAtX3BjNnBVczdYam1iYm9yV21EaWpTdXVEZkhSUDctMlpjVEFOckN6UGt5LXNPbWFLdTVyVUlDSGYzMXdyOHlFY080T2lUdzk?oc=5)
-
-2026-09-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2Q5ZDU0eE1XZmRQM092SGJ0NEltYlBVNmVlWUVyTWRMOERwMm1DMkF3MEZWMUxjbnVRazAtX3BjNnBVczdYam1iYm9yV21EaWpTdXVEZkhSUDctMlpjVEFOckN6UGt5LXNPbWFLdTVyVUlDSGYzMXdyOHlFY080T2lUdzk?oc=5)
-
----
-
-### [Y chromosome loss creates hidden cancer vulnerability in men](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdfUVdVbG9HamowMGRaMm1RM3VXbldocHZzcGFJTHNzMGdBY0wyRm53RDdXWDFUbzdjWWFCS2dKX29PRWRTa0dCTWZMcHFjZkQySEdLYksweUVOaURuX2ZjVXdQS3hzbXFBcXQ4cUxJVzV3Ui1RbVBLWGdkc2pLVGlOMUpTM0pOUWd5cTB3VjRESjUxeWtnQ0xLQkRDNnpEbTFlczFqRFpJWklt?oc=5)
+### [The Cancer Medicines Already Exist, but They Were Not Designed for Children - WHO Targets the Formulation Gap](https://news.google.com/rss/articles/CBMicEFVX3lxTFB6RkZZOG91VVI2Z1c3NDhUeTZvcVVnd09JWUQ5ajFVNGVSVHkxSjJDMkpaRlRwR0R4RWZlVmJLQTFQQ3pYWHVBMkNWbFpIUm5TckhMTVA4Wks2QXBYc0U4VTNmeGFmTkFjUGszWEt1NUk?oc=5)
 
 2026-09-18 <span class="news-indication-tag">cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdfUVdVbG9HamowMGRaMm1RM3VXbldocHZzcGFJTHNzMGdBY0wyRm53RDdXWDFUbzdjWWFCS2dKX29PRWRTa0dCTWZMcHFjZkQySEdLYksweUVOaURuX2ZjVXdQS3hzbXFBcXQ4cUxJVzV3Ui1RbVBLWGdkc2pLVGlOMUpTM0pOUWd5cTB3VjRESjUxeWtnQ0xLQkRDNnpEbTFlczFqRFpJWklt?oc=5)
-
----
-
-### [Study identifies powerful inherited risk factor for lung cancer](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMG1PQXR4UDRqcGhDblN3MmJRWVlET3JTeVZ3cUtCM2MyaUFNT2NDMkJpYUFUMHc3dVFIQ2JVZ2gyZkNxUDkyczA0WlVTd0NLcThkOGdmRThEMkJULXR6Q3RJOVJWMEpfMlc5SjM4dXhYa1FRa3kzemlDdXR6Wm1kamgzWXZwY2lSZ3lvYW9uWG4xeHB5YzhwVEJmYmI5U1Z5TnBGM0Q2NjFucFBaaUNadg?oc=5)
-
-2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMG1PQXR4UDRqcGhDblN3MmJRWVlET3JTeVZ3cUtCM2MyaUFNT2NDMkJpYUFUMHc3dVFIQ2JVZ2gyZkNxUDkyczA0WlVTd0NLcThkOGdmRThEMkJULXR6Q3RJOVJWMEpfMlc5SjM4dXhYa1FRa3kzemlDdXR6Wm1kamgzWXZwY2lSZ3lvYW9uWG4xeHB5YzhwVEJmYmI5U1Z5TnBGM0Q2NjFucFBaaUNadg?oc=5)
-
----
-
-### [WHO Opens First-Ever Prequalification Pathway for 12 Childhood Cancer Medicines](https://news.google.com/rss/articles/CBMibkFVX3lxTE1XSWdQekRlWWozdXN5VUFzUzBHdlFCYVJ2TElIcjJJV1dzWHhxRmlQaFQwV2xldm1QMjFoRFZ4dnZMdXVReXg5RDNXeGVwVzF0U2poZUd6a21XNW9xQmdSTkVFTjRyWDQ3bEZUSzJ3?oc=5)
-
-2026-09-17 <span class="news-indication-tag">cancer</span>
-
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMibkFVX3lxTE1XSWdQekRlWWozdXN5VUFzUzBHdlFCYVJ2TElIcjJJV1dzWHhxRmlQaFQwV2xldm1QMjFoRFZ4dnZMdXVReXg5RDNXeGVwVzF0U2poZUd6a21XNW9xQmdSTkVFTjRyWDQ3bEZUSzJ3?oc=5)
-
----
-
-### [Terminal lucidity: when dying dementia patients regain awareness](https://news.google.com/rss/articles/CBMikAFBVV95cUxQY3pFRmNQMTd1c1lLajg3d0F0aG1LMFV5SDFPUjFhR1lLQlhYMkVPXzJQRlZWcnlGaEhhR21yOWFJQWhLTUdqS1VTUVl4bXV2WGIwZXpYSnJuaTZrZ1hCR1NfWWh4aS00MlBlZG9TNm9DekVhVlZHX1V5aGNLZ2ZDYWNNdDVEdkpQZ1dHeWY0cmo?oc=5)
-
-2026-09-16 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [psyche.co](https://news.google.com/rss/articles/CBMikAFBVV95cUxQY3pFRmNQMTd1c1lLajg3d0F0aG1LMFV5SDFPUjFhR1lLQlhYMkVPXzJQRlZWcnlGaEhhR21yOWFJQWhLTUdqS1VTUVl4bXV2WGIwZXpYSnJuaTZrZ1hCR1NfWWh4aS00MlBlZG9TNm9DekVhVlZHX1V5aGNLZ2ZDYWNNdDVEdkpQZ1dHeWY0cmo?oc=5)
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMicEFVX3lxTFB6RkZZOG91VVI2Z1c3NDhUeTZvcVVnd09JWUQ5ajFVNGVSVHkxSjJDMkpaRlRwR0R4RWZlVmJLQTFQQ3pYWHVBMkNWbFpIUm5TckhMTVA4Wks2QXBYc0U4VTNmeGFmTkFjUGszWEt1NUk?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/diltiazem/
 ---
 
 <p class="key-answer" data-question="What news is there about Diltiazem?">
-<strong>Diltiazem</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Diltiazem</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,21 +31,13 @@ This page combines the AI-predicted indications for Diltiazem with the latest he
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [WHO pushes for more research into traditional medicine - Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
-
----
-
-### [Constant stress, chronic inflammation could cause structural changes to heart: Study - ET HealthWorld](https://news.google.com/rss/articles/CBMi5AFBVV95cUxORkZTZkxuWDRjdHp3QTNrUl9qUkczRkhsbjlQckVWNGJ2U3RGX2dxNU11bmx3R09aQVg2ZUtQNDRDREJLY3IyV3JESWt2bmRXUDBuYzgyaHM0QUV5Wk5td0FoNHIzd1RRZlg0SjV1ajl6NnBwVmk3RS1PaFNnUDVPUkd4YlRFVUdaVUxSZWl3bE9LeGt6UmRPVGJIWmxwLXlHWGhEb1BXZU5YcjNnamktXzhkdmVIazVubXhHSThLYlFYWDl5dEdmQ3hVaVdNTmtzdFRyWEJKelNwY1RTY3FFOVdlbjnSAeoBQVVfeXFMTVZFWG5TSW9LNUNhVUs1Q2RWVVhDU2Q5c2s1M1JIUGJ3ZVEyRElkTlppTlJDblR1UlNya0lnUy02M3l0M200S1dOSndRV3RtdkpobkRvcTF2SGNzZ0pJRm9kRGJZSDliX1dyMGp0WVlEalhnR1Y2clpJd3kzdG5CYnR6UUZaRkk2REZHdk9IUTFBZ2NZMm5fYUJ5dmlJZlRMRkRLTTRTakZoQkhCWHUwNl9KU0Z4QWowa0dYZVRGU0dsamJhYkZPNjRVaVJzeG5LdGZsQWpkXzhXXzFMSmFSQnQtZktaNVhQN0Rn?oc=5)
-
-2026-09-22 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMi5AFBVV95cUxORkZTZkxuWDRjdHp3QTNrUl9qUkczRkhsbjlQckVWNGJ2U3RGX2dxNU11bmx3R09aQVg2ZUtQNDRDREJLY3IyV3JESWt2bmRXUDBuYzgyaHM0QUV5Wk5td0FoNHIzd1RRZlg0SjV1ajl6NnBwVmk3RS1PaFNnUDVPUkd4YlRFVUdaVUxSZWl3bE9LeGt6UmRPVGJIWmxwLXlHWGhEb1BXZU5YcjNnamktXzhkdmVIazVubXhHSThLYlFYWDl5dEdmQ3hVaVdNTmtzdFRyWEJKelNwY1RTY3FFOVdlbjnSAeoBQVVfeXFMTVZFWG5TSW9LNUNhVUs1Q2RWVVhDU2Q5c2s1M1JIUGJ3ZVEyRElkTlppTlJDblR1UlNya0lnUy02M3l0M200S1dOSndRV3RtdkpobkRvcTF2SGNzZ0pJRm9kRGJZSDliX1dyMGp0WVlEalhnR1Y2clpJd3kzdG5CYnR6UUZaRkk2REZHdk9IUTFBZ2NZMm5fYUJ5dmlJZlRMRkRLTTRTakZoQkhCWHUwNl9KU0Z4QWowa0dYZVRGU0dsamJhYkZPNjRVaVJzeG5LdGZsQWpkXzhXXzFMSmFSQnQtZktaNVhQN0Rn?oc=5)
 
 ---
 
