@@ -14,7 +14,7 @@ permalink: /news/tulobuterol/
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <li>bronchitis (100.0%)</li>
 <li>obstructive lung disease (100.0%)</li>
 <li>respiratory malformation (100.0%)</li>
-<li>chronic obstructive pulmonary disease (99.9%)</li>
+<li class="indication-matched">chronic obstructive pulmonary disease (99.9%)<span class="indication-tag">📰 chronic obstructive pulmonary disease</span></li>
 <li>Rienhoff syndrome (99.9%)</li>
 <li>compensatory emphysema (99.9%)</li>
 <li>interstitial emphysema (99.9%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Sarcopenia in Chronic Obstructive Pulmonary Disease: Prevalence and Association With Disease Severity in an Indian Tertiary Care Cohort](https://news.google.com/rss/articles/CBMigwJBVV95cUxNbDNtS2ZqQzByb3F5R1Q5N2hVb3ZaQUVrRVEwc2gxcE9pUDMzVjE1X0NGR2VZT0JaZXJRb3VwMllPTHNsUWZEaEJ5MlBBeU5IM0xfZm40b18zWFJNV2EyS3lTUFBpNzdoSlg0ZlQta2QxTGU1Rjg1SUlHcXJwaFVFUmlWTWpObjVPRTJVdmtwaTN3MlZKUzB6VG1qS19VUkNFb2FmUXJNbVdwM2E1OVl6bXh4R0hidC1vSktlcTFaSGJsMUxxQ012SWtNazJWc3Y5YnpoRGNkdWFRdWN4cENwOW5RN1VqZmhlTXZiSTVwcXVNZU41U3pFQzYzWVhPREI5SV93?oc=5)
+
+2026-09-22 <span class="news-indication-tag">chronic obstructive pulmonary disease</span> <span class="news-indication-tag">chronic obstructive pulmonary disease</span> <span class="news-indication-tag">chronic obstructive pulmonary disease</span> <span class="news-indication-tag">chronic obstructive pulmonary disease</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMigwJBVV95cUxNbDNtS2ZqQzByb3F5R1Q5N2hVb3ZaQUVrRVEwc2gxcE9pUDMzVjE1X0NGR2VZT0JaZXJRb3VwMllPTHNsUWZEaEJ5MlBBeU5IM0xfZm40b18zWFJNV2EyS3lTUFBpNzdoSlg0ZlQta2QxTGU1Rjg1SUlHcXJwaFVFUmlWTWpObjVPRTJVdmtwaTN3MlZKUzB6VG1qS19VUkNFb2FmUXJNbVdwM2E1OVl6bXh4R0hidC1vSktlcTFaSGJsMUxxQ012SWtNazJWc3Y5YnpoRGNkdWFRdWN4cENwOW5RN1VqZmhlTXZiSTVwcXVNZU41U3pFQzYzWVhPREI5SV93?oc=5)
+
+---
 
 
 <div class="disclaimer">

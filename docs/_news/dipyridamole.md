@@ -42,19 +42,19 @@ This page combines the AI-predicted indications for Dipyridamole with the latest
 
 ## Related News (2)
 
-### [Lightweight hybrid CNN–SNN framework for ischemic stroke lesion segmentation](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ncEdzYkJVQnNNNUpMeWFjbG8tRmk2SUR3T3BDZzZqLVZzRWdGaVZtRFE0aWRiTWcxcWwxY3dQSnVLSWh5eFo0NDY2QVBnNDJkQURjYmFZLXJiRUlHVlk4?oc=5)
+### [WHO pushes for more research into traditional medicine - Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
 
-2026-09-21 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ncEdzYkJVQnNNNUpMeWFjbG8tRmk2SUR3T3BDZzZqLVZzRWdGaVZtRFE0aWRiTWcxcWwxY3dQSnVLSWh5eFo0NDY2QVBnNDJkQURjYmFZLXJiRUlHVlk4?oc=5)
+Source: [Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
 
 ---
 
-### [Constant stress, chronic inflammation could cause structural changes to heart: Study - Press Trust of India](https://news.google.com/rss/articles/CBMixwFBVV95cUxPOU1EQ3RuYXY5RHlIQUk0LVg5T3JLODVpY2NhRGc3a01Dc1lwOVpxRDktcW9NcVMyNUJNSWtSTXZ3ckVNbVk3a0J6dW1HUlZ3QUlmM1FCemJ2NUpSM1c1V1JoMXpPQ1ZWSzVBcHRVWEV4ZC1udTg1aDNaSEs1NHhTVzVQeTFtb1BvMnNYOFE2TTQzZWJ6TGp4M2FkMXd0S1NQNGZOY3ZnVlpYektoS3Y2b01zVjJvLWszSkhfTXg4cDlJNnI4ZUpR?oc=5)
+### [Constant stress, chronic inflammation could cause structural changes to heart: Study - ET HealthWorld](https://news.google.com/rss/articles/CBMi5AFBVV95cUxORkZTZkxuWDRjdHp3QTNrUl9qUkczRkhsbjlQckVWNGJ2U3RGX2dxNU11bmx3R09aQVg2ZUtQNDRDREJLY3IyV3JESWt2bmRXUDBuYzgyaHM0QUV5Wk5td0FoNHIzd1RRZlg0SjV1ajl6NnBwVmk3RS1PaFNnUDVPUkd4YlRFVUdaVUxSZWl3bE9LeGt6UmRPVGJIWmxwLXlHWGhEb1BXZU5YcjNnamktXzhkdmVIazVubXhHSThLYlFYWDl5dEdmQ3hVaVdNTmtzdFRyWEJKelNwY1RTY3FFOVdlbjnSAeoBQVVfeXFMTVZFWG5TSW9LNUNhVUs1Q2RWVVhDU2Q5c2s1M1JIUGJ3ZVEyRElkTlppTlJDblR1UlNya0lnUy02M3l0M200S1dOSndRV3RtdkpobkRvcTF2SGNzZ0pJRm9kRGJZSDliX1dyMGp0WVlEalhnR1Y2clpJd3kzdG5CYnR6UUZaRkk2REZHdk9IUTFBZ2NZMm5fYUJ5dmlJZlRMRkRLTTRTakZoQkhCWHUwNl9KU0Z4QWowa0dYZVRGU0dsamJhYkZPNjRVaVJzeG5LdGZsQWpkXzhXXzFMSmFSQnQtZktaNVhQN0Rn?oc=5)
 
-2026-09-21 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-09-22 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Press Trust of India](https://news.google.com/rss/articles/CBMixwFBVV95cUxPOU1EQ3RuYXY5RHlIQUk0LVg5T3JLODVpY2NhRGc3a01Dc1lwOVpxRDktcW9NcVMyNUJNSWtSTXZ3ckVNbVk3a0J6dW1HUlZ3QUlmM1FCemJ2NUpSM1c1V1JoMXpPQ1ZWSzVBcHRVWEV4ZC1udTg1aDNaSEs1NHhTVzVQeTFtb1BvMnNYOFE2TTQzZWJ6TGp4M2FkMXd0S1NQNGZOY3ZnVlpYektoS3Y2b01zVjJvLWszSkhfTXg4cDlJNnI4ZUpR?oc=5)
+Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMi5AFBVV95cUxORkZTZkxuWDRjdHp3QTNrUl9qUkczRkhsbjlQckVWNGJ2U3RGX2dxNU11bmx3R09aQVg2ZUtQNDRDREJLY3IyV3JESWt2bmRXUDBuYzgyaHM0QUV5Wk5td0FoNHIzd1RRZlg0SjV1ajl6NnBwVmk3RS1PaFNnUDVPUkd4YlRFVUdaVUxSZWl3bE9LeGt6UmRPVGJIWmxwLXlHWGhEb1BXZU5YcjNnamktXzhkdmVIazVubXhHSThLYlFYWDl5dEdmQ3hVaVdNTmtzdFRyWEJKelNwY1RTY3FFOVdlbjnSAeoBQVVfeXFMTVZFWG5TSW9LNUNhVUs1Q2RWVVhDU2Q5c2s1M1JIUGJ3ZVEyRElkTlppTlJDblR1UlNya0lnUy02M3l0M200S1dOSndRV3RtdkpobkRvcTF2SGNzZ0pJRm9kRGJZSDliX1dyMGp0WVlEalhnR1Y2clpJd3kzdG5CYnR6UUZaRkk2REZHdk9IUTFBZ2NZMm5fYUJ5dmlJZlRMRkRLTTRTakZoQkhCWHUwNl9KU0Z4QWowa0dYZVRGU0dsamJhYkZPNjRVaVJzeG5LdGZsQWpkXzhXXzFMSmFSQnQtZktaNVhQN0Rn?oc=5)
 
 ---
 

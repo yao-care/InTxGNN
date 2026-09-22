@@ -3,7 +3,7 @@ layout: default
 title: "RA (rheumatoid arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (rheumatoid arthritis). 1 articles, 21 related drugs."
+description: "Health news about RA (rheumatoid arthritis). 2 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rheumatoid-arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about RA (rheumatoid arthritis)?">
-<strong>RA (rheumatoid arthritis)</strong> currently has <strong>1 news articles</strong> and 21 related drugs.
+<strong>RA (rheumatoid arthritis)</strong> currently has <strong>2 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -49,13 +49,21 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Updated clinical guideline offers strategies to reduce vaccination distress](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHZPYlEtVXhCRVRpaWtpWkVvVWZVMENEcUJjdlNrMXo4NmdBZkhFaUc4Yy0zNDJ5bnVhSWY0bHBVa19hVmc0SmQxWEhGY3FvdE5DbUdmeXEtOXVTakw0MzdCVXQtQm5HX05vUVktejFwaC1NVnh4S2EzOHotR2pYQklEcmtDYldoTjZHaVBkRWhpRWoxSFJKQjQ0VDVxd0tnVDdOX19ZR0FkWTBEWV9DM2paaVZDd09YenRtNi1qeF8?oc=5)
+### [Photothermal Spectroscopy Corp. launches stRAMos™ — A breakthrough SRS, Stimulated Raman microscope based on photothermal detection](https://news.google.com/rss/articles/CBMilgJBVV95cUxOZkVVa0lsM0d1enlJOS1iT040dWVVXzh3T2tDbjBxaGNLem5pLUtmX0xubW95LXE0eDlKMjBhZFNGSDBOM05QeDlmb3AyaXZZT1ZzdllTVWk1T2VNckxROGhVZnRRV0R4Q25tWFZkcV9kajRLRHM5ZS1XNXA3TVZxdU8wQVhjMldjMkJuSE9mUFNnMWVkbllfTV9kb0ZvdTBfTzhrazFtV3VnQUtKMVY2VnFGcGExNllxLWlWTm1IVERZSnkyd3E4aWVtcHJtekp4OTBTZDNlZ25vUkY1WnJ5cUZZNWNydjhrc0lhTmx1dGpRR2NuR1ZSSV81N05iamY4QWJLRzVxQllPNHFlNUotb1NiMGVTUQ?oc=5)
+
+2026-09-22
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMilgJBVV95cUxOZkVVa0lsM0d1enlJOS1iT040dWVVXzh3T2tDbjBxaGNLem5pLUtmX0xubW95LXE0eDlKMjBhZFNGSDBOM05QeDlmb3AyaXZZT1ZzdllTVWk1T2VNckxROGhVZnRRV0R4Q25tWFZkcV9kajRLRHM5ZS1XNXA3TVZxdU8wQVhjMldjMkJuSE9mUFNnMWVkbllfTV9kb0ZvdTBfTzhrazFtV3VnQUtKMVY2VnFGcGExNllxLWlWTm1IVERZSnkyd3E4aWVtcHJtekp4OTBTZDNlZ25vUkY1WnJ5cUZZNWNydjhrc0lhTmx1dGpRR2NuR1ZSSV81N05iamY4QWJLRzVxQllPNHFlNUotb1NiMGVTUQ?oc=5)
+
+---
+
+### [China’s space- and ground-based observatories trace long journey of cosmic rays - Macau Business](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMng1eXM0UkNxV09WdGgxTDdNZzFwYWt4T0dpR0pDajg0dElfa0V3MmNVRzgwU0FkQTNNQ2tCWjNtRnlKQnFoLV9kM2V4WjMzSjdCLTExTW4xRjdhRTAxZ1QycHNVYjZpX1hrMGlEdlMxZ2FnckcyVlBCLVRUU0RGWm1QYW5HT1FuZF9QM1Z1UE5VQkYteDBLVWpHMU5ZZlFLX0lfcDZBZw?oc=5)
 
 2026-09-21
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHZPYlEtVXhCRVRpaWtpWkVvVWZVMENEcUJjdlNrMXo4NmdBZkhFaUc4Yy0zNDJ5bnVhSWY0bHBVa19hVmc0SmQxWEhGY3FvdE5DbUdmeXEtOXVTakw0MzdCVXQtQm5HX05vUVktejFwaC1NVnh4S2EzOHotR2pYQklEcmtDYldoTjZHaVBkRWhpRWoxSFJKQjQ0VDVxd0tnVDdOX19ZR0FkWTBEWV9DM2paaVZDd09YenRtNi1qeF8?oc=5)
+Source: [Macau Business](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMng1eXM0UkNxV09WdGgxTDdNZzFwYWt4T0dpR0pDajg0dElfa0V3MmNVRzgwU0FkQTNNQ2tCWjNtRnlKQnFoLV9kM2V4WjMzSjdCLTExTW4xRjdhRTAxZ1QycHNVYjZpX1hrMGlEdlMxZ2FnckcyVlBCLVRUU0RGWm1QYW5HT1FuZF9QM1Z1UE5VQkYteDBLVWpHMU5ZZlFLX0lfcDZBZw?oc=5)
 
 ---
 
