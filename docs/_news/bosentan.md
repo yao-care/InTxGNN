@@ -14,7 +14,7 @@ permalink: /news/bosentan/
 ---
 
 <p class="key-answer" data-question="What news is there about Bosentan?">
-<strong>Bosentan</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Bosentan</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,21 @@ This page combines the AI-predicted indications for Bosentan with the latest hea
 <p><a href="{{ '/drugs/bosentan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Updated clinical guideline offers strategies to reduce vaccination distress](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHZPYlEtVXhCRVRpaWtpWkVvVWZVMENEcUJjdlNrMXo4NmdBZkhFaUc4Yy0zNDJ5bnVhSWY0bHBVa19hVmc0SmQxWEhGY3FvdE5DbUdmeXEtOXVTakw0MzdCVXQtQm5HX05vUVktejFwaC1NVnh4S2EzOHotR2pYQklEcmtDYldoTjZHaVBkRWhpRWoxSFJKQjQ0VDVxd0tnVDdOX19ZR0FkWTBEWV9DM2paaVZDd09YenRtNi1qeF8?oc=5)
+### [Photothermal Spectroscopy Corp. launches stRAMos™ — A breakthrough SRS, Stimulated Raman microscope based on photothermal detection](https://news.google.com/rss/articles/CBMilgJBVV95cUxOZkVVa0lsM0d1enlJOS1iT040dWVVXzh3T2tDbjBxaGNLem5pLUtmX0xubW95LXE0eDlKMjBhZFNGSDBOM05QeDlmb3AyaXZZT1ZzdllTVWk1T2VNckxROGhVZnRRV0R4Q25tWFZkcV9kajRLRHM5ZS1XNXA3TVZxdU8wQVhjMldjMkJuSE9mUFNnMWVkbllfTV9kb0ZvdTBfTzhrazFtV3VnQUtKMVY2VnFGcGExNllxLWlWTm1IVERZSnkyd3E4aWVtcHJtekp4OTBTZDNlZ25vUkY1WnJ5cUZZNWNydjhrc0lhTmx1dGpRR2NuR1ZSSV81N05iamY4QWJLRzVxQllPNHFlNUotb1NiMGVTUQ?oc=5)
+
+2026-09-22 <span class="news-indication-tag">RA</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMilgJBVV95cUxOZkVVa0lsM0d1enlJOS1iT040dWVVXzh3T2tDbjBxaGNLem5pLUtmX0xubW95LXE0eDlKMjBhZFNGSDBOM05QeDlmb3AyaXZZT1ZzdllTVWk1T2VNckxROGhVZnRRV0R4Q25tWFZkcV9kajRLRHM5ZS1XNXA3TVZxdU8wQVhjMldjMkJuSE9mUFNnMWVkbllfTV9kb0ZvdTBfTzhrazFtV3VnQUtKMVY2VnFGcGExNllxLWlWTm1IVERZSnkyd3E4aWVtcHJtekp4OTBTZDNlZ25vUkY1WnJ5cUZZNWNydjhrc0lhTmx1dGpRR2NuR1ZSSV81N05iamY4QWJLRzVxQllPNHFlNUotb1NiMGVTUQ?oc=5)
+
+---
+
+### [China’s space- and ground-based observatories trace long journey of cosmic rays - Macau Business](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMng1eXM0UkNxV09WdGgxTDdNZzFwYWt4T0dpR0pDajg0dElfa0V3MmNVRzgwU0FkQTNNQ2tCWjNtRnlKQnFoLV9kM2V4WjMzSjdCLTExTW4xRjdhRTAxZ1QycHNVYjZpX1hrMGlEdlMxZ2FnckcyVlBCLVRUU0RGWm1QYW5HT1FuZF9QM1Z1UE5VQkYteDBLVWpHMU5ZZlFLX0lfcDZBZw?oc=5)
 
 2026-09-21 <span class="news-indication-tag">RA</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHZPYlEtVXhCRVRpaWtpWkVvVWZVMENEcUJjdlNrMXo4NmdBZkhFaUc4Yy0zNDJ5bnVhSWY0bHBVa19hVmc0SmQxWEhGY3FvdE5DbUdmeXEtOXVTakw0MzdCVXQtQm5HX05vUVktejFwaC1NVnh4S2EzOHotR2pYQklEcmtDYldoTjZHaVBkRWhpRWoxSFJKQjQ0VDVxd0tnVDdOX19ZR0FkWTBEWV9DM2paaVZDd09YenRtNi1qeF8?oc=5)
+Source: [Macau Business](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMng1eXM0UkNxV09WdGgxTDdNZzFwYWt4T0dpR0pDajg0dElfa0V3MmNVRzgwU0FkQTNNQ2tCWjNtRnlKQnFoLV9kM2V4WjMzSjdCLTExTW4xRjdhRTAxZ1QycHNVYjZpX1hrMGlEdlMxZ2FnckcyVlBCLVRUU0RGWm1QYW5HT1FuZF9QM1Z1UE5VQkYteDBLVWpHMU5ZZlFLX0lfcDZBZw?oc=5)
 
 ---
 

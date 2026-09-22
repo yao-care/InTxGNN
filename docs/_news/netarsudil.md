@@ -14,7 +14,7 @@ permalink: /news/netarsudil/
 ---
 
 <p class="key-answer" data-question="What news is there about Netarsudil?">
-<strong>Netarsudil</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
+<strong>Netarsudil</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,21 +26,15 @@ This page combines the AI-predicted indications for Netarsudil with the latest h
 <ul>
 <li><strong>Predicted indications (2)</strong>:<ul>
 <li>primary hereditary glaucoma (99.5%)</li>
-<li class="indication-matched">glaucoma (99.5%)<span class="indication-tag">📰 glaucoma</span></li>
+<li>glaucoma (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/netarsudil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Air pollution linked to higher risks of glaucoma and cataract](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWGx4Yzljc1Z1X0o1REljZnJLOGQ1bU9BQnlKdzNtYkFoNjRSRmZFcmJDT1hBQlBLREd1T0N1NnVVZ2ZVUmVIQ3NFeDNkV0xHWHhQWmpVWGVVWlkyekV1RFNVZTZYWWlQQUYwc0piY01EV0J1UnNqbFdJNnpMcVFPekloZERmbzdSRDdkaFFuYzVqRHlxYXVlMDFFSjZpdk1PNWNEVDVfZnhJVzNRcHc?oc=5)
-
-2026-09-15 <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWGx4Yzljc1Z1X0o1REljZnJLOGQ1bU9BQnlKdzNtYkFoNjRSRmZFcmJDT1hBQlBLREd1T0N1NnVVZ2ZVUmVIQ3NFeDNkV0xHWHhQWmpVWGVVWlkyekV1RFNVZTZYWWlQQUYwc0piY01EV0J1UnNqbFdJNnpMcVFPekloZERmbzdSRDdkaFFuYzVqRHlxYXVlMDFFSjZpdk1PNWNEVDVfZnhJVzNRcHc?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

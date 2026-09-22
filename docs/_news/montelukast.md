@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Flatworm genes reveal secrets to regrowing damaged brain cells](https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0d4bG1SYWx6QkdfVXZRbmlkMzVvNW50dE1PSDVVbDQ5enpjOWxON3k1X2JBTDdPZEs4MThvRG1ldlNIVllYeDJuOFhBdUV2andjODB0V01WM012V1loWUlGUW9fblp4cDdWTWI1bTFTekhsd0NNTnFuRVZQNG1CYWhhMEh2YzBnc1o0dU03Qzk3aVN3cVU2SHpHVGJNX0MxZndGdmg2QjY4b2pIVzZZ?oc=5)
-
-2026-09-21 <span class="news-indication-tag">dama</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0d4bG1SYWx6QkdfVXZRbmlkMzVvNW50dE1PSDVVbDQ5enpjOWxON3k1X2JBTDdPZEs4MThvRG1ldlNIVllYeDJuOFhBdUV2andjODB0V01WM012V1loWUlGUW9fblp4cDdWTWI1bTFTekhsd0NNTnFuRVZQNG1CYWhhMEh2YzBnc1o0dU03Qzk3aVN3cVU2SHpHVGJNX0MxZndGdmg2QjY4b2pIVzZZ?oc=5)
-
----
+## Related News (1)
 
 ### [Could Earlier Biologics Change the Course of Severe Asthma?](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWJsRE9MQVZ2dlV1eEdtdmNPSnhKMXFMckI1T1ZVMU8xS01iYmMxY1RuaUJSOFlDRkhNUEtJcklwcll5Yk5aNkFHcDV1aEVIb1RudVhaUk9NRTYzdEc2clNSa2FyVHU1aGJCYmhFQk9hd0Z1M0VqVF9zVFZoazZ1T3Z3MzhrWFlhTFdjVzNqM1BuR3VGNUNrN2JRdHdpdW5OWkR0VEdR?oc=5)
 
