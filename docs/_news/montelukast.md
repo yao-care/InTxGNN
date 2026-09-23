@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>bronchitis (100.0%)</li>
 <li>atopic eczema (99.8%)</li>
-<li>asthma (99.5%)</li>
+<li class="indication-matched">asthma (99.5%)<span class="indication-tag">📰 dama</span></li>
 <li>obstructive lung disease (99.3%)</li>
 <li>asthma-related traits, susceptibility to (99.2%)</li>
 </ul></li>
@@ -35,9 +35,15 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Every extra 100 grams of ultra-processed food linked to higher disease risks - Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PUTNPb1gzN0wxdWNoOGg5aFBWZ1g5RUt2aXFhN1dXTlVyclJ2bkhfVWFDVXAya0JsVjVlUk9PYzg5UXdNR0xsaEpnRWZubFRYOVBOX0JGSUV1Zm5WbjczODd4YkVsUElMbWVHejFWTXdSdFVURFBGMTZNbjk3dw?oc=5)
+
+2026-09-22 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dama</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PUTNPb1gzN0wxdWNoOGg5aFBWZ1g5RUt2aXFhN1dXTlVyclJ2bkhfVWFDVXAya0JsVjVlUk9PYzg5UXdNR0xsaEpnRWZubFRYOVBOX0JGSUV1Zm5WbjczODd4YkVsUElMbWVHejFWTXdSdFVURFBGMTZNbjk3dw?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -42,6 +42,14 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 
 ## Related News (12)
 
+### [The Brain as Two Organs; Epstein-Barr and MS; Indigenous Bolivians and Dementia - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcktYZ3AyLWxFQ3pWYzR5dFExcDI4c0IzLWlOOUZMRUJwcE1BcnNZYVlEUW5HeHJvcmpSOTJrT3gxMnlnSW9LaG8wWm9CYXFkR19fd3BpdmxLMEw3cWtQbmlCS2UtWm9Na3dWRW8zVQ?oc=5)
+
+2026-09-22 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcktYZ3AyLWxFQ3pWYzR5dFExcDI4c0IzLWlOOUZMRUJwcE1BcnNZYVlEUW5HeHJvcmpSOTJrT3gxMnlnSW9LaG8wWm9CYXFkR19fd3BpdmxLMEw3cWtQbmlCS2UtWm9Na3dWRW8zVQ?oc=5)
+
+---
+
 ### [10 Powerful Foods for Better Brain Health and Memory](https://news.google.com/rss/articles/CBMieEFVX3lxTE1KSHRUZ3Bvd1VOZVVXY1JxRkRjM1R6YU1MTE44aWVxU2Fwakc5dTBsdlIxbW5ET0Y0SnpFaEJOMlY1TkdodGlKMGFhX2F4UlJEaWZQa1g3Y0JzY3RnakRIRjF1Y0dnRDNkcThJT2JkWWVfa0lLYXB5Vw?oc=5)
 
 2026-09-22 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
@@ -58,14 +66,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0RJdFBw
 
 ---
 
-### [Colorectal Cancer Screening Market Report Examines Industry Trends, Growth Drivers And Future Outlook](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUhhSTdiV05kczNXVTczd1RzYVIycTdNRVNxUUJHREZielp6WWtlb2RPLVFrWHlsRXFhVXE2ZjhxcHdFMldxR2toWkRqT3lORXBCRTY4VjhxaUo1SmZlemtfQk1ZRE5WdHJVVWhnVmgycDVfU2RRYTJoV3VpYnhwOVlhZ0dzeDNhb1FXNWVNVS1wdXF5cXA4aFdKSQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colon cancer</span> <span class="news-indication-tag">rectal cancer</span>
-
-Source: [openPR.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUhhSTdiV05kczNXVTczd1RzYVIycTdNRVNxUUJHREZielp6WWtlb2RPLVFrWHlsRXFhVXE2ZjhxcHdFMldxR2toWkRqT3lORXBCRTY4VjhxaUo1SmZlemtfQk1ZRE5WdHJVVWhnVmgycDVfU2RRYTJoV3VpYnhwOVlhZ0dzeDNhb1FXNWVNVS1wdXF5cXA4aFdKSQ?oc=5)
-
----
-
 ### [How modern ovarian cancer care is evolving - The New Indian Express](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVBSeF9UWHFNY3FqdFlFQmJuQThYc0F6bFRsNzh4M056aFFkY19BSFVIXzFZVTRLYjdCaHJ5OEhfNndaN0s3cktZaUdRcWJial9jVkFzOXFUSFlPWjE1YkkycnNZVXVObmw5M01zTm43dl9nVXVsVFdTaEpyLS1YNUhjcDlJeWN1REJEazc2RmxQSWxPdzFYZl9jelRBbEpKczUxUmZVRdIBtAFBVV95cUxNOTZvamZieU9ZQ3NHcV9JaXV3SlNWNmJnb0syTy1yZ2J2eWEzQ0d5SUFjTmtwcmZkVWZJSU55NndqRldndzQ0OVhybUZjYWcxUWtaRUdEZ2QwX0xOWWlkYkktYllVQ09pbkJ6YXlzV0VyaVJpb3NLOHJ5RjBIeGhpeG5lZWczN3RPRVItZHJJLTRGV3VUV1h3MXFvVUpSc3hKQjFhZWJkQ0NxSmhuMS1EOU0xVGc?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
@@ -74,11 +74,11 @@ Source: [The New Indian Express](https://news.google.com/rss/articles/CBMipwFBVV
 
 ---
 
-### [Blood Biomarkers and AI Imaging Reshape the Path to Earlier Alzheimer's Diagnosis, Experts at Mahajan Imaging & Labs Say - eHealth Magazine](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMXpaZjNqWTY1U0QyUl90amxwUUxNbExrY180MEJlMFQ5T1lUN0Z0VUFfWW1WWUh3eURxcWROd2NLSG1EU1ZIRzhWSzdaTENORVN2OFNCZ1FvRlVLRFNBeUJMa3B1SFJjaC0wY3dhNjAwUm1oNEU2MEdmeGNEMmNWcm9KWkl2TFpaVDZETFJ2V2FCdXlKZ1dTdXhCV0czSW1iSTZubXVnQ3VlTkNfaWdwRXhRSkxpZFI2OWVZSWRubkVqV3JDS21uWFpjZ21LYlZOeFh3bHdNQ3k1bmMtLUZWRWRQbWZERFF4Nk4wR3pn?oc=5)
+### [Daily Sugary Drink Consumption Doubles Risk of Gastric Cancer - India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
 
-2026-09-22 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-09-22 <span class="news-indication-tag">cancer</span>
 
-Source: [eHealth Magazine](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMXpaZjNqWTY1U0QyUl90amxwUUxNbExrY180MEJlMFQ5T1lUN0Z0VUFfWW1WWUh3eURxcWROd2NLSG1EU1ZIRzhWSzdaTENORVN2OFNCZ1FvRlVLRFNBeUJMa3B1SFJjaC0wY3dhNjAwUm1oNEU2MEdmeGNEMmNWcm9KWkl2TFpaVDZETFJ2V2FCdXlKZ1dTdXhCV0czSW1iSTZubXVnQ3VlTkNfaWdwRXhRSkxpZFI2OWVZSWRubkVqV3JDS21uWFpjZ21LYlZOeFh3bHdNQ3k1bmMtLUZWRWRQbWZERFF4Nk4wR3pn?oc=5)
+Source: [India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
 
 ---
 
@@ -98,19 +98,19 @@ Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMitgFBV
 
 ---
 
+### [How sitting for too long could impact your cancer risk - Advisory Board](https://news.google.com/rss/articles/CBMiekFVX3lxTE9UVGxwZndCNnVIU0NKdWx4cDdZOVFUV2pFeVV1Z0xsWXFyX19fY29vNU5JaVlSZDZZSUpXYktCX3lIb1c5SHpUczlSTzF3cktWQnZYTUdvbl8xTUl0a0NhYTFONzZ6WUU4YTBHMEdpWUtiVkc4OEFRUFFn?oc=5)
+
+2026-09-21 <span class="news-indication-tag">cancer</span>
+
+Source: [Advisory Board](https://news.google.com/rss/articles/CBMiekFVX3lxTE9UVGxwZndCNnVIU0NKdWx4cDdZOVFUV2pFeVV1Z0xsWXFyX19fY29vNU5JaVlSZDZZSUpXYktCX3lIb1c5SHpUczlSTzF3cktWQnZYTUdvbl8xTUl0a0NhYTFONzZ6WUU4YTBHMEdpWUtiVkc4OEFRUFFn?oc=5)
+
+---
+
 ### [Oncologist says isabgol is more than a laxative…’even reduces cancer risk’; gastroenterologist weighs in - The Indian Express](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWVRtdF8xZHdGZTNEeDJUMzBRQzdvR3g5Zjd6SkJuTjI1SWwxYXdESk5FdE83cUJwcjY2LW1WdlIwckxPcDcwYUlHWXdXdTJ5b01hNmpUeWhhRGNiZ0F0NGdkVVlweDd0WnpFU214eTE0aHBWMmN3UkxKTDZBZ1RNWmsybFZza2ZzbmVydHJWV1Vpa1BZR3BvMGdqeWhnQTNCdGVWV0pLM0w1T2I5X3IzSU4zMVJMcU9oaWQ3VldzUF9EelM4dEpMQWg2Y2dPUlRQZDBXeE1kTdIB3gFBVV95cUxPNnFKNzVkSVc1NGNIOFJWM1JXVlF1anppVlEzSkpGekFFbXVLUlpUQlVLMkJobndoNHM3Y0hxcHlYNFJfRVNOM1NsOFFjX0gyYmRQV2llS1FUWTdlTkhMMGx6UUlDS1kyRGxtZjlGeEpDREl3QU1IbE4tZVNSQWdXTjhTQUpmWHpibE8yb2Q1WGNhdENMSVE2S1o2OEM2aHFSeVJJdXprSFlIQmlMMFM0eHg2djdnR2c1a0p5MUd1cmd4Y2U2WnVfQlNEeWpuWldfMkx6YXF3Wk1lNW9UUUE?oc=5)
 
 2026-09-21 <span class="news-indication-tag">cancer</span>
 
 Source: [The Indian Express](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWVRtdF8xZHdGZTNEeDJUMzBRQzdvR3g5Zjd6SkJuTjI1SWwxYXdESk5FdE83cUJwcjY2LW1WdlIwckxPcDcwYUlHWXdXdTJ5b01hNmpUeWhhRGNiZ0F0NGdkVVlweDd0WnpFU214eTE0aHBWMmN3UkxKTDZBZ1RNWmsybFZza2ZzbmVydHJWV1Vpa1BZR3BvMGdqeWhnQTNCdGVWV0pLM0w1T2I5X3IzSU4zMVJMcU9oaWQ3VldzUF9EelM4dEpMQWg2Y2dPUlRQZDBXeE1kTdIB3gFBVV95cUxPNnFKNzVkSVc1NGNIOFJWM1JXVlF1anppVlEzSkpGekFFbXVLUlpUQlVLMkJobndoNHM3Y0hxcHlYNFJfRVNOM1NsOFFjX0gyYmRQV2llS1FUWTdlTkhMMGx6UUlDS1kyRGxtZjlGeEpDREl3QU1IbE4tZVNSQWdXTjhTQUpmWHpibE8yb2Q1WGNhdENMSVE2S1o2OEM2aHFSeVJJdXprSFlIQmlMMFM0eHg2djdnR2c1a0p5MUd1cmd4Y2U2WnVfQlNEeWpuWldfMkx6YXF3Wk1lNW9UUUE?oc=5)
-
----
-
-### [Harnessing microfluidics for microbiology: from bacteria-host interactions to emerging cancer therapies](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UYUx4Q1hFajJWdUNHX2FHOFFEU1VTTzhBNkhXc2RpSTJBM2VvbTFKQjNEdm1aRGtUaTAyVzdWc0Y0T0J4TWJ1VW9VVkJfTDJwal92T29EWkpPMDNnOHJ3?oc=5)
-
-2026-09-21 <span class="news-indication-tag">cancer</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UYUx4Q1hFajJWdUNHX2FHOFFEU1VTTzhBNkhXc2RpSTJBM2VvbTFKQjNEdm1aRGtUaTAyVzdWc0Y0T0J4TWJ1VW9VVkJfTDJwal92T29EWkpPMDNnOHJ3?oc=5)
 
 ---
 
@@ -122,11 +122,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFJmRThE
 
 ---
 
-### [Sugary drinks stood out in this stomach cancer study, but diet drinks did not](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamRncDI4SlZ6M3pNb3BaemM3ekRIU1EycEpxeUhhSFhpNEdzRlFtWFpwcmZNcms1QU53UF9qWnlFdk0wUWZuTlRPZmEzazc5aFl0NlVSSDl5Nm1jLUVZSEpTY3d5RWlHRURhbnZ0aXltTTU5UWUzNlhIQml4dFdTekN4bnBWOWNGajJpR2hhSWp0cnNlSXl2QkZSdGdab3Q5VFdETmsxS3hXUmUyMl8wWGpaQkVYSFk2MkYxMnRRNG4yZw?oc=5)
+### [Y chromosome loss creates hidden cancer vulnerability in men](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdfUVdVbG9HamowMGRaMm1RM3VXbldocHZzcGFJTHNzMGdBY0wyRm53RDdXWDFUbzdjWWFCS2dKX29PRWRTa0dCTWZMcHFjZkQySEdLYksweUVOaURuX2ZjVXdQS3hzbXFBcXQ4cUxJVzV3Ui1RbVBLWGdkc2pLVGlOMUpTM0pOUWd5cTB3VjRESjUxeWtnQ0xLQkRDNnpEbTFlczFqRFpJWklt?oc=5)
 
-2026-09-21 <span class="news-indication-tag">cancer</span>
+2026-09-18 <span class="news-indication-tag">cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamRncDI4SlZ6M3pNb3BaemM3ekRIU1EycEpxeUhhSFhpNEdzRlFtWFpwcmZNcms1QU53UF9qWnlFdk0wUWZuTlRPZmEzazc5aFl0NlVSSDl5Nm1jLUVZSEpTY3d5RWlHRURhbnZ0aXltTTU5UWUzNlhIQml4dFdTekN4bnBWOWNGajJpR2hhSWp0cnNlSXl2QkZSdGdab3Q5VFdETmsxS3hXUmUyMl8wWGpaQkVYSFk2MkYxMnRRNG4yZw?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdfUVdVbG9HamowMGRaMm1RM3VXbldocHZzcGFJTHNzMGdBY0wyRm53RDdXWDFUbzdjWWFCS2dKX29PRWRTa0dCTWZMcHFjZkQySEdLYksweUVOaURuX2ZjVXdQS3hzbXFBcXQ4cUxJVzV3Ui1RbVBLWGdkc2pLVGlOMUpTM0pOUWd5cTB3VjRESjUxeWtnQ0xLQkRDNnpEbTFlczFqRFpJWklt?oc=5)
 
 ---
 
