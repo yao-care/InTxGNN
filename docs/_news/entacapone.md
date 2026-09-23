@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,31 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (3)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Can Alzheimer’s Be Prevented? Understanding The Role Of Lifestyle And Brain Health : Dr. Anirudh Vilas Kulkarni, Senior Consultant – Interventional Neurology, KIMS Hospitals, Electronic City, Bengalu. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnZPQ01fcEQ5X01odzVBTmFBc0NXZEp5QmdNbktub3NsMHRZYTZSMllXM2ozZ2UtTG1jLXI1bnJQRW45MlV2bjRwVW44eHcwSk9RaDZ4UVlFWU94Z3doeUozTGZOZEJUNk1ZRU1FMDFvR1RnT0ZLTGlWWmJ2cXd2Z2tVMS1XbnpzdERWZGh0aHF5SkpTY2NCMzUtYzdoZnc2M1B1Y2ZVRUxWS29WVVJRWkZGVFpMVE9QMmdZbzR5al8wT0liU0RkcG5PcHdZZ2d0MmNmUVlmWV9DY2ZBcHhmWnlSdVQ0bmxpR2RpblB1dkVwMU1ILVBMbjU4bWd1NW91eG5rYzNvRktmQjY2RzZFVkxWc09TTkpLWkV0XzR6VXE4dkNKNU1QVjdOdE5reE1i?oc=5)
+
+2026-09-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">RA</span>
+
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnZPQ01fcEQ5X01odzVBTmFBc0NXZEp5QmdNbktub3NsMHRZYTZSMllXM2ozZ2UtTG1jLXI1bnJQRW45MlV2bjRwVW44eHcwSk9RaDZ4UVlFWU94Z3doeUozTGZOZEJUNk1ZRU1FMDFvR1RnT0ZLTGlWWmJ2cXd2Z2tVMS1XbnpzdERWZGh0aHF5SkpTY2NCMzUtYzdoZnc2M1B1Y2ZVRUxWS29WVVJRWkZGVFpMVE9QMmdZbzR5al8wT0liU0RkcG5PcHdZZ2d0MmNmUVlmWV9DY2ZBcHhmWnlSdVQ0bmxpR2RpblB1dkVwMU1ILVBMbjU4bWd1NW91eG5rYzNvRktmQjY2RzZFVkxWc09TTkpLWkV0XzR6VXE4dkNKNU1QVjdOdE5reE1i?oc=5)
+
+---
+
+### [Doctors warn of rising dementia burden even as India gets first disease-modifying Alzheimer's Drug](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTUlhS3ktQU1ab2lqWm5TckF0RFVzeXlOMzJpdWhJUFA3WWN1MUVjUjRSeGt4SWdRMFRZZ3BkWWxXNEktdFFrZHFvYmQ5bExBLTUxLWFkTFNfelNmcWN6WnI2bFRrbUZTUEpfNDZhWjNmRVd0WUhKM244VGQyRTFJOWd1MDBCekxEdE4xSk1yMWF2cUJVZUxrV1k5RTVSNnBlYXlHRVFoMUNjLW1kU01kMHpZMTdnT2xDSGtsbnV1U0d3VHhtMVZUaVBiTjJHeHRvYzE4V1FpY2FKMU0?oc=5)
+
+2026-09-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [expresshealthcare.in](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTUlhS3ktQU1ab2lqWm5TckF0RFVzeXlOMzJpdWhJUFA3WWN1MUVjUjRSeGt4SWdRMFRZZ3BkWWxXNEktdFFrZHFvYmQ5bExBLTUxLWFkTFNfelNmcWN6WnI2bFRrbUZTUEpfNDZhWjNmRVd0WUhKM244VGQyRTFJOWd1MDBCekxEdE4xSk1yMWF2cUJVZUxrV1k5RTVSNnBlYXlHRVFoMUNjLW1kU01kMHpZMTdnT2xDSGtsbnV1U0d3VHhtMVZUaVBiTjJHeHRvYzE4V1FpY2FKMU0?oc=5)
+
+---
+
+### [Dementia Cases In India Projected To Nearly Double By 2036](https://news.google.com/rss/articles/CBMimwFBVV95cUxQYl9JNy1iYmk0UGM1QUxCSUhQd01ZQlpvekx4MnFwMzJWajJMb1BkSjJfSWJSSFFfYk5iSmo1WmFYRlpoOXdsRFFUV1FfQnVIMjgtWmI3UTU5ZGJmVzJHU3NFUWY5aWdsUE9ST2ZhbFN0dGllMkNzX2NlNVRVa1ZOWndRSnRQeThDclQ0V2dHTkxERzdGejR1bFdQTQ?oc=5)
+
+2026-09-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMimwFBVV95cUxQYl9JNy1iYmk0UGM1QUxCSUhQd01ZQlpvekx4MnFwMzJWajJMb1BkSjJfSWJSSFFfYk5iSmo1WmFYRlpoOXdsRFFUV1FfQnVIMjgtWmI3UTU5ZGJmVzJHU3NFUWY5aWdsUE9ST2ZhbFN0dGllMkNzX2NlNVRVa1ZOWndRSnRQeThDclQ0V2dHTkxERzdGejR1bFdQTQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
