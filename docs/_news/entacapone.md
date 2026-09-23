@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [The Brain as Two Organs; Epstein-Barr and MS; Indigenous Bolivians and Dementia - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcktYZ3AyLWxFQ3pWYzR5dFExcDI4c0IzLWlOOUZMRUJwcE1BcnNZYVlEUW5HeHJvcmpSOTJrT3gxMnlnSW9LaG8wWm9CYXFkR19fd3BpdmxLMEw3cWtQbmlCS2UtWm9Na3dWRW8zVQ?oc=5)
+### [Study Links Lower Bone Density to Cognitive Decline and Brain Changes - Applied Radiology](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSVZKOVBZd2ZCcmFHVEpyVHdzWURRdmpMZDFnOXY0Unp4b0x3WnNNeXR5T0M4Rk1LUGp3OTNvSk1YQWVvc2Yya0FoTm5VMHpYSTVGTFU2bV9QZGJ0V3VxdkRYVUl0Y3VCcUVsVW5tejlGLU5OWnRMYXZhbmZkOUJ5SjN3X2pjWm03WVRsTjZwQ1JGbnRkT3V6LUNpOGhzTUt4QXpjd1ZGamNEU0E?oc=5)
 
 2026-09-22 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcktYZ3AyLWxFQ3pWYzR5dFExcDI4c0IzLWlOOUZMRUJwcE1BcnNZYVlEUW5HeHJvcmpSOTJrT3gxMnlnSW9LaG8wWm9CYXFkR19fd3BpdmxLMEw3cWtQbmlCS2UtWm9Na3dWRW8zVQ?oc=5)
+Source: [Applied Radiology](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSVZKOVBZd2ZCcmFHVEpyVHdzWURRdmpMZDFnOXY0Unp4b0x3WnNNeXR5T0M4Rk1LUGp3OTNvSk1YQWVvc2Yya0FoTm5VMHpYSTVGTFU2bV9QZGJ0V3VxdkRYVUl0Y3VCcUVsVW5tejlGLU5OWnRMYXZhbmZkOUJ5SjN3X2pjWm03WVRsTjZwQ1JGbnRkT3V6LUNpOGhzTUt4QXpjd1ZGamNEU0E?oc=5)
 
 ---
 
@@ -58,11 +58,19 @@ Source: [docksiderestaurant.com.au](https://news.google.com/rss/articles/CBMieEF
 
 ---
 
-### [Can Alzheimer’s Be Prevented? Understanding the Role of Lifestyle and Brain Health - The Indian Practitioner](https://news.google.com/rss/articles/CBMitgFBVV95cUxNazVCMnZ4T3E4dmpHYk1YS3d5bW9wWExDTVRoZGNkN2NQZ05EMXVOelJQQVhad0NRaTF0ZFM5UFZDMnFxRmh4TlZxTDh5LXVYMWFvLTNaZGhrTlR5SWw3UjZXV2w4blRJWWlrQ0J2dHdMWmdoRFNWUGR2MzhicTdHVmN3eHoxamJCNG1nVG1XVEZ2aHRMMkxiS0xBMXljM3ktdWFseHZmejNCa1ltbUs2T0ZrNklDUQ?oc=5)
+### [India’s dementia burden projected to nearly double by 2036, doctors flag early cognitive changes - Telegraph India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMkptMi1kTVlNSVkxQlF3Ynl4Yjc3Szdhdjl1R2NjM0NDTnFfc0hkYWYxd3dkU3B3X0t6NGtJVTJFMGhXdDJFRlotMUJyUzF2RE9raFBTUjVJckF2NW9paWQ3VmU4bWwtTzBhWXRiSnNjb1JKVWszc0xTaEMyRDVlRDJfTm9tRkkwZ0FJZmFtUlowa2lXSEVlSFlvSTVJZklPc0U2cDV6RmhHamw3MjNjTW5vdnFLSHFCYkRmOW1uV2trcHF5NXdXY2ZRTFN1QW5EU2ZQb1VzZnhuR2PSAeABQVVfeXFMT3Z3OFZscjNFbzlnRmNPdWFoVWswR1RoUFVMVnR3ZmlCLS0xbVhhakd6VHc2LVdNUWYtVklodjBFVGlodlowX2t1aHpIVVc2OGhRRnU4cDlHNVZqck0xR2U5XzV4dDVLMEdobkRwTWVTcUlCaXp6YkVkZUk5ZEZEcHhyVGQ2YWJoczlYUW1OQno3RHhnN1VfalVyUUlVV2luYldWaXR0LU9HemhrNVg4UGM2cWtSb2l3amZFc1dCaEdsRmM2cERlNEF4SXNaOE1IZEo0Q0JHVFNxN1dWUzFYMkE?oc=5)
+
+2026-09-22 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Telegraph India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMkptMi1kTVlNSVkxQlF3Ynl4Yjc3Szdhdjl1R2NjM0NDTnFfc0hkYWYxd3dkU3B3X0t6NGtJVTJFMGhXdDJFRlotMUJyUzF2RE9raFBTUjVJckF2NW9paWQ3VmU4bWwtTzBhWXRiSnNjb1JKVWszc0xTaEMyRDVlRDJfTm9tRkkwZ0FJZmFtUlowa2lXSEVlSFlvSTVJZklPc0U2cDV6RmhHamw3MjNjTW5vdnFLSHFCYkRmOW1uV2trcHF5NXdXY2ZRTFN1QW5EU2ZQb1VzZnhuR2PSAeABQVVfeXFMT3Z3OFZscjNFbzlnRmNPdWFoVWswR1RoUFVMVnR3ZmlCLS0xbVhhakd6VHc2LVdNUWYtVklodjBFVGlodlowX2t1aHpIVVc2OGhRRnU4cDlHNVZqck0xR2U5XzV4dDVLMEdobkRwTWVTcUlCaXp6YkVkZUk5ZEZEcHhyVGQ2YWJoczlYUW1OQno3RHhnN1VfalVyUUlVV2luYldWaXR0LU9HemhrNVg4UGM2cWtSb2l3amZFc1dCaEdsRmM2cERlNEF4SXNaOE1IZEo0Q0JHVFNxN1dWUzFYMkE?oc=5)
+
+---
+
+### [Can Alzheimer’s Be Prevented? Understanding the Role of Lifestyle and Brain Health - Modern Ghana](https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0FWX0lQX2Z2S1RuV09ONi02RWxhYTFzVWlCcU9GcTZUX1JESklIb09hSEFNRkdlZkd5Rk5RaFc5YUcyYUpDMFhMS25kRjU5aWdpMENtVkV6bll0dmVvVnI0eHVFekp0UEZyRnRhODQwQVZUYlVmcHBMeGtsSjQxVzlmcC1ybkdOeEhRWkNEZ3oyYy1xZWQ5ZzJ30gGYAUFVX3lxTE5IYkZFcHpueWxmaEk4VU5TV1FTSTVpYjBRekdjTmUwOHk3ZW1VWFpMZlhxVXB2YTl3amVBMnVDYXdyNUNvZG1NVUdmcFU4NktPWDZ0b0NoRnZPaDdTQzFOSVhXUWtVMU9DM3FiT1gwczJLaV9sLXBLdmJhUmczcUlTWHI5dTZmUjZsSkJ6UW1JYzN6LWhUSWJX?oc=5)
 
 2026-09-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMitgFBVV95cUxNazVCMnZ4T3E4dmpHYk1YS3d5bW9wWExDTVRoZGNkN2NQZ05EMXVOelJQQVhad0NRaTF0ZFM5UFZDMnFxRmh4TlZxTDh5LXVYMWFvLTNaZGhrTlR5SWw3UjZXV2w4blRJWWlrQ0J2dHdMWmdoRFNWUGR2MzhicTdHVmN3eHoxamJCNG1nVG1XVEZ2aHRMMkxiS0xBMXljM3ktdWFseHZmejNCa1ltbUs2T0ZrNklDUQ?oc=5)
+Source: [Modern Ghana](https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0FWX0lQX2Z2S1RuV09ONi02RWxhYTFzVWlCcU9GcTZUX1JESklIb09hSEFNRkdlZkd5Rk5RaFc5YUcyYUpDMFhMS25kRjU5aWdpMENtVkV6bll0dmVvVnI0eHVFekp0UEZyRnRhODQwQVZUYlVmcHBMeGtsSjQxVzlmcC1ybkdOeEhRWkNEZ3oyYy1xZWQ5ZzJ30gGYAUFVX3lxTE5IYkZFcHpueWxmaEk4VU5TV1FTSTVpYjBRekdjTmUwOHk3ZW1VWFpMZlhxVXB2YTl3amVBMnVDYXdyNUNvZG1NVUdmcFU4NktPWDZ0b0NoRnZPaDdTQzFOSVhXUWtVMU9DM3FiT1gwczJLaV9sLXBLdmJhUmczcUlTWHI5dTZmUjZsSkJ6UW1JYzN6LWhUSWJX?oc=5)
 
 ---
 

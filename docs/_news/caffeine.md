@@ -14,7 +14,7 @@ permalink: /news/caffeine/
 ---
 
 <p class="key-answer" data-question="What news is there about Caffeine?">
-<strong>Caffeine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Caffeine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Caffeine with the latest hea
 <p><a href="{{ '/drugs/caffeine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Coffee doesn’t have to keep you awake to disrupt your sleep](https://news.google.com/rss/articles/CBMib0FVX3lxTFBGMVhTam5na05MaUs3SFpUNXpuNTNTcUtTMlVJXzNCakhNdWJNSHpqem82b083VV8wbGhnNmUtTzFrVHB2RGRkSEN1N3hQX1ZMdkZtUk4xdWJBTUJLbUJaTWxXRXF2WVROTTZDNVFqYw?oc=5)
-
-2026-09-22 <span class="news-drug-tag">Caffeine</span> <span class="news-drug-tag">CAFFEINE</span>
-
-Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFBGMVhTam5na05MaUs3SFpUNXpuNTNTcUtTMlVJXzNCakhNdWJNSHpqem82b083VV8wbGhnNmUtTzFrVHB2RGRkSEN1N3hQX1ZMdkZtUk4xdWJBTUJLbUJaTWxXRXF2WVROTTZDNVFqYw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
