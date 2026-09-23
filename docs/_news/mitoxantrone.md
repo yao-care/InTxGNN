@@ -14,7 +14,7 @@ permalink: /news/mitoxantrone/
 ---
 
 <p class="key-answer" data-question="What news is there about Mitoxantrone?">
-<strong>Mitoxantrone</strong> currently has <strong>10 news articles</strong>, with 8 predicted indications.
+<strong>Mitoxantrone</strong> currently has <strong>9 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,28 +31,20 @@ This page combines the AI-predicted indications for Mitoxantrone with the latest
 <li>well-differentiated fetal adenocarcinoma of the lung (99.4%)</li>
 <li>pulmonary blastoma (99.3%)</li>
 <li>chronic myelogenous leukemia, BCR-ABL1 positive (99.3%)</li>
-<li class="indication-matched">head and neck cancer (99.3%)<span class="indication-tag">📰 head and neck cancer</span></li>
+<li>head and neck cancer (99.3%)</li>
 <li>bladder exstrophy-epispadias-cloacal exstrophy complex (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mitoxantrone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
 
 ### [Hot Drinks Tied to Esophageal Cancer. Should Patients Worry?](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0RJdFBwYWdsekduTDk4NWRvUWo5Mkd2QTQwaU9KYVpFYnRCa3h1YTVhcHhLQ0xZeGJnMWFSQlZURmNMaVAzOHZZdmZxZ3Y1NnQyMW1kaVFHMHFCemNQMjhRY3ZpOGd0dHQ1cVpYZjlRQzN5WEZLeU14Nm1WS2U2OW1FNzZJcTgtdnhlbFMyNnZ3aDdmTEMxdktybzZJNUhOOTVLTzlyRUc?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0RJdFBwYWdsekduTDk4NWRvUWo5Mkd2QTQwaU9KYVpFYnRCa3h1YTVhcHhLQ0xZeGJnMWFSQlZURmNMaVAzOHZZdmZxZ3Y1NnQyMW1kaVFHMHFCemNQMjhRY3ZpOGd0dHQ1cVpYZjlRQzN5WEZLeU14Nm1WS2U2OW1FNzZJcTgtdnhlbFMyNnZ3aDdmTEMxdktybzZJNUhOOTVLTzlyRUc?oc=5)
-
----
-
-### [Colorectal Cancer Screening Market Report Examines Industry Trends, Growth Drivers And Future Outlook](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUhhSTdiV05kczNXVTczd1RzYVIycTdNRVNxUUJHREZielp6WWtlb2RPLVFrWHlsRXFhVXE2ZjhxcHdFMldxR2toWkRqT3lORXBCRTY4VjhxaUo1SmZlemtfQk1ZRE5WdHJVVWhnVmgycDVfU2RRYTJoV3VpYnhwOVlhZ0dzeDNhb1FXNWVNVS1wdXF5cXA4aFdKSQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colon cancer</span> <span class="news-indication-tag">rectal cancer</span>
-
-Source: [openPR.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUhhSTdiV05kczNXVTczd1RzYVIycTdNRVNxUUJHREZielp6WWtlb2RPLVFrWHlsRXFhVXE2ZjhxcHdFMldxR2toWkRqT3lORXBCRTY4VjhxaUo1SmZlemtfQk1ZRE5WdHJVVWhnVmgycDVfU2RRYTJoV3VpYnhwOVlhZ0dzeDNhb1FXNWVNVS1wdXF5cXA4aFdKSQ?oc=5)
 
 ---
 
@@ -64,6 +56,14 @@ Source: [The New Indian Express](https://news.google.com/rss/articles/CBMipwFBVV
 
 ---
 
+### [Daily Sugary Drink Consumption Doubles Risk of Gastric Cancer - India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
+
+2026-09-22 <span class="news-indication-tag">cancer</span>
+
+Source: [India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
+
+---
+
 ### [WHO puts stroke, cancer, mental health on 10-year traditional medicine research agenda - The Times of India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUXkzUWR0aVN0aFBLazUyM1M3ZndLd0ZXclB6NFRVbk1kbDM4MVZvcjhPVG5ZemdDbzgwQ1J1SnZRNkVyVTdzcXo5WFVHRUdQczh5Q3NQTXUtb1ZBVkhKU0Q0OXVDWDlUVmhnLWU4V09SSXNRc0FwRTV3cTJJSWxnSXZDYndIUnpQT3YtbzJQRGNQckFIQlMzUWRtTDZGaWdUVXpkX3Q5U0dHdkFpazNWa1c3WVM2U3h1bHJ3M29kbThkc2dVcHU2M2xBZmcyUkxIZWVKSGtobUNGM0x2TDBuYmJkLXBxQ1U?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
@@ -72,11 +72,11 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi5wFBVV95cU
 
 ---
 
-### [Neoantigen Vaccine Shows Encouraging Activity in Head and Neck Cancer](https://news.google.com/rss/articles/CBMipwFBVV95cUxOOEI1bGVSMUZ1bHJvUFdQbGJrSmh5ZkQzY05zRzg1M3p4QjhIeVdTcVF6LTUtczU5Y3pXTkdhMWVQbWdjbVRiTUhtNHlQU1FhZ3FwbXVZM1RrbWsxS1VKQ2xiTDhFdmh0RTZodVFDYmN4Vy0tR1dFWEFJQzdweFZmVlhtNWI2cHB1RUNTa29qTGh6NGtUb1FHM0M1N2JXQ1ZMT2hReUtBdw?oc=5)
+### [How sitting for too long could impact your cancer risk - Advisory Board](https://news.google.com/rss/articles/CBMiekFVX3lxTE9UVGxwZndCNnVIU0NKdWx4cDdZOVFUV2pFeVV1Z0xsWXFyX19fY29vNU5JaVlSZDZZSUpXYktCX3lIb1c5SHpUczlSTzF3cktWQnZYTUdvbl8xTUl0a0NhYTFONzZ6WUU4YTBHMEdpWUtiVkc4OEFRUFFn?oc=5)
 
-2026-09-21 <span class="news-indication-tag">head and neck cancer</span>
+2026-09-21 <span class="news-indication-tag">cancer</span>
 
-Source: [CancerNetwork](https://news.google.com/rss/articles/CBMipwFBVV95cUxOOEI1bGVSMUZ1bHJvUFdQbGJrSmh5ZkQzY05zRzg1M3p4QjhIeVdTcVF6LTUtczU5Y3pXTkdhMWVQbWdjbVRiTUhtNHlQU1FhZ3FwbXVZM1RrbWsxS1VKQ2xiTDhFdmh0RTZodVFDYmN4Vy0tR1dFWEFJQzdweFZmVlhtNWI2cHB1RUNTa29qTGh6NGtUb1FHM0M1N2JXQ1ZMT2hReUtBdw?oc=5)
+Source: [Advisory Board](https://news.google.com/rss/articles/CBMiekFVX3lxTE9UVGxwZndCNnVIU0NKdWx4cDdZOVFUV2pFeVV1Z0xsWXFyX19fY29vNU5JaVlSZDZZSUpXYktCX3lIb1c5SHpUczlSTzF3cktWQnZYTUdvbl8xTUl0a0NhYTFONzZ6WUU4YTBHMEdpWUtiVkc4OEFRUFFn?oc=5)
 
 ---
 
@@ -88,14 +88,6 @@ Source: [The Indian Express](https://news.google.com/rss/articles/CBMi1wFBVV95cU
 
 ---
 
-### [Harnessing microfluidics for microbiology: from bacteria-host interactions to emerging cancer therapies](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UYUx4Q1hFajJWdUNHX2FHOFFEU1VTTzhBNkhXc2RpSTJBM2VvbTFKQjNEdm1aRGtUaTAyVzdWc0Y0T0J4TWJ1VW9VVkJfTDJwal92T29EWkpPMDNnOHJ3?oc=5)
-
-2026-09-21 <span class="news-indication-tag">cancer</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UYUx4Q1hFajJWdUNHX2FHOFFEU1VTTzhBNkhXc2RpSTJBM2VvbTFKQjNEdm1aRGtUaTAyVzdWc0Y0T0J4TWJ1VW9VVkJfTDJwal92T29EWkpPMDNnOHJ3?oc=5)
-
----
-
 ### [A Lost Generation in Cervical Cancer Prevention](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFJmRThEeXlMdEEtZ3lNcUdNbjg0c2VLZjdSMjdqU1FyZHdxa3NpTTM1Zk9LT2tZRmhCZnp3ZzBkdEV4eEVGMUZXY19GSGN2OW02THFWZkxXM3FuUDFfNktsWTA2amlnZmlHeldsY25vZnN5azlXU2ZPUV9acHJhZll4THdkZjVsdkQ2RjMzbHJfcG80dHlCWnpuaWdfTXM4WlBnbFM4bWFRbDQ?oc=5)
 
 2026-09-21 <span class="news-indication-tag">cancer</span>
@@ -104,11 +96,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFJmRThE
 
 ---
 
-### [Sugary drinks stood out in this stomach cancer study, but diet drinks did not](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamRncDI4SlZ6M3pNb3BaemM3ekRIU1EycEpxeUhhSFhpNEdzRlFtWFpwcmZNcms1QU53UF9qWnlFdk0wUWZuTlRPZmEzazc5aFl0NlVSSDl5Nm1jLUVZSEpTY3d5RWlHRURhbnZ0aXltTTU5UWUzNlhIQml4dFdTekN4bnBWOWNGajJpR2hhSWp0cnNlSXl2QkZSdGdab3Q5VFdETmsxS3hXUmUyMl8wWGpaQkVYSFk2MkYxMnRRNG4yZw?oc=5)
+### [Y chromosome loss creates hidden cancer vulnerability in men](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdfUVdVbG9HamowMGRaMm1RM3VXbldocHZzcGFJTHNzMGdBY0wyRm53RDdXWDFUbzdjWWFCS2dKX29PRWRTa0dCTWZMcHFjZkQySEdLYksweUVOaURuX2ZjVXdQS3hzbXFBcXQ4cUxJVzV3Ui1RbVBLWGdkc2pLVGlOMUpTM0pOUWd5cTB3VjRESjUxeWtnQ0xLQkRDNnpEbTFlczFqRFpJWklt?oc=5)
 
-2026-09-21 <span class="news-indication-tag">cancer</span>
+2026-09-18 <span class="news-indication-tag">cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamRncDI4SlZ6M3pNb3BaemM3ekRIU1EycEpxeUhhSFhpNEdzRlFtWFpwcmZNcms1QU53UF9qWnlFdk0wUWZuTlRPZmEzazc5aFl0NlVSSDl5Nm1jLUVZSEpTY3d5RWlHRURhbnZ0aXltTTU5UWUzNlhIQml4dFdTekN4bnBWOWNGajJpR2hhSWp0cnNlSXl2QkZSdGdab3Q5VFdETmsxS3hXUmUyMl8wWGpaQkVYSFk2MkYxMnRRNG4yZw?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdfUVdVbG9HamowMGRaMm1RM3VXbldocHZzcGFJTHNzMGdBY0wyRm53RDdXWDFUbzdjWWFCS2dKX29PRWRTa0dCTWZMcHFjZkQySEdLYksweUVOaURuX2ZjVXdQS3hzbXFBcXQ4cUxJVzV3Ui1RbVBLWGdkc2pLVGlOMUpTM0pOUWd5cTB3VjRESjUxeWtnQ0xLQkRDNnpEbTFlczFqRFpJWklt?oc=5)
 
 ---
 
