@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="What news is there about Hydroxyurea?">
-<strong>Hydroxyurea</strong> currently has <strong>9 news articles</strong>, with 9 predicted indications.
+<strong>Hydroxyurea</strong> currently has <strong>8 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,15 +39,7 @@ This page combines the AI-predicted indications for Hydroxyurea with the latest 
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
-
-### [Hot Drinks Tied to Esophageal Cancer. Should Patients Worry?](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0RJdFBwYWdsekduTDk4NWRvUWo5Mkd2QTQwaU9KYVpFYnRCa3h1YTVhcHhLQ0xZeGJnMWFSQlZURmNMaVAzOHZZdmZxZ3Y1NnQyMW1kaVFHMHFCemNQMjhRY3ZpOGd0dHQ1cVpYZjlRQzN5WEZLeU14Nm1WS2U2OW1FNzZJcTgtdnhlbFMyNnZ3aDdmTEMxdktybzZJNUhOOTVLTzlyRUc?oc=5)
-
-2026-09-22 <span class="news-indication-tag">cancer</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0RJdFBwYWdsekduTDk4NWRvUWo5Mkd2QTQwaU9KYVpFYnRCa3h1YTVhcHhLQ0xZeGJnMWFSQlZURmNMaVAzOHZZdmZxZ3Y1NnQyMW1kaVFHMHFCemNQMjhRY3ZpOGd0dHQ1cVpYZjlRQzN5WEZLeU14Nm1WS2U2OW1FNzZJcTgtdnhlbFMyNnZ3aDdmTEMxdktybzZJNUhOOTVLTzlyRUc?oc=5)
-
----
+## Related News (8)
 
 ### [How modern ovarian cancer care is evolving - The New Indian Express](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVBSeF9UWHFNY3FqdFlFQmJuQThYc0F6bFRsNzh4M056aFFkY19BSFVIXzFZVTRLYjdCaHJ5OEhfNndaN0s3cktZaUdRcWJial9jVkFzOXFUSFlPWjE1YkkycnNZVXVObmw5M01zTm43dl9nVXVsVFdTaEpyLS1YNUhjcDlJeWN1REJEazc2RmxQSWxPdzFYZl9jelRBbEpKczUxUmZVRdIBtAFBVV95cUxNOTZvamZieU9ZQ3NHcV9JaXV3SlNWNmJnb0syTy1yZ2J2eWEzQ0d5SUFjTmtwcmZkVWZJSU55NndqRldndzQ0OVhybUZjYWcxUWtaRUdEZ2QwX0xOWWlkYkktYllVQ09pbkJ6YXlzV0VyaVJpb3NLOHJ5RjBIeGhpeG5lZWczN3RPRVItZHJJLTRGV3VUV1h3MXFvVUpSc3hKQjFhZWJkQ0NxSmhuMS1EOU0xVGc?oc=5)
 
@@ -57,19 +49,19 @@ Source: [The New Indian Express](https://news.google.com/rss/articles/CBMipwFBVV
 
 ---
 
+### [WHO pushes for more research into traditional medicine - Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
+
+2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
+
+---
+
 ### [Daily Sugary Drink Consumption Doubles Risk of Gastric Cancer - India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span>
 
 Source: [India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
-
----
-
-### [WHO puts stroke, cancer, mental health on 10-year traditional medicine research agenda - The Times of India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUXkzUWR0aVN0aFBLazUyM1M3ZndLd0ZXclB6NFRVbk1kbDM4MVZvcjhPVG5ZemdDbzgwQ1J1SnZRNkVyVTdzcXo5WFVHRUdQczh5Q3NQTXUtb1ZBVkhKU0Q0OXVDWDlUVmhnLWU4V09SSXNRc0FwRTV3cTJJSWxnSXZDYndIUnpQT3YtbzJQRGNQckFIQlMzUWRtTDZGaWdUVXpkX3Q5U0dHdkFpazNWa1c3WVM2U3h1bHJ3M29kbThkc2dVcHU2M2xBZmcyUkxIZWVKSGtobUNGM0x2TDBuYmJkLXBxQ1U?oc=5)
-
-2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUXkzUWR0aVN0aFBLazUyM1M3ZndLd0ZXclB6NFRVbk1kbDM4MVZvcjhPVG5ZemdDbzgwQ1J1SnZRNkVyVTdzcXo5WFVHRUdQczh5Q3NQTXUtb1ZBVkhKU0Q0OXVDWDlUVmhnLWU4V09SSXNRc0FwRTV3cTJJSWxnSXZDYndIUnpQT3YtbzJQRGNQckFIQlMzUWRtTDZGaWdUVXpkX3Q5U0dHdkFpazNWa1c3WVM2U3h1bHJ3M29kbThkc2dVcHU2M2xBZmcyUkxIZWVKSGtobUNGM0x2TDBuYmJkLXBxQ1U?oc=5)
 
 ---
 
@@ -89,11 +81,11 @@ Source: [The Indian Express](https://news.google.com/rss/articles/CBMi1wFBVV95cU
 
 ---
 
-### [A Lost Generation in Cervical Cancer Prevention](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFJmRThEeXlMdEEtZ3lNcUdNbjg0c2VLZjdSMjdqU1FyZHdxa3NpTTM1Zk9LT2tZRmhCZnp3ZzBkdEV4eEVGMUZXY19GSGN2OW02THFWZkxXM3FuUDFfNktsWTA2amlnZmlHeldsY25vZnN5azlXU2ZPUV9acHJhZll4THdkZjVsdkQ2RjMzbHJfcG80dHlCWnpuaWdfTXM4WlBnbFM4bWFRbDQ?oc=5)
+### [Colorectal cancer is rising in adults under 50 and is now their leading cancer killer; warning signs and r - The Economic Times](https://news.google.com/rss/articles/CBMiwAJBVV95cUxQYlhqMUtlSE9tSFZlVl9tVUMxWDBld1Z0Z0JMMW9lVGJJb042ajJaZHhjTG9LN0hFN0hJZEF3NEZ5MUQ4R0JPWGhRUjkxTy1vN1RJMjRIeWtiSmFrV1ZTa2t5dkNTQXk4Q0NfZFN6MHJDY1JHalVEUFVnSzJiTU5rSnBWQUp1OXBQVXJUUU1jd3k0RHp2bjRvVjVTbFBUNzZYRHFkVFB6MGxRelBmNUlHU0Zfd200VHh5NkhHSGx6bUJXWENnQnNyS2J0S2xoc2poVVNBTEhkUDh2RVJEWk5mMzZRSTVmWFZCekxVQUkxenlRVWtfT0VCSFA3eDVkTF9rZDJDNm03eXNPemxaUnlCVDUwOGd1dEJkVXF5RGRiOUlRelh5dFcteFVGd2pwREtaNVBDcWJ2S2VNcjNoeWNmbtIBxgJBVV95cUxQMmdTZjdBN0YwUEZZUWF2Yi1oNDRCeXBkM0Jaa1E3NXdNY096bktiZnFIS3p6MDRfbG5NVG5ELW5UOGs1V05PMy1HZ2xhVkItX2Q0SEJJdm9ZZW9pTFNwMUxJb2xWdVJRUHF4bXpEaWxUdWtoTnJTSFRvcUJPdncwZ1NJRUdySmswZzNnSUdFT0hQTWpGRjhXenJKMS1kV0twYlVGMmdObzNaNUxpV3J1UWRaLV9CTVlLSTRXM090M1FYN1NGc2dBTVIxT2NJVk9XbjdGWmdCS3NueVVhX1VJUXliZUZxYmd3SUpCaE1lUnV5TnpHbU9zSmZfdDhmYWZMdDhqMTExNDR1NU40eHU2dTV0V3hqZ0NRZUl5bFEyUE16NmhMM2xJTHY2OFBySGx0MFBBUUNSUjY3by1rQUNmRFZ4RlJrdw?oc=5)
 
-2026-09-21 <span class="news-indication-tag">cancer</span>
+2026-09-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">rectal cancer</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFJmRThEeXlMdEEtZ3lNcUdNbjg0c2VLZjdSMjdqU1FyZHdxa3NpTTM1Zk9LT2tZRmhCZnp3ZzBkdEV4eEVGMUZXY19GSGN2OW02THFWZkxXM3FuUDFfNktsWTA2amlnZmlHeldsY25vZnN5azlXU2ZPUV9acHJhZll4THdkZjVsdkQ2RjMzbHJfcG80dHlCWnpuaWdfTXM4WlBnbFM4bWFRbDQ?oc=5)
+Source: [The Economic Times](https://news.google.com/rss/articles/CBMiwAJBVV95cUxQYlhqMUtlSE9tSFZlVl9tVUMxWDBld1Z0Z0JMMW9lVGJJb042ajJaZHhjTG9LN0hFN0hJZEF3NEZ5MUQ4R0JPWGhRUjkxTy1vN1RJMjRIeWtiSmFrV1ZTa2t5dkNTQXk4Q0NfZFN6MHJDY1JHalVEUFVnSzJiTU5rSnBWQUp1OXBQVXJUUU1jd3k0RHp2bjRvVjVTbFBUNzZYRHFkVFB6MGxRelBmNUlHU0Zfd200VHh5NkhHSGx6bUJXWENnQnNyS2J0S2xoc2poVVNBTEhkUDh2RVJEWk5mMzZRSTVmWFZCekxVQUkxenlRVWtfT0VCSFA3eDVkTF9rZDJDNm03eXNPemxaUnlCVDUwOGd1dEJkVXF5RGRiOUlRelh5dFcteFVGd2pwREtaNVBDcWJ2S2VNcjNoeWNmbtIBxgJBVV95cUxQMmdTZjdBN0YwUEZZUWF2Yi1oNDRCeXBkM0Jaa1E3NXdNY096bktiZnFIS3p6MDRfbG5NVG5ELW5UOGs1V05PMy1HZ2xhVkItX2Q0SEJJdm9ZZW9pTFNwMUxJb2xWdVJRUHF4bXpEaWxUdWtoTnJTSFRvcUJPdncwZ1NJRUdySmswZzNnSUdFT0hQTWpGRjhXenJKMS1kV0twYlVGMmdObzNaNUxpV3J1UWRaLV9CTVlLSTRXM090M1FYN1NGc2dBTVIxT2NJVk9XbjdGWmdCS3NueVVhX1VJUXliZUZxYmd3SUpCaE1lUnV5TnpHbU9zSmZfdDhmYWZMdDhqMTExNDR1NU40eHU2dTV0V3hqZ0NRZUl5bFEyUE16NmhMM2xJTHY2OFBySGx0MFBBUUNSUjY3by1rQUNmRFZ4RlJrdw?oc=5)
 
 ---
 

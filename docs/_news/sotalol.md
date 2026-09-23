@@ -39,19 +39,19 @@ This page combines the AI-predicted indications for Sotalol with the latest heal
 
 ## Related News (2)
 
-### [Every extra 100 grams of ultra-processed food linked to higher disease risks - Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PUTNPb1gzN0wxdWNoOGg5aFBWZ1g5RUt2aXFhN1dXTlVyclJ2bkhfVWFDVXAya0JsVjVlUk9PYzg5UXdNR0xsaEpnRWZubFRYOVBOX0JGSUV1Zm5WbjczODd4YkVsUElMbWVHejFWTXdSdFVURFBGMTZNbjk3dw?oc=5)
+### [Can stopping Ozempic suddenly increase the risk of strokes and heart attacks - The Times of India](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ3p1OXlibkZvUkR6RjNDTHJvb0FyVU9EMHY2bS1KeWVTd3JnSndUTEhtdUI5NGlOamV6TzJfWjB3OTBnQU12TmtkU29JcElCSmNtSm85VGI3Yl8wYXZXMzZ4cDdxQ1dGeUh5Qm1uRHdZUmxBd0x3SENhREQ4VlRfSDJnNlhTR21PRm9JOVh5eS14ajBnUzVxUzFFaDdLTGNCZTQzMGk3YU9pMGNmbW9GNDNZajFaOFY2TWcxM1dSUGJqWDhwYmF1RnpNVXdRbldxNk10ZWVabVdhOEw2bDlIc1c5bFc2REVhSUHSAe8BQVVfeXFMTUtyTUhrNGFRWUtsRWxmWW9BVHRnSEtUZ24wcmpORU5KNmhpRGVxVnltX3NubXdSN053WmdmVjBnSTROVTVGelh1c2JXeEVtZV9nbjNRYVhuTUZTY212VXZWd3N4UzByTG1jNlZWeGtma2l6WlFUekN0X0lTc29aMVZLUWNKVnRiSTh4cmlEakoxQ081N2VETzhYQTJzOGU2SzhFaVZVQ1pOdzJ4OVZRVDU5UllMbGg4SzVnYWVvUmszVmRiS3pQU0JnSGZvWmFsR3M0WWI3QW52VzJVakZpQ19QUDQ4azZTb1FwSTZlbzA?oc=5)
 
-2026-09-22 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dama</span>
+2026-09-23 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PUTNPb1gzN0wxdWNoOGg5aFBWZ1g5RUt2aXFhN1dXTlVyclJ2bkhfVWFDVXAya0JsVjVlUk9PYzg5UXdNR0xsaEpnRWZubFRYOVBOX0JGSUV1Zm5WbjczODd4YkVsUElMbWVHejFWTXdSdFVURFBGMTZNbjk3dw?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ3p1OXlibkZvUkR6RjNDTHJvb0FyVU9EMHY2bS1KeWVTd3JnSndUTEhtdUI5NGlOamV6TzJfWjB3OTBnQU12TmtkU29JcElCSmNtSm85VGI3Yl8wYXZXMzZ4cDdxQ1dGeUh5Qm1uRHdZUmxBd0x3SENhREQ4VlRfSDJnNlhTR21PRm9JOVh5eS14ajBnUzVxUzFFaDdLTGNCZTQzMGk3YU9pMGNmbW9GNDNZajFaOFY2TWcxM1dSUGJqWDhwYmF1RnpNVXdRbldxNk10ZWVabVdhOEw2bDlIc1c5bFc2REVhSUHSAe8BQVVfeXFMTUtyTUhrNGFRWUtsRWxmWW9BVHRnSEtUZ24wcmpORU5KNmhpRGVxVnltX3NubXdSN053WmdmVjBnSTROVTVGelh1c2JXeEVtZV9nbjNRYVhuTUZTY212VXZWd3N4UzByTG1jNlZWeGtma2l6WlFUekN0X0lTc29aMVZLUWNKVnRiSTh4cmlEakoxQ081N2VETzhYQTJzOGU2SzhFaVZVQ1pOdzJ4OVZRVDU5UllMbGg4SzVnYWVvUmszVmRiS3pQU0JnSGZvWmFsR3M0WWI3QW52VzJVakZpQ19QUDQ4azZTb1FwSTZlbzA?oc=5)
 
 ---
 
-### [WHO puts stroke, cancer, mental health on 10-year traditional medicine research agenda - The Times of India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUXkzUWR0aVN0aFBLazUyM1M3ZndLd0ZXclB6NFRVbk1kbDM4MVZvcjhPVG5ZemdDbzgwQ1J1SnZRNkVyVTdzcXo5WFVHRUdQczh5Q3NQTXUtb1ZBVkhKU0Q0OXVDWDlUVmhnLWU4V09SSXNRc0FwRTV3cTJJSWxnSXZDYndIUnpQT3YtbzJQRGNQckFIQlMzUWRtTDZGaWdUVXpkX3Q5U0dHdkFpazNWa1c3WVM2U3h1bHJ3M29kbThkc2dVcHU2M2xBZmcyUkxIZWVKSGtobUNGM0x2TDBuYmJkLXBxQ1U?oc=5)
+### [WHO pushes for more research into traditional medicine - Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUXkzUWR0aVN0aFBLazUyM1M3ZndLd0ZXclB6NFRVbk1kbDM4MVZvcjhPVG5ZemdDbzgwQ1J1SnZRNkVyVTdzcXo5WFVHRUdQczh5Q3NQTXUtb1ZBVkhKU0Q0OXVDWDlUVmhnLWU4V09SSXNRc0FwRTV3cTJJSWxnSXZDYndIUnpQT3YtbzJQRGNQckFIQlMzUWRtTDZGaWdUVXpkX3Q5U0dHdkFpazNWa1c3WVM2U3h1bHJ3M29kbThkc2dVcHU2M2xBZmcyUkxIZWVKSGtobUNGM0x2TDBuYmJkLXBxQ1U?oc=5)
+Source: [Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
 
 ---
 
