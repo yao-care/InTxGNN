@@ -14,7 +14,7 @@ permalink: /news/acetaminophen/
 ---
 
 <p class="key-answer" data-question="What news is there about Acetaminophen?">
-<strong>Acetaminophen</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Acetaminophen</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,9 +31,15 @@ This page combines the AI-predicted indications for Acetaminophen with the lates
 <p><a href="{{ '/drugs/acetaminophen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Study finds no causal link between prenatal paracetamol and neurodevelopmental disorders](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
+
+2026-09-23 <span class="news-drug-tag">Acetaminophen</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">mental disorder</span>
+
+Source: [news-medical.net](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
+
+---
 
 
 <div class="disclaimer">
