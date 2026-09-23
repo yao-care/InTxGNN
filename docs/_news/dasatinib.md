@@ -14,7 +14,7 @@ permalink: /news/dasatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,103 +40,9 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (0)
 
-### [Study Links Lower Bone Density to Cognitive Decline and Brain Changes - Applied Radiology](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSVZKOVBZd2ZCcmFHVEpyVHdzWURRdmpMZDFnOXY0Unp4b0x3WnNNeXR5T0M4Rk1LUGp3OTNvSk1YQWVvc2Yya0FoTm5VMHpYSTVGTFU2bV9QZGJ0V3VxdkRYVUl0Y3VCcUVsVW5tejlGLU5OWnRMYXZhbmZkOUJ5SjN3X2pjWm03WVRsTjZwQ1JGbnRkT3V6LUNpOGhzTUt4QXpjd1ZGamNEU0E?oc=5)
-
-2026-09-22 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Applied Radiology](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSVZKOVBZd2ZCcmFHVEpyVHdzWURRdmpMZDFnOXY0Unp4b0x3WnNNeXR5T0M4Rk1LUGp3OTNvSk1YQWVvc2Yya0FoTm5VMHpYSTVGTFU2bV9QZGJ0V3VxdkRYVUl0Y3VCcUVsVW5tejlGLU5OWnRMYXZhbmZkOUJ5SjN3X2pjWm03WVRsTjZwQ1JGbnRkT3V6LUNpOGhzTUt4QXpjd1ZGamNEU0E?oc=5)
-
----
-
-### [10 Powerful Foods for Better Brain Health and Memory](https://news.google.com/rss/articles/CBMieEFVX3lxTE1KSHRUZ3Bvd1VOZVVXY1JxRkRjM1R6YU1MTE44aWVxU2Fwakc5dTBsdlIxbW5ET0Y0SnpFaEJOMlY1TkdodGlKMGFhX2F4UlJEaWZQa1g3Y0JzY3RnakRIRjF1Y0dnRDNkcThJT2JkWWVfa0lLYXB5Vw?oc=5)
-
-2026-09-22 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [docksiderestaurant.com.au](https://news.google.com/rss/articles/CBMieEFVX3lxTE1KSHRUZ3Bvd1VOZVVXY1JxRkRjM1R6YU1MTE44aWVxU2Fwakc5dTBsdlIxbW5ET0Y0SnpFaEJOMlY1TkdodGlKMGFhX2F4UlJEaWZQa1g3Y0JzY3RnakRIRjF1Y0dnRDNkcThJT2JkWWVfa0lLYXB5Vw?oc=5)
-
----
-
-### [India’s dementia burden projected to nearly double by 2036, doctors flag early cognitive changes - Telegraph India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMkptMi1kTVlNSVkxQlF3Ynl4Yjc3Szdhdjl1R2NjM0NDTnFfc0hkYWYxd3dkU3B3X0t6NGtJVTJFMGhXdDJFRlotMUJyUzF2RE9raFBTUjVJckF2NW9paWQ3VmU4bWwtTzBhWXRiSnNjb1JKVWszc0xTaEMyRDVlRDJfTm9tRkkwZ0FJZmFtUlowa2lXSEVlSFlvSTVJZklPc0U2cDV6RmhHamw3MjNjTW5vdnFLSHFCYkRmOW1uV2trcHF5NXdXY2ZRTFN1QW5EU2ZQb1VzZnhuR2PSAeABQVVfeXFMT3Z3OFZscjNFbzlnRmNPdWFoVWswR1RoUFVMVnR3ZmlCLS0xbVhhakd6VHc2LVdNUWYtVklodjBFVGlodlowX2t1aHpIVVc2OGhRRnU4cDlHNVZqck0xR2U5XzV4dDVLMEdobkRwTWVTcUlCaXp6YkVkZUk5ZEZEcHhyVGQ2YWJoczlYUW1OQno3RHhnN1VfalVyUUlVV2luYldWaXR0LU9HemhrNVg4UGM2cWtSb2l3amZFc1dCaEdsRmM2cERlNEF4SXNaOE1IZEo0Q0JHVFNxN1dWUzFYMkE?oc=5)
-
-2026-09-22 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Telegraph India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMkptMi1kTVlNSVkxQlF3Ynl4Yjc3Szdhdjl1R2NjM0NDTnFfc0hkYWYxd3dkU3B3X0t6NGtJVTJFMGhXdDJFRlotMUJyUzF2RE9raFBTUjVJckF2NW9paWQ3VmU4bWwtTzBhWXRiSnNjb1JKVWszc0xTaEMyRDVlRDJfTm9tRkkwZ0FJZmFtUlowa2lXSEVlSFlvSTVJZklPc0U2cDV6RmhHamw3MjNjTW5vdnFLSHFCYkRmOW1uV2trcHF5NXdXY2ZRTFN1QW5EU2ZQb1VzZnhuR2PSAeABQVVfeXFMT3Z3OFZscjNFbzlnRmNPdWFoVWswR1RoUFVMVnR3ZmlCLS0xbVhhakd6VHc2LVdNUWYtVklodjBFVGlodlowX2t1aHpIVVc2OGhRRnU4cDlHNVZqck0xR2U5XzV4dDVLMEdobkRwTWVTcUlCaXp6YkVkZUk5ZEZEcHhyVGQ2YWJoczlYUW1OQno3RHhnN1VfalVyUUlVV2luYldWaXR0LU9HemhrNVg4UGM2cWtSb2l3amZFc1dCaEdsRmM2cERlNEF4SXNaOE1IZEo0Q0JHVFNxN1dWUzFYMkE?oc=5)
-
----
-
-### [How modern ovarian cancer care is evolving - The New Indian Express](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVBSeF9UWHFNY3FqdFlFQmJuQThYc0F6bFRsNzh4M056aFFkY19BSFVIXzFZVTRLYjdCaHJ5OEhfNndaN0s3cktZaUdRcWJial9jVkFzOXFUSFlPWjE1YkkycnNZVXVObmw5M01zTm43dl9nVXVsVFdTaEpyLS1YNUhjcDlJeWN1REJEazc2RmxQSWxPdzFYZl9jelRBbEpKczUxUmZVRdIBtAFBVV95cUxNOTZvamZieU9ZQ3NHcV9JaXV3SlNWNmJnb0syTy1yZ2J2eWEzQ0d5SUFjTmtwcmZkVWZJSU55NndqRldndzQ0OVhybUZjYWcxUWtaRUdEZ2QwX0xOWWlkYkktYllVQ09pbkJ6YXlzV0VyaVJpb3NLOHJ5RjBIeGhpeG5lZWczN3RPRVItZHJJLTRGV3VUV1h3MXFvVUpSc3hKQjFhZWJkQ0NxSmhuMS1EOU0xVGc?oc=5)
-
-2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
-
-Source: [The New Indian Express](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVBSeF9UWHFNY3FqdFlFQmJuQThYc0F6bFRsNzh4M056aFFkY19BSFVIXzFZVTRLYjdCaHJ5OEhfNndaN0s3cktZaUdRcWJial9jVkFzOXFUSFlPWjE1YkkycnNZVXVObmw5M01zTm43dl9nVXVsVFdTaEpyLS1YNUhjcDlJeWN1REJEazc2RmxQSWxPdzFYZl9jelRBbEpKczUxUmZVRdIBtAFBVV95cUxNOTZvamZieU9ZQ3NHcV9JaXV3SlNWNmJnb0syTy1yZ2J2eWEzQ0d5SUFjTmtwcmZkVWZJSU55NndqRldndzQ0OVhybUZjYWcxUWtaRUdEZ2QwX0xOWWlkYkktYllVQ09pbkJ6YXlzV0VyaVJpb3NLOHJ5RjBIeGhpeG5lZWczN3RPRVItZHJJLTRGV3VUV1h3MXFvVUpSc3hKQjFhZWJkQ0NxSmhuMS1EOU0xVGc?oc=5)
-
----
-
-### [WHO pushes for more research into traditional medicine - Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
-
-2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
-
----
-
-### [Daily Sugary Drink Consumption Doubles Risk of Gastric Cancer - India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
-
-2026-09-22 <span class="news-indication-tag">cancer</span>
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
-
----
-
-### [How sitting for too long could impact your cancer risk - Advisory Board](https://news.google.com/rss/articles/CBMiekFVX3lxTE9UVGxwZndCNnVIU0NKdWx4cDdZOVFUV2pFeVV1Z0xsWXFyX19fY29vNU5JaVlSZDZZSUpXYktCX3lIb1c5SHpUczlSTzF3cktWQnZYTUdvbl8xTUl0a0NhYTFONzZ6WUU4YTBHMEdpWUtiVkc4OEFRUFFn?oc=5)
-
-2026-09-21 <span class="news-indication-tag">cancer</span>
-
-Source: [Advisory Board](https://news.google.com/rss/articles/CBMiekFVX3lxTE9UVGxwZndCNnVIU0NKdWx4cDdZOVFUV2pFeVV1Z0xsWXFyX19fY29vNU5JaVlSZDZZSUpXYktCX3lIb1c5SHpUczlSTzF3cktWQnZYTUdvbl8xTUl0a0NhYTFONzZ6WUU4YTBHMEdpWUtiVkc4OEFRUFFn?oc=5)
-
----
-
-### [Oncologist says isabgol is more than a laxative…’even reduces cancer risk’; gastroenterologist weighs in - The Indian Express](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWVRtdF8xZHdGZTNEeDJUMzBRQzdvR3g5Zjd6SkJuTjI1SWwxYXdESk5FdE83cUJwcjY2LW1WdlIwckxPcDcwYUlHWXdXdTJ5b01hNmpUeWhhRGNiZ0F0NGdkVVlweDd0WnpFU214eTE0aHBWMmN3UkxKTDZBZ1RNWmsybFZza2ZzbmVydHJWV1Vpa1BZR3BvMGdqeWhnQTNCdGVWV0pLM0w1T2I5X3IzSU4zMVJMcU9oaWQ3VldzUF9EelM4dEpMQWg2Y2dPUlRQZDBXeE1kTdIB3gFBVV95cUxPNnFKNzVkSVc1NGNIOFJWM1JXVlF1anppVlEzSkpGekFFbXVLUlpUQlVLMkJobndoNHM3Y0hxcHlYNFJfRVNOM1NsOFFjX0gyYmRQV2llS1FUWTdlTkhMMGx6UUlDS1kyRGxtZjlGeEpDREl3QU1IbE4tZVNSQWdXTjhTQUpmWHpibE8yb2Q1WGNhdENMSVE2S1o2OEM2aHFSeVJJdXprSFlIQmlMMFM0eHg2djdnR2c1a0p5MUd1cmd4Y2U2WnVfQlNEeWpuWldfMkx6YXF3Wk1lNW9UUUE?oc=5)
-
-2026-09-21 <span class="news-indication-tag">cancer</span>
-
-Source: [The Indian Express](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWVRtdF8xZHdGZTNEeDJUMzBRQzdvR3g5Zjd6SkJuTjI1SWwxYXdESk5FdE83cUJwcjY2LW1WdlIwckxPcDcwYUlHWXdXdTJ5b01hNmpUeWhhRGNiZ0F0NGdkVVlweDd0WnpFU214eTE0aHBWMmN3UkxKTDZBZ1RNWmsybFZza2ZzbmVydHJWV1Vpa1BZR3BvMGdqeWhnQTNCdGVWV0pLM0w1T2I5X3IzSU4zMVJMcU9oaWQ3VldzUF9EelM4dEpMQWg2Y2dPUlRQZDBXeE1kTdIB3gFBVV95cUxPNnFKNzVkSVc1NGNIOFJWM1JXVlF1anppVlEzSkpGekFFbXVLUlpUQlVLMkJobndoNHM3Y0hxcHlYNFJfRVNOM1NsOFFjX0gyYmRQV2llS1FUWTdlTkhMMGx6UUlDS1kyRGxtZjlGeEpDREl3QU1IbE4tZVNSQWdXTjhTQUpmWHpibE8yb2Q1WGNhdENMSVE2S1o2OEM2aHFSeVJJdXprSFlIQmlMMFM0eHg2djdnR2c1a0p5MUd1cmd4Y2U2WnVfQlNEeWpuWldfMkx6YXF3Wk1lNW9UUUE?oc=5)
-
----
-
-### [Can Alzheimer’s Be Prevented? Understanding the Role of Lifestyle and Brain Health - Modern Ghana](https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0FWX0lQX2Z2S1RuV09ONi02RWxhYTFzVWlCcU9GcTZUX1JESklIb09hSEFNRkdlZkd5Rk5RaFc5YUcyYUpDMFhMS25kRjU5aWdpMENtVkV6bll0dmVvVnI0eHVFekp0UEZyRnRhODQwQVZUYlVmcHBMeGtsSjQxVzlmcC1ybkdOeEhRWkNEZ3oyYy1xZWQ5ZzJ30gGYAUFVX3lxTE5IYkZFcHpueWxmaEk4VU5TV1FTSTVpYjBRekdjTmUwOHk3ZW1VWFpMZlhxVXB2YTl3amVBMnVDYXdyNUNvZG1NVUdmcFU4NktPWDZ0b0NoRnZPaDdTQzFOSVhXUWtVMU9DM3FiT1gwczJLaV9sLXBLdmJhUmczcUlTWHI5dTZmUjZsSkJ6UW1JYzN6LWhUSWJX?oc=5)
-
-2026-09-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Modern Ghana](https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0FWX0lQX2Z2S1RuV09ONi02RWxhYTFzVWlCcU9GcTZUX1JESklIb09hSEFNRkdlZkd5Rk5RaFc5YUcyYUpDMFhMS25kRjU5aWdpMENtVkV6bll0dmVvVnI0eHVFekp0UEZyRnRhODQwQVZUYlVmcHBMeGtsSjQxVzlmcC1ybkdOeEhRWkNEZ3oyYy1xZWQ5ZzJ30gGYAUFVX3lxTE5IYkZFcHpueWxmaEk4VU5TV1FTSTVpYjBRekdjTmUwOHk3ZW1VWFpMZlhxVXB2YTl3amVBMnVDYXdyNUNvZG1NVUdmcFU4NktPWDZ0b0NoRnZPaDdTQzFOSVhXUWtVMU9DM3FiT1gwczJLaV9sLXBLdmJhUmczcUlTWHI5dTZmUjZsSkJ6UW1JYzN6LWhUSWJX?oc=5)
-
----
-
-### [Colorectal cancer is rising in adults under 50 and is now their leading cancer killer; warning signs and r - The Economic Times](https://news.google.com/rss/articles/CBMiwAJBVV95cUxQYlhqMUtlSE9tSFZlVl9tVUMxWDBld1Z0Z0JMMW9lVGJJb042ajJaZHhjTG9LN0hFN0hJZEF3NEZ5MUQ4R0JPWGhRUjkxTy1vN1RJMjRIeWtiSmFrV1ZTa2t5dkNTQXk4Q0NfZFN6MHJDY1JHalVEUFVnSzJiTU5rSnBWQUp1OXBQVXJUUU1jd3k0RHp2bjRvVjVTbFBUNzZYRHFkVFB6MGxRelBmNUlHU0Zfd200VHh5NkhHSGx6bUJXWENnQnNyS2J0S2xoc2poVVNBTEhkUDh2RVJEWk5mMzZRSTVmWFZCekxVQUkxenlRVWtfT0VCSFA3eDVkTF9rZDJDNm03eXNPemxaUnlCVDUwOGd1dEJkVXF5RGRiOUlRelh5dFcteFVGd2pwREtaNVBDcWJ2S2VNcjNoeWNmbtIBxgJBVV95cUxQMmdTZjdBN0YwUEZZUWF2Yi1oNDRCeXBkM0Jaa1E3NXdNY096bktiZnFIS3p6MDRfbG5NVG5ELW5UOGs1V05PMy1HZ2xhVkItX2Q0SEJJdm9ZZW9pTFNwMUxJb2xWdVJRUHF4bXpEaWxUdWtoTnJTSFRvcUJPdncwZ1NJRUdySmswZzNnSUdFT0hQTWpGRjhXenJKMS1kV0twYlVGMmdObzNaNUxpV3J1UWRaLV9CTVlLSTRXM090M1FYN1NGc2dBTVIxT2NJVk9XbjdGWmdCS3NueVVhX1VJUXliZUZxYmd3SUpCaE1lUnV5TnpHbU9zSmZfdDhmYWZMdDhqMTExNDR1NU40eHU2dTV0V3hqZ0NRZUl5bFEyUE16NmhMM2xJTHY2OFBySGx0MFBBUUNSUjY3by1rQUNmRFZ4RlJrdw?oc=5)
-
-2026-09-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">rectal cancer</span>
-
-Source: [The Economic Times](https://news.google.com/rss/articles/CBMiwAJBVV95cUxQYlhqMUtlSE9tSFZlVl9tVUMxWDBld1Z0Z0JMMW9lVGJJb042ajJaZHhjTG9LN0hFN0hJZEF3NEZ5MUQ4R0JPWGhRUjkxTy1vN1RJMjRIeWtiSmFrV1ZTa2t5dkNTQXk4Q0NfZFN6MHJDY1JHalVEUFVnSzJiTU5rSnBWQUp1OXBQVXJUUU1jd3k0RHp2bjRvVjVTbFBUNzZYRHFkVFB6MGxRelBmNUlHU0Zfd200VHh5NkhHSGx6bUJXWENnQnNyS2J0S2xoc2poVVNBTEhkUDh2RVJEWk5mMzZRSTVmWFZCekxVQUkxenlRVWtfT0VCSFA3eDVkTF9rZDJDNm03eXNPemxaUnlCVDUwOGd1dEJkVXF5RGRiOUlRelh5dFcteFVGd2pwREtaNVBDcWJ2S2VNcjNoeWNmbtIBxgJBVV95cUxQMmdTZjdBN0YwUEZZUWF2Yi1oNDRCeXBkM0Jaa1E3NXdNY096bktiZnFIS3p6MDRfbG5NVG5ELW5UOGs1V05PMy1HZ2xhVkItX2Q0SEJJdm9ZZW9pTFNwMUxJb2xWdVJRUHF4bXpEaWxUdWtoTnJTSFRvcUJPdncwZ1NJRUdySmswZzNnSUdFT0hQTWpGRjhXenJKMS1kV0twYlVGMmdObzNaNUxpV3J1UWRaLV9CTVlLSTRXM090M1FYN1NGc2dBTVIxT2NJVk9XbjdGWmdCS3NueVVhX1VJUXliZUZxYmd3SUpCaE1lUnV5TnpHbU9zSmZfdDhmYWZMdDhqMTExNDR1NU40eHU2dTV0V3hqZ0NRZUl5bFEyUE16NmhMM2xJTHY2OFBySGx0MFBBUUNSUjY3by1rQUNmRFZ4RlJrdw?oc=5)
-
----
-
-### [Y chromosome loss creates hidden cancer vulnerability in men](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdfUVdVbG9HamowMGRaMm1RM3VXbldocHZzcGFJTHNzMGdBY0wyRm53RDdXWDFUbzdjWWFCS2dKX29PRWRTa0dCTWZMcHFjZkQySEdLYksweUVOaURuX2ZjVXdQS3hzbXFBcXQ4cUxJVzV3Ui1RbVBLWGdkc2pLVGlOMUpTM0pOUWd5cTB3VjRESjUxeWtnQ0xLQkRDNnpEbTFlczFqRFpJWklt?oc=5)
-
-2026-09-18 <span class="news-indication-tag">cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdfUVdVbG9HamowMGRaMm1RM3VXbldocHZzcGFJTHNzMGdBY0wyRm53RDdXWDFUbzdjWWFCS2dKX29PRWRTa0dCTWZMcHFjZkQySEdLYksweUVOaURuX2ZjVXdQS3hzbXFBcXQ4cUxJVzV3Ui1RbVBLWGdkc2pLVGlOMUpTM0pOUWd5cTB3VjRESjUxeWtnQ0xLQkRDNnpEbTFlczFqRFpJWklt?oc=5)
-
----
-
-### [WHO Opens First-Ever Prequalification Pathway for 12 Childhood Cancer Medicines](https://news.google.com/rss/articles/CBMibkFVX3lxTE1XSWdQekRlWWozdXN5VUFzUzBHdlFCYVJ2TElIcjJJV1dzWHhxRmlQaFQwV2xldm1QMjFoRFZ4dnZMdXVReXg5RDNXeGVwVzF0U2poZUd6a21XNW9xQmdSTkVFTjRyWDQ3bEZUSzJ3?oc=5)
-
-2026-09-17 <span class="news-indication-tag">cancer</span>
-
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMibkFVX3lxTE1XSWdQekRlWWozdXN5VUFzUzBHdlFCYVJ2TElIcjJJV1dzWHhxRmlQaFQwV2xldm1QMjFoRFZ4dnZMdXVReXg5RDNXeGVwVzF0U2poZUd6a21XNW9xQmdSTkVFTjRyWDQ3bEZUSzJ3?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

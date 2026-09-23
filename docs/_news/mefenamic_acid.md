@@ -14,7 +14,7 @@ permalink: /news/mefenamic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Mefenamic Acid?">
-<strong>Mefenamic Acid</strong> currently has <strong>2 news articles</strong>, with 8 predicted indications.
+<strong>Mefenamic Acid</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Mefenamic Acid with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (8)</strong>:<ul>
-<li class="indication-matched">rheumatoid arthritis (99.7%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (99.7%)</li>
 <li>osteoarthritis susceptibility (99.7%)</li>
 <li>headache disorder (99.6%)</li>
 <li>trigeminal autonomic cephalalgia (99.5%)</li>
@@ -38,23 +38,9 @@ This page combines the AI-predicted indications for Mefenamic Acid with the late
 <p><a href="{{ '/drugs/mefenamic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Revolutionary stRAMos™ SRS microscope launch by photothermal](https://news.google.com/rss/articles/CBMilgJBVV95cUxOZkVVa0lsM0d1enlJOS1iT040dWVVXzh3T2tDbjBxaGNLem5pLUtmX0xubW95LXE0eDlKMjBhZFNGSDBOM05QeDlmb3AyaXZZT1ZzdllTVWk1T2VNckxROGhVZnRRV0R4Q25tWFZkcV9kajRLRHM5ZS1XNXA3TVZxdU8wQVhjMldjMkJuSE9mUFNnMWVkbllfTV9kb0ZvdTBfTzhrazFtV3VnQUtKMVY2VnFGcGExNllxLWlWTm1IVERZSnkyd3E4aWVtcHJtekp4OTBTZDNlZ25vUkY1WnJ5cUZZNWNydjhrc0lhTmx1dGpRR2NuR1ZSSV81N05iamY4QWJLRzVxQllPNHFlNUotb1NiMGVTUQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">RA</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMilgJBVV95cUxOZkVVa0lsM0d1enlJOS1iT040dWVVXzh3T2tDbjBxaGNLem5pLUtmX0xubW95LXE0eDlKMjBhZFNGSDBOM05QeDlmb3AyaXZZT1ZzdllTVWk1T2VNckxROGhVZnRRV0R4Q25tWFZkcV9kajRLRHM5ZS1XNXA3TVZxdU8wQVhjMldjMkJuSE9mUFNnMWVkbllfTV9kb0ZvdTBfTzhrazFtV3VnQUtKMVY2VnFGcGExNllxLWlWTm1IVERZSnkyd3E4aWVtcHJtekp4OTBTZDNlZ25vUkY1WnJ5cUZZNWNydjhrc0lhTmx1dGpRR2NuR1ZSSV81N05iamY4QWJLRzVxQllPNHFlNUotb1NiMGVTUQ?oc=5)
-
----
-
-### [China’s space- and ground-based observatories trace long journey of cosmic rays - Macau Business](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMng1eXM0UkNxV09WdGgxTDdNZzFwYWt4T0dpR0pDajg0dElfa0V3MmNVRzgwU0FkQTNNQ2tCWjNtRnlKQnFoLV9kM2V4WjMzSjdCLTExTW4xRjdhRTAxZ1QycHNVYjZpX1hrMGlEdlMxZ2FnckcyVlBCLVRUU0RGWm1QYW5HT1FuZF9QM1Z1UE5VQkYteDBLVWpHMU5ZZlFLX0lfcDZBZw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">RA</span>
-
-Source: [Macau Business](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMng1eXM0UkNxV09WdGgxTDdNZzFwYWt4T0dpR0pDajg0dElfa0V3MmNVRzgwU0FkQTNNQ2tCWjNtRnlKQnFoLV9kM2V4WjMzSjdCLTExTW4xRjdhRTAxZ1QycHNVYjZpX1hrMGlEdlMxZ2FnckcyVlBCLVRUU0RGWm1QYW5HT1FuZF9QM1Z1UE5VQkYteDBLVWpHMU5ZZlFLX0lfcDZBZw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

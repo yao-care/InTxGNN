@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,23 +40,9 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Can stopping Ozempic suddenly increase the risk of strokes and heart attacks - The Times of India](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ3p1OXlibkZvUkR6RjNDTHJvb0FyVU9EMHY2bS1KeWVTd3JnSndUTEhtdUI5NGlOamV6TzJfWjB3OTBnQU12TmtkU29JcElCSmNtSm85VGI3Yl8wYXZXMzZ4cDdxQ1dGeUh5Qm1uRHdZUmxBd0x3SENhREQ4VlRfSDJnNlhTR21PRm9JOVh5eS14ajBnUzVxUzFFaDdLTGNCZTQzMGk3YU9pMGNmbW9GNDNZajFaOFY2TWcxM1dSUGJqWDhwYmF1RnpNVXdRbldxNk10ZWVabVdhOEw2bDlIc1c5bFc2REVhSUHSAe8BQVVfeXFMTUtyTUhrNGFRWUtsRWxmWW9BVHRnSEtUZ24wcmpORU5KNmhpRGVxVnltX3NubXdSN053WmdmVjBnSTROVTVGelh1c2JXeEVtZV9nbjNRYVhuTUZTY212VXZWd3N4UzByTG1jNlZWeGtma2l6WlFUekN0X0lTc29aMVZLUWNKVnRiSTh4cmlEakoxQ081N2VETzhYQTJzOGU2SzhFaVZVQ1pOdzJ4OVZRVDU5UllMbGg4SzVnYWVvUmszVmRiS3pQU0JnSGZvWmFsR3M0WWI3QW52VzJVakZpQ19QUDQ4azZTb1FwSTZlbzA?oc=5)
-
-2026-09-23 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ3p1OXlibkZvUkR6RjNDTHJvb0FyVU9EMHY2bS1KeWVTd3JnSndUTEhtdUI5NGlOamV6TzJfWjB3OTBnQU12TmtkU29JcElCSmNtSm85VGI3Yl8wYXZXMzZ4cDdxQ1dGeUh5Qm1uRHdZUmxBd0x3SENhREQ4VlRfSDJnNlhTR21PRm9JOVh5eS14ajBnUzVxUzFFaDdLTGNCZTQzMGk3YU9pMGNmbW9GNDNZajFaOFY2TWcxM1dSUGJqWDhwYmF1RnpNVXdRbldxNk10ZWVabVdhOEw2bDlIc1c5bFc2REVhSUHSAe8BQVVfeXFMTUtyTUhrNGFRWUtsRWxmWW9BVHRnSEtUZ24wcmpORU5KNmhpRGVxVnltX3NubXdSN053WmdmVjBnSTROVTVGelh1c2JXeEVtZV9nbjNRYVhuTUZTY212VXZWd3N4UzByTG1jNlZWeGtma2l6WlFUekN0X0lTc29aMVZLUWNKVnRiSTh4cmlEakoxQ081N2VETzhYQTJzOGU2SzhFaVZVQ1pOdzJ4OVZRVDU5UllMbGg4SzVnYWVvUmszVmRiS3pQU0JnSGZvWmFsR3M0WWI3QW52VzJVakZpQ19QUDQ4azZTb1FwSTZlbzA?oc=5)
-
----
-
-### [WHO pushes for more research into traditional medicine - Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
-
-2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
