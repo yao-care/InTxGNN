@@ -14,7 +14,7 @@ permalink: /news/doxapram/
 ---
 
 <p class="key-answer" data-question="What news is there about Doxapram?">
-<strong>Doxapram</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Doxapram</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Doxapram with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li class="indication-matched">vascular disease (100.0%)<span class="indication-tag">📰 vascular disease</span></li>
+<li>vascular disease (100.0%)</li>
 <li>venous thoracic outlet syndrome (100.0%)</li>
 <li>arterial thoracic outlet syndrome (100.0%)</li>
 <li>angiodysplasia of stomach (100.0%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Doxapram with the latest hea
 <p><a href="{{ '/drugs/doxapram/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Women and heart disease: Why their risk is often underestimated - India Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxObU1mRWNDUDlDWXBMU0ViTnJNRUZ1ZF81emFPWFl6VjlpaTRtNFp6dzhaS29rZEFqaHd0MXNjcjI2N3BkRUd4bHVYeGhjWDE0d1ZyZkNOOHM2V1ZEX2dqT3dwQjg3RHlKS0tJZW1uajF3TUxZQTdPZUFEbWF2Z2pSdUlIRmE4ajE4SWNoRTU4N0hfZ21OT3hpSGRxZWl2YWg3RHFCYlZRbFEwekRxTnZidHNfNV9pbVBTa1U5NNIBwgFBVV95cUxQRk80bHdyTF9ac000X1NZaG9WcFl3dnZtNExVTmhyTzZfWWxtQ1l5S3B1Qm5qSUdqdUxMWmZCOV9KUHd5anprX1lyQWxITWdXQk5CQVBrMGhueXZtRWlDblgyaEZCeTlJZUxreW5GRElBeUIzR2J6NTVkS0UyRjhqYzlFcHpwY0pVVEprdjYxNW4tSmpHaWxkSFgtWU10bVVTaDRLbm5Ra3JweW05UUJCZ056QlA2M0cxeExNdW55UllqQQ?oc=5)
-
-2026-09-23 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">vascular disease</span>
-
-Source: [India Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxObU1mRWNDUDlDWXBMU0ViTnJNRUZ1ZF81emFPWFl6VjlpaTRtNFp6dzhaS29rZEFqaHd0MXNjcjI2N3BkRUd4bHVYeGhjWDE0d1ZyZkNOOHM2V1ZEX2dqT3dwQjg3RHlKS0tJZW1uajF3TUxZQTdPZUFEbWF2Z2pSdUlIRmE4ajE4SWNoRTU4N0hfZ21OT3hpSGRxZWl2YWg3RHFCYlZRbFEwekRxTnZidHNfNV9pbVBTa1U5NNIBwgFBVV95cUxQRk80bHdyTF9ac000X1NZaG9WcFl3dnZtNExVTmhyTzZfWWxtQ1l5S3B1Qm5qSUdqdUxMWmZCOV9KUHd5anprX1lyQWxITWdXQk5CQVBrMGhueXZtRWlDblgyaEZCeTlJZUxreW5GRElBeUIzR2J6NTVkS0UyRjhqYzlFcHpwY0pVVEprdjYxNW4tSmpHaWxkSFgtWU10bVVTaDRLbm5Ra3JweW05UUJCZ056QlA2M0cxeExNdW55UllqQQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
