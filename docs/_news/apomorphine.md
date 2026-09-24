@@ -46,7 +46,7 @@ This page combines the AI-predicted indications for Apomorphine with the latest 
 
 2026-09-23 <span class="news-drug-tag">Acetaminophen</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">mental disorder</span>
 
-Source: [news-medical.net](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/letrozole/
 ---
 
 <p class="key-answer" data-question="What news is there about Letrozole?">
-<strong>Letrozole</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Letrozole</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Letrozole with the latest he
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Q&A: Teal Health scores $22M to broaden at-home cervical cancer screening](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVR1NE1rSVFRM3Y1UXp6LUVMeTVQQmZyMldtd3F2VXFCQWh0T3VaWjF2ekZUMUpsaDJVWk9DMlJkVzdoaXpQYW9YOFUxYjNJaFRMMFczRnFpMUdWNjhGN2lFTXYzSE1zVFZhaFEyd0xMQnQyUXNiY0k3Ym9Fa0ROZmdiMWItZDdXNy1iSmJxcGp0bEQ3Z19IRmdKWjdUcWlQcWc?oc=5)
+
+2026-09-23 <span class="news-indication-tag">cancer</span>
+
+Source: [MobiHealthNews](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVR1NE1rSVFRM3Y1UXp6LUVMeTVQQmZyMldtd3F2VXFCQWh0T3VaWjF2ekZUMUpsaDJVWk9DMlJkVzdoaXpQYW9YOFUxYjNJaFRMMFczRnFpMUdWNjhGN2lFTXYzSE1zVFZhaFEyd0xMQnQyUXNiY0k3Ym9Fa0ROZmdiMWItZDdXNy1iSmJxcGp0bEQ3Z19IRmdKWjdUcWlQcWc?oc=5)
+
+---
 
 ### [Blood tests could identify early signs of cancer years before diagnosis - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0NnRGJWRjUwRDVnbmdVSEVmdGZjTHNZb0xKajE4NGlKc1dXSFphRFJHeG1uMENxejlOaXRxYXpTQUFaem5MRzlkU2dPRzMzMlBiQlB2MWJxUlpoMU5vR0Q5MzltRDJOM2pfcjFEbHBaM1pFNC04NTBKcHAwZEJyQUZjdm4?oc=5)
 
@@ -58,19 +66,19 @@ Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMipgFBVV95
 
 ---
 
+### [Menopause & Heart Health: Why This Transition Can Be A Turning Point for A Woman’s Cardiovascular Future - Health and Me](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGJiUk5GUEtWS28yeXRHekFsT0trcHMyZXRnWGU4SHZraTN3RVh3VjVTdzZYd093U1M1TEcxVmJUSE1YYm5oTzBfNGUyd25yNExvaTktclk5YUliU21YczdrcW5nczByTzVqRnp2Z08zQlFXYnA3UDZGR2hXTURjbXFSbm5yVkJwT0tJVlVHcUlxeXl4ODJ3b0c4NnBaMGViRDVmQnpvRnhXbnBWNmRXdW4zLW84ZHQ5VUtQZUxiNkZ5S3ZZN0drajlaWl9NR2NqUzBJTTNTbnZhRUR4N1VqT0dVeWZyTmkwTUdyWThQS3k2dHdR?oc=5)
+
+2026-09-23 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGJiUk5GUEtWS28yeXRHekFsT0trcHMyZXRnWGU4SHZraTN3RVh3VjVTdzZYd093U1M1TEcxVmJUSE1YYm5oTzBfNGUyd25yNExvaTktclk5YUliU21YczdrcW5nczByTzVqRnp2Z08zQlFXYnA3UDZGR2hXTURjbXFSbm5yVkJwT0tJVlVHcUlxeXl4ODJ3b0c4NnBaMGViRDVmQnpvRnhXbnBWNmRXdW4zLW84ZHQ5VUtQZUxiNkZ5S3ZZN0drajlaWl9NR2NqUzBJTTNTbnZhRUR4N1VqT0dVeWZyTmkwTUdyWThQS3k2dHdR?oc=5)
+
+---
+
 ### [UN health agency calls for investment boost to save young lives from cancer - UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGVUJkLWZoX1V3cExpWmNHU2p3d2xDWkQ4eTJSdmxYU0VUMjFDVGxfVm4wd0tIeV9MV081OGxkLTRyV2Rhc2JqT3hDVERKQVhNaw?oc=5)
 
 2026-09-23 <span class="news-indication-tag">cancer</span>
 
 Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGVUJkLWZoX1V3cExpWmNHU2p3d2xDWkQ4eTJSdmxYU0VUMjFDVGxfVm4wd0tIeV9MV081OGxkLTRyV2Rhc2JqT3hDVERKQVhNaw?oc=5)
-
----
-
-### [Genetics, Diabetes Tied to MASLD-Associated Cirrhosis Before Age 50 - Gastroenterology Advisor](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
-
-2026-09-23 <span class="news-indication-tag">cancer</span>
-
-Source: [Gastroenterology Advisor](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
 
 ---
 
@@ -82,19 +90,19 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cU
 
 ---
 
+### [One Sugary Drink A Day Can Lead To Higher Risk Of Stomach Cancer, Study Finds - Times Now](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0JJYmZCR21hblVLN09NNnVVS1RNdzBHenY2eDBjc3BzV0FrakY4ckNpSndhZktmRG1JZm5TX1JFdEFmRHFhSGt2TjFSU0hMTzJRa3dDTjlORVljelN2MDZTTWkwZlV6T1phZ0ZxSkZQV2dTQ1JGSndLU19MQjdxcVZMZXk2d2tqSjZhOFc0aURKSENLd0Z2OTI0SUR2T0JwTm5VMXAwcWNoa2lEWGJHQ0dxRmpQRWZzVGfSAb8BQVVfeXFMTlJFSUFvemV0aWFUMC11M1lXdzIwVWpZc2p6SzJXX2ZHQUJLaUJyZF9PVGNnbTlNN2RGNElZM3Z4c3RYSUZRbkRtNGROY0xfUWFCUklwS2xsWXZsazVBMU5yN1IwODNGc1FuNFNTaXVFc29qeDl3ekVWbTZfN3dZZFY5ajJic3E1eFBMbi1BVmh0WGwxZ0EtX1VSMFJ2eW5TZ2xvT3o0dGoyQi1yNWlycUg1RzQ3Qk93QUdpRFdqVUk?oc=5)
+
+2026-09-22 <span class="news-indication-tag">cancer</span>
+
+Source: [Times Now](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0JJYmZCR21hblVLN09NNnVVS1RNdzBHenY2eDBjc3BzV0FrakY4ckNpSndhZktmRG1JZm5TX1JFdEFmRHFhSGt2TjFSU0hMTzJRa3dDTjlORVljelN2MDZTTWkwZlV6T1phZ0ZxSkZQV2dTQ1JGSndLU19MQjdxcVZMZXk2d2tqSjZhOFc0aURKSENLd0Z2OTI0SUR2T0JwTm5VMXAwcWNoa2lEWGJHQ0dxRmpQRWZzVGfSAb8BQVVfeXFMTlJFSUFvemV0aWFUMC11M1lXdzIwVWpZc2p6SzJXX2ZHQUJLaUJyZF9PVGNnbTlNN2RGNElZM3Z4c3RYSUZRbkRtNGROY0xfUWFCUklwS2xsWXZsazVBMU5yN1IwODNGc1FuNFNTaXVFc29qeDl3ekVWbTZfN3dZZFY5ajJic3E1eFBMbi1BVmh0WGwxZ0EtX1VSMFJ2eW5TZ2xvT3o0dGoyQi1yNWlycUg1RzQ3Qk93QUdpRFdqVUk?oc=5)
+
+---
+
 ### [WHO pushes for more research into traditional medicine - Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
-
----
-
-### [Daily Sugary Drink Consumption Doubles Risk of Gastric Cancer - India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
-
-2026-09-22 <span class="news-indication-tag">cancer</span>
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
 
 ---
 

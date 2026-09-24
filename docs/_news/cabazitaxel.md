@@ -14,7 +14,7 @@ permalink: /news/cabazitaxel/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabazitaxel?">
-<strong>Cabazitaxel</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Cabazitaxel</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 <p><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
 
-### [Ebola outbreak in DR Congo approaches 7,800 cases](https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2FsZzBmQnl2cm1LQmswYUVFQVZ4a0NwcnJtaEN0YXNYYWJQNDlNU2lFamZMbGdaQ2JWanMxU09tblVFZFVUY2tOemk3MzFvRmRZN0NydG9sdDFTM191QUJQOUJCRXNWRVhwbUFSOElmMXRpOGY3Qk5YZWp0VWxUZ3pxTzE?oc=5)
+### [Q&A: Teal Health scores $22M to broaden at-home cervical cancer screening](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVR1NE1rSVFRM3Y1UXp6LUVMeTVQQmZyMldtd3F2VXFCQWh0T3VaWjF2ekZUMUpsaDJVWk9DMlJkVzdoaXpQYW9YOFUxYjNJaFRMMFczRnFpMUdWNjhGN2lFTXYzSE1zVFZhaFEyd0xMQnQyUXNiY0k3Ym9Fa0ROZmdiMWItZDdXNy1iSmJxcGp0bEQ3Z19IRmdKWjdUcWlQcWc?oc=5)
 
-2026-09-23 <span class="news-indication-tag">RA</span>
+2026-09-23 <span class="news-indication-tag">cancer</span>
 
-Source: [CIDRAP](https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2FsZzBmQnl2cm1LQmswYUVFQVZ4a0NwcnJtaEN0YXNYYWJQNDlNU2lFamZMbGdaQ2JWanMxU09tblVFZFVUY2tOemk3MzFvRmRZN0NydG9sdDFTM191QUJQOUJCRXNWRVhwbUFSOElmMXRpOGY3Qk5YZWp0VWxUZ3pxTzE?oc=5)
+Source: [MobiHealthNews](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVR1NE1rSVFRM3Y1UXp6LUVMeTVQQmZyMldtd3F2VXFCQWh0T3VaWjF2ekZUMUpsaDJVWk9DMlJkVzdoaXpQYW9YOFUxYjNJaFRMMFczRnFpMUdWNjhGN2lFTXYzSE1zVFZhaFEyd0xMQnQyUXNiY0k3Ym9Fa0ROZmdiMWItZDdXNy1iSmJxcGp0bEQ3Z19IRmdKWjdUcWlQcWc?oc=5)
 
 ---
 
@@ -62,13 +62,13 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0
 
 2026-09-23 <span class="news-drug-tag">Acetaminophen</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">mental disorder</span>
 
-Source: [news-medical.net](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
 
 ---
 
 ### [Can Alzheimer’s Be Prevented? Understanding The Role Of Lifestyle And Brain Health : Dr. Anirudh Vilas Kulkarni, Senior Consultant – Interventional Neurology, KIMS Hospitals, Electronic City, Bengalu. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnZPQ01fcEQ5X01odzVBTmFBc0NXZEp5QmdNbktub3NsMHRZYTZSMllXM2ozZ2UtTG1jLXI1bnJQRW45MlV2bjRwVW44eHcwSk9RaDZ4UVlFWU94Z3doeUozTGZOZEJUNk1ZRU1FMDFvR1RnT0ZLTGlWWmJ2cXd2Z2tVMS1XbnpzdERWZGh0aHF5SkpTY2NCMzUtYzdoZnc2M1B1Y2ZVRUxWS29WVVJRWkZGVFpMVE9QMmdZbzR5al8wT0liU0RkcG5PcHdZZ2d0MmNmUVlmWV9DY2ZBcHhmWnlSdVQ0bmxpR2RpblB1dkVwMU1ILVBMbjU4bWd1NW91eG5rYzNvRktmQjY2RzZFVkxWc09TTkpLWkV0XzR6VXE4dkNKNU1QVjdOdE5reE1i?oc=5)
 
-2026-09-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">RA</span>
+2026-09-23 <span class="news-drug-tag">TESTOSTERONE</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">RA</span>
 
 Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnZPQ01fcEQ5X01odzVBTmFBc0NXZEp5QmdNbktub3NsMHRZYTZSMllXM2ozZ2UtTG1jLXI1bnJQRW45MlV2bjRwVW44eHcwSk9RaDZ4UVlFWU94Z3doeUozTGZOZEJUNk1ZRU1FMDFvR1RnT0ZLTGlWWmJ2cXd2Z2tVMS1XbnpzdERWZGh0aHF5SkpTY2NCMzUtYzdoZnc2M1B1Y2ZVRUxWS29WVVJRWkZGVFpMVE9QMmdZbzR5al8wT0liU0RkcG5PcHdZZ2d0MmNmUVlmWV9DY2ZBcHhmWnlSdVQ0bmxpR2RpblB1dkVwMU1ILVBMbjU4bWd1NW91eG5rYzNvRktmQjY2RzZFVkxWc09TTkpLWkV0XzR6VXE4dkNKNU1QVjdOdE5reE1i?oc=5)
 
@@ -90,19 +90,11 @@ Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGV
 
 ---
 
-### [Genetics, Diabetes Tied to MASLD-Associated Cirrhosis Before Age 50 - Gastroenterology Advisor](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
+### [One Sugary Drink A Day Can Lead To Higher Risk Of Stomach Cancer, Study Finds - Times Now](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0JJYmZCR21hblVLN09NNnVVS1RNdzBHenY2eDBjc3BzV0FrakY4ckNpSndhZktmRG1JZm5TX1JFdEFmRHFhSGt2TjFSU0hMTzJRa3dDTjlORVljelN2MDZTTWkwZlV6T1phZ0ZxSkZQV2dTQ1JGSndLU19MQjdxcVZMZXk2d2tqSjZhOFc0aURKSENLd0Z2OTI0SUR2T0JwTm5VMXAwcWNoa2lEWGJHQ0dxRmpQRWZzVGfSAb8BQVVfeXFMTlJFSUFvemV0aWFUMC11M1lXdzIwVWpZc2p6SzJXX2ZHQUJLaUJyZF9PVGNnbTlNN2RGNElZM3Z4c3RYSUZRbkRtNGROY0xfUWFCUklwS2xsWXZsazVBMU5yN1IwODNGc1FuNFNTaXVFc29qeDl3ekVWbTZfN3dZZFY5ajJic3E1eFBMbi1BVmh0WGwxZ0EtX1VSMFJ2eW5TZ2xvT3o0dGoyQi1yNWlycUg1RzQ3Qk93QUdpRFdqVUk?oc=5)
 
-2026-09-23 <span class="news-indication-tag">cancer</span>
+2026-09-22 <span class="news-indication-tag">cancer</span>
 
-Source: [Gastroenterology Advisor](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
-
----
-
-### [Revolutionary stRAMos™ SRS microscope launch by photothermal](https://news.google.com/rss/articles/CBMilgJBVV95cUxOZkVVa0lsM0d1enlJOS1iT040dWVVXzh3T2tDbjBxaGNLem5pLUtmX0xubW95LXE0eDlKMjBhZFNGSDBOM05QeDlmb3AyaXZZT1ZzdllTVWk1T2VNckxROGhVZnRRV0R4Q25tWFZkcV9kajRLRHM5ZS1XNXA3TVZxdU8wQVhjMldjMkJuSE9mUFNnMWVkbllfTV9kb0ZvdTBfTzhrazFtV3VnQUtKMVY2VnFGcGExNllxLWlWTm1IVERZSnkyd3E4aWVtcHJtekp4OTBTZDNlZ25vUkY1WnJ5cUZZNWNydjhrc0lhTmx1dGpRR2NuR1ZSSV81N05iamY4QWJLRzVxQllPNHFlNUotb1NiMGVTUQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">RA</span>
-
-Source: [news-medical.net](https://news.google.com/rss/articles/CBMilgJBVV95cUxOZkVVa0lsM0d1enlJOS1iT040dWVVXzh3T2tDbjBxaGNLem5pLUtmX0xubW95LXE0eDlKMjBhZFNGSDBOM05QeDlmb3AyaXZZT1ZzdllTVWk1T2VNckxROGhVZnRRV0R4Q25tWFZkcV9kajRLRHM5ZS1XNXA3TVZxdU8wQVhjMldjMkJuSE9mUFNnMWVkbllfTV9kb0ZvdTBfTzhrazFtV3VnQUtKMVY2VnFGcGExNllxLWlWTm1IVERZSnkyd3E4aWVtcHJtekp4OTBTZDNlZ25vUkY1WnJ5cUZZNWNydjhrc0lhTmx1dGpRR2NuR1ZSSV81N05iamY4QWJLRzVxQllPNHFlNUotb1NiMGVTUQ?oc=5)
+Source: [Times Now](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0JJYmZCR21hblVLN09NNnVVS1RNdzBHenY2eDBjc3BzV0FrakY4ckNpSndhZktmRG1JZm5TX1JFdEFmRHFhSGt2TjFSU0hMTzJRa3dDTjlORVljelN2MDZTTWkwZlV6T1phZ0ZxSkZQV2dTQ1JGSndLU19MQjdxcVZMZXk2d2tqSjZhOFc0aURKSENLd0Z2OTI0SUR2T0JwTm5VMXAwcWNoa2lEWGJHQ0dxRmpQRWZzVGfSAb8BQVVfeXFMTlJFSUFvemV0aWFUMC11M1lXdzIwVWpZc2p6SzJXX2ZHQUJLaUJyZF9PVGNnbTlNN2RGNElZM3Z4c3RYSUZRbkRtNGROY0xfUWFCUklwS2xsWXZsazVBMU5yN1IwODNGc1FuNFNTaXVFc29qeDl3ekVWbTZfN3dZZFY5ajJic3E1eFBMbi1BVmh0WGwxZ0EtX1VSMFJ2eW5TZ2xvT3o0dGoyQi1yNWlycUg1RzQ3Qk93QUdpRFdqVUk?oc=5)
 
 ---
 
@@ -114,11 +106,11 @@ Source: [Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB
 
 ---
 
-### [Daily Sugary Drink Consumption Doubles Risk of Gastric Cancer - India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
+### [Ebola Is Outrunning The Response In Eastern Congo](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVplck9vdlMwUEdzMFJ3YWhYd0dKOGFSWVZRUC1keC1MbmkydjBmSWhzOHlzbzJzQVp5cWVfQzVqNE5mLWUzRHpWNW5SWTAzS0RUZTVkOVB5Y3NyeXRjSTFSZWFsc0dqenNoUHY1aVZVOVc5X3JJTl9iME9rdnJsNnQ4TGtXX3A3Tk5YN1lOZ193WVdoUHVFanJYdUtuUmZLRXc?oc=5)
 
-2026-09-22 <span class="news-indication-tag">cancer</span>
+2026-09-17 <span class="news-indication-tag">RA</span>
 
-Source: [India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
+Source: [Forbes](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVplck9vdlMwUEdzMFJ3YWhYd0dKOGFSWVZRUC1keC1MbmkydjBmSWhzOHlzbzJzQVp5cWVfQzVqNE5mLWUzRHpWNW5SWTAzS0RUZTVkOVB5Y3NyeXRjSTFSZWFsc0dqenNoUHY1aVZVOVc5X3JJTl9iME9rdnJsNnQ4TGtXX3A3Tk5YN1lOZ193WVdoUHVFanJYdUtuUmZLRXc?oc=5)
 
 ---
 
