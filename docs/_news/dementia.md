@@ -3,7 +3,7 @@ layout: default
 title: "dementia News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia. 3 articles, 8 related drugs."
+description: "Health news about dementia. 2 articles, 8 related drugs."
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia?">
-<strong>dementia</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<strong>dementia</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Tau accumulation reshapes neurotransmitter signaling in Alzheimer’s disease - American Society for Biochemistry and Molecular Biology](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWld6S1RoT0gzMEt5Ukt0RGc1ZF9IZE5uMGMwYmkzN1JoNXlOLTlObkw2bk1LRU5SUlZScFN3Z0czZlkzaGE5M291WFVJUWxVTWtyS0hSeWdvY2ZrUE94YktndDFTd0VUOVM1cUdzb0h0SDBJSHBIYkFoRUNkTzRXU3E4clhnQzdWZHpldGlYWDJhVldMc1pXNg?oc=5)
 
@@ -46,19 +46,11 @@ Source: [American Society for Biochemistry and Molecular Biology](https://news.g
 
 ---
 
-### [Doctors warn of rising dementia burden even as India gets first disease-modifying Alzheimer's Drug](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTUlhS3ktQU1ab2lqWm5TckF0RFVzeXlOMzJpdWhJUFA3WWN1MUVjUjRSeGt4SWdRMFRZZ3BkWWxXNEktdFFrZHFvYmQ5bExBLTUxLWFkTFNfelNmcWN6WnI2bFRrbUZTUEpfNDZhWjNmRVd0WUhKM244VGQyRTFJOWd1MDBCekxEdE4xSk1yMWF2cUJVZUxrV1k5RTVSNnBlYXlHRVFoMUNjLW1kU01kMHpZMTdnT2xDSGtsbnV1U0d3VHhtMVZUaVBiTjJHeHRvYzE4V1FpY2FKMU0?oc=5)
+### [Doctors Flag Early Diagnosis Gap As India Gets First Disease-Modifying Alzheimer’s Drug - BW Healthcare World](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVU3QnlBWllab2xST3ZfUDlmTUZOQmI5UVdad3A4WngwdnFTVXRjQnhLMVluTGlJaDNyWWNFRTVBNjZtSzdydEJaWnRDRTVTR01XcmloR3g5VWxhODBBc1VZOVZEbVBMYkJGX2JLbDRRS3NYLVVKaGtTdkF6Q1Zkb0R5ajQ0M0VtUEVTb0tjUENveG5FUkJkMXMwdXNVUk9yak1ZTG1fZlJONHhqcnhqUUhJWmZ4aFdqajZkRlVfSWlKUVlnZTczUXYteVV4VWNPU2c?oc=5)
 
-2026-09-23
+2026-09-24
 
-Source: [expresshealthcare.in](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTUlhS3ktQU1ab2lqWm5TckF0RFVzeXlOMzJpdWhJUFA3WWN1MUVjUjRSeGt4SWdRMFRZZ3BkWWxXNEktdFFrZHFvYmQ5bExBLTUxLWFkTFNfelNmcWN6WnI2bFRrbUZTUEpfNDZhWjNmRVd0WUhKM244VGQyRTFJOWd1MDBCekxEdE4xSk1yMWF2cUJVZUxrV1k5RTVSNnBlYXlHRVFoMUNjLW1kU01kMHpZMTdnT2xDSGtsbnV1U0d3VHhtMVZUaVBiTjJHeHRvYzE4V1FpY2FKMU0?oc=5)
-
----
-
-### [Dementia Cases In India Projected To Nearly Double By 2036](https://news.google.com/rss/articles/CBMimwFBVV95cUxQYl9JNy1iYmk0UGM1QUxCSUhQd01ZQlpvekx4MnFwMzJWajJMb1BkSjJfSWJSSFFfYk5iSmo1WmFYRlpoOXdsRFFUV1FfQnVIMjgtWmI3UTU5ZGJmVzJHU3NFUWY5aWdsUE9ST2ZhbFN0dGllMkNzX2NlNVRVa1ZOWndRSnRQeThDclQ0V2dHTkxERzdGejR1bFdQTQ?oc=5)
-
-2026-09-23
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMimwFBVV95cUxQYl9JNy1iYmk0UGM1QUxCSUhQd01ZQlpvekx4MnFwMzJWajJMb1BkSjJfSWJSSFFfYk5iSmo1WmFYRlpoOXdsRFFUV1FfQnVIMjgtWmI3UTU5ZGJmVzJHU3NFUWY5aWdsUE9ST2ZhbFN0dGllMkNzX2NlNVRVa1ZOWndRSnRQeThDclQ0V2dHTkxERzdGejR1bFdQTQ?oc=5)
+Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVU3QnlBWllab2xST3ZfUDlmTUZOQmI5UVdad3A4WngwdnFTVXRjQnhLMVluTGlJaDNyWWNFRTVBNjZtSzdydEJaWnRDRTVTR01XcmloR3g5VWxhODBBc1VZOVZEbVBMYkJGX2JLbDRRS3NYLVVKaGtTdkF6Q1Zkb0R5ajQ0M0VtUEVTb0tjUENveG5FUkJkMXMwdXNVUk9yak1ZTG1fZlJONHhqcnhqUUhJWmZ4aFdqajZkRlVfSWlKUVlnZTczUXYteVV4VWNPU2c?oc=5)
 
 ---
 

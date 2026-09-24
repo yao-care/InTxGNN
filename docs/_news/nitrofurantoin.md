@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="What news is there about Nitrofurantoin?">
-<strong>Nitrofurantoin</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Nitrofurantoin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Nitrofurantoin with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li class="indication-matched">rheumatoid arthritis (99.9%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (99.9%)</li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.8%)</li>
 <li>brain small vessel disease 1 with or without ocular anomalies (99.8%)</li>
 <li>diabetic nephropathy (99.8%)</li>
@@ -40,23 +40,9 @@ This page combines the AI-predicted indications for Nitrofurantoin with the late
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Study finds no causal link between prenatal paracetamol and neurodevelopmental disorders](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
-
-2026-09-23 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">mental disorder</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
-
----
-
-### [DRC: Humanitarian needs surging as Ebola spreads and El Niño looms](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamJHYzJSdmtPLUphN2R0V3FBWkpCLW1UZzBmT2ZuR0xBZ0FtVE45UTEzNk9RUzRWcjZOM1Rjem1MRGdjbnVuV3RBeXVHVXJWNHdkS19xRHZhV0RMaC1OeE5oVkw2OWppdkhNNzBsekwzRnBJZ0hyOHd3c3pZZGh5eU56NUlQSE5ZZVhtQnhqZkxGUy1GUDc3aDh3UHRUM1ZqZWc1d3J0dG80ZjJiMnR3LW1sZS1QTUVl?oc=5)
-
-2026-09-23 <span class="news-indication-tag">RA</span>
-
-Source: [ReliefWeb](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamJHYzJSdmtPLUphN2R0V3FBWkpCLW1UZzBmT2ZuR0xBZ0FtVE45UTEzNk9RUzRWcjZOM1Rjem1MRGdjbnVuV3RBeXVHVXJWNHdkS19xRHZhV0RMaC1OeE5oVkw2OWppdkhNNzBsekwzRnBJZ0hyOHd3c3pZZGh5eU56NUlQSE5ZZVhtQnhqZkxGUy1GUDc3aDh3UHRUM1ZqZWc1d3J0dG80ZjJiMnR3LW1sZS1QTUVl?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -3,7 +3,7 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 2 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 1 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>2 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>1 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,15 +37,7 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (2)
-
-### [Hundreds of Pesticide Chemicals Linked to Increased Breast Cancer Risk - Technology Networks](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXdOWjNTYjBCY1hsWmlTSF9KTDlDNkRjbHhYVXpGQTBkYXZjYl92X1NpdldfTXg5NVgzU2JTb0VWWU4taFhZVmxtcEVsbWctdjFYNE5OV2hGbk9SVllLNlN3RFBReHg4WHVlZF9lQmhXaGl2bGhIOG1vaFVKYlBCNi1VQkVKeFlMRWMxVGxlQ1NDWTUwVWhDaGxFeG9acjlUM20yTmZ2X3FHMnBMNk1ha2Z0R1ZuVW5IRGdYWg?oc=5)
-
-2026-09-24
-
-Source: [Technology Networks](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXdOWjNTYjBCY1hsWmlTSF9KTDlDNkRjbHhYVXpGQTBkYXZjYl92X1NpdldfTXg5NVgzU2JTb0VWWU4taFhZVmxtcEVsbWctdjFYNE5OV2hGbk9SVllLNlN3RFBReHg4WHVlZF9lQmhXaGl2bGhIOG1vaFVKYlBCNi1VQkVKeFlMRWMxVGxlQ1NDWTUwVWhDaGxFeG9acjlUM20yTmZ2X3FHMnBMNk1ha2Z0R1ZuVW5IRGdYWg?oc=5)
-
----
+## Related News (1)
 
 ### [Pesticides have 485 chemicals. Some could increase breast cancer risk](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVNHTDRvVE9VcTFCT2hvUmN6c0p2Sk9samRRWFNzSGlpRTNocDJBbWxFcGFiOV9WSEZ3OURveUQtbG9GZXhnbzQ2UEE5NFZkb2NtSmhIV1Y4Zlk1YkpCX29DOXAyWWZJeWpuTE5kSExRQXFEUGl0SDhuVGNrRlBjWGFWajdpYXg1aElQeXlJNkFkTGvSAZgBQVVfeXFMTWNiZl9IbFUxcEg2OGlOYVI0dnE5dUREYnhJN3Y2RFdxWF9NaG1WamlyMnQydC1jaE9jN2NNMVMzczVQZ3JNTlI2WklRV1BGV0gySnFTMWVZalZhV21MdjNLSDdqR1paVkJKSGx5ZFNBVy1yOC1sQWRFb0lfUDUyZFRQVEdfbWVSbVlmX0NZSHJVY3JyM01zUk4?oc=5)
 
