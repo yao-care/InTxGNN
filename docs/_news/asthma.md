@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthma News"
+title: "dama (asthma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about asthma. 1 articles, 1 related drugs."
+description: "Health news about dama (asthma). 1 articles, 1 related drugs."
 permalink: /news/asthma/
 ---
 
-# asthma News
+# dama (asthma) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about asthma?">
-<strong>asthma</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about dama (asthma)?">
+<strong>dama (asthma)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “asthma” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dama” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -31,11 +31,11 @@ This page brings together the latest health news about “asthma” and lists th
 
 ## Related News (1)
 
-### [Severe Asthma's Effects May Extend Beyond the Lungs, Brain Imaging Study Suggests - Pharmacy Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3h0NTVEV3pfOTRLaVZCTGJGSS1LcVlnY3hsemtQX0NTczJRQkRPMng4UEF2WEROTl93UlpqcE5rN1FxZ2w3ZzRZYUhHYXAxMG9aSGJta0U0Rkx1UzRsZ0R1THdfSW1QQzJLNlcyS1o3WmUtVlJHbFZWS0tCRXIxZ2plYkFOSFlTeWlFS2hJU1hLUXo4dm5pNzI0bU54a2Nhd2NET05taFdYdUh1ZmpxbTFidU1qUQ?oc=5)
+### [Tau accumulation reshapes neurotransmitter signaling in Alzheimer’s disease - American Society for Biochemistry and Molecular Biology](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWld6S1RoT0gzMEt5Ukt0RGc1ZF9IZE5uMGMwYmkzN1JoNXlOLTlObkw2bk1LRU5SUlZScFN3Z0czZlkzaGE5M291WFVJUWxVTWtyS0hSeWdvY2ZrUE94YktndDFTd0VUOVM1cUdzb0h0SDBJSHBIYkFoRUNkTzRXU3E4clhnQzdWZHpldGlYWDJhVldMc1pXNg?oc=5)
 
-2026-09-23
+2026-09-24
 
-Source: [Pharmacy Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3h0NTVEV3pfOTRLaVZCTGJGSS1LcVlnY3hsemtQX0NTczJRQkRPMng4UEF2WEROTl93UlpqcE5rN1FxZ2w3ZzRZYUhHYXAxMG9aSGJta0U0Rkx1UzRsZ0R1THdfSW1QQzJLNlcyS1o3WmUtVlJHbFZWS0tCRXIxZ2plYkFOSFlTeWlFS2hJU1hLUXo4dm5pNzI0bU54a2Nhd2NET05taFdYdUh1ZmpxbTFidU1qUQ?oc=5)
+Source: [American Society for Biochemistry and Molecular Biology](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWld6S1RoT0gzMEt5Ukt0RGc1ZF9IZE5uMGMwYmkzN1JoNXlOLTlObkw2bk1LRU5SUlZScFN3Z0czZlkzaGE5M291WFVJUWxVTWtyS0hSeWdvY2ZrUE94YktndDFTd0VUOVM1cUdzb0h0SDBJSHBIYkFoRUNkTzRXU3E4clhnQzdWZHpldGlYWDJhVldMc1pXNg?oc=5)
 
 ---
 
