@@ -14,7 +14,7 @@ permalink: /news/lorlatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Lorlatinib?">
-<strong>Lorlatinib</strong> currently has <strong>16 news articles</strong>, with 10 predicted indications.
+<strong>Lorlatinib</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ This page combines the AI-predicted indications for Lorlatinib with the latest h
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (11)
 
-### [Hundreds of Pesticide Chemicals Linked to Increased Breast Cancer Risk - Technology Networks](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXdOWjNTYjBCY1hsWmlTSF9KTDlDNkRjbHhYVXpGQTBkYXZjYl92X1NpdldfTXg5NVgzU2JTb0VWWU4taFhZVmxtcEVsbWctdjFYNE5OV2hGbk9SVllLNlN3RFBReHg4WHVlZF9lQmhXaGl2bGhIOG1vaFVKYlBCNi1VQkVKeFlMRWMxVGxlQ1NDWTUwVWhDaGxFeG9acjlUM20yTmZ2X3FHMnBMNk1ha2Z0R1ZuVW5IRGdYWg?oc=5)
+### [Genetic clues help reveal kids' cancer risk - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG5VeU9EcXRFcUp5UE9rSEEwWDR6ZFE2Q05uQk9DX2VPUGtfRk4zeEttRGs5bW4wdnUtSnVPb0kxTS1ITkNHR09YZHdEM3NIaTFvTVVqRFRwbUdFUHB2TDcwaU90LUdldVNJalZ1OTFEaHhvdzR0eEhUWVZCMTVJbTZB?oc=5)
 
-2026-09-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-09-24 <span class="news-indication-tag">cancer</span>
 
-Source: [Technology Networks](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXdOWjNTYjBCY1hsWmlTSF9KTDlDNkRjbHhYVXpGQTBkYXZjYl92X1NpdldfTXg5NVgzU2JTb0VWWU4taFhZVmxtcEVsbWctdjFYNE5OV2hGbk9SVllLNlN3RFBReHg4WHVlZF9lQmhXaGl2bGhIOG1vaFVKYlBCNi1VQkVKeFlMRWMxVGxlQ1NDWTUwVWhDaGxFeG9acjlUM20yTmZ2X3FHMnBMNk1ha2Z0R1ZuVW5IRGdYWg?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG5VeU9EcXRFcUp5UE9rSEEwWDR6ZFE2Q05uQk9DX2VPUGtfRk4zeEttRGs5bW4wdnUtSnVPb0kxTS1ITkNHR09YZHdEM3NIaTFvTVVqRFRwbUdFUHB2TDcwaU90LUdldVNJalZ1OTFEaHhvdzR0eEhUWVZCMTVJbTZB?oc=5)
 
 ---
 
@@ -74,27 +74,19 @@ Source: [American Society for Biochemistry and Molecular Biology](https://news.g
 
 ---
 
-### [Surrey and Sussex Cancer Alliance launches HPV vaccine campaign](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jdGZjcWp4QmdZcG5lbEFWRlNxTktJd0hXZ0M0SUkySUc3VmdnNm9lSGV2elRuY3Y5clhtdmtyWXdwYzFkZ3dKSXdWS0VqT2FmejhXZXNGZDVYeTA?oc=5)
-
-2026-09-24 <span class="news-indication-tag">cancer</span>
-
-Source: [bbc.com](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jdGZjcWp4QmdZcG5lbEFWRlNxTktJd0hXZ0M0SUkySUc3VmdnNm9lSGV2elRuY3Y5clhtdmtyWXdwYzFkZ3dKSXdWS0VqT2FmejhXZXNGZDVYeTA?oc=5)
-
----
-
-### [Calls for more young people to take up HPV vaccine](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFN4S2JONVFrVjM4UTlHSU9FY3VRQTFwOGlpU2hWSy1LVjE5dFBWUHdlbTlwVnprNktCQkFRY0Fpa1FKMmt2ZUZsRllZMzRUVTlIZy1SMzc4RDlLNTZxMTdodWwwdm1WcDhhaVhsbkZvTGpfSWs5QXByMEF1eXFGN1N4UG9vUi1HTGtJRw?oc=5)
-
-2026-09-24 <span class="news-indication-tag">cancer</span>
-
-Source: [yahoo.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFN4S2JONVFrVjM4UTlHSU9FY3VRQTFwOGlpU2hWSy1LVjE5dFBWUHdlbTlwVnprNktCQkFRY0Fpa1FKMmt2ZUZsRllZMzRUVTlIZy1SMzc4RDlLNTZxMTdodWwwdm1WcDhhaVhsbkZvTGpfSWs5QXByMEF1eXFGN1N4UG9vUi1HTGtJRw?oc=5)
-
----
-
 ### [Pune doctors say drinking very hot tea and coffee may increase risk of oesophageal cancer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV3pwUUtpTjViRHEzMlhWRUNKb1FFTXBHc1hjV2ZaaVBwbEQwY0FINlZTbF9OSndCMzJVNzZHUllWcmlUX3N3Sk9YeXlUVGkzLVZKclRuSGhTakU4UmJpb3VUOG1QWHZabmRRU2o0dkRfZlgwUVpSOEZQcVJERUZjdnI4ei05UTNtbHVIa2ZadW5sbEdWNDlsOXBTR3gyS2lQVm9kY0R3U2RpblRmNUZVdUpSRzZMOU50TkVXNzVMQzM4WS1NeDhjT1JKd1BWaElMekkzc0dETTBUanMtYVpoLVNPVVpPTWVFRnE4Nllod3XSAfYBQVVfeXFMTTNfWWQyU0RPblNKa2JrRmlqMUROV1VpUHJtZGM2UjRqQTBRYTYzYW16UFAtM2ZFeUJXSUZxdFd5RGxmYmNNMWFHQm1jMTd3WGtVQjBYR0FXYU8tWkltMTV6Y0NtVHhWWHg2azJaSEN5Ql9LakVDZXlKMkxlZGdRSFBLOGhWaHBlSVhLQjhPenNhX0ZlT0hCR0IzU0xRLXc2Nm5fdVd6aTVlOFZSdkxzbEl2RElTdEFkek5SRTRrb2d3NFprTWZ1VjlRRnhyNWVtU1oxeHI3alc2WGNkWFVNSmV4aG9oVTJkQ0RsNHRndnl5UEcxZVBB?oc=5)
 
 2026-09-24 <span class="news-indication-tag">cancer</span>
 
 Source: [Mid-Day](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV3pwUUtpTjViRHEzMlhWRUNKb1FFTXBHc1hjV2ZaaVBwbEQwY0FINlZTbF9OSndCMzJVNzZHUllWcmlUX3N3Sk9YeXlUVGkzLVZKclRuSGhTakU4UmJpb3VUOG1QWHZabmRRU2o0dkRfZlgwUVpSOEZQcVJERUZjdnI4ei05UTNtbHVIa2ZadW5sbEdWNDlsOXBTR3gyS2lQVm9kY0R3U2RpblRmNUZVdUpSRzZMOU50TkVXNzVMQzM4WS1NeDhjT1JKd1BWaElMekkzc0dETTBUanMtYVpoLVNPVVpPTWVFRnE4Nllod3XSAfYBQVVfeXFMTTNfWWQyU0RPblNKa2JrRmlqMUROV1VpUHJtZGM2UjRqQTBRYTYzYW16UFAtM2ZFeUJXSUZxdFd5RGxmYmNNMWFHQm1jMTd3WGtVQjBYR0FXYU8tWkltMTV6Y0NtVHhWWHg2azJaSEN5Ql9LakVDZXlKMkxlZGdRSFBLOGhWaHBlSVhLQjhPenNhX0ZlT0hCR0IzU0xRLXc2Nm5fdVd6aTVlOFZSdkxzbEl2RElTdEFkek5SRTRrb2d3NFprTWZ1VjlRRnhyNWVtU1oxeHI3alc2WGNkWFVNSmV4aG9oVTJkQ0RsNHRndnl5UEcxZVBB?oc=5)
+
+---
+
+### [Doctors Flag Early Diagnosis Gap As India Gets First Disease-Modifying Alzheimer’s Drug - BW Healthcare World](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVU3QnlBWllab2xST3ZfUDlmTUZOQmI5UVdad3A4WngwdnFTVXRjQnhLMVluTGlJaDNyWWNFRTVBNjZtSzdydEJaWnRDRTVTR01XcmloR3g5VWxhODBBc1VZOVZEbVBMYkJGX2JLbDRRS3NYLVVKaGtTdkF6Q1Zkb0R5ajQ0M0VtUEVTb0tjUENveG5FUkJkMXMwdXNVUk9yak1ZTG1fZlJONHhqcnhqUUhJWmZ4aFdqajZkRlVfSWlKUVlnZTczUXYteVV4VWNPU2c?oc=5)
+
+2026-09-24 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVU3QnlBWllab2xST3ZfUDlmTUZOQmI5UVdad3A4WngwdnFTVXRjQnhLMVluTGlJaDNyWWNFRTVBNjZtSzdydEJaWnRDRTVTR01XcmloR3g5VWxhODBBc1VZOVZEbVBMYkJGX2JLbDRRS3NYLVVKaGtTdkF6Q1Zkb0R5ajQ0M0VtUEVTb0tjUENveG5FUkJkMXMwdXNVUk9yak1ZTG1fZlJONHhqcnhqUUhJWmZ4aFdqajZkRlVfSWlKUVlnZTczUXYteVV4VWNPU2c?oc=5)
 
 ---
 
@@ -114,11 +106,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0
 
 ---
 
-### [‘Y’ losing a chromosome could be the first step to cancer - The Naked Scientists](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzl4cFE4TlJhRUVFVi1qNmp2ZVN5UzNZbDFwOXlxMzR2Z2RoT2ZNQ1Q5MVVjM1FKRVNHV2JHaVppUVFXdnRZWXV3WXpqNDV1ZHpRZ1h0d0hQQkNuNVpjUG5JaFF4OTZNRnRfZC1JTkJTOVF0dnNiMUFIbXotRjZKaUprVkpfa0FULVpHNTRoRS1ZYUdxRW1sM0pyNXFteEwxLTdtckFR?oc=5)
+### [‘Y’ losing a chromosome could be the first step to cancer](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzl4cFE4TlJhRUVFVi1qNmp2ZVN5UzNZbDFwOXlxMzR2Z2RoT2ZNQ1Q5MVVjM1FKRVNHV2JHaVppUVFXdnRZWXV3WXpqNDV1ZHpRZ1h0d0hQQkNuNVpjUG5JaFF4OTZNRnRfZC1JTkJTOVF0dnNiMUFIbXotRjZKaUprVkpfa0FULVpHNTRoRS1ZYUdxRW1sM0pyNXFteEwxLTdtckFR?oc=5)
 
 2026-09-23 <span class="news-indication-tag">cancer</span>
 
-Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzl4cFE4TlJhRUVFVi1qNmp2ZVN5UzNZbDFwOXlxMzR2Z2RoT2ZNQ1Q5MVVjM1FKRVNHV2JHaVppUVFXdnRZWXV3WXpqNDV1ZHpRZ1h0d0hQQkNuNVpjUG5JaFF4OTZNRnRfZC1JTkJTOVF0dnNiMUFIbXotRjZKaUprVkpfa0FULVpHNTRoRS1ZYUdxRW1sM0pyNXFteEwxLTdtckFR?oc=5)
+Source: [thenakedscientists.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzl4cFE4TlJhRUVFVi1qNmp2ZVN5UzNZbDFwOXlxMzR2Z2RoT2ZNQ1Q5MVVjM1FKRVNHV2JHaVppUVFXdnRZWXV3WXpqNDV1ZHpRZ1h0d0hQQkNuNVpjUG5JaFF4OTZNRnRfZC1JTkJTOVF0dnNiMUFIbXotRjZKaUprVkpfa0FULVpHNTRoRS1ZYUdxRW1sM0pyNXFteEwxLTdtckFR?oc=5)
 
 ---
 
@@ -127,38 +119,6 @@ Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMipgFBVV95
 2026-09-23 <span class="news-indication-tag">cancer</span>
 
 Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGVUJkLWZoX1V3cExpWmNHU2p3d2xDWkQ4eTJSdmxYU0VUMjFDVGxfVm4wd0tIeV9MV081OGxkLTRyV2Rhc2JqT3hDVERKQVhNaw?oc=5)
-
----
-
-### [Doctors warn of rising dementia burden even as India gets first disease-modifying Alzheimer's Drug](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTUlhS3ktQU1ab2lqWm5TckF0RFVzeXlOMzJpdWhJUFA3WWN1MUVjUjRSeGt4SWdRMFRZZ3BkWWxXNEktdFFrZHFvYmQ5bExBLTUxLWFkTFNfelNmcWN6WnI2bFRrbUZTUEpfNDZhWjNmRVd0WUhKM244VGQyRTFJOWd1MDBCekxEdE4xSk1yMWF2cUJVZUxrV1k5RTVSNnBlYXlHRVFoMUNjLW1kU01kMHpZMTdnT2xDSGtsbnV1U0d3VHhtMVZUaVBiTjJHeHRvYzE4V1FpY2FKMU0?oc=5)
-
-2026-09-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [expresshealthcare.in](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTUlhS3ktQU1ab2lqWm5TckF0RFVzeXlOMzJpdWhJUFA3WWN1MUVjUjRSeGt4SWdRMFRZZ3BkWWxXNEktdFFrZHFvYmQ5bExBLTUxLWFkTFNfelNmcWN6WnI2bFRrbUZTUEpfNDZhWjNmRVd0WUhKM244VGQyRTFJOWd1MDBCekxEdE4xSk1yMWF2cUJVZUxrV1k5RTVSNnBlYXlHRVFoMUNjLW1kU01kMHpZMTdnT2xDSGtsbnV1U0d3VHhtMVZUaVBiTjJHeHRvYzE4V1FpY2FKMU0?oc=5)
-
----
-
-### [Dementia Cases In India Projected To Nearly Double By 2036](https://news.google.com/rss/articles/CBMimwFBVV95cUxQYl9JNy1iYmk0UGM1QUxCSUhQd01ZQlpvekx4MnFwMzJWajJMb1BkSjJfSWJSSFFfYk5iSmo1WmFYRlpoOXdsRFFUV1FfQnVIMjgtWmI3UTU5ZGJmVzJHU3NFUWY5aWdsUE9ST2ZhbFN0dGllMkNzX2NlNVRVa1ZOWndRSnRQeThDclQ0V2dHTkxERzdGejR1bFdQTQ?oc=5)
-
-2026-09-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMimwFBVV95cUxQYl9JNy1iYmk0UGM1QUxCSUhQd01ZQlpvekx4MnFwMzJWajJMb1BkSjJfSWJSSFFfYk5iSmo1WmFYRlpoOXdsRFFUV1FfQnVIMjgtWmI3UTU5ZGJmVzJHU3NFUWY5aWdsUE9ST2ZhbFN0dGllMkNzX2NlNVRVa1ZOWndRSnRQeThDclQ0V2dHTkxERzdGejR1bFdQTQ?oc=5)
-
----
-
-### [Genetics, Diabetes Tied to MASLD-Associated Cirrhosis Before Age 50](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
-
-2026-09-23 <span class="news-indication-tag">cancer</span>
-
-Source: [gastroenterologyadvisor.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
-
----
-
-### [Phase 3 mRNA Vaccine Results: What Does This Mean for Melanoma? - Oncology News Central](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGFCdkFyQVdMeWNIeTA0RjVUZV9qV3NIVTF3X1NCdVlrVVJsb0Fzakt2cVJVVjZLTXFJdTdlYkdKbDk5VDQ5Y21ta3owLVdFT0NDMkY4TlRZUHJQSzN4RFN6YlNIS0liTEFZSzllZVZ6dFZ6VUhsMFVVYTAxd1ZCWHBOZFFYMUl5T2kxRlc3N1JyajZnNV9VTTdWWEVkWk9Jb1lmNXMtQjJGX2NWUV9wZ3NkSHF1UQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">cancer</span>
-
-Source: [Oncology News Central](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGFCdkFyQVdMeWNIeTA0RjVUZV9qV3NIVTF3X1NCdVlrVVJsb0Fzakt2cVJVVjZLTXFJdTdlYkdKbDk5VDQ5Y21ta3owLVdFT0NDMkY4TlRZUHJQSzN4RFN6YlNIS0liTEFZSzllZVZ6dFZ6VUhsMFVVYTAxd1ZCWHBOZFFYMUl5T2kxRlc3N1JyajZnNV9VTTdWWEVkWk9Jb1lmNXMtQjJGX2NWUV9wZ3NkSHF1UQ?oc=5)
 
 ---
 

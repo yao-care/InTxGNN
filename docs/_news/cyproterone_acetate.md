@@ -14,7 +14,7 @@ permalink: /news/cyproterone_acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Cyproterone Acetate?">
-<strong>Cyproterone Acetate</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Cyproterone Acetate</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,15 +39,9 @@ This page combines the AI-predicted indications for Cyproterone Acetate with the
 <p><a href="{{ '/drugs/cyproterone_acetate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Experts Emphasise Early Detection, Healthy Lifestyles and Community Awareness for Heart Health - The Indian Practitioner](https://news.google.com/rss/articles/CBMixwFBVV95cUxNaFllakhfdlVPaFVSS2h3S1RfeVE2VTVOOTNQdXhWanVoYlNaLVJYampkT3Q5bURDc25Ba043RE1Mamo1aWpic0FKckpPaHNFRUlaNnM5Mkt0Mkdaa1NpR3pDQWpiRXlNNXEzMXQyTnFsYlp4Nlc4Z2xzaFRoZDNxTGFILVZJeURvSTFBaEJBMmlqUUhtSEZqQndzNDBRSHJYY2pfcjJ2Y1NZUXdQb0RvWlhydU5tU2hnTVU2UFZESXNzR3lDS2NV?oc=5)
-
-2026-09-23 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMixwFBVV95cUxNaFllakhfdlVPaFVSS2h3S1RfeVE2VTVOOTNQdXhWanVoYlNaLVJYampkT3Q5bURDc25Ba043RE1Mamo1aWpic0FKckpPaHNFRUlaNnM5Mkt0Mkdaa1NpR3pDQWpiRXlNNXEzMXQyTnFsYlp4Nlc4Z2xzaFRoZDNxTGFILVZJeURvSTFBaEJBMmlqUUhtSEZqQndzNDBRSHJYY2pfcjJ2Y1NZUXdQb0RvWlhydU5tU2hnTVU2UFZESXNzR3lDS2NV?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

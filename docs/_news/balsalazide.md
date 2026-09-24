@@ -14,7 +14,7 @@ permalink: /news/balsalazide/
 ---
 
 <p class="key-answer" data-question="What news is there about Balsalazide?">
-<strong>Balsalazide</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Balsalazide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Balsalazide with the latest 
 <li>gout (99.8%)</li>
 <li>congenital hypotrichosis with juvenile macular dystrophy (99.7%)</li>
 <li>ankylosing spondylitis (99.7%)</li>
-<li class="indication-matched">rheumatoid arthritis (99.6%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (99.6%)</li>
 <li>rheumatoid vasculitis (99.6%)</li>
 <li>hypermobility of coccyx (99.5%)</li>
 <li>inflammatory spondylopathy (99.5%)</li>
@@ -40,23 +40,9 @@ This page combines the AI-predicted indications for Balsalazide with the latest 
 <p><a href="{{ '/drugs/balsalazide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Study finds no causal link between prenatal paracetamol and neurodevelopmental disorders](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
-
-2026-09-23 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">mental disorder</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
-
----
-
-### [DRC: Humanitarian needs surging as Ebola spreads and El Niño looms](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamJHYzJSdmtPLUphN2R0V3FBWkpCLW1UZzBmT2ZuR0xBZ0FtVE45UTEzNk9RUzRWcjZOM1Rjem1MRGdjbnVuV3RBeXVHVXJWNHdkS19xRHZhV0RMaC1OeE5oVkw2OWppdkhNNzBsekwzRnBJZ0hyOHd3c3pZZGh5eU56NUlQSE5ZZVhtQnhqZkxGUy1GUDc3aDh3UHRUM1ZqZWc1d3J0dG80ZjJiMnR3LW1sZS1QTUVl?oc=5)
-
-2026-09-23 <span class="news-indication-tag">RA</span>
-
-Source: [ReliefWeb](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamJHYzJSdmtPLUphN2R0V3FBWkpCLW1UZzBmT2ZuR0xBZ0FtVE45UTEzNk9RUzRWcjZOM1Rjem1MRGdjbnVuV3RBeXVHVXJWNHdkS19xRHZhV0RMaC1OeE5oVkw2OWppdkhNNzBsekwzRnBJZ0hyOHd3c3pZZGh5eU56NUlQSE5ZZVhtQnhqZkxGUy1GUDc3aDh3UHRUM1ZqZWc1d3J0dG80ZjJiMnR3LW1sZS1QTUVl?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
