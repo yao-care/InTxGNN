@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 4 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 3 articles, 8 related drugs."
 permalink: /news/alzheimer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [Can Alzheimer’s Be Prevented? Understanding The Role Of Lifestyle And Brain Health : Dr. Anirudh Vilas Kulkarni, Senior Consultant – Interventional Neurology, KIMS Hospitals, Electronic City, Bengalu. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnZPQ01fcEQ5X01odzVBTmFBc0NXZEp5QmdNbktub3NsMHRZYTZSMllXM2ozZ2UtTG1jLXI1bnJQRW45MlV2bjRwVW44eHcwSk9RaDZ4UVlFWU94Z3doeUozTGZOZEJUNk1ZRU1FMDFvR1RnT0ZLTGlWWmJ2cXd2Z2tVMS1XbnpzdERWZGh0aHF5SkpTY2NCMzUtYzdoZnc2M1B1Y2ZVRUxWS29WVVJRWkZGVFpMVE9QMmdZbzR5al8wT0liU0RkcG5PcHdZZ2d0MmNmUVlmWV9DY2ZBcHhmWnlSdVQ0bmxpR2RpblB1dkVwMU1ILVBMbjU4bWd1NW91eG5rYzNvRktmQjY2RzZFVkxWc09TTkpLWkV0XzR6VXE4dkNKNU1QVjdOdE5reE1i?oc=5)
+### [Tau accumulation reshapes neurotransmitter signaling in Alzheimer’s disease - American Society for Biochemistry and Molecular Biology](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWld6S1RoT0gzMEt5Ukt0RGc1ZF9IZE5uMGMwYmkzN1JoNXlOLTlObkw2bk1LRU5SUlZScFN3Z0czZlkzaGE5M291WFVJUWxVTWtyS0hSeWdvY2ZrUE94YktndDFTd0VUOVM1cUdzb0h0SDBJSHBIYkFoRUNkTzRXU3E4clhnQzdWZHpldGlYWDJhVldMc1pXNg?oc=5)
 
-2026-09-23
+2026-09-24
 
-Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnZPQ01fcEQ5X01odzVBTmFBc0NXZEp5QmdNbktub3NsMHRZYTZSMllXM2ozZ2UtTG1jLXI1bnJQRW45MlV2bjRwVW44eHcwSk9RaDZ4UVlFWU94Z3doeUozTGZOZEJUNk1ZRU1FMDFvR1RnT0ZLTGlWWmJ2cXd2Z2tVMS1XbnpzdERWZGh0aHF5SkpTY2NCMzUtYzdoZnc2M1B1Y2ZVRUxWS29WVVJRWkZGVFpMVE9QMmdZbzR5al8wT0liU0RkcG5PcHdZZ2d0MmNmUVlmWV9DY2ZBcHhmWnlSdVQ0bmxpR2RpblB1dkVwMU1ILVBMbjU4bWd1NW91eG5rYzNvRktmQjY2RzZFVkxWc09TTkpLWkV0XzR6VXE4dkNKNU1QVjdOdE5reE1i?oc=5)
+Source: [American Society for Biochemistry and Molecular Biology](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWld6S1RoT0gzMEt5Ukt0RGc1ZF9IZE5uMGMwYmkzN1JoNXlOLTlObkw2bk1LRU5SUlZScFN3Z0czZlkzaGE5M291WFVJUWxVTWtyS0hSeWdvY2ZrUE94YktndDFTd0VUOVM1cUdzb0h0SDBJSHBIYkFoRUNkTzRXU3E4clhnQzdWZHpldGlYWDJhVldMc1pXNg?oc=5)
 
 ---
 
@@ -59,14 +59,6 @@ Source: [expresshealthcare.in](https://news.google.com/rss/articles/CBMi2wFBVV95
 2026-09-23
 
 Source: [NDTV](https://news.google.com/rss/articles/CBMimwFBVV95cUxQYl9JNy1iYmk0UGM1QUxCSUhQd01ZQlpvekx4MnFwMzJWajJMb1BkSjJfSWJSSFFfYk5iSmo1WmFYRlpoOXdsRFFUV1FfQnVIMjgtWmI3UTU5ZGJmVzJHU3NFUWY5aWdsUE9ST2ZhbFN0dGllMkNzX2NlNVRVa1ZOWndRSnRQeThDclQ0V2dHTkxERzdGejR1bFdQTQ?oc=5)
-
----
-
-### [Families provide dementia care. Why must they also be the air traffic controllers of the system? - The Conversation](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYlRHQ1BEYVZxSmNYcVFjcDBiRThnR2daVDE4alhlbkhOZzBKZlVvczIxbXdhZUFiYnRsZGtJM2RGVGhiRUN6U2hhM05sZzhDbTcxeG0tOHVQdE92SXZNb2JkQlVoRV9SVHg5Qy1HN3g0cE1mMC1zSzVKNUxhdW55LXNRaHJQWDdFMFQ2NHN2bFdKcEh0dlJYbEhCUzZoX2MzbzJVaHpDclVQMWV0TUtoWkxPT0ZxcmZDWDRfUnpZRTBMWGVBUE4zUA?oc=5)
-
-2026-09-21
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYlRHQ1BEYVZxSmNYcVFjcDBiRThnR2daVDE4alhlbkhOZzBKZlVvczIxbXdhZUFiYnRsZGtJM2RGVGhiRUN6U2hhM05sZzhDbTcxeG0tOHVQdE92SXZNb2JkQlVoRV9SVHg5Qy1HN3g0cE1mMC1zSzVKNUxhdW55LXNRaHJQWDdFMFQ2NHN2bFdKcEh0dlJYbEhCUzZoX2MzbzJVaHpDclVQMWV0TUtoWkxPT0ZxcmZDWDRfUnpZRTBMWGVBUE4zUA?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "RA (rheumatoid arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (rheumatoid arthritis). 3 articles, 21 related drugs."
+description: "Health news about RA (rheumatoid arthritis). 2 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rheumatoid-arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about RA (rheumatoid arthritis)?">
-<strong>RA (rheumatoid arthritis)</strong> currently has <strong>3 news articles</strong> and 21 related drugs.
+<strong>RA (rheumatoid arthritis)</strong> currently has <strong>2 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -49,7 +49,7 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Study finds no causal link between prenatal paracetamol and neurodevelopmental disorders](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
 
@@ -59,19 +59,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZM
 
 ---
 
-### [Can Alzheimer’s Be Prevented? Understanding The Role Of Lifestyle And Brain Health : Dr. Anirudh Vilas Kulkarni, Senior Consultant – Interventional Neurology, KIMS Hospitals, Electronic City, Bengalu. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnZPQ01fcEQ5X01odzVBTmFBc0NXZEp5QmdNbktub3NsMHRZYTZSMllXM2ozZ2UtTG1jLXI1bnJQRW45MlV2bjRwVW44eHcwSk9RaDZ4UVlFWU94Z3doeUozTGZOZEJUNk1ZRU1FMDFvR1RnT0ZLTGlWWmJ2cXd2Z2tVMS1XbnpzdERWZGh0aHF5SkpTY2NCMzUtYzdoZnc2M1B1Y2ZVRUxWS29WVVJRWkZGVFpMVE9QMmdZbzR5al8wT0liU0RkcG5PcHdZZ2d0MmNmUVlmWV9DY2ZBcHhmWnlSdVQ0bmxpR2RpblB1dkVwMU1ILVBMbjU4bWd1NW91eG5rYzNvRktmQjY2RzZFVkxWc09TTkpLWkV0XzR6VXE4dkNKNU1QVjdOdE5reE1i?oc=5)
+### [DRC: Humanitarian needs surging as Ebola spreads and El Niño looms](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamJHYzJSdmtPLUphN2R0V3FBWkpCLW1UZzBmT2ZuR0xBZ0FtVE45UTEzNk9RUzRWcjZOM1Rjem1MRGdjbnVuV3RBeXVHVXJWNHdkS19xRHZhV0RMaC1OeE5oVkw2OWppdkhNNzBsekwzRnBJZ0hyOHd3c3pZZGh5eU56NUlQSE5ZZVhtQnhqZkxGUy1GUDc3aDh3UHRUM1ZqZWc1d3J0dG80ZjJiMnR3LW1sZS1QTUVl?oc=5)
 
 2026-09-23
 
-Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnZPQ01fcEQ5X01odzVBTmFBc0NXZEp5QmdNbktub3NsMHRZYTZSMllXM2ozZ2UtTG1jLXI1bnJQRW45MlV2bjRwVW44eHcwSk9RaDZ4UVlFWU94Z3doeUozTGZOZEJUNk1ZRU1FMDFvR1RnT0ZLTGlWWmJ2cXd2Z2tVMS1XbnpzdERWZGh0aHF5SkpTY2NCMzUtYzdoZnc2M1B1Y2ZVRUxWS29WVVJRWkZGVFpMVE9QMmdZbzR5al8wT0liU0RkcG5PcHdZZ2d0MmNmUVlmWV9DY2ZBcHhmWnlSdVQ0bmxpR2RpblB1dkVwMU1ILVBMbjU4bWd1NW91eG5rYzNvRktmQjY2RzZFVkxWc09TTkpLWkV0XzR6VXE4dkNKNU1QVjdOdE5reE1i?oc=5)
-
----
-
-### [Ebola Is Outrunning The Response In Eastern Congo](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVplck9vdlMwUEdzMFJ3YWhYd0dKOGFSWVZRUC1keC1MbmkydjBmSWhzOHlzbzJzQVp5cWVfQzVqNE5mLWUzRHpWNW5SWTAzS0RUZTVkOVB5Y3NyeXRjSTFSZWFsc0dqenNoUHY1aVZVOVc5X3JJTl9iME9rdnJsNnQ4TGtXX3A3Tk5YN1lOZ193WVdoUHVFanJYdUtuUmZLRXc?oc=5)
-
-2026-09-17
-
-Source: [Forbes](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVplck9vdlMwUEdzMFJ3YWhYd0dKOGFSWVZRUC1keC1MbmkydjBmSWhzOHlzbzJzQVp5cWVfQzVqNE5mLWUzRHpWNW5SWTAzS0RUZTVkOVB5Y3NyeXRjSTFSZWFsc0dqenNoUHY1aVZVOVc5X3JJTl9iME9rdnJsNnQ4TGtXX3A3Tk5YN1lOZ193WVdoUHVFanJYdUtuUmZLRXc?oc=5)
+Source: [ReliefWeb](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamJHYzJSdmtPLUphN2R0V3FBWkpCLW1UZzBmT2ZuR0xBZ0FtVE45UTEzNk9RUzRWcjZOM1Rjem1MRGdjbnVuV3RBeXVHVXJWNHdkS19xRHZhV0RMaC1OeE5oVkw2OWppdkhNNzBsekwzRnBJZ0hyOHd3c3pZZGh5eU56NUlQSE5ZZVhtQnhqZkxGUy1GUDc3aDh3UHRUM1ZqZWc1d3J0dG80ZjJiMnR3LW1sZS1QTUVl?oc=5)
 
 ---
 
