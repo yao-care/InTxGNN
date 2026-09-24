@@ -3,7 +3,7 @@ layout: default
 title: "dama (asthma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dama (asthma). 1 articles, 1 related drugs."
+description: "Health news about dama (asthma). 2 articles, 1 related drugs."
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="What news is there about dama (asthma)?">
-<strong>dama (asthma)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<strong>dama (asthma)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ This page brings together the latest health news about “dama” and lists the 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Tau accumulation reshapes neurotransmitter signaling in Alzheimer’s disease - American Society for Biochemistry and Molecular Biology](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWld6S1RoT0gzMEt5Ukt0RGc1ZF9IZE5uMGMwYmkzN1JoNXlOLTlObkw2bk1LRU5SUlZScFN3Z0czZlkzaGE5M291WFVJUWxVTWtyS0hSeWdvY2ZrUE94YktndDFTd0VUOVM1cUdzb0h0SDBJSHBIYkFoRUNkTzRXU3E4clhnQzdWZHpldGlYWDJhVldMc1pXNg?oc=5)
+### [Healthy lungs vital for heart, brain and overall well-being: Experts - The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUjN0S0ZTSFBmLVdCbTUtb0ltM3RGcTh3OS1IMHlhOURlOTZEVGVRRHROS3ZyV2xiOGtxdFpfUml3Q2FrTmJHbXB1bEM3dk5PcmZ2Y0tzQ2w4QTlPeEVBZFg3QXhJWTNHX1RwOHBJZ2paNGVIVmx0U3M1VGhHVmZzS3ZpbjZNUXJ3OVg2bTVqeElteGVWc05yeUJ6cDAzU2xLb19WRjRGSmhsWExsY1BHRlpjeHg1YndnVy1ZcHgxNzhTbjlfR0tjUklQQ1BVNnVYUk9lM3ZlSQ?oc=5)
 
 2026-09-24
 
-Source: [American Society for Biochemistry and Molecular Biology](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWld6S1RoT0gzMEt5Ukt0RGc1ZF9IZE5uMGMwYmkzN1JoNXlOLTlObkw2bk1LRU5SUlZScFN3Z0czZlkzaGE5M291WFVJUWxVTWtyS0hSeWdvY2ZrUE94YktndDFTd0VUOVM1cUdzb0h0SDBJSHBIYkFoRUNkTzRXU3E4clhnQzdWZHpldGlYWDJhVldMc1pXNg?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUjN0S0ZTSFBmLVdCbTUtb0ltM3RGcTh3OS1IMHlhOURlOTZEVGVRRHROS3ZyV2xiOGtxdFpfUml3Q2FrTmJHbXB1bEM3dk5PcmZ2Y0tzQ2w4QTlPeEVBZFg3QXhJWTNHX1RwOHBJZ2paNGVIVmx0U3M1VGhHVmZzS3ZpbjZNUXJ3OVg2bTVqeElteGVWc05yeUJ6cDAzU2xLb19WRjRGSmhsWExsY1BHRlpjeHg1YndnVy1ZcHgxNzhTbjlfR0tjUklQQ1BVNnVYUk9lM3ZlSQ?oc=5)
+
+---
+
+### [Painkillers for every ache? CDSCO warns of kidney risks, antibiotic misuse - The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMXpTUkY5eG53S05wZ05VWk5TQ3hJTU5QTXVTTTZXVG10clhUcUozN1oxYlZMLW9jRk42V0pidFJiN09Wd2hJVnNvbFluc2xrdEpaLVEydU5xTXFndGd5enhGUzRid3hKVVVUbmw1b3VmVHgyRmxBQ1lMSmhLS2Y3VHVBS3loZkpBckdnWDhqNU5URER4SlJSWHJKMThsTkZjbGFpUnVaVWJDbHlodFlDU3NwREhybmI5QWVlTmUtRVBLaGtRUlE1MWZFWVM2V3ZSV05LN2kzTQ?oc=5)
+
+2026-09-24
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMXpTUkY5eG53S05wZ05VWk5TQ3hJTU5QTXVTTTZXVG10clhUcUozN1oxYlZMLW9jRk42V0pidFJiN09Wd2hJVnNvbFluc2xrdEpaLVEydU5xTXFndGd5enhGUzRid3hKVVVUbmw1b3VmVHgyRmxBQ1lMSmhLS2Y3VHVBS3loZkpBckdnWDhqNU5URER4SlJSWHJKMThsTkZjbGFpUnVaVWJDbHlodFlDU3NwREhybmI5QWVlTmUtRVBLaGtRUlE1MWZFWVM2V3ZSV05LN2kzTQ?oc=5)
 
 ---
 

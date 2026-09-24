@@ -14,7 +14,7 @@ permalink: /news/tulobuterol/
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <li>bronchitis (100.0%)</li>
 <li>obstructive lung disease (100.0%)</li>
 <li>respiratory malformation (100.0%)</li>
-<li>chronic obstructive pulmonary disease (99.9%)</li>
+<li class="indication-matched">chronic obstructive pulmonary disease (99.9%)<span class="indication-tag">📰 COPD</span></li>
 <li>Rienhoff syndrome (99.9%)</li>
 <li>compensatory emphysema (99.9%)</li>
 <li>interstitial emphysema (99.9%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Healthy lungs vital for heart, brain and overall well-being: Experts - The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUjN0S0ZTSFBmLVdCbTUtb0ltM3RGcTh3OS1IMHlhOURlOTZEVGVRRHROS3ZyV2xiOGtxdFpfUml3Q2FrTmJHbXB1bEM3dk5PcmZ2Y0tzQ2w4QTlPeEVBZFg3QXhJWTNHX1RwOHBJZ2paNGVIVmx0U3M1VGhHVmZzS3ZpbjZNUXJ3OVg2bTVqeElteGVWc05yeUJ6cDAzU2xLb19WRjRGSmhsWExsY1BHRlpjeHg1YndnVy1ZcHgxNzhTbjlfR0tjUklQQ1BVNnVYUk9lM3ZlSQ?oc=5)
+
+2026-09-24 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">COPD</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUjN0S0ZTSFBmLVdCbTUtb0ltM3RGcTh3OS1IMHlhOURlOTZEVGVRRHROS3ZyV2xiOGtxdFpfUml3Q2FrTmJHbXB1bEM3dk5PcmZ2Y0tzQ2w4QTlPeEVBZFg3QXhJWTNHX1RwOHBJZ2paNGVIVmx0U3M1VGhHVmZzS3ZpbjZNUXJ3OVg2bTVqeElteGVWc05yeUJ6cDAzU2xLb19WRjRGSmhsWExsY1BHRlpjeHg1YndnVy1ZcHgxNzhTbjlfR0tjUklQQ1BVNnVYUk9lM3ZlSQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

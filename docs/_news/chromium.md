@@ -14,7 +14,7 @@ permalink: /news/chromium/
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Chromium</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>osteoarthritis (98.7%)</li>
 <li>osteoarthritis susceptibility (98.5%)</li>
-<li>rheumatoid arthritis (98.5%)</li>
+<li class="indication-matched">rheumatoid arthritis (98.5%)<span class="indication-tag">📰 RA</span></li>
 <li>gout (98.0%)</li>
 <li>pseudoachondroplasia (98.0%)</li>
 <li>hepatic porphyria (97.9%)</li>
@@ -40,9 +40,23 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Congo Short On Health Workers As Ebola Cases Surge 73%, Says WHO](https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzZHY1ZwUnk0blRtZEJjZnJaN3k2NnVMQ3ZMbkRQelpVRFh1RFBVZ0NtaUNaNTJoUUd1QXFnN0tJYTMybUdycDNUUzVROWJraGVOZ0xRc2lwbV9jUFdmbnhycExaRHRDSFlxYnZsbEJ0dzlWLU9IbVYwczk5QUhuc1lGcjdrVXZUVFg2VEs5enVDRVQ0S1FlbV9IVE9aaThC?oc=5)
+
+2026-09-24 <span class="news-indication-tag">RA</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzZHY1ZwUnk0blRtZEJjZnJaN3k2NnVMQ3ZMbkRQelpVRFh1RFBVZ0NtaUNaNTJoUUd1QXFnN0tJYTMybUdycDNUUzVROWJraGVOZ0xRc2lwbV9jUFdmbnhycExaRHRDSFlxYnZsbEJ0dzlWLU9IbVYwczk5QUhuc1lGcjdrVXZUVFg2VEs5enVDRVQ0S1FlbV9IVE9aaThC?oc=5)
+
+---
+
+### [Study finds no causal link between prenatal paracetamol and neurodevelopmental disorders](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
+
+2026-09-23 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">mental disorder</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
+
+---
 
 
 <div class="disclaimer">

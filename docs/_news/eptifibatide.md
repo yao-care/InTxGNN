@@ -14,7 +14,7 @@ permalink: /news/eptifibatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Eptifibatide?">
-<strong>Eptifibatide</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Eptifibatide</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Eptifibatide with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>rheumatoid arthritis (100.0%)</li>
+<li class="indication-matched">rheumatoid arthritis (100.0%)<span class="indication-tag">📰 RA</span></li>
 <li>sickle cell-hemoglobin d disease syndrome (100.0%)</li>
 <li>sickle cell-hemoglobin E disease syndrome (100.0%)</li>
 <li>sickle cell-hemoglobin c disease syndrome (100.0%)</li>
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Eptifibatide with the latest
 <p><a href="{{ '/drugs/eptifibatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (14)
+
+### [Protein modification network plays vital role in cancer development](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeURtTGN0UGZMU29BZ1VvcngtOExKT3cxV3I1TkcyN0w1VXpjU0tpNXFaSFlVdVBtX1RUUzZuTjdjZW90V3ZWSy1mQU1kOFRXZ2g4UjlKNlpwaG5RYVVpb2pNdXVEUVNnV0NFMjFLUWRwRnAwRDBVeGdYT09xaUd2Y2ZUMUJDZDJncGRrWmZRZ2NMczlrVGs5Y3ZGM1dXRUpKZzdHMWRYdUpOMEVVOEoyRWh4amhqdw?oc=5)
+
+2026-09-24 <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeURtTGN0UGZMU29BZ1VvcngtOExKT3cxV3I1TkcyN0w1VXpjU0tpNXFaSFlVdVBtX1RUUzZuTjdjZW90V3ZWSy1mQU1kOFRXZ2g4UjlKNlpwaG5RYVVpb2pNdXVEUVNnV0NFMjFLUWRwRnAwRDBVeGdYT09xaUd2Y2ZUMUJDZDJncGRrWmZRZ2NMczlrVGs5Y3ZGM1dXRUpKZzdHMWRYdUpOMEVVOEoyRWh4amhqdw?oc=5)
+
+---
 
 ### [Genetic clues help reveal kids' cancer risk - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG5VeU9EcXRFcUp5UE9rSEEwWDR6ZFE2Q05uQk9DX2VPUGtfRk4zeEttRGs5bW4wdnUtSnVPb0kxTS1ITkNHR09YZHdEM3NIaTFvTVVqRFRwbUdFUHB2TDcwaU90LUdldVNJalZ1OTFEaHhvdzR0eEhUWVZCMTVJbTZB?oc=5)
 
@@ -54,7 +62,7 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG
 
 2026-09-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [ThePrint](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVNHTDRvVE9VcTFCT2hvUmN6c0p2Sk9samRRWFNzSGlpRTNocDJBbWxFcGFiOV9WSEZ3OURveUQtbG9GZXhnbzQ2UEE5NFZkb2NtSmhIV1Y4Zlk1YkpCX29DOXAyWWZJeWpuTE5kSExRQXFEUGl0SDhuVGNrRlBjWGFWajdpYXg1aElQeXlJNkFkTGvSAZgBQVVfeXFMTWNiZl9IbFUxcEg2OGlOYVI0dnE5dUREYnhJN3Y2RFdxWF9NaG1WamlyMnQydC1jaE9jN2NNMVMzczVQZ3JNTlI2WklRV1BGV0gySnFTMWVZalZhV21MdjNLSDdqR1paVkJKSGx5ZFNBVy1yOC1sQWRFb0lfUDUyZFRQVEdfbWVSbVlmX0NZSHJVY3JyM01zUk4?oc=5)
+Source: [theprint.in](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVNHTDRvVE9VcTFCT2hvUmN6c0p2Sk9samRRWFNzSGlpRTNocDJBbWxFcGFiOV9WSEZ3OURveUQtbG9GZXhnbzQ2UEE5NFZkb2NtSmhIV1Y4Zlk1YkpCX29DOXAyWWZJeWpuTE5kSExRQXFEUGl0SDhuVGNrRlBjWGFWajdpYXg1aElQeXlJNkFkTGvSAZgBQVVfeXFMTWNiZl9IbFUxcEg2OGlOYVI0dnE5dUREYnhJN3Y2RFdxWF9NaG1WamlyMnQydC1jaE9jN2NNMVMzczVQZ3JNTlI2WklRV1BGV0gySnFTMWVZalZhV21MdjNLSDdqR1paVkJKSGx5ZFNBVy1yOC1sQWRFb0lfUDUyZFRQVEdfbWVSbVlmX0NZSHJVY3JyM01zUk4?oc=5)
 
 ---
 
@@ -63,6 +71,22 @@ Source: [ThePrint](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVNHTDRv
 2026-09-24 <span class="news-indication-tag">cancer</span>
 
 Source: [theweek.in](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEo4NGsxMTg5LUxLcFdyc2p5UURCYy1ram12dzYwdDJWOTN2SndvVkJOWEVjMWtrR1RJdnNPYi1RSUgzRUlxbjQ1QzhTU2cyTXdaYmJrUE1XSW9PZkpNcEJvNHBzVGdyaGVkT1F6MWt6cUhpVmEza2tycm5NQXV6Ymlqb2wxLWRKYVRVX004eGQ0QW14WlBSb3AxOU1Zd0JJU0NxNW1qdlB5WF9idjMzS1V6MllTTExYeUpMRzU1bXBZeGVf0gHKAUFVX3lxTE91Vk82amE5NmxiMkJzZUdxV3EwQ2ZxZ3ZaSm1LaUh5ZldOV1dHMTN1VEM3dWh3TnhXSWtfa0xEUjEtSGZMVEVoT01QYlNwMnY4dzNmZWpsWldSVXVLaHU4VmxJeXNmaHgyXzZobUY2U1FXaGE0TlVWZkUxNjk5c294eVN0N0tfQ2ZTLS1zRUhFbVVadjJqWUtUREgxVS1hdDNvZHdfRkRENGEwZXZSVE5JZWpUX0NjRmRSdVYxcFI0ZzlKNHFjRGVLWEE?oc=5)
+
+---
+
+### [Congo Short On Health Workers As Ebola Cases Surge 73%, Says WHO](https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzZHY1ZwUnk0blRtZEJjZnJaN3k2NnVMQ3ZMbkRQelpVRFh1RFBVZ0NtaUNaNTJoUUd1QXFnN0tJYTMybUdycDNUUzVROWJraGVOZ0xRc2lwbV9jUFdmbnhycExaRHRDSFlxYnZsbEJ0dzlWLU9IbVYwczk5QUhuc1lGcjdrVXZUVFg2VEs5enVDRVQ0S1FlbV9IVE9aaThC?oc=5)
+
+2026-09-24 <span class="news-indication-tag">RA</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzZHY1ZwUnk0blRtZEJjZnJaN3k2NnVMQ3ZMbkRQelpVRFh1RFBVZ0NtaUNaNTJoUUd1QXFnN0tJYTMybUdycDNUUzVROWJraGVOZ0xRc2lwbV9jUFdmbnhycExaRHRDSFlxYnZsbEJ0dzlWLU9IbVYwczk5QUhuc1lGcjdrVXZUVFg2VEs5enVDRVQ0S1FlbV9IVE9aaThC?oc=5)
+
+---
+
+### [Calls for more young people to take up HPV vaccine](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFN4S2JONVFrVjM4UTlHSU9FY3VRQTFwOGlpU2hWSy1LVjE5dFBWUHdlbTlwVnprNktCQkFRY0Fpa1FKMmt2ZUZsRllZMzRUVTlIZy1SMzc4RDlLNTZxMTdodWwwdm1WcDhhaVhsbkZvTGpfSWs5QXByMEF1eXFGN1N4UG9vUi1HTGtJRw?oc=5)
+
+2026-09-24 <span class="news-indication-tag">cancer</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFN4S2JONVFrVjM4UTlHSU9FY3VRQTFwOGlpU2hWSy1LVjE5dFBWUHdlbTlwVnprNktCQkFRY0Fpa1FKMmt2ZUZsRllZMzRUVTlIZy1SMzc4RDlLNTZxMTdodWwwdm1WcDhhaVhsbkZvTGpfSWs5QXByMEF1eXFGN1N4UG9vUi1HTGtJRw?oc=5)
 
 ---
 
@@ -90,11 +114,19 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0
 
 ---
 
-### [‘Y’ losing a chromosome could be the first step to cancer](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzl4cFE4TlJhRUVFVi1qNmp2ZVN5UzNZbDFwOXlxMzR2Z2RoT2ZNQ1Q5MVVjM1FKRVNHV2JHaVppUVFXdnRZWXV3WXpqNDV1ZHpRZ1h0d0hQQkNuNVpjUG5JaFF4OTZNRnRfZC1JTkJTOVF0dnNiMUFIbXotRjZKaUprVkpfa0FULVpHNTRoRS1ZYUdxRW1sM0pyNXFteEwxLTdtckFR?oc=5)
+### [Study finds no causal link between prenatal paracetamol and neurodevelopmental disorders](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
+
+2026-09-23 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">mental disorder</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
+
+---
+
+### [‘Y’ losing a chromosome could be the first step to cancer - The Naked Scientists](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzl4cFE4TlJhRUVFVi1qNmp2ZVN5UzNZbDFwOXlxMzR2Z2RoT2ZNQ1Q5MVVjM1FKRVNHV2JHaVppUVFXdnRZWXV3WXpqNDV1ZHpRZ1h0d0hQQkNuNVpjUG5JaFF4OTZNRnRfZC1JTkJTOVF0dnNiMUFIbXotRjZKaUprVkpfa0FULVpHNTRoRS1ZYUdxRW1sM0pyNXFteEwxLTdtckFR?oc=5)
 
 2026-09-23 <span class="news-indication-tag">cancer</span>
 
-Source: [thenakedscientists.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzl4cFE4TlJhRUVFVi1qNmp2ZVN5UzNZbDFwOXlxMzR2Z2RoT2ZNQ1Q5MVVjM1FKRVNHV2JHaVppUVFXdnRZWXV3WXpqNDV1ZHpRZ1h0d0hQQkNuNVpjUG5JaFF4OTZNRnRfZC1JTkJTOVF0dnNiMUFIbXotRjZKaUprVkpfa0FULVpHNTRoRS1ZYUdxRW1sM0pyNXFteEwxLTdtckFR?oc=5)
+Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzl4cFE4TlJhRUVFVi1qNmp2ZVN5UzNZbDFwOXlxMzR2Z2RoT2ZNQ1Q5MVVjM1FKRVNHV2JHaVppUVFXdnRZWXV3WXpqNDV1ZHpRZ1h0d0hQQkNuNVpjUG5JaFF4OTZNRnRfZC1JTkJTOVF0dnNiMUFIbXotRjZKaUprVkpfa0FULVpHNTRoRS1ZYUdxRW1sM0pyNXFteEwxLTdtckFR?oc=5)
 
 ---
 
@@ -103,6 +135,14 @@ Source: [thenakedscientists.com](https://news.google.com/rss/articles/CBMipgFBVV
 2026-09-23 <span class="news-indication-tag">cancer</span>
 
 Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGVUJkLWZoX1V3cExpWmNHU2p3d2xDWkQ4eTJSdmxYU0VUMjFDVGxfVm4wd0tIeV9MV081OGxkLTRyV2Rhc2JqT3hDVERKQVhNaw?oc=5)
+
+---
+
+### [Genetics, Diabetes Tied to MASLD-Associated Cirrhosis Before Age 50 - Gastroenterology Advisor](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
+
+2026-09-23 <span class="news-indication-tag">cancer</span>
+
+Source: [Gastroenterology Advisor](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
 
 ---
 
