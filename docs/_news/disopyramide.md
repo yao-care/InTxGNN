@@ -42,6 +42,14 @@ This page combines the AI-predicted indications for Disopyramide with the latest
 
 ## Related News (6)
 
+### [Q&A: Teal Health scores $22M to broaden at-home cervical cancer screening](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVR1NE1rSVFRM3Y1UXp6LUVMeTVQQmZyMldtd3F2VXFCQWh0T3VaWjF2ekZUMUpsaDJVWk9DMlJkVzdoaXpQYW9YOFUxYjNJaFRMMFczRnFpMUdWNjhGN2lFTXYzSE1zVFZhaFEyd0xMQnQyUXNiY0k3Ym9Fa0ROZmdiMWItZDdXNy1iSmJxcGp0bEQ3Z19IRmdKWjdUcWlQcWc?oc=5)
+
+2026-09-23 <span class="news-indication-tag">cancer</span>
+
+Source: [MobiHealthNews](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVR1NE1rSVFRM3Y1UXp6LUVMeTVQQmZyMldtd3F2VXFCQWh0T3VaWjF2ekZUMUpsaDJVWk9DMlJkVzdoaXpQYW9YOFUxYjNJaFRMMFczRnFpMUdWNjhGN2lFTXYzSE1zVFZhaFEyd0xMQnQyUXNiY0k3Ym9Fa0ROZmdiMWItZDdXNy1iSmJxcGp0bEQ3Z19IRmdKWjdUcWlQcWc?oc=5)
+
+---
+
 ### [Blood tests could identify early signs of cancer years before diagnosis - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0NnRGJWRjUwRDVnbmdVSEVmdGZjTHNZb0xKajE4NGlKc1dXSFphRFJHeG1uMENxejlOaXRxYXpTQUFaem5MRzlkU2dPRzMzMlBiQlB2MWJxUlpoMU5vR0Q5MzltRDJOM2pfcjFEbHBaM1pFNC04NTBKcHAwZEJyQUZjdm4?oc=5)
 
 2026-09-23 <span class="news-indication-tag">cancer</span>
@@ -66,11 +74,11 @@ Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGV
 
 ---
 
-### [Genetics, Diabetes Tied to MASLD-Associated Cirrhosis Before Age 50 - Gastroenterology Advisor](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
+### [One Sugary Drink A Day Can Lead To Higher Risk Of Stomach Cancer, Study Finds - Times Now](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0JJYmZCR21hblVLN09NNnVVS1RNdzBHenY2eDBjc3BzV0FrakY4ckNpSndhZktmRG1JZm5TX1JFdEFmRHFhSGt2TjFSU0hMTzJRa3dDTjlORVljelN2MDZTTWkwZlV6T1phZ0ZxSkZQV2dTQ1JGSndLU19MQjdxcVZMZXk2d2tqSjZhOFc0aURKSENLd0Z2OTI0SUR2T0JwTm5VMXAwcWNoa2lEWGJHQ0dxRmpQRWZzVGfSAb8BQVVfeXFMTlJFSUFvemV0aWFUMC11M1lXdzIwVWpZc2p6SzJXX2ZHQUJLaUJyZF9PVGNnbTlNN2RGNElZM3Z4c3RYSUZRbkRtNGROY0xfUWFCUklwS2xsWXZsazVBMU5yN1IwODNGc1FuNFNTaXVFc29qeDl3ekVWbTZfN3dZZFY5ajJic3E1eFBMbi1BVmh0WGwxZ0EtX1VSMFJ2eW5TZ2xvT3o0dGoyQi1yNWlycUg1RzQ3Qk93QUdpRFdqVUk?oc=5)
 
-2026-09-23 <span class="news-indication-tag">cancer</span>
+2026-09-22 <span class="news-indication-tag">cancer</span>
 
-Source: [Gastroenterology Advisor](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
+Source: [Times Now](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0JJYmZCR21hblVLN09NNnVVS1RNdzBHenY2eDBjc3BzV0FrakY4ckNpSndhZktmRG1JZm5TX1JFdEFmRHFhSGt2TjFSU0hMTzJRa3dDTjlORVljelN2MDZTTWkwZlV6T1phZ0ZxSkZQV2dTQ1JGSndLU19MQjdxcVZMZXk2d2tqSjZhOFc0aURKSENLd0Z2OTI0SUR2T0JwTm5VMXAwcWNoa2lEWGJHQ0dxRmpQRWZzVGfSAb8BQVVfeXFMTlJFSUFvemV0aWFUMC11M1lXdzIwVWpZc2p6SzJXX2ZHQUJLaUJyZF9PVGNnbTlNN2RGNElZM3Z4c3RYSUZRbkRtNGROY0xfUWFCUklwS2xsWXZsazVBMU5yN1IwODNGc1FuNFNTaXVFc29qeDl3ekVWbTZfN3dZZFY5ajJic3E1eFBMbi1BVmh0WGwxZ0EtX1VSMFJ2eW5TZ2xvT3o0dGoyQi1yNWlycUg1RzQ3Qk93QUdpRFdqVUk?oc=5)
 
 ---
 
@@ -79,14 +87,6 @@ Source: [Gastroenterology Advisor](https://news.google.com/rss/articles/CBMisgFB
 2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5)
-
----
-
-### [Daily Sugary Drink Consumption Doubles Risk of Gastric Cancer - India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
-
-2026-09-22 <span class="news-indication-tag">cancer</span>
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
 
 ---
 

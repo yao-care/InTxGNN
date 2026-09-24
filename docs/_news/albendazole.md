@@ -14,7 +14,7 @@ permalink: /news/albendazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Albendazole</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Q&A: Teal Health scores $22M to broaden at-home cervical cancer screening](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVR1NE1rSVFRM3Y1UXp6LUVMeTVQQmZyMldtd3F2VXFCQWh0T3VaWjF2ekZUMUpsaDJVWk9DMlJkVzdoaXpQYW9YOFUxYjNJaFRMMFczRnFpMUdWNjhGN2lFTXYzSE1zVFZhaFEyd0xMQnQyUXNiY0k3Ym9Fa0ROZmdiMWItZDdXNy1iSmJxcGp0bEQ3Z19IRmdKWjdUcWlQcWc?oc=5)
+
+2026-09-23 <span class="news-indication-tag">cancer</span>
+
+Source: [MobiHealthNews](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVR1NE1rSVFRM3Y1UXp6LUVMeTVQQmZyMldtd3F2VXFCQWh0T3VaWjF2ekZUMUpsaDJVWk9DMlJkVzdoaXpQYW9YOFUxYjNJaFRMMFczRnFpMUdWNjhGN2lFTXYzSE1zVFZhaFEyd0xMQnQyUXNiY0k3Ym9Fa0ROZmdiMWItZDdXNy1iSmJxcGp0bEQ3Z19IRmdKWjdUcWlQcWc?oc=5)
+
+---
 
 ### [Blood tests could identify early signs of cancer years before diagnosis - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0NnRGJWRjUwRDVnbmdVSEVmdGZjTHNZb0xKajE4NGlKc1dXSFphRFJHeG1uMENxejlOaXRxYXpTQUFaem5MRzlkU2dPRzMzMlBiQlB2MWJxUlpoMU5vR0Q5MzltRDJOM2pfcjFEbHBaM1pFNC04NTBKcHAwZEJyQUZjdm4?oc=5)
 
@@ -52,7 +60,7 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0
 
 ### [Can Alzheimer’s Be Prevented? Understanding The Role Of Lifestyle And Brain Health : Dr. Anirudh Vilas Kulkarni, Senior Consultant – Interventional Neurology, KIMS Hospitals, Electronic City, Bengalu. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnZPQ01fcEQ5X01odzVBTmFBc0NXZEp5QmdNbktub3NsMHRZYTZSMllXM2ozZ2UtTG1jLXI1bnJQRW45MlV2bjRwVW44eHcwSk9RaDZ4UVlFWU94Z3doeUozTGZOZEJUNk1ZRU1FMDFvR1RnT0ZLTGlWWmJ2cXd2Z2tVMS1XbnpzdERWZGh0aHF5SkpTY2NCMzUtYzdoZnc2M1B1Y2ZVRUxWS29WVVJRWkZGVFpMVE9QMmdZbzR5al8wT0liU0RkcG5PcHdZZ2d0MmNmUVlmWV9DY2ZBcHhmWnlSdVQ0bmxpR2RpblB1dkVwMU1ILVBMbjU4bWd1NW91eG5rYzNvRktmQjY2RzZFVkxWc09TTkpLWkV0XzR6VXE4dkNKNU1QVjdOdE5reE1i?oc=5)
 
-2026-09-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">RA</span>
+2026-09-23 <span class="news-drug-tag">TESTOSTERONE</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">RA</span>
 
 Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnZPQ01fcEQ5X01odzVBTmFBc0NXZEp5QmdNbktub3NsMHRZYTZSMllXM2ozZ2UtTG1jLXI1bnJQRW45MlV2bjRwVW44eHcwSk9RaDZ4UVlFWU94Z3doeUozTGZOZEJUNk1ZRU1FMDFvR1RnT0ZLTGlWWmJ2cXd2Z2tVMS1XbnpzdERWZGh0aHF5SkpTY2NCMzUtYzdoZnc2M1B1Y2ZVRUxWS29WVVJRWkZGVFpMVE9QMmdZbzR5al8wT0liU0RkcG5PcHdZZ2d0MmNmUVlmWV9DY2ZBcHhmWnlSdVQ0bmxpR2RpblB1dkVwMU1ILVBMbjU4bWd1NW91eG5rYzNvRktmQjY2RzZFVkxWc09TTkpLWkV0XzR6VXE4dkNKNU1QVjdOdE5reE1i?oc=5)
 
@@ -90,11 +98,11 @@ Source: [NDTV](https://news.google.com/rss/articles/CBMimwFBVV95cUxQYl9JNy1iYmk0
 
 ---
 
-### [Genetics, Diabetes Tied to MASLD-Associated Cirrhosis Before Age 50 - Gastroenterology Advisor](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
+### [One Sugary Drink A Day Can Lead To Higher Risk Of Stomach Cancer, Study Finds - Times Now](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0JJYmZCR21hblVLN09NNnVVS1RNdzBHenY2eDBjc3BzV0FrakY4ckNpSndhZktmRG1JZm5TX1JFdEFmRHFhSGt2TjFSU0hMTzJRa3dDTjlORVljelN2MDZTTWkwZlV6T1phZ0ZxSkZQV2dTQ1JGSndLU19MQjdxcVZMZXk2d2tqSjZhOFc0aURKSENLd0Z2OTI0SUR2T0JwTm5VMXAwcWNoa2lEWGJHQ0dxRmpQRWZzVGfSAb8BQVVfeXFMTlJFSUFvemV0aWFUMC11M1lXdzIwVWpZc2p6SzJXX2ZHQUJLaUJyZF9PVGNnbTlNN2RGNElZM3Z4c3RYSUZRbkRtNGROY0xfUWFCUklwS2xsWXZsazVBMU5yN1IwODNGc1FuNFNTaXVFc29qeDl3ekVWbTZfN3dZZFY5ajJic3E1eFBMbi1BVmh0WGwxZ0EtX1VSMFJ2eW5TZ2xvT3o0dGoyQi1yNWlycUg1RzQ3Qk93QUdpRFdqVUk?oc=5)
 
-2026-09-23 <span class="news-indication-tag">cancer</span>
+2026-09-22 <span class="news-indication-tag">cancer</span>
 
-Source: [Gastroenterology Advisor](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
+Source: [Times Now](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0JJYmZCR21hblVLN09NNnVVS1RNdzBHenY2eDBjc3BzV0FrakY4ckNpSndhZktmRG1JZm5TX1JFdEFmRHFhSGt2TjFSU0hMTzJRa3dDTjlORVljelN2MDZTTWkwZlV6T1phZ0ZxSkZQV2dTQ1JGSndLU19MQjdxcVZMZXk2d2tqSjZhOFc0aURKSENLd0Z2OTI0SUR2T0JwTm5VMXAwcWNoa2lEWGJHQ0dxRmpQRWZzVGfSAb8BQVVfeXFMTlJFSUFvemV0aWFUMC11M1lXdzIwVWpZc2p6SzJXX2ZHQUJLaUJyZF9PVGNnbTlNN2RGNElZM3Z4c3RYSUZRbkRtNGROY0xfUWFCUklwS2xsWXZsazVBMU5yN1IwODNGc1FuNFNTaXVFc29qeDl3ekVWbTZfN3dZZFY5ajJic3E1eFBMbi1BVmh0WGwxZ0EtX1VSMFJ2eW5TZ2xvT3o0dGoyQi1yNWlycUg1RzQ3Qk93QUdpRFdqVUk?oc=5)
 
 ---
 
@@ -106,11 +114,11 @@ Source: [Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB
 
 ---
 
-### [Daily Sugary Drink Consumption Doubles Risk of Gastric Cancer - India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
+### [Families provide dementia care. Why must they also be the air traffic controllers of the system? - The Conversation](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYlRHQ1BEYVZxSmNYcVFjcDBiRThnR2daVDE4alhlbkhOZzBKZlVvczIxbXdhZUFiYnRsZGtJM2RGVGhiRUN6U2hhM05sZzhDbTcxeG0tOHVQdE92SXZNb2JkQlVoRV9SVHg5Qy1HN3g0cE1mMC1zSzVKNUxhdW55LXNRaHJQWDdFMFQ2NHN2bFdKcEh0dlJYbEhCUzZoX2MzbzJVaHpDclVQMWV0TUtoWkxPT0ZxcmZDWDRfUnpZRTBMWGVBUE4zUA?oc=5)
 
-2026-09-22 <span class="news-indication-tag">cancer</span>
+2026-09-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5)
+Source: [The Conversation](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYlRHQ1BEYVZxSmNYcVFjcDBiRThnR2daVDE4alhlbkhOZzBKZlVvczIxbXdhZUFiYnRsZGtJM2RGVGhiRUN6U2hhM05sZzhDbTcxeG0tOHVQdE92SXZNb2JkQlVoRV9SVHg5Qy1HN3g0cE1mMC1zSzVKNUxhdW55LXNRaHJQWDdFMFQ2NHN2bFdKcEh0dlJYbEhCUzZoX2MzbzJVaHpDclVQMWV0TUtoWkxPT0ZxcmZDWDRfUnpZRTBMWGVBUE4zUA?oc=5)
 
 ---
 

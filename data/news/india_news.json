@@ -1,22 +1,10 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-09-23T20:44:12.665537+00:00",
+  "fetched_at": "2026-09-24T01:45:38.848437+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 87,
+  "health_related_count": 90,
   "news": [
-    {
-      "id": "40dc0ff2b099",
-      "title": "Scientists build world's most accurate atomic clock - Phys.org",
-      "published": "2026-09-23T20:20:03+00:00",
-      "summary": "Scientists build world's most accurate atomic clock&nbsp;&nbsp;Phys.orgNUS researchers develop new Lutetium Atomic Clock with record accuracy that could advance precision timeke&nbsp;&nbsp;economictimes.comLu+ optical frequency references with accuracy verified at the 19th digit&nbsp;&nbsp;NatureSingapore Scientists Create Most Accurate Atomic Clock&nbsp;&nbsp;Mirage News",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JQm1Ub0trQ1g5c201TlNSSkdvbXdtYktGTVRudzJzQ3pFZ0lkQTdxVkIyM3BNQy1BNElKQXFWT0RXU2c4WUU2R3IxUWJmZ2oydFpadDkzRElNSGNueFBxdXljWDZqUnpwVDdDUGtWRGdkR0VYeENPdUwwQk5tUQ?oc=5"
-        }
-      ]
-    },
     {
       "id": "270300015edf",
       "title": "Severe Asthma's Effects May Extend Beyond the Lungs, Brain Imaging Study Suggests - Pharmacy Times",
@@ -30,10 +18,22 @@
       ]
     },
     {
+      "id": "4ff639a64179",
+      "title": "Best clock ever: timekeeper based on lutetium atoms wows researchers - Nature",
+      "published": "2026-09-23T19:41:55+00:00",
+      "summary": "Best clock ever: timekeeper based on lutetium atoms wows researchers&nbsp;&nbsp;NatureNUS researchers develop new Lutetium Atomic Clock with record accuracy that could advance precision timeke&nbsp;&nbsp;The Economic TimesLu+ optical frequency references with accuracy verified at the 19th digit&nbsp;&nbsp;NatureSingapore Scientists Create Most Accurate Atomic Clock&nbsp;&nbsp;Mirage News",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hNm5XcXNQaTFmVUt1a2lYWVl3SDdpVjIxLWpvelJaOHMtWDdxVk9yclNCTUwwU25abTc4SkhVb3JrSFBoaHFiaTZoR1dLSGtLakIyRjR2bG1uLURzS1dr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1e83fb3e9445",
       "title": "Unevenness of global warming: Regional warming speedups emerge in waves - Phys.org",
       "published": "2026-09-23T19:40:07+00:00",
-      "summary": "Unevenness of global warming: Regional warming speedups emerge in waves&nbsp;&nbsp;Phys.orgSpace-time signatures of surface warming accelerations since 1970&nbsp;&nbsp;NatureThe rate at which Earth is absorbing energy is alarming scientists&nbsp;&nbsp;livemint.comUC Santa Cruz Study Maps Uneven Regional Warming Accelerations Across the Globe&nbsp;&nbsp;environment coastal & offshoreThis Map Shows Where Warming Has Accelerated&nbsp;&nbsp;Yahoo",
+      "summary": "Unevenness of global warming: Regional warming speedups emerge in waves&nbsp;&nbsp;Phys.orgSpace-time signatures of surface warming accelerations since 1970&nbsp;&nbsp;NatureThe rate at which Earth is absorbing energy is alarming scientists&nbsp;&nbsp;LivemintUC Santa Cruz Study Maps Uneven Regional Warming Accelerations Across the Globe&nbsp;&nbsp;environment coastal & offshoreThis Map Shows Where Warming Has Accelerated&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "Phys.org",
@@ -42,22 +42,10 @@
       ]
     },
     {
-      "id": "b9fc7addc043",
-      "title": "Gut Microbiome Development Pattern Linked to Type 1 Diabetes Risk - Inside Precision Medicine",
-      "published": "2026-09-23T19:23:02+00:00",
-      "summary": "Gut Microbiome Development Pattern Linked to Type 1 Diabetes Risk&nbsp;&nbsp;Inside Precision MedicineGut microbiome maturation in early childhood interacts with host genetics to predict type 1 diabetes risk&nbsp;&nbsp;NatureGut Microbiome Development Delays in Children Linked to Triple Type 1 Diabetes Risk: Study&nbsp;&nbsp;Medical DialoguesScientists Discover Early Warning Sign of Diabetes in Children&nbsp;&nbsp;The New York SunStalled gut microbiome development triples risk for type 1 diabete",
-      "sources": [
-        {
-          "name": "Inside Precision Medicine",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSjhlNHZKZ2puME10d1ZiZGR6dU1aMndlb0NaOF82RXZVaUltRHZhUDRRcFBHcEhUVWpnckVmMERtZDlELWpJSi11RVJ4alFTX002VFJiV0syQmxUdGRETWhKYzc2dm5ISWVOT1lwVV9Tc1hXYm4yNEd5VU5xU29UUlQyb0l5OUxZajNwZVpTdHcyc3Z6Y0U2RHhteF9jRGRZZ1lEWjUwN1hHUHFDbFdDdmpGaVloeEpQVmJCd3JianV2R2ZCOUh4cEpIQy0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4613c8934c1f",
       "title": "AI Drug Discovery's New Frontier: Competing for Data Assets — Virtual Cells and Organoid Chips Move Toward Complementarity - finance.biggo.com",
       "published": "2026-09-23T18:05:00+00:00",
-      "summary": "AI Drug Discovery's New Frontier: Competing for Data Assets — Virtual Cells and Organoid Chips Move Toward Complementarity&nbsp;&nbsp;finance.biggo.comVirtual cells built from 4D AI models and 'digital twins' could speed up drug discovery&nbsp;&nbsp;Phys.orgScientists use AI, 40,000 cell movies, and 'digital twins' to assess how drugs influence cell function&nbsp;&nbsp;YahooAI-built \"Virtual Cells\" could speed up drug discovery&nbsp;&nbsp;techexplorist.com‘Virtual Cells’ Speed Up Drug Discovery ",
+      "summary": "AI Drug Discovery's New Frontier: Competing for Data Assets — Virtual Cells and Organoid Chips Move Toward Complementarity&nbsp;&nbsp;finance.biggo.comVirtual cells built from 4D AI models and 'digital twins' could speed up drug discovery&nbsp;&nbsp;Phys.orgScientists use AI, 40,000 cell movies, and 'digital twins' to assess how drugs influence cell function&nbsp;&nbsp;YahooAI-built \"Virtual Cells\" could speed up drug discovery&nbsp;&nbsp;Tech Explorist‘Virtual Cells’ Speed Up Drug Discovery by ",
       "sources": [
         {
           "name": "finance.biggo.com",
@@ -66,10 +54,22 @@
       ]
     },
     {
+      "id": "04a5984e5b6a",
+      "title": "Q&A: Teal Health scores $22M to broaden at-home cervical cancer screening - MobiHealthNews",
+      "published": "2026-09-23T17:26:57+00:00",
+      "summary": "Q&amp;A: Teal Health scores $22M to broaden at-home cervical cancer screening&nbsp;&nbsp;MobiHealthNewsTeal Health Raises $22 Million Series A to Expand Access to the Most Accurate FDA-Authorized At-Home HPV Cervical Cancer Screening&nbsp;&nbsp;PR NewswireTeal Health raises $22m for at-home HPV cervical cancer screening test&nbsp;&nbsp;Medical Device NetworkTeal Health raises $22M to take FDA-authorised at-home cervical cancer screening mainstream&nbsp;&nbsp;techfundingnews.comTeal Health raises",
+      "sources": [
+        {
+          "name": "MobiHealthNews",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVR1NE1rSVFRM3Y1UXp6LUVMeTVQQmZyMldtd3F2VXFCQWh0T3VaWjF2ekZUMUpsaDJVWk9DMlJkVzdoaXpQYW9YOFUxYjNJaFRMMFczRnFpMUdWNjhGN2lFTXYzSE1zVFZhaFEyd0xMQnQyUXNiY0k3Ym9Fa0ROZmdiMWItZDdXNy1iSmJxcGp0bEQ3Z19IRmdKWjdUcWlQcWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fbc4b952b53d",
       "title": "Blood tests could identify early signs of cancer years before diagnosis - Medical Xpress",
       "published": "2026-09-23T16:40:05+00:00",
-      "summary": "Blood tests could identify early signs of cancer years before diagnosis&nbsp;&nbsp;Medical XpressCancer-related DNA changes may appear in blood years before diagnosis&nbsp;&nbsp;news-medical.netDaniel De Carvalho: Can cfDNA Methylation Help Identify Cancer Risk Years Before Diagnosis?&nbsp;&nbsp;OncodailyTracking Blood Test Results Over Time Could Support Earlier Cancer Detection&nbsp;&nbsp;Inside Precision MedicineChanges in routine blood tests in patients with unexplained weight loss could hel",
+      "summary": "Blood tests could identify early signs of cancer years before diagnosis&nbsp;&nbsp;Medical XpressCancer-related DNA changes may appear in blood years before diagnosis&nbsp;&nbsp;News-MedicalDaniel De Carvalho: Can cfDNA Methylation Help Identify Cancer Risk Years Before Diagnosis?&nbsp;&nbsp;OncodailyTracking Blood Test Results Over Time Could Support Earlier Cancer Detection&nbsp;&nbsp;Inside Precision MedicineChanges in routine blood tests in patients with unexplained weight loss could help id",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -78,13 +78,13 @@
       ]
     },
     {
-      "id": "c41671cc0ec1",
-      "title": "Study finds no causal link between prenatal paracetamol and neurodevelopmental disorders - news-medical.net",
+      "id": "d0d3017b2dcd",
+      "title": "Study finds no causal link between prenatal paracetamol and neurodevelopmental disorders - News-Medical",
       "published": "2026-09-23T16:39:00+00:00",
-      "summary": "Study finds no causal link between prenatal paracetamol and neurodevelopmental disorders&nbsp;&nbsp;news-medical.netTylenol during pregnancy not linked to autism, ADHD, major review finds&nbsp;&nbsp;CIDRAPAcetaminophen and Autism: Data, Debate, and Risk&nbsp;&nbsp;MedscapeTylenol Is Safe For Pregnant Women, Study Finds&nbsp;&nbsp;The New York SunNew review finds no link between Tylenol, autism or ADHD&nbsp;&nbsp;WSOC TV",
+      "summary": "Study finds no causal link between prenatal paracetamol and neurodevelopmental disorders&nbsp;&nbsp;News-MedicalTylenol during pregnancy not linked to autism, ADHD, major review finds&nbsp;&nbsp;CIDRAPAcetaminophen and Autism: Data, Debate, and Risk&nbsp;&nbsp;medscape.comTylenol Is Safe For Pregnant Women, Study Finds&nbsp;&nbsp;The New York SunNew review finds no link between Tylenol, autism or ADHD&nbsp;&nbsp;WSOC TV",
       "sources": [
         {
-          "name": "news-medical.net",
+          "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5"
         }
       ]
@@ -93,7 +93,7 @@
       "id": "8e64e7cd3488",
       "title": "Bats originated in Europe, rewriting mammals’ family tree, study reveals - The Guardian",
       "published": "2026-09-23T16:07:00+00:00",
-      "summary": "Bats originated in Europe, rewriting mammals’ family tree, study reveals&nbsp;&nbsp;The GuardianReference genomes and fossils revise bat family phylogeny and biogeography&nbsp;&nbsp;NatureBiggest Ever Bat Genome and Fossil Study Reveal That Bats Originated in Europe&nbsp;&nbsp;WCS NewsroomWe Finally Know Where Bats Came From—and Dracula Would Approve&nbsp;&nbsp;GizmodoWhere did bats come from? Family tree drawn from huge genetic study&nbsp;&nbsp;CBC",
+      "summary": "Bats originated in Europe, rewriting mammals’ family tree, study reveals&nbsp;&nbsp;The GuardianReference genomes and fossils revise bat family phylogeny and biogeography&nbsp;&nbsp;NatureSetting the Evolutionary Record Straight&nbsp;&nbsp;University of VermontBiggest Ever Bat Genome and Fossil Study Reveal That Bats Originated in Europe&nbsp;&nbsp;WCS NewsroomGenetic trove aims to unlock bats’ secrets to long life&nbsp;&nbsp;Financial Times",
       "sources": [
         {
           "name": "The Guardian",
@@ -105,7 +105,7 @@
       "id": "e0bf127ab604",
       "title": "NASA Rover Spectroscopy Uncovers Complex Water Systems on Ancient Mars - Technology Networks",
       "published": "2026-09-23T16:00:32+00:00",
-      "summary": "NASA Rover Spectroscopy Uncovers Complex Water Systems on Ancient Mars&nbsp;&nbsp;Technology NetworksNASA Discovery Reveals Complex Water Systems on Early Mars&nbsp;&nbsp;NASA Jet Propulsion Laboratory (JPL) (.gov)Water on Mars wasn’t just there once: NASA rover uncovers clues to a much more complex watery past&nbsp;&nbsp;Moneycontrol.comLake- and groundwater-associated alteration of the olivine-rich Margin unit in Jezero crater, Mars&nbsp;&nbsp;NatureWhat ancient Mars rocks reveal about its bur",
+      "summary": "NASA Rover Spectroscopy Uncovers Complex Water Systems on Ancient Mars&nbsp;&nbsp;Technology NetworksFrom The Hindu Archives, September 24, 1976: Mars may have more water than Earth&nbsp;&nbsp;The HinduNASA Discovery Reveals Complex Water Systems on Early Mars&nbsp;&nbsp;NASA Jet Propulsion Laboratory (JPL) (.gov)Water on Mars wasn’t just there once: NASA rover uncovers clues to a much more complex watery past&nbsp;&nbsp;Moneycontrol.comLake- and groundwater-associated alteration of the olivine-",
       "sources": [
         {
           "name": "Technology Networks",
@@ -117,7 +117,7 @@
       "id": "f799ef823ab8",
       "title": "Can Alzheimer’s Be Prevented? Understanding The Role Of Lifestyle And Brain Health : Dr. Anirudh Vilas Kulkarni, Senior Consultant – Interventional Neurology, KIMS Hospitals, Electronic City, Bengalu. - TRIPURA STAR NEWS",
       "published": "2026-09-23T16:00:30+00:00",
-      "summary": "Can Alzheimer’s Be Prevented? Understanding The Role Of Lifestyle And Brain Health : Dr. Anirudh Vilas Kulkarni, Senior Consultant – Interventional Neurology, KIMS Hospitals, Electronic City, Bengalu.&nbsp;&nbsp;TRIPURA STAR NEWSWhy dementia is preventable – and the new tools that can reduce your risk&nbsp;&nbsp;South China Morning PostEveryday choices may shape brain health across a lifetime&nbsp;&nbsp;UT Health San AntonioBrown on Dementia: Progress, Lifestyle, Genes&nbsp;&nbsp;Atlanta Jewish ",
+      "summary": "Can Alzheimer’s Be Prevented? Understanding The Role Of Lifestyle And Brain Health : Dr. Anirudh Vilas Kulkarni, Senior Consultant – Interventional Neurology, KIMS Hospitals, Electronic City, Bengalu.&nbsp;&nbsp;TRIPURA STAR NEWSWhy dementia is preventable – and the new tools that can reduce your risk&nbsp;&nbsp;South China Morning PostMichael Roizen, M.D.: Easy ways to protect cognition; boost testosterone levels naturally&nbsp;&nbsp;The Crescent-News5 steps adults can take to support cognitive",
       "sources": [
         {
           "name": "TRIPURA STAR NEWS",
@@ -150,14 +150,62 @@
       ]
     },
     {
+      "id": "bdb70f8d0a7e",
+      "title": "Video | NDTV Lifeline | Rabies - Missing That One Shot - NDTV",
+      "published": "2026-09-23T14:54:02+00:00",
+      "summary": "Video | NDTV Lifeline | Rabies - Missing That One Shot&nbsp;&nbsp;NDTVHealth department shares bat advice&nbsp;&nbsp;The Maryville ForumLeigh’s Lost and Found Digital Extra: What to know about a recent rise in rabies cases&nbsp;&nbsp;KY3Kansas City Health Department reports increase in rabies-positive bats&nbsp;&nbsp;FOX4KC.comCDC rabies warning: Infectious diseases expert explains when a bat encounter requires medical care&nbsp;&nbsp;UC Davis Health",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZGhSc2pMbTJqaXo0RkNzbWRUZGsxTHdYZ0kyWVBNSXIza2NrMjBwY1NMbHRJZUJqRWpFcmxiR295RlJnZWYzZWZtNm1ldHRtTXlqRVpMZFZONlBMUEY0YU1mZ1lBaGhLZnJLMlVZa3BFRllOdVQyM1RiRWhfSWY4ckhLVjR4QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c2df3854e1db",
       "title": "Bangladesh: 11 more die from measles-like symptoms in 24 hours, Death toll reaches 1,076 - News On AIR",
       "published": "2026-09-23T14:40:52+00:00",
-      "summary": "Bangladesh: 11 more die from measles-like symptoms in 24 hours, Death toll reaches 1,076&nbsp;&nbsp;News On AIRBangladesh has lost 900 children to measles – a warning to other countries where vaccine rates have slipped&nbsp;&nbsp;The ConversationJamaat blames ‘lack of effective govt action’ for measles, dengue deaths&nbsp;&nbsp;daily-sun.comTwo more die with measles symptoms in 24 hours&nbsp;&nbsp;The Financial ExpressTwo more children die with measles symptoms&nbsp;&nbsp;Bangladesh Sangbad Sang",
+      "summary": "Bangladesh: 11 more die from measles-like symptoms in 24 hours, Death toll reaches 1,076&nbsp;&nbsp;News On AIRBangladesh has lost 900 children to measles – a warning to other countries where vaccine rates have slipped&nbsp;&nbsp;The ConversationJamaat blames ‘lack of effective govt action’ for measles, dengue deaths&nbsp;&nbsp;daily-sun.comTwo more die with measles symptoms in 24 hours&nbsp;&nbsp;The Financial Express11 more die with measles-like symptoms in Bangladesh&nbsp;&nbsp;The Daily Star",
       "sources": [
         {
           "name": "News On AIR",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lrQjRrZkZsNE5zTVJ1UUptbGFxaUhsODFCMnBwQU1mZENtOU50ZnFxVWtwc0VCeVBNSUgtcmZhY1VzQXB3TGRnX0NxZjduaHdOLU56Y1hfQlg0Z2k5SHFaUEV1cktFQUJxeDZWSGFHRXpUSjFsWWxoakl1MjBOdXhRN3Z2NWlCcDA0a3ZzZjJUUXJYM20zZjVmdkg5U0gyNllxSVgzVEVnQjdJaXJfcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "144deffc9866",
+      "title": "Protection From Tuberculosis Preventive Treatment Could Wane After One Year In High-Burden Countries: Study - NDTV",
+      "published": "2026-09-23T14:40:24+00:00",
+      "summary": "Protection From Tuberculosis Preventive Treatment Could Wane After One Year In High-Burden Countries: Study&nbsp;&nbsp;NDTVProtection from TB preventive treatment could wane after one year in high-burden countries: Study&nbsp;&nbsp;ET HealthWorldStudy: Treatments to prevent tuberculosis offer long-lasting protection&nbsp;&nbsp;UC Berkeley School of Public HealthBoston University School of Public Health | TB preventive treatment wanes after one year in high-burden countries, but lasts for at leas",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWTNQZlkzczBNVGpWX1piR1BIc3N1WFVUcjltUzNNT0tMMEdfa1lyTWZveVhJeUlzN3NLdzNyUEE4OWNsZmc4U1NlRE5fTlZhTGVUM1BfZG96bXJBMmRWOHlKUHJwNE8xb3RNcXBZOUhXOXJOMW5NMTJ3RnZoTG5nenh4OWxtUXA2Y3czLThucExDc0tVTFRMY2doX0QzMlJSdkRtMzZxS1NvZVY0X2FGZW4zMWhCRkR0UVRxcnFDaGpWTkJraGg5eGx0ZnlhM3ZKb0FDRmxiYm1WOWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "40f37641d3fc",
+      "title": "A planet 64 light-years away is sending radio signals; astronomers trace their source to auroras on the d - The Times of India",
+      "published": "2026-09-23T14:30:00+00:00",
+      "summary": "A planet 64 light-years away is sending radio signals; astronomers trace their source to auroras on the d&nbsp;&nbsp;The Times of IndiaAstronomers detect radio signals coming from an exoplanet for the first time&nbsp;&nbsp;Phys.orgScientists Detect Radio Signals From Planet Outside Our Solar System&nbsp;&nbsp;NDTVRadio signals detected from a planet beyond our Solar System. Landmark discovery could help us search for habitable worlds&nbsp;&nbsp;BBC Sky at Night MagazineStrange radio signals dete",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQUG9oT0V4UE5EY05FYW9MaHhsQnV2WjNRcW94UzgzZThPaEp0UmF4bHRyUy1KT2J4RlpwN1NXOElBU1FGWjlfa3BUbk5LZUowWWktSkJFTEk4TnZHcVR3UXA4Q2cxYlp3TWdPUEw5eVctQ0lDaGI2RFc2Z1BvLTlZUU1HOUFXQW5VaGFDcjFXM3hXRWhjcFpGb1ZCd05HUXppbXNnMjdhSGpmMy13dWR0VHNERkc3QWFBYTczcjg1NG5JZDJCUzdESkVYWFhlSFROckhNUU5DNThGbzgwZkRhVGlrRTcxTTdYd2MyWnREeXFCWTlWRGFHUVJvY3daTzJ1UVZsTWM0QXZOVktvVk5ZU2k4Sms2VlNadi1GWtIBogJBVV95cUxNSWhjZUcybWlVSUFlWExNaUZxcnQtRXp4eW5DRlpjVjY1RUFOWnl0YXUyZHRmTVNaV2xqNk41U1paamV6NDNxZTZ4d0RnR19nQTJoeDNLaG14ZTVEaU5jN1BsczMxX25CSUFkbk5ROEdSZHU1b3dQbjhqajZMbTVLZWJ6VmNaY1QyTnFMV0lwclFhN0Nzbmh2aHA5QzJYSktDNC1EcjllR19tRUdmMUU1Nl96VE5XbnhWQ05MLWNRdkNkTWZNZHBHMkhwdTlGVTM3elFsbXg2cHpvemFZMExWaTNzNDdwdE1RNWxLMmlSb2tTZHNRWDJtUVAwSmp2Nm15bDVIbklKZER5WlEySHV6bnpHQVBmczlobHBjanRmYmc0dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "53a395f0efa6",
+      "title": "Menopause & Heart Health: Why This Transition Can Be A Turning Point for A Woman’s Cardiovascular Future - Health and Me",
+      "published": "2026-09-23T14:00:00+00:00",
+      "summary": "Menopause & Heart Health: Why This Transition Can Be A Turning Point for A Woman’s Cardiovascular Future&nbsp;&nbsp;Health and MeCardiovascular Changes in Women May Start 20 Years Before Menopause&nbsp;&nbsp;India News NetworkWomen’s arteries may start changing decades before menopause—and estrogen may not be the reason&nbsp;&nbsp;health.yahoo.com",
+      "sources": [
+        {
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGJiUk5GUEtWS28yeXRHekFsT0trcHMyZXRnWGU4SHZraTN3RVh3VjVTdzZYd093U1M1TEcxVmJUSE1YYm5oTzBfNGUyd25yNExvaTktclk5YUliU21YczdrcW5nczByTzVqRnp2Z08zQlFXYnA3UDZGR2hXTURjbXFSbm5yVkJwT0tJVlVHcUlxeXl4ODJ3b0c4NnBaMGViRDVmQnpvRnhXbnBWNmRXdW4zLW84ZHQ5VUtQZUxiNkZ5S3ZZN0drajlaWl9NR2NqUzBJTTNTbnZhRUR4N1VqT0dVeWZyTmkwTUdyWThQS3k2dHdR?oc=5"
         }
       ]
     },
@@ -177,7 +225,7 @@
       "id": "b2c9ad87a45d",
       "title": "‘Fire amoeba’: Scientists discover single-celled organism that reproduces at 145°F, setting heat-toleranc - The Times of India",
       "published": "2026-09-23T13:32:00+00:00",
-      "summary": "‘Fire amoeba’: Scientists discover single-celled organism that reproduces at 145°F, setting heat-toleranc&nbsp;&nbsp;The Times of IndiaHot spring amoeba breaks record for heat tolerance of complex life&nbsp;&nbsp;Phys.orgNASA-Funded Research Finds Complex Life Defying Record Heat&nbsp;&nbsp;NASA Science (.gov)Scientists discover 'fire amoeba' that can reproduce at 63°C | This can help in search for life beyond Earth | Inshorts&nbsp;&nbsp;InshortsTenacious hot springs amoeba sets heat-tolerance r",
+      "summary": "‘Fire amoeba’: Scientists discover single-celled organism that reproduces at 145°F, setting heat-toleranc&nbsp;&nbsp;The Times of IndiaHot spring amoeba breaks record for heat tolerance of complex life&nbsp;&nbsp;Phys.orgNASA-Funded Research Finds Complex Life Defying Record Heat&nbsp;&nbsp;NASA Science (.gov)Creature thrives at scalding temps too high for all other known life&nbsp;&nbsp;Caledonian RecordTenacious hot springs amoeba sets heat-tolerance record&nbsp;&nbsp;reuters.com",
       "sources": [
         {
           "name": "The Times of India",
@@ -201,7 +249,7 @@
       "id": "1d03be37a2d5",
       "title": "Rare pregnancy infections may triple the risk of autism - ScienceDaily",
       "published": "2026-09-23T13:13:26+00:00",
-      "summary": "Rare pregnancy infections may triple the risk of autism&nbsp;&nbsp;ScienceDailyBabies infected in womb ‘more likely to have autism’&nbsp;&nbsp;The TimesInflammation in Early Pregnancy May Increase Autism Risk in Males&nbsp;&nbsp;Technology NetworksHerpes and rubella in pregnancy linked to autism&nbsp;&nbsp;The TelegraphRare Congenital TORCH Infections Tied to Greater Autism Risk in Kids&nbsp;&nbsp;MedPage Today",
+      "summary": "Rare pregnancy infections may triple the risk of autism&nbsp;&nbsp;ScienceDailyBabies infected in womb ‘more likely to have autism’&nbsp;&nbsp;thetimes.comInflammation in Early Pregnancy May Increase Autism Risk in Males&nbsp;&nbsp;Technology NetworksHerpes and rubella in pregnancy linked to autism&nbsp;&nbsp;The TelegraphRare Congenital TORCH Infections Tied to Greater Autism Risk in Kids&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -225,7 +273,7 @@
       "id": "0717b91eae3a",
       "title": "UN health agency calls for investment boost to save young lives from cancer - UN News",
       "published": "2026-09-23T13:09:47+00:00",
-      "summary": "UN health agency calls for investment boost to save young lives from cancer&nbsp;&nbsp;UN NewsCountry-comparable childhood cancer survival data now available through WHO data portal&nbsp;&nbsp;World Health Organization (WHO)WHO Opens First-Ever Prequalification Pathway for 12 Childhood Cancer Medicines&nbsp;&nbsp;OncodailyWHO Launches New Global Health Strategy for Childhood Cancer Medications&nbsp;&nbsp;Global Issues.OrgMarket update: Childhood cancer medicines available through UNICEF&nbsp;&nb",
+      "summary": "UN health agency calls for investment boost to save young lives from cancer&nbsp;&nbsp;UN NewsCountry-comparable childhood cancer survival data now available through WHO data portal&nbsp;&nbsp;World Health Organization (WHO)WHO Opens First-Ever Prequalification Pathway for 12 Childhood Cancer Medicines&nbsp;&nbsp;OncodailyChildhood cancer survival gap exposes health system inequalities&nbsp;&nbsp;channelafrica.co.zaWHO Launches New Global Health Strategy for Childhood Cancer Medications&nbsp;&nb",
       "sources": [
         {
           "name": "UN News",
@@ -249,7 +297,7 @@
       "id": "3861b0d245d1",
       "title": "Experts Emphasise Early Detection, Healthy Lifestyles and Community Awareness for Heart Health - The Indian Practitioner",
       "published": "2026-09-23T12:41:24+00:00",
-      "summary": "Experts Emphasise Early Detection, Healthy Lifestyles and Community Awareness for Heart Health&nbsp;&nbsp;The Indian PractitionerHow can you protect yourself from heart disease? Cardiologists explain&nbsp;&nbsp;Telegraph IndiaExperts highlight healthy lifestyle for heart health&nbsp;&nbsp;Pioneer DailyA cardiologist’s 24-hour heart health guide: What to eat, how to exercise, sleep and manage stress for a healthy heart&nbsp;&nbsp;Hindustan TimesHeart health: Know the risks, avoid an attack&nbsp;&",
+      "summary": "Experts Emphasise Early Detection, Healthy Lifestyles and Community Awareness for Heart Health&nbsp;&nbsp;The Indian PractitionerHow can you protect yourself from heart disease? Cardiologists explain&nbsp;&nbsp;Telegraph IndiaExperts highlight healthy lifestyle for heart health&nbsp;&nbsp;Pioneer DailyA cardiologist’s 24-hour heart health guide: What to eat, how to exercise, sleep and manage stress for a healthy heart&nbsp;&nbsp;Hindustan TimesOn World Heart Day, experts highlight importance of ",
       "sources": [
         {
           "name": "The Indian Practitioner",
@@ -273,11 +321,23 @@
       "id": "704abd4f3b2c",
       "title": "An exciting future of new drugs and real-world studies - Managed Healthcare Executive",
       "published": "2026-09-23T12:19:27+00:00",
-      "summary": "An exciting future of new drugs and real-world studies&nbsp;&nbsp;Managed Healthcare ExecutiveNew outpatient treatments for lymphoma expand care options without extended hospitalisation&nbsp;&nbsp;Jamaica ObserverFollicular Lymphoma: Moving Toward a Chemotherapy-Free Future&nbsp;&nbsp;SurvivorNet",
+      "summary": "An exciting future of new drugs and real-world studies&nbsp;&nbsp;Managed Healthcare ExecutiveNew outpatient treatments for lymphoma expand care options without extended hospitalisation&nbsp;&nbsp;Jamaica ObserverFollicular Lymphoma: Moving Toward a Chemotherapy-Free Future&nbsp;&nbsp;survivornet.com",
       "sources": [
         {
           "name": "Managed Healthcare Executive",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHpqaUhaWUVzdkJ0eWt6bUdlRjdhaXFmdG1jMTE4M0pJbm9oQUFraWhsZVJ4bUZNWjZQSWhEb0xXNTc2WXptQXVsaTlxQ2pQT0QxVUdqYm82Q0ZUeDBiaFdwS0I1d3o1LUNzeWdpbU4yeGpXUy1oVlFOWHFYQVc1ZU9tbXNMS0Q1cTBwckFRNXpRU0FaTTg0cTZYcjA1ZlBTZ2VBMg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a1b5f339c79",
+      "title": "What makes endometriosis painful? Yale researchers have a clue - ThePrint",
+      "published": "2026-09-23T12:17:28+00:00",
+      "summary": "What makes endometriosis painful? Yale researchers have a clue&nbsp;&nbsp;ThePrint",
+      "sources": [
+        {
+          "name": "ThePrint",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXJ5YnlvN0pMM1RFd18yWmJvNEJiNE1zaE5IZVI1VkUwckRsTkgxU0xST052TGNFVXRzNkZPaVN0cDU5eDN4MlItUW9ORFZNWTNoeU9BQXJyeVI2VjRxZXY1eU1SMzlIOFJxVkZQRjVtcFVKczFhSmVTMU9rUFpnSUplbnFkMzVzeU54bXJPMGxjSnJ5RUZrM3NmUjhvVGvSAaQBQVVfeXFMTXNCQk0wbTdaQTc2RUtRQ1FBRjVJNEZEOG8tc1ZnQkRDV3RZVUd0UGFMdlVYQzdqdXd0R3FUajY0RjJSa0V0VG9JUzRTUFVQcWo1M3owS2hERm1yYWtaNzhHQzlqVmhMSWJrNWhZejNrUVpidV9aUGxRNEQwd1Y4SDJfWkVLSFBTZ0lSclpnMjJuNnd3bGphLVFDdTdPTFRUN2c3YWg?oc=5"
         }
       ]
     },
@@ -309,7 +369,7 @@
       "id": "a737fe54785a",
       "title": "IMA and Abbott push for adult flu vaccination - ET HealthWorld",
       "published": "2026-09-23T12:01:48+00:00",
-      "summary": "IMA and Abbott push for adult flu vaccination&nbsp;&nbsp;ET HealthWorldIMA and Abbott launch Indian Immunization Week to boost influenza protection&nbsp;&nbsp;Indian Pharma PostIndian Immunization Week launched by IMA, Abbott&nbsp;&nbsp;Voice of Healthcare",
+      "summary": "IMA and Abbott push for adult flu vaccination&nbsp;&nbsp;ET HealthWorldIMA, Abbott launch Indian Immunisation Week to promote influenza vaccination&nbsp;&nbsp;expresshealthcare.inIMA and Abbott launch Indian Immunization Week to boost influenza protection&nbsp;&nbsp;Indian Pharma PostIndian Immunization Week launched by IMA, Abbott&nbsp;&nbsp;Voice of Healthcare",
       "sources": [
         {
           "name": "ET HealthWorld",
@@ -326,18 +386,6 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWNzS2ZkOTZTaGdXb3I3eWNYY0wxSDZhQXBPRXFJT1d2OHZJaGdHZkEzNWhVaWtGX0ItZHhMM0ZXaXdEU2U1Q01NYkRqS3RRR2k2bGlMYlFnQXItaWY4X0FBVGpaME5NU0toOERyc29iQzNQR2V2NUEtWDhTbjZ0WEd2Z1lhcmJKLVlDNDUtZXY5NU4zdzRYZWFNb0s5aGRyMUFZUVRXS3dKLThXS05HOEdqajJNbkpYS3Rn0gHAAUFVX3lxTFBTVjhhSG1YMmc1b2x3bDlaRUhYTUVVWVZWNzhaWEFaWmNBQWVyOU15WEo2MHdaREJReXNBQkptNmd0cGdYb0RJc1ZfUmw1Wl9WNFl3NlhPUzJWTEUtZndESVB5SFZfVTFUSXFaZUwwNkowVU5CR3VLemlsNkdUbTAxSzdtQjV4LWtMUjV1VXFWV2wzdnlSeV9VTklPdXBEb3VKeThwZmJsZGUwUk45VEN6QlE1SGtfeEZnamFZS3VtSw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4b0c26775ee6",
-      "title": "Protection from TB preventive treatment could wane after one year in high-burden countries: Study - ET HealthWorld",
-      "published": "2026-09-23T11:57:05+00:00",
-      "summary": "Protection from TB preventive treatment could wane after one year in high-burden countries: Study&nbsp;&nbsp;ET HealthWorldProtection From Tuberculosis Preventive Treatment Could Wane After One Year In High-Burden Countries: Study&nbsp;&nbsp;NDTVStudy: Treatments to prevent tuberculosis offer long-lasting protection&nbsp;&nbsp;publichealth.berkeley.eduPreventive Tuberculosis Treatment Wanes After One Year in High-Burden Countries, but Lasts for at Least 8 to 13 Years in Low- and Medium-Burden Co",
-      "sources": [
-        {
-          "name": "ET HealthWorld",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWkU5b3R0RFRndU9mQmMtTG5kNW54dDJsQ2tleGlZVWRKeEpVd1hSTFN2djRzZ3B2cmpUalVGbllRNUhXWGZqcFBkQnJMa0JJU3FBMEJOa2NxNV9MREFJR3JpOHlfZEh6SG1mLTRyTUJmS2tETU9YZ0gwWmtzenAxaGI1eHpWUWhQUWp4SHZUNUlKWk8xZURTT1otVnozcnhIU0lmWkl6Q05kemlCc3A2TkZnMHEwMHJub0NabXlFaU1tNWRrYzdacVRiUjZ0LXppZE1uaGcwdWFCM3Bhbzhmb1JFMUs4clZwSGNVN2RnX21UdGJTdlMw0gH8AUFVX3lxTE5PcDc4bUNYLTNXYXh6dGNwQnpmcHRKci1pNHRVWnViVDV1cHBnVFJJcExUeno4QWFKNEhNTlVLd2lpZWR5emhDVFNSMnRKS19WYUR1Z1MtWFBSbVNhbjRFdnZOM25vNDJESTdXaF9NMFpkNHlHNmRHV1NTbVpfT3NIS2NnQ1Y2aENPZnk0aGxVMV9sZk1QNVppWncyMXMtWFhnSTdjZmFsQjJTeWRFTDVEa0MzaW5YUngwWU1tNFJudjJBaGpUaDR4VG1GZkxiUEdDMUs2NURTQkVWdkFHclBPM1NYaWt3Z0hZbTQ5T1hnNmNzT1pFQVpXaDNKcw?oc=5"
         }
       ]
     },
@@ -366,13 +414,13 @@
       ]
     },
     {
-      "id": "35bda5564e8d",
-      "title": "New AI tool predicts hydrogen positions to speed up drug discovery - news-medical.net",
+      "id": "d34a31dca101",
+      "title": "New AI tool predicts hydrogen positions to speed up drug discovery - News-Medical",
       "published": "2026-09-23T11:47:00+00:00",
-      "summary": "New AI tool predicts hydrogen positions to speed up drug discovery&nbsp;&nbsp;news-medical.net",
+      "summary": "New AI tool predicts hydrogen positions to speed up drug discovery&nbsp;&nbsp;News-Medical",
       "sources": [
         {
-          "name": "news-medical.net",
+          "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdzI3U2h5OGxhYzZoUzZUMUFpNnNJa2E2aDF2WEgwT1lZc2NaalgteWdRV2pwSFlHOGthdVMtX0ZlUHItM0Y3N3lMcm02MlZiWUlKQzRhSUUzTUd0Z19DQ3JIOW1pdGx4U25GRl9vcG5ScHMweGdrLUk4b3FYV0RHODlFNzlfRDJPZmlsOFFaZjk5SW03N0xpNjRhX3h2cHpGcFhvSWFoNVZ0TDFjVk1Lc0Z3Zng?oc=5"
         }
       ]
@@ -390,6 +438,18 @@
       ]
     },
     {
+      "id": "34554b59ceb5",
+      "title": "Daily Quiz | The discovery of Neptune - The Hindu",
+      "published": "2026-09-23T11:30:00+00:00",
+      "summary": "Daily Quiz | The discovery of Neptune&nbsp;&nbsp;The HinduNeptune Was Discovered 180 Years Ago, but the Planet Still Hasn’t Celebrated Its 2nd Birthday&nbsp;&nbsp;People.comNeptune Turns 180, Nearest Earth on Sept 26&nbsp;&nbsp;srpske.rs",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdW96TG03STNtUnBnX2JiaE9iVFdGeHMxQXo0XzJaVWlQQ1ZpUzd2cUtyZ0YyUE1NUGswSWVLVlNydU1MQ1VPMUVvRXV5VFk5UGlNalZ0TFRKNXdXRG5YaFhaRmw5bkgzYVRrRnJVcWpsVEFZVUcwVW41X1V1dDZWcTdLN1BQb05oQVVmem5lczdwY1c2ZDlkQTZKYUhHZ9IBpAFBVV95cUxNUW5OUVE5clh5dzE3MzVEZHl6ZVFMRFVGNXZFcTdTMVFTZnI1eHhpSWMxcFZUMDRvSDNvU1ZkTVYtbjAta2UtUWY3emltd0pldFRyUHZlZVBhTjFHY0M0UUFYeEZnNTl5TTNzUFgtMkRFMVE2ZVJHN1pjc1FFQnhQLVpOdVdBa3AxVDQ5cVl1cHdMZE1PTTdaQnQ4MDJScnBqWFNMaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8315d275e084",
       "title": "Study Links AI BMD Assessment on Chest CT to Faster Cognitive Decline and White Matter Changes on Brain MRI - diagnosticimaging.com",
       "published": "2026-09-23T11:18:06+00:00",
@@ -398,6 +458,18 @@
         {
           "name": "diagnosticimaging.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3R0eENGdm8xaGRPMENGZlptUU10MGd2dG5hMTItbWp2RThvXzBqZkxUOWF6bGt2ZXZUUEdSU1hHcjZUMGFJTTZMajU1dGZGM0xDNU9vczV1aWVFYWx4U1V3dGRpZzJjby1ncGFvVkEwd2p4a0o2bjJCaHJGVjB0Q1lBM1NmZjNhbkdPVERKSVVLNW8yNnlXSzdwZmhLaTRKVFZSQjRBU3p2d1p0NUR3WWtZYmEtYm4wZkR4Y0E3WVpkQWZZWEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6afe7cf0fdfe",
+      "title": "Wildfire Smoke Linked to Poorer Lung Cancer Survival - EMJ",
+      "published": "2026-09-23T11:03:23+00:00",
+      "summary": "Wildfire Smoke Linked to Poorer Lung Cancer Survival&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNelMzcWgzM3p1V1RWam5wU1BqemNHdEZfOFhUUmNGRTJQbHVYX2F4V1JmYmtveWw3dFg4Y1RleXpVSjZ0WWNFb2wxamZXTHdiYXBZYkVJSkNiN2RuWjRkTjlMSnlEUzJka1FHbWRGTjV2ZkZDMjByTUNaOG9Lc1BMNlV5dG1KTWE4NzVnVXIwd3BYNkJ4ZVRKYXpR?oc=5"
         }
       ]
     },
@@ -441,7 +513,7 @@
       "id": "bb517cb1b9e9",
       "title": "In 2013, astronomers discovered two rings around 250-km-wide Chariklo; nine years later, James Webb found - The Times of India",
       "published": "2026-09-23T09:41:00+00:00",
-      "summary": "In 2013, astronomers discovered two rings around 250-km-wide Chariklo; nine years later, James Webb found&nbsp;&nbsp;The Times of IndiaJames Webb Space Telescope Reveals an Unexpected Discovery About the Rings of a Strange Celestial Centaur&nbsp;&nbsp;The Debrief",
+      "summary": "In 2013, astronomers discovered two rings around 250-km-wide Chariklo; nine years later, James Webb found&nbsp;&nbsp;The Times of IndiaJWST finds evidence that Chariklo’s rings are changing faster than astronomers expected&nbsp;&nbsp;The Brighter Side of NewsJames Webb Space Telescope Reveals an Unexpected Discovery About the Rings of a Strange Celestial Centaur&nbsp;&nbsp;The Debrief",
       "sources": [
         {
           "name": "The Times of India",
@@ -458,6 +530,18 @@
         {
           "name": "expresshealthcare.in",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRkRQTV9VXzhpR2RjVXQwUFdscXJBc3FjUHptckZMc3BKNHZCYS1DaUpreUlLalpDUDllMko0NmY3Vmk0TV9CTV9nMmw0ZzBlUV9tOTUySzJ2R3J0SFZUd2NDLW5BSWJGcWxKVFBRajRvSTYyZmh1dWRuY0Q5WWk3XzlHRWdnOVhWVnc1d1JrbVZRb3dVb2xtU0NSeUNhX2dxaXc0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "38da18919fe9",
+      "title": "Newborn girls spend more time looking at human face compared to boys: Study - DT Next",
+      "published": "2026-09-23T09:13:38+00:00",
+      "summary": "Newborn girls spend more time looking at human face compared to boys: Study&nbsp;&nbsp;DT NextSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "DT Next",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1IxcEk3QUZVR1JhMkFvYUNsOHE4RlZrLXp3ZVlkOVNLN01SSEhZQlBWcWFWZHFqUzl0RkMtbEJmNll6QkxXeEx2WExia1M5bllwZU1MX2NQRDRSbndpMjZSMl9XWVZmdUpIZ1o4RlJEUG5DU0ZqeWRnVUthQ1dCUVJlNVZYc3p4MlNIQTZRU2xpLXZMZTJEbS12WUZ3WjFFSTZUSEkzVGs3d9IBtwFBVV95cUxNNjBpS042VVdqQ1lmM1BQcGp3LVhBZnpvQVJtOWFWTnBlYmJzV05ESWlrNV9ncURHa0N3dFBNWkl1aFY3NWJnMllObTdlNEhkaWZpQ3FQeGhMeDlzT0NNWEpmeDYyR0JkNmx5UGVzMEZmOFZGMTJ6RGRPLWJKZEJ1SFo3VGJ6aGRXbXVHXzNQZUZmMzdGMi1RTjNabzJVenZ6QTNucVVvdnIwMXlRMllWV1NFREh1clE?oc=5"
         }
       ]
     },
@@ -513,7 +597,7 @@
       "id": "ebed7fe0a95e",
       "title": "From Development to Flight: PI’s Motion Technology Supports NASA's Roman Space Telescope - AZoNano",
       "published": "2026-09-23T05:00:00+00:00",
-      "summary": "From Development to Flight: PI’s Motion Technology Supports NASA's Roman Space Telescope&nbsp;&nbsp;AZoNanoWhat are you most excited for NASA's Roman Space Telescope to find?&nbsp;&nbsp;Live ScienceStudents look toward new era of astronomy&nbsp;&nbsp;Nevada AppealBaylor professor takes leading role in NASA telescope mission&nbsp;&nbsp;The Baylor LariatRevolutionary Roman Observatory Starts Testing Its Instruments – And Will Operate For Twice As Long Thanks To Incredible Fuel-Saving Maneuver&nbsp",
+      "summary": "From Development to Flight: PI’s Motion Technology Supports NASA's Roman Space Telescope&nbsp;&nbsp;AZoNanoWhat are you most excited for NASA's Roman Space Telescope to find?&nbsp;&nbsp;livescience.comStudents look toward new era of astronomy&nbsp;&nbsp;Nevada AppealBaylor professor takes leading role in NASA telescope mission&nbsp;&nbsp;The Baylor LariatRevolutionary Roman Observatory Starts Testing Its Instruments – And Will Operate For Twice As Long Thanks To Incredible Fuel-Saving Maneuver&n",
       "sources": [
         {
           "name": "AZoNano",
@@ -534,13 +618,13 @@
       ]
     },
     {
-      "id": "542be1d62246",
-      "title": "What links smoking, body fat, mental health, genes, and heart risk? Inflammation may be part of the answer - news-medical.net",
+      "id": "2c4f6fbf5d5f",
+      "title": "What links smoking, body fat, mental health, genes, and heart risk? Inflammation may be part of the answer - News-Medical",
       "published": "2026-09-23T04:15:00+00:00",
-      "summary": "What links smoking, body fat, mental health, genes, and heart risk? Inflammation may be part of the answer&nbsp;&nbsp;news-medical.netConstant stress, chronic inflammation could cause structural changes to heart: Study&nbsp;&nbsp;ET HealthWorldDaily Stress May Drive Lasting Structural Changes in Your Heart, Increasing Stroke Risk&nbsp;&nbsp;ScienceAlertLee (42), an office worker, recently heard absurd stories during a medical examination. There was no..&nbsp;&nbsp;매일경제Chronic Stress Increases Fa",
+      "summary": "What links smoking, body fat, mental health, genes, and heart risk? Inflammation may be part of the answer&nbsp;&nbsp;News-MedicalConstant stress, chronic inflammation could cause structural changes to heart: Study&nbsp;&nbsp;ET HealthWorldDaily Stress May Drive Lasting Structural Changes in Your Heart, Increasing Stroke Risk&nbsp;&nbsp;ScienceAlertLee (42), an office worker, recently heard absurd stories during a medical examination. There was no..&nbsp;&nbsp;매일경제Chronic Stress Increases Fat St",
       "sources": [
         {
-          "name": "news-medical.net",
+          "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3aUJGQlFfOTh5ZG5xVklTMHR0dkRpVUQzQlpyQ2gwTDBsMkNiSzNDZHhqdGR0SEswcGJsS0JhNV83VTVhSDJ1R1FZY1FHTWdBa3hRZWo0YW5ZdUd0M3RQLVBWVlU2VDlHMDZ6LTNlaGVGSFdHdUVSVWJGNHh5cUx2dWlkMmtHVG54OVkyWUhzQWpZeHRpaFlSaDB1eFFsaTVSa2tjMFVHd0xwTnRGb1FrWGtRZkNzWU9COWlvV2NNRTFmQTRjWnlPNUxDVENNOWM5ZWZoZnBnbjNTUkdMLUVuRQ?oc=5"
         }
       ]
@@ -561,7 +645,7 @@
       "id": "3015f3f30aca",
       "title": "High Intake of Eggs, Peanuts in Pregnancy Does Not Lower Allergy Risk - Clinical Advisor",
       "published": "2026-09-23T04:00:00+00:00",
-      "summary": "High Intake of Eggs, Peanuts in Pregnancy Does Not Lower Allergy Risk&nbsp;&nbsp;Clinical AdvisorCan maternal diet prevent infant food allergy? A large trial puts eggs and peanuts to the test&nbsp;&nbsp;news-medical.netEating Eggs, Peanuts As A Pregnant Mother Prevents Allergies In Baby? Study Says No&nbsp;&nbsp;News18Mom's Extra Egg, Peanut Intake Doesn't Reduce Baby's Allergy Risk&nbsp;&nbsp;MedPage TodayHigh maternal egg-peanut intake not associated with reduced infant allergy&nbsp;&nbsp;2 Mi",
+      "summary": "High Intake of Eggs, Peanuts in Pregnancy Does Not Lower Allergy Risk&nbsp;&nbsp;Clinical AdvisorCan maternal diet prevent infant food allergy? A large trial puts eggs and peanuts to the test&nbsp;&nbsp;News-MedicalEating Eggs, Peanuts As A Pregnant Mother Prevents Allergies In Baby? Study Says No&nbsp;&nbsp;News18High maternal egg-peanut intake not associated with reduced infant allergy&nbsp;&nbsp;2 Minute Medicine",
       "sources": [
         {
           "name": "Clinical Advisor",
@@ -570,14 +654,14 @@
       ]
     },
     {
-      "id": "0b2514559ceb",
-      "title": "Genetics, Diabetes Tied to MASLD-Associated Cirrhosis Before Age 50 - Gastroenterology Advisor",
+      "id": "54f629f6eda1",
+      "title": "COVID-19 Vaccination Remains Crucial for Immunocompromised Individuals - pulmonologyadvisor.com",
       "published": "2026-09-23T04:00:00+00:00",
-      "summary": "Genetics, Diabetes Tied to MASLD-Associated Cirrhosis Before Age 50&nbsp;&nbsp;Gastroenterology Advisor1 in 4 People With Cirrhosis Due to Fatty Liver Disease Are Under Age 50&nbsp;&nbsp;hepmag.comExhaustion, hunger, brain fog & skin clue… 1 in 4 suffer little-known but 'cancer-causing' disease blamed on ‘mid-life’&nbsp;&nbsp;thesun.co.ukUCSD researchers learn why young adults may have early-onset liver disease&nbsp;&nbsp;fox5sandiego.comResearchers Identify the Risk Factors for MASLD Cirrhosis ",
+      "summary": "COVID-19 Vaccination Remains Crucial for Immunocompromised Individuals&nbsp;&nbsp;pulmonologyadvisor.comSystematic Review Finds COVID-19 Vaccines Reduce Severe Outcomes&nbsp;&nbsp;Consultant360New meta-analysis confirms effectiveness of COVID-19 vaccinations&nbsp;&nbsp;SubstackBooster Vaccines Cut COVID-19 Hospitalisations in Rheumatic Disease&nbsp;&nbsp;EMJUpdated COVID-19 Vaccine Beneficial for Those With Autoimmune Rheumatic Disease&nbsp;&nbsp;Dermatology Advisor",
       "sources": [
         {
-          "name": "Gastroenterology Advisor",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5"
+          "name": "pulmonologyadvisor.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWdkeUJjRV8yUE1FcXhCT2lMRzE3SDZmNnRubGE2YlBKRFByYUtXQTVVaVBOOUVGMVk1NzJmV1ZvcTVFZ0g3bloxc0hkSXdib05SX0YyQkdkM1ZJNlZGSGVmem1Qc1JVb3IxUU43aU42cHA5UFJMX0RRSnZnVXVoZlJ2dzJSaWc5OWNGb3B1ZTQ?oc=5"
         }
       ]
     },
@@ -585,7 +669,7 @@
       "id": "13be5d5a1622",
       "title": "The Solar System chose fire over ice from the very beginning - ScienceDaily",
       "published": "2026-09-23T03:08:05+00:00",
-      "summary": "The Solar System chose fire over ice from the very beginning&nbsp;&nbsp;ScienceDailyEarly Solar System space rocks had up to 92% rocky chondrules as natural sorting separated them from ice-rich dust; new study finds&nbsp;&nbsp;The Times of IndiaSolar system built its first bodies from fire, not ice&nbsp;&nbsp;LabrootsIce was abundant in the young solar system, but the first worlds formed almost without it&nbsp;&nbsp;Earth.comPlanetesimal compositions governed by aerodynamic sorting from the onse",
+      "summary": "The Solar System chose fire over ice from the very beginning&nbsp;&nbsp;ScienceDailyEarly Solar System space rocks had up to 92% rocky chondrules as natural sorting separated them from ice-rich dust; new study finds&nbsp;&nbsp;The Times of IndiaSolar system built its first bodies from fire, not ice&nbsp;&nbsp;labroots.comIce was abundant in the young solar system, but the first worlds formed almost without it&nbsp;&nbsp;Earth.comPlanetesimal compositions governed by aerodynamic sorting from the ",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -609,7 +693,7 @@
       "id": "a689aa48428f",
       "title": "In a culture obsessed with staying young, we ignore the many benefits of ageing - The Conversation",
       "published": "2026-09-22T23:55:46+00:00",
-      "summary": "In a culture obsessed with staying young, we ignore the many benefits of ageing&nbsp;&nbsp;The ConversationTHE ROOT OF ALL AGEING | BBC Science Focus - science&nbsp;&nbsp;MagzterThe Aging Brain Is Not Declining. It’s Adapting&nbsp;&nbsp;Association for Psychological Science",
+      "summary": "In a culture obsessed with staying young, we ignore the many benefits of ageing&nbsp;&nbsp;The ConversationThe Aging Brain Is Not Declining. It’s Adapting&nbsp;&nbsp;psychologicalscience.orgIn a culture obsessed with staying young, we ignore the many benefits of aging&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "The Conversation",
@@ -621,7 +705,7 @@
       "id": "a694cf9b8de8",
       "title": "Taking care of grandchildren may be good for the brain - Mumbai Mirror",
       "published": "2026-09-22T22:30:00+00:00",
-      "summary": "Taking care of grandchildren may be good for the brain&nbsp;&nbsp;Mumbai MirrorColumn | Taking care of grandchildren may help slow cognitive decline&nbsp;&nbsp;washingtonpost.comThe Benefits of Multi-Generational Family Support&nbsp;&nbsp;Psychology TodayGary Martin: Grandparent therapy may be just what the doctor ordered&nbsp;&nbsp;The West Australian",
+      "summary": "Taking care of grandchildren may be good for the brain&nbsp;&nbsp;Mumbai MirrorColumn | Taking care of grandchildren may help slow cognitive decline&nbsp;&nbsp;The Washington PostThe Benefits of Multi-Generational Family Support&nbsp;&nbsp;Psychology TodayGary Martin: Grandparent therapy may be just what the doctor ordered&nbsp;&nbsp;The West Australian",
       "sources": [
         {
           "name": "Mumbai Mirror",
@@ -645,7 +729,7 @@
       "id": "adec0e6d3f41",
       "title": "Q&A: Sameena Rahman, MD, on digital symptom tracking in PMOS - Contemporary OB/GYN",
       "published": "2026-09-22T19:13:19+00:00",
-      "summary": "Q&amp;A: Sameena Rahman, MD, on digital symptom tracking in PMOS&nbsp;&nbsp;Contemporary OB/GYNMore Than a New Name - How PMOS Reframes Clinical Care... PCOS Awareness Month Special - Dr Neeta R....&nbsp;&nbsp;Medical DialoguesHealth experts stress lifestyle changes as PMOS affects ‘half of Pakistani women’&nbsp;&nbsp;DawnCan PMOS symptoms change with age? Doctor explains signs in your 20s, 30s and 40s&nbsp;&nbsp;Hindustan TimesSome influencers are making people believe that ‘PMOS’ can be cured,",
+      "summary": "Q&amp;A: Sameena Rahman, MD, on digital symptom tracking in PMOS&nbsp;&nbsp;Contemporary OB/GYNMore Than a New Name - How PMOS Reframes Clinical Care... PCOS Awareness Month Special - Dr Neeta R....&nbsp;&nbsp;Medical DialoguesHealth experts stress lifestyle changes as PMOS affects ‘half of Pakistani women’&nbsp;&nbsp;DawnCan PMOS symptoms change with age? Doctor explains signs in your 20s, 30s and 40s&nbsp;&nbsp;Hindustan TimesPCOS gets a new name, new focus amid Awareness Month&nbsp;&nbsp;Mank",
       "sources": [
         {
           "name": "Contemporary OB/GYN",
@@ -666,38 +750,26 @@
       ]
     },
     {
-      "id": "7ff69f22227d",
-      "title": "Planetary crisis heightens global inequality of health opportunities - news-medical.net",
-      "published": "2026-09-22T17:27:00+00:00",
-      "summary": "Planetary crisis heightens global inequality of health opportunities&nbsp;&nbsp;news-medical.net",
-      "sources": [
-        {
-          "name": "news-medical.net",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc09oNDc5bkVpamItVVRuYnNQTUF4Y01jQ3ZDWnNzR3lSUFloeXUyeTR3bzNwS1FNQmwya0RkREI2MWk4QTZyZkhNNjRFX3FwY3N2c3pSSXZYeHZFbWNUSmpFUnFOa2I0MldZRjZTV19CN0kwUnNsMW9iMUNxbWRZNEE0bGpjSVVZUGJ5eTcwbHVXQ0oybmhkTDY4YzI4VjMzUXU1SnE5Y3dkc3BmSzhxSTVjWGkyOEk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a14af19cce95",
-      "title": "KAIST researchers develop NUDGE technology to steer cell fate - news-medical.net",
+      "id": "759ed610af64",
+      "title": "KAIST researchers develop NUDGE technology to steer cell fate - News-Medical",
       "published": "2026-09-22T17:18:00+00:00",
-      "summary": "KAIST researchers develop NUDGE technology to steer cell fate&nbsp;&nbsp;news-medical.net",
+      "summary": "KAIST researchers develop NUDGE technology to steer cell fate&nbsp;&nbsp;News-Medical",
       "sources": [
         {
-          "name": "news-medical.net",
+          "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWF1UEJOdk1uZXJUc0U4dnBwTER0d2NVbEJ6T3pSWm5vRGJEVGNuNFMtSll2VFB1d2FyS3VSazhkT2ZodWdIbkJ0RlNJeWJpUVNKX0M0WnBQTlF2anB3TDBPcXNaelFOX0JhZDdXRGJvTHNwRnB3eUlqTWM2cmlsa0dYYzk2eEFIa2M4aVJIWV9vOTR0QWVtWGh2VWdWZGtMcXNXbWlINXlOOHR2N2c?oc=5"
         }
       ]
     },
     {
-      "id": "45178fbfb8cb",
-      "title": "Inside DRC’s High-Stakes Test of Ervebo Against Bundibugyo Ebola - Devdiscourse",
-      "published": "2026-09-22T16:39:30+00:00",
-      "summary": "Inside DRC’s High-Stakes Test of Ervebo Against Bundibugyo Ebola&nbsp;&nbsp;DevdiscourseCongo begins Ebola vaccinations for health workers in epicentre of outbreak&nbsp;&nbsp;ET HealthWorldEbola vaccine trial begins in DR Congo&nbsp;&nbsp;UN NewsEvaluating Ebola Vaccine Against Current Bundibugyo Species&nbsp;&nbsp;Contagion LiveDR Congo tarts Ebola Vaccine Trial in Ituri&nbsp;&nbsp;APAnews - Agence de Presse Africaine",
+      "id": "2a9fb7ee9989",
+      "title": "Evaluating Ebola Vaccine Against Current Bundibugyo Species - Contagion Live",
+      "published": "2026-09-22T14:54:29+00:00",
+      "summary": "Evaluating Ebola Vaccine Against Current Bundibugyo Species&nbsp;&nbsp;Contagion LiveCongo begins Ebola vaccinations for health workers in epicentre of outbreak&nbsp;&nbsp;ET HealthWorldEU sends experts to Congo as Ebola outbreak continues; Congo receives vaccines for clinical trials&nbsp;&nbsp;Euronews.comDR Congo tarts Ebola Vaccine Trial in Ituri&nbsp;&nbsp;APAnews - Agence de Presse AfricaineCongo Tests Existing Ebola Vaccine Against the Rare Bundibugyo Virus as Cases Pass 7,600 and Deaths N",
       "sources": [
         {
-          "name": "Devdiscourse",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkJHbm1FVW9jSXIwVEQzelVUelpoWXF6VTlGdFBYZnZzRlhXR1ZENDlSRGJIbWpVU19rcjFFU2QxOHFuUExYSzFwQ3FHeklscG5UUjJfajlLNmcwZWdyV19mLWt2VE55R25ycWw1akc5cVBuRlBtVXhKV21CUTZacE1hWDBHZU9EWTlhemJHNG5Vc3NiaHpvVGtBR0c1SGlaTEYtN3g0WVhqeE5lVDdsNVlJRGR3Z9IBuwFBVV95cUxOYUh0aTNUVmRSeXBtQ0dXZjVHSlNSb2l3VjVMenZwWjhHaFNPX0RrUUc5UEVpb1dNNHRyMU1ORDZVYWpFcUpKUEE4QTE4X3pLWEtnVnFiSTB5WTRaREhxak1NR2ZjR3U5amt5Z0dlTk9qeGtnVlpaVTlYMWtTVXluUnJ6QlJvREhPejV5VTRWTTJQdGJNQnIwM2xvLWJOOGI5Zkcxb1I5Yl9lZWJZRTZmbTVvV0tZTFJvMTZB?oc=5"
+          "name": "Contagion Live",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWWpmU090cEZ6N1NFTXowU2pld001VHR6SHhwVFpBcTRpdDlQTW5uRGc4QWZFY0c4WFFYNkVrSU42UHE3ajBkdFg1MW1tYVN0YnNRQXF1bGFIeUtmdmYxUTRJLUsyeVFUUFZPWGdvM1hTR2xwdEt5NlFsOE1XS1E3Ty0zWnA2RmNJcjVEbXMtMG14bHVMcVE4YXZn?oc=5"
         }
       ]
     },
@@ -726,13 +798,13 @@
       ]
     },
     {
-      "id": "118370d4a673",
-      "title": "Hot Drinks Tied to Esophageal Cancer. Should Patients Worry? - Medscape",
+      "id": "d32c28cc8b3d",
+      "title": "Hot Drinks Tied to Esophageal Cancer. Should Patients Worry? - medscape.com",
       "published": "2026-09-22T12:32:10+00:00",
-      "summary": "Hot Drinks Tied to Esophageal Cancer. Should Patients Worry?&nbsp;&nbsp;Medscape",
+      "summary": "Hot Drinks Tied to Esophageal Cancer. Should Patients Worry?&nbsp;&nbsp;medscape.com",
       "sources": [
         {
-          "name": "Medscape",
+          "name": "medscape.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0RJdFBwYWdsekduTDk4NWRvUWo5Mkd2QTQwaU9KYVpFYnRCa3h1YTVhcHhLQ0xZeGJnMWFSQlZURmNMaVAzOHZZdmZxZ3Y1NnQyMW1kaVFHMHFCemNQMjhRY3ZpOGd0dHQ1cVpYZjlRQzN5WEZLeU14Nm1WS2U2OW1FNzZJcTgtdnhlbFMyNnZ3aDdmTEMxdktybzZJNUhOOTVLTzlyRUc?oc=5"
         }
       ]
@@ -774,18 +846,6 @@
       ]
     },
     {
-      "id": "e5bda250642e",
-      "title": "Newborn girls spend more time looking at human face compared to boys: Study - Daily Excelsior",
-      "published": "2026-09-22T11:37:25+00:00",
-      "summary": "Newborn girls spend more time looking at human face compared to boys: Study&nbsp;&nbsp;Daily ExcelsiorSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "Daily Excelsior",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3F2T0Z6SnBncWlUdlBaQndoTGwyRDFTZmRIbm81Mk0xb3oza2d3SmZBVHBOU1Rnc3k2aXVOVkgyQTU3VU5idUZMMVNNQm03UjlWX2QyUmR3VVZQckc5d3lPdTVZd0N2QnN0TzlkRkUwM284cVdsN1NuTGtDZU9Ya3RsT0FuZ2p4WUN2YlBtZE9jQ2JTOTlPLWZJcm04V3p2dGhablAxOVB0UdIBrgFBVV95cUxPU3Rvam0xMjFUOWloeGdfaVNiZHJLLXBxQmgyNGhaNjFxSDRpSkxtQWlIdnBOUEFHT09XMkNLRzNTT3FMRWhTaE5HYXU5RWxPOU02VkdWLWhJdnpqVWU5RDEwbnF5cXQwWnhMRkNJM3cwbXpsdXVyZzJlZUU0bkpzMVYwZUNMYUVMdm5tS3JBYXBFRlF1c2pIWi02TWJVcFZfdUR3WGpDZld0TFpuT1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b8014ce12ca9",
       "title": "Before CRISPR, there might have been VIPR. It could be a new gene-editing tool - ThePrint",
       "published": "2026-09-22T11:20:43+00:00",
@@ -813,7 +873,7 @@
       "id": "f297cd6aeb2c",
       "title": "Blood Biomarkers and AI Imaging Reshape the Path to Earlier Alzheimer's Diagnosis, Experts at Mahajan Imaging & Labs Say - eHealth Magazine",
       "published": "2026-09-22T10:49:27+00:00",
-      "summary": "Blood Biomarkers and AI Imaging Reshape the Path to Earlier Alzheimer's Diagnosis, Experts at Mahajan Imaging & Labs Say&nbsp;&nbsp;eHealth MagazineWho Should Get a Blood Test for Alzheimer's Disease?&nbsp;&nbsp;Time MagazineBlood and gene test combo forecasts Alzheimer’s symptoms years before onset, suggests research&nbsp;&nbsp;Medical DialoguesAdvanced Diagnostics for Earlier Alzheimer’s Detection&nbsp;&nbsp;Voice of HealthcareStudy measuring changes in protein structure establishes new class ",
+      "summary": "Blood Biomarkers and AI Imaging Reshape the Path to Earlier Alzheimer's Diagnosis, Experts at Mahajan Imaging & Labs Say&nbsp;&nbsp;eHealth MagazineAlzheimer’s blood tests are advancing diagnosis. What can they really tell us?&nbsp;&nbsp;The HinduWho Should Get a Blood Test for Alzheimer's Disease?&nbsp;&nbsp;Time MagazineBlood and gene test combo forecasts Alzheimer’s symptoms years before onset, suggests research&nbsp;&nbsp;Medical DialoguesAdvanced Diagnostics for Earlier Alzheimer’s Detectio",
       "sources": [
         {
           "name": "eHealth Magazine",
@@ -822,10 +882,22 @@
       ]
     },
     {
+      "id": "602bcbd45e73",
+      "title": "One Sugary Drink A Day Can Lead To Higher Risk Of Stomach Cancer, Study Finds - Times Now",
+      "published": "2026-09-22T10:04:08+00:00",
+      "summary": "One Sugary Drink A Day Can Lead To Higher Risk Of Stomach Cancer, Study Finds&nbsp;&nbsp;Times NowOne sugary drink a day linked to more than double the risk of stomach cancer: Study&nbsp;&nbsp;Medical DialoguesSugary drinks stood out in this stomach cancer study, but diet drinks did not&nbsp;&nbsp;News-MedicalDaily Sugary Drink Consumption Doubles Risk of Gastric Cancer&nbsp;&nbsp;India News NetworkThink one sweet drink a day is harmless? Study raises stomach cancer concern&nbsp;&nbsp;Indiabloom",
+      "sources": [
+        {
+          "name": "Times Now",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0JJYmZCR21hblVLN09NNnVVS1RNdzBHenY2eDBjc3BzV0FrakY4ckNpSndhZktmRG1JZm5TX1JFdEFmRHFhSGt2TjFSU0hMTzJRa3dDTjlORVljelN2MDZTTWkwZlV6T1phZ0ZxSkZQV2dTQ1JGSndLU19MQjdxcVZMZXk2d2tqSjZhOFc0aURKSENLd0Z2OTI0SUR2T0JwTm5VMXAwcWNoa2lEWGJHQ0dxRmpQRWZzVGfSAb8BQVVfeXFMTlJFSUFvemV0aWFUMC11M1lXdzIwVWpZc2p6SzJXX2ZHQUJLaUJyZF9PVGNnbTlNN2RGNElZM3Z4c3RYSUZRbkRtNGROY0xfUWFCUklwS2xsWXZsazVBMU5yN1IwODNGc1FuNFNTaXVFc29qeDl3ekVWbTZfN3dZZFY5ajJic3E1eFBMbi1BVmh0WGwxZ0EtX1VSMFJ2eW5TZ2xvT3o0dGoyQi1yNWlycUg1RzQ3Qk93QUdpRFdqVUk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "abac53226837",
       "title": "Routine eye scan can reveal this heart condition years before it shows up in reports - Deccan Herald",
       "published": "2026-09-22T10:02:29+00:00",
-      "summary": "Routine eye scan can reveal this heart condition years before it shows up in reports&nbsp;&nbsp;Deccan HeraldLook into your eyes: Retinal changes may signal future heart risk&nbsp;&nbsp;Deccan HeraldThis New Change on Your Face Might Tell You Something About Your Heart Disease Risk&nbsp;&nbsp;Prevention",
+      "summary": "Routine eye scan can reveal this heart condition years before it shows up in reports&nbsp;&nbsp;Deccan HeraldLook into your eyes: Retinal changes may signal future heart risk&nbsp;&nbsp;Deccan HeraldThis New Change on Your Face Might Tell You Something About Your Heart Disease Risk&nbsp;&nbsp;prevention.com",
       "sources": [
         {
           "name": "Deccan Herald",
@@ -834,38 +906,14 @@
       ]
     },
     {
-      "id": "02416d62bcdb",
-      "title": "Revolutionary stRAMos™ SRS microscope launch by photothermal - news-medical.net",
-      "published": "2026-09-22T07:54:00+00:00",
-      "summary": "Revolutionary stRAMos™ SRS microscope launch by photothermal&nbsp;&nbsp;news-medical.net",
-      "sources": [
-        {
-          "name": "news-medical.net",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOZkVVa0lsM0d1enlJOS1iT040dWVVXzh3T2tDbjBxaGNLem5pLUtmX0xubW95LXE0eDlKMjBhZFNGSDBOM05QeDlmb3AyaXZZT1ZzdllTVWk1T2VNckxROGhVZnRRV0R4Q25tWFZkcV9kajRLRHM5ZS1XNXA3TVZxdU8wQVhjMldjMkJuSE9mUFNnMWVkbllfTV9kb0ZvdTBfTzhrazFtV3VnQUtKMVY2VnFGcGExNllxLWlWTm1IVERZSnkyd3E4aWVtcHJtekp4OTBTZDNlZ25vUkY1WnJ5cUZZNWNydjhrc0lhTmx1dGpRR2NuR1ZSSV81N05iamY4QWJLRzVxQllPNHFlNUotb1NiMGVTUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e04683f850bd",
       "title": "WHO pushes for more research into traditional medicine - Medical Buyer",
       "published": "2026-09-22T06:23:48+00:00",
-      "summary": "WHO pushes for more research into traditional medicine&nbsp;&nbsp;Medical BuyerWHO puts stroke, cancer, mental health on 10-year traditional medicine research agenda&nbsp;&nbsp;The Times of IndiaWHO publishes global research agenda on traditional, complementary and integrative medicine&nbsp;&nbsp;Pan American Health Organization (PAHO)Plan to integrate Sangomas into primary healthcare system in South Africa&nbsp;&nbsp;newsday.co.zaBillions Use Traditional Medicine: WHO Pushes to Close Research F",
+      "summary": "WHO pushes for more research into traditional medicine&nbsp;&nbsp;Medical BuyerWHO puts stroke, cancer, mental health on 10-year traditional medicine research agenda&nbsp;&nbsp;The Times of IndiaWHO publishes global research agenda on traditional, complementary and integrative medicine&nbsp;&nbsp;Pan American Health Organization (PAHO)Plan to integrate Sangomas into primary healthcare system in South Africa&nbsp;&nbsp;newsday.co.za",
       "sources": [
         {
           "name": "Medical Buyer",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenB3cDJqVEZ0eFRWNkRxLV81dUUzdWt2dDhwT0lTTVBtdUpnWnFtRnVtSkZMRUxNeXpkakZSRDd1RTZhZllGTV9hSnQzUlZxazlSSjhWdGp4XzJKOE1XNVdwUG9zWlVKendwekw0S2ZCUXZmcE56Q01VcWJvMFViVk9fUGpjUU1WZkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "968e73850ba1",
-      "title": "Daily Sugary Drink Consumption Doubles Risk of Gastric Cancer - India News Network",
-      "published": "2026-09-22T05:10:35+00:00",
-      "summary": "Daily Sugary Drink Consumption Doubles Risk of Gastric Cancer&nbsp;&nbsp;India News NetworkOne sugary drink a day linked to more than double the risk of stomach cancer: Study&nbsp;&nbsp;Medical DialoguesSugary drinks stood out in this stomach cancer study, but diet drinks did not&nbsp;&nbsp;news-medical.netThink one sweet drink a day is harmless? Study raises stomach cancer concern&nbsp;&nbsp;Indiablooms",
-      "sources": [
-        {
-          "name": "India News Network",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGU2Z1gxSDZ3bXZFOUUydWpnTmVsMU5lVmxaVlpKYUFxUzlDczhJVWtNZzF3bHFaa2w1VUxtUW1aX0ZvNEJ5T2RTM29EX2FzbXdzOTd6WEVlSlhXNGIySWgxTEwwQU82d081eTV3VXZQZ1A1OTlkbEFrakFuRElVVFdlcjZudXhSOV9kZ0ZORzVTYnJ2Vko2RElDMlJ4SklxT1dvTUp3?oc=5"
         }
       ]
     },
@@ -878,18 +926,6 @@
         {
           "name": "Dermatology Advisor",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZm9paXNSZkIwWGRJdkxKRUlaYUQzU21oNjVsSjZ5c2JZMlRoeHh2eE9yX1R4dlBXdHY3WmRhRVFHSjFyQkQ3Z2p3enl5NWJVQldtMUc4aFRjanZhRVhTS1d5U3U1RzlvdGg0YVdPclYtY0tSaEdEYjczdnVpVmhMMlhNUUxHWURYa2FPT2stRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cc4c1625daca",
-      "title": "People With ADHD Experience 50% More GI Symptoms - Gastroenterology Advisor",
-      "published": "2026-09-22T04:00:00+00:00",
-      "summary": "People With ADHD Experience 50% More GI Symptoms&nbsp;&nbsp;Gastroenterology AdvisorSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "Gastroenterology Advisor",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVR2OE02MWktcFdvQU90aDRBUFNDQ0pJZFotNFBSMkR0cmdTdWljRk1IR21hVnRjX3V3ZzZzSi13VXV0N1lCVTJMS0NlWkJMaUV1R25JNUhMdVMyVlZ5eHptcklkWjdTZVNuNUVBMEpXMTVRSGxfNXRhU0tiQUhURWhCMmZxTnFiTE9DM0JWTG81dzVqLUtoOA?oc=5"
         }
       ]
     },
@@ -918,50 +954,26 @@
       ]
     },
     {
-      "id": "4a7e6b47e226",
-      "title": "Did Venus devour its own moon? Study suggests it may have - NewsNation",
-      "published": "2026-09-22T00:09:22+00:00",
-      "summary": "Did Venus devour its own moon? Study suggests it may have&nbsp;&nbsp;NewsNationVenus ate its moon: How Earth's 'twin' could have swallowed a rocky satellite&nbsp;&nbsp;Phys.orgVenus may have swallowed a moon due to slow rotation — Cyprus Mail&nbsp;&nbsp;UA.NEWSDid Venus 'swallow' its own moon?&nbsp;&nbsp;BBCVenus might have swallowed its moon&nbsp;&nbsp;Universe Space Tech",
+      "id": "6526ccc837e4",
+      "title": "Bangladesh reports 87 dengue deaths in September; highest monthly toll this year - The Shillong Times",
+      "published": "2026-09-22T02:05:53+00:00",
+      "summary": "Bangladesh reports 87 dengue deaths in September; highest monthly toll this year&nbsp;&nbsp;The Shillong TimesBangladesh reports 87 dengue deaths in September, highest monthly toll this year&nbsp;&nbsp;China Daily Global EditionDengue deaths cross 200 as six die in 24 hours&nbsp;&nbsp;Jagonews24Dengue death toll crosses 200 this year&nbsp;&nbsp;daily-sun.comHealth officials report 1,872 fresh cases of dengue infection, 5 deaths overnight&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)",
       "sources": [
         {
-          "name": "NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rajVXbERtREE4NXhTd1A3Z3BYZUxPU1RqdjZGX09xVk9FaWVOUmVITTRWZ1BURlVEdThZdmNzUkdqakdXenFfN1F4RzJ4QVhwM2N4MWphRzR1ckdHSy1YYy1sY3U1bDBfa2QtVWpWSldqZ9IBd0FVX3lxTFA1WWNZY1VidF9TVDZkUVJHUlhJRENYYUQxalRwc0l1X1VFbTFtTkNPdUJIR0UwdFZPRUNORGR1WGZlTHkzNFhRZTB4YTg5ZXNlanBBbUNjMnJVdi1EY0gtRzhxcVkyLTVZNl80VFo3emxUMnVmazQ0?oc=5"
+          "name": "The Shillong Times",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmFXR3RTaGdMNHV1bjNnMlMzajQ0YUdrRWlsaVdJYlNnb2hiYk1ZR09uUzRYanpyWmQ2VUZraXdXZ09ZWGdka1dJNnl0NG5LaWh1LTNOcEJLM1VBUGpXdW1IMlN3NGtZaFhpaG1heHVja2RIMGpQNHhGc0g0d2pBb0V0Ykx0NTNUX0dXeXhrMDRaSG5QeHpaOE52UW5xMzZfNmRoUXJ1bUI4cUZ4a01sdWc2MFFmV1pQOGFGXw?oc=5"
         }
       ]
     },
     {
-      "id": "c52f3b888e09",
-      "title": "240-million-year-old ‘huge pig with a turtle’s beak’ discovered: All you need to know about Dinodontosaur - The Times of India",
-      "published": "2026-09-21T23:57:00+00:00",
-      "summary": "240-million-year-old ‘huge pig with a turtle’s beak’ discovered: All you need to know about Dinodontosaur&nbsp;&nbsp;The Times of India240-Million-Year-Old Fossil Discovery Challenges the Story of the First Dinosaurs&nbsp;&nbsp;SciTechDailyDinodontosaurus isiyavamanda: 240-million-year-old fossil from Tanzania&nbsp;&nbsp;BBCThis 240-Million-Year-Old Species Sat in a Drawer for 60 Years&nbsp;&nbsp;Yahoo",
+      "id": "31d031226c67",
+      "title": "Families provide dementia care. Why must they also be the air traffic controllers of the system? - The Conversation",
+      "published": "2026-09-21T15:46:14+00:00",
+      "summary": "Families provide dementia care. Why must they also be the air traffic controllers of the system?&nbsp;&nbsp;The ConversationExperts sound alarm with dementia care 'abandoned politically' in Canada&nbsp;&nbsp;Toronto Sun",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMHg3UVI2RGJMdDZiX3ltMElCcDlFOVcyUExmbWVVRk9GNXVaQlFXVkRMY0FGQUcyMEYtREN6MFFJbkphTWl0X284cXNWclNIeWlEaF9HUFpvWVBqYXNOQ1RHYVpwRFBubjRNRHN5aC16b2dLbGV2S3lRNFotTG9Tak5vVWJuMUw2eVpRSmxibmJlRDZsblkzSWtLRHlsZHBwdmJNY1FDWnA2eEV0ekNMeWYtV3pROEpQc3BhNGJzX3g0MEFWY2tpRm1fNzNMVjJaVHRaV3VxR0p4dlg3NU1ZMzNXWU1pRlUxWktmRTlQRlpFb2xOazV4ejdrT0MtaEJSdTNOVGY2VUp2RVFhaTA4VDVvQnMwb1NobHFxclNR0gGjAkFVX3lxTE9WdWdqbjVodjNHOHJRdUNwM2tKQmlTTFM1c0VYUm1VenBQdWc5d0pVeTJrdW9kdVBTbTVETjZtWDg4b1NBTFd5VzBLcFpKV1NDVDc2NFpCNGd2SHA4NVpzamJfM2xVLVpzTVd1ZDV5eFZOa2xMclN1am5GNHVfTHdiN2tqUThzMnAwRE5TMGdwVUJvQkZaOEZDeFdwZ294OGU3eWJlbkVvOWVVblYyTUlMcldMZE8wQml5WjJqa0lQVmh6bXNvWDZTVFhNcXFkRnowclNmRmhqYmtjZlpOellQVWhZOUtCMk9VWllxMm1hLUNkdU4wXy03WTJDYnM4RTZpNFA5dnpCQ1RIcmN1Q1UtN3JkYkVxME5TcHZlLUloSHlBaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0e8381b6b7cd",
-      "title": "A 222-Meter Moon Crater Formed Unnoticed—Its Cold Footprint Spans 7 Kilometers - quasa.io",
-      "published": "2026-09-21T23:34:00+00:00",
-      "summary": "A 222-Meter Moon Crater Formed Unnoticed—Its Cold Footprint Spans 7 Kilometers&nbsp;&nbsp;quasa.ioScientists discover largest new impact crater in the solar system ever—on our moon&nbsp;&nbsp;Scientific AmericanLunar orbiter spots ‘once-in-a-lifetime’ new crater on the moon&nbsp;&nbsp;CNNA NASA spacecraft just found a giant new crater on the moon. Here's why everyone's talking about the 'once-in-a-century' discovery&nbsp;&nbsp;SpaceScienceAdviser: Once-in-a-century crater discovered on the Moon ",
-      "sources": [
-        {
-          "name": "quasa.io",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2k3cmh5UXJrSnVSTVJNdlVZUzBBSnNMUkJGSldGLXZyZFRnMTRYdHFzQ0lSSURCYmY2QmVQZUpKVXJRUy1seEEzTExtYlBrY2tMZ0VGOVFUV0dZZzNpMTZOcHVGUjFmVWNrb1hqbzhBTndSN2p3YzZ1Mmx0TVNwckluYTVLeHM1NlNrSkd3TkNMM3VaZ0wxTmZZYkVINjdXeDBHRU85NA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5561a6da3e21",
-      "title": "High adolescent BMI linked to faster biological aging in adulthood - news-medical.net",
-      "published": "2026-09-21T12:57:00+00:00",
-      "summary": "High adolescent BMI linked to faster biological aging in adulthood&nbsp;&nbsp;news-medical.net",
-      "sources": [
-        {
-          "name": "news-medical.net",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlF4ODRmSEhmRlJsVWVNTjJxaTE2bm5DRWg5bjRGY1NQRUFFRnozSEhHU1QyWjlYUGpTZDBuTmZEX3hxT3lsdGtzanp0VnkxZ3lwNDJHc2Nzcloxdk54QmJmNDZTNkdnbVYtZEVjel9keTZ1eW41elhYYXU5NzZHSWFtU0VHanhCa1hkUVBvOXNPTno4WGp2aHNsUlZlY1daeTk2MGZlXzVPTTV3ektXLUxaOG0?oc=5"
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYlRHQ1BEYVZxSmNYcVFjcDBiRThnR2daVDE4alhlbkhOZzBKZlVvczIxbXdhZUFiYnRsZGtJM2RGVGhiRUN6U2hhM05sZzhDbTcxeG0tOHVQdE92SXZNb2JkQlVoRV9SVHg5Qy1HN3g0cE1mMC1zSzVKNUxhdW55LXNRaHJQWDdFMFQ2NHN2bFdKcEh0dlJYbEhCUzZoX2MzbzJVaHpDclVQMWV0TUtoWkxPT0ZxcmZDWDRfUnpZRTBMWGVBUE4zUA?oc=5"
         }
       ]
     },
@@ -978,37 +990,13 @@
       ]
     },
     {
-      "id": "78202160e974",
-      "title": "Keralam doctors selected to present research at UICC World Cancer Congress in Hong Kong - The Hindu",
-      "published": "2026-09-20T16:23:29+00:00",
-      "summary": "Keralam doctors selected to present research at UICC World Cancer Congress in Hong Kong&nbsp;&nbsp;The HinduIARC scientists to present latest research at the UICC World Cancer Congress 2026&nbsp;&nbsp;iarc.who.int",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObnRlM0ItTy02LUpQWEp0UElkZzdDMENsYnVwOFlXTDBkMHh2cUhPSDE1QkxjcG9vNTQ0a2tIcW14aHhQVzd3NElPQmlHNVhvZWtIN2RYT1ZXazJacF9HVmtJOVdqMTdSRGNCV2hUSk94cFRTNWtlek8xckg4aFhCajJMTEplbHE5ZnJvZkhpdV9VS3RkZ0hjRXBpbVZMYllpYU8tWVk1djBpSUNnNXg0Y1VUbUVza1RDclY3SVB1RDFYb2NRYm00bjRNdE9LdmRvTmw5WkMyWWtYbmxqdU0xZUllb0UzREVF0gHvAUFVX3lxTE13UXNWYWw1V3dCQWloRmNVY0t2MTBuVEVfU214YkRaNHBCblBFUjNIN2tyVy0yMERvWmEwbjUzX0VZa1k4NE54MXFrOXZpNUZ5bWVrWkQ0Tmx6RC12c1hRdDF1Mkc4cDBsQzd5ZVlucF9TVTZvUVhKanM4cTVWV3RLejRyZWFlT1ZESENhS0V1WGxRelVWNWh3QnhEX2tTZm5GakhHQVVxZ09hYXFIelZ5LUFqVlFwbWZvNHJMamxYcUZ5S0FJNGdteUhLUzJud2xXWkdjV25feldUVVBUUUloZzJiZE81elZ6MjFQVDJv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4d02baca0297",
-      "title": "Rabies concerns grow in the US – but it’s unclear if there’s an increase of the fatal disease - The Guardian",
-      "published": "2026-09-20T12:01:00+00:00",
-      "summary": "Rabies concerns grow in the US – but it’s unclear if there’s an increase of the fatal disease&nbsp;&nbsp;The GuardianHealth department shares bat advice&nbsp;&nbsp;The Maryville ForumLeigh’s Lost and Found Digital Extra: What to know about a recent rise in rabies cases&nbsp;&nbsp;KY3Rabies cases surge among Ventura County's bats. Officials urge caution around the animals&nbsp;&nbsp;KCLUFive questions about rising rabies cases&nbsp;&nbsp;The Grand Junction Daily Sentinel",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTVsdWtrOFJJWnE5VkIyb1dJQ1dvdWNGX2FmWXVmR2xSTExJTG1HeEJERXBIN2ZTSWdMamRRVFM1YTNRdTg5X3o1cVZuZi15N1FFWWRYU2hnMHJWZi04SU9EYTcwT21yMEIteUx4b0NGQUU0Y1hmV1B5SmM4TGl3WG5LUUZUVXQ0ZTNFeHIxaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "07afbdf5e38d",
-      "title": "In 2021, NASA sent 11 types of crop seeds outside the space station for 8 months; after their return, scie - economictimes.com",
+      "id": "88172fcdce20",
+      "title": "In 2021, NASA sent 11 types of crop seeds outside the space station for 8 months; after their return, scie - The Economic Times",
       "published": "2026-09-19T16:29:34+00:00",
-      "summary": "In 2021, NASA sent 11 types of crop seeds outside the space station for 8 months; after their return, scie&nbsp;&nbsp;economictimes.comCSUN Professor Receives NASA Grant for Space Agriculture Research&nbsp;&nbsp;MyNewsLA.com",
+      "summary": "In 2021, NASA sent 11 types of crop seeds outside the space station for 8 months; after their return, scie&nbsp;&nbsp;The Economic TimesCSUN Professor Receives NASA Grant for Space Agriculture Research&nbsp;&nbsp;MyNewsLA.com",
       "sources": [
         {
-          "name": "economictimes.com",
+          "name": "The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQakJBUnBQTGFMQUZ4WEdQM180NGk3ZHN1NlA2MnB5ZUUteHhMbUlKdFJDc0dmUUd1R2tKTXRNWC12MGNMYTYwRE02RDRDM2s3MVdMMjBIOVJZMlIwRXlpM2V1c2xMUm84OVhnc1dxbDV3Sk9OTTBtQklTNXFhNUtEY3o1dHpxUDFEWVdKMzlGRTN5NkxGaFNMandRZXJhUHJ4Y05uX1gydW9USTRSTmc4LUcxVlUxWksyUmt2Zy0ycUs1a2diU3YxdHdJVlYyVWx2b2tsWkxCSHlDTzYtY1Jid3BoZlZhR0dEcDZuclZUdklqYWJkODhEMkVDazJNandhNWFXcm1LYVRYcURoZXdBZWRoNmhfbm8xZlAtTXJDcmhMaURrRUluMmhRQ24zVGNPOENGZWxTdlMtM2QyaXgxenc4QzRnMWx3VWF6V2R5d08xeDJCSHfSAdsCQVVfeXFMTS1ZV1NfY3dlVFluYm01SWZoSGF2c2NhV3V4V3NMVS1abjNjSVNkQWJfMkdVQ09NSlFET3dOWjFIcWZPVkRyVktib3VzZ05CN19UN3doYk9nbDYzaWFjdkFvZ0hyLTIyUFAxVWJaTk80ckpPY2J0LUZjZkZLVmZ6djk5S3VydDV3UUJjY1dnb2dqLVotS0NYSG4wTldfY3B2NEVIN2tlSUF6M0cxUDBidE9QMEh0dG1yei1kZ1k4aXF6YVItQm80N2JwXzlHVGV0TlAwWmpWb2NzSTJfb2pnbVdySmVyV0ZUTnVjU3NIUW1RN2ctejkwRzNfZUw3SmFmdTRvSDEzRXAwd2dlSWtCdFZrMFhDTWJvWG1pNF9yTThjNWhCQmhsUmg2QkFnTi13MWY1cXNHMlBzNWN2b0tuRWxxbnN3em9BRFh5ekZiTW5iVlhtd0xhQ3hrRlU?oc=5"
         }
       ]
@@ -1017,11 +1005,23 @@
       "id": "c28809769825",
       "title": "Scientists solve mystery of black hole 'burps'; new study reveals when these cosmic objects launch powerf - The Times of India",
       "published": "2026-09-19T06:57:00+00:00",
-      "summary": "Scientists solve mystery of black hole 'burps'; new study reveals when these cosmic objects launch powerf&nbsp;&nbsp;The Times of IndiaA universal critical accretion rate for black hole jet formation&nbsp;&nbsp;NatureThe strange 2% rule: Why black holes suddenly switch on their powerful jets&nbsp;&nbsp;economictimes.com‘Very messy eaters’: scientists solve the mystery of when black holes ‘burp’&nbsp;&nbsp;The GuardianBlack holes of every size follow the same surprising rule&nbsp;&nbsp;ScienceDai",
+      "summary": "Scientists solve mystery of black hole 'burps'; new study reveals when these cosmic objects launch powerf&nbsp;&nbsp;The Times of IndiaA universal critical accretion rate for black hole jet formation&nbsp;&nbsp;NatureThe strange 2% rule: Why black holes suddenly switch on their powerful jets&nbsp;&nbsp;The Economic TimesBlack holes of every size follow the same surprising rule&nbsp;&nbsp;ScienceDaily‘Very messy eaters’: scientists solve the mystery of when black holes ‘burp’&nbsp;&nbsp;The Guard",
       "sources": [
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNXzFNX190SzFfV1pkd1gyYmctNkRYQnY0UG9XMnlvdlhYaVZ4ZkhlMnFRYTVNdHpJVDJYclRORHdjcVVKSEFBWTRndUR1dFU3ZkFPVW91dE12MmNid1ppX0xSRG41MFB6OVZhNFFxNUhNbFVYYXpJdDRmWjhKYmRPRFJvSHVVV2NrVWxDY2UxaWdMM1J6YTZDeDluTWdKS3JFR0pQR2lPeTk2cUg4UWJNZ0c3dHRQTmg1LVZrYUdYeTlUbWRwemI0N1dQeGw2M1NvTHprNDNsWFNKbWJGNzhCSldEeGxoWlp4RnpVMFVzUGYwR1psMVdROXZnYnZKVV9KcDlXYzREUWhTQjZOdDZrTW9tVnl2LXBKcUlZeWMxRnpqWnNvYV9PakZvUFjSAbICQVVfeXFMUFNCVHVVVjNXUlhubVFrWE9Hem03cHcxdEFxSHJCOHFZdlctNnZjSl8wbzBKb3ZONDdFY296OWpZVUJUQkt6UXZDSjdsb1c1SUc3U0JiYjJkUkE5UEpkRVppdS1WZ3YxZnZKSzNnSHhYTUZURTRHaEQtT0ZaYkRqLUNoY1ljQ0RLeHpWUGpCbkx1UEcxeVRJdkU0bEtEdUlmY2dwUTBJdmNmQ0JXUzB0Z1lnYU1XY0ZpU2l3UEhnZVg2Mkp0eEZVdlpHODNGU1JJWTFpY3VaRExLSy1pNHpad21XZ3c1T3dFVEktcjVubFZyLXZobDhMOXVOREE5RkNUVlBXUlk0N1BTUWl5a2ZOSi1GWXBjQ1lnUF9vM2tISThlZVg2ZndNTTVtNTNvU2RIQU93?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c82b5432f63",
+      "title": "Nasa mission: Newfound crater on moon is bigger than Roman Colosseum - DT Next",
+      "published": "2026-09-19T01:15:00+00:00",
+      "summary": "Nasa mission: Newfound crater on moon is bigger than Roman Colosseum&nbsp;&nbsp;DT NextLunar orbiter spots ‘once-in-a-lifetime’ new crater on the moon&nbsp;&nbsp;CNNScientists discover largest new impact crater in the solar system ever—on our moon&nbsp;&nbsp;Scientific AmericanA NASA spacecraft just found a giant new crater on the moon. Here's why everyone's talking about the 'once-in-a-century' discovery&nbsp;&nbsp;SpaceMcGetchin Crater&nbsp;&nbsp;The Planetary Society",
+      "sources": [
+        {
+          "name": "DT Next",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZnRBN1NEQm1SaFA3dWt3Z3hCdmZhZWFHN2lYTGR1VDFwS2tjM1VSZUFTdFE5TC1nYzdOX2RjV01hS2V3emtZN2hxcVlMZm5NMmN3S1VWdE0tRTdONjlJS3hQY3Q0V3dxdXZ5X1B5M0cyRFktaUNRMmtwMVhkTnR2MGVTZGZxTmJzRzBpT3RRQVdXNUhyLXRCa01n0gGnAUFVX3lxTE9iaXBnNHVFVkliY04tNkVzaGotelQ0SHI4aFZnRC05MGtPcS1hQm1vb09GdWhUeThtT1NjVy1NdzZmLUJLMU5LZ2JLU3J2RTRsc3l2SXdoVnJScVpQcG01c0JpMW1GcFBsampoaUplNnpscWx3UUJQNkc2OFlZTDMwTzBTeEtTbmRVeWQ3VmU4YnpoUWhEcW1rRTdVSlYzbDJSelVpeElZ?oc=5"
         }
       ]
     },
@@ -1038,14 +1038,50 @@
       ]
     },
     {
-      "id": "74d4aa10ce10",
-      "title": "Eight-weekly HIV injections prove more effective than daily tablets for young people - news-medical.net",
+      "id": "95a140d26cbe",
+      "title": "Eight-weekly HIV injections prove more effective than daily tablets for young people - News-Medical",
       "published": "2026-09-18T02:33:00+00:00",
-      "summary": "Eight-weekly HIV injections prove more effective than daily tablets for young people&nbsp;&nbsp;news-medical.netSee more headlines and perspectives on Google News",
+      "summary": "Eight-weekly HIV injections prove more effective than daily tablets for young people&nbsp;&nbsp;News-MedicalSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "news-medical.net",
+          "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbXF5Ty1LNUhTY3ExRjV3RUNaTlloamVzQVF4TXZIOVE0Y0xoZ0ZtWHdWX3d4QVNXZDFfSVBiRWdIYm5ZNUdDQ1U3dzRfdjVIVWtaUHNTMVl4UVBTal9BN1JrTFRkMmxWSm4yV1hESnZaa1B5TUNnYm9PWG95M0F0anVzcFQ0UGJfMTFqRl9GTjhlRmhoNHg1VDNDbmdoNlZYUHY4VVFjUWpYNzVwMWZuV3V2NVNRWVFmaEhtZnlfUzdtX2xXZGdyU3FoSE4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b25b8fa89ab1",
+      "title": "One partner’s poor sleep could change what both people eat, study finds - Moneycontrol.com",
+      "published": "2026-09-17T10:21:44+00:00",
+      "summary": "One partner’s poor sleep could change what both people eat, study finds&nbsp;&nbsp;Moneycontrol.comSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjA0bnM0UU5DNVpDN3puTy04REJCaUtKYWdoSndlbS1kdGRoUjk1bVdaM19XczlMcTd3SnZRWEo3T0k4VDgxTjN4eEMtWWJSb0ZJLWlrbGdCTmdfdHVPRUlfcmJtY0VzTmktTEdIWVJISGYyaENENnR0RVFwQTJGUjFOMnZLSzM3bkZ5ZXh2Q19ZNU9Rdk1MSTZyX01ZbGVISE9fVWRnQl8weFdCbUNiVUpQTUxPd3lUU3RObFV4MkxfMUnSAcgBQVVfeXFMTTNBR2d1X1dSVzhFQ2oxZ0RrZzRoUWRZX19oZ2hRQzlkdjM0N2hLNEVLN19FcWllTWtfRkVTcVo4OEFrbTVfaW5rdnVMclRQV0hVNFpsMmdUc2xTQnI3UUxqeER4UWw1aEE2SXFob0dSVUMwcmRnaVhxUnE2RUthY3pOSmtobm41T0JZVDJHUnpUWllsdWQwOFJkZldQQ2V6bzAxVDdENW1MbVNfSUFpejBWaGVjNmdPUGJiOGhvb2VLMk9JRkhBSXI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20713bb92604",
+      "title": "240-million-year-old bizarre 'pig with a tusk' creature creates new dilemma over origin of dinosaurs - WION",
+      "published": "2026-09-17T08:49:00+00:00",
+      "summary": "240-million-year-old bizarre 'pig with a tusk' creature creates new dilemma over origin of dinosaurs&nbsp;&nbsp;WION240-million-year-old ‘huge pig with a turtle’s beak’ discovered: All you need to know about Dinodontosaurus isiyavamanda&nbsp;&nbsp;The Times of India240-Million-Year-Old Fossil Discovery Challenges the Story of the First Dinosaurs&nbsp;&nbsp;SciTechDailyDinodontosaurus isiyavamanda: 240-million-year-old fossil from Tanzania&nbsp;&nbsp;BBCThis 240-Million-Year-Old Species Sat in a ",
+      "sources": [
+        {
+          "name": "WION",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPckpGRHZDMjVZRG1yYkxXeGhBcDE2R2pya0lEN3ZrZXFzT0s2am5zdFQwRHBoWEd2akgxSFBZenZvZFhTM0ZfU3lFb0c0YXBFajlQbGV4UXBfWU5KNHhzcHJRbFVXc29rNTNmZ1M1aHpQLUNCUURfeWtiV2N3ZDB3RTV4SnJWeHNmQTU4YmJlRjU1ZXdoRUhpNzMwQVhTazFCTWdTRl9jTnRGa0NfOTF2SzMzdVVUR1Zvb1huS0M3TnR4STZZaHFjdWdBNXpRNDFzNHJGcdIB2gFBVV95cUxONW50ZW93X0NwVXpUOXFzbi1uTW1jWEhSXzVpTHhDQ3paeTVvbGc4SzdmZVZIRUdBZVBreEo4a01uaVRxcFJrcDhBQWtDbGdPajNMYVR6U1JHV1FRS0Y5ZkN1bzZXdmlaUk5FZ19MdXVfTWQzTE5oWW5YUkN0UjJJNGlXWHdzdktoMnlJZnlsWkJFSUd3ZVBpSTFicjBlMVFKM0tsRF9GVTRzYUgxY2ZpTDlnQ3QwOU1FLWFPMHpLLXlCcVh6eWVQMGl3NVMxX19rUkM3VDRaVE9xQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa4895df667a",
+      "title": "Why Does Venus Have No Moon? Scientists May Have Solved The Mystery - NDTV",
+      "published": "2026-09-17T02:41:39+00:00",
+      "summary": "Why Does Venus Have No Moon? Scientists May Have Solved The Mystery&nbsp;&nbsp;NDTVVenus ate its moon: How Earth's 'twin' could have swallowed a rocky satellite&nbsp;&nbsp;Phys.orgVenus may have swallowed a moon due to slow rotation — Cyprus Mail&nbsp;&nbsp;UA.NEWSDid Venus devour its own moon? Study suggests it may have&nbsp;&nbsp;NewsNationDid Venus 'swallow' its own moon?&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcHJyQ3dSVjlfR1VWZnl2d1psbjZzcHlpYU1iVmZCYkpRUjBUTXM2b1l2Qml5MHhMRmpMbjc0TkxpQkU3Nl90NXpxZk9EUHRpUkNsX21FRnlqN2xMODNKVE80S0J2Rm9oNGdUN3BkSkU3dEdTWldQQzlxWERyOEc1UHRzM1A3OVFCZ29MRmJrUkdCM25SSWZqRTVmXzBianB4Yk11VUxLQdIBrwFBVV95cUxOYnpKOXRMNUdUS0YxblVNVjZ1TjN3cDE5OVFmalZVMVNGc0gzWkU2LUhOYTNSejNobUxtRzF1TndDUkdNWjYyVmF6Y2dEVndVckRXWm9XQXB0ZzU5Nkxxa0V4SWVHU0ZVZ3YtQ01YZXB2N0gwX3U3b1lwRmtPQ0JGMzFueVRpR1ZRQ185RV95TVpuMXBIWWZ6a010UVBuYk9USFZKUlM2ZzF4TEdQZXJF?oc=5"
         }
       ]
     }
