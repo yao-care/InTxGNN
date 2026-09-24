@@ -14,7 +14,7 @@ permalink: /news/doxapram/
 ---
 
 <p class="key-answer" data-question="What news is there about Doxapram?">
-<strong>Doxapram</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Doxapram</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Doxapram with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>vascular disease (100.0%)</li>
+<li class="indication-matched">vascular disease (100.0%)<span class="indication-tag">📰 vascular disease</span></li>
 <li>venous thoracic outlet syndrome (100.0%)</li>
 <li>arterial thoracic outlet syndrome (100.0%)</li>
 <li>angiodysplasia of stomach (100.0%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Doxapram with the latest hea
 <p><a href="{{ '/drugs/doxapram/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Air Pollution Damages Cellular Energy and Raises Heart Disease Risk](https://news.google.com/rss/articles/CBMizAFBVV95cUxQSHpjaUJqNkZuLTdUQXdBQnB6TmI2WGJqUXRaY1VKTE1aR200QWhZdEdTWk11WU1WWmw5WGc4YzN1Wl9aMlNqYldiSUVGbEloTXNVSTA3WjY3cHpiNnZ3S3Z0VG5PR3RsUFhjSWZuNHI1T3NsakU4VG5WRlJPaWVwUmI1d0o3cGlXaGt2emdmWmxYMGxiM1oxZUpwZ1VwOWFMamQ0bVBjSFNwUFZ1aFcybjFNZnR2djdsZnFIQ0MyRUY4T3daUWJobUhhNGQ?oc=5)
+
+2026-09-24 <span class="news-indication-tag">vascular disease</span>
+
+Source: [respiratory-therapy.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxQSHpjaUJqNkZuLTdUQXdBQnB6TmI2WGJqUXRaY1VKTE1aR200QWhZdEdTWk11WU1WWmw5WGc4YzN1Wl9aMlNqYldiSUVGbEloTXNVSTA3WjY3cHpiNnZ3S3Z0VG5PR3RsUFhjSWZuNHI1T3NsakU4VG5WRlJPaWVwUmI1d0o3cGlXaGt2emdmWmxYMGxiM1oxZUpwZ1VwOWFMamQ0bVBjSFNwUFZ1aFcybjFNZnR2djdsZnFIQ0MyRUY4T3daUWJobUhhNGQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
