@@ -37,19 +37,19 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 
 ## Related News (2)
 
-### [Healthy lungs vital for heart, brain and overall well-being: Experts](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUjN0S0ZTSFBmLVdCbTUtb0ltM3RGcTh3OS1IMHlhOURlOTZEVGVRRHROS3ZyV2xiOGtxdFpfUml3Q2FrTmJHbXB1bEM3dk5PcmZ2Y0tzQ2w4QTlPeEVBZFg3QXhJWTNHX1RwOHBJZ2paNGVIVmx0U3M1VGhHVmZzS3ZpbjZNUXJ3OVg2bTVqeElteGVWc05yeUJ6cDAzU2xLb19WRjRGSmhsWExsY1BHRlpjeHg1YndnVy1ZcHgxNzhTbjlfR0tjUklQQ1BVNnVYUk9lM3ZlSQ?oc=5)
-
-2026-09-24 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">COPD</span>
-
-Source: [timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUjN0S0ZTSFBmLVdCbTUtb0ltM3RGcTh3OS1IMHlhOURlOTZEVGVRRHROS3ZyV2xiOGtxdFpfUml3Q2FrTmJHbXB1bEM3dk5PcmZ2Y0tzQ2w4QTlPeEVBZFg3QXhJWTNHX1RwOHBJZ2paNGVIVmx0U3M1VGhHVmZzS3ZpbjZNUXJ3OVg2bTVqeElteGVWc05yeUJ6cDAzU2xLb19WRjRGSmhsWExsY1BHRlpjeHg1YndnVy1ZcHgxNzhTbjlfR0tjUklQQ1BVNnVYUk9lM3ZlSQ?oc=5)
-
----
-
-### [Painkillers for every ache? CDSCO warns of kidney risks, antibiotic misuse](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMXpTUkY5eG53S05wZ05VWk5TQ3hJTU5QTXVTTTZXVG10clhUcUozN1oxYlZMLW9jRk42V0pidFJiN09Wd2hJVnNvbFluc2xrdEpaLVEydU5xTXFndGd5enhGUzRid3hKVVVUbmw1b3VmVHgyRmxBQ1lMSmhLS2Y3VHVBS3loZkpBckdnWDhqNU5URER4SlJSWHJKMThsTkZjbGFpUnVaVWJDbHlodFlDU3NwREhybmI5QWVlTmUtRVBLaGtRUlE1MWZFWVM2V3ZSV05LN2kzTQ?oc=5)
+### [Painkillers for every ache? CDSCO warns of kidney risks, antibiotic misuse - The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMXpTUkY5eG53S05wZ05VWk5TQ3hJTU5QTXVTTTZXVG10clhUcUozN1oxYlZMLW9jRk42V0pidFJiN09Wd2hJVnNvbFluc2xrdEpaLVEydU5xTXFndGd5enhGUzRid3hKVVVUbmw1b3VmVHgyRmxBQ1lMSmhLS2Y3VHVBS3loZkpBckdnWDhqNU5URER4SlJSWHJKMThsTkZjbGFpUnVaVWJDbHlodFlDU3NwREhybmI5QWVlTmUtRVBLaGtRUlE1MWZFWVM2V3ZSV05LN2kzTQ?oc=5)
 
 2026-09-24 <span class="news-indication-tag">dama</span>
 
-Source: [timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMXpTUkY5eG53S05wZ05VWk5TQ3hJTU5QTXVTTTZXVG10clhUcUozN1oxYlZMLW9jRk42V0pidFJiN09Wd2hJVnNvbFluc2xrdEpaLVEydU5xTXFndGd5enhGUzRid3hKVVVUbmw1b3VmVHgyRmxBQ1lMSmhLS2Y3VHVBS3loZkpBckdnWDhqNU5URER4SlJSWHJKMThsTkZjbGFpUnVaVWJDbHlodFlDU3NwREhybmI5QWVlTmUtRVBLaGtRUlE1MWZFWVM2V3ZSV05LN2kzTQ?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMXpTUkY5eG53S05wZ05VWk5TQ3hJTU5QTXVTTTZXVG10clhUcUozN1oxYlZMLW9jRk42V0pidFJiN09Wd2hJVnNvbFluc2xrdEpaLVEydU5xTXFndGd5enhGUzRid3hKVVVUbmw1b3VmVHgyRmxBQ1lMSmhLS2Y3VHVBS3loZkpBckdnWDhqNU5URER4SlJSWHJKMThsTkZjbGFpUnVaVWJDbHlodFlDU3NwREhybmI5QWVlTmUtRVBLaGtRUlE1MWZFWVM2V3ZSV05LN2kzTQ?oc=5)
+
+---
+
+### [What links smoking, body fat, mental health, genes, and heart risk? Inflammation may be part of the answer](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3aUJGQlFfOTh5ZG5xVklTMHR0dkRpVUQzQlpyQ2gwTDBsMkNiSzNDZHhqdGR0SEswcGJsS0JhNV83VTVhSDJ1R1FZY1FHTWdBa3hRZWo0YW5ZdUd0M3RQLVBWVlU2VDlHMDZ6LTNlaGVGSFdHdUVSVWJGNHh5cUx2dWlkMmtHVG54OVkyWUhzQWpZeHRpaFlSaDB1eFFsaTVSa2tjMFVHd0xwTnRGb1FrWGtRZkNzWU9COWlvV2NNRTFmQTRjWnlPNUxDVENNOWM5ZWZoZnBnbjNTUkdMLUVuRQ?oc=5)
+
+2026-09-23 <span class="news-indication-tag">dama</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3aUJGQlFfOTh5ZG5xVklTMHR0dkRpVUQzQlpyQ2gwTDBsMkNiSzNDZHhqdGR0SEswcGJsS0JhNV83VTVhSDJ1R1FZY1FHTWdBa3hRZWo0YW5ZdUd0M3RQLVBWVlU2VDlHMDZ6LTNlaGVGSFdHdUVSVWJGNHh5cUx2dWlkMmtHVG54OVkyWUhzQWpZeHRpaFlSaDB1eFFsaTVSa2tjMFVHd0xwTnRGb1FrWGtRZkNzWU9COWlvV2NNRTFmQTRjWnlPNUxDVENNOWM5ZWZoZnBnbjNTUkdMLUVuRQ?oc=5)
 
 ---
 
