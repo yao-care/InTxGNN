@@ -14,7 +14,7 @@ permalink: /news/ivermectin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ivermectin?">
-<strong>Ivermectin</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Ivermectin</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ This page combines the AI-predicted indications for Ivermectin with the latest h
 <p><a href="{{ '/drugs/ivermectin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Muscle Preservation Is Key in GLP-1 Therapy for Postmenopausal Women - Drug Topics](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG5mM3NNLWZDTnUzUWhTVjZFN0pZNUhMZ0gxX05OWVpBazZlZXg1OWxEQ1U0Q1BLNGhKc1QyQXlKVWRsOTkxaTBZVjRoYjZIQ0pwVlRjUHdxMG12ZjQyU2VxYXdMZmF1TlBTN25TVnlQcFhtSkt2ZnJTRDdBcWpBMm9DcUsxbHhyWGEwaTluRHpYWV9SaGRWOHNfSXhvaHVTOUE?oc=5)
 
 2026-09-25 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
 Source: [Drug Topics](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG5mM3NNLWZDTnUzUWhTVjZFN0pZNUhMZ0gxX05OWVpBazZlZXg1OWxEQ1U0Q1BLNGhKc1QyQXlKVWRsOTkxaTBZVjRoYjZIQ0pwVlRjUHdxMG12ZjQyU2VxYXdMZmF1TlBTN25TVnlQcFhtSkt2ZnJTRDdBcWpBMm9DcUsxbHhyWGEwaTluRHpYWV9SaGRWOHNfSXhvaHVTOUE?oc=5)
-
----
-
-### [Creatine’s benefits may go beyond the gym for older adults](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSk5KSzZ2dldRbXRyQ1p5dF93MU9LQlA2WTBaY2RLVjJmcTkyZFp0Rmxyal9SY1ozOGxqcFlyVENHRmp5OWZ4MWtFbWowUHVIbnBTMzhxNmJMZVhicHF6RGZGY25xSjdlTHFZSG5vS0o?oc=5)
-
-2026-09-23 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [Futurity](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSk5KSzZ2dldRbXRyQ1p5dF93MU9LQlA2WTBaY2RLVjJmcTkyZFp0Rmxyal9SY1ozOGxqcFlyVENHRmp5OWZ4MWtFbWowUHVIbnBTMzhxNmJMZVhicHF6RGZGY25xSjdlTHFZSG5vS0o?oc=5)
 
 ---
 

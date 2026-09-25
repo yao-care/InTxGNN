@@ -14,7 +14,7 @@ permalink: /news/natamycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Natamycin?">
-<strong>Natamycin</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
+<strong>Natamycin</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Natamycin with the latest he
 <p><a href="{{ '/drugs/natamycin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (13)
 
 ### [Muscle Preservation Is Key in GLP-1 Therapy for Postmenopausal Women - Drug Topics](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG5mM3NNLWZDTnUzUWhTVjZFN0pZNUhMZ0gxX05OWVpBazZlZXg1OWxEQ1U0Q1BLNGhKc1QyQXlKVWRsOTkxaTBZVjRoYjZIQ0pwVlRjUHdxMG12ZjQyU2VxYXdMZmF1TlBTN25TVnlQcFhtSkt2ZnJTRDdBcWpBMm9DcUsxbHhyWGEwaTluRHpYWV9SaGRWOHNfSXhvaHVTOUE?oc=5)
 
@@ -135,14 +135,6 @@ Source: [ThePrint](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVNHTDRv
 2026-09-24 <span class="news-indication-tag">cancer</span>
 
 Source: [theweek.in](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEo4NGsxMTg5LUxLcFdyc2p5UURCYy1ram12dzYwdDJWOTN2SndvVkJOWEVjMWtrR1RJdnNPYi1RSUgzRUlxbjQ1QzhTU2cyTXdaYmJrUE1XSW9PZkpNcEJvNHBzVGdyaGVkT1F6MWt6cUhpVmEza2tycm5NQXV6Ymlqb2wxLWRKYVRVX004eGQ0QW14WlBSb3AxOU1Zd0JJU0NxNW1qdlB5WF9idjMzS1V6MllTTExYeUpMRzU1bXBZeGVf0gHKAUFVX3lxTE91Vk82amE5NmxiMkJzZUdxV3EwQ2ZxZ3ZaSm1LaUh5ZldOV1dHMTN1VEM3dWh3TnhXSWtfa0xEUjEtSGZMVEVoT01QYlNwMnY4dzNmZWpsWldSVXVLaHU4VmxJeXNmaHgyXzZobUY2U1FXaGE0TlVWZkUxNjk5c294eVN0N0tfQ2ZTLS1zRUhFbVVadjJqWUtUREgxVS1hdDNvZHdfRkRENGEwZXZSVE5JZWpUX0NjRmRSdVYxcFI0ZzlKNHFjRGVLWEE?oc=5)
-
----
-
-### [Creatine’s benefits may go beyond the gym for older adults](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSk5KSzZ2dldRbXRyQ1p5dF93MU9LQlA2WTBaY2RLVjJmcTkyZFp0Rmxyal9SY1ozOGxqcFlyVENHRmp5OWZ4MWtFbWowUHVIbnBTMzhxNmJMZVhicHF6RGZGY25xSjdlTHFZSG5vS0o?oc=5)
-
-2026-09-23 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [Futurity](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSk5KSzZ2dldRbXRyQ1p5dF93MU9LQlA2WTBaY2RLVjJmcTkyZFp0Rmxyal9SY1ozOGxqcFlyVENHRmp5OWZ4MWtFbWowUHVIbnBTMzhxNmJMZVhicHF6RGZGY25xSjdlTHFZSG5vS0o?oc=5)
 
 ---
 
