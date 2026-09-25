@@ -14,7 +14,7 @@ permalink: /news/mycophenolate_mofetil/
 ---
 
 <p class="key-answer" data-question="What news is there about Mycophenolate Mofetil?">
-<strong>Mycophenolate Mofetil</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Mycophenolate Mofetil</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Mycophenolate Mofetil with t
 <li>bone Paget disease (99.7%)</li>
 <li>feline acquired immunodeficiency syndrome (99.7%)</li>
 <li>simian immunodeficiency virus infection (99.7%)</li>
-<li>multiple sclerosis (99.5%)</li>
+<li class="indication-matched">multiple sclerosis (99.5%)<span class="indication-tag">📰 multiple sclerosis</span></li>
 <li>hemosiderosis (99.5%)</li>
 <li>Heiner syndrome (99.5%)</li>
 <li>African iron overload (99.4%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Mycophenolate Mofetil with t
 <p><a href="{{ '/drugs/mycophenolate_mofetil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Experimental drug reverses paralysis and vision loss in MS mice - Drug Target Review](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTFxdjRpdFVEbV9OSjNQNkJPUmVOOVc1TUdmSkpIZHVyLU1IUDNPc0dXZnJzNk5VeDA0Zm8wTm9MNEdIbEI0RnMxVFZockFPX2FOcGUzRGxjUVh5ZFg3bXlzOExNeXFPSzZNUVBkN1Z6bHc2aUpxZXB5ekxjeUZvdllWVkE2Q19tbGxQMTJuUzhMY2RNRzhFN09NSEhjck5SMnBkNUhWMkpxUFRlSkYwM2cyTUV6T1dz?oc=5)
+
+2026-09-25 <span class="news-indication-tag">paralysis</span> <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Drug Target Review](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTFxdjRpdFVEbV9OSjNQNkJPUmVOOVc1TUdmSkpIZHVyLU1IUDNPc0dXZnJzNk5VeDA0Zm8wTm9MNEdIbEI0RnMxVFZockFPX2FOcGUzRGxjUVh5ZFg3bXlzOExNeXFPSzZNUVBkN1Z6bHc2aUpxZXB5ekxjeUZvdllWVkE2Q19tbGxQMTJuUzhMY2RNRzhFN09NSEhjck5SMnBkNUhWMkpxUFRlSkYwM2cyTUV6T1dz?oc=5)
+
+---
 
 
 <div class="disclaimer">

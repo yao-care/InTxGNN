@@ -45,11 +45,11 @@ This page brings together the latest health news about “stroke” and lists th
 
 ## Related News (1)
 
-### [Stopping Ozempic, Wegovy, Mounjaro Linked To 22% Higher Heart Attack, Stroke Risk: Study - Health and Me](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY05zSUV0cC0zbVNQRTA4VUxEeEttUE0tU191UGRrZGgtMnN6X0hEeFZGMVZhWUdtRVlZcnJBZ3JaVkJZNGFKQTNKSjVRZU5jMlhCN0VZelRfRW5SbnFJSm9kWVhyTmlYUjFsZkg0RUI3N0p1UUY4a2YyVVE2RlppS3E0Zm1WQU4yMDZXZ1pvdy1welg1MzlzdnFLd201ZG84SmlEQUdrMFFRa2l3RjBuRW9lOEZmMXRmRkhwenV1ckxuVTlNbElvaGtjOVg2NElKNk9BUTBsdzA?oc=5)
+### [Stopping Ozempic Suddenly Can Raise Heart Attack, Stroke Risk By 22%: Study - Times Now](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTm5ybjdVNXdXT0U5S0RPU2NvVnNOd0xpN1g5S3VmbWlEQ0F3WUVPZnJ5TjNwRUNGcE45elI0ZGdKbUM1LWoxeld6Z1NPNkVWLWJ3WEEzMWRscjd6MnZFSXF4TlVabFlIaXZBeHNLY3Q5NXlTYlhtSDdQd25PT2Y2NTVuUHBvQy1YTE1OZTFaazd1YWFlcEZUVTBIc1U1Y2pDVHBIamE2ZW5QV1VSZ1VMM0E3akx0R2ZHLU9BXw?oc=5)
 
-2026-09-23
+2026-09-24
 
-Source: [Health and Me](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY05zSUV0cC0zbVNQRTA4VUxEeEttUE0tU191UGRrZGgtMnN6X0hEeFZGMVZhWUdtRVlZcnJBZ3JaVkJZNGFKQTNKSjVRZU5jMlhCN0VZelRfRW5SbnFJSm9kWVhyTmlYUjFsZkg0RUI3N0p1UUY4a2YyVVE2RlppS3E0Zm1WQU4yMDZXZ1pvdy1welg1MzlzdnFLd201ZG84SmlEQUdrMFFRa2l3RjBuRW9lOEZmMXRmRkhwenV1ckxuVTlNbElvaGtjOVg2NElKNk9BUTBsdzA?oc=5)
+Source: [Times Now](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTm5ybjdVNXdXT0U5S0RPU2NvVnNOd0xpN1g5S3VmbWlEQ0F3WUVPZnJ5TjNwRUNGcE45elI0ZGdKbUM1LWoxeld6Z1NPNkVWLWJ3WEEzMWRscjd6MnZFSXF4TlVabFlIaXZBeHNLY3Q5NXlTYlhtSDdQd25PT2Y2NTVuUHBvQy1YTE1OZTFaazd1YWFlcEZUVTBIc1U1Y2pDVHBIamE2ZW5QV1VSZ1VMM0E3akx0R2ZHLU9BXw?oc=5)
 
 ---
 

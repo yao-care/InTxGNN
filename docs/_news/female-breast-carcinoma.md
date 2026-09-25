@@ -39,11 +39,11 @@ This page brings together the latest health news about “breast cancer” and l
 
 ## Related News (2)
 
-### [Blood Test May Predict Cancer Risk Years Before Diagnosis](https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3k0MmlsUTFBWUl5YzVxY3VhN2xnSENrNGFUOFNuNG04cndhOXgtTktoSTAxQWpnb3d6cFhDSmkyMk5Dd08xc3BlOEhWUUVQUHpmNVdfNjdVUU0xdno0elZLNk5jTF96N0tvdlJpemZWd3F6SDFzVHJYdHFGdzlzT1NsYU5sY3AyTmpzcVh1b3NuZkt1YVRmQlhSYi1iQnZy?oc=5)
+### [DNA in blood signals cancer risk years ahead](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
 
 2026-09-25
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3k0MmlsUTFBWUl5YzVxY3VhN2xnSENrNGFUOFNuNG04cndhOXgtTktoSTAxQWpnb3d6cFhDSmkyMk5Dd08xc3BlOEhWUUVQUHpmNVdfNjdVUU0xdno0elZLNk5jTF96N0tvdlJpemZWd3F6SDFzVHJYdHFGdzlzT1NsYU5sY3AyTmpzcVh1b3NuZkt1YVRmQlhSYi1iQnZy?oc=5)
+Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
 
 ---
 

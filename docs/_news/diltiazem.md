@@ -14,7 +14,7 @@ permalink: /news/diltiazem/
 ---
 
 <p class="key-answer" data-question="What news is there about Diltiazem?">
-<strong>Diltiazem</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Diltiazem</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,21 @@ This page combines the AI-predicted indications for Diltiazem with the latest he
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Stopping Ozempic, Wegovy, Mounjaro Linked To 22% Higher Heart Attack, Stroke Risk: Study - Health and Me](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY05zSUV0cC0zbVNQRTA4VUxEeEttUE0tU191UGRrZGgtMnN6X0hEeFZGMVZhWUdtRVlZcnJBZ3JaVkJZNGFKQTNKSjVRZU5jMlhCN0VZelRfRW5SbnFJSm9kWVhyTmlYUjFsZkg0RUI3N0p1UUY4a2YyVVE2RlppS3E0Zm1WQU4yMDZXZ1pvdy1welg1MzlzdnFLd201ZG84SmlEQUdrMFFRa2l3RjBuRW9lOEZmMXRmRkhwenV1ckxuVTlNbElvaGtjOVg2NElKNk9BUTBsdzA?oc=5)
+### [Experimental drug reverses paralysis and vision loss in MS mice - Drug Target Review](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTFxdjRpdFVEbV9OSjNQNkJPUmVOOVc1TUdmSkpIZHVyLU1IUDNPc0dXZnJzNk5VeDA0Zm8wTm9MNEdIbEI0RnMxVFZockFPX2FOcGUzRGxjUVh5ZFg3bXlzOExNeXFPSzZNUVBkN1Z6bHc2aUpxZXB5ekxjeUZvdllWVkE2Q19tbGxQMTJuUzhMY2RNRzhFN09NSEhjck5SMnBkNUhWMkpxUFRlSkYwM2cyTUV6T1dz?oc=5)
 
-2026-09-23 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-09-25 <span class="news-indication-tag">paralysis</span> <span class="news-indication-tag">multiple sclerosis</span>
 
-Source: [Health and Me](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY05zSUV0cC0zbVNQRTA4VUxEeEttUE0tU191UGRrZGgtMnN6X0hEeFZGMVZhWUdtRVlZcnJBZ3JaVkJZNGFKQTNKSjVRZU5jMlhCN0VZelRfRW5SbnFJSm9kWVhyTmlYUjFsZkg0RUI3N0p1UUY4a2YyVVE2RlppS3E0Zm1WQU4yMDZXZ1pvdy1welg1MzlzdnFLd201ZG84SmlEQUdrMFFRa2l3RjBuRW9lOEZmMXRmRkhwenV1ckxuVTlNbElvaGtjOVg2NElKNk9BUTBsdzA?oc=5)
+Source: [Drug Target Review](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTFxdjRpdFVEbV9OSjNQNkJPUmVOOVc1TUdmSkpIZHVyLU1IUDNPc0dXZnJzNk5VeDA0Zm8wTm9MNEdIbEI0RnMxVFZockFPX2FOcGUzRGxjUVh5ZFg3bXlzOExNeXFPSzZNUVBkN1Z6bHc2aUpxZXB5ekxjeUZvdllWVkE2Q19tbGxQMTJuUzhMY2RNRzhFN09NSEhjck5SMnBkNUhWMkpxUFRlSkYwM2cyTUV6T1dz?oc=5)
+
+---
+
+### [Stopping Ozempic Suddenly Can Raise Heart Attack, Stroke Risk By 22%: Study - Times Now](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTm5ybjdVNXdXT0U5S0RPU2NvVnNOd0xpN1g5S3VmbWlEQ0F3WUVPZnJ5TjNwRUNGcE45elI0ZGdKbUM1LWoxeld6Z1NPNkVWLWJ3WEEzMWRscjd6MnZFSXF4TlVabFlIaXZBeHNLY3Q5NXlTYlhtSDdQd25PT2Y2NTVuUHBvQy1YTE1OZTFaazd1YWFlcEZUVTBIc1U1Y2pDVHBIamE2ZW5QV1VSZ1VMM0E3akx0R2ZHLU9BXw?oc=5)
+
+2026-09-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Times Now](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTm5ybjdVNXdXT0U5S0RPU2NvVnNOd0xpN1g5S3VmbWlEQ0F3WUVPZnJ5TjNwRUNGcE45elI0ZGdKbUM1LWoxeld6Z1NPNkVWLWJ3WEEzMWRscjd6MnZFSXF4TlVabFlIaXZBeHNLY3Q5NXlTYlhtSDdQd25PT2Y2NTVuUHBvQy1YTE1OZTFaazd1YWFlcEZUVTBIc1U1Y2pDVHBIamE2ZW5QV1VSZ1VMM0E3akx0R2ZHLU9BXw?oc=5)
 
 ---
 

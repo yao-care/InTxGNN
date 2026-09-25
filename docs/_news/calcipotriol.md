@@ -14,7 +14,7 @@ permalink: /news/calcipotriol/
 ---
 
 <p class="key-answer" data-question="What news is there about Calcipotriol?">
-<strong>Calcipotriol</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
+<strong>Calcipotriol</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,61 @@ This page combines the AI-predicted indications for Calcipotriol with the latest
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (14)
 
-### [Blood Test May Predict Cancer Risk Years Before Diagnosis](https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3k0MmlsUTFBWUl5YzVxY3VhN2xnSENrNGFUOFNuNG04cndhOXgtTktoSTAxQWpnb3d6cFhDSmkyMk5Dd08xc3BlOEhWUUVQUHpmNVdfNjdVUU0xdno0elZLNk5jTF96N0tvdlJpemZWd3F6SDFzVHJYdHFGdzlzT1NsYU5sY3AyTmpzcVh1b3NuZkt1YVRmQlhSYi1iQnZy?oc=5)
+### [Muscle Preservation Is Key in GLP-1 Therapy for Postmenopausal Women - Drug Topics](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG5mM3NNLWZDTnUzUWhTVjZFN0pZNUhMZ0gxX05OWVpBazZlZXg1OWxEQ1U0Q1BLNGhKc1QyQXlKVWRsOTkxaTBZVjRoYjZIQ0pwVlRjUHdxMG12ZjQyU2VxYXdMZmF1TlBTN25TVnlQcFhtSkt2ZnJTRDdBcWpBMm9DcUsxbHhyWGEwaTluRHpYWV9SaGRWOHNfSXhvaHVTOUE?oc=5)
+
+2026-09-25 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Drug Topics](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG5mM3NNLWZDTnUzUWhTVjZFN0pZNUhMZ0gxX05OWVpBazZlZXg1OWxEQ1U0Q1BLNGhKc1QyQXlKVWRsOTkxaTBZVjRoYjZIQ0pwVlRjUHdxMG12ZjQyU2VxYXdMZmF1TlBTN25TVnlQcFhtSkt2ZnJTRDdBcWpBMm9DcUsxbHhyWGEwaTluRHpYWV9SaGRWOHNfSXhvaHVTOUE?oc=5)
+
+---
+
+### [Chronological spotted hyena optimized deep learning approach for laryngeal cancer detection using image and voice analysis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XQ1FOMFc1WVJnb3paak83bzlaZDVUTmQ5dGxjYTlhVDNtRmppVzIxZDUxWnhxZ183czdmNXJiUjk2QjQwdUJ6V2p6c1hUTVFlR3otTnY4ZndKS25VaFUw?oc=5)
+
+2026-09-25 <span class="news-indication-tag">cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XQ1FOMFc1WVJnb3paak83bzlaZDVUTmQ5dGxjYTlhVDNtRmppVzIxZDUxWnhxZ183czdmNXJiUjk2QjQwdUJ6V2p6c1hUTVFlR3otTnY4ZndKS25VaFUw?oc=5)
+
+---
+
+### [Loss Of Y Chromosome In Men May Signal Higher Cancer Risk - Health and Me](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORm5FT2MwYXZaalBKZHBrSmF6RVY0VmNJeVp3c2JIT1JNS3lEV0tCWGxxR255MGlieEN4N3NkQmhDS0UxOERQNHYzMTRlSjR4VTRaRkNDRFgyQTliN0ZkelI5Nlc4bnYwd2xaeXFwNDk0WnlkLTF0X0RZTGNsUDRCZldFT19peS11WmZQR0pUSkh4c1luaXZfdGUyNmlOcDRSVGFJWjkyb0NRakhLYmptNjdteE5xakwzSHF3?oc=5)
+
+2026-09-25 <span class="news-indication-tag">cancer</span>
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORm5FT2MwYXZaalBKZHBrSmF6RVY0VmNJeVp3c2JIT1JNS3lEV0tCWGxxR255MGlieEN4N3NkQmhDS0UxOERQNHYzMTRlSjR4VTRaRkNDRFgyQTliN0ZkelI5Nlc4bnYwd2xaeXFwNDk0WnlkLTF0X0RZTGNsUDRCZldFT19peS11WmZQR0pUSkh4c1luaXZfdGUyNmlOcDRSVGFJWjkyb0NRakhLYmptNjdteE5xakwzSHF3?oc=5)
+
+---
+
+### [DNA in blood signals cancer risk years ahead](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
 
 2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3k0MmlsUTFBWUl5YzVxY3VhN2xnSENrNGFUOFNuNG04cndhOXgtTktoSTAxQWpnb3d6cFhDSmkyMk5Dd08xc3BlOEhWUUVQUHpmNVdfNjdVUU0xdno0elZLNk5jTF96N0tvdlJpemZWd3F6SDFzVHJYdHFGdzlzT1NsYU5sY3AyTmpzcVh1b3NuZkt1YVRmQlhSYi1iQnZy?oc=5)
+Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
+
+---
+
+### [HPV Vaccination Cuts Cervical Cancer Deaths: The Next Challenge Is Equitable Access - Technology Networks](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeW1qSHFlQnBaVm9LS3YzZjh4M3NlMkJjRllXeUpKOHByUU5hcGpUT3Vwb0g0aXV5Y2FXTXRkZk1faGhIOTNNVmpHVjQ2MndjZzNYd0dqb0ZJVVBOR3E3X1hObjYwYlh6cXM0Qk1IRmJuSktzZDJMbjlmX3UwaWpuTTJZaVN0TFBQUTBWMHJKOEZKSURzNE82S05kQWRKWV9weTlVbWhkXzJDRnpnMU1QN2p6WmdubFgtQ04teTd5cmJJeWtWcHRBY00wS2NzWVVWWmJfQjlsZHk3SU9H?oc=5)
+
+2026-09-25 <span class="news-indication-tag">cancer</span>
+
+Source: [Technology Networks](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeW1qSHFlQnBaVm9LS3YzZjh4M3NlMkJjRllXeUpKOHByUU5hcGpUT3Vwb0g0aXV5Y2FXTXRkZk1faGhIOTNNVmpHVjQ2MndjZzNYd0dqb0ZJVVBOR3E3X1hObjYwYlh6cXM0Qk1IRmJuSktzZDJMbjlmX3UwaWpuTTJZaVN0TFBQUTBWMHJKOEZKSURzNE82S05kQWRKWV9weTlVbWhkXzJDRnpnMU1QN2p6WmdubFgtQ04teTd5cmJJeWtWcHRBY00wS2NzWVVWWmJfQjlsZHk3SU9H?oc=5)
+
+---
+
+### [Global access to cancer genetic testing remains deeply unequal: Lancet - Awaz The Voice](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTliN2JMR0hnYV94a0NnMlZkNWVQWEc5X3NMVzFqYmFMUzB5MkZhcVF3M2xXbk1jcUFtMnlnbm9fYjhEUXFTTmplaVFUbVAyVWk5MzVvS3RVRnUycUJUVkF5ZWhtQ2JCMEtvVkpEV0lGTHVwWWNsOGpkS2hRVHhTanlzUUFTSkJodEJfVG5JOUZqU3JWM2FMaUJlVk5tWjJIdG5uaGpBQmVFdlUwWlI3Mm5yUUVxTUxOQnFfSg?oc=5)
+
+2026-09-25 <span class="news-indication-tag">cancer</span>
+
+Source: [Awaz The Voice](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTliN2JMR0hnYV94a0NnMlZkNWVQWEc5X3NMVzFqYmFMUzB5MkZhcVF3M2xXbk1jcUFtMnlnbm9fYjhEUXFTTmplaVFUbVAyVWk5MzVvS3RVRnUycUJUVkF5ZWhtQ2JCMEtvVkpEV0lGTHVwWWNsOGpkS2hRVHhTanlzUUFTSkJodEJfVG5JOUZqU3JWM2FMaUJlVk5tWjJIdG5uaGpBQmVFdlUwWlI3Mm5yUUVxTUxOQnFfSg?oc=5)
+
+---
+
+### [World Lung Day 2026: How to self-check your lung health and know when to see a doctor](https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXdFdHJrYmJFb2xEZlcyek1QdlRCLVViSmx0Uzk0WnR6MDRpaFJHY1FheTduVlc5dlVId3JnQ2RsbzdJLTN0cGt2VDZQNmNJbnE3cXpQcXJXQTM3R1JvVGRSREtUb1lBUXZ0YXgyNEtvVlJESDZybDN6NC1McmF4cGVaQXlrb0R2UGlJMFZhY2hNSXI2N0VDX2x2WnljS2Z6TGpsTEVfRnBVZFVHWDFWa0VhTkFEYWNWM3NLLUN4cVdlZ2RUT0dwdTBBSdIB0AFBVV95cUxPUUVkcG5xczVEYUZfZk1wWlRVazNFdVZ5cjJtTWlfc1FaMVIwR01kTjh6bEU0VEMzTllUUi02RTFVaU1QUkVnRDdSNURJY2ljRFF5b3J2eHlMVUJkalVHS1FCaWI1cUJnSWxreVRWWXRIQzJNWHNIdGJYX0l4Z3NsX19tejFieXlJYXFsZ3dUNXJHbVg2Q3FtTTd4OHFnS1RfWWItNFBrNnV5bTFhZ3dLUXpvUEdNb1JaYTBOZmVuVUgwWWR2Qkg5Y1J4Q1pQRGxr?oc=5)
+
+2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [Firstpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXdFdHJrYmJFb2xEZlcyek1QdlRCLVViSmx0Uzk0WnR6MDRpaFJHY1FheTduVlc5dlVId3JnQ2RsbzdJLTN0cGt2VDZQNmNJbnE3cXpQcXJXQTM3R1JvVGRSREtUb1lBUXZ0YXgyNEtvVlJESDZybDN6NC1McmF4cGVaQXlrb0R2UGlJMFZhY2hNSXI2N0VDX2x2WnljS2Z6TGpsTEVfRnBVZFVHWDFWa0VhTkFEYWNWM3NLLUN4cVdlZ2RUT0dwdTBBSdIB0AFBVV95cUxPUUVkcG5xczVEYUZfZk1wWlRVazNFdVZ5cjJtTWlfc1FaMVIwR01kTjh6bEU0VEMzTllUUi02RTFVaU1QUkVnRDdSNURJY2ljRFF5b3J2eHlMVUJkalVHS1FCaWI1cUJnSWxreVRWWXRIQzJNWHNIdGJYX0l4Z3NsX19tejFieXlJYXFsZ3dUNXJHbVg2Q3FtTTd4OHFnS1RfWWItNFBrNnV5bTFhZ3dLUXpvUEdNb1JaYTBOZmVuVUgwWWR2Qkg5Y1J4Q1pQRGxr?oc=5)
 
 ---
 
@@ -55,22 +103,6 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3k0MmlsUTFBW
 2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FkTVhUM053d21fRWZYanBtT3Bsb3hqcEJSUmdhN204UW51enZKOEo5dXdhbTZLSTBXcFQ5ZmViaGdaa2J2Y0g1bUtieDVibnlhVnl6elhWOWM2R0R5UkcwY3JETnhIdXVTczRIQkk0VGxtRkdnNGZTRnV5RkdmcFpkR3BLS0J2c1ZscHRTZzV5c0h5NWcza3RSN0Etbmh1Q1NXWHgyVGwtRjMwbDd4allpdjkxNlZu?oc=5)
-
----
-
-### [Can your everyday lifestyle affect your lung cancer risk? - India Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkpoZ0I4cVR4UzBxa3h0YTRoNVRKRlRtd3RieW9lVXM3WEM0bEthLTkyd2gyNEw4T2lLZ25GcGd2ek9BdXkzdnh5S2hqVU9VbzFaUVptSTk4a19ZRkxvVWM3aTBkekdLSlJLcjhvelh6U3Awb3Nselpxb0pfT3BiWlc0RjlCNy1CelBfb2ZhWmc5NW44ckQ5WGxkajR4aFZuV3dKa2JBRy14QjVhWEx2TkNVbWR1enlzTXfSAboBQVVfeXFMT1ZKaGdCOHFUeFMwcWt4dGE0aDVUSkZUbXd0YnlvZVVzN1hDNGxLYS05MndoMjRMOE9pS2duRnBndnpPQXV5M3Z4eUtoalVPVW8xWlFabUk5OGtfWUZMb1VjN2kwZHpHS0pSS3I4b3pYelNwMG9zbHpacW9KX09wYlpXNEY5QjctQnpQX29mYVpnOTVuOHJEOVhsZGo0eGhWbld3SmtiQUcteEI1YVhMdk5DVW1kdXp5c013?oc=5)
-
-2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [India Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkpoZ0I4cVR4UzBxa3h0YTRoNVRKRlRtd3RieW9lVXM3WEM0bEthLTkyd2gyNEw4T2lLZ25GcGd2ek9BdXkzdnh5S2hqVU9VbzFaUVptSTk4a19ZRkxvVWM3aTBkekdLSlJLcjhvelh6U3Awb3Nselpxb0pfT3BiWlc0RjlCNy1CelBfb2ZhWmc5NW44ckQ5WGxkajR4aFZuV3dKa2JBRy14QjVhWEx2TkNVbWR1enlzTXfSAboBQVVfeXFMT1ZKaGdCOHFUeFMwcWt4dGE0aDVUSkZUbXd0YnlvZVVzN1hDNGxLYS05MndoMjRMOE9pS2duRnBndnpPQXV5M3Z4eUtoalVPVW8xWlFabUk5OGtfWUZMb1VjN2kwZHpHS0pSS3I4b3pYelNwMG9zbHpacW9KX09wYlpXNEY5QjctQnpQX29mYVpnOTVuOHJEOVhsZGo0eGhWbld3SmtiQUcteEI1YVhMdk5DVW1kdXp5c013?oc=5)
-
----
-
-### [MHRA Backs New Maintenance Option for ES-SCLC](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOG1xbkNqd2wyeFF1UXRseHR3aTBoOWZhN0lxZWtPWkQzOGg2V19zTTB1dTJ4R0x6d3ZqZzBqcVloSHBrVEZwQzRNUEVFNGUwRjdpR0FBU3ZLOEdLRHBleHhZTVF3eDNPUXZpUFg1SWp5ZndLS3FUelpwbHlVdG9MX0picGp0X3drMEFtb0hJMnhIci1jT0E?oc=5)
-
-2026-09-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">small cell lung cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOG1xbkNqd2wyeFF1UXRseHR3aTBoOWZhN0lxZWtPWkQzOGg2V19zTTB1dTJ4R0x6d3ZqZzBqcVloSHBrVEZwQzRNUEVFNGUwRjdpR0FBU3ZLOEdLRHBleHhZTVF3eDNPUXZpUFg1SWp5ZndLS3FUelpwbHlVdG9MX0picGp0X3drMEFtb0hJMnhIci1jT0E?oc=5)
 
 ---
 
@@ -106,27 +138,11 @@ Source: [theweek.in](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEo4NG
 
 ---
 
-### [Calls for more young people to take up HPV vaccine](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFN4S2JONVFrVjM4UTlHSU9FY3VRQTFwOGlpU2hWSy1LVjE5dFBWUHdlbTlwVnprNktCQkFRY0Fpa1FKMmt2ZUZsRllZMzRUVTlIZy1SMzc4RDlLNTZxMTdodWwwdm1WcDhhaVhsbkZvTGpfSWs5QXByMEF1eXFGN1N4UG9vUi1HTGtJRw?oc=5)
+### [Creatine’s benefits may go beyond the gym for older adults](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSk5KSzZ2dldRbXRyQ1p5dF93MU9LQlA2WTBaY2RLVjJmcTkyZFp0Rmxyal9SY1ozOGxqcFlyVENHRmp5OWZ4MWtFbWowUHVIbnBTMzhxNmJMZVhicHF6RGZGY25xSjdlTHFZSG5vS0o?oc=5)
 
-2026-09-24 <span class="news-indication-tag">cancer</span>
+2026-09-23 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFN4S2JONVFrVjM4UTlHSU9FY3VRQTFwOGlpU2hWSy1LVjE5dFBWUHdlbTlwVnprNktCQkFRY0Fpa1FKMmt2ZUZsRllZMzRUVTlIZy1SMzc4RDlLNTZxMTdodWwwdm1WcDhhaVhsbkZvTGpfSWs5QXByMEF1eXFGN1N4UG9vUi1HTGtJRw?oc=5)
-
----
-
-### [‘Y’ losing a chromosome could be the first step to cancer - The Naked Scientists](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzl4cFE4TlJhRUVFVi1qNmp2ZVN5UzNZbDFwOXlxMzR2Z2RoT2ZNQ1Q5MVVjM1FKRVNHV2JHaVppUVFXdnRZWXV3WXpqNDV1ZHpRZ1h0d0hQQkNuNVpjUG5JaFF4OTZNRnRfZC1JTkJTOVF0dnNiMUFIbXotRjZKaUprVkpfa0FULVpHNTRoRS1ZYUdxRW1sM0pyNXFteEwxLTdtckFR?oc=5)
-
-2026-09-23 <span class="news-indication-tag">cancer</span>
-
-Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzl4cFE4TlJhRUVFVi1qNmp2ZVN5UzNZbDFwOXlxMzR2Z2RoT2ZNQ1Q5MVVjM1FKRVNHV2JHaVppUVFXdnRZWXV3WXpqNDV1ZHpRZ1h0d0hQQkNuNVpjUG5JaFF4OTZNRnRfZC1JTkJTOVF0dnNiMUFIbXotRjZKaUprVkpfa0FULVpHNTRoRS1ZYUdxRW1sM0pyNXFteEwxLTdtckFR?oc=5)
-
----
-
-### [UN health agency calls for investment boost to save young lives from cancer - UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGVUJkLWZoX1V3cExpWmNHU2p3d2xDWkQ4eTJSdmxYU0VUMjFDVGxfVm4wd0tIeV9MV081OGxkLTRyV2Rhc2JqT3hDVERKQVhNaw?oc=5)
-
-2026-09-23 <span class="news-indication-tag">cancer</span>
-
-Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGVUJkLWZoX1V3cExpWmNHU2p3d2xDWkQ4eTJSdmxYU0VUMjFDVGxfVm4wd0tIeV9MV081OGxkLTRyV2Rhc2JqT3hDVERKQVhNaw?oc=5)
+Source: [Futurity](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSk5KSzZ2dldRbXRyQ1p5dF93MU9LQlA2WTBaY2RLVjJmcTkyZFp0Rmxyal9SY1ozOGxqcFlyVENHRmp5OWZ4MWtFbWowUHVIbnBTMzhxNmJMZVhicHF6RGZGY25xSjdlTHFZSG5vS0o?oc=5)
 
 ---
 
