@@ -14,7 +14,7 @@ permalink: /news/atosiban/
 ---
 
 <p class="key-answer" data-question="What news is there about Atosiban?">
-<strong>Atosiban</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Atosiban</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Atosiban with the latest hea
 <li>congenital hypotrichosis milia (99.9%)</li>
 <li>alopecia (99.9%)</li>
 <li>hypotrichosis simplex of the scalp (99.9%)</li>
-<li class="indication-matched">vascular disease (99.9%)<span class="indication-tag">📰 vascular disease</span></li>
+<li>vascular disease (99.9%)</li>
 <li>diffuse alopecia areata (99.9%)</li>
 <li>arterial thoracic outlet syndrome (99.9%)</li>
 <li>venous thoracic outlet syndrome (99.9%)</li>
@@ -40,15 +40,7 @@ This page combines the AI-predicted indications for Atosiban with the latest hea
 <p><a href="{{ '/drugs/atosiban/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Air pollution and cardiovascular disease: Mitochondria may be the missing link - Medical Xpress](https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1F0a19HNUxIbks4QzlZaDUtVC1BdmF5YWU1RmVrYzhHeVUtTVdYQTdsMXlVVjZ2V0lLdGdheFpZdzlZeGhmUXRfSW1TTUpud241c014N1dkaVBTb1BSMDFSLUtrSzVWWDBMMWVLUmFpVTdZLWdTbmNfS2xjZ25QNWJiUHVtSDJkVFl4MVA2S3U1a05rZGUwNA?oc=5)
-
-2026-09-25 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1F0a19HNUxIbks4QzlZaDUtVC1BdmF5YWU1RmVrYzhHeVUtTVdYQTdsMXlVVjZ2V0lLdGdheFpZdzlZeGhmUXRfSW1TTUpud241c014N1dkaVBTb1BSMDFSLUtrSzVWWDBMMWVLUmFpVTdZLWdTbmNfS2xjZ25QNWJiUHVtSDJkVFl4MVA2S3U1a05rZGUwNA?oc=5)
-
----
+## Related News (1)
 
 ### [Cardiac rehabilitation supported as an integral part of treatment - Medical Xpress](https://news.google.com/rss/articles/CBMibkFVX3lxTE5USUk5WDl3UG1GczZfQjJlMkpyUWktcERhUzFjaVdPdjdJVDZoZnZtOHRUUTNvRGFZaVlEZU44M3UwbDZxOC1WNUc2cGFVRFNGRTRzTFdlMV9JV3Jack90LTlSVGRHd2x5VFJlYld3?oc=5)
 

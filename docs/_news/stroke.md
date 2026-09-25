@@ -3,7 +3,7 @@ layout: default
 title: "paralysis (stroke) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about paralysis (stroke). 2 articles, 15 related drugs."
+description: "Health news about paralysis (stroke). 3 articles, 15 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about paralysis (stroke)?">
-<strong>paralysis (stroke)</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
+<strong>paralysis (stroke)</strong> currently has <strong>3 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ This page brings together the latest health news about “paralysis” and lists
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Experimental drug reverses paralysis and vision loss in MS mice - Drug Target Review](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTFxdjRpdFVEbV9OSjNQNkJPUmVOOVc1TUdmSkpIZHVyLU1IUDNPc0dXZnJzNk5VeDA0Zm8wTm9MNEdIbEI0RnMxVFZockFPX2FOcGUzRGxjUVh5ZFg3bXlzOExNeXFPSzZNUVBkN1Z6bHc2aUpxZXB5ekxjeUZvdllWVkE2Q19tbGxQMTJuUzhMY2RNRzhFN09NSEhjck5SMnBkNUhWMkpxUFRlSkYwM2cyTUV6T1dz?oc=5)
 
@@ -58,6 +58,14 @@ Source: [Drug Target Review](https://news.google.com/rss/articles/CBMiuAFBVV95cU
 2026-09-24
 
 Source: [Times Now](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTm5ybjdVNXdXT0U5S0RPU2NvVnNOd0xpN1g5S3VmbWlEQ0F3WUVPZnJ5TjNwRUNGcE45elI0ZGdKbUM1LWoxeld6Z1NPNkVWLWJ3WEEzMWRscjd6MnZFSXF4TlVabFlIaXZBeHNLY3Q5NXlTYlhtSDdQd25PT2Y2NTVuUHBvQy1YTE1OZTFaazd1YWFlcEZUVTBIc1U1Y2pDVHBIamE2ZW5QV1VSZ1VMM0E3akx0R2ZHLU9BXw?oc=5)
+
+---
+
+### [Chronic stress may be quietly reshaping your heart](https://news.google.com/rss/articles/CBMib0FVX3lxTE5yai11SER3aDQyYWdnbHNuRGZuTVVMOERYZW1uallSVGRwX2VSVDNseHk0clBXazViWldELU9CaHIwdFpmajNITXNkSkZBMlFWT2VyWXFldl9YX3lWcWEycUJhY1AycHBhWHJSVVVTcw?oc=5)
+
+2026-09-21
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5yai11SER3aDQyYWdnbHNuRGZuTVVMOERYZW1uallSVGRwX2VSVDNseHk0clBXazViWldELU9CaHIwdFpmajNITXNkSkZBMlFWT2VyWXFldl9YX3lWcWEycUJhY1AycHBhWHJSVVVTcw?oc=5)
 
 ---
 

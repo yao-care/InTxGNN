@@ -14,7 +14,7 @@ permalink: /news/diltiazem/
 ---
 
 <p class="key-answer" data-question="What news is there about Diltiazem?">
-<strong>Diltiazem</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Diltiazem</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Diltiazem with the latest he
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Experimental drug reverses paralysis and vision loss in MS mice - Drug Target Review](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTFxdjRpdFVEbV9OSjNQNkJPUmVOOVc1TUdmSkpIZHVyLU1IUDNPc0dXZnJzNk5VeDA0Zm8wTm9MNEdIbEI0RnMxVFZockFPX2FOcGUzRGxjUVh5ZFg3bXlzOExNeXFPSzZNUVBkN1Z6bHc2aUpxZXB5ekxjeUZvdllWVkE2Q19tbGxQMTJuUzhMY2RNRzhFN09NSEhjck5SMnBkNUhWMkpxUFRlSkYwM2cyTUV6T1dz?oc=5)
 
@@ -46,6 +46,14 @@ Source: [Drug Target Review](https://news.google.com/rss/articles/CBMiuAFBVV95cU
 2026-09-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Times Now](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTm5ybjdVNXdXT0U5S0RPU2NvVnNOd0xpN1g5S3VmbWlEQ0F3WUVPZnJ5TjNwRUNGcE45elI0ZGdKbUM1LWoxeld6Z1NPNkVWLWJ3WEEzMWRscjd6MnZFSXF4TlVabFlIaXZBeHNLY3Q5NXlTYlhtSDdQd25PT2Y2NTVuUHBvQy1YTE1OZTFaazd1YWFlcEZUVTBIc1U1Y2pDVHBIamE2ZW5QV1VSZ1VMM0E3akx0R2ZHLU9BXw?oc=5)
+
+---
+
+### [Chronic stress may be quietly reshaping your heart](https://news.google.com/rss/articles/CBMib0FVX3lxTE5yai11SER3aDQyYWdnbHNuRGZuTVVMOERYZW1uallSVGRwX2VSVDNseHk0clBXazViWldELU9CaHIwdFpmajNITXNkSkZBMlFWT2VyWXFldl9YX3lWcWEycUJhY1AycHBhWHJSVVVTcw?oc=5)
+
+2026-09-21 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5yai11SER3aDQyYWdnbHNuRGZuTVVMOERYZW1uallSVGRwX2VSVDNseHk0clBXazViWldELU9CaHIwdFpmajNITXNkSkZBMlFWT2VyWXFldl9YX3lWcWEycUJhY1AycHBhWHJSVVVTcw?oc=5)
 
 ---
 

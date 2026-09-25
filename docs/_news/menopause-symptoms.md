@@ -3,7 +3,7 @@ layout: default
 title: "menopause (menopause symptoms) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause (menopause symptoms). 2 articles, 23 related drugs."
+description: "Health news about menopause (menopause symptoms). 1 articles, 23 related drugs."
 permalink: /news/menopause-symptoms/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause-symptoms/
 ---
 
 <p class="key-answer" data-question="What news is there about menopause (menopause symptoms)?">
-<strong>menopause (menopause symptoms)</strong> currently has <strong>2 news articles</strong> and 23 related drugs.
+<strong>menopause (menopause symptoms)</strong> currently has <strong>1 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -51,21 +51,13 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Muscle Preservation Is Key in GLP-1 Therapy for Postmenopausal Women - Drug Topics](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG5mM3NNLWZDTnUzUWhTVjZFN0pZNUhMZ0gxX05OWVpBazZlZXg1OWxEQ1U0Q1BLNGhKc1QyQXlKVWRsOTkxaTBZVjRoYjZIQ0pwVlRjUHdxMG12ZjQyU2VxYXdMZmF1TlBTN25TVnlQcFhtSkt2ZnJTRDdBcWpBMm9DcUsxbHhyWGEwaTluRHpYWV9SaGRWOHNfSXhvaHVTOUE?oc=5)
 
 2026-09-25
 
 Source: [Drug Topics](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG5mM3NNLWZDTnUzUWhTVjZFN0pZNUhMZ0gxX05OWVpBazZlZXg1OWxEQ1U0Q1BLNGhKc1QyQXlKVWRsOTkxaTBZVjRoYjZIQ0pwVlRjUHdxMG12ZjQyU2VxYXdMZmF1TlBTN25TVnlQcFhtSkt2ZnJTRDdBcWpBMm9DcUsxbHhyWGEwaTluRHpYWV9SaGRWOHNfSXhvaHVTOUE?oc=5)
-
----
-
-### [Creatine’s benefits may go beyond the gym for older adults](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSk5KSzZ2dldRbXRyQ1p5dF93MU9LQlA2WTBaY2RLVjJmcTkyZFp0Rmxyal9SY1ozOGxqcFlyVENHRmp5OWZ4MWtFbWowUHVIbnBTMzhxNmJMZVhicHF6RGZGY25xSjdlTHFZSG5vS0o?oc=5)
-
-2026-09-23
-
-Source: [Futurity](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSk5KSzZ2dldRbXRyQ1p5dF93MU9LQlA2WTBaY2RLVjJmcTkyZFp0Rmxyal9SY1ozOGxqcFlyVENHRmp5OWZ4MWtFbWowUHVIbnBTMzhxNmJMZVhicHF6RGZGY25xSjdlTHFZSG5vS0o?oc=5)
 
 ---
 

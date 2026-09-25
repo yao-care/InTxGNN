@@ -14,7 +14,7 @@ permalink: /news/mitomycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Mitomycin?">
-<strong>Mitomycin</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
+<strong>Mitomycin</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Mitomycin with the latest he
 <p><a href="{{ '/drugs/mitomycin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (14)
 
 ### [Pancreatic Cancer Mortality Remains Unequal Across Japan](https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2paU0VWYTMzVWVNZU84azlCc25nQk9MOXV1bDhsWDlqc0RnT25fXzU0TThxc2pHYXI3Y1MzR21Mek5CZjEyNjdvNHV3ZUVUc0xDaG5PYUw0SW16YmVrSTZ3U3hldXZLYUdNRjNFNENRNjFEN2Nna2dHNVA0ekhFbzdNRm8zdDJvWC1mY05pdUFZYW9mWTlqaWd5ZFk5c1U?oc=5)
 
@@ -135,6 +135,14 @@ Source: [ThePrint](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVNHTDRv
 2026-09-24 <span class="news-indication-tag">cancer</span>
 
 Source: [theweek.in](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEo4NGsxMTg5LUxLcFdyc2p5UURCYy1ram12dzYwdDJWOTN2SndvVkJOWEVjMWtrR1RJdnNPYi1RSUgzRUlxbjQ1QzhTU2cyTXdaYmJrUE1XSW9PZkpNcEJvNHBzVGdyaGVkT1F6MWt6cUhpVmEza2tycm5NQXV6Ymlqb2wxLWRKYVRVX004eGQ0QW14WlBSb3AxOU1Zd0JJU0NxNW1qdlB5WF9idjMzS1V6MllTTExYeUpMRzU1bXBZeGVf0gHKAUFVX3lxTE91Vk82amE5NmxiMkJzZUdxV3EwQ2ZxZ3ZaSm1LaUh5ZldOV1dHMTN1VEM3dWh3TnhXSWtfa0xEUjEtSGZMVEVoT01QYlNwMnY4dzNmZWpsWldSVXVLaHU4VmxJeXNmaHgyXzZobUY2U1FXaGE0TlVWZkUxNjk5c294eVN0N0tfQ2ZTLS1zRUhFbVVadjJqWUtUREgxVS1hdDNvZHdfRkRENGEwZXZSVE5JZWpUX0NjRmRSdVYxcFI0ZzlKNHFjRGVLWEE?oc=5)
+
+---
+
+### [Blood-Based Assay Shows Promise in Detection of Early Pancreatic Cancer - Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlJqUkxEVklhT0ZyWlhMeVFKMHFNcUhVVEoxeVY2OEtEd3JjYnB4UjJRMW5HWjJjNEIzYTlsbGx3V1g1MXJzM3BRLWVidVY5ZlBIc1M3TE9KYW55S0VTc3FTT1JIM0RTczl1N0VuUnlBaXYzSFkzZXkxT2VNNjlCRnpCSWxjd3hJVnhOVzJ1M3RNX0RHT3czQkl3?oc=5)
+
+2026-09-22 <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlJqUkxEVklhT0ZyWlhMeVFKMHFNcUhVVEoxeVY2OEtEd3JjYnB4UjJRMW5HWjJjNEIzYTlsbGx3V1g1MXJzM3BRLWVidVY5ZlBIc1M3TE9KYW55S0VTc3FTT1JIM0RTczl1N0VuUnlBaXYzSFkzZXkxT2VNNjlCRnpCSWxjd3hJVnhOVzJ1M3RNX0RHT3czQkl3?oc=5)
 
 ---
 
