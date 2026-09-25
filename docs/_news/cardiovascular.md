@@ -3,7 +3,7 @@ layout: default
 title: "cardiovascular News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cardiovascular. 1 articles, 31 related drugs."
+description: "Health news about cardiovascular. 2 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="What news is there about cardiovascular?">
-<strong>cardiovascular</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
+<strong>cardiovascular</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -59,13 +59,21 @@ This page brings together the latest health news about “cardiovascular” and 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Air pollution and cardiovascular disease: Mitochondria may be the missing link - Medical Xpress](https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1F0a19HNUxIbks4QzlZaDUtVC1BdmF5YWU1RmVrYzhHeVUtTVdYQTdsMXlVVjZ2V0lLdGdheFpZdzlZeGhmUXRfSW1TTUpud241c014N1dkaVBTb1BSMDFSLUtrSzVWWDBMMWVLUmFpVTdZLWdTbmNfS2xjZ25QNWJiUHVtSDJkVFl4MVA2S3U1a05rZGUwNA?oc=5)
 
 2026-09-25
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1F0a19HNUxIbks4QzlZaDUtVC1BdmF5YWU1RmVrYzhHeVUtTVdYQTdsMXlVVjZ2V0lLdGdheFpZdzlZeGhmUXRfSW1TTUpud241c014N1dkaVBTb1BSMDFSLUtrSzVWWDBMMWVLUmFpVTdZLWdTbmNfS2xjZ25QNWJiUHVtSDJkVFl4MVA2S3U1a05rZGUwNA?oc=5)
+
+---
+
+### [Cardiac rehabilitation supported as an integral part of treatment - Medical Xpress](https://news.google.com/rss/articles/CBMibkFVX3lxTE5USUk5WDl3UG1GczZfQjJlMkpyUWktcERhUzFjaVdPdjdJVDZoZnZtOHRUUTNvRGFZaVlEZU44M3UwbDZxOC1WNUc2cGFVRFNGRTRzTFdlMV9JV3Jack90LTlSVGRHd2x5VFJlYld3?oc=5)
+
+2026-09-24
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMibkFVX3lxTE5USUk5WDl3UG1GczZfQjJlMkpyUWktcERhUzFjaVdPdjdJVDZoZnZtOHRUUTNvRGFZaVlEZU44M3UwbDZxOC1WNUc2cGFVRFNGRTRzTFdlMV9JV3Jack90LTlSVGRHd2x5VFJlYld3?oc=5)
 
 ---
 

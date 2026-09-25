@@ -3,7 +3,7 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 2 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 1 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/small-cell-lung-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>2 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>1 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Can your everyday lifestyle affect your lung cancer risk? - India Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkpoZ0I4cVR4UzBxa3h0YTRoNVRKRlRtd3RieW9lVXM3WEM0bEthLTkyd2gyNEw4T2lLZ25GcGd2ek9BdXkzdnh5S2hqVU9VbzFaUVptSTk4a19ZRkxvVWM3aTBkekdLSlJLcjhvelh6U3Awb3Nselpxb0pfT3BiWlc0RjlCNy1CelBfb2ZhWmc5NW44ckQ5WGxkajR4aFZuV3dKa2JBRy14QjVhWEx2TkNVbWR1enlzTXfSAboBQVVfeXFMT1ZKaGdCOHFUeFMwcWt4dGE0aDVUSkZUbXd0YnlvZVVzN1hDNGxLYS05MndoMjRMOE9pS2duRnBndnpPQXV5M3Z4eUtoalVPVW8xWlFabUk5OGtfWUZMb1VjN2kwZHpHS0pSS3I4b3pYelNwMG9zbHpacW9KX09wYlpXNEY5QjctQnpQX29mYVpnOTVuOHJEOVhsZGo0eGhWbld3SmtiQUcteEI1YVhMdk5DVW1kdXp5c013?oc=5)
+### [World Lung Day 2026: How to self-check your lung health and know when to see a doctor](https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXdFdHJrYmJFb2xEZlcyek1QdlRCLVViSmx0Uzk0WnR6MDRpaFJHY1FheTduVlc5dlVId3JnQ2RsbzdJLTN0cGt2VDZQNmNJbnE3cXpQcXJXQTM3R1JvVGRSREtUb1lBUXZ0YXgyNEtvVlJESDZybDN6NC1McmF4cGVaQXlrb0R2UGlJMFZhY2hNSXI2N0VDX2x2WnljS2Z6TGpsTEVfRnBVZFVHWDFWa0VhTkFEYWNWM3NLLUN4cVdlZ2RUT0dwdTBBSdIB0AFBVV95cUxPUUVkcG5xczVEYUZfZk1wWlRVazNFdVZ5cjJtTWlfc1FaMVIwR01kTjh6bEU0VEMzTllUUi02RTFVaU1QUkVnRDdSNURJY2ljRFF5b3J2eHlMVUJkalVHS1FCaWI1cUJnSWxreVRWWXRIQzJNWHNIdGJYX0l4Z3NsX19tejFieXlJYXFsZ3dUNXJHbVg2Q3FtTTd4OHFnS1RfWWItNFBrNnV5bTFhZ3dLUXpvUEdNb1JaYTBOZmVuVUgwWWR2Qkg5Y1J4Q1pQRGxr?oc=5)
 
 2026-09-25
 
-Source: [India Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkpoZ0I4cVR4UzBxa3h0YTRoNVRKRlRtd3RieW9lVXM3WEM0bEthLTkyd2gyNEw4T2lLZ25GcGd2ek9BdXkzdnh5S2hqVU9VbzFaUVptSTk4a19ZRkxvVWM3aTBkekdLSlJLcjhvelh6U3Awb3Nselpxb0pfT3BiWlc0RjlCNy1CelBfb2ZhWmc5NW44ckQ5WGxkajR4aFZuV3dKa2JBRy14QjVhWEx2TkNVbWR1enlzTXfSAboBQVVfeXFMT1ZKaGdCOHFUeFMwcWt4dGE0aDVUSkZUbXd0YnlvZVVzN1hDNGxLYS05MndoMjRMOE9pS2duRnBndnpPQXV5M3Z4eUtoalVPVW8xWlFabUk5OGtfWUZMb1VjN2kwZHpHS0pSS3I4b3pYelNwMG9zbHpacW9KX09wYlpXNEY5QjctQnpQX29mYVpnOTVuOHJEOVhsZGo0eGhWbld3SmtiQUcteEI1YVhMdk5DVW1kdXp5c013?oc=5)
-
----
-
-### [MHRA Backs New Maintenance Option for ES-SCLC](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOG1xbkNqd2wyeFF1UXRseHR3aTBoOWZhN0lxZWtPWkQzOGg2V19zTTB1dTJ4R0x6d3ZqZzBqcVloSHBrVEZwQzRNUEVFNGUwRjdpR0FBU3ZLOEdLRHBleHhZTVF3eDNPUXZpUFg1SWp5ZndLS3FUelpwbHlVdG9MX0picGp0X3drMEFtb0hJMnhIci1jT0E?oc=5)
-
-2026-09-24
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOG1xbkNqd2wyeFF1UXRseHR3aTBoOWZhN0lxZWtPWkQzOGg2V19zTTB1dTJ4R0x6d3ZqZzBqcVloSHBrVEZwQzRNUEVFNGUwRjdpR0FBU3ZLOEdLRHBleHhZTVF3eDNPUXZpUFg1SWp5ZndLS3FUelpwbHlVdG9MX0picGp0X3drMEFtb0hJMnhIci1jT0E?oc=5)
+Source: [Firstpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXdFdHJrYmJFb2xEZlcyek1QdlRCLVViSmx0Uzk0WnR6MDRpaFJHY1FheTduVlc5dlVId3JnQ2RsbzdJLTN0cGt2VDZQNmNJbnE3cXpQcXJXQTM3R1JvVGRSREtUb1lBUXZ0YXgyNEtvVlJESDZybDN6NC1McmF4cGVaQXlrb0R2UGlJMFZhY2hNSXI2N0VDX2x2WnljS2Z6TGpsTEVfRnBVZFVHWDFWa0VhTkFEYWNWM3NLLUN4cVdlZ2RUT0dwdTBBSdIB0AFBVV95cUxPUUVkcG5xczVEYUZfZk1wWlRVazNFdVZ5cjJtTWlfc1FaMVIwR01kTjh6bEU0VEMzTllUUi02RTFVaU1QUkVnRDdSNURJY2ljRFF5b3J2eHlMVUJkalVHS1FCaWI1cUJnSWxreVRWWXRIQzJNWHNIdGJYX0l4Z3NsX19tejFieXlJYXFsZ3dUNXJHbVg2Q3FtTTd4OHFnS1RfWWItNFBrNnV5bTFhZ3dLUXpvUEdNb1JaYTBOZmVuVUgwWWR2Qkg5Y1J4Q1pQRGxr?oc=5)
 
 ---
 
