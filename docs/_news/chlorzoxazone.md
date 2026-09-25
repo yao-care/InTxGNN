@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Chlorzoxazone with the lates
 
 ## Related News (2)
 
-### [Congo Short On Health Workers As Ebola Cases Surge 73%, Says WHO](https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzZHY1ZwUnk0blRtZEJjZnJaN3k2NnVMQ3ZMbkRQelpVRFh1RFBVZ0NtaUNaNTJoUUd1QXFnN0tJYTMybUdycDNUUzVROWJraGVOZ0xRc2lwbV9jUFdmbnhycExaRHRDSFlxYnZsbEJ0dzlWLU9IbVYwczk5QUhuc1lGcjdrVXZUVFg2VEs5enVDRVQ0S1FlbV9IVE9aaThC?oc=5)
+### [MHRA Backs New Maintenance Option for ES-SCLC](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOG1xbkNqd2wyeFF1UXRseHR3aTBoOWZhN0lxZWtPWkQzOGg2V19zTTB1dTJ4R0x6d3ZqZzBqcVloSHBrVEZwQzRNUEVFNGUwRjdpR0FBU3ZLOEdLRHBleHhZTVF3eDNPUXZpUFg1SWp5ZndLS3FUelpwbHlVdG9MX0picGp0X3drMEFtb0hJMnhIci1jT0E?oc=5)
 
-2026-09-24 <span class="news-indication-tag">RA</span>
+2026-09-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">small cell lung cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [NDTV](https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzZHY1ZwUnk0blRtZEJjZnJaN3k2NnVMQ3ZMbkRQelpVRFh1RFBVZ0NtaUNaNTJoUUd1QXFnN0tJYTMybUdycDNUUzVROWJraGVOZ0xRc2lwbV9jUFdmbnhycExaRHRDSFlxYnZsbEJ0dzlWLU9IbVYwczk5QUhuc1lGcjdrVXZUVFg2VEs5enVDRVQ0S1FlbV9IVE9aaThC?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOG1xbkNqd2wyeFF1UXRseHR3aTBoOWZhN0lxZWtPWkQzOGg2V19zTTB1dTJ4R0x6d3ZqZzBqcVloSHBrVEZwQzRNUEVFNGUwRjdpR0FBU3ZLOEdLRHBleHhZTVF3eDNPUXZpUFg1SWp5ZndLS3FUelpwbHlVdG9MX0picGp0X3drMEFtb0hJMnhIci1jT0E?oc=5)
 
 ---
 

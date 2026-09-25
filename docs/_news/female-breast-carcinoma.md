@@ -39,11 +39,11 @@ This page brings together the latest health news about “breast cancer” and l
 
 ## Related News (2)
 
-### [Blood test detects breast cancer more than a year before scans - The Brighter Side of News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVpFZWViT0VUWGZHX3VJU1JNT3h0YUFLMThLVS1GblpKRllfNTRMczVqbHFjVFF0Ql81Tnc0Q2tnQVdHMzA4RENoRUViTlJKOTNSb0ZCcnUxY2l5MVB3ZlFSRmg4Mjl5THZmeDVxWnRiWm03ZC1WVFV2YTA1a2JOMW9PQ096ZFUtV3loSkRXWENpU09WVEJvVTIzYjFqaThKdk9j?oc=5)
+### [Blood Test May Predict Cancer Risk Years Before Diagnosis](https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3k0MmlsUTFBWUl5YzVxY3VhN2xnSENrNGFUOFNuNG04cndhOXgtTktoSTAxQWpnb3d6cFhDSmkyMk5Dd08xc3BlOEhWUUVQUHpmNVdfNjdVUU0xdno0elZLNk5jTF96N0tvdlJpemZWd3F6SDFzVHJYdHFGdzlzT1NsYU5sY3AyTmpzcVh1b3NuZkt1YVRmQlhSYi1iQnZy?oc=5)
 
-2026-09-24
+2026-09-25
 
-Source: [The Brighter Side of News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVpFZWViT0VUWGZHX3VJU1JNT3h0YUFLMThLVS1GblpKRllfNTRMczVqbHFjVFF0Ql81Tnc0Q2tnQVdHMzA4RENoRUViTlJKOTNSb0ZCcnUxY2l5MVB3ZlFSRmg4Mjl5THZmeDVxWnRiWm03ZC1WVFV2YTA1a2JOMW9PQ096ZFUtV3loSkRXWENpU09WVEJvVTIzYjFqaThKdk9j?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3k0MmlsUTFBWUl5YzVxY3VhN2xnSENrNGFUOFNuNG04cndhOXgtTktoSTAxQWpnb3d6cFhDSmkyMk5Dd08xc3BlOEhWUUVQUHpmNVdfNjdVUU0xdno0elZLNk5jTF96N0tvdlJpemZWd3F6SDFzVHJYdHFGdzlzT1NsYU5sY3AyTmpzcVh1b3NuZkt1YVRmQlhSYi1iQnZy?oc=5)
 
 ---
 

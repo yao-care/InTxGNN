@@ -14,7 +14,7 @@ permalink: /news/albendazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
+<strong>Albendazole</strong> currently has <strong>15 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,53 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
 
-### [Blood test detects breast cancer more than a year before scans - The Brighter Side of News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVpFZWViT0VUWGZHX3VJU1JNT3h0YUFLMThLVS1GblpKRllfNTRMczVqbHFjVFF0Ql81Tnc0Q2tnQVdHMzA4RENoRUViTlJKOTNSb0ZCcnUxY2l5MVB3ZlFSRmg4Mjl5THZmeDVxWnRiWm03ZC1WVFV2YTA1a2JOMW9PQ096ZFUtV3loSkRXWENpU09WVEJvVTIzYjFqaThKdk9j?oc=5)
+### [Some dementia patients grow lucid near the end. Scientists hope it’s a clue. - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3kyVzdVMVRTaVhPYWNMc0huN1N4djhSRlprTWwtelpxTUwzUHN0QXNEWURRZ0p2a3NrSEdYVm1zNkIzSk1MQnZWRFF2VjcyQ1pFNHQwZmVkdUY1Y1hsbXpZbklOVHQtRzBvS3hNaUFVektmWE9ia1NpUDFVX0ZMV3lqVzMwQnQwLTB2SlhMS3NnYjJ1czBIWHgzUlA5TDdSUV9fX2ZzSldlRl9rRzF0YXpZVDhmM2JL?oc=5)
 
-2026-09-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-09-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [The Brighter Side of News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVpFZWViT0VUWGZHX3VJU1JNT3h0YUFLMThLVS1GblpKRllfNTRMczVqbHFjVFF0Ql81Tnc0Q2tnQVdHMzA4RENoRUViTlJKOTNSb0ZCcnUxY2l5MVB3ZlFSRmg4Mjl5THZmeDVxWnRiWm03ZC1WVFV2YTA1a2JOMW9PQ096ZFUtV3loSkRXWENpU09WVEJvVTIzYjFqaThKdk9j?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3kyVzdVMVRTaVhPYWNMc0huN1N4djhSRlprTWwtelpxTUwzUHN0QXNEWURRZ0p2a3NrSEdYVm1zNkIzSk1MQnZWRFF2VjcyQ1pFNHQwZmVkdUY1Y1hsbXpZbklOVHQtRzBvS3hNaUFVektmWE9ia1NpUDFVX0ZMV3lqVzMwQnQwLTB2SlhMS3NnYjJ1czBIWHgzUlA5TDdSUV9fX2ZzSldlRl9rRzF0YXpZVDhmM2JL?oc=5)
+
+---
+
+### [Blood Test May Predict Cancer Risk Years Before Diagnosis](https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3k0MmlsUTFBWUl5YzVxY3VhN2xnSENrNGFUOFNuNG04cndhOXgtTktoSTAxQWpnb3d6cFhDSmkyMk5Dd08xc3BlOEhWUUVQUHpmNVdfNjdVUU0xdno0elZLNk5jTF96N0tvdlJpemZWd3F6SDFzVHJYdHFGdzlzT1NsYU5sY3AyTmpzcVh1b3NuZkt1YVRmQlhSYi1iQnZy?oc=5)
+
+2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3k0MmlsUTFBWUl5YzVxY3VhN2xnSENrNGFUOFNuNG04cndhOXgtTktoSTAxQWpnb3d6cFhDSmkyMk5Dd08xc3BlOEhWUUVQUHpmNVdfNjdVUU0xdno0elZLNk5jTF96N0tvdlJpemZWd3F6SDFzVHJYdHFGdzlzT1NsYU5sY3AyTmpzcVh1b3NuZkt1YVRmQlhSYi1iQnZy?oc=5)
+
+---
+
+### [Can hormone replacement therapy (HRT) prevent dementia? - The Sen Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxORDZrRVRGTm4weHNTYkdmMkRMYnZBb2NiRkRPbWZZaTBzdmFXVHByM1JqdmhLYkNiMl9qMlNva1JiTXpMci1EUjFEQ2VZc1FDMFlYYk91aGVPTUY4OVJPMVBFZWtJZlVacXdOeTNNdzY0RW9GOC02dmJOZDhvaENMeWtRRQ?oc=5)
+
+2026-09-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The Sen Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxORDZrRVRGTm4weHNTYkdmMkRMYnZBb2NiRkRPbWZZaTBzdmFXVHByM1JqdmhLYkNiMl9qMlNva1JiTXpMci1EUjFEQ2VZc1FDMFlYYk91aGVPTUY4OVJPMVBFZWtJZlVacXdOeTNNdzY0RW9GOC02dmJOZDhvaENMeWtRRQ?oc=5)
+
+---
+
+### [USP15 enzyme emerges as potential target for ovarian cancer treatment](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FkTVhUM053d21fRWZYanBtT3Bsb3hqcEJSUmdhN204UW51enZKOEo5dXdhbTZLSTBXcFQ5ZmViaGdaa2J2Y0g1bUtieDVibnlhVnl6elhWOWM2R0R5UkcwY3JETnhIdXVTczRIQkk0VGxtRkdnNGZTRnV5RkdmcFpkR3BLS0J2c1ZscHRTZzV5c0h5NWcza3RSN0Etbmh1Q1NXWHgyVGwtRjMwbDd4allpdjkxNlZu?oc=5)
+
+2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FkTVhUM053d21fRWZYanBtT3Bsb3hqcEJSUmdhN204UW51enZKOEo5dXdhbTZLSTBXcFQ5ZmViaGdaa2J2Y0g1bUtieDVibnlhVnl6elhWOWM2R0R5UkcwY3JETnhIdXVTczRIQkk0VGxtRkdnNGZTRnV5RkdmcFpkR3BLS0J2c1ZscHRTZzV5c0h5NWcza3RSN0Etbmh1Q1NXWHgyVGwtRjMwbDd4allpdjkxNlZu?oc=5)
+
+---
+
+### [Can your everyday lifestyle affect your lung cancer risk? - India Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkpoZ0I4cVR4UzBxa3h0YTRoNVRKRlRtd3RieW9lVXM3WEM0bEthLTkyd2gyNEw4T2lLZ25GcGd2ek9BdXkzdnh5S2hqVU9VbzFaUVptSTk4a19ZRkxvVWM3aTBkekdLSlJLcjhvelh6U3Awb3Nselpxb0pfT3BiWlc0RjlCNy1CelBfb2ZhWmc5NW44ckQ5WGxkajR4aFZuV3dKa2JBRy14QjVhWEx2TkNVbWR1enlzTXfSAboBQVVfeXFMT1ZKaGdCOHFUeFMwcWt4dGE0aDVUSkZUbXd0YnlvZVVzN1hDNGxLYS05MndoMjRMOE9pS2duRnBndnpPQXV5M3Z4eUtoalVPVW8xWlFabUk5OGtfWUZMb1VjN2kwZHpHS0pSS3I4b3pYelNwMG9zbHpacW9KX09wYlpXNEY5QjctQnpQX29mYVpnOTVuOHJEOVhsZGo0eGhWbld3SmtiQUcteEI1YVhMdk5DVW1kdXp5c013?oc=5)
+
+2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [India Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkpoZ0I4cVR4UzBxa3h0YTRoNVRKRlRtd3RieW9lVXM3WEM0bEthLTkyd2gyNEw4T2lLZ25GcGd2ek9BdXkzdnh5S2hqVU9VbzFaUVptSTk4a19ZRkxvVWM3aTBkekdLSlJLcjhvelh6U3Awb3Nselpxb0pfT3BiWlc0RjlCNy1CelBfb2ZhWmc5NW44ckQ5WGxkajR4aFZuV3dKa2JBRy14QjVhWEx2TkNVbWR1enlzTXfSAboBQVVfeXFMT1ZKaGdCOHFUeFMwcWt4dGE0aDVUSkZUbXd0YnlvZVVzN1hDNGxLYS05MndoMjRMOE9pS2duRnBndnpPQXV5M3Z4eUtoalVPVW8xWlFabUk5OGtfWUZMb1VjN2kwZHpHS0pSS3I4b3pYelNwMG9zbHpacW9KX09wYlpXNEY5QjctQnpQX29mYVpnOTVuOHJEOVhsZGo0eGhWbld3SmtiQUcteEI1YVhMdk5DVW1kdXp5c013?oc=5)
+
+---
+
+### [MHRA Backs New Maintenance Option for ES-SCLC](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOG1xbkNqd2wyeFF1UXRseHR3aTBoOWZhN0lxZWtPWkQzOGg2V19zTTB1dTJ4R0x6d3ZqZzBqcVloSHBrVEZwQzRNUEVFNGUwRjdpR0FBU3ZLOEdLRHBleHhZTVF3eDNPUXZpUFg1SWp5ZndLS3FUelpwbHlVdG9MX0picGp0X3drMEFtb0hJMnhIci1jT0E?oc=5)
+
+2026-09-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">small cell lung cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOG1xbkNqd2wyeFF1UXRseHR3aTBoOWZhN0lxZWtPWkQzOGg2V19zTTB1dTJ4R0x6d3ZqZzBqcVloSHBrVEZwQzRNUEVFNGUwRjdpR0FBU3ZLOEdLRHBleHhZTVF3eDNPUXZpUFg1SWp5ZndLS3FUelpwbHlVdG9MX0picGp0X3drMEFtb0hJMnhIci1jT0E?oc=5)
 
 ---
 
@@ -55,6 +95,14 @@ Source: [The Brighter Side of News](https://news.google.com/rss/articles/CBMiowF
 2026-09-24 <span class="news-indication-tag">cancer</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG5VeU9EcXRFcUp5UE9rSEEwWDR6ZFE2Q05uQk9DX2VPUGtfRk4zeEttRGs5bW4wdnUtSnVPb0kxTS1ITkNHR09YZHdEM3NIaTFvTVVqRFRwbUdFUHB2TDcwaU90LUdldVNJalZ1OTFEaHhvdzR0eEhUWVZCMTVJbTZB?oc=5)
+
+---
+
+### [Pune doctors say drinking very hot tea and coffee may increase risk of oesophageal cancer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV3pwUUtpTjViRHEzMlhWRUNKb1FFTXBHc1hjV2ZaaVBwbEQwY0FINlZTbF9OSndCMzJVNzZHUllWcmlUX3N3Sk9YeXlUVGkzLVZKclRuSGhTakU4UmJpb3VUOG1QWHZabmRRU2o0dkRfZlgwUVpSOEZQcVJERUZjdnI4ei05UTNtbHVIa2ZadW5sbEdWNDlsOXBTR3gyS2lQVm9kY0R3U2RpblRmNUZVdUpSRzZMOU50TkVXNzVMQzM4WS1NeDhjT1JKd1BWaElMekkzc0dETTBUanMtYVpoLVNPVVpPTWVFRnE4Nllod3XSAfYBQVVfeXFMTTNfWWQyU0RPblNKa2JrRmlqMUROV1VpUHJtZGM2UjRqQTBRYTYzYW16UFAtM2ZFeUJXSUZxdFd5RGxmYmNNMWFHQm1jMTd3WGtVQjBYR0FXYU8tWkltMTV6Y0NtVHhWWHg2azJaSEN5Ql9LakVDZXlKMkxlZGdRSFBLOGhWaHBlSVhLQjhPenNhX0ZlT0hCR0IzU0xRLXc2Nm5fdVd6aTVlOFZSdkxzbEl2RElTdEFkek5SRTRrb2d3NFprTWZ1VjlRRnhyNWVtU1oxeHI3alc2WGNkWFVNSmV4aG9oVTJkQ0RsNHRndnl5UEcxZVBB?oc=5)
+
+2026-09-24 <span class="news-indication-tag">cancer</span>
+
+Source: [Mid-Day](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV3pwUUtpTjViRHEzMlhWRUNKb1FFTXBHc1hjV2ZaaVBwbEQwY0FINlZTbF9OSndCMzJVNzZHUllWcmlUX3N3Sk9YeXlUVGkzLVZKclRuSGhTakU4UmJpb3VUOG1QWHZabmRRU2o0dkRfZlgwUVpSOEZQcVJERUZjdnI4ei05UTNtbHVIa2ZadW5sbEdWNDlsOXBTR3gyS2lQVm9kY0R3U2RpblRmNUZVdUpSRzZMOU50TkVXNzVMQzM4WS1NeDhjT1JKd1BWaElMekkzc0dETTBUanMtYVpoLVNPVVpPTWVFRnE4Nllod3XSAfYBQVVfeXFMTTNfWWQyU0RPblNKa2JrRmlqMUROV1VpUHJtZGM2UjRqQTBRYTYzYW16UFAtM2ZFeUJXSUZxdFd5RGxmYmNNMWFHQm1jMTd3WGtVQjBYR0FXYU8tWkltMTV6Y0NtVHhWWHg2azJaSEN5Ql9LakVDZXlKMkxlZGdRSFBLOGhWaHBlSVhLQjhPenNhX0ZlT0hCR0IzU0xRLXc2Nm5fdVd6aTVlOFZSdkxzbEl2RElTdEFkek5SRTRrb2d3NFprTWZ1VjlRRnhyNWVtU1oxeHI3alc2WGNkWFVNSmV4aG9oVTJkQ0RsNHRndnl5UEcxZVBB?oc=5)
 
 ---
 
@@ -74,14 +122,6 @@ Source: [theweek.in](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEo4NG
 
 ---
 
-### [Tau accumulation reshapes neurotransmitter signaling in Alzheimer’s disease - American Society for Biochemistry and Molecular Biology](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWld6S1RoT0gzMEt5Ukt0RGc1ZF9IZE5uMGMwYmkzN1JoNXlOLTlObkw2bk1LRU5SUlZScFN3Z0czZlkzaGE5M291WFVJUWxVTWtyS0hSeWdvY2ZrUE94YktndDFTd0VUOVM1cUdzb0h0SDBJSHBIYkFoRUNkTzRXU3E4clhnQzdWZHpldGlYWDJhVldMc1pXNg?oc=5)
-
-2026-09-24 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [American Society for Biochemistry and Molecular Biology](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWld6S1RoT0gzMEt5Ukt0RGc1ZF9IZE5uMGMwYmkzN1JoNXlOLTlObkw2bk1LRU5SUlZScFN3Z0czZlkzaGE5M291WFVJUWxVTWtyS0hSeWdvY2ZrUE94YktndDFTd0VUOVM1cUdzb0h0SDBJSHBIYkFoRUNkTzRXU3E4clhnQzdWZHpldGlYWDJhVldMc1pXNg?oc=5)
-
----
-
 ### [Calls for more young people to take up HPV vaccine](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFN4S2JONVFrVjM4UTlHSU9FY3VRQTFwOGlpU2hWSy1LVjE5dFBWUHdlbTlwVnprNktCQkFRY0Fpa1FKMmt2ZUZsRllZMzRUVTlIZy1SMzc4RDlLNTZxMTdodWwwdm1WcDhhaVhsbkZvTGpfSWs5QXByMEF1eXFGN1N4UG9vUi1HTGtJRw?oc=5)
 
 2026-09-24 <span class="news-indication-tag">cancer</span>
@@ -90,27 +130,11 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFN4S2JONVF
 
 ---
 
-### [Pune doctors say drinking very hot tea and coffee may increase risk of oesophageal cancer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV3pwUUtpTjViRHEzMlhWRUNKb1FFTXBHc1hjV2ZaaVBwbEQwY0FINlZTbF9OSndCMzJVNzZHUllWcmlUX3N3Sk9YeXlUVGkzLVZKclRuSGhTakU4UmJpb3VUOG1QWHZabmRRU2o0dkRfZlgwUVpSOEZQcVJERUZjdnI4ei05UTNtbHVIa2ZadW5sbEdWNDlsOXBTR3gyS2lQVm9kY0R3U2RpblRmNUZVdUpSRzZMOU50TkVXNzVMQzM4WS1NeDhjT1JKd1BWaElMekkzc0dETTBUanMtYVpoLVNPVVpPTWVFRnE4Nllod3XSAfYBQVVfeXFMTTNfWWQyU0RPblNKa2JrRmlqMUROV1VpUHJtZGM2UjRqQTBRYTYzYW16UFAtM2ZFeUJXSUZxdFd5RGxmYmNNMWFHQm1jMTd3WGtVQjBYR0FXYU8tWkltMTV6Y0NtVHhWWHg2azJaSEN5Ql9LakVDZXlKMkxlZGdRSFBLOGhWaHBlSVhLQjhPenNhX0ZlT0hCR0IzU0xRLXc2Nm5fdVd6aTVlOFZSdkxzbEl2RElTdEFkek5SRTRrb2d3NFprTWZ1VjlRRnhyNWVtU1oxeHI3alc2WGNkWFVNSmV4aG9oVTJkQ0RsNHRndnl5UEcxZVBB?oc=5)
-
-2026-09-24 <span class="news-indication-tag">cancer</span>
-
-Source: [Mid-Day](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV3pwUUtpTjViRHEzMlhWRUNKb1FFTXBHc1hjV2ZaaVBwbEQwY0FINlZTbF9OSndCMzJVNzZHUllWcmlUX3N3Sk9YeXlUVGkzLVZKclRuSGhTakU4UmJpb3VUOG1QWHZabmRRU2o0dkRfZlgwUVpSOEZQcVJERUZjdnI4ei05UTNtbHVIa2ZadW5sbEdWNDlsOXBTR3gyS2lQVm9kY0R3U2RpblRmNUZVdUpSRzZMOU50TkVXNzVMQzM4WS1NeDhjT1JKd1BWaElMekkzc0dETTBUanMtYVpoLVNPVVpPTWVFRnE4Nllod3XSAfYBQVVfeXFMTTNfWWQyU0RPblNKa2JrRmlqMUROV1VpUHJtZGM2UjRqQTBRYTYzYW16UFAtM2ZFeUJXSUZxdFd5RGxmYmNNMWFHQm1jMTd3WGtVQjBYR0FXYU8tWkltMTV6Y0NtVHhWWHg2azJaSEN5Ql9LakVDZXlKMkxlZGdRSFBLOGhWaHBlSVhLQjhPenNhX0ZlT0hCR0IzU0xRLXc2Nm5fdVd6aTVlOFZSdkxzbEl2RElTdEFkek5SRTRrb2d3NFprTWZ1VjlRRnhyNWVtU1oxeHI3alc2WGNkWFVNSmV4aG9oVTJkQ0RsNHRndnl5UEcxZVBB?oc=5)
-
----
-
 ### [Doctors Flag Early Diagnosis Gap As India Gets First Disease-Modifying Alzheimer’s Drug - BW Healthcare World](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVU3QnlBWllab2xST3ZfUDlmTUZOQmI5UVdad3A4WngwdnFTVXRjQnhLMVluTGlJaDNyWWNFRTVBNjZtSzdydEJaWnRDRTVTR01XcmloR3g5VWxhODBBc1VZOVZEbVBMYkJGX2JLbDRRS3NYLVVKaGtTdkF6Q1Zkb0R5ajQ0M0VtUEVTb0tjUENveG5FUkJkMXMwdXNVUk9yak1ZTG1fZlJONHhqcnhqUUhJWmZ4aFdqajZkRlVfSWlKUVlnZTczUXYteVV4VWNPU2c?oc=5)
 
 2026-09-24 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVU3QnlBWllab2xST3ZfUDlmTUZOQmI5UVdad3A4WngwdnFTVXRjQnhLMVluTGlJaDNyWWNFRTVBNjZtSzdydEJaWnRDRTVTR01XcmloR3g5VWxhODBBc1VZOVZEbVBMYkJGX2JLbDRRS3NYLVVKaGtTdkF6Q1Zkb0R5ajQ0M0VtUEVTb0tjUENveG5FUkJkMXMwdXNVUk9yak1ZTG1fZlJONHhqcnhqUUhJWmZ4aFdqajZkRlVfSWlKUVlnZTczUXYteVV4VWNPU2c?oc=5)
-
----
-
-### [Q&A: Teal Health scores $22M to broaden at-home cervical cancer screening](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVR1NE1rSVFRM3Y1UXp6LUVMeTVQQmZyMldtd3F2VXFCQWh0T3VaWjF2ekZUMUpsaDJVWk9DMlJkVzdoaXpQYW9YOFUxYjNJaFRMMFczRnFpMUdWNjhGN2lFTXYzSE1zVFZhaFEyd0xMQnQyUXNiY0k3Ym9Fa0ROZmdiMWItZDdXNy1iSmJxcGp0bEQ3Z19IRmdKWjdUcWlQcWc?oc=5)
-
-2026-09-23 <span class="news-indication-tag">cancer</span>
-
-Source: [MobiHealthNews](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVR1NE1rSVFRM3Y1UXp6LUVMeTVQQmZyMldtd3F2VXFCQWh0T3VaWjF2ekZUMUpsaDJVWk9DMlJkVzdoaXpQYW9YOFUxYjNJaFRMMFczRnFpMUdWNjhGN2lFTXYzSE1zVFZhaFEyd0xMQnQyUXNiY0k3Ym9Fa0ROZmdiMWItZDdXNy1iSmJxcGp0bEQ3Z19IRmdKWjdUcWlQcWc?oc=5)
 
 ---
 
@@ -127,22 +151,6 @@ Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMipgFBVV95
 2026-09-23 <span class="news-indication-tag">cancer</span>
 
 Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGVUJkLWZoX1V3cExpWmNHU2p3d2xDWkQ4eTJSdmxYU0VUMjFDVGxfVm4wd0tIeV9MV081OGxkLTRyV2Rhc2JqT3hDVERKQVhNaw?oc=5)
-
----
-
-### [Researchers Identify the Risk Factors for MASLD Cirrhosis Under Age](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVNWSEhiNGxLaXV1TVYwaE1fWENLR3V3Tnhpd3BzX2dQYmk0LW16bnE0Vy1WUlNqeWR6VHdZY2ZBbmxLaGFRcDFiczR6a2tWZVdUa2ljZkJEWHRkcGx4alNSOE5LV0htUnJGXzYwRDlCakgtUDFRTDNWR1ItY0RWVUloWjhOdFhaNlJDUHo2Q0FjZTRQUGIzakxxQXNnalpSMkFxU0JNVmFXcVVmUGU1QQ?oc=5)
-
-2026-09-23 <span class="news-indication-tag">cancer</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVNWSEhiNGxLaXV1TVYwaE1fWENLR3V3Tnhpd3BzX2dQYmk0LW16bnE0Vy1WUlNqeWR6VHdZY2ZBbmxLaGFRcDFiczR6a2tWZVdUa2ljZkJEWHRkcGx4alNSOE5LV0htUnJGXzYwRDlCakgtUDFRTDNWR1ItY0RWVUloWjhOdFhaNlJDUHo2Q0FjZTRQUGIzakxxQXNnalpSMkFxU0JNVmFXcVVmUGU1QQ?oc=5)
-
----
-
-### [WHO Publishes Global Research Agenda for Traditional Medicine 2025–2034 - fundsforNGOs News](https://news.google.com/rss/articles/CBMikwFBVV95cUxPby1MRTZNUEl3RGQ5TGhsSURxUG0wZGpFREpZY0VwOS1uSjdsX2ZKVEtoNVdndElOanJHYzdkTDFDX25tNTNiSzBudHVFdjh0T2Nhd3pkbzhfb2lsQmg0cmZNd1FoVGNJTnJoOEhDaFRETW1ITzNnWjZGQXpTTk9NNm4xOVVSVHFIM0ZxUzg0czNWU0E?oc=5)
-
-2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [fundsforNGOs News](https://news.google.com/rss/articles/CBMikwFBVV95cUxPby1MRTZNUEl3RGQ5TGhsSURxUG0wZGpFREpZY0VwOS1uSjdsX2ZKVEtoNVdndElOanJHYzdkTDFDX25tNTNiSzBudHVFdjh0T2Nhd3pkbzhfb2lsQmg0cmZNd1FoVGNJTnJoOEhDaFRETW1ITzNnWjZGQXpTTk9NNm4xOVVSVHFIM0ZxUzg0czNWU0E?oc=5)
 
 ---
 
