@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 
 ## Related News (14)
 
-### [Protein modification network plays vital role in cancer development](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeURtTGN0UGZMU29BZ1VvcngtOExKT3cxV3I1TkcyN0w1VXpjU0tpNXFaSFlVdVBtX1RUUzZuTjdjZW90V3ZWSy1mQU1kOFRXZ2g4UjlKNlpwaG5RYVVpb2pNdXVEUVNnV0NFMjFLUWRwRnAwRDBVeGdYT09xaUd2Y2ZUMUJDZDJncGRrWmZRZ2NMczlrVGs5Y3ZGM1dXRUpKZzdHMWRYdUpOMEVVOEoyRWh4amhqdw?oc=5)
+### [Blood test detects breast cancer more than a year before scans - The Brighter Side of News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVpFZWViT0VUWGZHX3VJU1JNT3h0YUFLMThLVS1GblpKRllfNTRMczVqbHFjVFF0Ql81Tnc0Q2tnQVdHMzA4RENoRUViTlJKOTNSb0ZCcnUxY2l5MVB3ZlFSRmg4Mjl5THZmeDVxWnRiWm03ZC1WVFV2YTA1a2JOMW9PQ096ZFUtV3loSkRXWENpU09WVEJvVTIzYjFqaThKdk9j?oc=5)
 
-2026-09-24 <span class="news-indication-tag">cancer</span>
+2026-09-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeURtTGN0UGZMU29BZ1VvcngtOExKT3cxV3I1TkcyN0w1VXpjU0tpNXFaSFlVdVBtX1RUUzZuTjdjZW90V3ZWSy1mQU1kOFRXZ2g4UjlKNlpwaG5RYVVpb2pNdXVEUVNnV0NFMjFLUWRwRnAwRDBVeGdYT09xaUd2Y2ZUMUJDZDJncGRrWmZRZ2NMczlrVGs5Y3ZGM1dXRUpKZzdHMWRYdUpOMEVVOEoyRWh4amhqdw?oc=5)
+Source: [The Brighter Side of News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVpFZWViT0VUWGZHX3VJU1JNT3h0YUFLMThLVS1GblpKRllfNTRMczVqbHFjVFF0Ql81Tnc0Q2tnQVdHMzA4RENoRUViTlJKOTNSb0ZCcnUxY2l5MVB3ZlFSRmg4Mjl5THZmeDVxWnRiWm03ZC1WVFV2YTA1a2JOMW9PQ096ZFUtV3loSkRXWENpU09WVEJvVTIzYjFqaThKdk9j?oc=5)
 
 ---
 
@@ -62,7 +62,7 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG
 
 2026-09-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [theprint.in](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVNHTDRvVE9VcTFCT2hvUmN6c0p2Sk9samRRWFNzSGlpRTNocDJBbWxFcGFiOV9WSEZ3OURveUQtbG9GZXhnbzQ2UEE5NFZkb2NtSmhIV1Y4Zlk1YkpCX29DOXAyWWZJeWpuTE5kSExRQXFEUGl0SDhuVGNrRlBjWGFWajdpYXg1aElQeXlJNkFkTGvSAZgBQVVfeXFMTWNiZl9IbFUxcEg2OGlOYVI0dnE5dUREYnhJN3Y2RFdxWF9NaG1WamlyMnQydC1jaE9jN2NNMVMzczVQZ3JNTlI2WklRV1BGV0gySnFTMWVZalZhV21MdjNLSDdqR1paVkJKSGx5ZFNBVy1yOC1sQWRFb0lfUDUyZFRQVEdfbWVSbVlmX0NZSHJVY3JyM01zUk4?oc=5)
+Source: [ThePrint](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVNHTDRvVE9VcTFCT2hvUmN6c0p2Sk9samRRWFNzSGlpRTNocDJBbWxFcGFiOV9WSEZ3OURveUQtbG9GZXhnbzQ2UEE5NFZkb2NtSmhIV1Y4Zlk1YkpCX29DOXAyWWZJeWpuTE5kSExRQXFEUGl0SDhuVGNrRlBjWGFWajdpYXg1aElQeXlJNkFkTGvSAZgBQVVfeXFMTWNiZl9IbFUxcEg2OGlOYVI0dnE5dUREYnhJN3Y2RFdxWF9NaG1WamlyMnQydC1jaE9jN2NNMVMzczVQZ3JNTlI2WklRV1BGV0gySnFTMWVZalZhV21MdjNLSDdqR1paVkJKSGx5ZFNBVy1yOC1sQWRFb0lfUDUyZFRQVEdfbWVSbVlmX0NZSHJVY3JyM01zUk4?oc=5)
 
 ---
 
@@ -114,14 +114,6 @@ Source: [MobiHealthNews](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVV
 
 ---
 
-### [Blood tests could identify early signs of cancer years before diagnosis - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0NnRGJWRjUwRDVnbmdVSEVmdGZjTHNZb0xKajE4NGlKc1dXSFphRFJHeG1uMENxejlOaXRxYXpTQUFaem5MRzlkU2dPRzMzMlBiQlB2MWJxUlpoMU5vR0Q5MzltRDJOM2pfcjFEbHBaM1pFNC04NTBKcHAwZEJyQUZjdm4?oc=5)
-
-2026-09-23 <span class="news-indication-tag">cancer</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0NnRGJWRjUwRDVnbmdVSEVmdGZjTHNZb0xKajE4NGlKc1dXSFphRFJHeG1uMENxejlOaXRxYXpTQUFaem5MRzlkU2dPRzMzMlBiQlB2MWJxUlpoMU5vR0Q5MzltRDJOM2pfcjFEbHBaM1pFNC04NTBKcHAwZEJyQUZjdm4?oc=5)
-
----
-
 ### [‘Y’ losing a chromosome could be the first step to cancer - The Naked Scientists](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzl4cFE4TlJhRUVFVi1qNmp2ZVN5UzNZbDFwOXlxMzR2Z2RoT2ZNQ1Q5MVVjM1FKRVNHV2JHaVppUVFXdnRZWXV3WXpqNDV1ZHpRZ1h0d0hQQkNuNVpjUG5JaFF4OTZNRnRfZC1JTkJTOVF0dnNiMUFIbXotRjZKaUprVkpfa0FULVpHNTRoRS1ZYUdxRW1sM0pyNXFteEwxLTdtckFR?oc=5)
 
 2026-09-23 <span class="news-indication-tag">cancer</span>
@@ -138,11 +130,19 @@ Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGV
 
 ---
 
-### [Genetics, Diabetes Tied to MASLD-Associated Cirrhosis Before Age 50 - Gastroenterology Advisor](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
+### [Researchers Identify the Risk Factors for MASLD Cirrhosis Under Age](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVNWSEhiNGxLaXV1TVYwaE1fWENLR3V3Tnhpd3BzX2dQYmk0LW16bnE0Vy1WUlNqeWR6VHdZY2ZBbmxLaGFRcDFiczR6a2tWZVdUa2ljZkJEWHRkcGx4alNSOE5LV0htUnJGXzYwRDlCakgtUDFRTDNWR1ItY0RWVUloWjhOdFhaNlJDUHo2Q0FjZTRQUGIzakxxQXNnalpSMkFxU0JNVmFXcVVmUGU1QQ?oc=5)
 
 2026-09-23 <span class="news-indication-tag">cancer</span>
 
-Source: [Gastroenterology Advisor](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmItN3JrN01CbUpQNjBiZHdxbkdZZWNlbDEtdHZHaE9NMTNyOUpSS1VaNldUMy1CRzBKalVpcHR3S3lsc1ZKXzgydHJwVFBjbXVxck1sNDVQUmo3OXozcF9JbXFrUkpZTzJHeTBUVVhQM1hIaXM2akpjcndZQ2ZiMk9iQ2d3ZFhsYVJUTnJLNXhIc3AxSzVEbTBBZDlmRnY2MjZGcU8yYVh1enpZZkpxOWh3?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVNWSEhiNGxLaXV1TVYwaE1fWENLR3V3Tnhpd3BzX2dQYmk0LW16bnE0Vy1WUlNqeWR6VHdZY2ZBbmxLaGFRcDFiczR6a2tWZVdUa2ljZkJEWHRkcGx4alNSOE5LV0htUnJGXzYwRDlCakgtUDFRTDNWR1ItY0RWVUloWjhOdFhaNlJDUHo2Q0FjZTRQUGIzakxxQXNnalpSMkFxU0JNVmFXcVVmUGU1QQ?oc=5)
+
+---
+
+### [WHO Publishes Global Research Agenda for Traditional Medicine 2025–2034 - fundsforNGOs News](https://news.google.com/rss/articles/CBMikwFBVV95cUxPby1MRTZNUEl3RGQ5TGhsSURxUG0wZGpFREpZY0VwOS1uSjdsX2ZKVEtoNVdndElOanJHYzdkTDFDX25tNTNiSzBudHVFdjh0T2Nhd3pkbzhfb2lsQmg0cmZNd1FoVGNJTnJoOEhDaFRETW1ITzNnWjZGQXpTTk9NNm4xOVVSVHFIM0ZxUzg0czNWU0E?oc=5)
+
+2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [fundsforNGOs News](https://news.google.com/rss/articles/CBMikwFBVV95cUxPby1MRTZNUEl3RGQ5TGhsSURxUG0wZGpFREpZY0VwOS1uSjdsX2ZKVEtoNVdndElOanJHYzdkTDFDX25tNTNiSzBudHVFdjh0T2Nhd3pkbzhfb2lsQmg0cmZNd1FoVGNJTnJoOEhDaFRETW1ITzNnWjZGQXpTTk9NNm4xOVVSVHFIM0ZxUzg0czNWU0E?oc=5)
 
 ---
 
