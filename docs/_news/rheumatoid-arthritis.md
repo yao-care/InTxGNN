@@ -59,11 +59,11 @@ Source: [NDTV](https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzZHY1ZwUnk0
 
 ---
 
-### [Study finds no causal link between prenatal paracetamol and neurodevelopmental disorders](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
+### [Review Finds No Link Between Tylenol Use in Pregnancy and Autism - India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxONzdHT3o2VWhvVU4xVnZfZllRd25WNTBkNnRUb0ZPTjUwSTQyNUV1UnFPZ2d3U3JVV1RIQlhwM21wRzF6OXhaNlJ5Wi1FS1V0R2I0TzBzbjluV1FoMGVfMUdUem9zNUwxcUtZWWJ3VnRXRW4zWDNpUExXZ25CYkFrUlVQS2ttTmdGY3lYNGd3OVlSN2dHYUZpOHVMa2VVSjM1cWFRcg?oc=5)
 
-2026-09-23
+2026-09-24
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZMQXhVY29KR3BaV0ZfRjN6MDIzSEdhV2cycTNuZEtBRnFTanBRVmpsaE5OUXZWNWZDdkFYNWRxWk9iRXR5QWRzZlU2ZmNCbHRKVHZIU1JOckNtenI2d19heVhzd0dMWmpZNHBYUENXRHowa1FOTFJldFlqT3l1amhDNzBLY2E5MTRyandkRG8wUVhvX2VKUmMyTWxoaG1GT2RiWXBnanh4bVdPNVNJWGNrN2lqcWZ1M21NcjNIXzlFUXNIWE16MjF2dUMxb1BSaFE?oc=5)
+Source: [India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxONzdHT3o2VWhvVU4xVnZfZllRd25WNTBkNnRUb0ZPTjUwSTQyNUV1UnFPZ2d3U3JVV1RIQlhwM21wRzF6OXhaNlJ5Wi1FS1V0R2I0TzBzbjluV1FoMGVfMUdUem9zNUwxcUtZWWJ3VnRXRW4zWDNpUExXZ25CYkFrUlVQS2ttTmdGY3lYNGd3OVlSN2dHYUZpOHVMa2VVSjM1cWFRcg?oc=5)
 
 ---
 

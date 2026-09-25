@@ -32,11 +32,11 @@ This page brings together the latest health news about “lymphoma” and lists 
 
 ## Related News (1)
 
-### [An exciting future of new drugs and real-world studies](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHpqaUhaWUVzdkJ0eWt6bUdlRjdhaXFmdG1jMTE4M0pJbm9oQUFraWhsZVJ4bUZNWjZQSWhEb0xXNTc2WXptQXVsaTlxQ2pQT0QxVUdqYm82Q0ZUeDBiaFdwS0I1d3o1LUNzeWdpbU4yeGpXUy1oVlFOWHFYQVc1ZU9tbXNMS0Q1cTBwckFRNXpRU0FaTTg0cTZYcjA1ZlBTZ2VBMg?oc=5)
+### [An exciting future of new drugs and real-world studies - Managed Healthcare Executive](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHpqaUhaWUVzdkJ0eWt6bUdlRjdhaXFmdG1jMTE4M0pJbm9oQUFraWhsZVJ4bUZNWjZQSWhEb0xXNTc2WXptQXVsaTlxQ2pQT0QxVUdqYm82Q0ZUeDBiaFdwS0I1d3o1LUNzeWdpbU4yeGpXUy1oVlFOWHFYQVc1ZU9tbXNMS0Q1cTBwckFRNXpRU0FaTTg0cTZYcjA1ZlBTZ2VBMg?oc=5)
 
 2026-09-23
 
-Source: [managedhealthcareexecutive.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHpqaUhaWUVzdkJ0eWt6bUdlRjdhaXFmdG1jMTE4M0pJbm9oQUFraWhsZVJ4bUZNWjZQSWhEb0xXNTc2WXptQXVsaTlxQ2pQT0QxVUdqYm82Q0ZUeDBiaFdwS0I1d3o1LUNzeWdpbU4yeGpXUy1oVlFOWHFYQVc1ZU9tbXNMS0Q1cTBwckFRNXpRU0FaTTg0cTZYcjA1ZlBTZ2VBMg?oc=5)
+Source: [Managed Healthcare Executive](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHpqaUhaWUVzdkJ0eWt6bUdlRjdhaXFmdG1jMTE4M0pJbm9oQUFraWhsZVJ4bUZNWjZQSWhEb0xXNTc2WXptQXVsaTlxQ2pQT0QxVUdqYm82Q0ZUeDBiaFdwS0I1d3o1LUNzeWdpbU4yeGpXUy1oVlFOWHFYQVc1ZU9tbXNMS0Q1cTBwckFRNXpRU0FaTTg0cTZYcjA1ZlBTZ2VBMg?oc=5)
 
 ---
 

@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Atosiban with the latest hea
 
 ## Related News (1)
 
-### [Air Pollution Damages Cellular Energy and Raises Heart Disease Risk](https://news.google.com/rss/articles/CBMizAFBVV95cUxQSHpjaUJqNkZuLTdUQXdBQnB6TmI2WGJqUXRaY1VKTE1aR200QWhZdEdTWk11WU1WWmw5WGc4YzN1Wl9aMlNqYldiSUVGbEloTXNVSTA3WjY3cHpiNnZ3S3Z0VG5PR3RsUFhjSWZuNHI1T3NsakU4VG5WRlJPaWVwUmI1d0o3cGlXaGt2emdmWmxYMGxiM1oxZUpwZ1VwOWFMamQ0bVBjSFNwUFZ1aFcybjFNZnR2djdsZnFIQ0MyRUY4T3daUWJobUhhNGQ?oc=5)
+### [Air pollution and cardiovascular disease: Mitochondria may be the missing link - Medical Xpress](https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1F0a19HNUxIbks4QzlZaDUtVC1BdmF5YWU1RmVrYzhHeVUtTVdYQTdsMXlVVjZ2V0lLdGdheFpZdzlZeGhmUXRfSW1TTUpud241c014N1dkaVBTb1BSMDFSLUtrSzVWWDBMMWVLUmFpVTdZLWdTbmNfS2xjZ25QNWJiUHVtSDJkVFl4MVA2S3U1a05rZGUwNA?oc=5)
 
-2026-09-24 <span class="news-indication-tag">vascular disease</span>
+2026-09-25 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
 
-Source: [respiratory-therapy.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxQSHpjaUJqNkZuLTdUQXdBQnB6TmI2WGJqUXRaY1VKTE1aR200QWhZdEdTWk11WU1WWmw5WGc4YzN1Wl9aMlNqYldiSUVGbEloTXNVSTA3WjY3cHpiNnZ3S3Z0VG5PR3RsUFhjSWZuNHI1T3NsakU4VG5WRlJPaWVwUmI1d0o3cGlXaGt2emdmWmxYMGxiM1oxZUpwZ1VwOWFMamQ0bVBjSFNwUFZ1aFcybjFNZnR2djdsZnFIQ0MyRUY4T3daUWJobUhhNGQ?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1F0a19HNUxIbks4QzlZaDUtVC1BdmF5YWU1RmVrYzhHeVUtTVdYQTdsMXlVVjZ2V0lLdGdheFpZdzlZeGhmUXRfSW1TTUpud241c014N1dkaVBTb1BSMDFSLUtrSzVWWDBMMWVLUmFpVTdZLWdTbmNfS2xjZ25QNWJiUHVtSDJkVFl4MVA2S3U1a05rZGUwNA?oc=5)
 
 ---
 

@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 
 ## Related News (1)
 
-### [Healthy lungs vital for heart, brain and overall well-being: Experts - The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUjN0S0ZTSFBmLVdCbTUtb0ltM3RGcTh3OS1IMHlhOURlOTZEVGVRRHROS3ZyV2xiOGtxdFpfUml3Q2FrTmJHbXB1bEM3dk5PcmZ2Y0tzQ2w4QTlPeEVBZFg3QXhJWTNHX1RwOHBJZ2paNGVIVmx0U3M1VGhHVmZzS3ZpbjZNUXJ3OVg2bTVqeElteGVWc05yeUJ6cDAzU2xLb19WRjRGSmhsWExsY1BHRlpjeHg1YndnVy1ZcHgxNzhTbjlfR0tjUklQQ1BVNnVYUk9lM3ZlSQ?oc=5)
+### [Healthy lungs vital for heart, brain and overall well-being: Experts](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUjN0S0ZTSFBmLVdCbTUtb0ltM3RGcTh3OS1IMHlhOURlOTZEVGVRRHROS3ZyV2xiOGtxdFpfUml3Q2FrTmJHbXB1bEM3dk5PcmZ2Y0tzQ2w4QTlPeEVBZFg3QXhJWTNHX1RwOHBJZ2paNGVIVmx0U3M1VGhHVmZzS3ZpbjZNUXJ3OVg2bTVqeElteGVWc05yeUJ6cDAzU2xLb19WRjRGSmhsWExsY1BHRlpjeHg1YndnVy1ZcHgxNzhTbjlfR0tjUklQQ1BVNnVYUk9lM3ZlSQ?oc=5)
 
 2026-09-24 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">COPD</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUjN0S0ZTSFBmLVdCbTUtb0ltM3RGcTh3OS1IMHlhOURlOTZEVGVRRHROS3ZyV2xiOGtxdFpfUml3Q2FrTmJHbXB1bEM3dk5PcmZ2Y0tzQ2w4QTlPeEVBZFg3QXhJWTNHX1RwOHBJZ2paNGVIVmx0U3M1VGhHVmZzS3ZpbjZNUXJ3OVg2bTVqeElteGVWc05yeUJ6cDAzU2xLb19WRjRGSmhsWExsY1BHRlpjeHg1YndnVy1ZcHgxNzhTbjlfR0tjUklQQ1BVNnVYUk9lM3ZlSQ?oc=5)
+Source: [timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUjN0S0ZTSFBmLVdCbTUtb0ltM3RGcTh3OS1IMHlhOURlOTZEVGVRRHROS3ZyV2xiOGtxdFpfUml3Q2FrTmJHbXB1bEM3dk5PcmZ2Y0tzQ2w4QTlPeEVBZFg3QXhJWTNHX1RwOHBJZ2paNGVIVmx0U3M1VGhHVmZzS3ZpbjZNUXJ3OVg2bTVqeElteGVWc05yeUJ6cDAzU2xLb19WRjRGSmhsWExsY1BHRlpjeHg1YndnVy1ZcHgxNzhTbjlfR0tjUklQQ1BVNnVYUk9lM3ZlSQ?oc=5)
 
 ---
 
