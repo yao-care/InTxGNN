@@ -14,7 +14,7 @@ permalink: /news/eplerenone/
 ---
 
 <p class="key-answer" data-question="What news is there about Eplerenone?">
-<strong>Eplerenone</strong> currently has <strong>14 news articles</strong>, with 5 predicted indications.
+<strong>Eplerenone</strong> currently has <strong>15 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,13 @@ This page combines the AI-predicted indications for Eplerenone with the latest h
 <p><a href="{{ '/drugs/eplerenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
 
-### [New research finds 485 chemicals in US pesticide products linked to breast cancer](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
+### [New research finds 485 chemicals in US pesticide products linked to breast cancer - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
 
 2026-09-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [theguardian.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
 
 ---
 
@@ -50,14 +50,6 @@ Source: [theguardian.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxON
 2026-09-26 <span class="news-indication-tag">cancer</span>
 
 Source: [Medical Buyer](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkFLamY2UGh1VndoRXczUGR5S3lKaGp2X282MmdtQjhfb1FNMXdLZjZwcVN1TEk5WDlwamszcTVzcE5aZDJZNTMyMnUzMFlqRVo3MGFnZkRHNnNqOE5CRktPdWlLV0NCNndoSjRaM1pfd1BoRHJNQmN4bExvZTNCenIyZFdrbHN3eWhpQURB?oc=5)
-
----
-
-### [Worried about respiratory health? Pulmonologist shares 5 simple habits to keep lungs healthy | Health](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUjRKWWdRams1TTc2YzAxM2g5SWNpTEVPcU1HMjFXWncxNDFObjN3VTVfa014TWFtaTJrNktEN19DSlFXMG54SVAtblBMaFR6NHh4RndaZ2x3cm1oazR5S2pkOEpTZmtQUEpsNEY4MEQyV0JKRHZmUWVBMVk4Tm1lVkFxLVctYTZrVTdPSDBIdEdsd0tyX0dSeFlQTGFFM3A1Q3d2a2JyVktYN1J2aEh6YTJURWZ4YkItOWppTkFkcGhlOEEwa3p0TElEeGN4TU50T2lkUzRtVnR6eDBfTHBKaE9iUUU4T3RrZk5iX1h6UW5td9IB9wFBVV95cUxQOFFRTFladVBwSEt1eER1dGRPSG1WS1ZZQ204N09vOEF2dmZ0WDBUVENfalNxeDBHOTY5STN0R1ZZV3lOY0d5TEVURENNWTJYX19abWFKQmFVQ0hGOXhvd3pmWDNNN3lBRFhMdXQzSFBOcnZZbHN3SzN1Qllfckx0S2ZWTFF0Z0hJNElKVkttWTJkaWZzRng4NmhxM0t6TVQtUVRxc2x3eC1FVUwxSFQyN3RVVllLb1JQV3NGdHYwYWtKc3ZsUXVHeFY3LVR4UmNPanNocHpTWnkzOVJkRGhFZUo0NGltV3JJUk53WnVuNHNmRG4zV1JF?oc=5)
-
-2026-09-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [hindustantimes.com](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUjRKWWdRams1TTc2YzAxM2g5SWNpTEVPcU1HMjFXWncxNDFObjN3VTVfa014TWFtaTJrNktEN19DSlFXMG54SVAtblBMaFR6NHh4RndaZ2x3cm1oazR5S2pkOEpTZmtQUEpsNEY4MEQyV0JKRHZmUWVBMVk4Tm1lVkFxLVctYTZrVTdPSDBIdEdsd0tyX0dSeFlQTGFFM3A1Q3d2a2JyVktYN1J2aEh6YTJURWZ4YkItOWppTkFkcGhlOEEwa3p0TElEeGN4TU50T2lkUzRtVnR6eDBfTHBKaE9iUUU4T3RrZk5iX1h6UW5td9IB9wFBVV95cUxQOFFRTFladVBwSEt1eER1dGRPSG1WS1ZZQ204N09vOEF2dmZ0WDBUVENfalNxeDBHOTY5STN0R1ZZV3lOY0d5TEVURENNWTJYX19abWFKQmFVQ0hGOXhvd3pmWDNNN3lBRFhMdXQzSFBOcnZZbHN3SzN1Qllfckx0S2ZWTFF0Z0hJNElKVkttWTJkaWZzRng4NmhxM0t6TVQtUVRxc2x3eC1FVUwxSFQyN3RVVllLb1JQV3NGdHYwYWtKc3ZsUXVHeFY3LVR4UmNPanNocHpTWnkzOVJkRGhFZUo0NGltV3JJUk53WnVuNHNmRG4zV1JF?oc=5)
 
 ---
 
@@ -90,6 +82,14 @@ Source: [The South First](https://news.google.com/rss/articles/CBMixgFBVV95cUxOV
 2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">rectal cancer</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3BtSC1SUlRkc0s5UFdUWHdCNGhQMDQ2VVU3WWpldjNIZlhpNHU3aTRKOTM5UXRCSExuYmlkOFlUdnN3c25uaFRWODZGd1NSdEpnV0hYTjNwUXk1WjlVeU9DZGVtQTVZLTFIWmJhcUotRzRwYzFsV2dqSEdWWVN3VXNWZndFdWQ1WWdaNm1XcDVsU1VtbnNLeHZkdmdUcGlk?oc=5)
+
+---
+
+### [World Lung Day 2026: Experts Stress Need to Protect Lung Health Throughout Life - ETV Bharat](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmoyeFhfOXFTenU2cm1ESUxXMy1laHRlZjQ3R2E5WUtxaWR1QkJoTXFGYUFtSzd6cTUtVjlBajJjZHNqSmo5czJ0ZWpoNWxYRVJhbDhxNWd5dEZLNGJ2bGRpcUdsbDFWb3AzU0FTTzN6MlZxZm9XUktGVDBybmhOS01LMENldHhUN1pqRXpXOHdTb0J2cFBuUHdOTm5JdUxra0NYcGw3UUJCejRNaGdNT0ZxaDZSVVg3YVpNeVJZcjZuLXpoVUEyQdIBzgFBVV95cUxPeWpPT05qSjhzcXZXQUFpbHdtLUoyN1VwTUcwT1lQSVhDczNKNzZYX3VCVEN0Y3Rrd29FUmZzY00tRkgtY3ZNcjBUSUhtd0ZJcjNjVjhWLUFqeUZIaHNzUndEMkVrYjNMaGNHS1llTFR5ZGJUUFNKQ0xvZFJ2a0tDbEZPck5jR2hYaW9Xa2hOWHZ5UzNtUGhQclhIdjI0SjFaSGJ4ODZOUDZ4M1JyX25qSFhmdnRJTFoxLWJJX2FfU1lQNFVsSDRQaTZmSmQ3QQ?oc=5)
+
+2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmoyeFhfOXFTenU2cm1ESUxXMy1laHRlZjQ3R2E5WUtxaWR1QkJoTXFGYUFtSzd6cTUtVjlBajJjZHNqSmo5czJ0ZWpoNWxYRVJhbDhxNWd5dEZLNGJ2bGRpcUdsbDFWb3AzU0FTTzN6MlZxZm9XUktGVDBybmhOS01LMENldHhUN1pqRXpXOHdTb0J2cFBuUHdOTm5JdUxra0NYcGw3UUJCejRNaGdNT0ZxaDZSVVg3YVpNeVJZcjZuLXpoVUEyQdIBzgFBVV95cUxPeWpPT05qSjhzcXZXQUFpbHdtLUoyN1VwTUcwT1lQSVhDczNKNzZYX3VCVEN0Y3Rrd29FUmZzY00tRkgtY3ZNcjBUSUhtd0ZJcjNjVjhWLUFqeUZIaHNzUndEMkVrYjNMaGNHS1llTFR5ZGJUUFNKQ0xvZFJ2a0tDbEZPck5jR2hYaW9Xa2hOWHZ5UzNtUGhQclhIdjI0SjFaSGJ4ODZOUDZ4M1JyX25qSFhmdnRJTFoxLWJJX2FfU1lQNFVsSDRQaTZmSmQ3QQ?oc=5)
 
 ---
 
@@ -133,6 +133,14 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG
 
 ---
 
+### [UN health agency calls for investment boost to save young lives from cancer - UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGVUJkLWZoX1V3cExpWmNHU2p3d2xDWkQ4eTJSdmxYU0VUMjFDVGxfVm4wd0tIeV9MV081OGxkLTRyV2Rhc2JqT3hDVERKQVhNaw?oc=5)
+
+2026-09-23 <span class="news-indication-tag">cancer</span>
+
+Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGVUJkLWZoX1V3cExpWmNHU2p3d2xDWkQ4eTJSdmxYU0VUMjFDVGxfVm4wd0tIeV9MV081OGxkLTRyV2Rhc2JqT3hDVERKQVhNaw?oc=5)
+
+---
+
 ### [Blood Test May Help Detect Pancreatic Cancer In Earliest Stages: Researchers](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHI1RG5xZnlya2Z2Y25xVjlMMi10Nk0xbVJ6ckMzaGVRalVjaXIyTVBzMXEwNHpBRWkzN3FOMVZYZTY4Zm1aZ1N6QXhtQ0c4WWt5ZnBvLWE2QzFtNi11Vm5yTkV5WGlsMjRwYkRnTmx0TVZERklFem1hTkEwbWV4bnl5NXRWWDIzVU8yVFN1ck9sMUlIRDFRbkk3QUV2QmI4WlBWaWVLYV9YY3htWVY2Z2lB?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
@@ -141,11 +149,11 @@ Source: [NDTV](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHI1RG5xZnly
 
 ---
 
-### [What happens to your lung cancer risk after you quit smoking? Oncologist explains | Health](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUktNWktRTWViN2pfSzZOQjZQLWR2X3BwS25ZTXVVU2JIbzJOV3Z0R2Rwel9IaXBCQmZVaHJnU3BtUFVTUlp2YTNFQTJQYms2SE5xU0JWS0VaaHIzYVFiZUc0XzVuTFRyOUZiUk1zMWRYYVROVXJaWHhieXNFX3N3bjZ6clhEeXlPcmRWOHd6cmVPa3hWYWNxbk9xTk5lQnVRdWF0OGhiWks1YV9yVUpObTZ6Q0RQRlpOeGdxOHZSbGR4ZW03R19nZ2dxenhoWGlhU1EtVC0tWmZnWUwzNFBNeWV4MNIB6AFBVV95cUxQYnBud05BYm5GLWVKQjFkOVZoUlhvT2piMDBRcmwweEc4SDRlU1phUGptT3FNSndCT3hlSV9vMGlhTVUybWtOUFFPUlRqSE1sY3hRZGRSZXZYSmVXQ3J0QWJMNkJpaXcxYTFDUk1laEhEdUhmMHNyRlY2NThBV3YzWll5TlpDNnBULWdmeVhrN25PNkkyQ0dnWm5qaWgxQlFYWDlOS1pYcXFCcXk0eVVrZURaQmduLXVMME5odGtsSDVLVWR4ampsSHFlVXVFSjh4U1c2cm1BVGVaUjItSzhxRGc5U3diU3ZT?oc=5)
+### [What happens to your lung cancer risk after you quit smoking? Oncologist explains | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUktNWktRTWViN2pfSzZOQjZQLWR2X3BwS25ZTXVVU2JIbzJOV3Z0R2Rwel9IaXBCQmZVaHJnU3BtUFVTUlp2YTNFQTJQYms2SE5xU0JWS0VaaHIzYVFiZUc0XzVuTFRyOUZiUk1zMWRYYVROVXJaWHhieXNFX3N3bjZ6clhEeXlPcmRWOHd6cmVPa3hWYWNxbk9xTk5lQnVRdWF0OGhiWks1YV9yVUpObTZ6Q0RQRlpOeGdxOHZSbGR4ZW03R19nZ2dxenhoWGlhU1EtVC0tWmZnWUwzNFBNeWV4MNIB6AFBVV95cUxQYnBud05BYm5GLWVKQjFkOVZoUlhvT2piMDBRcmwweEc4SDRlU1phUGptT3FNSndCT3hlSV9vMGlhTVUybWtOUFFPUlRqSE1sY3hRZGRSZXZYSmVXQ3J0QWJMNkJpaXcxYTFDUk1laEhEdUhmMHNyRlY2NThBV3YzWll5TlpDNnBULWdmeVhrN25PNkkyQ0dnWm5qaWgxQlFYWDlOS1pYcXFCcXk0eVVrZURaQmduLXVMME5odGtsSDVLVWR4ampsSHFlVXVFSjh4U1c2cm1BVGVaUjItSzhxRGc5U3diU3ZT?oc=5)
 
 2026-09-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
-Source: [hindustantimes.com](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUktNWktRTWViN2pfSzZOQjZQLWR2X3BwS25ZTXVVU2JIbzJOV3Z0R2Rwel9IaXBCQmZVaHJnU3BtUFVTUlp2YTNFQTJQYms2SE5xU0JWS0VaaHIzYVFiZUc0XzVuTFRyOUZiUk1zMWRYYVROVXJaWHhieXNFX3N3bjZ6clhEeXlPcmRWOHd6cmVPa3hWYWNxbk9xTk5lQnVRdWF0OGhiWks1YV9yVUpObTZ6Q0RQRlpOeGdxOHZSbGR4ZW03R19nZ2dxenhoWGlhU1EtVC0tWmZnWUwzNFBNeWV4MNIB6AFBVV95cUxQYnBud05BYm5GLWVKQjFkOVZoUlhvT2piMDBRcmwweEc4SDRlU1phUGptT3FNSndCT3hlSV9vMGlhTVUybWtOUFFPUlRqSE1sY3hRZGRSZXZYSmVXQ3J0QWJMNkJpaXcxYTFDUk1laEhEdUhmMHNyRlY2NThBV3YzWll5TlpDNnBULWdmeVhrN25PNkkyQ0dnWm5qaWgxQlFYWDlOS1pYcXFCcXk0eVVrZURaQmduLXVMME5odGtsSDVLVWR4ampsSHFlVXVFSjh4U1c2cm1BVGVaUjItSzhxRGc5U3diU3ZT?oc=5)
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUktNWktRTWViN2pfSzZOQjZQLWR2X3BwS25ZTXVVU2JIbzJOV3Z0R2Rwel9IaXBCQmZVaHJnU3BtUFVTUlp2YTNFQTJQYms2SE5xU0JWS0VaaHIzYVFiZUc0XzVuTFRyOUZiUk1zMWRYYVROVXJaWHhieXNFX3N3bjZ6clhEeXlPcmRWOHd6cmVPa3hWYWNxbk9xTk5lQnVRdWF0OGhiWks1YV9yVUpObTZ6Q0RQRlpOeGdxOHZSbGR4ZW03R19nZ2dxenhoWGlhU1EtVC0tWmZnWUwzNFBNeWV4MNIB6AFBVV95cUxQYnBud05BYm5GLWVKQjFkOVZoUlhvT2piMDBRcmwweEc4SDRlU1phUGptT3FNSndCT3hlSV9vMGlhTVUybWtOUFFPUlRqSE1sY3hRZGRSZXZYSmVXQ3J0QWJMNkJpaXcxYTFDUk1laEhEdUhmMHNyRlY2NThBV3YzWll5TlpDNnBULWdmeVhrN25PNkkyQ0dnWm5qaWgxQlFYWDlOS1pYcXFCcXk0eVVrZURaQmduLXVMME5odGtsSDVLVWR4ampsSHFlVXVFSjh4U1c2cm1BVGVaUjItSzhxRGc5U3diU3ZT?oc=5)
 
 ---
 

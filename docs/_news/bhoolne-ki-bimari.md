@@ -3,7 +3,7 @@ layout: default
 title: "dementia (bhoolne ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (bhoolne ki bimari). 6 articles, 8 related drugs."
+description: "Health news about dementia (bhoolne ki bimari). 5 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bhoolne-ki-bimari/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (bhoolne ki bimari)?">
-<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
+<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (6)
+## Related News (5)
 
-### [New FDA-cleared blood tests could help identify Alzheimer’s earlier](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW1xbXZ1Zl9jN21IeTNpWmZKMEk2NHNxVlhBZjBYcmtvU3h4enJtVW1ZQ05MblQwTFU4S0R2U1VKdHRrelpPN3dNbGpMcXpJZGRNSHZrMHhwRUJnaTc0dVd4Wm9QdXBPYmZUVUtQeGtXRjFtMUxZaUt5S0EyZXRZQ0ZCWFAxQVhac1RZZGRPUUlKaFV1VnFNb1g2MkIzamZPTWh2ei1uNjB5TTZPYXpZOUF6MTBhX0Z4SkxHT25WSDk?oc=5)
-
-2026-09-26
-
-Source: [MedicalNewsToday](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW1xbXZ1Zl9jN21IeTNpWmZKMEk2NHNxVlhBZjBYcmtvU3h4enJtVW1ZQ05MblQwTFU4S0R2U1VKdHRrelpPN3dNbGpMcXpJZGRNSHZrMHhwRUJnaTc0dVd4Wm9QdXBPYmZUVUtQeGtXRjFtMUxZaUt5S0EyZXRZQ0ZCWFAxQVhac1RZZGRPUUlKaFV1VnFNb1g2MkIzamZPTWh2ei1uNjB5TTZPYXpZOUF6MTBhX0Z4SkxHT25WSDk?oc=5)
-
----
-
-### [4 Everyday Habits That May Help Lower Dementia Risk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2I?oc=5)
+### [4 Everyday Habits That May Help Lower Dementia Risk - Times Now](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2I?oc=5)
 
 2026-09-26
 
-Source: [timesnownews.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2I?oc=5)
+Source: [Times Now](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2I?oc=5)
 
 ---
 
@@ -82,7 +74,7 @@ Source: [The Sen Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxORDZ
 
 2026-09-24
 
-Source: [Newswise](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQm9LNExDc0xYeDR2VTVOTllGUFJyQnZucHlzOHRKU2NPbG0zVXhaM3hOSERUNVpYd3R4OGtoUFh4QS1OdTEzbXRZMmVDd3N6WGY3bm9ISlF4U0Z4N1hTWGcxSHZBOE5KeWc0eVZWZUgtVXFFa0ZRbE40Qzg2ZXp1eVFBWVlPc3liWlFTemtXN3pHQ0ZyQVNKcEdZaTJ5ajlJd05FX0RZZ09XcTdnVDlHSVZSdzNpdkR1MmhFUE1ac0lTNUVpN3pZdFE1UzVab1dYVmdTQW52NDjSAdgBQVVfeXFMTkJvSzRMQ3NMWHg0dlU1Tk5ZRlBSckJ2bnB5czh0SlNjT2xtM1V4WjN4TkhEVDVaWHd0eDhraFBYeEEtTnUxM210WTJlQ3dzelhmN25vSEpReFNGeDdYU1hnMUh2QThOSnlnNHlWVmVILVVxRWtGUWxONEM4NmV6dXlRQVlZT3N5YlpRU3prVzd6R0NGckFTSnBHWWkyeWo5SXdORV9EWWdPV3E3Z1Q5R0lWUnczaXZEdTJoRVBNWnNJUzVFaTd6WXRRNVM1Wm9XWFZnU0FudjQ4?oc=5)
+Source: [newswise.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQm9LNExDc0xYeDR2VTVOTllGUFJyQnZucHlzOHRKU2NPbG0zVXhaM3hOSERUNVpYd3R4OGtoUFh4QS1OdTEzbXRZMmVDd3N6WGY3bm9ISlF4U0Z4N1hTWGcxSHZBOE5KeWc0eVZWZUgtVXFFa0ZRbE40Qzg2ZXp1eVFBWVlPc3liWlFTemtXN3pHQ0ZyQVNKcEdZaTJ5ajlJd05FX0RZZ09XcTdnVDlHSVZSdzNpdkR1MmhFUE1ac0lTNUVpN3pZdFE1UzVab1dYVmdTQW52NDjSAdgBQVVfeXFMTkJvSzRMQ3NMWHg0dlU1Tk5ZRlBSckJ2bnB5czh0SlNjT2xtM1V4WjN4TkhEVDVaWHd0eDhraFBYeEEtTnUxM210WTJlQ3dzelhmN25vSEpReFNGeDdYU1hnMUh2QThOSnlnNHlWVmVILVVxRWtGUWxONEM4NmV6dXlRQVlZT3N5YlpRU3prVzd6R0NGckFTSnBHWWkyeWo5SXdORV9EWWdPV3E3Z1Q5R0lWUnczaXZEdTJoRVBNWnNJUzVFaTd6WXRRNVM1Wm9XWFZnU0FudjQ4?oc=5)
 
 ---
 
