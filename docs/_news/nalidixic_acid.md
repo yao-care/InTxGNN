@@ -14,7 +14,7 @@ permalink: /news/nalidixic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Nalidixic Acid?">
-<strong>Nalidixic Acid</strong> currently has <strong>2 news articles</strong>, with 4 predicted indications.
+<strong>Nalidixic Acid</strong> currently has <strong>1 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,7 @@ This page combines the AI-predicted indications for Nalidixic Acid with the late
 <p><a href="{{ '/drugs/nalidixic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Ebola cases, deaths in DR Congo outbreak near 7,900 and 3,800 as virus spreads to 2 more health zones](https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3A0T0dCU3ZCYUJueGN6VmxoX3pRRFpHWmd3OWdXRmtTUmNuU1JzZWoxSHNmSlhWY3I0bzJuYWZHLThveVdoSEJ2b05xU0o3bkJsZTBCZDhYV2lXRWpjRi1tSHpfdUdWRUw5ZkY5anFQQXBpWTR0VEpXTHBBblE4eGFMZVpiNGh4UVBCRVdZdl9vSDk1SHE5Wi12MlNhTlZvMjhjWmhPSlBfdDdMOXpYQ25jSTRJUTBpMDc5MExraw?oc=5)
-
-2026-09-25 <span class="news-indication-tag">RA</span>
-
-Source: [CIDRAP](https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3A0T0dCU3ZCYUJueGN6VmxoX3pRRFpHWmd3OWdXRmtTUmNuU1JzZWoxSHNmSlhWY3I0bzJuYWZHLThveVdoSEJ2b05xU0o3bkJsZTBCZDhYV2lXRWpjRi1tSHpfdUdWRUw5ZkY5anFQQXBpWTR0VEpXTHBBblE4eGFMZVpiNGh4UVBCRVdZdl9vSDk1SHE5Wi12MlNhTlZvMjhjWmhPSlBfdDdMOXpYQ25jSTRJUTBpMDc5MExraw?oc=5)
-
----
+## Related News (1)
 
 ### [World Rabies Day 2026 in Kohima](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lbjZzdWNLUzNrS1NMRWJQYm1SQ0lIdl8xeHhvNFlocHh1Z1Q1UEZ3aFEtTlA3OVFhcnlSTUxKLTczMkppUThfRDRLUzhJZ0ZrZXRkVDdEWUw0QjlVdjhGeTFXcHdXZldX?oc=5)
 
