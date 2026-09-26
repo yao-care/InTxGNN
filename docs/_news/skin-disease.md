@@ -31,11 +31,11 @@ This page brings together the latest health news about “psoriasis” and lists
 
 ## Related News (1)
 
-### [Generalised Pustular Psoriasis Linked to Higher Mortality](https://news.google.com/rss/articles/CBMipAFBVV95cUxPblVxNUlUNTlBaVY5bEhuSVk1aXJaYzdaakVkWG9hVzVoM2ZDemx0Y25qaFg0djNhZDdiSmEzcjV6VTRzeU15UkVqYVNGRXR0al8xUTdibFRJOU5lRHM4Nk1KX0VrMXRHYk9CV2pyeEJYWnZxb29PNmZrd3dvWFV2VjJYQkZYZG1fSl9GWGg0eFBQUVlKQ19pemhtV2FVRUlFdHBNRA?oc=5)
+### [Generalised Pustular Psoriasis Linked to Higher Mortality - European Medical Journal](https://news.google.com/rss/articles/CBMipAFBVV95cUxPblVxNUlUNTlBaVY5bEhuSVk1aXJaYzdaakVkWG9hVzVoM2ZDemx0Y25qaFg0djNhZDdiSmEzcjV6VTRzeU15UkVqYVNGRXR0al8xUTdibFRJOU5lRHM4Nk1KX0VrMXRHYk9CV2pyeEJYWnZxb29PNmZrd3dvWFV2VjJYQkZYZG1fSl9GWGg0eFBQUVlKQ19pemhtV2FVRUlFdHBNRA?oc=5)
 
 2026-09-25
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxPblVxNUlUNTlBaVY5bEhuSVk1aXJaYzdaakVkWG9hVzVoM2ZDemx0Y25qaFg0djNhZDdiSmEzcjV6VTRzeU15UkVqYVNGRXR0al8xUTdibFRJOU5lRHM4Nk1KX0VrMXRHYk9CV2pyeEJYWnZxb29PNmZrd3dvWFV2VjJYQkZYZG1fSl9GWGg0eFBQUVlKQ19pemhtV2FVRUlFdHBNRA?oc=5)
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMipAFBVV95cUxPblVxNUlUNTlBaVY5bEhuSVk1aXJaYzdaakVkWG9hVzVoM2ZDemx0Y25qaFg0djNhZDdiSmEzcjV6VTRzeU15UkVqYVNGRXR0al8xUTdibFRJOU5lRHM4Nk1KX0VrMXRHYk9CV2pyeEJYWnZxb29PNmZrd3dvWFV2VjJYQkZYZG1fSl9GWGg0eFBQUVlKQ19pemhtV2FVRUlFdHBNRA?oc=5)
 
 ---
 

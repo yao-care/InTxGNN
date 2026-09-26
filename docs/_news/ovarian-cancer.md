@@ -35,7 +35,7 @@ This page brings together the latest health news about “ovarian cancer” and 
 
 2026-09-25
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FkTVhUM053d21fRWZYanBtT3Bsb3hqcEJSUmdhN204UW51enZKOEo5dXdhbTZLSTBXcFQ5ZmViaGdaa2J2Y0g1bUtieDVibnlhVnl6elhWOWM2R0R5UkcwY3JETnhIdXVTczRIQkk0VGxtRkdnNGZTRnV5RkdmcFpkR3BLS0J2c1ZscHRTZzV5c0h5NWcza3RSN0Etbmh1Q1NXWHgyVGwtRjMwbDd4allpdjkxNlZu?oc=5)
+Source: [news-medical.net](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FkTVhUM053d21fRWZYanBtT3Bsb3hqcEJSUmdhN204UW51enZKOEo5dXdhbTZLSTBXcFQ5ZmViaGdaa2J2Y0g1bUtieDVibnlhVnl6elhWOWM2R0R5UkcwY3JETnhIdXVTczRIQkk0VGxtRkdnNGZTRnV5RkdmcFpkR3BLS0J2c1ZscHRTZzV5c0h5NWcza3RSN0Etbmh1Q1NXWHgyVGwtRjMwbDd4allpdjkxNlZu?oc=5)
 
 ---
 
