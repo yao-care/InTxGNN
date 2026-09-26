@@ -3,7 +3,7 @@ layout: default
 title: "dementia News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia. 5 articles, 8 related drugs."
+description: "Health news about dementia. 6 articles, 8 related drugs."
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia?">
-<strong>dementia</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<strong>dementia</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,21 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
 
-### [New Blood Biomarkers Show Promise for Early Alzheimer’s Diagnosis - India News Network](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVpBVnp6c0Mzd09ESkJEb2pPUWd6cDgycEhHREJ0c1hHWEU4OWVjX09ZWjhOeTZhbXFyOG85U2x6NVlhRmo2NlpXNXdNeDlOeVZZa0pQemczYTBQQXl0SzVXTW85V3dJMkp0TEFxV2JDaXhaN0RJaGt0bUNTYnBRRzc2Y0JVRGxWeG1jbC1XbnZlZVVfZDlydkV2dVBNMUs5YUhoRmxmNUY?oc=5)
+### [New FDA-cleared blood tests could help identify Alzheimer’s earlier](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW1xbXZ1Zl9jN21IeTNpWmZKMEk2NHNxVlhBZjBYcmtvU3h4enJtVW1ZQ05MblQwTFU4S0R2U1VKdHRrelpPN3dNbGpMcXpJZGRNSHZrMHhwRUJnaTc0dVd4Wm9QdXBPYmZUVUtQeGtXRjFtMUxZaUt5S0EyZXRZQ0ZCWFAxQVhac1RZZGRPUUlKaFV1VnFNb1g2MkIzamZPTWh2ei1uNjB5TTZPYXpZOUF6MTBhX0Z4SkxHT25WSDk?oc=5)
 
 2026-09-26
 
-Source: [India News Network](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVpBVnp6c0Mzd09ESkJEb2pPUWd6cDgycEhHREJ0c1hHWEU4OWVjX09ZWjhOeTZhbXFyOG85U2x6NVlhRmo2NlpXNXdNeDlOeVZZa0pQemczYTBQQXl0SzVXTW85V3dJMkp0TEFxV2JDaXhaN0RJaGt0bUNTYnBRRzc2Y0JVRGxWeG1jbC1XbnZlZVVfZDlydkV2dVBNMUs5YUhoRmxmNUY?oc=5)
+Source: [MedicalNewsToday](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW1xbXZ1Zl9jN21IeTNpWmZKMEk2NHNxVlhBZjBYcmtvU3h4enJtVW1ZQ05MblQwTFU4S0R2U1VKdHRrelpPN3dNbGpMcXpJZGRNSHZrMHhwRUJnaTc0dVd4Wm9QdXBPYmZUVUtQeGtXRjFtMUxZaUt5S0EyZXRZQ0ZCWFAxQVhac1RZZGRPUUlKaFV1VnFNb1g2MkIzamZPTWh2ei1uNjB5TTZPYXpZOUF6MTBhX0Z4SkxHT25WSDk?oc=5)
 
 ---
 
-### [4 Everyday Habits That May Help Lower Dementia Risk - Times Now](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2LSAa4BQVVfeXFMUERMVEpDQTNWcTU2WkJkcjd2aExLcXNoR0RsUGc5aUNFU1NqNUd5N0xaWGhTcVIzdEdubDljXzd3M1BMN3hybUNob1g4dnB3bk9JSjFObERwR25famlTMm4xSTJTalpONmd3dDJ3MGhPS0lrSTFUNDZwanYzcnlMdC00bHVBSG9pZ0JocFo3bUppLW9MSU1TQi0tYUZOaDZENE9CS3NrcldXNlZSUUN3?oc=5)
+### [4 Everyday Habits That May Help Lower Dementia Risk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2I?oc=5)
 
 2026-09-26
 
-Source: [Times Now](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2LSAa4BQVVfeXFMUERMVEpDQTNWcTU2WkJkcjd2aExLcXNoR0RsUGc5aUNFU1NqNUd5N0xaWGhTcVIzdEdubDljXzd3M1BMN3hybUNob1g4dnB3bk9JSjFObERwR25famlTMm4xSTJTalpONmd3dDJ3MGhPS0lrSTFUNDZwanYzcnlMdC00bHVBSG9pZ0JocFo3bUppLW9MSU1TQi0tYUZOaDZENE9CS3NrcldXNlZSUUN3?oc=5)
+Source: [timesnownews.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2I?oc=5)
 
 ---
 
@@ -59,6 +59,14 @@ Source: [Times Now](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR
 2026-09-25
 
 Source: [novanews.co.za](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkYzanVudXUxWjktUlphM2M0Z3djZV9FOVVuYXdVc3UtcnA3QUt2V0VTNGhQei1OdFBRWFBPWTF2MVk4VUkxMm1sbWE2ZWVpOUYzbHhiY1NjbmhON1M1dXEzbUVmUFk2UDN3QjRkVVdjdjN0WU8xQ1FfYU9UUjZuTXN3YUZ6VlliUEtkaEJhelZqWmZXamE2TXdVRUt5a1ZVRmliV1RqRmo3aWt3Z0RyMnJ3QQ?oc=5)
+
+---
+
+### [How AI and robots provide companionship for people with Alzheimer’s](https://news.google.com/rss/articles/CBMipAFBVV95cUxQaXFmQ0Y5T2MxQmFsMlFUQmVLWEdraWFmb3o4U2g3NV9RaXd1b0hkWDNZMk9na3JnUTJDVnFQSDNpT0hFZGpyNk9hVkJwVkt3SGtjTmtPdy1KVUx2dGc1RjgwZjVta3FUZmFabldLd0F3anRHQ3F1TF9WekFVOExmTjF5STdjSlgyVHk4VmcwNGdILTFqNEdQNkhyTy1ZYzZnWFFhdQ?oc=5)
+
+2026-09-25
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQaXFmQ0Y5T2MxQmFsMlFUQmVLWEdraWFmb3o4U2g3NV9RaXd1b0hkWDNZMk9na3JnUTJDVnFQSDNpT0hFZGpyNk9hVkJwVkt3SGtjTmtPdy1KVUx2dGc1RjgwZjVta3FUZmFabldLd0F3anRHQ3F1TF9WekFVOExmTjF5STdjSlgyVHk4VmcwNGdILTFqNEdQNkhyTy1ZYzZnWFFhdQ?oc=5)
 
 ---
 

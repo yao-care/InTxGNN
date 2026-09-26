@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Nitrofurantoin with the late
 
 ## Related News (1)
 
-### [World Rabies Day 2026 in Kohima](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lbjZzdWNLUzNrS1NMRWJQYm1SQ0lIdl8xeHhvNFlocHh1Z1Q1UEZ3aFEtTlA3OVFhcnlSTUxKLTczMkppUThfRDRLUzhJZ0ZrZXRkVDdEWUw0QjlVdjhGeTFXcHdXZldX?oc=5)
+### [STATES, LOCAL BODIES ADVISED TO OBSERVE WORLD RABIES DAY ON 28TH SEPTEMBER](https://news.google.com/rss/articles/CBMiowFBVV95cUxQanJuakpRV2xMYU5fV2ZTdTBpWG0xQ080YlRJbmFqdXhtTlpxS2Q0SEZxMmYzMDhNNlpBWGpTWjhyS3laTUZYaHZQWHJfN0JUU1VLaG1OX1JiOVNjSkhDd0RMNEZ6NldHMXVoeDlqc0pzbUFmdWh3TjFpSU9oR0lUMEFlcVhLWFBCX0tCOThFelhGWnJQVjAxT3dfUVFDOWNnZEVj?oc=5)
 
-2026-09-25 <span class="news-indication-tag">RA</span>
+2026-09-26 <span class="news-indication-tag">RA</span>
 
-Source: [MorungExpress](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lbjZzdWNLUzNrS1NMRWJQYm1SQ0lIdl8xeHhvNFlocHh1Z1Q1UEZ3aFEtTlA3OVFhcnlSTUxKLTczMkppUThfRDRLUzhJZ0ZrZXRkVDdEWUw0QjlVdjhGeTFXcHdXZldX?oc=5)
+Source: [Face2News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQanJuakpRV2xMYU5fV2ZTdTBpWG0xQ080YlRJbmFqdXhtTlpxS2Q0SEZxMmYzMDhNNlpBWGpTWjhyS3laTUZYaHZQWHJfN0JUU1VLaG1OX1JiOVNjSkhDd0RMNEZ6NldHMXVoeDlqc0pzbUFmdWh3TjFpSU9oR0lUMEFlcVhLWFBCX0tCOThFelhGWnJQVjAxT3dfUVFDOWNnZEVj?oc=5)
 
 ---
 
