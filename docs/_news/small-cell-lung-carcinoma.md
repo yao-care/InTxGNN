@@ -3,7 +3,7 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 2 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 3 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/small-cell-lung-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>2 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>3 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Young, fit non-smoker had lung cancer: Why screening can miss patients](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHJoTEVaT0pfWVlwcGVsaFpST0tBeDBBNFdDNThnTnFIR2UyWThBNnVVb296cUF3Ym9QNC16cEZoVHptNG5YaE9MV3VwcGZvbm9nMkZRZUV3Q0xpSlJxamlycHFYeC1yRGtkYnQtekt1SHRxQk5QblhUMm1YcVJ5SnQ0NGRRZmVaYldsbXBic0RHVHhjQmJ3QjcxQWRpZUNHeEdycERxVHBwUUE5Vm9SMjNtYmhiZmfSAb4BQVVfeXFMUHFzNW5Jc0l3NENOODRyWGMyNndaTVBra1c3SV9fZTlwcjdyVjRUMHdWcE9WdWdsSXhYWE9LcTNvbHlWZ2s3SkJUV3ljcG9Rd2UyZWUxdHpnSEY4U0xpRkNyTEJ2YWVZeXluMHotM3NDNXdtWEJLS3Y2dFpSNDAyTTFYSV9kTUVjRWlnd1RET2FEbHh1SnBYLTdwdnE3S2ZVS2F3anpHRVVfZmt6TTRLTmJTUEF3clpZQnhyQ1hJdw?oc=5)
+
+2026-09-26
+
+Source: [indianexpress.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHJoTEVaT0pfWVlwcGVsaFpST0tBeDBBNFdDNThnTnFIR2UyWThBNnVVb296cUF3Ym9QNC16cEZoVHptNG5YaE9MV3VwcGZvbm9nMkZRZUV3Q0xpSlJxamlycHFYeC1yRGtkYnQtekt1SHRxQk5QblhUMm1YcVJ5SnQ0NGRRZmVaYldsbXBic0RHVHhjQmJ3QjcxQWRpZUNHeEdycERxVHBwUUE5Vm9SMjNtYmhiZmfSAb4BQVVfeXFMUHFzNW5Jc0l3NENOODRyWGMyNndaTVBra1c3SV9fZTlwcjdyVjRUMHdWcE9WdWdsSXhYWE9LcTNvbHlWZ2s3SkJUV3ljcG9Rd2UyZWUxdHpnSEY4U0xpRkNyTEJ2YWVZeXluMHotM3NDNXdtWEJLS3Y2dFpSNDAyTTFYSV9kTUVjRWlnd1RET2FEbHh1SnBYLTdwdnE3S2ZVS2F3anpHRVVfZmt6TTRLTmJTUEF3clpZQnhyQ1hJdw?oc=5)
+
+---
 
 ### [World Lung Day 2026: How to self-check your lung health and know when to see a doctor](https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXdFdHJrYmJFb2xEZlcyek1QdlRCLVViSmx0Uzk0WnR6MDRpaFJHY1FheTduVlc5dlVId3JnQ2RsbzdJLTN0cGt2VDZQNmNJbnE3cXpQcXJXQTM3R1JvVGRSREtUb1lBUXZ0YXgyNEtvVlJESDZybDN6NC1McmF4cGVaQXlrb0R2UGlJMFZhY2hNSXI2N0VDX2x2WnljS2Z6TGpsTEVfRnBVZFVHWDFWa0VhTkFEYWNWM3NLLUN4cVdlZ2RUT0dwdTBBSdIB0AFBVV95cUxPUUVkcG5xczVEYUZfZk1wWlRVazNFdVZ5cjJtTWlfc1FaMVIwR01kTjh6bEU0VEMzTllUUi02RTFVaU1QUkVnRDdSNURJY2ljRFF5b3J2eHlMVUJkalVHS1FCaWI1cUJnSWxreVRWWXRIQzJNWHNIdGJYX0l4Z3NsX19tejFieXlJYXFsZ3dUNXJHbVg2Q3FtTTd4OHFnS1RfWWItNFBrNnV5bTFhZ3dLUXpvUEdNb1JaYTBOZmVuVUgwWWR2Qkg5Y1J4Q1pQRGxr?oc=5)
 

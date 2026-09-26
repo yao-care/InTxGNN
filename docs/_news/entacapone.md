@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [Some dementia patients grow lucid near the end. Scientists hope it’s a clue. - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3kyVzdVMVRTaVhPYWNMc0huN1N4djhSRlprTWwtelpxTUwzUHN0QXNEWURRZ0p2a3NrSEdYVm1zNkIzSk1MQnZWRFF2VjcyQ1pFNHQwZmVkdUY1Y1hsbXpZbklOVHQtRzBvS3hNaUFVektmWE9ia1NpUDFVX0ZMV3lqVzMwQnQwLTB2SlhMS3NnYjJ1czBIWHgzUlA5TDdSUV9fX2ZzSldlRl9rRzF0YXpZVDhmM2JL?oc=5)
+### [New Blood Biomarkers Show Promise for Early Alzheimer’s Diagnosis - India News Network](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVpBVnp6c0Mzd09ESkJEb2pPUWd6cDgycEhHREJ0c1hHWEU4OWVjX09ZWjhOeTZhbXFyOG85U2x6NVlhRmo2NlpXNXdNeDlOeVZZa0pQemczYTBQQXl0SzVXTW85V3dJMkp0TEFxV2JDaXhaN0RJaGt0bUNTYnBRRzc2Y0JVRGxWeG1jbC1XbnZlZVVfZDlydkV2dVBNMUs5YUhoRmxmNUY?oc=5)
 
-2026-09-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-09-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3kyVzdVMVRTaVhPYWNMc0huN1N4djhSRlprTWwtelpxTUwzUHN0QXNEWURRZ0p2a3NrSEdYVm1zNkIzSk1MQnZWRFF2VjcyQ1pFNHQwZmVkdUY1Y1hsbXpZbklOVHQtRzBvS3hNaUFVektmWE9ia1NpUDFVX0ZMV3lqVzMwQnQwLTB2SlhMS3NnYjJ1czBIWHgzUlA5TDdSUV9fX2ZzSldlRl9rRzF0YXpZVDhmM2JL?oc=5)
+Source: [India News Network](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVpBVnp6c0Mzd09ESkJEb2pPUWd6cDgycEhHREJ0c1hHWEU4OWVjX09ZWjhOeTZhbXFyOG85U2x6NVlhRmo2NlpXNXdNeDlOeVZZa0pQemczYTBQQXl0SzVXTW85V3dJMkp0TEFxV2JDaXhaN0RJaGt0bUNTYnBRRzc2Y0JVRGxWeG1jbC1XbnZlZVVfZDlydkV2dVBNMUs5YUhoRmxmNUY?oc=5)
+
+---
+
+### [4 Everyday Habits That May Help Lower Dementia Risk - Times Now](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2LSAa4BQVVfeXFMUERMVEpDQTNWcTU2WkJkcjd2aExLcXNoR0RsUGc5aUNFU1NqNUd5N0xaWGhTcVIzdEdubDljXzd3M1BMN3hybUNob1g4dnB3bk9JSjFObERwR25famlTMm4xSTJTalpONmd3dDJ3MGhPS0lrSTFUNDZwanYzcnlMdC00bHVBSG9pZ0JocFo3bUppLW9MSU1TQi0tYUZOaDZENE9CS3NrcldXNlZSUUN3?oc=5)
+
+2026-09-26 <span class="news-drug-tag">TESTOSTERONE</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Times Now](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2LSAa4BQVVfeXFMUERMVEpDQTNWcTU2WkJkcjd2aExLcXNoR0RsUGc5aUNFU1NqNUd5N0xaWGhTcVIzdEdubDljXzd3M1BMN3hybUNob1g4dnB3bk9JSjFObERwR25famlTMm4xSTJTalpONmd3dDJ3MGhPS0lrSTFUNDZwanYzcnlMdC00bHVBSG9pZ0JocFo3bUppLW9MSU1TQi0tYUZOaDZENE9CS3NrcldXNlZSUUN3?oc=5)
 
 ---
 
