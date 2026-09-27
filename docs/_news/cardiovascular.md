@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cardiovascular News"
+title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cardiovascular. 1 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 1 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
-# cardiovascular News
+# heart disease (cardiovascular) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cardiovascular?">
-<strong>cardiovascular</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
+<strong>heart disease (cardiovascular)</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cardiovascular” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “heart disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -61,11 +61,11 @@ This page brings together the latest health news about “cardiovascular” and 
 
 ## Related News (1)
 
-### [Air pollution and cardiovascular disease: Mitochondria may be the missing link - Medical Xpress](https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1F0a19HNUxIbks4QzlZaDUtVC1BdmF5YWU1RmVrYzhHeVUtTVdYQTdsMXlVVjZ2V0lLdGdheFpZdzlZeGhmUXRfSW1TTUpud241c014N1dkaVBTb1BSMDFSLUtrSzVWWDBMMWVLUmFpVTdZLWdTbmNfS2xjZ25QNWJiUHVtSDJkVFl4MVA2S3U1a05rZGUwNA?oc=5)
+### [Yale researchers develop AI model to detect heart condition - Yale Daily News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVVsZF82aWRXRkpKYlNlZmRkTjlRUjFvR2hGMjFBUnlpOWpDQ3NBU2NtdTRmNTNvTUtoM1ktNkpUbUd2UDE2NG1WbVZsVHNLMUJaUDNiaEFlWmlIeEpyRXZ0QXhLQVhiVjlLaDR4RnkxdkFUVm10cl9DeERGbjRWSjF6aDE5NTZ2VkZvTkhmLTh3V0JVZ2tkT0xITGszMGl6RnhnTURPZmxRSG1lUGt5M0ZRbC00UQ?oc=5)
 
 2026-09-25
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1F0a19HNUxIbks4QzlZaDUtVC1BdmF5YWU1RmVrYzhHeVUtTVdYQTdsMXlVVjZ2V0lLdGdheFpZdzlZeGhmUXRfSW1TTUpud241c014N1dkaVBTb1BSMDFSLUtrSzVWWDBMMWVLUmFpVTdZLWdTbmNfS2xjZ25QNWJiUHVtSDJkVFl4MVA2S3U1a05rZGUwNA?oc=5)
+Source: [Yale Daily News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVVsZF82aWRXRkpKYlNlZmRkTjlRUjFvR2hGMjFBUnlpOWpDQ3NBU2NtdTRmNTNvTUtoM1ktNkpUbUd2UDE2NG1WbVZsVHNLMUJaUDNiaEFlWmlIeEpyRXZ0QXhLQVhiVjlLaDR4RnkxdkFUVm10cl9DeERGbjRWSjF6aDE5NTZ2VkZvTkhmLTh3V0JVZ2tkT0xITGszMGl6RnhnTURPZmxRSG1lUGt5M0ZRbC00UQ?oc=5)
 
 ---
 

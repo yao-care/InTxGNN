@@ -42,19 +42,19 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 
 ## Related News (5)
 
+### [World Alzheimer’s Day 2026 The earlier you know, the more you can do : A dementia diagnosis matters - The Sangai Express](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZUVzT3czdVdSQm5nbzEwNE5YbDlwLUl4MUllNDJCY2o2XzI4QmNlV3Z2Q2NzdTdIZWY4bEw5T3RBZ05pQ0NGTjczNDVQejFhWjQxQ1l1RmRMMXJRZHdTMkNoZmhpaEM5YXFiV3hxTXI4ZDdCUGZUbk1lWlRlSG9pck10MkxOMWhJdGRXZnFialQwZU03c25wR0RRUDJsR1Vad1d5ZmJOeENkall6MDBnbl9pa2tNOVo5N0dPbW03aHhtZG5Vak03Zk1mRU95bUtzTTNJeWJBSnVUSExiaURyZHhEQW9hZGZXSFNPX0dEWlNkU1EwSjdn?oc=5)
+
+2026-09-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The Sangai Express](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZUVzT3czdVdSQm5nbzEwNE5YbDlwLUl4MUllNDJCY2o2XzI4QmNlV3Z2Q2NzdTdIZWY4bEw5T3RBZ05pQ0NGTjczNDVQejFhWjQxQ1l1RmRMMXJRZHdTMkNoZmhpaEM5YXFiV3hxTXI4ZDdCUGZUbk1lWlRlSG9pck10MkxOMWhJdGRXZnFialQwZU03c25wR0RRUDJsR1Vad1d5ZmJOeENkall6MDBnbl9pa2tNOVo5N0dPbW03aHhtZG5Vak03Zk1mRU95bUtzTTNJeWJBSnVUSExiaURyZHhEQW9hZGZXSFNPX0dEWlNkU1EwSjdn?oc=5)
+
+---
+
 ### [4 Everyday Habits That May Help Lower Dementia Risk - Times Now](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2I?oc=5)
 
 2026-09-26 <span class="news-drug-tag">TESTOSTERONE</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [Times Now](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2I?oc=5)
-
----
-
-### [Early diagnosis and legal planning key messages on World Alzheimer’s Day](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkYzanVudXUxWjktUlphM2M0Z3djZV9FOVVuYXdVc3UtcnA3QUt2V0VTNGhQei1OdFBRWFBPWTF2MVk4VUkxMm1sbWE2ZWVpOUYzbHhiY1NjbmhON1M1dXEzbUVmUFk2UDN3QjRkVVdjdjN0WU8xQ1FfYU9UUjZuTXN3YUZ6VlliUEtkaEJhelZqWmZXamE2TXdVRUt5a1ZVRmliV1RqRmo3aWt3Z0RyMnJ3QQ?oc=5)
-
-2026-09-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [novanews.co.za](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkYzanVudXUxWjktUlphM2M0Z3djZV9FOVVuYXdVc3UtcnA3QUt2V0VTNGhQei1OdFBRWFBPWTF2MVk4VUkxMm1sbWE2ZWVpOUYzbHhiY1NjbmhON1M1dXEzbUVmUFk2UDN3QjRkVVdjdjN0WU8xQ1FfYU9UUjZuTXN3YUZ6VlliUEtkaEJhelZqWmZXamE2TXdVRUt5a1ZVRmliV1RqRmo3aWt3Z0RyMnJ3QQ?oc=5)
 
 ---
 
@@ -78,7 +78,7 @@ Source: [The Sen Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxORDZ
 
 2026-09-24 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [newswise.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQm9LNExDc0xYeDR2VTVOTllGUFJyQnZucHlzOHRKU2NPbG0zVXhaM3hOSERUNVpYd3R4OGtoUFh4QS1OdTEzbXRZMmVDd3N6WGY3bm9ISlF4U0Z4N1hTWGcxSHZBOE5KeWc0eVZWZUgtVXFFa0ZRbE40Qzg2ZXp1eVFBWVlPc3liWlFTemtXN3pHQ0ZyQVNKcEdZaTJ5ajlJd05FX0RZZ09XcTdnVDlHSVZSdzNpdkR1MmhFUE1ac0lTNUVpN3pZdFE1UzVab1dYVmdTQW52NDjSAdgBQVVfeXFMTkJvSzRMQ3NMWHg0dlU1Tk5ZRlBSckJ2bnB5czh0SlNjT2xtM1V4WjN4TkhEVDVaWHd0eDhraFBYeEEtTnUxM210WTJlQ3dzelhmN25vSEpReFNGeDdYU1hnMUh2QThOSnlnNHlWVmVILVVxRWtGUWxONEM4NmV6dXlRQVlZT3N5YlpRU3prVzd6R0NGckFTSnBHWWkyeWo5SXdORV9EWWdPV3E3Z1Q5R0lWUnczaXZEdTJoRVBNWnNJUzVFaTd6WXRRNVM1Wm9XWFZnU0FudjQ4?oc=5)
+Source: [Newswise](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQm9LNExDc0xYeDR2VTVOTllGUFJyQnZucHlzOHRKU2NPbG0zVXhaM3hOSERUNVpYd3R4OGtoUFh4QS1OdTEzbXRZMmVDd3N6WGY3bm9ISlF4U0Z4N1hTWGcxSHZBOE5KeWc0eVZWZUgtVXFFa0ZRbE40Qzg2ZXp1eVFBWVlPc3liWlFTemtXN3pHQ0ZyQVNKcEdZaTJ5ajlJd05FX0RZZ09XcTdnVDlHSVZSdzNpdkR1MmhFUE1ac0lTNUVpN3pZdFE1UzVab1dYVmdTQW52NDjSAdgBQVVfeXFMTkJvSzRMQ3NMWHg0dlU1Tk5ZRlBSckJ2bnB5czh0SlNjT2xtM1V4WjN4TkhEVDVaWHd0eDhraFBYeEEtTnUxM210WTJlQ3dzelhmN25vSEpReFNGeDdYU1hnMUh2QThOSnlnNHlWVmVILVVxRWtGUWxONEM4NmV6dXlRQVlZT3N5YlpRU3prVzd6R0NGckFTSnBHWWkyeWo5SXdORV9EWWdPV3E3Z1Q5R0lWUnczaXZEdTJoRVBNWnNJUzVFaTd6WXRRNVM1Wm9XWFZnU0FudjQ4?oc=5)
 
 ---
 

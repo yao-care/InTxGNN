@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Atosiban with the latest hea
 <li>congenital hypotrichosis milia (99.9%)</li>
 <li>alopecia (99.9%)</li>
 <li>hypotrichosis simplex of the scalp (99.9%)</li>
-<li class="indication-matched">vascular disease (99.9%)<span class="indication-tag">📰 vascular disease</span></li>
+<li>vascular disease (99.9%)</li>
 <li>diffuse alopecia areata (99.9%)</li>
 <li>arterial thoracic outlet syndrome (99.9%)</li>
 <li>venous thoracic outlet syndrome (99.9%)</li>
@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Atosiban with the latest hea
 
 ## Related News (1)
 
-### [Air pollution and cardiovascular disease: Mitochondria may be the missing link - Medical Xpress](https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1F0a19HNUxIbks4QzlZaDUtVC1BdmF5YWU1RmVrYzhHeVUtTVdYQTdsMXlVVjZ2V0lLdGdheFpZdzlZeGhmUXRfSW1TTUpud241c014N1dkaVBTb1BSMDFSLUtrSzVWWDBMMWVLUmFpVTdZLWdTbmNfS2xjZ25QNWJiUHVtSDJkVFl4MVA2S3U1a05rZGUwNA?oc=5)
+### [Yale researchers develop AI model to detect heart condition - Yale Daily News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVVsZF82aWRXRkpKYlNlZmRkTjlRUjFvR2hGMjFBUnlpOWpDQ3NBU2NtdTRmNTNvTUtoM1ktNkpUbUd2UDE2NG1WbVZsVHNLMUJaUDNiaEFlWmlIeEpyRXZ0QXhLQVhiVjlLaDR4RnkxdkFUVm10cl9DeERGbjRWSjF6aDE5NTZ2VkZvTkhmLTh3V0JVZ2tkT0xITGszMGl6RnhnTURPZmxRSG1lUGt5M0ZRbC00UQ?oc=5)
 
-2026-09-25 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
+2026-09-25 <span class="news-indication-tag">heart disease</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1F0a19HNUxIbks4QzlZaDUtVC1BdmF5YWU1RmVrYzhHeVUtTVdYQTdsMXlVVjZ2V0lLdGdheFpZdzlZeGhmUXRfSW1TTUpud241c014N1dkaVBTb1BSMDFSLUtrSzVWWDBMMWVLUmFpVTdZLWdTbmNfS2xjZ25QNWJiUHVtSDJkVFl4MVA2S3U1a05rZGUwNA?oc=5)
+Source: [Yale Daily News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVVsZF82aWRXRkpKYlNlZmRkTjlRUjFvR2hGMjFBUnlpOWpDQ3NBU2NtdTRmNTNvTUtoM1ktNkpUbUd2UDE2NG1WbVZsVHNLMUJaUDNiaEFlWmlIeEpyRXZ0QXhLQVhiVjlLaDR4RnkxdkFUVm10cl9DeERGbjRWSjF6aDE5NTZ2VkZvTkhmLTh3V0JVZ2tkT0xITGszMGl6RnhnTURPZmxRSG1lUGt5M0ZRbC00UQ?oc=5)
 
 ---
 
