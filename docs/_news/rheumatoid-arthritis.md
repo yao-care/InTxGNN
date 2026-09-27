@@ -3,7 +3,7 @@ layout: default
 title: "RA (rheumatoid arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (rheumatoid arthritis). 3 articles, 21 related drugs."
+description: "Health news about RA (rheumatoid arthritis). 4 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rheumatoid-arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about RA (rheumatoid arthritis)?">
-<strong>RA (rheumatoid arthritis)</strong> currently has <strong>3 news articles</strong> and 21 related drugs.
+<strong>RA (rheumatoid arthritis)</strong> currently has <strong>4 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -49,7 +49,7 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [STATES, LOCAL BODIES ADVISED TO OBSERVE WORLD RABIES DAY ON 28TH SEPTEMBER](https://news.google.com/rss/articles/CBMiowFBVV95cUxQanJuakpRV2xMYU5fV2ZTdTBpWG0xQ080YlRJbmFqdXhtTlpxS2Q0SEZxMmYzMDhNNlpBWGpTWjhyS3laTUZYaHZQWHJfN0JUU1VLaG1OX1JiOVNjSkhDd0RMNEZ6NldHMXVoeDlqc0pzbUFmdWh3TjFpSU9oR0lUMEFlcVhLWFBCX0tCOThFelhGWnJQVjAxT3dfUVFDOWNnZEVj?oc=5)
 
@@ -64,6 +64,14 @@ Source: [Face2News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQanJuakp
 2026-09-26
 
 Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMinwJBVV95cUxONmNpUFc5cWFlWTlWanlEN0N4eGNZamZrNUk1NWQ5YjA1bzR6MEFWZWVUX3NXa3RzcmR2dmRPMElXdnRYSjYtd3Z2cHk1Y0M5c0F0VXRNaGQ3Z19wVWVUbERmd3hlbWxUSEpxLXdOWWlfOFpQc1hBYjRWR3JIR0NISlYzcktmMG5ESlVZeGdVSk9UN2FQNWoySkQtWmtnNkY1WGlTUVFtQVBGcUtzMWp1NklJc19wTjFzN05IM1JyTGQzVG1MdnhnMGJwNFVaSU5UbDZLdm1MNll2T2g2dkd5a3RGMzR1Y3J4X0tmLWNhYUlMb2d4eE1abVlSWEptSlBJdXlIb2R3b0I1UGxIN2UtMkpNN3BNV19HWlpLcWw3QQ?oc=5)
+
+---
+
+### [WHO selects viruses for 2027 southern hemisphere flu shots](https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkc1aUVTTG1aN1JzM3FNNE5lTjhScUFEdWp5TmpRNzcxN1NSVm1ETWVoUzUyR1RPTWlSUktJdExXX2M2YVQwUm5NalcwSXhqLUtESDVoVG9aNHBOZzQxNEpNSHBRQ3dLVDNwdTcyTnZDWk5oYVBwR1VMQmNvN1dmRXkwWUJRZ185MDE3bHA2WXhlU3VnQXlSUnE2OHNIei1tX2c?oc=5)
+
+2026-09-25
+
+Source: [CIDRAP](https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkc1aUVTTG1aN1JzM3FNNE5lTjhScUFEdWp5TmpRNzcxN1NSVm1ETWVoUzUyR1RPTWlSUktJdExXX2M2YVQwUm5NalcwSXhqLUtESDVoVG9aNHBOZzQxNEpNSHBRQ3dLVDNwdTcyTnZDWk5oYVBwR1VMQmNvN1dmRXkwWUJRZ185MDE3bHA2WXhlU3VnQXlSUnE2OHNIei1tX2c?oc=5)
 
 ---
 

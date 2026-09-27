@@ -14,7 +14,7 @@ permalink: /news/glycerin/
 ---
 
 <p class="key-answer" data-question="What news is there about Glycerin?">
-<strong>Glycerin</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Glycerin</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,9 +39,15 @@ This page combines the AI-predicted indications for Glycerin with the latest hea
 <p><a href="{{ '/drugs/glycerin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [High-Dose Nitroglycerin Rapidly Improves SCAPE Symptoms - European Medical Journal](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQjNoUDROZ1VPWDVGTHpOVUp4dEJ1TnJWLTRkMDFRVWtIVGZPODJUR0d1X01MelFDUzBwbFV6aTl6aVBSZFpBUUpMM0RFVXVfZVRUNkJlQWo0LThnQktMcnkzYlNEWU83NVNydnlId3NkeUZpMzZJa3lCZnIwd1hQV1V6a1NDQ203bUZoTzh4aUdkaFB1RlNPSkdGQm83blJoaHc?oc=5)
+
+2026-09-27 <span class="news-drug-tag">GLYCERIN</span> <span class="news-drug-tag">Glycerin</span> <span class="news-drug-tag">Nitroglycerin</span>
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQjNoUDROZ1VPWDVGTHpOVUp4dEJ1TnJWLTRkMDFRVWtIVGZPODJUR0d1X01MelFDUzBwbFV6aTl6aVBSZFpBUUpMM0RFVXVfZVRUNkJlQWo0LThnQktMcnkzYlNEWU83NVNydnlId3NkeUZpMzZJa3lCZnIwd1hQV1V6a1NDQ203bUZoTzh4aUdkaFB1RlNPSkdGQm83blJoaHc?oc=5)
+
+---
 
 
 <div class="disclaimer">

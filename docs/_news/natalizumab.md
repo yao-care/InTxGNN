@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>bronchitis (99.5%)</li>
 <li>parapsoriasis (99.4%)</li>
-<li class="indication-matched">psoriasis (99.2%)<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis (99.2%)</li>
 <li>severe nonproliferative diabetic retinopathy (99.2%)</li>
 <li>acute lichenoid pityriasis (99.0%)</li>
 </ul></li>
@@ -35,23 +35,9 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Generalised Pustular Psoriasis Linked to Higher Mortality - European Medical Journal](https://news.google.com/rss/articles/CBMipAFBVV95cUxPblVxNUlUNTlBaVY5bEhuSVk1aXJaYzdaakVkWG9hVzVoM2ZDemx0Y25qaFg0djNhZDdiSmEzcjV6VTRzeU15UkVqYVNGRXR0al8xUTdibFRJOU5lRHM4Nk1KX0VrMXRHYk9CV2pyeEJYWnZxb29PNmZrd3dvWFV2VjJYQkZYZG1fSl9GWGg0eFBQUVlKQ19pemhtV2FVRUlFdHBNRA?oc=5)
-
-2026-09-25 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMipAFBVV95cUxPblVxNUlUNTlBaVY5bEhuSVk1aXJaYzdaakVkWG9hVzVoM2ZDemx0Y25qaFg0djNhZDdiSmEzcjV6VTRzeU15UkVqYVNGRXR0al8xUTdibFRJOU5lRHM4Nk1KX0VrMXRHYk9CV2pyeEJYWnZxb29PNmZrd3dvWFV2VjJYQkZYZG1fSl9GWGg0eFBQUVlKQ19pemhtV2FVRUlFdHBNRA?oc=5)
-
----
-
-### [Psoriasis Treatments Show Distinct Infection Risks - European Medical Journal](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnhPdDVmOXhIcmc0Skt0OG5KNmhNYUVjb0V4QmxTMDJrZk5JN1JaUGsyYmwxLUNGVlozZlpqa2p3dzNZM3haWkhmSDM3TlVoOFlRN1llTVdaNzAySnN1eFlUUWMwcng4YnFpQ05UZVF4X3JWUGtjWXVvOTJmODlhRlBmYnNuYVVOaUl3RHBtOTRzNXZTVXc2MW5Ocw?oc=5)
-
-2026-09-23 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnhPdDVmOXhIcmc0Skt0OG5KNmhNYUVjb0V4QmxTMDJrZk5JN1JaUGsyYmwxLUNGVlozZlpqa2p3dzNZM3haWkhmSDM3TlVoOFlRN1llTVdaNzAySnN1eFlUUWMwcng4YnFpQ05UZVF4X3JWUGtjWXVvOTJmODlhRlBmYnNuYVVOaUl3RHBtOTRzNXZTVXc2MW5Ocw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
