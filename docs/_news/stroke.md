@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "paralysis (stroke) News"
+title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about paralysis (stroke). 3 articles, 15 related drugs."
+description: "Health news about stroke. 2 articles, 15 related drugs."
 permalink: /news/stroke/
 ---
 
-# paralysis (stroke) News
+# stroke News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about paralysis (stroke)?">
-<strong>paralysis (stroke)</strong> currently has <strong>3 news articles</strong> and 15 related drugs.
+<p class="key-answer" data-question="What news is there about stroke?">
+<strong>stroke</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “paralysis” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “stroke” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -43,7 +43,7 @@ This page brings together the latest health news about “paralysis” and lists
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Inflammation May Be Quietly Changing Your Heart: Study Finds 43% Higher Risk Of Heart Attack & Stroke - Health and Me](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN1NFWXF4MDB4N1hSWjMyWmNIVjJtYzF4ZVRpaTdpYnN0REhVWGQyYzVJeFhHRWhRTTRJQ2NfY3FoTXRCbTREaGFfMzNaalJZT1VqbjNYR05KSG16WHBINkF6ZUFwOTVSSFVCZTRxZWNsVldUaG5vR3h5Nl85dFVqOVpfX3pZYUJNOHBiYV8yekxxMTRtWkV6RTlHSWwxdTRNM1JxVnJfc3dRVnpFbks2NTAyU2tIN3ExMFpDT2o0X2k2TlNSWmFyT0J6SVJIaUh1T3NQcGktU2x0UDFqdWZLa2hFaXdpWTVHdEZHUGstR1Q?oc=5)
 
@@ -53,19 +53,11 @@ Source: [Health and Me](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN1N
 
 ---
 
-### [Modified HIV drug could reverse vision loss, paralysis from MS, study suggests - LiveNOW from FOX](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUNVY0k2a21SaUYxdWVHZS01MWNuSHFwQzY3UENDcUJFWGtQVVdqU2ZWWEZ1QVJrTjdvVF9yT3FtVjJBamt4SWp5ZnpTN0pRLUwtWllIRUpBSk9jcXh0SVJxUkoxX1VqcXpRdVVZbGtvTzluMjNBXzVOQkN1b05IclRVLXhpVm9lUnFyYmFtQXEwSDJmWG1JelVRUjNaQW56dTVhb0VJdDFBMmV4?oc=5)
-
-2026-09-25
-
-Source: [LiveNOW from FOX](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUNVY0k2a21SaUYxdWVHZS01MWNuSHFwQzY3UENDcUJFWGtQVVdqU2ZWWEZ1QVJrTjdvVF9yT3FtVjJBamt4SWp5ZnpTN0pRLUwtWllIRUpBSk9jcXh0SVJxUkoxX1VqcXpRdVVZbGtvTzluMjNBXzVOQkN1b05IclRVLXhpVm9lUnFyYmFtQXEwSDJmWG1JelVRUjNaQW56dTVhb0VJdDFBMmV4?oc=5)
-
----
-
 ### [Stopping Ozempic may raise heart attack and stroke risk](https://news.google.com/rss/articles/CBMib0FVX3lxTE15M0ViSmI5TXhIQmo2LXgtSHRadGxST0gyWkJPQm5UNmU3cVJiM0ZhNlhRdGpVODNldXZJb2lJaHM5Nkl1Y3pBRDNpdUZSUEhYMEU3TkxHd0psSmJOaUJiM01OazE2V2JtTWFCT1F2Yw?oc=5)
 
 2026-09-21
 
-Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE15M0ViSmI5TXhIQmo2LXgtSHRadGxST0gyWkJPQm5UNmU3cVJiM0ZhNlhRdGpVODNldXZJb2lJaHM5Nkl1Y3pBRDNpdUZSUEhYMEU3TkxHd0psSmJOaUJiM01OazE2V2JtTWFCT1F2Yw?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE15M0ViSmI5TXhIQmo2LXgtSHRadGxST0gyWkJPQm5UNmU3cVJiM0ZhNlhRdGpVODNldXZJb2lJaHM5Nkl1Y3pBRDNpdUZSUEhYMEU3TkxHd0psSmJOaUJiM01OazE2V2JtTWFCT1F2Yw?oc=5)
 
 ---
 

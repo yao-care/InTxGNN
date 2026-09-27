@@ -1,15 +1,135 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-09-27T15:51:18.267236+00:00",
-  "total_fetched": 140,
-  "unique_count": 140,
-  "health_related_count": 80,
+  "fetched_at": "2026-09-27T20:29:43.075128+00:00",
+  "total_fetched": 138,
+  "unique_count": 138,
+  "health_related_count": 83,
   "news": [
+    {
+      "id": "f847152b4f6d",
+      "title": "cfDNA Methylation Signals Breast Cancer Risk Years Before Clinical Diagnosis - Oncodaily",
+      "published": "2026-09-27T19:49:59+00:00",
+      "summary": "cfDNA Methylation Signals Breast Cancer Risk Years Before Clinical Diagnosis&nbsp;&nbsp;OncodailyBlood tests could identify early signs of cancer years before diagnosis&nbsp;&nbsp;Medical XpressBlood test detects breast cancer more than a year before scans&nbsp;&nbsp;The Brighter Side of NewsBlood Test May Predict Cancer Risk Years Before Diagnosis&nbsp;&nbsp;European Medical JournalCancer-related DNA changes may appear in blood years before diagnosis&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "Oncodaily",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fMW9XVWJ4VnpObnJIc2tuODNHYmtOOGpKTGY0bVphWHFTQTdQOHd6NDVmcGdfQUlzTDgtZDRVQlhPcEhhQjNFa2dFbkp6VjVZdmtqYUE1WUZrTmtVMEFuYzNEbFFOeGZSMERxQVdXNDF0Z2FVd3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37243ce52dd5",
+      "title": "Greenland, Antarctica lose 11.3 trillion tonnes of ice since 1979 - AzerNews",
+      "published": "2026-09-27T19:00:00+00:00",
+      "summary": "Greenland, Antarctica lose 11.3 trillion tonnes of ice since 1979&nbsp;&nbsp;AzerNews12.5 trillion tons of polar ice has disappeared since the 70s, longest satellite record shows&nbsp;&nbsp;SpaceGreenland lost about 105 billion metric tons of ice in the year ending August 2025, its 29th consecutive year of net loss, while satellites captured vast gray patches where dust and soot darkened the surface and allowed it to absorb even more sunlight&nbsp;&nbsp;ECOticias.com 'El Periódico Verde'Study fi",
+      "sources": [
+        {
+          "name": "AzerNews",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GUjB3ZERTLXVKc2hrTGxnQ01tMjR1X05yQ2RYaEFScng2OGEyMkMzU3B3SFptd3YzbjFpQm5WMHBnazBHaHlGaHE3RWFfeHA2RzVUcQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "98d49900c004",
+      "title": "Predominantly anthroponotic spread and divergent Giardia assemblages drive co‑circulating lineages in pediatric infections from Egypt - Nature",
+      "published": "2026-09-27T18:31:07+00:00",
+      "summary": "Predominantly anthroponotic spread and divergent Giardia assemblages drive co‑circulating lineages in pediatric infections from Egypt&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3a2dROUFuVnZqVkUzOTJnM1VGQjhGYl9zWi1iejcxaUYwVUFtWGhXOTNfZkFKQUtUUS1uOEVORHpLek9EM1NkUmk3QW5Xd1UycERBaHdZS3l1WElEelQ0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "416162f0d0e6",
+      "title": "Early galaxies enriched space with heavy elements: Study - The New Indian Express",
+      "published": "2026-09-27T18:26:19+00:00",
+      "summary": "Early galaxies enriched space with heavy elements: Study&nbsp;&nbsp;The New Indian ExpressHow the very first galaxies “polluted” the Universe with the seeds of life&nbsp;&nbsp;Universe Space TechJames Webb Space Telescope looks back in time, finds our ancient universe wasn't as pure as we thought&nbsp;&nbsp;SpaceJames Webb Space Telescope Discovery May Help Answer Why Astronomers Can’t Find the First Stars&nbsp;&nbsp;thedebrief.orgJWST Detects Six Different Metal Types In Galaxies At Redshift 9&",
+      "sources": [
+        {
+          "name": "The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3pxVmxpODZUMEsweFctTUVtWUhTZk11Ujl4RDktT2M3REdzREVyNzUzaUpDMnZ1V0FqRXp1dUl4Uk1pd1hHRy1wMXhPTTJRQ21FMVM2X2FhVnE1UDB0TzczMHZtX1VxMFh3anhfQXFUdEc4TEhEeXB1YURIRFozS0JhSkJYeUlpd1BvS2h6TVdyRFNocm5ac0htSDhxQUJsX2p1MzNlcWh0UFQ1MUVVN2M2TEFVWDRNcVHSAccBQVVfeXFMUGotVWdHLVJ4bDU2ZmUzZzVpMjg3eHZ0R3dLRXdjRzdwZ0xzcWRVeVR6UXp6RHRyNzJ0ZFFGOTVqMUhoeXRTZkpVWFlPSncxZDZQOUJTaThQcTZLME5hbkJWdWl2dWlhVXNyS3JXU1hpQW5lRjk3bVQ2SHFyZHRIdVlEZmJJV3E2U3UycGlERTFNeTFLamRTRmMzNjR5NUUyX1lrY2FwSjFXNTZ0UVRoMHpFa0hDNEtLVVJGbkpZVTBUSjdWdExJYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd648671d3d2",
+      "title": "Doctors stress early action on heart risks - The Times of India",
+      "published": "2026-09-27T17:29:00+00:00",
+      "summary": "Doctors stress early action on heart risks&nbsp;&nbsp;The Times of IndiaWorld Heart Day 2026, Theme, Date, CVDs, Indian Initiatives&nbsp;&nbsp;Vajiram & RaviHeart tests should start in your 20s, says Dr. Naresh Trehan ahead of World Heart Day: Why waiting for symptoms may be a mistake&nbsp;&nbsp;The Times of IndiaWebinar on developments in diagnosis, treatment of heart disease to be organised&nbsp;&nbsp;The HinduHeart disease striking Indians decades early: Doctors flag diet, stress, pollution a",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHI1VTRWT0locnNLLVl0UUZrdkVFSl93RE9MTDBtUjlMQTVSLXRIbnRpRXo5eXUxYWNrcGo1cWNwYlJjU3FYaS1Pb2JreVA4TXJsWHFVa21TNkFZTm00ekNDellMcHRiX3YteVJ3VUZUS1RyMDU4b0VlcVNpaGV3MXVtMnU4SUdFcVduUmY3dVlGaHV4VDkxRGhQWGdpQmptWWFwRWV1VjFrc1ZNbFVVcU9mREN1d9IBuwFBVV95cUxNblBUQUlvWGJWaGp1SDN3Qi1tc0VkMXhLMlpTSFpLR3RFWmJsaGdvYlFHMkJJZERwUmJuUkVtd3EzWlZfcTRlMy0yb09ZZlNhUDctX1lqeTllMHdQRnZRaFVIVEI2Yldpa2QzVkVHUmxRVVpLN1c2QkZHVlNTb25PQWJJWnRYVW00T1BqbXRndldvaFBHRVZOY3oyWW1ESU1zNWt4RFBNNVRJVDcwVXJzZjhLMVg0SlRpQTlV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29a417ed4199",
+      "title": "SpaceX Starship Launches Monday. This Test Is Different. - Barron's",
+      "published": "2026-09-27T16:52:00+00:00",
+      "summary": "SpaceX Starship Launches Monday. This Test Is Different.&nbsp;&nbsp;Barron'sSpaceX's Starship megarocket launching to orbit for 1st time ever on Sept. 28: Watch it live&nbsp;&nbsp;SpaceSpaceX’s Starship Rocket Is Heading To Orbit–With A Lot On The Line&nbsp;&nbsp;ForbesSpaceX's Starship is about to attempt a 10-hour spaceflight: Watch live.&nbsp;&nbsp;MashableThe most powerful rocket ever built is on the verge of its biggest — and riskiest — test yet&nbsp;&nbsp;CNN",
+      "sources": [
+        {
+          "name": "Barron's",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPaHhPTW1PaFBYY1RsSGtSV3loWXRCaHlURFVfdFprak5Ya2lxY05BZFRiVHZqQVFVSjBXOUpGd2lqcEZnUU9RUjFjXzA0SWI5bjVGcFJZRGotOWRVczFUd3pMSmx3ZDBLSUFNTTVvcWMzWlJrOW5pM3MxS3Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f1b9357ff62",
+      "title": "Does GLP-1 use result in significant hair loss? - The Guardian",
+      "published": "2026-09-27T16:01:00+00:00",
+      "summary": "Does GLP-1 use result in significant hair loss?&nbsp;&nbsp;The GuardianSkin, Hair, and Muscle Changes Reported During GLP-1 Weight Loss&nbsp;&nbsp;European Medical JournalYou're not imagining it: Why so many people are talking about hair loss&nbsp;&nbsp;CT Insider",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GeWc0R29FckFBbmtTZUE2QU5pMkdZRHJ6SUFZZ1N2SzBjTVRXNnFEWWFLNlNVc3Yxb3NEcUxRSGFIWkllTlRBZWJDSjdYTWZFdktwajlxUmZvV3pGcDZLOHRGdnMyX1F3UmFUTVE2dzFZOE0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "add3134819df",
+      "title": "Scientists Solve a Decades-Old Stick Insect Mystery - SciTechDaily",
+      "published": "2026-09-27T15:30:33+00:00",
+      "summary": "Scientists Solve a Decades-Old Stick Insect Mystery&nbsp;&nbsp;SciTechDailyDiscovery of new Australian stick insect species reveals case of mistaken identity&nbsp;&nbsp;The GuardianTwo new species of large stick insects discovered in well-studied regions of Australia&nbsp;&nbsp;AOL.comAustralian ‘insect detectives’ discover stick insect as long as a toothbrush in Queensland rainforest&nbsp;&nbsp;BBC Wildlife MagazineTwo New Stick Insect Species Have Been Discovered in Australia—and Another One W",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNlNzYUtyeUgtY19iOUlkeDhicWJPT1RyYTN1QmN6Mnh2Qzh0Y3pCNGdTclo1WWk0Q09vTko3dG4xOUhPMFlXRF9UUmZiVlg5cTF0dzFFbHNqeUE1azlnNGUwNFpmVlZGeVZqUWxIb0RKMVZXMi05dzRzS1ktV0dINUEtSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7c3eb97493a",
+      "title": "Transplant Immunosuppression Regimens Affect Sinonasal Disease - European Medical Journal",
+      "published": "2026-09-27T15:03:59+00:00",
+      "summary": "Transplant Immunosuppression Regimens Affect Sinonasal Disease&nbsp;&nbsp;European Medical Journal",
+      "sources": [
+        {
+          "name": "European Medical Journal",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWld4d3VfbGFXdWdPNXpzcGItNXoxX0hfV282SWhiNDlDS3daOGI1UFdhRWtKWUFrMExISi1ZNlFUbnN0djdIRzVpRkJXQXdhZVFiWExmOHViYS12OWNoa19aVzVPTmJ5VldOUjN4S3BsQmxNdHU0ZGozUVVNY09HODNMUkliLXl0dkFscjFmMTFJb2RaMmxYSXk1MmdpVjFpeUdGUnpuOVhQQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6bfbf98b3d5b",
+      "title": "Measles outbreak threatens development of Bangladesh’s youngest generation - Arab News",
+      "published": "2026-09-27T15:03:58+00:00",
+      "summary": "Measles outbreak threatens development of Bangladesh’s youngest generation&nbsp;&nbsp;Arab NewsAnother 9 Children Die from Suspected Measles Symptoms&nbsp;&nbsp;Bd24liveBangladesh has lost 900 children to measles – a warning to other countries where vaccine rates have slipped&nbsp;&nbsp;The ConversationThree more suspected measles deaths reported in 24 hours&nbsp;&nbsp;The Financial ExpressMeasles, dengue claim 15 more lives&nbsp;&nbsp;New Age BD",
+      "sources": [
+        {
+          "name": "Arab News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHVBWlp0OS15UUdhdTk3OTg3Um1kV1p3VWgtQXAtdWpMUGh1dkhyLURQZ0Uzb0Y3M1Z6UTQ4VHctTVg3b2p2NkRaUjl1SjRIdW9waFA1T0xTVndMNEd6bkNNa2E0U2xYV29ENkRrQUQ3ZDlBSzZkWjM2OVUtNnUzdy13LUUyTy1UbjhpbDJvRlNPQnBRSHlUS0tsSG9ESi1zU1laODVndzFNNTFSWGJLSWN3?oc=5"
+        }
+      ]
+    },
     {
       "id": "b3b56769b1ea",
       "title": "Venus May Have Devoured Its Moon, Scientists Find - Futurism",
       "published": "2026-09-27T15:01:00+00:00",
-      "summary": "Venus May Have Devoured Its Moon, Scientists Find&nbsp;&nbsp;FuturismVenus May Have Devoured Its Moon&nbsp;&nbsp;wired.comScientists propose Venus may have lost a former moon through orbital decay&nbsp;&nbsp;ecoportal.netVenus May Have Once Had a Moon That Eventually Crashed Into the Planet, Study Suggests&nbsp;&nbsp;AOL.comNew Research Suggests Venus May Have Swallowed Its Moon&nbsp;&nbsp;Ratopati",
+      "summary": "Venus May Have Devoured Its Moon, Scientists Find&nbsp;&nbsp;FuturismVenus May Have Devoured Its Moon&nbsp;&nbsp;WIREDScientists propose Venus may have lost a former moon through orbital decay&nbsp;&nbsp;EcoPortal.netVenus May Have Once Had a Moon That Eventually Crashed Into the Planet, Study Suggests&nbsp;&nbsp;AOL.comNew Research Suggests Venus May Have Swallowed Its Moon&nbsp;&nbsp;Ratopati",
       "sources": [
         {
           "name": "Futurism",
@@ -18,37 +138,13 @@
       ]
     },
     {
-      "id": "3b8020723850",
-      "title": "\"But as he matures and the lure of sex calls, he takes risks…\" - BBC Wildlife Magazine",
-      "published": "2026-09-27T14:04:15+00:00",
-      "summary": "\"But as he matures and the lure of sex calls, he takes risks…\"&nbsp;&nbsp;BBC Wildlife Magazine",
-      "sources": [
-        {
-          "name": "BBC Wildlife Magazine",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdzh2WU9qRUFXcU1jdHI5TTBsaUh0MXJmd1BFalAtTkRzUXFFWDg0TkZGNTBSeVNqTmltelBrOFcxYS1DNGVuQXA4bjgycC1rczlIaWVMVkp2VU93Tl9hX0tYR1BpV2hReVJyeThiMGhrTHN0RjlZc214WURnQmxWaElSVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a41858f09932",
-      "title": "Immunosuppression Regimens Influence Sinonasal Disease Post Transplant - European Medical Journal",
-      "published": "2026-09-27T14:03:59+00:00",
-      "summary": "Immunosuppression Regimens Influence Sinonasal Disease Post Transplant&nbsp;&nbsp;European Medical Journal",
-      "sources": [
-        {
-          "name": "European Medical Journal",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSnBDb2U1NzNpZW1OQ0REcGJzb1pRZ05ZODFMaVhMYzF6SnAxUnFjZ3NqYW12T2stWHZXVXdXVHFxdW9rS21jd1Vzc1d0bGJ1TXVORFhONmFpV0w2cFh0ZW9mRHFITTRpZUFTMDJ6ZmVMN1JTc3plWGpEc3UzWll0WXJjaGEzeUtpeE9hUGZUQ2REZDNFWlExOHB4ZlVPbXZsQ1JvbTNkSEJEbjdFVWJpeGRsYndrNnFic0JpT24tWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2d39cebc012d",
-      "title": "One CRISPR treatment cut “bad” cholesterol in half for a full year - sciencedaily.com",
+      "id": "5a69e1f6f6ec",
+      "title": "One CRISPR treatment cut “bad” cholesterol in half for a full year - ScienceDaily",
       "published": "2026-09-27T13:54:05+00:00",
-      "summary": "One CRISPR treatment cut “bad” cholesterol in half for a full year&nbsp;&nbsp;sciencedaily.comSee more headlines and perspectives on Google News",
+      "summary": "One CRISPR treatment cut “bad” cholesterol in half for a full year&nbsp;&nbsp;ScienceDailySee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "sciencedaily.com",
+          "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80VWh0YkpZbWE0TTBZc1N3ejdpSmNuNFVZNGoyOTlwVjR3Wm9FS2Z6SzNITWRZU3ZOQnIyQUw2UWFTMnVueF9pdkk2M3ZEbmNnb25walhFNTJBdzBDcU1FRFJZRC1XTnNCYkhvRWVLSQ?oc=5"
         }
       ]
@@ -93,7 +189,7 @@
       "id": "6b05c10ddcb0",
       "title": "Even Very Slow Running Can Benefit The Brain, Study Suggests - ScienceAlert",
       "published": "2026-09-27T13:02:31+00:00",
-      "summary": "Even Very Slow Running Can Benefit The Brain, Study Suggests&nbsp;&nbsp;ScienceAlertInstead of pushing hard at exercise, try ‘slow jogging’&nbsp;&nbsp;Scroll.inScientists reveal surprisingly easy exercise that may boost your mood in just 10 minutes&nbsp;&nbsp;Fox NewsHow to maintain good sleep health this school year&nbsp;&nbsp;LiveNOW from FOXVery Slow Running May Be Enough To Boost Your Mood And Enhance Your Focus&nbsp;&nbsp;IFLScience",
+      "summary": "Even Very Slow Running Can Benefit The Brain, Study Suggests&nbsp;&nbsp;ScienceAlertInstead of pushing hard at exercise, try ‘slow jogging’&nbsp;&nbsp;Scroll.inScientists reveal surprisingly easy exercise that may boost your mood in just 10 minutes&nbsp;&nbsp;Fox NewsHow to maintain good sleep health this school year&nbsp;&nbsp;FOX 13 SeattleVery Slow Running May Be Enough To Boost Your Mood And Enhance Your Focus&nbsp;&nbsp;IFLScience",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -105,23 +201,11 @@
       "id": "9298e28cdfde",
       "title": "What Happens to Your Brain When You Read, According to a New Study - EatingWell",
       "published": "2026-09-27T12:45:00+00:00",
-      "summary": "What Happens to Your Brain When You Read, According to a New Study&nbsp;&nbsp;EatingWellScientists Say This Simple Habit Could Help Protect Your Brain for Life&nbsp;&nbsp;SciTechDailyFrom Boosting Mental Health to Reducing Dementia Risk, Here's Why Reading Is Extremely Good for You, According to Science&nbsp;&nbsp;Smithsonian MagazinePsychologist Reveals 5 Unique Qualities of Daily Readers That Enhance Wellbeing&nbsp;&nbsp;Yahoo Style UKWhy we should all be 'bookmaxxing' : Short Wave&nbsp;&nbsp;",
+      "summary": "What Happens to Your Brain When You Read, According to a New Study&nbsp;&nbsp;EatingWellFrom Boosting Mental Health to Reducing Dementia Risk, Here's Why Reading Is Extremely Good for You, According to Science&nbsp;&nbsp;Smithsonian MagazinePsychologist Reveals 5 Unique Qualities of Daily Readers That Enhance Wellbeing&nbsp;&nbsp;Yahoo Style UKScientists Say This Simple Habit Could Help Protect Your Brain for Life&nbsp;&nbsp;SciTechDailyWhy we should all be 'bookmaxxing' : Short Wave&nbsp;&nbsp;",
       "sources": [
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWFpvRWd1a0xMbzI2LVZmZVRiRkVEMTZGT3hKc3NGM3pBSlMySjEzOC1BTm1CZzBKQWNPejU3VEN3SEwzOHBCYTVabHJwWGNqT01YRmUxSXpGbzlZVnJaRllVOEs0cEc2NnRwZVFTQUVJUVphMkxqS2pITkNQUkRzNnVveUJoUXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "108627913d21",
-      "title": "Canadian study says Earth's core is quietly changing the length of a day - Yahoo",
-      "published": "2026-09-27T12:39:00+00:00",
-      "summary": "Canadian study says Earth's core is quietly changing the length of a day&nbsp;&nbsp;YahooGravitational torque drives multidecadal variations in length of day&nbsp;&nbsp;NatureA Gravitational Battle Within the Earth Is Changing the Length of Days&nbsp;&nbsp;wired.comWhy Earth’s 24-hour day isn’t quite as fixed as you think&nbsp;&nbsp;The News InternationalEarth's deep secret: Why your day isn't quite 24 hours&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSEhnaVFDRUpUUkpGOE1wekZOZG43Q0dNWDduQjRlMzBQM3Y0WWdqYm16SF9VdWpac1pHRUhpNldGR1BCTmtXdXJ6X2hFb3RSVVFTYVgwd3Ftc1JPMFNPd2dGa2hRZnNhYVhtLXc0cXlsUlE5NXBmMG1JeE9pTGU0MzV4XzJ5Z0pLaTFIaWtQdXJCc1dP?oc=5"
         }
       ]
     },
@@ -165,7 +249,7 @@
       "id": "663712671fa2",
       "title": "Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop - BBC",
       "published": "2026-09-27T11:52:47+00:00",
-      "summary": "Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop&nbsp;&nbsp;BBC100g more ultra-processed food a day =14% higher heart risk: What a study found&nbsp;&nbsp;The Indian ExpressMeta-analysis links UPF intake to disease risk, but experts question certainty&nbsp;&nbsp;Nutrition InsightIndustry ties widespread among authors challenging ultra-processed food classification&nbsp;&nbsp;News-MedicalDaily junk food intake linked to higher chronic disease risk in new ",
+      "summary": "Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop&nbsp;&nbsp;BBC100g more ultra-processed food a day =14% higher heart risk: What a study found&nbsp;&nbsp;The Indian ExpressMeta-analysis links UPF intake to disease risk, but experts question certainty&nbsp;&nbsp;nutritioninsight.comIndustry ties widespread among authors challenging ultra-processed food classification&nbsp;&nbsp;News-MedicalDaily junk food intake linked to higher chronic disease risk in n",
       "sources": [
         {
           "name": "BBC",
@@ -174,25 +258,13 @@
       ]
     },
     {
-      "id": "0c4626c5bbcf",
-      "title": "SpaceX's Next Starship Launch Will Generate Revenue -- Sort Of - The Motley Fool",
-      "published": "2026-09-27T11:45:00+00:00",
-      "summary": "SpaceX's Next Starship Launch Will Generate Revenue -- Sort Of&nbsp;&nbsp;The Motley FoolThe most powerful rocket ever built is on the verge of its biggest — and riskiest — test yet&nbsp;&nbsp;CNNSpaceX Starship Flight 14 live updates: Pre-launch wet dress rehearsal underway&nbsp;&nbsp;SpaceSpaceX’s Starship Rocket Is Heading To Orbit–With A Lot On The Line&nbsp;&nbsp;ForbesSpaceX's Starship is about to attempt a 10-hour spaceflight: Watch live.&nbsp;&nbsp;Mashable",
-      "sources": [
-        {
-          "name": "The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUQySGpVN19oWnpVR3pZYnZyMzF2VlZYZU9ldjBma2N1Q0Nhb2Z0cDZnZ0o4NF83TVJOV09NRWh0b2dtUkZsOXBkcXhDRWM4X3g4dHV6UFFTMDJRbW93dlAzR2lkckJET2d4cU9EYzhpRUctTEhlRmdYWTVVa1Y1Q1BJakIxSjFVZTFXX2d4NmpUeUM4eTRyZA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6912938a5990",
-      "title": "Soft and stretchy or rock solid? New modeling study sheds light on how the Earth got its moon - technology.org",
+      "id": "231e38a92d38",
+      "title": "Soft and stretchy or rock solid? New modeling study sheds light on how the Earth got its moon - Technology Org",
       "published": "2026-09-27T11:00:59+00:00",
-      "summary": "Soft and stretchy or rock solid? New modeling study sheds light on how the Earth got its moon&nbsp;&nbsp;technology.org",
+      "summary": "Soft and stretchy or rock solid? New modeling study sheds light on how the Earth got its moon&nbsp;&nbsp;Technology Org",
       "sources": [
         {
-          "name": "technology.org",
+          "name": "Technology Org",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTFpTR0l6NE5lV1l4M1luTjluMjc5SVFnaXpHSnhpeGFwZDhTLWtkWXVoMzRHelZoSU1GcnpRbzdtV2JCOGx3LXFHcE81T3Q5TC04MmEwZUJiLWRObGdQVlJHeFN1VDE1NFNTMllzdklOdXc3OUoxbVVNcFBjdk9ONWFQdzFoVGU4dVdUaEs3d0JORmdsYzJpd1VlbjdnV0xZTUVoN2Nnd2NKMDltcVJOSGM3UUZrZDFCdVdJV0dkUGh3WHJOaThyZlZ6WQ?oc=5"
         }
       ]
@@ -201,7 +273,7 @@
       "id": "e2a6ac48d0f3",
       "title": "Genomic Testing: India needs policy agenda to expand precision oncology care - Deccan Herald",
       "published": "2026-09-27T10:32:53+00:00",
-      "summary": "Genomic Testing: India needs policy agenda to expand precision oncology care&nbsp;&nbsp;Deccan HeraldAccess To Cancer Genetic Testing Unequal Worldwide: New Lancet Commission&nbsp;&nbsp;NDTVIndia needs five-year policy to make precision cancer care afforable, says expert&nbsp;&nbsp;ThePrintRaffaella Casolino: The Lancet Oncology Commission Launches a New Framework&nbsp;&nbsp;OncodailyLandmark global initiative sets out a new roadmap for equitable precision oncology&nbsp;&nbsp;VHIO",
+      "summary": "Genomic Testing: India needs policy agenda to expand precision oncology care&nbsp;&nbsp;Deccan HeraldAccess To Cancer Genetic Testing Unequal Worldwide: New Lancet Commission&nbsp;&nbsp;ndtv.comIndia needs five-year policy to make precision cancer care afforable, says expert&nbsp;&nbsp;ThePrintMark Lawler Discusses the Lancet Oncology Commission on Genomics and Precision Oncology in New Podcast&nbsp;&nbsp;OncodailyLandmark global initiative sets out a new roadmap for equitable precision oncology",
       "sources": [
         {
           "name": "Deccan Herald",
@@ -213,7 +285,7 @@
       "id": "3af129d86fb1",
       "title": "Inflammation May Be Quietly Changing Your Heart: Study Finds 43% Higher Risk Of Heart Attack & Stroke - Health and Me",
       "published": "2026-09-27T10:30:00+00:00",
-      "summary": "Inflammation May Be Quietly Changing Your Heart: Study Finds 43% Higher Risk Of Heart Attack & Stroke&nbsp;&nbsp;Health and MeWhy is everything linked to inflammation now?&nbsp;&nbsp;The HinduCan stress really trigger a heart attack? Doctors explain&nbsp;&nbsp;FirstpostChronic Stress Raises Heart Attack and Stroke Risk&nbsp;&nbsp;labroots.comHidden Heart Risk Can Build for Years Without Symptoms, Says New Study&nbsp;&nbsp;Yahoo Health",
+      "summary": "Inflammation May Be Quietly Changing Your Heart: Study Finds 43% Higher Risk Of Heart Attack & Stroke&nbsp;&nbsp;Health and MeWhy is everything linked to inflammation now?&nbsp;&nbsp;The HinduCan stress really trigger a heart attack? Doctors explain&nbsp;&nbsp;FirstpostChronic Stress Raises Heart Attack and Stroke Risk&nbsp;&nbsp;LabrootsHidden Heart Risk Can Build for Years Without Symptoms, Says New Study&nbsp;&nbsp;Yahoo Health",
       "sources": [
         {
           "name": "Health and Me",
@@ -230,18 +302,6 @@
         {
           "name": "European Medical Journal",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVR5UmxFeldNWW9rb1NNWG9wWlUzRUkySEVZeVAzQmJONXV5MWZzcEhQLU4xN0lwSlQ4SE5DUjVfNjlPYnlQMlN4bTNoeXFIUXpnb3lIdmllZFZVVmQwdTRwX3JMemVqRV9sRkM5OXFPUl9HdV9jb0tDbjhKVnR4Q2hiZzNONzNkWEhXSFNGUzloQmJXeVZFNEMzNWRiSU1aZzZoRFU4VnJ2QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "336506e259ee",
-      "title": "Measles: Death toll at 1,096 as 9 more children die - The Business Standard",
-      "published": "2026-09-27T09:34:19+00:00",
-      "summary": "Measles: Death toll at 1,096 as 9 more children die&nbsp;&nbsp;The Business StandardMeasles outbreak threatens development of Bangladesh’s youngest generation&nbsp;&nbsp;Arab News9 more die with measles symptoms in 24 hours&nbsp;&nbsp;jagonews24.com9 more children die with measles symptoms&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)Three more suspected measles deaths reported in 24 hours&nbsp;&nbsp;The Financial Express",
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVmFxa0ROOHZPSHJTWEV6UkZheFpmbmFPNlk3Y0JTR0h5ZXFQang3TmI2dlY5WEhqSWp5S1BBa1VwdHhsb1pxNWxLZG56eENvSnFvN1luZkZrbzFncUxfUlVzdjRfbGo1dndPSmRNZjNvLW50Z09uazJjeTh4SWUzNmVBazFTRmtOaEd4YUJWRG5hbXdlbDRfWg?oc=5"
         }
       ]
     },
@@ -282,18 +342,6 @@
       ]
     },
     {
-      "id": "f046fd74e8ed",
-      "title": "Nutrition: It’s More Than What We Put on Our Plate - Kashmir Convener",
-      "published": "2026-09-27T05:31:47+00:00",
-      "summary": "Nutrition: It’s More Than What We Put on Our Plate&nbsp;&nbsp;Kashmir ConvenerPoshan Maah 2026: Break the intergenerational cycle of malnutrition&nbsp;&nbsp;Hindustan TimesNourishing Children for a Healthy Future | THE WEEK India - news&nbsp;&nbsp;MagzterWhy Collaboration Across Academia, Industry, and Policy Matters to Combat Micronutrient Deficiencies in India&nbsp;&nbsp;India Today NEHidden Hunger - Why Dietary Diversity Matters | THE WEEK India - news&nbsp;&nbsp;Magzter",
-      "sources": [
-        {
-          "name": "Kashmir Convener",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3k5Y3VZdTR0V2NaSktZc3pnWWJlZHA0c3BDNEVCRHlGYktZWjU4SEFVWHBOYmNIZlpucUZnWEJfclJSTG9lUHlSSWJnVmhWMTBOUTduMVprOUt1TUlyT2JxM3ppSENNMHpHd2VhQl9NUl95SVp5X0hwU3dseUE2LTAybw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a14316384282",
       "title": "How personalised mRNA vaccines are fighting melanoma - theweek.in",
       "published": "2026-09-27T02:35:01+00:00",
@@ -330,10 +378,22 @@
       ]
     },
     {
+      "id": "a2033a2a219a",
+      "title": "From DeBary to space: Florida-born NASA astronaut ready for launch to ISS - Treasure Coast News",
+      "published": "2026-09-26T18:54:00+00:00",
+      "summary": "From DeBary to space: Florida-born NASA astronaut ready for launch to ISS&nbsp;&nbsp;Treasure Coast NewsNASA’s SpaceX Crew-13 Set for Saturday Arrival at NASA Kennedy&nbsp;&nbsp;NASA (.gov)SpaceX's next astronaut launch for NASA now set for Oct. 1 after delay&nbsp;&nbsp;SpaceSupersonic T-38s delivered cosmonaut Sergey Teteryatnikov and other crew members from Houston to Kennedy Space Center&nbsp;&nbsp;www1.ruCrew-13 Arrives at KSC for Oct. 1 ISS Launch&nbsp;&nbsp;KeepTrack",
+      "sources": [
+        {
+          "name": "Treasure Coast News",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSV9TaVo3T1BsZGRJZkJQNUNwVGhiSkV6N1JPQkMwS2trcC1vbGhHSGRwLVNyUTU5V0pQdXk5c09WOGJXS0NPU21OUmZ4cEFUWFZsQmpuWFh3SHprVVFQTnVGZWhNU0xvM29CQ2ppZ3hpVXZXZ1dxTThzeF9USy1rYVgtZXhNZ3ZpSHNQWEhTYi0tYXRtbFdTZExMNm95eDlPbl9xcTBSTmE2dlpkUy1TNGRFWnpaNHdTMXFCZExUc0FtQmh2Vl96R3c1dG5IeXZvbTU3N2x6R0xCZ3RHNXBaNnF2ZjVMX1k0OWpVZXhKRFBESlI0RTJMQXNDbkZuYWtLTHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "014aa0607b1a",
       "title": "3 Fall Fruits That Can Help Improve Digestion - EatingWell",
       "published": "2026-09-26T17:00:00+00:00",
-      "summary": "3 Fall Fruits That Can Help Improve Digestion&nbsp;&nbsp;EatingWell10 Fall Fruits and Vegetables Nutrition Experts Love&nbsp;&nbsp;The New York TimesFrom the Ground Up: Boost your health with these top fall superfoods&nbsp;&nbsp;The Daily News JournalFall flavors and nutrients with the N.C. Cooperative Extension&nbsp;&nbsp;Queen City NewsBeyond apples and pumpkins, the Fall produce nutritionists reach for&nbsp;&nbsp;Mathrubhumi English",
+      "summary": "3 Fall Fruits That Can Help Improve Digestion&nbsp;&nbsp;EatingWell10 Fall Fruits and Vegetables Nutrition Experts Love&nbsp;&nbsp;The New York Times9 Foods to Add to Your Grocery Cart This Fall If You’re Trying to Stay Healthy&nbsp;&nbsp;YahooFrom the Ground Up: Boost your health with these top fall superfoods&nbsp;&nbsp;The Daily News JournalFall flavors and nutrients with the N.C. Cooperative Extension&nbsp;&nbsp;Queen City News",
       "sources": [
         {
           "name": "EatingWell",
@@ -350,18 +410,6 @@
         {
           "name": "Health and Me",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcXgzQl80dEVMekM1dlZEN3pKazdLZjNWQkNaUzFXVnRBMnNmRTloS24yN1BYellycUwtLVVOeGdYczAxU0dwZHc1M1lSUzVuR2ROZ3JTSktZd21SZ2JPa0NoZ2lZSU8zc3VXank1aVhaaHNyc1FUSGsxRzE1U19WbGg5UDNJcklha3ZwZktvOGhiQk9TR19IRXhCaklwUnFjRG9ERzN5VURoclBHX3hhWVRHX2s3WUt5T2ZLRXNMdHRLZS1IdElFNWVYXzBUbnN5SjFFOGdJdFQ2MzBrQUxiZzJpUzRyLWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90434363a18d",
-      "title": "JWST finds early galaxies were already spreading the ingredients for planets and life - The Brighter Side of News",
-      "published": "2026-09-26T14:07:00+00:00",
-      "summary": "JWST finds early galaxies were already spreading the ingredients for planets and life&nbsp;&nbsp;The Brighter Side of NewsJames Webb Space Telescope looks back in time, finds our ancient universe wasn't as pure as we thought&nbsp;&nbsp;SpaceJWST Detects Six Different Metal Types In Galaxies At Redshift 9&nbsp;&nbsp;Quantum ZeitgeistHow the very first galaxies “polluted” the Universe with the seeds of life&nbsp;&nbsp;Universe Space TechJames Webb Space Telescope Discovery May Help Answer Why Astr",
-      "sources": [
-        {
-          "name": "The Brighter Side of News",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWnBTbmRZa1A4ZnFuSmZaQndJMm5fa3RNUVMxRUkxYTJ2Zk1sSUxTSDNzZGNhejFUQlJqVFduU1NQa1F2ckpmWG52cElKZ29YSkEtWFFPQkd1OHlIVUx5cVg2Zk42LXVwVklWOUZ1Z3hPS3ZSTnlaMlprLW5CZlZsbVlIRGROLUhodGZuUDhMQ3pmOWlaZHBCTVRFXzBMY3BsOWNUQ0dEWjFEZm1oVnFzQnlmalhEdWl3cDlNOWdiMGE0QQ?oc=5"
         }
       ]
     },
@@ -405,7 +453,7 @@
       "id": "02a88245f8c0",
       "title": "New Brain Tumour Test Can Deliver Results in Under Two Hours - INDToday",
       "published": "2026-09-26T11:57:25+00:00",
-      "summary": "New Brain Tumour Test Can Deliver Results in Under Two Hours&nbsp;&nbsp;INDTodayUK's groundbreaking pilot scheme to classify brain tumors in two hours&nbsp;&nbsp;CGTNNew NHS Trial Diagnoses Brain Tumours In Hours, Not Weeks&nbsp;&nbsp;NDTVFrom weeks to hours - the rapid new test transforming brain tumour diagnosis&nbsp;&nbsp;BBCNewcastle rolls out 'revolutionary' brain tumour diagnosis test&nbsp;&nbsp;BBC",
+      "summary": "New Brain Tumour Test Can Deliver Results in Under Two Hours&nbsp;&nbsp;INDTodayUK's groundbreaking pilot scheme to classify brain tumors in two hours&nbsp;&nbsp;CGTNNew NHS Trial Diagnoses Brain Tumours In Hours, Not Weeks&nbsp;&nbsp;ndtv.comFrom weeks to hours - the rapid new test transforming brain tumour diagnosis&nbsp;&nbsp;BBCNewcastle rolls out 'revolutionary' brain tumour diagnosis test&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "INDToday",
@@ -417,7 +465,7 @@
       "id": "486465b1c971",
       "title": "Earth's magnetic field might help treat Parkinson's and Alzheimer's - NewsBytes",
       "published": "2026-09-26T11:30:28+00:00",
-      "summary": "Earth's magnetic field might help treat Parkinson's and Alzheimer's&nbsp;&nbsp;NewsBytesDecoding Earth's magnetic field may help scientists treat Parkinson's and Alzheimer's. Here's how&nbsp;&nbsp;SpaceHow Earth’s Magnetic Field Could Play Hidden Role In Aging&nbsp;&nbsp;StudyFindsEarth’s magnetic field may be doing more to cells than we realize&nbsp;&nbsp;AOL.comThe Earth's magnetic field opens a new door for research into treating Parkinson's and Alzheimer's&nbsp;&nbsp;صوت الإمارات",
+      "summary": "Earth's magnetic field might help treat Parkinson's and Alzheimer's&nbsp;&nbsp;NewsBytesDecoding Earth's magnetic field may help scientists treat Parkinson's and Alzheimer's. Here's how&nbsp;&nbsp;SpaceHow Earth’s Magnetic Field Could Play Hidden Role In Aging&nbsp;&nbsp;StudyFindsEarth’s magnetic field may be doing more to cells than we realize&nbsp;&nbsp;AOL.comThe Earth's magnetic field opens a new door for research into treating Parkinson's and Alzheimer's&nbsp;&nbsp;voiceofemirates.com",
       "sources": [
         {
           "name": "NewsBytes",
@@ -429,7 +477,7 @@
       "id": "65415476e5b0",
       "title": "STATES, LOCAL BODIES ADVISED TO OBSERVE WORLD RABIES DAY ON 28TH SEPTEMBER - Face2News",
       "published": "2026-09-26T11:13:41+00:00",
-      "summary": "STATES, LOCAL BODIES ADVISED TO OBSERVE WORLD RABIES DAY ON 28TH SEPTEMBER&nbsp;&nbsp;Face2NewsPet Friendly Services of Indiana promotes rabies prevention on World Rabies Day&nbsp;&nbsp;Seymour TribuneClinic offers limited-time free rabies vaccine with spay or neuter appointment&nbsp;&nbsp;yoursun.com‘STRONGER TOGETHER’: BATTERSEA AND GARC, RABIES ALLIANCE HIGHLIGH&nbsp;&nbsp;The National Law ReviewWorld Rabies Day&nbsp;&nbsp;Government of Nunavut",
+      "summary": "STATES, LOCAL BODIES ADVISED TO OBSERVE WORLD RABIES DAY ON 28TH SEPTEMBER&nbsp;&nbsp;Face2NewsWorld Rabies Day 2026: We Are Stronger Together to Deal With Rabies&nbsp;&nbsp;dailyasianage.comClinic offers limited-time free rabies vaccine with spay or neuter appointment&nbsp;&nbsp;yoursun.com‘STRONGER TOGETHER’: BATTERSEA AND GARC, RABIES ALLIANCE HIGHLIGH&nbsp;&nbsp;The National Law ReviewWorld Rabies Day Commemoration in Bali&nbsp;&nbsp;ANTARA Foto",
       "sources": [
         {
           "name": "Face2News",
@@ -438,13 +486,13 @@
       ]
     },
     {
-      "id": "222e181edba7",
-      "title": "FDA clears 2 new Alzheimer’s blood tests, including one for adults as young as 40 - medicalnewstoday.com",
+      "id": "4df25204cdec",
+      "title": "FDA clears 2 new Alzheimer’s blood tests, including one for adults as young as 40 - MedicalNewsToday",
       "published": "2026-09-26T10:42:12+00:00",
-      "summary": "FDA clears 2 new Alzheimer’s blood tests, including one for adults as young as 40&nbsp;&nbsp;medicalnewstoday.comExamining The Potential Of P-tau217 To Provide Earlier Diagnosis Of Alzheimer's&nbsp;&nbsp;clinicalleader.comGene Test Refines Blood-Based Cognitive Risk&nbsp;&nbsp;European Medical JournalNew blood tests could detect Alzheimer's early | Letter to the Editor&nbsp;&nbsp;St. Cloud TimesStudy Finds Blood Biomarker Combined With Genetic Testing Can Predict Alzheimer’s Disease Symptoms Yea",
+      "summary": "FDA clears 2 new Alzheimer’s blood tests, including one for adults as young as 40&nbsp;&nbsp;MedicalNewsTodayWho Should Get a Blood Test for Alzheimer's Disease?&nbsp;&nbsp;Time MagazineNew research may predict when Alzheimer’s symptoms begin&nbsp;&nbsp;WKYTWe can all lower our risk of developing dementia&nbsp;&nbsp;The StarNew blood tests could detect Alzheimer's early | Letter to the Editor&nbsp;&nbsp;St. Cloud Times",
       "sources": [
         {
-          "name": "medicalnewstoday.com",
+          "name": "MedicalNewsToday",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW1xbXZ1Zl9jN21IeTNpWmZKMEk2NHNxVlhBZjBYcmtvU3h4enJtVW1ZQ05MblQwTFU4S0R2U1VKdHRrelpPN3dNbGpMcXpJZGRNSHZrMHhwRUJnaTc0dVd4Wm9QdXBPYmZUVUtQeGtXRjFtMUxZaUt5S0EyZXRZQ0ZCWFAxQVhac1RZZGRPUUlKaFV1VnFNb1g2MkIzamZPTWh2ei1uNjB5TTZPYXpZOUF6MTBhX0Z4SkxHT25WSDk?oc=5"
         }
       ]
@@ -477,7 +525,7 @@
       "id": "a276cdfc0490",
       "title": "Study reveals that weaker spinal bones may signal faster brain aging - The Times of India",
       "published": "2026-09-26T10:29:00+00:00",
-      "summary": "Study reveals that weaker spinal bones may signal faster brain aging&nbsp;&nbsp;The Times of IndiaLower Spinal Bone Density Linked to Faster Cognitive Decline&nbsp;&nbsp;medscape.comLower Vertebral BMD Assessed Through AI Linked to Faster Cognitive Decline: Study&nbsp;&nbsp;Medical DialoguesRoutine Scan Millions Already Get May Hold Clues to Future Brain Decline&nbsp;&nbsp;NewsweekCan weak bones raise Alzheimer’s risk? Experts reveal the bone-brain connection&nbsp;&nbsp;Hindustan Times",
+      "summary": "Study reveals that weaker spinal bones may signal faster brain aging&nbsp;&nbsp;The Times of IndiaLower Spinal Bone Density Linked to Faster Cognitive Decline&nbsp;&nbsp;MedscapeLower Vertebral BMD Assessed Through AI Linked to Faster Cognitive Decline: Study&nbsp;&nbsp;Medical DialoguesRoutine Scan Millions Already Get May Hold Clues to Future Brain Decline&nbsp;&nbsp;NewsweekCan weak bones raise Alzheimer’s risk? Experts reveal the bone-brain connection&nbsp;&nbsp;Hindustan Times",
       "sources": [
         {
           "name": "The Times of India",
@@ -486,13 +534,13 @@
       ]
     },
     {
-      "id": "261b8bc59a05",
-      "title": "Scientists uncover surprising secret about the origins of bats - euronews.com",
+      "id": "f2015351110d",
+      "title": "Scientists uncover surprising secret about the origins of bats - Euronews.com",
       "published": "2026-09-26T10:19:22+00:00",
-      "summary": "Scientists uncover surprising secret about the origins of bats&nbsp;&nbsp;euronews.comReference genomes and fossils revise bat family phylogeny and biogeography&nbsp;&nbsp;NatureBats first originated in Europe 65 million years ago, scientists say&nbsp;&nbsp;The HinduLandmark Genome Study Unmasks the 65-Million-Year Origins of Bats | Newswise&nbsp;&nbsp;NewswiseWhere Did Bats Originate? Huge Genetic Study May Have Settled the Longstanding Debate and Rewritten the Creatures' Evolutionary Tree&nbsp",
+      "summary": "Scientists uncover surprising secret about the origins of bats&nbsp;&nbsp;Euronews.comReference genomes and fossils revise bat family phylogeny and biogeography&nbsp;&nbsp;NatureBats first originated in Europe 65 million years ago, scientists say&nbsp;&nbsp;The HinduLandmark Genome Study Unmasks the 65-Million-Year Origins of Bats | Newswise&nbsp;&nbsp;NewswiseWhere Did Bats Originate? Huge Genetic Study May Have Settled the Longstanding Debate and Rewritten the Creatures' Evolutionary Tree&nbsp",
       "sources": [
         {
-          "name": "euronews.com",
+          "name": "Euronews.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVURUd0Qtam1HSFB3S0Z6RjJycXZ0UE9uY1R4bjVNakVyWU1rTzRjdzVjSzNEcnVrWGFlSjNTc0ZXdU56QUVZd1l0U1daTHNVQzg5akZQaU9MZ1NZRm9wQVJaMERNUlcyR1NJQWM5YUFjR3dwVFk0UVlMc3JtZXl4X0Z6bmNqSGpGY3N5eHBfQ2dvV3pNSDM0WHF4NEZZZjhLN0lBN1JwT2o?oc=5"
         }
       ]
@@ -510,13 +558,13 @@
       ]
     },
     {
-      "id": "30702fa8b9d1",
-      "title": "Researchers create a flexible, highly conductive Boron material - techexplorist.com",
+      "id": "94b3f14d4f8c",
+      "title": "Researchers create a flexible, highly conductive Boron material - Tech Explorist",
       "published": "2026-09-26T09:42:25+00:00",
-      "summary": "Researchers create a flexible, highly conductive Boron material&nbsp;&nbsp;techexplorist.comNew form of flexible boron is 10 million times more electrically conductive&nbsp;&nbsp;Phys.orgAn open-framework boron allotrope exhibiting high conductivity and plasticity&nbsp;&nbsp;NatureNew Boron Allotrope Bends Like Metal and Conducts Like a Semiconductor&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Researchers create a flexible, highly conductive Boron material&nbsp;&nbsp;Tech ExploristNew form of flexible boron is 10 million times more electrically conductive&nbsp;&nbsp;Phys.orgAn open-framework boron allotrope exhibiting high conductivity and plasticity&nbsp;&nbsp;NatureNew Boron Allotrope Bends Like Metal and Conducts Like a Semiconductor&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
-          "name": "techexplorist.com",
+          "name": "Tech Explorist",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWVg1N1IyZ2FSWWFvaHlSQ21EdXptcVhWVm1nTlFQWEZiR1VMb21JT29xMUJBWkdqc3RpamNvTGdVdFFKOEVPQXA4Nk10dlRIZngyMkdpWVNkNEZnelN3bUlldDJnMHlVM3haNmNmWndpRkpqR2w0Y01oMmZCV0xvc0NCX0d5UQ?oc=5"
         }
       ]
@@ -609,7 +657,7 @@
       "id": "f630cb6163af",
       "title": "The evolving science around longevity, and its unknowns | Hindustan Times - Hindustan Times",
       "published": "2026-09-26T03:46:04+00:00",
-      "summary": "The evolving science around longevity, and its unknowns | Hindustan Times&nbsp;&nbsp;Hindustan TimesLongevity: how to live to be 100. Here’s what science really says&nbsp;&nbsp;Il Sole 24 OREPioneering the Future of Aging&nbsp;&nbsp;thestreet.comScientists Are Studying Why Some People Stay Healthy Longer. Here’s What They’ve Learned&nbsp;&nbsp;Yahoo Health",
+      "summary": "The evolving science around longevity, and its unknowns | Hindustan Times&nbsp;&nbsp;Hindustan TimesThe longevity boom is getting ahead of the science&nbsp;&nbsp;Al JazeeraLongevity: how to live to be 100. Here’s what science really says&nbsp;&nbsp;Il Sole 24 OREPioneering the Future of Aging&nbsp;&nbsp;thestreet.comScientists Are Studying Why Some People Stay Healthy Longer. Here’s What They’ve Learned&nbsp;&nbsp;Yahoo Health",
       "sources": [
         {
           "name": "Hindustan Times",
@@ -626,6 +674,18 @@
         {
           "name": "BW Healthcare World",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1JseUhiWlpqUzV6NmUxbEhoTTVxTk53T2VOX3BGUWxoZzU5RE5oNkg4Nnl1N3FobVRoS0tCckFQMHp3MkpWNGh2T0tUYWxnZU9SNnN1Y2I5VlA4Q2dCcG9ncmpPcnFqYVdDS2tsM19xMFZncFhlbjQ0dFhOTUVUbWFENzNkMDhZOVVJUGZPVzcyTnBwVnJXLUN0ZEI2UVRGQ1UyMzZvcHktdG9LdGhZNw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8fd722d577cd",
+      "title": "Pupillary responses differ when judging glossiness and attractiveness - News-Medical",
+      "published": "2026-09-26T02:24:00+00:00",
+      "summary": "Pupillary responses differ when judging glossiness and attractiveness&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObE9pRTl5Zkx2RVFDRlQ4eFhyblVyWkt2a3QtQzlDOGg3Wng0WTNFbnlzRDBPUGlvTkJwNGJrc3lmYzVnRURzMEQxdG1BSF9GZUt0VUlKNldIYzU1cGp0TW1LdGpreGZYNk5VeUN2UVBjM0NqNkRQcHFPMjh5dzd6RXEtQVlkQUZTVTFWRGptMzlwd09KbzF3eDVMeFNPY2FzTVdoT29FcDZOZHExWHNhUFpvNUVXcXJa?oc=5"
         }
       ]
     },
@@ -666,18 +726,6 @@
       ]
     },
     {
-      "id": "74eaf68d3a38",
-      "title": "Tapping the power of cryo-ET to visualize how molecular machines interact inside cells - News-Medical",
-      "published": "2026-09-25T20:18:00+00:00",
-      "summary": "Tapping the power of cryo-ET to visualize how molecular machines interact inside cells&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOTBkQW5HNnBfOXhuckFEMnMzM0dobEh6Zl91bEFzUXFpYUFITDh3NlIyRVZqc1BkRkF0QkctWnBWbkozSUo0WkVsRkdFMzllOGpOeW9lRFpsc0NXVXh0VUFxRWluVnNBNTZUcUl3cnJRRkNzVWc4X09NZ0pabEFHWkdGalJYdTZ3Q2RueW9sSG9xUEJ3WHJSdElZWHVFZHFzU3lHNmFGTDBZb3AtUVlzZHpuanZVOUxxZEZyV0ViQVJuSGJpMDFhMUVBZ0NJdmc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ad68c0e1d80c",
       "title": "Enzyme USP15 present a promising new target for ovarian cancer treatment - Medical Xpress",
       "published": "2026-09-25T15:20:14+00:00",
@@ -710,30 +758,6 @@
         {
           "name": "expresshealthcare.in",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbGMwOExESjhSOEk5b1h2WXhFUGgxQ3JzSW9kY0tSOVM0cnBtZ2tlWUpnak5mUVVQUkZLdElPTTJROG80am5qTmIzb3pVSFI1U0VEM0xiZ3dNZmV0M2FfTDl2SGtPMTlJcjlWZk5iaXFiU0FTQzhFckxBX09NR1A1ZGNnQXRiRUFzQkIxNTJBcVZjVXZWRjhXag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "747b72468ff0",
-      "title": "DNA in blood signals cancer risk years ahead - healthcare-in-europe.com",
-      "published": "2026-09-25T09:39:11+00:00",
-      "summary": "DNA in blood signals cancer risk years ahead&nbsp;&nbsp;healthcare-in-europe.comBlood Test May Predict Cancer Risk Years Before Diagnosis&nbsp;&nbsp;European Medical JournalBlood DNA Changes Flagged Prostate and Breast Cancer Risk Up to Eight Years Before Diagnosis in 491 People&nbsp;&nbsp;Medical DailyDaniel De Carvalho: Can cfDNA Methylation Help Identify Cancer Risk Years Before Diagnosis?&nbsp;&nbsp;OncodailyBlood tests could identify early signs of cancer years before diagnosis&nbsp;&nbsp;n",
-      "sources": [
-        {
-          "name": "healthcare-in-europe.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f5197c61f266",
-      "title": "Modified HIV drug could reverse vision loss, paralysis from MS, study suggests - LiveNOW from FOX",
-      "published": "2026-09-25T00:52:00+00:00",
-      "summary": "Modified HIV drug could reverse vision loss, paralysis from MS, study suggests&nbsp;&nbsp;LiveNOW from FOXSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "LiveNOW from FOX",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUNVY0k2a21SaUYxdWVHZS01MWNuSHFwQzY3UENDcUJFWGtQVVdqU2ZWWEZ1QVJrTjdvVF9yT3FtVjJBamt4SWp5ZnpTN0pRLUwtWllIRUpBSk9jcXh0SVJxUkoxX1VqcXpRdVVZbGtvTzluMjNBXzVOQkN1b05IclRVLXhpVm9lUnFyYmFtQXEwSDJmWG1JelVRUjNaQW56dTVhb0VJdDFBMmV4?oc=5"
         }
       ]
     },
@@ -774,14 +798,26 @@
       ]
     },
     {
-      "id": "9c3841c5f220",
-      "title": "Measles outbreaks, immunity gaps among children and adolescents concerning: WHO - ETHealthworld.com",
+      "id": "b213bfdd7326",
+      "title": "Measles outbreaks, immunity gaps among children and adolescents concerning: WHO - health.economictimes.indiatimes.com",
       "published": "2026-09-24T10:49:41+00:00",
-      "summary": "Measles outbreaks, immunity gaps among children and adolescents concerning: WHO&nbsp;&nbsp;ETHealthworld.comSee more headlines and perspectives on Google News",
+      "summary": "Measles outbreaks, immunity gaps among children and adolescents concerning: WHO&nbsp;&nbsp;health.economictimes.indiatimes.comSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "ETHealthworld.com",
+          "name": "health.economictimes.indiatimes.com",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQy11Y2RLTTU4U2xfMmpqWmd4QkdDR3I4cUFvMmVaaFlMbUh4YzVCTk9EVkc0aUZTTk0zbEt1d3c4dGN0ajVoTFhvZ1BXYk9Jd0RHQ3kyN1JqSEJxVkdVbEhqQVRrb2FRMVpKVHNEWktjMEhJNzhpTEpJeTVoWlc1YzBhSldwX0VpSzJKNXJ3Ti1iNnJUUzJoazIyOHAteEh1VWlPNDQ1aXRXZkIyN2JTTVBDaUZPdkhyLTVwaEZjWTNxV1QzM3o0TVZabWFmcVhkTVpoQUJlOW1ZSUNzMFHSAeMBQVVfeXFMTWJvRGN6cFJhWV9TTXd6MkNlX2haYlBkX2ZjcUFXbW1LX243UnNLNi1DN1BCbHdTRjk2QUlLS0ZKdERrMWxfZmxrekc2VGllSHVRNkFiWERBdEpqRVhUbVhYMFc1UkRxeXJlenJCT040a29iaFg3NkVid2JianR0ZlZBOXRwUGpnaGxyWjZ3MXZveGFKR2Y5aDNGM094T2UxX3NqMzluck9rYW1VdlBsQzJhVXJoaXA5bmsxYzkwc2IyZlp5cmo2dXE0UU44czZ3eXdVa2RLSEdidHFxaEVSR2QwdUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "66645b518b30",
+      "title": "Rare pregnancy infections can triple the risk of autism: Study - Awaz The Voice",
+      "published": "2026-09-24T09:45:23+00:00",
+      "summary": "Rare pregnancy infections can triple the risk of autism: Study&nbsp;&nbsp;Awaz The VoiceSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Awaz The Voice",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3JSaV9IVGZDLXJRTDZ0MXVWWXVUT0ZkSGlid0o1WGJvdmpkaU0zenRPUVNVZmc0YzROai16dnY0V1lsOE5LRHNuN2lyWjQ4MGRqdDlBcmR1Z1VBTFFfdXBGb1I5S0JjYWc0dTBiY01EcHh3UDNJOUdIUWZ3ejFGd3QxaWhWWUVMVmJTdTdyTEZOR25mRVU5Y2UzOTJXeWtYYU0yUHF4V3EtdWZmcHdYcjhR?oc=5"
         }
       ]
     },
@@ -789,7 +825,7 @@
       "id": "eeb887d37203",
       "title": "Hubble Space Telescope completes 2 lakh orbits - Manorama Yearbook",
       "published": "2026-09-24T08:23:13+00:00",
-      "summary": "Hubble Space Telescope completes 2 lakh orbits&nbsp;&nbsp;Manorama YearbookNASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits&nbsp;&nbsp;NASA Science (.gov)NASA's Hubble Space Telescope Just Reached A Major Milestone: 200,000 Orbits&nbsp;&nbsp;IFLScienceHubble Telescope finishes 200,000 Earth orbits in style, studying a star explosion&nbsp;&nbsp;SpaceHubble has orbited Earth 200,000 times, and it’s still chasing a cosmic mystery&nbsp;&nbsp;techexplorist.com",
+      "summary": "Hubble Space Telescope completes 2 lakh orbits&nbsp;&nbsp;Manorama YearbookNASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits&nbsp;&nbsp;NASA Science (.gov)NASA's Hubble Space Telescope Just Reached A Major Milestone: 200,000 Orbits&nbsp;&nbsp;IFLScienceHubble Telescope finishes 200,000 Earth orbits in style, studying a star explosion&nbsp;&nbsp;SpaceHubble has orbited Earth 200,000 times, and it’s still chasing a cosmic mystery&nbsp;&nbsp;Tech Explorist",
       "sources": [
         {
           "name": "Manorama Yearbook",
@@ -810,14 +846,14 @@
       ]
     },
     {
-      "id": "683160966a95",
-      "title": "Rare pregnancy infections may triple the risk of autism - sciencedaily.com",
-      "published": "2026-09-23T13:13:26+00:00",
-      "summary": "Rare pregnancy infections may triple the risk of autism&nbsp;&nbsp;sciencedaily.comSee more headlines and perspectives on Google News",
+      "id": "c4c05a716b76",
+      "title": "Cutting ultra-processed foods may improve symptoms of depression - News-Medical",
+      "published": "2026-09-23T19:05:00+00:00",
+      "summary": "Cutting ultra-processed foods may improve symptoms of depression&nbsp;&nbsp;News-MedicalLifestyle changes may be as effective as therapy at easing depression&nbsp;&nbsp;New ScientistImproving mental health through diet and nutrition&nbsp;&nbsp;InSight+Cutting ultra-processed foods could have an unexpected effect on depression&nbsp;&nbsp;Earth.comCutting UPFs linked to lower depression&nbsp;&nbsp;BakeryAndSnacks.com",
       "sources": [
         {
-          "name": "sciencedaily.com",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WNXFKa09Md0c5d00ySkZCNktFTHRGWkZvNHZRTnhUYTVKbGR6YjhxdFRIVTFLZzhuSFdCSlZhRGVsTGlQSXE2Zk4xZVhVOXRRdTJtVWpHZGlFaDJhRWdsUXZ3X1AzNUpkN25OczhSOA?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFJpSndkUmZ2b09EaDVYaENveXhXd1U2ak9xWERLc1liMWVoaXdFTmFKZ1NyQU40NW9HYnlBUWZnQlU2azY3dm94Qjg5S1dFV085aEtkMTk5NFk0ZEJoZUVTRUc2cGNSajJsMXpVOHIxdTZzX1VwdFh5bFQ3TXhwel9uQmpYWHkzRkhuWTRxQnRYZ2REMFhhWVI4UWpsWFZFVlVYZTJNRVFsdllmaFZzZ3Jn?oc=5"
         }
       ]
     },
@@ -834,10 +870,22 @@
       ]
     },
     {
+      "id": "12d2acdd88c6",
+      "title": "The Brain as Two Organs; Epstein-Barr and MS; Indigenous Bolivians and Dementia - MedPage Today",
+      "published": "2026-09-22T19:19:02+00:00",
+      "summary": "The Brain as Two Organs; Epstein-Barr and MS; Indigenous Bolivians and Dementia&nbsp;&nbsp;MedPage TodayStanford scientists discover the human brain may actually be two separate organs&nbsp;&nbsp;ScienceDailyContrary to some reports, you don’t have two brains&nbsp;&nbsp;Ars TechnicaThe Brain’s Two-Part Blueprint Found in Mice Also Shows Up in Seafloor Acorn Worms&nbsp;&nbsp;Nature World NewsStudy reveals front and back of brain develop as two separate organs&nbsp;&nbsp;SMA News Today",
+      "sources": [
+        {
+          "name": "MedPage Today",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcktYZ3AyLWxFQ3pWYzR5dFExcDI4c0IzLWlOOUZMRUJwcE1BcnNZYVlEUW5HeHJvcmpSOTJrT3gxMnlnSW9LaG8wWm9CYXFkR19fd3BpdmxLMEw3cWtQbmlCS2UtWm9Na3dWRW8zVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "adec0e6d3f41",
       "title": "Q&A: Sameena Rahman, MD, on digital symptom tracking in PMOS - Contemporary OB/GYN",
       "published": "2026-09-22T19:13:19+00:00",
-      "summary": "Q&amp;A: Sameena Rahman, MD, on digital symptom tracking in PMOS&nbsp;&nbsp;Contemporary OB/GYNPMOS Signs Beyond Irregular Periods: Nutritionist Shares 4 Lesser-Known Symptoms&nbsp;&nbsp;NDTVMore Than a New Name - How PMOS Reframes Clinical Care... PCOS Awareness Month Special - Dr Neeta R....&nbsp;&nbsp;Medical DialoguesPMOS And Fertility Challenges: Doctors Highlight The Importance Of Early Diagnosis And Timely Care.&nbsp;&nbsp;TRIPURA STAR NEWSAre We Treating PMOS All Wrong?&nbsp;&nbsp;Nation",
+      "summary": "Q&amp;A: Sameena Rahman, MD, on digital symptom tracking in PMOS&nbsp;&nbsp;Contemporary OB/GYNPMOS Signs Beyond Irregular Periods: Nutritionist Shares 4 Lesser-Known Symptoms&nbsp;&nbsp;ndtv.comMore Than a New Name - How PMOS Reframes Clinical Care... PCOS Awareness Month Special - Dr Neeta R....&nbsp;&nbsp;Medical DialoguesPMOS And Fertility Challenges: Doctors Highlight The Importance Of Early Diagnosis And Timely Care.&nbsp;&nbsp;TRIPURA STAR NEWSAre We Treating PMOS All Wrong?&nbsp;&nbsp;Na",
       "sources": [
         {
           "name": "Contemporary OB/GYN",
@@ -870,22 +918,10 @@
       ]
     },
     {
-      "id": "92308ce6047f",
-      "title": "Core muscle activity rapidly regulates blood flow in the brain - News-Medical",
-      "published": "2026-09-22T02:34:00+00:00",
-      "summary": "Core muscle activity rapidly regulates blood flow in the brain&nbsp;&nbsp;News-MedicalYour core muscles may help control blood flow to the brain&nbsp;&nbsp;techexplorist.comCore Contractions Drive Brain Blood Flow&nbsp;&nbsp;Neuroscience News",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2MyZTVmbVVMWG45NTVFMFg0c0lEQW8xMkJTaGRYRms5WktWdFpoWmgzU1RHVzRydS1DdnBGUFo5c3FkNmZqdTQwRUNoc09KODNMOE9EVmNvLVY4cG9RWFZqLW53amZ4aEViUnlDVFpwTHViNlFUazRWU2ttSHRIYThoOE5ycG4wUWJPSUN5QkhhNGtfVDh4NVV2QkVrbDNqUm9aeTRPcEpySHRFZ1pV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c52f3b888e09",
       "title": "240-million-year-old ‘huge pig with a turtle’s beak’ discovered: All you need to know about Dinodontosaur - The Times of India",
       "published": "2026-09-21T23:57:00+00:00",
-      "summary": "240-million-year-old ‘huge pig with a turtle’s beak’ discovered: All you need to know about Dinodontosaur&nbsp;&nbsp;The Times of IndiaA Strange Tusked Mammal Relative May Redraw the Timeline of the First Dinosaurs&nbsp;&nbsp;ZME ScienceDinodontosaurus isiyavamanda fossils in Tanzania alter the dinosaur timeline&nbsp;&nbsp;noticiasambientales.comThis 240-Million-Year-Old Species Sat in a Drawer for 60 Years&nbsp;&nbsp;A-Z Animals240-Million-Year-Old Fossil Discovery Challenges the Story of the F",
+      "summary": "240-million-year-old ‘huge pig with a turtle’s beak’ discovered: All you need to know about Dinodontosaur&nbsp;&nbsp;The Times of IndiaA Strange Tusked Mammal Relative May Redraw the Timeline of the First Dinosaurs&nbsp;&nbsp;ZME ScienceThis 240-Million-Year-Old Species Sat in a Drawer for 60 Years&nbsp;&nbsp;A-Z Animals240-Million-Year-Old Fossil Discovery Challenges the Story of the First Dinosaurs&nbsp;&nbsp;SciTechDailyNew Fossil Discovery Challenges Timeline of Tanzania’s Oldest Dinosaur Fo",
       "sources": [
         {
           "name": "The Times of India",
@@ -897,7 +933,7 @@
       "id": "23378e7df77b",
       "title": "New Tamil Nadu dengue figures come up in public domain - The Hindu",
       "published": "2026-09-21T18:14:08+00:00",
-      "summary": "New Tamil Nadu dengue figures come up in public domain&nbsp;&nbsp;The HinduWhy Is Fever Increasing In Chennai? Understanding Seasonal Infections&nbsp;&nbsp;NDTVDengue under control in Tamil Nadu, says Health Secretary in Madurai&nbsp;&nbsp;The Hindu17,939 dengue cases, nine deaths in TN so far in 2026&nbsp;&nbsp;The New Indian ExpressThoothukudi hospital opens special dengue wards amid rising cases&nbsp;&nbsp;The News Mill",
+      "summary": "New Tamil Nadu dengue figures come up in public domain&nbsp;&nbsp;The HinduWhy Is Fever Increasing In Chennai? Understanding Seasonal Infections&nbsp;&nbsp;ndtv.comDengue under control in Tamil Nadu, says Health Secretary in Madurai&nbsp;&nbsp;The Hindu17,939 dengue cases, nine deaths in TN so far in 2026&nbsp;&nbsp;The New Indian ExpressThoothukudi hospital opens special dengue wards amid rising cases&nbsp;&nbsp;The News Mill",
       "sources": [
         {
           "name": "The Hindu",
@@ -909,7 +945,7 @@
       "id": "c3c209f95089",
       "title": "Baby girls’ greater interest in faces offers clue to nature v nurture debate - The Guardian",
       "published": "2026-09-21T17:31:00+00:00",
-      "summary": "Baby girls’ greater interest in faces offers clue to nature v nurture debate&nbsp;&nbsp;The GuardianWhat's More Interesting—Swinging Balls or a Stranger's Face?&nbsp;&nbsp;psychologytoday.comScientists Studied 130 Newborns—There Was Difference Just Hours After Birth&nbsp;&nbsp;NewsweekNewborn Girls Spend More Time Looking At Human Face Compared To Boys: Study&nbsp;&nbsp;NDTVThe surprising way girls and boys behave differently just hours after birth&nbsp;&nbsp;New York Post",
+      "summary": "Baby girls’ greater interest in faces offers clue to nature v nurture debate&nbsp;&nbsp;The GuardianWhat's More Interesting—Swinging Balls or a Stranger's Face?&nbsp;&nbsp;Psychology TodayScientists Studied 130 Newborns—There Was Difference Just Hours After Birth&nbsp;&nbsp;NewsweekNewborn Girls Spend More Time Looking At Human Face Compared To Boys: Study&nbsp;&nbsp;ndtv.comThe surprising way girls and boys behave differently just hours after birth&nbsp;&nbsp;New York Post",
       "sources": [
         {
           "name": "The Guardian",
@@ -918,50 +954,50 @@
       ]
     },
     {
-      "id": "4f47141a7180",
-      "title": "Stopping Ozempic may raise heart attack and stroke risk - sciencedaily.com",
-      "published": "2026-09-21T13:39:56+00:00",
-      "summary": "Stopping Ozempic may raise heart attack and stroke risk&nbsp;&nbsp;sciencedaily.com‘Flu like’ symptom people get when they stop taking Mounjaro, Wegovy&nbsp;&nbsp;The MirrorWhen patients quit GLP-1s, cardiovascular risk may quickly rebound&nbsp;&nbsp;MDLinxWhat are the risks associated with stopping a GLP-1?&nbsp;&nbsp;NewsNationHealth behaviors and perceptions play a big role in patient compliance.&nbsp;&nbsp;psychologytoday.com",
+      "id": "e33dac5457d9",
+      "title": "How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution - Quanta Magazine",
+      "published": "2026-09-21T14:15:34+00:00",
+      "summary": "How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution&nbsp;&nbsp;Quanta Magazine",
       "sources": [
         {
-          "name": "sciencedaily.com",
+          "name": "Quanta Magazine",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmw5MEVTMVpCWmgycTJQcm8tNVZWVUtMc1JXRU01bEhrdXFBUWRUSlMtb1h6RWNLRTNDUzRGb0Rka2tHbDF5VDY2YWpZSURVc01QcEVZeC1YaTJUZ1p4N1hsZ0ZDeHdjalFRWHV1V3gxU21VNGpIQXM0RGhYWENpQk0xdEh5d0pFSGhST0FieVl4Yk5DcmdjTDZwQTVYSXlKZWZSbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d83d21f45d2d",
+      "title": "Stopping Ozempic may raise heart attack and stroke risk - ScienceDaily",
+      "published": "2026-09-21T13:39:56+00:00",
+      "summary": "Stopping Ozempic may raise heart attack and stroke risk&nbsp;&nbsp;ScienceDaily‘Flu like’ symptom people get when they stop taking Mounjaro, Wegovy&nbsp;&nbsp;The MirrorWhen patients quit GLP-1s, cardiovascular risk may quickly rebound&nbsp;&nbsp;MDLinxWhat are the risks associated with stopping a GLP-1?&nbsp;&nbsp;NewsNationLarge-scale clinical studies have shown that the risk of heart attack and stroke increases significa..&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15M0ViSmI5TXhIQmo2LXgtSHRadGxST0gyWkJPQm5UNmU3cVJiM0ZhNlhRdGpVODNldXZJb2lJaHM5Nkl1Y3pBRDNpdUZSUEhYMEU3TkxHd0psSmJOaUJiM01OazE2V2JtTWFCT1F2Yw?oc=5"
         }
       ]
     },
     {
-      "id": "b17bd0982dd6",
-      "title": "Human Brain is Two Organs Fused Together, Study Suggests - sci.news",
-      "published": "2026-09-21T12:36:25+00:00",
-      "summary": "Human Brain is Two Organs Fused Together, Study Suggests&nbsp;&nbsp;sci.newsStanford scientists discover the human brain may actually be two separate organs&nbsp;&nbsp;sciencedaily.comThe Brain’s Two-Part Blueprint Found in Mice Also Shows Up in Seafloor Acorn Worms&nbsp;&nbsp;natureworldnews.comStudy reveals front and back of brain develop as two separate organs&nbsp;&nbsp;SMA News TodayStanford research suggests human brain might be two organs fused together&nbsp;&nbsp;Caliber.Az",
+      "id": "9f1e20c62661",
+      "title": "Ebola vaccine trial begins in DR Congo - UN News",
+      "published": "2026-09-21T11:31:37+00:00",
+      "summary": "Ebola vaccine trial begins in DR Congo&nbsp;&nbsp;UN NewsThe Race to Develop an Ebola Bundibugyo Vaccine&nbsp;&nbsp;Think Global HealthEvaluating Ebola Vaccine Against Current Bundibugyo Species&nbsp;&nbsp;Contagion Live",
       "sources": [
         {
-          "name": "sci.news",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWnBkcjVzaUVybHZyV2ZSaFFZS3BZSmlTMHZLZml6UlNfWXJER0JTZXdpOGZ0ZzdlSXFaWFdzd2ljWlRlbDJKQV8tQzhVWFhzeC0tVENESldaV1BWdm1UWHpRd2tEZk1MMER5X3kyOUV1S3R0TTVha1dmY0FhY0F2MkcwSnJ1MXRl?oc=5"
+          "name": "UN News",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XUXM0VjdYM2g5aEhtRnpNcTloYlhQX180Tk1WTExxWFFKT2ZZLVVFVlhnYm9GalV5ZHl1ano0dkFHOWF3Yk5nNER5aFRHaFllZEs4RlFFQQ?oc=5"
         }
       ]
     },
     {
-      "id": "3a8b0edb9d2c",
-      "title": "HIV Injections Keep Virus Suppressed Better Than Daily Pills: Study - NDTV",
+      "id": "ce81e8ba1165",
+      "title": "HIV Injections Keep Virus Suppressed Better Than Daily Pills: Study - ndtv.com",
       "published": "2026-09-21T06:02:40+00:00",
-      "summary": "HIV Injections Keep Virus Suppressed Better Than Daily Pills: Study&nbsp;&nbsp;NDTVSee more headlines and perspectives on Google News",
+      "summary": "HIV Injections Keep Virus Suppressed Better Than Daily Pills: Study&nbsp;&nbsp;ndtv.comSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "NDTV",
+          "name": "ndtv.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2xQOFJRU2RlLUJSUVB6Y2QwdjFyOExCNmhZejJ5R2liRDVkQ1kyVmFPWmVoalM1NmVMX01VcHVVRHJiOEw5NEpob0tCZWRDSUVsTTNrOTRQdklaMUxwZTNNbVdZaXFwSThuZE1jRVM1S01yTEx3ZVhPb3pqZHo5aGpPRTU3S1p3Qk5rV01VTmd0S2JpNkhHT2pwSTVWa0tfUkJrM3F3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f9bad63c838",
-      "title": "Ebola vaccine being tested in DR Congo outbreak zone - The Hindu",
-      "published": "2026-09-20T16:42:30+00:00",
-      "summary": "Ebola vaccine being tested in DR Congo outbreak zone&nbsp;&nbsp;The HinduEbola vaccine trial begins in DR Congo&nbsp;&nbsp;UN NewsThe Race to Develop an Ebola Bundibugyo Vaccine&nbsp;&nbsp;Think Global HealthEvaluating Ebola Vaccine Against Current Bundibugyo Species&nbsp;&nbsp;Contagion Live",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeVVOZU9IUWdNNzgyMUl1Z3VteVd3QmJLa1RCa3BwZFdCWVY4a2JvSVFLVTdPcjBNUGh3Rmk3NzRHdFJHdjF5YWhQUS1TLW1JYWFUM0Jyd19MX2hYaHlxeUVoQ3BNYTlrV1hjeElrYUVOdnNNQ1ZVUmNob0xKemRBdFBiVjBuMk5WNmk5akhWTTBLTjZyRWNmVkhHd0hsUkZDbjhsaGtiQ1FYWU03ckhySndNVVhubGvSAb4BQVVfeXFMTi04Zk9oZ09NQVRQZ1hJdkc0SER5UUUyNS1jeXhKRXozVjR1elJwT2NCVHM5NktlLXFDVU1OUEUxYUpZa094d1VrWTBRZUZ0cUlhZDhLRWxxV2h3aWNWZWpkd09OMTZ5YllSbXhyZF9JSUlKa1VzUTJaRmhVUE9FN2pqZGlEVTlCbEJ1TVRkR1ZrYXRObjlETnZQWEZZUGtuOUxGQXhLeTdwVVJLelRvX0RlQjE1UE1HdU9WcDlRUQ?oc=5"
         }
       ]
     }
