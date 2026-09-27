@@ -3,7 +3,7 @@ layout: default
 title: "dementia (bhoolne ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (bhoolne ki bimari). 5 articles, 8 related drugs."
+description: "Health news about dementia (bhoolne ki bimari). 2 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bhoolne-ki-bimari/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (bhoolne ki bimari)?">
-<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,37 +36,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (2)
 
 ### [World Alzheimer’s Day 2026 The earlier you know, the more you can do : A dementia diagnosis matters - The Sangai Express](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZUVzT3czdVdSQm5nbzEwNE5YbDlwLUl4MUllNDJCY2o2XzI4QmNlV3Z2Q2NzdTdIZWY4bEw5T3RBZ05pQ0NGTjczNDVQejFhWjQxQ1l1RmRMMXJRZHdTMkNoZmhpaEM5YXFiV3hxTXI4ZDdCUGZUbk1lWlRlSG9pck10MkxOMWhJdGRXZnFialQwZU03c25wR0RRUDJsR1Vad1d5ZmJOeENkall6MDBnbl9pa2tNOVo5N0dPbW03aHhtZG5Vak03Zk1mRU95bUtzTTNJeWJBSnVUSExiaURyZHhEQW9hZGZXSFNPX0dEWlNkU1EwSjdn?oc=5)
 
 2026-09-26
 
 Source: [The Sangai Express](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZUVzT3czdVdSQm5nbzEwNE5YbDlwLUl4MUllNDJCY2o2XzI4QmNlV3Z2Q2NzdTdIZWY4bEw5T3RBZ05pQ0NGTjczNDVQejFhWjQxQ1l1RmRMMXJRZHdTMkNoZmhpaEM5YXFiV3hxTXI4ZDdCUGZUbk1lWlRlSG9pck10MkxOMWhJdGRXZnFialQwZU03c25wR0RRUDJsR1Vad1d5ZmJOeENkall6MDBnbl9pa2tNOVo5N0dPbW03aHhtZG5Vak03Zk1mRU95bUtzTTNJeWJBSnVUSExiaURyZHhEQW9hZGZXSFNPX0dEWlNkU1EwSjdn?oc=5)
-
----
-
-### [4 Everyday Habits That May Help Lower Dementia Risk - Times Now](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2I?oc=5)
-
-2026-09-26
-
-Source: [Times Now](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2I?oc=5)
-
----
-
-### [How AI and robots provide companionship for people with Alzheimer’s](https://news.google.com/rss/articles/CBMipAFBVV95cUxQaXFmQ0Y5T2MxQmFsMlFUQmVLWEdraWFmb3o4U2g3NV9RaXd1b0hkWDNZMk9na3JnUTJDVnFQSDNpT0hFZGpyNk9hVkJwVkt3SGtjTmtPdy1KVUx2dGc1RjgwZjVta3FUZmFabldLd0F3anRHQ3F1TF9WekFVOExmTjF5STdjSlgyVHk4VmcwNGdILTFqNEdQNkhyTy1ZYzZnWFFhdQ?oc=5)
-
-2026-09-25
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQaXFmQ0Y5T2MxQmFsMlFUQmVLWEdraWFmb3o4U2g3NV9RaXd1b0hkWDNZMk9na3JnUTJDVnFQSDNpT0hFZGpyNk9hVkJwVkt3SGtjTmtPdy1KVUx2dGc1RjgwZjVta3FUZmFabldLd0F3anRHQ3F1TF9WekFVOExmTjF5STdjSlgyVHk4VmcwNGdILTFqNEdQNkhyTy1ZYzZnWFFhdQ?oc=5)
-
----
-
-### [Can hormone replacement therapy (HRT) prevent dementia? - The Sen Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxORDZrRVRGTm4weHNTYkdmMkRMYnZBb2NiRkRPbWZZaTBzdmFXVHByM1JqdmhLYkNiMl9qMlNva1JiTXpMci1EUjFEQ2VZc1FDMFlYYk91aGVPTUY4OVJPMVBFZWtJZlVacXdOeTNNdzY0RW9GOC02dmJOZDhvaENMeWtRRQ?oc=5)
-
-2026-09-25
-
-Source: [The Sen Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxORDZrRVRGTm4weHNTYkdmMkRMYnZBb2NiRkRPbWZZaTBzdmFXVHByM1JqdmhLYkNiMl9qMlNva1JiTXpMci1EUjFEQ2VZc1FDMFlYYk91aGVPTUY4OVJPMVBFZWtJZlVacXdOeTNNdzY0RW9GOC02dmJOZDhvaENMeWtRRQ?oc=5)
 
 ---
 

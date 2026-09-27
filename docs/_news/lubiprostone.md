@@ -14,7 +14,7 @@ permalink: /news/lubiprostone/
 ---
 
 <p class="key-answer" data-question="What news is there about Lubiprostone?">
-<strong>Lubiprostone</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Lubiprostone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Lubiprostone with the latest
 <p><a href="{{ '/drugs/lubiprostone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Yale researchers develop AI model to detect heart condition - Yale Daily News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVVsZF82aWRXRkpKYlNlZmRkTjlRUjFvR2hGMjFBUnlpOWpDQ3NBU2NtdTRmNTNvTUtoM1ktNkpUbUd2UDE2NG1WbVZsVHNLMUJaUDNiaEFlWmlIeEpyRXZ0QXhLQVhiVjlLaDR4RnkxdkFUVm10cl9DeERGbjRWSjF6aDE5NTZ2VkZvTkhmLTh3V0JVZ2tkT0xITGszMGl6RnhnTURPZmxRSG1lUGt5M0ZRbC00UQ?oc=5)
-
-2026-09-25 <span class="news-indication-tag">heart disease</span>
-
-Source: [Yale Daily News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVVsZF82aWRXRkpKYlNlZmRkTjlRUjFvR2hGMjFBUnlpOWpDQ3NBU2NtdTRmNTNvTUtoM1ktNkpUbUd2UDE2NG1WbVZsVHNLMUJaUDNiaEFlWmlIeEpyRXZ0QXhLQVhiVjlLaDR4RnkxdkFUVm10cl9DeERGbjRWSjF6aDE5NTZ2VkZvTkhmLTh3V0JVZ2tkT0xITGszMGl6RnhnTURPZmxRSG1lUGt5M0ZRbC00UQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

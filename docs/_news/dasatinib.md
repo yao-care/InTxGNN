@@ -14,7 +14,7 @@ permalink: /news/dasatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>19 news articles</strong>, with 10 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>17 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>Ewing sarcoma (99.9%)</li>
-<li class="indication-matched">myeloid leukemia (99.7%)<span class="indication-tag">📰 leukemia</span></li>
+<li>myeloid leukemia (99.7%)</li>
 <li>liposarcoma (99.7%)</li>
 <li>fibromatosis, gingival (99.7%)</li>
 <li>dermatofibrosarcoma protuberans (99.7%)</li>
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (17)
+
+### [How personalised mRNA vaccines are fighting melanoma](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOC1OQ0x0Ymg4OU9TSlpyZi15anp0SXdrNlZxMXRta0dZcU96U3Rvb05BN3ZMN3ZsVWpzTDc0OHk0TTBsZHEwTzk2RXNSaFRFdlkzUkItaVlOLUF5dDJKWFlWNTVmMFM5UWhjUEZPRTlpOUZTc204ZG5yYTVERUZYQzB5Q1hDRWNaN0RnRzBzZE43cjJWSTBrN1FZVlBUYUJpa19OVWR6c0ZDMU85RW90bWhBUURTRFZ5VzR1V0dIbHlDYk5sZG9Gcmp3cWs3aU4tNHFuVzFmTzDSAegBQVVfeXFMT3BRZE9zTmdUcmhJREFKb2p4UW5OOVMxMFRYUlBXaFpjLTl1VFNmSU5vUG8wRzR1V0ozMUczYXMzbnVGLWJyNTNsUzlmMnJ0THFFUk4ybmtXZ1ZGam5nekRaNm1hSzZHZVhyeERaOWxQS0dyaUxuMnQxUmtWWEtaYWI5WnVSOFZTODRKLTJNY21famF2SVJzTUFIRzdnYVRDellBVnJyVHcwdjVTRHFBUHM4dUhHM1JUemJKQk12Q3dtSGpyS2prbHphcWNKZUdoWVgxNEFRaGVIa1NZMEhyU20xUGlGTDBMbw?oc=5)
+
+2026-09-27 <span class="news-indication-tag">cancer</span>
+
+Source: [theweek.in](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOC1OQ0x0Ymg4OU9TSlpyZi15anp0SXdrNlZxMXRta0dZcU96U3Rvb05BN3ZMN3ZsVWpzTDc0OHk0TTBsZHEwTzk2RXNSaFRFdlkzUkItaVlOLUF5dDJKWFlWNTVmMFM5UWhjUEZPRTlpOUZTc204ZG5yYTVERUZYQzB5Q1hDRWNaN0RnRzBzZE43cjJWSTBrN1FZVlBUYUJpa19OVWR6c0ZDMU85RW90bWhBUURTRFZ5VzR1V0dIbHlDYk5sZG9Gcmp3cWs3aU4tNHFuVzFmTzDSAegBQVVfeXFMT3BRZE9zTmdUcmhJREFKb2p4UW5OOVMxMFRYUlBXaFpjLTl1VFNmSU5vUG8wRzR1V0ozMUczYXMzbnVGLWJyNTNsUzlmMnJ0THFFUk4ybmtXZ1ZGam5nekRaNm1hSzZHZVhyeERaOWxQS0dyaUxuMnQxUmtWWEtaYWI5WnVSOFZTODRKLTJNY21famF2SVJzTUFIRzdnYVRDellBVnJyVHcwdjVTRHFBUHM4dUhHM1JUemJKQk12Q3dtSGpyS2prbHphcWNKZUdoWVgxNEFRaGVIa1NZMEhyU20xUGlGTDBMbw?oc=5)
+
+---
 
 ### [Loss of Y Chromosome in Men Could Be an Early Clue to Cancer, Study Finds](https://news.google.com/rss/articles/CBMiowFBVV95cUxON1RsMURSMTVMX0o4ZkNHa3FIcWlpOWxHUWY2LW1LUHA2RGlCZ1lEMUNadnFQMmRLNktzN09CbVN5NkVQNUp3b21uY0tIQXBmM0dNMmFSWE9STU1Hc25MZmVjUW9LZkkwbS1DYzFoRERELUxMLTZtWUhzbjhINjdacDVoSzl2QllrNmlvalk1ejBHUDJSTHByR2pBWUJYMlB6Nlh3?oc=5)
 
@@ -58,11 +66,27 @@ Source: [The Sangai Express](https://news.google.com/rss/articles/CBMi9wFBVV95cU
 
 ---
 
+### [New Brain Tumour Test Can Deliver Results in Under Two Hours](https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDZxWXdnbkdBVXVrcWZZamIxTXNRb1NDREhEVnZldTJzNjl2YU9NRC02eXVXbEFnWDVFY01NdjlXOF93aVM2elhzczVJM2RxMjhSQlJUekNNbTVvRUtXeG44RXk0MC1QNGQxYkJRc1J4QUl1cEthTXRfY1ktSnVTTzJVeFRDdGFuY1E?oc=5)
+
+2026-09-26 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">tumor</span>
+
+Source: [INDToday](https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDZxWXdnbkdBVXVrcWZZamIxTXNRb1NDREhEVnZldTJzNjl2YU9NRC02eXVXbEFnWDVFY01NdjlXOF93aVM2elhzczVJM2RxMjhSQlJUekNNbTVvRUtXeG44RXk0MC1QNGQxYkJRc1J4QUl1cEthTXRfY1ktSnVTTzJVeFRDdGFuY1E?oc=5)
+
+---
+
 ### [MIT researchers develop nanodevices to treat brain cancer - Medical Buyer](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkFLamY2UGh1VndoRXczUGR5S3lKaGp2X282MmdtQjhfb1FNMXdLZjZwcVN1TEk5WDlwamszcTVzcE5aZDJZNTMyMnUzMFlqRVo3MGFnZkRHNnNqOE5CRktPdWlLV0NCNndoSjRaM1pfd1BoRHJNQmN4bExvZTNCenIyZFdrbHN3eWhpQURB?oc=5)
 
 2026-09-26 <span class="news-indication-tag">cancer</span>
 
 Source: [Medical Buyer](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkFLamY2UGh1VndoRXczUGR5S3lKaGp2X282MmdtQjhfb1FNMXdLZjZwcVN1TEk5WDlwamszcTVzcE5aZDJZNTMyMnUzMFlqRVo3MGFnZkRHNnNqOE5CRktPdWlLV0NCNndoSjRaM1pfd1BoRHJNQmN4bExvZTNCenIyZFdrbHN3eWhpQURB?oc=5)
+
+---
+
+### [Worried about respiratory health? Pulmonologist shares 5 simple habits to keep lungs healthy | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUjRKWWdRams1TTc2YzAxM2g5SWNpTEVPcU1HMjFXWncxNDFObjN3VTVfa014TWFtaTJrNktEN19DSlFXMG54SVAtblBMaFR6NHh4RndaZ2x3cm1oazR5S2pkOEpTZmtQUEpsNEY4MEQyV0JKRHZmUWVBMVk4Tm1lVkFxLVctYTZrVTdPSDBIdEdsd0tyX0dSeFlQTGFFM3A1Q3d2a2JyVktYN1J2aEh6YTJURWZ4YkItOWppTkFkcGhlOEEwa3p0TElEeGN4TU50T2lkUzRtVnR6eDBfTHBKaE9iUUU4T3RrZk5iX1h6UW5td9IB9wFBVV95cUxQOFFRTFladVBwSEt1eER1dGRPSG1WS1ZZQ204N09vOEF2dmZ0WDBUVENfalNxeDBHOTY5STN0R1ZZV3lOY0d5TEVURENNWTJYX19abWFKQmFVQ0hGOXhvd3pmWDNNN3lBRFhMdXQzSFBOcnZZbHN3SzN1Qllfckx0S2ZWTFF0Z0hJNElKVkttWTJkaWZzRng4NmhxM0t6TVQtUVRxc2x3eC1FVUwxSFQyN3RVVllLb1JQV3NGdHYwYWtKc3ZsUXVHeFY3LVR4UmNPanNocHpTWnkzOVJkRGhFZUo0NGltV3JJUk53WnVuNHNmRG4zV1JF?oc=5)
+
+2026-09-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUjRKWWdRams1TTc2YzAxM2g5SWNpTEVPcU1HMjFXWncxNDFObjN3VTVfa014TWFtaTJrNktEN19DSlFXMG54SVAtblBMaFR6NHh4RndaZ2x3cm1oazR5S2pkOEpTZmtQUEpsNEY4MEQyV0JKRHZmUWVBMVk4Tm1lVkFxLVctYTZrVTdPSDBIdEdsd0tyX0dSeFlQTGFFM3A1Q3d2a2JyVktYN1J2aEh6YTJURWZ4YkItOWppTkFkcGhlOEEwa3p0TElEeGN4TU50T2lkUzRtVnR6eDBfTHBKaE9iUUU4T3RrZk5iX1h6UW5td9IB9wFBVV95cUxQOFFRTFladVBwSEt1eER1dGRPSG1WS1ZZQ204N09vOEF2dmZ0WDBUVENfalNxeDBHOTY5STN0R1ZZV3lOY0d5TEVURENNWTJYX19abWFKQmFVQ0hGOXhvd3pmWDNNN3lBRFhMdXQzSFBOcnZZbHN3SzN1Qllfckx0S2ZWTFF0Z0hJNElKVkttWTJkaWZzRng4NmhxM0t6TVQtUVRxc2x3eC1FVUwxSFQyN3RVVllLb1JQV3NGdHYwYWtKc3ZsUXVHeFY3LVR4UmNPanNocHpTWnkzOVJkRGhFZUo0NGltV3JJUk53WnVuNHNmRG4zV1JF?oc=5)
 
 ---
 
@@ -74,27 +98,11 @@ Source: [ThePrint](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnNrNGxf
 
 ---
 
-### [Young, fit non-smoker had lung cancer: Why screening can miss patients - The Indian Express](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHJoTEVaT0pfWVlwcGVsaFpST0tBeDBBNFdDNThnTnFIR2UyWThBNnVVb296cUF3Ym9QNC16cEZoVHptNG5YaE9MV3VwcGZvbm9nMkZRZUV3Q0xpSlJxamlycHFYeC1yRGtkYnQtekt1SHRxQk5QblhUMm1YcVJ5SnQ0NGRRZmVaYldsbXBic0RHVHhjQmJ3QjcxQWRpZUNHeEdycERxVHBwUUE5Vm9SMjNtYmhiZmfSAb4BQVVfeXFMUHFzNW5Jc0l3NENOODRyWGMyNndaTVBra1c3SV9fZTlwcjdyVjRUMHdWcE9WdWdsSXhYWE9LcTNvbHlWZ2s3SkJUV3ljcG9Rd2UyZWUxdHpnSEY4U0xpRkNyTEJ2YWVZeXluMHotM3NDNXdtWEJLS3Y2dFpSNDAyTTFYSV9kTUVjRWlnd1RET2FEbHh1SnBYLTdwdnE3S2ZVS2F3anpHRVVfZmt6TTRLTmJTUEF3clpZQnhyQ1hJdw?oc=5)
-
-2026-09-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [The Indian Express](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHJoTEVaT0pfWVlwcGVsaFpST0tBeDBBNFdDNThnTnFIR2UyWThBNnVVb296cUF3Ym9QNC16cEZoVHptNG5YaE9MV3VwcGZvbm9nMkZRZUV3Q0xpSlJxamlycHFYeC1yRGtkYnQtekt1SHRxQk5QblhUMm1YcVJ5SnQ0NGRRZmVaYldsbXBic0RHVHhjQmJ3QjcxQWRpZUNHeEdycERxVHBwUUE5Vm9SMjNtYmhiZmfSAb4BQVVfeXFMUHFzNW5Jc0l3NENOODRyWGMyNndaTVBra1c3SV9fZTlwcjdyVjRUMHdWcE9WdWdsSXhYWE9LcTNvbHlWZ2s3SkJUV3ljcG9Rd2UyZWUxdHpnSEY4U0xpRkNyTEJ2YWVZeXluMHotM3NDNXdtWEJLS3Y2dFpSNDAyTTFYSV9kTUVjRWlnd1RET2FEbHh1SnBYLTdwdnE3S2ZVS2F3anpHRVVfZmt6TTRLTmJTUEF3clpZQnhyQ1hJdw?oc=5)
-
----
-
-### [Love your tea/coffee scalding hot? The habit might be tripling your risk of oesophageal cancer](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWFfSDJkNnBLa21DY1pxTWxzb0xURENmVW1iajZSUEpHWE9oMVYxQW9SWS10QXREN3dlb0tYelN0NWdLZXBKVldXaWU4RzRtVXF2Z1lYSFlXQUNrUkdoUTFjNUNEdUhfYkM2ZHBHUzJ4RFBNbjM0VlpqeHVfelg5Uk53R041bWZLYWFwQllPWndEbU9mdkNxeUFBcFpGMWo5dWl6SVBoMGhmNnpxSlAxTGFNcllKYjJfTDBLVXByS0VhTnVxSlE?oc=5)
+### [Love your tea/coffee scalding hot? The habit might be tripling your risk of oesophageal cancer - The South First](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWFfSDJkNnBLa21DY1pxTWxzb0xURENmVW1iajZSUEpHWE9oMVYxQW9SWS10QXREN3dlb0tYelN0NWdLZXBKVldXaWU4RzRtVXF2Z1lYSFlXQUNrUkdoUTFjNUNEdUhfYkM2ZHBHUzJ4RFBNbjM0VlpqeHVfelg5Uk53R041bWZLYWFwQllPWndEbU9mdkNxeUFBcFpGMWo5dWl6SVBoMGhmNnpxSlAxTGFNcllKYjJfTDBLVXByS0VhTnVxSlE?oc=5)
 
 2026-09-26 <span class="news-indication-tag">cancer</span>
 
-Source: [thesouthfirst.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWFfSDJkNnBLa21DY1pxTWxzb0xURENmVW1iajZSUEpHWE9oMVYxQW9SWS10QXREN3dlb0tYelN0NWdLZXBKVldXaWU4RzRtVXF2Z1lYSFlXQUNrUkdoUTFjNUNEdUhfYkM2ZHBHUzJ4RFBNbjM0VlpqeHVfelg5Uk53R041bWZLYWFwQllPWndEbU9mdkNxeUFBcFpGMWo5dWl6SVBoMGhmNnpxSlAxTGFNcllKYjJfTDBLVXByS0VhTnVxSlE?oc=5)
-
----
-
-### [4 Everyday Habits That May Help Lower Dementia Risk - Times Now](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2I?oc=5)
-
-2026-09-26 <span class="news-drug-tag">TESTOSTERONE</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Times Now](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk1xLUR4VWNQSzFGYWlIZlkwSTNzdzhMM2ZGenQydS1JdGYwdzJsSTlsZ1JtWjdCZktmTl9FUG1wNTRpZl9ncC1nTzZoTXRIWmVjeTBTMzZBTkh4elNGd3dZSTNJNXJpenJnMmphVzlSdW5nYzdKY3RyejdHRmEyNXk3UFg4YURTYXZTYWRZRDJZeEUzT1BLWmt6T3lBSW1qZXBoZmQwS2I?oc=5)
+Source: [The South First](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWFfSDJkNnBLa21DY1pxTWxzb0xURENmVW1iajZSUEpHWE9oMVYxQW9SWS10QXREN3dlb0tYelN0NWdLZXBKVldXaWU4RzRtVXF2Z1lYSFlXQUNrUkdoUTFjNUNEdUhfYkM2ZHBHUzJ4RFBNbjM0VlpqeHVfelg5Uk53R041bWZLYWFwQllPWndEbU9mdkNxeUFBcFpGMWo5dWl6SVBoMGhmNnpxSlAxTGFNcllKYjJfTDBLVXByS0VhTnVxSlE?oc=5)
 
 ---
 
@@ -114,14 +122,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3
 
 ---
 
-### [World Lung Day 2026: Experts Stress Need to Protect Lung Health Throughout Life - ETV Bharat](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmoyeFhfOXFTenU2cm1ESUxXMy1laHRlZjQ3R2E5WUtxaWR1QkJoTXFGYUFtSzd6cTUtVjlBajJjZHNqSmo5czJ0ZWpoNWxYRVJhbDhxNWd5dEZLNGJ2bGRpcUdsbDFWb3AzU0FTTzN6MlZxZm9XUktGVDBybmhOS01LMENldHhUN1pqRXpXOHdTb0J2cFBuUHdOTm5JdUxra0NYcGw3UUJCejRNaGdNT0ZxaDZSVVg3YVpNeVJZcjZuLXpoVUEyQdIBzgFBVV95cUxPeWpPT05qSjhzcXZXQUFpbHdtLUoyN1VwTUcwT1lQSVhDczNKNzZYX3VCVEN0Y3Rrd29FUmZzY00tRkgtY3ZNcjBUSUhtd0ZJcjNjVjhWLUFqeUZIaHNzUndEMkVrYjNMaGNHS1llTFR5ZGJUUFNKQ0xvZFJ2a0tDbEZPck5jR2hYaW9Xa2hOWHZ5UzNtUGhQclhIdjI0SjFaSGJ4ODZOUDZ4M1JyX25qSFhmdnRJTFoxLWJJX2FfU1lQNFVsSDRQaTZmSmQ3QQ?oc=5)
-
-2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [ETV Bharat](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmoyeFhfOXFTenU2cm1ESUxXMy1laHRlZjQ3R2E5WUtxaWR1QkJoTXFGYUFtSzd6cTUtVjlBajJjZHNqSmo5czJ0ZWpoNWxYRVJhbDhxNWd5dEZLNGJ2bGRpcUdsbDFWb3AzU0FTTzN6MlZxZm9XUktGVDBybmhOS01LMENldHhUN1pqRXpXOHdTb0J2cFBuUHdOTm5JdUxra0NYcGw3UUJCejRNaGdNT0ZxaDZSVVg3YVpNeVJZcjZuLXpoVUEyQdIBzgFBVV95cUxPeWpPT05qSjhzcXZXQUFpbHdtLUoyN1VwTUcwT1lQSVhDczNKNzZYX3VCVEN0Y3Rrd29FUmZzY00tRkgtY3ZNcjBUSUhtd0ZJcjNjVjhWLUFqeUZIaHNzUndEMkVrYjNMaGNHS1llTFR5ZGJUUFNKQ0xvZFJ2a0tDbEZPck5jR2hYaW9Xa2hOWHZ5UzNtUGhQclhIdjI0SjFaSGJ4ODZOUDZ4M1JyX25qSFhmdnRJTFoxLWJJX2FfU1lQNFVsSDRQaTZmSmQ3QQ?oc=5)
-
----
-
 ### [Researchers find secret protein that drives cancer cell division](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkJXeHFvUzFYd2U4YXpsOHJtLVdCOGVjVzVZSmRLQkdBaWhCTHNONHNwOVBSYVh2dldRQmp2a3R2bnIzSzVJekZXQm51amZhZHNtN0NLQ05pWE5KdnJOSUpEOXpDYlRHMFZMc1N1VjVsVjBKNFhvSE00VkdpSjBDS040U1ZVNXlKbTE1SmlZeEZuTlpmT3lzSVM0YzVlODBwRU5xN3hoZDZWQnBQZjFSTzBB?oc=5)
 
 2026-09-25 <span class="news-indication-tag">cancer</span>
@@ -138,27 +138,11 @@ Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMihgFB
 
 ---
 
-### [How AI and robots provide companionship for people with Alzheimer’s](https://news.google.com/rss/articles/CBMipAFBVV95cUxQaXFmQ0Y5T2MxQmFsMlFUQmVLWEdraWFmb3o4U2g3NV9RaXd1b0hkWDNZMk9na3JnUTJDVnFQSDNpT0hFZGpyNk9hVkJwVkt3SGtjTmtPdy1KVUx2dGc1RjgwZjVta3FUZmFabldLd0F3anRHQ3F1TF9WekFVOExmTjF5STdjSlgyVHk4VmcwNGdILTFqNEdQNkhyTy1ZYzZnWFFhdQ?oc=5)
+### [How to spot lung cancer early? Doctor shares habits to stay safe](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeTB1M3RYR0xsMVJiVndrZmktdGNCTmVPcm51SmF4ZS1hLWpVNXJfczVUT3VHQ1lwdTcyVzREZXotR0FfV1BWSnZ6YWgyT241c1RyVnhScmdoNmlVS2tjTUZ0Xy1kZWVyaTFkOGJHblIxaTM2VzN3MzUweXQwSDNZcWtZcU5ZOFFSUmJReFVKMkxpeFNO?oc=5)
 
-2026-09-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQaXFmQ0Y5T2MxQmFsMlFUQmVLWEdraWFmb3o4U2g3NV9RaXd1b0hkWDNZMk9na3JnUTJDVnFQSDNpT0hFZGpyNk9hVkJwVkt3SGtjTmtPdy1KVUx2dGc1RjgwZjVta3FUZmFabldLd0F3anRHQ3F1TF9WekFVOExmTjF5STdjSlgyVHk4VmcwNGdILTFqNEdQNkhyTy1ZYzZnWFFhdQ?oc=5)
-
----
-
-### [A 70-year-old leukemia drug had a secret scientists are only discovering now - The Times of India](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ3VSNF9kazVjTXBtbHZJS2FXWTBiN2dJUF9tVlN5b2h5dm8zZE5Tb0xCcHRVV2ZNZGNJYkk2Y1paMEloNVB2bXZ5U1dqbVRvaDBMWHF0dHM5SG42YUJ2TVJBZnVUSDRiSnZBRDFlaVpEZHVPNnh0aS1YOGVFaVVHd2Q2S1I5YWdfR1NESHh0ZDh1dU1scjFJcXl6ZTFMYWhXU3E5ZFJlVWhkVkJvOEpsTzd0RlpMWmxHc0I3clZOM195SmlZNmpPLUN3ZHpVSElseS1wemFwSjBwcy1tZUdnX3F2Q2Y5ZUVIa3h1T2toa9IB9AFBVV95cUxOVWNlVlhHN1IxMVA5WGIzYlBKYVZkazZveXBpSkl0cGh2X0Rrc01UNnBhV2VBb3pXSmlpcG9XZmFjNGV1aGxuLWZ0OTRfckFZUkFxS2EtZHo3T2dCeFI3SEtpdS1CMjVCdDJEUFgzNDRrV2pLWXdCU0NVYUs2dk1zRVJXSnN5QVRlRzdwM1BpYzJWQjBEZmJiczI4Nnl3VzJiYXBQYUR2VUNGYzRiRUVscmxTMXMyaVV4LVI2WndTQTdfWDNFVXJzSFYxRTNHV1Bjb1A1WlhMM3dpbkhZYzlHeTVaTFJIdExwRHo0d3dZYXNOaXBx?oc=5)
-
-2026-09-25 <span class="news-indication-tag">leukemia</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ3VSNF9kazVjTXBtbHZJS2FXWTBiN2dJUF9tVlN5b2h5dm8zZE5Tb0xCcHRVV2ZNZGNJYkk2Y1paMEloNVB2bXZ5U1dqbVRvaDBMWHF0dHM5SG42YUJ2TVJBZnVUSDRiSnZBRDFlaVpEZHVPNnh0aS1YOGVFaVVHd2Q2S1I5YWdfR1NESHh0ZDh1dU1scjFJcXl6ZTFMYWhXU3E5ZFJlVWhkVkJvOEpsTzd0RlpMWmxHc0I3clZOM195SmlZNmpPLUN3ZHpVSElseS1wemFwSjBwcy1tZUdnX3F2Q2Y5ZUVIa3h1T2toa9IB9AFBVV95cUxOVWNlVlhHN1IxMVA5WGIzYlBKYVZkazZveXBpSkl0cGh2X0Rrc01UNnBhV2VBb3pXSmlpcG9XZmFjNGV1aGxuLWZ0OTRfckFZUkFxS2EtZHo3T2dCeFI3SEtpdS1CMjVCdDJEUFgzNDRrV2pLWXdCU0NVYUs2dk1zRVJXSnN5QVRlRzdwM1BpYzJWQjBEZmJiczI4Nnl3VzJiYXBQYUR2VUNGYzRiRUVscmxTMXMyaVV4LVI2WndTQTdfWDNFVXJzSFYxRTNHV1Bjb1A1WlhMM3dpbkhZYzlHeTVaTFJIdExwRHo0d3dZYXNOaXBx?oc=5)
-
----
-
-### [Can hormone replacement therapy (HRT) prevent dementia? - The Sen Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxORDZrRVRGTm4weHNTYkdmMkRMYnZBb2NiRkRPbWZZaTBzdmFXVHByM1JqdmhLYkNiMl9qMlNva1JiTXpMci1EUjFEQ2VZc1FDMFlYYk91aGVPTUY4OVJPMVBFZWtJZlVacXdOeTNNdzY0RW9GOC02dmJOZDhvaENMeWtRRQ?oc=5)
-
-2026-09-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [The Sen Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxORDZrRVRGTm4weHNTYkdmMkRMYnZBb2NiRkRPbWZZaTBzdmFXVHByM1JqdmhLYkNiMl9qMlNva1JiTXpMci1EUjFEQ2VZc1FDMFlYYk91aGVPTUY4OVJPMVBFZWtJZlVacXdOeTNNdzY0RW9GOC02dmJOZDhvaENMeWtRRQ?oc=5)
+Source: [onmanorama.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeTB1M3RYR0xsMVJiVndrZmktdGNCTmVPcm51SmF4ZS1hLWpVNXJfczVUT3VHQ1lwdTcyVzREZXotR0FfV1BWSnZ6YWgyT241c1RyVnhScmdoNmlVS2tjTUZ0Xy1kZWVyaTFkOGJHblIxaTM2VzN3MzUweXQwSDNZcWtZcU5ZOFFSUmJReFVKMkxpeFNO?oc=5)
 
 ---
 
