@@ -14,7 +14,7 @@ permalink: /news/vitamin_e/
 ---
 
 <p class="key-answer" data-question="What news is there about Vitamin E?">
-<strong>Vitamin E</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Vitamin E</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ This page combines the AI-predicted indications for Vitamin E with the latest he
 <p><a href="{{ '/drugs/vitamin_e/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [The Supplementary Question: Inside the Global Boom, Risks and Regulation Gaps in Dietary Supplements - Open Magazine](https://news.google.com/rss/articles/CBMibEFVX3lxTE8ya3EwTHJqMUhzYjhSaGRzcUllaDBsSGlyb0xGOTFTQ1Fma2FvTGNXV2hIcFF3ZjR3Y2hJSk1sQ0VheEZRR2w2azZpXzNjZDhZc0FSQS1IdXdGNGVaR1hRZFdpaG15UEVIOEJuSw?oc=5)
+
+2026-09-25 <span class="news-drug-tag">VITAMIN E</span> <span class="news-drug-tag">Vitamin E</span>
+
+Source: [Open Magazine](https://news.google.com/rss/articles/CBMibEFVX3lxTE8ya3EwTHJqMUhzYjhSaGRzcUllaDBsSGlyb0xGOTFTQ1Fma2FvTGNXV2hIcFF3ZjR3Y2hJSk1sQ0VheEZRR2w2azZpXzNjZDhZc0FSQS1IdXdGNGVaR1hRZFdpaG15UEVIOEJuSw?oc=5)
+
+---
 
 
 <div class="disclaimer">

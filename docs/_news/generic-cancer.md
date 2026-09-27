@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 15 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 13 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>15 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>13 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -256,13 +256,13 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (15)
+## Related News (13)
 
-### [New research finds 485 chemicals in US pesticide products linked to breast cancer - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
+### [Loss of Y Chromosome in Men Could Be an Early Clue to Cancer, Study Finds](https://news.google.com/rss/articles/CBMiowFBVV95cUxON1RsMURSMTVMX0o4ZkNHa3FIcWlpOWxHUWY2LW1LUHA2RGlCZ1lEMUNadnFQMmRLNktzN09CbVN5NkVQNUp3b21uY0tIQXBmM0dNMmFSWE9STU1Hc25MZmVjUW9LZkkwbS1DYzFoRERELUxMLTZtWUhzbjhINjdacDVoSzl2QllrNmlvalk1ejBHUDJSTHByR2pBWUJYMlB6Nlh3?oc=5)
 
 2026-09-26
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxON1RsMURSMTVMX0o4ZkNHa3FIcWlpOWxHUWY2LW1LUHA2RGlCZ1lEMUNadnFQMmRLNktzN09CbVN5NkVQNUp3b21uY0tIQXBmM0dNMmFSWE9STU1Hc25MZmVjUW9LZkkwbS1DYzFoRERELUxMLTZtWUhzbjhINjdacDVoSzl2QllrNmlvalk1ejBHUDJSTHByR2pBWUJYMlB6Nlh3?oc=5)
 
 ---
 
@@ -290,11 +290,19 @@ Source: [The Indian Express](https://news.google.com/rss/articles/CBMitwFBVV95cU
 
 ---
 
-### [Love your tea/coffee scalding hot? The habit might be tripling your risk of oesophageal cancer - The South First](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWFfSDJkNnBLa21DY1pxTWxzb0xURENmVW1iajZSUEpHWE9oMVYxQW9SWS10QXREN3dlb0tYelN0NWdLZXBKVldXaWU4RzRtVXF2Z1lYSFlXQUNrUkdoUTFjNUNEdUhfYkM2ZHBHUzJ4RFBNbjM0VlpqeHVfelg5Uk53R041bWZLYWFwQllPWndEbU9mdkNxeUFBcFpGMWo5dWl6SVBoMGhmNnpxSlAxTGFNcllKYjJfTDBLVXByS0VhTnVxSlE?oc=5)
+### [Love your tea/coffee scalding hot? The habit might be tripling your risk of oesophageal cancer](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWFfSDJkNnBLa21DY1pxTWxzb0xURENmVW1iajZSUEpHWE9oMVYxQW9SWS10QXREN3dlb0tYelN0NWdLZXBKVldXaWU4RzRtVXF2Z1lYSFlXQUNrUkdoUTFjNUNEdUhfYkM2ZHBHUzJ4RFBNbjM0VlpqeHVfelg5Uk53R041bWZLYWFwQllPWndEbU9mdkNxeUFBcFpGMWo5dWl6SVBoMGhmNnpxSlAxTGFNcllKYjJfTDBLVXByS0VhTnVxSlE?oc=5)
 
 2026-09-26
 
-Source: [The South First](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWFfSDJkNnBLa21DY1pxTWxzb0xURENmVW1iajZSUEpHWE9oMVYxQW9SWS10QXREN3dlb0tYelN0NWdLZXBKVldXaWU4RzRtVXF2Z1lYSFlXQUNrUkdoUTFjNUNEdUhfYkM2ZHBHUzJ4RFBNbjM0VlpqeHVfelg5Uk53R041bWZLYWFwQllPWndEbU9mdkNxeUFBcFpGMWo5dWl6SVBoMGhmNnpxSlAxTGFNcllKYjJfTDBLVXByS0VhTnVxSlE?oc=5)
+Source: [thesouthfirst.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWFfSDJkNnBLa21DY1pxTWxzb0xURENmVW1iajZSUEpHWE9oMVYxQW9SWS10QXREN3dlb0tYelN0NWdLZXBKVldXaWU4RzRtVXF2Z1lYSFlXQUNrUkdoUTFjNUNEdUhfYkM2ZHBHUzJ4RFBNbjM0VlpqeHVfelg5Uk53R041bWZLYWFwQllPWndEbU9mdkNxeUFBcFpGMWo5dWl6SVBoMGhmNnpxSlAxTGFNcllKYjJfTDBLVXByS0VhTnVxSlE?oc=5)
+
+---
+
+### [Enzyme USP15 present a promising new target for ovarian cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZrR2ZPMEtpaklkRzAxSWoyeFJ4YU5uSVM3N1FTZVRzRUl1Qm92RFVGZGtLWHNTUDZsZUlhdl93cVFuYnpyWks2SC1Qb3lNNXhnS284VGoxNkFKb3NCcHlXeGxvaGU3OEtzZ2doNGMwYnpWT0V0SUNEbUhJUXpXeGlrWEZ5WVBW?oc=5)
+
+2026-09-25
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZrR2ZPMEtpaklkRzAxSWoyeFJ4YU5uSVM3N1FTZVRzRUl1Qm92RFVGZGtLWHNTUDZsZUlhdl93cVFuYnpyWks2SC1Qb3lNNXhnS284VGoxNkFKb3NCcHlXeGxvaGU3OEtzZ2doNGMwYnpWT0V0SUNEbUhJUXpXeGlrWEZ5WVBW?oc=5)
 
 ---
 
@@ -322,27 +330,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkJX
 
 ---
 
-### [Loss Of Y Chromosome In Men May Signal Higher Cancer Risk - Health and Me](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORm5FT2MwYXZaalBKZHBrSmF6RVY0VmNJeVp3c2JIT1JNS3lEV0tCWGxxR255MGlieEN4N3NkQmhDS0UxOERQNHYzMTRlSjR4VTRaRkNDRFgyQTliN0ZkelI5Nlc4bnYwd2xaeXFwNDk0WnlkLTF0X0RZTGNsUDRCZldFT19peS11WmZQR0pUSkh4c1luaXZfdGUyNmlOcDRSVGFJWjkyb0NRakhLYmptNjdteE5xakwzSHF3?oc=5)
-
-2026-09-25
-
-Source: [Health and Me](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORm5FT2MwYXZaalBKZHBrSmF6RVY0VmNJeVp3c2JIT1JNS3lEV0tCWGxxR255MGlieEN4N3NkQmhDS0UxOERQNHYzMTRlSjR4VTRaRkNDRFgyQTliN0ZkelI5Nlc4bnYwd2xaeXFwNDk0WnlkLTF0X0RZTGNsUDRCZldFT19peS11WmZQR0pUSkh4c1luaXZfdGUyNmlOcDRSVGFJWjkyb0NRakhLYmptNjdteE5xakwzSHF3?oc=5)
-
----
-
 ### [DNA in blood signals cancer risk years ahead](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
 
 2026-09-25
 
 Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
-
----
-
-### [USP15 enzyme emerges as potential target for ovarian cancer treatment](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FkTVhUM053d21fRWZYanBtT3Bsb3hqcEJSUmdhN204UW51enZKOEo5dXdhbTZLSTBXcFQ5ZmViaGdaa2J2Y0g1bUtieDVibnlhVnl6elhWOWM2R0R5UkcwY3JETnhIdXVTczRIQkk0VGxtRkdnNGZTRnV5RkdmcFpkR3BLS0J2c1ZscHRTZzV5c0h5NWcza3RSN0Etbmh1Q1NXWHgyVGwtRjMwbDd4allpdjkxNlZu?oc=5)
-
-2026-09-25
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FkTVhUM053d21fRWZYanBtT3Bsb3hqcEJSUmdhN204UW51enZKOEo5dXdhbTZLSTBXcFQ5ZmViaGdaa2J2Y0g1bUtieDVibnlhVnl6elhWOWM2R0R5UkcwY3JETnhIdXVTczRIQkk0VGxtRkdnNGZTRnV5RkdmcFpkR3BLS0J2c1ZscHRTZzV5c0h5NWcza3RSN0Etbmh1Q1NXWHgyVGwtRjMwbDd4allpdjkxNlZu?oc=5)
 
 ---
 
@@ -367,14 +359,6 @@ Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGV
 2026-09-22
 
 Source: [NDTV](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHI1RG5xZnlya2Z2Y25xVjlMMi10Nk0xbVJ6ckMzaGVRalVjaXIyTVBzMXEwNHpBRWkzN3FOMVZYZTY4Zm1aZ1N6QXhtQ0c4WWt5ZnBvLWE2QzFtNi11Vm5yTkV5WGlsMjRwYkRnTmx0TVZERklFem1hTkEwbWV4bnl5NXRWWDIzVU8yVFN1ck9sMUlIRDFRbkk3QUV2QmI4WlBWaWVLYV9YY3htWVY2Z2lB?oc=5)
-
----
-
-### [What happens to your lung cancer risk after you quit smoking? Oncologist explains | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUktNWktRTWViN2pfSzZOQjZQLWR2X3BwS25ZTXVVU2JIbzJOV3Z0R2Rwel9IaXBCQmZVaHJnU3BtUFVTUlp2YTNFQTJQYms2SE5xU0JWS0VaaHIzYVFiZUc0XzVuTFRyOUZiUk1zMWRYYVROVXJaWHhieXNFX3N3bjZ6clhEeXlPcmRWOHd6cmVPa3hWYWNxbk9xTk5lQnVRdWF0OGhiWks1YV9yVUpObTZ6Q0RQRlpOeGdxOHZSbGR4ZW03R19nZ2dxenhoWGlhU1EtVC0tWmZnWUwzNFBNeWV4MNIB6AFBVV95cUxQYnBud05BYm5GLWVKQjFkOVZoUlhvT2piMDBRcmwweEc4SDRlU1phUGptT3FNSndCT3hlSV9vMGlhTVUybWtOUFFPUlRqSE1sY3hRZGRSZXZYSmVXQ3J0QWJMNkJpaXcxYTFDUk1laEhEdUhmMHNyRlY2NThBV3YzWll5TlpDNnBULWdmeVhrN25PNkkyQ0dnWm5qaWgxQlFYWDlOS1pYcXFCcXk0eVVrZURaQmduLXVMME5odGtsSDVLVWR4ampsSHFlVXVFSjh4U1c2cm1BVGVaUjItSzhxRGc5U3diU3ZT?oc=5)
-
-2026-09-20
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUktNWktRTWViN2pfSzZOQjZQLWR2X3BwS25ZTXVVU2JIbzJOV3Z0R2Rwel9IaXBCQmZVaHJnU3BtUFVTUlp2YTNFQTJQYms2SE5xU0JWS0VaaHIzYVFiZUc0XzVuTFRyOUZiUk1zMWRYYVROVXJaWHhieXNFX3N3bjZ6clhEeXlPcmRWOHd6cmVPa3hWYWNxbk9xTk5lQnVRdWF0OGhiWks1YV9yVUpObTZ6Q0RQRlpOeGdxOHZSbGR4ZW03R19nZ2dxenhoWGlhU1EtVC0tWmZnWUwzNFBNeWV4MNIB6AFBVV95cUxQYnBud05BYm5GLWVKQjFkOVZoUlhvT2piMDBRcmwweEc4SDRlU1phUGptT3FNSndCT3hlSV9vMGlhTVUybWtOUFFPUlRqSE1sY3hRZGRSZXZYSmVXQ3J0QWJMNkJpaXcxYTFDUk1laEhEdUhmMHNyRlY2NThBV3YzWll5TlpDNnBULWdmeVhrN25PNkkyQ0dnWm5qaWgxQlFYWDlOS1pYcXFCcXk0eVVrZURaQmduLXVMME5odGtsSDVLVWR4ampsSHFlVXVFSjh4U1c2cm1BVGVaUjItSzhxRGc5U3diU3ZT?oc=5)
 
 ---
 

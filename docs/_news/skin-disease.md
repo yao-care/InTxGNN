@@ -3,7 +3,7 @@ layout: default
 title: "psoriasis (skin disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about psoriasis (skin disease). 1 articles, 1 related drugs."
+description: "Health news about psoriasis (skin disease). 2 articles, 1 related drugs."
 permalink: /news/skin-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/skin-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about psoriasis (skin disease)?">
-<strong>psoriasis (skin disease)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<strong>psoriasis (skin disease)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ This page brings together the latest health news about “psoriasis” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Generalised Pustular Psoriasis Linked to Higher Mortality - European Medical Journal](https://news.google.com/rss/articles/CBMipAFBVV95cUxPblVxNUlUNTlBaVY5bEhuSVk1aXJaYzdaakVkWG9hVzVoM2ZDemx0Y25qaFg0djNhZDdiSmEzcjV6VTRzeU15UkVqYVNGRXR0al8xUTdibFRJOU5lRHM4Nk1KX0VrMXRHYk9CV2pyeEJYWnZxb29PNmZrd3dvWFV2VjJYQkZYZG1fSl9GWGg0eFBQUVlKQ19pemhtV2FVRUlFdHBNRA?oc=5)
 
 2026-09-25
 
 Source: [European Medical Journal](https://news.google.com/rss/articles/CBMipAFBVV95cUxPblVxNUlUNTlBaVY5bEhuSVk1aXJaYzdaakVkWG9hVzVoM2ZDemx0Y25qaFg0djNhZDdiSmEzcjV6VTRzeU15UkVqYVNGRXR0al8xUTdibFRJOU5lRHM4Nk1KX0VrMXRHYk9CV2pyeEJYWnZxb29PNmZrd3dvWFV2VjJYQkZYZG1fSl9GWGg0eFBQUVlKQ19pemhtV2FVRUlFdHBNRA?oc=5)
+
+---
+
+### [Psoriasis Treatments Show Distinct Infection Risks - European Medical Journal](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnhPdDVmOXhIcmc0Skt0OG5KNmhNYUVjb0V4QmxTMDJrZk5JN1JaUGsyYmwxLUNGVlozZlpqa2p3dzNZM3haWkhmSDM3TlVoOFlRN1llTVdaNzAySnN1eFlUUWMwcng4YnFpQ05UZVF4X3JWUGtjWXVvOTJmODlhRlBmYnNuYVVOaUl3RHBtOTRzNXZTVXc2MW5Ocw?oc=5)
+
+2026-09-23
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnhPdDVmOXhIcmc0Skt0OG5KNmhNYUVjb0V4QmxTMDJrZk5JN1JaUGsyYmwxLUNGVlozZlpqa2p3dzNZM3haWkhmSDM3TlVoOFlRN1llTVdaNzAySnN1eFlUUWMwcng4YnFpQ05UZVF4X3JWUGtjWXVvOTJmODlhRlBmYnNuYVVOaUl3RHBtOTRzNXZTVXc2MW5Ocw?oc=5)
 
 ---
 

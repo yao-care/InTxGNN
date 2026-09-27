@@ -31,11 +31,11 @@ This page brings together the latest health news about “ovarian cancer” and 
 
 ## Related News (1)
 
-### [USP15 enzyme emerges as potential target for ovarian cancer treatment](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FkTVhUM053d21fRWZYanBtT3Bsb3hqcEJSUmdhN204UW51enZKOEo5dXdhbTZLSTBXcFQ5ZmViaGdaa2J2Y0g1bUtieDVibnlhVnl6elhWOWM2R0R5UkcwY3JETnhIdXVTczRIQkk0VGxtRkdnNGZTRnV5RkdmcFpkR3BLS0J2c1ZscHRTZzV5c0h5NWcza3RSN0Etbmh1Q1NXWHgyVGwtRjMwbDd4allpdjkxNlZu?oc=5)
+### [Enzyme USP15 present a promising new target for ovarian cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZrR2ZPMEtpaklkRzAxSWoyeFJ4YU5uSVM3N1FTZVRzRUl1Qm92RFVGZGtLWHNTUDZsZUlhdl93cVFuYnpyWks2SC1Qb3lNNXhnS284VGoxNkFKb3NCcHlXeGxvaGU3OEtzZ2doNGMwYnpWT0V0SUNEbUhJUXpXeGlrWEZ5WVBW?oc=5)
 
 2026-09-25
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FkTVhUM053d21fRWZYanBtT3Bsb3hqcEJSUmdhN204UW51enZKOEo5dXdhbTZLSTBXcFQ5ZmViaGdaa2J2Y0g1bUtieDVibnlhVnl6elhWOWM2R0R5UkcwY3JETnhIdXVTczRIQkk0VGxtRkdnNGZTRnV5RkdmcFpkR3BLS0J2c1ZscHRTZzV5c0h5NWcza3RSN0Etbmh1Q1NXWHgyVGwtRjMwbDd4allpdjkxNlZu?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZrR2ZPMEtpaklkRzAxSWoyeFJ4YU5uSVM3N1FTZVRzRUl1Qm92RFVGZGtLWHNTUDZsZUlhdl93cVFuYnpyWks2SC1Qb3lNNXhnS284VGoxNkFKb3NCcHlXeGxvaGU3OEtzZ2doNGMwYnpWT0V0SUNEbUhJUXpXeGlrWEZ5WVBW?oc=5)
 
 ---
 
