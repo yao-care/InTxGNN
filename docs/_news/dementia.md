@@ -3,7 +3,7 @@ layout: default
 title: "dementia News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia. 2 articles, 8 related drugs."
+description: "Health news about dementia. 3 articles, 8 related drugs."
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia?">
-<strong>dementia</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>dementia</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [World Alzheimer’s Day 2026 The earlier you know, the more you can do : A dementia diagnosis matters - The Sangai Express](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZUVzT3czdVdSQm5nbzEwNE5YbDlwLUl4MUllNDJCY2o2XzI4QmNlV3Z2Q2NzdTdIZWY4bEw5T3RBZ05pQ0NGTjczNDVQejFhWjQxQ1l1RmRMMXJRZHdTMkNoZmhpaEM5YXFiV3hxTXI4ZDdCUGZUbk1lWlRlSG9pck10MkxOMWhJdGRXZnFialQwZU03c25wR0RRUDJsR1Vad1d5ZmJOeENkall6MDBnbl9pa2tNOVo5N0dPbW03aHhtZG5Vak03Zk1mRU95bUtzTTNJeWJBSnVUSExiaURyZHhEQW9hZGZXSFNPX0dEWlNkU1EwSjdn?oc=5)
+### [What Happens to Your Brain When You Read, According to a New Study](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWFpvRWd1a0xMbzI2LVZmZVRiRkVEMTZGT3hKc3NGM3pBSlMySjEzOC1BTm1CZzBKQWNPejU3VEN3SEwzOHBCYTVabHJwWGNqT01YRmUxSXpGbzlZVnJaRllVOEs0cEc2NnRwZVFTQUVJUVphMkxqS2pITkNQUkRzNnVveUJoUXc?oc=5)
 
-2026-09-26
+2026-09-27
 
-Source: [The Sangai Express](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZUVzT3czdVdSQm5nbzEwNE5YbDlwLUl4MUllNDJCY2o2XzI4QmNlV3Z2Q2NzdTdIZWY4bEw5T3RBZ05pQ0NGTjczNDVQejFhWjQxQ1l1RmRMMXJRZHdTMkNoZmhpaEM5YXFiV3hxTXI4ZDdCUGZUbk1lWlRlSG9pck10MkxOMWhJdGRXZnFialQwZU03c25wR0RRUDJsR1Vad1d5ZmJOeENkall6MDBnbl9pa2tNOVo5N0dPbW03aHhtZG5Vak03Zk1mRU95bUtzTTNJeWJBSnVUSExiaURyZHhEQW9hZGZXSFNPX0dEWlNkU1EwSjdn?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWFpvRWd1a0xMbzI2LVZmZVRiRkVEMTZGT3hKc3NGM3pBSlMySjEzOC1BTm1CZzBKQWNPejU3VEN3SEwzOHBCYTVabHJwWGNqT01YRmUxSXpGbzlZVnJaRllVOEs0cEc2NnRwZVFTQUVJUVphMkxqS2pITkNQUkRzNnVveUJoUXc?oc=5)
+
+---
+
+### [India must place dementia prevention, caregiver support at heart of healthcare: Experts at Delhi conclave - ANI News](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1FMdmdhS29FRVlYbzhaRW1NXzNkVlc3Yk1kcC1kMWgtRVlnMGRiNEN6V1dDRk5SWml6T2dVanBEWFQ0WGIwOUd3d0xrSWFXYlo5Rk9IZ0QzeUk5R05pdGJwWTRyTFdpblJwOFFWOHVJVUdHRVFnZ3BHVmxLRVJUbkRvaW9DQTJOMFcwd2Nxcm5peEZsaUtNYXZTQ2M2NjRUZDFkTXRheXRsd240dlB4ZkRHM1hUZXBwY0hPb1k4TFJucEl0aTZBQWhIakZMa1RLdXgtM3IzNkItcGhXaVRvMnZxd1lLbVZaY3VtWDNsZE1zSzRUWTJoVnlxRXY?oc=5)
+
+2026-09-27
+
+Source: [ANI News](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1FMdmdhS29FRVlYbzhaRW1NXzNkVlc3Yk1kcC1kMWgtRVlnMGRiNEN6V1dDRk5SWml6T2dVanBEWFQ0WGIwOUd3d0xrSWFXYlo5Rk9IZ0QzeUk5R05pdGJwWTRyTFdpblJwOFFWOHVJVUdHRVFnZ3BHVmxLRVJUbkRvaW9DQTJOMFcwd2Nxcm5peEZsaUtNYXZTQ2M2NjRUZDFkTXRheXRsd240dlB4ZkRHM1hUZXBwY0hPb1k4TFJucEl0aTZBQWhIakZMa1RLdXgtM3IzNkItcGhXaVRvMnZxd1lLbVZaY3VtWDNsZE1zSzRUWTJoVnlxRXY?oc=5)
 
 ---
 

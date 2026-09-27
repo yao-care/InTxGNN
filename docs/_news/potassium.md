@@ -14,7 +14,7 @@ permalink: /news/potassium/
 ---
 
 <p class="key-answer" data-question="What news is there about Potassium?">
-<strong>Potassium</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Potassium</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ This page combines the AI-predicted indications for Potassium with the latest he
 <p><a href="{{ '/drugs/potassium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [High blood pressure? Why cutting salt and eating more potassium could work better](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYzZwdUF5RVlxaGxvbzRXWkdLYXFvb1ptZFo2TDZBT1hZb0xkeEctYkphaVBsVjhzdC1uMGduSVJXLUM5cDBmOGJ3OUdrRGdpLTZBTFhwZEJfalQtaUhVd2Y5VHdJblZHMnBuaUxIT01SUTc5V1RSMW5kNTJNUjNVUkF3Z3I0OXVOODdaeUZSekJiRUhHbWpqdWlNT0RHanRzWWk2ZWJiMl9PM3YyZjhSaHE5eEtfZy0xSk53dmxXMVRQUmVJRDFpM01NRdIB0AFBVV95cUxOVWdVanVvSXFfTUV4WW9Ob0VDVmp6alRoTWpoWjVta1hoeDRuUVJSRHVnMWJCMWZ1LXVWOEg5bmQwTE1OTy1ZcFVXbmNtMmtkUEEySkVsTnNKN2ZNeXVhNEpFc0xmUGhDSlN2VDZvWFNBSHk3RVAxaTlWTDcxYnFobm52MFBSNzB3ZUNpTTBEVWsweUE2VGx6aTJLRlppeDBnaDBPN05aZEt6U1ZYeWVmSkxtc01fTWwxM2V1NndoR0pWNnhfY0xMZVJ3V0NYeGcw?oc=5)
+
+2026-09-27 <span class="news-drug-tag">Potassium</span>
+
+Source: [theweek.in](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYzZwdUF5RVlxaGxvbzRXWkdLYXFvb1ptZFo2TDZBT1hZb0xkeEctYkphaVBsVjhzdC1uMGduSVJXLUM5cDBmOGJ3OUdrRGdpLTZBTFhwZEJfalQtaUhVd2Y5VHdJblZHMnBuaUxIT01SUTc5V1RSMW5kNTJNUjNVUkF3Z3I0OXVOODdaeUZSekJiRUhHbWpqdWlNT0RHanRzWWk2ZWJiMl9PM3YyZjhSaHE5eEtfZy0xSk53dmxXMVRQUmVJRDFpM01NRdIB0AFBVV95cUxOVWdVanVvSXFfTUV4WW9Ob0VDVmp6alRoTWpoWjVta1hoeDRuUVJSRHVnMWJCMWZ1LXVWOEg5bmQwTE1OTy1ZcFVXbmNtMmtkUEEySkVsTnNKN2ZNeXVhNEpFc0xmUGhDSlN2VDZvWFNBSHk3RVAxaTlWTDcxYnFobm52MFBSNzB3ZUNpTTBEVWsweUE2VGx6aTJLRlppeDBnaDBPN05aZEt6U1ZYeWVmSkxtc01fTWwxM2V1NndoR0pWNnhfY0xMZVJ3V0NYeGcw?oc=5)
+
+---
 
 
 <div class="disclaimer">

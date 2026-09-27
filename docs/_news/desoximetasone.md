@@ -14,7 +14,7 @@ permalink: /news/desoximetasone/
 ---
 
 <p class="key-answer" data-question="What news is there about Desoximetasone?">
-<strong>Desoximetasone</strong> currently has <strong>15 news articles</strong>, with 10 predicted indications.
+<strong>Desoximetasone</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Desoximetasone with the late
 <p><a href="{{ '/drugs/desoximetasone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (12)
+
+### [Genomic Testing: India needs policy agenda to expand precision oncology care - Deccan Herald](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQmt6bWVvLW5QWVJjNjRXZFNtYW85ZlJsNzNUYzVnTC1GM3NYMWJkSHlieGRYbGpPUEo2eWRzdjZWczUtWHJHYWgzdEVKVmVCWEVFSXlTMmpZdHNyNHJfS3lWSHdpc25vNWd3X0xpaVlzUDJfdWUteExCeDVYNDVCMmo1cUdha25nR09pamp4ZjdVcHVsSGJSeFZGd09LQjBUUUtDZVZCcnJlVy0wUGlaQ2NIUnZ3TGs4X0xYVF9HdkpXQ0V3dk0yUG1MS3lPY2djc04yekpfcFRieFZsUDlGaVZpYlJqdW16N1NIdlo2R1VLeWI3LVAza0hXWUtKdmtSYnhCSlBobFI?oc=5)
+
+2026-09-27 <span class="news-indication-tag">cancer</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQmt6bWVvLW5QWVJjNjRXZFNtYW85ZlJsNzNUYzVnTC1GM3NYMWJkSHlieGRYbGpPUEo2eWRzdjZWczUtWHJHYWgzdEVKVmVCWEVFSXlTMmpZdHNyNHJfS3lWSHdpc25vNWd3X0xpaVlzUDJfdWUteExCeDVYNDVCMmo1cUdha25nR09pamp4ZjdVcHVsSGJSeFZGd09LQjBUUUtDZVZCcnJlVy0wUGlaQ2NIUnZ3TGs4X0xYVF9HdkpXQ0V3dk0yUG1MS3lPY2djc04yekpfcFRieFZsUDlGaVZpYlJqdW16N1NIdlo2R1VLeWI3LVAza0hXWUtKdmtSYnhCSlBobFI?oc=5)
+
+---
 
 ### [How personalised mRNA vaccines are fighting melanoma](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOC1OQ0x0Ymg4OU9TSlpyZi15anp0SXdrNlZxMXRta0dZcU96U3Rvb05BN3ZMN3ZsVWpzTDc0OHk0TTBsZHEwTzk2RXNSaFRFdlkzUkItaVlOLUF5dDJKWFlWNTVmMFM5UWhjUEZPRTlpOUZTc204ZG5yYTVERUZYQzB5Q1hDRWNaN0RnRzBzZE43cjJWSTBrN1FZVlBUYUJpa19OVWR6c0ZDMU85RW90bWhBUURTRFZ5VzR1V0dIbHlDYk5sZG9Gcmp3cWs3aU4tNHFuVzFmTzDSAegBQVVfeXFMT3BRZE9zTmdUcmhJREFKb2p4UW5OOVMxMFRYUlBXaFpjLTl1VFNmSU5vUG8wRzR1V0ozMUczYXMzbnVGLWJyNTNsUzlmMnJ0THFFUk4ybmtXZ1ZGam5nekRaNm1hSzZHZVhyeERaOWxQS0dyaUxuMnQxUmtWWEtaYWI5WnVSOFZTODRKLTJNY21famF2SVJzTUFIRzdnYVRDellBVnJyVHcwdjVTRHFBUHM4dUhHM1JUemJKQk12Q3dtSGpyS2prbHphcWNKZUdoWVgxNEFRaGVIa1NZMEhyU20xUGlGTDBMbw?oc=5)
 
@@ -74,22 +82,6 @@ Source: [Medical Buyer](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkF
 
 ---
 
-### [Worried about respiratory health? Pulmonologist shares 5 simple habits to keep lungs healthy | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUjRKWWdRams1TTc2YzAxM2g5SWNpTEVPcU1HMjFXWncxNDFObjN3VTVfa014TWFtaTJrNktEN19DSlFXMG54SVAtblBMaFR6NHh4RndaZ2x3cm1oazR5S2pkOEpTZmtQUEpsNEY4MEQyV0JKRHZmUWVBMVk4Tm1lVkFxLVctYTZrVTdPSDBIdEdsd0tyX0dSeFlQTGFFM3A1Q3d2a2JyVktYN1J2aEh6YTJURWZ4YkItOWppTkFkcGhlOEEwa3p0TElEeGN4TU50T2lkUzRtVnR6eDBfTHBKaE9iUUU4T3RrZk5iX1h6UW5td9IB9wFBVV95cUxQOFFRTFladVBwSEt1eER1dGRPSG1WS1ZZQ204N09vOEF2dmZ0WDBUVENfalNxeDBHOTY5STN0R1ZZV3lOY0d5TEVURENNWTJYX19abWFKQmFVQ0hGOXhvd3pmWDNNN3lBRFhMdXQzSFBOcnZZbHN3SzN1Qllfckx0S2ZWTFF0Z0hJNElKVkttWTJkaWZzRng4NmhxM0t6TVQtUVRxc2x3eC1FVUwxSFQyN3RVVllLb1JQV3NGdHYwYWtKc3ZsUXVHeFY3LVR4UmNPanNocHpTWnkzOVJkRGhFZUo0NGltV3JJUk53WnVuNHNmRG4zV1JF?oc=5)
-
-2026-09-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUjRKWWdRams1TTc2YzAxM2g5SWNpTEVPcU1HMjFXWncxNDFObjN3VTVfa014TWFtaTJrNktEN19DSlFXMG54SVAtblBMaFR6NHh4RndaZ2x3cm1oazR5S2pkOEpTZmtQUEpsNEY4MEQyV0JKRHZmUWVBMVk4Tm1lVkFxLVctYTZrVTdPSDBIdEdsd0tyX0dSeFlQTGFFM3A1Q3d2a2JyVktYN1J2aEh6YTJURWZ4YkItOWppTkFkcGhlOEEwa3p0TElEeGN4TU50T2lkUzRtVnR6eDBfTHBKaE9iUUU4T3RrZk5iX1h6UW5td9IB9wFBVV95cUxQOFFRTFladVBwSEt1eER1dGRPSG1WS1ZZQ204N09vOEF2dmZ0WDBUVENfalNxeDBHOTY5STN0R1ZZV3lOY0d5TEVURENNWTJYX19abWFKQmFVQ0hGOXhvd3pmWDNNN3lBRFhMdXQzSFBOcnZZbHN3SzN1Qllfckx0S2ZWTFF0Z0hJNElKVkttWTJkaWZzRng4NmhxM0t6TVQtUVRxc2x3eC1FVUwxSFQyN3RVVllLb1JQV3NGdHYwYWtKc3ZsUXVHeFY3LVR4UmNPanNocHpTWnkzOVJkRGhFZUo0NGltV3JJUk53WnVuNHNmRG4zV1JF?oc=5)
-
----
-
-### [India needs five-year policy to make precision cancer care afforable, says expert](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnNrNGxfUEYtX3dMS3hBalFiVENhcU9qMTQxOUJvUTA3a3FhZkEwSDVYSW5JTUlSMVdhcVZmbExrSjU1aHhVMFlUWkhWdTJyWEE4N25qM05qR21vSnktV2VlOHYzT2pYMjQ0NkVzY1ZtbGwwYlpEQ0I4MlZoWG5XaGx6TXgtclVpYXNnZHUxNm9iU3p5Q3BxODVwbGNIczZjX3ZSTXQ0dkVqZmFVaV82Z0hLT2g1d9IBuwFBVV95cUxPNy1zRWw3MWNRbVhfVWJCeFZ3N2Z3SDBDTUQyQTZoa01uNFU5SkRJM0VLSzJDWmdHZTVsaENiQ3dON3A5VFpNMHRwRmhDNHR0ai1aN3lLTC1Oek5NT3dPeHVONGxhMTFrbHFzZ01oaWNoZndyUGx6NFRfcmdWYVFwMWp0dFVVLVA4V0EtQzJ2eVRJZU9JMkhkdmpjZVkzajB4U0J2ZWtoM25aNUR2emZ0QmQtSjZHYWt2SVRr?oc=5)
-
-2026-09-26 <span class="news-indication-tag">cancer</span>
-
-Source: [ThePrint](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnNrNGxfUEYtX3dMS3hBalFiVENhcU9qMTQxOUJvUTA3a3FhZkEwSDVYSW5JTUlSMVdhcVZmbExrSjU1aHhVMFlUWkhWdTJyWEE4N25qM05qR21vSnktV2VlOHYzT2pYMjQ0NkVzY1ZtbGwwYlpEQ0I4MlZoWG5XaGx6TXgtclVpYXNnZHUxNm9iU3p5Q3BxODVwbGNIczZjX3ZSTXQ0dkVqZmFVaV82Z0hLT2g1d9IBuwFBVV95cUxPNy1zRWw3MWNRbVhfVWJCeFZ3N2Z3SDBDTUQyQTZoa01uNFU5SkRJM0VLSzJDWmdHZTVsaENiQ3dON3A5VFpNMHRwRmhDNHR0ai1aN3lLTC1Oek5NT3dPeHVONGxhMTFrbHFzZ01oaWNoZndyUGx6NFRfcmdWYVFwMWp0dFVVLVA4V0EtQzJ2eVRJZU9JMkhkdmpjZVkzajB4U0J2ZWtoM25aNUR2emZ0QmQtSjZHYWt2SVRr?oc=5)
-
----
-
 ### [Love your tea/coffee scalding hot? The habit might be tripling your risk of oesophageal cancer - The South First](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWFfSDJkNnBLa21DY1pxTWxzb0xURENmVW1iajZSUEpHWE9oMVYxQW9SWS10QXREN3dlb0tYelN0NWdLZXBKVldXaWU4RzRtVXF2Z1lYSFlXQUNrUkdoUTFjNUNEdUhfYkM2ZHBHUzJ4RFBNbjM0VlpqeHVfelg5Uk53R041bWZLYWFwQllPWndEbU9mdkNxeUFBcFpGMWo5dWl6SVBoMGhmNnpxSlAxTGFNcllKYjJfTDBLVXByS0VhTnVxSlE?oc=5)
 
 2026-09-26 <span class="news-indication-tag">cancer</span>
@@ -114,27 +106,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3
 
 ---
 
-### [Researchers find secret protein that drives cancer cell division](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkJXeHFvUzFYd2U4YXpsOHJtLVdCOGVjVzVZSmRLQkdBaWhCTHNONHNwOVBSYVh2dldRQmp2a3R2bnIzSzVJekZXQm51amZhZHNtN0NLQ05pWE5KdnJOSUpEOXpDYlRHMFZMc1N1VjVsVjBKNFhvSE00VkdpSjBDS040U1ZVNXlKbTE1SmlZeEZuTlpmT3lzSVM0YzVlODBwRU5xN3hoZDZWQnBQZjFSTzBB?oc=5)
+### [DNA in blood signals cancer risk years ahead](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
 
 2026-09-25 <span class="news-indication-tag">cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkJXeHFvUzFYd2U4YXpsOHJtLVdCOGVjVzVZSmRLQkdBaWhCTHNONHNwOVBSYVh2dldRQmp2a3R2bnIzSzVJekZXQm51amZhZHNtN0NLQ05pWE5KdnJOSUpEOXpDYlRHMFZMc1N1VjVsVjBKNFhvSE00VkdpSjBDS040U1ZVNXlKbTE1SmlZeEZuTlpmT3lzSVM0YzVlODBwRU5xN3hoZDZWQnBQZjFSTzBB?oc=5)
-
----
-
-### [DNA in blood signals cancer risk years ahead](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
-
-2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
 Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
-
----
-
-### [How to spot lung cancer early? Doctor shares habits to stay safe](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeTB1M3RYR0xsMVJiVndrZmktdGNCTmVPcm51SmF4ZS1hLWpVNXJfczVUT3VHQ1lwdTcyVzREZXotR0FfV1BWSnZ6YWgyT241c1RyVnhScmdoNmlVS2tjTUZ0Xy1kZWVyaTFkOGJHblIxaTM2VzN3MzUweXQwSDNZcWtZcU5ZOFFSUmJReFVKMkxpeFNO?oc=5)
-
-2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [onmanorama.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeTB1M3RYR0xsMVJiVndrZmktdGNCTmVPcm51SmF4ZS1hLWpVNXJfczVUT3VHQ1lwdTcyVzREZXotR0FfV1BWSnZ6YWgyT241c1RyVnhScmdoNmlVS2tjTUZ0Xy1kZWVyaTFkOGJHblIxaTM2VzN3MzUweXQwSDNZcWtZcU5ZOFFSUmJReFVKMkxpeFNO?oc=5)
 
 ---
 
@@ -154,11 +130,11 @@ Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGV
 
 ---
 
-### [Blood Test May Help Detect Pancreatic Cancer In Earliest Stages: Researchers](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHI1RG5xZnlya2Z2Y25xVjlMMi10Nk0xbVJ6ckMzaGVRalVjaXIyTVBzMXEwNHpBRWkzN3FOMVZYZTY4Zm1aZ1N6QXhtQ0c4WWt5ZnBvLWE2QzFtNi11Vm5yTkV5WGlsMjRwYkRnTmx0TVZERklFem1hTkEwbWV4bnl5NXRWWDIzVU8yVFN1ck9sMUlIRDFRbkk3QUV2QmI4WlBWaWVLYV9YY3htWVY2Z2lB?oc=5)
+### [Blood test may help detect pancreatic cancer in earliest stages: Researchers](https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWdvM1pjTjBUcUVGUm5YbWU5VlprVTVVd2daS0N6Tk1PVEZIMUZKLXFhT09VSUFPZzN2WXFTMW9GZkp1NlEzejRMVE93NkJ4UHd3S0JmTXhBUlJEX29yZ01MdkpBWGM3Z0lnbzg5dFpsY281VE9ZUHNzM3JjYXdDdHJjZWZYdndfQkdMYzlWcnVzWl9jYmhlMDFJY3VhallwN3JEXzdfNExKTG5DNnBkaHppZTN4cDhDa0l6UW5vaXN2cjZlVGF4NVdka2I0NFHSAdQBQVVfeXFMTzdtaW9FbWNjbUhEeUNSYVBiMmZtSk51eHZaSklmTlNQS192QjB4aWI1TGlobUJhSFNIc1NVcUpLaE80Y215Q3FnczBHVHkteE5OSHQ1QUhGS0RGdHVNSUY1NU1hdkEyRGFTZVFua29tem1oem9VNmhxdWJrZVFwOGdOX0t0cmEzbmJXT0o4WjN4c0pYY3o3ZW9iN01CLWdMcEVoYnFzd0lBbmVDaEtIUl9FWFY4Q0c4bmY0Y2o3aG1vNW1KWENoUEpGdl9XRnBTbkE1XzQ?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
-Source: [NDTV](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHI1RG5xZnlya2Z2Y25xVjlMMi10Nk0xbVJ6ckMzaGVRalVjaXIyTVBzMXEwNHpBRWkzN3FOMVZYZTY4Zm1aZ1N6QXhtQ0c4WWt5ZnBvLWE2QzFtNi11Vm5yTkV5WGlsMjRwYkRnTmx0TVZERklFem1hTkEwbWV4bnl5NXRWWDIzVU8yVFN1ck9sMUlIRDFRbkk3QUV2QmI4WlBWaWVLYV9YY3htWVY2Z2lB?oc=5)
+Source: [cnbctv18.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWdvM1pjTjBUcUVGUm5YbWU5VlprVTVVd2daS0N6Tk1PVEZIMUZKLXFhT09VSUFPZzN2WXFTMW9GZkp1NlEzejRMVE93NkJ4UHd3S0JmTXhBUlJEX29yZ01MdkpBWGM3Z0lnbzg5dFpsY281VE9ZUHNzM3JjYXdDdHJjZWZYdndfQkdMYzlWcnVzWl9jYmhlMDFJY3VhallwN3JEXzdfNExKTG5DNnBkaHppZTN4cDhDa0l6UW5vaXN2cjZlVGF4NVdka2I0NFHSAdQBQVVfeXFMTzdtaW9FbWNjbUhEeUNSYVBiMmZtSk51eHZaSklmTlNQS192QjB4aWI1TGlobUJhSFNIc1NVcUpLaE80Y215Q3FnczBHVHkteE5OSHQ1QUhGS0RGdHVNSUY1NU1hdkEyRGFTZVFua29tem1oem9VNmhxdWJrZVFwOGdOX0t0cmEzbmJXT0o4WjN4c0pYY3o3ZW9iN01CLWdMcEVoYnFzd0lBbmVDaEtIUl9FWFY4Q0c4bmY0Y2o3aG1vNW1KWENoUEpGdl9XRnBTbkE1XzQ?oc=5)
 
 ---
 
