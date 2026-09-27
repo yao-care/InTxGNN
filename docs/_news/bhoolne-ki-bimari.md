@@ -3,7 +3,7 @@ layout: default
 title: "dementia (bhoolne ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (bhoolne ki bimari). 3 articles, 8 related drugs."
+description: "Health news about dementia (bhoolne ki bimari). 5 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bhoolne-ki-bimari/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (bhoolne ki bimari)?">
-<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
 
 ### [What Happens to Your Brain When You Read, According to a New Study](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWFpvRWd1a0xMbzI2LVZmZVRiRkVEMTZGT3hKc3NGM3pBSlMySjEzOC1BTm1CZzBKQWNPejU3VEN3SEwzOHBCYTVabHJwWGNqT01YRmUxSXpGbzlZVnJaRllVOEs0cEc2NnRwZVFTQUVJUVphMkxqS2pITkNQUkRzNnVveUJoUXc?oc=5)
 
@@ -54,11 +54,27 @@ Source: [ANI News](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1FMdmdh
 
 ---
 
+### [FDA clears 2 new Alzheimer’s blood tests, including one for adults as young as 40](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW1xbXZ1Zl9jN21IeTNpWmZKMEk2NHNxVlhBZjBYcmtvU3h4enJtVW1ZQ05MblQwTFU4S0R2U1VKdHRrelpPN3dNbGpMcXpJZGRNSHZrMHhwRUJnaTc0dVd4Wm9QdXBPYmZUVUtQeGtXRjFtMUxZaUt5S0EyZXRZQ0ZCWFAxQVhac1RZZGRPUUlKaFV1VnFNb1g2MkIzamZPTWh2ei1uNjB5TTZPYXpZOUF6MTBhX0Z4SkxHT25WSDk?oc=5)
+
+2026-09-26
+
+Source: [MedicalNewsToday](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW1xbXZ1Zl9jN21IeTNpWmZKMEk2NHNxVlhBZjBYcmtvU3h4enJtVW1ZQ05MblQwTFU4S0R2U1VKdHRrelpPN3dNbGpMcXpJZGRNSHZrMHhwRUJnaTc0dVd4Wm9QdXBPYmZUVUtQeGtXRjFtMUxZaUt5S0EyZXRZQ0ZCWFAxQVhac1RZZGRPUUlKaFV1VnFNb1g2MkIzamZPTWh2ei1uNjB5TTZPYXpZOUF6MTBhX0Z4SkxHT25WSDk?oc=5)
+
+---
+
 ### [UCLA Health Receives $25 Million Grant to Advance AI-Centered Research for Alzheimer’s and Dementia Patients | Newswise](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQm9LNExDc0xYeDR2VTVOTllGUFJyQnZucHlzOHRKU2NPbG0zVXhaM3hOSERUNVpYd3R4OGtoUFh4QS1OdTEzbXRZMmVDd3N6WGY3bm9ISlF4U0Z4N1hTWGcxSHZBOE5KeWc0eVZWZUgtVXFFa0ZRbE40Qzg2ZXp1eVFBWVlPc3liWlFTemtXN3pHQ0ZyQVNKcEdZaTJ5ajlJd05FX0RZZ09XcTdnVDlHSVZSdzNpdkR1MmhFUE1ac0lTNUVpN3pZdFE1UzVab1dYVmdTQW52NDjSAdgBQVVfeXFMTkJvSzRMQ3NMWHg0dlU1Tk5ZRlBSckJ2bnB5czh0SlNjT2xtM1V4WjN4TkhEVDVaWHd0eDhraFBYeEEtTnUxM210WTJlQ3dzelhmN25vSEpReFNGeDdYU1hnMUh2QThOSnlnNHlWVmVILVVxRWtGUWxONEM4NmV6dXlRQVlZT3N5YlpRU3prVzd6R0NGckFTSnBHWWkyeWo5SXdORV9EWWdPV3E3Z1Q5R0lWUnczaXZEdTJoRVBNWnNJUzVFaTd6WXRRNVM1Wm9XWFZnU0FudjQ4?oc=5)
 
 2026-09-24
 
 Source: [Newswise](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQm9LNExDc0xYeDR2VTVOTllGUFJyQnZucHlzOHRKU2NPbG0zVXhaM3hOSERUNVpYd3R4OGtoUFh4QS1OdTEzbXRZMmVDd3N6WGY3bm9ISlF4U0Z4N1hTWGcxSHZBOE5KeWc0eVZWZUgtVXFFa0ZRbE40Qzg2ZXp1eVFBWVlPc3liWlFTemtXN3pHQ0ZyQVNKcEdZaTJ5ajlJd05FX0RZZ09XcTdnVDlHSVZSdzNpdkR1MmhFUE1ac0lTNUVpN3pZdFE1UzVab1dYVmdTQW52NDjSAdgBQVVfeXFMTkJvSzRMQ3NMWHg0dlU1Tk5ZRlBSckJ2bnB5czh0SlNjT2xtM1V4WjN4TkhEVDVaWHd0eDhraFBYeEEtTnUxM210WTJlQ3dzelhmN25vSEpReFNGeDdYU1hnMUh2QThOSnlnNHlWVmVILVVxRWtGUWxONEM4NmV6dXlRQVlZT3N5YlpRU3prVzd6R0NGckFTSnBHWWkyeWo5SXdORV9EWWdPV3E3Z1Q5R0lWUnczaXZEdTJoRVBNWnNJUzVFaTd6WXRRNVM1Wm9XWFZnU0FudjQ4?oc=5)
+
+---
+
+### [The Brain as Two Organs; Epstein-Barr and MS; Indigenous Bolivians and Dementia - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcktYZ3AyLWxFQ3pWYzR5dFExcDI4c0IzLWlOOUZMRUJwcE1BcnNZYVlEUW5HeHJvcmpSOTJrT3gxMnlnSW9LaG8wWm9CYXFkR19fd3BpdmxLMEw3cWtQbmlCS2UtWm9Na3dWRW8zVQ?oc=5)
+
+2026-09-22
+
+Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcktYZ3AyLWxFQ3pWYzR5dFExcDI4c0IzLWlOOUZMRUJwcE1BcnNZYVlEUW5HeHJvcmpSOTJrT3gxMnlnSW9LaG8wWm9CYXFkR19fd3BpdmxLMEw3cWtQbmlCS2UtWm9Na3dWRW8zVQ?oc=5)
 
 ---
 

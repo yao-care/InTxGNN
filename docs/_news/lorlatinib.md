@@ -14,7 +14,7 @@ permalink: /news/lorlatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Lorlatinib?">
-<strong>Lorlatinib</strong> currently has <strong>15 news articles</strong>, with 10 predicted indications.
+<strong>Lorlatinib</strong> currently has <strong>17 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Lorlatinib with the latest h
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (17)
+
+### [cfDNA Methylation Signals Breast Cancer Risk Years Before Clinical Diagnosis](https://news.google.com/rss/articles/CBMidkFVX3lxTE5fMW9XVWJ4VnpObnJIc2tuODNHYmtOOGpKTGY0bVphWHFTQTdQOHd6NDVmcGdfQUlzTDgtZDRVQlhPcEhhQjNFa2dFbkp6VjVZdmtqYUE1WUZrTmtVMEFuYzNEbFFOeGZSMERxQVdXNDF0Z2FVd3c?oc=5)
+
+2026-09-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMidkFVX3lxTE5fMW9XVWJ4VnpObnJIc2tuODNHYmtOOGpKTGY0bVphWHFTQTdQOHd6NDVmcGdfQUlzTDgtZDRVQlhPcEhhQjNFa2dFbkp6VjVZdmtqYUE1WUZrTmtVMEFuYzNEbFFOeGZSMERxQVdXNDF0Z2FVd3c?oc=5)
+
+---
 
 ### [What Happens to Your Brain When You Read, According to a New Study](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWFpvRWd1a0xMbzI2LVZmZVRiRkVEMTZGT3hKc3NGM3pBSlMySjEzOC1BTm1CZzBKQWNPejU3VEN3SEwzOHBCYTVabHJwWGNqT01YRmUxSXpGbzlZVnJaRllVOEs0cEc2NnRwZVFTQUVJUVphMkxqS2pITkNQUkRzNnVveUJoUXc?oc=5)
 
@@ -90,6 +98,14 @@ Source: [INDToday](https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDZxWXdn
 
 ---
 
+### [FDA clears 2 new Alzheimer’s blood tests, including one for adults as young as 40](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW1xbXZ1Zl9jN21IeTNpWmZKMEk2NHNxVlhBZjBYcmtvU3h4enJtVW1ZQ05MblQwTFU4S0R2U1VKdHRrelpPN3dNbGpMcXpJZGRNSHZrMHhwRUJnaTc0dVd4Wm9QdXBPYmZUVUtQeGtXRjFtMUxZaUt5S0EyZXRZQ0ZCWFAxQVhac1RZZGRPUUlKaFV1VnFNb1g2MkIzamZPTWh2ei1uNjB5TTZPYXpZOUF6MTBhX0Z4SkxHT25WSDk?oc=5)
+
+2026-09-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [MedicalNewsToday](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW1xbXZ1Zl9jN21IeTNpWmZKMEk2NHNxVlhBZjBYcmtvU3h4enJtVW1ZQ05MblQwTFU4S0R2U1VKdHRrelpPN3dNbGpMcXpJZGRNSHZrMHhwRUJnaTc0dVd4Wm9QdXBPYmZUVUtQeGtXRjFtMUxZaUt5S0EyZXRZQ0ZCWFAxQVhac1RZZGRPUUlKaFV1VnFNb1g2MkIzamZPTWh2ei1uNjB5TTZPYXpZOUF6MTBhX0Z4SkxHT25WSDk?oc=5)
+
+---
+
 ### [MIT researchers develop nanodevices to treat brain cancer - Medical Buyer](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkFLamY2UGh1VndoRXczUGR5S3lKaGp2X282MmdtQjhfb1FNMXdLZjZwcVN1TEk5WDlwamszcTVzcE5aZDJZNTMyMnUzMFlqRVo3MGFnZkRHNnNqOE5CRktPdWlLV0NCNndoSjRaM1pfd1BoRHJNQmN4bExvZTNCenIyZFdrbHN3eWhpQURB?oc=5)
 
 2026-09-26 <span class="news-indication-tag">cancer</span>
@@ -122,14 +138,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3
 
 ---
 
-### [DNA in blood signals cancer risk years ahead](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
-
-2026-09-25 <span class="news-indication-tag">cancer</span>
-
-Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
-
----
-
 ### [UCLA Health Receives $25 Million Grant to Advance AI-Centered Research for Alzheimer’s and Dementia Patients | Newswise](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQm9LNExDc0xYeDR2VTVOTllGUFJyQnZucHlzOHRKU2NPbG0zVXhaM3hOSERUNVpYd3R4OGtoUFh4QS1OdTEzbXRZMmVDd3N6WGY3bm9ISlF4U0Z4N1hTWGcxSHZBOE5KeWc0eVZWZUgtVXFFa0ZRbE40Qzg2ZXp1eVFBWVlPc3liWlFTemtXN3pHQ0ZyQVNKcEdZaTJ5ajlJd05FX0RZZ09XcTdnVDlHSVZSdzNpdkR1MmhFUE1ac0lTNUVpN3pZdFE1UzVab1dYVmdTQW52NDjSAdgBQVVfeXFMTkJvSzRMQ3NMWHg0dlU1Tk5ZRlBSckJ2bnB5czh0SlNjT2xtM1V4WjN4TkhEVDVaWHd0eDhraFBYeEEtTnUxM210WTJlQ3dzelhmN25vSEpReFNGeDdYU1hnMUh2QThOSnlnNHlWVmVILVVxRWtGUWxONEM4NmV6dXlRQVlZT3N5YlpRU3prVzd6R0NGckFTSnBHWWkyeWo5SXdORV9EWWdPV3E3Z1Q5R0lWUnczaXZEdTJoRVBNWnNJUzVFaTd6WXRRNVM1Wm9XWFZnU0FudjQ4?oc=5)
 
 2026-09-24 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
@@ -151,6 +159,14 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG
 2026-09-23 <span class="news-indication-tag">cancer</span>
 
 Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGVUJkLWZoX1V3cExpWmNHU2p3d2xDWkQ4eTJSdmxYU0VUMjFDVGxfVm4wd0tIeV9MV081OGxkLTRyV2Rhc2JqT3hDVERKQVhNaw?oc=5)
+
+---
+
+### [The Brain as Two Organs; Epstein-Barr and MS; Indigenous Bolivians and Dementia - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcktYZ3AyLWxFQ3pWYzR5dFExcDI4c0IzLWlOOUZMRUJwcE1BcnNZYVlEUW5HeHJvcmpSOTJrT3gxMnlnSW9LaG8wWm9CYXFkR19fd3BpdmxLMEw3cWtQbmlCS2UtWm9Na3dWRW8zVQ?oc=5)
+
+2026-09-22 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcktYZ3AyLWxFQ3pWYzR5dFExcDI4c0IzLWlOOUZMRUJwcE1BcnNZYVlEUW5HeHJvcmpSOTJrT3gxMnlnSW9LaG8wWm9CYXFkR19fd3BpdmxLMEw3cWtQbmlCS2UtWm9Na3dWRW8zVQ?oc=5)
 
 ---
 
