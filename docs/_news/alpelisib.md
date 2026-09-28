@@ -14,7 +14,7 @@ permalink: /news/alpelisib/
 ---
 
 <p class="key-answer" data-question="What news is there about Alpelisib?">
-<strong>Alpelisib</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Alpelisib</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [STATES, LOCAL BODIES ADVISED TO OBSERVE WORLD RABIES DAY ON 28TH SEPTEMBER](https://news.google.com/rss/articles/CBMiowFBVV95cUxQanJuakpRV2xMYU5fV2ZTdTBpWG0xQ080YlRJbmFqdXhtTlpxS2Q0SEZxMmYzMDhNNlpBWGpTWjhyS3laTUZYaHZQWHJfN0JUU1VLaG1OX1JiOVNjSkhDd0RMNEZ6NldHMXVoeDlqc0pzbUFmdWh3TjFpSU9oR0lUMEFlcVhLWFBCX0tCOThFelhGWnJQVjAxT3dfUVFDOWNnZEVj?oc=5)
+### [I’m a psychiatrist. This is the terrifying reality of postpartum psychosis](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0ktNUhVUWNhanVPV0p5aEh6QWdiLThvYkIwbjJJVUV6dS1hMmsyZWdKQ2k3OWdGOWtYYXlkU0pVMkdaenZkNXNxZjgzT0NfTThYT1lpUG13R0IzajI2ekJUQV9fQ0RvN056eklkX3ZuSnFlTUlvWEljbWNGRE5kX1ZkMW5RUXFXRU5QR3dYOW9WWFpsNUUtMThtZFJiNTF0?oc=5)
 
-2026-09-26 <span class="news-indication-tag">RA</span>
+2026-09-27 <span class="news-indication-tag">RA</span>
 
-Source: [Face2News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQanJuakpRV2xMYU5fV2ZTdTBpWG0xQ080YlRJbmFqdXhtTlpxS2Q0SEZxMmYzMDhNNlpBWGpTWjhyS3laTUZYaHZQWHJfN0JUU1VLaG1OX1JiOVNjSkhDd0RMNEZ6NldHMXVoeDlqc0pzbUFmdWh3TjFpSU9oR0lUMEFlcVhLWFBCX0tCOThFelhGWnJQVjAxT3dfUVFDOWNnZEVj?oc=5)
-
----
-
-### [Postpartum Depression: Doctors Explain Why A Mother Can Look Fine And Still Be Struggling : Dr. Pretty Duggar Gupta, Consultant – Psychiatrist, Aster Whitefield Hospital. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMinwJBVV95cUxONmNpUFc5cWFlWTlWanlEN0N4eGNZamZrNUk1NWQ5YjA1bzR6MEFWZWVUX3NXa3RzcmR2dmRPMElXdnRYSjYtd3Z2cHk1Y0M5c0F0VXRNaGQ3Z19wVWVUbERmd3hlbWxUSEpxLXdOWWlfOFpQc1hBYjRWR3JIR0NISlYzcktmMG5ESlVZeGdVSk9UN2FQNWoySkQtWmtnNkY1WGlTUVFtQVBGcUtzMWp1NklJc19wTjFzN05IM1JyTGQzVG1MdnhnMGJwNFVaSU5UbDZLdm1MNll2T2g2dkd5a3RGMzR1Y3J4X0tmLWNhYUlMb2d4eE1abVlSWEptSlBJdXlIb2R3b0I1UGxIN2UtMkpNN3BNV19HWlpLcWw3QQ?oc=5)
-
-2026-09-26 <span class="news-indication-tag">RA</span>
-
-Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMinwJBVV95cUxONmNpUFc5cWFlWTlWanlEN0N4eGNZamZrNUk1NWQ5YjA1bzR6MEFWZWVUX3NXa3RzcmR2dmRPMElXdnRYSjYtd3Z2cHk1Y0M5c0F0VXRNaGQ3Z19wVWVUbERmd3hlbWxUSEpxLXdOWWlfOFpQc1hBYjRWR3JIR0NISlYzcktmMG5ESlVZeGdVSk9UN2FQNWoySkQtWmtnNkY1WGlTUVFtQVBGcUtzMWp1NklJc19wTjFzN05IM1JyTGQzVG1MdnhnMGJwNFVaSU5UbDZLdm1MNll2T2g2dkd5a3RGMzR1Y3J4X0tmLWNhYUlMb2d4eE1abVlSWEptSlBJdXlIb2R3b0I1UGxIN2UtMkpNN3BNV19HWlpLcWw3QQ?oc=5)
+Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0ktNUhVUWNhanVPV0p5aEh6QWdiLThvYkIwbjJJVUV6dS1hMmsyZWdKQ2k3OWdGOWtYYXlkU0pVMkdaenZkNXNxZjgzT0NfTThYT1lpUG13R0IzajI2ekJUQV9fQ0RvN056eklkX3ZuSnFlTUlvWEljbWNGRE5kX1ZkMW5RUXFXRU5QR3dYOW9WWFpsNUUtMThtZFJiNTF0?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 5 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 3 articles, 8 related drugs."
 permalink: /news/memory-loss/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/memory-loss/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (3)
 
-### [What Happens to Your Brain When You Read, According to a New Study](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWFpvRWd1a0xMbzI2LVZmZVRiRkVEMTZGT3hKc3NGM3pBSlMySjEzOC1BTm1CZzBKQWNPejU3VEN3SEwzOHBCYTVabHJwWGNqT01YRmUxSXpGbzlZVnJaRllVOEs0cEc2NnRwZVFTQUVJUVphMkxqS2pITkNQUkRzNnVveUJoUXc?oc=5)
+### [New research may predict when Alzheimer’s symptoms begin](https://news.google.com/rss/articles/CBMilwFBVV95cUxOcktjdGdjMFNZS1Y0YkZnVEVieHJGNFJVUU5rR1Q4c01rZEN4aVhfeXF3TWZySm9HNHlETWczRlRjWFowWE5UZlY1TE9wLW1BN2ttLXJwRk10eTBNM0JheDZCZmtESTV0OXZmOFBuaE94bkNPWWowSlpnZ2VpeHJkSXdsQVV4akFqN3JWTFJKX19zTVI3MlJB0gGrAUFVX3lxTFBSQ180UlNoTjd0U2Y4UlFjWFZKeWVxZ0tpeHg4SjZ4RnJPTlpkbXNaVmc2dnNHLVhWM3J5SURmcDhMVm4xV1dCRDN6TE14N2NSWXdFLWZVejlTc3cwRXRENG1WTEVVUEowNXZZeEc1N0lWLTJOTzVrOExHeVJWd0wxN04xVGJjcFp5Y0FpdTBkT0preTFMaDlUbDFfZWhnaU5QWGRSalhKOXd0aw?oc=5)
 
 2026-09-27
 
-Source: [EatingWell](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWFpvRWd1a0xMbzI2LVZmZVRiRkVEMTZGT3hKc3NGM3pBSlMySjEzOC1BTm1CZzBKQWNPejU3VEN3SEwzOHBCYTVabHJwWGNqT01YRmUxSXpGbzlZVnJaRllVOEs0cEc2NnRwZVFTQUVJUVphMkxqS2pITkNQUkRzNnVveUJoUXc?oc=5)
+Source: [WDRB](https://news.google.com/rss/articles/CBMilwFBVV95cUxOcktjdGdjMFNZS1Y0YkZnVEVieHJGNFJVUU5rR1Q4c01rZEN4aVhfeXF3TWZySm9HNHlETWczRlRjWFowWE5UZlY1TE9wLW1BN2ttLXJwRk10eTBNM0JheDZCZmtESTV0OXZmOFBuaE94bkNPWWowSlpnZ2VpeHJkSXdsQVV4akFqN3JWTFJKX19zTVI3MlJB0gGrAUFVX3lxTFBSQ180UlNoTjd0U2Y4UlFjWFZKeWVxZ0tpeHg4SjZ4RnJPTlpkbXNaVmc2dnNHLVhWM3J5SURmcDhMVm4xV1dCRDN6TE14N2NSWXdFLWZVejlTc3cwRXRENG1WTEVVUEowNXZZeEc1N0lWLTJOTzVrOExHeVJWd0wxN04xVGJjcFp5Y0FpdTBkT0preTFMaDlUbDFfZWhnaU5QWGRSalhKOXd0aw?oc=5)
 
 ---
 
@@ -51,22 +51,6 @@ Source: [EatingWell](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWF
 2026-09-27
 
 Source: [ANI News](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1FMdmdhS29FRVlYbzhaRW1NXzNkVlc3Yk1kcC1kMWgtRVlnMGRiNEN6V1dDRk5SWml6T2dVanBEWFQ0WGIwOUd3d0xrSWFXYlo5Rk9IZ0QzeUk5R05pdGJwWTRyTFdpblJwOFFWOHVJVUdHRVFnZ3BHVmxLRVJUbkRvaW9DQTJOMFcwd2Nxcm5peEZsaUtNYXZTQ2M2NjRUZDFkTXRheXRsd240dlB4ZkRHM1hUZXBwY0hPb1k4TFJucEl0aTZBQWhIakZMa1RLdXgtM3IzNkItcGhXaVRvMnZxd1lLbVZaY3VtWDNsZE1zSzRUWTJoVnlxRXY?oc=5)
-
----
-
-### [FDA clears 2 new Alzheimer’s blood tests, including one for adults as young as 40](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW1xbXZ1Zl9jN21IeTNpWmZKMEk2NHNxVlhBZjBYcmtvU3h4enJtVW1ZQ05MblQwTFU4S0R2U1VKdHRrelpPN3dNbGpMcXpJZGRNSHZrMHhwRUJnaTc0dVd4Wm9QdXBPYmZUVUtQeGtXRjFtMUxZaUt5S0EyZXRZQ0ZCWFAxQVhac1RZZGRPUUlKaFV1VnFNb1g2MkIzamZPTWh2ei1uNjB5TTZPYXpZOUF6MTBhX0Z4SkxHT25WSDk?oc=5)
-
-2026-09-26
-
-Source: [MedicalNewsToday](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW1xbXZ1Zl9jN21IeTNpWmZKMEk2NHNxVlhBZjBYcmtvU3h4enJtVW1ZQ05MblQwTFU4S0R2U1VKdHRrelpPN3dNbGpMcXpJZGRNSHZrMHhwRUJnaTc0dVd4Wm9QdXBPYmZUVUtQeGtXRjFtMUxZaUt5S0EyZXRZQ0ZCWFAxQVhac1RZZGRPUUlKaFV1VnFNb1g2MkIzamZPTWh2ei1uNjB5TTZPYXpZOUF6MTBhX0Z4SkxHT25WSDk?oc=5)
-
----
-
-### [UCLA Health Receives $25 Million Grant to Advance AI-Centered Research for Alzheimer’s and Dementia Patients | Newswise](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQm9LNExDc0xYeDR2VTVOTllGUFJyQnZucHlzOHRKU2NPbG0zVXhaM3hOSERUNVpYd3R4OGtoUFh4QS1OdTEzbXRZMmVDd3N6WGY3bm9ISlF4U0Z4N1hTWGcxSHZBOE5KeWc0eVZWZUgtVXFFa0ZRbE40Qzg2ZXp1eVFBWVlPc3liWlFTemtXN3pHQ0ZyQVNKcEdZaTJ5ajlJd05FX0RZZ09XcTdnVDlHSVZSdzNpdkR1MmhFUE1ac0lTNUVpN3pZdFE1UzVab1dYVmdTQW52NDjSAdgBQVVfeXFMTkJvSzRMQ3NMWHg0dlU1Tk5ZRlBSckJ2bnB5czh0SlNjT2xtM1V4WjN4TkhEVDVaWHd0eDhraFBYeEEtTnUxM210WTJlQ3dzelhmN25vSEpReFNGeDdYU1hnMUh2QThOSnlnNHlWVmVILVVxRWtGUWxONEM4NmV6dXlRQVlZT3N5YlpRU3prVzd6R0NGckFTSnBHWWkyeWo5SXdORV9EWWdPV3E3Z1Q5R0lWUnczaXZEdTJoRVBNWnNJUzVFaTd6WXRRNVM1Wm9XWFZnU0FudjQ4?oc=5)
-
-2026-09-24
-
-Source: [Newswise](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQm9LNExDc0xYeDR2VTVOTllGUFJyQnZucHlzOHRKU2NPbG0zVXhaM3hOSERUNVpYd3R4OGtoUFh4QS1OdTEzbXRZMmVDd3N6WGY3bm9ISlF4U0Z4N1hTWGcxSHZBOE5KeWc0eVZWZUgtVXFFa0ZRbE40Qzg2ZXp1eVFBWVlPc3liWlFTemtXN3pHQ0ZyQVNKcEdZaTJ5ajlJd05FX0RZZ09XcTdnVDlHSVZSdzNpdkR1MmhFUE1ac0lTNUVpN3pZdFE1UzVab1dYVmdTQW52NDjSAdgBQVVfeXFMTkJvSzRMQ3NMWHg0dlU1Tk5ZRlBSckJ2bnB5czh0SlNjT2xtM1V4WjN4TkhEVDVaWHd0eDhraFBYeEEtTnUxM210WTJlQ3dzelhmN25vSEpReFNGeDdYU1hnMUh2QThOSnlnNHlWVmVILVVxRWtGUWxONEM4NmV6dXlRQVlZT3N5YlpRU3prVzd6R0NGckFTSnBHWWkyeWo5SXdORV9EWWdPV3E3Z1Q5R0lWUnczaXZEdTJoRVBNWnNJUzVFaTd6WXRRNVM1Wm9XWFZnU0FudjQ4?oc=5)
 
 ---
 
