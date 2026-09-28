@@ -3,7 +3,7 @@ layout: default
 title: "Plerixafor News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Plerixafor. Original indication: . 0 predicted indications."
+description: "Health news related to Plerixafor. Original indication: . 7 predicted indications."
 permalink: /news/plerixafor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/plerixafor/
 ---
 
 <p class="key-answer" data-question="What news is there about Plerixafor?">
-<strong>Plerixafor</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Plerixafor</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,15 @@ This page combines the AI-predicted indications for Plerixafor with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>indolent plasma cell myeloma (100.0%)</li>
+<li>CMM7 (99.3%)</li>
+<li>pediatric leptomeningeal melanoma (99.3%)</li>
+<li>epithelioid cell uveal melanoma (99.3%)</li>
+<li>bronchitis (99.2%)</li>
+<li>vulvar melanoma (disease) (99.2%)</li>
+<li>myeloid leukemia (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/plerixafor/' | relative_url }}">View full drug report →</a></p>
 </div>

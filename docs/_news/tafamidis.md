@@ -3,7 +3,7 @@ layout: default
 title: "Tafamidis News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tafamidis. Original indication: . 0 predicted indications."
+description: "Health news related to Tafamidis. Original indication: . 10 predicted indications."
 permalink: /news/tafamidis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tafamidis/
 ---
 
 <p class="key-answer" data-question="What news is there about Tafamidis?">
-<strong>Tafamidis</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Tafamidis</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Tafamidis with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>primary release disorder of platelets (89.3%)</li>
+<li>thrombocytopenic purpura (88.7%)</li>
+<li>pseudo-von Willebrand disease (87.9%)</li>
+<li>Glanzmann thrombasthenia (85.8%)</li>
+<li>primary amyloidosis (85.0%)</li>
+<li>acquired amyloid peripheral neuropathy (84.8%)</li>
+<li>primary hyperoxaluria (84.3%)</li>
+<li>dermis disease (83.4%)</li>
+<li>biotin metabolic disease (83.3%)</li>
+<li>mixed-type autoimmune hemolytic anemia (82.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tafamidis/' | relative_url }}">View full drug report →</a></p>
 </div>

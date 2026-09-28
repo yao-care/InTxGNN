@@ -3,7 +3,7 @@ layout: default
 title: "Polyethylene Glycol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Polyethylene Glycol. Original indication: . 0 predicted indications."
+description: "Health news related to Polyethylene Glycol. Original indication: . 1 predicted indications."
 permalink: /news/polyethylene_glycol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/polyethylene_glycol/
 ---
 
 <p class="key-answer" data-question="What news is there about Polyethylene Glycol?">
-<strong>Polyethylene Glycol</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Polyethylene Glycol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,9 @@ This page combines the AI-predicted indications for Polyethylene Glycol with the
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>congenital ichthyosiform erythroderma (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/polyethylene_glycol/' | relative_url }}">View full drug report →</a></p>
 </div>

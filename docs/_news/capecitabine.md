@@ -3,7 +3,7 @@ layout: default
 title: "Capecitabine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Capecitabine. Original indication: . 0 predicted indications."
+description: "Health news related to Capecitabine. Original indication: . 10 predicted indications."
 permalink: /news/capecitabine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/capecitabine/
 ---
 
 <p class="key-answer" data-question="What news is there about Capecitabine?">
-<strong>Capecitabine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Capecitabine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Capecitabine with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>gastric adenocarcinoma and proximal polyposis of the stomach (99.9%)</li>
+<li>gastric tubular adenocarcinoma (99.9%)</li>
+<li>microinvasive gastric cancer (99.9%)</li>
+<li>signet ring cell gastric adenocarcinoma (99.9%)</li>
+<li>gastric cardia adenocarcinoma (99.9%)</li>
+<li>gastric pylorus carcinoma (99.9%)</li>
+<li>carcinoma of stomach, salivary gland type (99.9%)</li>
+<li>gastric body carcinoma (99.9%)</li>
+<li>Epstein-Barr virus-associated gastric carcinoma (99.9%)</li>
+<li>malignant gastric granular cell tumor (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/capecitabine/' | relative_url }}">View full drug report →</a></p>
 </div>

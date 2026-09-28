@@ -25,16 +25,16 @@ This page combines the AI-predicted indications for Mebendazole with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Acne (disease) | 99.2% | L5 | None — graph proximity artifact, no biological basis | Hold (99.0%)</li>
-<li>Leishmaniasis, diffuse cutaneous | 98.4% | L5 | Weak indirect (Leishmania carries β-tubulin but structural differences limit applicability) | Hold (99.0%)</li>
-<li>Echinococcus granulosus infectious disease | 95.6% | L3 | **Direct** — established benzimidazole anti-tubulin mechanism | Proceed with Guardrails (99.0%)</li>
-<li>Hordeolum | 94.9% | L5 | None — staphylococcal eyelid infection, bacterial etiology unrelated | Hold (99.0%)</li>
-<li>**Alveolar echinococcosis** | **94.2%** | **L3** | **Direct** — established benzimidazole anti-tubulin mechanism | **Proceed with Guardrails** (99.0%)</li>
-<li>Inhalational botulism | 93.8% | L5 | None — neurotoxin-mediated mechanism has no connection to anthelmintics | Hold (99.0%)</li>
-<li>Toxin-mediated infectious botulism | 93.5% | L5 | None — same neurotoxin rationale as above | Hold (99.0%)</li>
-<li>Impetigo | 93.2% | L5 | None — gram-positive bacterial skin infection unrelated | Hold (99.0%)</li>
-<li>Sorsby's fundus dystrophy | 93.1% | L5 | None — TIMP3 genetic retinal disease has no pharmacological connection | Hold (99.0%)</li>
-<li>Demodicidosis of sebaceous gland | 93.0% | L5 | Weak indirect (*Demodex* is an arthropod with tubulin, but standard treatments are ivermectin/permethrin) | Hold (99.0%)</li>
+<li>acne (disease) (99.2%)</li>
+<li>leishmaniasis, diffuse cutaneous (98.4%)</li>
+<li>echinococcus granulosus infectious disease (95.6%)</li>
+<li>hordeolum (94.9%)</li>
+<li>alveolar echinococcosis (94.2%)</li>
+<li>inhalational botulism (93.8%)</li>
+<li>toxin-mediated infectious botulism (93.5%)</li>
+<li>impetigo (93.2%)</li>
+<li>Sorsby's fundus dystrophy (93.1%)</li>
+<li>demodicidosis of sebaceous gland (93.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mebendazole/' | relative_url }}">View full drug report →</a></p>

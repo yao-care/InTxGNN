@@ -25,9 +25,9 @@ This page combines the AI-predicted indications for Parnaparin with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (3)</strong>:<ul>
-<li>Breast Fibrocystic Disease | 99.21% | L5 | S0 | Hold (99.0%)</li>
-<li>Thrombophilia due to Protein C Deficiency (AR) | 99.11% | L4 | S1 | Research Question (99.0%)</li>
-<li>Benign Mammary Dysplasia | 99.03% | L5 | S0 | Hold (99.0%)</li>
+<li>breast fibrocystic disease (99.2%)</li>
+<li>thrombophilia due to protein C deficiency, autosomal recessive (99.1%)</li>
+<li>benign mammary dysplasia (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/parnaparin/' | relative_url }}">View full drug report →</a></p>

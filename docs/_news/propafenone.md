@@ -3,7 +3,7 @@ layout: default
 title: "Propafenone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Propafenone. Original indication: . 6 predicted indications."
+description: "Health news related to Propafenone. Original indication: . 8 predicted indications."
 permalink: /news/propafenone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/propafenone/
 ---
 
 <p class="key-answer" data-question="What news is there about Propafenone?">
-<strong>Propafenone</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
+<strong>Propafenone</strong> currently has <strong>3 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,25 +24,43 @@ This page combines the AI-predicted indications for Propafenone with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>Periodic paralysis with transient compartment-like syndrome | 99.67% | Weak — analogy to mexiletine's use in Nav1.4-related periodic paralysis; no direct evidence (99.0%)</li>
-<li>Prinzmetal angina | 99.45% | Weak — pathology is coronary vasospasm; propafenone has no known antispasmodic action and carries proarrhythmic risk in ischemic disease (99.0%)</li>
-<li>Incessant infant ventricular tachycardia | 99.44% | Moderate — Class Ic agents have off-label pediatric use for refractory VT, but no supporting data here (99.0%)</li>
-<li>Arrhythmogenic right ventricular cardiomyopathy | 99.42% | Moderate — consistent with clinical practice of using Class Ic agents adjunctively in ARVC, but unsupported in this pack (99.0%)</li>
-<li>Nephrogenic syndrome of inappropriate antidiuresis | 99.23% | Very weak — driven by AVPR2 signaling, unrelated to cardiac sodium-channel pharmacology; likely embedding-space artifact (99.0%)</li>
-<li>Trichotillomania | 99.17% | Very weak — no plausible mechanistic overlap; likely prediction noise (99.0%)</li>
+<li><strong>Predicted indications (8)</strong>:<ul>
+<li>manic bipolar affective disorder (99.8%)</li>
+<li>catecholaminergic polymorphic ventricular tachycardia (99.8%)</li>
+<li>periodic paralysis with transient compartment-like syndrome (99.7%)</li>
+<li>Prinzmetal angina (99.5%)</li>
+<li>incessant infant ventricular tachycardia (99.4%)</li>
+<li>arrhythmogenic right ventricular cardiomyopathy (99.4%)</li>
+<li>nephrogenic syndrome of inappropriate antidiuresis (99.2%)</li>
+<li>trichotillomania (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/propafenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
 
-### [Eating at Odd Hours on Weekends? The Hidden Heart Risk You Didn’t Expect - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMk9mV3JsLXg4Mlc4RGtvVTJ4eDZlREtWWmNMT2NfZkdrV0ozNnFIQ3ZxdjBvTkY1VEMzckZDdUszb0tZMVFrUkdiMmJNZFNKSlBnM2MzR0dDMGRFdWd2S0dtTTA5SFFxYXRyR2ZQSlJ0a1VRYndOM095bGtLWEs0QzZ2QzljNGlYSW5hUnRINmx2bEhtUV92MzVNNjNwSTB6LVJMakRMNXVPaXhXTHJnLWZR?oc=5)
+### [Conference MDAngle: HFSA 2026 Amyloidosis/ATTR-CM](https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXJkMldaM0s0TjJJYVBEY0JuSklXSHNWNkpIVEhVRGlzV2c0N3F4RXFheFVDdFdDN2NfSXpQRTMzU2VFWDJwY3JNQVBEV0JvR1g1WmpGRHRXeWRySndMMDFrV1dsZENCN1pMbV8tcms1RHRTeDVIczhyQk9pd3IyYkpFaFd0ME5pWl9GV2k2QTNXdldSQ0JETFN2c0ZSbkVPcXV3?oc=5)
 
-2026-09-27 <span class="news-indication-tag">heart disease</span>
+2026-09-28 <span class="news-indication-tag">heart disease</span>
 
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMk9mV3JsLXg4Mlc4RGtvVTJ4eDZlREtWWmNMT2NfZkdrV0ozNnFIQ3ZxdjBvTkY1VEMzckZDdUszb0tZMVFrUkdiMmJNZFNKSlBnM2MzR0dDMGRFdWd2S0dtTTA5SFFxYXRyR2ZQSlJ0a1VRYndOM095bGtLWEs0QzZ2QzljNGlYSW5hUnRINmx2bEhtUV92MzVNNjNwSTB6LVJMakRMNXVPaXhXTHJnLWZR?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXJkMldaM0s0TjJJYVBEY0JuSklXSHNWNkpIVEhVRGlzV2c0N3F4RXFheFVDdFdDN2NfSXpQRTMzU2VFWDJwY3JNQVBEV0JvR1g1WmpGRHRXeWRySndMMDFrV1dsZENCN1pMbV8tcms1RHRTeDVIczhyQk9pd3IyYkpFaFd0ME5pWl9GV2k2QTNXdldSQ0JETFN2c0ZSbkVPcXV3?oc=5)
+
+---
+
+### [The next phase of cardiac care is rehabilitation at home](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZURkVVpMNFY5VWp5MUwxZDczUnprLWNtT2JzeHZGVmFkdW9UbjJqZFBTdTh5bFROaXQxWWh1cUhWajRzVEEtSmNnVFJWeEhRSXptbE5zQW1XemVRLTdnX0J2MjNxMlRrdGRucDZwbkd5UGp4T0U2RVc4UF9vUWlXbHNfdmFOWnB4ZUJEVFZTMGNQMjg4Zi1fMEg4RkoyYmxKUXFCeQ?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [expresshealthcare.in](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZURkVVpMNFY5VWp5MUwxZDczUnprLWNtT2JzeHZGVmFkdW9UbjJqZFBTdTh5bFROaXQxWWh1cUhWajRzVEEtSmNnVFJWeEhRSXptbE5zQW1XemVRLTdnX0J2MjNxMlRrdGRucDZwbkd5UGp4T0U2RVc4UF9vUWlXbHNfdmFOWnB4ZUJEVFZTMGNQMjg4Zi1fMEg4RkoyYmxKUXFCeQ?oc=5)
+
+---
+
+### [Physical decline may precede major cardiovascular events by a decade: study](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BcEg1YkR0TXV6YllZXzhPTDNWRnllQ1FQUVc1dWJEQXJOUERPRUE0N2o4X2RteWZRQ2tQOEtyUmtsSHZaSUJKZm9kemN1M2FtcE1OLW9yT21xaVV5bEFuUzgwZ0c2SWR2VkhoT09xNVBES1d5NzgzRXhMT1U?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [Xinhua](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BcEg1YkR0TXV6YllZXzhPTDNWRnllQ1FQUVc1dWJEQXJOUERPRUE0N2o4X2RteWZRQ2tQOEtyUmtsSHZaSUJKZm9kemN1M2FtcE1OLW9yT21xaVV5bEFuUzgwZ0c2SWR2VkhoT09xNVBES1d5NzgzRXhMT1U?oc=5)
 
 ---
 

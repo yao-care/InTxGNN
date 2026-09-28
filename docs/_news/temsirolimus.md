@@ -3,7 +3,7 @@ layout: default
 title: "Temsirolimus News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Temsirolimus. Original indication: . 0 predicted indications."
+description: "Health news related to Temsirolimus. Original indication: . 3 predicted indications."
 permalink: /news/temsirolimus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/temsirolimus/
 ---
 
 <p class="key-answer" data-question="What news is there about Temsirolimus?">
-<strong>Temsirolimus</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Temsirolimus</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ This page combines the AI-predicted indications for Temsirolimus with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>liposarcoma (99.5%)</li>
+<li>ovarian myxoid liposarcoma (99.5%)</li>
+<li>vulva sarcoma (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/temsirolimus/' | relative_url }}">View full drug report →</a></p>
 </div>

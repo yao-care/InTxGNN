@@ -3,7 +3,7 @@ layout: default
 title: "Imipenem News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Imipenem. Original indication: . 0 predicted indications."
+description: "Health news related to Imipenem. Original indication: . 10 predicted indications."
 permalink: /news/imipenem/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/imipenem/
 ---
 
 <p class="key-answer" data-question="What news is there about Imipenem?">
-<strong>Imipenem</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Imipenem</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Imipenem with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>diffuse scleroderma (100.0%)</li>
+<li>paratyphoid fever (100.0%)</li>
+<li>salmonellosis (100.0%)</li>
+<li>sinusitis (100.0%)</li>
+<li>chronic rhinosinusitis (100.0%)</li>
+<li>typhoid fever (100.0%)</li>
+<li>chronic ethmoidal sinusitis (100.0%)</li>
+<li>paranasal sinus neoplasm (disease) (100.0%)</li>
+<li>staphylococcus aureus infection (100.0%)</li>
+<li>eosinophilia-myalgia syndrome (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/imipenem/' | relative_url }}">View full drug report →</a></p>
 </div>

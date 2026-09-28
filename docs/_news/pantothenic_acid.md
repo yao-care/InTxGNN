@@ -3,7 +3,7 @@ layout: default
 title: "Pantothenic Acid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pantothenic Acid. Original indication: . 0 predicted indications."
+description: "Health news related to Pantothenic Acid. Original indication: . 9 predicted indications."
 permalink: /news/pantothenic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pantothenic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Pantothenic Acid?">
-<strong>Pantothenic Acid</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pantothenic Acid</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,17 @@ This page combines the AI-predicted indications for Pantothenic Acid with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>congenital prothrombin deficiency (100.0%)</li>
+<li>ochronosis disorder (99.8%)</li>
+<li>glycerol metabolism disease (99.8%)</li>
+<li>folic acid deficiency anemia (99.6%)</li>
+<li>uterine inflammatory disease (99.1%)</li>
+<li>xanthogranulomatous pyelonephritis (99.1%)</li>
+<li>urinary tract infection (disease) (99.1%)</li>
+<li>gonococcal urethritis (99.1%)</li>
+<li>Ureaplasma urethritis (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pantothenic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>

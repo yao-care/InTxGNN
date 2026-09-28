@@ -3,7 +3,7 @@ layout: default
 title: "Fluvoxamine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fluvoxamine. Original indication: . 0 predicted indications."
+description: "Health news related to Fluvoxamine. Original indication: . 10 predicted indications."
 permalink: /news/fluvoxamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluvoxamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluvoxamine?">
-<strong>Fluvoxamine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Fluvoxamine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Fluvoxamine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>schizotypal personality disorder (100.0%)</li>
+<li>schizoid personality disorder (100.0%)</li>
+<li>paranoid personality disorder (100.0%)</li>
+<li>histrionic personality disorder (disease) (100.0%)</li>
+<li>anxiety disorder (100.0%)</li>
+<li>agoraphobia (100.0%)</li>
+<li>benign paroxysmal torticollis of infancy (100.0%)</li>
+<li>dependent personality disorder (99.9%)</li>
+<li>narcissistic personality disorder (99.9%)</li>
+<li>endogenous depression (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluvoxamine/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Pregabalin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pregabalin. Original indication: . 5 predicted indications."
+description: "Health news related to Pregabalin. Original indication: . 6 predicted indications."
 permalink: /news/pregabalin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Tendinitis | 99.71% | L4 | S1 | Research Question (99.0%)</li>
-<li>Myositis fibrosa | 99.71% | L5 | S0 | Hold (99.0%)</li>
-<li>Idiopathic granulomatous myositis | 99.71% | L5 | S0 | Hold (99.0%)</li>
-<li>Inclusion body myositis | 99.52% | L5 | S0 | Hold (99.0%)</li>
-<li>Migraine with brainstem aura | 99.43% | L4 | S1 | Research Question (99.0%)</li>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>tendinitis (99.7%)</li>
+<li>myositis fibrosa (99.7%)</li>
+<li>idiopathic granulomatous myositis (99.7%)</li>
+<li>inclusion body myositis (99.5%)</li>
+<li>migraine disorder (99.5%)</li>
+<li>migraine with brainstem aura (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>

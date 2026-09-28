@@ -3,7 +3,7 @@ layout: default
 title: "Olopatadine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Olopatadine. Original indication: . 0 predicted indications."
+description: "Health news related to Olopatadine. Original indication: . 1 predicted indications."
 permalink: /news/olopatadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/olopatadine/
 ---
 
 <p class="key-answer" data-question="What news is there about Olopatadine?">
-<strong>Olopatadine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Olopatadine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,9 @@ This page combines the AI-predicted indications for Olopatadine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>rosacea conjunctivitis (99.4%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/olopatadine/' | relative_url }}">View full drug report →</a></p>
 </div>

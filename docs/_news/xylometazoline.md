@@ -3,7 +3,7 @@ layout: default
 title: "Xylometazoline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Xylometazoline. Original indication: . 0 predicted indications."
+description: "Health news related to Xylometazoline. Original indication: . 2 predicted indications."
 permalink: /news/xylometazoline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/xylometazoline/
 ---
 
 <p class="key-answer" data-question="What news is there about Xylometazoline?">
-<strong>Xylometazoline</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Xylometazoline</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Xylometazoline with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>nasal cavity disease (99.9%)</li>
+<li>acute laryngopharyngitis (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/xylometazoline/' | relative_url }}">View full drug report →</a></p>
 </div>

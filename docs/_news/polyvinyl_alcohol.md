@@ -3,7 +3,7 @@ layout: default
 title: "Polyvinyl Alcohol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Polyvinyl Alcohol. Original indication: . 0 predicted indications."
+description: "Health news related to Polyvinyl Alcohol. Original indication: . 4 predicted indications."
 permalink: /news/polyvinyl_alcohol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/polyvinyl_alcohol/
 ---
 
 <p class="key-answer" data-question="What news is there about Polyvinyl Alcohol?">
-<strong>Polyvinyl Alcohol</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Polyvinyl Alcohol</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,12 @@ This page combines the AI-predicted indications for Polyvinyl Alcohol with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>congenital ichthyosiform erythroderma (99.9%)</li>
+<li>self-healing collodion baby (99.8%)</li>
+<li>lamellar ichthyosis (99.7%)</li>
+<li>bathing suit ichthyosis (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/polyvinyl_alcohol/' | relative_url }}">View full drug report →</a></p>
 </div>

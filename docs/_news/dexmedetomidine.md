@@ -3,7 +3,7 @@ layout: default
 title: "Dexmedetomidine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dexmedetomidine. Original indication: . 4 predicted indications."
+description: "Health news related to Dexmedetomidine. Original indication: . 5 predicted indications."
 permalink: /news/dexmedetomidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexmedetomidine?">
-<strong>Dexmedetomidine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Dexmedetomidine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,12 @@ This page combines the AI-predicted indications for Dexmedetomidine with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD) | 99.60% | L5 | Hold (99.0%)</li>
-<li>Migraine Disorder | 99.49% | L4 | Research Question (99.0%)</li>
-<li>Migraine with Brainstem Aura | 99.35% | L5 | Hold (99.0%)</li>
-<li>Trigeminal Autonomic Cephalalgia | 99.09% | L5 | Hold (99.0%)</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>nephrogenic syndrome of inappropriate antidiuresis (99.6%)</li>
+<li>migraine disorder (99.5%)</li>
+<li>migraine with brainstem aura (99.3%)</li>
+<li>headache disorder (99.3%)</li>
+<li>trigeminal autonomic cephalalgia (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexmedetomidine/' | relative_url }}">View full drug report →</a></p>

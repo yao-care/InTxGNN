@@ -3,7 +3,7 @@ layout: default
 title: "Imidapril News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Imidapril. Original indication: . 0 predicted indications."
+description: "Health news related to Imidapril. Original indication: . 5 predicted indications."
 permalink: /news/imidapril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/imidapril/
 ---
 
 <p class="key-answer" data-question="What news is there about Imidapril?">
-<strong>Imidapril</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Imidapril</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,13 @@ This page combines the AI-predicted indications for Imidapril with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>pulmonary hypertension with unclear multifactorial mechanism (99.8%)</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.8%)</li>
+<li>malignant hypertensive renal disease (99.8%)</li>
+<li>malignant renovascular hypertension (99.8%)</li>
+<li>Braddock syndrome (99.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/imidapril/' | relative_url }}">View full drug report →</a></p>
 </div>

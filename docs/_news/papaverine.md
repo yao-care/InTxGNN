@@ -3,7 +3,7 @@ layout: default
 title: "Papaverine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Papaverine. Original indication: . 0 predicted indications."
+description: "Health news related to Papaverine. Original indication: . 10 predicted indications."
 permalink: /news/papaverine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/papaverine/
 ---
 
 <p class="key-answer" data-question="What news is there about Papaverine?">
-<strong>Papaverine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Papaverine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Papaverine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>ischemic disease (99.9%)</li>
+<li>intracranial arteriosclerosis (99.9%)</li>
+<li>non-inflammatory vasculopathy (99.8%)</li>
+<li>vascular ectasia (99.8%)</li>
+<li>fibrocartilaginous embolism (99.8%)</li>
+<li>venous thromboembolism (99.8%)</li>
+<li>vascular insufficiency disorder (99.8%)</li>
+<li>angiodysplasia (99.8%)</li>
+<li>Raynaud disease (99.8%)</li>
+<li>Monckeberg arteriosclerosis (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/papaverine/' | relative_url }}">View full drug report →</a></p>
 </div>

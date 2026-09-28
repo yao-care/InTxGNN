@@ -3,7 +3,7 @@ layout: default
 title: "Triamcinolone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Triamcinolone. Original indication: . 9 predicted indications."
+description: "Health news related to Triamcinolone. Original indication: . 10 predicted indications."
 permalink: /news/triamcinolone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/triamcinolone/
 ---
 
 <p class="key-answer" data-question="What news is there about Triamcinolone?">
-<strong>Triamcinolone</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Triamcinolone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,16 +24,17 @@ This page combines the AI-predicted indications for Triamcinolone with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Alopecia mucinosa | 99.99% | pending | pending | 待評估（4篇文獻，均為病例報告層級） (99.0%)</li>
-<li>Telogen effluvium | 99.99% | L5 | S0 | Hold（非發炎主導病理，機轉關聯薄弱） (99.0%)</li>
-<li>Quinquaud's folliculitis decalvans | 99.99% | L4 | S1 | Research Question（機轉合理但文獻未直接對應 triamcinolone） (99.0%)</li>
-<li>Alopecia antibody deficiency | 99.99% | L5 | S0 | Hold（無文獻／試驗支持） (99.0%)</li>
-<li>Hereditary hypotrichosis with recurrent skin vesicles | 99.99% | L5 | S0 | Hold（單基因疾病，機轉不相關） (99.0%)</li>
-<li>Alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome | 99.99% | L5 | S0 | Hold（罕見症候群，無證據） (99.0%)</li>
-<li>Atrichia with papular lesions | 99.96% | L5 | S0 | Hold（角質分化異常，非發炎驅動） (99.0%)</li>
-<li>Alopecia universalis onychodystrophy vitiligo | 99.75% | L5 | S0 | Hold（無文獻／試驗支持） (99.0%)</li>
-<li>Sporadic idiopathic steroid-**resistant** nephrotic syndrome | 99.74% | L5 | S0 | Hold（**機轉矛盾**：定義即為對類固醇無反應，與 triamcinolone 作用機轉相悖） (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>alopecia mucinosa (100.0%)</li>
+<li>telogen effluvium (100.0%)</li>
+<li>Quinquaud's folliculitis decalvans (100.0%)</li>
+<li>alopecia antibody deficiency (100.0%)</li>
+<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
+<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
+<li>atrichia with papular lesions (100.0%)</li>
+<li>idiopathic steroid-sensitive nephrotic syndrome (99.8%)</li>
+<li>alopecia universalis onychodystrophy vitiligo (99.8%)</li>
+<li>sporadic idiopathic steroid-resistant nephrotic syndrome (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/triamcinolone/' | relative_url }}">View full drug report →</a></p>

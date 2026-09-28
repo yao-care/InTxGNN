@@ -3,7 +3,7 @@ layout: default
 title: "Rivaroxaban News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rivaroxaban. Original indication: . 0 predicted indications."
+description: "Health news related to Rivaroxaban. Original indication: . 4 predicted indications."
 permalink: /news/rivaroxaban/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rivaroxaban/
 ---
 
 <p class="key-answer" data-question="What news is there about Rivaroxaban?">
-<strong>Rivaroxaban</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Rivaroxaban</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,12 @@ This page combines the AI-predicted indications for Rivaroxaban with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>rheumatoid arthritis (99.6%)</li>
+<li>gout (99.5%)</li>
+<li>HIV infectious disease (99.2%)</li>
+<li>brachydactyly-syndactyly syndrome (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/rivaroxaban/' | relative_url }}">View full drug report →</a></p>
 </div>

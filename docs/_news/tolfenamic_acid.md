@@ -3,7 +3,7 @@ layout: default
 title: "Tolfenamic Acid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tolfenamic Acid. Original indication: . 0 predicted indications."
+description: "Health news related to Tolfenamic Acid. Original indication: . 10 predicted indications."
 permalink: /news/tolfenamic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tolfenamic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Tolfenamic Acid?">
-<strong>Tolfenamic Acid</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Tolfenamic Acid</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Tolfenamic Acid with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>headache disorder (99.7%)</li>
+<li>tendinitis (99.7%)</li>
+<li>rheumatoid arthritis (99.7%)</li>
+<li>trigeminal autonomic cephalalgia (99.7%)</li>
+<li>idiopathic granulomatous myositis (99.7%)</li>
+<li>myositis fibrosa (99.7%)</li>
+<li>fibromyalgia (99.7%)</li>
+<li>exostosis (99.6%)</li>
+<li>inclusion body myositis (99.5%)</li>
+<li>osteoarthritis susceptibility (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tolfenamic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>

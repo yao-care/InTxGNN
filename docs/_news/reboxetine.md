@@ -25,16 +25,16 @@ This page combines the AI-predicted indications for Reboxetine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Benign paroxysmal torticollis of infancy | 99.92% | L5 | Hold – no mechanistic link (99.0%)</li>
-<li>Agoraphobia | 99.91% | L3 | Research Question (99.0%)</li>
-<li>**Dysthymic disorder** | 99.87% | **L2** | Research Question (99.0%)</li>
-<li>Ohdo syndrome and variants | 99.76% | L5 | Hold – no mechanistic link (99.0%)</li>
-<li>Melancholia | 99.74% | L2 | Research Question (efficacy controversial) (99.0%)</li>
-<li>Neurotic depression | 99.74% | L2 | Research Question (overlaps with #5) (99.0%)</li>
-<li>Blepharophimosis–intellectual disability syndrome, Ohdo type | 99.70% | L5 | Hold – no mechanistic link (99.0%)</li>
-<li>Neurotic disorder | 99.66% | L5 | Hold – no evidence (99.0%)</li>
-<li>Keppen-Lubinsky syndrome | 99.54% | L5 | Hold – no mechanistic link (99.0%)</li>
-<li>Ligneous conjunctivitis | 99.40% | L5 | Hold – no mechanistic link (99.0%)</li>
+<li>benign paroxysmal torticollis of infancy (99.9%)</li>
+<li>agoraphobia (99.9%)</li>
+<li>dysthymic disorder (99.9%)</li>
+<li>Ohdo syndrome and variants (99.8%)</li>
+<li>melancholia (99.7%)</li>
+<li>neurotic depression (99.7%)</li>
+<li>blepharophimosis - intellectual disability syndrome, Ohdo type (99.7%)</li>
+<li>neurotic disorder (99.7%)</li>
+<li>Keppen-Lubinsky syndrome (99.5%)</li>
+<li>ligneous conjunctivitis (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/reboxetine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Olanzapine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Olanzapine. Original indication: . 0 predicted indications."
+description: "Health news related to Olanzapine. Original indication: . 3 predicted indications."
 permalink: /news/olanzapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/olanzapine/
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>benign paroxysmal torticollis of infancy (99.5%)</li>
+<li>agoraphobia (99.5%)</li>
+<li>dysthymic disorder (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>

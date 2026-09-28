@@ -3,7 +3,7 @@ layout: default
 title: "Glatiramer News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Glatiramer. Original indication: . 0 predicted indications."
+description: "Health news related to Glatiramer. Original indication: . 10 predicted indications."
 permalink: /news/glatiramer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glatiramer/
 ---
 
 <p class="key-answer" data-question="What news is there about Glatiramer?">
-<strong>Glatiramer</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Glatiramer</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Glatiramer with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>hemoglobinopathy (99.0%)</li>
+<li>plasma cell myeloma (98.9%)</li>
+<li>female breast carcinoma (98.8%)</li>
+<li>partial deletion of the short arm of chromosome 16 (98.7%)</li>
+<li>beta-thalassemia with other manifestations (98.7%)</li>
+<li>indolent plasma cell myeloma (98.6%)</li>
+<li>gastric linitis plastica (98.6%)</li>
+<li>hemolytic anemia due to glucophosphate isomerase deficiency (98.5%)</li>
+<li>pyropoikilocytosis, hereditary (98.5%)</li>
+<li>pyruvate kinase deficiency of red cells (98.4%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/glatiramer/' | relative_url }}">View full drug report →</a></p>
 </div>

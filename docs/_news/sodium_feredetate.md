@@ -3,7 +3,7 @@ layout: default
 title: "Sodium Feredetate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sodium Feredetate. Original indication: . 0 predicted indications."
+description: "Health news related to Sodium Feredetate. Original indication: . 10 predicted indications."
 permalink: /news/sodium_feredetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sodium_feredetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Sodium Feredetate?">
-<strong>Sodium Feredetate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Sodium Feredetate</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Sodium Feredetate with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>bronchitis (97.5%)</li>
+<li>bronchial neoplasm (disease) (92.7%)</li>
+<li>gastroduodenitis (92.5%)</li>
+<li>peptic ulcer disease (91.8%)</li>
+<li>heparin cofactor 2 deficiency (90.1%)</li>
+<li>antithrombin deficiency type 2 (89.9%)</li>
+<li>factor 5 excess with spontaneous thrombosis (89.9%)</li>
+<li>severe nonproliferative diabetic retinopathy (88.9%)</li>
+<li>Chagas cardiomyopathy (88.3%)</li>
+<li>infective urethral stricture (88.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/sodium_feredetate/' | relative_url }}">View full drug report →</a></p>
 </div>

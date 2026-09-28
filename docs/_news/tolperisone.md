@@ -3,7 +3,7 @@ layout: default
 title: "Tolperisone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tolperisone. Original indication: . 0 predicted indications."
+description: "Health news related to Tolperisone. Original indication: . 10 predicted indications."
 permalink: /news/tolperisone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tolperisone/
 ---
 
 <p class="key-answer" data-question="What news is there about Tolperisone?">
-<strong>Tolperisone</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Tolperisone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Tolperisone with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Laubry-Pezzi syndrome (99.9%)</li>
+<li>Pierre Robin syndrome associated with a chromosomal anomaly (99.9%)</li>
+<li>genetic syndromic Pierre Robin syndrome (99.9%)</li>
+<li>partial deletion of the long arm of chromosome 7 (99.9%)</li>
+<li>pulmonary valve disease (99.9%)</li>
+<li>orofacial clefting syndrome (99.9%)</li>
+<li>mitral valve disease (99.9%)</li>
+<li>heart disease (99.9%)</li>
+<li>disorder of fucoglycosan synthesis (99.9%)</li>
+<li>interventricular septum aneurysm (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tolperisone/' | relative_url }}">View full drug report →</a></p>
 </div>

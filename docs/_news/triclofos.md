@@ -3,7 +3,7 @@ layout: default
 title: "Triclofos News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Triclofos. Original indication: . 0 predicted indications."
+description: "Health news related to Triclofos. Original indication: . 10 predicted indications."
 permalink: /news/triclofos/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/triclofos/
 ---
 
 <p class="key-answer" data-question="What news is there about Triclofos?">
-<strong>Triclofos</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Triclofos</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Triclofos with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>insomnia (disease) (99.9%)</li>
+<li>anxiety (98.4%)</li>
+<li>sleep disorder, initiating and maintaining sleep (98.4%)</li>
+<li>neurocirculatory asthenia (98.3%)</li>
+<li>anxiety disorder (98.2%)</li>
+<li>agoraphobia (98.0%)</li>
+<li>juvenile onset Parkinson disease 19A (97.8%)</li>
+<li>benign paroxysmal torticollis of infancy (97.7%)</li>
+<li>irritable bowel syndrome (97.6%)</li>
+<li>acute encephalopathy with biphasic seizures and late reduced diffusion (96.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/triclofos/' | relative_url }}">View full drug report →</a></p>
 </div>

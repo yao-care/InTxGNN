@@ -3,7 +3,7 @@ layout: default
 title: "Ticarcillin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ticarcillin. Original indication: . 0 predicted indications."
+description: "Health news related to Ticarcillin. Original indication: . 10 predicted indications."
 permalink: /news/ticarcillin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ticarcillin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ticarcillin?">
-<strong>Ticarcillin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ticarcillin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Ticarcillin with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>lymph node palisaded myofibroblastoma (99.8%)</li>
+<li>abdominal ectopic pregnancy (99.8%)</li>
+<li>abdominal cystic lymphangioma (99.8%)</li>
+<li>celiac trunk compression syndrome (99.8%)</li>
+<li>sacrum chordoma (99.8%)</li>
+<li>disease of retroperitoneum (99.8%)</li>
+<li>urethral disease (99.8%)</li>
+<li>disease of uterine broad ligament (99.8%)</li>
+<li>disease of peritoneum (99.8%)</li>
+<li>pelvic varices (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ticarcillin/' | relative_url }}">View full drug report →</a></p>
 </div>

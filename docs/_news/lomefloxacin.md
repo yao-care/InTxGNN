@@ -3,7 +3,7 @@ layout: default
 title: "Lomefloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lomefloxacin. Original indication: . 0 predicted indications."
+description: "Health news related to Lomefloxacin. Original indication: . 10 predicted indications."
 permalink: /news/lomefloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lomefloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Lomefloxacin?">
-<strong>Lomefloxacin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Lomefloxacin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Lomefloxacin with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>laryngotracheitis (99.6%)</li>
+<li>heart valve disease (99.4%)</li>
+<li>heart conduction disease (99.3%)</li>
+<li>congenital anomaly of ventricular septum (99.3%)</li>
+<li>heart neoplasm (99.2%)</li>
+<li>pericardium disease (99.2%)</li>
+<li>carcinoid heart disease (99.2%)</li>
+<li>myocardial rupture (99.2%)</li>
+<li>heart aneurysm (99.2%)</li>
+<li>cardiac anomalies-heterotaxy syndrome (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/lomefloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>

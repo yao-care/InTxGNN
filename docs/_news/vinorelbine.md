@@ -3,7 +3,7 @@ layout: default
 title: "Vinorelbine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vinorelbine. Original indication: . 0 predicted indications."
+description: "Health news related to Vinorelbine. Original indication: . 10 predicted indications."
 permalink: /news/vinorelbine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vinorelbine?">
-<strong>Vinorelbine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Vinorelbine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Vinorelbine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Ewing sarcoma (100.0%)</li>
+<li>fibromatosis, gingival (100.0%)</li>
+<li>fibroma of lung (100.0%)</li>
+<li>pulmonary sulcus neoplasm (100.0%)</li>
+<li>lung germ cell tumor (100.0%)</li>
+<li>hamartoma of lung (100.0%)</li>
+<li>small cell lung carcinoma (100.0%)</li>
+<li>lung benign neoplasm (100.0%)</li>
+<li>lung hilum carcinoma (100.0%)</li>
+<li>pulmonary blastoma (100.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">View full drug report →</a></p>
 </div>

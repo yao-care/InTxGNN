@@ -3,7 +3,7 @@ layout: default
 title: "Framycetin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Framycetin. Original indication: . 0 predicted indications."
+description: "Health news related to Framycetin. Original indication: . 7 predicted indications."
 permalink: /news/framycetin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/framycetin/
 ---
 
 <p class="key-answer" data-question="What news is there about Framycetin?">
-<strong>Framycetin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Framycetin</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,15 @@ This page combines the AI-predicted indications for Framycetin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>sclerosing cholangitis (99.7%)</li>
+<li>urinary tract infection (disease) (99.4%)</li>
+<li>congenital prothrombin deficiency (99.4%)</li>
+<li>gonococcal urethritis (99.3%)</li>
+<li>Ureaplasma urethritis (99.3%)</li>
+<li>uterine inflammatory disease (99.2%)</li>
+<li>xanthogranulomatous pyelonephritis (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/framycetin/' | relative_url }}">View full drug report →</a></p>
 </div>

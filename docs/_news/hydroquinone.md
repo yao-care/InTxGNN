@@ -3,7 +3,7 @@ layout: default
 title: "Hydroquinone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Hydroquinone. Original indication: . 0 predicted indications."
+description: "Health news related to Hydroquinone. Original indication: . 4 predicted indications."
 permalink: /news/hydroquinone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydroquinone/
 ---
 
 <p class="key-answer" data-question="What news is there about Hydroquinone?">
-<strong>Hydroquinone</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Hydroquinone</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,12 @@ This page combines the AI-predicted indications for Hydroquinone with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>seborrheic keratosis (99.7%)</li>
+<li>vulvar inverted follicular keratosis (99.6%)</li>
+<li>exanthem (disease) (99.4%)</li>
+<li>lichen disease (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydroquinone/' | relative_url }}">View full drug report →</a></p>
 </div>

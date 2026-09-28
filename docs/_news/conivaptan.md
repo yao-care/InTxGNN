@@ -3,7 +3,7 @@ layout: default
 title: "Conivaptan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Conivaptan. Original indication: . 0 predicted indications."
+description: "Health news related to Conivaptan. Original indication: . 7 predicted indications."
 permalink: /news/conivaptan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/conivaptan/
 ---
 
 <p class="key-answer" data-question="What news is there about Conivaptan?">
-<strong>Conivaptan</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Conivaptan</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,15 @@ This page combines the AI-predicted indications for Conivaptan with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>pulmonary hypertension (99.5%)</li>
+<li>migraine disorder (99.5%)</li>
+<li>Prinzmetal angina (99.4%)</li>
+<li>migraine with brainstem aura (99.4%)</li>
+<li>kyphoscoliotic heart disease (99.4%)</li>
+<li>peripheral arterial disease (99.2%)</li>
+<li>peripheral vascular disease (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/conivaptan/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Cetilistat News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cetilistat. Original indication: . 0 predicted indications."
+description: "Health news related to Cetilistat. Original indication: . 4 predicted indications."
 permalink: /news/cetilistat/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cetilistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Cetilistat?">
-<strong>Cetilistat</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Cetilistat</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,12 @@ This page combines the AI-predicted indications for Cetilistat with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>hypervitaminosis (100.0%)</li>
+<li>proximal 16p11.2 microdeletion syndrome (100.0%)</li>
+<li>obsolete hypertelorism (disease) (99.9%)</li>
+<li>frontorhiny (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/cetilistat/' | relative_url }}">View full drug report →</a></p>
 </div>

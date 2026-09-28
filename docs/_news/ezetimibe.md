@@ -3,7 +3,7 @@ layout: default
 title: "Ezetimibe News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ezetimibe. Original indication: . 0 predicted indications."
+description: "Health news related to Ezetimibe. Original indication: . 4 predicted indications."
 permalink: /news/ezetimibe/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ezetimibe/
 ---
 
 <p class="key-answer" data-question="What news is there about Ezetimibe?">
-<strong>Ezetimibe</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ezetimibe</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,12 @@ This page combines the AI-predicted indications for Ezetimibe with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>hyperlipoproteinemia (99.6%)</li>
+<li>familial hypercholesterolemia (99.4%)</li>
+<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.2%)</li>
+<li>cholesterol-ester transfer protein deficiency (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ezetimibe/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Riociguat News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Riociguat. Original indication: . 0 predicted indications."
+description: "Health news related to Riociguat. Original indication: . 10 predicted indications."
 permalink: /news/riociguat/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/riociguat/
 ---
 
 <p class="key-answer" data-question="What news is there about Riociguat?">
-<strong>Riociguat</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Riociguat</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Riociguat with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Ambras type hypertrichosis universalis congenita (94.9%)</li>
+<li>malformation syndrome with odontal and/or periodontal component (94.5%)</li>
+<li>syndrome with a Dandy-Walker malformation as major feature (94.3%)</li>
+<li>isolated genetic hair shaft abnormality (94.0%)</li>
+<li>hypertrichosis (disease) (93.8%)</li>
+<li>pulmonary arterial hypertension associated with congenital heart disease (92.6%)</li>
+<li>pulmonary arteriovenous malformation (disease) (92.1%)</li>
+<li>pulmonary arterial hypertension associated with chronic hemolytic anemia (91.5%)</li>
+<li>pulmonary arterial hypertension associated with connective tissue disease (91.5%)</li>
+<li>pulmonary arterial hypertension associated with HIV infection (91.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/riociguat/' | relative_url }}">View full drug report →</a></p>
 </div>

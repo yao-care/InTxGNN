@@ -3,7 +3,7 @@ layout: default
 title: "Potassium Citrate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Potassium Citrate. Original indication: . 9 predicted indications."
+description: "Health news related to Potassium Citrate. Original indication: . 12 predicted indications."
 permalink: /news/potassium_citrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/potassium_citrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Potassium Citrate?">
-<strong>Potassium Citrate</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Potassium Citrate</strong> currently has <strong>0 news articles</strong>, with 12 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,7 +24,7 @@ This page combines the AI-predicted indications for Potassium Citrate with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (9)</strong>:<ul>
+<li><strong>Predicted indications (12)</strong>:<ul>
 <li>Familial visceral myopathy (100.0%)</li>
 <li>Mitochondrial oxidative phosphorylation disorder (nuclear DNA) (99.9%)</li>
 <li>Pendred syndrome (99.9%)</li>
@@ -34,6 +34,9 @@ This page combines the AI-predicted indications for Potassium Citrate with the l
 <li>Autosomal recessive nonsyndromic deafness (99.7%)</li>
 <li>Exocrine pancreatic insufficiency (99.7%)</li>
 <li>Leukocyte adhesion deficiency (99.6%)</li>
+<li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (99.9%)</li>
+<li>nephrolithiasis (99.8%)</li>
+<li>nephrolithiasis susceptibility caused by SLC26A1 (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/potassium_citrate/' | relative_url }}">View full drug report →</a></p>

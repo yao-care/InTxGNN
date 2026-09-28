@@ -3,7 +3,7 @@ layout: default
 title: "Lomustine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lomustine. Original indication: . 0 predicted indications."
+description: "Health news related to Lomustine. Original indication: . 10 predicted indications."
 permalink: /news/lomustine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lomustine/
 ---
 
 <p class="key-answer" data-question="What news is there about Lomustine?">
-<strong>Lomustine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Lomustine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Lomustine with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>lymphosarcoma (99.9%)</li>
+<li>malignant tumor of meninges (99.9%)</li>
+<li>spinal cord cancer (99.9%)</li>
+<li>cerebral neuroblastoma (99.8%)</li>
+<li>pediatric cerebral ependymoblastoma (99.8%)</li>
+<li>pediatric infratentorial ependymoblastoma (99.8%)</li>
+<li>childhood brain germinoma (99.8%)</li>
+<li>cerebellopontine angle embryonal tumor (99.8%)</li>
+<li>lymph node cancer (99.8%)</li>
+<li>cerebral sarcoma (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/lomustine/' | relative_url }}">View full drug report →</a></p>
 </div>

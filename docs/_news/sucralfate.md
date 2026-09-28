@@ -3,7 +3,7 @@ layout: default
 title: "Sucralfate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sucralfate. Original indication: . 0 predicted indications."
+description: "Health news related to Sucralfate. Original indication: . 2 predicted indications."
 permalink: /news/sucralfate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sucralfate/
 ---
 
 <p class="key-answer" data-question="What news is there about Sucralfate?">
-<strong>Sucralfate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Sucralfate</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Sucralfate with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>duodenogastric reflux (99.4%)</li>
+<li>duodenal obstruction (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/sucralfate/' | relative_url }}">View full drug report →</a></p>
 </div>

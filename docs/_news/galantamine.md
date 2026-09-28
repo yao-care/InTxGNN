@@ -3,7 +3,7 @@ layout: default
 title: "Galantamine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Galantamine. Original indication: . 0 predicted indications."
+description: "Health news related to Galantamine. Original indication: . 9 predicted indications."
 permalink: /news/galantamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/galantamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Galantamine?">
-<strong>Galantamine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Galantamine</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,17 @@ This page combines the AI-predicted indications for Galantamine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>psychogenic movement disorders (99.9%)</li>
+<li>chronic tic disorder (99.9%)</li>
+<li>primary orthostatic tremor (99.9%)</li>
+<li>extrapyramidal and movement disease (99.9%)</li>
+<li>benign shuddering attacks (99.9%)</li>
+<li>tremor-nystagmus-duodenal ulcer syndrome (99.9%)</li>
+<li>lingual-facial-buccal dyskinesia (99.9%)</li>
+<li>benign paroxysmal tonic upgaze of childhood with ataxia (99.9%)</li>
+<li>acute intermittent porphyria (99.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/galantamine/' | relative_url }}">View full drug report →</a></p>
 </div>

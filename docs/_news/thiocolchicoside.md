@@ -3,7 +3,7 @@ layout: default
 title: "Thiocolchicoside News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Thiocolchicoside. Original indication: . 0 predicted indications."
+description: "Health news related to Thiocolchicoside. Original indication: . 2 predicted indications."
 permalink: /news/thiocolchicoside/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/thiocolchicoside/
 ---
 
 <p class="key-answer" data-question="What news is there about Thiocolchicoside?">
-<strong>Thiocolchicoside</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Thiocolchicoside</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Thiocolchicoside with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>insomnia (disease) (99.9%)</li>
+<li>alcohol withdrawal delirium (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/thiocolchicoside/' | relative_url }}">View full drug report →</a></p>
 </div>

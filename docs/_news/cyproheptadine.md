@@ -3,7 +3,7 @@ layout: default
 title: "Cyproheptadine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cyproheptadine. Original indication: . 3 predicted indications."
+description: "Health news related to Cyproheptadine. Original indication: . 4 predicted indications."
 permalink: /news/cyproheptadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyproheptadine/
 ---
 
 <p class="key-answer" data-question="What news is there about Cyproheptadine?">
-<strong>Cyproheptadine</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Cyproheptadine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,11 @@ This page combines the AI-predicted indications for Cyproheptadine with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Allergic urticaria | 99.96% | L4 | Research Question | Highest model score, but all supporting trials/literature concern loratadine, desloratadine, rupatadine, and bilastine — no cyproheptadine-specific evidence (99.0%)</li>
-<li>Nasal cavity disease | 99.21% | L4 | Hold | Vague disease category; evidence base is a herbal-remedy trial and other-antihistamine studies, none involving cyproheptadine (99.0%)</li>
-<li>Acute laryngopharyngitis | 99.13% | L5 | Hold | Model prediction only — no clinical trials or literature; weak mechanistic rationale given the largely infectious etiology of this condition (99.0%)</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>allergic urticaria (100.0%)</li>
+<li>cold urticaria (99.8%)</li>
+<li>nasal cavity disease (99.2%)</li>
+<li>acute laryngopharyngitis (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyproheptadine/' | relative_url }}">View full drug report →</a></p>

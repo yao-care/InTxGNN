@@ -3,7 +3,7 @@ layout: default
 title: "Riluzole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Riluzole. Original indication: . 0 predicted indications."
+description: "Health news related to Riluzole. Original indication: . 10 predicted indications."
 permalink: /news/riluzole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/riluzole/
 ---
 
 <p class="key-answer" data-question="What news is there about Riluzole?">
-<strong>Riluzole</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Riluzole</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Riluzole with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>bilateral parasagittal parieto-occipital polymicrogyria (100.0%)</li>
+<li>axial spondylometaphyseal dysplasia (100.0%)</li>
+<li>lower motor neuron syndrome with late-adult onset (100.0%)</li>
+<li>trichomegaly-retina pigmentary degeneration-dwarfism syndrome (100.0%)</li>
+<li>lethal arthrogryposis-anterior horn cell disease syndrome (100.0%)</li>
+<li>monomelic amyotrophy (100.0%)</li>
+<li>Mills syndrome (100.0%)</li>
+<li>amyotrophic lateral sclerosis, susceptibility to (100.0%)</li>
+<li>autosomal dominant mitochondrial myopathy with exercise intolerance (100.0%)</li>
+<li>amyotrohpic lateral sclerosis type 22 (100.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/riluzole/' | relative_url }}">View full drug report →</a></p>
 </div>

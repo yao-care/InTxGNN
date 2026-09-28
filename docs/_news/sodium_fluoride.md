@@ -3,7 +3,7 @@ layout: default
 title: "Sodium Fluoride News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sodium Fluoride. Original indication: . 0 predicted indications."
+description: "Health news related to Sodium Fluoride. Original indication: . 7 predicted indications."
 permalink: /news/sodium_fluoride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sodium_fluoride/
 ---
 
 <p class="key-answer" data-question="What news is there about Sodium Fluoride?">
-<strong>Sodium Fluoride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Sodium Fluoride</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,15 @@ This page combines the AI-predicted indications for Sodium Fluoride with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>epiglottitis (99.9%)</li>
+<li>urinary tract infection (disease) (99.9%)</li>
+<li>gonococcal urethritis (99.9%)</li>
+<li>Ureaplasma urethritis (99.9%)</li>
+<li>uterine inflammatory disease (99.8%)</li>
+<li>xanthogranulomatous pyelonephritis (99.8%)</li>
+<li>laryngitis (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/sodium_fluoride/' | relative_url }}">View full drug report →</a></p>
 </div>

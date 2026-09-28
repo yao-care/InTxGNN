@@ -3,7 +3,7 @@ layout: default
 title: "Sulfamethoxazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sulfamethoxazole. Original indication: . 0 predicted indications."
+description: "Health news related to Sulfamethoxazole. Original indication: . 1 predicted indications."
 permalink: /news/sulfamethoxazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sulfamethoxazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Sulfamethoxazole?">
-<strong>Sulfamethoxazole</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Sulfamethoxazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,9 @@ This page combines the AI-predicted indications for Sulfamethoxazole with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>acute contagious conjunctivitis (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/sulfamethoxazole/' | relative_url }}">View full drug report →</a></p>
 </div>

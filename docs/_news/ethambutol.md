@@ -25,11 +25,11 @@ This page combines the AI-predicted indications for Ethambutol with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>Epiglottitis | 99.90% | L5 | Hold | KG over-generalization; no mechanistic basis against common bacterial pathogens (99.0%)</li>
-<li>Laryngitis | 99.71% | L4 | Research Question | TB laryngitis mechanistically valid; 20 case-level publications and case series (99.0%)</li>
-<li>Meningococcal Infection | 99.63% | L5 | Hold | KG false positive; *Neisseria meningitidis* lacks EmbA/B/C targets (99.0%)</li>
-<li>**Peritonitis** | **99.20%** | **L3** | **Proceed with Guardrails** | Tuberculous peritonitis: Cochrane review + systematic review provide direct support (99.0%)</li>
-<li>Infectious Otitis Media | 99.06% | L5 | Hold | No mechanistic basis; 0 publications identified (99.0%)</li>
+<li>epiglottitis (99.9%)</li>
+<li>laryngitis (99.7%)</li>
+<li>meningococcal infection (99.6%)</li>
+<li>peritonitis (99.2%)</li>
+<li>infectious otitis media (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ethambutol/' | relative_url }}">View full drug report →</a></p>

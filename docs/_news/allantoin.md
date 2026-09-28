@@ -25,14 +25,14 @@ This page combines the AI-predicted indications for Allantoin with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (8)</strong>:<ul>
-<li>Severe Nonproliferative Diabetic Retinopathy | 99.56% | L5 | Hold (99.0%)</li>
-<li>Acrodermatitis Chronica Atrophicans | 99.50% | L5 | Hold (99.0%)</li>
-<li>Neonatal Dermatomyositis | 99.48% | L5 | Hold (99.0%)</li>
-<li>Acne Keloid | 99.48% | L5 | Research Question (99.0%)</li>
-<li>Secondary ILD (Childhood, CTD-associated) | 99.44% | L5 | Hold (99.0%)</li>
-<li>Amyopathic Dermatomyositis | 99.43% | L5 | Hold (99.0%)</li>
-<li>Hydroa Vacciniforme, Familial | 99.23% | L5 | Hold (99.0%)</li>
-<li>Exanthem (Disease) | 99.10% | L4 | Research Question (99.0%)</li>
+<li>severe nonproliferative diabetic retinopathy (99.6%)</li>
+<li>acrodermatitis chronica atrophicans (99.5%)</li>
+<li>neonatal dermatomyositis (99.5%)</li>
+<li>acne keloid (99.5%)</li>
+<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (99.4%)</li>
+<li>amyopathic dermatomyositis (99.4%)</li>
+<li>hydroa vacciniforme, familial (99.2%)</li>
+<li>exanthem (disease) (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/allantoin/' | relative_url }}">View full drug report →</a></p>

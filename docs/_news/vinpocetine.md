@@ -3,7 +3,7 @@ layout: default
 title: "Vinpocetine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vinpocetine. Original indication: . 0 predicted indications."
+description: "Health news related to Vinpocetine. Original indication: . 7 predicted indications."
 permalink: /news/vinpocetine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vinpocetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vinpocetine?">
-<strong>Vinpocetine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Vinpocetine</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,15 @@ This page combines the AI-predicted indications for Vinpocetine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>coronary artery disease (99.9%)</li>
+<li>myocardial ischemia (99.9%)</li>
+<li>anomalous left coronary artery from the pulmonary artery (99.9%)</li>
+<li>lissencephaly (99.7%)</li>
+<li>alexia (99.6%)</li>
+<li>respiratory malformation (99.1%)</li>
+<li>Rienhoff syndrome (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/vinpocetine/' | relative_url }}">View full drug report →</a></p>
 </div>

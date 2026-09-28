@@ -3,7 +3,7 @@ layout: default
 title: "dementia (bhoolne ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (bhoolne ki bimari). 2 articles, 8 related drugs."
+description: "Health news about dementia (bhoolne ki bimari). 3 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bhoolne-ki-bimari/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (bhoolne ki bimari)?">
-<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [New routine blood draw could diagnose Alzheimer's disease faster and cheaper - FOX 10 Phoenix](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV1N3R2I3ZlRhVmcwdDdyRzhHTVJOZlQyRjRZNGxub3d5NzI5MWc4VnItTjA2NTJCOUNGMkg1UEdIc2VHYlNRN2JjWjB6LTZibXJid3l2RHR3NWh1WmNuR3JITVY5a2JVZ2phaUdGSkNHUUd4aV94b0luamxaRTlIR3ZvYk1ZZUQzdjJLeTg0bnRaU21fYjZlM3NZdUs2UkFCZ3VlTjU4Uk5NY3fSAbABQVVfeXFMT1NPd09xMUlVSmZHd21UNmMxZlRFSkI1Y2ZJX1QwUEFqVm9tdVFNRUo1UDNlMnl5OG1LNFljaUR6RVVMU2FYUE1EdWVtaGZQbGZMOU1uYUtJWTAyaHhwMk1qZy1mbnRhVV9QeXZOeVhETVprc1k5U1pKd1NmcTZKWng1NEVkazBVeW13aGNXRkQ3Rk5QXzFZWG91a1dTRV9IZ3prNzhKQi01LWlfbXRkVlU?oc=5)
+### [Her Alzheimer’s diagnosis took 2 years. New blood tests might help others get answers sooner](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRHNqbmgzWm81c0gyb2FWUlYxRk1pU2pwY1EyX092aVhmYkdwNHJDRTQ0WTAyZFladVdGejYwNGV1YUJrcTdNR1ZNYzhXNVJxVkhkelpEVndoWE00cUh4c0xHQmRFVlAxWllBSWtodzhtaERBTnc5NnB1NkRDdFVsY2NkOWFzZjRVZUxMb1FCU2swTTM3aF9IZGU3a1dTeUpSblF2UFBlVWMxYkVxVVdZbk1nTjNTRTNvUVdvOWlqa1hkLTh5c0ctZEFKZC0yTDJseEQ3TExjSGktVF95c0NUekRDXzhSdndHNGRiMU9vNm13VFZfWWRmU2lYMEt5Z0FJZERBaXM3U0ZkZ3hMMmVZ?oc=5)
+
+2026-09-28
+
+Source: [newscentermaine.com](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRHNqbmgzWm81c0gyb2FWUlYxRk1pU2pwY1EyX092aVhmYkdwNHJDRTQ0WTAyZFladVdGejYwNGV1YUJrcTdNR1ZNYzhXNVJxVkhkelpEVndoWE00cUh4c0xHQmRFVlAxWllBSWtodzhtaERBTnc5NnB1NkRDdFVsY2NkOWFzZjRVZUxMb1FCU2swTTM3aF9IZGU3a1dTeUpSblF2UFBlVWMxYkVxVVdZbk1nTjNTRTNvUVdvOWlqa1hkLTh5c0ctZEFKZC0yTDJseEQ3TExjSGktVF95c0NUekRDXzhSdndHNGRiMU9vNm13VFZfWWRmU2lYMEt5Z0FJZERBaXM3U0ZkZ3hMMmVZ?oc=5)
+
+---
+
+### [World Alzheimer’s Day 2026 The earlier you know, the more you can do : A dementia diagnosis matters - The Sangai Express](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb3pVUm5SQ0JQbWlUQUIxX3E5TUQxcG9Kbm81bXAwZkg2R3R6dHJtNV9ncmhfWmlRa0oxV29VVXNvYlMyMGR1NHVvU0dRX29OUWxjWFdFaHNwc2M3TU9Ra1ZDdG92WDd1YzlwLVVpOUdFc2xTYU9VYTBRQ1N2YUtEa0ExdldOd0pjdC14MHpZNWlfY3pPNEM4S09ERG9hcURWeGtQZUNMRkR0SHhEOEpxcGIzVFRKNGRWU2xkNlZUZFdDQTYybVpsMzhxMjJpODEwMDlfdnJRWlVGVTJkX0VSbTl6cVBvWHA5NVdGdVE4Z3J4d3F1SXVZ?oc=5)
 
 2026-09-27
 
-Source: [FOX 10 Phoenix](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV1N3R2I3ZlRhVmcwdDdyRzhHTVJOZlQyRjRZNGxub3d5NzI5MWc4VnItTjA2NTJCOUNGMkg1UEdIc2VHYlNRN2JjWjB6LTZibXJid3l2RHR3NWh1WmNuR3JITVY5a2JVZ2phaUdGSkNHUUd4aV94b0luamxaRTlIR3ZvYk1ZZUQzdjJLeTg0bnRaU21fYjZlM3NZdUs2UkFCZ3VlTjU4Uk5NY3fSAbABQVVfeXFMT1NPd09xMUlVSmZHd21UNmMxZlRFSkI1Y2ZJX1QwUEFqVm9tdVFNRUo1UDNlMnl5OG1LNFljaUR6RVVMU2FYUE1EdWVtaGZQbGZMOU1uYUtJWTAyaHhwMk1qZy1mbnRhVV9QeXZOeVhETVprc1k5U1pKd1NmcTZKWng1NEVkazBVeW13aGNXRkQ3Rk5QXzFZWG91a1dTRV9IZ3prNzhKQi01LWlfbXRkVlU?oc=5)
+Source: [The Sangai Express](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb3pVUm5SQ0JQbWlUQUIxX3E5TUQxcG9Kbm81bXAwZkg2R3R6dHJtNV9ncmhfWmlRa0oxV29VVXNvYlMyMGR1NHVvU0dRX29OUWxjWFdFaHNwc2M3TU9Ra1ZDdG92WDd1YzlwLVVpOUdFc2xTYU9VYTBRQ1N2YUtEa0ExdldOd0pjdC14MHpZNWlfY3pPNEM4S09ERG9hcURWeGtQZUNMRkR0SHhEOEpxcGIzVFRKNGRWU2xkNlZUZFdDQTYybVpsMzhxMjJpODEwMDlfdnJRWlVGVTJkX0VSbTl6cVBvWHA5NVdGdVE4Z3J4d3F1SXVZ?oc=5)
 
 ---
 

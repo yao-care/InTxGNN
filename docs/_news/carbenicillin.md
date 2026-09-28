@@ -3,7 +3,7 @@ layout: default
 title: "Carbenicillin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Carbenicillin. Original indication: . 0 predicted indications."
+description: "Health news related to Carbenicillin. Original indication: . 7 predicted indications."
 permalink: /news/carbenicillin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carbenicillin/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbenicillin?">
-<strong>Carbenicillin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Carbenicillin</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,15 @@ This page combines the AI-predicted indications for Carbenicillin with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>Ureaplasma urethritis (100.0%)</li>
+<li>gonococcal urethritis (100.0%)</li>
+<li>uterine inflammatory disease (100.0%)</li>
+<li>xanthogranulomatous pyelonephritis (100.0%)</li>
+<li>urogenital tuberculosis (99.8%)</li>
+<li>epiglottitis (99.6%)</li>
+<li>laryngitis (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/carbenicillin/' | relative_url }}">View full drug report →</a></p>
 </div>

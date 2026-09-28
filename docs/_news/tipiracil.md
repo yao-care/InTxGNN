@@ -3,7 +3,7 @@ layout: default
 title: "Tipiracil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tipiracil. Original indication: . 0 predicted indications."
+description: "Health news related to Tipiracil. Original indication: . 10 predicted indications."
 permalink: /news/tipiracil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tipiracil/
 ---
 
 <p class="key-answer" data-question="What news is there about Tipiracil?">
-<strong>Tipiracil</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Tipiracil</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Tipiracil with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>cecum villous adenoma (100.0%)</li>
+<li>lipoma of colon (100.0%)</li>
+<li>rectosigmoid junction neoplasm (100.0%)</li>
+<li>cecum neuroendocrine tumor G1 (100.0%)</li>
+<li>colonic lymphangioma (100.0%)</li>
+<li>cecal disease (100.0%)</li>
+<li>colon leiomyoma (100.0%)</li>
+<li>benign neoplasm of cecum (100.0%)</li>
+<li>cavernous hemangioma of colon (100.0%)</li>
+<li>colorectal gastrointestinal stromal tumor (100.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tipiracil/' | relative_url }}">View full drug report →</a></p>
 </div>

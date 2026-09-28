@@ -3,7 +3,7 @@ layout: default
 title: "Hyaluronidase News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Hyaluronidase. Original indication: . 0 predicted indications."
+description: "Health news related to Hyaluronidase. Original indication: . 10 predicted indications."
 permalink: /news/hyaluronidase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hyaluronidase/
 ---
 
 <p class="key-answer" data-question="What news is there about Hyaluronidase?">
-<strong>Hyaluronidase</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Hyaluronidase</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Hyaluronidase with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>esotropia (99.9%)</li>
+<li>amenorrhea (disease) (99.8%)</li>
+<li>severe nonproliferative diabetic retinopathy (99.8%)</li>
+<li>renal tubular acidosis (99.8%)</li>
+<li>dermatitis (99.7%)</li>
+<li>diabetic retinopathy (99.7%)</li>
+<li>acrodermatitis chronica atrophicans (99.6%)</li>
+<li>diabetic cataract (99.5%)</li>
+<li>neonatal dermatomyositis (99.5%)</li>
+<li>non-syndromic esophageal malformation (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/hyaluronidase/' | relative_url }}">View full drug report →</a></p>
 </div>

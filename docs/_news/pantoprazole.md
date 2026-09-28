@@ -3,7 +3,7 @@ layout: default
 title: "Pantoprazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pantoprazole. Original indication: . 0 predicted indications."
+description: "Health news related to Pantoprazole. Original indication: . 6 predicted indications."
 permalink: /news/pantoprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pantoprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Pantoprazole?">
-<strong>Pantoprazole</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pantoprazole</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,14 @@ This page combines the AI-predicted indications for Pantoprazole with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>active peptic ulcer disease (99.7%)</li>
+<li>gastrojejunal ulcer (99.6%)</li>
+<li>peptic ulcer perforation (99.6%)</li>
+<li>duodenogastric reflux (99.3%)</li>
+<li>duodenal obstruction (99.2%)</li>
+<li>duodenal ulcer (disease) (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pantoprazole/' | relative_url }}">View full drug report →</a></p>
 </div>

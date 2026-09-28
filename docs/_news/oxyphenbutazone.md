@@ -3,7 +3,7 @@ layout: default
 title: "Oxyphenbutazone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Oxyphenbutazone. Original indication: . 2 predicted indications."
+description: "Health news related to Oxyphenbutazone. Original indication: . 3 predicted indications."
 permalink: /news/oxyphenbutazone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxyphenbutazone/
 ---
 
 <p class="key-answer" data-question="What news is there about Oxyphenbutazone?">
-<strong>Oxyphenbutazone</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Oxyphenbutazone</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,10 @@ This page combines the AI-predicted indications for Oxyphenbutazone with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.07% | L5 | No clinical/literature support; assessed as having no biological plausibility (congenital syndrome with no known link to COX inhibition) — likely model noise (99.0%)</li>
-<li>Gout | 99.05% | L3 | Historical NSAID use in acute gout flares; literature is mostly reviews/adverse-event reports, no controlled trials; shares the same blood-dyscrasia safety liability as the RA candidate (99.0%)</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>rheumatoid arthritis (99.5%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.1%)</li>
+<li>gout (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxyphenbutazone/' | relative_url }}">View full drug report →</a></p>

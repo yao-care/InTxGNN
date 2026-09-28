@@ -3,7 +3,7 @@ layout: default
 title: "Capreomycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Capreomycin. Original indication: . 0 predicted indications."
+description: "Health news related to Capreomycin. Original indication: . 10 predicted indications."
 permalink: /news/capreomycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/capreomycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Capreomycin?">
-<strong>Capreomycin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Capreomycin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Capreomycin with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>gout (99.9%)</li>
+<li>rheumatoid arthritis (99.8%)</li>
+<li>osteoarthritis (99.7%)</li>
+<li>osteoarthritis susceptibility (99.7%)</li>
+<li>sclerosing cholangitis (99.7%)</li>
+<li>brachydactyly-syndactyly syndrome (99.6%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
+<li>meningococcal infection (99.6%)</li>
+<li>pseudoachondroplasia (99.5%)</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/capreomycin/' | relative_url }}">View full drug report →</a></p>
 </div>

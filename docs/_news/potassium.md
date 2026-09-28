@@ -3,7 +3,7 @@ layout: default
 title: "Potassium News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Potassium. Original indication: . 0 predicted indications."
+description: "Health news related to Potassium. Original indication: . 5 predicted indications."
 permalink: /news/potassium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/potassium/
 ---
 
 <p class="key-answer" data-question="What news is there about Potassium?">
-<strong>Potassium</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Potassium</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,19 +24,20 @@ This page combines the AI-predicted indications for Potassium with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>hypertensive disorder (99.2%)</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.0%)</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism (99.0%)</li>
+<li>malignant renovascular hypertension (99.0%)</li>
+<li>malignant hypertensive renal disease (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/potassium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [High blood pressure? Why cutting salt and eating more potassium could work better](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYzZwdUF5RVlxaGxvbzRXWkdLYXFvb1ptZFo2TDZBT1hZb0xkeEctYkphaVBsVjhzdC1uMGduSVJXLUM5cDBmOGJ3OUdrRGdpLTZBTFhwZEJfalQtaUhVd2Y5VHdJblZHMnBuaUxIT01SUTc5V1RSMW5kNTJNUjNVUkF3Z3I0OXVOODdaeUZSekJiRUhHbWpqdWlNT0RHanRzWWk2ZWJiMl9PM3YyZjhSaHE5eEtfZy0xSk53dmxXMVRQUmVJRDFpM01NRdIB0AFBVV95cUxOVWdVanVvSXFfTUV4WW9Ob0VDVmp6alRoTWpoWjVta1hoeDRuUVJSRHVnMWJCMWZ1LXVWOEg5bmQwTE1OTy1ZcFVXbmNtMmtkUEEySkVsTnNKN2ZNeXVhNEpFc0xmUGhDSlN2VDZvWFNBSHk3RVAxaTlWTDcxYnFobm52MFBSNzB3ZUNpTTBEVWsweUE2VGx6aTJLRlppeDBnaDBPN05aZEt6U1ZYeWVmSkxtc01fTWwxM2V1NndoR0pWNnhfY0xMZVJ3V0NYeGcw?oc=5)
-
-2026-09-27 <span class="news-drug-tag">Potassium</span>
-
-Source: [theweek.in](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYzZwdUF5RVlxaGxvbzRXWkdLYXFvb1ptZFo2TDZBT1hZb0xkeEctYkphaVBsVjhzdC1uMGduSVJXLUM5cDBmOGJ3OUdrRGdpLTZBTFhwZEJfalQtaUhVd2Y5VHdJblZHMnBuaUxIT01SUTc5V1RSMW5kNTJNUjNVUkF3Z3I0OXVOODdaeUZSekJiRUhHbWpqdWlNT0RHanRzWWk2ZWJiMl9PM3YyZjhSaHE5eEtfZy0xSk53dmxXMVRQUmVJRDFpM01NRdIB0AFBVV95cUxOVWdVanVvSXFfTUV4WW9Ob0VDVmp6alRoTWpoWjVta1hoeDRuUVJSRHVnMWJCMWZ1LXVWOEg5bmQwTE1OTy1ZcFVXbmNtMmtkUEEySkVsTnNKN2ZNeXVhNEpFc0xmUGhDSlN2VDZvWFNBSHk3RVAxaTlWTDcxYnFobm52MFBSNzB3ZUNpTTBEVWsweUE2VGx6aTJLRlppeDBnaDBPN05aZEt6U1ZYeWVmSkxtc01fTWwxM2V1NndoR0pWNnhfY0xMZVJ3V0NYeGcw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

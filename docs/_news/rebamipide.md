@@ -25,16 +25,16 @@ This page combines the AI-predicted indications for Rebamipide with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Achlorhydria | 98.90% | L5 | Hold (99.0%)</li>
-<li>Hiatus hernia | 98.71% | L4 | Hold (99.0%)</li>
-<li>Cascade stomach | 98.55% | L4 | Hold (99.0%)</li>
-<li>Gastric dilatation | 98.55% | L3 | Research Question (99.0%)</li>
-<li>Dieulafoy lesion | 98.55% | L5 | Hold (99.0%)</li>
-<li>Pylorospasm | 98.55% | L5 | Hold (99.0%)</li>
-<li>Small bowel Crohn disease | 98.47% | L5 | Hold (99.0%)</li>
-<li>Hemorrhagic duodenitis | 97.87% | L3 | Research Question (99.0%)</li>
-<li>Esophageal ulcer | 97.50% | L5 | Hold (99.0%)</li>
-<li>**Dyskinesia of esophagus** | 96.86% | **L2** | **Proceed with Guardrails** (99.0%)</li>
+<li>achlorhydria (98.9%)</li>
+<li>hiatus hernia (disease) (98.7%)</li>
+<li>cascade stomach (98.5%)</li>
+<li>gastric dilatation (98.5%)</li>
+<li>Dieulafoy lesion (98.5%)</li>
+<li>pylorospasm (98.5%)</li>
+<li>small bowel Crohn disease (98.5%)</li>
+<li>hemorrhagic duodenitis (97.9%)</li>
+<li>esophageal ulcer (97.5%)</li>
+<li>dyskinesia of esophagus (96.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rebamipide/' | relative_url }}">View full drug report →</a></p>

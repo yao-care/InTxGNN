@@ -3,7 +3,7 @@ layout: default
 title: "Ripasudil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ripasudil. Original indication: . 9 predicted indications."
+description: "Health news related to Ripasudil. Original indication: . 11 predicted indications."
 permalink: /news/ripasudil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ripasudil/
 ---
 
 <p class="key-answer" data-question="What news is there about Ripasudil?">
-<strong>Ripasudil</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Ripasudil</strong> currently has <strong>0 news articles</strong>, with 11 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,7 +24,7 @@ This page combines the AI-predicted indications for Ripasudil with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (9)</strong>:<ul>
+<li><strong>Predicted indications (11)</strong>:<ul>
 <li>Hyperprolactinemia (disease) (99.9%)</li>
 <li>Axenfeld anomaly (99.9%)</li>
 <li>Hydrophthalmos (99.8%)</li>
@@ -34,6 +34,8 @@ This page combines the AI-predicted indications for Ripasudil with the latest he
 <li>Macrothrombocytopenia with mitral valve insufficiency (99.8%)</li>
 <li>Hereditary thrombocytopenia with normal platelets (99.8%)</li>
 <li>Thrombocytopenia (99.7%)</li>
+<li>marcothrombocytopenia with mitral valve insufficiency (99.8%)</li>
+<li>transient neonatal thrombocytopenia (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ripasudil/' | relative_url }}">View full drug report →</a></p>

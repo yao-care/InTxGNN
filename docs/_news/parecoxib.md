@@ -3,7 +3,7 @@ layout: default
 title: "Parecoxib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Parecoxib. Original indication: . 0 predicted indications."
+description: "Health news related to Parecoxib. Original indication: . 4 predicted indications."
 permalink: /news/parecoxib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parecoxib/
 ---
 
 <p class="key-answer" data-question="What news is there about Parecoxib?">
-<strong>Parecoxib</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Parecoxib</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,12 @@ This page combines the AI-predicted indications for Parecoxib with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>migraine disorder (99.5%)</li>
+<li>migraine with brainstem aura (99.5%)</li>
+<li>migraine with or without aura, susceptibility to (99.4%)</li>
+<li>pulmonary hypertension (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/parecoxib/' | relative_url }}">View full drug report →</a></p>
 </div>

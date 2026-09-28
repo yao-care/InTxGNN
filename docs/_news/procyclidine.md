@@ -3,7 +3,7 @@ layout: default
 title: "Procyclidine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Procyclidine. Original indication: . 0 predicted indications."
+description: "Health news related to Procyclidine. Original indication: . 10 predicted indications."
 permalink: /news/procyclidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/procyclidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Procyclidine?">
-<strong>Procyclidine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Procyclidine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Procyclidine with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Rasmussen subacute encephalitis (99.7%)</li>
+<li>myelitis (99.7%)</li>
+<li>PLA2G6-associated neurodegeneration (99.6%)</li>
+<li>attention deficit-hyperactivity disorder (99.6%)</li>
+<li>faciodigitogenital syndrome (99.5%)</li>
+<li>transaldolase deficiency (99.4%)</li>
+<li>progressive supranuclear palsy-corticobasal syndrome (99.4%)</li>
+<li>paralysis agitans, juvenile, of Hunt (99.4%)</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.3%)</li>
+<li>fructose-1,6-bisphosphatase deficiency (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/procyclidine/' | relative_url }}">View full drug report →</a></p>
 </div>

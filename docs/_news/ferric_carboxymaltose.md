@@ -3,7 +3,7 @@ layout: default
 title: "Ferric Carboxymaltose News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ferric Carboxymaltose. Original indication: . 0 predicted indications."
+description: "Health news related to Ferric Carboxymaltose. Original indication: . 10 predicted indications."
 permalink: /news/ferric_carboxymaltose/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ferric_carboxymaltose/
 ---
 
 <p class="key-answer" data-question="What news is there about Ferric Carboxymaltose?">
-<strong>Ferric Carboxymaltose</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ferric Carboxymaltose</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Ferric Carboxymaltose with t
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>bronchitis (99.0%)</li>
+<li>thrombotic disease (98.0%)</li>
+<li>rheumatoid arthritis (96.9%)</li>
+<li>bronchial neoplasm (disease) (96.6%)</li>
+<li>idiopathic granulomatous myositis (96.1%)</li>
+<li>myositis fibrosa (96.1%)</li>
+<li>exostosis (95.9%)</li>
+<li>laryngotracheitis (95.8%)</li>
+<li>tendinitis (95.8%)</li>
+<li>heparin cofactor 2 deficiency (95.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ferric_carboxymaltose/' | relative_url }}">View full drug report →</a></p>
 </div>

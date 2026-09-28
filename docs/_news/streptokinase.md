@@ -3,7 +3,7 @@ layout: default
 title: "Streptokinase News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Streptokinase. Original indication: . 9 predicted indications."
+description: "Health news related to Streptokinase. Original indication: . 10 predicted indications."
 permalink: /news/streptokinase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/streptokinase/
 ---
 
 <p class="key-answer" data-question="What news is there about Streptokinase?">
-<strong>Streptokinase</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Streptokinase</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,28 +24,45 @@ This page combines the AI-predicted indications for Streptokinase with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Coronary thrombosis | L1 | Proceed with Guardrails | Direct anatomical substrate of MI; strongest mechanistic overlap (99.0%)</li>
-<li>Peripheral vascular disease | L2 | Research Question | Same fibrinolytic mechanism, weaker/older evidence base (Cochrane review favors newer agents) (99.0%)</li>
-<li>Peripheral arterial disease | L3 | Research Question | Shares trial evidence with PVD; no dedicated literature (99.0%)</li>
-<li>Septal myocardial infarction | L4 | Hold | Anatomic MI subtype; literature concerns re: hemorrhagic MI association (99.0%)</li>
-<li>Posterolateral myocardial infarction | L4 | Hold | Anatomic MI subtype; only indirect/case-level evidence (99.0%)</li>
-<li>Prinzmetal angina | L4 | Hold | Pathology is vasospasm, not thrombosis — weak mechanistic fit (99.0%)</li>
-<li>Posteroinferior myocardial infarction | L5 | Hold | No supporting trials or literature (99.0%)</li>
-<li>Hemoglobinopathy | L5 | Hold | Single 1954 case report on topical enzymatic debridement; not a systemic thrombolytic use case (99.0%)</li>
-<li>Chromosome 16p deletion | L5 | Hold | No plausible biological link; likely knowledge-graph noise (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>myocardial infarction (99.8%)</li>
+<li>Prinzmetal angina (99.8%)</li>
+<li>hemoglobinopathy (99.8%)</li>
+<li>coronary thrombosis (99.7%)</li>
+<li>septal myocardial infarction (99.7%)</li>
+<li>posteroinferior myocardial infarction (99.7%)</li>
+<li>posterolateral myocardial infarction (99.7%)</li>
+<li>peripheral vascular disease (99.7%)</li>
+<li>peripheral arterial disease (99.6%)</li>
+<li>partial deletion of the short arm of chromosome 16 (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/streptokinase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
 
-### [Eating at Odd Hours on Weekends? The Hidden Heart Risk You Didn’t Expect - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMk9mV3JsLXg4Mlc4RGtvVTJ4eDZlREtWWmNMT2NfZkdrV0ozNnFIQ3ZxdjBvTkY1VEMzckZDdUszb0tZMVFrUkdiMmJNZFNKSlBnM2MzR0dDMGRFdWd2S0dtTTA5SFFxYXRyR2ZQSlJ0a1VRYndOM095bGtLWEs0QzZ2QzljNGlYSW5hUnRINmx2bEhtUV92MzVNNjNwSTB6LVJMakRMNXVPaXhXTHJnLWZR?oc=5)
+### [Conference MDAngle: HFSA 2026 Amyloidosis/ATTR-CM](https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXJkMldaM0s0TjJJYVBEY0JuSklXSHNWNkpIVEhVRGlzV2c0N3F4RXFheFVDdFdDN2NfSXpQRTMzU2VFWDJwY3JNQVBEV0JvR1g1WmpGRHRXeWRySndMMDFrV1dsZENCN1pMbV8tcms1RHRTeDVIczhyQk9pd3IyYkpFaFd0ME5pWl9GV2k2QTNXdldSQ0JETFN2c0ZSbkVPcXV3?oc=5)
 
-2026-09-27 <span class="news-indication-tag">heart disease</span>
+2026-09-28 <span class="news-indication-tag">heart disease</span>
 
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMk9mV3JsLXg4Mlc4RGtvVTJ4eDZlREtWWmNMT2NfZkdrV0ozNnFIQ3ZxdjBvTkY1VEMzckZDdUszb0tZMVFrUkdiMmJNZFNKSlBnM2MzR0dDMGRFdWd2S0dtTTA5SFFxYXRyR2ZQSlJ0a1VRYndOM095bGtLWEs0QzZ2QzljNGlYSW5hUnRINmx2bEhtUV92MzVNNjNwSTB6LVJMakRMNXVPaXhXTHJnLWZR?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXJkMldaM0s0TjJJYVBEY0JuSklXSHNWNkpIVEhVRGlzV2c0N3F4RXFheFVDdFdDN2NfSXpQRTMzU2VFWDJwY3JNQVBEV0JvR1g1WmpGRHRXeWRySndMMDFrV1dsZENCN1pMbV8tcms1RHRTeDVIczhyQk9pd3IyYkpFaFd0ME5pWl9GV2k2QTNXdldSQ0JETFN2c0ZSbkVPcXV3?oc=5)
+
+---
+
+### [The next phase of cardiac care is rehabilitation at home](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZURkVVpMNFY5VWp5MUwxZDczUnprLWNtT2JzeHZGVmFkdW9UbjJqZFBTdTh5bFROaXQxWWh1cUhWajRzVEEtSmNnVFJWeEhRSXptbE5zQW1XemVRLTdnX0J2MjNxMlRrdGRucDZwbkd5UGp4T0U2RVc4UF9vUWlXbHNfdmFOWnB4ZUJEVFZTMGNQMjg4Zi1fMEg4RkoyYmxKUXFCeQ?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [expresshealthcare.in](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZURkVVpMNFY5VWp5MUwxZDczUnprLWNtT2JzeHZGVmFkdW9UbjJqZFBTdTh5bFROaXQxWWh1cUhWajRzVEEtSmNnVFJWeEhRSXptbE5zQW1XemVRLTdnX0J2MjNxMlRrdGRucDZwbkd5UGp4T0U2RVc4UF9vUWlXbHNfdmFOWnB4ZUJEVFZTMGNQMjg4Zi1fMEg4RkoyYmxKUXFCeQ?oc=5)
+
+---
+
+### [Physical decline may precede major cardiovascular events by a decade: study](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BcEg1YkR0TXV6YllZXzhPTDNWRnllQ1FQUVc1dWJEQXJOUERPRUE0N2o4X2RteWZRQ2tQOEtyUmtsSHZaSUJKZm9kemN1M2FtcE1OLW9yT21xaVV5bEFuUzgwZ0c2SWR2VkhoT09xNVBES1d5NzgzRXhMT1U?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [Xinhua](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BcEg1YkR0TXV6YllZXzhPTDNWRnllQ1FQUVc1dWJEQXJOUERPRUE0N2o4X2RteWZRQ2tQOEtyUmtsSHZaSUJKZm9kemN1M2FtcE1OLW9yT21xaVV5bEFuUzgwZ0c2SWR2VkhoT09xNVBES1d5NzgzRXhMT1U?oc=5)
 
 ---
 

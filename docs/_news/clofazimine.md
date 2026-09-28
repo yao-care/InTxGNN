@@ -3,7 +3,7 @@ layout: default
 title: "Clofazimine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clofazimine. Original indication: . 2 predicted indications."
+description: "Health news related to Clofazimine. Original indication: . 3 predicted indications."
 permalink: /news/clofazimine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clofazimine/
 ---
 
 <p class="key-answer" data-question="What news is there about Clofazimine?">
-<strong>Clofazimine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Clofazimine</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,10 @@ This page combines the AI-predicted indications for Clofazimine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Malaria | 99.60% | L4 | Research Question | Only *in vitro* activity reported for clofazimine **analogues** (not clofazimine itself); no clinical trials; most retrieved literature is about drug-resistant tuberculosis and is not actually malaria-relevant. (99.0%)</li>
-<li>Gastrin secretion abnormality | 99.57% | L5 | Hold | No clinical trials or literature support whatsoever — score is a pure model output with no biological rationale. (99.0%)</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>pneumocystosis (99.9%)</li>
+<li>malaria (99.6%)</li>
+<li>gastrin secretion abnormality (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clofazimine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Fluvastatin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fluvastatin. Original indication: . 0 predicted indications."
+description: "Health news related to Fluvastatin. Original indication: . 10 predicted indications."
 permalink: /news/fluvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluvastatin?">
-<strong>Fluvastatin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Fluvastatin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Fluvastatin with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>hyperlipoproteinemia (100.0%)</li>
+<li>homozygous familial hypercholesterolemia (100.0%)</li>
+<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.9%)</li>
+<li>familial hypercholesterolemia (99.9%)</li>
+<li>HIV infectious disease (99.9%)</li>
+<li>cholesterol-ester transfer protein deficiency (99.8%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.8%)</li>
+<li>feline acquired immunodeficiency syndrome (99.8%)</li>
+<li>simian immunodeficiency virus infection (99.8%)</li>
+<li>fibroma of prostate (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>

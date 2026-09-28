@@ -3,7 +3,7 @@ layout: default
 title: "Sodium Citrate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sodium Citrate. Original indication: . 0 predicted indications."
+description: "Health news related to Sodium Citrate. Original indication: . 9 predicted indications."
 permalink: /news/sodium_citrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sodium_citrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Sodium Citrate?">
-<strong>Sodium Citrate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Sodium Citrate</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,17 @@ This page combines the AI-predicted indications for Sodium Citrate with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>papillary conjunctivitis (100.0%)</li>
+<li>nasal cavity disease (100.0%)</li>
+<li>acute laryngopharyngitis (99.9%)</li>
+<li>stomach disease (99.9%)</li>
+<li>postgastrectomy syndrome (99.8%)</li>
+<li>gastroduodenitis (99.6%)</li>
+<li>familial visceral myopathy (99.4%)</li>
+<li>rosacea conjunctivitis (99.3%)</li>
+<li>allergic urticaria (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/sodium_citrate/' | relative_url }}">View full drug report →</a></p>
 </div>

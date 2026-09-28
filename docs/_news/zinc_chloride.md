@@ -3,7 +3,7 @@ layout: default
 title: "Zinc Chloride News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Zinc Chloride. Original indication: . 0 predicted indications."
+description: "Health news related to Zinc Chloride. Original indication: . 3 predicted indications."
 permalink: /news/zinc_chloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zinc_chloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Zinc Chloride?">
-<strong>Zinc Chloride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Zinc Chloride</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ This page combines the AI-predicted indications for Zinc Chloride with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>severe nonproliferative diabetic retinopathy (99.3%)</li>
+<li>Sjogren syndrome (99.2%)</li>
+<li>dry eye syndrome (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/zinc_chloride/' | relative_url }}">View full drug report →</a></p>
 </div>

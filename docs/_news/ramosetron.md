@@ -3,7 +3,7 @@ layout: default
 title: "Ramosetron News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ramosetron. Original indication: . 0 predicted indications."
+description: "Health news related to Ramosetron. Original indication: . 2 predicted indications."
 permalink: /news/ramosetron/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ramosetron/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramosetron?">
-<strong>Ramosetron</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ramosetron</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Ramosetron with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>insomnia (disease) (99.7%)</li>
+<li>migraine disorder (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ramosetron/' | relative_url }}">View full drug report →</a></p>
 </div>

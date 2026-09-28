@@ -3,7 +3,7 @@ layout: default
 title: "Propranolol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Propranolol. Original indication: . 0 predicted indications."
+description: "Health news related to Propranolol. Original indication: . 6 predicted indications."
 permalink: /news/propranolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/propranolol/
 ---
 
 <p class="key-answer" data-question="What news is there about Propranolol?">
-<strong>Propranolol</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Propranolol</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,14 @@ This page combines the AI-predicted indications for Propranolol with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>distal myopathy, Tateyama type (99.4%)</li>
+<li>congenital myopathy with excess of thin filaments (99.3%)</li>
+<li>hypertrophic cardiomyopathy due to intensive athletic training (99.2%)</li>
+<li>chondroma (99.1%)</li>
+<li>cirrhotic cardiomyopathy (99.1%)</li>
+<li>cardiomyopathy (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/propranolol/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Glutathione News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Glutathione. Original indication: . 0 predicted indications."
+description: "Health news related to Glutathione. Original indication: . 10 predicted indications."
 permalink: /news/glutathione/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glutathione/
 ---
 
 <p class="key-answer" data-question="What news is there about Glutathione?">
-<strong>Glutathione</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Glutathione</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Glutathione with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>sclerosing cholangitis (98.1%)</li>
+<li>myelodysplastic syndrome (97.5%)</li>
+<li>unclassified myelodysplastic syndrome (96.9%)</li>
+<li>partial deletion of the long arm of chromosome 5 (96.8%)</li>
+<li>refractory cytopenia of childhood (96.8%)</li>
+<li>severe congenital hypochromic anemia with ringed sideroblasts (96.8%)</li>
+<li>dry eye syndrome (96.8%)</li>
+<li>aregenerative anemia (96.8%)</li>
+<li>multiple endocrine neoplasia (96.7%)</li>
+<li>acne (disease) (96.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/glutathione/' | relative_url }}">View full drug report →</a></p>
 </div>

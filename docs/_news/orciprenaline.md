@@ -3,7 +3,7 @@ layout: default
 title: "Orciprenaline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Orciprenaline. Original indication: . 0 predicted indications."
+description: "Health news related to Orciprenaline. Original indication: . 10 predicted indications."
 permalink: /news/orciprenaline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/orciprenaline/
 ---
 
 <p class="key-answer" data-question="What news is there about Orciprenaline?">
-<strong>Orciprenaline</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Orciprenaline</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Orciprenaline with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>obstructive lung disease (100.0%)</li>
+<li>respiratory malformation (100.0%)</li>
+<li>Rienhoff syndrome (100.0%)</li>
+<li>bronchial neoplasm (disease) (99.8%)</li>
+<li>chronic obstructive pulmonary disease (99.8%)</li>
+<li>food-dependent exercise-induced anaphylaxis (99.8%)</li>
+<li>anaphylaxis (99.8%)</li>
+<li>compensatory emphysema (99.7%)</li>
+<li>hyperlucent lung (99.7%)</li>
+<li>interstitial emphysema (99.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/orciprenaline/' | relative_url }}">View full drug report →</a></p>
 </div>

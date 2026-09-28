@@ -3,7 +3,7 @@ layout: default
 title: "Imatinib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Imatinib. Original indication: . 0 predicted indications."
+description: "Health news related to Imatinib. Original indication: . 10 predicted indications."
 permalink: /news/imatinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/imatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Imatinib?">
-<strong>Imatinib</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Imatinib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Imatinib with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>heart fibrosarcoma (99.9%)</li>
+<li>fibroblastic neoplasm (99.9%)</li>
+<li>conventional fibrosarcoma (99.9%)</li>
+<li>kidney fibrosarcoma (99.9%)</li>
+<li>low grade fibromyxoid sarcoma (99.9%)</li>
+<li>liposarcoma (99.9%)</li>
+<li>liver fibrosarcoma (99.9%)</li>
+<li>autosomal recessive familial Mediterranean fever (99.9%)</li>
+<li>ovarian myxoid liposarcoma (99.8%)</li>
+<li>familial rhabdoid tumor (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/imatinib/' | relative_url }}">View full drug report →</a></p>
 </div>

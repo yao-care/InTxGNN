@@ -3,7 +3,7 @@ layout: default
 title: "Cisatracurium News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cisatracurium. Original indication: . 0 predicted indications."
+description: "Health news related to Cisatracurium. Original indication: . 10 predicted indications."
 permalink: /news/cisatracurium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cisatracurium/
 ---
 
 <p class="key-answer" data-question="What news is there about Cisatracurium?">
-<strong>Cisatracurium</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Cisatracurium</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Cisatracurium with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>cauda equina syndrome (100.0%)</li>
+<li>preeclampsia (100.0%)</li>
+<li>obsolete neurogenic bladder (disease) (100.0%)</li>
+<li>migraine disorder (100.0%)</li>
+<li>thrombotic disease (100.0%)</li>
+<li>irritable bowel syndrome (100.0%)</li>
+<li>migraine with brainstem aura (100.0%)</li>
+<li>mild pre-eclampsia (100.0%)</li>
+<li>severe pre-eclampsia (100.0%)</li>
+<li>neurocirculatory asthenia (100.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/cisatracurium/' | relative_url }}">View full drug report →</a></p>
 </div>

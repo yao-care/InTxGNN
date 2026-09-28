@@ -3,7 +3,7 @@ layout: default
 title: "Citric Acid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Citric Acid. Original indication: . 0 predicted indications."
+description: "Health news related to Citric Acid. Original indication: . 8 predicted indications."
 permalink: /news/citric_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/citric_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Citric Acid?">
-<strong>Citric Acid</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Citric Acid</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,16 @@ This page combines the AI-predicted indications for Citric Acid with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (8)</strong>:<ul>
+<li>stomach disease (99.7%)</li>
+<li>pharyngitis (99.7%)</li>
+<li>acute laryngopharyngitis (99.6%)</li>
+<li>postgastrectomy syndrome (99.6%)</li>
+<li>nasal cavity disease (99.5%)</li>
+<li>papillary conjunctivitis (99.2%)</li>
+<li>blepharoconjunctivitis (99.1%)</li>
+<li>rhinitis (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/citric_acid/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Pseudoephedrine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pseudoephedrine. Original indication: . 0 predicted indications."
+description: "Health news related to Pseudoephedrine. Original indication: . 3 predicted indications."
 permalink: /news/pseudoephedrine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pseudoephedrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Pseudoephedrine?">
-<strong>Pseudoephedrine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pseudoephedrine</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ This page combines the AI-predicted indications for Pseudoephedrine with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>nasal cavity disease (99.8%)</li>
+<li>acute laryngopharyngitis (99.7%)</li>
+<li>allergic urticaria (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pseudoephedrine/' | relative_url }}">View full drug report →</a></p>
 </div>

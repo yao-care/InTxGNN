@@ -3,7 +3,7 @@ layout: default
 title: "Pegaptanib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pegaptanib. Original indication: . 0 predicted indications."
+description: "Health news related to Pegaptanib. Original indication: . 2 predicted indications."
 permalink: /news/pegaptanib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pegaptanib/
 ---
 
 <p class="key-answer" data-question="What news is there about Pegaptanib?">
-<strong>Pegaptanib</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pegaptanib</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Pegaptanib with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>esophageal varices with bleeding (99.2%)</li>
+<li>esophageal varices without bleeding (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pegaptanib/' | relative_url }}">View full drug report →</a></p>
 </div>

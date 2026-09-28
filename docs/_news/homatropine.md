@@ -3,7 +3,7 @@ layout: default
 title: "Homatropine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Homatropine. Original indication: . 0 predicted indications."
+description: "Health news related to Homatropine. Original indication: . 4 predicted indications."
 permalink: /news/homatropine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/homatropine/
 ---
 
 <p class="key-answer" data-question="What news is there about Homatropine?">
-<strong>Homatropine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Homatropine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,12 @@ This page combines the AI-predicted indications for Homatropine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>cauda equina syndrome (99.9%)</li>
+<li>obsolete neurogenic bladder (disease) (99.8%)</li>
+<li>gastroduodenitis (99.5%)</li>
+<li>overactive bladder (disease) (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/homatropine/' | relative_url }}">View full drug report →</a></p>
 </div>

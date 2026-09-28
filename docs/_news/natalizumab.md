@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>bronchitis (99.5%)</li>
 <li>parapsoriasis (99.4%)</li>
-<li>psoriasis (99.2%)</li>
+<li class="indication-matched">psoriasis (99.2%)<span class="indication-tag">📰 psoriasis</span></li>
 <li>severe nonproliferative diabetic retinopathy (99.2%)</li>
 <li>acute lichenoid pityriasis (99.0%)</li>
 </ul></li>
@@ -35,9 +35,15 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Mortality, Comorbidity Risk Increased With Generalized Pustular Psoriasis - Rheumatology Advisor](https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0VTLUk0VWFoLWZTNllFUG5CeVFDNU9kNjJKTUNCeFVhVkM2OW41czYzZGhYOXFodWl4OHhLeHVDTDdwVXlQVTlOdEh5bGk2NHBscExXTEhvR1Z2SlRaUG9WTXFSVkZSSEdoM3Bzcjh0TzV2ZjNjZkktVFRldHQxbk9JeDUwUkZndVA5UlY3MHViTDBSUUxOWVNRX1FKT1BPZ045ay1rQ0lZdGRJSm5abjhycno?oc=5)
+
+2026-09-28 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Rheumatology Advisor](https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0VTLUk0VWFoLWZTNllFUG5CeVFDNU9kNjJKTUNCeFVhVkM2OW41czYzZGhYOXFodWl4OHhLeHVDTDdwVXlQVTlOdEh5bGk2NHBscExXTEhvR1Z2SlRaUG9WTXFSVkZSSEdoM3Bzcjh0TzV2ZjNjZkktVFRldHQxbk9JeDUwUkZndVA5UlY3MHViTDBSUUxOWVNRX1FKT1BPZ045ay1rQ0lZdGRJSm5abjhycno?oc=5)
+
+---
 
 
 <div class="disclaimer">

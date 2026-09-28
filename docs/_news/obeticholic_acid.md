@@ -3,7 +3,7 @@ layout: default
 title: "Obeticholic Acid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Obeticholic Acid. Original indication: . 0 predicted indications."
+description: "Health news related to Obeticholic Acid. Original indication: . 6 predicted indications."
 permalink: /news/obeticholic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obeticholic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Obeticholic Acid?">
-<strong>Obeticholic Acid</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Obeticholic Acid</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,14 @@ This page combines the AI-predicted indications for Obeticholic Acid with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>rheumatoid arthritis (99.7%)</li>
+<li>conjunctivitis (99.5%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.3%)</li>
+<li>brachydactyly-syndactyly syndrome (99.3%)</li>
+<li>brain small vessel disease 1 with or without ocular anomalies (99.0%)</li>
+<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/obeticholic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>

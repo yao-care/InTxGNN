@@ -3,7 +3,7 @@ layout: default
 title: "Idebenone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Idebenone. Original indication: . 0 predicted indications."
+description: "Health news related to Idebenone. Original indication: . 10 predicted indications."
 permalink: /news/idebenone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/idebenone/
 ---
 
 <p class="key-answer" data-question="What news is there about Idebenone?">
-<strong>Idebenone</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Idebenone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Idebenone with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>hepatic porphyria (99.9%)</li>
+<li>hepatopulmonary syndrome (99.9%)</li>
+<li>primitive portal vein thrombosis (99.9%)</li>
+<li>early-onset familial noncirrhotic portal hypertension (99.9%)</li>
+<li>hepatoportal sclerosis (99.9%)</li>
+<li>idiopathic copper-associated cirrhosis (99.9%)</li>
+<li>immune-mediated necrotizing myopathy (99.8%)</li>
+<li>osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome (99.8%)</li>
+<li>antisynthetase syndrome (99.8%)</li>
+<li>focal myositis (99.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">View full drug report →</a></p>
 </div>

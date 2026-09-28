@@ -3,7 +3,7 @@ layout: default
 title: "Regorafenib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Regorafenib. Original indication: . 0 predicted indications."
+description: "Health news related to Regorafenib. Original indication: . 10 predicted indications."
 permalink: /news/regorafenib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/regorafenib/
 ---
 
 <p class="key-answer" data-question="What news is there about Regorafenib?">
-<strong>Regorafenib</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Regorafenib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Regorafenib with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>liposarcoma (99.8%)</li>
+<li>ovarian myxoid liposarcoma (99.7%)</li>
+<li>clear cell renal carcinoma (99.5%)</li>
+<li>renal cell carcinoma associated with neuroblastoma (99.2%)</li>
+<li>unclassified renal cell carcinoma (99.2%)</li>
+<li>renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions (99.2%)</li>
+<li>childhood kidney cell carcinoma (99.1%)</li>
+<li>vulva sarcoma (99.1%)</li>
+<li>spindle cell liposarcoma (98.8%)</li>
+<li>renal cell carcinoma (disease) (98.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/regorafenib/' | relative_url }}">View full drug report →</a></p>
 </div>

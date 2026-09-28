@@ -3,7 +3,7 @@ layout: default
 title: "Oxaceprol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Oxaceprol. Original indication: . 0 predicted indications."
+description: "Health news related to Oxaceprol. Original indication: . 10 predicted indications."
 permalink: /news/oxaceprol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxaceprol/
 ---
 
 <p class="key-answer" data-question="What news is there about Oxaceprol?">
-<strong>Oxaceprol</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Oxaceprol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Oxaceprol with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>spondyloarthropathy, susceptibility to (100.0%)</li>
+<li>ankylosing spondylitis (100.0%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
+<li>juvenile idiopathic arthritis (100.0%)</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
+<li>myosclerosis (100.0%)</li>
+<li>rheumatoid nodulosis (100.0%)</li>
+<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.9%)</li>
+<li>rheumatoid vasculitis (99.9%)</li>
+<li>pseudoachondroplasia (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxaceprol/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Cyproterone Acetate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cyproterone Acetate. Original indication: . 9 predicted indications."
+description: "Health news related to Cyproterone Acetate. Original indication: . 10 predicted indications."
 permalink: /news/cyproterone_acetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyproterone_acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Cyproterone Acetate?">
-<strong>Cyproterone Acetate</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Cyproterone Acetate</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,28 +24,45 @@ This page combines the AI-predicted indications for Cyproterone Acetate with the
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Migraine disorder | 99.66% | 3 literature (no trials) | Indirect hormone-therapy literature only; CPA/estrogen combinations are a relative contraindication in migraine with aura due to vascular risk (99.0%)</li>
-<li>Migraine with brainstem aura | 99.58% | None | No evidence; hormonal combinations are contraindicated in this migraine subtype (99.0%)</li>
-<li>Prinzmetal angina | 99.52% | None | No evidence; no known mechanistic link (coronary vasospasm) (99.0%)</li>
-<li>Antithrombin deficiency type 2 | 99.48% | None | **Mechanism-contradictory** — CPA/OC combinations increase thrombosis risk; relative contraindication, not a treatment opportunity (99.0%)</li>
-<li>Heparin cofactor 2 deficiency | 99.45% | None | Same as above (99.0%)</li>
-<li>Factor 5 excess with spontaneous thrombosis | 99.45% | None | Same as above (Factor V Leiden interaction documented as risk-additive) (99.0%)</li>
-<li>Migraine susceptibility | 99.34% | None | Genetic susceptibility marker, not a treatable indication (99.0%)</li>
-<li>Breast fibrocystic disease | 99.15% | None | Plausible mechanism (progestogen effect) but zero supporting evidence (99.0%)</li>
-<li>Thrombophilia | 99.03% | 18 literature (all reverse-signal) | **Mechanism-contradictory** — all 18 papers document CPA/EE combinations *increasing* venous/arterial thromboembolic risk (APC resistance, thrombin generation); this is a safety signal, not a repurposing opportunity (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>migraine disorder (99.7%)</li>
+<li>migraine with brainstem aura (99.6%)</li>
+<li>Prinzmetal angina (99.5%)</li>
+<li>antithrombin deficiency type 2 (99.5%)</li>
+<li>heparin cofactor 2 deficiency (99.5%)</li>
+<li>factor 5 excess with spontaneous thrombosis (99.5%)</li>
+<li>migraine with or without aura, susceptibility to (99.3%)</li>
+<li>amenorrhea (disease) (99.3%)</li>
+<li>breast fibrocystic disease (99.2%)</li>
+<li>thrombophilia (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyproterone_acetate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
 
-### [Eating at Odd Hours on Weekends? The Hidden Heart Risk You Didn’t Expect - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMk9mV3JsLXg4Mlc4RGtvVTJ4eDZlREtWWmNMT2NfZkdrV0ozNnFIQ3ZxdjBvTkY1VEMzckZDdUszb0tZMVFrUkdiMmJNZFNKSlBnM2MzR0dDMGRFdWd2S0dtTTA5SFFxYXRyR2ZQSlJ0a1VRYndOM095bGtLWEs0QzZ2QzljNGlYSW5hUnRINmx2bEhtUV92MzVNNjNwSTB6LVJMakRMNXVPaXhXTHJnLWZR?oc=5)
+### [Conference MDAngle: HFSA 2026 Amyloidosis/ATTR-CM](https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXJkMldaM0s0TjJJYVBEY0JuSklXSHNWNkpIVEhVRGlzV2c0N3F4RXFheFVDdFdDN2NfSXpQRTMzU2VFWDJwY3JNQVBEV0JvR1g1WmpGRHRXeWRySndMMDFrV1dsZENCN1pMbV8tcms1RHRTeDVIczhyQk9pd3IyYkpFaFd0ME5pWl9GV2k2QTNXdldSQ0JETFN2c0ZSbkVPcXV3?oc=5)
 
-2026-09-27 <span class="news-indication-tag">heart disease</span>
+2026-09-28 <span class="news-indication-tag">heart disease</span>
 
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMk9mV3JsLXg4Mlc4RGtvVTJ4eDZlREtWWmNMT2NfZkdrV0ozNnFIQ3ZxdjBvTkY1VEMzckZDdUszb0tZMVFrUkdiMmJNZFNKSlBnM2MzR0dDMGRFdWd2S0dtTTA5SFFxYXRyR2ZQSlJ0a1VRYndOM095bGtLWEs0QzZ2QzljNGlYSW5hUnRINmx2bEhtUV92MzVNNjNwSTB6LVJMakRMNXVPaXhXTHJnLWZR?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXJkMldaM0s0TjJJYVBEY0JuSklXSHNWNkpIVEhVRGlzV2c0N3F4RXFheFVDdFdDN2NfSXpQRTMzU2VFWDJwY3JNQVBEV0JvR1g1WmpGRHRXeWRySndMMDFrV1dsZENCN1pMbV8tcms1RHRTeDVIczhyQk9pd3IyYkpFaFd0ME5pWl9GV2k2QTNXdldSQ0JETFN2c0ZSbkVPcXV3?oc=5)
+
+---
+
+### [The next phase of cardiac care is rehabilitation at home](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZURkVVpMNFY5VWp5MUwxZDczUnprLWNtT2JzeHZGVmFkdW9UbjJqZFBTdTh5bFROaXQxWWh1cUhWajRzVEEtSmNnVFJWeEhRSXptbE5zQW1XemVRLTdnX0J2MjNxMlRrdGRucDZwbkd5UGp4T0U2RVc4UF9vUWlXbHNfdmFOWnB4ZUJEVFZTMGNQMjg4Zi1fMEg4RkoyYmxKUXFCeQ?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [expresshealthcare.in](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZURkVVpMNFY5VWp5MUwxZDczUnprLWNtT2JzeHZGVmFkdW9UbjJqZFBTdTh5bFROaXQxWWh1cUhWajRzVEEtSmNnVFJWeEhRSXptbE5zQW1XemVRLTdnX0J2MjNxMlRrdGRucDZwbkd5UGp4T0U2RVc4UF9vUWlXbHNfdmFOWnB4ZUJEVFZTMGNQMjg4Zi1fMEg4RkoyYmxKUXFCeQ?oc=5)
+
+---
+
+### [Physical decline may precede major cardiovascular events by a decade: study](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BcEg1YkR0TXV6YllZXzhPTDNWRnllQ1FQUVc1dWJEQXJOUERPRUE0N2o4X2RteWZRQ2tQOEtyUmtsSHZaSUJKZm9kemN1M2FtcE1OLW9yT21xaVV5bEFuUzgwZ0c2SWR2VkhoT09xNVBES1d5NzgzRXhMT1U?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [Xinhua](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BcEg1YkR0TXV6YllZXzhPTDNWRnllQ1FQUVc1dWJEQXJOUERPRUE0N2o4X2RteWZRQ2tQOEtyUmtsSHZaSUJKZm9kemN1M2FtcE1OLW9yT21xaVV5bEFuUzgwZ0c2SWR2VkhoT09xNVBES1d5NzgzRXhMT1U?oc=5)
 
 ---
 

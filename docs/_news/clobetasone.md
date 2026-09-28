@@ -3,7 +3,7 @@ layout: default
 title: "Clobetasone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clobetasone. Original indication: . 0 predicted indications."
+description: "Health news related to Clobetasone. Original indication: . 10 predicted indications."
 permalink: /news/clobetasone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clobetasone/
 ---
 
 <p class="key-answer" data-question="What news is there about Clobetasone?">
-<strong>Clobetasone</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Clobetasone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Clobetasone with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>primary cutaneous T-cell lymphoma (100.0%)</li>
+<li>Sezary syndrome (99.8%)</li>
+<li>primary cutaneous B-cell lymphoma (99.8%)</li>
+<li>granulomatous slack skin disease (99.7%)</li>
+<li>Crohn's colitis (99.7%)</li>
+<li>adrenocortical insufficiency (99.7%)</li>
+<li>primary cutaneous T-cell non-Hodgkin lymphoma (99.7%)</li>
+<li>nephrotic syndrome (99.7%)</li>
+<li>cystic teratoma (99.7%)</li>
+<li>spinal cord dermoid cyst (99.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/clobetasone/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Silver News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Silver. Original indication: . 0 predicted indications."
+description: "Health news related to Silver. Original indication: . 10 predicted indications."
 permalink: /news/silver/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/silver/
 ---
 
 <p class="key-answer" data-question="What news is there about Silver?">
-<strong>Silver</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Silver</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Silver with the latest healt
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>bone Paget disease (99.7%)</li>
+<li>amenorrhea (disease) (98.5%)</li>
+<li>non-syndromic esophageal malformation (98.2%)</li>
+<li>juvenile Paget disease (98.1%)</li>
+<li>esotropia (98.0%)</li>
+<li>epidermodysplasia verruciformis (97.6%)</li>
+<li>esophageal disease (97.5%)</li>
+<li>Paget disease of bone (97.2%)</li>
+<li>myelodysplastic syndrome (97.0%)</li>
+<li>primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection (96.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/silver/' | relative_url }}">View full drug report →</a></p>
 </div>

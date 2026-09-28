@@ -3,7 +3,7 @@ layout: default
 title: "Halometasone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Halometasone. Original indication: . 0 predicted indications."
+description: "Health news related to Halometasone. Original indication: . 10 predicted indications."
 permalink: /news/halometasone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/halometasone/
 ---
 
 <p class="key-answer" data-question="What news is there about Halometasone?">
-<strong>Halometasone</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Halometasone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Halometasone with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>primary cutaneous T-cell lymphoma (99.6%)</li>
+<li>polyp of vocal cord (99.6%)</li>
+<li>polyp of middle ear (99.6%)</li>
+<li>uterine polyp (99.6%)</li>
+<li>polyp of external auditory canal (99.6%)</li>
+<li>polyp of frontal sinus (99.6%)</li>
+<li>polyp of ureter (99.6%)</li>
+<li>fibroepithelial polyp (99.6%)</li>
+<li>polyp of vulva (99.6%)</li>
+<li>neoplastic polyp (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/halometasone/' | relative_url }}">View full drug report →</a></p>
 </div>

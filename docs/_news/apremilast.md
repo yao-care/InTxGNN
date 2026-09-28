@@ -14,7 +14,7 @@ permalink: /news/apremilast/
 ---
 
 <p class="key-answer" data-question="What news is there about Apremilast?">
-<strong>Apremilast</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Apremilast</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,29 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Xella Health Builds Women's Precision Health Operating System](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT095ck4zUHBCRnE4d3VWdlZWazh5UXFWb2Z4d3Z5dmtEZTZKcjRSWUp6aXgyWC12S2twT3dON1A0Q05FRTRyYzNidmkzY2k5TXNyXzIxUGxzVlVxTU92a25nY1RKOWFHWTR0Rm1KNlZMdVpVOWNhcUZUY1ZUSGdoNFpLTnQwdll5QmtWVXVVOXZMdGJyLWdPUk94WWZpVWxLeTJpalZMUlhHeWs2a2dfQkhR?oc=5)
+### [Infections at birth substantially increase the risk of autism and intellectual disability, study finds](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNG0zMGVVYnJZeTd2bExkREo3N1pYQTM3Z0FLZXptNzB0MU9fOFgwMVF1V3c4cWpTRnQzT0JRY3dIb1BPbUVBWmJGbVBvd3VlQl9jWVpqZndxcHo4eGY5dGlXWllNbnpOMVBBRW5Qcks0YjVYSDJpZndqV1lYSEVpRVExWk5iQ3lZSjEzQm83MEtwcm5KcjE3VnlOcTBteWsyRXBQTUphSUYybXJKTDdtQXdMQXNWeXZ3bE5iaXFUVWsyS1Zw?oc=5)
 
 2026-09-28 <span class="news-indication-tag">RA</span>
 
-Source: [Forbes](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT095ck4zUHBCRnE4d3VWdlZWazh5UXFWb2Z4d3Z5dmtEZTZKcjRSWUp6aXgyWC12S2twT3dON1A0Q05FRTRyYzNidmkzY2k5TXNyXzIxUGxzVlVxTU92a25nY1RKOWFHWTR0Rm1KNlZMdVpVOWNhcUZUY1ZUSGdoNFpLTnQwdll5QmtWVXVVOXZMdGJyLWdPUk94WWZpVWxLeTJpalZMUlhHeWs2a2dfQkhR?oc=5)
+Source: [CIDRAP](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNG0zMGVVYnJZeTd2bExkREo3N1pYQTM3Z0FLZXptNzB0MU9fOFgwMVF1V3c4cWpTRnQzT0JRY3dIb1BPbUVBWmJGbVBvd3VlQl9jWVpqZndxcHo4eGY5dGlXWllNbnpOMVBBRW5Qcks0YjVYSDJpZndqV1lYSEVpRVExWk5iQ3lZSjEzQm83MEtwcm5KcjE3VnlOcTBteWsyRXBQTUphSUYybXJKTDdtQXdMQXNWeXZ3bE5iaXFUVWsyS1Zw?oc=5)
 
 ---
 
-### [WHO selects viruses for 2027 southern hemisphere flu shots](https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkc1aUVTTG1aN1JzM3FNNE5lTjhScUFEdWp5TmpRNzcxN1NSVm1ETWVoUzUyR1RPTWlSUktJdExXX2M2YVQwUm5NalcwSXhqLUtESDVoVG9aNHBOZzQxNEpNSHBRQ3dLVDNwdTcyTnZDWk5oYVBwR1VMQmNvN1dmRXkwWUJRZ185MDE3bHA2WXhlU3VnQXlSUnE2OHNIei1tX2c?oc=5)
+### [Xella Health Builds Women's Precision Health Operating System](https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1MwWm4xSTNaMzRKNi1IWW9JcXoyNVVvSEp0Q0pGeFMtSE9KWE5kcC1QWVcycmxiODg3c3VMcFQ2VlhoNENUWmlqM2hKd2lJX2VCdUowYVJvQlR5bm1kbTdWUjFnVmpJUXNKVGtVc0tQZ2pGajdwMjE5TWMxUnR6aEFGYWNhWmNWY2xqcmdCNVg2dDFRYm83VVIybXZPUE5rV1UzNG1xeVhVMjJfaFg4YURn?oc=5)
 
-2026-09-25 <span class="news-indication-tag">RA</span>
+2026-09-28 <span class="news-indication-tag">RA</span>
 
-Source: [CIDRAP](https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkc1aUVTTG1aN1JzM3FNNE5lTjhScUFEdWp5TmpRNzcxN1NSVm1ETWVoUzUyR1RPTWlSUktJdExXX2M2YVQwUm5NalcwSXhqLUtESDVoVG9aNHBOZzQxNEpNSHBRQ3dLVDNwdTcyTnZDWk5oYVBwR1VMQmNvN1dmRXkwWUJRZ185MDE3bHA2WXhlU3VnQXlSUnE2OHNIei1tX2c?oc=5)
+Source: [Forbes](https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1MwWm4xSTNaMzRKNi1IWW9JcXoyNVVvSEp0Q0pGeFMtSE9KWE5kcC1QWVcycmxiODg3c3VMcFQ2VlhoNENUWmlqM2hKd2lJX2VCdUowYVJvQlR5bm1kbTdWUjFnVmpJUXNKVGtVc0tQZ2pGajdwMjE5TWMxUnR6aEFGYWNhWmNWY2xqcmdCNVg2dDFRYm83VVIybXZPUE5rV1UzNG1xeVhVMjJfaFg4YURn?oc=5)
+
+---
+
+### [WHO Sets 2027 Southern Hemisphere Flu Vaccine Formula as Viruses Shape Risks](https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEpTLU5XMWhUNjh3RjA3Z0Nabjk0VzFwYlFYZWVpeERTc0hfZXNtRGV6RTg1N3VEWmxCS0ozcVNTeERhYVVCMVZOZE5yLUxsRkZmNC1GZ2tWM0dLWWVUS3J2OE85ZEFlMV9oZGxHajhRcnFsRDZiM3JQdGpBNDlFTTRKc1U2R3Z2Zzk5RV83QmRzZWtMeGt2UGNtbFdjY0szcEo0cFJoRTFsTVgwZ3dWRkoxbWZBdjhJUFF6c25JSDA1Und3NXhB0gHMAUFVX3lxTE9sQVNYbGNoVnhmRlRBdWdZUlJaVklwLWpaMGhDM2JFVExJY0M0VlZ5Q0g4MWVGN05rNGlxVkFZUnNOdEpBNlFQUmF2SXlYaTlyVVl0ZVpISTBLZzliRFhqQWUwSktZZWVvbFZtMW1DQkJPUWRPckZzVlJwWkJMUTMtdmZPd05tOUZDbEg0Z1k1T21YZUhtcmhrSmxvOU80RnVwamg0OTdhUmhBclpXSlVabER4WEhfZk5fVnhJdzk5UU4xeXZjVGNVbjFDQw?oc=5)
+
+2026-09-28 <span class="news-indication-tag">RA</span>
+
+Source: [Devdiscourse](https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEpTLU5XMWhUNjh3RjA3Z0Nabjk0VzFwYlFYZWVpeERTc0hfZXNtRGV6RTg1N3VEWmxCS0ozcVNTeERhYVVCMVZOZE5yLUxsRkZmNC1GZ2tWM0dLWWVUS3J2OE85ZEFlMV9oZGxHajhRcnFsRDZiM3JQdGpBNDlFTTRKc1U2R3Z2Zzk5RV83QmRzZWtMeGt2UGNtbFdjY0szcEo0cFJoRTFsTVgwZ3dWRkoxbWZBdjhJUFF6c25JSDA1Und3NXhB0gHMAUFVX3lxTE9sQVNYbGNoVnhmRlRBdWdZUlJaVklwLWpaMGhDM2JFVExJY0M0VlZ5Q0g4MWVGN05rNGlxVkFZUnNOdEpBNlFQUmF2SXlYaTlyVVl0ZVpISTBLZzliRFhqQWUwSktZZWVvbFZtMW1DQkJPUWRPckZzVlJwWkJMUTMtdmZPd05tOUZDbEg0Z1k1T21YZUhtcmhrSmxvOU80RnVwamg0OTdhUmhBclpXSlVabER4WEhfZk5fVnhJdzk5UU4xeXZjVGNVbjFDQw?oc=5)
 
 ---
 

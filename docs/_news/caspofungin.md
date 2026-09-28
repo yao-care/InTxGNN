@@ -3,7 +3,7 @@ layout: default
 title: "Caspofungin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Caspofungin. Original indication: . 3 predicted indications."
+description: "Health news related to Caspofungin. Original indication: . 10 predicted indications."
 permalink: /news/caspofungin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/caspofungin/
 ---
 
 <p class="key-answer" data-question="What news is there about Caspofungin?">
-<strong>Caspofungin</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Caspofungin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,17 @@ This page combines the AI-predicted indications for Caspofungin with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>**Candida glabrata** infection | L2 | Proceed with Guardrails (99.0%)</li>
-<li>**Neonatal Candidiasis** | L2 | Research Question (99.0%)</li>
-<li>**Congenital Candidiasis** | L2 | Proceed with Guardrails (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>gastrin secretion abnormality (99.4%)</li>
+<li>punctate epithelial keratoconjunctivitis (98.9%)</li>
+<li>abnormality of glucagon secretion (97.7%)</li>
+<li>HIV infectious disease (96.7%)</li>
+<li>simian immunodeficiency virus infection (96.4%)</li>
+<li>feline acquired immunodeficiency syndrome (96.4%)</li>
+<li>exposure keratitis (95.8%)</li>
+<li>candida glabrata (95.2%)</li>
+<li>neonatal candidiasis (95.2%)</li>
+<li>congenital candidiasis (95.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/caspofungin/' | relative_url }}">View full drug report →</a></p>

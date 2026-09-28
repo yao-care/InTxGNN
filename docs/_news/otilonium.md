@@ -3,7 +3,7 @@ layout: default
 title: "Otilonium News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Otilonium. Original indication: . 0 predicted indications."
+description: "Health news related to Otilonium. Original indication: . 10 predicted indications."
 permalink: /news/otilonium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/otilonium/
 ---
 
 <p class="key-answer" data-question="What news is there about Otilonium?">
-<strong>Otilonium</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Otilonium</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Otilonium with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>hypertrichosis (disease) (98.9%)</li>
+<li>syndrome with a Dandy-Walker malformation as major feature (98.6%)</li>
+<li>Ambras type hypertrichosis universalis congenita (98.6%)</li>
+<li>malformation syndrome with odontal and/or periodontal component (98.6%)</li>
+<li>isolated genetic hair shaft abnormality (98.5%)</li>
+<li>polyp of vocal cord (98.5%)</li>
+<li>polyp of middle ear (98.5%)</li>
+<li>uterine polyp (98.5%)</li>
+<li>polyp of external auditory canal (98.5%)</li>
+<li>polyp of frontal sinus (98.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/otilonium/' | relative_url }}">View full drug report →</a></p>
 </div>

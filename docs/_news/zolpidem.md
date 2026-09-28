@@ -3,7 +3,7 @@ layout: default
 title: "Zolpidem News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Zolpidem. Original indication: . 0 predicted indications."
+description: "Health news related to Zolpidem. Original indication: . 3 predicted indications."
 permalink: /news/zolpidem/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zolpidem/
 ---
 
 <p class="key-answer" data-question="What news is there about Zolpidem?">
-<strong>Zolpidem</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Zolpidem</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ This page combines the AI-predicted indications for Zolpidem with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>sleep disorder, initiating and maintaining sleep (99.9%)</li>
+<li>benign paroxysmal torticollis of infancy (99.3%)</li>
+<li>agoraphobia (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/zolpidem/' | relative_url }}">View full drug report →</a></p>
 </div>

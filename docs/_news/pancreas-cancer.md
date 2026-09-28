@@ -31,11 +31,11 @@ This page brings together the latest health news about “pancreatic cancer” a
 
 ## Related News (1)
 
-### [Blood Test May Help Detect Pancreatic Cancer In Earliest Stages: Researchers](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHI1RG5xZnlya2Z2Y25xVjlMMi10Nk0xbVJ6ckMzaGVRalVjaXIyTVBzMXEwNHpBRWkzN3FOMVZYZTY4Zm1aZ1N6QXhtQ0c4WWt5ZnBvLWE2QzFtNi11Vm5yTkV5WGlsMjRwYkRnTmx0TVZERklFem1hTkEwbWV4bnl5NXRWWDIzVU8yVFN1ck9sMUlIRDFRbkk3QUV2QmI4WlBWaWVLYV9YY3htWVY2Z2lB?oc=5)
+### [Blood-Based Assay Shows Promise in Detection of Early Pancreatic Cancer - Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlJqUkxEVklhT0ZyWlhMeVFKMHFNcUhVVEoxeVY2OEtEd3JjYnB4UjJRMW5HWjJjNEIzYTlsbGx3V1g1MXJzM3BRLWVidVY5ZlBIc1M3TE9KYW55S0VTc3FTT1JIM0RTczl1N0VuUnlBaXYzSFkzZXkxT2VNNjlCRnpCSWxjd3hJVnhOVzJ1M3RNX0RHT3czQkl3?oc=5)
 
 2026-09-22
 
-Source: [NDTV](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHI1RG5xZnlya2Z2Y25xVjlMMi10Nk0xbVJ6ckMzaGVRalVjaXIyTVBzMXEwNHpBRWkzN3FOMVZYZTY4Zm1aZ1N6QXhtQ0c4WWt5ZnBvLWE2QzFtNi11Vm5yTkV5WGlsMjRwYkRnTmx0TVZERklFem1hTkEwbWV4bnl5NXRWWDIzVU8yVFN1ck9sMUlIRDFRbkk3QUV2QmI4WlBWaWVLYV9YY3htWVY2Z2lB?oc=5)
+Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlJqUkxEVklhT0ZyWlhMeVFKMHFNcUhVVEoxeVY2OEtEd3JjYnB4UjJRMW5HWjJjNEIzYTlsbGx3V1g1MXJzM3BRLWVidVY5ZlBIc1M3TE9KYW55S0VTc3FTT1JIM0RTczl1N0VuUnlBaXYzSFkzZXkxT2VNNjlCRnpCSWxjd3hJVnhOVzJ1M3RNX0RHT3czQkl3?oc=5)
 
 ---
 

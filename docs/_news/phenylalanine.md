@@ -3,7 +3,7 @@ layout: default
 title: "Phenylalanine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Phenylalanine. Original indication: . 0 predicted indications."
+description: "Health news related to Phenylalanine. Original indication: . 2 predicted indications."
 permalink: /news/phenylalanine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/phenylalanine/
 ---
 
 <p class="key-answer" data-question="What news is there about Phenylalanine?">
-<strong>Phenylalanine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Phenylalanine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Phenylalanine with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>sclerosing cholangitis (99.4%)</li>
+<li>congenital prothrombin deficiency (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenylalanine/' | relative_url }}">View full drug report →</a></p>
 </div>

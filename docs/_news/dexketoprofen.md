@@ -25,16 +25,16 @@ This page combines the AI-predicted indications for Dexketoprofen with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Tendinitis | 99.90% | L4 | Research Question (99.0%)</li>
-<li>Fibromyalgia | 99.88% | L5 | Hold (99.0%)</li>
-<li>Idiopathic Granulomatous Myositis | 99.88% | L5 | Hold (99.0%)</li>
-<li>Myositis Fibrosa | 99.88% | L5 | Hold (99.0%)</li>
-<li>Rheumatoid Arthritis | 99.88% | L5 | Hold (99.0%)</li>
-<li>**Migraine Disorder** | 99.87% | **L1** | **Proceed with Guardrails** (99.0%)</li>
-<li>**Headache Disorder** | 99.86% | **L1** | **Proceed with Guardrails** (99.0%)</li>
-<li>Migraine with Brainstem Aura | 99.86% | L3 | Research Question (99.0%)</li>
-<li>Exostosis | 99.85% | L5 | Hold (99.0%)</li>
-<li>Congenital Hypotrichosis Milia | 99.83% | L5 | Hold (99.0%)</li>
+<li>tendinitis (99.9%)</li>
+<li>fibromyalgia (99.9%)</li>
+<li>idiopathic granulomatous myositis (99.9%)</li>
+<li>myositis fibrosa (99.9%)</li>
+<li>rheumatoid arthritis (99.9%)</li>
+<li>migraine disorder (99.9%)</li>
+<li>headache disorder (99.9%)</li>
+<li>migraine with brainstem aura (99.9%)</li>
+<li>exostosis (99.8%)</li>
+<li>congenital hypotrichosis milia (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexketoprofen/' | relative_url }}">View full drug report →</a></p>

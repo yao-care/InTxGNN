@@ -3,7 +3,7 @@ layout: default
 title: "Vandetanib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vandetanib. Original indication: . 0 predicted indications."
+description: "Health news related to Vandetanib. Original indication: . 10 predicted indications."
 permalink: /news/vandetanib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vandetanib/
 ---
 
 <p class="key-answer" data-question="What news is there about Vandetanib?">
-<strong>Vandetanib</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Vandetanib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Vandetanib with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>renal cell carcinoma (disease) (99.9%)</li>
+<li>renal cell carcinoma associated with neuroblastoma (99.9%)</li>
+<li>renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions (99.9%)</li>
+<li>unclassified renal cell carcinoma (99.9%)</li>
+<li>renal pelvis carcinoma (99.9%)</li>
+<li>clear cell renal carcinoma (99.9%)</li>
+<li>childhood kidney cell carcinoma (99.9%)</li>
+<li>renal carcinoma (99.8%)</li>
+<li>angiolipoma (99.8%)</li>
+<li>familial spontaneous pneumothorax (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/vandetanib/' | relative_url }}">View full drug report →</a></p>
 </div>

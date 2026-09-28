@@ -3,7 +3,7 @@ layout: default
 title: "Hyaluronic Acid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Hyaluronic Acid. Original indication: . 0 predicted indications."
+description: "Health news related to Hyaluronic Acid. Original indication: . 10 predicted indications."
 permalink: /news/hyaluronic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hyaluronic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Hyaluronic Acid?">
-<strong>Hyaluronic Acid</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Hyaluronic Acid</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Hyaluronic Acid with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>dry eye syndrome (99.9%)</li>
+<li>Sjogren syndrome (99.7%)</li>
+<li>xerophthalmia (99.6%)</li>
+<li>psoriasis (99.6%)</li>
+<li>dermatitis, atopic (99.6%)</li>
+<li>prolapse of lacrimal gland (99.5%)</li>
+<li>parapsoriasis (99.5%)</li>
+<li>pityriasis lichenoides (99.5%)</li>
+<li>severe nonproliferative diabetic retinopathy (99.4%)</li>
+<li>exanthem (disease) (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/hyaluronic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>

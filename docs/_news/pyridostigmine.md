@@ -3,7 +3,7 @@ layout: default
 title: "Pyridostigmine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pyridostigmine. Original indication: . 0 predicted indications."
+description: "Health news related to Pyridostigmine. Original indication: . 7 predicted indications."
 permalink: /news/pyridostigmine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pyridostigmine/
 ---
 
 <p class="key-answer" data-question="What news is there about Pyridostigmine?">
-<strong>Pyridostigmine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pyridostigmine</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,15 @@ This page combines the AI-predicted indications for Pyridostigmine with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>myasthenia gravis with thymus hyperplasia (99.8%)</li>
+<li>neonatal myasthenia gravis (99.8%)</li>
+<li>autoimmune disease of peripheral nervous system (99.8%)</li>
+<li>myasthenia, limb-girdle, autoimmune (99.7%)</li>
+<li>disease of receptor activity (99.7%)</li>
+<li>hypersplenism (disease) (99.3%)</li>
+<li>atypical hemolytic-uremic syndrome with B factor anomaly (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pyridostigmine/' | relative_url }}">View full drug report →</a></p>
 </div>

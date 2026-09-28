@@ -3,7 +3,7 @@ layout: default
 title: "Evogliptin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Evogliptin. Original indication: . 0 predicted indications."
+description: "Health news related to Evogliptin. Original indication: . 5 predicted indications."
 permalink: /news/evogliptin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/evogliptin/
 ---
 
 <p class="key-answer" data-question="What news is there about Evogliptin?">
-<strong>Evogliptin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Evogliptin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,13 @@ This page combines the AI-predicted indications for Evogliptin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>opsismodysplasia (99.3%)</li>
+<li>thiamine-responsive dysfunction syndrome (99.3%)</li>
+<li>focal stiff limb syndrome (99.3%)</li>
+<li>classic stiff person syndrome (99.3%)</li>
+<li>drug-induced localized lipodystrophy (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/evogliptin/' | relative_url }}">View full drug report →</a></p>
 </div>

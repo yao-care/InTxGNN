@@ -3,7 +3,7 @@ layout: default
 title: "Terfenadine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Terfenadine. Original indication: . 0 predicted indications."
+description: "Health news related to Terfenadine. Original indication: . 5 predicted indications."
 permalink: /news/terfenadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/terfenadine/
 ---
 
 <p class="key-answer" data-question="What news is there about Terfenadine?">
-<strong>Terfenadine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Terfenadine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,13 @@ This page combines the AI-predicted indications for Terfenadine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>allergic urticaria (99.9%)</li>
+<li>nasal cavity disease (99.6%)</li>
+<li>acute laryngopharyngitis (99.6%)</li>
+<li>cold urticaria (99.5%)</li>
+<li>rosacea conjunctivitis (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/terfenadine/' | relative_url }}">View full drug report →</a></p>
 </div>

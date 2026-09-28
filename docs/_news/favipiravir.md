@@ -3,7 +3,7 @@ layout: default
 title: "Favipiravir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Favipiravir. Original indication: . 0 predicted indications."
+description: "Health news related to Favipiravir. Original indication: . 3 predicted indications."
 permalink: /news/favipiravir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/favipiravir/
 ---
 
 <p class="key-answer" data-question="What news is there about Favipiravir?">
-<strong>Favipiravir</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Favipiravir</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ This page combines the AI-predicted indications for Favipiravir with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>acquired hemophagocytic lymphohistiocytosis associated with malignant disease (99.4%)</li>
+<li>hemophagocytic syndrome associated with an infection (99.4%)</li>
+<li>cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/favipiravir/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Pramipexole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pramipexole. Original indication: . 0 predicted indications."
+description: "Health news related to Pramipexole. Original indication: . 10 predicted indications."
 permalink: /news/pramipexole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pramipexole/
 ---
 
 <p class="key-answer" data-question="What news is there about Pramipexole?">
-<strong>Pramipexole</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pramipexole</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Pramipexole with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>attention deficit-hyperactivity disorder (100.0%)</li>
+<li>faciodigitogenital syndrome (100.0%)</li>
+<li>attention deficit hyperactivity disorder, inattentive type (100.0%)</li>
+<li>specific developmental disorder (100.0%)</li>
+<li>chondromyxoid fibroma (100.0%)</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.6%)</li>
+<li>congenital disorder of glycosylation with defective fucosylation (99.5%)</li>
+<li>retinal dystrophy with or without extraocular anomalies (99.5%)</li>
+<li>schizophrenia (99.5%)</li>
+<li>atypical glycine encephalopathy (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pramipexole/' | relative_url }}">View full drug report →</a></p>
 </div>

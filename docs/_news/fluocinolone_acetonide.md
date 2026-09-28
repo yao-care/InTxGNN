@@ -3,7 +3,7 @@ layout: default
 title: "Fluocinolone Acetonide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fluocinolone Acetonide. Original indication: . 0 predicted indications."
+description: "Health news related to Fluocinolone Acetonide. Original indication: . 4 predicted indications."
 permalink: /news/fluocinolone_acetonide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluocinolone_acetonide/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluocinolone Acetonide?">
-<strong>Fluocinolone Acetonide</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Fluocinolone Acetonide</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,12 @@ This page combines the AI-predicted indications for Fluocinolone Acetonide with 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>lichen planus pigmentosus (99.4%)</li>
+<li>annular atrophic lichen planus (99.4%)</li>
+<li>hypertrophic lichen planus (99.4%)</li>
+<li>lichen planus pemphigoides (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluocinolone_acetonide/' | relative_url }}">View full drug report →</a></p>
 </div>

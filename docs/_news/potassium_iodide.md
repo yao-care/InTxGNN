@@ -3,7 +3,7 @@ layout: default
 title: "Potassium Iodide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Potassium Iodide. Original indication: . 0 predicted indications."
+description: "Health news related to Potassium Iodide. Original indication: . 2 predicted indications."
 permalink: /news/potassium_iodide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/potassium_iodide/
 ---
 
 <p class="key-answer" data-question="What news is there about Potassium Iodide?">
-<strong>Potassium Iodide</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Potassium Iodide</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Potassium Iodide with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>nasal cavity disease (100.0%)</li>
+<li>acute laryngopharyngitis (100.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/potassium_iodide/' | relative_url }}">View full drug report →</a></p>
 </div>

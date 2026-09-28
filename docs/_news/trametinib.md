@@ -3,7 +3,7 @@ layout: default
 title: "Trametinib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Trametinib. Original indication: . 0 predicted indications."
+description: "Health news related to Trametinib. Original indication: . 10 predicted indications."
 permalink: /news/trametinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/trametinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Trametinib?">
-<strong>Trametinib</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Trametinib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Trametinib with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>choroideremia (99.3%)</li>
+<li>non-cutaneous melanoma (99.3%)</li>
+<li>epithelioid cell melanoma (99.3%)</li>
+<li>eyelid melanoma (99.3%)</li>
+<li>scrotum melanoma (99.2%)</li>
+<li>acral lentiginous melanoma (disease) (99.1%)</li>
+<li>lentigo maligna melanoma (99.1%)</li>
+<li>nodular malignant melanoma (99.1%)</li>
+<li>balloon cell malignant melanoma (99.1%)</li>
+<li>superficial spreading melanoma (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/trametinib/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Pentosan Polysulfate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pentosan Polysulfate. Original indication: . 0 predicted indications."
+description: "Health news related to Pentosan Polysulfate. Original indication: . 3 predicted indications."
 permalink: /news/pentosan_polysulfate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pentosan_polysulfate/
 ---
 
 <p class="key-answer" data-question="What news is there about Pentosan Polysulfate?">
-<strong>Pentosan Polysulfate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pentosan Polysulfate</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ This page combines the AI-predicted indications for Pentosan Polysulfate with th
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>primary release disorder of platelets (99.7%)</li>
+<li>Glanzmann thrombasthenia (99.7%)</li>
+<li>pseudo-von Willebrand disease (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pentosan_polysulfate/' | relative_url }}">View full drug report →</a></p>
 </div>

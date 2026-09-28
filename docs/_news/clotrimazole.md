@@ -3,7 +3,7 @@ layout: default
 title: "Clotrimazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clotrimazole. Original indication: . 0 predicted indications."
+description: "Health news related to Clotrimazole. Original indication: . 3 predicted indications."
 permalink: /news/clotrimazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clotrimazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Clotrimazole?">
-<strong>Clotrimazole</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Clotrimazole</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ This page combines the AI-predicted indications for Clotrimazole with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>acne (disease) (99.9%)</li>
+<li>vulvovaginitis (99.6%)</li>
+<li>postmenopausal atrophic vaginitis (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/clotrimazole/' | relative_url }}">View full drug report →</a></p>
 </div>

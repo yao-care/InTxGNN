@@ -3,7 +3,7 @@ layout: default
 title: "Ramucirumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ramucirumab. Original indication: . 0 predicted indications."
+description: "Health news related to Ramucirumab. Original indication: . 10 predicted indications."
 permalink: /news/ramucirumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>uterine ligament adenocarcinoma (100.0%)</li>
+<li>endocervical carcinoma (100.0%)</li>
+<li>adenoid cystic carcinoma of the cervix uteri (100.0%)</li>
+<li>uterine ligament serous adenocarcinoma (99.9%)</li>
+<li>signet ring cell variant cervical mucinous adenocarcinoma (99.9%)</li>
+<li>cervical adenosquamous carcinoma, glassy cell variant (99.9%)</li>
+<li>uterine ligament endometrioid adenocarcinoma (99.9%)</li>
+<li>uterine ligament clear cell adenocarcinoma (99.9%)</li>
+<li>uterine ligament mucinous adenocarcinoma (99.9%)</li>
+<li>intestinal variant cervical mucinous adenocarcinoma (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>

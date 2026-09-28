@@ -3,7 +3,7 @@ layout: default
 title: "Inositol Nicotinate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Inositol Nicotinate. Original indication: . 0 predicted indications."
+description: "Health news related to Inositol Nicotinate. Original indication: . 10 predicted indications."
 permalink: /news/inositol_nicotinate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inositol_nicotinate/
 ---
 
 <p class="key-answer" data-question="What news is there about Inositol Nicotinate?">
-<strong>Inositol Nicotinate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Inositol Nicotinate</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Inositol Nicotinate with the
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>vitamin deficiency disorder (100.0%)</li>
+<li>biotin metabolic disease (100.0%)</li>
+<li>non-syndromic esophageal malformation (99.9%)</li>
+<li>iron deficiency anemia (99.8%)</li>
+<li>acute urate nephropathy (99.7%)</li>
+<li>esophageal disease (99.7%)</li>
+<li>early-onset familial noncirrhotic portal hypertension (99.6%)</li>
+<li>idiopathic copper-associated cirrhosis (99.6%)</li>
+<li>hepatoportal sclerosis (99.6%)</li>
+<li>hepatopulmonary syndrome (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/inositol_nicotinate/' | relative_url }}">View full drug report →</a></p>
 </div>

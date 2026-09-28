@@ -3,7 +3,7 @@ layout: default
 title: "Hydroxocobalamin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Hydroxocobalamin. Original indication: . 0 predicted indications."
+description: "Health news related to Hydroxocobalamin. Original indication: . 2 predicted indications."
 permalink: /news/hydroxocobalamin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydroxocobalamin/
 ---
 
 <p class="key-answer" data-question="What news is there about Hydroxocobalamin?">
-<strong>Hydroxocobalamin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Hydroxocobalamin</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Hydroxocobalamin with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>esophageal varices without bleeding (99.2%)</li>
+<li>esophageal varices with bleeding (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydroxocobalamin/' | relative_url }}">View full drug report →</a></p>
 </div>

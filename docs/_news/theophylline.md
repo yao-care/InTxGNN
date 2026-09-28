@@ -3,7 +3,7 @@ layout: default
 title: "Theophylline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Theophylline. Original indication: . 0 predicted indications."
+description: "Health news related to Theophylline. Original indication: . 7 predicted indications."
 permalink: /news/theophylline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/theophylline/
 ---
 
 <p class="key-answer" data-question="What news is there about Theophylline?">
-<strong>Theophylline</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Theophylline</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,15 @@ This page combines the AI-predicted indications for Theophylline with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>thrombotic disease (99.6%)</li>
+<li>nasal cavity disease (99.5%)</li>
+<li>laryngotracheitis (99.5%)</li>
+<li>tracheal disease (99.5%)</li>
+<li>obstructive lung disease (99.5%)</li>
+<li>pharyngitis (99.5%)</li>
+<li>acute laryngopharyngitis (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/theophylline/' | relative_url }}">View full drug report →</a></p>
 </div>
