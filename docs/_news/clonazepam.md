@@ -14,7 +14,7 @@ permalink: /news/clonazepam/
 ---
 
 <p class="key-answer" data-question="What news is there about Clonazepam?">
-<strong>Clonazepam</strong> currently has <strong>9 news articles</strong>, with 2 predicted indications.
+<strong>Clonazepam</strong> currently has <strong>8 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,39 @@ This page combines the AI-predicted indications for Clonazepam with the latest h
 <p><a href="{{ '/drugs/clonazepam/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
+
+### [Brain tumours: New rapid genomic test could “transform” NHS diagnosis](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YWXVyX1BqQ242dTVuRkloOGluQTcyZVJ3c2ptMUFZMzB0TERLUWJURV83NGVqVjQ3aUllSzF4a1R5WWJVakZ5cTZwTkJnNkpTZmRKbGZ1TVlaeEk?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">tumor</span>
+
+Source: [bmj.com](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YWXVyX1BqQ242dTVuRkloOGluQTcyZVJ3c2ptMUFZMzB0TERLUWJURV83NGVqVjQ3aUllSzF4a1R5WWJVakZ5cTZwTkJnNkpTZmRKbGZ1TVlaeEk?oc=5)
+
+---
+
+### [Personalized Cancer Vaccines: What Challenges Remain?](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmgycnpvTmszdUcyR0t3bTFqLU9oaUVWM0gzQUVpaHJsNlpnRFducTQ3TUFQVGtMcGprUVhLR2FBZ2V2R2tDaEZseF9xWGwyRTNrcWJyUGVWcGFGdng5UkpLcEFacG1WVlVGQXFDMk5mZHJuOGE2Y2ZZTG1vaF9BaHhzZHcwTzloUlJuZVBRYUpHUmdubXJwZVJkMzBsR1BmRzNj?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cancer</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmgycnpvTmszdUcyR0t3bTFqLU9oaUVWM0gzQUVpaHJsNlpnRFducTQ3TUFQVGtMcGprUVhLR2FBZ2V2R2tDaEZseF9xWGwyRTNrcWJyUGVWcGFGdng5UkpLcEFacG1WVlVGQXFDMk5mZHJuOGE2Y2ZZTG1vaF9BaHhzZHcwTzloUlJuZVBRYUpHUmdubXJwZVJkMzBsR1BmRzNj?oc=5)
+
+---
+
+### [Access to cancer genetic testing unequal worldwide: New Lancet Commission](https://news.google.com/rss/articles/CBMizgFBVV95cUxNT0lfNVlGcjNOeUR4VWR6UHhjUW9xdVN2bmRWRGxFYnotd0pXaVU2U1g5MklnZ1ZQekNPV1dZWERzNVV0dkx4TzB4bFZuU1g1OE1OZUJYNUhQM25OcHUwQXllZ3VOak0tajlSLVZhcjc4TE9GTHJsZndpYnliaUNUNWN5c0JYbHJhNld2VVJISHZnZWV1NGF2b0JVd2lkM1dBSDA0WkdQX0tLbkNOX1JTMHNUaThKeFVBSFRmLXRLQXBCUVc2cnNWT3lvZFRuUdIB1AFBVV95cUxNYnA0N2RzeGZzUGRKVmVaSXdRbmdQbHhWa2NWUW15STBERUlyRGZ6WmFnTzc1TkFxMzdTT3hkb1hMSXdUeEtIeU1FTGp5N3Z1OHljdFJ4a2M2WGRLZXJMRElGNjNFTmxsWUZZVFB3X1dSdlpHRUw2OGxsaUhwMVRwNU1GeHNONUI5R3JwaFFQVjhlUG5sOGxSWFV3UDhFeFQxck01TElROHJsYllKNUxha3NOeWpmSlVrQmpTNVpxbUl1LTMzaHAxblRHWS0ydDd2NlZTSQ?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cancer</span>
+
+Source: [thehindu.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxNT0lfNVlGcjNOeUR4VWR6UHhjUW9xdVN2bmRWRGxFYnotd0pXaVU2U1g5MklnZ1ZQekNPV1dZWERzNVV0dkx4TzB4bFZuU1g1OE1OZUJYNUhQM25OcHUwQXllZ3VOak0tajlSLVZhcjc4TE9GTHJsZndpYnliaUNUNWN5c0JYbHJhNld2VVJISHZnZWV1NGF2b0JVd2lkM1dBSDA0WkdQX0tLbkNOX1JTMHNUaThKeFVBSFRmLXRLQXBCUVc2cnNWT3lvZFRuUdIB1AFBVV95cUxNYnA0N2RzeGZzUGRKVmVaSXdRbmdQbHhWa2NWUW15STBERUlyRGZ6WmFnTzc1TkFxMzdTT3hkb1hMSXdUeEtIeU1FTGp5N3Z1OHljdFJ4a2M2WGRLZXJMRElGNjNFTmxsWUZZVFB3X1dSdlpHRUw2OGxsaUhwMVRwNU1GeHNONUI5R3JwaFFQVjhlUG5sOGxSWFV3UDhFeFQxck01TElROHJsYllKNUxha3NOeWpmSlVrQmpTNVpxbUl1LTMzaHAxblRHWS0ydDd2NlZTSQ?oc=5)
+
+---
+
+### [Lung cancer deaths down 16% with low-dose CT screening: IARC - The Times of India](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWm5LdUhhbnE4SXd0Wm1pNkZCMkJuYUlVaDRPSUE2ZmFYRmJjQ2x2UEVVbDFNQ0FIanE0V2xQRnJBOFpFVGU5cWpram93c1pvU0QtS1FiNTltZi1GWnA3aDlhUE5OdFZmUDBlMjJHT3B0WXd3TkFqWkstY1diTWRBXzhNOXRlT2JiTXBfVXFZVk1rUEk0bk90N3M4Q1VXN01GSjl6cGJRbUhuaVRZV1hVSTJkZEtTclZHVVYyUFl5VTJLdElx?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cancer</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWm5LdUhhbnE4SXd0Wm1pNkZCMkJuYUlVaDRPSUE2ZmFYRmJjQ2x2UEVVbDFNQ0FIanE0V2xQRnJBOFpFVGU5cWpram93c1pvU0QtS1FiNTltZi1GWnA3aDlhUE5OdFZmUDBlMjJHT3B0WXd3TkFqWkstY1diTWRBXzhNOXRlT2JiTXBfVXFZVk1rUEk0bk90N3M4Q1VXN01GSjl6cGJRbUhuaVRZV1hVSTJkZEtTclZHVVYyUFl5VTJLdElx?oc=5)
+
+---
 
 ### [cfDNA Methylation Signals Breast Cancer Risk Years Before Clinical Diagnosis](https://news.google.com/rss/articles/CBMidkFVX3lxTE5fMW9XVWJ4VnpObnJIc2tuODNHYmtOOGpKTGY0bVphWHFTQTdQOHd6NDVmcGdfQUlzTDgtZDRVQlhPcEhhQjNFa2dFbkp6VjVZdmtqYUE1WUZrTmtVMEFuYzNEbFFOeGZSMERxQVdXNDF0Z2FVd3c?oc=5)
 
@@ -42,67 +74,27 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMidkFVX3lxTE5fMW9XVWJ
 
 ---
 
-### [Genomic Testing: India needs policy agenda to expand precision oncology care - Deccan Herald](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQmt6bWVvLW5QWVJjNjRXZFNtYW85ZlJsNzNUYzVnTC1GM3NYMWJkSHlieGRYbGpPUEo2eWRzdjZWczUtWHJHYWgzdEVKVmVCWEVFSXlTMmpZdHNyNHJfS3lWSHdpc25vNWd3X0xpaVlzUDJfdWUteExCeDVYNDVCMmo1cUdha25nR09pamp4ZjdVcHVsSGJSeFZGd09LQjBUUUtDZVZCcnJlVy0wUGlaQ2NIUnZ3TGs4X0xYVF9HdkpXQ0V3dk0yUG1MS3lPY2djc04yekpfcFRieFZsUDlGaVZpYlJqdW16N1NIdlo2R1VLeWI3LVAza0hXWUtKdmtSYnhCSlBobFI?oc=5)
-
-2026-09-27 <span class="news-indication-tag">cancer</span>
-
-Source: [Deccan Herald](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQmt6bWVvLW5QWVJjNjRXZFNtYW85ZlJsNzNUYzVnTC1GM3NYMWJkSHlieGRYbGpPUEo2eWRzdjZWczUtWHJHYWgzdEVKVmVCWEVFSXlTMmpZdHNyNHJfS3lWSHdpc25vNWd3X0xpaVlzUDJfdWUteExCeDVYNDVCMmo1cUdha25nR09pamp4ZjdVcHVsSGJSeFZGd09LQjBUUUtDZVZCcnJlVy0wUGlaQ2NIUnZ3TGs4X0xYVF9HdkpXQ0V3dk0yUG1MS3lPY2djc04yekpfcFRieFZsUDlGaVZpYlJqdW16N1NIdlo2R1VLeWI3LVAza0hXWUtKdmtSYnhCSlBobFI?oc=5)
-
----
-
-### [Loss of Y Chromosome in Men Could Be an Early Clue to Cancer, Study Finds](https://news.google.com/rss/articles/CBMiowFBVV95cUxON1RsMURSMTVMX0o4ZkNHa3FIcWlpOWxHUWY2LW1LUHA2RGlCZ1lEMUNadnFQMmRLNktzN09CbVN5NkVQNUp3b21uY0tIQXBmM0dNMmFSWE9STU1Hc25MZmVjUW9LZkkwbS1DYzFoRERELUxMLTZtWUhzbjhINjdacDVoSzl2QllrNmlvalk1ejBHUDJSTHByR2pBWUJYMlB6Nlh3?oc=5)
-
-2026-09-26 <span class="news-indication-tag">cancer</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxON1RsMURSMTVMX0o4ZkNHa3FIcWlpOWxHUWY2LW1LUHA2RGlCZ1lEMUNadnFQMmRLNktzN09CbVN5NkVQNUp3b21uY0tIQXBmM0dNMmFSWE9STU1Hc25MZmVjUW9LZkkwbS1DYzFoRERELUxMLTZtWUhzbjhINjdacDVoSzl2QllrNmlvalk1ejBHUDJSTHByR2pBWUJYMlB6Nlh3?oc=5)
-
----
-
-### [New Brain Tumour Test Can Deliver Results in Under Two Hours](https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDZxWXdnbkdBVXVrcWZZamIxTXNRb1NDREhEVnZldTJzNjl2YU9NRC02eXVXbEFnWDVFY01NdjlXOF93aVM2elhzczVJM2RxMjhSQlJUekNNbTVvRUtXeG44RXk0MC1QNGQxYkJRc1J4QUl1cEthTXRfY1ktSnVTTzJVeFRDdGFuY1E?oc=5)
-
-2026-09-26 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">tumor</span>
-
-Source: [INDToday](https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDZxWXdnbkdBVXVrcWZZamIxTXNRb1NDREhEVnZldTJzNjl2YU9NRC02eXVXbEFnWDVFY01NdjlXOF93aVM2elhzczVJM2RxMjhSQlJUekNNbTVvRUtXeG44RXk0MC1QNGQxYkJRc1J4QUl1cEthTXRfY1ktSnVTTzJVeFRDdGFuY1E?oc=5)
-
----
-
-### [Enzyme USP15 present a promising new target for ovarian cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZrR2ZPMEtpaklkRzAxSWoyeFJ4YU5uSVM3N1FTZVRzRUl1Qm92RFVGZGtLWHNTUDZsZUlhdl93cVFuYnpyWks2SC1Qb3lNNXhnS284VGoxNkFKb3NCcHlXeGxvaGU3OEtzZ2doNGMwYnpWT0V0SUNEbUhJUXpXeGlrWEZ5WVBW?oc=5)
-
-2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZrR2ZPMEtpaklkRzAxSWoyeFJ4YU5uSVM3N1FTZVRzRUl1Qm92RFVGZGtLWHNTUDZsZUlhdl93cVFuYnpyWks2SC1Qb3lNNXhnS284VGoxNkFKb3NCcHlXeGxvaGU3OEtzZ2doNGMwYnpWT0V0SUNEbUhJUXpXeGlrWEZ5WVBW?oc=5)
-
----
-
-### [Genetic clues help reveal kids' cancer risk - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG5VeU9EcXRFcUp5UE9rSEEwWDR6ZFE2Q05uQk9DX2VPUGtfRk4zeEttRGs5bW4wdnUtSnVPb0kxTS1ITkNHR09YZHdEM3NIaTFvTVVqRFRwbUdFUHB2TDcwaU90LUdldVNJalZ1OTFEaHhvdzR0eEhUWVZCMTVJbTZB?oc=5)
+### [Genetic clues help reveal kids' cancer risk](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG5VeU9EcXRFcUp5UE9rSEEwWDR6ZFE2Q05uQk9DX2VPUGtfRk4zeEttRGs5bW4wdnUtSnVPb0kxTS1ITkNHR09YZHdEM3NIaTFvTVVqRFRwbUdFUHB2TDcwaU90LUdldVNJalZ1OTFEaHhvdzR0eEhUWVZCMTVJbTZB?oc=5)
 
 2026-09-24 <span class="news-indication-tag">cancer</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG5VeU9EcXRFcUp5UE9rSEEwWDR6ZFE2Q05uQk9DX2VPUGtfRk4zeEttRGs5bW4wdnUtSnVPb0kxTS1ITkNHR09YZHdEM3NIaTFvTVVqRFRwbUdFUHB2TDcwaU90LUdldVNJalZ1OTFEaHhvdzR0eEhUWVZCMTVJbTZB?oc=5)
+Source: [medicalxpress.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG5VeU9EcXRFcUp5UE9rSEEwWDR6ZFE2Q05uQk9DX2VPUGtfRk4zeEttRGs5bW4wdnUtSnVPb0kxTS1ITkNHR09YZHdEM3NIaTFvTVVqRFRwbUdFUHB2TDcwaU90LUdldVNJalZ1OTFEaHhvdzR0eEhUWVZCMTVJbTZB?oc=5)
 
 ---
 
-### [Pune doctors say drinking very hot tea and coffee may increase risk of oesophageal cancer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV3pwUUtpTjViRHEzMlhWRUNKb1FFTXBHc1hjV2ZaaVBwbEQwY0FINlZTbF9OSndCMzJVNzZHUllWcmlUX3N3Sk9YeXlUVGkzLVZKclRuSGhTakU4UmJpb3VUOG1QWHZabmRRU2o0dkRfZlgwUVpSOEZQcVJERUZjdnI4ei05UTNtbHVIa2ZadW5sbEdWNDlsOXBTR3gyS2lQVm9kY0R3U2RpblRmNUZVdUpSRzZMOU50TkVXNzVMQzM4WS1NeDhjT1JKd1BWaElMekkzc0dETTBUanMtYVpoLVNPVVpPTWVFRnE4Nllod3XSAfYBQVVfeXFMTTNfWWQyU0RPblNKa2JrRmlqMUROV1VpUHJtZGM2UjRqQTBRYTYzYW16UFAtM2ZFeUJXSUZxdFd5RGxmYmNNMWFHQm1jMTd3WGtVQjBYR0FXYU8tWkltMTV6Y0NtVHhWWHg2azJaSEN5Ql9LakVDZXlKMkxlZGdRSFBLOGhWaHBlSVhLQjhPenNhX0ZlT0hCR0IzU0xRLXc2Nm5fdVd6aTVlOFZSdkxzbEl2RElTdEFkek5SRTRrb2d3NFprTWZ1VjlRRnhyNWVtU1oxeHI3alc2WGNkWFVNSmV4aG9oVTJkQ0RsNHRndnl5UEcxZVBB?oc=5)
+### [Hot Drinks Tied to Esophageal Cancer. Should Patients Worry?](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0RJdFBwYWdsekduTDk4NWRvUWo5Mkd2QTQwaU9KYVpFYnRCa3h1YTVhcHhLQ0xZeGJnMWFSQlZURmNMaVAzOHZZdmZxZ3Y1NnQyMW1kaVFHMHFCemNQMjhRY3ZpOGd0dHQ1cVpYZjlRQzN5WEZLeU14Nm1WS2U2OW1FNzZJcTgtdnhlbFMyNnZ3aDdmTEMxdktybzZJNUhOOTVLTzlyRUc?oc=5)
 
-2026-09-24 <span class="news-indication-tag">cancer</span>
+2026-09-22 <span class="news-indication-tag">cancer</span>
 
-Source: [Mid-Day](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV3pwUUtpTjViRHEzMlhWRUNKb1FFTXBHc1hjV2ZaaVBwbEQwY0FINlZTbF9OSndCMzJVNzZHUllWcmlUX3N3Sk9YeXlUVGkzLVZKclRuSGhTakU4UmJpb3VUOG1QWHZabmRRU2o0dkRfZlgwUVpSOEZQcVJERUZjdnI4ei05UTNtbHVIa2ZadW5sbEdWNDlsOXBTR3gyS2lQVm9kY0R3U2RpblRmNUZVdUpSRzZMOU50TkVXNzVMQzM4WS1NeDhjT1JKd1BWaElMekkzc0dETTBUanMtYVpoLVNPVVpPTWVFRnE4Nllod3XSAfYBQVVfeXFMTTNfWWQyU0RPblNKa2JrRmlqMUROV1VpUHJtZGM2UjRqQTBRYTYzYW16UFAtM2ZFeUJXSUZxdFd5RGxmYmNNMWFHQm1jMTd3WGtVQjBYR0FXYU8tWkltMTV6Y0NtVHhWWHg2azJaSEN5Ql9LakVDZXlKMkxlZGdRSFBLOGhWaHBlSVhLQjhPenNhX0ZlT0hCR0IzU0xRLXc2Nm5fdVd6aTVlOFZSdkxzbEl2RElTdEFkek5SRTRrb2d3NFprTWZ1VjlRRnhyNWVtU1oxeHI3alc2WGNkWFVNSmV4aG9oVTJkQ0RsNHRndnl5UEcxZVBB?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0RJdFBwYWdsekduTDk4NWRvUWo5Mkd2QTQwaU9KYVpFYnRCa3h1YTVhcHhLQ0xZeGJnMWFSQlZURmNMaVAzOHZZdmZxZ3Y1NnQyMW1kaVFHMHFCemNQMjhRY3ZpOGd0dHQ1cVpYZjlRQzN5WEZLeU14Nm1WS2U2OW1FNzZJcTgtdnhlbFMyNnZ3aDdmTEMxdktybzZJNUhOOTVLTzlyRUc?oc=5)
 
 ---
 
-### [Blood test may help detect pancreatic cancer in earliest stages: Researchers - CNBC TV18](https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWdvM1pjTjBUcUVGUm5YbWU5VlprVTVVd2daS0N6Tk1PVEZIMUZKLXFhT09VSUFPZzN2WXFTMW9GZkp1NlEzejRMVE93NkJ4UHd3S0JmTXhBUlJEX29yZ01MdkpBWGM3Z0lnbzg5dFpsY281VE9ZUHNzM3JjYXdDdHJjZWZYdndfQkdMYzlWcnVzWl9jYmhlMDFJY3VhallwN3JEXzdfNExKTG5DNnBkaHppZTN4cDhDa0l6UW5vaXN2cjZlVGF4NVdka2I0NFHSAdQBQVVfeXFMTzdtaW9FbWNjbUhEeUNSYVBiMmZtSk51eHZaSklmTlNQS192QjB4aWI1TGlobUJhSFNIc1NVcUpLaE80Y215Q3FnczBHVHkteE5OSHQ1QUhGS0RGdHVNSUY1NU1hdkEyRGFTZVFua29tem1oem9VNmhxdWJrZVFwOGdOX0t0cmEzbmJXT0o4WjN4c0pYY3o3ZW9iN01CLWdMcEVoYnFzd0lBbmVDaEtIUl9FWFY4Q0c4bmY0Y2o3aG1vNW1KWENoUEpGdl9XRnBTbkE1XzQ?oc=5)
+### [Blood Test May Help Detect Pancreatic Cancer In Earliest Stages: Researchers](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHI1RG5xZnlya2Z2Y25xVjlMMi10Nk0xbVJ6ckMzaGVRalVjaXIyTVBzMXEwNHpBRWkzN3FOMVZYZTY4Zm1aZ1N6QXhtQ0c4WWt5ZnBvLWE2QzFtNi11Vm5yTkV5WGlsMjRwYkRnTmx0TVZERklFem1hTkEwbWV4bnl5NXRWWDIzVU8yVFN1ck9sMUlIRDFRbkk3QUV2QmI4WlBWaWVLYV9YY3htWVY2Z2lB?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
-Source: [CNBC TV18](https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWdvM1pjTjBUcUVGUm5YbWU5VlprVTVVd2daS0N6Tk1PVEZIMUZKLXFhT09VSUFPZzN2WXFTMW9GZkp1NlEzejRMVE93NkJ4UHd3S0JmTXhBUlJEX29yZ01MdkpBWGM3Z0lnbzg5dFpsY281VE9ZUHNzM3JjYXdDdHJjZWZYdndfQkdMYzlWcnVzWl9jYmhlMDFJY3VhallwN3JEXzdfNExKTG5DNnBkaHppZTN4cDhDa0l6UW5vaXN2cjZlVGF4NVdka2I0NFHSAdQBQVVfeXFMTzdtaW9FbWNjbUhEeUNSYVBiMmZtSk51eHZaSklmTlNQS192QjB4aWI1TGlobUJhSFNIc1NVcUpLaE80Y215Q3FnczBHVHkteE5OSHQ1QUhGS0RGdHVNSUY1NU1hdkEyRGFTZVFua29tem1oem9VNmhxdWJrZVFwOGdOX0t0cmEzbmJXT0o4WjN4c0pYY3o3ZW9iN01CLWdMcEVoYnFzd0lBbmVDaEtIUl9FWFY4Q0c4bmY0Y2o3aG1vNW1KWENoUEpGdl9XRnBTbkE1XzQ?oc=5)
-
----
-
-### [Sugary drinks stood out in this stomach cancer study, but diet drinks did not](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamRncDI4SlZ6M3pNb3BaemM3ekRIU1EycEpxeUhhSFhpNEdzRlFtWFpwcmZNcms1QU53UF9qWnlFdk0wUWZuTlRPZmEzazc5aFl0NlVSSDl5Nm1jLUVZSEpTY3d5RWlHRURhbnZ0aXltTTU5UWUzNlhIQml4dFdTekN4bnBWOWNGajJpR2hhSWp0cnNlSXl2QkZSdGdab3Q5VFdETmsxS3hXUmUyMl8wWGpaQkVYSFk2MkYxMnRRNG4yZw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamRncDI4SlZ6M3pNb3BaemM3ekRIU1EycEpxeUhhSFhpNEdzRlFtWFpwcmZNcms1QU53UF9qWnlFdk0wUWZuTlRPZmEzazc5aFl0NlVSSDl5Nm1jLUVZSEpTY3d5RWlHRURhbnZ0aXltTTU5UWUzNlhIQml4dFdTekN4bnBWOWNGajJpR2hhSWp0cnNlSXl2QkZSdGdab3Q5VFdETmsxS3hXUmUyMl8wWGpaQkVYSFk2MkYxMnRRNG4yZw?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHI1RG5xZnlya2Z2Y25xVjlMMi10Nk0xbVJ6ckMzaGVRalVjaXIyTVBzMXEwNHpBRWkzN3FOMVZYZTY4Zm1aZ1N6QXhtQ0c4WWt5ZnBvLWE2QzFtNi11Vm5yTkV5WGlsMjRwYkRnTmx0TVZERklFem1hTkEwbWV4bnl5NXRWWDIzVU8yVFN1ck9sMUlIRDFRbkk3QUV2QmI4WlBWaWVLYV9YY3htWVY2Z2lB?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "dama (asthma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dama (asthma). 2 articles, 1 related drugs."
+description: "Health news about dama (asthma). 1 articles, 1 related drugs."
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="What news is there about dama (asthma)?">
-<strong>dama (asthma)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
+<strong>dama (asthma)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ This page brings together the latest health news about “dama” and lists the 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [MESSAGE - Andaman Chronicle](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZWDVBTkJwalYzMkRmSlROQXpEc1ItMHpDWWhEQ0JQQy0zNG5FMURjZWlvZUxnaGtPOVByV2Vrb1FQVVlJRld5X3J0a3c4bWpKMkE?oc=5)
+### [The Regenerative Question In Cardiac Care: Can Science One Day Help the Heart Repair What Disease Has Taken Away? - ETV Bharat](https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2Z3OTh1R05ETWRGRkZ2aGRyTVF2RzAwbGNhVXRmQmIxZkZUTDdfTEFqUnFhUDV3TDk5Z1BsRURuclpUWW1nVnA4MGpuRDZjR1hHZWF0T2JMcjhIY050M1BmNk40RGNyTndMemVtY3l4aXRFOXNKNURYODdzSEFiQmNEU3ZlTzJNMFdiZk5lWXFMa0E1LURLckpva25ZblRmLWfSAacBQVVfeXFMUDBwNWFIQXdidl96YnV1el8tMGdyWEZCanBqVHA5dVpxbUxOcXg0WlYzN01XU196MFJ5UkJKX0w1MmpoRWl2UFNZNWdoSjlIazFlTE8tRWpYRnhhejRBbUZVTW93aDVYRWluUjd3ZFJUMklMLUQ5WUtzZWNYNW9BdWsxOWxPZTNRVVFUTllpWnVaSTFCOV82VjhXYU9kdGdjRmhTRnBrWHc?oc=5)
 
-2026-09-27
+2026-09-28
 
-Source: [Andaman Chronicle](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZWDVBTkJwalYzMkRmSlROQXpEc1ItMHpDWWhEQ0JQQy0zNG5FMURjZWlvZUxnaGtPOVByV2Vrb1FQVVlJRld5X3J0a3c4bWpKMkE?oc=5)
-
----
-
-### [5 silent signs of kidney damage](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTGhZQXh5UUx3RHpGalhfTlFXVTl4aG91ZmwzcE9HNU01MTZ0bDlmTUNJdGpmX2NGc0taMzFMMlU0UGFiSkhhSk15eUQydkZDR3gtSEVneTNWemo1ai1fcFl1UFJHbDRzaDJ1VXZOblhEbE9SX1JyUGJXYThkV1RBTnhjR2pLTHB5SmRUMTc1UjdDYnFVOXZIYUNzVllaWDlsWi1MV3htOWVpOGhjOEHSAbMBQVVfeXFMT21ka3A5MGRCRURVd1lxamdiSDZ3ZTdCdmdCR19RenZVeGx0NXB6czloRkp2ZlY2WVh2LWRSYnI5WndVaVVMUmlST0RTdHhNOU4xYTZVV2Z5b29MRHBJUlVxdGJwcEM0Y0ktTjJfdkhOZ2JldWRhV3B1R2lXaE5yR0R0N1hPVllxaGI5NGdUYXdQR1dfczdxWnRhUjlYa2xRUVh2YjkxczBTRnNYc191R1NfSkk?oc=5)
-
-2026-09-26
-
-Source: [Livemint](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTGhZQXh5UUx3RHpGalhfTlFXVTl4aG91ZmwzcE9HNU01MTZ0bDlmTUNJdGpmX2NGc0taMzFMMlU0UGFiSkhhSk15eUQydkZDR3gtSEVneTNWemo1ai1fcFl1UFJHbDRzaDJ1VXZOblhEbE9SX1JyUGJXYThkV1RBTnhjR2pLTHB5SmRUMTc1UjdDYnFVOXZIYUNzVllaWDlsWi1MV3htOWVpOGhjOEHSAbMBQVVfeXFMT21ka3A5MGRCRURVd1lxamdiSDZ3ZTdCdmdCR19RenZVeGx0NXB6czloRkp2ZlY2WVh2LWRSYnI5WndVaVVMUmlST0RTdHhNOU4xYTZVV2Z5b29MRHBJUlVxdGJwcEM0Y0ktTjJfdkhOZ2JldWRhV3B1R2lXaE5yR0R0N1hPVllxaGI5NGdUYXdQR1dfczdxWnRhUjlYa2xRUVh2YjkxczBTRnNYc191R1NfSkk?oc=5)
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2Z3OTh1R05ETWRGRkZ2aGRyTVF2RzAwbGNhVXRmQmIxZkZUTDdfTEFqUnFhUDV3TDk5Z1BsRURuclpUWW1nVnA4MGpuRDZjR1hHZWF0T2JMcjhIY050M1BmNk40RGNyTndMemVtY3l4aXRFOXNKNURYODdzSEFiQmNEU3ZlTzJNMFdiZk5lWXFMa0E1LURLckpva25ZblRmLWfSAacBQVVfeXFMUDBwNWFIQXdidl96YnV1el8tMGdyWEZCanBqVHA5dVpxbUxOcXg0WlYzN01XU196MFJ5UkJKX0w1MmpoRWl2UFNZNWdoSjlIazFlTE8tRWpYRnhhejRBbUZVTW93aDVYRWluUjd3ZFJUMklMLUQ5WUtzZWNYNW9BdWsxOWxPZTNRVVFUTllpWnVaSTFCOV82VjhXYU9kdGdjRmhTRnBrWHc?oc=5)
 
 ---
 

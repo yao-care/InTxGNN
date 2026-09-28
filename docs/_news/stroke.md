@@ -3,7 +3,7 @@ layout: default
 title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke. 2 articles, 15 related drugs."
+description: "Health news about stroke. 1 articles, 15 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about stroke?">
-<strong>stroke</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
+<strong>stroke</strong> currently has <strong>1 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,21 +43,13 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Endophenotyping Without Anchors: Operational and Evidentiary Gaps in the Stroke-Heart Syndrome Framework](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGxzNEVfUF93d2RaSXhuVmFiUnZPeUlBQS1OMzdWVk9MYWVJbjk5Y2ttczZVRUE5YmJHN0kxMUo4amFON19SYV9vcXNoSXI2QlhoM3FNbUplZUxGTG1PMVlhUU00dVpzb0x6bU9nTzVpcTNua0ZrTkNILUl4Nkt0R1dYUTRXcnFtU2lOVzY5SEdVRjZPRHR5TjlldFVCRVRZT1pzV2N6ZjlSb0l3SW4xT3F4cw?oc=5)
+### [What links smoking, body fat, mental health, genes, and heart risk? Inflammation may be part of the answer](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3aUJGQlFfOTh5ZG5xVklTMHR0dkRpVUQzQlpyQ2gwTDBsMkNiSzNDZHhqdGR0SEswcGJsS0JhNV83VTVhSDJ1R1FZY1FHTWdBa3hRZWo0YW5ZdUd0M3RQLVBWVlU2VDlHMDZ6LTNlaGVGSFdHdUVSVWJGNHh5cUx2dWlkMmtHVG54OVkyWUhzQWpZeHRpaFlSaDB1eFFsaTVSa2tjMFVHd0xwTnRGb1FrWGtRZkNzWU9COWlvV2NNRTFmQTRjWnlPNUxDVENNOWM5ZWZoZnBnbjNTUkdMLUVuRQ?oc=5)
 
-2026-09-26
+2026-09-23
 
-Source: [springermedicine.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGxzNEVfUF93d2RaSXhuVmFiUnZPeUlBQS1OMzdWVk9MYWVJbjk5Y2ttczZVRUE5YmJHN0kxMUo4amFON19SYV9vcXNoSXI2QlhoM3FNbUplZUxGTG1PMVlhUU00dVpzb0x6bU9nTzVpcTNua0ZrTkNILUl4Nkt0R1dYUTRXcnFtU2lOVzY5SEdVRjZPRHR5TjlldFVCRVRZT1pzV2N6ZjlSb0l3SW4xT3F4cw?oc=5)
-
----
-
-### [Stopping Ozempic may raise heart attack and stroke risk](https://news.google.com/rss/articles/CBMib0FVX3lxTE15M0ViSmI5TXhIQmo2LXgtSHRadGxST0gyWkJPQm5UNmU3cVJiM0ZhNlhRdGpVODNldXZJb2lJaHM5Nkl1Y3pBRDNpdUZSUEhYMEU3TkxHd0psSmJOaUJiM01OazE2V2JtTWFCT1F2Yw?oc=5)
-
-2026-09-21
-
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE15M0ViSmI5TXhIQmo2LXgtSHRadGxST0gyWkJPQm5UNmU3cVJiM0ZhNlhRdGpVODNldXZJb2lJaHM5Nkl1Y3pBRDNpdUZSUEhYMEU3TkxHd0psSmJOaUJiM01OazE2V2JtTWFCT1F2Yw?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3aUJGQlFfOTh5ZG5xVklTMHR0dkRpVUQzQlpyQ2gwTDBsMkNiSzNDZHhqdGR0SEswcGJsS0JhNV83VTVhSDJ1R1FZY1FHTWdBa3hRZWo0YW5ZdUd0M3RQLVBWVlU2VDlHMDZ6LTNlaGVGSFdHdUVSVWJGNHh5cUx2dWlkMmtHVG54OVkyWUhzQWpZeHRpaFlSaDB1eFFsaTVSa2tjMFVHd0xwTnRGb1FrWGtRZkNzWU9COWlvV2NNRTFmQTRjWnlPNUxDVENNOWM5ZWZoZnBnbjNTUkdMLUVuRQ?oc=5)
 
 ---
 

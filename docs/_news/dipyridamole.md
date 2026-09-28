@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="What news is there about Dipyridamole?">
-<strong>Dipyridamole</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Dipyridamole</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ This page combines the AI-predicted indications for Dipyridamole with the latest
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Endophenotyping Without Anchors: Operational and Evidentiary Gaps in the Stroke-Heart Syndrome Framework](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGxzNEVfUF93d2RaSXhuVmFiUnZPeUlBQS1OMzdWVk9MYWVJbjk5Y2ttczZVRUE5YmJHN0kxMUo4amFON19SYV9vcXNoSXI2QlhoM3FNbUplZUxGTG1PMVlhUU00dVpzb0x6bU9nTzVpcTNua0ZrTkNILUl4Nkt0R1dYUTRXcnFtU2lOVzY5SEdVRjZPRHR5TjlldFVCRVRZT1pzV2N6ZjlSb0l3SW4xT3F4cw?oc=5)
+### [What links smoking, body fat, mental health, genes, and heart risk? Inflammation may be part of the answer](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3aUJGQlFfOTh5ZG5xVklTMHR0dkRpVUQzQlpyQ2gwTDBsMkNiSzNDZHhqdGR0SEswcGJsS0JhNV83VTVhSDJ1R1FZY1FHTWdBa3hRZWo0YW5ZdUd0M3RQLVBWVlU2VDlHMDZ6LTNlaGVGSFdHdUVSVWJGNHh5cUx2dWlkMmtHVG54OVkyWUhzQWpZeHRpaFlSaDB1eFFsaTVSa2tjMFVHd0xwTnRGb1FrWGtRZkNzWU9COWlvV2NNRTFmQTRjWnlPNUxDVENNOWM5ZWZoZnBnbjNTUkdMLUVuRQ?oc=5)
 
-2026-09-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-09-23 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [springermedicine.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGxzNEVfUF93d2RaSXhuVmFiUnZPeUlBQS1OMzdWVk9MYWVJbjk5Y2ttczZVRUE5YmJHN0kxMUo4amFON19SYV9vcXNoSXI2QlhoM3FNbUplZUxGTG1PMVlhUU00dVpzb0x6bU9nTzVpcTNua0ZrTkNILUl4Nkt0R1dYUTRXcnFtU2lOVzY5SEdVRjZPRHR5TjlldFVCRVRZT1pzV2N6ZjlSb0l3SW4xT3F4cw?oc=5)
-
----
-
-### [Stopping Ozempic may raise heart attack and stroke risk](https://news.google.com/rss/articles/CBMib0FVX3lxTE15M0ViSmI5TXhIQmo2LXgtSHRadGxST0gyWkJPQm5UNmU3cVJiM0ZhNlhRdGpVODNldXZJb2lJaHM5Nkl1Y3pBRDNpdUZSUEhYMEU3TkxHd0psSmJOaUJiM01OazE2V2JtTWFCT1F2Yw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE15M0ViSmI5TXhIQmo2LXgtSHRadGxST0gyWkJPQm5UNmU3cVJiM0ZhNlhRdGpVODNldXZJb2lJaHM5Nkl1Y3pBRDNpdUZSUEhYMEU3TkxHd0psSmJOaUJiM01OazE2V2JtTWFCT1F2Yw?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3aUJGQlFfOTh5ZG5xVklTMHR0dkRpVUQzQlpyQ2gwTDBsMkNiSzNDZHhqdGR0SEswcGJsS0JhNV83VTVhSDJ1R1FZY1FHTWdBa3hRZWo0YW5ZdUd0M3RQLVBWVlU2VDlHMDZ6LTNlaGVGSFdHdUVSVWJGNHh5cUx2dWlkMmtHVG54OVkyWUhzQWpZeHRpaFlSaDB1eFFsaTVSa2tjMFVHd0xwTnRGb1FrWGtRZkNzWU9COWlvV2NNRTFmQTRjWnlPNUxDVENNOWM5ZWZoZnBnbjNTUkdMLUVuRQ?oc=5)
 
 ---
 
