@@ -3,7 +3,7 @@ layout: default
 title: "Vitamin E News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vitamin E. Original indication: . 0 predicted indications."
+description: "Health news related to Vitamin E. Original indication: . 10 predicted indications."
 permalink: /news/vitamin_e/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vitamin_e/
 ---
 
 <p class="key-answer" data-question="What news is there about Vitamin E?">
-<strong>Vitamin E</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Vitamin E</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Vitamin E with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>inborn disorder of bilirubin metabolism (100.0%)</li>
+<li>bilirubin metabolism disease (100.0%)</li>
+<li>hereditary North American Indian childhood cirrhosis (100.0%)</li>
+<li>drug-induced liver injury (100.0%)</li>
+<li>microvillus inclusion disease (100.0%)</li>
+<li>hyperbiliverdinemia (100.0%)</li>
+<li>Navajo neurohepatopathy (100.0%)</li>
+<li>nevus of Ito (100.0%)</li>
+<li>adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency (100.0%)</li>
+<li>mitochondrial DNA depletion syndrome, hepatocerebral form (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/vitamin_e/' | relative_url }}">View full drug report →</a></p>
 </div>

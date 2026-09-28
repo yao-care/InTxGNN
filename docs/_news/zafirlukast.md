@@ -3,7 +3,7 @@ layout: default
 title: "Zafirlukast News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Zafirlukast. Original indication: . 0 predicted indications."
+description: "Health news related to Zafirlukast. Original indication: . 2 predicted indications."
 permalink: /news/zafirlukast/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zafirlukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Zafirlukast?">
-<strong>Zafirlukast</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Zafirlukast</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Zafirlukast with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>bronchitis (99.9%)</li>
+<li>obstructive lung disease (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/zafirlukast/' | relative_url }}">View full drug report →</a></p>
 </div>

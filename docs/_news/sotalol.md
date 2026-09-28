@@ -14,7 +14,7 @@ permalink: /news/sotalol/
 ---
 
 <p class="key-answer" data-question="What news is there about Sotalol?">
-<strong>Sotalol</strong> currently has <strong>1 news articles</strong>, with 7 predicted indications.
+<strong>Sotalol</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,21 @@ This page combines the AI-predicted indications for Sotalol with the latest heal
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (7)</strong>:<ul>
-<li>Sick sinus syndrome 2, autosomal dominant | 99.76% | L5 | Hold | Mechanistically contraindicated, likely graph artifact (99.0%)</li>
-<li>Wildervanck syndrome | 99.65% | L5 | Hold | No known mechanistic link; zero evidence (99.0%)</li>
-<li>Sarcoglycanopathy | 99.64% | L5 | Hold | Cardiac involvement is a downstream complication, not a treatment target; zero evidence (99.0%)</li>
-<li>Stroke disorder | 99.44% | L3 | **Research Question** | Only candidate with real (indirect) supporting evidence — see below (99.0%)</li>
-<li>Manic bipolar affective disorder | 99.43% | L4 | Hold | Literature describes a **drug-safety risk** (QT prolongation with antipsychotics), not efficacy (99.0%)</li>
-<li>Macrocephaly, dysmorphic facies, and psychomotor retardation | 99.42% | L5 | Hold | No mechanistic link; zero evidence (99.0%)</li>
-<li>Obsolete susceptibility to ischemic stroke | 99.23% | L5 | Hold | Deprecated ontology term; should be removed from candidate list (99.0%)</li>
+<li>sick sinus syndrome 2, autosomal dominant (99.8%)</li>
+<li>Wildervanck syndrome (99.7%)</li>
+<li>sarcoglycanopathy (99.6%)</li>
+<li>stroke disorder (99.4%)</li>
+<li>manic bipolar affective disorder (99.4%)</li>
+<li>macrocephaly, dysmorphic facies, and psychomotor retardation (99.4%)</li>
+<li>obsolete susceptibility to ischemic stroke (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sotalol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [What links smoking, body fat, mental health, genes, and heart risk? Inflammation may be part of the answer](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3aUJGQlFfOTh5ZG5xVklTMHR0dkRpVUQzQlpyQ2gwTDBsMkNiSzNDZHhqdGR0SEswcGJsS0JhNV83VTVhSDJ1R1FZY1FHTWdBa3hRZWo0YW5ZdUd0M3RQLVBWVlU2VDlHMDZ6LTNlaGVGSFdHdUVSVWJGNHh5cUx2dWlkMmtHVG54OVkyWUhzQWpZeHRpaFlSaDB1eFFsaTVSa2tjMFVHd0xwTnRGb1FrWGtRZkNzWU9COWlvV2NNRTFmQTRjWnlPNUxDVENNOWM5ZWZoZnBnbjNTUkdMLUVuRQ?oc=5)
-
-2026-09-23 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3aUJGQlFfOTh5ZG5xVklTMHR0dkRpVUQzQlpyQ2gwTDBsMkNiSzNDZHhqdGR0SEswcGJsS0JhNV83VTVhSDJ1R1FZY1FHTWdBa3hRZWo0YW5ZdUd0M3RQLVBWVlU2VDlHMDZ6LTNlaGVGSFdHdUVSVWJGNHh5cUx2dWlkMmtHVG54OVkyWUhzQWpZeHRpaFlSaDB1eFFsaTVSa2tjMFVHd0xwTnRGb1FrWGtRZkNzWU9COWlvV2NNRTFmQTRjWnlPNUxDVENNOWM5ZWZoZnBnbjNTUkdMLUVuRQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -3,7 +3,7 @@ layout: default
 title: "Fentanyl News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fentanyl. Original indication: . 0 predicted indications."
+description: "Health news related to Fentanyl. Original indication: . 2 predicted indications."
 permalink: /news/fentanyl/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fentanyl/
 ---
 
 <p class="key-answer" data-question="What news is there about Fentanyl?">
-<strong>Fentanyl</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Fentanyl</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,23 @@ This page combines the AI-predicted indications for Fentanyl with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>nephrogenic syndrome of inappropriate antidiuresis (99.5%)</li>
+<li>Tourette syndrome (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Study Looks at Patient Experiences With Sedative Contaminating Fentanyl](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmNDLTh4bGpsY3VBZmRHbl9pYTRvTWhvRzQ0TDBxSjhKMXdxLXZsVGNDaU9CQml0SUtYWGpUdlJOWTUzOVF6NHBESUpIUndTRkZMcXlUMjNlU3hwaGg1VVRhMTdEaGhVWGx3OFdNd3BwLVhiVXIwZG9zX1FHbG94Mm9BMVozdFg4TE9RN3BYR0FZTVhTRVdoYmZ4X29ibmRfeDlvaWRIWmZCaUZ5MlVtWQ?oc=5)
+
+2026-09-28 <span class="news-drug-tag">Fentanyl</span>
+
+Source: [psychiatryadvisor.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmNDLTh4bGpsY3VBZmRHbl9pYTRvTWhvRzQ0TDBxSjhKMXdxLXZsVGNDaU9CQml0SUtYWGpUdlJOWTUzOVF6NHBESUpIUndTRkZMcXlUMjNlU3hwaGg1VVRhMTdEaGhVWGx3OFdNd3BwLVhiVXIwZG9zX1FHbG94Mm9BMVozdFg4TE9RN3BYR0FZTVhTRVdoYmZ4X29ibmRfeDlvaWRIWmZCaUZ5MlVtWQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

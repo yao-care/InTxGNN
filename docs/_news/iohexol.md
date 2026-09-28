@@ -25,16 +25,16 @@ This page combines the AI-predicted indications for Iohexol with the latest heal
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Insomnia | 99.87% | 0 | 0 | L5 | Hold | No CNS/sleep mechanism; KG co-occurrence artefact (99.0%)</li>
-<li>Anxiety | 99.25% | 6 (all Grade C) | 6 (all off-target) | L5 | Hold | All trials use iohexol as GFR probe or imaging tool, not anxiety treatment (99.0%)</li>
-<li>Rheumatoid Arthritis | 98.87% | 1 (Phase 1, GFR probe) | 0 | L5 | Hold | NCT01484561 uses iohexol to measure renal clearance, not treat RA (99.0%)</li>
-<li>Antithrombin Deficiency Type 2 | 98.75% | 0 | 0 | L5 | Hold | No anticoagulant mechanism; vascular imaging co-occurrence (99.0%)</li>
-<li>Factor V Excess / Spontaneous Thrombosis | 98.73% | 0 | 0 | L5 | Hold | No anticoagulant activity; indirect KG vascular-imaging linkage (99.0%)</li>
-<li>Sleep Disorder (Initiating and Maintaining) | 98.61% | 0 | 0 | L5 | Hold | Duplicate of Rank 1 in different terminology (SNOMED) (99.0%)</li>
-<li>Heparin Cofactor 2 Deficiency | 98.61% | 0 | 0 | L5 | Hold | Rare coagulopathy; no protein-supplementation mechanism (99.0%)</li>
-<li>Fibromyalgia | 98.46% | 0 | 0 | L5 | Hold | Central sensitisation disorder; no analgesic/neuromodulatory mechanism (99.0%)</li>
-<li>Conjunctivitis | 98.45% | 0 | 0 | L5 | Hold | No ophthalmic formulation; theoretical iodine antimicrobial effect unvalidated (99.0%)</li>
-<li>Tendinitis | 98.44% | 0 | 14 (all imaging use) | L5 | Hold | All 14 publications use iohexol for arthrography/tenography diagnosis; steroid co-injected is the therapeutic agent (99.0%)</li>
+<li>insomnia (disease) (99.9%)</li>
+<li>anxiety (99.2%)</li>
+<li>rheumatoid arthritis (98.9%)</li>
+<li>antithrombin deficiency type 2 (98.8%)</li>
+<li>factor 5 excess with spontaneous thrombosis (98.7%)</li>
+<li>sleep disorder, initiating and maintaining sleep (98.6%)</li>
+<li>heparin cofactor 2 deficiency (98.6%)</li>
+<li>fibromyalgia (98.5%)</li>
+<li>conjunctivitis (98.5%)</li>
+<li>tendinitis (98.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iohexol/' | relative_url }}">View full drug report →</a></p>

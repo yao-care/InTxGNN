@@ -3,7 +3,7 @@ layout: default
 title: "Pegfilgrastim News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pegfilgrastim. Original indication: . 0 predicted indications."
+description: "Health news related to Pegfilgrastim. Original indication: . 2 predicted indications."
 permalink: /news/pegfilgrastim/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pegfilgrastim/
 ---
 
 <p class="key-answer" data-question="What news is there about Pegfilgrastim?">
-<strong>Pegfilgrastim</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pegfilgrastim</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Pegfilgrastim with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>severe nonproliferative diabetic retinopathy (99.9%)</li>
+<li>diabetic retinopathy (99.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pegfilgrastim/' | relative_url }}">View full drug report →</a></p>
 </div>

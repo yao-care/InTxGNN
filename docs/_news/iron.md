@@ -3,7 +3,7 @@ layout: default
 title: "Iron News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Iron. Original indication: . 0 predicted indications."
+description: "Health news related to Iron. Original indication: . 6 predicted indications."
 permalink: /news/iron/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Iron</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,14 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>vitamin B12- and folate-independent constitutional megaloblastic anemia (99.9%)</li>
+<li>Plummer-Vinson syndrome (99.9%)</li>
+<li>non-syndromic esophageal malformation (99.9%)</li>
+<li>biotin metabolic disease (99.7%)</li>
+<li>vitamin deficiency disorder (99.7%)</li>
+<li>esophageal disease (99.4%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>

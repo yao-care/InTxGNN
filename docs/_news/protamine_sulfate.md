@@ -3,7 +3,7 @@ layout: default
 title: "Protamine Sulfate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Protamine Sulfate. Original indication: . 0 predicted indications."
+description: "Health news related to Protamine Sulfate. Original indication: . 10 predicted indications."
 permalink: /news/protamine_sulfate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/protamine_sulfate/
 ---
 
 <p class="key-answer" data-question="What news is there about Protamine Sulfate?">
-<strong>Protamine Sulfate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Protamine Sulfate</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Protamine Sulfate with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>helminthiasis, animal (50.0%)</li>
+<li>classical swine fever (50.0%)</li>
+<li>hip dysplasia, canine (50.0%)</li>
+<li>hepatitis, viral, animal (50.0%)</li>
+<li>gingivitis (50.0%)</li>
+<li>gingival overgrowth (50.0%)</li>
+<li>epidermitis, exudative, of swine (50.0%)</li>
+<li>encephalomyelitis, enzootic porcine (50.0%)</li>
+<li>edema disease of swine (50.0%)</li>
+<li>infectious bovine rhinotracheitis (50.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/protamine_sulfate/' | relative_url }}">View full drug report →</a></p>
 </div>

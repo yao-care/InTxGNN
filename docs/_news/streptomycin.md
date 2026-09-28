@@ -3,7 +3,7 @@ layout: default
 title: "Streptomycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Streptomycin. Original indication: . 0 predicted indications."
+description: "Health news related to Streptomycin. Original indication: . 10 predicted indications."
 permalink: /news/streptomycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/streptomycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Streptomycin?">
-<strong>Streptomycin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Streptomycin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Streptomycin with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>conjunctivitis (99.9%)</li>
+<li>postinfectious vasculitis (99.9%)</li>
+<li>post-bacterial disorder (99.9%)</li>
+<li>post-infectious syndrome (99.8%)</li>
+<li>infective urethral stricture (99.8%)</li>
+<li>otitis externa (99.8%)</li>
+<li>Chagas cardiomyopathy (99.8%)</li>
+<li>infection-related hemolytic uremic syndrome (99.8%)</li>
+<li>Lyme disease (99.7%)</li>
+<li>infectious otitis interna (99.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/streptomycin/' | relative_url }}">View full drug report →</a></p>
 </div>

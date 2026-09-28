@@ -3,7 +3,7 @@ layout: default
 title: "Ruxolitinib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ruxolitinib. Original indication: . 0 predicted indications."
+description: "Health news related to Ruxolitinib. Original indication: . 10 predicted indications."
 permalink: /news/ruxolitinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ruxolitinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Ruxolitinib?">
-<strong>Ruxolitinib</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ruxolitinib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Ruxolitinib with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>uterine corpus perivascular epithelioid cell tumor (99.7%)</li>
+<li>benign PEComa (99.7%)</li>
+<li>lymphangiomyoma (99.7%)</li>
+<li>lymphangioleiomyomatosis (99.6%)</li>
+<li>liposarcoma (99.5%)</li>
+<li>familial rhabdoid tumor (99.5%)</li>
+<li>lung PEComa (99.4%)</li>
+<li>ovarian myxoid liposarcoma (99.4%)</li>
+<li>hemophagocytic syndrome associated with an infection (99.3%)</li>
+<li>acquired hemophagocytic lymphohistiocytosis associated with malignant disease (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ruxolitinib/' | relative_url }}">View full drug report →</a></p>
 </div>

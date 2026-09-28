@@ -3,7 +3,7 @@ layout: default
 title: "Cefetamet News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cefetamet. Original indication: . 0 predicted indications."
+description: "Health news related to Cefetamet. Original indication: . 10 predicted indications."
 permalink: /news/cefetamet/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cefetamet/
 ---
 
 <p class="key-answer" data-question="What news is there about Cefetamet?">
-<strong>Cefetamet</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Cefetamet</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Cefetamet with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>rheumatoid arthritis (98.0%)</li>
+<li>osteoarthritis (97.9%)</li>
+<li>osteoarthritis susceptibility (97.7%)</li>
+<li>gout (97.4%)</li>
+<li>hemoglobinopathy (97.0%)</li>
+<li>pseudoachondroplasia (96.9%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (96.8%)</li>
+<li>brachyolmia (96.6%)</li>
+<li>beta-thalassemia with other manifestations (96.5%)</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type (96.4%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/cefetamet/' | relative_url }}">View full drug report →</a></p>
 </div>

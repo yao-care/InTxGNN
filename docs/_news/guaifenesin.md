@@ -3,7 +3,7 @@ layout: default
 title: "Guaifenesin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Guaifenesin. Original indication: . 0 predicted indications."
+description: "Health news related to Guaifenesin. Original indication: . 5 predicted indications."
 permalink: /news/guaifenesin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/guaifenesin/
 ---
 
 <p class="key-answer" data-question="What news is there about Guaifenesin?">
-<strong>Guaifenesin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Guaifenesin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,13 @@ This page combines the AI-predicted indications for Guaifenesin with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>nasal cavity disease (100.0%)</li>
+<li>acute laryngopharyngitis (100.0%)</li>
+<li>faucial diphtheria (99.5%)</li>
+<li>cervical disc degenerative disorder (99.5%)</li>
+<li>papillary conjunctivitis (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/guaifenesin/' | relative_url }}">View full drug report →</a></p>
 </div>

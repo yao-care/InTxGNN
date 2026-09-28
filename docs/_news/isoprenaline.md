@@ -3,7 +3,7 @@ layout: default
 title: "Isoprenaline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Isoprenaline. Original indication: . 0 predicted indications."
+description: "Health news related to Isoprenaline. Original indication: . 10 predicted indications."
 permalink: /news/isoprenaline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/isoprenaline/
 ---
 
 <p class="key-answer" data-question="What news is there about Isoprenaline?">
-<strong>Isoprenaline</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Isoprenaline</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Isoprenaline with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>nasal cavity disease (100.0%)</li>
+<li>headache disorder (99.9%)</li>
+<li>pharyngitis (99.9%)</li>
+<li>acute laryngopharyngitis (99.9%)</li>
+<li>trigeminal autonomic cephalalgia (99.9%)</li>
+<li>bronchial disease (99.8%)</li>
+<li>endobronchial leiomyoma (99.7%)</li>
+<li>allergic urticaria (99.7%)</li>
+<li>endobronchial lipoma (99.7%)</li>
+<li>bronchus adenoma (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/isoprenaline/' | relative_url }}">View full drug report →</a></p>
 </div>

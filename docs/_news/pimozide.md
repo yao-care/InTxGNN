@@ -3,7 +3,7 @@ layout: default
 title: "Pimozide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pimozide. Original indication: . 0 predicted indications."
+description: "Health news related to Pimozide. Original indication: . 10 predicted indications."
 permalink: /news/pimozide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pimozide/
 ---
 
 <p class="key-answer" data-question="What news is there about Pimozide?">
-<strong>Pimozide</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pimozide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Pimozide with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>trichotillomania (100.0%)</li>
+<li>manic bipolar affective disorder (100.0%)</li>
+<li>insomnia (disease) (100.0%)</li>
+<li>major affective disorder (100.0%)</li>
+<li>attention deficit-hyperactivity disorder (99.9%)</li>
+<li>faciodigitogenital syndrome (99.9%)</li>
+<li>Malan overgrowth syndrome (99.8%)</li>
+<li>attention deficit hyperactivity disorder, inattentive type (99.7%)</li>
+<li>agoraphobia (99.7%)</li>
+<li>benign paroxysmal torticollis of infancy (99.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pimozide/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Saquinavir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Saquinavir. Original indication: . 4 predicted indications."
+description: "Health news related to Saquinavir. Original indication: . 6 predicted indications."
 permalink: /news/saquinavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/saquinavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Saquinavir?">
-<strong>Saquinavir</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Saquinavir</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,13 @@ This page combines the AI-predicted indications for Saquinavir with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>Feline acquired immunodeficiency syndrome | 99.97% | None | Veterinary disease; FIV protease diverges substantially from HIV-1; likely embedding-space false positive from "retrovirus/protease inhibitor" proximity (99.0%)</li>
-<li>Simian immunodeficiency virus infection | 99.97% | 4 in-vitro/animal studies | Real cross-reactivity exists, but SIV infection is an animal model, not a human disease — supports HIV mechanism, not an independent indication (99.0%)</li>
-<li>Rare neurodevelopmental disorder (ataxic gait, absent speech) | 99.97% | None | No biological link to protease inhibition; zero trials/literature; likely knowledge-graph noise (99.0%)</li>
-<li>Obsolete familial combined hyperlipidemia | 99.59% | None | Disease term is deprecated ontology; dyslipidemia is a known **adverse effect** of HIV protease inhibitors, not a treatment target — likely a reversed-causality artifact (99.0%)</li>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>feline acquired immunodeficiency syndrome (100.0%)</li>
+<li>simian immunodeficiency virus infection (100.0%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (100.0%)</li>
+<li>obsolete familial combined hyperlipidemia (99.6%)</li>
+<li>AIDS related complex (99.5%)</li>
+<li>congenital human immunodeficiency virus (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/saquinavir/' | relative_url }}">View full drug report →</a></p>

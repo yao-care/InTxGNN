@@ -3,7 +3,7 @@ layout: default
 title: "Flupirtine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Flupirtine. Original indication: . 0 predicted indications."
+description: "Health news related to Flupirtine. Original indication: . 10 predicted indications."
 permalink: /news/flupirtine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/flupirtine/
 ---
 
 <p class="key-answer" data-question="What news is there about Flupirtine?">
-<strong>Flupirtine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Flupirtine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Flupirtine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>osteoarthritis (98.6%)</li>
+<li>osteoarthritis susceptibility (98.5%)</li>
+<li>rheumatoid arthritis (98.4%)</li>
+<li>hepatic porphyria (97.9%)</li>
+<li>pseudoachondroplasia (97.9%)</li>
+<li>gout (97.8%)</li>
+<li>brachyolmia (97.7%)</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type (97.6%)</li>
+<li>hepatoportal sclerosis (97.5%)</li>
+<li>primitive portal vein thrombosis (97.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/flupirtine/' | relative_url }}">View full drug report →</a></p>
 </div>

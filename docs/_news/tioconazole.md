@@ -3,7 +3,7 @@ layout: default
 title: "Tioconazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tioconazole. Original indication: . 0 predicted indications."
+description: "Health news related to Tioconazole. Original indication: . 3 predicted indications."
 permalink: /news/tioconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tioconazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Tioconazole?">
-<strong>Tioconazole</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Tioconazole</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ This page combines the AI-predicted indications for Tioconazole with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>vulvovaginitis (99.2%)</li>
+<li>vulvitis (99.2%)</li>
+<li>postmenopausal atrophic vaginitis (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">View full drug report →</a></p>
 </div>

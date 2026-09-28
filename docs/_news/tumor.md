@@ -258,11 +258,11 @@ This page brings together the latest health news about “tumor” and lists the
 
 ## Related News (1)
 
-### [Brain tumours: New rapid genomic test could “transform” NHS diagnosis](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YWXVyX1BqQ242dTVuRkloOGluQTcyZVJ3c2ptMUFZMzB0TERLUWJURV83NGVqVjQ3aUllSzF4a1R5WWJVakZ5cTZwTkJnNkpTZmRKbGZ1TVlaeEk?oc=5)
+### [New NHS Genetic Test Can Identify Brain Tumour Type In 2 Hours During Surgery - Health and Me](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUkl2czhTMGdLWW1mYmRJeWF6TTNnRi1LdjJyLXowWndKby1aYzFBWnNsSGFRUDNSZnI1cTZQdFhqNEpPQks2SEpKSWVXU1R5MWM1UzhhWEdSa2FsTUV6cDZyQlpMbFE0YURuTXp0bG5rbUNYclFiOGR2OERXMkFyU2taRU9zSXhvVFAyTDhmVExuc1hidW16aERFcGpwRDBGUjNGdFh0ZFZ0WVczTVF3a3lYYXlZQ0JDdUt4YjJqWTJ1VkhybXgyVjlwY1hRUWVk?oc=5)
 
 2026-09-28
 
-Source: [bmj.com](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YWXVyX1BqQ242dTVuRkloOGluQTcyZVJ3c2ptMUFZMzB0TERLUWJURV83NGVqVjQ3aUllSzF4a1R5WWJVakZ5cTZwTkJnNkpTZmRKbGZ1TVlaeEk?oc=5)
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUkl2czhTMGdLWW1mYmRJeWF6TTNnRi1LdjJyLXowWndKby1aYzFBWnNsSGFRUDNSZnI1cTZQdFhqNEpPQks2SEpKSWVXU1R5MWM1UzhhWEdSa2FsTUV6cDZyQlpMbFE0YURuTXp0bG5rbUNYclFiOGR2OERXMkFyU2taRU9zSXhvVFAyTDhmVExuc1hidW16aERFcGpwRDBGUjNGdFh0ZFZ0WVczTVF3a3lYYXlZQ0JDdUt4YjJqWTJ1VkhybXgyVjlwY1hRUWVk?oc=5)
 
 ---
 

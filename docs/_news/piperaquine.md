@@ -3,7 +3,7 @@ layout: default
 title: "Piperaquine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Piperaquine. Original indication: . 0 predicted indications."
+description: "Health news related to Piperaquine. Original indication: . 10 predicted indications."
 permalink: /news/piperaquine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/piperaquine/
 ---
 
 <p class="key-answer" data-question="What news is there about Piperaquine?">
-<strong>Piperaquine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Piperaquine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Piperaquine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>cystic echinococcosis (99.5%)</li>
+<li>Plasmodium vivax malaria (99.5%)</li>
+<li>echinococcus granulosus infectious disease (99.0%)</li>
+<li>Smouldering systemic mastocytosis (98.8%)</li>
+<li>lymphoadenopathic mastocytosis with eosinophilia (98.6%)</li>
+<li>alveolar echinococcosis (98.6%)</li>
+<li>systemic mastocytosis (98.6%)</li>
+<li>nocardiosis (98.3%)</li>
+<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (98.1%)</li>
+<li>enterobiasis (97.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/piperaquine/' | relative_url }}">View full drug report →</a></p>
 </div>

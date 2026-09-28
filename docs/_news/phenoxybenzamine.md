@@ -3,7 +3,7 @@ layout: default
 title: "Phenoxybenzamine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Phenoxybenzamine. Original indication: . 0 predicted indications."
+description: "Health news related to Phenoxybenzamine. Original indication: . 2 predicted indications."
 permalink: /news/phenoxybenzamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/phenoxybenzamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Phenoxybenzamine?">
-<strong>Phenoxybenzamine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Phenoxybenzamine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Phenoxybenzamine with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>primary hereditary glaucoma (99.5%)</li>
+<li>open-angle glaucoma (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenoxybenzamine/' | relative_url }}">View full drug report →</a></p>
 </div>

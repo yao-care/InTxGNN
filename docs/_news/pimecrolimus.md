@@ -3,7 +3,7 @@ layout: default
 title: "Pimecrolimus News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pimecrolimus. Original indication: . 0 predicted indications."
+description: "Health news related to Pimecrolimus. Original indication: . 4 predicted indications."
 permalink: /news/pimecrolimus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pimecrolimus/
 ---
 
 <p class="key-answer" data-question="What news is there about Pimecrolimus?">
-<strong>Pimecrolimus</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pimecrolimus</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,12 @@ This page combines the AI-predicted indications for Pimecrolimus with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>seborrheic dermatitis (99.7%)</li>
+<li>dermatitis (99.4%)</li>
+<li>exanthem (disease) (99.3%)</li>
+<li>acrodermatitis chronica atrophicans (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pimecrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>

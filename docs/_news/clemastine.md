@@ -3,7 +3,7 @@ layout: default
 title: "Clemastine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clemastine. Original indication: . 0 predicted indications."
+description: "Health news related to Clemastine. Original indication: . 6 predicted indications."
 permalink: /news/clemastine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clemastine/
 ---
 
 <p class="key-answer" data-question="What news is there about Clemastine?">
-<strong>Clemastine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Clemastine</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,14 @@ This page combines the AI-predicted indications for Clemastine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>allergic urticaria (100.0%)</li>
+<li>cold urticaria (100.0%)</li>
+<li>nasal cavity disease (99.9%)</li>
+<li>acute laryngopharyngitis (99.8%)</li>
+<li>recalcitrant atopic dermatitis (99.7%)</li>
+<li>IgE responsiveness, atopic (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/clemastine/' | relative_url }}">View full drug report →</a></p>
 </div>

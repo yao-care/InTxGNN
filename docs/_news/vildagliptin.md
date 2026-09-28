@@ -3,7 +3,7 @@ layout: default
 title: "Vildagliptin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vildagliptin. Original indication: . 0 predicted indications."
+description: "Health news related to Vildagliptin. Original indication: . 10 predicted indications."
 permalink: /news/vildagliptin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vildagliptin/
 ---
 
 <p class="key-answer" data-question="What news is there about Vildagliptin?">
-<strong>Vildagliptin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Vildagliptin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Vildagliptin with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>focal stiff limb syndrome (99.9%)</li>
+<li>classic stiff person syndrome (99.9%)</li>
+<li>thiamine-responsive dysfunction syndrome (99.9%)</li>
+<li>opsismodysplasia (99.9%)</li>
+<li>drug-induced localized lipodystrophy (99.8%)</li>
+<li>centrifugal lipodystrophy (99.8%)</li>
+<li>pressure-induced localized lipoatrophy (99.8%)</li>
+<li>idiopathic localized lipodystrophy (99.8%)</li>
+<li>pancreatic agenesis (99.8%)</li>
+<li>type 1 diabetes mellitus (99.4%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/vildagliptin/' | relative_url }}">View full drug report →</a></p>
 </div>

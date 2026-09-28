@@ -3,7 +3,7 @@ layout: default
 title: "Ofatumumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ofatumumab. Original indication: . 0 predicted indications."
+description: "Health news related to Ofatumumab. Original indication: . 8 predicted indications."
 permalink: /news/ofatumumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ofatumumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ofatumumab?">
-<strong>Ofatumumab</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ofatumumab</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,16 @@ This page combines the AI-predicted indications for Ofatumumab with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (8)</strong>:<ul>
+<li>pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (99.8%)</li>
+<li>chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (99.8%)</li>
+<li>follicular lymphoma (99.7%)</li>
+<li>leukemia, lymphocytic, susceptibility to (99.6%)</li>
+<li>chronic lymphocytic leukemia/small lymphocytic lymphoma (99.5%)</li>
+<li>metastatic neoplasm (99.5%)</li>
+<li>malignant spiradenoma (99.5%)</li>
+<li>Langerhans cell histiocytosis (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ofatumumab/' | relative_url }}">View full drug report →</a></p>
 </div>

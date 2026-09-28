@@ -3,7 +3,7 @@ layout: default
 title: "Cyclandelate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cyclandelate. Original indication: . 9 predicted indications."
+description: "Health news related to Cyclandelate. Original indication: . 10 predicted indications."
 permalink: /news/cyclandelate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyclandelate/
 ---
 
 <p class="key-answer" data-question="What news is there about Cyclandelate?">
-<strong>Cyclandelate</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Cyclandelate</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,28 +24,45 @@ This page combines the AI-predicted indications for Cyclandelate with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Prinzmetal angina | 99.80% | L5 | Hold (no clinical/literature evidence) (99.0%)</li>
-<li>Raynaud disease | 99.73% | L4 | Research Question (1 old case-series report only) (99.0%)</li>
-<li>Migraine with brainstem aura | 99.62% | L4 | Research Question (indirect qEEG studies, not subtype-specific) (99.0%)</li>
-<li>Pulmonary hypertension | 99.50% | L5 | Hold (no evidence) (99.0%)</li>
-<li>Gout | 99.43% | L5 | Hold (no mechanistic rationale, likely graph noise) (99.0%)</li>
-<li>Kyphoscoliotic heart disease | 99.36% | L5 | Hold (no evidence) (99.0%)</li>
-<li>Benign prostatic hyperplasia | 99.08% | L5 | Hold (cyclandelate is not an alpha-blocker; no evidence) (99.0%)</li>
-<li>Exostosis | 99.06% | L5 | Hold (no mechanistic plausibility, likely graph noise) (99.0%)</li>
-<li>Peripheral vascular disease | 99.04% | L3 | Hold (this drug's original historical indication, but pivotal 1984 RCT was negative) (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Prinzmetal angina (99.8%)</li>
+<li>Raynaud disease (99.7%)</li>
+<li>migraine disorder (99.7%)</li>
+<li>migraine with brainstem aura (99.6%)</li>
+<li>pulmonary hypertension (99.5%)</li>
+<li>gout (99.4%)</li>
+<li>kyphoscoliotic heart disease (99.4%)</li>
+<li>benign prostatic hyperplasia (disease) (99.1%)</li>
+<li>exostosis (99.1%)</li>
+<li>peripheral vascular disease (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyclandelate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
 
-### [Eating at Odd Hours on Weekends? The Hidden Heart Risk You Didn’t Expect - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMk9mV3JsLXg4Mlc4RGtvVTJ4eDZlREtWWmNMT2NfZkdrV0ozNnFIQ3ZxdjBvTkY1VEMzckZDdUszb0tZMVFrUkdiMmJNZFNKSlBnM2MzR0dDMGRFdWd2S0dtTTA5SFFxYXRyR2ZQSlJ0a1VRYndOM095bGtLWEs0QzZ2QzljNGlYSW5hUnRINmx2bEhtUV92MzVNNjNwSTB6LVJMakRMNXVPaXhXTHJnLWZR?oc=5)
+### [Conference MDAngle: HFSA 2026 Amyloidosis/ATTR-CM](https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXJkMldaM0s0TjJJYVBEY0JuSklXSHNWNkpIVEhVRGlzV2c0N3F4RXFheFVDdFdDN2NfSXpQRTMzU2VFWDJwY3JNQVBEV0JvR1g1WmpGRHRXeWRySndMMDFrV1dsZENCN1pMbV8tcms1RHRTeDVIczhyQk9pd3IyYkpFaFd0ME5pWl9GV2k2QTNXdldSQ0JETFN2c0ZSbkVPcXV3?oc=5)
 
-2026-09-27 <span class="news-indication-tag">heart disease</span>
+2026-09-28 <span class="news-indication-tag">heart disease</span>
 
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMk9mV3JsLXg4Mlc4RGtvVTJ4eDZlREtWWmNMT2NfZkdrV0ozNnFIQ3ZxdjBvTkY1VEMzckZDdUszb0tZMVFrUkdiMmJNZFNKSlBnM2MzR0dDMGRFdWd2S0dtTTA5SFFxYXRyR2ZQSlJ0a1VRYndOM095bGtLWEs0QzZ2QzljNGlYSW5hUnRINmx2bEhtUV92MzVNNjNwSTB6LVJMakRMNXVPaXhXTHJnLWZR?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXJkMldaM0s0TjJJYVBEY0JuSklXSHNWNkpIVEhVRGlzV2c0N3F4RXFheFVDdFdDN2NfSXpQRTMzU2VFWDJwY3JNQVBEV0JvR1g1WmpGRHRXeWRySndMMDFrV1dsZENCN1pMbV8tcms1RHRTeDVIczhyQk9pd3IyYkpFaFd0ME5pWl9GV2k2QTNXdldSQ0JETFN2c0ZSbkVPcXV3?oc=5)
+
+---
+
+### [The next phase of cardiac care is rehabilitation at home](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZURkVVpMNFY5VWp5MUwxZDczUnprLWNtT2JzeHZGVmFkdW9UbjJqZFBTdTh5bFROaXQxWWh1cUhWajRzVEEtSmNnVFJWeEhRSXptbE5zQW1XemVRLTdnX0J2MjNxMlRrdGRucDZwbkd5UGp4T0U2RVc4UF9vUWlXbHNfdmFOWnB4ZUJEVFZTMGNQMjg4Zi1fMEg4RkoyYmxKUXFCeQ?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [expresshealthcare.in](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZURkVVpMNFY5VWp5MUwxZDczUnprLWNtT2JzeHZGVmFkdW9UbjJqZFBTdTh5bFROaXQxWWh1cUhWajRzVEEtSmNnVFJWeEhRSXptbE5zQW1XemVRLTdnX0J2MjNxMlRrdGRucDZwbkd5UGp4T0U2RVc4UF9vUWlXbHNfdmFOWnB4ZUJEVFZTMGNQMjg4Zi1fMEg4RkoyYmxKUXFCeQ?oc=5)
+
+---
+
+### [Physical decline may precede major cardiovascular events by a decade: study](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BcEg1YkR0TXV6YllZXzhPTDNWRnllQ1FQUVc1dWJEQXJOUERPRUE0N2o4X2RteWZRQ2tQOEtyUmtsSHZaSUJKZm9kemN1M2FtcE1OLW9yT21xaVV5bEFuUzgwZ0c2SWR2VkhoT09xNVBES1d5NzgzRXhMT1U?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [Xinhua](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BcEg1YkR0TXV6YllZXzhPTDNWRnllQ1FQUVc1dWJEQXJOUERPRUE0N2o4X2RteWZRQ2tQOEtyUmtsSHZaSUJKZm9kemN1M2FtcE1OLW9yT21xaVV5bEFuUzgwZ0c2SWR2VkhoT09xNVBES1d5NzgzRXhMT1U?oc=5)
 
 ---
 

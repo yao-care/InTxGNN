@@ -3,7 +3,7 @@ layout: default
 title: "Ilaprazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ilaprazole. Original indication: . 0 predicted indications."
+description: "Health news related to Ilaprazole. Original indication: . 5 predicted indications."
 permalink: /news/ilaprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ilaprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Ilaprazole?">
-<strong>Ilaprazole</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ilaprazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,13 @@ This page combines the AI-predicted indications for Ilaprazole with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>active peptic ulcer disease (99.9%)</li>
+<li>gastrojejunal ulcer (99.8%)</li>
+<li>peptic ulcer perforation (99.8%)</li>
+<li>gastric ulcer (disease) (99.6%)</li>
+<li>gastroduodenitis (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ilaprazole/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Famotidine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Famotidine. Original indication: . 0 predicted indications."
+description: "Health news related to Famotidine. Original indication: . 10 predicted indications."
 permalink: /news/famotidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/famotidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Famotidine?">
-<strong>Famotidine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Famotidine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Famotidine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>duodenogastric reflux (100.0%)</li>
+<li>duodenal obstruction (100.0%)</li>
+<li>active peptic ulcer disease (100.0%)</li>
+<li>gastrojejunal ulcer (100.0%)</li>
+<li>peptic ulcer perforation (100.0%)</li>
+<li>abnormality of glucagon secretion (99.9%)</li>
+<li>gastroduodenitis (99.8%)</li>
+<li>peptic ulcer disease (99.7%)</li>
+<li>multiple endocrine neoplasia (99.7%)</li>
+<li>acne (disease) (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/famotidine/' | relative_url }}">View full drug report →</a></p>
 </div>

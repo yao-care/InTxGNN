@@ -3,7 +3,7 @@ layout: default
 title: "Racecadotril News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Racecadotril. Original indication: . 0 predicted indications."
+description: "Health news related to Racecadotril. Original indication: . 10 predicted indications."
 permalink: /news/racecadotril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/racecadotril/
 ---
 
 <p class="key-answer" data-question="What news is there about Racecadotril?">
-<strong>Racecadotril</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Racecadotril</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Racecadotril with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>polyclonal hyperviscosity syndrome (97.7%)</li>
+<li>hyperamylasemia (97.7%)</li>
+<li>congenital analbuminemia (97.5%)</li>
+<li>blood group incompatibility (96.9%)</li>
+<li>premalignant hematological system disease (96.6%)</li>
+<li>monoclonal gammopathy (96.6%)</li>
+<li>hematological disease associated with an acquired peripheral neuropathy (96.2%)</li>
+<li>congenital hematological disorder (95.4%)</li>
+<li>septicemic plague (95.3%)</li>
+<li>acute cystitis (disease) (94.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/racecadotril/' | relative_url }}">View full drug report →</a></p>
 </div>

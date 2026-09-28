@@ -3,7 +3,7 @@ layout: default
 title: "Romiplostim News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Romiplostim. Original indication: . 0 predicted indications."
+description: "Health news related to Romiplostim. Original indication: . 10 predicted indications."
 permalink: /news/romiplostim/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/romiplostim/
 ---
 
 <p class="key-answer" data-question="What news is there about Romiplostim?">
-<strong>Romiplostim</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Romiplostim</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Romiplostim with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>primary release disorder of platelets (100.0%)</li>
+<li>pseudo-von Willebrand disease (100.0%)</li>
+<li>Glanzmann thrombasthenia (100.0%)</li>
+<li>fetal and neonatal alloimmune thrombocytopenia (100.0%)</li>
+<li>Scott syndrome (100.0%)</li>
+<li>hemorrhagic disorder due to a constitutional thrombocytopenia (100.0%)</li>
+<li>bleeding diathesis due to a collagen receptor defect (100.0%)</li>
+<li>platelet-type bleeding disorder (99.9%)</li>
+<li>autosomal dominant macrothrombocytopenia (99.9%)</li>
+<li>Ehlers-Danlos syndrome, fibronectinemic type (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/romiplostim/' | relative_url }}">View full drug report →</a></p>
 </div>

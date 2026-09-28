@@ -3,7 +3,7 @@ layout: default
 title: "Pitavastatin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pitavastatin. Original indication: . 0 predicted indications."
+description: "Health news related to Pitavastatin. Original indication: . 10 predicted indications."
 permalink: /news/pitavastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pitavastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pitavastatin?">
-<strong>Pitavastatin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pitavastatin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Pitavastatin with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>homozygous familial hypercholesterolemia (100.0%)</li>
+<li>hyperlipoproteinemia (100.0%)</li>
+<li>familial hypercholesterolemia (100.0%)</li>
+<li>cholesterol-ester transfer protein deficiency (100.0%)</li>
+<li>hypercholesterolemia, autosomal dominant (100.0%)</li>
+<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (100.0%)</li>
+<li>HIV infectious disease (100.0%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (100.0%)</li>
+<li>hyperlipidemia due to hepatic triglyceride lipase deficiency (99.9%)</li>
+<li>simian immunodeficiency virus infection (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pitavastatin/' | relative_url }}">View full drug report →</a></p>
 </div>

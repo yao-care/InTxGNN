@@ -3,7 +3,7 @@ layout: default
 title: "Telbivudine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Telbivudine. Original indication: . 0 predicted indications."
+description: "Health news related to Telbivudine. Original indication: . 10 predicted indications."
 permalink: /news/telbivudine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/telbivudine/
 ---
 
 <p class="key-answer" data-question="What news is there about Telbivudine?">
-<strong>Telbivudine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Telbivudine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Telbivudine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>chronic hepatitis C virus infection (100.0%)</li>
+<li>hepatitis B virus infection (99.7%)</li>
+<li>HIV infectious disease (99.6%)</li>
+<li>hepatitis C virus infection (99.4%)</li>
+<li>disorder of phenylalanine metabolism (99.3%)</li>
+<li>disorder of tyrosine metabolism (99.3%)</li>
+<li>simian immunodeficiency virus infection (99.3%)</li>
+<li>feline acquired immunodeficiency syndrome (99.3%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.2%)</li>
+<li>tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/telbivudine/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Calcium Acetate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Calcium Acetate. Original indication: . 0 predicted indications."
+description: "Health news related to Calcium Acetate. Original indication: . 2 predicted indications."
 permalink: /news/calcium_acetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/calcium_acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Calcium Acetate?">
-<strong>Calcium Acetate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Calcium Acetate</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Calcium Acetate with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>calcium-alkali syndrome (99.9%)</li>
+<li>primary bone dysplasia with defective bone mineralization (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/calcium_acetate/' | relative_url }}">View full drug report →</a></p>
 </div>

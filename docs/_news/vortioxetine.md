@@ -3,7 +3,7 @@ layout: default
 title: "Vortioxetine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vortioxetine. Original indication: . 0 predicted indications."
+description: "Health news related to Vortioxetine. Original indication: . 5 predicted indications."
 permalink: /news/vortioxetine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,13 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>neurotic disorder (99.2%)</li>
+<li>neurotic depression (99.1%)</li>
+<li>melancholia (99.1%)</li>
+<li>benign paroxysmal torticollis of infancy (99.1%)</li>
+<li>dysthymic disorder (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Fosphenytoin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fosphenytoin. Original indication: . 0 predicted indications."
+description: "Health news related to Fosphenytoin. Original indication: . 7 predicted indications."
 permalink: /news/fosphenytoin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fosphenytoin/
 ---
 
 <p class="key-answer" data-question="What news is there about Fosphenytoin?">
-<strong>Fosphenytoin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Fosphenytoin</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,15 @@ This page combines the AI-predicted indications for Fosphenytoin with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>conjunctivitis (99.4%)</li>
+<li>nephrogenic syndrome of inappropriate antidiuresis (99.3%)</li>
+<li>Tourette syndrome (99.2%)</li>
+<li>manic bipolar affective disorder (99.2%)</li>
+<li>myositis fibrosa (99.0%)</li>
+<li>idiopathic granulomatous myositis (99.0%)</li>
+<li>fibromyalgia (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/fosphenytoin/' | relative_url }}">View full drug report →</a></p>
 </div>

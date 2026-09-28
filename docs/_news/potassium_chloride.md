@@ -3,7 +3,7 @@ layout: default
 title: "Potassium Chloride News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Potassium Chloride. Original indication: . 0 predicted indications."
+description: "Health news related to Potassium Chloride. Original indication: . 1 predicted indications."
 permalink: /news/potassium_chloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/potassium_chloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Potassium Chloride?">
-<strong>Potassium Chloride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Potassium Chloride</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,9 @@ This page combines the AI-predicted indications for Potassium Chloride with the 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>renal tubular acidosis (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/potassium_chloride/' | relative_url }}">View full drug report →</a></p>
 </div>

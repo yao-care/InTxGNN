@@ -3,7 +3,7 @@ layout: default
 title: "Sparfloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sparfloxacin. Original indication: . 0 predicted indications."
+description: "Health news related to Sparfloxacin. Original indication: . 9 predicted indications."
 permalink: /news/sparfloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sparfloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Sparfloxacin?">
-<strong>Sparfloxacin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Sparfloxacin</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,17 @@ This page combines the AI-predicted indications for Sparfloxacin with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>hyperamylasemia (99.7%)</li>
+<li>polyclonal hyperviscosity syndrome (99.7%)</li>
+<li>congenital analbuminemia (99.7%)</li>
+<li>blood group incompatibility (99.6%)</li>
+<li>premalignant hematological system disease (99.5%)</li>
+<li>monoclonal gammopathy (99.5%)</li>
+<li>hematological disease associated with an acquired peripheral neuropathy (99.4%)</li>
+<li>septicemic plague (99.3%)</li>
+<li>congenital hematological disorder (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/sparfloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>

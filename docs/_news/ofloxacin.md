@@ -3,7 +3,7 @@ layout: default
 title: "Ofloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ofloxacin. Original indication: . 0 predicted indications."
+description: "Health news related to Ofloxacin. Original indication: . 10 predicted indications."
 permalink: /news/ofloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ofloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ofloxacin?">
-<strong>Ofloxacin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ofloxacin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Ofloxacin with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>polyclonal hyperviscosity syndrome (99.9%)</li>
+<li>hyperamylasemia (99.9%)</li>
+<li>congenital analbuminemia (99.9%)</li>
+<li>blood group incompatibility (99.9%)</li>
+<li>premalignant hematological system disease (99.8%)</li>
+<li>monoclonal gammopathy (99.8%)</li>
+<li>hematological disease associated with an acquired peripheral neuropathy (99.8%)</li>
+<li>septicemic plague (99.8%)</li>
+<li>congenital hematological disorder (99.7%)</li>
+<li>punctate epithelial keratoconjunctivitis (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ofloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>

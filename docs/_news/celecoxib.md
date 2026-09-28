@@ -3,7 +3,7 @@ layout: default
 title: "Celecoxib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Celecoxib. Original indication: . 0 predicted indications."
+description: "Health news related to Celecoxib. Original indication: . 10 predicted indications."
 permalink: /news/celecoxib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/celecoxib/
 ---
 
 <p class="key-answer" data-question="What news is there about Celecoxib?">
-<strong>Celecoxib</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Celecoxib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Celecoxib with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
+<li>rheumatoid vasculitis (99.8%)</li>
+<li>myosclerosis (99.8%)</li>
+<li>hypermobility of coccyx (99.8%)</li>
+<li>brachyolmia (99.8%)</li>
+<li>rheumatoid nodulosis (99.8%)</li>
+<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.8%)</li>
+<li>inflammatory spondylopathy (99.8%)</li>
+<li>WHIM syndrome (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/celecoxib/' | relative_url }}">View full drug report →</a></p>
 </div>

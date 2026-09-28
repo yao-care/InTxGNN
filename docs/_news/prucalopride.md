@@ -3,7 +3,7 @@ layout: default
 title: "Prucalopride News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Prucalopride. Original indication: . 0 predicted indications."
+description: "Health news related to Prucalopride. Original indication: . 10 predicted indications."
 permalink: /news/prucalopride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prucalopride/
 ---
 
 <p class="key-answer" data-question="What news is there about Prucalopride?">
-<strong>Prucalopride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Prucalopride</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Prucalopride with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>hypoalphalipoproteinemia (99.8%)</li>
+<li>homozygous familial hypercholesterolemia (99.7%)</li>
+<li>duodenal ulcer (disease) (99.7%)</li>
+<li>oral candidiasis (99.6%)</li>
+<li>obsolete familial combined hyperlipidemia (99.6%)</li>
+<li>amyloidosis (disease) (99.6%)</li>
+<li>strongyloidiasis (99.6%)</li>
+<li>HIV infectious disease (99.6%)</li>
+<li>primary amyloidosis (99.6%)</li>
+<li>acquired amyloid peripheral neuropathy (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/prucalopride/' | relative_url }}">View full drug report →</a></p>
 </div>

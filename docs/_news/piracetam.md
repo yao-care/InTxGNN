@@ -3,7 +3,7 @@ layout: default
 title: "Piracetam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Piracetam. Original indication: . 0 predicted indications."
+description: "Health news related to Piracetam. Original indication: . 10 predicted indications."
 permalink: /news/piracetam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/piracetam/
 ---
 
 <p class="key-answer" data-question="What news is there about Piracetam?">
-<strong>Piracetam</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Piracetam</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Piracetam with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>osteoarthritis (98.5%)</li>
+<li>osteoarthritis susceptibility (98.3%)</li>
+<li>rheumatoid arthritis (98.0%)</li>
+<li>pseudoachondroplasia (97.6%)</li>
+<li>hepatic porphyria (97.5%)</li>
+<li>gout (97.5%)</li>
+<li>brachyolmia (97.5%)</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type (97.3%)</li>
+<li>myosclerosis (97.2%)</li>
+<li>early-onset familial noncirrhotic portal hypertension (97.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/piracetam/' | relative_url }}">View full drug report →</a></p>
 </div>

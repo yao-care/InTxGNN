@@ -3,7 +3,7 @@ layout: default
 title: "Probenecid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Probenecid. Original indication: . 2 predicted indications."
+description: "Health news related to Probenecid. Original indication: . 3 predicted indications."
 permalink: /news/probenecid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/probenecid/
 ---
 
 <p class="key-answer" data-question="What news is there about Probenecid?">
-<strong>Probenecid</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Probenecid</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,10 @@ This page combines the AI-predicted indications for Probenecid with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Lesch-Nyhan Syndrome | 99.39% | L4 | 0 / 4 (all old, tier 3) | HGPRT deficiency causes urate *overproduction*; standard care is xanthine-oxidase inhibition (e.g. allopurinol), not increased excretion. A uricosuric agent risks worsening uric acid crystalluria/nephrolithiasis in this population. (99.0%)</li>
-<li>HGPRT Partial Deficiency (Kelley-Seegmiller spectrum) | 99.37% | L5 | 0 / 0 | Same overproduction/excretion mismatch as above, but with **zero** supporting literature or trials — a pure graph-topology extrapolation from the Lesch-Nyhan node. (99.0%)</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>hypouricemia, renal (99.7%)</li>
+<li>Lesch-Nyhan syndrome (99.4%)</li>
+<li>hypoxanthine guanine phosphoribosyltransferase partial deficiency (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/probenecid/' | relative_url }}">View full drug report →</a></p>

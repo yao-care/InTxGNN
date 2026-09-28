@@ -3,7 +3,7 @@ layout: default
 title: "Prilocaine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Prilocaine. Original indication: . 0 predicted indications."
+description: "Health news related to Prilocaine. Original indication: . 10 predicted indications."
 permalink: /news/prilocaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>papillary conjunctivitis (99.8%)</li>
+<li>manic bipolar affective disorder (99.8%)</li>
+<li>bronchitis (99.6%)</li>
+<li>migraine disorder (99.4%)</li>
+<li>neuralgia (99.3%)</li>
+<li>migraine with brainstem aura (99.3%)</li>
+<li>atopic eczema (99.3%)</li>
+<li>allergic asthma (99.3%)</li>
+<li>rhinitis (99.3%)</li>
+<li>rosacea conjunctivitis (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>
 </div>

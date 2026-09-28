@@ -3,7 +3,7 @@ layout: default
 title: "Polidocanol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Polidocanol. Original indication: . 0 predicted indications."
+description: "Health news related to Polidocanol. Original indication: . 10 predicted indications."
 permalink: /news/polidocanol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/polidocanol/
 ---
 
 <p class="key-answer" data-question="What news is there about Polidocanol?">
-<strong>Polidocanol</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Polidocanol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Polidocanol with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>esophageal varices with bleeding (100.0%)</li>
+<li>esophageal varices without bleeding (100.0%)</li>
+<li>Immunoerythromyeloid hypoplasia (99.8%)</li>
+<li>pigmented paravenous retinochoroidal atrophy (99.7%)</li>
+<li>progressive bifocal chorioretinal atrophy (99.7%)</li>
+<li>X-linked retinal dysplasia (99.7%)</li>
+<li>monosomy X (99.7%)</li>
+<li>cone dystrophy (99.7%)</li>
+<li>oligocone trichromacy (99.7%)</li>
+<li>retinoschisis of fovea (99.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/polidocanol/' | relative_url }}">View full drug report →</a></p>
 </div>

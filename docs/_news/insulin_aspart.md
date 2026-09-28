@@ -3,7 +3,7 @@ layout: default
 title: "Insulin Aspart News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Insulin Aspart. Original indication: . 0 predicted indications."
+description: "Health news related to Insulin Aspart. Original indication: . 10 predicted indications."
 permalink: /news/insulin_aspart/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/insulin_aspart/
 ---
 
 <p class="key-answer" data-question="What news is there about Insulin Aspart?">
-<strong>Insulin Aspart</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Insulin Aspart</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Insulin Aspart with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>type 1 diabetes mellitus (100.0%)</li>
+<li>autoimmune oophoritis (99.9%)</li>
+<li>opsismodysplasia (99.6%)</li>
+<li>thiamine-responsive dysfunction syndrome (99.6%)</li>
+<li>permanent neonatal diabetes mellitus (99.5%)</li>
+<li>focal stiff limb syndrome (99.5%)</li>
+<li>classic stiff person syndrome (99.5%)</li>
+<li>pancreatic agenesis (99.4%)</li>
+<li>drug-induced localized lipodystrophy (99.3%)</li>
+<li>centrifugal lipodystrophy (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/insulin_aspart/' | relative_url }}">View full drug report →</a></p>
 </div>

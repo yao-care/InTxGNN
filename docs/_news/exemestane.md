@@ -3,7 +3,7 @@ layout: default
 title: "Exemestane News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Exemestane. Original indication: . 0 predicted indications."
+description: "Health news related to Exemestane. Original indication: . 7 predicted indications."
 permalink: /news/exemestane/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/exemestane/
 ---
 
 <p class="key-answer" data-question="What news is there about Exemestane?">
-<strong>Exemestane</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Exemestane</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,15 @@ This page combines the AI-predicted indications for Exemestane with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>antithrombin deficiency type 2 (99.8%)</li>
+<li>amenorrhea (disease) (99.8%)</li>
+<li>factor 5 excess with spontaneous thrombosis (99.8%)</li>
+<li>heparin cofactor 2 deficiency (99.8%)</li>
+<li>thrombophilia (99.7%)</li>
+<li>migraine disorder (99.0%)</li>
+<li>migraine with brainstem aura (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/exemestane/' | relative_url }}">View full drug report →</a></p>
 </div>

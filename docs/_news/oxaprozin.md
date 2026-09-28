@@ -3,7 +3,7 @@ layout: default
 title: "Oxaprozin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Oxaprozin. Original indication: . 0 predicted indications."
+description: "Health news related to Oxaprozin. Original indication: . 10 predicted indications."
 permalink: /news/oxaprozin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxaprozin/
 ---
 
 <p class="key-answer" data-question="What news is there about Oxaprozin?">
-<strong>Oxaprozin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Oxaprozin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Oxaprozin with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
+<li>myosclerosis (100.0%)</li>
+<li>brachyolmia (100.0%)</li>
+<li>spondyloarthropathy, susceptibility to (99.9%)</li>
+<li>pseudoachondroplasia (99.9%)</li>
+<li>rheumatoid nodulosis (99.7%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.7%)</li>
+<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.7%)</li>
+<li>brachydactyly-syndactyly syndrome (99.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxaprozin/' | relative_url }}">View full drug report →</a></p>
 </div>

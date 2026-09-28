@@ -3,7 +3,7 @@ layout: default
 title: "Teriparatide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Teriparatide. Original indication: . 0 predicted indications."
+description: "Health news related to Teriparatide. Original indication: . 10 predicted indications."
 permalink: /news/teriparatide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/teriparatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Teriparatide?">
-<strong>Teriparatide</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Teriparatide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Teriparatide with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>duodenal ulcer (disease) (99.9%)</li>
+<li>non-syndromic esophageal malformation (99.8%)</li>
+<li>duodenal obstruction (99.8%)</li>
+<li>duodenogastric reflux (99.8%)</li>
+<li>esophageal disease (99.7%)</li>
+<li>Worth syndrome (99.7%)</li>
+<li>autosomal dominant neovascular inflammatory vitreoretinopathy (99.7%)</li>
+<li>pregnancy associated osteoporosis (99.5%)</li>
+<li>succinyl-CoA:3-ketoacid CoA transferase deficiency (99.5%)</li>
+<li>amenorrhea (disease) (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/teriparatide/' | relative_url }}">View full drug report →</a></p>
 </div>

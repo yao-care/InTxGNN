@@ -3,7 +3,7 @@ layout: default
 title: "Insulin Lispro News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Insulin Lispro. Original indication: . 0 predicted indications."
+description: "Health news related to Insulin Lispro. Original indication: . 9 predicted indications."
 permalink: /news/insulin_lispro/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/insulin_lispro/
 ---
 
 <p class="key-answer" data-question="What news is there about Insulin Lispro?">
-<strong>Insulin Lispro</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Insulin Lispro</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,17 @@ This page combines the AI-predicted indications for Insulin Lispro with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>autoimmune oophoritis (99.8%)</li>
+<li>thiamine-responsive dysfunction syndrome (99.4%)</li>
+<li>focal stiff limb syndrome (99.4%)</li>
+<li>classic stiff person syndrome (99.4%)</li>
+<li>opsismodysplasia (99.3%)</li>
+<li>drug-induced localized lipodystrophy (99.1%)</li>
+<li>pancreatic agenesis (99.1%)</li>
+<li>centrifugal lipodystrophy (99.0%)</li>
+<li>pressure-induced localized lipoatrophy (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/insulin_lispro/' | relative_url }}">View full drug report →</a></p>
 </div>

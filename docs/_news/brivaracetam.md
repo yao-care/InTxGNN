@@ -25,16 +25,16 @@ This page combines the AI-predicted indications for Brivaracetam with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Visual Epilepsy | 99.51% | L3 | Proceed with Guardrails (99.0%)</li>
-<li>Status Epilepticus | 99.40% | L2 | Proceed with Guardrails (99.0%)</li>
-<li>Thinking Seizures | 99.19% | L4 | Research Question (99.0%)</li>
-<li>Micturation-induced Seizures | 99.19% | L4 | Research Question (99.0%)</li>
-<li>Audiogenic Seizures | 99.19% | L3 | Research Question (99.0%)</li>
-<li>Eating Seizures | 99.19% | L5 | Hold (99.0%)</li>
-<li>Orgasm-induced Seizures | 99.19% | L5 | Hold (99.0%)</li>
-<li>Startle Epilepsy | 99.19% | L5 | Research Question (99.0%)</li>
-<li>Beta-ketothiolase Deficiency | 99.14% | L5 | Hold (99.0%)</li>
-<li>ADPEAF (Auditory Features) | 99.10% | L5 | Research Question (99.0%)</li>
+<li>visual epilepsy (99.5%)</li>
+<li>status epilepticus (99.4%)</li>
+<li>thinking seizures (99.2%)</li>
+<li>micturation-induced seizures (99.2%)</li>
+<li>audiogenic seizures (99.2%)</li>
+<li>eating seizures (99.2%)</li>
+<li>orgasm-induced seizures (99.2%)</li>
+<li>startle epilepsy (99.2%)</li>
+<li>beta-ketothiolase deficiency (99.1%)</li>
+<li>adolescent/adult onset autosomal dominant epilepsy with auditory features (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brivaracetam/' | relative_url }}">View full drug report →</a></p>

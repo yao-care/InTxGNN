@@ -3,7 +3,7 @@ layout: default
 title: "Prulifloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Prulifloxacin. Original indication: . 0 predicted indications."
+description: "Health news related to Prulifloxacin. Original indication: . 10 predicted indications."
 permalink: /news/prulifloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prulifloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Prulifloxacin?">
-<strong>Prulifloxacin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Prulifloxacin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Prulifloxacin with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>heart disease (99.9%)</li>
+<li>Laubry-Pezzi syndrome (99.9%)</li>
+<li>Pierre Robin syndrome associated with a chromosomal anomaly (99.9%)</li>
+<li>genetic syndromic Pierre Robin syndrome (99.9%)</li>
+<li>partial deletion of the long arm of chromosome 7 (99.9%)</li>
+<li>orofacial clefting syndrome (99.9%)</li>
+<li>pulmonary valve disease (99.9%)</li>
+<li>disorder of fucoglycosan synthesis (99.9%)</li>
+<li>mitral valve disease (99.9%)</li>
+<li>Jeune syndrome situs inversus (99.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/prulifloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>

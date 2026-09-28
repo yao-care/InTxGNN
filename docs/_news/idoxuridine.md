@@ -3,7 +3,7 @@ layout: default
 title: "Idoxuridine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Idoxuridine. Original indication: . 0 predicted indications."
+description: "Health news related to Idoxuridine. Original indication: . 10 predicted indications."
 permalink: /news/idoxuridine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/idoxuridine/
 ---
 
 <p class="key-answer" data-question="What news is there about Idoxuridine?">
-<strong>Idoxuridine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Idoxuridine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Idoxuridine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>vulvovaginal candidiasis (99.9%)</li>
+<li>vaginitis (disease) (99.7%)</li>
+<li>trichomonal vulvovaginitis (99.7%)</li>
+<li>vulvitis (99.6%)</li>
+<li>herpetic vulvovaginitis (99.6%)</li>
+<li>vaginal discharge (99.6%)</li>
+<li>bacterial vaginosis (99.5%)</li>
+<li>leukoplakia of vagina (99.5%)</li>
+<li>vulvovaginitis (99.5%)</li>
+<li>postmenopausal atrophic vaginitis (99.4%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/idoxuridine/' | relative_url }}">View full drug report →</a></p>
 </div>

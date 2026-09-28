@@ -3,7 +3,7 @@ layout: default
 title: "Invert Sugar News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Invert Sugar. Original indication: . 0 predicted indications."
+description: "Health news related to Invert Sugar. Original indication: . 1 predicted indications."
 permalink: /news/invert_sugar/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/invert_sugar/
 ---
 
 <p class="key-answer" data-question="What news is there about Invert Sugar?">
-<strong>Invert Sugar</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Invert Sugar</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,9 @@ This page combines the AI-predicted indications for Invert Sugar with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>sclerosing cholangitis (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/invert_sugar/' | relative_url }}">View full drug report →</a></p>
 </div>

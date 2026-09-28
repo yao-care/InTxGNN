@@ -3,7 +3,7 @@ layout: default
 title: "Ozenoxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ozenoxacin. Original indication: . 0 predicted indications."
+description: "Health news related to Ozenoxacin. Original indication: . 10 predicted indications."
 permalink: /news/ozenoxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ozenoxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ozenoxacin?">
-<strong>Ozenoxacin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ozenoxacin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Ozenoxacin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>malaria (99.2%)</li>
+<li>pyogenic arthritis-pyoderma gangrenosum-acne syndrome (98.4%)</li>
+<li>spondyloarthropathy, susceptibility to (98.4%)</li>
+<li>relapsing fever (97.9%)</li>
+<li>zinc, elevated plasma (97.6%)</li>
+<li>demodicidosis of sebaceous gland (97.5%)</li>
+<li>Zollinger-Ellison syndrome (97.0%)</li>
+<li>sterile multifocal osteomyelitis with periostitis and pustulosis (95.0%)</li>
+<li>leishmaniasis (94.3%)</li>
+<li>rheumatoid vasculitis (93.9%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ozenoxacin/' | relative_url }}">View full drug report →</a></p>
 </div>

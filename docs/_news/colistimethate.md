@@ -3,7 +3,7 @@ layout: default
 title: "Colistimethate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Colistimethate. Original indication: . 0 predicted indications."
+description: "Health news related to Colistimethate. Original indication: . 10 predicted indications."
 permalink: /news/colistimethate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colistimethate/
 ---
 
 <p class="key-answer" data-question="What news is there about Colistimethate?">
-<strong>Colistimethate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Colistimethate</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Colistimethate with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>osteoarthritis (97.8%)</li>
+<li>rheumatoid arthritis (97.5%)</li>
+<li>osteoarthritis susceptibility (97.4%)</li>
+<li>gout (96.8%)</li>
+<li>pseudoachondroplasia (96.7%)</li>
+<li>hepatic porphyria (96.7%)</li>
+<li>brachyolmia (96.4%)</li>
+<li>primitive portal vein thrombosis (96.3%)</li>
+<li>hepatopulmonary syndrome (96.3%)</li>
+<li>hepatoportal sclerosis (96.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/colistimethate/' | relative_url }}">View full drug report →</a></p>
 </div>

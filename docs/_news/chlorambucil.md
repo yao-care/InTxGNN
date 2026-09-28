@@ -3,7 +3,7 @@ layout: default
 title: "Chlorambucil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Chlorambucil. Original indication: . 0 predicted indications."
+description: "Health news related to Chlorambucil. Original indication: . 8 predicted indications."
 permalink: /news/chlorambucil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chlorambucil/
 ---
 
 <p class="key-answer" data-question="What news is there about Chlorambucil?">
-<strong>Chlorambucil</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Chlorambucil</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,16 @@ This page combines the AI-predicted indications for Chlorambucil with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (8)</strong>:<ul>
+<li>chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (99.7%)</li>
+<li>pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (99.7%)</li>
+<li>ALK-positive large B-cell lymphoma (99.6%)</li>
+<li>primary pulmonary lymphoma (99.4%)</li>
+<li>well-differentiated fetal adenocarcinoma of the lung (99.4%)</li>
+<li>pulmonary blastoma (99.4%)</li>
+<li>acute lymphoblastic leukemia (disease) (99.2%)</li>
+<li>small cell lung carcinoma (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/chlorambucil/' | relative_url }}">View full drug report →</a></p>
 </div>

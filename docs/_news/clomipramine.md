@@ -3,7 +3,7 @@ layout: default
 title: "Clomipramine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clomipramine. Original indication: . 0 predicted indications."
+description: "Health news related to Clomipramine. Original indication: . 10 predicted indications."
 permalink: /news/clomipramine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clomipramine/
 ---
 
 <p class="key-answer" data-question="What news is there about Clomipramine?">
-<strong>Clomipramine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Clomipramine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Clomipramine with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>anxiety disorder (99.9%)</li>
+<li>benign paroxysmal torticollis of infancy (99.9%)</li>
+<li>schizotypal personality disorder (99.9%)</li>
+<li>paranoid personality disorder (99.9%)</li>
+<li>schizoid personality disorder (99.9%)</li>
+<li>histrionic personality disorder (disease) (99.9%)</li>
+<li>agoraphobia (99.9%)</li>
+<li>major depressive disorder (99.8%)</li>
+<li>endogenous depression (99.7%)</li>
+<li>attention deficit-hyperactivity disorder (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/clomipramine/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Imipramine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Imipramine. Original indication: . 0 predicted indications."
+description: "Health news related to Imipramine. Original indication: . 7 predicted indications."
 permalink: /news/imipramine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/imipramine/
 ---
 
 <p class="key-answer" data-question="What news is there about Imipramine?">
-<strong>Imipramine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Imipramine</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,15 @@ This page combines the AI-predicted indications for Imipramine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>attention deficit-hyperactivity disorder (99.9%)</li>
+<li>attention deficit hyperactivity disorder, inattentive type (99.8%)</li>
+<li>faciodigitogenital syndrome (99.8%)</li>
+<li>specific developmental disorder (99.7%)</li>
+<li>chondromyxoid fibroma (99.7%)</li>
+<li>benign paroxysmal torticollis of infancy (99.2%)</li>
+<li>obsessive-compulsive disorder (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/imipramine/' | relative_url }}">View full drug report →</a></p>
 </div>

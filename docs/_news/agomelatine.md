@@ -3,7 +3,7 @@ layout: default
 title: "Agomelatine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Agomelatine. Original indication: . 7 predicted indications."
+description: "Health news related to Agomelatine. Original indication: . 10 predicted indications."
 permalink: /news/agomelatine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,17 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>Benign paroxysmal torticollis of infancy | 99.96% | L5 | Hold (99.0%)</li>
-<li>Agoraphobia | 99.95% | L5 | Hold (99.0%)</li>
-<li>Neurotic disorder | 99.90% | L5 | Hold (99.0%)</li>
-<li>Ohdo syndrome and variants | 99.87% | L5 | Hold (99.0%)</li>
-<li>Ligneous conjunctivitis | 99.83% | L5 | Hold (99.0%)</li>
-<li>Blepharophimosis-intellectual disability syndrome, Ohdo type | 99.82% | L5 | Hold (99.0%)</li>
-<li>Keppen-Lubinsky syndrome | 99.81% | L5 | Hold (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>benign paroxysmal torticollis of infancy (100.0%)</li>
+<li>agoraphobia (100.0%)</li>
+<li>neurotic disorder (99.9%)</li>
+<li>melancholia (99.9%)</li>
+<li>neurotic depression (99.9%)</li>
+<li>Ohdo syndrome and variants (99.9%)</li>
+<li>dysthymic disorder (99.9%)</li>
+<li>ligneous conjunctivitis (99.8%)</li>
+<li>blepharophimosis - intellectual disability syndrome, Ohdo type (99.8%)</li>
+<li>Keppen-Lubinsky syndrome (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>

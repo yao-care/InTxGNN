@@ -3,7 +3,7 @@ layout: default
 title: "Hydrocortisone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Hydrocortisone. Original indication: . 0 predicted indications."
+description: "Health news related to Hydrocortisone. Original indication: . 10 predicted indications."
 permalink: /news/hydrocortisone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydrocortisone/
 ---
 
 <p class="key-answer" data-question="What news is there about Hydrocortisone?">
-<strong>Hydrocortisone</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Hydrocortisone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Hydrocortisone with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>alopecia areata (100.0%)</li>
+<li>alopecia mucinosa (100.0%)</li>
+<li>telogen effluvium (100.0%)</li>
+<li>Quinquaud's folliculitis decalvans (100.0%)</li>
+<li>alopecia antibody deficiency (100.0%)</li>
+<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
+<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
+<li>atrichia with papular lesions (99.9%)</li>
+<li>alopecia universalis onychodystrophy vitiligo (99.6%)</li>
+<li>idiopathic steroid-sensitive nephrotic syndrome (99.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrocortisone/' | relative_url }}">View full drug report →</a></p>
 </div>

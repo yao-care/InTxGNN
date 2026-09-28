@@ -3,7 +3,7 @@ layout: default
 title: "Reteplase News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Reteplase. Original indication: . 0 predicted indications."
+description: "Health news related to Reteplase. Original indication: . 10 predicted indications."
 permalink: /news/reteplase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/reteplase/
 ---
 
 <p class="key-answer" data-question="What news is there about Reteplase?">
-<strong>Reteplase</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Reteplase</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Reteplase with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>posterolateral myocardial infarction (99.9%)</li>
+<li>posteroinferior myocardial infarction (99.9%)</li>
+<li>septal myocardial infarction (99.9%)</li>
+<li>congenital coronary artery anomaly (99.8%)</li>
+<li>coronary stenosis (99.6%)</li>
+<li>heparin cofactor 2 deficiency (99.5%)</li>
+<li>partial deletion of the short arm of chromosome 16 (99.3%)</li>
+<li>beta-thalassemia with other manifestations (99.3%)</li>
+<li>antithrombin deficiency type 2 (99.2%)</li>
+<li>hemolytic anemia due to glucophosphate isomerase deficiency (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/reteplase/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Ribavirin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ribavirin. Original indication: . 0 predicted indications."
+description: "Health news related to Ribavirin. Original indication: . 10 predicted indications."
 permalink: /news/ribavirin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ribavirin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ribavirin?">
-<strong>Ribavirin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ribavirin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Ribavirin with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>chronic hepatitis B virus infection (99.9%)</li>
+<li>idiopathic copper-associated cirrhosis (99.6%)</li>
+<li>primitive portal vein thrombosis (99.6%)</li>
+<li>hepatoportal sclerosis (99.6%)</li>
+<li>early-onset familial noncirrhotic portal hypertension (99.6%)</li>
+<li>hepatopulmonary syndrome (99.6%)</li>
+<li>hepatic porphyria (99.5%)</li>
+<li>IgG4-related pachymeningitis (99.4%)</li>
+<li>eosinophilic angiocentric fibrosis (99.3%)</li>
+<li>IgG4-related aortitis (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ribavirin/' | relative_url }}">View full drug report →</a></p>
 </div>

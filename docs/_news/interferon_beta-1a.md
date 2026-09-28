@@ -3,7 +3,7 @@ layout: default
 title: "Interferon Beta-1A News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Interferon Beta-1A. Original indication: . 0 predicted indications."
+description: "Health news related to Interferon Beta-1A. Original indication: . 10 predicted indications."
 permalink: /news/interferon_beta-1a/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/interferon_beta-1a/
 ---
 
 <p class="key-answer" data-question="What news is there about Interferon Beta-1A?">
-<strong>Interferon Beta-1A</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Interferon Beta-1A</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Interferon Beta-1A with the 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Jeune syndrome situs inversus (97.5%)</li>
+<li>Pierre Robin syndrome associated with a chromosomal anomaly (97.3%)</li>
+<li>partial deletion of the long arm of chromosome 22 (97.2%)</li>
+<li>disorder of fucoglycosan synthesis (97.2%)</li>
+<li>Laubry-Pezzi syndrome (97.2%)</li>
+<li>partial deletion of the long arm of chromosome 7 (97.2%)</li>
+<li>orofacial clefting syndrome (97.1%)</li>
+<li>genetic syndromic Pierre Robin syndrome (97.1%)</li>
+<li>rete ovarii cystadenoma (97.1%)</li>
+<li>borderline ovarian serous tumor (97.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/interferon_beta-1a/' | relative_url }}">View full drug report →</a></p>
 </div>

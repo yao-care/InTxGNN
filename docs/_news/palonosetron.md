@@ -3,7 +3,7 @@ layout: default
 title: "Palonosetron News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Palonosetron. Original indication: . 0 predicted indications."
+description: "Health news related to Palonosetron. Original indication: . 5 predicted indications."
 permalink: /news/palonosetron/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/palonosetron/
 ---
 
 <p class="key-answer" data-question="What news is there about Palonosetron?">
-<strong>Palonosetron</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Palonosetron</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,13 @@ This page combines the AI-predicted indications for Palonosetron with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>migraine disorder (99.7%)</li>
+<li>migraine with brainstem aura (99.7%)</li>
+<li>migraine with or without aura, susceptibility to (99.4%)</li>
+<li>atrophoderma vermiculata (99.1%)</li>
+<li>ulerythema ophryogenesis (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/palonosetron/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Quinapril News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Quinapril. Original indication: . 0 predicted indications."
+description: "Health news related to Quinapril. Original indication: . 5 predicted indications."
 permalink: /news/quinapril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/quinapril/
 ---
 
 <p class="key-answer" data-question="What news is there about Quinapril?">
-<strong>Quinapril</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Quinapril</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,13 @@ This page combines the AI-predicted indications for Quinapril with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>malignant renovascular hypertension (99.9%)</li>
+<li>malignant hypertensive renal disease (99.9%)</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.8%)</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism (99.8%)</li>
+<li>Braddock syndrome (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/quinapril/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Apixaban News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Apixaban. Original indication: . 9 predicted indications."
+description: "Health news related to Apixaban. Original indication: . 10 predicted indications."
 permalink: /news/apixaban/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/apixaban/
 ---
 
 <p class="key-answer" data-question="What news is there about Apixaban?">
-<strong>Apixaban</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Apixaban</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,16 +24,17 @@ This page combines the AI-predicted indications for Apixaban with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Migraine disorder | 99.02% | L4 | Research Question (99.0%)</li>
-<li>Migraine with/without aura, susceptibility | 98.92% | L5 | Hold (99.0%)</li>
-<li>Leprosy | 98.90% | L5 | Hold (99.0%)</li>
-<li>Rheumatoid arthritis | 98.89% | L4 | Research Question (99.0%)</li>
-<li>Migraine with brainstem aura | 98.83% | L4 | Hold (99.0%)</li>
-<li>Prinzmetal angina | 98.39% | L5 | Hold (99.0%)</li>
-<li>Brachydactyly-syndactyly syndrome | 98.18% | L5 | Hold (99.0%)</li>
-<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 97.99% | L5 | Hold (99.0%)</li>
-<li>Kyphoscoliotic heart disease | 97.87% | L5 | Hold (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>migraine disorder (99.0%)</li>
+<li>migraine with or without aura, susceptibility to (98.9%)</li>
+<li>leprosy (98.9%)</li>
+<li>rheumatoid arthritis (98.9%)</li>
+<li>migraine with brainstem aura (98.8%)</li>
+<li>Prinzmetal angina (98.4%)</li>
+<li>brachydactyly-syndactyly syndrome (98.2%)</li>
+<li>pulmonary hypertension (98.1%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (98.0%)</li>
+<li>kyphoscoliotic heart disease (97.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/apixaban/' | relative_url }}">View full drug report →</a></p>

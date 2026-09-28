@@ -3,7 +3,7 @@ layout: default
 title: "Pegaspargase News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pegaspargase. Original indication: . 0 predicted indications."
+description: "Health news related to Pegaspargase. Original indication: . 10 predicted indications."
 permalink: /news/pegaspargase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pegaspargase/
 ---
 
 <p class="key-answer" data-question="What news is there about Pegaspargase?">
-<strong>Pegaspargase</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pegaspargase</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Pegaspargase with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>precursor lymphoblastic lymphoma/leukemia (100.0%)</li>
+<li>pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (100.0%)</li>
+<li>chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (100.0%)</li>
+<li>follicular lymphoma (99.9%)</li>
+<li>acute lymphoblastic leukemia (99.9%)</li>
+<li>methylcobalamin deficiency type cblE (99.7%)</li>
+<li>lymphoid neoplasm (99.7%)</li>
+<li>Hodgkins lymphoma (99.7%)</li>
+<li>chronic lymphocytic leukemia/small lymphocytic lymphoma (99.7%)</li>
+<li>blast phase chronic myelogenous leukemia, BCR-ABL1 positive (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pegaspargase/' | relative_url }}">View full drug report →</a></p>
 </div>

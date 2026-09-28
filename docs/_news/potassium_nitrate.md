@@ -3,7 +3,7 @@ layout: default
 title: "Potassium Nitrate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Potassium Nitrate. Original indication: . 0 predicted indications."
+description: "Health news related to Potassium Nitrate. Original indication: . 2 predicted indications."
 permalink: /news/potassium_nitrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/potassium_nitrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Potassium Nitrate?">
-<strong>Potassium Nitrate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Potassium Nitrate</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Potassium Nitrate with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>meningococcal infection (99.6%)</li>
+<li>sclerosing cholangitis (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/potassium_nitrate/' | relative_url }}">View full drug report →</a></p>
 </div>

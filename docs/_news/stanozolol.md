@@ -3,7 +3,7 @@ layout: default
 title: "Stanozolol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Stanozolol. Original indication: . 0 predicted indications."
+description: "Health news related to Stanozolol. Original indication: . 10 predicted indications."
 permalink: /news/stanozolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stanozolol/
 ---
 
 <p class="key-answer" data-question="What news is there about Stanozolol?">
-<strong>Stanozolol</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Stanozolol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Stanozolol with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>C1 inhibitor deficiency (100.0%)</li>
+<li>serpinopathy with toxic serpin polymerization (100.0%)</li>
+<li>fetal erythroblastosis (100.0%)</li>
+<li>Peyronie disease (100.0%)</li>
+<li>renal tubular acidosis (99.9%)</li>
+<li>immune-mediated necrotizing myopathy (99.8%)</li>
+<li>antisynthetase syndrome (99.8%)</li>
+<li>complement component C1s deficiency (99.8%)</li>
+<li>focal myositis (99.8%)</li>
+<li>inflammatory myopathy with abundant macrophages (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/stanozolol/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Mianserin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mianserin. Original indication: . 6 predicted indications."
+description: "Health news related to Mianserin. Original indication: . 7 predicted indications."
 permalink: /news/mianserin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mianserin/
 ---
 
 <p class="key-answer" data-question="What news is there about Mianserin?">
-<strong>Mianserin</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Mianserin</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,14 @@ This page combines the AI-predicted indications for Mianserin with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>Benign Paroxysmal Torticollis of Infancy | 99.49% | L5 | Hold (99.0%)</li>
-<li>Dysthymic Disorder | 99.45% | L5 | Hold (99.0%)</li>
-<li>Agoraphobia | 99.40% | L4 | Hold (99.0%)</li>
-<li>Ohdo Syndrome and Variants | 99.23% | L5 | Hold (99.0%)</li>
-<li>Melancholia | 99.17% | L3 | Research Question (99.0%)</li>
-<li>Neurotic Disorder | 99.02% | L3 | Research Question (99.0%)</li>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>benign paroxysmal torticollis of infancy (99.5%)</li>
+<li>dysthymic disorder (99.5%)</li>
+<li>agoraphobia (99.4%)</li>
+<li>Ohdo syndrome and variants (99.2%)</li>
+<li>melancholia (99.2%)</li>
+<li>neurotic depression (99.2%)</li>
+<li>neurotic disorder (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mianserin/' | relative_url }}">View full drug report →</a></p>

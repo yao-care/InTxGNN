@@ -3,7 +3,7 @@ layout: default
 title: "Gemigliptin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Gemigliptin. Original indication: . 0 predicted indications."
+description: "Health news related to Gemigliptin. Original indication: . 4 predicted indications."
 permalink: /news/gemigliptin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gemigliptin/
 ---
 
 <p class="key-answer" data-question="What news is there about Gemigliptin?">
-<strong>Gemigliptin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Gemigliptin</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,12 @@ This page combines the AI-predicted indications for Gemigliptin with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>opsismodysplasia (99.3%)</li>
+<li>thiamine-responsive dysfunction syndrome (99.3%)</li>
+<li>focal stiff limb syndrome (99.3%)</li>
+<li>classic stiff person syndrome (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/gemigliptin/' | relative_url }}">View full drug report →</a></p>
 </div>

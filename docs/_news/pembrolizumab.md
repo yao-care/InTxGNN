@@ -3,7 +3,7 @@ layout: default
 title: "Pembrolizumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pembrolizumab. Original indication: . 0 predicted indications."
+description: "Health news related to Pembrolizumab. Original indication: . 10 predicted indications."
 permalink: /news/pembrolizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pembrolizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Pembrolizumab?">
-<strong>Pembrolizumab</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pembrolizumab</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Pembrolizumab with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>fibromatosis, gingival (99.4%)</li>
+<li>inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia (99.4%)</li>
+<li>hamartoma of lung (99.3%)</li>
+<li>lung hilum carcinoma (99.3%)</li>
+<li>fibroma of lung (99.3%)</li>
+<li>lung benign neoplasm (99.3%)</li>
+<li>ovarioleukodystrophy (99.3%)</li>
+<li>pulmonary sulcus neoplasm (99.3%)</li>
+<li>lung germ cell tumor (99.3%)</li>
+<li>Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pembrolizumab/' | relative_url }}">View full drug report →</a></p>
 </div>

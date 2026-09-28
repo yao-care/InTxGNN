@@ -3,7 +3,7 @@ layout: default
 title: "Fulvestrant News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fulvestrant. Original indication: . 0 predicted indications."
+description: "Health news related to Fulvestrant. Original indication: . 10 predicted indications."
 permalink: /news/fulvestrant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fulvestrant/
 ---
 
 <p class="key-answer" data-question="What news is there about Fulvestrant?">
-<strong>Fulvestrant</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Fulvestrant</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Fulvestrant with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>HIV infectious disease (99.9%)</li>
+<li>multiple endocrine neoplasia (99.8%)</li>
+<li>simian immunodeficiency virus infection (99.8%)</li>
+<li>feline acquired immunodeficiency syndrome (99.8%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.8%)</li>
+<li>rheumatoid arthritis (99.6%)</li>
+<li>acne (disease) (99.4%)</li>
+<li>brachydactyly-syndactyly syndrome (99.3%)</li>
+<li>hemoglobinopathy (99.3%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/fulvestrant/' | relative_url }}">View full drug report →</a></p>
 </div>

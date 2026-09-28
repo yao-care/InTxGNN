@@ -25,11 +25,11 @@ This page combines the AI-predicted indications for Mepolizumab with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>Thrombocytopenia due to immune destruction | 99.66% | L4 | Moderate (indirect via HES/MBP pathway) | Hold (99.0%)</li>
-<li>Primary release disorder of platelets | 99.61% | L4 | Low (eosinophil–platelet aggregates, basic research only) | Hold (99.0%)</li>
-<li>Pseudo-von Willebrand disease | 99.44% | L5 | Very low (GPIbα mutation, no IL-5 connection) | Hold (99.0%)</li>
-<li>Autoimmune thrombocytopenic | 99.33% | L5 | Low (Th2/eosinophil involvement possible, not mainstream ITP pathway) | Hold (99.0%)</li>
-<li>Glanzmann thrombasthenia | 99.29% | L5 | None (structural GPIIb/IIIa deficiency, unrelated to IL-5) | Hold (99.0%)</li>
+<li>thrombocytopenia due to immune destruction (99.7%)</li>
+<li>primary release disorder of platelets (99.6%)</li>
+<li>pseudo-von Willebrand disease (99.4%)</li>
+<li>autoimmune thrombocytopenic (99.3%)</li>
+<li>Glanzmann thrombasthenia (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mepolizumab/' | relative_url }}">View full drug report →</a></p>

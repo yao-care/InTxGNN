@@ -3,7 +3,7 @@ layout: default
 title: "Tranylcypromine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tranylcypromine. Original indication: . 0 predicted indications."
+description: "Health news related to Tranylcypromine. Original indication: . 10 predicted indications."
 permalink: /news/tranylcypromine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tranylcypromine/
 ---
 
 <p class="key-answer" data-question="What news is there about Tranylcypromine?">
-<strong>Tranylcypromine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Tranylcypromine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Tranylcypromine with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>benign paroxysmal torticollis of infancy (99.7%)</li>
+<li>Ohdo syndrome and variants (99.7%)</li>
+<li>dysthymic disorder (99.6%)</li>
+<li>agoraphobia (99.6%)</li>
+<li>melancholia (99.6%)</li>
+<li>neurotic depression (99.6%)</li>
+<li>blepharophimosis - intellectual disability syndrome, Ohdo type (99.5%)</li>
+<li>neurotic disorder (99.5%)</li>
+<li>ligneous conjunctivitis (99.4%)</li>
+<li>Keppen-Lubinsky syndrome (99.4%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tranylcypromine/' | relative_url }}">View full drug report →</a></p>
 </div>

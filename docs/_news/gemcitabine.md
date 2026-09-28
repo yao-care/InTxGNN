@@ -3,7 +3,7 @@ layout: default
 title: "Gemcitabine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Gemcitabine. Original indication: . 0 predicted indications."
+description: "Health news related to Gemcitabine. Original indication: . 10 predicted indications."
 permalink: /news/gemcitabine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="What news is there about Gemcitabine?">
-<strong>Gemcitabine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Gemcitabine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Gemcitabine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>female breast carcinoma (100.0%)</li>
+<li>rectum mucinous adenocarcinoma (99.8%)</li>
+<li>colon mucinous adenocarcinoma (99.8%)</li>
+<li>endometrial mixed adenocarcinoma (99.8%)</li>
+<li>villoglandular endometrial endometrioid adenocarcinoma (99.8%)</li>
+<li>endometrial mucinous adenocarcinoma (99.8%)</li>
+<li>cervical mucinous adenocarcinoma (99.8%)</li>
+<li>gallbladder mucinous adenocarcinoma (99.8%)</li>
+<li>rete ovarii adenocarcinoma (99.7%)</li>
+<li>secretory uterine corpus endometrioid adenocarcinoma (99.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">View full drug report →</a></p>
 </div>

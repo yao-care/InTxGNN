@@ -3,7 +3,7 @@ layout: default
 title: "Tenoxicam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tenoxicam. Original indication: . 0 predicted indications."
+description: "Health news related to Tenoxicam. Original indication: . 10 predicted indications."
 permalink: /news/tenoxicam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tenoxicam/
 ---
 
 <p class="key-answer" data-question="What news is there about Tenoxicam?">
-<strong>Tenoxicam</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Tenoxicam</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Tenoxicam with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>rheumatoid arthritis (99.9%)</li>
+<li>brachydactyly-syndactyly syndrome (99.8%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.8%)</li>
+<li>osteoarthritis susceptibility (99.7%)</li>
+<li>headache disorder (99.7%)</li>
+<li>hypotrichosis simplex of the scalp (99.7%)</li>
+<li>congenital hypotrichosis milia (99.7%)</li>
+<li>diffuse alopecia areata (99.6%)</li>
+<li>trigeminal autonomic cephalalgia (99.6%)</li>
+<li>alopecia (99.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tenoxicam/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Fluticasone Furoate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fluticasone Furoate. Original indication: . 0 predicted indications."
+description: "Health news related to Fluticasone Furoate. Original indication: . 8 predicted indications."
 permalink: /news/fluticasone_furoate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluticasone_furoate/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluticasone Furoate?">
-<strong>Fluticasone Furoate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Fluticasone Furoate</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,16 @@ This page combines the AI-predicted indications for Fluticasone Furoate with the
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (8)</strong>:<ul>
+<li>atopic eczema (100.0%)</li>
+<li>bronchitis (99.9%)</li>
+<li>2-hydroxyethyl methacrylate sensitization (99.9%)</li>
+<li>dermatitis, atopic (99.8%)</li>
+<li>contact dermatitis (99.5%)</li>
+<li>asthma-related traits, susceptibility to (99.4%)</li>
+<li>occupational dermatitis (99.3%)</li>
+<li>phototoxic dermatitis (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluticasone_furoate/' | relative_url }}">View full drug report →</a></p>
 </div>

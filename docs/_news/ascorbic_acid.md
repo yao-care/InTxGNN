@@ -14,7 +14,7 @@ permalink: /news/ascorbic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Ascorbic Acid?">
-<strong>Ascorbic Acid</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Ascorbic Acid</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <li>non-syndromic esophageal malformation (100.0%)</li>
 <li>esophageal disease (99.9%)</li>
 <li>congenital prothrombin deficiency (99.7%)</li>
-<li class="indication-matched">injury (99.6%)<span class="indication-tag">📰 injury</span></li>
+<li>injury (99.6%)</li>
 <li>biotin metabolic disease (99.5%)</li>
 <li>segmental odontomaxillary dysplasia (99.5%)</li>
 <li>perinatal disease (99.5%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <p><a href="{{ '/drugs/ascorbic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [‘They told me it wasn’t their job!’: Nurse describes doctors’ response to her Covid vaccine injury - The Economic Times](https://news.google.com/rss/articles/CBMihAJBVV95cUxPbVh6eGc1X29wb0ZMUkpSYmRKcG9wTnBGaDk0aDQ3SlZWVk4wcS04OUNXY0hfaFd5T0FWXzdZa2VGZEJESm1MZnlRdVNSRV91eGNfYThCVFFCdXFwdmRXVWVQdHp6S0l3U0VLRHBJWjhwRVBVZ3lSdUlRQjJOd2VvaUh4c05nZkFjYkRDVkJyQTltamkxT2hSX2NjMVgyUVpzNDNpdHpwUDlaTC0zVF9GU2lQemE3MVRrZm1YODFtNkpOZjBzSm5USzUySGg1dUFZRnVVc2VDYkZUM0RTV0lNVmdEb25TNHM3X0VIaHNOSTByVWF5Nkk1UmozMVJsM09PY0x0UdIBigJBVV95cUxOaURMQlphRV9fMmNFLVgyN2pZUkl1ZFdZTzdLeDlpc184OU4zVXpTcnVHb1pyMENVRDhOTHEwcXV2Z2JlZjRhZkFIUTc0YXpJY25GMkJNcENINUl2UUxrUFVYRGZWeDVLZ2c3WHFYLTBzS0thNWNXT09LckRwaEMtMUZXcUNCVnJCMTB5WFcxZjlpMnVQdE54N1NQcVg0NVZuU0YteXZweDFHeVpiT1RfZUp0TVZORThndHZCeW4weHRHLTlDWi1fZWlOYlN4a0M2cFpBdnB1NlF1VFVxYmgyLURQamlsSmowYURNblBuNzBUQm1ROGNwNmt2REhNZ2ZMcjhKTk1zWGVrUQ?oc=5)
-
-2026-09-27 <span class="news-indication-tag">injury</span>
-
-Source: [The Economic Times](https://news.google.com/rss/articles/CBMihAJBVV95cUxPbVh6eGc1X29wb0ZMUkpSYmRKcG9wTnBGaDk0aDQ3SlZWVk4wcS04OUNXY0hfaFd5T0FWXzdZa2VGZEJESm1MZnlRdVNSRV91eGNfYThCVFFCdXFwdmRXVWVQdHp6S0l3U0VLRHBJWjhwRVBVZ3lSdUlRQjJOd2VvaUh4c05nZkFjYkRDVkJyQTltamkxT2hSX2NjMVgyUVpzNDNpdHpwUDlaTC0zVF9GU2lQemE3MVRrZm1YODFtNkpOZjBzSm5USzUySGg1dUFZRnVVc2VDYkZUM0RTV0lNVmdEb25TNHM3X0VIaHNOSTByVWF5Nkk1UmozMVJsM09PY0x0UdIBigJBVV95cUxOaURMQlphRV9fMmNFLVgyN2pZUkl1ZFdZTzdLeDlpc184OU4zVXpTcnVHb1pyMENVRDhOTHEwcXV2Z2JlZjRhZkFIUTc0YXpJY25GMkJNcENINUl2UUxrUFVYRGZWeDVLZ2c3WHFYLTBzS0thNWNXT09LckRwaEMtMUZXcUNCVnJCMTB5WFcxZjlpMnVQdE54N1NQcVg0NVZuU0YteXZweDFHeVpiT1RfZUp0TVZORThndHZCeW4weHRHLTlDWi1fZWlOYlN4a0M2cFpBdnB1NlF1VFVxYmgyLURQamlsSmowYURNblBuNzBUQm1ROGNwNmt2REhNZ2ZMcjhKTk1zWGVrUQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -3,7 +3,7 @@ layout: default
 title: "Capmatinib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Capmatinib. Original indication: . 0 predicted indications."
+description: "Health news related to Capmatinib. Original indication: . 10 predicted indications."
 permalink: /news/capmatinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/capmatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Capmatinib?">
-<strong>Capmatinib</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Capmatinib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Capmatinib with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>rheumatoid arthritis (99.5%)</li>
+<li>brachydactyly-syndactyly syndrome (99.0%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.0%)</li>
+<li>heart disease (98.6%)</li>
+<li>Jeune syndrome situs inversus (98.6%)</li>
+<li>Pierre Robin syndrome associated with a chromosomal anomaly (98.6%)</li>
+<li>orofacial clefting syndrome (98.6%)</li>
+<li>Laubry-Pezzi syndrome (98.6%)</li>
+<li>interventricular septum aneurysm (98.5%)</li>
+<li>hyperthyroidism (98.5%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/capmatinib/' | relative_url }}">View full drug report →</a></p>
 </div>

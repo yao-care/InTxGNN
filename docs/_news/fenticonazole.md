@@ -3,7 +3,7 @@ layout: default
 title: "Fenticonazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fenticonazole. Original indication: . 0 predicted indications."
+description: "Health news related to Fenticonazole. Original indication: . 10 predicted indications."
 permalink: /news/fenticonazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fenticonazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Fenticonazole?">
-<strong>Fenticonazole</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Fenticonazole</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Fenticonazole with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>trichomonal vulvovaginitis (99.5%)</li>
+<li>postmenopausal atrophic vaginitis (99.3%)</li>
+<li>vulvovaginitis (99.3%)</li>
+<li>vulvitis (99.2%)</li>
+<li>herpetic vulvovaginitis (99.2%)</li>
+<li>vaginitis (disease) (99.1%)</li>
+<li>ulceration of vulva (98.8%)</li>
+<li>vulvar neoplasm (98.8%)</li>
+<li>vaginal discharge (98.7%)</li>
+<li>bacterial vaginosis (98.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/fenticonazole/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Pravastatin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pravastatin. Original indication: . 0 predicted indications."
+description: "Health news related to Pravastatin. Original indication: . 9 predicted indications."
 permalink: /news/pravastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pravastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pravastatin?">
-<strong>Pravastatin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pravastatin</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,17 @@ This page combines the AI-predicted indications for Pravastatin with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>homozygous familial hypercholesterolemia (100.0%)</li>
+<li>HIV infectious disease (99.7%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.6%)</li>
+<li>feline acquired immunodeficiency syndrome (99.5%)</li>
+<li>simian immunodeficiency virus infection (99.5%)</li>
+<li>familial hypercholesterolemia (99.3%)</li>
+<li>hypoalphalipoproteinemia (99.2%)</li>
+<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.1%)</li>
+<li>cholesterol-ester transfer protein deficiency (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pravastatin/' | relative_url }}">View full drug report →</a></p>
 </div>

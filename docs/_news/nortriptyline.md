@@ -3,7 +3,7 @@ layout: default
 title: "Nortriptyline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nortriptyline. Original indication: . 0 predicted indications."
+description: "Health news related to Nortriptyline. Original indication: . 2 predicted indications."
 permalink: /news/nortriptyline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nortriptyline/
 ---
 
 <p class="key-answer" data-question="What news is there about Nortriptyline?">
-<strong>Nortriptyline</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Nortriptyline</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Nortriptyline with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>attention deficit-hyperactivity disorder (99.4%)</li>
+<li>attention deficit hyperactivity disorder, inattentive type (99.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/nortriptyline/' | relative_url }}">View full drug report →</a></p>
 </div>

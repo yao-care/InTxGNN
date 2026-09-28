@@ -3,7 +3,7 @@ layout: default
 title: "Rimonabant News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rimonabant. Original indication: . 0 predicted indications."
+description: "Health news related to Rimonabant. Original indication: . 7 predicted indications."
 permalink: /news/rimonabant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rimonabant/
 ---
 
 <p class="key-answer" data-question="What news is there about Rimonabant?">
-<strong>Rimonabant</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Rimonabant</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,15 @@ This page combines the AI-predicted indications for Rimonabant with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>hypervitaminosis (100.0%)</li>
+<li>proximal 16p11.2 microdeletion syndrome (100.0%)</li>
+<li>obsolete hypertelorism (disease) (100.0%)</li>
+<li>frontorhiny (100.0%)</li>
+<li>pentosuria (99.4%)</li>
+<li>insomnia (disease) (99.3%)</li>
+<li>lethal polymalformative syndrome, Boissel type (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/rimonabant/' | relative_url }}">View full drug report →</a></p>
 </div>

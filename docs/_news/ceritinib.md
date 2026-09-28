@@ -3,7 +3,7 @@ layout: default
 title: "Ceritinib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ceritinib. Original indication: . 0 predicted indications."
+description: "Health news related to Ceritinib. Original indication: . 10 predicted indications."
 permalink: /news/ceritinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ceritinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Ceritinib?">
-<strong>Ceritinib</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ceritinib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Ceritinib with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>fibromatosis, gingival (99.9%)</li>
+<li>fibroma of lung (99.8%)</li>
+<li>hamartoma of lung (99.8%)</li>
+<li>lung hilum carcinoma (99.8%)</li>
+<li>lung benign neoplasm (99.8%)</li>
+<li>lung germ cell tumor (99.8%)</li>
+<li>pulmonary sulcus neoplasm (99.8%)</li>
+<li>inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia (99.8%)</li>
+<li>Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome (99.8%)</li>
+<li>junctional epidermolysis bullosa (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ceritinib/' | relative_url }}">View full drug report →</a></p>
 </div>

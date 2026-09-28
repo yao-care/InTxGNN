@@ -3,7 +3,7 @@ layout: default
 title: "Gimeracil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Gimeracil. Original indication: . 0 predicted indications."
+description: "Health news related to Gimeracil. Original indication: . 10 predicted indications."
 permalink: /news/gimeracil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gimeracil/
 ---
 
 <p class="key-answer" data-question="What news is there about Gimeracil?">
-<strong>Gimeracil</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Gimeracil</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Gimeracil with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>colonic neoplasm (99.9%)</li>
+<li>cecum villous adenoma (99.8%)</li>
+<li>malignant gastric granular cell tumor (99.8%)</li>
+<li>lipoma of colon (99.8%)</li>
+<li>cecum neuroendocrine tumor G1 (99.8%)</li>
+<li>rectosigmoid junction neoplasm (99.8%)</li>
+<li>cardia cancer (99.8%)</li>
+<li>colonic lymphangioma (99.8%)</li>
+<li>colon leiomyoma (99.8%)</li>
+<li>gastric lymphoma (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/gimeracil/' | relative_url }}">View full drug report →</a></p>
 </div>

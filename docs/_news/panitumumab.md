@@ -3,7 +3,7 @@ layout: default
 title: "Panitumumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Panitumumab. Original indication: . 0 predicted indications."
+description: "Health news related to Panitumumab. Original indication: . 2 predicted indications."
 permalink: /news/panitumumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/panitumumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Panitumumab?">
-<strong>Panitumumab</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Panitumumab</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ This page combines the AI-predicted indications for Panitumumab with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>drug-induced osteoporosis (99.1%)</li>
+<li>severe nonproliferative diabetic retinopathy (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/panitumumab/' | relative_url }}">View full drug report →</a></p>
 </div>

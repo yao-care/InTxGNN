@@ -3,7 +3,7 @@ layout: default
 title: "Tizanidine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tizanidine. Original indication: . 0 predicted indications."
+description: "Health news related to Tizanidine. Original indication: . 6 predicted indications."
 permalink: /news/tizanidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tizanidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Tizanidine?">
-<strong>Tizanidine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Tizanidine</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,14 @@ This page combines the AI-predicted indications for Tizanidine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>migraine disorder (99.8%)</li>
+<li>migraine with brainstem aura (99.7%)</li>
+<li>migraine with or without aura, susceptibility to (99.5%)</li>
+<li>atrophoderma vermiculata (99.3%)</li>
+<li>Tourette syndrome (99.2%)</li>
+<li>ulerythema ophryogenesis (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tizanidine/' | relative_url }}">View full drug report →</a></p>
 </div>

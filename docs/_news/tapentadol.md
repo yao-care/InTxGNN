@@ -3,7 +3,7 @@ layout: default
 title: "Tapentadol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tapentadol. Original indication: . 0 predicted indications."
+description: "Health news related to Tapentadol. Original indication: . 3 predicted indications."
 permalink: /news/tapentadol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tapentadol/
 ---
 
 <p class="key-answer" data-question="What news is there about Tapentadol?">
-<strong>Tapentadol</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Tapentadol</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ This page combines the AI-predicted indications for Tapentadol with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>migraine disorder (99.7%)</li>
+<li>migraine with brainstem aura (99.6%)</li>
+<li>migraine with or without aura, susceptibility to (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tapentadol/' | relative_url }}">View full drug report →</a></p>
 </div>

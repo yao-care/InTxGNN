@@ -3,7 +3,7 @@ layout: default
 title: "Roxatidine Acetate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Roxatidine Acetate. Original indication: . 0 predicted indications."
+description: "Health news related to Roxatidine Acetate. Original indication: . 6 predicted indications."
 permalink: /news/roxatidine_acetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/roxatidine_acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Roxatidine Acetate?">
-<strong>Roxatidine Acetate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Roxatidine Acetate</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,14 @@ This page combines the AI-predicted indications for Roxatidine Acetate with the 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>active peptic ulcer disease (99.6%)</li>
+<li>gastrojejunal ulcer (99.5%)</li>
+<li>peptic ulcer perforation (99.5%)</li>
+<li>gastroduodenitis (99.3%)</li>
+<li>duodenogastric reflux (99.2%)</li>
+<li>duodenal obstruction (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/roxatidine_acetate/' | relative_url }}">View full drug report →</a></p>
 </div>

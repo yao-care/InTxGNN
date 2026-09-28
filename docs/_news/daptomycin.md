@@ -3,7 +3,7 @@ layout: default
 title: "Daptomycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Daptomycin. Original indication: . 4 predicted indications."
+description: "Health news related to Daptomycin. Original indication: . 10 predicted indications."
 permalink: /news/daptomycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/daptomycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Daptomycin?">
-<strong>Daptomycin</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Daptomycin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,17 @@ This page combines the AI-predicted indications for Daptomycin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>Osteoarthritis | 99.86% | L4 | ⛔ Context conflation — all evidence is PJI management, not OA treatment (99.0%)</li>
-<li>Rheumatoid Arthritis | 99.84% | L4 | 🔬 Research Question — animal model mechanistic evidence (NF-κB pathway) (99.0%)</li>
-<li>Osteoarthritis Susceptibility | 99.79% | L5 | ⛔ Semantic drift — literature addresses infection susceptibility, not OA genetics (99.0%)</li>
-<li>Gout | 99.79% | L5 | ⚠️ Adverse effect signal — daptomycin *causes* gout via rhabdomyolysis (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>osteoarthritis (99.9%)</li>
+<li>rheumatoid arthritis (99.8%)</li>
+<li>osteoarthritis susceptibility (99.8%)</li>
+<li>gout (99.8%)</li>
+<li>pseudoachondroplasia (99.8%)</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>
+<li>brachyolmia (99.7%)</li>
+<li>brachydactyly-syndactyly syndrome (99.6%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/daptomycin/' | relative_url }}">View full drug report →</a></p>

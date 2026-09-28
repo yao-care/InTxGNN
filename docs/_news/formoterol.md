@@ -25,12 +25,12 @@ This page combines the AI-predicted indications for Formoterol with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (6)</strong>:<ul>
-<li>Respiratory malformation | 99.92% | L4 | S0 | Hold (99.0%)</li>
-<li>Bronchitis (chronic bronchitis/COPD) | 99.92% | L1 | S2 | Proceed with Guardrails (99.0%)</li>
-<li>Rienhoff syndrome | 99.90% | L5 | S0 | Hold (99.0%)</li>
-<li>Obstructive lung disease | 99.90% | L1 | S3 | Proceed with Guardrails (99.0%)</li>
-<li>Asthma | 99.74% | L1 | S3 | Proceed with Guardrails (99.0%)</li>
-<li>Asthma-related traits, susceptibility to | 99.50% | L5 | S0 | Hold (99.0%)</li>
+<li>respiratory malformation (99.9%)</li>
+<li>bronchitis (99.9%)</li>
+<li>Rienhoff syndrome (99.9%)</li>
+<li>obstructive lung disease (99.9%)</li>
+<li>asthma (99.7%)</li>
+<li>asthma-related traits, susceptibility to (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/formoterol/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Pefloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pefloxacin. Original indication: . 0 predicted indications."
+description: "Health news related to Pefloxacin. Original indication: . 10 predicted indications."
 permalink: /news/pefloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pefloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pefloxacin?">
-<strong>Pefloxacin</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Pefloxacin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ This page combines the AI-predicted indications for Pefloxacin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>heart conduction disease (99.9%)</li>
+<li>heart neoplasm (99.9%)</li>
+<li>heart valve disease (99.9%)</li>
+<li>congenital anomaly of ventricular septum (99.9%)</li>
+<li>pericardium disease (99.9%)</li>
+<li>heart aneurysm (99.8%)</li>
+<li>cor biloculare (99.8%)</li>
+<li>carcinoid heart disease (99.8%)</li>
+<li>myocardial rupture (99.8%)</li>
+<li>cardiac anomalies-heterotaxy syndrome (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pefloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>

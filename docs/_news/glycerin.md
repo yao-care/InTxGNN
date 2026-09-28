@@ -3,7 +3,7 @@ layout: default
 title: "Glycerin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Glycerin. Original indication: . 9 predicted indications."
+description: "Health news related to Glycerin. Original indication: . 10 predicted indications."
 permalink: /news/glycerin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glycerin/
 ---
 
 <p class="key-answer" data-question="What news is there about Glycerin?">
-<strong>Glycerin</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Glycerin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,25 @@ This page combines the AI-predicted indications for Glycerin with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Cauda equina syndrome | 99.60% | L5 | **False positive** — no mechanistic link; surgical emergency, unrelated to Glycerin's pharmacology (99.0%)</li>
-<li>Open-angle glaucoma | 99.59% | L4 | Weak — Glycerin's real, established use is *acute angle-closure* glaucoma emergencies, not chronic open-angle disease; the one retrieved trial (withdrawn, n=0) is about an unrelated macular-pigment supplement (99.0%)</li>
-<li>Primary hereditary glaucoma | 99.56% | L5 | **False positive** — structural/genetic outflow defect, not addressable by an osmotic agent (99.0%)</li>
-<li>Alopecia | 99.55% | L4 | Weak-to-moderate — 1 ambiguous trial (drug identity unconfirmed) + 13 publications, mostly indirect (Glycerin as a formulation excipient, or basic skin-barrier science), not direct efficacy evidence (99.0%)</li>
-<li>Congenital hypotrichosis milia | 99.50% | L5 | **False positive** — rare structural/developmental hair-follicle disorder (99.0%)</li>
-<li>Hypotrichosis simplex of the scalp | 99.47% | L5 | **False positive** — genetic follicle-development defect (99.0%)</li>
-<li>Diffuse alopecia areata | 99.45% | L5 | **False positive** — autoimmune mechanism, unrelated to osmotic/humectant action (99.0%)</li>
-<li>Migraine disorder | 99.27% | L5 | **Likely data-confusion artifact** — core literature actually studies Glycerol Trinitrate (nitroglycerin), a different drug used to *induce* migraine models, not treat migraine (99.0%)</li>
-<li>Migraine with brainstem aura | 99.18% | L5 | Same artifact as above, with thinner evidence (2 papers) (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>cauda equina syndrome (99.6%)</li>
+<li>open-angle glaucoma (99.6%)</li>
+<li>primary hereditary glaucoma (99.6%)</li>
+<li>alopecia (99.5%)</li>
+<li>congenital hypotrichosis milia (99.5%)</li>
+<li>irritable bowel syndrome (99.5%)</li>
+<li>hypotrichosis simplex of the scalp (99.5%)</li>
+<li>diffuse alopecia areata (99.5%)</li>
+<li>migraine disorder (99.3%)</li>
+<li>migraine with brainstem aura (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glycerin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [High-Dose Nitroglycerin Rapidly Improves SCAPE Symptoms - European Medical Journal](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQjNoUDROZ1VPWDVGTHpOVUp4dEJ1TnJWLTRkMDFRVWtIVGZPODJUR0d1X01MelFDUzBwbFV6aTl6aVBSZFpBUUpMM0RFVXVfZVRUNkJlQWo0LThnQktMcnkzYlNEWU83NVNydnlId3NkeUZpMzZJa3lCZnIwd1hQV1V6a1NDQ203bUZoTzh4aUdkaFB1RlNPSkdGQm83blJoaHc?oc=5)
-
-2026-09-27 <span class="news-drug-tag">GLYCERIN</span> <span class="news-drug-tag">Glycerin</span> <span class="news-drug-tag">Nitroglycerin</span>
-
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQjNoUDROZ1VPWDVGTHpOVUp4dEJ1TnJWLTRkMDFRVWtIVGZPODJUR0d1X01MelFDUzBwbFV6aTl6aVBSZFpBUUpMM0RFVXVfZVRUNkJlQWo0LThnQktMcnkzYlNEWU83NVNydnlId3NkeUZpMzZJa3lCZnIwd1hQV1V6a1NDQ203bUZoTzh4aUdkaFB1RlNPSkdGQm83blJoaHc?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

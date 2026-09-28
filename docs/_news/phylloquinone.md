@@ -3,7 +3,7 @@ layout: default
 title: "Phylloquinone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Phylloquinone. Original indication: . 0 predicted indications."
+description: "Health news related to Phylloquinone. Original indication: . 9 predicted indications."
 permalink: /news/phylloquinone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/phylloquinone/
 ---
 
 <p class="key-answer" data-question="What news is there about Phylloquinone?">
-<strong>Phylloquinone</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Phylloquinone</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,17 @@ This page combines the AI-predicted indications for Phylloquinone with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>renal tubular acidosis (99.9%)</li>
+<li>hypophosphatemic rickets (99.7%)</li>
+<li>Pendred syndrome (99.6%)</li>
+<li>autosomal recessive nonsyndromic deafness (99.5%)</li>
+<li>NAD(P)HX dehydratase deficiency (99.5%)</li>
+<li>leukocyte adhesion deficiency (99.5%)</li>
+<li>hypermanganesemia with dystonia (99.4%)</li>
+<li>Fraser syndrome (99.2%)</li>
+<li>temtamy preaxial brachydactyly syndrome (99.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/phylloquinone/' | relative_url }}">View full drug report →</a></p>
 </div>
