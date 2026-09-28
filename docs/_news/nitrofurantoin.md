@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="What news is there about Nitrofurantoin?">
-<strong>Nitrofurantoin</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Nitrofurantoin</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ This page combines the AI-predicted indications for Nitrofurantoin with the late
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [I’m a psychiatrist. This is the terrifying reality of postpartum psychosis](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0ktNUhVUWNhanVPV0p5aEh6QWdiLThvYkIwbjJJVUV6dS1hMmsyZWdKQ2k3OWdGOWtYYXlkU0pVMkdaenZkNXNxZjgzT0NfTThYT1lpUG13R0IzajI2ekJUQV9fQ0RvN056eklkX3ZuSnFlTUlvWEljbWNGRE5kX1ZkMW5RUXFXRU5QR3dYOW9WWFpsNUUtMThtZFJiNTF0?oc=5)
+### [Xella Health Builds Women's Precision Health Operating System](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT095ck4zUHBCRnE4d3VWdlZWazh5UXFWb2Z4d3Z5dmtEZTZKcjRSWUp6aXgyWC12S2twT3dON1A0Q05FRTRyYzNidmkzY2k5TXNyXzIxUGxzVlVxTU92a25nY1RKOWFHWTR0Rm1KNlZMdVpVOWNhcUZUY1ZUSGdoNFpLTnQwdll5QmtWVXVVOXZMdGJyLWdPUk94WWZpVWxLeTJpalZMUlhHeWs2a2dfQkhR?oc=5)
 
-2026-09-27 <span class="news-indication-tag">RA</span>
+2026-09-28 <span class="news-indication-tag">RA</span>
 
-Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0ktNUhVUWNhanVPV0p5aEh6QWdiLThvYkIwbjJJVUV6dS1hMmsyZWdKQ2k3OWdGOWtYYXlkU0pVMkdaenZkNXNxZjgzT0NfTThYT1lpUG13R0IzajI2ekJUQV9fQ0RvN056eklkX3ZuSnFlTUlvWEljbWNGRE5kX1ZkMW5RUXFXRU5QR3dYOW9WWFpsNUUtMThtZFJiNTF0?oc=5)
+Source: [Forbes](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT095ck4zUHBCRnE4d3VWdlZWazh5UXFWb2Z4d3Z5dmtEZTZKcjRSWUp6aXgyWC12S2twT3dON1A0Q05FRTRyYzNidmkzY2k5TXNyXzIxUGxzVlVxTU92a25nY1RKOWFHWTR0Rm1KNlZMdVpVOWNhcUZUY1ZUSGdoNFpLTnQwdll5QmtWVXVVOXZMdGJyLWdPUk94WWZpVWxLeTJpalZMUlhHeWs2a2dfQkhR?oc=5)
 
 ---
 
@@ -55,14 +55,6 @@ Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS
 2026-09-25 <span class="news-indication-tag">RA</span>
 
 Source: [CIDRAP](https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkc1aUVTTG1aN1JzM3FNNE5lTjhScUFEdWp5TmpRNzcxN1NSVm1ETWVoUzUyR1RPTWlSUktJdExXX2M2YVQwUm5NalcwSXhqLUtESDVoVG9aNHBOZzQxNEpNSHBRQ3dLVDNwdTcyTnZDWk5oYVBwR1VMQmNvN1dmRXkwWUJRZ185MDE3bHA2WXhlU3VnQXlSUnE2OHNIei1tX2c?oc=5)
-
----
-
-### [Q&A: Sameena Rahman, MD, on digital symptom tracking in PMOS - Contemporary OB/GYN](https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFdTNnltNENKUUpyS0NnOTYxZEpKZEVIRnlhcEJuQnhMZnFjSlVQZUNSbk5xTTBoRlpORm04ZlB2ckQ3V1ZidnN3MlNiMXM4WC1vTS1PaGkwaVdsMm4zVzdndUI4SFZCekNpemN5WmZPZUJzMDNjNXl2VmRoUDZ4RWtQM0xRRFA3ekR3ZTluZnJsWngtZ0FGTjUxYlI?oc=5)
-
-2026-09-22 <span class="news-indication-tag">RA</span>
-
-Source: [Contemporary OB/GYN](https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFdTNnltNENKUUpyS0NnOTYxZEpKZEVIRnlhcEJuQnhMZnFjSlVQZUNSbk5xTTBoRlpORm04ZlB2ckQ3V1ZidnN3MlNiMXM4WC1vTS1PaGkwaVdsMm4zVzdndUI4SFZCekNpemN5WmZPZUJzMDNjNXl2VmRoUDZ4RWtQM0xRRFA3ekR3ZTluZnJsWngtZ0FGTjUxYlI?oc=5)
 
 ---
 

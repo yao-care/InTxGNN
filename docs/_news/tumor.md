@@ -258,11 +258,11 @@ This page brings together the latest health news about “tumor” and lists the
 
 ## Related News (1)
 
-### [New Brain Tumour Test Can Deliver Results in Under Two Hours](https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDZxWXdnbkdBVXVrcWZZamIxTXNRb1NDREhEVnZldTJzNjl2YU9NRC02eXVXbEFnWDVFY01NdjlXOF93aVM2elhzczVJM2RxMjhSQlJUekNNbTVvRUtXeG44RXk0MC1QNGQxYkJRc1J4QUl1cEthTXRfY1ktSnVTTzJVeFRDdGFuY1E?oc=5)
+### [Brain tumours: New rapid genomic test could “transform” NHS diagnosis](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YWXVyX1BqQ242dTVuRkloOGluQTcyZVJ3c2ptMUFZMzB0TERLUWJURV83NGVqVjQ3aUllSzF4a1R5WWJVakZ5cTZwTkJnNkpTZmRKbGZ1TVlaeEk?oc=5)
 
-2026-09-26
+2026-09-28
 
-Source: [INDToday](https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDZxWXdnbkdBVXVrcWZZamIxTXNRb1NDREhEVnZldTJzNjl2YU9NRC02eXVXbEFnWDVFY01NdjlXOF93aVM2elhzczVJM2RxMjhSQlJUekNNbTVvRUtXeG44RXk0MC1QNGQxYkJRc1J4QUl1cEthTXRfY1ktSnVTTzJVeFRDdGFuY1E?oc=5)
+Source: [bmj.com](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YWXVyX1BqQ242dTVuRkloOGluQTcyZVJ3c2ptMUFZMzB0TERLUWJURV83NGVqVjQ3aUllSzF4a1R5WWJVakZ5cTZwTkJnNkpTZmRKbGZ1TVlaeEk?oc=5)
 
 ---
 

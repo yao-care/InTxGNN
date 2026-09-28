@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cardiovascular News"
+title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cardiovascular. 1 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 1 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
-# cardiovascular News
+# heart disease (cardiovascular) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cardiovascular?">
-<strong>cardiovascular</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
+<strong>heart disease (cardiovascular)</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cardiovascular” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “heart disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -61,11 +61,11 @@ This page brings together the latest health news about “cardiovascular” and 
 
 ## Related News (1)
 
-### [Stopping Ozempic may raise heart attack and stroke risk](https://news.google.com/rss/articles/CBMib0FVX3lxTE15M0ViSmI5TXhIQmo2LXgtSHRadGxST0gyWkJPQm5UNmU3cVJiM0ZhNlhRdGpVODNldXZJb2lJaHM5Nkl1Y3pBRDNpdUZSUEhYMEU3TkxHd0psSmJOaUJiM01OazE2V2JtTWFCT1F2Yw?oc=5)
+### [Eating at Odd Hours on Weekends? The Hidden Heart Risk You Didn’t Expect - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMk9mV3JsLXg4Mlc4RGtvVTJ4eDZlREtWWmNMT2NfZkdrV0ozNnFIQ3ZxdjBvTkY1VEMzckZDdUszb0tZMVFrUkdiMmJNZFNKSlBnM2MzR0dDMGRFdWd2S0dtTTA5SFFxYXRyR2ZQSlJ0a1VRYndOM095bGtLWEs0QzZ2QzljNGlYSW5hUnRINmx2bEhtUV92MzVNNjNwSTB6LVJMakRMNXVPaXhXTHJnLWZR?oc=5)
 
-2026-09-21
+2026-09-27
 
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE15M0ViSmI5TXhIQmo2LXgtSHRadGxST0gyWkJPQm5UNmU3cVJiM0ZhNlhRdGpVODNldXZJb2lJaHM5Nkl1Y3pBRDNpdUZSUEhYMEU3TkxHd0psSmJOaUJiM01OazE2V2JtTWFCT1F2Yw?oc=5)
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMk9mV3JsLXg4Mlc4RGtvVTJ4eDZlREtWWmNMT2NfZkdrV0ozNnFIQ3ZxdjBvTkY1VEMzckZDdUszb0tZMVFrUkdiMmJNZFNKSlBnM2MzR0dDMGRFdWd2S0dtTTA5SFFxYXRyR2ZQSlJ0a1VRYndOM095bGtLWEs0QzZ2QzljNGlYSW5hUnRINmx2bEhtUV92MzVNNjNwSTB6LVJMakRMNXVPaXhXTHJnLWZR?oc=5)
 
 ---
 

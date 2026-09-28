@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Doxapram with the latest hea
 
 ## Related News (1)
 
-### [Stopping Ozempic may raise heart attack and stroke risk](https://news.google.com/rss/articles/CBMib0FVX3lxTE15M0ViSmI5TXhIQmo2LXgtSHRadGxST0gyWkJPQm5UNmU3cVJiM0ZhNlhRdGpVODNldXZJb2lJaHM5Nkl1Y3pBRDNpdUZSUEhYMEU3TkxHd0psSmJOaUJiM01OazE2V2JtTWFCT1F2Yw?oc=5)
+### [Eating at Odd Hours on Weekends? The Hidden Heart Risk You Didn’t Expect - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMk9mV3JsLXg4Mlc4RGtvVTJ4eDZlREtWWmNMT2NfZkdrV0ozNnFIQ3ZxdjBvTkY1VEMzckZDdUszb0tZMVFrUkdiMmJNZFNKSlBnM2MzR0dDMGRFdWd2S0dtTTA5SFFxYXRyR2ZQSlJ0a1VRYndOM095bGtLWEs0QzZ2QzljNGlYSW5hUnRINmx2bEhtUV92MzVNNjNwSTB6LVJMakRMNXVPaXhXTHJnLWZR?oc=5)
 
-2026-09-21 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-09-27 <span class="news-indication-tag">heart disease</span>
 
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE15M0ViSmI5TXhIQmo2LXgtSHRadGxST0gyWkJPQm5UNmU3cVJiM0ZhNlhRdGpVODNldXZJb2lJaHM5Nkl1Y3pBRDNpdUZSUEhYMEU3TkxHd0psSmJOaUJiM01OazE2V2JtTWFCT1F2Yw?oc=5)
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMk9mV3JsLXg4Mlc4RGtvVTJ4eDZlREtWWmNMT2NfZkdrV0ozNnFIQ3ZxdjBvTkY1VEMzckZDdUszb0tZMVFrUkdiMmJNZFNKSlBnM2MzR0dDMGRFdWd2S0dtTTA5SFFxYXRyR2ZQSlJ0a1VRYndOM095bGtLWEs0QzZ2QzljNGlYSW5hUnRINmx2bEhtUV92MzVNNjNwSTB6LVJMakRMNXVPaXhXTHJnLWZR?oc=5)
 
 ---
 
