@@ -39,11 +39,11 @@ This page combines the AI-predicted indications for Sotalol with the latest heal
 
 ## Related News (2)
 
-### [Inflammation May Be Quietly Changing Your Heart: Study Finds 43% Higher Risk Of Heart Attack & Stroke - Health and Me](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN1NFWXF4MDB4N1hSWjMyWmNIVjJtYzF4ZVRpaTdpYnN0REhVWGQyYzVJeFhHRWhRTTRJQ2NfY3FoTXRCbTREaGFfMzNaalJZT1VqbjNYR05KSG16WHBINkF6ZUFwOTVSSFVCZTRxZWNsVldUaG5vR3h5Nl85dFVqOVpfX3pZYUJNOHBiYV8yekxxMTRtWkV6RTlHSWwxdTRNM1JxVnJfc3dRVnpFbks2NTAyU2tIN3ExMFpDT2o0X2k2TlNSWmFyT0J6SVJIaUh1T3NQcGktU2x0UDFqdWZLa2hFaXdpWTVHdEZHUGstR1Q?oc=5)
+### [Endophenotyping Without Anchors: Operational and Evidentiary Gaps in the Stroke-Heart Syndrome Framework](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGxzNEVfUF93d2RaSXhuVmFiUnZPeUlBQS1OMzdWVk9MYWVJbjk5Y2ttczZVRUE5YmJHN0kxMUo4amFON19SYV9vcXNoSXI2QlhoM3FNbUplZUxGTG1PMVlhUU00dVpzb0x6bU9nTzVpcTNua0ZrTkNILUl4Nkt0R1dYUTRXcnFtU2lOVzY5SEdVRjZPRHR5TjlldFVCRVRZT1pzV2N6ZjlSb0l3SW4xT3F4cw?oc=5)
 
-2026-09-27 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-09-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Health and Me](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN1NFWXF4MDB4N1hSWjMyWmNIVjJtYzF4ZVRpaTdpYnN0REhVWGQyYzVJeFhHRWhRTTRJQ2NfY3FoTXRCbTREaGFfMzNaalJZT1VqbjNYR05KSG16WHBINkF6ZUFwOTVSSFVCZTRxZWNsVldUaG5vR3h5Nl85dFVqOVpfX3pZYUJNOHBiYV8yekxxMTRtWkV6RTlHSWwxdTRNM1JxVnJfc3dRVnpFbks2NTAyU2tIN3ExMFpDT2o0X2k2TlNSWmFyT0J6SVJIaUh1T3NQcGktU2x0UDFqdWZLa2hFaXdpWTVHdEZHUGstR1Q?oc=5)
+Source: [springermedicine.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGxzNEVfUF93d2RaSXhuVmFiUnZPeUlBQS1OMzdWVk9MYWVJbjk5Y2ttczZVRUE5YmJHN0kxMUo4amFON19SYV9vcXNoSXI2QlhoM3FNbUplZUxGTG1PMVlhUU00dVpzb0x6bU9nTzVpcTNua0ZrTkNILUl4Nkt0R1dYUTRXcnFtU2lOVzY5SEdVRjZPRHR5TjlldFVCRVRZT1pzV2N6ZjlSb0l3SW4xT3F4cw?oc=5)
 
 ---
 

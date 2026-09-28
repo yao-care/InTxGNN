@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease (cardiovascular) News"
+title: "cardiovascular News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
+description: "Health news about cardiovascular. 1 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
-# heart disease (cardiovascular) News
+# cardiovascular News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about cardiovascular?">
+<strong>cardiovascular</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cardiovascular” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -59,15 +59,7 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (2)
-
-### [Doctors stress early action on heart risks - The Times of India](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHI1VTRWT0locnNLLVl0UUZrdkVFSl93RE9MTDBtUjlMQTVSLXRIbnRpRXo5eXUxYWNrcGo1cWNwYlJjU3FYaS1Pb2JreVA4TXJsWHFVa21TNkFZTm00ekNDellMcHRiX3YteVJ3VUZUS1RyMDU4b0VlcVNpaGV3MXVtMnU4SUdFcVduUmY3dVlGaHV4VDkxRGhQWGdpQmptWWFwRWV1VjFrc1ZNbFVVcU9mREN1d9IBuwFBVV95cUxNblBUQUlvWGJWaGp1SDN3Qi1tc0VkMXhLMlpTSFpLR3RFWmJsaGdvYlFHMkJJZERwUmJuUkVtd3EzWlZfcTRlMy0yb09ZZlNhUDctX1lqeTllMHdQRnZRaFVIVEI2Yldpa2QzVkVHUmxRVVpLN1c2QkZHVlNTb25PQWJJWnRYVW00T1BqbXRndldvaFBHRVZOY3oyWW1ESU1zNWt4RFBNNVRJVDcwVXJzZjhLMVg0SlRpQTlV?oc=5)
-
-2026-09-27
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHI1VTRWT0locnNLLVl0UUZrdkVFSl93RE9MTDBtUjlMQTVSLXRIbnRpRXo5eXUxYWNrcGo1cWNwYlJjU3FYaS1Pb2JreVA4TXJsWHFVa21TNkFZTm00ekNDellMcHRiX3YteVJ3VUZUS1RyMDU4b0VlcVNpaGV3MXVtMnU4SUdFcVduUmY3dVlGaHV4VDkxRGhQWGdpQmptWWFwRWV1VjFrc1ZNbFVVcU9mREN1d9IBuwFBVV95cUxNblBUQUlvWGJWaGp1SDN3Qi1tc0VkMXhLMlpTSFpLR3RFWmJsaGdvYlFHMkJJZERwUmJuUkVtd3EzWlZfcTRlMy0yb09ZZlNhUDctX1lqeTllMHdQRnZRaFVIVEI2Yldpa2QzVkVHUmxRVVpLN1c2QkZHVlNTb25PQWJJWnRYVW00T1BqbXRndldvaFBHRVZOY3oyWW1ESU1zNWt4RFBNNVRJVDcwVXJzZjhLMVg0SlRpQTlV?oc=5)
-
----
+## Related News (1)
 
 ### [Stopping Ozempic may raise heart attack and stroke risk](https://news.google.com/rss/articles/CBMib0FVX3lxTE15M0ViSmI5TXhIQmo2LXgtSHRadGxST0gyWkJPQm5UNmU3cVJiM0ZhNlhRdGpVODNldXZJb2lJaHM5Nkl1Y3pBRDNpdUZSUEhYMEU3TkxHd0psSmJOaUJiM01OazE2V2JtTWFCT1F2Yw?oc=5)
 

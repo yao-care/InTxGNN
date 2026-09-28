@@ -14,7 +14,7 @@ permalink: /news/secnidazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Secnidazole?">
-<strong>Secnidazole</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
+<strong>Secnidazole</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Secnidazole with the latest 
 <p><a href="{{ '/drugs/secnidazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (10)
 
 ### [cfDNA Methylation Signals Breast Cancer Risk Years Before Clinical Diagnosis](https://news.google.com/rss/articles/CBMidkFVX3lxTE5fMW9XVWJ4VnpObnJIc2tuODNHYmtOOGpKTGY0bVphWHFTQTdQOHd6NDVmcGdfQUlzTDgtZDRVQlhPcEhhQjNFa2dFbkp6VjVZdmtqYUE1WUZrTmtVMEFuYzNEbFFOeGZSMERxQVdXNDF0Z2FVd3c?oc=5)
 
@@ -55,14 +55,6 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMidkFVX3lxTE5fMW9XVWJ
 2026-09-27 <span class="news-indication-tag">cancer</span>
 
 Source: [Deccan Herald](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQmt6bWVvLW5QWVJjNjRXZFNtYW85ZlJsNzNUYzVnTC1GM3NYMWJkSHlieGRYbGpPUEo2eWRzdjZWczUtWHJHYWgzdEVKVmVCWEVFSXlTMmpZdHNyNHJfS3lWSHdpc25vNWd3X0xpaVlzUDJfdWUteExCeDVYNDVCMmo1cUdha25nR09pamp4ZjdVcHVsSGJSeFZGd09LQjBUUUtDZVZCcnJlVy0wUGlaQ2NIUnZ3TGs4X0xYVF9HdkpXQ0V3dk0yUG1MS3lPY2djc04yekpfcFRieFZsUDlGaVZpYlJqdW16N1NIdlo2R1VLeWI3LVAza0hXWUtKdmtSYnhCSlBobFI?oc=5)
-
----
-
-### [How personalised mRNA vaccines are fighting melanoma](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOC1OQ0x0Ymg4OU9TSlpyZi15anp0SXdrNlZxMXRta0dZcU96U3Rvb05BN3ZMN3ZsVWpzTDc0OHk0TTBsZHEwTzk2RXNSaFRFdlkzUkItaVlOLUF5dDJKWFlWNTVmMFM5UWhjUEZPRTlpOUZTc204ZG5yYTVERUZYQzB5Q1hDRWNaN0RnRzBzZE43cjJWSTBrN1FZVlBUYUJpa19OVWR6c0ZDMU85RW90bWhBUURTRFZ5VzR1V0dIbHlDYk5sZG9Gcmp3cWs3aU4tNHFuVzFmTzDSAegBQVVfeXFMT3BRZE9zTmdUcmhJREFKb2p4UW5OOVMxMFRYUlBXaFpjLTl1VFNmSU5vUG8wRzR1V0ozMUczYXMzbnVGLWJyNTNsUzlmMnJ0THFFUk4ybmtXZ1ZGam5nekRaNm1hSzZHZVhyeERaOWxQS0dyaUxuMnQxUmtWWEtaYWI5WnVSOFZTODRKLTJNY21famF2SVJzTUFIRzdnYVRDellBVnJyVHcwdjVTRHFBUHM4dUhHM1JUemJKQk12Q3dtSGpyS2prbHphcWNKZUdoWVgxNEFRaGVIa1NZMEhyU20xUGlGTDBMbw?oc=5)
-
-2026-09-27 <span class="news-indication-tag">cancer</span>
-
-Source: [theweek.in](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOC1OQ0x0Ymg4OU9TSlpyZi15anp0SXdrNlZxMXRta0dZcU96U3Rvb05BN3ZMN3ZsVWpzTDc0OHk0TTBsZHEwTzk2RXNSaFRFdlkzUkItaVlOLUF5dDJKWFlWNTVmMFM5UWhjUEZPRTlpOUZTc204ZG5yYTVERUZYQzB5Q1hDRWNaN0RnRzBzZE43cjJWSTBrN1FZVlBUYUJpa19OVWR6c0ZDMU85RW90bWhBUURTRFZ5VzR1V0dIbHlDYk5sZG9Gcmp3cWs3aU4tNHFuVzFmTzDSAegBQVVfeXFMT3BRZE9zTmdUcmhJREFKb2p4UW5OOVMxMFRYUlBXaFpjLTl1VFNmSU5vUG8wRzR1V0ozMUczYXMzbnVGLWJyNTNsUzlmMnJ0THFFUk4ybmtXZ1ZGam5nekRaNm1hSzZHZVhyeERaOWxQS0dyaUxuMnQxUmtWWEtaYWI5WnVSOFZTODRKLTJNY21famF2SVJzTUFIRzdnYVRDellBVnJyVHcwdjVTRHFBUHM4dUhHM1JUemJKQk12Q3dtSGpyS2prbHphcWNKZUdoWVgxNEFRaGVIa1NZMEhyU20xUGlGTDBMbw?oc=5)
 
 ---
 
@@ -82,30 +74,6 @@ Source: [INDToday](https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDZxWXdn
 
 ---
 
-### [Taking A GLP-1 After Menopause? Researchers Say To Watch This - Yahoo Health](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnQtSlVGTFlwc0p3TnRoY2M5Z2dMUDFnVnBzWGZ4OG0tNTJaaWc1WlB0UDZfS2ZxQlFEMzNMRmFieHFRMEdtZE9qeXQ5aUpRVTd2OHYyc09VM0c4UVN1dG1ETnBTOWZQdlFXSzkzaUZCRzFkVS1CaEJTSmxxdDVEUVd1dlJhbWp0eWhTQy1wWkliWF9Xb3dHN3UzaXpBbmdKeWNKY3ZPOUo2N0EyWk82aDM0eExHb3V2?oc=5)
-
-2026-09-26 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnQtSlVGTFlwc0p3TnRoY2M5Z2dMUDFnVnBzWGZ4OG0tNTJaaWc1WlB0UDZfS2ZxQlFEMzNMRmFieHFRMEdtZE9qeXQ5aUpRVTd2OHYyc09VM0c4UVN1dG1ETnBTOWZQdlFXSzkzaUZCRzFkVS1CaEJTSmxxdDVEUVd1dlJhbWp0eWhTQy1wWkliWF9Xb3dHN3UzaXpBbmdKeWNKY3ZPOUo2N0EyWk82aDM0eExHb3V2?oc=5)
-
----
-
-### [MIT researchers develop nanodevices to treat brain cancer - Medical Buyer](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkFLamY2UGh1VndoRXczUGR5S3lKaGp2X282MmdtQjhfb1FNMXdLZjZwcVN1TEk5WDlwamszcTVzcE5aZDJZNTMyMnUzMFlqRVo3MGFnZkRHNnNqOE5CRktPdWlLV0NCNndoSjRaM1pfd1BoRHJNQmN4bExvZTNCenIyZFdrbHN3eWhpQURB?oc=5)
-
-2026-09-26 <span class="news-indication-tag">cancer</span>
-
-Source: [Medical Buyer](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkFLamY2UGh1VndoRXczUGR5S3lKaGp2X282MmdtQjhfb1FNMXdLZjZwcVN1TEk5WDlwamszcTVzcE5aZDJZNTMyMnUzMFlqRVo3MGFnZkRHNnNqOE5CRktPdWlLV0NCNndoSjRaM1pfd1BoRHJNQmN4bExvZTNCenIyZFdrbHN3eWhpQURB?oc=5)
-
----
-
-### [Love your tea/coffee scalding hot? The habit might be tripling your risk of oesophageal cancer - The South First](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWFfSDJkNnBLa21DY1pxTWxzb0xURENmVW1iajZSUEpHWE9oMVYxQW9SWS10QXREN3dlb0tYelN0NWdLZXBKVldXaWU4RzRtVXF2Z1lYSFlXQUNrUkdoUTFjNUNEdUhfYkM2ZHBHUzJ4RFBNbjM0VlpqeHVfelg5Uk53R041bWZLYWFwQllPWndEbU9mdkNxeUFBcFpGMWo5dWl6SVBoMGhmNnpxSlAxTGFNcllKYjJfTDBLVXByS0VhTnVxSlE?oc=5)
-
-2026-09-26 <span class="news-indication-tag">cancer</span>
-
-Source: [The South First](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWFfSDJkNnBLa21DY1pxTWxzb0xURENmVW1iajZSUEpHWE9oMVYxQW9SWS10QXREN3dlb0tYelN0NWdLZXBKVldXaWU4RzRtVXF2Z1lYSFlXQUNrUkdoUTFjNUNEdUhfYkM2ZHBHUzJ4RFBNbjM0VlpqeHVfelg5Uk53R041bWZLYWFwQllPWndEbU9mdkNxeUFBcFpGMWo5dWl6SVBoMGhmNnpxSlAxTGFNcllKYjJfTDBLVXByS0VhTnVxSlE?oc=5)
-
----
-
 ### [Enzyme USP15 present a promising new target for ovarian cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZrR2ZPMEtpaklkRzAxSWoyeFJ4YU5uSVM3N1FTZVRzRUl1Qm92RFVGZGtLWHNTUDZsZUlhdl93cVFuYnpyWks2SC1Qb3lNNXhnS284VGoxNkFKb3NCcHlXeGxvaGU3OEtzZ2doNGMwYnpWT0V0SUNEbUhJUXpXeGlrWEZ5WVBW?oc=5)
 
 2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
@@ -114,11 +82,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQen
 
 ---
 
-### [Appendectomy for appendicitis associated with 58% lower colorectal cancer risk than antibiotics alone - Medical Xpress](https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3BtSC1SUlRkc0s5UFdUWHdCNGhQMDQ2VVU3WWpldjNIZlhpNHU3aTRKOTM5UXRCSExuYmlkOFlUdnN3c25uaFRWODZGd1NSdEpnV0hYTjNwUXk1WjlVeU9DZGVtQTVZLTFIWmJhcUotRzRwYzFsV2dqSEdWWVN3VXNWZndFdWQ1WWdaNm1XcDVsU1VtbnNLeHZkdmdUcGlk?oc=5)
+### [Muscle Preservation Is Key in GLP-1 Therapy for Postmenopausal Women - Drug Topics](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG5mM3NNLWZDTnUzUWhTVjZFN0pZNUhMZ0gxX05OWVpBazZlZXg1OWxEQ1U0Q1BLNGhKc1QyQXlKVWRsOTkxaTBZVjRoYjZIQ0pwVlRjUHdxMG12ZjQyU2VxYXdMZmF1TlBTN25TVnlQcFhtSkt2ZnJTRDdBcWpBMm9DcUsxbHhyWGEwaTluRHpYWV9SaGRWOHNfSXhvaHVTOUE?oc=5)
 
-2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">rectal cancer</span>
+2026-09-25 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3BtSC1SUlRkc0s5UFdUWHdCNGhQMDQ2VVU3WWpldjNIZlhpNHU3aTRKOTM5UXRCSExuYmlkOFlUdnN3c25uaFRWODZGd1NSdEpnV0hYTjNwUXk1WjlVeU9DZGVtQTVZLTFIWmJhcUotRzRwYzFsV2dqSEdWWVN3VXNWZndFdWQ1WWdaNm1XcDVsU1VtbnNLeHZkdmdUcGlk?oc=5)
+Source: [Drug Topics](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG5mM3NNLWZDTnUzUWhTVjZFN0pZNUhMZ0gxX05OWVpBazZlZXg1OWxEQ1U0Q1BLNGhKc1QyQXlKVWRsOTkxaTBZVjRoYjZIQ0pwVlRjUHdxMG12ZjQyU2VxYXdMZmF1TlBTN25TVnlQcFhtSkt2ZnJTRDdBcWpBMm9DcUsxbHhyWGEwaTluRHpYWV9SaGRWOHNfSXhvaHVTOUE?oc=5)
 
 ---
 
@@ -130,19 +98,27 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG
 
 ---
 
-### [UN health agency calls for investment boost to save young lives from cancer - UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGVUJkLWZoX1V3cExpWmNHU2p3d2xDWkQ4eTJSdmxYU0VUMjFDVGxfVm4wd0tIeV9MV081OGxkLTRyV2Rhc2JqT3hDVERKQVhNaw?oc=5)
+### [Pune doctors say drinking very hot tea and coffee may increase risk of oesophageal cancer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV3pwUUtpTjViRHEzMlhWRUNKb1FFTXBHc1hjV2ZaaVBwbEQwY0FINlZTbF9OSndCMzJVNzZHUllWcmlUX3N3Sk9YeXlUVGkzLVZKclRuSGhTakU4UmJpb3VUOG1QWHZabmRRU2o0dkRfZlgwUVpSOEZQcVJERUZjdnI4ei05UTNtbHVIa2ZadW5sbEdWNDlsOXBTR3gyS2lQVm9kY0R3U2RpblRmNUZVdUpSRzZMOU50TkVXNzVMQzM4WS1NeDhjT1JKd1BWaElMekkzc0dETTBUanMtYVpoLVNPVVpPTWVFRnE4Nllod3XSAfYBQVVfeXFMTTNfWWQyU0RPblNKa2JrRmlqMUROV1VpUHJtZGM2UjRqQTBRYTYzYW16UFAtM2ZFeUJXSUZxdFd5RGxmYmNNMWFHQm1jMTd3WGtVQjBYR0FXYU8tWkltMTV6Y0NtVHhWWHg2azJaSEN5Ql9LakVDZXlKMkxlZGdRSFBLOGhWaHBlSVhLQjhPenNhX0ZlT0hCR0IzU0xRLXc2Nm5fdVd6aTVlOFZSdkxzbEl2RElTdEFkek5SRTRrb2d3NFprTWZ1VjlRRnhyNWVtU1oxeHI3alc2WGNkWFVNSmV4aG9oVTJkQ0RsNHRndnl5UEcxZVBB?oc=5)
 
-2026-09-23 <span class="news-indication-tag">cancer</span>
+2026-09-24 <span class="news-indication-tag">cancer</span>
 
-Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOWFfYUpGVUJkLWZoX1V3cExpWmNHU2p3d2xDWkQ4eTJSdmxYU0VUMjFDVGxfVm4wd0tIeV9MV081OGxkLTRyV2Rhc2JqT3hDVERKQVhNaw?oc=5)
+Source: [Mid-Day](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV3pwUUtpTjViRHEzMlhWRUNKb1FFTXBHc1hjV2ZaaVBwbEQwY0FINlZTbF9OSndCMzJVNzZHUllWcmlUX3N3Sk9YeXlUVGkzLVZKclRuSGhTakU4UmJpb3VUOG1QWHZabmRRU2o0dkRfZlgwUVpSOEZQcVJERUZjdnI4ei05UTNtbHVIa2ZadW5sbEdWNDlsOXBTR3gyS2lQVm9kY0R3U2RpblRmNUZVdUpSRzZMOU50TkVXNzVMQzM4WS1NeDhjT1JKd1BWaElMekkzc0dETTBUanMtYVpoLVNPVVpPTWVFRnE4Nllod3XSAfYBQVVfeXFMTTNfWWQyU0RPblNKa2JrRmlqMUROV1VpUHJtZGM2UjRqQTBRYTYzYW16UFAtM2ZFeUJXSUZxdFd5RGxmYmNNMWFHQm1jMTd3WGtVQjBYR0FXYU8tWkltMTV6Y0NtVHhWWHg2azJaSEN5Ql9LakVDZXlKMkxlZGdRSFBLOGhWaHBlSVhLQjhPenNhX0ZlT0hCR0IzU0xRLXc2Nm5fdVd6aTVlOFZSdkxzbEl2RElTdEFkek5SRTRrb2d3NFprTWZ1VjlRRnhyNWVtU1oxeHI3alc2WGNkWFVNSmV4aG9oVTJkQ0RsNHRndnl5UEcxZVBB?oc=5)
 
 ---
 
-### [Blood test may help detect pancreatic cancer in earliest stages: Researchers](https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWdvM1pjTjBUcUVGUm5YbWU5VlprVTVVd2daS0N6Tk1PVEZIMUZKLXFhT09VSUFPZzN2WXFTMW9GZkp1NlEzejRMVE93NkJ4UHd3S0JmTXhBUlJEX29yZ01MdkpBWGM3Z0lnbzg5dFpsY281VE9ZUHNzM3JjYXdDdHJjZWZYdndfQkdMYzlWcnVzWl9jYmhlMDFJY3VhallwN3JEXzdfNExKTG5DNnBkaHppZTN4cDhDa0l6UW5vaXN2cjZlVGF4NVdka2I0NFHSAdQBQVVfeXFMTzdtaW9FbWNjbUhEeUNSYVBiMmZtSk51eHZaSklmTlNQS192QjB4aWI1TGlobUJhSFNIc1NVcUpLaE80Y215Q3FnczBHVHkteE5OSHQ1QUhGS0RGdHVNSUY1NU1hdkEyRGFTZVFua29tem1oem9VNmhxdWJrZVFwOGdOX0t0cmEzbmJXT0o4WjN4c0pYY3o3ZW9iN01CLWdMcEVoYnFzd0lBbmVDaEtIUl9FWFY4Q0c4bmY0Y2o3aG1vNW1KWENoUEpGdl9XRnBTbkE1XzQ?oc=5)
+### [Blood test may help detect pancreatic cancer in earliest stages: Researchers - CNBC TV18](https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWdvM1pjTjBUcUVGUm5YbWU5VlprVTVVd2daS0N6Tk1PVEZIMUZKLXFhT09VSUFPZzN2WXFTMW9GZkp1NlEzejRMVE93NkJ4UHd3S0JmTXhBUlJEX29yZ01MdkpBWGM3Z0lnbzg5dFpsY281VE9ZUHNzM3JjYXdDdHJjZWZYdndfQkdMYzlWcnVzWl9jYmhlMDFJY3VhallwN3JEXzdfNExKTG5DNnBkaHppZTN4cDhDa0l6UW5vaXN2cjZlVGF4NVdka2I0NFHSAdQBQVVfeXFMTzdtaW9FbWNjbUhEeUNSYVBiMmZtSk51eHZaSklmTlNQS192QjB4aWI1TGlobUJhSFNIc1NVcUpLaE80Y215Q3FnczBHVHkteE5OSHQ1QUhGS0RGdHVNSUY1NU1hdkEyRGFTZVFua29tem1oem9VNmhxdWJrZVFwOGdOX0t0cmEzbmJXT0o4WjN4c0pYY3o3ZW9iN01CLWdMcEVoYnFzd0lBbmVDaEtIUl9FWFY4Q0c4bmY0Y2o3aG1vNW1KWENoUEpGdl9XRnBTbkE1XzQ?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
-Source: [cnbctv18.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWdvM1pjTjBUcUVGUm5YbWU5VlprVTVVd2daS0N6Tk1PVEZIMUZKLXFhT09VSUFPZzN2WXFTMW9GZkp1NlEzejRMVE93NkJ4UHd3S0JmTXhBUlJEX29yZ01MdkpBWGM3Z0lnbzg5dFpsY281VE9ZUHNzM3JjYXdDdHJjZWZYdndfQkdMYzlWcnVzWl9jYmhlMDFJY3VhallwN3JEXzdfNExKTG5DNnBkaHppZTN4cDhDa0l6UW5vaXN2cjZlVGF4NVdka2I0NFHSAdQBQVVfeXFMTzdtaW9FbWNjbUhEeUNSYVBiMmZtSk51eHZaSklmTlNQS192QjB4aWI1TGlobUJhSFNIc1NVcUpLaE80Y215Q3FnczBHVHkteE5OSHQ1QUhGS0RGdHVNSUY1NU1hdkEyRGFTZVFua29tem1oem9VNmhxdWJrZVFwOGdOX0t0cmEzbmJXT0o4WjN4c0pYY3o3ZW9iN01CLWdMcEVoYnFzd0lBbmVDaEtIUl9FWFY4Q0c4bmY0Y2o3aG1vNW1KWENoUEpGdl9XRnBTbkE1XzQ?oc=5)
+Source: [CNBC TV18](https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWdvM1pjTjBUcUVGUm5YbWU5VlprVTVVd2daS0N6Tk1PVEZIMUZKLXFhT09VSUFPZzN2WXFTMW9GZkp1NlEzejRMVE93NkJ4UHd3S0JmTXhBUlJEX29yZ01MdkpBWGM3Z0lnbzg5dFpsY281VE9ZUHNzM3JjYXdDdHJjZWZYdndfQkdMYzlWcnVzWl9jYmhlMDFJY3VhallwN3JEXzdfNExKTG5DNnBkaHppZTN4cDhDa0l6UW5vaXN2cjZlVGF4NVdka2I0NFHSAdQBQVVfeXFMTzdtaW9FbWNjbUhEeUNSYVBiMmZtSk51eHZaSklmTlNQS192QjB4aWI1TGlobUJhSFNIc1NVcUpLaE80Y215Q3FnczBHVHkteE5OSHQ1QUhGS0RGdHVNSUY1NU1hdkEyRGFTZVFua29tem1oem9VNmhxdWJrZVFwOGdOX0t0cmEzbmJXT0o4WjN4c0pYY3o3ZW9iN01CLWdMcEVoYnFzd0lBbmVDaEtIUl9FWFY4Q0c4bmY0Y2o3aG1vNW1KWENoUEpGdl9XRnBTbkE1XzQ?oc=5)
+
+---
+
+### [Sugary drinks stood out in this stomach cancer study, but diet drinks did not](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamRncDI4SlZ6M3pNb3BaemM3ekRIU1EycEpxeUhhSFhpNEdzRlFtWFpwcmZNcms1QU53UF9qWnlFdk0wUWZuTlRPZmEzazc5aFl0NlVSSDl5Nm1jLUVZSEpTY3d5RWlHRURhbnZ0aXltTTU5UWUzNlhIQml4dFdTekN4bnBWOWNGajJpR2hhSWp0cnNlSXl2QkZSdGdab3Q5VFdETmsxS3hXUmUyMl8wWGpaQkVYSFk2MkYxMnRRNG4yZw?oc=5)
+
+2026-09-21 <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamRncDI4SlZ6M3pNb3BaemM3ekRIU1EycEpxeUhhSFhpNEdzRlFtWFpwcmZNcms1QU53UF9qWnlFdk0wUWZuTlRPZmEzazc5aFl0NlVSSDl5Nm1jLUVZSEpTY3d5RWlHRURhbnZ0aXltTTU5UWUzNlhIQml4dFdTekN4bnBWOWNGajJpR2hhSWp0cnNlSXl2QkZSdGdab3Q5VFdETmsxS3hXUmUyMl8wWGpaQkVYSFk2MkYxMnRRNG4yZw?oc=5)
 
 ---
 
