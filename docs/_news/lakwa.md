@@ -3,7 +3,7 @@ layout: default
 title: "stroke (lakwa) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke (lakwa). 2 articles, 15 related drugs."
+description: "Health news about stroke (lakwa). 3 articles, 15 related drugs."
 permalink: /news/lakwa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lakwa/
 ---
 
 <p class="key-answer" data-question="What news is there about stroke (lakwa)?">
-<strong>stroke (lakwa)</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
+<strong>stroke (lakwa)</strong> currently has <strong>3 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,21 +43,29 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [PAD Series Spotlights Current Burden, Future Challenges - American College of Cardiology](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkpmdEcxYzRPR1hXOEYxaHJZS2k2R05pV3hkREJvWDJfU194YThabnRKRjhER1dudFlIcGFZdFlJRlhxVThnXzUxWkR2Z2s0V0c5TUJSeUVEQ04wdldUNmpVbXV0VEpPS0t6WkR6am5PeFNkaTVzbW1ZUlNwQ1BSWVRxUXY5eEl3cnc?oc=5)
+### [Pharmacists Are Vital in Complex, Team-Based Treatment of PAD - Drug Topics](https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2lnUnlZbmJDUWFSQ2tYUGtKSGh2RHlZRks4NGc3NDFta3RJY3ZJbEVEV1llTHRraTR2SEpTNWVvTUctT2p0WmJnRHZuZEhGZE1kSzdQLWFteWZJaGdRdUdHSFMteFBIXzYxcHlDTjgtdXZneDY2OERWTk1aZGFDaXd5MW9iT1BvNHFCX2REaWEzeWtRY3dJ?oc=5)
 
 2026-09-29
 
-Source: [American College of Cardiology](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkpmdEcxYzRPR1hXOEYxaHJZS2k2R05pV3hkREJvWDJfU194YThabnRKRjhER1dudFlIcGFZdFlJRlhxVThnXzUxWkR2Z2s0V0c5TUJSeUVEQ04wdldUNmpVbXV0VEpPS0t6WkR6am5PeFNkaTVzbW1ZUlNwQ1BSWVRxUXY5eEl3cnc?oc=5)
+Source: [Drug Topics](https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2lnUnlZbmJDUWFSQ2tYUGtKSGh2RHlZRks4NGc3NDFta3RJY3ZJbEVEV1llTHRraTR2SEpTNWVvTUctT2p0WmJnRHZuZEhGZE1kSzdQLWFteWZJaGdRdUdHSFMteFBIXzYxcHlDTjgtdXZneDY2OERWTk1aZGFDaXd5MW9iT1BvNHFCX2REaWEzeWtRY3dJ?oc=5)
 
 ---
 
-### [Insomnia puts the brain at risk for stroke, hospitalisation, and even suicidal behaviour](https://news.google.com/rss/articles/CBMinwFBVV95cUxOajh6N0tNeEFhb1lNalkybmtBcjIxelVvRWhSZ0N3eF9mMS1rSEdIbC0xQUdJOXVNSEp5UURBQjFNU1lqa3RiSVlmSi1xZWhBTXF0b19YbFM3NG1DejRqVnJaZG95UkdISTA3R29zNXZZY2dKUW5DUWJCNFpKR0FXdWJ3VFdfMjhJb2RfYktWMUlPLW03bVVyblQwRHpTWGfSAaQBQVVfeXFMTlFCXzFJbUxWeHphQlIxMkVodmwzeWtQa1oxQlZKajZrTllBeHFqZ0NZcjJWY29md1N6WkRERW9BUW04SW01emgtOTk0bkhMUVExNlZ5UHh1Z3dUbm1nXzQxa1FPRFd4ZmhlSmgwaXg1T19jb2dXX0FxRlRDNEoyMXBrSlRmd2pIUGlGTUxvb3JrTjVzMXZOSUsyWE9aZWhPNEdfRjg?oc=5)
+### [Insomnia linked to increased risk of stroke and hospital admissions](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjY2b0d0OHJiTXhDemFzbmJ3VXBOa3JVamZRaGpHNEtNbzlJbXpPLXU3MnJ2akQzTzlHYm5IM3F4eVJnVUQtSnliZ3R5QUZPSnhubjFrRE51eHhJRFNWT2ZHZUJsbmROY05WZnViRjhXR2I4VUt6X3pVQjd5Q2xzaE83UFh6WnBWMnhEVHk0NXo1UGVHbHdOOGxWbmszdHVPeW5BT2ZvckNjTGFCUW5vX2dYTGprZw?oc=5)
 
-2026-09-29
+2026-09-28
 
-Source: [ThePrint](https://news.google.com/rss/articles/CBMinwFBVV95cUxOajh6N0tNeEFhb1lNalkybmtBcjIxelVvRWhSZ0N3eF9mMS1rSEdIbC0xQUdJOXVNSEp5UURBQjFNU1lqa3RiSVlmSi1xZWhBTXF0b19YbFM3NG1DejRqVnJaZG95UkdISTA3R29zNXZZY2dKUW5DUWJCNFpKR0FXdWJ3VFdfMjhJb2RfYktWMUlPLW03bVVyblQwRHpTWGfSAaQBQVVfeXFMTlFCXzFJbUxWeHphQlIxMkVodmwzeWtQa1oxQlZKajZrTllBeHFqZ0NZcjJWY29md1N6WkRERW9BUW04SW01emgtOTk0bkhMUVExNlZ5UHh1Z3dUbm1nXzQxa1FPRFd4ZmhlSmgwaXg1T19jb2dXX0FxRlRDNEoyMXBrSlRmd2pIUGlGTUxvb3JrTjVzMXZOSUsyWE9aZWhPNEdfRjg?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjY2b0d0OHJiTXhDemFzbmJ3VXBOa3JVamZRaGpHNEtNbzlJbXpPLXU3MnJ2akQzTzlHYm5IM3F4eVJnVUQtSnliZ3R5QUZPSnhubjFrRE51eHhJRFNWT2ZHZUJsbmROY05WZnViRjhXR2I4VUt6X3pVQjd5Q2xzaE83UFh6WnBWMnhEVHk0NXo1UGVHbHdOOGxWbmszdHVPeW5BT2ZvckNjTGFCUW5vX2dYTGprZw?oc=5)
+
+---
+
+### [Using AI to monitor your heart health? Cardiologist reveals how much you can rely on it | Health](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYkZkRzBfRVFmZHNoV3RsaVM3X2dMNWsyNXJqYXMwbmJtT0RfVVBtRjJwdldwN1NaUWI3eGs5QjdJM01lTnV6STVCdUFheGkyLTJQQ2dPaHdLYlVyd196RnZrNEdULVY3MTY4S2JfeFdVNUQ3YmtXQkN4OEl0TGVBVUZnTm1EcTVYUzBsc0VFa2tqeS0zMTBETFcwejhQZm9OSF9GSzRzR3NlNXFHT2d2S1pPNjlhOU5lT1NFc21KcUg4aUw5YjRNRGxtRngxWmZVNWZOLVhhOTRXeWQ4UjlYY1lyOENSV3U3Um9r0gHwAUFVX3lxTE1CTGJJaWtucTB3U1BxRkM1WGtIOU44WFFvNTJ6ZENoNF9MX0RFWGdCdVpKSHh1V1J5ajVhTDhydDNOeDZSUVo1WEVTcG0tWmxYWV9uYm5RWEI4cGVhSW5HemtLNEc3UEJXazllLUY0UDRxRGJSZ1NnTGJtY1lrekhXMjUybWNjdm84UHFiZnFKVERDQUhRcHpKVVlhSHdBUGdZNGd1SWlIYWpZclFXRFFkWnlIVlNhUjloWXFfdllPOGNZb2VDTmFzM3NDVndieHE2d0F2NXVzV2NpdWM1X1lhcWtremNmWHROLXNKYkFxSQ?oc=5)
+
+2026-09-28
+
+Source: [hindustantimes.com](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYkZkRzBfRVFmZHNoV3RsaVM3X2dMNWsyNXJqYXMwbmJtT0RfVVBtRjJwdldwN1NaUWI3eGs5QjdJM01lTnV6STVCdUFheGkyLTJQQ2dPaHdLYlVyd196RnZrNEdULVY3MTY4S2JfeFdVNUQ3YmtXQkN4OEl0TGVBVUZnTm1EcTVYUzBsc0VFa2tqeS0zMTBETFcwejhQZm9OSF9GSzRzR3NlNXFHT2d2S1pPNjlhOU5lT1NFc21KcUg4aUw5YjRNRGxtRngxWmZVNWZOLVhhOTRXeWQ4UjlYY1lyOENSV3U3Um9r0gHwAUFVX3lxTE1CTGJJaWtucTB3U1BxRkM1WGtIOU44WFFvNTJ6ZENoNF9MX0RFWGdCdVpKSHh1V1J5ajVhTDhydDNOeDZSUVo1WEVTcG0tWmxYWV9uYm5RWEI4cGVhSW5HemtLNEc3UEJXazllLUY0UDRxRGJSZ1NnTGJtY1lrekhXMjUybWNjdm84UHFiZnFKVERDQUhRcHpKVVlhSHdBUGdZNGd1SWlIYWpZclFXRFFkWnlIVlNhUjloWXFfdllPOGNZb2VDTmFzM3NDVndieHE2d0F2NXVzV2NpdWM1X1lhcWtremNmWHROLXNKYkFxSQ?oc=5)
 
 ---
 

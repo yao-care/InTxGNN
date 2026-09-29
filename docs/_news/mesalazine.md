@@ -39,11 +39,11 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 
 ## Related News (1)
 
-### [Infections at birth substantially increase the risk of autism and intellectual disability, study finds](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNG0zMGVVYnJZeTd2bExkREo3N1pYQTM3Z0FLZXptNzB0MU9fOFgwMVF1V3c4cWpTRnQzT0JRY3dIb1BPbUVBWmJGbVBvd3VlQl9jWVpqZndxcHo4eGY5dGlXWllNbnpOMVBBRW5Qcks0YjVYSDJpZndqV1lYSEVpRVExWk5iQ3lZSjEzQm83MEtwcm5KcjE3VnlOcTBteWsyRXBQTUphSUYybXJKTDdtQXdMQXNWeXZ3bE5iaXFUVWsyS1Zw?oc=5)
+### [NASA’s Mars Rover Cracks Open Rock That Fooled Scientists Into Seeing a Beach](https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXptOE9vWkJ4UmVQSTkybkFiRFZraFRwMEZ2cmQ0YWpFUWdHdjZsMll4SDlucDZ5MExBSzF1OW5vWXJsYk03aEZldTJjdnBmUUg3ZERTbUZXbVJqMUZFVFZOYTNOSmtBRkhLeE9RdUFpWTFYeFZONG1zOTlCSHJ0RmlBM0lzcUNCSmE5WTJmNFJoMTJxVm5oSGhueHdNYnA3MkE?oc=5)
 
-2026-09-28 <span class="news-indication-tag">RA</span>
+2026-09-29 <span class="news-indication-tag">RA</span>
 
-Source: [CIDRAP](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNG0zMGVVYnJZeTd2bExkREo3N1pYQTM3Z0FLZXptNzB0MU9fOFgwMVF1V3c4cWpTRnQzT0JRY3dIb1BPbUVBWmJGbVBvd3VlQl9jWVpqZndxcHo4eGY5dGlXWllNbnpOMVBBRW5Qcks0YjVYSDJpZndqV1lYSEVpRVExWk5iQ3lZSjEzQm83MEtwcm5KcjE3VnlOcTBteWsyRXBQTUphSUYybXJKTDdtQXdMQXNWeXZ3bE5iaXFUVWsyS1Zw?oc=5)
+Source: [StudyFinds](https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXptOE9vWkJ4UmVQSTkybkFiRFZraFRwMEZ2cmQ0YWpFUWdHdjZsMll4SDlucDZ5MExBSzF1OW5vWXJsYk03aEZldTJjdnBmUUg3ZERTbUZXbVJqMUZFVFZOYTNOSmtBRkhLeE9RdUFpWTFYeFZONG1zOTlCSHJ0RmlBM0lzcUNCSmE5WTJmNFJoMTJxVm5oSGhueHdNYnA3MkE?oc=5)
 
 ---
 
