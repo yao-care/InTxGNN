@@ -42,6 +42,30 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 
 ## Related News (5)
 
+### [Even light drinking may harm brain health, new research suggests - Scripps News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTNlZERsYUFDS1dCbU5mOUJlRnhIY2FNRHh6V0JkSl9mdDMyTVlYSkZOWF9seGxTWFlVLXBKbWRRRDZCZF8wWG1FSTJmaEo2VkR5SjNJbVZCVEdZTU5peTZ6LXNCbHpiakpsdUNOYVg3cS1nZWxDMHFpd1FpVTVhdG1DeDhKYmlIR1QtR2N3cVVqQ3hCcFlib19sRXEwdTQ?oc=5)
+
+2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Scripps News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTNlZERsYUFDS1dCbU5mOUJlRnhIY2FNRHh6V0JkSl9mdDMyTVlYSkZOWF9seGxTWFlVLXBKbWRRRDZCZF8wWG1FSTJmaEo2VkR5SjNJbVZCVEdZTU5peTZ6LXNCbHpiakpsdUNOYVg3cS1nZWxDMHFpd1FpVTVhdG1DeDhKYmlIR1QtR2N3cVVqQ3hCcFlib19sRXEwdTQ?oc=5)
+
+---
+
+### [Low-Dose Aspirin May Cut Dementia Risk By 70 Per Cent, Genetic Study Suggests](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmN6QUgxMjQyNTJvRERJeVRPcDJtUVE4eHZ6VVNHOUF5d3h1dVUtVENnWnNWT09ZV3RCN244ZmhHd3YzQ3NpY2tweG8tVkFGQ05xN0dIY2ZzdVBRM2d6eDh0alVTMTRMdnpZNEZQWEhKRU5oaW9wQTNMMGlaQnZxZHJjWlM2dUt6MldodDRTQ1YzcnNHNnI2SWNyeWJxejdMWWpRZnktU2FDanUxZC00X0ZLMA?oc=5)
+
+2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmN6QUgxMjQyNTJvRERJeVRPcDJtUVE4eHZ6VVNHOUF5d3h1dVUtVENnWnNWT09ZV3RCN244ZmhHd3YzQ3NpY2tweG8tVkFGQ05xN0dIY2ZzdVBRM2d6eDh0alVTMTRMdnpZNEZQWEhKRU5oaW9wQTNMMGlaQnZxZHJjWlM2dUt6MldodDRTQ1YzcnNHNnI2SWNyeWJxejdMWWpRZnktU2FDanUxZC00X0ZLMA?oc=5)
+
+---
+
+### [Insomnia puts the brain at risk for stroke, hospitalisation, and even suicidal behaviour](https://news.google.com/rss/articles/CBMinwFBVV95cUxOajh6N0tNeEFhb1lNalkybmtBcjIxelVvRWhSZ0N3eF9mMS1rSEdIbC0xQUdJOXVNSEp5UURBQjFNU1lqa3RiSVlmSi1xZWhBTXF0b19YbFM3NG1DejRqVnJaZG95UkdISTA3R29zNXZZY2dKUW5DUWJCNFpKR0FXdWJ3VFdfMjhJb2RfYktWMUlPLW03bVVyblQwRHpTWGfSAaQBQVVfeXFMTlFCXzFJbUxWeHphQlIxMkVodmwzeWtQa1oxQlZKajZrTllBeHFqZ0NZcjJWY29md1N6WkRERW9BUW04SW01emgtOTk0bkhMUVExNlZ5UHh1Z3dUbm1nXzQxa1FPRFd4ZmhlSmgwaXg1T19jb2dXX0FxRlRDNEoyMXBrSlRmd2pIUGlGTUxvb3JrTjVzMXZOSUsyWE9aZWhPNEdfRjg?oc=5)
+
+2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMinwFBVV95cUxOajh6N0tNeEFhb1lNalkybmtBcjIxelVvRWhSZ0N3eF9mMS1rSEdIbC0xQUdJOXVNSEp5UURBQjFNU1lqa3RiSVlmSi1xZWhBTXF0b19YbFM3NG1DejRqVnJaZG95UkdISTA3R29zNXZZY2dKUW5DUWJCNFpKR0FXdWJ3VFdfMjhJb2RfYktWMUlPLW03bVVyblQwRHpTWGfSAaQBQVVfeXFMTlFCXzFJbUxWeHphQlIxMkVodmwzeWtQa1oxQlZKajZrTllBeHFqZ0NZcjJWY29md1N6WkRERW9BUW04SW01emgtOTk0bkhMUVExNlZ5UHh1Z3dUbm1nXzQxa1FPRFd4ZmhlSmgwaXg1T19jb2dXX0FxRlRDNEoyMXBrSlRmd2pIUGlGTUxvb3JrTjVzMXZOSUsyWE9aZWhPNEdfRjg?oc=5)
+
+---
+
 ### [World Alzheimer's Day 2026 : The earlier you know, the more you can do - A dementia diagnosis matters -](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
 
 2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
@@ -50,35 +74,11 @@ Source: [e-pao.net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0Z
 
 ---
 
-### [The Age You Reach Menopause May Be Linked to Your Future Brain Health, 18-Year Study Finds](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
-
-2026-09-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
-
----
-
 ### [Her Alzheimer’s diagnosis took 2 years. New blood tests might help others get answers sooner](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRHNqbmgzWm81c0gyb2FWUlYxRk1pU2pwY1EyX092aVhmYkdwNHJDRTQ0WTAyZFladVdGejYwNGV1YUJrcTdNR1ZNYzhXNVJxVkhkelpEVndoWE00cUh4c0xHQmRFVlAxWllBSWtodzhtaERBTnc5NnB1NkRDdFVsY2NkOWFzZjRVZUxMb1FCU2swTTM3aF9IZGU3a1dTeUpSblF2UFBlVWMxYkVxVVdZbk1nTjNTRTNvUVdvOWlqa1hkLTh5c0ctZEFKZC0yTDJseEQ3TExjSGktVF95c0NUekRDXzhSdndHNGRiMU9vNm13VFZfWWRmU2lYMEt5Z0FJZERBaXM3U0ZkZ3hMMmVZ?oc=5)
 
 2026-09-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [newscentermaine.com](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRHNqbmgzWm81c0gyb2FWUlYxRk1pU2pwY1EyX092aVhmYkdwNHJDRTQ0WTAyZFladVdGejYwNGV1YUJrcTdNR1ZNYzhXNVJxVkhkelpEVndoWE00cUh4c0xHQmRFVlAxWllBSWtodzhtaERBTnc5NnB1NkRDdFVsY2NkOWFzZjRVZUxMb1FCU2swTTM3aF9IZGU3a1dTeUpSblF2UFBlVWMxYkVxVVdZbk1nTjNTRTNvUVdvOWlqa1hkLTh5c0ctZEFKZC0yTDJseEQ3TExjSGktVF95c0NUekRDXzhSdndHNGRiMU9vNm13VFZfWWRmU2lYMEt5Z0FJZERBaXM3U0ZkZ3hMMmVZ?oc=5)
-
----
-
-### [Popular Joint Supplement Glucosamine Linked to Faster Alzheimer’s Progression - The Indian Practitioner](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRzVwZHdoaHhaWFVpMC1oanFobm9KUWdMSkFLOUlJVUV5RDRwWWNoRC1Eam9vbldUV2VEanE2Z1lmMUROT0NiVS1zLWpweWYwaDRTdHhXZ3VibzFhdEp4RkMxTEFqZHM1T0ZONTVOYWxKcHVjYjhYX3I0U0tmOTRHdWM0dlhGbll5THRyTFRKRzdsRVg4cEozc2FJb3RwUjB3dGhuREV0aVJKX3dZZUpSRQ?oc=5)
-
-2026-09-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRzVwZHdoaHhaWFVpMC1oanFobm9KUWdMSkFLOUlJVUV5RDRwWWNoRC1Eam9vbldUV2VEanE2Z1lmMUROT0NiVS1zLWpweWYwaDRTdHhXZ3VibzFhdEp4RkMxTEFqZHM1T0ZONTVOYWxKcHVjYjhYX3I0U0tmOTRHdWM0dlhGbll5THRyTFRKRzdsRVg4cEozc2FJb3RwUjB3dGhuREV0aVJKX3dZZUpSRQ?oc=5)
-
----
-
-### [India’s dementia burden projected to nearly double by 2036, doctors flag early cognitive changes - Telegraph India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMkptMi1kTVlNSVkxQlF3Ynl4Yjc3Szdhdjl1R2NjM0NDTnFfc0hkYWYxd3dkU3B3X0t6NGtJVTJFMGhXdDJFRlotMUJyUzF2RE9raFBTUjVJckF2NW9paWQ3VmU4bWwtTzBhWXRiSnNjb1JKVWszc0xTaEMyRDVlRDJfTm9tRkkwZ0FJZmFtUlowa2lXSEVlSFlvSTVJZklPc0U2cDV6RmhHamw3MjNjTW5vdnFLSHFCYkRmOW1uV2trcHF5NXdXY2ZRTFN1QW5EU2ZQb1VzZnhuR2PSAeABQVVfeXFMT3Z3OFZscjNFbzlnRmNPdWFoVWswR1RoUFVMVnR3ZmlCLS0xbVhhakd6VHc2LVdNUWYtVklodjBFVGlodlowX2t1aHpIVVc2OGhRRnU4cDlHNVZqck0xR2U5XzV4dDVLMEdobkRwTWVTcUlCaXp6YkVkZUk5ZEZEcHhyVGQ2YWJoczlYUW1OQno3RHhnN1VfalVyUUlVV2luYldWaXR0LU9HemhrNVg4UGM2cWtSb2l3amZFc1dCaEdsRmM2cERlNEF4SXNaOE1IZEo0Q0JHVFNxN1dWUzFYMkE?oc=5)
-
-2026-09-22 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Telegraph India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMkptMi1kTVlNSVkxQlF3Ynl4Yjc3Szdhdjl1R2NjM0NDTnFfc0hkYWYxd3dkU3B3X0t6NGtJVTJFMGhXdDJFRlotMUJyUzF2RE9raFBTUjVJckF2NW9paWQ3VmU4bWwtTzBhWXRiSnNjb1JKVWszc0xTaEMyRDVlRDJfTm9tRkkwZ0FJZmFtUlowa2lXSEVlSFlvSTVJZklPc0U2cDV6RmhHamw3MjNjTW5vdnFLSHFCYkRmOW1uV2trcHF5NXdXY2ZRTFN1QW5EU2ZQb1VzZnhuR2PSAeABQVVfeXFMT3Z3OFZscjNFbzlnRmNPdWFoVWswR1RoUFVMVnR3ZmlCLS0xbVhhakd6VHc2LVdNUWYtVklodjBFVGlodlowX2t1aHpIVVc2OGhRRnU4cDlHNVZqck0xR2U5XzV4dDVLMEdobkRwTWVTcUlCaXp6YkVkZUk5ZEZEcHhyVGQ2YWJoczlYUW1OQno3RHhnN1VfalVyUUlVV2luYldWaXR0LU9HemhrNVg4UGM2cWtSb2l3amZFc1dCaEdsRmM2cERlNEF4SXNaOE1IZEo0Q0JHVFNxN1dWUzFYMkE?oc=5)
 
 ---
 

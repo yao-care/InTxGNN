@@ -3,7 +3,7 @@ layout: default
 title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke. 1 articles, 15 related drugs."
+description: "Health news about stroke. 2 articles, 15 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about stroke?">
-<strong>stroke</strong> currently has <strong>1 news articles</strong> and 15 related drugs.
+<strong>stroke</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,21 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Scientists find insomnia is linked to stroke risks. No, your smartwatch or ring is not going to cut it - Digital Trends](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQWZoLWR4V2FRczl0LVhEZ3RpNm1IX1lmblBzRlpvcjc3TjY3a1poNzZIT2V0SDNGckZnc0h3OFpkNDVFQ1Y5dmlBa1IzV19Tamd3NHJxUUd0bzA0Y3BQSENNMEFqN1YtaXl4WFdRY2tKU1UwTkJXTTZ6QnNtTF9vSkwtcVpUZFVnaC1kN05mTnEzSHU0OTF5UktCOFc4Z2lnMTVHT2RoUXVFVGRubHZseG54cXdpNFZ0bzljYlRmWmRwaHJCTVJ3T2Q2V0tuOC1RaDUydl9Hd08?oc=5)
+### [PAD Series Spotlights Current Burden, Future Challenges - American College of Cardiology](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkpmdEcxYzRPR1hXOEYxaHJZS2k2R05pV3hkREJvWDJfU194YThabnRKRjhER1dudFlIcGFZdFlJRlhxVThnXzUxWkR2Z2s0V0c5TUJSeUVEQ04wdldUNmpVbXV0VEpPS0t6WkR6am5PeFNkaTVzbW1ZUlNwQ1BSWVRxUXY5eEl3cnc?oc=5)
 
-2026-09-28
+2026-09-29
 
-Source: [Digital Trends](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQWZoLWR4V2FRczl0LVhEZ3RpNm1IX1lmblBzRlpvcjc3TjY3a1poNzZIT2V0SDNGckZnc0h3OFpkNDVFQ1Y5dmlBa1IzV19Tamd3NHJxUUd0bzA0Y3BQSENNMEFqN1YtaXl4WFdRY2tKU1UwTkJXTTZ6QnNtTF9vSkwtcVpUZFVnaC1kN05mTnEzSHU0OTF5UktCOFc4Z2lnMTVHT2RoUXVFVGRubHZseG54cXdpNFZ0bzljYlRmWmRwaHJCTVJ3T2Q2V0tuOC1RaDUydl9Hd08?oc=5)
+Source: [American College of Cardiology](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkpmdEcxYzRPR1hXOEYxaHJZS2k2R05pV3hkREJvWDJfU194YThabnRKRjhER1dudFlIcGFZdFlJRlhxVThnXzUxWkR2Z2s0V0c5TUJSeUVEQ04wdldUNmpVbXV0VEpPS0t6WkR6am5PeFNkaTVzbW1ZUlNwQ1BSWVRxUXY5eEl3cnc?oc=5)
+
+---
+
+### [Insomnia puts the brain at risk for stroke, hospitalisation, and even suicidal behaviour](https://news.google.com/rss/articles/CBMinwFBVV95cUxOajh6N0tNeEFhb1lNalkybmtBcjIxelVvRWhSZ0N3eF9mMS1rSEdIbC0xQUdJOXVNSEp5UURBQjFNU1lqa3RiSVlmSi1xZWhBTXF0b19YbFM3NG1DejRqVnJaZG95UkdISTA3R29zNXZZY2dKUW5DUWJCNFpKR0FXdWJ3VFdfMjhJb2RfYktWMUlPLW03bVVyblQwRHpTWGfSAaQBQVVfeXFMTlFCXzFJbUxWeHphQlIxMkVodmwzeWtQa1oxQlZKajZrTllBeHFqZ0NZcjJWY29md1N6WkRERW9BUW04SW01emgtOTk0bkhMUVExNlZ5UHh1Z3dUbm1nXzQxa1FPRFd4ZmhlSmgwaXg1T19jb2dXX0FxRlRDNEoyMXBrSlRmd2pIUGlGTUxvb3JrTjVzMXZOSUsyWE9aZWhPNEdfRjg?oc=5)
+
+2026-09-29
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMinwFBVV95cUxOajh6N0tNeEFhb1lNalkybmtBcjIxelVvRWhSZ0N3eF9mMS1rSEdIbC0xQUdJOXVNSEp5UURBQjFNU1lqa3RiSVlmSi1xZWhBTXF0b19YbFM3NG1DejRqVnJaZG95UkdISTA3R29zNXZZY2dKUW5DUWJCNFpKR0FXdWJ3VFdfMjhJb2RfYktWMUlPLW03bVVyblQwRHpTWGfSAaQBQVVfeXFMTlFCXzFJbUxWeHphQlIxMkVodmwzeWtQa1oxQlZKajZrTllBeHFqZ0NZcjJWY29md1N6WkRERW9BUW04SW01emgtOTk0bkhMUVExNlZ5UHh1Z3dUbm1nXzQxa1FPRFd4ZmhlSmgwaXg1T19jb2dXX0FxRlRDNEoyMXBrSlRmd2pIUGlGTUxvb3JrTjVzMXZOSUsyWE9aZWhPNEdfRjg?oc=5)
 
 ---
 
