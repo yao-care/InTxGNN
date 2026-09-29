@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 3 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 5 articles, 8 related drugs."
 permalink: /news/alzheimer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,23 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [World Alzheimer's Day 2026 : The earlier you know, the more you can do - A dementia diagnosis matters -](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
+
+2026-09-29
+
+Source: [e-pao.net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
+
+---
+
+### [The Age You Reach Menopause May Be Linked to Your Future Brain Health, 18-Year Study Finds](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
+
+2026-09-28
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
+
+---
 
 ### [Her Alzheimer’s diagnosis took 2 years. New blood tests might help others get answers sooner](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRHNqbmgzWm81c0gyb2FWUlYxRk1pU2pwY1EyX092aVhmYkdwNHJDRTQ0WTAyZFladVdGejYwNGV1YUJrcTdNR1ZNYzhXNVJxVkhkelpEVndoWE00cUh4c0xHQmRFVlAxWllBSWtodzhtaERBTnc5NnB1NkRDdFVsY2NkOWFzZjRVZUxMb1FCU2swTTM3aF9IZGU3a1dTeUpSblF2UFBlVWMxYkVxVVdZbk1nTjNTRTNvUVdvOWlqa1hkLTh5c0ctZEFKZC0yTDJseEQ3TExjSGktVF95c0NUekRDXzhSdndHNGRiMU9vNm13VFZfWWRmU2lYMEt5Z0FJZERBaXM3U0ZkZ3hMMmVZ?oc=5)
 
@@ -46,11 +62,11 @@ Source: [newscentermaine.com](https://news.google.com/rss/articles/CBMijwJBVV95c
 
 ---
 
-### [World Alzheimer’s Day 2026 The earlier you know, the more you can do : A dementia diagnosis matters - The Sangai Express](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb3pVUm5SQ0JQbWlUQUIxX3E5TUQxcG9Kbm81bXAwZkg2R3R6dHJtNV9ncmhfWmlRa0oxV29VVXNvYlMyMGR1NHVvU0dRX29OUWxjWFdFaHNwc2M3TU9Ra1ZDdG92WDd1YzlwLVVpOUdFc2xTYU9VYTBRQ1N2YUtEa0ExdldOd0pjdC14MHpZNWlfY3pPNEM4S09ERG9hcURWeGtQZUNMRkR0SHhEOEpxcGIzVFRKNGRWU2xkNlZUZFdDQTYybVpsMzhxMjJpODEwMDlfdnJRWlVGVTJkX0VSbTl6cVBvWHA5NVdGdVE4Z3J4d3F1SXVZ?oc=5)
+### [Popular Joint Supplement Glucosamine Linked to Faster Alzheimer’s Progression - The Indian Practitioner](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRzVwZHdoaHhaWFVpMC1oanFobm9KUWdMSkFLOUlJVUV5RDRwWWNoRC1Eam9vbldUV2VEanE2Z1lmMUROT0NiVS1zLWpweWYwaDRTdHhXZ3VibzFhdEp4RkMxTEFqZHM1T0ZONTVOYWxKcHVjYjhYX3I0U0tmOTRHdWM0dlhGbll5THRyTFRKRzdsRVg4cEozc2FJb3RwUjB3dGhuREV0aVJKX3dZZUpSRQ?oc=5)
 
-2026-09-27
+2026-09-28
 
-Source: [The Sangai Express](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb3pVUm5SQ0JQbWlUQUIxX3E5TUQxcG9Kbm81bXAwZkg2R3R6dHJtNV9ncmhfWmlRa0oxV29VVXNvYlMyMGR1NHVvU0dRX29OUWxjWFdFaHNwc2M3TU9Ra1ZDdG92WDd1YzlwLVVpOUdFc2xTYU9VYTBRQ1N2YUtEa0ExdldOd0pjdC14MHpZNWlfY3pPNEM4S09ERG9hcURWeGtQZUNMRkR0SHhEOEpxcGIzVFRKNGRWU2xkNlZUZFdDQTYybVpsMzhxMjJpODEwMDlfdnJRWlVGVTJkX0VSbTl6cVBvWHA5NVdGdVE4Z3J4d3F1SXVZ?oc=5)
+Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRzVwZHdoaHhaWFVpMC1oanFobm9KUWdMSkFLOUlJVUV5RDRwWWNoRC1Eam9vbldUV2VEanE2Z1lmMUROT0NiVS1zLWpweWYwaDRTdHhXZ3VibzFhdEp4RkMxTEFqZHM1T0ZONTVOYWxKcHVjYjhYX3I0U0tmOTRHdWM0dlhGbll5THRyTFRKRzdsRVg4cEozc2FJb3RwUjB3dGhuREV0aVJKX3dZZUpSRQ?oc=5)
 
 ---
 

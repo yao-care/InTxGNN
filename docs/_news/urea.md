@@ -30,11 +30,11 @@ This page combines the AI-predicted indications for Urea with the latest health 
 
 ## Related News (1)
 
-### [Decoding AI-identified biomarker](https://news.google.com/rss/articles/CBMibEFVX3lxTE84MWNSMmVWRmtHOTlBZXFUeHVTNkprdFVRQU1UaTg4dkxFODlKRHJLZFZJT2dXTVF6NklXNmxZUFFFdjBGZEtfSnUyMm5oWjAzOUpMdHNsemVSSy1LNGY0SUpFel9yU3hZa21FOA?oc=5)
+### [Decoding AI-identified biomarker - Medical Buyer](https://news.google.com/rss/articles/CBMibEFVX3lxTE84MWNSMmVWRmtHOTlBZXFUeHVTNkprdFVRQU1UaTg4dkxFODlKRHJLZFZJT2dXTVF6NklXNmxZUFFFdjBGZEtfSnUyMm5oWjAzOUpMdHNsemVSSy1LNGY0SUpFel9yU3hZa21FOA?oc=5)
 
 2026-09-28 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
 
-Source: [medicalbuyer.co.in](https://news.google.com/rss/articles/CBMibEFVX3lxTE84MWNSMmVWRmtHOTlBZXFUeHVTNkprdFVRQU1UaTg4dkxFODlKRHJLZFZJT2dXTVF6NklXNmxZUFFFdjBGZEtfSnUyMm5oWjAzOUpMdHNsemVSSy1LNGY0SUpFel9yU3hZa21FOA?oc=5)
+Source: [Medical Buyer](https://news.google.com/rss/articles/CBMibEFVX3lxTE84MWNSMmVWRmtHOTlBZXFUeHVTNkprdFVRQU1UaTg4dkxFODlKRHJLZFZJT2dXTVF6NklXNmxZUFFFdjBGZEtfSnUyMm5oWjAzOUpMdHNsemVSSy1LNGY0SUpFel9yU3hZa21FOA?oc=5)
 
 ---
 
