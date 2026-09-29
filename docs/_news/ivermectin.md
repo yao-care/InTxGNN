@@ -14,7 +14,7 @@ permalink: /news/ivermectin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ivermectin?">
-<strong>Ivermectin</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Ivermectin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Ivermectin with the latest h
 <p><a href="{{ '/drugs/ivermectin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Muscle Preservation Is Key in GLP-1 Therapy for Postmenopausal Women - Drug Topics](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG5mM3NNLWZDTnUzUWhTVjZFN0pZNUhMZ0gxX05OWVpBazZlZXg1OWxEQ1U0Q1BLNGhKc1QyQXlKVWRsOTkxaTBZVjRoYjZIQ0pwVlRjUHdxMG12ZjQyU2VxYXdMZmF1TlBTN25TVnlQcFhtSkt2ZnJTRDdBcWpBMm9DcUsxbHhyWGEwaTluRHpYWV9SaGRWOHNfSXhvaHVTOUE?oc=5)
-
-2026-09-25 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [Drug Topics](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG5mM3NNLWZDTnUzUWhTVjZFN0pZNUhMZ0gxX05OWVpBazZlZXg1OWxEQ1U0Q1BLNGhKc1QyQXlKVWRsOTkxaTBZVjRoYjZIQ0pwVlRjUHdxMG12ZjQyU2VxYXdMZmF1TlBTN25TVnlQcFhtSkt2ZnJTRDdBcWpBMm9DcUsxbHhyWGEwaTluRHpYWV9SaGRWOHNfSXhvaHVTOUE?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

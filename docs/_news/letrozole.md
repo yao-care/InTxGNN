@@ -14,7 +14,7 @@ permalink: /news/letrozole/
 ---
 
 <p class="key-answer" data-question="What news is there about Letrozole?">
-<strong>Letrozole</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Letrozole</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ This page combines the AI-predicted indications for Letrozole with the latest he
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
 
 ### [New NHS Genetic Test Can Identify Brain Tumour Type In 2 Hours During Surgery - Health and Me](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUkl2czhTMGdLWW1mYmRJeWF6TTNnRi1LdjJyLXowWndKby1aYzFBWnNsSGFRUDNSZnI1cTZQdFhqNEpPQks2SEpKSWVXU1R5MWM1UzhhWEdSa2FsTUV6cDZyQlpMbFE0YURuTXp0bG5rbUNYclFiOGR2OERXMkFyU2taRU9zSXhvVFAyTDhmVExuc1hidW16aERFcGpwRDBGUjNGdFh0ZFZ0WVczTVF3a3lYYXlZQ0JDdUt4YjJqWTJ1VkhybXgyVjlwY1hRUWVk?oc=5)
 
 2026-09-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">tumor</span>
 
 Source: [Health and Me](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUkl2czhTMGdLWW1mYmRJeWF6TTNnRi1LdjJyLXowWndKby1aYzFBWnNsSGFRUDNSZnI1cTZQdFhqNEpPQks2SEpKSWVXU1R5MWM1UzhhWEdSa2FsTUV6cDZyQlpMbFE0YURuTXp0bG5rbUNYclFiOGR2OERXMkFyU2taRU9zSXhvVFAyTDhmVExuc1hidW16aERFcGpwRDBGUjNGdFh0ZFZ0WVczTVF3a3lYYXlZQ0JDdUt4YjJqWTJ1VkhybXgyVjlwY1hRUWVk?oc=5)
+
+---
+
+### [Dr. Paterlini: Blood Test Finds Cancer Before Scans Can](https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXdRdUNMXzBIeDllbTQ1VWRiMDRlOG9paF82cERxQnpMVDVUMGtxQ0JISVNHRXRNb2JWbTdURkVQZ1Q3cE5DcHZxVHVvRDV3WEJZQl9sNkZMdThITmNIMW5CRDFaWlNrcWtIdzFhQ3dHSlEySnMtRzdaYlJJdm5WNXJwQ3psS3A3S3h5eDlPd3A0UQ?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cancer</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXdRdUNMXzBIeDllbTQ1VWRiMDRlOG9paF82cERxQnpMVDVUMGtxQ0JISVNHRXRNb2JWbTdURkVQZ1Q3cE5DcHZxVHVvRDV3WEJZQl9sNkZMdThITmNIMW5CRDFaWlNrcWtIdzFhQ3dHSlEySnMtRzdaYlJJdm5WNXJwQ3psS3A3S3h5eDlPd3A0UQ?oc=5)
 
 ---
 
@@ -79,22 +87,6 @@ Source: [Technology Networks](https://news.google.com/rss/articles/CBMiygFBVV95c
 2026-09-28 <span class="news-indication-tag">cancer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWm5LdUhhbnE4SXd0Wm1pNkZCMkJuYUlVaDRPSUE2ZmFYRmJjQ2x2UEVVbDFNQ0FIanE0V2xQRnJBOFpFVGU5cWpram93c1pvU0QtS1FiNTltZi1GWnA3aDlhUE5OdFZmUDBlMjJHT3B0WXd3TkFqWkstY1diTWRBXzhNOXRlT2JiTXBfVXFZVk1rUEk0bk90N3M4Q1VXN01GSjl6cGJRbUhuaVRZV1hVSTJkZEtTclZHVVYyUFl5VTJLdElx?oc=5)
-
----
-
-### [cfDNA Methylation Signals Breast Cancer Risk Years Before Clinical Diagnosis](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NR0ZCXzhMYVJteUJIUi0xRWRrSFpZeXJvV2NheVItRUNvSHJyVDVxTE8xODluWEhaNXVBWUg2V2w3MjJLZTVZX0tfSEZEbk9URzJqWUp3UUZ3TmoxZDcxbWVlNHJVQQ?oc=5)
-
-2026-09-27 <span class="news-indication-tag">cancer</span>
-
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NR0ZCXzhMYVJteUJIUi0xRWRrSFpZeXJvV2NheVItRUNvSHJyVDVxTE8xODluWEhaNXVBWUg2V2w3MjJLZTVZX0tfSEZEbk9URzJqWUp3UUZ3TmoxZDcxbWVlNHJVQQ?oc=5)
-
----
-
-### [Muscle Preservation Is Key in GLP-1 Therapy for Postmenopausal Women - Drug Topics](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG5mM3NNLWZDTnUzUWhTVjZFN0pZNUhMZ0gxX05OWVpBazZlZXg1OWxEQ1U0Q1BLNGhKc1QyQXlKVWRsOTkxaTBZVjRoYjZIQ0pwVlRjUHdxMG12ZjQyU2VxYXdMZmF1TlBTN25TVnlQcFhtSkt2ZnJTRDdBcWpBMm9DcUsxbHhyWGEwaTluRHpYWV9SaGRWOHNfSXhvaHVTOUE?oc=5)
-
-2026-09-25 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [Drug Topics](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG5mM3NNLWZDTnUzUWhTVjZFN0pZNUhMZ0gxX05OWVpBazZlZXg1OWxEQ1U0Q1BLNGhKc1QyQXlKVWRsOTkxaTBZVjRoYjZIQ0pwVlRjUHdxMG12ZjQyU2VxYXdMZmF1TlBTN25TVnlQcFhtSkt2ZnJTRDdBcWpBMm9DcUsxbHhyWGEwaTluRHpYWV9SaGRWOHNfSXhvaHVTOUE?oc=5)
 
 ---
 

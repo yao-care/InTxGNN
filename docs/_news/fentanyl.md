@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Fentanyl with the latest hea
 
 ## Related News (1)
 
-### [Study Looks at Patient Experiences With Sedative Contaminating Fentanyl](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmNDLTh4bGpsY3VBZmRHbl9pYTRvTWhvRzQ0TDBxSjhKMXdxLXZsVGNDaU9CQml0SUtYWGpUdlJOWTUzOVF6NHBESUpIUndTRkZMcXlUMjNlU3hwaGg1VVRhMTdEaGhVWGx3OFdNd3BwLVhiVXIwZG9zX1FHbG94Mm9BMVozdFg4TE9RN3BYR0FZTVhTRVdoYmZ4X29ibmRfeDlvaWRIWmZCaUZ5MlVtWQ?oc=5)
+### [Study Looks at Patient Experiences With Sedative Contaminating Fentanyl - Psychiatry Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmNDLTh4bGpsY3VBZmRHbl9pYTRvTWhvRzQ0TDBxSjhKMXdxLXZsVGNDaU9CQml0SUtYWGpUdlJOWTUzOVF6NHBESUpIUndTRkZMcXlUMjNlU3hwaGg1VVRhMTdEaGhVWGx3OFdNd3BwLVhiVXIwZG9zX1FHbG94Mm9BMVozdFg4TE9RN3BYR0FZTVhTRVdoYmZ4X29ibmRfeDlvaWRIWmZCaUZ5MlVtWQ?oc=5)
 
 2026-09-28 <span class="news-drug-tag">Fentanyl</span>
 
-Source: [psychiatryadvisor.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmNDLTh4bGpsY3VBZmRHbl9pYTRvTWhvRzQ0TDBxSjhKMXdxLXZsVGNDaU9CQml0SUtYWGpUdlJOWTUzOVF6NHBESUpIUndTRkZMcXlUMjNlU3hwaGg1VVRhMTdEaGhVWGx3OFdNd3BwLVhiVXIwZG9zX1FHbG94Mm9BMVozdFg4TE9RN3BYR0FZTVhTRVdoYmZ4X29ibmRfeDlvaWRIWmZCaUZ5MlVtWQ?oc=5)
+Source: [Psychiatry Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmNDLTh4bGpsY3VBZmRHbl9pYTRvTWhvRzQ0TDBxSjhKMXdxLXZsVGNDaU9CQml0SUtYWGpUdlJOWTUzOVF6NHBESUpIUndTRkZMcXlUMjNlU3hwaGg1VVRhMTdEaGhVWGx3OFdNd3BwLVhiVXIwZG9zX1FHbG94Mm9BMVozdFg4TE9RN3BYR0FZTVhTRVdoYmZ4X29ibmRfeDlvaWRIWmZCaUZ5MlVtWQ?oc=5)
 
 ---
 

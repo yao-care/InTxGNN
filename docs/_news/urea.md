@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ This page combines the AI-predicted indications for Urea with the latest health 
 <p><a href="{{ '/drugs/urea/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Decoding AI-identified biomarker](https://news.google.com/rss/articles/CBMibEFVX3lxTE84MWNSMmVWRmtHOTlBZXFUeHVTNkprdFVRQU1UaTg4dkxFODlKRHJLZFZJT2dXTVF6NklXNmxZUFFFdjBGZEtfSnUyMm5oWjAzOUpMdHNsemVSSy1LNGY0SUpFel9yU3hZa21FOA?oc=5)
+
+2026-09-28 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+
+Source: [medicalbuyer.co.in](https://news.google.com/rss/articles/CBMibEFVX3lxTE84MWNSMmVWRmtHOTlBZXFUeHVTNkprdFVRQU1UaTg4dkxFODlKRHJLZFZJT2dXTVF6NklXNmxZUFFFdjBGZEtfSnUyMm5oWjAzOUpMdHNsemVSSy1LNGY0SUpFel9yU3hZa21FOA?oc=5)
+
+---
 
 
 <div class="disclaimer">

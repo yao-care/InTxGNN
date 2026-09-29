@@ -31,11 +31,11 @@ This page brings together the latest health news about “dama” and lists the 
 
 ## Related News (1)
 
-### [Rotary Club Observes World Rabies Day Observed in Sri Vijaya Puram - Andaman Chronicle](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcG04ZkY0S3hjSU9TeGtWdVcxOVFzWVhRa3JjcU1JM280UUJmWi01bnJlbEs5MmN2dFAwUkpPQW5Hems1OUg5R2ZDakt3VWVXWm9xTlMyc3JpYmk2NURjMFFJY2pBbXlUemRFanFBckQ1QUxQc01Pc3pFR1BDWDFwWWd3YVRQcnl6UW5jR2ltWHc3NVZUcWw2MG1fZmg?oc=5)
+### [AH&VS Observes World Rabies Day with the Theme ‘Stronger Together’ - Andaman Chronicle](https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3lIeUVNUzdiQXJJRWNJSDRlSDE5UHRFdlJDNUVnaGFSTlR3bHpyeXJqbk5rYVVYTUZoRTh6NEVHdEljS25iLTYyOWdrV3hJM0UtTGpDd2N3YjI5Z0lsYURxRXNOZVhFTGJaRGJxM1AyclF4THJ2NmF5cy1SZnFES0hSNnJERm5RTmpPYmhvUkRPVTdZVHlvaQ?oc=5)
 
 2026-09-28
 
-Source: [Andaman Chronicle](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcG04ZkY0S3hjSU9TeGtWdVcxOVFzWVhRa3JjcU1JM280UUJmWi01bnJlbEs5MmN2dFAwUkpPQW5Hems1OUg5R2ZDakt3VWVXWm9xTlMyc3JpYmk2NURjMFFJY2pBbXlUemRFanFBckQ1QUxQc01Pc3pFR1BDWDFwWWd3YVRQcnl6UW5jR2ltWHc3NVZUcWw2MG1fZmg?oc=5)
+Source: [Andaman Chronicle](https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3lIeUVNUzdiQXJJRWNJSDRlSDE5UHRFdlJDNUVnaGFSTlR3bHpyeXJqbk5rYVVYTUZoRTh6NEVHdEljS25iLTYyOWdrV3hJM0UtTGpDd2N3YjI5Z0lsYURxRXNOZVhFTGJaRGJxM1AyclF4THJ2NmF5cy1SZnFES0hSNnJERm5RTmpPYmhvUkRPVTdZVHlvaQ?oc=5)
 
 ---
 

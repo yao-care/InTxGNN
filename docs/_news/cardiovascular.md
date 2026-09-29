@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -59,29 +59,21 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
+
+### [From wrist to research: Harnessing smartwatch data for equitable cardiovascular research](https://news.google.com/rss/articles/CBMihAFBVV95cUxOalVUSTAxckpvVHpqamJCbVU4dmRhQWV6MldXUkRtUWdwcjlGcE1Oa3V4WW9NZVI2M3RDeHdnemdLR0V2Tl8zVGZYTE9XOVFXeV9oNXNTSVJYTXJQdTQyaVh2ZHBXMWhaSHBMdHpPcGNOaF9PM0hzSUcxRktEYjdNZDVpc1o?oc=5)
+
+2026-09-28
+
+Source: [journals.plos.org](https://news.google.com/rss/articles/CBMihAFBVV95cUxOalVUSTAxckpvVHpqamJCbVU4dmRhQWV6MldXUkRtUWdwcjlGcE1Oa3V4WW9NZVI2M3RDeHdnemdLR0V2Tl8zVGZYTE9XOVFXeV9oNXNTSVJYTXJQdTQyaVh2ZHBXMWhaSHBMdHpPcGNOaF9PM0hzSUcxRktEYjdNZDVpc1o?oc=5)
+
+---
 
 ### [Conference MDAngle: HFSA 2026 Amyloidosis/ATTR-CM](https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXJkMldaM0s0TjJJYVBEY0JuSklXSHNWNkpIVEhVRGlzV2c0N3F4RXFheFVDdFdDN2NfSXpQRTMzU2VFWDJwY3JNQVBEV0JvR1g1WmpGRHRXeWRySndMMDFrV1dsZENCN1pMbV8tcms1RHRTeDVIczhyQk9pd3IyYkpFaFd0ME5pWl9GV2k2QTNXdldSQ0JETFN2c0ZSbkVPcXV3?oc=5)
 
 2026-09-28
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXJkMldaM0s0TjJJYVBEY0JuSklXSHNWNkpIVEhVRGlzV2c0N3F4RXFheFVDdFdDN2NfSXpQRTMzU2VFWDJwY3JNQVBEV0JvR1g1WmpGRHRXeWRySndMMDFrV1dsZENCN1pMbV8tcms1RHRTeDVIczhyQk9pd3IyYkpFaFd0ME5pWl9GV2k2QTNXdldSQ0JETFN2c0ZSbkVPcXV3?oc=5)
-
----
-
-### [The next phase of cardiac care is rehabilitation at home](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZURkVVpMNFY5VWp5MUwxZDczUnprLWNtT2JzeHZGVmFkdW9UbjJqZFBTdTh5bFROaXQxWWh1cUhWajRzVEEtSmNnVFJWeEhRSXptbE5zQW1XemVRLTdnX0J2MjNxMlRrdGRucDZwbkd5UGp4T0U2RVc4UF9vUWlXbHNfdmFOWnB4ZUJEVFZTMGNQMjg4Zi1fMEg4RkoyYmxKUXFCeQ?oc=5)
-
-2026-09-28
-
-Source: [expresshealthcare.in](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZURkVVpMNFY5VWp5MUwxZDczUnprLWNtT2JzeHZGVmFkdW9UbjJqZFBTdTh5bFROaXQxWWh1cUhWajRzVEEtSmNnVFJWeEhRSXptbE5zQW1XemVRLTdnX0J2MjNxMlRrdGRucDZwbkd5UGp4T0U2RVc4UF9vUWlXbHNfdmFOWnB4ZUJEVFZTMGNQMjg4Zi1fMEg4RkoyYmxKUXFCeQ?oc=5)
-
----
-
-### [Physical decline may precede major cardiovascular events by a decade: study](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BcEg1YkR0TXV6YllZXzhPTDNWRnllQ1FQUVc1dWJEQXJOUERPRUE0N2o4X2RteWZRQ2tQOEtyUmtsSHZaSUJKZm9kemN1M2FtcE1OLW9yT21xaVV5bEFuUzgwZ0c2SWR2VkhoT09xNVBES1d5NzgzRXhMT1U?oc=5)
-
-2026-09-28
-
-Source: [Xinhua](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BcEg1YkR0TXV6YllZXzhPTDNWRnllQ1FQUVc1dWJEQXJOUERPRUE0N2o4X2RteWZRQ2tQOEtyUmtsSHZaSUJKZm9kemN1M2FtcE1OLW9yT21xaVV5bEFuUzgwZ0c2SWR2VkhoT09xNVBES1d5NzgzRXhMT1U?oc=5)
 
 ---
 
