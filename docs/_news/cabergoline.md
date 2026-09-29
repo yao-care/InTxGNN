@@ -37,11 +37,27 @@ This page combines the AI-predicted indications for Cabergoline with the latest 
 
 ## Related News (8)
 
+### [India accounts for 20% of world’s childhood cancers: Jipmer - The Times of India](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdXpLWlcxUDR5eXVsZEltR2ZWN3NBczFSUXNiMWRkNWF5N3kwZzZMVktqT1RSWi14ZkJZdHNTQlBxcGRyVTVtMVJKNE9rUTJkOE5ZeXI2Q3FJSnZSdUQ5WHdMbnJ1MVJHVjNDLUlWT0cxTXoxV2UyVVBPNWlaUlM5Umt2RFdSNmpJNWQtQUtsZml3Q3B0MkpuT3gxYUdZNWpieHliODNPQndrb1IzSWtFenZMQjJzZS11NUI5N0pqVzVCZlBFcFJiRlJHTWIwdlHSAdQBQVVfeXFMTTBCeGdMbEo3OElLNU1rZjZKSGxCdm05bjZvbHlNc0RGRVNUUWZEeVZwUWNpZnROQV9ka3FkdmlKRXdaUzZJaEtVc0FXalJ4LU1hQ0owTkd3TWRXZ2xsVmI1VXhqNE5IS1hURTE1WWlBWU9kVjBhLWs0Zk5xZTVzalhkaFZOT3ZCNHQwV0NpYU15dUNLYWFxNnE2Y2RYWU9OanhYXy1fUFBqN01iWUVTNFNrdnZVQ1Y5dEhVMUpuTG9MQjJPMXE5Z0hBSm1MMU5rbmNUWEs?oc=5)
+
+2026-09-29 <span class="news-indication-tag">cancer</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdXpLWlcxUDR5eXVsZEltR2ZWN3NBczFSUXNiMWRkNWF5N3kwZzZMVktqT1RSWi14ZkJZdHNTQlBxcGRyVTVtMVJKNE9rUTJkOE5ZeXI2Q3FJSnZSdUQ5WHdMbnJ1MVJHVjNDLUlWT0cxTXoxV2UyVVBPNWlaUlM5Umt2RFdSNmpJNWQtQUtsZml3Q3B0MkpuT3gxYUdZNWpieHliODNPQndrb1IzSWtFenZMQjJzZS11NUI5N0pqVzVCZlBFcFJiRlJHTWIwdlHSAdQBQVVfeXFMTTBCeGdMbEo3OElLNU1rZjZKSGxCdm05bjZvbHlNc0RGRVNUUWZEeVZwUWNpZnROQV9ka3FkdmlKRXdaUzZJaEtVc0FXalJ4LU1hQ0owTkd3TWRXZ2xsVmI1VXhqNE5IS1hURTE1WWlBWU9kVjBhLWs0Zk5xZTVzalhkaFZOT3ZCNHQwV0NpYU15dUNLYWFxNnE2Y2RYWU9OanhYXy1fUFBqN01iWUVTNFNrdnZVQ1Y5dEhVMUpuTG9MQjJPMXE5Z0hBSm1MMU5rbmNUWEs?oc=5)
+
+---
+
 ### [Allen Chen at COGC 2026: The New Era of Tumor-Agnostic Cancer Therapy](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rSC1QZEtwQjNoWlNUdk5TVVNhLTJ6WEFsTVVWdWM5bk8wM1BNUzViZFZHdVQteVBsTUxTUGFHTWp3TzllNk5WUGttTUZodEg5a0R1ckVHREVpNk9hM0E?oc=5)
 
 2026-09-29 <span class="news-indication-tag">cancer</span>
 
 Source: [Oncodaily](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rSC1QZEtwQjNoWlNUdk5TVVNhLTJ6WEFsTVVWdWM5bk8wM1BNUzViZFZHdVQteVBsTUxTUGFHTWp3TzllNk5WUGttTUZodEg5a0R1ckVHREVpNk9hM0E?oc=5)
+
+---
+
+### [A new chapter in targeting kinase enzymes in cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TVE5zVGJ1UE1TZWhkMTdIenBlRDdGdUd3ZW04bzJUb19kRXNZU1FGM3oyaWJMejI3VVRYVzZkTjBiN3JhZmk1T3hsTXhGRWlNMG1WVVZpcWFXTmhUVkFF?oc=5)
+
+2026-09-29 <span class="news-indication-tag">cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TVE5zVGJ1UE1TZWhkMTdIenBlRDdGdUd3ZW04bzJUb19kRXNZU1FGM3oyaWJMejI3VVRYVzZkTjBiN3JhZmk1T3hsTXhGRWlNMG1WVVZpcWFXTmhUVkFF?oc=5)
 
 ---
 
@@ -77,27 +93,11 @@ Source: [Health and Me](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUkl
 
 ---
 
-### [Jipmer holds childhood cancer awareness programme - The Hindu](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdW9za0p4SmNYbnZnWWFCMzVqTTQxQ3BaVHMtX1BmNGpCVzNpRHZsYlRCRVM4NTd0RFV0ejVsYXV1c3g2aVZyeFdJcU1hTWJoUC0yX0tlZ3dycVRGcmotczNPNUNVdG1NOTJkQVFoYTVjQ0Q0UERIc0otRDdXZXFyUlcwMEo2NElzeFI5Y25UVzVXSndfaWRUVW5rOTVaWWZGUXVCYTd6RVJ6dFlxNlduSHRacHhrLWxI0gG_AUFVX3lxTFBBMUJvODZZVmFUWmdSYW5hdXByNUJGalN3NkFKVEx6RjdKYlM5QU05d2UwWF8xdzZUSlh3dWxQTWtVM0d6TXAxaGR5UWxuTEFjZTZhdzFwUjdQemZtNVpJM0l0aVU5eVZDeThWMUhjQUtwQlVWLVZRM1hDaENXOVdlUENFR3A2Z0plTUozU1VRNHhlMDFYdHJUU2FsZlRCMm5hMW1qYnZkTTRRQWRJa2x0N2tBY3dIT21wNWZfZ0lj?oc=5)
-
-2026-09-28 <span class="news-indication-tag">cancer</span>
-
-Source: [The Hindu](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdW9za0p4SmNYbnZnWWFCMzVqTTQxQ3BaVHMtX1BmNGpCVzNpRHZsYlRCRVM4NTd0RFV0ejVsYXV1c3g2aVZyeFdJcU1hTWJoUC0yX0tlZ3dycVRGcmotczNPNUNVdG1NOTJkQVFoYTVjQ0Q0UERIc0otRDdXZXFyUlcwMEo2NElzeFI5Y25UVzVXSndfaWRUVW5rOTVaWWZGUXVCYTd6RVJ6dFlxNlduSHRacHhrLWxI0gG_AUFVX3lxTFBBMUJvODZZVmFUWmdSYW5hdXByNUJGalN3NkFKVEx6RjdKYlM5QU05d2UwWF8xdzZUSlh3dWxQTWtVM0d6TXAxaGR5UWxuTEFjZTZhdzFwUjdQemZtNVpJM0l0aVU5eVZDeThWMUhjQUtwQlVWLVZRM1hDaENXOVdlUENFR3A2Z0plTUozU1VRNHhlMDFYdHJUU2FsZlRCMm5hMW1qYnZkTTRRQWRJa2x0N2tBY3dIT21wNWZfZ0lj?oc=5)
-
----
-
 ### [Personalized Cancer Vaccines: What Challenges Remain?](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmgycnpvTmszdUcyR0t3bTFqLU9oaUVWM0gzQUVpaHJsNlpnRFducTQ3TUFQVGtMcGprUVhLR2FBZ2V2R2tDaEZseF9xWGwyRTNrcWJyUGVWcGFGdng5UkpLcEFacG1WVlVGQXFDMk5mZHJuOGE2Y2ZZTG1vaF9BaHhzZHcwTzloUlJuZVBRYUpHUmdubXJwZVJkMzBsR1BmRzNj?oc=5)
 
 2026-09-28 <span class="news-indication-tag">cancer</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmgycnpvTmszdUcyR0t3bTFqLU9oaUVWM0gzQUVpaHJsNlpnRFducTQ3TUFQVGtMcGprUVhLR2FBZ2V2R2tDaEZseF9xWGwyRTNrcWJyUGVWcGFGdng5UkpLcEFacG1WVlVGQXFDMk5mZHJuOGE2Y2ZZTG1vaF9BaHhzZHcwTzloUlJuZVBRYUpHUmdubXJwZVJkMzBsR1BmRzNj?oc=5)
-
----
-
-### [Lung cancer deaths down 16% with low-dose CT screening: IARC - The Times of India](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWm5LdUhhbnE4SXd0Wm1pNkZCMkJuYUlVaDRPSUE2ZmFYRmJjQ2x2UEVVbDFNQ0FIanE0V2xQRnJBOFpFVGU5cWpram93c1pvU0QtS1FiNTltZi1GWnA3aDlhUE5OdFZmUDBlMjJHT3B0WXd3TkFqWkstY1diTWRBXzhNOXRlT2JiTXBfVXFZVk1rUEk0bk90N3M4Q1VXN01GSjl6cGJRbUhuaVRZV1hVSTJkZEtTclZHVVYyUFl5VTJLdElx?oc=5)
-
-2026-09-28 <span class="news-indication-tag">cancer</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWm5LdUhhbnE4SXd0Wm1pNkZCMkJuYUlVaDRPSUE2ZmFYRmJjQ2x2UEVVbDFNQ0FIanE0V2xQRnJBOFpFVGU5cWpram93c1pvU0QtS1FiNTltZi1GWnA3aDlhUE5OdFZmUDBlMjJHT3B0WXd3TkFqWkstY1diTWRBXzhNOXRlT2JiTXBfVXFZVk1rUEk0bk90N3M4Q1VXN01GSjl6cGJRbUhuaVRZV1hVSTJkZEtTclZHVVYyUFl5VTJLdElx?oc=5)
 
 ---
 

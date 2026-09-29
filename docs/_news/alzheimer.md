@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 5 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 4 articles, 8 related drugs."
 permalink: /news/alzheimer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,45 +36,37 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Even light drinking may harm brain health, new research suggests - Scripps News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTNlZERsYUFDS1dCbU5mOUJlRnhIY2FNRHh6V0JkSl9mdDMyTVlYSkZOWF9seGxTWFlVLXBKbWRRRDZCZF8wWG1FSTJmaEo2VkR5SjNJbVZCVEdZTU5peTZ6LXNCbHpiakpsdUNOYVg3cS1nZWxDMHFpd1FpVTVhdG1DeDhKYmlIR1QtR2N3cVVqQ3hCcFlib19sRXEwdTQ?oc=5)
-
-2026-09-29
-
-Source: [Scripps News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTNlZERsYUFDS1dCbU5mOUJlRnhIY2FNRHh6V0JkSl9mdDMyTVlYSkZOWF9seGxTWFlVLXBKbWRRRDZCZF8wWG1FSTJmaEo2VkR5SjNJbVZCVEdZTU5peTZ6LXNCbHpiakpsdUNOYVg3cS1nZWxDMHFpd1FpVTVhdG1DeDhKYmlIR1QtR2N3cVVqQ3hCcFlib19sRXEwdTQ?oc=5)
-
----
-
-### [Low-Dose Aspirin May Cut Dementia Risk By 70 Per Cent, Genetic Study Suggests](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmN6QUgxMjQyNTJvRERJeVRPcDJtUVE4eHZ6VVNHOUF5d3h1dVUtVENnWnNWT09ZV3RCN244ZmhHd3YzQ3NpY2tweG8tVkFGQ05xN0dIY2ZzdVBRM2d6eDh0alVTMTRMdnpZNEZQWEhKRU5oaW9wQTNMMGlaQnZxZHJjWlM2dUt6MldodDRTQ1YzcnNHNnI2SWNyeWJxejdMWWpRZnktU2FDanUxZC00X0ZLMA?oc=5)
+### [Alcohol and the Brain; The Next Alzheimer's Frontier; Mice With Human Brain Cells - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE1tS0ktejlCVFZzRnFaM0Z0UGlQamhCWEU5THRHTm5MN21GZlJlM3BxWGdBS2JPSTJMVDdTWklFd3A1a2F6VkhyQ1owLWNoc3BmVTZNSlByWEhUT1BhbjcxeFFxVnItdjZPc3lWRm9XVQ?oc=5)
 
 2026-09-29
 
-Source: [NDTV](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmN6QUgxMjQyNTJvRERJeVRPcDJtUVE4eHZ6VVNHOUF5d3h1dVUtVENnWnNWT09ZV3RCN244ZmhHd3YzQ3NpY2tweG8tVkFGQ05xN0dIY2ZzdVBRM2d6eDh0alVTMTRMdnpZNEZQWEhKRU5oaW9wQTNMMGlaQnZxZHJjWlM2dUt6MldodDRTQ1YzcnNHNnI2SWNyeWJxejdMWWpRZnktU2FDanUxZC00X0ZLMA?oc=5)
+Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE1tS0ktejlCVFZzRnFaM0Z0UGlQamhCWEU5THRHTm5MN21GZlJlM3BxWGdBS2JPSTJMVDdTWklFd3A1a2F6VkhyQ1owLWNoc3BmVTZNSlByWEhUT1BhbjcxeFFxVnItdjZPc3lWRm9XVQ?oc=5)
 
 ---
 
-### [Insomnia puts the brain at risk for stroke, hospitalisation, and even suicidal behaviour](https://news.google.com/rss/articles/CBMinwFBVV95cUxOajh6N0tNeEFhb1lNalkybmtBcjIxelVvRWhSZ0N3eF9mMS1rSEdIbC0xQUdJOXVNSEp5UURBQjFNU1lqa3RiSVlmSi1xZWhBTXF0b19YbFM3NG1DejRqVnJaZG95UkdISTA3R29zNXZZY2dKUW5DUWJCNFpKR0FXdWJ3VFdfMjhJb2RfYktWMUlPLW03bVVyblQwRHpTWGfSAaQBQVVfeXFMTlFCXzFJbUxWeHphQlIxMkVodmwzeWtQa1oxQlZKajZrTllBeHFqZ0NZcjJWY29md1N6WkRERW9BUW04SW01emgtOTk0bkhMUVExNlZ5UHh1Z3dUbm1nXzQxa1FPRFd4ZmhlSmgwaXg1T19jb2dXX0FxRlRDNEoyMXBrSlRmd2pIUGlGTUxvb3JrTjVzMXZOSUsyWE9aZWhPNEdfRjg?oc=5)
+### [Genetic analysis reveals potential benefit of aspirin for reducing dementia risk - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlF5bjl6OGtYRUh1OTJjOGs4Zy0xam16X05ReHJSWGJ5Yzg2Z0R6S1JFWlhMT0l3TmVnVmZQVFJJUXRQNWY5LXdWN3hvV0xkcGNlaDJkLXFXUkFpekVKYTB5VEpCZHB3MzRhRVhoYnRwVzY2YkE4WFFKOURSY0tpVDBfYmgzX3Z6d0RGdE1oOA?oc=5)
 
 2026-09-29
 
-Source: [ThePrint](https://news.google.com/rss/articles/CBMinwFBVV95cUxOajh6N0tNeEFhb1lNalkybmtBcjIxelVvRWhSZ0N3eF9mMS1rSEdIbC0xQUdJOXVNSEp5UURBQjFNU1lqa3RiSVlmSi1xZWhBTXF0b19YbFM3NG1DejRqVnJaZG95UkdISTA3R29zNXZZY2dKUW5DUWJCNFpKR0FXdWJ3VFdfMjhJb2RfYktWMUlPLW03bVVyblQwRHpTWGfSAaQBQVVfeXFMTlFCXzFJbUxWeHphQlIxMkVodmwzeWtQa1oxQlZKajZrTllBeHFqZ0NZcjJWY29md1N6WkRERW9BUW04SW01emgtOTk0bkhMUVExNlZ5UHh1Z3dUbm1nXzQxa1FPRFd4ZmhlSmgwaXg1T19jb2dXX0FxRlRDNEoyMXBrSlRmd2pIUGlGTUxvb3JrTjVzMXZOSUsyWE9aZWhPNEdfRjg?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlF5bjl6OGtYRUh1OTJjOGs4Zy0xam16X05ReHJSWGJ5Yzg2Z0R6S1JFWlhMT0l3TmVnVmZQVFJJUXRQNWY5LXdWN3hvV0xkcGNlaDJkLXFXUkFpekVKYTB5VEpCZHB3MzRhRVhoYnRwVzY2YkE4WFFKOURSY0tpVDBfYmgzX3Z6d0RGdE1oOA?oc=5)
 
 ---
 
-### [World Alzheimer's Day 2026 : The earlier you know, the more you can do - A dementia diagnosis matters -](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
-
-2026-09-29
-
-Source: [e-pao.net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
-
----
-
-### [Her Alzheimer’s diagnosis took 2 years. New blood tests might help others get answers sooner](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRHNqbmgzWm81c0gyb2FWUlYxRk1pU2pwY1EyX092aVhmYkdwNHJDRTQ0WTAyZFladVdGejYwNGV1YUJrcTdNR1ZNYzhXNVJxVkhkelpEVndoWE00cUh4c0xHQmRFVlAxWllBSWtodzhtaERBTnc5NnB1NkRDdFVsY2NkOWFzZjRVZUxMb1FCU2swTTM3aF9IZGU3a1dTeUpSblF2UFBlVWMxYkVxVVdZbk1nTjNTRTNvUVdvOWlqa1hkLTh5c0ctZEFKZC0yTDJseEQ3TExjSGktVF95c0NUekRDXzhSdndHNGRiMU9vNm13VFZfWWRmU2lYMEt5Z0FJZERBaXM3U0ZkZ3hMMmVZ?oc=5)
+### [The Age You Reach Menopause May Be Linked to Your Future Brain Health, 18-Year Study Finds](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
 
 2026-09-28
 
-Source: [newscentermaine.com](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRHNqbmgzWm81c0gyb2FWUlYxRk1pU2pwY1EyX092aVhmYkdwNHJDRTQ0WTAyZFladVdGejYwNGV1YUJrcTdNR1ZNYzhXNVJxVkhkelpEVndoWE00cUh4c0xHQmRFVlAxWllBSWtodzhtaERBTnc5NnB1NkRDdFVsY2NkOWFzZjRVZUxMb1FCU2swTTM3aF9IZGU3a1dTeUpSblF2UFBlVWMxYkVxVVdZbk1nTjNTRTNvUVdvOWlqa1hkLTh5c0ctZEFKZC0yTDJseEQ3TExjSGktVF95c0NUekRDXzhSdndHNGRiMU9vNm13VFZfWWRmU2lYMEt5Z0FJZERBaXM3U0ZkZ3hMMmVZ?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
+
+---
+
+### [Insomnia linked to increased risk of stroke and hospital admissions](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjY2b0d0OHJiTXhDemFzbmJ3VXBOa3JVamZRaGpHNEtNbzlJbXpPLXU3MnJ2akQzTzlHYm5IM3F4eVJnVUQtSnliZ3R5QUZPSnhubjFrRE51eHhJRFNWT2ZHZUJsbmROY05WZnViRjhXR2I4VUt6X3pVQjd5Q2xzaE83UFh6WnBWMnhEVHk0NXo1UGVHbHdOOGxWbmszdHVPeW5BT2ZvckNjTGFCUW5vX2dYTGprZw?oc=5)
+
+2026-09-28
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjY2b0d0OHJiTXhDemFzbmJ3VXBOa3JVamZRaGpHNEtNbzlJbXpPLXU3MnJ2akQzTzlHYm5IM3F4eVJnVUQtSnliZ3R5QUZPSnhubjFrRE51eHhJRFNWT2ZHZUJsbmROY05WZnViRjhXR2I4VUt6X3pVQjd5Q2xzaE83UFh6WnBWMnhEVHk0NXo1UGVHbHdOOGxWbmszdHVPeW5BT2ZvckNjTGFCUW5vX2dYTGprZw?oc=5)
 
 ---
 

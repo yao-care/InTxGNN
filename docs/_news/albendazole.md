@@ -14,7 +14,7 @@ permalink: /news/albendazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
+<strong>Albendazole</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (12)
 
-### [Even light drinking may harm brain health, new research suggests - Scripps News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTNlZERsYUFDS1dCbU5mOUJlRnhIY2FNRHh6V0JkSl9mdDMyTVlYSkZOWF9seGxTWFlVLXBKbWRRRDZCZF8wWG1FSTJmaEo2VkR5SjNJbVZCVEdZTU5peTZ6LXNCbHpiakpsdUNOYVg3cS1nZWxDMHFpd1FpVTVhdG1DeDhKYmlIR1QtR2N3cVVqQ3hCcFlib19sRXEwdTQ?oc=5)
+### [Alcohol and the Brain; The Next Alzheimer's Frontier; Mice With Human Brain Cells - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE1tS0ktejlCVFZzRnFaM0Z0UGlQamhCWEU5THRHTm5MN21GZlJlM3BxWGdBS2JPSTJMVDdTWklFd3A1a2F6VkhyQ1owLWNoc3BmVTZNSlByWEhUT1BhbjcxeFFxVnItdjZPc3lWRm9XVQ?oc=5)
 
 2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [Scripps News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTNlZERsYUFDS1dCbU5mOUJlRnhIY2FNRHh6V0JkSl9mdDMyTVlYSkZOWF9seGxTWFlVLXBKbWRRRDZCZF8wWG1FSTJmaEo2VkR5SjNJbVZCVEdZTU5peTZ6LXNCbHpiakpsdUNOYVg3cS1nZWxDMHFpd1FpVTVhdG1DeDhKYmlIR1QtR2N3cVVqQ3hCcFlib19sRXEwdTQ?oc=5)
+Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE1tS0ktejlCVFZzRnFaM0Z0UGlQamhCWEU5THRHTm5MN21GZlJlM3BxWGdBS2JPSTJMVDdTWklFd3A1a2F6VkhyQ1owLWNoc3BmVTZNSlByWEhUT1BhbjcxeFFxVnItdjZPc3lWRm9XVQ?oc=5)
+
+---
+
+### [India accounts for 20% of world’s childhood cancers: Jipmer - The Times of India](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdXpLWlcxUDR5eXVsZEltR2ZWN3NBczFSUXNiMWRkNWF5N3kwZzZMVktqT1RSWi14ZkJZdHNTQlBxcGRyVTVtMVJKNE9rUTJkOE5ZeXI2Q3FJSnZSdUQ5WHdMbnJ1MVJHVjNDLUlWT0cxTXoxV2UyVVBPNWlaUlM5Umt2RFdSNmpJNWQtQUtsZml3Q3B0MkpuT3gxYUdZNWpieHliODNPQndrb1IzSWtFenZMQjJzZS11NUI5N0pqVzVCZlBFcFJiRlJHTWIwdlHSAdQBQVVfeXFMTTBCeGdMbEo3OElLNU1rZjZKSGxCdm05bjZvbHlNc0RGRVNUUWZEeVZwUWNpZnROQV9ka3FkdmlKRXdaUzZJaEtVc0FXalJ4LU1hQ0owTkd3TWRXZ2xsVmI1VXhqNE5IS1hURTE1WWlBWU9kVjBhLWs0Zk5xZTVzalhkaFZOT3ZCNHQwV0NpYU15dUNLYWFxNnE2Y2RYWU9OanhYXy1fUFBqN01iWUVTNFNrdnZVQ1Y5dEhVMUpuTG9MQjJPMXE5Z0hBSm1MMU5rbmNUWEs?oc=5)
+
+2026-09-29 <span class="news-indication-tag">cancer</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdXpLWlcxUDR5eXVsZEltR2ZWN3NBczFSUXNiMWRkNWF5N3kwZzZMVktqT1RSWi14ZkJZdHNTQlBxcGRyVTVtMVJKNE9rUTJkOE5ZeXI2Q3FJSnZSdUQ5WHdMbnJ1MVJHVjNDLUlWT0cxTXoxV2UyVVBPNWlaUlM5Umt2RFdSNmpJNWQtQUtsZml3Q3B0MkpuT3gxYUdZNWpieHliODNPQndrb1IzSWtFenZMQjJzZS11NUI5N0pqVzVCZlBFcFJiRlJHTWIwdlHSAdQBQVVfeXFMTTBCeGdMbEo3OElLNU1rZjZKSGxCdm05bjZvbHlNc0RGRVNUUWZEeVZwUWNpZnROQV9ka3FkdmlKRXdaUzZJaEtVc0FXalJ4LU1hQ0owTkd3TWRXZ2xsVmI1VXhqNE5IS1hURTE1WWlBWU9kVjBhLWs0Zk5xZTVzalhkaFZOT3ZCNHQwV0NpYU15dUNLYWFxNnE2Y2RYWU9OanhYXy1fUFBqN01iWUVTNFNrdnZVQ1Y5dEhVMUpuTG9MQjJPMXE5Z0hBSm1MMU5rbmNUWEs?oc=5)
 
 ---
 
@@ -58,19 +66,19 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rSC1QZEt
 
 ---
 
-### [Low-Dose Aspirin May Cut Dementia Risk By 70 Per Cent, Genetic Study Suggests](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmN6QUgxMjQyNTJvRERJeVRPcDJtUVE4eHZ6VVNHOUF5d3h1dVUtVENnWnNWT09ZV3RCN244ZmhHd3YzQ3NpY2tweG8tVkFGQ05xN0dIY2ZzdVBRM2d6eDh0alVTMTRMdnpZNEZQWEhKRU5oaW9wQTNMMGlaQnZxZHJjWlM2dUt6MldodDRTQ1YzcnNHNnI2SWNyeWJxejdMWWpRZnktU2FDanUxZC00X0ZLMA?oc=5)
+### [A new chapter in targeting kinase enzymes in cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TVE5zVGJ1UE1TZWhkMTdIenBlRDdGdUd3ZW04bzJUb19kRXNZU1FGM3oyaWJMejI3VVRYVzZkTjBiN3JhZmk1T3hsTXhGRWlNMG1WVVZpcWFXTmhUVkFF?oc=5)
 
-2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-09-29 <span class="news-indication-tag">cancer</span>
 
-Source: [NDTV](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmN6QUgxMjQyNTJvRERJeVRPcDJtUVE4eHZ6VVNHOUF5d3h1dVUtVENnWnNWT09ZV3RCN244ZmhHd3YzQ3NpY2tweG8tVkFGQ05xN0dIY2ZzdVBRM2d6eDh0alVTMTRMdnpZNEZQWEhKRU5oaW9wQTNMMGlaQnZxZHJjWlM2dUt6MldodDRTQ1YzcnNHNnI2SWNyeWJxejdMWWpRZnktU2FDanUxZC00X0ZLMA?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TVE5zVGJ1UE1TZWhkMTdIenBlRDdGdUd3ZW04bzJUb19kRXNZU1FGM3oyaWJMejI3VVRYVzZkTjBiN3JhZmk1T3hsTXhGRWlNMG1WVVZpcWFXTmhUVkFF?oc=5)
 
 ---
 
-### [Insomnia puts the brain at risk for stroke, hospitalisation, and even suicidal behaviour](https://news.google.com/rss/articles/CBMinwFBVV95cUxOajh6N0tNeEFhb1lNalkybmtBcjIxelVvRWhSZ0N3eF9mMS1rSEdIbC0xQUdJOXVNSEp5UURBQjFNU1lqa3RiSVlmSi1xZWhBTXF0b19YbFM3NG1DejRqVnJaZG95UkdISTA3R29zNXZZY2dKUW5DUWJCNFpKR0FXdWJ3VFdfMjhJb2RfYktWMUlPLW03bVVyblQwRHpTWGfSAaQBQVVfeXFMTlFCXzFJbUxWeHphQlIxMkVodmwzeWtQa1oxQlZKajZrTllBeHFqZ0NZcjJWY29md1N6WkRERW9BUW04SW01emgtOTk0bkhMUVExNlZ5UHh1Z3dUbm1nXzQxa1FPRFd4ZmhlSmgwaXg1T19jb2dXX0FxRlRDNEoyMXBrSlRmd2pIUGlGTUxvb3JrTjVzMXZOSUsyWE9aZWhPNEdfRjg?oc=5)
+### [Genetic analysis reveals potential benefit of aspirin for reducing dementia risk - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlF5bjl6OGtYRUh1OTJjOGs4Zy0xam16X05ReHJSWGJ5Yzg2Z0R6S1JFWlhMT0l3TmVnVmZQVFJJUXRQNWY5LXdWN3hvV0xkcGNlaDJkLXFXUkFpekVKYTB5VEpCZHB3MzRhRVhoYnRwVzY2YkE4WFFKOURSY0tpVDBfYmgzX3Z6d0RGdE1oOA?oc=5)
 
-2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [ThePrint](https://news.google.com/rss/articles/CBMinwFBVV95cUxOajh6N0tNeEFhb1lNalkybmtBcjIxelVvRWhSZ0N3eF9mMS1rSEdIbC0xQUdJOXVNSEp5UURBQjFNU1lqa3RiSVlmSi1xZWhBTXF0b19YbFM3NG1DejRqVnJaZG95UkdISTA3R29zNXZZY2dKUW5DUWJCNFpKR0FXdWJ3VFdfMjhJb2RfYktWMUlPLW03bVVyblQwRHpTWGfSAaQBQVVfeXFMTlFCXzFJbUxWeHphQlIxMkVodmwzeWtQa1oxQlZKajZrTllBeHFqZ0NZcjJWY29md1N6WkRERW9BUW04SW01emgtOTk0bkhMUVExNlZ5UHh1Z3dUbm1nXzQxa1FPRFd4ZmhlSmgwaXg1T19jb2dXX0FxRlRDNEoyMXBrSlRmd2pIUGlGTUxvb3JrTjVzMXZOSUsyWE9aZWhPNEdfRjg?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlF5bjl6OGtYRUh1OTJjOGs4Zy0xam16X05ReHJSWGJ5Yzg2Z0R6S1JFWlhMT0l3TmVnVmZQVFJJUXRQNWY5LXdWN3hvV0xkcGNlaDJkLXFXUkFpekVKYTB5VEpCZHB3MzRhRVhoYnRwVzY2YkE4WFFKOURSY0tpVDBfYmgzX3Z6d0RGdE1oOA?oc=5)
 
 ---
 
@@ -98,19 +106,19 @@ Source: [The Indian Express](https://news.google.com/rss/articles/CBMi5wFBVV95cU
 
 ---
 
-### [World Alzheimer's Day 2026 : The earlier you know, the more you can do - A dementia diagnosis matters -](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
+### [The Age You Reach Menopause May Be Linked to Your Future Brain Health, 18-Year Study Finds](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
 
-2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-09-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [e-pao.net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
 
 ---
 
-### [Her Alzheimer’s diagnosis took 2 years. New blood tests might help others get answers sooner](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRHNqbmgzWm81c0gyb2FWUlYxRk1pU2pwY1EyX092aVhmYkdwNHJDRTQ0WTAyZFladVdGejYwNGV1YUJrcTdNR1ZNYzhXNVJxVkhkelpEVndoWE00cUh4c0xHQmRFVlAxWllBSWtodzhtaERBTnc5NnB1NkRDdFVsY2NkOWFzZjRVZUxMb1FCU2swTTM3aF9IZGU3a1dTeUpSblF2UFBlVWMxYkVxVVdZbk1nTjNTRTNvUVdvOWlqa1hkLTh5c0ctZEFKZC0yTDJseEQ3TExjSGktVF95c0NUekRDXzhSdndHNGRiMU9vNm13VFZfWWRmU2lYMEt5Z0FJZERBaXM3U0ZkZ3hMMmVZ?oc=5)
+### [Insomnia linked to increased risk of stroke and hospital admissions](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjY2b0d0OHJiTXhDemFzbmJ3VXBOa3JVamZRaGpHNEtNbzlJbXpPLXU3MnJ2akQzTzlHYm5IM3F4eVJnVUQtSnliZ3R5QUZPSnhubjFrRE51eHhJRFNWT2ZHZUJsbmROY05WZnViRjhXR2I4VUt6X3pVQjd5Q2xzaE83UFh6WnBWMnhEVHk0NXo1UGVHbHdOOGxWbmszdHVPeW5BT2ZvckNjTGFCUW5vX2dYTGprZw?oc=5)
 
-2026-09-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-09-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [newscentermaine.com](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRHNqbmgzWm81c0gyb2FWUlYxRk1pU2pwY1EyX092aVhmYkdwNHJDRTQ0WTAyZFladVdGejYwNGV1YUJrcTdNR1ZNYzhXNVJxVkhkelpEVndoWE00cUh4c0xHQmRFVlAxWllBSWtodzhtaERBTnc5NnB1NkRDdFVsY2NkOWFzZjRVZUxMb1FCU2swTTM3aF9IZGU3a1dTeUpSblF2UFBlVWMxYkVxVVdZbk1nTjNTRTNvUVdvOWlqa1hkLTh5c0ctZEFKZC0yTDJseEQ3TExjSGktVF95c0NUekRDXzhSdndHNGRiMU9vNm13VFZfWWRmU2lYMEt5Z0FJZERBaXM3U0ZkZ3hMMmVZ?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjY2b0d0OHJiTXhDemFzbmJ3VXBOa3JVamZRaGpHNEtNbzlJbXpPLXU3MnJ2akQzTzlHYm5IM3F4eVJnVUQtSnliZ3R5QUZPSnhubjFrRE51eHhJRFNWT2ZHZUJsbmROY05WZnViRjhXR2I4VUt6X3pVQjd5Q2xzaE83UFh6WnBWMnhEVHk0NXo1UGVHbHdOOGxWbmszdHVPeW5BT2ZvckNjTGFCUW5vX2dYTGprZw?oc=5)
 
 ---
 
@@ -122,27 +130,11 @@ Source: [Health and Me](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUkl
 
 ---
 
-### [Jipmer holds childhood cancer awareness programme - The Hindu](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdW9za0p4SmNYbnZnWWFCMzVqTTQxQ3BaVHMtX1BmNGpCVzNpRHZsYlRCRVM4NTd0RFV0ejVsYXV1c3g2aVZyeFdJcU1hTWJoUC0yX0tlZ3dycVRGcmotczNPNUNVdG1NOTJkQVFoYTVjQ0Q0UERIc0otRDdXZXFyUlcwMEo2NElzeFI5Y25UVzVXSndfaWRUVW5rOTVaWWZGUXVCYTd6RVJ6dFlxNlduSHRacHhrLWxI0gG_AUFVX3lxTFBBMUJvODZZVmFUWmdSYW5hdXByNUJGalN3NkFKVEx6RjdKYlM5QU05d2UwWF8xdzZUSlh3dWxQTWtVM0d6TXAxaGR5UWxuTEFjZTZhdzFwUjdQemZtNVpJM0l0aVU5eVZDeThWMUhjQUtwQlVWLVZRM1hDaENXOVdlUENFR3A2Z0plTUozU1VRNHhlMDFYdHJUU2FsZlRCMm5hMW1qYnZkTTRRQWRJa2x0N2tBY3dIT21wNWZfZ0lj?oc=5)
-
-2026-09-28 <span class="news-indication-tag">cancer</span>
-
-Source: [The Hindu](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdW9za0p4SmNYbnZnWWFCMzVqTTQxQ3BaVHMtX1BmNGpCVzNpRHZsYlRCRVM4NTd0RFV0ejVsYXV1c3g2aVZyeFdJcU1hTWJoUC0yX0tlZ3dycVRGcmotczNPNUNVdG1NOTJkQVFoYTVjQ0Q0UERIc0otRDdXZXFyUlcwMEo2NElzeFI5Y25UVzVXSndfaWRUVW5rOTVaWWZGUXVCYTd6RVJ6dFlxNlduSHRacHhrLWxI0gG_AUFVX3lxTFBBMUJvODZZVmFUWmdSYW5hdXByNUJGalN3NkFKVEx6RjdKYlM5QU05d2UwWF8xdzZUSlh3dWxQTWtVM0d6TXAxaGR5UWxuTEFjZTZhdzFwUjdQemZtNVpJM0l0aVU5eVZDeThWMUhjQUtwQlVWLVZRM1hDaENXOVdlUENFR3A2Z0plTUozU1VRNHhlMDFYdHJUU2FsZlRCMm5hMW1qYnZkTTRRQWRJa2x0N2tBY3dIT21wNWZfZ0lj?oc=5)
-
----
-
 ### [Personalized Cancer Vaccines: What Challenges Remain?](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmgycnpvTmszdUcyR0t3bTFqLU9oaUVWM0gzQUVpaHJsNlpnRFducTQ3TUFQVGtMcGprUVhLR2FBZ2V2R2tDaEZseF9xWGwyRTNrcWJyUGVWcGFGdng5UkpLcEFacG1WVlVGQXFDMk5mZHJuOGE2Y2ZZTG1vaF9BaHhzZHcwTzloUlJuZVBRYUpHUmdubXJwZVJkMzBsR1BmRzNj?oc=5)
 
 2026-09-28 <span class="news-indication-tag">cancer</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmgycnpvTmszdUcyR0t3bTFqLU9oaUVWM0gzQUVpaHJsNlpnRFducTQ3TUFQVGtMcGprUVhLR2FBZ2V2R2tDaEZseF9xWGwyRTNrcWJyUGVWcGFGdng5UkpLcEFacG1WVlVGQXFDMk5mZHJuOGE2Y2ZZTG1vaF9BaHhzZHcwTzloUlJuZVBRYUpHUmdubXJwZVJkMzBsR1BmRzNj?oc=5)
-
----
-
-### [Lung cancer deaths down 16% with low-dose CT screening: IARC - The Times of India](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWm5LdUhhbnE4SXd0Wm1pNkZCMkJuYUlVaDRPSUE2ZmFYRmJjQ2x2UEVVbDFNQ0FIanE0V2xQRnJBOFpFVGU5cWpram93c1pvU0QtS1FiNTltZi1GWnA3aDlhUE5OdFZmUDBlMjJHT3B0WXd3TkFqWkstY1diTWRBXzhNOXRlT2JiTXBfVXFZVk1rUEk0bk90N3M4Q1VXN01GSjl6cGJRbUhuaVRZV1hVSTJkZEtTclZHVVYyUFl5VTJLdElx?oc=5)
-
-2026-09-28 <span class="news-indication-tag">cancer</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWm5LdUhhbnE4SXd0Wm1pNkZCMkJuYUlVaDRPSUE2ZmFYRmJjQ2x2UEVVbDFNQ0FIanE0V2xQRnJBOFpFVGU5cWpram93c1pvU0QtS1FiNTltZi1GWnA3aDlhUE5OdFZmUDBlMjJHT3B0WXd3TkFqWkstY1diTWRBXzhNOXRlT2JiTXBfVXFZVk1rUEk0bk90N3M4Q1VXN01GSjl6cGJRbUhuaVRZV1hVSTJkZEtTclZHVVYyUFl5VTJLdElx?oc=5)
 
 ---
 
