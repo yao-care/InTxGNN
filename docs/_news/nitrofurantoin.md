@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="What news is there about Nitrofurantoin?">
-<strong>Nitrofurantoin</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Nitrofurantoin</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,29 +40,13 @@ This page combines the AI-predicted indications for Nitrofurantoin with the late
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (1)
 
-### [Infections at birth substantially increase the risk of autism and intellectual disability, study finds](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNG0zMGVVYnJZeTd2bExkREo3N1pYQTM3Z0FLZXptNzB0MU9fOFgwMVF1V3c4cWpTRnQzT0JRY3dIb1BPbUVBWmJGbVBvd3VlQl9jWVpqZndxcHo4eGY5dGlXWllNbnpOMVBBRW5Qcks0YjVYSDJpZndqV1lYSEVpRVExWk5iQ3lZSjEzQm83MEtwcm5KcjE3VnlOcTBteWsyRXBQTUphSUYybXJKTDdtQXdMQXNWeXZ3bE5iaXFUVWsyS1Zw?oc=5)
+### [World Heart Day – The First Hour Matters: What to Do When Someone Shows Signs Of A Heart Attack : Dr. Girish Godbole, Director & Senior Consultant – Interventional Cardiology, KIMS Hospitals, Electronic City, Bengaluru. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiswJBVV95cUxQN0VWZUp1aUxCZi1RYTNmcTZvRFlJcXlTc2lJeFBGLWlZUDFNR2ZnYjhLRTJ4dXRXdWdQTG9UZ3lNVzgydGpKNjRwLVdkNWdXVDdKX01BcG5KWmdBRk5hWXZnU2tlMEVtek4yYTFVYWRqb0M1TXpuY1BLaDFmaGlBZGltY1N0UkJwVTBvMG1YM2pBSW1CU2gwUU9lcEJyNUd2a3RudmI3bk9PdlZsVzdaS2JzN0lPRURfNWNkUV9QVlQ4OVVLU29ZUC1MTGpuVW85ZWsxVThRR0FlMGQwVUI5NEJveGZyTjFteUQ2Rml2SVF3eUdmVHhmX0hvcnZySm5Qbl9PWFVZRmItX3RXR3ZzZUpFWG9aN1V0dUF3ZjllU3NheXFYTXI3Y0UxRzlveE5vRVNr?oc=5)
 
-2026-09-28 <span class="news-indication-tag">RA</span>
+2026-09-29 <span class="news-indication-tag">RA</span>
 
-Source: [CIDRAP](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNG0zMGVVYnJZeTd2bExkREo3N1pYQTM3Z0FLZXptNzB0MU9fOFgwMVF1V3c4cWpTRnQzT0JRY3dIb1BPbUVBWmJGbVBvd3VlQl9jWVpqZndxcHo4eGY5dGlXWllNbnpOMVBBRW5Qcks0YjVYSDJpZndqV1lYSEVpRVExWk5iQ3lZSjEzQm83MEtwcm5KcjE3VnlOcTBteWsyRXBQTUphSUYybXJKTDdtQXdMQXNWeXZ3bE5iaXFUVWsyS1Zw?oc=5)
-
----
-
-### [Xella Health Builds Women's Precision Health Operating System](https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1MwWm4xSTNaMzRKNi1IWW9JcXoyNVVvSEp0Q0pGeFMtSE9KWE5kcC1QWVcycmxiODg3c3VMcFQ2VlhoNENUWmlqM2hKd2lJX2VCdUowYVJvQlR5bm1kbTdWUjFnVmpJUXNKVGtVc0tQZ2pGajdwMjE5TWMxUnR6aEFGYWNhWmNWY2xqcmdCNVg2dDFRYm83VVIybXZPUE5rV1UzNG1xeVhVMjJfaFg4YURn?oc=5)
-
-2026-09-28 <span class="news-indication-tag">RA</span>
-
-Source: [Forbes](https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1MwWm4xSTNaMzRKNi1IWW9JcXoyNVVvSEp0Q0pGeFMtSE9KWE5kcC1QWVcycmxiODg3c3VMcFQ2VlhoNENUWmlqM2hKd2lJX2VCdUowYVJvQlR5bm1kbTdWUjFnVmpJUXNKVGtVc0tQZ2pGajdwMjE5TWMxUnR6aEFGYWNhWmNWY2xqcmdCNVg2dDFRYm83VVIybXZPUE5rV1UzNG1xeVhVMjJfaFg4YURn?oc=5)
-
----
-
-### [WHO Sets 2027 Southern Hemisphere Flu Vaccine Formula as Viruses Shape Risks](https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEpTLU5XMWhUNjh3RjA3Z0Nabjk0VzFwYlFYZWVpeERTc0hfZXNtRGV6RTg1N3VEWmxCS0ozcVNTeERhYVVCMVZOZE5yLUxsRkZmNC1GZ2tWM0dLWWVUS3J2OE85ZEFlMV9oZGxHajhRcnFsRDZiM3JQdGpBNDlFTTRKc1U2R3Z2Zzk5RV83QmRzZWtMeGt2UGNtbFdjY0szcEo0cFJoRTFsTVgwZ3dWRkoxbWZBdjhJUFF6c25JSDA1Und3NXhB0gHMAUFVX3lxTE9sQVNYbGNoVnhmRlRBdWdZUlJaVklwLWpaMGhDM2JFVExJY0M0VlZ5Q0g4MWVGN05rNGlxVkFZUnNOdEpBNlFQUmF2SXlYaTlyVVl0ZVpISTBLZzliRFhqQWUwSktZZWVvbFZtMW1DQkJPUWRPckZzVlJwWkJMUTMtdmZPd05tOUZDbEg0Z1k1T21YZUhtcmhrSmxvOU80RnVwamg0OTdhUmhBclpXSlVabER4WEhfZk5fVnhJdzk5UU4xeXZjVGNVbjFDQw?oc=5)
-
-2026-09-28 <span class="news-indication-tag">RA</span>
-
-Source: [Devdiscourse](https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEpTLU5XMWhUNjh3RjA3Z0Nabjk0VzFwYlFYZWVpeERTc0hfZXNtRGV6RTg1N3VEWmxCS0ozcVNTeERhYVVCMVZOZE5yLUxsRkZmNC1GZ2tWM0dLWWVUS3J2OE85ZEFlMV9oZGxHajhRcnFsRDZiM3JQdGpBNDlFTTRKc1U2R3Z2Zzk5RV83QmRzZWtMeGt2UGNtbFdjY0szcEo0cFJoRTFsTVgwZ3dWRkoxbWZBdjhJUFF6c25JSDA1Und3NXhB0gHMAUFVX3lxTE9sQVNYbGNoVnhmRlRBdWdZUlJaVklwLWpaMGhDM2JFVExJY0M0VlZ5Q0g4MWVGN05rNGlxVkFZUnNOdEpBNlFQUmF2SXlYaTlyVVl0ZVpISTBLZzliRFhqQWUwSktZZWVvbFZtMW1DQkJPUWRPckZzVlJwWkJMUTMtdmZPd05tOUZDbEg0Z1k1T21YZUhtcmhrSmxvOU80RnVwamg0OTdhUmhBclpXSlVabER4WEhfZk5fVnhJdzk5UU4xeXZjVGNVbjFDQw?oc=5)
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiswJBVV95cUxQN0VWZUp1aUxCZi1RYTNmcTZvRFlJcXlTc2lJeFBGLWlZUDFNR2ZnYjhLRTJ4dXRXdWdQTG9UZ3lNVzgydGpKNjRwLVdkNWdXVDdKX01BcG5KWmdBRk5hWXZnU2tlMEVtek4yYTFVYWRqb0M1TXpuY1BLaDFmaGlBZGltY1N0UkJwVTBvMG1YM2pBSW1CU2gwUU9lcEJyNUd2a3RudmI3bk9PdlZsVzdaS2JzN0lPRURfNWNkUV9QVlQ4OVVLU29ZUC1MTGpuVW85ZWsxVThRR0FlMGQwVUI5NEJveGZyTjFteUQ2Rml2SVF3eUdmVHhmX0hvcnZySm5Qbl9PWFVZRmItX3RXR3ZzZUpFWG9aN1V0dUF3ZjllU3NheXFYTXI3Y0UxRzlveE5vRVNr?oc=5)
 
 ---
 

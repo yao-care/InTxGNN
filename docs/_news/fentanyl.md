@@ -14,7 +14,7 @@ permalink: /news/fentanyl/
 ---
 
 <p class="key-answer" data-question="What news is there about Fentanyl?">
-<strong>Fentanyl</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
+<strong>Fentanyl</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Fentanyl with the latest hea
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Study Looks at Patient Experiences With Sedative Contaminating Fentanyl - Psychiatry Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmNDLTh4bGpsY3VBZmRHbl9pYTRvTWhvRzQ0TDBxSjhKMXdxLXZsVGNDaU9CQml0SUtYWGpUdlJOWTUzOVF6NHBESUpIUndTRkZMcXlUMjNlU3hwaGg1VVRhMTdEaGhVWGx3OFdNd3BwLVhiVXIwZG9zX1FHbG94Mm9BMVozdFg4TE9RN3BYR0FZTVhTRVdoYmZ4X29ibmRfeDlvaWRIWmZCaUZ5MlVtWQ?oc=5)
-
-2026-09-28 <span class="news-drug-tag">Fentanyl</span>
-
-Source: [Psychiatry Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmNDLTh4bGpsY3VBZmRHbl9pYTRvTWhvRzQ0TDBxSjhKMXdxLXZsVGNDaU9CQml0SUtYWGpUdlJOWTUzOVF6NHBESUpIUndTRkZMcXlUMjNlU3hwaGg1VVRhMTdEaGhVWGx3OFdNd3BwLVhiVXIwZG9zX1FHbG94Mm9BMVozdFg4TE9RN3BYR0FZTVhTRVdoYmZ4X29ibmRfeDlvaWRIWmZCaUZ5MlVtWQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
