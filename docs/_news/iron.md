@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,9 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Beyond Cholesterol And Blood Pressure, New Environmental Risks To Heart Health Are Being Missed: Here's Why](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSDhram90ZDAwUjVScGlDRzkxNmpGSUVjWkhqbDhZM0V0RHN4WUIteVk3U0VISHNDQ3REVURscDRrZGowd3VzUHMwdnNQSFgxdWtxdXkzeXR2VGdEdWs0ODNfR3BRNEJpczk3eXR1YmhkRHVkTVhCQ3Q1VzBFNUsxT2dJc1VLYjdtbTJvcVZMZ0l2alI3VzFQNW9VaTMxUUR6NTRBV3MzTXNWNm5NUE5EWVJndWNaV2ZSYVF4MGVtbFJURHVpZnEyUmtDR0dPaWprM1FxR0NJcmVMbFdpWUFzeHZCaXloZF9QeEVZ?oc=5)
-
-2026-09-29 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSDhram90ZDAwUjVScGlDRzkxNmpGSUVjWkhqbDhZM0V0RHN4WUIteVk3U0VISHNDQ3REVURscDRrZGowd3VzUHMwdnNQSFgxdWtxdXkzeXR2VGdEdWs0ODNfR3BRNEJpczk3eXR1YmhkRHVkTVhCQ3Q1VzBFNUsxT2dJc1VLYjdtbTJvcVZMZ0l2alI3VzFQNW9VaTMxUUR6NTRBV3MzTXNWNm5NUE5EWVJndWNaV2ZSYVF4MGVtbFJURHVpZnEyUmtDR0dPaWprM1FxR0NJcmVMbFdpWUFzeHZCaXloZF9QeEVZ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

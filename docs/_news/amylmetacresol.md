@@ -14,7 +14,7 @@ permalink: /news/amylmetacresol/
 ---
 
 <p class="key-answer" data-question="What news is there about Amylmetacresol?">
-<strong>Amylmetacresol</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
+<strong>Amylmetacresol</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Amylmetacresol with the late
 <p><a href="{{ '/drugs/amylmetacresol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (7)
+
+### [Meet the five infections responsible for almost one in eight cancers worldwide - Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGVaamhUZDc4VU9qQXh2czhVZVRrVFUyRDY2UDBLbWcxa1NVRW5PTExIaXZsUnNRRGJHRmFKOXpWTnBoWXlFMERMakhuMFVuZ25wSFJUWmY1R29hcC1hc1VVenN5MDczR01FS3ZOdTJPU3JCa1J2QTZRNHBBRkFTRXRLTXZxbnBaM2FDUXJwaDYzRHdKeC1oeDkwZm5Gd21vb2c?oc=5)
+
+2026-09-30 <span class="news-indication-tag">cancer</span>
+
+Source: [Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGVaamhUZDc4VU9qQXh2czhVZVRrVFUyRDY2UDBLbWcxa1NVRW5PTExIaXZsUnNRRGJHRmFKOXpWTnBoWXlFMERMakhuMFVuZ25wSFJUWmY1R29hcC1hc1VVenN5MDczR01FS3ZOdTJPU3JCa1J2QTZRNHBBRkFTRXRLTXZxbnBaM2FDUXJwaDYzRHdKeC1oeDkwZm5Gd21vb2c?oc=5)
+
+---
+
+### [Blood RNA markers may flag lung cancer risk 10 years before diagnosis - Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE9hRGtVR1IxREthSDlOdXN1VW1KOEY3TjRKcDB4bnk5bTQwNGRaemRUNFppd0R0MzFuUzFLTElLYWFPVld4Q01tN1BkSkJGb1ZfUVI0bHJfb0tpZ0FkVjloQm4xUW1TWi0ydE1qc3NYM0xuUGc4SWw5aWJXWQ?oc=5)
+
+2026-09-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE9hRGtVR1IxREthSDlOdXN1VW1KOEY3TjRKcDB4bnk5bTQwNGRaemRUNFppd0R0MzFuUzFLTElLYWFPVld4Q01tN1BkSkJGb1ZfUVI0bHJfb0tpZ0FkVjloQm4xUW1TWi0ydE1qc3NYM0xuUGc4SWw5aWJXWQ?oc=5)
+
+---
 
 ### [Blood test detects early-stage pancreatic cancer with 87 per cent sensitivity - Labmate Online](https://news.google.com/rss/articles/CBMikwJBVV95cUxPRHhKdVlVVDFZRWItNzQ4RHdZemNyN0FIWFRsTTFYaXZlZlBUQlY5VXBYZUVhdmRPaVhzMlFBMXZpanYtOHNpdUdJQ3N0YUhQNHFoYTFKaEI5dVJZZXFIWkNkVjBFY014WGV0YXlhR2YtZmV4WDd5and3ZXJlbVJsUFVLUEhnOEFuVjhQeUR4QjlLR1BlZFFGR2l6Y2t2WGtjVEJ4amV4d1R3MlBkQVRrRVFKTjJjUkFsSVNyOEc5cG8wdzJvRmF0Wmp4TlNOLU9sN3J1QWZxQVZ0TjJiWkxPY2hvRTd6YnVuV0t5TXZ0UFBqc2RqZ3FLOG1xaVNrWVpsalJ6VUMwaVgxcHBvYWdsTnhDUQ?oc=5)
 
@@ -66,67 +82,19 @@ Source: [ABP Live English](https://news.google.com/rss/articles/CBMizAFBVV95cUxP
 
 ---
 
-### [India accounts for 20% of world’s childhood cancers: Jipmer - The Times of India](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdXpLWlcxUDR5eXVsZEltR2ZWN3NBczFSUXNiMWRkNWF5N3kwZzZMVktqT1RSWi14ZkJZdHNTQlBxcGRyVTVtMVJKNE9rUTJkOE5ZeXI2Q3FJSnZSdUQ5WHdMbnJ1MVJHVjNDLUlWT0cxTXoxV2UyVVBPNWlaUlM5Umt2RFdSNmpJNWQtQUtsZml3Q3B0MkpuT3gxYUdZNWpieHliODNPQndrb1IzSWtFenZMQjJzZS11NUI5N0pqVzVCZlBFcFJiRlJHTWIwdlHSAdQBQVVfeXFMTTBCeGdMbEo3OElLNU1rZjZKSGxCdm05bjZvbHlNc0RGRVNUUWZEeVZwUWNpZnROQV9ka3FkdmlKRXdaUzZJaEtVc0FXalJ4LU1hQ0owTkd3TWRXZ2xsVmI1VXhqNE5IS1hURTE1WWlBWU9kVjBhLWs0Zk5xZTVzalhkaFZOT3ZCNHQwV0NpYU15dUNLYWFxNnE2Y2RYWU9OanhYXy1fUFBqN01iWUVTNFNrdnZVQ1Y5dEhVMUpuTG9MQjJPMXE5Z0hBSm1MMU5rbmNUWEs?oc=5)
+### [India requires policy to make cancer care affordable - Medical Buyer](https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3d1OTEzVWtPXzJjOVd1cGNPbXRmdGlfV2NXdnp5cGhyRERnai0xbXBMMWxSd1NEdnc4aTduckdWVnA3RmRiMzA1ZVFfRjJPMHFUa2JONFN4TXVLNzNLVUFia2h3U0JnbmNrV0EwaXlpVHlORnFxdWFJdk5kMG5RX2g3RmltV1E?oc=5)
 
 2026-09-29 <span class="news-indication-tag">cancer</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdXpLWlcxUDR5eXVsZEltR2ZWN3NBczFSUXNiMWRkNWF5N3kwZzZMVktqT1RSWi14ZkJZdHNTQlBxcGRyVTVtMVJKNE9rUTJkOE5ZeXI2Q3FJSnZSdUQ5WHdMbnJ1MVJHVjNDLUlWT0cxTXoxV2UyVVBPNWlaUlM5Umt2RFdSNmpJNWQtQUtsZml3Q3B0MkpuT3gxYUdZNWpieHliODNPQndrb1IzSWtFenZMQjJzZS11NUI5N0pqVzVCZlBFcFJiRlJHTWIwdlHSAdQBQVVfeXFMTTBCeGdMbEo3OElLNU1rZjZKSGxCdm05bjZvbHlNc0RGRVNUUWZEeVZwUWNpZnROQV9ka3FkdmlKRXdaUzZJaEtVc0FXalJ4LU1hQ0owTkd3TWRXZ2xsVmI1VXhqNE5IS1hURTE1WWlBWU9kVjBhLWs0Zk5xZTVzalhkaFZOT3ZCNHQwV0NpYU15dUNLYWFxNnE2Y2RYWU9OanhYXy1fUFBqN01iWUVTNFNrdnZVQ1Y5dEhVMUpuTG9MQjJPMXE5Z0hBSm1MMU5rbmNUWEs?oc=5)
+Source: [Medical Buyer](https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3d1OTEzVWtPXzJjOVd1cGNPbXRmdGlfV2NXdnp5cGhyRERnai0xbXBMMWxSd1NEdnc4aTduckdWVnA3RmRiMzA1ZVFfRjJPMHFUa2JONFN4TXVLNzNLVUFia2h3U0JnbmNrV0EwaXlpVHlORnFxdWFJdk5kMG5RX2g3RmltV1E?oc=5)
 
 ---
 
-### [Allen Chen at COGC 2026: The New Era of Tumor-Agnostic Cancer Therapy](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rSC1QZEtwQjNoWlNUdk5TVVNhLTJ6WEFsTVVWdWM5bk8wM1BNUzViZFZHdVQteVBsTUxTUGFHTWp3TzllNk5WUGttTUZodEg5a0R1ckVHREVpNk9hM0E?oc=5)
+### [Children need social support after cancer treatment, say doctors - Pioneer Daily](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlY0OHM5bUFtTzVid0Q0SWdCWWxCT2c5WGlVR0hxTDNtZWIwY2hnN1NLcTBrZDZuSjJ2Z05sRFRLeDlNaUd2RG50cm00TTRRN3RhQWFRa1E5eGtrdndQZEt5M0hwQWxkQ3hZS3VvU0pJcmNmS0pKbTU0UmxodS1KLWhvWDRKLUkxZnFSeGp0Y0Vta2Q1eWFkag?oc=5)
 
-2026-09-29 <span class="news-indication-tag">cancer</span>
+2026-09-25 <span class="news-indication-tag">cancer</span>
 
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rSC1QZEtwQjNoWlNUdk5TVVNhLTJ6WEFsTVVWdWM5bk8wM1BNUzViZFZHdVQteVBsTUxTUGFHTWp3TzllNk5WUGttTUZodEg5a0R1ckVHREVpNk9hM0E?oc=5)
-
----
-
-### [When cancer care meets heart care: building better survivorship models](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU1udERxcUNkVWFfTW00RmtadEpDcFdZcTVWMzQtYWF1YVpIT3NhRG5nREFiOFJxTWxJY0JxbXBfbTBsSHlqdkIxVkdUdm10ZXdkbnhUVmY1TXkyX1ZtTUszNmhka3VTSk1ESFZJUE9sYjZlMVZfT2NRRnUzemhaT0FPWlNaZ0xFSzJEWmlFRVdtV0lfTHo5ZGhpa0pQM3Vqd1Z2Ui1TdEN2MlNSMm1CRFhfZ2J6dw?oc=5)
-
-2026-09-29 <span class="news-indication-tag">cancer</span>
-
-Source: [expresshealthcare.in](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU1udERxcUNkVWFfTW00RmtadEpDcFdZcTVWMzQtYWF1YVpIT3NhRG5nREFiOFJxTWxJY0JxbXBfbTBsSHlqdkIxVkdUdm10ZXdkbnhUVmY1TXkyX1ZtTUszNmhka3VTSk1ESFZJUE9sYjZlMVZfT2NRRnUzemhaT0FPWlNaZ0xFSzJEWmlFRVdtV0lfTHo5ZGhpa0pQM3Vqd1Z2Ui1TdEN2MlNSMm1CRFhfZ2J6dw?oc=5)
-
----
-
-### [India requires policy to make cancer care affordable](https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3d1OTEzVWtPXzJjOVd1cGNPbXRmdGlfV2NXdnp5cGhyRERnai0xbXBMMWxSd1NEdnc4aTduckdWVnA3RmRiMzA1ZVFfRjJPMHFUa2JONFN4TXVLNzNLVUFia2h3U0JnbmNrV0EwaXlpVHlORnFxdWFJdk5kMG5RX2g3RmltV1E?oc=5)
-
-2026-09-29 <span class="news-indication-tag">cancer</span>
-
-Source: [medicalbuyer.co.in](https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3d1OTEzVWtPXzJjOVd1cGNPbXRmdGlfV2NXdnp5cGhyRERnai0xbXBMMWxSd1NEdnc4aTduckdWVnA3RmRiMzA1ZVFfRjJPMHFUa2JONFN4TXVLNzNLVUFia2h3U0JnbmNrV0EwaXlpVHlORnFxdWFJdk5kMG5RX2g3RmltV1E?oc=5)
-
----
-
-### [Nearly 1.9 lakh cancer cases in India linked to viral, bacterial infections, says Lancet study - The Indian Express](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ1E2bjV5enA3VTl5eV90TWl4VWZDZ2Y3NEFnY0daQkVrNkxhSEJOSkZ2ZTZET3I2eGdWbUFCOXA5SGNxenhveExMZW5HNE9CS0RMR0djMzNsYVBYWnlfdWNNUDJwREY5eTNrNkRLaHlhSWlYMk56cS1WWUhDYVZBSjk0N0J5Wkw3Mnh5S0J4TUdaQ0xRVk1XUm51ZWR3SllHN29PRllLbmQ1bDdYWGZYQ3lLSjZRZDl4bnNxdHYyRE5SMUVoTDdsR1otUktqcWx1d1hpaUwzOEU4elJLdWhYczlxOTd3cjTSAe4BQVVfeXFMUDZkeDBWbXRjMzR5ZlJHNUVmOUZiaHdOV1gyU3pXaFdweHNGSU5VLXd1b0NZWHczR19Mc1lvd0FlN0N4NmN5cGZNRjVSMkxYcGQyTE93ZjlVX0pFVmR4dHhBSVJtX1RrTkpoVEVIbFJETGtpN25PbV93WlUxcmluNG4zUlU0X1JPdG4wN2tDUndkMlN6am9oY0dKa2FNSWpTa0JlV3VabXJaV0NYdnBnY1ZWZ28tVERwZFRia2p2Y3o3S1dXZlpOemFEYVRndGpsSy0zc0lyWnZvOWNhM1VZVXdxWVFBX3o1eTFQNVZfUQ?oc=5)
-
-2026-09-29 <span class="news-indication-tag">cancer</span>
-
-Source: [The Indian Express](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ1E2bjV5enA3VTl5eV90TWl4VWZDZ2Y3NEFnY0daQkVrNkxhSEJOSkZ2ZTZET3I2eGdWbUFCOXA5SGNxenhveExMZW5HNE9CS0RMR0djMzNsYVBYWnlfdWNNUDJwREY5eTNrNkRLaHlhSWlYMk56cS1WWUhDYVZBSjk0N0J5Wkw3Mnh5S0J4TUdaQ0xRVk1XUm51ZWR3SllHN29PRllLbmQ1bDdYWGZYQ3lLSjZRZDl4bnNxdHYyRE5SMUVoTDdsR1otUktqcWx1d1hpaUwzOEU4elJLdWhYczlxOTd3cjTSAe4BQVVfeXFMUDZkeDBWbXRjMzR5ZlJHNUVmOUZiaHdOV1gyU3pXaFdweHNGSU5VLXd1b0NZWHczR19Mc1lvd0FlN0N4NmN5cGZNRjVSMkxYcGQyTE93ZjlVX0pFVmR4dHhBSVJtX1RrTkpoVEVIbFJETGtpN25PbV93WlUxcmluNG4zUlU0X1JPdG4wN2tDUndkMlN6am9oY0dKa2FNSWpTa0JlV3VabXJaV0NYdnBnY1ZWZ28tVERwZFRia2p2Y3o3S1dXZlpOemFEYVRndGpsSy0zc0lyWnZvOWNhM1VZVXdxWVFBX3o1eTFQNVZfUQ?oc=5)
-
----
-
-### [New NHS Genetic Test Can Identify Brain Tumour Type In 2 Hours During Surgery - Health and Me](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUkl2czhTMGdLWW1mYmRJeWF6TTNnRi1LdjJyLXowWndKby1aYzFBWnNsSGFRUDNSZnI1cTZQdFhqNEpPQks2SEpKSWVXU1R5MWM1UzhhWEdSa2FsTUV6cDZyQlpMbFE0YURuTXp0bG5rbUNYclFiOGR2OERXMkFyU2taRU9zSXhvVFAyTDhmVExuc1hidW16aERFcGpwRDBGUjNGdFh0ZFZ0WVczTVF3a3lYYXlZQ0JDdUt4YjJqWTJ1VkhybXgyVjlwY1hRUWVk?oc=5)
-
-2026-09-28 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">tumor</span>
-
-Source: [Health and Me](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUkl2czhTMGdLWW1mYmRJeWF6TTNnRi1LdjJyLXowWndKby1aYzFBWnNsSGFRUDNSZnI1cTZQdFhqNEpPQks2SEpKSWVXU1R5MWM1UzhhWEdSa2FsTUV6cDZyQlpMbFE0YURuTXp0bG5rbUNYclFiOGR2OERXMkFyU2taRU9zSXhvVFAyTDhmVExuc1hidW16aERFcGpwRDBGUjNGdFh0ZFZ0WVczTVF3a3lYYXlZQ0JDdUt4YjJqWTJ1VkhybXgyVjlwY1hRUWVk?oc=5)
-
----
-
-### [Personalized Cancer Vaccines: What Challenges Remain?](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmgycnpvTmszdUcyR0t3bTFqLU9oaUVWM0gzQUVpaHJsNlpnRFducTQ3TUFQVGtMcGprUVhLR2FBZ2V2R2tDaEZseF9xWGwyRTNrcWJyUGVWcGFGdng5UkpLcEFacG1WVlVGQXFDMk5mZHJuOGE2Y2ZZTG1vaF9BaHhzZHcwTzloUlJuZVBRYUpHUmdubXJwZVJkMzBsR1BmRzNj?oc=5)
-
-2026-09-28 <span class="news-indication-tag">cancer</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmgycnpvTmszdUcyR0t3bTFqLU9oaUVWM0gzQUVpaHJsNlpnRFducTQ3TUFQVGtMcGprUVhLR2FBZ2V2R2tDaEZseF9xWGwyRTNrcWJyUGVWcGFGdng5UkpLcEFacG1WVlVGQXFDMk5mZHJuOGE2Y2ZZTG1vaF9BaHhzZHcwTzloUlJuZVBRYUpHUmdubXJwZVJkMzBsR1BmRzNj?oc=5)
-
----
-
-### [DNA in blood signals cancer risk years ahead](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
-
-2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
+Source: [Pioneer Daily](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlY0OHM5bUFtTzVid0Q0SWdCWWxCT2c5WGlVR0hxTDNtZWIwY2hnN1NLcTBrZDZuSjJ2Z05sRFRLeDlNaUd2RG50cm00TTRRN3RhQWFRa1E5eGtrdndQZEt5M0hwQWxkQ3hZS3VvU0pJcmNmS0pKbTU0UmxodS1KLWhvWDRKLUkxZnFSeGp0Y0Vta2Q1eWFkag?oc=5)
 
 ---
 

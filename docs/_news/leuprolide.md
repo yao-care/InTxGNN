@@ -14,7 +14,7 @@ permalink: /news/leuprolide/
 ---
 
 <p class="key-answer" data-question="What news is there about Leuprolide?">
-<strong>Leuprolide</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
+<strong>Leuprolide</strong> currently has <strong>2 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ This page combines the AI-predicted indications for Leuprolide with the latest h
 <p><a href="{{ '/drugs/leuprolide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [MRI findings suggest low-dose radiation may slow progression of knee osteoarthritis - Radiology Business](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNGVXNElRcWVRUi1sNFZnRk9ZYTZMcnV0dzFHRm1oUnBNNnk1NUZKaUl0LUR1bWxEZTF3SlZGN2lKM3R3Umphb3JNNFZTcVRXdHdjV2RVVFJSZzdlX0ZYRGJQMHY3a0NXWDhtOFlQdEItaHI5TEhzZmFTbmFRV1RmQjZUVFRFd2dYTU1tUWVXZmV2TDRDMmdFRnI5R1JLTzZFcl91dG5odHVTTzIxQjQ3bEVyTElJMmo4NzZEZW56dmlldzdrdmFaMjJSbU5tVEE1YW55UzhJZXp0Ukp1UEFkM2s3dmtkVU0?oc=5)
+### [Low-Dose Radiation Could Help Slow Knee Arthritis - U.S. News & World Report](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmI3eEg2ZXlqN21GcVhYV05iSm5pU245bC1MN3BwVlRTNGEtRUltTFQwZHRrbTJmU0xvNTNZYmdubDBRMFFRenNjUW1jMVhGVjhVQlRweGt6bThRWDdqczgxMmFRb0dhdlk2X25FTHBydk1veFdEd25ZbW85Zy16ZFlZV1p2RUs1U0hYb3htWGo3V2t5dlN6bW1YN2FyeDU3S3BDbmFIXzlzQmtTeFE?oc=5)
 
-2026-09-28 <span class="news-indication-tag">osteoarthritis</span>
+2026-09-30 <span class="news-indication-tag">osteoarthritis</span>
 
-Source: [Radiology Business](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNGVXNElRcWVRUi1sNFZnRk9ZYTZMcnV0dzFHRm1oUnBNNnk1NUZKaUl0LUR1bWxEZTF3SlZGN2lKM3R3Umphb3JNNFZTcVRXdHdjV2RVVFJSZzdlX0ZYRGJQMHY3a0NXWDhtOFlQdEItaHI5TEhzZmFTbmFRV1RmQjZUVFRFd2dYTU1tUWVXZmV2TDRDMmdFRnI5R1JLTzZFcl91dG5odHVTTzIxQjQ3bEVyTElJMmo4NzZEZW56dmlldzdrdmFaMjJSbU5tVEE1YW55UzhJZXp0Ukp1UEFkM2s3dmtkVU0?oc=5)
+Source: [U.S. News & World Report](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmI3eEg2ZXlqN21GcVhYV05iSm5pU245bC1MN3BwVlRTNGEtRUltTFQwZHRrbTJmU0xvNTNZYmdubDBRMFFRenNjUW1jMVhGVjhVQlRweGt6bThRWDdqczgxMmFRb0dhdlk2X25FTHBydk1veFdEd25ZbW85Zy16ZFlZV1p2RUs1U0hYb3htWGo3V2t5dlN6bW1YN2FyeDU3S3BDbmFIXzlzQmtTeFE?oc=5)
+
+---
+
+### [Alcohol May Up Osteoarthritis Risk in a Dose-Dependent Way](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0lRemRrYk52YVFiWHhDSHdBbGgwLW1mTWhENkdKcm9FMk92YjRuNjNOSFEzYTlDbDFvNVZkX1hmdUtaUUNIQzRndXVvdUxxZ1NmTy15SkcxSk8xY0Z4dWF4NzZSVHN4blFGalNpM25DcjU2NFRmWGRwRmthcTVuWTdyOXVuSHRId1FHOWIxZlBpV2ZUUE9lVnFjWUFTOExJXzBVT1FDOGR0QQ?oc=5)
+
+2026-09-30 <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0lRemRrYk52YVFiWHhDSHdBbGgwLW1mTWhENkdKcm9FMk92YjRuNjNOSFEzYTlDbDFvNVZkX1hmdUtaUUNIQzRndXVvdUxxZ1NmTy15SkcxSk8xY0Z4dWF4NzZSVHN4blFGalNpM25DcjU2NFRmWGRwRmthcTVuWTdyOXVuSHRId1FHOWIxZlBpV2ZUUE9lVnFjWUFTOExJXzBVT1FDOGR0QQ?oc=5)
 
 ---
 

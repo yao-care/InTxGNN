@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 6 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 5 articles, 8 related drugs."
 permalink: /news/alzheimer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Does Glucosamine Accelerate Dementia and Mortality Risk? - European Medical Journal](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRTF2V2Q0TXo1b0p0T3huQXdYODdhSDY2cmN1OG4wa1NlY0FkNEZDUjRMLXpoMS1BMHcyVFVrN0I3SlhUY1pZb09lYjFRV1ZuV2NOWFl6M2Y4eWdfNk1aeDdYQ1Z5b1hpR0N0YjVrZ3Bjbm1BNzJwbVJmY3FNN3cyVzUtMTJQN3JPTGw1OXhoMGpvVVVZM0FGeHlET3dLMzQ?oc=5)
 
@@ -62,11 +62,11 @@ Source: [European Medical Journal](https://news.google.com/rss/articles/CBMirgFB
 
 ---
 
-### [Genetic analysis reveals potential benefit of aspirin for reducing dementia risk](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlF5bjl6OGtYRUh1OTJjOGs4Zy0xam16X05ReHJSWGJ5Yzg2Z0R6S1JFWlhMT0l3TmVnVmZQVFJJUXRQNWY5LXdWN3hvV0xkcGNlaDJkLXFXUkFpekVKYTB5VEpCZHB3MzRhRVhoYnRwVzY2YkE4WFFKOURSY0tpVDBfYmgzX3Z6d0RGdE1oOA?oc=5)
+### [Low-Dose Aspirin May Cut Dementia Risk By 70 Per Cent, Genetic Study Suggests](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmN6QUgxMjQyNTJvRERJeVRPcDJtUVE4eHZ6VVNHOUF5d3h1dVUtVENnWnNWT09ZV3RCN244ZmhHd3YzQ3NpY2tweG8tVkFGQ05xN0dIY2ZzdVBRM2d6eDh0alVTMTRMdnpZNEZQWEhKRU5oaW9wQTNMMGlaQnZxZHJjWlM2dUt6MldodDRTQ1YzcnNHNnI2SWNyeWJxejdMWWpRZnktU2FDanUxZC00X0ZLMA?oc=5)
 
 2026-09-29
 
-Source: [medicalxpress.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlF5bjl6OGtYRUh1OTJjOGs4Zy0xam16X05ReHJSWGJ5Yzg2Z0R6S1JFWlhMT0l3TmVnVmZQVFJJUXRQNWY5LXdWN3hvV0xkcGNlaDJkLXFXUkFpekVKYTB5VEpCZHB3MzRhRVhoYnRwVzY2YkE4WFFKOURSY0tpVDBfYmgzX3Z6d0RGdE1oOA?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmN6QUgxMjQyNTJvRERJeVRPcDJtUVE4eHZ6VVNHOUF5d3h1dVUtVENnWnNWT09ZV3RCN244ZmhHd3YzQ3NpY2tweG8tVkFGQ05xN0dIY2ZzdVBRM2d6eDh0alVTMTRMdnpZNEZQWEhKRU5oaW9wQTNMMGlaQnZxZHJjWlM2dUt6MldodDRTQ1YzcnNHNnI2SWNyeWJxejdMWWpRZnktU2FDanUxZC00X0ZLMA?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ Source: [medicalxpress.com](https://news.google.com/rss/articles/CBMijwFBVV95cUx
 2026-09-29
 
 Source: [e-pao.net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
-
----
-
-### [The Age You Reach Menopause May Be Linked to Your Future Brain Health, 18-Year Study Finds](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
-
-2026-09-28
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
 
 ---
 
