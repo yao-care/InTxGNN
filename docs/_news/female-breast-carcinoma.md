@@ -39,11 +39,11 @@ This page brings together the latest health news about “breast cancer” and l
 
 ## Related News (1)
 
-### [DNA in blood signals cancer risk years ahead](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
+### [Blood RNA markers may flag lung cancer risk 10 years before diagnosis - Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE9hRGtVR1IxREthSDlOdXN1VW1KOEY3TjRKcDB4bnk5bTQwNGRaemRUNFppd0R0MzFuUzFLTElLYWFPVld4Q01tN1BkSkJGb1ZfUVI0bHJfb0tpZ0FkVjloQm4xUW1TWi0ydE1qc3NYM0xuUGc4SWw5aWJXWQ?oc=5)
 
-2026-09-25
+2026-09-30
 
-Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3dIMWpGZ2x0ZGdFT1BEVHgzUjlLMlQ5VFNqZjMzUjg1WWVYUE4ybnY5ZG1LMC1ZOEVyb05LX1VEWlRIazJuY1dBMHJVSVFSa3ZVcGlQbDQ0YU1HWTlmejUyUFpmTEd0cl9LZi1MMWpKdENOWjY3bzhJWkZPYVRwc0FyeGY2Zw?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE9hRGtVR1IxREthSDlOdXN1VW1KOEY3TjRKcDB4bnk5bTQwNGRaemRUNFppd0R0MzFuUzFLTElLYWFPVld4Q01tN1BkSkJGb1ZfUVI0bHJfb0tpZ0FkVjloQm4xUW1TWi0ydE1qc3NYM0xuUGc4SWw5aWJXWQ?oc=5)
 
 ---
 
