@@ -14,7 +14,7 @@ permalink: /news/chromium/
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Chromium</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,9 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>osteoarthritis (98.7%)</li>
+<li class="indication-matched">osteoarthritis (98.7%)<span class="indication-tag">📰 osteoarthritis</span></li>
 <li>osteoarthritis susceptibility (98.5%)</li>
-<li class="indication-matched">rheumatoid arthritis (98.5%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (98.5%)</li>
 <li>gout (98.0%)</li>
 <li>pseudoachondroplasia (98.0%)</li>
 <li>hepatic porphyria (97.9%)</li>
@@ -40,29 +40,13 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (1)
 
-### [World Heart Day – The First Hour Matters: What to Do When Someone Shows Signs Of A Heart Attack : Dr. Girish Godbole, Director & Senior Consultant – Interventional Cardiology, KIMS Hospitals, Electronic City, Bengaluru. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiswJBVV95cUxQN0VWZUp1aUxCZi1RYTNmcTZvRFlJcXlTc2lJeFBGLWlZUDFNR2ZnYjhLRTJ4dXRXdWdQTG9UZ3lNVzgydGpKNjRwLVdkNWdXVDdKX01BcG5KWmdBRk5hWXZnU2tlMEVtek4yYTFVYWRqb0M1TXpuY1BLaDFmaGlBZGltY1N0UkJwVTBvMG1YM2pBSW1CU2gwUU9lcEJyNUd2a3RudmI3bk9PdlZsVzdaS2JzN0lPRURfNWNkUV9QVlQ4OVVLU29ZUC1MTGpuVW85ZWsxVThRR0FlMGQwVUI5NEJveGZyTjFteUQ2Rml2SVF3eUdmVHhmX0hvcnZySm5Qbl9PWFVZRmItX3RXR3ZzZUpFWG9aN1V0dUF3ZjllU3NheXFYTXI3Y0UxRzlveE5vRVNr?oc=5)
+### [MRI findings suggest low-dose radiation may slow progression of knee osteoarthritis - Radiology Business](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNGVXNElRcWVRUi1sNFZnRk9ZYTZMcnV0dzFHRm1oUnBNNnk1NUZKaUl0LUR1bWxEZTF3SlZGN2lKM3R3Umphb3JNNFZTcVRXdHdjV2RVVFJSZzdlX0ZYRGJQMHY3a0NXWDhtOFlQdEItaHI5TEhzZmFTbmFRV1RmQjZUVFRFd2dYTU1tUWVXZmV2TDRDMmdFRnI5R1JLTzZFcl91dG5odHVTTzIxQjQ3bEVyTElJMmo4NzZEZW56dmlldzdrdmFaMjJSbU5tVEE1YW55UzhJZXp0Ukp1UEFkM2s3dmtkVU0?oc=5)
 
-2026-09-29 <span class="news-indication-tag">RA</span>
+2026-09-28 <span class="news-indication-tag">osteoarthritis</span>
 
-Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiswJBVV95cUxQN0VWZUp1aUxCZi1RYTNmcTZvRFlJcXlTc2lJeFBGLWlZUDFNR2ZnYjhLRTJ4dXRXdWdQTG9UZ3lNVzgydGpKNjRwLVdkNWdXVDdKX01BcG5KWmdBRk5hWXZnU2tlMEVtek4yYTFVYWRqb0M1TXpuY1BLaDFmaGlBZGltY1N0UkJwVTBvMG1YM2pBSW1CU2gwUU9lcEJyNUd2a3RudmI3bk9PdlZsVzdaS2JzN0lPRURfNWNkUV9QVlQ4OVVLU29ZUC1MTGpuVW85ZWsxVThRR0FlMGQwVUI5NEJveGZyTjFteUQ2Rml2SVF3eUdmVHhmX0hvcnZySm5Qbl9PWFVZRmItX3RXR3ZzZUpFWG9aN1V0dUF3ZjllU3NheXFYTXI3Y0UxRzlveE5vRVNr?oc=5)
-
----
-
-### [Childhood Cancer Awareness, Early Diagnosis and Timely treatment – Matters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjMybEdfcmxKN2FlQjZ6QUZUaFd6dmNFblNBd3FVay0yRnBVR1doc1VUVWhSelExMWJ2djhNd0JWOFV4dnFJMTh3S3pKc2oxMnVaaTlqNGI4OE5LYkxLQXRxWlNlOXJJamhQaGVwVkQzelBtMDFvYTQzZU0zd1lLeFB3bXRMclBocG5ya0pCeHVxdDhidTNXMDJTU2ljUmVP?oc=5)
-
-2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [Newspatrolling.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjMybEdfcmxKN2FlQjZ6QUZUaFd6dmNFblNBd3FVay0yRnBVR1doc1VUVWhSelExMWJ2djhNd0JWOFV4dnFJMTh3S3pKc2oxMnVaaTlqNGI4OE5LYkxLQXRxWlNlOXJJamhQaGVwVkQzelBtMDFvYTQzZU0zd1lLeFB3bXRMclBocG5ya0pCeHVxdDhidTNXMDJTU2ljUmVP?oc=5)
-
----
-
-### [Infections at birth substantially increase the risk of autism and intellectual disability, study finds](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNG0zMGVVYnJZeTd2bExkREo3N1pYQTM3Z0FLZXptNzB0MU9fOFgwMVF1V3c4cWpTRnQzT0JRY3dIb1BPbUVBWmJGbVBvd3VlQl9jWVpqZndxcHo4eGY5dGlXWllNbnpOMVBBRW5Qcks0YjVYSDJpZndqV1lYSEVpRVExWk5iQ3lZSjEzQm83MEtwcm5KcjE3VnlOcTBteWsyRXBQTUphSUYybXJKTDdtQXdMQXNWeXZ3bE5iaXFUVWsyS1Zw?oc=5)
-
-2026-09-28 <span class="news-indication-tag">RA</span>
-
-Source: [CIDRAP](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNG0zMGVVYnJZeTd2bExkREo3N1pYQTM3Z0FLZXptNzB0MU9fOFgwMVF1V3c4cWpTRnQzT0JRY3dIb1BPbUVBWmJGbVBvd3VlQl9jWVpqZndxcHo4eGY5dGlXWllNbnpOMVBBRW5Qcks0YjVYSDJpZndqV1lYSEVpRVExWk5iQ3lZSjEzQm83MEtwcm5KcjE3VnlOcTBteWsyRXBQTUphSUYybXJKTDdtQXdMQXNWeXZ3bE5iaXFUVWsyS1Zw?oc=5)
+Source: [Radiology Business](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNGVXNElRcWVRUi1sNFZnRk9ZYTZMcnV0dzFHRm1oUnBNNnk1NUZKaUl0LUR1bWxEZTF3SlZGN2lKM3R3Umphb3JNNFZTcVRXdHdjV2RVVFJSZzdlX0ZYRGJQMHY3a0NXWDhtOFlQdEItaHI5TEhzZmFTbmFRV1RmQjZUVFRFd2dYTU1tUWVXZmV2TDRDMmdFRnI5R1JLTzZFcl91dG5odHVTTzIxQjQ3bEVyTElJMmo4NzZEZW56dmlldzdrdmFaMjJSbU5tVEE1YW55UzhJZXp0Ukp1UEFkM2s3dmtkVU0?oc=5)
 
 ---
 
