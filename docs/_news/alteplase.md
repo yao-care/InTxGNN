@@ -14,7 +14,7 @@ permalink: /news/alteplase/
 ---
 
 <p class="key-answer" data-question="What news is there about Alteplase?">
-<strong>Alteplase</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
+<strong>Alteplase</strong> currently has <strong>4 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,23 @@ This page combines the AI-predicted indications for Alteplase with the latest he
 <p><a href="{{ '/drugs/alteplase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [How You Eat Your Fruit Is Linked to Heart Health, Study of 371,000 Americans Reveals](https://news.google.com/rss/articles/CBMisAFBVV95cUxORno5cTZDU0pMNXNxclNOVE9JXzA3b3h5eGhfUmZ3OUViY0pmREUxM3FBY2wxV05SUmk0YlI3NTZOcERtaXJCTXZpWTc0cEtGVnJqWWNpTXE0c0hINno0UENHdXRyanpVbFFYRjV2Y0hUc2RlMHYzRHVlVW9SUGZxUmNVc2JoVjVXT0RWQ2ZpT2lYdG0wa0pmcW1yYUMxUXhLTVFBZ1J2OXdRNjVsajFOVw?oc=5)
+
+2026-09-30 <span class="news-indication-tag">heart disease</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMisAFBVV95cUxORno5cTZDU0pMNXNxclNOVE9JXzA3b3h5eGhfUmZ3OUViY0pmREUxM3FBY2wxV05SUmk0YlI3NTZOcERtaXJCTXZpWTc0cEtGVnJqWWNpTXE0c0hINno0UENHdXRyanpVbFFYRjV2Y0hUc2RlMHYzRHVlVW9SUGZxUmNVc2JoVjVXT0RWQ2ZpT2lYdG0wa0pmcW1yYUMxUXhLTVFBZ1J2OXdRNjVsajFOVw?oc=5)
+
+---
+
+### [Can technology help reduce premature cardiac deaths? | Hindustan Times](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbFBVTTVweDYyZENOenZjV3Bpa1YzQWNVOGtqU3AwSjRwYWEzX2ZMUm5mV1BJRzh5MmtGdWdaVGQzZWJ4dUN0OEhxQzJsTVF6cGFjbDF6VVo3RW9pcTdOdXdJNkx5ckhjYzVRV1d0RHZDNTJXaTBMZWR4MTJMd1dQa1ZtMy1KU0NEbmRET1NpOVVENWNsQkRuU0xWaS13YXNEa3NSUzJTWGtRaTlCZ2xDT09DME43RzJtYTQwRDBnZWFubHQ3eVdB0gHMAUFVX3lxTFBUU2c4Wk95SEFSOTVNRVBzR2ZkbmlSU0VmUlA1NXFlZUtuS2dMajdhSVRXVkRuV2x3aEJqa2RDQzBsMmgxR1pBSDFmcHkyNC1fVWdFWkJXUDJKODlKMFRpa093VndGS2hycjdJeHlyVnM0RkthUUhyWTVJNFRrNkVBN0ZnS0hvc003RTFzT2hRLWJ5a01tOF82dE5Oc3AwdlR6dDZLV0tFYkFMcXBjU1JsT012VzlDTEF4alhvZ2M5UVZ0aFpJZ0tPR0VMRQ?oc=5)
+
+2026-09-29 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [hindustantimes.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbFBVTTVweDYyZENOenZjV3Bpa1YzQWNVOGtqU3AwSjRwYWEzX2ZMUm5mV1BJRzh5MmtGdWdaVGQzZWJ4dUN0OEhxQzJsTVF6cGFjbDF6VVo3RW9pcTdOdXdJNkx5ckhjYzVRV1d0RHZDNTJXaTBMZWR4MTJMd1dQa1ZtMy1KU0NEbmRET1NpOVVENWNsQkRuU0xWaS13YXNEa3NSUzJTWGtRaTlCZ2xDT09DME43RzJtYTQwRDBnZWFubHQ3eVdB0gHMAUFVX3lxTFBUU2c4Wk95SEFSOTVNRVBzR2ZkbmlSU0VmUlA1NXFlZUtuS2dMajdhSVRXVkRuV2x3aEJqa2RDQzBsMmgxR1pBSDFmcHkyNC1fVWdFWkJXUDJKODlKMFRpa093VndGS2hycjdJeHlyVnM0RkthUUhyWTVJNFRrNkVBN0ZnS0hvc003RTFzT2hRLWJ5a01tOF82dE5Oc3AwdlR6dDZLV0tFYkFMcXBjU1JsT012VzlDTEF4alhvZ2M5UVZ0aFpJZ0tPR0VMRQ?oc=5)
+
+---
 
 ### [Can digital health strengthen india’s cardiovascular care continuum?](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzRxSDFyTVVaTDZBVUg1R3I2MGVrTlhKM0I4YzlXeXB1SmRHZXM2MHVmS1d6RXNIQllwT201TjZPLVVhU0pLNFc4SzMtbVFmNk9ramRYeUtDQkJHb1NYZ0pkSm4xWjhrTENKcTZDZXRPWjdTVS1FRDVRV2h1QkFFZVllaFVYN3lKQTdJRHRMVzN5cDl6NndYd1VMVlkydVlVYnZjSFRnRlhBbFdMUFZhVXln?oc=5)
 
@@ -54,14 +70,6 @@ Source: [expresshealthcare.in](https://news.google.com/rss/articles/CBMisgFBVV95
 2026-09-28 <span class="news-indication-tag">heart disease</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXJkMldaM0s0TjJJYVBEY0JuSklXSHNWNkpIVEhVRGlzV2c0N3F4RXFheFVDdFdDN2NfSXpQRTMzU2VFWDJwY3JNQVBEV0JvR1g1WmpGRHRXeWRySndMMDFrV1dsZENCN1pMbV8tcms1RHRTeDVIczhyQk9pd3IyYkpFaFd0ME5pWl9GV2k2QTNXdldSQ0JETFN2c0ZSbkVPcXV3?oc=5)
-
----
-
-### [A survey of 371,000 adults links heart disease to eating whole fruit less often](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
-
-2026-09-28 <span class="news-indication-tag">heart disease</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
 
 ---
 

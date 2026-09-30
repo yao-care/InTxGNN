@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 4 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 5 articles, 8 related drugs."
 permalink: /news/alzheimer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [Alcohol and the Brain; The Next Alzheimer's Frontier; Mice With Human Brain Cells - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE1tS0ktejlCVFZzRnFaM0Z0UGlQamhCWEU5THRHTm5MN21GZlJlM3BxWGdBS2JPSTJMVDdTWklFd3A1a2F6VkhyQ1owLWNoc3BmVTZNSlByWEhUT1BhbjcxeFFxVnItdjZPc3lWRm9XVQ?oc=5)
 
@@ -54,19 +54,27 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRl
 
 ---
 
+### [World Alzheimer's Day 2026 : The earlier you know, the more you can do - A dementia diagnosis matters -](https://news.google.com/rss/articles/CBMivwFBVV95cUxPREN6ZWdQYnV0MC1Dd3RWbXhKdkhHdHdwQ1ZUQ1IwOHJHZWRES0Jpb0llMmhCVExfWUlfXzQ4c3l0SkdBcDN0YnFSc2V5eDNteUw5S3JmSlJ6UVNDaUs5N0lmVXBxRlFfWnNZMkdwYXNJS1BMRjlDMk5Ud1F0R2JOcXNPUVVGYXlMWFZadXVhMjRsWW42Rm04T0d4TE1sNXk4TlpBUkc1SXlieXV3LW9USkl1UEFCVGFxa3BWeE40RQ?oc=5)
+
+2026-09-29
+
+Source: [e-pao.net](https://news.google.com/rss/articles/CBMivwFBVV95cUxPREN6ZWdQYnV0MC1Dd3RWbXhKdkhHdHdwQ1ZUQ1IwOHJHZWRES0Jpb0llMmhCVExfWUlfXzQ4c3l0SkdBcDN0YnFSc2V5eDNteUw5S3JmSlJ6UVNDaUs5N0lmVXBxRlFfWnNZMkdwYXNJS1BMRjlDMk5Ud1F0R2JOcXNPUVVGYXlMWFZadXVhMjRsWW42Rm04T0d4TE1sNXk4TlpBUkc1SXlieXV3LW9USkl1UEFCVGFxa3BWeE40RQ?oc=5) · [e-pao.net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
+
+---
+
+### [Study links earlier menopause with faster memory decline, Alzheimer's risk](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN0o2MUdMcVBYZjRXOW1GdEx2NnN1bkpMOEp6ZkR5YlowTjIxWWh4RWs1cWZlY3lwck1rNVdNMUYtVThZd2dKSjdsb2QwZ1ZWTEJTcS1qQnBkbjRHV1gwU2VHRXRsdURsc2xYWGZwZFlwOGhYSURnbUdyM01Sa1Fyd1RVbWdaQy12UEg5cHVNLUMtZzBvbkYzclNMdVQxbWtpc1FKaGlWWURPQVVMTXFaX05wUkQ1N2FyUTU0?oc=5)
+
+2026-09-28
+
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN0o2MUdMcVBYZjRXOW1GdEx2NnN1bkpMOEp6ZkR5YlowTjIxWWh4RWs1cWZlY3lwck1rNVdNMUYtVThZd2dKSjdsb2QwZ1ZWTEJTcS1qQnBkbjRHV1gwU2VHRXRsdURsc2xYWGZwZFlwOGhYSURnbUdyM01Sa1Fyd1RVbWdaQy12UEg5cHVNLUMtZzBvbkYzclNMdVQxbWtpc1FKaGlWWURPQVVMTXFaX05wUkQ1N2FyUTU0?oc=5)
+
+---
+
 ### [The Age You Reach Menopause May Be Linked to Your Future Brain Health, 18-Year Study Finds](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
 
 2026-09-28
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
-
----
-
-### [Insomnia linked to increased risk of stroke and hospital admissions](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjY2b0d0OHJiTXhDemFzbmJ3VXBOa3JVamZRaGpHNEtNbzlJbXpPLXU3MnJ2akQzTzlHYm5IM3F4eVJnVUQtSnliZ3R5QUZPSnhubjFrRE51eHhJRFNWT2ZHZUJsbmROY05WZnViRjhXR2I4VUt6X3pVQjd5Q2xzaE83UFh6WnBWMnhEVHk0NXo1UGVHbHdOOGxWbmszdHVPeW5BT2ZvckNjTGFCUW5vX2dYTGprZw?oc=5)
-
-2026-09-28
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjY2b0d0OHJiTXhDemFzbmJ3VXBOa3JVamZRaGpHNEtNbzlJbXpPLXU3MnJ2akQzTzlHYm5IM3F4eVJnVUQtSnliZ3R5QUZPSnhubjFrRE51eHhJRFNWT2ZHZUJsbmROY05WZnViRjhXR2I4VUt6X3pVQjd5Q2xzaE83UFh6WnBWMnhEVHk0NXo1UGVHbHdOOGxWbmszdHVPeW5BT2ZvckNjTGFCUW5vX2dYTGprZw?oc=5)
 
 ---
 
