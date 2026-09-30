@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>bronchitis (100.0%)</li>
 <li>atopic eczema (99.8%)</li>
-<li class="indication-matched">asthma (99.5%)<span class="indication-tag">📰 dama</span></li>
+<li>asthma (99.5%)</li>
 <li>obstructive lung disease (99.3%)</li>
 <li>asthma-related traits, susceptibility to (99.2%)</li>
 </ul></li>
@@ -35,23 +35,9 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [AH&VS Observes World Rabies Day with the Theme ‘Stronger Together’ - Andaman Chronicle](https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3lIeUVNUzdiQXJJRWNJSDRlSDE5UHRFdlJDNUVnaGFSTlR3bHpyeXJqbk5rYVVYTUZoRTh6NEVHdEljS25iLTYyOWdrV3hJM0UtTGpDd2N3YjI5Z0lsYURxRXNOZVhFTGJaRGJxM1AyclF4THJ2NmF5cy1SZnFES0hSNnJERm5RTmpPYmhvUkRPVTdZVHlvaQ?oc=5)
-
-2026-09-28 <span class="news-indication-tag">dama</span>
-
-Source: [Andaman Chronicle](https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3lIeUVNUzdiQXJJRWNJSDRlSDE5UHRFdlJDNUVnaGFSTlR3bHpyeXJqbk5rYVVYTUZoRTh6NEVHdEljS25iLTYyOWdrV3hJM0UtTGpDd2N3YjI5Z0lsYURxRXNOZVhFTGJaRGJxM1AyclF4THJ2NmF5cy1SZnFES0hSNnJERm5RTmpPYmhvUkRPVTdZVHlvaQ?oc=5)
-
----
-
-### [What links smoking, body fat, mental health, genes, and heart risk? Inflammation may be part of the answer](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3aUJGQlFfOTh5ZG5xVklTMHR0dkRpVUQzQlpyQ2gwTDBsMkNiSzNDZHhqdGR0SEswcGJsS0JhNV83VTVhSDJ1R1FZY1FHTWdBa3hRZWo0YW5ZdUd0M3RQLVBWVlU2VDlHMDZ6LTNlaGVGSFdHdUVSVWJGNHh5cUx2dWlkMmtHVG54OVkyWUhzQWpZeHRpaFlSaDB1eFFsaTVSa2tjMFVHd0xwTnRGb1FrWGtRZkNzWU9COWlvV2NNRTFmQTRjWnlPNUxDVENNOWM5ZWZoZnBnbjNTUkdMLUVuRQ?oc=5)
-
-2026-09-23 <span class="news-indication-tag">dama</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3aUJGQlFfOTh5ZG5xVklTMHR0dkRpVUQzQlpyQ2gwTDBsMkNiSzNDZHhqdGR0SEswcGJsS0JhNV83VTVhSDJ1R1FZY1FHTWdBa3hRZWo0YW5ZdUd0M3RQLVBWVlU2VDlHMDZ6LTNlaGVGSFdHdUVSVWJGNHh5cUx2dWlkMmtHVG54OVkyWUhzQWpZeHRpaFlSaDB1eFFsaTVSa2tjMFVHd0xwTnRGb1FrWGtRZkNzWU9COWlvV2NNRTFmQTRjWnlPNUxDVENNOWM5ZWZoZnBnbjNTUkdMLUVuRQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

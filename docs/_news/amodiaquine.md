@@ -14,7 +14,7 @@ permalink: /news/amodiaquine/
 ---
 
 <p class="key-answer" data-question="What news is there about Amodiaquine?">
-<strong>Amodiaquine</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Amodiaquine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Amodiaquine with the latest 
 <li>kyphoscoliotic heart disease (99.1%)</li>
 <li>migraine with or without aura, susceptibility to (99.0%)</li>
 <li>migraine with brainstem aura (99.0%)</li>
-<li class="indication-matched">rheumatoid arthritis (98.7%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (98.7%)</li>
 <li>leprosy (98.4%)</li>
 <li>atrophoderma vermiculata (98.3%)</li>
 <li>ulerythema ophryogenesis (98.2%)</li>
@@ -40,31 +40,9 @@ This page combines the AI-predicted indications for Amodiaquine with the latest 
 <p><a href="{{ '/drugs/amodiaquine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (0)
 
-### [World Heart Day – The First Hour Matters: What to Do When Someone Shows Signs Of A Heart Attack : Dr. Girish Godbole, Director & Senior Consultant – Interventional Cardiology, KIMS Hospitals, Electronic City, Bengaluru. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiswJBVV95cUxQN0VWZUp1aUxCZi1RYTNmcTZvRFlJcXlTc2lJeFBGLWlZUDFNR2ZnYjhLRTJ4dXRXdWdQTG9UZ3lNVzgydGpKNjRwLVdkNWdXVDdKX01BcG5KWmdBRk5hWXZnU2tlMEVtek4yYTFVYWRqb0M1TXpuY1BLaDFmaGlBZGltY1N0UkJwVTBvMG1YM2pBSW1CU2gwUU9lcEJyNUd2a3RudmI3bk9PdlZsVzdaS2JzN0lPRURfNWNkUV9QVlQ4OVVLU29ZUC1MTGpuVW85ZWsxVThRR0FlMGQwVUI5NEJveGZyTjFteUQ2Rml2SVF3eUdmVHhmX0hvcnZySm5Qbl9PWFVZRmItX3RXR3ZzZUpFWG9aN1V0dUF3ZjllU3NheXFYTXI3Y0UxRzlveE5vRVNr?oc=5)
-
-2026-09-29 <span class="news-indication-tag">RA</span>
-
-Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiswJBVV95cUxQN0VWZUp1aUxCZi1RYTNmcTZvRFlJcXlTc2lJeFBGLWlZUDFNR2ZnYjhLRTJ4dXRXdWdQTG9UZ3lNVzgydGpKNjRwLVdkNWdXVDdKX01BcG5KWmdBRk5hWXZnU2tlMEVtek4yYTFVYWRqb0M1TXpuY1BLaDFmaGlBZGltY1N0UkJwVTBvMG1YM2pBSW1CU2gwUU9lcEJyNUd2a3RudmI3bk9PdlZsVzdaS2JzN0lPRURfNWNkUV9QVlQ4OVVLU29ZUC1MTGpuVW85ZWsxVThRR0FlMGQwVUI5NEJveGZyTjFteUQ2Rml2SVF3eUdmVHhmX0hvcnZySm5Qbl9PWFVZRmItX3RXR3ZzZUpFWG9aN1V0dUF3ZjllU3NheXFYTXI3Y0UxRzlveE5vRVNr?oc=5)
-
----
-
-### [Childhood Cancer Awareness, Early Diagnosis and Timely treatment – Matters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjMybEdfcmxKN2FlQjZ6QUZUaFd6dmNFblNBd3FVay0yRnBVR1doc1VUVWhSelExMWJ2djhNd0JWOFV4dnFJMTh3S3pKc2oxMnVaaTlqNGI4OE5LYkxLQXRxWlNlOXJJamhQaGVwVkQzelBtMDFvYTQzZU0zd1lLeFB3bXRMclBocG5ya0pCeHVxdDhidTNXMDJTU2ljUmVP?oc=5)
-
-2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [Newspatrolling.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjMybEdfcmxKN2FlQjZ6QUZUaFd6dmNFblNBd3FVay0yRnBVR1doc1VUVWhSelExMWJ2djhNd0JWOFV4dnFJMTh3S3pKc2oxMnVaaTlqNGI4OE5LYkxLQXRxWlNlOXJJamhQaGVwVkQzelBtMDFvYTQzZU0zd1lLeFB3bXRMclBocG5ya0pCeHVxdDhidTNXMDJTU2ljUmVP?oc=5)
-
----
-
-### [Infections at birth substantially increase the risk of autism and intellectual disability, study finds](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNG0zMGVVYnJZeTd2bExkREo3N1pYQTM3Z0FLZXptNzB0MU9fOFgwMVF1V3c4cWpTRnQzT0JRY3dIb1BPbUVBWmJGbVBvd3VlQl9jWVpqZndxcHo4eGY5dGlXWllNbnpOMVBBRW5Qcks0YjVYSDJpZndqV1lYSEVpRVExWk5iQ3lZSjEzQm83MEtwcm5KcjE3VnlOcTBteWsyRXBQTUphSUYybXJKTDdtQXdMQXNWeXZ3bE5iaXFUVWsyS1Zw?oc=5)
-
-2026-09-28 <span class="news-indication-tag">RA</span>
-
-Source: [CIDRAP](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNG0zMGVVYnJZeTd2bExkREo3N1pYQTM3Z0FLZXptNzB0MU9fOFgwMVF1V3c4cWpTRnQzT0JRY3dIb1BPbUVBWmJGbVBvd3VlQl9jWVpqZndxcHo4eGY5dGlXWllNbnpOMVBBRW5Qcks0YjVYSDJpZndqV1lYSEVpRVExWk5iQ3lZSjEzQm83MEtwcm5KcjE3VnlOcTBteWsyRXBQTUphSUYybXJKTDdtQXdMQXNWeXZ3bE5iaXFUVWsyS1Zw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

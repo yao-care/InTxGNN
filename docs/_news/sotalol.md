@@ -14,7 +14,7 @@ permalink: /news/sotalol/
 ---
 
 <p class="key-answer" data-question="What news is there about Sotalol?">
-<strong>Sotalol</strong> currently has <strong>2 news articles</strong>, with 7 predicted indications.
+<strong>Sotalol</strong> currently has <strong>1 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,13 @@ This page combines the AI-predicted indications for Sotalol with the latest heal
 <p><a href="{{ '/drugs/sotalol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Pharmacists Are Vital in Complex, Team-Based Treatment of PAD - Drug Topics](https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2lnUnlZbmJDUWFSQ2tYUGtKSGh2RHlZRks4NGc3NDFta3RJY3ZJbEVEV1llTHRraTR2SEpTNWVvTUctT2p0WmJnRHZuZEhGZE1kSzdQLWFteWZJaGdRdUdHSFMteFBIXzYxcHlDTjgtdXZneDY2OERWTk1aZGFDaXd5MW9iT1BvNHFCX2REaWEzeWtRY3dJ?oc=5)
+### [This leg condition that’s overlooked in women can raise heart attack, stroke risk - The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHFhUG1aUTZfTUo4OHpZZ2gyc1Z1ck9FVTV1MnlOWFJlWHk2d20tX0FmWHRvOFZOSDFscEJ4R1VpQlNqczF6aXNOX1BzSHhnNnBvdlltTGp3UUV1ZHNnMnlCUEMxRTBiMnhLMnkzeG4tQVlrdkVCRGtBbGtrQmJVTnJtdjR1WnRFVXZHUTlWVzk3VElHR005NWd6R2RNUUFSa1BHcXBHcGV2SjNNa0Q2OFlyRzNEcVh3Nkx5TXduNA?oc=5)
 
-2026-09-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-09-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Drug Topics](https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2lnUnlZbmJDUWFSQ2tYUGtKSGh2RHlZRks4NGc3NDFta3RJY3ZJbEVEV1llTHRraTR2SEpTNWVvTUctT2p0WmJnRHZuZEhGZE1kSzdQLWFteWZJaGdRdUdHSFMteFBIXzYxcHlDTjgtdXZneDY2OERWTk1aZGFDaXd5MW9iT1BvNHFCX2REaWEzeWtRY3dJ?oc=5)
-
----
-
-### [Using AI to monitor your heart health? Cardiologist reveals how much you can rely on it | Health](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYkZkRzBfRVFmZHNoV3RsaVM3X2dMNWsyNXJqYXMwbmJtT0RfVVBtRjJwdldwN1NaUWI3eGs5QjdJM01lTnV6STVCdUFheGkyLTJQQ2dPaHdLYlVyd196RnZrNEdULVY3MTY4S2JfeFdVNUQ3YmtXQkN4OEl0TGVBVUZnTm1EcTVYUzBsc0VFa2tqeS0zMTBETFcwejhQZm9OSF9GSzRzR3NlNXFHT2d2S1pPNjlhOU5lT1NFc21KcUg4aUw5YjRNRGxtRngxWmZVNWZOLVhhOTRXeWQ4UjlYY1lyOENSV3U3Um9r0gHwAUFVX3lxTE1CTGJJaWtucTB3U1BxRkM1WGtIOU44WFFvNTJ6ZENoNF9MX0RFWGdCdVpKSHh1V1J5ajVhTDhydDNOeDZSUVo1WEVTcG0tWmxYWV9uYm5RWEI4cGVhSW5HemtLNEc3UEJXazllLUY0UDRxRGJSZ1NnTGJtY1lrekhXMjUybWNjdm84UHFiZnFKVERDQUhRcHpKVVlhSHdBUGdZNGd1SWlIYWpZclFXRFFkWnlIVlNhUjloWXFfdllPOGNZb2VDTmFzM3NDVndieHE2d0F2NXVzV2NpdWM1X1lhcWtremNmWHROLXNKYkFxSQ?oc=5)
-
-2026-09-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [hindustantimes.com](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYkZkRzBfRVFmZHNoV3RsaVM3X2dMNWsyNXJqYXMwbmJtT0RfVVBtRjJwdldwN1NaUWI3eGs5QjdJM01lTnV6STVCdUFheGkyLTJQQ2dPaHdLYlVyd196RnZrNEdULVY3MTY4S2JfeFdVNUQ3YmtXQkN4OEl0TGVBVUZnTm1EcTVYUzBsc0VFa2tqeS0zMTBETFcwejhQZm9OSF9GSzRzR3NlNXFHT2d2S1pPNjlhOU5lT1NFc21KcUg4aUw5YjRNRGxtRngxWmZVNWZOLVhhOTRXeWQ4UjlYY1lyOENSV3U3Um9r0gHwAUFVX3lxTE1CTGJJaWtucTB3U1BxRkM1WGtIOU44WFFvNTJ6ZENoNF9MX0RFWGdCdVpKSHh1V1J5ajVhTDhydDNOeDZSUVo1WEVTcG0tWmxYWV9uYm5RWEI4cGVhSW5HemtLNEc3UEJXazllLUY0UDRxRGJSZ1NnTGJtY1lrekhXMjUybWNjdm84UHFiZnFKVERDQUhRcHpKVVlhSHdBUGdZNGd1SWlIYWpZclFXRFFkWnlIVlNhUjloWXFfdllPOGNZb2VDTmFzM3NDVndieHE2d0F2NXVzV2NpdWM1X1lhcWtremNmWHROLXNKYkFxSQ?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHFhUG1aUTZfTUo4OHpZZ2gyc1Z1ck9FVTV1MnlOWFJlWHk2d20tX0FmWHRvOFZOSDFscEJ4R1VpQlNqczF6aXNOX1BzSHhnNnBvdlltTGp3UUV1ZHNnMnlCUEMxRTBiMnhLMnkzeG4tQVlrdkVCRGtBbGtrQmJVTnJtdjR1WnRFVXZHUTlWVzk3VElHR005NWd6R2RNUUFSa1BHcXBHcGV2SjNNa0Q2OFlyRzNEcVh3Nkx5TXduNA?oc=5)
 
 ---
 
