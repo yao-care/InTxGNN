@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,13 +28,21 @@ This page combines the AI-predicted indications for Urea with the latest health 
 <p><a href="{{ '/drugs/urea/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Decoding AI-identified biomarker - Medical Buyer](https://news.google.com/rss/articles/CBMibEFVX3lxTE84MWNSMmVWRmtHOTlBZXFUeHVTNkprdFVRQU1UaTg4dkxFODlKRHJLZFZJT2dXTVF6NklXNmxZUFFFdjBGZEtfSnUyMm5oWjAzOUpMdHNsemVSSy1LNGY0SUpFel9yU3hZa21FOA?oc=5)
+### [AI-Identified Biomarkers: Potential and Challenges in Healthcare](https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEg3dEpPbHBwWUNLNVU0dFFkS29iS0RJMXc1OUlXLTJMdlNoNUlzMzNJWTBRMXZpT3BGd01iamFsb1pCUTZBVm1ZY0xCRTFlQnJmWTAzcnVJMndsT1VSX1djWjBXWnR5bWllNGdaeGFZVmJSWWRMQkt4SmM1Y0N5NTZ5eGVObms0UmVvbm5vOVQxd2VUZEtVdXpseHQzdFVhdVpJ?oc=5)
+
+2026-09-29 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+
+Source: [indianewsnetwork.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEg3dEpPbHBwWUNLNVU0dFFkS29iS0RJMXc1OUlXLTJMdlNoNUlzMzNJWTBRMXZpT3BGd01iamFsb1pCUTZBVm1ZY0xCRTFlQnJmWTAzcnVJMndsT1VSX1djWjBXWnR5bWllNGdaeGFZVmJSWWRMQkt4SmM1Y0N5NTZ5eGVObms0UmVvbm5vOVQxd2VUZEtVdXpseHQzdFVhdVpJ?oc=5)
+
+---
+
+### [An AI-identified biomarker can look accurate and still fail its biggest test](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTkYzWXR1OHhSMC0zZi1HZEVOSHdhaWFZbnJ3U1lubmRSTjQ3bmZyMk9JbzBCd1NtZGNiWjZrNElpeDdhV2NkMklWYnpacGlqOGM5cW5OWW9rckIyRmlNYXpNZ240a1lFQm9WcWlpUDJXZTRyODRXbm1WcGRodUJQVU5CWjI2QlhTRHlkMjQ3NlQtRTkxSWxKZVFjYllyOEhSWjYxcUpFTUlVWXpBVDl3dGRxMjBBbF94MDdPV3FTY0pLZw?oc=5)
 
 2026-09-28 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
 
-Source: [Medical Buyer](https://news.google.com/rss/articles/CBMibEFVX3lxTE84MWNSMmVWRmtHOTlBZXFUeHVTNkprdFVRQU1UaTg4dkxFODlKRHJLZFZJT2dXTVF6NklXNmxZUFFFdjBGZEtfSnUyMm5oWjAzOUpMdHNsemVSSy1LNGY0SUpFel9yU3hZa21FOA?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTkYzWXR1OHhSMC0zZi1HZEVOSHdhaWFZbnJ3U1lubmRSTjQ3bmZyMk9JbzBCd1NtZGNiWjZrNElpeDdhV2NkMklWYnpacGlqOGM5cW5OWW9rckIyRmlNYXpNZ240a1lFQm9WcWlpUDJXZTRyODRXbm1WcGRodUJQVU5CWjI2QlhTRHlkMjQ3NlQtRTkxSWxKZVFjYllyOEhSWjYxcUpFTUlVWXpBVDl3dGRxMjBBbF94MDdPV3FTY0pLZw?oc=5)
 
 ---
 

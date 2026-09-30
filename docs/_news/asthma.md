@@ -1,45 +1,39 @@
 ---
 layout: default
-title: "Montelukast News"
+title: "dama (asthma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Montelukast. Original indication: . 5 predicted indications."
-permalink: /news/montelukast/
+description: "Health news about dama (asthma). 2 articles, 1 related drugs."
+permalink: /news/asthma/
 ---
 
-# Montelukast News
+# dama (asthma) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
+<p class="key-answer" data-question="What news is there about dama (asthma)?">
+<strong>dama (asthma)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page combines the AI-predicted indications for Montelukast with the latest health news. Indications highlighted in orange have recent news coverage.
+This page brings together the latest health news about “dama” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
-<div class="drug-info-card">
-<strong>Drug Information</strong>
+<div class="related-drugs-card">
+<strong>Related drug reports</strong>
+<p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>bronchitis (100.0%)</li>
-<li>atopic eczema (99.8%)</li>
-<li class="indication-matched">asthma (99.5%)<span class="indication-tag">📰 dama</span></li>
-<li>obstructive lung disease (99.3%)</li>
-<li>asthma-related traits, susceptibility to (99.2%)</li>
-</ul></li>
+<li><a href="{{ '/drugs/montelukast/' | relative_url }}">Montelukast</a></li>
 </ul>
-<p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (2)
 
 ### [AH&VS Observes World Rabies Day with the Theme ‘Stronger Together’ - Andaman Chronicle](https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3lIeUVNUzdiQXJJRWNJSDRlSDE5UHRFdlJDNUVnaGFSTlR3bHpyeXJqbk5rYVVYTUZoRTh6NEVHdEljS25iLTYyOWdrV3hJM0UtTGpDd2N3YjI5Z0lsYURxRXNOZVhFTGJaRGJxM1AyclF4THJ2NmF5cy1SZnFES0hSNnJERm5RTmpPYmhvUkRPVTdZVHlvaQ?oc=5)
 
-2026-09-28 <span class="news-indication-tag">dama</span>
+2026-09-28
 
 Source: [Andaman Chronicle](https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3lIeUVNUzdiQXJJRWNJSDRlSDE5UHRFdlJDNUVnaGFSTlR3bHpyeXJqbk5rYVVYTUZoRTh6NEVHdEljS25iLTYyOWdrV3hJM0UtTGpDd2N3YjI5Z0lsYURxRXNOZVhFTGJaRGJxM1AyclF4THJ2NmF5cy1SZnFES0hSNnJERm5RTmpPYmhvUkRPVTdZVHlvaQ?oc=5)
 
@@ -47,7 +41,7 @@ Source: [Andaman Chronicle](https://news.google.com/rss/articles/CBMimAFBVV95cUx
 
 ### [What links smoking, body fat, mental health, genes, and heart risk? Inflammation may be part of the answer](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3aUJGQlFfOTh5ZG5xVklTMHR0dkRpVUQzQlpyQ2gwTDBsMkNiSzNDZHhqdGR0SEswcGJsS0JhNV83VTVhSDJ1R1FZY1FHTWdBa3hRZWo0YW5ZdUd0M3RQLVBWVlU2VDlHMDZ6LTNlaGVGSFdHdUVSVWJGNHh5cUx2dWlkMmtHVG54OVkyWUhzQWpZeHRpaFlSaDB1eFFsaTVSa2tjMFVHd0xwTnRGb1FrWGtRZkNzWU9COWlvV2NNRTFmQTRjWnlPNUxDVENNOWM5ZWZoZnBnbjNTUkdMLUVuRQ?oc=5)
 
-2026-09-23 <span class="news-indication-tag">dama</span>
+2026-09-23
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3aUJGQlFfOTh5ZG5xVklTMHR0dkRpVUQzQlpyQ2gwTDBsMkNiSzNDZHhqdGR0SEswcGJsS0JhNV83VTVhSDJ1R1FZY1FHTWdBa3hRZWo0YW5ZdUd0M3RQLVBWVlU2VDlHMDZ6LTNlaGVGSFdHdUVSVWJGNHh5cUx2dWlkMmtHVG54OVkyWUhzQWpZeHRpaFlSaDB1eFFsaTVSa2tjMFVHd0xwTnRGb1FrWGtRZkNzWU9COWlvV2NNRTFmQTRjWnlPNUxDVENNOWM5ZWZoZnBnbjNTUkdMLUVuRQ?oc=5)
 
@@ -57,39 +51,3 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2o3
 <div class="disclaimer">
 <strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
-
-<style>
-.indication-matched {
-  background: #fff3e0;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #ff9800;
-}
-.indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-left: 8px;
-}
-.news-indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-.news-drug-tag {
-  display: inline-block;
-  background: #1565c0;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-</style>

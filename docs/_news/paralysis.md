@@ -3,7 +3,7 @@ layout: default
 title: "stroke (paralysis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke (paralysis). 3 articles, 15 related drugs."
+description: "Health news about stroke (paralysis). 2 articles, 15 related drugs."
 permalink: /news/paralysis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/paralysis/
 ---
 
 <p class="key-answer" data-question="What news is there about stroke (paralysis)?">
-<strong>stroke (paralysis)</strong> currently has <strong>3 news articles</strong> and 15 related drugs.
+<strong>stroke (paralysis)</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,21 +43,13 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Pharmacists Are Vital in Complex, Team-Based Treatment of PAD - Drug Topics](https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2lnUnlZbmJDUWFSQ2tYUGtKSGh2RHlZRks4NGc3NDFta3RJY3ZJbEVEV1llTHRraTR2SEpTNWVvTUctT2p0WmJnRHZuZEhGZE1kSzdQLWFteWZJaGdRdUdHSFMteFBIXzYxcHlDTjgtdXZneDY2OERWTk1aZGFDaXd5MW9iT1BvNHFCX2REaWEzeWtRY3dJ?oc=5)
 
 2026-09-29
 
 Source: [Drug Topics](https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2lnUnlZbmJDUWFSQ2tYUGtKSGh2RHlZRks4NGc3NDFta3RJY3ZJbEVEV1llTHRraTR2SEpTNWVvTUctT2p0WmJnRHZuZEhGZE1kSzdQLWFteWZJaGdRdUdHSFMteFBIXzYxcHlDTjgtdXZneDY2OERWTk1aZGFDaXd5MW9iT1BvNHFCX2REaWEzeWtRY3dJ?oc=5)
-
----
-
-### [Insomnia linked to increased risk of stroke and hospital admissions](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjY2b0d0OHJiTXhDemFzbmJ3VXBOa3JVamZRaGpHNEtNbzlJbXpPLXU3MnJ2akQzTzlHYm5IM3F4eVJnVUQtSnliZ3R5QUZPSnhubjFrRE51eHhJRFNWT2ZHZUJsbmROY05WZnViRjhXR2I4VUt6X3pVQjd5Q2xzaE83UFh6WnBWMnhEVHk0NXo1UGVHbHdOOGxWbmszdHVPeW5BT2ZvckNjTGFCUW5vX2dYTGprZw?oc=5)
-
-2026-09-28
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjY2b0d0OHJiTXhDemFzbmJ3VXBOa3JVamZRaGpHNEtNbzlJbXpPLXU3MnJ2akQzTzlHYm5IM3F4eVJnVUQtSnliZ3R5QUZPSnhubjFrRE51eHhJRFNWT2ZHZUJsbmROY05WZnViRjhXR2I4VUt6X3pVQjd5Q2xzaE83UFh6WnBWMnhEVHk0NXo1UGVHbHdOOGxWbmszdHVPeW5BT2ZvckNjTGFCUW5vX2dYTGprZw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "RA (rheumatoid arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (rheumatoid arthritis). 1 articles, 21 related drugs."
+description: "Health news about RA (rheumatoid arthritis). 3 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rheumatoid-arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about RA (rheumatoid arthritis)?">
-<strong>RA (rheumatoid arthritis)</strong> currently has <strong>1 news articles</strong> and 21 related drugs.
+<strong>RA (rheumatoid arthritis)</strong> currently has <strong>3 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -49,13 +49,29 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (1)
+## Related News (3)
 
-### [NASA’s Mars Rover Cracks Open Rock That Fooled Scientists Into Seeing a Beach](https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXptOE9vWkJ4UmVQSTkybkFiRFZraFRwMEZ2cmQ0YWpFUWdHdjZsMll4SDlucDZ5MExBSzF1OW5vWXJsYk03aEZldTJjdnBmUUg3ZERTbUZXbVJqMUZFVFZOYTNOSmtBRkhLeE9RdUFpWTFYeFZONG1zOTlCSHJ0RmlBM0lzcUNCSmE5WTJmNFJoMTJxVm5oSGhueHdNYnA3MkE?oc=5)
+### [World Heart Day – The First Hour Matters: What to Do When Someone Shows Signs Of A Heart Attack : Dr. Girish Godbole, Director & Senior Consultant – Interventional Cardiology, KIMS Hospitals, Electronic City, Bengaluru. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiswJBVV95cUxQN0VWZUp1aUxCZi1RYTNmcTZvRFlJcXlTc2lJeFBGLWlZUDFNR2ZnYjhLRTJ4dXRXdWdQTG9UZ3lNVzgydGpKNjRwLVdkNWdXVDdKX01BcG5KWmdBRk5hWXZnU2tlMEVtek4yYTFVYWRqb0M1TXpuY1BLaDFmaGlBZGltY1N0UkJwVTBvMG1YM2pBSW1CU2gwUU9lcEJyNUd2a3RudmI3bk9PdlZsVzdaS2JzN0lPRURfNWNkUV9QVlQ4OVVLU29ZUC1MTGpuVW85ZWsxVThRR0FlMGQwVUI5NEJveGZyTjFteUQ2Rml2SVF3eUdmVHhmX0hvcnZySm5Qbl9PWFVZRmItX3RXR3ZzZUpFWG9aN1V0dUF3ZjllU3NheXFYTXI3Y0UxRzlveE5vRVNr?oc=5)
 
 2026-09-29
 
-Source: [StudyFinds](https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXptOE9vWkJ4UmVQSTkybkFiRFZraFRwMEZ2cmQ0YWpFUWdHdjZsMll4SDlucDZ5MExBSzF1OW5vWXJsYk03aEZldTJjdnBmUUg3ZERTbUZXbVJqMUZFVFZOYTNOSmtBRkhLeE9RdUFpWTFYeFZONG1zOTlCSHJ0RmlBM0lzcUNCSmE5WTJmNFJoMTJxVm5oSGhueHdNYnA3MkE?oc=5)
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiswJBVV95cUxQN0VWZUp1aUxCZi1RYTNmcTZvRFlJcXlTc2lJeFBGLWlZUDFNR2ZnYjhLRTJ4dXRXdWdQTG9UZ3lNVzgydGpKNjRwLVdkNWdXVDdKX01BcG5KWmdBRk5hWXZnU2tlMEVtek4yYTFVYWRqb0M1TXpuY1BLaDFmaGlBZGltY1N0UkJwVTBvMG1YM2pBSW1CU2gwUU9lcEJyNUd2a3RudmI3bk9PdlZsVzdaS2JzN0lPRURfNWNkUV9QVlQ4OVVLU29ZUC1MTGpuVW85ZWsxVThRR0FlMGQwVUI5NEJveGZyTjFteUQ2Rml2SVF3eUdmVHhmX0hvcnZySm5Qbl9PWFVZRmItX3RXR3ZzZUpFWG9aN1V0dUF3ZjllU3NheXFYTXI3Y0UxRzlveE5vRVNr?oc=5)
+
+---
+
+### [Childhood Cancer Awareness, Early Diagnosis and Timely treatment – Matters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjMybEdfcmxKN2FlQjZ6QUZUaFd6dmNFblNBd3FVay0yRnBVR1doc1VUVWhSelExMWJ2djhNd0JWOFV4dnFJMTh3S3pKc2oxMnVaaTlqNGI4OE5LYkxLQXRxWlNlOXJJamhQaGVwVkQzelBtMDFvYTQzZU0zd1lLeFB3bXRMclBocG5ya0pCeHVxdDhidTNXMDJTU2ljUmVP?oc=5)
+
+2026-09-29
+
+Source: [Newspatrolling.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjMybEdfcmxKN2FlQjZ6QUZUaFd6dmNFblNBd3FVay0yRnBVR1doc1VUVWhSelExMWJ2djhNd0JWOFV4dnFJMTh3S3pKc2oxMnVaaTlqNGI4OE5LYkxLQXRxWlNlOXJJamhQaGVwVkQzelBtMDFvYTQzZU0zd1lLeFB3bXRMclBocG5ya0pCeHVxdDhidTNXMDJTU2ljUmVP?oc=5)
+
+---
+
+### [Infections at birth substantially increase the risk of autism and intellectual disability, study finds](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNG0zMGVVYnJZeTd2bExkREo3N1pYQTM3Z0FLZXptNzB0MU9fOFgwMVF1V3c4cWpTRnQzT0JRY3dIb1BPbUVBWmJGbVBvd3VlQl9jWVpqZndxcHo4eGY5dGlXWllNbnpOMVBBRW5Qcks0YjVYSDJpZndqV1lYSEVpRVExWk5iQ3lZSjEzQm83MEtwcm5KcjE3VnlOcTBteWsyRXBQTUphSUYybXJKTDdtQXdMQXNWeXZ3bE5iaXFUVWsyS1Zw?oc=5)
+
+2026-09-28
+
+Source: [CIDRAP](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNG0zMGVVYnJZeTd2bExkREo3N1pYQTM3Z0FLZXptNzB0MU9fOFgwMVF1V3c4cWpTRnQzT0JRY3dIb1BPbUVBWmJGbVBvd3VlQl9jWVpqZndxcHo4eGY5dGlXWllNbnpOMVBBRW5Qcks0YjVYSDJpZndqV1lYSEVpRVExWk5iQ3lZSjEzQm83MEtwcm5KcjE3VnlOcTBteWsyRXBQTUphSUYybXJKTDdtQXdMQXNWeXZ3bE5iaXFUVWsyS1Zw?oc=5)
 
 ---
 
