@@ -14,7 +14,7 @@ permalink: /news/eptifibatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Eptifibatide?">
-<strong>Eptifibatide</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Eptifibatide</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ This page combines the AI-predicted indications for Eptifibatide with the latest
 <p><a href="{{ '/drugs/eptifibatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (7)
 
-### [Building Resilience Into The Future Of Breast Cancer Care](https://news.google.com/rss/articles/CBMivAFBVV95cUxOWHk2M2IwdGxjbHRtVC1YLU82ZU5US3FLU0NvUTcwOHZtTTJNMDc0cWgtWVBHeExxeU54U3Jrc2JtSzVicm5tbGktakRpUDVuNFlQZ0JiZjVpa0hpZ0IwRTZoNXJjVE1yeFBEX3ZnLWdEeU5zSS1xSnZFWldPdVlFYjlGa3g1QjF0Ylh2NEROdDFwTzNQdlNKQld3eEtCVTlTckIydl9mbXZXbktPOHB2dWZNZXJNNC1uUlNXTw?oc=5)
+### [New research suggests vaccines could help prevent autism - Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
 
-2026-10-01 <span class="news-indication-tag">cancer</span>
+2026-10-01 <span class="news-indication-tag">RA</span>
 
-Source: [Forbes](https://news.google.com/rss/articles/CBMivAFBVV95cUxOWHk2M2IwdGxjbHRtVC1YLU82ZU5US3FLU0NvUTcwOHZtTTJNMDc0cWgtWVBHeExxeU54U3Jrc2JtSzVicm5tbGktakRpUDVuNFlQZ0JiZjVpa0hpZ0IwRTZoNXJjVE1yeFBEX3ZnLWdEeU5zSS1xSnZFWldPdVlFYjlGa3g1QjF0Ylh2NEROdDFwTzNQdlNKQld3eEtCVTlTckIydl9mbXZXbktPOHB2dWZNZXJNNC1uUlNXTw?oc=5)
+Source: [Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
 
 ---
 
@@ -58,14 +58,6 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMiakFVX3lxTFBVaGhFTlN
 
 ---
 
-### [Congenital TORCH Infections Tied to Intellectual Disability and Autism - European Medical Journal](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFhvVEpRVVJuVUdFdERmQ2hBek9SM2JMdlVLbkZWX0o3N0JpUVhnUnFvX19tbm41U3pqQ3FJc0phRzZRd3J3eHRDRmVrX3VmTHBQUzlFYU04SWdMWGFmcEVVMkQ5Y0JzYWtnY3VVTGRRUXVvNEwyeHVxTjVnRFBtUFpvNHZxNmRMWUpuQWR1RmxxSXRkd3psQ2pyYTB6OGp3dlppWUowZk4tRUc0MV9zVHViTQ?oc=5)
-
-2026-10-01 <span class="news-indication-tag">RA</span>
-
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFhvVEpRVVJuVUdFdERmQ2hBek9SM2JMdlVLbkZWX0o3N0JpUVhnUnFvX19tbm41U3pqQ3FJc0phRzZRd3J3eHRDRmVrX3VmTHBQUzlFYU04SWdMWGFmcEVVMkQ5Y0JzYWtnY3VVTGRRUXVvNEwyeHVxTjVnRFBtUFpvNHZxNmRMWUpuQWR1RmxxSXRkd3psQ2pyYTB6OGp3dlppWUowZk4tRUc0MV9zVHViTQ?oc=5)
-
----
-
 ### [Nearly 1.9 Lakh Cancer Cases in India Linked to Infections - The Indian Practitioner](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVFqZ1dhaFZoLWk4RGZHeDVZSGZjODhWUVFTcXpVZVJvcFhYTTZZQWNmT0E0RUtBUm1XSTJITHdtamJvNDd4empUSUFYNFNid3hFYVdxUUVnOFhvN2RQMmVPVWY2V0RnTm13VGRRSHRBb0d5a0YxS2djd1NhOGQ2SW1jalRGakJ0OHhPVUo3LXUzMTh4QWVZcw?oc=5)
 
 2026-10-01 <span class="news-indication-tag">cancer</span>
@@ -74,27 +66,11 @@ Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMimAFBV
 
 ---
 
-### [Does removing the ovaries eliminate ovarian cancer risk? Gynaecologic oncologist debunks 8 myths about the disease | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNcncxTXdDTWNiU3hsSmppV2FMOXEwYkFkdkp3V3F2Y3dlOUE2aEpYMnFVYmdDR0VDdFhNWXlRWlVPUnEtajVubGNDN1hrR1RqSkhMdFJXT194S3RZelhDQUljcVlfZURoV201a3VDc3FHQXpBV3BNd2kwUDRlc1cxai13dURIR0wyNFVvQmdhNDh1eFIwRGVEZ3hFWG1sU3c4WEtMY2tEdWcxazNvSVBZUU81QjRmcWZaWE5QdUdVRjNlSW9IcEJmTW9KWXFDMGwyQ2xaSUpJRU9vVldoZVdvZlBjQ3lFb01VS0tXcGk0LWtOQW5sSTBKRmIyR3JGOFM1aUVzWEhHU2t3ZFJqWHNF0gGUAkFVX3lxTE5LS0hLN2FYWWZCNDl3SDJlUk5fbWI4THZfWFVpZ1hRN09VdjRud1JHT3VVWWdjTjhpQW5ObndBRTVmdjVnZmtJNC1SVkdmbWlBaW1RNkl6ejAyRUlTeS05Mk5ta0w5S3lGeGVqMHdEQmNTZW5nRlRjMUFkUkFoakp1aHY4dmFQZnQtNXZjd1laSmpWUmNYOElkOW11Q2pCdkJfYkVIVkNsQ2NWaGpRQUJacXptdFNzTUZYTmM3NmxKaU1fNFhLMXh4SnN6djhYMFV2OG9hUEM4eGxGX3lIZDlXQTlHRTB2bzNac0lfTVRPZUcwc2d3dFNuU0JaVHhCSExlUDFZM0VBZ3JDVC1Pdl9uTEVqbw?oc=5)
-
-2026-10-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNcncxTXdDTWNiU3hsSmppV2FMOXEwYkFkdkp3V3F2Y3dlOUE2aEpYMnFVYmdDR0VDdFhNWXlRWlVPUnEtajVubGNDN1hrR1RqSkhMdFJXT194S3RZelhDQUljcVlfZURoV201a3VDc3FHQXpBV3BNd2kwUDRlc1cxai13dURIR0wyNFVvQmdhNDh1eFIwRGVEZ3hFWG1sU3c4WEtMY2tEdWcxazNvSVBZUU81QjRmcWZaWE5QdUdVRjNlSW9IcEJmTW9KWXFDMGwyQ2xaSUpJRU9vVldoZVdvZlBjQ3lFb01VS0tXcGk0LWtOQW5sSTBKRmIyR3JGOFM1aUVzWEhHU2t3ZFJqWHNF0gGUAkFVX3lxTE5LS0hLN2FYWWZCNDl3SDJlUk5fbWI4THZfWFVpZ1hRN09VdjRud1JHT3VVWWdjTjhpQW5ObndBRTVmdjVnZmtJNC1SVkdmbWlBaW1RNkl6ejAyRUlTeS05Mk5ta0w5S3lGeGVqMHdEQmNTZW5nRlRjMUFkUkFoakp1aHY4dmFQZnQtNXZjd1laSmpWUmNYOElkOW11Q2pCdkJfYkVIVkNsQ2NWaGpRQUJacXptdFNzTUZYTmM3NmxKaU1fNFhLMXh4SnN6djhYMFV2OG9hUEM4eGxGX3lIZDlXQTlHRTB2bzNac0lfTVRPZUcwc2d3dFNuU0JaVHhCSExlUDFZM0VBZ3JDVC1Pdl9uTEVqbw?oc=5)
-
----
-
 ### [Breast Cancer in Young Women: Symptoms, Myths & Early Detection](https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1dHN1JKYXctckRBcjFCUFZUSk5VR3hWTW80Q2FYRUZROVM5OEJRLXByUjIxeFl1cl9lVDZuZHFKSG9qTnRUQXNoVU1qenRDQ1BNdUFiQl9SMjdILXM4WDRXWHkzd1Biajh4WU1XM3FjOGZhaDBHVnJCenMwb1BxUA?oc=5)
 
 2026-10-01 <span class="news-indication-tag">cancer</span>
 
 Source: [Brandsynario](https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1dHN1JKYXctckRBcjFCUFZUSk5VR3hWTW80Q2FYRUZROVM5OEJRLXByUjIxeFl1cl9lVDZuZHFKSG9qTnRUQXNoVU1qenRDQ1BNdUFiQl9SMjdILXM4WDRXWHkzd1Biajh4WU1XM3FjOGZhaDBHVnJCenMwb1BxUA?oc=5)
-
----
-
-### [H. Pylori Affects Up To 60% In India: Does It Mean Stomach Cancer Risk For All? Doctors Explain - Times Now](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZk9VZEJzaWVMaVNCSE5VdThvT29WWlBRLVF6OFFsdjl0Z3FabzVETkVWZUhwa3ZpOHVReGlYTkpTUVBHTERGTlFrVWh0YUZXZURkNWRsM0FjZDN0VExUUlQ5TDV6LXZiXzl2RVVaVnpRNHV5X0dHZ3NZN3JqX0FHdUtBNzd1VDNybldQZnl0dlBEbUxpc0dTaF8xZFdPQkIwcW1JRXI3ZDZ0X0VMZkpraXJsYm1iQlFfNGluTVQyYm9iWDFIMFhSRXlyWUlIdWR5UVU0Wng0c0htalJGOFHSAeMBQVVfeXFMT1lUS0ZNVUpfcjlCbWdRdERiVDhiQ1dUN0tZLVZ5QkQxTDVWN2cwd2RjU3ZhUjNOZVgzNEVtMVNUdGtmcEJJcGdWV3FoTmpXbElLRktWb2VOSWJnYmFJd0E5eWNMR09rZVBZdWkxLXFRRENfZnk4dmdZREdlSnBIdEN6YWtoV2hSYk1FeU9VX3VnaHdwVk4zV19GY2QtWDRIRGExQkFRdXNQdjE5VEI0bXRVOWRfRnRoTnQ3ZUtqVzJpQVpleWlIUmNEWjg2REFlN1daeTItMnVzQmhCSzRMc3pJMlU?oc=5)
-
-2026-10-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">rectal cancer</span>
-
-Source: [Times Now](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZk9VZEJzaWVMaVNCSE5VdThvT29WWlBRLVF6OFFsdjl0Z3FabzVETkVWZUhwa3ZpOHVReGlYTkpTUVBHTERGTlFrVWh0YUZXZURkNWRsM0FjZDN0VExUUlQ5TDV6LXZiXzl2RVVaVnpRNHV5X0dHZ3NZN3JqX0FHdUtBNzd1VDNybldQZnl0dlBEbUxpc0dTaF8xZFdPQkIwcW1JRXI3ZDZ0X0VMZkpraXJsYm1iQlFfNGluTVQyYm9iWDFIMFhSRXlyWUlIdWR5UVU0Wng0c0htalJGOFHSAeMBQVVfeXFMT1lUS0ZNVUpfcjlCbWdRdERiVDhiQ1dUN0tZLVZ5QkQxTDVWN2cwd2RjU3ZhUjNOZVgzNEVtMVNUdGtmcEJJcGdWV3FoTmpXbElLRktWb2VOSWJnYmFJd0E5eWNMR09rZVBZdWkxLXFRRENfZnk4dmdZREdlSnBIdEN6YWtoV2hSYk1FeU9VX3VnaHdwVk4zV19GY2QtWDRIRGExQkFRdXNQdjE5VEI0bXRVOWRfRnRoTnQ3ZUtqVzJpQVpleWlIUmNEWjg2REFlN1daeTItMnVzQmhCSzRMc3pJMlU?oc=5)
 
 ---
 
