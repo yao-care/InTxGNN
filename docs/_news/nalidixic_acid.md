@@ -14,7 +14,7 @@ permalink: /news/nalidixic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Nalidixic Acid?">
-<strong>Nalidixic Acid</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Nalidixic Acid</strong> currently has <strong>1 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,16 +27,22 @@ This page combines the AI-predicted indications for Nalidixic Acid with the late
 <li><strong>Predicted indications (4)</strong>:<ul>
 <li>conjunctivitis (99.8%)</li>
 <li>sclerosing cholangitis (99.6%)</li>
-<li>rheumatoid arthritis (99.4%)</li>
+<li class="indication-matched">rheumatoid arthritis (99.4%)<span class="indication-tag">📰 RA</span></li>
 <li>infectious otitis media (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nalidixic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Congenital TORCH Infections Tied to Intellectual Disability and Autism - European Medical Journal](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFhvVEpRVVJuVUdFdERmQ2hBek9SM2JMdlVLbkZWX0o3N0JpUVhnUnFvX19tbm41U3pqQ3FJc0phRzZRd3J3eHRDRmVrX3VmTHBQUzlFYU04SWdMWGFmcEVVMkQ5Y0JzYWtnY3VVTGRRUXVvNEwyeHVxTjVnRFBtUFpvNHZxNmRMWUpuQWR1RmxxSXRkd3psQ2pyYTB6OGp3dlppWUowZk4tRUc0MV9zVHViTQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">RA</span>
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFhvVEpRVVJuVUdFdERmQ2hBek9SM2JMdlVLbkZWX0o3N0JpUVhnUnFvX19tbm41U3pqQ3FJc0phRzZRd3J3eHRDRmVrX3VmTHBQUzlFYU04SWdMWGFmcEVVMkQ5Y0JzYWtnY3VVTGRRUXVvNEwyeHVxTjVnRFBtUFpvNHZxNmRMWUpuQWR1RmxxSXRkd3psQ2pyYTB6OGp3dlppWUowZk4tRUc0MV9zVHViTQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
