@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li class="indication-matched">rheumatoid arthritis (97.3%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (97.3%)</li>
 <li>hyperthyroidism (97.2%)</li>
 <li>multiple endocrine neoplasia (97.1%)</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (96.9%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Childhood Cancer Awareness, Early Diagnosis and Timely treatment – Matters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjMybEdfcmxKN2FlQjZ6QUZUaFd6dmNFblNBd3FVay0yRnBVR1doc1VUVWhSelExMWJ2djhNd0JWOFV4dnFJMTh3S3pKc2oxMnVaaTlqNGI4OE5LYkxLQXRxWlNlOXJJamhQaGVwVkQzelBtMDFvYTQzZU0zd1lLeFB3bXRMclBocG5ya0pCeHVxdDhidTNXMDJTU2ljUmVP?oc=5)
-
-2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [Newspatrolling.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjMybEdfcmxKN2FlQjZ6QUZUaFd6dmNFblNBd3FVay0yRnBVR1doc1VUVWhSelExMWJ2djhNd0JWOFV4dnFJMTh3S3pKc2oxMnVaaTlqNGI4OE5LYkxLQXRxWlNlOXJJamhQaGVwVkQzelBtMDFvYTQzZU0zd1lLeFB3bXRMclBocG5ya0pCeHVxdDhidTNXMDJTU2ljUmVP?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

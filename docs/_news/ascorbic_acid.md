@@ -14,7 +14,7 @@ permalink: /news/ascorbic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Ascorbic Acid?">
-<strong>Ascorbic Acid</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Ascorbic Acid</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <li>non-syndromic esophageal malformation (100.0%)</li>
 <li>esophageal disease (99.9%)</li>
 <li>congenital prothrombin deficiency (99.7%)</li>
-<li class="indication-matched">injury (99.6%)<span class="indication-tag">📰 injury</span></li>
+<li>injury (99.6%)</li>
 <li>biotin metabolic disease (99.5%)</li>
 <li>segmental odontomaxillary dysplasia (99.5%)</li>
 <li>perinatal disease (99.5%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <p><a href="{{ '/drugs/ascorbic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Spinal cord injury: What we fail to prevent | Hindustan Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHRkTWFsY3N1cFpNVVl5d2l6RFdUazczc283eGN1dUFSOU8tZERjRkFoUzQzdnhUMGNOajZYUkpMbkl3Zk8zZ0drX0JKYy1TSHdzRzIzcVR3Nk91TU9TbDVvUTdyZV9pRnphTVRuQkQyQ0lSMXBmM1V6YmFacnNSZVNwcFpKUWdiTmEtNjdyZ3NRaHFoSXZVTVNSak9YZlBNQmg5YXFiTndFd1QwNi16aTJjWXp5TXZReG5v0gHAAUFVX3lxTE1aeEhwbWFMUk1CUlFyd2w3TmhXVEljWjM2dHBadWREMzNORUdpdndQOWlxSU9KSVlqNTY5RzU5OEk5NDRzSEp6Zm9yZ1NVaV9wQ1VTVG9IWGFKT25wYldqbVBwV29xMWtJWjRzQWRSSkMwLXFxa0FfdFJZa054RnQ3YVhXd19pakphdFVGTFFwdl9wSXRBSHo1RlNldzVUc29xVWQ1UFpLVUVnek1JcFhfYzFMdlVfRjdZdGtTZDl0Yg?oc=5)
-
-2026-09-30 <span class="news-indication-tag">injury</span>
-
-Source: [hindustantimes.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHRkTWFsY3N1cFpNVVl5d2l6RFdUazczc283eGN1dUFSOU8tZERjRkFoUzQzdnhUMGNOajZYUkpMbkl3Zk8zZ0drX0JKYy1TSHdzRzIzcVR3Nk91TU9TbDVvUTdyZV9pRnphTVRuQkQyQ0lSMXBmM1V6YmFacnNSZVNwcFpKUWdiTmEtNjdyZ3NRaHFoSXZVTVNSak9YZlBNQmg5YXFiTndFd1QwNi16aTJjWXp5TXZReG5v0gHAAUFVX3lxTE1aeEhwbWFMUk1CUlFyd2w3TmhXVEljWjM2dHBadWREMzNORUdpdndQOWlxSU9KSVlqNTY5RzU5OEk5NDRzSEp6Zm9yZ1NVaV9wQ1VTVG9IWGFKT25wYldqbVBwV29xMWtJWjRzQWRSSkMwLXFxa0FfdFJZa054RnQ3YVhXd19pakphdFVGTFFwdl9wSXRBSHo1RlNldzVUc29xVWQ1UFpLVUVnek1JcFhfYzFMdlVfRjdZdGtTZDl0Yg?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

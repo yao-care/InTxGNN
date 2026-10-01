@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Nicorandil with the latest h
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>benign prostatic hyperplasia (disease) (99.7%)</li>
-<li>alopecia (99.6%)</li>
+<li class="indication-matched">alopecia (99.6%)<span class="indication-tag">📰 alopecia</span></li>
 <li>hypotrichosis simplex of the scalp (99.5%)</li>
 <li>congenital hypotrichosis milia (99.5%)</li>
 <li>diffuse alopecia areata (99.5%)</li>
@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Nicorandil with the latest h
 
 ## Related News (2)
 
-### [Low-Dose Radiation Could Help Slow Knee Arthritis - U.S. News & World Report](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmI3eEg2ZXlqN21GcVhYV05iSm5pU245bC1MN3BwVlRTNGEtRUltTFQwZHRrbTJmU0xvNTNZYmdubDBRMFFRenNjUW1jMVhGVjhVQlRweGt6bThRWDdqczgxMmFRb0dhdlk2X25FTHBydk1veFdEd25ZbW85Zy16ZFlZV1p2RUs1U0hYb3htWGo3V2t5dlN6bW1YN2FyeDU3S3BDbmFIXzlzQmtTeFE?oc=5)
+### [Hair fall and stress: How poor sleep, chronic stress, and modern lifestyle habits can affect hair growth - The Times of India](https://news.google.com/rss/articles/CBMijAJBVV95cUxPVk04OUVxVkV3YXFWd2NENWlRcXRxWWY0a2tSdE5nSTc3OG84WWRLbmt3SVZGSnozWUF4VDdVc0pJcWVjRXpyXzQ1YWpDaU91OE80UEhDMUEwaXRYV1JQXzJBSGFJYW1UeG54VjBPb2tUX3psNVoyMndMOXlkVTlqby0tQjVKRnZ0cXN0eDF6clAwZzhmYW90Zmw5djJZN29EX3FnSEJMc2lpZ045SXhIaXJGeVlmYkJ1Ty1IMW1xZ05WNGVDdU1oU205ZFAtanJWN2FtME5WbERXcURyVWRicUhNUlVUSjBxRmt4TnhoZWNLQzhqWkxJa0ZfLVYtYjRvOXVUUnZwYWx3V0JK0gGUAkFVX3lxTE4zdWY5RkJsc0RJTXYtVG5yMUd2MjRiTTZIYkpQY1h5SXFoeFRKcHJ3d0FsTFk5a2Q4LWdVUWlXa0JHUUNLcEYwMF9FRXV3SGtFXy1vdXpkX3NTalRSbF9iX2s2cXZCcDlBakxVT3o4YU12VEpnTTVLUGRaemZMdEd2SHByMWcyc0RtUS1ReUNwS1N3VnBvY2hNaVZKUVJhRzZNdEhtVkxmUjIxSklabDJVbk0yNW9LR21lbnc2eVdjX2dtWVJTZDh6TVRPMzJILUh1VDlZZmh0cjJlX2pRRGNlUGIzNFhGTW9RRG1SdXhOckp5b3k0TXNDQ3RMN01meFR3MWdVeXM2MzJMc0Jhd3hwYkRMQQ?oc=5)
 
-2026-09-30 <span class="news-indication-tag">osteoarthritis</span>
+2026-10-01 <span class="news-indication-tag">alopecia</span> <span class="news-indication-tag">alopecia areata</span>
 
-Source: [U.S. News & World Report](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmI3eEg2ZXlqN21GcVhYV05iSm5pU245bC1MN3BwVlRTNGEtRUltTFQwZHRrbTJmU0xvNTNZYmdubDBRMFFRenNjUW1jMVhGVjhVQlRweGt6bThRWDdqczgxMmFRb0dhdlk2X25FTHBydk1veFdEd25ZbW85Zy16ZFlZV1p2RUs1U0hYb3htWGo3V2t5dlN6bW1YN2FyeDU3S3BDbmFIXzlzQmtTeFE?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMijAJBVV95cUxPVk04OUVxVkV3YXFWd2NENWlRcXRxWWY0a2tSdE5nSTc3OG84WWRLbmt3SVZGSnozWUF4VDdVc0pJcWVjRXpyXzQ1YWpDaU91OE80UEhDMUEwaXRYV1JQXzJBSGFJYW1UeG54VjBPb2tUX3psNVoyMndMOXlkVTlqby0tQjVKRnZ0cXN0eDF6clAwZzhmYW90Zmw5djJZN29EX3FnSEJMc2lpZ045SXhIaXJGeVlmYkJ1Ty1IMW1xZ05WNGVDdU1oU205ZFAtanJWN2FtME5WbERXcURyVWRicUhNUlVUSjBxRmt4TnhoZWNLQzhqWkxJa0ZfLVYtYjRvOXVUUnZwYWx3V0JK0gGUAkFVX3lxTE4zdWY5RkJsc0RJTXYtVG5yMUd2MjRiTTZIYkpQY1h5SXFoeFRKcHJ3d0FsTFk5a2Q4LWdVUWlXa0JHUUNLcEYwMF9FRXV3SGtFXy1vdXpkX3NTalRSbF9iX2s2cXZCcDlBakxVT3o4YU12VEpnTTVLUGRaemZMdEd2SHByMWcyc0RtUS1ReUNwS1N3VnBvY2hNaVZKUVJhRzZNdEhtVkxmUjIxSklabDJVbk0yNW9LR21lbnc2eVdjX2dtWVJTZDh6TVRPMzJILUh1VDlZZmh0cjJlX2pRRGNlUGIzNFhGTW9RRG1SdXhOckp5b3k0TXNDQ3RMN01meFR3MWdVeXM2MzJMc0Jhd3hwYkRMQQ?oc=5)
 
 ---
 

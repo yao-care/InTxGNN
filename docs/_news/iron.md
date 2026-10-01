@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>3 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,29 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
 
-### [Living environments and lifestyle factors may contribute to faster adult biological aging](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc01VWURKNTd1LTZLcnhiUFNZMUd5ZHhHOVg3bTJEMGs0WVJqUml2VWZxVnBEbk5qZ2REdEN1bmNtal9SS1QzcUs4MGdDRDVIWkhyOFhRWHRfclMzeThub0VzZzQ3YWZReE12RHp1d0NSVWxCaHpfS3U2WHVZbjQ0TnpjWkt2NW9JRkNLVHc4djdmT2FKSVlmcXVzQTZqTmJLWjJIR1hFa1VzenF2TlJfUFgtYkUtdFFRQ1VEZ0hvMHljc2dTM1k2ZUlkY01KU1hINk4w?oc=5)
+### [Space junk crisis deepens as new satellite breakup highlights growing orbital threat - Digital Journal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXJQQzM5ZzlBSi0yWi05aU5lU1RIRHdJLXlrS1RwR1hhLU5BZk1EejVJZktacEJOS25XQ3g1TTdHMVgzNzhPcndXbkJuZzgyMUZjdXNYWEZPbVVUT1dtYk1BZDUzd29xN0lKb0R0QXFEX1o5T2RpMjF5akpuY21nS2cxWE1vUVN0VE1Uc3ZXelFnNGNadC0tUkRDNDFFRXRkb1lKdkpNYzljTzRSYXlqQ3VIQy1pQS0wNWdYMF85ZXMtdw?oc=5)
 
 2026-09-30 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc01VWURKNTd1LTZLcnhiUFNZMUd5ZHhHOVg3bTJEMGs0WVJqUml2VWZxVnBEbk5qZ2REdEN1bmNtal9SS1QzcUs4MGdDRDVIWkhyOFhRWHRfclMzeThub0VzZzQ3YWZReE12RHp1d0NSVWxCaHpfS3U2WHVZbjQ0TnpjWkt2NW9JRkNLVHc4djdmT2FKSVlmcXVzQTZqTmJLWjJIR1hFa1VzenF2TlJfUFgtYkUtdFFRQ1VEZ0hvMHljc2dTM1k2ZUlkY01KU1hINk4w?oc=5)
+Source: [Digital Journal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXJQQzM5ZzlBSi0yWi05aU5lU1RIRHdJLXlrS1RwR1hhLU5BZk1EejVJZktacEJOS25XQ3g1TTdHMVgzNzhPcndXbkJuZzgyMUZjdXNYWEZPbVVUT1dtYk1BZDUzd29xN0lKb0R0QXFEX1o5T2RpMjF5akpuY21nS2cxWE1vUVN0VE1Uc3ZXelFnNGNadC0tUkRDNDFFRXRkb1lKdkpNYzljTzRSYXlqQ3VIQy1pQS0wNWdYMF85ZXMtdw?oc=5)
+
+---
+
+### [Mitochondria offer new clue to how air pollution harms the heart - Air Quality News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDZZYnhpR0cwR2NYZWMxMW4yVFZDRTF5c3N0bkR1Y05PYTd6MnBrR0lPNDdMWFB0OXpjOVdUbzNRUlNocGpTaXNLYS1YOFBzNUNFM0hQY2FpdmdPZF9ha3h4VWtWYTlEZjgtWFhZSlN2enVQSlNOdVRBQXdrMWMyZkhLdkh3M3EtYzBKR29wN3M2MjVhVTRXRjdWYl9OZTRj?oc=5)
+
+2026-09-30 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [Air Quality News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDZZYnhpR0cwR2NYZWMxMW4yVFZDRTF5c3N0bkR1Y05PYTd6MnBrR0lPNDdMWFB0OXpjOVdUbzNRUlNocGpTaXNLYS1YOFBzNUNFM0hQY2FpdmdPZF9ha3h4VWtWYTlEZjgtWFhZSlN2enVQSlNOdVRBQXdrMWMyZkhLdkh3M3EtYzBKR29wN3M2MjVhVTRXRjdWYl9OZTRj?oc=5)
+
+---
+
+### [Pollution is killing us - Kashmir Vision](https://news.google.com/rss/articles/CBMibEFVX3lxTE1IS19YUnR5TXBXTlp0bUxFZ2NXbF9VUEFHeHg0WnRlS3M1eGlPeVoxRkdQMDFxR0Y5MHk0V3dvTk1YMkJhTXljVkFDbFFnc2duVU9VcDJ0dlVkaDBNSFpEZW5MYW5uTGRPTmc0ZA?oc=5)
+
+2026-09-29 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [Kashmir Vision](https://news.google.com/rss/articles/CBMibEFVX3lxTE1IS19YUnR5TXBXTlp0bUxFZ2NXbF9VUEFHeHg0WnRlS3M1eGlPeVoxRkdQMDFxR0Y5MHk0V3dvTk1YMkJhTXljVkFDbFFnc2duVU9VcDJ0dlVkaDBNSFpEZW5MYW5uTGRPTmc0ZA?oc=5)
 
 ---
 
