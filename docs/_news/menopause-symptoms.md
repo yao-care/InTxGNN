@@ -3,7 +3,7 @@ layout: default
 title: "menopause (menopause symptoms) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause (menopause symptoms). 2 articles, 23 related drugs."
+description: "Health news about menopause (menopause symptoms). 1 articles, 23 related drugs."
 permalink: /news/menopause-symptoms/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause-symptoms/
 ---
 
 <p class="key-answer" data-question="What news is there about menopause (menopause symptoms)?">
-<strong>menopause (menopause symptoms)</strong> currently has <strong>2 news articles</strong> and 23 related drugs.
+<strong>menopause (menopause symptoms)</strong> currently has <strong>1 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -51,21 +51,13 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Study Links Oral Menopausal Hormone Therapy to Thrombotic Risk](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlJiYUVpMTNjbWRFN3FQSUhxTUp5NDlOa1VKczB1dUtrQWQ2SGNNOTFiNy1tWEVMTHdQM1lXbmlwN3RjZTNCS1Q2SWZvVHpqejhaeEtXSE41MEFOcFRiMnliQ2EzdnNIaWEyWG5KRFRpRUdnMlM1WWhQLUNzX2VFMEktWjdmZi1QR3lOTnN3d0ktYXVHS19XNmN3?oc=5)
+### [Menopause Blood Proteins Linked to Later Dementia Risk - European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
 
-2026-09-30
+2026-10-01
 
-Source: [drugtopics.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlJiYUVpMTNjbWRFN3FQSUhxTUp5NDlOa1VKczB1dUtrQWQ2SGNNOTFiNy1tWEVMTHdQM1lXbmlwN3RjZTNCS1Q2SWZvVHpqejhaeEtXSE41MEFOcFRiMnliQ2EzdnNIaWEyWG5KRFRpRUdnMlM1WWhQLUNzX2VFMEktWjdmZi1QR3lOTnN3d0ktYXVHS19XNmN3?oc=5)
-
----
-
-### [Women more at risk of heart attack after menopause - The Tribune](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX3NkbGlCREdRQ0dPMDZ0M24taW5EVFI3ZDB6WGxjM0pHR2lCRjhzRlZ2TWJHSUpvWDB0U1hzbXJqVVBzUnc1RjhBcHlEbGlRWG1ZUEtseUVSa0JySWZUNFItSXQ0dVR6OHVzdlQtVjJ0NEhiX05xbkhyemRIb0hEMWNIRWlzWlVjZlRlN0k4ZWxmek5BWGtN0gGbAUFVX3lxTE5OVENiUjQtR1Frc0pqRURFZHUxTVVEcjF2T1BORFBScVZ1cGl1RmFZV0RmY0VxTWJvUlZ1SVBaUVVCMU1TeW9icmVMUWdmN1FOWm9NeWtROXkzVm9YNzEyWm8yTGM2cFVHM3JZRnZTekhtWnhtcGhIZDN5cG9nZ19WUjZVcVN0QkFVUml5b09jRXVVbDY5dDA2VG5V?oc=5)
-
-2026-09-29
-
-Source: [The Tribune](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX3NkbGlCREdRQ0dPMDZ0M24taW5EVFI3ZDB6WGxjM0pHR2lCRjhzRlZ2TWJHSUpvWDB0U1hzbXJqVVBzUnc1RjhBcHlEbGlRWG1ZUEtseUVSa0JySWZUNFItSXQ0dVR6OHVzdlQtVjJ0NEhiX05xbkhyemRIb0hEMWNIRWlzWlVjZlRlN0k4ZWxmek5BWGtN0gGbAUFVX3lxTE5OVENiUjQtR1Frc0pqRURFZHUxTVVEcjF2T1BORFBScVZ1cGl1RmFZV0RmY0VxTWJvUlZ1SVBaUVVCMU1TeW9icmVMUWdmN1FOWm9NeWtROXkzVm9YNzEyWm8yTGM2cFVHM3JZRnZTekhtWnhtcGhIZDN5cG9nZ19WUjZVcVN0QkFVUml5b09jRXVVbDY5dDA2VG5V?oc=5)
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
 
 ---
 
