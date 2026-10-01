@@ -14,7 +14,7 @@ permalink: /news/valdecoxib/
 ---
 
 <p class="key-answer" data-question="What news is there about Valdecoxib?">
-<strong>Valdecoxib</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Valdecoxib</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,15 +26,21 @@ This page combines the AI-predicted indications for Valdecoxib with the latest h
 <ul>
 <li><strong>Predicted indications (2)</strong>:<ul>
 <li>osteoarthritis susceptibility (99.5%)</li>
-<li>rheumatoid arthritis (99.1%)</li>
+<li class="indication-matched">rheumatoid arthritis (99.1%)<span class="indication-tag">📰 RA</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/valdecoxib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Childhood Cancer Awareness, Early Diagnosis and Timely treatment – Matters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjMybEdfcmxKN2FlQjZ6QUZUaFd6dmNFblNBd3FVay0yRnBVR1doc1VUVWhSelExMWJ2djhNd0JWOFV4dnFJMTh3S3pKc2oxMnVaaTlqNGI4OE5LYkxLQXRxWlNlOXJJamhQaGVwVkQzelBtMDFvYTQzZU0zd1lLeFB3bXRMclBocG5ya0pCeHVxdDhidTNXMDJTU2ljUmVP?oc=5)
+
+2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Newspatrolling.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjMybEdfcmxKN2FlQjZ6QUZUaFd6dmNFblNBd3FVay0yRnBVR1doc1VUVWhSelExMWJ2djhNd0JWOFV4dnFJMTh3S3pKc2oxMnVaaTlqNGI4OE5LYkxLQXRxWlNlOXJJamhQaGVwVkQzelBtMDFvYTQzZU0zd1lLeFB3bXRMclBocG5ya0pCeHVxdDhidTNXMDJTU2ljUmVP?oc=5)
+
+---
 
 
 <div class="disclaimer">

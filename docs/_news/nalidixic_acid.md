@@ -14,7 +14,7 @@ permalink: /news/nalidixic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Nalidixic Acid?">
-<strong>Nalidixic Acid</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Nalidixic Acid</strong> currently has <strong>1 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,16 +27,22 @@ This page combines the AI-predicted indications for Nalidixic Acid with the late
 <li><strong>Predicted indications (4)</strong>:<ul>
 <li>conjunctivitis (99.8%)</li>
 <li>sclerosing cholangitis (99.6%)</li>
-<li>rheumatoid arthritis (99.4%)</li>
+<li class="indication-matched">rheumatoid arthritis (99.4%)<span class="indication-tag">📰 RA</span></li>
 <li>infectious otitis media (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nalidixic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Childhood Cancer Awareness, Early Diagnosis and Timely treatment – Matters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjMybEdfcmxKN2FlQjZ6QUZUaFd6dmNFblNBd3FVay0yRnBVR1doc1VUVWhSelExMWJ2djhNd0JWOFV4dnFJMTh3S3pKc2oxMnVaaTlqNGI4OE5LYkxLQXRxWlNlOXJJamhQaGVwVkQzelBtMDFvYTQzZU0zd1lLeFB3bXRMclBocG5ya0pCeHVxdDhidTNXMDJTU2ljUmVP?oc=5)
+
+2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Newspatrolling.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjMybEdfcmxKN2FlQjZ6QUZUaFd6dmNFblNBd3FVay0yRnBVR1doc1VUVWhSelExMWJ2djhNd0JWOFV4dnFJMTh3S3pKc2oxMnVaaTlqNGI4OE5LYkxLQXRxWlNlOXJJamhQaGVwVkQzelBtMDFvYTQzZU0zd1lLeFB3bXRMclBocG5ya0pCeHVxdDhidTNXMDJTU2ljUmVP?oc=5)
+
+---
 
 
 <div class="disclaimer">

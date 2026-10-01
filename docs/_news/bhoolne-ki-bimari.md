@@ -3,7 +3,7 @@ layout: default
 title: "dementia (bhoolne ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (bhoolne ki bimari). 4 articles, 8 related drugs."
+description: "Health news about dementia (bhoolne ki bimari). 5 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bhoolne-ki-bimari/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (bhoolne ki bimari)?">
-<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [Does Glucosamine Accelerate Dementia and Mortality Risk? - European Medical Journal](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRTF2V2Q0TXo1b0p0T3huQXdYODdhSDY2cmN1OG4wa1NlY0FkNEZDUjRMLXpoMS1BMHcyVFVrN0I3SlhUY1pZb09lYjFRV1ZuV2NOWFl6M2Y4eWdfNk1aeDdYQ1Z5b1hpR0N0YjVrZ3Bjbm1BNzJwbVJmY3FNN3cyVzUtMTJQN3JPTGw1OXhoMGpvVVVZM0FGeHlET3dLMzQ?oc=5)
 
@@ -59,6 +59,14 @@ Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE1tS0k
 2026-09-29
 
 Source: [European Medical Journal](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVE1lWkM2YlEzYjA4YlFzSXlpeVRFVXZCWTByeFRqNHRQNkF0cmxxaWFYTXl4OHZzVFlHcE9Oa0NNZ2ltZ21hNXIzUF8tRHpibUdXZ2lLYzNzUUtPSGNOcHhlcnJmZnBieFJ5NmNUalBGNXoyUEN5X0dsUWhaZDZSS2FKdWV5U3otN0VCVWJpSE52MHVXRlBKNHhCOTdRSy1wQ2ttREV2UlhMd0ZKUWc?oc=5)
+
+---
+
+### [Low-Dose Aspirin May Cut Dementia Risk By 70 Per Cent, Genetic Study Suggests](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmN6QUgxMjQyNTJvRERJeVRPcDJtUVE4eHZ6VVNHOUF5d3h1dVUtVENnWnNWT09ZV3RCN244ZmhHd3YzQ3NpY2tweG8tVkFGQ05xN0dIY2ZzdVBRM2d6eDh0alVTMTRMdnpZNEZQWEhKRU5oaW9wQTNMMGlaQnZxZHJjWlM2dUt6MldodDRTQ1YzcnNHNnI2SWNyeWJxejdMWWpRZnktU2FDanUxZC00X0ZLMA?oc=5)
+
+2026-09-29
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmN6QUgxMjQyNTJvRERJeVRPcDJtUVE4eHZ6VVNHOUF5d3h1dVUtVENnWnNWT09ZV3RCN244ZmhHd3YzQ3NpY2tweG8tVkFGQ05xN0dIY2ZzdVBRM2d6eDh0alVTMTRMdnpZNEZQWEhKRU5oaW9wQTNMMGlaQnZxZHJjWlM2dUt6MldodDRTQ1YzcnNHNnI2SWNyeWJxejdMWWpRZnktU2FDanUxZC00X0ZLMA?oc=5)
 
 ---
 
