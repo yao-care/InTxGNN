@@ -14,7 +14,7 @@ permalink: /news/alpelisib/
 ---
 
 <p class="key-answer" data-question="What news is there about Alpelisib?">
-<strong>Alpelisib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Alpelisib</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 <li>migraine with or without aura, susceptibility to (99.0%)</li>
 <li>migraine disorder (98.9%)</li>
 <li>kyphoscoliotic heart disease (98.9%)</li>
-<li>rheumatoid arthritis (98.8%)</li>
+<li class="indication-matched">rheumatoid arthritis (98.8%)<span class="indication-tag">📰 RA</span></li>
 <li>leprosy (98.7%)</li>
 <li>migraine with brainstem aura (98.7%)</li>
 <li>thrombotic disease (98.6%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Congenital TORCH Infections Tied to Intellectual Disability and Autism - European Medical Journal](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFhvVEpRVVJuVUdFdERmQ2hBek9SM2JMdlVLbkZWX0o3N0JpUVhnUnFvX19tbm41U3pqQ3FJc0phRzZRd3J3eHRDRmVrX3VmTHBQUzlFYU04SWdMWGFmcEVVMkQ5Y0JzYWtnY3VVTGRRUXVvNEwyeHVxTjVnRFBtUFpvNHZxNmRMWUpuQWR1RmxxSXRkd3psQ2pyYTB6OGp3dlppWUowZk4tRUc0MV9zVHViTQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">RA</span>
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFhvVEpRVVJuVUdFdERmQ2hBek9SM2JMdlVLbkZWX0o3N0JpUVhnUnFvX19tbm41U3pqQ3FJc0phRzZRd3J3eHRDRmVrX3VmTHBQUzlFYU04SWdMWGFmcEVVMkQ5Y0JzYWtnY3VVTGRRUXVvNEwyeHVxTjVnRFBtUFpvNHZxNmRMWUpuQWR1RmxxSXRkd3psQ2pyYTB6OGp3dlppWUowZk4tRUc0MV9zVHViTQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

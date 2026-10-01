@@ -14,7 +14,7 @@ permalink: /news/chromium/
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Chromium</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li class="indication-matched">osteoarthritis (98.7%)<span class="indication-tag">📰 osteoarthritis</span></li>
 <li>osteoarthritis susceptibility (98.5%)</li>
-<li>rheumatoid arthritis (98.5%)</li>
+<li class="indication-matched">rheumatoid arthritis (98.5%)<span class="indication-tag">📰 RA</span></li>
 <li>gout (98.0%)</li>
 <li>pseudoachondroplasia (98.0%)</li>
 <li>hepatic porphyria (97.9%)</li>
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Congenital TORCH Infections Tied to Intellectual Disability and Autism - European Medical Journal](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFhvVEpRVVJuVUdFdERmQ2hBek9SM2JMdlVLbkZWX0o3N0JpUVhnUnFvX19tbm41U3pqQ3FJc0phRzZRd3J3eHRDRmVrX3VmTHBQUzlFYU04SWdMWGFmcEVVMkQ5Y0JzYWtnY3VVTGRRUXVvNEwyeHVxTjVnRFBtUFpvNHZxNmRMWUpuQWR1RmxxSXRkd3psQ2pyYTB6OGp3dlppWUowZk4tRUc0MV9zVHViTQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">RA</span>
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFhvVEpRVVJuVUdFdERmQ2hBek9SM2JMdlVLbkZWX0o3N0JpUVhnUnFvX19tbm41U3pqQ3FJc0phRzZRd3J3eHRDRmVrX3VmTHBQUzlFYU04SWdMWGFmcEVVMkQ5Y0JzYWtnY3VVTGRRUXVvNEwyeHVxTjVnRFBtUFpvNHZxNmRMWUpuQWR1RmxxSXRkd3psQ2pyYTB6OGp3dlppWUowZk4tRUc0MV9zVHViTQ?oc=5)
+
+---
 
 ### [Alcohol May Up Osteoarthritis Risk in a Dose-Dependent Way](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0lRemRrYk52YVFiWHhDSHdBbGgwLW1mTWhENkdKcm9FMk92YjRuNjNOSFEzYTlDbDFvNVZkX1hmdUtaUUNIQzRndXVvdUxxZ1NmTy15SkcxSk8xY0Z4dWF4NzZSVHN4blFGalNpM25DcjU2NFRmWGRwRmthcTVuWTdyOXVuSHRId1FHOWIxZlBpV2ZUUE9lVnFjWUFTOExJXzBVT1FDOGR0QQ?oc=5)
 

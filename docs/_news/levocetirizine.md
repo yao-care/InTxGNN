@@ -14,7 +14,7 @@ permalink: /news/levocetirizine/
 ---
 
 <p class="key-answer" data-question="What news is there about Levocetirizine?">
-<strong>Levocetirizine</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Levocetirizine</strong> currently has <strong>1 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Levocetirizine with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (3)</strong>:<ul>
-<li>rheumatoid arthritis (99.7%)</li>
+<li class="indication-matched">rheumatoid arthritis (99.7%)<span class="indication-tag">📰 RA</span></li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
 <li>brachydactyly-syndactyly syndrome (99.5%)</li>
 </ul></li>
@@ -33,9 +33,15 @@ This page combines the AI-predicted indications for Levocetirizine with the late
 <p><a href="{{ '/drugs/levocetirizine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Congenital TORCH Infections Tied to Intellectual Disability and Autism - European Medical Journal](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFhvVEpRVVJuVUdFdERmQ2hBek9SM2JMdlVLbkZWX0o3N0JpUVhnUnFvX19tbm41U3pqQ3FJc0phRzZRd3J3eHRDRmVrX3VmTHBQUzlFYU04SWdMWGFmcEVVMkQ5Y0JzYWtnY3VVTGRRUXVvNEwyeHVxTjVnRFBtUFpvNHZxNmRMWUpuQWR1RmxxSXRkd3psQ2pyYTB6OGp3dlppWUowZk4tRUc0MV9zVHViTQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">RA</span>
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFhvVEpRVVJuVUdFdERmQ2hBek9SM2JMdlVLbkZWX0o3N0JpUVhnUnFvX19tbm41U3pqQ3FJc0phRzZRd3J3eHRDRmVrX3VmTHBQUzlFYU04SWdMWGFmcEVVMkQ5Y0JzYWtnY3VVTGRRUXVvNEwyeHVxTjVnRFBtUFpvNHZxNmRMWUpuQWR1RmxxSXRkd3psQ2pyYTB6OGp3dlppWUowZk4tRUc0MV9zVHViTQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

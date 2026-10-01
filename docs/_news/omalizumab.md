@@ -14,7 +14,7 @@ permalink: /news/omalizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Omalizumab?">
-<strong>Omalizumab</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Omalizumab</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Omalizumab with the latest h
 <p><a href="{{ '/drugs/omalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Discontinuation Patterns With Omalizumab | Derm Immuno Today](https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3VyS3kxWDJ5SDBkXzNXSjRMUGNyam45U1BWbWNsZmQzNUpHUXRLTEN5Um1oT20xbGxfWGJ0QVN3Rk42dm5ZaGVrYktaOTFtSTdua3Z3eWFGbUpUbEdGSlBUZXRuNXJUZ0pweGJ6S1FxQ2F1aFRwX0M1RXdtLWJuNkdZQWJRTDlCdGZPbTY5TnB1eWlIcjM1TEdzMll4RFE?oc=5)
+
+2026-10-01 <span class="news-drug-tag">OMALIZUMAB</span> <span class="news-drug-tag">Omalizumab</span>
+
+Source: [DocWireNews](https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3VyS3kxWDJ5SDBkXzNXSjRMUGNyam45U1BWbWNsZmQzNUpHUXRLTEN5Um1oT20xbGxfWGJ0QVN3Rk42dm5ZaGVrYktaOTFtSTdua3Z3eWFGbUpUbEdGSlBUZXRuNXJUZ0pweGJ6S1FxQ2F1aFRwX0M1RXdtLWJuNkdZQWJRTDlCdGZPbTY5TnB1eWlIcjM1TEdzMll4RFE?oc=5)
+
+---
 
 
 <div class="disclaimer">
