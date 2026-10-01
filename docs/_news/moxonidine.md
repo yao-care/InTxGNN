@@ -14,7 +14,7 @@ permalink: /news/moxonidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Moxonidine?">
-<strong>Moxonidine</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Moxonidine</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ This page combines the AI-predicted indications for Moxonidine with the latest h
 <p><a href="{{ '/drugs/moxonidine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
-
-### [Building Resilience Into The Future Of Breast Cancer Care](https://news.google.com/rss/articles/CBMivAFBVV95cUxOWHk2M2IwdGxjbHRtVC1YLU82ZU5US3FLU0NvUTcwOHZtTTJNMDc0cWgtWVBHeExxeU54U3Jrc2JtSzVicm5tbGktakRpUDVuNFlQZ0JiZjVpa0hpZ0IwRTZoNXJjVE1yeFBEX3ZnLWdEeU5zSS1xSnZFWldPdVlFYjlGa3g1QjF0Ylh2NEROdDFwTzNQdlNKQld3eEtCVTlTckIydl9mbXZXbktPOHB2dWZNZXJNNC1uUlNXTw?oc=5)
-
-2026-10-01 <span class="news-indication-tag">cancer</span>
-
-Source: [Forbes](https://news.google.com/rss/articles/CBMivAFBVV95cUxOWHk2M2IwdGxjbHRtVC1YLU82ZU5US3FLU0NvUTcwOHZtTTJNMDc0cWgtWVBHeExxeU54U3Jrc2JtSzVicm5tbGktakRpUDVuNFlQZ0JiZjVpa0hpZ0IwRTZoNXJjVE1yeFBEX3ZnLWdEeU5zSS1xSnZFWldPdVlFYjlGa3g1QjF0Ylh2NEROdDFwTzNQdlNKQld3eEtCVTlTckIydl9mbXZXbktPOHB2dWZNZXJNNC1uUlNXTw?oc=5)
-
----
+## Related News (6)
 
 ### [Samvel Bardakhchyan at COGC 2026: New EGFR-Targeted Therapy Is Reshaping NSCLC](https://news.google.com/rss/articles/CBMiakFVX3lxTFBVaGhFTlNrVjZTcnVUUEZSUTBtOVB6WDBoNFVjb3FaRENhS0hVUDU0Z3NWLTRoQTRqWXhScDlMcGhJVURYbGZHMm1SNU41ei16bnRpRksxVko0cE1MV08xU3N5TjloRV9SdEE?oc=5)
 
@@ -66,27 +58,11 @@ Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMimAFBV
 
 ---
 
-### [Does removing the ovaries eliminate ovarian cancer risk? Gynaecologic oncologist debunks 8 myths about the disease | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNcncxTXdDTWNiU3hsSmppV2FMOXEwYkFkdkp3V3F2Y3dlOUE2aEpYMnFVYmdDR0VDdFhNWXlRWlVPUnEtajVubGNDN1hrR1RqSkhMdFJXT194S3RZelhDQUljcVlfZURoV201a3VDc3FHQXpBV3BNd2kwUDRlc1cxai13dURIR0wyNFVvQmdhNDh1eFIwRGVEZ3hFWG1sU3c4WEtMY2tEdWcxazNvSVBZUU81QjRmcWZaWE5QdUdVRjNlSW9IcEJmTW9KWXFDMGwyQ2xaSUpJRU9vVldoZVdvZlBjQ3lFb01VS0tXcGk0LWtOQW5sSTBKRmIyR3JGOFM1aUVzWEhHU2t3ZFJqWHNF0gGUAkFVX3lxTE5LS0hLN2FYWWZCNDl3SDJlUk5fbWI4THZfWFVpZ1hRN09VdjRud1JHT3VVWWdjTjhpQW5ObndBRTVmdjVnZmtJNC1SVkdmbWlBaW1RNkl6ejAyRUlTeS05Mk5ta0w5S3lGeGVqMHdEQmNTZW5nRlRjMUFkUkFoakp1aHY4dmFQZnQtNXZjd1laSmpWUmNYOElkOW11Q2pCdkJfYkVIVkNsQ2NWaGpRQUJacXptdFNzTUZYTmM3NmxKaU1fNFhLMXh4SnN6djhYMFV2OG9hUEM4eGxGX3lIZDlXQTlHRTB2bzNac0lfTVRPZUcwc2d3dFNuU0JaVHhCSExlUDFZM0VBZ3JDVC1Pdl9uTEVqbw?oc=5)
-
-2026-10-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNcncxTXdDTWNiU3hsSmppV2FMOXEwYkFkdkp3V3F2Y3dlOUE2aEpYMnFVYmdDR0VDdFhNWXlRWlVPUnEtajVubGNDN1hrR1RqSkhMdFJXT194S3RZelhDQUljcVlfZURoV201a3VDc3FHQXpBV3BNd2kwUDRlc1cxai13dURIR0wyNFVvQmdhNDh1eFIwRGVEZ3hFWG1sU3c4WEtMY2tEdWcxazNvSVBZUU81QjRmcWZaWE5QdUdVRjNlSW9IcEJmTW9KWXFDMGwyQ2xaSUpJRU9vVldoZVdvZlBjQ3lFb01VS0tXcGk0LWtOQW5sSTBKRmIyR3JGOFM1aUVzWEhHU2t3ZFJqWHNF0gGUAkFVX3lxTE5LS0hLN2FYWWZCNDl3SDJlUk5fbWI4THZfWFVpZ1hRN09VdjRud1JHT3VVWWdjTjhpQW5ObndBRTVmdjVnZmtJNC1SVkdmbWlBaW1RNkl6ejAyRUlTeS05Mk5ta0w5S3lGeGVqMHdEQmNTZW5nRlRjMUFkUkFoakp1aHY4dmFQZnQtNXZjd1laSmpWUmNYOElkOW11Q2pCdkJfYkVIVkNsQ2NWaGpRQUJacXptdFNzTUZYTmM3NmxKaU1fNFhLMXh4SnN6djhYMFV2OG9hUEM4eGxGX3lIZDlXQTlHRTB2bzNac0lfTVRPZUcwc2d3dFNuU0JaVHhCSExlUDFZM0VBZ3JDVC1Pdl9uTEVqbw?oc=5)
-
----
-
 ### [Breast Cancer in Young Women: Symptoms, Myths & Early Detection](https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1dHN1JKYXctckRBcjFCUFZUSk5VR3hWTW80Q2FYRUZROVM5OEJRLXByUjIxeFl1cl9lVDZuZHFKSG9qTnRUQXNoVU1qenRDQ1BNdUFiQl9SMjdILXM4WDRXWHkzd1Biajh4WU1XM3FjOGZhaDBHVnJCenMwb1BxUA?oc=5)
 
 2026-10-01 <span class="news-indication-tag">cancer</span>
 
 Source: [Brandsynario](https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1dHN1JKYXctckRBcjFCUFZUSk5VR3hWTW80Q2FYRUZROVM5OEJRLXByUjIxeFl1cl9lVDZuZHFKSG9qTnRUQXNoVU1qenRDQ1BNdUFiQl9SMjdILXM4WDRXWHkzd1Biajh4WU1XM3FjOGZhaDBHVnJCenMwb1BxUA?oc=5)
-
----
-
-### [H. Pylori Affects Up To 60% In India: Does It Mean Stomach Cancer Risk For All? Doctors Explain - Times Now](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZk9VZEJzaWVMaVNCSE5VdThvT29WWlBRLVF6OFFsdjl0Z3FabzVETkVWZUhwa3ZpOHVReGlYTkpTUVBHTERGTlFrVWh0YUZXZURkNWRsM0FjZDN0VExUUlQ5TDV6LXZiXzl2RVVaVnpRNHV5X0dHZ3NZN3JqX0FHdUtBNzd1VDNybldQZnl0dlBEbUxpc0dTaF8xZFdPQkIwcW1JRXI3ZDZ0X0VMZkpraXJsYm1iQlFfNGluTVQyYm9iWDFIMFhSRXlyWUlIdWR5UVU0Wng0c0htalJGOFHSAeMBQVVfeXFMT1lUS0ZNVUpfcjlCbWdRdERiVDhiQ1dUN0tZLVZ5QkQxTDVWN2cwd2RjU3ZhUjNOZVgzNEVtMVNUdGtmcEJJcGdWV3FoTmpXbElLRktWb2VOSWJnYmFJd0E5eWNMR09rZVBZdWkxLXFRRENfZnk4dmdZREdlSnBIdEN6YWtoV2hSYk1FeU9VX3VnaHdwVk4zV19GY2QtWDRIRGExQkFRdXNQdjE5VEI0bXRVOWRfRnRoTnQ3ZUtqVzJpQVpleWlIUmNEWjg2REFlN1daeTItMnVzQmhCSzRMc3pJMlU?oc=5)
-
-2026-10-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">rectal cancer</span>
-
-Source: [Times Now](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZk9VZEJzaWVMaVNCSE5VdThvT29WWlBRLVF6OFFsdjl0Z3FabzVETkVWZUhwa3ZpOHVReGlYTkpTUVBHTERGTlFrVWh0YUZXZURkNWRsM0FjZDN0VExUUlQ5TDV6LXZiXzl2RVVaVnpRNHV5X0dHZ3NZN3JqX0FHdUtBNzd1VDNybldQZnl0dlBEbUxpc0dTaF8xZFdPQkIwcW1JRXI3ZDZ0X0VMZkpraXJsYm1iQlFfNGluTVQyYm9iWDFIMFhSRXlyWUlIdWR5UVU0Wng0c0htalJGOFHSAeMBQVVfeXFMT1lUS0ZNVUpfcjlCbWdRdERiVDhiQ1dUN0tZLVZ5QkQxTDVWN2cwd2RjU3ZhUjNOZVgzNEVtMVNUdGtmcEJJcGdWV3FoTmpXbElLRktWb2VOSWJnYmFJd0E5eWNMR09rZVBZdWkxLXFRRENfZnk4dmdZREdlSnBIdEN6YWtoV2hSYk1FeU9VX3VnaHdwVk4zV19GY2QtWDRIRGExQkFRdXNQdjE5VEI0bXRVOWRfRnRoTnQ3ZUtqVzJpQVpleWlIUmNEWjg2REFlN1daeTItMnVzQmhCSzRMc3pJMlU?oc=5)
 
 ---
 
