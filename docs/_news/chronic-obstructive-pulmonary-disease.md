@@ -31,11 +31,11 @@ This page brings together the latest health news about “COPD” and lists the 
 
 ## Related News (1)
 
-### [Advancing COPD Care: Interview With Borja G. Cosío](https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3pzSGY5QzRDREo0aVViSTdoczJGR1ZKWnBleUVhZGZXSlQydHFQM3NxS0FmMmlBc2RpQnBKVVVfOGhxdlh5UXlxektlRUJZZTNwam9mNEk0UVozS3NWQmR0NHFYYWRfZ2V1cENUQUxTY3Zld0d0aVRQcFhNbDhRVEoyajBKNXhfeDA0UUlpTGdJYmNtTWZ3dmhYMzM?oc=5)
+### [Advancing COPD Care: Interview With Borja G. Cosío - European Medical Journal](https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3pzSGY5QzRDREo0aVViSTdoczJGR1ZKWnBleUVhZGZXSlQydHFQM3NxS0FmMmlBc2RpQnBKVVVfOGhxdlh5UXlxektlRUJZZTNwam9mNEk0UVozS3NWQmR0NHFYYWRfZ2V1cENUQUxTY3Zld0d0aVRQcFhNbDhRVEoyajBKNXhfeDA0UUlpTGdJYmNtTWZ3dmhYMzM?oc=5)
 
 2026-10-01
 
-Source: [emjreviews.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3pzSGY5QzRDREo0aVViSTdoczJGR1ZKWnBleUVhZGZXSlQydHFQM3NxS0FmMmlBc2RpQnBKVVVfOGhxdlh5UXlxektlRUJZZTNwam9mNEk0UVozS3NWQmR0NHFYYWRfZ2V1cENUQUxTY3Zld0d0aVRQcFhNbDhRVEoyajBKNXhfeDA0UUlpTGdJYmNtTWZ3dmhYMzM?oc=5)
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3pzSGY5QzRDREo0aVViSTdoczJGR1ZKWnBleUVhZGZXSlQydHFQM3NxS0FmMmlBc2RpQnBKVVVfOGhxdlh5UXlxektlRUJZZTNwam9mNEk0UVozS3NWQmR0NHFYYWRfZ2V1cENUQUxTY3Zld0d0aVRQcFhNbDhRVEoyajBKNXhfeDA0UUlpTGdJYmNtTWZ3dmhYMzM?oc=5)
 
 ---
 
