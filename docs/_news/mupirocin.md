@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Mupirocin with the latest he
 
 ## Related News (1)
 
-### [Underlying causes of recurrent bacterial vaginosis identified by Australian scientists - The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHNVTkN1R1kwVVdhaEk2V3NWWVBGMG1TVzFpejFWNS1Id0hBOEpjaDhWQ0FFX0o3WEVESVE1dDNCRi1VNmFFc0w5cm9VWnh6cllhVmhESFVSOEN2TDFrancyOTVzRlNQS1dlNjdsdWhhaUVIbVVtM2gtUDZJYjlDTDVYTnhGS3ZRQ0lVNlJuOHBZZlFaTVVBZTM1ZGJtSk9UNzl0ZGJOMVI5YVE2VjVLYU1XWnZJRDRYakRTTGV4VlFWZU1PTzJFMF9pZ3Z5N1ZQV0VyTmVfbXg?oc=5)
+### [New treatment aims to achieve lasting cure for persistent bacterial vaginosis - EurekAlert! Science News Releases](https://news.google.com/rss/articles/CBMiXEFVX3lxTE43SUJGbUI2SFlhLUhGNk1WM0xfdWhSU01SU1RIaHdTSjUzTjdWT3FRWmlSLWx4dzBYbXBiVkxVbllNVlZ4a2VWcXZ1RW9NcVBPaUl2aERJNE91RG1U?oc=5)
 
 2026-10-01 <span class="news-indication-tag">bacterial vaginosis</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHNVTkN1R1kwVVdhaEk2V3NWWVBGMG1TVzFpejFWNS1Id0hBOEpjaDhWQ0FFX0o3WEVESVE1dDNCRi1VNmFFc0w5cm9VWnh6cllhVmhESFVSOEN2TDFrancyOTVzRlNQS1dlNjdsdWhhaUVIbVVtM2gtUDZJYjlDTDVYTnhGS3ZRQ0lVNlJuOHBZZlFaTVVBZTM1ZGJtSk9UNzl0ZGJOMVI5YVE2VjVLYU1XWnZJRDRYakRTTGV4VlFWZU1PTzJFMF9pZ3Z5N1ZQV0VyTmVfbXg?oc=5)
+Source: [EurekAlert! Science News Releases](https://news.google.com/rss/articles/CBMiXEFVX3lxTE43SUJGbUI2SFlhLUhGNk1WM0xfdWhSU01SU1RIaHdTSjUzTjdWT3FRWmlSLWx4dzBYbXBiVkxVbllNVlZ4a2VWcXZ1RW9NcVBPaUl2aERJNE91RG1U?oc=5)
 
 ---
 
