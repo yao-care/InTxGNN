@@ -46,11 +46,11 @@ Source: [digitaljournal.com](https://news.google.com/rss/articles/CBMiwgFBVV95cU
 
 ---
 
-### [Mitochondria offer new clue to how air pollution harms the heart](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDZZYnhpR0cwR2NYZWMxMW4yVFZDRTF5c3N0bkR1Y05PYTd6MnBrR0lPNDdMWFB0OXpjOVdUbzNRUlNocGpTaXNLYS1YOFBzNUNFM0hQY2FpdmdPZF9ha3h4VWtWYTlEZjgtWFhZSlN2enVQSlNOdVRBQXdrMWMyZkhLdkh3M3EtYzBKR29wN3M2MjVhVTRXRjdWYl9OZTRj?oc=5)
+### [Mitochondria offer new clue to how air pollution harms the heart - Air Quality News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDZZYnhpR0cwR2NYZWMxMW4yVFZDRTF5c3N0bkR1Y05PYTd6MnBrR0lPNDdMWFB0OXpjOVdUbzNRUlNocGpTaXNLYS1YOFBzNUNFM0hQY2FpdmdPZF9ha3h4VWtWYTlEZjgtWFhZSlN2enVQSlNOdVRBQXdrMWMyZkhLdkh3M3EtYzBKR29wN3M2MjVhVTRXRjdWYl9OZTRj?oc=5)
 
 2026-09-30 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
-Source: [airqualitynews.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDZZYnhpR0cwR2NYZWMxMW4yVFZDRTF5c3N0bkR1Y05PYTd6MnBrR0lPNDdMWFB0OXpjOVdUbzNRUlNocGpTaXNLYS1YOFBzNUNFM0hQY2FpdmdPZF9ha3h4VWtWYTlEZjgtWFhZSlN2enVQSlNOdVRBQXdrMWMyZkhLdkh3M3EtYzBKR29wN3M2MjVhVTRXRjdWYl9OZTRj?oc=5)
+Source: [Air Quality News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDZZYnhpR0cwR2NYZWMxMW4yVFZDRTF5c3N0bkR1Y05PYTd6MnBrR0lPNDdMWFB0OXpjOVdUbzNRUlNocGpTaXNLYS1YOFBzNUNFM0hQY2FpdmdPZF9ha3h4VWtWYTlEZjgtWFhZSlN2enVQSlNOdVRBQXdrMWMyZkhLdkh3M3EtYzBKR29wN3M2MjVhVTRXRjdWYl9OZTRj?oc=5)
 
 ---
 

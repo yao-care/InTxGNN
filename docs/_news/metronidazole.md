@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Metronidazole with the lates
 
 ## Related News (1)
 
-### [Menopause Blood Proteins Linked to Later Dementia Risk - European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
+### [Menopause Blood Proteins Linked to Later Dementia Risk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
 
 2026-10-01 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
+Source: [emjreviews.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
 
 ---
 

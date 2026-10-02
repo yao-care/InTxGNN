@@ -34,21 +34,13 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 <li>HIV infectious disease (99.8%)</li>
 <li>hyperthyroidism (99.8%)</li>
 <li>neuroblastoma (99.8%)</li>
-<li class="indication-matched">rheumatoid arthritis (99.7%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (7)
-
-### [New research suggests vaccines could help prevent autism - Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
-
-2026-10-01 <span class="news-indication-tag">RA</span>
-
-Source: [Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
-
----
 
 ### [Samvel Bardakhchyan at COGC 2026: New EGFR-Targeted Therapy Is Reshaping NSCLC](https://news.google.com/rss/articles/CBMiakFVX3lxTFBVaGhFTlNrVjZTcnVUUEZSUTBtOVB6WDBoNFVjb3FaRENhS0hVUDU0Z3NWLTRoQTRqWXhScDlMcGhJVURYbGZHMm1SNU41ei16bnRpRksxVko0cE1MV08xU3N5TjloRV9SdEE?oc=5)
 
@@ -58,11 +50,11 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMiakFVX3lxTFBVaGhFTlN
 
 ---
 
-### [Nearly 1.9 Lakh Cancer Cases in India Linked to Infections - The Indian Practitioner](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVFqZ1dhaFZoLWk4RGZHeDVZSGZjODhWUVFTcXpVZVJvcFhYTTZZQWNmT0E0RUtBUm1XSTJITHdtamJvNDd4empUSUFYNFNid3hFYVdxUUVnOFhvN2RQMmVPVWY2V0RnTm13VGRRSHRBb0d5a0YxS2djd1NhOGQ2SW1jalRGakJ0OHhPVUo3LXUzMTh4QWVZcw?oc=5)
+### [Nearly 1.9 Lakh Cancer Cases in India Linked to Infections](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVFqZ1dhaFZoLWk4RGZHeDVZSGZjODhWUVFTcXpVZVJvcFhYTTZZQWNmT0E0RUtBUm1XSTJITHdtamJvNDd4empUSUFYNFNid3hFYVdxUUVnOFhvN2RQMmVPVWY2V0RnTm13VGRRSHRBb0d5a0YxS2djd1NhOGQ2SW1jalRGakJ0OHhPVUo3LXUzMTh4QWVZcw?oc=5)
 
 2026-10-01 <span class="news-indication-tag">cancer</span>
 
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVFqZ1dhaFZoLWk4RGZHeDVZSGZjODhWUVFTcXpVZVJvcFhYTTZZQWNmT0E0RUtBUm1XSTJITHdtamJvNDd4empUSUFYNFNid3hFYVdxUUVnOFhvN2RQMmVPVWY2V0RnTm13VGRRSHRBb0d5a0YxS2djd1NhOGQ2SW1jalRGakJ0OHhPVUo3LXUzMTh4QWVZcw?oc=5)
+Source: [theindianpractitioner.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVFqZ1dhaFZoLWk4RGZHeDVZSGZjODhWUVFTcXpVZVJvcFhYTTZZQWNmT0E0RUtBUm1XSTJITHdtamJvNDd4empUSUFYNFNid3hFYVdxUUVnOFhvN2RQMmVPVWY2V0RnTm13VGRRSHRBb0d5a0YxS2djd1NhOGQ2SW1jalRGakJ0OHhPVUo3LXUzMTh4QWVZcw?oc=5)
 
 ---
 
@@ -94,7 +86,15 @@ Source: [ABP Live English](https://news.google.com/rss/articles/CBMizAFBVV95cUxP
 
 2026-09-29 <span class="news-indication-tag">cancer</span>
 
-Source: [Onco'Zine](https://news.google.com/rss/articles/CBMi7gFBVV95cUxONTFVR2pkUjVSQnNSaUd5OHR6RHNqa3ZwYlk3NWN3aFNoczNHTy1YeHBJbzdLOVQ5Z2pyT3Q4c2tQTVQ1SFA5OXlQWUttYmxaNE42R2xxb1ZBelduNmI0WEEySmRwRjFjZ1RIZEFQSkxhVnY5a3NBZjd1Q0MzNmVxaGdrMU9fT1A0N2dySzRfX3dUVDNUSjlKaVBSZEhKODlnQkNHcFFfMFR1UkpNY3JtOUszZXYyZTVFc0pwWkU0MEtGN0FvVC1NVmVvQVpPcWE5QlFaNEE1ZmxfYzh6UmQwekpUWGowWW9SSFFmektn?oc=5)
+Source: [oncozine.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxONTFVR2pkUjVSQnNSaUd5OHR6RHNqa3ZwYlk3NWN3aFNoczNHTy1YeHBJbzdLOVQ5Z2pyT3Q4c2tQTVQ1SFA5OXlQWUttYmxaNE42R2xxb1ZBelduNmI0WEEySmRwRjFjZ1RIZEFQSkxhVnY5a3NBZjd1Q0MzNmVxaGdrMU9fT1A0N2dySzRfX3dUVDNUSjlKaVBSZEhKODlnQkNHcFFfMFR1UkpNY3JtOUszZXYyZTVFc0pwWkU0MEtGN0FvVC1NVmVvQVpPcWE5QlFaNEE1ZmxfYzh6UmQwekpUWGowWW9SSFFmektn?oc=5)
+
+---
+
+### [Access to cancer genetic testing unequal worldwide: New Lancet Commission - The Hindu](https://news.google.com/rss/articles/CBMizgFBVV95cUxNT0lfNVlGcjNOeUR4VWR6UHhjUW9xdVN2bmRWRGxFYnotd0pXaVU2U1g5MklnZ1ZQekNPV1dZWERzNVV0dkx4TzB4bFZuU1g1OE1OZUJYNUhQM25OcHUwQXllZ3VOak0tajlSLVZhcjc4TE9GTHJsZndpYnliaUNUNWN5c0JYbHJhNld2VVJISHZnZWV1NGF2b0JVd2lkM1dBSDA0WkdQX0tLbkNOX1JTMHNUaThKeFVBSFRmLXRLQXBCUVc2cnNWT3lvZFRuUdIB1AFBVV95cUxNYnA0N2RzeGZzUGRKVmVaSXdRbmdQbHhWa2NWUW15STBERUlyRGZ6WmFnTzc1TkFxMzdTT3hkb1hMSXdUeEtIeU1FTGp5N3Z1OHljdFJ4a2M2WGRLZXJMRElGNjNFTmxsWUZZVFB3X1dSdlpHRUw2OGxsaUhwMVRwNU1GeHNONUI5R3JwaFFQVjhlUG5sOGxSWFV3UDhFeFQxck01TElROHJsYllKNUxha3NOeWpmSlVrQmpTNVpxbUl1LTMzaHAxblRHWS0ydDd2NlZTSQ?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cancer</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMizgFBVV95cUxNT0lfNVlGcjNOeUR4VWR6UHhjUW9xdVN2bmRWRGxFYnotd0pXaVU2U1g5MklnZ1ZQekNPV1dZWERzNVV0dkx4TzB4bFZuU1g1OE1OZUJYNUhQM25OcHUwQXllZ3VOak0tajlSLVZhcjc4TE9GTHJsZndpYnliaUNUNWN5c0JYbHJhNld2VVJISHZnZWV1NGF2b0JVd2lkM1dBSDA0WkdQX0tLbkNOX1JTMHNUaThKeFVBSFRmLXRLQXBCUVc2cnNWT3lvZFRuUdIB1AFBVV95cUxNYnA0N2RzeGZzUGRKVmVaSXdRbmdQbHhWa2NWUW15STBERUlyRGZ6WmFnTzc1TkFxMzdTT3hkb1hMSXdUeEtIeU1FTGp5N3Z1OHljdFJ4a2M2WGRLZXJMRElGNjNFTmxsWUZZVFB3X1dSdlpHRUw2OGxsaUhwMVRwNU1GeHNONUI5R3JwaFFQVjhlUG5sOGxSWFV3UDhFeFQxck01TElROHJsYllKNUxha3NOeWpmSlVrQmpTNVpxbUl1LTMzaHAxblRHWS0ydDd2NlZTSQ?oc=5)
 
 ---
 
