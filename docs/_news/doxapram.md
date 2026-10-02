@@ -14,7 +14,7 @@ permalink: /news/doxapram/
 ---
 
 <p class="key-answer" data-question="What news is there about Doxapram?">
-<strong>Doxapram</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Doxapram</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Doxapram with the latest hea
 <p><a href="{{ '/drugs/doxapram/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Whole fruit vs juice: What people with diabetes and heart disease should know - The Indian Express](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWNhc29KUXFHMVFkRTJnUnV4WFdvTmtzWHhQa09ubzZ2X1hsTnlFenpOZjRBWmlfMUlfZlMwb3ZjTk1DdElYYWU1cUM3dDM3Rl9FMWFKMFZjRFJZeHMyTUczUU55enNhcnNaTWIzSk4zVkxtY29SNUxycTl5eWNuak45NDFpMkNuOS13X2RWR2RqUW9nTGszeFRfNjNSY0ZmQko5VkVCdHdHM3hOS216WmE2TmZUMlpwcnU2aWtUZGNXZTZpNXZFYndwd2szU3daUTFR0gHaAUFVX3lxTE1nR2dma1BzbVZGSnB1YzZKYXNzRHFGRDlsbWtubXpzVktEdWNOWDdHaC12V0xLbHhTTkxrU1M5NGIwdkdYOEFERFBhaHduSE9DQWdMZHJtTWFIekNDOC1sUFpISnNCS2h0NjlDM1VoY0FVbTV6T2M1b2cycTI5MmNhLXZfbWxyUm51NDBGMlRBcVA4N1NtejVYVjdzOUJkVk0zaE9JNTlrT00tVmp5bmtlb19QWjZQZjNaNm1waXdndlZUSFE4QmFqdXBGYzVJSG1aU3NzVnFaOC1B?oc=5)
 
@@ -55,14 +55,6 @@ Source: [The Indian Express](https://news.google.com/rss/articles/CBMi0wFBVV95cU
 2026-10-01 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">vascular disease</span> <span class="news-indication-tag">peripheral vascular disease</span>
 
 Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRFBEVU9OaFlJVmZPTDFhdi02SU5hQlJwbjRmRDBNeGhHMGtDajVqcUt4N0pFMHdMa2QxSkg4ZE5sb0M2blFxSnplSjNpdjd2NWJHaGN0RFY2NXgwTDJYWnhNdWRkakxKT2Z4R0tlWDJOTklUdVRrbGtUaDlyOWlzX0l0VUlqRGdjNEpTN0k0WXFWOUpQaVMxTVJQSWRNRFE5SFl1TWhHaHByanIzZDBSSHYyYV9vT2tmdTJlSUlzbXpYbE9nLW9RcVQ5b1JZRjRyeHBTSEZOejlaUjNyaUw3VWFtb1FkNEt5Y3NKMUY5YXJpQzBtanFoWERnb1dWSFdDLW9pQjF4cEFySTFPUjVN0gGUAkFVX3lxTE1nZXNkRWNnakdmVHFZZV9jTzdVQVBmQy0zakZDYXBYejF0UmdKNjF6cVVncEhqbktXV3RoNWpTQkNySUttek84Y041aGcwUHRXRVpXQW5nal9OaHo4aUdtc3RLbEVvdk5oc0FuUjRnbUR0ZFd5UjJpWmF4b1p4SWdRbnpHUDAtaE9fX19mbTZ0WlpPd0luX0JablllYUdWa2JKOEVrbXQ2VTMyS19ocGxDazhVMDhGanpVUk52SUI2UnJKX1EtbHFnNWlla0ZBSjdPcFhERlB3SGtGdXU0QUtEbTdydlRaYjVMVk5UdmEzS0xMbU9JNU1XUlF2RW9ZZ2ZVLXlDS01WQmhtcVd1TGxVYzczaA?oc=5)
-
----
-
-### [JMIR Publications’ JMIR Cardio Invites Submissions on Generative and Multimodal AI in Digital Cardiovascular Medicine | Newswise](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPenFXbG56M1hMbUpzUUFmeFl2TzBnUnVORnN5dTNtR2pOdGhoVkxtS2Nud3R4bFNrSGRFS3pOSXRXbTI4OW84S1pHUWFnRU5MWEVlMmRLeXRUWGNodnhIbTkxMHJFUXFhMndXdkxUV1RESmIzN0dTNDJHVXRKaU0zQXVsQjM4U3FDUWdIUkRRZUlLZ191dmwyWS1rcnAwYzA4aGQweWFMZkNnekxOaXFKRmpMRmd0UW94YmVWN3hRcHdqX2RleU1Mb0xVbTFBakdaV2pjVm9Qcml3bnA5VWdtOXdOeGXSAeQBQVVfeXFMT3pxV2xuejNYTG1Kc1FBZnhZdk8wZ1J1TkZzeXUzbUdqTnRoaFZMbUtjbnd0eGxTa0hkRUt6Tkl0V20yODlvOEtaR1FhZ0VOTFhFZTJkS3l0VFhjaHZ4SG05MTByRVFxYTJ3V3ZMVFdUREpiMzdHUzQyR1V0SmlNM0F1bEIzOFNxQ1FnSFJEUWVJS2dfdXZsMlkta3JwMGMwOGhkMHlhTGZDZ3pMTmlxSkZqTEZndFFveGJlVjd4UXB3al9kZXlNTG9MVW0xQWpHWldqY1ZvUHJpd25wOVVnbTl3Tnhl?oc=5)
-
-2026-10-01 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [Newswise](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPenFXbG56M1hMbUpzUUFmeFl2TzBnUnVORnN5dTNtR2pOdGhoVkxtS2Nud3R4bFNrSGRFS3pOSXRXbTI4OW84S1pHUWFnRU5MWEVlMmRLeXRUWGNodnhIbTkxMHJFUXFhMndXdkxUV1RESmIzN0dTNDJHVXRKaU0zQXVsQjM4U3FDUWdIUkRRZUlLZ191dmwyWS1rcnAwYzA4aGQweWFMZkNnekxOaXFKRmpMRmd0UW94YmVWN3hRcHdqX2RleU1Mb0xVbTFBakdaV2pjVm9Qcml3bnA5VWdtOXdOeGXSAeQBQVVfeXFMT3pxV2xuejNYTG1Kc1FBZnhZdk8wZ1J1TkZzeXUzbUdqTnRoaFZMbUtjbnd0eGxTa0hkRUt6Tkl0V20yODlvOEtaR1FhZ0VOTFhFZTJkS3l0VFhjaHZ4SG05MTByRVFxYTJ3V3ZMVFdUREpiMzdHUzQyR1V0SmlNM0F1bEIzOFNxQ1FnSFJEUWVJS2dfdXZsMlkta3JwMGMwOGhkMHlhTGZDZ3pMTmlxSkZqTEZndFFveGJlVjd4UXB3al9kZXlNTG9MVW0xQWpHWldqY1ZvUHJpd25wOVVnbTl3Tnhl?oc=5)
 
 ---
 

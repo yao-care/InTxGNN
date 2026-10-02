@@ -14,7 +14,7 @@ permalink: /news/mesalazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mesalazine?">
-<strong>Mesalazine</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Mesalazine</strong> currently has <strong>4 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <li><strong>Predicted indications (7)</strong>:<ul>
 <li>congenital hypotrichosis with juvenile macular dystrophy (99.7%)</li>
 <li>osteoarthritis (99.6%)</li>
-<li>rheumatoid arthritis (99.6%)</li>
+<li class="indication-matched">rheumatoid arthritis (99.6%)<span class="indication-tag">📰 RA</span></li>
 <li>seborrheic keratosis (99.5%)</li>
 <li>osteoarthritis susceptibility (99.3%)</li>
 <li>vulvar inverted follicular keratosis (99.3%)</li>
@@ -37,9 +37,39 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <p><a href="{{ '/drugs/mesalazine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (4)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Rare pregnancy infections linked to autism, suggests study - Medical Dialogues](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFhhc0RaRktuN2NLVGxPa242SkMzaXFET2g5NGZUeEhheHNEMDdTOGsyYWJLdmNsZkVrc3dIbk5ZT0JRN2VRQU9QdENnQnF0V0pnNzIxaWdXMm9ianJZMEVkNXlvSjN3b2Z1dS1CZXduLVREeG5HVFRxLUM1YTVYVE9sa29oY1gyQy1iZEJlVDZOM3B1OTRLVy1FVmFENlh1NDJWRXlJNmNlWERPa1FaNE8wTDJoRHFySDAtbNIBwgFBVV95cUxNSnFFeUltbTExRTh6RXNEZ3Fhc0lYanh3VVRJX2ZWVlBvUi1WOG5kVGVjaUU4X1Nva1dBTkdCSkRvMEJ3Sjl4dDVUcGVkbml2b0JlQTdfTGdvcEJuTnM1Z3lyWlAwc29OdUNuZWRaelJmWXM3REgwSHJTckFsRFB3a0h2MUVyOEtpMDZPSVNqWVF1NmV6NUV4Q1hLZlN6dEhOOUwyeXZFUktQa1RtczVaLTZtMnNZT2JOMlNPcVpDclFBdw?oc=5)
+
+2026-10-02 <span class="news-indication-tag">RA</span>
+
+Source: [Medical Dialogues](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFhhc0RaRktuN2NLVGxPa242SkMzaXFET2g5NGZUeEhheHNEMDdTOGsyYWJLdmNsZkVrc3dIbk5ZT0JRN2VRQU9QdENnQnF0V0pnNzIxaWdXMm9ianJZMEVkNXlvSjN3b2Z1dS1CZXduLVREeG5HVFRxLUM1YTVYVE9sa29oY1gyQy1iZEJlVDZOM3B1OTRLVy1FVmFENlh1NDJWRXlJNmNlWERPa1FaNE8wTDJoRHFySDAtbNIBwgFBVV95cUxNSnFFeUltbTExRTh6RXNEZ3Fhc0lYanh3VVRJX2ZWVlBvUi1WOG5kVGVjaUU4X1Nva1dBTkdCSkRvMEJ3Sjl4dDVUcGVkbml2b0JlQTdfTGdvcEJuTnM1Z3lyWlAwc29OdUNuZWRaelJmWXM3REgwSHJTckFsRFB3a0h2MUVyOEtpMDZPSVNqWVF1NmV6NUV4Q1hLZlN6dEhOOUwyeXZFUktQa1RtczVaLTZtMnNZT2JOMlNPcVpDclFBdw?oc=5)
+
+---
+
+### [H5N1 avian flu returns to Midwest poultry farms, with multiple turkey operations hit](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0NnQ3FqT21nQWxSMEhNdE11ZEo1My0waDNwNFp4bjkwTHlCU2xSWE9jRXMxUWN2dUFMejRHSDVQMmNqTjloaHdUaFB4U3c0WnplbHNfcTlfem1TVW1uNkRwX2RvbUxZZTJOSWNrU3ZvZ3paLWNzT0NUMEs4WTlQZnVZOGZlbU5VelNDYTJuQVpYQlRSdkhfekdoZUZseC1Ya3JMNFdybGhhMG9WQ2NWdDRmRDZmdDJTRDhVOXFFVHU?oc=5)
+
+2026-10-01 <span class="news-indication-tag">RA</span>
+
+Source: [CIDRAP](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0NnQ3FqT21nQWxSMEhNdE11ZEo1My0waDNwNFp4bjkwTHlCU2xSWE9jRXMxUWN2dUFMejRHSDVQMmNqTjloaHdUaFB4U3c0WnplbHNfcTlfem1TVW1uNkRwX2RvbUxZZTJOSWNrU3ZvZ3paLWNzT0NUMEs4WTlQZnVZOGZlbU5VelNDYTJuQVpYQlRSdkhfekdoZUZseC1Ya3JMNFdybGhhMG9WQ2NWdDRmRDZmdDJTRDhVOXFFVHU?oc=5)
+
+---
+
+### [New research suggests vaccines could help prevent autism - Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
+
+2026-10-01 <span class="news-indication-tag">RA</span>
+
+Source: [Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
+
+---
+
+### [Nearly 1.9 Lakh Cancer Cases in India Linked to Infections - The Indian Practitioner](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVFqZ1dhaFZoLWk4RGZHeDVZSGZjODhWUVFTcXpVZVJvcFhYTTZZQWNmT0E0RUtBUm1XSTJITHdtamJvNDd4empUSUFYNFNid3hFYVdxUUVnOFhvN2RQMmVPVWY2V0RnTm13VGRRSHRBb0d5a0YxS2djd1NhOGQ2SW1jalRGakJ0OHhPVUo3LXUzMTh4QWVZcw?oc=5)
+
+2026-10-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVFqZ1dhaFZoLWk4RGZHeDVZSGZjODhWUVFTcXpVZVJvcFhYTTZZQWNmT0E0RUtBUm1XSTJITHdtamJvNDd4empUSUFYNFNid3hFYVdxUUVnOFhvN2RQMmVPVWY2V0RnTm13VGRRSHRBb0d5a0YxS2djd1NhOGQ2SW1jalRGakJ0OHhPVUo3LXUzMTh4QWVZcw?oc=5)
+
+---
 
 
 <div class="disclaimer">

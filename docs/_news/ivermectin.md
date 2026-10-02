@@ -14,7 +14,7 @@ permalink: /news/ivermectin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ivermectin?">
-<strong>Ivermectin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Ivermectin</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,23 @@ This page combines the AI-predicted indications for Ivermectin with the latest h
 <p><a href="{{ '/drugs/ivermectin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [HRT for Menopause and CV Risk: Two Observational Studies Provide Insights](https://news.google.com/rss/articles/CBMimwFBVV95cUxNal9WRTZuM2R1WG1kTjFLbERxMGJGa1dlUXBjci1iS2JqcGl2TlFtbmZSU19FN3M1Zi1kcTA1YWdqOW9EVHd1RVk5Qk1xc2pnbmNTY1pDRUhpTVNyX3d0am9jMU5IcVpSQlY3T1I4UjRyN0Q1bHJUZVBKWFpIa2tyVmwzSUllQy1jakVQR2F4ZVprMGNEQnRoTWlzMA?oc=5)
+
+2026-10-02 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [TCTMD.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNal9WRTZuM2R1WG1kTjFLbERxMGJGa1dlUXBjci1iS2JqcGl2TlFtbmZSU19FN3M1Zi1kcTA1YWdqOW9EVHd1RVk5Qk1xc2pnbmNTY1pDRUhpTVNyX3d0am9jMU5IcVpSQlY3T1I4UjRyN0Q1bHJUZVBKWFpIa2tyVmwzSUllQy1jakVQR2F4ZVprMGNEQnRoTWlzMA?oc=5)
+
+---
+
+### [Menopause puts the brain at risk. Researchers are starting to learn why - Science | AAAS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjVzVWFDdHVILURpNVVXZGZ4RTlTOXJlWEE2MVAwQXM5Q3Y3THpORHJ1LVRPWlpJSkF3enhlaTJZZ3RYQTdjTXd1ZEpCX2JIbk9YcG1pTWlGTTUtdjk4NVJYTko0Y0p3SFZ0NTB4SHAwY1d4MVBFZ1B5YVlGRmZLcXFxRUNNckVLazRWam9CTnpoRnJFVTU2ZG1DWk9vaFRJOUE?oc=5)
+
+2026-10-01 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjVzVWFDdHVILURpNVVXZGZ4RTlTOXJlWEE2MVAwQXM5Q3Y3THpORHJ1LVRPWlpJSkF3enhlaTJZZ3RYQTdjTXd1ZEpCX2JIbk9YcG1pTWlGTTUtdjk4NVJYTko0Y0p3SFZ0NTB4SHAwY1d4MVBFZ1B5YVlGRmZLcXFxRUNNckVLazRWam9CTnpoRnJFVTU2ZG1DWk9vaFRJOUE?oc=5)
+
+---
 
 
 <div class="disclaimer">

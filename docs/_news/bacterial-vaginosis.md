@@ -31,11 +31,11 @@ This page brings together the latest health news about “bacterial vaginosis”
 
 ## Related News (1)
 
-### [New treatment aims to achieve lasting cure for persistent bacterial vaginosis - EurekAlert! Science News Releases](https://news.google.com/rss/articles/CBMiXEFVX3lxTE43SUJGbUI2SFlhLUhGNk1WM0xfdWhSU01SU1RIaHdTSjUzTjdWT3FRWmlSLWx4dzBYbXBiVkxVbllNVlZ4a2VWcXZ1RW9NcVBPaUl2aERJNE91RG1U?oc=5)
+### [New antibiotic combinations aim to prevent recurrent bacterial vaginosis](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeU1zb2NnRzJCRnpFZHZISUo3VDk1ZkMyaUI5QWhpZmZicURJZDFPc2h0R0RVNG5xb0FJN2dxanRxWUpMYllBSHI2YmtEMjB5T0dvWTJBdkNVTVZHeVhHOFVMOWxNSE5wMERHWkZCcWItZ3dJSGgwNm4xMG10UVdrSGFXeEpjMEFOQ3lWS0xSaU5wdFFVaFNJLV9NVXdtVDFwcGdfVnpmTnBZNWtSSUtneU9EVjVheVNoYl9rTA?oc=5)
 
 2026-10-01
 
-Source: [EurekAlert! Science News Releases](https://news.google.com/rss/articles/CBMiXEFVX3lxTE43SUJGbUI2SFlhLUhGNk1WM0xfdWhSU01SU1RIaHdTSjUzTjdWT3FRWmlSLWx4dzBYbXBiVkxVbllNVlZ4a2VWcXZ1RW9NcVBPaUl2aERJNE91RG1U?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeU1zb2NnRzJCRnpFZHZISUo3VDk1ZkMyaUI5QWhpZmZicURJZDFPc2h0R0RVNG5xb0FJN2dxanRxWUpMYllBSHI2YmtEMjB5T0dvWTJBdkNVTVZHeVhHOFVMOWxNSE5wMERHWkZCcWItZ3dJSGgwNm4xMG10UVdrSGFXeEpjMEFOQ3lWS0xSaU5wdFFVaFNJLV9NVXdtVDFwcGdfVnpmTnBZNWtSSUtneU9EVjVheVNoYl9rTA?oc=5)
 
 ---
 
