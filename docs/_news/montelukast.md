@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>3 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,29 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
 
-### [Scientists Invent Underwater Umbrellas to Protect Coral Reefs—and It Appears to Be Working](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUtuV3d2SUpQZExuelAxWi11MWloaVFaWjkwUzdkQTlyd2o2NFU3NmRPRjdYQnpBSU1SQVp3NlJIdmpRS3RtS2tNSUZpM0F4bk1RVFVzbjVMUzFuU0ZXSF9MSmMxQnZPN2p2bzRhNEN3M0d3cDgzU0F2WTFwbWMwaEl3MUVTWnE2M2xISzRvUkdMRGE0Vndad3hRc2stWVVPRGxjNG83Mlk5QTNtWExZdTlZZzlPYjhwR1M4cW13?oc=5)
+### [Breaking Up Sedentary Time With Exercise Snacks](https://news.google.com/rss/articles/CBMimgFBVV95cUxPM2FSdkk4eVFsM01DazBqVE5id1NNLVo4NjY2bUVSckhGdElEejlRbUppeHdVTEtLWS1wQW9jZHpWSGtVbTBpbVNVbnJfQTJvZmlkeDhWX21PcGNuWkVBT1VweU1vbS1hcHhiYm13QmRZaW9lX2d1ZjNOcVUyMFRVbXI4eEdXT2dTSjRYd3hSNFFjdlJfMmFWb3pn?oc=5)
 
 2026-10-02 <span class="news-indication-tag">dama</span>
 
-Source: [Gizmodo](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUtuV3d2SUpQZExuelAxWi11MWloaVFaWjkwUzdkQTlyd2o2NFU3NmRPRjdYQnpBSU1SQVp3NlJIdmpRS3RtS2tNSUZpM0F4bk1RVFVzbjVMUzFuU0ZXSF9MSmMxQnZPN2p2bzRhNEN3M0d3cDgzU0F2WTFwbWMwaEl3MUVTWnE2M2xISzRvUkdMRGE0Vndad3hRc2stWVVPRGxjNG83Mlk5QTNtWExZdTlZZzlPYjhwR1M4cW13?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxPM2FSdkk4eVFsM01DazBqVE5id1NNLVo4NjY2bUVSckhGdElEejlRbUppeHdVTEtLWS1wQW9jZHpWSGtVbTBpbVNVbnJfQTJvZmlkeDhWX21PcGNuWkVBT1VweU1vbS1hcHhiYm13QmRZaW9lX2d1ZjNOcVUyMFRVbXI4eEdXT2dTSjRYd3hSNFFjdlJfMmFWb3pn?oc=5)
+
+---
+
+### [In-home exposure to e-cigarettes and tobacco linked to children's asthma flare-ups - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSF9mcFBmckE0MGxoWU1NcUs5ZVpmRVhEdE5YTk5iVm5nZ3VUN2FRTzR5QnFnWTZsRVRNeklONW5pdHRyeEJOT0gtRUZmTllYN3A2ZVNtWDY1aU80cTZOeGphc0ZvWEJaWHBTbW5RZnp4OTZCM0FGWmpMWHJpbHh4czMxUVdUVDhObWRF?oc=5)
+
+2026-10-02 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSF9mcFBmckE0MGxoWU1NcUs5ZVpmRVhEdE5YTk5iVm5nZ3VUN2FRTzR5QnFnWTZsRVRNeklONW5pdHRyeEJOT0gtRUZmTllYN3A2ZVNtWDY1aU80cTZOeGphc0ZvWEJaWHBTbW5RZnp4OTZCM0FGWmpMWHJpbHh4czMxUVdUVDhObWRF?oc=5)
+
+---
+
+### [Global warming is destroying corals. Underwater ‘umbrellas’ might be a solution](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFYtd2kyeU8zOERaSVdjWjlQMDVDMTUzbmVHZHhlV2pVV2c2U3pKbEp3dnpRbTktSUQtbWxTRzFiMW4wOTFmUGxWRVhHWjdrMm4yZTJsMVRNaFZvNlFqM2lZczJEbXZ5OHFSUmpEb1hMeUFVcEpuampTUXN5US1jZDJhTXpiVW9RellPd1RDVmNlcXhtY2Vnek9iTER6dnNiMlZuaUhXRENOeWg4cTJtOUFSONIBuAFBVV95cUxOM3d4YjZhR0NZY0o4eVVaRGx5ZGU3RUFtXzFRb19rVk92MFNrcHBDaERReXRmWnhvalBjNHBHUF9lTEt1dEU5SzBEOC03ejU0UGtneGNfZWlCUmR3NXI1TUlhYWk1ZlJQWkNScGJUYWJWRGhpbzFPdXQxc1c3YXgwRGF2LUlwMzI4QzhrWUpYcUNhbFRrX2hyUi1mQ3lrVF8xR3JtaE1oVVd5cnBXdzNLZGp3U2NOZnk0?oc=5)
+
+2026-10-02 <span class="news-indication-tag">dama</span>
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFYtd2kyeU8zOERaSVdjWjlQMDVDMTUzbmVHZHhlV2pVV2c2U3pKbEp3dnpRbTktSUQtbWxTRzFiMW4wOTFmUGxWRVhHWjdrMm4yZTJsMVRNaFZvNlFqM2lZczJEbXZ5OHFSUmpEb1hMeUFVcEpuampTUXN5US1jZDJhTXpiVW9RellPd1RDVmNlcXhtY2Vnek9iTER6dnNiMlZuaUhXRENOeWg4cTJtOUFSONIBuAFBVV95cUxOM3d4YjZhR0NZY0o4eVVaRGx5ZGU3RUFtXzFRb19rVk92MFNrcHBDaERReXRmWnhvalBjNHBHUF9lTEt1dEU5SzBEOC03ejU0UGtneGNfZWlCUmR3NXI1TUlhYWk1ZlJQWkNScGJUYWJWRGhpbzFPdXQxc1c3YXgwRGF2LUlwMzI4QzhrWUpYcUNhbFRrX2hyUi1mQ3lrVF8xR3JtaE1oVVd5cnBXdzNLZGp3U2NOZnk0?oc=5)
 
 ---
 
