@@ -14,7 +14,7 @@ permalink: /news/amylmetacresol/
 ---
 
 <p class="key-answer" data-question="What news is there about Amylmetacresol?">
-<strong>Amylmetacresol</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
+<strong>Amylmetacresol</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Amylmetacresol with the late
 <p><a href="{{ '/drugs/amylmetacresol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (10)
 
 ### [How more personalised treatment can change gynaecological cancer care | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZjBTdHRFZU5tSHVNMjNDTkF2V29qekg1WjFBUHdDaERlb2pYYXNYdVhhN1gxT3NLcVZ4a2VrUU40N2hnN2hGNC1aVnFxWnlZaW1pTHo2eElUUHNzS0ZsSVRsRzNfQy1zUWpPNmpMMVVyUzJpLTZzMmpKT0x1QlpzcTlHQjBQbnU3SWxsYmNMXzBYQ2doSUFocVBGUXpWZERSWEZlUDU0OGlNMENFZnh5ZkFrcnFBcXNDYlVUV3VDTldKZnBfRlRvallPdXF4bE5FM1hjVEFrdE1UeDlEdVVn0gHkAUFVX3lxTE9CVmVBYVRLNWFVNGttNDY1eXVsQnRvZDhxT0FiejJaQVktZ25neENHYmctZEVXQ2xBNHBGUnZFaEVlZFpnbFgzMU5ubnoySnV6UHFYVGhLR0VoTGp5UFpFOS1GNTlVTzh6d2ljR2M4UlNXdnFRMXk1OEdhV0w2bmM4N1BNcEg5UWYxUmlBdGwyOTF2QlQ5NzgxMEo2TFhBZThNSHZIMldDc2xPMDBaa1YzSXltNXM1cm9WcFZaZGxYNWlnQTdaMmsteFVMcHFtVF9LWFJWZmNxNzVBakJpMXNzZUVvbg?oc=5)
 
@@ -58,19 +58,51 @@ Source: [ANI News](https://news.google.com/rss/articles/CBMi9AFBVV95cUxObHpRdm9o
 
 ---
 
-### [Childhood Cancer Survivors Often Have Mental Distress in Adulthood - Dermatology Advisor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2Y5NVBWS0NMRENEZWlvajJRTmQtNHpjYVB6aEhSRXdTdDVQTWN1V3JYNDJUVnZyS2s0R29nYmoxYXRldHlfZlY1Y2JnSFVpTWFVeHVqVGs1NEY2YTN2UUVaWEUxRTE4Q1hDYjVVV01EWWVfcV9BR20zQWNzbjVUSkp2bmNRbTJUZWxQQ3FfMUk2YjlVbTZIRWtXMFJ3MHNaNkVQTzZEZ1l5Mnc?oc=5)
+### [Childhood Cancer Survivors Often Have Mental Distress in Adulthood - Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRnNFNjRDUTNfVUJTaUZ6UG9iRklSWFJfRXlqYk1sNWFyakpkNkhVMG9oWUIyY3NMS0pyX0lQUkZNUlYzMU51enVUbloycjVWTnFJeUpMbFVJZUpXOTZvT2xZc3R3bUNybV96U2JwMGdIMklrZlVmYXFZR2JoRFZkSm50cVVIME1ZQnF3ZEFVazdlTXNELWhLU3VVZGdUTUV0SGRtQnE1U2hSU2k1M1E?oc=5)
 
 2026-10-02 <span class="news-indication-tag">cancer</span>
 
-Source: [Dermatology Advisor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2Y5NVBWS0NMRENEZWlvajJRTmQtNHpjYVB6aEhSRXdTdDVQTWN1V3JYNDJUVnZyS2s0R29nYmoxYXRldHlfZlY1Y2JnSFVpTWFVeHVqVGs1NEY2YTN2UUVaWEUxRTE4Q1hDYjVVV01EWWVfcV9BR20zQWNzbjVUSkp2bmNRbTJUZWxQQ3FfMUk2YjlVbTZIRWtXMFJ3MHNaNkVQTzZEZ1l5Mnc?oc=5)
+Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRnNFNjRDUTNfVUJTaUZ6UG9iRklSWFJfRXlqYk1sNWFyakpkNkhVMG9oWUIyY3NMS0pyX0lQUkZNUlYzMU51enVUbloycjVWTnFJeUpMbFVJZUpXOTZvT2xZc3R3bUNybV96U2JwMGdIMklrZlVmYXFZR2JoRFZkSm50cVVIME1ZQnF3ZEFVazdlTXNELWhLU3VVZGdUTUV0SGRtQnE1U2hSU2k1M1E?oc=5)
+
+---
+
+### [Health Rounds: Appendix removal linked with lower colon cancer risk in study](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcll3djhXc2U2RXIxWVk0TGVaeXRVZ2MySG84N2hQaUlvYW1XbHB1dlM1Q2hud2NfeUdIeTdpM1lCMW13bnVQNFVESktXT1YwYW9yZUJ5cGJLNkdWTXYwMUc3ZUN5M1BGUGROekdPVnhyNnZPUm91eEpCTUMwOW15RDRoTUxKMTQ2bE8ycWhIVUxlLTFUTFRDS0R4ZWw0Ylh1UmpqMDBlRGd3Y2Jzc1NQYXlPaTc4YWp0SUp4NVJzYjJHY1Y4N18zU244MHJWU251bzlwSnNId1R3Q2pDakE?oc=5)
+
+2026-10-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colon cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">rectal cancer</span>
+
+Source: [TradingView](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcll3djhXc2U2RXIxWVk0TGVaeXRVZ2MySG84N2hQaUlvYW1XbHB1dlM1Q2hud2NfeUdIeTdpM1lCMW13bnVQNFVESktXT1YwYW9yZUJ5cGJLNkdWTXYwMUc3ZUN5M1BGUGROekdPVnhyNnZPUm91eEpCTUMwOW15RDRoTUxKMTQ2bE8ycWhIVUxlLTFUTFRDS0R4ZWw0Ylh1UmpqMDBlRGd3Y2Jzc1NQYXlPaTc4YWp0SUp4NVJzYjJHY1Y4N18zU244MHJWU251bzlwSnNId1R3Q2pDakE?oc=5)
+
+---
+
+### [Loss of the tumor suppressor p53 generates a signaling gradient that drives epithelial clonal expansion - Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vczhyZl8tenpoSUtHNWlYaXoxR1FqcmxzWGdxdXp4VEM1VDZuNUhORkNRQ2lITlMxMVI4bW03UXp5VFlmWUZicHJNeXlhYWRhOFBOQ2ZoZnF0Q09wZ3VwWA?oc=5)
+
+2026-10-01 <span class="news-indication-tag">tumor</span>
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vczhyZl8tenpoSUtHNWlYaXoxR1FqcmxzWGdxdXp4VEM1VDZuNUhORkNRQ2lITlMxMVI4bW03UXp5VFlmWUZicHJNeXlhYWRhOFBOQ2ZoZnF0Q09wZ3VwWA?oc=5)
 
 ---
 
 ### [Nearly 1.9 Lakh Cancer Cases in India Linked to Infections - The Indian Practitioner](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVFqZ1dhaFZoLWk4RGZHeDVZSGZjODhWUVFTcXpVZVJvcFhYTTZZQWNmT0E0RUtBUm1XSTJITHdtamJvNDd4empUSUFYNFNid3hFYVdxUUVnOFhvN2RQMmVPVWY2V0RnTm13VGRRSHRBb0d5a0YxS2djd1NhOGQ2SW1jalRGakJ0OHhPVUo3LXUzMTh4QWVZcw?oc=5)
 
-2026-10-01 <span class="news-indication-tag">cancer</span>
+2026-10-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVFqZ1dhaFZoLWk4RGZHeDVZSGZjODhWUVFTcXpVZVJvcFhYTTZZQWNmT0E0RUtBUm1XSTJITHdtamJvNDd4empUSUFYNFNid3hFYVdxUUVnOFhvN2RQMmVPVWY2V0RnTm13VGRRSHRBb0d5a0YxS2djd1NhOGQ2SW1jalRGakJ0OHhPVUo3LXUzMTh4QWVZcw?oc=5)
+
+---
+
+### [Advanced cancer care must become more accessible and affordable for patients: Dr Saptarshi Ghosh](https://news.google.com/rss/articles/CBMia0FVX3lxTFBQN3ZoMERpa094cHBOM0JhYmlQWXg5UmQ3VmxOeE1XWFVEdjNNWlA3UWtjN1llWGNhZkpQanNSVXBrU19MWEZKdTlYcEpiUzNVQTh1TkpZY2V3UE5HSGdsTFdOUXlIWWFKa01R?oc=5)
+
+2026-10-01 <span class="news-indication-tag">cancer</span>
+
+Source: [pharmabiz.com](https://news.google.com/rss/articles/CBMia0FVX3lxTFBQN3ZoMERpa094cHBOM0JhYmlQWXg5UmQ3VmxOeE1XWFVEdjNNWlA3UWtjN1llWGNhZkpQanNSVXBrU19MWEZKdTlYcEpiUzNVQTh1TkpZY2V3UE5HSGdsTFdOUXlIWWFKa01R?oc=5)
+
+---
+
+### [Doc Talk | Prostate Cancer At Stage 4 Is Not The End: How PSMA PET And Radioligand Therapy Help - ABP Live English](https://news.google.com/rss/articles/CBMizAFBVV95cUxPak9rN20yQUxwa2ZiNVBSUmdTWG8yNXdqSmZzNUwwLUpzUjRhTDRKcGFQS2FsRlBzc1liSXhaRlVjVll2SkwtalZlZkpaS1ZwLUNYU2RHZGU2ck5abl9pTmcyNXczekRDTDd2SUI1ZE40RTFrd3dyVG5Xczd6XzgtQWZIUm5lMnVwS0RPZ0RxeVdkSkE3YkNKemdUVlhOVENXaEdIb3hrOHFGRV84QmszTHdkRlVEYzVmSHNhTUVKcmx6dHJLMWNYWll3V0rSAdIBQVVfeXFMTTc1SzI2R2t1OXRJdFBOb0doTkFYMXM5cXhnWWtEVkdQZDVtaTJMUTB1aHJyZkN5QVdIalFyT1BaM0JHc0lkVlFXdlNMenNfekpvNTlwaVBZc2hLMmZjVm9ZMDc2MXJDOUVNTGw5bkNHZnN4cFR3V3pzWlNsMW1sdzY0TXBMOFBBOWtPNWpmcmRzQVQzd3hqWHJlOGh1MG40UmRfOHlSTjBVcFVhd1lKdFVEZ3luT05EOWlQaW5QdW9aMWZhY1pxMko1Rk00MEVGM0FR?oc=5)
+
+2026-09-30 <span class="news-indication-tag">cancer</span>
+
+Source: [ABP Live English](https://news.google.com/rss/articles/CBMizAFBVV95cUxPak9rN20yQUxwa2ZiNVBSUmdTWG8yNXdqSmZzNUwwLUpzUjRhTDRKcGFQS2FsRlBzc1liSXhaRlVjVll2SkwtalZlZkpaS1ZwLUNYU2RHZGU2ck5abl9pTmcyNXczekRDTDd2SUI1ZE40RTFrd3dyVG5Xczd6XzgtQWZIUm5lMnVwS0RPZ0RxeVdkSkE3YkNKemdUVlhOVENXaEdIb3hrOHFGRV84QmszTHdkRlVEYzVmSHNhTUVKcmx6dHJLMWNYWll3V0rSAdIBQVVfeXFMTTc1SzI2R2t1OXRJdFBOb0doTkFYMXM5cXhnWWtEVkdQZDVtaTJMUTB1aHJyZkN5QVdIalFyT1BaM0JHc0lkVlFXdlNMenNfekpvNTlwaVBZc2hLMmZjVm9ZMDc2MXJDOUVNTGw5bkNHZnN4cFR3V3pzWlNsMW1sdzY0TXBMOFBBOWtPNWpmcmRzQVQzd3hqWHJlOGh1MG40UmRfOHlSTjBVcFVhd1lKdFVEZ3luT05EOWlQaW5QdW9aMWZhY1pxMko1Rk00MEVGM0FR?oc=5)
 
 ---
 
@@ -79,6 +111,14 @@ Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMimAFBV
 2026-09-29 <span class="news-indication-tag">cancer</span>
 
 Source: [Onco'Zine](https://news.google.com/rss/articles/CBMi7gFBVV95cUxONTFVR2pkUjVSQnNSaUd5OHR6RHNqa3ZwYlk3NWN3aFNoczNHTy1YeHBJbzdLOVQ5Z2pyT3Q4c2tQTVQ1SFA5OXlQWUttYmxaNE42R2xxb1ZBelduNmI0WEEySmRwRjFjZ1RIZEFQSkxhVnY5a3NBZjd1Q0MzNmVxaGdrMU9fT1A0N2dySzRfX3dUVDNUSjlKaVBSZEhKODlnQkNHcFFfMFR1UkpNY3JtOUszZXYyZTVFc0pwWkU0MEtGN0FvVC1NVmVvQVpPcWE5QlFaNEE1ZmxfYzh6UmQwekpUWGowWW9SSFFmektn?oc=5)
+
+---
+
+### [India needs five-year policy to make precision cancer care afforable, says expert](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnNrNGxfUEYtX3dMS3hBalFiVENhcU9qMTQxOUJvUTA3a3FhZkEwSDVYSW5JTUlSMVdhcVZmbExrSjU1aHhVMFlUWkhWdTJyWEE4N25qM05qR21vSnktV2VlOHYzT2pYMjQ0NkVzY1ZtbGwwYlpEQ0I4MlZoWG5XaGx6TXgtclVpYXNnZHUxNm9iU3p5Q3BxODVwbGNIczZjX3ZSTXQ0dkVqZmFVaV82Z0hLT2g1d9IBuwFBVV95cUxPNy1zRWw3MWNRbVhfVWJCeFZ3N2Z3SDBDTUQyQTZoa01uNFU5SkRJM0VLSzJDWmdHZTVsaENiQ3dON3A5VFpNMHRwRmhDNHR0ai1aN3lLTC1Oek5NT3dPeHVONGxhMTFrbHFzZ01oaWNoZndyUGx6NFRfcmdWYVFwMWp0dFVVLVA4V0EtQzJ2eVRJZU9JMkhkdmpjZVkzajB4U0J2ZWtoM25aNUR2emZ0QmQtSjZHYWt2SVRr?oc=5)
+
+2026-09-26 <span class="news-indication-tag">cancer</span>
+
+Source: [theprint.in](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnNrNGxfUEYtX3dMS3hBalFiVENhcU9qMTQxOUJvUTA3a3FhZkEwSDVYSW5JTUlSMVdhcVZmbExrSjU1aHhVMFlUWkhWdTJyWEE4N25qM05qR21vSnktV2VlOHYzT2pYMjQ0NkVzY1ZtbGwwYlpEQ0I4MlZoWG5XaGx6TXgtclVpYXNnZHUxNm9iU3p5Q3BxODVwbGNIczZjX3ZSTXQ0dkVqZmFVaV82Z0hLT2g1d9IBuwFBVV95cUxPNy1zRWw3MWNRbVhfVWJCeFZ3N2Z3SDBDTUQyQTZoa01uNFU5SkRJM0VLSzJDWmdHZTVsaENiQ3dON3A5VFpNMHRwRmhDNHR0ai1aN3lLTC1Oek5NT3dPeHVONGxhMTFrbHFzZ01oaWNoZndyUGx6NFRfcmdWYVFwMWp0dFVVLVA4V0EtQzJ2eVRJZU9JMkhkdmpjZVkzajB4U0J2ZWtoM25aNUR2emZ0QmQtSjZHYWt2SVRr?oc=5)
 
 ---
 
