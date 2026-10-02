@@ -38,11 +38,11 @@ This page combines the AI-predicted indications for Iron with the latest health 
 
 ## Related News (2)
 
-### [Space junk crisis deepens as new satellite breakup highlights growing orbital threat](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXJQQzM5ZzlBSi0yWi05aU5lU1RIRHdJLXlrS1RwR1hhLU5BZk1EejVJZktacEJOS25XQ3g1TTdHMVgzNzhPcndXbkJuZzgyMUZjdXNYWEZPbVVUT1dtYk1BZDUzd29xN0lKb0R0QXFEX1o5T2RpMjF5akpuY21nS2cxWE1vUVN0VE1Uc3ZXelFnNGNadC0tUkRDNDFFRXRkb1lKdkpNYzljTzRSYXlqQ3VIQy1pQS0wNWdYMF85ZXMtdw?oc=5)
+### [Space junk crisis deepens as new satellite breakup highlights growing orbital threat - Digital Journal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXJQQzM5ZzlBSi0yWi05aU5lU1RIRHdJLXlrS1RwR1hhLU5BZk1EejVJZktacEJOS25XQ3g1TTdHMVgzNzhPcndXbkJuZzgyMUZjdXNYWEZPbVVUT1dtYk1BZDUzd29xN0lKb0R0QXFEX1o5T2RpMjF5akpuY21nS2cxWE1vUVN0VE1Uc3ZXelFnNGNadC0tUkRDNDFFRXRkb1lKdkpNYzljTzRSYXlqQ3VIQy1pQS0wNWdYMF85ZXMtdw?oc=5)
 
 2026-09-30 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
-Source: [digitaljournal.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXJQQzM5ZzlBSi0yWi05aU5lU1RIRHdJLXlrS1RwR1hhLU5BZk1EejVJZktacEJOS25XQ3g1TTdHMVgzNzhPcndXbkJuZzgyMUZjdXNYWEZPbVVUT1dtYk1BZDUzd29xN0lKb0R0QXFEX1o5T2RpMjF5akpuY21nS2cxWE1vUVN0VE1Uc3ZXelFnNGNadC0tUkRDNDFFRXRkb1lKdkpNYzljTzRSYXlqQ3VIQy1pQS0wNWdYMF85ZXMtdw?oc=5)
+Source: [Digital Journal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXJQQzM5ZzlBSi0yWi05aU5lU1RIRHdJLXlrS1RwR1hhLU5BZk1EejVJZktacEJOS25XQ3g1TTdHMVgzNzhPcndXbkJuZzgyMUZjdXNYWEZPbVVUT1dtYk1BZDUzd29xN0lKb0R0QXFEX1o5T2RpMjF5akpuY21nS2cxWE1vUVN0VE1Uc3ZXelFnNGNadC0tUkRDNDFFRXRkb1lKdkpNYzljTzRSYXlqQ3VIQy1pQS0wNWdYMF85ZXMtdw?oc=5)
 
 ---
 

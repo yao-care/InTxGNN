@@ -42,19 +42,27 @@ This page combines the AI-predicted indications for Calcipotriol with the latest
 
 ## Related News (8)
 
-### [Samvel Bardakhchyan at COGC 2026: New EGFR-Targeted Therapy Is Reshaping NSCLC](https://news.google.com/rss/articles/CBMiakFVX3lxTFBVaGhFTlNrVjZTcnVUUEZSUTBtOVB6WDBoNFVjb3FaRENhS0hVUDU0Z3NWLTRoQTRqWXhScDlMcGhJVURYbGZHMm1SNU41ei16bnRpRksxVko0cE1MV08xU3N5TjloRV9SdEE?oc=5)
+### [KAIST finds ‘hidden amplification switch’ controlling lymphatic vessel signaling - Korea Biomedical Review](https://news.google.com/rss/articles/CBMibkFVX3lxTE1uQ2lneGs1QkprYkEwVEN2bl9sMk1wWmlSZDRDTEktU0VCWGUzMll1cDdsdzFxUDJPamVCTlFlanlUNFcxU0tETVBWTmlIWHNONHVvcGI2SVhUU25zQnZza2tkYmFzV192ZzRZazB30gFyQVVfeXFMTnp4MDdRYnlvdjBqeVdmbTYyRmI0VW5uaUZHQlRFenA5bnpfZEF4MDVQU1pXcWt6NEhpNWRtS0l2UGN6elhmemxmbER2MWhqdHBpZkstZWpJZHNYOE94NkRQYmF2VmdhVTBxQ0xfNVBONFhR?oc=5)
 
-2026-10-01 <span class="news-indication-tag">tumor</span>
+2026-10-02 <span class="news-indication-tag">cancer</span>
 
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMiakFVX3lxTFBVaGhFTlNrVjZTcnVUUEZSUTBtOVB6WDBoNFVjb3FaRENhS0hVUDU0Z3NWLTRoQTRqWXhScDlMcGhJVURYbGZHMm1SNU41ei16bnRpRksxVko0cE1MV08xU3N5TjloRV9SdEE?oc=5)
+Source: [Korea Biomedical Review](https://news.google.com/rss/articles/CBMibkFVX3lxTE1uQ2lneGs1QkprYkEwVEN2bl9sMk1wWmlSZDRDTEktU0VCWGUzMll1cDdsdzFxUDJPamVCTlFlanlUNFcxU0tETVBWTmlIWHNONHVvcGI2SVhUU25zQnZza2tkYmFzV192ZzRZazB30gFyQVVfeXFMTnp4MDdRYnlvdjBqeVdmbTYyRmI0VW5uaUZHQlRFenA5bnpfZEF4MDVQU1pXcWt6NEhpNWRtS0l2UGN6elhmemxmbER2MWhqdHBpZkstZWpJZHNYOE94NkRQYmF2VmdhVTBxQ0xfNVBONFhR?oc=5)
 
 ---
 
-### [Nearly 1.9 Lakh Cancer Cases in India Linked to Infections](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVFqZ1dhaFZoLWk4RGZHeDVZSGZjODhWUVFTcXpVZVJvcFhYTTZZQWNmT0E0RUtBUm1XSTJITHdtamJvNDd4empUSUFYNFNid3hFYVdxUUVnOFhvN2RQMmVPVWY2V0RnTm13VGRRSHRBb0d5a0YxS2djd1NhOGQ2SW1jalRGakJ0OHhPVUo3LXUzMTh4QWVZcw?oc=5)
+### [Navigating the Confusing Maze of Breast Cancer Screening Guidelines - Cancer Health](https://news.google.com/rss/articles/CBMingFBVV95cUxQWDAyVldLeDE4b0FlSU9iZHNSSFdGcVU3WjNBYXZYSENOeDBjS050LV9qclhCdmJoWEhJRzZ4aWlGV2NhTTRpakY3enhfZmMxeWJ4Ym0tRldDVHNEaDByNTROdkNnSjRiSDhnRkxBVVM4alFaclFQcVZWajcydHRwVjg1aHZxQ0RCc2NwWGpvQm9lTG55eWtQX3p3RUp3UQ?oc=5)
 
 2026-10-01 <span class="news-indication-tag">cancer</span>
 
-Source: [theindianpractitioner.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVFqZ1dhaFZoLWk4RGZHeDVZSGZjODhWUVFTcXpVZVJvcFhYTTZZQWNmT0E0RUtBUm1XSTJITHdtamJvNDd4empUSUFYNFNid3hFYVdxUUVnOFhvN2RQMmVPVWY2V0RnTm13VGRRSHRBb0d5a0YxS2djd1NhOGQ2SW1jalRGakJ0OHhPVUo3LXUzMTh4QWVZcw?oc=5)
+Source: [Cancer Health](https://news.google.com/rss/articles/CBMingFBVV95cUxQWDAyVldLeDE4b0FlSU9iZHNSSFdGcVU3WjNBYXZYSENOeDBjS050LV9qclhCdmJoWEhJRzZ4aWlGV2NhTTRpakY3enhfZmMxeWJ4Ym0tRldDVHNEaDByNTROdkNnSjRiSDhnRkxBVVM4alFaclFQcVZWajcydHRwVjg1aHZxQ0RCc2NwWGpvQm9lTG55eWtQX3p3RUp3UQ?oc=5)
+
+---
+
+### [Nearly 1.9 Lakh Cancer Cases in India Linked to Infections - The Indian Practitioner](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVFqZ1dhaFZoLWk4RGZHeDVZSGZjODhWUVFTcXpVZVJvcFhYTTZZQWNmT0E0RUtBUm1XSTJITHdtamJvNDd4empUSUFYNFNid3hFYVdxUUVnOFhvN2RQMmVPVWY2V0RnTm13VGRRSHRBb0d5a0YxS2djd1NhOGQ2SW1jalRGakJ0OHhPVUo3LXUzMTh4QWVZcw?oc=5)
+
+2026-10-01 <span class="news-indication-tag">cancer</span>
+
+Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVFqZ1dhaFZoLWk4RGZHeDVZSGZjODhWUVFTcXpVZVJvcFhYTTZZQWNmT0E0RUtBUm1XSTJITHdtamJvNDd4empUSUFYNFNid3hFYVdxUUVnOFhvN2RQMmVPVWY2V0RnTm13VGRRSHRBb0d5a0YxS2djd1NhOGQ2SW1jalRGakJ0OHhPVUo3LXUzMTh4QWVZcw?oc=5)
 
 ---
 
@@ -66,11 +74,11 @@ Source: [Brandsynario](https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1dH
 
 ---
 
-### [Menopause Blood Proteins Linked to Later Dementia Risk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
+### [Menopause Blood Proteins Linked to Later Dementia Risk - European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
 
 2026-10-01 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [emjreviews.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
 
 ---
 
@@ -82,19 +90,11 @@ Source: [theweek.in](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDN1X3
 
 ---
 
-### [Doc Talk | Prostate Cancer At Stage 4 Is Not The End: How PSMA PET And Radioligand Therapy Help - ABP Live English](https://news.google.com/rss/articles/CBMizAFBVV95cUxPak9rN20yQUxwa2ZiNVBSUmdTWG8yNXdqSmZzNUwwLUpzUjRhTDRKcGFQS2FsRlBzc1liSXhaRlVjVll2SkwtalZlZkpaS1ZwLUNYU2RHZGU2ck5abl9pTmcyNXczekRDTDd2SUI1ZE40RTFrd3dyVG5Xczd6XzgtQWZIUm5lMnVwS0RPZ0RxeVdkSkE3YkNKemdUVlhOVENXaEdIb3hrOHFGRV84QmszTHdkRlVEYzVmSHNhTUVKcmx6dHJLMWNYWll3V0rSAdIBQVVfeXFMTTc1SzI2R2t1OXRJdFBOb0doTkFYMXM5cXhnWWtEVkdQZDVtaTJMUTB1aHJyZkN5QVdIalFyT1BaM0JHc0lkVlFXdlNMenNfekpvNTlwaVBZc2hLMmZjVm9ZMDc2MXJDOUVNTGw5bkNHZnN4cFR3V3pzWlNsMW1sdzY0TXBMOFBBOWtPNWpmcmRzQVQzd3hqWHJlOGh1MG40UmRfOHlSTjBVcFVhd1lKdFVEZ3luT05EOWlQaW5QdW9aMWZhY1pxMko1Rk00MEVGM0FR?oc=5)
-
-2026-09-30 <span class="news-indication-tag">cancer</span>
-
-Source: [ABP Live English](https://news.google.com/rss/articles/CBMizAFBVV95cUxPak9rN20yQUxwa2ZiNVBSUmdTWG8yNXdqSmZzNUwwLUpzUjRhTDRKcGFQS2FsRlBzc1liSXhaRlVjVll2SkwtalZlZkpaS1ZwLUNYU2RHZGU2ck5abl9pTmcyNXczekRDTDd2SUI1ZE40RTFrd3dyVG5Xczd6XzgtQWZIUm5lMnVwS0RPZ0RxeVdkSkE3YkNKemdUVlhOVENXaEdIb3hrOHFGRV84QmszTHdkRlVEYzVmSHNhTUVKcmx6dHJLMWNYWll3V0rSAdIBQVVfeXFMTTc1SzI2R2t1OXRJdFBOb0doTkFYMXM5cXhnWWtEVkdQZDVtaTJMUTB1aHJyZkN5QVdIalFyT1BaM0JHc0lkVlFXdlNMenNfekpvNTlwaVBZc2hLMmZjVm9ZMDc2MXJDOUVNTGw5bkNHZnN4cFR3V3pzWlNsMW1sdzY0TXBMOFBBOWtPNWpmcmRzQVQzd3hqWHJlOGh1MG40UmRfOHlSTjBVcFVhd1lKdFVEZ3luT05EOWlQaW5QdW9aMWZhY1pxMko1Rk00MEVGM0FR?oc=5)
-
----
-
 ### [The Onco'Zine Analysis: What 195 Trials Reveal About the State of Artificial Intelligence in Oncology](https://news.google.com/rss/articles/CBMi7gFBVV95cUxONTFVR2pkUjVSQnNSaUd5OHR6RHNqa3ZwYlk3NWN3aFNoczNHTy1YeHBJbzdLOVQ5Z2pyT3Q4c2tQTVQ1SFA5OXlQWUttYmxaNE42R2xxb1ZBelduNmI0WEEySmRwRjFjZ1RIZEFQSkxhVnY5a3NBZjd1Q0MzNmVxaGdrMU9fT1A0N2dySzRfX3dUVDNUSjlKaVBSZEhKODlnQkNHcFFfMFR1UkpNY3JtOUszZXYyZTVFc0pwWkU0MEtGN0FvVC1NVmVvQVpPcWE5QlFaNEE1ZmxfYzh6UmQwekpUWGowWW9SSFFmektn?oc=5)
 
 2026-09-29 <span class="news-indication-tag">cancer</span>
 
-Source: [oncozine.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxONTFVR2pkUjVSQnNSaUd5OHR6RHNqa3ZwYlk3NWN3aFNoczNHTy1YeHBJbzdLOVQ5Z2pyT3Q4c2tQTVQ1SFA5OXlQWUttYmxaNE42R2xxb1ZBelduNmI0WEEySmRwRjFjZ1RIZEFQSkxhVnY5a3NBZjd1Q0MzNmVxaGdrMU9fT1A0N2dySzRfX3dUVDNUSjlKaVBSZEhKODlnQkNHcFFfMFR1UkpNY3JtOUszZXYyZTVFc0pwWkU0MEtGN0FvVC1NVmVvQVpPcWE5QlFaNEE1ZmxfYzh6UmQwekpUWGowWW9SSFFmektn?oc=5)
+Source: [Onco'Zine](https://news.google.com/rss/articles/CBMi7gFBVV95cUxONTFVR2pkUjVSQnNSaUd5OHR6RHNqa3ZwYlk3NWN3aFNoczNHTy1YeHBJbzdLOVQ5Z2pyT3Q4c2tQTVQ1SFA5OXlQWUttYmxaNE42R2xxb1ZBelduNmI0WEEySmRwRjFjZ1RIZEFQSkxhVnY5a3NBZjd1Q0MzNmVxaGdrMU9fT1A0N2dySzRfX3dUVDNUSjlKaVBSZEhKODlnQkNHcFFfMFR1UkpNY3JtOUszZXYyZTVFc0pwWkU0MEtGN0FvVC1NVmVvQVpPcWE5QlFaNEE1ZmxfYzh6UmQwekpUWGowWW9SSFFmektn?oc=5)
 
 ---
 
