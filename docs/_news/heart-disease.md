@@ -1,20 +1,20 @@
 ---
 layout: default
-title: "heart disease (cardiovascular) News"
+title: "heart disease News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
-permalink: /news/cardiovascular/
+description: "Health news about heart disease. 1 articles, 35 related drugs."
+permalink: /news/heart-disease/
 ---
 
-# heart disease (cardiovascular) News
+# heart disease News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about heart disease?">
+<strong>heart disease</strong> currently has <strong>1 news articles</strong> and 35 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,7 @@ This page brings together the latest health news about “heart disease” and l
 <strong>Related drug reports</strong>
 <p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
+<li><a href="{{ '/drugs/abemaciclib/' | relative_url }}">Abemaciclib</a></li>
 <li><a href="{{ '/drugs/alteplase/' | relative_url }}">Alteplase</a></li>
 <li><a href="{{ '/drugs/atosiban/' | relative_url }}">Atosiban</a></li>
 <li><a href="{{ '/drugs/cyclandelate/' | relative_url }}">Cyclandelate</a></li>
@@ -49,25 +50,20 @@ This page brings together the latest health news about “heart disease” and l
 <li><a href="{{ '/drugs/db06209/' | relative_url }}">PRASUGREL</a></li>
 <li><a href="{{ '/drugs/db08816/' | relative_url }}">TICAGRELOR</a></li>
 <li><a href="{{ '/drugs/db08941/' | relative_url }}">ISOXSUPRINE</a></li>
+<li><a href="{{ '/drugs/dihydralazine/' | relative_url }}">Dihydralazine</a></li>
 <li><a href="{{ '/drugs/doxapram/' | relative_url }}">Doxapram</a></li>
+<li><a href="{{ '/drugs/doxofylline/' | relative_url }}">Doxofylline</a></li>
 <li><a href="{{ '/drugs/ebastine/' | relative_url }}">Ebastine</a></li>
 <li><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">Isosorbide Dinitrate</a></li>
 <li><a href="{{ '/drugs/isoxsuprine/' | relative_url }}">Isoxsuprine</a></li>
 <li><a href="{{ '/drugs/lubiprostone/' | relative_url }}">Lubiprostone</a></li>
+<li><a href="{{ '/drugs/niclosamide/' | relative_url }}">Niclosamide</a></li>
 <li><a href="{{ '/drugs/propafenone/' | relative_url }}">Propafenone</a></li>
 <li><a href="{{ '/drugs/streptokinase/' | relative_url }}">Streptokinase</a></li>
 </ul>
 </div>
 
-## Related News (2)
-
-### [Whole fruit vs juice: What people with diabetes and heart disease should know](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWNhc29KUXFHMVFkRTJnUnV4WFdvTmtzWHhQa09ubzZ2X1hsTnlFenpOZjRBWmlfMUlfZlMwb3ZjTk1DdElYYWU1cUM3dDM3Rl9FMWFKMFZjRFJZeHMyTUczUU55enNhcnNaTWIzSk4zVkxtY29SNUxycTl5eWNuak45NDFpMkNuOS13X2RWR2RqUW9nTGszeFRfNjNSY0ZmQko5VkVCdHdHM3hOS216WmE2TmZUMlpwcnU2aWtUZGNXZTZpNXZFYndwd2szU3daUTFR0gHaAUFVX3lxTE1nR2dma1BzbVZGSnB1YzZKYXNzRHFGRDlsbWtubXpzVktEdWNOWDdHaC12V0xLbHhTTkxrU1M5NGIwdkdYOEFERFBhaHduSE9DQWdMZHJtTWFIekNDOC1sUFpISnNCS2h0NjlDM1VoY0FVbTV6T2M1b2cycTI5MmNhLXZfbWxyUm51NDBGMlRBcVA4N1NtejVYVjdzOUJkVk0zaE9JNTlrT00tVmp5bmtlb19QWjZQZjNaNm1waXdndlZUSFE4QmFqdXBGYzVJSG1aU3NzVnFaOC1B?oc=5)
-
-2026-10-01
-
-Source: [indianexpress.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWNhc29KUXFHMVFkRTJnUnV4WFdvTmtzWHhQa09ubzZ2X1hsTnlFenpOZjRBWmlfMUlfZlMwb3ZjTk1DdElYYWU1cUM3dDM3Rl9FMWFKMFZjRFJZeHMyTUczUU55enNhcnNaTWIzSk4zVkxtY29SNUxycTl5eWNuak45NDFpMkNuOS13X2RWR2RqUW9nTGszeFRfNjNSY0ZmQko5VkVCdHdHM3hOS216WmE2TmZUMlpwcnU2aWtUZGNXZTZpNXZFYndwd2szU3daUTFR0gHaAUFVX3lxTE1nR2dma1BzbVZGSnB1YzZKYXNzRHFGRDlsbWtubXpzVktEdWNOWDdHaC12V0xLbHhTTkxrU1M5NGIwdkdYOEFERFBhaHduSE9DQWdMZHJtTWFIekNDOC1sUFpISnNCS2h0NjlDM1VoY0FVbTV6T2M1b2cycTI5MmNhLXZfbWxyUm51NDBGMlRBcVA4N1NtejVYVjdzOUJkVk0zaE9JNTlrT00tVmp5bmtlb19QWjZQZjNaNm1waXdndlZUSFE4QmFqdXBGYzVJSG1aU3NzVnFaOC1B?oc=5)
-
----
+## Related News (1)
 
 ### [JMIR Publications’ JMIR Cardio Invites Submissions on Generative and Multimodal AI in Digital Cardiovascular Medicine | Newswise](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPenFXbG56M1hMbUpzUUFmeFl2TzBnUnVORnN5dTNtR2pOdGhoVkxtS2Nud3R4bFNrSGRFS3pOSXRXbTI4OW84S1pHUWFnRU5MWEVlMmRLeXRUWGNodnhIbTkxMHJFUXFhMndXdkxUV1RESmIzN0dTNDJHVXRKaU0zQXVsQjM4U3FDUWdIUkRRZUlLZ191dmwyWS1rcnAwYzA4aGQweWFMZkNnekxOaXFKRmpMRmd0UW94YmVWN3hRcHdqX2RleU1Mb0xVbTFBakdaV2pjVm9Qcml3bnA5VWdtOXdOeGXSAeQBQVVfeXFMT3pxV2xuejNYTG1Kc1FBZnhZdk8wZ1J1TkZzeXUzbUdqTnRoaFZMbUtjbnd0eGxTa0hkRUt6Tkl0V20yODlvOEtaR1FhZ0VOTFhFZTJkS3l0VFhjaHZ4SG05MTByRVFxYTJ3V3ZMVFdUREpiMzdHUzQyR1V0SmlNM0F1bEIzOFNxQ1FnSFJEUWVJS2dfdXZsMlkta3JwMGMwOGhkMHlhTGZDZ3pMTmlxSkZqTEZndFFveGJlVjd4UXB3al9kZXlNTG9MVW0xQWpHWldqY1ZvUHJpd25wOVVnbTl3Tnhl?oc=5)
 

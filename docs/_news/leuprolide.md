@@ -14,7 +14,7 @@ permalink: /news/leuprolide/
 ---
 
 <p class="key-answer" data-question="What news is there about Leuprolide?">
-<strong>Leuprolide</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
+<strong>Leuprolide</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,22 +25,16 @@ This page combines the AI-predicted indications for Leuprolide with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (2)</strong>:<ul>
-<li class="indication-matched">osteoarthritis (99.7%)<span class="indication-tag">📰 osteoarthritis</span></li>
+<li>osteoarthritis (99.7%)</li>
 <li>pseudoachondroplasia (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/leuprolide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Alcohol May Up Osteoarthritis Risk in a Dose-Dependent Way](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0lRemRrYk52YVFiWHhDSHdBbGgwLW1mTWhENkdKcm9FMk92YjRuNjNOSFEzYTlDbDFvNVZkX1hmdUtaUUNIQzRndXVvdUxxZ1NmTy15SkcxSk8xY0Z4dWF4NzZSVHN4blFGalNpM25DcjU2NFRmWGRwRmthcTVuWTdyOXVuSHRId1FHOWIxZlBpV2ZUUE9lVnFjWUFTOExJXzBVT1FDOGR0QQ?oc=5)
-
-2026-09-30 <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0lRemRrYk52YVFiWHhDSHdBbGgwLW1mTWhENkdKcm9FMk92YjRuNjNOSFEzYTlDbDFvNVZkX1hmdUtaUUNIQzRndXVvdUxxZ1NmTy15SkcxSk8xY0Z4dWF4NzZSVHN4blFGalNpM25DcjU2NFRmWGRwRmthcTVuWTdyOXVuSHRId1FHOWIxZlBpV2ZUUE9lVnFjWUFTOExJXzBVT1FDOGR0QQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
