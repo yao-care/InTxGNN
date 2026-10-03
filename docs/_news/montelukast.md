@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>bronchitis (100.0%)</li>
 <li>atopic eczema (99.8%)</li>
-<li class="indication-matched">asthma (99.5%)<span class="indication-tag">📰 asthma</span></li>
+<li>asthma (99.5%)</li>
 <li>obstructive lung disease (99.3%)</li>
 <li>asthma-related traits, susceptibility to (99.2%)</li>
 </ul></li>
@@ -35,15 +35,9 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Vaping around kids raises asthma risk just as much as smoking](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMUlaOE5JQThCVTJkTHdnVU0tcDZFcTl1bHhWQVp6VGJzTDMzS2x1V09lRE1VNFpicE41SHJ1UFZCcGNfejVmOEsxLUdpcXBabzI3TTdYM0JVcmpwZFMzMTJqT2VGTDJNdmQ3WkFVbjA2c3B2OGhkREhsSHNqVWNnMzYwR0YxNU1vX1FGWDlVQ0JsWG1BY1RxQ21Gb0RTZDVGd3NrdFloVk93NzRraUxNZGs0dHZ0VUZFTUdjRVlsYXhUZnd3MlAxT1kyckI5cklNVnhQSEJhcGRUc05pSmZRYks5Y2Rib1BlUHoxeV9xSEU?oc=5)
-
-2026-10-02 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span>
-
-Source: [mydailyrecord.com](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMUlaOE5JQThCVTJkTHdnVU0tcDZFcTl1bHhWQVp6VGJzTDMzS2x1V09lRE1VNFpicE41SHJ1UFZCcGNfejVmOEsxLUdpcXBabzI3TTdYM0JVcmpwZFMzMTJqT2VGTDJNdmQ3WkFVbjA2c3B2OGhkREhsSHNqVWNnMzYwR0YxNU1vX1FGWDlVQ0JsWG1BY1RxQ21Gb0RTZDVGd3NrdFloVk93NzRraUxNZGs0dHZ0VUZFTUdjRVlsYXhUZnd3MlAxT1kyckI5cklNVnhQSEJhcGRUc05pSmZRYks5Y2Rib1BlUHoxeV9xSEU?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

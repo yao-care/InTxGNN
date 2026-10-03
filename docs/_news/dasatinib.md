@@ -14,7 +14,7 @@ permalink: /news/dasatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (10)
 
 ### [Appendix removal linked with lower colon cancer risk in study - ET HealthWorld](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVHNXYnlSTkpqcXQwc1FJQ2xSZUttaENWLU80V2VTY0EtcmxGM0dlRzIxaUVNS3pzZExTUG1Xcl8xRzdHdjNFNTdmMTdrUWtkTGhFc3N1bUdwR1VWU0gzNWQ1bjF0LVplanlkVFhCM3ZCVXBUUFlPRjNod2ctdnl5UXc5ZHRxTllRLXd5NFE1Ri0xSm05OGE2UmMyaUMwdGd1cWRpMlU2ekVuNE42YmpxRWVEd1NJVFR1akFzR0xsZEgzbHNyRkNKRtIBzgFBVV95cUxPNS1CZ1RSMWVhZElaeGh6LVc2WVlzMUxVb2JPRkxyQWxaZTNxMUw1S2dvREJ5bzB2blpoa3ZnQUNUQVpIN2NhYTdLOVlWOTcweFNrTG1ZOGsxYS12UGFjVlRFZFNWc09DbnhhTUl1Q0VyanBpdUVhUnZsVDhVTWl0SWl5UWhNdmVFOXV5b0gtN2E3c0tWMm9KMWM3UGtWQmREVzlfbGI4N0ZxZkRfaFB6c3Y0MEVERk5hM3ZXenVZUHR5RXpfZXpiMFBhNUxpdw?oc=5)
 
@@ -82,6 +82,22 @@ Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMirgFBVV
 
 ---
 
+### [Medical Breakthrough in Indore: Sampurna Launches MP’s First Blood Test to Detect Alzheimer’s 15 Years Before Symptoms - FM Bharat](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWpBbi1XVG9lcERCdUlHbGlIMU5YV2E4ckd6VDRtbVRHaFNzdEFoZ2V4SDkzd1drZHg3TmY4X3o1empGTmpNWEVDQktreUY0QkV5YUs1WTJyLV9wNjdYWjByNi0xYUJFZ1V5OHJOT1k0UTlOYlZBbjRBbUFrcUV5MEFtdGIzUElzbk1EM1NveVdHWlBpeVhONWtZbmJ5aGJjb0Y5cGVlU3otUFZET0FYRzY3dXRGOVFpU1FuQUhjOHV2aXJ1VlluREl4ck84MUtCQmhjT2VIYzFkUW03S0NDYVdCYWFjbzRYVlV2X0loRQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [FM Bharat](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWpBbi1XVG9lcERCdUlHbGlIMU5YV2E4ckd6VDRtbVRHaFNzdEFoZ2V4SDkzd1drZHg3TmY4X3o1empGTmpNWEVDQktreUY0QkV5YUs1WTJyLV9wNjdYWjByNi0xYUJFZ1V5OHJOT1k0UTlOYlZBbjRBbUFrcUV5MEFtdGIzUElzbk1EM1NveVdHWlBpeVhONWtZbmJ5aGJjb0Y5cGVlU3otUFZET0FYRzY3dXRGOVFpU1FuQUhjOHV2aXJ1VlluREl4ck84MUtCQmhjT2VIYzFkUW03S0NDYVdCYWFjbzRYVlV2X0loRQ?oc=5)
+
+---
+
+### [This diet may slow brain aging by 2.5 years](https://news.google.com/rss/articles/CBMib0FVX3lxTFBRMF9PQzBBNGxCTDN0VUJQQlJwS2xiLUFfM0N2TjBaeGF3QnRNNHBYZFVaRk4zby1JWThjLXRxbXU1WW1ydV90MVdPNGtUS1RDaXg5ZnVqbldiYTV0SXlGSFVoXzg4aklqVGNDZHRBaw?oc=5)
+
+2026-10-01 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBRMF9PQzBBNGxCTDN0VUJQQlJwS2xiLUFfM0N2TjBaeGF3QnRNNHBYZFVaRk4zby1JWThjLXRxbXU1WW1ydV90MVdPNGtUS1RDaXg5ZnVqbldiYTV0SXlGSFVoXzg4aklqVGNDZHRBaw?oc=5)
+
+---
+
 ### [Doc Talk | Prostate Cancer At Stage 4 Is Not The End: How PSMA PET And Radioligand Therapy Help - ABP Live English](https://news.google.com/rss/articles/CBMizAFBVV95cUxPak9rN20yQUxwa2ZiNVBSUmdTWG8yNXdqSmZzNUwwLUpzUjRhTDRKcGFQS2FsRlBzc1liSXhaRlVjVll2SkwtalZlZkpaS1ZwLUNYU2RHZGU2ck5abl9pTmcyNXczekRDTDd2SUI1ZE40RTFrd3dyVG5Xczd6XzgtQWZIUm5lMnVwS0RPZ0RxeVdkSkE3YkNKemdUVlhOVENXaEdIb3hrOHFGRV84QmszTHdkRlVEYzVmSHNhTUVKcmx6dHJLMWNYWll3V0rSAdIBQVVfeXFMTTc1SzI2R2t1OXRJdFBOb0doTkFYMXM5cXhnWWtEVkdQZDVtaTJMUTB1aHJyZkN5QVdIalFyT1BaM0JHc0lkVlFXdlNMenNfekpvNTlwaVBZc2hLMmZjVm9ZMDc2MXJDOUVNTGw5bkNHZnN4cFR3V3pzWlNsMW1sdzY0TXBMOFBBOWtPNWpmcmRzQVQzd3hqWHJlOGh1MG40UmRfOHlSTjBVcFVhd1lKdFVEZ3luT05EOWlQaW5QdW9aMWZhY1pxMko1Rk00MEVGM0FR?oc=5)
 
 2026-09-30 <span class="news-indication-tag">cancer</span>
@@ -90,19 +106,19 @@ Source: [ABP Live English](https://news.google.com/rss/articles/CBMizAFBVV95cUxP
 
 ---
 
-### [Experts Highlight Technology’s Role in Advancing Cancer Care - The Indian Practitioner](https://news.google.com/rss/articles/CBMimgFBVV95cUxNYzRYM3ViQ2JaQWhvZndhNy1wLWU4Y2RibThZSXNQMVNFOGNtb0hGRnNuNlVmczJocnFlc2E4WmZzMFFSdmRYQXA2TTNuNjU1akhKZkNTU05PR1ZOS0JaVTBnMHllZGc2b0MwblU4Nmd3Tnp4N2Rod19yVGV3NWk2aEFWM1hkRWhjU25WU2t1Ukl2Y01ad0txay1R?oc=5)
+### [Access to cancer genetic testing unequal worldwide: New Lancet Commission - The Hindu](https://news.google.com/rss/articles/CBMizgFBVV95cUxNT0lfNVlGcjNOeUR4VWR6UHhjUW9xdVN2bmRWRGxFYnotd0pXaVU2U1g5MklnZ1ZQekNPV1dZWERzNVV0dkx4TzB4bFZuU1g1OE1OZUJYNUhQM25OcHUwQXllZ3VOak0tajlSLVZhcjc4TE9GTHJsZndpYnliaUNUNWN5c0JYbHJhNld2VVJISHZnZWV1NGF2b0JVd2lkM1dBSDA0WkdQX0tLbkNOX1JTMHNUaThKeFVBSFRmLXRLQXBCUVc2cnNWT3lvZFRuUdIB1AFBVV95cUxNYnA0N2RzeGZzUGRKVmVaSXdRbmdQbHhWa2NWUW15STBERUlyRGZ6WmFnTzc1TkFxMzdTT3hkb1hMSXdUeEtIeU1FTGp5N3Z1OHljdFJ4a2M2WGRLZXJMRElGNjNFTmxsWUZZVFB3X1dSdlpHRUw2OGxsaUhwMVRwNU1GeHNONUI5R3JwaFFQVjhlUG5sOGxSWFV3UDhFeFQxck01TElROHJsYllKNUxha3NOeWpmSlVrQmpTNVpxbUl1LTMzaHAxblRHWS0ydDd2NlZTSQ?oc=5)
 
 2026-09-28 <span class="news-indication-tag">cancer</span>
 
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMimgFBVV95cUxNYzRYM3ViQ2JaQWhvZndhNy1wLWU4Y2RibThZSXNQMVNFOGNtb0hGRnNuNlVmczJocnFlc2E4WmZzMFFSdmRYQXA2TTNuNjU1akhKZkNTU05PR1ZOS0JaVTBnMHllZGc2b0MwblU4Nmd3Tnp4N2Rod19yVGV3NWk2aEFWM1hkRWhjU25WU2t1Ukl2Y01ad0txay1R?oc=5)
+Source: [The Hindu](https://news.google.com/rss/articles/CBMizgFBVV95cUxNT0lfNVlGcjNOeUR4VWR6UHhjUW9xdVN2bmRWRGxFYnotd0pXaVU2U1g5MklnZ1ZQekNPV1dZWERzNVV0dkx4TzB4bFZuU1g1OE1OZUJYNUhQM25OcHUwQXllZ3VOak0tajlSLVZhcjc4TE9GTHJsZndpYnliaUNUNWN5c0JYbHJhNld2VVJISHZnZWV1NGF2b0JVd2lkM1dBSDA0WkdQX0tLbkNOX1JTMHNUaThKeFVBSFRmLXRLQXBCUVc2cnNWT3lvZFRuUdIB1AFBVV95cUxNYnA0N2RzeGZzUGRKVmVaSXdRbmdQbHhWa2NWUW15STBERUlyRGZ6WmFnTzc1TkFxMzdTT3hkb1hMSXdUeEtIeU1FTGp5N3Z1OHljdFJ4a2M2WGRLZXJMRElGNjNFTmxsWUZZVFB3X1dSdlpHRUw2OGxsaUhwMVRwNU1GeHNONUI5R3JwaFFQVjhlUG5sOGxSWFV3UDhFeFQxck01TElROHJsYllKNUxha3NOeWpmSlVrQmpTNVpxbUl1LTMzaHAxblRHWS0ydDd2NlZTSQ?oc=5)
 
 ---
 
-### [India needs five-year policy to make precision cancer care afforable, says expert](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnNrNGxfUEYtX3dMS3hBalFiVENhcU9qMTQxOUJvUTA3a3FhZkEwSDVYSW5JTUlSMVdhcVZmbExrSjU1aHhVMFlUWkhWdTJyWEE4N25qM05qR21vSnktV2VlOHYzT2pYMjQ0NkVzY1ZtbGwwYlpEQ0I4MlZoWG5XaGx6TXgtclVpYXNnZHUxNm9iU3p5Q3BxODVwbGNIczZjX3ZSTXQ0dkVqZmFVaV82Z0hLT2g1d9IBuwFBVV95cUxPNy1zRWw3MWNRbVhfVWJCeFZ3N2Z3SDBDTUQyQTZoa01uNFU5SkRJM0VLSzJDWmdHZTVsaENiQ3dON3A5VFpNMHRwRmhDNHR0ai1aN3lLTC1Oek5NT3dPeHVONGxhMTFrbHFzZ01oaWNoZndyUGx6NFRfcmdWYVFwMWp0dFVVLVA4V0EtQzJ2eVRJZU9JMkhkdmpjZVkzajB4U0J2ZWtoM25aNUR2emZ0QmQtSjZHYWt2SVRr?oc=5)
+### [How disrupted sleep can affect breast cancer risk - NBC News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFdBWmdOMFFYSnpQQWVtRDVxeFFhVnFJOTU3VlJmWFVBTDlibWlPbElfNURiQ3NVMnJiRmtYNHhSMTNxN01tOERrY2JxWTRBZG5WaGxwVVQxcFNyTU1QSWdRX2hKakp4UkRZNE11MTNvMG9oa2x3bWJySGo3M2FsUHd0Y00tcGd4MnRXbExoR0ZETUh1bmZZ?oc=5)
 
-2026-09-26 <span class="news-indication-tag">cancer</span>
+2026-09-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [ThePrint](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnNrNGxfUEYtX3dMS3hBalFiVENhcU9qMTQxOUJvUTA3a3FhZkEwSDVYSW5JTUlSMVdhcVZmbExrSjU1aHhVMFlUWkhWdTJyWEE4N25qM05qR21vSnktV2VlOHYzT2pYMjQ0NkVzY1ZtbGwwYlpEQ0I4MlZoWG5XaGx6TXgtclVpYXNnZHUxNm9iU3p5Q3BxODVwbGNIczZjX3ZSTXQ0dkVqZmFVaV82Z0hLT2g1d9IBuwFBVV95cUxPNy1zRWw3MWNRbVhfVWJCeFZ3N2Z3SDBDTUQyQTZoa01uNFU5SkRJM0VLSzJDWmdHZTVsaENiQ3dON3A5VFpNMHRwRmhDNHR0ai1aN3lLTC1Oek5NT3dPeHVONGxhMTFrbHFzZ01oaWNoZndyUGx6NFRfcmdWYVFwMWp0dFVVLVA4V0EtQzJ2eVRJZU9JMkhkdmpjZVkzajB4U0J2ZWtoM25aNUR2emZ0QmQtSjZHYWt2SVRr?oc=5)
+Source: [NBC News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFdBWmdOMFFYSnpQQWVtRDVxeFFhVnFJOTU3VlJmWFVBTDlibWlPbElfNURiQ3NVMnJiRmtYNHhSMTNxN01tOERrY2JxWTRBZG5WaGxwVVQxcFNyTU1QSWdRX2hKakp4UkRZNE11MTNvMG9oa2x3bWJySGo3M2FsUHd0Y00tcGd4MnRXbExoR0ZETUh1bmZZ?oc=5)
 
 ---
 
