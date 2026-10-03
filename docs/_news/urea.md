@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ This page combines the AI-predicted indications for Urea with the latest health 
 <p><a href="{{ '/drugs/urea/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [AI identifies antibiotic polymers that could outmanoeuvre bacterial resistance - Labmate Online](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUzBGOXFXaXFyakFvYkJjQjd6WXBkQ2VkNUxhdmpXcFhDTWZWUFdKei1XdmpVdDZEandPNUZJZ1FlZHJ0OC1ncHI1dlJWR2RpbDd1REFoQWdpUWVwaHpnczZZdlZqcjRiRFdxbG4wM2JRRmxDR21LcEpxR3pwcmRpa2h1MFFERlZENVJfMXJELW80bE1wanNZY29PVjNNRGRlLW5OV0J5WHhnSDZhRndXc3FIX3BUcVJvV0tnaHRRTE1fRDVwbWp6N3FzUFgzYXp2ZlotNW5jeWtUVGh1VHF3RVpONjNfNjZlSE0wTWNoMy1DcDJSYXc?oc=5)
+
+2026-09-28 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+
+Source: [Labmate Online](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUzBGOXFXaXFyakFvYkJjQjd6WXBkQ2VkNUxhdmpXcFhDTWZWUFdKei1XdmpVdDZEandPNUZJZ1FlZHJ0OC1ncHI1dlJWR2RpbDd1REFoQWdpUWVwaHpnczZZdlZqcjRiRFdxbG4wM2JRRmxDR21LcEpxR3pwcmRpa2h1MFFERlZENVJfMXJELW80bE1wanNZY29PVjNNRGRlLW5OV0J5WHhnSDZhRndXc3FIX3BUcVJvV0tnaHRRTE1fRDVwbWp6N3FzUFgzYXp2ZlotNW5jeWtUVGh1VHF3RVpONjNfNjZlSE0wTWNoMy1DcDJSYXc?oc=5)
+
+---
 
 
 <div class="disclaimer">

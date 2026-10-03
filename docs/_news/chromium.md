@@ -14,7 +14,7 @@ permalink: /news/chromium/
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Chromium</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Robotic hip and knee replacement shows no early surgical benefit](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2VJUVZvTEdTRnQ3ZV9wcHFlcHhLalhjUV9pMHZGV1JjNXQyS1VBV1FNd01RdjM0eHRnRmkxRUF5MGFiNzNHYTFMVTRfWTdiVE5BMzZnT3E1eTVuZUhlYzBDdDNTdExETzk2ZThCUThhRWV2STJUNFFJQ191SGx5ZlAyVTl3N1QtaWppb2lMVFpXSllIRUhKLW5HZjR5ellWc0lzOUp3cWhxRV9uR1pqNzVn?oc=5)
+
+2026-10-02 <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2VJUVZvTEdTRnQ3ZV9wcHFlcHhLalhjUV9pMHZGV1JjNXQyS1VBV1FNd01RdjM0eHRnRmkxRUF5MGFiNzNHYTFMVTRfWTdiVE5BMzZnT3E1eTVuZUhlYzBDdDNTdExETzk2ZThCUThhRWV2STJUNFFJQ191SGx5ZlAyVTl3N1QtaWppb2lMVFpXSllIRUhKLW5HZjR5ellWc0lzOUp3cWhxRV9uR1pqNzVn?oc=5)
+
+---
 
 ### [H5N1 avian flu returns to Midwest poultry farms, with multiple turkey operations hit](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0NnQ3FqT21nQWxSMEhNdE11ZEo1My0waDNwNFp4bjkwTHlCU2xSWE9jRXMxUWN2dUFMejRHSDVQMmNqTjloaHdUaFB4U3c0WnplbHNfcTlfem1TVW1uNkRwX2RvbUxZZTJOSWNrU3ZvZ3paLWNzT0NUMEs4WTlQZnVZOGZlbU5VelNDYTJuQVpYQlRSdkhfekdoZUZseC1Ya3JMNFdybGhhMG9WQ2NWdDRmRDZmdDJTRDhVOXFFVHU?oc=5)
 
