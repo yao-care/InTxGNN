@@ -3,7 +3,7 @@ layout: default
 title: "dementia News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia. 2 articles, 8 related drugs."
+description: "Health news about dementia. 3 articles, 8 related drugs."
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia?">
-<strong>dementia</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>dementia</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,29 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [The downside of an ageing population](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmtrVzFDaDN6MEFnTjlQRFRYQlp2N3lqOE1ka0E1Vi1PelB5a3lpUUQ0dHcwXzFHQzZBZVdGVUtaYUtSTXVnQUVBQ3VVOV9RNEg1TDVkMUZPN3NkbEhKMlBWSkxhNnJ6eUdjak8xYVhrVWtKaXQwV1RlMEVQYk1PcGtnS0ROLVRXYWU3Y1JseXZIcnfSAZoBQVVfeXFMTVU3NTNNZmZleE9qbjBxRDZSek95N2hHVlgtOGFxZjdUb0RTYmRvY2hWUmgwR29Cb01oYWVsR0w5dDgxbm5TQUxqUHRTeHpvX0RiSmtlV3ZZNHFwaUd1dGk5OVoyRVBIblVmSVA2SHkwcUNZX1o5aGF0WXB4UERFbmlReU16ZmlOeHpacXdQYW9Zckc5ZEI3UjBFUQ?oc=5)
+
+2026-10-03
+
+Source: [financialexpress.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmtrVzFDaDN6MEFnTjlQRFRYQlp2N3lqOE1ka0E1Vi1PelB5a3lpUUQ0dHcwXzFHQzZBZVdGVUtaYUtSTXVnQUVBQ3VVOV9RNEg1TDVkMUZPN3NkbEhKMlBWSkxhNnJ6eUdjak8xYVhrVWtKaXQwV1RlMEVQYk1PcGtnS0ROLVRXYWU3Y1JseXZIcnfSAZoBQVVfeXFMTVU3NTNNZmZleE9qbjBxRDZSek95N2hHVlgtOGFxZjdUb0RTYmRvY2hWUmgwR29Cb01oYWVsR0w5dDgxbm5TQUxqUHRTeHpvX0RiSmtlV3ZZNHFwaUd1dGk5OVoyRVBIblVmSVA2SHkwcUNZX1o5aGF0WXB4UERFbmlReU16ZmlOeHpacXdQYW9Zckc5ZEI3UjBFUQ?oc=5)
+
+---
+
+### [A study finds that diet may slow down brain aging by 2.5 years - The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRU55TU1pS2FSbEZ2M1BjYlhKUnJ6TF9GMC1SejIzOThuVFdhRTlyNWhNVGszRVc5cmg2bWd1TjhEU24xcnd4YVk4Rm11V05QQ1Bmc1ExQkljOWtVdWpxREUyN19sSlRhcTNuSThVRUJXVWlmZUp2a0xXMi04eHZEc29iU2daVWYyNjRrdjA0S3FMUGgxLTJmdGhsd3lZbDNUcEpMSVdkYWx6aXBpcG9GU3JaQkFmUGg4Z0Z2MkxRdUxrLWVUUl9JNWhadHMtMXQtMld0ZFQ2TdIB3AFBVV95cUxNdlV2d0xsZFNRbWFrWjA5X3poVTNSSXBubTV2R1hRRFM2SkIyS1M4QUZMYUhRZU55d3FEa1N3MVZtbDlIOXpiWXduTlBMNi1YOTNVWk4xbVlub3ZQNEgyTTBaa0JZbWxHclB3blh4OVIyaE1fMFUwdzdiM1lyLUpHXzFseGR0T1ZPWm56ZXRaR05Cc25CZm9QWVdYMDlfT1ZOSGh5Zy1DMmdqUGJ0SFZNUks0dWRuWEo0bklJY1ZheVpxZlJabl8xdnl3OFdDY01ST1JyaEdqOTFRNGJG?oc=5)
+
+2026-10-03
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRU55TU1pS2FSbEZ2M1BjYlhKUnJ6TF9GMC1SejIzOThuVFdhRTlyNWhNVGszRVc5cmg2bWd1TjhEU24xcnd4YVk4Rm11V05QQ1Bmc1ExQkljOWtVdWpxREUyN19sSlRhcTNuSThVRUJXVWlmZUp2a0xXMi04eHZEc29iU2daVWYyNjRrdjA0S3FMUGgxLTJmdGhsd3lZbDNUcEpMSVdkYWx6aXBpcG9GU3JaQkFmUGg4Z0Z2MkxRdUxrLWVUUl9JNWhadHMtMXQtMld0ZFQ2TdIB3AFBVV95cUxNdlV2d0xsZFNRbWFrWjA5X3poVTNSSXBubTV2R1hRRFM2SkIyS1M4QUZMYUhRZU55d3FEa1N3MVZtbDlIOXpiWXduTlBMNi1YOTNVWk4xbVlub3ZQNEgyTTBaa0JZbWxHclB3blh4OVIyaE1fMFUwdzdiM1lyLUpHXzFseGR0T1ZPWm56ZXRaR05Cc25CZm9QWVdYMDlfT1ZOSGh5Zy1DMmdqUGJ0SFZNUks0dWRuWEo0bklJY1ZheVpxZlJabl8xdnl3OFdDY01ST1JyaEdqOTFRNGJG?oc=5)
+
+---
 
 ### [Medical Breakthrough in Indore: Sampurna Launches MP’s First Blood Test to Detect Alzheimer’s 15 Years Before Symptoms - FM Bharat](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWpBbi1XVG9lcERCdUlHbGlIMU5YV2E4ckd6VDRtbVRHaFNzdEFoZ2V4SDkzd1drZHg3TmY4X3o1empGTmpNWEVDQktreUY0QkV5YUs1WTJyLV9wNjdYWjByNi0xYUJFZ1V5OHJOT1k0UTlOYlZBbjRBbUFrcUV5MEFtdGIzUElzbk1EM1NveVdHWlBpeVhONWtZbmJ5aGJjb0Y5cGVlU3otUFZET0FYRzY3dXRGOVFpU1FuQUhjOHV2aXJ1VlluREl4ck84MUtCQmhjT2VIYzFkUW03S0NDYVdCYWFjbzRYVlV2X0loRQ?oc=5)
 
 2026-10-01
 
 Source: [FM Bharat](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWpBbi1XVG9lcERCdUlHbGlIMU5YV2E4ckd6VDRtbVRHaFNzdEFoZ2V4SDkzd1drZHg3TmY4X3o1empGTmpNWEVDQktreUY0QkV5YUs1WTJyLV9wNjdYWjByNi0xYUJFZ1V5OHJOT1k0UTlOYlZBbjRBbUFrcUV5MEFtdGIzUElzbk1EM1NveVdHWlBpeVhONWtZbmJ5aGJjb0Y5cGVlU3otUFZET0FYRzY3dXRGOVFpU1FuQUhjOHV2aXJ1VlluREl4ck84MUtCQmhjT2VIYzFkUW03S0NDYVdCYWFjbzRYVlV2X0loRQ?oc=5)
-
----
-
-### [This diet may slow brain aging by 2.5 years](https://news.google.com/rss/articles/CBMib0FVX3lxTFBRMF9PQzBBNGxCTDN0VUJQQlJwS2xiLUFfM0N2TjBaeGF3QnRNNHBYZFVaRk4zby1JWThjLXRxbXU1WW1ydV90MVdPNGtUS1RDaXg5ZnVqbldiYTV0SXlGSFVoXzg4aklqVGNDZHRBaw?oc=5)
-
-2026-10-01
-
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBRMF9PQzBBNGxCTDN0VUJQQlJwS2xiLUFfM0N2TjBaeGF3QnRNNHBYZFVaRk4zby1JWThjLXRxbXU1WW1ydV90MVdPNGtUS1RDaXg5ZnVqbldiYTV0SXlGSFVoXzg4aklqVGNDZHRBaw?oc=5)
 
 ---
 

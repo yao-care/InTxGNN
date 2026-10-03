@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Isosorbide Dinitrate?">
-<strong>Isosorbide Dinitrate</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Isosorbide Dinitrate</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,29 @@ This page combines the AI-predicted indications for Isosorbide Dinitrate with th
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [Experts stress early check ups, prevention, physical activity to cut heart disease risk](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHN2N1lJejJ0a2ViR04zdGZUZGFmS1VmeG5ZaC1DaHcxWE1LbU5LaE9aOUl3T3ltODJoQ2tBcW1nVzBlLW1waDYtRzhWRHhXOEpwdlZLX1JRc0pYWTg0aTRLZHVPaHktc2E3Z013b0drLVJxMmtDSF80aF9NZzdIZ2MxQ3EtajBPMV9CUlUzSkVjRWVITnNPeDgycTFwREZGUE0zZGE5OHJZWGNGZnR2Ym1iN1BEbmVzV08tNdIBwgFBVV95cUxNSlNKSUl1b3FDR2N5RzBURU1TWXo5M0FkaEhTRERRVVhPMXFMMXF6aVVzUEJwM19ieHk1d1BZUjcwYmRkNUwybUY0ektSSHpoLUNncGwxRk8teVdpZzdDaDFtNzVYYi1odFhSUF9iZmFPc00taElQXzFRV3BCU0pxSVpHbWgyeGN6RUZROVJ4Umw0ZUNuZXhjWXAxa0lWdGY2cHU4RURwYmI4R3Z4SDljQ213WElURHg4ZFZodmFiUk9tZw?oc=5)
+
+2026-10-03 <span class="news-indication-tag">heart disease</span>
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHN2N1lJejJ0a2ViR04zdGZUZGFmS1VmeG5ZaC1DaHcxWE1LbU5LaE9aOUl3T3ltODJoQ2tBcW1nVzBlLW1waDYtRzhWRHhXOEpwdlZLX1JRc0pYWTg0aTRLZHVPaHktc2E3Z013b0drLVJxMmtDSF80aF9NZzdIZ2MxQ3EtajBPMV9CUlUzSkVjRWVITnNPeDgycTFwREZGUE0zZGE5OHJZWGNGZnR2Ym1iN1BEbmVzV08tNdIBwgFBVV95cUxNSlNKSUl1b3FDR2N5RzBURU1TWXo5M0FkaEhTRERRVVhPMXFMMXF6aVVzUEJwM19ieHk1d1BZUjcwYmRkNUwybUY0ektSSHpoLUNncGwxRk8teVdpZzdDaDFtNzVYYi1odFhSUF9iZmFPc00taElQXzFRV3BCU0pxSVpHbWgyeGN6RUZROVJ4Umw0ZUNuZXhjWXAxa0lWdGY2cHU4RURwYmI4R3Z4SDljQ213WElURHg4ZFZodmFiUk9tZw?oc=5)
+
+---
 
 ### [Diabetes is a ‘silent driver’ of heart disease, heart attacks: Experts - ANI News](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSFNqeENfczNHYkpUZVppWW9nSkhNSGpwaVJrMUpic0cwMW9fejVsMTlLTko0MXhLeVdkb0NKNjJNYlZXaXlJM1htTFFXVkZmdUUtYXU5QW5jYmk2RFAyX0lJcUtiVHlmaVJIRUZBZWlIU0YzT3A2Q0N3MTFDVFRJVWlCUU1Wamo1Nml2bEVBRTE3THlrTXZSQWpGT2tBejRpLW5GV0RhcVBKeG5KSGg0WDNhMHUtXy1DUFFKeVMycEk2QW5LMVdYTDlnTG9aNncxNGFKd19n?oc=5)
 
 2026-10-03 <span class="news-indication-tag">heart disease</span>
 
 Source: [ANI News](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSFNqeENfczNHYkpUZVppWW9nSkhNSGpwaVJrMUpic0cwMW9fejVsMTlLTko0MXhLeVdkb0NKNjJNYlZXaXlJM1htTFFXVkZmdUUtYXU5QW5jYmk2RFAyX0lJcUtiVHlmaVJIRUZBZWlIU0YzT3A2Q0N3MTFDVFRJVWlCUU1Wamo1Nml2bEVBRTE3THlrTXZSQWpGT2tBejRpLW5GV0RhcVBKeG5KSGg0WDNhMHUtXy1DUFFKeVMycEk2QW5LMVdYTDlnTG9aNncxNGFKd19n?oc=5)
+
+---
+
+### [What your eyes could reveal about your heart health - The Conversation](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDFqbW5sQ2xXOVVaSkpPOGRVU2JCeVRnQmZuc2JwV3JxdXhJT0txaEhJLWkwMjk4TFF5VmR3bEs0bDRVMTVmbmRtb0lrMHdUZ0NMbE56X0t4cHMwYW1vWldtM3RMLVl2TXdCU29HR0FjbVFad3Z3TVFFb1EzTnlmazlQTWhzY19UXzNnZHVTQQ?oc=5)
+
+2026-10-02 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDFqbW5sQ2xXOVVaSkpPOGRVU2JCeVRnQmZuc2JwV3JxdXhJT0txaEhJLWkwMjk4TFF5VmR3bEs0bDRVMTVmbmRtb0lrMHdUZ0NMbE56X0t4cHMwYW1vWldtM3RMLVl2TXdCU29HR0FjbVFad3Z3TVFFb1EzTnlmazlQTWhzY19UXzNnZHVTQQ?oc=5)
 
 ---
 

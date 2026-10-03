@@ -14,7 +14,7 @@ permalink: /news/diltiazem/
 ---
 
 <p class="key-answer" data-question="What news is there about Diltiazem?">
-<strong>Diltiazem</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Diltiazem</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,9 +31,15 @@ This page combines the AI-predicted indications for Diltiazem with the latest he
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Stroke Care Delays Increased Globally During COVID-19 Pandemic - European Medical Journal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjR4RFo5ZF9BUjhHRVhROXRHOWpIMXRHR3N1LVZMWW9UVjZjT2FvVndiRm8xOTJ6MEZ1ZXd5UzRkYVFvaWhmNjlnUUt5ejBZTkJldzdDWVljNXNsek9DdEJmbXR4bVBMY3M2cUw5VmZ5bTNZSnV0cG9Jcld0MXF6VFNzLTZuOWpiZnNpMWUxZ1o2aHBZb0xnV3pDeGpqWUI0blE4ejhTVlc?oc=5)
+
+2026-10-03 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjR4RFo5ZF9BUjhHRVhROXRHOWpIMXRHR3N1LVZMWW9UVjZjT2FvVndiRm8xOTJ6MEZ1ZXd5UzRkYVFvaWhmNjlnUUt5ejBZTkJldzdDWVljNXNsek9DdEJmbXR4bVBMY3M2cUw5VmZ5bTNZSnV0cG9Jcld0MXF6VFNzLTZuOWpiZnNpMWUxZ1o2aHBZb0xnV3pDeGpqWUI0blE4ejhTVlc?oc=5)
+
+---
 
 
 <div class="disclaimer">

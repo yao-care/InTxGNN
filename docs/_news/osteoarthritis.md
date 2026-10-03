@@ -3,7 +3,7 @@ layout: default
 title: "osteoarthritis News"
 parent: Health News
 nav_exclude: true
-description: "Health news about osteoarthritis. 1 articles, 5 related drugs."
+description: "Health news about osteoarthritis. 2 articles, 5 related drugs."
 permalink: /news/osteoarthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/osteoarthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about osteoarthritis?">
-<strong>osteoarthritis</strong> currently has <strong>1 news articles</strong> and 5 related drugs.
+<strong>osteoarthritis</strong> currently has <strong>2 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page brings together the latest health news about “osteoarthritis” and 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Robotic hip and knee replacement shows no early surgical benefit](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2VJUVZvTEdTRnQ3ZV9wcHFlcHhLalhjUV9pMHZGV1JjNXQyS1VBV1FNd01RdjM0eHRnRmkxRUF5MGFiNzNHYTFMVTRfWTdiVE5BMzZnT3E1eTVuZUhlYzBDdDNTdExETzk2ZThCUThhRWV2STJUNFFJQ191SGx5ZlAyVTl3N1QtaWppb2lMVFpXSllIRUhKLW5HZjR5ellWc0lzOUp3cWhxRV9uR1pqNzVn?oc=5)
+
+2026-10-02
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2VJUVZvTEdTRnQ3ZV9wcHFlcHhLalhjUV9pMHZGV1JjNXQyS1VBV1FNd01RdjM0eHRnRmkxRUF5MGFiNzNHYTFMVTRfWTdiVE5BMzZnT3E1eTVuZUhlYzBDdDNTdExETzk2ZThCUThhRWV2STJUNFFJQ191SGx5ZlAyVTl3N1QtaWppb2lMVFpXSllIRUhKLW5HZjR5ellWc0lzOUp3cWhxRV9uR1pqNzVn?oc=5)
+
+---
 
 ### [Low-dose radiation shows lasting benefits in patients with knee osteoarthritis](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
 
