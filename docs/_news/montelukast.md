@@ -37,11 +37,11 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 
 ## Related News (1)
 
-### [In-home exposure to e-cigarettes and tobacco linked to children's asthma flare-ups - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSF9mcFBmckE0MGxoWU1NcUs5ZVpmRVhEdE5YTk5iVm5nZ3VUN2FRTzR5QnFnWTZsRVRNeklONW5pdHRyeEJOT0gtRUZmTllYN3A2ZVNtWDY1aU80cTZOeGphc0ZvWEJaWHBTbW5RZnp4OTZCM0FGWmpMWHJpbHh4czMxUVdUVDhObWRF?oc=5)
+### [Vaping around kids raises asthma risk just as much as smoking](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMUlaOE5JQThCVTJkTHdnVU0tcDZFcTl1bHhWQVp6VGJzTDMzS2x1V09lRE1VNFpicE41SHJ1UFZCcGNfejVmOEsxLUdpcXBabzI3TTdYM0JVcmpwZFMzMTJqT2VGTDJNdmQ3WkFVbjA2c3B2OGhkREhsSHNqVWNnMzYwR0YxNU1vX1FGWDlVQ0JsWG1BY1RxQ21Gb0RTZDVGd3NrdFloVk93NzRraUxNZGs0dHZ0VUZFTUdjRVlsYXhUZnd3MlAxT1kyckI5cklNVnhQSEJhcGRUc05pSmZRYks5Y2Rib1BlUHoxeV9xSEU?oc=5)
 
 2026-10-02 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSF9mcFBmckE0MGxoWU1NcUs5ZVpmRVhEdE5YTk5iVm5nZ3VUN2FRTzR5QnFnWTZsRVRNeklONW5pdHRyeEJOT0gtRUZmTllYN3A2ZVNtWDY1aU80cTZOeGphc0ZvWEJaWHBTbW5RZnp4OTZCM0FGWmpMWHJpbHh4czMxUVdUVDhObWRF?oc=5)
+Source: [mydailyrecord.com](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMUlaOE5JQThCVTJkTHdnVU0tcDZFcTl1bHhWQVp6VGJzTDMzS2x1V09lRE1VNFpicE41SHJ1UFZCcGNfejVmOEsxLUdpcXBabzI3TTdYM0JVcmpwZFMzMTJqT2VGTDJNdmQ3WkFVbjA2c3B2OGhkREhsSHNqVWNnMzYwR0YxNU1vX1FGWDlVQ0JsWG1BY1RxQ21Gb0RTZDVGd3NrdFloVk93NzRraUxNZGs0dHZ0VUZFTUdjRVlsYXhUZnd3MlAxT1kyckI5cklNVnhQSEJhcGRUc05pSmZRYks5Y2Rib1BlUHoxeV9xSEU?oc=5)
 
 ---
 

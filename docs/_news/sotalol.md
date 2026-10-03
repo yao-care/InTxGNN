@@ -14,7 +14,7 @@ permalink: /news/sotalol/
 ---
 
 <p class="key-answer" data-question="What news is there about Sotalol?">
-<strong>Sotalol</strong> currently has <strong>2 news articles</strong>, with 7 predicted indications.
+<strong>Sotalol</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,23 +37,9 @@ This page combines the AI-predicted indications for Sotalol with the latest heal
 <p><a href="{{ '/drugs/sotalol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Global life expectancy bounces back to near pre-pandemic levels, WHO says - UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE81TEVFeXRXMVlVX1NBY0p0ZThQOVhnUHFlMk5GaWNqbXh6ejhFSUd0SFQySkxOcVV5LXFuYXM1UXpjNTdxZzlnUXRMS1RPc3BHR2RRMDVKQQ?oc=5)
-
-2026-10-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE81TEVFeXRXMVlVX1NBY0p0ZThQOVhnUHFlMk5GaWNqbXh6ejhFSUd0SFQySkxOcVV5LXFuYXM1UXpjNTdxZzlnUXRMS1RPc3BHR2RRMDVKQQ?oc=5)
-
----
-
-### [Peripheral vascular disease (PVD): Vascular surgeon Dr Rajiv Parakh explains the symptoms, risks, prevention, treatment | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRFBEVU9OaFlJVmZPTDFhdi02SU5hQlJwbjRmRDBNeGhHMGtDajVqcUt4N0pFMHdMa2QxSkg4ZE5sb0M2blFxSnplSjNpdjd2NWJHaGN0RFY2NXgwTDJYWnhNdWRkakxKT2Z4R0tlWDJOTklUdVRrbGtUaDlyOWlzX0l0VUlqRGdjNEpTN0k0WXFWOUpQaVMxTVJQSWRNRFE5SFl1TWhHaHByanIzZDBSSHYyYV9vT2tmdTJlSUlzbXpYbE9nLW9RcVQ5b1JZRjRyeHBTSEZOejlaUjNyaUw3VWFtb1FkNEt5Y3NKMUY5YXJpQzBtanFoWERnb1dWSFdDLW9pQjF4cEFySTFPUjVN0gGUAkFVX3lxTE1nZXNkRWNnakdmVHFZZV9jTzdVQVBmQy0zakZDYXBYejF0UmdKNjF6cVVncEhqbktXV3RoNWpTQkNySUttek84Y041aGcwUHRXRVpXQW5nal9OaHo4aUdtc3RLbEVvdk5oc0FuUjRnbUR0ZFd5UjJpWmF4b1p4SWdRbnpHUDAtaE9fX19mbTZ0WlpPd0luX0JablllYUdWa2JKOEVrbXQ2VTMyS19ocGxDazhVMDhGanpVUk52SUI2UnJKX1EtbHFnNWlla0ZBSjdPcFhERlB3SGtGdXU0QUtEbTdydlRaYjVMVk5UdmEzS0xMbU9JNU1XUlF2RW9ZZ2ZVLXlDS01WQmhtcVd1TGxVYzczaA?oc=5)
-
-2026-10-01 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">vascular disease</span> <span class="news-indication-tag">peripheral vascular disease</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRFBEVU9OaFlJVmZPTDFhdi02SU5hQlJwbjRmRDBNeGhHMGtDajVqcUt4N0pFMHdMa2QxSkg4ZE5sb0M2blFxSnplSjNpdjd2NWJHaGN0RFY2NXgwTDJYWnhNdWRkakxKT2Z4R0tlWDJOTklUdVRrbGtUaDlyOWlzX0l0VUlqRGdjNEpTN0k0WXFWOUpQaVMxTVJQSWRNRFE5SFl1TWhHaHByanIzZDBSSHYyYV9vT2tmdTJlSUlzbXpYbE9nLW9RcVQ5b1JZRjRyeHBTSEZOejlaUjNyaUw3VWFtb1FkNEt5Y3NKMUY5YXJpQzBtanFoWERnb1dWSFdDLW9pQjF4cEFySTFPUjVN0gGUAkFVX3lxTE1nZXNkRWNnakdmVHFZZV9jTzdVQVBmQy0zakZDYXBYejF0UmdKNjF6cVVncEhqbktXV3RoNWpTQkNySUttek84Y041aGcwUHRXRVpXQW5nal9OaHo4aUdtc3RLbEVvdk5oc0FuUjRnbUR0ZFd5UjJpWmF4b1p4SWdRbnpHUDAtaE9fX19mbTZ0WlpPd0luX0JablllYUdWa2JKOEVrbXQ2VTMyS19ocGxDazhVMDhGanpVUk52SUI2UnJKX1EtbHFnNWlla0ZBSjdPcFhERlB3SGtGdXU0QUtEbTdydlRaYjVMVk5UdmEzS0xMbU9JNU1XUlF2RW9ZZ2ZVLXlDS01WQmhtcVd1TGxVYzczaA?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
