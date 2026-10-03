@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="What news is there about Dipyridamole?">
-<strong>Dipyridamole</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Dipyridamole</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ This page combines the AI-predicted indications for Dipyridamole with the latest
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Stroke Care Delays Increased Globally During COVID-19 Pandemic - European Medical Journal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjR4RFo5ZF9BUjhHRVhROXRHOWpIMXRHR3N1LVZMWW9UVjZjT2FvVndiRm8xOTJ6MEZ1ZXd5UzRkYVFvaWhmNjlnUUt5ejBZTkJldzdDWVljNXNsek9DdEJmbXR4bVBMY3M2cUw5VmZ5bTNZSnV0cG9Jcld0MXF6VFNzLTZuOWpiZnNpMWUxZ1o2aHBZb0xnV3pDeGpqWUI0blE4ejhTVlc?oc=5)
 
 2026-10-03 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjR4RFo5ZF9BUjhHRVhROXRHOWpIMXRHR3N1LVZMWW9UVjZjT2FvVndiRm8xOTJ6MEZ1ZXd5UzRkYVFvaWhmNjlnUUt5ejBZTkJldzdDWVljNXNsek9DdEJmbXR4bVBMY3M2cUw5VmZ5bTNZSnV0cG9Jcld0MXF6VFNzLTZuOWpiZnNpMWUxZ1o2aHBZb0xnV3pDeGpqWUI0blE4ejhTVlc?oc=5)
+
+---
+
+### [Peripheral vascular disease (PVD): Vascular surgeon Dr Rajiv Parakh explains the symptoms, risks, prevention, treatment | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRFBEVU9OaFlJVmZPTDFhdi02SU5hQlJwbjRmRDBNeGhHMGtDajVqcUt4N0pFMHdMa2QxSkg4ZE5sb0M2blFxSnplSjNpdjd2NWJHaGN0RFY2NXgwTDJYWnhNdWRkakxKT2Z4R0tlWDJOTklUdVRrbGtUaDlyOWlzX0l0VUlqRGdjNEpTN0k0WXFWOUpQaVMxTVJQSWRNRFE5SFl1TWhHaHByanIzZDBSSHYyYV9vT2tmdTJlSUlzbXpYbE9nLW9RcVQ5b1JZRjRyeHBTSEZOejlaUjNyaUw3VWFtb1FkNEt5Y3NKMUY5YXJpQzBtanFoWERnb1dWSFdDLW9pQjF4cEFySTFPUjVN0gGUAkFVX3lxTE1nZXNkRWNnakdmVHFZZV9jTzdVQVBmQy0zakZDYXBYejF0UmdKNjF6cVVncEhqbktXV3RoNWpTQkNySUttek84Y041aGcwUHRXRVpXQW5nal9OaHo4aUdtc3RLbEVvdk5oc0FuUjRnbUR0ZFd5UjJpWmF4b1p4SWdRbnpHUDAtaE9fX19mbTZ0WlpPd0luX0JablllYUdWa2JKOEVrbXQ2VTMyS19ocGxDazhVMDhGanpVUk52SUI2UnJKX1EtbHFnNWlla0ZBSjdPcFhERlB3SGtGdXU0QUtEbTdydlRaYjVMVk5UdmEzS0xMbU9JNU1XUlF2RW9ZZ2ZVLXlDS01WQmhtcVd1TGxVYzczaA?oc=5)
+
+2026-10-01 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">vascular disease</span> <span class="news-indication-tag">peripheral vascular disease</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRFBEVU9OaFlJVmZPTDFhdi02SU5hQlJwbjRmRDBNeGhHMGtDajVqcUt4N0pFMHdMa2QxSkg4ZE5sb0M2blFxSnplSjNpdjd2NWJHaGN0RFY2NXgwTDJYWnhNdWRkakxKT2Z4R0tlWDJOTklUdVRrbGtUaDlyOWlzX0l0VUlqRGdjNEpTN0k0WXFWOUpQaVMxTVJQSWRNRFE5SFl1TWhHaHByanIzZDBSSHYyYV9vT2tmdTJlSUlzbXpYbE9nLW9RcVQ5b1JZRjRyeHBTSEZOejlaUjNyaUw3VWFtb1FkNEt5Y3NKMUY5YXJpQzBtanFoWERnb1dWSFdDLW9pQjF4cEFySTFPUjVN0gGUAkFVX3lxTE1nZXNkRWNnakdmVHFZZV9jTzdVQVBmQy0zakZDYXBYejF0UmdKNjF6cVVncEhqbktXV3RoNWpTQkNySUttek84Y041aGcwUHRXRVpXQW5nal9OaHo4aUdtc3RLbEVvdk5oc0FuUjRnbUR0ZFd5UjJpWmF4b1p4SWdRbnpHUDAtaE9fX19mbTZ0WlpPd0luX0JablllYUdWa2JKOEVrbXQ2VTMyS19ocGxDazhVMDhGanpVUk52SUI2UnJKX1EtbHFnNWlla0ZBSjdPcFhERlB3SGtGdXU0QUtEbTdydlRaYjVMVk5UdmEzS0xMbU9JNU1XUlF2RW9ZZ2ZVLXlDS01WQmhtcVd1TGxVYzczaA?oc=5)
 
 ---
 
