@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 1 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -59,7 +59,15 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Diabetes is a ‘silent driver’ of heart disease, heart attacks: Experts - ANI News](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSFNqeENfczNHYkpUZVppWW9nSkhNSGpwaVJrMUpic0cwMW9fejVsMTlLTko0MXhLeVdkb0NKNjJNYlZXaXlJM1htTFFXVkZmdUUtYXU5QW5jYmk2RFAyX0lJcUtiVHlmaVJIRUZBZWlIU0YzT3A2Q0N3MTFDVFRJVWlCUU1Wamo1Nml2bEVBRTE3THlrTXZSQWpGT2tBejRpLW5GV0RhcVBKeG5KSGg0WDNhMHUtXy1DUFFKeVMycEk2QW5LMVdYTDlnTG9aNncxNGFKd19n?oc=5)
+
+2026-10-03
+
+Source: [ANI News](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSFNqeENfczNHYkpUZVppWW9nSkhNSGpwaVJrMUpic0cwMW9fejVsMTlLTko0MXhLeVdkb0NKNjJNYlZXaXlJM1htTFFXVkZmdUUtYXU5QW5jYmk2RFAyX0lJcUtiVHlmaVJIRUZBZWlIU0YzT3A2Q0N3MTFDVFRJVWlCUU1Wamo1Nml2bEVBRTE3THlrTXZSQWpGT2tBejRpLW5GV0RhcVBKeG5KSGg0WDNhMHUtXy1DUFFKeVMycEk2QW5LMVdYTDlnTG9aNncxNGFKd19n?oc=5)
+
+---
 
 ### [Whole fruit vs juice: What people with diabetes and heart disease should know - The Indian Express](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWNhc29KUXFHMVFkRTJnUnV4WFdvTmtzWHhQa09ubzZ2X1hsTnlFenpOZjRBWmlfMUlfZlMwb3ZjTk1DdElYYWU1cUM3dDM3Rl9FMWFKMFZjRFJZeHMyTUczUU55enNhcnNaTWIzSk4zVkxtY29SNUxycTl5eWNuak45NDFpMkNuOS13X2RWR2RqUW9nTGszeFRfNjNSY0ZmQko5VkVCdHdHM3hOS216WmE2TmZUMlpwcnU2aWtUZGNXZTZpNXZFYndwd2szU3daUTFR0gHaAUFVX3lxTE1nR2dma1BzbVZGSnB1YzZKYXNzRHFGRDlsbWtubXpzVktEdWNOWDdHaC12V0xLbHhTTkxrU1M5NGIwdkdYOEFERFBhaHduSE9DQWdMZHJtTWFIekNDOC1sUFpISnNCS2h0NjlDM1VoY0FVbTV6T2M1b2cycTI5MmNhLXZfbWxyUm51NDBGMlRBcVA4N1NtejVYVjdzOUJkVk0zaE9JNTlrT00tVmp5bmtlb19QWjZQZjNaNm1waXdndlZUSFE4QmFqdXBGYzVJSG1aU3NzVnFaOC1B?oc=5)
 

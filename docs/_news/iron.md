@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Neurologists recommend 4 everyday habits for better brain health](https://news.google.com/rss/articles/CBMif0FVX3lxTE5KWDVDdEFzNGluWDB0MzVLZmpaM1dFZlU1N29LbjJaWXhkZ1MwVFVpaW0xSmRPZkpFamY5RjhWZ3ZJUFNWTEIzSnZWajdhdnVUOUpXOHRwVEpYTElwY0hnYmZ5c1ZNamR2aWxjWTRCRXVHLWVuUFlTTE1Xb2VrbUU?oc=5)
 
 2026-10-02 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
 Source: [brainhealth.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5KWDVDdEFzNGluWDB0MzVLZmpaM1dFZlU1N29LbjJaWXhkZ1MwVFVpaW0xSmRPZkpFamY5RjhWZ3ZJUFNWTEIzSnZWajdhdnVUOUpXOHRwVEpYTElwY0hnYmZ5c1ZNamR2aWxjWTRCRXVHLWVuUFlTTE1Xb2VrbUU?oc=5)
-
----
-
-### [Beyond Zero Debris: Rethinking Space Sustainability - ESG News.earth](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRkZjeVVMcVlRQ3JfS2VSeUg3Smt5aXJ4SGlNcXA3eUVXY3QzdDYwXzVHdmRMU29hT3g2Z2FhdmMzTnZrVWRuTHRUcGIyVTg3LUFiS28xMEUwZXFpdTVrTWttb3V6d044R2U1NzFMaWpZT3BqbDM1S0k2aENienVSZ2lHYmpiSFlVZGRIcTdrc2FVS0Y0NzRRUlFlLW5QY2Yz?oc=5)
-
-2026-09-29 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
-
-Source: [ESG News.earth](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRkZjeVVMcVlRQ3JfS2VSeUg3Smt5aXJ4SGlNcXA3eUVXY3QzdDYwXzVHdmRMU29hT3g2Z2FhdmMzTnZrVWRuTHRUcGIyVTg3LUFiS28xMEUwZXFpdTVrTWttb3V6d044R2U1NzFMaWpZT3BqbDM1S0k2aENienVSZ2lHYmpiSFlVZGRIcTdrc2FVS0Y0NzRRUlFlLW5QY2Yz?oc=5)
 
 ---
 
