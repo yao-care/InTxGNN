@@ -46,11 +46,11 @@ Source: [brainhealth.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5KW
 
 ---
 
-### [ESA warns Earth's orbit crowding, casualty risk doubled since 2020](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFZZU1hRcThUNE1zSXdKcXo3eEtwNXNESThEZTU5THplVWg4MnBtaldpbjJGSFdLaktJd2RSNVBzVDBQVVJ3aWpmR2lyUXExSVdScEd3WHRPSERCb2Q0TFlITW5QNE85NEQtQnpZMnVfWVlXNklGMDB3ckN1YmJsS1lLNkpNOG9TMzVQN2FPWEh3RWhLTkdLOHR3SmFxbTFYODJaRXZvb0hKYXhYdlNQcg?oc=5)
+### [Beyond Zero Debris: Rethinking Space Sustainability - ESG News.earth](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRkZjeVVMcVlRQ3JfS2VSeUg3Smt5aXJ4SGlNcXA3eUVXY3QzdDYwXzVHdmRMU29hT3g2Z2FhdmMzTnZrVWRuTHRUcGIyVTg3LUFiS28xMEUwZXFpdTVrTWttb3V6d044R2U1NzFMaWpZT3BqbDM1S0k2aENienVSZ2lHYmpiSFlVZGRIcTdrc2FVS0Y0NzRRUlFlLW5QY2Yz?oc=5)
 
-2026-10-01 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+2026-09-29 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
-Source: [NewsBytes](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFZZU1hRcThUNE1zSXdKcXo3eEtwNXNESThEZTU5THplVWg4MnBtaldpbjJGSFdLaktJd2RSNVBzVDBQVVJ3aWpmR2lyUXExSVdScEd3WHRPSERCb2Q0TFlITW5QNE85NEQtQnpZMnVfWVlXNklGMDB3ckN1YmJsS1lLNkpNOG9TMzVQN2FPWEh3RWhLTkdLOHR3SmFxbTFYODJaRXZvb0hKYXhYdlNQcg?oc=5)
+Source: [ESG News.earth](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRkZjeVVMcVlRQ3JfS2VSeUg3Smt5aXJ4SGlNcXA3eUVXY3QzdDYwXzVHdmRMU29hT3g2Z2FhdmMzTnZrVWRuTHRUcGIyVTg3LUFiS28xMEUwZXFpdTVrTWttb3V6d044R2U1NzFMaWpZT3BqbDM1S0k2aENienVSZ2lHYmpiSFlVZGRIcTdrc2FVS0Y0NzRRUlFlLW5QY2Yz?oc=5)
 
 ---
 
