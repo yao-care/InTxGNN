@@ -14,7 +14,7 @@ permalink: /news/mesalazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mesalazine?">
-<strong>Mesalazine</strong> currently has <strong>2 news articles</strong>, with 7 predicted indications.
+<strong>Mesalazine</strong> currently has <strong>1 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <ul>
 <li><strong>Predicted indications (7)</strong>:<ul>
 <li>congenital hypotrichosis with juvenile macular dystrophy (99.7%)</li>
-<li class="indication-matched">osteoarthritis (99.6%)<span class="indication-tag">📰 osteoarthritis</span></li>
+<li>osteoarthritis (99.6%)</li>
 <li class="indication-matched">rheumatoid arthritis (99.6%)<span class="indication-tag">📰 RA</span></li>
 <li>seborrheic keratosis (99.5%)</li>
 <li>osteoarthritis susceptibility (99.3%)</li>
@@ -37,21 +37,13 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <p><a href="{{ '/drugs/mesalazine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [New research suggests vaccines could help prevent autism - Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
 
 2026-10-01 <span class="news-indication-tag">RA</span>
 
 Source: [Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
-
----
-
-### [Low-dose radiation shows lasting benefits in patients with knee osteoarthritis](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
-
-2026-09-28 <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
 
 ---
 
