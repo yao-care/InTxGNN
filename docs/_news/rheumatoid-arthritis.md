@@ -3,7 +3,7 @@ layout: default
 title: "RA (rheumatoid arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (rheumatoid arthritis). 1 articles, 21 related drugs."
+description: "Health news about RA (rheumatoid arthritis). 2 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rheumatoid-arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about RA (rheumatoid arthritis)?">
-<strong>RA (rheumatoid arthritis)</strong> currently has <strong>1 news articles</strong> and 21 related drugs.
+<strong>RA (rheumatoid arthritis)</strong> currently has <strong>2 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -49,7 +49,15 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Rare pregnancy infections linked to autism, suggests study - Medical Dialogues](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFhhc0RaRktuN2NLVGxPa242SkMzaXFET2g5NGZUeEhheHNEMDdTOGsyYWJLdmNsZkVrc3dIbk5ZT0JRN2VRQU9QdENnQnF0V0pnNzIxaWdXMm9ianJZMEVkNXlvSjN3b2Z1dS1CZXduLVREeG5HVFRxLUM1YTVYVE9sa29oY1gyQy1iZEJlVDZOM3B1OTRLVy1FVmFENlh1NDJWRXlJNmNlWERPa1FaNE8wTDJoRHFySDAtbNIBwgFBVV95cUxNSnFFeUltbTExRTh6RXNEZ3Fhc0lYanh3VVRJX2ZWVlBvUi1WOG5kVGVjaUU4X1Nva1dBTkdCSkRvMEJ3Sjl4dDVUcGVkbml2b0JlQTdfTGdvcEJuTnM1Z3lyWlAwc29OdUNuZWRaelJmWXM3REgwSHJTckFsRFB3a0h2MUVyOEtpMDZPSVNqWVF1NmV6NUV4Q1hLZlN6dEhOOUwyeXZFUktQa1RtczVaLTZtMnNZT2JOMlNPcVpDclFBdw?oc=5)
+
+2026-10-02
+
+Source: [Medical Dialogues](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFhhc0RaRktuN2NLVGxPa242SkMzaXFET2g5NGZUeEhheHNEMDdTOGsyYWJLdmNsZkVrc3dIbk5ZT0JRN2VRQU9QdENnQnF0V0pnNzIxaWdXMm9ianJZMEVkNXlvSjN3b2Z1dS1CZXduLVREeG5HVFRxLUM1YTVYVE9sa29oY1gyQy1iZEJlVDZOM3B1OTRLVy1FVmFENlh1NDJWRXlJNmNlWERPa1FaNE8wTDJoRHFySDAtbNIBwgFBVV95cUxNSnFFeUltbTExRTh6RXNEZ3Fhc0lYanh3VVRJX2ZWVlBvUi1WOG5kVGVjaUU4X1Nva1dBTkdCSkRvMEJ3Sjl4dDVUcGVkbml2b0JlQTdfTGdvcEJuTnM1Z3lyWlAwc29OdUNuZWRaelJmWXM3REgwSHJTckFsRFB3a0h2MUVyOEtpMDZPSVNqWVF1NmV6NUV4Q1hLZlN6dEhOOUwyeXZFUktQa1RtczVaLTZtMnNZT2JOMlNPcVpDclFBdw?oc=5)
+
+---
 
 ### [New research suggests vaccines could help prevent autism - Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
 
