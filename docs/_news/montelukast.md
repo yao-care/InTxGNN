@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>3 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,29 +35,21 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Breaking Up Sedentary Time With Exercise Snacks](https://news.google.com/rss/articles/CBMimgFBVV95cUxPM2FSdkk4eVFsM01DazBqVE5id1NNLVo4NjY2bUVSckhGdElEejlRbUppeHdVTEtLWS1wQW9jZHpWSGtVbTBpbVNVbnJfQTJvZmlkeDhWX21PcGNuWkVBT1VweU1vbS1hcHhiYm13QmRZaW9lX2d1ZjNOcVUyMFRVbXI4eEdXT2dTSjRYd3hSNFFjdlJfMmFWb3pn?oc=5)
-
-2026-10-02 <span class="news-indication-tag">dama</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxPM2FSdkk4eVFsM01DazBqVE5id1NNLVo4NjY2bUVSckhGdElEejlRbUppeHdVTEtLWS1wQW9jZHpWSGtVbTBpbVNVbnJfQTJvZmlkeDhWX21PcGNuWkVBT1VweU1vbS1hcHhiYm13QmRZaW9lX2d1ZjNOcVUyMFRVbXI4eEdXT2dTSjRYd3hSNFFjdlJfMmFWb3pn?oc=5)
-
----
+## Related News (2)
 
 ### [Creatine may help build muscle even without exercise, researchers find](https://news.google.com/rss/articles/CBMib0FVX3lxTE1LTWVDOXd6cFF2QkhMSDJnNE5FM2FaQXE1VDdpWk1mN2RobERGY2Z1MlpPNTgxYXR2NkZzbExGdDJOV0w2dU1BTUtaUENrOE5iY3plcE5wQ3B2NlRxQS0xWUdhRGZubm94OGFnenA1NA?oc=5)
 
 2026-09-30 <span class="news-indication-tag">dama</span>
 
-Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE1LTWVDOXd6cFF2QkhMSDJnNE5FM2FaQXE1VDdpWk1mN2RobERGY2Z1MlpPNTgxYXR2NkZzbExGdDJOV0w2dU1BTUtaUENrOE5iY3plcE5wQ3B2NlRxQS0xWUdhRGZubm94OGFnenA1NA?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1LTWVDOXd6cFF2QkhMSDJnNE5FM2FaQXE1VDdpWk1mN2RobERGY2Z1MlpPNTgxYXR2NkZzbExGdDJOV0w2dU1BTUtaUENrOE5iY3plcE5wQ3B2NlRxQS0xWUdhRGZubm94OGFnenA1NA?oc=5)
 
 ---
 
-### [Veterinary Dept observes World Rabies Day : 29th sep26](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GX2kycjBHRHc1eE1MUFotYnhJUWNCWjZuSWIzMmF4OFJrVnVDQ3daVXQxVjRueWxZT1pFcU54Zk1DakhzY29uWHY0RTlrRGVwaW56TEhMRFo?oc=5)
+### [World Rabies Day awareness programme organised at Fazl Ali College - Nagaland Tribune](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlM0d0plY1l3VEZRYXluM1dvSEpFM2pBN3RCcmxoQzRvUVJtcTRmSXlBSE9MdEw0eDF0eXVIWGNqbW02QXFLMHV6X0x6YjBYTTVtRGVyWXA0dV9mZHh6cEhXU1NYbWhmVVhEY2JqbzNDR01rOVQ3WENoRFdHc0ZDMjFFTGxnVVF2ajFONGZRdElfTGx4dzhNaHlB?oc=5)
 
-2026-09-29 <span class="news-indication-tag">dama</span>
+2026-09-28 <span class="news-indication-tag">dama</span>
 
-Source: [e-pao.net](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GX2kycjBHRHc1eE1MUFotYnhJUWNCWjZuSWIzMmF4OFJrVnVDQ3daVXQxVjRueWxZT1pFcU54Zk1DakhzY29uWHY0RTlrRGVwaW56TEhMRFo?oc=5)
+Source: [Nagaland Tribune](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlM0d0plY1l3VEZRYXluM1dvSEpFM2pBN3RCcmxoQzRvUVJtcTRmSXlBSE9MdEw0eDF0eXVIWGNqbW02QXFLMHV6X0x6YjBYTTVtRGVyWXA0dV9mZHh6cEhXU1NYbWhmVVhEY2JqbzNDR01rOVQ3WENoRFdHc0ZDMjFFTGxnVVF2ajFONGZRdElfTGx4dzhNaHlB?oc=5)
 
 ---
 

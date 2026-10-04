@@ -14,7 +14,7 @@ permalink: /news/letrozole/
 ---
 
 <p class="key-answer" data-question="What news is there about Letrozole?">
-<strong>Letrozole</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
+<strong>Letrozole</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,21 @@ This page combines the AI-predicted indications for Letrozole with the latest he
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (11)
+
+### [Infection-Related Cancers Cause One in Eight Cases Globally - European Medical Journal](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzd2RnpzUUM2cEU3QU5zYVE2dm1RSkhOUWFqNE9PU3phcTF5UTZUdmNzU2RucU1Ia0tsbFhhQ2FOQU1vTkw2OUNsNUs5Yzd6T2lkX25sVFdGRHptTWI5VU9RUTNrQWg1OGp6OTkwMEZZTHFxaXpaUFJFQ1NzZTkwdFQyQXdpU0YxRWI1T3VmQVpLNEVwSS1vbHNjWlhqbEtJWkZj?oc=5)
+
+2026-10-04 <span class="news-indication-tag">cancer</span>
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzd2RnpzUUM2cEU3QU5zYVE2dm1RSkhOUWFqNE9PU3phcTF5UTZUdmNzU2RucU1Ia0tsbFhhQ2FOQU1vTkw2OUNsNUs5Yzd6T2lkX25sVFdGRHptTWI5VU9RUTNrQWg1OGp6OTkwMEZZTHFxaXpaUFJFQ1NzZTkwdFQyQXdpU0YxRWI1T3VmQVpLNEVwSS1vbHNjWlhqbEtJWkZj?oc=5)
+
+---
 
 ### [Stanford Researchers Develop Test To Detect Bladder Cancer And Track Treatment Response](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQl9yVm9yZVZQUlFtb1R1clp2SDVTTi10U2NZdWhqeGlva0JPUE5iNG0xODBDWEVTNWNra204cWt0VngxS2tfeThMLURmVXM3SGxFczMza0xhTDNsTXJVQVJ4UWN5cmYtbHZVR0dvODY4dnZLRkJJMXlGS3lodnJENEFWZGpnUEgtRF8yOWVRb1U0NlFBOExCeW04cU1tZUl0UEdLdVp6aWd3MzJZeWhpanNkVTJtY0RCZlRhRy1Td003ZzY3R2fSAc4BQVVfeXFMTURJMl81QkZwUDBMU3ZHUXNrb3pzUGNaWTRzZmROamNOU1A2ajItSnJBM0ItVzF6NFExVUN4Y0RJeF9iZVBFeEpKZ3NoZlo3ejhtLU0zdUUzWWpqNWllbXJMeU9KeEVkVnd3RVZfQVc2LUh3MElwdWlSeHNlVU1CQWJXdm0ybkYyZlhiY3hYVnhPSVJTdlRvQW16Z1ZWSHJNRVZzaVVqcTZ1Zjk1Q1A3eGxNcXBTb19BOU5rRnc5ODZUYlZyeU4yOUpTNFhMaGc?oc=5)
 
 2026-10-04 <span class="news-indication-tag">cancer</span>
 
 Source: [NDTV](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQl9yVm9yZVZQUlFtb1R1clp2SDVTTi10U2NZdWhqeGlva0JPUE5iNG0xODBDWEVTNWNra204cWt0VngxS2tfeThMLURmVXM3SGxFczMza0xhTDNsTXJVQVJ4UWN5cmYtbHZVR0dvODY4dnZLRkJJMXlGS3lodnJENEFWZGpnUEgtRF8yOWVRb1U0NlFBOExCeW04cU1tZUl0UEdLdVp6aWd3MzJZeWhpanNkVTJtY0RCZlRhRy1Td003ZzY3R2fSAc4BQVVfeXFMTURJMl81QkZwUDBMU3ZHUXNrb3pzUGNaWTRzZmROamNOU1A2ajItSnJBM0ItVzF6NFExVUN4Y0RJeF9iZVBFeEpKZ3NoZlo3ejhtLU0zdUUzWWpqNWllbXJMeU9KeEVkVnd3RVZfQVc2LUh3MElwdWlSeHNlVU1CQWJXdm0ybkYyZlhiY3hYVnhPSVJTdlRvQW16Z1ZWSHJNRVZzaVVqcTZ1Zjk1Q1A3eGxNcXBTb19BOU5rRnc5ODZUYlZyeU4yOUpTNFhMaGc?oc=5)
-
----
-
-### [Infections linked to 2.3m cancer cases globally in 2024 – Study - Realnews Magazine](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnRsN0VFMThFZy1zSEtNbHJuT0VickZHbHVEaFQ3Y1BGSm9sSUZ2ZHU3VmZTN0hOeEJSS0dEbERHZ2F1SHBpS2dpcGRhSGJBTm1McWl1YUFsWWhTTGo5ejNVYXgtUXdBTjVWWF9EQlVQdnFCbEpVUUxKOW4zVHE3c0pCTGk3ZnlhOW9zbHk5S05kd0REb1E?oc=5)
-
-2026-10-04 <span class="news-indication-tag">cancer</span>
-
-Source: [Realnews Magazine](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnRsN0VFMThFZy1zSEtNbHJuT0VickZHbHVEaFQ3Y1BGSm9sSUZ2ZHU3VmZTN0hOeEJSS0dEbERHZ2F1SHBpS2dpcGRhSGJBTm1McWl1YUFsWWhTTGo5ejNVYXgtUXdBTjVWWF9EQlVQdnFCbEpVUUxKOW4zVHE3c0pCTGk3ZnlhOW9zbHk5S05kd0REb1E?oc=5)
 
 ---
 
@@ -76,7 +76,7 @@ Source: [The New Indian Express](https://news.google.com/rss/articles/CBMiywFBVV
 
 ### [Breast cancer cases rise among women aged 25–35, experts flag concern - The Tribune](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXpDRno0TGdfSkhvZXRmeTJpV0x5VFdJcXBZVkNnMURid29aNnJxYVB6Q1BkdDJOR25ESEdnXzlubmdKY0Z6V3kzSnkwZE1WOVptWVVPWEh4Sm1fRlp1ZU5mNVdXTXZEYjBLOC1PX0hrYWppcENsRjVXYl9EeXM1OS1KaW5ZYndUdVBWbDFmZ1BCS2F1Rlo2Z1E1dDR6VzNPUXJ4V2xmU1dQNlFjblY3UdIBtAFBVV95cUxPYUd2cjljazlzZFhGX2kxQ2o5OUFsMGRZdWhxUlhOWkxnVk9CVVFOZUhsai1ubjNNWWE4YlJYLTRJVm1lVjd6LXgxc3o0WTlXdEhGczFYanJScVJjQzYyY2U0WFJsZEtab1FIQkFkUkFaR19TSHEtaUVOdFJjVzNpLUtEalRmWWFuSVVtWjVINHh2QjJsQWJVaUZlTlE4dS1lc0NIdW03Xy1paEZiTEZxd3NvOGk?oc=5)
 
-2026-10-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-03 <span class="news-indication-tag">cancer</span>
 
 Source: [The Tribune](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXpDRno0TGdfSkhvZXRmeTJpV0x5VFdJcXBZVkNnMURid29aNnJxYVB6Q1BkdDJOR25ESEdnXzlubmdKY0Z6V3kzSnkwZE1WOVptWVVPWEh4Sm1fRlp1ZU5mNVdXTXZEYjBLOC1PX0hrYWppcENsRjVXYl9EeXM1OS1KaW5ZYndUdVBWbDFmZ1BCS2F1Rlo2Z1E1dDR6VzNPUXJ4V2xmU1dQNlFjblY3UdIBtAFBVV95cUxPYUd2cjljazlzZFhGX2kxQ2o5OUFsMGRZdWhxUlhOWkxnVk9CVVFOZUhsai1ubjNNWWE4YlJYLTRJVm1lVjd6LXgxc3o0WTlXdEhGczFYanJScVJjQzYyY2U0WFJsZEtab1FIQkFkUkFaR19TSHEtaUVOdFJjVzNpLUtEalRmWWFuSVVtWjVINHh2QjJsQWJVaUZlTlE4dS1lc0NIdW03Xy1paEZiTEZxd3NvOGk?oc=5)
 
@@ -87,14 +87,6 @@ Source: [The Tribune](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXpDR
 2026-10-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colon cancer</span>
 
 Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUJlbVJSeXpndlM2eHY1VEhNeWhhU1VDVkpERGJDR0FNbzVLbjlUUGRJcUNiQmpOcHhYWjdscGJocG9qTHl3WFhMSXhNTzN2MXUybTlrOFd6MzNla29HWGt4TUxMaE9xeEtpUGdDcnUwQ0MzVjFpZFQ2cGlTckVaeEdab1BsekRaRW4tYUlFRQ?oc=5)
-
----
-
-### [Lung cancer is India’s deadliest cancer. So why don’t we screen for it? - The Indian Express](https://news.google.com/rss/articles/CBMixAFBVV95cUxQSE91Y0plQnRBdzAxRmJQRjlBSkZBblQ0ckxRLWprSFFJRU9ZTTNibDE1a2MtMEhGSVZzaVVvTXJMQWRqOThZNW1KYUJPamNEQ3V1ckZLNVktRHRyaDFFQ1pSQzJ1R3JMY1FwRTdwTHZHNW1pTnVEcTBwOGx0WTVReFdvdy10cXdRdURFZm4xb0k3dDhtbmpsOHMxMExRNUNOY2g0QllBSXB5Q08wcWN2OHlTREV5T0xUY1pjam41aWpPOFk50gHLAUFVX3lxTFBoQXBYbUNRX21LQWlrNHd6ekwxbVFDS3NlNWdza25wemsybHlhRFZ4YjZYRVFZX2FiaFk4b2djdm00MVhLRjhwVFBObE1vSTUzMDBUb0hjRjkwSWRlamxkNnJLQ1VRa2FzUkNvUEFZaWRjTnU1enV2OHhRSzlyd1Y2TFRzQXVUdy1WUk5FZVFXWjQtNnVGVFJuaFNPMEJzSHZGaFg2czA3TGtaamhsdmFQWE9fUXBnTjRJUEV1XzNDTWp3VTl6WGtYSFNn?oc=5)
-
-2026-10-03 <span class="news-indication-tag">cancer</span>
-
-Source: [The Indian Express](https://news.google.com/rss/articles/CBMixAFBVV95cUxQSE91Y0plQnRBdzAxRmJQRjlBSkZBblQ0ckxRLWprSFFJRU9ZTTNibDE1a2MtMEhGSVZzaVVvTXJMQWRqOThZNW1KYUJPamNEQ3V1ckZLNVktRHRyaDFFQ1pSQzJ1R3JMY1FwRTdwTHZHNW1pTnVEcTBwOGx0WTVReFdvdy10cXdRdURFZm4xb0k3dDhtbmpsOHMxMExRNUNOY2g0QllBSXB5Q08wcWN2OHlTREV5T0xUY1pjam41aWpPOFk50gHLAUFVX3lxTFBoQXBYbUNRX21LQWlrNHd6ekwxbVFDS3NlNWdza25wemsybHlhRFZ4YjZYRVFZX2FiaFk4b2djdm00MVhLRjhwVFBObE1vSTUzMDBUb0hjRjkwSWRlamxkNnJLQ1VRa2FzUkNvUEFZaWRjTnU1enV2OHhRSzlyd1Y2TFRzQXVUdy1WUk5FZVFXWjQtNnVGVFJuaFNPMEJzSHZGaFg2czA3TGtaamhsdmFQWE9fUXBnTjRJUEV1XzNDTWp3VTl6WGtYSFNn?oc=5)
 
 ---
 
@@ -118,15 +110,15 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ
 
 2026-09-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
+Source: [sciencealert.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
 
 ---
 
-### [PSMA PET Radiotracers and Access Barriers in Prostate Cancer](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3g2QnJXWndGbXVKbHRqRmpQcE1kNlJ2dVBrX3I3MEVMSG8tNGNvd2xoYXVsbFRVZEhua2VIUlU0cnoyWWdtcnp6VllCd2lSVkFLbnlnWW5LMFI2ZEZxaGtuWjFtNHE2YWVWZzlZM1hubUxINFM3V19JeHlVVlZqTWlNWVc3cFdoZFRzdktsNnFDcURuVmdLNHpR?oc=5)
+### [PSMA PET Radiotracers and Access Barriers in Prostate Cancer - Urology Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3g2QnJXWndGbXVKbHRqRmpQcE1kNlJ2dVBrX3I3MEVMSG8tNGNvd2xoYXVsbFRVZEhua2VIUlU0cnoyWWdtcnp6VllCd2lSVkFLbnlnWW5LMFI2ZEZxaGtuWjFtNHE2YWVWZzlZM1hubUxINFM3V19JeHlVVlZqTWlNWVc3cFdoZFRzdktsNnFDcURuVmdLNHpR?oc=5)
 
 2026-09-28 <span class="news-indication-tag">cancer</span>
 
-Source: [urologytimes.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3g2QnJXWndGbXVKbHRqRmpQcE1kNlJ2dVBrX3I3MEVMSG8tNGNvd2xoYXVsbFRVZEhua2VIUlU0cnoyWWdtcnp6VllCd2lSVkFLbnlnWW5LMFI2ZEZxaGtuWjFtNHE2YWVWZzlZM1hubUxINFM3V19JeHlVVlZqTWlNWVc3cFdoZFRzdktsNnFDcURuVmdLNHpR?oc=5)
+Source: [Urology Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3g2QnJXWndGbXVKbHRqRmpQcE1kNlJ2dVBrX3I3MEVMSG8tNGNvd2xoYXVsbFRVZEhua2VIUlU0cnoyWWdtcnp6VllCd2lSVkFLbnlnWW5LMFI2ZEZxaGtuWjFtNHE2YWVWZzlZM1hubUxINFM3V19JeHlVVlZqTWlNWVc3cFdoZFRzdktsNnFDcURuVmdLNHpR?oc=5)
 
 ---
 
