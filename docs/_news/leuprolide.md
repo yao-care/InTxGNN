@@ -14,7 +14,7 @@ permalink: /news/leuprolide/
 ---
 
 <p class="key-answer" data-question="What news is there about Leuprolide?">
-<strong>Leuprolide</strong> currently has <strong>2 news articles</strong>, with 2 predicted indications.
+<strong>Leuprolide</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,30 +25,16 @@ This page combines the AI-predicted indications for Leuprolide with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (2)</strong>:<ul>
-<li class="indication-matched">osteoarthritis (99.7%)<span class="indication-tag">📰 osteoarthritis</span></li>
+<li>osteoarthritis (99.7%)</li>
 <li>pseudoachondroplasia (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/leuprolide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Robotic hip and knee replacement shows no early surgical benefit](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2VJUVZvTEdTRnQ3ZV9wcHFlcHhLalhjUV9pMHZGV1JjNXQyS1VBV1FNd01RdjM0eHRnRmkxRUF5MGFiNzNHYTFMVTRfWTdiVE5BMzZnT3E1eTVuZUhlYzBDdDNTdExETzk2ZThCUThhRWV2STJUNFFJQ191SGx5ZlAyVTl3N1QtaWppb2lMVFpXSllIRUhKLW5HZjR5ellWc0lzOUp3cWhxRV9uR1pqNzVn?oc=5)
-
-2026-10-02 <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2VJUVZvTEdTRnQ3ZV9wcHFlcHhLalhjUV9pMHZGV1JjNXQyS1VBV1FNd01RdjM0eHRnRmkxRUF5MGFiNzNHYTFMVTRfWTdiVE5BMzZnT3E1eTVuZUhlYzBDdDNTdExETzk2ZThCUThhRWV2STJUNFFJQ191SGx5ZlAyVTl3N1QtaWppb2lMVFpXSllIRUhKLW5HZjR5ellWc0lzOUp3cWhxRV9uR1pqNzVn?oc=5)
-
----
-
-### [Low-dose radiation shows lasting benefits in patients with knee osteoarthritis](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
-
-2026-09-28 <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

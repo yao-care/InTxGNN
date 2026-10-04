@@ -14,7 +14,7 @@ permalink: /news/chromium/
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Chromium</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,9 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li class="indication-matched">osteoarthritis (98.7%)<span class="indication-tag">📰 osteoarthritis</span></li>
+<li>osteoarthritis (98.7%)</li>
 <li>osteoarthritis susceptibility (98.5%)</li>
-<li class="indication-matched">rheumatoid arthritis (98.5%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (98.5%)</li>
 <li>gout (98.0%)</li>
 <li>pseudoachondroplasia (98.0%)</li>
 <li>hepatic porphyria (97.9%)</li>
@@ -40,39 +40,9 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (0)
 
-### [Rare pregnancy infections linked to autism, suggests study - Medical Dialogues](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFhhc0RaRktuN2NLVGxPa242SkMzaXFET2g5NGZUeEhheHNEMDdTOGsyYWJLdmNsZkVrc3dIbk5ZT0JRN2VRQU9QdENnQnF0V0pnNzIxaWdXMm9ianJZMEVkNXlvSjN3b2Z1dS1CZXduLVREeG5HVFRxLUM1YTVYVE9sa29oY1gyQy1iZEJlVDZOM3B1OTRLVy1FVmFENlh1NDJWRXlJNmNlWERPa1FaNE8wTDJoRHFySDAtbNIBwgFBVV95cUxNSnFFeUltbTExRTh6RXNEZ3Fhc0lYanh3VVRJX2ZWVlBvUi1WOG5kVGVjaUU4X1Nva1dBTkdCSkRvMEJ3Sjl4dDVUcGVkbml2b0JlQTdfTGdvcEJuTnM1Z3lyWlAwc29OdUNuZWRaelJmWXM3REgwSHJTckFsRFB3a0h2MUVyOEtpMDZPSVNqWVF1NmV6NUV4Q1hLZlN6dEhOOUwyeXZFUktQa1RtczVaLTZtMnNZT2JOMlNPcVpDclFBdw?oc=5)
-
-2026-10-02 <span class="news-indication-tag">RA</span>
-
-Source: [Medical Dialogues](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFhhc0RaRktuN2NLVGxPa242SkMzaXFET2g5NGZUeEhheHNEMDdTOGsyYWJLdmNsZkVrc3dIbk5ZT0JRN2VRQU9QdENnQnF0V0pnNzIxaWdXMm9ianJZMEVkNXlvSjN3b2Z1dS1CZXduLVREeG5HVFRxLUM1YTVYVE9sa29oY1gyQy1iZEJlVDZOM3B1OTRLVy1FVmFENlh1NDJWRXlJNmNlWERPa1FaNE8wTDJoRHFySDAtbNIBwgFBVV95cUxNSnFFeUltbTExRTh6RXNEZ3Fhc0lYanh3VVRJX2ZWVlBvUi1WOG5kVGVjaUU4X1Nva1dBTkdCSkRvMEJ3Sjl4dDVUcGVkbml2b0JlQTdfTGdvcEJuTnM1Z3lyWlAwc29OdUNuZWRaelJmWXM3REgwSHJTckFsRFB3a0h2MUVyOEtpMDZPSVNqWVF1NmV6NUV4Q1hLZlN6dEhOOUwyeXZFUktQa1RtczVaLTZtMnNZT2JOMlNPcVpDclFBdw?oc=5)
-
----
-
-### [Robotic hip and knee replacement shows no early surgical benefit](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2VJUVZvTEdTRnQ3ZV9wcHFlcHhLalhjUV9pMHZGV1JjNXQyS1VBV1FNd01RdjM0eHRnRmkxRUF5MGFiNzNHYTFMVTRfWTdiVE5BMzZnT3E1eTVuZUhlYzBDdDNTdExETzk2ZThCUThhRWV2STJUNFFJQ191SGx5ZlAyVTl3N1QtaWppb2lMVFpXSllIRUhKLW5HZjR5ellWc0lzOUp3cWhxRV9uR1pqNzVn?oc=5)
-
-2026-10-02 <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2VJUVZvTEdTRnQ3ZV9wcHFlcHhLalhjUV9pMHZGV1JjNXQyS1VBV1FNd01RdjM0eHRnRmkxRUF5MGFiNzNHYTFMVTRfWTdiVE5BMzZnT3E1eTVuZUhlYzBDdDNTdExETzk2ZThCUThhRWV2STJUNFFJQ191SGx5ZlAyVTl3N1QtaWppb2lMVFpXSllIRUhKLW5HZjR5ellWc0lzOUp3cWhxRV9uR1pqNzVn?oc=5)
-
----
-
-### [New research suggests vaccines could help prevent autism - Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
-
-2026-10-01 <span class="news-indication-tag">RA</span>
-
-Source: [Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
-
----
-
-### [Low-dose radiation shows lasting benefits in patients with knee osteoarthritis](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
-
-2026-09-28 <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
