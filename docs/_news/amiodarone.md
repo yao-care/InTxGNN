@@ -14,7 +14,7 @@ permalink: /news/amiodarone/
 ---
 
 <p class="key-answer" data-question="What news is there about Amiodarone?">
-<strong>Amiodarone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Amiodarone</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Amiodarone with the latest h
 <li>incessant infant ventricular tachycardia (99.7%)</li>
 <li>ventricular tachycardia (99.6%)</li>
 <li>obsolete bundle branch block (99.6%)</li>
-<li>rheumatoid arthritis (99.4%)</li>
+<li class="indication-matched">rheumatoid arthritis (99.4%)<span class="indication-tag">📰 RA</span></li>
 <li>brachydactyly-syndactyly syndrome (99.4%)</li>
 <li>heparin cofactor 2 deficiency (99.4%)</li>
 <li>trichotillomania (99.3%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Amiodarone with the latest h
 <p><a href="{{ '/drugs/amiodarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [New research suggests vaccines could help prevent autism - Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
+
+2026-10-01 <span class="news-indication-tag">RA</span>
+
+Source: [Gavi, the Vaccine Alliance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/pembrolizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Pembrolizumab?">
-<strong>Pembrolizumab</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Pembrolizumab</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Pembrolizumab with the lates
 <p><a href="{{ '/drugs/pembrolizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Pembrolizumab-Olaparib Delays Ovarian Cancer Progression - European Medical Journal](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeU50QVVjbno2SEJpejJENk9xcFdkUDlZNVlyVTJkWkx6Zld2cU9KTmkwWXdHOWVSVjRLajJ4SVFsbzdMNGhtVHNiWGdPN2N6QXJNVFA5TWJuSTBvcHVNTW0yaW5kZkxSa1dBZkxwb0hpd1picTYtY0puS2x4T3hCNXd0Vm4zU1M1dkQzSUJBWTF4QUIzYkxSLWdaWXBHdGs?oc=5)
+
+2026-10-04 <span class="news-drug-tag">PEMBROLIZUMAB</span> <span class="news-drug-tag">OLAPARIB</span> <span class="news-drug-tag">Olaparib</span> <span class="news-drug-tag">Pembrolizumab</span>
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeU50QVVjbno2SEJpejJENk9xcFdkUDlZNVlyVTJkWkx6Zld2cU9KTmkwWXdHOWVSVjRLajJ4SVFsbzdMNGhtVHNiWGdPN2N6QXJNVFA5TWJuSTBvcHVNTW0yaW5kZkxSa1dBZkxwb0hpd1picTYtY0puS2x4T3hCNXd0Vm4zU1M1dkQzSUJBWTF4QUIzYkxSLWdaWXBHdGs?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/doxapram/
 ---
 
 <p class="key-answer" data-question="What news is there about Doxapram?">
-<strong>Doxapram</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Doxapram</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Doxapram with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>vascular disease (100.0%)</li>
+<li class="indication-matched">vascular disease (100.0%)<span class="indication-tag">📰 vascular disease</span></li>
 <li>venous thoracic outlet syndrome (100.0%)</li>
 <li>arterial thoracic outlet syndrome (100.0%)</li>
 <li>angiodysplasia of stomach (100.0%)</li>
@@ -40,9 +40,47 @@ This page combines the AI-predicted indications for Doxapram with the latest hea
 <p><a href="{{ '/drugs/doxapram/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (5)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [What your eyes could reveal about your heart health and disease risk - Business Standard](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHJIR2tncjM2Q1NZU0twTlk2Sk1mU0RKWmdFbmkwVk1ZeGpzLW1ZWnVoenotV3VfdThpaHF6MGh0ekVPU2xZV1c4MGdwbTZuRmtWSV8zSmJFMFVhOWZqTTVSQUFrcnZKejNZcUxhQm5PS1RseTJ3Q0dKR2lpWHlqdktKTkhwTXdpMWFTTmJPNWtMYzNtcTBVd05LaGtvRHlkZUg3QkpTYVpFMkJhQVVpSTZ6UUFMdFJVeWVWcjI2Z0NIaUpvM0dTTtIBzgFBVV95cUxOeFJtYWg5Tk5qSnJZeVFBT1FaUmpjS3NrOHBLSmUwVktqUHdUZnpSNmFrY05nTUI3UE83cVh0bGg4SzlwNUNnQ1FsLU9FZU1Iamlpd3pVV0R0SzE3amtpejJjZERpWUMxalJpUUk1VHQ5M3hXSmlGVnZFTVZSNDdmc3hvZkgzTzJadGNHQzNiOFliR2NWdEhrdEgyVkdwRmlacnhxQUo1MmlOY211MXI1OXBfelB5ZXJfWEp5dlF5UmM2cWdHV3hQTldmTjBRQQ?oc=5)
+
+2026-10-04 <span class="news-indication-tag">heart disease</span>
+
+Source: [Business Standard](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHJIR2tncjM2Q1NZU0twTlk2Sk1mU0RKWmdFbmkwVk1ZeGpzLW1ZWnVoenotV3VfdThpaHF6MGh0ekVPU2xZV1c4MGdwbTZuRmtWSV8zSmJFMFVhOWZqTTVSQUFrcnZKejNZcUxhQm5PS1RseTJ3Q0dKR2lpWHlqdktKTkhwTXdpMWFTTmJPNWtMYzNtcTBVd05LaGtvRHlkZUg3QkpTYVpFMkJhQVVpSTZ6UUFMdFJVeWVWcjI2Z0NIaUpvM0dTTtIBzgFBVV95cUxOeFJtYWg5Tk5qSnJZeVFBT1FaUmpjS3NrOHBLSmUwVktqUHdUZnpSNmFrY05nTUI3UE83cVh0bGg4SzlwNUNnQ1FsLU9FZU1Iamlpd3pVV0R0SzE3amtpejJjZERpWUMxalJpUUk1VHQ5M3hXSmlGVnZFTVZSNDdmc3hvZkgzTzJadGNHQzNiOFliR2NWdEhrdEgyVkdwRmlacnhxQUo1MmlOY211MXI1OXBfelB5ZXJfWEp5dlF5UmM2cWdHV3hQTldmTjBRQQ?oc=5)
+
+---
+
+### [AISA activists return to Jantar Mantar after chief Neha Bora’s call, several detained](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdm80dFZ2QTgtOXRRZWFEc2NNYy1YWGhZOHB2VWNQRmI1amZjZ29uVnRkVTRydUlqNF9hTHRfYVpXTTU1N1ljS3V0b2RYdDJkOG9kd0tiOU12MEpNSEs1a3R3cXFnVVMyRDA3ZTdPaUtLc3Y3LVBfWVBuTjEzS2c2SmlkLWxrdWFyYUFEeU5PYThOcjdiQk5hR2ZTMWJHRFdsbmozRzhqbVFpNmlVZk5Hcm1ZLXgwSFE1bURvU1dn0gHDAUFVX3lxTE1ZbmtkdkwtZlFNanp2WlV5eVJ6MGt6UTRNRlh0S2NSMmVMeXlETURPVGZuM1FFUERhcUlrbmJTTDJUZTZCTGR2S2NnTUNHb25uc21fRHREdTJuRTQ3WlVlaEFvMzM4TEF6VVV2STJJcmNHZmFaVlJqMVp0WW5USnROcG8wT2NRN2VlSlFQbFRrYV9vQjZUR2wxVUE2U0JERzlMdHI3LVdWVFBweFhpWEtRTW5vQUlkeFdwR1BTN3lOVTNoVQ?oc=5)
+
+2026-10-03 <span class="news-indication-tag">heart disease</span>
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdm80dFZ2QTgtOXRRZWFEc2NNYy1YWGhZOHB2VWNQRmI1amZjZ29uVnRkVTRydUlqNF9hTHRfYVpXTTU1N1ljS3V0b2RYdDJkOG9kd0tiOU12MEpNSEs1a3R3cXFnVVMyRDA3ZTdPaUtLc3Y3LVBfWVBuTjEzS2c2SmlkLWxrdWFyYUFEeU5PYThOcjdiQk5hR2ZTMWJHRFdsbmozRzhqbVFpNmlVZk5Hcm1ZLXgwSFE1bURvU1dn0gHDAUFVX3lxTE1ZbmtkdkwtZlFNanp2WlV5eVJ6MGt6UTRNRlh0S2NSMmVMeXlETURPVGZuM1FFUERhcUlrbmJTTDJUZTZCTGR2S2NnTUNHb25uc21fRHREdTJuRTQ3WlVlaEFvMzM4TEF6VVV2STJJcmNHZmFaVlJqMVp0WW5USnROcG8wT2NRN2VlSlFQbFRrYV9vQjZUR2wxVUE2U0JERzlMdHI3LVdWVFBweFhpWEtRTW5vQUlkeFdwR1BTN3lOVTNoVQ?oc=5)
+
+---
+
+### [Diabetes is a ‘silent driver’ of heart disease, heart attacks: Experts](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV1lsNzgzY1RLbF95b2ZlUThfaUhVQ1NBOF9iX2JJMExETWtXSHk1UklEUUpIMXhDaEVJQjNxLW5LMXhsMmRaNEdJTFpnekNBVDZ5NDQ4S09yOTkwRmtOTU1tQnlRYVdkQzVFS2hySnZVdEYwdGtPa3NUV2ozSEIzQ0d1Vk9SVmc0el9STDJyM0xkVW54VnFwOVdMTjE5eThEWkNrNm5CbzJsNXp0eDdBbmNiTHh6eGl5?oc=5)
+
+2026-10-03 <span class="news-indication-tag">heart disease</span>
+
+Source: [awazthevoice.in](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV1lsNzgzY1RLbF95b2ZlUThfaUhVQ1NBOF9iX2JJMExETWtXSHk1UklEUUpIMXhDaEVJQjNxLW5LMXhsMmRaNEdJTFpnekNBVDZ5NDQ4S09yOTkwRmtOTU1tQnlRYVdkQzVFS2hySnZVdEYwdGtPa3NUV2ozSEIzQ0d1Vk9SVmc0el9STDJyM0xkVW54VnFwOVdMTjE5eThEWkNrNm5CbzJsNXp0eDdBbmNiTHh6eGl5?oc=5)
+
+---
+
+### [Leg pain while walking? Don’t blame it on ageing: These warning signs could point to blocked arteries and raise your risk of heart attack and stroke, cardiologist explains - The Times of India](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPbnRNVF81TV9VNHVCZGZ4TUJYWlJEQm1rZHJHajIyYS1uLVdQMXhJRVNUcTc0SEJZbmdLSy0wMUtuRjVGS1hnVWpQelI0RHd4RG5Ja2liTHBCNjVqNnZNRktJbGNXWi10eWFXbDVONWlKdDNpMXNlR09FLXQ3TUxYY2p5cjBCUUlPZjhfUGIwMk85Y2I5UkJiWmdPZ3hSRy1CejBFdUgxYlBDblBsc3k3RC04QUowaEtTaERJdVVXZkVOWVhkMW5JaUlkc0ZyTHBXc2dzSUw0R3lScVB6TV8wRVFWRlhmWndqQnpSUkd3QWdEOUpmS0NxbUNPa3ZLNGNCdTlubkJGUGNEYkFleE4wcWxFZm93Q3ZmOUE2ZUczN3N6dG9jRjFFUDJ1dW1GV0JMWXE2cWxYTmFRSm5jSS1yWTJFekdwdE5rQnV0bW1LVTZubkJNbDRudTUwN1YxaG5KZFVtamNma9IB7wJBVV95cUxNYkFRMG5MNUZjN044OWdhUGEyeVpvakEzRWI4U2R6S1ZuRmdqUDZnUVFzc3lHOFRuaHI0TV9oRUJYbHZkMlN4UWFRNDRKV2xldkN1eVJyTE42bmZmYTVwVWdWTkoxQzkxLVMyRDkySHhGVWRyN1BMSVB6LVhmZEQwRDNMblpvaDhNZGhMb1ZUazBLUWw4WkhZYWJ2SHpseDNEY21YcnpHT0xrdGQ3QlZkSlRTLXRYYzlJbFhHYVhJSmpnSzBnZlZEMmRYSERoWXFXQk9veUJDS2FYcUM2ajBtaU55NHZCak1lSW5TNGUyYVc4a29zd3pJUjNNX1JJdkI2YllYOGZvZi1jUS1wRUJmTG54OVF4T1UtQmQ5Tnp6dUU5aDJYT0VvQlBFQVB0dVlmT2Vfa0lVaTF3cmg4QUVBYXRBNklqc2Qwd2Y2ZDRCNFdGaU1mLTUwdG5tcndybl9oNGllUG1MeDh6V3EzSExr?oc=5)
+
+2026-09-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">vascular disease</span> <span class="news-indication-tag">peripheral vascular disease</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPbnRNVF81TV9VNHVCZGZ4TUJYWlJEQm1rZHJHajIyYS1uLVdQMXhJRVNUcTc0SEJZbmdLSy0wMUtuRjVGS1hnVWpQelI0RHd4RG5Ja2liTHBCNjVqNnZNRktJbGNXWi10eWFXbDVONWlKdDNpMXNlR09FLXQ3TUxYY2p5cjBCUUlPZjhfUGIwMk85Y2I5UkJiWmdPZ3hSRy1CejBFdUgxYlBDblBsc3k3RC04QUowaEtTaERJdVVXZkVOWVhkMW5JaUlkc0ZyTHBXc2dzSUw0R3lScVB6TV8wRVFWRlhmWndqQnpSUkd3QWdEOUpmS0NxbUNPa3ZLNGNCdTlubkJGUGNEYkFleE4wcWxFZm93Q3ZmOUE2ZUczN3N6dG9jRjFFUDJ1dW1GV0JMWXE2cWxYTmFRSm5jSS1yWTJFekdwdE5rQnV0bW1LVTZubkJNbDRudTUwN1YxaG5KZFVtamNma9IB7wJBVV95cUxNYkFRMG5MNUZjN044OWdhUGEyeVpvakEzRWI4U2R6S1ZuRmdqUDZnUVFzc3lHOFRuaHI0TV9oRUJYbHZkMlN4UWFRNDRKV2xldkN1eVJyTE42bmZmYTVwVWdWTkoxQzkxLVMyRDkySHhGVWRyN1BMSVB6LVhmZEQwRDNMblpvaDhNZGhMb1ZUazBLUWw4WkhZYWJ2SHpseDNEY21YcnpHT0xrdGQ3QlZkSlRTLXRYYzlJbFhHYVhJSmpnSzBnZlZEMmRYSERoWXFXQk9veUJDS2FYcUM2ajBtaU55NHZCak1lSW5TNGUyYVc4a29zd3pJUjNNX1JJdkI2YllYOGZvZi1jUS1wRUJmTG54OVF4T1UtQmQ5Tnp6dUU5aDJYT0VvQlBFQVB0dVlmT2Vfa0lVaTF3cmg4QUVBYXRBNklqc2Qwd2Y2ZDRCNFdGaU1mLTUwdG5tcndybl9oNGllUG1MeDh6V3EzSExr?oc=5)
+
+---
+
+### [A survey of 371,000 adults links heart disease to eating whole fruit less often](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
+
+2026-09-28 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
+
+---
 
 
 <div class="disclaimer">

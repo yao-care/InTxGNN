@@ -14,7 +14,7 @@ permalink: /news/streptokinase/
 ---
 
 <p class="key-answer" data-question="What news is there about Streptokinase?">
-<strong>Streptokinase</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Streptokinase</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,39 @@ This page combines the AI-predicted indications for Streptokinase with the lates
 <p><a href="{{ '/drugs/streptokinase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (4)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [What your eyes could reveal about your heart health and disease risk - Business Standard](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHJIR2tncjM2Q1NZU0twTlk2Sk1mU0RKWmdFbmkwVk1ZeGpzLW1ZWnVoenotV3VfdThpaHF6MGh0ekVPU2xZV1c4MGdwbTZuRmtWSV8zSmJFMFVhOWZqTTVSQUFrcnZKejNZcUxhQm5PS1RseTJ3Q0dKR2lpWHlqdktKTkhwTXdpMWFTTmJPNWtMYzNtcTBVd05LaGtvRHlkZUg3QkpTYVpFMkJhQVVpSTZ6UUFMdFJVeWVWcjI2Z0NIaUpvM0dTTtIBzgFBVV95cUxOeFJtYWg5Tk5qSnJZeVFBT1FaUmpjS3NrOHBLSmUwVktqUHdUZnpSNmFrY05nTUI3UE83cVh0bGg4SzlwNUNnQ1FsLU9FZU1Iamlpd3pVV0R0SzE3amtpejJjZERpWUMxalJpUUk1VHQ5M3hXSmlGVnZFTVZSNDdmc3hvZkgzTzJadGNHQzNiOFliR2NWdEhrdEgyVkdwRmlacnhxQUo1MmlOY211MXI1OXBfelB5ZXJfWEp5dlF5UmM2cWdHV3hQTldmTjBRQQ?oc=5)
+
+2026-10-04 <span class="news-indication-tag">heart disease</span>
+
+Source: [Business Standard](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHJIR2tncjM2Q1NZU0twTlk2Sk1mU0RKWmdFbmkwVk1ZeGpzLW1ZWnVoenotV3VfdThpaHF6MGh0ekVPU2xZV1c4MGdwbTZuRmtWSV8zSmJFMFVhOWZqTTVSQUFrcnZKejNZcUxhQm5PS1RseTJ3Q0dKR2lpWHlqdktKTkhwTXdpMWFTTmJPNWtMYzNtcTBVd05LaGtvRHlkZUg3QkpTYVpFMkJhQVVpSTZ6UUFMdFJVeWVWcjI2Z0NIaUpvM0dTTtIBzgFBVV95cUxOeFJtYWg5Tk5qSnJZeVFBT1FaUmpjS3NrOHBLSmUwVktqUHdUZnpSNmFrY05nTUI3UE83cVh0bGg4SzlwNUNnQ1FsLU9FZU1Iamlpd3pVV0R0SzE3amtpejJjZERpWUMxalJpUUk1VHQ5M3hXSmlGVnZFTVZSNDdmc3hvZkgzTzJadGNHQzNiOFliR2NWdEhrdEgyVkdwRmlacnhxQUo1MmlOY211MXI1OXBfelB5ZXJfWEp5dlF5UmM2cWdHV3hQTldmTjBRQQ?oc=5)
+
+---
+
+### [AISA activists return to Jantar Mantar after chief Neha Bora’s call, several detained](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdm80dFZ2QTgtOXRRZWFEc2NNYy1YWGhZOHB2VWNQRmI1amZjZ29uVnRkVTRydUlqNF9hTHRfYVpXTTU1N1ljS3V0b2RYdDJkOG9kd0tiOU12MEpNSEs1a3R3cXFnVVMyRDA3ZTdPaUtLc3Y3LVBfWVBuTjEzS2c2SmlkLWxrdWFyYUFEeU5PYThOcjdiQk5hR2ZTMWJHRFdsbmozRzhqbVFpNmlVZk5Hcm1ZLXgwSFE1bURvU1dn0gHDAUFVX3lxTE1ZbmtkdkwtZlFNanp2WlV5eVJ6MGt6UTRNRlh0S2NSMmVMeXlETURPVGZuM1FFUERhcUlrbmJTTDJUZTZCTGR2S2NnTUNHb25uc21fRHREdTJuRTQ3WlVlaEFvMzM4TEF6VVV2STJJcmNHZmFaVlJqMVp0WW5USnROcG8wT2NRN2VlSlFQbFRrYV9vQjZUR2wxVUE2U0JERzlMdHI3LVdWVFBweFhpWEtRTW5vQUlkeFdwR1BTN3lOVTNoVQ?oc=5)
+
+2026-10-03 <span class="news-indication-tag">heart disease</span>
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdm80dFZ2QTgtOXRRZWFEc2NNYy1YWGhZOHB2VWNQRmI1amZjZ29uVnRkVTRydUlqNF9hTHRfYVpXTTU1N1ljS3V0b2RYdDJkOG9kd0tiOU12MEpNSEs1a3R3cXFnVVMyRDA3ZTdPaUtLc3Y3LVBfWVBuTjEzS2c2SmlkLWxrdWFyYUFEeU5PYThOcjdiQk5hR2ZTMWJHRFdsbmozRzhqbVFpNmlVZk5Hcm1ZLXgwSFE1bURvU1dn0gHDAUFVX3lxTE1ZbmtkdkwtZlFNanp2WlV5eVJ6MGt6UTRNRlh0S2NSMmVMeXlETURPVGZuM1FFUERhcUlrbmJTTDJUZTZCTGR2S2NnTUNHb25uc21fRHREdTJuRTQ3WlVlaEFvMzM4TEF6VVV2STJJcmNHZmFaVlJqMVp0WW5USnROcG8wT2NRN2VlSlFQbFRrYV9vQjZUR2wxVUE2U0JERzlMdHI3LVdWVFBweFhpWEtRTW5vQUlkeFdwR1BTN3lOVTNoVQ?oc=5)
+
+---
+
+### [Diabetes is a ‘silent driver’ of heart disease, heart attacks: Experts](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV1lsNzgzY1RLbF95b2ZlUThfaUhVQ1NBOF9iX2JJMExETWtXSHk1UklEUUpIMXhDaEVJQjNxLW5LMXhsMmRaNEdJTFpnekNBVDZ5NDQ4S09yOTkwRmtOTU1tQnlRYVdkQzVFS2hySnZVdEYwdGtPa3NUV2ozSEIzQ0d1Vk9SVmc0el9STDJyM0xkVW54VnFwOVdMTjE5eThEWkNrNm5CbzJsNXp0eDdBbmNiTHh6eGl5?oc=5)
+
+2026-10-03 <span class="news-indication-tag">heart disease</span>
+
+Source: [awazthevoice.in](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV1lsNzgzY1RLbF95b2ZlUThfaUhVQ1NBOF9iX2JJMExETWtXSHk1UklEUUpIMXhDaEVJQjNxLW5LMXhsMmRaNEdJTFpnekNBVDZ5NDQ4S09yOTkwRmtOTU1tQnlRYVdkQzVFS2hySnZVdEYwdGtPa3NUV2ozSEIzQ0d1Vk9SVmc0el9STDJyM0xkVW54VnFwOVdMTjE5eThEWkNrNm5CbzJsNXp0eDdBbmNiTHh6eGl5?oc=5)
+
+---
+
+### [A survey of 371,000 adults links heart disease to eating whole fruit less often](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
+
+2026-09-28 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
+
+---
 
 
 <div class="disclaimer">
