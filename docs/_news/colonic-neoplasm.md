@@ -31,11 +31,11 @@ This page brings together the latest health news about “colon cancer” and li
 
 ## Related News (1)
 
-### [Appendectomy Linked to Lower Colorectal Cancer Risk](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUJlbVJSeXpndlM2eHY1VEhNeWhhU1VDVkpERGJDR0FNbzVLbjlUUGRJcUNiQmpOcHhYWjdscGJocG9qTHl3WFhMSXhNTzN2MXUybTlrOFd6MzNla29HWGt4TUxMaE9xeEtpUGdDcnUwQ0MzVjFpZFQ2cGlTckVaeEdab1BsekRaRW4tYUlFRQ?oc=5)
+### [Appendectomy Linked to Lower Colorectal Cancer Risk - The Indian Practitioner](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUJlbVJSeXpndlM2eHY1VEhNeWhhU1VDVkpERGJDR0FNbzVLbjlUUGRJcUNiQmpOcHhYWjdscGJocG9qTHl3WFhMSXhNTzN2MXUybTlrOFd6MzNla29HWGt4TUxMaE9xeEtpUGdDcnUwQ0MzVjFpZFQ2cGlTckVaeEdab1BsekRaRW4tYUlFRQ?oc=5)
 
 2026-10-03
 
-Source: [theindianpractitioner.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUJlbVJSeXpndlM2eHY1VEhNeWhhU1VDVkpERGJDR0FNbzVLbjlUUGRJcUNiQmpOcHhYWjdscGJocG9qTHl3WFhMSXhNTzN2MXUybTlrOFd6MzNla29HWGt4TUxMaE9xeEtpUGdDcnUwQ0MzVjFpZFQ2cGlTckVaeEdab1BsekRaRW4tYUlFRQ?oc=5)
+Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUJlbVJSeXpndlM2eHY1VEhNeWhhU1VDVkpERGJDR0FNbzVLbjlUUGRJcUNiQmpOcHhYWjdscGJocG9qTHl3WFhMSXhNTzN2MXUybTlrOFd6MzNla29HWGt4TUxMaE9xeEtpUGdDcnUwQ0MzVjFpZFQ2cGlTckVaeEdab1BsekRaRW4tYUlFRQ?oc=5)
 
 ---
 

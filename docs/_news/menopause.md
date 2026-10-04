@@ -3,7 +3,7 @@ layout: default
 title: "menopause News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause. 1 articles, 23 related drugs."
+description: "Health news about menopause. 3 articles, 23 related drugs."
 permalink: /news/menopause/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause/
 ---
 
 <p class="key-answer" data-question="What news is there about menopause?">
-<strong>menopause</strong> currently has <strong>1 news articles</strong> and 23 related drugs.
+<strong>menopause</strong> currently has <strong>3 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,29 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (3)
 
 ### [HRT for Menopause and CV Risk: Two Observational Studies Provide Insights](https://news.google.com/rss/articles/CBMimwFBVV95cUxNal9WRTZuM2R1WG1kTjFLbERxMGJGa1dlUXBjci1iS2JqcGl2TlFtbmZSU19FN3M1Zi1kcTA1YWdqOW9EVHd1RVk5Qk1xc2pnbmNTY1pDRUhpTVNyX3d0am9jMU5IcVpSQlY3T1I4UjRyN0Q1bHJUZVBKWFpIa2tyVmwzSUllQy1jakVQR2F4ZVprMGNEQnRoTWlzMA?oc=5)
 
 2026-10-02
 
-Source: [tctmd.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNal9WRTZuM2R1WG1kTjFLbERxMGJGa1dlUXBjci1iS2JqcGl2TlFtbmZSU19FN3M1Zi1kcTA1YWdqOW9EVHd1RVk5Qk1xc2pnbmNTY1pDRUhpTVNyX3d0am9jMU5IcVpSQlY3T1I4UjRyN0Q1bHJUZVBKWFpIa2tyVmwzSUllQy1jakVQR2F4ZVprMGNEQnRoTWlzMA?oc=5)
+Source: [TCTMD.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNal9WRTZuM2R1WG1kTjFLbERxMGJGa1dlUXBjci1iS2JqcGl2TlFtbmZSU19FN3M1Zi1kcTA1YWdqOW9EVHd1RVk5Qk1xc2pnbmNTY1pDRUhpTVNyX3d0am9jMU5IcVpSQlY3T1I4UjRyN0Q1bHJUZVBKWFpIa2tyVmwzSUllQy1jakVQR2F4ZVprMGNEQnRoTWlzMA?oc=5)
+
+---
+
+### [Menopause puts the brain at risk. Researchers are starting to learn why](https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjVzVWFDdHVILURpNVVXZGZ4RTlTOXJlWEE2MVAwQXM5Q3Y3THpORHJ1LVRPWlpJSkF3enhlaTJZZ3RYQTdjTXd1ZEpCX2JIbk9YcG1pTWlGTTUtdjk4NVJYTko0Y0p3SFZ0NTB4SHAwY1d4MVBFZ1B5YVlGRmZLcXFxRUNNckVLazRWam9CTnpoRnJFVTU2ZG1DWk9vaFRJOUE?oc=5)
+
+2026-10-01
+
+Source: [science.org](https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjVzVWFDdHVILURpNVVXZGZ4RTlTOXJlWEE2MVAwQXM5Q3Y3THpORHJ1LVRPWlpJSkF3enhlaTJZZ3RYQTdjTXd1ZEpCX2JIbk9YcG1pTWlGTTUtdjk4NVJYTko0Y0p3SFZ0NTB4SHAwY1d4MVBFZ1B5YVlGRmZLcXFxRUNNckVLazRWam9CTnpoRnJFVTU2ZG1DWk9vaFRJOUE?oc=5)
+
+---
+
+### [The Age You Reach Menopause May Be Linked to Your Future Brain Health, 18-Year Study Finds](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
+
+2026-09-28
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
 
 ---
 

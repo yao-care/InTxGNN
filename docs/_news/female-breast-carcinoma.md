@@ -3,7 +3,7 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 2 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 3 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>2 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>3 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Breast Cancer Awareness Month—What Women Should Know About Risk, Screening And Prevention](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYS0wYURrbWNVZFk1dDZhcnB0WjZicDBwUkRvRkFmRGJ6Qmt0Tmp4ZGVqNTNJR3Bhd2kxaWJ6Ykoxd3NxZHRDcVk5bDNKc3N0dHJ5eEdHMi1vT1JfN2tMNm80SzRZcTZXY19hOVhVMlZjbHRWd1pxUnFJNEpMVWY1Q1k1dVFxbkR4UUZDUkdzWGdPejlMR0oyZXBjVGZjYmZKeHRSS2VKZXV0VVlaYTNETENqbENVaHExeDE3b0lQNFYyNWptVmM1blVJams1eEE5TTBTbA?oc=5)
 
@@ -47,11 +47,19 @@ Source: [Forbes](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYS0wYURrbW
 
 ---
 
-### [Breast cancer cases rise among women aged 25–35, experts flag concern](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXpDRno0TGdfSkhvZXRmeTJpV0x5VFdJcXBZVkNnMURid29aNnJxYVB6Q1BkdDJOR25ESEdnXzlubmdKY0Z6V3kzSnkwZE1WOVptWVVPWEh4Sm1fRlp1ZU5mNVdXTXZEYjBLOC1PX0hrYWppcENsRjVXYl9EeXM1OS1KaW5ZYndUdVBWbDFmZ1BCS2F1Rlo2Z1E1dDR6VzNPUXJ4V2xmU1dQNlFjblY3UdIBtAFBVV95cUxPYUd2cjljazlzZFhGX2kxQ2o5OUFsMGRZdWhxUlhOWkxnVk9CVVFOZUhsai1ubjNNWWE4YlJYLTRJVm1lVjd6LXgxc3o0WTlXdEhGczFYanJScVJjQzYyY2U0WFJsZEtab1FIQkFkUkFaR19TSHEtaUVOdFJjVzNpLUtEalRmWWFuSVVtWjVINHh2QjJsQWJVaUZlTlE4dS1lc0NIdW03Xy1paEZiTEZxd3NvOGk?oc=5)
+### [Breast cancer cases rise among women aged 25–35, experts flag concern - The Tribune](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXpDRno0TGdfSkhvZXRmeTJpV0x5VFdJcXBZVkNnMURid29aNnJxYVB6Q1BkdDJOR25ESEdnXzlubmdKY0Z6V3kzSnkwZE1WOVptWVVPWEh4Sm1fRlp1ZU5mNVdXTXZEYjBLOC1PX0hrYWppcENsRjVXYl9EeXM1OS1KaW5ZYndUdVBWbDFmZ1BCS2F1Rlo2Z1E1dDR6VzNPUXJ4V2xmU1dQNlFjblY3UdIBtAFBVV95cUxPYUd2cjljazlzZFhGX2kxQ2o5OUFsMGRZdWhxUlhOWkxnVk9CVVFOZUhsai1ubjNNWWE4YlJYLTRJVm1lVjd6LXgxc3o0WTlXdEhGczFYanJScVJjQzYyY2U0WFJsZEtab1FIQkFkUkFaR19TSHEtaUVOdFJjVzNpLUtEalRmWWFuSVVtWjVINHh2QjJsQWJVaUZlTlE4dS1lc0NIdW03Xy1paEZiTEZxd3NvOGk?oc=5)
 
 2026-10-03
 
-Source: [tribuneindia.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXpDRno0TGdfSkhvZXRmeTJpV0x5VFdJcXBZVkNnMURid29aNnJxYVB6Q1BkdDJOR25ESEdnXzlubmdKY0Z6V3kzSnkwZE1WOVptWVVPWEh4Sm1fRlp1ZU5mNVdXTXZEYjBLOC1PX0hrYWppcENsRjVXYl9EeXM1OS1KaW5ZYndUdVBWbDFmZ1BCS2F1Rlo2Z1E1dDR6VzNPUXJ4V2xmU1dQNlFjblY3UdIBtAFBVV95cUxPYUd2cjljazlzZFhGX2kxQ2o5OUFsMGRZdWhxUlhOWkxnVk9CVVFOZUhsai1ubjNNWWE4YlJYLTRJVm1lVjd6LXgxc3o0WTlXdEhGczFYanJScVJjQzYyY2U0WFJsZEtab1FIQkFkUkFaR19TSHEtaUVOdFJjVzNpLUtEalRmWWFuSVVtWjVINHh2QjJsQWJVaUZlTlE4dS1lc0NIdW03Xy1paEZiTEZxd3NvOGk?oc=5)
+Source: [The Tribune](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXpDRno0TGdfSkhvZXRmeTJpV0x5VFdJcXBZVkNnMURid29aNnJxYVB6Q1BkdDJOR25ESEdnXzlubmdKY0Z6V3kzSnkwZE1WOVptWVVPWEh4Sm1fRlp1ZU5mNVdXTXZEYjBLOC1PX0hrYWppcENsRjVXYl9EeXM1OS1KaW5ZYndUdVBWbDFmZ1BCS2F1Rlo2Z1E1dDR6VzNPUXJ4V2xmU1dQNlFjblY3UdIBtAFBVV95cUxPYUd2cjljazlzZFhGX2kxQ2o5OUFsMGRZdWhxUlhOWkxnVk9CVVFOZUhsai1ubjNNWWE4YlJYLTRJVm1lVjd6LXgxc3o0WTlXdEhGczFYanJScVJjQzYyY2U0WFJsZEtab1FIQkFkUkFaR19TSHEtaUVOdFJjVzNpLUtEalRmWWFuSVVtWjVINHh2QjJsQWJVaUZlTlE4dS1lc0NIdW03Xy1paEZiTEZxd3NvOGk?oc=5)
+
+---
+
+### [How disrupted sleep can affect breast cancer risk - NBC News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFdBWmdOMFFYSnpQQWVtRDVxeFFhVnFJOTU3VlJmWFVBTDlibWlPbElfNURiQ3NVMnJiRmtYNHhSMTNxN01tOERrY2JxWTRBZG5WaGxwVVQxcFNyTU1QSWdRX2hKakp4UkRZNE11MTNvMG9oa2x3bWJySGo3M2FsUHd0Y00tcGd4MnRXbExoR0ZETUh1bmZZ?oc=5)
+
+2026-09-28
+
+Source: [NBC News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFdBWmdOMFFYSnpQQWVtRDVxeFFhVnFJOTU3VlJmWFVBTDlibWlPbElfNURiQ3NVMnJiRmtYNHhSMTNxN01tOERrY2JxWTRBZG5WaGxwVVQxcFNyTU1QSWdRX2hKakp4UkRZNE11MTNvMG9oa2x3bWJySGo3M2FsUHd0Y00tcGd4MnRXbExoR0ZETUh1bmZZ?oc=5)
 
 ---
 
