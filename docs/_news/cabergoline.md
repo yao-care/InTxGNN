@@ -14,7 +14,7 @@ permalink: /news/cabergoline/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabergoline?">
-<strong>Cabergoline</strong> currently has <strong>9 news articles</strong>, with 5 predicted indications.
+<strong>Cabergoline</strong> currently has <strong>10 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page combines the AI-predicted indications for Cabergoline with the latest 
 <p><a href="{{ '/drugs/cabergoline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [Infection-Related Cancers Cause One in Eight Cases Globally - European Medical Journal](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzd2RnpzUUM2cEU3QU5zYVE2dm1RSkhOUWFqNE9PU3phcTF5UTZUdmNzU2RucU1Ia0tsbFhhQ2FOQU1vTkw2OUNsNUs5Yzd6T2lkX25sVFdGRHptTWI5VU9RUTNrQWg1OGp6OTkwMEZZTHFxaXpaUFJFQ1NzZTkwdFQyQXdpU0YxRWI1T3VmQVpLNEVwSS1vbHNjWlhqbEtJWkZj?oc=5)
 
@@ -53,6 +53,14 @@ Source: [NDTV](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQl9yVm9yZVZQ
 
 ---
 
+### [Eradicating H. pylori can prevent gastric cancer, says Nobel laureate Barry Marshall](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa19kWGZmWFNBaXpJSS1YalNxVmpvUm4tdEotUTQtYkp4RmFZVDRsM21NVU5GXzFIQVFUZWFLaGYxV2taYWNaTy1KVzVzYk51anJuWHJnYzhva3B1cVRjdnRWY2pTSHhCanl0Y294VUN1aEhDYi1PTU1FaVBqMmYxaUFVTWZiZlVEWld3cXNXeVd2V2RwaFpFcEFsVFdpZmFPMFIxS1hza0txZ3BVamwxUHZfWm1mUzRFQlZCXzFtNU0yNUx2ang3UGItNUtKSWI3VXJzZ3Rad1AybkXSAeIBQVVfeXFMTTgwaWNQX0xtUlFyeDAyOWF2NHdXQ2JFeGRUSHhxRkJCa0FsczBTaGVaTUNGeHNzRVpRVThUVkFmYVRKYUFsRFdoNFk3aVNqcGdBc05BYl90d0tQUEY2YUlIYUNMcTdKZlN2R1FRNmZGLThRMWNlaHBBNWJrWjd6LTY0UER0aUtoeDE2TS0wZ2gtamZvUkFlalJkX2xmdnNNLUVBanVYc3IzWkpmSlE5RUc0elZKYjlIYXlLY1JjYnZ1QVVvSXUwa0dYcVNZWVIyYk9sQXlmSUhDVDd4UzczcFRxdw?oc=5)
+
+2026-10-04 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">cancer</span>
+
+Source: [thehindu.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa19kWGZmWFNBaXpJSS1YalNxVmpvUm4tdEotUTQtYkp4RmFZVDRsM21NVU5GXzFIQVFUZWFLaGYxV2taYWNaTy1KVzVzYk51anJuWHJnYzhva3B1cVRjdnRWY2pTSHhCanl0Y294VUN1aEhDYi1PTU1FaVBqMmYxaUFVTWZiZlVEWld3cXNXeVd2V2RwaFpFcEFsVFdpZmFPMFIxS1hza0txZ3BVamwxUHZfWm1mUzRFQlZCXzFtNU0yNUx2ang3UGItNUtKSWI3VXJzZ3Rad1AybkXSAeIBQVVfeXFMTTgwaWNQX0xtUlFyeDAyOWF2NHdXQ2JFeGRUSHhxRkJCa0FsczBTaGVaTUNGeHNzRVpRVThUVkFmYVRKYUFsRFdoNFk3aVNqcGdBc05BYl90d0tQUEY2YUlIYUNMcTdKZlN2R1FRNmZGLThRMWNlaHBBNWJrWjd6LTY0UER0aUtoeDE2TS0wZ2gtamZvUkFlalJkX2xmdnNNLUVBanVYc3IzWkpmSlE5RUc0elZKYjlIYXlLY1JjYnZ1QVVvSXUwa0dYcVNZWVIyYk9sQXlmSUhDVDd4UzczcFRxdw?oc=5)
+
+---
+
 ### [When conventional therapies fail: Boost for nuclear medicine in cancer treatment - Telegraph India](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb013RzBJQkRBNHBPRzRvLWdiQnc1S1RXaUVkdEd5ZDg5enlEX05VcDZoU2x1V3hPVzJ5aEd2NW9EVVYxYmtFeWhKZHIwSmhNWmFRMHcxb0FWM25xOF9taUZDNkdfYkxwbzc0WXh4dVNnOWZ2NzRPMXRoeWphSG9vd3NSQ3ZxaGNxaWtnN1gwYWNDWmpwck10MXY1ODRIZExTWkNTWWxJc1ZxQkVKRl91ekhjWDBaVWdoWC1VZ3k2eE5BdGZ2X1c2M2NhNXlQZ0tGNXVkcE1zNUUwNTM4NmxRYdIB5gFBVV95cUxNRC01clZreWZrMWtHRVh4Yjlpak42a2dpOUg3R01xNVVrVHE4OGtCTnVNRGV4YUZTRjk3SkZMdjRpaDZjNU5adkhxR0hjVnRPbTA5Z3hzSGVOU0NaaGNma0U4RnZTeVZhY1lqMWNqVHF3eWJmRDF1RlEzMVc2MFE2Und3YWJUS05OaWNUM1VCb29TSk53UTFjRjEwSXRZZnlWTnE3ajVLS1kwT09ySGxUMkVNUlFacFJsT1pIUXl4Wmpxb1BWUVhZYTI0blNtaW02MjZUbkEzdVEyMDdZWGhfNlFmTThEQQ?oc=5)
 
 2026-10-03 <span class="news-indication-tag">cancer</span>
@@ -63,7 +71,7 @@ Source: [Telegraph India](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb
 
 ### [Breast cancer awareness month: Small steps toward staying breast aware - The New Indian Express](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMHN0a3o5bExHaTRDYnpWVW5GS2lVTERBLVIycldnVENZNUU1VjU2MGlvWmNtT0FyVHlsak5MaFFSQXI1TkhwZXFRV3JIN1dhajlVY1JrMWk1cWlDdVFIUVFVbzYyZUZpVHVtZ3lYZDJfOW1OTmNuckVsUjdVZWpkTlJ2bVZhQUlEVEg3Wmx4TFVEX1dHR0FrQmN1dE5RWXc0blNiemNZRzI0dXYtaG9sT2ZGaXRVTDhXVFdzQXAwZ0hJaFFCOXJMNWJaTdIB2AFBVV95cUxOWVlCb2hxRTZSQWhfMzJuVGZvSjBQSUJDSUZTTlJkalBjWjNoZXMtMU1VWmlRRi1jOE15YzJCOGpYNlRhcFRkdnhOdHMtZWtFaUJ0TU45M1l4VWR5eUVVSnMwaHNQTHlPVUt5N0VOa1FzdlFxRnI1UHR2aDZQU1F6RV9paGdPd3BjaGY1ZTlIZGZMSU5QSDFHeTVWZERzZVo1Z2dEZFR5Wm9NMDFuT29vRzdPZzA3ZUc3TkFrbElsbTlxV0E2TllNMWRKSXczaW1lZ0E5RmNaOFM?oc=5)
 
-2026-10-03 <span class="news-indication-tag">cancer</span>
+2026-10-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [The New Indian Express](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMHN0a3o5bExHaTRDYnpWVW5GS2lVTERBLVIycldnVENZNUU1VjU2MGlvWmNtT0FyVHlsak5MaFFSQXI1TkhwZXFRV3JIN1dhajlVY1JrMWk1cWlDdVFIUVFVbzYyZUZpVHVtZ3lYZDJfOW1OTmNuckVsUjdVZWpkTlJ2bVZhQUlEVEg3Wmx4TFVEX1dHR0FrQmN1dE5RWXc0blNiemNZRzI0dXYtaG9sT2ZGaXRVTDhXVFdzQXAwZ0hJaFFCOXJMNWJaTdIB2AFBVV95cUxOWVlCb2hxRTZSQWhfMzJuVGZvSjBQSUJDSUZTTlJkalBjWjNoZXMtMU1VWmlRRi1jOE15YzJCOGpYNlRhcFRkdnhOdHMtZWtFaUJ0TU45M1l4VWR5eUVVSnMwaHNQTHlPVUt5N0VOa1FzdlFxRnI1UHR2aDZQU1F6RV9paGdPd3BjaGY1ZTlIZGZMSU5QSDFHeTVWZERzZVo1Z2dEZFR5Wm9NMDFuT29vRzdPZzA3ZUc3TkFrbElsbTlxV0E2TllNMWRKSXczaW1lZ0E5RmNaOFM?oc=5)
 
@@ -71,7 +79,7 @@ Source: [The New Indian Express](https://news.google.com/rss/articles/CBMiywFBVV
 
 ### [Breast cancer cases rise among women aged 25–35, experts flag concern - The Tribune](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXpDRno0TGdfSkhvZXRmeTJpV0x5VFdJcXBZVkNnMURid29aNnJxYVB6Q1BkdDJOR25ESEdnXzlubmdKY0Z6V3kzSnkwZE1WOVptWVVPWEh4Sm1fRlp1ZU5mNVdXTXZEYjBLOC1PX0hrYWppcENsRjVXYl9EeXM1OS1KaW5ZYndUdVBWbDFmZ1BCS2F1Rlo2Z1E1dDR6VzNPUXJ4V2xmU1dQNlFjblY3UdIBtAFBVV95cUxPYUd2cjljazlzZFhGX2kxQ2o5OUFsMGRZdWhxUlhOWkxnVk9CVVFOZUhsai1ubjNNWWE4YlJYLTRJVm1lVjd6LXgxc3o0WTlXdEhGczFYanJScVJjQzYyY2U0WFJsZEtab1FIQkFkUkFaR19TSHEtaUVOdFJjVzNpLUtEalRmWWFuSVVtWjVINHh2QjJsQWJVaUZlTlE4dS1lc0NIdW03Xy1paEZiTEZxd3NvOGk?oc=5)
 
-2026-10-03 <span class="news-indication-tag">cancer</span>
+2026-10-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [The Tribune](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXpDRno0TGdfSkhvZXRmeTJpV0x5VFdJcXBZVkNnMURid29aNnJxYVB6Q1BkdDJOR25ESEdnXzlubmdKY0Z6V3kzSnkwZE1WOVptWVVPWEh4Sm1fRlp1ZU5mNVdXTXZEYjBLOC1PX0hrYWppcENsRjVXYl9EeXM1OS1KaW5ZYndUdVBWbDFmZ1BCS2F1Rlo2Z1E1dDR6VzNPUXJ4V2xmU1dQNlFjblY3UdIBtAFBVV95cUxPYUd2cjljazlzZFhGX2kxQ2o5OUFsMGRZdWhxUlhOWkxnVk9CVVFOZUhsai1ubjNNWWE4YlJYLTRJVm1lVjd6LXgxc3o0WTlXdEhGczFYanJScVJjQzYyY2U0WFJsZEtab1FIQkFkUkFaR19TSHEtaUVOdFJjVzNpLUtEalRmWWFuSVVtWjVINHh2QjJsQWJVaUZlTlE4dS1lc0NIdW03Xy1paEZiTEZxd3NvOGk?oc=5)
 

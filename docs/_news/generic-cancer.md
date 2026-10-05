@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 9 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 10 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>9 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>10 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -256,7 +256,7 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [Infection-Related Cancers Cause One in Eight Cases Globally - European Medical Journal](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzd2RnpzUUM2cEU3QU5zYVE2dm1RSkhOUWFqNE9PU3phcTF5UTZUdmNzU2RucU1Ia0tsbFhhQ2FOQU1vTkw2OUNsNUs5Yzd6T2lkX25sVFdGRHptTWI5VU9RUTNrQWg1OGp6OTkwMEZZTHFxaXpaUFJFQ1NzZTkwdFQyQXdpU0YxRWI1T3VmQVpLNEVwSS1vbHNjWlhqbEtJWkZj?oc=5)
 
@@ -271,6 +271,14 @@ Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiowFB
 2026-10-04
 
 Source: [NDTV](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQl9yVm9yZVZQUlFtb1R1clp2SDVTTi10U2NZdWhqeGlva0JPUE5iNG0xODBDWEVTNWNra204cWt0VngxS2tfeThMLURmVXM3SGxFczMza0xhTDNsTXJVQVJ4UWN5cmYtbHZVR0dvODY4dnZLRkJJMXlGS3lodnJENEFWZGpnUEgtRF8yOWVRb1U0NlFBOExCeW04cU1tZUl0UEdLdVp6aWd3MzJZeWhpanNkVTJtY0RCZlRhRy1Td003ZzY3R2fSAc4BQVVfeXFMTURJMl81QkZwUDBMU3ZHUXNrb3pzUGNaWTRzZmROamNOU1A2ajItSnJBM0ItVzF6NFExVUN4Y0RJeF9iZVBFeEpKZ3NoZlo3ejhtLU0zdUUzWWpqNWllbXJMeU9KeEVkVnd3RVZfQVc2LUh3MElwdWlSeHNlVU1CQWJXdm0ybkYyZlhiY3hYVnhPSVJTdlRvQW16Z1ZWSHJNRVZzaVVqcTZ1Zjk1Q1A3eGxNcXBTb19BOU5rRnc5ODZUYlZyeU4yOUpTNFhMaGc?oc=5)
+
+---
+
+### [Eradicating H. pylori can prevent gastric cancer, says Nobel laureate Barry Marshall](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa19kWGZmWFNBaXpJSS1YalNxVmpvUm4tdEotUTQtYkp4RmFZVDRsM21NVU5GXzFIQVFUZWFLaGYxV2taYWNaTy1KVzVzYk51anJuWHJnYzhva3B1cVRjdnRWY2pTSHhCanl0Y294VUN1aEhDYi1PTU1FaVBqMmYxaUFVTWZiZlVEWld3cXNXeVd2V2RwaFpFcEFsVFdpZmFPMFIxS1hza0txZ3BVamwxUHZfWm1mUzRFQlZCXzFtNU0yNUx2ang3UGItNUtKSWI3VXJzZ3Rad1AybkXSAeIBQVVfeXFMTTgwaWNQX0xtUlFyeDAyOWF2NHdXQ2JFeGRUSHhxRkJCa0FsczBTaGVaTUNGeHNzRVpRVThUVkFmYVRKYUFsRFdoNFk3aVNqcGdBc05BYl90d0tQUEY2YUlIYUNMcTdKZlN2R1FRNmZGLThRMWNlaHBBNWJrWjd6LTY0UER0aUtoeDE2TS0wZ2gtamZvUkFlalJkX2xmdnNNLUVBanVYc3IzWkpmSlE5RUc0elZKYjlIYXlLY1JjYnZ1QVVvSXUwa0dYcVNZWVIyYk9sQXlmSUhDVDd4UzczcFRxdw?oc=5)
+
+2026-10-04
+
+Source: [thehindu.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa19kWGZmWFNBaXpJSS1YalNxVmpvUm4tdEotUTQtYkp4RmFZVDRsM21NVU5GXzFIQVFUZWFLaGYxV2taYWNaTy1KVzVzYk51anJuWHJnYzhva3B1cVRjdnRWY2pTSHhCanl0Y294VUN1aEhDYi1PTU1FaVBqMmYxaUFVTWZiZlVEWld3cXNXeVd2V2RwaFpFcEFsVFdpZmFPMFIxS1hza0txZ3BVamwxUHZfWm1mUzRFQlZCXzFtNU0yNUx2ang3UGItNUtKSWI3VXJzZ3Rad1AybkXSAeIBQVVfeXFMTTgwaWNQX0xtUlFyeDAyOWF2NHdXQ2JFeGRUSHhxRkJCa0FsczBTaGVaTUNGeHNzRVpRVThUVkFmYVRKYUFsRFdoNFk3aVNqcGdBc05BYl90d0tQUEY2YUlIYUNMcTdKZlN2R1FRNmZGLThRMWNlaHBBNWJrWjd6LTY0UER0aUtoeDE2TS0wZ2gtamZvUkFlalJkX2xmdnNNLUVBanVYc3IzWkpmSlE5RUc0elZKYjlIYXlLY1JjYnZ1QVVvSXUwa0dYcVNZWVIyYk9sQXlmSUhDVDd4UzczcFRxdw?oc=5)
 
 ---
 
