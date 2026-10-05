@@ -3,7 +3,7 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 5 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 6 articles, 8 related drugs."
 permalink: /news/memory-loss/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/memory-loss/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
 
-### [Can This Popular Joint Supplement Really Speed Up the Development of Dementia?](https://news.google.com/rss/articles/CBMie0FVX3lxTE95eFhhQ0RINEVYLU03M2dmSWVnaFdRZzFubF9xWGdGdHhmNHBlWm5qLXl3eGNkaDQxZ1gwOG84bFdoTFFycDNWNmV3bzVTeVVtR3h1TGw1WTZqUG9UWGFqeTdVT2JTLXBPZlNrTU5JakJjYWFVT0NhNzlicw?oc=5)
+### [Indians live longer than Pakistanis, says WHO report: Know life expectancy, leading causes of death - CNBC TV18](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjhZdEZuTm11VWRMZlRmRzZ2VzhFdHBOWUJVMEhFbXdyMC1ENHRIWHdZQXk4QVJOczRxYjVzNld1bVVYT0xJSU5KQi0wcEN3REticGFlaTNPZkZ5TnpkVjYzMHo1bnprVkk1RThOUi1lbTRmT0JtLUFpbGlNVnAtSkgxeDlYT2lxWllaWTBGU3ZFVnpSSDNYR3NmbDVRWlQ5djJwMkVsZHAwdjJZN0JNQW02MDk0QjJ0OVc0UlNKaEpkMjJyRGdzU2xvSEx4Q0cyWm84TmNKSXM0SHg2cTJTSNIB5gFBVV95cUxOTjdsT1V1Wkx5Nm9XbkdBbkE4Sk5ITEE0ajl1S2xHQnhyRGFacTZZeDNFT1hNRllOTWtEYzNmQzVJZ2IySlk2VktKQTJ6d1F1dmE1dTJzenp4Y09Hc2c0ckx4T1pYYUlpOG5MTkd2NzF1eXM5ZjNfVHRhTGM5dFI5MEsyOHlwZ3YxSFF6UGZPTHE5RVFsVk5OWmttYzBweGJMRVhFZE1OVHl6T29sZWdjQ3JmZ3B3VS1vaVVrMlc0MWZPVmNzOVRVdDNTQi1hMUE0WWxoN2N5cWRJNFlMS1Qzd0tYdHN6QQ?oc=5)
 
-2026-10-04
+2026-10-05
 
-Source: [Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE95eFhhQ0RINEVYLU03M2dmSWVnaFdRZzFubF9xWGdGdHhmNHBlWm5qLXl3eGNkaDQxZ1gwOG84bFdoTFFycDNWNmV3bzVTeVVtR3h1TGw1WTZqUG9UWGFqeTdVT2JTLXBPZlNrTU5JakJjYWFVT0NhNzlicw?oc=5)
+Source: [CNBC TV18](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjhZdEZuTm11VWRMZlRmRzZ2VzhFdHBOWUJVMEhFbXdyMC1ENHRIWHdZQXk4QVJOczRxYjVzNld1bVVYT0xJSU5KQi0wcEN3REticGFlaTNPZkZ5TnpkVjYzMHo1bnprVkk1RThOUi1lbTRmT0JtLUFpbGlNVnAtSkgxeDlYT2lxWllaWTBGU3ZFVnpSSDNYR3NmbDVRWlQ5djJwMkVsZHAwdjJZN0JNQW02MDk0QjJ0OVc0UlNKaEpkMjJyRGdzU2xvSEx4Q0cyWm84TmNKSXM0SHg2cTJTSNIB5gFBVV95cUxOTjdsT1V1Wkx5Nm9XbkdBbkE4Sk5ITEE0ajl1S2xHQnhyRGFacTZZeDNFT1hNRllOTWtEYzNmQzVJZ2IySlk2VktKQTJ6d1F1dmE1dTJzenp4Y09Hc2c0ckx4T1pYYUlpOG5MTkd2NzF1eXM5ZjNfVHRhTGM5dFI5MEsyOHlwZ3YxSFF6UGZPTHE5RVFsVk5OWmttYzBweGJMRVhFZE1OVHl6T29sZWdjQ3JmZ3B3VS1vaVVrMlc0MWZPVmNzOVRVdDNTQi1hMUE0WWxoN2N5cWRJNFlMS1Qzd0tYdHN6QQ?oc=5)
 
 ---
 
@@ -51,6 +51,14 @@ Source: [Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE95eFhhQ0
 2026-10-04
 
 Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDgxME9VbGdPWnpqZFk0a0R2d2VSQVQ3b0RZdFpMclFENDRGVEZkUFZjZ0pReFJrTUdiYVlYQ0dZOFhhUjFXSVlmbVg0a1dxMlVibDJEN2ZJR1pmMktzZjBweFR4WlJISkxzblV6M0wtZ01RSU9BSG5MT2ROb0ZUN1BSRjBLMGFDTUpGc3FzVF9XczNHLURtVnhtOTVWbGNKVk9ENm82TEllMFhVYm5oTjhnaw?oc=5)
+
+---
+
+### [Can This Popular Joint Supplement Really Speed Up the Development of Dementia?](https://news.google.com/rss/articles/CBMie0FVX3lxTE95eFhhQ0RINEVYLU03M2dmSWVnaFdRZzFubF9xWGdGdHhmNHBlWm5qLXl3eGNkaDQxZ1gwOG84bFdoTFFycDNWNmV3bzVTeVVtR3h1TGw1WTZqUG9UWGFqeTdVT2JTLXBPZlNrTU5JakJjYWFVT0NhNzlicw?oc=5)
+
+2026-10-04
+
+Source: [Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE95eFhhQ0RINEVYLU03M2dmSWVnaFdRZzFubF9xWGdGdHhmNHBlWm5qLXl3eGNkaDQxZ1gwOG84bFdoTFFycDNWNmV3bzVTeVVtR3h1TGw1WTZqUG9UWGFqeTdVT2JTLXBPZlNrTU5JakJjYWFVT0NhNzlicw?oc=5)
 
 ---
 

@@ -1,31 +1,32 @@
 ---
 layout: default
-title: "colorectal cancer (colonic neoplasm) News"
+title: "rectal cancer (rectum mucinous adenocarcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about colorectal cancer (colonic neoplasm). 1 articles, 1 related drugs."
-permalink: /news/colonic-neoplasm/
+description: "Health news about rectal cancer (rectum mucinous adenocarcinoma). 1 articles, 2 related drugs."
+permalink: /news/rectum-mucinous-adenocarcinoma/
 ---
 
-# colorectal cancer (colonic neoplasm) News
+# rectal cancer (rectum mucinous adenocarcinoma) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about colorectal cancer (colonic neoplasm)?">
-<strong>colorectal cancer (colonic neoplasm)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about rectal cancer (rectum mucinous adenocarcinoma)?">
+<strong>rectal cancer (rectum mucinous adenocarcinoma)</strong> currently has <strong>1 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “colorectal cancer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “rectal cancer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
 <strong>Related drug reports</strong>
 <p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
-<li><a href="{{ '/drugs/ademetionine/' | relative_url }}">Ademetionine</a></li>
+<li><a href="{{ '/drugs/altretamine/' | relative_url }}">Altretamine</a></li>
+<li><a href="{{ '/drugs/melphalan/' | relative_url }}">Melphalan</a></li>
 </ul>
 </div>
 

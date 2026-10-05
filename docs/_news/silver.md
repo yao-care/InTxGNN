@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Silver with the latest healt
 
 ## Related News (1)
 
-### [Scientists just found a new way to make hydrogen from water](https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVEhJQVUwY1NsUmp5dzNWemdUZk5pbXo1aHpLUEl1NDh1VkQtRFBwZVppVWJqN0czTWs5WXk1NE4zT2thNlRXbDRKNld2RFg1QlZZU0paRjBmck5pNmxtbFo2cEJnVXBRNkljNDVJSQ?oc=5)
+### [Oregon researchers create photocatalyst to produce hydrogen from water — ScienceDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkpkUjlyQXhRNXZZVHlnOWdubThwcUxOS2pZMW4tMUJ5R3VCS3Zndm9ZQ1BFalZTVnpVU2dieHJQNTVDR2dvS0dZXzB0Rlh1ZDNwM1hWNGM3WVJIWW4yVGNZbTJSU2FpTWEzeWVjRUJSci0tSHlLMVlObWlLSkxjOWkxS05HM29HNjViOEE3Z3BTVHd5Tk5SWVNIUktnN080REdEd3BMQldaMUt4R0E?oc=5)
 
 2026-10-04 <span class="news-drug-tag">Silver</span>
 
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVEhJQVUwY1NsUmp5dzNWemdUZk5pbXo1aHpLUEl1NDh1VkQtRFBwZVppVWJqN0czTWs5WXk1NE4zT2thNlRXbDRKNld2RFg1QlZZU0paRjBmck5pNmxtbFo2cEJnVXBRNkljNDVJSQ?oc=5)
+Source: [UA.NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkpkUjlyQXhRNXZZVHlnOWdubThwcUxOS2pZMW4tMUJ5R3VCS3Zndm9ZQ1BFalZTVnpVU2dieHJQNTVDR2dvS0dZXzB0Rlh1ZDNwM1hWNGM3WVJIWW4yVGNZbTJSU2FpTWEzeWVjRUJSci0tSHlLMVlObWlLSkxjOWkxS05HM29HNjViOEE3Z3BTVHd5Tk5SWVNIUktnN080REdEd3BMQldaMUt4R0E?oc=5)
 
 ---
 

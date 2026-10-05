@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,7 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [‘Debris in space threaten space missions, life on Earth’ - The Times of India](https://news.google.com/rss/articles/CBMixwFBVV95cUxQV2RHbzFuUHM4ZkpGMDZSMGdxelMyamd1REcxbmtkbUN6c0swTmtqaXdjY3ZEeGNJd18xcnZEY2hEaC1COFJYX1QwWVZHRzJwZHF5clRtbmhzM3dCMlZveXFHdWxlOVR2Qkt0alpfdDN3UF9SOHFQb1J6aHJHTTExMk9GM2tMUWl4Q0d6ZG5qSXNYaVNwaXNnM0Uwd09tdl9nMDhLVXduSE00UnVWbjhZWlFZcVBkaXNQODRBNjBvVEhKbXFCbXZn0gHMAUFVX3lxTFBsSXVJM3ZNMS1TVlo2N0lLSkNtc1B4cGR6eVQ5QkdPMnhvaG5zeGNUWWxBNDRad0pjYmJ3OVlSaXdYOHBHRTF6YW5UYk1VY3U3dHBIWjE0YnZiMWZXYkdTN1BOaVAzRnpqbXJ5NmJ4X0k2YVJPeFkxazdBYWFhWnRfeVJJYUp4VEY3dUFvZmFobnpNSzBCMmt5d01zZURNN1Rfa2hJd3RrZkhFbVY3TVpfUFJLZzFYckRVRURkSUFpVThkeFhzQ25mWXJIRA?oc=5)
-
-2026-10-04 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMixwFBVV95cUxQV2RHbzFuUHM4ZkpGMDZSMGdxelMyamd1REcxbmtkbUN6c0swTmtqaXdjY3ZEeGNJd18xcnZEY2hEaC1COFJYX1QwWVZHRzJwZHF5clRtbmhzM3dCMlZveXFHdWxlOVR2Qkt0alpfdDN3UF9SOHFQb1J6aHJHTTExMk9GM2tMUWl4Q0d6ZG5qSXNYaVNwaXNnM0Uwd09tdl9nMDhLVXduSE00UnVWbjhZWlFZcVBkaXNQODRBNjBvVEhKbXFCbXZn0gHMAUFVX3lxTFBsSXVJM3ZNMS1TVlo2N0lLSkNtc1B4cGR6eVQ5QkdPMnhvaG5zeGNUWWxBNDRad0pjYmJ3OVlSaXdYOHBHRTF6YW5UYk1VY3U3dHBIWjE0YnZiMWZXYkdTN1BOaVAzRnpqbXJ5NmJ4X0k2YVJPeFkxazdBYWFhWnRfeVJJYUp4VEY3dUFvZmFobnpNSzBCMmt5d01zZURNN1Rfa2hJd3RrZkhFbVY3TVpfUFJLZzFYckRVRURkSUFpVThkeFhzQ25mWXJIRA?oc=5)
-
----
+## Related News (1)
 
 ### [Think 8 hours of sleep is enough? Neurologist busts brain health myths on sleep, stress, alcohol and more | Health - Hindustan Times](https://news.google.com/rss/articles/CBMigAJBVV95cUxNQmVSRGV5LWRMQjFPZy1lQkphLXRCYVNERGZfY21IekdWdndqb2dQZkxIZzlWQTBSQUFnUEJEMzBiY3RmU1hkaXlTdHFpajNBaXFuQ25pT09ZUE5sNTRVV2Y5Z1dnMWxpaFRIYW5ubVNlTmFGdW03bncwZmNBTUFBdEdsZHJJNEFmQWRsaTMxc0VaSGZINGEzOTdfVWdSYjl4X09hVk45N3lYOFJIVjFrQy1kVkxLMjdJWGxqYzlTN0FhLVJZaEtBLTVMbEI3ajJpY0xvN0dCU01WMXVKRXBCNE93Y2NaNGdZNzhZZGM4S09FWnpsZnNMamRRZlIyZXRN0gGGAkFVX3lxTE1LT1B3c0RqaDZ6SWt4X3F1bVg4Tno2YzJsOEVrRlpybkc2WmlJeVZkS1JibmhrSDRFVW5WTldCMzJ5SnMzV2N2NUVUTy1yTlBkcWNwWTRBcW1HRnBfd3oxR0FKaS1Vdmg0OVJGaHBGbThHLW1XckptejlfQlN2Z0JwNU1QUTFZbEZfM2JQVWFvS1ZHbkRvS20teUc3TkU3MmQxZnZJTnNZRXRMSTU5Z3BFVnJEcE5oNEliSDdGYVd5am9CYlY5UjNGc0pWendOYmZDNFRZY09aVDUtdmZfUl9hdVNyZV9kRWkwVm5tckdSMldveGk0LUJ4M2sxYk41WW5tbjBQaHc?oc=5)
 
