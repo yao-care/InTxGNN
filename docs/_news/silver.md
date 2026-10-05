@@ -14,7 +14,7 @@ permalink: /news/silver/
 ---
 
 <p class="key-answer" data-question="What news is there about Silver?">
-<strong>Silver</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Silver</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Silver with the latest healt
 <p><a href="{{ '/drugs/silver/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Oregon researchers create photocatalyst to produce hydrogen from water — ScienceDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkpkUjlyQXhRNXZZVHlnOWdubThwcUxOS2pZMW4tMUJ5R3VCS3Zndm9ZQ1BFalZTVnpVU2dieHJQNTVDR2dvS0dZXzB0Rlh1ZDNwM1hWNGM3WVJIWW4yVGNZbTJSU2FpTWEzeWVjRUJSci0tSHlLMVlObWlLSkxjOWkxS05HM29HNjViOEE3Z3BTVHd5Tk5SWVNIUktnN080REdEd3BMQldaMUt4R0E?oc=5)
-
-2026-10-04 <span class="news-drug-tag">Silver</span>
-
-Source: [UA.NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkpkUjlyQXhRNXZZVHlnOWdubThwcUxOS2pZMW4tMUJ5R3VCS3Zndm9ZQ1BFalZTVnpVU2dieHJQNTVDR2dvS0dZXzB0Rlh1ZDNwM1hWNGM3WVJIWW4yVGNZbTJSU2FpTWEzeWVjRUJSci0tSHlLMVlObWlLSkxjOWkxS05HM29HNjViOEE3Z3BTVHd5Tk5SWVNIUktnN080REdEd3BMQldaMUt4R0E?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

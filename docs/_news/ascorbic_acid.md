@@ -14,7 +14,7 @@ permalink: /news/ascorbic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Ascorbic Acid?">
-<strong>Ascorbic Acid</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Ascorbic Acid</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <li>non-syndromic esophageal malformation (100.0%)</li>
 <li>esophageal disease (99.9%)</li>
 <li>congenital prothrombin deficiency (99.7%)</li>
-<li class="indication-matched">injury (99.6%)<span class="indication-tag">📰 injury</span></li>
+<li>injury (99.6%)</li>
 <li>biotin metabolic disease (99.5%)</li>
 <li>segmental odontomaxillary dysplasia (99.5%)</li>
 <li>perinatal disease (99.5%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <p><a href="{{ '/drugs/ascorbic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Brain Scans of 24 People With Long COVID Reveal Signs of Injury to Dopamine Neurons](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTJYMFc1Qm8tbG9VY3hMLTZCNm93MXV0VWtJOGY5SUFQZHNXVnByd2R3c3B1MG9MWXhSa1FpV3Q0bHEtMmJxRVd3VEt1RGs5RklmV3VCNF9sOEw4OU5BcHVTR29NZE5qVjRrUHhVX1JGMTZaRDRBMWhYbmhqYjRGVkw5YnZFdDdKbXpmczhpYl9zWEVfOGZnN0k5a29iU1JoM211NFdlLUM4aVFFSHV6MEVR?oc=5)
-
-2026-10-04 <span class="news-drug-tag">DOPAMINE</span> <span class="news-indication-tag">injury</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTJYMFc1Qm8tbG9VY3hMLTZCNm93MXV0VWtJOGY5SUFQZHNXVnByd2R3c3B1MG9MWXhSa1FpV3Q0bHEtMmJxRVd3VEt1RGs5RklmV3VCNF9sOEw4OU5BcHVTR29NZE5qVjRrUHhVX1JGMTZaRDRBMWhYbmhqYjRGVkw5YnZFdDdKbXpmczhpYl9zWEVfOGZnN0k5a29iU1JoM211NFdlLUM4aVFFSHV6MEVR?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

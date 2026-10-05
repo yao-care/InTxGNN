@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,37 +40,37 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
-### [Indians live longer than Pakistanis, says WHO report: Know life expectancy, leading causes of death - CNBC TV18](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjhZdEZuTm11VWRMZlRmRzZ2VzhFdHBOWUJVMEhFbXdyMC1ENHRIWHdZQXk4QVJOczRxYjVzNld1bVVYT0xJSU5KQi0wcEN3REticGFlaTNPZkZ5TnpkVjYzMHo1bnprVkk1RThOUi1lbTRmT0JtLUFpbGlNVnAtSkgxeDlYT2lxWllaWTBGU3ZFVnpSSDNYR3NmbDVRWlQ5djJwMkVsZHAwdjJZN0JNQW02MDk0QjJ0OVc0UlNKaEpkMjJyRGdzU2xvSEx4Q0cyWm84TmNKSXM0SHg2cTJTSNIB5gFBVV95cUxOTjdsT1V1Wkx5Nm9XbkdBbkE4Sk5ITEE0ajl1S2xHQnhyRGFacTZZeDNFT1hNRllOTWtEYzNmQzVJZ2IySlk2VktKQTJ6d1F1dmE1dTJzenp4Y09Hc2c0ckx4T1pYYUlpOG5MTkd2NzF1eXM5ZjNfVHRhTGM5dFI5MEsyOHlwZ3YxSFF6UGZPTHE5RVFsVk5OWmttYzBweGJMRVhFZE1OVHl6T29sZWdjQ3JmZ3B3VS1vaVVrMlc0MWZPVmNzOVRVdDNTQi1hMUE0WWxoN2N5cWRJNFlMS1Qzd0tYdHN6QQ?oc=5)
+### [Popular Joint Supplement Tied to Faster Decline in Alzheimer’s Patients](https://news.google.com/rss/articles/CBMia0FVX3lxTE5RQWM1NFRZZ0NUdHUzenhvWXBMdnF1dWNBLUdUTS1CTUlWbWtpMVJpa2hoS3YwOWpkZkUyTXZ4TlFsS1VBY3NCMnJYYlFvU2tTZjJ4aVpjbHAwbmhoUUpxSFZrdnJMV0h2cWRZ?oc=5)
 
 2026-10-05 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [CNBC TV18](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjhZdEZuTm11VWRMZlRmRzZ2VzhFdHBOWUJVMEhFbXdyMC1ENHRIWHdZQXk4QVJOczRxYjVzNld1bVVYT0xJSU5KQi0wcEN3REticGFlaTNPZkZ5TnpkVjYzMHo1bnprVkk1RThOUi1lbTRmT0JtLUFpbGlNVnAtSkgxeDlYT2lxWllaWTBGU3ZFVnpSSDNYR3NmbDVRWlQ5djJwMkVsZHAwdjJZN0JNQW02MDk0QjJ0OVc0UlNKaEpkMjJyRGdzU2xvSEx4Q0cyWm84TmNKSXM0SHg2cTJTSNIB5gFBVV95cUxOTjdsT1V1Wkx5Nm9XbkdBbkE4Sk5ITEE0ajl1S2xHQnhyRGFacTZZeDNFT1hNRllOTWtEYzNmQzVJZ2IySlk2VktKQTJ6d1F1dmE1dTJzenp4Y09Hc2c0ckx4T1pYYUlpOG5MTkd2NzF1eXM5ZjNfVHRhTGM5dFI5MEsyOHlwZ3YxSFF6UGZPTHE5RVFsVk5OWmttYzBweGJMRVhFZE1OVHl6T29sZWdjQ3JmZ3B3VS1vaVVrMlc0MWZPVmNzOVRVdDNTQi1hMUE0WWxoN2N5cWRJNFlMS1Qzd0tYdHN6QQ?oc=5)
+Source: [Sci.News](https://news.google.com/rss/articles/CBMia0FVX3lxTE5RQWM1NFRZZ0NUdHUzenhvWXBMdnF1dWNBLUdUTS1CTUlWbWtpMVJpa2hoS3YwOWpkZkUyTXZ4TlFsS1VBY3NCMnJYYlFvU2tTZjJ4aVpjbHAwbmhoUUpxSFZrdnJMV0h2cWRZ?oc=5)
 
 ---
 
-### [Subtle change in how you speak could be early sign of dementia risk, new research suggests - Yahoo Health](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDgxME9VbGdPWnpqZFk0a0R2d2VSQVQ3b0RZdFpMclFENDRGVEZkUFZjZ0pReFJrTUdiYVlYQ0dZOFhhUjFXSVlmbVg0a1dxMlVibDJEN2ZJR1pmMktzZjBweFR4WlJISkxzblV6M0wtZ01RSU9BSG5MT2ROb0ZUN1BSRjBLMGFDTUpGc3FzVF9XczNHLURtVnhtOTVWbGNKVk9ENm82TEllMFhVYm5oTjhnaw?oc=5)
+### [Going Through Menopause Earlier Could Mean This for Your Brain Health, Scientists Find](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEhwWjFvX3A4bTl0eDcwdjdhRGEzRmFIX3lnMVhEMHN3bVhfQmRlckt3eVY2RERrZ0xkVXFsRWEySFozNGRnVUUtTUZ6WFpBNnRvUklvT0YxTy12WS1faVpGcERHMjJjYW5nV1N2WnBqUnZ4VGFkdkNlQzk5WlQ4TnVXWQ?oc=5)
 
-2026-10-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-10-05 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDgxME9VbGdPWnpqZFk0a0R2d2VSQVQ3b0RZdFpMclFENDRGVEZkUFZjZ0pReFJrTUdiYVlYQ0dZOFhhUjFXSVlmbVg0a1dxMlVibDJEN2ZJR1pmMktzZjBweFR4WlJISkxzblV6M0wtZ01RSU9BSG5MT2ROb0ZUN1BSRjBLMGFDTUpGc3FzVF9XczNHLURtVnhtOTVWbGNKVk9ENm82TEllMFhVYm5oTjhnaw?oc=5)
-
----
-
-### [Can This Popular Joint Supplement Really Speed Up the Development of Dementia?](https://news.google.com/rss/articles/CBMie0FVX3lxTE95eFhhQ0RINEVYLU03M2dmSWVnaFdRZzFubF9xWGdGdHhmNHBlWm5qLXl3eGNkaDQxZ1gwOG84bFdoTFFycDNWNmV3bzVTeVVtR3h1TGw1WTZqUG9UWGFqeTdVT2JTLXBPZlNrTU5JakJjYWFVT0NhNzlicw?oc=5)
-
-2026-10-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE95eFhhQ0RINEVYLU03M2dmSWVnaFdRZzFubF9xWGdGdHhmNHBlWm5qLXl3eGNkaDQxZ1gwOG84bFdoTFFycDNWNmV3bzVTeVVtR3h1TGw1WTZqUG9UWGFqeTdVT2JTLXBPZlNrTU5JakJjYWFVT0NhNzlicw?oc=5)
+Source: [Prevention](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEhwWjFvX3A4bTl0eDcwdjdhRGEzRmFIX3lnMVhEMHN3bVhfQmRlckt3eVY2RERrZ0xkVXFsRWEySFozNGRnVUUtTUZ6WFpBNnRvUklvT0YxTy12WS1faVpGcERHMjJjYW5nV1N2WnBqUnZ4VGFkdkNlQzk5WlQ4TnVXWQ?oc=5)
 
 ---
 
-### [Closing the Diagnostic Gap in Dementia With Blood-Based Biomarkers - Psychiatric Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0dBQTMyS2hvOXkxN2xXQUIwUU90MTNlWTRwVkJ1dk4tNHNNaExiZWd3OGlVSGR3bUVrdWZBeVlOVkdpalpYOVVMVVhMRThUOFYwdGc2aFg3ejlVRzNiTkFaMHVtLTlJVkNrN0RhSkZMYzVmbWNGa09GZkd3V3l3UDFvX2wzdmZkd2VKY2JBVnZkMUdtdjl0R2tjbmlPLWpQNDRXUkZyMA?oc=5)
+### [Subtle change in how you speak could be early sign of dementia risk, new research suggests](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDgxME9VbGdPWnpqZFk0a0R2d2VSQVQ3b0RZdFpMclFENDRGVEZkUFZjZ0pReFJrTUdiYVlYQ0dZOFhhUjFXSVlmbVg0a1dxMlVibDJEN2ZJR1pmMktzZjBweFR4WlJISkxzblV6M0wtZ01RSU9BSG5MT2ROb0ZUN1BSRjBLMGFDTUpGc3FzVF9XczNHLURtVnhtOTVWbGNKVk9ENm82TEllMFhVYm5oTjhnaw?oc=5)
 
 2026-10-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [Psychiatric Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0dBQTMyS2hvOXkxN2xXQUIwUU90MTNlWTRwVkJ1dk4tNHNNaExiZWd3OGlVSGR3bUVrdWZBeVlOVkdpalpYOVVMVVhMRThUOFYwdGc2aFg3ejlVRzNiTkFaMHVtLTlJVkNrN0RhSkZMYzVmbWNGa09GZkd3V3l3UDFvX2wzdmZkd2VKY2JBVnZkMUdtdjl0R2tjbmlPLWpQNDRXUkZyMA?oc=5)
+Source: [health.yahoo.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDgxME9VbGdPWnpqZFk0a0R2d2VSQVQ3b0RZdFpMclFENDRGVEZkUFZjZ0pReFJrTUdiYVlYQ0dZOFhhUjFXSVlmbVg0a1dxMlVibDJEN2ZJR1pmMktzZjBweFR4WlJISkxzblV6M0wtZ01RSU9BSG5MT2ROb0ZUN1BSRjBLMGFDTUpGc3FzVF9XczNHLURtVnhtOTVWbGNKVk9ENm82TEllMFhVYm5oTjhnaw?oc=5)
+
+---
+
+### [Medical Breakthrough in Indore: Sampurna Launches MP’s First Blood Test to Detect Alzheimer’s 15 Years Before Symptoms - FM Bharat](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWpBbi1XVG9lcERCdUlHbGlIMU5YV2E4ckd6VDRtbVRHaFNzdEFoZ2V4SDkzd1drZHg3TmY4X3o1empGTmpNWEVDQktreUY0QkV5YUs1WTJyLV9wNjdYWjByNi0xYUJFZ1V5OHJOT1k0UTlOYlZBbjRBbUFrcUV5MEFtdGIzUElzbk1EM1NveVdHWlBpeVhONWtZbmJ5aGJjb0Y5cGVlU3otUFZET0FYRzY3dXRGOVFpU1FuQUhjOHV2aXJ1VlluREl4ck84MUtCQmhjT2VIYzFkUW03S0NDYVdCYWFjbzRYVlV2X0loRQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [FM Bharat](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWpBbi1XVG9lcERCdUlHbGlIMU5YV2E4ckd6VDRtbVRHaFNzdEFoZ2V4SDkzd1drZHg3TmY4X3o1empGTmpNWEVDQktreUY0QkV5YUs1WTJyLV9wNjdYWjByNi0xYUJFZ1V5OHJOT1k0UTlOYlZBbjRBbUFrcUV5MEFtdGIzUElzbk1EM1NveVdHWlBpeVhONWtZbmJ5aGJjb0Y5cGVlU3otUFZET0FYRzY3dXRGOVFpU1FuQUhjOHV2aXJ1VlluREl4ck84MUtCQmhjT2VIYzFkUW03S0NDYVdCYWFjbzRYVlV2X0loRQ?oc=5)
 
 ---
 
@@ -79,14 +79,6 @@ Source: [Psychiatric Times](https://news.google.com/rss/articles/CBMipwFBVV95cUx
 2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [e-pao.net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
-
----
-
-### [The Age You Reach Menopause May Be Linked to Your Future Brain Health, 18-Year Study Finds](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
-
-2026-09-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
 
 ---
 
