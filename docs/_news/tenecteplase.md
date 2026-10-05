@@ -14,7 +14,7 @@ permalink: /news/tenecteplase/
 ---
 
 <p class="key-answer" data-question="What news is there about Tenecteplase?">
-<strong>Tenecteplase</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Tenecteplase</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Tenecteplase with the latest
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [The comparison of short-term outcome between tenecteplase and alteplase in minor acute ischemic stroke based on neutrophil-to-lymphocyte ratio stratification](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xN0gzYllDdzQ1M3hET3pPYlJTZEJrMzNXQ3ZYaVVCZGVFR2NhcHc4clBGcEdHTXVMSlBnRXY5b3A4b3JzUHFKUXgxRVhJNEZoekxOeHcyYXRaT1hkemxZ?oc=5)
+
+2026-10-04 <span class="news-drug-tag">Alteplase</span> <span class="news-drug-tag">ALTEPLASE</span> <span class="news-drug-tag">TENECTEPLASE</span> <span class="news-drug-tag">Tenecteplase</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xN0gzYllDdzQ1M3hET3pPYlJTZEJrMzNXQ3ZYaVVCZGVFR2NhcHc4clBGcEdHTXVMSlBnRXY5b3A4b3JzUHFKUXgxRVhJNEZoekxOeHcyYXRaT1hkemxZ?oc=5)
+
+---
 
 
 <div class="disclaimer">
