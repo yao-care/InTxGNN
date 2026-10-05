@@ -14,7 +14,7 @@ permalink: /news/dasatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,69 +40,69 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (13)
 
-### [Simple urine test can accurately diagnose and track bladder cancer](https://news.google.com/rss/articles/CBMitAFBVV95cUxPV3FXcUhCano2bGdoWVo3ME85MWx6SnRXd0w0a0VfUmhfQVhRR3RCMlVfVWNjVlI4TWN1Mk5FSHNOd1J3R25QZDdiNGM5SG1RX3dtQmxnNmtwLUtmd0tQMHpwRTEwZWkza3V0TzdycHBvaVlDUEpoWXJCMXdSRnFzeW43cDdPZVdwZm9la3h0NnN0Q0tRUXFlR3hIRHB1Z1QyUm1TTS1rdG4zRjBtMURyQUJmYjg?oc=5)
-
-2026-10-05 <span class="news-indication-tag">cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxPV3FXcUhCano2bGdoWVo3ME85MWx6SnRXd0w0a0VfUmhfQVhRR3RCMlVfVWNjVlI4TWN1Mk5FSHNOd1J3R25QZDdiNGM5SG1RX3dtQmxnNmtwLUtmd0tQMHpwRTEwZWkza3V0TzdycHBvaVlDUEpoWXJCMXdSRnFzeW43cDdPZVdwZm9la3h0NnN0Q0tRUXFlR3hIRHB1Z1QyUm1TTS1rdG4zRjBtMURyQUJmYjg?oc=5)
-
----
-
-### [Beverage-type ultra-processed food-related metabolomic signature and risk of incident colorectal cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xS0tibGJTS2k3YU04WExHdjZvUzY1U0MybmlhU2w0ejcyT3IwcW95cDZjR3VNclVnNnFXSWtNRDFfV2Q5UXFiWG51YlBMcU8wUVpNRG84YWZNSnlObG04?oc=5)
-
-2026-10-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">rectal cancer</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xS0tibGJTS2k3YU04WExHdjZvUzY1U0MybmlhU2w0ejcyT3IwcW95cDZjR3VNclVnNnFXSWtNRDFfV2Q5UXFiWG51YlBMcU8wUVpNRG84YWZNSnlObG04?oc=5)
-
----
-
-### [Prognostic significance of CCT5 in breast cancer and its regulatory mechanisms in promoting tumorigenesis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdU9RVmxvMEtOVWdZeEdvWW80a0x6VjNpQ0tpWkg4OEJFWHJYWThTQ21ZMjNwR1pOampYUkRONl8wbXk0aVBIcGRUSzVnRHAzaDdnYjh2U2hDZm9NMF9F?oc=5)
-
-2026-10-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdU9RVmxvMEtOVWdZeEdvWW80a0x6VjNpQ0tpWkg4OEJFWHJYWThTQ21ZMjNwR1pOampYUkRONl8wbXk0aVBIcGRUSzVnRHAzaDdnYjh2U2hDZm9NMF9F?oc=5)
-
----
-
-### [Jersey City Women Encouraged to Begin Mammograms at Age 40 - India News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxOdUhJLXV2a0NGbTBST0duelFQWUF4Q1NzSmpaWHNOamxDQ0RXZm1uRTA3MEIzU3pqU3U2OHhENldnQlo3OWQwVnhKQzlhYXNVaHo4NGJ6WFhmbUpuVEZGZ3M2SXNNR0FvV3FCdVdwbHNHSHhIcXhjN0oydDQ4dDZIRmgwd0pPemh2TDRLakpIVUgwQ3Z6ODhiOTFSeUVHUQ?oc=5)
-
-2026-10-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxOdUhJLXV2a0NGbTBST0duelFQWUF4Q1NzSmpaWHNOamxDQ0RXZm1uRTA3MEIzU3pqU3U2OHhENldnQlo3OWQwVnhKQzlhYXNVaHo4NGJ6WFhmbUpuVEZGZ3M2SXNNR0FvV3FCdVdwbHNHSHhIcXhjN0oydDQ4dDZIRmgwd0pPemh2TDRLakpIVUgwQ3Z6ODhiOTFSeUVHUQ?oc=5)
-
----
-
-### [Indians live longer than Pakistanis, says WHO report: Know life expectancy, leading causes of death - CNBC TV18](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjhZdEZuTm11VWRMZlRmRzZ2VzhFdHBOWUJVMEhFbXdyMC1ENHRIWHdZQXk4QVJOczRxYjVzNld1bVVYT0xJSU5KQi0wcEN3REticGFlaTNPZkZ5TnpkVjYzMHo1bnprVkk1RThOUi1lbTRmT0JtLUFpbGlNVnAtSkgxeDlYT2lxWllaWTBGU3ZFVnpSSDNYR3NmbDVRWlQ5djJwMkVsZHAwdjJZN0JNQW02MDk0QjJ0OVc0UlNKaEpkMjJyRGdzU2xvSEx4Q0cyWm84TmNKSXM0SHg2cTJTSNIB5gFBVV95cUxOTjdsT1V1Wkx5Nm9XbkdBbkE4Sk5ITEE0ajl1S2xHQnhyRGFacTZZeDNFT1hNRllOTWtEYzNmQzVJZ2IySlk2VktKQTJ6d1F1dmE1dTJzenp4Y09Hc2c0ckx4T1pYYUlpOG5MTkd2NzF1eXM5ZjNfVHRhTGM5dFI5MEsyOHlwZ3YxSFF6UGZPTHE5RVFsVk5OWmttYzBweGJMRVhFZE1OVHl6T29sZWdjQ3JmZ3B3VS1vaVVrMlc0MWZPVmNzOVRVdDNTQi1hMUE0WWxoN2N5cWRJNFlMS1Qzd0tYdHN6QQ?oc=5)
+### [Popular Joint Supplement Tied to Faster Decline in Alzheimer’s Patients](https://news.google.com/rss/articles/CBMia0FVX3lxTE5RQWM1NFRZZ0NUdHUzenhvWXBMdnF1dWNBLUdUTS1CTUlWbWtpMVJpa2hoS3YwOWpkZkUyTXZ4TlFsS1VBY3NCMnJYYlFvU2tTZjJ4aVpjbHAwbmhoUUpxSFZrdnJMV0h2cWRZ?oc=5)
 
 2026-10-05 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [CNBC TV18](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjhZdEZuTm11VWRMZlRmRzZ2VzhFdHBOWUJVMEhFbXdyMC1ENHRIWHdZQXk4QVJOczRxYjVzNld1bVVYT0xJSU5KQi0wcEN3REticGFlaTNPZkZ5TnpkVjYzMHo1bnprVkk1RThOUi1lbTRmT0JtLUFpbGlNVnAtSkgxeDlYT2lxWllaWTBGU3ZFVnpSSDNYR3NmbDVRWlQ5djJwMkVsZHAwdjJZN0JNQW02MDk0QjJ0OVc0UlNKaEpkMjJyRGdzU2xvSEx4Q0cyWm84TmNKSXM0SHg2cTJTSNIB5gFBVV95cUxOTjdsT1V1Wkx5Nm9XbkdBbkE4Sk5ITEE0ajl1S2xHQnhyRGFacTZZeDNFT1hNRllOTWtEYzNmQzVJZ2IySlk2VktKQTJ6d1F1dmE1dTJzenp4Y09Hc2c0ckx4T1pYYUlpOG5MTkd2NzF1eXM5ZjNfVHRhTGM5dFI5MEsyOHlwZ3YxSFF6UGZPTHE5RVFsVk5OWmttYzBweGJMRVhFZE1OVHl6T29sZWdjQ3JmZ3B3VS1vaVVrMlc0MWZPVmNzOVRVdDNTQi1hMUE0WWxoN2N5cWRJNFlMS1Qzd0tYdHN6QQ?oc=5)
+Source: [Sci.News](https://news.google.com/rss/articles/CBMia0FVX3lxTE5RQWM1NFRZZ0NUdHUzenhvWXBMdnF1dWNBLUdUTS1CTUlWbWtpMVJpa2hoS3YwOWpkZkUyTXZ4TlFsS1VBY3NCMnJYYlFvU2tTZjJ4aVpjbHAwbmhoUUpxSFZrdnJMV0h2cWRZ?oc=5)
 
 ---
 
-### [Infection-Related Cancers Cause One in Eight Cases Globally - European Medical Journal](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzd2RnpzUUM2cEU3QU5zYVE2dm1RSkhOUWFqNE9PU3phcTF5UTZUdmNzU2RucU1Ia0tsbFhhQ2FOQU1vTkw2OUNsNUs5Yzd6T2lkX25sVFdGRHptTWI5VU9RUTNrQWg1OGp6OTkwMEZZTHFxaXpaUFJFQ1NzZTkwdFQyQXdpU0YxRWI1T3VmQVpLNEVwSS1vbHNjWlhqbEtJWkZj?oc=5)
+### [PSMA-PET scans guide LDR brachytherapy in prostate cancer](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXhNTkJYV3AxdjJrOEtLdGNjV1VOTkZVUHQyNzB4dXAwZFAyUmp0M19zOGNvUE55cW83a3JtSFFQUnJVTDkwR3dKbDVsTzJZMlE1b3VzV1diUVhwdEpQM2VjazE3elZnRUp4QU9vNWQtcXNtQloxZUh4SjNWbG1SekwxVmRDUUJlZ0Zvb1FqYlFwbElpV04wQ0FPMXcxNUNKRGFPQlRXVmhWT0ZZVllXZGw3XzJmRXBHUjhBalZWQURsVkdYTzJfVnJnSmkwdGxmNFNwcHR0ajc?oc=5)
 
-2026-10-04 <span class="news-indication-tag">cancer</span>
+2026-10-05 <span class="news-indication-tag">cancer</span>
 
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzd2RnpzUUM2cEU3QU5zYVE2dm1RSkhOUWFqNE9PU3phcTF5UTZUdmNzU2RucU1Ia0tsbFhhQ2FOQU1vTkw2OUNsNUs5Yzd6T2lkX25sVFdGRHptTWI5VU9RUTNrQWg1OGp6OTkwMEZZTHFxaXpaUFJFQ1NzZTkwdFQyQXdpU0YxRWI1T3VmQVpLNEVwSS1vbHNjWlhqbEtJWkZj?oc=5)
+Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXhNTkJYV3AxdjJrOEtLdGNjV1VOTkZVUHQyNzB4dXAwZFAyUmp0M19zOGNvUE55cW83a3JtSFFQUnJVTDkwR3dKbDVsTzJZMlE1b3VzV1diUVhwdEpQM2VjazE3elZnRUp4QU9vNWQtcXNtQloxZUh4SjNWbG1SekwxVmRDUUJlZ0Zvb1FqYlFwbElpV04wQ0FPMXcxNUNKRGFPQlRXVmhWT0ZZVllXZGw3XzJmRXBHUjhBalZWQURsVkdYTzJfVnJnSmkwdGxmNFNwcHR0ajc?oc=5)
 
 ---
 
-### [Subtle change in how you speak could be early sign of dementia risk, new research suggests - Yahoo Health](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDgxME9VbGdPWnpqZFk0a0R2d2VSQVQ3b0RZdFpMclFENDRGVEZkUFZjZ0pReFJrTUdiYVlYQ0dZOFhhUjFXSVlmbVg0a1dxMlVibDJEN2ZJR1pmMktzZjBweFR4WlJISkxzblV6M0wtZ01RSU9BSG5MT2ROb0ZUN1BSRjBLMGFDTUpGc3FzVF9XczNHLURtVnhtOTVWbGNKVk9ENm82TEllMFhVYm5oTjhnaw?oc=5)
+### [Going Through Menopause Earlier Could Mean This for Your Brain Health, Scientists Find](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEhwWjFvX3A4bTl0eDcwdjdhRGEzRmFIX3lnMVhEMHN3bVhfQmRlckt3eVY2RERrZ0xkVXFsRWEySFozNGRnVUUtTUZ6WFpBNnRvUklvT0YxTy12WS1faVpGcERHMjJjYW5nV1N2WnBqUnZ4VGFkdkNlQzk5WlQ4TnVXWQ?oc=5)
+
+2026-10-05 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Prevention](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEhwWjFvX3A4bTl0eDcwdjdhRGEzRmFIX3lnMVhEMHN3bVhfQmRlckt3eVY2RERrZ0xkVXFsRWEySFozNGRnVUUtTUZ6WFpBNnRvUklvT0YxTy12WS1faVpGcERHMjJjYW5nV1N2WnBqUnZ4VGFkdkNlQzk5WlQ4TnVXWQ?oc=5)
+
+---
+
+### [Daily Dose: New cancer research, PMOS and the impacts of chewing gum](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdTZBMmF1WjNodEFnTEpVak1TRld0N0c2MmlVRWtQQTFVbFVlc21jaE9iZll4X3pla1RCU2l5Y0RnaTNNMXJPdkQycEhvR3NUck80VTB4ajFEVGhXa2RDaXcwZEUxU3pyWHlIZkV0dDc2WlJ0OUJoR050SG9xVW9QZEhzTk5MMXAwalkzRExmN0xuVFBDX2VYblk2cm1oa3dLV2piWTRmd1lVc0ZyNXBnc3hXREY0WEtDcUNNTHpQSDQ1NTIta0JnejZ3bFlSVzN4VmU4V0dlbTk5bHhUT1RkRU93?oc=5)
+
+2026-10-05 <span class="news-indication-tag">cancer</span>
+
+Source: [myfoxzone.com](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdTZBMmF1WjNodEFnTEpVak1TRld0N0c2MmlVRWtQQTFVbFVlc21jaE9iZll4X3pla1RCU2l5Y0RnaTNNMXJPdkQycEhvR3NUck80VTB4ajFEVGhXa2RDaXcwZEUxU3pyWHlIZkV0dDc2WlJ0OUJoR050SG9xVW9QZEhzTk5MMXAwalkzRExmN0xuVFBDX2VYblk2cm1oa3dLV2piWTRmd1lVc0ZyNXBnc3hXREY0WEtDcUNNTHpQSDQ1NTIta0JnejZ3bFlSVzN4VmU4V0dlbTk5bHhUT1RkRU93?oc=5)
+
+---
+
+### [Sugary drinks associated with stomach cancer? Study raises questions about our beverage choices, cancer specialist explains risk | Health - Hindustan Times](https://news.google.com/rss/articles/CBMioAJBVV95cUxNTDlFRExUc050bDF0cGxnell6NGFqYjh3OXZhLWVsaEUydGh1Vm1aVUtDNzE4Vl9iZHNaV2dhZ2l4Zm11dk9rNnpycXpMRkVUNmpmV1l4WlJRU2ZVRUVCMUtJZ25lUEZTQXFuMVlVdnp5WnpLWldBWjdWRmoxRzdTMklnWWJULU00VnYyTFphR09sbktjZ2RxWmQtWFEzaUR4RVhybkg2TkhScnhVZ2NyT3dMV2JDN29FZ190OGFDZmlPYzZUZFNiU0xHLVQ5QVJpVlNwaGt1T1JTTjZ2eTdBOWlOLThnTDlCZ01HQ0lVRGkwNEFLYUNHc0lrZlpfaXdzdHBLNHVVMy1QTWg0ZE9YVmlpMjRRTE5WT21KTFZrTHXSAaYCQVVfeXFMTXJOY0J6aXFvQ0M4RjRwa2d2Zkd3bVhkMGlucDZPMFMwdWZ0aU5JMkVnTlFMQW8zS1VYWmR2VktJai1XN05uYk13aXFjVUF0dVhacWFGSGxEa3B1cXBXVVZaVi1pUHZ1elQ5RHUzWFNXZGVFdkFWbUtmNDdGM3pUV2F2NGltcVAwcE4xLUlZMGNZVjMtV0wycnozSlY4bGtlMDROYXhVT0k2bEZlNnF4OTJKU0cyNTNVd3piXzhqbnA3OFlKcU92YlBsT2NXcHNiT0ZpUFo2UzRSZGstTldwZVFVSUhHVkpCVXlxeEJDVUhEdFdzSlEwbWR3NWFRSFoxRTVwWTdWMmdlcDZTcE1iWW16dEFXbEczNWQ1aGJCdV94VmpOa3ln?oc=5)
+
+2026-10-05 <span class="news-indication-tag">cancer</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMioAJBVV95cUxNTDlFRExUc050bDF0cGxnell6NGFqYjh3OXZhLWVsaEUydGh1Vm1aVUtDNzE4Vl9iZHNaV2dhZ2l4Zm11dk9rNnpycXpMRkVUNmpmV1l4WlJRU2ZVRUVCMUtJZ25lUEZTQXFuMVlVdnp5WnpLWldBWjdWRmoxRzdTMklnWWJULU00VnYyTFphR09sbktjZ2RxWmQtWFEzaUR4RVhybkg2TkhScnhVZ2NyT3dMV2JDN29FZ190OGFDZmlPYzZUZFNiU0xHLVQ5QVJpVlNwaGt1T1JTTjZ2eTdBOWlOLThnTDlCZ01HQ0lVRGkwNEFLYUNHc0lrZlpfaXdzdHBLNHVVMy1QTWg0ZE9YVmlpMjRRTE5WT21KTFZrTHXSAaYCQVVfeXFMTXJOY0J6aXFvQ0M4RjRwa2d2Zkd3bVhkMGlucDZPMFMwdWZ0aU5JMkVnTlFMQW8zS1VYWmR2VktJai1XN05uYk13aXFjVUF0dVhacWFGSGxEa3B1cXBXVVZaVi1pUHZ1elQ5RHUzWFNXZGVFdkFWbUtmNDdGM3pUV2F2NGltcVAwcE4xLUlZMGNZVjMtV0wycnozSlY4bGtlMDROYXhVT0k2bEZlNnF4OTJKU0cyNTNVd3piXzhqbnA3OFlKcU92YlBsT2NXcHNiT0ZpUFo2UzRSZGstTldwZVFVSUhHVkpCVXlxeEJDVUhEdFdzSlEwbWR3NWFRSFoxRTVwWTdWMmdlcDZTcE1iWW16dEFXbEczNWQ1aGJCdV94VmpOa3ln?oc=5)
+
+---
+
+### [Pune lab launches HPV self-sampling kit for cervical cancer screening](https://news.google.com/rss/articles/CBMiggFBVV95cUxNMTRCT1kwLV80aEJiaF90MEU3NE5ZRWtYZXQzU2Vva1p2ZkF1QkZ5d2JkaklCdUx3d1hrc0lBaWM0eUxBWVMtNWJTRFN4YzUxZGFwMUpfUndlaklET19adEk4NnJVZnVFSkpNYkhCYi1Xek0tbGRyM2RoOXE5dTd1Y1Vn?oc=5)
+
+2026-10-05 <span class="news-indication-tag">cancer</span>
+
+Source: [uniindia.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNMTRCT1kwLV80aEJiaF90MEU3NE5ZRWtYZXQzU2Vva1p2ZkF1QkZ5d2JkaklCdUx3d1hrc0lBaWM0eUxBWVMtNWJTRFN4YzUxZGFwMUpfUndlaklET19adEk4NnJVZnVFSkpNYkhCYi1Xek0tbGRyM2RoOXE5dTd1Y1Vn?oc=5)
+
+---
+
+### [Subtle change in how you speak could be early sign of dementia risk, new research suggests](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDgxME9VbGdPWnpqZFk0a0R2d2VSQVQ3b0RZdFpMclFENDRGVEZkUFZjZ0pReFJrTUdiYVlYQ0dZOFhhUjFXSVlmbVg0a1dxMlVibDJEN2ZJR1pmMktzZjBweFR4WlJISkxzblV6M0wtZ01RSU9BSG5MT2ROb0ZUN1BSRjBLMGFDTUpGc3FzVF9XczNHLURtVnhtOTVWbGNKVk9ENm82TEllMFhVYm5oTjhnaw?oc=5)
 
 2026-10-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDgxME9VbGdPWnpqZFk0a0R2d2VSQVQ3b0RZdFpMclFENDRGVEZkUFZjZ0pReFJrTUdiYVlYQ0dZOFhhUjFXSVlmbVg0a1dxMlVibDJEN2ZJR1pmMktzZjBweFR4WlJISkxzblV6M0wtZ01RSU9BSG5MT2ROb0ZUN1BSRjBLMGFDTUpGc3FzVF9XczNHLURtVnhtOTVWbGNKVk9ENm82TEllMFhVYm5oTjhnaw?oc=5)
+Source: [health.yahoo.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDgxME9VbGdPWnpqZFk0a0R2d2VSQVQ3b0RZdFpMclFENDRGVEZkUFZjZ0pReFJrTUdiYVlYQ0dZOFhhUjFXSVlmbVg0a1dxMlVibDJEN2ZJR1pmMktzZjBweFR4WlJISkxzblV6M0wtZ01RSU9BSG5MT2ROb0ZUN1BSRjBLMGFDTUpGc3FzVF9XczNHLURtVnhtOTVWbGNKVk9ENm82TEllMFhVYm5oTjhnaw?oc=5)
 
 ---
 
-### [Can This Popular Joint Supplement Really Speed Up the Development of Dementia?](https://news.google.com/rss/articles/CBMie0FVX3lxTE95eFhhQ0RINEVYLU03M2dmSWVnaFdRZzFubF9xWGdGdHhmNHBlWm5qLXl3eGNkaDQxZ1gwOG84bFdoTFFycDNWNmV3bzVTeVVtR3h1TGw1WTZqUG9UWGFqeTdVT2JTLXBPZlNrTU5JakJjYWFVT0NhNzlicw?oc=5)
+### [Breast Cancer Awareness Month - Bay News 9](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjZocUpac095V05wVjdDQ1BkaURuOWtVckFfQkE3T3NqckxOOGNXRVlBZVUzQy14cWNRZlV6WFUySE0wVHBDdklUelFXRVY3RFZaTGlIblJUdjNwa1Zvdk5tZ2dxcllGTndBdjh1eXBoeXAxaUxzMVQ1TjVsUFNaX2ZnY3dma282UTY3WjJn?oc=5)
 
-2026-10-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-10-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE95eFhhQ0RINEVYLU03M2dmSWVnaFdRZzFubF9xWGdGdHhmNHBlWm5qLXl3eGNkaDQxZ1gwOG84bFdoTFFycDNWNmV3bzVTeVVtR3h1TGw1WTZqUG9UWGFqeTdVT2JTLXBPZlNrTU5JakJjYWFVT0NhNzlicw?oc=5)
+Source: [Bay News 9](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjZocUpac095V05wVjdDQ1BkaURuOWtVckFfQkE3T3NqckxOOGNXRVlBZVUzQy14cWNRZlV6WFUySE0wVHBDdklUelFXRVY3RFZaTGlIblJUdjNwa1Zvdk5tZ2dxcllGTndBdjh1eXBoeXAxaUxzMVQ1TjVsUFNaX2ZnY3dma282UTY3WjJn?oc=5)
 
 ---
 
@@ -111,14 +111,6 @@ Source: [Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE95eFhhQ0
 2026-10-04 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">cancer</span>
 
 Source: [The Hindu](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa19kWGZmWFNBaXpJSS1YalNxVmpvUm4tdEotUTQtYkp4RmFZVDRsM21NVU5GXzFIQVFUZWFLaGYxV2taYWNaTy1KVzVzYk51anJuWHJnYzhva3B1cVRjdnRWY2pTSHhCanl0Y294VUN1aEhDYi1PTU1FaVBqMmYxaUFVTWZiZlVEWld3cXNXeVd2V2RwaFpFcEFsVFdpZmFPMFIxS1hza0txZ3BVamwxUHZfWm1mUzRFQlZCXzFtNU0yNUx2ang3UGItNUtKSWI3VXJzZ3Rad1AybkXSAeIBQVVfeXFMTTgwaWNQX0xtUlFyeDAyOWF2NHdXQ2JFeGRUSHhxRkJCa0FsczBTaGVaTUNGeHNzRVpRVThUVkFmYVRKYUFsRFdoNFk3aVNqcGdBc05BYl90d0tQUEY2YUlIYUNMcTdKZlN2R1FRNmZGLThRMWNlaHBBNWJrWjd6LTY0UER0aUtoeDE2TS0wZ2gtamZvUkFlalJkX2xmdnNNLUVBanVYc3IzWkpmSlE5RUc0elZKYjlIYXlLY1JjYnZ1QVVvSXUwa0dYcVNZWVIyYk9sQXlmSUhDVDd4UzczcFRxdw?oc=5)
-
----
-
-### [Closing the Diagnostic Gap in Dementia With Blood-Based Biomarkers - Psychiatric Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0dBQTMyS2hvOXkxN2xXQUIwUU90MTNlWTRwVkJ1dk4tNHNNaExiZWd3OGlVSGR3bUVrdWZBeVlOVkdpalpYOVVMVVhMRThUOFYwdGc2aFg3ejlVRzNiTkFaMHVtLTlJVkNrN0RhSkZMYzVmbWNGa09GZkd3V3l3UDFvX2wzdmZkd2VKY2JBVnZkMUdtdjl0R2tjbmlPLWpQNDRXUkZyMA?oc=5)
-
-2026-10-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Psychiatric Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0dBQTMyS2hvOXkxN2xXQUIwUU90MTNlWTRwVkJ1dk4tNHNNaExiZWd3OGlVSGR3bUVrdWZBeVlOVkdpalpYOVVMVVhMRThUOFYwdGc2aFg3ejlVRzNiTkFaMHVtLTlJVkNrN0RhSkZMYzVmbWNGa09GZkd3V3l3UDFvX2wzdmZkd2VKY2JBVnZkMUdtdjl0R2tjbmlPLWpQNDRXUkZyMA?oc=5)
 
 ---
 
@@ -138,19 +130,19 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ
 
 ---
 
+### [Medical Breakthrough in Indore: Sampurna Launches MP’s First Blood Test to Detect Alzheimer’s 15 Years Before Symptoms - FM Bharat](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWpBbi1XVG9lcERCdUlHbGlIMU5YV2E4ckd6VDRtbVRHaFNzdEFoZ2V4SDkzd1drZHg3TmY4X3o1empGTmpNWEVDQktreUY0QkV5YUs1WTJyLV9wNjdYWjByNi0xYUJFZ1V5OHJOT1k0UTlOYlZBbjRBbUFrcUV5MEFtdGIzUElzbk1EM1NveVdHWlBpeVhONWtZbmJ5aGJjb0Y5cGVlU3otUFZET0FYRzY3dXRGOVFpU1FuQUhjOHV2aXJ1VlluREl4ck84MUtCQmhjT2VIYzFkUW03S0NDYVdCYWFjbzRYVlV2X0loRQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [FM Bharat](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWpBbi1XVG9lcERCdUlHbGlIMU5YV2E4ckd6VDRtbVRHaFNzdEFoZ2V4SDkzd1drZHg3TmY4X3o1empGTmpNWEVDQktreUY0QkV5YUs1WTJyLV9wNjdYWjByNi0xYUJFZ1V5OHJOT1k0UTlOYlZBbjRBbUFrcUV5MEFtdGIzUElzbk1EM1NveVdHWlBpeVhONWtZbmJ5aGJjb0Y5cGVlU3otUFZET0FYRzY3dXRGOVFpU1FuQUhjOHV2aXJ1VlluREl4ck84MUtCQmhjT2VIYzFkUW03S0NDYVdCYWFjbzRYVlV2X0loRQ?oc=5)
+
+---
+
 ### [World Alzheimer's Day 2026 : The earlier you know, the more you can do - A dementia diagnosis matters -](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
 
 2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [e-pao.net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
-
----
-
-### [The Age You Reach Menopause May Be Linked to Your Future Brain Health, 18-Year Study Finds](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
-
-2026-09-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5)
 
 ---
 

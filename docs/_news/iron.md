@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Think 8 hours of sleep is enough? Neurologist busts brain health myths on sleep, stress, alcohol and more | Health - Hindustan Times](https://news.google.com/rss/articles/CBMigAJBVV95cUxNQmVSRGV5LWRMQjFPZy1lQkphLXRCYVNERGZfY21IekdWdndqb2dQZkxIZzlWQTBSQUFnUEJEMzBiY3RmU1hkaXlTdHFpajNBaXFuQ25pT09ZUE5sNTRVV2Y5Z1dnMWxpaFRIYW5ubVNlTmFGdW03bncwZmNBTUFBdEdsZHJJNEFmQWRsaTMxc0VaSGZINGEzOTdfVWdSYjl4X09hVk45N3lYOFJIVjFrQy1kVkxLMjdJWGxqYzlTN0FhLVJZaEtBLTVMbEI3ajJpY0xvN0dCU01WMXVKRXBCNE93Y2NaNGdZNzhZZGM4S09FWnpsZnNMamRRZlIyZXRN0gGGAkFVX3lxTE1LT1B3c0RqaDZ6SWt4X3F1bVg4Tno2YzJsOEVrRlpybkc2WmlJeVZkS1JibmhrSDRFVW5WTldCMzJ5SnMzV2N2NUVUTy1yTlBkcWNwWTRBcW1HRnBfd3oxR0FKaS1Vdmg0OVJGaHBGbThHLW1XckptejlfQlN2Z0JwNU1QUTFZbEZfM2JQVWFvS1ZHbkRvS20teUc3TkU3MmQxZnZJTnNZRXRMSTU5Z3BFVnJEcE5oNEliSDdGYVd5am9CYlY5UjNGc0pWendOYmZDNFRZY09aVDUtdmZfUl9hdVNyZV9kRWkwVm5tckdSMldveGk0LUJ4M2sxYk41WW5tbjBQaHc?oc=5)
+### [Walking remains highly beneficial for COPD patients in polluted environments](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1lsTkNhLXoxZTM3Y0Z4RlhqT09rdmprS1JVMHVIem1OOVVrX201OVdlVWhuQ0w4b3FYeUZRTzdHcEsxeGFyR2ZiOWtqRGt0b2cyLUF6QVZCMkhmQlJtejg4b1c1UmpiQWF4cGxKWDFBMUpJM1dhNHh2QTNPTUdVMjA0bjZNUk1GV3c5QzVZc1M1S3FHc2JTM3dQS0FtNnN4ZjA5V25oVjlna3ZiQWZmMmlaNFBKZVpSMXFlTnZYMC1Hdw?oc=5)
 
-2026-10-04 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+2026-10-05 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">COPD</span>
 
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMigAJBVV95cUxNQmVSRGV5LWRMQjFPZy1lQkphLXRCYVNERGZfY21IekdWdndqb2dQZkxIZzlWQTBSQUFnUEJEMzBiY3RmU1hkaXlTdHFpajNBaXFuQ25pT09ZUE5sNTRVV2Y5Z1dnMWxpaFRIYW5ubVNlTmFGdW03bncwZmNBTUFBdEdsZHJJNEFmQWRsaTMxc0VaSGZINGEzOTdfVWdSYjl4X09hVk45N3lYOFJIVjFrQy1kVkxLMjdJWGxqYzlTN0FhLVJZaEtBLTVMbEI3ajJpY0xvN0dCU01WMXVKRXBCNE93Y2NaNGdZNzhZZGM4S09FWnpsZnNMamRRZlIyZXRN0gGGAkFVX3lxTE1LT1B3c0RqaDZ6SWt4X3F1bVg4Tno2YzJsOEVrRlpybkc2WmlJeVZkS1JibmhrSDRFVW5WTldCMzJ5SnMzV2N2NUVUTy1yTlBkcWNwWTRBcW1HRnBfd3oxR0FKaS1Vdmg0OVJGaHBGbThHLW1XckptejlfQlN2Z0JwNU1QUTFZbEZfM2JQVWFvS1ZHbkRvS20teUc3TkU3MmQxZnZJTnNZRXRMSTU5Z3BFVnJEcE5oNEliSDdGYVd5am9CYlY5UjNGc0pWendOYmZDNFRZY09aVDUtdmZfUl9hdVNyZV9kRWkwVm5tckdSMldveGk0LUJ4M2sxYk41WW5tbjBQaHc?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1lsTkNhLXoxZTM3Y0Z4RlhqT09rdmprS1JVMHVIem1OOVVrX201OVdlVWhuQ0w4b3FYeUZRTzdHcEsxeGFyR2ZiOWtqRGt0b2cyLUF6QVZCMkhmQlJtejg4b1c1UmpiQWF4cGxKWDFBMUpJM1dhNHh2QTNPTUdVMjA0bjZNUk1GV3c5QzVZc1M1S3FHc2JTM3dQS0FtNnN4ZjA5V25oVjlna3ZiQWZmMmlaNFBKZVpSMXFlTnZYMC1Hdw?oc=5)
+
+---
+
+### [Your Brain Needs Care Too: How Sleep, Stress And Alcohol Affect Brain Health - Vibes Of India](https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWg0d0RwdWliLVk4QWgwYkpoWGwxeVR5aG93NmdEYWhJX0ZmeHdrdVYzMjFtTjFhRzhLQXFRcURORktDZV9VUmRqVERZY3g2OHBpV3NMd2hTb1JBZFhCanM0LXBuYVhGVElHMFdEWGhOQ3hOZ2JKSUFlZzhnTzR3MThkQXFqMFczeDB2bjZJSkV5SW0tWVhnNDRSdUVxM2ZUcjlaaHBIYw?oc=5)
+
+2026-10-05 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [Vibes Of India](https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWg0d0RwdWliLVk4QWgwYkpoWGwxeVR5aG93NmdEYWhJX0ZmeHdrdVYzMjFtTjFhRzhLQXFRcURORktDZV9VUmRqVERZY3g2OHBpV3NMd2hTb1JBZFhCanM0LXBuYVhGVElHMFdEWGhOQ3hOZ2JKSUFlZzhnTzR3MThkQXFqMFczeDB2bjZJSkV5SW0tWVhnNDRSdUVxM2ZUcjlaaHBIYw?oc=5)
 
 ---
 

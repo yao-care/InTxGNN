@@ -14,7 +14,7 @@ permalink: /news/apremilast/
 ---
 
 <p class="key-answer" data-question="What news is there about Apremilast?">
-<strong>Apremilast</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Apremilast</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>migraine disorder (98.7%)</li>
 <li>migraine with brainstem aura (98.5%)</li>
-<li class="indication-matched">rheumatoid arthritis (98.1%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (98.1%)</li>
 <li>pulmonary hypertension (98.1%)</li>
 <li>migraine with or without aura, susceptibility to (97.8%)</li>
 <li>kyphoscoliotic heart disease (97.8%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [New research suggests vaccines could help prevent autism](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
-
-2026-10-01 <span class="news-indication-tag">RA</span>
-
-Source: [gavi.org](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

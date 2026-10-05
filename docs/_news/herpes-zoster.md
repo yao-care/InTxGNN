@@ -1,44 +1,42 @@
 ---
 layout: default
-title: "GANCICLOVIR News"
+title: "shingles (herpes zoster) News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to GANCICLOVIR. Original indication: . 3 predicted indications."
-permalink: /news/db01004/
+description: "Health news about shingles (herpes zoster). 1 articles, 4 related drugs."
+permalink: /news/herpes-zoster/
 ---
 
-# GANCICLOVIR News
+# shingles (herpes zoster) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about GANCICLOVIR?">
-<strong>GANCICLOVIR</strong> currently has <strong>1 news articles</strong>, with 3 predicted indications.
+<p class="key-answer" data-question="What news is there about shingles (herpes zoster)?">
+<strong>shingles (herpes zoster)</strong> currently has <strong>1 news articles</strong> and 4 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page combines the AI-predicted indications for GANCICLOVIR with the latest health news. Indications highlighted in orange have recent news coverage.
+This page brings together the latest health news about “shingles” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
-<div class="drug-info-card">
-<strong>Drug Information</strong>
+<div class="related-drugs-card">
+<strong>Related drug reports</strong>
+<p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
-<li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>cytomegalovirus retinitis (99.0%)</li>
-<li>herpes simplex virus keratitis (99.0%)</li>
-<li>ventricular tachycardia (99.0%)</li>
-</ul></li>
+<li><a href="{{ '/drugs/db00249/' | relative_url }}">IDOXURIDINE</a></li>
+<li><a href="{{ '/drugs/db00426/' | relative_url }}">FAMCICLOVIR</a></li>
+<li><a href="{{ '/drugs/db00787/' | relative_url }}">ACYCLOVIR</a></li>
+<li><a href="{{ '/drugs/db01004/' | relative_url }}">GANCICLOVIR</a></li>
 </ul>
-<p><a href="{{ '/drugs/db01004/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (1)
 
 ### [Shingles is not just a rash: The nerve, brain, eye and lung complications doctors want you to know](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM0ZqMExVTWh2RnMxZmhsclpvWEY4U3lza2ZFSW5iQmZFa2ZURDVfVnM4RGlEZUF1NzZ1dFJvWkhVd0xrUTVCNXFsM25CWW1JY2R1ZWl2aFhLbENMMFV0c0x4Smt4VF9mMVY2cWRqaldfM0YyR1lDYkpHYWdPdzZZQ3B3R2hKck9YS1BxRXJqR0lwMXd2bGtQeTdhTWRNOXhzeFF0UW9hSW1scnI0WlVQNF9UMTlvZ1plM1VBQUJGZFpEaVF3cUxqelZyV19CNDdqeFh1eU5BUUtOZ9IB3wFBVV95cUxQZFZUTHRkQVd3M1FTRWtVcS1JdEw3eXJ4X0ROTEVUVFlXWVhHVzBBYzZkQkZCUDNUdFZvQUdhSWpyMnVEcEw0T0E5TmxPQ3k5WTN3ajRKRldGLWFlOGpUZlREN2MtdUE3TXc1VU0tZTV3eFljWlpVNVI3Qm1Vd3FRdG14MjRVVjdTNDc1NDEzRWNBeW9ZcUZsVXBVZ051bC1fa0RXc29ERXFiY1U1SUJTSEt5bktJNXdZbHI4WEN6anlSbTNJbkxRdU5rV0xLRjhoNDlKQ0xSNVpXbkxJbTFr?oc=5)
 
-2026-10-05 <span class="news-indication-tag">shingles</span>
+2026-10-05
 
 Source: [Firstpost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM0ZqMExVTWh2RnMxZmhsclpvWEY4U3lza2ZFSW5iQmZFa2ZURDVfVnM4RGlEZUF1NzZ1dFJvWkhVd0xrUTVCNXFsM25CWW1JY2R1ZWl2aFhLbENMMFV0c0x4Smt4VF9mMVY2cWRqaldfM0YyR1lDYkpHYWdPdzZZQ3B3R2hKck9YS1BxRXJqR0lwMXd2bGtQeTdhTWRNOXhzeFF0UW9hSW1scnI0WlVQNF9UMTlvZ1plM1VBQUJGZFpEaVF3cUxqelZyV19CNDdqeFh1eU5BUUtOZ9IB3wFBVV95cUxQZFZUTHRkQVd3M1FTRWtVcS1JdEw3eXJ4X0ROTEVUVFlXWVhHVzBBYzZkQkZCUDNUdFZvQUdhSWpyMnVEcEw0T0E5TmxPQ3k5WTN3ajRKRldGLWFlOGpUZlREN2MtdUE3TXc1VU0tZTV3eFljWlpVNVI3Qm1Vd3FRdG14MjRVVjdTNDc1NDEzRWNBeW9ZcUZsVXBVZ051bC1fa0RXc29ERXFiY1U1SUJTSEt5bktJNXdZbHI4WEN6anlSbTNJbkxRdU5rV0xLRjhoNDlKQ0xSNVpXbkxJbTFr?oc=5)
 
@@ -48,39 +46,3 @@ Source: [Firstpost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM0ZqMEx
 <div class="disclaimer">
 <strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
-
-<style>
-.indication-matched {
-  background: #fff3e0;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #ff9800;
-}
-.indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-left: 8px;
-}
-.news-indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-.news-drug-tag {
-  display: inline-block;
-  background: #1565c0;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-</style>
