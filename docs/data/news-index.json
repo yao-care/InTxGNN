@@ -1,180 +1,103 @@
 {
-  "generated": "2026-10-04T20:31:37.600320+00:00",
-  "count": 31,
+  "generated": "2026-10-05T02:31:10.749998+00:00",
+  "count": 29,
   "news": [
     {
-      "id": "e35127ffa555",
-      "title": "Can This Popular Joint Supplement Really Speed Up the Development of Dementia?",
-      "published": "2026-10-04T18:41:47+00:00",
+      "id": "486943256439",
+      "title": "Brain Scans of 24 People With Long COVID Reveal Signs of Injury to Dopamine Neurons",
+      "published": "2026-10-04T23:56:11+00:00",
       "sources": [
         {
-          "name": "Prevention",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95eFhhQ0RINEVYLU03M2dmSWVnaFdRZzFubF9xWGdGdHhmNHBlWm5qLXl3eGNkaDQxZ1gwOG84bFdoTFFycDNWNmV3bzVTeVVtR3h1TGw1WTZqUG9UWGFqeTdVT2JTLXBPZlNrTU5JakJjYWFVT0NhNzlicw?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTJYMFc1Qm8tbG9VY3hMLTZCNm93MXV0VWtJOGY5SUFQZHNXVnByd2R3c3B1MG9MWXhSa1FpV3Q0bHEtMmJxRVd3VEt1RGs5RklmV3VCNF9sOEw4OU5BcHVTR29NZE5qVjRrUHhVX1JGMTZaRDRBMWhYbmhqYjRGVkw5YnZFdDdKbXpmczhpYl9zWEVfOGZnN0k5a29iU1JoM211NFdlLUM4aVFFSHV6MEVR?oc=5"
         }
       ],
       "keywords": [
         {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "dementia",
-          "related_drugs": [
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            },
-            {
-              "slug": "dasatinib",
-              "name": "Dasatinib"
-            },
-            {
-              "slug": "db00674",
-              "name": "GALANTAMINE"
-            },
-            {
-              "slug": "db00843",
-              "name": "DONEPEZIL"
-            },
-            {
-              "slug": "db00989",
-              "name": "RIVASTIGMINE"
-            },
-            {
-              "slug": "db12131",
-              "name": "VINPOCETINE"
-            },
-            {
-              "slug": "entacapone",
-              "name": "Entacapone"
-            },
-            {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib"
-            }
-          ]
+          "type": "drug",
+          "slug": "db00988",
+          "keyword": "dopamine",
+          "name": "DOPAMINE",
+          "url": "/drugs/db00988/"
         },
         {
           "type": "indication",
-          "name": "memory loss",
-          "keyword": "dementia",
+          "name": "injury",
+          "keyword": "injury",
           "related_drugs": [
             {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            },
-            {
-              "slug": "dasatinib",
-              "name": "Dasatinib"
-            },
-            {
-              "slug": "db00674",
-              "name": "GALANTAMINE"
-            },
-            {
-              "slug": "db00843",
-              "name": "DONEPEZIL"
-            },
-            {
-              "slug": "db00989",
-              "name": "RIVASTIGMINE"
-            },
-            {
-              "slug": "db12131",
-              "name": "VINPOCETINE"
-            },
-            {
-              "slug": "entacapone",
-              "name": "Entacapone"
-            },
-            {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "bhoolne ki bimari",
-          "keyword": "dementia",
-          "related_drugs": [
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            },
-            {
-              "slug": "dasatinib",
-              "name": "Dasatinib"
-            },
-            {
-              "slug": "db00674",
-              "name": "GALANTAMINE"
-            },
-            {
-              "slug": "db00843",
-              "name": "DONEPEZIL"
-            },
-            {
-              "slug": "db00989",
-              "name": "RIVASTIGMINE"
-            },
-            {
-              "slug": "db12131",
-              "name": "VINPOCETINE"
-            },
-            {
-              "slug": "entacapone",
-              "name": "Entacapone"
-            },
-            {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "alzheimer",
-          "keyword": "dementia",
-          "related_drugs": [
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            },
-            {
-              "slug": "dasatinib",
-              "name": "Dasatinib"
-            },
-            {
-              "slug": "db00674",
-              "name": "GALANTAMINE"
-            },
-            {
-              "slug": "db00843",
-              "name": "DONEPEZIL"
-            },
-            {
-              "slug": "db00989",
-              "name": "RIVASTIGMINE"
-            },
-            {
-              "slug": "db12131",
-              "name": "VINPOCETINE"
-            },
-            {
-              "slug": "entacapone",
-              "name": "Entacapone"
-            },
-            {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib"
+              "slug": "ascorbic_acid",
+              "name": "Ascorbic Acid"
             }
           ]
         }
       ]
     },
     {
+      "id": "ec33c9eb5d19",
+      "title": "Scientists just found a new way to make hydrogen from water",
+      "published": "2026-10-04T22:35:29+00:00",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVEhJQVUwY1NsUmp5dzNWemdUZk5pbXo1aHpLUEl1NDh1VkQtRFBwZVppVWJqN0czTWs5WXk1NE4zT2thNlRXbDRKNld2RFg1QlZZU0paRjBmck5pNmxtbFo2cEJnVXBRNkljNDVJSQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silver",
+          "keyword": "silver",
+          "name": "Silver",
+          "url": "/drugs/silver/"
+        }
+      ]
+    },
+    {
+      "id": "8f379e308031",
+      "title": "Pembrolizumab-Olaparib Delays Ovarian Cancer Progression - European Medical Journal",
+      "published": "2026-10-04T22:01:31+00:00",
+      "sources": [
+        {
+          "name": "European Medical Journal",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeU50QVVjbno2SEJpejJENk9xcFdkUDlZNVlyVTJkWkx6Zld2cU9KTmkwWXdHOWVSVjRLajJ4SVFsbzdMNGhtVHNiWGdPN2N6QXJNVFA5TWJuSTBvcHVNTW0yaW5kZkxSa1dBZkxwb0hpd1picTYtY0puS2x4T3hCNXd0Vm4zU1M1dkQzSUJBWTF4QUIzYkxSLWdaWXBHdGs?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "db09037",
+          "keyword": "pembrolizumab",
+          "name": "PEMBROLIZUMAB",
+          "url": "/drugs/db09037/"
+        },
+        {
+          "type": "drug",
+          "slug": "db09074",
+          "keyword": "olaparib",
+          "name": "OLAPARIB",
+          "url": "/drugs/db09074/"
+        },
+        {
+          "type": "drug",
+          "slug": "olaparib",
+          "keyword": "olaparib",
+          "name": "Olaparib",
+          "url": "/drugs/olaparib/"
+        },
+        {
+          "type": "drug",
+          "slug": "pembrolizumab",
+          "keyword": "pembrolizumab",
+          "name": "Pembrolizumab",
+          "url": "/drugs/pembrolizumab/"
+        }
+      ]
+    },
+    {
       "id": "d6b7e2329da8",
       "title": "Infection-Related Cancers Cause One in Eight Cases Globally - European Medical Journal",
-      "published": "2026-10-04T18:01:28+00:00",
+      "published": "2026-10-04T22:01:31+00:00",
       "sources": [
         {
           "name": "European Medical Journal",
@@ -1104,341 +1027,13 @@
       ]
     },
     {
-      "id": "04e5af17e398",
-      "title": "Severe Iron Deficiency Anemia With Koilonychia and Endoscopically Detected Duodenal Ascariasis in an Elderly Male: A Case Report",
-      "published": "2026-10-04T17:48:45+00:00",
+      "id": "e35127ffa555",
+      "title": "Can This Popular Joint Supplement Really Speed Up the Development of Dementia?",
+      "published": "2026-10-04T21:57:37+00:00",
       "sources": [
         {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcVdsbnVHdXBNQWdYd1RBNlJIZHhzUUQxcDFSTGxadmNOQXRqXy1RbU1OV3pzeVNlMEJhOTAwM2JNRkExdHFJbnRDME96UUtGOWNlVWZKaFN6eHpROUs5UzFEQ3FTdi1OeGEzQm5OUFoyempvVUgyaUVubXA5YWRfanBWcndkX3BiRTVTN3gzdGJnWHRTdF9MN2pEX2FpU1FjZGh6ZFNsMTNCYWh0UmRKMjBuRk1wb0JBdXREZHg0QTFsNzRjZElzclZFaDBxSlJuaHhaVjl2ZWZMb3RVVHQtRzJuN3ptMWRfajk2YTdNMFBSTTEzNmFvaGhR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "db01592",
-          "keyword": "iron",
-          "name": "IRON",
-          "url": "/drugs/db01592/"
-        },
-        {
-          "type": "drug",
-          "slug": "iron",
-          "keyword": "iron",
-          "name": "Iron",
-          "url": "/drugs/iron/"
-        }
-      ]
-    },
-    {
-      "id": "1195b404a88e",
-      "title": "COVID-19 Disrupted Stroke Treatment, Care & Worsened Outcomes: Global Review Of 107 Studies - Health and Me",
-      "published": "2026-10-04T17:30:00+00:00",
-      "sources": [
-        {
-          "name": "Health and Me",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRjJkMTZmMkVqTEZsVS1DN09EU2J3X1U5U0wyVklLeEtQRno5NUJxMzBiUGVzQk0xZzk3UUtJbmxiRW1JRjRTR2ZyTzBDV204Ui1OXy15Y2o2MEZMcjRmb3hqLVVkRVc0WHlRTUNrYjFGd3F1R3MyWmhGLXY5NTJMSkMxOXBoOVVCRWJLWWFoT21HVW9GRkpSQmNISmtWY1preW9JTlhHc3hMWlk5eVhsQXpEdHZHVGdHaE9JOFpRTlF5YkgzOWYyUk41Smw5ckpXRko2M0JrTkV0S3o5cUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "stroke",
-          "related_drugs": [
-            {
-              "slug": "db00009",
-              "name": "ALTEPLASE"
-            },
-            {
-              "slug": "db00175",
-              "name": "PRAVASTATIN"
-            },
-            {
-              "slug": "db00178",
-              "name": "RAMIPRIL"
-            },
-            {
-              "slug": "db00381",
-              "name": "AMLODIPINE"
-            },
-            {
-              "slug": "db00641",
-              "name": "SIMVASTATIN"
-            },
-            {
-              "slug": "db00966",
-              "name": "TELMISARTAN"
-            },
-            {
-              "slug": "db01076",
-              "name": "ATORVASTATIN"
-            },
-            {
-              "slug": "db01098",
-              "name": "ROSUVASTATIN"
-            },
-            {
-              "slug": "db08941",
-              "name": "ISOXSUPRINE"
-            },
-            {
-              "slug": "db12243",
-              "name": "EDARAVONE"
-            },
-            {
-              "slug": "digoxin",
-              "name": "Digoxin"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "Diltiazem"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "sotalol",
-              "name": "Sotalol"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "brain attack",
-          "keyword": "stroke",
-          "related_drugs": [
-            {
-              "slug": "db00009",
-              "name": "ALTEPLASE"
-            },
-            {
-              "slug": "db00175",
-              "name": "PRAVASTATIN"
-            },
-            {
-              "slug": "db00178",
-              "name": "RAMIPRIL"
-            },
-            {
-              "slug": "db00381",
-              "name": "AMLODIPINE"
-            },
-            {
-              "slug": "db00641",
-              "name": "SIMVASTATIN"
-            },
-            {
-              "slug": "db00966",
-              "name": "TELMISARTAN"
-            },
-            {
-              "slug": "db01076",
-              "name": "ATORVASTATIN"
-            },
-            {
-              "slug": "db01098",
-              "name": "ROSUVASTATIN"
-            },
-            {
-              "slug": "db08941",
-              "name": "ISOXSUPRINE"
-            },
-            {
-              "slug": "db12243",
-              "name": "EDARAVONE"
-            },
-            {
-              "slug": "digoxin",
-              "name": "Digoxin"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "Diltiazem"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "sotalol",
-              "name": "Sotalol"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "paralysis",
-          "keyword": "stroke",
-          "related_drugs": [
-            {
-              "slug": "db00009",
-              "name": "ALTEPLASE"
-            },
-            {
-              "slug": "db00175",
-              "name": "PRAVASTATIN"
-            },
-            {
-              "slug": "db00178",
-              "name": "RAMIPRIL"
-            },
-            {
-              "slug": "db00381",
-              "name": "AMLODIPINE"
-            },
-            {
-              "slug": "db00641",
-              "name": "SIMVASTATIN"
-            },
-            {
-              "slug": "db00966",
-              "name": "TELMISARTAN"
-            },
-            {
-              "slug": "db01076",
-              "name": "ATORVASTATIN"
-            },
-            {
-              "slug": "db01098",
-              "name": "ROSUVASTATIN"
-            },
-            {
-              "slug": "db08941",
-              "name": "ISOXSUPRINE"
-            },
-            {
-              "slug": "db12243",
-              "name": "EDARAVONE"
-            },
-            {
-              "slug": "digoxin",
-              "name": "Digoxin"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "Diltiazem"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "sotalol",
-              "name": "Sotalol"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "lakwa",
-          "keyword": "stroke",
-          "related_drugs": [
-            {
-              "slug": "db00009",
-              "name": "ALTEPLASE"
-            },
-            {
-              "slug": "db00175",
-              "name": "PRAVASTATIN"
-            },
-            {
-              "slug": "db00178",
-              "name": "RAMIPRIL"
-            },
-            {
-              "slug": "db00381",
-              "name": "AMLODIPINE"
-            },
-            {
-              "slug": "db00641",
-              "name": "SIMVASTATIN"
-            },
-            {
-              "slug": "db00966",
-              "name": "TELMISARTAN"
-            },
-            {
-              "slug": "db01076",
-              "name": "ATORVASTATIN"
-            },
-            {
-              "slug": "db01098",
-              "name": "ROSUVASTATIN"
-            },
-            {
-              "slug": "db08941",
-              "name": "ISOXSUPRINE"
-            },
-            {
-              "slug": "db12243",
-              "name": "EDARAVONE"
-            },
-            {
-              "slug": "digoxin",
-              "name": "Digoxin"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "Diltiazem"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "sotalol",
-              "name": "Sotalol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ec33c9eb5d19",
-      "title": "Scientists just found a new way to make hydrogen from water",
-      "published": "2026-10-04T16:45:01+00:00",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVEhJQVUwY1NsUmp5dzNWemdUZk5pbXo1aHpLUEl1NDh1VkQtRFBwZVppVWJqN0czTWs5WXk1NE4zT2thNlRXbDRKNld2RFg1QlZZU0paRjBmck5pNmxtbFo2cEJnVXBRNkljNDVJSQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silver",
-          "keyword": "silver",
-          "name": "Silver",
-          "url": "/drugs/silver/"
-        }
-      ]
-    },
-    {
-      "id": "9cac07b4589d",
-      "title": "Global life expectancy returns to pre-pandemic level: WHO - Deccan Herald",
-      "published": "2026-10-04T15:40:26+00:00",
-      "sources": [
-        {
-          "name": "Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXFLMDcxOXFKQ3FWUzVYRjFlWlpUdE1kTnphUTF5SGJkcFliSlJZdWVtZWl6RUQzdlh3SVlNbDZxbW5CSVVzSEtSbDE1WlJLdmpYYmZXWTNiWmx2TkljeWFHZlFRb2hReHZoclVkYm1PaklIWm1NbEc1bjBTVGxjeEljc0hHYjF0NkI2dEUzOGk5SEdwU0xFa0ZtN2l6UWplVVVtbjZhZmo3MkNGZFdwRQ?oc=5"
+          "name": "Prevention",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95eFhhQ0RINEVYLU03M2dmSWVnaFdRZzFubF9xWGdGdHhmNHBlWm5qLXl3eGNkaDQxZ1gwOG84bFdoTFFycDNWNmV3bzVTeVVtR3h1TGw1WTZqUG9UWGFqeTdVT2JTLXBPZlNrTU5JakJjYWFVT0NhNzlicw?oc=5"
         }
       ],
       "keywords": [
@@ -1601,43 +1196,218 @@
       ]
     },
     {
-      "id": "8f379e308031",
-      "title": "Pembrolizumab-Olaparib Delays Ovarian Cancer Progression - European Medical Journal",
-      "published": "2026-10-04T14:01:19+00:00",
+      "id": "85012729f7eb",
+      "title": "Real-world utilization, safety, and observed clinical outcomes of dapagliflozin among Sudanese patients with heart failure: a multicenter retrospective cohort study",
+      "published": "2026-10-04T20:13:46+00:00",
       "sources": [
         {
-          "name": "European Medical Journal",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeU50QVVjbno2SEJpejJENk9xcFdkUDlZNVlyVTJkWkx6Zld2cU9KTmkwWXdHOWVSVjRLajJ4SVFsbzdMNGhtVHNiWGdPN2N6QXJNVFA5TWJuSTBvcHVNTW0yaW5kZkxSa1dBZkxwb0hpd1picTYtY0puS2x4T3hCNXd0Vm4zU1M1dkQzSUJBWTF4QUIzYkxSLWdaWXBHdGs?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LSU9iUVZ5WEpwc1JEUVFtekJ6R2NOb192NExybFI3ZTVrSTFJek5tMEtCbkUzd1YzU1JCNWllVVFIVUhtZ2dqV3c0dTlKdTR1aUx0U0tjV1dVRDlXYmlN?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "db09037",
-          "keyword": "pembrolizumab",
-          "name": "PEMBROLIZUMAB",
-          "url": "/drugs/db09037/"
+          "slug": "db06292",
+          "keyword": "dapagliflozin",
+          "name": "DAPAGLIFLOZIN",
+          "url": "/drugs/db06292/"
+        }
+      ]
+    },
+    {
+      "id": "7b6bae53a17a",
+      "title": "‘Debris in space threaten space missions, life on Earth’ - The Times of India",
+      "published": "2026-10-04T20:12:00+00:00",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV2RHbzFuUHM4ZkpGMDZSMGdxelMyamd1REcxbmtkbUN6c0swTmtqaXdjY3ZEeGNJd18xcnZEY2hEaC1COFJYX1QwWVZHRzJwZHF5clRtbmhzM3dCMlZveXFHdWxlOVR2Qkt0alpfdDN3UF9SOHFQb1J6aHJHTTExMk9GM2tMUWl4Q0d6ZG5qSXNYaVNwaXNnM0Uwd09tdl9nMDhLVXduSE00UnVWbjhZWlFZcVBkaXNQODRBNjBvVEhKbXFCbXZn0gHMAUFVX3lxTFBsSXVJM3ZNMS1TVlo2N0lLSkNtc1B4cGR6eVQ5QkdPMnhvaG5zeGNUWWxBNDRad0pjYmJ3OVlSaXdYOHBHRTF6YW5UYk1VY3U3dHBIWjE0YnZiMWZXYkdTN1BOaVAzRnpqbXJ5NmJ4X0k2YVJPeFkxazdBYWFhWnRfeVJJYUp4VEY3dUFvZmFobnpNSzBCMmt5d01zZURNN1Rfa2hJd3RrZkhFbVY3TVpfUFJLZzFYckRVRURkSUFpVThkeFhzQ25mWXJIRA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "db01592",
+          "keyword": "iron",
+          "name": "IRON",
+          "url": "/drugs/db01592/"
         },
         {
           "type": "drug",
-          "slug": "db09074",
-          "keyword": "olaparib",
-          "name": "OLAPARIB",
-          "url": "/drugs/db09074/"
+          "slug": "iron",
+          "keyword": "iron",
+          "name": "Iron",
+          "url": "/drugs/iron/"
+        }
+      ]
+    },
+    {
+      "id": "05dde3280a04",
+      "title": "Subtle change in how you speak could be early sign of dementia risk, new research suggests - Yahoo Health",
+      "published": "2026-10-04T16:39:14+00:00",
+      "sources": [
+        {
+          "name": "Yahoo Health",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDgxME9VbGdPWnpqZFk0a0R2d2VSQVQ3b0RZdFpMclFENDRGVEZkUFZjZ0pReFJrTUdiYVlYQ0dZOFhhUjFXSVlmbVg0a1dxMlVibDJEN2ZJR1pmMktzZjBweFR4WlJISkxzblV6M0wtZ01RSU9BSG5MT2ROb0ZUN1BSRjBLMGFDTUpGc3FzVF9XczNHLURtVnhtOTVWbGNKVk9ENm82TEllMFhVYm5oTjhnaw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "dementia",
+          "related_drugs": [
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            },
+            {
+              "slug": "dasatinib",
+              "name": "Dasatinib"
+            },
+            {
+              "slug": "db00674",
+              "name": "GALANTAMINE"
+            },
+            {
+              "slug": "db00843",
+              "name": "DONEPEZIL"
+            },
+            {
+              "slug": "db00989",
+              "name": "RIVASTIGMINE"
+            },
+            {
+              "slug": "db12131",
+              "name": "VINPOCETINE"
+            },
+            {
+              "slug": "entacapone",
+              "name": "Entacapone"
+            },
+            {
+              "slug": "lorlatinib",
+              "name": "Lorlatinib"
+            }
+          ]
         },
         {
-          "type": "drug",
-          "slug": "olaparib",
-          "keyword": "olaparib",
-          "name": "Olaparib",
-          "url": "/drugs/olaparib/"
+          "type": "indication",
+          "name": "memory loss",
+          "keyword": "dementia",
+          "related_drugs": [
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            },
+            {
+              "slug": "dasatinib",
+              "name": "Dasatinib"
+            },
+            {
+              "slug": "db00674",
+              "name": "GALANTAMINE"
+            },
+            {
+              "slug": "db00843",
+              "name": "DONEPEZIL"
+            },
+            {
+              "slug": "db00989",
+              "name": "RIVASTIGMINE"
+            },
+            {
+              "slug": "db12131",
+              "name": "VINPOCETINE"
+            },
+            {
+              "slug": "entacapone",
+              "name": "Entacapone"
+            },
+            {
+              "slug": "lorlatinib",
+              "name": "Lorlatinib"
+            }
+          ]
         },
         {
-          "type": "drug",
-          "slug": "pembrolizumab",
-          "keyword": "pembrolizumab",
-          "name": "Pembrolizumab",
-          "url": "/drugs/pembrolizumab/"
+          "type": "indication",
+          "name": "bhoolne ki bimari",
+          "keyword": "dementia",
+          "related_drugs": [
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            },
+            {
+              "slug": "dasatinib",
+              "name": "Dasatinib"
+            },
+            {
+              "slug": "db00674",
+              "name": "GALANTAMINE"
+            },
+            {
+              "slug": "db00843",
+              "name": "DONEPEZIL"
+            },
+            {
+              "slug": "db00989",
+              "name": "RIVASTIGMINE"
+            },
+            {
+              "slug": "db12131",
+              "name": "VINPOCETINE"
+            },
+            {
+              "slug": "entacapone",
+              "name": "Entacapone"
+            },
+            {
+              "slug": "lorlatinib",
+              "name": "Lorlatinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "alzheimer",
+          "keyword": "dementia",
+          "related_drugs": [
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            },
+            {
+              "slug": "dasatinib",
+              "name": "Dasatinib"
+            },
+            {
+              "slug": "db00674",
+              "name": "GALANTAMINE"
+            },
+            {
+              "slug": "db00843",
+              "name": "DONEPEZIL"
+            },
+            {
+              "slug": "db00989",
+              "name": "RIVASTIGMINE"
+            },
+            {
+              "slug": "db12131",
+              "name": "VINPOCETINE"
+            },
+            {
+              "slug": "entacapone",
+              "name": "Entacapone"
+            },
+            {
+              "slug": "lorlatinib",
+              "name": "Lorlatinib"
+            }
+          ]
         }
       ]
     },
@@ -2574,12 +2344,63 @@
       ]
     },
     {
-      "id": "42152b170f77",
-      "title": "What your eyes could reveal about your heart health and disease risk - Business Standard",
+      "id": "da1b7da66a21",
+      "title": "Endometriosis takes toll on women’s work lives, but much damage preventable: Expert",
+      "published": "2026-10-04T09:48:09+00:00",
+      "sources": [
+        {
+          "name": "theprint.in",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRkLVVHcUg2T1ZVVXJZcG5VdVF0ZS1qNlp5T012MFBrUldlYXVqaWE2RGpRUG42X1U4SmpOZ0JvX2R5c0cxMnhuMUFkM1dfZmFlaDR3alYxc2RobG1lSE1vejlkRUdMRjdDdUxBWGpVY2VPMEg2UkV3UnhISHBPUFNkSHVwaE93UGtxdjhMSE5aLVZnUjRDeTM3aDcxT2VYOV9WOG1BTjRyUzg4dkc3UVZIeG1CZ9IBuwFBVV95cUxQRTZtcWF3UmdvVHhYYnVoUW5VTl9CdEQ2QlZacDRTMUVjVW00OUtSRnJKTFJOYVotSDJzVElGMkcyZ0RRZkt3SGYzZHRhdGxoT3o1LVF5QjZnM2VzWjJBRmVUYll0bWl1RVJRU0pHeGJUUDU2V3JjZFV6dU9kMmw1U1NBUWdtTlpyaVNtUWowOUNLcDM3dEdjSjh6XzE3Z1lrbDlld0poTklUQXBxbEw0cm1nRkxCbmdYOWVF?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "asthma",
+          "keyword": "dama",
+          "related_drugs": [
+            {
+              "slug": "montelukast",
+              "name": "Montelukast"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7595308aff79",
+      "title": "Think 8 hours of sleep is enough? Neurologist busts brain health myths on sleep, stress, alcohol and more | Health - Hindustan Times",
+      "published": "2026-10-04T07:00:53+00:00",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQmVSRGV5LWRMQjFPZy1lQkphLXRCYVNERGZfY21IekdWdndqb2dQZkxIZzlWQTBSQUFnUEJEMzBiY3RmU1hkaXlTdHFpajNBaXFuQ25pT09ZUE5sNTRVV2Y5Z1dnMWxpaFRIYW5ubVNlTmFGdW03bncwZmNBTUFBdEdsZHJJNEFmQWRsaTMxc0VaSGZINGEzOTdfVWdSYjl4X09hVk45N3lYOFJIVjFrQy1kVkxLMjdJWGxqYzlTN0FhLVJZaEtBLTVMbEI3ajJpY0xvN0dCU01WMXVKRXBCNE93Y2NaNGdZNzhZZGM4S09FWnpsZnNMamRRZlIyZXRN0gGGAkFVX3lxTE1LT1B3c0RqaDZ6SWt4X3F1bVg4Tno2YzJsOEVrRlpybkc2WmlJeVZkS1JibmhrSDRFVW5WTldCMzJ5SnMzV2N2NUVUTy1yTlBkcWNwWTRBcW1HRnBfd3oxR0FKaS1Vdmg0OVJGaHBGbThHLW1XckptejlfQlN2Z0JwNU1QUTFZbEZfM2JQVWFvS1ZHbkRvS20teUc3TkU3MmQxZnZJTnNZRXRMSTU5Z3BFVnJEcE5oNEliSDdGYVd5am9CYlY5UjNGc0pWendOYmZDNFRZY09aVDUtdmZfUl9hdVNyZV9kRWkwVm5tckdSMldveGk0LUJ4M2sxYk41WW5tbjBQaHc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "db01592",
+          "keyword": "iron",
+          "name": "IRON",
+          "url": "/drugs/db01592/"
+        },
+        {
+          "type": "drug",
+          "slug": "iron",
+          "keyword": "iron",
+          "name": "Iron",
+          "url": "/drugs/iron/"
+        }
+      ]
+    },
+    {
+      "id": "1cfc4cec2d88",
+      "title": "What your eyes could reveal about your heart health and disease risk",
       "published": "2026-10-04T07:00:12+00:00",
       "sources": [
         {
-          "name": "Business Standard",
+          "name": "business-standard.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHJIR2tncjM2Q1NZU0twTlk2Sk1mU0RKWmdFbmkwVk1ZeGpzLW1ZWnVoenotV3VfdThpaHF6MGh0ekVPU2xZV1c4MGdwbTZuRmtWSV8zSmJFMFVhOWZqTTVSQUFrcnZKejNZcUxhQm5PS1RseTJ3Q0dKR2lpWHlqdktKTkhwTXdpMWFTTmJPNWtMYzNtcTBVd05LaGtvRHlkZUg3QkpTYVpFMkJhQVVpSTZ6UUFMdFJVeWVWcjI2Z0NIaUpvM0dTTtIBzgFBVV95cUxOeFJtYWg5Tk5qSnJZeVFBT1FaUmpjS3NrOHBLSmUwVktqUHdUZnpSNmFrY05nTUI3UE83cVh0bGg4SzlwNUNnQ1FsLU9FZU1Iamlpd3pVV0R0SzE3amtpejJjZERpWUMxalJpUUk1VHQ5M3hXSmlGVnZFTVZSNDdmc3hvZkgzTzJadGNHQzNiOFliR2NWdEhrdEgyVkdwRmlacnhxQUo1MmlOY211MXI1OXBfelB5ZXJfWEp5dlF5UmM2cWdHV3hQTldmTjBRQQ?oc=5"
         }
       ],
@@ -2718,181 +2539,1102 @@
       ]
     },
     {
-      "id": "5412f9e7ce3a",
-      "title": "Can a change in voice indicate cognitive decline? What researchers discovered in a massive study - The Times of India",
-      "published": "2026-10-04T05:11:00+00:00",
+      "id": "bc28c24e9c9d",
+      "title": "Eradicating H. pylori can prevent gastric cancer, says Nobel laureate Barry Marshall",
+      "published": "2026-10-04T06:44:49+00:00",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVlFwYnpSWG01Ymk4bTRTVkJGcHVxX1RURVE5MjhfODQ0eC1kaXBaYV9MWkNTUlVEVVZodzNxRDl3dEJTREp2ZU1lZnFydDJNM2NPcGFYWWFHX0VjZDFXQnl2MXpJWTRRQ2JfZ2wyaGh1aTBBTXRlejVuWVl5VVZKWWplcFpnQmJBTnJ3a09PS0N4RlU4NnMyMHEyV1NyaUhSTk5TcERERHRTQkIxYkVoMm5MR2k0d1psR0wycC13UXlrSWl1TjR0WXoxeXh6MUpZQVJRekxKUWhWaldwNHB5dWRBQTlkOEVYVTN1eVJJX1pLUFRZUDVyUFd1WUFncEFKR2NR0gGIAkFVX3lxTE5nRkNwMkJUUkgyb1FrX3VoZGM1UXNfRV95QzF5ajBzQzdLcTFTQWV2b2lVV0l4NllaZFEyZlhSSnJHV3U1ckxOS0ZmME9Gcl9XWno5Q3FHcWtOakd6d3VCUnVBM2Q0dkZLQ2FmVFN6cXg5NW80enZBcC1nMDBnSk5JNFZDNVhxZVNWREtyZnRhSGlpN1ZVWVlWR1hDUEJpRTNDb3lwdGtiTXNqbC10azRoT0VTVWFCd3lheXZQUWQzUnhlaTdQbEFkdzhFQXhyS01wUGlvVkl5aGo2N2U1d3pQTGczSnZ5OVRUVFZBRXQ5X04yWllVTHY5V01IOERiX1U0dWxUMjJXTA?oc=5"
+          "name": "thehindu.com",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa19kWGZmWFNBaXpJSS1YalNxVmpvUm4tdEotUTQtYkp4RmFZVDRsM21NVU5GXzFIQVFUZWFLaGYxV2taYWNaTy1KVzVzYk51anJuWHJnYzhva3B1cVRjdnRWY2pTSHhCanl0Y294VUN1aEhDYi1PTU1FaVBqMmYxaUFVTWZiZlVEWld3cXNXeVd2V2RwaFpFcEFsVFdpZmFPMFIxS1hza0txZ3BVamwxUHZfWm1mUzRFQlZCXzFtNU0yNUx2ang3UGItNUtKSWI3VXJzZ3Rad1AybkXSAeIBQVVfeXFMTTgwaWNQX0xtUlFyeDAyOWF2NHdXQ2JFeGRUSHhxRkJCa0FsczBTaGVaTUNGeHNzRVpRVThUVkFmYVRKYUFsRFdoNFk3aVNqcGdBc05BYl90d0tQUEY2YUlIYUNMcTdKZlN2R1FRNmZGLThRMWNlaHBBNWJrWjd6LTY0UER0aUtoeDE2TS0wZ2gtamZvUkFlalJkX2xmdnNNLUVBanVYc3IzWkpmSlE5RUc0elZKYjlIYXlLY1JjYnZ1QVVvSXUwa0dYcVNZWVIyYk9sQXlmSUhDVDd4UzczcFRxdw?oc=5"
         }
       ],
       "keywords": [
         {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "dementia",
-          "related_drugs": [
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            },
-            {
-              "slug": "dasatinib",
-              "name": "Dasatinib"
-            },
-            {
-              "slug": "db00674",
-              "name": "GALANTAMINE"
-            },
-            {
-              "slug": "db00843",
-              "name": "DONEPEZIL"
-            },
-            {
-              "slug": "db00989",
-              "name": "RIVASTIGMINE"
-            },
-            {
-              "slug": "db12131",
-              "name": "VINPOCETINE"
-            },
-            {
-              "slug": "entacapone",
-              "name": "Entacapone"
-            },
-            {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib"
-            }
-          ]
+          "type": "drug",
+          "slug": "db03904",
+          "keyword": "urea",
+          "name": "UREA",
+          "url": "/drugs/db03904/"
+        },
+        {
+          "type": "drug",
+          "slug": "urea",
+          "keyword": "urea",
+          "name": "Urea",
+          "url": "/drugs/urea/"
         },
         {
           "type": "indication",
-          "name": "memory loss",
-          "keyword": "dementia",
+          "name": "generic_cancer",
+          "keyword": "cancer",
           "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "ademetionine",
+              "name": "Ademetionine"
+            },
+            {
+              "slug": "aflibercept",
+              "name": "Aflibercept"
+            },
             {
               "slug": "albendazole",
               "name": "Albendazole"
+            },
+            {
+              "slug": "aliskiren",
+              "name": "Aliskiren"
+            },
+            {
+              "slug": "altretamine",
+              "name": "Altretamine"
+            },
+            {
+              "slug": "amifostine",
+              "name": "Amifostine"
+            },
+            {
+              "slug": "amiloride",
+              "name": "Amiloride"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "Amoxicillin"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "Ampicillin"
+            },
+            {
+              "slug": "amylmetacresol",
+              "name": "Amylmetacresol"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "anidulafungin",
+              "name": "Anidulafungin"
+            },
+            {
+              "slug": "arsenic_trioxide",
+              "name": "Arsenic Trioxide"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "axitinib",
+              "name": "Axitinib"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "Azithromycin"
+            },
+            {
+              "slug": "aztreonam",
+              "name": "Aztreonam"
+            },
+            {
+              "slug": "basiliximab",
+              "name": "Basiliximab"
+            },
+            {
+              "slug": "becaplermin",
+              "name": "Becaplermin"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic Acid"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "bendamustine",
+              "name": "Bendamustine"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "Bisoprolol"
+            },
+            {
+              "slug": "bleomycin",
+              "name": "Bleomycin"
+            },
+            {
+              "slug": "bupropion",
+              "name": "Bupropion"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline"
+            },
+            {
+              "slug": "cabozantinib",
+              "name": "Cabozantinib"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol"
+            },
+            {
+              "slug": "chlorthalidone",
+              "name": "Chlorthalidone"
+            },
+            {
+              "slug": "choline_salicylate",
+              "name": "Choline Salicylate"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "Ciprofloxacin"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine"
+            },
+            {
+              "slug": "dacarbazine",
+              "name": "Dacarbazine"
+            },
+            {
+              "slug": "dactinomycin",
+              "name": "Dactinomycin"
             },
             {
               "slug": "dasatinib",
               "name": "Dasatinib"
             },
             {
-              "slug": "db00674",
-              "name": "GALANTAMINE"
+              "slug": "daunorubicin",
+              "name": "Daunorubicin"
             },
             {
-              "slug": "db00843",
-              "name": "DONEPEZIL"
+              "slug": "db00002",
+              "name": "CETUXIMAB"
             },
             {
-              "slug": "db00989",
-              "name": "RIVASTIGMINE"
+              "slug": "db00059",
+              "name": "PEGASPARGASE"
             },
             {
-              "slug": "db12131",
-              "name": "VINPOCETINE"
+              "slug": "db00072",
+              "name": "TRASTUZUMAB"
             },
             {
-              "slug": "entacapone",
-              "name": "Entacapone"
+              "slug": "db00073",
+              "name": "RITUXIMAB"
+            },
+            {
+              "slug": "db00112",
+              "name": "BEVACIZUMAB"
+            },
+            {
+              "slug": "db00188",
+              "name": "BORTEZOMIB"
+            },
+            {
+              "slug": "db00242",
+              "name": "CLADRIBINE"
+            },
+            {
+              "slug": "db00248",
+              "name": "CABERGOLINE"
+            },
+            {
+              "slug": "db00262",
+              "name": "CARMUSTINE"
+            },
+            {
+              "slug": "db00290",
+              "name": "BLEOMYCIN"
+            },
+            {
+              "slug": "db00291",
+              "name": "CHLORAMBUCIL"
+            },
+            {
+              "slug": "db00305",
+              "name": "MITOMYCIN"
+            },
+            {
+              "slug": "db00317",
+              "name": "GEFITINIB"
+            },
+            {
+              "slug": "db00361",
+              "name": "VINORELBINE"
+            },
+            {
+              "slug": "db00396",
+              "name": "PROGESTERONE"
+            },
+            {
+              "slug": "db00398",
+              "name": "SORAFENIB"
+            },
+            {
+              "slug": "db00441",
+              "name": "GEMCITABINE"
+            },
+            {
+              "slug": "db00443",
+              "name": "BETAMETHASONE"
+            },
+            {
+              "slug": "db00445",
+              "name": "EPIRUBICIN"
+            },
+            {
+              "slug": "db00480",
+              "name": "LENALIDOMIDE"
+            },
+            {
+              "slug": "db00488",
+              "name": "ALTRETAMINE"
+            },
+            {
+              "slug": "db00499",
+              "name": "FLUTAMIDE"
+            },
+            {
+              "slug": "db00515",
+              "name": "CISPLATIN"
+            },
+            {
+              "slug": "db00526",
+              "name": "OXALIPLATIN"
+            },
+            {
+              "slug": "db00530",
+              "name": "ERLOTINIB"
+            },
+            {
+              "slug": "db00531",
+              "name": "CYCLOPHOSPHAMIDE"
+            },
+            {
+              "slug": "db00537",
+              "name": "CIPROFLOXACIN"
+            },
+            {
+              "slug": "db00541",
+              "name": "VINCRISTINE"
+            },
+            {
+              "slug": "db00544",
+              "name": "FLUOROURACIL"
+            },
+            {
+              "slug": "db00547",
+              "name": "DESOXIMETASONE"
+            },
+            {
+              "slug": "db00553",
+              "name": "METHOXSALEN"
+            },
+            {
+              "slug": "db00563",
+              "name": "METHOTREXATE"
+            },
+            {
+              "slug": "db00570",
+              "name": "VINBLASTINE"
+            },
+            {
+              "slug": "db00571",
+              "name": "PROPRANOLOL"
+            },
+            {
+              "slug": "db00588",
+              "name": "FLUTICASONE PROPIONATE"
+            },
+            {
+              "slug": "db00591",
+              "name": "FLUOCINOLONE ACETONIDE"
+            },
+            {
+              "slug": "db00603",
+              "name": "MEDROXYPROGESTERONE ACETATE"
+            },
+            {
+              "slug": "db00620",
+              "name": "TRIAMCINOLONE"
+            },
+            {
+              "slug": "db00631",
+              "name": "CLOFARABINE"
+            },
+            {
+              "slug": "db00642",
+              "name": "PEMETREXED"
+            },
+            {
+              "slug": "db00675",
+              "name": "TAMOXIFEN"
+            },
+            {
+              "slug": "db00694",
+              "name": "DAUNORUBICIN"
+            },
+            {
+              "slug": "db00724",
+              "name": "IMIQUIMOD"
+            },
+            {
+              "slug": "db00741",
+              "name": "HYDROCORTISONE"
+            },
+            {
+              "slug": "db00742",
+              "name": "MANNITOL"
+            },
+            {
+              "slug": "db00755",
+              "name": "TRETINOIN"
+            },
+            {
+              "slug": "db00762",
+              "name": "IRINOTECAN"
+            },
+            {
+              "slug": "db00773",
+              "name": "ETOPOSIDE"
+            },
+            {
+              "slug": "db00851",
+              "name": "DACARBAZINE"
+            },
+            {
+              "slug": "db00860",
+              "name": "PREDNISOLONE"
+            },
+            {
+              "slug": "db00877",
+              "name": "SIROLIMUS"
+            },
+            {
+              "slug": "db00917",
+              "name": "DINOPROSTONE"
+            },
+            {
+              "slug": "db00925",
+              "name": "PHENOXYBENZAMINE"
+            },
+            {
+              "slug": "db00928",
+              "name": "AZACITIDINE"
+            },
+            {
+              "slug": "db00958",
+              "name": "CARBOPLATIN"
+            },
+            {
+              "slug": "db00959",
+              "name": "METHYLPREDNISOLONE"
+            },
+            {
+              "slug": "db00970",
+              "name": "DACTINOMYCIN"
+            },
+            {
+              "slug": "db00987",
+              "name": "CYTARABINE"
+            },
+            {
+              "slug": "db00997",
+              "name": "DOXORUBICIN"
+            },
+            {
+              "slug": "db01005",
+              "name": "HYDROXYUREA"
+            },
+            {
+              "slug": "db01030",
+              "name": "TOPOTECAN"
+            },
+            {
+              "slug": "db01033",
+              "name": "MERCAPTOPURINE"
+            },
+            {
+              "slug": "db01041",
+              "name": "THALIDOMIDE"
+            },
+            {
+              "slug": "db01042",
+              "name": "MELPHALAN"
+            },
+            {
+              "slug": "db01059",
+              "name": "NORFLOXACIN"
+            },
+            {
+              "slug": "db01101",
+              "name": "CAPECITABINE"
+            },
+            {
+              "slug": "db01119",
+              "name": "DIAZOXIDE"
+            },
+            {
+              "slug": "db01165",
+              "name": "OFLOXACIN"
+            },
+            {
+              "slug": "db01168",
+              "name": "PROCARBAZINE"
+            },
+            {
+              "slug": "db01169",
+              "name": "ARSENIC TRIOXIDE"
+            },
+            {
+              "slug": "db01177",
+              "name": "IDARUBICIN"
+            },
+            {
+              "slug": "db01196",
+              "name": "ESTRAMUSTINE"
+            },
+            {
+              "slug": "db01200",
+              "name": "BROMOCRIPTINE"
+            },
+            {
+              "slug": "db01204",
+              "name": "MITOXANTRONE"
+            },
+            {
+              "slug": "db01206",
+              "name": "LOMUSTINE"
+            },
+            {
+              "slug": "db01229",
+              "name": "PACLITAXEL"
+            },
+            {
+              "slug": "db01234",
+              "name": "DEXAMETHASONE"
+            },
+            {
+              "slug": "db01248",
+              "name": "DOCETAXEL"
+            },
+            {
+              "slug": "db01254",
+              "name": "DASATINIB"
+            },
+            {
+              "slug": "db01259",
+              "name": "LAPATINIB"
+            },
+            {
+              "slug": "db01260",
+              "name": "DESONIDE"
+            },
+            {
+              "slug": "db01262",
+              "name": "DECITABINE"
+            },
+            {
+              "slug": "db01268",
+              "name": "SUNITINIB"
+            },
+            {
+              "slug": "db01269",
+              "name": "PANITUMUMAB"
+            },
+            {
+              "slug": "db01590",
+              "name": "EVEROLIMUS"
+            },
+            {
+              "slug": "db04572",
+              "name": "THIOTEPA"
+            },
+            {
+              "slug": "db04845",
+              "name": "IXABEPILONE"
+            },
+            {
+              "slug": "db04868",
+              "name": "NILOTINIB"
+            },
+            {
+              "slug": "db05109",
+              "name": "TRABECTEDIN"
+            },
+            {
+              "slug": "db05294",
+              "name": "VANDETANIB"
+            },
+            {
+              "slug": "db05578",
+              "name": "RAMUCIRUMAB"
+            },
+            {
+              "slug": "db06287",
+              "name": "TEMSIROLIMUS"
+            },
+            {
+              "slug": "db06366",
+              "name": "PERTUZUMAB"
+            },
+            {
+              "slug": "db06589",
+              "name": "PAZOPANIB"
+            },
+            {
+              "slug": "db06616",
+              "name": "BOSUTINIB"
+            },
+            {
+              "slug": "db06626",
+              "name": "AXITINIB"
+            },
+            {
+              "slug": "db06650",
+              "name": "OFATUMUMAB"
+            },
+            {
+              "slug": "db06769",
+              "name": "BENDAMUSTINE"
+            },
+            {
+              "slug": "db06809",
+              "name": "PLERIXAFOR"
+            },
+            {
+              "slug": "db08865",
+              "name": "CRIZOTINIB"
+            },
+            {
+              "slug": "db08875",
+              "name": "CABOZANTINIB"
+            },
+            {
+              "slug": "db08877",
+              "name": "RUXOLITINIB"
+            },
+            {
+              "slug": "db08885",
+              "name": "AFLIBERCEPT"
+            },
+            {
+              "slug": "db08889",
+              "name": "CARFILZOMIB"
+            },
+            {
+              "slug": "db08896",
+              "name": "REGORAFENIB"
+            },
+            {
+              "slug": "db08899",
+              "name": "ENZALUTAMIDE"
+            },
+            {
+              "slug": "db08910",
+              "name": "POMALIDOMIDE"
+            },
+            {
+              "slug": "db08911",
+              "name": "TRAMETINIB"
+            },
+            {
+              "slug": "db09035",
+              "name": "NIVOLUMAB"
+            },
+            {
+              "slug": "db09037",
+              "name": "PEMBROLIZUMAB"
+            },
+            {
+              "slug": "db09053",
+              "name": "IBRUTINIB"
+            },
+            {
+              "slug": "db09063",
+              "name": "CERITINIB"
+            },
+            {
+              "slug": "db09074",
+              "name": "OLAPARIB"
+            },
+            {
+              "slug": "db09078",
+              "name": "LENVATINIB"
+            },
+            {
+              "slug": "db09079",
+              "name": "NINTEDANIB"
+            },
+            {
+              "slug": "db09256",
+              "name": "TEGAFUR"
+            },
+            {
+              "slug": "db09257",
+              "name": "GIMERACIL"
+            },
+            {
+              "slug": "db09331",
+              "name": "DARATUMUMAB"
+            },
+            {
+              "slug": "db09343",
+              "name": "TIPIRACIL"
+            },
+            {
+              "slug": "db11595",
+              "name": "ATEZOLIZUMAB"
+            },
+            {
+              "slug": "db11703",
+              "name": "ACALABRUTINIB"
+            },
+            {
+              "slug": "db11714",
+              "name": "DURVALUMAB"
+            },
+            {
+              "slug": "db12130",
+              "name": "LORLATINIB"
+            },
+            {
+              "slug": "db12332",
+              "name": "RUCAPARIB"
+            },
+            {
+              "slug": "deferasirox",
+              "name": "Deferasirox"
+            },
+            {
+              "slug": "demeclocycline",
+              "name": "Demeclocycline"
+            },
+            {
+              "slug": "desoximetasone",
+              "name": "Desoximetasone"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "doxorubicin",
+              "name": "Doxorubicin"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "eflornithine",
+              "name": "Eflornithine"
+            },
+            {
+              "slug": "efonidipine",
+              "name": "Efonidipine"
+            },
+            {
+              "slug": "enzalutamide",
+              "name": "Enzalutamide"
+            },
+            {
+              "slug": "epirubicin",
+              "name": "Epirubicin"
+            },
+            {
+              "slug": "eplerenone",
+              "name": "Eplerenone"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "Eptifibatide"
+            },
+            {
+              "slug": "eribulin",
+              "name": "Eribulin"
+            },
+            {
+              "slug": "estramustine",
+              "name": "Estramustine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "flutamide",
+              "name": "Flutamide"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "Isotretinoin"
+            },
+            {
+              "slug": "ixabepilone",
+              "name": "Ixabepilone"
+            },
+            {
+              "slug": "labetalol",
+              "name": "Labetalol"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine"
+            },
+            {
+              "slug": "lapatinib",
+              "name": "Lapatinib"
+            },
+            {
+              "slug": "lenalidomide",
+              "name": "Lenalidomide"
+            },
+            {
+              "slug": "lenvatinib",
+              "name": "Lenvatinib"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole"
+            },
+            {
+              "slug": "levamisole",
+              "name": "Levamisole"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "Levofloxacin"
+            },
+            {
+              "slug": "lindane",
+              "name": "Lindane"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "Lisinopril"
             },
             {
               "slug": "lorlatinib",
               "name": "Lorlatinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "bhoolne ki bimari",
-          "keyword": "dementia",
-          "related_drugs": [
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
             },
             {
-              "slug": "dasatinib",
-              "name": "Dasatinib"
+              "slug": "losartan",
+              "name": "Losartan"
             },
             {
-              "slug": "db00674",
-              "name": "GALANTAMINE"
+              "slug": "mannitol",
+              "name": "Mannitol"
             },
             {
-              "slug": "db00843",
-              "name": "DONEPEZIL"
+              "slug": "maraviroc",
+              "name": "Maraviroc"
             },
             {
-              "slug": "db00989",
-              "name": "RIVASTIGMINE"
+              "slug": "megestrol_acetate",
+              "name": "Megestrol Acetate"
             },
             {
-              "slug": "db12131",
-              "name": "VINPOCETINE"
+              "slug": "melphalan",
+              "name": "Melphalan"
             },
             {
-              "slug": "entacapone",
-              "name": "Entacapone"
+              "slug": "mephenesin",
+              "name": "Mephenesin"
             },
             {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "alzheimer",
-          "keyword": "dementia",
-          "related_drugs": [
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
+              "slug": "mercaptopurine",
+              "name": "Mercaptopurine"
             },
             {
-              "slug": "dasatinib",
-              "name": "Dasatinib"
+              "slug": "methotrexate",
+              "name": "Methotrexate"
             },
             {
-              "slug": "db00674",
-              "name": "GALANTAMINE"
+              "slug": "methoxsalen",
+              "name": "Methoxsalen"
             },
             {
-              "slug": "db00843",
-              "name": "DONEPEZIL"
+              "slug": "metolazone",
+              "name": "Metolazone"
             },
             {
-              "slug": "db00989",
-              "name": "RIVASTIGMINE"
+              "slug": "metoprolol",
+              "name": "Metoprolol"
             },
             {
-              "slug": "db12131",
-              "name": "VINPOCETINE"
+              "slug": "mitomycin",
+              "name": "Mitomycin"
             },
             {
-              "slug": "entacapone",
-              "name": "Entacapone"
+              "slug": "mitoxantrone",
+              "name": "Mitoxantrone"
             },
             {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib"
+              "slug": "mometasone",
+              "name": "Mometasone"
+            },
+            {
+              "slug": "monobenzone",
+              "name": "Monobenzone"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "Moxifloxacin"
+            },
+            {
+              "slug": "moxonidine",
+              "name": "Moxonidine"
+            },
+            {
+              "slug": "natamycin",
+              "name": "Natamycin"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "nilotinib",
+              "name": "Nilotinib"
+            },
+            {
+              "slug": "nintedanib",
+              "name": "Nintedanib"
+            },
+            {
+              "slug": "oxaliplatin",
+              "name": "Oxaliplatin"
+            },
+            {
+              "slug": "primidone",
+              "name": "Primidone"
+            },
+            {
+              "slug": "secnidazole",
+              "name": "Secnidazole"
+            },
+            {
+              "slug": "sorafenib",
+              "name": "Sorafenib"
+            },
+            {
+              "slug": "topiramate",
+              "name": "Topiramate"
+            },
+            {
+              "slug": "valproic_acid",
+              "name": "Valproic Acid"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan"
             }
           ]
         }
       ]
     },
     {
-      "id": "89d8b0dff661",
-      "title": "Closing the Diagnostic Gap in Dementia With Blood-Based Biomarkers",
+      "id": "b8424019bd37",
+      "title": "Diabetes Identified as a 'Silent Driver' of Heart Disease, Experts Warn of Hidden Cardiac Risks",
+      "published": "2026-10-04T04:04:45+00:00",
+      "sources": [
+        {
+          "name": "sentinelassam.com",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObG5hRXRBM00xVDhGanRNOXNtWmJPaHNSbzNHZnZOWnduSGpYa1VwcnNrWlFZNk5kSGRfb0V5YmlqQVhuVkN3Uk95dnNOYlJCd3BVMmZHb3BxZ3Rad2M5cGtOYmEyejlESzNkb2dXN0dROGk1TlBlQ21nQnhWT2lpdnpabGl3a3VEN0hrczBrbzlTMDRlUUF1ZFpwRDJmNlpJUHpURWYwZlF2dWE3ekhTVkNTZ25keDdjWl9FZzhsRWJjcU1TcDE1Y0N1YTkxa0Vs0gHeAUFVX3lxTE9IZnl4Tll2OTRjcXUzMVZoeC1FS3VQR3J4eFoyeVJaNkR5aTRhdVZKaHA0Z1U3ZDd5QnRFelFjRHVIWFd3aVJxTHRtdXFqcmJ3SzhISHZLV29wMkFfbEJ2OVNqMnBGOW5GOS1tZUNIQnA3OWpETEdzYTJaUTBzVlJZTFN6b0R2NE93VVVGLXJxR2JObVIyQUxSQnN4M001Vy1YRGV1Z01veV9udlhWVTkzb0tBUDFOS2h2UTZLaUFoYVlUSzJYRTBkSlM5eE9zU2xBWXhpVDBiQjZ6emh3Zw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "heart disease",
+          "related_drugs": [
+            {
+              "slug": "alteplase",
+              "name": "Alteplase"
+            },
+            {
+              "slug": "atosiban",
+              "name": "Atosiban"
+            },
+            {
+              "slug": "cyclandelate",
+              "name": "Cyclandelate"
+            },
+            {
+              "slug": "cyproterone_acetate",
+              "name": "Cyproterone Acetate"
+            },
+            {
+              "slug": "db00009",
+              "name": "ALTEPLASE"
+            },
+            {
+              "slug": "db00015",
+              "name": "RETEPLASE"
+            },
+            {
+              "slug": "db00031",
+              "name": "TENECTEPLASE"
+            },
+            {
+              "slug": "db00063",
+              "name": "EPTIFIBATIDE"
+            },
+            {
+              "slug": "db00175",
+              "name": "PRAVASTATIN"
+            },
+            {
+              "slug": "db00227",
+              "name": "LOVASTATIN"
+            },
+            {
+              "slug": "db00335",
+              "name": "ATENOLOL"
+            },
+            {
+              "slug": "db00641",
+              "name": "SIMVASTATIN"
+            },
+            {
+              "slug": "db00661",
+              "name": "VERAPAMIL"
+            },
+            {
+              "slug": "db00722",
+              "name": "LISINOPRIL"
+            },
+            {
+              "slug": "db00758",
+              "name": "CLOPIDOGREL"
+            },
+            {
+              "slug": "db00775",
+              "name": "TIROFIBAN"
+            },
+            {
+              "slug": "db00806",
+              "name": "PENTOXIFYLLINE"
+            },
+            {
+              "slug": "db01076",
+              "name": "ATORVASTATIN"
+            },
+            {
+              "slug": "db01095",
+              "name": "FLUVASTATIN"
+            },
+            {
+              "slug": "db01098",
+              "name": "ROSUVASTATIN"
+            },
+            {
+              "slug": "db01113",
+              "name": "PAPAVERINE"
+            },
+            {
+              "slug": "db06209",
+              "name": "PRASUGREL"
+            },
+            {
+              "slug": "db08816",
+              "name": "TICAGRELOR"
+            },
+            {
+              "slug": "db08941",
+              "name": "ISOXSUPRINE"
+            },
+            {
+              "slug": "doxapram",
+              "name": "Doxapram"
+            },
+            {
+              "slug": "ebastine",
+              "name": "Ebastine"
+            },
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide Dinitrate"
+            },
+            {
+              "slug": "isoxsuprine",
+              "name": "Isoxsuprine"
+            },
+            {
+              "slug": "lubiprostone",
+              "name": "Lubiprostone"
+            },
+            {
+              "slug": "propafenone",
+              "name": "Propafenone"
+            },
+            {
+              "slug": "streptokinase",
+              "name": "Streptokinase"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89b377dcd62c",
+      "title": "Closing the Diagnostic Gap in Dementia With Blood-Based Biomarkers - Psychiatric Times",
       "published": "2026-10-04T00:24:51+00:00",
       "sources": [
         {
-          "name": "psychiatrictimes.com",
+          "name": "Psychiatric Times",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0dBQTMyS2hvOXkxN2xXQUIwUU90MTNlWTRwVkJ1dk4tNHNNaExiZWd3OGlVSGR3bUVrdWZBeVlOVkdpalpYOVVMVVhMRThUOFYwdGc2aFg3ejlVRzNiTkFaMHVtLTlJVkNrN0RhSkZMYzVmbWNGa09GZkd3V3l3UDFvX2wzdmZkd2VKY2JBVnZkMUdtdjl0R2tjbmlPLWpQNDRXUkZyMA?oc=5"
         }
       ],
@@ -4916,6 +5658,49 @@
               "name": "Valsartan"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "breast cancer",
+          "related_drugs": [
+            {
+              "slug": "altretamine",
+              "name": "Altretamine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "Eptifibatide"
+            },
+            {
+              "slug": "estramustine",
+              "name": "Estramustine"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole"
+            },
+            {
+              "slug": "melphalan",
+              "name": "Melphalan"
+            }
+          ]
         }
       ]
     },
@@ -5846,6 +6631,49 @@
             {
               "slug": "valsartan",
               "name": "Valsartan"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "breast cancer",
+          "related_drugs": [
+            {
+              "slug": "altretamine",
+              "name": "Altretamine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "Eptifibatide"
+            },
+            {
+              "slug": "estramustine",
+              "name": "Estramustine"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole"
+            },
+            {
+              "slug": "melphalan",
+              "name": "Melphalan"
             }
           ]
         }
@@ -6795,12 +7623,12 @@
       ]
     },
     {
-      "id": "5df1063f350d",
+      "id": "932e5b7536ae",
       "title": "AISA activists return to Jantar Mantar after chief Neha Bora’s call, several detained",
       "published": "2026-10-03T11:06:58+00:00",
       "sources": [
         {
-          "name": "ThePrint",
+          "name": "theprint.in",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdm80dFZ2QTgtOXRRZWFEc2NNYy1YWGhZOHB2VWNQRmI1amZjZ29uVnRkVTRydUlqNF9hTHRfYVpXTTU1N1ljS3V0b2RYdDJkOG9kd0tiOU12MEpNSEs1a3R3cXFnVVMyRDA3ZTdPaUtLc3Y3LVBfWVBuTjEzS2c2SmlkLWxrdWFyYUFEeU5PYThOcjdiQk5hR2ZTMWJHRFdsbmozRzhqbVFpNmlVZk5Hcm1ZLXgwSFE1bURvU1dn0gHDAUFVX3lxTE1ZbmtkdkwtZlFNanp2WlV5eVJ6MGt6UTRNRlh0S2NSMmVMeXlETURPVGZuM1FFUERhcUlrbmJTTDJUZTZCTGR2S2NnTUNHb25uc21fRHREdTJuRTQ3WlVlaEFvMzM4TEF6VVV2STJJcmNHZmFaVlJqMVp0WW5USnROcG8wT2NRN2VlSlFQbFRrYV9vQjZUR2wxVUE2U0JERzlMdHI3LVdWVFBweFhpWEtRTW5vQUlkeFdwR1BTN3lOVTNoVQ?oc=5"
         }
       ],
@@ -6935,656 +7763,6 @@
               "name": "Streptokinase"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "6f4d311e4b80",
-      "title": "A study finds that diet may slow down brain aging by 2.5 years - The Times of India",
-      "published": "2026-10-03T07:49:00+00:00",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRU55TU1pS2FSbEZ2M1BjYlhKUnJ6TF9GMC1SejIzOThuVFdhRTlyNWhNVGszRVc5cmg2bWd1TjhEU24xcnd4YVk4Rm11V05QQ1Bmc1ExQkljOWtVdWpxREUyN19sSlRhcTNuSThVRUJXVWlmZUp2a0xXMi04eHZEc29iU2daVWYyNjRrdjA0S3FMUGgxLTJmdGhsd3lZbDNUcEpMSVdkYWx6aXBpcG9GU3JaQkFmUGg4Z0Z2MkxRdUxrLWVUUl9JNWhadHMtMXQtMld0ZFQ2TdIB3AFBVV95cUxNdlV2d0xsZFNRbWFrWjA5X3poVTNSSXBubTV2R1hRRFM2SkIyS1M4QUZMYUhRZU55d3FEa1N3MVZtbDlIOXpiWXduTlBMNi1YOTNVWk4xbVlub3ZQNEgyTTBaa0JZbWxHclB3blh4OVIyaE1fMFUwdzdiM1lyLUpHXzFseGR0T1ZPWm56ZXRaR05Cc25CZm9QWVdYMDlfT1ZOSGh5Zy1DMmdqUGJ0SFZNUks0dWRuWEo0bklJY1ZheVpxZlJabl8xdnl3OFdDY01ST1JyaEdqOTFRNGJG?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "dementia",
-          "related_drugs": [
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            },
-            {
-              "slug": "dasatinib",
-              "name": "Dasatinib"
-            },
-            {
-              "slug": "db00674",
-              "name": "GALANTAMINE"
-            },
-            {
-              "slug": "db00843",
-              "name": "DONEPEZIL"
-            },
-            {
-              "slug": "db00989",
-              "name": "RIVASTIGMINE"
-            },
-            {
-              "slug": "db12131",
-              "name": "VINPOCETINE"
-            },
-            {
-              "slug": "entacapone",
-              "name": "Entacapone"
-            },
-            {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "memory loss",
-          "keyword": "dementia",
-          "related_drugs": [
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            },
-            {
-              "slug": "dasatinib",
-              "name": "Dasatinib"
-            },
-            {
-              "slug": "db00674",
-              "name": "GALANTAMINE"
-            },
-            {
-              "slug": "db00843",
-              "name": "DONEPEZIL"
-            },
-            {
-              "slug": "db00989",
-              "name": "RIVASTIGMINE"
-            },
-            {
-              "slug": "db12131",
-              "name": "VINPOCETINE"
-            },
-            {
-              "slug": "entacapone",
-              "name": "Entacapone"
-            },
-            {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "bhoolne ki bimari",
-          "keyword": "dementia",
-          "related_drugs": [
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            },
-            {
-              "slug": "dasatinib",
-              "name": "Dasatinib"
-            },
-            {
-              "slug": "db00674",
-              "name": "GALANTAMINE"
-            },
-            {
-              "slug": "db00843",
-              "name": "DONEPEZIL"
-            },
-            {
-              "slug": "db00989",
-              "name": "RIVASTIGMINE"
-            },
-            {
-              "slug": "db12131",
-              "name": "VINPOCETINE"
-            },
-            {
-              "slug": "entacapone",
-              "name": "Entacapone"
-            },
-            {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "alzheimer",
-          "keyword": "dementia",
-          "related_drugs": [
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            },
-            {
-              "slug": "dasatinib",
-              "name": "Dasatinib"
-            },
-            {
-              "slug": "db00674",
-              "name": "GALANTAMINE"
-            },
-            {
-              "slug": "db00843",
-              "name": "DONEPEZIL"
-            },
-            {
-              "slug": "db00989",
-              "name": "RIVASTIGMINE"
-            },
-            {
-              "slug": "db12131",
-              "name": "VINPOCETINE"
-            },
-            {
-              "slug": "entacapone",
-              "name": "Entacapone"
-            },
-            {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ec471037cec2",
-      "title": "Diabetes is a ‘silent driver’ of heart disease, heart attacks: Experts - Awaz The Voice",
-      "published": "2026-10-03T06:19:09+00:00",
-      "sources": [
-        {
-          "name": "Awaz The Voice",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV1lsNzgzY1RLbF95b2ZlUThfaUhVQ1NBOF9iX2JJMExETWtXSHk1UklEUUpIMXhDaEVJQjNxLW5LMXhsMmRaNEdJTFpnekNBVDZ5NDQ4S09yOTkwRmtOTU1tQnlRYVdkQzVFS2hySnZVdEYwdGtPa3NUV2ozSEIzQ0d1Vk9SVmc0el9STDJyM0xkVW54VnFwOVdMTjE5eThEWkNrNm5CbzJsNXp0eDdBbmNiTHh6eGl5?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "heart disease",
-          "related_drugs": [
-            {
-              "slug": "alteplase",
-              "name": "Alteplase"
-            },
-            {
-              "slug": "atosiban",
-              "name": "Atosiban"
-            },
-            {
-              "slug": "cyclandelate",
-              "name": "Cyclandelate"
-            },
-            {
-              "slug": "cyproterone_acetate",
-              "name": "Cyproterone Acetate"
-            },
-            {
-              "slug": "db00009",
-              "name": "ALTEPLASE"
-            },
-            {
-              "slug": "db00015",
-              "name": "RETEPLASE"
-            },
-            {
-              "slug": "db00031",
-              "name": "TENECTEPLASE"
-            },
-            {
-              "slug": "db00063",
-              "name": "EPTIFIBATIDE"
-            },
-            {
-              "slug": "db00175",
-              "name": "PRAVASTATIN"
-            },
-            {
-              "slug": "db00227",
-              "name": "LOVASTATIN"
-            },
-            {
-              "slug": "db00335",
-              "name": "ATENOLOL"
-            },
-            {
-              "slug": "db00641",
-              "name": "SIMVASTATIN"
-            },
-            {
-              "slug": "db00661",
-              "name": "VERAPAMIL"
-            },
-            {
-              "slug": "db00722",
-              "name": "LISINOPRIL"
-            },
-            {
-              "slug": "db00758",
-              "name": "CLOPIDOGREL"
-            },
-            {
-              "slug": "db00775",
-              "name": "TIROFIBAN"
-            },
-            {
-              "slug": "db00806",
-              "name": "PENTOXIFYLLINE"
-            },
-            {
-              "slug": "db01076",
-              "name": "ATORVASTATIN"
-            },
-            {
-              "slug": "db01095",
-              "name": "FLUVASTATIN"
-            },
-            {
-              "slug": "db01098",
-              "name": "ROSUVASTATIN"
-            },
-            {
-              "slug": "db01113",
-              "name": "PAPAVERINE"
-            },
-            {
-              "slug": "db06209",
-              "name": "PRASUGREL"
-            },
-            {
-              "slug": "db08816",
-              "name": "TICAGRELOR"
-            },
-            {
-              "slug": "db08941",
-              "name": "ISOXSUPRINE"
-            },
-            {
-              "slug": "doxapram",
-              "name": "Doxapram"
-            },
-            {
-              "slug": "ebastine",
-              "name": "Ebastine"
-            },
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide Dinitrate"
-            },
-            {
-              "slug": "isoxsuprine",
-              "name": "Isoxsuprine"
-            },
-            {
-              "slug": "lubiprostone",
-              "name": "Lubiprostone"
-            },
-            {
-              "slug": "propafenone",
-              "name": "Propafenone"
-            },
-            {
-              "slug": "streptokinase",
-              "name": "Streptokinase"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d49838976d8e",
-      "title": "HRT for Menopause and CV Risk: Two Observational Studies Provide Insights",
-      "published": "2026-10-02T20:36:23+00:00",
-      "sources": [
-        {
-          "name": "TCTMD.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNal9WRTZuM2R1WG1kTjFLbERxMGJGa1dlUXBjci1iS2JqcGl2TlFtbmZSU19FN3M1Zi1kcTA1YWdqOW9EVHd1RVk5Qk1xc2pnbmNTY1pDRUhpTVNyX3d0am9jMU5IcVpSQlY3T1I4UjRyN0Q1bHJUZVBKWFpIa2tyVmwzSUllQy1jakVQR2F4ZVprMGNEQnRoTWlzMA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "menopause",
-          "related_drugs": [
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            },
-            {
-              "slug": "db00367",
-              "name": "LEVONORGESTREL"
-            },
-            {
-              "slug": "db00396",
-              "name": "PROGESTERONE"
-            },
-            {
-              "slug": "db00399",
-              "name": "ZOLEDRONIC ACID"
-            },
-            {
-              "slug": "db00481",
-              "name": "RALOXIFENE"
-            },
-            {
-              "slug": "db00603",
-              "name": "MEDROXYPROGESTERONE ACETATE"
-            },
-            {
-              "slug": "db00624",
-              "name": "TESTOSTERONE"
-            },
-            {
-              "slug": "db00630",
-              "name": "ALENDRONIC ACID"
-            },
-            {
-              "slug": "db00717",
-              "name": "NORETHISTERONE"
-            },
-            {
-              "slug": "db00783",
-              "name": "ESTRADIOL"
-            },
-            {
-              "slug": "db01395",
-              "name": "DROSPIRENONE"
-            },
-            {
-              "slug": "db01420",
-              "name": "TESTOSTERONE PROPIONATE"
-            },
-            {
-              "slug": "db06285",
-              "name": "TERIPARATIDE"
-            },
-            {
-              "slug": "db06548",
-              "name": "MINODRONIC ACID"
-            },
-            {
-              "slug": "db06643",
-              "name": "DENOSUMAB"
-            },
-            {
-              "slug": "db09070",
-              "name": "TIBOLONE"
-            },
-            {
-              "slug": "db11110",
-              "name": "MAGNESIUM CITRATE"
-            },
-            {
-              "slug": "db11126",
-              "name": "CALCIUM GLUCONATE"
-            },
-            {
-              "slug": "ivermectin",
-              "name": "Ivermectin"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "Metronidazole"
-            },
-            {
-              "slug": "natamycin",
-              "name": "Natamycin"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause symptoms",
-          "keyword": "menopause",
-          "related_drugs": [
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            },
-            {
-              "slug": "db00367",
-              "name": "LEVONORGESTREL"
-            },
-            {
-              "slug": "db00396",
-              "name": "PROGESTERONE"
-            },
-            {
-              "slug": "db00399",
-              "name": "ZOLEDRONIC ACID"
-            },
-            {
-              "slug": "db00481",
-              "name": "RALOXIFENE"
-            },
-            {
-              "slug": "db00603",
-              "name": "MEDROXYPROGESTERONE ACETATE"
-            },
-            {
-              "slug": "db00624",
-              "name": "TESTOSTERONE"
-            },
-            {
-              "slug": "db00630",
-              "name": "ALENDRONIC ACID"
-            },
-            {
-              "slug": "db00717",
-              "name": "NORETHISTERONE"
-            },
-            {
-              "slug": "db00783",
-              "name": "ESTRADIOL"
-            },
-            {
-              "slug": "db01395",
-              "name": "DROSPIRENONE"
-            },
-            {
-              "slug": "db01420",
-              "name": "TESTOSTERONE PROPIONATE"
-            },
-            {
-              "slug": "db06285",
-              "name": "TERIPARATIDE"
-            },
-            {
-              "slug": "db06548",
-              "name": "MINODRONIC ACID"
-            },
-            {
-              "slug": "db06643",
-              "name": "DENOSUMAB"
-            },
-            {
-              "slug": "db09070",
-              "name": "TIBOLONE"
-            },
-            {
-              "slug": "db11110",
-              "name": "MAGNESIUM CITRATE"
-            },
-            {
-              "slug": "db11126",
-              "name": "CALCIUM GLUCONATE"
-            },
-            {
-              "slug": "ivermectin",
-              "name": "Ivermectin"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "Metronidazole"
-            },
-            {
-              "slug": "natamycin",
-              "name": "Natamycin"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "masik dharm band",
-          "keyword": "menopause",
-          "related_drugs": [
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            },
-            {
-              "slug": "db00367",
-              "name": "LEVONORGESTREL"
-            },
-            {
-              "slug": "db00396",
-              "name": "PROGESTERONE"
-            },
-            {
-              "slug": "db00399",
-              "name": "ZOLEDRONIC ACID"
-            },
-            {
-              "slug": "db00481",
-              "name": "RALOXIFENE"
-            },
-            {
-              "slug": "db00603",
-              "name": "MEDROXYPROGESTERONE ACETATE"
-            },
-            {
-              "slug": "db00624",
-              "name": "TESTOSTERONE"
-            },
-            {
-              "slug": "db00630",
-              "name": "ALENDRONIC ACID"
-            },
-            {
-              "slug": "db00717",
-              "name": "NORETHISTERONE"
-            },
-            {
-              "slug": "db00783",
-              "name": "ESTRADIOL"
-            },
-            {
-              "slug": "db01395",
-              "name": "DROSPIRENONE"
-            },
-            {
-              "slug": "db01420",
-              "name": "TESTOSTERONE PROPIONATE"
-            },
-            {
-              "slug": "db06285",
-              "name": "TERIPARATIDE"
-            },
-            {
-              "slug": "db06548",
-              "name": "MINODRONIC ACID"
-            },
-            {
-              "slug": "db06643",
-              "name": "DENOSUMAB"
-            },
-            {
-              "slug": "db09070",
-              "name": "TIBOLONE"
-            },
-            {
-              "slug": "db11110",
-              "name": "MAGNESIUM CITRATE"
-            },
-            {
-              "slug": "db11126",
-              "name": "CALCIUM GLUCONATE"
-            },
-            {
-              "slug": "ivermectin",
-              "name": "Ivermectin"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "Metronidazole"
-            },
-            {
-              "slug": "natamycin",
-              "name": "Natamycin"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5aaf8297f1cc",
-      "title": "Neurologists recommend 4 everyday habits for better brain health",
-      "published": "2026-10-02T17:00:11+00:00",
-      "sources": [
-        {
-          "name": "brainhealth.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KWDVDdEFzNGluWDB0MzVLZmpaM1dFZlU1N29LbjJaWXhkZ1MwVFVpaW0xSmRPZkpFamY5RjhWZ3ZJUFNWTEIzSnZWajdhdnVUOUpXOHRwVEpYTElwY0hnYmZ5c1ZNamR2aWxjWTRCRXVHLWVuUFlTTE1Xb2VrbUU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "db01592",
-          "keyword": "iron",
-          "name": "IRON",
-          "url": "/drugs/db01592/"
-        },
-        {
-          "type": "drug",
-          "slug": "iron",
-          "keyword": "iron",
-          "name": "Iron",
-          "url": "/drugs/iron/"
         }
       ]
     },
@@ -8521,141 +8699,13 @@
       ]
     },
     {
-      "id": "455a461bc2cd",
-      "title": "New research suggests vaccines could help prevent autism - Gavi, the Vaccine Alliance",
-      "published": "2026-10-01T15:04:41+00:00",
+      "id": "102bfc8727e7",
+      "title": "Peripheral vascular disease (PVD): Vascular surgeon Dr Rajiv Parakh explains the symptoms, risks, prevention, treatment | Health - Hindustan Times",
+      "published": "2026-10-01T07:30:43+00:00",
       "sources": [
         {
-          "name": "Gavi, the Vaccine Alliance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZRVV92U1NESHhPUGl4VnRUQnAtQWY5dkF1OTdrNHNNWWx1Tl90eGhNTzU1N0p4amt0OERNTVdVeFhBMFRCZlBkMXo3a0w2RUhrOU5tdU1ia1N1R0FQTXV2eUpyT3RZTFFKVDNFYjE3UHpLZzJQT3pZX3dKelFCQTRPZWlxeXY4aFIySFFtSGlxUERD?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "abemaciclib",
-              "name": "Abemaciclib"
-            },
-            {
-              "slug": "abiraterone",
-              "name": "Abiraterone"
-            },
-            {
-              "slug": "alpelisib",
-              "name": "Alpelisib"
-            },
-            {
-              "slug": "amiodarone",
-              "name": "Amiodarone"
-            },
-            {
-              "slug": "amodiaquine",
-              "name": "Amodiaquine"
-            },
-            {
-              "slug": "apremilast",
-              "name": "Apremilast"
-            },
-            {
-              "slug": "balsalazide",
-              "name": "Balsalazide"
-            },
-            {
-              "slug": "bosentan",
-              "name": "Bosentan"
-            },
-            {
-              "slug": "cabazitaxel",
-              "name": "Cabazitaxel"
-            },
-            {
-              "slug": "chlorzoxazone",
-              "name": "Chlorzoxazone"
-            },
-            {
-              "slug": "choline_salicylate",
-              "name": "Choline Salicylate"
-            },
-            {
-              "slug": "chromium",
-              "name": "Chromium"
-            },
-            {
-              "slug": "eptifibatide",
-              "name": "Eptifibatide"
-            },
-            {
-              "slug": "levocetirizine",
-              "name": "Levocetirizine"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            },
-            {
-              "slug": "mefenamic_acid",
-              "name": "Mefenamic Acid"
-            },
-            {
-              "slug": "mesalazine",
-              "name": "Mesalazine"
-            },
-            {
-              "slug": "metamizole",
-              "name": "Metamizole"
-            },
-            {
-              "slug": "nalidixic_acid",
-              "name": "Nalidixic Acid"
-            },
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "valdecoxib",
-              "name": "Valdecoxib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b38e34562754",
-      "title": "Creatine may help build muscle even without exercise, researchers find",
-      "published": "2026-09-30T03:14:17+00:00",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LTWVDOXd6cFF2QkhMSDJnNE5FM2FaQXE1VDdpWk1mN2RobERGY2Z1MlpPNTgxYXR2NkZzbExGdDJOV0w2dU1BTUtaUENrOE5iY3plcE5wQ3B2NlRxQS0xWUdhRGZubm94OGFnenA1NA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "asthma",
-          "keyword": "dama",
-          "related_drugs": [
-            {
-              "slug": "montelukast",
-              "name": "Montelukast"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4d20afbff743",
-      "title": "Leg pain while walking? Don’t blame it on ageing: These warning signs could point to blocked arteries and raise your risk of heart attack and stroke, cardiologist explains - The Times of India",
-      "published": "2026-09-29T09:45:00+00:00",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPbnRNVF81TV9VNHVCZGZ4TUJYWlJEQm1rZHJHajIyYS1uLVdQMXhJRVNUcTc0SEJZbmdLSy0wMUtuRjVGS1hnVWpQelI0RHd4RG5Ja2liTHBCNjVqNnZNRktJbGNXWi10eWFXbDVONWlKdDNpMXNlR09FLXQ3TUxYY2p5cjBCUUlPZjhfUGIwMk85Y2I5UkJiWmdPZ3hSRy1CejBFdUgxYlBDblBsc3k3RC04QUowaEtTaERJdVVXZkVOWVhkMW5JaUlkc0ZyTHBXc2dzSUw0R3lScVB6TV8wRVFWRlhmWndqQnpSUkd3QWdEOUpmS0NxbUNPa3ZLNGNCdTlubkJGUGNEYkFleE4wcWxFZm93Q3ZmOUE2ZUczN3N6dG9jRjFFUDJ1dW1GV0JMWXE2cWxYTmFRSm5jSS1yWTJFekdwdE5rQnV0bW1LVTZubkJNbDRudTUwN1YxaG5KZFVtamNma9IB7wJBVV95cUxNYkFRMG5MNUZjN044OWdhUGEyeVpvakEzRWI4U2R6S1ZuRmdqUDZnUVFzc3lHOFRuaHI0TV9oRUJYbHZkMlN4UWFRNDRKV2xldkN1eVJyTE42bmZmYTVwVWdWTkoxQzkxLVMyRDkySHhGVWRyN1BMSVB6LVhmZEQwRDNMblpvaDhNZGhMb1ZUazBLUWw4WkhZYWJ2SHpseDNEY21YcnpHT0xrdGQ3QlZkSlRTLXRYYzlJbFhHYVhJSmpnSzBnZlZEMmRYSERoWXFXQk9veUJDS2FYcUM2ajBtaU55NHZCak1lSW5TNGUyYVc4a29zd3pJUjNNX1JJdkI2YllYOGZvZi1jUS1wRUJmTG54OVF4T1UtQmQ5Tnp6dUU5aDJYT0VvQlBFQVB0dVlmT2Vfa0lVaTF3cmg4QUVBYXRBNklqc2Qwd2Y2ZDRCNFdGaU1mLTUwdG5tcndybl9oNGllUG1MeDh6V3EzSExr?oc=5"
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRFBEVU9OaFlJVmZPTDFhdi02SU5hQlJwbjRmRDBNeGhHMGtDajVqcUt4N0pFMHdMa2QxSkg4ZE5sb0M2blFxSnplSjNpdjd2NWJHaGN0RFY2NXgwTDJYWnhNdWRkakxKT2Z4R0tlWDJOTklUdVRrbGtUaDlyOWlzX0l0VUlqRGdjNEpTN0k0WXFWOUpQaVMxTVJQSWRNRFE5SFl1TWhHaHByanIzZDBSSHYyYV9vT2tmdTJlSUlzbXpYbE9nLW9RcVQ5b1JZRjRyeHBTSEZOejlaUjNyaUw3VWFtb1FkNEt5Y3NKMUY5YXJpQzBtanFoWERnb1dWSFdDLW9pQjF4cEFySTFPUjVN0gGUAkFVX3lxTE1nZXNkRWNnakdmVHFZZV9jTzdVQVBmQy0zakZDYXBYejF0UmdKNjF6cVVncEhqbktXV3RoNWpTQkNySUttek84Y041aGcwUHRXRVpXQW5nal9OaHo4aUdtc3RLbEVvdk5oc0FuUjRnbUR0ZFd5UjJpWmF4b1p4SWdRbnpHUDAtaE9fX19mbTZ0WlpPd0luX0JablllYUdWa2JKOEVrbXQ2VTMyS19ocGxDazhVMDhGanpVUk52SUI2UnJKX1EtbHFnNWlla0ZBSjdPcFhERlB3SGtGdXU0QUtEbTdydlRaYjVMVk5UdmEzS0xMbU9JNU1XUlF2RW9ZZ2ZVLXlDS01WQmhtcVd1TGxVYzczaA?oc=5"
         }
       ],
       "keywords": [
@@ -9129,12 +9179,12 @@
       ]
     },
     {
-      "id": "61cbfad05af8",
-      "title": "World Rabies Day awareness programme organised at Fazl Ali College - Nagaland Tribune",
+      "id": "06a16dd3fd75",
+      "title": "World Rabies Day awareness programme organised at Fazl Ali College",
       "published": "2026-09-28T21:17:54+00:00",
       "sources": [
         {
-          "name": "Nagaland Tribune",
+          "name": "nagalandtribune.in",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlM0d0plY1l3VEZRYXluM1dvSEpFM2pBN3RCcmxoQzRvUVJtcTRmSXlBSE9MdEw0eDF0eXVIWGNqbW02QXFLMHV6X0x6YjBYTTVtRGVyWXA0dV9mZHh6cEhXU1NYbWhmVVhEY2JqbzNDR01rOVQ3WENoRFdHc0ZDMjFFTGxnVVF2ajFONGZRdElfTGx4dzhNaHlB?oc=5"
         }
       ],
@@ -9153,12 +9203,12 @@
       ]
     },
     {
-      "id": "63e3a1431d65",
+      "id": "86bfcfecd831",
       "title": "The Age You Reach Menopause May Be Linked to Your Future Brain Health, 18-Year Study Finds",
       "published": "2026-09-28T20:04:38+00:00",
       "sources": [
         {
-          "name": "sciencealert.com",
+          "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhRX1dpalliakNmeHh4UVFYckJENXNCbE9uTGhITlhfY0xnQUV4OXpfMUlidVBCQmN6UWtWUGEydXFtbVEyN096YlRYTDd1RzZWVDdsNEszdm9BQURpZkFNdzFMenhMc3pJNG93UlR6T2V1a2JUTFFWMWl5X1ozOXJfOTRkMXVRaWNfQS1sc1Qxd3lXcVBMNE9zR3l0QUg4cEZkZnA5SWlwdEoxcjVFcy0taHV1Qmgyb1E?oc=5"
         }
       ],
@@ -9619,29 +9669,106 @@
       ]
     },
     {
-      "id": "8821182596d0",
-      "title": "Space sustainability beyond ‘zero debris’: from orbital safety to circular materials",
-      "published": "2026-09-28T13:34:42+00:00",
+      "id": "176b1119f106",
+      "title": "Infections at birth substantially increase the risk of autism and intellectual disability, study finds",
+      "published": "2026-09-28T18:54:49+00:00",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yRjlQMEpTUmQ5WUVKd2toTm9iUW9hY0lzMzZlN1J3aWh4cTg4QXZnRl80TkpWNEhJVmZiWHdkdWkyQjlRUURzT1Z1Y1JXVG1JWnRSU3N5T2R0N216bFlr?oc=5"
+          "name": "CIDRAP",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNG0zMGVVYnJZeTd2bExkREo3N1pYQTM3Z0FLZXptNzB0MU9fOFgwMVF1V3c4cWpTRnQzT0JRY3dIb1BPbUVBWmJGbVBvd3VlQl9jWVpqZndxcHo4eGY5dGlXWllNbnpOMVBBRW5Qcks0YjVYSDJpZndqV1lYSEVpRVExWk5iQ3lZSjEzQm83MEtwcm5KcjE3VnlOcTBteWsyRXBQTUphSUYybXJKTDdtQXdMQXNWeXZ3bE5iaXFUVWsyS1Zw?oc=5"
         }
       ],
       "keywords": [
         {
-          "type": "drug",
-          "slug": "db01592",
-          "keyword": "iron",
-          "name": "IRON",
-          "url": "/drugs/db01592/"
-        },
-        {
-          "type": "drug",
-          "slug": "iron",
-          "keyword": "iron",
-          "name": "Iron",
-          "url": "/drugs/iron/"
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "abemaciclib",
+              "name": "Abemaciclib"
+            },
+            {
+              "slug": "abiraterone",
+              "name": "Abiraterone"
+            },
+            {
+              "slug": "alpelisib",
+              "name": "Alpelisib"
+            },
+            {
+              "slug": "amiodarone",
+              "name": "Amiodarone"
+            },
+            {
+              "slug": "amodiaquine",
+              "name": "Amodiaquine"
+            },
+            {
+              "slug": "apremilast",
+              "name": "Apremilast"
+            },
+            {
+              "slug": "balsalazide",
+              "name": "Balsalazide"
+            },
+            {
+              "slug": "bosentan",
+              "name": "Bosentan"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel"
+            },
+            {
+              "slug": "chlorzoxazone",
+              "name": "Chlorzoxazone"
+            },
+            {
+              "slug": "choline_salicylate",
+              "name": "Choline Salicylate"
+            },
+            {
+              "slug": "chromium",
+              "name": "Chromium"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "Eptifibatide"
+            },
+            {
+              "slug": "levocetirizine",
+              "name": "Levocetirizine"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            },
+            {
+              "slug": "mefenamic_acid",
+              "name": "Mefenamic Acid"
+            },
+            {
+              "slug": "mesalazine",
+              "name": "Mesalazine"
+            },
+            {
+              "slug": "metamizole",
+              "name": "Metamizole"
+            },
+            {
+              "slug": "nalidixic_acid",
+              "name": "Nalidixic Acid"
+            },
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "valdecoxib",
+              "name": "Valdecoxib"
+            }
+          ]
         }
       ]
     },
