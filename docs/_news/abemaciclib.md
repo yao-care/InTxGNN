@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,12 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li class="indication-matched">rheumatoid arthritis (97.3%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (97.3%)</li>
 <li>hyperthyroidism (97.2%)</li>
 <li>multiple endocrine neoplasia (97.1%)</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (96.9%)</li>
 <li>homozygous familial hypercholesterolemia (96.6%)</li>
-<li class="indication-matched">heart disease (96.3%)<span class="indication-tag">📰 heart disease</span></li>
+<li>heart disease (96.3%)</li>
 <li>Laubry-Pezzi syndrome (96.3%)</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly (96.3%)</li>
 <li>Jeune syndrome situs inversus (96.2%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [World Heart Day observed today to raise awareness about cardiovascular diseases - News On AIR](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjA2aW1YcDBkeFFJS21rbGdqX0xaQ21yZmhCSWIySDI3dHBCUzRxQU02ODM5Ynd4UUowSFFzSVE4OFlXTzBLQTNaOGhYT1U1WGtxNU5CNnFiWTNqRzlkYWJ5V2JINlZWOVZwbjh6NU9wV0dGc2VCZTBMY3RoaFliSnVjXzJ6WlQyLVlNTVBwelUybm1QOXQ1ODd2UjlyemtzeGdEWS1CWTc?oc=5)
-
-2026-09-29 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">vascular disease</span>
-
-Source: [News On AIR](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjA2aW1YcDBkeFFJS21rbGdqX0xaQ21yZmhCSWIySDI3dHBCUzRxQU02ODM5Ynd4UUowSFFzSVE4OFlXTzBLQTNaOGhYT1U1WGtxNU5CNnFiWTNqRzlkYWJ5V2JINlZWOVZwbjh6NU9wV0dGc2VCZTBMY3RoaFliSnVjXzJ6WlQyLVlNTVBwelUybm1QOXQ1ODd2UjlyemtzeGdEWS1CWTc?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

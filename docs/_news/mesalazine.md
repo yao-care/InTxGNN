@@ -26,8 +26,8 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <ul>
 <li><strong>Predicted indications (7)</strong>:<ul>
 <li>congenital hypotrichosis with juvenile macular dystrophy (99.7%)</li>
-<li>osteoarthritis (99.6%)</li>
-<li class="indication-matched">rheumatoid arthritis (99.6%)<span class="indication-tag">📰 RA</span></li>
+<li class="indication-matched">osteoarthritis (99.6%)<span class="indication-tag">📰 osteoarthritis</span></li>
+<li>rheumatoid arthritis (99.6%)</li>
 <li>seborrheic keratosis (99.5%)</li>
 <li>osteoarthritis susceptibility (99.3%)</li>
 <li>vulvar inverted follicular keratosis (99.3%)</li>
@@ -39,11 +39,11 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 
 ## Related News (1)
 
-### [World Heart Day observed today to raise awareness about cardiovascular diseases - News On AIR](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjA2aW1YcDBkeFFJS21rbGdqX0xaQ21yZmhCSWIySDI3dHBCUzRxQU02ODM5Ynd4UUowSFFzSVE4OFlXTzBLQTNaOGhYT1U1WGtxNU5CNnFiWTNqRzlkYWJ5V2JINlZWOVZwbjh6NU9wV0dGc2VCZTBMY3RoaFliSnVjXzJ6WlQyLVlNTVBwelUybm1QOXQ1ODd2UjlyemtzeGdEWS1CWTc?oc=5)
+### [High blood pressure can accelerate osteoarthritis joint damage via a newly identified hormone pathway - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
 
-2026-09-29 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">vascular disease</span>
+2026-10-05 <span class="news-indication-tag">dama</span> <span class="news-indication-tag">osteoarthritis</span>
 
-Source: [News On AIR](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjA2aW1YcDBkeFFJS21rbGdqX0xaQ21yZmhCSWIySDI3dHBCUzRxQU02ODM5Ynd4UUowSFFzSVE4OFlXTzBLQTNaOGhYT1U1WGtxNU5CNnFiWTNqRzlkYWJ5V2JINlZWOVZwbjh6NU9wV0dGc2VCZTBMY3RoaFliSnVjXzJ6WlQyLVlNTVBwelUybm1QOXQ1ODd2UjlyemtzeGdEWS1CWTc?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
 
 ---
 

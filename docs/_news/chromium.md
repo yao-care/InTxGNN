@@ -25,9 +25,9 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>osteoarthritis (98.7%)</li>
+<li class="indication-matched">osteoarthritis (98.7%)<span class="indication-tag">📰 osteoarthritis</span></li>
 <li>osteoarthritis susceptibility (98.5%)</li>
-<li class="indication-matched">rheumatoid arthritis (98.5%)<span class="indication-tag">📰 RA</span></li>
+<li>rheumatoid arthritis (98.5%)</li>
 <li>gout (98.0%)</li>
 <li>pseudoachondroplasia (98.0%)</li>
 <li>hepatic porphyria (97.9%)</li>
@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 
 ## Related News (1)
 
-### [World Heart Day observed today to raise awareness about cardiovascular diseases - News On AIR](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjA2aW1YcDBkeFFJS21rbGdqX0xaQ21yZmhCSWIySDI3dHBCUzRxQU02ODM5Ynd4UUowSFFzSVE4OFlXTzBLQTNaOGhYT1U1WGtxNU5CNnFiWTNqRzlkYWJ5V2JINlZWOVZwbjh6NU9wV0dGc2VCZTBMY3RoaFliSnVjXzJ6WlQyLVlNTVBwelUybm1QOXQ1ODd2UjlyemtzeGdEWS1CWTc?oc=5)
+### [High blood pressure can accelerate osteoarthritis joint damage via a newly identified hormone pathway - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
 
-2026-09-29 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">vascular disease</span>
+2026-10-05 <span class="news-indication-tag">dama</span> <span class="news-indication-tag">osteoarthritis</span>
 
-Source: [News On AIR](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjA2aW1YcDBkeFFJS21rbGdqX0xaQ21yZmhCSWIySDI3dHBCUzRxQU02ODM5Ynd4UUowSFFzSVE4OFlXTzBLQTNaOGhYT1U1WGtxNU5CNnFiWTNqRzlkYWJ5V2JINlZWOVZwbjh6NU9wV0dGc2VCZTBMY3RoaFliSnVjXzJ6WlQyLVlNTVBwelUybm1QOXQ1ODd2UjlyemtzeGdEWS1CWTc?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
 
 ---
 
