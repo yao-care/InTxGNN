@@ -14,7 +14,7 @@ permalink: /news/doxofylline/
 ---
 
 <p class="key-answer" data-question="What news is there about Doxofylline?">
-<strong>Doxofylline</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Doxofylline</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,16 +33,22 @@ This page combines the AI-predicted indications for Doxofylline with the latest 
 <li>partial deletion of the long arm of chromosome 7 (99.5%)</li>
 <li>disorder of fucoglycosan synthesis (99.5%)</li>
 <li>partial deletion of the long arm of chromosome 22 (99.5%)</li>
-<li>heart disease (99.5%)</li>
+<li class="indication-matched">heart disease (99.5%)<span class="indication-tag">📰 heart disease</span></li>
 <li>pulmonary valve disease (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/doxofylline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [How does menopause affect women’s heart health? Cardiovascular surgeon with 25 years of experience reveals 3 risks | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxQRHE3NTZPYUZaUXBiWHplTkh0blY2bVNzQkxEUUwtSnpMajNsMnhqSlRmeXBtMEVBZlY5Z2ZhTGt3dnlucHVQUU5sczRiWGI5cnZKcEQ1aEVTMW5UcGk1RGMxd3hUTmdMY21CMkVLWEphLXlDSzJSdHN4cnhSNkE2OVRPWmU5aGNTLTRVR0x4LTByc0V4SEJDX2gwQUVQOHE1SWRGWURoeDZ4OUotQ29fcEU1V2ItRDFnbHVMRDBnRkJWZWxjazRQRFVNMHBvY2hZenZta0o4cGpkLWVOckVBdDdheDk3Yi04ZDkyMEtBMDB6VUk3SlJFZ3hYclVrRnFST2Fnamd0UE8wamRpVEI40gGUAkFVX3lxTE1KZmF2dnROTHpOdnZXRURzQ2V6WFpkWmxtNFdIMnZVeFNkcHh6RTV2WFBOeU1nckszZlJmeGZYYlJWUnlyX2JhNjg3bmxqbk40a2JZR1hEOW40R2dPZHJJWFhRZmZvX21zcE8yMVZIMHM2Tngtb3lWdV9HOG10enhCSXREemN2b0V4R0JmaUtlUjF4ZmhMMnFaa3ZuQUYyX3RUZnZhQTJfYVFXMXZUQklTNHFudzlPd3MxdlBNVzBZZDN6eE0xVVJuYWdNM0dlUWxqT3FlSnF6c19xaWJ2V1pMWGZVbk91SV9pWnc1MEx0THdFRWh5eXhuUEp6cDk3ajVPbHlTRFd1UWc4UlEtR09NY2NxRQ?oc=5)
+
+2026-10-06 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxQRHE3NTZPYUZaUXBiWHplTkh0blY2bVNzQkxEUUwtSnpMajNsMnhqSlRmeXBtMEVBZlY5Z2ZhTGt3dnlucHVQUU5sczRiWGI5cnZKcEQ1aEVTMW5UcGk1RGMxd3hUTmdMY21CMkVLWEphLXlDSzJSdHN4cnhSNkE2OVRPWmU5aGNTLTRVR0x4LTByc0V4SEJDX2gwQUVQOHE1SWRGWURoeDZ4OUotQ29fcEU1V2ItRDFnbHVMRDBnRkJWZWxjazRQRFVNMHBvY2hZenZta0o4cGpkLWVOckVBdDdheDk3Yi04ZDkyMEtBMDB6VUk3SlJFZ3hYclVrRnFST2Fnamd0UE8wamRpVEI40gGUAkFVX3lxTE1KZmF2dnROTHpOdnZXRURzQ2V6WFpkWmxtNFdIMnZVeFNkcHh6RTV2WFBOeU1nckszZlJmeGZYYlJWUnlyX2JhNjg3bmxqbk40a2JZR1hEOW40R2dPZHJJWFhRZmZvX21zcE8yMVZIMHM2Tngtb3lWdV9HOG10enhCSXREemN2b0V4R0JmaUtlUjF4ZmhMMnFaa3ZuQUYyX3RUZnZhQTJfYVFXMXZUQklTNHFudzlPd3MxdlBNVzBZZDN6eE0xVVJuYWdNM0dlUWxqT3FlSnF6c19xaWJ2V1pMWGZVbk91SV9pWnc1MEx0THdFRWh5eXhuUEp6cDk3ajVPbHlTRFd1UWc4UlEtR09NY2NxRQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -3,7 +3,7 @@ layout: default
 title: "dementia News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia. 3 articles, 8 related drugs."
+description: "Health news about dementia. 1 articles, 8 related drugs."
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia?">
-<strong>dementia</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<strong>dementia</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,29 +36,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (1)
 
-### [Popular Joint Supplement Tied to Faster Decline in Alzheimer’s Patients](https://news.google.com/rss/articles/CBMia0FVX3lxTE5RQWM1NFRZZ0NUdHUzenhvWXBMdnF1dWNBLUdUTS1CTUlWbWtpMVJpa2hoS3YwOWpkZkUyTXZ4TlFsS1VBY3NCMnJYYlFvU2tTZjJ4aVpjbHAwbmhoUUpxSFZrdnJMV0h2cWRZ?oc=5)
+### [‘There’s plenty you can do’: The lifestyle changes you can make to curb the risk of dementia](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeV84ejg1RXhVRVE3UkdoNk95U0laQW11Z0xOWlZFSThwMjFsNUFnakRPd1RYVG8wWmRnLWxUU2Y1MVRtV25EdG1fSXRoV2lyZHRBSWJveFhPdUtVVDVlTW1sdUV1bExCc3poLTh1aDJzb3htY1J6SG1QSnJzZjZvaUFGYmszRDNLUmlRU2pUSm02NTFoQkd0WDN6bGg0Yk5JU2x6WGxldFo2SGZKUGR5VmtuMloyNzJKbXFfdUxEc3ROMTBNTEdjNS1vYkxxLUNNWEZ0QTFsZWZPeG5xd3JaUUlhdGtPMmRXZHA2Y0NwdzYydkh0U1E?oc=5)
 
-2026-10-05
+2026-10-06
 
-Source: [Sci.News](https://news.google.com/rss/articles/CBMia0FVX3lxTE5RQWM1NFRZZ0NUdHUzenhvWXBMdnF1dWNBLUdUTS1CTUlWbWtpMVJpa2hoS3YwOWpkZkUyTXZ4TlFsS1VBY3NCMnJYYlFvU2tTZjJ4aVpjbHAwbmhoUUpxSFZrdnJMV0h2cWRZ?oc=5)
-
----
-
-### [Indians live longer than Pakistanis, says WHO report: Know life expectancy, leading causes of death - CNBC TV18](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjhZdEZuTm11VWRMZlRmRzZ2VzhFdHBOWUJVMEhFbXdyMC1ENHRIWHdZQXk4QVJOczRxYjVzNld1bVVYT0xJSU5KQi0wcEN3REticGFlaTNPZkZ5TnpkVjYzMHo1bnprVkk1RThOUi1lbTRmT0JtLUFpbGlNVnAtSkgxeDlYT2lxWllaWTBGU3ZFVnpSSDNYR3NmbDVRWlQ5djJwMkVsZHAwdjJZN0JNQW02MDk0QjJ0OVc0UlNKaEpkMjJyRGdzU2xvSEx4Q0cyWm84TmNKSXM0SHg2cTJTSNIB5gFBVV95cUxOTjdsT1V1Wkx5Nm9XbkdBbkE4Sk5ITEE0ajl1S2xHQnhyRGFacTZZeDNFT1hNRllOTWtEYzNmQzVJZ2IySlk2VktKQTJ6d1F1dmE1dTJzenp4Y09Hc2c0ckx4T1pYYUlpOG5MTkd2NzF1eXM5ZjNfVHRhTGM5dFI5MEsyOHlwZ3YxSFF6UGZPTHE5RVFsVk5OWmttYzBweGJMRVhFZE1OVHl6T29sZWdjQ3JmZ3B3VS1vaVVrMlc0MWZPVmNzOVRVdDNTQi1hMUE0WWxoN2N5cWRJNFlMS1Qzd0tYdHN6QQ?oc=5)
-
-2026-10-05
-
-Source: [CNBC TV18](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjhZdEZuTm11VWRMZlRmRzZ2VzhFdHBOWUJVMEhFbXdyMC1ENHRIWHdZQXk4QVJOczRxYjVzNld1bVVYT0xJSU5KQi0wcEN3REticGFlaTNPZkZ5TnpkVjYzMHo1bnprVkk1RThOUi1lbTRmT0JtLUFpbGlNVnAtSkgxeDlYT2lxWllaWTBGU3ZFVnpSSDNYR3NmbDVRWlQ5djJwMkVsZHAwdjJZN0JNQW02MDk0QjJ0OVc0UlNKaEpkMjJyRGdzU2xvSEx4Q0cyWm84TmNKSXM0SHg2cTJTSNIB5gFBVV95cUxOTjdsT1V1Wkx5Nm9XbkdBbkE4Sk5ITEE0ajl1S2xHQnhyRGFacTZZeDNFT1hNRllOTWtEYzNmQzVJZ2IySlk2VktKQTJ6d1F1dmE1dTJzenp4Y09Hc2c0ckx4T1pYYUlpOG5MTkd2NzF1eXM5ZjNfVHRhTGM5dFI5MEsyOHlwZ3YxSFF6UGZPTHE5RVFsVk5OWmttYzBweGJMRVhFZE1OVHl6T29sZWdjQ3JmZ3B3VS1vaVVrMlc0MWZPVmNzOVRVdDNTQi1hMUE0WWxoN2N5cWRJNFlMS1Qzd0tYdHN6QQ?oc=5)
-
----
-
-### [Menopause Blood Proteins Linked to Later Dementia Risk - European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
-
-2026-10-01
-
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
+Source: [SMH.com.au](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeV84ejg1RXhVRVE3UkdoNk95U0laQW11Z0xOWlZFSThwMjFsNUFnakRPd1RYVG8wWmRnLWxUU2Y1MVRtV25EdG1fSXRoV2lyZHRBSWJveFhPdUtVVDVlTW1sdUV1bExCc3poLTh1aDJzb3htY1J6SG1QSnJzZjZvaUFGYmszRDNLUmlRU2pUSm02NTFoQkd0WDN6bGg0Yk5JU2x6WGxldFo2SGZKUGR5VmtuMloyNzJKbXFfdUxEc3ROMTBNTEdjNS1vYkxxLUNNWEZ0QTFsZWZPeG5xd3JaUUlhdGtPMmRXZHA2Y0NwdzYydkh0U1E?oc=5)
 
 ---
 

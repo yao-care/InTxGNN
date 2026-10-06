@@ -14,7 +14,7 @@ permalink: /news/lorlatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Lorlatinib?">
-<strong>Lorlatinib</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Lorlatinib</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,61 +40,53 @@ This page combines the AI-predicted indications for Lorlatinib with the latest h
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (6)
 
-### [Mass spectrometry helps detect the edges of brain tumors](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDhGQ1hqU0pBaGR0U0g1cktEaENzNWJRUm11WUJha09IRnd2U0dYVXZLSF9NSTI0UmlzajJWM3FQeXBSNFktVGRnUlUwM0prRW40UFVPZE5PZ1RIdGdoVTFGbzFfZmtpMVNJQUJtcmpSdy1NZTUzYW91S1FvQ0x1YjFheVF4bUY4SE1mRnZkZnc?oc=5)
+### [Scientists discover a novel strategy to unmask cancer cells in high-risk neuroblastoma](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjExVFUtaXN2bkFfTC1OOW5qLWU1dUYtWWwxVDRNeGtFLVhkdlZLeXA1cWg3V0xQNm14b2w1VGZlNzRkeFpNOTY3UENLWmFVUHdlLXI4OXYwM0QwNEpkQXk4RDJ0QjVORkNVSWtJRng1TnpoU21kRVRqV1dNeFFMTU8zYVdCaEpSSktyTUk5WGxHdV9MUmcyT282eWR1d1VCYUxqcGV3czlkN0FPcVJVMksxdnZXZ00yaUlLM1pYUU1pR2ZXM0JDM3poOHVEczQ?oc=5)
 
-2026-10-06 <span class="news-indication-tag">tumor</span>
+2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">neuroblastoma</span>
 
-Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDhGQ1hqU0pBaGR0U0g1cktEaENzNWJRUm11WUJha09IRnd2U0dYVXZLSF9NSTI0UmlzajJWM3FQeXBSNFktVGRnUlUwM0prRW40UFVPZE5PZ1RIdGdoVTFGbzFfZmtpMVNJQUJtcmpSdy1NZTUzYW91S1FvQ0x1YjFheVF4bUY4SE1mRnZkZnc?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjExVFUtaXN2bkFfTC1OOW5qLWU1dUYtWWwxVDRNeGtFLVhkdlZLeXA1cWg3V0xQNm14b2w1VGZlNzRkeFpNOTY3UENLWmFVUHdlLXI4OXYwM0QwNEpkQXk4RDJ0QjVORkNVSWtJRng1TnpoU21kRVRqV1dNeFFMTU8zYVdCaEpSSktyTUk5WGxHdV9MUmcyT282eWR1d1VCYUxqcGV3czlkN0FPcVJVMksxdnZXZ00yaUlLM1pYUU1pR2ZXM0JDM3poOHVEczQ?oc=5)
 
 ---
 
-### [PSMA-PET scans guide LDR brachytherapy in prostate cancer](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXhNTkJYV3AxdjJrOEtLdGNjV1VOTkZVUHQyNzB4dXAwZFAyUmp0M19zOGNvUE55cW83a3JtSFFQUnJVTDkwR3dKbDVsTzJZMlE1b3VzV1diUVhwdEpQM2VjazE3elZnRUp4QU9vNWQtcXNtQloxZUh4SjNWbG1SekwxVmRDUUJlZ0Zvb1FqYlFwbElpV04wQ0FPMXcxNUNKRGFPQlRXVmhWT0ZZVllXZGw3XzJmRXBHUjhBalZWQURsVkdYTzJfVnJnSmkwdGxmNFNwcHR0ajc?oc=5)
+### [‘There’s plenty you can do’: The lifestyle changes you can make to curb the risk of dementia](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeV84ejg1RXhVRVE3UkdoNk95U0laQW11Z0xOWlZFSThwMjFsNUFnakRPd1RYVG8wWmRnLWxUU2Y1MVRtV25EdG1fSXRoV2lyZHRBSWJveFhPdUtVVDVlTW1sdUV1bExCc3poLTh1aDJzb3htY1J6SG1QSnJzZjZvaUFGYmszRDNLUmlRU2pUSm02NTFoQkd0WDN6bGg0Yk5JU2x6WGxldFo2SGZKUGR5VmtuMloyNzJKbXFfdUxEc3ROMTBNTEdjNS1vYkxxLUNNWEZ0QTFsZWZPeG5xd3JaUUlhdGtPMmRXZHA2Y0NwdzYydkh0U1E?oc=5)
+
+2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [SMH.com.au](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeV84ejg1RXhVRVE3UkdoNk95U0laQW11Z0xOWlZFSThwMjFsNUFnakRPd1RYVG8wWmRnLWxUU2Y1MVRtV25EdG1fSXRoV2lyZHRBSWJveFhPdUtVVDVlTW1sdUV1bExCc3poLTh1aDJzb3htY1J6SG1QSnJzZjZvaUFGYmszRDNLUmlRU2pUSm02NTFoQkd0WDN6bGg0Yk5JU2x6WGxldFo2SGZKUGR5VmtuMloyNzJKbXFfdUxEc3ROMTBNTEdjNS1vYkxxLUNNWEZ0QTFsZWZPeG5xd3JaUUlhdGtPMmRXZHA2Y0NwdzYydkh0U1E?oc=5)
+
+---
+
+### [1 in 8 cancer cases linked to preventable infections: Study](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlV5VUQwYTc0Vlpkb3NaQTRxczBPS0dDaVpEOXRRWGk0QU8taTVJbWFVY1ZNcjVRbncwMUFSWEY5a1pnVWhqNmVTSzFReW0wd1BfaVdRQm54TkRORnRibmJrbjZwM1FnZlR0OGtfa3dDMXh2OENYY1pNS0x3TW9jUDVXZlhfenBIWVBCRjdKbGMycW0wTnFQQTlXV1cxZnJ3ZGNOcXlzdw?oc=5)
+
+2026-10-06 <span class="news-indication-tag">cancer</span>
+
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlV5VUQwYTc0Vlpkb3NaQTRxczBPS0dDaVpEOXRRWGk0QU8taTVJbWFVY1ZNcjVRbncwMUFSWEY5a1pnVWhqNmVTSzFReW0wd1BfaVdRQm54TkRORnRibmJrbjZwM1FnZlR0OGtfa3dDMXh2OENYY1pNS0x3TW9jUDVXZlhfenBIWVBCRjdKbGMycW0wTnFQQTlXV1cxZnJ3ZGNOcXlzdw?oc=5)
+
+---
+
+### [Pune-based Lab Launches HPV Self-Sampling Kit To Make Cervical Cancer Testing More Accessible - ETV Bharat](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUhjTDBBQkpQMGx5LWNfekQxbmJSdzdISEtaX296N2Vib180R3c2a0hPbU9ua3BqelBGWFY0ZDNpc29MeXhtMm9IMlh6WmNHUVV5TzB6VnZwM3ZvYklTTHdManB1X3M0R0tBaE53UDZnc05mQk5veFloZ3lGSTNPSnV0N05tUmpnb2NWeHM4LWRBdzJvRE85WEdKUl94OFNJ0gGmAUFVX3lxTE1MbWpGaVpzSFREbGRCRkk4SzQwenk2dUZRR2lWYW95eGs3Vl9HUTg5TlU5aUVzd0Z6TXE3eEVZeUVuaFE2ZGJlaEYyamJFMXVrVGlGQ0pFMS1VRHVKWGJuYmVNWlI4ekpqSXFENlBfOE9rclNtYnpPaE5nMjZvY282SnV5WW9ZSkpzdmRna2pmSmN5OVIzOGVCX3Y2Y29rRUNlV2dNUWc?oc=5)
+
+2026-10-06 <span class="news-indication-tag">cancer</span>
+
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUhjTDBBQkpQMGx5LWNfekQxbmJSdzdISEtaX296N2Vib180R3c2a0hPbU9ua3BqelBGWFY0ZDNpc29MeXhtMm9IMlh6WmNHUVV5TzB6VnZwM3ZvYklTTHdManB1X3M0R0tBaE53UDZnc05mQk5veFloZ3lGSTNPSnV0N05tUmpnb2NWeHM4LWRBdzJvRE85WEdKUl94OFNJ0gGmAUFVX3lxTE1MbWpGaVpzSFREbGRCRkk4SzQwenk2dUZRR2lWYW95eGs3Vl9HUTg5TlU5aUVzd0Z6TXE3eEVZeUVuaFE2ZGJlaEYyamJFMXVrVGlGQ0pFMS1VRHVKWGJuYmVNWlI4ekpqSXFENlBfOE9rclNtYnpPaE5nMjZvY282SnV5WW9ZSkpzdmRna2pmSmN5OVIzOGVCX3Y2Y29rRUNlV2dNUWc?oc=5)
+
+---
+
+### [New Weapons In The Fight Against Cancer: AI Technology To Detect Cancer Stem Cells Early - ETV Bharat](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjh4SmRVS1dWVkRvTWMwNUlEV0FSSUlJLWpqdi02cklyVmhTZnVLNkk3QWthSjBkczI2NVktcTY2YktvN1hJSWJjRktWNF9QNGJUOUVtTG05UG5PZmZ1WG1ER0l1d2Zfd0Q5VGhLblhVRGR2VkJfX0I0WEJqcDh1NHpkMWNudFJyWi11VlEtOWdGWE9UcFA4cUpLS3FIVjTSAaQBQVVfeXFMT0NobTZhTDNRc25WeDdveWxMOWZkNTFsa0xIVG5NRjY2TlAwSE1aUTk5X3ByX1ltT3pIZXRwV3BGdW5Eei1YLWUwQ2JHSUNkcUdWdzlPWVJtR3FqeURqVmg2ZWdpbWhtYWx0endtb2h0SmRhQmdSMDRLc3hWbzBfM0hwaGY0RTVNLVVxUmF6SFVGZFRGalNocF9lN2daS0U1VXpkQU4?oc=5)
 
 2026-10-05 <span class="news-indication-tag">cancer</span>
 
-Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXhNTkJYV3AxdjJrOEtLdGNjV1VOTkZVUHQyNzB4dXAwZFAyUmp0M19zOGNvUE55cW83a3JtSFFQUnJVTDkwR3dKbDVsTzJZMlE1b3VzV1diUVhwdEpQM2VjazE3elZnRUp4QU9vNWQtcXNtQloxZUh4SjNWbG1SekwxVmRDUUJlZ0Zvb1FqYlFwbElpV04wQ0FPMXcxNUNKRGFPQlRXVmhWT0ZZVllXZGw3XzJmRXBHUjhBalZWQURsVkdYTzJfVnJnSmkwdGxmNFNwcHR0ajc?oc=5)
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjh4SmRVS1dWVkRvTWMwNUlEV0FSSUlJLWpqdi02cklyVmhTZnVLNkk3QWthSjBkczI2NVktcTY2YktvN1hJSWJjRktWNF9QNGJUOUVtTG05UG5PZmZ1WG1ER0l1d2Zfd0Q5VGhLblhVRGR2VkJfX0I0WEJqcDh1NHpkMWNudFJyWi11VlEtOWdGWE9UcFA4cUpLS3FIVjTSAaQBQVVfeXFMT0NobTZhTDNRc25WeDdveWxMOWZkNTFsa0xIVG5NRjY2TlAwSE1aUTk5X3ByX1ltT3pIZXRwV3BGdW5Eei1YLWUwQ2JHSUNkcUdWdzlPWVJtR3FqeURqVmg2ZWdpbWhtYWx0endtb2h0SmRhQmdSMDRLc3hWbzBfM0hwaGY0RTVNLVVxUmF6SFVGZFRGalNocF9lN2daS0U1VXpkQU4?oc=5)
 
 ---
 
-### [These infections are behind 1 in 8 cancer cases worldwide, study finds - USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
+### [Doc Talk | Prostate Cancer At Stage 4 Is Not The End: How PSMA PET And Radioligand Therapy Help - ABP Live English](https://news.google.com/rss/articles/CBMizAFBVV95cUxPak9rN20yQUxwa2ZiNVBSUmdTWG8yNXdqSmZzNUwwLUpzUjRhTDRKcGFQS2FsRlBzc1liSXhaRlVjVll2SkwtalZlZkpaS1ZwLUNYU2RHZGU2ck5abl9pTmcyNXczekRDTDd2SUI1ZE40RTFrd3dyVG5Xczd6XzgtQWZIUm5lMnVwS0RPZ0RxeVdkSkE3YkNKemdUVlhOVENXaEdIb3hrOHFGRV84QmszTHdkRlVEYzVmSHNhTUVKcmx6dHJLMWNYWll3V0rSAdIBQVVfeXFMTTc1SzI2R2t1OXRJdFBOb0doTkFYMXM5cXhnWWtEVkdQZDVtaTJMUTB1aHJyZkN5QVdIalFyT1BaM0JHc0lkVlFXdlNMenNfekpvNTlwaVBZc2hLMmZjVm9ZMDc2MXJDOUVNTGw5bkNHZnN4cFR3V3pzWlNsMW1sdzY0TXBMOFBBOWtPNWpmcmRzQVQzd3hqWHJlOGh1MG40UmRfOHlSTjBVcFVhd1lKdFVEZ3luT05EOWlQaW5QdW9aMWZhY1pxMko1Rk00MEVGM0FR?oc=5)
 
-2026-10-05 <span class="news-indication-tag">cancer</span>
+2026-09-30 <span class="news-indication-tag">cancer</span>
 
-Source: [USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
-
----
-
-### [Popular Joint Supplement Tied to Faster Decline in Alzheimer’s Patients](https://news.google.com/rss/articles/CBMia0FVX3lxTE5RQWM1NFRZZ0NUdHUzenhvWXBMdnF1dWNBLUdUTS1CTUlWbWtpMVJpa2hoS3YwOWpkZkUyTXZ4TlFsS1VBY3NCMnJYYlFvU2tTZjJ4aVpjbHAwbmhoUUpxSFZrdnJMV0h2cWRZ?oc=5)
-
-2026-10-05 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Sci.News](https://news.google.com/rss/articles/CBMia0FVX3lxTE5RQWM1NFRZZ0NUdHUzenhvWXBMdnF1dWNBLUdUTS1CTUlWbWtpMVJpa2hoS3YwOWpkZkUyTXZ4TlFsS1VBY3NCMnJYYlFvU2tTZjJ4aVpjbHAwbmhoUUpxSFZrdnJMV0h2cWRZ?oc=5)
-
----
-
-### [Pune-based Greenarray Labs launches HPV self-sampling approach to make cervical cancer screening more accessible - India Education Diary](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRXZscnJZSnRFQmo4aEZ5UE5ZRm4zWUxoNURNb0JlNmoxNkFDeExlYk9pbE5zdjU1YTNMb0Y1SFBvLTRiZVUyTWtGR3JsU2dRek9fbS1fOWZrN1AyR05CM0xsUkxZc2dpTHdpb0NJZmMwc1NsdC1pbjJpRUMzQUdna2NOVEs3ODRCa3E2aHlQUzBwSEVSSFYwN196akJKU0prVmJ0cGd3eVpDMlRCM3RtMFdVbnZmUjVQZnZkc0ViNzRfN0Q2TW1UOFJmX2NRZ2FKWWktMWpWXzlwX1lp?oc=5)
-
-2026-10-05 <span class="news-indication-tag">cancer</span>
-
-Source: [India Education Diary](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRXZscnJZSnRFQmo4aEZ5UE5ZRm4zWUxoNURNb0JlNmoxNkFDeExlYk9pbE5zdjU1YTNMb0Y1SFBvLTRiZVUyTWtGR3JsU2dRek9fbS1fOWZrN1AyR05CM0xsUkxZc2dpTHdpb0NJZmMwc1NsdC1pbjJpRUMzQUdna2NOVEs3ODRCa3E2aHlQUzBwSEVSSFYwN196akJKU0prVmJ0cGd3eVpDMlRCM3RtMFdVbnZmUjVQZnZkc0ViNzRfN0Q2TW1UOFJmX2NRZ2FKWWktMWpWXzlwX1lp?oc=5)
-
----
-
-### [Indians live longer than Pakistanis, says WHO report: Know life expectancy, leading causes of death - CNBC TV18](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjhZdEZuTm11VWRMZlRmRzZ2VzhFdHBOWUJVMEhFbXdyMC1ENHRIWHdZQXk4QVJOczRxYjVzNld1bVVYT0xJSU5KQi0wcEN3REticGFlaTNPZkZ5TnpkVjYzMHo1bnprVkk1RThOUi1lbTRmT0JtLUFpbGlNVnAtSkgxeDlYT2lxWllaWTBGU3ZFVnpSSDNYR3NmbDVRWlQ5djJwMkVsZHAwdjJZN0JNQW02MDk0QjJ0OVc0UlNKaEpkMjJyRGdzU2xvSEx4Q0cyWm84TmNKSXM0SHg2cTJTSNIB5gFBVV95cUxOTjdsT1V1Wkx5Nm9XbkdBbkE4Sk5ITEE0ajl1S2xHQnhyRGFacTZZeDNFT1hNRllOTWtEYzNmQzVJZ2IySlk2VktKQTJ6d1F1dmE1dTJzenp4Y09Hc2c0ckx4T1pYYUlpOG5MTkd2NzF1eXM5ZjNfVHRhTGM5dFI5MEsyOHlwZ3YxSFF6UGZPTHE5RVFsVk5OWmttYzBweGJMRVhFZE1OVHl6T29sZWdjQ3JmZ3B3VS1vaVVrMlc0MWZPVmNzOVRVdDNTQi1hMUE0WWxoN2N5cWRJNFlMS1Qzd0tYdHN6QQ?oc=5)
-
-2026-10-05 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [CNBC TV18](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjhZdEZuTm11VWRMZlRmRzZ2VzhFdHBOWUJVMEhFbXdyMC1ENHRIWHdZQXk4QVJOczRxYjVzNld1bVVYT0xJSU5KQi0wcEN3REticGFlaTNPZkZ5TnpkVjYzMHo1bnprVkk1RThOUi1lbTRmT0JtLUFpbGlNVnAtSkgxeDlYT2lxWllaWTBGU3ZFVnpSSDNYR3NmbDVRWlQ5djJwMkVsZHAwdjJZN0JNQW02MDk0QjJ0OVc0UlNKaEpkMjJyRGdzU2xvSEx4Q0cyWm84TmNKSXM0SHg2cTJTSNIB5gFBVV95cUxOTjdsT1V1Wkx5Nm9XbkdBbkE4Sk5ITEE0ajl1S2xHQnhyRGFacTZZeDNFT1hNRllOTWtEYzNmQzVJZ2IySlk2VktKQTJ6d1F1dmE1dTJzenp4Y09Hc2c0ckx4T1pYYUlpOG5MTkd2NzF1eXM5ZjNfVHRhTGM5dFI5MEsyOHlwZ3YxSFF6UGZPTHE5RVFsVk5OWmttYzBweGJMRVhFZE1OVHl6T29sZWdjQ3JmZ3B3VS1vaVVrMlc0MWZPVmNzOVRVdDNTQi1hMUE0WWxoN2N5cWRJNFlMS1Qzd0tYdHN6QQ?oc=5)
-
----
-
-### [Menopause Blood Proteins Linked to Later Dementia Risk - European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
-
-2026-10-01 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
+Source: [ABP Live English](https://news.google.com/rss/articles/CBMizAFBVV95cUxPak9rN20yQUxwa2ZiNVBSUmdTWG8yNXdqSmZzNUwwLUpzUjRhTDRKcGFQS2FsRlBzc1liSXhaRlVjVll2SkwtalZlZkpaS1ZwLUNYU2RHZGU2ck5abl9pTmcyNXczekRDTDd2SUI1ZE40RTFrd3dyVG5Xczd6XzgtQWZIUm5lMnVwS0RPZ0RxeVdkSkE3YkNKemdUVlhOVENXaEdIb3hrOHFGRV84QmszTHdkRlVEYzVmSHNhTUVKcmx6dHJLMWNYWll3V0rSAdIBQVVfeXFMTTc1SzI2R2t1OXRJdFBOb0doTkFYMXM5cXhnWWtEVkdQZDVtaTJMUTB1aHJyZkN5QVdIalFyT1BaM0JHc0lkVlFXdlNMenNfekpvNTlwaVBZc2hLMmZjVm9ZMDc2MXJDOUVNTGw5bkNHZnN4cFR3V3pzWlNsMW1sdzY0TXBMOFBBOWtPNWpmcmRzQVQzd3hqWHJlOGh1MG40UmRfOHlSTjBVcFVhd1lKdFVEZ3luT05EOWlQaW5QdW9aMWZhY1pxMko1Rk00MEVGM0FR?oc=5)
 
 ---
 
