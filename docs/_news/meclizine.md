@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 
 ### [Tired, gaining weight, always cold? It could be the thyroid - 6abc Philadelphia](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRTQ3M0NYZXpDcGhreC1HNnowdHpQWGdLOVRNMmRDSlA1ZjJ1VkFFbDJCbkFLUUFkSnY2MFZMWDFaOUp1SnJad3FtNHVPemN3LVR5bUpCM3RvM2diZUlncmFZcWdpNldZSVZIb2g3VHdnempKdUpqVXdGeXF1bVBPUWM5Ml80aUswSkRRWjdXQQ?oc=5)
 
-2026-10-05 <span class="news-indication-tag">cold</span>
+2026-10-06 <span class="news-indication-tag">cold</span>
 
 Source: [6abc Philadelphia](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRTQ3M0NYZXpDcGhreC1HNnowdHpQWGdLOVRNMmRDSlA1ZjJ1VkFFbDJCbkFLUUFkSnY2MFZMWDFaOUp1SnJad3FtNHVPemN3LVR5bUpCM3RvM2diZUlncmFZcWdpNldZSVZIb2g3VHdnempKdUpqVXdGeXF1bVBPUWM5Ml80aUswSkRRWjdXQQ?oc=5)
 

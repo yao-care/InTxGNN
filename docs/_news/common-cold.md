@@ -33,7 +33,7 @@ This page brings together the latest health news about “cold” and lists the 
 
 ### [Tired, gaining weight, always cold? It could be the thyroid - 6abc Philadelphia](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRTQ3M0NYZXpDcGhreC1HNnowdHpQWGdLOVRNMmRDSlA1ZjJ1VkFFbDJCbkFLUUFkSnY2MFZMWDFaOUp1SnJad3FtNHVPemN3LVR5bUpCM3RvM2diZUlncmFZcWdpNldZSVZIb2g3VHdnempKdUpqVXdGeXF1bVBPUWM5Ml80aUswSkRRWjdXQQ?oc=5)
 
-2026-10-05
+2026-10-06
 
 Source: [6abc Philadelphia](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRTQ3M0NYZXpDcGhreC1HNnowdHpQWGdLOVRNMmRDSlA1ZjJ1VkFFbDJCbkFLUUFkSnY2MFZMWDFaOUp1SnJad3FtNHVPemN3LVR5bUpCM3RvM2diZUlncmFZcWdpNldZSVZIb2g3VHdnempKdUpqVXdGeXF1bVBPUWM5Ml80aUswSkRRWjdXQQ?oc=5)
 

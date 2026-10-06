@@ -14,7 +14,7 @@ permalink: /news/choline_salicylate/
 ---
 
 <p class="key-answer" data-question="What news is there about Choline Salicylate?">
-<strong>Choline Salicylate</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Choline Salicylate</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>Prinzmetal angina (99.8%)</li>
-<li>rheumatoid arthritis (99.8%)</li>
+<li class="indication-matched">rheumatoid arthritis (99.8%)<span class="indication-tag">📰 RA</span></li>
 <li>hypertensive disorder (99.8%)</li>
 <li>migraine disorder (99.8%)</li>
 <li>pulmonary hypertension owing to lung disease and/or hypoxia (99.8%)</li>
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <p><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (6)
 
 ### [PSMA-PET scans guide LDR brachytherapy in prostate cancer](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXhNTkJYV3AxdjJrOEtLdGNjV1VOTkZVUHQyNzB4dXAwZFAyUmp0M19zOGNvUE55cW83a3JtSFFQUnJVTDkwR3dKbDVsTzJZMlE1b3VzV1diUVhwdEpQM2VjazE3elZnRUp4QU9vNWQtcXNtQloxZUh4SjNWbG1SekwxVmRDUUJlZ0Zvb1FqYlFwbElpV04wQ0FPMXcxNUNKRGFPQlRXVmhWT0ZZVllXZGw3XzJmRXBHUjhBalZWQURsVkdYTzJfVnJnSmkwdGxmNFNwcHR0ajc?oc=5)
 
@@ -50,19 +50,11 @@ Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXhNTk
 
 ---
 
-### [Daily Dose: New cancer research, PMOS and the impacts of chewing gum](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdTZBMmF1WjNodEFnTEpVak1TRld0N0c2MmlVRWtQQTFVbFVlc21jaE9iZll4X3pla1RCU2l5Y0RnaTNNMXJPdkQycEhvR3NUck80VTB4ajFEVGhXa2RDaXcwZEUxU3pyWHlIZkV0dDc2WlJ0OUJoR050SG9xVW9QZEhzTk5MMXAwalkzRExmN0xuVFBDX2VYblk2cm1oa3dLV2piWTRmd1lVc0ZyNXBnc3hXREY0WEtDcUNNTHpQSDQ1NTIta0JnejZ3bFlSVzN4VmU4V0dlbTk5bHhUT1RkRU93?oc=5)
+### [These infections are behind 1 in 8 cancer cases worldwide, study finds - USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
 
 2026-10-05 <span class="news-indication-tag">cancer</span>
 
-Source: [myfoxzone.com](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdTZBMmF1WjNodEFnTEpVak1TRld0N0c2MmlVRWtQQTFVbFVlc21jaE9iZll4X3pla1RCU2l5Y0RnaTNNMXJPdkQycEhvR3NUck80VTB4ajFEVGhXa2RDaXcwZEUxU3pyWHlIZkV0dDc2WlJ0OUJoR050SG9xVW9QZEhzTk5MMXAwalkzRExmN0xuVFBDX2VYblk2cm1oa3dLV2piWTRmd1lVc0ZyNXBnc3hXREY0WEtDcUNNTHpQSDQ1NTIta0JnejZ3bFlSVzN4VmU4V0dlbTk5bHhUT1RkRU93?oc=5)
-
----
-
-### [Sugary drinks associated with stomach cancer? Study raises questions about our beverage choices, cancer specialist explains risk | Health - Hindustan Times](https://news.google.com/rss/articles/CBMioAJBVV95cUxNTDlFRExUc050bDF0cGxnell6NGFqYjh3OXZhLWVsaEUydGh1Vm1aVUtDNzE4Vl9iZHNaV2dhZ2l4Zm11dk9rNnpycXpMRkVUNmpmV1l4WlJRU2ZVRUVCMUtJZ25lUEZTQXFuMVlVdnp5WnpLWldBWjdWRmoxRzdTMklnWWJULU00VnYyTFphR09sbktjZ2RxWmQtWFEzaUR4RVhybkg2TkhScnhVZ2NyT3dMV2JDN29FZ190OGFDZmlPYzZUZFNiU0xHLVQ5QVJpVlNwaGt1T1JTTjZ2eTdBOWlOLThnTDlCZ01HQ0lVRGkwNEFLYUNHc0lrZlpfaXdzdHBLNHVVMy1QTWg0ZE9YVmlpMjRRTE5WT21KTFZrTHXSAaYCQVVfeXFMTXJOY0J6aXFvQ0M4RjRwa2d2Zkd3bVhkMGlucDZPMFMwdWZ0aU5JMkVnTlFMQW8zS1VYWmR2VktJai1XN05uYk13aXFjVUF0dVhacWFGSGxEa3B1cXBXVVZaVi1pUHZ1elQ5RHUzWFNXZGVFdkFWbUtmNDdGM3pUV2F2NGltcVAwcE4xLUlZMGNZVjMtV0wycnozSlY4bGtlMDROYXhVT0k2bEZlNnF4OTJKU0cyNTNVd3piXzhqbnA3OFlKcU92YlBsT2NXcHNiT0ZpUFo2UzRSZGstTldwZVFVSUhHVkpCVXlxeEJDVUhEdFdzSlEwbWR3NWFRSFoxRTVwWTdWMmdlcDZTcE1iWW16dEFXbEczNWQ1aGJCdV94VmpOa3ln?oc=5)
-
-2026-10-05 <span class="news-indication-tag">cancer</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMioAJBVV95cUxNTDlFRExUc050bDF0cGxnell6NGFqYjh3OXZhLWVsaEUydGh1Vm1aVUtDNzE4Vl9iZHNaV2dhZ2l4Zm11dk9rNnpycXpMRkVUNmpmV1l4WlJRU2ZVRUVCMUtJZ25lUEZTQXFuMVlVdnp5WnpLWldBWjdWRmoxRzdTMklnWWJULU00VnYyTFphR09sbktjZ2RxWmQtWFEzaUR4RVhybkg2TkhScnhVZ2NyT3dMV2JDN29FZ190OGFDZmlPYzZUZFNiU0xHLVQ5QVJpVlNwaGt1T1JTTjZ2eTdBOWlOLThnTDlCZ01HQ0lVRGkwNEFLYUNHc0lrZlpfaXdzdHBLNHVVMy1QTWg0ZE9YVmlpMjRRTE5WT21KTFZrTHXSAaYCQVVfeXFMTXJOY0J6aXFvQ0M4RjRwa2d2Zkd3bVhkMGlucDZPMFMwdWZ0aU5JMkVnTlFMQW8zS1VYWmR2VktJai1XN05uYk13aXFjVUF0dVhacWFGSGxEa3B1cXBXVVZaVi1pUHZ1elQ5RHUzWFNXZGVFdkFWbUtmNDdGM3pUV2F2NGltcVAwcE4xLUlZMGNZVjMtV0wycnozSlY4bGtlMDROYXhVT0k2bEZlNnF4OTJKU0cyNTNVd3piXzhqbnA3OFlKcU92YlBsT2NXcHNiT0ZpUFo2UzRSZGstTldwZVFVSUhHVkpCVXlxeEJDVUhEdFdzSlEwbWR3NWFRSFoxRTVwWTdWMmdlcDZTcE1iWW16dEFXbEczNWQ1aGJCdV94VmpOa3ln?oc=5)
+Source: [USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
 
 ---
 
@@ -74,14 +66,6 @@ Source: [uniindia.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNMTRC
 
 ---
 
-### [Breast Cancer Awareness Month - Bay News 9](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjZocUpac095V05wVjdDQ1BkaURuOWtVckFfQkE3T3NqckxOOGNXRVlBZVUzQy14cWNRZlV6WFUySE0wVHBDdklUelFXRVY3RFZaTGlIblJUdjNwa1Zvdk5tZ2dxcllGTndBdjh1eXBoeXAxaUxzMVQ1TjVsUFNaX2ZnY3dma282UTY3WjJn?oc=5)
-
-2026-10-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Bay News 9](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjZocUpac095V05wVjdDQ1BkaURuOWtVckFfQkE3T3NqckxOOGNXRVlBZVUzQy14cWNRZlV6WFUySE0wVHBDdklUelFXRVY3RFZaTGlIblJUdjNwa1Zvdk5tZ2dxcllGTndBdjh1eXBoeXAxaUxzMVQ1TjVsUFNaX2ZnY3dma282UTY3WjJn?oc=5)
-
----
-
 ### [Eradicating H. pylori can prevent gastric cancer, says Nobel laureate Barry Marshall - The Hindu](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa19kWGZmWFNBaXpJSS1YalNxVmpvUm4tdEotUTQtYkp4RmFZVDRsM21NVU5GXzFIQVFUZWFLaGYxV2taYWNaTy1KVzVzYk51anJuWHJnYzhva3B1cVRjdnRWY2pTSHhCanl0Y294VUN1aEhDYi1PTU1FaVBqMmYxaUFVTWZiZlVEWld3cXNXeVd2V2RwaFpFcEFsVFdpZmFPMFIxS1hza0txZ3BVamwxUHZfWm1mUzRFQlZCXzFtNU0yNUx2ang3UGItNUtKSWI3VXJzZ3Rad1AybkXSAeIBQVVfeXFMTTgwaWNQX0xtUlFyeDAyOWF2NHdXQ2JFeGRUSHhxRkJCa0FsczBTaGVaTUNGeHNzRVpRVThUVkFmYVRKYUFsRFdoNFk3aVNqcGdBc05BYl90d0tQUEY2YUlIYUNMcTdKZlN2R1FRNmZGLThRMWNlaHBBNWJrWjd6LTY0UER0aUtoeDE2TS0wZ2gtamZvUkFlalJkX2xmdnNNLUVBanVYc3IzWkpmSlE5RUc0elZKYjlIYXlLY1JjYnZ1QVVvSXUwa0dYcVNZWVIyYk9sQXlmSUhDVDd4UzczcFRxdw?oc=5)
 
 2026-10-04 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">cancer</span>
@@ -90,19 +74,19 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa19kWGZ
 
 ---
 
-### [When conventional therapies fail: Boost for nuclear medicine in cancer treatment - Telegraph India](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb013RzBJQkRBNHBPRzRvLWdiQnc1S1RXaUVkdEd5ZDg5enlEX05VcDZoU2x1V3hPVzJ5aEd2NW9EVVYxYmtFeWhKZHIwSmhNWmFRMHcxb0FWM25xOF9taUZDNkdfYkxwbzc0WXh4dVNnOWZ2NzRPMXRoeWphSG9vd3NSQ3ZxaGNxaWtnN1gwYWNDWmpwck10MXY1ODRIZExTWkNTWWxJc1ZxQkVKRl91ekhjWDBaVWdoWC1VZ3k2eE5BdGZ2X1c2M2NhNXlQZ0tGNXVkcE1zNUUwNTM4NmxRYdIB5gFBVV95cUxNRC01clZreWZrMWtHRVh4Yjlpak42a2dpOUg3R01xNVVrVHE4OGtCTnVNRGV4YUZTRjk3SkZMdjRpaDZjNU5adkhxR0hjVnRPbTA5Z3hzSGVOU0NaaGNma0U4RnZTeVZhY1lqMWNqVHF3eWJmRDF1RlEzMVc2MFE2Und3YWJUS05OaWNUM1VCb29TSk53UTFjRjEwSXRZZnlWTnE3ajVLS1kwT09ySGxUMkVNUlFacFJsT1pIUXl4Wmpxb1BWUVhZYTI0blNtaW02MjZUbkEzdVEyMDdZWGhfNlFmTThEQQ?oc=5)
-
-2026-10-03 <span class="news-indication-tag">cancer</span>
-
-Source: [Telegraph India](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb013RzBJQkRBNHBPRzRvLWdiQnc1S1RXaUVkdEd5ZDg5enlEX05VcDZoU2x1V3hPVzJ5aEd2NW9EVVYxYmtFeWhKZHIwSmhNWmFRMHcxb0FWM25xOF9taUZDNkdfYkxwbzc0WXh4dVNnOWZ2NzRPMXRoeWphSG9vd3NSQ3ZxaGNxaWtnN1gwYWNDWmpwck10MXY1ODRIZExTWkNTWWxJc1ZxQkVKRl91ekhjWDBaVWdoWC1VZ3k2eE5BdGZ2X1c2M2NhNXlQZ0tGNXVkcE1zNUUwNTM4NmxRYdIB5gFBVV95cUxNRC01clZreWZrMWtHRVh4Yjlpak42a2dpOUg3R01xNVVrVHE4OGtCTnVNRGV4YUZTRjk3SkZMdjRpaDZjNU5adkhxR0hjVnRPbTA5Z3hzSGVOU0NaaGNma0U4RnZTeVZhY1lqMWNqVHF3eWJmRDF1RlEzMVc2MFE2Und3YWJUS05OaWNUM1VCb29TSk53UTFjRjEwSXRZZnlWTnE3ajVLS1kwT09ySGxUMkVNUlFacFJsT1pIUXl4Wmpxb1BWUVhZYTI0blNtaW02MjZUbkEzdVEyMDdZWGhfNlFmTThEQQ?oc=5)
-
----
-
 ### [How more personalised treatment can change gynaecological cancer care | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZjBTdHRFZU5tSHVNMjNDTkF2V29qekg1WjFBUHdDaERlb2pYYXNYdVhhN1gxT3NLcVZ4a2VrUU40N2hnN2hGNC1aVnFxWnlZaW1pTHo2eElUUHNzS0ZsSVRsRzNfQy1zUWpPNmpMMVVyUzJpLTZzMmpKT0x1QlpzcTlHQjBQbnU3SWxsYmNMXzBYQ2doSUFocVBGUXpWZERSWEZlUDU0OGlNMENFZnh5ZkFrcnFBcXNDYlVUV3VDTldKZnBfRlRvallPdXF4bE5FM1hjVEFrdE1UeDlEdVVn0gHkAUFVX3lxTE9CVmVBYVRLNWFVNGttNDY1eXVsQnRvZDhxT0FiejJaQVktZ25neENHYmctZEVXQ2xBNHBGUnZFaEVlZFpnbFgzMU5ubnoySnV6UHFYVGhLR0VoTGp5UFpFOS1GNTlVTzh6d2ljR2M4UlNXdnFRMXk1OEdhV0w2bmM4N1BNcEg5UWYxUmlBdGwyOTF2QlQ5NzgxMEo2TFhBZThNSHZIMldDc2xPMDBaa1YzSXltNXM1cm9WcFZaZGxYNWlnQTdaMmsteFVMcHFtVF9LWFJWZmNxNzVBakJpMXNzZUVvbg?oc=5)
 
 2026-10-02 <span class="news-indication-tag">cancer</span>
 
 Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZjBTdHRFZU5tSHVNMjNDTkF2V29qekg1WjFBUHdDaERlb2pYYXNYdVhhN1gxT3NLcVZ4a2VrUU40N2hnN2hGNC1aVnFxWnlZaW1pTHo2eElUUHNzS0ZsSVRsRzNfQy1zUWpPNmpMMVVyUzJpLTZzMmpKT0x1QlpzcTlHQjBQbnU3SWxsYmNMXzBYQ2doSUFocVBGUXpWZERSWEZlUDU0OGlNMENFZnh5ZkFrcnFBcXNDYlVUV3VDTldKZnBfRlRvallPdXF4bE5FM1hjVEFrdE1UeDlEdVVn0gHkAUFVX3lxTE9CVmVBYVRLNWFVNGttNDY1eXVsQnRvZDhxT0FiejJaQVktZ25neENHYmctZEVXQ2xBNHBGUnZFaEVlZFpnbFgzMU5ubnoySnV6UHFYVGhLR0VoTGp5UFpFOS1GNTlVTzh6d2ljR2M4UlNXdnFRMXk1OEdhV0w2bmM4N1BNcEg5UWYxUmlBdGwyOTF2QlQ5NzgxMEo2TFhBZThNSHZIMldDc2xPMDBaa1YzSXltNXM1cm9WcFZaZGxYNWlnQTdaMmsteFVMcHFtVF9LWFJWZmNxNzVBakJpMXNzZUVvbg?oc=5)
+
+---
+
+### [World Heart Day observed today to raise awareness about cardiovascular diseases - News On AIR](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjA2aW1YcDBkeFFJS21rbGdqX0xaQ21yZmhCSWIySDI3dHBCUzRxQU02ODM5Ynd4UUowSFFzSVE4OFlXTzBLQTNaOGhYT1U1WGtxNU5CNnFiWTNqRzlkYWJ5V2JINlZWOVZwbjh6NU9wV0dGc2VCZTBMY3RoaFliSnVjXzJ6WlQyLVlNTVBwelUybm1QOXQ1ODd2UjlyemtzeGdEWS1CWTc?oc=5)
+
+2026-09-29 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">vascular disease</span>
+
+Source: [News On AIR](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjA2aW1YcDBkeFFJS21rbGdqX0xaQ21yZmhCSWIySDI3dHBCUzRxQU02ODM5Ynd4UUowSFFzSVE4OFlXTzBLQTNaOGhYT1U1WGtxNU5CNnFiWTNqRzlkYWJ5V2JINlZWOVZwbjh6NU9wV0dGc2VCZTBMY3RoaFliSnVjXzJ6WlQyLVlNTVBwelUybm1QOXQ1ODd2UjlyemtzeGdEWS1CWTc?oc=5)
 
 ---
 
