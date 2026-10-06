@@ -3,7 +3,7 @@ layout: default
 title: "dementia News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia. 5 articles, 8 related drugs."
+description: "Health news about dementia. 4 articles, 8 related drugs."
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia?">
-<strong>dementia</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<strong>dementia</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Popular Joint Supplement Tied to Faster Decline in Alzheimer’s Patients](https://news.google.com/rss/articles/CBMia0FVX3lxTE5RQWM1NFRZZ0NUdHUzenhvWXBMdnF1dWNBLUdUTS1CTUlWbWtpMVJpa2hoS3YwOWpkZkUyTXZ4TlFsS1VBY3NCMnJYYlFvU2tTZjJ4aVpjbHAwbmhoUUpxSFZrdnJMV0h2cWRZ?oc=5)
 
@@ -54,11 +54,11 @@ Source: [Prevention](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEhwWj
 
 ---
 
-### [Subtle change in how you speak could be early sign of dementia risk, new research suggests](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDgxME9VbGdPWnpqZFk0a0R2d2VSQVQ3b0RZdFpMclFENDRGVEZkUFZjZ0pReFJrTUdiYVlYQ0dZOFhhUjFXSVlmbVg0a1dxMlVibDJEN2ZJR1pmMktzZjBweFR4WlJISkxzblV6M0wtZ01RSU9BSG5MT2ROb0ZUN1BSRjBLMGFDTUpGc3FzVF9XczNHLURtVnhtOTVWbGNKVk9ENm82TEllMFhVYm5oTjhnaw?oc=5)
+### [Indians live 2.8 years longer than Pakistanis, says WHO. Here’s why](https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2F4SmNEbUJuZGlnRkU2U25CS0lvLW9Bd1p4dlNxdk5aM2JueWFsTlA0RjlEVGlycmRDblVGTU5HRkpkLVA4eHRXT2U4TG42aGo2X1kxQlBwTE5MaFQ0dEJUQVJuNzBSeTBBRWdua0FxOHE1RVBGdGFNWHAyeWFtQUVqUlZod096aHRGdUpvTFk1eGdXaHZRMmk2VGxMR09YYU9UNnFLS01Fd09zZ0gxTjZ30gG3AUFVX3lxTFA1MHVMcUZqenRyVVB2YUJId2FyWDdRck5GV1NSQ2hkY2NfOTFNemxPSUdtTHdqODlzQ0xyRU1tZHhLVlloaUNleks0YWVDS3EtYlFaZkNpcDR1NFVXaDlUUmtNWER3UlVaNmxRdzEwa3VBeVRTSnVwVXRHb0hzSnllYTB5MGRwSFVteTN5OGx3dkItbWhuNTVBNkZyT2lEMzAtb1I0bl9EeEpmUnNhSmhiajNOQ1F1RQ?oc=5)
 
-2026-10-04
+2026-10-05
 
-Source: [health.yahoo.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDgxME9VbGdPWnpqZFk0a0R2d2VSQVQ3b0RZdFpMclFENDRGVEZkUFZjZ0pReFJrTUdiYVlYQ0dZOFhhUjFXSVlmbVg0a1dxMlVibDJEN2ZJR1pmMktzZjBweFR4WlJISkxzblV6M0wtZ01RSU9BSG5MT2ROb0ZUN1BSRjBLMGFDTUpGc3FzVF9XczNHLURtVnhtOTVWbGNKVk9ENm82TEllMFhVYm5oTjhnaw?oc=5)
+Source: [ThePrint](https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2F4SmNEbUJuZGlnRkU2U25CS0lvLW9Bd1p4dlNxdk5aM2JueWFsTlA0RjlEVGlycmRDblVGTU5HRkpkLVA4eHRXT2U4TG42aGo2X1kxQlBwTE5MaFQ0dEJUQVJuNzBSeTBBRWdua0FxOHE1RVBGdGFNWHAyeWFtQUVqUlZod096aHRGdUpvTFk1eGdXaHZRMmk2VGxMR09YYU9UNnFLS01Fd09zZ0gxTjZ30gG3AUFVX3lxTFA1MHVMcUZqenRyVVB2YUJId2FyWDdRck5GV1NSQ2hkY2NfOTFNemxPSUdtTHdqODlzQ0xyRU1tZHhLVlloaUNleks0YWVDS3EtYlFaZkNpcDR1NFVXaDlUUmtNWER3UlVaNmxRdzEwa3VBeVRTSnVwVXRHb0hzSnllYTB5MGRwSFVteTN5OGx3dkItbWhuNTVBNkZyT2lEMzAtb1I0bl9EeEpmUnNhSmhiajNOQ1F1RQ?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ Source: [health.yahoo.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxN
 2026-10-01
 
 Source: [FM Bharat](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWpBbi1XVG9lcERCdUlHbGlIMU5YV2E4ckd6VDRtbVRHaFNzdEFoZ2V4SDkzd1drZHg3TmY4X3o1empGTmpNWEVDQktreUY0QkV5YUs1WTJyLV9wNjdYWjByNi0xYUJFZ1V5OHJOT1k0UTlOYlZBbjRBbUFrcUV5MEFtdGIzUElzbk1EM1NveVdHWlBpeVhONWtZbmJ5aGJjb0Y5cGVlU3otUFZET0FYRzY3dXRGOVFpU1FuQUhjOHV2aXJ1VlluREl4ck84MUtCQmhjT2VIYzFkUW03S0NDYVdCYWFjbzRYVlV2X0loRQ?oc=5)
-
----
-
-### [World Alzheimer's Day 2026 : The earlier you know, the more you can do - A dementia diagnosis matters -](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
-
-2026-09-29
-
-Source: [e-pao.net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0JrN0ZObVlsZkxBblBCVVcxMGd5aWlxUWtvQVJHWFlTZ0RtcGROOFp5cGVhREpwYXJpdS1VVG1kcDJENExoTHE1S200VWVqYXd6VzhldjlVYndOWnp3SE1paWR2ZUtBLXF1NGxINHVDNGNveVh1QkVlUDBwcDBNS042elFXUVZHRXdGLUtJYnZvVW93NUpEdUhYWTBsNmNYSzdZbFlYUmZhMDJyTnlN?oc=5)
 
 ---
 

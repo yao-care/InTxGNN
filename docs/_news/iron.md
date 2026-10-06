@@ -38,19 +38,19 @@ This page combines the AI-predicted indications for Iron with the latest health 
 
 ## Related News (2)
 
-### [Walking remains highly beneficial for COPD patients in polluted environments](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1lsTkNhLXoxZTM3Y0Z4RlhqT09rdmprS1JVMHVIem1OOVVrX201OVdlVWhuQ0w4b3FYeUZRTzdHcEsxeGFyR2ZiOWtqRGt0b2cyLUF6QVZCMkhmQlJtejg4b1c1UmpiQWF4cGxKWDFBMUpJM1dhNHh2QTNPTUdVMjA0bjZNUk1GV3c5QzVZc1M1S3FHc2JTM3dQS0FtNnN4ZjA5V25oVjlna3ZiQWZmMmlaNFBKZVpSMXFlTnZYMC1Hdw?oc=5)
-
-2026-10-05 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">COPD</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1lsTkNhLXoxZTM3Y0Z4RlhqT09rdmprS1JVMHVIem1OOVVrX201OVdlVWhuQ0w4b3FYeUZRTzdHcEsxeGFyR2ZiOWtqRGt0b2cyLUF6QVZCMkhmQlJtejg4b1c1UmpiQWF4cGxKWDFBMUpJM1dhNHh2QTNPTUdVMjA0bjZNUk1GV3c5QzVZc1M1S3FHc2JTM3dQS0FtNnN4ZjA5V25oVjlna3ZiQWZmMmlaNFBKZVpSMXFlTnZYMC1Hdw?oc=5)
-
----
-
 ### [Your Brain Needs Care Too: How Sleep, Stress And Alcohol Affect Brain Health - Vibes Of India](https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWg0d0RwdWliLVk4QWgwYkpoWGwxeVR5aG93NmdEYWhJX0ZmeHdrdVYzMjFtTjFhRzhLQXFRcURORktDZV9VUmRqVERZY3g2OHBpV3NMd2hTb1JBZFhCanM0LXBuYVhGVElHMFdEWGhOQ3hOZ2JKSUFlZzhnTzR3MThkQXFqMFczeDB2bjZJSkV5SW0tWVhnNDRSdUVxM2ZUcjlaaHBIYw?oc=5)
 
 2026-10-05 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
 Source: [Vibes Of India](https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWg0d0RwdWliLVk4QWgwYkpoWGwxeVR5aG93NmdEYWhJX0ZmeHdrdVYzMjFtTjFhRzhLQXFRcURORktDZV9VUmRqVERZY3g2OHBpV3NMd2hTb1JBZFhCanM0LXBuYVhGVElHMFdEWGhOQ3hOZ2JKSUFlZzhnTzR3MThkQXFqMFczeDB2bjZJSkV5SW0tWVhnNDRSdUVxM2ZUcjlaaHBIYw?oc=5)
+
+---
+
+### [Walking remains highly beneficial for COPD patients in polluted environments](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1lsTkNhLXoxZTM3Y0Z4RlhqT09rdmprS1JVMHVIem1OOVVrX201OVdlVWhuQ0w4b3FYeUZRTzdHcEsxeGFyR2ZiOWtqRGt0b2cyLUF6QVZCMkhmQlJtejg4b1c1UmpiQWF4cGxKWDFBMUpJM1dhNHh2QTNPTUdVMjA0bjZNUk1GV3c5QzVZc1M1S3FHc2JTM3dQS0FtNnN4ZjA5V25oVjlna3ZiQWZmMmlaNFBKZVpSMXFlTnZYMC1Hdw?oc=5)
+
+2026-10-05 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">COPD</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1lsTkNhLXoxZTM3Y0Z4RlhqT09rdmprS1JVMHVIem1OOVVrX201OVdlVWhuQ0w4b3FYeUZRTzdHcEsxeGFyR2ZiOWtqRGt0b2cyLUF6QVZCMkhmQlJtejg4b1c1UmpiQWF4cGxKWDFBMUpJM1dhNHh2QTNPTUdVMjA0bjZNUk1GV3c5QzVZc1M1S3FHc2JTM3dQS0FtNnN4ZjA5V25oVjlna3ZiQWZmMmlaNFBKZVpSMXFlTnZYMC1Hdw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/chromium/
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Chromium</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>osteoarthritis (98.7%)</li>
 <li>osteoarthritis susceptibility (98.5%)</li>
-<li>rheumatoid arthritis (98.5%)</li>
+<li class="indication-matched">rheumatoid arthritis (98.5%)<span class="indication-tag">📰 RA</span></li>
 <li>gout (98.0%)</li>
 <li>pseudoachondroplasia (98.0%)</li>
 <li>hepatic porphyria (97.9%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [World Heart Day observed today to raise awareness about cardiovascular diseases - News On AIR](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjA2aW1YcDBkeFFJS21rbGdqX0xaQ21yZmhCSWIySDI3dHBCUzRxQU02ODM5Ynd4UUowSFFzSVE4OFlXTzBLQTNaOGhYT1U1WGtxNU5CNnFiWTNqRzlkYWJ5V2JINlZWOVZwbjh6NU9wV0dGc2VCZTBMY3RoaFliSnVjXzJ6WlQyLVlNTVBwelUybm1QOXQ1ODd2UjlyemtzeGdEWS1CWTc?oc=5)
+
+2026-09-29 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">vascular disease</span>
+
+Source: [News On AIR](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjA2aW1YcDBkeFFJS21rbGdqX0xaQ21yZmhCSWIySDI3dHBCUzRxQU02ODM5Ynd4UUowSFFzSVE4OFlXTzBLQTNaOGhYT1U1WGtxNU5CNnFiWTNqRzlkYWJ5V2JINlZWOVZwbjh6NU9wV0dGc2VCZTBMY3RoaFliSnVjXzJ6WlQyLVlNTVBwelUybm1QOXQ1ODd2UjlyemtzeGdEWS1CWTc?oc=5)
+
+---
 
 
 <div class="disclaimer">
