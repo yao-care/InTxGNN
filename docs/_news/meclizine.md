@@ -14,7 +14,7 @@ permalink: /news/meclizine/
 ---
 
 <p class="key-answer" data-question="What news is there about Meclizine?">
-<strong>Meclizine</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
+<strong>Meclizine</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,7 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 <p><a href="{{ '/drugs/meclizine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Tired, gaining weight, always cold? It could be the thyroid - 6abc Philadelphia](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRTQ3M0NYZXpDcGhreC1HNnowdHpQWGdLOVRNMmRDSlA1ZjJ1VkFFbDJCbkFLUUFkSnY2MFZMWDFaOUp1SnJad3FtNHVPemN3LVR5bUpCM3RvM2diZUlncmFZcWdpNldZSVZIb2g3VHdnempKdUpqVXdGeXF1bVBPUWM5Ml80aUswSkRRWjdXQQ?oc=5)
-
-2026-10-06 <span class="news-indication-tag">cold</span>
-
-Source: [6abc Philadelphia](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRTQ3M0NYZXpDcGhreC1HNnowdHpQWGdLOVRNMmRDSlA1ZjJ1VkFFbDJCbkFLUUFkSnY2MFZMWDFaOUp1SnJad3FtNHVPemN3LVR5bUpCM3RvM2diZUlncmFZcWdpNldZSVZIb2g3VHdnempKdUpqVXdGeXF1bVBPUWM5Ml80aUswSkRRWjdXQQ?oc=5)
-
----
+## Related News (1)
 
 ### [Ancient DNA evidence narrows down when people first reached the Americas](https://news.google.com/rss/articles/CBMiekFVX3lxTE4yTEh0RHNFdm9TSGRxN1dULV81clFvZHp3YjVJSFVWZEt5UzZzT2x3OENTelJCUERKUU04X3VPMzlDYnpiUFdNWXRUNVoyeU9VTjlsS29wM3N3YVVZaVNRbzUyRTNORG5KYW5RVE1rU1BYWGl2azJRNjVn?oc=5)
 

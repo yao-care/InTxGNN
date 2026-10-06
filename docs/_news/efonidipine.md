@@ -14,7 +14,7 @@ permalink: /news/efonidipine/
 ---
 
 <p class="key-answer" data-question="What news is there about Efonidipine?">
-<strong>Efonidipine</strong> currently has <strong>5 news articles</strong>, with 4 predicted indications.
+<strong>Efonidipine</strong> currently has <strong>4 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Efonidipine with the latest 
 <p><a href="{{ '/drugs/efonidipine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
+
+### [Mass spectrometry helps detect the edges of brain tumors](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDhGQ1hqU0pBaGR0U0g1cktEaENzNWJRUm11WUJha09IRnd2U0dYVXZLSF9NSTI0UmlzajJWM3FQeXBSNFktVGRnUlUwM0prRW40UFVPZE5PZ1RIdGdoVTFGbzFfZmtpMVNJQUJtcmpSdy1NZTUzYW91S1FvQ0x1YjFheVF4bUY4SE1mRnZkZnc?oc=5)
+
+2026-10-06 <span class="news-indication-tag">tumor</span>
+
+Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDhGQ1hqU0pBaGR0U0g1cktEaENzNWJRUm11WUJha09IRnd2U0dYVXZLSF9NSTI0UmlzajJWM3FQeXBSNFktVGRnUlUwM0prRW40UFVPZE5PZ1RIdGdoVTFGbzFfZmtpMVNJQUJtcmpSdy1NZTUzYW91S1FvQ0x1YjFheVF4bUY4SE1mRnZkZnc?oc=5)
+
+---
 
 ### [PSMA-PET scans guide LDR brachytherapy in prostate cancer](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXhNTkJYV3AxdjJrOEtLdGNjV1VOTkZVUHQyNzB4dXAwZFAyUmp0M19zOGNvUE55cW83a3JtSFFQUnJVTDkwR3dKbDVsTzJZMlE1b3VzV1diUVhwdEpQM2VjazE3elZnRUp4QU9vNWQtcXNtQloxZUh4SjNWbG1SekwxVmRDUUJlZ0Zvb1FqYlFwbElpV04wQ0FPMXcxNUNKRGFPQlRXVmhWT0ZZVllXZGw3XzJmRXBHUjhBalZWQURsVkdYTzJfVnJnSmkwdGxmNFNwcHR0ajc?oc=5)
 
@@ -52,27 +60,11 @@ Source: [USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzN
 
 ---
 
-### [Pune lab launches HPV self-sampling kit for cervical cancer screening](https://news.google.com/rss/articles/CBMiggFBVV95cUxNMTRCT1kwLV80aEJiaF90MEU3NE5ZRWtYZXQzU2Vva1p2ZkF1QkZ5d2JkaklCdUx3d1hrc0lBaWM0eUxBWVMtNWJTRFN4YzUxZGFwMUpfUndlaklET19adEk4NnJVZnVFSkpNYkhCYi1Xek0tbGRyM2RoOXE5dTd1Y1Vn?oc=5)
+### [Pune-based Greenarray Labs launches HPV self-sampling approach to make cervical cancer screening more accessible - India Education Diary](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRXZscnJZSnRFQmo4aEZ5UE5ZRm4zWUxoNURNb0JlNmoxNkFDeExlYk9pbE5zdjU1YTNMb0Y1SFBvLTRiZVUyTWtGR3JsU2dRek9fbS1fOWZrN1AyR05CM0xsUkxZc2dpTHdpb0NJZmMwc1NsdC1pbjJpRUMzQUdna2NOVEs3ODRCa3E2aHlQUzBwSEVSSFYwN196akJKU0prVmJ0cGd3eVpDMlRCM3RtMFdVbnZmUjVQZnZkc0ViNzRfN0Q2TW1UOFJmX2NRZ2FKWWktMWpWXzlwX1lp?oc=5)
 
 2026-10-05 <span class="news-indication-tag">cancer</span>
 
-Source: [uniindia.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNMTRCT1kwLV80aEJiaF90MEU3NE5ZRWtYZXQzU2Vva1p2ZkF1QkZ5d2JkaklCdUx3d1hrc0lBaWM0eUxBWVMtNWJTRFN4YzUxZGFwMUpfUndlaklET19adEk4NnJVZnVFSkpNYkhCYi1Xek0tbGRyM2RoOXE5dTd1Y1Vn?oc=5)
-
----
-
-### [Eradicating H. pylori can prevent gastric cancer, says Nobel laureate Barry Marshall - The Hindu](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa19kWGZmWFNBaXpJSS1YalNxVmpvUm4tdEotUTQtYkp4RmFZVDRsM21NVU5GXzFIQVFUZWFLaGYxV2taYWNaTy1KVzVzYk51anJuWHJnYzhva3B1cVRjdnRWY2pTSHhCanl0Y294VUN1aEhDYi1PTU1FaVBqMmYxaUFVTWZiZlVEWld3cXNXeVd2V2RwaFpFcEFsVFdpZmFPMFIxS1hza0txZ3BVamwxUHZfWm1mUzRFQlZCXzFtNU0yNUx2ang3UGItNUtKSWI3VXJzZ3Rad1AybkXSAeIBQVVfeXFMTTgwaWNQX0xtUlFyeDAyOWF2NHdXQ2JFeGRUSHhxRkJCa0FsczBTaGVaTUNGeHNzRVpRVThUVkFmYVRKYUFsRFdoNFk3aVNqcGdBc05BYl90d0tQUEY2YUlIYUNMcTdKZlN2R1FRNmZGLThRMWNlaHBBNWJrWjd6LTY0UER0aUtoeDE2TS0wZ2gtamZvUkFlalJkX2xmdnNNLUVBanVYc3IzWkpmSlE5RUc0elZKYjlIYXlLY1JjYnZ1QVVvSXUwa0dYcVNZWVIyYk9sQXlmSUhDVDd4UzczcFRxdw?oc=5)
-
-2026-10-04 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">cancer</span>
-
-Source: [The Hindu](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa19kWGZmWFNBaXpJSS1YalNxVmpvUm4tdEotUTQtYkp4RmFZVDRsM21NVU5GXzFIQVFUZWFLaGYxV2taYWNaTy1KVzVzYk51anJuWHJnYzhva3B1cVRjdnRWY2pTSHhCanl0Y294VUN1aEhDYi1PTU1FaVBqMmYxaUFVTWZiZlVEWld3cXNXeVd2V2RwaFpFcEFsVFdpZmFPMFIxS1hza0txZ3BVamwxUHZfWm1mUzRFQlZCXzFtNU0yNUx2ang3UGItNUtKSWI3VXJzZ3Rad1AybkXSAeIBQVVfeXFMTTgwaWNQX0xtUlFyeDAyOWF2NHdXQ2JFeGRUSHhxRkJCa0FsczBTaGVaTUNGeHNzRVpRVThUVkFmYVRKYUFsRFdoNFk3aVNqcGdBc05BYl90d0tQUEY2YUlIYUNMcTdKZlN2R1FRNmZGLThRMWNlaHBBNWJrWjd6LTY0UER0aUtoeDE2TS0wZ2gtamZvUkFlalJkX2xmdnNNLUVBanVYc3IzWkpmSlE5RUc0elZKYjlIYXlLY1JjYnZ1QVVvSXUwa0dYcVNZWVIyYk9sQXlmSUhDVDd4UzczcFRxdw?oc=5)
-
----
-
-### [How more personalised treatment can change gynaecological cancer care | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZjBTdHRFZU5tSHVNMjNDTkF2V29qekg1WjFBUHdDaERlb2pYYXNYdVhhN1gxT3NLcVZ4a2VrUU40N2hnN2hGNC1aVnFxWnlZaW1pTHo2eElUUHNzS0ZsSVRsRzNfQy1zUWpPNmpMMVVyUzJpLTZzMmpKT0x1QlpzcTlHQjBQbnU3SWxsYmNMXzBYQ2doSUFocVBGUXpWZERSWEZlUDU0OGlNMENFZnh5ZkFrcnFBcXNDYlVUV3VDTldKZnBfRlRvallPdXF4bE5FM1hjVEFrdE1UeDlEdVVn0gHkAUFVX3lxTE9CVmVBYVRLNWFVNGttNDY1eXVsQnRvZDhxT0FiejJaQVktZ25neENHYmctZEVXQ2xBNHBGUnZFaEVlZFpnbFgzMU5ubnoySnV6UHFYVGhLR0VoTGp5UFpFOS1GNTlVTzh6d2ljR2M4UlNXdnFRMXk1OEdhV0w2bmM4N1BNcEg5UWYxUmlBdGwyOTF2QlQ5NzgxMEo2TFhBZThNSHZIMldDc2xPMDBaa1YzSXltNXM1cm9WcFZaZGxYNWlnQTdaMmsteFVMcHFtVF9LWFJWZmNxNzVBakJpMXNzZUVvbg?oc=5)
-
-2026-10-02 <span class="news-indication-tag">cancer</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZjBTdHRFZU5tSHVNMjNDTkF2V29qekg1WjFBUHdDaERlb2pYYXNYdVhhN1gxT3NLcVZ4a2VrUU40N2hnN2hGNC1aVnFxWnlZaW1pTHo2eElUUHNzS0ZsSVRsRzNfQy1zUWpPNmpMMVVyUzJpLTZzMmpKT0x1QlpzcTlHQjBQbnU3SWxsYmNMXzBYQ2doSUFocVBGUXpWZERSWEZlUDU0OGlNMENFZnh5ZkFrcnFBcXNDYlVUV3VDTldKZnBfRlRvallPdXF4bE5FM1hjVEFrdE1UeDlEdVVn0gHkAUFVX3lxTE9CVmVBYVRLNWFVNGttNDY1eXVsQnRvZDhxT0FiejJaQVktZ25neENHYmctZEVXQ2xBNHBGUnZFaEVlZFpnbFgzMU5ubnoySnV6UHFYVGhLR0VoTGp5UFpFOS1GNTlVTzh6d2ljR2M4UlNXdnFRMXk1OEdhV0w2bmM4N1BNcEg5UWYxUmlBdGwyOTF2QlQ5NzgxMEo2TFhBZThNSHZIMldDc2xPMDBaa1YzSXltNXM1cm9WcFZaZGxYNWlnQTdaMmsteFVMcHFtVF9LWFJWZmNxNzVBakJpMXNzZUVvbg?oc=5)
+Source: [India Education Diary](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRXZscnJZSnRFQmo4aEZ5UE5ZRm4zWUxoNURNb0JlNmoxNkFDeExlYk9pbE5zdjU1YTNMb0Y1SFBvLTRiZVUyTWtGR3JsU2dRek9fbS1fOWZrN1AyR05CM0xsUkxZc2dpTHdpb0NJZmMwc1NsdC1pbjJpRUMzQUdna2NOVEs3ODRCa3E2aHlQUzBwSEVSSFYwN196akJKU0prVmJ0cGd3eVpDMlRCM3RtMFdVbnZmUjVQZnZkc0ViNzRfN0Q2TW1UOFJmX2NRZ2FKWWktMWpWXzlwX1lp?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/leuprolide/
 ---
 
 <p class="key-answer" data-question="What news is there about Leuprolide?">
-<strong>Leuprolide</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Leuprolide</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,22 @@ This page combines the AI-predicted indications for Leuprolide with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (2)</strong>:<ul>
-<li>osteoarthritis (99.7%)</li>
+<li class="indication-matched">osteoarthritis (99.7%)<span class="indication-tag">📰 osteoarthritis</span></li>
 <li>pseudoachondroplasia (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/leuprolide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [High blood pressure can accelerate osteoarthritis joint damage via a newly identified hormone pathway - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
+
+2026-10-05 <span class="news-indication-tag">dama</span> <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

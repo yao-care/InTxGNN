@@ -14,7 +14,7 @@ permalink: /news/nicorandil/
 ---
 
 <p class="key-answer" data-question="What news is there about Nicorandil?">
-<strong>Nicorandil</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Nicorandil</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Nicorandil with the latest h
 <li>congenital hypotrichosis milia (99.5%)</li>
 <li>diffuse alopecia areata (99.5%)</li>
 <li>osteoarthritis susceptibility (99.4%)</li>
-<li>osteoarthritis (99.4%)</li>
+<li class="indication-matched">osteoarthritis (99.4%)<span class="indication-tag">📰 osteoarthritis</span></li>
 <li>acromesomelic dysplasia, Hunter-Thompson type (98.9%)</li>
 <li>brachyolmia (98.9%)</li>
 <li>brachyolmia-amelogenesis imperfecta syndrome (98.9%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Nicorandil with the latest h
 <p><a href="{{ '/drugs/nicorandil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [High blood pressure can accelerate osteoarthritis joint damage via a newly identified hormone pathway - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
+
+2026-10-05 <span class="news-indication-tag">dama</span> <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

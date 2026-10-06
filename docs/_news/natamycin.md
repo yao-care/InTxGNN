@@ -14,7 +14,7 @@ permalink: /news/natamycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Natamycin?">
-<strong>Natamycin</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
+<strong>Natamycin</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,37 @@ This page combines the AI-predicted indications for Natamycin with the latest he
 <p><a href="{{ '/drugs/natamycin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Mass spectrometry helps detect the edges of brain tumors](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDhGQ1hqU0pBaGR0U0g1cktEaENzNWJRUm11WUJha09IRnd2U0dYVXZLSF9NSTI0UmlzajJWM3FQeXBSNFktVGRnUlUwM0prRW40UFVPZE5PZ1RIdGdoVTFGbzFfZmtpMVNJQUJtcmpSdy1NZTUzYW91S1FvQ0x1YjFheVF4bUY4SE1mRnZkZnc?oc=5)
+
+2026-10-06 <span class="news-indication-tag">tumor</span>
+
+Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDhGQ1hqU0pBaGR0U0g1cktEaENzNWJRUm11WUJha09IRnd2U0dYVXZLSF9NSTI0UmlzajJWM3FQeXBSNFktVGRnUlUwM0prRW40UFVPZE5PZ1RIdGdoVTFGbzFfZmtpMVNJQUJtcmpSdy1NZTUzYW91S1FvQ0x1YjFheVF4bUY4SE1mRnZkZnc?oc=5)
+
+---
+
+### [Women entering menopause early report increased anxiety and depression](https://news.google.com/rss/articles/CBMiugFBVV95cUxOM0s5SzhQYXdfbzRGRHozQUpDWTIycTF4VmJkdWl1aHlxdjY5WnJUVGp3RHI3Ym9USmE5UU56dVRzMjE4WS1XVDk4N000RzdnbG44UFN6TEFaMFlTOWFGemU1UTVpU0V0QlZvT1pxZGk3OUVWMFpaeWtFYXBPSm42NmtIOHFpN3BtRGNUNWU4UV91VnFQMzE4YlAwNHdzcGEtQ19kYnN4STJrT1F4VE15VWYxMlB4ZTlHZlE?oc=5)
+
+2026-10-06 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiugFBVV95cUxOM0s5SzhQYXdfbzRGRHozQUpDWTIycTF4VmJkdWl1aHlxdjY5WnJUVGp3RHI3Ym9USmE5UU56dVRzMjE4WS1XVDk4N000RzdnbG44UFN6TEFaMFlTOWFGemU1UTVpU0V0QlZvT1pxZGk3OUVWMFpaeWtFYXBPSm42NmtIOHFpN3BtRGNUNWU4UV91VnFQMzE4YlAwNHdzcGEtQ19kYnN4STJrT1F4VE15VWYxMlB4ZTlHZlE?oc=5)
+
+---
+
+### [How does menopause affect women’s heart health? Cardiovascular surgeon with 25 years of experience reveals 3 risks | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxQRHE3NTZPYUZaUXBiWHplTkh0blY2bVNzQkxEUUwtSnpMajNsMnhqSlRmeXBtMEVBZlY5Z2ZhTGt3dnlucHVQUU5sczRiWGI5cnZKcEQ1aEVTMW5UcGk1RGMxd3hUTmdMY21CMkVLWEphLXlDSzJSdHN4cnhSNkE2OVRPWmU5aGNTLTRVR0x4LTByc0V4SEJDX2gwQUVQOHE1SWRGWURoeDZ4OUotQ29fcEU1V2ItRDFnbHVMRDBnRkJWZWxjazRQRFVNMHBvY2hZenZta0o4cGpkLWVOckVBdDdheDk3Yi04ZDkyMEtBMDB6VUk3SlJFZ3hYclVrRnFST2Fnamd0UE8wamRpVEI40gGUAkFVX3lxTE1KZmF2dnROTHpOdnZXRURzQ2V6WFpkWmxtNFdIMnZVeFNkcHh6RTV2WFBOeU1nckszZlJmeGZYYlJWUnlyX2JhNjg3bmxqbk40a2JZR1hEOW40R2dPZHJJWFhRZmZvX21zcE8yMVZIMHM2Tngtb3lWdV9HOG10enhCSXREemN2b0V4R0JmaUtlUjF4ZmhMMnFaa3ZuQUYyX3RUZnZhQTJfYVFXMXZUQklTNHFudzlPd3MxdlBNVzBZZDN6eE0xVVJuYWdNM0dlUWxqT3FlSnF6c19xaWJ2V1pMWGZVbk91SV9pWnc1MEx0THdFRWh5eXhuUEp6cDk3ajVPbHlTRFd1UWc4UlEtR09NY2NxRQ?oc=5)
+
+2026-10-06 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxQRHE3NTZPYUZaUXBiWHplTkh0blY2bVNzQkxEUUwtSnpMajNsMnhqSlRmeXBtMEVBZlY5Z2ZhTGt3dnlucHVQUU5sczRiWGI5cnZKcEQ1aEVTMW5UcGk1RGMxd3hUTmdMY21CMkVLWEphLXlDSzJSdHN4cnhSNkE2OVRPWmU5aGNTLTRVR0x4LTByc0V4SEJDX2gwQUVQOHE1SWRGWURoeDZ4OUotQ29fcEU1V2ItRDFnbHVMRDBnRkJWZWxjazRQRFVNMHBvY2hZenZta0o4cGpkLWVOckVBdDdheDk3Yi04ZDkyMEtBMDB6VUk3SlJFZ3hYclVrRnFST2Fnamd0UE8wamRpVEI40gGUAkFVX3lxTE1KZmF2dnROTHpOdnZXRURzQ2V6WFpkWmxtNFdIMnZVeFNkcHh6RTV2WFBOeU1nckszZlJmeGZYYlJWUnlyX2JhNjg3bmxqbk40a2JZR1hEOW40R2dPZHJJWFhRZmZvX21zcE8yMVZIMHM2Tngtb3lWdV9HOG10enhCSXREemN2b0V4R0JmaUtlUjF4ZmhMMnFaa3ZuQUYyX3RUZnZhQTJfYVFXMXZUQklTNHFudzlPd3MxdlBNVzBZZDN6eE0xVVJuYWdNM0dlUWxqT3FlSnF6c19xaWJ2V1pMWGZVbk91SV9pWnc1MEx0THdFRWh5eXhuUEp6cDk3ajVPbHlTRFd1UWc4UlEtR09NY2NxRQ?oc=5)
+
+---
 
 ### [PSMA-PET scans guide LDR brachytherapy in prostate cancer](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXhNTkJYV3AxdjJrOEtLdGNjV1VOTkZVUHQyNzB4dXAwZFAyUmp0M19zOGNvUE55cW83a3JtSFFQUnJVTDkwR3dKbDVsTzJZMlE1b3VzV1diUVhwdEpQM2VjazE3elZnRUp4QU9vNWQtcXNtQloxZUh4SjNWbG1SekwxVmRDUUJlZ0Zvb1FqYlFwbElpV04wQ0FPMXcxNUNKRGFPQlRXVmhWT0ZZVllXZGw3XzJmRXBHUjhBalZWQURsVkdYTzJfVnJnSmkwdGxmNFNwcHR0ajc?oc=5)
 
 2026-10-05 <span class="news-indication-tag">cancer</span>
 
 Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXhNTkJYV3AxdjJrOEtLdGNjV1VOTkZVUHQyNzB4dXAwZFAyUmp0M19zOGNvUE55cW83a3JtSFFQUnJVTDkwR3dKbDVsTzJZMlE1b3VzV1diUVhwdEpQM2VjazE3elZnRUp4QU9vNWQtcXNtQloxZUh4SjNWbG1SekwxVmRDUUJlZ0Zvb1FqYlFwbElpV04wQ0FPMXcxNUNKRGFPQlRXVmhWT0ZZVllXZGw3XzJmRXBHUjhBalZWQURsVkdYTzJfVnJnSmkwdGxmNFNwcHR0ajc?oc=5)
-
----
-
-### [Going Through Menopause Earlier Could Mean This for Your Brain Health, Scientists Find](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEhwWjFvX3A4bTl0eDcwdjdhRGEzRmFIX3lnMVhEMHN3bVhfQmRlckt3eVY2RERrZ0xkVXFsRWEySFozNGRnVUUtTUZ6WFpBNnRvUklvT0YxTy12WS1faVpGcERHMjJjYW5nV1N2WnBqUnZ4VGFkdkNlQzk5WlQ4TnVXWQ?oc=5)
-
-2026-10-05 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [Prevention](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEhwWjFvX3A4bTl0eDcwdjdhRGEzRmFIX3lnMVhEMHN3bVhfQmRlckt3eVY2RERrZ0xkVXFsRWEySFozNGRnVUUtTUZ6WFpBNnRvUklvT0YxTy12WS1faVpGcERHMjJjYW5nV1N2WnBqUnZ4VGFkdkNlQzk5WlQ4TnVXWQ?oc=5)
 
 ---
 
@@ -66,27 +82,19 @@ Source: [USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzN
 
 ---
 
-### [Pune lab launches HPV self-sampling kit for cervical cancer screening](https://news.google.com/rss/articles/CBMiggFBVV95cUxNMTRCT1kwLV80aEJiaF90MEU3NE5ZRWtYZXQzU2Vva1p2ZkF1QkZ5d2JkaklCdUx3d1hrc0lBaWM0eUxBWVMtNWJTRFN4YzUxZGFwMUpfUndlaklET19adEk4NnJVZnVFSkpNYkhCYi1Xek0tbGRyM2RoOXE5dTd1Y1Vn?oc=5)
+### [Pune-based Greenarray Labs launches HPV self-sampling approach to make cervical cancer screening more accessible - India Education Diary](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRXZscnJZSnRFQmo4aEZ5UE5ZRm4zWUxoNURNb0JlNmoxNkFDeExlYk9pbE5zdjU1YTNMb0Y1SFBvLTRiZVUyTWtGR3JsU2dRek9fbS1fOWZrN1AyR05CM0xsUkxZc2dpTHdpb0NJZmMwc1NsdC1pbjJpRUMzQUdna2NOVEs3ODRCa3E2aHlQUzBwSEVSSFYwN196akJKU0prVmJ0cGd3eVpDMlRCM3RtMFdVbnZmUjVQZnZkc0ViNzRfN0Q2TW1UOFJmX2NRZ2FKWWktMWpWXzlwX1lp?oc=5)
 
 2026-10-05 <span class="news-indication-tag">cancer</span>
 
-Source: [uniindia.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNMTRCT1kwLV80aEJiaF90MEU3NE5ZRWtYZXQzU2Vva1p2ZkF1QkZ5d2JkaklCdUx3d1hrc0lBaWM0eUxBWVMtNWJTRFN4YzUxZGFwMUpfUndlaklET19adEk4NnJVZnVFSkpNYkhCYi1Xek0tbGRyM2RoOXE5dTd1Y1Vn?oc=5)
+Source: [India Education Diary](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRXZscnJZSnRFQmo4aEZ5UE5ZRm4zWUxoNURNb0JlNmoxNkFDeExlYk9pbE5zdjU1YTNMb0Y1SFBvLTRiZVUyTWtGR3JsU2dRek9fbS1fOWZrN1AyR05CM0xsUkxZc2dpTHdpb0NJZmMwc1NsdC1pbjJpRUMzQUdna2NOVEs3ODRCa3E2aHlQUzBwSEVSSFYwN196akJKU0prVmJ0cGd3eVpDMlRCM3RtMFdVbnZmUjVQZnZkc0ViNzRfN0Q2TW1UOFJmX2NRZ2FKWWktMWpWXzlwX1lp?oc=5)
 
 ---
 
-### [Eradicating H. pylori can prevent gastric cancer, says Nobel laureate Barry Marshall - The Hindu](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa19kWGZmWFNBaXpJSS1YalNxVmpvUm4tdEotUTQtYkp4RmFZVDRsM21NVU5GXzFIQVFUZWFLaGYxV2taYWNaTy1KVzVzYk51anJuWHJnYzhva3B1cVRjdnRWY2pTSHhCanl0Y294VUN1aEhDYi1PTU1FaVBqMmYxaUFVTWZiZlVEWld3cXNXeVd2V2RwaFpFcEFsVFdpZmFPMFIxS1hza0txZ3BVamwxUHZfWm1mUzRFQlZCXzFtNU0yNUx2ang3UGItNUtKSWI3VXJzZ3Rad1AybkXSAeIBQVVfeXFMTTgwaWNQX0xtUlFyeDAyOWF2NHdXQ2JFeGRUSHhxRkJCa0FsczBTaGVaTUNGeHNzRVpRVThUVkFmYVRKYUFsRFdoNFk3aVNqcGdBc05BYl90d0tQUEY2YUlIYUNMcTdKZlN2R1FRNmZGLThRMWNlaHBBNWJrWjd6LTY0UER0aUtoeDE2TS0wZ2gtamZvUkFlalJkX2xmdnNNLUVBanVYc3IzWkpmSlE5RUc0elZKYjlIYXlLY1JjYnZ1QVVvSXUwa0dYcVNZWVIyYk9sQXlmSUhDVDd4UzczcFRxdw?oc=5)
+### [Menopause Blood Proteins Linked to Later Dementia Risk - European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
 
-2026-10-04 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">cancer</span>
+2026-10-01 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [The Hindu](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa19kWGZmWFNBaXpJSS1YalNxVmpvUm4tdEotUTQtYkp4RmFZVDRsM21NVU5GXzFIQVFUZWFLaGYxV2taYWNaTy1KVzVzYk51anJuWHJnYzhva3B1cVRjdnRWY2pTSHhCanl0Y294VUN1aEhDYi1PTU1FaVBqMmYxaUFVTWZiZlVEWld3cXNXeVd2V2RwaFpFcEFsVFdpZmFPMFIxS1hza0txZ3BVamwxUHZfWm1mUzRFQlZCXzFtNU0yNUx2ang3UGItNUtKSWI3VXJzZ3Rad1AybkXSAeIBQVVfeXFMTTgwaWNQX0xtUlFyeDAyOWF2NHdXQ2JFeGRUSHhxRkJCa0FsczBTaGVaTUNGeHNzRVpRVThUVkFmYVRKYUFsRFdoNFk3aVNqcGdBc05BYl90d0tQUEY2YUlIYUNMcTdKZlN2R1FRNmZGLThRMWNlaHBBNWJrWjd6LTY0UER0aUtoeDE2TS0wZ2gtamZvUkFlalJkX2xmdnNNLUVBanVYc3IzWkpmSlE5RUc0elZKYjlIYXlLY1JjYnZ1QVVvSXUwa0dYcVNZWVIyYk9sQXlmSUhDVDd4UzczcFRxdw?oc=5)
-
----
-
-### [How more personalised treatment can change gynaecological cancer care | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZjBTdHRFZU5tSHVNMjNDTkF2V29qekg1WjFBUHdDaERlb2pYYXNYdVhhN1gxT3NLcVZ4a2VrUU40N2hnN2hGNC1aVnFxWnlZaW1pTHo2eElUUHNzS0ZsSVRsRzNfQy1zUWpPNmpMMVVyUzJpLTZzMmpKT0x1QlpzcTlHQjBQbnU3SWxsYmNMXzBYQ2doSUFocVBGUXpWZERSWEZlUDU0OGlNMENFZnh5ZkFrcnFBcXNDYlVUV3VDTldKZnBfRlRvallPdXF4bE5FM1hjVEFrdE1UeDlEdVVn0gHkAUFVX3lxTE9CVmVBYVRLNWFVNGttNDY1eXVsQnRvZDhxT0FiejJaQVktZ25neENHYmctZEVXQ2xBNHBGUnZFaEVlZFpnbFgzMU5ubnoySnV6UHFYVGhLR0VoTGp5UFpFOS1GNTlVTzh6d2ljR2M4UlNXdnFRMXk1OEdhV0w2bmM4N1BNcEg5UWYxUmlBdGwyOTF2QlQ5NzgxMEo2TFhBZThNSHZIMldDc2xPMDBaa1YzSXltNXM1cm9WcFZaZGxYNWlnQTdaMmsteFVMcHFtVF9LWFJWZmNxNzVBakJpMXNzZUVvbg?oc=5)
-
-2026-10-02 <span class="news-indication-tag">cancer</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZjBTdHRFZU5tSHVNMjNDTkF2V29qekg1WjFBUHdDaERlb2pYYXNYdVhhN1gxT3NLcVZ4a2VrUU40N2hnN2hGNC1aVnFxWnlZaW1pTHo2eElUUHNzS0ZsSVRsRzNfQy1zUWpPNmpMMVVyUzJpLTZzMmpKT0x1QlpzcTlHQjBQbnU3SWxsYmNMXzBYQ2doSUFocVBGUXpWZERSWEZlUDU0OGlNMENFZnh5ZkFrcnFBcXNDYlVUV3VDTldKZnBfRlRvallPdXF4bE5FM1hjVEFrdE1UeDlEdVVn0gHkAUFVX3lxTE9CVmVBYVRLNWFVNGttNDY1eXVsQnRvZDhxT0FiejJaQVktZ25neENHYmctZEVXQ2xBNHBGUnZFaEVlZFpnbFgzMU5ubnoySnV6UHFYVGhLR0VoTGp5UFpFOS1GNTlVTzh6d2ljR2M4UlNXdnFRMXk1OEdhV0w2bmM4N1BNcEg5UWYxUmlBdGwyOTF2QlQ5NzgxMEo2TFhBZThNSHZIMldDc2xPMDBaa1YzSXltNXM1cm9WcFZaZGxYNWlnQTdaMmsteFVMcHFtVF9LWFJWZmNxNzVBakJpMXNzZUVvbg?oc=5)
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZySkt4SkVRd05Fb3ZqUUU2d0g3VDhiMnIzb1h1al9TcHZFLWUzQlRYb1dHR0p2V2VCUWtTZGJiM2dua2FoOWJJNXdMaUFwYjlEXzRlUlI4YVY2OVNiU04ySm9QRTgwdHozNW0yVXhhaVdURURnRlBUaDBnbXBaU3NwOGJodDRYVTFza1hvbTBNaFlfYy00Z3hiaU81OGhNTU1yU3lUUjZIWmc?oc=5)
 
 ---
 
