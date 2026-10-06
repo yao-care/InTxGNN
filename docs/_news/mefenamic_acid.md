@@ -14,7 +14,7 @@ permalink: /news/mefenamic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Mefenamic Acid?">
-<strong>Mefenamic Acid</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
+<strong>Mefenamic Acid</strong> currently has <strong>1 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Mefenamic Acid with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (8)</strong>:<ul>
-<li>rheumatoid arthritis (99.7%)</li>
+<li class="indication-matched">rheumatoid arthritis (99.7%)<span class="indication-tag">📰 joint pain</span></li>
 <li>osteoarthritis susceptibility (99.7%)</li>
 <li>headache disorder (99.6%)</li>
 <li>trigeminal autonomic cephalalgia (99.5%)</li>
@@ -38,9 +38,15 @@ This page combines the AI-predicted indications for Mefenamic Acid with the late
 <p><a href="{{ '/drugs/mefenamic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Why do your joints hurt in your 30s? Surgeon shares causes and habits that may help reduce pain | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYXVjOE8ydWtUS0dMTnBKR2luZUtockJHQXBXWklNM25GTFJhRm5yai1UOHhyc0Z4ajdNQWhacVR4MkdfSTV0RnlJaDl6SFZXeFpkZjJ2NlF3UnRiejY2MllZYXpjZFEwbk5nZFR4ZmNhZTVPaFhqbWlfMjNmVjdJYWNDUVFHdWpNbUhWRDIxZnVvNEJPYVcxUEFySHdoZ1RoekpzY2FLYzJuSWV5d0VnMWJUMWxNMXVpU0VSU25CU0tjZFNWWlM4ZEVtUWNjT0E4TFpQbVBFODI4UmZXMUE1SkZNM0lXXzhZZkM4azV3b2Vpa3FWZVHSAfsBQVVfeXFMTXlJVTJtYjVqdlJTVXJjUWxiNmpLblVWSkQzWUNCMTRHX21IZG5zN3FpLV9TV09XWXlWVDhpQ3Q4OFVZSTlpdngtWk96YkNDUEJNWlBJdkxhUFpKejlKLWZkWTlSbmlqUXVtTXY0aWxabFJoYTRsUENKVlZMNUJFNDRwWUVwcFlULTQwa0thb1FQNlctUUpDQ3FKY2J5UW5zaWJvdjdtTG5GWF9qcC14bkMtMDFmRHk2YUM5RHFJcHFXYnRCT2pKYWFJWU9RMW1Fck5nUmQ3X1p1TWFZdXZSS041QzZ3bFM2ZkZ5MFdpUm5OSzBEakpQYVJlTmc?oc=5)
+
+2026-10-05 <span class="news-indication-tag">joint pain</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYXVjOE8ydWtUS0dMTnBKR2luZUtockJHQXBXWklNM25GTFJhRm5yai1UOHhyc0Z4ajdNQWhacVR4MkdfSTV0RnlJaDl6SFZXeFpkZjJ2NlF3UnRiejY2MllZYXpjZFEwbk5nZFR4ZmNhZTVPaFhqbWlfMjNmVjdJYWNDUVFHdWpNbUhWRDIxZnVvNEJPYVcxUEFySHdoZ1RoekpzY2FLYzJuSWV5d0VnMWJUMWxNMXVpU0VSU25CU0tjZFNWWlM4ZEVtUWNjT0E4TFpQbVBFODI4UmZXMUE1SkZNM0lXXzhZZkM4azV3b2Vpa3FWZVHSAfsBQVVfeXFMTXlJVTJtYjVqdlJTVXJjUWxiNmpLblVWSkQzWUNCMTRHX21IZG5zN3FpLV9TV09XWXlWVDhpQ3Q4OFVZSTlpdngtWk96YkNDUEJNWlBJdkxhUFpKejlKLWZkWTlSbmlqUXVtTXY0aWxabFJoYTRsUENKVlZMNUJFNDRwWUVwcFlULTQwa0thb1FQNlctUUpDQ3FKY2J5UW5zaWJvdjdtTG5GWF9qcC14bkMtMDFmRHk2YUM5RHFJcHFXYnRCT2pKYWFJWU9RMW1Fck5nUmQ3X1p1TWFZdXZSS041QzZ3bFM2ZkZ5MFdpUm5OSzBEakpQYVJlTmc?oc=5)
+
+---
 
 
 <div class="disclaimer">

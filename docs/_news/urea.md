@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,23 @@ This page combines the AI-predicted indications for Urea with the latest health 
 <p><a href="{{ '/drugs/urea/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Astronomers find ‘phoenix planet’ born from ashes of a dying star - The Times of India](https://news.google.com/rss/articles/CBMizgFBVV95cUxPVENMR1RyTW5EcjNWNE5hNkZJYkFnd0oxTHJUZlo0ZWhxR3NJVnk3LUNWektZRWNjQ3lmYk4yT1EyU0hXZFplN3Z6N0s4MUx6R180SXUxMjFzSjh1d1VMM3VPdHZvTXgxMVNqVVVTOW5QYWN3ZHVmQXA0V3loaEMwSTBQejNLZlRHeF95SFdCQjl0dV9qQnVKQjE0T1JhR1hQRW9xM3RVNnZ0YU5qQXNTSVZreWN5X0U5LU1lc25Sekx0dTFMSGUtelptUUFVZ9IB0wFBVV95cUxObGczTjJLcWEwMGlqTWtXZEJCbml1dWZqbVExMlN2eXBjWGtoRWR4VWtQU3M3YVVDZGxsLXZZejh6VERwZWhlX0FYbktnTXZFTkdRSjExQlN6UENGZTZ5LUljbHB1ek1OaHJ6S1I5bzFwLXhFWHBuQ2JIeWFIUExLSkpSV1J0VE1GNktqcTlIamhBQWM1OFVqdHQyZFdoejUwMjRGYmFnbDlfZWs5clpRdDZHa0RzU3dpTTIxa21hQ0FFRmQ1QVNianNBdGszUFJtTFU4?oc=5)
+
+2026-10-06 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMizgFBVV95cUxPVENMR1RyTW5EcjNWNE5hNkZJYkFnd0oxTHJUZlo0ZWhxR3NJVnk3LUNWektZRWNjQ3lmYk4yT1EyU0hXZFplN3Z6N0s4MUx6R180SXUxMjFzSjh1d1VMM3VPdHZvTXgxMVNqVVVTOW5QYWN3ZHVmQXA0V3loaEMwSTBQejNLZlRHeF95SFdCQjl0dV9qQnVKQjE0T1JhR1hQRW9xM3RVNnZ0YU5qQXNTSVZreWN5X0U5LU1lc25Sekx0dTFMSGUtelptUUFVZ9IB0wFBVV95cUxObGczTjJLcWEwMGlqTWtXZEJCbml1dWZqbVExMlN2eXBjWGtoRWR4VWtQU3M3YVVDZGxsLXZZejh6VERwZWhlX0FYbktnTXZFTkdRSjExQlN6UENGZTZ5LUljbHB1ek1OaHJ6S1I5bzFwLXhFWHBuQ2JIeWFIUExLSkpSV1J0VE1GNktqcTlIamhBQWM1OFVqdHQyZFdoejUwMjRGYmFnbDlfZWs5clpRdDZHa0RzU3dpTTIxa21hQ0FFRmQ1QVNianNBdGszUFJtTFU4?oc=5)
+
+---
+
+### [Nobel physics prize awarded for discovery of ‘ghostly messengers’ from the cosmos - The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUlzcGtsNmhsNUNTR2VieUpVNjNkYUljd3puWkU4N3BGd1BabGZRUzV0SU8tODRWd19Ec2ZVNUR6angxbG9RYXhUcTFwd0wtWEY3emlOeU16T0dMYUdrVDRuaGo2MDZSeEl6Z1FaN2M5Z1ZFZzhLbW1acVI2ZlJoeGhXcElZZlQ1M0swdjVFSlVLMjZ6TG91TWZGaGViRDFFcFpZcm9WX29LU0gxVE9mTXh2bVM?oc=5)
+
+2026-10-06 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUlzcGtsNmhsNUNTR2VieUpVNjNkYUljd3puWkU4N3BGd1BabGZRUzV0SU8tODRWd19Ec2ZVNUR6angxbG9RYXhUcTFwd0wtWEY3emlOeU16T0dMYUdrVDRuaGo2MDZSeEl6Z1FaN2M5Z1ZFZzhLbW1acVI2ZlJoeGhXcElZZlQ1M0swdjVFSlVLMjZ6TG91TWZGaGViRDFFcFpZcm9WX29LU0gxVE9mTXh2bVM?oc=5)
+
+---
 
 
 <div class="disclaimer">

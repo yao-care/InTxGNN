@@ -3,7 +3,7 @@ layout: default
 title: "osteoarthritis News"
 parent: Health News
 nav_exclude: true
-description: "Health news about osteoarthritis. 1 articles, 5 related drugs."
+description: "Health news about osteoarthritis. 2 articles, 5 related drugs."
 permalink: /news/osteoarthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/osteoarthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about osteoarthritis?">
-<strong>osteoarthritis</strong> currently has <strong>1 news articles</strong> and 5 related drugs.
+<strong>osteoarthritis</strong> currently has <strong>2 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ This page brings together the latest health news about “osteoarthritis” and 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [High blood pressure can accelerate osteoarthritis joint damage via a newly identified hormone pathway - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
 
 2026-10-05
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
+
+---
+
+### [Obesity Pharmacotherapy Offers Osteoarthritis Pain Relief, Not Repair - European Medical Journal](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHdNUmoxd3B1Q3pKZTNacmNDWDFRbWNSNXkzaWtxdzRETTNXb3hNWWFldmw4NDhkVFhqR2cwYXJOakRsdEJmRmVwSFVJNHBMNHR1NHNBTEFrNWJWNWdpMlI4VVYyLWdaOGxoV3F5b2doU3dQU1RWRHpUbWcyQkFWN29zSmRDTThBbU1uX2ZCSUpwQVZHRlpuMk40a3l4b1FTUElPMmpZRjdIemJIYjFXWE96QTU?oc=5)
+
+2026-09-30
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHdNUmoxd3B1Q3pKZTNacmNDWDFRbWNSNXkzaWtxdzRETTNXb3hNWWFldmw4NDhkVFhqR2cwYXJOakRsdEJmRmVwSFVJNHBMNHR1NHNBTEFrNWJWNWdpMlI4VVYyLWdaOGxoV3F5b2doU3dQU1RWRHpUbWcyQkFWN29zSmRDTThBbU1uX2ZCSUpwQVZHRlpuMk40a3l4b1FTUElPMmpZRjdIemJIYjFXWE96QTU?oc=5)
 
 ---
 
