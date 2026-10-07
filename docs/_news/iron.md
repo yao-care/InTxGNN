@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Bacteria use collisions to navigate crowded environments, micro-maze experiments reveal](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTEstVUNkcFJjaWl4cVpPczJHa3VwQTlsNGJ1T0RUOU8yZ1NQVVpwQ0p0RTd0blBMOExjVjluOHE0dlV0cnF1MmdtRFRDN2tkNEsxdFFQMnFVcFdBb210dC1EdnZ4anpaM0h2eVo1YmpkODhGdmxFaHYwT0pZNkdPLW9ZT1Q2b0JS?oc=5)
 
 2026-10-06 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTEstVUNkcFJjaWl4cVpPczJHa3VwQTlsNGJ1T0RUOU8yZ1NQVVpwQ0p0RTd0blBMOExjVjluOHE0dlV0cnF1MmdtRFRDN2tkNEsxdFFQMnFVcFdBb210dC1EdnZ4anpaM0h2eVo1YmpkODhGdmxFaHYwT0pZNkdPLW9ZT1Q2b0JS?oc=5)
-
----
-
-### [Walking remains highly beneficial for COPD patients in polluted environments](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1lsTkNhLXoxZTM3Y0Z4RlhqT09rdmprS1JVMHVIem1OOVVrX201OVdlVWhuQ0w4b3FYeUZRTzdHcEsxeGFyR2ZiOWtqRGt0b2cyLUF6QVZCMkhmQlJtejg4b1c1UmpiQWF4cGxKWDFBMUpJM1dhNHh2QTNPTUdVMjA0bjZNUk1GV3c5QzVZc1M1S3FHc2JTM3dQS0FtNnN4ZjA5V25oVjlna3ZiQWZmMmlaNFBKZVpSMXFlTnZYMC1Hdw?oc=5)
-
-2026-10-05 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">COPD</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1lsTkNhLXoxZTM3Y0Z4RlhqT09rdmprS1JVMHVIem1OOVVrX201OVdlVWhuQ0w4b3FYeUZRTzdHcEsxeGFyR2ZiOWtqRGt0b2cyLUF6QVZCMkhmQlJtejg4b1c1UmpiQWF4cGxKWDFBMUpJM1dhNHh2QTNPTUdVMjA0bjZNUk1GV3c5QzVZc1M1S3FHc2JTM3dQS0FtNnN4ZjA5V25oVjlna3ZiQWZmMmlaNFBKZVpSMXFlTnZYMC1Hdw?oc=5)
 
 ---
 
