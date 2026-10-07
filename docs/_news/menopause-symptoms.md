@@ -3,7 +3,7 @@ layout: default
 title: "menopause (menopause symptoms) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause (menopause symptoms). 1 articles, 23 related drugs."
+description: "Health news about menopause (menopause symptoms). 2 articles, 23 related drugs."
 permalink: /news/menopause-symptoms/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause-symptoms/
 ---
 
 <p class="key-answer" data-question="What news is there about menopause (menopause symptoms)?">
-<strong>menopause (menopause symptoms)</strong> currently has <strong>1 news articles</strong> and 23 related drugs.
+<strong>menopause (menopause symptoms)</strong> currently has <strong>2 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,21 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [How does menopause affect women’s heart health? Cardiovascular surgeon with 25 years of experience reveals 3 risks | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxQRHE3NTZPYUZaUXBiWHplTkh0blY2bVNzQkxEUUwtSnpMajNsMnhqSlRmeXBtMEVBZlY5Z2ZhTGt3dnlucHVQUU5sczRiWGI5cnZKcEQ1aEVTMW5UcGk1RGMxd3hUTmdMY21CMkVLWEphLXlDSzJSdHN4cnhSNkE2OVRPWmU5aGNTLTRVR0x4LTByc0V4SEJDX2gwQUVQOHE1SWRGWURoeDZ4OUotQ29fcEU1V2ItRDFnbHVMRDBnRkJWZWxjazRQRFVNMHBvY2hZenZta0o4cGpkLWVOckVBdDdheDk3Yi04ZDkyMEtBMDB6VUk3SlJFZ3hYclVrRnFST2Fnamd0UE8wamRpVEI40gGUAkFVX3lxTE1KZmF2dnROTHpOdnZXRURzQ2V6WFpkWmxtNFdIMnZVeFNkcHh6RTV2WFBOeU1nckszZlJmeGZYYlJWUnlyX2JhNjg3bmxqbk40a2JZR1hEOW40R2dPZHJJWFhRZmZvX21zcE8yMVZIMHM2Tngtb3lWdV9HOG10enhCSXREemN2b0V4R0JmaUtlUjF4ZmhMMnFaa3ZuQUYyX3RUZnZhQTJfYVFXMXZUQklTNHFudzlPd3MxdlBNVzBZZDN6eE0xVVJuYWdNM0dlUWxqT3FlSnF6c19xaWJ2V1pMWGZVbk91SV9pWnc1MEx0THdFRWh5eXhuUEp6cDk3ajVPbHlTRFd1UWc4UlEtR09NY2NxRQ?oc=5)
 
 2026-10-06
 
 Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxQRHE3NTZPYUZaUXBiWHplTkh0blY2bVNzQkxEUUwtSnpMajNsMnhqSlRmeXBtMEVBZlY5Z2ZhTGt3dnlucHVQUU5sczRiWGI5cnZKcEQ1aEVTMW5UcGk1RGMxd3hUTmdMY21CMkVLWEphLXlDSzJSdHN4cnhSNkE2OVRPWmU5aGNTLTRVR0x4LTByc0V4SEJDX2gwQUVQOHE1SWRGWURoeDZ4OUotQ29fcEU1V2ItRDFnbHVMRDBnRkJWZWxjazRQRFVNMHBvY2hZenZta0o4cGpkLWVOckVBdDdheDk3Yi04ZDkyMEtBMDB6VUk3SlJFZ3hYclVrRnFST2Fnamd0UE8wamRpVEI40gGUAkFVX3lxTE1KZmF2dnROTHpOdnZXRURzQ2V6WFpkWmxtNFdIMnZVeFNkcHh6RTV2WFBOeU1nckszZlJmeGZYYlJWUnlyX2JhNjg3bmxqbk40a2JZR1hEOW40R2dPZHJJWFhRZmZvX21zcE8yMVZIMHM2Tngtb3lWdV9HOG10enhCSXREemN2b0V4R0JmaUtlUjF4ZmhMMnFaa3ZuQUYyX3RUZnZhQTJfYVFXMXZUQklTNHFudzlPd3MxdlBNVzBZZDN6eE0xVVJuYWdNM0dlUWxqT3FlSnF6c19xaWJ2V1pMWGZVbk91SV9pWnc1MEx0THdFRWh5eXhuUEp6cDk3ajVPbHlTRFd1UWc4UlEtR09NY2NxRQ?oc=5)
+
+---
+
+### [HRT for Menopause and CV Risk: Two Observational Studies Provide Insights](https://news.google.com/rss/articles/CBMimwFBVV95cUxNal9WRTZuM2R1WG1kTjFLbERxMGJGa1dlUXBjci1iS2JqcGl2TlFtbmZSU19FN3M1Zi1kcTA1YWdqOW9EVHd1RVk5Qk1xc2pnbmNTY1pDRUhpTVNyX3d0am9jMU5IcVpSQlY3T1I4UjRyN0Q1bHJUZVBKWFpIa2tyVmwzSUllQy1jakVQR2F4ZVprMGNEQnRoTWlzMA?oc=5)
+
+2026-10-02
+
+Source: [TCTMD.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNal9WRTZuM2R1WG1kTjFLbERxMGJGa1dlUXBjci1iS2JqcGl2TlFtbmZSU19FN3M1Zi1kcTA1YWdqOW9EVHd1RVk5Qk1xc2pnbmNTY1pDRUhpTVNyX3d0am9jMU5IcVpSQlY3T1I4UjRyN0Q1bHJUZVBKWFpIa2tyVmwzSUllQy1jakVQR2F4ZVprMGNEQnRoTWlzMA?oc=5)
 
 ---
 

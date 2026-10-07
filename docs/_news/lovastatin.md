@@ -14,7 +14,7 @@ permalink: /news/lovastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Lovastatin?">
-<strong>Lovastatin</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
+<strong>Lovastatin</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,9 @@ This page combines the AI-predicted indications for Lovastatin with the latest h
 <p><a href="{{ '/drugs/lovastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [A placebo-controlled randomized cross-over lovastatin trial in neurofibromatosis type 1 reveals Ras/MAPK modulation of dynamic emotional face processing](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jUVFrNTdlODhYTjJ5TXhmc0R4MHIzdUg0QXRtT2ttQXhEVE5iem9tQlJ2dG0tTWVyVXBkYU16VjJlZ1Y0Nl9XYmwxQW13b2Y0ZkR2RERPOFVHQ2ZSZW1V?oc=5)
-
-2026-10-06 <span class="news-drug-tag">LOVASTATIN</span> <span class="news-drug-tag">Lovastatin</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jUVFrNTdlODhYTjJ5TXhmc0R4MHIzdUg0QXRtT2ttQXhEVE5iem9tQlJ2dG0tTWVyVXBkYU16VjJlZ1Y0Nl9XYmwxQW13b2Y0ZkR2RERPOFVHQ2ZSZW1V?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
