@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li class="indication-matched">osteoarthritis (98.7%)<span class="indication-tag">📰 osteoarthritis</span></li>
+<li>osteoarthritis (98.7%)</li>
 <li>osteoarthritis susceptibility (98.5%)</li>
 <li class="indication-matched">rheumatoid arthritis (98.5%)<span class="indication-tag">📰 joint pain</span></li>
 <li>gout (98.0%)</li>
@@ -42,19 +42,19 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 
 ## Related News (2)
 
+### [Deadly fungal brain infection is on the rise as experts hunt for answers](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMElJM3lzUkI5TGRVbkFPRDJHMWJqWURlODhkSGZTNFZZVXdVd0psdUJSSHVSbmNrNnF1WUhLaFYyZ1FDRHpIUWJEU21FMFAxTmxHZmsxcW5Zd2VBQWJRb0xycDFsd251Mkx5YUg0UERmNjBlelM0ME1oOTJ6REdicFpLcG5qYXlqcWJQOHNNSkNFVnZhREFCc3NMd2poNUFySWlabjVUMDNwaDdOWVJCU1ZkSlo5TVNKRHpZ0gHAAUFVX3lxTFByLWV6U21EbnEzZUt6S1RxVGZPcURfMEx1R1BrbHJxRmVHeFJRT2VvTjhZYUpoT1FHcHhnYW50ZmJmSGlZdFhIcHJQc1BSVi1Lc1VObm1Pc05EX08wbUt5eFlCMXRNMWx2YjlWclczZi00X0lpb2xVV1hlSDJkYUlQMXNsZmVsZkl4MmE0S3JkaXpsWEpJb1Z0UllLVjk3QWZ2eFZUanZDcjZDaGh6a1BsdjZFQVpqLXdnN2JUVEFVSw?oc=5)
+
+2026-10-07 <span class="news-indication-tag">RA</span>
+
+Source: [WION](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMElJM3lzUkI5TGRVbkFPRDJHMWJqWURlODhkSGZTNFZZVXdVd0psdUJSSHVSbmNrNnF1WUhLaFYyZ1FDRHpIUWJEU21FMFAxTmxHZmsxcW5Zd2VBQWJRb0xycDFsd251Mkx5YUg0UERmNjBlelM0ME1oOTJ6REdicFpLcG5qYXlqcWJQOHNNSkNFVnZhREFCc3NMd2poNUFySWlabjVUMDNwaDdOWVJCU1ZkSlo5TVNKRHpZ0gHAAUFVX3lxTFByLWV6U21EbnEzZUt6S1RxVGZPcURfMEx1R1BrbHJxRmVHeFJRT2VvTjhZYUpoT1FHcHhnYW50ZmJmSGlZdFhIcHJQc1BSVi1Lc1VObm1Pc05EX08wbUt5eFlCMXRNMWx2YjlWclczZi00X0lpb2xVV1hlSDJkYUlQMXNsZmVsZkl4MmE0S3JkaXpsWEpJb1Z0UllLVjk3QWZ2eFZUanZDcjZDaGh6a1BsdjZFQVpqLXdnN2JUVEFVSw?oc=5)
+
+---
+
 ### [Don’t ignore persistent joint pain & stiffness, warns rheumatologist - The Hans India](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUppVERzM3J6WWxoQWltZExzQmVYVUE2OXFvNW1xeHMyRmcxR19vOWZfeTllXzVwMWpFZUdaSjlwM0hkOGZ1eHRYWnFPakVYZE5ZaXhrTm92OTJ1WDQ3V2FpZXBiX2tqZTZGY3ZwOFRHU0Z1OFpRbjB6aW1sSUlsOTJEUGxhZklOZGVWWEJpRmYwa0FreEFmM2QzYllkeWg4NjRKUlJpY0VQd0FnQklDQ2steGZScWU2Tm5V?oc=5)
 
 2026-10-06 <span class="news-indication-tag">joint pain</span>
 
 Source: [The Hans India](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUppVERzM3J6WWxoQWltZExzQmVYVUE2OXFvNW1xeHMyRmcxR19vOWZfeTllXzVwMWpFZUdaSjlwM0hkOGZ1eHRYWnFPakVYZE5ZaXhrTm92OTJ1WDQ3V2FpZXBiX2tqZTZGY3ZwOFRHU0Z1OFpRbjB6aW1sSUlsOTJEUGxhZklOZGVWWEJpRmYwa0FreEFmM2QzYllkeWg4NjRKUlJpY0VQd0FnQklDQ2steGZScWU2Tm5V?oc=5)
-
----
-
-### [Obesity Pharmacotherapy Offers Osteoarthritis Pain Relief, Not Repair - European Medical Journal](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHdNUmoxd3B1Q3pKZTNacmNDWDFRbWNSNXkzaWtxdzRETTNXb3hNWWFldmw4NDhkVFhqR2cwYXJOakRsdEJmRmVwSFVJNHBMNHR1NHNBTEFrNWJWNWdpMlI4VVYyLWdaOGxoV3F5b2doU3dQU1RWRHpUbWcyQkFWN29zSmRDTThBbU1uX2ZCSUpwQVZHRlpuMk40a3l4b1FTUElPMmpZRjdIemJIYjFXWE96QTU?oc=5)
-
-2026-09-30 <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHdNUmoxd3B1Q3pKZTNacmNDWDFRbWNSNXkzaWtxdzRETTNXb3hNWWFldmw4NDhkVFhqR2cwYXJOakRsdEJmRmVwSFVJNHBMNHR1NHNBTEFrNWJWNWdpMlI4VVYyLWdaOGxoV3F5b2doU3dQU1RWRHpUbWcyQkFWN29zSmRDTThBbU1uX2ZCSUpwQVZHRlpuMk40a3l4b1FTUElPMmpZRjdIemJIYjFXWE96QTU?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/leuprolide/
 ---
 
 <p class="key-answer" data-question="What news is there about Leuprolide?">
-<strong>Leuprolide</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
+<strong>Leuprolide</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,22 +25,16 @@ This page combines the AI-predicted indications for Leuprolide with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (2)</strong>:<ul>
-<li class="indication-matched">osteoarthritis (99.7%)<span class="indication-tag">📰 osteoarthritis</span></li>
+<li>osteoarthritis (99.7%)</li>
 <li>pseudoachondroplasia (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/leuprolide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Obesity Pharmacotherapy Offers Osteoarthritis Pain Relief, Not Repair - European Medical Journal](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHdNUmoxd3B1Q3pKZTNacmNDWDFRbWNSNXkzaWtxdzRETTNXb3hNWWFldmw4NDhkVFhqR2cwYXJOakRsdEJmRmVwSFVJNHBMNHR1NHNBTEFrNWJWNWdpMlI4VVYyLWdaOGxoV3F5b2doU3dQU1RWRHpUbWcyQkFWN29zSmRDTThBbU1uX2ZCSUpwQVZHRlpuMk40a3l4b1FTUElPMmpZRjdIemJIYjFXWE96QTU?oc=5)
-
-2026-09-30 <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHdNUmoxd3B1Q3pKZTNacmNDWDFRbWNSNXkzaWtxdzRETTNXb3hNWWFldmw4NDhkVFhqR2cwYXJOakRsdEJmRmVwSFVJNHBMNHR1NHNBTEFrNWJWNWdpMlI4VVYyLWdaOGxoV3F5b2doU3dQU1RWRHpUbWcyQkFWN29zSmRDTThBbU1uX2ZCSUpwQVZHRlpuMk40a3l4b1FTUElPMmpZRjdIemJIYjFXWE96QTU?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

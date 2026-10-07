@@ -3,7 +3,7 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 1 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 2 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>1 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>2 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,21 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Global Breast Cancer Initiative: Milestones - European Medical Journal](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTItODlnbnllcWVTejRISkN3d1lpQ0JycFcwRkRMS2kzejhlU29HQU9SSXFKQTlLeW9iWWdBMjV4dE40SW1oekQ5UFVCVEE4QVVZZ0VRM2prbFdyZnZhLXpQWUxkSVlXSGRtZ0Y1RG52Z3FZMXk0bThaMmdFQlVCX3p1eE9PQ25ya29Lbw?oc=5)
+### [A scalable Zebrafish Platform for genetic validation and functional discovery of stage-specific breast cancer metastasis regulators](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CMlpSVXh3alpDOXpZZ3pKSnU1RnB1d3gzWXVvUW80aXZqT3hYQk5vVE9mV1NncE90Q0gzZ2dXaDItQ20xNnI1bE5sWVJBbXhfeFVwekdabW1hNXpnTFhJ?oc=5)
 
 2026-10-07
 
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTItODlnbnllcWVTejRISkN3d1lpQ0JycFcwRkRMS2kzejhlU29HQU9SSXFKQTlLeW9iWWdBMjV4dE40SW1oekQ5UFVCVEE4QVVZZ0VRM2prbFdyZnZhLXpQWUxkSVlXSGRtZ0Y1RG52Z3FZMXk0bThaMmdFQlVCX3p1eE9PQ25ya29Lbw?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CMlpSVXh3alpDOXpZZ3pKSnU1RnB1d3gzWXVvUW80aXZqT3hYQk5vVE9mV1NncE90Q0gzZ2dXaDItQ20xNnI1bE5sWVJBbXhfeFVwekdabW1hNXpnTFhJ?oc=5)
+
+---
+
+### [Nutribray Marks Breast Cancer Awareness Month 2026, Highlights Women’s Health, Nutrition and Family Wellbeing - ANI News](https://news.google.com/rss/articles/CBMi9AFBVV95cUxObHpRdm9oSEJPMFR2SFI0SWp4NmstdVpMYktlTURfck10cXBLc2w5QlViblQ3c0dRZzVXYjV2MGUxWlE3cXQybTlZNVUwdmFWMnIxcXJfa3NkWFpWRlBJWnRtN0UyT1h6ZGNTcXQ3MlNyc0dXem82aXJTS3lHTUZNOEZTT19tenlKdFRQSGFUbXVkeWFSN1ZhWXRtNFdxc1gtS21HWnphMURyQ05GdjlDXzh1NnI5dG41d2dqSHl6Y3czd2hvei1ja1Rva2JoM0FKQm9Gb1Z3SEFacnZIclZ6N2JEUUotQjJCT0Nmd21Kc2o5ZkNO?oc=5)
+
+2026-10-02
+
+Source: [ANI News](https://news.google.com/rss/articles/CBMi9AFBVV95cUxObHpRdm9oSEJPMFR2SFI0SWp4NmstdVpMYktlTURfck10cXBLc2w5QlViblQ3c0dRZzVXYjV2MGUxWlE3cXQybTlZNVUwdmFWMnIxcXJfa3NkWFpWRlBJWnRtN0UyT1h6ZGNTcXQ3MlNyc0dXem82aXJTS3lHTUZNOEZTT19tenlKdFRQSGFUbXVkeWFSN1ZhWXRtNFdxc1gtS21HWnphMURyQ05GdjlDXzh1NnI5dG41d2dqSHl6Y3czd2hvei1ja1Rva2JoM0FKQm9Gb1Z3SEFacnZIclZ6N2JEUUotQjJCT0Nmd21Kc2o5ZkNO?oc=5)
 
 ---
 
