@@ -14,7 +14,7 @@ permalink: /news/ethanol/
 ---
 
 <p class="key-answer" data-question="What news is there about Ethanol?">
-<strong>Ethanol</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Ethanol</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Ethanol with the latest heal
 <p><a href="{{ '/drugs/ethanol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Study Optimizes Platinum Catalysts for Low-Temperature Aqueous-Phase Methanol Reforming](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ScXc2VzkyLUdMbEo2elpySmdnd0ZNemtXcVB4ZkJFWlNOVktOczZyMXVpOWlZS1F2V0x5LVdRNC1JVFQ4YVNQYmFWTnVTZTJseGtoS1pB?oc=5)
+
+2026-10-07 <span class="news-drug-tag">Ethanol</span>
+
+Source: [AZoM](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ScXc2VzkyLUdMbEo2elpySmdnd0ZNemtXcVB4ZkJFWlNOVktOczZyMXVpOWlZS1F2V0x5LVdRNC1JVFQ4YVNQYmFWTnVTZTJseGtoS1pB?oc=5)
+
+---
 
 
 <div class="disclaimer">
