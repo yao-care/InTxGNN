@@ -14,7 +14,7 @@ permalink: /news/l-glutamine/
 ---
 
 <p class="key-answer" data-question="What news is there about L-Glutamine?">
-<strong>L-Glutamine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>L-Glutamine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for L-Glutamine with the latest 
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>drug-induced osteoporosis (100.0%)</li>
 <li>hemorrhagic disease of newborn (100.0%)</li>
-<li>dermatitis (99.8%)</li>
+<li class="indication-matched">dermatitis (99.8%)<span class="indication-tag">📰 dermatitis</span></li>
 <li>acrodermatitis chronica atrophicans (99.8%)</li>
 <li>neonatal dermatomyositis (99.8%)</li>
 <li>acne keloid (99.7%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for L-Glutamine with the latest 
 <p><a href="{{ '/drugs/l-glutamine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [RELIEVE-AD-PEDs: Dupilumab Sustains Adolescent Atopic Dermatitis Control at 1 Year](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYlRYejF0S0dLRWlJTmlscG93R2lUa1UzY3U0emRFWWRTbW12dWNaV2JMenIxTGk5bnpIQUNlSEhfajF4ejd1ZkdzRW9XbG0yWUJCcWtBVFNCYWh6bHZONFEyUHFWLW9PMUxXSFZEcTBNeXd3bTAxVVhxTEZoaVUydEdsVXR4MHFFbzY3LTAycTVjUlBWU2pUMnMyakVZYTJ2eGUtQTItb0NHdTg?oc=5)
+
+2026-10-06 <span class="news-indication-tag">dermatitis</span>
+
+Source: [HCPLive](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYlRYejF0S0dLRWlJTmlscG93R2lUa1UzY3U0emRFWWRTbW12dWNaV2JMenIxTGk5bnpIQUNlSEhfajF4ejd1ZkdzRW9XbG0yWUJCcWtBVFNCYWh6bHZONFEyUHFWLW9PMUxXSFZEcTBNeXd3bTAxVVhxTEZoaVUydEdsVXR4MHFFbzY3LTAycTVjUlBWU2pUMnMyakVZYTJ2eGUtQTItb0NHdTg?oc=5)
+
+---
 
 
 <div class="disclaimer">

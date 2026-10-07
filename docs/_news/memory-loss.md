@@ -3,7 +3,7 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 1 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 2 articles, 8 related drugs."
 permalink: /news/memory-loss/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/memory-loss/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [‘There’s plenty you can do’: The lifestyle changes you can make to curb the risk of dementia](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeV84ejg1RXhVRVE3UkdoNk95U0laQW11Z0xOWlZFSThwMjFsNUFnakRPd1RYVG8wWmRnLWxUU2Y1MVRtV25EdG1fSXRoV2lyZHRBSWJveFhPdUtVVDVlTW1sdUV1bExCc3poLTh1aDJzb3htY1J6SG1QSnJzZjZvaUFGYmszRDNLUmlRU2pUSm02NTFoQkd0WDN6bGg0Yk5JU2x6WGxldFo2SGZKUGR5VmtuMloyNzJKbXFfdUxEc3ROMTBNTEdjNS1vYkxxLUNNWEZ0QTFsZWZPeG5xd3JaUUlhdGtPMmRXZHA2Y0NwdzYydkh0U1E?oc=5)
 
 2026-10-06
 
 Source: [SMH.com.au](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeV84ejg1RXhVRVE3UkdoNk95U0laQW11Z0xOWlZFSThwMjFsNUFnakRPd1RYVG8wWmRnLWxUU2Y1MVRtV25EdG1fSXRoV2lyZHRBSWJveFhPdUtVVDVlTW1sdUV1bExCc3poLTh1aDJzb3htY1J6SG1QSnJzZjZvaUFGYmszRDNLUmlRU2pUSm02NTFoQkd0WDN6bGg0Yk5JU2x6WGxldFo2SGZKUGR5VmtuMloyNzJKbXFfdUxEc3ROMTBNTEdjNS1vYkxxLUNNWEZ0QTFsZWZPeG5xd3JaUUlhdGtPMmRXZHA2Y0NwdzYydkh0U1E?oc=5)
+
+---
+
+### [Popular Joint Supplement Tied to Faster Decline in Alzheimer’s Patients](https://news.google.com/rss/articles/CBMia0FVX3lxTE5RQWM1NFRZZ0NUdHUzenhvWXBMdnF1dWNBLUdUTS1CTUlWbWtpMVJpa2hoS3YwOWpkZkUyTXZ4TlFsS1VBY3NCMnJYYlFvU2tTZjJ4aVpjbHAwbmhoUUpxSFZrdnJMV0h2cWRZ?oc=5)
+
+2026-10-05
+
+Source: [Sci.News](https://news.google.com/rss/articles/CBMia0FVX3lxTE5RQWM1NFRZZ0NUdHUzenhvWXBMdnF1dWNBLUdUTS1CTUlWbWtpMVJpa2hoS3YwOWpkZkUyTXZ4TlFsS1VBY3NCMnJYYlFvU2tTZjJ4aVpjbHAwbmhoUUpxSFZrdnJMV0h2cWRZ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/bromocriptine/
 ---
 
 <p class="key-answer" data-question="What news is there about Bromocriptine?">
-<strong>Bromocriptine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Bromocriptine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,22 +33,16 @@ This page combines the AI-predicted indications for Bromocriptine with the lates
 <li>hydranencephaly (disease) (99.8%)</li>
 <li>myopia X-linked (99.8%)</li>
 <li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.8%)</li>
-<li class="indication-matched">schizophrenia (99.7%)<span class="indication-tag">📰 mental disorder</span></li>
+<li>schizophrenia (99.7%)</li>
 <li>syndromic myopia (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bromocriptine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Human brain cells in mice open new window to study neurological disorders - The New Indian Express](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObkR3MnNSLXR6OHdlR0dKVTVocFVjTm5UZFVyQS1TMFVfdEdxM2o4UjJKQmFwLUZrd2N2RlVDSFdyRGlsaFF2MVU0dkVLMXdlWlphdy1JZDdCQjYwdzZtR0U0MzBGaGFHaGpYYzJMVndNWkNScG9KLUpic1c0VTRhMWlETnVjTDZ3MEFqSHZqa2lWRG5uRnlCRTFvd3dzZ250SW9ULU5RT0NlNC1hZHp4cEctUENCZ25aY0xUM2Z2eThvSk9KbmtMejlmRG1WVnVIbFHSAd8BQVVfeXFMT1dnY0s5ZnRnM3VWbVNKV2k5ZXdWTktYb3AzMjFjYXMtazVCcTNodElQaXo1dEdtd2swSllVRXpMcDlXekZ3ZE1xU1BkSVBMcFlsUFZLcWdBbWVkellOZk1RQy14SDFWeTJaYmtpaGpSMVpkMElVZVhpYWRGdXFlelVYNFVrREU2aFhxUEU1SW5CNnh5UWlpSE40ckUxTlNSMXJ2ZnMyX2pmRVh4Y01JcEt3dHVrWk4wYkhlTGhkdW9vcVpUSWctOS1RSjhGLVl5S3hpSkRJclhIeVA5bWJDTQ?oc=5)
-
-2026-10-06 <span class="news-indication-tag">mental disorder</span>
-
-Source: [The New Indian Express](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObkR3MnNSLXR6OHdlR0dKVTVocFVjTm5UZFVyQS1TMFVfdEdxM2o4UjJKQmFwLUZrd2N2RlVDSFdyRGlsaFF2MVU0dkVLMXdlWlphdy1JZDdCQjYwdzZtR0U0MzBGaGFHaGpYYzJMVndNWkNScG9KLUpic1c0VTRhMWlETnVjTDZ3MEFqSHZqa2lWRG5uRnlCRTFvd3dzZ250SW9ULU5RT0NlNC1hZHp4cEctUENCZ25aY0xUM2Z2eThvSk9KbmtMejlmRG1WVnVIbFHSAd8BQVVfeXFMT1dnY0s5ZnRnM3VWbVNKV2k5ZXdWTktYb3AzMjFjYXMtazVCcTNodElQaXo1dEdtd2swSllVRXpMcDlXekZ3ZE1xU1BkSVBMcFlsUFZLcWdBbWVkellOZk1RQy14SDFWeTJaYmtpaGpSMVpkMElVZVhpYWRGdXFlelVYNFVrREU2aFhxUEU1SW5CNnh5UWlpSE40ckUxTlNSMXJ2ZnMyX2pmRVh4Y01JcEt3dHVrWk4wYkhlTGhkdW9vcVpUSWctOS1RSjhGLVl5S3hpSkRJclhIeVA5bWJDTQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/cabazitaxel/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabazitaxel?">
-<strong>Cabazitaxel</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
+<strong>Cabazitaxel</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>female breast carcinoma (99.9%)</li>
+<li class="indication-matched">female breast carcinoma (99.9%)<span class="indication-tag">📰 breast cancer</span></li>
 <li>sickle cell-hemoglobin c disease syndrome (99.9%)</li>
 <li>sickle cell-beta-thalassemia disease syndrome (99.9%)</li>
 <li>sickle cell-hemoglobin d disease syndrome (99.9%)</li>
@@ -33,28 +33,52 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 <li>sickle cell-hemoglobin E disease syndrome (99.9%)</li>
 <li>HIV infectious disease (99.8%)</li>
 <li>hyperthyroidism (99.8%)</li>
-<li class="indication-matched">neuroblastoma (99.8%)<span class="indication-tag">📰 neuroblastoma</span></li>
+<li>neuroblastoma (99.8%)</li>
 <li class="indication-matched">rheumatoid arthritis (99.7%)<span class="indication-tag">📰 joint pain</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (10)
 
-### [Scientists discover a novel strategy to unmask cancer cells in high-risk neuroblastoma](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjExVFUtaXN2bkFfTC1OOW5qLWU1dUYtWWwxVDRNeGtFLVhkdlZLeXA1cWg3V0xQNm14b2w1VGZlNzRkeFpNOTY3UENLWmFVUHdlLXI4OXYwM0QwNEpkQXk4RDJ0QjVORkNVSWtJRng1TnpoU21kRVRqV1dNeFFMTU8zYVdCaEpSSktyTUk5WGxHdV9MUmcyT282eWR1d1VCYUxqcGV3czlkN0FPcVJVMksxdnZXZ00yaUlLM1pYUU1pR2ZXM0JDM3poOHVEczQ?oc=5)
+### [Don’t ignore persistent joint pain & stiffness, warns rheumatologist - The Hans India](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUppVERzM3J6WWxoQWltZExzQmVYVUE2OXFvNW1xeHMyRmcxR19vOWZfeTllXzVwMWpFZUdaSjlwM0hkOGZ1eHRYWnFPakVYZE5ZaXhrTm92OTJ1WDQ3V2FpZXBiX2tqZTZGY3ZwOFRHU0Z1OFpRbjB6aW1sSUlsOTJEUGxhZklOZGVWWEJpRmYwa0FreEFmM2QzYllkeWg4NjRKUlJpY0VQd0FnQklDQ2steGZScWU2Tm5V?oc=5)
 
-2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">neuroblastoma</span>
+2026-10-06 <span class="news-indication-tag">joint pain</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjExVFUtaXN2bkFfTC1OOW5qLWU1dUYtWWwxVDRNeGtFLVhkdlZLeXA1cWg3V0xQNm14b2w1VGZlNzRkeFpNOTY3UENLWmFVUHdlLXI4OXYwM0QwNEpkQXk4RDJ0QjVORkNVSWtJRng1TnpoU21kRVRqV1dNeFFMTU8zYVdCaEpSSktyTUk5WGxHdV9MUmcyT282eWR1d1VCYUxqcGV3czlkN0FPcVJVMksxdnZXZ00yaUlLM1pYUU1pR2ZXM0JDM3poOHVEczQ?oc=5)
+Source: [The Hans India](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUppVERzM3J6WWxoQWltZExzQmVYVUE2OXFvNW1xeHMyRmcxR19vOWZfeTllXzVwMWpFZUdaSjlwM0hkOGZ1eHRYWnFPakVYZE5ZaXhrTm92OTJ1WDQ3V2FpZXBiX2tqZTZGY3ZwOFRHU0Z1OFpRbjB6aW1sSUlsOTJEUGxhZklOZGVWWEJpRmYwa0FreEFmM2QzYllkeWg4NjRKUlJpY0VQd0FnQklDQ2steGZScWU2Tm5V?oc=5)
 
 ---
 
-### [1 in 8 cancer cases linked to preventable infections: Study](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlV5VUQwYTc0Vlpkb3NaQTRxczBPS0dDaVpEOXRRWGk0QU8taTVJbWFVY1ZNcjVRbncwMUFSWEY5a1pnVWhqNmVTSzFReW0wd1BfaVdRQm54TkRORnRibmJrbjZwM1FnZlR0OGtfa3dDMXh2OENYY1pNS0x3TW9jUDVXZlhfenBIWVBCRjdKbGMycW0wTnFQQTlXV1cxZnJ3ZGNOcXlzdw?oc=5)
+### [Embryonic origin of cancer in newborn twins](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fSkprWEd3V19oeFk0NGNtYjBOSXYxbEFYc0VBOWNnUVRxb2pNSVdScEtXX1dtSEpORWRMZzdGV0E3ZmNhbkNocVdkN0sxY2tIcEpNa2RoNDAyTGlueEtn?oc=5)
 
 2026-10-06 <span class="news-indication-tag">cancer</span>
 
-Source: [NewsBytes](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlV5VUQwYTc0Vlpkb3NaQTRxczBPS0dDaVpEOXRRWGk0QU8taTVJbWFVY1ZNcjVRbncwMUFSWEY5a1pnVWhqNmVTSzFReW0wd1BfaVdRQm54TkRORnRibmJrbjZwM1FnZlR0OGtfa3dDMXh2OENYY1pNS0x3TW9jUDVXZlhfenBIWVBCRjdKbGMycW0wTnFQQTlXV1cxZnJ3ZGNOcXlzdw?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fSkprWEd3V19oeFk0NGNtYjBOSXYxbEFYc0VBOWNnUVRxb2pNSVdScEtXX1dtSEpORWRMZzdGV0E3ZmNhbkNocVdkN0sxY2tIcEpNa2RoNDAyTGlueEtn?oc=5)
+
+---
+
+### [These infections are behind 1 in 8 cancer cases worldwide, study finds - USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
+
+2026-10-06 <span class="news-indication-tag">cancer</span>
+
+Source: [USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
+
+---
+
+### [Circular DNA exposes a weakness in cancer cells](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TSzd0RGZiMVhsWHhCNUQyVVdBY1JlaU5BREtJN0F2YW50WE9yMjUzY1F5c1F6cTQzcUlMNWhjNEthWWxoY2RyWjM4YWROTXIyWVM0S2VuSHczd2NYMkJR?oc=5)
+
+2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TSzd0RGZiMVhsWHhCNUQyVVdBY1JlaU5BREtJN0F2YW50WE9yMjUzY1F5c1F6cTQzcUlMNWhjNEthWWxoY2RyWjM4YWROTXIyWVM0S2VuSHczd2NYMkJR?oc=5)
+
+---
+
+### [Hybrid multi-CNN feature fusion based on gradient vector flow with ant colony optimization for histopathological breast cancer classification](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QclFZejZtSVZJYng3aDdIZDk4WkNsbWdMeTQ2eWRxOFdpMnV1NmdPTnJ5V3JLZGItZlpTeldhYXBkNzNidjFUc1dwZzJ6QWhOTXAyMlBpZGtQWkdiTEdZ?oc=5)
+
+2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QclFZejZtSVZJYng3aDdIZDk4WkNsbWdMeTQ2eWRxOFdpMnV1NmdPTnJ5V3JLZGItZlpTeldhYXBkNzNidjFUc1dwZzJ6QWhOTXAyMlBpZGtQWkdiTEdZ?oc=5)
 
 ---
 
@@ -66,11 +90,19 @@ Source: [ETV Bharat](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUhjTD
 
 ---
 
-### [Why do your joints hurt in your 30s? Surgeon shares causes and habits that may help reduce pain | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYXVjOE8ydWtUS0dMTnBKR2luZUtockJHQXBXWklNM25GTFJhRm5yai1UOHhyc0Z4ajdNQWhacVR4MkdfSTV0RnlJaDl6SFZXeFpkZjJ2NlF3UnRiejY2MllZYXpjZFEwbk5nZFR4ZmNhZTVPaFhqbWlfMjNmVjdJYWNDUVFHdWpNbUhWRDIxZnVvNEJPYVcxUEFySHdoZ1RoekpzY2FLYzJuSWV5d0VnMWJUMWxNMXVpU0VSU25CU0tjZFNWWlM4ZEVtUWNjT0E4TFpQbVBFODI4UmZXMUE1SkZNM0lXXzhZZkM4azV3b2Vpa3FWZVHSAfsBQVVfeXFMTXlJVTJtYjVqdlJTVXJjUWxiNmpLblVWSkQzWUNCMTRHX21IZG5zN3FpLV9TV09XWXlWVDhpQ3Q4OFVZSTlpdngtWk96YkNDUEJNWlBJdkxhUFpKejlKLWZkWTlSbmlqUXVtTXY0aWxabFJoYTRsUENKVlZMNUJFNDRwWUVwcFlULTQwa0thb1FQNlctUUpDQ3FKY2J5UW5zaWJvdjdtTG5GWF9qcC14bkMtMDFmRHk2YUM5RHFJcHFXYnRCT2pKYWFJWU9RMW1Fck5nUmQ3X1p1TWFZdXZSS041QzZ3bFM2ZkZ5MFdpUm5OSzBEakpQYVJlTmc?oc=5)
+### [PSMA-PET scans guide LDR brachytherapy in prostate cancer](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXhNTkJYV3AxdjJrOEtLdGNjV1VOTkZVUHQyNzB4dXAwZFAyUmp0M19zOGNvUE55cW83a3JtSFFQUnJVTDkwR3dKbDVsTzJZMlE1b3VzV1diUVhwdEpQM2VjazE3elZnRUp4QU9vNWQtcXNtQloxZUh4SjNWbG1SekwxVmRDUUJlZ0Zvb1FqYlFwbElpV04wQ0FPMXcxNUNKRGFPQlRXVmhWT0ZZVllXZGw3XzJmRXBHUjhBalZWQURsVkdYTzJfVnJnSmkwdGxmNFNwcHR0ajc?oc=5)
 
-2026-10-05 <span class="news-indication-tag">joint pain</span>
+2026-10-05 <span class="news-indication-tag">cancer</span>
 
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYXVjOE8ydWtUS0dMTnBKR2luZUtockJHQXBXWklNM25GTFJhRm5yai1UOHhyc0Z4ajdNQWhacVR4MkdfSTV0RnlJaDl6SFZXeFpkZjJ2NlF3UnRiejY2MllZYXpjZFEwbk5nZFR4ZmNhZTVPaFhqbWlfMjNmVjdJYWNDUVFHdWpNbUhWRDIxZnVvNEJPYVcxUEFySHdoZ1RoekpzY2FLYzJuSWV5d0VnMWJUMWxNMXVpU0VSU25CU0tjZFNWWlM4ZEVtUWNjT0E4TFpQbVBFODI4UmZXMUE1SkZNM0lXXzhZZkM4azV3b2Vpa3FWZVHSAfsBQVVfeXFMTXlJVTJtYjVqdlJTVXJjUWxiNmpLblVWSkQzWUNCMTRHX21IZG5zN3FpLV9TV09XWXlWVDhpQ3Q4OFVZSTlpdngtWk96YkNDUEJNWlBJdkxhUFpKejlKLWZkWTlSbmlqUXVtTXY0aWxabFJoYTRsUENKVlZMNUJFNDRwWUVwcFlULTQwa0thb1FQNlctUUpDQ3FKY2J5UW5zaWJvdjdtTG5GWF9qcC14bkMtMDFmRHk2YUM5RHFJcHFXYnRCT2pKYWFJWU9RMW1Fck5nUmQ3X1p1TWFZdXZSS041QzZ3bFM2ZkZ5MFdpUm5OSzBEakpQYVJlTmc?oc=5)
+Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXhNTkJYV3AxdjJrOEtLdGNjV1VOTkZVUHQyNzB4dXAwZFAyUmp0M19zOGNvUE55cW83a3JtSFFQUnJVTDkwR3dKbDVsTzJZMlE1b3VzV1diUVhwdEpQM2VjazE3elZnRUp4QU9vNWQtcXNtQloxZUh4SjNWbG1SekwxVmRDUUJlZ0Zvb1FqYlFwbElpV04wQ0FPMXcxNUNKRGFPQlRXVmhWT0ZZVllXZGw3XzJmRXBHUjhBalZWQURsVkdYTzJfVnJnSmkwdGxmNFNwcHR0ajc?oc=5)
+
+---
+
+### [Jersey City Women Encouraged to Begin Mammograms at Age 40 - India News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxOdUhJLXV2a0NGbTBST0duelFQWUF4Q1NzSmpaWHNOamxDQ0RXZm1uRTA3MEIzU3pqU3U2OHhENldnQlo3OWQwVnhKQzlhYXNVaHo4NGJ6WFhmbUpuVEZGZ3M2SXNNR0FvV3FCdVdwbHNHSHhIcXhjN0oydDQ4dDZIRmgwd0pPemh2TDRLakpIVUgwQ3Z6ODhiOTFSeUVHUQ?oc=5)
+
+2026-10-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [India News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxOdUhJLXV2a0NGbTBST0duelFQWUF4Q1NzSmpaWHNOamxDQ0RXZm1uRTA3MEIzU3pqU3U2OHhENldnQlo3OWQwVnhKQzlhYXNVaHo4NGJ6WFhmbUpuVEZGZ3M2SXNNR0FvV3FCdVdwbHNHSHhIcXhjN0oydDQ4dDZIRmgwd0pPemh2TDRLakpIVUgwQ3Z6ODhiOTFSeUVHUQ?oc=5)
 
 ---
 
@@ -82,11 +114,11 @@ Source: [ETV Bharat](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjh4Sm
 
 ---
 
-### [Doc Talk | Prostate Cancer At Stage 4 Is Not The End: How PSMA PET And Radioligand Therapy Help - ABP Live English](https://news.google.com/rss/articles/CBMizAFBVV95cUxPak9rN20yQUxwa2ZiNVBSUmdTWG8yNXdqSmZzNUwwLUpzUjRhTDRKcGFQS2FsRlBzc1liSXhaRlVjVll2SkwtalZlZkpaS1ZwLUNYU2RHZGU2ck5abl9pTmcyNXczekRDTDd2SUI1ZE40RTFrd3dyVG5Xczd6XzgtQWZIUm5lMnVwS0RPZ0RxeVdkSkE3YkNKemdUVlhOVENXaEdIb3hrOHFGRV84QmszTHdkRlVEYzVmSHNhTUVKcmx6dHJLMWNYWll3V0rSAdIBQVVfeXFMTTc1SzI2R2t1OXRJdFBOb0doTkFYMXM5cXhnWWtEVkdQZDVtaTJMUTB1aHJyZkN5QVdIalFyT1BaM0JHc0lkVlFXdlNMenNfekpvNTlwaVBZc2hLMmZjVm9ZMDc2MXJDOUVNTGw5bkNHZnN4cFR3V3pzWlNsMW1sdzY0TXBMOFBBOWtPNWpmcmRzQVQzd3hqWHJlOGh1MG40UmRfOHlSTjBVcFVhd1lKdFVEZ3luT05EOWlQaW5QdW9aMWZhY1pxMko1Rk00MEVGM0FR?oc=5)
+### [Sugary drinks associated with stomach cancer? Study raises questions about our beverage choices, cancer specialist explains risk | Health - Hindustan Times](https://news.google.com/rss/articles/CBMioAJBVV95cUxNTDlFRExUc050bDF0cGxnell6NGFqYjh3OXZhLWVsaEUydGh1Vm1aVUtDNzE4Vl9iZHNaV2dhZ2l4Zm11dk9rNnpycXpMRkVUNmpmV1l4WlJRU2ZVRUVCMUtJZ25lUEZTQXFuMVlVdnp5WnpLWldBWjdWRmoxRzdTMklnWWJULU00VnYyTFphR09sbktjZ2RxWmQtWFEzaUR4RVhybkg2TkhScnhVZ2NyT3dMV2JDN29FZ190OGFDZmlPYzZUZFNiU0xHLVQ5QVJpVlNwaGt1T1JTTjZ2eTdBOWlOLThnTDlCZ01HQ0lVRGkwNEFLYUNHc0lrZlpfaXdzdHBLNHVVMy1QTWg0ZE9YVmlpMjRRTE5WT21KTFZrTHXSAaYCQVVfeXFMTXJOY0J6aXFvQ0M4RjRwa2d2Zkd3bVhkMGlucDZPMFMwdWZ0aU5JMkVnTlFMQW8zS1VYWmR2VktJai1XN05uYk13aXFjVUF0dVhacWFGSGxEa3B1cXBXVVZaVi1pUHZ1elQ5RHUzWFNXZGVFdkFWbUtmNDdGM3pUV2F2NGltcVAwcE4xLUlZMGNZVjMtV0wycnozSlY4bGtlMDROYXhVT0k2bEZlNnF4OTJKU0cyNTNVd3piXzhqbnA3OFlKcU92YlBsT2NXcHNiT0ZpUFo2UzRSZGstTldwZVFVSUhHVkpCVXlxeEJDVUhEdFdzSlEwbWR3NWFRSFoxRTVwWTdWMmdlcDZTcE1iWW16dEFXbEczNWQ1aGJCdV94VmpOa3ln?oc=5)
 
-2026-09-30 <span class="news-indication-tag">cancer</span>
+2026-10-05 <span class="news-indication-tag">cancer</span>
 
-Source: [ABP Live English](https://news.google.com/rss/articles/CBMizAFBVV95cUxPak9rN20yQUxwa2ZiNVBSUmdTWG8yNXdqSmZzNUwwLUpzUjRhTDRKcGFQS2FsRlBzc1liSXhaRlVjVll2SkwtalZlZkpaS1ZwLUNYU2RHZGU2ck5abl9pTmcyNXczekRDTDd2SUI1ZE40RTFrd3dyVG5Xczd6XzgtQWZIUm5lMnVwS0RPZ0RxeVdkSkE3YkNKemdUVlhOVENXaEdIb3hrOHFGRV84QmszTHdkRlVEYzVmSHNhTUVKcmx6dHJLMWNYWll3V0rSAdIBQVVfeXFMTTc1SzI2R2t1OXRJdFBOb0doTkFYMXM5cXhnWWtEVkdQZDVtaTJMUTB1aHJyZkN5QVdIalFyT1BaM0JHc0lkVlFXdlNMenNfekpvNTlwaVBZc2hLMmZjVm9ZMDc2MXJDOUVNTGw5bkNHZnN4cFR3V3pzWlNsMW1sdzY0TXBMOFBBOWtPNWpmcmRzQVQzd3hqWHJlOGh1MG40UmRfOHlSTjBVcFVhd1lKdFVEZ3luT05EOWlQaW5QdW9aMWZhY1pxMko1Rk00MEVGM0FR?oc=5)
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMioAJBVV95cUxNTDlFRExUc050bDF0cGxnell6NGFqYjh3OXZhLWVsaEUydGh1Vm1aVUtDNzE4Vl9iZHNaV2dhZ2l4Zm11dk9rNnpycXpMRkVUNmpmV1l4WlJRU2ZVRUVCMUtJZ25lUEZTQXFuMVlVdnp5WnpLWldBWjdWRmoxRzdTMklnWWJULU00VnYyTFphR09sbktjZ2RxWmQtWFEzaUR4RVhybkg2TkhScnhVZ2NyT3dMV2JDN29FZ190OGFDZmlPYzZUZFNiU0xHLVQ5QVJpVlNwaGt1T1JTTjZ2eTdBOWlOLThnTDlCZ01HQ0lVRGkwNEFLYUNHc0lrZlpfaXdzdHBLNHVVMy1QTWg0ZE9YVmlpMjRRTE5WT21KTFZrTHXSAaYCQVVfeXFMTXJOY0J6aXFvQ0M4RjRwa2d2Zkd3bVhkMGlucDZPMFMwdWZ0aU5JMkVnTlFMQW8zS1VYWmR2VktJai1XN05uYk13aXFjVUF0dVhacWFGSGxEa3B1cXBXVVZaVi1pUHZ1elQ5RHUzWFNXZGVFdkFWbUtmNDdGM3pUV2F2NGltcVAwcE4xLUlZMGNZVjMtV0wycnozSlY4bGtlMDROYXhVT0k2bEZlNnF4OTJKU0cyNTNVd3piXzhqbnA3OFlKcU92YlBsT2NXcHNiT0ZpUFo2UzRSZGstTldwZVFVSUhHVkpCVXlxeEJDVUhEdFdzSlEwbWR3NWFRSFoxRTVwWTdWMmdlcDZTcE1iWW16dEFXbEczNWQ1aGJCdV94VmpOa3ln?oc=5)
 
 ---
 
