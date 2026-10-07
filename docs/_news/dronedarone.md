@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Study Links Oral Menopausal Hormone Therapy to Thrombotic Risk - Drug Topics](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlJiYUVpMTNjbWRFN3FQSUhxTUp5NDlOa1VKczB1dUtrQWQ2SGNNOTFiNy1tWEVMTHdQM1lXbmlwN3RjZTNCS1Q2SWZvVHpqejhaeEtXSE41MEFOcFRiMnliQ2EzdnNIaWEyWG5KRFRpRUdnMlM1WWhQLUNzX2VFMEktWjdmZi1QR3lOTnN3d0ktYXVHS19XNmN3?oc=5)
+
+2026-09-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Drug Topics](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlJiYUVpMTNjbWRFN3FQSUhxTUp5NDlOa1VKczB1dUtrQWQ2SGNNOTFiNy1tWEVMTHdQM1lXbmlwN3RjZTNCS1Q2SWZvVHpqejhaeEtXSE41MEFOcFRiMnliQ2EzdnNIaWEyWG5KRFRpRUdnMlM1WWhQLUNzX2VFMEktWjdmZi1QR3lOTnN3d0ktYXVHS19XNmN3?oc=5)
+
+---
 
 
 <div class="disclaimer">

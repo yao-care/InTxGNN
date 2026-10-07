@@ -14,7 +14,7 @@ permalink: /news/glycine/
 ---
 
 <p class="key-answer" data-question="What news is there about Glycine?">
-<strong>Glycine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Glycine</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Glycine with the latest heal
 <p><a href="{{ '/drugs/glycine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Electronically tuned N-terminal glycine selective bioconjugation enables in vitro and in vivo species-specific Staphylococcus aureus targeting](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEczVxSEJvS1BQN3A5XzEzN3hpTlQwSXVFcHY2UlBZZ3R6bFJpcGdFZ3p1MTRpdUhXTW90TmJzd0RpWGhXam12QjU0MmoySkhsY2Vka09WaENfVk5PV2o4?oc=5)
+
+2026-10-05 <span class="news-drug-tag">GLYCINE</span> <span class="news-drug-tag">Glycine</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEczVxSEJvS1BQN3A5XzEzN3hpTlQwSXVFcHY2UlBZZ3R6bFJpcGdFZ3p1MTRpdUhXTW90TmJzd0RpWGhXam12QjU0MmoySkhsY2Vka09WaENfVk5PV2o4?oc=5)
+
+---
 
 
 <div class="disclaimer">
