@@ -14,7 +14,7 @@ permalink: /news/choline_salicylate/
 ---
 
 <p class="key-answer" data-question="What news is there about Choline Salicylate?">
-<strong>Choline Salicylate</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Choline Salicylate</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>Prinzmetal angina (99.8%)</li>
-<li class="indication-matched">rheumatoid arthritis (99.8%)<span class="indication-tag">📰 joint pain</span></li>
+<li class="indication-matched">rheumatoid arthritis (99.8%)<span class="indication-tag">📰 RA</span></li>
 <li>hypertensive disorder (99.8%)</li>
 <li>migraine disorder (99.8%)</li>
 <li>pulmonary hypertension owing to lung disease and/or hypoxia (99.8%)</li>
@@ -40,21 +40,29 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <p><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
+
+### [Mission success: Australian cancer research returns from space](https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXp3Ny1wZzNfNU0zYm1UMzFfTXhJay1xM041MGowS0pXWThYbHl5bHJpOUxnLWx4cDlPYXR1ZWVzQU80WXRCTGM3UmdFbUd0WlZINENRUEFFQ2hxMENiYW1BajdMRXp2dmxmYnVEUXhLWjF2cWFRYmdaWWs1Y3RhdHhERE1jYWg4cm1FMXlfN2laWGJjbGMwWG9yWGxwVnRmX09BZEFtQk50Rnh4cEE?oc=5)
+
+2026-10-08 <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXp3Ny1wZzNfNU0zYm1UMzFfTXhJay1xM041MGowS0pXWThYbHl5bHJpOUxnLWx4cDlPYXR1ZWVzQU80WXRCTGM3UmdFbUd0WlZINENRUEFFQ2hxMENiYW1BajdMRXp2dmxmYnVEUXhLWjF2cWFRYmdaWWs1Y3RhdHhERE1jYWg4cm1FMXlfN2laWGJjbGMwWG9yWGxwVnRmX09BZEFtQk50Rnh4cEE?oc=5)
+
+---
+
+### [Scientists find a strategy to unmask cancer cells in high-risk Neuroblastoma in kids - The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZzVDUGdvZnU4bzRxYU9HSVdtQkdBM2Nub2hXcnBRZlpDQTMxYTNOdTltOTNUc0dPWnlyVTNMajA5WEh0a0ozVlptU0VfRm4teVBDZXV1aWhqZ1VndFl1cGp2ajhMcUZUTjExNWhnQmNhc1JLX2hyRzNLTGtvYkdQUGNUN2NMVHJpQkVqNjFsWkZKNVhCMnBTWkM3LTIwbWhtd3gwaV9vX2lMWGlTTFRPWVU3ekhLd1MxOXdianF1YlhaWmZkdmxaMHppRDNoYzk3VndBbjlnV01WNFdiRjh1bFB0NTBSN2pIWFFBTHhyUUFjV3lu0gH6AUFVX3lxTE9OV1ZSbmt0Qy1pMHdGaGFHdjFGMlVUcGhlV0ptdEU5Snd3TVBfRUpqeE9qekJ4LVFIOHB6SVdvdGNSdi1FekFfS05HLTEzZUhvbHdzM0R0eUtQUDVrMm9VclN4cnhoUkZEZ3lFTGtpaXBvWkUxdEg1Q3RUM3drUXJhM1ZuNUdFVUdXMHdkRXNWaEJyYlVVdXdrMmFKVEVERFkwcXNMd3pfNVVHUTBHaVlnYjZzOEVwNWJKcHRVVTNEQ2gxM2JWelNTZmdkWkRRU2k4Z1VNa3JxaFpOcndNT3NnNWpxMG9CdEFmZmVQblBSRjB5bzQteWt1NHc?oc=5)
+
+2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">neuroblastoma</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZzVDUGdvZnU4bzRxYU9HSVdtQkdBM2Nub2hXcnBRZlpDQTMxYTNOdTltOTNUc0dPWnlyVTNMajA5WEh0a0ozVlptU0VfRm4teVBDZXV1aWhqZ1VndFl1cGp2ajhMcUZUTjExNWhnQmNhc1JLX2hyRzNLTGtvYkdQUGNUN2NMVHJpQkVqNjFsWkZKNVhCMnBTWkM3LTIwbWhtd3gwaV9vX2lMWGlTTFRPWVU3ekhLd1MxOXdianF1YlhaWmZkdmxaMHppRDNoYzk3VndBbjlnV01WNFdiRjh1bFB0NTBSN2pIWFFBTHhyUUFjV3lu0gH6AUFVX3lxTE9OV1ZSbmt0Qy1pMHdGaGFHdjFGMlVUcGhlV0ptdEU5Snd3TVBfRUpqeE9qekJ4LVFIOHB6SVdvdGNSdi1FekFfS05HLTEzZUhvbHdzM0R0eUtQUDVrMm9VclN4cnhoUkZEZ3lFTGtpaXBvWkUxdEg1Q3RUM3drUXJhM1ZuNUdFVUdXMHdkRXNWaEJyYlVVdXdrMmFKVEVERFkwcXNMd3pfNVVHUTBHaVlnYjZzOEVwNWJKcHRVVTNEQ2gxM2JWelNTZmdkWkRRU2k4Z1VNa3JxaFpOcndNT3NnNWpxMG9CdEFmZmVQblBSRjB5bzQteWt1NHc?oc=5)
+
+---
 
 ### [In Good Health: The Evolution Of Prostate Cancer Treatment : 1A](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFBudll3UlVldmlsb0xpblM1RUJIb19Va3lPNktjeGF6eWpocVhOSEwwYTFWRnh0NEtDR3EydjFXSmVsQ3NkRGN1SlRXRGR3WVdjVXQ4bVB1bDlySzJJMFBtN09sQzN1cC1hdHJfVzZxMV9zM19LYWJWWGJBWExNc0tNMlBxYzJJYmFkMXdZbEhtOHdlT2hFTVJMNDhVXzJLRWRHeQ?oc=5)
 
 2026-10-07 <span class="news-indication-tag">cancer</span>
 
 Source: [NPR](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFBudll3UlVldmlsb0xpblM1RUJIb19Va3lPNktjeGF6eWpocVhOSEwwYTFWRnh0NEtDR3EydjFXSmVsQ3NkRGN1SlRXRGR3WVdjVXQ4bVB1bDlySzJJMFBtN09sQzN1cC1hdHJfVzZxMV9zM19LYWJWWGJBWExNc0tNMlBxYzJJYmFkMXdZbEhtOHdlT2hFTVJMNDhVXzJLRWRHeQ?oc=5)
-
----
-
-### [Study reveals link between mtDNA copy number and cancer severity](https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjh0QTUzOGVvU3VleUtqTVc4b1I5LU9CR2ZJOFhuTkhSYlgwbFotSzhJY3BOMmVBbWZqTTFSTmlQbHhFSERLQVp1YkRjeUJRVldZSlN6emp0X2NQMUtYOS1UbFcwZUxzNHlzZWhFaWVnc2tPUEhzVjVtZ21saG51TkxRN0hsZC0tMlhOZzBKbDFOeVg1QXJGVGpfd2g4Ym5RbVpfV05KV1ZqMnZ0RDZONmNn?oc=5)
-
-2026-10-07 <span class="news-indication-tag">cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjh0QTUzOGVvU3VleUtqTVc4b1I5LU9CR2ZJOFhuTkhSYlgwbFotSzhJY3BOMmVBbWZqTTFSTmlQbHhFSERLQVp1YkRjeUJRVldZSlN6emp0X2NQMUtYOS1UbFcwZUxzNHlzZWhFaWVnc2tPUEhzVjVtZ21saG51TkxRN0hsZC0tMlhOZzBKbDFOeVg1QXJGVGpfd2g4Ym5RbVpfV05KV1ZqMnZ0RDZONmNn?oc=5)
 
 ---
 
@@ -87,22 +95,6 @@ Source: [WION](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMElJM3lzUkI5
 2026-10-07 <span class="news-indication-tag">cancer</span>
 
 Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQUgtRXlkek1vLWU5U2hzWXR6N3V2bnlCbEw0MUtwZGhKVEJRajFsTEdZVXB0QUFmMTM1Z2ZRUnVDeFFqYS04UENieUlrMUhrOFhLcG5OaFRmVUNqZEg2VHp5ckNuaVJ6V3Q0ZXNMcGswdFY1RUJnNVBNd3pDaFQ1YlZHYXNfVUJWS2FvN0Jjb3FMaHM?oc=5)
-
----
-
-### [Don’t ignore persistent joint pain & stiffness, warns rheumatologist - The Hans India](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUppVERzM3J6WWxoQWltZExzQmVYVUE2OXFvNW1xeHMyRmcxR19vOWZfeTllXzVwMWpFZUdaSjlwM0hkOGZ1eHRYWnFPakVYZE5ZaXhrTm92OTJ1WDQ3V2FpZXBiX2tqZTZGY3ZwOFRHU0Z1OFpRbjB6aW1sSUlsOTJEUGxhZklOZGVWWEJpRmYwa0FreEFmM2QzYllkeWg4NjRKUlJpY0VQd0FnQklDQ2steGZScWU2Tm5V?oc=5)
-
-2026-10-06 <span class="news-indication-tag">joint pain</span>
-
-Source: [The Hans India](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUppVERzM3J6WWxoQWltZExzQmVYVUE2OXFvNW1xeHMyRmcxR19vOWZfeTllXzVwMWpFZUdaSjlwM0hkOGZ1eHRYWnFPakVYZE5ZaXhrTm92OTJ1WDQ3V2FpZXBiX2tqZTZGY3ZwOFRHU0Z1OFpRbjB6aW1sSUlsOTJEUGxhZklOZGVWWEJpRmYwa0FreEFmM2QzYllkeWg4NjRKUlJpY0VQd0FnQklDQ2steGZScWU2Tm5V?oc=5)
-
----
-
-### [Pune-based Lab Launches HPV Self-Sampling Kit To Make Cervical Cancer Testing More Accessible - ETV Bharat](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUhjTDBBQkpQMGx5LWNfekQxbmJSdzdISEtaX296N2Vib180R3c2a0hPbU9ua3BqelBGWFY0ZDNpc29MeXhtMm9IMlh6WmNHUVV5TzB6VnZwM3ZvYklTTHdManB1X3M0R0tBaE53UDZnc05mQk5veFloZ3lGSTNPSnV0N05tUmpnb2NWeHM4LWRBdzJvRE85WEdKUl94OFNJ0gGmAUFVX3lxTE1MbWpGaVpzSFREbGRCRkk4SzQwenk2dUZRR2lWYW95eGs3Vl9HUTg5TlU5aUVzd0Z6TXE3eEVZeUVuaFE2ZGJlaEYyamJFMXVrVGlGQ0pFMS1VRHVKWGJuYmVNWlI4ekpqSXFENlBfOE9rclNtYnpPaE5nMjZvY282SnV5WW9ZSkpzdmRna2pmSmN5OVIzOGVCX3Y2Y29rRUNlV2dNUWc?oc=5)
-
-2026-10-06 <span class="news-indication-tag">cancer</span>
-
-Source: [ETV Bharat](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUhjTDBBQkpQMGx5LWNfekQxbmJSdzdISEtaX296N2Vib180R3c2a0hPbU9ua3BqelBGWFY0ZDNpc29MeXhtMm9IMlh6WmNHUVV5TzB6VnZwM3ZvYklTTHdManB1X3M0R0tBaE53UDZnc05mQk5veFloZ3lGSTNPSnV0N05tUmpnb2NWeHM4LWRBdzJvRE85WEdKUl94OFNJ0gGmAUFVX3lxTE1MbWpGaVpzSFREbGRCRkk4SzQwenk2dUZRR2lWYW95eGs3Vl9HUTg5TlU5aUVzd0Z6TXE3eEVZeUVuaFE2ZGJlaEYyamJFMXVrVGlGQ0pFMS1VRHVKWGJuYmVNWlI4ekpqSXFENlBfOE9rclNtYnpPaE5nMjZvY282SnV5WW9ZSkpzdmRna2pmSmN5OVIzOGVCX3Y2Y29rRUNlV2dNUWc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <li>WHIM syndrome (99.7%)</li>
 <li>inflammatory bowel disease (99.5%)</li>
 <li>granulomatous disease, chronic, autosomal recessive, 5 (99.4%)</li>
-<li>osteoarthritis (99.4%)</li>
+<li class="indication-matched">osteoarthritis (99.4%)<span class="indication-tag">📰 osteoarthritis</span></li>
 <li>granulomatous disease with defect in neutrophil chemotaxis (99.4%)</li>
 <li>ulcerative colitis (disease) (99.3%)</li>
 <li>acromesomelic dysplasia, Hunter-Thompson type (99.3%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Stanford scientists discover a way to regrow cartilage and fix arthritis - The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BOc0VSWnpTQ2NuVjBydVZvVzhmTzZtR2YyVWs4OEdkMUVEdjJCZ3ZGSTQ3NjhfUWxjbnZRbmJ4em9Lekt1LXNQRDBveFViS1FVZThzRmMtN1d2dVR0cDBsb3d4dFlGd01FRFNGdE0zMzZfTnFUQ2xCelh5TGNMR1BHVFlrYjBXeXNWMTlwRjBaMVNXb080TWtQaF9WRC1TeUN0S1JRaUtkQmhteV9pZFA3d0NXMmJNN3RQZkN2NG1qUWRXS00yQ3pSR0NuZm1YWVdaQnQ5amZUV05HTlluTnpoZEzSAeoBQVVfeXFMTVd6YWsxd2tEb2Uzc01LOTZoQ25nZ1MzTlZsamlzODc2cm45T2JnYTIzVmRCZU0tVmtVX2lTbEVaMTFPNmdyTTV1eVJyeWdNdmZOcnNxTVFvM3dXTXMzdG1KOVJtQXpnNmRaZnFJYkpUSnI3UTlHNHg0OUR0cXd0OHhaWkd5dkNhakNmSGV0bVdmVEJsVjVZSDB1UlVWdm9rRjBqLVp0TVo2RlhjbUFrNGtmUFNsZXRoM0tVdW05Wk1DQ1lBMmFBNVBFVW50WUdYV1FYc1RmZUJTbmlXdl95STVmWGN3emRfdF93?oc=5)
+
+2026-10-07 <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BOc0VSWnpTQ2NuVjBydVZvVzhmTzZtR2YyVWs4OEdkMUVEdjJCZ3ZGSTQ3NjhfUWxjbnZRbmJ4em9Lekt1LXNQRDBveFViS1FVZThzRmMtN1d2dVR0cDBsb3d4dFlGd01FRFNGdE0zMzZfTnFUQ2xCelh5TGNMR1BHVFlrYjBXeXNWMTlwRjBaMVNXb080TWtQaF9WRC1TeUN0S1JRaUtkQmhteV9pZFA3d0NXMmJNN3RQZkN2NG1qUWRXS00yQ3pSR0NuZm1YWVdaQnQ5amZUV05HTlluTnpoZEzSAeoBQVVfeXFMTVd6YWsxd2tEb2Uzc01LOTZoQ25nZ1MzTlZsamlzODc2cm45T2JnYTIzVmRCZU0tVmtVX2lTbEVaMTFPNmdyTTV1eVJyeWdNdmZOcnNxTVFvM3dXTXMzdG1KOVJtQXpnNmRaZnFJYkpUSnI3UTlHNHg0OUR0cXd0OHhaWkd5dkNhakNmSGV0bVdmVEJsVjVZSDB1UlVWdm9rRjBqLVp0TVo2RlhjbUFrNGtmUFNsZXRoM0tVdW05Wk1DQ1lBMmFBNVBFVW50WUdYV1FYc1RmZUJTbmlXdl95STVmWGN3emRfdF93?oc=5)
+
+---
 
 
 <div class="disclaimer">

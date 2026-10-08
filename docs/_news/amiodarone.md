@@ -14,7 +14,7 @@ permalink: /news/amiodarone/
 ---
 
 <p class="key-answer" data-question="What news is there about Amiodarone?">
-<strong>Amiodarone</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Amiodarone</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Amiodarone with the latest h
 <li>incessant infant ventricular tachycardia (99.7%)</li>
 <li>ventricular tachycardia (99.6%)</li>
 <li>obsolete bundle branch block (99.6%)</li>
-<li class="indication-matched">rheumatoid arthritis (99.4%)<span class="indication-tag">📰 joint pain</span></li>
+<li class="indication-matched">rheumatoid arthritis (99.4%)<span class="indication-tag">📰 RA</span></li>
 <li>brachydactyly-syndactyly syndrome (99.4%)</li>
 <li>heparin cofactor 2 deficiency (99.4%)</li>
 <li>trichotillomania (99.3%)</li>
@@ -40,21 +40,13 @@ This page combines the AI-predicted indications for Amiodarone with the latest h
 <p><a href="{{ '/drugs/amiodarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Deadly fungal brain infection is on the rise as experts hunt for answers](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMElJM3lzUkI5TGRVbkFPRDJHMWJqWURlODhkSGZTNFZZVXdVd0psdUJSSHVSbmNrNnF1WUhLaFYyZ1FDRHpIUWJEU21FMFAxTmxHZmsxcW5Zd2VBQWJRb0xycDFsd251Mkx5YUg0UERmNjBlelM0ME1oOTJ6REdicFpLcG5qYXlqcWJQOHNNSkNFVnZhREFCc3NMd2poNUFySWlabjVUMDNwaDdOWVJCU1ZkSlo5TVNKRHpZ0gHAAUFVX3lxTFByLWV6U21EbnEzZUt6S1RxVGZPcURfMEx1R1BrbHJxRmVHeFJRT2VvTjhZYUpoT1FHcHhnYW50ZmJmSGlZdFhIcHJQc1BSVi1Lc1VObm1Pc05EX08wbUt5eFlCMXRNMWx2YjlWclczZi00X0lpb2xVV1hlSDJkYUlQMXNsZmVsZkl4MmE0S3JkaXpsWEpJb1Z0UllLVjk3QWZ2eFZUanZDcjZDaGh6a1BsdjZFQVpqLXdnN2JUVEFVSw?oc=5)
 
 2026-10-07 <span class="news-indication-tag">RA</span>
 
 Source: [WION](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMElJM3lzUkI5TGRVbkFPRDJHMWJqWURlODhkSGZTNFZZVXdVd0psdUJSSHVSbmNrNnF1WUhLaFYyZ1FDRHpIUWJEU21FMFAxTmxHZmsxcW5Zd2VBQWJRb0xycDFsd251Mkx5YUg0UERmNjBlelM0ME1oOTJ6REdicFpLcG5qYXlqcWJQOHNNSkNFVnZhREFCc3NMd2poNUFySWlabjVUMDNwaDdOWVJCU1ZkSlo5TVNKRHpZ0gHAAUFVX3lxTFByLWV6U21EbnEzZUt6S1RxVGZPcURfMEx1R1BrbHJxRmVHeFJRT2VvTjhZYUpoT1FHcHhnYW50ZmJmSGlZdFhIcHJQc1BSVi1Lc1VObm1Pc05EX08wbUt5eFlCMXRNMWx2YjlWclczZi00X0lpb2xVV1hlSDJkYUlQMXNsZmVsZkl4MmE0S3JkaXpsWEpJb1Z0UllLVjk3QWZ2eFZUanZDcjZDaGh6a1BsdjZFQVpqLXdnN2JUVEFVSw?oc=5)
-
----
-
-### [Don’t ignore persistent joint pain & stiffness, warns rheumatologist - The Hans India](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUppVERzM3J6WWxoQWltZExzQmVYVUE2OXFvNW1xeHMyRmcxR19vOWZfeTllXzVwMWpFZUdaSjlwM0hkOGZ1eHRYWnFPakVYZE5ZaXhrTm92OTJ1WDQ3V2FpZXBiX2tqZTZGY3ZwOFRHU0Z1OFpRbjB6aW1sSUlsOTJEUGxhZklOZGVWWEJpRmYwa0FreEFmM2QzYllkeWg4NjRKUlJpY0VQd0FnQklDQ2steGZScWU2Tm5V?oc=5)
-
-2026-10-06 <span class="news-indication-tag">joint pain</span>
-
-Source: [The Hans India](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUppVERzM3J6WWxoQWltZExzQmVYVUE2OXFvNW1xeHMyRmcxR19vOWZfeTllXzVwMWpFZUdaSjlwM0hkOGZ1eHRYWnFPakVYZE5ZaXhrTm92OTJ1WDQ3V2FpZXBiX2tqZTZGY3ZwOFRHU0Z1OFpRbjB6aW1sSUlsOTJEUGxhZklOZGVWWEJpRmYwa0FreEFmM2QzYllkeWg4NjRKUlJpY0VQd0FnQklDQ2steGZScWU2Tm5V?oc=5)
 
 ---
 
