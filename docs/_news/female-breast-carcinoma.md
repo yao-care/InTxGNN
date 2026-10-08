@@ -39,11 +39,11 @@ This page brings together the latest health news about “breast cancer” and l
 
 ## Related News (2)
 
-### [A scalable Zebrafish Platform for genetic validation and functional discovery of stage-specific breast cancer metastasis regulators](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CMlpSVXh3alpDOXpZZ3pKSnU1RnB1d3gzWXVvUW80aXZqT3hYQk5vVE9mV1NncE90Q0gzZ2dXaDItQ20xNnI1bE5sWVJBbXhfeFVwekdabW1hNXpnTFhJ?oc=5)
+### [Advances in prognostic and predictive biomarkers for breast cancer - Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
 
-2026-10-07
+2026-10-08
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CMlpSVXh3alpDOXpZZ3pKSnU1RnB1d3gzWXVvUW80aXZqT3hYQk5vVE9mV1NncE90Q0gzZ2dXaDItQ20xNnI1bE5sWVJBbXhfeFVwekdabW1hNXpnTFhJ?oc=5)
+Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
 
 ---
 

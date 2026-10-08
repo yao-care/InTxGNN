@@ -14,7 +14,7 @@ permalink: /news/bosentan/
 ---
 
 <p class="key-answer" data-question="What news is there about Bosentan?">
-<strong>Bosentan</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Bosentan</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ This page combines the AI-predicted indications for Bosentan with the latest hea
 <p><a href="{{ '/drugs/bosentan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [HPV vaccine related with lower risk of pregnancy complications, Swedish study suggests - ET HealthWorld](https://news.google.com/rss/articles/CBMiogJBVV95cUxOZzlRMGdhbEh1VDFYcXd4OTVRZG93eS1TcGJveTBVY3B1UU11R0pRYTdDNFNOTXk1Ums0SVg4dERyeFNzUFdQTHI4TnkwaFRVQlZRRXFiVThNdUc5cS1vYlU1NnVmT2Z2OTBzcU9qYzc2TmdiTWNuQ1VURWJXUTFFQ2NRY0hKck5DSkFYS3RBMUxCd1N5RFkzemRWNFFvWmgzenRPek1XMzFCQ0dHWG9fdEhKMDFsY2hQdjgya3JwY0VKQkxNYXdZVmRHb2RjclFFSW82ZXV5ckJKQkVudy1SRlMzV2dxeGp2Qm9BdXRkNGRvaGhDQVI5ZW1ua09CTFlWWmZrYzdpLXpkRTBmQjFNdV93UnFKYnZBdlpkY2FXYVdRd9IB7gFBVV95cUxOcTJXTmwxM3VSVENtY2VMZVV6QlFndjhYS1BvWnRKRnhHeVNKUUlfOEhfZzVPaUxYWFVzS0VUSXloNFpndXdBM0lRdTE3N2QzQmFtRU9HU0E5TTYzTjItWWxtcGFQcXpFMWgtampiQnd5eUJiRXQ4M1VwNDFtdUJaZDdtWF95TE1TVy11NzFWbWx1UngxNFN1RFlCeUkwZ3cxRVQ4NUNDenlralo2QUtOaDY3S3U5SXdSRmprMTlDS053SzBYNlhKT2tBLXExZUNOSXExb2pvTlZ5aXJTTGRaOExfMDJEemRsek9fOFFn?oc=5)
+
+2026-10-08 <span class="news-indication-tag">RA</span>
+
+Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMiogJBVV95cUxOZzlRMGdhbEh1VDFYcXd4OTVRZG93eS1TcGJveTBVY3B1UU11R0pRYTdDNFNOTXk1Ums0SVg4dERyeFNzUFdQTHI4TnkwaFRVQlZRRXFiVThNdUc5cS1vYlU1NnVmT2Z2OTBzcU9qYzc2TmdiTWNuQ1VURWJXUTFFQ2NRY0hKck5DSkFYS3RBMUxCd1N5RFkzemRWNFFvWmgzenRPek1XMzFCQ0dHWG9fdEhKMDFsY2hQdjgya3JwY0VKQkxNYXdZVmRHb2RjclFFSW82ZXV5ckJKQkVudy1SRlMzV2dxeGp2Qm9BdXRkNGRvaGhDQVI5ZW1ua09CTFlWWmZrYzdpLXpkRTBmQjFNdV93UnFKYnZBdlpkY2FXYVdRd9IB7gFBVV95cUxOcTJXTmwxM3VSVENtY2VMZVV6QlFndjhYS1BvWnRKRnhHeVNKUUlfOEhfZzVPaUxYWFVzS0VUSXloNFpndXdBM0lRdTE3N2QzQmFtRU9HU0E5TTYzTjItWWxtcGFQcXpFMWgtampiQnd5eUJiRXQ4M1VwNDFtdUJaZDdtWF95TE1TVy11NzFWbWx1UngxNFN1RFlCeUkwZ3cxRVQ4NUNDenlralo2QUtOaDY3S3U5SXdSRmprMTlDS053SzBYNlhKT2tBLXExZUNOSXExb2pvTlZ5aXJTTGRaOExfMDJEemRsek9fOFFn?oc=5)
+
+---
 
 ### [Deadly fungal brain infection is on the rise as experts hunt for answers](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMElJM3lzUkI5TGRVbkFPRDJHMWJqWURlODhkSGZTNFZZVXdVd0psdUJSSHVSbmNrNnF1WUhLaFYyZ1FDRHpIUWJEU21FMFAxTmxHZmsxcW5Zd2VBQWJRb0xycDFsd251Mkx5YUg0UERmNjBlelM0ME1oOTJ6REdicFpLcG5qYXlqcWJQOHNNSkNFVnZhREFCc3NMd2poNUFySWlabjVUMDNwaDdOWVJCU1ZkSlo5TVNKRHpZ0gHAAUFVX3lxTFByLWV6U21EbnEzZUt6S1RxVGZPcURfMEx1R1BrbHJxRmVHeFJRT2VvTjhZYUpoT1FHcHhnYW50ZmJmSGlZdFhIcHJQc1BSVi1Lc1VObm1Pc05EX08wbUt5eFlCMXRNMWx2YjlWclczZi00X0lpb2xVV1hlSDJkYUlQMXNsZmVsZkl4MmE0S3JkaXpsWEpJb1Z0UllLVjk3QWZ2eFZUanZDcjZDaGh6a1BsdjZFQVpqLXdnN2JUVEFVSw?oc=5)
 
