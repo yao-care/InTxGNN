@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,23 +28,9 @@ This page combines the AI-predicted indications for Urea with the latest health 
 <p><a href="{{ '/drugs/urea/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [A Scientist Working on the ‘IceCube’ Neutrino Detector Explains the Nobel Prize–Winning Technology](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb052RHY1cURoMXAwb2tYdVJzVVQ1WUpGdWxtWjJucDlERklJT0hBbEhjZ0d4ZjJyRFU4NzRmM0Q0Q0g2SXp5bDNkOTc3dnRqdU45cEw3QXpWbGQxc1ZoeUk5UDNuNjVsRHl0R2VPVGRWMDl4d1c1NVBSMWxmOXZHWktqNXAzbmxUeWl5SlBDQ1RRM19ZaGpjOUk0NTg1eFJ5RkljVmtsaEw1c1BSbHlZY2RyVU9rS3ZmUHVMckpRUFBqNlk?oc=5)
-
-2026-10-08 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
-
-Source: [WIRED](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb052RHY1cURoMXAwb2tYdVJzVVQ1WUpGdWxtWjJucDlERklJT0hBbEhjZ0d4ZjJyRFU4NzRmM0Q0Q0g2SXp5bDNkOTc3dnRqdU45cEw3QXpWbGQxc1ZoeUk5UDNuNjVsRHl0R2VPVGRWMDl4d1c1NVBSMWxmOXZHWktqNXAzbmxUeWl5SlBDQ1RRM19ZaGpjOUk0NTg1eFJ5RkljVmtsaEw1c1BSbHlZY2RyVU9rS3ZmUHVMckpRUFBqNlk?oc=5)
-
----
-
-### [A "Phoenix" World: Scientists Spot Planet Born From Ashes Of A Dead Star](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFVHOVJFTjVjNTVKSjN5MUtaWE1TZ1dKWml4ME5RVXQtZFVocFdfTGtYQXRnYTI4ZlJ6VEhBYTFOMk9JZ0FnZHQ0ZlBXdGU3V2Q5VWR4SzlVYl8zQVhFc1d5S0dKdW5WXzRuM2JDcllXbnlGR0VtdjZ4ejRhNnAzLUJqSDBfbzNUZVVSR2huUEFYMW5uOXlib3BIVHc1U3JvY3cxaFVpeWkwenPSAbMBQVVfeXFMUHlranRyOENqcUZEdnpBUzRsOXUtMG55RHh1VHltbVZXUzVuRVZtVGg1US05ZkZWeFdsOUlBdFV2TWRQbE1zYldLN3NHNGF3NXJzX3VlUS1rU3lXbFZYOFVReGU2eU0zdTBIci0xYjhzWUNFeWFUNENFZUR2VTZ3OUluUUFVY2U0Qm1DV2c0UEZ5N2pRSnFCUWpMUlpTMXBoOUlleDhBZ21mei1jaENfVzVZU1E?oc=5)
-
-2026-10-07 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFVHOVJFTjVjNTVKSjN5MUtaWE1TZ1dKWml4ME5RVXQtZFVocFdfTGtYQXRnYTI4ZlJ6VEhBYTFOMk9JZ0FnZHQ0ZlBXdGU3V2Q5VWR4SzlVYl8zQVhFc1d5S0dKdW5WXzRuM2JDcllXbnlGR0VtdjZ4ejRhNnAzLUJqSDBfbzNUZVVSR2huUEFYMW5uOXlib3BIVHc1U3JvY3cxaFVpeWkwenPSAbMBQVVfeXFMUHlranRyOENqcUZEdnpBUzRsOXUtMG55RHh1VHltbVZXUzVuRVZtVGg1US05ZkZWeFdsOUlBdFV2TWRQbE1zYldLN3NHNGF3NXJzX3VlUS1rU3lXbFZYOFVReGU2eU0zdTBIci0xYjhzWUNFeWFUNENFZUR2VTZ3OUluUUFVY2U0Qm1DV2c0UEZ5N2pRSnFCUWpMUlpTMXBoOUlleDhBZ21mei1jaENfVzVZU1E?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Neurologists recommend 4 everyday habits for better brain health - Brain and Life Magazine](https://news.google.com/rss/articles/CBMif0FVX3lxTE5KWDVDdEFzNGluWDB0MzVLZmpaM1dFZlU1N29LbjJaWXhkZ1MwVFVpaW0xSmRPZkpFamY5RjhWZ3ZJUFNWTEIzSnZWajdhdnVUOUpXOHRwVEpYTElwY0hnYmZ5c1ZNamR2aWxjWTRCRXVHLWVuUFlTTE1Xb2VrbUU?oc=5)
-
-2026-10-02 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Brain and Life Magazine](https://news.google.com/rss/articles/CBMif0FVX3lxTE5KWDVDdEFzNGluWDB0MzVLZmpaM1dFZlU1N29LbjJaWXhkZ1MwVFVpaW0xSmRPZkpFamY5RjhWZ3ZJUFNWTEIzSnZWajdhdnVUOUpXOHRwVEpYTElwY0hnYmZ5c1ZNamR2aWxjWTRCRXVHLWVuUFlTTE1Xb2VrbUU?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
