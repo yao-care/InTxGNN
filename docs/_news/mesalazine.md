@@ -26,8 +26,8 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <ul>
 <li><strong>Predicted indications (7)</strong>:<ul>
 <li>congenital hypotrichosis with juvenile macular dystrophy (99.7%)</li>
-<li>osteoarthritis (99.6%)</li>
-<li class="indication-matched">rheumatoid arthritis (99.6%)<span class="indication-tag">📰 joint pain</span></li>
+<li class="indication-matched">osteoarthritis (99.6%)<span class="indication-tag">📰 osteoarthritis</span></li>
+<li class="indication-matched">rheumatoid arthritis (99.6%)<span class="indication-tag">📰 RA</span></li>
 <li>seborrheic keratosis (99.5%)</li>
 <li>osteoarthritis susceptibility (99.3%)</li>
 <li>vulvar inverted follicular keratosis (99.3%)</li>
@@ -47,11 +47,11 @@ Source: [WION](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMElJM3lzUkI5
 
 ---
 
-### [Don’t ignore persistent joint pain & stiffness, warns rheumatologist - The Hans India](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUppVERzM3J6WWxoQWltZExzQmVYVUE2OXFvNW1xeHMyRmcxR19vOWZfeTllXzVwMWpFZUdaSjlwM0hkOGZ1eHRYWnFPakVYZE5ZaXhrTm92OTJ1WDQ3V2FpZXBiX2tqZTZGY3ZwOFRHU0Z1OFpRbjB6aW1sSUlsOTJEUGxhZklOZGVWWEJpRmYwa0FreEFmM2QzYllkeWg4NjRKUlJpY0VQd0FnQklDQ2steGZScWU2Tm5V?oc=5)
+### [Stanford scientists discover a way to regrow cartilage and fix arthritis - The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BOc0VSWnpTQ2NuVjBydVZvVzhmTzZtR2YyVWs4OEdkMUVEdjJCZ3ZGSTQ3NjhfUWxjbnZRbmJ4em9Lekt1LXNQRDBveFViS1FVZThzRmMtN1d2dVR0cDBsb3d4dFlGd01FRFNGdE0zMzZfTnFUQ2xCelh5TGNMR1BHVFlrYjBXeXNWMTlwRjBaMVNXb080TWtQaF9WRC1TeUN0S1JRaUtkQmhteV9pZFA3d0NXMmJNN3RQZkN2NG1qUWRXS00yQ3pSR0NuZm1YWVdaQnQ5amZUV05HTlluTnpoZEzSAeoBQVVfeXFMTVd6YWsxd2tEb2Uzc01LOTZoQ25nZ1MzTlZsamlzODc2cm45T2JnYTIzVmRCZU0tVmtVX2lTbEVaMTFPNmdyTTV1eVJyeWdNdmZOcnNxTVFvM3dXTXMzdG1KOVJtQXpnNmRaZnFJYkpUSnI3UTlHNHg0OUR0cXd0OHhaWkd5dkNhakNmSGV0bVdmVEJsVjVZSDB1UlVWdm9rRjBqLVp0TVo2RlhjbUFrNGtmUFNsZXRoM0tVdW05Wk1DQ1lBMmFBNVBFVW50WUdYV1FYc1RmZUJTbmlXdl95STVmWGN3emRfdF93?oc=5)
 
-2026-10-06 <span class="news-indication-tag">joint pain</span>
+2026-10-07 <span class="news-indication-tag">osteoarthritis</span>
 
-Source: [The Hans India](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUppVERzM3J6WWxoQWltZExzQmVYVUE2OXFvNW1xeHMyRmcxR19vOWZfeTllXzVwMWpFZUdaSjlwM0hkOGZ1eHRYWnFPakVYZE5ZaXhrTm92OTJ1WDQ3V2FpZXBiX2tqZTZGY3ZwOFRHU0Z1OFpRbjB6aW1sSUlsOTJEUGxhZklOZGVWWEJpRmYwa0FreEFmM2QzYllkeWg4NjRKUlJpY0VQd0FnQklDQ2steGZScWU2Tm5V?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BOc0VSWnpTQ2NuVjBydVZvVzhmTzZtR2YyVWs4OEdkMUVEdjJCZ3ZGSTQ3NjhfUWxjbnZRbmJ4em9Lekt1LXNQRDBveFViS1FVZThzRmMtN1d2dVR0cDBsb3d4dFlGd01FRFNGdE0zMzZfTnFUQ2xCelh5TGNMR1BHVFlrYjBXeXNWMTlwRjBaMVNXb080TWtQaF9WRC1TeUN0S1JRaUtkQmhteV9pZFA3d0NXMmJNN3RQZkN2NG1qUWRXS00yQ3pSR0NuZm1YWVdaQnQ5amZUV05HTlluTnpoZEzSAeoBQVVfeXFMTVd6YWsxd2tEb2Uzc01LOTZoQ25nZ1MzTlZsamlzODc2cm45T2JnYTIzVmRCZU0tVmtVX2lTbEVaMTFPNmdyTTV1eVJyeWdNdmZOcnNxTVFvM3dXTXMzdG1KOVJtQXpnNmRaZnFJYkpUSnI3UTlHNHg0OUR0cXd0OHhaWkd5dkNhakNmSGV0bVdmVEJsVjVZSDB1UlVWdm9rRjBqLVp0TVo2RlhjbUFrNGtmUFNsZXRoM0tVdW05Wk1DQ1lBMmFBNVBFVW50WUdYV1FYc1RmZUJTbmlXdl95STVmWGN3emRfdF93?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ivermectin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ivermectin?">
-<strong>Ivermectin</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Ivermectin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,23 +40,9 @@ This page combines the AI-predicted indications for Ivermectin with the latest h
 <p><a href="{{ '/drugs/ivermectin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Menopause and Heart Disease: What Happens to Your Body After Periods Stop?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU2hEekJLdVpEaExBZUpNaWZmdTM2eVlRRVJVNmgxeGdza196X0J3SnRnUktZZUswWWFpQXJaUXdxNEtvUlpGSHJCNDk4NTNWQnFQM3VqUjgxNWwxeVIxcVhzS1NTbWZGUDJRN1lJbHY3SVRhMlVRR0tmeW9mYXl2VWVKWWE0TVpBLUNMNXdtdXBfYTFoNWdBeFNSeU1xd3Z5V3otOTJEOFdudXhneXFhMlpkZ2RRZkNLVGZ4RlBScHh1eFVGQmg4UXUxVEo4bHRuWHfSAdcBQVVfeXFMT3RDR0RlOGVEdDZLa2o3WXF0amIzRFVTaWhhLVlpNDJkTlQ5RUJGR0l3ZUdPNGRNNmRYV1loa21aa3FHVXNxT2lYSHc1TUZkNVFRcmRndV9CelJHM2J4WVVrMHNrY3ZMTDRlbUZidGJ4Y01FWmRvS09oaWdrR2dLQ1pSSWtrZkdiekFDZEp6NzExYllNRlFpWlNmdGtkSC1jbkhoQ0MyMGpwdE5Hem9hMFY4Z0ozejV1aUVQLWswVDY0eVcwbEJJLWpJaFhrcmszUmJPSzAwUFU?oc=5)
-
-2026-10-07 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [News18](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU2hEekJLdVpEaExBZUpNaWZmdTM2eVlRRVJVNmgxeGdza196X0J3SnRnUktZZUswWWFpQXJaUXdxNEtvUlpGSHJCNDk4NTNWQnFQM3VqUjgxNWwxeVIxcVhzS1NTbWZGUDJRN1lJbHY3SVRhMlVRR0tmeW9mYXl2VWVKWWE0TVpBLUNMNXdtdXBfYTFoNWdBeFNSeU1xd3Z5V3otOTJEOFdudXhneXFhMlpkZ2RRZkNLVGZ4RlBScHh1eFVGQmg4UXUxVEo4bHRuWHfSAdcBQVVfeXFMT3RDR0RlOGVEdDZLa2o3WXF0amIzRFVTaWhhLVlpNDJkTlQ5RUJGR0l3ZUdPNGRNNmRYV1loa21aa3FHVXNxT2lYSHc1TUZkNVFRcmRndV9CelJHM2J4WVVrMHNrY3ZMTDRlbUZidGJ4Y01FWmRvS09oaWdrR2dLQ1pSSWtrZkdiekFDZEp6NzExYllNRlFpWlNmdGtkSC1jbkhoQ0MyMGpwdE5Hem9hMFY4Z0ozejV1aUVQLWswVDY0eVcwbEJJLWpJaFhrcmszUmJPSzAwUFU?oc=5)
-
----
-
-### [HRT for Menopause and CV Risk: Two Observational Studies Provide Insights](https://news.google.com/rss/articles/CBMimwFBVV95cUxNal9WRTZuM2R1WG1kTjFLbERxMGJGa1dlUXBjci1iS2JqcGl2TlFtbmZSU19FN3M1Zi1kcTA1YWdqOW9EVHd1RVk5Qk1xc2pnbmNTY1pDRUhpTVNyX3d0am9jMU5IcVpSQlY3T1I4UjRyN0Q1bHJUZVBKWFpIa2tyVmwzSUllQy1jakVQR2F4ZVprMGNEQnRoTWlzMA?oc=5)
-
-2026-10-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [TCTMD.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNal9WRTZuM2R1WG1kTjFLbERxMGJGa1dlUXBjci1iS2JqcGl2TlFtbmZSU19FN3M1Zi1kcTA1YWdqOW9EVHd1RVk5Qk1xc2pnbmNTY1pDRUhpTVNyX3d0am9jMU5IcVpSQlY3T1I4UjRyN0Q1bHJUZVBKWFpIa2tyVmwzSUllQy1jakVQR2F4ZVprMGNEQnRoTWlzMA?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

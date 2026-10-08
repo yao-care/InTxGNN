@@ -14,7 +14,7 @@ permalink: /news/nepafenac/
 ---
 
 <p class="key-answer" data-question="What news is there about Nepafenac?">
-<strong>Nepafenac</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Nepafenac</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Nepafenac with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>eye disease (99.8%)</li>
+<li class="indication-matched">eye disease (99.8%)<span class="indication-tag">📰 eye disease</span></li>
 <li>optic papillitis (99.8%)</li>
 <li>hypotrichosis simplex of the scalp (99.8%)</li>
 <li>seborrheic keratosis (99.8%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Nepafenac with the latest he
 <p><a href="{{ '/drugs/nepafenac/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [World Sight Day 2026: Can Technology Help Find Eye Disease Before We Notice It? - ETV Bharat](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFRiUmxVT0JhclcySVFHRm50NGtMNHJlZS1PN3hlcEVfSGNIaHY0ZXU0bVFkWUJsUGx5cWRZM2JUNE9Xb0RLU1hKR1VjWEJiZTNCOGstZkJpcWZKVEVDSmIzTDJFSVdMM25aOC1FODM1b0ktVVRnNmVGaHlrYm9CZ3NRVmXSAYoBQVVfeXFMTUM0R2toYkR0VDZEUzZiekRmbnJPaW0wclJxQ2dBRUVmVzBHM2kzbjVULVpGN3pwQWZ1V1hLVFNxUDFhSExHNUJ3eW9NRjZuM2ljM2k5QzdaWkJObFh6Q2RnaVhMSGlmczYtWnVoRERLVHlvRXlNWU1yVE5UUW5QNmJuUkRlaFJhaE1B?oc=5)
+
+2026-10-08 <span class="news-indication-tag">eye disease</span>
+
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFRiUmxVT0JhclcySVFHRm50NGtMNHJlZS1PN3hlcEVfSGNIaHY0ZXU0bVFkWUJsUGx5cWRZM2JUNE9Xb0RLU1hKR1VjWEJiZTNCOGstZkJpcWZKVEVDSmIzTDJFSVdMM25aOC1FODM1b0ktVVRnNmVGaHlrYm9CZ3NRVmXSAYoBQVVfeXFMTUM0R2toYkR0VDZEUzZiekRmbnJPaW0wclJxQ2dBRUVmVzBHM2kzbjVULVpGN3pwQWZ1V1hLVFNxUDFhSExHNUJ3eW9NRjZuM2ljM2k5QzdaWkJObFh6Q2RnaVhMSGlmczYtWnVoRERLVHlvRXlNWU1yVE5UUW5QNmJuUkRlaFJhaE1B?oc=5)
+
+---
 
 
 <div class="disclaimer">

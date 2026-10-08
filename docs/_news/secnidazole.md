@@ -14,7 +14,7 @@ permalink: /news/secnidazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Secnidazole?">
-<strong>Secnidazole</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Secnidazole</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,29 +40,29 @@ This page combines the AI-predicted indications for Secnidazole with the latest 
 <p><a href="{{ '/drugs/secnidazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (7)
+
+### [Mission success: Australian cancer research returns from space](https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXp3Ny1wZzNfNU0zYm1UMzFfTXhJay1xM041MGowS0pXWThYbHl5bHJpOUxnLWx4cDlPYXR1ZWVzQU80WXRCTGM3UmdFbUd0WlZINENRUEFFQ2hxMENiYW1BajdMRXp2dmxmYnVEUXhLWjF2cWFRYmdaWWs1Y3RhdHhERE1jYWg4cm1FMXlfN2laWGJjbGMwWG9yWGxwVnRmX09BZEFtQk50Rnh4cEE?oc=5)
+
+2026-10-08 <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXp3Ny1wZzNfNU0zYm1UMzFfTXhJay1xM041MGowS0pXWThYbHl5bHJpOUxnLWx4cDlPYXR1ZWVzQU80WXRCTGM3UmdFbUd0WlZINENRUEFFQ2hxMENiYW1BajdMRXp2dmxmYnVEUXhLWjF2cWFRYmdaWWs1Y3RhdHhERE1jYWg4cm1FMXlfN2laWGJjbGMwWG9yWGxwVnRmX09BZEFtQk50Rnh4cEE?oc=5)
+
+---
+
+### [Scientists find a strategy to unmask cancer cells in high-risk Neuroblastoma in kids - The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZzVDUGdvZnU4bzRxYU9HSVdtQkdBM2Nub2hXcnBRZlpDQTMxYTNOdTltOTNUc0dPWnlyVTNMajA5WEh0a0ozVlptU0VfRm4teVBDZXV1aWhqZ1VndFl1cGp2ajhMcUZUTjExNWhnQmNhc1JLX2hyRzNLTGtvYkdQUGNUN2NMVHJpQkVqNjFsWkZKNVhCMnBTWkM3LTIwbWhtd3gwaV9vX2lMWGlTTFRPWVU3ekhLd1MxOXdianF1YlhaWmZkdmxaMHppRDNoYzk3VndBbjlnV01WNFdiRjh1bFB0NTBSN2pIWFFBTHhyUUFjV3lu0gH6AUFVX3lxTE9OV1ZSbmt0Qy1pMHdGaGFHdjFGMlVUcGhlV0ptdEU5Snd3TVBfRUpqeE9qekJ4LVFIOHB6SVdvdGNSdi1FekFfS05HLTEzZUhvbHdzM0R0eUtQUDVrMm9VclN4cnhoUkZEZ3lFTGtpaXBvWkUxdEg1Q3RUM3drUXJhM1ZuNUdFVUdXMHdkRXNWaEJyYlVVdXdrMmFKVEVERFkwcXNMd3pfNVVHUTBHaVlnYjZzOEVwNWJKcHRVVTNEQ2gxM2JWelNTZmdkWkRRU2k4Z1VNa3JxaFpOcndNT3NnNWpxMG9CdEFmZmVQblBSRjB5bzQteWt1NHc?oc=5)
+
+2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">neuroblastoma</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZzVDUGdvZnU4bzRxYU9HSVdtQkdBM2Nub2hXcnBRZlpDQTMxYTNOdTltOTNUc0dPWnlyVTNMajA5WEh0a0ozVlptU0VfRm4teVBDZXV1aWhqZ1VndFl1cGp2ajhMcUZUTjExNWhnQmNhc1JLX2hyRzNLTGtvYkdQUGNUN2NMVHJpQkVqNjFsWkZKNVhCMnBTWkM3LTIwbWhtd3gwaV9vX2lMWGlTTFRPWVU3ekhLd1MxOXdianF1YlhaWmZkdmxaMHppRDNoYzk3VndBbjlnV01WNFdiRjh1bFB0NTBSN2pIWFFBTHhyUUFjV3lu0gH6AUFVX3lxTE9OV1ZSbmt0Qy1pMHdGaGFHdjFGMlVUcGhlV0ptdEU5Snd3TVBfRUpqeE9qekJ4LVFIOHB6SVdvdGNSdi1FekFfS05HLTEzZUhvbHdzM0R0eUtQUDVrMm9VclN4cnhoUkZEZ3lFTGtpaXBvWkUxdEg1Q3RUM3drUXJhM1ZuNUdFVUdXMHdkRXNWaEJyYlVVdXdrMmFKVEVERFkwcXNMd3pfNVVHUTBHaVlnYjZzOEVwNWJKcHRVVTNEQ2gxM2JWelNTZmdkWkRRU2k4Z1VNa3JxaFpOcndNT3NnNWpxMG9CdEFmZmVQblBSRjB5bzQteWt1NHc?oc=5)
+
+---
 
 ### [In Good Health: The Evolution Of Prostate Cancer Treatment : 1A](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFBudll3UlVldmlsb0xpblM1RUJIb19Va3lPNktjeGF6eWpocVhOSEwwYTFWRnh0NEtDR3EydjFXSmVsQ3NkRGN1SlRXRGR3WVdjVXQ4bVB1bDlySzJJMFBtN09sQzN1cC1hdHJfVzZxMV9zM19LYWJWWGJBWExNc0tNMlBxYzJJYmFkMXdZbEhtOHdlT2hFTVJMNDhVXzJLRWRHeQ?oc=5)
 
 2026-10-07 <span class="news-indication-tag">cancer</span>
 
 Source: [NPR](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFBudll3UlVldmlsb0xpblM1RUJIb19Va3lPNktjeGF6eWpocVhOSEwwYTFWRnh0NEtDR3EydjFXSmVsQ3NkRGN1SlRXRGR3WVdjVXQ4bVB1bDlySzJJMFBtN09sQzN1cC1hdHJfVzZxMV9zM19LYWJWWGJBWExNc0tNMlBxYzJJYmFkMXdZbEhtOHdlT2hFTVJMNDhVXzJLRWRHeQ?oc=5)
-
----
-
-### [Menopause and Heart Disease: What Happens to Your Body After Periods Stop?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU2hEekJLdVpEaExBZUpNaWZmdTM2eVlRRVJVNmgxeGdza196X0J3SnRnUktZZUswWWFpQXJaUXdxNEtvUlpGSHJCNDk4NTNWQnFQM3VqUjgxNWwxeVIxcVhzS1NTbWZGUDJRN1lJbHY3SVRhMlVRR0tmeW9mYXl2VWVKWWE0TVpBLUNMNXdtdXBfYTFoNWdBeFNSeU1xd3Z5V3otOTJEOFdudXhneXFhMlpkZ2RRZkNLVGZ4RlBScHh1eFVGQmg4UXUxVEo4bHRuWHfSAdcBQVVfeXFMT3RDR0RlOGVEdDZLa2o3WXF0amIzRFVTaWhhLVlpNDJkTlQ5RUJGR0l3ZUdPNGRNNmRYV1loa21aa3FHVXNxT2lYSHc1TUZkNVFRcmRndV9CelJHM2J4WVVrMHNrY3ZMTDRlbUZidGJ4Y01FWmRvS09oaWdrR2dLQ1pSSWtrZkdiekFDZEp6NzExYllNRlFpWlNmdGtkSC1jbkhoQ0MyMGpwdE5Hem9hMFY4Z0ozejV1aUVQLWswVDY0eVcwbEJJLWpJaFhrcmszUmJPSzAwUFU?oc=5)
-
-2026-10-07 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [News18](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU2hEekJLdVpEaExBZUpNaWZmdTM2eVlRRVJVNmgxeGdza196X0J3SnRnUktZZUswWWFpQXJaUXdxNEtvUlpGSHJCNDk4NTNWQnFQM3VqUjgxNWwxeVIxcVhzS1NTbWZGUDJRN1lJbHY3SVRhMlVRR0tmeW9mYXl2VWVKWWE0TVpBLUNMNXdtdXBfYTFoNWdBeFNSeU1xd3Z5V3otOTJEOFdudXhneXFhMlpkZ2RRZkNLVGZ4RlBScHh1eFVGQmg4UXUxVEo4bHRuWHfSAdcBQVVfeXFMT3RDR0RlOGVEdDZLa2o3WXF0amIzRFVTaWhhLVlpNDJkTlQ5RUJGR0l3ZUdPNGRNNmRYV1loa21aa3FHVXNxT2lYSHc1TUZkNVFRcmRndV9CelJHM2J4WVVrMHNrY3ZMTDRlbUZidGJ4Y01FWmRvS09oaWdrR2dLQ1pSSWtrZkdiekFDZEp6NzExYllNRlFpWlNmdGtkSC1jbkhoQ0MyMGpwdE5Hem9hMFY4Z0ozejV1aUVQLWswVDY0eVcwbEJJLWpJaFhrcmszUmJPSzAwUFU?oc=5)
-
----
-
-### [Study reveals link between mtDNA copy number and cancer severity](https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjh0QTUzOGVvU3VleUtqTVc4b1I5LU9CR2ZJOFhuTkhSYlgwbFotSzhJY3BOMmVBbWZqTTFSTmlQbHhFSERLQVp1YkRjeUJRVldZSlN6emp0X2NQMUtYOS1UbFcwZUxzNHlzZWhFaWVnc2tPUEhzVjVtZ21saG51TkxRN0hsZC0tMlhOZzBKbDFOeVg1QXJGVGpfd2g4Ym5RbVpfV05KV1ZqMnZ0RDZONmNn?oc=5)
-
-2026-10-07 <span class="news-indication-tag">cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjh0QTUzOGVvU3VleUtqTVc4b1I5LU9CR2ZJOFhuTkhSYlgwbFotSzhJY3BOMmVBbWZqTTFSTmlQbHhFSERLQVp1YkRjeUJRVldZSlN6emp0X2NQMUtYOS1UbFcwZUxzNHlzZWhFaWVnc2tPUEhzVjVtZ21saG51TkxRN0hsZC0tMlhOZzBKbDFOeVg1QXJGVGpfd2g4Ym5RbVpfV05KV1ZqMnZ0RDZONmNn?oc=5)
 
 ---
 
@@ -87,22 +87,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3k5TGxx
 2026-10-07 <span class="news-indication-tag">cancer</span>
 
 Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQUgtRXlkek1vLWU5U2hzWXR6N3V2bnlCbEw0MUtwZGhKVEJRajFsTEdZVXB0QUFmMTM1Z2ZRUnVDeFFqYS04UENieUlrMUhrOFhLcG5OaFRmVUNqZEg2VHp5ckNuaVJ6V3Q0ZXNMcGswdFY1RUJnNVBNd3pDaFQ1YlZHYXNfVUJWS2FvN0Jjb3FMaHM?oc=5)
-
----
-
-### [Pune-based Lab Launches HPV Self-Sampling Kit To Make Cervical Cancer Testing More Accessible - ETV Bharat](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUhjTDBBQkpQMGx5LWNfekQxbmJSdzdISEtaX296N2Vib180R3c2a0hPbU9ua3BqelBGWFY0ZDNpc29MeXhtMm9IMlh6WmNHUVV5TzB6VnZwM3ZvYklTTHdManB1X3M0R0tBaE53UDZnc05mQk5veFloZ3lGSTNPSnV0N05tUmpnb2NWeHM4LWRBdzJvRE85WEdKUl94OFNJ0gGmAUFVX3lxTE1MbWpGaVpzSFREbGRCRkk4SzQwenk2dUZRR2lWYW95eGs3Vl9HUTg5TlU5aUVzd0Z6TXE3eEVZeUVuaFE2ZGJlaEYyamJFMXVrVGlGQ0pFMS1VRHVKWGJuYmVNWlI4ekpqSXFENlBfOE9rclNtYnpPaE5nMjZvY282SnV5WW9ZSkpzdmRna2pmSmN5OVIzOGVCX3Y2Y29rRUNlV2dNUWc?oc=5)
-
-2026-10-06 <span class="news-indication-tag">cancer</span>
-
-Source: [ETV Bharat](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUhjTDBBQkpQMGx5LWNfekQxbmJSdzdISEtaX296N2Vib180R3c2a0hPbU9ua3BqelBGWFY0ZDNpc29MeXhtMm9IMlh6WmNHUVV5TzB6VnZwM3ZvYklTTHdManB1X3M0R0tBaE53UDZnc05mQk5veFloZ3lGSTNPSnV0N05tUmpnb2NWeHM4LWRBdzJvRE85WEdKUl94OFNJ0gGmAUFVX3lxTE1MbWpGaVpzSFREbGRCRkk4SzQwenk2dUZRR2lWYW95eGs3Vl9HUTg5TlU5aUVzd0Z6TXE3eEVZeUVuaFE2ZGJlaEYyamJFMXVrVGlGQ0pFMS1VRHVKWGJuYmVNWlI4ekpqSXFENlBfOE9rclNtYnpPaE5nMjZvY282SnV5WW9ZSkpzdmRna2pmSmN5OVIzOGVCX3Y2Y29rRUNlV2dNUWc?oc=5)
-
----
-
-### [HRT for Menopause and CV Risk: Two Observational Studies Provide Insights](https://news.google.com/rss/articles/CBMimwFBVV95cUxNal9WRTZuM2R1WG1kTjFLbERxMGJGa1dlUXBjci1iS2JqcGl2TlFtbmZSU19FN3M1Zi1kcTA1YWdqOW9EVHd1RVk5Qk1xc2pnbmNTY1pDRUhpTVNyX3d0am9jMU5IcVpSQlY3T1I4UjRyN0Q1bHJUZVBKWFpIa2tyVmwzSUllQy1jakVQR2F4ZVprMGNEQnRoTWlzMA?oc=5)
-
-2026-10-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [TCTMD.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNal9WRTZuM2R1WG1kTjFLbERxMGJGa1dlUXBjci1iS2JqcGl2TlFtbmZSU19FN3M1Zi1kcTA1YWdqOW9EVHd1RVk5Qk1xc2pnbmNTY1pDRUhpTVNyX3d0am9jMU5IcVpSQlY3T1I4UjRyN0Q1bHJUZVBKWFpIa2tyVmwzSUllQy1jakVQR2F4ZVprMGNEQnRoTWlzMA?oc=5)
 
 ---
 
