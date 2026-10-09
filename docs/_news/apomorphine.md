@@ -14,7 +14,7 @@ permalink: /news/apomorphine/
 ---
 
 <p class="key-answer" data-question="What news is there about Apomorphine?">
-<strong>Apomorphine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Apomorphine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Apomorphine with the latest 
 <li>congenital disorder of glycosylation with defective fucosylation (99.7%)</li>
 <li>retinal dystrophy with or without extraocular anomalies (99.7%)</li>
 <li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.7%)</li>
-<li>schizophrenia (99.7%)</li>
+<li class="indication-matched">schizophrenia (99.7%)<span class="indication-tag">📰 mental disorder</span></li>
 <li>myopia X-linked (99.7%)</li>
 <li>atypical glycine encephalopathy (99.7%)</li>
 <li>myopia 26, X-linked, female-limited (99.6%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Apomorphine with the latest 
 <p><a href="{{ '/drugs/apomorphine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Human brain organoids transplanted into mice without cerebral cortex — Nature](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWxXRFlKOGVDNW50T2pOYXVuXy10TUVBWjFUTUpsS1B1M3Ata1F1YUt6V1htTEhDbGNCMWFrcWFNZXJBY1ZRbksyQzBobmVDeXRIeDlrMkVBQS0xNnVtQnhkOW5udlRqRlBhdU1QS05mTV93NWRUemV2RkVqZGxGOVNKUVdoWWlJS1ROQ2F0MExhV3lGZC1iOHVCclBneFlia0l2N2k4eV9sZw?oc=5)
+
+2026-10-06 <span class="news-indication-tag">mental disorder</span>
+
+Source: [UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWxXRFlKOGVDNW50T2pOYXVuXy10TUVBWjFUTUpsS1B1M3Ata1F1YUt6V1htTEhDbGNCMWFrcWFNZXJBY1ZRbksyQzBobmVDeXRIeDlrMkVBQS0xNnVtQnhkOW5udlRqRlBhdU1QS05mTV93NWRUemV2RkVqZGxGOVNKUVdoWWlJS1ROQ2F0MExhV3lGZC1iOHVCclBneFlia0l2N2k4eV9sZw?oc=5)
+
+---
 
 
 <div class="disclaimer">

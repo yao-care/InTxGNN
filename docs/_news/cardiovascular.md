@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease (cardiovascular) News"
+title: "cardiovascular News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 4 articles, 31 related drugs."
+description: "Health news about cardiovascular. 4 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
-# heart disease (cardiovascular) News
+# cardiovascular News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>4 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about cardiovascular?">
+<strong>cardiovascular</strong> currently has <strong>4 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cardiovascular” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -85,11 +85,11 @@ Source: [Telegraph India](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU
 
 ---
 
-### [AISA activists return to Jantar Mantar after chief Neha Bora’s call, several detained](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdm80dFZ2QTgtOXRRZWFEc2NNYy1YWGhZOHB2VWNQRmI1amZjZ29uVnRkVTRydUlqNF9hTHRfYVpXTTU1N1ljS3V0b2RYdDJkOG9kd0tiOU12MEpNSEs1a3R3cXFnVVMyRDA3ZTdPaUtLc3Y3LVBfWVBuTjEzS2c2SmlkLWxrdWFyYUFEeU5PYThOcjdiQk5hR2ZTMWJHRFdsbmozRzhqbVFpNmlVZk5Hcm1ZLXgwSFE1bURvU1dn0gHDAUFVX3lxTE1ZbmtkdkwtZlFNanp2WlV5eVJ6MGt6UTRNRlh0S2NSMmVMeXlETURPVGZuM1FFUERhcUlrbmJTTDJUZTZCTGR2S2NnTUNHb25uc21fRHREdTJuRTQ3WlVlaEFvMzM4TEF6VVV2STJJcmNHZmFaVlJqMVp0WW5USnROcG8wT2NRN2VlSlFQbFRrYV9vQjZUR2wxVUE2U0JERzlMdHI3LVdWVFBweFhpWEtRTW5vQUlkeFdwR1BTN3lOVTNoVQ?oc=5)
+### [CATIE | Canadian study links cardiovascular disease to declining brain health - European AIDS Treatment Group](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaldUWmF2TG9WQjg0Qmt5Mml0RkhULVVVZ1UtZ1JOakYxb3Y2TzhwamNLc3RUNVUzNzNqVnBpMzBNeWdONHVRRW9WVmkzbDFQeXR1QngzcFZUbWNuaWNkQ3BPNlk2X2xhdnBUY3VLMTItX0N5Z1Zsb3l1ZEpCeDlwS25HQzRpTU5QOW85M1JqUVBNUFYwdV9mUXd5YU1PVnlHSDlqNGxXd1MwUQ?oc=5)
 
-2026-10-03
+2026-10-07
 
-Source: [ThePrint](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdm80dFZ2QTgtOXRRZWFEc2NNYy1YWGhZOHB2VWNQRmI1amZjZ29uVnRkVTRydUlqNF9hTHRfYVpXTTU1N1ljS3V0b2RYdDJkOG9kd0tiOU12MEpNSEs1a3R3cXFnVVMyRDA3ZTdPaUtLc3Y3LVBfWVBuTjEzS2c2SmlkLWxrdWFyYUFEeU5PYThOcjdiQk5hR2ZTMWJHRFdsbmozRzhqbVFpNmlVZk5Hcm1ZLXgwSFE1bURvU1dn0gHDAUFVX3lxTE1ZbmtkdkwtZlFNanp2WlV5eVJ6MGt6UTRNRlh0S2NSMmVMeXlETURPVGZuM1FFUERhcUlrbmJTTDJUZTZCTGR2S2NnTUNHb25uc21fRHREdTJuRTQ3WlVlaEFvMzM4TEF6VVV2STJJcmNHZmFaVlJqMVp0WW5USnROcG8wT2NRN2VlSlFQbFRrYV9vQjZUR2wxVUE2U0JERzlMdHI3LVdWVFBweFhpWEtRTW5vQUlkeFdwR1BTN3lOVTNoVQ?oc=5)
+Source: [European AIDS Treatment Group](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaldUWmF2TG9WQjg0Qmt5Mml0RkhULVVVZ1UtZ1JOakYxb3Y2TzhwamNLc3RUNVUzNzNqVnBpMzBNeWdONHVRRW9WVmkzbDFQeXR1QngzcFZUbWNuaWNkQ3BPNlk2X2xhdnBUY3VLMTItX0N5Z1Zsb3l1ZEpCeDlwS25HQzRpTU5QOW85M1JqUVBNUFYwdV9mUXd5YU1PVnlHSDlqNGxXd1MwUQ?oc=5)
 
 ---
 

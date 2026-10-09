@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
+
+### [Positive Knee OA Radiation Study Challenged by ‘Fatal Flaws’](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEIwdnFLdGxHQ1o4OC1XYjBjVU13bXd0d1VtWDRIVjJPRzhyT3U2S1NYT29xV0hqMEJXQlM0RWJwMUNiTXJ4cVBBUnVCcENrVXozOWlMUUllZmhITFk1aXZxaUtpSHlzOVRyclRKQnE1ZFpGakNQZTUxcXZDemlPU0huN0F5RWN6ajFkMWViZ0g2QnRpTGI4WU15cWkwOW4yaUdQdFh0V28?oc=5)
+
+2026-10-09 <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEIwdnFLdGxHQ1o4OC1XYjBjVU13bXd0d1VtWDRIVjJPRzhyT3U2S1NYT29xV0hqMEJXQlM0RWJwMUNiTXJ4cVBBUnVCcENrVXozOWlMUUllZmhITFk1aXZxaUtpSHlzOVRyclRKQnE1ZFpGakNQZTUxcXZDemlPU0huN0F5RWN6ajFkMWViZ0g2QnRpTGI4WU15cWkwOW4yaUdQdFh0V28?oc=5)
+
+---
+
+### [FDA-approved epilepsy drug may help reverse osteoarthritis damage](https://news.google.com/rss/articles/CBMib0FVX3lxTE51VktSSDhsY1NyanNOWlZVczNrOVU5aXVzQ0VlZ0duYVhTbDB0UWxYcEVnTmJUQlpTVUw4WC00ekxfR3BPSmhWX19MUlNDM2RoaldLNUh1cm01dGI5LVFXeVZ0aml4N2dHX1V1WTg4NA?oc=5)
+
+2026-10-08 <span class="news-drug-tag">Lacosamide</span> <span class="news-indication-tag">dama</span> <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE51VktSSDhsY1NyanNOWlZVczNrOVU5aXVzQ0VlZ0duYVhTbDB0UWxYcEVnTmJUQlpTVUw4WC00ekxfR3BPSmhWX19MUlNDM2RoaldLNUh1cm01dGI5LVFXeVZ0aml4N2dHX1V1WTg4NA?oc=5)
+
+---
 
 ### [Stanford scientists discover a way to regrow cartilage and fix arthritis - The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BOc0VSWnpTQ2NuVjBydVZvVzhmTzZtR2YyVWs4OEdkMUVEdjJCZ3ZGSTQ3NjhfUWxjbnZRbmJ4em9Lekt1LXNQRDBveFViS1FVZThzRmMtN1d2dVR0cDBsb3d4dFlGd01FRFNGdE0zMzZfTnFUQ2xCelh5TGNMR1BHVFlrYjBXeXNWMTlwRjBaMVNXb080TWtQaF9WRC1TeUN0S1JRaUtkQmhteV9pZFA3d0NXMmJNN3RQZkN2NG1qUWRXS00yQ3pSR0NuZm1YWVdaQnQ5amZUV05HTlluTnpoZEzSAeoBQVVfeXFMTVd6YWsxd2tEb2Uzc01LOTZoQ25nZ1MzTlZsamlzODc2cm45T2JnYTIzVmRCZU0tVmtVX2lTbEVaMTFPNmdyTTV1eVJyeWdNdmZOcnNxTVFvM3dXTXMzdG1KOVJtQXpnNmRaZnFJYkpUSnI3UTlHNHg0OUR0cXd0OHhaWkd5dkNhakNmSGV0bVdmVEJsVjVZSDB1UlVWdm9rRjBqLVp0TVo2RlhjbUFrNGtmUFNsZXRoM0tVdW05Wk1DQ1lBMmFBNVBFVW50WUdYV1FYc1RmZUJTbmlXdl95STVmWGN3emRfdF93?oc=5)
 
