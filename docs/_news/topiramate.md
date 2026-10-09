@@ -14,7 +14,7 @@ permalink: /news/topiramate/
 ---
 
 <p class="key-answer" data-question="What news is there about Topiramate?">
-<strong>Topiramate</strong> currently has <strong>8 news articles</strong>, with 9 predicted indications.
+<strong>Topiramate</strong> currently has <strong>7 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ This page combines the AI-predicted indications for Topiramate with the latest h
 <p><a href="{{ '/drugs/topiramate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [NCCN collaborates with global organizations to launch tailored cancer guidelines for Philippines](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0ZzeDI5S2JQNEh0UWY2SVhPbzNONFVZTnBGYnhMeG40RU5YaGxSMnB1STF2TVVINmtQVS1fc3hOTXA0RHYyS2lXeU83anRWTDlKbDEyVWZQbkVFaUpDM2szSU43R0gwTWJHM0dwNUY1SGI2TEtLVERaZEtQX3ZaREhnRG5uamdXSjBtZzlMU2l3bzFZZy0tT0pLdF9MWE1uVUtlSllwaXdaQy1yT1I3clhlMmRFalh5Yy10T0ZRTGJJbVUtRDlYU2dUVkNLWVVMZ0tMcWNYRkRNVTBW?oc=5)
 
@@ -49,27 +49,19 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0Zz
 
 ---
 
-### [High Tumor Visibility Improves Pediatric Cancer Treatment](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdUJnUmlJMElUZlAwd056LVN6MFdmT2tkWGR1ZkdrLWtSSGpxeHR6T1VkejF4U1pvQktFcENCRUNpa21qNDlzUEtEN3l6aHhFM3pBWmg4aG1qME9ZOC1JbXJJX2ZWVDVSUVN4WEJlWUdaUHZmNkM3emVWWG1fNlVIZFFoTHpJVXFFajQ0R2xrTnhkOHBUeHhaQkdaMjYxUDBkMUlJNjk0bUtIT2lOZlJPb0QzTDNJdjdYWlFpTmlTZDVEZ9IBxwFBVV95cUxPdHh1WkVoa2t2V2xDczQ1ck50Skk0bTN4ZVN0WWFYQlYwMGJPbUxMbWNqZHNSMk5pRVlubU16OUpFbWcweGN6bkJIQlpuR1pwV2c5T1RjaEw1dTZ5UGp5R1llVkpYVTVYZmZrRzBNY2FlbkMxTzN1MVVTM2hNNTFDS1A2bnM0NkgtWDY2TlkxMnZzckx1UnVFN2FybjIwUTNCdS1HcUQ0Z3R1YmRMVWpiTVV4aEd0LUZMeHEyQjJLUVhoMkJuUlNV?oc=5)
-
-2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">neuroblastoma</span>
-
-Source: [Labroots](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdUJnUmlJMElUZlAwd056LVN6MFdmT2tkWGR1ZkdrLWtSSGpxeHR6T1VkejF4U1pvQktFcENCRUNpa21qNDlzUEtEN3l6aHhFM3pBWmg4aG1qME9ZOC1JbXJJX2ZWVDVSUVN4WEJlWUdaUHZmNkM3emVWWG1fNlVIZFFoTHpJVXFFajQ0R2xrTnhkOHBUeHhaQkdaMjYxUDBkMUlJNjk0bUtIT2lOZlJPb0QzTDNJdjdYWlFpTmlTZDVEZ9IBxwFBVV95cUxPdHh1WkVoa2t2V2xDczQ1ck50Skk0bTN4ZVN0WWFYQlYwMGJPbUxMbWNqZHNSMk5pRVlubU16OUpFbWcweGN6bkJIQlpuR1pwV2c5T1RjaEw1dTZ5UGp5R1llVkpYVTVYZmZrRzBNY2FlbkMxTzN1MVVTM2hNNTFDS1A2bnM0NkgtWDY2TlkxMnZzckx1UnVFN2FybjIwUTNCdS1HcUQ0Z3R1YmRMVWpiTVV4aEd0LUZMeHEyQjJLUVhoMkJuUlNV?oc=5)
-
----
-
-### [Mission success: Australian cancer research returns from space](https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXp3Ny1wZzNfNU0zYm1UMzFfTXhJay1xM041MGowS0pXWThYbHl5bHJpOUxnLWx4cDlPYXR1ZWVzQU80WXRCTGM3UmdFbUd0WlZINENRUEFFQ2hxMENiYW1BajdMRXp2dmxmYnVEUXhLWjF2cWFRYmdaWWs1Y3RhdHhERE1jYWg4cm1FMXlfN2laWGJjbGMwWG9yWGxwVnRmX09BZEFtQk50Rnh4cEE?oc=5)
-
-2026-10-08 <span class="news-indication-tag">cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXp3Ny1wZzNfNU0zYm1UMzFfTXhJay1xM041MGowS0pXWThYbHl5bHJpOUxnLWx4cDlPYXR1ZWVzQU80WXRCTGM3UmdFbUd0WlZINENRUEFFQ2hxMENiYW1BajdMRXp2dmxmYnVEUXhLWjF2cWFRYmdaWWs1Y3RhdHhERE1jYWg4cm1FMXlfN2laWGJjbGMwWG9yWGxwVnRmX09BZEFtQk50Rnh4cEE?oc=5)
-
----
-
 ### [Advances in prognostic and predictive biomarkers for breast cancer - Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
 
 2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
+
+---
+
+### [Scientists find a strategy to unmask cancer cells in high-risk Neuroblastoma in kids - The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZzVDUGdvZnU4bzRxYU9HSVdtQkdBM2Nub2hXcnBRZlpDQTMxYTNOdTltOTNUc0dPWnlyVTNMajA5WEh0a0ozVlptU0VfRm4teVBDZXV1aWhqZ1VndFl1cGp2ajhMcUZUTjExNWhnQmNhc1JLX2hyRzNLTGtvYkdQUGNUN2NMVHJpQkVqNjFsWkZKNVhCMnBTWkM3LTIwbWhtd3gwaV9vX2lMWGlTTFRPWVU3ekhLd1MxOXdianF1YlhaWmZkdmxaMHppRDNoYzk3VndBbjlnV01WNFdiRjh1bFB0NTBSN2pIWFFBTHhyUUFjV3lu0gH6AUFVX3lxTE9OV1ZSbmt0Qy1pMHdGaGFHdjFGMlVUcGhlV0ptdEU5Snd3TVBfRUpqeE9qekJ4LVFIOHB6SVdvdGNSdi1FekFfS05HLTEzZUhvbHdzM0R0eUtQUDVrMm9VclN4cnhoUkZEZ3lFTGtpaXBvWkUxdEg1Q3RUM3drUXJhM1ZuNUdFVUdXMHdkRXNWaEJyYlVVdXdrMmFKVEVERFkwcXNMd3pfNVVHUTBHaVlnYjZzOEVwNWJKcHRVVTNEQ2gxM2JWelNTZmdkWkRRU2k4Z1VNa3JxaFpOcndNT3NnNWpxMG9CdEFmZmVQblBSRjB5bzQteWt1NHc?oc=5)
+
+2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">neuroblastoma</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZzVDUGdvZnU4bzRxYU9HSVdtQkdBM2Nub2hXcnBRZlpDQTMxYTNOdTltOTNUc0dPWnlyVTNMajA5WEh0a0ozVlptU0VfRm4teVBDZXV1aWhqZ1VndFl1cGp2ajhMcUZUTjExNWhnQmNhc1JLX2hyRzNLTGtvYkdQUGNUN2NMVHJpQkVqNjFsWkZKNVhCMnBTWkM3LTIwbWhtd3gwaV9vX2lMWGlTTFRPWVU3ekhLd1MxOXdianF1YlhaWmZkdmxaMHppRDNoYzk3VndBbjlnV01WNFdiRjh1bFB0NTBSN2pIWFFBTHhyUUFjV3lu0gH6AUFVX3lxTE9OV1ZSbmt0Qy1pMHdGaGFHdjFGMlVUcGhlV0ptdEU5Snd3TVBfRUpqeE9qekJ4LVFIOHB6SVdvdGNSdi1FekFfS05HLTEzZUhvbHdzM0R0eUtQUDVrMm9VclN4cnhoUkZEZ3lFTGtpaXBvWkUxdEg1Q3RUM3drUXJhM1ZuNUdFVUdXMHdkRXNWaEJyYlVVdXdrMmFKVEVERFkwcXNMd3pfNVVHUTBHaVlnYjZzOEVwNWJKcHRVVTNEQ2gxM2JWelNTZmdkWkRRU2k4Z1VNa3JxaFpOcndNT3NnNWpxMG9CdEFmZmVQblBSRjB5bzQteWt1NHc?oc=5)
 
 ---
 
