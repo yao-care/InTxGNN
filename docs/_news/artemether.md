@@ -14,7 +14,7 @@ permalink: /news/artemether/
 ---
 
 <p class="key-answer" data-question="What news is there about Artemether?">
-<strong>Artemether</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Artemether</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Artemether with the latest h
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>acquired angioedema (99.9%)</li>
 <li>Plasmodium falciparum malaria (99.8%)</li>
-<li>malaria (99.6%)</li>
+<li class="indication-matched">malaria (99.6%)<span class="indication-tag">📰 malaria</span></li>
 <li>angioedema (99.6%)</li>
 <li>hereditary angioedema (99.5%)</li>
 <li>nephrogenic syndrome of inappropriate antidiuresis (99.4%)</li>
@@ -40,9 +40,23 @@ This page combines the AI-predicted indications for Artemether with the latest h
 <p><a href="{{ '/drugs/artemether/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Echocardiographic assessment of left ventricular mass in children with severe malaria at two tertiary institutions in Southeast Nigeria](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHY3RZdmdKU1EzSmRGT1NuLVd0NnBocVN3S283MGktTWs3UXd3NnBodzhhMENoR3F6NTZPdzQ2UXVPVWtjdWF5dHpIbFlqQ1V3bVpQaUw5MGVkZktmZ0d3?oc=5)
+
+2026-10-09 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHY3RZdmdKU1EzSmRGT1NuLVd0NnBocVN3S283MGktTWs3UXd3NnBodzhhMENoR3F6NTZPdzQ2UXVPVWtjdWF5dHpIbFlqQ1V3bVpQaUw5MGVkZktmZ0d3?oc=5)
+
+---
+
+### [There's a human protein malaria and kala-azar rely on. JNU scientists destroyed it - India Today](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQjg1RkJxU2p2U0k4SjFKMFBId3V4QTcwakRFQ2FleDFIT2d2Q1pwYmpiU1Utc0FrU2I4MlVCRlpLQTA0YWZ5WnhPWW8xVmtfS0JETGQwdlFGWkJ3azhVZERNVGJyM3VnQ01fR3JDa00waUlwNFphR2hQeWR1NUpTVDE1MVV6djVvVjktMWpMSGNPUl9oYjlwSGh0WEtOVUNBb0lUMDlodExyZ2VlOWcwV09tVWtaZVJGX3BjUGxWYlJnLU04U08xLUE2OU1Wekd5LW96OVM5d1lUN3lXUVZhZHJCeWtSR25XcXNkT0ttd9IB9AFBVV95cUxNc09WVzA2MkNQTWZuRzJ2ZGpTOVNZbDlUdDJZNUJOR1ZvYXZUZ1lKcE13d1hRbmxYUU9GTUhBTUFkV2NUbUVyZFNpY0JHSjJySERKbjRzSEdOYTlOVlREaG9EeklGZC1CLW1ndUJmbmtNZUo0MUFQcFk2MG9BOW9xNkNKUFgzaTJiczVTUVlhVk5UOHFWb1l3NXBSR0dsa1JDYVNDY20yNlI0WGZZRm9vUGx0TXJRcFFLUkk5YVBBcTduMEZOV0VkQjJVVEFEY2RsbW9aMmhleFNvcTZEbUoxYXJSbGZCNGYyMTVybXItMzl0bGp1?oc=5)
+
+2026-10-09 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [India Today](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQjg1RkJxU2p2U0k4SjFKMFBId3V4QTcwakRFQ2FleDFIT2d2Q1pwYmpiU1Utc0FrU2I4MlVCRlpLQTA0YWZ5WnhPWW8xVmtfS0JETGQwdlFGWkJ3azhVZERNVGJyM3VnQ01fR3JDa00waUlwNFphR2hQeWR1NUpTVDE1MVV6djVvVjktMWpMSGNPUl9oYjlwSGh0WEtOVUNBb0lUMDlodExyZ2VlOWcwV09tVWtaZVJGX3BjUGxWYlJnLU04U08xLUE2OU1Wekd5LW96OVM5d1lUN3lXUVZhZHJCeWtSR25XcXNkT0ttd9IB9AFBVV95cUxNc09WVzA2MkNQTWZuRzJ2ZGpTOVNZbDlUdDJZNUJOR1ZvYXZUZ1lKcE13d1hRbmxYUU9GTUhBTUFkV2NUbUVyZFNpY0JHSjJySERKbjRzSEdOYTlOVlREaG9EeklGZC1CLW1ndUJmbmtNZUo0MUFQcFk2MG9BOW9xNkNKUFgzaTJiczVTUVlhVk5UOHFWb1l3NXBSR0dsa1JDYVNDY20yNlI0WGZZRm9vUGx0TXJRcFFLUkk5YVBBcTduMEZOV0VkQjJVVEFEY2RsbW9aMmhleFNvcTZEbUoxYXJSbGZCNGYyMTVybXItMzl0bGp1?oc=5)
+
+---
 
 
 <div class="disclaimer">

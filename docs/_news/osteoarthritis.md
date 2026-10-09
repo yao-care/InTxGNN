@@ -3,7 +3,7 @@ layout: default
 title: "osteoarthritis News"
 parent: Health News
 nav_exclude: true
-description: "Health news about osteoarthritis. 3 articles, 5 related drugs."
+description: "Health news about osteoarthritis. 2 articles, 5 related drugs."
 permalink: /news/osteoarthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/osteoarthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about osteoarthritis?">
-<strong>osteoarthritis</strong> currently has <strong>3 news articles</strong> and 5 related drugs.
+<strong>osteoarthritis</strong> currently has <strong>2 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,7 @@ This page brings together the latest health news about “osteoarthritis” and 
 </ul>
 </div>
 
-## Related News (3)
-
-### [Positive Knee OA Radiation Study Challenged by ‘Fatal Flaws’](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEIwdnFLdGxHQ1o4OC1XYjBjVU13bXd0d1VtWDRIVjJPRzhyT3U2S1NYT29xV0hqMEJXQlM0RWJwMUNiTXJ4cVBBUnVCcENrVXozOWlMUUllZmhITFk1aXZxaUtpSHlzOVRyclRKQnE1ZFpGakNQZTUxcXZDemlPU0huN0F5RWN6ajFkMWViZ0g2QnRpTGI4WU15cWkwOW4yaUdQdFh0V28?oc=5)
-
-2026-10-09
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEIwdnFLdGxHQ1o4OC1XYjBjVU13bXd0d1VtWDRIVjJPRzhyT3U2S1NYT29xV0hqMEJXQlM0RWJwMUNiTXJ4cVBBUnVCcENrVXozOWlMUUllZmhITFk1aXZxaUtpSHlzOVRyclRKQnE1ZFpGakNQZTUxcXZDemlPU0huN0F5RWN6ajFkMWViZ0g2QnRpTGI4WU15cWkwOW4yaUdQdFh0V28?oc=5)
-
----
+## Related News (2)
 
 ### [FDA-approved epilepsy drug may help reverse osteoarthritis damage](https://news.google.com/rss/articles/CBMib0FVX3lxTE51VktSSDhsY1NyanNOWlZVczNrOVU5aXVzQ0VlZ0duYVhTbDB0UWxYcEVnTmJUQlpTVUw4WC00ekxfR3BPSmhWX19MUlNDM2RoaldLNUh1cm01dGI5LVFXeVZ0aml4N2dHX1V1WTg4NA?oc=5)
 

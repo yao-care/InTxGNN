@@ -14,7 +14,7 @@ permalink: /news/ketamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Ketamine?">
-<strong>Ketamine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Ketamine</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,9 +31,15 @@ This page combines the AI-predicted indications for Ketamine with the latest hea
 <p><a href="{{ '/drugs/ketamine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Graphene sensors read stroke damage from the shape of brain electrical waves](https://news.google.com/rss/articles/CBMimgFBVV95cUxObkhpczF5d01tWlpKNGJNUi1NMHBFMW92WU9ZbVNBZDZRSHBxQThYSGtYVEhKLXJIaGQtODBER3pkclZkRGgzZ3czSUhmYVJlUzVJdHhPQ25VTXF2YVE0U0h5U29ES1h0MlJBbE9xX2FMOWZfNkZpNHlVTW9MaVNRblJhbzR6ZUQxS09sandTZ0w3RXdTQWgwWHBB?oc=5)
+
+2026-10-09 <span class="news-drug-tag">Ketamine</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dama</span>
+
+Source: [Graphene-Info](https://news.google.com/rss/articles/CBMimgFBVV95cUxObkhpczF5d01tWlpKNGJNUi1NMHBFMW92WU9ZbVNBZDZRSHBxQThYSGtYVEhKLXJIaGQtODBER3pkclZkRGgzZ3czSUhmYVJlUzVJdHhPQ25VTXF2YVE0U0h5U29ES1h0MlJBbE9xX2FMOWZfNkZpNHlVTW9MaVNRblJhbzR6ZUQxS09sandTZ0w3RXdTQWgwWHBB?oc=5)
+
+---
 
 
 <div class="disclaimer">

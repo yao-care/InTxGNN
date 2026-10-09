@@ -14,7 +14,7 @@ permalink: /news/caffeine/
 ---
 
 <p class="key-answer" data-question="What news is there about Caffeine?">
-<strong>Caffeine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Caffeine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Caffeine with the latest hea
 <p><a href="{{ '/drugs/caffeine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Up to 400 mg of Caffeine Daily Is Safe for Most Adults, AHA Says](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOW1DT3BwRGhUSmttM2gzcjBrU1d2aDFHblYyZVhtZEo2QnBkMWp2QmhTMEVaV2QwMTNodlloV25KdmRkSWFvTF9wMldfbDRZYVpmRnFxenBhbVhvd2RQV0w3dHNCbkU3NUFoMmU1NHZZdWJpajF3djZqVURNeWtRbEkyNFJpb0FRT250bVh5Y052bWc?oc=5)
-
-2026-10-06 <span class="news-drug-tag">Caffeine</span> <span class="news-drug-tag">CAFFEINE</span>
-
-Source: [AJMC](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOW1DT3BwRGhUSmttM2gzcjBrU1d2aDFHblYyZVhtZEo2QnBkMWp2QmhTMEVaV2QwMTNodlloV25KdmRkSWFvTF9wMldfbDRZYVpmRnFxenBhbVhvd2RQV0w3dHNCbkU3NUFoMmU1NHZZdWJpajF3djZqVURNeWtRbEkyNFJpb0FRT250bVh5Y052bWc?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
