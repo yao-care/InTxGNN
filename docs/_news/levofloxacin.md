@@ -14,7 +14,7 @@ permalink: /news/levofloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Levofloxacin?">
-<strong>Levofloxacin</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Levofloxacin</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,29 @@ This page combines the AI-predicted indications for Levofloxacin with the latest
 <p><a href="{{ '/drugs/levofloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Scared about testing for breast cancer? Oncologist debunks 5 myths that can stop women from getting the right care | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
+
+2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
+
+---
 
 ### [NCCN collaborates with global organizations to launch tailored cancer guidelines for Philippines](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0ZzeDI5S2JQNEh0UWY2SVhPbzNONFVZTnBGYnhMeG40RU5YaGxSMnB1STF2TVVINmtQVS1fc3hOTXA0RHYyS2lXeU83anRWTDlKbDEyVWZQbkVFaUpDM2szSU43R0gwTWJHM0dwNUY1SGI2TEtLVERaZEtQX3ZaREhnRG5uamdXSjBtZzlMU2l3bzFZZy0tT0pLdF9MWE1uVUtlSllwaXdaQy1yT1I3clhlMmRFalh5Yy10T0ZRTGJJbVUtRDlYU2dUVkNLWVVMZ0tMcWNYRkRNVTBW?oc=5)
 
 2026-10-08 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0ZzeDI5S2JQNEh0UWY2SVhPbzNONFVZTnBGYnhMeG40RU5YaGxSMnB1STF2TVVINmtQVS1fc3hOTXA0RHYyS2lXeU83anRWTDlKbDEyVWZQbkVFaUpDM2szSU43R0gwTWJHM0dwNUY1SGI2TEtLVERaZEtQX3ZaREhnRG5uamdXSjBtZzlMU2l3bzFZZy0tT0pLdF9MWE1uVUtlSllwaXdaQy1yT1I3clhlMmRFalh5Yy10T0ZRTGJJbVUtRDlYU2dUVkNLWVVMZ0tMcWNYRkRNVTBW?oc=5)
+
+---
+
+### [Mission success: Australian cancer research returns from space](https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXp3Ny1wZzNfNU0zYm1UMzFfTXhJay1xM041MGowS0pXWThYbHl5bHJpOUxnLWx4cDlPYXR1ZWVzQU80WXRCTGM3UmdFbUd0WlZINENRUEFFQ2hxMENiYW1BajdMRXp2dmxmYnVEUXhLWjF2cWFRYmdaWWs1Y3RhdHhERE1jYWg4cm1FMXlfN2laWGJjbGMwWG9yWGxwVnRmX09BZEFtQk50Rnh4cEE?oc=5)
+
+2026-10-08 <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXp3Ny1wZzNfNU0zYm1UMzFfTXhJay1xM041MGowS0pXWThYbHl5bHJpOUxnLWx4cDlPYXR1ZWVzQU80WXRCTGM3UmdFbUd0WlZINENRUEFFQ2hxMENiYW1BajdMRXp2dmxmYnVEUXhLWjF2cWFRYmdaWWs1Y3RhdHhERE1jYWg4cm1FMXlfN2laWGJjbGMwWG9yWGxwVnRmX09BZEFtQk50Rnh4cEE?oc=5)
 
 ---
 
@@ -74,27 +90,19 @@ Source: [NPR](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFBudll3UlVld
 
 ---
 
-### [Why Can Heart Damage Appear Years After Cancer Treatment?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3k5TGxxRWhZRTdnOXF5UE5ta3NZVlJXN1RKektyd1IxdjdGV0dOY2FiaHE5clZhN2NycjNTZGdSNzlTUDhzUU8zOXVFbzhoX1dqN09fQk52Nk5PNFhJUklzTUxhWmhUWk5rYTctcU4zMnNURjZ3dUc5T28xekxsa0dydlJRZ1VoN1hmcFA4Z0xXV05JM0tzTjBGWDJsQnJXS1pvOUowQ0VCUQ?oc=5)
+### [Study reveals link between mtDNA copy number and cancer severity](https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjh0QTUzOGVvU3VleUtqTVc4b1I5LU9CR2ZJOFhuTkhSYlgwbFotSzhJY3BOMmVBbWZqTTFSTmlQbHhFSERLQVp1YkRjeUJRVldZSlN6emp0X2NQMUtYOS1UbFcwZUxzNHlzZWhFaWVnc2tPUEhzVjVtZ21saG51TkxRN0hsZC0tMlhOZzBKbDFOeVg1QXJGVGpfd2g4Ym5RbVpfV05KV1ZqMnZ0RDZONmNn?oc=5)
 
-2026-10-07 <span class="news-indication-tag">cancer</span>
+2026-10-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3k5TGxxRWhZRTdnOXF5UE5ta3NZVlJXN1RKektyd1IxdjdGV0dOY2FiaHE5clZhN2NycjNTZGdSNzlTUDhzUU8zOXVFbzhoX1dqN09fQk52Nk5PNFhJUklzTUxhWmhUWk5rYTctcU4zMnNURjZ3dUc5T28xekxsa0dydlJRZ1VoN1hmcFA4Z0xXV05JM0tzTjBGWDJsQnJXS1pvOUowQ0VCUQ?oc=5)
-
----
-
-### [1.9 lakh cancers in India linked to infections every year: What to know - India Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGo5ZkJYcWFKLXExWUdERjdNNkYxWXdtSkpCSVNHUGQ2RngtOHF2RVlfdmJyT3lTTVNia3k5VFYxV2xHUHIwVjBnZ2ZnZTRoV0FVdVBMWXI0c0p3TlZFSFJOeXZUQ19ybmQ3eFluMXlnZjhWWE5yakxwZURfcXFoV1NVY0NMUFBxck01RUV1MWZYQTFjSHJXM0VUM1BfZkpudlNGeDVSRmh0ckZaSk1IcEZaaE9DdV82RFJXZtIBwgFBVV95cUxNZGxINW91LW9NM0R1LXpkSTk4ZHlWSXVUMUt0dUxkVXhWdnc3RlhNOVZnV1V5X3F5a3h0UUp3dW41R1FOeWlTUWIzMWxLb3M4dGdaVTcwOUtMbkVsN3lJd3UyMkdtTWZ1R1hwUEZQaHQwekJlMjJpdjdXekI2Q1l2TGt4Y0JRaFVIZGtnSzhrMGkxMVNJSHRMWkR6S1d1bmh6ZFhiY2N4bnRETkVqaGd5VnJGa1FwbUpqNXZVc3dVUnpsZw?oc=5)
-
-2026-10-02 <span class="news-indication-tag">cancer</span>
-
-Source: [India Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGo5ZkJYcWFKLXExWUdERjdNNkYxWXdtSkpCSVNHUGQ2RngtOHF2RVlfdmJyT3lTTVNia3k5VFYxV2xHUHIwVjBnZ2ZnZTRoV0FVdVBMWXI0c0p3TlZFSFJOeXZUQ19ybmQ3eFluMXlnZjhWWE5yakxwZURfcXFoV1NVY0NMUFBxck01RUV1MWZYQTFjSHJXM0VUM1BfZkpudlNGeDVSRmh0ckZaSk1IcEZaaE9DdV82RFJXZtIBwgFBVV95cUxNZGxINW91LW9NM0R1LXpkSTk4ZHlWSXVUMUt0dUxkVXhWdnc3RlhNOVZnV1V5X3F5a3h0UUp3dW41R1FOeWlTUWIzMWxLb3M4dGdaVTcwOUtMbkVsN3lJd3UyMkdtTWZ1R1hwUEZQaHQwekJlMjJpdjdXekI2Q1l2TGt4Y0JRaFVIZGtnSzhrMGkxMVNJSHRMWkR6S1d1bmh6ZFhiY2N4bnRETkVqaGd5VnJGa1FwbUpqNXZVc3dVUnpsZw?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjh0QTUzOGVvU3VleUtqTVc4b1I5LU9CR2ZJOFhuTkhSYlgwbFotSzhJY3BOMmVBbWZqTTFSTmlQbHhFSERLQVp1YkRjeUJRVldZSlN6emp0X2NQMUtYOS1UbFcwZUxzNHlzZWhFaWVnc2tPUEhzVjVtZ21saG51TkxRN0hsZC0tMlhOZzBKbDFOeVg1QXJGVGpfd2g4Ym5RbVpfV05KV1ZqMnZ0RDZONmNn?oc=5)
 
 ---
 
-### [Nutribray Marks Breast Cancer Awareness Month 2026, Highlights Women’s Health, Nutrition and Family Wellbeing - ANI News](https://news.google.com/rss/articles/CBMi9AFBVV95cUxObHpRdm9oSEJPMFR2SFI0SWp4NmstdVpMYktlTURfck10cXBLc2w5QlViblQ3c0dRZzVXYjV2MGUxWlE3cXQybTlZNVUwdmFWMnIxcXJfa3NkWFpWRlBJWnRtN0UyT1h6ZGNTcXQ3MlNyc0dXem82aXJTS3lHTUZNOEZTT19tenlKdFRQSGFUbXVkeWFSN1ZhWXRtNFdxc1gtS21HWnphMURyQ05GdjlDXzh1NnI5dG41d2dqSHl6Y3czd2hvei1ja1Rva2JoM0FKQm9Gb1Z3SEFacnZIclZ6N2JEUUotQjJCT0Nmd21Kc2o5ZkNO?oc=5)
+### [Global Breast Cancer Initiative: Milestones - European Medical Journal](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTItODlnbnllcWVTejRISkN3d1lpQ0JycFcwRkRMS2kzejhlU29HQU9SSXFKQTlLeW9iWWdBMjV4dE40SW1oekQ5UFVCVEE4QVVZZ0VRM2prbFdyZnZhLXpQWUxkSVlXSGRtZ0Y1RG52Z3FZMXk0bThaMmdFQlVCX3p1eE9PQ25ya29Lbw?oc=5)
 
-2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [ANI News](https://news.google.com/rss/articles/CBMi9AFBVV95cUxObHpRdm9oSEJPMFR2SFI0SWp4NmstdVpMYktlTURfck10cXBLc2w5QlViblQ3c0dRZzVXYjV2MGUxWlE3cXQybTlZNVUwdmFWMnIxcXJfa3NkWFpWRlBJWnRtN0UyT1h6ZGNTcXQ3MlNyc0dXem82aXJTS3lHTUZNOEZTT19tenlKdFRQSGFUbXVkeWFSN1ZhWXRtNFdxc1gtS21HWnphMURyQ05GdjlDXzh1NnI5dG41d2dqSHl6Y3czd2hvei1ja1Rva2JoM0FKQm9Gb1Z3SEFacnZIclZ6N2JEUUotQjJCT0Nmd21Kc2o5ZkNO?oc=5)
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTItODlnbnllcWVTejRISkN3d1lpQ0JycFcwRkRMS2kzejhlU29HQU9SSXFKQTlLeW9iWWdBMjV4dE40SW1oekQ5UFVCVEE4QVVZZ0VRM2prbFdyZnZhLXpQWUxkSVlXSGRtZ0Y1RG52Z3FZMXk0bThaMmdFQlVCX3p1eE9PQ25ya29Lbw?oc=5)
 
 ---
 

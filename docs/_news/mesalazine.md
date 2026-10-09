@@ -14,7 +14,7 @@ permalink: /news/mesalazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mesalazine?">
-<strong>Mesalazine</strong> currently has <strong>3 news articles</strong>, with 7 predicted indications.
+<strong>Mesalazine</strong> currently has <strong>6 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,37 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <p><a href="{{ '/drugs/mesalazine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (6)
 
-### [HPV vaccine related with lower risk of pregnancy complications, Swedish study suggests - ET HealthWorld](https://news.google.com/rss/articles/CBMiogJBVV95cUxOZzlRMGdhbEh1VDFYcXd4OTVRZG93eS1TcGJveTBVY3B1UU11R0pRYTdDNFNOTXk1Ums0SVg4dERyeFNzUFdQTHI4TnkwaFRVQlZRRXFiVThNdUc5cS1vYlU1NnVmT2Z2OTBzcU9qYzc2TmdiTWNuQ1VURWJXUTFFQ2NRY0hKck5DSkFYS3RBMUxCd1N5RFkzemRWNFFvWmgzenRPek1XMzFCQ0dHWG9fdEhKMDFsY2hQdjgya3JwY0VKQkxNYXdZVmRHb2RjclFFSW82ZXV5ckJKQkVudy1SRlMzV2dxeGp2Qm9BdXRkNGRvaGhDQVI5ZW1ua09CTFlWWmZrYzdpLXpkRTBmQjFNdV93UnFKYnZBdlpkY2FXYVdRd9IB7gFBVV95cUxOcTJXTmwxM3VSVENtY2VMZVV6QlFndjhYS1BvWnRKRnhHeVNKUUlfOEhfZzVPaUxYWFVzS0VUSXloNFpndXdBM0lRdTE3N2QzQmFtRU9HU0E5TTYzTjItWWxtcGFQcXpFMWgtampiQnd5eUJiRXQ4M1VwNDFtdUJaZDdtWF95TE1TVy11NzFWbWx1UngxNFN1RFlCeUkwZ3cxRVQ4NUNDenlralo2QUtOaDY3S3U5SXdSRmprMTlDS053SzBYNlhKT2tBLXExZUNOSXExb2pvTlZ5aXJTTGRaOExfMDJEemRsek9fOFFn?oc=5)
+### [Positive Knee OA Radiation Study Challenged by ‘Fatal Flaws’](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEIwdnFLdGxHQ1o4OC1XYjBjVU13bXd0d1VtWDRIVjJPRzhyT3U2S1NYT29xV0hqMEJXQlM0RWJwMUNiTXJ4cVBBUnVCcENrVXozOWlMUUllZmhITFk1aXZxaUtpSHlzOVRyclRKQnE1ZFpGakNQZTUxcXZDemlPU0huN0F5RWN6ajFkMWViZ0g2QnRpTGI4WU15cWkwOW4yaUdQdFh0V28?oc=5)
 
-2026-10-08 <span class="news-indication-tag">RA</span>
+2026-10-09 <span class="news-indication-tag">osteoarthritis</span>
 
-Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMiogJBVV95cUxOZzlRMGdhbEh1VDFYcXd4OTVRZG93eS1TcGJveTBVY3B1UU11R0pRYTdDNFNOTXk1Ums0SVg4dERyeFNzUFdQTHI4TnkwaFRVQlZRRXFiVThNdUc5cS1vYlU1NnVmT2Z2OTBzcU9qYzc2TmdiTWNuQ1VURWJXUTFFQ2NRY0hKck5DSkFYS3RBMUxCd1N5RFkzemRWNFFvWmgzenRPek1XMzFCQ0dHWG9fdEhKMDFsY2hQdjgya3JwY0VKQkxNYXdZVmRHb2RjclFFSW82ZXV5ckJKQkVudy1SRlMzV2dxeGp2Qm9BdXRkNGRvaGhDQVI5ZW1ua09CTFlWWmZrYzdpLXpkRTBmQjFNdV93UnFKYnZBdlpkY2FXYVdRd9IB7gFBVV95cUxOcTJXTmwxM3VSVENtY2VMZVV6QlFndjhYS1BvWnRKRnhHeVNKUUlfOEhfZzVPaUxYWFVzS0VUSXloNFpndXdBM0lRdTE3N2QzQmFtRU9HU0E5TTYzTjItWWxtcGFQcXpFMWgtampiQnd5eUJiRXQ4M1VwNDFtdUJaZDdtWF95TE1TVy11NzFWbWx1UngxNFN1RFlCeUkwZ3cxRVQ4NUNDenlralo2QUtOaDY3S3U5SXdSRmprMTlDS053SzBYNlhKT2tBLXExZUNOSXExb2pvTlZ5aXJTTGRaOExfMDJEemRsek9fOFFn?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEIwdnFLdGxHQ1o4OC1XYjBjVU13bXd0d1VtWDRIVjJPRzhyT3U2S1NYT29xV0hqMEJXQlM0RWJwMUNiTXJ4cVBBUnVCcENrVXozOWlMUUllZmhITFk1aXZxaUtpSHlzOVRyclRKQnE1ZFpGakNQZTUxcXZDemlPU0huN0F5RWN6ajFkMWViZ0g2QnRpTGI4WU15cWkwOW4yaUdQdFh0V28?oc=5)
 
 ---
 
-### [Deadly fungal brain infection is on the rise as experts hunt for answers](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMElJM3lzUkI5TGRVbkFPRDJHMWJqWURlODhkSGZTNFZZVXdVd0psdUJSSHVSbmNrNnF1WUhLaFYyZ1FDRHpIUWJEU21FMFAxTmxHZmsxcW5Zd2VBQWJRb0xycDFsd251Mkx5YUg0UERmNjBlelM0ME1oOTJ6REdicFpLcG5qYXlqcWJQOHNNSkNFVnZhREFCc3NMd2poNUFySWlabjVUMDNwaDdOWVJCU1ZkSlo5TVNKRHpZ0gHAAUFVX3lxTFByLWV6U21EbnEzZUt6S1RxVGZPcURfMEx1R1BrbHJxRmVHeFJRT2VvTjhZYUpoT1FHcHhnYW50ZmJmSGlZdFhIcHJQc1BSVi1Lc1VObm1Pc05EX08wbUt5eFlCMXRNMWx2YjlWclczZi00X0lpb2xVV1hlSDJkYUlQMXNsZmVsZkl4MmE0S3JkaXpsWEpJb1Z0UllLVjk3QWZ2eFZUanZDcjZDaGh6a1BsdjZFQVpqLXdnN2JUVEFVSw?oc=5)
+### [HPV vaccination linked to lower risk of pregnancy complications | The Business Guardian - newspaper](https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmVkV3FDWEFKVGxjV3NDMVI2WWZfV0xHSlFNZDBkYWpZUlNHb1BCTm5SZFdteEs1MzZuQlQ0RU9laXYwX1RTRXdRSlNTMDg5dllzZ2g5ZDVWVkJheXRfWGJmRkJNUHZaWTNwdUhEeXhzTXpYM0ZQMHVaMUx4d2VUMnhrbkZzQjN2bnpXWHktdWMyWmdYQ0s5cmpVTlhhY3BzWU5TVm1Ua1BVVFFoNDZDcnc2N0twRW9Id2p3SFg2TFpKemtkMmc?oc=5)
 
-2026-10-07 <span class="news-indication-tag">RA</span>
+2026-10-09 <span class="news-indication-tag">RA</span>
 
-Source: [WION](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMElJM3lzUkI5TGRVbkFPRDJHMWJqWURlODhkSGZTNFZZVXdVd0psdUJSSHVSbmNrNnF1WUhLaFYyZ1FDRHpIUWJEU21FMFAxTmxHZmsxcW5Zd2VBQWJRb0xycDFsd251Mkx5YUg0UERmNjBlelM0ME1oOTJ6REdicFpLcG5qYXlqcWJQOHNNSkNFVnZhREFCc3NMd2poNUFySWlabjVUMDNwaDdOWVJCU1ZkSlo5TVNKRHpZ0gHAAUFVX3lxTFByLWV6U21EbnEzZUt6S1RxVGZPcURfMEx1R1BrbHJxRmVHeFJRT2VvTjhZYUpoT1FHcHhnYW50ZmJmSGlZdFhIcHJQc1BSVi1Lc1VObm1Pc05EX08wbUt5eFlCMXRNMWx2YjlWclczZi00X0lpb2xVV1hlSDJkYUlQMXNsZmVsZkl4MmE0S3JkaXpsWEpJb1Z0UllLVjk3QWZ2eFZUanZDcjZDaGh6a1BsdjZFQVpqLXdnN2JUVEFVSw?oc=5)
+Source: [Magzter](https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmVkV3FDWEFKVGxjV3NDMVI2WWZfV0xHSlFNZDBkYWpZUlNHb1BCTm5SZFdteEs1MzZuQlQ0RU9laXYwX1RTRXdRSlNTMDg5dllzZ2g5ZDVWVkJheXRfWGJmRkJNUHZaWTNwdUhEeXhzTXpYM0ZQMHVaMUx4d2VUMnhrbkZzQjN2bnpXWHktdWMyWmdYQ0s5cmpVTlhhY3BzWU5TVm1Ua1BVVFFoNDZDcnc2N0twRW9Id2p3SFg2TFpKemtkMmc?oc=5)
+
+---
+
+### [FDA-approved epilepsy drug may help reverse osteoarthritis damage](https://news.google.com/rss/articles/CBMib0FVX3lxTE51VktSSDhsY1NyanNOWlZVczNrOVU5aXVzQ0VlZ0duYVhTbDB0UWxYcEVnTmJUQlpTVUw4WC00ekxfR3BPSmhWX19MUlNDM2RoaldLNUh1cm01dGI5LVFXeVZ0aml4N2dHX1V1WTg4NA?oc=5)
+
+2026-10-08 <span class="news-drug-tag">Lacosamide</span> <span class="news-indication-tag">dama</span> <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE51VktSSDhsY1NyanNOWlZVczNrOVU5aXVzQ0VlZ0duYVhTbDB0UWxYcEVnTmJUQlpTVUw4WC00ekxfR3BPSmhWX19MUlNDM2RoaldLNUh1cm01dGI5LVFXeVZ0aml4N2dHX1V1WTg4NA?oc=5)
+
+---
+
+### [HPV Vaccine Before Pregnancy Linked to Lower Preterm Birth Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTFCLVpJMjdwbVNIejN5RUJYZ0lYLURHVy1OSnNQaHltNzh0T2VrZnRXLV94bk9Ua29kcXk1clVybm4tOUdmbnQ3djR5amx1aS1vM1hkRkdZY3BPNTBWS2ExWlRfY2s1TXBFMHZ6ODBqSElDT085Q3RDVUl0OUV1OVRRaXQ4MGxkcWV1TGIxQ3NKMGNkazVnN1ktQ2t0RVZIa2RNMmRTZHlHS296el80Z2MzOUo?oc=5)
+
+2026-10-08 <span class="news-indication-tag">RA</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTFCLVpJMjdwbVNIejN5RUJYZ0lYLURHVy1OSnNQaHltNzh0T2VrZnRXLV94bk9Ua29kcXk1clVybm4tOUdmbnQ3djR5amx1aS1vM1hkRkdZY3BPNTBWS2ExWlRfY2s1TXBFMHZ6ODBqSElDT085Q3RDVUl0OUV1OVRRaXQ4MGxkcWV1TGIxQ3NKMGNkazVnN1ktQ2t0RVZIa2RNMmRTZHlHS296el80Z2MzOUo?oc=5)
 
 ---
 
@@ -60,6 +76,14 @@ Source: [WION](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMElJM3lzUkI5
 2026-10-07 <span class="news-indication-tag">osteoarthritis</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BOc0VSWnpTQ2NuVjBydVZvVzhmTzZtR2YyVWs4OEdkMUVEdjJCZ3ZGSTQ3NjhfUWxjbnZRbmJ4em9Lekt1LXNQRDBveFViS1FVZThzRmMtN1d2dVR0cDBsb3d4dFlGd01FRFNGdE0zMzZfTnFUQ2xCelh5TGNMR1BHVFlrYjBXeXNWMTlwRjBaMVNXb080TWtQaF9WRC1TeUN0S1JRaUtkQmhteV9pZFA3d0NXMmJNN3RQZkN2NG1qUWRXS00yQ3pSR0NuZm1YWVdaQnQ5amZUV05HTlluTnpoZEzSAeoBQVVfeXFMTVd6YWsxd2tEb2Uzc01LOTZoQ25nZ1MzTlZsamlzODc2cm45T2JnYTIzVmRCZU0tVmtVX2lTbEVaMTFPNmdyTTV1eVJyeWdNdmZOcnNxTVFvM3dXTXMzdG1KOVJtQXpnNmRaZnFJYkpUSnI3UTlHNHg0OUR0cXd0OHhaWkd5dkNhakNmSGV0bVdmVEJsVjVZSDB1UlVWdm9rRjBqLVp0TVo2RlhjbUFrNGtmUFNsZXRoM0tVdW05Wk1DQ1lBMmFBNVBFVW50WUdYV1FYc1RmZUJTbmlXdl95STVmWGN3emRfdF93?oc=5)
+
+---
+
+### [CDC Warns on Rise in Deadly Fungal Infections That Spread to the Brain - MedPage Today](https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjVvclhIWEFFYmxfTHVpTW5fNlBkMldZdEZLZ3IxZGNKUVhvMUJ4QTF1elNzU0JWQ2hseTZ1RzFoekhkSEpIaGpwSGVwVF9INHU5ajNOT2NWRUFJQklFMDNkdjI1OGNKN0FjaUItNG10bHFaX29tQzAxb1BPSExEVlV1Tmc?oc=5)
+
+2026-10-06 <span class="news-indication-tag">RA</span>
+
+Source: [MedPage Today](https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjVvclhIWEFFYmxfTHVpTW5fNlBkMldZdEZLZ3IxZGNKUVhvMUJ4QTF1elNzU0JWQ2hseTZ1RzFoekhkSEpIaGpwSGVwVF9INHU5ajNOT2NWRUFJQklFMDNkdjI1OGNKN0FjaUItNG10bHFaX29tQzAxb1BPSExEVlV1Tmc?oc=5)
 
 ---
 
