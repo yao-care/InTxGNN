@@ -3,7 +3,7 @@ layout: default
 title: "vascular disease News"
 parent: Health News
 nav_exclude: true
-description: "Health news about vascular disease. 1 articles, 3 related drugs."
+description: "Health news about vascular disease. 2 articles, 3 related drugs."
 permalink: /news/vascular-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vascular-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about vascular disease?">
-<strong>vascular disease</strong> currently has <strong>1 news articles</strong> and 3 related drugs.
+<strong>vascular disease</strong> currently has <strong>2 news articles</strong> and 3 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ This page brings together the latest health news about “vascular disease” an
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [KT-CBHNET: a spatio-temporal deep learning framework for interpretable ECG signal classification for cardiovascular disease prediction](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zcGlvS3l2ZGVSX2tNSmx6YWFYSWVHajhjQnZ1OGR3NjBOQ2VSQk5VOUxGMlVrM00teDVta3RBWWZsRjlIbXljYTY2T3hudkxjb2s1ZmZHZHFVYng0dHNB?oc=5)
+
+2026-10-09
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zcGlvS3l2ZGVSX2tNSmx6YWFYSWVHajhjQnZ1OGR3NjBOQ2VSQk5VOUxGMlVrM00teDVta3RBWWZsRjlIbXljYTY2T3hudkxjb2s1ZmZHZHFVYng0dHNB?oc=5)
+
+---
 
 ### [CATIE | Canadian study links cardiovascular disease to declining brain health - European AIDS Treatment Group](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaldUWmF2TG9WQjg0Qmt5Mml0RkhULVVVZ1UtZ1JOakYxb3Y2TzhwamNLc3RUNVUzNzNqVnBpMzBNeWdONHVRRW9WVmkzbDFQeXR1QngzcFZUbWNuaWNkQ3BPNlk2X2xhdnBUY3VLMTItX0N5Z1Zsb3l1ZEpCeDlwS25HQzRpTU5QOW85M1JqUVBNUFYwdV9mUXd5YU1PVnlHSDlqNGxXd1MwUQ?oc=5)
 
