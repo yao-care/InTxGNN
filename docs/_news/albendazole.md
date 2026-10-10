@@ -14,7 +14,7 @@ permalink: /news/albendazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
+<strong>Albendazole</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (10)
 
 ### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
 
@@ -58,19 +58,11 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZuMDQ
 
 ---
 
-### [Exploring the science of keeping your mind sharp as you age](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWRyTEJveXFmWVlVN09tMHpuVUFINERENlhfVHB5TzRCWWZIc1ZMSy0yaVFtT1Zha2FTbUV2MmRGNVJtMTA5VlJGX3VFTjNubnpERGpGcjZ2YkZmbTFJZ2Z6NkQtcXVlZnJ5Qy1MbVZudFlMS1pkLU42Rm43eHJTVnFBMWlRSlJPWFVVb3ByTXlCMU5mbXkwelU5UFBiZDktZ3hvX0RkcDJZdUQzN0hsRQ?oc=5)
-
-2026-10-09 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
-
-Source: [PBS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWRyTEJveXFmWVlVN09tMHpuVUFINERENlhfVHB5TzRCWWZIc1ZMSy0yaVFtT1Zha2FTbUV2MmRGNVJtMTA5VlJGX3VFTjNubnpERGpGcjZ2YkZmbTFJZ2Z6NkQtcXVlZnJ5Qy1MbVZudFlMS1pkLU42Rm43eHJTVnFBMWlRSlJPWFVVb3ByTXlCMU5mbXkwelU5UFBiZDktZ3hvX0RkcDJZdUQzN0hsRQ?oc=5)
-
----
-
-### [C/Can Advances the Implementation of Global Breast Cancer Guidelines](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
+### [Breast cancer can show up on the skin. Here's what to know - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMigAFBVV95cUxQblhIdFdMbmFQYVVBR09EUEFueXpmM2MxLVRlWkFTWTlJdE05TGotcWpOVEF6UF8tSVoxMUxzMmFvLTdGZU5wc2xXeEY4ckw4NkZXLWpfb1VqdTV4MXpHSlpXMFdjbHhHMUxidEVyb3BSczNxRkRZTU02ajBVcl9Qc9IBhgFBVV95cUxNNm1vam44TnVRRDVhWHVJVFNBVzdlWlpFUXlBUzViNC1RQVpoaU1FRndMbDR4TkhVd0tIa0U2eTlhR1NuWC1Rc2VVbTN6cEJaaHNwSUJwWm5CWjJweVNyNGZXT3dZSWhHcE9YQnplNm81VkEtMmhMSWpHUW9tdmYtQnA3MGsyZw?oc=5)
 
 2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMigAFBVV95cUxQblhIdFdMbmFQYVVBR09EUEFueXpmM2MxLVRlWkFTWTlJdE05TGotcWpOVEF6UF8tSVoxMUxzMmFvLTdGZU5wc2xXeEY4ckw4NkZXLWpfb1VqdTV4MXpHSlpXMFdjbHhHMUxidEVyb3BSczNxRkRZTU02ajBVcl9Qc9IBhgFBVV95cUxNNm1vam44TnVRRDVhWHVJVFNBVzdlWlpFUXlBUzViNC1RQVpoaU1FRndMbDR4TkhVd0tIa0U2eTlhR1NuWC1Rc2VVbTN6cEJaaHNwSUJwWm5CWjJweVNyNGZXT3dZSWhHcE9YQnplNm81VkEtMmhMSWpHUW9tdmYtQnA3MGsyZw?oc=5)
 
 ---
 
@@ -90,14 +82,6 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNe
 
 ---
 
-### [People Who Want Healthier Brains As They Age Usually Avoid 9 Everyday Things, Says Neurologist](https://news.google.com/rss/articles/CBMipwFBVV95cUxQU08wS0Nwa0lQWGhSNUhVaHRoMXZJZUZDMi1rX2R1VkZaMkVVTDhHbEVTQmstXzV1QXk2TnNvTEZGLXpPZzBFYWU3REd2cHpUNFptQTdwVktrUm5WX2pEQm90REltSDVNQ1NvazZTT0dlNW5henoyX25Qa2tHTWNqSWZDaHlqZTJta1owZDI1WDloNl9qMFIwdzBSV1VSUlpNQ0dFdUhqRQ?oc=5)
-
-2026-10-08 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
-
-Source: [YourTango](https://news.google.com/rss/articles/CBMipwFBVV95cUxQU08wS0Nwa0lQWGhSNUhVaHRoMXZJZUZDMi1rX2R1VkZaMkVVTDhHbEVTQmstXzV1QXk2TnNvTEZGLXpPZzBFYWU3REd2cHpUNFptQTdwVktrUm5WX2pEQm90REltSDVNQ1NvazZTT0dlNW5henoyX25Qa2tHTWNqSWZDaHlqZTJta1owZDI1WDloNl9qMFIwdzBSV1VSUlpNQ0dFdUhqRQ?oc=5)
-
----
-
 ### [NCCN collaborates with global organizations to launch tailored cancer guidelines for Philippines](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0ZzeDI5S2JQNEh0UWY2SVhPbzNONFVZTnBGYnhMeG40RU5YaGxSMnB1STF2TVVINmtQVS1fc3hOTXA0RHYyS2lXeU83anRWTDlKbDEyVWZQbkVFaUpDM2szSU43R0gwTWJHM0dwNUY1SGI2TEtLVERaZEtQX3ZaREhnRG5uamdXSjBtZzlMU2l3bzFZZy0tT0pLdF9MWE1uVUtlSllwaXdaQy1yT1I3clhlMmRFalh5Yy10T0ZRTGJJbVUtRDlYU2dUVkNLWVVMZ0tMcWNYRkRNVTBW?oc=5)
 
 2026-10-08 <span class="news-indication-tag">cancer</span>
@@ -114,19 +98,19 @@ Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cU
 
 ---
 
-### [Brain tumor segmentation using particle swarm optimized histogram equalization and a VGG19 based U-Net](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zX3B4N0Q5TmVRV0o0bWEycTJsZGRhYXpZelh4dVQ4Rk83RjA2X3VpZUxIWE8wZzQ0UFBBMjMxTjZaSUhyd3RMOTF1dmpsTmVSNW9CdWh2ak9mb0dmaF9v?oc=5)
-
-2026-10-07 <span class="news-indication-tag">tumor</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zX3B4N0Q5TmVRV0o0bWEycTJsZGRhYXpZelh4dVQ4Rk83RjA2X3VpZUxIWE8wZzQ0UFBBMjMxTjZaSUhyd3RMOTF1dmpsTmVSNW9CdWh2ak9mb0dmaF9v?oc=5)
-
----
-
 ### [Scientists discover a novel strategy to unmask cancer cells in high-risk neuroblastoma](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjExVFUtaXN2bkFfTC1OOW5qLWU1dUYtWWwxVDRNeGtFLVhkdlZLeXA1cWg3V0xQNm14b2w1VGZlNzRkeFpNOTY3UENLWmFVUHdlLXI4OXYwM0QwNEpkQXk4RDJ0QjVORkNVSWtJRng1TnpoU21kRVRqV1dNeFFMTU8zYVdCaEpSSktyTUk5WGxHdV9MUmcyT282eWR1d1VCYUxqcGV3czlkN0FPcVJVMksxdnZXZ00yaUlLM1pYUU1pR2ZXM0JDM3poOHVEczQ?oc=5)
 
 2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">neuroblastoma</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjExVFUtaXN2bkFfTC1OOW5qLWU1dUYtWWwxVDRNeGtFLVhkdlZLeXA1cWg3V0xQNm14b2w1VGZlNzRkeFpNOTY3UENLWmFVUHdlLXI4OXYwM0QwNEpkQXk4RDJ0QjVORkNVSWtJRng1TnpoU21kRVRqV1dNeFFMTU8zYVdCaEpSSktyTUk5WGxHdV9MUmcyT282eWR1d1VCYUxqcGV3czlkN0FPcVJVMksxdnZXZ00yaUlLM1pYUU1pR2ZXM0JDM3poOHVEczQ?oc=5)
+
+---
+
+### [Research Highlights Importance of Brain Health and Ageing - India News Network](https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhsbDU4NEUxTlZuLVFUcXZiMW55LXE2MU5KX2RDRHVlcC1fa2x5UlpuTllZUy05ck5ncG96QzhZNjNpWEljVk9OVlVId25MTmJpdnpzQmd0VU8tUHQ5cG15WGZCQjYxSWZ4V1c5YzFKQzJIalJQQzlESl9GaUVmS3NqMk1nM1lGUjFON3BOVzdZOGJFcEtnZ1Zidw?oc=5)
+
+2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
+
+Source: [India News Network](https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhsbDU4NEUxTlZuLVFUcXZiMW55LXE2MU5KX2RDRHVlcC1fa2x5UlpuTllZUy05ck5ncG96QzhZNjNpWEljVk9OVlVId25MTmJpdnpzQmd0VU8tUHQ5cG15WGZCQjYxSWZ4V1c5YzFKQzJIalJQQzlESl9GaUVmS3NqMk1nM1lGUjFON3BOVzdZOGJFcEtnZ1Zidw?oc=5)
 
 ---
 

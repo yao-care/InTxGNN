@@ -14,7 +14,7 @@ permalink: /news/bicalutamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Bicalutamide?">
-<strong>Bicalutamide</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Bicalutamide</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Bicalutamide with the latest
 <li>Ambras type hypertrichosis universalis congenita (99.6%)</li>
 <li>syndrome with a Dandy-Walker malformation as major feature (99.6%)</li>
 <li>isolated genetic hair shaft abnormality (99.5%)</li>
-<li class="indication-matched">leprosy (99.4%)<span class="indication-tag">📰 leprosy</span></li>
+<li>leprosy (99.4%)</li>
 <li>multiple endocrine neoplasia (99.2%)</li>
 <li class="indication-matched">pulmonary hypertension (99.2%)<span class="indication-tag">📰 pulmonary hypertension</span></li>
 <li class="indication-matched">female breast carcinoma (99.1%)<span class="indication-tag">📰 breast cancer</span></li>
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Bicalutamide with the latest
 <p><a href="{{ '/drugs/bicalutamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (8)
 
 ### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
 
@@ -58,19 +58,11 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZuMDQ
 
 ---
 
-### [C/Can Advances the Implementation of Global Breast Cancer Guidelines](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
+### [Breast cancer can show up on the skin. Here's what to know - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMigAFBVV95cUxQblhIdFdMbmFQYVVBR09EUEFueXpmM2MxLVRlWkFTWTlJdE05TGotcWpOVEF6UF8tSVoxMUxzMmFvLTdGZU5wc2xXeEY4ckw4NkZXLWpfb1VqdTV4MXpHSlpXMFdjbHhHMUxidEVyb3BSczNxRkRZTU02ajBVcl9Qc9IBhgFBVV95cUxNNm1vam44TnVRRDVhWHVJVFNBVzdlWlpFUXlBUzViNC1RQVpoaU1FRndMbDR4TkhVd0tIa0U2eTlhR1NuWC1Rc2VVbTN6cEJaaHNwSUJwWm5CWjJweVNyNGZXT3dZSWhHcE9YQnplNm81VkEtMmhMSWpHUW9tdmYtQnA3MGsyZw?oc=5)
 
 2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
-
----
-
-### [Multibacillary Leprosy Presenting as Chronic Progressive Polyneuropathy Initially Diagnosed as Probable Chronic Inflammatory Demyelinating Polyneuropathy (CIDP): A Diagnostic Pitfall - The Cureus Journal of Medical Science](https://news.google.com/rss/articles/CBMivwJBVV95cUxQV2g4VU5kLU1sOHBrRXRQRzRuSjNKdk9ud2FNM3YxYTFIdDBfcEhRU0U0MU1JbGJVRmp3YklYa3FBbmZSTzFLSzFNTVd3WGt2SG5SenlYR1hfTUlhNl9FMmJMTUQ4V2FTUTJGNUp0QjVlenQyT1A2MDNsVkFMQWtHaW9XV3ZFdG1NTVVGVUFyUEZUOG1xX0dENE5xaGxjSDBWS1B3anEteTM4TDFUUDZtRE5OOUo5Yk92MVk1U1k4ekNySXpXSzVoLTFKRHZGUjJ0NjhnWW1abEZRYXRoVXBLM2N6U25CeE5lYUFYQ1prZDktejdvbGpuT2Y0dE5mb3dFd1BrNUtfVWd3MHFTS0NYMTRRSkJUN0VlSjFxX1gyZm1pZER5Yjh2MmtCVExNTm5OeEtpSUNsT2M2emdOQVVv?oc=5)
-
-2026-10-09 <span class="news-indication-tag">leprosy</span>
-
-Source: [The Cureus Journal of Medical Science](https://news.google.com/rss/articles/CBMivwJBVV95cUxQV2g4VU5kLU1sOHBrRXRQRzRuSjNKdk9ud2FNM3YxYTFIdDBfcEhRU0U0MU1JbGJVRmp3YklYa3FBbmZSTzFLSzFNTVd3WGt2SG5SenlYR1hfTUlhNl9FMmJMTUQ4V2FTUTJGNUp0QjVlenQyT1A2MDNsVkFMQWtHaW9XV3ZFdG1NTVVGVUFyUEZUOG1xX0dENE5xaGxjSDBWS1B3anEteTM4TDFUUDZtRE5OOUo5Yk92MVk1U1k4ekNySXpXSzVoLTFKRHZGUjJ0NjhnWW1abEZRYXRoVXBLM2N6U25CeE5lYUFYQ1prZDktejdvbGpuT2Y0dE5mb3dFd1BrNUtfVWd3MHFTS0NYMTRRSkJUN0VlSjFxX1gyZm1pZER5Yjh2MmtCVExNTm5OeEtpSUNsT2M2emdOQVVv?oc=5)
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMigAFBVV95cUxQblhIdFdMbmFQYVVBR09EUEFueXpmM2MxLVRlWkFTWTlJdE05TGotcWpOVEF6UF8tSVoxMUxzMmFvLTdGZU5wc2xXeEY4ckw4NkZXLWpfb1VqdTV4MXpHSlpXMFdjbHhHMUxidEVyb3BSczNxRkRZTU02ajBVcl9Qc9IBhgFBVV95cUxNNm1vam44TnVRRDVhWHVJVFNBVzdlWlpFUXlBUzViNC1RQVpoaU1FRndMbDR4TkhVd0tIa0U2eTlhR1NuWC1Rc2VVbTN6cEJaaHNwSUJwWm5CWjJweVNyNGZXT3dZSWhHcE9YQnplNm81VkEtMmhMSWpHUW9tdmYtQnA3MGsyZw?oc=5)
 
 ---
 
@@ -95,14 +87,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0Zz
 2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
-
----
-
-### [Brain tumor segmentation using particle swarm optimized histogram equalization and a VGG19 based U-Net](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zX3B4N0Q5TmVRV0o0bWEycTJsZGRhYXpZelh4dVQ4Rk83RjA2X3VpZUxIWE8wZzQ0UFBBMjMxTjZaSUhyd3RMOTF1dmpsTmVSNW9CdWh2ak9mb0dmaF9v?oc=5)
-
-2026-10-07 <span class="news-indication-tag">tumor</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zX3B4N0Q5TmVRV0o0bWEycTJsZGRhYXpZelh4dVQ4Rk83RjA2X3VpZUxIWE8wZzQ0UFBBMjMxTjZaSUhyd3RMOTF1dmpsTmVSNW9CdWh2ak9mb0dmaF9v?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ebastine/
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
+<strong>Ebastine</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <li>coronary artery disease (99.2%)</li>
 <li>myocardial ischemia (99.1%)</li>
 <li>anomalous left coronary artery from the pulmonary artery (99.0%)</li>
-<li class="indication-matched">leprosy (98.9%)<span class="indication-tag">📰 leprosy</span></li>
+<li>leprosy (98.9%)</li>
 <li>candidiasis (98.7%)</li>
 <li>pneumocystosis (98.7%)</li>
 <li>hypertrichosis (disease) (98.5%)</li>
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (3)
 
 ### [The heart attack we see, the brain we don’t | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXY2UnJpdzVKZnVSMmZ1OVhDU0NjcktZbmV5d3ZCMmZ4V21NSTE1LU1yNERSOVhkRGJraTNzeG5UeFlMS2pXU3c0S1FNMGFyQnp5VjRncVRDcnVQQXhUcE9XWmNhMjhyVFNnV01MOEw2TUExR0k1cGU5OG5Fb0ZlOEhVVGtFRlkwVlNMWEtGSllHcmFzZ1dlbHZqOFltOXI4RnJ4ZGVocXlUUk1OVzlKcmlUdEhLVGlzX1HSAb8BQVVfeXFMUF8wQmJBSkhPcGNubklzeTZRYVJEYl9HVlFYVUswTW9KeTdsMGNwY0tSM3VCTnAtLXVCLWgzbW1Hc3JzR0pyOTNmbFpGYTJ5XzJIT3FLcVlXUFJmNU1ZVmh2Mk8wLWhCSGxrS05Ick1jOVdkbXM5OXh4Zk9lcXdWOURxNmR4LWI4WWtpcTZzOElkemdzTjJMbTEwYzEza3l5WFY5aWRSV3F5Sy1kUi1LZTBCdFlxdHlZT1ZSMHl1OUU?oc=5)
 
@@ -50,27 +50,11 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb
 
 ---
 
-### [Multibacillary Leprosy Presenting as Chronic Progressive Polyneuropathy Initially Diagnosed as Probable Chronic Inflammatory Demyelinating Polyneuropathy (CIDP): A Diagnostic Pitfall - The Cureus Journal of Medical Science](https://news.google.com/rss/articles/CBMivwJBVV95cUxQV2g4VU5kLU1sOHBrRXRQRzRuSjNKdk9ud2FNM3YxYTFIdDBfcEhRU0U0MU1JbGJVRmp3YklYa3FBbmZSTzFLSzFNTVd3WGt2SG5SenlYR1hfTUlhNl9FMmJMTUQ4V2FTUTJGNUp0QjVlenQyT1A2MDNsVkFMQWtHaW9XV3ZFdG1NTVVGVUFyUEZUOG1xX0dENE5xaGxjSDBWS1B3anEteTM4TDFUUDZtRE5OOUo5Yk92MVk1U1k4ekNySXpXSzVoLTFKRHZGUjJ0NjhnWW1abEZRYXRoVXBLM2N6U25CeE5lYUFYQ1prZDktejdvbGpuT2Y0dE5mb3dFd1BrNUtfVWd3MHFTS0NYMTRRSkJUN0VlSjFxX1gyZm1pZER5Yjh2MmtCVExNTm5OeEtpSUNsT2M2emdOQVVv?oc=5)
-
-2026-10-09 <span class="news-indication-tag">leprosy</span>
-
-Source: [The Cureus Journal of Medical Science](https://news.google.com/rss/articles/CBMivwJBVV95cUxQV2g4VU5kLU1sOHBrRXRQRzRuSjNKdk9ud2FNM3YxYTFIdDBfcEhRU0U0MU1JbGJVRmp3YklYa3FBbmZSTzFLSzFNTVd3WGt2SG5SenlYR1hfTUlhNl9FMmJMTUQ4V2FTUTJGNUp0QjVlenQyT1A2MDNsVkFMQWtHaW9XV3ZFdG1NTVVGVUFyUEZUOG1xX0dENE5xaGxjSDBWS1B3anEteTM4TDFUUDZtRE5OOUo5Yk92MVk1U1k4ekNySXpXSzVoLTFKRHZGUjJ0NjhnWW1abEZRYXRoVXBLM2N6U25CeE5lYUFYQ1prZDktejdvbGpuT2Y0dE5mb3dFd1BrNUtfVWd3MHFTS0NYMTRRSkJUN0VlSjFxX1gyZm1pZER5Yjh2MmtCVExNTm5OeEtpSUNsT2M2emdOQVVv?oc=5)
-
----
-
 ### [Pregnancy Complications Linked to Subsequent Risk for Cardiometabolic-Renal Conditions - The Cardiology Advisor](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT0tGbVNzXzdWT1hNOVFMVElRejJqZS1McjlWUnlkeXhiTXowNlpJUnZ2MGM4ZUtaWk1sbDR4clVhREZIWTN3S1RSQU8zaTMxVEJ3V3NzVkMzSEs5clQ0YXJiSURHR0FZdjZkcmswdldfV2dJQ0hiQ1VTUlVjT01sUWVyNHdFdFF5NXFvd0VHVGl1LVVmdlJRN0J5elpncmRhTlVqTmtUQmhHWmhKYlBLX3BwVGlCejlneGpybkM4dUk5S2FBbldrWg?oc=5)
 
 2026-10-09 <span class="news-indication-tag">cardiovascular</span>
 
 Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT0tGbVNzXzdWT1hNOVFMVElRejJqZS1McjlWUnlkeXhiTXowNlpJUnZ2MGM4ZUtaWk1sbDR4clVhREZIWTN3S1RSQU8zaTMxVEJ3V3NzVkMzSEs5clQ0YXJiSURHR0FZdjZkcmswdldfV2dJQ0hiQ1VTUlVjT01sUWVyNHdFdFF5NXFvd0VHVGl1LVVmdlJRN0J5elpncmRhTlVqTmtUQmhHWmhKYlBLX3BwVGlCejlneGpybkM4dUk5S2FBbldrWg?oc=5)
-
----
-
-### [EU launches network to harness health data and AI for cardiovascular care](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHlRelppSkVXUTRiZ2ZuUWhyZS1YYk1GdlMyUXdjcWh0RUZxUFFoaTlhRGg5TzVvaVlERmpjeEV2b3h5bF9MMTJvTExucjhwQzlHTERrQk9rNENRZlctdXRvc0ZEa2RxTGpZZ2pDd3NHZ1dJbVdNMm8tRmtwOGtDUkNoWXRXbENLUzBDb1dOTTVtQjdsaVhIcnM2VVFjQ1Ffcm5yY0ZDVEFydjZLLWhqdTduTzd0T09FbVVvZzV3?oc=5)
-
-2026-10-06 <span class="news-indication-tag">cardiovascular</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHlRelppSkVXUTRiZ2ZuUWhyZS1YYk1GdlMyUXdjcWh0RUZxUFFoaTlhRGg5TzVvaVlERmpjeEV2b3h5bF9MMTJvTExucjhwQzlHTERrQk9rNENRZlctdXRvc0ZEa2RxTGpZZ2pDd3NHZ1dJbVdNMm8tRmtwOGtDUkNoWXRXbENLUzBDb1dOTTVtQjdsaVhIcnM2VVFjQ1Ffcm5yY0ZDVEFydjZLLWhqdTduTzd0T09FbVVvZzV3?oc=5)
 
 ---
 

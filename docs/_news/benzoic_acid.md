@@ -14,7 +14,7 @@ permalink: /news/benzoic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Benzoic Acid?">
-<strong>Benzoic Acid</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Benzoic Acid</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Benzoic Acid with the latest
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>bronchitis (100.0%)</li>
 <li>severe nonproliferative diabetic retinopathy (100.0%)</li>
-<li>diabetic retinopathy (99.8%)</li>
+<li class="indication-matched">diabetic retinopathy (99.8%)<span class="indication-tag">📰 diabetic retinopathy</span></li>
 <li>dry eye syndrome (99.8%)</li>
 <li>palmar fibromatosis (99.8%)</li>
 <li>Ledderhose disease (99.8%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Benzoic Acid with the latest
 <p><a href="{{ '/drugs/benzoic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Ahead of World Sight Day, Vision Eye Centre Warns One in Five Diabetics Already Show Eye Damage at First Screening - First India](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNVRELXRURUVZcDZyOUx2ZlRwSTVMbjZHTk1Vb0pIbnNmV1FGVzJWeDJ3Wl9xTUM2aDNlX1RVbDZjdFkwVVZFbDBveHJPcTI0Unl3LVAzUFBMd1NxSGJtbjhYRnVsYnRsMU1fLTdHRm1pX2VKWnRVSGN4U1Jld0UyRXpIYjU4ZG9hNWhibEN4aTFEU25LRHM2NFlaTWxzWm8yTW1nOGhLbXY1UFlEaXlteDRWajBtYkxzNG5uYWhQekNlOFN2TUFVeGE4d0FCY3NoS05tejFxS1UwTlRUTWstbjhBTkUwNWZFRV81b3Z6RUkwUEdkOFBpY01ueFU1QQ?oc=5)
+
+2026-10-08 <span class="news-indication-tag">diabetic retinopathy</span>
+
+Source: [First India](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNVRELXRURUVZcDZyOUx2ZlRwSTVMbjZHTk1Vb0pIbnNmV1FGVzJWeDJ3Wl9xTUM2aDNlX1RVbDZjdFkwVVZFbDBveHJPcTI0Unl3LVAzUFBMd1NxSGJtbjhYRnVsYnRsMU1fLTdHRm1pX2VKWnRVSGN4U1Jld0UyRXpIYjU4ZG9hNWhibEN4aTFEU25LRHM2NFlaTWxzWm8yTW1nOGhLbXY1UFlEaXlteDRWajBtYkxzNG5uYWhQekNlOFN2TUFVeGE4d0FCY3NoS05tejFxS1UwTlRUTWstbjhBTkUwNWZFRV81b3Z6RUkwUEdkOFBpY01ueFU1QQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
