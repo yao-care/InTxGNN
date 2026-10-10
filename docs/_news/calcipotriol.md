@@ -14,7 +14,7 @@ permalink: /news/calcipotriol/
 ---
 
 <p class="key-answer" data-question="What news is there about Calcipotriol?">
-<strong>Calcipotriol</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Calcipotriol</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Calcipotriol with the latest
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (7)
+
+### [C/Can Advances the Implementation of Global Breast Cancer Guidelines](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
+
+2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
+
+---
 
 ### [Beyond hormone therapy: what’s the next wave in prostate cancer?](https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRE9yVzVGR2ZJOWczYWs5cDktcmk3bzBjWEJRekN2dHRua1FMM3IzeFhpdE9PVGdralZJdWp1UWRPVnFTNWloRHQxa0ZibjFnU2lmNEpudGdESHllTElwWngzeUNrdjRRVlhVaQ?oc=5)
 
@@ -50,19 +58,19 @@ Source: [Labiotech.eu](https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRE9y
 
 ---
 
+### [Scared about testing for breast cancer? Oncologist debunks 5 myths that can stop women from getting the right care | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
+
+2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
+
+---
+
 ### [NCCN collaborates with global organizations to launch tailored cancer guidelines for Philippines](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0ZzeDI5S2JQNEh0UWY2SVhPbzNONFVZTnBGYnhMeG40RU5YaGxSMnB1STF2TVVINmtQVS1fc3hOTXA0RHYyS2lXeU83anRWTDlKbDEyVWZQbkVFaUpDM2szSU43R0gwTWJHM0dwNUY1SGI2TEtLVERaZEtQX3ZaREhnRG5uamdXSjBtZzlMU2l3bzFZZy0tT0pLdF9MWE1uVUtlSllwaXdaQy1yT1I3clhlMmRFalh5Yy10T0ZRTGJJbVUtRDlYU2dUVkNLWVVMZ0tMcWNYRkRNVTBW?oc=5)
 
 2026-10-08 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0ZzeDI5S2JQNEh0UWY2SVhPbzNONFVZTnBGYnhMeG40RU5YaGxSMnB1STF2TVVINmtQVS1fc3hOTXA0RHYyS2lXeU83anRWTDlKbDEyVWZQbkVFaUpDM2szSU43R0gwTWJHM0dwNUY1SGI2TEtLVERaZEtQX3ZaREhnRG5uamdXSjBtZzlMU2l3bzFZZy0tT0pLdF9MWE1uVUtlSllwaXdaQy1yT1I3clhlMmRFalh5Yy10T0ZRTGJJbVUtRDlYU2dUVkNLWVVMZ0tMcWNYRkRNVTBW?oc=5)
-
----
-
-### [Mission success: Australian cancer research returns from space](https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXp3Ny1wZzNfNU0zYm1UMzFfTXhJay1xM041MGowS0pXWThYbHl5bHJpOUxnLWx4cDlPYXR1ZWVzQU80WXRCTGM3UmdFbUd0WlZINENRUEFFQ2hxMENiYW1BajdMRXp2dmxmYnVEUXhLWjF2cWFRYmdaWWs1Y3RhdHhERE1jYWg4cm1FMXlfN2laWGJjbGMwWG9yWGxwVnRmX09BZEFtQk50Rnh4cEE?oc=5)
-
-2026-10-08 <span class="news-indication-tag">cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXp3Ny1wZzNfNU0zYm1UMzFfTXhJay1xM041MGowS0pXWThYbHl5bHJpOUxnLWx4cDlPYXR1ZWVzQU80WXRCTGM3UmdFbUd0WlZINENRUEFFQ2hxMENiYW1BajdMRXp2dmxmYnVEUXhLWjF2cWFRYmdaWWs1Y3RhdHhERE1jYWg4cm1FMXlfN2laWGJjbGMwWG9yWGxwVnRmX09BZEFtQk50Rnh4cEE?oc=5)
 
 ---
 
@@ -82,35 +90,11 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cU
 
 ---
 
-### [Study reveals link between mtDNA copy number and cancer severity](https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjh0QTUzOGVvU3VleUtqTVc4b1I5LU9CR2ZJOFhuTkhSYlgwbFotSzhJY3BOMmVBbWZqTTFSTmlQbHhFSERLQVp1YkRjeUJRVldZSlN6emp0X2NQMUtYOS1UbFcwZUxzNHlzZWhFaWVnc2tPUEhzVjVtZ21saG51TkxRN0hsZC0tMlhOZzBKbDFOeVg1QXJGVGpfd2g4Ym5RbVpfV05KV1ZqMnZ0RDZONmNn?oc=5)
-
-2026-10-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjh0QTUzOGVvU3VleUtqTVc4b1I5LU9CR2ZJOFhuTkhSYlgwbFotSzhJY3BOMmVBbWZqTTFSTmlQbHhFSERLQVp1YkRjeUJRVldZSlN6emp0X2NQMUtYOS1UbFcwZUxzNHlzZWhFaWVnc2tPUEhzVjVtZ21saG51TkxRN0hsZC0tMlhOZzBKbDFOeVg1QXJGVGpfd2g4Ym5RbVpfV05KV1ZqMnZ0RDZONmNn?oc=5)
-
----
-
-### [Global Breast Cancer Initiative: Milestones - European Medical Journal](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTItODlnbnllcWVTejRISkN3d1lpQ0JycFcwRkRMS2kzejhlU29HQU9SSXFKQTlLeW9iWWdBMjV4dE40SW1oekQ5UFVCVEE4QVVZZ0VRM2prbFdyZnZhLXpQWUxkSVlXSGRtZ0Y1RG52Z3FZMXk0bThaMmdFQlVCX3p1eE9PQ25ya29Lbw?oc=5)
-
-2026-10-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTItODlnbnllcWVTejRISkN3d1lpQ0JycFcwRkRMS2kzejhlU29HQU9SSXFKQTlLeW9iWWdBMjV4dE40SW1oekQ5UFVCVEE4QVVZZ0VRM2prbFdyZnZhLXpQWUxkSVlXSGRtZ0Y1RG52Z3FZMXk0bThaMmdFQlVCX3p1eE9PQ25ya29Lbw?oc=5)
-
----
-
 ### [New Weapons In The Fight Against Cancer: AI Technology To Detect Cancer Stem Cells Early - ETV Bharat](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjh4SmRVS1dWVkRvTWMwNUlEV0FSSUlJLWpqdi02cklyVmhTZnVLNkk3QWthSjBkczI2NVktcTY2YktvN1hJSWJjRktWNF9QNGJUOUVtTG05UG5PZmZ1WG1ER0l1d2Zfd0Q5VGhLblhVRGR2VkJfX0I0WEJqcDh1NHpkMWNudFJyWi11VlEtOWdGWE9UcFA4cUpLS3FIVjTSAaQBQVVfeXFMT0NobTZhTDNRc25WeDdveWxMOWZkNTFsa0xIVG5NRjY2TlAwSE1aUTk5X3ByX1ltT3pIZXRwV3BGdW5Eei1YLWUwQ2JHSUNkcUdWdzlPWVJtR3FqeURqVmg2ZWdpbWhtYWx0endtb2h0SmRhQmdSMDRLc3hWbzBfM0hwaGY0RTVNLVVxUmF6SFVGZFRGalNocF9lN2daS0U1VXpkQU4?oc=5)
 
 2026-10-05 <span class="news-indication-tag">cancer</span>
 
 Source: [ETV Bharat](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjh4SmRVS1dWVkRvTWMwNUlEV0FSSUlJLWpqdi02cklyVmhTZnVLNkk3QWthSjBkczI2NVktcTY2YktvN1hJSWJjRktWNF9QNGJUOUVtTG05UG5PZmZ1WG1ER0l1d2Zfd0Q5VGhLblhVRGR2VkJfX0I0WEJqcDh1NHpkMWNudFJyWi11VlEtOWdGWE9UcFA4cUpLS3FIVjTSAaQBQVVfeXFMT0NobTZhTDNRc25WeDdveWxMOWZkNTFsa0xIVG5NRjY2TlAwSE1aUTk5X3ByX1ltT3pIZXRwV3BGdW5Eei1YLWUwQ2JHSUNkcUdWdzlPWVJtR3FqeURqVmg2ZWdpbWhtYWx0endtb2h0SmRhQmdSMDRLc3hWbzBfM0hwaGY0RTVNLVVxUmF6SFVGZFRGalNocF9lN2daS0U1VXpkQU4?oc=5)
-
----
-
-### [Breast Cancer Awareness Month—What Women Should Know About Risk, Screening And Prevention](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYS0wYURrbWNVZFk1dDZhcnB0WjZicDBwUkRvRkFmRGJ6Qmt0Tmp4ZGVqNTNJR3Bhd2kxaWJ6Ykoxd3NxZHRDcVk5bDNKc3N0dHJ5eEdHMi1vT1JfN2tMNm80SzRZcTZXY19hOVhVMlZjbHRWd1pxUnFJNEpMVWY1Q1k1dVFxbkR4UUZDUkdzWGdPejlMR0oyZXBjVGZjYmZKeHRSS2VKZXV0VVlaYTNETENqbENVaHExeDE3b0lQNFYyNWptVmM1blVJams1eEE5TTBTbA?oc=5)
-
-2026-10-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Forbes](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYS0wYURrbWNVZFk1dDZhcnB0WjZicDBwUkRvRkFmRGJ6Qmt0Tmp4ZGVqNTNJR3Bhd2kxaWJ6Ykoxd3NxZHRDcVk5bDNKc3N0dHJ5eEdHMi1vT1JfN2tMNm80SzRZcTZXY19hOVhVMlZjbHRWd1pxUnFJNEpMVWY1Q1k1dVFxbkR4UUZDUkdzWGdPejlMR0oyZXBjVGZjYmZKeHRSS2VKZXV0VVlaYTNETENqbENVaHExeDE3b0lQNFYyNWptVmM1blVJams1eEE5TTBTbA?oc=5)
 
 ---
 

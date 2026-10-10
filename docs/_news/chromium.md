@@ -14,7 +14,7 @@ permalink: /news/chromium/
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Chromium</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 
@@ -58,11 +58,19 @@ Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE51VktS
 
 ---
 
-### [Stanford scientists discover a way to regrow cartilage and fix arthritis - The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BOc0VSWnpTQ2NuVjBydVZvVzhmTzZtR2YyVWs4OEdkMUVEdjJCZ3ZGSTQ3NjhfUWxjbnZRbmJ4em9Lekt1LXNQRDBveFViS1FVZThzRmMtN1d2dVR0cDBsb3d4dFlGd01FRFNGdE0zMzZfTnFUQ2xCelh5TGNMR1BHVFlrYjBXeXNWMTlwRjBaMVNXb080TWtQaF9WRC1TeUN0S1JRaUtkQmhteV9pZFA3d0NXMmJNN3RQZkN2NG1qUWRXS00yQ3pSR0NuZm1YWVdaQnQ5amZUV05HTlluTnpoZEzSAeoBQVVfeXFMTVd6YWsxd2tEb2Uzc01LOTZoQ25nZ1MzTlZsamlzODc2cm45T2JnYTIzVmRCZU0tVmtVX2lTbEVaMTFPNmdyTTV1eVJyeWdNdmZOcnNxTVFvM3dXTXMzdG1KOVJtQXpnNmRaZnFJYkpUSnI3UTlHNHg0OUR0cXd0OHhaWkd5dkNhakNmSGV0bVdmVEJsVjVZSDB1UlVWdm9rRjBqLVp0TVo2RlhjbUFrNGtmUFNsZXRoM0tVdW05Wk1DQ1lBMmFBNVBFVW50WUdYV1FYc1RmZUJTbmlXdl95STVmWGN3emRfdF93?oc=5)
+### [HPV Vaccine Before Pregnancy Linked to Lower Preterm Birth Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTFCLVpJMjdwbVNIejN5RUJYZ0lYLURHVy1OSnNQaHltNzh0T2VrZnRXLV94bk9Ua29kcXk1clVybm4tOUdmbnQ3djR5amx1aS1vM1hkRkdZY3BPNTBWS2ExWlRfY2s1TXBFMHZ6ODBqSElDT085Q3RDVUl0OUV1OVRRaXQ4MGxkcWV1TGIxQ3NKMGNkazVnN1ktQ2t0RVZIa2RNMmRTZHlHS296el80Z2MzOUo?oc=5)
 
-2026-10-07 <span class="news-indication-tag">osteoarthritis</span>
+2026-10-08 <span class="news-indication-tag">RA</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BOc0VSWnpTQ2NuVjBydVZvVzhmTzZtR2YyVWs4OEdkMUVEdjJCZ3ZGSTQ3NjhfUWxjbnZRbmJ4em9Lekt1LXNQRDBveFViS1FVZThzRmMtN1d2dVR0cDBsb3d4dFlGd01FRFNGdE0zMzZfTnFUQ2xCelh5TGNMR1BHVFlrYjBXeXNWMTlwRjBaMVNXb080TWtQaF9WRC1TeUN0S1JRaUtkQmhteV9pZFA3d0NXMmJNN3RQZkN2NG1qUWRXS00yQ3pSR0NuZm1YWVdaQnQ5amZUV05HTlluTnpoZEzSAeoBQVVfeXFMTVd6YWsxd2tEb2Uzc01LOTZoQ25nZ1MzTlZsamlzODc2cm45T2JnYTIzVmRCZU0tVmtVX2lTbEVaMTFPNmdyTTV1eVJyeWdNdmZOcnNxTVFvM3dXTXMzdG1KOVJtQXpnNmRaZnFJYkpUSnI3UTlHNHg0OUR0cXd0OHhaWkd5dkNhakNmSGV0bVdmVEJsVjVZSDB1UlVWdm9rRjBqLVp0TVo2RlhjbUFrNGtmUFNsZXRoM0tVdW05Wk1DQ1lBMmFBNVBFVW50WUdYV1FYc1RmZUJTbmlXdl95STVmWGN3emRfdF93?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTFCLVpJMjdwbVNIejN5RUJYZ0lYLURHVy1OSnNQaHltNzh0T2VrZnRXLV94bk9Ua29kcXk1clVybm4tOUdmbnQ3djR5amx1aS1vM1hkRkdZY3BPNTBWS2ExWlRfY2s1TXBFMHZ6ODBqSElDT085Q3RDVUl0OUV1OVRRaXQ4MGxkcWV1TGIxQ3NKMGNkazVnN1ktQ2t0RVZIa2RNMmRTZHlHS296el80Z2MzOUo?oc=5)
+
+---
+
+### [Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSlFpVzdWUWZJQ09lamN3OC11ZDdGa29yXzB6OVdLZThlM0t5OUgzeExSYl9QWGRGMjRjU2JTNlNFTHNCUDhndFY2MnlyRXcwNTBCekx1ZXR0c3FpMUY1c3ZxQnVpS19iZDBaeVpIaw?oc=5)
+
+2026-10-06 <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSlFpVzdWUWZJQ09lamN3OC11ZDdGa29yXzB6OVdLZThlM0t5OUgzeExSYl9QWGRGMjRjU2JTNlNFTHNCUDhndFY2MnlyRXcwNTBCekx1ZXR0c3FpMUY1c3ZxQnVpS19iZDBaeVpIaw?oc=5)
 
 ---
 
