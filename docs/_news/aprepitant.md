@@ -14,7 +14,7 @@ permalink: /news/aprepitant/
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis (100.0%)</li>
 <li>hypertrichosis (disease) (99.9%)</li>
-<li>pulmonary hypertension (99.9%)</li>
+<li class="indication-matched">pulmonary hypertension (99.9%)<span class="indication-tag">📰 pulmonary hypertension</span></li>
 <li class="indication-matched">leprosy (99.9%)<span class="indication-tag">📰 leprosy</span></li>
 <li>Ambras type hypertrichosis universalis congenita (99.9%)</li>
 <li>malformation syndrome with odontal and/or periodontal component (99.9%)</li>
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">pulmonary hypertension</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+---
 
 ### [Multibacillary Leprosy Presenting as Chronic Progressive Polyneuropathy Initially Diagnosed as Probable Chronic Inflammatory Demyelinating Polyneuropathy (CIDP): A Diagnostic Pitfall - The Cureus Journal of Medical Science](https://news.google.com/rss/articles/CBMivwJBVV95cUxQV2g4VU5kLU1sOHBrRXRQRzRuSjNKdk9ud2FNM3YxYTFIdDBfcEhRU0U0MU1JbGJVRmp3YklYa3FBbmZSTzFLSzFNTVd3WGt2SG5SenlYR1hfTUlhNl9FMmJMTUQ4V2FTUTJGNUp0QjVlenQyT1A2MDNsVkFMQWtHaW9XV3ZFdG1NTVVGVUFyUEZUOG1xX0dENE5xaGxjSDBWS1B3anEteTM4TDFUUDZtRE5OOUo5Yk92MVk1U1k4ekNySXpXSzVoLTFKRHZGUjJ0NjhnWW1abEZRYXRoVXBLM2N6U25CeE5lYUFYQ1prZDktejdvbGpuT2Y0dE5mb3dFd1BrNUtfVWd3MHFTS0NYMTRRSkJUN0VlSjFxX1gyZm1pZER5Yjh2MmtCVExNTm5OeEtpSUNsT2M2emdOQVVv?oc=5)
 

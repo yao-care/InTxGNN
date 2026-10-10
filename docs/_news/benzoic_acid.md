@@ -14,7 +14,7 @@ permalink: /news/benzoic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Benzoic Acid?">
-<strong>Benzoic Acid</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Benzoic Acid</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Benzoic Acid with the latest
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>bronchitis (100.0%)</li>
 <li>severe nonproliferative diabetic retinopathy (100.0%)</li>
-<li class="indication-matched">diabetic retinopathy (99.8%)<span class="indication-tag">📰 diabetic retinopathy</span></li>
+<li>diabetic retinopathy (99.8%)</li>
 <li>dry eye syndrome (99.8%)</li>
 <li>palmar fibromatosis (99.8%)</li>
 <li>Ledderhose disease (99.8%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Benzoic Acid with the latest
 <p><a href="{{ '/drugs/benzoic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Max Hospital, Dehradun Highlights the Need for Comprehensive Eye Care in Patients with Chronic Health Conditions - India Education Diary](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSm9WNmFSUldYcDBOZXdSMnh4UGpDbWVxNWpKWnZLSTVjd1JHellEdmJ3UEFseTlJaWtSY25LQVg4eGlPWWNoWGZjYXduYk5OQk95RndmZnpxeFp1dWF0aVlkTVkwVWZqUWxBbVJCbVUxaFdYb1VhaDlmU0hER0prVXFlcmNlbmlUZlpRd3h6Tk1lZzF4bXNkeGExRUVmTGl1VDgxYkhxd1ROUVE3TExQOWZPcEJXVEtKcFliemxvdGY2R3hUaUJ5R2pIRjVuazlPRXBpUTVudWhCbkk?oc=5)
-
-2026-10-09 <span class="news-indication-tag">diabetic retinopathy</span>
-
-Source: [India Education Diary](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSm9WNmFSUldYcDBOZXdSMnh4UGpDbWVxNWpKWnZLSTVjd1JHellEdmJ3UEFseTlJaWtSY25LQVg4eGlPWWNoWGZjYXduYk5OQk95RndmZnpxeFp1dWF0aVlkTVkwVWZqUWxBbVJCbVUxaFdYb1VhaDlmU0hER0prVXFlcmNlbmlUZlpRd3h6Tk1lZzF4bXNkeGExRUVmTGl1VDgxYkhxd1ROUVE3TExQOWZPcEJXVEtKcFliemxvdGY2R3hUaUJ5R2pIRjVuazlPRXBpUTVudWhCbkk?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

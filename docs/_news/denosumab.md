@@ -14,7 +14,7 @@ permalink: /news/denosumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Denosumab?">
-<strong>Denosumab</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
+<strong>Denosumab</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,21 +26,15 @@ This page combines the AI-predicted indications for Denosumab with the latest he
 <ul>
 <li><strong>Predicted indications (2)</strong>:<ul>
 <li>severe nonproliferative diabetic retinopathy (99.6%)</li>
-<li class="indication-matched">diabetic retinopathy (99.2%)<span class="indication-tag">📰 diabetic retinopathy</span></li>
+<li>diabetic retinopathy (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/denosumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Max Hospital, Dehradun Highlights the Need for Comprehensive Eye Care in Patients with Chronic Health Conditions - India Education Diary](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSm9WNmFSUldYcDBOZXdSMnh4UGpDbWVxNWpKWnZLSTVjd1JHellEdmJ3UEFseTlJaWtSY25LQVg4eGlPWWNoWGZjYXduYk5OQk95RndmZnpxeFp1dWF0aVlkTVkwVWZqUWxBbVJCbVUxaFdYb1VhaDlmU0hER0prVXFlcmNlbmlUZlpRd3h6Tk1lZzF4bXNkeGExRUVmTGl1VDgxYkhxd1ROUVE3TExQOWZPcEJXVEtKcFliemxvdGY2R3hUaUJ5R2pIRjVuazlPRXBpUTVudWhCbkk?oc=5)
-
-2026-10-09 <span class="news-indication-tag">diabetic retinopathy</span>
-
-Source: [India Education Diary](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSm9WNmFSUldYcDBOZXdSMnh4UGpDbWVxNWpKWnZLSTVjd1JHellEdmJ3UEFseTlJaWtSY25LQVg4eGlPWWNoWGZjYXduYk5OQk95RndmZnpxeFp1dWF0aVlkTVkwVWZqUWxBbVJCbVUxaFdYb1VhaDlmU0hER0prVXFlcmNlbmlUZlpRd3h6Tk1lZzF4bXNkeGExRUVmTGl1VDgxYkhxd1ROUVE3TExQOWZPcEJXVEtKcFliemxvdGY2R3hUaUJ5R2pIRjVuazlPRXBpUTVudWhCbkk?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

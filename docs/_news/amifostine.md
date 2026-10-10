@@ -14,7 +14,7 @@ permalink: /news/amifostine/
 ---
 
 <p class="key-answer" data-question="What news is there about Amifostine?">
-<strong>Amifostine</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Amifostine</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,37 @@ This page combines the AI-predicted indications for Amifostine with the latest h
 <p><a href="{{ '/drugs/amifostine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (11)
 
-### [Beyond hormone therapy: what’s the next wave in prostate cancer?](https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRE9yVzVGR2ZJOWczYWs5cDktcmk3bzBjWEJRekN2dHRua1FMM3IzeFhpdE9PVGdralZJdWp1UWRPVnFTNWloRHQxa0ZibjFnU2lmNEpudGdESHllTElwWngzeUNrdjRRVlhVaQ?oc=5)
+### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
 
-2026-10-09 <span class="news-indication-tag">cancer</span>
+2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">pulmonary hypertension</span>
 
-Source: [Labiotech.eu](https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRE9yVzVGR2ZJOWczYWs5cDktcmk3bzBjWEJRekN2dHRua1FMM3IzeFhpdE9PVGdralZJdWp1UWRPVnFTNWloRHQxa0ZibjFnU2lmNEpudGdESHllTElwWngzeUNrdjRRVlhVaQ?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+---
+
+### [The 1 Thing To Remember About Your PSA Results During Prostate Cancer Screening](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZuMDQwYW9QazB5VlpKS0txU01fY0UyMjczNUkwM2FNSXhRcVhhQXFoaWRYRno4ZVZ2X1dBTHdPR3JkcjhaZk8tdnhDZXhaM2d2UHdHUUg4ZklhRWo1OV83aEtVU1FmZWJnMmpqQ2JDVlVzNXcxbkd6M3B2dFo0a0RqSFRidw?oc=5)
+
+2026-10-10 <span class="news-indication-tag">cancer</span>
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZuMDQwYW9QazB5VlpKS0txU01fY0UyMjczNUkwM2FNSXhRcVhhQXFoaWRYRno4ZVZ2X1dBTHdPR3JkcjhaZk8tdnhDZXhaM2d2UHdHUUg4ZklhRWo1OV83aEtVU1FmZWJnMmpqQ2JDVlVzNXcxbkd6M3B2dFo0a0RqSFRidw?oc=5)
+
+---
+
+### [C/Can Advances the Implementation of Global Breast Cancer Guidelines](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
+
+2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
+
+---
+
+### [High blood pressure during pregnancy poses serious risks: WHO | Tap to know more | Inshorts](https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1hvaFVZcG9Pa194b1RMVGJsOFdvdFVWdHVrSlRILTdxdTUwRFd3Wk5vSjlOZDVkYzl5WUJFWFQyaTE0dTBHQnJzLVBTbXJXX0FBbU1jaFplY3ZQTXR6QmY4MndWckc5U29qZjRLWG9xZ3Buc1FvQlFwaEIwU0xoOTdNVXJJcG83QWV1c1ptZjBVbHFKWTFPTks0eUlYcjlRTnJmY0NXY9IBrAFBVV95cUxPMlFVQ3Z1ek9hTldaSFhqLVRyWVEyT3BnZWxKQm9GdnVLQy1ta0poRm1PakZrUE9qWHhZZWdQUDRzLVYyLVRLMmNQX08xZWFLMHVMX0ZGNUYtWGlBVDdyVFJxUmxlcEFpY0FtVGtHaEtmM01KamlzakdhRWwzN0pReHpENTJoMmQzNXc2cVNtVFRVWmtJSXR2QlFyOXJMWmVnTGhFcXhCek83Sy0y?oc=5)
+
+2026-10-09 <span class="news-indication-tag">hypertensive disorder</span>
+
+Source: [Inshorts](https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1hvaFVZcG9Pa194b1RMVGJsOFdvdFVWdHVrSlRILTdxdTUwRFd3Wk5vSjlOZDVkYzl5WUJFWFQyaTE0dTBHQnJzLVBTbXJXX0FBbU1jaFplY3ZQTXR6QmY4MndWckc5U29qZjRLWG9xZ3Buc1FvQlFwaEIwU0xoOTdNVXJJcG83QWV1c1ptZjBVbHFKWTFPTks0eUlYcjlRTnJmY0NXY9IBrAFBVV95cUxPMlFVQ3Z1ek9hTldaSFhqLVRyWVEyT3BnZWxKQm9GdnVLQy1ta0poRm1PakZrUE9qWHhZZWdQUDRzLVYyLVRLMmNQX08xZWFLMHVMX0ZGNUYtWGlBVDdyVFJxUmxlcEFpY0FtVGtHaEtmM01KamlzakdhRWwzN0pReHpENTJoMmQzNXc2cVNtVFRVWmtJSXR2QlFyOXJMWmVnTGhFcXhCek83Sy0y?oc=5)
 
 ---
 
@@ -79,6 +103,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0Zz
 2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
+
+---
+
+### [Brain tumor segmentation using particle swarm optimized histogram equalization and a VGG19 based U-Net](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zX3B4N0Q5TmVRV0o0bWEycTJsZGRhYXpZelh4dVQ4Rk83RjA2X3VpZUxIWE8wZzQ0UFBBMjMxTjZaSUhyd3RMOTF1dmpsTmVSNW9CdWh2ak9mb0dmaF9v?oc=5)
+
+2026-10-07 <span class="news-indication-tag">tumor</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zX3B4N0Q5TmVRV0o0bWEycTJsZGRhYXpZelh4dVQ4Rk83RjA2X3VpZUxIWE8wZzQ0UFBBMjMxTjZaSUhyd3RMOTF1dmpsTmVSNW9CdWh2ak9mb0dmaF9v?oc=5)
 
 ---
 

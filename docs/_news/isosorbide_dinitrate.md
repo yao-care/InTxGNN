@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Isosorbide Dinitrate with th
 <li>alopecia (100.0%)</li>
 <li>congenital hypotrichosis milia (100.0%)</li>
 <li>hypotrichosis simplex of the scalp (100.0%)</li>
-<li>pulmonary hypertension (100.0%)</li>
+<li class="indication-matched">pulmonary hypertension (100.0%)<span class="indication-tag">📰 pulmonary hypertension</span></li>
 <li>diffuse alopecia areata (100.0%)</li>
 <li class="indication-matched">vascular disease (100.0%)<span class="indication-tag">📰 vascular disease</span></li>
 <li>hypertrichosis (disease) (100.0%)</li>
@@ -42,19 +42,19 @@ This page combines the AI-predicted indications for Isosorbide Dinitrate with th
 
 ## Related News (5)
 
+### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">pulmonary hypertension</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+---
+
 ### [The heart attack we see, the brain we don’t | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXY2UnJpdzVKZnVSMmZ1OVhDU0NjcktZbmV5d3ZCMmZ4V21NSTE1LU1yNERSOVhkRGJraTNzeG5UeFlMS2pXU3c0S1FNMGFyQnp5VjRncVRDcnVQQXhUcE9XWmNhMjhyVFNnV01MOEw2TUExR0k1cGU5OG5Fb0ZlOEhVVGtFRlkwVlNMWEtGSllHcmFzZ1dlbHZqOFltOXI4RnJ4ZGVocXlUUk1OVzlKcmlUdEhLVGlzX1HSAb8BQVVfeXFMUF8wQmJBSkhPcGNubklzeTZRYVJEYl9HVlFYVUswTW9KeTdsMGNwY0tSM3VCTnAtLXVCLWgzbW1Hc3JzR0pyOTNmbFpGYTJ5XzJIT3FLcVlXUFJmNU1ZVmh2Mk8wLWhCSGxrS05Ick1jOVdkbXM5OXh4Zk9lcXdWOURxNmR4LWI4WWtpcTZzOElkemdzTjJMbTEwYzEza3l5WFY5aWRSV3F5Sy1kUi1LZTBCdFlxdHlZT1ZSMHl1OUU?oc=5)
 
 2026-10-10 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
 
 Source: [Hindustan Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXY2UnJpdzVKZnVSMmZ1OVhDU0NjcktZbmV5d3ZCMmZ4V21NSTE1LU1yNERSOVhkRGJraTNzeG5UeFlMS2pXU3c0S1FNMGFyQnp5VjRncVRDcnVQQXhUcE9XWmNhMjhyVFNnV01MOEw2TUExR0k1cGU5OG5Fb0ZlOEhVVGtFRlkwVlNMWEtGSllHcmFzZ1dlbHZqOFltOXI4RnJ4ZGVocXlUUk1OVzlKcmlUdEhLVGlzX1HSAb8BQVVfeXFMUF8wQmJBSkhPcGNubklzeTZRYVJEYl9HVlFYVUswTW9KeTdsMGNwY0tSM3VCTnAtLXVCLWgzbW1Hc3JzR0pyOTNmbFpGYTJ5XzJIT3FLcVlXUFJmNU1ZVmh2Mk8wLWhCSGxrS05Ick1jOVdkbXM5OXh4Zk9lcXdWOURxNmR4LWI4WWtpcTZzOElkemdzTjJMbTEwYzEza3l5WFY5aWRSV3F5Sy1kUi1LZTBCdFlxdHlZT1ZSMHl1OUU?oc=5)
-
----
-
-### [KT-CBHNET: a spatio-temporal deep learning framework for interpretable ECG signal classification for cardiovascular disease prediction](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zcGlvS3l2ZGVSX2tNSmx6YWFYSWVHajhjQnZ1OGR3NjBOQ2VSQk5VOUxGMlVrM00teDVta3RBWWZsRjlIbXljYTY2T3hudkxjb2s1ZmZHZHFVYng0dHNB?oc=5)
-
-2026-10-09 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zcGlvS3l2ZGVSX2tNSmx6YWFYSWVHajhjQnZ1OGR3NjBOQ2VSQk5VOUxGMlVrM00teDVta3RBWWZsRjlIbXljYTY2T3hudkxjb2s1ZmZHZHFVYng0dHNB?oc=5)
 
 ---
 
@@ -66,19 +66,19 @@ Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMiyAFBVV
 
 ---
 
-### [The ‘Micromanaged’ Heart: How Constant Workplace Micro-Stress Alters Heart Rate Variability - ETV Bharat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2FpV3lpSDJPSTNURDZoUkxuN0tqdUVDXzExOE9jLU1QMDdzT1lONVd3dG1qVUlONndjOTRqdk1ZS0ZnbVZCX256YjNpYWhWNDVOajc4djJBYkFWaDk4SkFyQnpkbVQtMk1EVTYxRWhWODhLd09nTjFyZ1dDV2EwN1N2Z3lMdFdaM1dzQ0ZkZS0tcGNOcHVad0tCeXYyS3JEcGxUUXIzdW1wd9IBrwFBVV95cUxNM21SdlR4M1NiZkhCakRQZnVWaEJuU0ZYUTdqWXpCTzM0R04xaS1zN2ZlMVREU0U2WTRlUGM2a3c4anlxd3NvS3k5eHU0VllubV9GR3JfQ2NGckJ5Y0F3OEZsTjhDUlpNUFF0NGM0Z0V5ZTRyMGJOWmJSRl80RXdaVmdNNC1zclRZNVNzc1BzUzFxNXRJdnBrSjFrSUFOLUdQN0pzbE0wTGNsRnVTU2JZ?oc=5)
+### [EU launches network to harness health data and AI for cardiovascular care](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHlRelppSkVXUTRiZ2ZuUWhyZS1YYk1GdlMyUXdjcWh0RUZxUFFoaTlhRGg5TzVvaVlERmpjeEV2b3h5bF9MMTJvTExucjhwQzlHTERrQk9rNENRZlctdXRvc0ZEa2RxTGpZZ2pDd3NHZ1dJbVdNMm8tRmtwOGtDUkNoWXRXbENLUzBDb1dOTTVtQjdsaVhIcnM2VVFjQ1Ffcm5yY0ZDVEFydjZLLWhqdTduTzd0T09FbVVvZzV3?oc=5)
 
-2026-10-08 <span class="news-indication-tag">cardiovascular</span>
+2026-10-06 <span class="news-indication-tag">cardiovascular</span>
 
-Source: [ETV Bharat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2FpV3lpSDJPSTNURDZoUkxuN0tqdUVDXzExOE9jLU1QMDdzT1lONVd3dG1qVUlONndjOTRqdk1ZS0ZnbVZCX256YjNpYWhWNDVOajc4djJBYkFWaDk4SkFyQnpkbVQtMk1EVTYxRWhWODhLd09nTjFyZ1dDV2EwN1N2Z3lMdFdaM1dzQ0ZkZS0tcGNOcHVad0tCeXYyS3JEcGxUUXIzdW1wd9IBrwFBVV95cUxNM21SdlR4M1NiZkhCakRQZnVWaEJuU0ZYUTdqWXpCTzM0R04xaS1zN2ZlMVREU0U2WTRlUGM2a3c4anlxd3NvS3k5eHU0VllubV9GR3JfQ2NGckJ5Y0F3OEZsTjhDUlpNUFF0NGM0Z0V5ZTRyMGJOWmJSRl80RXdaVmdNNC1zclRZNVNzc1BzUzFxNXRJdnBrSjFrSUFOLUdQN0pzbE0wTGNsRnVTU2JZ?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHlRelppSkVXUTRiZ2ZuUWhyZS1YYk1GdlMyUXdjcWh0RUZxUFFoaTlhRGg5TzVvaVlERmpjeEV2b3h5bF9MMTJvTExucjhwQzlHTERrQk9rNENRZlctdXRvc0ZEa2RxTGpZZ2pDd3NHZ1dJbVdNMm8tRmtwOGtDUkNoWXRXbENLUzBDb1dOTTVtQjdsaVhIcnM2VVFjQ1Ffcm5yY0ZDVEFydjZLLWhqdTduTzd0T09FbVVvZzV3?oc=5)
 
 ---
 
-### [European initiative to accelerate AI uptake in cardiovascular care](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObHdXWXJ0Qnl3Q1NuX3ppQWx1d25MaVZwVzkyX01ZSUI3VzJZZEo5TjhGX0p2X3B4cXpOUnpkc0R3c0sxc1JVT3V0X3JrZ3R3WEZtNnNjNjh4UEt6cldBbEV5TnJiYkF4UXhic0JUX2dPMkViOTJHYXpHaGRBeV9sSy1mTUl5U0xv?oc=5)
+### [Can chronic stress raise your heart risk? Cardiologist explains the cardiovascular impact and the role of early intervention | Health - Hindustan Times](https://news.google.com/rss/articles/CBMinAJBVV95cUxPSHJLOHN0b0RUY2Q4cEhhVEhvOUl6VE51dDhMNnQ3U0lUR3BMUW5Hd2tDOW5DX21uT2VxWVlMLXNVR2IzZVZNbE5rNWw1Qmh5SG82TEZ0ckFzQUtGM1IyNHdTWXlYZGJDMmtjODNLQW5DSUxRRmwwTFRwbWJ0dTJHR1Q3Zk9FVURVVzNNcWFsRXlwLW51SE5pZkhncGdTNHIwUUdvM3BYZ0ZydWdUVjRvbV95Z0xISFM1ZjFtVmxsVW92bXhDWTgwdlpGM2xic3RFc2pEUjJndEZTaXcyNWc0akhzRmN0ZnJMXzFNUXpyeDhJMERXMU1vdzZPR0RTNl9mck5lSVU5ek9ZcDRfLTFZWW1kUW53Ujk3ZmtQNtIBogJBVV95cUxQSnNSNFlvOEpMWFJpTVYzZ1NDU0xhQ0QxZ3RjMUVhLV9NRlZsM2EtREM1Z2ZYWTBLMVFRTThYUDdnY1k4Vk11a1FFV2s3RmE3TEw3bVc2WVFQSk41OUhINTZpY0V1SGR0aWVFNmJjdlVaanBQc3dtR0lpRUJVTXlfdU9WY2JfaHJOb0hGVE5UMWRMdUpZMjdiTDd6bkFhYTh0Y2x6LXVMSFNqYzZ0X0tpTG5FQjd5Q3lRQlk3YjEyVl90QjNNX3l2RzVzYjg2bHJUNFF5TFp2T1BTeVlFRlViQ2JFa25zMUZfUkF0aGNwVl9rYzY5QVZkbDkxNGdpNXNpZklUUkYwMm92cXJaVGV5NG9Xa2l4NC1YTjNlS25xYUZUZw?oc=5)
 
-2026-10-08 <span class="news-indication-tag">cardiovascular</span>
+2026-10-06 <span class="news-indication-tag">cardiovascular</span>
 
-Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObHdXWXJ0Qnl3Q1NuX3ppQWx1d25MaVZwVzkyX01ZSUI3VzJZZEo5TjhGX0p2X3B4cXpOUnpkc0R3c0sxc1JVT3V0X3JrZ3R3WEZtNnNjNjh4UEt6cldBbEV5TnJiYkF4UXhic0JUX2dPMkViOTJHYXpHaGRBeV9sSy1mTUl5U0xv?oc=5)
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMinAJBVV95cUxPSHJLOHN0b0RUY2Q4cEhhVEhvOUl6VE51dDhMNnQ3U0lUR3BMUW5Hd2tDOW5DX21uT2VxWVlMLXNVR2IzZVZNbE5rNWw1Qmh5SG82TEZ0ckFzQUtGM1IyNHdTWXlYZGJDMmtjODNLQW5DSUxRRmwwTFRwbWJ0dTJHR1Q3Zk9FVURVVzNNcWFsRXlwLW51SE5pZkhncGdTNHIwUUdvM3BYZ0ZydWdUVjRvbV95Z0xISFM1ZjFtVmxsVW92bXhDWTgwdlpGM2xic3RFc2pEUjJndEZTaXcyNWc0akhzRmN0ZnJMXzFNUXpyeDhJMERXMU1vdzZPR0RTNl9mck5lSVU5ek9ZcDRfLTFZWW1kUW53Ujk3ZmtQNtIBogJBVV95cUxQSnNSNFlvOEpMWFJpTVYzZ1NDU0xhQ0QxZ3RjMUVhLV9NRlZsM2EtREM1Z2ZYWTBLMVFRTThYUDdnY1k4Vk11a1FFV2s3RmE3TEw3bVc2WVFQSk41OUhINTZpY0V1SGR0aWVFNmJjdlVaanBQc3dtR0lpRUJVTXlfdU9WY2JfaHJOb0hGVE5UMWRMdUpZMjdiTDd6bkFhYTh0Y2x6LXVMSFNqYzZ0X0tpTG5FQjd5Q3lRQlk3YjEyVl90QjNNX3l2RzVzYjg2bHJUNFF5TFp2T1BTeVlFRlViQ2JFa25zMUZfUkF0aGNwVl9rYzY5QVZkbDkxNGdpNXNpZklUUkYwMm92cXJaVGV5NG9Xa2l4NC1YTjNlS25xYUZUZw?oc=5)
 
 ---
 

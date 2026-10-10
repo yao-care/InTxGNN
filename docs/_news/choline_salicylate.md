@@ -14,7 +14,7 @@ permalink: /news/choline_salicylate/
 ---
 
 <p class="key-answer" data-question="What news is there about Choline Salicylate?">
-<strong>Choline Salicylate</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Choline Salicylate</strong> currently has <strong>15 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,29 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <li>malignant hypertensive renal disease (99.8%)</li>
 <li>malignant renovascular hypertension (99.8%)</li>
 <li>Raynaud disease (99.8%)</li>
-<li>pulmonary hypertension (99.8%)</li>
+<li class="indication-matched">pulmonary hypertension (99.8%)<span class="indication-tag">📰 pulmonary hypertension</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (15)
+
+### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">pulmonary hypertension</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+---
+
+### [The 1 Thing To Remember About Your PSA Results During Prostate Cancer Screening](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZuMDQwYW9QazB5VlpKS0txU01fY0UyMjczNUkwM2FNSXhRcVhhQXFoaWRYRno4ZVZ2X1dBTHdPR3JkcjhaZk8tdnhDZXhaM2d2UHdHUUg4ZklhRWo1OV83aEtVU1FmZWJnMmpqQ2JDVlVzNXcxbkd6M3B2dFo0a0RqSFRidw?oc=5)
+
+2026-10-10 <span class="news-indication-tag">cancer</span>
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZuMDQwYW9QazB5VlpKS0txU01fY0UyMjczNUkwM2FNSXhRcVhhQXFoaWRYRno4ZVZ2X1dBTHdPR3JkcjhaZk8tdnhDZXhaM2d2UHdHUUg4ZklhRWo1OV83aEtVU1FmZWJnMmpqQ2JDVlVzNXcxbkd6M3B2dFo0a0RqSFRidw?oc=5)
+
+---
 
 ### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 
@@ -50,11 +66,19 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhi
 
 ---
 
-### [Beyond hormone therapy: what’s the next wave in prostate cancer?](https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRE9yVzVGR2ZJOWczYWs5cDktcmk3bzBjWEJRekN2dHRua1FMM3IzeFhpdE9PVGdralZJdWp1UWRPVnFTNWloRHQxa0ZibjFnU2lmNEpudGdESHllTElwWngzeUNrdjRRVlhVaQ?oc=5)
+### [C/Can Advances the Implementation of Global Breast Cancer Guidelines](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
 
-2026-10-09 <span class="news-indication-tag">cancer</span>
+2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [Labiotech.eu](https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRE9yVzVGR2ZJOWczYWs5cDktcmk3bzBjWEJRekN2dHRua1FMM3IzeFhpdE9PVGdralZJdWp1UWRPVnFTNWloRHQxa0ZibjFnU2lmNEpudGdESHllTElwWngzeUNrdjRRVlhVaQ?oc=5)
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
+
+---
+
+### [High blood pressure during pregnancy poses serious risks: WHO | Tap to know more | Inshorts](https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1hvaFVZcG9Pa194b1RMVGJsOFdvdFVWdHVrSlRILTdxdTUwRFd3Wk5vSjlOZDVkYzl5WUJFWFQyaTE0dTBHQnJzLVBTbXJXX0FBbU1jaFplY3ZQTXR6QmY4MndWckc5U29qZjRLWG9xZ3Buc1FvQlFwaEIwU0xoOTdNVXJJcG83QWV1c1ptZjBVbHFKWTFPTks0eUlYcjlRTnJmY0NXY9IBrAFBVV95cUxPMlFVQ3Z1ek9hTldaSFhqLVRyWVEyT3BnZWxKQm9GdnVLQy1ta0poRm1PakZrUE9qWHhZZWdQUDRzLVYyLVRLMmNQX08xZWFLMHVMX0ZGNUYtWGlBVDdyVFJxUmxlcEFpY0FtVGtHaEtmM01KamlzakdhRWwzN0pReHpENTJoMmQzNXc2cVNtVFRVWmtJSXR2QlFyOXJMWmVnTGhFcXhCek83Sy0y?oc=5)
+
+2026-10-09 <span class="news-indication-tag">hypertensive disorder</span>
+
+Source: [Inshorts](https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1hvaFVZcG9Pa194b1RMVGJsOFdvdFVWdHVrSlRILTdxdTUwRFd3Wk5vSjlOZDVkYzl5WUJFWFQyaTE0dTBHQnJzLVBTbXJXX0FBbU1jaFplY3ZQTXR6QmY4MndWckc5U29qZjRLWG9xZ3Buc1FvQlFwaEIwU0xoOTdNVXJJcG83QWV1c1ptZjBVbHFKWTFPTks0eUlYcjlRTnJmY0NXY9IBrAFBVV95cUxPMlFVQ3Z1ek9hTldaSFhqLVRyWVEyT3BnZWxKQm9GdnVLQy1ta0poRm1PakZrUE9qWHhZZWdQUDRzLVYyLVRLMmNQX08xZWFLMHVMX0ZGNUYtWGlBVDdyVFJxUmxlcEFpY0FtVGtHaEtmM01KamlzakdhRWwzN0pReHpENTJoMmQzNXc2cVNtVFRVWmtJSXR2QlFyOXJMWmVnTGhFcXhCek83Sy0y?oc=5)
 
 ---
 
@@ -71,6 +95,14 @@ Source: [Devdiscourse](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTGZU
 2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
+
+---
+
+### [HPV vaccination linked to lower risk of pregnancy complications | The Business Guardian - newspaper](https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmVkV3FDWEFKVGxjV3NDMVI2WWZfV0xHSlFNZDBkYWpZUlNHb1BCTm5SZFdteEs1MzZuQlQ0RU9laXYwX1RTRXdRSlNTMDg5dllzZ2g5ZDVWVkJheXRfWGJmRkJNUHZaWTNwdUhEeXhzTXpYM0ZQMHVaMUx4d2VUMnhrbkZzQjN2bnpXWHktdWMyWmdYQ0s5cmpVTlhhY3BzWU5TVm1Ua1BVVFFoNDZDcnc2N0twRW9Id2p3SFg2TFpKemtkMmc?oc=5)
+
+2026-10-09 <span class="news-indication-tag">RA</span>
+
+Source: [Magzter](https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmVkV3FDWEFKVGxjV3NDMVI2WWZfV0xHSlFNZDBkYWpZUlNHb1BCTm5SZFdteEs1MzZuQlQ0RU9laXYwX1RTRXdRSlNTMDg5dllzZ2g5ZDVWVkJheXRfWGJmRkJNUHZaWTNwdUhEeXhzTXpYM0ZQMHVaMUx4d2VUMnhrbkZzQjN2bnpXWHktdWMyWmdYQ0s5cmpVTlhhY3BzWU5TVm1Ua1BVVFFoNDZDcnc2N0twRW9Id2p3SFg2TFpKemtkMmc?oc=5)
 
 ---
 
@@ -95,6 +127,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0Zz
 2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
+
+---
+
+### [Brain tumor segmentation using particle swarm optimized histogram equalization and a VGG19 based U-Net](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zX3B4N0Q5TmVRV0o0bWEycTJsZGRhYXpZelh4dVQ4Rk83RjA2X3VpZUxIWE8wZzQ0UFBBMjMxTjZaSUhyd3RMOTF1dmpsTmVSNW9CdWh2ak9mb0dmaF9v?oc=5)
+
+2026-10-07 <span class="news-indication-tag">tumor</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zX3B4N0Q5TmVRV0o0bWEycTJsZGRhYXpZelh4dVQ4Rk83RjA2X3VpZUxIWE8wZzQ0UFBBMjMxTjZaSUhyd3RMOTF1dmpsTmVSNW9CdWh2ak9mb0dmaF9v?oc=5)
 
 ---
 

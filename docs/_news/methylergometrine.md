@@ -14,7 +14,7 @@ permalink: /news/methylergometrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Methylergometrine?">
-<strong>Methylergometrine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Methylergometrine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Methylergometrine with the l
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>hypertrichosis (disease) (99.9%)</li>
-<li>pulmonary hypertension (99.9%)</li>
+<li class="indication-matched">pulmonary hypertension (99.9%)<span class="indication-tag">📰 pulmonary hypertension</span></li>
 <li>migraine disorder (99.8%)</li>
 <li>Ambras type hypertrichosis universalis congenita (99.8%)</li>
 <li>malformation syndrome with odontal and/or periodontal component (99.8%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Methylergometrine with the l
 <p><a href="{{ '/drugs/methylergometrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">pulmonary hypertension</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+---
 
 
 <div class="disclaimer">
