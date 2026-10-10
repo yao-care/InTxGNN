@@ -42,6 +42,14 @@ This page combines the AI-predicted indications for Isoxsuprine with the latest 
 
 ## Related News (5)
 
+### [Global cardiac rehabilitation access stagnates despite rising cardiovascular disease](https://news.google.com/rss/articles/CBMizAFBVV95cUxQODFLWW8wUlBHdFNadDlXa1lVdHdvUmxlOHlrU1Z6eW45QUVrYzNKZmxWc0JGLXFsamxUOS1TWWhQTGVybWc1dUxfOHdpTDBCR3VFLVJGNlpkV2Y1dzktd0hvNE5MRFlZbWYxTFBFY3VXMUlNZ1I5cGNwR3luYzVhb3pVRlBtaFZKaUwzeDI4blFBZXRMejZHdTRVN1dIQlNERDJ1UnZ2V1B6U3E0Zk5nTlhPN25GdE5SREVoNWFhRTFkN2lPN1RUZXdBWWo?oc=5)
+
+2026-10-10 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMizAFBVV95cUxQODFLWW8wUlBHdFNadDlXa1lVdHdvUmxlOHlrU1Z6eW45QUVrYzNKZmxWc0JGLXFsamxUOS1TWWhQTGVybWc1dUxfOHdpTDBCR3VFLVJGNlpkV2Y1dzktd0hvNE5MRFlZbWYxTFBFY3VXMUlNZ1I5cGNwR3luYzVhb3pVRlBtaFZKaUwzeDI4blFBZXRMejZHdTRVN1dIQlNERDJ1UnZ2V1B6U3E0Zk5nTlhPN25GdE5SREVoNWFhRTFkN2lPN1RUZXdBWWo?oc=5)
+
+---
+
 ### [KT-CBHNET: a spatio-temporal deep learning framework for interpretable ECG signal classification for cardiovascular disease prediction](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zcGlvS3l2ZGVSX2tNSmx6YWFYSWVHajhjQnZ1OGR3NjBOQ2VSQk5VOUxGMlVrM00teDVta3RBWWZsRjlIbXljYTY2T3hudkxjb2s1ZmZHZHFVYng0dHNB?oc=5)
 
 2026-10-09 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
@@ -71,14 +79,6 @@ Source: [ETV Bharat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2FpV3
 2026-10-08 <span class="news-indication-tag">cardiovascular</span>
 
 Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObHdXWXJ0Qnl3Q1NuX3ppQWx1d25MaVZwVzkyX01ZSUI3VzJZZEo5TjhGX0p2X3B4cXpOUnpkc0R3c0sxc1JVT3V0X3JrZ3R3WEZtNnNjNjh4UEt6cldBbEV5TnJiYkF4UXhic0JUX2dPMkViOTJHYXpHaGRBeV9sSy1mTUl5U0xv?oc=5)
-
----
-
-### [CATIE | Canadian study links cardiovascular disease to declining brain health - European AIDS Treatment Group](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaldUWmF2TG9WQjg0Qmt5Mml0RkhULVVVZ1UtZ1JOakYxb3Y2TzhwamNLc3RUNVUzNzNqVnBpMzBNeWdONHVRRW9WVmkzbDFQeXR1QngzcFZUbWNuaWNkQ3BPNlk2X2xhdnBUY3VLMTItX0N5Z1Zsb3l1ZEpCeDlwS25HQzRpTU5QOW85M1JqUVBNUFYwdV9mUXd5YU1PVnlHSDlqNGxXd1MwUQ?oc=5)
-
-2026-10-07 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
-
-Source: [European AIDS Treatment Group](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaldUWmF2TG9WQjg0Qmt5Mml0RkhULVVVZ1UtZ1JOakYxb3Y2TzhwamNLc3RUNVUzNzNqVnBpMzBNeWdONHVRRW9WVmkzbDFQeXR1QngzcFZUbWNuaWNkQ3BPNlk2X2xhdnBUY3VLMTItX0N5Z1Zsb3l1ZEpCeDlwS25HQzRpTU5QOW85M1JqUVBNUFYwdV9mUXd5YU1PVnlHSDlqNGxXd1MwUQ?oc=5)
 
 ---
 

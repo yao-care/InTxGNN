@@ -14,7 +14,7 @@ permalink: /news/dexibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexibuprofen?">
-<strong>Dexibuprofen</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Dexibuprofen</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,16 +33,22 @@ This page combines the AI-predicted indications for Dexibuprofen with the latest
 <li>brachyolmia (99.8%)</li>
 <li>pseudoachondroplasia (99.7%)</li>
 <li>spondyloarthropathy, susceptibility to (99.7%)</li>
-<li>ankylosing spondylitis (99.7%)</li>
+<li class="indication-matched">ankylosing spondylitis (99.7%)<span class="indication-tag">📰 ankylosing spondylitis</span></li>
 <li>WHIM syndrome (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Plasma Protein Signatures Reveal Damage in Ankylosing Spondylitis - European Medical Journal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlVRYmpzeTNob0NaQnRVd3ZEUXBBYklYMTBVc2d2QllZS0M0MEhKUXRkcEJ0eG5nMWdtbVc1Z3lpOHhfamtyMHpXdTduUC1NNW15Q29DUnFndUlRd3BJWTl6OUZ3MWNvRGNObEVSN3hGUzNfS04tNGRCNTNzZWdUWGUxZGtnbjgxei1MM2ZRcnZ0UWlvN1ZVMTM2WDRhMVZaRXhhOU03ckJPYmp3VVhRVw?oc=5)
+
+2026-10-09 <span class="news-indication-tag">ankylosing spondylitis</span>
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlVRYmpzeTNob0NaQnRVd3ZEUXBBYklYMTBVc2d2QllZS0M0MEhKUXRkcEJ0eG5nMWdtbVc1Z3lpOHhfamtyMHpXdTduUC1NNW15Q29DUnFndUlRd3BJWTl6OUZ3MWNvRGNObEVSN3hGUzNfS04tNGRCNTNzZWdUWGUxZGtnbjgxei1MM2ZRcnZ0UWlvN1ZVMTM2WDRhMVZaRXhhOU03ckJPYmp3VVhRVw?oc=5)
+
+---
 
 
 <div class="disclaimer">

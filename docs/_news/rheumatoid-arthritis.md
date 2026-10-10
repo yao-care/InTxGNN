@@ -3,7 +3,7 @@ layout: default
 title: "RA (rheumatoid arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (rheumatoid arthritis). 2 articles, 21 related drugs."
+description: "Health news about RA (rheumatoid arthritis). 3 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rheumatoid-arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about RA (rheumatoid arthritis)?">
-<strong>RA (rheumatoid arthritis)</strong> currently has <strong>2 news articles</strong> and 21 related drugs.
+<strong>RA (rheumatoid arthritis)</strong> currently has <strong>3 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -49,13 +49,21 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 
 2026-10-09
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
+
+---
+
+### [HPV Vaccine Before Pregnancy Linked to Lower Preterm Birth Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTFCLVpJMjdwbVNIejN5RUJYZ0lYLURHVy1OSnNQaHltNzh0T2VrZnRXLV94bk9Ua29kcXk1clVybm4tOUdmbnQ3djR5amx1aS1vM1hkRkdZY3BPNTBWS2ExWlRfY2s1TXBFMHZ6ODBqSElDT085Q3RDVUl0OUV1OVRRaXQ4MGxkcWV1TGIxQ3NKMGNkazVnN1ktQ2t0RVZIa2RNMmRTZHlHS296el80Z2MzOUo?oc=5)
+
+2026-10-08
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTFCLVpJMjdwbVNIejN5RUJYZ0lYLURHVy1OSnNQaHltNzh0T2VrZnRXLV94bk9Ua29kcXk1clVybm4tOUdmbnQ3djR5amx1aS1vM1hkRkdZY3BPNTBWS2ExWlRfY2s1TXBFMHZ6ODBqSElDT085Q3RDVUl0OUV1OVRRaXQ4MGxkcWV1TGIxQ3NKMGNkazVnN1ktQ2t0RVZIa2RNMmRTZHlHS296el80Z2MzOUo?oc=5)
 
 ---
 

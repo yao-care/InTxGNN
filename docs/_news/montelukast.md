@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>3 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Exploring the science of keeping your mind sharp as you age](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWRyTEJveXFmWVlVN09tMHpuVUFINERENlhfVHB5TzRCWWZIc1ZMSy0yaVFtT1Zha2FTbUV2MmRGNVJtMTA5VlJGX3VFTjNubnpERGpGcjZ2YkZmbTFJZ2Z6NkQtcXVlZnJ5Qy1MbVZudFlMS1pkLU42Rm43eHJTVnFBMWlRSlJPWFVVb3ByTXlCMU5mbXkwelU5UFBiZDktZ3hvX0RkcDJZdUQzN0hsRQ?oc=5)
+
+2026-10-09 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
+
+Source: [PBS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWRyTEJveXFmWVlVN09tMHpuVUFINERENlhfVHB5TzRCWWZIc1ZMSy0yaVFtT1Zha2FTbUV2MmRGNVJtMTA5VlJGX3VFTjNubnpERGpGcjZ2YkZmbTFJZ2Z6NkQtcXVlZnJ5Qy1MbVZudFlMS1pkLU42Rm43eHJTVnFBMWlRSlJPWFVVb3ByTXlCMU5mbXkwelU5UFBiZDktZ3hvX0RkcDJZdUQzN0hsRQ?oc=5)
+
+---
 
 ### [Graphene sensors read stroke damage from the shape of brain electrical waves](https://news.google.com/rss/articles/CBMimgFBVV95cUxObkhpczF5d01tWlpKNGJNUi1NMHBFMW92WU9ZbVNBZDZRSHBxQThYSGtYVEhKLXJIaGQtODBER3pkclZkRGgzZ3czSUhmYVJlUzVJdHhPQ25VTXF2YVE0U0h5U29ES1h0MlJBbE9xX2FMOWZfNkZpNHlVTW9MaVNRblJhbzR6ZUQxS09sandTZ0w3RXdTQWgwWHBB?oc=5)
 

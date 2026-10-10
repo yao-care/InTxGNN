@@ -14,7 +14,7 @@ permalink: /news/abatacept/
 ---
 
 <p class="key-answer" data-question="What news is there about Abatacept?">
-<strong>Abatacept</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Abatacept</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Abatacept with the latest he
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>rheumatoid vasculitis (99.9%)</li>
-<li>ankylosing spondylitis (99.9%)</li>
+<li class="indication-matched">ankylosing spondylitis (99.9%)<span class="indication-tag">📰 ankylosing spondylitis</span></li>
 <li>hypermobility of coccyx (99.9%)</li>
 <li>inflammatory spondylopathy (99.8%)</li>
 <li>Kummell disease (99.8%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Abatacept with the latest he
 <p><a href="{{ '/drugs/abatacept/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Plasma Protein Signatures Reveal Damage in Ankylosing Spondylitis - European Medical Journal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlVRYmpzeTNob0NaQnRVd3ZEUXBBYklYMTBVc2d2QllZS0M0MEhKUXRkcEJ0eG5nMWdtbVc1Z3lpOHhfamtyMHpXdTduUC1NNW15Q29DUnFndUlRd3BJWTl6OUZ3MWNvRGNObEVSN3hGUzNfS04tNGRCNTNzZWdUWGUxZGtnbjgxei1MM2ZRcnZ0UWlvN1ZVMTM2WDRhMVZaRXhhOU03ckJPYmp3VVhRVw?oc=5)
+
+2026-10-09 <span class="news-indication-tag">ankylosing spondylitis</span>
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlVRYmpzeTNob0NaQnRVd3ZEUXBBYklYMTBVc2d2QllZS0M0MEhKUXRkcEJ0eG5nMWdtbVc1Z3lpOHhfamtyMHpXdTduUC1NNW15Q29DUnFndUlRd3BJWTl6OUZ3MWNvRGNObEVSN3hGUzNfS04tNGRCNTNzZWdUWGUxZGtnbjgxei1MM2ZRcnZ0UWlvN1ZVMTM2WDRhMVZaRXhhOU03ckJPYmp3VVhRVw?oc=5)
+
+---
 
 
 <div class="disclaimer">
