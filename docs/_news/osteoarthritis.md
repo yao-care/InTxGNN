@@ -3,7 +3,7 @@ layout: default
 title: "osteoarthritis News"
 parent: Health News
 nav_exclude: true
-description: "Health news about osteoarthritis. 2 articles, 5 related drugs."
+description: "Health news about osteoarthritis. 1 articles, 5 related drugs."
 permalink: /news/osteoarthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/osteoarthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about osteoarthritis?">
-<strong>osteoarthritis</strong> currently has <strong>2 news articles</strong> and 5 related drugs.
+<strong>osteoarthritis</strong> currently has <strong>1 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,7 @@ This page brings together the latest health news about “osteoarthritis” and 
 </ul>
 </div>
 
-## Related News (2)
-
-### [FDA-approved epilepsy drug may help reverse osteoarthritis damage](https://news.google.com/rss/articles/CBMib0FVX3lxTE51VktSSDhsY1NyanNOWlZVczNrOVU5aXVzQ0VlZ0duYVhTbDB0UWxYcEVnTmJUQlpTVUw4WC00ekxfR3BPSmhWX19MUlNDM2RoaldLNUh1cm01dGI5LVFXeVZ0aml4N2dHX1V1WTg4NA?oc=5)
-
-2026-10-08
-
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE51VktSSDhsY1NyanNOWlZVczNrOVU5aXVzQ0VlZ0duYVhTbDB0UWxYcEVnTmJUQlpTVUw4WC00ekxfR3BPSmhWX19MUlNDM2RoaldLNUh1cm01dGI5LVFXeVZ0aml4N2dHX1V1WTg4NA?oc=5)
-
----
+## Related News (1)
 
 ### [Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSlFpVzdWUWZJQ09lamN3OC11ZDdGa29yXzB6OVdLZThlM0t5OUgzeExSYl9QWGRGMjRjU2JTNlNFTHNCUDhndFY2MnlyRXcwNTBCekx1ZXR0c3FpMUY1c3ZxQnVpS19iZDBaeVpIaw?oc=5)
 
