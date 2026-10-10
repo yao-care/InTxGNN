@@ -1,17 +1,146 @@
 {
-  "last_updated": "2026-10-10T02:52:45.780920+00:00",
-  "total_count": 119,
-  "matched_count": 34,
+  "last_updated": "2026-10-10T11:26:10.717473+00:00",
+  "total_count": 96,
+  "matched_count": 31,
   "news": [
     {
-      "id": "fbf45a752117",
-      "title": "Global cardiac rehabilitation access stagnates despite rising cardiovascular disease",
-      "published": "2026-10-10T02:19:00+00:00",
-      "summary": "Global cardiac rehabilitation access stagnates despite rising cardiovascular disease&nbsp;&nbsp;News-MedicalGlobal cardiac rehabilitation access stagnates over decade&nbsp;&nbsp;UA.NEWS",
+      "id": "794e94157925",
+      "title": "Multiple Sclerosis Knowledge Gaps Persist in Primary Care - European Medical Journal",
+      "published": "2026-10-10T11:01:08+00:00",
+      "summary": "Multiple Sclerosis Knowledge Gaps Persist in Primary Care&nbsp;&nbsp;European Medical Journal",
+      "sources": [
+        {
+          "name": "European Medical Journal",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1ZRZVF6LTA2X3BfeThFOEJ1alMtR1FuWVpodmRjdVp1YkZuaFhoMERXNUhuQ3lqdUdHYWtHUEZ0emJITlU4enZYQzRTbk4tSDdrOHBYLXZZWFVfN3lqNzBQdFZON1pOampkOHFSQ1YwT1BqS0lBRmtaTDA4S3NubHFWM3B6U1NfOUg1eWtoa1piQVEyNkhkRk5iQWVsRlRobFE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "multiple sclerosis",
+          "keyword": "multiple sclerosis",
+          "related_drugs": [
+            {
+              "slug": "mycophenolate_mofetil",
+              "name": "Mycophenolate Mofetil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc1a7d6999c4",
+      "title": "Project-Based Learning in Medical Physiology: Effects on Knowledge Gain and Student Perceptions - The Cureus Journal of Medical Science",
+      "published": "2026-10-10T10:22:13+00:00",
+      "summary": "Project-Based Learning in Medical Physiology: Effects on Knowledge Gain and Student Perceptions&nbsp;&nbsp;The Cureus Journal of Medical Science",
+      "sources": [
+        {
+          "name": "The Cureus Journal of Medical Science",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS3NyVElLakFqTzB5VnFaZERYZ1huTk1zaGdCV211Z0pYZW0yRWdqd1A5aDBNTnZvYy1Ca2h3R3QyYU1BVFlScW1vVXN3SU4yMU84U1ROVXJ2c1FjZnhXUTBMc0o3bzhlMWlYc3lpeEtTTUJuOGVrNmtkb24xLW5LUTFQemVkLTkwal8zczFNUWFyb1dvR2lOUGxBemlydXNCaHVSY0xrMVZldFBmX0VmS0hzaThlMDBpWVZ0QmZWOXNLWHYtOUx3M0IzcU9fdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d84e7467101b",
+      "title": "Skin rashes in children: Paediatrician explains common causes, warning signs and when parents should worry | Health - Hindustan Times",
+      "published": "2026-10-10T10:20:56+00:00",
+      "summary": "Skin rashes in children: Paediatrician explains common causes, warning signs and when parents should worry | Health&nbsp;&nbsp;Hindustan Times",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQ0c2aFdHb3pMelFoVS1JQ2tuaU1acEdGek5nbDEwbTBpZkdILTlEUGVzZWt3b0tUWWk4Y29XYUh1ZmIwRWFlTTROM2JrUUtSaGtqQUoyS29abzJsLUxFZzZxNWxwOU5DWE5BNjFrbkY0RWFsUE9IM3o5NmFHaFZhUjd1ZFNhWE45NFlkdTJLdGdKM1h5eE9zZWU3S3dDN1lFMUs0S2hCelZHQUNKMlNXcEJkQlNuVHRWWE95VHNWTHc0QWUyN3FPNjVCaGFNeWs2QzhjNWdHNXk5WFJlRkxOcnI5OFN5ZlFKQUM2RHNhbFYybzFhY2dWOXNidjE4LTlMWTNj0gGIAkFVX3lxTFBoR2JzZHhLLU1abmw0NTNtUjFxcUhLeWhqM3VTUWJva2EwOEdEQ1pPQ2dqcEJWNmhNVHdQYzhTQzR0R196X05DOHdxb0FkU0VlanlkdnVJM0NSMXFMeEVHYnpUT1RUdDdPYlRuNGtEZllRWmtIbk5lYlY3RkFYZ0paYlpaWU55ekpXUkhiQS1jTXA0UnRPaXF3dWJDajZWR1lhUzFNZ3VfYTZ4ZV8wdmlaQjhEZDlZb2piQ0xVRXdmQlctZDllZWZsN0hlR2tJclRVTUgtdmFSd1lwdUVpemlCX2NfZGNoaFVFS1E2M1ZIRjVUWlhMdktOeTFWSUR5R1pOLURfZF9hUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b7688d16f060",
+      "title": "Diagnostic and Treatment Initiation Delays Among Patients With Drug-Resistant Tuberculosis in North India: A Mixed-Methods Study - The Cureus Journal of Medical Science",
+      "published": "2026-10-10T09:57:13+00:00",
+      "summary": "Diagnostic and Treatment Initiation Delays Among Patients With Drug-Resistant Tuberculosis in North India: A Mixed-Methods Study&nbsp;&nbsp;The Cureus Journal of Medical Science",
+      "sources": [
+        {
+          "name": "The Cureus Journal of Medical Science",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOR0hTMnR2eTlzcWhOMWItWjJEeVZ6UjcwVVpTXzEyUG92OGt5c3JnT0VwQWZwekVIbjZWZl90R2FCdUZjWGk3TjBXNHRadjRUX2lvcjZmci0xMG9vVGtfbnJIMEpqX2hZeDBKSFpVd2RNc2NxOXlDY19kaG5JallVV0xrdmo2QWNJTHRBYUwyZ1Q0anJ2R0FlcjVXbUlDQjRwNTdBSE9zTWJYVUdnM2NyU2NMNzRMRDZqb09YdXdzX2VLWEpseklRT3U0UzI4YlhhUHdVd3I5bTZXbEoxOXNzQmFrNzNLcEJ0cE1VdXpZcGVmTlRHSUhUY3Jn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "87d5eac04898",
+      "title": "Penguin Poop May Be Speeding Up Antarctic Snow Melt: Study",
+      "published": "2026-10-10T08:32:11+00:00",
+      "summary": "Penguin Poop May Be Speeding Up Antarctic Snow Melt: Study&nbsp;&nbsp;NDTVPenguin poop is melting Antarctic snow by keeping algae green&nbsp;&nbsp;Phys.orgPenguin Poop Is Turning Antarctica Green, and Scientists Are Concerned&nbsp;&nbsp;SciTechDailyScientists find a surprising contributor to Antarctic snow melting — penguin poop&nbsp;&nbsp;ThePrintPenguin Poop Is Fueling Green Snow Algae in Antarctica, and Green Snow Absorbs About 40% More Sunlight Than Clean Snow&nbsp;&nbsp;Nature World News",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHJIek1Eb1cyUVItZWRUZGpPemNIYU1yZHhGZHpBeURweGJoQzhTelBNN1ZvMjhjdjBUSnFQRk5jbVZSRnhrX0UxUzFPYlh3UXU3U3FxRGg3dE9GR2NjV29ZbmRoenF6N1ZiRWQxMEppQXFJUncwMUlrUmRvWGNnMEkzdjhhM2lUbXdJM2JSMV95bDF6LURZdTRHc9IBowFBVV95cUxPQ0owLTYyWVBLOUhNRHU5ZnFmV3cyV1VFd2tydzlTUUFwV1NURklUOS11MWtNOHhfNlV1Qk5BbkstMHBvZ0ZxLUtxTnVKWTBQVVJSS1ozODFKMlhXVWRFbGJidFFTQVkxdkIxR0hxZjBGR3dyM2hoMElFdXZoXzVzSkFUdzA0UHB0eU1EOFgzWDdrcnBxaFZ6Y0UwUmlndE1Edlkw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e1c256744b12",
+      "title": "A trick from tardigrades could help human blood withstand freezing",
+      "published": "2026-10-10T08:03:00+00:00",
+      "summary": "A trick from tardigrades could help human blood withstand freezing&nbsp;&nbsp;News-MedicalSee more headlines and perspectives on Google News",
       "sources": [
         {
           "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQODFLWW8wUlBHdFNadDlXa1lVdHdvUmxlOHlrU1Z6eW45QUVrYzNKZmxWc0JGLXFsamxUOS1TWWhQTGVybWc1dUxfOHdpTDBCR3VFLVJGNlpkV2Y1dzktd0hvNE5MRFlZbWYxTFBFY3VXMUlNZ1I5cGNwR3luYzVhb3pVRlBtaFZKaUwzeDI4blFBZXRMejZHdTRVN1dIQlNERDJ1UnZ2V1B6U3E0Zk5nTlhPN25GdE5SREVoNWFhRTFkN2lPN1RUZXdBWWo?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFdpMVdMQkFWTFdHMmNvaGFXcVd4aUNrVU1FSEFZcEU3NHZwWHh3SEh5UUlRSm51aGRIN1k4d1dhZ2tXeEt3c0NjVEo3LWdHRVd6UHRhRFZsUjRKeTdXVWNvVEtPYS1pRHd4Zm8wUVdEX2hYMURqV1I5anFDdHE2VFRiR0N1MHJJLVNOTjhZT2sxclYtQ29aMlJUN1E3Z2pyOXVDbkZ3cXUyYWJaZUs1Y0I0NVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c33fcd3de0cb",
+      "title": "SpaceX Falcon 9 Launches SDA’s Fourth Tranche 1 Mission - NDTV Profit",
+      "published": "2026-10-10T07:56:21+00:00",
+      "summary": "SpaceX Falcon 9 Launches SDA’s Fourth Tranche 1 Mission&nbsp;&nbsp;NDTV ProfitSpaceX launches 21 satellites to orbit for the US military after 5-day delay&nbsp;&nbsp;SpacePAE for Missile Warning and Tracking and Space Development Agency Successfully Deliver Fourth Orbital Plane of Tranche 1 Satellites to Orbit – Space Development Agency&nbsp;&nbsp;Space Development Agency (SDA) (.mil)Tukwila’s Starfish Space Celebrates Launch of First Satellite-Servicing Vehicle&nbsp;&nbsp;425business.comSpaceX ",
+      "sources": [
+        {
+          "name": "NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQajhzcjJwUmxoOERIMnVWVmNUX1VQNlhDaXR6ME5OaE1ZWWx2SC1hR0FNZS1TaDNJRlhSa3FfbDgtbjVhSC01cXE2b2NZaXJJRllYS3JMM1R5TWJSbGNRRDUwcTJIb3ZmZUNRU0ZrS3BJaC1VcUlfeU1mdFZCSXMtWmh2TlRWODU0ZXdDQk9JVFJOak5KcEhQWVVOczZORnFq0gGoAUFVX3lxTE4wSmczOE8wUUVSUzRsSXJ4UDk1eEZvWDRKeFRRV2EtVm1FdjFQMWlvZDZkOWVNR2xaekdlYWRDYVVXbXZGTWlEQkI2NGFOaHM1Qi1FYm94M2Nhcl9pVHY2REg3NXByb2g2dnR0dE8zQlA5cnQ3Ynl4RGVMYjJTOXhjM19xNWxKN2c1WmRlaU1UTUE5aW5VVVNKUjBGTENJVENyS3lDNDd5Vw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a226723b27f9",
+      "title": "Treatment-resistant depression: what happens when antidepressants do not work? - The Hindu",
+      "published": "2026-10-10T07:51:33+00:00",
+      "summary": "Treatment-resistant depression: what happens when antidepressants do not work?&nbsp;&nbsp;The HinduMoving Away From Treatment-Resistant Depression and Toward Difficult-to-Treat Depression&nbsp;&nbsp;Psychiatric TimesWhy antidepressants can stop working after initially helping&nbsp;&nbsp;The Conversation",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR0hONmVtdlNrRnFteHR1dFVBMFg2ZjV0NTdWSzJERlhwMW0xSFJXeThWa2JUWWlvTU9RbC1WcHFtZGwxNXcyUUs4S21taDJfYTFmZWpqYUI4SkpkdTFUQW85SFpVSXo0eHJDY0hxOWkzLUdES1V4RFV0SGpHMzRWSDMwUWoyVlVBdmlhWlNkSUh1eU9qclFzWXZmeU9oYmZyVVZtQXlQanJ4R0RHNDRHTnM0RGZGUTBMZ25JOTFuVDhEcVpoajU2RkdUeDM3YnNza0hn0gHaAUFVX3lxTE5ld3NWbGZXRG9Rem0ybS01U1RfcF84YXVuRTNZZnpUaE5oZC1BejFIbW1XbnpPLU84Y3hTeHM3Y3loSXlVdzc3WUNnU0toY3lTdnNwY3NvR3kyaTdQLWpEYTJQNzF4YkpvTzR1TlE0b1FLUXNGaXNZLUZvbEhqQzRkLWs5Ti1UQnFQYW1pRHoxaWhrbnNYSnRrQk1rV3E4ZGJVdFN4cHpNaEpGdGVHR1dVTnhlc0FFclRRUzJqSE1XLXZfREZPRnZnUEx0bVhkclhlWWhjekF3dW9R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f8c7a3d542ac",
+      "title": "A Blood Marker Could Help Identify Fatty Liver Patients At Higher Risk, New Study Reveals - Times Now",
+      "published": "2026-10-10T07:30:00+00:00",
+      "summary": "A Blood Marker Could Help Identify Fatty Liver Patients At Higher Risk, New Study Reveals&nbsp;&nbsp;Times NowSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Times Now",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNnRKd1FuUENMdlBVRjdVVzBRVTRxd05HT19hMFQ4enNmUjBGMWN3OHk5NHRNYS1EUlZ6R0I5T0J1bktvMnhLamtWS2I3dHkxdVZrWTU1QS1PUU15dG91dko4NXdvWDdCLTFGV3FfS2pNX0YzVmdINGlyRWpXZGt6MGVpcmFkSktMdjBMaEV3U3RhRjFiVDFpNTJ0dVdYSV85eExoTUY2NjRDN3ZDTEpkbWhCOWpPbEZwb2hQWUxpakVkcW8yMnZyclNXcGluMVdqUlB3eFdrREpBUdIB3wFBVV95cUxQREZ4cWZUdUhyYXczV0xwUE5JR0ZnQTI5NENldXNvNVE0azc0b0ZSUW9QbDB2ekh5bGhLUFI4Y3NxdS1SVzVvdHBSSTRUS0pzbWN6SjAtTE1iZFdoMG5rZ3ZQcGhzb1NCQXdaRUtfSkNfZmN3SHJ3eFgwSDNhanFoeUxrU3JFMlEtZkFyaURSNVVaN2lUaFUzaklrLWhyamNuVE9JSGZlQ2NVRERNclZBdVd2Mk55RjZZQ09QUWhDVHJEMVdEaEhVU2wxd1VoWkNYclVFY0lhUGlHb2dpY1Q0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7a0f82f91dac",
+      "title": "The heart attack we see, the brain we don’t | Hindustan Times - Hindustan Times",
+      "published": "2026-10-10T07:07:58+00:00",
+      "summary": "The heart attack we see, the brain we don’t | Hindustan Times&nbsp;&nbsp;Hindustan TimesCATIE | Canadian study links cardiovascular disease to declining brain health&nbsp;&nbsp;European AIDS Treatment GroupHeart and brain health are linked: Cardiologist explains the connection and what to monitor for better health&nbsp;&nbsp;Hindustan Times",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXY2UnJpdzVKZnVSMmZ1OVhDU0NjcktZbmV5d3ZCMmZ4V21NSTE1LU1yNERSOVhkRGJraTNzeG5UeFlMS2pXU3c0S1FNMGFyQnp5VjRncVRDcnVQQXhUcE9XWmNhMjhyVFNnV01MOEw2TUExR0k1cGU5OG5Fb0ZlOEhVVGtFRlkwVlNMWEtGSllHcmFzZ1dlbHZqOFltOXI4RnJ4ZGVocXlUUk1OVzlKcmlUdEhLVGlzX1HSAb8BQVVfeXFMUF8wQmJBSkhPcGNubklzeTZRYVJEYl9HVlFYVUswTW9KeTdsMGNwY0tSM3VCTnAtLXVCLWgzbW1Hc3JzR0pyOTNmbFpGYTJ5XzJIT3FLcVlXUFJmNU1ZVmh2Mk8wLWhCSGxrS05Ick1jOVdkbXM5OXh4Zk9lcXdWOURxNmR4LWI4WWtpcTZzOElkemdzTjJMbTEwYzEza3l5WFY5aWRSV3F5Sy1kUi1LZTBCdFlxdHlZT1ZSMHl1OUU?oc=5"
         }
       ],
       "matched_keywords": [
@@ -168,10 +297,96 @@
       ]
     },
     {
+      "id": "84982b76bfe3",
+      "title": "Healthy Diets May Support Cognitive Performance, Study Finds - The Indian Practitioner",
+      "published": "2026-10-10T06:33:43+00:00",
+      "summary": "Healthy Diets May Support Cognitive Performance, Study Finds&nbsp;&nbsp;The Indian PractitionerCertain diets are linked to better cognitive performance, new study finds&nbsp;&nbsp;Medical XpressCloser MIND Diet Adherence Linked to Slower Gray Matter Loss in 1,647 Framingham Adults Followed About 12 Years&nbsp;&nbsp;Medical DailyNew Study of Diets Suggests Which May Offer Cognitive and Executive Function Gains | Newswise&nbsp;&nbsp;NewswiseBrain-boosting foods to add to shopping list&nbsp;&nbsp;t",
+      "sources": [
+        {
+          "name": "The Indian Practitioner",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGF4VGR1QTB0TkxTenZCc2I3eXdacEZwbnJzVjhFbnNWTzZqWU5sQnZyamt6MzBsMm5veDZ0aThoVXNrcWZWZEF5T0c0UlZiMkNybDhwN3VpM2ZnZnd5WjgxNElZckV4U19pTTV1R2JUVUhvdHBnYlNla3FiQ3piaEdfVW5VZVZPc0lSUVVDVF9aYjgzUUJqN3Jn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "64ee5d66e8df",
+      "title": "Lp(a) and the EAS Risk Calculator: Bringing Hidden Cardiovascular Risk into Clinical View-Dr Suraj Patil - Medical Dialogues",
+      "published": "2026-10-10T06:10:12+00:00",
+      "summary": "Lp(a) and the EAS Risk Calculator: Bringing Hidden Cardiovascular Risk into Clinical View-Dr Suraj Patil&nbsp;&nbsp;Medical DialoguesHave You Had Your Lp(a) Levels Checked?&nbsp;&nbsp;UC San Diego TodayLp(a): The ‘sticky’ cholesterol gene you might not know you have&nbsp;&nbsp;The TelegraphFunction Health Highlights Lp(a) Testing as Part of Preventive Health Membership&nbsp;&nbsp;TipRanks",
+      "sources": [
+        {
+          "name": "Medical Dialogues",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPalMxLXEwM2Zwb095MWIzNVpKRXEyU1lNTjJicGdmeFZKRjI4OTBfVS1iVDdlM1lOVEVYZU41N1VQS0xTTWVZX0kwWFlZVnpHVWtpajVkMk1xQW04aEFCV2VUVGRqcExKeVBVWTVtRkZHbzdRYXRkRGZ3bU1ITF9vLXZTekhiZEdTeWl3ajhYbmhFZVVyWDFteUxRTzU1Q0Y4Z0U0T21KOFBIYWhiWmpodzcxMEJqd2MwTkk4OFJCM2EzQTVSWmUxc2xKRWVDZWRTS05lX0FPZkd4UzQ2cVlTamZfcWk2ZzZiWEl0R21n0gHzAUFVX3lxTE5RMDNydlBBU2Myb1VtTFB1Rk1DazkzZzRzcGtscDRpbl9GUVFVSjVPTWZzc19kbkZ5dTNKdkxDV0lYczF3XzNHR3NBSGNjOU5LOERYdHBDZHJrWGdOb0lVaFp5VDZDVngyRlJpeXZ5anViRzdZd2VyejlaV2RrY1FWeWhzVHlnaF9hd3hZMVNpeVFEUU1uZmpiZDRJdzFScjhyRzNyVDQ4NTl4VmNxU0tjajFJSWo1RnZBSnJhVmdmclRqSldyV3YxMzRUNVljbUQyMlpuRm1xMFhUcFc3WDRjQjdHZ0xSTzFBQjJ4SDZhUV9paw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "79dde2a7e0c6",
+      "title": "Bacteria Turn A Virus' Own Weapon Against It: Study",
+      "published": "2026-10-10T05:48:25+00:00",
+      "summary": "Bacteria Turn A Virus' Own Weapon Against It: Study&nbsp;&nbsp;NDTVPhage Proteases Trigger a Conserved Bacterial Antiviral Defense Pathway&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMGR4LW02bjlCUnl4bmhkTmUwTjFYcmItb2RBM2ZYcUY4aTNFUkJJZzJMMWlpN2VYQWxhaE8wQlloR1IzaklxRzBsdHhyVzNoUVhjUlB0WHFxUHFnSTZxOGJodlZnbFhyUzVqMll0TzlnNlREYlBRa0tEUjJhREZxcm9feDFIcWY1b2lWUXEzTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "485c72c370e5",
+      "title": "Top 10 Vitamin B12-Rich Foods in the World: Best Sources for Your Health",
+      "published": "2026-10-10T05:25:41+00:00",
+      "summary": "Top 10 Vitamin B12-Rich Foods in the World: Best Sources for Your Health&nbsp;&nbsp;https://docksiderestaurant.com.au/",
+      "sources": [
+        {
+          "name": "https://docksiderestaurant.com.au/",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HSzRrd0UzVHdWTklOLURsTjI3ZlRiOGd0NXJkTTNQdUQ0RF9OY1ZjaVVqMEQ3SGdmNGpUcnNoR1lob1I5T0RmcktCU3h4YXhRcW5MNVB0dmszbjA5Yk1sRjhZcVVGSjdEUG9TRjlRb1YtUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4d05b1ce2833",
+      "title": "In 2019, scientists found clues to how the living coelacanth's hinged skull grows and why its brain stays - The Times of India",
+      "published": "2026-10-10T03:30:00+00:00",
+      "summary": "In 2019, scientists found clues to how the living coelacanth's hinged skull grows and why its brain stays&nbsp;&nbsp;The Times of India",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNLWNJYmdBd0VLMXJEUVJuQ2dGN1lmcDNoNm9MVGVQbjRueTVmUzZfN0tVem1TM3ctZGxIejdoT0hmMDlyVjBKSXhmelpsYy1fX0lFSWl4Zkc3MnB1ZWpOQUFFdkJFY1IwVm1KUDNxMXMyaTNRV2htZkxBbUJBTUstd3NBbmwycXNvYkVZQzdXOW10MXFwR1pXcTdVeG5jd0tEZ1VRYTVpMTd4NUZFMXJyUGtZUVNYWUlSb2l6REhZcTBWMDNTUnJtX2ZKT21DbXQxTE03elBoTUNFQmFSajZIa08tbzN6ZUtlM1Iwbm5LUGJQajZSNkJScTlTOGlsRFBWNkFfRmNFaXlqaGV5TzhsYWQ1Ymo2MXg5WnpMa2NhTHBPUWRUT21FYjJwVkZPenpkVnhJMDV3NlQtOWR2YVZaSjk1SE3SAcoCQVVfeXFMUGgtTTBVbHRlcFRmYnpRX0doSm5ocjhVLS1JM3ktWHFmWm90XzVfTGU2RjRySlhiM0YyQ2hCZzJRdjFoV3BVWTZJeHlwUV9Pdk55Nkd6b1hpLU1JSjRFWVNyNVhsamYxYWhWSHg4cHU0RzBidFZjN1pKVWd0UHRQV3RJRVJNUks3VFZFNFZJRUl1WmZ6NmVpcEFsRXdnVzRMcHh3bVA2VDNyMlJicXEyY0VrNFBwRmthd3o4M2J3T3kxTWdOeGNnSUpKd2NvVnE2QjQ4RHE0RTllNHBqZnEzSzYxTjJPMW83LTYxTnk4cFhkelJQenVXTkxzcEVCOFFPVGFlRjhjUnN5eWU5bko1WlVQRnRVUU9OS25ZZnpvUElpd1JRd3BjYnoyNjJvRTY5TTE3dHViRGpXYzU2M1phUE9XWEZObUh5dXZB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7672e6b2fe3d",
+      "title": "GLP-1 Drugs' Anti-Aging Exploration Heats Up: Tirzepatide, Semaglutide May \"Turn Back the Clock\" - BigGo Finance",
+      "published": "2026-10-10T01:05:00+00:00",
+      "summary": "GLP-1 Drugs' Anti-Aging Exploration Heats Up: Tirzepatide, Semaglutide May \"Turn Back the Clock\"&nbsp;&nbsp;BigGo FinanceCan Weight Loss Drugs Slow Your Biological Clock? New Studies Suggest Yes&nbsp;&nbsp;NDTVYour Ozempic Prescription May Come With a Surprising Bonus: Slower Aging&nbsp;&nbsp;GizmodoThe Download: weight-loss drugs slowing aging and carbon dioxide batteries&nbsp;&nbsp;MIT Technology ReviewOzempic and Zepbound Makers Report Slower Aging Clocks, but Unreviewed Data Do Not Prove Pat",
+      "sources": [
+        {
+          "name": "BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KYWMtbDlmeEtWU0hmTGNPdU81d0JZVXlFelptNW9heHUxRkRQaUFEaS1uTnNPVmE4eWptdkRrdmxzRlFWMUg5UjZMNmx2bllMaVpRcWI3LWNVMnlmLWJVcVhldk96NHZPdUZFV1VoNTVRX3M4bmc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "slug": "db13928",
+          "keyword": "semaglutide",
+          "name": "SEMAGLUTIDE",
+          "url": "/drugs/db13928/"
+        }
+      ]
+    },
+    {
       "id": "5a6a4f7fbae5",
       "title": "Exploring the science of keeping your mind sharp as you age",
       "published": "2026-10-09T23:00:59+00:00",
-      "summary": "Exploring the science of keeping your mind sharp as you age&nbsp;&nbsp;PBSHow to cut your dementia risk: 7 key lessons from the world’s most important studies&nbsp;&nbsp;BBC Science Focus MagazineI’m a neurosurgeon — 7 everyday habits that are quietly damaging your brain&nbsp;&nbsp;New York PostWant a Sharper Brain as You Age — Why a Neurologist Avoids These 9 Everyday Habits Completely&nbsp;&nbsp;GraziaBrain Longevity: The 4-Pillars of Alzheimer's Prevention&nbsp;&nbsp;Columbus Jewish News",
+      "summary": "Exploring the science of keeping your mind sharp as you age&nbsp;&nbsp;PBSPeople Who Want Healthier Brains As They Age Usually Avoid 9 Everyday Things, Says Neurologist&nbsp;&nbsp;YourTangoI’m a neurosurgeon — 7 everyday habits that are quietly damaging your brain&nbsp;&nbsp;New York PostKeeping brain sharp can help slow dementia affects&nbsp;&nbsp;Cleveland Jewish NewsYou can slow the process of brain aging&nbsp;&nbsp;Iron Mountain Daily News",
       "sources": [
         {
           "name": "PBS",
@@ -179,6 +394,20 @@
         }
       ],
       "matched_keywords": [
+        {
+          "type": "drug",
+          "slug": "db01592",
+          "keyword": "iron",
+          "name": "IRON",
+          "url": "/drugs/db01592/"
+        },
+        {
+          "type": "drug",
+          "slug": "iron",
+          "keyword": "iron",
+          "name": "Iron",
+          "url": "/drugs/iron/"
+        },
         {
           "type": "indication",
           "name": "dementia",
@@ -349,53 +578,14 @@
       ]
     },
     {
-      "id": "001cd0c72e4f",
-      "title": "Astronomers spotted 10-minute X-ray burst EP250704a 6 billion light-years away",
-      "published": "2026-10-09T22:18:59+00:00",
-      "summary": "Astronomers spotted 10-minute X-ray burst EP250704a 6 billion light-years away&nbsp;&nbsp;NewsBytesMysterious 10-minute X-ray burst from a distant galaxy may have come from 2 dead stars colliding&nbsp;&nbsp;SpaceEinstein Probe reveals a hidden phase of neutron star collisions&nbsp;&nbsp;ScienceDailyDid scientists just find a new way to detect neutron star mergers? Study provides fresh clue&nbsp;&nbsp;Starlust.orgHidden X-ray phase revealed in likely neutron star merger&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "NewsBytes",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUZHOG5ZQmF3MkJmemhEMmc5UXFpVloxQXhlLUVhaE9mUzFsSGkzOXpIREV0ZlNYcWhDX3QtdThzaFZwUk1VU0Z4RVhyRnVLWGNxRVRWZFNQdWwzbXNQTF85SllJdFdGOHZENkJxaExEVHFfbnhkajRnbnZ5OWJ1VEtNNF8tdDd1YVhFMGpCcnh3YVRBMmQ5a2RRbll2aEV0MENXRGg3amMyZ2JfMGZXNl94QzJtdTZRWTk3VFJFaDVkWVU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "542d31ccf1e5",
-      "title": "The hidden cost of scrolling - The Daily Star",
-      "published": "2026-10-09T22:11:31+00:00",
-      "summary": "The hidden cost of scrolling&nbsp;&nbsp;The Daily StarThe negative effects of social media use on adult mental health&nbsp;&nbsp;Rising Sun NewspapersDoomed to doomscroll&nbsp;&nbsp;The California AggieExperts flag phone & social media addiction behind mental health issues&nbsp;&nbsp;Pioneer EdgeWhat Is Zombie Scrolling? Psychiatrist Explains Its Impact on Mental Health&nbsp;&nbsp;Onlymyhealth",
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMm5iQ0p3SWN4c1BacmJnaWZnd29jY085a1hRRTVka3JBbmlzand2WWhGYmNsazlDMzA3QkZNSDZWU1FZaUN1bC1nRFhkcVpmUkQ3cjhYYVpTSlJQVWxfR1RfdW5XQ0N6bzJTWU9yR0VZNWV0bEdqNHNPOWFkdzd4TXgxTDFZRTlmV1J3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e76077ace793",
       "title": "Astronomers discover possible ‘phoenix planet’ formed from the remains of a dying star - The Daily Star",
       "published": "2026-10-09T22:11:31+00:00",
-      "summary": "Astronomers discover possible ‘phoenix planet’ formed from the remains of a dying star&nbsp;&nbsp;The Daily StarSuspected Second-generation Planet Solves NASA Hubble Cold Case&nbsp;&nbsp;NASA Science (.gov)Like a Mythical Phoenix, This Planet May Have Risen From the Ashes of a Dead Star&nbsp;&nbsp;Smithsonian MagazineDiscovery of a second-generation planet candidate accreting onto a white dwarf&nbsp;&nbsp;NatureThe phoenix planet: astronomers find a world reborn from its star's ashes&nbsp;&nbsp;",
+      "summary": "Astronomers discover possible ‘phoenix planet’ formed from the remains of a dying star&nbsp;&nbsp;The Daily StarSuspected Second-generation Planet Solves NASA Hubble Cold Case&nbsp;&nbsp;NASA Science (.gov)The phoenix planet: astronomers find a world reborn from its star's ashes&nbsp;&nbsp;University of WarwickHubble Space Telescope may have found a planet born after its star died&nbsp;&nbsp;ScienceDailyDiscovery Of A Second-generation Planet Candidate Accreting Onto A White Dwarf&nbsp;&nbsp;Ast",
       "sources": [
         {
           "name": "The Daily Star",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXNqY0owSTV0MkVTZEU2bE5hWHY4bE5XR3YtT0NaZ1lHOF83WERJeXl6Y3BnQTZkd0poNFdacmt1bnJuMFlwWnRTQks3NlVJX3pKNms4X2RmS1JBYW9kQkpqano1RVVBWnlRMUVwYXhfN0oyVXZCUVhqNmVYQlBPblVzTm5jNmwtbV92dlI5Z1g0M0wtdWt4VmJXMkZfUzJIRnRPaXo4dEp3azF1WUhTTUx2WTAwWmM3YlJBUFhNblJpWUpsWFFyNXhJOVc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "63cffbffa3d5",
-      "title": "Danish university approves hepatitis B study in Guinea-Bissau",
-      "published": "2026-10-09T21:48:51+00:00",
-      "summary": "Danish university approves hepatitis B study in Guinea-Bissau&nbsp;&nbsp;UA.NEWSCDC Is Moving Forward With a Previously Shelved Controversial Hepatitis B Vaccine Study&nbsp;&nbsp;Rolling StoneControversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau&nbsp;&nbsp;The GuardianCDC director’s office ordered $1.6 million reserved for Guinea-Bissau trial — Ars Technica&nbsp;&nbsp;UA.NEWSHepatitis B vaccine study condemned as unethical wins approval from Danish university&nbsp;&nbsp;CID",
-      "sources": [
-        {
-          "name": "UA.NEWS",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcnk5YVJDR3pEWVVCcWdyalV4dGdmbTNoNUFPSzc0RnZZSVFpdXBRQkg3dllwajQxaG5ja1VSNi01cUc4dEE0cUoxUEtraUc4dmdNek5YVzlFdHplUGMyeHJlQnhZUWlfbnlhMnY3X2lvdlB1ZW9mNTBiLUZfYXJfcy1VVFF2U2tXaUxOR3hzal90WENmLV9XWWY2T0lzNUI5WUc0Q2hwWnQ2ZExpcHB0eUNCdXc1Nm8?oc=5"
         }
       ],
       "matched_keywords": []
@@ -509,7 +699,7 @@
       "id": "78f68e41aff1",
       "title": "Gut Bacteria Molecule Slows Atherosclerosis in Mice - Lifespan Research Institute",
       "published": "2026-10-09T20:47:59+00:00",
-      "summary": "Gut Bacteria Molecule Slows Atherosclerosis in Mice&nbsp;&nbsp;Lifespan Research Institute​Forget the pill, common gut microbe produces molecule that cuts cholesterol and betters heart health: What the new study found​&nbsp;&nbsp;The Times of IndiaA gut microbial odd-chain fatty acid alleviates atherosclerosis in mice&nbsp;&nbsp;NatureChronic intestinal inflammation can affect heart through changes in gut microbiota and immune cells, study finds&nbsp;&nbsp;Medical XpressCertain gut bacteria are ",
+      "summary": "Gut Bacteria Molecule Slows Atherosclerosis in Mice&nbsp;&nbsp;Lifespan Research InstituteA gut microbial odd-chain fatty acid alleviates atherosclerosis in mice&nbsp;&nbsp;Nature​Forget the pill, common gut microbe produces molecule that cuts cholesterol and betters heart health: What the new study found​&nbsp;&nbsp;The Times of IndiaThis gut bug may help lower LDL cholesterol like statins: Scientists find how&nbsp;&nbsp;The Indian ExpressCertain gut bacteria are linked to better outcomes in he",
       "sources": [
         {
           "name": "Lifespan Research Institute",
@@ -517,982 +707,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "e6841ab0330f",
-      "title": "C/Can Advances the Implementation of Global Breast Cancer Guidelines",
-      "published": "2026-10-09T20:40:39+00:00",
-      "summary": "C/Can Advances the Implementation of Global Breast Cancer Guidelines&nbsp;&nbsp;OncodailyBreast Cancer Awareness Month: ‘Every Story is Unique, Every Journey Matters’&nbsp;&nbsp;World Health Organization (WHO)WHO urges lifestyle changes to cut breast cancer risk&nbsp;&nbsp;TimesLIVEGlobal Breast Cancer Initiative: Milestones&nbsp;&nbsp;European Medical Journal",
-      "sources": [
-        {
-          "name": "Oncodaily",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "ademetionine",
-              "name": "Ademetionine"
-            },
-            {
-              "slug": "aflibercept",
-              "name": "Aflibercept"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            },
-            {
-              "slug": "aliskiren",
-              "name": "Aliskiren"
-            },
-            {
-              "slug": "altretamine",
-              "name": "Altretamine"
-            },
-            {
-              "slug": "amifostine",
-              "name": "Amifostine"
-            },
-            {
-              "slug": "amiloride",
-              "name": "Amiloride"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine"
-            },
-            {
-              "slug": "amoxicillin",
-              "name": "Amoxicillin"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "Ampicillin"
-            },
-            {
-              "slug": "amylmetacresol",
-              "name": "Amylmetacresol"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "anidulafungin",
-              "name": "Anidulafungin"
-            },
-            {
-              "slug": "arsenic_trioxide",
-              "name": "Arsenic Trioxide"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "axitinib",
-              "name": "Axitinib"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "Azithromycin"
-            },
-            {
-              "slug": "aztreonam",
-              "name": "Aztreonam"
-            },
-            {
-              "slug": "basiliximab",
-              "name": "Basiliximab"
-            },
-            {
-              "slug": "becaplermin",
-              "name": "Becaplermin"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic Acid"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "bendamustine",
-              "name": "Bendamustine"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "Bisoprolol"
-            },
-            {
-              "slug": "bleomycin",
-              "name": "Bleomycin"
-            },
-            {
-              "slug": "bupropion",
-              "name": "Bupropion"
-            },
-            {
-              "slug": "cabazitaxel",
-              "name": "Cabazitaxel"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline"
-            },
-            {
-              "slug": "cabozantinib",
-              "name": "Cabozantinib"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            },
-            {
-              "slug": "chlorthalidone",
-              "name": "Chlorthalidone"
-            },
-            {
-              "slug": "choline_salicylate",
-              "name": "Choline Salicylate"
-            },
-            {
-              "slug": "ciprofloxacin",
-              "name": "Ciprofloxacin"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine"
-            },
-            {
-              "slug": "dacarbazine",
-              "name": "Dacarbazine"
-            },
-            {
-              "slug": "dactinomycin",
-              "name": "Dactinomycin"
-            },
-            {
-              "slug": "dasatinib",
-              "name": "Dasatinib"
-            },
-            {
-              "slug": "daunorubicin",
-              "name": "Daunorubicin"
-            },
-            {
-              "slug": "db00002",
-              "name": "CETUXIMAB"
-            },
-            {
-              "slug": "db00059",
-              "name": "PEGASPARGASE"
-            },
-            {
-              "slug": "db00072",
-              "name": "TRASTUZUMAB"
-            },
-            {
-              "slug": "db00073",
-              "name": "RITUXIMAB"
-            },
-            {
-              "slug": "db00112",
-              "name": "BEVACIZUMAB"
-            },
-            {
-              "slug": "db00188",
-              "name": "BORTEZOMIB"
-            },
-            {
-              "slug": "db00242",
-              "name": "CLADRIBINE"
-            },
-            {
-              "slug": "db00248",
-              "name": "CABERGOLINE"
-            },
-            {
-              "slug": "db00262",
-              "name": "CARMUSTINE"
-            },
-            {
-              "slug": "db00290",
-              "name": "BLEOMYCIN"
-            },
-            {
-              "slug": "db00291",
-              "name": "CHLORAMBUCIL"
-            },
-            {
-              "slug": "db00305",
-              "name": "MITOMYCIN"
-            },
-            {
-              "slug": "db00317",
-              "name": "GEFITINIB"
-            },
-            {
-              "slug": "db00361",
-              "name": "VINORELBINE"
-            },
-            {
-              "slug": "db00396",
-              "name": "PROGESTERONE"
-            },
-            {
-              "slug": "db00398",
-              "name": "SORAFENIB"
-            },
-            {
-              "slug": "db00441",
-              "name": "GEMCITABINE"
-            },
-            {
-              "slug": "db00443",
-              "name": "BETAMETHASONE"
-            },
-            {
-              "slug": "db00445",
-              "name": "EPIRUBICIN"
-            },
-            {
-              "slug": "db00480",
-              "name": "LENALIDOMIDE"
-            },
-            {
-              "slug": "db00488",
-              "name": "ALTRETAMINE"
-            },
-            {
-              "slug": "db00499",
-              "name": "FLUTAMIDE"
-            },
-            {
-              "slug": "db00515",
-              "name": "CISPLATIN"
-            },
-            {
-              "slug": "db00526",
-              "name": "OXALIPLATIN"
-            },
-            {
-              "slug": "db00530",
-              "name": "ERLOTINIB"
-            },
-            {
-              "slug": "db00531",
-              "name": "CYCLOPHOSPHAMIDE"
-            },
-            {
-              "slug": "db00537",
-              "name": "CIPROFLOXACIN"
-            },
-            {
-              "slug": "db00541",
-              "name": "VINCRISTINE"
-            },
-            {
-              "slug": "db00544",
-              "name": "FLUOROURACIL"
-            },
-            {
-              "slug": "db00547",
-              "name": "DESOXIMETASONE"
-            },
-            {
-              "slug": "db00553",
-              "name": "METHOXSALEN"
-            },
-            {
-              "slug": "db00563",
-              "name": "METHOTREXATE"
-            },
-            {
-              "slug": "db00570",
-              "name": "VINBLASTINE"
-            },
-            {
-              "slug": "db00571",
-              "name": "PROPRANOLOL"
-            },
-            {
-              "slug": "db00588",
-              "name": "FLUTICASONE PROPIONATE"
-            },
-            {
-              "slug": "db00591",
-              "name": "FLUOCINOLONE ACETONIDE"
-            },
-            {
-              "slug": "db00603",
-              "name": "MEDROXYPROGESTERONE ACETATE"
-            },
-            {
-              "slug": "db00620",
-              "name": "TRIAMCINOLONE"
-            },
-            {
-              "slug": "db00631",
-              "name": "CLOFARABINE"
-            },
-            {
-              "slug": "db00642",
-              "name": "PEMETREXED"
-            },
-            {
-              "slug": "db00675",
-              "name": "TAMOXIFEN"
-            },
-            {
-              "slug": "db00694",
-              "name": "DAUNORUBICIN"
-            },
-            {
-              "slug": "db00724",
-              "name": "IMIQUIMOD"
-            },
-            {
-              "slug": "db00741",
-              "name": "HYDROCORTISONE"
-            },
-            {
-              "slug": "db00742",
-              "name": "MANNITOL"
-            },
-            {
-              "slug": "db00755",
-              "name": "TRETINOIN"
-            },
-            {
-              "slug": "db00762",
-              "name": "IRINOTECAN"
-            },
-            {
-              "slug": "db00773",
-              "name": "ETOPOSIDE"
-            },
-            {
-              "slug": "db00851",
-              "name": "DACARBAZINE"
-            },
-            {
-              "slug": "db00860",
-              "name": "PREDNISOLONE"
-            },
-            {
-              "slug": "db00877",
-              "name": "SIROLIMUS"
-            },
-            {
-              "slug": "db00917",
-              "name": "DINOPROSTONE"
-            },
-            {
-              "slug": "db00925",
-              "name": "PHENOXYBENZAMINE"
-            },
-            {
-              "slug": "db00928",
-              "name": "AZACITIDINE"
-            },
-            {
-              "slug": "db00958",
-              "name": "CARBOPLATIN"
-            },
-            {
-              "slug": "db00959",
-              "name": "METHYLPREDNISOLONE"
-            },
-            {
-              "slug": "db00970",
-              "name": "DACTINOMYCIN"
-            },
-            {
-              "slug": "db00987",
-              "name": "CYTARABINE"
-            },
-            {
-              "slug": "db00997",
-              "name": "DOXORUBICIN"
-            },
-            {
-              "slug": "db01005",
-              "name": "HYDROXYUREA"
-            },
-            {
-              "slug": "db01030",
-              "name": "TOPOTECAN"
-            },
-            {
-              "slug": "db01033",
-              "name": "MERCAPTOPURINE"
-            },
-            {
-              "slug": "db01041",
-              "name": "THALIDOMIDE"
-            },
-            {
-              "slug": "db01042",
-              "name": "MELPHALAN"
-            },
-            {
-              "slug": "db01059",
-              "name": "NORFLOXACIN"
-            },
-            {
-              "slug": "db01101",
-              "name": "CAPECITABINE"
-            },
-            {
-              "slug": "db01119",
-              "name": "DIAZOXIDE"
-            },
-            {
-              "slug": "db01165",
-              "name": "OFLOXACIN"
-            },
-            {
-              "slug": "db01168",
-              "name": "PROCARBAZINE"
-            },
-            {
-              "slug": "db01169",
-              "name": "ARSENIC TRIOXIDE"
-            },
-            {
-              "slug": "db01177",
-              "name": "IDARUBICIN"
-            },
-            {
-              "slug": "db01196",
-              "name": "ESTRAMUSTINE"
-            },
-            {
-              "slug": "db01200",
-              "name": "BROMOCRIPTINE"
-            },
-            {
-              "slug": "db01204",
-              "name": "MITOXANTRONE"
-            },
-            {
-              "slug": "db01206",
-              "name": "LOMUSTINE"
-            },
-            {
-              "slug": "db01229",
-              "name": "PACLITAXEL"
-            },
-            {
-              "slug": "db01234",
-              "name": "DEXAMETHASONE"
-            },
-            {
-              "slug": "db01248",
-              "name": "DOCETAXEL"
-            },
-            {
-              "slug": "db01254",
-              "name": "DASATINIB"
-            },
-            {
-              "slug": "db01259",
-              "name": "LAPATINIB"
-            },
-            {
-              "slug": "db01260",
-              "name": "DESONIDE"
-            },
-            {
-              "slug": "db01262",
-              "name": "DECITABINE"
-            },
-            {
-              "slug": "db01268",
-              "name": "SUNITINIB"
-            },
-            {
-              "slug": "db01269",
-              "name": "PANITUMUMAB"
-            },
-            {
-              "slug": "db01590",
-              "name": "EVEROLIMUS"
-            },
-            {
-              "slug": "db04572",
-              "name": "THIOTEPA"
-            },
-            {
-              "slug": "db04845",
-              "name": "IXABEPILONE"
-            },
-            {
-              "slug": "db04868",
-              "name": "NILOTINIB"
-            },
-            {
-              "slug": "db05109",
-              "name": "TRABECTEDIN"
-            },
-            {
-              "slug": "db05294",
-              "name": "VANDETANIB"
-            },
-            {
-              "slug": "db05578",
-              "name": "RAMUCIRUMAB"
-            },
-            {
-              "slug": "db06287",
-              "name": "TEMSIROLIMUS"
-            },
-            {
-              "slug": "db06366",
-              "name": "PERTUZUMAB"
-            },
-            {
-              "slug": "db06589",
-              "name": "PAZOPANIB"
-            },
-            {
-              "slug": "db06616",
-              "name": "BOSUTINIB"
-            },
-            {
-              "slug": "db06626",
-              "name": "AXITINIB"
-            },
-            {
-              "slug": "db06650",
-              "name": "OFATUMUMAB"
-            },
-            {
-              "slug": "db06769",
-              "name": "BENDAMUSTINE"
-            },
-            {
-              "slug": "db06809",
-              "name": "PLERIXAFOR"
-            },
-            {
-              "slug": "db08865",
-              "name": "CRIZOTINIB"
-            },
-            {
-              "slug": "db08875",
-              "name": "CABOZANTINIB"
-            },
-            {
-              "slug": "db08877",
-              "name": "RUXOLITINIB"
-            },
-            {
-              "slug": "db08885",
-              "name": "AFLIBERCEPT"
-            },
-            {
-              "slug": "db08889",
-              "name": "CARFILZOMIB"
-            },
-            {
-              "slug": "db08896",
-              "name": "REGORAFENIB"
-            },
-            {
-              "slug": "db08899",
-              "name": "ENZALUTAMIDE"
-            },
-            {
-              "slug": "db08910",
-              "name": "POMALIDOMIDE"
-            },
-            {
-              "slug": "db08911",
-              "name": "TRAMETINIB"
-            },
-            {
-              "slug": "db09035",
-              "name": "NIVOLUMAB"
-            },
-            {
-              "slug": "db09037",
-              "name": "PEMBROLIZUMAB"
-            },
-            {
-              "slug": "db09053",
-              "name": "IBRUTINIB"
-            },
-            {
-              "slug": "db09063",
-              "name": "CERITINIB"
-            },
-            {
-              "slug": "db09074",
-              "name": "OLAPARIB"
-            },
-            {
-              "slug": "db09078",
-              "name": "LENVATINIB"
-            },
-            {
-              "slug": "db09079",
-              "name": "NINTEDANIB"
-            },
-            {
-              "slug": "db09256",
-              "name": "TEGAFUR"
-            },
-            {
-              "slug": "db09257",
-              "name": "GIMERACIL"
-            },
-            {
-              "slug": "db09331",
-              "name": "DARATUMUMAB"
-            },
-            {
-              "slug": "db09343",
-              "name": "TIPIRACIL"
-            },
-            {
-              "slug": "db11595",
-              "name": "ATEZOLIZUMAB"
-            },
-            {
-              "slug": "db11703",
-              "name": "ACALABRUTINIB"
-            },
-            {
-              "slug": "db11714",
-              "name": "DURVALUMAB"
-            },
-            {
-              "slug": "db12130",
-              "name": "LORLATINIB"
-            },
-            {
-              "slug": "db12332",
-              "name": "RUCAPARIB"
-            },
-            {
-              "slug": "deferasirox",
-              "name": "Deferasirox"
-            },
-            {
-              "slug": "demeclocycline",
-              "name": "Demeclocycline"
-            },
-            {
-              "slug": "desoximetasone",
-              "name": "Desoximetasone"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "doxorubicin",
-              "name": "Doxorubicin"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "eflornithine",
-              "name": "Eflornithine"
-            },
-            {
-              "slug": "efonidipine",
-              "name": "Efonidipine"
-            },
-            {
-              "slug": "enzalutamide",
-              "name": "Enzalutamide"
-            },
-            {
-              "slug": "epirubicin",
-              "name": "Epirubicin"
-            },
-            {
-              "slug": "eplerenone",
-              "name": "Eplerenone"
-            },
-            {
-              "slug": "eptifibatide",
-              "name": "Eptifibatide"
-            },
-            {
-              "slug": "eribulin",
-              "name": "Eribulin"
-            },
-            {
-              "slug": "estramustine",
-              "name": "Estramustine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "flutamide",
-              "name": "Flutamide"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "isotretinoin",
-              "name": "Isotretinoin"
-            },
-            {
-              "slug": "ixabepilone",
-              "name": "Ixabepilone"
-            },
-            {
-              "slug": "labetalol",
-              "name": "Labetalol"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine"
-            },
-            {
-              "slug": "lapatinib",
-              "name": "Lapatinib"
-            },
-            {
-              "slug": "lenalidomide",
-              "name": "Lenalidomide"
-            },
-            {
-              "slug": "lenvatinib",
-              "name": "Lenvatinib"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole"
-            },
-            {
-              "slug": "levamisole",
-              "name": "Levamisole"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "Levofloxacin"
-            },
-            {
-              "slug": "lindane",
-              "name": "Lindane"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "Lisinopril"
-            },
-            {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib"
-            },
-            {
-              "slug": "losartan",
-              "name": "Losartan"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "maraviroc",
-              "name": "Maraviroc"
-            },
-            {
-              "slug": "megestrol_acetate",
-              "name": "Megestrol Acetate"
-            },
-            {
-              "slug": "melphalan",
-              "name": "Melphalan"
-            },
-            {
-              "slug": "mephenesin",
-              "name": "Mephenesin"
-            },
-            {
-              "slug": "mercaptopurine",
-              "name": "Mercaptopurine"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "Methotrexate"
-            },
-            {
-              "slug": "methoxsalen",
-              "name": "Methoxsalen"
-            },
-            {
-              "slug": "metolazone",
-              "name": "Metolazone"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "mitomycin",
-              "name": "Mitomycin"
-            },
-            {
-              "slug": "mitoxantrone",
-              "name": "Mitoxantrone"
-            },
-            {
-              "slug": "mometasone",
-              "name": "Mometasone"
-            },
-            {
-              "slug": "monobenzone",
-              "name": "Monobenzone"
-            },
-            {
-              "slug": "moxifloxacin",
-              "name": "Moxifloxacin"
-            },
-            {
-              "slug": "moxonidine",
-              "name": "Moxonidine"
-            },
-            {
-              "slug": "natamycin",
-              "name": "Natamycin"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "nilotinib",
-              "name": "Nilotinib"
-            },
-            {
-              "slug": "nintedanib",
-              "name": "Nintedanib"
-            },
-            {
-              "slug": "oxaliplatin",
-              "name": "Oxaliplatin"
-            },
-            {
-              "slug": "primidone",
-              "name": "Primidone"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole"
-            },
-            {
-              "slug": "sorafenib",
-              "name": "Sorafenib"
-            },
-            {
-              "slug": "topiramate",
-              "name": "Topiramate"
-            },
-            {
-              "slug": "valproic_acid",
-              "name": "Valproic Acid"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "breast cancer",
-          "related_drugs": [
-            {
-              "slug": "altretamine",
-              "name": "Altretamine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide"
-            },
-            {
-              "slug": "cabazitaxel",
-              "name": "Cabazitaxel"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "eptifibatide",
-              "name": "Eptifibatide"
-            },
-            {
-              "slug": "estramustine",
-              "name": "Estramustine"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole"
-            },
-            {
-              "slug": "melphalan",
-              "name": "Melphalan"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "92ae0e10d8d6",
@@ -1508,19 +722,6 @@
       "matched_keywords": []
     },
     {
-      "id": "09285863c522",
-      "title": "Real time molecular movie unlocks secrets of penicillin biosynthesis",
-      "published": "2026-10-09T18:37:00+00:00",
-      "summary": "Real time molecular movie unlocks secrets of penicillin biosynthesis&nbsp;&nbsp;News-MedicalUnanticipated intermediates during isopenicillin N synthase catalysis identified by time-resolved X-ray free-electron laser studies&nbsp;&nbsp;NatureOctober 9, 2026 Researchers make ‘molecular movies’ with powerful X-rays to help advance therapeutics | Newswise&nbsp;&nbsp;NewswiseMolecular Movie Captures Penicillin Being Built Atom by Atom&nbsp;&nbsp;Bioengineer.org'Molecular movie' finally reveals how pe",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFRQQnhlRWF3NE04TjFOQ1I0ZUJDMnhyczl3QkpScThTZGVtVG54VUtqRUdQZGo0YUV1WHgwV0lFOWVnVE51RmZETk9NT1VpbWpabFpmNUNJYUpJYWw0amxHZFpmV1V3VTZGS0hITGRkNHJoMWtjZjNUVDZvbG9vc19LMWExZVU4VkxsQ1VTSHpJbDRQSTBGTEhFT1dNWlFfSWctb3lfNUlUNjhSaHNJczdDV1RhWXM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "c7394a63c181",
       "title": "Discovery marks the first detection of variable water clouds outside of the solar system",
       "published": "2026-10-09T18:20:12+00:00",
@@ -1529,19 +730,6 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYWtlT2tlZzVGaEluWnpRamx1dnhJMER4c0ZielQ2Vm8tNFc2dWVBODdVZ1ZOU3BmOXBCQUVnTElyVExwTkNteWFFTlJGdWt0TzVKU0dKdVd3bjNZREVsUnl1bDF5MjJUY2ZCSDljQktWZl9a?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cc3bc4be4125",
-      "title": "Bacteria turn a virus’ own weapon against it: Study - ANI News",
-      "published": "2026-10-09T17:36:00+00:00",
-      "summary": "Bacteria turn a virus’ own weapon against it: Study&nbsp;&nbsp;ANI NewsBacteria turn a virus’ own weapon against it&nbsp;&nbsp;ScienceDailyPhage Proteases Trigger a Conserved Bacterial Antiviral Defense Pathway&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
-      "sources": [
-        {
-          "name": "ANI News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNmREX1NFLVVxNGVrdkxlSjhjeUx3eDE3Q252TUJodmhMZlYwZDZLeno5b1RpZ3p0eTZRc1BsWk9DbGVSWW1LMjhvSjBYOV9WcWNSTktOcW4tMjVSQU13Ml9aTHNUUk1PRWhtSXNsYllKWXBfTjdVSENUb3Y5bWJKbGMtbXh1aEpxeVI1YTFEdUV0NGVjOEFnc3dReGRfSDc5cVl0WkFR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1563,7 +751,7 @@
       "id": "5eb7e8358e0a",
       "title": "After Birth, Then What? What You Need to Know About PostPartum Psychosis",
       "published": "2026-10-09T17:22:50+00:00",
-      "summary": "After Birth, Then What? What You Need to Know About PostPartum Psychosis&nbsp;&nbsp;SwitSaloneHow treatable is postpartum depression?&nbsp;&nbsp;UVA TodayIs it the baby blues or something more? What new parents should know about postpartum mental health&nbsp;&nbsp;Novant HealthPostpartum Depression: What new mothers and families need to know&nbsp;&nbsp;CNBC TV18",
+      "summary": "After Birth, Then What? What You Need to Know About PostPartum Psychosis&nbsp;&nbsp;SwitSaloneHow treatable is postpartum depression?&nbsp;&nbsp;UVA Today‘New mothers must be supported to recover in every way, not just physically’&nbsp;&nbsp;The Daily StarSupporting maternal mental health&nbsp;&nbsp;WFLAIs it the baby blues or something more? What new parents should know about postpartum mental health&nbsp;&nbsp;Novant Health",
       "sources": [
         {
           "name": "SwitSalone",
@@ -1627,14 +815,14 @@
       "matched_keywords": []
     },
     {
-      "id": "ad12655d1d20",
-      "title": "Scientists engineer microbe to help humanity settle Mars",
-      "published": "2026-10-09T16:00:00+00:00",
-      "summary": "Scientists engineer microbe to help humanity settle Mars&nbsp;&nbsp;SpaceHow scientists developed a living Mars building material using engineered yeast&nbsp;&nbsp;The Times of IndiaCalifornia biotech nonprofit Pioneer Labs unveils sPL.001 for Mars bioplastics&nbsp;&nbsp;NewsBytesMars shelter problem can be solved with engineered yeast: paper&nbsp;&nbsp;South China Morning PostLiving ‘Yeast’ Cement Could Build Mars Shelters&nbsp;&nbsp;StratNews Global",
+      "id": "45858abb41e4",
+      "title": "California biotech nonprofit Pioneer Labs unveils sPL.001 for Mars bioplastics",
+      "published": "2026-10-09T16:23:22+00:00",
+      "summary": "California biotech nonprofit Pioneer Labs unveils sPL.001 for Mars bioplastics&nbsp;&nbsp;NewsBytesScientists engineer microbe to help humanity settle Mars&nbsp;&nbsp;SpaceHow scientists developed a living Mars building material using engineered yeast&nbsp;&nbsp;The Times of IndiaMars shelter problem can be solved with engineered yeast: paper&nbsp;&nbsp;South China Morning PostLiving ‘Yeast’ Cement Could Build Mars Shelters&nbsp;&nbsp;StratNews Global",
       "sources": [
         {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWFKWklpLVh0VkhXNWpwb1pvSXBSQjhGaUp5Z29oazNGOGZTc2M2SWloNkZlMnZRRkV4bC1MSXYzWDBHM211MlJ5b04wWGlZS2QzUHplLVJtSGJ3MF9hWnl3X2J3Qk01OVAzcmdlMXc0OTFRTVJSY20zVWQ0LWxQTmdIZzVCYWIwaGxTd0JGcHJuQ2h2bDkzaQ?oc=5"
+          "name": "NewsBytes",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHhpMVRzcnpUeGFoRjBXdmNDM24xNDBBSHpZZFRvenVaZ3lsWGhLVzhYNGljblp2U3p6VWtCUmY2cnM1LXNwVVJOMWQ2WU5wU2R1dGRFNGVvRXE2RjJpQVJMU0dFQURiajNNUTlDSFBYeElONFBydjktUHZmNXhSazY1YmdiYjBVQXJPc3ZwRU9HeUZET0lmUEJTNmhmSXlmV1NKMUZTWFJtR1E5SUlxOXNWaElBWGxBMVBjQXRYUFJydw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1656,7 +844,7 @@
       "id": "dca8792be6ab",
       "title": "Q4 2026 Brain-Computer Interfaces: The Paralyzed Will Walk",
       "published": "2026-10-09T15:31:11+00:00",
-      "summary": "Q4 2026 Brain-Computer Interfaces: The Paralyzed Will Walk&nbsp;&nbsp;PitchBookDevice helps people with paralysis communicate&nbsp;&nbsp;National Institutes of Health (NIH) | (.gov)Unlocking the brain’s gold mines&nbsp;&nbsp;Today's Medical DevelopmentsBrain-Computer Interface Enables Coordinated Speech and Movement&nbsp;&nbsp;European Medical JournalThis AI-powered brain implant hints at the future of human interaction&nbsp;&nbsp;Fast Company",
+      "summary": "Q4 2026 Brain-Computer Interfaces: The Paralyzed Will Walk&nbsp;&nbsp;PitchBookDevice helps people with paralysis communicate&nbsp;&nbsp;National Institutes of Health (NIH) | (.gov)Unlocking the brain’s gold mines&nbsp;&nbsp;Today's Medical DevelopmentsThis AI-powered brain implant hints at the future of human interaction&nbsp;&nbsp;Fast CompanyBrain-Computer Interface Enables Coordinated Speech and Movement&nbsp;&nbsp;European Medical Journal",
       "sources": [
         {
           "name": "PitchBook",
@@ -1734,19 +922,6 @@
       ]
     },
     {
-      "id": "edd1e2eca494",
-      "title": "Experts flag phone & social media addiction behind mental health issues - Pioneer Edge",
-      "published": "2026-10-09T14:41:45+00:00",
-      "summary": "Experts flag phone & social media addiction behind mental health issues&nbsp;&nbsp;Pioneer EdgeThe hidden cost of scrolling&nbsp;&nbsp;The Daily StarThe negative effects of social media use on adult mental health&nbsp;&nbsp;Rising Sun NewspapersDoomed to doomscroll&nbsp;&nbsp;The California AggieWhat Is Zombie Scrolling? Psychiatrist Explains Its Impact on Mental Health&nbsp;&nbsp;Onlymyhealth",
-      "sources": [
-        {
-          "name": "Pioneer Edge",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGlQX1djYURTamVUWHloZ0JBb3JjSGNtLVV0SEJ6b3AzMHg4bDY4QWRBQUd5MnZnckxjR1poYzRPc2tNN2JaRGFJNVh4VHpNRmE2cEZ4eWw3OGM2Z3BsQTR2bFUwbkFiMGM3YUxWelYzNFdNNkRGOFdvY2lmUGtFZVA1U3V0a1ptQzZxNTNFVlhCRTZsYmxfcQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "ff2c439bb0dd",
       "title": "Bonn researchers successfully rejuvenate human cells in a test tube",
       "published": "2026-10-09T14:33:00+00:00",
@@ -1755,19 +930,6 @@
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd3VtbHN1Zk1DQlMtTWlqMTBFdnhKTHQ1NVljRFZTOFZycUJoNWEySHB5MXNoYUtFdk9YSkMtN3g0OEtEdjlRVjRwWHZ5NXNIMGx0NXdUOUVhNXVZM3A2cUo4bDhISTQxMzFTSG1ud2xncDl0a3drUDdaaDB5YjJLUlozUmtQZ2JJS3BwVHJNVmppLTVzOVlveHhjdlltUmtEUEU2YU5qSXQ0NkVSUWhHU3ljN0V0Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0cff2d750127",
-      "title": "World’s first self-setting nuclear clock - The Naked Scientists",
-      "published": "2026-10-09T14:29:38+00:00",
-      "summary": "World’s first self-setting nuclear clock&nbsp;&nbsp;The Naked ScientistsA nuclear clock synchronized to 229Th&nbsp;&nbsp;NatureScientists in Vienna and Beijing create world's first nuclear clocks&nbsp;&nbsp;ReutersFor decades, scientists used Atomic clocks but world’s first stand-alone nuclear clock may change we measure almost everything&nbsp;&nbsp;The Times of IndiaChinese researchers develop nuclear optical clock&nbsp;&nbsp;CGTN",
-      "sources": [
-        {
-          "name": "The Naked Scientists",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMFhYZmM0ekMtY2xGZHBpaWlvaXdfQWMwME92bk9kbF9xZU5EcWpDbmM4MEw2T0h2Z3VQSlgzSmNaS1hpaXFkd2pGdWVSQ0xUUHJNNVFmQjA3R0pUOW10NXFVWkcteWJxYlVwVDZoMnJwWkZiNVFLaG9xdUZNdmplQnM5bkRRNmV3R00tams1WC1NaEh4UWFndnFn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2025,6 +1187,19 @@
       ]
     },
     {
+      "id": "9713ce2f91ba",
+      "title": "Quiz of the week: which star could help astronomers measure the spin of Sagittarius A*? - Physics World",
+      "published": "2026-10-09T13:48:14+00:00",
+      "summary": "Quiz of the week: which star could help astronomers measure the spin of Sagittarius A*?&nbsp;&nbsp;Physics WorldImpossibly fast-moving stars are revealing the Milky Way’s mysterious heart&nbsp;&nbsp;New ScientistFastest star in the Milky Way feels the rotation of our central black hole&nbsp;&nbsp;Physics World",
+      "sources": [
+        {
+          "name": "Physics World",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTmNUVExmNWNWRUdKZWxQdmlFUGdKbDBKYjl4b0hSZl9kU081QUdhdVhBbTM1Z2lOSTRHd05tU1NHNUpSclVhcTRpV3pjTVk4bzF4c0pGXzloMGNGclF2NmFkUE1HeU1GYmNETTFmZkdLZF9SLU9nSEIxUW5ZdTZVM215eUxDOUR1bHF3aWZMd2Y4TWxZYVRSNl83ektkRXhhYjJWdWxscXJQNHhpc3dhQlZR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "973d91705e34",
       "title": "How to avoid catheter-related UTIs - Medical Buyer",
       "published": "2026-10-09T13:24:13+00:00",
@@ -2041,7 +1216,7 @@
       "id": "9778da152dba",
       "title": "Beyond hormone therapy: what’s the next wave in prostate cancer?",
       "published": "2026-10-09T12:41:51+00:00",
-      "summary": "Beyond hormone therapy: what’s the next wave in prostate cancer?&nbsp;&nbsp;Labiotech.euFather had prostate cancer? Urologist explains if you need screening sooner, how to tell if prostate enlargement is cancer and 10 FAQs men must know&nbsp;&nbsp;Hindustan TimesIn Good Health: The Evolution Of Prostate Cancer Treatment : 1A&nbsp;&nbsp;NPRWhy PSA Monitoring Matters After a Prostate Cancer Diagnosis&nbsp;&nbsp;Cure TodayMayo Clinic Minute: Early screening and treatment advances improve prostate c",
+      "summary": "Beyond hormone therapy: what’s the next wave in prostate cancer?&nbsp;&nbsp;Labiotech.euIn Good Health: The Evolution Of Prostate Cancer Treatment : 1A&nbsp;&nbsp;NPRWhy PSA Monitoring Matters After a Prostate Cancer Diagnosis&nbsp;&nbsp;Cure TodayHealth Check: Doctor discusses prostate cancer risk and screening for awareness month&nbsp;&nbsp;WTAPMayo Clinic Minute: Early screening and treatment advances improve prostate cancer outcomes&nbsp;&nbsp;Mayo Clinic News Network",
       "sources": [
         {
           "name": "Labiotech.eu",
@@ -2971,14 +2146,14 @@
       ]
     },
     {
-      "id": "7692bcce88f2",
+      "id": "b4076ab96bdc",
       "title": "GLP-1s Linked to Nail Disorders in New Study",
       "published": "2026-10-09T12:13:59+00:00",
-      "summary": "GLP-1s Linked to Nail Disorders in New Study&nbsp;&nbsp;MedscapeGLP-1s for hair? We unpack how they work on hair growth&nbsp;&nbsp;Vogue IndiaHair Expert Valarie Simmons Explains Hair Thinning Solutions While Taking GLP-1 Medication in HelloNation&nbsp;&nbsp;PR NewswireHHS’ need for R&amp;D speed; weird GLP-1 side effects&nbsp;&nbsp;PharmaVoiceGLP-1 Users Are Reporting Their Fingernails Detaching&nbsp;&nbsp;ScienceAlert",
+      "summary": "GLP-1s Linked to Nail Disorders in New Study&nbsp;&nbsp;MedscapeSee more headlines and perspectives on Google News",
       "sources": [
         {
           "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMUxZMWxIYThwSnVSQ2NuS1ZlYUIzd2NrUzJDRUR4ZldsSlcyV2VHS0tmaDdzVzFxT3ItVXpjYVV2WmJGaUU2X09QZGxqc0o3RFFGc0Jlc2dhSmk0R3Z1NFN1aW1HLXJvOGFzbVZDS0xrT0t0NHlDWm1ENGJZVGMwLTNmM2NjMk9DR09SeGREdzhnc1dPdzhRdzRvcEJOTVItejhNbloxLUp3eVVaRGc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSmpZQWphSlBvektaUmdFQ2RoTWFxNkQ5ODVCR0FyWXhuamZ2bWVENEFKRjNVQURlLXZvNXQ2UHQwQlZNal9ZRzdoUk9uaDE5Tk1wMEZ3YWRISVJlNnE1dXc3THV4TUdORmNBMzR6cDdySHFqX1VBRnBVNE5JVXVKUHl2R2Q0YWRxTzMyb1JwMXJQZzZaOFJ6QVB1V1ZaWHJMTzMyUUYxcVJfV2xFb3o4TXJ1LS0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -3039,35 +2214,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "8c09f8657f2f",
-      "title": "High blood pressure during pregnancy poses serious risks: WHO | Tap to know more | Inshorts",
-      "published": "2026-10-09T11:33:04+00:00",
-      "summary": "High blood pressure during pregnancy poses serious risks: WHO | Tap to know more | Inshorts&nbsp;&nbsp;InshortsNew global roadmap launched to tackle hypertension in pregnancy, a leading cause of maternal and newborn deaths&nbsp;&nbsp;World Health Organization (WHO)The symptoms of postpartum preeclampsia&nbsp;&nbsp;USA TodayWorld Health Organization: 42,000 Women Die Annually Due to Hypertensive Disorders of Pregnancy&nbsp;&nbsp;الإذاعة الجزائرية |High BP in Pregnancy Linked to 42,000 Maternal De",
-      "sources": [
-        {
-          "name": "Inshorts",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1hvaFVZcG9Pa194b1RMVGJsOFdvdFVWdHVrSlRILTdxdTUwRFd3Wk5vSjlOZDVkYzl5WUJFWFQyaTE0dTBHQnJzLVBTbXJXX0FBbU1jaFplY3ZQTXR6QmY4MndWckc5U29qZjRLWG9xZ3Buc1FvQlFwaEIwU0xoOTdNVXJJcG83QWV1c1ptZjBVbHFKWTFPTks0eUlYcjlRTnJmY0NXY9IBrAFBVV95cUxPMlFVQ3Z1ek9hTldaSFhqLVRyWVEyT3BnZWxKQm9GdnVLQy1ta0poRm1PakZrUE9qWHhZZWdQUDRzLVYyLVRLMmNQX08xZWFLMHVMX0ZGNUYtWGlBVDdyVFJxUmxlcEFpY0FtVGtHaEtmM01KamlzakdhRWwzN0pReHpENTJoMmQzNXc2cVNtVFRVWmtJSXR2QlFyOXJMWmVnTGhFcXhCek83Sy0y?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "hypertensive disorder",
-          "keyword": "hypertensive disorder",
-          "related_drugs": [
-            {
-              "slug": "amifostine",
-              "name": "Amifostine"
-            },
-            {
-              "slug": "choline_salicylate",
-              "name": "Choline Salicylate"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "da3a0cd5154e",
@@ -3138,7 +2284,7 @@
       "id": "6dd14ff98177",
       "title": "Concerned about reproductive health rumours? Urologist debunks 5 myths on male fertility and sperm health | Health - Hindustan Times",
       "published": "2026-10-09T07:33:49+00:00",
-      "summary": "Concerned about reproductive health rumours? Urologist debunks 5 myths on male fertility and sperm health | Health&nbsp;&nbsp;Hindustan TimesLong commutes, desk jobs and heat exposure: How everyday lifestyle habits may affect male fertility and sperm quality&nbsp;&nbsp;The Times of IndiaYour Job Could Be Costing You Fatherhood: The Truth About Male Infertility and Everyday Professions&nbsp;&nbsp;Big News Network.comThink fertility is only about women? Why men need to start paying attention too&n",
+      "summary": "Concerned about reproductive health rumours? Urologist debunks 5 myths on male fertility and sperm health | Health&nbsp;&nbsp;Hindustan TimesLong commutes, desk jobs and heat exposure: How everyday lifestyle habits may affect male fertility and sperm quality&nbsp;&nbsp;The Times of IndiaThink fertility is only about women? Why men need to start paying attention too&nbsp;&nbsp;THE WEEKYour Job Could Be Costing You Fatherhood: The Truth About Male Infertility and Everyday Professions&nbsp;&nbsp;AN",
       "sources": [
         {
           "name": "Hindustan Times",
@@ -3414,7 +2560,7 @@
       "id": "936c5ea3fc80",
       "title": "Women Experience More Pain Than Men Across The Whole Body: Study Reveals Major Gender Gap",
       "published": "2026-10-09T06:15:48+00:00",
-      "summary": "Women Experience More Pain Than Men Across The Whole Body: Study Reveals Major Gender Gap&nbsp;&nbsp;NDTV​Gender pain gap: Women experience more pain than men across the whole body, major global study finds ‘shocking’ data​&nbsp;&nbsp;The Times of IndiaGlobal and regional reference curves for pain across the lifespan in 6.1 million individuals in 118 countries&nbsp;&nbsp;NatureA study spanning 118 countries reveals a divide in pain and aging&nbsp;&nbsp;News-MedicalWomen Face Higher Pain Levels T",
+      "summary": "Women Experience More Pain Than Men Across The Whole Body: Study Reveals Major Gender Gap&nbsp;&nbsp;NDTV​Gender pain gap: Women experience more pain than men across the whole body, major global study finds ‘shocking’ data​&nbsp;&nbsp;The Times of IndiaGlobal and regional reference curves for pain across the lifespan in 6.1 million individuals in 118 countries&nbsp;&nbsp;NatureA study spanning 118 countries reveals a divide in pain and aging&nbsp;&nbsp;News-MedicalGustavo Monnerat: Pain Across t",
       "sources": [
         {
           "name": "NDTV",
@@ -3481,23 +2627,10 @@
       ]
     },
     {
-      "id": "c1b771acc996",
-      "title": "Genome architecture drives antifungal resistance in Candida auris",
-      "published": "2026-10-09T05:26:48+00:00",
-      "summary": "Genome architecture drives antifungal resistance in Candida auris&nbsp;&nbsp;NatureThis Dangerous Fungus Has Become Resistant to Every Major Antifungal Drug We Have... Twice&nbsp;&nbsp;ScienceAlertKenya detects C. auris strain resistant to four classes of antifungal drugs — ScienceAlert&nbsp;&nbsp;UA.NEWS",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90R3VIVGltbHBPb0cxcWRxRTcwNnBuVndTbERqMWJUbFhReFBaWnEtT1g5ZlRWUXpQQW4xem1ma3hkU2IzNDUtRlV4T3BYWGdZVEdraXBBSXpaajBTd2dr?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7e37fd634ab9",
       "title": "Scared about testing for breast cancer? Oncologist debunks 5 myths that can stop women from getting the right care | Health - Hindustan Times",
       "published": "2026-10-09T05:22:24+00:00",
-      "summary": "Scared about testing for breast cancer? Oncologist debunks 5 myths that can stop women from getting the right care | Health&nbsp;&nbsp;Hindustan TimesBeyond the pink ribbon&nbsp;&nbsp;The News PakistanJefferson Regional Promotes Breast Cancer Awareness and Local Mammography Services in Southeast Arkansas&nbsp;&nbsp;Deltaplex NewsBreast cancer can grow before you feel it. Advanced mammography can help find it sooner&nbsp;&nbsp;KSATAt LMCH, Breast Cancer Awareness Month means taking preventative a",
+      "summary": "Scared about testing for breast cancer? Oncologist debunks 5 myths that can stop women from getting the right care | Health&nbsp;&nbsp;Hindustan TimesAs long as you're on time. We're here.&nbsp;&nbsp;vijesti.meOncology breast surgeon debunks mammogram misinformation&nbsp;&nbsp;WTKRCARTI encourages women to prioritize breast health&nbsp;&nbsp;KARKSBI addresses screening myths during Breast Cancer Awareness Month&nbsp;&nbsp;AuntMinnie",
       "sources": [
         {
           "name": "Hindustan Times",
@@ -4496,45 +3629,6 @@
       "matched_keywords": []
     },
     {
-      "id": "011b3bdbae3b",
-      "title": "Positive parenting in early childhood linked to stronger brain reward responses",
-      "published": "2026-10-09T04:57:00+00:00",
-      "summary": "Positive parenting in early childhood linked to stronger brain reward responses&nbsp;&nbsp;News-MedicalStudy finds positive parenting teaches children how to experience joy—and could lead to better mental health&nbsp;&nbsp;EurekAlert! Science News Releases",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnk5TVlLalhTSHN3SEgyN2htNWVlT0JzZzczQTA5N2s4RVhibDg0YldNMkhXdVpXekMycXdYQzFMdlNDdHBfd1lhVmpaak1zYzlDSzZ6eUFuZXhNTW5WN190aU9DU05zS2o0U2xISHE0UzZXLW1LdG0xMlZjQWNLNUdUMkQyQVM0SmxXQ2pORjRvSHowS2lCcnI2VlVTR2ZreGxfOXBMM2t1RjAwSUtEUFdmcEoyR1ZaWXd5NWlXQmxHZzAxQ0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1e2b2af52db9",
-      "title": "Ebola cases in DR Congo reach 8,728, deaths exceed 4,200",
-      "published": "2026-10-09T04:56:29+00:00",
-      "summary": "Ebola cases in DR Congo reach 8,728, deaths exceed 4,200&nbsp;&nbsp;QazinformEbola Outbreak In Congo Escalates With New Hot Spots And Limited Support For Patients And Responders&nbsp;&nbsp;NDTVTracking Ebola in the DRC With Mobile Phone Data&nbsp;&nbsp;The Borgen Project‘Ebola takes the people children depend on’: UNICEF&nbsp;&nbsp;UN NewsEbola infections decline in Congo, cross-border risk remains&nbsp;&nbsp;Nepalnews.com",
-      "sources": [
-        {
-          "name": "Qazinform",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNVR0T3JWU2pkNFk1aUZtWFlyOTZ4UGtqWVM5NUh6ZTUzWjIyYl9kUDRGeTBWV3dYeFhVcDVTeDFVcTgxT0IwS04wcmd3cGtIUG1VenN5dVEzZ3F6NEZ5UXg4ZXo2MGowTGthLWc5dGdlb0Y2Q2NSVFlwU1p4TjRWRDNQVkZYckVXdmhmUkVLbnI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f38ca28178cf",
-      "title": "HPV vaccination linked to lower risk of pregnancy complications | The Business Guardian - newspaper",
-      "published": "2026-10-09T04:19:54+00:00",
-      "summary": "HPV vaccination linked to lower risk of pregnancy complications | The Business Guardian - newspaper&nbsp;&nbsp;MagzterHPV Vaccine Before Pregnancy Linked to Lower Preterm Birth Risk&nbsp;&nbsp;NDTVHPV Vaccine May Have Benefits Beyond Cancer Protection&nbsp;&nbsp;U.S. News & World ReportThe HPV Vaccine Might Have A Surprising Benefit Far Beyond Its Target: Lower Rates Of Preterm Births&nbsp;&nbsp;IFLScienceMothers vaccinated against HPV before pregnancy less likely to give birth prematurely, stud",
-      "sources": [
-        {
-          "name": "Magzter",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmVkV3FDWEFKVGxjV3NDMVI2WWZfV0xHSlFNZDBkYWpZUlNHb1BCTm5SZFdteEs1MzZuQlQ0RU9laXYwX1RTRXdRSlNTMDg5dllzZ2g5ZDVWVkJheXRfWGJmRkJNUHZaWTNwdUhEeXhzTXpYM0ZQMHVaMUx4d2VUMnhrbkZzQjN2bnpXWHktdWMyWmdYQ0s5cmpVTlhhY3BzWU5TVm1Ua1BVVFFoNDZDcnc2N0twRW9Id2p3SFg2TFpKemtkMmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d5f8823fbe52",
       "title": "Pregnancy Complications Linked to Subsequent Risk for Cardiometabolic-Renal Conditions - The Cardiology Advisor",
       "published": "2026-10-09T04:00:00+00:00",
@@ -4678,19 +3772,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "6aeea51ae27e",
-      "title": "Does Exhaled Carbon Monoxide Lower Parkinson Disease Risk? - Neurology Advisor",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "Does Exhaled Carbon Monoxide Lower Parkinson Disease Risk?&nbsp;&nbsp;Neurology Advisor",
-      "sources": [
-        {
-          "name": "Neurology Advisor",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS2Z6NjFNTnhpQjN1d0pYd2VOci12ZlVhcV9rNDVFTzNTZWxOWEpOZzVjaWNZLUZvcVNJYnVoclpfdUtGYU1KeEdjWkpuTUJFbXZxbUJXVmZVTVhuV2JRX1kzbDNVODJNdVpIbGN5Q2wtRXl3RFFiTUhoZGxIenFrekVINGMtSU8yZlFuWTRB?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "6a204fb9b467",
@@ -5006,14 +4087,14 @@
       "matched_keywords": []
     },
     {
-      "id": "5193bf94e0b5",
-      "title": "A dead Soviet satellite just broke apart in orbit (again). Experts say it's part of 'a worrying trend'",
-      "published": "2026-10-08T22:00:00+00:00",
-      "summary": "A dead Soviet satellite just broke apart in orbit (again). Experts say it's part of 'a worrying trend'&nbsp;&nbsp;SpaceAnother satellite breakup raises concerns about space junk&nbsp;&nbsp;EarthSkyAn old Soviet satellite broke apart and littered orbit with space debris&nbsp;&nbsp;UA.NEWSSoviet-era Meteor 2-7 fragments scatter over Western Australia, raising risks&nbsp;&nbsp;NewsBytesA Soviet satellite just broke apart and is threatening other spacecraft&nbsp;&nbsp;Yahoo News New Zealand",
+      "id": "bb43cbc90e6d",
+      "title": "Peanut consumption affects the lipid profile circulating in the blood - Medical Xpress",
+      "published": "2026-10-08T22:40:05+00:00",
+      "summary": "Peanut consumption affects the lipid profile circulating in the blood&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNam9kVlZwOTBHZTVFRDNhbkVNbnllZFBvcnczcnRwTkJEUjdIdVRRc3NUWTZwdlNaMzAtakR0d1NTMFVSS04yQ2k3R19fZTI1ZWxMNzBYMlZBbEhRbHBlWjRHNmpGSG1QbHo0NnFDV0x4WlRTVlJISjB2andja0xGaXVqc1BzMkxiUDdEbHladDE2anNHRl9PQ21QYkxITzNUQzRxRjBTeGpCVEtVRGZ4c2g0SWdxSEd0YTRLTm1kTF9TOGNqeWw0cThxQUJEZmhadmVlVjJKSFFER3ZXNDdreA?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQVNjOUs5blozLTYwdnpmNXlVZ3JhOHZTdmkwekEyYVF6VjQ0cmU5MjNjSkJwQll1clp5SE8zN0tBbi1pQnhQbjhGMmJGRnZzVlRtTGR4R2JEUUR1R0VPNU0xeUoycUZJb092MjE5WFNLZE43ekJzUEpneGcxY1VJU0ZXalBJbUtTNnhiSg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -5021,16 +4102,12 @@
     {
       "id": "655ac2ad7641",
       "title": "Beyond Individual Pathogens: Interview with Christina Thornton - European Medical Journal",
-      "published": "2026-10-08T15:51:02+00:00",
+      "published": "2026-10-08T21:54:49+00:00",
       "summary": "Beyond Individual Pathogens: Interview with Christina Thornton&nbsp;&nbsp;European Medical Journal",
       "sources": [
         {
           "name": "European Medical Journal",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV0JhMTRvZktJQ09YRWNqbE9PdXg5d1cwYVRSalplOTZYT19TX3d0RU9jX0RlRWlmbFV3RlpSd3pkX052bjBGYm8zOXlxbjNteG0tRnZGR09ZSXNvVGtNWmFNajZtYTkxMnd3T25lc2E1RHNoYlBWRWlpYkoyOGVYcG01T1NqbFdoZzFoa3RYZ0N6MllSdWZiaG5CMUphclNETUVYNUU1eW5FNXNBX1E?oc=5"
-        },
-        {
-          "name": "European Medical Journal",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbTFWLW1KNTdTZVpHNFAwcGFfSlNHM2pvcjBCSVAxMEpuaU1vTTUyd21ING1DRVQzbHBuYTJBaTExcFVaVWF0Q2Q3OHJyTFA2bll2TkJMRjV6aE1mRFlhcHFwVzM4R1lUVzBuWlZWM3VZUW9rcWJoTGRYdmhILUpoMUxBWkFibl83X1FaRk9IRXlUOWNHbjNod21fc2NfT194Q0F4bjlRUmJ6U092dkc1a3ln?oc=5"
         }
       ],
       "matched_keywords": []
@@ -5052,7 +4129,7 @@
       "id": "be1fc5f64e58",
       "title": "Can Creatine Help You Hold On to Muscle As You Age? - Health and Me",
       "published": "2026-10-08T20:30:00+00:00",
-      "summary": "Can Creatine Help You Hold On to Muscle As You Age?&nbsp;&nbsp;Health and MeCreatine without exercise: Can it still help build muscle?&nbsp;&nbsp;MedicalNewsTodayA new study suggests that this supplement could help you build muscle in midlife—without hitting the gym&nbsp;&nbsp;YahooCreatine moves into weight management&nbsp;&nbsp;FoodNavigator.comA&amp;M creatine research finds increased muscle during weight loss&nbsp;&nbsp;The Battalion",
+      "summary": "Can Creatine Help You Hold On to Muscle As You Age?&nbsp;&nbsp;Health and MeCreatine may help build muscle even without exercise, study suggests&nbsp;&nbsp;MedicalNewsTodayA new study suggests that this supplement could help you build muscle in midlife—without hitting the gym&nbsp;&nbsp;YahooCreatine moves into weight management&nbsp;&nbsp;FoodNavigator.comA&amp;M creatine research finds increased muscle during weight loss&nbsp;&nbsp;The Battalion",
       "sources": [
         {
           "name": "Health and Me",
@@ -5075,17 +4152,109 @@
       "matched_keywords": []
     },
     {
-      "id": "9ea1f91b1743",
-      "title": "Bacterial toxin sensing induces transient inflammasome-dependent innate immune memory that improves survival during sepsis",
-      "published": "2026-10-08T20:06:31+00:00",
-      "summary": "Bacterial toxin sensing induces transient inflammasome-dependent innate immune memory that improves survival during sepsis&nbsp;&nbsp;Nature",
+      "id": "f6c544da6d6a",
+      "title": "HPV vaccine linked to lower risk of pregnancy complications: Study - The Hans India",
+      "published": "2026-10-08T19:47:58+00:00",
+      "summary": "HPV vaccine linked to lower risk of pregnancy complications: Study&nbsp;&nbsp;The Hans IndiaHPV Vaccine Before Pregnancy Linked to Lower Preterm Birth Risk&nbsp;&nbsp;NDTVHPV Vaccine May Have Benefits Beyond Cancer Protection&nbsp;&nbsp;U.S. News & World ReportThe HPV Vaccine Might Have A Surprising Benefit Far Beyond Its Target: Lower Rates Of Preterm Births&nbsp;&nbsp;IFLScienceMothers vaccinated against HPV before pregnancy less likely to give birth prematurely, study finds&nbsp;&nbsp;CIDRAP",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mb3pod2hMQXMxcW9hN1RBUDM0aXgtZktTNnVia2lsd3EySWxTM19jT0FqZDg2YWstcUZ0LUo1dC1BVnFpMTNMTkpvQVJLSUM1SUVtWlZHWTNwRTNPNWRn?oc=5"
+          "name": "The Hans India",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDZiSGY3U3VhX3JUbmJremRoQ2U0RHdkX0JDaEE1aVowOW9HNWtCMjFyQ3ZRUldRWFk1WGVpc3BXc3NPQU1hV3Q2R1dFRmdXSW56dFIzaVU0UUZyT3ROY1oxTzdUal9yMWhSR0xjajE5Z1lEcnZHUjdJRGExd3d2Mm1WMWQ4eTF6Wl82T2RZZlNvNHQ5X0RMTG9BbnBvelNIckxrbWgyLUp1SzJRUzZGbHBuTkF0aEd4WHlDYUdjSEN0dw?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "abemaciclib",
+              "name": "Abemaciclib"
+            },
+            {
+              "slug": "abiraterone",
+              "name": "Abiraterone"
+            },
+            {
+              "slug": "alpelisib",
+              "name": "Alpelisib"
+            },
+            {
+              "slug": "amiodarone",
+              "name": "Amiodarone"
+            },
+            {
+              "slug": "amodiaquine",
+              "name": "Amodiaquine"
+            },
+            {
+              "slug": "apremilast",
+              "name": "Apremilast"
+            },
+            {
+              "slug": "balsalazide",
+              "name": "Balsalazide"
+            },
+            {
+              "slug": "bosentan",
+              "name": "Bosentan"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel"
+            },
+            {
+              "slug": "chlorzoxazone",
+              "name": "Chlorzoxazone"
+            },
+            {
+              "slug": "choline_salicylate",
+              "name": "Choline Salicylate"
+            },
+            {
+              "slug": "chromium",
+              "name": "Chromium"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "Eptifibatide"
+            },
+            {
+              "slug": "levocetirizine",
+              "name": "Levocetirizine"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            },
+            {
+              "slug": "mefenamic_acid",
+              "name": "Mefenamic Acid"
+            },
+            {
+              "slug": "mesalazine",
+              "name": "Mesalazine"
+            },
+            {
+              "slug": "metamizole",
+              "name": "Metamizole"
+            },
+            {
+              "slug": "nalidixic_acid",
+              "name": "Nalidixic Acid"
+            },
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "valdecoxib",
+              "name": "Valdecoxib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "48aabc8abac8",
@@ -6095,53 +5264,14 @@
       ]
     },
     {
-      "id": "cb2fb08a1483",
-      "title": "Polyendocrine Metabolic Ovarian Syndrome (PMOS) – The clinical relevance and importance of renaming PCOS - The Indian Practitioner",
-      "published": "2026-10-08T17:00:14+00:00",
-      "summary": "Polyendocrine Metabolic Ovarian Syndrome (PMOS) – The clinical relevance and importance of renaming PCOS&nbsp;&nbsp;The Indian PractitionerShould Diseases Be Renamed When Science Advances?&nbsp;&nbsp;MedscapePMOS Town Hall: Conversation with Saint Luke's OBGYN on what's changed in shift from PCOS name&nbsp;&nbsp;KMBCPCOS to PMOS: Why the name change could mean better diagnosis and earlier treatment for women&nbsp;&nbsp;India.comPMOS May Increase Risk of Diabetes, Heart Disease — Gynaecologist&nb",
-      "sources": [
-        {
-          "name": "The Indian Practitioner",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRWhaMU9sT3lScUFXTjBwNldwbTBHNHFWWFJHOWs5NzBHLXdfaV9qODJON01ILURnTXVlcHRraWxoWUdqUHU0c2pjSE9DLWFmanhoc3lyekFBVGNfWVVNam9NelVNT2dFeEtlUFE0Nzg1X3ptUVFscGJ6dG1CY2cwNzdWeTlJOXhJeF9ZSlJHMWxrODJPTUFRWjRsUUFRYzdmcm1ha0FjNFQ5d1d3SUx1dlZFbE8wRlFPa3FMY3dDQ2R6YlktSVRvN3F0ZzEzVlpr?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "89837c64e34f",
       "title": "The latest edition of EMJ Cardiology - European Medical Journal",
       "published": "2026-10-08T15:55:57+00:00",
-      "summary": "The latest edition of EMJ Cardiology&nbsp;&nbsp;European Medical JournalStatins, ECG monitoring and defining myocardial infarction: updates from the European Cardiology Congress&nbsp;&nbsp;AusDocRISE @ ESC Congress 2026: Building a future where every woman in cardiology can lead&nbsp;&nbsp;FemTech WorldPractice-changing trials and guidelines: ESC Congress 2026 highlights&nbsp;&nbsp;Hospital Healthcare Europe",
+      "summary": "The latest edition of EMJ Cardiology&nbsp;&nbsp;European Medical JournalStatins, ECG monitoring and defining myocardial infarction: updates from the European Cardiology Congress&nbsp;&nbsp;AusDocPractice-changing trials and guidelines: ESC Congress 2026 highlights&nbsp;&nbsp;Hospital Healthcare Europe",
       "sources": [
         {
           "name": "European Medical Journal",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTExRUFpaUTltWVp4YTRGOHhFbHlWNWQ5S0ZkSjF0Ujd4Sk91blpkaWhFZ3hhVFhUSXdoM21ZMHVoTUtMZUhNV0dua3l2S1NubkotVXhEc0doWFBwbmppX250aEU4V2M0ajc2aG14OEE2cVFFOWpOeXY3S2VhMUlLRExWQ292ODM5?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b89557a88317",
-      "title": "Measles: New York governor declares emergency as cases rise in rural areas - The BMJ",
-      "published": "2026-10-08T15:54:07+00:00",
-      "summary": "Measles: New York governor declares emergency as cases rise in rural areas&nbsp;&nbsp;The BMJHochul Declares a Measles Emergency as Cases Rise in Rural New York&nbsp;&nbsp;The New York Times​US measles outbreak: New York declares measles disaster amid resurgence — early signs, risks, prevention, treatment, and more​&nbsp;&nbsp;The Times of IndiaMeasles is roaring back: Why the world – and India – should worry&nbsp;&nbsp;India TodayMeasles spreads across the state; ICE detention facility set to e",
-      "sources": [
-        {
-          "name": "The BMJ",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXNlJJbURqdjdsSlp6cmZxWDVRNDdScmdEMHViSUpQUFlCYlA3STdKTHdkRG41ejE2Y3JXdi1Va3h4b1FmazRFZ01rUmxlSThEOXY4ZkZNX0ZVSTg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2e9fb79f4e67",
-      "title": "Detecting Polyethylene Microplastics in Liver Tissue with Raman Microscopy",
-      "published": "2026-10-08T15:03:23+00:00",
-      "summary": "Detecting Polyethylene Microplastics in Liver Tissue with Raman Microscopy&nbsp;&nbsp;AZoOptics",
-      "sources": [
-        {
-          "name": "AZoOptics",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qQmY1dFM4RVhUUmY3MWRBYmIxUWFBakVkeTIxVWFMQ1BGUGg5WkJFZ1hFVmtObDFrMlNCSHhEam5ScDVqZUJLcG5ucTJGUGhSODJCSEQ5OFVzZnp3RTdSbzVNYw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -6158,170 +5288,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "300125ec1184",
-      "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
-      "published": "2026-10-08T13:54:43+00:00",
-      "summary": "FDA-approved epilepsy drug may help reverse osteoarthritis damage&nbsp;&nbsp;ScienceDailyWhat to know about a new injection for osteoarthritis&nbsp;&nbsp;WTNH.comLacosamide protected cartilage in preclinical tests — ScienceDaily&nbsp;&nbsp;UA.NEWSYale study suggests lacosamide eases osteoarthritis pain and repairs cartilage&nbsp;&nbsp;NewsBytes",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51VktSSDhsY1NyanNOWlZVczNrOVU5aXVzQ0VlZ0duYVhTbDB0UWxYcEVnTmJUQlpTVUw4WC00ekxfR3BPSmhWX19MUlNDM2RoaldLNUh1cm01dGI5LVFXeVZ0aml4N2dHX1V1WTg4NA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "slug": "lacosamide",
-          "keyword": "lacosamide",
-          "name": "Lacosamide",
-          "url": "/drugs/lacosamide/"
-        },
-        {
-          "type": "indication",
-          "name": "asthma",
-          "keyword": "dama",
-          "related_drugs": [
-            {
-              "slug": "montelukast",
-              "name": "Montelukast"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "osteoarthritis",
-          "keyword": "osteoarthritis",
-          "related_drugs": [
-            {
-              "slug": "azathioprine",
-              "name": "Azathioprine"
-            },
-            {
-              "slug": "chromium",
-              "name": "Chromium"
-            },
-            {
-              "slug": "leuprolide",
-              "name": "Leuprolide"
-            },
-            {
-              "slug": "mesalazine",
-              "name": "Mesalazine"
-            },
-            {
-              "slug": "nicorandil",
-              "name": "Nicorandil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ba79b60f2138",
-      "title": "HPV Vaccine Before Pregnancy Linked to Lower Preterm Birth Risk",
-      "published": "2026-10-08T13:02:19+00:00",
-      "summary": "HPV Vaccine Before Pregnancy Linked to Lower Preterm Birth Risk&nbsp;&nbsp;NDTVHPV Vaccine May Have Benefits Beyond Cancer Protection&nbsp;&nbsp;U.S. News & World ReportThe HPV Vaccine Might Have A Surprising Benefit Far Beyond Its Target: Lower Rates Of Preterm Births&nbsp;&nbsp;IFLScienceMothers vaccinated against HPV before pregnancy less likely to give birth prematurely, study finds&nbsp;&nbsp;CIDRAPHPV vaccination linked to lower risk of pregnancy complications&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTFCLVpJMjdwbVNIejN5RUJYZ0lYLURHVy1OSnNQaHltNzh0T2VrZnRXLV94bk9Ua29kcXk1clVybm4tOUdmbnQ3djR5amx1aS1vM1hkRkdZY3BPNTBWS2ExWlRfY2s1TXBFMHZ6ODBqSElDT085Q3RDVUl0OUV1OVRRaXQ4MGxkcWV1TGIxQ3NKMGNkazVnN1ktQ2t0RVZIa2RNMmRTZHlHS296el80Z2MzOUo?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "abemaciclib",
-              "name": "Abemaciclib"
-            },
-            {
-              "slug": "abiraterone",
-              "name": "Abiraterone"
-            },
-            {
-              "slug": "alpelisib",
-              "name": "Alpelisib"
-            },
-            {
-              "slug": "amiodarone",
-              "name": "Amiodarone"
-            },
-            {
-              "slug": "amodiaquine",
-              "name": "Amodiaquine"
-            },
-            {
-              "slug": "apremilast",
-              "name": "Apremilast"
-            },
-            {
-              "slug": "balsalazide",
-              "name": "Balsalazide"
-            },
-            {
-              "slug": "bosentan",
-              "name": "Bosentan"
-            },
-            {
-              "slug": "cabazitaxel",
-              "name": "Cabazitaxel"
-            },
-            {
-              "slug": "chlorzoxazone",
-              "name": "Chlorzoxazone"
-            },
-            {
-              "slug": "choline_salicylate",
-              "name": "Choline Salicylate"
-            },
-            {
-              "slug": "chromium",
-              "name": "Chromium"
-            },
-            {
-              "slug": "eptifibatide",
-              "name": "Eptifibatide"
-            },
-            {
-              "slug": "levocetirizine",
-              "name": "Levocetirizine"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            },
-            {
-              "slug": "mefenamic_acid",
-              "name": "Mefenamic Acid"
-            },
-            {
-              "slug": "mesalazine",
-              "name": "Mesalazine"
-            },
-            {
-              "slug": "metamizole",
-              "name": "Metamizole"
-            },
-            {
-              "slug": "nalidixic_acid",
-              "name": "Nalidixic Acid"
-            },
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "valdecoxib",
-              "name": "Valdecoxib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "0ce53e7400e0",
@@ -6476,43 +5442,6 @@
             {
               "slug": "streptokinase",
               "name": "Streptokinase"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "43df6200f860",
-      "title": "Ahead of World Sight Day, Vision Eye Centre Warns One in Five Diabetics Already Show Eye Damage at First Screening - First India",
-      "published": "2026-10-08T10:41:00+00:00",
-      "summary": "Ahead of World Sight Day, Vision Eye Centre Warns One in Five Diabetics Already Show Eye Damage at First Screening&nbsp;&nbsp;First IndiaIndia's diabetes burden is creating another problem: The growing threat to eyesight&nbsp;&nbsp;The Times of IndiaMax Hospital, Dehradun Highlights the Need for Comprehensive Eye Care in Patients with Chronic Health Conditions&nbsp;&nbsp;India Education DiaryDurability and earlier access could reshape diabetic retinopathy treatment&nbsp;&nbsp;pharmaphorumHave Di",
-      "sources": [
-        {
-          "name": "First India",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNVRELXRURUVZcDZyOUx2ZlRwSTVMbjZHTk1Vb0pIbnNmV1FGVzJWeDJ3Wl9xTUM2aDNlX1RVbDZjdFkwVVZFbDBveHJPcTI0Unl3LVAzUFBMd1NxSGJtbjhYRnVsYnRsMU1fLTdHRm1pX2VKWnRVSGN4U1Jld0UyRXpIYjU4ZG9hNWhibEN4aTFEU25LRHM2NFlaTWxzWm8yTW1nOGhLbXY1UFlEaXlteDRWajBtYkxzNG5uYWhQekNlOFN2TUFVeGE4d0FCY3NoS05tejFxS1UwTlRUTWstbjhBTkUwNWZFRV81b3Z6RUkwUEdkOFBpY01ueFU1QQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "diabetic retinopathy",
-          "keyword": "diabetic retinopathy",
-          "related_drugs": [
-            {
-              "slug": "benzoic_acid",
-              "name": "Benzoic Acid"
-            },
-            {
-              "slug": "beta_carotene",
-              "name": "Beta Carotene"
-            },
-            {
-              "slug": "denosumab",
-              "name": "Denosumab"
-            },
-            {
-              "slug": "nimotuzumab",
-              "name": "Nimotuzumab"
             }
           ]
         }
@@ -7495,52 +6424,275 @@
       ]
     },
     {
-      "id": "9e991b190a58",
-      "title": "Are cold plunges and saunas safe for your heart? Cardiologist reveals how they affect your blood pressure and heart rate | Health - Hindustan Times",
-      "published": "2026-10-08T09:24:53+00:00",
-      "summary": "Are cold plunges and saunas safe for your heart? Cardiologist reveals how they affect your blood pressure and heart rate | Health&nbsp;&nbsp;Hindustan TimesCan a cold plunge improve your health? The real answer&nbsp;&nbsp;American Medical Association | AMA",
+      "id": "d21bad7ba8ec",
+      "title": "Re-evaluating Antibiotic Therapy Duration for Infective Endocarditis: The POET-II Trial - European Medical Journal",
+      "published": "2026-10-08T06:29:26+00:00",
+      "summary": "Re-evaluating Antibiotic Therapy Duration for Infective Endocarditis: The POET-II Trial&nbsp;&nbsp;European Medical Journal",
       "sources": [
         {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRmFSdm5iSVE1NG5kWENtRkRvdG5wTGpDMUtJRklCVU54T1NDSHFDZW92RnVmY2xVWHNDZlp4RVBERnVEYy1JZjJCTXFJQWVJeVd6Sl9nSE1PaXVETUIzZUpJYVdnZDN2aWtfTF8wMXlKTEp2TlFibnNZempXMXZzY2hNY1RhRjJRd2M0eUZDZUhUOUhKbDk2bzBVZG04WEwxTzc0b1pPeDZmc0lfQjJibzJqV3JzdExVNkF4NEsyWE1tV0FzQWFkckhiOUFmSXlMQ0FhNWtsRGx6SDFOMzJaRTdxRngzVVFzTkRrSm9JZndqU2l0Qno4STFqT1Q0OTJIWDFWV1JtNzdzWm5BQjNVaVdDNE83bEnSAZwCQVVfeXFMTmJSUmtuWU1rc2puLWtPVUhaYU0yY1BJcGVsMzNJWF9nV1RJYnFObFJQWUNHYVpDZk9LVWN5UEkyT2pKWmRacEg2bl9fS1o2a0YyQ0VTcFdnNWd4dW1vMFhIWkkxVEt0V25vc0x5X3c2d0ZqbDlTSjNFdGRlRTg4djM4RkVyTjJRYTVidnFjdHQ4UVNoQzlNN2pNdjVnakVJN2FwSjgwY0xKMTkzOEtUTU04NFpUaEpiY0RKU2JVRVdSTmRUSlNUVkU0c3ZGaEhRcXJDNTFYSEZRZ3VxUkN5ai1OS3VCMHdRWjFVejIwODZpa0ltTFcySS1qMlhmV2dsUjJkN3ZUMjVJclZUdmlNUGh2Ni1ISGV4Z1FRZjE?oc=5"
+          "name": "European Medical Journal",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmdnSnZRWnNkMEZWYUdqUk1UaTIxenQ2Nl9WRE1iU3lBM1hlMTNTY20yckRZT3piOURuREZHakY2NndBd1MzdmVzLXNVc2h0LVR1NlQ4YTdZSzF3Y3NhYVBfclMwQ2dpdEx2WDlSNE01Snh5Mm5BeXBZWlhTTUd2TEIwTzE1X0NnS3N3SWFlQTZ5OWN3MWlEb0JUWDhvVDBpNHVTcks3TkpKQlZFVVo3NjBjOGpfZXVsUVZVclJEc01MdjZTTm1mNXdFTHJycllzcVUwZjlzeEJwZHBsX19rOE53?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "common cold",
-          "keyword": "cold",
+          "name": "endocarditis",
+          "keyword": "endocarditis",
           "related_drugs": [
             {
-              "slug": "meclizine",
-              "name": "Meclizine"
+              "slug": "metaxalone",
+              "name": "Metaxalone"
             }
           ]
         }
       ]
     },
     {
-      "id": "b18babf4e472",
-      "title": "Crystal Material’s Spiral Structure Could Lead to New Electronics And Computer Memory - The Quantum Insider",
-      "published": "2026-10-08T08:29:11+00:00",
-      "summary": "Crystal Material’s Spiral Structure Could Lead to New Electronics And Computer Memory&nbsp;&nbsp;The Quantum InsiderUranium compound known since the 1960s reveals hidden spiral structure with unusual magnetic properties&nbsp;&nbsp;Phys.orgA chiral superlattice route to spin-split topological antiferromagnetism&nbsp;&nbsp;NatureResearchers Find Hidden Spiral Structure in Crystal Material&nbsp;&nbsp;LabcompareHidden Atomic Spiral in Uranium Crystal Reveals Rare Dual Magnetism&nbsp;&nbsp;Bioenginee",
+      "id": "9e5e68649766",
+      "title": "European initiative to accelerate AI uptake in cardiovascular care",
+      "published": "2026-10-08T06:04:11+00:00",
+      "summary": "European initiative to accelerate AI uptake in cardiovascular care&nbsp;&nbsp;healthcare-in-europe.comEU launches CHAIN network for using AI in cardiology — News-Medical&nbsp;&nbsp;UA.NEWSEU launches initiative to harness health data&nbsp;&nbsp;Medical Buyer",
       "sources": [
         {
-          "name": "The Quantum Insider",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeGx5dnl0dDlaQXltUnNhSTRKZjk5RE1TWjV1SVpQcUtRRS1uaE93Zl9Jd2haVW9JWEpZaU9RX014YXJzV0JLZmdVYjI5QVczMVRzX19JemFZUk9CVDlIenpBQ1hrLXJwTDZBdFRHMFI2QWlnN3pMdUpDaGZ2T2hfVHdQTDVsdkxVYl9qZWl2WWNnWDBfUUhuVkRGc1B2R2lsbDY5M0V6clhGeHVubFE1Wjhob3BqWS03WUV0Q2R2OVZ3Tm5L?oc=5"
+          "name": "healthcare-in-europe.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObHdXWXJ0Qnl3Q1NuX3ppQWx1d25MaVZwVzkyX01ZSUI3VzJZZEo5TjhGX0p2X3B4cXpOUnpkc0R3c0sxc1JVT3V0X3JrZ3R3WEZtNnNjNjh4UEt6cldBbEV5TnJiYkF4UXhic0JUX2dPMkViOTJHYXpHaGRBeV9sSy1mTUl5U0xv?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "cardiovascular",
+          "related_drugs": [
+            {
+              "slug": "alteplase",
+              "name": "Alteplase"
+            },
+            {
+              "slug": "atosiban",
+              "name": "Atosiban"
+            },
+            {
+              "slug": "cyclandelate",
+              "name": "Cyclandelate"
+            },
+            {
+              "slug": "cyproterone_acetate",
+              "name": "Cyproterone Acetate"
+            },
+            {
+              "slug": "db00009",
+              "name": "ALTEPLASE"
+            },
+            {
+              "slug": "db00015",
+              "name": "RETEPLASE"
+            },
+            {
+              "slug": "db00031",
+              "name": "TENECTEPLASE"
+            },
+            {
+              "slug": "db00063",
+              "name": "EPTIFIBATIDE"
+            },
+            {
+              "slug": "db00175",
+              "name": "PRAVASTATIN"
+            },
+            {
+              "slug": "db00227",
+              "name": "LOVASTATIN"
+            },
+            {
+              "slug": "db00335",
+              "name": "ATENOLOL"
+            },
+            {
+              "slug": "db00641",
+              "name": "SIMVASTATIN"
+            },
+            {
+              "slug": "db00661",
+              "name": "VERAPAMIL"
+            },
+            {
+              "slug": "db00722",
+              "name": "LISINOPRIL"
+            },
+            {
+              "slug": "db00758",
+              "name": "CLOPIDOGREL"
+            },
+            {
+              "slug": "db00775",
+              "name": "TIROFIBAN"
+            },
+            {
+              "slug": "db00806",
+              "name": "PENTOXIFYLLINE"
+            },
+            {
+              "slug": "db01076",
+              "name": "ATORVASTATIN"
+            },
+            {
+              "slug": "db01095",
+              "name": "FLUVASTATIN"
+            },
+            {
+              "slug": "db01098",
+              "name": "ROSUVASTATIN"
+            },
+            {
+              "slug": "db01113",
+              "name": "PAPAVERINE"
+            },
+            {
+              "slug": "db06209",
+              "name": "PRASUGREL"
+            },
+            {
+              "slug": "db08816",
+              "name": "TICAGRELOR"
+            },
+            {
+              "slug": "db08941",
+              "name": "ISOXSUPRINE"
+            },
+            {
+              "slug": "doxapram",
+              "name": "Doxapram"
+            },
+            {
+              "slug": "ebastine",
+              "name": "Ebastine"
+            },
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide Dinitrate"
+            },
+            {
+              "slug": "isoxsuprine",
+              "name": "Isoxsuprine"
+            },
+            {
+              "slug": "lubiprostone",
+              "name": "Lubiprostone"
+            },
+            {
+              "slug": "propafenone",
+              "name": "Propafenone"
+            },
+            {
+              "slug": "streptokinase",
+              "name": "Streptokinase"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fd9002fde916",
+      "title": "Post-GLP-1 weight regain could be mitigated by diet",
+      "published": "2026-10-07T17:21:14+00:00",
+      "summary": "Post-GLP-1 weight regain could be mitigated by diet&nbsp;&nbsp;FoodNavigator.comStopping GLP-1s? This May Help You Maintain a Healthy Weight&nbsp;&nbsp;HealthlineHow to improve metabolic health with, without, or after GLP-1s&nbsp;&nbsp;Bristow BeatNot losing weight on Ozempic? Doctors explain what might be happening and what to do next&nbsp;&nbsp;Yahoo HealthTwo simple strategies may slow weight regain after stopping GLP-1 drug&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "FoodNavigator.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONjlTRUE3eVZoOGtpaGt1aGdXM3JRNDFiQ3I4cklQX1k0dTZyX1c1SnptQ3JFSTQ1UERqOGpvNURqN1BieDlZWVNZa3NhQzVvTUFWbHVtWVFOSnFVX1pRRE55cnlfYU1kOV9MZXBoaFh5aU53dlctZXVRVGtHQmJNN3NmWUdmNkZBdVZ4R1pBbFU3OTBHQVhV?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "4b1786d888f4",
-      "title": "Scientists find a strategy to unmask cancer cells in high-risk Neuroblastoma in kids - The Times of India",
-      "published": "2026-10-08T07:20:00+00:00",
-      "summary": "Scientists find a strategy to unmask cancer cells in high-risk Neuroblastoma in kids&nbsp;&nbsp;The Times of IndiaHong-Gang Wang and Jiawen Zhang (IMAGE)&nbsp;&nbsp;EurekAlert! Science News ReleasesScientists discover a novel strategy to unmask cancer cells in high-risk neuroblastoma&nbsp;&nbsp;News-MedicalJiawen Zhang (IMAGE)&nbsp;&nbsp;EurekAlert! Science News Releases",
+      "id": "f8204949acac",
+      "title": "The generation raised on sugar rations – and what their health reveals 70 years later - The Guardian",
+      "published": "2026-10-07T16:43:00+00:00",
+      "summary": "The generation raised on sugar rations – and what their health reveals 70 years later&nbsp;&nbsp;The GuardianLimiting sugar in childhood linked to lower diabetes risk — The Guardian&nbsp;&nbsp;UA.NEWSEating Less Sugar Early in Life May Lower Anxiety Risk Decades Later, Study Finds&nbsp;&nbsp;Infomance",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZzVDUGdvZnU4bzRxYU9HSVdtQkdBM2Nub2hXcnBRZlpDQTMxYTNOdTltOTNUc0dPWnlyVTNMajA5WEh0a0ozVlptU0VfRm4teVBDZXV1aWhqZ1VndFl1cGp2ajhMcUZUTjExNWhnQmNhc1JLX2hyRzNLTGtvYkdQUGNUN2NMVHJpQkVqNjFsWkZKNVhCMnBTWkM3LTIwbWhtd3gwaV9vX2lMWGlTTFRPWVU3ekhLd1MxOXdianF1YlhaWmZkdmxaMHppRDNoYzk3VndBbjlnV01WNFdiRjh1bFB0NTBSN2pIWFFBTHhyUUFjV3lu0gH6AUFVX3lxTE9OV1ZSbmt0Qy1pMHdGaGFHdjFGMlVUcGhlV0ptdEU5Snd3TVBfRUpqeE9qekJ4LVFIOHB6SVdvdGNSdi1FekFfS05HLTEzZUhvbHdzM0R0eUtQUDVrMm9VclN4cnhoUkZEZ3lFTGtpaXBvWkUxdEg1Q3RUM3drUXJhM1ZuNUdFVUdXMHdkRXNWaEJyYlVVdXdrMmFKVEVERFkwcXNMd3pfNVVHUTBHaVlnYjZzOEVwNWJKcHRVVTNEQ2gxM2JWelNTZmdkWkRRU2k4Z1VNa3JxaFpOcndNT3NnNWpxMG9CdEFmZmVQblBSRjB5bzQteWt1NHc?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7446fed695c3",
+      "title": "Children of Healthcare Workers Show Altered Nasal Microbiome - European Medical Journal",
+      "published": "2026-10-07T15:53:56+00:00",
+      "summary": "Children of Healthcare Workers Show Altered Nasal Microbiome&nbsp;&nbsp;European Medical Journal",
+      "sources": [
+        {
+          "name": "European Medical Journal",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGdFNHg5cjBaVDZQU2pyeXJ3RDhNMXNQS2ZXOGtVUkFrNllLdlNhaS10Y0Uzclo2aFRPd3hsbXgwbWRqSU5DMkc4YTJ3d0VZQ0k0ZDJpVDlZc2wya2NRVXhxQTc4WFZWcmVHb2ZNZnlNZkRiUW9FUEtrWjYtb0RKQUhRanJMTGpZVTJQZk9jZUlNb3R6dEJVejFacVFoZjIwaHNnVmJTQlExTUNJWW5SaWlkMWJDZzVSa09aSE42YkdEei1G?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f2e7f1c008b6",
+      "title": "A hot night changed sleep, anxiety and stress markers",
+      "published": "2026-10-07T11:42:00+00:00",
+      "summary": "A hot night changed sleep, anxiety and stress markers&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTi1zWmxNUkdQX0d3cEtIblJ5WDdjczFNUlVnWV9fNjlUbVZtbUxidV9YS1E1d0ptUks5TWJYTTZHX3NtaVRaMEgyUm91YkpFQWpFREhMci1fSThvZ1loR214eS1udWZvdHRSbXQ2N2g2a3A3bktjU21senlJeDI3SXpLem1LSFhjVGUwZFlGZnFqMktzQ0M0eWRGb0lZSnlQQlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "32537aba3dea",
+      "title": "Smokers have a lower risk of Parkinson’s – we may have found out why - The Sen Times",
+      "published": "2026-10-07T11:09:39+00:00",
+      "summary": "Smokers have a lower risk of Parkinson’s – we may have found out why&nbsp;&nbsp;The Sen Times",
+      "sources": [
+        {
+          "name": "The Sen Times",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXNUNkVTV0ttTFBQZmc3MnM4dW5WQ2hWa01FSVpULXcxSDRGRXgxLVVLVzFiWURVX1B2X0ptNTRkbUp5bGJvSWJHYlBEeFBIN3h4YmRvQnZVdXpQTGdOSERYa2JBUWk3Z0xZYmMtUllaTUVyTjlKam1naDFpRGNMMEEza1UzNkQ5ei1ORHh0SW1jaVNj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6cfb5023af69",
+      "title": "Russian scientists study materials for purifying water using light - TV BRICS",
+      "published": "2026-10-07T10:01:38+00:00",
+      "summary": "Russian scientists study materials for purifying water using light&nbsp;&nbsp;TV BRICS",
+      "sources": [
+        {
+          "name": "TV BRICS",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZF93bnd5N21jWmVxVFVEQUtkLWQ3T1VCWTh4aXcxb1BDMm5ibmQyUXBOZGNyd1g2bURTcjhHNnlDdTgySEp5ZjlNT2hPMVY4TXMwaUhLbDhWUWJLOFd2WGtyVWdVSk1TalI1OWZJR1loM2RfNktGQkdObEZiLWpkckRJZEdmSHNaaEUxWDVKVUEwTVBIMDBrZXhHUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "794b0625c398",
+      "title": "DC reviews routine immunisation performance in Upper Siang - Eastern Sentinel",
+      "published": "2026-10-07T05:40:00+00:00",
+      "summary": "DC reviews routine immunisation performance in Upper Siang&nbsp;&nbsp;Eastern Sentinel",
+      "sources": [
+        {
+          "name": "Eastern Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObElkZjExR2J3RjBpNDd2NTd4amhsbUwzenIwR0p3X2FoaHdPcV9LUXpzWEh4c0NWMjNtUGx6VFhMTFZfR2pRZDZmME5vN1pPYVBoTzVZQmxRakI5aHhJTFpfTUNfanY5VWNzU2dPUWZSZHNRYVJDT0NzaFFNWmJsVVlaendmM2RGNERNc3Ixc3RvR1Vfcm5uekdiZTRLRHRFbUdTQWlxaw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5a84f83e4067",
+      "title": "Scientists discover a novel strategy to unmask cancer cells in high-risk neuroblastoma",
+      "published": "2026-10-06T19:19:00+00:00",
+      "summary": "Scientists discover a novel strategy to unmask cancer cells in high-risk neuroblastoma&nbsp;&nbsp;News-MedicalScientists find a strategy to unmask cancer cells in high-risk Neuroblastoma in kids&nbsp;&nbsp;The Times of IndiaHong-Gang Wang and Jiawen Zhang (IMAGE)&nbsp;&nbsp;EurekAlert! Science News ReleasesJiawen Zhang (IMAGE)&nbsp;&nbsp;EurekAlert! Science News Releases",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjExVFUtaXN2bkFfTC1OOW5qLWU1dUYtWWwxVDRNeGtFLVhkdlZLeXA1cWg3V0xQNm14b2w1VGZlNzRkeFpNOTY3UENLWmFVUHdlLXI4OXYwM0QwNEpkQXk4RDJ0QjVORkNVSWtJRng1TnpoU21kRVRqV1dNeFFMTU8zYVdCaEpSSktyTUk5WGxHdV9MUmcyT282eWR1d1VCYUxqcGV3czlkN0FPcVJVMksxdnZXZ00yaUlLM1pYUU1pR2ZXM0JDM3poOHVEczQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -8485,397 +7637,6 @@
       ]
     },
     {
-      "id": "fc9ac547e996",
-      "title": "Beyond Types 1–5: The Fifth Universal Definition of Myocardial Infarction - European Medical Journal",
-      "published": "2026-10-08T06:34:27+00:00",
-      "summary": "Beyond Types 1–5: The Fifth Universal Definition of Myocardial Infarction&nbsp;&nbsp;European Medical Journal",
-      "sources": [
-        {
-          "name": "European Medical Journal",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb0JtTDlNb2dTY01GUXN1dFZBSlk5WDFSa3lTUDNRSzU3WE9BTEtXUmtIVk9acHNLc3kyS2d3Z21qQ3ZsX0VKZWxVUmV4OWhlX3N1UUtqeHpwZmJlQ3BILTdTSFlVRkZUSHFobG1GSk1qNVY3dUZYNlllS0I1emJhM3RmN09hMURxWk5faUFjcWtmV0VwaVNiMHV5NExYaktRdkQ1TlBCRHcydnF4U0I1cGg4dGxkNmFCNUZZX2FLSTRRUXdfU2lvWkswNmQ4QWs?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d21bad7ba8ec",
-      "title": "Re-evaluating Antibiotic Therapy Duration for Infective Endocarditis: The POET-II Trial - European Medical Journal",
-      "published": "2026-10-08T06:29:26+00:00",
-      "summary": "Re-evaluating Antibiotic Therapy Duration for Infective Endocarditis: The POET-II Trial&nbsp;&nbsp;European Medical Journal",
-      "sources": [
-        {
-          "name": "European Medical Journal",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmdnSnZRWnNkMEZWYUdqUk1UaTIxenQ2Nl9WRE1iU3lBM1hlMTNTY20yckRZT3piOURuREZHakY2NndBd1MzdmVzLXNVc2h0LVR1NlQ4YTdZSzF3Y3NhYVBfclMwQ2dpdEx2WDlSNE01Snh5Mm5BeXBZWlhTTUd2TEIwTzE1X0NnS3N3SWFlQTZ5OWN3MWlEb0JUWDhvVDBpNHVTcks3TkpKQlZFVVo3NjBjOGpfZXVsUVZVclJEc01MdjZTTm1mNXdFTHJycllzcVUwZjlzeEJwZHBsX19rOE53?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "endocarditis",
-          "keyword": "endocarditis",
-          "related_drugs": [
-            {
-              "slug": "metaxalone",
-              "name": "Metaxalone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "88a6a3e8fba9",
-      "title": "Adipose Tissue Distribution and Subclinical Myocardial Dysfunction in Young Adults with Class I Obesity - European Medical Journal",
-      "published": "2026-10-08T06:24:26+00:00",
-      "summary": "Adipose Tissue Distribution and Subclinical Myocardial Dysfunction in Young Adults with Class I Obesity&nbsp;&nbsp;European Medical Journal",
-      "sources": [
-        {
-          "name": "European Medical Journal",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQVdWMjd4YTZLeGQtTEY1TDNVeWltOG8yV29nLXpPVTFWR085YTNIcWoyVHZycTRLOHRDT2x2LVd1dnU3d2VMekJ6LXdad1JwTERWNExrazZMSDJKMGY3LVhwQUJaYXhxTWsxN05mZjRqX2EwN2xtV0Q3THBfWE9kdEdxcUs0R3lIT1M5ZmhhcXFmemNLZHRQZ05KWGh4UFZicVlicU5sakNpSVI2anlnMHVUdk9sSkI3VUF4azB0ckZ4SEVLbDkwU28xd0dNOVY2dnAtM2RnQUIwc0RVRkVkd1VRTFFNYUtkRzFQUWhtTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d6f9e0fb8658",
-      "title": "Interrogating the Purkinje Network: A Multimodal Strategy for Ventricular Conduction System Research and Sudden Cardiac Death - European Medical Journal",
-      "published": "2026-10-08T06:24:26+00:00",
-      "summary": "Interrogating the Purkinje Network: A Multimodal Strategy for Ventricular Conduction System Research and Sudden Cardiac Death&nbsp;&nbsp;European Medical Journal",
-      "sources": [
-        {
-          "name": "European Medical Journal",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPM1RQWnRibE53QTlQMUMwZEg2ZTkzODl0MXRkQ3V6TzlnYTRqVkpCNHk2WkVIQ3dFN0FfNDBEVVFnSXNrNWtTb1lYZnF5SkxKalA0TXI5MDY5MXB1VXFQYTRnRlZYbnM1NmYyRXRESmNmY3lhZGZqTUFSS1ZBQUE0SU1LN1BYR2tlSi1TMnlTemhXZkJCcDBMSmkzWFNMcEZ4Q0VhMmRtSTJXLVYwMkc0Vk16MUxnLVU0WENUel90T0g5ZVRSUzl1SFpzeEExMnU5MzRqZkNJVk15SXlkamhVTTJXVzB2TldQb0N5N09NTWtGYjBxd01WbGJtZ015VFc3bjhFQ0h1WEpTakE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9e5e68649766",
-      "title": "European initiative to accelerate AI uptake in cardiovascular care",
-      "published": "2026-10-08T06:04:11+00:00",
-      "summary": "European initiative to accelerate AI uptake in cardiovascular care&nbsp;&nbsp;healthcare-in-europe.comEU launches CHAIN network for using AI in cardiology — News-Medical&nbsp;&nbsp;UA.NEWSEU launches initiative to harness health data&nbsp;&nbsp;Medical Buyer",
-      "sources": [
-        {
-          "name": "healthcare-in-europe.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObHdXWXJ0Qnl3Q1NuX3ppQWx1d25MaVZwVzkyX01ZSUI3VzJZZEo5TjhGX0p2X3B4cXpOUnpkc0R3c0sxc1JVT3V0X3JrZ3R3WEZtNnNjNjh4UEt6cldBbEV5TnJiYkF4UXhic0JUX2dPMkViOTJHYXpHaGRBeV9sSy1mTUl5U0xv?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "cardiovascular",
-          "related_drugs": [
-            {
-              "slug": "alteplase",
-              "name": "Alteplase"
-            },
-            {
-              "slug": "atosiban",
-              "name": "Atosiban"
-            },
-            {
-              "slug": "cyclandelate",
-              "name": "Cyclandelate"
-            },
-            {
-              "slug": "cyproterone_acetate",
-              "name": "Cyproterone Acetate"
-            },
-            {
-              "slug": "db00009",
-              "name": "ALTEPLASE"
-            },
-            {
-              "slug": "db00015",
-              "name": "RETEPLASE"
-            },
-            {
-              "slug": "db00031",
-              "name": "TENECTEPLASE"
-            },
-            {
-              "slug": "db00063",
-              "name": "EPTIFIBATIDE"
-            },
-            {
-              "slug": "db00175",
-              "name": "PRAVASTATIN"
-            },
-            {
-              "slug": "db00227",
-              "name": "LOVASTATIN"
-            },
-            {
-              "slug": "db00335",
-              "name": "ATENOLOL"
-            },
-            {
-              "slug": "db00641",
-              "name": "SIMVASTATIN"
-            },
-            {
-              "slug": "db00661",
-              "name": "VERAPAMIL"
-            },
-            {
-              "slug": "db00722",
-              "name": "LISINOPRIL"
-            },
-            {
-              "slug": "db00758",
-              "name": "CLOPIDOGREL"
-            },
-            {
-              "slug": "db00775",
-              "name": "TIROFIBAN"
-            },
-            {
-              "slug": "db00806",
-              "name": "PENTOXIFYLLINE"
-            },
-            {
-              "slug": "db01076",
-              "name": "ATORVASTATIN"
-            },
-            {
-              "slug": "db01095",
-              "name": "FLUVASTATIN"
-            },
-            {
-              "slug": "db01098",
-              "name": "ROSUVASTATIN"
-            },
-            {
-              "slug": "db01113",
-              "name": "PAPAVERINE"
-            },
-            {
-              "slug": "db06209",
-              "name": "PRASUGREL"
-            },
-            {
-              "slug": "db08816",
-              "name": "TICAGRELOR"
-            },
-            {
-              "slug": "db08941",
-              "name": "ISOXSUPRINE"
-            },
-            {
-              "slug": "doxapram",
-              "name": "Doxapram"
-            },
-            {
-              "slug": "ebastine",
-              "name": "Ebastine"
-            },
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide Dinitrate"
-            },
-            {
-              "slug": "isoxsuprine",
-              "name": "Isoxsuprine"
-            },
-            {
-              "slug": "lubiprostone",
-              "name": "Lubiprostone"
-            },
-            {
-              "slug": "propafenone",
-              "name": "Propafenone"
-            },
-            {
-              "slug": "streptokinase",
-              "name": "Streptokinase"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e921d913afe8",
-      "title": "Nighttime Heat Exposure Linked to Anxiety and Health Markers - India News Network",
-      "published": "2026-10-08T05:41:11+00:00",
-      "summary": "Nighttime Heat Exposure Linked to Anxiety and Health Markers&nbsp;&nbsp;India News Network",
-      "sources": [
-        {
-          "name": "India News Network",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFUwTFMwLTJaYXlhZTNnSUhPLWZVeVFkaXZ0UXNkd0c4VWhlVVdFTG9FX0Z3QVZLYnlNSW5iRk5HbnZBUWZNVjNHUHBDa3FWR0NES25zdFhLNXV1Y2N3RUlvTk82MWp0aW9LQkFJNXR0enJHT09ONkFKdWdLLXVsdUN5eXdIUmhETWpRSjFseDBfRTNNZGJjYUExZ0hLR00?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "281a73063396",
-      "title": "Your ‘normal’ cholesterol could be hiding a danger: Cardiologist reveals why your personal LDL-C could put your heart health at risk | Health - Hindustan Times",
-      "published": "2026-10-08T05:30:06+00:00",
-      "summary": "Your ‘normal’ cholesterol could be hiding a danger: Cardiologist reveals why your personal LDL-C could put your heart health at risk | Health&nbsp;&nbsp;Hindustan TimesWhy Your Cholesterol Can Be High Even When You’re Otherwise Healthy&nbsp;&nbsp;Health.com5 Common LDL Cholesterol Myths Busted: Why 'Feeling Fine' Doesn't Mean Your Heart Is Safe&nbsp;&nbsp;Ahmedabad Mirror'I'm a GP - 3 things a cholesterol result can and can’t tell you about your heart health'&nbsp;&nbsp;Daily ExpressNY residents",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRFBpT0xKcHRsOTFGZ1BGSWs1b0ttTF9uYy1CQ3hoTFdJQU0xZEtWbThfQVlacTFiSEhPc1JLaTRzY3g1S2VlUDdzNGthXzR2THFna3h3QmNjenBZcnFveG9sYnAwUVV0cEJPOVpsM1VvbkhNNkdFNnZzQXFTNTVCM2J4SjA1VE9jbm9UQ0tzOWRIZGtCcXExRVpzQ1VYSjZ2OHBYWjlLR1F6c2F3eDNac1lpaVhLdG5KcXdaWlZjc0pzYktySllDcmFxSzAydk9SVWk0ckFZbkVRaTFmWHdYYkpmWGI3U05LLTk1M9IB8gFBVV95cUxOZlh6U0FHcUxNV1B4Wi1aYm01OW15cnFFVzN5Sm01MlBBVkFJVGE4TGxoUGRwSlBnUzY1OVhxcnpQOGVPalpwTS16d0cyeUpfNGpwSFF1TGRnYVhTQlhwWDI0ZXpnQW5tN1AwUm9JSFI4ZVN1Uy1DWl9iU3RTT1NXbkhpWnMzTHg1NFNRbVdja2Yyb1I4VE9pT1ppM3hCVFRYQVJZZHVNOTNaQ29Fb1pyNkluN3VzYWhYYlZRZjh4Znl1bHUzejFVOGNmcFY4LTRqWEwtVktFZHRZWXotLXRJaGMwTTlQNEk4cUhHRzVTZF9Bdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "74933ff18100",
-      "title": "Scientists warn a popular vitamin D supplement may have a hidden downside",
-      "published": "2026-10-08T04:07:03+00:00",
-      "summary": "Scientists warn a popular vitamin D supplement may have a hidden downside&nbsp;&nbsp;ScienceDailyDo you know a popular vitamin D supplement may actually lower another form of vitamin D in your body? What a 2025 study found&nbsp;&nbsp;The Times of IndiaMeta-analysis links vitamin D2 to lower D3 levels — ScienceDaily&nbsp;&nbsp;UA.NEWSVitamin D2 Supplements Have a Surprising Drawback. Here’s What to Take Instead&nbsp;&nbsp;GizmodoVitamin D2 supplements may lower vitamin D3 levels, study finds&nbsp",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QS0JRRm9PcFU3Ul9uOWJwOEJYUld6N1pCVk16TnlHaG9NOEFaazdFTVBDYkVHNDJrdkI2a2s5TFlYRXgtUHc0Z3N6Wmx2QmpnOWdXemYwNG4xOXNaYlR1N2V3bEpCaEpScUpHbDFfdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0707eb8263bc",
-      "title": "New modeling reveals high societal value of early Alzheimer's care",
-      "published": "2026-10-07T16:57:00+00:00",
-      "summary": "New modeling reveals high societal value of early Alzheimer's care&nbsp;&nbsp;News-MedicalStarting Alzheimer’s Treatment Earlier Increases Benefits to Patients and Society&nbsp;&nbsp;USC Schaeffer",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUoxTGpVNUdxb3JfQ1FtLXBMaGxhVi1ibGVMeklOb1dZOEF5WjNUcHUwbC1waFprMjBjY0tfNE5lVDQtR3ZyZF9Yc1VuV2IxNXpLTVlLd3c0NUVLbDRUUlFfUGFXUVR2YkpKMWNqUnVpSHZUd0JLUHNpWTBIeXh2UlBIeFFnbm9VRW14ZjhUaUoydHU4SGxwZ1FILTBUa3VLejJVWU9sVjFMN243ZEtzLVg0VQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f8204949acac",
-      "title": "The generation raised on sugar rations – and what their health reveals 70 years later - The Guardian",
-      "published": "2026-10-07T16:43:00+00:00",
-      "summary": "The generation raised on sugar rations – and what their health reveals 70 years later&nbsp;&nbsp;The GuardianLimiting sugar in childhood linked to lower diabetes risk — The Guardian&nbsp;&nbsp;UA.NEWSEating Less Sugar Early in Life May Lower Anxiety Risk Decades Later, Study Finds&nbsp;&nbsp;Infomance",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "062bc6f0f7db",
-      "title": "If AI becomes conscious, how would we treat it? Animals may hold a clue. - Big Think",
-      "published": "2026-10-07T16:00:00+00:00",
-      "summary": "If AI becomes conscious, how would we treat it? Animals may hold a clue.&nbsp;&nbsp;Big ThinkExploring Damasio's View on Consciousness and AI&nbsp;&nbsp;Bacon's RebellionLMU Study Finds People See AI as Aware, But Not Truly Conscious&nbsp;&nbsp;Digital Information WorldRomancing the Machine&nbsp;&nbsp;First ThingsHuman at the Origin, Could Humanity Lose Itself?&nbsp;&nbsp;Psychology Today",
-      "sources": [
-        {
-          "name": "Big Think",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NVUw0QUhTS0M1Uy1ET05FekR0MkFnbGRNRVJ6R09sczhhcFV3c2FWa09CUkhyR0lrS24zQ1hObzJHejNIZFVrdFlGdElXdmJBdDF6eWJEaWZQTTI4M0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7446fed695c3",
-      "title": "Children of Healthcare Workers Show Altered Nasal Microbiome - European Medical Journal",
-      "published": "2026-10-07T15:53:56+00:00",
-      "summary": "Children of Healthcare Workers Show Altered Nasal Microbiome&nbsp;&nbsp;European Medical Journal",
-      "sources": [
-        {
-          "name": "European Medical Journal",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGdFNHg5cjBaVDZQU2pyeXJ3RDhNMXNQS2ZXOGtVUkFrNllLdlNhaS10Y0Uzclo2aFRPd3hsbXgwbWRqSU5DMkc4YTJ3d0VZQ0k0ZDJpVDlZc2wya2NRVXhxQTc4WFZWcmVHb2ZNZnlNZkRiUW9FUEtrWjYtb0RKQUhRanJMTGpZVTJQZk9jZUlNb3R6dEJVejFacVFoZjIwaHNnVmJTQlExTUNJWW5SaWlkMWJDZzVSa09aSE42YkdEei1G?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0da9356263a7",
-      "title": "Limiting Weight Regain After GLP-1s: Two Strategies Show Promise - U.S. News & World Report",
-      "published": "2026-10-07T15:50:02+00:00",
-      "summary": "Limiting Weight Regain After GLP-1s: Two Strategies Show Promise&nbsp;&nbsp;U.S. News & World ReportTwo simple strategies may slow weight regain after stopping GLP-1 drug&nbsp;&nbsp;Earth.comMaintaining weight after stopping GLP-1s&nbsp;&nbsp;Mayo Clinic PressStopping GLP-1s? This May Help You Maintain a Healthy Weight&nbsp;&nbsp;HealthlineHow to improve metabolic health with, without, or after GLP-1s&nbsp;&nbsp;Bristow Beat",
-      "sources": [
-        {
-          "name": "U.S. News & World Report",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3FaZTUyREZLX0tndDVERFA3cHQ4UlRDYmEtNWo2bktYT1g3WlNmQkRGM3owbE9hQ0ozekdyVmp2a18tVXdWT2Z3SWhIRmJFTExQU1Q2RjdGbDNqZHdvdl9KZFpNU1o0dHhIRjVSY0JQWlVmQThxSElTRkVKUjdNdlJXRGpKUjU5dVdXZ29wdS1hVUN6SzhLY0g4eFBiRDVjUi1LRkhONzMxSEZUMFFuU3NTaHdkNXFJMVExQjQ0R08?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f2e7f1c008b6",
-      "title": "A hot night changed sleep, anxiety and stress markers",
-      "published": "2026-10-07T11:42:00+00:00",
-      "summary": "A hot night changed sleep, anxiety and stress markers&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTi1zWmxNUkdQX0d3cEtIblJ5WDdjczFNUlVnWV9fNjlUbVZtbUxidV9YS1E1d0ptUks5TWJYTTZHX3NtaVRaMEgyUm91YkpFQWpFREhMci1fSThvZ1loR214eS1udWZvdHRSbXQ2N2g2a3A3bktjU21senlJeDI3SXpLem1LSFhjVGUwZFlGZnFqMktzQ0M0eWRGb0lZSnlQQlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "32537aba3dea",
-      "title": "Smokers have a lower risk of Parkinson’s – we may have found out why - The Sen Times",
-      "published": "2026-10-07T11:09:39+00:00",
-      "summary": "Smokers have a lower risk of Parkinson’s – we may have found out why&nbsp;&nbsp;The Sen Times",
-      "sources": [
-        {
-          "name": "The Sen Times",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXNUNkVTV0ttTFBQZmc3MnM4dW5WQ2hWa01FSVpULXcxSDRGRXgxLVVLVzFiWURVX1B2X0ptNTRkbUp5bGJvSWJHYlBEeFBIN3h4YmRvQnZVdXpQTGdOSERYa2JBUWk3Z0xZYmMtUllaTUVyTjlKam1naDFpRGNMMEEza1UzNkQ5ei1ORHh0SW1jaVNj?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9b89ea7b8d2e",
-      "title": "Your head weighs 5kg until you look at your phone: Here are 5 exercises for neck strength",
-      "published": "2026-10-07T10:19:13+00:00",
-      "summary": "Your head weighs 5kg until you look at your phone: Here are 5 exercises for neck strength&nbsp;&nbsp;Firstpost'The spine just wants to move': How to strengthen your neck&nbsp;&nbsp;BBCKelly Ripa Ditched Crunches and Rethought Reading in Bed to Avoid Neck Lines: Do Her Habits Really Work?&nbsp;&nbsp;Yahoo Health5 simple exercises to ease neck strain from long screen time&nbsp;&nbsp;en.bd-pratidin.comYour Phone Is Putting Almost 50 Pounds of Pressure on Your Neck and Most People Have No Idea It Ha",
-      "sources": [
-        {
-          "name": "Firstpost",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYzV3TWNHa3lHakpWYzF6X3ZRdnVfRWgxYWM1WTBfMF9QcGd5ekplNUZZV0hCaENvdjlMcDE2bUlubklKa1VOdzR5cGZhOWVvNDV6YXpocVBwYUpqX1F3Z2RXUm9kcURGYTdvZnVKaVpqM3BTZ1lhck4yNE9vdTYxOHpaR1JiUdIBiwFBVV95cUxQWk1jbm5SZlZjSkxBbmtKNE9tSVd5WlRUMFB1d2sxaW9QaEFZZnBkRlJ3bW42OG5uYTJrNHRzNVlSeGQ2ay1MOTZzREZjTG9mdndXSEg4YnpRT2RpVVUtRkFYdXNDWFM0TTlSWkIyNk4xS1loMEFPOGVCcHpPZGNNUWs3WF8zNTlta05J?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ae1b85a09327",
-      "title": "The Best Time To Eat Walnuts To Support Brain Health",
-      "published": "2026-10-07T07:00:00+00:00",
-      "summary": "The Best Time To Eat Walnuts To Support Brain Health&nbsp;&nbsp;Health.comEating Walnuts With Dinner Support Better Sleep, Mood, and Heart Health!&nbsp;&nbsp;https://docksiderestaurant.com.au/Can eating walnuts every day help in mood regulation?&nbsp;&nbsp;The Times of IndiaImprove Your Mood Naturally: Study Says This Popular Nut Can Impact Brain And Boost Serotonin&nbsp;&nbsp;NDTVEating Walnuts Every Day Linked to Better Mood and Serotonin Metabolism Changes: Study&nbsp;&nbsp;Medical Dialogues",
-      "sources": [
-        {
-          "name": "Health.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NVmwtMnVQNURXTnFWcldiVjFiZjFKRHcybW5EUXFpcjVuS25sVEJRTW9sd2REOG5vZ1RONm5aTGE0eWd4UlN6djVBR09qNDZLQUJyT3hDcVpGV2c3Q1V5WVhzUm96OExWSW9YVDU3eVhrVWpKeEZsZHplMXQ4dw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "794b0625c398",
-      "title": "DC reviews routine immunisation performance in Upper Siang - Eastern Sentinel",
-      "published": "2026-10-07T05:40:00+00:00",
-      "summary": "DC reviews routine immunisation performance in Upper Siang&nbsp;&nbsp;Eastern Sentinel",
-      "sources": [
-        {
-          "name": "Eastern Sentinel",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObElkZjExR2J3RjBpNDd2NTd4amhsbUwzenIwR0p3X2FoaHdPcV9LUXpzWEh4c0NWMjNtUGx6VFhMTFZfR2pRZDZmME5vN1pPYVBoTzVZQmxRakI5aHhJTFpfTUNfanY5VWNzU2dPUWZSZHNRYVJDT0NzaFFNWmJsVVlaendmM2RGNERNc3Ixc3RvR1Vfcm5uekdiZTRLRHRFbUdTQWlxaw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6eed1f5a04f0",
-      "title": "A meteor crater in Oklahoma is nearly 100 million years younger than scientists thought; new zircon datin - The Times of India",
-      "published": "2026-10-06T20:20:00+00:00",
-      "summary": "A meteor crater in Oklahoma is nearly 100 million years younger than scientists thought; new zircon datin&nbsp;&nbsp;The Times of IndiaOklahoma’s Ames impact just moved nearly 100 million years on the geological clock&nbsp;&nbsp;The Watchers - Watching the world evolve and transformThis asteroid crater might be linked to a mass-extinction event&nbsp;&nbsp;NewsBytes100 million years off: UT Austin researchers say meteor hit Oklahoma later than thought&nbsp;&nbsp;FOX 7 AustinA hidden asteroid crat",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQNVBlcW9USERSbnlkeXk3Slo1NXo3ckFFQ0ctM1dOc21kbDJhbVlJcEJONDd1UUtmS0c3Q3hpREo4bzlUSjFJSmFYTFA0cDNCejlnX3FOZ3JXeWNjMFhScGpPcUZWRks0Z2NBT0VqS0p5VFEza3JpaFFfTUtHZWVoTE1KVWxfWXAzbHZSTWhFUlU0ajNHRkVjZC1rS2tPekVzaktFRDlrSFowT29DR3B4YUs5NEdrWmFmWWRHYnc1enhQcjdOMzRHQ2NPRHdKZVQxVEVIb2EzQTBUa1pYR29JeW5aM3dHSzNKMFNMQ21qOGxkaGsya1lsTU0tLXUzbXhmRWd3OXNDRDdpamNmZGh6Y0JST09kaDdVTmthM3hVODdCSUNsZDgyMTQtU2dpRkZiUk4wT1pVV3NEMUFfVVJ6d1pRd0dxV1d2aW5WS3lTOWstNVZ0aklZ0gHcAkFVX3lxTE1ieVFPSmpGczZOcHBGaGZwcTVBTGY2Mlo1M1VfTDU1LW5ZQkhkWGo1YlJXSmNfaDhQbDlaZ3R6WWdKSEZjMHphdmRqR0l5eWx6U0RkR1hhbldBcnZXcERTa1hfQWo5MVpYek9wTGRoOEVESnBocWNHbXA4V0NsR20wRE9PcVBkemhyM0dKWUJ3NVcwVzlkaWJCX2R4NllsQlFTVDBMaWExMnItSkZ2YncxUkhTcTlKQlhlYldISXBQY3djV1pfVlAzeEo3RndnUTh6RmlWRUNnODFVeWVRQkpJZ1h1SWc5NlNDTXpvNmJuNEwxTUhnSTljMXFvd3A5STljU2FCQlVsa0hSMGFCT2VBd0NSWDRtUVM0OEl0OVI4NG9sYU9ueGlmczc2cTQ0Q2pqMVM2U2xhYnFDTFBMcklVaTNuaEZoeGM1dEowblhkUURwQUROakwyX25Weg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "41dc058884f7",
       "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
       "published": "2026-10-06T13:05:35+00:00",
@@ -8917,19 +7678,6 @@
       ]
     },
     {
-      "id": "7319231fa2cd",
-      "title": "Higher BMI Linked to Pregnancy Risks in Type 2 Diabetes - European Medical Journal",
-      "published": "2026-10-06T13:04:33+00:00",
-      "summary": "Higher BMI Linked to Pregnancy Risks in Type 2 Diabetes&nbsp;&nbsp;European Medical Journal",
-      "sources": [
-        {
-          "name": "European Medical Journal",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTFRMERYS2VSZG9mcVZpYXc2RUtLVGZBMWhtMzJqUkRMTXU0ZE0zVUx2dzVaRDFWRV80dVhSQ3hCemJOSE1TQUZ6d25iejJjcEg0QXBGUkJwVGZ6eWhYdHZsN3ZjNFpWQjlNY3NBVHdlTjRFWlJQQ2xfYU92OFN2Q2hFQ2lMZDVzZ1dFQWdmZHJmUlFnOTU0U1BfbVFBZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b9892e856859",
       "title": "Water or Diet Drinks? Weight Loss Held Up Either Way",
       "published": "2026-10-06T11:11:04+00:00",
@@ -8938,6 +7686,19 @@
         {
           "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOG5Id2MwcFA5eEpHUVpDRm5DX0YxQ09kelVBempIUDhBZ0kxV2J2MmtQbUE1aXZqWElDQzdLM0NGNlprZjhqX2hCcjkwTzd0X2Q5LW8xWlYwNEpSSjNZcVpzT1JmX3FvTHUzQTJHSUoxM0xNdXB5MEhGQ0dZS2tWU0NjeGl4Sldjb3Z4OTVIb2cwbEJ4UkNYd2ZCVkFoOWs?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0f44e5c12fc9",
+      "title": "Global life expectancy bounces back to near pre-pandemic levels - Manorama Yearbook",
+      "published": "2026-10-06T10:18:06+00:00",
+      "summary": "Global life expectancy bounces back to near pre-pandemic levels&nbsp;&nbsp;Manorama YearbookIndians live longer than Pakistanis, lag Bangladeshis, says WHO&nbsp;&nbsp;The Times of IndiaMessi: An eternal legacy&nbsp;&nbsp;The Business StandardWHO Releases Leading Causes of Death&nbsp;&nbsp;Cleaning & Maintenance Management",
+      "sources": [
+        {
+          "name": "Manorama Yearbook",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNWQ0Q0lwYVNlbHljN2dROW9DNy1CMUNScTZobFFBTnoyRVlFekc5Wm5mZ1hvLTkyTUlacTFBbF9SVVNpZTFmN3hzMEFOWXlkQXRxcXAyOWxzelZGajRmWWRuUUlLbjBpNU16R1dWamRvMDB4VGtvQWpYNHlaT0xpSzItV2NHeVIwWkNaSEVWSVlsZE10bmloQWp3VEFmbEgzZEMteTAxMXlNdHNPUVJLVmxnRVF1NFBmN1E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -8959,24 +7720,11 @@
       "id": "b35084408024",
       "title": "Scientists examined 13 insects trapped in 99-million-year-old amber and identified a new species whose fl - The Times of India",
       "published": "2026-10-06T09:28:00+00:00",
-      "summary": "Scientists examined 13 insects trapped in 99-million-year-old amber and identified a new species whose fl&nbsp;&nbsp;The Times of IndiaRare discovery reveals a new species from the dinosaur age&nbsp;&nbsp;EurekAlert! Science News ReleasesCheck Out the Mouthparts on This New Prehistoric Insect&nbsp;&nbsp;Yahoo99-million-yr-old insect found, named after Teletubbies character 'Noo-Noo' | 'Noo-Noo is special, has no modern equivalent' | Inshorts&nbsp;&nbsp;InshortsDinosaur-Era Insect Had Its Own Ben",
+      "summary": "Scientists examined 13 insects trapped in 99-million-year-old amber and identified a new species whose fl&nbsp;&nbsp;The Times of IndiaRare discovery reveals a new species from the dinosaur age&nbsp;&nbsp;EurekAlert! Science News ReleasesCheck Out the Mouthparts on This New Prehistoric Insect&nbsp;&nbsp;Yahoo99-million-yr-old insect found, named after Teletubbies character 'Noo-Noo' | 'Noo-Noo is special, has no modern equivalent' | Inshorts&nbsp;&nbsp;InshortsNew 99-million-year-old insect spec",
       "sources": [
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOYVNGYkp4elUzMk43T01WUkhPN2FWX09yQjJ0cWszWWFfNnk3bEpldW45M21kRVZtaFFDV3FiZlQxNVdLRGR0TkRrTXBaMHpBNi1RREstQ1owV3B5NlNOUERuVV9fWFdicFpmc05GeEdnU1BJVlFXRlRfMTIxNlJTMHN6MVhiajNXekE2ZGkzSkRkNEhjRWlMeUJ1T1ZRNThNVzZ4QTlmLTZhclQtTEk2bkd2NEZmQVdyVGR4bDVYY09kVTR4aWs3S1U1NzBZZWhHRmtTTGwtMzcyWnFxQm52M2xHODZGaEFZOTZ1OFljdnN5TGQtMXEwa1FYeXN5YVBfZFpVSG05Q1B2NkpFcEhDX1A4MGtYZ2xXR1RBZk5pNXdWR3pqZ0JHbUFBY3NCZUhJbUk1WnZjVkg4bGN5MXFVSEw0WWhCUms2MXZXQVlqcG11MVU2LW9iTHNvczhWNHVBNEx6cHJOMTRwYm9LUHFsQy1xcUt6WFNjaklOQnBwMzMwQmU0eV9CS3RKMmRubm5DcGFYNEthbW5CeE5wTzZVazNKOUjSAaoDQVVfeXFMUDZaeWQyVFREd09ySGYxS3p2YUZIcW1rM1BEZEloaG5GMjRqck45TVR5eHg1elNfVE9LenFfNGlPZFVZWllNbWVickxCWGtuaTNYeTRBclJBRUFldWM3UFdGVUVrQTd0enA1b0JsMDJVdm9EZXRsQkRWc0sxTzBNVGsxZEY4UHBXOUFKQ1VkaUZyZGlaaUtNTmtYWHFkcGlkRHBiRUtrODBWdTdYUDJGVlUyMFNveVJhbDhNQjl4bmhhTXl1Zk5ZMWVWX2pmQkNHRU50bHgwaVZFb3BHcFZ3SEg0eVV1bXg1N0dKcmFPQWlPN21kbGNSdDRvdC1sakNQR0FHQ183b3NSUmtRLWhxdE9wTlpVdDF1Sy1wcmpKUW4zWXJ1b0lOa0Q0S1hZejVDdk1yTG8tSkN3Z3hYS0Y3NV92aVRsd296cy1rWHllUjhqMElraFlpQVo1OWhHZ0Qyem5tM3FvelJTblJMa203WlE0cEVSYmdCZ1RvSWlhazFacjd3cmt2b0NnckttdVBFZFRXbzdjZ3MwdVRBdEdrOGg3RlJEWUVBMm93?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "50811acf6bfa",
-      "title": "Medicine and God: how medieval people faced the deadly pneumonic plague - The Conversation",
-      "published": "2026-10-06T07:08:03+00:00",
-      "summary": "Medicine and God: how medieval people faced the deadly pneumonic plague&nbsp;&nbsp;The ConversationPlague Was Killing Hunter-Gatherers 5,500 Years Ago: Study&nbsp;&nbsp;NDTVPlague was killing humans 5,500 years ago! New study rewrites history of deadly disease&nbsp;&nbsp;IndiabloomsPlague outbreak: How ancient teeth help scientist decode deadly disease took place 5,500 years ago&nbsp;&nbsp;The Economic Times",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVlxLW9PLTltb2IwdjdpVngtMDBMTnNZMFpvUlFhYmRwTVZNbUZpdThMelBiNFRJVk90YU1hSzBHWmF0NXN1OGUzQXl6QUxBMUxndTYzbDBFYnN0azRGeng5TkVIeDBSSkpSbHJBTmxCTVZxTU5BbjRtMmcyZTlqTENyVTZYSXVlT3NvamJPR2xsUzdtSnl2SlpyRWpTVjFSN3o0RER4Ukc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -9090,37 +7838,11 @@
       "id": "98d89d267dfd",
       "title": "New York declares disaster emergency over measles outbreak - The Hindu",
       "published": "2026-10-05T22:51:00+00:00",
-      "summary": "New York declares disaster emergency over measles outbreak&nbsp;&nbsp;The HinduHochul Declares a Measles Emergency as Cases Rise in Rural New York&nbsp;&nbsp;The New York Times​US measles outbreak: New York declares measles disaster amid resurgence — early signs, risks, prevention, treatment, and more​&nbsp;&nbsp;The Times of IndiaMeasles is roaring back: Why the world – and India – should worry&nbsp;&nbsp;India TodayMeasles spreads across the state; ICE detention facility set to expand; ImageOu",
+      "summary": "New York declares disaster emergency over measles outbreak&nbsp;&nbsp;The HinduNew York Declares First US Measles Disaster Emergency Since 2025 Surge&nbsp;&nbsp;Adda247Hochul Declares a Measles Emergency as Cases Rise in Rural New York&nbsp;&nbsp;The New York Times​US measles outbreak: New York declares measles disaster amid resurgence — early signs, risks, prevention, treatment, and more​&nbsp;&nbsp;The Times of IndiaMeasles is roaring back: Why the world – and India – should worry&nbsp;&nbsp;I",
       "sources": [
         {
           "name": "The Hindu",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSzU3QURXbkJxYWF4SGhqRW95Q0o5N1BOTVliWWUxVzBLRXdVcllGQV9TRmpnWFNkTEstUjQxMFBYd3NlS2tIanRRakNsd1JJREZaOF9vTUdVY0swN1VrbTQ5ZWMzVVVEQTZjVGhmNmg3WERqLVgzdE9wdFBKS2hMQ0JzTHh2V20xRXU2UG1oZWRNZDIxT3ZUMTd3RVNwVGNOd09kTmk0MTRGNGV4MGFiR2hrOF9kRVpNUHpMOXJyMNIBxgFBVV95cUxQZnZLZ1JtYzUydDVTNVoxWWlUU1dUcFBlNWpIdlM1N2FKZ1dvRk5FLUJjbGhFbWRzS1B0REdZZEVRaEpqSFA2dlcyTlJrNThnVHA5RHBNTHRpMGxHWVc3UVFLMnBsY2JWVDhCWS1LSENvMUI0VklUdkt1aWRJUXBvQXBVWmRpQlBjU1hlX1BiOGxwN04wY1ZuZUFwWWxYRUVEcWZsbWozeldrdUpkNzNVdjN5QXl1RDFUbkxpemRFUzNmSldvb1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "18c28dd2aa2a",
-      "title": "Probing the many benefits of GLP-1 receptor agonists",
-      "published": "2026-10-05T19:04:47+00:00",
-      "summary": "Probing the many benefits of GLP-1 receptor agonists&nbsp;&nbsp;NatureCan Weight Loss Drugs Slow Your Biological Clock? New Studies Suggest Yes&nbsp;&nbsp;NDTVYour Ozempic Prescription May Come With a Surprising Bonus: Slower Aging&nbsp;&nbsp;GizmodoThe Download: weight-loss drugs slowing aging and carbon dioxide batteries&nbsp;&nbsp;MIT Technology ReviewOzempic and Zepbound Makers Report Slower Aging Clocks, but Unreviewed Data Do Not Prove Patients Age Slower&nbsp;&nbsp;Medical Daily",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PMENBbGh1b1ZnMGU5MTlPRkQtYS1fYkNiRXZ2MC1CUDR5S2w5c1hoZ29FYWVvazdObThpS2dSNDBFMUxGd3JlT2VJTVg4bERFTmVka0hPRlJxTUI5Wlln?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7c163d59670d",
-      "title": "Study finds a whole-grain sweet spot for heart health - The Washington Post",
-      "published": "2026-10-05T17:00:00+00:00",
-      "summary": "Study finds a whole-grain sweet spot for heart health&nbsp;&nbsp;The Washington PostThis Simple Carb Swap Could Help Lower Your Cholesterol, According to New Research&nbsp;&nbsp;Women's HealthEating More Whole Grains Could Protect Your Heart, New Research Suggests&nbsp;&nbsp;Black DoctorGood news for rice and roti lovers: Switching to whole grains may be good for your heart&nbsp;&nbsp;FirstpostScientists Found a Whole-Grain ‘Sweet Spot’ for Better Heart Health&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTRBQi04OW52R2ZoMHpuMTh6RFByallYbUNrZlEwa2J5eHd5YVlhdnBNZkw2MEd4X0daRlp3NmNfbGoxaDZxSjB6UGk5aXpZcGVHMkdIZk0xVGQ0a2VoWlpUTng3N2lwcWNacU91dFVORXlnRXpzcFd5RFczbTF3c1JEVHk5cmhwOTk0bDlzeHJ1T0JOWUhEVURhVTNCQl8y?oc=5"
         }
       ],
       "matched_keywords": []
@@ -9178,19 +7900,6 @@
       "matched_keywords": []
     },
     {
-      "id": "906e85fdfb13",
-      "title": "Indians live 2.8 years longer than Pakistanis, says WHO. Here’s why",
-      "published": "2026-10-05T13:21:09+00:00",
-      "summary": "Indians live 2.8 years longer than Pakistanis, says WHO. Here’s why&nbsp;&nbsp;ThePrintIndians live longer than Pakistanis, lag Bangladeshis, says WHO&nbsp;&nbsp;The Times of IndiaWHO Releases Leading Causes of Death&nbsp;&nbsp;Cleaning & Maintenance ManagementAlain Labrique: WHO Global Health Estimates 2023 and a New Era of Data-Driven Health Analytics&nbsp;&nbsp;Oncodaily",
-      "sources": [
-        {
-          "name": "ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2F4SmNEbUJuZGlnRkU2U25CS0lvLW9Bd1p4dlNxdk5aM2JueWFsTlA0RjlEVGlycmRDblVGTU5HRkpkLVA4eHRXT2U4TG42aGo2X1kxQlBwTE5MaFQ0dEJUQVJuNzBSeTBBRWdua0FxOHE1RVBGdGFNWHAyeWFtQUVqUlZod096aHRGdUpvTFk1eGdXaHZRMmk2VGxMR09YYU9UNnFLS01Fd09zZ0gxTjZ30gG3AUFVX3lxTFA1MHVMcUZqenRyVVB2YUJId2FyWDdRck5GV1NSQ2hkY2NfOTFNemxPSUdtTHdqODlzQ0xyRU1tZHhLVlloaUNleks0YWVDS3EtYlFaZkNpcDR1NFVXaDlUUmtNWER3UlVaNmxRdzEwa3VBeVRTSnVwVXRHb0hzSnllYTB5MGRwSFVteTN5OGx3dkItbWhuNTVBNkZyT2lEMzAtb1I0bl9EeEpmUnNhSmhiajNOQ1F1RQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a401c63d15f4",
       "title": "Kareena Kapoor's Nutritionist Rujuta Diwekar Shares Easy Exercise For A Flat Stomach And Stronger Legs",
       "published": "2026-10-05T12:22:24+00:00",
@@ -9199,6 +7908,19 @@
         {
           "name": "NDTV",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZi1oWTEtcWx4eVJWQWpDazdtSzBYdmxLUWtXR1lLOVFCZVlEaUw4THpSTDNGbm8taGdtTk9qaHlyOTFUemV6QXBiTTB2M2tFdm5udktjRmdQVndUSjFIcE9rNWRSY1dSUUhIQnRtc3ZUbGdMZjVQU2prSHJFcWxpN3VJM2h3R1dxMDlweXNnUWh3R01GeG9Pd2V4OVdNRGp3Yzg1VkFXNEstTUREeTgtN2pnc3ByTXJQdjhIYWg0WDNfR0NhaE10SWtCZzNGbVhNb0ZRRlQxTEzSAeABQVVfeXFMUG1IeXlldWlpVnM4NmtIY0xlSUQwVE51OE4tV2RlaURRLWYwX1JEVDY0R2tWY0ZaV1kxRTVwcmNGUjVSbldkLUpkbENqU2ZBSm5oS0d0MHBhaW01MUFGbDV0T2JUVjdLeUZ4VnZmTW52NkE1a0xaTUNkcjItdkt5R0M1cU55czIwcUdLX1U1c1V4T2tkRjNzRlhORUk3aXdYemFWY091YWdsUUlBMlBnbExESlJ3WkthYUk5XzZDb2FQelBjVkM4d2dQejhsbVNtblRXWnZycVpSRWNucF9WSlo?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e0552a2e704f",
+      "title": "Oklahoma’s Ames crater was linked to a 470-million-year-old event; zircon dating suggests it may be nearl - The Times of India",
+      "published": "2026-10-05T11:10:00+00:00",
+      "summary": "Oklahoma’s Ames crater was linked to a 470-million-year-old event; zircon dating suggests it may be nearl&nbsp;&nbsp;The Times of IndiaA hidden asteroid crater under Oklahoma could be connected to one of Earth's major mass extinctions&nbsp;&nbsp;SpaceOklahoma’s Ames impact just moved nearly 100 million years on the geological clock&nbsp;&nbsp;The Watchers - Watching the world evolve and transform100 million years off: UT Austin researchers say meteor hit Oklahoma later than thought&nbsp;&nbsp;FO",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOcGFQdUFhNkRkMmdJcV9OOVFYNGpPUmZ6NGNLRVphdFZSSEtNOEtkVkgwcHItNk1hdzEwLXNLSjg5QndvVWF2S0Y3ZUVFVDJENHpxNjJDLXlnRHM2OS0xaXhSV3hxbTFTVDBUZzlNSGFwczVDdFRTSVdvdWdwODU1NkprdmFGUGppeVpNUk5FRV8tdmlGWC1uT3pFMV9iVS0zZFJFeHplVTBIb3pTc1hfWnYya1hqNE5FcHVIOXdtWkk1VU02Y3hRdHVNMWcya0V1NFRjMUhLa2dEQ3FxcXBpdEJMU1FNUV9ZMnBoNHctVGhYTmFRTmpwY2VFLTF3U2FWRFZJT3NSMlhsUVlzU2l0U2dnNDhic1JKcWRyN0JLT2NCSHhzbnMta3c3TDRpQkdvZXhiTEZ4c1pTQUtDWVdsSXRFVnplUzh0RXNz0gHQAkFVX3lxTE53SFQyYzByRDhMYkZnaVBKTXZfbXNjdDdCdUVWaXdfdFZhdkJIOXFOSVo4a09OVGprX09EQTJmT1c4eEpTS3lsZVl6OEN0TzNkYkItZTNjVXd4ZEoweXBHSjlUbWdGUDFfdHRoNTJTOUNKdUtvT2NUUVBzdUJ2M3EtWWtoYW92OGkxTWVqS3pnV0xfejBYTi03Y0dxejZQd0hSUzFRbjBxMTNIRC1hdWlBRlI2NExyU3FFalpMU3g2ajNkLWQ5Uld1WjVELThxSG8zaDdLUDU5RVY1ek1OZ25Nd0ZXS3E4clhFT0t1TmkxcHBwdW9uWnZUWmxEcGlzYl9oZ1RMS1BCdmpmeVJHcXVmdmxjSVhCdFhPcnFDWHN4dEZuOVEySUtMX19vbU9ZbVkzTG9DZlhpdzJTNTAxU1hlSkE2a1pvdkdBMjlHXy1VYg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -10140,7 +8862,7 @@
       "id": "6001d07b438e",
       "title": "'The spine just wants to move': How to strengthen your neck",
       "published": "2026-10-05T09:12:24+00:00",
-      "summary": "'The spine just wants to move': How to strengthen your neck&nbsp;&nbsp;BBCKelly Ripa Ditched Crunches and Rethought Reading in Bed to Avoid Neck Lines: Do Her Habits Really Work?&nbsp;&nbsp;Yahoo Health5 simple exercises to ease neck strain from long screen time&nbsp;&nbsp;en.bd-pratidin.comYour Phone Is Putting Almost 50 Pounds of Pressure on Your Neck and Most People Have No Idea It Happens&nbsp;&nbsp;Woman's WorldThe neck hump that haunts us all&nbsp;&nbsp;The California Aggie",
+      "summary": "'The spine just wants to move': How to strengthen your neck&nbsp;&nbsp;BBCKelly Ripa Ditched Crunches and Rethought Reading in Bed to Avoid Neck Lines: Do Her Habits Really Work?&nbsp;&nbsp;Woman's World5 simple exercises to ease neck strain from long screen time&nbsp;&nbsp;en.bd-pratidin.comYour Phone Is Putting Almost 50 Pounds of Pressure on Your Neck and Most People Have No Idea It Happens&nbsp;&nbsp;Yahoo HealthThe neck hump that haunts us all&nbsp;&nbsp;The California Aggie",
       "sources": [
         {
           "name": "BBC",
@@ -10150,36 +8872,10 @@
       "matched_keywords": []
     },
     {
-      "id": "be9c58aa91ae",
-      "title": "Walking For 20 Minutes Not Enough To Keep Heart Healthy",
-      "published": "2026-10-05T08:24:29+00:00",
-      "summary": "Walking For 20 Minutes Not Enough To Keep Heart Healthy&nbsp;&nbsp;Rediff",
-      "sources": [
-        {
-          "name": "Rediff",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbWtZV0t3cjM4SXpkdW5xa2xydkJfV01MYUdxNmtYdXI0cE5Ga1pQYnByUjRfVmVQTHRxZ3FPa3NXREdwd2JjSzFNVTF2eG9DTlU2NWZHd0ZKY3B3eTF6N2VkbmQ1X1NFTXloNE5PTFZ0ZE9ISTEtbWthOENpdmNjc1Q0RjhmR2N2aEtRSFNIbWRwV0lwVmt6QWd5WDZwdjF2REFxNjNDYTDSAa4BQVVfeXFMT1ZiaUxHeXRvS0RzOVJHejlyYkp4TWNXSjBya09uTHdhOVgtZEFOYVEwVWdlMUVERU4xajZQLWxPWmlsNXFjNkhfT1FSNnFWd05ZbmJVbzJVRDI3Uk8tckpURXpaeVlOTzh6WlBrY3kzZHFiazNYcW1jNUlWbWtFSXBLVW00MzEwdGNKTk1kb1hlVzFWMW1FaFc2a0JzMzEyYmpySWFpWHhlNTlJU2dR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d41753cd5633",
-      "title": "Indians live longer than Pakistanis, says WHO report: Know life expectancy, leading causes of death - CNBC TV18",
-      "published": "2026-10-05T04:20:29+00:00",
-      "summary": "Indians live longer than Pakistanis, says WHO report: Know life expectancy, leading causes of death&nbsp;&nbsp;CNBC TV18Indians live longer than Pakistanis, lag Bangladeshis, says WHO&nbsp;&nbsp;The Times of IndiaWHO Releases Leading Causes of Death&nbsp;&nbsp;Cleaning & Maintenance ManagementAlain Labrique: WHO Global Health Estimates 2023 and a New Era of Data-Driven Health Analytics&nbsp;&nbsp;Oncodaily",
-      "sources": [
-        {
-          "name": "CNBC TV18",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjhZdEZuTm11VWRMZlRmRzZ2VzhFdHBOWUJVMEhFbXdyMC1ENHRIWHdZQXk4QVJOczRxYjVzNld1bVVYT0xJSU5KQi0wcEN3REticGFlaTNPZkZ5TnpkVjYzMHo1bnprVkk1RThOUi1lbTRmT0JtLUFpbGlNVnAtSkgxeDlYT2lxWllaWTBGU3ZFVnpSSDNYR3NmbDVRWlQ5djJwMkVsZHAwdjJZN0JNQW02MDk0QjJ0OVc0UlNKaEpkMjJyRGdzU2xvSEx4Q0cyWm84TmNKSXM0SHg2cTJTSNIB5gFBVV95cUxOTjdsT1V1Wkx5Nm9XbkdBbkE4Sk5ITEE0ajl1S2xHQnhyRGFacTZZeDNFT1hNRllOTWtEYzNmQzVJZ2IySlk2VktKQTJ6d1F1dmE1dTJzenp4Y09Hc2c0ckx4T1pYYUlpOG5MTkd2NzF1eXM5ZjNfVHRhTGM5dFI5MEsyOHlwZ3YxSFF6UGZPTHE5RVFsVk5OWmttYzBweGJMRVhFZE1OVHl6T29sZWdjQ3JmZ3B3VS1vaVVrMlc0MWZPVmNzOVRVdDNTQi1hMUE0WWxoN2N5cWRJNFlMS1Qzd0tYdHN6QQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "124d400a4d38",
       "title": "Plague outbreak: How ancient teeth help scientist decode deadly disease took place 5,500 years ago - The Economic Times",
       "published": "2026-10-04T23:51:08+00:00",
-      "summary": "Plague outbreak: How ancient teeth help scientist decode deadly disease took place 5,500 years ago&nbsp;&nbsp;The Economic TimesMedicine and God: how medieval people faced the deadly pneumonic plague&nbsp;&nbsp;The ConversationPlague Was Killing Hunter-Gatherers 5,500 Years Ago: Study&nbsp;&nbsp;NDTVPlague was killing humans 5,500 years ago! New study rewrites history of deadly disease&nbsp;&nbsp;Indiablooms",
+      "summary": "Plague outbreak: How ancient teeth help scientist decode deadly disease took place 5,500 years ago&nbsp;&nbsp;The Economic TimesThinking About Plague? Consider the Marmot.&nbsp;&nbsp;National GeographicMedicine and God: how medieval people faced the deadly pneumonic plague&nbsp;&nbsp;The ConversationPlague Was Killing Hunter-Gatherers 5,500 Years Ago: Study&nbsp;&nbsp;NDTVPlague was killing humans 5,500 years ago! New study rewrites history of deadly disease&nbsp;&nbsp;Indiablooms",
       "sources": [
         {
           "name": "The Economic Times",
@@ -10197,32 +8893,6 @@
         {
           "name": "European Medical Journal",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHVzcFpaZlZ5UFVDQWJCcjBNWnZPQlRKOWt4QkFQa1R1MGdqUzJOa0ZYUWY5V2oyYXZwZ1dfTDNXZnViamg2UEdEeS00SFBTT1VBN3VSaFpEdEtJZUhkcnR6cGN4R201aDItcnd2RE5zV19jWVBkS0tsNGdpUU10RXlaS01Ecm1oOXBBaXBzOGJ3WjdzYmtneGVlQk9oR05RT0w3UVMxRjBaWWpIV0FB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "adab149ed8eb",
-      "title": "Robotic hip and knee surgery does not reduce risk of repeat surgery",
-      "published": "2026-10-04T13:06:35+00:00",
-      "summary": "Robotic hip and knee surgery does not reduce risk of repeat surgery&nbsp;&nbsp;healthcare-in-europe.comRobotic joint replacement surgeries show 'no benefit' over conventional procedures&nbsp;&nbsp;Doctors.net.ukRobotic hip, knee surgeries no better than conventional ones: Studies&nbsp;&nbsp;Hindustan Times",
-      "sources": [
-        {
-          "name": "healthcare-in-europe.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHV3X1FHd2FxNW9pNHJhWEJCOUpTZ2dldlZqN0VycERNajg4X29xVVl3UVhwdVZUTjlEbVQ4dFNJLWw4bUpwTFFnYU91eHZaa3JQZ21WNm5DeThQZVhiQkFBeDliQTQyV2k5QVhyZFJqNllkdDFudDJ5T2I0R20xd3Y4NGRsdkxnb195dw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b6bb026c122d",
-      "title": "A signal from beyond: Astronomers detect radio waves from planet 63 light-years away for first time - The Times of India",
-      "published": "2026-10-03T08:12:00+00:00",
-      "summary": "A signal from beyond: Astronomers detect radio waves from planet 63 light-years away for first time&nbsp;&nbsp;The Times of IndiaMysterious radio signal potentially from a distant 'Super-Earth' puzzles scientists—is it alien?&nbsp;&nbsp;Starlust.orgResearchers May Have Directly Glimpsed an Exoplanet’s Magnetic Field for the First Time, Building Hope of Peering Deeper Into Faraway Worlds&nbsp;&nbsp;Smithsonian Magazine📻 First direct detection of radio waves from an exoplanet&nbsp;&nbsp;Techno-Sci",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWlNHQUVtUXcwSW9TQkItZE1EWDNVTDBTVlRIeV9RSXNqVjNyQ2V4WTNmSU5JcnB1eHFNWFJIdFpUeEZXbTV3ZUwwTWxkcDM5YU44NVJvTXdhcVJic09CU3lPRDN4c2VGdWhudmVkY0F5ckZ0R0RkbjVkbmd3Y1Rsd2JfNWpwLTJidnMxOTMxSUdNNEpaWGJPR1czY0x2M0NXeUNWLURmTVYwZ2tFM2kxVjNFSTVkc0hKa0xXYV95bGxkcThZMURjYXY3b1gxUHJsbHZwc3JhUENuRWEtV2tUN0VjcjRVbTE3c0Vn0gHwAUFVX3lxTE9RWmhhLXRqQUNLaU5yanVacW1Ib3QyQnpNVUh0eURGNGMwUVhzaExGOURPd09VLUhVTW12Y1ZzUldMUGZwTHY0bkI5M1MzOENHaG5CY0hLMmFEY3hadGQ2SFNZOVhkWXBWRmVBY213Q19IWUVkZWNja0FsOTJub2F1aWRpY2ZmbS1CbTFURUl1VlZQTExmeTZJUklGRWZ2VG9Qb05RZjMzVXlBOHFib3lYdVM3U0tYaF9rNUJocWVJaTlEOFh1M0I2bWJEa1h4S0lWZWc4bm1QSnp5RXB1X0hBS0htdFFxUnBJREk5bVNObQ?oc=5"
         }
       ],
       "matched_keywords": []

@@ -44,11 +44,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhi
 
 ---
 
-### [HPV Vaccine Before Pregnancy Linked to Lower Preterm Birth Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTFCLVpJMjdwbVNIejN5RUJYZ0lYLURHVy1OSnNQaHltNzh0T2VrZnRXLV94bk9Ua29kcXk1clVybm4tOUdmbnQ3djR5amx1aS1vM1hkRkdZY3BPNTBWS2ExWlRfY2s1TXBFMHZ6ODBqSElDT085Q3RDVUl0OUV1OVRRaXQ4MGxkcWV1TGIxQ3NKMGNkazVnN1ktQ2t0RVZIa2RNMmRTZHlHS296el80Z2MzOUo?oc=5)
+### [HPV vaccine linked to lower risk of pregnancy complications: Study - The Hans India](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDZiSGY3U3VhX3JUbmJremRoQ2U0RHdkX0JDaEE1aVowOW9HNWtCMjFyQ3ZRUldRWFk1WGVpc3BXc3NPQU1hV3Q2R1dFRmdXSW56dFIzaVU0UUZyT3ROY1oxTzdUal9yMWhSR0xjajE5Z1lEcnZHUjdJRGExd3d2Mm1WMWQ4eTF6Wl82T2RZZlNvNHQ5X0RMTG9BbnBvelNIckxrbWgyLUp1SzJRUzZGbHBuTkF0aEd4WHlDYUdjSEN0dw?oc=5)
 
 2026-10-08 <span class="news-indication-tag">RA</span>
 
-Source: [NDTV](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTFCLVpJMjdwbVNIejN5RUJYZ0lYLURHVy1OSnNQaHltNzh0T2VrZnRXLV94bk9Ua29kcXk1clVybm4tOUdmbnQ3djR5amx1aS1vM1hkRkdZY3BPNTBWS2ExWlRfY2s1TXBFMHZ6ODBqSElDT085Q3RDVUl0OUV1OVRRaXQ4MGxkcWV1TGIxQ3NKMGNkazVnN1ktQ2t0RVZIa2RNMmRTZHlHS296el80Z2MzOUo?oc=5)
+Source: [The Hans India](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDZiSGY3U3VhX3JUbmJremRoQ2U0RHdkX0JDaEE1aVowOW9HNWtCMjFyQ3ZRUldRWFk1WGVpc3BXc3NPQU1hV3Q2R1dFRmdXSW56dFIzaVU0UUZyT3ROY1oxTzdUal9yMWhSR0xjajE5Z1lEcnZHUjdJRGExd3d2Mm1WMWQ4eTF6Wl82T2RZZlNvNHQ5X0RMTG9BbnBvelNIckxrbWgyLUp1SzJRUzZGbHBuTkF0aEd4WHlDYUdjSEN0dw?oc=5)
 
 ---
 

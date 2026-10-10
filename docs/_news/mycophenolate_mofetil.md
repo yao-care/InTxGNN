@@ -14,7 +14,7 @@ permalink: /news/mycophenolate_mofetil/
 ---
 
 <p class="key-answer" data-question="What news is there about Mycophenolate Mofetil?">
-<strong>Mycophenolate Mofetil</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Mycophenolate Mofetil</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Mycophenolate Mofetil with t
 <li>bone Paget disease (99.7%)</li>
 <li>feline acquired immunodeficiency syndrome (99.7%)</li>
 <li>simian immunodeficiency virus infection (99.7%)</li>
-<li>multiple sclerosis (99.5%)</li>
+<li class="indication-matched">multiple sclerosis (99.5%)<span class="indication-tag">📰 multiple sclerosis</span></li>
 <li>hemosiderosis (99.5%)</li>
 <li>Heiner syndrome (99.5%)</li>
 <li>African iron overload (99.4%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Mycophenolate Mofetil with t
 <p><a href="{{ '/drugs/mycophenolate_mofetil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Multiple Sclerosis Knowledge Gaps Persist in Primary Care - European Medical Journal](https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1ZRZVF6LTA2X3BfeThFOEJ1alMtR1FuWVpodmRjdVp1YkZuaFhoMERXNUhuQ3lqdUdHYWtHUEZ0emJITlU4enZYQzRTbk4tSDdrOHBYLXZZWFVfN3lqNzBQdFZON1pOampkOHFSQ1YwT1BqS0lBRmtaTDA4S3NubHFWM3B6U1NfOUg1eWtoa1piQVEyNkhkRk5iQWVsRlRobFE?oc=5)
+
+2026-10-10 <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1ZRZVF6LTA2X3BfeThFOEJ1alMtR1FuWVpodmRjdVp1YkZuaFhoMERXNUhuQ3lqdUdHYWtHUEZ0emJITlU4enZYQzRTbk4tSDdrOHBYLXZZWFVfN3lqNzBQdFZON1pOampkOHFSQ1YwT1BqS0lBRmtaTDA4S3NubHFWM3B6U1NfOUg1eWtoa1piQVEyNkhkRk5iQWVsRlRobFE?oc=5)
+
+---
 
 
 <div class="disclaimer">
