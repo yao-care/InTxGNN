@@ -14,7 +14,7 @@ permalink: /news/beta_carotene/
 ---
 
 <p class="key-answer" data-question="What news is there about Beta Carotene?">
-<strong>Beta Carotene</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Beta Carotene</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Beta Carotene with the lates
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>acne (disease) (100.0%)</li>
 <li>severe nonproliferative diabetic retinopathy (100.0%)</li>
-<li class="indication-matched">diabetic retinopathy (100.0%)<span class="indication-tag">📰 diabetic retinopathy</span></li>
+<li>diabetic retinopathy (100.0%)</li>
 <li>diabetic cataract (100.0%)</li>
 <li>cortical cataract (100.0%)</li>
 <li>nuclear senile cataract (100.0%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Beta Carotene with the lates
 <p><a href="{{ '/drugs/beta_carotene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Max Hospital, Dehradun Highlights the Need for Comprehensive Eye Care in Patients with Chronic Health Conditions - India Education Diary](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSm9WNmFSUldYcDBOZXdSMnh4UGpDbWVxNWpKWnZLSTVjd1JHellEdmJ3UEFseTlJaWtSY25LQVg4eGlPWWNoWGZjYXduYk5OQk95RndmZnpxeFp1dWF0aVlkTVkwVWZqUWxBbVJCbVUxaFdYb1VhaDlmU0hER0prVXFlcmNlbmlUZlpRd3h6Tk1lZzF4bXNkeGExRUVmTGl1VDgxYkhxd1ROUVE3TExQOWZPcEJXVEtKcFliemxvdGY2R3hUaUJ5R2pIRjVuazlPRXBpUTVudWhCbkk?oc=5)
-
-2026-10-09 <span class="news-indication-tag">diabetic retinopathy</span>
-
-Source: [India Education Diary](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSm9WNmFSUldYcDBOZXdSMnh4UGpDbWVxNWpKWnZLSTVjd1JHellEdmJ3UEFseTlJaWtSY25LQVg4eGlPWWNoWGZjYXduYk5OQk95RndmZnpxeFp1dWF0aVlkTVkwVWZqUWxBbVJCbVUxaFdYb1VhaDlmU0hER0prVXFlcmNlbmlUZlpRd3h6Tk1lZzF4bXNkeGExRUVmTGl1VDgxYkhxd1ROUVE3TExQOWZPcEJXVEtKcFliemxvdGY2R3hUaUJ5R2pIRjVuazlPRXBpUTVudWhCbkk?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

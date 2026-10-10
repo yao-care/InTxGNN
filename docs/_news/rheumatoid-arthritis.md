@@ -3,7 +3,7 @@ layout: default
 title: "RA (rheumatoid arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (rheumatoid arthritis). 3 articles, 21 related drugs."
+description: "Health news about RA (rheumatoid arthritis). 4 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rheumatoid-arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about RA (rheumatoid arthritis)?">
-<strong>RA (rheumatoid arthritis)</strong> currently has <strong>3 news articles</strong> and 21 related drugs.
+<strong>RA (rheumatoid arthritis)</strong> currently has <strong>4 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -49,13 +49,21 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 
 2026-10-09
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
+
+---
+
+### [HPV vaccination linked to lower risk of pregnancy complications | The Business Guardian - newspaper](https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmVkV3FDWEFKVGxjV3NDMVI2WWZfV0xHSlFNZDBkYWpZUlNHb1BCTm5SZFdteEs1MzZuQlQ0RU9laXYwX1RTRXdRSlNTMDg5dllzZ2g5ZDVWVkJheXRfWGJmRkJNUHZaWTNwdUhEeXhzTXpYM0ZQMHVaMUx4d2VUMnhrbkZzQjN2bnpXWHktdWMyWmdYQ0s5cmpVTlhhY3BzWU5TVm1Ua1BVVFFoNDZDcnc2N0twRW9Id2p3SFg2TFpKemtkMmc?oc=5)
+
+2026-10-09
+
+Source: [Magzter](https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmVkV3FDWEFKVGxjV3NDMVI2WWZfV0xHSlFNZDBkYWpZUlNHb1BCTm5SZFdteEs1MzZuQlQ0RU9laXYwX1RTRXdRSlNTMDg5dllzZ2g5ZDVWVkJheXRfWGJmRkJNUHZaWTNwdUhEeXhzTXpYM0ZQMHVaMUx4d2VUMnhrbkZzQjN2bnpXWHktdWMyWmdYQ0s5cmpVTlhhY3BzWU5TVm1Ua1BVVFFoNDZDcnc2N0twRW9Id2p3SFg2TFpKemtkMmc?oc=5)
 
 ---
 

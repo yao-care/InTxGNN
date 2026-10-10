@@ -14,7 +14,7 @@ permalink: /news/tulobuterol/
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <li>bronchitis (100.0%)</li>
 <li>obstructive lung disease (100.0%)</li>
 <li>respiratory malformation (100.0%)</li>
-<li class="indication-matched">chronic obstructive pulmonary disease (99.9%)<span class="indication-tag">📰 COPD</span></li>
+<li>chronic obstructive pulmonary disease (99.9%)</li>
 <li>Rienhoff syndrome (99.9%)</li>
 <li>compensatory emphysema (99.9%)</li>
 <li>interstitial emphysema (99.9%)</li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Walking remains highly beneficial for COPD patients in polluted environments](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1lsTkNhLXoxZTM3Y0Z4RlhqT09rdmprS1JVMHVIem1OOVVrX201OVdlVWhuQ0w4b3FYeUZRTzdHcEsxeGFyR2ZiOWtqRGt0b2cyLUF6QVZCMkhmQlJtejg4b1c1UmpiQWF4cGxKWDFBMUpJM1dhNHh2QTNPTUdVMjA0bjZNUk1GV3c5QzVZc1M1S3FHc2JTM3dQS0FtNnN4ZjA5V25oVjlna3ZiQWZmMmlaNFBKZVpSMXFlTnZYMC1Hdw?oc=5)
-
-2026-10-05 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">COPD</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1lsTkNhLXoxZTM3Y0Z4RlhqT09rdmprS1JVMHVIem1OOVVrX201OVdlVWhuQ0w4b3FYeUZRTzdHcEsxeGFyR2ZiOWtqRGt0b2cyLUF6QVZCMkhmQlJtejg4b1c1UmpiQWF4cGxKWDFBMUpJM1dhNHh2QTNPTUdVMjA0bjZNUk1GV3c5QzVZc1M1S3FHc2JTM3dQS0FtNnN4ZjA5V25oVjlna3ZiQWZmMmlaNFBKZVpSMXFlTnZYMC1Hdw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -45,11 +45,11 @@ This page brings together the latest health news about “paralysis” and lists
 
 ## Related News (2)
 
-### [Q4 2026 Brain-Computer Interfaces: The Paralyzed Will Walk](https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHlpQzlEcVNuZVp2OTRHcmVLTzcwSDNnQlNob3pwVUFMSXZ3Mk95cWJsc293YUF5NHdTOEZFRFJTTUFFdnpWWktCSjhvU0lqNW1TMnhxMW5YcmNGQi0yTEpYLXNuSFVRUDV2T2VLVGlQWnE4X3dmVzVlZFBQdC1uSml2WU55SHJybHRlNXpNTGI2TEx4Q3dn?oc=5)
+### [Brain-Computer Interface Enables Coordinated Speech and Movement - European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON19ONUhEa1FWekFHMmV2V0o5aWdnLXJ3THpkMjRUVXVFNmwtVXhjTXpxVGhZUFBLSEhEOWszc2pvckdFZGVyN0UtM2ZjM3p1OUt1YXJ5YVpQbHFtWkNTOXBoTE1SeE1vbTlyTEI2QWhjMlNRTmZLN2c4SVp6V3ptZVZtNDdjSlljMWVXYWF5TTJkSjlOdzZXVGZ5NF9DTnh4dTFGLWZPaXJMcUk?oc=5)
 
 2026-10-09
 
-Source: [PitchBook](https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHlpQzlEcVNuZVp2OTRHcmVLTzcwSDNnQlNob3pwVUFMSXZ3Mk95cWJsc293YUF5NHdTOEZFRFJTTUFFdnpWWktCSjhvU0lqNW1TMnhxMW5YcmNGQi0yTEpYLXNuSFVRUDV2T2VLVGlQWnE4X3dmVzVlZFBQdC1uSml2WU55SHJybHRlNXpNTGI2TEx4Q3dn?oc=5)
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON19ONUhEa1FWekFHMmV2V0o5aWdnLXJ3THpkMjRUVXVFNmwtVXhjTXpxVGhZUFBLSEhEOWszc2pvckdFZGVyN0UtM2ZjM3p1OUt1YXJ5YVpQbHFtWkNTOXBoTE1SeE1vbTlyTEI2QWhjMlNRTmZLN2c4SVp6V3ptZVZtNDdjSlljMWVXYWF5TTJkSjlOdzZXVGZ5NF9DTnh4dTFGLWZPaXJMcUk?oc=5)
 
 ---
 

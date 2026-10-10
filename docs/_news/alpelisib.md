@@ -14,7 +14,7 @@ permalink: /news/alpelisib/
 ---
 
 <p class="key-answer" data-question="What news is there about Alpelisib?">
-<strong>Alpelisib</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Alpelisib</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>pulmonary hypertension (99.0%)</li>
+<li class="indication-matched">pulmonary hypertension (99.0%)<span class="indication-tag">📰 pulmonary hypertension</span></li>
 <li>migraine with or without aura, susceptibility to (99.0%)</li>
 <li>migraine disorder (98.9%)</li>
 <li>kyphoscoliotic heart disease (98.9%)</li>
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (6)
+
+### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">pulmonary hypertension</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+---
 
 ### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 
@@ -55,6 +63,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhi
 2026-10-09 <span class="news-indication-tag">leprosy</span>
 
 Source: [The Cureus Journal of Medical Science](https://news.google.com/rss/articles/CBMivwJBVV95cUxQV2g4VU5kLU1sOHBrRXRQRzRuSjNKdk9ud2FNM3YxYTFIdDBfcEhRU0U0MU1JbGJVRmp3YklYa3FBbmZSTzFLSzFNTVd3WGt2SG5SenlYR1hfTUlhNl9FMmJMTUQ4V2FTUTJGNUp0QjVlenQyT1A2MDNsVkFMQWtHaW9XV3ZFdG1NTVVGVUFyUEZUOG1xX0dENE5xaGxjSDBWS1B3anEteTM4TDFUUDZtRE5OOUo5Yk92MVk1U1k4ekNySXpXSzVoLTFKRHZGUjJ0NjhnWW1abEZRYXRoVXBLM2N6U25CeE5lYUFYQ1prZDktejdvbGpuT2Y0dE5mb3dFd1BrNUtfVWd3MHFTS0NYMTRRSkJUN0VlSjFxX1gyZm1pZER5Yjh2MmtCVExNTm5OeEtpSUNsT2M2emdOQVVv?oc=5)
+
+---
+
+### [HPV vaccination linked to lower risk of pregnancy complications | The Business Guardian - newspaper](https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmVkV3FDWEFKVGxjV3NDMVI2WWZfV0xHSlFNZDBkYWpZUlNHb1BCTm5SZFdteEs1MzZuQlQ0RU9laXYwX1RTRXdRSlNTMDg5dllzZ2g5ZDVWVkJheXRfWGJmRkJNUHZaWTNwdUhEeXhzTXpYM0ZQMHVaMUx4d2VUMnhrbkZzQjN2bnpXWHktdWMyWmdYQ0s5cmpVTlhhY3BzWU5TVm1Ua1BVVFFoNDZDcnc2N0twRW9Id2p3SFg2TFpKemtkMmc?oc=5)
+
+2026-10-09 <span class="news-indication-tag">RA</span>
+
+Source: [Magzter](https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmVkV3FDWEFKVGxjV3NDMVI2WWZfV0xHSlFNZDBkYWpZUlNHb1BCTm5SZFdteEs1MzZuQlQ0RU9laXYwX1RTRXdRSlNTMDg5dllzZ2g5ZDVWVkJheXRfWGJmRkJNUHZaWTNwdUhEeXhzTXpYM0ZQMHVaMUx4d2VUMnhrbkZzQjN2bnpXWHktdWMyWmdYQ0s5cmpVTlhhY3BzWU5TVm1Ua1BVVFFoNDZDcnc2N0twRW9Id2p3SFg2TFpKemtkMmc?oc=5)
 
 ---
 

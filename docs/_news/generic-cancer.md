@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 6 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 9 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>6 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>9 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -256,13 +256,29 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (6)
+## Related News (9)
 
-### [Beyond hormone therapy: what’s the next wave in prostate cancer?](https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRE9yVzVGR2ZJOWczYWs5cDktcmk3bzBjWEJRekN2dHRua1FMM3IzeFhpdE9PVGdralZJdWp1UWRPVnFTNWloRHQxa0ZibjFnU2lmNEpudGdESHllTElwWngzeUNrdjRRVlhVaQ?oc=5)
+### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+2026-10-10
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+---
+
+### [The 1 Thing To Remember About Your PSA Results During Prostate Cancer Screening](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZuMDQwYW9QazB5VlpKS0txU01fY0UyMjczNUkwM2FNSXhRcVhhQXFoaWRYRno4ZVZ2X1dBTHdPR3JkcjhaZk8tdnhDZXhaM2d2UHdHUUg4ZklhRWo1OV83aEtVU1FmZWJnMmpqQ2JDVlVzNXcxbkd6M3B2dFo0a0RqSFRidw?oc=5)
+
+2026-10-10
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZuMDQwYW9QazB5VlpKS0txU01fY0UyMjczNUkwM2FNSXhRcVhhQXFoaWRYRno4ZVZ2X1dBTHdPR3JkcjhaZk8tdnhDZXhaM2d2UHdHUUg4ZklhRWo1OV83aEtVU1FmZWJnMmpqQ2JDVlVzNXcxbkd6M3B2dFo0a0RqSFRidw?oc=5)
+
+---
+
+### [C/Can Advances the Implementation of Global Breast Cancer Guidelines](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
 
 2026-10-09
 
-Source: [Labiotech.eu](https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRE9yVzVGR2ZJOWczYWs5cDktcmk3bzBjWEJRekN2dHRua1FMM3IzeFhpdE9PVGdralZJdWp1UWRPVnFTNWloRHQxa0ZibjFnU2lmNEpudGdESHllTElwWngzeUNrdjRRVlhVaQ?oc=5)
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
 
 ---
 
@@ -287,6 +303,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0Zz
 2026-10-08
 
 Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
+
+---
+
+### [Brain tumor segmentation using particle swarm optimized histogram equalization and a VGG19 based U-Net](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zX3B4N0Q5TmVRV0o0bWEycTJsZGRhYXpZelh4dVQ4Rk83RjA2X3VpZUxIWE8wZzQ0UFBBMjMxTjZaSUhyd3RMOTF1dmpsTmVSNW9CdWh2ak9mb0dmaF9v?oc=5)
+
+2026-10-07
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zX3B4N0Q5TmVRV0o0bWEycTJsZGRhYXpZelh4dVQ4Rk83RjA2X3VpZUxIWE8wZzQ0UFBBMjMxTjZaSUhyd3RMOTF1dmpsTmVSNW9CdWh2ak9mb0dmaF9v?oc=5)
 
 ---
 

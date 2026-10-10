@@ -14,7 +14,7 @@ permalink: /news/apremilast/
 ---
 
 <p class="key-answer" data-question="What news is there about Apremilast?">
-<strong>Apremilast</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Apremilast</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 <li>migraine disorder (98.7%)</li>
 <li>migraine with brainstem aura (98.5%)</li>
 <li class="indication-matched">rheumatoid arthritis (98.1%)<span class="indication-tag">📰 RA</span></li>
-<li>pulmonary hypertension (98.1%)</li>
+<li class="indication-matched">pulmonary hypertension (98.1%)<span class="indication-tag">📰 pulmonary hypertension</span></li>
 <li>migraine with or without aura, susceptibility to (97.8%)</li>
 <li>kyphoscoliotic heart disease (97.8%)</li>
 <li>brachydactyly-syndactyly syndrome (97.4%)</li>
@@ -40,13 +40,29 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">pulmonary hypertension</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+---
 
 ### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 
 2026-10-09 <span class="news-indication-tag">RA</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
+
+---
+
+### [HPV vaccination linked to lower risk of pregnancy complications | The Business Guardian - newspaper](https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmVkV3FDWEFKVGxjV3NDMVI2WWZfV0xHSlFNZDBkYWpZUlNHb1BCTm5SZFdteEs1MzZuQlQ0RU9laXYwX1RTRXdRSlNTMDg5dllzZ2g5ZDVWVkJheXRfWGJmRkJNUHZaWTNwdUhEeXhzTXpYM0ZQMHVaMUx4d2VUMnhrbkZzQjN2bnpXWHktdWMyWmdYQ0s5cmpVTlhhY3BzWU5TVm1Ua1BVVFFoNDZDcnc2N0twRW9Id2p3SFg2TFpKemtkMmc?oc=5)
+
+2026-10-09 <span class="news-indication-tag">RA</span>
+
+Source: [Magzter](https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmVkV3FDWEFKVGxjV3NDMVI2WWZfV0xHSlFNZDBkYWpZUlNHb1BCTm5SZFdteEs1MzZuQlQ0RU9laXYwX1RTRXdRSlNTMDg5dllzZ2g5ZDVWVkJheXRfWGJmRkJNUHZaWTNwdUhEeXhzTXpYM0ZQMHVaMUx4d2VUMnhrbkZzQjN2bnpXWHktdWMyWmdYQ0s5cmpVTlhhY3BzWU5TVm1Ua1BVVFFoNDZDcnc2N0twRW9Id2p3SFg2TFpKemtkMmc?oc=5)
 
 ---
 

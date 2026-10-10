@@ -14,7 +14,7 @@ permalink: /news/aminophylline/
 ---
 
 <p class="key-answer" data-question="What news is there about Aminophylline?">
-<strong>Aminophylline</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Aminophylline</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Aminophylline with the lates
 <li>atrophoderma vermiculata (99.6%)</li>
 <li>ulerythema ophryogenesis (99.5%)</li>
 <li>Prinzmetal angina (99.3%)</li>
-<li>pulmonary hypertension (99.2%)</li>
+<li class="indication-matched">pulmonary hypertension (99.2%)<span class="indication-tag">📰 pulmonary hypertension</span></li>
 <li>sciatic neuropathy (99.1%)</li>
 <li>hyperthyroidism (99.1%)</li>
 <li>kyphoscoliotic heart disease (99.0%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Aminophylline with the lates
 <p><a href="{{ '/drugs/aminophylline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">pulmonary hypertension</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+---
 
 
 <div class="disclaimer">

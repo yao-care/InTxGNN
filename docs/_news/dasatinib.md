@@ -14,7 +14,7 @@ permalink: /news/dasatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,37 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (12)
+
+### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">pulmonary hypertension</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
+
+---
+
+### [The 1 Thing To Remember About Your PSA Results During Prostate Cancer Screening](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZuMDQwYW9QazB5VlpKS0txU01fY0UyMjczNUkwM2FNSXhRcVhhQXFoaWRYRno4ZVZ2X1dBTHdPR3JkcjhaZk8tdnhDZXhaM2d2UHdHUUg4ZklhRWo1OV83aEtVU1FmZWJnMmpqQ2JDVlVzNXcxbkd6M3B2dFo0a0RqSFRidw?oc=5)
+
+2026-10-10 <span class="news-indication-tag">cancer</span>
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZuMDQwYW9QazB5VlpKS0txU01fY0UyMjczNUkwM2FNSXhRcVhhQXFoaWRYRno4ZVZ2X1dBTHdPR3JkcjhaZk8tdnhDZXhaM2d2UHdHUUg4ZklhRWo1OV83aEtVU1FmZWJnMmpqQ2JDVlVzNXcxbkd6M3B2dFo0a0RqSFRidw?oc=5)
+
+---
 
 ### [Exploring the science of keeping your mind sharp as you age](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWRyTEJveXFmWVlVN09tMHpuVUFINERENlhfVHB5TzRCWWZIc1ZMSy0yaVFtT1Zha2FTbUV2MmRGNVJtMTA5VlJGX3VFTjNubnpERGpGcjZ2YkZmbTFJZ2Z6NkQtcXVlZnJ5Qy1MbVZudFlMS1pkLU42Rm43eHJTVnFBMWlRSlJPWFVVb3ByTXlCMU5mbXkwelU5UFBiZDktZ3hvX0RkcDJZdUQzN0hsRQ?oc=5)
 
 2026-10-09 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
 
 Source: [PBS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWRyTEJveXFmWVlVN09tMHpuVUFINERENlhfVHB5TzRCWWZIc1ZMSy0yaVFtT1Zha2FTbUV2MmRGNVJtMTA5VlJGX3VFTjNubnpERGpGcjZ2YkZmbTFJZ2Z6NkQtcXVlZnJ5Qy1MbVZudFlMS1pkLU42Rm43eHJTVnFBMWlRSlJPWFVVb3ByTXlCMU5mbXkwelU5UFBiZDktZ3hvX0RkcDJZdUQzN0hsRQ?oc=5)
+
+---
+
+### [C/Can Advances the Implementation of Global Breast Cancer Guidelines](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
+
+2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSzJlRGQ3NF9MR09XcnBjQmxBeFFmalpGdzY5VHhvSnNreFJqSlk5WFlRUl92ZnpsT1d1ODZWRGpYRHA4LVpSSjBWLWd5NVRhakM3TThJQQ?oc=5)
 
 ---
 
@@ -58,19 +82,19 @@ Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb00
 
 ---
 
-### [Beyond hormone therapy: what’s the next wave in prostate cancer?](https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRE9yVzVGR2ZJOWczYWs5cDktcmk3bzBjWEJRekN2dHRua1FMM3IzeFhpdE9PVGdralZJdWp1UWRPVnFTNWloRHQxa0ZibjFnU2lmNEpudGdESHllTElwWngzeUNrdjRRVlhVaQ?oc=5)
-
-2026-10-09 <span class="news-indication-tag">cancer</span>
-
-Source: [Labiotech.eu](https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRE9yVzVGR2ZJOWczYWs5cDktcmk3bzBjWEJRekN2dHRua1FMM3IzeFhpdE9PVGdralZJdWp1UWRPVnFTNWloRHQxa0ZibjFnU2lmNEpudGdESHllTElwWngzeUNrdjRRVlhVaQ?oc=5)
-
----
-
 ### [Scared about testing for breast cancer? Oncologist debunks 5 myths that can stop women from getting the right care | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
 
 2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
+
+---
+
+### [People Who Want Healthier Brains As They Age Usually Avoid 9 Everyday Things, Says Neurologist](https://news.google.com/rss/articles/CBMipwFBVV95cUxQU08wS0Nwa0lQWGhSNUhVaHRoMXZJZUZDMi1rX2R1VkZaMkVVTDhHbEVTQmstXzV1QXk2TnNvTEZGLXpPZzBFYWU3REd2cHpUNFptQTdwVktrUm5WX2pEQm90REltSDVNQ1NvazZTT0dlNW5henoyX25Qa2tHTWNqSWZDaHlqZTJta1owZDI1WDloNl9qMFIwdzBSV1VSUlpNQ0dFdUhqRQ?oc=5)
+
+2026-10-08 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
+
+Source: [YourTango](https://news.google.com/rss/articles/CBMipwFBVV95cUxQU08wS0Nwa0lQWGhSNUhVaHRoMXZJZUZDMi1rX2R1VkZaMkVVTDhHbEVTQmstXzV1QXk2TnNvTEZGLXpPZzBFYWU3REd2cHpUNFptQTdwVktrUm5WX2pEQm90REltSDVNQ1NvazZTT0dlNW5henoyX25Qa2tHTWNqSWZDaHlqZTJta1owZDI1WDloNl9qMFIwdzBSV1VSUlpNQ0dFdUhqRQ?oc=5)
 
 ---
 
@@ -87,6 +111,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0Zz
 2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
+
+---
+
+### [Brain tumor segmentation using particle swarm optimized histogram equalization and a VGG19 based U-Net](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zX3B4N0Q5TmVRV0o0bWEycTJsZGRhYXpZelh4dVQ4Rk83RjA2X3VpZUxIWE8wZzQ0UFBBMjMxTjZaSUhyd3RMOTF1dmpsTmVSNW9CdWh2ak9mb0dmaF9v?oc=5)
+
+2026-10-07 <span class="news-indication-tag">tumor</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zX3B4N0Q5TmVRV0o0bWEycTJsZGRhYXpZelh4dVQ4Rk83RjA2X3VpZUxIWE8wZzQ0UFBBMjMxTjZaSUhyd3RMOTF1dmpsTmVSNW9CdWh2ak9mb0dmaF9v?oc=5)
 
 ---
 
