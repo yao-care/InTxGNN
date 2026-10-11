@@ -14,7 +14,7 @@ permalink: /news/dasatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [95% of Alzheimer's Cases Could Be Prevented Through Lifestyle. Neuroscientist Reveals the 3 Free Changes That Protect Your Brain - BoxLife Magazine](https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1k1R0puVnZYS2hKb2V4RmlNVGRFTlFJMnJiWllIY3JCeGN4OF8tam40cXl0cmI0eFRUcGozclg1UTdra2pPZDN0a2huSEZMRFVJTVVZbFR0V0NwSlFDc1RzN1M0Q2JEVlE2c3R0OE0xWExVOVVyd0V4YmdlY1p6Z3RB?oc=5)
+
+2026-10-10 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
+
+Source: [BoxLife Magazine](https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1k1R0puVnZYS2hKb2V4RmlNVGRFTlFJMnJiWllIY3JCeGN4OF8tam40cXl0cmI0eFRUcGozclg1UTdra2pPZDN0a2huSEZMRFVJTVVZbFR0V0NwSlFDc1RzN1M0Q2JEVlE2c3R0OE0xWExVOVVyd0V4YmdlY1p6Z3RB?oc=5)
+
+---
 
 ### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
 
@@ -58,11 +66,11 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZuMDQ
 
 ---
 
-### [Breast cancer can show up on the skin. Here's what to know - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMigAFBVV95cUxQblhIdFdMbmFQYVVBR09EUEFueXpmM2MxLVRlWkFTWTlJdE05TGotcWpOVEF6UF8tSVoxMUxzMmFvLTdGZU5wc2xXeEY4ckw4NkZXLWpfb1VqdTV4MXpHSlpXMFdjbHhHMUxidEVyb3BSczNxRkRZTU02ajBVcl9Qc9IBhgFBVV95cUxNNm1vam44TnVRRDVhWHVJVFNBVzdlWlpFUXlBUzViNC1RQVpoaU1FRndMbDR4TkhVd0tIa0U2eTlhR1NuWC1Rc2VVbTN6cEJaaHNwSUJwWm5CWjJweVNyNGZXT3dZSWhHcE9YQnplNm81VkEtMmhMSWpHUW9tdmYtQnA3MGsyZw?oc=5)
+### [Can a blood test detect ovarian cancer early? What patients should know - The Hans India](https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2gtQVJQNWJuN1RuWnd6OG5vZnptTlY1R1NPQWhQRnZrOWJ2eXZFOUViSngtRGw3amJPbXowajY0WHRUSG02WGFmamhuVEdGTWVtT0JHVlRnUkd4eXNtWUVqTXRsbXZ3MU1VM2s3djJYZjRCY1A0cXlwVHBBcDhaYWVtVnFyRXNFOHcxNHoxZU9CMF9BR2dicHhJVkZQSkhfcy12ZG9WbXZPNDJxUlRTS0Nsc05CQ2JPaDN4XzBCaw?oc=5)
 
-2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
 
-Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMigAFBVV95cUxQblhIdFdMbmFQYVVBR09EUEFueXpmM2MxLVRlWkFTWTlJdE05TGotcWpOVEF6UF8tSVoxMUxzMmFvLTdGZU5wc2xXeEY4ckw4NkZXLWpfb1VqdTV4MXpHSlpXMFdjbHhHMUxidEVyb3BSczNxRkRZTU02ajBVcl9Qc9IBhgFBVV95cUxNNm1vam44TnVRRDVhWHVJVFNBVzdlWlpFUXlBUzViNC1RQVpoaU1FRndMbDR4TkhVd0tIa0U2eTlhR1NuWC1Rc2VVbTN6cEJaaHNwSUJwWm5CWjJweVNyNGZXT3dZSWhHcE9YQnplNm81VkEtMmhMSWpHUW9tdmYtQnA3MGsyZw?oc=5)
+Source: [The Hans India](https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2gtQVJQNWJuN1RuWnd6OG5vZnptTlY1R1NPQWhQRnZrOWJ2eXZFOUViSngtRGw3amJPbXowajY0WHRUSG02WGFmamhuVEdGTWVtT0JHVlRnUkd4eXNtWUVqTXRsbXZ3MU1VM2s3djJYZjRCY1A0cXlwVHBBcDhaYWVtVnFyRXNFOHcxNHoxZU9CMF9BR2dicHhJVkZQSkhfcy12ZG9WbXZPNDJxUlRTS0Nsc05CQ2JPaDN4XzBCaw?oc=5)
 
 ---
 
@@ -106,11 +114,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjEx
 
 ---
 
-### [Research Highlights Importance of Brain Health and Ageing - India News Network](https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhsbDU4NEUxTlZuLVFUcXZiMW55LXE2MU5KX2RDRHVlcC1fa2x5UlpuTllZUy05ck5ncG96QzhZNjNpWEljVk9OVlVId25MTmJpdnpzQmd0VU8tUHQ5cG15WGZCQjYxSWZ4V1c5YzFKQzJIalJQQzlESl9GaUVmS3NqMk1nM1lGUjFON3BOVzdZOGJFcEtnZ1Zidw?oc=5)
+### [Lower Death Risk Among Dementia Patients Who Are Overweight Or Obese, Study Finds](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZTI5bW9LSEg1WGx6VGY5M0RxeWFHSEROcFJnZVJQNmpTMXlUaWd1aVhtLXNFSHBRQU1GVzBBS0RDV09lV0VJZEQybF9McXJGMGVjNWwwNnhhRU9tdmVIVS1DMU5FTW5mb250bmkyYmlhQ1dyVUJsRnFKTE0xWHNKeDZrTldaWDhLSlN3ZTNVQXRRUWY2TjVFN0tMWjJSOGxuWjl6anRHMXpRSkNLbldJcUpUZnhjaTNVbEYtTkNVZ19VTEotLXo0?oc=5)
 
-2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
+2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [India News Network](https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhsbDU4NEUxTlZuLVFUcXZiMW55LXE2MU5KX2RDRHVlcC1fa2x5UlpuTllZUy05ck5ncG96QzhZNjNpWEljVk9OVlVId25MTmJpdnpzQmd0VU8tUHQ5cG15WGZCQjYxSWZ4V1c5YzFKQzJIalJQQzlESl9GaUVmS3NqMk1nM1lGUjFON3BOVzdZOGJFcEtnZ1Zidw?oc=5)
+Source: [Forbes](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZTI5bW9LSEg1WGx6VGY5M0RxeWFHSEROcFJnZVJQNmpTMXlUaWd1aVhtLXNFSHBRQU1GVzBBS0RDV09lV0VJZEQybF9McXJGMGVjNWwwNnhhRU9tdmVIVS1DMU5FTW5mb250bmkyYmlhQ1dyVUJsRnFKTE0xWHNKeDZrTldaWDhLSlN3ZTNVQXRRUWY2TjVFN0tMWjJSOGxuWjl6anRHMXpRSkNLbldJcUpUZnhjaTNVbEYtTkNVZ19VTEotLXo0?oc=5)
 
 ---
 

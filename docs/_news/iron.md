@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,9 +36,15 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Green synthesis of Nonea lutea -mediated gold nanoparticles with multifunctional biomedical and environmental applications](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hWWEtYXEwZDMwUlNrRV85cHQtb0puX1RmWlYtcFRWc1lVaEZlVTQwUzk0N21Ub21PVFEyOXlyQXlDQlhDX1BGc2YzNlVYN1I4aDFoTjQ3XzYwWlMwYld3?oc=5)
+
+2026-10-09 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hWWEtYXEwZDMwUlNrRV85cHQtb0puX1RmWlYtcFRWc1lVaEZlVTQwUzk0N21Ub21PVFEyOXlyQXlDQlhDX1BGc2YzNlVYN1I4aDFoTjQ3XzYwWlMwYld3?oc=5)
+
+---
 
 
 <div class="disclaimer">

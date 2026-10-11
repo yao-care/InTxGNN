@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Graphene sensors read stroke damage from the shape of brain electrical waves](https://news.google.com/rss/articles/CBMimgFBVV95cUxObkhpczF5d01tWlpKNGJNUi1NMHBFMW92WU9ZbVNBZDZRSHBxQThYSGtYVEhKLXJIaGQtODBER3pkclZkRGgzZ3czSUhmYVJlUzVJdHhPQ25VTXF2YVE0U0h5U29ES1h0MlJBbE9xX2FMOWZfNkZpNHlVTW9MaVNRblJhbzR6ZUQxS09sandTZ0w3RXdTQWgwWHBB?oc=5)
+### [95% of Alzheimer's Cases Could Be Prevented Through Lifestyle. Neuroscientist Reveals the 3 Free Changes That Protect Your Brain - BoxLife Magazine](https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1k1R0puVnZYS2hKb2V4RmlNVGRFTlFJMnJiWllIY3JCeGN4OF8tam40cXl0cmI0eFRUcGozclg1UTdra2pPZDN0a2huSEZMRFVJTVVZbFR0V0NwSlFDc1RzN1M0Q2JEVlE2c3R0OE0xWExVOVVyd0V4YmdlY1p6Z3RB?oc=5)
 
-2026-10-09 <span class="news-drug-tag">Ketamine</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dama</span>
+2026-10-10 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
 
-Source: [Graphene-Info](https://news.google.com/rss/articles/CBMimgFBVV95cUxObkhpczF5d01tWlpKNGJNUi1NMHBFMW92WU9ZbVNBZDZRSHBxQThYSGtYVEhKLXJIaGQtODBER3pkclZkRGgzZ3czSUhmYVJlUzVJdHhPQ25VTXF2YVE0U0h5U29ES1h0MlJBbE9xX2FMOWZfNkZpNHlVTW9MaVNRblJhbzR6ZUQxS09sandTZ0w3RXdTQWgwWHBB?oc=5)
-
----
-
-### [Research Highlights Importance of Brain Health and Ageing - India News Network](https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhsbDU4NEUxTlZuLVFUcXZiMW55LXE2MU5KX2RDRHVlcC1fa2x5UlpuTllZUy05ck5ncG96QzhZNjNpWEljVk9OVlVId25MTmJpdnpzQmd0VU8tUHQ5cG15WGZCQjYxSWZ4V1c5YzFKQzJIalJQQzlESl9GaUVmS3NqMk1nM1lGUjFON3BOVzdZOGJFcEtnZ1Zidw?oc=5)
-
-2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhsbDU4NEUxTlZuLVFUcXZiMW55LXE2MU5KX2RDRHVlcC1fa2x5UlpuTllZUy05ck5ncG96QzhZNjNpWEljVk9OVlVId25MTmJpdnpzQmd0VU8tUHQ5cG15WGZCQjYxSWZ4V1c5YzFKQzJIalJQQzlESl9GaUVmS3NqMk1nM1lGUjFON3BOVzdZOGJFcEtnZ1Zidw?oc=5)
+Source: [BoxLife Magazine](https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1k1R0puVnZYS2hKb2V4RmlNVGRFTlFJMnJiWllIY3JCeGN4OF8tam40cXl0cmI0eFRUcGozclg1UTdra2pPZDN0a2huSEZMRFVJTVVZbFR0V0NwSlFDc1RzN1M0Q2JEVlE2c3R0OE0xWExVOVVyd0V4YmdlY1p6Z3RB?oc=5)
 
 ---
 
