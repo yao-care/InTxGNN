@@ -3,7 +3,7 @@ layout: default
 title: "paralysis (stroke) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about paralysis (stroke). 2 articles, 15 related drugs."
+description: "Health news about paralysis (stroke). 1 articles, 15 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about paralysis (stroke)?">
-<strong>paralysis (stroke)</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
+<strong>paralysis (stroke)</strong> currently has <strong>1 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,21 +43,13 @@ This page brings together the latest health news about “paralysis” and lists
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Brain-Computer Interface Enables Coordinated Speech and Movement - European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON19ONUhEa1FWekFHMmV2V0o5aWdnLXJ3THpkMjRUVXVFNmwtVXhjTXpxVGhZUFBLSEhEOWszc2pvckdFZGVyN0UtM2ZjM3p1OUt1YXJ5YVpQbHFtWkNTOXBoTE1SeE1vbTlyTEI2QWhjMlNRTmZLN2c4SVp6V3ptZVZtNDdjSlljMWVXYWF5TTJkSjlOdzZXVGZ5NF9DTnh4dTFGLWZPaXJMcUk?oc=5)
 
 2026-10-09
 
 Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON19ONUhEa1FWekFHMmV2V0o5aWdnLXJ3THpkMjRUVXVFNmwtVXhjTXpxVGhZUFBLSEhEOWszc2pvckdFZGVyN0UtM2ZjM3p1OUt1YXJ5YVpQbHFtWkNTOXBoTE1SeE1vbTlyTEI2QWhjMlNRTmZLN2c4SVp6V3ptZVZtNDdjSlljMWVXYWF5TTJkSjlOdzZXVGZ5NF9DTnh4dTFGLWZPaXJMcUk?oc=5)
-
----
-
-### [Graphene sensors read stroke damage from the shape of brain electrical waves](https://news.google.com/rss/articles/CBMimgFBVV95cUxObkhpczF5d01tWlpKNGJNUi1NMHBFMW92WU9ZbVNBZDZRSHBxQThYSGtYVEhKLXJIaGQtODBER3pkclZkRGgzZ3czSUhmYVJlUzVJdHhPQ25VTXF2YVE0U0h5U29ES1h0MlJBbE9xX2FMOWZfNkZpNHlVTW9MaVNRblJhbzR6ZUQxS09sandTZ0w3RXdTQWgwWHBB?oc=5)
-
-2026-10-09
-
-Source: [Graphene-Info](https://news.google.com/rss/articles/CBMimgFBVV95cUxObkhpczF5d01tWlpKNGJNUi1NMHBFMW92WU9ZbVNBZDZRSHBxQThYSGtYVEhKLXJIaGQtODBER3pkclZkRGgzZ3czSUhmYVJlUzVJdHhPQ25VTXF2YVE0U0h5U29ES1h0MlJBbE9xX2FMOWZfNkZpNHlVTW9MaVNRblJhbzR6ZUQxS09sandTZ0w3RXdTQWgwWHBB?oc=5)
 
 ---
 

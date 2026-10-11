@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Isosorbide Dinitrate?">
-<strong>Isosorbide Dinitrate</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Isosorbide Dinitrate</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Isosorbide Dinitrate with th
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
 
@@ -58,6 +58,14 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb
 
 ---
 
+### [Experts Urge Early Detection Of Silent Heart Disease Through Advanced Imaging - BW Healthcare World](https://news.google.com/rss/articles/CBMixAFBVV95cUxPY0t2dkJuQXhNYW9JYVFoSHJoQ29pUHBzb25RQ2RuOHhXclh0dGExb2lzcDdteDJvTjNEN2U4U1BuY0hIWnVvWGV1dklKd0hSSy00NlFuSXU5UTdVNlJ4UU12Sl9wcVZKblZFcFNfNTZ2a2tWTGlUUWtMdTU5OG1XVzJ5YzJvTjhhendPUTNKTlFuQURqM3NvOFlkRmpTODBLQ0d0YlBrQXgxZlJGX1Nwd1kyT2tMSFYtQjNRNjBJUS13N0ll?oc=5)
+
+2026-10-09 <span class="news-indication-tag">heart disease</span>
+
+Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMixAFBVV95cUxPY0t2dkJuQXhNYW9JYVFoSHJoQ29pUHBzb25RQ2RuOHhXclh0dGExb2lzcDdteDJvTjNEN2U4U1BuY0hIWnVvWGV1dklKd0hSSy00NlFuSXU5UTdVNlJ4UU12Sl9wcVZKblZFcFNfNTZ2a2tWTGlUUWtMdTU5OG1XVzJ5YzJvTjhhendPUTNKTlFuQURqM3NvOFlkRmpTODBLQ0d0YlBrQXgxZlJGX1Nwd1kyT2tMSFYtQjNRNjBJUS13N0ll?oc=5)
+
+---
+
 ### [Pregnancy Complications Linked to Subsequent Risk for Cardiometabolic-Renal Conditions - The Cardiology Advisor](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT0tGbVNzXzdWT1hNOVFMVElRejJqZS1McjlWUnlkeXhiTXowNlpJUnZ2MGM4ZUtaWk1sbDR4clVhREZIWTN3S1RSQU8zaTMxVEJ3V3NzVkMzSEs5clQ0YXJiSURHR0FZdjZkcmswdldfV2dJQ0hiQ1VTUlVjT01sUWVyNHdFdFF5NXFvd0VHVGl1LVVmdlJRN0J5elpncmRhTlVqTmtUQmhHWmhKYlBLX3BwVGlCejlneGpybkM4dUk5S2FBbldrWg?oc=5)
 
 2026-10-09 <span class="news-indication-tag">cardiovascular</span>
@@ -66,11 +74,11 @@ Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMiyAFBVV
 
 ---
 
-### [Can chronic stress raise your heart risk? Cardiologist explains the cardiovascular impact and the role of early intervention | Health - Hindustan Times](https://news.google.com/rss/articles/CBMinAJBVV95cUxPSHJLOHN0b0RUY2Q4cEhhVEhvOUl6VE51dDhMNnQ3U0lUR3BMUW5Hd2tDOW5DX21uT2VxWVlMLXNVR2IzZVZNbE5rNWw1Qmh5SG82TEZ0ckFzQUtGM1IyNHdTWXlYZGJDMmtjODNLQW5DSUxRRmwwTFRwbWJ0dTJHR1Q3Zk9FVURVVzNNcWFsRXlwLW51SE5pZkhncGdTNHIwUUdvM3BYZ0ZydWdUVjRvbV95Z0xISFM1ZjFtVmxsVW92bXhDWTgwdlpGM2xic3RFc2pEUjJndEZTaXcyNWc0akhzRmN0ZnJMXzFNUXpyeDhJMERXMU1vdzZPR0RTNl9mck5lSVU5ek9ZcDRfLTFZWW1kUW53Ujk3ZmtQNtIBogJBVV95cUxQSnNSNFlvOEpMWFJpTVYzZ1NDU0xhQ0QxZ3RjMUVhLV9NRlZsM2EtREM1Z2ZYWTBLMVFRTThYUDdnY1k4Vk11a1FFV2s3RmE3TEw3bVc2WVFQSk41OUhINTZpY0V1SGR0aWVFNmJjdlVaanBQc3dtR0lpRUJVTXlfdU9WY2JfaHJOb0hGVE5UMWRMdUpZMjdiTDd6bkFhYTh0Y2x6LXVMSFNqYzZ0X0tpTG5FQjd5Q3lRQlk3YjEyVl90QjNNX3l2RzVzYjg2bHJUNFF5TFp2T1BTeVlFRlViQ2JFa25zMUZfUkF0aGNwVl9rYzY5QVZkbDkxNGdpNXNpZklUUkYwMm92cXJaVGV5NG9Xa2l4NC1YTjNlS25xYUZUZw?oc=5)
+### [The ‘Micromanaged’ Heart: How Constant Workplace Micro-Stress Alters Heart Rate Variability - ETV Bharat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2FpV3lpSDJPSTNURDZoUkxuN0tqdUVDXzExOE9jLU1QMDdzT1lONVd3dG1qVUlONndjOTRqdk1ZS0ZnbVZCX256YjNpYWhWNDVOajc4djJBYkFWaDk4SkFyQnpkbVQtMk1EVTYxRWhWODhLd09nTjFyZ1dDV2EwN1N2Z3lMdFdaM1dzQ0ZkZS0tcGNOcHVad0tCeXYyS3JEcGxUUXIzdW1wd9IBrwFBVV95cUxNM21SdlR4M1NiZkhCakRQZnVWaEJuU0ZYUTdqWXpCTzM0R04xaS1zN2ZlMVREU0U2WTRlUGM2a3c4anlxd3NvS3k5eHU0VllubV9GR3JfQ2NGckJ5Y0F3OEZsTjhDUlpNUFF0NGM0Z0V5ZTRyMGJOWmJSRl80RXdaVmdNNC1zclRZNVNzc1BzUzFxNXRJdnBrSjFrSUFOLUdQN0pzbE0wTGNsRnVTU2JZ?oc=5)
 
-2026-10-06 <span class="news-indication-tag">cardiovascular</span>
+2026-10-08 <span class="news-indication-tag">cardiovascular</span>
 
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMinAJBVV95cUxPSHJLOHN0b0RUY2Q4cEhhVEhvOUl6VE51dDhMNnQ3U0lUR3BMUW5Hd2tDOW5DX21uT2VxWVlMLXNVR2IzZVZNbE5rNWw1Qmh5SG82TEZ0ckFzQUtGM1IyNHdTWXlYZGJDMmtjODNLQW5DSUxRRmwwTFRwbWJ0dTJHR1Q3Zk9FVURVVzNNcWFsRXlwLW51SE5pZkhncGdTNHIwUUdvM3BYZ0ZydWdUVjRvbV95Z0xISFM1ZjFtVmxsVW92bXhDWTgwdlpGM2xic3RFc2pEUjJndEZTaXcyNWc0akhzRmN0ZnJMXzFNUXpyeDhJMERXMU1vdzZPR0RTNl9mck5lSVU5ek9ZcDRfLTFZWW1kUW53Ujk3ZmtQNtIBogJBVV95cUxQSnNSNFlvOEpMWFJpTVYzZ1NDU0xhQ0QxZ3RjMUVhLV9NRlZsM2EtREM1Z2ZYWTBLMVFRTThYUDdnY1k4Vk11a1FFV2s3RmE3TEw3bVc2WVFQSk41OUhINTZpY0V1SGR0aWVFNmJjdlVaanBQc3dtR0lpRUJVTXlfdU9WY2JfaHJOb0hGVE5UMWRMdUpZMjdiTDd6bkFhYTh0Y2x6LXVMSFNqYzZ0X0tpTG5FQjd5Q3lRQlk3YjEyVl90QjNNX3l2RzVzYjg2bHJUNFF5TFp2T1BTeVlFRlViQ2JFa25zMUZfUkF0aGNwVl9rYzY5QVZkbDkxNGdpNXNpZklUUkYwMm92cXJaVGV5NG9Xa2l4NC1YTjNlS25xYUZUZw?oc=5)
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2FpV3lpSDJPSTNURDZoUkxuN0tqdUVDXzExOE9jLU1QMDdzT1lONVd3dG1qVUlONndjOTRqdk1ZS0ZnbVZCX256YjNpYWhWNDVOajc4djJBYkFWaDk4SkFyQnpkbVQtMk1EVTYxRWhWODhLd09nTjFyZ1dDV2EwN1N2Z3lMdFdaM1dzQ0ZkZS0tcGNOcHVad0tCeXYyS3JEcGxUUXIzdW1wd9IBrwFBVV95cUxNM21SdlR4M1NiZkhCakRQZnVWaEJuU0ZYUTdqWXpCTzM0R04xaS1zN2ZlMVREU0U2WTRlUGM2a3c4anlxd3NvS3k5eHU0VllubV9GR3JfQ2NGckJ5Y0F3OEZsTjhDUlpNUFF0NGM0Z0V5ZTRyMGJOWmJSRl80RXdaVmdNNC1zclRZNVNzc1BzUzFxNXRJdnBrSjFrSUFOLUdQN0pzbE0wTGNsRnVTU2JZ?oc=5)
 
 ---
 

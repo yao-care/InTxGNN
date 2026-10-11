@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Mycophenolate Mofetil with t
 
 ## Related News (1)
 
-### [Multiple Sclerosis Knowledge Gaps Persist in Primary Care - European Medical Journal](https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1ZRZVF6LTA2X3BfeThFOEJ1alMtR1FuWVpodmRjdVp1YkZuaFhoMERXNUhuQ3lqdUdHYWtHUEZ0emJITlU4enZYQzRTbk4tSDdrOHBYLXZZWFVfN3lqNzBQdFZON1pOampkOHFSQ1YwT1BqS0lBRmtaTDA4S3NubHFWM3B6U1NfOUg1eWtoa1piQVEyNkhkRk5iQWVsRlRobFE?oc=5)
+### [Multiple Sclerosis Knowledge Gaps Persist in Primary Care](https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1ZRZVF6LTA2X3BfeThFOEJ1alMtR1FuWVpodmRjdVp1YkZuaFhoMERXNUhuQ3lqdUdHYWtHUEZ0emJITlU4enZYQzRTbk4tSDdrOHBYLXZZWFVfN3lqNzBQdFZON1pOampkOHFSQ1YwT1BqS0lBRmtaTDA4S3NubHFWM3B6U1NfOUg1eWtoa1piQVEyNkhkRk5iQWVsRlRobFE?oc=5)
 
 2026-10-10 <span class="news-indication-tag">multiple sclerosis</span>
 
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1ZRZVF6LTA2X3BfeThFOEJ1alMtR1FuWVpodmRjdVp1YkZuaFhoMERXNUhuQ3lqdUdHYWtHUEZ0emJITlU4enZYQzRTbk4tSDdrOHBYLXZZWFVfN3lqNzBQdFZON1pOampkOHFSQ1YwT1BqS0lBRmtaTDA4S3NubHFWM3B6U1NfOUg1eWtoa1piQVEyNkhkRk5iQWVsRlRobFE?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1ZRZVF6LTA2X3BfeThFOEJ1alMtR1FuWVpodmRjdVp1YkZuaFhoMERXNUhuQ3lqdUdHYWtHUEZ0emJITlU4enZYQzRTbk4tSDdrOHBYLXZZWFVfN3lqNzBQdFZON1pOampkOHFSQ1YwT1BqS0lBRmtaTDA4S3NubHFWM3B6U1NfOUg1eWtoa1piQVEyNkhkRk5iQWVsRlRobFE?oc=5)
 
 ---
 
