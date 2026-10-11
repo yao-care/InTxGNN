@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,23 +28,9 @@ This page combines the AI-predicted indications for Urea with the latest health 
 <p><a href="{{ '/drugs/urea/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Astronomers Detect Potential ‘Second Generation’ Planet Around Dying Stellar White Dwarf - Universe Today](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ2tUdGZBdUdRX2cxYVJwUjBmSi1OVExzWmYyMHNTZzdSMFFOSVV3QWNFdFNEM0hrVV91V2k1dE9FclZGWlIwZEpRcWZfeGlVVEw5MnM5Nm5yV1BId2h6QUxuTHBoMktKZmlxa0xNaElWU0lNWjMza1BCWlNJRkx2eVExVnJUYmJoM2V6SFRLT2ZwdGpDeDE1cDBjVVhxZDk2a0VPUWRrZEZfdmFoYlVDS0haSzNLb1hhT0lENVRqS1B4MWM?oc=5)
-
-2026-10-11 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
-
-Source: [Universe Today](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ2tUdGZBdUdRX2cxYVJwUjBmSi1OVExzWmYyMHNTZzdSMFFOSVV3QWNFdFNEM0hrVV91V2k1dE9FclZGWlIwZEpRcWZfeGlVVEw5MnM5Nm5yV1BId2h6QUxuTHBoMktKZmlxa0xNaElWU0lNWjMza1BCWlNJRkx2eVExVnJUYmJoM2V6SFRLT2ZwdGpDeDE1cDBjVVhxZDk2a0VPUWRrZEZfdmFoYlVDS0haSzNLb1hhT0lENVRqS1B4MWM?oc=5)
-
----
-
-### [Pain: Women more affected than men, global study confirms - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcThwbzV3SEVzTHBHX2swenlOUnFXMlRxQ0hqaEVkV29QQlBlU1NyZENtbDVQZDdxbXdOT2czSlZhVDFPN3hWRjE0M21pckVEWU4zNC1xWWZFOUZVX1owdEpVUWlKQ1N2NVdlRVY4emtQbXpsQ2IwNFlJdmxjanF4SEdBSjgydnI2YkE3cUxRN01rMHV5eUw0eFlZZExsUHpNQUFYRUF3WnliTjZwb0E5dg?oc=5)
-
-2026-10-09 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
-
-Source: [Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcThwbzV3SEVzTHBHX2swenlOUnFXMlRxQ0hqaEVkV29QQlBlU1NyZENtbDVQZDdxbXdOT2czSlZhVDFPN3hWRjE0M21pckVEWU4zNC1xWWZFOUZVX1owdEpVUWlKQ1N2NVdlRVY4emtQbXpsQ2IwNFlJdmxjanF4SEdBSjgydnI2YkE3cUxRN01rMHV5eUw0eFlZZExsUHpNQUFYRUF3WnliTjZwb0E5dg?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

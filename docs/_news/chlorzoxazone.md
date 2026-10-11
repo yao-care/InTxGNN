@@ -14,7 +14,7 @@ permalink: /news/chlorzoxazone/
 ---
 
 <p class="key-answer" data-question="What news is there about Chlorzoxazone?">
-<strong>Chlorzoxazone</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Chlorzoxazone</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,21 @@ This page combines the AI-predicted indications for Chlorzoxazone with the lates
 <li>ulerythema ophryogenesis (99.1%)</li>
 <li>kyphoscoliotic heart disease (99.1%)</li>
 <li class="indication-matched">rheumatoid arthritis (99.0%)<span class="indication-tag">📰 RA</span></li>
-<li>headache disorder (99.0%)</li>
+<li class="indication-matched">headache disorder (99.0%)<span class="indication-tag">📰 headache disorder</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chlorzoxazone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Clinical Profile and Reported Functional Impact of Primary Headache Disorders in Children Attending a Tertiary Care Hospital in South India](https://news.google.com/rss/articles/CBMiigJBVV95cUxOaTFUWWFuLVNVRVNlQWJNX2JrNnI3TWNRQTVQRVNnXzd0bUUwd05YUGQyYXZvYXB6cWNIZHVQb0oyT0o5bFo0UFRzc2tYOV9ramdpZ1JveTV6OFN5SWdfeVFwcV9qSlQ1Q0tmNmJCVWt5NXloYllnejJPZHhMM0hDemJnOGRrcG11TFBFU3lVaGhOMVZIV2x5R2wyMGNUdGE1TW8zMTBuQ1lnWXRFUmRxZHJseWFfWE9zNkhoMUZpUDRYZkhXWHFudEN3RHVxX0NtSXJRdU10OGZUaENJOHhLOE5reUViUDZoTFhyVmJ5S19mMFhBTVp5Yno4amNnQjlpMTg5OVpTS0dKQQ?oc=5)
+
+2026-10-11 <span class="news-indication-tag">headache disorder</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMiigJBVV95cUxOaTFUWWFuLVNVRVNlQWJNX2JrNnI3TWNRQTVQRVNnXzd0bUUwd05YUGQyYXZvYXB6cWNIZHVQb0oyT0o5bFo0UFRzc2tYOV9ramdpZ1JveTV6OFN5SWdfeVFwcV9qSlQ1Q0tmNmJCVWt5NXloYllnejJPZHhMM0hDemJnOGRrcG11TFBFU3lVaGhOMVZIV2x5R2wyMGNUdGE1TW8zMTBuQ1lnWXRFUmRxZHJseWFfWE9zNkhoMUZpUDRYZkhXWHFudEN3RHVxX0NtSXJRdU10OGZUaENJOHhLOE5reUViUDZoTFhyVmJ5S19mMFhBTVp5Yno4amNnQjlpMTg5OVpTS0dKQQ?oc=5)
+
+---
 
 ### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
 

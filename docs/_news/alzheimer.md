@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 3 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 5 articles, 8 related drugs."
 permalink: /news/alzheimer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
+
+2026-10-11
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
+
+---
 
 ### [Neuroradiologist details three daily habits to create a 'healthier environment for the brain'](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBYQzJEak1OM3RnWWdZWnFuT3VWODJTcW5hTzhuZEJJcTljZHFxWTdyOE5zWE9xQTQyU1ZPcHdHeWNYQ0YxYTB5ekNYS0dhdzRlcW85MElHYzVBSzRuQktLeWl2R01jai1TdlYteXZuRm9wZzhUSWNfdkxra1loNDhxNUR6aGpxWmNKTkJvWlkwR2c?oc=5)
 
@@ -51,6 +59,14 @@ Source: [UNILAD](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBYQzJEak
 2026-10-09
 
 Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb00ydk9CYkRGN3Aya0UzbEgtZC0wWG9XeER4bDZ6NzBDXzhMdm1rQ3l1ckpfVmpyTUlpdlJYTVJCR2hVV3BoVy1iMU9wWjNVY0xzTzRWajFaVEhlMEdHTW1PLThYOXpuRUJnaUJrTHpjV3JtN3U5T1BWSDV5SXBXbmxjSUlYdmJpekZkcmJoUHRvTWJ5MjgxOTVwaWFTYVYxR1hhZDcycGg5WXdQcXJUcnQtV0p1Y0VFS0pkUzlKWWQ4S1hoUVYyZzNZallDZTRu?oc=5)
+
+---
+
+### [US Expert Warns Your Walking Pattern Could Reveal Early Signs Of Dementia - Times Now](https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzBZRWM2NE1uTjJmM3FaVklxWkVLWUlmdjlGVU1fYWZLNXZCb2JMT3RuUUdLTl9QdUFBdHhPSTJoak5YSzJDNGhSVWF3ZDRLbEtxd2thamZKdXZGYllJMHZnOFNXNUNIbEQ2OFFUcFAtN2dCaXp4Q2pyZi1LUzE3aXI1bDluQldXVE1YXzBXOUZsZlpLcV9nOVNUX3NQcXNranB0UUVyRzJMLXdpbXg1QkdKRk92cDRzcy1qU1Fxc1lfTDgxRUHSAcsBQVVfeXFMUEpPWDA3MXR6VUw5aGVMWkV6clk0OFB4Y0IwN29IV2pOZVRtem44MGlNODhsUkpVMkVfOEpWek9fbF95SUc0Qk9rYjM0V1BBLW9MZVZVckNmYWozTnc2V2JPWTFOTU1BdWtQVnJkOUNXeFFQOEFZQkhMd1VGX0MxNlFMMWx2UmtMd3NieUt0Wnh1UmhUOFIycXAxTEtoVXl5a21NODhsRHN2d3Fac3RNTHQ2S1c4UDJzcGRZUzFTLWFZVEI2cHBOV3BEaXM?oc=5)
+
+2026-10-07
+
+Source: [Times Now](https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzBZRWM2NE1uTjJmM3FaVklxWkVLWUlmdjlGVU1fYWZLNXZCb2JMT3RuUUdLTl9QdUFBdHhPSTJoak5YSzJDNGhSVWF3ZDRLbEtxd2thamZKdXZGYllJMHZnOFNXNUNIbEQ2OFFUcFAtN2dCaXp4Q2pyZi1LUzE3aXI1bDluQldXVE1YXzBXOUZsZlpLcV9nOVNUX3NQcXNranB0UUVyRzJMLXdpbXg1QkdKRk92cDRzcy1qU1Fxc1lfTDgxRUHSAcsBQVVfeXFMUEpPWDA3MXR6VUw5aGVMWkV6clk0OFB4Y0IwN29IV2pOZVRtem44MGlNODhsUkpVMkVfOEpWek9fbF95SUc0Qk9rYjM0V1BBLW9MZVZVckNmYWozTnc2V2JPWTFOTU1BdWtQVnJkOUNXeFFQOEFZQkhMd1VGX0MxNlFMMWx2UmtMd3NieUt0Wnh1UmhUOFIycXAxTEtoVXl5a21NODhsRHN2d3Fac3RNTHQ2S1c4UDJzcGRZUzFTLWFZVEI2cHBOV3BEaXM?oc=5)
 
 ---
 

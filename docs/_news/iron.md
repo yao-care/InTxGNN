@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Neuroradiologist details three daily habits to create a 'healthier environment for the brain'](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBYQzJEak1OM3RnWWdZWnFuT3VWODJTcW5hTzhuZEJJcTljZHFxWTdyOE5zWE9xQTQyU1ZPcHdHeWNYQ0YxYTB5ekNYS0dhdzRlcW85MElHYzVBSzRuQktLeWl2R01jai1TdlYteXZuRm9wZzhUSWNfdkxra1loNDhxNUR6aGpxWmNKTkJvWlkwR2c?oc=5)
 
 2026-10-11 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
 
 Source: [UNILAD](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBYQzJEak1OM3RnWWdZWnFuT3VWODJTcW5hTzhuZEJJcTljZHFxWTdyOE5zWE9xQTQyU1ZPcHdHeWNYQ0YxYTB5ekNYS0dhdzRlcW85MElHYzVBSzRuQktLeWl2R01jai1TdlYteXZuRm9wZzhUSWNfdkxra1loNDhxNUR6aGpxWmNKTkJvWlkwR2c?oc=5)
-
----
-
-### [Green synthesis of Nonea lutea -mediated gold nanoparticles with multifunctional biomedical and environmental applications](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hWWEtYXEwZDMwUlNrRV85cHQtb0puX1RmWlYtcFRWc1lVaEZlVTQwUzk0N21Ub21PVFEyOXlyQXlDQlhDX1BGc2YzNlVYN1I4aDFoTjQ3XzYwWlMwYld3?oc=5)
-
-2026-10-09 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hWWEtYXEwZDMwUlNrRV85cHQtb0puX1RmWlYtcFRWc1lVaEZlVTQwUzk0N21Ub21PVFEyOXlyQXlDQlhDX1BGc2YzNlVYN1I4aDFoTjQ3XzYwWlMwYld3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/melphalan/
 ---
 
 <p class="key-answer" data-question="What news is there about Melphalan?">
-<strong>Melphalan</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Melphalan</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,11 +40,27 @@ This page combines the AI-predicted indications for Melphalan with the latest he
 <p><a href="{{ '/drugs/melphalan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [Why a tighter watch or shoe could signal a complication after cancer treatment - The Indian Express](https://news.google.com/rss/articles/CBMi1gFBVV95cUxORm94YUFDdjBHWXZrNkd1bGktQnhYVV9jYVBqaEk5VEhDVXU5Z21WSkZ6ZzJfanFDamlmSHN1aERQNE96YmtYaDZaMHlDbkVXSEhOR05maTVqNDdIRm5lQnRZN2pvRkNRZXRrdzJQTGNUS19nU2VYV3dzQXlJOWdfNk9DYldIX3FVNGduNTNWRW1FY2JLdXdIWEc1bGtlbFJxTFFDYzJFbGhzTXV4YnVqRjU4NHNMX2NVekotRW03cmVNaldkV0xsUjhpOGlqWVdPOEFaeVl30gHcAUFVX3lxTFBSQWVJTUpXeWZqcmdkWDFmNWdidXo2c2poekFzN0NHaWNVR3E3cDF1cE5mOTJ0UUpMNktIaUNmVWpuWWdUOHI1bjViZ1pfYzc5WWNadEpFVXp6cWJ0UXRqUjB3SUdUNVRfVUtWWUhqbkpUbTlJMk5RdGNONGtSVE9fZFB4QkRVMkw3OXF3WWp6cDY2WEJxMnBfRXlYdXlGTGE3dHowWWZmLS1jb1liVmpiZ01hblkwYlg1NEpvWGszd1VjUVJKOFhoeF9EVUc4NXRPb1JXTnQ5aU50ZlM?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span>
+
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMi1gFBVV95cUxORm94YUFDdjBHWXZrNkd1bGktQnhYVV9jYVBqaEk5VEhDVXU5Z21WSkZ6ZzJfanFDamlmSHN1aERQNE96YmtYaDZaMHlDbkVXSEhOR05maTVqNDdIRm5lQnRZN2pvRkNRZXRrdzJQTGNUS19nU2VYV3dzQXlJOWdfNk9DYldIX3FVNGduNTNWRW1FY2JLdXdIWEc1bGtlbFJxTFFDYzJFbGhzTXV4YnVqRjU4NHNMX2NVekotRW03cmVNaldkV0xsUjhpOGlqWVdPOEFaeVl30gHcAUFVX3lxTFBSQWVJTUpXeWZqcmdkWDFmNWdidXo2c2poekFzN0NHaWNVR3E3cDF1cE5mOTJ0UUpMNktIaUNmVWpuWWdUOHI1bjViZ1pfYzc5WWNadEpFVXp6cWJ0UXRqUjB3SUdUNVRfVUtWWUhqbkpUbTlJMk5RdGNONGtSVE9fZFB4QkRVMkw3OXF3WWp6cDY2WEJxMnBfRXlYdXlGTGE3dHowWWZmLS1jb1liVmpiZ01hblkwYlg1NEpvWGszd1VjUVJKOFhoeF9EVUc4NXRPb1JXTnQ5aU50ZlM?oc=5)
+
+---
+
+### [Mitochondrial DNA Levels Linked to Cancer Mutation Burden](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWI1Tng0aE5LX210dVlSTFlobkR4cURFQTJSRWhvWWZnZzlRYkx0REtWYTJGMFFKU3hCbEwtcmlTOHNFWExOWks3RHVXRW9Ed05RUkQ4cHQ0c0ZpNzROVGtzT3ZzZGFtUXdMcWdkWmpFRV9rWV9QTGI1dl91SE9tRkdDVmYyeFFJZW4wU2JaUFJHS1pDcEZEZk1xM2VsUnN3?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWI1Tng0aE5LX210dVlSTFlobkR4cURFQTJSRWhvWWZnZzlRYkx0REtWYTJGMFFKU3hCbEwtcmlTOHNFWExOWks3RHVXRW9Ed05RUkQ4cHQ0c0ZpNzROVGtzT3ZzZGFtUXdMcWdkWmpFRV9rWV9QTGI1dl91SE9tRkdDVmYyeFFJZW4wU2JaUFJHS1pDcEZEZk1xM2VsUnN3?oc=5)
+
+---
 
 ### [Breast cancer: Why awareness and early detection matter - Deccan Herald](https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3lXdXNjLWdfcFlJZi1LTHlMU05oZmpNNTFMVjJlcWQ1MVhDVW00UkdOMWVrTktjU0RIdWo2dnRXaG5pZGl0Zk4ySWw4cVFPT2gyN0RrcFJ3NXUzYkd1SWsxTG5adzZpdzdWN3NqeUtLSXJmTlFxbTk2UXFjMmNudXctZHo3NXJ1YUFFdjM2NVFuRXo3aThUOWw5MGNYSHc5R2J5U0ItN24tRVBpMzZ0SXV6dzcweGN1Nk42dnJSNlBkNTZi?oc=5)
 
-2026-10-11 <span class="news-indication-tag">cancer</span>
+2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Deccan Herald](https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3lXdXNjLWdfcFlJZi1LTHlMU05oZmpNNTFMVjJlcWQ1MVhDVW00UkdOMWVrTktjU0RIdWo2dnRXaG5pZGl0Zk4ySWw4cVFPT2gyN0RrcFJ3NXUzYkd1SWsxTG5adzZpdzdWN3NqeUtLSXJmTlFxbTk2UXFjMmNudXctZHo3NXJ1YUFFdjM2NVFuRXo3aThUOWw5MGNYSHc5R2J5U0ItN24tRVBpMzZ0SXV6dzcweGN1Nk42dnJSNlBkNTZi?oc=5)
 
@@ -74,11 +90,11 @@ Source: [The Hans India](https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2
 
 ---
 
-### [NCCN collaborates with global organizations to launch tailored cancer guidelines for Philippines](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0ZzeDI5S2JQNEh0UWY2SVhPbzNONFVZTnBGYnhMeG40RU5YaGxSMnB1STF2TVVINmtQVS1fc3hOTXA0RHYyS2lXeU83anRWTDlKbDEyVWZQbkVFaUpDM2szSU43R0gwTWJHM0dwNUY1SGI2TEtLVERaZEtQX3ZaREhnRG5uamdXSjBtZzlMU2l3bzFZZy0tT0pLdF9MWE1uVUtlSllwaXdaQy1yT1I3clhlMmRFalh5Yy10T0ZRTGJJbVUtRDlYU2dUVkNLWVVMZ0tMcWNYRkRNVTBW?oc=5)
+### [Scared about testing for breast cancer? Oncologist debunks 5 myths that can stop women from getting the right care | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
 
-2026-10-08 <span class="news-indication-tag">cancer</span>
+2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0ZzeDI5S2JQNEh0UWY2SVhPbzNONFVZTnBGYnhMeG40RU5YaGxSMnB1STF2TVVINmtQVS1fc3hOTXA0RHYyS2lXeU83anRWTDlKbDEyVWZQbkVFaUpDM2szSU43R0gwTWJHM0dwNUY1SGI2TEtLVERaZEtQX3ZaREhnRG5uamdXSjBtZzlMU2l3bzFZZy0tT0pLdF9MWE1uVUtlSllwaXdaQy1yT1I3clhlMmRFalh5Yy10T0ZRTGJJbVUtRDlYU2dUVkNLWVVMZ0tMcWNYRkRNVTBW?oc=5)
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
 
 ---
 
@@ -87,14 +103,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0Zz
 2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
-
----
-
-### [SBI addresses screening myths during Breast Cancer Awareness Month](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb0dLWF9RMFVJTkRjYll1Ukg5YWtlR2dBcEdHWXFzdnh5aDUwMi0tMDJkekxUY09HN1dnY1llanpRdTFLLWVKMWhGak1qbEhoTnBpdVBMXzd4eExJa016dUVVc09VVC1zMTZ6Y0tHRnhya28zRjIza2RuaWdYN21Fa2EtNHhZZGp2VnhRdlEzdXJWQzZ1aWJrUjVQYXB6R2pZS1M1WFJzaW4taW56LWJ5SEs1aTQwZTNwclJEaUNPTXEydXVmTnZrMXVNZ1Etd1FhTmc?oc=5)
-
-2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb0dLWF9RMFVJTkRjYll1Ukg5YWtlR2dBcEdHWXFzdnh5aDUwMi0tMDJkekxUY09HN1dnY1llanpRdTFLLWVKMWhGak1qbEhoTnBpdVBMXzd4eExJa016dUVVc09VVC1zMTZ6Y0tHRnhya28zRjIza2RuaWdYN21Fa2EtNHhZZGp2VnhRdlEzdXJWQzZ1aWJrUjVQYXB6R2pZS1M1WFJzaW4taW56LWJ5SEs1aTQwZTNwclJEaUNPTXEydXVmTnZrMXVNZ1Etd1FhTmc?oc=5)
 
 ---
 
