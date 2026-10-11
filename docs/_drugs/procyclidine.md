@@ -29,8 +29,6 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using the txgnn-pipeline skill's context confirmed no additional report-format requirements apply here (it covers training/deployment, not report authoring), so I'm following the v5 report prompt exactly as specified.
-
 A few honesty notes before the report: `original_indications` and `taiwan_regulatory.licenses` are empty in this Evidence Pack, so I've used Procyclidine's well-established public drug classification (antimuscarinic/anticholinergic, historically used for Parkinsonism) only where the template's own fallback rule requires it — flagged explicitly as not sourced from this Evidence Pack. I also did not soften the rank-1 candidate's own rationale text, which states there is no mechanistic basis for it.
 
 ---
