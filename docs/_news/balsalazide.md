@@ -14,7 +14,7 @@ permalink: /news/balsalazide/
 ---
 
 <p class="key-answer" data-question="What news is there about Balsalazide?">
-<strong>Balsalazide</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Balsalazide</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ This page combines the AI-predicted indications for Balsalazide with the latest 
 <p><a href="{{ '/drugs/balsalazide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
-
-2026-10-09 <span class="news-indication-tag">RA</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
-
----
+## Related News (2)
 
 ### [Plasma Protein Signatures Reveal Damage in Ankylosing Spondylitis - European Medical Journal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlVRYmpzeTNob0NaQnRVd3ZEUXBBYklYMTBVc2d2QllZS0M0MEhKUXRkcEJ0eG5nMWdtbVc1Z3lpOHhfamtyMHpXdTduUC1NNW15Q29DUnFndUlRd3BJWTl6OUZ3MWNvRGNObEVSN3hGUzNfS04tNGRCNTNzZWdUWGUxZGtnbjgxei1MM2ZRcnZ0UWlvN1ZVMTM2WDRhMVZaRXhhOU03ckJPYmp3VVhRVw?oc=5)
 

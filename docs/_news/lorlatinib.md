@@ -42,11 +42,19 @@ This page combines the AI-predicted indications for Lorlatinib with the latest h
 
 ## Related News (11)
 
-### [95% of Alzheimer's Cases Could Be Prevented Through Lifestyle. Neuroscientist Reveals the 3 Free Changes That Protect Your Brain - BoxLife Magazine](https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1k1R0puVnZYS2hKb2V4RmlNVGRFTlFJMnJiWllIY3JCeGN4OF8tam40cXl0cmI0eFRUcGozclg1UTdra2pPZDN0a2huSEZMRFVJTVVZbFR0V0NwSlFDc1RzN1M0Q2JEVlE2c3R0OE0xWExVOVVyd0V4YmdlY1p6Z3RB?oc=5)
+### [Neuroradiologist details three daily habits to create a 'healthier environment for the brain'](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBYQzJEak1OM3RnWWdZWnFuT3VWODJTcW5hTzhuZEJJcTljZHFxWTdyOE5zWE9xQTQyU1ZPcHdHeWNYQ0YxYTB5ekNYS0dhdzRlcW85MElHYzVBSzRuQktLeWl2R01jai1TdlYteXZuRm9wZzhUSWNfdkxra1loNDhxNUR6aGpxWmNKTkJvWlkwR2c?oc=5)
 
-2026-10-10 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
+2026-10-11 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
 
-Source: [BoxLife Magazine](https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1k1R0puVnZYS2hKb2V4RmlNVGRFTlFJMnJiWllIY3JCeGN4OF8tam40cXl0cmI0eFRUcGozclg1UTdra2pPZDN0a2huSEZMRFVJTVVZbFR0V0NwSlFDc1RzN1M0Q2JEVlE2c3R0OE0xWExVOVVyd0V4YmdlY1p6Z3RB?oc=5)
+Source: [UNILAD](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBYQzJEak1OM3RnWWdZWnFuT3VWODJTcW5hTzhuZEJJcTljZHFxWTdyOE5zWE9xQTQyU1ZPcHdHeWNYQ0YxYTB5ekNYS0dhdzRlcW85MElHYzVBSzRuQktLeWl2R01jai1TdlYteXZuRm9wZzhUSWNfdkxra1loNDhxNUR6aGpxWmNKTkJvWlkwR2c?oc=5)
+
+---
+
+### [Breast cancer: Why awareness and early detection matter - Deccan Herald](https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3lXdXNjLWdfcFlJZi1LTHlMU05oZmpNNTFMVjJlcWQ1MVhDVW00UkdOMWVrTktjU0RIdWo2dnRXaG5pZGl0Zk4ySWw4cVFPT2gyN0RrcFJ3NXUzYkd1SWsxTG5adzZpdzdWN3NqeUtLSXJmTlFxbTk2UXFjMmNudXctZHo3NXJ1YUFFdjM2NVFuRXo3aThUOWw5MGNYSHc5R2J5U0ItN24tRVBpMzZ0SXV6dzcweGN1Nk42dnJSNlBkNTZi?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3lXdXNjLWdfcFlJZi1LTHlMU05oZmpNNTFMVjJlcWQ1MVhDVW00UkdOMWVrTktjU0RIdWo2dnRXaG5pZGl0Zk4ySWw4cVFPT2gyN0RrcFJ3NXUzYkd1SWsxTG5adzZpdzdWN3NqeUtLSXJmTlFxbTk2UXFjMmNudXctZHo3NXJ1YUFFdjM2NVFuRXo3aThUOWw5MGNYSHc5R2J5U0ItN24tRVBpMzZ0SXV6dzcweGN1Nk42dnJSNlBkNTZi?oc=5)
 
 ---
 
@@ -82,14 +90,6 @@ Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb00
 
 ---
 
-### [Scared about testing for breast cancer? Oncologist debunks 5 myths that can stop women from getting the right care | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
-
-2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
-
----
-
 ### [NCCN collaborates with global organizations to launch tailored cancer guidelines for Philippines](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0ZzeDI5S2JQNEh0UWY2SVhPbzNONFVZTnBGYnhMeG40RU5YaGxSMnB1STF2TVVINmtQVS1fc3hOTXA0RHYyS2lXeU83anRWTDlKbDEyVWZQbkVFaUpDM2szSU43R0gwTWJHM0dwNUY1SGI2TEtLVERaZEtQX3ZaREhnRG5uamdXSjBtZzlMU2l3bzFZZy0tT0pLdF9MWE1uVUtlSllwaXdaQy1yT1I3clhlMmRFalh5Yy10T0ZRTGJJbVUtRDlYU2dUVkNLWVVMZ0tMcWNYRkRNVTBW?oc=5)
 
 2026-10-08 <span class="news-indication-tag">cancer</span>
@@ -106,19 +106,19 @@ Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cU
 
 ---
 
-### [Scientists discover a novel strategy to unmask cancer cells in high-risk neuroblastoma](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjExVFUtaXN2bkFfTC1OOW5qLWU1dUYtWWwxVDRNeGtFLVhkdlZLeXA1cWg3V0xQNm14b2w1VGZlNzRkeFpNOTY3UENLWmFVUHdlLXI4OXYwM0QwNEpkQXk4RDJ0QjVORkNVSWtJRng1TnpoU21kRVRqV1dNeFFMTU8zYVdCaEpSSktyTUk5WGxHdV9MUmcyT282eWR1d1VCYUxqcGV3czlkN0FPcVJVMksxdnZXZ00yaUlLM1pYUU1pR2ZXM0JDM3poOHVEczQ?oc=5)
-
-2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">neuroblastoma</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjExVFUtaXN2bkFfTC1OOW5qLWU1dUYtWWwxVDRNeGtFLVhkdlZLeXA1cWg3V0xQNm14b2w1VGZlNzRkeFpNOTY3UENLWmFVUHdlLXI4OXYwM0QwNEpkQXk4RDJ0QjVORkNVSWtJRng1TnpoU21kRVRqV1dNeFFMTU8zYVdCaEpSSktyTUk5WGxHdV9MUmcyT282eWR1d1VCYUxqcGV3czlkN0FPcVJVMksxdnZXZ00yaUlLM1pYUU1pR2ZXM0JDM3poOHVEczQ?oc=5)
-
----
-
 ### [Lower Death Risk Among Dementia Patients Who Are Overweight Or Obese, Study Finds](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZTI5bW9LSEg1WGx6VGY5M0RxeWFHSEROcFJnZVJQNmpTMXlUaWd1aVhtLXNFSHBRQU1GVzBBS0RDV09lV0VJZEQybF9McXJGMGVjNWwwNnhhRU9tdmVIVS1DMU5FTW5mb250bmkyYmlhQ1dyVUJsRnFKTE0xWHNKeDZrTldaWDhLSlN3ZTNVQXRRUWY2TjVFN0tMWjJSOGxuWjl6anRHMXpRSkNLbldJcUpUZnhjaTNVbEYtTkNVZ19VTEotLXo0?oc=5)
 
 2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [Forbes](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZTI5bW9LSEg1WGx6VGY5M0RxeWFHSEROcFJnZVJQNmpTMXlUaWd1aVhtLXNFSHBRQU1GVzBBS0RDV09lV0VJZEQybF9McXJGMGVjNWwwNnhhRU9tdmVIVS1DMU5FTW5mb250bmkyYmlhQ1dyVUJsRnFKTE0xWHNKeDZrTldaWDhLSlN3ZTNVQXRRUWY2TjVFN0tMWjJSOGxuWjl6anRHMXpRSkNLbldJcUpUZnhjaTNVbEYtTkNVZ19VTEotLXo0?oc=5)
+
+---
+
+### [SBI addresses screening myths during Breast Cancer Awareness Month](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb0dLWF9RMFVJTkRjYll1Ukg5YWtlR2dBcEdHWXFzdnh5aDUwMi0tMDJkekxUY09HN1dnY1llanpRdTFLLWVKMWhGak1qbEhoTnBpdVBMXzd4eExJa016dUVVc09VVC1zMTZ6Y0tHRnhya28zRjIza2RuaWdYN21Fa2EtNHhZZGp2VnhRdlEzdXJWQzZ1aWJrUjVQYXB6R2pZS1M1WFJzaW4taW56LWJ5SEs1aTQwZTNwclJEaUNPTXEydXVmTnZrMXVNZ1Etd1FhTmc?oc=5)
+
+2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb0dLWF9RMFVJTkRjYll1Ukg5YWtlR2dBcEdHWXFzdnh5aDUwMi0tMDJkekxUY09HN1dnY1llanpRdTFLLWVKMWhGak1qbEhoTnBpdVBMXzd4eExJa016dUVVc09VVC1zMTZ6Y0tHRnhya28zRjIza2RuaWdYN21Fa2EtNHhZZGp2VnhRdlEzdXJWQzZ1aWJrUjVQYXB6R2pZS1M1WFJzaW4taW56LWJ5SEs1aTQwZTNwclJEaUNPTXEydXVmTnZrMXVNZ1Etd1FhTmc?oc=5)
 
 ---
 

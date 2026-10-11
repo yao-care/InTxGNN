@@ -3,7 +3,7 @@ layout: default
 title: "dama (asthma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dama (asthma). 1 articles, 1 related drugs."
+description: "Health news about dama (asthma). 2 articles, 1 related drugs."
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="What news is there about dama (asthma)?">
-<strong>dama (asthma)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<strong>dama (asthma)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ This page brings together the latest health news about “dama” and lists the 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [95% of Alzheimer's Cases Could Be Prevented Through Lifestyle. Neuroscientist Reveals the 3 Free Changes That Protect Your Brain - BoxLife Magazine](https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1k1R0puVnZYS2hKb2V4RmlNVGRFTlFJMnJiWllIY3JCeGN4OF8tam40cXl0cmI0eFRUcGozclg1UTdra2pPZDN0a2huSEZMRFVJTVVZbFR0V0NwSlFDc1RzN1M0Q2JEVlE2c3R0OE0xWExVOVVyd0V4YmdlY1p6Z3RB?oc=5)
+### [Neuroradiologist details three daily habits to create a 'healthier environment for the brain'](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBYQzJEak1OM3RnWWdZWnFuT3VWODJTcW5hTzhuZEJJcTljZHFxWTdyOE5zWE9xQTQyU1ZPcHdHeWNYQ0YxYTB5ekNYS0dhdzRlcW85MElHYzVBSzRuQktLeWl2R01jai1TdlYteXZuRm9wZzhUSWNfdkxra1loNDhxNUR6aGpxWmNKTkJvWlkwR2c?oc=5)
 
-2026-10-10
+2026-10-11
 
-Source: [BoxLife Magazine](https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1k1R0puVnZYS2hKb2V4RmlNVGRFTlFJMnJiWllIY3JCeGN4OF8tam40cXl0cmI0eFRUcGozclg1UTdra2pPZDN0a2huSEZMRFVJTVVZbFR0V0NwSlFDc1RzN1M0Q2JEVlE2c3R0OE0xWExVOVVyd0V4YmdlY1p6Z3RB?oc=5)
+Source: [UNILAD](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBYQzJEak1OM3RnWWdZWnFuT3VWODJTcW5hTzhuZEJJcTljZHFxWTdyOE5zWE9xQTQyU1ZPcHdHeWNYQ0YxYTB5ekNYS0dhdzRlcW85MElHYzVBSzRuQktLeWl2R01jai1TdlYteXZuRm9wZzhUSWNfdkxra1loNDhxNUR6aGpxWmNKTkJvWlkwR2c?oc=5)
+
+---
+
+### [An attention-enhanced residual network framework for structural damage detection based on structural health monitoring data](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwTFJYSkxYWTR6SkFIOXJqQml0SS1vRDJ2dHI5SERncEJrTHNCMkZkUy1nUWVOZjdKcXFEcVR5MXpfS2Z2QUM2ZnlGQUhvVTVpazJybmVpNUNacDBBVkk0?oc=5)
+
+2026-10-11
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwTFJYSkxYWTR6SkFIOXJqQml0SS1vRDJ2dHI5SERncEJrTHNCMkZkUy1nUWVOZjdKcXFEcVR5MXpfS2Z2QUM2ZnlGQUhvVTVpazJybmVpNUNacDBBVkk0?oc=5)
 
 ---
 

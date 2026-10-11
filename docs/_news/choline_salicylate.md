@@ -14,7 +14,7 @@ permalink: /news/choline_salicylate/
 ---
 
 <p class="key-answer" data-question="What news is there about Choline Salicylate?">
-<strong>Choline Salicylate</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
+<strong>Choline Salicylate</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <p><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
+
+### [Breast cancer: Why awareness and early detection matter - Deccan Herald](https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3lXdXNjLWdfcFlJZi1LTHlMU05oZmpNNTFMVjJlcWQ1MVhDVW00UkdOMWVrTktjU0RIdWo2dnRXaG5pZGl0Zk4ySWw4cVFPT2gyN0RrcFJ3NXUzYkd1SWsxTG5adzZpdzdWN3NqeUtLSXJmTlFxbTk2UXFjMmNudXctZHo3NXJ1YUFFdjM2NVFuRXo3aThUOWw5MGNYSHc5R2J5U0ItN24tRVBpMzZ0SXV6dzcweGN1Nk42dnJSNlBkNTZi?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3lXdXNjLWdfcFlJZi1LTHlMU05oZmpNNTFMVjJlcWQ1MVhDVW00UkdOMWVrTktjU0RIdWo2dnRXaG5pZGl0Zk4ySWw4cVFPT2gyN0RrcFJ3NXUzYkd1SWsxTG5adzZpdzdWN3NqeUtLSXJmTlFxbTk2UXFjMmNudXctZHo3NXJ1YUFFdjM2NVFuRXo3aThUOWw5MGNYSHc5R2J5U0ItN24tRVBpMzZ0SXV6dzcweGN1Nk42dnJSNlBkNTZi?oc=5)
+
+---
 
 ### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
 
@@ -66,27 +74,11 @@ Source: [The Hans India](https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2
 
 ---
 
-### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
-
-2026-10-09 <span class="news-indication-tag">RA</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
-
----
-
 ### [WHO Unveils Global Plan to Save Mothers and Babies From Pregnancy Disorders](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTGZUYVNfMUdDRl9HZlBCUFFsakcySG9kaHI1VDNhU0J6aDcwYVRPNVc0bWd0bUJfcllxZXNHdnNnUXN6MUNTWnZZX3NhY3YxQ1R4U3BELWRhUENZZm93cUxMR2R2bEpjejVCQjdKUllzejlCQkZjWWt2RmJ6Ulk0SE9rVDRndFdWc3BITHBLZVlxNkJ1S0dFZUlGcEZ3Ym5iZ0NMcXE3NHU2UW9nd3lma2hHeDUzUFQtR0xZZGFSUG45VFgySmfSAcsBQVVfeXFMTW5SQTZSQ1JhaWxCYk5OMGM4ajZpaEo4WVoycEZlWlhLbmtvZ1k3NFRpRHJjSVZoYmJWT2xWbU9pWEVhUGlZNmp5RkxsSldMcURRV042ckxySkxYb1dMVFVjRnB1NmZSa2lIYmc2TTdzdUpxcXlaQjEwZnppWllra3NKNS1sQ2gwZlZHZ3M3Q2VPODlNdWl5a0JMQXlFaVdSVkF4QmlwSXJ5NWhnM0tEVGZELUc2Ym02YUI5bUdlNjhJMzBQeVI1SzVSczQ?oc=5)
 
 2026-10-09 <span class="news-indication-tag">hypertensive disorder</span>
 
 Source: [Devdiscourse](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTGZUYVNfMUdDRl9HZlBCUFFsakcySG9kaHI1VDNhU0J6aDcwYVRPNVc0bWd0bUJfcllxZXNHdnNnUXN6MUNTWnZZX3NhY3YxQ1R4U3BELWRhUENZZm93cUxMR2R2bEpjejVCQjdKUllzejlCQkZjWWt2RmJ6Ulk0SE9rVDRndFdWc3BITHBLZVlxNkJ1S0dFZUlGcEZ3Ym5iZ0NMcXE3NHU2UW9nd3lma2hHeDUzUFQtR0xZZGFSUG45VFgySmfSAcsBQVVfeXFMTW5SQTZSQ1JhaWxCYk5OMGM4ajZpaEo4WVoycEZlWlhLbmtvZ1k3NFRpRHJjSVZoYmJWT2xWbU9pWEVhUGlZNmp5RkxsSldMcURRV042ckxySkxYb1dMVFVjRnB1NmZSa2lIYmc2TTdzdUpxcXlaQjEwZnppWllra3NKNS1sQ2gwZlZHZ3M3Q2VPODlNdWl5a0JMQXlFaVdSVkF4QmlwSXJ5NWhnM0tEVGZELUc2Ym02YUI5bUdlNjhJMzBQeVI1SzVSczQ?oc=5)
-
----
-
-### [Scared about testing for breast cancer? Oncologist debunks 5 myths that can stop women from getting the right care | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
-
-2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
 
 ---
 
@@ -114,11 +106,11 @@ Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cU
 
 ---
 
-### [Scientists discover a novel strategy to unmask cancer cells in high-risk neuroblastoma](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjExVFUtaXN2bkFfTC1OOW5qLWU1dUYtWWwxVDRNeGtFLVhkdlZLeXA1cWg3V0xQNm14b2w1VGZlNzRkeFpNOTY3UENLWmFVUHdlLXI4OXYwM0QwNEpkQXk4RDJ0QjVORkNVSWtJRng1TnpoU21kRVRqV1dNeFFMTU8zYVdCaEpSSktyTUk5WGxHdV9MUmcyT282eWR1d1VCYUxqcGV3czlkN0FPcVJVMksxdnZXZ00yaUlLM1pYUU1pR2ZXM0JDM3poOHVEczQ?oc=5)
+### [SBI addresses screening myths during Breast Cancer Awareness Month](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb0dLWF9RMFVJTkRjYll1Ukg5YWtlR2dBcEdHWXFzdnh5aDUwMi0tMDJkekxUY09HN1dnY1llanpRdTFLLWVKMWhGak1qbEhoTnBpdVBMXzd4eExJa016dUVVc09VVC1zMTZ6Y0tHRnhya28zRjIza2RuaWdYN21Fa2EtNHhZZGp2VnhRdlEzdXJWQzZ1aWJrUjVQYXB6R2pZS1M1WFJzaW4taW56LWJ5SEs1aTQwZTNwclJEaUNPTXEydXVmTnZrMXVNZ1Etd1FhTmc?oc=5)
 
-2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">neuroblastoma</span>
+2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjExVFUtaXN2bkFfTC1OOW5qLWU1dUYtWWwxVDRNeGtFLVhkdlZLeXA1cWg3V0xQNm14b2w1VGZlNzRkeFpNOTY3UENLWmFVUHdlLXI4OXYwM0QwNEpkQXk4RDJ0QjVORkNVSWtJRng1TnpoU21kRVRqV1dNeFFMTU8zYVdCaEpSSktyTUk5WGxHdV9MUmcyT282eWR1d1VCYUxqcGV3czlkN0FPcVJVMksxdnZXZ00yaUlLM1pYUU1pR2ZXM0JDM3poOHVEczQ?oc=5)
+Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb0dLWF9RMFVJTkRjYll1Ukg5YWtlR2dBcEdHWXFzdnh5aDUwMi0tMDJkekxUY09HN1dnY1llanpRdTFLLWVKMWhGak1qbEhoTnBpdVBMXzd4eExJa016dUVVc09VVC1zMTZ6Y0tHRnhya28zRjIza2RuaWdYN21Fa2EtNHhZZGp2VnhRdlEzdXJWQzZ1aWJrUjVQYXB6R2pZS1M1WFJzaW4taW56LWJ5SEs1aTQwZTNwclJEaUNPTXEydXVmTnZrMXVNZ1Etd1FhTmc?oc=5)
 
 ---
 
