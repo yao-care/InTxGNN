@@ -3,7 +3,7 @@ layout: default
 title: "shingles (herpes zoster) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about shingles (herpes zoster). 1 articles, 4 related drugs."
+description: "Health news about shingles (herpes zoster). 2 articles, 4 related drugs."
 permalink: /news/herpes-zoster/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/herpes-zoster/
 ---
 
 <p class="key-answer" data-question="What news is there about shingles (herpes zoster)?">
-<strong>shingles (herpes zoster)</strong> currently has <strong>1 news articles</strong> and 4 related drugs.
+<strong>shingles (herpes zoster)</strong> currently has <strong>2 news articles</strong> and 4 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ This page brings together the latest health news about “shingles” and lists 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
 
 2026-10-11
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
+
+---
+
+### [Viola Davis grew up in poverty in Rhode Island; now she and husband Julius Tennon are donating $1.2 milli - The Times of India](https://news.google.com/rss/articles/CBMipgJBVV95cUxNNWFuWjRWaXp2SW5UcFB4QVVUektZZkh0TE4ydUNTd0NxQW5GRXBBeWpJcW5Hb2NNTW9kejJ5VjRwcmR2MkR1ZHY2MEtjTjRPUk5TVVBLalpKeWgyTkRRd0ZOQ2p6bWRpOGc5RHJFaE1QRlFhaEJKNlE2SmVjZ3pPWGgtcmM3OUVETUQzNFZaUGVXeWFTNlZ1SjNJLUw4VWpDb0FubXFtTlFnbEFod0drUTYyaGRmSmwybHVHM2htOFlTMGYydUlINzNyYk9pQ0ltWC10alB2UlJtUnhfZFFVVUdGM0k0MnE5YzB5ZU55VC1reGY5UUZiSWlqeTRYREtYM2dKMW1CWGp0WVRYYzRsU1FlMzhsd0Z1MXZGeV90d2xQcjA5M2fSAasCQVVfeXFMUG5JU1RYVTdSZElDLU9Pd2VDdU5WMExncjRCNVB3eEd1UWRxdGtxNVpWLXVTa1JGamE3OFV2VGRhVTNJdG5KZmJSV2pudFlGbzhPSmttMVhfUEgyUnlfNGNJZ1F6dmJVRVJ1TEdxX09DTlBuRkpiUDBza1VvNlNkNkU4dEhrOHhFVThVajdFMUtfcjJwZFJlNWFJVUpEYV9qWGNqb3V3WjkzbWRTT2R5UDdMOUMxSGhObm9iWmtyck9BYkV3U1RPTmYwZkgyYWZQX25UV3BxajJaM2tiWmRLel93TXdVTEFzYlZpbFB1eXY3N001M0xieXJNeXA1dF9KdmZIYVhfVlhlamsyb3JTdTBYR2Y0bS1jWjZ5WEJLZ3VPd1dDZms1M3ZpMzQ?oc=5)
+
+2026-10-10
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMipgJBVV95cUxNNWFuWjRWaXp2SW5UcFB4QVVUektZZkh0TE4ydUNTd0NxQW5GRXBBeWpJcW5Hb2NNTW9kejJ5VjRwcmR2MkR1ZHY2MEtjTjRPUk5TVVBLalpKeWgyTkRRd0ZOQ2p6bWRpOGc5RHJFaE1QRlFhaEJKNlE2SmVjZ3pPWGgtcmM3OUVETUQzNFZaUGVXeWFTNlZ1SjNJLUw4VWpDb0FubXFtTlFnbEFod0drUTYyaGRmSmwybHVHM2htOFlTMGYydUlINzNyYk9pQ0ltWC10alB2UlJtUnhfZFFVVUdGM0k0MnE5YzB5ZU55VC1reGY5UUZiSWlqeTRYREtYM2dKMW1CWGp0WVRYYzRsU1FlMzhsd0Z1MXZGeV90d2xQcjA5M2fSAasCQVVfeXFMUG5JU1RYVTdSZElDLU9Pd2VDdU5WMExncjRCNVB3eEd1UWRxdGtxNVpWLXVTa1JGamE3OFV2VGRhVTNJdG5KZmJSV2pudFlGbzhPSmttMVhfUEgyUnlfNGNJZ1F6dmJVRVJ1TEdxX09DTlBuRkpiUDBza1VvNlNkNkU4dEhrOHhFVThVajdFMUtfcjJwZFJlNWFJVUpEYV9qWGNqb3V3WjkzbWRTT2R5UDdMOUMxSGhObm9iWmtyck9BYkV3U1RPTmYwZkgyYWZQX25UV3BxajJaM2tiWmRLel93TXdVTEFzYlZpbFB1eXY3N001M0xieXJNeXA1dF9KdmZIYVhfVlhlamsyb3JTdTBYR2Y0bS1jWjZ5WEJLZ3VPd1dDZms1M3ZpMzQ?oc=5)
 
 ---
 

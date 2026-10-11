@@ -3,7 +3,7 @@ layout: default
 title: "dama (asthma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dama (asthma). 4 articles, 1 related drugs."
+description: "Health news about dama (asthma). 3 articles, 1 related drugs."
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="What news is there about dama (asthma)?">
-<strong>dama (asthma)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>dama (asthma)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “dama” and lists the 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Asthma Symptoms Alone Offer Limited Insight into Attack Risk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWVBOERkOGVmS0swSFNIcWdkWThZVXBJQ1Nvbm8wQVYtNEp6N2ZNVld5aUYzRm0yTXdQQk0wZ2VNTjl4UFRuekZQcTJEczExZjNpNEtablJfS1ZHVzlpQWxVeHk1aXVoUzVKZGFQRTFreTQ5MzRBbFlWOWxLX3BkRDEyS294OEYwMW1hb2ZPb1RpcHpLVVp2UHRqc195T29pU0JVVXlXWXI?oc=5)
 
@@ -52,14 +52,6 @@ Source: [UNILAD](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBYQzJEak
 2026-10-11
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwTFJYSkxYWTR6SkFIOXJqQml0SS1vRDJ2dHI5SERncEJrTHNCMkZkUy1nUWVOZjdKcXFEcVR5MXpfS2Z2QUM2ZnlGQUhvVTVpazJybmVpNUNacDBBVkk0?oc=5)
-
----
-
-### [Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSlFpVzdWUWZJQ09lamN3OC11ZDdGa29yXzB6OVdLZThlM0t5OUgzeExSYl9QWGRGMjRjU2JTNlNFTHNCUDhndFY2MnlyRXcwNTBCekx1ZXR0c3FpMUY1c3ZxQnVpS19iZDBaeVpIaw?oc=5)
-
-2026-10-06
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSlFpVzdWUWZJQ09lamN3OC11ZDdGa29yXzB6OVdLZThlM0t5OUgzeExSYl9QWGRGMjRjU2JTNlNFTHNCUDhndFY2MnlyRXcwNTBCekx1ZXR0c3FpMUY1c3ZxQnVpS19iZDBaeVpIaw?oc=5)
 
 ---
 

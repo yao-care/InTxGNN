@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ This page combines the AI-predicted indications for Urea with the latest health 
 <p><a href="{{ '/drugs/urea/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Efficient deep learning models for early Alzheimer’s disease diagnosis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmSGFWcFdLRm9PRVc1OGQ1eEJFQkZxd0tqOTRiVk94cjh3OGo5X196SFAwNkltOXR3ZkhlbXZWV09RZDItRkhtSjctbTl1clY4bTNIRGlvN2FhMHpPaU53?oc=5)
+
+2026-10-07 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmSGFWcFdLRm9PRVc1OGQ1eEJFQkZxd0tqOTRiVk94cjh3OGo5X196SFAwNkltOXR3ZkhlbXZWV09RZDItRkhtSjctbTl1clY4bTNIRGlvN2FhMHpPaU53?oc=5)
+
+---
 
 
 <div class="disclaimer">
