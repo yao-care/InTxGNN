@@ -14,7 +14,7 @@ permalink: /news/bromocriptine/
 ---
 
 <p class="key-answer" data-question="What news is there about Bromocriptine?">
-<strong>Bromocriptine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Bromocriptine</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ This page combines the AI-predicted indications for Bromocriptine with the lates
 <p><a href="{{ '/drugs/bromocriptine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Scientists grow human brain tissue in mice for first time, how the transplant technique opens the way to - The Times of India](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVFVhbG8xNWVoeFYxWXJMZVhqNlpvUFFmZ1JUWGZHNEtET2swY2F0UlkxV0hyTVB6aFlEZ2psNDBFVHVVR3JaRGQ0UTRrSTNCOW50dUpKMlZPTXZ2QjJ1SFUwWTB4TUtGaDlTMS1RWXVKNVJVMTNTNkZVRXdsRTUtUVFRX1YxRTVHY2t5UGhRTHV1Wk16Umc4QmZRTHlpanBCMnZQb1BJbUtLZmg1dmZ2Sk5uQUJMQWFrdzJGYjFrWlNTd3VyMTYwY19idi1vaGJ0VjZndkxKQmJ6cDJyM3NqV0dxVlM1QTd1aC1LVkZFRDlZeklSRGNBMUNDZTZrNkc4dVgyaTY3RkZKUG9uZDdMdlJOU05QVG5GX2kxZmIxMlg0TGtXaGJTblNTeGRNcVhBRks4UklTc25Kbi1vQmtwWkpsVDA5cG5zSGJrbERlWXV0NTlFVXNj0gHcAkFVX3lxTFA2UlNVbWdnVmpaekVpR1VybmV1aG0yVkZqczF2Q1hpRjBBOElLaTk0RmtsV2Z5aENjbDVkMHh1ZXdJSVpVd3lwbjJXWGUwSktHUkQ3R0dKdzRTWmd1WWd0bDNSZ2RQd0Y5WVdRVkVTeVFzX2QxSEpBa19YSXRIZ3prSGJCaDl1OGRYSmRsQWIwV0k0QkVjUWhPU2tIN0RYOUw0UW93UDA1djFSRVU0TWdWMkl3SXFBbTY0a0F1bU1tb1QtQ2FDLUY2T0lLa0NCcXNIOG84UUhnSjA1SnVxZ1dITDR0YXhMWllXNkI1Nm43dmlPbmYzZ1hCbUhhR1E0NzJHSE9vVXg1LVBPdnkzaXA2RHZkZDNiVHZzdjExcXVBcXNJZHlkSjk2RHhOb0V5SmV1Tnd1VFAyTVp2RnBvZGUxQWlCdDJyeTl6Y1BsRXllb3Vqb3UwaENudXNVWA?oc=5)
+### [Human brain-like tissue placed in lab mice, some call it ‘breakthrough’, others question ethics - Deccan Herald](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb00ydk9CYkRGN3Aya0UzbEgtZC0wWG9XeER4bDZ6NzBDXzhMdm1rQ3l1ckpfVmpyTUlpdlJYTVJCR2hVV3BoVy1iMU9wWjNVY0xzTzRWajFaVEhlMEdHTW1PLThYOXpuRUJnaUJrTHpjV3JtN3U5T1BWSDV5SXBXbmxjSUlYdmJpekZkcmJoUHRvTWJ5MjgxOTVwaWFTYVYxR1hhZDcycGg5WXdQcXJUcnQtV0p1Y0VFS0pkUzlKWWQ4S1hoUVYyZzNZallDZTRu?oc=5)
+
+2026-10-09 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb00ydk9CYkRGN3Aya0UzbEgtZC0wWG9XeER4bDZ6NzBDXzhMdm1rQ3l1ckpfVmpyTUlpdlJYTVJCR2hVV3BoVy1iMU9wWjNVY0xzTzRWajFaVEhlMEdHTW1PLThYOXpuRUJnaUJrTHpjV3JtN3U5T1BWSDV5SXBXbmxjSUlYdmJpekZkcmJoUHRvTWJ5MjgxOTVwaWFTYVYxR1hhZDcycGg5WXdQcXJUcnQtV0p1Y0VFS0pkUzlKWWQ4S1hoUVYyZzNZallDZTRu?oc=5)
+
+---
+
+### [Human brain organoids transplanted into mice without cerebral cortex — Nature](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWxXRFlKOGVDNW50T2pOYXVuXy10TUVBWjFUTUpsS1B1M3Ata1F1YUt6V1htTEhDbGNCMWFrcWFNZXJBY1ZRbksyQzBobmVDeXRIeDlrMkVBQS0xNnVtQnhkOW5udlRqRlBhdU1QS05mTV93NWRUemV2RkVqZGxGOVNKUVdoWWlJS1ROQ2F0MExhV3lGZC1iOHVCclBneFlia0l2N2k4eV9sZw?oc=5)
 
 2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVFVhbG8xNWVoeFYxWXJMZVhqNlpvUFFmZ1JUWGZHNEtET2swY2F0UlkxV0hyTVB6aFlEZ2psNDBFVHVVR3JaRGQ0UTRrSTNCOW50dUpKMlZPTXZ2QjJ1SFUwWTB4TUtGaDlTMS1RWXVKNVJVMTNTNkZVRXdsRTUtUVFRX1YxRTVHY2t5UGhRTHV1Wk16Umc4QmZRTHlpanBCMnZQb1BJbUtLZmg1dmZ2Sk5uQUJMQWFrdzJGYjFrWlNTd3VyMTYwY19idi1vaGJ0VjZndkxKQmJ6cDJyM3NqV0dxVlM1QTd1aC1LVkZFRDlZeklSRGNBMUNDZTZrNkc4dVgyaTY3RkZKUG9uZDdMdlJOU05QVG5GX2kxZmIxMlg0TGtXaGJTblNTeGRNcVhBRks4UklTc25Kbi1vQmtwWkpsVDA5cG5zSGJrbERlWXV0NTlFVXNj0gHcAkFVX3lxTFA2UlNVbWdnVmpaekVpR1VybmV1aG0yVkZqczF2Q1hpRjBBOElLaTk0RmtsV2Z5aENjbDVkMHh1ZXdJSVpVd3lwbjJXWGUwSktHUkQ3R0dKdzRTWmd1WWd0bDNSZ2RQd0Y5WVdRVkVTeVFzX2QxSEpBa19YSXRIZ3prSGJCaDl1OGRYSmRsQWIwV0k0QkVjUWhPU2tIN0RYOUw0UW93UDA1djFSRVU0TWdWMkl3SXFBbTY0a0F1bU1tb1QtQ2FDLUY2T0lLa0NCcXNIOG84UUhnSjA1SnVxZ1dITDR0YXhMWllXNkI1Nm43dmlPbmYzZ1hCbUhhR1E0NzJHSE9vVXg1LVBPdnkzaXA2RHZkZDNiVHZzdjExcXVBcXNJZHlkSjk2RHhOb0V5SmV1Tnd1VFAyTVp2RnBvZGUxQWlCdDJyeTl6Y1BsRXllb3Vqb3UwaENudXNVWA?oc=5)
+Source: [UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWxXRFlKOGVDNW50T2pOYXVuXy10TUVBWjFUTUpsS1B1M3Ata1F1YUt6V1htTEhDbGNCMWFrcWFNZXJBY1ZRbksyQzBobmVDeXRIeDlrMkVBQS0xNnVtQnhkOW5udlRqRlBhdU1QS05mTV93NWRUemV2RkVqZGxGOVNKUVdoWWlJS1ROQ2F0MExhV3lGZC1iOHVCclBneFlia0l2N2k4eV9sZw?oc=5)
 
 ---
 

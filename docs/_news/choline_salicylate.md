@@ -14,7 +14,7 @@ permalink: /news/choline_salicylate/
 ---
 
 <p class="key-answer" data-question="What news is there about Choline Salicylate?">
-<strong>Choline Salicylate</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Choline Salicylate</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>Prinzmetal angina (99.8%)</li>
 <li class="indication-matched">rheumatoid arthritis (99.8%)<span class="indication-tag">📰 RA</span></li>
-<li class="indication-matched">hypertensive disorder (99.8%)<span class="indication-tag">📰 hypertensive disorder</span></li>
+<li>hypertensive disorder (99.8%)</li>
 <li>migraine disorder (99.8%)</li>
 <li>pulmonary hypertension owing to lung disease and/or hypoxia (99.8%)</li>
 <li>pulmonary hypertension with unclear multifactorial mechanism (99.8%)</li>
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <p><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Childhood cancer symptoms can be easily missed - here's what to look out for](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
+
+---
 
 ### [Mitochondrial DNA Levels Linked to Cancer Mutation Burden](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWI1Tng0aE5LX210dVlSTFlobkR4cURFQTJSRWhvWWZnZzlRYkx0REtWYTJGMFFKU3hCbEwtcmlTOHNFWExOWks3RHVXRW9Ed05RUkQ4cHQ0c0ZpNzROVGtzT3ZzZGFtUXdMcWdkWmpFRV9rWV9QTGI1dl91SE9tRkdDVmYyeFFJZW4wU2JaUFJHS1pDcEZEZk1xM2VsUnN3?oc=5)
 
@@ -55,6 +63,22 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWI1Tng0aE5LX
 2026-10-11 <span class="news-indication-tag">cancer</span>
 
 Source: [The Indian Express](https://news.google.com/rss/articles/CBMi1gFBVV95cUxORm94YUFDdjBHWXZrNkd1bGktQnhYVV9jYVBqaEk5VEhDVXU5Z21WSkZ6ZzJfanFDamlmSHN1aERQNE96YmtYaDZaMHlDbkVXSEhOR05maTVqNDdIRm5lQnRZN2pvRkNRZXRrdzJQTGNUS19nU2VYV3dzQXlJOWdfNk9DYldIX3FVNGduNTNWRW1FY2JLdXdIWEc1bGtlbFJxTFFDYzJFbGhzTXV4YnVqRjU4NHNMX2NVekotRW03cmVNaldkV0xsUjhpOGlqWVdPOEFaeVl30gHcAUFVX3lxTFBSQWVJTUpXeWZqcmdkWDFmNWdidXo2c2poekFzN0NHaWNVR3E3cDF1cE5mOTJ0UUpMNktIaUNmVWpuWWdUOHI1bjViZ1pfYzc5WWNadEpFVXp6cWJ0UXRqUjB3SUdUNVRfVUtWWUhqbkpUbTlJMk5RdGNONGtSVE9fZFB4QkRVMkw3OXF3WWp6cDY2WEJxMnBfRXlYdXlGTGE3dHowWWZmLS1jb1liVmpiZ01hblkwYlg1NEpvWGszd1VjUVJKOFhoeF9EVUc4NXRPb1JXTnQ5aU50ZlM?oc=5)
+
+---
+
+### [Delhi sees GI cancer patients as young as 15; experts flag pollution link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2xVUGcwaXlqTHhoMnc2eUF0VjBjRHB5cTBCUURWVnQ4LWNHSkRscWt6Ylk1dHRtdHVkZ1V0LXVrMDUwR1Q1Rnc5Z25fcnNRN1BCMnNsTUEtZDFSdmlKak5kVFJmQ1VVS2VVbm91MTBybW1BN3gyQy1pSmFoUktUZ1NUWnVSVDdZOHdDOXBFSk9OZUI5b2o1OVR1V3BzWnpfVFBVTlRFSGRaNXPSAbABQVVfeXFMTW43REo1NUJSSXBKSWtfNE1lOHZ3aURGTVZBcGpQbWVncFZFUjFzYVRjNjNYXy1xcTZUa1ZSak5aNUJyWm1kbmdmOEM0Vzl1Zmo5ODM3MGhJSExlWFNZU0lHdEFPWENjTFhJU2dtRk1FWG5ONF9DdEdaRXRuVkFERllzZXM1YlVQLXl2Ym00ZnZYaXpuY2ZpZS0zTzZrUlY2WFdVbVJZOW12VjZtalhGTDY?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span>
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2xVUGcwaXlqTHhoMnc2eUF0VjBjRHB5cTBCUURWVnQ4LWNHSkRscWt6Ylk1dHRtdHVkZ1V0LXVrMDUwR1Q1Rnc5Z25fcnNRN1BCMnNsTUEtZDFSdmlKak5kVFJmQ1VVS2VVbm91MTBybW1BN3gyQy1pSmFoUktUZ1NUWnVSVDdZOHdDOXBFSk9OZUI5b2o1OVR1V3BzWnpfVFBVTlRFSGRaNXPSAbABQVVfeXFMTW43REo1NUJSSXBKSWtfNE1lOHZ3aURGTVZBcGpQbWVncFZFUjFzYVRjNjNYXy1xcTZUa1ZSak5aNUJyWm1kbmdmOEM0Vzl1Zmo5ODM3MGhJSExlWFNZU0lHdEFPWENjTFhJU2dtRk1FWG5ONF9DdEdaRXRuVkFERllzZXM1YlVQLXl2Ym00ZnZYaXpuY2ZpZS0zTzZrUlY2WFdVbVJZOW12VjZtalhGTDY?oc=5)
+
+---
+
+### [‘Every single patient matters’: The Sydney researcher weaponising AI to fight cancer - Ground News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmVVU1dlNE1QTHlMc01melZMRWZaRWVtRFQwYmhkX19hZmJnUjJKenZ6d0x4NHh5cUFVb2hmbUw2VExwYXdFY0gxb3k3aEMySmR1OVBFZjJ3UFowSVl1enZUYVdwM21MajNXWThubTZGa0R2d1VoT09JbDFqdTc3VzA0Mk54dzVWT0dGNzhxaFlnNkhqUXBjbWdKY0NUTm1ZNkRMQlhSWUpQVkVkbmc?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span>
+
+Source: [Ground News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmVVU1dlNE1QTHlMc01melZMRWZaRWVtRFQwYmhkX19hZmJnUjJKenZ6d0x4NHh5cUFVb2hmbUw2VExwYXdFY0gxb3k3aEMySmR1OVBFZjJ3UFowSVl1enZUYVdwM21MajNXWThubTZGa0R2d1VoT09JbDFqdTc3VzA0Mk54dzVWT0dGNzhxaFlnNkhqUXBjbWdKY0NUTm1ZNkRMQlhSWUpQVkVkbmc?oc=5)
 
 ---
 
@@ -90,19 +114,11 @@ Source: [The Hans India](https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2
 
 ---
 
-### [WHO Unveils Global Plan to Save Mothers and Babies From Pregnancy Disorders](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTGZUYVNfMUdDRl9HZlBCUFFsakcySG9kaHI1VDNhU0J6aDcwYVRPNVc0bWd0bUJfcllxZXNHdnNnUXN6MUNTWnZZX3NhY3YxQ1R4U3BELWRhUENZZm93cUxMR2R2bEpjejVCQjdKUllzejlCQkZjWWt2RmJ6Ulk0SE9rVDRndFdWc3BITHBLZVlxNkJ1S0dFZUlGcEZ3Ym5iZ0NMcXE3NHU2UW9nd3lma2hHeDUzUFQtR0xZZGFSUG45VFgySmfSAcsBQVVfeXFMTW5SQTZSQ1JhaWxCYk5OMGM4ajZpaEo4WVoycEZlWlhLbmtvZ1k3NFRpRHJjSVZoYmJWT2xWbU9pWEVhUGlZNmp5RkxsSldMcURRV042ckxySkxYb1dMVFVjRnB1NmZSa2lIYmc2TTdzdUpxcXlaQjEwZnppWllra3NKNS1sQ2gwZlZHZ3M3Q2VPODlNdWl5a0JMQXlFaVdSVkF4QmlwSXJ5NWhnM0tEVGZELUc2Ym02YUI5bUdlNjhJMzBQeVI1SzVSczQ?oc=5)
-
-2026-10-09 <span class="news-indication-tag">hypertensive disorder</span>
-
-Source: [Devdiscourse](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTGZUYVNfMUdDRl9HZlBCUFFsakcySG9kaHI1VDNhU0J6aDcwYVRPNVc0bWd0bUJfcllxZXNHdnNnUXN6MUNTWnZZX3NhY3YxQ1R4U3BELWRhUENZZm93cUxMR2R2bEpjejVCQjdKUllzejlCQkZjWWt2RmJ6Ulk0SE9rVDRndFdWc3BITHBLZVlxNkJ1S0dFZUlGcEZ3Ym5iZ0NMcXE3NHU2UW9nd3lma2hHeDUzUFQtR0xZZGFSUG45VFgySmfSAcsBQVVfeXFMTW5SQTZSQ1JhaWxCYk5OMGM4ajZpaEo4WVoycEZlWlhLbmtvZ1k3NFRpRHJjSVZoYmJWT2xWbU9pWEVhUGlZNmp5RkxsSldMcURRV042ckxySkxYb1dMVFVjRnB1NmZSa2lIYmc2TTdzdUpxcXlaQjEwZnppWllra3NKNS1sQ2gwZlZHZ3M3Q2VPODlNdWl5a0JMQXlFaVdSVkF4QmlwSXJ5NWhnM0tEVGZELUc2Ym02YUI5bUdlNjhJMzBQeVI1SzVSczQ?oc=5)
-
----
-
-### [HPV Vaccine Before Pregnancy Linked to Lower Preterm Birth Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTFCLVpJMjdwbVNIejN5RUJYZ0lYLURHVy1OSnNQaHltNzh0T2VrZnRXLV94bk9Ua29kcXk1clVybm4tOUdmbnQ3djR5amx1aS1vM1hkRkdZY3BPNTBWS2ExWlRfY2s1TXBFMHZ6ODBqSElDT085Q3RDVUl0OUV1OVRRaXQ4MGxkcWV1TGIxQ3NKMGNkazVnN1ktQ2t0RVZIa2RNMmRTZHlHS296el80Z2MzOUo?oc=5)
+### [HPV vaccine related with lower risk of pregnancy complications, Swedish study suggests - ET HealthWorld](https://news.google.com/rss/articles/CBMiogJBVV95cUxOZzlRMGdhbEh1VDFYcXd4OTVRZG93eS1TcGJveTBVY3B1UU11R0pRYTdDNFNOTXk1Ums0SVg4dERyeFNzUFdQTHI4TnkwaFRVQlZRRXFiVThNdUc5cS1vYlU1NnVmT2Z2OTBzcU9qYzc2TmdiTWNuQ1VURWJXUTFFQ2NRY0hKck5DSkFYS3RBMUxCd1N5RFkzemRWNFFvWmgzenRPek1XMzFCQ0dHWG9fdEhKMDFsY2hQdjgya3JwY0VKQkxNYXdZVmRHb2RjclFFSW82ZXV5ckJKQkVudy1SRlMzV2dxeGp2Qm9BdXRkNGRvaGhDQVI5ZW1ua09CTFlWWmZrYzdpLXpkRTBmQjFNdV93UnFKYnZBdlpkY2FXYVdRd9IB7gFBVV95cUxOcTJXTmwxM3VSVENtY2VMZVV6QlFndjhYS1BvWnRKRnhHeVNKUUlfOEhfZzVPaUxYWFVzS0VUSXloNFpndXdBM0lRdTE3N2QzQmFtRU9HU0E5TTYzTjItWWxtcGFQcXpFMWgtampiQnd5eUJiRXQ4M1VwNDFtdUJaZDdtWF95TE1TVy11NzFWbWx1UngxNFN1RFlCeUkwZ3cxRVQ4NUNDenlralo2QUtOaDY3S3U5SXdSRmprMTlDS053SzBYNlhKT2tBLXExZUNOSXExb2pvTlZ5aXJTTGRaOExfMDJEemRsek9fOFFn?oc=5)
 
 2026-10-08 <span class="news-indication-tag">RA</span>
 
-Source: [NDTV](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTFCLVpJMjdwbVNIejN5RUJYZ0lYLURHVy1OSnNQaHltNzh0T2VrZnRXLV94bk9Ua29kcXk1clVybm4tOUdmbnQ3djR5amx1aS1vM1hkRkdZY3BPNTBWS2ExWlRfY2s1TXBFMHZ6ODBqSElDT085Q3RDVUl0OUV1OVRRaXQ4MGxkcWV1TGIxQ3NKMGNkazVnN1ktQ2t0RVZIa2RNMmRTZHlHS296el80Z2MzOUo?oc=5)
+Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMiogJBVV95cUxOZzlRMGdhbEh1VDFYcXd4OTVRZG93eS1TcGJveTBVY3B1UU11R0pRYTdDNFNOTXk1Ums0SVg4dERyeFNzUFdQTHI4TnkwaFRVQlZRRXFiVThNdUc5cS1vYlU1NnVmT2Z2OTBzcU9qYzc2TmdiTWNuQ1VURWJXUTFFQ2NRY0hKck5DSkFYS3RBMUxCd1N5RFkzemRWNFFvWmgzenRPek1XMzFCQ0dHWG9fdEhKMDFsY2hQdjgya3JwY0VKQkxNYXdZVmRHb2RjclFFSW82ZXV5ckJKQkVudy1SRlMzV2dxeGp2Qm9BdXRkNGRvaGhDQVI5ZW1ua09CTFlWWmZrYzdpLXpkRTBmQjFNdV93UnFKYnZBdlpkY2FXYVdRd9IB7gFBVV95cUxOcTJXTmwxM3VSVENtY2VMZVV6QlFndjhYS1BvWnRKRnhHeVNKUUlfOEhfZzVPaUxYWFVzS0VUSXloNFpndXdBM0lRdTE3N2QzQmFtRU9HU0E5TTYzTjItWWxtcGFQcXpFMWgtampiQnd5eUJiRXQ4M1VwNDFtdUJaZDdtWF95TE1TVy11NzFWbWx1UngxNFN1RFlCeUkwZ3cxRVQ4NUNDenlralo2QUtOaDY3S3U5SXdSRmprMTlDS053SzBYNlhKT2tBLXExZUNOSXExb2pvTlZ5aXJTTGRaOExfMDJEemRsek9fOFFn?oc=5)
 
 ---
 
@@ -111,14 +127,6 @@ Source: [NDTV](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTFCLVpJMjdw
 2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
-
----
-
-### [New Weapons In The Fight Against Cancer: AI Technology To Detect Cancer Stem Cells Early - ETV Bharat](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjh4SmRVS1dWVkRvTWMwNUlEV0FSSUlJLWpqdi02cklyVmhTZnVLNkk3QWthSjBkczI2NVktcTY2YktvN1hJSWJjRktWNF9QNGJUOUVtTG05UG5PZmZ1WG1ER0l1d2Zfd0Q5VGhLblhVRGR2VkJfX0I0WEJqcDh1NHpkMWNudFJyWi11VlEtOWdGWE9UcFA4cUpLS3FIVjTSAaQBQVVfeXFMT0NobTZhTDNRc25WeDdveWxMOWZkNTFsa0xIVG5NRjY2TlAwSE1aUTk5X3ByX1ltT3pIZXRwV3BGdW5Eei1YLWUwQ2JHSUNkcUdWdzlPWVJtR3FqeURqVmg2ZWdpbWhtYWx0endtb2h0SmRhQmdSMDRLc3hWbzBfM0hwaGY0RTVNLVVxUmF6SFVGZFRGalNocF9lN2daS0U1VXpkQU4?oc=5)
-
-2026-10-05 <span class="news-indication-tag">cancer</span>
-
-Source: [ETV Bharat](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjh4SmRVS1dWVkRvTWMwNUlEV0FSSUlJLWpqdi02cklyVmhTZnVLNkk3QWthSjBkczI2NVktcTY2YktvN1hJSWJjRktWNF9QNGJUOUVtTG05UG5PZmZ1WG1ER0l1d2Zfd0Q5VGhLblhVRGR2VkJfX0I0WEJqcDh1NHpkMWNudFJyWi11VlEtOWdGWE9UcFA4cUpLS3FIVjTSAaQBQVVfeXFMT0NobTZhTDNRc25WeDdveWxMOWZkNTFsa0xIVG5NRjY2TlAwSE1aUTk5X3ByX1ltT3pIZXRwV3BGdW5Eei1YLWUwQ2JHSUNkcUdWdzlPWVJtR3FqeURqVmg2ZWdpbWhtYWx0endtb2h0SmRhQmdSMDRLc3hWbzBfM0hwaGY0RTVNLVVxUmF6SFVGZFRGalNocF9lN2daS0U1VXpkQU4?oc=5)
 
 ---
 

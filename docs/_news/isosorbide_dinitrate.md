@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Isosorbide Dinitrate with th
 <li>hypotrichosis simplex of the scalp (100.0%)</li>
 <li class="indication-matched">pulmonary hypertension (100.0%)<span class="indication-tag">📰 pulmonary hypertension</span></li>
 <li>diffuse alopecia areata (100.0%)</li>
-<li class="indication-matched">vascular disease (100.0%)<span class="indication-tag">📰 vascular disease</span></li>
+<li>vascular disease (100.0%)</li>
 <li>hypertrichosis (disease) (100.0%)</li>
 <li>kyphoscoliotic heart disease (100.0%)</li>
 <li>visceral calciphylaxis (100.0%)</li>
@@ -47,14 +47,6 @@ This page combines the AI-predicted indications for Isosorbide Dinitrate with th
 2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">pulmonary hypertension</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
-
----
-
-### [The heart attack we see, the brain we don’t | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXY2UnJpdzVKZnVSMmZ1OVhDU0NjcktZbmV5d3ZCMmZ4V21NSTE1LU1yNERSOVhkRGJraTNzeG5UeFlMS2pXU3c0S1FNMGFyQnp5VjRncVRDcnVQQXhUcE9XWmNhMjhyVFNnV01MOEw2TUExR0k1cGU5OG5Fb0ZlOEhVVGtFRlkwVlNMWEtGSllHcmFzZ1dlbHZqOFltOXI4RnJ4ZGVocXlUUk1OVzlKcmlUdEhLVGlzX1HSAb8BQVVfeXFMUF8wQmJBSkhPcGNubklzeTZRYVJEYl9HVlFYVUswTW9KeTdsMGNwY0tSM3VCTnAtLXVCLWgzbW1Hc3JzR0pyOTNmbFpGYTJ5XzJIT3FLcVlXUFJmNU1ZVmh2Mk8wLWhCSGxrS05Ick1jOVdkbXM5OXh4Zk9lcXdWOURxNmR4LWI4WWtpcTZzOElkemdzTjJMbTEwYzEza3l5WFY5aWRSV3F5Sy1kUi1LZTBCdFlxdHlZT1ZSMHl1OUU?oc=5)
-
-2026-10-10 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXY2UnJpdzVKZnVSMmZ1OVhDU0NjcktZbmV5d3ZCMmZ4V21NSTE1LU1yNERSOVhkRGJraTNzeG5UeFlMS2pXU3c0S1FNMGFyQnp5VjRncVRDcnVQQXhUcE9XWmNhMjhyVFNnV01MOEw2TUExR0k1cGU5OG5Fb0ZlOEhVVGtFRlkwVlNMWEtGSllHcmFzZ1dlbHZqOFltOXI4RnJ4ZGVocXlUUk1OVzlKcmlUdEhLVGlzX1HSAb8BQVVfeXFMUF8wQmJBSkhPcGNubklzeTZRYVJEYl9HVlFYVUswTW9KeTdsMGNwY0tSM3VCTnAtLXVCLWgzbW1Hc3JzR0pyOTNmbFpGYTJ5XzJIT3FLcVlXUFJmNU1ZVmh2Mk8wLWhCSGxrS05Ick1jOVdkbXM5OXh4Zk9lcXdWOURxNmR4LWI4WWtpcTZzOElkemdzTjJMbTEwYzEza3l5WFY5aWRSV3F5Sy1kUi1LZTBCdFlxdHlZT1ZSMHl1OUU?oc=5)
 
 ---
 
@@ -79,6 +71,14 @@ Source: [ETV Bharat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2FpV3
 2026-10-08 <span class="news-indication-tag">cardiovascular</span>
 
 Source: [Telegraph India](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUW52OU9RbGljNTVTaWREekVOUW9wdHV1QzBTWlFZUFRRZXZFOTV1dEhGOFhWUUYzaEZJclJ2UG4zdTR1TlBOVGhmRENMdHNnNXQ3NGFibDFGaEg5UHNpdjV3UTBWcVg3dkJjenB5a3RNcTVrNk1xSHdULXpkS2Q4WUpYWnlqUGRXMG9tSnJsNTFYMUJBZjdfTTNXcW9GYVZNdktQckJsb0NFRDFMZFNvTjRvYU9EUkR0UUhLckR1a3p3UVk5ZVVfZWU4ZHlFVE9nNnVNci1lT3dtUdIB3wFBVV95cUxQZThsbWl4N3JoTUV2RmZMSHNHRHh4cVBWYlJ5MmFrZXI5N3haTUc2bGg3MDdXWkxJM3FFSEJGcmkzbVJneWROYjB6ZHZaV2h0c0ZMbHZvWnFpQmRiektGREt1Q0gwUzlPSzRibkJCSTJzSGxPVmRWVDlWV2UzTkFnajN3ODlOWmQtbFlmeVJDMVpMTGN4azFJSkFoYmRTYzNGUU01emFBcGVkdDRSRVBYOE9LdlZ3blp6eUF3QmVwUGMtLXZoQk9JWmQ1YjRTbzJJRHg4SzNocUwzVjl4OVJZ?oc=5)
+
+---
+
+### [Study finds pregnancy complications may increase risk for artery disease - Medical Dialogues](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ3U1RTAxSTZaYXRrRzJYWi1yTlZmclVoOThKdktQclZFTnlDbHNLZ25DUm5tV1IwYjFadWxoTFBkalBhSDd0dkFoekdnVXNXdWZSMkJyY3poaVJub3hkalZmNzVtWWtoU3d0TWoyUmJLbmlERHFyOTFNRExvT29qTGUtMHI2TTFMQ0EtOHZ5blItRTdlaFZZcEM2dXdqa0F1OTd2Q29WMXFuX1RyQ3pBV1c3dTdlRzBQNlBuZ09pelkteTg1OXpCNnc1UDNHUHhO0gHWAUFVX3lxTFBraEtaNTQ1Q1RsMkROTmxoYVZpY3FDWW4xOHBTbU1LRkdHZUthc0h6Q0NTUWlTU1htNjhYdFptbmhOMDh1ZFY5U040OHpvcGlMTU54Q1pES3JPUV93Y0dBX29hVDRQdnEtcTNpY0tscFJ5S3VEU1N3YmQ1X2Mzclp0U3QtY1BncUM3NV9EWjhwV2w3dWItZXhvRFgyalo1a0NaWHBHbW10UmF5MXphMWdWSFNuWXdMZzd3ME03T1c3LS0wSzVmeVpLclBfbS1mS0s5LWRCY0E?oc=5)
+
+2026-10-07 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [Medical Dialogues](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ3U1RTAxSTZaYXRrRzJYWi1yTlZmclVoOThKdktQclZFTnlDbHNLZ25DUm5tV1IwYjFadWxoTFBkalBhSDd0dkFoekdnVXNXdWZSMkJyY3poaVJub3hkalZmNzVtWWtoU3d0TWoyUmJLbmlERHFyOTFNRExvT29qTGUtMHI2TTFMQ0EtOHZ5blItRTdlaFZZcEM2dXdqa0F1OTd2Q29WMXFuX1RyQ3pBV1c3dTdlRzBQNlBuZ09pelkteTg1OXpCNnc1UDNHUHhO0gHWAUFVX3lxTFBraEtaNTQ1Q1RsMkROTmxoYVZpY3FDWW4xOHBTbU1LRkdHZUthc0h6Q0NTUWlTU1htNjhYdFptbmhOMDh1ZFY5U040OHpvcGlMTU54Q1pES3JPUV93Y0dBX29hVDRQdnEtcTNpY0tscFJ5S3VEU1N3YmQ1X2Mzclp0U3QtY1BncUM3NV9EWjhwV2w3dWItZXhvRFgyalo1a0NaWHBHbW10UmF5MXphMWdWSFNuWXdMZzd3ME03T1c3LS0wSzVmeVpLclBfbS1mS0s5LWRCY0E?oc=5)
 
 ---
 

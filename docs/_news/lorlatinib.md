@@ -14,7 +14,7 @@ permalink: /news/lorlatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Lorlatinib?">
-<strong>Lorlatinib</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
+<strong>Lorlatinib</strong> currently has <strong>15 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Lorlatinib with the latest h
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (15)
+
+### [Childhood cancer symptoms can be easily missed - here's what to look out for](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
+
+---
 
 ### [Can Air Pollution Damage Your Brain? What Long-Term Exposure May Do To Memory And Focus - Times Now](https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3o3Q3VLME1NY0FZWnZETkpDNEdWSWhTYXBfbDlmaHR1QmQtOW1qLUVvOEVEOUF6X3NWazljYVEySGM2Wmc0QWZHQmpQdzQyZnEyZEc2VzE4RFFtVHFZLW03MVpVU3RieWc3a0NLbWVLdl9kZXpyWVRJUndqeDZGWWtOOGVoT3JCdDBSbUM5QTFwTkXSAZgBQVVfeXFMTWc1bnZjMi1uLTJfSUlJZDA2NGdsV2RoNzNMMHRiakViX0FtOHFJb3hsVUVvc3JMejRSZ3FrVG8wMFB4WVhPU3dxSUJnUzY5RjZkRVhxWFl0dnFTbjVTcUxjWU5QUkcyX25Lcmx5RVRWN1pHWDVNQ2FKZ21yR05IdG5EN3NaMkFoRGQ5eDlWM19pQ21pRUpGS0I?oc=5)
 
@@ -74,11 +82,19 @@ Source: [The Indian Express](https://news.google.com/rss/articles/CBMi1gFBVV95cU
 
 ---
 
-### [Neuroradiologist details three daily habits to create a 'healthier environment for the brain'](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBYQzJEak1OM3RnWWdZWnFuT3VWODJTcW5hTzhuZEJJcTljZHFxWTdyOE5zWE9xQTQyU1ZPcHdHeWNYQ0YxYTB5ekNYS0dhdzRlcW85MElHYzVBSzRuQktLeWl2R01jai1TdlYteXZuRm9wZzhUSWNfdkxra1loNDhxNUR6aGpxWmNKTkJvWlkwR2c?oc=5)
+### [Delhi sees GI cancer patients as young as 15; experts flag pollution link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2xVUGcwaXlqTHhoMnc2eUF0VjBjRHB5cTBCUURWVnQ4LWNHSkRscWt6Ylk1dHRtdHVkZ1V0LXVrMDUwR1Q1Rnc5Z25fcnNRN1BCMnNsTUEtZDFSdmlKak5kVFJmQ1VVS2VVbm91MTBybW1BN3gyQy1pSmFoUktUZ1NUWnVSVDdZOHdDOXBFSk9OZUI5b2o1OVR1V3BzWnpfVFBVTlRFSGRaNXPSAbABQVVfeXFMTW43REo1NUJSSXBKSWtfNE1lOHZ3aURGTVZBcGpQbWVncFZFUjFzYVRjNjNYXy1xcTZUa1ZSak5aNUJyWm1kbmdmOEM0Vzl1Zmo5ODM3MGhJSExlWFNZU0lHdEFPWENjTFhJU2dtRk1FWG5ONF9DdEdaRXRuVkFERllzZXM1YlVQLXl2Ym00ZnZYaXpuY2ZpZS0zTzZrUlY2WFdVbVJZOW12VjZtalhGTDY?oc=5)
 
-2026-10-11 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
+2026-10-11 <span class="news-indication-tag">cancer</span>
 
-Source: [UNILAD](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBYQzJEak1OM3RnWWdZWnFuT3VWODJTcW5hTzhuZEJJcTljZHFxWTdyOE5zWE9xQTQyU1ZPcHdHeWNYQ0YxYTB5ekNYS0dhdzRlcW85MElHYzVBSzRuQktLeWl2R01jai1TdlYteXZuRm9wZzhUSWNfdkxra1loNDhxNUR6aGpxWmNKTkJvWlkwR2c?oc=5)
+Source: [ThePrint](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2xVUGcwaXlqTHhoMnc2eUF0VjBjRHB5cTBCUURWVnQ4LWNHSkRscWt6Ylk1dHRtdHVkZ1V0LXVrMDUwR1Q1Rnc5Z25fcnNRN1BCMnNsTUEtZDFSdmlKak5kVFJmQ1VVS2VVbm91MTBybW1BN3gyQy1pSmFoUktUZ1NUWnVSVDdZOHdDOXBFSk9OZUI5b2o1OVR1V3BzWnpfVFBVTlRFSGRaNXPSAbABQVVfeXFMTW43REo1NUJSSXBKSWtfNE1lOHZ3aURGTVZBcGpQbWVncFZFUjFzYVRjNjNYXy1xcTZUa1ZSak5aNUJyWm1kbmdmOEM0Vzl1Zmo5ODM3MGhJSExlWFNZU0lHdEFPWENjTFhJU2dtRk1FWG5ONF9DdEdaRXRuVkFERllzZXM1YlVQLXl2Ym00ZnZYaXpuY2ZpZS0zTzZrUlY2WFdVbVJZOW12VjZtalhGTDY?oc=5)
+
+---
+
+### [‘Every single patient matters’: The Sydney researcher weaponising AI to fight cancer - Ground News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmVVU1dlNE1QTHlMc01melZMRWZaRWVtRFQwYmhkX19hZmJnUjJKenZ6d0x4NHh5cUFVb2hmbUw2VExwYXdFY0gxb3k3aEMySmR1OVBFZjJ3UFowSVl1enZUYVdwM21MajNXWThubTZGa0R2d1VoT09JbDFqdTc3VzA0Mk54dzVWT0dGNzhxaFlnNkhqUXBjbWdKY0NUTm1ZNkRMQlhSWUpQVkVkbmc?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span>
+
+Source: [Ground News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmVVU1dlNE1QTHlMc01melZMRWZaRWVtRFQwYmhkX19hZmJnUjJKenZ6d0x4NHh5cUFVb2hmbUw2VExwYXdFY0gxb3k3aEMySmR1OVBFZjJ3UFowSVl1enZUYVdwM21MajNXWThubTZGa0R2d1VoT09JbDFqdTc3VzA0Mk54dzVWT0dGNzhxaFlnNkhqUXBjbWdKY0NUTm1ZNkRMQlhSWUpQVkVkbmc?oc=5)
 
 ---
 
@@ -114,6 +130,14 @@ Source: [The Hans India](https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2
 
 ---
 
+### [Human brain-like tissue placed in lab mice, some call it ‘breakthrough’, others question ethics - Deccan Herald](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb00ydk9CYkRGN3Aya0UzbEgtZC0wWG9XeER4bDZ6NzBDXzhMdm1rQ3l1ckpfVmpyTUlpdlJYTVJCR2hVV3BoVy1iMU9wWjNVY0xzTzRWajFaVEhlMEdHTW1PLThYOXpuRUJnaUJrTHpjV3JtN3U5T1BWSDV5SXBXbmxjSUlYdmJpekZkcmJoUHRvTWJ5MjgxOTVwaWFTYVYxR1hhZDcycGg5WXdQcXJUcnQtV0p1Y0VFS0pkUzlKWWQ4S1hoUVYyZzNZallDZTRu?oc=5)
+
+2026-10-09 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb00ydk9CYkRGN3Aya0UzbEgtZC0wWG9XeER4bDZ6NzBDXzhMdm1rQ3l1ckpfVmpyTUlpdlJYTVJCR2hVV3BoVy1iMU9wWjNVY0xzTzRWajFaVEhlMEdHTW1PLThYOXpuRUJnaUJrTHpjV3JtN3U5T1BWSDV5SXBXbmxjSUlYdmJpekZkcmJoUHRvTWJ5MjgxOTVwaWFTYVYxR1hhZDcycGg5WXdQcXJUcnQtV0p1Y0VFS0pkUzlKWWQ4S1hoUVYyZzNZallDZTRu?oc=5)
+
+---
+
 ### [Advances in prognostic and predictive biomarkers for breast cancer - Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
 
 2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
@@ -122,27 +146,19 @@ Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cU
 
 ---
 
-### [US Expert Warns Your Walking Pattern Could Reveal Early Signs Of Dementia - Times Now](https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzBZRWM2NE1uTjJmM3FaVklxWkVLWUlmdjlGVU1fYWZLNXZCb2JMT3RuUUdLTl9QdUFBdHhPSTJoak5YSzJDNGhSVWF3ZDRLbEtxd2thamZKdXZGYllJMHZnOFNXNUNIbEQ2OFFUcFAtN2dCaXp4Q2pyZi1LUzE3aXI1bDluQldXVE1YXzBXOUZsZlpLcV9nOVNUX3NQcXNranB0UUVyRzJMLXdpbXg1QkdKRk92cDRzcy1qU1Fxc1lfTDgxRUHSAcsBQVVfeXFMUEpPWDA3MXR6VUw5aGVMWkV6clk0OFB4Y0IwN29IV2pOZVRtem44MGlNODhsUkpVMkVfOEpWek9fbF95SUc0Qk9rYjM0V1BBLW9MZVZVckNmYWozTnc2V2JPWTFOTU1BdWtQVnJkOUNXeFFQOEFZQkhMd1VGX0MxNlFMMWx2UmtMd3NieUt0Wnh1UmhUOFIycXAxTEtoVXl5a21NODhsRHN2d3Fac3RNTHQ2S1c4UDJzcGRZUzFTLWFZVEI2cHBOV3BEaXM?oc=5)
-
-2026-10-07 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Times Now](https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzBZRWM2NE1uTjJmM3FaVklxWkVLWUlmdjlGVU1fYWZLNXZCb2JMT3RuUUdLTl9QdUFBdHhPSTJoak5YSzJDNGhSVWF3ZDRLbEtxd2thamZKdXZGYllJMHZnOFNXNUNIbEQ2OFFUcFAtN2dCaXp4Q2pyZi1LUzE3aXI1bDluQldXVE1YXzBXOUZsZlpLcV9nOVNUX3NQcXNranB0UUVyRzJMLXdpbXg1QkdKRk92cDRzcy1qU1Fxc1lfTDgxRUHSAcsBQVVfeXFMUEpPWDA3MXR6VUw5aGVMWkV6clk0OFB4Y0IwN29IV2pOZVRtem44MGlNODhsUkpVMkVfOEpWek9fbF95SUc0Qk9rYjM0V1BBLW9MZVZVckNmYWozTnc2V2JPWTFOTU1BdWtQVnJkOUNXeFFQOEFZQkhMd1VGX0MxNlFMMWx2UmtMd3NieUt0Wnh1UmhUOFIycXAxTEtoVXl5a21NODhsRHN2d3Fac3RNTHQ2S1c4UDJzcGRZUzFTLWFZVEI2cHBOV3BEaXM?oc=5)
-
----
-
-### [Scientists grow human brain tissue in mice for first time, how the transplant technique opens the way to - The Times of India](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVFVhbG8xNWVoeFYxWXJMZVhqNlpvUFFmZ1JUWGZHNEtET2swY2F0UlkxV0hyTVB6aFlEZ2psNDBFVHVVR3JaRGQ0UTRrSTNCOW50dUpKMlZPTXZ2QjJ1SFUwWTB4TUtGaDlTMS1RWXVKNVJVMTNTNkZVRXdsRTUtUVFRX1YxRTVHY2t5UGhRTHV1Wk16Umc4QmZRTHlpanBCMnZQb1BJbUtLZmg1dmZ2Sk5uQUJMQWFrdzJGYjFrWlNTd3VyMTYwY19idi1vaGJ0VjZndkxKQmJ6cDJyM3NqV0dxVlM1QTd1aC1LVkZFRDlZeklSRGNBMUNDZTZrNkc4dVgyaTY3RkZKUG9uZDdMdlJOU05QVG5GX2kxZmIxMlg0TGtXaGJTblNTeGRNcVhBRks4UklTc25Kbi1vQmtwWkpsVDA5cG5zSGJrbERlWXV0NTlFVXNj0gHcAkFVX3lxTFA2UlNVbWdnVmpaekVpR1VybmV1aG0yVkZqczF2Q1hpRjBBOElLaTk0RmtsV2Z5aENjbDVkMHh1ZXdJSVpVd3lwbjJXWGUwSktHUkQ3R0dKdzRTWmd1WWd0bDNSZ2RQd0Y5WVdRVkVTeVFzX2QxSEpBa19YSXRIZ3prSGJCaDl1OGRYSmRsQWIwV0k0QkVjUWhPU2tIN0RYOUw0UW93UDA1djFSRVU0TWdWMkl3SXFBbTY0a0F1bU1tb1QtQ2FDLUY2T0lLa0NCcXNIOG84UUhnSjA1SnVxZ1dITDR0YXhMWllXNkI1Nm43dmlPbmYzZ1hCbUhhR1E0NzJHSE9vVXg1LVBPdnkzaXA2RHZkZDNiVHZzdjExcXVBcXNJZHlkSjk2RHhOb0V5SmV1Tnd1VFAyTVp2RnBvZGUxQWlCdDJyeTl6Y1BsRXllb3Vqb3UwaENudXNVWA?oc=5)
+### [Human brain organoids transplanted into mice without cerebral cortex — Nature](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWxXRFlKOGVDNW50T2pOYXVuXy10TUVBWjFUTUpsS1B1M3Ata1F1YUt6V1htTEhDbGNCMWFrcWFNZXJBY1ZRbksyQzBobmVDeXRIeDlrMkVBQS0xNnVtQnhkOW5udlRqRlBhdU1QS05mTV93NWRUemV2RkVqZGxGOVNKUVdoWWlJS1ROQ2F0MExhV3lGZC1iOHVCclBneFlia0l2N2k4eV9sZw?oc=5)
 
 2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVFVhbG8xNWVoeFYxWXJMZVhqNlpvUFFmZ1JUWGZHNEtET2swY2F0UlkxV0hyTVB6aFlEZ2psNDBFVHVVR3JaRGQ0UTRrSTNCOW50dUpKMlZPTXZ2QjJ1SFUwWTB4TUtGaDlTMS1RWXVKNVJVMTNTNkZVRXdsRTUtUVFRX1YxRTVHY2t5UGhRTHV1Wk16Umc4QmZRTHlpanBCMnZQb1BJbUtLZmg1dmZ2Sk5uQUJMQWFrdzJGYjFrWlNTd3VyMTYwY19idi1vaGJ0VjZndkxKQmJ6cDJyM3NqV0dxVlM1QTd1aC1LVkZFRDlZeklSRGNBMUNDZTZrNkc4dVgyaTY3RkZKUG9uZDdMdlJOU05QVG5GX2kxZmIxMlg0TGtXaGJTblNTeGRNcVhBRks4UklTc25Kbi1vQmtwWkpsVDA5cG5zSGJrbERlWXV0NTlFVXNj0gHcAkFVX3lxTFA2UlNVbWdnVmpaekVpR1VybmV1aG0yVkZqczF2Q1hpRjBBOElLaTk0RmtsV2Z5aENjbDVkMHh1ZXdJSVpVd3lwbjJXWGUwSktHUkQ3R0dKdzRTWmd1WWd0bDNSZ2RQd0Y5WVdRVkVTeVFzX2QxSEpBa19YSXRIZ3prSGJCaDl1OGRYSmRsQWIwV0k0QkVjUWhPU2tIN0RYOUw0UW93UDA1djFSRVU0TWdWMkl3SXFBbTY0a0F1bU1tb1QtQ2FDLUY2T0lLa0NCcXNIOG84UUhnSjA1SnVxZ1dITDR0YXhMWllXNkI1Nm43dmlPbmYzZ1hCbUhhR1E0NzJHSE9vVXg1LVBPdnkzaXA2RHZkZDNiVHZzdjExcXVBcXNJZHlkSjk2RHhOb0V5SmV1Tnd1VFAyTVp2RnBvZGUxQWlCdDJyeTl6Y1BsRXllb3Vqb3UwaENudXNVWA?oc=5)
+Source: [UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWxXRFlKOGVDNW50T2pOYXVuXy10TUVBWjFUTUpsS1B1M3Ata1F1YUt6V1htTEhDbGNCMWFrcWFNZXJBY1ZRbksyQzBobmVDeXRIeDlrMkVBQS0xNnVtQnhkOW5udlRqRlBhdU1QS05mTV93NWRUemV2RkVqZGxGOVNKUVdoWWlJS1ROQ2F0MExhV3lGZC1iOHVCclBneFlia0l2N2k4eV9sZw?oc=5)
 
 ---
 
-### [New Weapons In The Fight Against Cancer: AI Technology To Detect Cancer Stem Cells Early - ETV Bharat](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjh4SmRVS1dWVkRvTWMwNUlEV0FSSUlJLWpqdi02cklyVmhTZnVLNkk3QWthSjBkczI2NVktcTY2YktvN1hJSWJjRktWNF9QNGJUOUVtTG05UG5PZmZ1WG1ER0l1d2Zfd0Q5VGhLblhVRGR2VkJfX0I0WEJqcDh1NHpkMWNudFJyWi11VlEtOWdGWE9UcFA4cUpLS3FIVjTSAaQBQVVfeXFMT0NobTZhTDNRc25WeDdveWxMOWZkNTFsa0xIVG5NRjY2TlAwSE1aUTk5X3ByX1ltT3pIZXRwV3BGdW5Eei1YLWUwQ2JHSUNkcUdWdzlPWVJtR3FqeURqVmg2ZWdpbWhtYWx0endtb2h0SmRhQmdSMDRLc3hWbzBfM0hwaGY0RTVNLVVxUmF6SFVGZFRGalNocF9lN2daS0U1VXpkQU4?oc=5)
+### [Research Highlights Importance of Brain Health and Ageing - India News Network](https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhsbDU4NEUxTlZuLVFUcXZiMW55LXE2MU5KX2RDRHVlcC1fa2x5UlpuTllZUy05ck5ncG96QzhZNjNpWEljVk9OVlVId25MTmJpdnpzQmd0VU8tUHQ5cG15WGZCQjYxSWZ4V1c5YzFKQzJIalJQQzlESl9GaUVmS3NqMk1nM1lGUjFON3BOVzdZOGJFcEtnZ1Zidw?oc=5)
 
-2026-10-05 <span class="news-indication-tag">cancer</span>
+2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
 
-Source: [ETV Bharat](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjh4SmRVS1dWVkRvTWMwNUlEV0FSSUlJLWpqdi02cklyVmhTZnVLNkk3QWthSjBkczI2NVktcTY2YktvN1hJSWJjRktWNF9QNGJUOUVtTG05UG5PZmZ1WG1ER0l1d2Zfd0Q5VGhLblhVRGR2VkJfX0I0WEJqcDh1NHpkMWNudFJyWi11VlEtOWdGWE9UcFA4cUpLS3FIVjTSAaQBQVVfeXFMT0NobTZhTDNRc25WeDdveWxMOWZkNTFsa0xIVG5NRjY2TlAwSE1aUTk5X3ByX1ltT3pIZXRwV3BGdW5Eei1YLWUwQ2JHSUNkcUdWdzlPWVJtR3FqeURqVmg2ZWdpbWhtYWx0endtb2h0SmRhQmdSMDRLc3hWbzBfM0hwaGY0RTVNLVVxUmF6SFVGZFRGalNocF9lN2daS0U1VXpkQU4?oc=5)
+Source: [India News Network](https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhsbDU4NEUxTlZuLVFUcXZiMW55LXE2MU5KX2RDRHVlcC1fa2x5UlpuTllZUy05ck5ncG96QzhZNjNpWEljVk9OVlVId25MTmJpdnpzQmd0VU8tUHQ5cG15WGZCQjYxSWZ4V1c5YzFKQzJIalJQQzlESl9GaUVmS3NqMk1nM1lGUjFON3BOVzdZOGJFcEtnZ1Zidw?oc=5)
 
 ---
 
