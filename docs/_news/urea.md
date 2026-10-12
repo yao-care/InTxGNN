@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,15 +28,9 @@ This page combines the AI-predicted indications for Urea with the latest health 
 <p><a href="{{ '/drugs/urea/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Astronomers discover second-generation planet made by dying star - KCAU 9 News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdnFzOTZORFF2V1h0bmkzSWVZQmY1U2xZNV9UZHRkOU11ZUJTUC02dTduaDNoSWUzM1dqdkc3SjZwUFl0U3RjTmxuUG1ld1RISkc5dnFJS2lMdFdyajBZTE1jUFAxYWVXdkc2UU9NQU56QTZtNkJBX0VxX3hKQXZmOHlJbzktVmk3SlB0OXo5ZEhfb1ZYb2RCUnc5c0JnYzNUSWJucHBVcG1RQdIBrwFBVV95cUxNVXNXaWRvM0w1bmxxTDM2SDMzdU5pQ0ItMWFrRV9zMEJCTE5sbnFiWWlxOXczT1g3TWpBZDZHUjVISEpRejFSV3J3Zzc1Rk9qTmt2cHhhVzFfS1UwMTFmdXFkbEdveGtNb3FablBBXzhnYV91TVUyWkFwdVgwb09lYzVDQ2p1c1UyRlYwNUo5NFJaMEJIUW9NSm9ySkpzTlJ0YVNYQ01scm5idHdhS1Nz?oc=5)
-
-2026-10-11 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
-
-Source: [KCAU 9 News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdnFzOTZORFF2V1h0bmkzSWVZQmY1U2xZNV9UZHRkOU11ZUJTUC02dTduaDNoSWUzM1dqdkc3SjZwUFl0U3RjTmxuUG1ld1RISkc5dnFJS2lMdFdyajBZTE1jUFAxYWVXdkc2UU9NQU56QTZtNkJBX0VxX3hKQXZmOHlJbzktVmk3SlB0OXo5ZEhfb1ZYb2RCUnc5c0JnYzNUSWJucHBVcG1RQdIBrwFBVV95cUxNVXNXaWRvM0w1bmxxTDM2SDMzdU5pQ0ItMWFrRV9zMEJCTE5sbnFiWWlxOXczT1g3TWpBZDZHUjVISEpRejFSV3J3Zzc1Rk9qTmt2cHhhVzFfS1UwMTFmdXFkbEdveGtNb3FablBBXzhnYV91TVUyWkFwdVgwb09lYzVDQ2p1c1UyRlYwNUo5NFJaMEJIUW9NSm9ySkpzTlJ0YVNYQ01scm5idHdhS1Nz?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -31,19 +31,19 @@ This page brings together the latest health news about “dama” and lists the 
 
 ## Related News (3)
 
+### [Arthritis Day: Stanford Researchers Explore Possibility To Treat Osteoarthritis Without Knee Replacement Surgery - Health and Me](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRFVrUENveEt4cmZZOTkwdDVnb2J4WEc4NVNvelZqcTNvTjJleWI2cTd4RW9pUm1ob012Y3Ewb0xqWVEzbFBhRDUya05BZFZaMDAyTmN0a1pYYnlHSGFsU2ZPeS1DU3F6dnJwbS1ZcFBOMHlhQkNZbUVFMVc4Q3N2SFJMYzJOMkNKMk5Td3NPUDRsT2pPZWdFWGNhSUtpQTVSRUNNOTBmQWFjMGVlSGc1TmpPX3pSWk8waVExd0ozSl9uR0ZFaXRoUkFMMG1sM3Z6aXFIaDBhYUNuc2RSd1hMNnJfckhFcTZkZ3JWejNBcjJJbXhFZGxaRTdkOEh6dw?oc=5)
+
+2026-10-12
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRFVrUENveEt4cmZZOTkwdDVnb2J4WEc4NVNvelZqcTNvTjJleWI2cTd4RW9pUm1ob012Y3Ewb0xqWVEzbFBhRDUya05BZFZaMDAyTmN0a1pYYnlHSGFsU2ZPeS1DU3F6dnJwbS1ZcFBOMHlhQkNZbUVFMVc4Q3N2SFJMYzJOMkNKMk5Td3NPUDRsT2pPZWdFWGNhSUtpQTVSRUNNOTBmQWFjMGVlSGc1TmpPX3pSWk8waVExd0ozSl9uR0ZFaXRoUkFMMG1sM3Z6aXFIaDBhYUNuc2RSd1hMNnJfckhFcTZkZ3JWejNBcjJJbXhFZGxaRTdkOEh6dw?oc=5)
+
+---
+
 ### [Asthma Symptoms Alone Offer Limited Insight into Attack Risk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWVBOERkOGVmS0swSFNIcWdkWThZVXBJQ1Nvbm8wQVYtNEp6N2ZNVld5aUYzRm0yTXdQQk0wZ2VNTjl4UFRuekZQcTJEczExZjNpNEtablJfS1ZHVzlpQWxVeHk1aXVoUzVKZGFQRTFreTQ5MzRBbFlWOWxLX3BkRDEyS294OEYwMW1hb2ZPb1RpcHpLVVp2UHRqc195T29pU0JVVXlXWXI?oc=5)
 
 2026-10-11
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWVBOERkOGVmS0swSFNIcWdkWThZVXBJQ1Nvbm8wQVYtNEp6N2ZNVld5aUYzRm0yTXdQQk0wZ2VNTjl4UFRuekZQcTJEczExZjNpNEtablJfS1ZHVzlpQWxVeHk1aXVoUzVKZGFQRTFreTQ5MzRBbFlWOWxLX3BkRDEyS294OEYwMW1hb2ZPb1RpcHpLVVp2UHRqc195T29pU0JVVXlXWXI?oc=5)
-
----
-
-### [An attention-enhanced residual network framework for structural damage detection based on structural health monitoring data](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwTFJYSkxYWTR6SkFIOXJqQml0SS1vRDJ2dHI5SERncEJrTHNCMkZkUy1nUWVOZjdKcXFEcVR5MXpfS2Z2QUM2ZnlGQUhvVTVpazJybmVpNUNacDBBVkk0?oc=5)
-
-2026-10-11
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwTFJYSkxYWTR6SkFIOXJqQml0SS1vRDJ2dHI5SERncEJrTHNCMkZkUy1nUWVOZjdKcXFEcVR5MXpfS2Z2QUM2ZnlGQUhvVTVpazJybmVpNUNacDBBVkk0?oc=5)
 
 ---
 

@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 
 ## Related News (1)
 
-### [Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSlFpVzdWUWZJQ09lamN3OC11ZDdGa29yXzB6OVdLZThlM0t5OUgzeExSYl9QWGRGMjRjU2JTNlNFTHNCUDhndFY2MnlyRXcwNTBCekx1ZXR0c3FpMUY1c3ZxQnVpS19iZDBaeVpIaw?oc=5)
+### [Arthritis Day: Stanford Researchers Explore Possibility To Treat Osteoarthritis Without Knee Replacement Surgery - Health and Me](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRFVrUENveEt4cmZZOTkwdDVnb2J4WEc4NVNvelZqcTNvTjJleWI2cTd4RW9pUm1ob012Y3Ewb0xqWVEzbFBhRDUya05BZFZaMDAyTmN0a1pYYnlHSGFsU2ZPeS1DU3F6dnJwbS1ZcFBOMHlhQkNZbUVFMVc4Q3N2SFJMYzJOMkNKMk5Td3NPUDRsT2pPZWdFWGNhSUtpQTVSRUNNOTBmQWFjMGVlSGc1TmpPX3pSWk8waVExd0ozSl9uR0ZFaXRoUkFMMG1sM3Z6aXFIaDBhYUNuc2RSd1hMNnJfckhFcTZkZ3JWejNBcjJJbXhFZGxaRTdkOEh6dw?oc=5)
 
-2026-10-06 <span class="news-indication-tag">osteoarthritis</span>
+2026-10-12 <span class="news-indication-tag">dama</span> <span class="news-indication-tag">osteoarthritis</span>
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSlFpVzdWUWZJQ09lamN3OC11ZDdGa29yXzB6OVdLZThlM0t5OUgzeExSYl9QWGRGMjRjU2JTNlNFTHNCUDhndFY2MnlyRXcwNTBCekx1ZXR0c3FpMUY1c3ZxQnVpS19iZDBaeVpIaw?oc=5)
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRFVrUENveEt4cmZZOTkwdDVnb2J4WEc4NVNvelZqcTNvTjJleWI2cTd4RW9pUm1ob012Y3Ewb0xqWVEzbFBhRDUya05BZFZaMDAyTmN0a1pYYnlHSGFsU2ZPeS1DU3F6dnJwbS1ZcFBOMHlhQkNZbUVFMVc4Q3N2SFJMYzJOMkNKMk5Td3NPUDRsT2pPZWdFWGNhSUtpQTVSRUNNOTBmQWFjMGVlSGc1TmpPX3pSWk8waVExd0ozSl9uR0ZFaXRoUkFMMG1sM3Z6aXFIaDBhYUNuc2RSd1hMNnJfckhFcTZkZ3JWejNBcjJJbXhFZGxaRTdkOEh6dw?oc=5)
 
 ---
 

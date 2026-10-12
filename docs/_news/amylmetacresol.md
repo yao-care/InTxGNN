@@ -14,7 +14,7 @@ permalink: /news/amylmetacresol/
 ---
 
 <p class="key-answer" data-question="What news is there about Amylmetacresol?">
-<strong>Amylmetacresol</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Amylmetacresol</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,37 +40,53 @@ This page combines the AI-predicted indications for Amylmetacresol with the late
 <p><a href="{{ '/drugs/amylmetacresol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
 
-### [HPV vaccines protect against cancer. Could they benefit pregnancy?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW9WX01PRGhXaTdtR0xHSUVtUk4zUHhLWUNGMU8xUEJQSERtZ2t4c0VmR3V2R3o4RFpreFNYTnN3VEJZbXl3S09OeHJNNGhxZFh6aXRZWWZEb3ZFN003QWJQODdqV1piQUNCTEpzaEY1N3dhNHRuQTh5M09kbFd3NnFaelljY3pEVFB0RmpPOVJMTW5SeUs4UW1QZFNuUDJVVDBnQVd0YkdadEN1V2sweWh3?oc=5)
+### ['Living proof': Personalized cancer treatment leads to better outcomes and renewed hope](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV09nUGJDSk90a0tDQ0J2YWJZVGZUWnUwOGZjVkRLS01aZHYzM1pWd180b3RNakpRcC04NDBWb3pCT0o3Q1I1UmphT216LUVCbm5wRklydGhpYWlLdy1XSktQNy1LRjJSRTJiNHcxeVhZLVp3RC02b2lkZGVNcFFiQk9Ec2ptdzIxZFdyWGtBcW5JTUUyall2OHNTYzZOSHl5cUFxTGdZWG5VYzFfYlFGYnNWMnRXckJvZzZhMUZuZVZfTkRlZ3Bhc25Ka25UY2xf?oc=5)
+
+2026-10-12 <span class="news-indication-tag">cancer</span>
+
+Source: [WWMT](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV09nUGJDSk90a0tDQ0J2YWJZVGZUWnUwOGZjVkRLS01aZHYzM1pWd180b3RNakpRcC04NDBWb3pCT0o3Q1I1UmphT216LUVCbm5wRklydGhpYWlLdy1XSktQNy1LRjJSRTJiNHcxeVhZLVp3RC02b2lkZGVNcFFiQk9Ec2ptdzIxZFdyWGtBcW5JTUUyall2OHNTYzZOSHl5cUFxTGdZWG5VYzFfYlFGYnNWMnRXckJvZzZhMUZuZVZfTkRlZ3Bhc25Ka25UY2xf?oc=5)
+
+---
+
+### [Study Finds Lower Pregnancy Risks in HPV-Vaccinated Women - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
 
 2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW9WX01PRGhXaTdtR0xHSUVtUk4zUHhLWUNGMU8xUEJQSERtZ2t4c0VmR3V2R3o4RFpreFNYTnN3VEJZbXl3S09OeHJNNGhxZFh6aXRZWWZEb3ZFN003QWJQODdqV1piQUNCTEpzaEY1N3dhNHRuQTh5M09kbFd3NnFaelljY3pEVFB0RmpPOVJMTW5SeUs4UW1QZFNuUDJVVDBnQVd0YkdadEN1V2sweWh3?oc=5)
+Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
+
+---
+
+### [More active mitochondria may help chronic myeloid leukemia cells withstand treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxORC1MYzVzbnpiVEpSTWZGRUFuSjV0YWNzQjdQMnN2SzRtam01WEQwMFNWaGVuYXczcjhGQVBhUVdUdGJuR05GcDIzbUFteDREcGNReE1jd05NQkJLTm5YTWRzRVVVNVk2Q3owN2xDQmpKbmZEcDc3czdVQmxqU0FkTzlLY2x4bHR6dThhVTA4Z0M?oc=5)
+
+2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">myeloid leukemia</span> <span class="news-indication-tag">leukemia</span> <span class="news-indication-tag">myeloid leukemia</span> <span class="news-indication-tag">myeloid leukemia</span> <span class="news-indication-tag">myeloid leukemia</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxORC1MYzVzbnpiVEpSTWZGRUFuSjV0YWNzQjdQMnN2SzRtam01WEQwMFNWaGVuYXczcjhGQVBhUVdUdGJuR05GcDIzbUFteDREcGNReE1jd05NQkJLTm5YTWRzRVVVNVk2Q3owN2xDQmpKbmZEcDc3czdVQmxqU0FkTzlLY2x4bHR6dThhVTA4Z0M?oc=5)
+
+---
+
+### [Oral Vitamin C Misses Primary End Point in CCUS but Shows Survival Signal - Oncology Nursing News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOemNvUlVNSE5nSFZCVTlMZ0hOcG9OMERKNlhKSU9ZVEVmbTUzR1p5RzlCUi16eWlnOUE4c1VTYjV5MDdnX2ZmRDBYTDJVY19nckU4S3ZfVkxzT1hrNXM5TzJZbkJhN01sQUF1WkUtQThtbnhCb2F3ZGFZZjhtRk5pRnNydXMxQ2ZnNG0xVXk5TS1zblktR0V4U0V1M0ZjdzBDRkIxVE90MlRoN2JKN1E?oc=5)
+
+2026-10-12 <span class="news-indication-tag">cancer</span>
+
+Source: [Oncology Nursing News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOemNvUlVNSE5nSFZCVTlMZ0hOcG9OMERKNlhKSU9ZVEVmbTUzR1p5RzlCUi16eWlnOUE4c1VTYjV5MDdnX2ZmRDBYTDJVY19nckU4S3ZfVkxzT1hrNXM5TzJZbkJhN01sQUF1WkUtQThtbnhCb2F3ZGFZZjhtRk5pRnNydXMxQ2ZnNG0xVXk5TS1zblktR0V4U0V1M0ZjdzBDRkIxVE90MlRoN2JKN1E?oc=5)
+
+---
+
+### [Breast cancer emerging as most common cancer among younger women, don’t ignore early signs: Oncologist](https://news.google.com/rss/articles/CBMixgFBVV95cUxOREhaOHZFZUJPN2ZBbUdSRFJtZk5mMTlDQXNiM25WWTE4WFFaWTdYYldvellQVGZ0MVYwQ3lsV2hDSEluWGNUZzVnVUpaVjBXZ1poMHdLb25SRXM2cVpBV1FFUXVNM0ZGb2ZJQWVMRHhvV0ZXYlQ4b1lwNXBrRm9vZE1yYkZrSnNJRnluRFZ3ODZZY3Ntb2RxRmM4aXluT1dWVVA2bUZHbHNNNjFXV0RCc1FGVFNEOXd2cDJ1Z29iWmtVM2RNa2c?oc=5)
+
+2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Newspatrolling.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxOREhaOHZFZUJPN2ZBbUdSRFJtZk5mMTlDQXNiM25WWTE4WFFaWTdYYldvellQVGZ0MVYwQ3lsV2hDSEluWGNUZzVnVUpaVjBXZ1poMHdLb25SRXM2cVpBV1FFUXVNM0ZGb2ZJQWVMRHhvV0ZXYlQ4b1lwNXBrRm9vZE1yYkZrSnNJRnluRFZ3ODZZY3Ntb2RxRmM4aXluT1dWVVA2bUZHbHNNNjFXV0RCc1FGVFNEOXd2cDJ1Z29iWmtVM2RNa2c?oc=5)
 
 ---
 
 ### [Breast Cancer: Know the Risks, Recognise the Signs & Get Checked - Health and Me](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGhlYnEyWDhRb1IyYjJsRG1zNDVjOVl1Z2NkbEFLbDlQOUNkVkFnTEwtRHNrSjR6b0tjWlkyN3pEQXExcVZna3d2MDlCU1lGUHZyU3FzMWw1M1RMd0RpajRpNElIZVIxZzVMTE5RQXpNLVJTdjNYWWdlNUNBNGYtSi1uSnJnYXJxTXl6RDVrbUs5cFlvMjhqckM5UDkyRzVaY09jWVJwVnQ2dlBfQmRWS09FdEx5NThsd2Y5anJadw?oc=5)
 
-2026-10-12 <span class="news-indication-tag">cancer</span>
+2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Health and Me](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGhlYnEyWDhRb1IyYjJsRG1zNDVjOVl1Z2NkbEFLbDlQOUNkVkFnTEwtRHNrSjR6b0tjWlkyN3pEQXExcVZna3d2MDlCU1lGUHZyU3FzMWw1M1RMd0RpajRpNElIZVIxZzVMTE5RQXpNLVJTdjNYWWdlNUNBNGYtSi1uSnJnYXJxTXl6RDVrbUs5cFlvMjhqckM5UDkyRzVaY09jWVJwVnQ2dlBfQmRWS09FdEx5NThsd2Y5anJadw?oc=5)
-
----
-
-### [House cats can help unlock better cancer treatments for humans: Study - Awaz The Voice](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1ZQck1iRmJ3TV90QkdUR0xyQkg0SjFPLUk0OWJVNXlDd3hGVmhRaHFkRURkNmtQVXRtVC1iX05CVUpIVkl3YUhhZjBZb2FCbk5jUl9rY3FvU2RjUXdINTdweTVna0ZpOWxLQjFfUHBhbzJnNmcySUJsazRQUUgtdU9BWlRkQ0FqNlJ1bHRueWpZdWp5ZmtqQmY0bWJpWmJ5ZlhXQl9OaG5kNG0ybzQtcUNoVk1BSW1RbTJR?oc=5)
-
-2026-10-12 <span class="news-indication-tag">cancer</span>
-
-Source: [Awaz The Voice](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1ZQck1iRmJ3TV90QkdUR0xyQkg0SjFPLUk0OWJVNXlDd3hGVmhRaHFkRURkNmtQVXRtVC1iX05CVUpIVkl3YUhhZjBZb2FCbk5jUl9rY3FvU2RjUXdINTdweTVna0ZpOWxLQjFfUHBhbzJnNmcySUJsazRQUUgtdU9BWlRkQ0FqNlJ1bHRueWpZdWp5ZmtqQmY0bWJpWmJ5ZlhXQl9OaG5kNG0ybzQtcUNoVk1BSW1RbTJR?oc=5)
-
----
-
-### [Delhi doctors see GI cancer patients as young as 15; could air pollution be a hidden risk? - The Times of India](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdmdqV2YxemU5VFNOUXBndFd0cFRJRlZEcmFFQzR2eXhxRWVfYjU3SDFDWkRXZ213cS1TbVlDTktUeXFLZ0lQN2ZDQ2xBb2hqVWc0Z3I0NFZaN2RDNlEyalVVMUdiRUtsWmJSUEdndE15U2xZV29QWFp6anZtLUZiQUstb2tLR1Y5SHd0SDFaTjhlLU54QVB3T3FkdjVEa2ZPbHZadjdUUnhENUJGRkZJYkh0eFZEN1hEU0VjcUhaS3FBX21JTzRSVGlHdnNnenlHRnc1WnRzQy1PbWhKY1dTWk1KYlJQQnNyV2oweVJB0gHzAUFVX3lxTE1YOGZPbUJBRjRXdkZoeE9mbnlBaE02Umo2RjlsaGFnRWVRTW81Rl9ISG5GTzR0TFdJc3JteUpHZnVTaVRKbGE4cnhVSVpXTlV0VmpLZ2pmMU10eWwzeGJSYVllb0dzU3drNjJJbVAyYi15VjdpeDNwZjVMTDRKaGc5NHl0V1N5V1NRRXJyZWo4NU5ZRzZibk93ejVjejIyZDN3TlRraG1iSzQxc3RTaFhNTW95T1FTUW9lMER1WXdwUDdmWVFOaExlS1lZMDZjZkt5Y3lHbUxLQ2lRRlpsY0lnd0JTdzB0TEZIQkttbFd6X0h6NA?oc=5)
-
-2026-10-12 <span class="news-indication-tag">cancer</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdmdqV2YxemU5VFNOUXBndFd0cFRJRlZEcmFFQzR2eXhxRWVfYjU3SDFDWkRXZ213cS1TbVlDTktUeXFLZ0lQN2ZDQ2xBb2hqVWc0Z3I0NFZaN2RDNlEyalVVMUdiRUtsWmJSUEdndE15U2xZV29QWFp6anZtLUZiQUstb2tLR1Y5SHd0SDFaTjhlLU54QVB3T3FkdjVEa2ZPbHZadjdUUnhENUJGRkZJYkh0eFZEN1hEU0VjcUhaS3FBX21JTzRSVGlHdnNnenlHRnc1WnRzQy1PbWhKY1dTWk1KYlJQQnNyV2oweVJB0gHzAUFVX3lxTE1YOGZPbUJBRjRXdkZoeE9mbnlBaE02Umo2RjlsaGFnRWVRTW81Rl9ISG5GTzR0TFdJc3JteUpHZnVTaVRKbGE4cnhVSVpXTlV0VmpLZ2pmMU10eWwzeGJSYVllb0dzU3drNjJJbVAyYi15VjdpeDNwZjVMTDRKaGc5NHl0V1N5V1NRRXJyZWo4NU5ZRzZibk93ejVjejIyZDN3TlRraG1iSzQxc3RTaFhNTW95T1FTUW9lMER1WXdwUDdmWVFOaExlS1lZMDZjZkt5Y3lHbUxLQ2lRRlpsY0lnd0JTdzB0TEZIQkttbFd6X0h6NA?oc=5)
 
 ---
 
@@ -82,27 +98,19 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV
 
 ---
 
-### [The 1 Thing To Remember About Your PSA Results During Prostate Cancer Screening](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZuMDQwYW9QazB5VlpKS0txU01fY0UyMjczNUkwM2FNSXhRcVhhQXFoaWRYRno4ZVZ2X1dBTHdPR3JkcjhaZk8tdnhDZXhaM2d2UHdHUUg4ZklhRWo1OV83aEtVU1FmZWJnMmpqQ2JDVlVzNXcxbkd6M3B2dFo0a0RqSFRidw?oc=5)
+### [Scared about testing for breast cancer? Oncologist debunks 5 myths that can stop women from getting the right care | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
 
-2026-10-10 <span class="news-indication-tag">cancer</span>
+2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZuMDQwYW9QazB5VlpKS0txU01fY0UyMjczNUkwM2FNSXhRcVhhQXFoaWRYRno4ZVZ2X1dBTHdPR3JkcjhaZk8tdnhDZXhaM2d2UHdHUUg4ZklhRWo1OV83aEtVU1FmZWJnMmpqQ2JDVlVzNXcxbkd6M3B2dFo0a0RqSFRidw?oc=5)
-
----
-
-### [Can a blood test detect ovarian cancer early? What patients should know - The Hans India](https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2gtQVJQNWJuN1RuWnd6OG5vZnptTlY1R1NPQWhQRnZrOWJ2eXZFOUViSngtRGw3amJPbXowajY0WHRUSG02WGFmamhuVEdGTWVtT0JHVlRnUkd4eXNtWUVqTXRsbXZ3MU1VM2s3djJYZjRCY1A0cXlwVHBBcDhaYWVtVnFyRXNFOHcxNHoxZU9CMF9BR2dicHhJVkZQSkhfcy12ZG9WbXZPNDJxUlRTS0Nsc05CQ2JPaDN4XzBCaw?oc=5)
-
-2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
-
-Source: [The Hans India](https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2gtQVJQNWJuN1RuWnd6OG5vZnptTlY1R1NPQWhQRnZrOWJ2eXZFOUViSngtRGw3amJPbXowajY0WHRUSG02WGFmamhuVEdGTWVtT0JHVlRnUkd4eXNtWUVqTXRsbXZ3MU1VM2s3djJYZjRCY1A0cXlwVHBBcDhaYWVtVnFyRXNFOHcxNHoxZU9CMF9BR2dicHhJVkZQSkhfcy12ZG9WbXZPNDJxUlRTS0Nsc05CQ2JPaDN4XzBCaw?oc=5)
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
 
 ---
 
-### [Advances in prognostic and predictive biomarkers for breast cancer - Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
+### [The Deccan Hospital, creates awareness on prostate cancer and importance of early detection - The Hans India](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOEMyZWhfLXpRcDhvdmRiNTZGdGtFeElEcEFFQXNpRXJpV0hhdURCM1RPTlRJNTNwZ0ZZSlI0THhoRjBLLTNyNjk5endqVVVZU2p3LUhwLU54NzloOFNvZjlrWlhqdUdacTR1cEs5aHhmbHoxUnlSSmQ5LUczQkptUlNGUGIxMXlIMkNlQ1BlX1huYzZkU0hiLVZNSjdZY2s3dWZqTThGNkZDTklVcWptRWRpUUxrTm9GMFZxcjZERFdpSzN5SEFNWm10SmpSZ2lPNXIyMUQ2N19wQnNSYVE?oc=5)
 
-2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-06 <span class="news-indication-tag">cancer</span>
 
-Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
+Source: [The Hans India](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOEMyZWhfLXpRcDhvdmRiNTZGdGtFeElEcEFFQXNpRXJpV0hhdURCM1RPTlRJNTNwZ0ZZSlI0THhoRjBLLTNyNjk5endqVVVZU2p3LUhwLU54NzloOFNvZjlrWlhqdUdacTR1cEs5aHhmbHoxUnlSSmQ5LUczQkptUlNGUGIxMXlIMkNlQ1BlX1huYzZkU0hiLVZNSjdZY2s3dWZqTThGNkZDTklVcWptRWRpUUxrTm9GMFZxcjZERFdpSzN5SEFNWm10SmpSZ2lPNXIyMUQ2N19wQnNSYVE?oc=5)
 
 ---
 

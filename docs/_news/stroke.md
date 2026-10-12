@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "paralysis (stroke) News"
+title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about paralysis (stroke). 2 articles, 15 related drugs."
+description: "Health news about stroke. 1 articles, 15 related drugs."
 permalink: /news/stroke/
 ---
 
-# paralysis (stroke) News
+# stroke News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about paralysis (stroke)?">
-<strong>paralysis (stroke)</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
+<p class="key-answer" data-question="What news is there about stroke?">
+<strong>stroke</strong> currently has <strong>1 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “paralysis” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “stroke” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -43,21 +43,13 @@ This page brings together the latest health news about “paralysis” and lists
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Never ignore chest pain; awareness, preventive care vital for heart health: Doctors - Telegraph India](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcERGbXZPWFB5SXFQSVlJWUNmNFE5OVJsbHhZS0Jhcm9yTnE3RUlzbTNrUEdRazAyblZQUU1iNG9kMzA4bElyOVRyTU1xYzJmNWVXMmtFaktfTHFCUnMwa2tudHJZZkNfSzJ0QmFkQVlXdGptZmdYdWI3M2wwUFJUM3gwakNkVHhyZjEwOURWclA1eFdTTVBEd1JoOElxOG95aDM0cWR0cFZxUE9xdGRoc0VFWm1mWEpfMUswUnIyR0N0bFA0UjluZVFVaHUwejNHOGFoaGpSY3U3RTRqQmFWLXl30gHnAUFVX3lxTE5GaFJXOHl0TENYWkxEUW9qdWxEZHZYbUFCc3BfRXAzY05tYjBuNWUwNFNsajRyMkwwVUhkNjBCeXMtYUVFQk5rMGV4VjI2STZiUUdKaWJhYnljU2l2a1FfQVdLd05hVzJWc1V2QXViMGJxc0prN29PUy1INFJQWTRJaGpYUUlVNy1vQlVmSk1TRjM2bWdFWEI3ZTFJejhFQ3FwR1BOaExIOWpnaG1qdHlTZVVDRUhoeXRlU3lveTRFNXpRQ0JBRFdRd1RlRHljVWdSUVBSdkVkYUwxb3FEVWIya3NweTZPaw?oc=5)
 
 2026-10-12
 
 Source: [Telegraph India](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcERGbXZPWFB5SXFQSVlJWUNmNFE5OVJsbHhZS0Jhcm9yTnE3RUlzbTNrUEdRazAyblZQUU1iNG9kMzA4bElyOVRyTU1xYzJmNWVXMmtFaktfTHFCUnMwa2tudHJZZkNfSzJ0QmFkQVlXdGptZmdYdWI3M2wwUFJUM3gwakNkVHhyZjEwOURWclA1eFdTTVBEd1JoOElxOG95aDM0cWR0cFZxUE9xdGRoc0VFWm1mWEpfMUswUnIyR0N0bFA0UjluZVFVaHUwejNHOGFoaGpSY3U3RTRqQmFWLXl30gHnAUFVX3lxTE5GaFJXOHl0TENYWkxEUW9qdWxEZHZYbUFCc3BfRXAzY05tYjBuNWUwNFNsajRyMkwwVUhkNjBCeXMtYUVFQk5rMGV4VjI2STZiUUdKaWJhYnljU2l2a1FfQVdLd05hVzJWc1V2QXViMGJxc0prN29PUy1INFJQWTRJaGpYUUlVNy1vQlVmSk1TRjM2bWdFWEI3ZTFJejhFQ3FwR1BOaExIOWpnaG1qdHlTZVVDRUhoeXRlU3lveTRFNXpRQ0JBRFdRd1RlRHljVWdSUVBSdkVkYUwxb3FEVWIya3NweTZPaw?oc=5)
-
----
-
-### [Brain-Computer Interface Enables Coordinated Speech and Movement - European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON19ONUhEa1FWekFHMmV2V0o5aWdnLXJ3THpkMjRUVXVFNmwtVXhjTXpxVGhZUFBLSEhEOWszc2pvckdFZGVyN0UtM2ZjM3p1OUt1YXJ5YVpQbHFtWkNTOXBoTE1SeE1vbTlyTEI2QWhjMlNRTmZLN2c4SVp6V3ptZVZtNDdjSlljMWVXYWF5TTJkSjlOdzZXVGZ5NF9DTnh4dTFGLWZPaXJMcUk?oc=5)
-
-2026-10-09
-
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON19ONUhEa1FWekFHMmV2V0o5aWdnLXJ3THpkMjRUVXVFNmwtVXhjTXpxVGhZUFBLSEhEOWszc2pvckdFZGVyN0UtM2ZjM3p1OUt1YXJ5YVpQbHFtWkNTOXBoTE1SeE1vbTlyTEI2QWhjMlNRTmZLN2c4SVp6V3ptZVZtNDdjSlljMWVXYWF5TTJkSjlOdzZXVGZ5NF9DTnh4dTFGLWZPaXJMcUk?oc=5)
 
 ---
 

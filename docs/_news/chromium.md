@@ -42,19 +42,19 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 
 ## Related News (2)
 
-### [HPV vaccines protect against cancer. Could they benefit pregnancy?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW9WX01PRGhXaTdtR0xHSUVtUk4zUHhLWUNGMU8xUEJQSERtZ2t4c0VmR3V2R3o4RFpreFNYTnN3VEJZbXl3S09OeHJNNGhxZFh6aXRZWWZEb3ZFN003QWJQODdqV1piQUNCTEpzaEY1N3dhNHRuQTh5M09kbFd3NnFaelljY3pEVFB0RmpPOVJMTW5SeUs4UW1QZFNuUDJVVDBnQVd0YkdadEN1V2sweWh3?oc=5)
+### [Study Finds Lower Pregnancy Risks in HPV-Vaccinated Women - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
 
 2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW9WX01PRGhXaTdtR0xHSUVtUk4zUHhLWUNGMU8xUEJQSERtZ2t4c0VmR3V2R3o4RFpreFNYTnN3VEJZbXl3S09OeHJNNGhxZFh6aXRZWWZEb3ZFN003QWJQODdqV1piQUNCTEpzaEY1N3dhNHRuQTh5M09kbFd3NnFaelljY3pEVFB0RmpPOVJMTW5SeUs4UW1QZFNuUDJVVDBnQVd0YkdadEN1V2sweWh3?oc=5)
+Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
 
 ---
 
-### [Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSlFpVzdWUWZJQ09lamN3OC11ZDdGa29yXzB6OVdLZThlM0t5OUgzeExSYl9QWGRGMjRjU2JTNlNFTHNCUDhndFY2MnlyRXcwNTBCekx1ZXR0c3FpMUY1c3ZxQnVpS19iZDBaeVpIaw?oc=5)
+### [Arthritis Day: Stanford Researchers Explore Possibility To Treat Osteoarthritis Without Knee Replacement Surgery - Health and Me](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRFVrUENveEt4cmZZOTkwdDVnb2J4WEc4NVNvelZqcTNvTjJleWI2cTd4RW9pUm1ob012Y3Ewb0xqWVEzbFBhRDUya05BZFZaMDAyTmN0a1pYYnlHSGFsU2ZPeS1DU3F6dnJwbS1ZcFBOMHlhQkNZbUVFMVc4Q3N2SFJMYzJOMkNKMk5Td3NPUDRsT2pPZWdFWGNhSUtpQTVSRUNNOTBmQWFjMGVlSGc1TmpPX3pSWk8waVExd0ozSl9uR0ZFaXRoUkFMMG1sM3Z6aXFIaDBhYUNuc2RSd1hMNnJfckhFcTZkZ3JWejNBcjJJbXhFZGxaRTdkOEh6dw?oc=5)
 
-2026-10-06 <span class="news-indication-tag">osteoarthritis</span>
+2026-10-12 <span class="news-indication-tag">dama</span> <span class="news-indication-tag">osteoarthritis</span>
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSlFpVzdWUWZJQ09lamN3OC11ZDdGa29yXzB6OVdLZThlM0t5OUgzeExSYl9QWGRGMjRjU2JTNlNFTHNCUDhndFY2MnlyRXcwNTBCekx1ZXR0c3FpMUY1c3ZxQnVpS19iZDBaeVpIaw?oc=5)
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRFVrUENveEt4cmZZOTkwdDVnb2J4WEc4NVNvelZqcTNvTjJleWI2cTd4RW9pUm1ob012Y3Ewb0xqWVEzbFBhRDUya05BZFZaMDAyTmN0a1pYYnlHSGFsU2ZPeS1DU3F6dnJwbS1ZcFBOMHlhQkNZbUVFMVc4Q3N2SFJMYzJOMkNKMk5Td3NPUDRsT2pPZWdFWGNhSUtpQTVSRUNNOTBmQWFjMGVlSGc1TmpPX3pSWk8waVExd0ozSl9uR0ZFaXRoUkFMMG1sM3Z6aXFIaDBhYUNuc2RSd1hMNnJfckhFcTZkZ3JWejNBcjJJbXhFZGxaRTdkOEh6dw?oc=5)
 
 ---
 
