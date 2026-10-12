@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>4 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>3 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [Is my period pain normal?](https://news.google.com/rss/articles/CBMiakFVX3lxTE43OERJUkhFQmxkUFk4b2V0aTVnRjFaSi1QZWNHTzNuMXk1NGM3bW5HZHNPN0tKWHRJbG9sRnZpb3FRWWpKRE41MEs1ODllOWlsZjd1LXBoZk9wMHVaZ3VnNGNBNEhqd1RROWc?oc=5)
-
-2026-10-12 <span class="news-indication-tag">dama</span>
-
-Source: [Varsity](https://news.google.com/rss/articles/CBMiakFVX3lxTE43OERJUkhFQmxkUFk4b2V0aTVnRjFaSi1QZWNHTzNuMXk1NGM3bW5HZHNPN0tKWHRJbG9sRnZpb3FRWWpKRE41MEs1ODllOWlsZjd1LXBoZk9wMHVaZ3VnNGNBNEhqd1RROWc?oc=5)
-
----
+## Related News (3)
 
 ### [Asthma Symptoms Alone Offer Limited Insight into Attack Risk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWVBOERkOGVmS0swSFNIcWdkWThZVXBJQ1Nvbm8wQVYtNEp6N2ZNVld5aUYzRm0yTXdQQk0wZ2VNTjl4UFRuekZQcTJEczExZjNpNEtablJfS1ZHVzlpQWxVeHk1aXVoUzVKZGFQRTFreTQ5MzRBbFlWOWxLX3BkRDEyS294OEYwMW1hb2ZPb1RpcHpLVVp2UHRqc195T29pU0JVVXlXWXI?oc=5)
 
@@ -61,11 +53,11 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwTFJYSkxYWT
 
 ---
 
-### [Research Highlights Importance of Brain Health and Ageing - India News Network](https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhsbDU4NEUxTlZuLVFUcXZiMW55LXE2MU5KX2RDRHVlcC1fa2x5UlpuTllZUy05ck5ncG96QzhZNjNpWEljVk9OVlVId25MTmJpdnpzQmd0VU8tUHQ5cG15WGZCQjYxSWZ4V1c5YzFKQzJIalJQQzlESl9GaUVmS3NqMk1nM1lGUjFON3BOVzdZOGJFcEtnZ1Zidw?oc=5)
+### [Endometriosis takes toll on women's work lives, but much damage preventable: Expert](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOURzaXNyQ3NESXFqNjFjdDJFNDJYbW1oQkpicDAzTkF6QU95aE0yRmlSbkZ2RlVPdXF5d0NnTVBObHpaZXljMU4wLWFYZU0yYjZkUUExVlNfN0xlYXdzWENHOTZJN3ZOUTE4TDk0WUE0T0JyeXh0WGRtdUNPdEc1U2hDbmNJQXA1Z2NvNmhkaHA1a0I3d0RBX09PUkZXaV9iT2xXbVBLeTQ1dEI2Uk14UTlTMGllOUxRdk91Q0JqZ2QwWF9XX3pUT0FCbTNwb2xTN2M1dm8xeHJmckJ3TDBkX1E5cVXSAeoBQVVfeXFMT1BETGx5bTdZSUNkb0JIbE1WQW1VREF6bUZmeDg4RnRfVXBPLWFzcVFKQnpsc2NTdWNyV0d1YXYwdk12Yk9BRm96QmF3MjF0bW9LejlROTVJLW9KU3hEREthWEVZVFdOdmNzczVnR3ZDcl91NFA4Z0tXaV9tRGx4TlVralI0N3JtcW1xVGJkZ19GbzI1OTQzdGo4cWpPQXVKSTJYZi1VR2NodXdiemQ0Z1VuaDNtT3UwNVhCMzJnS1FNTUVHaXhqTHpabVh5S3VpNUNvNnhETWoyZXZlNGlENnhxRnY2RHNqX3Bn?oc=5)
 
-2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
+2026-10-06 <span class="news-indication-tag">dama</span>
 
-Source: [India News Network](https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhsbDU4NEUxTlZuLVFUcXZiMW55LXE2MU5KX2RDRHVlcC1fa2x5UlpuTllZUy05ck5ncG96QzhZNjNpWEljVk9OVlVId25MTmJpdnpzQmd0VU8tUHQ5cG15WGZCQjYxSWZ4V1c5YzFKQzJIalJQQzlESl9GaUVmS3NqMk1nM1lGUjFON3BOVzdZOGJFcEtnZ1Zidw?oc=5)
+Source: [Mid-Day](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOURzaXNyQ3NESXFqNjFjdDJFNDJYbW1oQkpicDAzTkF6QU95aE0yRmlSbkZ2RlVPdXF5d0NnTVBObHpaZXljMU4wLWFYZU0yYjZkUUExVlNfN0xlYXdzWENHOTZJN3ZOUTE4TDk0WUE0T0JyeXh0WGRtdUNPdEc1U2hDbmNJQXA1Z2NvNmhkaHA1a0I3d0RBX09PUkZXaV9iT2xXbVBLeTQ1dEI2Uk14UTlTMGllOUxRdk91Q0JqZ2QwWF9XX3pUT0FCbTNwb2xTN2M1dm8xeHJmckJ3TDBkX1E5cVXSAeoBQVVfeXFMT1BETGx5bTdZSUNkb0JIbE1WQW1VREF6bUZmeDg4RnRfVXBPLWFzcVFKQnpsc2NTdWNyV0d1YXYwdk12Yk9BRm96QmF3MjF0bW9LejlROTVJLW9KU3hEREthWEVZVFdOdmNzczVnR3ZDcl91NFA4Z0tXaV9tRGx4TlVralI0N3JtcW1xVGJkZ19GbzI1OTQzdGo4cWpPQXVKSTJYZi1VR2NodXdiemQ0Z1VuaDNtT3UwNVhCMzJnS1FNTUVHaXhqTHpabVh5S3VpNUNvNnhETWoyZXZlNGlENnhxRnY2RHNqX3Bn?oc=5)
 
 ---
 

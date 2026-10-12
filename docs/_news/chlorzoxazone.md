@@ -14,7 +14,7 @@ permalink: /news/chlorzoxazone/
 ---
 
 <p class="key-answer" data-question="What news is there about Chlorzoxazone?">
-<strong>Chlorzoxazone</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Chlorzoxazone</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,40 +29,24 @@ This page combines the AI-predicted indications for Chlorzoxazone with the lates
 <li>nephrogenic syndrome of inappropriate antidiuresis (99.7%)</li>
 <li>migraine with brainstem aura (99.7%)</li>
 <li>migraine with or without aura, susceptibility to (99.4%)</li>
-<li class="indication-matched">pulmonary hypertension (99.3%)<span class="indication-tag">📰 pulmonary hypertension</span></li>
+<li>pulmonary hypertension (99.3%)</li>
 <li>atrophoderma vermiculata (99.2%)</li>
 <li>ulerythema ophryogenesis (99.1%)</li>
 <li>kyphoscoliotic heart disease (99.1%)</li>
 <li class="indication-matched">rheumatoid arthritis (99.0%)<span class="indication-tag">📰 RA</span></li>
-<li class="indication-matched">headache disorder (99.0%)<span class="indication-tag">📰 headache disorder</span></li>
+<li>headache disorder (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chlorzoxazone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (1)
 
-### [Clinical Profile and Reported Functional Impact of Primary Headache Disorders in Children Attending a Tertiary Care Hospital in South India](https://news.google.com/rss/articles/CBMiigJBVV95cUxOaTFUWWFuLVNVRVNlQWJNX2JrNnI3TWNRQTVQRVNnXzd0bUUwd05YUGQyYXZvYXB6cWNIZHVQb0oyT0o5bFo0UFRzc2tYOV9ramdpZ1JveTV6OFN5SWdfeVFwcV9qSlQ1Q0tmNmJCVWt5NXloYllnejJPZHhMM0hDemJnOGRrcG11TFBFU3lVaGhOMVZIV2x5R2wyMGNUdGE1TW8zMTBuQ1lnWXRFUmRxZHJseWFfWE9zNkhoMUZpUDRYZkhXWHFudEN3RHVxX0NtSXJRdU10OGZUaENJOHhLOE5reUViUDZoTFhyVmJ5S19mMFhBTVp5Yno4amNnQjlpMTg5OVpTS0dKQQ?oc=5)
+### [HPV vaccines protect against cancer. Could they benefit pregnancy?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW9WX01PRGhXaTdtR0xHSUVtUk4zUHhLWUNGMU8xUEJQSERtZ2t4c0VmR3V2R3o4RFpreFNYTnN3VEJZbXl3S09OeHJNNGhxZFh6aXRZWWZEb3ZFN003QWJQODdqV1piQUNCTEpzaEY1N3dhNHRuQTh5M09kbFd3NnFaelljY3pEVFB0RmpPOVJMTW5SeUs4UW1QZFNuUDJVVDBnQVd0YkdadEN1V2sweWh3?oc=5)
 
-2026-10-11 <span class="news-indication-tag">headache disorder</span>
+2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [Cureus](https://news.google.com/rss/articles/CBMiigJBVV95cUxOaTFUWWFuLVNVRVNlQWJNX2JrNnI3TWNRQTVQRVNnXzd0bUUwd05YUGQyYXZvYXB6cWNIZHVQb0oyT0o5bFo0UFRzc2tYOV9ramdpZ1JveTV6OFN5SWdfeVFwcV9qSlQ1Q0tmNmJCVWt5NXloYllnejJPZHhMM0hDemJnOGRrcG11TFBFU3lVaGhOMVZIV2x5R2wyMGNUdGE1TW8zMTBuQ1lnWXRFUmRxZHJseWFfWE9zNkhoMUZpUDRYZkhXWHFudEN3RHVxX0NtSXJRdU10OGZUaENJOHhLOE5reUViUDZoTFhyVmJ5S19mMFhBTVp5Yno4amNnQjlpMTg5OVpTS0dKQQ?oc=5)
-
----
-
-### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
-
-2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">pulmonary hypertension</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
-
----
-
-### [HPV vaccine related with lower risk of pregnancy complications, Swedish study suggests - ET HealthWorld](https://news.google.com/rss/articles/CBMiogJBVV95cUxOZzlRMGdhbEh1VDFYcXd4OTVRZG93eS1TcGJveTBVY3B1UU11R0pRYTdDNFNOTXk1Ums0SVg4dERyeFNzUFdQTHI4TnkwaFRVQlZRRXFiVThNdUc5cS1vYlU1NnVmT2Z2OTBzcU9qYzc2TmdiTWNuQ1VURWJXUTFFQ2NRY0hKck5DSkFYS3RBMUxCd1N5RFkzemRWNFFvWmgzenRPek1XMzFCQ0dHWG9fdEhKMDFsY2hQdjgya3JwY0VKQkxNYXdZVmRHb2RjclFFSW82ZXV5ckJKQkVudy1SRlMzV2dxeGp2Qm9BdXRkNGRvaGhDQVI5ZW1ua09CTFlWWmZrYzdpLXpkRTBmQjFNdV93UnFKYnZBdlpkY2FXYVdRd9IB7gFBVV95cUxOcTJXTmwxM3VSVENtY2VMZVV6QlFndjhYS1BvWnRKRnhHeVNKUUlfOEhfZzVPaUxYWFVzS0VUSXloNFpndXdBM0lRdTE3N2QzQmFtRU9HU0E5TTYzTjItWWxtcGFQcXpFMWgtampiQnd5eUJiRXQ4M1VwNDFtdUJaZDdtWF95TE1TVy11NzFWbWx1UngxNFN1RFlCeUkwZ3cxRVQ4NUNDenlralo2QUtOaDY3S3U5SXdSRmprMTlDS053SzBYNlhKT2tBLXExZUNOSXExb2pvTlZ5aXJTTGRaOExfMDJEemRsek9fOFFn?oc=5)
-
-2026-10-08 <span class="news-indication-tag">RA</span>
-
-Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMiogJBVV95cUxOZzlRMGdhbEh1VDFYcXd4OTVRZG93eS1TcGJveTBVY3B1UU11R0pRYTdDNFNOTXk1Ums0SVg4dERyeFNzUFdQTHI4TnkwaFRVQlZRRXFiVThNdUc5cS1vYlU1NnVmT2Z2OTBzcU9qYzc2TmdiTWNuQ1VURWJXUTFFQ2NRY0hKck5DSkFYS3RBMUxCd1N5RFkzemRWNFFvWmgzenRPek1XMzFCQ0dHWG9fdEhKMDFsY2hQdjgya3JwY0VKQkxNYXdZVmRHb2RjclFFSW82ZXV5ckJKQkVudy1SRlMzV2dxeGp2Qm9BdXRkNGRvaGhDQVI5ZW1ua09CTFlWWmZrYzdpLXpkRTBmQjFNdV93UnFKYnZBdlpkY2FXYVdRd9IB7gFBVV95cUxOcTJXTmwxM3VSVENtY2VMZVV6QlFndjhYS1BvWnRKRnhHeVNKUUlfOEhfZzVPaUxYWFVzS0VUSXloNFpndXdBM0lRdTE3N2QzQmFtRU9HU0E5TTYzTjItWWxtcGFQcXpFMWgtampiQnd5eUJiRXQ4M1VwNDFtdUJaZDdtWF95TE1TVy11NzFWbWx1UngxNFN1RFlCeUkwZ3cxRVQ4NUNDenlralo2QUtOaDY3S3U5SXdSRmprMTlDS053SzBYNlhKT2tBLXExZUNOSXExb2pvTlZ5aXJTTGRaOExfMDJEemRsek9fOFFn?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW9WX01PRGhXaTdtR0xHSUVtUk4zUHhLWUNGMU8xUEJQSERtZ2t4c0VmR3V2R3o4RFpreFNYTnN3VEJZbXl3S09OeHJNNGhxZFh6aXRZWWZEb3ZFN003QWJQODdqV1piQUNCTEpzaEY1N3dhNHRuQTh5M09kbFd3NnFaelljY3pEVFB0RmpPOVJMTW5SeUs4UW1QZFNuUDJVVDBnQVd0YkdadEN1V2sweWh3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dasatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>15 news articles</strong>, with 10 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,77 +40,53 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (10)
+
+### [Here’s how much a flu vaccine may lower your dementia risk - The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
+
+2026-10-12 <span class="news-indication-tag">shingles</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
+
+---
+
+### [HPV vaccines protect against cancer. Could they benefit pregnancy?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW9WX01PRGhXaTdtR0xHSUVtUk4zUHhLWUNGMU8xUEJQSERtZ2t4c0VmR3V2R3o4RFpreFNYTnN3VEJZbXl3S09OeHJNNGhxZFh6aXRZWWZEb3ZFN003QWJQODdqV1piQUNCTEpzaEY1N3dhNHRuQTh5M09kbFd3NnFaelljY3pEVFB0RmpPOVJMTW5SeUs4UW1QZFNuUDJVVDBnQVd0YkdadEN1V2sweWh3?oc=5)
+
+2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW9WX01PRGhXaTdtR0xHSUVtUk4zUHhLWUNGMU8xUEJQSERtZ2t4c0VmR3V2R3o4RFpreFNYTnN3VEJZbXl3S09OeHJNNGhxZFh6aXRZWWZEb3ZFN003QWJQODdqV1piQUNCTEpzaEY1N3dhNHRuQTh5M09kbFd3NnFaelljY3pEVFB0RmpPOVJMTW5SeUs4UW1QZFNuUDJVVDBnQVd0YkdadEN1V2sweWh3?oc=5)
+
+---
+
+### [Breast Cancer: Know the Risks, Recognise the Signs & Get Checked - Health and Me](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGhlYnEyWDhRb1IyYjJsRG1zNDVjOVl1Z2NkbEFLbDlQOUNkVkFnTEwtRHNrSjR6b0tjWlkyN3pEQXExcVZna3d2MDlCU1lGUHZyU3FzMWw1M1RMd0RpajRpNElIZVIxZzVMTE5RQXpNLVJTdjNYWWdlNUNBNGYtSi1uSnJnYXJxTXl6RDVrbUs5cFlvMjhqckM5UDkyRzVaY09jWVJwVnQ2dlBfQmRWS09FdEx5NThsd2Y5anJadw?oc=5)
+
+2026-10-12 <span class="news-indication-tag">cancer</span>
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGhlYnEyWDhRb1IyYjJsRG1zNDVjOVl1Z2NkbEFLbDlQOUNkVkFnTEwtRHNrSjR6b0tjWlkyN3pEQXExcVZna3d2MDlCU1lGUHZyU3FzMWw1M1RMd0RpajRpNElIZVIxZzVMTE5RQXpNLVJTdjNYWWdlNUNBNGYtSi1uSnJnYXJxTXl6RDVrbUs5cFlvMjhqckM5UDkyRzVaY09jWVJwVnQ2dlBfQmRWS09FdEx5NThsd2Y5anJadw?oc=5)
+
+---
+
+### [House cats can help unlock better cancer treatments for humans: Study - Awaz The Voice](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1ZQck1iRmJ3TV90QkdUR0xyQkg0SjFPLUk0OWJVNXlDd3hGVmhRaHFkRURkNmtQVXRtVC1iX05CVUpIVkl3YUhhZjBZb2FCbk5jUl9rY3FvU2RjUXdINTdweTVna0ZpOWxLQjFfUHBhbzJnNmcySUJsazRQUUgtdU9BWlRkQ0FqNlJ1bHRueWpZdWp5ZmtqQmY0bWJpWmJ5ZlhXQl9OaG5kNG0ybzQtcUNoVk1BSW1RbTJR?oc=5)
+
+2026-10-12 <span class="news-indication-tag">cancer</span>
+
+Source: [Awaz The Voice](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1ZQck1iRmJ3TV90QkdUR0xyQkg0SjFPLUk0OWJVNXlDd3hGVmhRaHFkRURkNmtQVXRtVC1iX05CVUpIVkl3YUhhZjBZb2FCbk5jUl9rY3FvU2RjUXdINTdweTVna0ZpOWxLQjFfUHBhbzJnNmcySUJsazRQUUgtdU9BWlRkQ0FqNlJ1bHRueWpZdWp5ZmtqQmY0bWJpWmJ5ZlhXQl9OaG5kNG0ybzQtcUNoVk1BSW1RbTJR?oc=5)
+
+---
+
+### [Delhi doctors see GI cancer patients as young as 15; could air pollution be a hidden risk? - The Times of India](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdmdqV2YxemU5VFNOUXBndFd0cFRJRlZEcmFFQzR2eXhxRWVfYjU3SDFDWkRXZ213cS1TbVlDTktUeXFLZ0lQN2ZDQ2xBb2hqVWc0Z3I0NFZaN2RDNlEyalVVMUdiRUtsWmJSUEdndE15U2xZV29QWFp6anZtLUZiQUstb2tLR1Y5SHd0SDFaTjhlLU54QVB3T3FkdjVEa2ZPbHZadjdUUnhENUJGRkZJYkh0eFZEN1hEU0VjcUhaS3FBX21JTzRSVGlHdnNnenlHRnc1WnRzQy1PbWhKY1dTWk1KYlJQQnNyV2oweVJB0gHzAUFVX3lxTE1YOGZPbUJBRjRXdkZoeE9mbnlBaE02Umo2RjlsaGFnRWVRTW81Rl9ISG5GTzR0TFdJc3JteUpHZnVTaVRKbGE4cnhVSVpXTlV0VmpLZ2pmMU10eWwzeGJSYVllb0dzU3drNjJJbVAyYi15VjdpeDNwZjVMTDRKaGc5NHl0V1N5V1NRRXJyZWo4NU5ZRzZibk93ejVjejIyZDN3TlRraG1iSzQxc3RTaFhNTW95T1FTUW9lMER1WXdwUDdmWVFOaExlS1lZMDZjZkt5Y3lHbUxLQ2lRRlpsY0lnd0JTdzB0TEZIQkttbFd6X0h6NA?oc=5)
+
+2026-10-12 <span class="news-indication-tag">cancer</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdmdqV2YxemU5VFNOUXBndFd0cFRJRlZEcmFFQzR2eXhxRWVfYjU3SDFDWkRXZ213cS1TbVlDTktUeXFLZ0lQN2ZDQ2xBb2hqVWc0Z3I0NFZaN2RDNlEyalVVMUdiRUtsWmJSUEdndE15U2xZV29QWFp6anZtLUZiQUstb2tLR1Y5SHd0SDFaTjhlLU54QVB3T3FkdjVEa2ZPbHZadjdUUnhENUJGRkZJYkh0eFZEN1hEU0VjcUhaS3FBX21JTzRSVGlHdnNnenlHRnc1WnRzQy1PbWhKY1dTWk1KYlJQQnNyV2oweVJB0gHzAUFVX3lxTE1YOGZPbUJBRjRXdkZoeE9mbnlBaE02Umo2RjlsaGFnRWVRTW81Rl9ISG5GTzR0TFdJc3JteUpHZnVTaVRKbGE4cnhVSVpXTlV0VmpLZ2pmMU10eWwzeGJSYVllb0dzU3drNjJJbVAyYi15VjdpeDNwZjVMTDRKaGc5NHl0V1N5V1NRRXJyZWo4NU5ZRzZibk93ejVjejIyZDN3TlRraG1iSzQxc3RTaFhNTW95T1FTUW9lMER1WXdwUDdmWVFOaExlS1lZMDZjZkt5Y3lHbUxLQ2lRRlpsY0lnd0JTdzB0TEZIQkttbFd6X0h6NA?oc=5)
+
+---
 
 ### [Childhood cancer symptoms can be easily missed - here's what to look out for](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
 
 2026-10-11 <span class="news-indication-tag">cancer</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
-
----
-
-### [Can Air Pollution Damage Your Brain? What Long-Term Exposure May Do To Memory And Focus - Times Now](https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3o3Q3VLME1NY0FZWnZETkpDNEdWSWhTYXBfbDlmaHR1QmQtOW1qLUVvOEVEOUF6X3NWazljYVEySGM2Wmc0QWZHQmpQdzQyZnEyZEc2VzE4RFFtVHFZLW03MVpVU3RieWc3a0NLbWVLdl9kZXpyWVRJUndqeDZGWWtOOGVoT3JCdDBSbUM5QTFwTkXSAZgBQVVfeXFMTWc1bnZjMi1uLTJfSUlJZDA2NGdsV2RoNzNMMHRiakViX0FtOHFJb3hsVUVvc3JMejRSZ3FrVG8wMFB4WVhPU3dxSUJnUzY5RjZkRVhxWFl0dnFTbjVTcUxjWU5QUkcyX25Lcmx5RVRWN1pHWDVNQ2FKZ21yR05IdG5EN3NaMkFoRGQ5eDlWM19pQ21pRUpGS0I?oc=5)
-
-2026-10-11 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Times Now](https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3o3Q3VLME1NY0FZWnZETkpDNEdWSWhTYXBfbDlmaHR1QmQtOW1qLUVvOEVEOUF6X3NWazljYVEySGM2Wmc0QWZHQmpQdzQyZnEyZEc2VzE4RFFtVHFZLW03MVpVU3RieWc3a0NLbWVLdl9kZXpyWVRJUndqeDZGWWtOOGVoT3JCdDBSbUM5QTFwTkXSAZgBQVVfeXFMTWc1bnZjMi1uLTJfSUlJZDA2NGdsV2RoNzNMMHRiakViX0FtOHFJb3hsVUVvc3JMejRSZ3FrVG8wMFB4WVhPU3dxSUJnUzY5RjZkRVhxWFl0dnFTbjVTcUxjWU5QUkcyX25Lcmx5RVRWN1pHWDVNQ2FKZ21yR05IdG5EN3NaMkFoRGQ5eDlWM19pQ21pRUpGS0I?oc=5)
-
----
-
-### [Mitochondrial DNA Levels Linked to Cancer Mutation Burden](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWI1Tng0aE5LX210dVlSTFlobkR4cURFQTJSRWhvWWZnZzlRYkx0REtWYTJGMFFKU3hCbEwtcmlTOHNFWExOWks3RHVXRW9Ed05RUkQ4cHQ0c0ZpNzROVGtzT3ZzZGFtUXdMcWdkWmpFRV9rWV9QTGI1dl91SE9tRkdDVmYyeFFJZW4wU2JaUFJHS1pDcEZEZk1xM2VsUnN3?oc=5)
-
-2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWI1Tng0aE5LX210dVlSTFlobkR4cURFQTJSRWhvWWZnZzlRYkx0REtWYTJGMFFKU3hCbEwtcmlTOHNFWExOWks3RHVXRW9Ed05RUkQ4cHQ0c0ZpNzROVGtzT3ZzZGFtUXdMcWdkWmpFRV9rWV9QTGI1dl91SE9tRkdDVmYyeFFJZW4wU2JaUFJHS1pDcEZEZk1xM2VsUnN3?oc=5)
-
----
-
-### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
-
-2026-10-11 <span class="news-indication-tag">shingles</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
-
----
-
-### [Why a tighter watch or shoe could signal a complication after cancer treatment - The Indian Express](https://news.google.com/rss/articles/CBMi1gFBVV95cUxORm94YUFDdjBHWXZrNkd1bGktQnhYVV9jYVBqaEk5VEhDVXU5Z21WSkZ6ZzJfanFDamlmSHN1aERQNE96YmtYaDZaMHlDbkVXSEhOR05maTVqNDdIRm5lQnRZN2pvRkNRZXRrdzJQTGNUS19nU2VYV3dzQXlJOWdfNk9DYldIX3FVNGduNTNWRW1FY2JLdXdIWEc1bGtlbFJxTFFDYzJFbGhzTXV4YnVqRjU4NHNMX2NVekotRW03cmVNaldkV0xsUjhpOGlqWVdPOEFaeVl30gHcAUFVX3lxTFBSQWVJTUpXeWZqcmdkWDFmNWdidXo2c2poekFzN0NHaWNVR3E3cDF1cE5mOTJ0UUpMNktIaUNmVWpuWWdUOHI1bjViZ1pfYzc5WWNadEpFVXp6cWJ0UXRqUjB3SUdUNVRfVUtWWUhqbkpUbTlJMk5RdGNONGtSVE9fZFB4QkRVMkw3OXF3WWp6cDY2WEJxMnBfRXlYdXlGTGE3dHowWWZmLS1jb1liVmpiZ01hblkwYlg1NEpvWGszd1VjUVJKOFhoeF9EVUc4NXRPb1JXTnQ5aU50ZlM?oc=5)
-
-2026-10-11 <span class="news-indication-tag">cancer</span>
-
-Source: [The Indian Express](https://news.google.com/rss/articles/CBMi1gFBVV95cUxORm94YUFDdjBHWXZrNkd1bGktQnhYVV9jYVBqaEk5VEhDVXU5Z21WSkZ6ZzJfanFDamlmSHN1aERQNE96YmtYaDZaMHlDbkVXSEhOR05maTVqNDdIRm5lQnRZN2pvRkNRZXRrdzJQTGNUS19nU2VYV3dzQXlJOWdfNk9DYldIX3FVNGduNTNWRW1FY2JLdXdIWEc1bGtlbFJxTFFDYzJFbGhzTXV4YnVqRjU4NHNMX2NVekotRW03cmVNaldkV0xsUjhpOGlqWVdPOEFaeVl30gHcAUFVX3lxTFBSQWVJTUpXeWZqcmdkWDFmNWdidXo2c2poekFzN0NHaWNVR3E3cDF1cE5mOTJ0UUpMNktIaUNmVWpuWWdUOHI1bjViZ1pfYzc5WWNadEpFVXp6cWJ0UXRqUjB3SUdUNVRfVUtWWUhqbkpUbTlJMk5RdGNONGtSVE9fZFB4QkRVMkw3OXF3WWp6cDY2WEJxMnBfRXlYdXlGTGE3dHowWWZmLS1jb1liVmpiZ01hblkwYlg1NEpvWGszd1VjUVJKOFhoeF9EVUc4NXRPb1JXTnQ5aU50ZlM?oc=5)
-
----
-
-### [Delhi sees GI cancer patients as young as 15; experts flag pollution link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2xVUGcwaXlqTHhoMnc2eUF0VjBjRHB5cTBCUURWVnQ4LWNHSkRscWt6Ylk1dHRtdHVkZ1V0LXVrMDUwR1Q1Rnc5Z25fcnNRN1BCMnNsTUEtZDFSdmlKak5kVFJmQ1VVS2VVbm91MTBybW1BN3gyQy1pSmFoUktUZ1NUWnVSVDdZOHdDOXBFSk9OZUI5b2o1OVR1V3BzWnpfVFBVTlRFSGRaNXPSAbABQVVfeXFMTW43REo1NUJSSXBKSWtfNE1lOHZ3aURGTVZBcGpQbWVncFZFUjFzYVRjNjNYXy1xcTZUa1ZSak5aNUJyWm1kbmdmOEM0Vzl1Zmo5ODM3MGhJSExlWFNZU0lHdEFPWENjTFhJU2dtRk1FWG5ONF9DdEdaRXRuVkFERllzZXM1YlVQLXl2Ym00ZnZYaXpuY2ZpZS0zTzZrUlY2WFdVbVJZOW12VjZtalhGTDY?oc=5)
-
-2026-10-11 <span class="news-indication-tag">cancer</span>
-
-Source: [ThePrint](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2xVUGcwaXlqTHhoMnc2eUF0VjBjRHB5cTBCUURWVnQ4LWNHSkRscWt6Ylk1dHRtdHVkZ1V0LXVrMDUwR1Q1Rnc5Z25fcnNRN1BCMnNsTUEtZDFSdmlKak5kVFJmQ1VVS2VVbm91MTBybW1BN3gyQy1pSmFoUktUZ1NUWnVSVDdZOHdDOXBFSk9OZUI5b2o1OVR1V3BzWnpfVFBVTlRFSGRaNXPSAbABQVVfeXFMTW43REo1NUJSSXBKSWtfNE1lOHZ3aURGTVZBcGpQbWVncFZFUjFzYVRjNjNYXy1xcTZUa1ZSak5aNUJyWm1kbmdmOEM0Vzl1Zmo5ODM3MGhJSExlWFNZU0lHdEFPWENjTFhJU2dtRk1FWG5ONF9DdEdaRXRuVkFERllzZXM1YlVQLXl2Ym00ZnZYaXpuY2ZpZS0zTzZrUlY2WFdVbVJZOW12VjZtalhGTDY?oc=5)
-
----
-
-### [‘Every single patient matters’: The Sydney researcher weaponising AI to fight cancer - Ground News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmVVU1dlNE1QTHlMc01melZMRWZaRWVtRFQwYmhkX19hZmJnUjJKenZ6d0x4NHh5cUFVb2hmbUw2VExwYXdFY0gxb3k3aEMySmR1OVBFZjJ3UFowSVl1enZUYVdwM21MajNXWThubTZGa0R2d1VoT09JbDFqdTc3VzA0Mk54dzVWT0dGNzhxaFlnNkhqUXBjbWdKY0NUTm1ZNkRMQlhSWUpQVkVkbmc?oc=5)
-
-2026-10-11 <span class="news-indication-tag">cancer</span>
-
-Source: [Ground News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmVVU1dlNE1QTHlMc01melZMRWZaRWVtRFQwYmhkX19hZmJnUjJKenZ6d0x4NHh5cUFVb2hmbUw2VExwYXdFY0gxb3k3aEMySmR1OVBFZjJ3UFowSVl1enZUYVdwM21MajNXWThubTZGa0R2d1VoT09JbDFqdTc3VzA0Mk54dzVWT0dGNzhxaFlnNkhqUXBjbWdKY0NUTm1ZNkRMQlhSWUpQVkVkbmc?oc=5)
-
----
-
-### [Breast cancer: Why awareness and early detection matter - Deccan Herald](https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3lXdXNjLWdfcFlJZi1LTHlMU05oZmpNNTFMVjJlcWQ1MVhDVW00UkdOMWVrTktjU0RIdWo2dnRXaG5pZGl0Zk4ySWw4cVFPT2gyN0RrcFJ3NXUzYkd1SWsxTG5adzZpdzdWN3NqeUtLSXJmTlFxbTk2UXFjMmNudXctZHo3NXJ1YUFFdjM2NVFuRXo3aThUOWw5MGNYSHc5R2J5U0ItN24tRVBpMzZ0SXV6dzcweGN1Nk42dnJSNlBkNTZi?oc=5)
-
-2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Deccan Herald](https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3lXdXNjLWdfcFlJZi1LTHlMU05oZmpNNTFMVjJlcWQ1MVhDVW00UkdOMWVrTktjU0RIdWo2dnRXaG5pZGl0Zk4ySWw4cVFPT2gyN0RrcFJ3NXUzYkd1SWsxTG5adzZpdzdWN3NqeUtLSXJmTlFxbTk2UXFjMmNudXctZHo3NXJ1YUFFdjM2NVFuRXo3aThUOWw5MGNYSHc5R2J5U0ItN24tRVBpMzZ0SXV6dzcweGN1Nk42dnJSNlBkNTZi?oc=5)
-
----
-
-### [Radiation exposure linked to pulmonary hypertension after lung cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
-
-2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">pulmonary hypertension</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFRCektST1NLNEx6YTNXNnM4STgzOTFFQ0swcVN2Z09IcTNON0RQOUVaMElybUpEWGNNNUwwakdQWnV3NEJFVU5IcHc1aGFCWmZ3ZW51NEtnbVR5Y3E5dEFKdkpPcjdia1liMHA5ZjlrR2NEaUhmNGxsSUNpRTU0ZDdfVkFIbzFrdnpTekk1WFo?oc=5)
 
 ---
 
@@ -130,14 +106,6 @@ Source: [The Hans India](https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2
 
 ---
 
-### [Human brain-like tissue placed in lab mice, some call it ‘breakthrough’, others question ethics - Deccan Herald](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb00ydk9CYkRGN3Aya0UzbEgtZC0wWG9XeER4bDZ6NzBDXzhMdm1rQ3l1ckpfVmpyTUlpdlJYTVJCR2hVV3BoVy1iMU9wWjNVY0xzTzRWajFaVEhlMEdHTW1PLThYOXpuRUJnaUJrTHpjV3JtN3U5T1BWSDV5SXBXbmxjSUlYdmJpekZkcmJoUHRvTWJ5MjgxOTVwaWFTYVYxR1hhZDcycGg5WXdQcXJUcnQtV0p1Y0VFS0pkUzlKWWQ4S1hoUVYyZzNZallDZTRu?oc=5)
-
-2026-10-09 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
-
-Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb00ydk9CYkRGN3Aya0UzbEgtZC0wWG9XeER4bDZ6NzBDXzhMdm1rQ3l1ckpfVmpyTUlpdlJYTVJCR2hVV3BoVy1iMU9wWjNVY0xzTzRWajFaVEhlMEdHTW1PLThYOXpuRUJnaUJrTHpjV3JtN3U5T1BWSDV5SXBXbmxjSUlYdmJpekZkcmJoUHRvTWJ5MjgxOTVwaWFTYVYxR1hhZDcycGg5WXdQcXJUcnQtV0p1Y0VFS0pkUzlKWWQ4S1hoUVYyZzNZallDZTRu?oc=5)
-
----
-
 ### [Advances in prognostic and predictive biomarkers for breast cancer - Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUdMbUY1VU1qV3ptVmxhV012ZXMtVmdnM0czdkFIck1xenZnTmUxeENiOHI4RlRYaHY0ZWk5Z243YllFMm5NTkdGNlh5RmxOTXp2eFhUNVVWTV84cW1QTnl1NEUtay1rb1VjcElpMGRmbjdOcFo0dmZwaW1EeHhjaTQxUVN4TkMtSTl1QjNXSVRWTWxtdnpsZHFLaGZGNXh6OFZYc2NZRDEzZ051Nndra1BB?oc=5)
 
 2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
@@ -146,19 +114,11 @@ Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisgFBVV95cU
 
 ---
 
-### [Human brain organoids transplanted into mice without cerebral cortex — Nature](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWxXRFlKOGVDNW50T2pOYXVuXy10TUVBWjFUTUpsS1B1M3Ata1F1YUt6V1htTEhDbGNCMWFrcWFNZXJBY1ZRbksyQzBobmVDeXRIeDlrMkVBQS0xNnVtQnhkOW5udlRqRlBhdU1QS05mTV93NWRUemV2RkVqZGxGOVNKUVdoWWlJS1ROQ2F0MExhV3lGZC1iOHVCclBneFlia0l2N2k4eV9sZw?oc=5)
+### [Scientists grow human brain tissue in mice for first time, how the transplant technique opens the way to - The Times of India](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVFVhbG8xNWVoeFYxWXJMZVhqNlpvUFFmZ1JUWGZHNEtET2swY2F0UlkxV0hyTVB6aFlEZ2psNDBFVHVVR3JaRGQ0UTRrSTNCOW50dUpKMlZPTXZ2QjJ1SFUwWTB4TUtGaDlTMS1RWXVKNVJVMTNTNkZVRXdsRTUtUVFRX1YxRTVHY2t5UGhRTHV1Wk16Umc4QmZRTHlpanBCMnZQb1BJbUtLZmg1dmZ2Sk5uQUJMQWFrdzJGYjFrWlNTd3VyMTYwY19idi1vaGJ0VjZndkxKQmJ6cDJyM3NqV0dxVlM1QTd1aC1LVkZFRDlZeklSRGNBMUNDZTZrNkc4dVgyaTY3RkZKUG9uZDdMdlJOU05QVG5GX2kxZmIxMlg0TGtXaGJTblNTeGRNcVhBRks4UklTc25Kbi1vQmtwWkpsVDA5cG5zSGJrbERlWXV0NTlFVXNj0gHcAkFVX3lxTFA2UlNVbWdnVmpaekVpR1VybmV1aG0yVkZqczF2Q1hpRjBBOElLaTk0RmtsV2Z5aENjbDVkMHh1ZXdJSVpVd3lwbjJXWGUwSktHUkQ3R0dKdzRTWmd1WWd0bDNSZ2RQd0Y5WVdRVkVTeVFzX2QxSEpBa19YSXRIZ3prSGJCaDl1OGRYSmRsQWIwV0k0QkVjUWhPU2tIN0RYOUw0UW93UDA1djFSRVU0TWdWMkl3SXFBbTY0a0F1bU1tb1QtQ2FDLUY2T0lLa0NCcXNIOG84UUhnSjA1SnVxZ1dITDR0YXhMWllXNkI1Nm43dmlPbmYzZ1hCbUhhR1E0NzJHSE9vVXg1LVBPdnkzaXA2RHZkZDNiVHZzdjExcXVBcXNJZHlkSjk2RHhOb0V5SmV1Tnd1VFAyTVp2RnBvZGUxQWlCdDJyeTl6Y1BsRXllb3Vqb3UwaENudXNVWA?oc=5)
 
 2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
 
-Source: [UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWxXRFlKOGVDNW50T2pOYXVuXy10TUVBWjFUTUpsS1B1M3Ata1F1YUt6V1htTEhDbGNCMWFrcWFNZXJBY1ZRbksyQzBobmVDeXRIeDlrMkVBQS0xNnVtQnhkOW5udlRqRlBhdU1QS05mTV93NWRUemV2RkVqZGxGOVNKUVdoWWlJS1ROQ2F0MExhV3lGZC1iOHVCclBneFlia0l2N2k4eV9sZw?oc=5)
-
----
-
-### [Research Highlights Importance of Brain Health and Ageing - India News Network](https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhsbDU4NEUxTlZuLVFUcXZiMW55LXE2MU5KX2RDRHVlcC1fa2x5UlpuTllZUy05ck5ncG96QzhZNjNpWEljVk9OVlVId25MTmJpdnpzQmd0VU8tUHQ5cG15WGZCQjYxSWZ4V1c5YzFKQzJIalJQQzlESl9GaUVmS3NqMk1nM1lGUjFON3BOVzdZOGJFcEtnZ1Zidw?oc=5)
-
-2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dama</span>
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhsbDU4NEUxTlZuLVFUcXZiMW55LXE2MU5KX2RDRHVlcC1fa2x5UlpuTllZUy05ck5ncG96QzhZNjNpWEljVk9OVlVId25MTmJpdnpzQmd0VU8tUHQ5cG15WGZCQjYxSWZ4V1c5YzFKQzJIalJQQzlESl9GaUVmS3NqMk1nM1lGUjFON3BOVzdZOGJFcEtnZ1Zidw?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVFVhbG8xNWVoeFYxWXJMZVhqNlpvUFFmZ1JUWGZHNEtET2swY2F0UlkxV0hyTVB6aFlEZ2psNDBFVHVVR3JaRGQ0UTRrSTNCOW50dUpKMlZPTXZ2QjJ1SFUwWTB4TUtGaDlTMS1RWXVKNVJVMTNTNkZVRXdsRTUtUVFRX1YxRTVHY2t5UGhRTHV1Wk16Umc4QmZRTHlpanBCMnZQb1BJbUtLZmg1dmZ2Sk5uQUJMQWFrdzJGYjFrWlNTd3VyMTYwY19idi1vaGJ0VjZndkxKQmJ6cDJyM3NqV0dxVlM1QTd1aC1LVkZFRDlZeklSRGNBMUNDZTZrNkc4dVgyaTY3RkZKUG9uZDdMdlJOU05QVG5GX2kxZmIxMlg0TGtXaGJTblNTeGRNcVhBRks4UklTc25Kbi1vQmtwWkpsVDA5cG5zSGJrbERlWXV0NTlFVXNj0gHcAkFVX3lxTFA2UlNVbWdnVmpaekVpR1VybmV1aG0yVkZqczF2Q1hpRjBBOElLaTk0RmtsV2Z5aENjbDVkMHh1ZXdJSVpVd3lwbjJXWGUwSktHUkQ3R0dKdzRTWmd1WWd0bDNSZ2RQd0Y5WVdRVkVTeVFzX2QxSEpBa19YSXRIZ3prSGJCaDl1OGRYSmRsQWIwV0k0QkVjUWhPU2tIN0RYOUw0UW93UDA1djFSRVU0TWdWMkl3SXFBbTY0a0F1bU1tb1QtQ2FDLUY2T0lLa0NCcXNIOG84UUhnSjA1SnVxZ1dITDR0YXhMWllXNkI1Nm43dmlPbmYzZ1hCbUhhR1E0NzJHSE9vVXg1LVBPdnkzaXA2RHZkZDNiVHZzdjExcXVBcXNJZHlkSjk2RHhOb0V5SmV1Tnd1VFAyTVp2RnBvZGUxQWlCdDJyeTl6Y1BsRXllb3Vqb3UwaENudXNVWA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/mefenamic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Mefenamic Acid?">
-<strong>Mefenamic Acid</strong> currently has <strong>2 news articles</strong>, with 8 predicted indications.
+<strong>Mefenamic Acid</strong> currently has <strong>1 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Mefenamic Acid with the late
 <li><strong>Predicted indications (8)</strong>:<ul>
 <li class="indication-matched">rheumatoid arthritis (99.7%)<span class="indication-tag">📰 RA</span></li>
 <li>osteoarthritis susceptibility (99.7%)</li>
-<li class="indication-matched">headache disorder (99.6%)<span class="indication-tag">📰 headache disorder</span></li>
+<li>headache disorder (99.6%)</li>
 <li>trigeminal autonomic cephalalgia (99.5%)</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.5%)</li>
 <li>brachydactyly-syndactyly syndrome (99.5%)</li>
@@ -38,21 +38,13 @@ This page combines the AI-predicted indications for Mefenamic Acid with the late
 <p><a href="{{ '/drugs/mefenamic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Clinical Profile and Reported Functional Impact of Primary Headache Disorders in Children Attending a Tertiary Care Hospital in South India](https://news.google.com/rss/articles/CBMiigJBVV95cUxOaTFUWWFuLVNVRVNlQWJNX2JrNnI3TWNRQTVQRVNnXzd0bUUwd05YUGQyYXZvYXB6cWNIZHVQb0oyT0o5bFo0UFRzc2tYOV9ramdpZ1JveTV6OFN5SWdfeVFwcV9qSlQ1Q0tmNmJCVWt5NXloYllnejJPZHhMM0hDemJnOGRrcG11TFBFU3lVaGhOMVZIV2x5R2wyMGNUdGE1TW8zMTBuQ1lnWXRFUmRxZHJseWFfWE9zNkhoMUZpUDRYZkhXWHFudEN3RHVxX0NtSXJRdU10OGZUaENJOHhLOE5reUViUDZoTFhyVmJ5S19mMFhBTVp5Yno4amNnQjlpMTg5OVpTS0dKQQ?oc=5)
+### [HPV vaccines protect against cancer. Could they benefit pregnancy?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW9WX01PRGhXaTdtR0xHSUVtUk4zUHhLWUNGMU8xUEJQSERtZ2t4c0VmR3V2R3o4RFpreFNYTnN3VEJZbXl3S09OeHJNNGhxZFh6aXRZWWZEb3ZFN003QWJQODdqV1piQUNCTEpzaEY1N3dhNHRuQTh5M09kbFd3NnFaelljY3pEVFB0RmpPOVJMTW5SeUs4UW1QZFNuUDJVVDBnQVd0YkdadEN1V2sweWh3?oc=5)
 
-2026-10-11 <span class="news-indication-tag">headache disorder</span>
+2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [Cureus](https://news.google.com/rss/articles/CBMiigJBVV95cUxOaTFUWWFuLVNVRVNlQWJNX2JrNnI3TWNRQTVQRVNnXzd0bUUwd05YUGQyYXZvYXB6cWNIZHVQb0oyT0o5bFo0UFRzc2tYOV9ramdpZ1JveTV6OFN5SWdfeVFwcV9qSlQ1Q0tmNmJCVWt5NXloYllnejJPZHhMM0hDemJnOGRrcG11TFBFU3lVaGhOMVZIV2x5R2wyMGNUdGE1TW8zMTBuQ1lnWXRFUmRxZHJseWFfWE9zNkhoMUZpUDRYZkhXWHFudEN3RHVxX0NtSXJRdU10OGZUaENJOHhLOE5reUViUDZoTFhyVmJ5S19mMFhBTVp5Yno4amNnQjlpMTg5OVpTS0dKQQ?oc=5)
-
----
-
-### [HPV vaccine related with lower risk of pregnancy complications, Swedish study suggests - ET HealthWorld](https://news.google.com/rss/articles/CBMiogJBVV95cUxOZzlRMGdhbEh1VDFYcXd4OTVRZG93eS1TcGJveTBVY3B1UU11R0pRYTdDNFNOTXk1Ums0SVg4dERyeFNzUFdQTHI4TnkwaFRVQlZRRXFiVThNdUc5cS1vYlU1NnVmT2Z2OTBzcU9qYzc2TmdiTWNuQ1VURWJXUTFFQ2NRY0hKck5DSkFYS3RBMUxCd1N5RFkzemRWNFFvWmgzenRPek1XMzFCQ0dHWG9fdEhKMDFsY2hQdjgya3JwY0VKQkxNYXdZVmRHb2RjclFFSW82ZXV5ckJKQkVudy1SRlMzV2dxeGp2Qm9BdXRkNGRvaGhDQVI5ZW1ua09CTFlWWmZrYzdpLXpkRTBmQjFNdV93UnFKYnZBdlpkY2FXYVdRd9IB7gFBVV95cUxOcTJXTmwxM3VSVENtY2VMZVV6QlFndjhYS1BvWnRKRnhHeVNKUUlfOEhfZzVPaUxYWFVzS0VUSXloNFpndXdBM0lRdTE3N2QzQmFtRU9HU0E5TTYzTjItWWxtcGFQcXpFMWgtampiQnd5eUJiRXQ4M1VwNDFtdUJaZDdtWF95TE1TVy11NzFWbWx1UngxNFN1RFlCeUkwZ3cxRVQ4NUNDenlralo2QUtOaDY3S3U5SXdSRmprMTlDS053SzBYNlhKT2tBLXExZUNOSXExb2pvTlZ5aXJTTGRaOExfMDJEemRsek9fOFFn?oc=5)
-
-2026-10-08 <span class="news-indication-tag">RA</span>
-
-Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMiogJBVV95cUxOZzlRMGdhbEh1VDFYcXd4OTVRZG93eS1TcGJveTBVY3B1UU11R0pRYTdDNFNOTXk1Ums0SVg4dERyeFNzUFdQTHI4TnkwaFRVQlZRRXFiVThNdUc5cS1vYlU1NnVmT2Z2OTBzcU9qYzc2TmdiTWNuQ1VURWJXUTFFQ2NRY0hKck5DSkFYS3RBMUxCd1N5RFkzemRWNFFvWmgzenRPek1XMzFCQ0dHWG9fdEhKMDFsY2hQdjgya3JwY0VKQkxNYXdZVmRHb2RjclFFSW82ZXV5ckJKQkVudy1SRlMzV2dxeGp2Qm9BdXRkNGRvaGhDQVI5ZW1ua09CTFlWWmZrYzdpLXpkRTBmQjFNdV93UnFKYnZBdlpkY2FXYVdRd9IB7gFBVV95cUxOcTJXTmwxM3VSVENtY2VMZVV6QlFndjhYS1BvWnRKRnhHeVNKUUlfOEhfZzVPaUxYWFVzS0VUSXloNFpndXdBM0lRdTE3N2QzQmFtRU9HU0E5TTYzTjItWWxtcGFQcXpFMWgtampiQnd5eUJiRXQ4M1VwNDFtdUJaZDdtWF95TE1TVy11NzFWbWx1UngxNFN1RFlCeUkwZ3cxRVQ4NUNDenlralo2QUtOaDY3S3U5SXdSRmprMTlDS053SzBYNlhKT2tBLXExZUNOSXExb2pvTlZ5aXJTTGRaOExfMDJEemRsek9fOFFn?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW9WX01PRGhXaTdtR0xHSUVtUk4zUHhLWUNGMU8xUEJQSERtZ2t4c0VmR3V2R3o4RFpreFNYTnN3VEJZbXl3S09OeHJNNGhxZFh6aXRZWWZEb3ZFN003QWJQODdqV1piQUNCTEpzaEY1N3dhNHRuQTh5M09kbFd3NnFaelljY3pEVFB0RmpPOVJMTW5SeUs4UW1QZFNuUDJVVDBnQVd0YkdadEN1V2sweWh3?oc=5)
 
 ---
 

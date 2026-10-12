@@ -14,7 +14,7 @@ permalink: /news/denosumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Denosumab?">
-<strong>Denosumab</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
+<strong>Denosumab</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,21 +26,15 @@ This page combines the AI-predicted indications for Denosumab with the latest he
 <ul>
 <li><strong>Predicted indications (2)</strong>:<ul>
 <li>severe nonproliferative diabetic retinopathy (99.6%)</li>
-<li class="indication-matched">diabetic retinopathy (99.2%)<span class="indication-tag">📰 diabetic retinopathy</span></li>
+<li>diabetic retinopathy (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/denosumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Frequent thirst, fatigue and blurry vision may signal type 2 diabetes - VnExpress International](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3N6dk4tTGRoSFNzLXI3dUhZZ0x3NWp1VFlkT2hHV1ZVaG9xRkE0M1ZtUWFqNEMxOG8zZWN6dzF3WG8wSzNXOVpDRGd1RTlSc2ZWRmdQWEJhYlEzRlF1RG5zMWd1ZWZGc0NobmU0NkZPYWgyclc2T1F0bU0yNzllMGwtb19PZWdId0FoSFFtQXZEaENWMy1qaXlaNVBXeFFLMUJyT01JenlfWno5eVVWYUFkNkZ3NUFVVFA2bExZWDA5dw?oc=5)
-
-2026-10-10 <span class="news-indication-tag">diabetic retinopathy</span>
-
-Source: [VnExpress International](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3N6dk4tTGRoSFNzLXI3dUhZZ0x3NWp1VFlkT2hHV1ZVaG9xRkE0M1ZtUWFqNEMxOG8zZWN6dzF3WG8wSzNXOVpDRGd1RTlSc2ZWRmdQWEJhYlEzRlF1RG5zMWd1ZWZGc0NobmU0NkZPYWgyclc2T1F0bU0yNzllMGwtb19PZWdId0FoSFFtQXZEaENWMy1qaXlaNVBXeFFLMUJyT01JenlfWno5eVVWYUFkNkZ3NUFVVFA2bExZWDA5dw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

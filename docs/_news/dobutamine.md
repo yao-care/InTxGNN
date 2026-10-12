@@ -14,7 +14,7 @@ permalink: /news/dobutamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dobutamine?">
-<strong>Dobutamine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Dobutamine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Dobutamine with the latest h
 <li>open-angle glaucoma (99.5%)</li>
 <li>Raynaud disease (99.5%)</li>
 <li>primary hereditary glaucoma (99.5%)</li>
-<li class="indication-matched">headache disorder (99.3%)<span class="indication-tag">📰 headache disorder</span></li>
+<li>headache disorder (99.3%)</li>
 <li>hypertrichosis (disease) (99.3%)</li>
 <li>migraine disorder (99.2%)</li>
 </ul></li>
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Dobutamine with the latest h
 <p><a href="{{ '/drugs/dobutamine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Clinical Profile and Reported Functional Impact of Primary Headache Disorders in Children Attending a Tertiary Care Hospital in South India](https://news.google.com/rss/articles/CBMiigJBVV95cUxOaTFUWWFuLVNVRVNlQWJNX2JrNnI3TWNRQTVQRVNnXzd0bUUwd05YUGQyYXZvYXB6cWNIZHVQb0oyT0o5bFo0UFRzc2tYOV9ramdpZ1JveTV6OFN5SWdfeVFwcV9qSlQ1Q0tmNmJCVWt5NXloYllnejJPZHhMM0hDemJnOGRrcG11TFBFU3lVaGhOMVZIV2x5R2wyMGNUdGE1TW8zMTBuQ1lnWXRFUmRxZHJseWFfWE9zNkhoMUZpUDRYZkhXWHFudEN3RHVxX0NtSXJRdU10OGZUaENJOHhLOE5reUViUDZoTFhyVmJ5S19mMFhBTVp5Yno4amNnQjlpMTg5OVpTS0dKQQ?oc=5)
-
-2026-10-11 <span class="news-indication-tag">headache disorder</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMiigJBVV95cUxOaTFUWWFuLVNVRVNlQWJNX2JrNnI3TWNRQTVQRVNnXzd0bUUwd05YUGQyYXZvYXB6cWNIZHVQb0oyT0o5bFo0UFRzc2tYOV9ramdpZ1JveTV6OFN5SWdfeVFwcV9qSlQ1Q0tmNmJCVWt5NXloYllnejJPZHhMM0hDemJnOGRrcG11TFBFU3lVaGhOMVZIV2x5R2wyMGNUdGE1TW8zMTBuQ1lnWXRFUmRxZHJseWFfWE9zNkhoMUZpUDRYZkhXWHFudEN3RHVxX0NtSXJRdU10OGZUaENJOHhLOE5reUViUDZoTFhyVmJ5S19mMFhBTVp5Yno4amNnQjlpMTg5OVpTS0dKQQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
