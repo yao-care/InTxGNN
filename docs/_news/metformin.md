@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="What news is there about Metformin?">
-<strong>Metformin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Metformin</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,9 +35,15 @@ This page combines the AI-predicted indications for Metformin with the latest he
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [High-fibre Diet Reduces Weight in Newly Diagnosed Type II Diabetes](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWRxUU9VVDdlaUdfQzFRWTBIbVR2dEdhSEZMaEw2NFdoUmxXcFB4WGN6RGZ4NGRYRXRFS0ZjMmdub3JVSWlENUxNaTVEemNLaVZUM3N0d091WEJlREpMQ3dFM01iRnFVUzhYWS1nOHltYThpbmYwOHBVTlBVSmVBRUp2bDZXbnpsN01OOGk3Mi1CUVdiWl9DbUp0Wk43eW9JZEhfM2tOcE1kZ0xD?oc=5)
+
+2026-10-13 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWRxUU9VVDdlaUdfQzFRWTBIbVR2dEdhSEZMaEw2NFdoUmxXcFB4WGN6RGZ4NGRYRXRFS0ZjMmdub3JVSWlENUxNaTVEemNLaVZUM3N0d091WEJlREpMQ3dFM01iRnFVUzhYWS1nOHltYThpbmYwOHBVTlBVSmVBRUp2bDZXbnpsN01OOGk3Mi1CUVdiWl9DbUp0Wk43eW9JZEhfM2tOcE1kZ0xD?oc=5)
+
+---
 
 
 <div class="disclaimer">

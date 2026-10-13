@@ -14,7 +14,7 @@ permalink: /news/bromocriptine/
 ---
 
 <p class="key-answer" data-question="What news is there about Bromocriptine?">
-<strong>Bromocriptine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Bromocriptine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,22 +33,16 @@ This page combines the AI-predicted indications for Bromocriptine with the lates
 <li>hydranencephaly (disease) (99.8%)</li>
 <li>myopia X-linked (99.8%)</li>
 <li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.8%)</li>
-<li class="indication-matched">schizophrenia (99.7%)<span class="indication-tag">📰 schizophrenia</span></li>
+<li>schizophrenia (99.7%)</li>
 <li>syndromic myopia (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bromocriptine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Scientists grow human brain tissue in mice for first time, how the transplant technique opens the way to - The Times of India](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVFVhbG8xNWVoeFYxWXJMZVhqNlpvUFFmZ1JUWGZHNEtET2swY2F0UlkxV0hyTVB6aFlEZ2psNDBFVHVVR3JaRGQ0UTRrSTNCOW50dUpKMlZPTXZ2QjJ1SFUwWTB4TUtGaDlTMS1RWXVKNVJVMTNTNkZVRXdsRTUtUVFRX1YxRTVHY2t5UGhRTHV1Wk16Umc4QmZRTHlpanBCMnZQb1BJbUtLZmg1dmZ2Sk5uQUJMQWFrdzJGYjFrWlNTd3VyMTYwY19idi1vaGJ0VjZndkxKQmJ6cDJyM3NqV0dxVlM1QTd1aC1LVkZFRDlZeklSRGNBMUNDZTZrNkc4dVgyaTY3RkZKUG9uZDdMdlJOU05QVG5GX2kxZmIxMlg0TGtXaGJTblNTeGRNcVhBRks4UklTc25Kbi1vQmtwWkpsVDA5cG5zSGJrbERlWXV0NTlFVXNj0gHcAkFVX3lxTFA2UlNVbWdnVmpaekVpR1VybmV1aG0yVkZqczF2Q1hpRjBBOElLaTk0RmtsV2Z5aENjbDVkMHh1ZXdJSVpVd3lwbjJXWGUwSktHUkQ3R0dKdzRTWmd1WWd0bDNSZ2RQd0Y5WVdRVkVTeVFzX2QxSEpBa19YSXRIZ3prSGJCaDl1OGRYSmRsQWIwV0k0QkVjUWhPU2tIN0RYOUw0UW93UDA1djFSRVU0TWdWMkl3SXFBbTY0a0F1bU1tb1QtQ2FDLUY2T0lLa0NCcXNIOG84UUhnSjA1SnVxZ1dITDR0YXhMWllXNkI1Nm43dmlPbmYzZ1hCbUhhR1E0NzJHSE9vVXg1LVBPdnkzaXA2RHZkZDNiVHZzdjExcXVBcXNJZHlkSjk2RHhOb0V5SmV1Tnd1VFAyTVp2RnBvZGUxQWlCdDJyeTl6Y1BsRXllb3Vqb3UwaENudXNVWA?oc=5)
-
-2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVFVhbG8xNWVoeFYxWXJMZVhqNlpvUFFmZ1JUWGZHNEtET2swY2F0UlkxV0hyTVB6aFlEZ2psNDBFVHVVR3JaRGQ0UTRrSTNCOW50dUpKMlZPTXZ2QjJ1SFUwWTB4TUtGaDlTMS1RWXVKNVJVMTNTNkZVRXdsRTUtUVFRX1YxRTVHY2t5UGhRTHV1Wk16Umc4QmZRTHlpanBCMnZQb1BJbUtLZmg1dmZ2Sk5uQUJMQWFrdzJGYjFrWlNTd3VyMTYwY19idi1vaGJ0VjZndkxKQmJ6cDJyM3NqV0dxVlM1QTd1aC1LVkZFRDlZeklSRGNBMUNDZTZrNkc4dVgyaTY3RkZKUG9uZDdMdlJOU05QVG5GX2kxZmIxMlg0TGtXaGJTblNTeGRNcVhBRks4UklTc25Kbi1vQmtwWkpsVDA5cG5zSGJrbERlWXV0NTlFVXNj0gHcAkFVX3lxTFA2UlNVbWdnVmpaekVpR1VybmV1aG0yVkZqczF2Q1hpRjBBOElLaTk0RmtsV2Z5aENjbDVkMHh1ZXdJSVpVd3lwbjJXWGUwSktHUkQ3R0dKdzRTWmd1WWd0bDNSZ2RQd0Y5WVdRVkVTeVFzX2QxSEpBa19YSXRIZ3prSGJCaDl1OGRYSmRsQWIwV0k0QkVjUWhPU2tIN0RYOUw0UW93UDA1djFSRVU0TWdWMkl3SXFBbTY0a0F1bU1tb1QtQ2FDLUY2T0lLa0NCcXNIOG84UUhnSjA1SnVxZ1dITDR0YXhMWllXNkI1Nm43dmlPbmYzZ1hCbUhhR1E0NzJHSE9vVXg1LVBPdnkzaXA2RHZkZDNiVHZzdjExcXVBcXNJZHlkSjk2RHhOb0V5SmV1Tnd1VFAyTVp2RnBvZGUxQWlCdDJyeTl6Y1BsRXllb3Vqb3UwaENudXNVWA?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

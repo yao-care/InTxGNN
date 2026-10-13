@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>bronchitis (100.0%)</li>
 <li>atopic eczema (99.8%)</li>
-<li class="indication-matched">asthma (99.5%)<span class="indication-tag">📰 asthma</span></li>
+<li class="indication-matched">asthma (99.5%)<span class="indication-tag">📰 dama</span></li>
 <li>obstructive lung disease (99.3%)</li>
 <li>asthma-related traits, susceptibility to (99.2%)</li>
 </ul></li>
@@ -37,11 +37,27 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 
 ## Related News (4)
 
-### [Anabolic steroids linked to serious heart damage in weightlifters; stopping them may aid recovery - European Society of Cardiology](https://news.google.com/rss/articles/CBMi4gFBVV95cUxONTk0bWdnQi1icF84d2x1NnJMYWt2NTRURnNsZVJNSDJGNUNYX0pHWWZHTndVck5ETGxXVGhEdUotVW1tWGtMYXJNRjJ0blMyMWh2V2Z0alZzZVpRRk1sZDhoOVR4NjBGTEd1Y0xrc1BoSEdTcEFfanVQNmg4X092V3BaT1JFWThrckxrWEdmeGlrblZMVlFTbHRhMHljQVppRUVFVGxyRWx1RVpmVVE3RHhscnM5WTlXV05MTHAxWGVMeHUzcklDXzVkTlJEYjkyWU1QN3R0WFZ0V1lFM3NFN1dB?oc=5)
+### [FDA-Approved Drug Could Be Repurposed to Relieve Osteoarthritis Pain And Protect Cartilage](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEhYX2t6Q1FaMU9PREg2S0RFaW1qNGJYUWFPU21TMjUyRl9jODgwVzhrYm9mTmFUUnNDUkRJcFMtdmZaeDE0SzNNdEVyZ0VfQks4YTQ3LWhHN2NIVTFEY0dFVlk5dkJyQi1IQ0hVQnFkMllxVE9tbXBaekdKS0YzYnI0T21JX0t6VDRfOTExQTZqTVE0MWVfd2ZDTXFNa2hHUjF5c0VsTnhKNHBxRlhRU01pbXRYYmJHQWpv?oc=5)
+
+2026-10-13 <span class="news-drug-tag">Lacosamide</span> <span class="news-indication-tag">dama</span> <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEhYX2t6Q1FaMU9PREg2S0RFaW1qNGJYUWFPU21TMjUyRl9jODgwVzhrYm9mTmFUUnNDUkRJcFMtdmZaeDE0SzNNdEVyZ0VfQks4YTQ3LWhHN2NIVTFEY0dFVlk5dkJyQi1IQ0hVQnFkMllxVE9tbXBaekdKS0YzYnI0T21JX0t6VDRfOTExQTZqTVE0MWVfd2ZDTXFNa2hHUjF5c0VsTnhKNHBxRlhRU01pbXRYYmJHQWpv?oc=5)
+
+---
+
+### [Eating Late At Night? New Study Warns It Could Trigger Fatty Liver Disease](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHp6SmNWTkg1ZG9GbEZydHBRYm9RcFRRSFRRZ2tCLXQwN05aNl8wSEFYaVV0Z0hRWllVRWZlZUFxdDVEekExaTFkWGxGV0ZEcDNpcWtlSHlrZS1Fd0ROekpzellVbjZ4QzFURjQteVd6MTB1N1EycnB0MEFHbjRTeXFkYVBzcGxrOXNhWU1mMUppUi1WUWVHbVlvcnY5dExNX3ZraW83alcwQ0ZnS2tn?oc=5)
 
 2026-10-13 <span class="news-indication-tag">dama</span>
 
-Source: [European Society of Cardiology](https://news.google.com/rss/articles/CBMi4gFBVV95cUxONTk0bWdnQi1icF84d2x1NnJMYWt2NTRURnNsZVJNSDJGNUNYX0pHWWZHTndVck5ETGxXVGhEdUotVW1tWGtMYXJNRjJ0blMyMWh2V2Z0alZzZVpRRk1sZDhoOVR4NjBGTEd1Y0xrc1BoSEdTcEFfanVQNmg4X092V3BaT1JFWThrckxrWEdmeGlrblZMVlFTbHRhMHljQVppRUVFVGxyRWx1RVpmVVE3RHhscnM5WTlXV05MTHAxWGVMeHUzcklDXzVkTlJEYjkyWU1QN3R0WFZ0V1lFM3NFN1dB?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHp6SmNWTkg1ZG9GbEZydHBRYm9RcFRRSFRRZ2tCLXQwN05aNl8wSEFYaVV0Z0hRWllVRWZlZUFxdDVEekExaTFkWGxGV0ZEcDNpcWtlSHlrZS1Fd0ROekpzellVbjZ4QzFURjQteVd6MTB1N1EycnB0MEFHbjRTeXFkYVBzcGxrOXNhWU1mMUppUi1WUWVHbVlvcnY5dExNX3ZraW83alcwQ0ZnS2tn?oc=5)
+
+---
+
+### [A study reveals that glucose monitors may protect the kidneys from early damage caused by Diabetes - The Times of India](https://news.google.com/rss/articles/CBMihwJBVV95cUxONjA3Wkk3TnUydkJ3YW5iNmxTZWRpUUhjNUR3c29qZ01IZENaQjFNSEZOMFNCbTIwLUdmekFhUi1kbjkwaWliNmgzcWYwZXJmUUZfTmFrNi1HYkZMNVlYVHdzSlc3NndpNWQ2UFBIR2ZHeU1oOElFd1JURDdjS2VJbExNbklsU09QdnNzLVpHcC1kVEMwcmZMXzN0QTZ0YUJJVE5IM3h4RUhiVk0yeTlTVUtZZW0zLWp0MFRfbWs0ZTRsRjVyeDZ1MHR0MkxUaUcyNTdUc3ZFN2RuZmJKdWQ0TDN1TE1lOUJGZzA2cGJXS2c0T3ZjdWdkWkpZXzVqaEdkd3IwNUx4b9IBjAJBVV95cUxPZ25BWjFQdnNLRVRsazhPbzh3bVhQWktMbkFvZlhQMmRLejYxUVJyQ0dEcWZLU3pjUUFLM0VsZEhDMUhxR21xQmJ4S2l2VHRRQTBkNzNoUy0yWHhCTDJLcEhlbWctVHdsdGt1UTg3SnpWNDdrQzhpM01zUzAwU0ZSUkFrdzlvN183ckstbmtXMmxMRExGenlMYkRRYmlBYTBpR1U3NFFpZTFZVG5MYTBvRHpBMzBrdzNLVnVHUHc1Nzl6M3lWMElMeURyVjdLaTdQaU5WRkdYRkY0Y1BGWTZwQmN3aXVRZlFqMmtiVjFwX19UWmNxeGhaT1FxR0Q1UXFRTjVKSWpaQk5zSTI3?oc=5)
+
+2026-10-13 <span class="news-indication-tag">dama</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMihwJBVV95cUxONjA3Wkk3TnUydkJ3YW5iNmxTZWRpUUhjNUR3c29qZ01IZENaQjFNSEZOMFNCbTIwLUdmekFhUi1kbjkwaWliNmgzcWYwZXJmUUZfTmFrNi1HYkZMNVlYVHdzSlc3NndpNWQ2UFBIR2ZHeU1oOElFd1JURDdjS2VJbExNbklsU09QdnNzLVpHcC1kVEMwcmZMXzN0QTZ0YUJJVE5IM3h4RUhiVk0yeTlTVUtZZW0zLWp0MFRfbWs0ZTRsRjVyeDZ1MHR0MkxUaUcyNTdUc3ZFN2RuZmJKdWQ0TDN1TE1lOUJGZzA2cGJXS2c0T3ZjdWdkWkpZXzVqaEdkd3IwNUx4b9IBjAJBVV95cUxPZ25BWjFQdnNLRVRsazhPbzh3bVhQWktMbkFvZlhQMmRLejYxUVJyQ0dEcWZLU3pjUUFLM0VsZEhDMUhxR21xQmJ4S2l2VHRRQTBkNzNoUy0yWHhCTDJLcEhlbWctVHdsdGt1UTg3SnpWNDdrQzhpM01zUzAwU0ZSUkFrdzlvN183ckstbmtXMmxMRExGenlMYkRRYmlBYTBpR1U3NFFpZTFZVG5MYTBvRHpBMzBrdzNLVnVHUHc1Nzl6M3lWMElMeURyVjdLaTdQaU5WRkdYRkY0Y1BGWTZwQmN3aXVRZlFqMmtiVjFwX19UWmNxeGhaT1FxR0Q1UXFRTjVKSWpaQk5zSTI3?oc=5)
 
 ---
 
@@ -50,22 +66,6 @@ Source: [European Society of Cardiology](https://news.google.com/rss/articles/CB
 2026-10-12 <span class="news-indication-tag">dama</span> <span class="news-indication-tag">osteoarthritis</span>
 
 Source: [Health and Me](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRFVrUENveEt4cmZZOTkwdDVnb2J4WEc4NVNvelZqcTNvTjJleWI2cTd4RW9pUm1ob012Y3Ewb0xqWVEzbFBhRDUya05BZFZaMDAyTmN0a1pYYnlHSGFsU2ZPeS1DU3F6dnJwbS1ZcFBOMHlhQkNZbUVFMVc4Q3N2SFJMYzJOMkNKMk5Td3NPUDRsT2pPZWdFWGNhSUtpQTVSRUNNOTBmQWFjMGVlSGc1TmpPX3pSWk8waVExd0ozSl9uR0ZFaXRoUkFMMG1sM3Z6aXFIaDBhYUNuc2RSd1hMNnJfckhFcTZkZ3JWejNBcjJJbXhFZGxaRTdkOEh6dw?oc=5)
-
----
-
-### [Researchers followed glucose monitor users for three years and found a possible kidney benefit](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdm8tbmJBRDNSYlBNc3VfVm1qd0hjNmtxalJUWmFSSVVHNHJWTy1YMXZlam80aU5nMTFhQzVfYWZrcDYwWXhJbnpsQjh3ZFJRc21WVEIwQW44ekJmOUtXbVVLOWFyNkFZejNjU1Y4QzZxeU5VcW1Va2d0UzJjMzZXS3BmVjY1dEpZN29OYWdSSkV0VUFaTElNWGFYcWEySzh1enVDZU9kcVdVY2ZETjdGWDBDVzNYR1FVTmhpQ0dyZnhBb2RhRWZhRmhmX25OZmNDd3lhQjVVdEZaUQ?oc=5)
-
-2026-10-12 <span class="news-indication-tag">dama</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdm8tbmJBRDNSYlBNc3VfVm1qd0hjNmtxalJUWmFSSVVHNHJWTy1YMXZlam80aU5nMTFhQzVfYWZrcDYwWXhJbnpsQjh3ZFJRc21WVEIwQW44ekJmOUtXbVVLOWFyNkFZejNjU1Y4QzZxeU5VcW1Va2d0UzJjMzZXS3BmVjY1dEpZN29OYWdSSkV0VUFaTElNWGFYcWEySzh1enVDZU9kcVdVY2ZETjdGWDBDVzNYR1FVTmhpQ0dyZnhBb2RhRWZhRmhmX25OZmNDd3lhQjVVdEZaUQ?oc=5)
-
----
-
-### [Asthma Symptoms Alone Offer Limited Insight into Attack Risk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWVBOERkOGVmS0swSFNIcWdkWThZVXBJQ1Nvbm8wQVYtNEp6N2ZNVld5aUYzRm0yTXdQQk0wZ2VNTjl4UFRuekZQcTJEczExZjNpNEtablJfS1ZHVzlpQWxVeHk1aXVoUzVKZGFQRTFreTQ5MzRBbFlWOWxLX3BkRDEyS294OEYwMW1hb2ZPb1RpcHpLVVp2UHRqc195T29pU0JVVXlXWXI?oc=5)
-
-2026-10-11 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWVBOERkOGVmS0swSFNIcWdkWThZVXBJQ1Nvbm8wQVYtNEp6N2ZNVld5aUYzRm0yTXdQQk0wZ2VNTjl4UFRuekZQcTJEczExZjNpNEtablJfS1ZHVzlpQWxVeHk1aXVoUzVKZGFQRTFreTQ5MzRBbFlWOWxLX3BkRDEyS294OEYwMW1hb2ZPb1RpcHpLVVp2UHRqc195T29pU0JVVXlXWXI?oc=5)
 
 ---
 

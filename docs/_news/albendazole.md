@@ -14,7 +14,7 @@ permalink: /news/albendazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>16 news articles</strong>, with 10 predicted indications.
+<strong>Albendazole</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,37 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (11)
 
-### [Testicular tissue transplant offers fertility hope](https://news.google.com/rss/articles/CBMikwFBVV95cUxNYjR6cFQ4RmhMUEVwSXBuV2xCSUkyenNITk0zTE5NSC04N0NVNmpFSGFwOFlnOURvcEZuOF9YaTA4WGVrX1dUemhCaUx1bEdHdWU2SWxlTjBqazhJUURXSDZZS1RGV2lnUE1hMVFaRk45ZFNmUUdhRlFFaWdWVVVsSkdmLVpibEpNajBUUFhBYVNTemM?oc=5)
+### [AI on par with radiologists for finding prostate cancer on MRI](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmJQUFJoU3dKREFVLVp4YmFRcnI5bklCOFdoWWpmMzZ0UWhyd3ROeEtmSnZpUTU1SmtvZG9GcGtOSlY5Rk1VcTgzeURlUzdQYkQtNmc0TjE4RFZBM1h6SkZFbFlKZU9wRElPQlFTbXlyTUZ4YkdoSzdZUDdnUGFrTjZiUmZYa2FLcFMzbllxTEk4RU4yclUxX19FSlZFMEh0VDdfdlVxOW90VW9iMmtqV3BTZ01lRllCMVZBQll3?oc=5)
 
 2026-10-13 <span class="news-indication-tag">cancer</span>
 
-Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNYjR6cFQ4RmhMUEVwSXBuV2xCSUkyenNITk0zTE5NSC04N0NVNmpFSGFwOFlnOURvcEZuOF9YaTA4WGVrX1dUemhCaUx1bEdHdWU2SWxlTjBqazhJUURXSDZZS1RGV2lnUE1hMVFaRk45ZFNmUUdhRlFFaWdWVVVsSkdmLVpibEpNajBUUFhBYVNTemM?oc=5)
+Source: [AuntMinnie](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmJQUFJoU3dKREFVLVp4YmFRcnI5bklCOFdoWWpmMzZ0UWhyd3ROeEtmSnZpUTU1SmtvZG9GcGtOSlY5Rk1VcTgzeURlUzdQYkQtNmc0TjE4RFZBM1h6SkZFbFlKZU9wRElPQlFTbXlyTUZ4YkdoSzdZUDdnUGFrTjZiUmZYa2FLcFMzbllxTEk4RU4yclUxX19FSlZFMEh0VDdfdlVxOW90VW9iMmtqV3BTZ01lRllCMVZBQll3?oc=5)
+
+---
+
+### [How rapid genomic test can expedite brain tumour diagnosis - Medical Buyer](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEJqd01pR3pPOU02OG1uZWdoTGJ3Z3RiZkxJVExpWWh6OUtqUVQwYUo4alc2dmdBSjY0TldkeWowNUwtbGwtZWJaOXFzeUtNRnFaOUZhWUZoRUp5SDZDY01xLWRyRndlT2NYLWdseW5UVDc4TXQtbzZDTHZBLXNQenJWMEVPd0dDMmJuY2J6RQ?oc=5)
+
+2026-10-13 <span class="news-indication-tag">tumour</span>
+
+Source: [Medical Buyer](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEJqd01pR3pPOU02OG1uZWdoTGJ3Z3RiZkxJVExpWWh6OUtqUVQwYUo4alc2dmdBSjY0TldkeWowNUwtbGwtZWJaOXFzeUtNRnFaOUZhWUZoRUp5SDZDY01xLWRyRndlT2NYLWdseW5UVDc4TXQtbzZDTHZBLXNQenJWMEVPd0dDMmJuY2J6RQ?oc=5)
 
 ---
 
 ### [Breast Cancer Surgeon Explains Why Men Must Stop Ignoring Warning Signs Of The Disease - ETV Bharat](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQzV2RkVKQXpmQ05mWlJQS01GY2VsaVFMTVkzd3RxZ1hkQlZPVDZ0SUVsMlVRZnhSVUdSaGRPM3BYWDhmdnJDLVRNcnhOLXE3dmtQSDNJdDJCbGE0MWNwbnBDQTAyaWlnOUpIclZkam4xbG5tWDVpaDRmWElCbWE4ZVlaUFZyaWtfZjNGUHlSQWczY1lvODViUC14aGLSAaIBQVVfeXFMTURHUHdyTHUwWGRLSG5vclpybUs5UVl0TlBOWTRoZTlteG9KbUhnU1JCemtoNTFMMUxzaEdxbmFJY3dOMFR6S0RTcUoyY0RuWFFTalpWc2tyZ2RXZUVLVS1BR1J5Rmxpd1FWcFlYUnpnLUtfSmUxdGhzNFl0SmEyb1M3a3JqRDlfR0FoMzI4SjFNYmJkSkdfbm5qbV92bGNJTzdR?oc=5)
 
-2026-10-13 <span class="news-indication-tag">cancer</span>
+2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [ETV Bharat](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQzV2RkVKQXpmQ05mWlJQS01GY2VsaVFMTVkzd3RxZ1hkQlZPVDZ0SUVsMlVRZnhSVUdSaGRPM3BYWDhmdnJDLVRNcnhOLXE3dmtQSDNJdDJCbGE0MWNwbnBDQTAyaWlnOUpIclZkam4xbG5tWDVpaDRmWElCbWE4ZVlaUFZyaWtfZjNGUHlSQWczY1lvODViUC14aGLSAaIBQVVfeXFMTURHUHdyTHUwWGRLSG5vclpybUs5UVl0TlBOWTRoZTlteG9KbUhnU1JCemtoNTFMMUxzaEdxbmFJY3dOMFR6S0RTcUoyY0RuWFFTalpWc2tyZ2RXZUVLVS1BR1J5Rmxpd1FWcFlYUnpnLUtfSmUxdGhzNFl0SmEyb1M3a3JqRDlfR0FoMzI4SjFNYmJkSkdfbm5qbV92bGNJTzdR?oc=5)
+
+---
+
+### [Metastatic breast cancer awareness day 2026: All you need to know - India Today](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSnVxaHVZdTk4akUweFpfWnpmLUJmRDRzQldHcXFMM2NfcnFBUXQ1SWtxMV9iSXdzMnllUllIekhGbFphT2FSV2xfN1E4bVNnUkxrRnhfNkwwUThmWVVOQkpFenM5elFLOGNzRjhBUzNBMmJieWZCdDJMWlBfNExjcnFzZUdPVXVqdUFDM3VHOFpCcXZUWW4xRzFXWGVZWThBcWx5NktOMEczUThfRWtvVVVIQWh0ZVVubnRxNGkzNNIBxAFBVV95cUxPamMzRGpqc0dlWFF2cnA5a3NjSlRaV3dMNHdLRjFiakJGOUlZN0V3cGlpTmdTV2RnRjFkTjlXUXJ6TEJPSU1MTzFjTXpaTi02YTNrd0VtbWpRRC0yazFRVzdUOC0yM0g2ejF6WlZHLTYtMkd5bW9vaUJfRFpHbDBSQUU3ejN3RG44VmlaQV9qOFFtWTJPckI1U2VCUDZLWUt0UFNibUhXUGtyVDBRbERJR3Q0ZkhSMUhXUzNVRC1fZzQ3S1RJ?oc=5)
+
+2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [India Today](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSnVxaHVZdTk4akUweFpfWnpmLUJmRDRzQldHcXFMM2NfcnFBUXQ1SWtxMV9iSXdzMnllUllIekhGbFphT2FSV2xfN1E4bVNnUkxrRnhfNkwwUThmWVVOQkpFenM5elFLOGNzRjhBUzNBMmJieWZCdDJMWlBfNExjcnFzZUdPVXVqdUFDM3VHOFpCcXZUWW4xRzFXWGVZWThBcWx5NktOMEczUThfRWtvVVVIQWh0ZVVubnRxNGkzNNIBxAFBVV95cUxPamMzRGpqc0dlWFF2cnA5a3NjSlRaV3dMNHdLRjFiakJGOUlZN0V3cGlpTmdTV2RnRjFkTjlXUXJ6TEJPSU1MTzFjTXpaTi02YTNrd0VtbWpRRC0yazFRVzdUOC0yM0g2ejF6WlZHLTYtMkd5bW9vaUJfRFpHbDBSQUU3ejN3RG44VmlaQV9qOFFtWTJPckI1U2VCUDZLWUt0UFNibUhXUGtyVDBRbERJR3Q0ZkhSMUhXUzNVRC1fZzQ3S1RJ?oc=5)
 
 ---
 
@@ -63,14 +79,6 @@ Source: [ETV Bharat](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQzV2Rk
 2026-10-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [ThePrint](https://news.google.com/rss/articles/CBMikAFBVV95cUxNaVF6Z21zYnBDSTB6R292czZuVUZsbUo3UFJMbEp3ZjR5M1BHOEJwQXZuRWVTYXZSdThsN3ZKQ09oeFFvWmtKSThSV3pHbFUwOGozNUpXc2ZIXzh1RkhvMzNWUklOX3RSa1hGdFh2QTRpR3hjcklRUjBVQXMxRXlmNWZ2ZjhHLUsxdldra283dHnSAZYBQVVfeXFMT1g4NFlvM2pCaXdKOWtkSkFxUklSQU1uMHMtQlNDdlpFdmMtR3c3VkN6RHJsQ3VWaUg0WTNmVzVCdExTY1dFdXhJdGpXOXZyaFBUdFhGT0lsQmxYUTNxRmNrOTBaWjVieFNteUpvWnhiTF9sdnNEcXlWLWFJSGF0RjQ2eGlGNTgydmtncTJpV0pNRjNQQTJB?oc=5)
-
----
-
-### [Rapid genomic test to speed up brain tumour diagnosis - Healthcare Today](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjNFWXpvdC1OWmJyOFNsYnJEWEF1cTVFNk5zY3ZaOGUtelJTRUJQcHNIQkgtaDdQUDhGU3M5LXhrWE9VT3ljbVdONUxRamIwNUtOMGF4bUFfcXo2X1IyX0FWa3VZdXpfTG9TR21XeGpMSlFJRUN1cDFZalpyYV91N1BHcVV4V25ydDBhN0U2OXNXaE0?oc=5)
-
-2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumour</span>
-
-Source: [Healthcare Today](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjNFWXpvdC1OWmJyOFNsYnJEWEF1cTVFNk5zY3ZaOGUtelJTRUJQcHNIQkgtaDdQUDhGU3M5LXhrWE9VT3ljbVdONUxRamIwNUtOMGF4bUFfcXo2X1IyX0FWa3VZdXpfTG9TR21XeGpMSlFJRUN1cDFZalpyYV91N1BHcVV4V25ydDBhN0U2OXNXaE0?oc=5)
 
 ---
 
@@ -90,22 +98,6 @@ Source: [India News Network](https://news.google.com/rss/articles/CBMirAFBVV95cU
 
 ---
 
-### [6 Diet Changes To Lower Your Risk of Breast Cancer, According to an Oncology Nurse](https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVlUamhNX3JvRFZIRmJFVVJtWHZYSXdSVUVzOHdURWkycGNNRW40ajJFV01yUEN4MWJLQnZyM3BPTnYtZ2w1UEJORWRnUHBUeHdHcUloMElqV3JNeWR2VGc2VVVGTGpsNTh1c3h6Z3o4a0JFSlNiQWt4M1RPRWJDbA?oc=5)
-
-2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [www.health.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVlUamhNX3JvRFZIRmJFVVJtWHZYSXdSVUVzOHdURWkycGNNRW40ajJFV01yUEN4MWJLQnZyM3BPTnYtZ2w1UEJORWRnUHBUeHdHcUloMElqV3JNeWR2VGc2VVVGTGpsNTh1c3h6Z3o4a0JFSlNiQWt4M1RPRWJDbA?oc=5)
-
----
-
-### [Study Finds Lower Pregnancy Risks in HPV-Vaccinated Women - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
-
-2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
-
----
-
 ### [More active mitochondria may help chronic myeloid leukemia cells withstand treatment - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxORC1MYzVzbnpiVEpSTWZGRUFuSjV0YWNzQjdQMnN2SzRtam01WEQwMFNWaGVuYXczcjhGQVBhUVdUdGJuR05GcDIzbUFteDREcGNReE1jd05NQkJLTm5YTWRzRVVVNVk2Q3owN2xDQmpKbmZEcDc3czdVQmxqU0FkTzlLY2x4bHR6dThhVTA4Z0M?oc=5)
 
 2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">myeloid leukemia</span> <span class="news-indication-tag">leukemia</span> <span class="news-indication-tag">myeloid leukemia</span> <span class="news-indication-tag">myeloid leukemia</span> <span class="news-indication-tag">myeloid leukemia</span>
@@ -122,11 +114,11 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95c
 
 ---
 
-### [Beyond cancer: Seeing the person, not the disease - The Goan](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFJzQllYRUtUOVFqendLQ1JLZ19ienJDTkNHek1LdzJvc0FJelZxQmtmWDhJYmN2d3dZb0pCb0RNd3Rva002T0xLOGxtS1RRWG9TQ1dsY3ZaQnlGSmtmU0hHMUVlb2ZyRVN0VEZCcHNUV0pXZ0ZaNHhhN2hNaG5wMlRrdFZoQ0JfcU5jdnQ0aklaSGhUeEtqdlZSMA?oc=5)
+### [When Cancer Strikes Young - Duke Today](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JaGhhd2VWdjg2czRtaGJHU0Jid0dlbUNYbk1NQzVyQkNDYnFieGlaTDhVc0U2cTVmcUloZndHYXhlNVNvcTBCZGZwallPRzYtMk44UzhQLXVyXzNNWHpJSUl0U0FIMmM?oc=5)
 
 2026-10-12 <span class="news-indication-tag">cancer</span>
 
-Source: [The Goan](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFJzQllYRUtUOVFqendLQ1JLZ19ienJDTkNHek1LdzJvc0FJelZxQmtmWDhJYmN2d3dZb0pCb0RNd3Rva002T0xLOGxtS1RRWG9TQ1dsY3ZaQnlGSmtmU0hHMUVlb2ZyRVN0VEZCcHNUV0pXZ0ZaNHhhN2hNaG5wMlRrdFZoQ0JfcU5jdnQ0aklaSGhUeEtqdlZSMA?oc=5)
+Source: [Duke Today](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JaGhhd2VWdjg2czRtaGJHU0Jid0dlbUNYbk1NQzVyQkNDYnFieGlaTDhVc0U2cTVmcUloZndHYXhlNVNvcTBCZGZwallPRzYtMk44UzhQLXVyXzNNWHpJSUl0U0FIMmM?oc=5)
 
 ---
 
@@ -135,38 +127,6 @@ Source: [The Goan](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFJzQllY
 2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Health and Me](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGhlYnEyWDhRb1IyYjJsRG1zNDVjOVl1Z2NkbEFLbDlQOUNkVkFnTEwtRHNrSjR6b0tjWlkyN3pEQXExcVZna3d2MDlCU1lGUHZyU3FzMWw1M1RMd0RpajRpNElIZVIxZzVMTE5RQXpNLVJTdjNYWWdlNUNBNGYtSi1uSnJnYXJxTXl6RDVrbUs5cFlvMjhqckM5UDkyRzVaY09jWVJwVnQ2dlBfQmRWS09FdEx5NThsd2Y5anJadw?oc=5)
-
----
-
-### [Can Air Pollution Damage Your Brain? What Long-Term Exposure May Do To Memory And Focus - Times Now](https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3o3Q3VLME1NY0FZWnZETkpDNEdWSWhTYXBfbDlmaHR1QmQtOW1qLUVvOEVEOUF6X3NWazljYVEySGM2Wmc0QWZHQmpQdzQyZnEyZEc2VzE4RFFtVHFZLW03MVpVU3RieWc3a0NLbWVLdl9kZXpyWVRJUndqeDZGWWtOOGVoT3JCdDBSbUM5QTFwTkXSAZgBQVVfeXFMTWc1bnZjMi1uLTJfSUlJZDA2NGdsV2RoNzNMMHRiakViX0FtOHFJb3hsVUVvc3JMejRSZ3FrVG8wMFB4WVhPU3dxSUJnUzY5RjZkRVhxWFl0dnFTbjVTcUxjWU5QUkcyX25Lcmx5RVRWN1pHWDVNQ2FKZ21yR05IdG5EN3NaMkFoRGQ5eDlWM19pQ21pRUpGS0I?oc=5)
-
-2026-10-11 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Times Now](https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3o3Q3VLME1NY0FZWnZETkpDNEdWSWhTYXBfbDlmaHR1QmQtOW1qLUVvOEVEOUF6X3NWazljYVEySGM2Wmc0QWZHQmpQdzQyZnEyZEc2VzE4RFFtVHFZLW03MVpVU3RieWc3a0NLbWVLdl9kZXpyWVRJUndqeDZGWWtOOGVoT3JCdDBSbUM5QTFwTkXSAZgBQVVfeXFMTWc1bnZjMi1uLTJfSUlJZDA2NGdsV2RoNzNMMHRiakViX0FtOHFJb3hsVUVvc3JMejRSZ3FrVG8wMFB4WVhPU3dxSUJnUzY5RjZkRVhxWFl0dnFTbjVTcUxjWU5QUkcyX25Lcmx5RVRWN1pHWDVNQ2FKZ21yR05IdG5EN3NaMkFoRGQ5eDlWM19pQ21pRUpGS0I?oc=5)
-
----
-
-### [The Deccan Hospital, creates awareness on prostate cancer and importance of early detection - The Hans India](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOEMyZWhfLXpRcDhvdmRiNTZGdGtFeElEcEFFQXNpRXJpV0hhdURCM1RPTlRJNTNwZ0ZZSlI0THhoRjBLLTNyNjk5endqVVVZU2p3LUhwLU54NzloOFNvZjlrWlhqdUdacTR1cEs5aHhmbHoxUnlSSmQ5LUczQkptUlNGUGIxMXlIMkNlQ1BlX1huYzZkU0hiLVZNSjdZY2s3dWZqTThGNkZDTklVcWptRWRpUUxrTm9GMFZxcjZERFdpSzN5SEFNWm10SmpSZ2lPNXIyMUQ2N19wQnNSYVE?oc=5)
-
-2026-10-06 <span class="news-indication-tag">cancer</span>
-
-Source: [The Hans India](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOEMyZWhfLXpRcDhvdmRiNTZGdGtFeElEcEFFQXNpRXJpV0hhdURCM1RPTlRJNTNwZ0ZZSlI0THhoRjBLLTNyNjk5endqVVVZU2p3LUhwLU54NzloOFNvZjlrWlhqdUdacTR1cEs5aHhmbHoxUnlSSmQ5LUczQkptUlNGUGIxMXlIMkNlQ1BlX1huYzZkU0hiLVZNSjdZY2s3dWZqTThGNkZDTklVcWptRWRpUUxrTm9GMFZxcjZERFdpSzN5SEFNWm10SmpSZ2lPNXIyMUQ2N19wQnNSYVE?oc=5)
-
----
-
-### [Lower Death Risk Among Dementia Patients Who Are Overweight Or Obese, Study Finds](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZTI5bW9LSEg1WGx6VGY5M0RxeWFHSEROcFJnZVJQNmpTMXlUaWd1aVhtLXNFSHBRQU1GVzBBS0RDV09lV0VJZEQybF9McXJGMGVjNWwwNnhhRU9tdmVIVS1DMU5FTW5mb250bmkyYmlhQ1dyVUJsRnFKTE0xWHNKeDZrTldaWDhLSlN3ZTNVQXRRUWY2TjVFN0tMWjJSOGxuWjl6anRHMXpRSkNLbldJcUpUZnhjaTNVbEYtTkNVZ19VTEotLXo0?oc=5)
-
-2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Forbes](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZTI5bW9LSEg1WGx6VGY5M0RxeWFHSEROcFJnZVJQNmpTMXlUaWd1aVhtLXNFSHBRQU1GVzBBS0RDV09lV0VJZEQybF9McXJGMGVjNWwwNnhhRU9tdmVIVS1DMU5FTW5mb250bmkyYmlhQ1dyVUJsRnFKTE0xWHNKeDZrTldaWDhLSlN3ZTNVQXRRUWY2TjVFN0tMWjJSOGxuWjl6anRHMXpRSkNLbldJcUpUZnhjaTNVbEYtTkNVZ19VTEotLXo0?oc=5)
-
----
-
-### [Scientists grow human brain tissue in mice for first time, how the transplant technique opens the way to - The Times of India](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVFVhbG8xNWVoeFYxWXJMZVhqNlpvUFFmZ1JUWGZHNEtET2swY2F0UlkxV0hyTVB6aFlEZ2psNDBFVHVVR3JaRGQ0UTRrSTNCOW50dUpKMlZPTXZ2QjJ1SFUwWTB4TUtGaDlTMS1RWXVKNVJVMTNTNkZVRXdsRTUtUVFRX1YxRTVHY2t5UGhRTHV1Wk16Umc4QmZRTHlpanBCMnZQb1BJbUtLZmg1dmZ2Sk5uQUJMQWFrdzJGYjFrWlNTd3VyMTYwY19idi1vaGJ0VjZndkxKQmJ6cDJyM3NqV0dxVlM1QTd1aC1LVkZFRDlZeklSRGNBMUNDZTZrNkc4dVgyaTY3RkZKUG9uZDdMdlJOU05QVG5GX2kxZmIxMlg0TGtXaGJTblNTeGRNcVhBRks4UklTc25Kbi1vQmtwWkpsVDA5cG5zSGJrbERlWXV0NTlFVXNj0gHcAkFVX3lxTFA2UlNVbWdnVmpaekVpR1VybmV1aG0yVkZqczF2Q1hpRjBBOElLaTk0RmtsV2Z5aENjbDVkMHh1ZXdJSVpVd3lwbjJXWGUwSktHUkQ3R0dKdzRTWmd1WWd0bDNSZ2RQd0Y5WVdRVkVTeVFzX2QxSEpBa19YSXRIZ3prSGJCaDl1OGRYSmRsQWIwV0k0QkVjUWhPU2tIN0RYOUw0UW93UDA1djFSRVU0TWdWMkl3SXFBbTY0a0F1bU1tb1QtQ2FDLUY2T0lLa0NCcXNIOG84UUhnSjA1SnVxZ1dITDR0YXhMWllXNkI1Nm43dmlPbmYzZ1hCbUhhR1E0NzJHSE9vVXg1LVBPdnkzaXA2RHZkZDNiVHZzdjExcXVBcXNJZHlkSjk2RHhOb0V5SmV1Tnd1VFAyTVp2RnBvZGUxQWlCdDJyeTl6Y1BsRXllb3Vqb3UwaENudXNVWA?oc=5)
-
-2026-10-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVFVhbG8xNWVoeFYxWXJMZVhqNlpvUFFmZ1JUWGZHNEtET2swY2F0UlkxV0hyTVB6aFlEZ2psNDBFVHVVR3JaRGQ0UTRrSTNCOW50dUpKMlZPTXZ2QjJ1SFUwWTB4TUtGaDlTMS1RWXVKNVJVMTNTNkZVRXdsRTUtUVFRX1YxRTVHY2t5UGhRTHV1Wk16Umc4QmZRTHlpanBCMnZQb1BJbUtLZmg1dmZ2Sk5uQUJMQWFrdzJGYjFrWlNTd3VyMTYwY19idi1vaGJ0VjZndkxKQmJ6cDJyM3NqV0dxVlM1QTd1aC1LVkZFRDlZeklSRGNBMUNDZTZrNkc4dVgyaTY3RkZKUG9uZDdMdlJOU05QVG5GX2kxZmIxMlg0TGtXaGJTblNTeGRNcVhBRks4UklTc25Kbi1vQmtwWkpsVDA5cG5zSGJrbERlWXV0NTlFVXNj0gHcAkFVX3lxTFA2UlNVbWdnVmpaekVpR1VybmV1aG0yVkZqczF2Q1hpRjBBOElLaTk0RmtsV2Z5aENjbDVkMHh1ZXdJSVpVd3lwbjJXWGUwSktHUkQ3R0dKdzRTWmd1WWd0bDNSZ2RQd0Y5WVdRVkVTeVFzX2QxSEpBa19YSXRIZ3prSGJCaDl1OGRYSmRsQWIwV0k0QkVjUWhPU2tIN0RYOUw0UW93UDA1djFSRVU0TWdWMkl3SXFBbTY0a0F1bU1tb1QtQ2FDLUY2T0lLa0NCcXNIOG84UUhnSjA1SnVxZ1dITDR0YXhMWllXNkI1Nm43dmlPbmYzZ1hCbUhhR1E0NzJHSE9vVXg1LVBPdnkzaXA2RHZkZDNiVHZzdjExcXVBcXNJZHlkSjk2RHhOb0V5SmV1Tnd1VFAyTVp2RnBvZGUxQWlCdDJyeTl6Y1BsRXllb3Vqb3UwaENudXNVWA?oc=5)
 
 ---
 
