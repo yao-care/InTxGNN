@@ -3,7 +3,7 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 3 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 5 articles, 8 related drugs."
 permalink: /news/memory-loss/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/memory-loss/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [A protein is one of the culprits behind dementia. Scientists found a way to stop it](https://news.google.com/rss/articles/CBMikAFBVV95cUxNaVF6Z21zYnBDSTB6R292czZuVUZsbUo3UFJMbEp3ZjR5M1BHOEJwQXZuRWVTYXZSdThsN3ZKQ09oeFFvWmtKSThSV3pHbFUwOGozNUpXc2ZIXzh1RkhvMzNWUklOX3RSa1hGdFh2QTRpR3hjcklRUjBVQXMxRXlmNWZ2ZjhHLUsxdldra283dHnSAZYBQVVfeXFMT1g4NFlvM2pCaXdKOWtkSkFxUklSQU1uMHMtQlNDdlpFdmMtR3c3VkN6RHJsQ3VWaUg0WTNmVzVCdExTY1dFdXhJdGpXOXZyaFBUdFhGT0lsQmxYUTNxRmNrOTBaWjVieFNteUpvWnhiTF9sdnNEcXlWLWFJSGF0RjQ2eGlGNTgydmtncTJpV0pNRjNQQTJB?oc=5)
+
+2026-10-13
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMikAFBVV95cUxNaVF6Z21zYnBDSTB6R292czZuVUZsbUo3UFJMbEp3ZjR5M1BHOEJwQXZuRWVTYXZSdThsN3ZKQ09oeFFvWmtKSThSV3pHbFUwOGozNUpXc2ZIXzh1RkhvMzNWUklOX3RSa1hGdFh2QTRpR3hjcklRUjBVQXMxRXlmNWZ2ZjhHLUsxdldra283dHnSAZYBQVVfeXFMT1g4NFlvM2pCaXdKOWtkSkFxUklSQU1uMHMtQlNDdlpFdmMtR3c3VkN6RHJsQ3VWaUg0WTNmVzVCdExTY1dFdXhJdGpXOXZyaFBUdFhGT0lsQmxYUTNxRmNrOTBaWjVieFNteUpvWnhiTF9sdnNEcXlWLWFJSGF0RjQ2eGlGNTgydmtncTJpV0pNRjNQQTJB?oc=5)
+
+---
 
 ### [Here’s how much a flu vaccine may lower your dementia risk - The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
 
@@ -51,6 +59,14 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95c
 2026-10-11
 
 Source: [Times Now](https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3o3Q3VLME1NY0FZWnZETkpDNEdWSWhTYXBfbDlmaHR1QmQtOW1qLUVvOEVEOUF6X3NWazljYVEySGM2Wmc0QWZHQmpQdzQyZnEyZEc2VzE4RFFtVHFZLW03MVpVU3RieWc3a0NLbWVLdl9kZXpyWVRJUndqeDZGWWtOOGVoT3JCdDBSbUM5QTFwTkXSAZgBQVVfeXFMTWc1bnZjMi1uLTJfSUlJZDA2NGdsV2RoNzNMMHRiakViX0FtOHFJb3hsVUVvc3JMejRSZ3FrVG8wMFB4WVhPU3dxSUJnUzY5RjZkRVhxWFl0dnFTbjVTcUxjWU5QUkcyX25Lcmx5RVRWN1pHWDVNQ2FKZ21yR05IdG5EN3NaMkFoRGQ5eDlWM19pQ21pRUpGS0I?oc=5)
+
+---
+
+### [Lower Death Risk Among Dementia Patients Who Are Overweight Or Obese, Study Finds](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZTI5bW9LSEg1WGx6VGY5M0RxeWFHSEROcFJnZVJQNmpTMXlUaWd1aVhtLXNFSHBRQU1GVzBBS0RDV09lV0VJZEQybF9McXJGMGVjNWwwNnhhRU9tdmVIVS1DMU5FTW5mb250bmkyYmlhQ1dyVUJsRnFKTE0xWHNKeDZrTldaWDhLSlN3ZTNVQXRRUWY2TjVFN0tMWjJSOGxuWjl6anRHMXpRSkNLbldJcUpUZnhjaTNVbEYtTkNVZ19VTEotLXo0?oc=5)
+
+2026-10-06
+
+Source: [Forbes](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZTI5bW9LSEg1WGx6VGY5M0RxeWFHSEROcFJnZVJQNmpTMXlUaWd1aVhtLXNFSHBRQU1GVzBBS0RDV09lV0VJZEQybF9McXJGMGVjNWwwNnhhRU9tdmVIVS1DMU5FTW5mb250bmkyYmlhQ1dyVUJsRnFKTE0xWHNKeDZrTldaWDhLSlN3ZTNVQXRRUWY2TjVFN0tMWjJSOGxuWjl6anRHMXpRSkNLbldJcUpUZnhjaTNVbEYtTkNVZ19VTEotLXo0?oc=5)
 
 ---
 

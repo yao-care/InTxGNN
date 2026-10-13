@@ -3,7 +3,7 @@ layout: default
 title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke. 1 articles, 15 related drugs."
+description: "Health news about stroke. 2 articles, 15 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about stroke?">
-<strong>stroke</strong> currently has <strong>1 news articles</strong> and 15 related drugs.
+<strong>stroke</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [GLP-1s May Protect Against Stroke and Alzheimer’s Disease](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkVheXpUZW9jdVl1MVZYR3hfWGFKU3VmbE5lRVIzWFBXWUQ5MmZLQ3NBZVVVS21DMjhMWkhpalhhX3hkUUhsaDRoZDQ5aXNBSi1UaEo3TXJnZXNFRVpyazZqdGtYSmlsZWRGZ01sX1V2NUtSX045U0tYV180ODktTEs1U2xnZnNJM2tHNFRBLVhVdUlKSGNhSmR5SGdsLW50?oc=5)
+
+2026-10-13
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkVheXpUZW9jdVl1MVZYR3hfWGFKU3VmbE5lRVIzWFBXWUQ5MmZLQ3NBZVVVS21DMjhMWkhpalhhX3hkUUhsaDRoZDQ5aXNBSi1UaEo3TXJnZXNFRVpyazZqdGtYSmlsZWRGZ01sX1V2NUtSX045U0tYV180ODktTEs1U2xnZnNJM2tHNFRBLVhVdUlKSGNhSmR5SGdsLW50?oc=5)
+
+---
 
 ### [Identify cardiac risks by advanced imaging instead of waiting for symptoms: Experts](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOellOaFJjNWtGaVJRejJseFBpNkZONTFGRzhyYXJqN0RYR3AtMXN0RzV5OC13TWloMlBRVWYyNE81OWpYRmU4UkFfM0p0MXp0bnB2ZkVJZGJqeDVUUUlLNTNlRWh0QW1MMFh6YXRXTUhEV3o2TE8yUlpUQlhNeE1jQzdmWnpoYWxBYURoVkQtMkYzQVpXNktNMWFOanMyMHdfeVpkOFBfM19oa1dWWkoxdFhHZm9Xa0Mx0gG-AUFVX3lxTFBnOVlKak9DMVQxSWZVanZET253RFZZZ3ZDOXYzajE1dmJTODNzVVY0Ymp2ZEd6SzY0X2w0T0VPQ2xCYk9mTUhMeFYxMHdINThFRktzU1pUZGxodW44VDVBWm03alZXdVk0cnZrUE8xYmFQbmtpa1IxRjdBLVg5R2RYUzI0eFBqay12cGh0VWhma29ueXZyN0ZQSlpBaXV5UVU3V2hMUHgtTHJsVlllMGhGZGZ2ckd0V0QwZjRSUmc?oc=5)
 

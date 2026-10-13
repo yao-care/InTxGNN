@@ -3,7 +3,7 @@ layout: default
 title: "menopause (menopause symptoms) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause (menopause symptoms). 1 articles, 23 related drugs."
+description: "Health news about menopause (menopause symptoms). 2 articles, 23 related drugs."
 permalink: /news/menopause-symptoms/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause-symptoms/
 ---
 
 <p class="key-answer" data-question="What news is there about menopause (menopause symptoms)?">
-<strong>menopause (menopause symptoms)</strong> currently has <strong>1 news articles</strong> and 23 related drugs.
+<strong>menopause (menopause symptoms)</strong> currently has <strong>2 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,21 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Menopause is marked by a body-wide physiological 'cliff,' study suggests - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTU4SjBCZHo2M2owRmVGRmJLakRROTRUWDVhNW8wZEVMcE0wcXBEcVEwN1hob0w0WUJTWFctcXV2bDJPSlMzX1FhY0RRYV9mWTJuT1ZVcjl3SGkxZGg2di1mcnhDRUluVE92VUdVZWQ4RVYxcEpnZl9JZDhvTnU5VGJkRlRUcFlWbDRF?oc=5)
+### [GLP-1 Exposure Around Pregnancy: No Clear Rise in Adverse Outcomes](https://news.google.com/rss/articles/CBMiugFBVV95cUxORnFIdENNbm1vRi1yZHhfS3lxRjRjRG94WHpXYnFwYWpEQVpQdzJEMXV0RHM2OHhLQTdndUpQemtxck02NW1ZcjI5bDZhV3FkelRUeWEyNWZGbjk2RWVraTJuMXM1NUplSkpITWg2MVNzRkN2Qzh4RHVNUjFfd1FaRjgxUnRscjN6c2FvNzdIel9OazRVS2ZyOW85WWNvR1Bycm5RR29ERk1XTUNiZjQ2VXYxQU1rMmVZSkE?oc=5)
 
-2026-10-12
+2026-10-13
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTU4SjBCZHo2M2owRmVGRmJLakRROTRUWDVhNW8wZEVMcE0wcXBEcVEwN1hob0w0WUJTWFctcXV2bDJPSlMzX1FhY0RRYV9mWTJuT1ZVcjl3SGkxZGg2di1mcnhDRUluVE92VUdVZWQ4RVYxcEpnZl9JZDhvTnU5VGJkRlRUcFlWbDRF?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMiugFBVV95cUxORnFIdENNbm1vRi1yZHhfS3lxRjRjRG94WHpXYnFwYWpEQVpQdzJEMXV0RHM2OHhLQTdndUpQemtxck02NW1ZcjI5bDZhV3FkelRUeWEyNWZGbjk2RWVraTJuMXM1NUplSkpITWg2MVNzRkN2Qzh4RHVNUjFfd1FaRjgxUnRscjN6c2FvNzdIel9OazRVS2ZyOW85WWNvR1Bycm5RR29ERk1XTUNiZjQ2VXYxQU1rMmVZSkE?oc=5)
+
+---
+
+### [Major Study Finds Abrupt Changes in Bone, Liver, and Blood Fat Health at Menopause - Medical Dialogues](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWHFNYzc1WWFBaHRmdnZtR3Q2TmFSNGdvX1VPR25fOWp6akljS0ZJV3ZXXzhGS1NNZWxlX181TVpDU0t5ZXliMGZyQWtodHZRcFZQYWJlekl0QS1IQU9fYlRlR29JQkJlbmZneV9Zd1pjd1ZlUjdyV1pjelRWamZLTERmMExFOUFBcS1ualVYenV3cUJBZ1ZBUEt4T2pXbzJfWEZyT1ZQU2tRX3VJVGNnOWhoVE1Tb2J0d3EwVFU5N2RzSU40MkNtTGJhQ1huUWhXc25ndDhGYlBBZE93UFhjSG1mSVQ?oc=5)
+
+2026-10-13
+
+Source: [Medical Dialogues](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWHFNYzc1WWFBaHRmdnZtR3Q2TmFSNGdvX1VPR25fOWp6akljS0ZJV3ZXXzhGS1NNZWxlX181TVpDU0t5ZXliMGZyQWtodHZRcFZQYWJlekl0QS1IQU9fYlRlR29JQkJlbmZneV9Zd1pjd1ZlUjdyV1pjelRWamZLTERmMExFOUFBcS1ualVYenV3cUJBZ1ZBUEt4T2pXbzJfWEZyT1ZQU2tRX3VJVGNnOWhoVE1Tb2J0d3EwVFU5N2RzSU40MkNtTGJhQ1huUWhXc25ndDhGYlBBZE93UFhjSG1mSVQ?oc=5)
 
 ---
 

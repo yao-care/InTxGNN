@@ -14,7 +14,7 @@ permalink: /news/amodiaquine/
 ---
 
 <p class="key-answer" data-question="What news is there about Amodiaquine?">
-<strong>Amodiaquine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Amodiaquine</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ This page combines the AI-predicted indications for Amodiaquine with the latest 
 <p><a href="{{ '/drugs/amodiaquine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Study Finds Lower Pregnancy Risks in HPV-Vaccinated Women - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
 
 2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
+
+---
+
+### [Chronic Pain Lasts Longer For Women Than Men, But A New Study Might Find An Opioid-Free Solution](https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVBrbk83UDFTZGVVZ3JfdUpiQk5EQXFXVzZQNUoyUzZCWXVJUjhiZzZIV2VMNFV3aTZBMy1nRGhxaUpPcmh2dkNieUJGa2JRNV9MZ1VsM2VQZ3hfRDRjOTRucnpMOC0tTVRVWjlZRVJvVEhKMHJvNTdiNEhicEYwMklzeFZsdERZUDhNa056a1ZtWVIwMmRibnJVTTl0SUM0eWNZd3hn?oc=5)
+
+2026-10-11 <span class="news-indication-tag">RA</span>
+
+Source: [BGR](https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVBrbk83UDFTZGVVZ3JfdUpiQk5EQXFXVzZQNUoyUzZCWXVJUjhiZzZIV2VMNFV3aTZBMy1nRGhxaUpPcmh2dkNieUJGa2JRNV9MZ1VsM2VQZ3hfRDRjOTRucnpMOC0tTVRVWjlZRVJvVEhKMHJvNTdiNEhicEYwMklzeFZsdERZUDhNa056a1ZtWVIwMmRibnJVTTl0SUM0eWNZd3hn?oc=5)
 
 ---
 

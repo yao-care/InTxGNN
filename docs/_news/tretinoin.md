@@ -14,7 +14,7 @@ permalink: /news/tretinoin/
 ---
 
 <p class="key-answer" data-question="What news is there about Tretinoin?">
-<strong>Tretinoin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Tretinoin</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Tretinoin with the latest he
 <p><a href="{{ '/drugs/tretinoin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Acne: New Research Offers Fresh Insights Into Isotretinoin](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1Uzd0FCcjlPSHFHNjhuYkdNVlZHQTN2ZzRETnN2a3lhSGVHYVdqLU5TU3FEVmtYSkpGcXRtRFBndW9xbTFNdXlUTnZldjVtVkc0bXU5VlM1UEJteU92cjl2S045cko0SF9jWE5vSVdzdGMzZmM1c2FhN2l3cUhtOHlXdWhvbV9iSE40cV9WVVBMTnI5VmRVZEgxZ19rZ3MwVDRFeA?oc=5)
+
+2026-10-13 <span class="news-drug-tag">TRETINOIN</span> <span class="news-drug-tag">ISOTRETINOIN</span> <span class="news-drug-tag">Isotretinoin</span> <span class="news-drug-tag">Tretinoin</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1Uzd0FCcjlPSHFHNjhuYkdNVlZHQTN2ZzRETnN2a3lhSGVHYVdqLU5TU3FEVmtYSkpGcXRtRFBndW9xbTFNdXlUTnZldjVtVkc0bXU5VlM1UEJteU92cjl2S045cko0SF9jWE5vSVdzdGMzZmM1c2FhN2l3cUhtOHlXdWhvbV9iSE40cV9WVVBMTnI5VmRVZEgxZ19rZ3MwVDRFeA?oc=5)
+
+---
 
 
 <div class="disclaimer">

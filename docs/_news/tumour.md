@@ -3,7 +3,7 @@ layout: default
 title: "tumour News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumour. 1 articles, 228 related drugs."
+description: "Health news about tumour. 2 articles, 228 related drugs."
 permalink: /news/tumour/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tumour/
 ---
 
 <p class="key-answer" data-question="What news is there about tumour?">
-<strong>tumour</strong> currently has <strong>1 news articles</strong> and 228 related drugs.
+<strong>tumour</strong> currently has <strong>2 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -256,7 +256,15 @@ This page brings together the latest health news about “tumour” and lists th
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Rapid genomic test to speed up brain tumour diagnosis - Healthcare Today](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjNFWXpvdC1OWmJyOFNsYnJEWEF1cTVFNk5zY3ZaOGUtelJTRUJQcHNIQkgtaDdQUDhGU3M5LXhrWE9VT3ljbVdONUxRamIwNUtOMGF4bUFfcXo2X1IyX0FWa3VZdXpfTG9TR21XeGpMSlFJRUN1cDFZalpyYV91N1BHcVV4V25ydDBhN0U2OXNXaE0?oc=5)
+
+2026-10-13
+
+Source: [Healthcare Today](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjNFWXpvdC1OWmJyOFNsYnJEWEF1cTVFNk5zY3ZaOGUtelJTRUJQcHNIQkgtaDdQUDhGU3M5LXhrWE9VT3ljbVdONUxRamIwNUtOMGF4bUFfcXo2X1IyX0FWa3VZdXpfTG9TR21XeGpMSlFJRUN1cDFZalpyYV91N1BHcVV4V25ydDBhN0U2OXNXaE0?oc=5)
+
+---
 
 ### [Brain cancer diagnosis: Man, 33, blamed his frequent headaches on stress and fatherhood, then a brain sca - The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxNaDYwVmNZQjJVR2k2TFhQWHcwSWxzSDFlbk1fbnpILVZGakVSYlJ3NFQ1X1lsS2VBazJMSVp5bDJ5dklwSC1zWmU2cFhPVzNlWEl6Q0ZfR2h4dVBBUFU4d0pfUkVveGZrWWJJc1JkN3pzVUxyUVhNS2dScHNLVGttWGpjNXloVnV5SHJqNThXQWJNU05zejg0bmRDcm9Eb2NPa0gwQWFQYW5GZWlFLU1LRjhNTnpDMTBzdFF2SU0taHBJYWk0NTJTQXl4YmR3bTVmUVNHb0hneEdtbElQZDFUXzMyZW9EWkZTMGt3UW1jVlJ0OXh1YzBLTFM1MzVwTmpuMXBwWGhDbkFQdXZuWlVvRlZTUjBsRHZFMHc?oc=5)
 
