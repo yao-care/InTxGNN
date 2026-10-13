@@ -14,7 +14,7 @@ permalink: /news/cabozantinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabozantinib?">
-<strong>Cabozantinib</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Cabozantinib</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ This page combines the AI-predicted indications for Cabozantinib with the latest
 <p><a href="{{ '/drugs/cabozantinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
 
-### ['Living proof': Personalized cancer treatment leads to better outcomes and renewed hope](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV09nUGJDSk90a0tDQ0J2YWJZVGZUWnUwOGZjVkRLS01aZHYzM1pWd180b3RNakpRcC04NDBWb3pCT0o3Q1I1UmphT216LUVCbm5wRklydGhpYWlLdy1XSktQNy1LRjJSRTJiNHcxeVhZLVp3RC02b2lkZGVNcFFiQk9Ec2ptdzIxZFdyWGtBcW5JTUUyall2OHNTYzZOSHl5cUFxTGdZWG5VYzFfYlFGYnNWMnRXckJvZzZhMUZuZVZfTkRlZ3Bhc25Ka25UY2xf?oc=5)
+### [Brain cancer diagnosis: Man, 33, blamed his frequent headaches on stress and fatherhood, then a brain sca - The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxNaDYwVmNZQjJVR2k2TFhQWHcwSWxzSDFlbk1fbnpILVZGakVSYlJ3NFQ1X1lsS2VBazJMSVp5bDJ5dklwSC1zWmU2cFhPVzNlWEl6Q0ZfR2h4dVBBUFU4d0pfUkVveGZrWWJJc1JkN3pzVUxyUVhNS2dScHNLVGttWGpjNXloVnV5SHJqNThXQWJNU05zejg0bmRDcm9Eb2NPa0gwQWFQYW5GZWlFLU1LRjhNTnpDMTBzdFF2SU0taHBJYWk0NTJTQXl4YmR3bTVmUVNHb0hneEdtbElQZDFUXzMyZW9EWkZTMGt3UW1jVlJ0OXh1YzBLTFM1MzVwTmpuMXBwWGhDbkFQdXZuWlVvRlZTUjBsRHZFMHc?oc=5)
+
+2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumour</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxNaDYwVmNZQjJVR2k2TFhQWHcwSWxzSDFlbk1fbnpILVZGakVSYlJ3NFQ1X1lsS2VBazJMSVp5bDJ5dklwSC1zWmU2cFhPVzNlWEl6Q0ZfR2h4dVBBUFU4d0pfUkVveGZrWWJJc1JkN3pzVUxyUVhNS2dScHNLVGttWGpjNXloVnV5SHJqNThXQWJNU05zejg0bmRDcm9Eb2NPa0gwQWFQYW5GZWlFLU1LRjhNTnpDMTBzdFF2SU0taHBJYWk0NTJTQXl4YmR3bTVmUVNHb0hneEdtbElQZDFUXzMyZW9EWkZTMGt3UW1jVlJ0OXh1YzBLTFM1MzVwTmpuMXBwWGhDbkFQdXZuWlVvRlZTUjBsRHZFMHc?oc=5)
+
+---
+
+### [Recognising Early Signs of Childhood Cancer: What Parents Need to Know - India News Network](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2ZQYTJBVW1FQ0MtbnNNV3N0ZGtZYWZ0YW5kN1N0WjRLeEJXaWZ2cmxIbEhfalV6dzJwcmlfdWxCbThkaEFfZzdlREhueFhIY3ZMalJpalNDS0NNcFlaUnY4Z2doUGFYVGd3ZGs4YjJROUJSdndxWVZ0QTVZM3pFelBfRGxjVlYxLVhiUFZCOUF2M1RZQmh4dm5FRG90dDBFQTVZNFhiQlBSel9W?oc=5)
 
 2026-10-12 <span class="news-indication-tag">cancer</span>
 
-Source: [WWMT](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV09nUGJDSk90a0tDQ0J2YWJZVGZUWnUwOGZjVkRLS01aZHYzM1pWd180b3RNakpRcC04NDBWb3pCT0o3Q1I1UmphT216LUVCbm5wRklydGhpYWlLdy1XSktQNy1LRjJSRTJiNHcxeVhZLVp3RC02b2lkZGVNcFFiQk9Ec2ptdzIxZFdyWGtBcW5JTUUyall2OHNTYzZOSHl5cUFxTGdZWG5VYzFfYlFGYnNWMnRXckJvZzZhMUZuZVZfTkRlZ3Bhc25Ka25UY2xf?oc=5)
+Source: [India News Network](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2ZQYTJBVW1FQ0MtbnNNV3N0ZGtZYWZ0YW5kN1N0WjRLeEJXaWZ2cmxIbEhfalV6dzJwcmlfdWxCbThkaEFfZzdlREhueFhIY3ZMalJpalNDS0NNcFlaUnY4Z2doUGFYVGd3ZGs4YjJROUJSdndxWVZ0QTVZM3pFelBfRGxjVlYxLVhiUFZCOUF2M1RZQmh4dm5FRG90dDBFQTVZNFhiQlBSel9W?oc=5)
 
 ---
 
@@ -66,22 +74,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxORC
 
 ---
 
-### [Oral Vitamin C Misses Primary End Point in CCUS but Shows Survival Signal - Oncology Nursing News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOemNvUlVNSE5nSFZCVTlMZ0hOcG9OMERKNlhKSU9ZVEVmbTUzR1p5RzlCUi16eWlnOUE4c1VTYjV5MDdnX2ZmRDBYTDJVY19nckU4S3ZfVkxzT1hrNXM5TzJZbkJhN01sQUF1WkUtQThtbnhCb2F3ZGFZZjhtRk5pRnNydXMxQ2ZnNG0xVXk5TS1zblktR0V4U0V1M0ZjdzBDRkIxVE90MlRoN2JKN1E?oc=5)
-
-2026-10-12 <span class="news-indication-tag">cancer</span>
-
-Source: [Oncology Nursing News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOemNvUlVNSE5nSFZCVTlMZ0hOcG9OMERKNlhKSU9ZVEVmbTUzR1p5RzlCUi16eWlnOUE4c1VTYjV5MDdnX2ZmRDBYTDJVY19nckU4S3ZfVkxzT1hrNXM5TzJZbkJhN01sQUF1WkUtQThtbnhCb2F3ZGFZZjhtRk5pRnNydXMxQ2ZnNG0xVXk5TS1zblktR0V4U0V1M0ZjdzBDRkIxVE90MlRoN2JKN1E?oc=5)
-
----
-
-### [Breast cancer emerging as most common cancer among younger women, don’t ignore early signs: Oncologist](https://news.google.com/rss/articles/CBMixgFBVV95cUxOREhaOHZFZUJPN2ZBbUdSRFJtZk5mMTlDQXNiM25WWTE4WFFaWTdYYldvellQVGZ0MVYwQ3lsV2hDSEluWGNUZzVnVUpaVjBXZ1poMHdLb25SRXM2cVpBV1FFUXVNM0ZGb2ZJQWVMRHhvV0ZXYlQ4b1lwNXBrRm9vZE1yYkZrSnNJRnluRFZ3ODZZY3Ntb2RxRmM4aXluT1dWVVA2bUZHbHNNNjFXV0RCc1FGVFNEOXd2cDJ1Z29iWmtVM2RNa2c?oc=5)
-
-2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Newspatrolling.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxOREhaOHZFZUJPN2ZBbUdSRFJtZk5mMTlDQXNiM25WWTE4WFFaWTdYYldvellQVGZ0MVYwQ3lsV2hDSEluWGNUZzVnVUpaVjBXZ1poMHdLb25SRXM2cVpBV1FFUXVNM0ZGb2ZJQWVMRHhvV0ZXYlQ4b1lwNXBrRm9vZE1yYkZrSnNJRnluRFZ3ODZZY3Ntb2RxRmM4aXluT1dWVVA2bUZHbHNNNjFXV0RCc1FGVFNEOXd2cDJ1Z29iWmtVM2RNa2c?oc=5)
-
----
-
 ### [Breast Cancer: Know the Risks, Recognise the Signs & Get Checked - Health and Me](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGhlYnEyWDhRb1IyYjJsRG1zNDVjOVl1Z2NkbEFLbDlQOUNkVkFnTEwtRHNrSjR6b0tjWlkyN3pEQXExcVZna3d2MDlCU1lGUHZyU3FzMWw1M1RMd0RpajRpNElIZVIxZzVMTE5RQXpNLVJTdjNYWWdlNUNBNGYtSi1uSnJnYXJxTXl6RDVrbUs5cFlvMjhqckM5UDkyRzVaY09jWVJwVnQ2dlBfQmRWS09FdEx5NThsd2Y5anJadw?oc=5)
 
 2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
@@ -90,19 +82,19 @@ Source: [Health and Me](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGh
 
 ---
 
-### [Childhood cancer symptoms can be easily missed - here's what to look out for](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
+### [Why doctors are urging women to redo early genetic tests for cancer risks - The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ0RsWk5zR0o3SHlfVjF1Y19rSjJBQUNtWjlHZFMtUXM0cS1nMzBybklPMXFlQXVwZkoxdTlsNEhBOHJwOFlLekZHSDZnUjRkRFRkS2gwUjNrdUVsNVBMUEtHMzVIUXNLbkFJMVo1Z2drWWR5eGR6ejdnN3JLYUpxazhPWDFCb2M0eUpIMUV1eE5qdUhGdWZiSTYza1Rtam9jVzZvWjZMa1pIOFBsYm9NSGNMQXVycFc5blhheGF3?oc=5)
 
 2026-10-11 <span class="news-indication-tag">cancer</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ0RsWk5zR0o3SHlfVjF1Y19rSjJBQUNtWjlHZFMtUXM0cS1nMzBybklPMXFlQXVwZkoxdTlsNEhBOHJwOFlLekZHSDZnUjRkRFRkS2gwUjNrdUVsNVBMUEtHMzVIUXNLbkFJMVo1Z2drWWR5eGR6ejdnN3JLYUpxazhPWDFCb2M0eUpIMUV1eE5qdUhGdWZiSTYza1Rtam9jVzZvWjZMa1pIOFBsYm9NSGNMQXVycFc5blhheGF3?oc=5)
 
 ---
 
-### [Scared about testing for breast cancer? Oncologist debunks 5 myths that can stop women from getting the right care | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
+### [A new partner in the fight against cancer - Johns Hopkins University](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaUJqeHRKclRzcDNxakZSdlFKWUtiZFpwdG9OOU1oQTQ5QzZnZ2VERlY3bkZ3dVhSYURJWlNMeDc1b1gxOG9LSmNXcFJ6eUU4VThYQlpsRTlkc3RlbXphYjRvM3lydE5GSG9FZm1BaF9rNkhHQXREZ203THZ5UQ?oc=5)
 
-2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-09 <span class="news-indication-tag">cancer</span>
 
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTRnY0pZZTM2dEVSN21nUGhBUTk5cE50V25xWVp0bzgtR0hXR2JEN3NBQzNoTUJ0bkpsSWs4aDB2ZVQ0UzlKSk15d3kyQXdJZWpwcURoaVBmaHBPWlRfY2xsb1hBdVV2Q2JaQlVNUUJtcFBpaGdZQ3B0ejJWOW1kVjdoNDZmSzk4RTREVTZVWXdWcEtJTFRnWFZ4bXJCLVZkakhQb1BNQjc5UzBYWHoxNjYyTVhselg3QXBBdzh3U1l3dWR0U2hMX0NSYjRaTGI3UGpOMFBSZ2Y3U01SWGpQNkVfU0U0WkdWelBrZGdNdGVTQzNzdzN2SktfZERlcmJZZW5tMjQyMEhtUkRVeTlZ0gGUAkFVX3lxTFBPejRBRE1Qd3d1X0JKc3dVMTItVXpBSjBFWXp6ejNhcHNOVkI4UzE5UElkVUtRRHJZYk9iZU5IUjBPN0wzMDBjelFaWHFWZjM5bGotM0VnaEVxQ3puOEltSVUyYno4NE9rTll4NnZ0VXBld3lFMGFGR1dGZnZpVHdVcmpHOW9ZblFxdTJvVkxZNjA0TUpyZG83ZWMyUkNHQU1MQXhhakl1Zm1wVWRMSENxaVdtRFpwM09veHRnaDdOWEtlQ1R0NXhaYTQzZkRhYURhTDQ1R1B5eUVXNWlacS16dVlXclhTU0l4bFRNQzZZNjUzRjRVVVhWWFJZTzhkOGUzN1VEOWRBSDBrRWl3LXJER1RiMQ?oc=5)
+Source: [Johns Hopkins University](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaUJqeHRKclRzcDNxakZSdlFKWUtiZFpwdG9OOU1oQTQ5QzZnZ2VERlY3bkZ3dVhSYURJWlNMeDc1b1gxOG9LSmNXcFJ6eUU4VThYQlpsRTlkc3RlbXphYjRvM3lydE5GSG9FZm1BaF9rNkhHQXREZ203THZ5UQ?oc=5)
 
 ---
 

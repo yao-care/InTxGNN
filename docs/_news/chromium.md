@@ -14,7 +14,7 @@ permalink: /news/chromium/
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Chromium</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <li class="indication-matched">osteoarthritis (98.7%)<span class="indication-tag">📰 osteoarthritis</span></li>
 <li>osteoarthritis susceptibility (98.5%)</li>
 <li class="indication-matched">rheumatoid arthritis (98.5%)<span class="indication-tag">📰 RA</span></li>
-<li>gout (98.0%)</li>
+<li class="indication-matched">gout (98.0%)<span class="indication-tag">📰 gout</span></li>
 <li>pseudoachondroplasia (98.0%)</li>
 <li>hepatic porphyria (97.9%)</li>
 <li>brachyolmia (97.8%)</li>
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Gout cases on the rise globally: Men at greater risk; doctor explains early warning signs and preventive me... - Bhaskar English](https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGxtVjVaaThIY09CYkZDOHNTU3BDVlBWOThTbEI1MVdYb3F4VkhjMHlNQjBmdjRLdTVvSGtRUHVIbkE1UmpiaS1EeGVvaUlfMlFsMFBIUWhUX3BlYXU1WGNWN2JYZnJ5dkZkWG5UWnFuYkhNSzZONVMzUG1PR1ZBbzVaVFRmUFExaVplLWdqN0pYS1NjNVgxUHN0YWdCajhIdEF4VVJFNDBOcUYy0gGyAUFVX3lxTFBYeXUweWo2RW16QUFQUm9FLUdRTmhyNmhxZ2dYdnhZX1JXU1hrbFpVUzJqWkdQRTdVTERDSF83TFBtNFBibDJaUGRhWHUyODhhcHJDNmFTVmUzcndCcjY5SVZpMkFUSERFX3Z0WmZzLVRiVzZyQ1NmMThQRFh1Q2czS2JxZ2xZcFNDUVZqdDRfZHVSZVJoLTE2dk15eE1pSHZLNjc0c0ZhbmFaTHRUMDVuN1E?oc=5)
+
+2026-10-12 <span class="news-indication-tag">gout</span> <span class="news-indication-tag">gout</span>
+
+Source: [Bhaskar English](https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGxtVjVaaThIY09CYkZDOHNTU3BDVlBWOThTbEI1MVdYb3F4VkhjMHlNQjBmdjRLdTVvSGtRUHVIbkE1UmpiaS1EeGVvaUlfMlFsMFBIUWhUX3BlYXU1WGNWN2JYZnJ5dkZkWG5UWnFuYkhNSzZONVMzUG1PR1ZBbzVaVFRmUFExaVplLWdqN0pYS1NjNVgxUHN0YWdCajhIdEF4VVJFNDBOcUYy0gGyAUFVX3lxTFBYeXUweWo2RW16QUFQUm9FLUdRTmhyNmhxZ2dYdnhZX1JXU1hrbFpVUzJqWkdQRTdVTERDSF83TFBtNFBibDJaUGRhWHUyODhhcHJDNmFTVmUzcndCcjY5SVZpMkFUSERFX3Z0WmZzLVRiVzZyQ1NmMThQRFh1Q2czS2JxZ2xZcFNDUVZqdDRfZHVSZVJoLTE2dk15eE1pSHZLNjc0c0ZhbmFaTHRUMDVuN1E?oc=5)
+
+---
 
 ### [Study Finds Lower Pregnancy Risks in HPV-Vaccinated Women - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
 

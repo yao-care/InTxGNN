@@ -53,11 +53,11 @@ This page brings together the latest health news about “menopause” and lists
 
 ## Related News (1)
 
-### [Bones, Liver, And Blood Fats All Shift Abruptly at Menopause, Huge Study Finds](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDFwZXN2SjdsUVEwdExHUnBIWVZFSlpWNUxDUm5vUzVUb0RaOVgwY3lSQXhqbUxEcHlwajVaYW9MdjdqR1hUYllCeWx4VEdjWWlndm9uSU9JejQyUlQ4bWRWWGQxanNFWlJDOG9hbHIwTUVac0NoSVlSaGNBV1NsN3JhMkFPUzRfR3U4RlY1RzI0b2wwcW1feDNUaWZsT2VYMERqRVAwbw?oc=5)
+### [Menopause is marked by a body-wide physiological 'cliff,' study suggests - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTU4SjBCZHo2M2owRmVGRmJLakRROTRUWDVhNW8wZEVMcE0wcXBEcVEwN1hob0w0WUJTWFctcXV2bDJPSlMzX1FhY0RRYV9mWTJuT1ZVcjl3SGkxZGg2di1mcnhDRUluVE92VUdVZWQ4RVYxcEpnZl9JZDhvTnU5VGJkRlRUcFlWbDRF?oc=5)
 
 2026-10-12
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDFwZXN2SjdsUVEwdExHUnBIWVZFSlpWNUxDUm5vUzVUb0RaOVgwY3lSQXhqbUxEcHlwajVaYW9MdjdqR1hUYllCeWx4VEdjWWlndm9uSU9JejQyUlQ4bWRWWGQxanNFWlJDOG9hbHIwTUVac0NoSVlSaGNBV1NsN3JhMkFPUzRfR3U4RlY1RzI0b2wwcW1feDNUaWZsT2VYMERqRVAwbw?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTU4SjBCZHo2M2owRmVGRmJLakRROTRUWDVhNW8wZEVMcE0wcXBEcVEwN1hob0w0WUJTWFctcXV2bDJPSlMzX1FhY0RRYV9mWTJuT1ZVcjl3SGkxZGg2di1mcnhDRUluVE92VUdVZWQ4RVYxcEpnZl9JZDhvTnU5VGJkRlRUcFlWbDRF?oc=5)
 
 ---
 
