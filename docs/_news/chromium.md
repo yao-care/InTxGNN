@@ -14,7 +14,7 @@ permalink: /news/chromium/
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Chromium</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li class="indication-matched">osteoarthritis (98.7%)<span class="indication-tag">📰 osteoarthritis</span></li>
+<li>osteoarthritis (98.7%)</li>
 <li>osteoarthritis susceptibility (98.5%)</li>
 <li class="indication-matched">rheumatoid arthritis (98.5%)<span class="indication-tag">📰 RA</span></li>
 <li class="indication-matched">gout (98.0%)<span class="indication-tag">📰 gout</span></li>
@@ -40,13 +40,13 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [FDA-Approved Drug Could Be Repurposed to Relieve Osteoarthritis Pain And Protect Cartilage](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEhYX2t6Q1FaMU9PREg2S0RFaW1qNGJYUWFPU21TMjUyRl9jODgwVzhrYm9mTmFUUnNDUkRJcFMtdmZaeDE0SzNNdEVyZ0VfQks4YTQ3LWhHN2NIVTFEY0dFVlk5dkJyQi1IQ0hVQnFkMllxVE9tbXBaekdKS0YzYnI0T21JX0t6VDRfOTExQTZqTVE0MWVfd2ZDTXFNa2hHUjF5c0VsTnhKNHBxRlhRU01pbXRYYmJHQWpv?oc=5)
+### [Breast Cancer Awareness Month: Apollo Spectra Bengaluru Reports 10% Rise In Breast Consultations. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkFkWUlFM0c2TFYzU01KaTI1cFBuRldPbFpIWWNfR0VSWlEydGdGNnZUR0RtUURza01sR01xM1RLSzVvUHFOM3luWldyRnVFbHJWcElkRzJnb2ptb3RBdXpOc0JOUFNNeWNpd3k0QlRoOUUzeGhheDBYR2RucFhlbnYyQTRwSVd0ZXVjWnJnYS03enZ0ZU1scFZNbTh0SVR0aDRTR2UycE5CNW5IY3A5NTNTcXZtSXRLQzM2c3p2cjhXekpaUnc?oc=5)
 
-2026-10-13 <span class="news-drug-tag">Lacosamide</span> <span class="news-indication-tag">dama</span> <span class="news-indication-tag">osteoarthritis</span>
+2026-10-14 <span class="news-indication-tag">RA</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEhYX2t6Q1FaMU9PREg2S0RFaW1qNGJYUWFPU21TMjUyRl9jODgwVzhrYm9mTmFUUnNDUkRJcFMtdmZaeDE0SzNNdEVyZ0VfQks4YTQ3LWhHN2NIVTFEY0dFVlk5dkJyQi1IQ0hVQnFkMllxVE9tbXBaekdKS0YzYnI0T21JX0t6VDRfOTExQTZqTVE0MWVfd2ZDTXFNa2hHUjF5c0VsTnhKNHBxRlhRU01pbXRYYmJHQWpv?oc=5)
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkFkWUlFM0c2TFYzU01KaTI1cFBuRldPbFpIWWNfR0VSWlEydGdGNnZUR0RtUURza01sR01xM1RLSzVvUHFOM3luWldyRnVFbHJWcElkRzJnb2ptb3RBdXpOc0JOUFNNeWNpd3k0QlRoOUUzeGhheDBYR2RucFhlbnYyQTRwSVd0ZXVjWnJnYS03enZ0ZU1scFZNbTh0SVR0aDRTR2UycE5CNW5IY3A5NTNTcXZtSXRLQzM2c3p2cjhXekpaUnc?oc=5)
 
 ---
 
@@ -63,14 +63,6 @@ Source: [Bhaskar English](https://news.google.com/rss/articles/CBMirAFBVV95cUxNe
 2026-10-12 <span class="news-indication-tag">RA</span>
 
 Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
-
----
-
-### [Arthritis Day: Stanford Researchers Explore Possibility To Treat Osteoarthritis Without Knee Replacement Surgery - Health and Me](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRFVrUENveEt4cmZZOTkwdDVnb2J4WEc4NVNvelZqcTNvTjJleWI2cTd4RW9pUm1ob012Y3Ewb0xqWVEzbFBhRDUya05BZFZaMDAyTmN0a1pYYnlHSGFsU2ZPeS1DU3F6dnJwbS1ZcFBOMHlhQkNZbUVFMVc4Q3N2SFJMYzJOMkNKMk5Td3NPUDRsT2pPZWdFWGNhSUtpQTVSRUNNOTBmQWFjMGVlSGc1TmpPX3pSWk8waVExd0ozSl9uR0ZFaXRoUkFMMG1sM3Z6aXFIaDBhYUNuc2RSd1hMNnJfckhFcTZkZ3JWejNBcjJJbXhFZGxaRTdkOEh6dw?oc=5)
-
-2026-10-12 <span class="news-indication-tag">dama</span> <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [Health and Me](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRFVrUENveEt4cmZZOTkwdDVnb2J4WEc4NVNvelZqcTNvTjJleWI2cTd4RW9pUm1ob012Y3Ewb0xqWVEzbFBhRDUya05BZFZaMDAyTmN0a1pYYnlHSGFsU2ZPeS1DU3F6dnJwbS1ZcFBOMHlhQkNZbUVFMVc4Q3N2SFJMYzJOMkNKMk5Td3NPUDRsT2pPZWdFWGNhSUtpQTVSRUNNOTBmQWFjMGVlSGc1TmpPX3pSWk8waVExd0ozSl9uR0ZFaXRoUkFMMG1sM3Z6aXFIaDBhYUNuc2RSd1hMNnJfckhFcTZkZ3JWejNBcjJJbXhFZGxaRTdkOEh6dw?oc=5)
 
 ---
 

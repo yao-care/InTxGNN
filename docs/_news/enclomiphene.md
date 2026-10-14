@@ -25,16 +25,16 @@ This page combines the AI-predicted indications for Enclomiphene with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
+<li>Psychogenic movement disorders (99.7%)</li>
+<li>Chronic tic disorder (99.6%)</li>
+<li>Benign shuddering attacks (99.6%)</li>
+<li>Extrapyramidal and movement disease (99.6%)</li>
+<li>Primary orthostatic tremor (99.6%)</li>
+<li>Tremor-nystagmus-duodenal ulcer syndrome (99.6%)</li>
+<li>Lingual-facial-buccal dyskinesia (99.6%)</li>
+<li>Benign paroxysmal tonic upgaze of childhood with ataxia (99.6%)</li>
+<li>Carbamoyl phosphate synthetase I deficiency disease (99.5%)</li>
 <li>acute intermittent porphyria (99.8%)</li>
-<li>psychogenic movement disorders (99.7%)</li>
-<li>chronic tic disorder (99.6%)</li>
-<li>benign shuddering attacks (99.6%)</li>
-<li>extrapyramidal and movement disease (99.6%)</li>
-<li>primary orthostatic tremor (99.6%)</li>
-<li>tremor-nystagmus-duodenal ulcer syndrome (99.6%)</li>
-<li>lingual-facial-buccal dyskinesia (99.6%)</li>
-<li>benign paroxysmal tonic upgaze of childhood with ataxia (99.6%)</li>
-<li>carbamoyl phosphate synthetase I deficiency disease (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/enclomiphene/' | relative_url }}">View full drug report →</a></p>

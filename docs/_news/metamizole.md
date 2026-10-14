@@ -14,7 +14,7 @@ permalink: /news/metamizole/
 ---
 
 <p class="key-answer" data-question="What news is there about Metamizole?">
-<strong>Metamizole</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Metamizole</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Metamizole with the latest h
 <p><a href="{{ '/drugs/metamizole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Breast Cancer Awareness Month: Apollo Spectra Bengaluru Reports 10% Rise In Breast Consultations. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkFkWUlFM0c2TFYzU01KaTI1cFBuRldPbFpIWWNfR0VSWlEydGdGNnZUR0RtUURza01sR01xM1RLSzVvUHFOM3luWldyRnVFbHJWcElkRzJnb2ptb3RBdXpOc0JOUFNNeWNpd3k0QlRoOUUzeGhheDBYR2RucFhlbnYyQTRwSVd0ZXVjWnJnYS03enZ0ZU1scFZNbTh0SVR0aDRTR2UycE5CNW5IY3A5NTNTcXZtSXRLQzM2c3p2cjhXekpaUnc?oc=5)
+
+2026-10-14 <span class="news-indication-tag">RA</span>
+
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkFkWUlFM0c2TFYzU01KaTI1cFBuRldPbFpIWWNfR0VSWlEydGdGNnZUR0RtUURza01sR01xM1RLSzVvUHFOM3luWldyRnVFbHJWcElkRzJnb2ptb3RBdXpOc0JOUFNNeWNpd3k0QlRoOUUzeGhheDBYR2RucFhlbnYyQTRwSVd0ZXVjWnJnYS03enZ0ZU1scFZNbTh0SVR0aDRTR2UycE5CNW5IY3A5NTNTcXZtSXRLQzM2c3p2cjhXekpaUnc?oc=5)
+
+---
 
 ### [Gout cases on the rise globally: Men at greater risk; doctor explains early warning signs and preventive me... - Bhaskar English](https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGxtVjVaaThIY09CYkZDOHNTU3BDVlBWOThTbEI1MVdYb3F4VkhjMHlNQjBmdjRLdTVvSGtRUHVIbkE1UmpiaS1EeGVvaUlfMlFsMFBIUWhUX3BlYXU1WGNWN2JYZnJ5dkZkWG5UWnFuYkhNSzZONVMzUG1PR1ZBbzVaVFRmUFExaVplLWdqN0pYS1NjNVgxUHN0YWdCajhIdEF4VVJFNDBOcUYy0gGyAUFVX3lxTFBYeXUweWo2RW16QUFQUm9FLUdRTmhyNmhxZ2dYdnhZX1JXU1hrbFpVUzJqWkdQRTdVTERDSF83TFBtNFBibDJaUGRhWHUyODhhcHJDNmFTVmUzcndCcjY5SVZpMkFUSERFX3Z0WmZzLVRiVzZyQ1NmMThQRFh1Q2czS2JxZ2xZcFNDUVZqdDRfZHVSZVJoLTE2dk15eE1pSHZLNjc0c0ZhbmFaTHRUMDVuN1E?oc=5)
 

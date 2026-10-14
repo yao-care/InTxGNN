@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -59,7 +59,7 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Protein clues may help explain heart disease risk that persists despite lower LDL cholesterol - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFZ1SHgxdzFtb3hxVWNVNnpfT29heGJrY3dtZ2ZwZk1IRjk2Z2MzSXJXVXI4S3hSLWNCdlBwVVdfMlpJZ2w3YUZtOWRqTmlvYmxfcnlSM1NPdG5EVkVXZmFidUxQRV9zY2hJYl92RW04SUplOUEycjJmTkwxSjMxdjFRMm14bGs?oc=5)
 
@@ -74,14 +74,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMF
 2026-10-13
 
 Source: [Open Access Government](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHlWVy1aQ3NwWVVlR3I4ajdodWRDR21uSzFFcHltZ3liUTJxcUVlYlRsLUlNQVFnS0xyWXRjaV9IWTM4QzNFWHdnMXdEelpHVlJGSGxUN2pzcEczbW9FQ1RmQ3BxMVhSVmhqVGhPUldaTEFxeUEyNDdfVnA3WllMSC05RldncE8yVUhrQmtvMFpaY2loYVVJcG1BTWxQZkJONzg3WXVhWjBmclRFOHloYg?oc=5)
-
----
-
-### [Pregnancy woes tied to heart, kidney, metabolic disorders in later stage of life - Telegraph India](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUW52OU9RbGljNTVTaWREekVOUW9wdHV1QzBTWlFZUFRRZXZFOTV1dEhGOFhWUUYzaEZJclJ2UG4zdTR1TlBOVGhmRENMdHNnNXQ3NGFibDFGaEg5UHNpdjV3UTBWcVg3dkJjenB5a3RNcTVrNk1xSHdULXpkS2Q4WUpYWnlqUGRXMG9tSnJsNTFYMUJBZjdfTTNXcW9GYVZNdktQckJsb0NFRDFMZFNvTjRvYU9EUkR0UUhLckR1a3p3UVk5ZVVfZWU4ZHlFVE9nNnVNci1lT3dtUdIB3wFBVV95cUxQZThsbWl4N3JoTUV2RmZMSHNHRHh4cVBWYlJ5MmFrZXI5N3haTUc2bGg3MDdXWkxJM3FFSEJGcmkzbVJneWROYjB6ZHZaV2h0c0ZMbHZvWnFpQmRiektGREt1Q0gwUzlPSzRibkJCSTJzSGxPVmRWVDlWV2UzTkFnajN3ODlOWmQtbFlmeVJDMVpMTGN4azFJSkFoYmRTYzNGUU01emFBcGVkdDRSRVBYOE9LdlZ3blp6eUF3QmVwUGMtLXZoQk9JWmQ1YjRTbzJJRHg4SzNocUwzVjl4OVJZ?oc=5)
-
-2026-10-08
-
-Source: [Telegraph India](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUW52OU9RbGljNTVTaWREekVOUW9wdHV1QzBTWlFZUFRRZXZFOTV1dEhGOFhWUUYzaEZJclJ2UG4zdTR1TlBOVGhmRENMdHNnNXQ3NGFibDFGaEg5UHNpdjV3UTBWcVg3dkJjenB5a3RNcTVrNk1xSHdULXpkS2Q4WUpYWnlqUGRXMG9tSnJsNTFYMUJBZjdfTTNXcW9GYVZNdktQckJsb0NFRDFMZFNvTjRvYU9EUkR0UUhLckR1a3p3UVk5ZVVfZWU4ZHlFVE9nNnVNci1lT3dtUdIB3wFBVV95cUxQZThsbWl4N3JoTUV2RmZMSHNHRHh4cVBWYlJ5MmFrZXI5N3haTUc2bGg3MDdXWkxJM3FFSEJGcmkzbVJneWROYjB6ZHZaV2h0c0ZMbHZvWnFpQmRiektGREt1Q0gwUzlPSzRibkJCSTJzSGxPVmRWVDlWV2UzTkFnajN3ODlOWmQtbFlmeVJDMVpMTGN4azFJSkFoYmRTYzNGUU01emFBcGVkdDRSRVBYOE9LdlZ3blp6eUF3QmVwUGMtLXZoQk9JWmQ1YjRTbzJJRHg4SzNocUwzVjl4OVJZ?oc=5)
 
 ---
 

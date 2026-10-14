@@ -25,16 +25,16 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
+<li>Endocervical carcinoma (100.0%)</li>
+<li>Adenoid cystic carcinoma of the cervix uteri (100.0%)</li>
+<li>Uterine ligament serous adenocarcinoma (99.9%)</li>
+<li>Signet ring cell variant cervical mucinous adenocarcinoma (99.9%)</li>
+<li>Cervical adenosquamous carcinoma, glassy cell variant (99.9%)</li>
+<li>Uterine ligament endometrioid adenocarcinoma (99.9%)</li>
+<li>Uterine ligament clear cell adenocarcinoma (99.9%)</li>
+<li>Uterine ligament mucinous adenocarcinoma (99.9%)</li>
+<li>Intestinal variant cervical mucinous adenocarcinoma (99.9%)</li>
 <li>uterine ligament adenocarcinoma (100.0%)</li>
-<li>endocervical carcinoma (100.0%)</li>
-<li>adenoid cystic carcinoma of the cervix uteri (100.0%)</li>
-<li>uterine ligament serous adenocarcinoma (99.9%)</li>
-<li>signet ring cell variant cervical mucinous adenocarcinoma (99.9%)</li>
-<li>cervical adenosquamous carcinoma, glassy cell variant (99.9%)</li>
-<li>uterine ligament endometrioid adenocarcinoma (99.9%)</li>
-<li>uterine ligament clear cell adenocarcinoma (99.9%)</li>
-<li>uterine ligament mucinous adenocarcinoma (99.9%)</li>
-<li>intestinal variant cervical mucinous adenocarcinoma (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>

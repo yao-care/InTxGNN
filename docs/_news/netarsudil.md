@@ -14,7 +14,7 @@ permalink: /news/netarsudil/
 ---
 
 <p class="key-answer" data-question="What news is there about Netarsudil?">
-<strong>Netarsudil</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Netarsudil</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,15 +26,21 @@ This page combines the AI-predicted indications for Netarsudil with the latest h
 <ul>
 <li><strong>Predicted indications (2)</strong>:<ul>
 <li>primary hereditary glaucoma (99.5%)</li>
-<li>glaucoma (99.5%)</li>
+<li class="indication-matched">glaucoma (99.5%)<span class="indication-tag">📰 glaucoma</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/netarsudil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [From Algorithm to Care: AI-Assisted Glaucoma Screening in Real-World Settings](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1RTSHE1TlVtVjNIMFJXYmNRdjEwZUxnR0FrM18xMXBDQlg0ckRtUkhRWk5ZZG9xVkJlNmxteHYtUklWNUROMDV4Z0gxd2dXbVBkb0Rka0h6OFZjZFpDVEs3cGh4VUNuNmpMT2lpT3RWcHNndnJGb0xneVJxZm14dGNNVlpaSzBsb29kbm11b3NBUENVdUVBNFM0M0NCdmZrRVVieWtfZHc1RWlxTHBWZzZ4VVpZQQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1RTSHE1TlVtVjNIMFJXYmNRdjEwZUxnR0FrM18xMXBDQlg0ckRtUkhRWk5ZZG9xVkJlNmxteHYtUklWNUROMDV4Z0gxd2dXbVBkb0Rka0h6OFZjZFpDVEs3cGh4VUNuNmpMT2lpT3RWcHNndnJGb0xneVJxZm14dGNNVlpaSzBsb29kbm11b3NBUENVdUVBNFM0M0NCdmZrRVVieWtfZHc1RWlxTHBWZzZ4VVpZQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

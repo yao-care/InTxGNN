@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Breast Cancer Awareness Month: Apollo Spectra Bengaluru Reports 10% Rise In Breast Consultations. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkFkWUlFM0c2TFYzU01KaTI1cFBuRldPbFpIWWNfR0VSWlEydGdGNnZUR0RtUURza01sR01xM1RLSzVvUHFOM3luWldyRnVFbHJWcElkRzJnb2ptb3RBdXpOc0JOUFNNeWNpd3k0QlRoOUUzeGhheDBYR2RucFhlbnYyQTRwSVd0ZXVjWnJnYS03enZ0ZU1scFZNbTh0SVR0aDRTR2UycE5CNW5IY3A5NTNTcXZtSXRLQzM2c3p2cjhXekpaUnc?oc=5)
+
+2026-10-14 <span class="news-indication-tag">RA</span>
+
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkFkWUlFM0c2TFYzU01KaTI1cFBuRldPbFpIWWNfR0VSWlEydGdGNnZUR0RtUURza01sR01xM1RLSzVvUHFOM3luWldyRnVFbHJWcElkRzJnb2ptb3RBdXpOc0JOUFNNeWNpd3k0QlRoOUUzeGhheDBYR2RucFhlbnYyQTRwSVd0ZXVjWnJnYS03enZ0ZU1scFZNbTh0SVR0aDRTR2UycE5CNW5IY3A5NTNTcXZtSXRLQzM2c3p2cjhXekpaUnc?oc=5)
+
+---
 
 ### [Study Finds Lower Pregnancy Risks in HPV-Vaccinated Women - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
 

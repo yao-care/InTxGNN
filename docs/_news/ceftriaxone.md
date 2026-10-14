@@ -25,13 +25,13 @@ This page combines the AI-predicted indications for Ceftriaxone with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (7)</strong>:<ul>
+<li>Infectious otitis media (99.3%)</li>
+<li>Suppurative otitis media (99.0%)</li>
+<li>Chronic otitis media (99.0%)</li>
 <li>polyclonal hyperviscosity syndrome (99.4%)</li>
 <li>hyperamylasemia (99.4%)</li>
 <li>congenital analbuminemia (99.4%)</li>
-<li>infectious otitis media (99.3%)</li>
 <li>blood group incompatibility (99.1%)</li>
-<li>suppurative otitis media (99.0%)</li>
-<li>chronic otitis media (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ceftriaxone/' | relative_url }}">View full drug report →</a></p>

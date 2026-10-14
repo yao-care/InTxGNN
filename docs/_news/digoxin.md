@@ -14,7 +14,7 @@ permalink: /news/digoxin/
 ---
 
 <p class="key-answer" data-question="What news is there about Digoxin?">
-<strong>Digoxin</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
+<strong>Digoxin</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,7 @@ This page combines the AI-predicted indications for Digoxin with the latest heal
 <p><a href="{{ '/drugs/digoxin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [NIMS Doctors Urge Early Detection Of Blood Clots To Prevent Stroke, Heart Attack - Deccan Chronicle](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQk44bTBsZFhrYzRjaXBNLVZCeTZ2OERSMmpONy1qRGV4NmFGYkl2dEVZZ2tlUWdXRkJhR0tqcnBuNzd4NFpoV0tEb2dKYVlzNFdLZzJVNHhNcTd3cEw2WkYwM3YxLWdic3JCU0lQYWNlTWt6bUkwWHJvWnVkcE1BNmVBS3dfN3RmWFYxX2Q2Z0dCSjIxXzdsUlJOUnA2bU5meFFJZTBRUmItSU1ic3VXMVJBaXpKZ1MzdWU0Ym05bW1odFdaWnU2WDhsU2dFaWZXdlRxbVIwbzBaYlAzRjFVbtIB5gFBVV95cUxQUnhkeGg2ZDl3ZDl6TWZSZERITzgxVHdzaFJCQUdlN2JKNUdwQ0M3bDhfZlVjUFJzeHU2Ul9YRncyMWRBUkhpQk5KREs3aDgwb0FfQm9KYkdTRXBvSXp6eGFBdkl4MnF6eU84UXY5VUpPWklmajRYUjNKYm1NYjYzTVpfU3lEX0JfMFFhM3FpYk4wV1BTYVB0eXM5TG9pX05xQUxEN3RmMk1KWlZmQU5QcnBLck1BekxzbjV3MnM5RExTdl9hRkNaOUFhSzU4eWlNOGZKc256bHRjTEZrdXFTU05ueXdPQQ?oc=5)
-
-2026-10-13 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Deccan Chronicle](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQk44bTBsZFhrYzRjaXBNLVZCeTZ2OERSMmpONy1qRGV4NmFGYkl2dEVZZ2tlUWdXRkJhR0tqcnBuNzd4NFpoV0tEb2dKYVlzNFdLZzJVNHhNcTd3cEw2WkYwM3YxLWdic3JCU0lQYWNlTWt6bUkwWHJvWnVkcE1BNmVBS3dfN3RmWFYxX2Q2Z0dCSjIxXzdsUlJOUnA2bU5meFFJZTBRUmItSU1ic3VXMVJBaXpKZ1MzdWU0Ym05bW1odFdaWnU2WDhsU2dFaWZXdlRxbVIwbzBaYlAzRjFVbtIB5gFBVV95cUxQUnhkeGg2ZDl3ZDl6TWZSZERITzgxVHdzaFJCQUdlN2JKNUdwQ0M3bDhfZlVjUFJzeHU2Ul9YRncyMWRBUkhpQk5KREs3aDgwb0FfQm9KYkdTRXBvSXp6eGFBdkl4MnF6eU84UXY5VUpPWklmajRYUjNKYm1NYjYzTVpfU3lEX0JfMFFhM3FpYk4wV1BTYVB0eXM5TG9pX05xQUxEN3RmMk1KWlZmQU5QcnBLck1BekxzbjV3MnM5RExTdl9hRkNaOUFhSzU4eWlNOGZKc256bHRjTEZrdXFTU05ueXdPQQ?oc=5)
-
----
+## Related News (1)
 
 ### [GLP-1s May Protect Against Stroke and Alzheimer’s Disease](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkVheXpUZW9jdVl1MVZYR3hfWGFKU3VmbE5lRVIzWFBXWUQ5MmZLQ3NBZVVVS21DMjhMWkhpalhhX3hkUUhsaDRoZDQ5aXNBSi1UaEo3TXJnZXNFRVpyazZqdGtYSmlsZWRGZ01sX1V2NUtSX045U0tYV180ODktTEs1U2xnZnNJM2tHNFRBLVhVdUlKSGNhSmR5SGdsLW50?oc=5)
 

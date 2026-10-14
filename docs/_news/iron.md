@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,9 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [NASA targets Marius Hill Pit on the Moon for caves](https://news.google.com/rss/articles/CBMingFBVV95cUxNTDhKQ0hpbHdCS2xvdWtweHpWSlVrSU5YZm5uR2d1WGN2NXVYMU80UV9fcUlPR3ZFMW0tdHpodEY4LWZrVk9VUzE1ZmxNOUc0b1FVMkwtVzM4V3FCVDFGOHVmZm1KY1pPMDc4SWZxa3VpMjFlMnJCZjlQRlhZWmNlREpUVWVueU4wUVAtUzYxTmdER09BdUc4b0d0X0ZoQQ?oc=5)
-
-2026-10-12 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
-
-Source: [NewsBytes](https://news.google.com/rss/articles/CBMingFBVV95cUxNTDhKQ0hpbHdCS2xvdWtweHpWSlVrSU5YZm5uR2d1WGN2NXVYMU80UV9fcUlPR3ZFMW0tdHpodEY4LWZrVk9VUzE1ZmxNOUc0b1FVMkwtVzM4V3FCVDFGOHVmZm1KY1pPMDc4SWZxa3VpMjFlMnJCZjlQRlhZWmNlREpUVWVueU4wUVAtUzYxTmdER09BdUc4b0d0X0ZoQQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
