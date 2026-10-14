@@ -14,7 +14,7 @@ permalink: /news/nitroprusside/
 ---
 
 <p class="key-answer" data-question="What news is there about Nitroprusside?">
-<strong>Nitroprusside</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Nitroprusside</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Nitroprusside with the lates
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>migraine disorder (100.0%)</li>
 <li>migraine with brainstem aura (100.0%)</li>
-<li>alopecia (100.0%)</li>
+<li class="indication-matched">alopecia (100.0%)<span class="indication-tag">📰 alopecia</span></li>
 <li>congenital hypotrichosis milia (100.0%)</li>
 <li>diffuse alopecia areata (100.0%)</li>
 <li>hypotrichosis simplex of the scalp (100.0%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Nitroprusside with the lates
 <p><a href="{{ '/drugs/nitroprusside/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Regenerative Approaches in Skin and Hair Care and Hair Loss Research - Dermatology Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlpJR0prbkRPbjRSYmpoYXpndVhiUVhYVXhLTnFLVVB4TWQ0ekd5MHRORm5HdE9VQVdIUG1TUTBSdDFCMWV6VUxJSXJuTU4xYlZaekVSa0x5THJMd1I2XzAwNDhENDh1YjBROHZpREduM3BnZkJEVEFEUlhGT2U3TTFPS3RoR21XWmFJUEg3d0Q4cTdpSjF2bDJnUzNkSXJtUFlrSWl6MDBZZw?oc=5)
+
+2026-10-12 <span class="news-indication-tag">alopecia</span> <span class="news-indication-tag">genetic alopecia</span>
+
+Source: [Dermatology Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlpJR0prbkRPbjRSYmpoYXpndVhiUVhYVXhLTnFLVVB4TWQ0ekd5MHRORm5HdE9VQVdIUG1TUTBSdDFCMWV6VUxJSXJuTU4xYlZaekVSa0x5THJMd1I2XzAwNDhENDh1YjBROHZpREduM3BnZkJEVEFEUlhGT2U3TTFPS3RoR21XWmFJUEg3d0Q4cTdpSjF2bDJnUzNkSXJtUFlrSWl6MDBZZw?oc=5)
+
+---
 
 
 <div class="disclaimer">

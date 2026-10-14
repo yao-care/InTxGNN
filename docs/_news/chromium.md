@@ -42,6 +42,14 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 
 ## Related News (6)
 
+### [GAE cuts steroid injections by half in knee osteoarthritis patients](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNGsyNnloRlVMZmdGU0V6YllTNkU2NWhIRWJOUDZEZF94djdHNkcxZXdyVXNnU2JlMWJKLWJGYU15MC11YUNOeGxITkx6LTlPcV9zc3VLb3JuNVFLVkRDa0tHSWN0Y09kMnBXSjJXM3BWeFROemVaTHJsdGwzSmQweXlIU1ZOdkxSVjB0OHpJUlNrNlk3SDU5VVJEbklGS3I5V2U3NWlSbGFpRWp4SVUyUVNPNTV3Wjc5anpRV2VWUHJoY2o4dkJ4NTRDc3A2Mlp6VlpWTUsxbw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNGsyNnloRlVMZmdGU0V6YllTNkU2NWhIRWJOUDZEZF94djdHNkcxZXdyVXNnU2JlMWJKLWJGYU15MC11YUNOeGxITkx6LTlPcV9zc3VLb3JuNVFLVkRDa0tHSWN0Y09kMnBXSjJXM3BWeFROemVaTHJsdGwzSmQweXlIU1ZOdkxSVjB0OHpJUlNrNlk3SDU5VVJEbklGS3I5V2U3NWlSbGFpRWp4SVUyUVNPNTV3Wjc5anpRV2VWUHJoY2o4dkJ4NTRDc3A2Mlp6VlpWTUsxbw?oc=5)
+
+---
+
 ### [Focus on efficacy, family protection can increase flu vaccination, study notes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOElzb3RGRkFOQW42T01QTG9kV1gwcHFOQk1rODE4OFIwbHVHWTRqUU9uMGx5QURxVW1GX1cyWURXSUVkbzZ5ZnU2T2tKX2pZa2lpUGQ1Slg0TUM4cVk0cm85MWFLQ04wVjQxRGtuSDdQMXdzMUFhOEZMTzIzcFBvZWlrOTdHLXVUT3NSZEZGbmZHMC10Z3h4cjVYWHpSbTF5NFp3MzFoanY3U3FybTNja09nNWdLemt0Tm9J?oc=5)
 
 2026-10-14 <span class="news-indication-tag">RA</span>
@@ -66,11 +74,11 @@ Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUx
 
 ---
 
-### [FDA-Approved Drug Could Be Repurposed to Relieve Osteoarthritis Pain And Protect Cartilage](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEhYX2t6Q1FaMU9PREg2S0RFaW1qNGJYUWFPU21TMjUyRl9jODgwVzhrYm9mTmFUUnNDUkRJcFMtdmZaeDE0SzNNdEVyZ0VfQks4YTQ3LWhHN2NIVTFEY0dFVlk5dkJyQi1IQ0hVQnFkMllxVE9tbXBaekdKS0YzYnI0T21JX0t6VDRfOTExQTZqTVE0MWVfd2ZDTXFNa2hHUjF5c0VsTnhKNHBxRlhRU01pbXRYYmJHQWpv?oc=5)
+### [Experts Recommend Ways To Stretch Vaccine Supplies In Face Of Dwindling Budgets - Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
 
-2026-10-13 <span class="news-drug-tag">Lacosamide</span> <span class="news-indication-tag">osteoarthritis</span>
+2026-10-13 <span class="news-indication-tag">RA</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEhYX2t6Q1FaMU9PREg2S0RFaW1qNGJYUWFPU21TMjUyRl9jODgwVzhrYm9mTmFUUnNDUkRJcFMtdmZaeDE0SzNNdEVyZ0VfQks4YTQ3LWhHN2NIVTFEY0dFVlk5dkJyQi1IQ0hVQnFkMllxVE9tbXBaekdKS0YzYnI0T21JX0t6VDRfOTExQTZqTVE0MWVfd2ZDTXFNa2hHUjF5c0VsTnhKNHBxRlhRU01pbXRYYmJHQWpv?oc=5)
+Source: [Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
 
 ---
 
@@ -79,14 +87,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEhY
 2026-10-12 <span class="news-indication-tag">gout</span> <span class="news-indication-tag">gout</span>
 
 Source: [Bhaskar English](https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGxtVjVaaThIY09CYkZDOHNTU3BDVlBWOThTbEI1MVdYb3F4VkhjMHlNQjBmdjRLdTVvSGtRUHVIbkE1UmpiaS1EeGVvaUlfMlFsMFBIUWhUX3BlYXU1WGNWN2JYZnJ5dkZkWG5UWnFuYkhNSzZONVMzUG1PR1ZBbzVaVFRmUFExaVplLWdqN0pYS1NjNVgxUHN0YWdCajhIdEF4VVJFNDBOcUYy0gGyAUFVX3lxTFBYeXUweWo2RW16QUFQUm9FLUdRTmhyNmhxZ2dYdnhZX1JXU1hrbFpVUzJqWkdQRTdVTERDSF83TFBtNFBibDJaUGRhWHUyODhhcHJDNmFTVmUzcndCcjY5SVZpMkFUSERFX3Z0WmZzLVRiVzZyQ1NmMThQRFh1Q2czS2JxZ2xZcFNDUVZqdDRfZHVSZVJoLTE2dk15eE1pSHZLNjc0c0ZhbmFaTHRUMDVuN1E?oc=5)
-
----
-
-### [Study Finds Lower Pregnancy Risks in HPV-Vaccinated Women - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
-
-2026-10-12 <span class="news-indication-tag">RA</span>
-
-Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
 
 ---
 

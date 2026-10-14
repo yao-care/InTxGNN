@@ -14,7 +14,7 @@ permalink: /news/choline_salicylate/
 ---
 
 <p class="key-answer" data-question="What news is there about Choline Salicylate?">
-<strong>Choline Salicylate</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
+<strong>Choline Salicylate</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,29 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <p><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
-
-### [Focus on efficacy, family protection can increase flu vaccination, study notes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOElzb3RGRkFOQW42T01QTG9kV1gwcHFOQk1rODE4OFIwbHVHWTRqUU9uMGx5QURxVW1GX1cyWURXSUVkbzZ5ZnU2T2tKX2pZa2lpUGQ1Slg0TUM4cVk0cm85MWFLQ04wVjQxRGtuSDdQMXdzMUFhOEZMTzIzcFBvZWlrOTdHLXVUT3NSZEZGbmZHMC10Z3h4cjVYWHpSbTF5NFp3MzFoanY3U3FybTNja09nNWdLemt0Tm9J?oc=5)
-
-2026-10-14 <span class="news-indication-tag">RA</span>
-
-Source: [CIDRAP](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOElzb3RGRkFOQW42T01QTG9kV1gwcHFOQk1rODE4OFIwbHVHWTRqUU9uMGx5QURxVW1GX1cyWURXSUVkbzZ5ZnU2T2tKX2pZa2lpUGQ1Slg0TUM4cVk0cm85MWFLQ04wVjQxRGtuSDdQMXdzMUFhOEZMTzIzcFBvZWlrOTdHLXVUT3NSZEZGbmZHMC10Z3h4cjVYWHpSbTF5NFp3MzFoanY3U3FybTNja09nNWdLemt0Tm9J?oc=5)
-
----
+## Related News (13)
 
 ### [Leading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
 
 2026-10-14 <span class="news-indication-tag">cancer</span>
 
 Source: [TODAY.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
+
+---
+
+### [Lumps are not the only early symptom of breast cancer: Surgical oncologist shares lesser-known warning signs | Health - Hindustan Times](https://news.google.com/rss/articles/CBMihwJBVV95cUxNUFhfWlpWOS1HUDhqYnltR2lDUjVrYmJVaVh1UHNnTzZDTjRxbWhuTDZXcjF1M0hHMmdHbWF0T1laSUVWc3hYYWxUNlFrQk1mVzJYdFYtOE4xYURTVHlGNmFpeTBIb2t4VXA3OGxiZnQ2bEI4NVpQY3k2QWtrWnRRU3NTa1QtWVBQRkxadnE2Y3UxTE1pQkRVUGEySFFVeHY5N0FyaE5WTXZzekZtWnRTRklSWkVhZXVTZkJia3Y2RlUxaVE4U2NxcEZGNEpBR3dEN0p1MExSbm5OWThYb0lGUDJNdU1fMFVIY29nWjVrUG13MC15SXBwM1YzTEMtQ0RrOFBPbFM2d9IBjAJBVV95cUxPUDNzTmNySWZjMkxhRTRBNGlxNlRTS3ItVTFmNG5BTDk0cHNQM2JiT0Y1N2Zyd0VXYXNlcDRuUlJHN2JPWTJlZ1JuMWZJUHQ5VVFEeE1sQlhqZk9yQzN0U3pDOW9xX09Mdm1idXdldWlrcWJSbkpYNFI1NFNnUFNKYzdtaHZGSnJoNTR5YTVnYldVbnJZdnFCSW1YNWtlY0ZEZmc4YU52a0lCbzRwTEh0aFpNb0FiSWVKbjVXSnE3ZnFiRkx0emphT3hueERwVVdLNnNsWW11a3Flclp0M1luU3Eyc1RGWFNfLVhhcGtoRHp4Mml1QmkyaTRCM3lYbXRUUGY1Tkh5NFBtY2Uy?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMihwJBVV95cUxNUFhfWlpWOS1HUDhqYnltR2lDUjVrYmJVaVh1UHNnTzZDTjRxbWhuTDZXcjF1M0hHMmdHbWF0T1laSUVWc3hYYWxUNlFrQk1mVzJYdFYtOE4xYURTVHlGNmFpeTBIb2t4VXA3OGxiZnQ2bEI4NVpQY3k2QWtrWnRRU3NTa1QtWVBQRkxadnE2Y3UxTE1pQkRVUGEySFFVeHY5N0FyaE5WTXZzekZtWnRTRklSWkVhZXVTZkJia3Y2RlUxaVE4U2NxcEZGNEpBR3dEN0p1MExSbm5OWThYb0lGUDJNdU1fMFVIY29nWjVrUG13MC15SXBwM1YzTEMtQ0RrOFBPbFM2d9IBjAJBVV95cUxPUDNzTmNySWZjMkxhRTRBNGlxNlRTS3ItVTFmNG5BTDk0cHNQM2JiT0Y1N2Zyd0VXYXNlcDRuUlJHN2JPWTJlZ1JuMWZJUHQ5VVFEeE1sQlhqZk9yQzN0U3pDOW9xX09Mdm1idXdldWlrcWJSbkpYNFI1NFNnUFNKYzdtaHZGSnJoNTR5YTVnYldVbnJZdnFCSW1YNWtlY0ZEZmc4YU52a0lCbzRwTEh0aFpNb0FiSWVKbjVXSnE3ZnFiRkx0emphT3hueERwVVdLNnNsWW11a3Flclp0M1luU3Eyc1RGWFNfLVhhcGtoRHp4Mml1QmkyaTRCM3lYbXRUUGY1Tkh5NFBtY2Uy?oc=5)
+
+---
+
+### [Focus on efficacy, family protection can increase flu vaccination, study notes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOElzb3RGRkFOQW42T01QTG9kV1gwcHFOQk1rODE4OFIwbHVHWTRqUU9uMGx5QURxVW1GX1cyWURXSUVkbzZ5ZnU2T2tKX2pZa2lpUGQ1Slg0TUM4cVk0cm85MWFLQ04wVjQxRGtuSDdQMXdzMUFhOEZMTzIzcFBvZWlrOTdHLXVUT3NSZEZGbmZHMC10Z3h4cjVYWHpSbTF5NFp3MzFoanY3U3FybTNja09nNWdLemt0Tm9J?oc=5)
+
+2026-10-14 <span class="news-indication-tag">RA</span>
+
+Source: [CIDRAP](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOElzb3RGRkFOQW42T01QTG9kV1gwcHFOQk1rODE4OFIwbHVHWTRqUU9uMGx5QURxVW1GX1cyWURXSUVkbzZ5ZnU2T2tKX2pZa2lpUGQ1Slg0TUM4cVk0cm85MWFLQ04wVjQxRGtuSDdQMXdzMUFhOEZMTzIzcFBvZWlrOTdHLXVUT3NSZEZGbmZHMC10Z3h4cjVYWHpSbTF5NFp3MzFoanY3U3FybTNja09nNWdLemt0Tm9J?oc=5)
 
 ---
 
@@ -71,6 +79,14 @@ Source: [NCHStats](https://news.google.com/rss/articles/CBMiXkFVX3lxTE90YVEtVTRq
 2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Firstpost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWVYVzBIbTRJYXdGOG96QzFoYkx5NlRyNl9TakpaUVhGSlp5YVBMb3NpZUxXbW5vWXVjZGM4OGdhbTB1MW9TZmNRX3BhNlMwUUZuWnlUR2hHb1NJM25sc2Zid2ktRktLSEVBLTJSaDhfSklkZjhheF92U2tyRlRFd09iaF8zUXliMF96ZjcxNW5vZE9FTnplZ0JLcUhaU3ZpSXRsdXhIbWlYZUNLZ3RmMlBoV1FyUmZNMXFR0gHAAUFVX3lxTE8wZUhPT0JHbGxSUzd0QVYtTHRxOXc4eFhDOVpHVVNOTjdybjU2WmdxbWp2d0FMVFNEM3pXNTljRC1vX0ZJWFNQNi1SNURPTTJaN3JOejc3d0ZocmMwUF9UNjlyNTFTckMyZzB5R1BOeDF0NTVuVE05NmQ4OWFCRDJwRk92cVRoVDBBU0Rsc0ZrSTgwT1JHckROM2IyMXBkWlBaQUtZZ1ZpenlOMHZRc1dhUDBIdFdSaUxGdk44blVaaw?oc=5)
+
+---
+
+### [Children with cancer have unusual antibodies that stop DNA repair](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTW9sOXNoUng4S0tRTEJIYXQ4RVdvaGlEOGp2b2NFOHFYcF9UcDFxaE9ObDNWZ3FIb21vLWhObXc2V2FkX0RPdXZKampWQThKbGYzVUV0OG1oUmZXZXBYOEZSUUxLY1AwaWtBd25EZmlvaDBJT1F0b0F5a3l4TzhESWNJcGloZHJrakRjancyTHlldUFKZk9mMUcxQnJnc2FnVEpVRdIBqgFBVV95cUxOY2V2M3V4TlE4ZDhvOTFlU3ZHWkxFS09RVTc4amV0OFNiaFZoZWpvQXpPWXZEUUVkWGdFUTB5NV81UU5BcnZMTjJ5Q29FZzZYOTlsLTZrdVdkeXVCR250UE1ocHhXTlhrUmtmOXJmQVktVFBYVkVBLXMzMHJ3YzdaOEZIN1lHTUZ2elRkNnFtUzlHOXBFUVRfQU1DZS1vMTRtNlpMQlRNNGh6UQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span>
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTW9sOXNoUng4S0tRTEJIYXQ4RVdvaGlEOGp2b2NFOHFYcF9UcDFxaE9ObDNWZ3FIb21vLWhObXc2V2FkX0RPdXZKampWQThKbGYzVUV0OG1oUmZXZXBYOEZSUUxLY1AwaWtBd25EZmlvaDBJT1F0b0F5a3l4TzhESWNJcGloZHJrakRjancyTHlldUFKZk9mMUcxQnJnc2FnVEpVRdIBqgFBVV95cUxOY2V2M3V4TlE4ZDhvOTFlU3ZHWkxFS09RVTc4amV0OFNiaFZoZWpvQXpPWXZEUUVkWGdFUTB5NV81UU5BcnZMTjJ5Q29FZzZYOTlsLTZrdVdkeXVCR250UE1ocHhXTlhrUmtmOXJmQVktVFBYVkVBLXMzMHJ3YzdaOEZIN1lHTUZ2elRkNnFtUzlHOXBFUVRfQU1DZS1vMTRtNlpMQlRNNGh6UQ?oc=5)
 
 ---
 
@@ -98,27 +114,19 @@ Source: [Telegraph India](https://news.google.com/rss/articles/CBMilgFBVV95cUxQa
 
 ---
 
-### [Gap Found Between Awareness of Breast Cancer Risk and Risk-Reducing Behavior - Infectious Disease Advisor](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVE5weWJiRXRmcjNzU3M1YXhDcGlsZVNrU3lXeGJPVi1KV2Q5REwtdFVfcTdZV0Rwd01xbFpiYzVfemRlZTFzaElyQXlMWWkxSEN5cGIxM01veWxUTVQta0ZDLXA1WTBPN2tPYWxiZzRwdnR6NElOeVNUOVpnLU02ck1qaVZpY3R3RWxpUHV6TDU2VlFrT09tUzFJbEk2SUh1b2xwclRpRHczTG83Q2h4S0J6Q0lGUDFKWFhWM0ZHTzg?oc=5)
+### [Experts Recommend Ways To Stretch Vaccine Supplies In Face Of Dwindling Budgets - Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
 
-2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-13 <span class="news-indication-tag">RA</span>
 
-Source: [Infectious Disease Advisor](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVE5weWJiRXRmcjNzU3M1YXhDcGlsZVNrU3lXeGJPVi1KV2Q5REwtdFVfcTdZV0Rwd01xbFpiYzVfemRlZTFzaElyQXlMWWkxSEN5cGIxM01veWxUTVQta0ZDLXA1WTBPN2tPYWxiZzRwdnR6NElOeVNUOVpnLU02ck1qaVZpY3R3RWxpUHV6TDU2VlFrT09tUzFJbEk2SUh1b2xwclRpRHczTG83Q2h4S0J6Q0lGUDFKWFhWM0ZHTzg?oc=5)
-
----
-
-### [How rapid genomic test can expedite brain tumour diagnosis - Medical Buyer](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEJqd01pR3pPOU02OG1uZWdoTGJ3Z3RiZkxJVExpWWh6OUtqUVQwYUo4alc2dmdBSjY0TldkeWowNUwtbGwtZWJaOXFzeUtNRnFaOUZhWUZoRUp5SDZDY01xLWRyRndlT2NYLWdseW5UVDc4TXQtbzZDTHZBLXNQenJWMEVPd0dDMmJuY2J6RQ?oc=5)
-
-2026-10-13 <span class="news-indication-tag">tumour</span>
-
-Source: [Medical Buyer](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEJqd01pR3pPOU02OG1uZWdoTGJ3Z3RiZkxJVExpWWh6OUtqUVQwYUo4alc2dmdBSjY0TldkeWowNUwtbGwtZWJaOXFzeUtNRnFaOUZhWUZoRUp5SDZDY01xLWRyRndlT2NYLWdseW5UVDc4TXQtbzZDTHZBLXNQenJWMEVPd0dDMmJuY2J6RQ?oc=5)
+Source: [Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
 
 ---
 
-### [Brain cancer diagnosis: Man, 33, blamed his frequent headaches on stress and fatherhood, then a brain sca - The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxNaDYwVmNZQjJVR2k2TFhQWHcwSWxzSDFlbk1fbnpILVZGakVSYlJ3NFQ1X1lsS2VBazJMSVp5bDJ5dklwSC1zWmU2cFhPVzNlWEl6Q0ZfR2h4dVBBUFU4d0pfUkVveGZrWWJJc1JkN3pzVUxyUVhNS2dScHNLVGttWGpjNXloVnV5SHJqNThXQWJNU05zejg0bmRDcm9Eb2NPa0gwQWFQYW5GZWlFLU1LRjhNTnpDMTBzdFF2SU0taHBJYWk0NTJTQXl4YmR3bTVmUVNHb0hneEdtbElQZDFUXzMyZW9EWkZTMGt3UW1jVlJ0OXh1YzBLTFM1MzVwTmpuMXBwWGhDbkFQdXZuWlVvRlZTUjBsRHZFMHc?oc=5)
+### [Deep learning-assisted graphene-based THz metasurface for label-free and high-performance MCF-7 breast cancer cell sensing](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qeVNkM21vZGlpLTFEWXh6Zlp1OXdibDZMV1hVUGxxVENFOVJianJNWUlhOHVNSVlKMC1wZDU0LUlFM1lnVkdSemxwVUxRYUw2SzZvTFFwVnVKMmk4WTBv?oc=5)
 
-2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumour</span>
+2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxNaDYwVmNZQjJVR2k2TFhQWHcwSWxzSDFlbk1fbnpILVZGakVSYlJ3NFQ1X1lsS2VBazJMSVp5bDJ5dklwSC1zWmU2cFhPVzNlWEl6Q0ZfR2h4dVBBUFU4d0pfUkVveGZrWWJJc1JkN3pzVUxyUVhNS2dScHNLVGttWGpjNXloVnV5SHJqNThXQWJNU05zejg0bmRDcm9Eb2NPa0gwQWFQYW5GZWlFLU1LRjhNTnpDMTBzdFF2SU0taHBJYWk0NTJTQXl4YmR3bTVmUVNHb0hneEdtbElQZDFUXzMyZW9EWkZTMGt3UW1jVlJ0OXh1YzBLTFM1MzVwTmpuMXBwWGhDbkFQdXZuWlVvRlZTUjBsRHZFMHc?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qeVNkM21vZGlpLTFEWXh6Zlp1OXdibDZMV1hVUGxxVENFOVJianJNWUlhOHVNSVlKMC1wZDU0LUlFM1lnVkdSemxwVUxRYUw2SzZvTFFwVnVKMmk4WTBv?oc=5)
 
 ---
 
@@ -130,11 +138,11 @@ Source: [India News Network](https://news.google.com/rss/articles/CBMirAFBVV95cU
 
 ---
 
-### [Study Finds Lower Pregnancy Risks in HPV-Vaccinated Women - MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
+### [​Cancer rates rising faster among younger people: THESE four types of cancer have doubled in under-50s​ - The Times of India](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRUh5X0xna0d2YVItVm5wLUt2SjQwUnlRVVBZUkZORnkwVnFoOE5ZX09xOWV0TE0yenp0UkphcDhHTDgwbHVFS0hUcm9yWldPeDgtelpHZVQxZVhTc3FLeVJOMWk2Rm1QQXpqSmdmcElaTVFNc0p4X3pxWXJnd2pHVWhLdU41MXRXanlfUWhVNzZQSFpyRjRhYmFzREg4cXVpRldQSE5wbDduMG82T2ZMVjJmUVdfdkkyUjlwaWJOYmozMlZ1LWk2UlhsV3lKYUJURXdvQzBfdEdsSUxjSExSdG9qNHJRdGxiaERaY095RVdCQUdKSWtPQ3JfcmFwbVp0VXExWFhEZ2LSAZACQVVfeXFMTkNtZVR0ZEhfNHRtX2NYYjJlYVZSM2Nodi1kWWI5V3ZOQkR5TWZWRlVXNTFTVFZTWEZ3Ynk3VHBUM2Z3YUpFVTFTekVFeXh1Y0tqZ25TMXg3Wlg5dEY1SVBSMVZwSHJPRHRiclF4bS1zUkF5Vk45dW5pd28taDduRnZ5SzJhSUZjc3J1bUlWTWwwc3RNOXlGM1c0dG1WdHRoaWk1NmdBSEotZXRkUDhnd1ZHeVgxOU9xbUh4UDNCVktmdUxYRHVOWnZpeUxFa0U1MEhscVJtdFNTX1R4VUZ5RFVuQ29ydnpfeHJyVTEwVXVnYWVmSk9rRC1PS0lPNXFEU21BaXBjNHJwMHBwLTdnVG0?oc=5)
 
-2026-10-12 <span class="news-indication-tag">RA</span>
+2026-10-11 <span class="news-indication-tag">cancer</span>
 
-Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRUh5X0xna0d2YVItVm5wLUt2SjQwUnlRVVBZUkZORnkwVnFoOE5ZX09xOWV0TE0yenp0UkphcDhHTDgwbHVFS0hUcm9yWldPeDgtelpHZVQxZVhTc3FLeVJOMWk2Rm1QQXpqSmdmcElaTVFNc0p4X3pxWXJnd2pHVWhLdU41MXRXanlfUWhVNzZQSFpyRjRhYmFzREg4cXVpRldQSE5wbDduMG82T2ZMVjJmUVdfdkkyUjlwaWJOYmozMlZ1LWk2UlhsV3lKYUJURXdvQzBfdEdsSUxjSExSdG9qNHJRdGxiaERaY095RVdCQUdKSWtPQ3JfcmFwbVp0VXExWFhEZ2LSAZACQVVfeXFMTkNtZVR0ZEhfNHRtX2NYYjJlYVZSM2Nodi1kWWI5V3ZOQkR5TWZWRlVXNTFTVFZTWEZ3Ynk3VHBUM2Z3YUpFVTFTekVFeXh1Y0tqZ25TMXg3Wlg5dEY1SVBSMVZwSHJPRHRiclF4bS1zUkF5Vk45dW5pd28taDduRnZ5SzJhSUZjc3J1bUlWTWwwc3RNOXlGM1c0dG1WdHRoaWk1NmdBSEotZXRkUDhnd1ZHeVgxOU9xbUh4UDNCVktmdUxYRHVOWnZpeUxFa0U1MEhscVJtdFNTX1R4VUZ5RFVuQ29ydnpfeHJyVTEwVXVnYWVmSk9rRC1PS0lPNXFEU21BaXBjNHJwMHBwLTdnVG0?oc=5)
 
 ---
 

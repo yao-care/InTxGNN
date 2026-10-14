@@ -14,7 +14,7 @@ permalink: /news/naphazoline/
 ---
 
 <p class="key-answer" data-question="What news is there about Naphazoline?">
-<strong>Naphazoline</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Naphazoline</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Naphazoline with the latest 
 <li>hypotrichosis simplex of the scalp (99.8%)</li>
 <li>congenital hypotrichosis milia (99.8%)</li>
 <li>diffuse alopecia areata (99.8%)</li>
-<li>alopecia (99.8%)</li>
+<li class="indication-matched">alopecia (99.8%)<span class="indication-tag">📰 alopecia</span></li>
 <li>primary hereditary glaucoma (99.6%)</li>
 <li>hypertrichosis (disease) (99.6%)</li>
 <li>Ambras type hypertrichosis universalis congenita (99.6%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Naphazoline with the latest 
 <p><a href="{{ '/drugs/naphazoline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Regenerative Approaches in Skin and Hair Care and Hair Loss Research - Dermatology Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlpJR0prbkRPbjRSYmpoYXpndVhiUVhYVXhLTnFLVVB4TWQ0ekd5MHRORm5HdE9VQVdIUG1TUTBSdDFCMWV6VUxJSXJuTU4xYlZaekVSa0x5THJMd1I2XzAwNDhENDh1YjBROHZpREduM3BnZkJEVEFEUlhGT2U3TTFPS3RoR21XWmFJUEg3d0Q4cTdpSjF2bDJnUzNkSXJtUFlrSWl6MDBZZw?oc=5)
+
+2026-10-12 <span class="news-indication-tag">alopecia</span> <span class="news-indication-tag">genetic alopecia</span>
+
+Source: [Dermatology Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlpJR0prbkRPbjRSYmpoYXpndVhiUVhYVXhLTnFLVVB4TWQ0ekd5MHRORm5HdE9VQVdIUG1TUTBSdDFCMWV6VUxJSXJuTU4xYlZaekVSa0x5THJMd1I2XzAwNDhENDh1YjBROHZpREduM3BnZkJEVEFEUlhGT2U3TTFPS3RoR21XWmFJUEg3d0Q4cTdpSjF2bDJnUzNkSXJtUFlrSWl6MDBZZw?oc=5)
+
+---
 
 
 <div class="disclaimer">
