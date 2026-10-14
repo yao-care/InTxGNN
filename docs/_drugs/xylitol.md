@@ -2,7 +2,7 @@
 layout: default
 title: Xylitol
 parent: Model Prediction Only (L5)
-nav_order: 890
+nav_order: 899
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,77 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Xylitol: From No Recorded Indication to Predicted Meningococcal Infection
+# Xylitol: From an Unspecified Original Indication to Meningococcal Infection
 
 ## One-Sentence Summary
 
-> Xylitol (DrugBank DB11195) currently has no approved indication or market authorization on record in India.
-> The TxGNN model predicts a possible association with **Meningococcal Infection**,
-> but this prediction is based **solely on knowledge graph inference**, with **no supporting clinical trials or literature** currently identified.
-
----
+Xylitol is a sugar alcohol currently marketed in India as oral tablets, but the licence records compiled for this report do not state an approved indication.
+The TxGNN model predicts it may be effective for **meningococcal infection**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved indication on record |
-| Predicted New Indication | Meningococcal Infection |
+| Original Indication | Not stated in the licence records |
+| Predicted New Indication | Meningococcal infection |
 | TxGNN Prediction Score | 99.66% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Xylitol is not available in this evidence pack. Xylitol has no recorded original indication or market authorization in India, so no pharmacological baseline exists from which to anchor a mechanistic comparison.
+Currently, detailed mechanism of action data is not available. The original indication is also not recorded in the data compiled for this report, so a direct link between the original use and the new indication cannot be drawn.
 
-The TxGNN knowledge graph assigns a high prediction score (0.997) linking Xylitol to meningococcal infection, but this score reflects graph-based statistical association rather than a validated causal or mechanistic pathway. It is worth noting — as background context only — that xylitol has been studied for its nasopharyngeal anti-adhesion properties in the context of otitis media and sinusitis prevention, which could theoretically extend to reducing nasopharyngeal colonization by *Neisseria meningitidis*. However, **no clinical trials or peer-reviewed literature in this evidence pack support this hypothesis**, so it remains an untested, purely computational association.
+The prediction therefore rests on the model's very high score (0.997). Some hypotheses are plausible but unverified. Xylitol may interfere with bacterial adhesion to the nasopharyngeal lining, as has been described for *Streptococcus pneumoniae* and *Haemophilus influenzae* in the upper airway. It may also limit bacterial growth because many bacteria cannot ferment it readily. Neither effect has been shown for *Neisseria meningitidis*.
 
-Given the absence of MOA data, original indication data, and any corroborating trial or literature evidence, this prediction should be treated as exploratory only.
-
----
+Systemic exposure to xylitol is low when it is taken orally or nasally. It is therefore unlikely to treat invasive meningococcal disease (meningitis or sepsis), which requires systemic antibiotics. Any realistic role would be limited to nasopharyngeal carriage or colonisation, and even that is speculative.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
-Xylitol is **not currently marketed** in India, and no registrations are on record in this dataset. No authorization details are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 241987 | Wysliva Tablet | Strip of 10 tablets | Not stated |
+| 201656 | Salitol Tablet | Bottle of 60 tablets | Not stated |
 
----
+Both products are single-ingredient oral tablets with valid status.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signal**: The TxGNN knowledge graph (PrimeKG) links xylitol to a contraindication with **dental fluorosis**. This comes from graph relationships, not from package insert text, and should be verified.
+- **Drug Interactions**: No interaction records were found.
 
----
+Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a TxGNN knowledge graph score (L5 evidence), with no clinical trials, literature, mechanism of action data, or market presence in India to substantiate a repurposing case for meningococcal infection.
+The prediction has no supporting clinical trials or publications (Evidence Level L5). Xylitol's low systemic exposure makes treatment of invasive meningococcal disease implausible. The mechanism and the original indication are also missing.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism of action (MOA) data for Xylitol
-- Preclinical or in-vitro evidence specifically addressing anti-adhesion/antimicrobial activity against *Neisseria meningitidis*
-- At least one supporting clinical trial or peer-reviewed publication
-- Regulatory safety data (warnings, contraindications, drug interactions) — currently unavailable (Blocking data gap per meta.data_gaps DG001)
-- Confirmation of Indian market/regulatory pathway if development is to proceed
+- Package insert warnings, contraindications and approved indications from the Indian regulator's records (currently blocking safety screening)
+- Mechanism of action data from DrugBank
+- Preclinical evidence (for example, in vitro effects on *N. meningitidis* adhesion or growth) and a defined use case, such as nasopharyngeal carriage
+- Verification of the dental fluorosis contraindication signal
+- Route compatibility assessment for the proposed use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

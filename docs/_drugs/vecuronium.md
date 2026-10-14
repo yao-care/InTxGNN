@@ -2,7 +2,7 @@
 layout: default
 title: Vecuronium
 parent: Model Prediction Only (L5)
-nav_order: 876
+nav_order: 885
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,63 +29,98 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vecuronium: From Anesthesia Muscle Relaxant to Insomnia
+# Vecuronium: From Neuromuscular Blockade in Anaesthesia to Insomnia
 
 ## One-Sentence Summary
 
-Vecuronium is a non-depolarizing neuromuscular blocking agent used as a muscle-relaxant adjunct during general anesthesia and endotracheal intubation.
-The TxGNN model predicts it may be effective for **Insomnia**, but this direction is currently supported only by **1 indirectly related clinical trial** and **no disease-specific literature**, and the model's own mechanistic reasoning finds no biological link between the two.
+Vecuronium is a non-depolarising neuromuscular blocker. Its approved indication text is not available in the data compiled for this report, but it is used as a muscle relaxant in general anaesthesia.
+The TxGNN model predicts it may be effective for **insomnia**, but there is only **1 registered clinical trial** (a generic paediatric pharmacokinetics study with no insomnia endpoint) and **no publications** supporting this direction.
+The prediction is best read as a model artefact rather than a credible repurposing signal.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file — no approved indication text available (drug not marketed in India); role described across the evidence pack is as a perioperative neuromuscular blocking agent |
-| Predicted New Indication | Insomnia (disease) |
+| Original Indication | Not stated in the licence records (approved indication text is empty) |
+| Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.34% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-A formal mechanism-of-action record for Vecuronium is flagged as a data gap (DG002) in this pack. However, the evidence pack's own repurposing rationale consistently describes Vecuronium as a **non-depolarizing neuromuscular blocker acting on nicotinic acetylcholine receptors (nAChR) at the skeletal muscle motor end plate** — a peripheral mechanism used to achieve muscle relaxation for surgical procedures and airway management, with no established action on central nervous system sleep-wake regulation pathways.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, vecuronium blocks nicotinic acetylcholine receptors at the neuromuscular junction. This produces skeletal muscle relaxation during surgery and intubation.
 
-Insomnia is governed by CNS circuits (e.g., GABAergic, orexin, melatonergic signaling), which is mechanistically unrelated to peripheral neuromuscular blockade. The evidence pack explicitly states: *"與失眠無合理生物學關聯"* (no plausible biological relationship to insomnia).
+The mechanistic link to insomnia is weak. Vecuronium has no sedative, hypnotic or central nervous system activity. The high TxGNN score most likely reflects graph-based co-occurrence with sedative agents that are given alongside vecuronium in anaesthesia, not a therapeutic effect.
 
-The most likely explanation for the high TxGNN score is **knowledge-graph co-occurrence bias**: Vecuronium is a near-ubiquitous adjunct in general anesthesia records, and such records frequently co-occur with peri-/post-operative sleep disturbance or insomnia codes — creating a statistical association without a causal pharmacological basis. This pattern is not unique to insomnia: all 10 indications ranked for Vecuronium in this pack carry the same "Hold" recommendation, and their supporting "evidence" is almost entirely unrelated anesthesia-procedure trials (e.g., pediatric PK studies, RSI reviews, general anesthesia technique papers) rather than disease-targeted research.
+Other top-ranked predictions show the same pattern. These include irritable bowel syndrome, neurocirculatory asthenia, benign prostatic hyperplasia, cauda equina syndrome, headache disorder, rhinitis, anxiety, trigeminal autonomic cephalalgia and migraine disorder. None has a plausible mechanism, and most have no direct evidence.
+
+---
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01431326](https://clinicaltrials.gov/study/NCT01431326) | N/A | Completed | 3,520 | Pediatric pharmacokinetics study of understudied drugs administered per standard of care; Vecuronium included only as a routine anesthesia agent, not as an insomnia treatment (relevance grade C: "兒童麻醉藥動學研究，非治療失眠之試驗") |
+| [NCT01431326](https://clinicaltrials.gov/study/NCT01431326) | N/A | Completed | 3520 | Paediatric pharmacokinetics of understudied drugs given as standard of care. It does not test vecuronium for insomnia and provides no efficacy evidence. |
 
-## Literature Evidence
-
-Currently no related literature available.
+---
 
 ## India Market Information
 
-Vecuronium currently has no marketing authorization on file in India (Market Status: Not Marketed; 0 registrations).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 240575 | Verbo 4mg Injection | Vial of 1 injection | Not stated |
+| 118323 | Kabivec 4mg Injection | Vial of 2 ml injection | Not stated |
+| 202741 | Samvec 4mg Injection | Vial of 2 ml injection | Not stated |
+| 235167 | Vecuron 10mg Injection | Vial of 10 ml injection | Not stated |
+| 236872 | Vecurofix 10 Injection | Vial of 1 injection | Not stated |
+
+There are 20 valid single-ingredient registrations in total, all injectable. Only the first five are listed here.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (TFDA/CDSCO label warnings and contraindications are not yet available in this dataset — flagged as a blocking data gap, DG001; DDI query returned no results.)
+- **Drug Interactions:** The interaction screening returned 85 interacting drugs. Notable **Major** interactions include:
+  - Paromomycin
+  - Kanamycin
+  - Neomycin
+
+  **Moderate** interactions include:
+  - Aminoglycoside and tetracycline-class antibiotics (doxycycline, tetracycline, minocycline)
+  - Vancomycin
+  - Amphotericin B
+  - Corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, prednisone)
+  - Magnesium salts
+  - Mannitol
+  - Metoclopramide
+
+  **Minor** interactions include ranitidine.
+
+Please refer to the package insert for warnings and contraindications.
+
+Because vecuronium paralyses muscles without causing sedation, using it outside a monitored anaesthetic setting carries serious risks, including patient distress and awareness.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is no plausible mechanistic link between Vecuronium's peripheral neuromuscular action and insomnia; the only supporting clinical trial is an unrelated pediatric pharmacokinetics study, and evidence level is L5 (model prediction only, no confirmatory studies). This pattern — weak/absent mechanistic support across all 10 ranked predictions — is consistent with knowledge-graph co-occurrence bias rather than genuine repurposing signal.
+The prediction rests on model output alone (L5). There are no trials or literature supporting efficacy in insomnia, and vecuronium has no sedative or hypnotic activity. The apparent signal likely comes from its co-use with sedatives during anaesthesia.
 
 **To proceed, the following is needed:**
-- TFDA/CDSCO package insert data (warnings, contraindications) — currently a blocking gap (DG001)
-- Confirmed original mechanism-of-action documentation from DrugBank (DG002)
-- Any preclinical or mechanistic study establishing a CNS/sleep-pathway effect for Vecuronium, if one exists
-- Re-screening of the full 10-indication candidate list for this drug, given the systematic co-occurrence bias observed, before allocating further review resources
+- Package insert warnings and contraindications from the Indian regulator
+- Mechanism of action data
+- Any plausible mechanistic or preclinical rationale linking neuromuscular blockade to sleep regulation
+- A safety assessment of using a paralysing agent outside the anaesthetic setting
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

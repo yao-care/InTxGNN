@@ -2,7 +2,7 @@
 layout: default
 title: Ixabepilone
 parent: High Evidence (L1-L2)
-nav_order: 456
+nav_order: 460
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,111 +29,86 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Ixabepilone: From Metastatic Breast Cancer to Ewing Sarcoma
+# Ixabepilone: From Breast Carcinoma to Ewing Sarcoma
 
 ## One-Sentence Summary
 
-Ixabepilone is a semisynthetic epothilone B analog and non-taxane microtubule-stabilizing agent, FDA-approved for the treatment of metastatic breast cancer.
-The TxGNN model predicts it may be effective for **Ewing Sarcoma** (score: 99.76%),
-with **2 clinical trials** and **1 direct clinical publication** currently supporting this direction.
-
----
+Ixabepilone is an epothilone B analog (a microtubule-stabilizing chemotherapy) originally used to treat breast carcinoma.
+The TxGNN model predicts it may be effective for **Ewing sarcoma**,
+with **2 clinical trials** (1 Phase 1, 1 Phase 2) and **1 publication** currently supporting this direction. The evidence is early and does not yet show a clear benefit in Ewing sarcoma specifically.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Metastatic breast cancer (FDA-approved; not registered in India) |
-| Predicted New Indication | Ewing Sarcoma |
+|------|------|
+| Original Indication | Breast carcinoma / breast neoplasm (the licence text on file for India is blank) |
+| Predicted New Indication | Ewing sarcoma |
 | TxGNN Prediction Score | 99.76% |
 | Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
+| Recommended Decision | Hold (treat as a research question) |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on published literature, Ixabepilone is an epothilone B analog that stabilizes microtubules by binding to β-tubulin, preventing depolymerization. This arrests dividing tumor cells in the G2/M phase and triggers apoptosis. A key advantage over taxanes is its reduced susceptibility to P-glycoprotein (MDR1)–mediated multidrug resistance, allowing activity in taxane-resistant tumors.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, ixabepilone is an epothilone B analog that stabilizes microtubules, causing mitotic arrest and cell death in rapidly dividing cells. Its efficacy in breast carcinoma is established, and mechanistically it may be applicable to Ewing sarcoma.
 
-Ewing sarcoma is an aggressive pediatric bone and soft tissue malignancy driven by the EWS-FLI1 fusion oncogene. These highly proliferative tumor cells depend heavily on intact mitotic spindle function, and the characteristically low P-glycoprotein expression in Ewing sarcoma cells makes them particularly vulnerable to epothilone-class agents. Preclinical data from pediatric tumor xenograft models have confirmed sensitivity to ixabepilone even in paclitaxel-resistant settings, providing a strong mechanistic foundation for this prediction.
+Ewing sarcoma is an aggressive, highly proliferative tumour, so an antimitotic agent is plausible. Unlike taxanes, ixabepilone is less affected by some resistance mechanisms, including P-glycoprotein-mediated efflux. It may therefore retain activity in chemoresistant disease. Preclinical pediatric xenograft models resistant to paclitaxel also showed activity.
 
-The Children's Oncology Group (COG) directly tested this hypothesis: the completed Phase II trial NCT00331643 specifically enrolled children and young adults with refractory solid tumors including Ewing sarcoma, and published results in 2010. This clinical validation closely aligns with the TxGNN model's top-ranked prediction and significantly elevates the credibility of this repurposing direction.
-
----
+The very high TxGNN score agrees with the early clinical signal. However, the main support is a Phase 2 trial in a mixed refractory solid tumour population of children and young adults. The published literature does not show a clear objective response benefit in Ewing sarcoma.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT00331643](https://clinicaltrials.gov/study/NCT00331643) | Phase 2 | Completed | 120 | COG Phase II trial evaluating ixabepilone in six solid tumor strata in children and young adults with refractory tumors (including Ewing sarcoma); results published as PMID 20068084; primary DLT was neutropenia |
-| [NCT00030108](https://clinicaltrials.gov/study/NCT00030108) | Phase 1 | Completed | 30 | Pediatric Phase I PK and dose-escalation study in refractory solid tumors and leukemias; established the maximum tolerated dose of 8 mg/m²/dose in children and defined the safe dosing schedule used in the Phase II trial |
-
----
+|---------|------|------|------|---------|
+| [NCT00331643](https://clinicaltrials.gov/study/NCT00331643) | Phase 2 | Completed | 120 | Efficacy of ixabepilone in children and young adults with refractory solid tumours, including Ewing sarcoma. This is the most relevant trial, but the cohort is mixed and Ewing-specific results need to be checked. |
+| [NCT00030108](https://clinicaltrials.gov/study/NCT00030108) | Phase 1 | Completed | 30 | Dose-finding and pharmacokinetic study in paediatric patients with refractory solid tumours and leukaemia. It informs safety and dosing, not Ewing sarcoma efficacy. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [20068084](https://pubmed.ncbi.nlm.nih.gov/20068084/) | 2010 | Phase II Clinical Trial | Clinical Cancer Research | Ixabepilone (daily × 5 days IV schedule) evaluated in six pediatric solid tumor strata including Ewing sarcoma; microtubule-stabilizing activity demonstrated against paclitaxel-resistant pediatric xenograft models; primary DLT was neutropenia; provides the core clinical efficacy and safety data for this repurposing direction |
-
----
+|------|-----|------|------|---------|
+| [20068084](https://pubmed.ncbi.nlm.nih.gov/20068084/) | 2010 | Phase II trial (single-arm) | Clin Cancer Res | Ixabepilone given daily for 5 days in children and young adults with refractory solid tumours (Children's Oncology Group). Neutropenia was the main dose-limiting toxicity, and the study assessed response rates across six tumour strata. |
 
 ## India Market Information
 
-Ixabepilone currently has **no registered products in India** (0 licenses). The drug is not approved or marketed locally. Any clinical use would require an import license or Investigational New Drug (IND) application through CDSCO.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 111143 | Ixempra 15mg Injection (BMS India Pvt Ltd) | Vial of 1 injection | Not stated in the data |
+| Registration No. 111336 | Ixempra 45mg Injection (BMS India Pvt Ltd) | Vial of 1 injection | Not stated in the data |
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic — Epothilone class (non-taxane microtubule-stabilizing agent) |
-| Myelosuppression Risk | High — neutropenia is the primary dose-limiting toxicity; thrombocytopenia also reported across Phase I–III studies |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential (ANC monitoring mandatory), liver function tests, renal function, cumulative peripheral neuropathy assessment (sensory grading at each cycle) |
-| Handling Protection | Must follow cytotoxic drug handling regulations; reconstitution requires the supplied Cremophor EL–based diluent; personnel protection and closed-system transfer devices recommended |
-
----
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (epothilone, microtubule stabilizer) |
+| Myelosuppression Risk | High (neutropenia was the main dose-limiting toxicity in paediatric studies) |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC with differential, liver function, and neuropathy assessment |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-**Drug Interactions** (276 total interactions identified):
+- **Contraindications / risk conditions (from knowledge-graph associations, not label text)**: liver failure and liver disease, hyperbilirubinaemia (including Gilbert syndrome), gallbladder disease, thrombocytopenia, neutropenia, agranulocytosis, anaemia, peripheral neuropathy and other peripheral nervous system disease, heart disease (including coronary artery disease, myocardial ischaemia, heart conduction disease and sudden cardiac arrest), cardiovascular disease, diabetes mellitus and diabetic ketoacidosis.
+- **Drug Interactions**: 276 interactions were identified. The major-level ones include deferiprone and samarium (153Sm) lexidronam. Moderate-level ones include aprepitant, dexamethasone, cimetidine, clarithromycin, clotrimazole, metronidazole, miconazole, rosuvastatin, simvastatin, tinidazole, troglitazone, cobicistat, deferasirox, palifermin, strontium chloride Sr-89, fostamatinib, lusutrombopag and chloroquine. Many of these likely involve CYP3A4 or myelosuppression effects.
+- **Known toxicity from the literature**: Peripheral neuropathy is usually mild to moderate, sensory and cumulative. Neutropenia is the main dose-limiting toxicity.
 
-| Severity | Interacting Drug | Clinical Note |
-|----------|-----------------|---------------|
-| **Major** | Deferiprone | Additive myelosuppression; concurrent use should be avoided |
-| **Major** | Samarium (153Sm) lexidronam | Additive bone marrow suppression risk |
-| Moderate | Clarithromycin | CYP3A4 inhibitor; may increase ixabepilone plasma exposure and toxicity |
-| Moderate | Cobicistat | Strong CYP3A4 inhibitor; dose adjustment may be required |
-| Moderate | Aprepitant | Mixed CYP3A4 modulator; monitor for altered ixabepilone levels |
-| Moderate | Dexamethasone | CYP3A4 inducer; may reduce ixabepilone efficacy |
-| Moderate | Miconazole / Clotrimazole | Azole antifungals inhibit CYP3A4; increased toxicity risk |
-| Moderate | Rosuvastatin / Simvastatin | Potential additive hepatotoxicity; monitor liver enzymes |
-| Moderate | Palifermin | Timing restriction — palifermin should not be administered within 24 hours before/after cytotoxic chemotherapy |
-
-**Additional Safety Note:** Peripheral neuropathy (predominantly sensory, cumulative) is a class effect of ixabepilone across Phase II/III studies. It is usually mild to moderate in severity and similar in profile to taxane-induced neuropathy.
-
----
+The package insert warnings for the India products were not available, so please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold (treat as a research question)**
 
 **Rationale:**
-A completed, enrollment-adequate Phase II trial (NCT00331643, n=120) conducted by the Children's Oncology Group specifically evaluated ixabepilone in pediatric refractory solid tumors including Ewing sarcoma, providing Level L2 evidence. The mechanistic rationale is well-supported: Ewing sarcoma's low P-glycoprotein expression renders it sensitive to epothilone-class agents, and ixabepilone's established FDA safety record (breast cancer approval) reduces de-novo safety uncertainty. The drug is not yet registered in India, but the clinical evidence base justifies moving forward under defined safeguards.
+The evidence is L2. It rests on one completed Phase 2 trial in a mixed refractory paediatric and young-adult solid tumour population and a supporting Phase 1 study. Neither shows Ewing sarcoma-specific efficacy, and the literature does not show a clear objective response benefit. Safety screening cannot proceed without the India package insert.
 
 **To proceed, the following is needed:**
+- Ewing sarcoma-specific response data from NCT00331643 and the Children's Oncology Group study (PMID 20068084)
+- India package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data (MOA) from DrugBank
+- A safety monitoring plan for paediatric and young-adult patients, covering neutropenia, neuropathy and hepatic impairment
 
-- **Critical**: Full analysis of PMID 20068084 to extract the response rate, progression-free survival, and OS data specifically for the Ewing sarcoma patient stratum
-- **Critical**: CDSCO/TFDA package insert review for complete warnings, contraindications, and dosing — currently a blocking data gap (DG001)
-- **High priority**: Detailed MOA data from DrugBank API to complete mechanistic linkage analysis (DG002)
-- India regulatory pathway assessment: CDSCO IND application or import license required before any local use
-- Comparison with current standard-of-care regimens for relapsed/refractory Ewing sarcoma (e.g., irinotecan/temozolomide, high-dose chemotherapy) to define positioning
-- Pediatric peripheral neuropathy monitoring protocol and dose-reduction guidelines for the target population
-- Assessment of potential combination strategies with standard Ewing sarcoma backbone regimens (e.g., vincristine, ifosfamide, etoposide)
+**Other predicted indications:** The remaining nine predictions (salivary gland-type breast cancer, breast papillomatosis, breast leiomyoma, breast lipoma, diabetic mastopathy, giant adenofibroma of the breast, benign neoplasm of male breast, subareolar duct papillomatosis and infiltrating nipple syringomatous adenoma) are at L5 with **Hold** recommendations. They have no supporting trials, and the literature listed for benign neoplasm of male breast concerns malignant disease and does not support that indication. Most are benign conditions where the toxicity of a cytotoxic agent is not justified. The high scores likely reflect knowledge-graph proximity to breast carcinoma.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

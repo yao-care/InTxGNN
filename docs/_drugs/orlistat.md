@@ -2,7 +2,7 @@
 layout: default
 title: Orlistat
 parent: Model Prediction Only (L5)
-nav_order: 616
+nav_order: 622
 evidence_level: L5
 indication_count: 1
 ---
@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Orlistat is a pancreatic/gastric lipase inhibitor whose established use is weight management in obesity, though this evidence pack does not carry TFDA-confirmed indication text (the drug is not currently marketed in Taiwan). The TxGNN model predicts a possible application in **Hypervitaminosis** (excess of fat-soluble vitamins), but this is a **pure model-derived hypothesis** — currently supported by **0 clinical trials** and **0 publications**.
+Orlistat is a gastric and pancreatic lipase inhibitor originally used to treat obesity, including monogenic obesity.
+The TxGNN model predicts it may be effective for **hypervitaminosis**, but **no clinical trials and no publications** were found in the data compiled for this report. The prediction rests on model output and pharmacological reasoning alone.
 
 ---
 
@@ -41,49 +42,65 @@ Orlistat is a pancreatic/gastric lipase inhibitor whose established use is weigh
 
 | Item | Content |
 |------|------|
-| Original Indication | Obesity / weight management (lipase inhibitor) — not marketed in Taiwan, so no TFDA-approved indication text is on file |
+| Original Indication | Obesity disorder, monogenic obesity (the approved-indication text in the India licence records is blank) |
 | Predicted New Indication | Hypervitaminosis |
 | TxGNN Prediction Score | 99.42% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (original_moa: [Data Gap]). Based on publicly known pharmacology, Orlistat is a pancreatic and gastric lipase inhibitor that blocks hydrolysis of dietary triglycerides in the gut, reducing fat absorption — the mechanism underlying its established use in weight management.
+Detailed mechanism-of-action data from the source database is not available. Based on known pharmacology, orlistat inhibits gastric and pancreatic lipases and reduces dietary fat absorption by roughly 30%. This is how it helps with weight loss in obesity.
 
-Because fat-soluble vitamins (A, D, E, K) are absorbed together with dietary fat, a well-known clinical consequence of Orlistat therapy is *reduced* absorption of these vitamins — a recognized adverse effect, not a treatment effect. TxGNN's high score for "hypervitaminosis" appears to be a mechanistic extrapolation in the *opposite* direction: reasoning that a drug which lowers fat-soluble vitamin absorption could, in principle, be repurposed to treat states of fat-soluble vitamin *excess*.
+The link to the new indication is indirect. Fat-soluble vitamins (A, D, E, K) are absorbed together with dietary fat. Less fat absorption could therefore lower their uptake, which is a plausible way of reducing vitamin burden in hypervitaminosis, especially for vitamins A and D.
 
-This is a logically coherent mechanistic hypothesis, but it inverts a known side effect into a putative indication without any confirmatory human data. No clinical trials, registry trials, or published literature currently exist to support efficacy, dosing, or safety of Orlistat specifically for hypervitaminosis. It should be treated as a hypothesis-generating signal only.
+This reasoning has important limits:
+- It is inferred from pharmacology only. No study in the compiled data tests orlistat as a treatment for vitamin excess.
+- Reduced absorption of fat-soluble vitamins is a known **adverse effect** of orlistat in its approved use, not a recognised benefit.
+- Hypervitaminosis from supplement overuse is normally managed by stopping the supplement, so the case for adding a drug is unclear.
+- The high TxGNN score (0.994) is a computational prediction, not clinical evidence.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-Orlistat is currently **not marketed in Taiwan** (0 registered licenses on file), so no product registration, dosage form, or approved-indication records are available for this evidence pack.
+Twenty valid single-ingredient registrations exist in India. Five are listed below. All are oral forms, and no approved-indication text is recorded for them.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 87617 | Finostat 60mg Capsule | Strip of 10 capsules | Cubit Healthcare |
+| 108993 | Ishape 60mg Capsule | Strip of 10 capsules | Primus Pharmaceuticals |
+| 108568 | Ishape 120mg Capsule | Strip of 10 capsules | Primus Pharmaceuticals |
+| 232244 | Ultislim 120mg Tablet | Strip of 10 tablets | Akumentis Healthcare Ltd |
+| 167365 | Orli-Misia 120mg Tablet | Strip of 10 tablets | Concord Drugs Ltd |
 
 ---
 
 ## Safety Considerations
 
-TFDA label warnings and contraindications are not currently available for this drug (data collection pending — see Next Steps).
+- **Contraindications flagged in the knowledge graph** (drug-disease relationships, not label text): liver failure, primary hyperoxaluria, anorexia nervosa, bulimia nervosa, vitamin deficiency disorder, cholestasis, benign recurrent intrahepatic cholestasis, familial intrahepatic cholestasis, drug-induced liver injury.
+  - The flag for **vitamin deficiency disorder** is directly relevant here. Orlistat can reduce absorption of fat-soluble vitamins, so using it in a vitamin-excess setting carries a risk of overshooting into deficiency.
+- **Drug Interactions**: 314 interactions are recorded. Examples include:
+  - Moderate: abacavir, lamivudine, emtricitabine, atazanavir, acarbose, albiglutide, alogliptin, canagliflozin, metformin, chlorpropamide, amiodarone, cannabidiol, clofarabine, brentuximab vedotin, asparaginase products, calaspargase pegol.
+  - Minor: cholecalciferol, calcifediol, calcitriol.
 
-**Drug Interactions**: 314 total documented interactions on file (DDInter). A sample of Moderate-level interactions includes: Metformin, Acarbose, Alogliptin, Canagliflozin, Albiglutide, Chlorpropamide (antidiabetics — relevant to glycemic monitoring), Amiodarone, Atazanavir, Emtricitabine, Abacavir, Lamivudine (antiretrovirals), and Brentuximab vedotin, Clofarabine, Calaspargase pegol, Asparaginase (Escherichia coli / Erwinia chrysanthemi) (oncology agents). Minor-level interactions include Cholecalciferol, Calcifediol, and Calcitriol — notable given Orlistat's known effect on fat-soluble vitamin absorption, which is directly relevant to the proposed hypervitaminosis indication.
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for the full safety information.
 
 ---
 
@@ -92,14 +109,14 @@ TFDA label warnings and contraindications are not currently available for this d
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a TxGNN model score (L5, S0) with zero supporting clinical trials or literature, and a critical safety data gap (TFDA label/warnings, marked Blocking) prevents even an initial safety screen. There is not yet a basis to advance this candidate beyond hypothesis stage.
+The prediction is supported only by a model score and a pharmacological inference, with no clinical trials or publications. The proposed mechanism is also the cause of a known adverse effect of orlistat, and hypervitaminosis already has a simple management route (stopping the supplement).
 
 **To proceed, the following is needed:**
-- TFDA label warnings and contraindications (DG001, Blocking — required before any S1 safety screening)
-- Confirmed mechanism of action from DrugBank (DG002, High priority)
-- Confirmation of Orlistat's original approved indication(s), since no structured record exists in this pack
-- Preclinical or observational evidence connecting Orlistat to fat-soluble vitamin excess/hypervitaminosis specifically (not just the inverse deficiency effect)
-- Clarification of clinical rationale — e.g., whether "hypervitaminosis" here refers to a specific fat-soluble vitamin (A, D, E, or K) toxicity, since dosing and risk/benefit would differ substantially by vitamin
+- Package insert warnings and contraindications from the India regulator's records
+- Detailed mechanism-of-action data from DrugBank
+- A literature and trial search for orlistat in vitamin A or D excess, including case reports
+- Evidence that orlistat adds benefit over stopping the supplement, and a clear target population
+- A safety plan addressing vitamin deficiency risk, liver and cholestasis contraindications, and interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

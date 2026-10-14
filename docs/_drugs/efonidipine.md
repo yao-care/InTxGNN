@@ -2,7 +2,7 @@
 layout: default
 title: Efonidipine
 parent: Model Prediction Only (L5)
-nav_order: 297
+nav_order: 300
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,88 +29,81 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Efonidipine: From Hypertension to Pulmonary Hypertension with Unclear Multifactorial Mechanism
+# Efonidipine: From Hypertension to Pulmonary Hypertension
 
 ## One-Sentence Summary
 
-Efonidipine is a dual L/T-type calcium channel blocker (CCB), authorised for clinical use in Japan and India for its anti-hypertensive effects.
-The TxGNN model predicts it may be effective for **pulmonary hypertension with unclear multifactorial mechanism (Group 5 PH)**,
-with **no clinical trials** and **no direct literature** currently supporting this specific repurposing direction.
-
----
+Efonidipine is a calcium channel blocker originally used to treat hypertension.
+The TxGNN model predicts it may be effective for **pulmonary hypertension (with unclear multifactorial mechanism)**,
+but **no clinical trials** and **no directly relevant publications** currently support this direction, so the prediction remains model-based only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension (anti-hypertensive) |
-| Predicted New Indication | Pulmonary Hypertension with Unclear Multifactorial Mechanism |
+|------|------|
+| Original Indication | Hypertension (hypertensive disorder) |
+| Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
 | TxGNN Prediction Score | 99.14% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 7 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available from DrugBank. However, pharmacological data confirms that efonidipine binds to **Cav3.2** — a T-type calcium channel encoded by the *CACNA1H* gene — distinguishing it from conventional dihydropyridine CCBs that block only L-type channels. Efonidipine's dual L/T-type blocking profile is the pharmacological foundation for this TxGNN prediction.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known information, efonidipine is a dual L-type/T-type calcium channel blocker with vasodilatory activity, and its blood-pressure-lowering efficacy in systemic hypertension is established (it is authorised for this use in Japan and India). Mechanistically, it may be applicable to pulmonary hypertension, because pulmonary vascular tone and smooth muscle proliferation also depend on calcium signalling.
 
-T-type calcium channels (Cav3.x) are widely expressed in pulmonary arterial smooth muscle cells. The mechanistic hypothesis holds that dual L/T-type blockade could suppress pulmonary arterial vasoconstriction and reduce pulmonary vascular resistance to a greater degree than L-type-only CCBs. This makes efonidipine theoretically interesting in the context of pulmonary hypertension driven by abnormal vascular tone.
+Other predictions from the model follow a similar pattern:
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.14%): hypoxia-driven pulmonary vasoconstriction and remodelling involve calcium signalling and the HIF-1 pathway. The only related publication is an in vitro study of a different drug, cilnidipine, which is class-level hint at best.
+- **Malignant hypertensive renal disease** and **malignant renovascular hypertension** (both 99.04%): these are close to the approved use. Efonidipine's vasodilation of glomerular arterioles gives a rationale for renal protection. However, these are more severe disease forms than the labelled use, and no trials or literature were found.
 
-However, Group 5 pulmonary hypertension — classified as "unclear multifactorial mechanism" — is a heterogeneous category encompassing conditions such as haematologic disorders, systemic inflammatory disease, and metabolic disorders, where aberrant vascular tone is only one of many pathological drivers. Vasodilator therapy with CCBs is established only in a small, carefully selected subset of Group 1 PAH patients who respond to acute vasoreactivity testing. The applicability of efonidipine's dual-channel mechanism to Group 5 PH remains entirely theoretical, with no preclinical or clinical data to substantiate the prediction at this time.
-
----
+The mechanistic rationale is therefore plausible but speculative.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no literature directly studying efonidipine in pulmonary hypertension with unclear multifactorial mechanism is available.
+No publications directly support efonidipine in pulmonary hypertension. Two indirect publications were found for the hypoxia-related prediction:
 
-> **Note:** A PubMed search for the adjacent indication (Group 3 PH — pulmonary hypertension owing to lung disease and/or hypoxia) returned 20 publications, but none address efonidipine specifically. The retrieved articles cover general hypoxia biology (neurodegeneration, cancer metabolism, HIF signalling) and are not relevant to the drug-disease repurposing hypothesis.
-
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [19374868](https://pubmed.ncbi.nlm.nih.gov/19374868/) | 2009 | Preclinical (in vitro) | European Journal of Pharmacology | Compared several L-type calcium channel blockers (including efonidipine) on HIF-1 activity in vascular cells; the title highlights selective suppression by cilnidipine, a different drug |
+| [7557732](https://pubmed.ncbi.nlm.nih.gov/7557732/) | 1995 | Preclinical (animal) | Nihon Yakurigaku Zasshi | Efonidipine showed protective effects in mouse and rat models of cerebral ischaemia and anoxia; not related to pulmonary hypertension |
 
 ## India Market Information
 
-Efonidipine is **not currently registered in the local regulatory database**. No drug authorization licenses are on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 72675 | Efnocar 20 Tablet | Strip of 10 tablets | Not stated |
+| 73173 | Efonta 20 Tablet | Strip of 15 tablets | Not stated |
+| 76085 | Efnocar 10mg Tablet | Strip of 10 tablets | Not stated |
+| 72455 | Efnocar 40 Tablet | Strip of 10 tablets | Not stated |
+| 72983 | Efonta 40mg Tablet | Strip of 15 tablets | Not stated |
 
-> **Cross-reference:** Pharmacology source data (Guide to Pharmacology) notes that efonidipine has been authorised for clinical use in **Japan** and **India** for its anti-hypertensive effects. Regulatory confirmation from CDSCO should be sought directly to clarify current market status.
-
----
+Seven valid single-ingredient registrations exist in total (the two not shown are Efnocar-MX 40/25 Tablet MR and Efonta T 20mg/40mg Tablet).
 
 ## Safety Considerations
 
-Full safety information (package insert warnings and contraindications) is not available in this Evidence Pack and represents a **blocking data gap** preventing formal safety evaluation.
+Please refer to the package insert for safety information.
 
-**Pharmacological Target Interaction:**
-- Efonidipine binds to **Cav3.2** (T-type calcium channel; gene: *CACNA1H*; Entrez ID: 8912; Ensembl: ENSG00000196557). This is a confirmed pharmacological target interaction, not a drug-drug interaction in the clinical sense.
-
-Please refer to the official package insert for comprehensive safety information before any further evaluation.
-
----
+One pharmacology record indicates that efonidipine acts on the Cav3.2 (T-type calcium channel, CACNA1H) target; no specific drug–drug interactions were identified in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence is at the lowest tier (L5 — model prediction only), with no clinical trials, no direct literature, and no preclinical data supporting efonidipine's use in Group 5 pulmonary hypertension. A critical data gap in formal MOA and safety documentation further blocks entry into the evaluation pipeline.
+The prediction score is high (99.14%), but there are no clinical trials and no efonidipine-specific publications for pulmonary hypertension, so the evidence is at the model-prediction level only (L5). The mechanistic rationale is plausible but unverified, and the key safety information is missing.
 
 **To proceed, the following is needed:**
-
-- **Resolve blocking data gap (DG001):** Obtain and parse the official package insert (PMDA or CDSCO) to retrieve key warnings and contraindications
-- **Resolve high-priority data gap (DG002):** Confirm full MOA from DrugBank API, particularly the L/T dual-channel blocking evidence
-- **Preclinical feasibility check:** Search for in vitro or animal model data on efonidipine's effect on pulmonary vascular resistance
-- **Class-effect literature review:** Evaluate existing evidence for other dual L/T-type CCBs (e.g., mibefradil) in pulmonary hypertension models as a proxy for mechanistic plausibility
-- **Group 5 PH aetiology review:** Determine which Group 5 PH subtypes (if any) have a vascular tone component amenable to CCB therapy
-- **Vasoreactivity testing rationale:** Assess whether a vasoreactivity-testing design would be appropriate before any clinical hypothesis is formalised
+- Package insert warnings and contraindications from the India market (currently blocking for safety screening)
+- Detailed mechanism of action data (MOA)
+- Preclinical studies of efonidipine in pulmonary hypertension models (e.g., hypoxia-induced or monocrotaline models)
+- A literature search focused on efonidipine and pulmonary vascular effects
+- Safety assessment for pulmonary hypertension populations, including haemodynamic effects of systemic vasodilation
+- Review of the closer-to-label predictions (malignant hypertensive renal disease, malignant renovascular hypertension) as possibly lower-risk alternatives to explore
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Pemetrexed
 parent: High Evidence (L1-L2)
-nav_order: 649
+nav_order: 655
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Pemetrexed: From Malignant Pleural Mesothelioma to Malignant Peritoneal Mesothelioma
+# Pemetrexed: From Non-Small Cell Lung Cancer and Pleural Mesothelioma to Malignant Peritoneal Mesothelioma
 
 ## One-Sentence Summary
 
-Pemetrexed is a multitargeted antifolate originally established (with cisplatin) as standard chemotherapy for malignant pleural mesothelioma and non-squamous NSCLC. The TxGNN model predicts it may also be effective for **Malignant Peritoneal Mesothelioma**, a rarer disease arising from the same mesothelial cell lineage, with **11 clinical trials** and **20 publications** currently supporting this direction — though most evidence comes from Phase 1/2 studies rather than confirmatory Phase 3 trials.
+Pemetrexed is an antifolate chemotherapy drug originally used to treat non-small cell lung cancer and malignant pleural mesothelioma.
+The TxGNN model predicts it may also be effective for **malignant peritoneal mesothelioma**, which is already treated with pemetrexed-platinum regimens mostly by extrapolation from pleural disease.
+This direction currently has **7 clinical trials** and **20 publications** behind it. They are mostly Phase 2 trials, retrospective series and reviews, with no randomized trial specific to the peritoneal disease.
 
 ---
 
@@ -41,23 +43,23 @@ Pemetrexed is a multitargeted antifolate originally established (with cisplatin)
 
 | Item | Content |
 |------|------|
-| Original Indication | Malignant pleural mesothelioma (with cisplatin); India-specific approved label text not available in this evidence pack |
-| Predicted New Indication | Malignant Peritoneal Mesothelioma |
+| Original Indication | Non-small cell lung cancer, lung cancer, malignant pleural mesothelioma |
+| Predicted New Indication | Malignant peritoneal mesothelioma |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L2 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-The structured `original_moa` field in this evidence pack is marked as a data gap, but the mechanistic evidence embedded in the model's rationale is informative: Pemetrexed is a multitargeted antifolate that inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT) — key enzymes in de novo purine and pyrimidine synthesis. This blocks DNA replication in rapidly dividing cells.
+Pemetrexed is a multi-targeted antifolate. It inhibits thymidylate synthase, dihydrofolate reductase (DHFR) and glycinamide ribonucleotide formyltransferase (GARFT). This blocks purine and pyrimidine synthesis in rapidly dividing tumour cells. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description reflects the established pharmacology of the drug.
 
-Malignant peritoneal mesothelioma and malignant pleural mesothelioma are histogenetically the same disease — both arise from mesothelial cells, differing only in anatomical site of origin (pleura vs. peritoneum), and share highly overlapping histological and molecular features. Pemetrexed plus cisplatin is already the de facto standard-of-care backbone used off-label for peritoneal mesothelioma in clinical practice, largely extrapolated from its confirmed activity in pleural disease.
+Peritoneal and pleural mesothelioma are the same disease in different locations. They share histology and chemosensitivity, and the mechanism is expected to carry over. Pemetrexed plus platinum is already the standard first-line chemotherapy for pleural mesothelioma. It is also used as systemic therapy for peritoneal disease, mostly by extrapolation. The current NCCN review notes that peritoneal mesothelioma is rare, that disease-specific prospective trials are scarce, and that systemic therapy recommendations are mostly borrowed from pleural trials.
 
-Given that TS is highly expressed in mesothelioma cells regardless of anatomical site, the biological rationale for extending pemetrexed's antifolate activity to peritoneal disease is sound. However, the evidence base for peritoneal mesothelioma specifically consists mainly of Phase 1/2 studies (several combined with cytoreductive surgery/HIPEC or investigational agents) rather than an independent large confirmatory Phase 3 RCT — this is best understood as evidence-supported off-label extension of an established combination, not a *de novo* mechanistic prediction.
+The evidence is therefore consistent but indirect. Peritoneal data come from small Phase 2 studies and retrospective series, and the strongest randomized evidence (pemetrexed plus cisplatin versus cisplatin alone) was generated in pleural disease.
 
 ---
 
@@ -65,39 +67,46 @@ Given that TS is highly expressed in mesothelioma cells regardless of anatomical
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00061477](https://clinicaltrials.gov/study/NCT00061477) | Phase 2 | Completed | 48 | ALIMTA (pemetrexed) plus gemcitabine as front-line chemotherapy for pleural or peritoneal mesothelioma; assessed safety, survival, and tumor response |
-| [NCT06057935](https://clinicaltrials.gov/study/NCT06057935) | Phase 2 | Recruiting | 64 | Randomized trial comparing intraperitoneal vs. intravenous chemotherapy after cytoreductive surgery + HIPEC for malignant peritoneal mesothelioma |
-| [NCT04462809](https://clinicaltrials.gov/study/NCT04462809) | Phase 2 | Unknown | 40 | Maintenance talazoparib following first-line platinum-based chemotherapy in pleural or peritoneal mesothelioma |
-| [NCT02535312](https://clinicaltrials.gov/study/NCT02535312) | Phase 1/2 | Active, not recruiting | 30 | Methoxyamine (TRC102) combined with cisplatin and pemetrexed in solid tumors/mesothelioma, including cases refractory to pemetrexed-cisplatin |
-| [NCT06543069](https://clinicaltrials.gov/study/NCT06543069) | Phase 2 | Recruiting | 28 | Sintilimab + bevacizumab combined with pemetrexed and cisplatin for unresectable malignant peritoneal mesothelioma |
-| [NCT05001880](https://clinicaltrials.gov/study/NCT05001880) | Phase 2 | Recruiting | 66 | Carboplatin/pemetrexed/bevacizumab ± atezolizumab in peritoneal mesothelioma |
-| [NCT03875144](https://clinicaltrials.gov/study/NCT03875144) | Phase 2 | Suspended | 66 | PIPAC plus systemic chemotherapy (cisplatin+pemetrexed) vs. systemic chemotherapy alone as 1st-line treatment |
-| [NCT02029690](https://clinicaltrials.gov/study/NCT02029690) | Phase 1 | Terminated | 85 | ADI-PEG 20 (arginine-degrading enzyme) with pemetrexed and cisplatin in arginine-dependent tumors including peritoneal mesothelioma |
-| [NCT00402766](https://clinicaltrials.gov/study/NCT00402766) | Phase 1 | Completed | 19 | Cisplatin, pemetrexed, and imatinib mesylate in unresectable/metastatic malignant mesothelioma |
-| [NCT01353482](https://clinicaltrials.gov/study/NCT01353482) | Phase 1/2 | Withdrawn | 0 | First-line vorinostat with pemetrexed-cisplatin in malignant pleural mesothelioma (trial withdrawn before enrollment) |
+| [NCT00061477](https://clinicaltrials.gov/study/NCT00061477) | Phase 2 | Completed | 48 | Pemetrexed (ALIMTA) plus gemcitabine as front-line therapy in pleural or peritoneal mesothelioma. Directly tests pemetrexed in the peritoneal population. |
+| [NCT05001880](https://clinicaltrials.gov/study/NCT05001880) | Phase 2 | Recruiting | 66 | Randomized trial of carboplatin-pemetrexed-bevacizumab with or without atezolizumab in peritoneal mesothelioma |
+| [NCT03875144](https://clinicaltrials.gov/study/NCT03875144) | Phase 2 | Suspended | 66 | Randomized trial of PIPAC plus cisplatin-pemetrexed versus systemic chemotherapy alone as first-line treatment (MESOTIP) |
+| [NCT06543069](https://clinicaltrials.gov/study/NCT06543069) | Phase 2 | Recruiting | 28 | Single-arm study of sintilimab and bevacizumab with pemetrexed and cisplatin in unresectable peritoneal mesothelioma |
+| [NCT02535312](https://clinicaltrials.gov/study/NCT02535312) | Phase 1/2 | Active, not recruiting | 30 | TRC102 with cisplatin and pemetrexed in advanced solid tumours and mesothelioma. Mainly dose-finding and safety. |
+| [NCT00402766](https://clinicaltrials.gov/study/NCT00402766) | Phase 1 | Completed | 19 | Cisplatin, pemetrexed and imatinib in metastatic malignant mesothelioma. Early-phase safety study. |
+| [NCT06057935](https://clinicaltrials.gov/study/NCT06057935) | Phase 2 | Recruiting | 64 | Intraperitoneal versus intravenous chemotherapy after cytoreductive surgery and HIPEC (ICARuS II). Pemetrexed is not clearly the studied agent. |
 
 ---
 
 ## Literature Evidence
 
+No randomized controlled trials specific to peritoneal mesothelioma were found. The list below covers the most relevant reviews and clinical series.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35407498](https://pubmed.ncbi.nlm.nih.gov/35407498/) | 2022 | Review | J Clin Med | Comprehensive review of treatment approaches for malignant peritoneal mesothelioma, including systemic chemotherapy role |
-| [26941986](https://pubmed.ncbi.nlm.nih.gov/26941986/) | 2016 | Review | J Gastrointest Oncol | Diagnosis and management overview of malignant peritoneal mesothelioma |
-| [31417959](https://pubmed.ncbi.nlm.nih.gov/31417959/) | 2019 | Cohort | Pleura and Peritoneum | Bidirectional chemotherapy enabling surgery and HIPEC in initially unresectable peritoneal mesothelioma |
-| [31287877](https://pubmed.ncbi.nlm.nih.gov/31287877/) | 2019 | Retrospective | Jpn J Clin Oncol | Efficacy and safety of pemetrexed plus cisplatin as first-line chemotherapy in advanced malignant peritoneal mesothelioma — no standard regimen previously established |
-| [28594258](https://pubmed.ncbi.nlm.nih.gov/28594258/) | 2017 | Retrospective | Expert Rev Anticancer Ther | First-line pemetrexed plus cisplatin chemotherapy specifically evaluated in malignant peritoneal mesothelioma |
-| [23291819](https://pubmed.ncbi.nlm.nih.gov/23291819/) | 2013 | Case report | BMJ Case Rep | Patient with malignant peritoneal mesothelioma responded to rechallenge with cisplatin and pemetrexed after prior response |
-| [30450291](https://pubmed.ncbi.nlm.nih.gov/30450291/) | 2018 | Review | Transl Lung Cancer Res | Overview review of malignant peritoneal mesothelioma including treatment landscape |
-| [38806763](https://pubmed.ncbi.nlm.nih.gov/38806763/) | 2024 | Multi-center study | Ann Surg Oncol | Treatment strategies and outcomes across a multi-center peritoneal mesothelioma cohort |
-| [29423664](https://pubmed.ncbi.nlm.nih.gov/29423664/) | 2018 | Review | Ann Surg Oncol | Current management and future opportunities for peritoneal mesothelioma |
-| [34723916](https://pubmed.ncbi.nlm.nih.gov/34723916/) | 2022 | Case series | J Immunother | Chemoimmunotherapy in platinum-nonresponsive metastatic peritoneal mesothelioma after prior chemotherapy |
+| [39413826](https://pubmed.ncbi.nlm.nih.gov/39413826/) | 2024 | Review | J Natl Compr Canc Netw | Systemic therapy options for peritoneal mesothelioma. Recommendations are largely extrapolated from pleural trials, and first-line options include chemotherapy with pemetrexed and platinum. |
+| [31287877](https://pubmed.ncbi.nlm.nih.gov/31287877/) | 2019 | Clinical series | Jpn J Clin Oncol | Efficacy and safety of pemetrexed plus cisplatin as first-line chemotherapy in advanced peritoneal mesothelioma |
+| [28594258](https://pubmed.ncbi.nlm.nih.gov/28594258/) | 2017 | Retrospective study | Expert Rev Anticancer Ther | Retrospective evaluation of first-line pemetrexed-cisplatin in peritoneal mesothelioma |
+| [21528659](https://pubmed.ncbi.nlm.nih.gov/21528659/) | 2011 | Single-institution study | Tumori | Efficacy and safety of pemetrexed-cisplatin in chemo-naïve peritoneal mesothelioma patients |
+| [41133016](https://pubmed.ncbi.nlm.nih.gov/41133016/) | 2025 | Comparative study | Clin Med Insights Oncol | First-line pemetrexed-platinum versus gemcitabine-platinum regimens in peritoneal mesothelioma |
+| [38806763](https://pubmed.ncbi.nlm.nih.gov/38806763/) | 2024 | Multi-centre study | Ann Surg Oncol | Treatment strategies and outcomes in peritoneal mesothelioma |
+| [36765620](https://pubmed.ncbi.nlm.nih.gov/36765620/) | 2023 | Review | Cancers | Diagnostic and therapeutic pathway. 5-year survival is about 20%, and cytoreductive surgery plus HIPEC gives the best outcomes in selected patients. |
+| [35407498](https://pubmed.ncbi.nlm.nih.gov/35407498/) | 2022 | Review | J Clin Med | Treatment of peritoneal mesothelioma. Surgical cytoreduction plus HIPEC is the preferred initial treatment in selected patients. |
+| [30450291](https://pubmed.ncbi.nlm.nih.gov/30450291/) | 2018 | Review | Transl Lung Cancer Res | Review of the disease: rare, poor prognosis, weaker asbestos link than pleural disease |
+| [26941986](https://pubmed.ncbi.nlm.nih.gov/26941986/) | 2016 | Review | J Gastrointest Oncol | Diagnosis and management of peritoneal mesothelioma |
 
 ---
 
 ## India Market Information
 
-Pemetrexed is currently **not marketed** in India according to this evidence pack (`market_status: Not marketed`, 0 registrations). No license records are available to summarize.
+Pemetrexed has 20 valid single-ingredient injectable registrations in India and none cancelled. The five main ones are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 4159 | Alimta 500mg Injection (Eli Lilly India) | Vial of 1, injection | Not listed in the data compiled |
+| Registration No. 176971 | Pemgem 500mg Injection (Dr Reddy's) | Vial of 1, injection | Not listed in the data compiled |
+| Registration No. 227660 | Temeran 500mg Injection (Sun Pharma) | Vial of 1, injection | Not listed in the data compiled |
+| Registration No. 118127 | Kabipem 500mg Injection (Fresenius Kabi India) | Vial of 1, injection | Not listed in the data compiled |
+| Registration No. 175406 | Pemnat 500mg Injection (Natco) | Vial of 1, injection | Not listed in the data compiled |
 
 ---
 
@@ -105,19 +114,30 @@ Pemetrexed is currently **not marketed** in India according to this evidence pac
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic — multitargeted antifolate (inhibits TS, DHFR, GARFT) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Cytotoxicity Classification | Conventional cytotoxic (antifolate, antimetabolite class) |
+| Myelosuppression Risk | High. Neutropenia, thrombocytopenia, anaemia and agranulocytosis are all recorded as concerns for this drug. |
+| Emetogenicity Classification | Medium (general category-based estimate; confirm against the package insert) |
+| Monitoring Items | CBC with differential, renal function (creatinine clearance), liver function |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
+
+Please refer to the package insert warnings and precautions for dosing rules, including vitamin supplementation and renal dose considerations.
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: A DDI query identified **367 total interactions**. Among these, several Moderate-level interactions (source: DDInter) are notable, including H2-receptor antagonists (Famotidine, Ranitidine, Cimetidine), NSAIDs (Acetylsalicylic acid), nephrotoxic/renally-cleared agents (Amphotericin B and its lipid/liposomal formulations, Vancomycin, Kanamycin, Neomycin, Polymyxin B, Levofloxacin), 5-ASA compounds (Mesalazine, Balsalazide, Olsalazine), Metformin, and Sapropterin. Given pemetrexed's renal elimination pathway, interactions with nephrotoxic or renally competing agents warrant particular attention.
+- **Conditions of concern:** Pemetrexed is flagged as problematic in kidney disease and impaired renal function, and in blood-count disorders: thrombocytopenia, neutropenia, agranulocytosis, anaemia and macrocytic anaemia. These come from drug-disease relationship data, not from package insert text.
+- **Drug interactions:** 367 interactions were identified. All of those listed below are rated Moderate:
+  - Acid suppressants: famotidine, ranitidine, cimetidine.
+  - Metformin and aspirin.
+  - Aminosalicylates: mesalazine, balsalazide, olsalazine.
+  - Amphotericin B, including its lipid and liposomal forms.
+  - Antibiotics: vancomycin, kanamycin, neomycin, polymyxin B, levofloxacin, amoxicillin.
+  - Sapropterin.
 
-Key warnings and contraindications data were not available in this evidence pack — please refer to the package insert for that information.
+  A full interaction review is advised before use, especially for drugs that are cleared by the kidney or are nephrotoxic.
+
+For label warnings and contraindications, please refer to the package insert.
 
 ---
 
@@ -126,13 +146,14 @@ Key warnings and contraindications data were not available in this evidence pack
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple Phase 1/2 trials and a substantial literature base (including retrospective series specifically evaluating pemetrexed+cisplatin in peritoneal mesothelioma) support biological plausibility and real-world off-label use, but no confirmatory Phase 3 RCT exists for the peritoneal-specific indication — evidence level is L2, warranting guarded rather than unconditional advancement.
+Pemetrexed plus platinum is already an accepted systemic option in peritoneal mesothelioma. It is supported by a completed Phase 2 trial, several retrospective series, and several ongoing randomized and single-arm Phase 2 trials. It is also marketed widely in India. However, there are no completed randomized trials specific to the peritoneal disease, so the evidence rests mostly on extrapolation from pleural mesothelioma. The drug's high myelosuppression and renal risks require tight controls.
 
 **To proceed, the following is needed:**
-- Drug label/warning data (currently blocking — DG001)
-- Formal, structured mechanism-of-action documentation from DrugBank (DG002)
-- India-specific regulatory and market registration data (drug not currently marketed)
-- Peritoneal-mesothelioma-specific safety monitoring plan, given the drug's extensive interaction profile (367 identified interactions) and lack of populated toxicity/myelosuppression data in this evidence pack
+- Review of the India package insert for warnings, contraindications and approved indications, which were not available for this report
+- Detailed mechanism-of-action data from a drug database
+- Results of the ongoing randomized Phase 2 trials in peritoneal mesothelioma (NCT05001880, NCT03875144)
+- A safety monitoring plan covering blood counts, renal function, vitamin supplementation and interaction screening
+- Clarification of how systemic chemotherapy fits alongside cytoreductive surgery with HIPEC and immunotherapy options
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,15 +2,15 @@
 layout: default
 title: Didanosine
 parent: Moderate Evidence (L3-L4)
-nav_order: 261
-evidence_level: L3
+nav_order: 264
+evidence_level: L4
 indication_count: 3
 ---
 
 # Didanosine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,96 +29,91 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-# Didanosine: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+# Didanosine: From HIV Infection to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-Didanosine (ddI) is a nucleoside reverse transcriptase inhibitor (NRTI) originally developed for the treatment of HIV-1 infection, a drug that has since been withdrawn from most markets worldwide.
-The TxGNN model predicts it may be effective for **Simian Immunodeficiency Virus (SIV) Infection**,
-with **0 clinical trials** and **12 publications** (all preclinical animal or in vitro studies) currently supporting this direction.
-
----
+Didanosine is an antiretroviral drug originally used to treat HIV infection and AIDS.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus (SIV) infection**, but this is an animal-model disease, not a new human indication.
+Support is limited to **7 publications** (mostly animal and in vitro studies) and **no clinical trials**.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | HIV-1 infection (withdrawn from market; no India registration on record) |
-| Predicted New Indication | Simian Immunodeficiency Virus (SIV) Infection |
+|------|------|
+| Original Indication | HIV infection, AIDS |
+| Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 99.33% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 5 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the current Evidence Pack. Based on the repurposing rationale and known pharmacology, Didanosine is a nucleoside reverse transcriptase inhibitor (NRTI). It exerts its antiviral effect by being incorporated into the viral DNA chain, competitively inhibiting reverse transcriptase (RT) and terminating further DNA strand elongation — thereby blocking viral replication at a critical early step.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, didanosine is a nucleoside reverse transcriptase inhibitor (NRTI). Its active metabolite, ddATP, terminates viral DNA chain elongation.
 
-Simian Immunodeficiency Virus (SIV) belongs to the same lentivirus genus as HIV-1 and HIV-2, sharing a highly conserved RT catalytic domain. This structural homology makes the mechanistic extension from HIV to SIV scientifically plausible. PMID 9923010 (1998) provides the strongest direct evidence: ddI pretreatment significantly reduced acute viral load in SIVmac251-infected cynomolgus macaques and modulated both pro-inflammatory and anti-inflammatory cytokine profiles. PMID 15040537 further confirmed ddI's in vitro susceptibility against multiple SIV and SHIV strains, and PMID 9282812 showed that ddI — but not high-dose hydroxyurea — rescued pigtail macaques from a lethal SIV(smmpbj14) challenge.
+SIV is a lentivirus closely related to HIV and has a homologous reverse transcriptase, so activity is biologically plausible. Preclinical work supports this: SIV and SHIV strains were tested for susceptibility to anti-HIV compounds, and in a pigtail macaque study didanosine rescued animals from a lethal SIV dose.
 
-However, significant counterevidence constrains translation. PMID 22013040 documented **fatal pancreatitis** in SIVmac251-infected rhesus macaques treated with ddI plus stavudine following immune modulation. Additionally, the target indication (SIV infection) is an animal disease with no direct human clinical counterpart, the drug has been commercially withdrawn, and a burden of 153 documented drug-drug interactions further narrows any viable therapeutic window.
+However, SIV infects non-human primates. These findings do not translate into a new human treatment. Their value is as a translational model for HIV, and the original HIV/AIDS indication already covers human clinical use.
 
----
+Two other predictions were also reviewed and are not actionable:
+- **Feline acquired immunodeficiency syndrome (score 99.33%, L4):** The feline model is used mainly to study didanosine-induced sensory neuropathy (a toxicity), not antiviral efficacy. It is a veterinary indication.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (score 99.26%, L5):** There are no trials or literature and no plausible mechanistic link. Didanosine's known mitochondrial toxicity and peripheral neuropathy raise a safety concern in neurological conditions. This is likely a knowledge-graph artifact.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [9923010](https://pubmed.ncbi.nlm.nih.gov/9923010/) | 1998 | Animal in vivo (macaque) | Research in Virology | ddI pretreatment significantly reduced SIVmac251 acute viral load and remodeled cytokine profiles (IL-6, TNF-α, IL-10) in cynomolgus macaques — strongest direct evidence |
-| [9282812](https://pubmed.ncbi.nlm.nih.gov/9282812/) | 1997 | Animal in vivo (macaque) | AIDS Research and Human Retroviruses | ddI (not high-dose hydroxyurea) rescued pigtail macaques from lethal SIV(smmpbj14); combination therapy tested |
-| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro / Comparative | Antiviral Therapy | ddI showed antiviral activity against SIV mac251, SIV B670, and SHIV strains; provides cross-species susceptibility data relevant to treatment and PEP guidance |
-| [22013040](https://pubmed.ncbi.nlm.nih.gov/22013040/) | 2012 | Animal in vivo (macaque) — Safety | Journal of Virology | **Fatal pancreatitis** observed in SIVmac251-infected macaques on ddI + stavudine after CTLA-4/IDO blockade; critical safety signal for ddI use in lentiviral infection |
-| [11090360](https://pubmed.ncbi.nlm.nih.gov/11090360/) | 2000 | Animal RCT (macaque) | Science | Structured treatment interruption with HAART (including ddI) in acute SIV-infected macaques enhanced virus-specific T-cell responses and controlled viral rebound |
-| [14965468](https://pubmed.ncbi.nlm.nih.gov/14965468/) | 2004 | Animal — Biomarker | DNA and Cell Biology | TREC analysis in SHIV89.6p and SIVmac251 models treated with ART regimens including ddI; evaluates TREC as immune reconstitution surrogate marker |
-| [15182307](https://pubmed.ncbi.nlm.nih.gov/15182307/) | 2004 | Animal — Pathomechanism | European Journal of Neuroscience | A ddI-class nucleoside (6-Cl-ddG) lowered brain viral burden and IDO expression in lentivirus-infected rhesus monkeys; contextual evidence for CNS effects of NRTIs in SIV |
-| [11435599](https://pubmed.ncbi.nlm.nih.gov/11435599/) | 2001 | In vitro | Journal of Virology | Dideoxynucleosides (including ddI) tested against human foamy virus (a simian-origin retrovirus); only AZT showed equivalent activity against both HIV and HFV |
-| [8554904](https://pubmed.ncbi.nlm.nih.gov/8554904/) | 1995 | In vitro model | AIDS Research and Human Retroviruses | Human thymic organ culture model for HIV/SIV pathogenesis; ddI used as reference antiretroviral in validating the model system |
-| [8870848](https://pubmed.ncbi.nlm.nih.gov/8870848/) | 1996 | Animal — Pathomechanism | AIDS Research and Human Retroviruses | Cytokine mRNA expression across tissues during acute SIVmac251 infection; provides baseline immunological context for evaluating ddI treatment effects |
+|------|-----|------|------|---------|
+| [9282812](https://pubmed.ncbi.nlm.nih.gov/9282812/) | 1997 | Animal study (macaque) | AIDS Res Hum Retroviruses | Didanosine, but not high-dose hydroxyurea, rescued pigtail macaques from a lethal SIV dose |
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro study | Antiviral Therapy | Antiviral activity of 16 approved drugs tested against HIV-2, SIV and SHIV strains |
+| [14965468](https://pubmed.ncbi.nlm.nih.gov/14965468/) | 2004 | Animal model study | DNA Cell Biol | T-cell receptor excision circles (TREC) measured as a marker in SHIV and SIV macaque models |
+| [8870848](https://pubmed.ncbi.nlm.nih.gov/8870848/) | 1996 | Animal model study | AIDS Res Hum Retroviruses | Cytokine mRNA expression in tissues during acute SIVmac251 infection of macaques |
+| [11435599](https://pubmed.ncbi.nlm.nih.gov/11435599/) | 2001 | In vitro study | J Virol | Dideoxynucleoside susceptibility of human foamy virus (indirect relevance) |
+| [9145853](https://pubmed.ncbi.nlm.nih.gov/9145853/) | 1997 | In vitro study | Antimicrob Agents Chemother | Protease inhibitor palinavir active against HIV-1, HIV-2 and SIV (indirect relevance) |
+| [15668538](https://pubmed.ncbi.nlm.nih.gov/15668538/) | 2005 | In vitro study | AIDS | Hydroxyurea is cytostatic but not immunosuppressive on T lymphocytes (indirect relevance) |
 
----
+Literature for the feline model (toxicity-focused):
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [17616550](https://pubmed.ncbi.nlm.nih.gov/17616550/) | 2007 | Animal model study | Brain | Didanosine caused sensory neuropathy in FIV-infected animals, with impaired mitochondrial and neurotrophic gene expression |
+| [19380511](https://pubmed.ncbi.nlm.nih.gov/19380511/) | 2009 | Animal/in vitro mechanistic study | FASEB J | CXCR3 activation suppresses neuronal autophagy; antiretroviral therapy was neuroprotective (indirect relevance) |
 
 ## India Market Information
 
-Didanosine is currently **not marketed in India**. No product registrations are on record.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 66713 | Dinosin 100mg Tablet | Bottle of 60 tablets | Not specified |
+| 237405 | Virosine DR 250mg Capsule | Packet of 30 capsules | Not specified |
+| 68259 | Dinosin 250mg Tablet | Strip of 30 tablets | Not specified |
+| 69362 | Dinosin 400mg Capsule | Strip of 30 capsules | Not specified |
+| 239969 | Virosine DR 400mg Capsule | Packet of 30 capsules | Not specified |
 
 ## Safety Considerations
 
-**Drug Interactions**: Didanosine has **153 documented drug interactions** in total. A representative sample is shown below:
+- **Drug Interactions:** 153 interactions are recorded. Moderate-level interactions include acetylsalicylic acid, metronidazole, levofloxacin, naltrexone, nitisinone, orlistat, rosuvastatin, simvastatin and tinidazole. Minor-level ones include ranitidine, doxycycline, minocycline and tetracycline.
+- **Disease-related contraindication signals (knowledge graph, not label text):** These include kidney disease and impaired renal function, liver disease, peripheral neuropathy, diabetes mellitus, hypertriglyceridemia, nephrolithiasis, and others.
+- **Mitochondrial toxicity and peripheral neuropathy:** Animal data (FIV model) show didanosine-induced sensory neuropathy with impaired mitochondrial gene expression.
 
-| Severity | Interacting Drug(s) |
-|----------|---------------------|
-| Moderate | Acetylsalicylic acid, Metronidazole, Levofloxacin, Naltrexone, Nitisinone, Orlistat, Rosuvastatin, Simvastatin, Tinidazole |
-| Minor | Ranitidine, Doxycycline, Minocycline, Tetracycline, Ranitidine (bismuth citrate) |
-| Unknown | Levocarnitine, Amphotericin B, Pantoprazole, Glimepiride, Morphine, Metformin |
-
-This high interaction burden (153 total) warrants thorough medication reconciliation in any proposed use. For complete warnings and contraindications, please refer to the original product package insert.
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN score (99.33%) grounded in the conserved lentiviral RT structure, all supporting evidence is preclinical — no human or veterinary clinical trials exist — and a documented fatal pancreatitis signal in the SIV animal model, combined with the drug's commercial withdrawal and 153 known drug-drug interactions, makes further clinical translation infeasible without substantial additional investigation.
+The predicted indication is an animal-model infection supported only by preclinical studies (L4), with no clinical trials. It adds no new human use beyond the existing HIV/AIDS indication. The other two predictions are a veterinary toxicity model and an unsupported knowledge-graph artifact.
 
 **To proceed, the following is needed:**
-- Clarification of clinical intent: SIV is an animal disease; if the goal is cross-species HIV research utility, reframe the research question accordingly
-- Retrieval of full MOA and package insert data to characterize the pancreatitis risk and determine whether it is dose- or combination-dependent
-- Assessment of whether a reformulated or lower-dose ddI regimen could reduce the pancreatitis risk observed in PMID 22013040
-- A systematic review or meta-analysis of all NRTI activity across lentivirus strains to position ddI relative to current agents
-- Regulatory feasibility assessment given the drug's withdrawn status in most jurisdictions
+- Detailed mechanism of action data (MOA)
+- Package insert warnings and contraindications from the India regulatory source
+- A clear human-relevant hypothesis (for example, using SIV data only as a translational HIV model) before any further evaluation
+- Independent mechanistic evidence before pursuing the neurodevelopmental disorder prediction
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

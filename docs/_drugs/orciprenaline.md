@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Orciprenaline
-parent: High Evidence (L1-L2)
-nav_order: 615
-evidence_level: L2
+parent: Moderate Evidence (L3-L4)
+nav_order: 621
+evidence_level: L3
 indication_count: 10
 ---
 
 # Orciprenaline
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Orciprenaline: From Bronchial Asthma/Bronchospasm to Obstructive Lung Disease
+# Orciprenaline: From Asthma to Obstructive Lung Disease
 
 ## One-Sentence Summary
 
-Orciprenaline (metaproterenol, DrugBank DB00816) is a non-selective β2-adrenergic agonist historically used as an inhaled bronchodilator for bronchial asthma and airway obstruction. The TxGNN model's top prediction — **Obstructive Lung Disease** — largely re-confirms this established pharmacological role rather than identifying a truly novel indication, and is currently supported by **5 clinical trials** and **20 publications**, though only one trial/publication set directly studies orciprenaline itself rather than related β2-agonists (fenoterol, salbutamol, etc.).
+Orciprenaline (metaproterenol) is a non-selective beta-adrenergic agonist bronchodilator, originally used for asthma, bronchitis and pulmonary emphysema.
+The TxGNN model predicts it may be effective for **obstructive lung disease**, supported by **no registered clinical trials** and **20 publications** (mostly older comparative and pharmacology studies from 1971-2018).
+This prediction is essentially an umbrella term for the drug's existing indications rather than a true repurposing.
 
 ---
 
@@ -41,35 +43,29 @@ Orciprenaline (metaproterenol, DrugBank DB00816) is a non-selective β2-adrenerg
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally documented — the drug is unmarketed in India (0 licenses), so no official indication text exists. Literature consistently identifies its historical use as a bronchodilator for bronchial asthma/bronchospasm. |
-| Predicted New Indication | Obstructive Lung Disease |
-| TxGNN Prediction Score | 99.9953% |
-| Evidence Level | L2 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Original Indication | Asthma, intrinsic asthma, allergic asthma, bronchitis, pulmonary emphysema (the Indian license record has no indication text) |
+| Predicted New Indication | Obstructive lung disease |
+| TxGNN Prediction Score | 99.995% |
+| Evidence Level | L3 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data from DrugBank is currently unavailable (`original_moa`: Data Gap). Based on the evidence assembled, orciprenaline is a non-selective **β2-adrenergic receptor agonist** that directly relaxes bronchial smooth muscle — a textbook bronchodilator mechanism that maps directly onto the core pathophysiology of obstructive lung disease (increased airway resistance).
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, orciprenaline is a non-selective beta-adrenergic agonist that relaxes bronchial smooth muscle. Its efficacy in asthma, bronchitis and emphysema is established.
 
-This is not a mechanistically distant repurposing story: multiple retrieved publications (e.g., PMID 8834341, 8341859, 1974678) describe orciprenaline/metaproterenol being directly compared against other β2-agonists (fenoterol, salbutamol, tulobuterol) and anticholinergics in exactly this disease population. In other words, TxGNN's highest-scoring prediction appears to be substantially rediscovering the drug's known, established pharmacological class use rather than surfacing a genuinely new therapeutic hypothesis — a useful sanity check on model validity, but weaker as a "new indication" business case.
+Obstructive lung disease is the broader category that contains these original indications, so the prediction largely restates the drug's existing use. The mechanism, bronchodilation through beta-receptor stimulation, applies directly to airway obstruction.
 
-A caveat: most of the clinical trial evidence retrieved involves *comparator* drugs (ipratropium, fenoterol, tiotropium) rather than orciprenaline as the study drug itself, so trial-level relevance grading is mixed (B/C), with only the literature directly confirming orciprenaline/metaproterenol's own efficacy in this population.
+The main caveats are cardiac effects from beta-1 stimulation (a faster heart rate and higher blood pressure than salbutamol in a paediatric comparison) and the availability of more selective beta-2 agonists. Current guidelines generally favour those agents.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01095016](https://clinicaltrials.gov/study/NCT01095016) | Phase 3 | Completed | 32 | Open-label, randomized, cross-over trial comparing Meptin® Swinghaler and Berotec N® aerosol in mild-to-moderate stable asthma (Grade B — bronchodilator class trial; orciprenaline not confirmed as study drug). |
-| [NCT00274066](https://clinicaltrials.gov/study/NCT00274066) | Phase 3 | Completed | 65 | Evaluated acute bronchodilator effect of ipratropium and fenoterol vs. placebo on top of tiotropium in COPD (Grade C — comparator drugs, not orciprenaline). |
-| [NCT01933984](https://clinicaltrials.gov/study/NCT01933984) | N/A | Completed | 51 | Individualized vs. fixed dosing of inhaled bronchodilator to reduce airway resistance in intubated COPD patients (Grade B — class-relevant, drug identity unconfirmed). |
-| [NCT05183841](https://clinicaltrials.gov/study/NCT05183841) | N/A | Unknown | 40 | Effect of bronchodilators on exercise capacity in bronchiectasis patients (Grade C — atypical obstructive population, status unknown). |
-| [NCT00460577](https://clinicaltrials.gov/study/NCT00460577) | Phase 4 | Completed | 60 | Randomized double-dummy trial: formoterol vs. nebulized ipratropium+fenoterol in children (5–<12y) with acute bronchial obstruction (Grade C — formoterol-based, indirect evidence). |
+Currently no related clinical trials registered.
 
 ---
 
@@ -77,32 +73,37 @@ A caveat: most of the clinical trial evidence retrieved involves *comparator* dr
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [8834341](https://pubmed.ncbi.nlm.nih.gov/8834341/) | 1996 | RCT | European Respiratory Journal | Double-blind study directly comparing nebulized glycopyrrolate and **metaproterenol (orciprenaline)**, alone and combined, for bronchodilation in stable COPD. |
-| [8341859](https://pubmed.ncbi.nlm.nih.gov/8341859/) | 1993 | RCT | Respiration | Double-blind, randomized cross-over trial comparing fenoterol/ipratropium bromide with salbutamol in chronic obstructive lung disease (24 patients). |
-| [7345424](https://pubmed.ncbi.nlm.nih.gov/7345424/) | 1981 | Review | Praxis und Klinik der Pneumologie | Review of bronchospasmolytic (bronchodilator) drug classes, covering β-adrenergic agents including orciprenaline. |
-| [6142760](https://pubmed.ncbi.nlm.nih.gov/6142760/) | 1983 | Review | Clinical Reviews in Allergy | Review of adrenergic drugs used in obstructive airway disease. |
-| [4942356](https://pubmed.ncbi.nlm.nih.gov/4942356/) | 1970 | Review | Medizinische Klinik | Review on allergic bronchial asthma management. |
-| [2951816](https://pubmed.ncbi.nlm.nih.gov/2951816/) | 1986 | Cohort | Respiration | Controlled long-term (≥84 day) study of fenoterol + ipratropium bromide aerosol combination in chronic obstructive lung disease. |
-| [2879458](https://pubmed.ncbi.nlm.nih.gov/2879458/) | 1987 | Cohort | The American Journal of Medicine | Double-blind ER study (199 patients) of nebulized anticholinergic and sympathomimetic regimens in acute airway obstruction (asthma/COAD). |
-| [2951811](https://pubmed.ncbi.nlm.nih.gov/2951811/) | 1986 | Cohort | Respiration | Compared fenoterol-ipratropium combination with terbutaline in chronic obstructive lung disease (ventilatory response, tolerance, side effects). |
-| [7701449](https://pubmed.ncbi.nlm.nih.gov/7701449/) | 1995 | Cohort | Thorax | Studied effect of high-dose β2-agonist on mechanical loading and control of breathing in severe COPD. |
-| [1974678](https://pubmed.ncbi.nlm.nih.gov/1974678/) | 1990 | Cohort | Lung | Two-month double-blind cross-over study: tulobuterol aerosol vs. fenoterol aerosol in chronic obstructive lung disease (36 patients). |
+| [6248395](https://pubmed.ncbi.nlm.nih.gov/6248395/) | 1980 | Double-blind crossover trial | J Int Med Res | Oral orciprenaline 10 mg vs fenoterol 5 mg in 44 asthma patients; FEV1 rose over 4 hours with both drugs, peaking at 3 hours |
+| [7047707](https://pubmed.ncbi.nlm.nih.gov/7047707/) | 1982 | Randomised double-blind crossover | J Pediatr | Oral metaproterenol vs theophylline in 34 children with chronic asthma; no serious adverse effects, tremor more frequent with metaproterenol |
+| [45195](https://pubmed.ncbi.nlm.nih.gov/45195/) | 1979 | Double-blind crossover | Br J Clin Pharmacol | Four beta-2 aerosols (fenoterol, orciprenaline, salbutamol, terbutaline) compared in 9 patients with reversible airway obstruction |
+| [4888877](https://pubmed.ncbi.nlm.nih.gov/4888877/) | 1969 | Double-blind trial | Br Med J | In 24 chronic asthma patients, salbutamol acted longer than isoprenaline and slightly more intensely and longer than orciprenaline |
+| [5565461](https://pubmed.ncbi.nlm.nih.gov/5565461/) | 1971 | Comparative study | Arch Dis Child | In 12 asthmatic children, all three aerosols relieved bronchoconstriction similarly; orciprenaline raised heart rate 26% vs 13% for salbutamol |
+| [13895](https://pubmed.ncbi.nlm.nih.gov/13895/) | 1976 | Comparative study | Bull Eur Physiopathol Respir | Five oral beta-agonists in reversible obstructive chronic bronchitis; carbuterol and fenoterol were more potent than orciprenaline |
+| [2975286](https://pubmed.ncbi.nlm.nih.gov/2975286/) | 1987 | Clinical pharmacology | J Asthma | Bronchodilators including orciprenaline work better at night or in the morning, when bronchial patency is low |
+| [3335167](https://pubmed.ncbi.nlm.nih.gov/3335167/) | 1988 | Cohort | Chest | In 59 patients with emphysema and chronic bronchitis, airway reversibility after inhaled orciprenaline was examined in relation to 4-year survival |
+| [29906501](https://pubmed.ncbi.nlm.nih.gov/29906501/) | 2018 | Review | Adv Drug Deliv Rev | Historical overview of repurposing drugs as inhaled asthma therapies |
+| [2991865](https://pubmed.ncbi.nlm.nih.gov/2991865/) | 1985 | Review | Pharmacotherapy | Review of fenoterol, a close chemical relative of orciprenaline, which has higher bronchodilating potency |
+
+---
+
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 161670 | Orcibest Tablet (Zydus Cadila) | Strip of 15 tablets | Not listed |
 
 ---
 
 ## Safety Considerations
 
-No structured warnings or contraindications data is currently available (Data Gap DG001, flagged **Blocking** — TFDA/local label PDF has not yet been retrieved and parsed).
+- **Disease-related cautions (from the knowledge graph, not label text)**: The drug is linked to contraindication or caution signals in hypertension, epilepsy, diabetes mellitus, diabetic ketoacidosis, coronary artery disease, myocardial ischaemia, hyperthyroidism, Graves disease and thyrotoxicosis.
+- **Drug Interactions**: 374 interactions are recorded. Examples include:
+  - **Major**: dolasetron.
+  - **Moderate**: epinephrine, isometheptene, diethylpropion, clarithromycin, famotidine, and several antidiabetic agents (acarbose, metformin, chlorpropamide, alogliptin, canagliflozin, dapagliflozin, albiglutide, dulaglutide).
+  - **Minor**: corticosteroids (hydrocortisone, dexamethasone, triamcinolone, betamethasone, budesonide, beclomethasone).
+- **Cardiovascular caution**: Tachycardia and arrhythmia are the main concerns, particularly in older patients with COPD.
 
-**Drug Interactions**: A DDI query (DDInter, 374 total interactions identified) returned one **Major** interaction and several Moderate/Minor ones among the sampled results:
-
-| Interacting Drug | Level |
-|---|---|
-| Dolasetron | Major |
-| Acarbose, Isometheptene, Famotidine, Epinephrine, Albiglutide, Alogliptin, Canagliflozin, Metformin, Chlorpropamide, Clarithromycin, Dapagliflozin, Diethylpropion, Dulaglutide | Moderate |
-| Hydrocortisone, Triamcinolone, Dexamethasone, Beclomethasone dipropionate, Betamethasone, Budesonide | Minor |
-
-Given 374 total interactions on file, this is only a partial sample — a full DDI screen against the patient's concomitant medications is required before any clinical use.
+Please also refer to the package insert for label warnings and contraindications.
 
 ---
 
@@ -111,13 +112,19 @@ Given 374 total interactions on file, this is only a partial sample — a full D
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanistic rationale is strong (β2-agonist bronchodilator directly addressing obstructive airway pathophysiology) and is corroborated by one RCT studying orciprenaline/metaproterenol itself (PMID 8834341) plus a body of class-level evidence (L2). However, the drug is unmarketed in India (0 licenses) and formal label safety data (warnings/contraindications) is missing and flagged as a **Blocking** data gap — this must be resolved before any S1 safety assessment can proceed.
+Orciprenaline's bronchodilator effect in obstructive airway disease is supported by consistent historical comparative studies, and the predicted indication overlaps with its approved uses. However, the evidence is old and has no registered trials. Newer selective beta-2 agonists are preferred in current practice.
 
 **To proceed, the following is needed:**
-- Retrieve and parse TFDA/local label PDF for warnings, contraindications, and dosing (DG001, Blocking)
-- Obtain formal DrugBank MOA record to replace the current Data Gap (DG002)
-- Clarify whether any of the 5 retrieved trials actually dosed orciprenaline directly, versus comparator β2-agonists, to firm up the evidence grade
-- Full DDI screen against target patient population's concomitant medications (374 total interactions on file, only 20 sampled here)
+- The package insert for Orcibest Tablet (warnings, contraindications, approved indication), which is a blocking gap for safety screening
+- Detailed mechanism of action data
+- A cardiovascular safety plan for older patients and those with the comorbidities listed above
+- A comparison with current standard bronchodilators (selective beta-2 agonists, antimuscarinics)
+
+**Other predictions reviewed (all Hold, except COPD):**
+- **Chronic obstructive pulmonary disease**: Proceed with Guardrails (L3). It overlaps with the existing bronchitis and emphysema indications and rests on 1964-1988 studies only.
+- **Anaphylaxis** (L4, Hold): only animal and tissue studies exist, and epinephrine is the standard of care.
+- **Interstitial emphysema** (L4, Hold): the single linked item is an indirect Cochrane review in preterm infants.
+- **Respiratory malformation, Rienhoff syndrome, bronchial neoplasm, food-dependent exercise-induced anaphylaxis, compensatory emphysema, hyperlucent lung** (L5, Hold): there is no credible mechanistic link or direct evidence, so these predictions appear to be knowledge-graph artifacts.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

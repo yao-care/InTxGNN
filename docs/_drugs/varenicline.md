@@ -2,7 +2,7 @@
 layout: default
 title: Varenicline
 parent: Model Prediction Only (L5)
-nav_order: 874
+nav_order: 883
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,77 +33,65 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Varenicline is a partial agonist at α4β2 nicotinic acetylcholine receptors, best known as a smoking-cessation aid (this is confirmed repeatedly across the retrieved literature, even though official label data is not yet available). The TxGNN model predicts a possible new indication for **Migraine Disorder**, but this is currently supported by **0 clinical trials** and only **1 publication** — and that single publication is an unrelated cardiac-arrest adverse-event case report, not efficacy evidence. Evidence strength is minimal (L5), and the recommendation is **Hold**.
-
----
+Varenicline is a nicotinic acetylcholine receptor partial agonist, marketed in India as Nocrav 1mg Tablet. The TxGNN model predicts it may be effective for **migraine disorder**, but this is a model prediction only. There are **no clinical trials** and **no publications** showing efficacy for this indication. The single retrieved publication is a case report of cardiac arrest, which is a safety signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Smoking cessation / tobacco dependence (inferred from repeated literature context; not confirmed via India registry — see below) |
-| Predicted New Indication | Migraine Disorder |
+| Original Indication | Not stated in the data compiled for this report (the India licence has no approved indication text) |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action (MOA) data is not currently available for varenicline in this evidence pack. Based on the literature retrieved (e.g., PMID 21278851, 19393839), varenicline is a partial agonist/antagonist at α4β2 nicotinic acetylcholine receptors (nAChR) and a full agonist at α7 nAChR, used clinically to reduce craving and withdrawal symptoms in smoking cessation.
+Detailed mechanism of action data is not formally available in the data compiled for this report. From general pharmacology, varenicline is a partial agonist of α4β2 nicotinic acetylcholine receptors and a full agonist at α7 receptors. Nicotinic cholinergic signalling and cortical spreading depression are loosely implicated in migraine, which is the only theoretical bridge to this prediction.
 
-There is no established mechanistic link between nAChR partial agonism and migraine pathophysiology (the trigeminovascular system and CGRP pathway). The TxGNN model's high score for "migraine disorder" most likely reflects indirect associations between neurologically-related nodes in the knowledge graph, rather than a genuine pharmacological relationship — a conclusion consistent with the evidence pack's own `repurposing_rationale` annotation.
-
-Notably, a lower-ranked prediction in this same dataset — **headache disorder** (rank 9, L4 evidence) — actually works *against* the migraine hypothesis: its supporting literature consists entirely of smoking-cessation studies, and one publication (PMID 23175211, "Bath-related headache induced by varenicline") specifically reports varenicline **causing** headache as an adverse effect, not treating it. This is a meaningful counter-signal that should be weighed alongside the top-ranked prediction.
-
----
+No direct mechanistic or clinical link between varenicline and migraine has been shown. The very high TxGNN score reflects proximity in the knowledge graph, not demonstrated efficacy. Other high-ranking predictions (for example migraine with brainstem aura, which is a subtype of migraine) appear to be inherited from the parent migraine node.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [19585710](https://pubmed.ncbi.nlm.nih.gov/19585710/) | 2009 | Case Report (Adverse Event) | Thérapie | Case report of cardiac arrest associated with varenicline use; no abstract available, and no data on migraine efficacy — this is a safety signal, not supporting evidence |
+| [19585710](https://pubmed.ncbi.nlm.nih.gov/19585710/) | 2009 | Case report | Therapie | Cardiac arrest in a patient taking varenicline. This is a safety report and not evidence of efficacy in migraine. |
 
-*Note: This is the only literature entry attached to the "migraine disorder" prediction, and it is not relevant to migraine efficacy.*
-
----
+Related headache searches also returned smoking-cessation studies. None evaluates headache or migraine as a treatment target, and headache appears in them as an adverse event of varenicline. One case report (PMID 23175211) describes bath-related headache induced by varenicline.
 
 ## India Market Information
 
-Varenicline is currently **not marketed in India** — no product registrations, brand names, or approved indication text are on file (`total_licenses = 0`).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 150993 | Nocrav 1mg Tablet (Lyf Healthcare) | Strip of 10 tablets | Not stated |
 
 ## Safety Considerations
 
-- **Drug Interactions**: A DDI screen returned 104 total interaction records. Most are classified as "Unknown" severity (source: DDInter) and require further characterization; the one graded interaction identified is **Cimetidine (Minor)**. Other frequently co-prescribed drug classes flagged in the screen include proton-pump inhibitors (omeprazole, pantoprazole, lansoprazole), oral antidiabetics (metformin, glimepiride, rosiglitazone), statins (simvastatin), and corticosteroids (prednisone, triamcinolone) — clinical significance for most of these remains unclassified pending further review.
+- **Knowledge-graph contraindication signals** (from the TxGNN knowledge graph, not label text): anxiety disorder, neurotic disorder, dysthymic disorder, bipolar disorder, major affective disorder, substance abuse/dependence, schizophrenia, acute coronary syndrome, peripheral vascular disease, intermittent vascular claudication, and peripheral arterial disease.
+- **Drug Interactions**: 104 interactions were recorded. Only cimetidine is classified (Minor); the rest are unclassified. Examples include phentermine, metformin, glimepiride, rosiglitazone, omeprazole, pantoprazole, lansoprazole, morphine, prednisone, simvastatin, and epinephrine.
+- **Case-report safety signals**: cardiac arrest and varenicline-induced headache have been reported.
 
-Key warnings and contraindications data are not yet available (this is flagged as a **Blocking** data gap — see Conclusion below); please refer to the official package insert once available.
-
----
+Please refer to the package insert for label warnings and contraindications, which were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (migraine disorder) has essentially no supporting evidence — no clinical trials and a single, irrelevant adverse-event case report — and no plausible mechanistic link has been established. A related, independently-scored prediction (headache disorder) actually contains evidence suggesting varenicline *causes* headache rather than treating it, which further undermines the migraine hypothesis. Combined with the fact that varenicline is not currently marketed in India, there is no basis to proceed beyond a research-stage hypothesis.
+The prediction rests only on the TxGNN model score (evidence level L5). There are no trials and no supporting literature, and headache is a known adverse effect of varenicline, which argues against a therapeutic role. The knowledge graph also flags several psychiatric and cardiovascular contraindications.
 
 **To proceed, the following is needed:**
-- Resolve the **Blocking** data gap (DG001): official label warnings/contraindications, required before any S1 safety evaluation
-- Resolve the **High** priority data gap (DG002): confirmed mechanism-of-action data from DrugBank
-- Preclinical or mechanistic studies directly linking nAChR modulation to migraine pathophysiology (trigeminovascular/CGRP pathway)
-- At minimum, a completed Phase 2 trial in migraine patients before any evidence-level upgrade is warranted
-- Reconciliation with the counter-evidence in the "headache disorder" prediction before further investment in this candidate
+- The India package insert warnings and contraindications (a blocking gap for safety screening)
+- Formal mechanism of action data from DrugBank
+- Preclinical or mechanistic evidence linking nicotinic receptor modulation to migraine
+- Any clinical signal for migraine, such as exploratory trials or observational data
+- A review of the headache adverse-event signal and the cardiovascular safety profile
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

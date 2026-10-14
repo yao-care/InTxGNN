@@ -2,7 +2,7 @@
 layout: default
 title: Moxifloxacin
 parent: Model Prediction Only (L5)
-nav_order: 566
+nav_order: 571
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,108 +33,87 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Moxifloxacin is a broad-spectrum fourth-generation fluoroquinolone antibiotic used clinically for bacterial infections including community-acquired pneumonia, complicated skin and skin-structure infections, and intra-abdominal infections.
-The TxGNN model predicts it may be effective for **Polyclonal Hyperviscosity Syndrome**, with **0 clinical trials** and **0 publications** currently supporting this direction.
-Notably, among all 10 predicted indications, **Bubonic Plague** (rank 10) emerges as the only candidate with a direct mechanistic basis and preclinical evidence (L3), while the majority of top-ranked predictions — including the #1 indication — lack any established clinical or mechanistic rationale.
-
----
+Moxifloxacin is a fluoroquinolone antibiotic originally used to treat bacterial infections such as pneumonia, conjunctivitis, peritonitis and plague.
+The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syndrome**, but **no clinical trials and no publications** support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available from India regulatory data (clinically used for bacterial infections) |
-| Predicted New Indication | Polyclonal Hyperviscosity Syndrome |
+|------|------|
+| Original Indication | Bacterial infections (streptococcal, staphylococcal, pneumonia, peritonitis, conjunctivitis, plague and others, per the knowledge graph; no approved indication text in the India licence records) |
+| Predicted New Indication | Polyclonal hyperviscosity syndrome |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data sources queried. Based on established pharmacological knowledge, Moxifloxacin is a fluoroquinolone antibiotic that exerts bactericidal activity by inhibiting bacterial DNA gyrase (GyrA/GyrB) and topoisomerase IV — enzymes essential for DNA replication and transcription in bacteria. This mechanism is entirely directed at prokaryotic targets and has no recognized activity against human cellular pathways.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Moxifloxacin belongs to the fluoroquinolone class of antibacterials, which inhibit bacterial DNA gyrase and topoisomerase IV. Its efficacy is established in bacterial infections.
 
-Polyclonal hyperviscosity syndrome arises from elevated plasma viscosity caused by an excess of polyclonal immunoglobulins, typically driven by inflammatory, autoimmune, or reactive conditions. There is no plausible direct mechanistic link between Moxifloxacin's antibacterial mode of action and the immunoglobulin dysregulation underlying this syndrome. The TxGNN model likely generated this prediction through indirect knowledge graph connections — for instance, associating chronic bacterial infections as potential drivers of polyclonal immunoglobulin elevation — rather than any direct therapeutic pathway.
+That mechanism has no known effect on serum viscosity or on the raised polyclonal immunoglobulins that characterise hyperviscosity syndrome. The expert review of the data found no plausible mechanistic link. The high TxGNN score is a model output only and should not be read as evidence of benefit.
 
-The high TxGNN score (99.98%) reflects model confidence based on graph topology and co-occurrence patterns, not clinical efficacy. Without mechanistic plausibility and with zero supporting evidence, this prediction should be treated as a graph artifact rather than a repurposing opportunity.
-
----
+The other top-ranked predictions show the same pattern. Hyperamylasemia, congenital analbuminemia, blood group incompatibility, premalignant haematological disease, monoclonal gammopathy, congenital haematological disorder and haematopoietic neoplasm have no supporting mechanism either. The single exception is **bubonic plague**, ranked 10th (score 99.41%). It is close to the existing label, since plague and pneumonic plague are already among the original indications. Its evidence is preclinical (see below).
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials are registered for polyclonal hyperviscosity syndrome.
 
----
+For context, trials linked to other predicted indications are indirect and not relevant to this one:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00324324](https://clinicaltrials.gov/study/NCT00324324) | Phase 3 | Terminated | 240 | Moxifloxacin vs placebo for preventing bacterial infection after allogeneic stem cell transplant (linked to congenital haematological disorder; indirect) |
+| [NCT00062231](https://clinicaltrials.gov/study/NCT00062231) | NA | Terminated | 351 | Moxifloxacin alone vs ciprofloxacin plus amoxicillin/clavulanate for fever in low-risk neutropenic cancer patients (indirect) |
+| [NCT07023029](https://clinicaltrials.gov/study/NCT07023029) | Phase 1 | Completed | 33 | Etavopivat cardiac repolarisation study in healthy volunteers; moxifloxacin probably a QT positive control, so no efficacy evidence |
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature is available for polyclonal hyperviscosity syndrome.
 
----
+For the closest-to-label alternative (bubonic plague), the following preclinical and safety publications exist:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [15555886](https://pubmed.ncbi.nlm.nih.gov/15555886/) | 2004 | Animal model | Int J Antimicrob Agents | Moxifloxacin, gatifloxacin and ciprofloxacin gave full protection in mouse models of systemic and pneumonic plague |
+| [20052916](https://pubmed.ncbi.nlm.nih.gov/20052916/) | 2009 | Animal model | Antibiot Khimioter | Levofloxacin and moxifloxacin were highly active against Y. pestis strains in mice (ED50 5.5–14.0 mg/kg) |
+| [21115791](https://pubmed.ncbi.nlm.nih.gov/21115791/) | 2011 | In vitro model | Antimicrob Agents Chemother | A pharmacodynamic model was used to derive a moxifloxacin regimen that optimises Y. pestis kill and prevents resistance |
+| [21486959](https://pubmed.ncbi.nlm.nih.gov/21486959/) | 2011 | In vitro model | Antimicrob Agents Chemother | Comparative efficacy of candidate antibiotics against Y. pestis |
+| [29623187](https://pubmed.ncbi.nlm.nih.gov/29623187/) | 2018 | Case report | Ther Adv Drug Saf | Moxifloxacin-induced tinnitus in an older adult (safety report) |
 
 ## India Market Information
 
-Moxifloxacin has no approved registrations in India in the current dataset. No authorization records, product names, dosage forms, or approved indications are available for review.
+Moxifloxacin has 20 valid single-ingredient registrations, with no cancelled ones. Approved indication text is not available in the records. Main registrations:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 136016 | Moximac IV 400mg Infusion | 100 ml infusion bottle | Not available |
+| 88744 | Fleximox 400 Tablet | Strip of 10 tablets | Not available |
+| 133597 | Moxiflox Tablet (Cipla) | Strip of 5 tablets | Not available |
+| 209948 | Staxom 400mg Infusion (Sun Pharma) | 250 ml infusion bottle | Not available |
+| 239370 | Vodamox Eye Ointment | 5 g tube | Not available |
+
+Available routes: oral (tablets, capsules), injectable (infusion) and ophthalmic (eye drops, eye ointment).
 
 ## Safety Considerations
 
-**Drug Interactions** (336 total interactions identified; Major-level interactions highlighted below):
-
-| Interacting Drug | Level | Clinical Concern |
-|-----------------|-------|-----------------|
-| Hydrocortisone | Major | QT prolongation risk via electrolyte imbalance (hypokalemia) |
-| Dexamethasone | Major | QT prolongation risk via electrolyte imbalance (hypokalemia) |
-| Betamethasone | Major | QT prolongation risk via electrolyte imbalance (hypokalemia) |
-| Triamcinolone | Major | QT prolongation risk via electrolyte imbalance (hypokalemia) |
-| Bupropion | Major | Fluoroquinolones lower seizure threshold; additive CNS risk |
-| Chlorpropamide | Major | Risk of hypoglycemia with fluoroquinolones |
-
-Representative moderate interactions (total 336 documented) include: Acarbose, Famotidine, Metformin, Pioglitazone, Alogliptin, Canagliflozin, Albiglutide, Loperamide, Acetylsalicylic acid, Balsalazide, Bisacodyl, Calcium Phosphate, Calcium acetate, and Potassium citrate.
-
-> The QT-prolongation risk associated with Moxifloxacin is clinically significant enough that it was selected as the **positive control drug** in a cardiac repolarisation study (NCT07023029), reinforcing that this is an established, well-characterized safety signal.
-
-Please refer to the package insert for complete warnings and contraindications, as formal labeling data was not available in this evidence pack.
-
----
+- **Contraindication-related conditions (from the knowledge graph, not label text):** long QT syndrome, familial long QT syndrome, torsades de pointes, heart conduction disease, sudden cardiac arrest, myocardial ischemia, coronary artery disease, epilepsy, cirrhosis of the liver, drug-induced liver injury, potassium deficiency, tendinitis, peripheral neuropathy and peripheral nervous system disease, myasthenia gravis and neuromuscular junction disease, *Clostridium difficile* colitis, and necrotizing enterocolitis.
+- **Drug Interactions:** 336 interactions were identified. Major-level ones in the sample include hydrocortisone, dexamethasone, betamethasone, triamcinolone (corticosteroids, notably relevant to tendon risk), bupropion and chlorpropamide. Moderate-level ones include antidiabetic agents (metformin, pioglitazone, alogliptin, canagliflozin, acarbose, albiglutide), famotidine, loperamide, aspirin, and calcium and potassium salts.
+- **Additional concerns for the predictions:** fluoroquinolones carry a known warning for peripheral neuropathy, which is directly relevant to the predicted neuropathy-associated haematological disease. They are also known to cause blood sugar disturbances, which is relevant to congenital analbuminemia.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked TxGNN prediction (polyclonal hyperviscosity syndrome) has zero mechanistic plausibility, no clinical trial support, and no published literature — meeting only the L5 threshold (model prediction only). Proceeding with development based solely on a graph score is not justified.
+The prediction for polyclonal hyperviscosity syndrome is supported only by the model score (L5), with no trials, no literature and no plausible mechanism. Across all ten predictions, only bubonic plague has a coherent rationale, and that is essentially an existing label use backed by preclinical data.
 
-**Broader Landscape Across All 10 Predicted Indications:**
-
-Of the 10 predicted indications reviewed, the evidence quality is generally poor for repurposing purposes:
-
-| Rank | Indication | Evidence Level | Recommendation | Notes |
-|------|-----------|---------------|----------------|-------|
-| 1 | Polyclonal hyperviscosity syndrome | L5 | Hold | No mechanistic link, no evidence |
-| 2 | Hyperamylasemia | L5 | Hold | Potential safety concern (fluoroquinolones linked to pancreatitis) |
-| 3 | Congenital analbuminemia | L5 | Hold | Only incidental case report; no link to Moxifloxacin |
-| 4 | Blood group incompatibility | L5 | Hold | No mechanistic link; transfusion medicine domain |
-| 5 | Premalignant hematological system disease | L5 | Hold | Indirect immunodeficiency connection only |
-| 6 | Monoclonal gammopathy | L4 | Hold | Evidence reflects infection management in immunocompromised patients, not disease treatment |
-| 7 | Hematological disease with peripheral neuropathy | L5 | Hold | **Safety concern**: fluoroquinolones may worsen peripheral neuropathy |
-| 8 | Congenital hematological disorder | L4 | Hold | Moxifloxacin appears as QT positive control, not treatment |
-| 9 | Hematopoietic and lymphoid system neoplasm | L5 | Hold | No antitumour mechanism |
-| **10** | **Bubonic plague** | **L3** | **Research Question** | **Direct mechanistic link; multiple animal and in vitro PK/PD studies confirm activity against *Yersinia pestis*** |
-
-**Bubonic plague is the only indication warranting further attention.** Moxifloxacin inhibits *Y. pestis* DNA gyrase with potent in vitro activity, and is already referenced in CDC bioterrorism response guidelines as an alternative to streptomycin. Multiple animal studies and in vitro PK/PD models confirm efficacy. The absence of human clinical trials reflects the ethical impracticality of conducting plague RCTs, not lack of scientific basis.
-
-**To advance the Bubonic Plague indication to the next stage, the following is needed:**
-
-- Formal MOA data retrieval from DrugBank API (DG002 remediation)
-- Review of TFDA/India regulatory package insert for warnings and contraindications (DG001 remediation)
-- Assessment of regulatory pathway as a bioterrorism countermeasure (Emergency Use Authorization framework)
-- Systematic review of existing animal-to-human dose extrapolation data
-- QT monitoring protocol design given Moxifloxacin's established cardiac safety signal
+**To proceed, the following is needed:**
+- Package insert warnings and contraindications from the India regulatory source (the safety screening cannot proceed without them)
+- Mechanism of action data from DrugBank
+- Any mechanistic or clinical evidence linking moxifloxacin to hyperviscosity, otherwise deprioritise this candidate
+- If a plague-related direction is pursued, human clinical data and confirmation of the approved indication text
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

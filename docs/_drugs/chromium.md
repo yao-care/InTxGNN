@@ -2,7 +2,7 @@
 layout: default
 title: Chromium
 parent: Model Prediction Only (L5)
-nav_order: 180
+nav_order: 181
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,88 +29,82 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Chromium (Trivalent): From Dietary Supplement to Rheumatoid Arthritis Treatment
+# Chromium: From an Unspecified Original Indication to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-Trivalent chromium (Cr³⁺) is an essential trace mineral sold as a dietary supplement, currently lacking any approved therapeutic drug indications in India.
-The TxGNN model's highest-evidence actionable prediction is **Rheumatoid Arthritis**, supported by **1 completed Phase 2/3 clinical trial** (NCT05545020, n=60) and a published RCT (PMID: 39030450).
-
-> **⚠️ TxGNN Ranking Note:** Although osteoarthritis ranks #1 in TxGNN prediction score (98.68%), all 48 retrieved clinical trials for that indication involve chromium as a metallic alloy in orthopaedic implants — not as a therapeutic agent. This is a known knowledge-graph context-confusion artefact. Rheumatoid arthritis (Rank #3, score 98.54%, Evidence Level L1) represents the highest-quality and only actionable repurposing signal in this Evidence Pack.
-
----
+Chromium is a trace-element injection marketed in India, but the data compiled for this report do not list an approved indication.
+The TxGNN model predicts several new indications. The best-supported one is **Rheumatoid Arthritis**, with **1 completed Phase 2/3 trial** and **1 randomized trial publication** on trivalent chromium.
+The top-ranked prediction (osteoarthritis, 98.68%) is not supported: the retrieved studies concern cobalt-chromium implant alloys, not chromium as a treatment.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | None (trace mineral; no approved drug indications) |
-| Predicted New Indication | Rheumatoid Arthritis |
-| TxGNN Prediction Score | 98.54% |
-| Evidence Level | L1 (1 completed Phase 2/3 RCT) |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+|------|------|
+| Original Indication | Not stated in the available licence records |
+| Predicted New Indication | Rheumatoid arthritis (the best-supported of the 10 predictions; the top-ranked prediction by score is osteoarthritis) |
+| TxGNN Prediction Score | 98.54% (rheumatoid arthritis); osteoarthritis, rank 1: 98.68% |
+| Evidence Level | L2 (rheumatoid arthritis) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
+| Recommended Decision | Hold (research question for rheumatoid arthritis) |
 
 ## Why is This Prediction Reasonable?
 
-Trivalent chromium (Cr³⁺) is an essential trace element with established roles in glucose and lipid metabolism. As a potentiator of insulin receptor sensitivity, Cr³⁺ modulates metabolic-immune crosstalk — and this is where the link to rheumatoid arthritis becomes scientifically interesting. Beyond metabolic effects, mechanistic studies indicate that Cr³⁺ inhibits the NF-κB signalling pathway, thereby suppressing production of the key pro-inflammatory cytokines TNF-α, IL-1β, and IL-6. These are precisely the targets of approved DMARDs such as baricitinib and tocilizumab.
+Currently, detailed mechanism of action data is not available. Chromium is marketed in India as an injectable trace-element product. Because no approved indication text is available, its original therapeutic use cannot be described here.
 
-A rat adjuvant-induced arthritis model (PMID: 35829940) demonstrated that Cr³⁺ supplementation significantly improved joint histopathology, upregulated FOXP3 (a regulatory T-cell marker), and decreased synovial Cathepsin G expression — collectively suggesting modulation of the Treg/Th17 axis that is dysregulated in RA. Separately, observational studies from the 1970s–1980s consistently found lower blood chromium concentrations in RA patients compared to healthy controls (PMID: 1153978; PMID: 3776595), raising the hypothesis that chromium deficiency may contribute to or correlate with disease activity.
+For **rheumatoid arthritis**, there is a plausible rationale. A rat adjuvant-induced arthritis study found that trivalent chromium reduced inflammation, with up-regulation of FOXP3 and lower synovial Cathepsin G expression. Insulin-sensitizing and anti-inflammatory effects have also been proposed. These findings were then taken into a human randomized trial against baricitinib. The mechanism is still not established in the data compiled for this report.
 
-These converging lines of evidence — NF-κB inhibition, insulin-mediated immune regulation, regulatory T-cell enhancement, and observed chromium deficiency in RA patients — collectively support a biologically plausible rationale for the TxGNN prediction.
-
----
+For **osteoarthritis** and **osteoarthritis susceptibility**, the high scores likely reflect a knowledge-graph link through cobalt-chromium joint implants. The implant literature points to potential harm (metallosis, metal ion release, adverse tissue reactions), not benefit. Gout, hepatic porphyria and the rare skeletal dysplasias (pseudoachondroplasia, brachyolmia and others) have no supporting mechanism or only unrelated literature. Those predictions are purely computational.
 
 ## Clinical Trial Evidence
 
+Rheumatoid arthritis (the best-supported prediction):
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|-----------|--------------|
-| [NCT05545020](https://clinicaltrials.gov/study/NCT05545020) | Phase 2/3 | Completed | 60 | First RCT evaluating trivalent Cr³⁺ supplementation versus baricitinib (a JAK inhibitor DMARD) in RA patients; assessed anti-rheumatic efficacy and safety of Cr³⁺ as a candidate immune-modulator |
+|---------|------|------|------|---------|
+| [NCT05545020](https://clinicaltrials.gov/study/NCT05545020) | Phase 2/3 | Completed | 60 | Trivalent chromium supplementation in rheumatoid arthritis patients, with a published randomized comparison against baricitinib |
 
-> **Note on other retrieved trials:** The remaining 8 trials retrieved under the "rheumatoid arthritis" query (e.g., NCT06578897, NCT02405234, NCT05509972) all involve chromium as an orthopaedic implant alloy material. They are not relevant to therapeutic chromium repurposing and are excluded from this table.
-
----
+The other trials retrieved (NCT00120952, NCT03681639) are hip implant device studies. They do not test chromium as a drug and are excluded from the evidence count.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [39030450](https://pubmed.ncbi.nlm.nih.gov/39030450/) | 2024 | RCT (Phase 2/3) | Inflammopharmacology | First Phase 2/3 RCT comparing Cr³⁺ vs. baricitinib in RA; introduces trivalent chromium as a candidate immune-modulator for RA treatment, reports efficacy and safety results |
-| [35829940](https://pubmed.ncbi.nlm.nih.gov/35829940/) | 2022 | Animal Model | Inflammopharmacology | Cr³⁺ supplementation in adjuvant-induced RA rat model upregulates FOXP3, decreases synovial Cathepsin G expression, and improves joint pathology vs. prednisolone — first preclinical mechanistic demonstration |
-| [1153978](https://pubmed.ncbi.nlm.nih.gov/1153978/) | 1975 | Cross-sectional (Biomarker) | Scand J Rheumatol | Blood chromium concentrations significantly lower in RA patients than healthy controls; supports chromium deficiency hypothesis in RA |
-| [3776595](https://pubmed.ncbi.nlm.nih.gov/3776595/) | 1986 | Observational (Biomarker) | Acta Pharmacol Toxicol | Chromium, nickel and cadmium measured in biological fluids of RA patients vs. healthy controls; corroborates lower chromium levels in disease state |
+|------|-----|------|------|---------|
+| [39030450](https://pubmed.ncbi.nlm.nih.gov/39030450/) | 2024 | RCT | Inflammopharmacology | First Phase 2/3 randomized trial of trivalent chromium vs baricitinib in rheumatoid arthritis, assessing effect and safety |
+| [35829940](https://pubmed.ncbi.nlm.nih.gov/35829940/) | 2022 | Preclinical (rat model) | Inflammopharmacology | Trivalent chromium reduced adjuvant-induced arthritis, with FOXP3 up-regulation and lower synovial Cathepsin G; compared with prednisolone |
+| [39881936](https://pubmed.ncbi.nlm.nih.gov/39881936/) | 2024 | Review | Cureus | Metallosis from metal-on-metal joint implants is a serious complication (osteoarthritis context; a harm signal) |
+| [41231919](https://pubmed.ncbi.nlm.nih.gov/41231919/) | 2025 | RCT (implant bearing) | J Bone Joint Surg Am | Serum metal levels after conventional vs modular dual-mobility hip bearings; not a chromium therapy |
+| [34232144](https://pubmed.ncbi.nlm.nih.gov/34232144/) | 2021 | Cohort | Clin Orthop Relat Res | Adverse local tissue reactions are common after hip resurfacing, including in asymptomatic patients |
+| [41379985](https://pubmed.ncbi.nlm.nih.gov/41379985/) | 2025 | Systematic review / meta-analysis | JBJS Reviews | Hip resurfacing has lower metal ion levels and revision risk than large-head metal-on-metal total hip arthroplasty |
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 161947 | Otski Injection | Vial of 3 ml injection | Not stated |
+| 219156 | Trace I.V. Injection | Ampoule of 3 ml injection | Not stated |
+| 35624 | Celecel Injection | Vial of 3 ml injection | Not stated |
 
 ## Safety Considerations
 
-No formal drug interaction data or regulatory warnings are available for Chromium (DB11136) in this Evidence Pack.
+Please refer to the package insert for safety information.
 
-> Please refer to applicable safety information for trivalent chromium supplements. Two points of critical context for clinical evaluation:
->
-> - **Trivalent vs. hexavalent chromium:** Cr³⁺ (the form in supplements and this study) is biologically distinct from Cr⁶⁺ (a known industrial carcinogen). These must not be conflated in safety assessments.
-> - **Long-term safety at therapeutic doses:** The existing RCT (NCT05545020, n=60) provides only short-term safety data (approximately 13 months of follow-up). Long-term safety in an immunocompromised RA population remains uncharacterised. Renal excretion of chromium suggests caution may be warranted in patients with impaired kidney function.
-
----
+Published implant literature on cobalt-chromium alloys reports metal ion release, metallosis, adverse local tissue reactions and metal hypersensitivity. That exposure is different from a chromium injection, but it is a reminder to monitor for toxicity and hypersensitivity if chromium is studied further.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold** (rheumatoid arthritis may advance as a research question)
 
 **Rationale:**
-The first Phase 2/3 RCT (NCT05545020; published as PMID: 39030450) provides Level 1 evidence that trivalent chromium supplementation has measurable anti-rheumatic activity compared to baricitinib in 60 RA patients, representing a genuinely novel and biologically plausible repurposing signal. However, significant methodological limitations prevent a full "Go" recommendation at this stage.
+Only rheumatoid arthritis has direct human evidence: one small completed Phase 2/3 trial (n=60) and one preclinical study. It has not been independently replicated. The other predictions rest on model scores or on implant-alloy confounding, and the original indication and mechanism of action are unknown.
 
 **To proceed, the following is needed:**
-
-- **Replication RCT** with a larger sample, placebo control arm (current trial uses active comparator only — no placebo group means absolute efficacy vs. no treatment is unquantified), and multi-centre design for independent validation
-- **Long-term safety study** at therapeutic Cr³⁺ doses in RA populations, including renal function monitoring and potential carcinogenicity evaluation over ≥2 years
-- **Dose and formulation standardisation**: clarify optimal Cr³⁺ salt form (picolinate, nicotinate, chloride), dose (µg/day range), and bioavailability across formulations
-- **Mechanistic validation in human tissue**: confirm NF-κB inhibition and Treg/Th17 modulation in human RA synovial biopsy specimens
-- **India regulatory pathway assessment**: as a new molecular entity with zero current market registrations in India, a full new drug application (NDA) or investigational new drug (IND) pathway review with CDSCO is required before any clinical development proceeds domestically
-- **Detailed MOA data retrieval** from DrugBank API (flagged as Data Gap DG002) to complete mechanistic dossier
+- Package insert warnings, contraindications and approved indications from the Indian regulatory source (a blocking gap for safety screening)
+- Mechanism of action data
+- Independent replication of the rheumatoid arthritis trial, with a larger sample and longer follow-up
+- A dose, route and safety assessment for chronic use in rheumatoid arthritis, since current products are trace-element injections
+- Drug-interaction information (none was found in the data compiled)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

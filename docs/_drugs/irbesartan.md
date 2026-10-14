@@ -2,7 +2,7 @@
 layout: default
 title: Irbesartan
 parent: Model Prediction Only (L5)
-nav_order: 441
+nav_order: 445
 evidence_level: L5
 indication_count: 4
 ---
@@ -33,81 +33,85 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Irbesartan is an angiotensin II type 1 receptor (AT1R) blocker globally approved for hypertension and diabetic nephropathy, but not currently registered in India.
-The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension** (prediction score 99.31%), yet **no clinical trials** and **no relevant publications** have been identified for this specific indication.
-A significant mechanistic safety concern — acute kidney injury risk in bilateral renal artery stenosis — substantially limits the repurposing feasibility, and the overall evidence remains at the lowest tier.
-
----
+Irbesartan is an angiotensin II receptor blocker originally used to treat hypertension and diabetic nephropathy.
+The TxGNN model predicts it may be effective for **malignant renovascular hypertension**,
+but **no clinical trials** and **no publications** currently support this specific prediction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension / Diabetic Nephropathy (globally approved; not registered in India) |
-| Predicted New Indication | Malignant Renovascular Hypertension |
+|------|------|
+| Original Indication | Hypertension, diabetic nephropathy (the license records contain no indication text) |
+| Predicted New Indication | Malignant renovascular hypertension |
 | TxGNN Prediction Score | 99.31% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, irbesartan is an AT1 receptor blocker. Its efficacy in hypertension and diabetic nephropathy has been established, and mechanistically it may be applicable to renovascular hypertension.
 
-Irbesartan selectively blocks the angiotensin II type 1 receptor (AT1R), interrupting the downstream effects of the renin-angiotensin-aldosterone system (RAAS): vasoconstriction, sodium retention, and aldosterone secretion are all suppressed. This mechanism is directly relevant to hypertensive pathophysiology at the kidney level, and irbesartan's renoprotective profile has already been established in the landmark IDNT Phase 3 trial for diabetic nephropathy.
+Renovascular hypertension is driven largely by activation of the renin-angiotensin system, which is the pathway irbesartan blocks. This makes the prediction biologically plausible.
 
-Malignant renovascular hypertension arises when renal artery stenosis severely reduces renal perfusion, triggering a massive surge in renin release and sustained AT1R activation. On paper, AT1R blockade could break this pathological feedback loop — which explains why TxGNN assigns a high prediction score. The mechanistic overlap with irbesartan's approved indications is real.
+There is an important caveat. ARBs are generally contraindicated or used with great caution in bilateral renal artery stenosis because of the risk of acute kidney injury. The knowledge graph also lists renal artery obstruction among the contraindicated conditions. The high TxGNN score is a computational prediction only and does not address this safety concern.
 
-However, a critical clinical safety concern applies specifically to the *malignant* (bilateral) form: when renal artery stenosis affects both kidneys, the AT1R-mediated efferent arteriolar tone is the primary mechanism sustaining glomerular filtration. Blocking AT1R in this context removes that compensatory mechanism and can precipitate acute kidney injury. This is a well-recognised contraindication for ARBs in bilateral RAS and significantly undermines the repurposing case. No clinical trials or publications have been identified to explore whether any patient subgroup might safely benefit.
-
----
+Other predicted indications were also reviewed:
+- **Malignant hypertensive renal disease** (score 99.31%): This is largely an extension of the existing hypertension and diabetic nephropathy label. It has no direct trials or literature, and the evidence level is L5.
+- **Pulmonary hypertension, unclear multifactorial mechanism** (score 99.25%): Angiotensin II contributes to pulmonary vascular remodeling, so the approach is plausible but unproven. It has no trials or literature (L5), and systemic hypotension is a concern.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.25%): This is the only prediction with literature support, all of it preclinical (L4). It is described in the notes below.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for any of the predicted indications (malignant renovascular hypertension, malignant hypertensive renal disease, or pulmonary hypertension subtypes).
-
----
+Currently no related clinical trials registered for the top-ranked prediction, or for any of the other predicted indications.
 
 ## Literature Evidence
 
-Currently no relevant literature available for the top predicted indication (malignant renovascular hypertension).
+No literature is available for the top-ranked prediction. The only literature retrieved concerns the fourth-ranked prediction, pulmonary hypertension owing to lung disease and/or hypoxia. Most of it is preclinical:
 
-> **Note on rank-4 indication (pulmonary hypertension owing to lung disease/hypoxia):** 20 PubMed records were retrieved, but on review all are general hypoxia biology papers (HIF-1α signalling, altitude physiology, neurodegeneration under hypoxia, etc.) with no content relating to irbesartan or ARB therapy in pulmonary hypertension. These are keyword false positives and are excluded from the evidence table.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [35288835](https://pubmed.ncbi.nlm.nih.gov/35288835/) | 2022 | Review | Inflammopharmacology | Pleiotropic effects of AT-1 receptor antagonists in hypoxia induced by cardiac ischaemia |
+| [30356256](https://pubmed.ncbi.nlm.nih.gov/30356256/) | 2018 | Preclinical (in vitro) | PLoS One | Irbesartan protected cardiomyocytes under hypoxic stress |
+| [34626328](https://pubmed.ncbi.nlm.nih.gov/34626328/) | 2022 | Preclinical (animal) | Sleep Breath | Irbesartan attenuated sleep apnea-induced cardiac apoptosis and upregulated Sirtuin 1 |
+| [34147903](https://pubmed.ncbi.nlm.nih.gov/34147903/) | 2021 | Preclinical (rat) | Biomed Pharmacother | Irbesartan ameliorated pulmonary artery lesions in chronic mountain sickness, possibly via cholesterol metabolism |
+| [34286497](https://pubmed.ncbi.nlm.nih.gov/34286497/) | 2021 | Preclinical (rat) | Eur Rev Med Pharmacol Sci | Irbesartan improved oxidative stress in high-altitude pulmonary hypertension, with involvement of intestinal flora |
+| [17142340](https://pubmed.ncbi.nlm.nih.gov/17142340/) | 2007 | Preclinical (animal) | Am J Physiol Heart Circ Physiol | Irbesartan inhibited coronary angiogenesis stimulated by chronic intermittent hypoxia in neonatal rats |
 
----
+These studies address cardiac or systemic hypoxic injury and high-altitude models rather than renovascular hypertension. Other retrieved papers (herbal extracts, a roxadustat case report, cyclosporine nephrotoxicity) are only tangentially relevant and are not listed.
+
+## India Market Information
+
+Irbesartan is marketed in India, with 20 valid single-ingredient registrations. Five main authorizations are listed below. The records contain no approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 3146 | Aprovel 150mg Tablet | Strip of 14 tablets | Sanofi India Ltd |
+| 38738 | Coaprovel 150mg/12.5mg Tablet | Strip of 14 tablets | Sanofi India Ltd |
+| 244464 | Xarb 300 Tablet | Strip of 10 tablets | Abbott |
+| 108229 | Irovel 300 Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
+| 108149 | Irovel H Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
 
 ## Safety Considerations
 
-**Drug Interactions (216 interactions identified):**
+- **Conditions flagged as contraindicated in the knowledge graph** (not taken from label text): angioedema (including ARB-induced and hereditary forms), renal artery obstruction, anuria, hypotensive disorder, pancreatitis, systemic lupus erythematosus, diabetes mellitus and diabetic ketoacidosis, hyperkalaemia-related and electrolyte disorders (potassium deficiency disease, hypercalcaemia, phosphorus metabolism disease), gout and hyperuricaemia, hyperparathyroidism, hepatic coma and encephalopathy, myopathy and rhabdomyolysis, and neonatal jaundice.
+- **Drug Interactions**: 216 interactions were recorded. The **Major** interactions in the retrieved list are **potassium citrate** and **potassium bicarbonate** (risk of hyperkalaemia). Moderate interactions include corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin), insulins, acetylsalicylic acid, morphine, bupropion, aprepitant, dronabinol, and several bowel-preparation agents.
 
-Key interactions to monitor when co-prescribing irbesartan:
-
-| Severity | Interacting Drugs (representative examples) |
-|----------|---------------------------------------------|
-| **Major** | Potassium citrate, Potassium bicarbonate |
-| **Moderate** | Hydrocortisone, Betamethasone, Budesonide, Dexamethasone, Triamcinolone (corticosteroids — antagonise antihypertensive effect); Canagliflozin, Dapagliflozin, Empagliflozin (SGLT2 inhibitors — additive hyperkalaemia / hypotension risk); Insulin aspart, Insulin degludec (enhanced hypoglycaemic effect); Acetylsalicylic acid, Morphine, Bupropion, Aprepitant |
-
-The major interactions with potassium-elevating agents (potassium citrate, potassium bicarbonate) are particularly relevant given irbesartan's class-effect risk of hyperkalaemia through RAAS blockade.
-
-> Please refer to the package insert for full warnings and contraindications — those data were not available in this evidence pack.
-
----
+The package insert warnings and contraindications could not be obtained, so please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All four predicted indications are at evidence level L5 (model prediction only, zero supporting clinical trials or relevant literature), and the top-ranked indication — malignant renovascular hypertension — carries a specific mechanistic contraindication risk (acute kidney injury in bilateral RAS) that has not been addressed in any clinical study. Proceeding to any clinical development stage without resolving this safety signal would be premature.
+The prediction rests only on a model score (99.31%) with no clinical trials or literature (L5). ARBs also carry a known risk of acute kidney injury in renal artery stenosis, which is the central lesion in renovascular hypertension.
 
 **To proceed, the following is needed:**
-
-- **Resolve the bilateral RAS safety question**: Clarify whether a subset of malignant renovascular hypertension patients (unilateral stenosis only) could be identified where AT1R blockade is safe. Imaging-based patient selection criteria must be defined before any clinical work.
-- **Obtain irbesartan MOA and full contraindication data**: DrugBank API query and CDSCO/EMA package insert review are required to complete the mechanistic and safety analysis.
-- **Design indication-specific literature search**: Current PubMed queries returned only false positives for the pulmonary hypertension indications. A targeted search using irbesartan + ARB + specific PH subtypes (WHO Group 3, Group 5) combined with RAAS/AT1R terms is needed.
-- **Explore rank-2 indication separately**: Malignant hypertensive renal disease has a stronger mechanistic rationale (renoprotective evidence from IDNT trial is analogous), and was scored "Research Question" rather than "Hold." This is the most actionable candidate if indication-specific clinical data can be generated.
-- **India registration pathway**: Irbesartan has zero CDSCO registrations. If a repurposing candidate is identified, a new drug application or regulatory bridging strategy would be required in parallel with clinical development.
+- Package insert warnings and contraindications from the India regulatory source, since this blocks safety screening
+- Mechanism of action data for irbesartan from DrugBank
+- A literature and trial search focused on ARBs in renovascular hypertension, including renal safety in unilateral versus bilateral renal artery stenosis
+- A clinical review of whether the pulmonary hypertension (hypoxia) direction, which has preclinical support only, merits further preclinical or early clinical work
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

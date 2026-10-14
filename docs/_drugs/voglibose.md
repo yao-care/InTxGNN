@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Voglibose
-parent: Moderate Evidence (L3-L4)
-nav_order: 887
-evidence_level: L3
+parent: Model Prediction Only (L5)
+nav_order: 896
+evidence_level: L5
 indication_count: 10
 ---
 
 # Voglibose
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,97 +29,75 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-Using domain judgment as a drug-repurposing expert to select the report's focal indication: `predicted_indications[0]` (hypotrichosis simplex of the scalp) is explicitly flagged in its own rationale as "純為 TxGNN 高分預測，無任何生物學支持" (no biological plausibility, zero evidence) — reporting it as the headline finding would be misleading. **Type 1 Diabetes Mellitus** (rank 2, duplicated at rank 6 as "IDDM 1") is the only candidate with real mechanistic rationale, trial evidence, and literature (L3), so it is used as the report subject below.
-
----
-
 # Voglibose: From Type 2 Diabetes Mellitus to Type 1 Diabetes Mellitus
 
 ## One-Sentence Summary
 
-> Voglibose is an α-glucosidase inhibitor internationally used to control postprandial hyperglycemia in Type 2 Diabetes Mellitus.
-> The TxGNN model predicts it may be useful as an **adjunct to insulin therapy in Type 1 Diabetes Mellitus** (flattening post-meal glucose spikes and reducing nocturnal hypoglycemia),
-> with **15 clinical trials** (mostly indirect, in T2DM populations) and **5 publications** — including one small cohort study directly in insulin-dependent (Type 1) diabetic patients — currently supporting this direction.
-
----
+Voglibose is an alpha-glucosidase inhibitor originally used to treat type 2 diabetes mellitus.
+The highest-ranked prediction with any supporting data is **type 1 diabetes mellitus** (the TxGNN model's top-ranked prediction, hypotrichosis simplex of the scalp, has no evidence behind it). Support is limited: **0 clinical trials** and **3 publications**, only one of which is a small clinical study.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in local regulatory data (drug not marketed in India); internationally an α-glucosidase inhibitor indicated for glycemic control in Type 2 Diabetes Mellitus |
-| Predicted New Indication | Type 1 Diabetes Mellitus (insulin-adjunct use) |
-| TxGNN Prediction Score | 99.80% |
-| Evidence Level | L3 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
-
----
+| Original Indication | Type 2 diabetes mellitus (the approved indication text is not stated in the registration records, so this comes from the knowledge graph) |
+| Predicted New Indication | Type 1 diabetes mellitus (adjunct to insulin therapy). The top-scoring prediction, hypotrichosis simplex of the scalp, was set aside because it has no evidence or mechanistic link |
+| TxGNN Prediction Score | 99.80% (type 1 diabetes mellitus); 99.86% for hypotrichosis simplex of the scalp |
+| Evidence Level | L3 (type 1 diabetes mellitus); L5 for the other predictions |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold (type 1 diabetes mellitus is a research question only) |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (marked as a High-severity data gap). Based on the trial and literature evidence collected, voglibose is known to act as an **α-glucosidase inhibitor**, delaying intestinal carbohydrate absorption and blunting postprandial blood glucose rises. This mechanism has been extensively validated in Type 2 Diabetes Mellitus, including head-to-head Phase 3/4 trials against acarbose, vildagliptin, sitagliptin, and dapagliflozin.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, voglibose inhibits alpha-glucosidase enzymes in the intestinal lumen. This delays carbohydrate digestion and absorption and blunts the rise in blood glucose after meals.
 
-The predicted new indication, Type 1 Diabetes Mellitus, shares an obvious pathophysiological link: both conditions involve poor glycemic control requiring exogenous insulin at some stage of disease. In T1DM patients on intensive insulin therapy, the main clinical challenge shifts from insulin *deficiency* to managing glucose *variability* — sharp postprandial peaks followed by nocturnal hypoglycemia. Because voglibose slows carbohydrate absorption without directly increasing insulin secretion, it is mechanistically well suited to smoothing this glycemic curve rather than replacing insulin.
+Type 1 and type 2 diabetes differ in cause, but both involve post-meal glucose spikes. Delayed carbohydrate absorption could therefore be a useful add-on to insulin in type 1 diabetes. A small 2000 study reported that voglibose taken before the evening meal reduced nocturnal hypoglycaemia in insulin-dependent patients on intensive insulin therapy. This is a narrower, adjunctive use within the same disease area rather than a truly new indication, and the signal is weak.
 
-Notably, the knowledge graph independently surfaced this same biological signal twice — once under "type 1 diabetes mellitus" and once under its older clinical synonym "IDDM 1" — both scoring similarly (~99.4–99.8%) and both supported by the same literature, which reinforces the internal consistency of the prediction rather than being a random high score.
-
----
+Most other high-scoring predictions have no plausible mechanism. Examples are the hair disorders (hypotrichosis simplex of the scalp, congenital hypotrichosis milia, diffuse alopecia areata), autoimmune oophoritis, and rare lysosomal or skeletal disorders (Wolman disease, cholesteryl ester storage disease, opsismodysplasia). These scores appear to reflect relationships within the knowledge graph rather than the drug's pharmacology. Voglibose's listed Gaucher disease link likely explains the lysosomal storage disease predictions, but voglibose does not act on lysosomal acid lipase.
 
 ## Clinical Trial Evidence
 
-**Note:** all trials below were conducted in **Type 2 Diabetes Mellitus** populations (grade C relevance) or T1DM-adjacent monitoring studies; none is a dedicated T1DM interventional trial. They are listed because voglibose's pharmacodynamic profile (established here) underpins the T1DM adjunct rationale.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00970528](https://clinicaltrials.gov/study/NCT00970528) | Phase 4 | Completed | 124 | Voglibose vs acarbose in patients inadequately controlled on **insulin glargine** ± metformin (T2DM) |
-| [NCT02049814](https://clinicaltrials.gov/study/NCT02049814) | Phase 4 | Completed | 494 | Non-inferiority: voglibose vs acarbose + metformin, HbA1c endpoint (T2DM) |
-| [NCT00368134](https://clinicaltrials.gov/study/NCT00368134) | Phase 3 | Completed | 370 | Vildagliptin vs voglibose, 12-week efficacy/safety/tolerability comparison (T2DM) |
-| [NCT01993927](https://clinicaltrials.gov/study/NCT01993927) | N/A | Completed | 742 | Long-term postmarketing surveillance of voglibose tablets/OD tablets in impaired glucose tolerance |
-| [NCT01309698](https://clinicaltrials.gov/study/NCT01309698) | Phase 4 | Completed | 24 | PK/PD of vildagliptin + voglibose co-administration in Japanese T2DM patients |
-| [NCT02287402](https://clinicaltrials.gov/study/NCT02287402) | Phase 4 | Completed | 197 | AO-128 (voglibose) 0.6 mg/day postmarketing study in impaired glucose tolerance |
-| [NCT00837577](https://clinicaltrials.gov/study/NCT00837577) | Phase 3 | Completed | 133 | Sitagliptin add-on to **voglibose monotherapy** in T2DM with inadequate control |
-| [NCT01055652](https://clinicaltrials.gov/study/NCT01055652) | Phase 1 | Completed | 28 | Drug–drug interaction: voglibose 0.2mg TID effect on dapagliflozin PK (T2DM) |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [10778865](https://pubmed.ncbi.nlm.nih.gov/10778865/) | 2000 | Cohort | Metabolism: Clinical and Experimental | **Directly relevant**: pre-evening-meal voglibose reduced nocturnal hypoglycemia in 10 insulin-dependent (Type 1) diabetic patients on intensive insulin therapy |
-| [12387032](https://pubmed.ncbi.nlm.nih.gov/12387032/) | 2002 | Review | Nihon Rinsho (Japanese J Clinical Medicine) | Review of combination therapy with insulin and α-glucosidase inhibitors |
-| [39723258](https://pubmed.ncbi.nlm.nih.gov/39723258/) | 2024 | Review | Frontiers in Pharmacology | General review of anti-diabetic therapy effects (T1DM & T2DM) on dental implant outcomes; background context only |
-| [9778959](https://pubmed.ncbi.nlm.nih.gov/9778959/) | 1998 | Case Report | Nihon Ronen Igakkai Zasshi | Slowly progressive IDDM (LADA-type T1DM) case with comorbid autoimmune disease |
-| [18502532](https://pubmed.ncbi.nlm.nih.gov/18502532/) | 2008 | Case Report | Diabetes Research and Clinical Practice | Insulin edema case in a T2DM patient; tangential relevance |
-
----
+| [10778865](https://pubmed.ncbi.nlm.nih.gov/10778865/) | 2000 | Clinical study (small, 10 patients) | Metabolism | Voglibose 0.3 mg taken before the evening meal for 5 days was assessed for its effect on nocturnal hypoglycaemia in insulin-dependent diabetic patients on intensive insulin therapy; the title reports improvement |
+| [39723258](https://pubmed.ncbi.nlm.nih.gov/39723258/) | 2024 | Review | Frontiers in Pharmacology | Reviews the effect of anti-diabetic drugs on dental implant outcomes in type 1 and type 2 diabetes; only indirectly relevant |
+| [9778959](https://pubmed.ncbi.nlm.nih.gov/9778959/) | 1998 | Case report | Nihon Ronen Igakkai Zasshi | A 79-year-old woman with slowly progressive insulin-dependent diabetes, rheumatoid arthritis and Hashimoto disease; limited relevance |
 
 ## India Market Information
 
-Voglibose is **not currently marketed in India** — the regulatory data pack contains **0 registered licenses/products**. No dosage forms or approved indication text are available locally.
+Voglibose is sold as single-ingredient oral tablets by many manufacturers. The registration records do not include approved indication text. Five of the 20 valid registrations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 182128 | Provog 0.2mg Tablet | Strip of 10 tablets | Not stated in registration records |
+| Registration No. 25009 | Aedig 0.2mg Tablet | Strip of 10 tablets | Not stated in registration records |
+| Registration No. 182050 | Prevog Fast 0.2mg Tablet MD | Strip of 10 tablets (MD) | Not stated in registration records |
+| Registration No. 233839 | Vogo 0.2 Tablet | Strip of 15 tablets | Not stated in registration records |
+| Registration No. 32436 | Bosvo 0.3 Tablet | Strip of 10 tablets | Not stated in registration records |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-drug interaction data are all currently unavailable in this evidence pack — this is flagged as a **Blocking** data gap that must be resolved before any safety evaluation can proceed.)
+- **Disease associations flagged as contraindications in the knowledge graph** (these are not label text): peripheral nervous system disease, peripheral neuropathy, and impaired renal function.
 
----
+Please refer to the package insert for full safety information, including warnings and drug interactions.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale is plausible and reinforced by a consistent knowledge-graph signal (T1DM and its synonym IDDM both scored highly), but direct clinical evidence is limited to one small, 25-year-old cohort study (n=10) — all other trials are in T2DM populations. Combined with a **Blocking** data gap on local label warnings/contraindications and the fact that the drug is not currently marketed in India, the evidence base does not yet support proceeding.
+The only prediction with any supporting data is type 1 diabetes mellitus (L3), and that rests on one small, older study, an indirect review and a case report. All other predictions, including the top-scoring hypotrichosis simplex of the scalp, have no trials, no literature and no plausible mechanism, so they should not be pursued. Type 1 diabetes mellitus is best treated as a research question about adjunctive use, not a new indication.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain official package insert / label warnings and contraindications before any safety review
-- Resolve DG002 (High): confirm mechanism of action via DrugBank API for a rigorous mechanistic-link assessment
-- A dedicated, adequately powered study of voglibose as insulin adjunct specifically in T1DM (the current cohort evidence is too small and dated to support a decision)
-- Clarify local regulatory pathway, since voglibose has zero registrations in India today
+- Package insert warnings and contraindications from the India registration documents (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A controlled trial or systematic review of voglibose as an add-on to insulin in type 1 diabetes, with nocturnal hypoglycaemia as an outcome
+- A safety review of hypoglycaemia risk with insulin, and of use in patients with renal impairment or peripheral neuropathy
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

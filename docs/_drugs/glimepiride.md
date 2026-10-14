@@ -2,7 +2,7 @@
 layout: default
 title: Glimepiride
 parent: Model Prediction Only (L5)
-nav_order: 390
+nav_order: 394
 evidence_level: L5
 indication_count: 9
 ---
@@ -33,86 +33,90 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Glimepiride is a second-generation sulfonylurea used to treat Type 2 Diabetes Mellitus by stimulating pancreatic insulin secretion.
-The TxGNN model predicts it may be effective for **Focal Stiff Limb Syndrome**, a rare autoimmune neurological disorder,
-but this prediction is currently supported by **0 clinical trials** and **0 publications** — it rests entirely on the model score, and the underlying rationale itself flags it as likely knowledge-graph noise.
-
----
+Glimepiride is a sulfonylurea originally used to treat type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **focal stiff limb syndrome**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so this is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 Diabetes Mellitus (based on known pharmacological classification; Taiwan license data is not available — drug is not marketed locally) |
-| Predicted New Indication | Focal Stiff Limb Syndrome |
+| Original Indication | Type 2 diabetes mellitus |
+| Predicted New Indication | Focal stiff limb syndrome |
 | TxGNN Prediction Score | 99.75% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the DrugBank query in this evidence pack (data gap DG002, High severity). Based on known pharmacological information, Glimepiride is a second-generation sulfonylurea, part of the oral antidiabetic sulfonylurea class. Its established mechanism involves binding the SUR1 subunit of the ATP-sensitive potassium (K_ATP) channel on pancreatic beta cells, causing channel closure, cell depolarization, calcium influx, and stimulated insulin secretion. Its efficacy in Type 2 Diabetes Mellitus is well established and long-standing.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, glimepiride is a sulfonylurea that closes K-ATP channels on pancreatic beta cells to stimulate insulin secretion. Its efficacy in type 2 diabetes is established.
 
-The TxGNN model's top-ranked prediction, Focal Stiff Limb Syndrome, sits within the stiff person syndrome (SPS) spectrum — a rare autoimmune neurological disorder driven by GAD65-antibody-mediated impairment of GABAergic neurotransmission. This is mechanistically distant from Glimepiride's established insulin-secretagogue action. As explicitly noted in the evidence pack's own repurposing rationale, although K_ATP channels are also expressed in neurons, there is no established direct link between K_ATP channel blockade and the autoimmune GABAergic pathology underlying stiff person syndrome — the connection is described as weak and highly suspected to be an artifact of node proximity in the knowledge graph rather than a genuine pharmacological signal.
+No mechanistic link to focal stiff limb syndrome is supported. This condition is closely related to stiff person syndrome, which involves anti-GAD autoimmunity and impaired GABAergic inhibition. Glimepiride has no known action on those pathways. The high score (99.75%) likely reflects shared diabetes/autoimmunity context in the knowledge graph (for example, GAD autoantibodies, which are also seen in type 1 diabetes) rather than a true drug effect.
 
-This concern is reinforced by the broader candidate set: ranks 5–8 (drug-induced localized lipodystrophy, centrifugal lipodystrophy, pressure-induced localized lipoatrophy, idiopathic localized lipodystrophy) are four distinct lipodystrophy/lipoatrophy syndromes clustered at nearly identical scores (~0.996), which strongly suggests a systematic "fat tissue / metabolic disease" node clustering effect rather than a drug-specific signal. The only candidate in this list with a biologically traceable (if indirect) rationale is rank 9, pancreatic agenesis — sulfonylureas have documented clinical use in K_ATP-channel-mutation (KCNJ11/ABCC8) neonatal diabetes (PNDM) — but pancreatic agenesis itself is caused by distinct developmental transcription factor defects (PTF1A, GATA6), not K_ATP channel dysfunction, making even this link indirect and speculative, and it is explicitly unsupported by any clinical or literature evidence.
+This should be treated as a hypothesis-generating signal, not clinical evidence.
 
----
+**Other predicted indications (all L5, Hold, no supporting trials):**
+
+| Rank | Predicted Indication | Score | Note |
+|------|------|------|------|
+| 2 | Classic stiff person syndrome | 99.75% | Same anti-GAD autoimmunity context; no known glimepiride action on GABAergic pathways |
+| 3 | Opsismodysplasia | 99.74% | Speculative link to insulin/PI3K signaling (INPPL1); untested |
+| 4 | Thiamine-responsive dysfunction syndrome | 99.73% | Overlap limited to the diabetic phenotype; treatment is thiamine |
+| 5–8 | Localized lipodystrophies (drug-induced, centrifugal, pressure-induced, idiopathic) | 99.56–99.62% | Likely reflects lipodystrophy-cluster similarity; no supported mechanism |
+| 9 | Pancreatic agenesis | 99.55% | Mechanistically inappropriate, since glimepiride needs functional beta cells |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available for the top predicted indication. For the rank 9 prediction (pancreatic agenesis), the only publication found was [PMID 12720536](https://pubmed.ncbi.nlm.nih.gov/12720536/) (2003, European Journal of Endocrinology), a study of endosonographic imaging pitfalls in suspected insulinomas. It is not relevant to treating pancreatic agenesis.
 
 ## India Market Information
 
-Glimepiride is currently **not marketed** in this jurisdiction (Not marketed) and holds **no active local drug licenses** (total_licenses = 0). No license records are available to summarize authorization number, product name, dosage form, or approved indication.
+Glimepiride is marketed in India with 20 valid registrations (all single-entry records, none cancelled). Approved indication text was not available in the data compiled for this report. Five examples:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 208521 | Supride 2mg Tablet | Strip of 10 tablets | Not specified |
+| 100010 | Glimicord M 2 Forte Tablet | Strip of 10 tablets | Not specified |
+| 81192 | Ecoglim MV 2mg/500mg/0.2mg Tablet SR | Strip of 10 tablets (SR) | Not specified |
+| 246540 | Zoryl M 1 Forte Tablet PR | Strip of 15 tablets (PR) | Not specified |
+| 15505 | Adride 4mg Tablet | Strip of 10 tablets | Not specified |
+
+All products are oral formulations. Many are fixed-dose combinations (for example with metformin or voglibose), although they are recorded as single entries.
 
 ## Safety Considerations
 
-**Drug Interactions**: The DDI database recorded **599 total documented interactions** for Glimepiride. Notable interaction categories from the returned sample (levels as reported, mostly Moderate unless noted) include:
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: kidney disease, liver disease, gallbladder disease, congestive heart failure, pituitary hormone deficiencies (including hypopituitarism and Sheehan syndrome), hypogonadotropic hypogonadism (including Kallmann syndrome), thymus gland disease, osteoporosis (including postmenopausal), and infectious disease.
+- **Drug Interactions**: 599 interacting drugs were identified. Examples at Moderate level include:
+  - Beta-agonists and sympathomimetics: phenylephrine, pseudoephedrine, epinephrine, salbutamol, formoterol
+  - Beta-blocker: acebutolol
+  - NSAIDs: ibuprofen, ketorolac
+  - Corticosteroid: hydrocortisone
+  - H2 blockers: famotidine, ranitidine
+  - Others: acetazolamide, hydrochlorothiazide, ethinylestradiol, ethanol, acitretin, nitazoxanide, albiglutide
 
-- **Ethanol** – Moderate (may potentiate hypoglycemia)
-- **Beta-blockers** (Acebutolol) – Moderate (may mask hypoglycemia warning signs)
-- **H2-receptor antagonists** (Famotidine, Ranitidine) – Moderate
-- **NSAIDs** (Ibuprofen, Ketorolac) – Moderate (may potentiate hypoglycemic effect)
-- **Sympathomimetics** (Phenylephrine, Pseudoephedrine, Epinephrine, Salbutamol, Formoterol) – Moderate (may raise blood glucose / antagonize glycemic control)
-- **Thiazide diuretics** (Hydrochlorothiazide) – Moderate (hyperglycemic effect)
-- **Systemic corticosteroids** (Hydrocortisone) – Moderate (hyperglycemic effect); **topical corticosteroids** (Hydrocortisone topical, Alclometasone topical) – Minor
-- **Estrogens** (Ethinylestradiol) – Moderate (may reduce glycemic control)
-- **GLP-1 receptor agonist** (Albiglutide) – Moderate (additive hypoglycemia risk)
-- **Acetazolamide, Acitretin, Nitazoxanide** – Moderate
+  Minor-level examples include topical hydrocortisone and alclometasone.
 
-Detailed key warnings and contraindications from the TFDA package insert are a **Blocking** data gap (DG001) and are not yet available in this evidence pack — please refer to the package insert once obtained.
-
----
+Package insert warnings and contraindications were not available, so please refer to the package insert for the full safety profile. Hypoglycaemia is a general concern with sulfonylureas, particularly in non-diabetic patients.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- All 9 predicted indications rest solely on the TxGNN model score (L5 evidence, S0 decision stage) with zero supporting clinical trials or published literature, and several of the underlying rationale narratives explicitly flag the candidates — including the top-ranked one — as likely knowledge-graph artifacts rather than genuine pharmacological signal.
-- A Blocking data gap (TFDA warnings/contraindications, DG001) independently prevents entry into Stage 1 safety evaluation regardless of the indication's merit.
+The prediction has no supporting trials or publications, and no plausible mechanism links glimepiride to focal stiff limb syndrome. The high TxGNN score probably reflects shared diabetes/autoimmunity network context. Treating non-diabetic patients with an insulin secretagogue also carries hypoglycaemia risk without a clear benefit.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — Blocking gap, must be resolved before any S1 safety screening
-- Confirmed mechanism of action from DrugBank API — High-severity gap, needed for rigorous mechanistic assessment
-- If further investigation is warranted, a targeted literature/clinical search on sulfonylurea use in K_ATP-channel-mutation neonatal diabetes, as a lead-in to evaluating the pancreatic agenesis hypothesis (rank 9) — the only candidate with a biologically traceable, if indirect, rationale
-- Independent expert/clinical review of the full TxGNN candidate list before committing further resources, given that the evidence pack's own rationale text flags likely noise in the top-ranked predictions
+- Detailed mechanism of action data (MOA)
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Preclinical or mechanistic evidence for any effect on GABAergic or autoimmune pathways
+- A targeted literature search on sulfonylureas in stiff person spectrum disorders
+- A route and formulation compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

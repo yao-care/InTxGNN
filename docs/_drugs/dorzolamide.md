@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dorzolamide
-parent: High Evidence (L1-L2)
-nav_order: 282
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 285
+evidence_level: L5
 indication_count: 10
 ---
 
 # Dorzolamide
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +33,70 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Dorzolamide (Trusopt®/Cosopt®) is a topical carbonic anhydrase inhibitor used globally to lower intraocular pressure (IOP) in open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma**, with **1 clinical trial** and **no published literature** currently supporting this specific direction.
-The mechanistic rationale is strong, as both conditions share elevated IOP as the central pathological driver, making this more a precision extension than a true therapeutic leap.
+Dorzolamide is a topical carbonic anhydrase inhibitor, originally used to lower eye pressure in open-angle glaucoma and ocular hypertension.
+The TxGNN model predicts it may be useful for **primary hereditary glaucoma**,
+but the data compiled for this report contain **no clinical trials and no publications** for this specific condition, so the prediction rests on the model alone.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Open-angle glaucoma and ocular hypertension |
-| Predicted New Indication | Primary Hereditary Glaucoma |
+|------|------|
+| Original Indication | Open-angle glaucoma; ocular hypertension |
+| Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L2 |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 (model prediction only) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from formal regulatory sources in this Evidence Pack. Based on known pharmacological information, Dorzolamide is a topical carbonic anhydrase inhibitor (CAI) that selectively inhibits multiple carbonic anhydrase isoforms expressed in the eye — specifically CA1, CA7, CA12, and CA14. By blocking these enzymes in the ciliary body epithelium, dorzolamide reduces aqueous humor secretion, thereby lowering IOP. It is marketed as Trusopt® (monotherapy) and as Cosopt® (fixed combination with the beta-blocker timolol maleate).
+Dorzolamide inhibits carbonic anhydrase II in the ciliary body of the eye. This reduces the secretion of aqueous humour and lowers intraocular pressure (IOP). It also acts on other carbonic anhydrase isoforms, including CA1, CA7, CA12 and CA14.
 
-Primary hereditary glaucoma is a genetically determined optic neuropathy in which IOP elevation — arising from impaired trabecular meshwork drainage — causes progressive retinal ganglion cell loss and visual field damage. The underlying pathological target (elevated IOP) is identical to that addressed by dorzolamide in open-angle glaucoma. Because dorzolamide reduces IOP by suppressing aqueous humor production regardless of whether the drainage defect is genetic, structural, or acquired, its mechanism transfers directly and coherently to hereditary subtypes. This is not a mechanistic stretch — it is application of the same drug to a pathologically congruent condition defined by a different etiological root cause.
+Primary hereditary glaucoma is a genetic form of glaucoma. Like the marketed indications, it is driven by raised eye pressure. Lowering aqueous humour production is therefore mechanistically plausible as a way to control it.
 
-This is further supported by clinical practice: primary hereditary (congenital) glaucoma frequently presents in infancy and childhood, and pharmacological IOP reduction with CAIs is a recognized bridging and adjunct strategy when surgical intervention is incomplete or has failed. The sole Phase 2 trial identified in this Evidence Pack (NCT01527682) tested latanoprost and dorzolamide directly in primary pediatric glaucoma — which encompasses hereditary forms — confirming that this drug has already been evaluated in populations that largely overlap with the predicted indication.
+However, no trials or literature were found for this specific condition. The prediction is a model output only. Hereditary glaucoma can also differ from adult open-angle glaucoma in cause and age of onset, and this has not been assessed.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | Phase 2 | Completed | 37 | Assessed the ocular hypotensive effect and safety of latanoprost and dorzolamide in primary pediatric glaucoma (including congenital/hereditary forms) refractory to surgical procedures; evaluated whether medical therapy could achieve clinically meaningful IOP reduction in this high-need population |
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature directly addressing dorzolamide in primary hereditary glaucoma is available.
+Currently no related literature available.
+
+---
+
+## India Market Information
+
+Twenty single-ingredient ophthalmic registrations are valid and none are cancelled. The five main ones are listed below. The records do not state an approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| Registration No. 35284 | Cosopt Eye Drop | Bottle of 5 ml eye drop | Santen India Pvt Ltd |
+| Registration No. 58413 | Dorzox Eye Drop | Bottle of 5 ml eye drop | Cipla Ltd |
+| Registration No. 63099 | Dorz Eye Drop | Bottle of 5 ml eye drop | Vee Remedies |
+| Registration No. 60936 | Dorsenz Eye Drop | Packet of 5 ml ophthalmic solution | Senses Pharmaceuticals Ltd |
+| Registration No. 60834 | Dorzox T PF Eye Drop | Bottle of 10 ml eye drop | Cipla Ltd |
+
+All current forms are ophthalmic (eye drops or ophthalmic solution).
 
 ---
 
 ## Safety Considerations
 
-The key warnings and contraindications data for Dorzolamide were not captured in this Evidence Pack.
+- **Contraindications flagged in the knowledge graph (not label text):** diabetes mellitus, diabetic ketoacidosis, myasthenia gravis and other neuromuscular junction disease, hyperthyroidism, Graves disease, thyrotoxicosis, hypoglycaemia, atrioventricular block, pulmonary emphysema, bronchial disease, and anaphylaxis. These entries come from drug–disease links in the knowledge graph and need verification against the official package insert.
+- **Pharmacological targets:** dorzolamide binds carbonic anhydrase 1, 7, 12 and 14. These are target interactions rather than drug–drug interactions, so no specific interacting drugs were identified.
 
-- **Pharmacological Targets**: Dorzolamide acts on carbonic anhydrase isoforms CA1, CA7, CA12, and CA14 (Human). Systemic absorption of topically applied dorzolamide is documented; patients with sulfonamide allergy may be at risk given the sulfonamide chemical scaffold.
-
-Please refer to the Trusopt® or Cosopt® package insert for complete prescribing information, including warnings on renal/hepatic impairment, sulfonamide hypersensitivity, contact lens use, and concomitant oral CAI use.
+Please refer to the package insert for full warnings and contraindications.
 
 ---
 
@@ -92,18 +105,13 @@ Please refer to the Trusopt® or Cosopt® package insert for complete prescribin
 **Decision: Hold**
 
 **Rationale:**
-Dorzolamide has a compelling mechanistic case for use in primary hereditary glaucoma — the IOP-lowering mechanism is directly applicable — and Phase 2 pediatric evidence exists. However, the drug is currently unregistered in India (0 CDSCO approvals), the available trial is indirect (pediatric glaucoma broadly, not specifically hereditary subtypes), and no Indian-specific or hereditary-glaucoma-specific literature has been identified. Advancing without regulatory presence and targeted evidence is premature.
+The prediction score is very high, and the mechanism (lowering IOP) is plausible for a hereditary glaucoma. However, there are no trials or publications for this condition, so the evidence is model-only (L5).
 
 **To proceed, the following is needed:**
-- **CDSCO registration** of dorzolamide (Trusopt® or generic equivalent) in India as a prerequisite for any repurposing pathway
-- **Full MOA documentation** from DrugBank and Indian prescribing information (package insert warnings and contraindications)
-- **Subtype-specific evidence**: A prospective study or registry analysis in primary hereditary glaucoma patients (e.g., CYP1B1 mutation carriers, primary congenital glaucoma) explicitly evaluating dorzolamide IOP response
-- **Pediatric safety profile** for the Indian population, particularly for long-term carbonic anhydrase inhibition in children with genetic glaucoma
-- **Genetic subtyping** to confirm IOP-dependent (trabecular) rather than IOP-independent pathology in the target cohort, ensuring mechanistic alignment
-
----
-
-> ⚠️ **Disclaimer**: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before therapeutic application.
+- Clinical or literature evidence of dorzolamide use in primary hereditary glaucoma, such as paediatric or genetic glaucoma cohorts
+- Official package insert warnings and contraindications from Indian regulatory sources
+- Detailed mechanism of action data
+- Assessment of route compatibility and the suitability of existing eye drop formulations for this patient group
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

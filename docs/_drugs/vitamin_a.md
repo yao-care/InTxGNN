@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Vitamin A
-parent: High Evidence (L1-L2)
-nav_order: 885
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 894
+evidence_level: L5
 indication_count: 10
 ---
 
 # Vitamin A
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,21 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-Using no additional skill — this is a direct content-generation task fully specified by the provided report template; no coding, debugging, or brainstorming step is needed.
-
-**Note before the report:** This Evidence Pack contains 10 TxGNN-predicted indications for Vitamin A (DB00162), not one. Per the scoring already embedded in the data, **9 of 10 candidates are flagged `Hold`** (L4–L5, no mechanistic support — several are explicitly annotated as likely knowledge-graph artifacts, e.g., confusion between Vitamin A and Vitamin K, or ontology-category nodes rather than real diseases). Only **rank 6 ("perinatal disease," decision stage S2, recommendation "Proceed with Guardrails," evidence level L2)** clears a meaningful evidence bar. Following literal `predicted_indications[0]` would produce a report on "congenital prothrombin deficiency" — a candidate the evidence pack itself says has **no mechanistic link** and should be held. As the acting drug repurposing expert, I report on the actionable candidate (rank 6) and disclose this substitution transparently below, rather than surface a self-flagged false positive.
-
-Also flagging: the input schema is labeled `taiwan_regulatory` with TFDA-specific data gaps (DG001/DG002 reference "India Pharma website" and "TFDA 仿單警語"), while the prompt template header describes "India/CDSCO." I've followed the data (Taiwan/TFDA), not the template's India wording, since the data itself is unambiguous and guessing the wrong jurisdiction would be a factual error.
-
----
-
-# Vitamin A: From Nutritional Deficiency Correction to Bronchopulmonary Dysplasia Prevention in Preterm Infants
+# Vitamin A: From Vitamin Deficiency Disorder to Congenital Prothrombin Deficiency (Top-Ranked Prediction), with Perinatal Disease as the Best-Supported Candidate
 
 ## One-Sentence Summary
 
-> Vitamin A is an essential fat-soluble vitamin traditionally used to correct nutritional deficiency and support vision, immune, and epithelial health.
-> Across 10 TxGNN-predicted indications, the only candidate with credible evidence is **perinatal disease** — specifically, **prevention of bronchopulmonary dysplasia (BPD) and mortality in very low birth weight (VLBW) infants** —
-> supported by **5 successive Cochrane systematic reviews (2000–2016)** and **multiple observational/mechanistic studies**, though direct clinical-trial registrations testing this narrow indication are largely historical (pre-dating clinicaltrials.gov).
+Vitamin A is a fat-soluble vitamin originally used to treat vitamin deficiency disorders, including vitamin A deficiency.
+The TxGNN model's top-ranked prediction is **congenital prothrombin deficiency**, but that prediction has **no clinical trials and no publications** behind it and is graph-based only.
+Among the ten predictions, the best-supported is **perinatal disease** (specifically bronchopulmonary dysplasia in very-low-birth-weight infants), with **1 clinical trial** and **multiple Cochrane systematic reviews**.
 
 ---
 
@@ -51,88 +43,104 @@ Also flagging: the input schema is labeled `taiwan_regulatory` with TFDA-specifi
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally registered in this jurisdiction; known generic use is vitamin A deficiency correction / nutritional supplementation |
-| Predicted New Indication | Perinatal disease — narrowed to: Bronchopulmonary dysplasia (BPD) prevention in very low birth weight infants |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L2 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Vitamin deficiency disorder; vitamin A deficiency (the licence records list no approved indication text, so this comes from the knowledge graph) |
+| Predicted New Indication | Congenital prothrombin deficiency (rank 1); best-supported alternative: perinatal disease (rank 6) |
+| TxGNN Prediction Score | 99.97% (congenital prothrombin deficiency); 99.63% (perinatal disease) |
+| Evidence Level | L5 (congenital prothrombin deficiency); L1 (perinatal disease) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 8 |
+| Recommended Decision | Hold (congenital prothrombin deficiency); Proceed with Guardrails (perinatal disease, limited to BPD prevention in very-low-birth-weight infants) |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed formal mechanism-of-action documentation (DrugBank MOA field) is currently a data gap for this candidate (DG002, High severity). Based on the literature captured in this Evidence Pack, however, Vitamin A's active metabolite retinoic acid signals through retinoic acid receptors (RARs) to regulate epithelial cell differentiation and proliferation — a pathway essential for normal lung alveolar and airway epithelial development (PMID 30134568, "Vitamin A Deficiency and the Lung").
+Currently, detailed mechanism of action data is not available. Based on known information, vitamin A (retinol) acts through its metabolite retinoic acid, which binds nuclear retinoic acid receptors to regulate cell differentiation, proliferation, and epithelial integrity. Its efficacy in correcting vitamin A deficiency is established.
 
-Preterm and very low birth weight infants are born with markedly depleted hepatic vitamin A stores and low serum retinol-binding protein, because most fetal vitamin A accretion occurs in the third trimester (PMID 2672772). This deficiency has been directly linked to impaired lung epithelial integrity and increased risk of chronic lung disease/BPD (PMID 25222155, JAMA Pediatrics). Five successive updates of a Cochrane systematic review (2000, 2002, 2007, 2011, 2016) consistently found that vitamin A supplementation reduces the risk of death or oxygen requirement at 36 weeks postmenstrual age in VLBW infants — making this one of the better-established, if narrow, "repurposing" uses of vitamin A in modern neonatology.
+**Top-ranked prediction (congenital prothrombin deficiency).** This is a coagulation factor II defect. Vitamin A has no established link to it; vitamin K is the vitamin relevant to prothrombin synthesis. The very high score appears to be a graph-based artefact, probably driven by shared "vitamin" relationships, and should not be acted on without supporting studies.
 
-Importantly, TxGNN's predicted category **"perinatal disease" is far broader than the actual supporting evidence**, which is specific to VLBW/preterm infant BPD prevention rather than perinatal disease in general. Any downstream use of this candidate should be scoped narrowly to that population and outcome.
+**Best-supported prediction (perinatal disease).** Vitamin A is needed for lung epithelial integrity and repair. Preterm infants are born with low vitamin A stores, and this is associated with bronchopulmonary dysplasia (BPD). Cochrane reviews of randomised trials indicate that vitamin A supplementation in very-low-birth-weight infants modestly reduces death or oxygen requirement at 36 weeks' postmenstrual age. The supporting evidence covers BPD in preterm infants, a subset of "perinatal disease", not the whole category.
 
-**Other candidates screened and rejected:** congenital prothrombin deficiency (L5, likely Vitamin A/K graph confusion, no mechanism), biotin metabolic disease (L4, indirect "micronutrient" association only), non-syndromic esophageal malformation (L5, single non-interventional registry), cell proliferation disorder (L4, preclinical/in-vitro only, indication too broad), florid cemento-osseous dysplasia and segmental odontomaxillary dysplasia (L5, zero evidence), "disease by subcellular system affected" (an ontology node, not a real disease — should be excluded from future candidate lists), and radiation/chemically-induced disorder (L3, evidence supports topical retinoid use in photoaging, not systemic vitamin A, and the category is too heterogeneous). "Injury" (L3, S1, "Research Question") also shows partial support for vitamin A in bone-fracture risk and wound healing but remains too broad a category for a Go decision at this time.
+**Other predictions** were mostly weak or not actionable:
+- *Biotin metabolic disease, non-syndromic esophageal malformation, florid cemento-osseous dysplasia, segmental odontomaxillary dysplasia*: no direct evidence; links likely reflect graph structure. Retinoic acid signalling in foregut development is plausible for the esophageal malformation, but untested and not relevant to postnatal supplementation.
+- *Disease by subcellular system affected*: an ontology classification node, not a clinical indication.
+- *Injury* (L2): wound-healing reviews and two neonatal trials, but only indirectly relevant.
+- *Cell proliferation disorder* and *radiation or chemically induced disorder* (L4): mechanistic and review literature only; categories too broad to define an indication.
 
 ---
 
 ## Clinical Trial Evidence
 
-Note: no registered trial in this Evidence Pack directly tests vitamin A for BPD prevention in preterm infants — the foundational RCTs synthesized in the Cochrane reviews predate the clinicaltrials.gov registry (1980s–1990s). The trials below are the most relevant *vitamin A intervention* trials captured in maternal/perinatal populations and provide supportive context.
+No clinical trials were found for the top-ranked prediction, congenital prothrombin deficiency. Trials for the best-supported prediction (perinatal disease) and for other predictions with trial data are shown below.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00211341](https://clinicaltrials.gov/study/NCT00211341) | Phase 3 | Completed | 100,000 | Weekly vitamin A supplementation in women of reproductive age (Ghana) tested for impact on maternal mortality |
-| [NCT01115478](https://clinicaltrials.gov/study/NCT01115478) | N/A | Completed | 2,500 | Zinc and/or vitamin A supplementation during pregnancy to reduce placental malaria and adverse pregnancy outcomes |
-| [NCT03971604](https://clinicaltrials.gov/study/NCT03971604) | N/A | Unknown | 300 | Observational study of the correlation between vitamin A/E serum levels and preeclampsia |
+| [NCT01115478](https://clinicaltrials.gov/study/NCT01115478) | Not applicable | Completed | 2500 | Zinc and/or vitamin A supplementation to reduce placental malaria and adverse pregnancy outcomes (perinatal disease; partly relevant) |
+| [NCT01203488](https://clinicaltrials.gov/study/NCT01203488) | Phase 1/2 | Completed | 807 | Higher-dose vitamin A vs control in extremely-low-birth-weight infants, assessing survival without BPD and sepsis risk (injury; neonatal lung injury setting) |
+| [NCT02102711](https://clinicaltrials.gov/study/NCT02102711) | Not applicable | Completed | 62 | Oral vitamin A in neonates under 1500 g to prevent BPD and retinopathy of prematurity (injury; indirectly relevant) |
+| [NCT04000789](https://clinicaltrials.gov/study/NCT04000789) | Not applicable | Unknown | 96 | Vitamin A + vitamin E + sodium hyaluronate eye drops vs sodium hyaluronate alone in diabetic retinopathy dry eye (cell proliferation disorder; loosely related) |
 
 ---
 
 ## Literature Evidence
 
+No publications were found for congenital prothrombin deficiency. Key publications for the best-supported prediction (perinatal disease) and for injury are listed below.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [27552058](https://pubmed.ncbi.nlm.nih.gov/27552058/) | 2016 | Cochrane Systematic Review | Cochrane Database Syst Rev | Vitamin A supplementation reduces mortality and short/long-term morbidity (including BPD) in very low birth weight infants |
-| [25222155](https://pubmed.ncbi.nlm.nih.gov/25222155/) | 2014 | Review | JAMA Pediatrics | Vitamin A shortage directly linked to increased risk of bronchopulmonary dysplasia |
-| [23445845](https://pubmed.ncbi.nlm.nih.gov/23445845/) | 2013 | Review | The Journal of Pediatrics | Vitamin A and D deficiency common in preterm/low birth weight infants; supplementation needed to prevent associated morbidity |
-| [22742601](https://pubmed.ncbi.nlm.nih.gov/22742601/) | 2012 | Systematic Review & Meta-analysis | Paediatric and Perinatal Epidemiology | Vitamin A/carotenoid supplementation during pregnancy evaluated against maternal, perinatal, and infant health outcomes |
-| [21975731](https://pubmed.ncbi.nlm.nih.gov/21975731/) | 2011 | Cochrane Systematic Review | Cochrane Database Syst Rev | Update confirming reduced mortality/morbidity with vitamin A in VLBW infants |
-| [17943744](https://pubmed.ncbi.nlm.nih.gov/17943744/) | 2007 | Cochrane Systematic Review | Cochrane Database Syst Rev | Earlier update, same conclusion, reduced chronic lung disease incidence |
-| [12519545](https://pubmed.ncbi.nlm.nih.gov/12519545/) | 2002 | Cochrane Systematic Review | Cochrane Database Syst Rev | Vitamin A necessary for lung growth/epithelial integrity; supplementation trials reviewed |
-| [10796372](https://pubmed.ncbi.nlm.nih.gov/10796372/) | 2000 | Cochrane Systematic Review | Cochrane Database Syst Rev | Original Cochrane review establishing the evidence base for this indication |
-| [2672772](https://pubmed.ncbi.nlm.nih.gov/2672772/) | 1989 | Review | American Journal of Clinical Nutrition | Premature infants have low retinol reserves and low retinol-binding protein at birth, underlying rationale for supplementation |
+| [27552058](https://pubmed.ncbi.nlm.nih.gov/27552058/) | 2016 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Vitamin A supplementation to prevent mortality and morbidity in very-low-birth-weight infants |
+| [21975731](https://pubmed.ncbi.nlm.nih.gov/21975731/) | 2011 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Earlier version of the same review |
+| [17943744](https://pubmed.ncbi.nlm.nih.gov/17943744/) | 2007 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Earlier version of the same review |
+| [12519545](https://pubmed.ncbi.nlm.nih.gov/12519545/) | 2002 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Earlier version of the same review |
+| [10796372](https://pubmed.ncbi.nlm.nih.gov/10796372/) | 2000 | Systematic review (Cochrane) | Cochrane Database Syst Rev | First version of the review; vitamin A for lung growth and epithelial integrity in preterm infants |
+| [22742601](https://pubmed.ncbi.nlm.nih.gov/22742601/) | 2012 | Systematic review / meta-analysis | Paediatr Perinat Epidemiol | Vitamin A and carotenoids in pregnancy and maternal, neonatal, and infant outcomes |
+| [25222155](https://pubmed.ncbi.nlm.nih.gov/25222155/) | 2014 | Review | JAMA Pediatrics | Vitamin A shortage and risk of bronchopulmonary dysplasia |
+| [34181622](https://pubmed.ncbi.nlm.nih.gov/34181622/) | 2021 | Review | Plast Reconstr Surg | Systematic summary of vitamin and mineral interventions in wound care; little evidence for official recommendations |
+| [34105132](https://pubmed.ncbi.nlm.nih.gov/34105132/) | 2021 | Meta-analysis | J Spec Oper Med | Vitamin A intake and fracture risk (safety signal at high intake) |
+| [40901583](https://pubmed.ncbi.nlm.nih.gov/40901583/) | 2025 | Review | World J Hepatol | Vitamin A toxicity and liver pathology |
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-Vitamin A is **not currently registered as an approved pharmaceutical product** in this jurisdiction (0 licenses on file, `market_status: Not marketed`). As a vitamin, it may be available through nutritional/supplement channels outside formal drug registration, but no TFDA drug license record exists in this dataset. This absence of formal registration is itself a gating factor for any repurposing pathway (see Conclusion).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 133468 | M.V.I. Injection | Ampoule of 10 ml injection | Not stated |
+| 122794 | Lycobold Capsule | Strip of 10 capsules | Not stated |
+| 218506 | Tilvit Injection | Vial of 10 ml injection | Not stated |
+| 233452 | Vitamin A 100000IU Syrup | Bottle of 50 ml syrup | Not stated |
+| 144556 | Multiband Injection | Vial of 10 ml injection | Not stated |
+
+Eight valid single-ingredient registrations exist in total (injection, capsule, syrup, and chewable tablet forms).
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions** (68 total interactions on file; key entries below):
-  - **Major** — concurrent use with other retinoids (**isotretinoin, acitretin, tretinoin**) and **bexarotene** (Moderate) risks additive vitamin A toxicity/hypervitaminosis A.
-  - **Major** — concurrent use with **tetracycline-class antibiotics** (doxycycline, tetracycline, minocycline, demeclocycline, oxytetracycline, sarecycline, eravacycline, omadacycline) is associated with increased risk of **idiopathic intracranial hypertension (pseudotumor cerebri)**.
-  - **Moderate** — bile acid sequestrants (**cholestyramine, colesevelam, colestipol**) and **sevelamer** may reduce vitamin A absorption.
-  - **Moderate** — **selpercatinib** interaction noted.
-  - **Minor** — **orlistat** may reduce fat-soluble vitamin absorption, including vitamin A.
-
-TFDA package insert warnings and contraindications are a documented data gap (DG001, Blocking severity) and must be obtained before any safety sign-off.
+- **Contraindications suggested by the knowledge graph** (not label text): kidney disease, liver disease, gallbladder disease, peptic ulcer disease, sarcoidosis, hypercalcemia, nephrocalcinosis, nephrolithiasis, hypervitaminosis, inflammatory bowel disease (including ulcerative colitis), gastroenteritis, sickle cell anemia, hemolytic anemia, hereditary hemochromatosis, hemosiderosis, Wilson disease, primary hyperoxaluria, and several other metabolic conditions.
+- **Drug Interactions** (68 recorded in total; main ones listed):
+  - **Major**: isotretinoin, acitretin, tretinoin (additive retinoid toxicity), and tetracycline-class antibiotics (doxycycline, tetracycline, minocycline, omadacycline, demeclocycline, eravacycline, oxytetracycline, sarecycline).
+  - **Moderate**: bexarotene, bile-acid sequestrants (cholestyramine, colesevelam, colestipol), sevelamer, selpercatinib.
+  - **Minor**: orlistat.
+- **Dose-related concerns from the literature**: excess vitamin A is associated with liver toxicity and increased fracture risk, so dosing limits are essential, particularly in neonates and pregnancy.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold** for the top-ranked prediction (congenital prothrombin deficiency).
+**Decision: Proceed with Guardrails** for perinatal disease, limited to BPD prevention in very-low-birth-weight infants.
 
 **Rationale:**
-Five successive Cochrane systematic review updates over 16 years provide consistent, high-quality evidence that vitamin A supplementation reduces mortality and BPD risk in very low birth weight infants — a mechanistically coherent and already partially adopted use in neonatology. However, TxGNN's raw candidate label ("perinatal disease") is too broad, no formal TFDA safety data or drug registration currently exists for this product, and 9 of the 10 candidates generated for this drug were unsupported, indicating the underlying prediction run needs tighter downstream filtering.
+- Congenital prothrombin deficiency has no trials or literature and no plausible mechanism, so the score is likely a graph artefact. Perinatal disease is supported by repeated Cochrane reviews and large neonatal trials (L1), though the benefit is modest and the evidence applies to a subset of the category.
+- Injury (L2) is only indirectly supported, and the remaining predictions are L4–L5 and not actionable.
 
 **To proceed, the following is needed:**
-- Obtain TFDA package insert warnings/contraindications (DG001, currently Blocking) before any S1 safety review
-- Confirm formal DrugBank/pharmacology MOA documentation (DG002)
-- Narrow the target indication explicitly to "BPD/mortality prevention in VLBW/preterm infants" rather than the broad "perinatal disease" category before advancing
-- Clarify local regulatory pathway given the drug is currently unregistered (Not marketed) — determine whether this would proceed as a supplement or require new drug registration
-- Exclude the ontology-artifact candidate ("disease by subcellular system affected") from future TxGNN candidate lists at the pipeline level
+- Package insert warnings and contraindications for the marketed products (currently unavailable and a blocking gap for safety screening)
+- Detailed mechanism of action data
+- For perinatal disease: a precisely defined indication (BPD prevention in very-low-birth-weight infants), dose, route, and toxicity limits, and an assessment of how the injection burden fits the available Indian formulations
+- Route compatibility assessment against the marketed forms (oral, injectable, syrup)
+- Safety monitoring plan covering hepatic toxicity, bone effects, and interactions with retinoids and tetracyclines
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

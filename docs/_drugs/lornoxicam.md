@@ -2,15 +2,15 @@
 layout: default
 title: Lornoxicam
 parent: Moderate Evidence (L3-L4)
-nav_order: 498
-evidence_level: L4
+nav_order: 503
+evidence_level: L3
 indication_count: 10
 ---
 
 # Lornoxicam
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,55 +29,78 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Lornoxicam: From Pain and Inflammatory Conditions to Rheumatoid Arthritis
+# Lornoxicam: From Painful and Inflammatory Conditions to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-Lornoxicam is an oxicam-class NSAID (non-steroidal anti-inflammatory drug) with analgesic, anti-inflammatory, and antipyretic properties, established for managing pain and inflammatory conditions.
-The TxGNN model predicts it may be effective for **Rheumatoid Arthritis** as its top-ranked indication (score 99.90%), supported by strong mechanistic rationale — COX-1/COX-2 inhibition reduces synovial PGE2, a core pathway targeted by approved oxicam-class drugs in RA.
-However, **no dedicated clinical trials or publications** for this specific drug-indication pair were identified, placing current evidence at **Level L4 (mechanistic/class-analogy only)**.
+Lornoxicam is an oxicam-class NSAID marketed in India as oral tablets for pain and inflammation. The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but **no clinical trials are registered** for this indication and support rests on **about 19 publications**, mostly reviews, preclinical work and formulation studies. This is closer to a label-adjacent symptomatic use than a true novel repurposing.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Pain and inflammatory conditions (analgesic and anti-inflammatory use) |
-| Predicted New Indication | Rheumatoid Arthritis |
+|------|------|
+| Original Indication | Not available (the approved indication text is blank in all India licence records) |
+| Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.90% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+| Evidence Level | L3 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the queried data sources. Based on known pharmacological information, Lornoxicam (also known as chlortenoxicam) is a member of the oxicam subclass of NSAIDs. It inhibits both COX-1 and COX-2 cyclooxygenase enzymes, thereby suppressing prostaglandin synthesis — particularly PGE2 — which mediates pain sensitization and tissue inflammation. A notable pharmacokinetic feature is its relatively short elimination half-life of 3–5 hours, in contrast to longer-acting oxicams such as Piroxicam, which may offer tolerability advantages in chronic dosing scenarios.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Lornoxicam is an oxicam NSAID that inhibits COX-1 and COX-2 non-selectively, which reduces prostaglandin-mediated inflammation and pain.
 
-Rheumatoid arthritis is a systemic autoimmune disease characterized by persistent synovial inflammation, in which PGE2 overproduction by activated macrophages and fibroblast-like synoviocytes drives joint swelling, pain, and structural damage. NSAIDs, including oxicam-class agents, are standard first-line symptomatic therapy in RA. Crucially, two structurally and mechanistically related oxicam drugs — **Meloxicam** (selective COX-2 preference) and **Piroxicam** (COX-1/2 non-selective) — carry regulatory approvals for RA in multiple markets, providing direct pharmacological class precedent for Lornoxicam's predicted activity in this indication.
+That mechanism directly addresses the joint pain and inflammation of rheumatoid arthritis (RA). Several reviews describe lornoxicam as used in rheumatic conditions such as osteoarthritis and RA. Because of this, the prediction is less a new discovery than a confirmation of symptomatic use in inflammatory joint disease.
 
-The TxGNN prediction is therefore mechanistically well-grounded: the knowledge graph correctly identifies Lornoxicam as belonging to a drug class with established RA utility. The absence of dedicated Lornoxicam-RA clinical trial data most likely reflects historical commercial positioning — Lornoxicam has primarily been developed for acute pain settings (post-operative analgesia, musculoskeletal pain) in markets where it is approved, and long-term RA trials have not been pursued.
+Lornoxicam relieves symptoms only. It is not a disease-modifying agent and does not alter the course of RA.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials are registered for rheumatoid arthritis.
+
+For context, a different predicted indication, migraine disorder, does have a completed trial: [NCT00293657](https://clinicaltrials.gov/study/NCT00293657), a Phase 2 randomized, double-blind, placebo-controlled study of intravenous lornoxicam (n=150) in acute migraine headache. Outcome data were not available.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [8706598](https://pubmed.ncbi.nlm.nih.gov/8706598/) | 1996 | Review | Drugs | Pharmacology and therapeutic potential of lornoxicam in painful and inflammatory conditions; relatively short half-life (3–5 h) |
+| [22469263](https://pubmed.ncbi.nlm.nih.gov/22469263/) | 2011 | Review | Profiles Drug Subst Excip Relat Methodol | Comprehensive drug profile; used in osteoarthritis and RA |
+| [19821419](https://pubmed.ncbi.nlm.nih.gov/19821419/) | 2009 | Systematic review | Cochrane Database Syst Rev | Single-dose oral lornoxicam for postoperative pain (indirect evidence for RA) |
+| [27086708](https://pubmed.ncbi.nlm.nih.gov/27086708/) | 2016 | Safety review | Pain Manag | Tolerability of lornoxicam in acute and rheumatic pain, focused on GI events |
+| [12207202](https://pubmed.ncbi.nlm.nih.gov/12207202/) | 2002 | Clinical study | Minerva Med | Long-term efficacy and safety of lornoxicam in RA |
+| [12404032](https://pubmed.ncbi.nlm.nih.gov/12404032/) | 2002 | Crossover double-blind study | Reumatismo | Lornoxicam 8 and 16 mg/day compared with diclofenac 150 mg/day in RA |
+| [29026298](https://pubmed.ncbi.nlm.nih.gov/29026298/) | 2017 | Preclinical (animal) | Int J Nanomedicine | Lornoxicam nanomicelles compared with free drug in experimental RA models |
+| [12240779](https://pubmed.ncbi.nlm.nih.gov/12240779/) | 2002 | Literature review | Clin Ther | Dose-effect relationships of NSAIDs in RA and osteoarthritis |
+| [41747163](https://pubmed.ncbi.nlm.nih.gov/41747163/) | 2026 | Formulation study | Drug Dev Ind Pharm | Transethosomal gel for transdermal lornoxicam delivery in RA |
+| [32792844](https://pubmed.ncbi.nlm.nih.gov/32792844/) | 2020 | Formulation study | Saudi Pharm J | Microsponge gel for sustained anti-inflammatory effect in arthritis |
+
+The remaining retrieved publications are further formulation studies (chronotherapy mini-tablets, pulsatile beads, patches, emulgel) and two glucocorticoid reviews that are not specific to lornoxicam.
 
 ---
 
 ## India Market Information
 
-Lornoxicam currently has no registered products with CDSCO in India. The drug is not marketed.
+There are 20 valid single-ingredient registrations, all oral tablets supplied as strips of 10. Approved indication text is not recorded for any of them. Five examples:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 132637 | Lormyp 8mg/325mg Tablet | Strip of 10 tablets | Not recorded |
+| 126438 | Lodol 4mg Tablet | Strip of 10 tablets | Not recorded |
+| 250889 | Zoloxy 8mg Tablet | Strip of 10 tablets | Not recorded |
+| 131888 | Lornok 8mg Tablet | Strip of 10 tablets | Not recorded |
+| 232371 | Univer 4mg Tablet | Strip of 10 tablets | Not recorded |
+
+Many of the registered products pair lornoxicam 8 mg with 325 mg of a second ingredient (likely paracetamol, though the data do not state this).
 
 ---
 
@@ -89,18 +112,29 @@ Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanistic connection between Lornoxicam and rheumatoid arthritis is pharmacologically coherent and supported by class-level analogy (Meloxicam, Piroxicam both oxicam-class, both RA-approved), but no Lornoxicam-specific clinical trial or publication evidence for RA was identified, and the drug carries zero registrations in India — making a go decision premature without foundational data collection.
+Lornoxicam's COX-inhibiting mechanism fits the symptomatic management of RA, and a small number of clinical studies (including a double-blind comparison with diclofenac) support this use. However, no clinical trials are registered, most of the literature is preclinical or formulation-focused, and the benefit is symptomatic only.
 
 **To proceed, the following is needed:**
-- Retrieve full MOA details and safety profile from DrugBank (DB06725) to complete the mechanistic and safety assessment
-- Obtain CDSCO-equivalent package insert or SmPC data for key warnings, contraindications, and drug-drug interactions (DDI file error noted in query log — DDInter database path missing)
-- Conduct targeted literature search for Lornoxicam in rheumatoid arthritis and related inflammatory arthropathies (e.g., osteoarthritis, ankylosing spondylitis), as indexed studies may exist outside the current PubMed query scope
-- Benchmark against approved oxicam comparators in RA (Meloxicam 7.5–15 mg, Piroxicam 20 mg) to assess whether Lornoxicam's shorter half-life (3–5 h) provides a clinical or safety differentiation rationale
-- Map India CDSCO regulatory pathway for a new RA indication — assess whether a bridging study or bibliographic application is feasible given class-level precedent
-- Note: Evidence Pack also captured **migraine disorder** (rank #3, L2 evidence, 1 completed Phase 2 RCT [NCT00293657, n=150]) as a higher-evidence repurposing candidate worth parallel evaluation
+- Package insert warnings and contraindications, which are not yet available (this blocks safety screening)
+- Mechanism of action data from a primary source
+- Full-text review of the RA clinical studies (PMIDs 12207202 and 12404032) to confirm efficacy and safety
+- The approved indication wording for the India licences
+- A GI, cardiovascular and renal risk plan for long-term NSAID use in RA
+
+---
+
+## Other Predicted Indications (for reference)
+
+| Predicted Indication | TxGNN Score | Evidence Level | Suggested Decision |
+|------|------|------|------|
+| Migraine disorder | 99.87% | L2 | Proceed with Guardrails (verify trial NCT00293657 outcomes) |
+| Headache disorder | 99.80% | L2 | Proceed with Guardrails (same single trial, not independent evidence) |
+| Tendinitis | 99.72% | L3 | Research question (one study found lornoxicam injection inferior to betamethasone in subacromial impingement) |
+| Migraine susceptibility, migraine with brainstem aura, trigeminal autonomic cephalalgia | 99.85%–99.75% | L4–L5 | Hold |
+| Brachydactyly-syndactyly syndrome, colobomatous microphthalmia-rhizomelic dysplasia syndrome, idiopathic granulomatous myositis | 99.82%–99.70% | L5 | Hold (no plausible mechanism; likely graph artifacts) |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

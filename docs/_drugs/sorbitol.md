@@ -2,7 +2,7 @@
 layout: default
 title: Sorbitol
 parent: Model Prediction Only (L5)
-nav_order: 777
+nav_order: 784
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,80 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Sorbitol: From Osmotic Laxative/Excipient Use to Exercise-Induced Malignant Hyperthermia
+# Sorbitol: From an Unspecified Original Indication to Exercise-Induced Malignant Hyperthermia
 
 ## One-Sentence Summary
 
-Sorbitol is a sugar alcohol traditionally used as an osmotic laxative, diuretic, and pharmaceutical excipient; detailed original indication and mechanism-of-action data are not yet available in this evidence pack. The TxGNN model predicts a possible association with **Exercise-Induced Malignant Hyperthermia**, but this prediction is currently supported by **zero clinical trials** and **zero publications**, and the model's own rationale flags the link as lacking biological plausibility.
-
----
+Sorbitol is a sugar alcohol used as an osmotic agent, laxative and excipient. In India it is marketed as an infusion product, but no approved indication text is available.
+The TxGNN model predicts it may be effective for **exercise-induced malignant hyperthermia**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented (per evidence pack: osmotic laxative / diuretic / pharmaceutical excipient use) |
-| Predicted New Indication | Exercise-Induced Malignant Hyperthermia |
+| Original Indication | Not available (the registration record contains no approved indication text) |
+| Predicted New Indication | Exercise-induced malignant hyperthermia |
 | TxGNN Prediction Score | 99.40% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Taiwan Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Sorbitol is a sugar alcohol used clinically as an osmotic laxative, diuretic, and pharmaceutical excipient; its original indication and pharmacological classification are not fully captured in this evidence pack.
+Currently, detailed mechanism of action data is not available. Based on known information, sorbitol is a sugar alcohol used as an osmotic agent, laxative and pharmaceutical excipient. No original indication is documented for the Indian registration, so the relationship between an original and a new indication cannot be established.
 
-Exercise-induced malignant hyperthermia is a disorder of skeletal muscle calcium regulation, typically linked to RYR1/CACNA1S gene variants, triggered by anesthetic exposure or strenuous exercise. There is no known pharmacological pathway by which Sorbitol would affect ryanodine receptor function, sarcoplasmic reticulum calcium release, or thermoregulation.
-
-The evidence pack's own rationale is explicit on this point: the very high TxGNN score (0.994) most likely reflects **topological proximity within the knowledge graph** rather than a genuine, explainable biological mechanism. In the absence of any mechanistic pathway, clinical trial, or literature support, this association should be treated as a candidate for further screening only — not as a credible repurposing signal at this stage.
-
----
+No biological pathway is known to link sorbitol to malignant hyperthermia. That condition is typically driven by dysregulated calcium release in skeletal muscle (RYR1 or CACNA1S variants), and the standard treatment is dantrolene. The high score may reflect graph proximity or shared-neighbour artifacts, such as sorbitol's use as an excipient or osmotic agent in related formulations, rather than a true therapeutic effect. This should be treated as a hypothesis only, requiring mechanistic validation before any further consideration.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
----
+## India Market Information
 
-## Taiwan Market Information
-
-No market authorization records are currently available — Sorbitol is not marketed in Taiwan under this evidence pack's regulatory dataset (0 registrations).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 38111 | Celemix Infusion (Claris Lifesciences Ltd) | Bottle of 1000 ml infusion | Not stated |
 
 ## Safety Considerations
 
-**Drug Interactions** (from DDInter):
+- **Contraindications (from the TxGNN knowledge graph, not label text)**: Active peptic ulcer disease.
+- **Drug Interactions** (2 found):
+  - **Tolevamer**: Major
+  - **Lamivudine**: Moderate
 
-| Interacting Drug | Severity Level | Source |
-|---|---|---|
-| Lamivudine | Moderate | DDInter |
-| Tolevamer | Major | DDInter |
-
-Key warnings and contraindications are not yet available in this evidence pack; please refer to the official product label once TFDA labeling data is obtained.
-
----
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but there is no clinical trial or literature evidence (Evidence Level L5), the drug is not currently marketed in Taiwan, and the model's own mechanistic rationale suggests the association is likely a knowledge-graph artifact rather than a biologically plausible link.
+The only support is a high model prediction score. There are no clinical trials or publications, no documented mechanism, and no known biological link between sorbitol and malignant hyperthermia. The standard treatment (dantrolene) works through a different pathway.
 
 **To proceed, the following is needed:**
-- TFDA product label (warnings/contraindications) — currently blocking (DG001)
-- Confirmed mechanism of action data from DrugBank (DG002)
-- Independent mechanistic or preclinical evidence connecting Sorbitol to malignant hyperthermia pathways before any further clinical evaluation is considered
+- Mechanism of action data for sorbitol and a plausible biological link to skeletal-muscle calcium dysregulation
+- The approved indication and the package insert warnings and contraindications for the Indian product (Registration No. 38111)
+- Preclinical or literature evidence supporting any effect in malignant hyperthermia
+- Assessment of whether the prediction is an artifact of sorbitol's role as an excipient or osmotic agent in the knowledge graph
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

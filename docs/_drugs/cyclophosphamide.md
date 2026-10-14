@@ -2,7 +2,7 @@
 layout: default
 title: Cyclophosphamide
 parent: High Evidence (L1-L2)
-nav_order: 216
+nav_order: 218
 evidence_level: L1
 indication_count: 5
 ---
@@ -29,97 +29,122 @@ Evidence Level: **L1** | Predicted Indications: **5**
 
 </div>
 
-# Cyclophosphamide: From Broad-Spectrum Alkylating Chemotherapy to Myeloid Leukemia (AML) Transplant Conditioning / GVHD Prophylaxis
+# Cyclophosphamide: From Mycosis Fungoides and Lymphoma to Myeloid Leukemia
 
 ## One-Sentence Summary
 
-Cyclophosphamide is a nitrogen mustard alkylating agent long used across a wide range of hematologic and solid malignancies, though this evidence pack does not include a specific original-indication label.
-The TxGNN model predicts strong applicability to **myeloid leukemia**, and this direction is already substantiated by **50 clinical trials** and **20 publications**, most describing cyclophosphamide as a core component of allogeneic stem cell transplant conditioning and post-transplant GVHD prophylaxis regimens.
+Cyclophosphamide is an alkylating chemotherapy agent originally used for lymphomas (including cutaneous T-cell lymphoma and primary CNS lymphoma), plasma cell myeloma, neuroblastoma, breast carcinoma and retinoblastoma.
+The TxGNN model predicts it may be effective for **myeloid leukemia**,
+with **35 clinical trials** and **20 publications** currently supporting this direction, most of them in transplant conditioning or combination-chemotherapy settings rather than as a single-agent test of cyclophosphamide.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this evidence pack (no license/label data supplied) |
-| Predicted New Indication | Myeloid Leukemia (AML) |
+| Original Indication | Mycosis fungoides and variants, primary cutaneous T-cell lymphoma, plasma cell myeloma, neuroblastoma, lymphoma, breast carcinoma, retinoblastoma (from the TxGNN knowledge graph; no approved indication text is available in the India licence records) |
+| Predicted New Indication | Myeloid leukemia |
 | TxGNN Prediction Score | 99.47% |
 | Evidence Level | L1 |
-| India Market Status | Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, Cyclophosphamide is a nitrogen mustard alkylating agent that has been a chemotherapy backbone for decades; its cytotoxic and immunosuppressive efficacy across hematologic malignancies and autoimmune conditions is well established, and mechanistically this activity extends naturally to myeloid leukemia treatment settings.
+Cyclophosphamide is an alkylating agent. Its active metabolite, phosphoramide mustard, cross-links DNA and induces apoptosis in rapidly dividing cells. Detailed mechanism-of-action data are not available in the compiled data, but this is its well-established pharmacology.
 
-Specifically, the evidence assembled here shows Cyclophosphamide functioning in two closely related roles for AML: (1) as part of myeloablative **conditioning regimens** (e.g., Busulfan/Cyclophosphamide, "Bu/Cy") prior to allogeneic hematopoietic stem cell transplantation, and (2) as **post-transplant cyclophosphamide (PTCy)**, a now-standard strategy for graft-versus-host disease (GVHD) prophylaxis that works by selectively depleting alloreactive T-cells after transplantation. Both applications rely on the same core alkylating/immunomodulatory mechanism.
+Its use in myeloid leukemia is already extensive. It is a core part of busulfan-cyclophosphamide (BuCy) conditioning before allogeneic transplant, of combination regimens such as clofarabine/etoposide/cyclophosphamide, and of post-transplant cyclophosphamide (PTCy) for preventing graft-versus-host disease (GVHD). PTCy selectively depletes alloreactive T cells while sparing regulatory T cells and hematopoietic stem cells. The high TxGNN score is consistent with this large body of clinical use.
 
-Because these uses are supported by multiple completed Phase 2/3 randomized and large cohort studies, the TxGNN prediction is best understood as confirming an already-established clinical practice pattern rather than proposing a wholly novel use — which strengthens rather than weakens the credibility of the model's output.
+Important caveat: in most trials, cyclophosphamide is one component of a regimen, not the isolated variable. Its role is conditioning, GVHD prophylaxis or lymphodepletion rather than stand-alone antileukemic therapy.
 
 ## Clinical Trial Evidence
 
+The table lists the trials graded most relevant to cyclophosphamide. Many other trials were also retrieved but not graded.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02744742](https://clinicaltrials.gov/study/NCT02744742) | Phase 2/3 | Completed | 202 | RCT comparing G-CSF+Decitabine+Busulfan+Cyclophosphamide vs Busulfan+Cyclophosphamide conditioning for RAEB-1/2 and AML secondary to MDS undergoing allo-HSCT. |
-| [NCT00723099](https://clinicaltrials.gov/study/NCT00723099) | Phase 2 | Completed | 73 | Umbilical cord blood transplant with reduced-intensity cyclophosphamide/fludarabine/TBI preparative regimen for hematologic malignancies. |
-| [NCT03959241](https://clinicaltrials.gov/study/NCT03959241) | Phase 3 | Completed | 431 | BMT CTN 1703 — randomized comparison of Tacrolimus/Methotrexate vs PTCy/Tacrolimus/Mycophenolate for GVHD prophylaxis after reduced-intensity allo-PBSCT. |
-| [NCT02999854](https://clinicaltrials.gov/study/NCT02999854) | Phase 3 | Terminated | 63 | Randomized comparison of ATIR101 (T-cell depleted) vs haploidentical HSCT with post-transplant high-dose Cyclophosphamide (PTCy) for hematologic malignancy. |
-| [NCT00186823](https://clinicaltrials.gov/study/NCT00186823) | Phase 3 | Completed | 57 | Haploidentical transplant using purified CD34+ cells for high-risk hematologic malignancies. |
-| [NCT02665065](https://clinicaltrials.gov/study/NCT02665065) | Phase 3 | Active, not recruiting | 153 | Pivotal study of Iomab-B plus reduced-intensity conditioning vs conventional care in older patients with active/relapsed/refractory AML. |
-| [NCT01010217](https://clinicaltrials.gov/study/NCT01010217) | Phase 2 | Completed | 176 | Three-arm trial (haploidentical, mismatched related/unrelated, matched unrelated donor) using T-cell replete allograft with high-dose post-transplant Cyclophosphamide. |
-| [NCT00134017](https://clinicaltrials.gov/study/NCT00134017) | Phase 2 | Completed | 142 | HLA-matched related/unrelated BMT using Busulfan/Cyclophosphamide conditioning plus post-transplant Cyclophosphamide for hematologic malignancies. |
-| [NCT00342316](https://clinicaltrials.gov/study/NCT00342316) | N/A | Completed | 340 | Prospective controlled study of reduced-intensity allo-SCT vs best standard chemotherapy care for AML in first complete remission. |
-| [NCT07249346](https://clinicaltrials.gov/study/NCT07249346) | Phase 2 | Recruiting | 124 | Dose-expansion study of low-dose post-transplant Cyclophosphamide/Tacrolimus/Ruxolitinib for GVHD prophylaxis in myeloablative allogeneic PBSCT. |
+| [NCT04473911](https://clinicaltrials.gov/study/NCT04473911) | Phase 1 | Completed | 25 | Reduced-intensity haploidentical transplant with post-transplant cyclophosphamide and GVHD prevention in myeloid and other blood cancers |
+| [NCT00315705](https://clinicaltrials.gov/study/NCT00315705) | Phase 1/2 | Completed | 50 | Clofarabine + etoposide + cyclophosphamide in pediatric relapsed/refractory acute leukemias |
+| [NCT00003187](https://clinicaltrials.gov/study/NCT00003187) | Phase 2/3 | Completed | 19 | Unrelated donor marrow transplantation, conventional vs T-cell-depleted; indirect evidence for cyclophosphamide |
+| [NCT00390793](https://clinicaltrials.gov/study/NCT00390793) | Phase 2 | Completed | 107 | Hyper-CVAD plus dasatinib in Ph+ ALL; partial relevance to myeloid leukemia |
+| [NCT01350245](https://clinicaltrials.gov/study/NCT01350245) | Phase 2 | Completed | 28 | Two-step haploidentical transplant for hematologic malignancies |
+| [NCT02441803](https://clinicaltrials.gov/study/NCT02441803) | Phase 2 | Completed | 11 | Allogeneic transplant as salvage in primary induction failure AML |
+| [NCT04904588](https://clinicaltrials.gov/study/NCT04904588) | Phase 2 | Active, not recruiting | 300 | HLA-mismatched unrelated donor transplant with post-transplant cyclophosphamide |
+| [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | Phase 2 | Completed | 213 | Cord blood transplant with cyclophosphamide/fludarabine/TBI myeloablative regimen |
+| [NCT05515029](https://clinicaltrials.gov/study/NCT05515029) | Phase 3 | Active, not recruiting | 56 | Post-transplant cyclophosphamide with abatacept, vedolizumab and calcineurin inhibitor for GVHD prevention in children and young adults |
+| [NCT02724163](https://clinicaltrials.gov/study/NCT02724163) | Phase 3 | Active, not recruiting | 700 | Pediatric AML induction chemotherapy with gemtuzumab ozogamicin; cyclophosphamide is not the tested variable |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35955881](https://pubmed.ncbi.nlm.nih.gov/35955881/) | 2022 | Review | Int J Mol Sci | Reviews post-transplant Cyclophosphamide (PTCy) as GVHD prophylaxis in matched sibling/unrelated donor HSCT for pediatric AML. |
-| [39939431](https://pubmed.ncbi.nlm.nih.gov/39939431/) | 2025 | Registry Cohort | Bone Marrow Transplant | EBMT registry study (n=1823) analyzing cytogenetic/molecular risk-driven conditioning intensity in AML patients receiving PTCy. |
-| [40434956](https://pubmed.ncbi.nlm.nih.gov/40434956/) | 2025 | Cohort | Future Oncol | Compares Busulfan-Cyclophosphamide vs Fludarabine-Busulfan conditioning for allogeneic transplant in AML. |
-| [32857869](https://pubmed.ncbi.nlm.nih.gov/32857869/) | 2020 | Cohort | Am J Hematol | Examines NK cell alloreactivity in AML in the post-transplant Cyclophosphamide era. |
-| [38466265](https://pubmed.ncbi.nlm.nih.gov/38466265/) | 2024 | Cohort | Cytotherapy | Identifies prognostic factors in haploidentical transplantation with PTCy for AML. |
-| [40905088](https://pubmed.ncbi.nlm.nih.gov/40905088/) | 2026 | Cohort | Haematologica | Analyzes genetic risk classification (n=217) in AML patients treated with HCT and PTCy-based GVHD prophylaxis. |
-| [40437709](https://pubmed.ncbi.nlm.nih.gov/40437709/) | 2025 | Cohort | Eur J Haematol | Evaluates conditioning intensity impact on survival in AML patients receiving ATG + PTCy-based GVHD prophylaxis. |
-| [38499049](https://pubmed.ncbi.nlm.nih.gov/38499049/) | 2024 | Cohort | Transplant Immunol | Assesses Cladribine combined with Busulfan+Cyclophosphamide as intensive conditioning for relapsed/refractory AML. |
-| [25345651](https://pubmed.ncbi.nlm.nih.gov/25345651/) | 2015 | Cohort | Am J Hematol | Compares survival outcomes of myeloablative vs Cyclophosphamide/Fludarabine nonmyeloablative allotransplant for AML (n=165). |
-| [31449699](https://pubmed.ncbi.nlm.nih.gov/31449699/) | 2019 | Cohort | Eur J Haematol | Evaluates reduced-intensity conditioning with ATG and PTCy for GVHD prophylaxis in AML. |
+| [36357773](https://pubmed.ncbi.nlm.nih.gov/36357773/) | 2023 | Systematic review / network meta-analysis | Bone Marrow Transplant | Compared myeloablative conditioning regimens, including Bu/Cy, in adult AML in remission |
+| [40905088](https://pubmed.ncbi.nlm.nih.gov/40905088/) | 2026 | Cohort | Haematologica | 217 AML patients with PTCy-based transplant: 2-year OS 77%, EFS 72% |
+| [38758817](https://pubmed.ncbi.nlm.nih.gov/38758817/) | 2024 | Registry study | Cancer | PTCy vs ATG vs combination for GVHD prevention in haploidentical transplant for AML |
+| [40434956](https://pubmed.ncbi.nlm.nih.gov/40434956/) | 2025 | Cohort | Future Oncol | Busulfan-cyclophosphamide vs fludarabine-busulfan conditioning in AML |
+| [25345651](https://pubmed.ncbi.nlm.nih.gov/25345651/) | 2015 | Cohort | Am J Hematol | Cy/Flu nonmyeloablative vs myeloablative transplant in 165 AML patients; survival not different in univariate analysis |
+| [41046309](https://pubmed.ncbi.nlm.nih.gov/41046309/) | 2026 | Cohort | Bone Marrow Transplant | Cord blood vs haploidentical transplant with PTCy in AML in first remission |
+| [42373850](https://pubmed.ncbi.nlm.nih.gov/42373850/) | 2026 | Cohort | Bone Marrow Transplant | Haploidentical vs mismatched unrelated donor transplant with PTCy in secondary AML |
+| [38466265](https://pubmed.ncbi.nlm.nih.gov/38466265/) | 2024 | Cohort | Cytotherapy | Prognostic factors in haploidentical transplant with PTCy for AML |
+| [38499049](https://pubmed.ncbi.nlm.nih.gov/38499049/) | 2024 | Cohort | Transplant Immunol | Cladribine added to busulfan-cyclophosphamide conditioning in relapsed/refractory AML |
+| [14662323](https://pubmed.ncbi.nlm.nih.gov/14662323/) | 2003 | Review | Exp Hematol | Bu-Cy vs TBI-Cy conditioning in AML; results conflicting |
 
 ## India Market Information
 
-Cyclophosphamide currently has **no market authorization records** in this evidence pack (market status: Not Marketed; 0 registrations). No license or product data is available to summarize.
+Cyclophosphamide has 20 valid single-ingredient registrations in India (injection and tablet forms). Approved indication text is not available in the licence records. Five main registrations:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 39643 | Cycloxan 200mg Injection | Vial of 1 injection | Not listed |
+| 47544 | Cyphos 1000mg Injection | Vial of 1 injection | Not listed |
+| 72948 | Endoxan N 500mg Injection | Vial of 1 injection | Not listed |
+| 72341 | Endoxan Tablet | Strip of 10 tablets | Not listed |
+| 175621 | Phosmid 50mg Tablet | Strip of 10 tablets | Not listed |
 
 ## Cytotoxicity
 
-Cyclophosphamide is classified as antineoplastic based on its established role as a nitrogen mustard alkylating chemotherapy agent used across hematologic malignancies and transplant conditioning regimens.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Nitrogen mustard alkylating agent) |
-| Myelosuppression Risk | High — dose-dependent neutropenia, thrombocytopenia, and anemia are well documented, particularly at myeloablative conditioning and high-dose PTCy doses |
-| Emetogenicity Classification | High at high-dose/conditioning regimens; Moderate at standard chemotherapy doses |
-| Monitoring Items | CBC with differential, renal and hepatic function, urinalysis (hemorrhagic cystitis risk), cardiac monitoring at high doses |
-| Handling Protection | Yes — cytotoxic drug handling precautions required per standard hazardous-drug protocols; please refer to the package insert for full warnings and precautions |
+| Cytotoxicity Classification | Conventional cytotoxic (alkylating agent, nitrogen mustard class) |
+| Myelosuppression Risk | High (dose-dependent leukopenia and neutropenia expected) |
+| Emetogenicity Classification | Moderate; higher at high doses |
+| Monitoring Items | CBC with differential, liver and renal function, electrolytes, urinalysis (bladder toxicity) |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
+
+Please also refer to the package insert warnings and precautions.
 
 ## Safety Considerations
 
-**Drug Interactions**: 481 total interactions on record. Notable Moderate-level interactions include Amphotericin B (all formulations), Bupropion, Aprepitant, Metronidazole, Nitisinone, and multiple sulfonylureas (Chlorpropamide, Acetohexamide, Glimepiride, Glipizide, Glyburide, Nateglinide, Repaglinide, Tolazamide, Tolbutamide, Troglitazone). Minor-level interactions include Levofloxacin and Ondansetron.
+- **Drug Interactions**: 481 interactions were recorded. Examples include:
+  - Moderate: amphotericin B (all formulations), bupropion, aprepitant, metronidazole, and sulfonylurea and related antidiabetics (glimepiride, glipizide, glyburide, chlorpropamide, tolbutamide, repaglinide, nateglinide)
+  - Minor: levofloxacin and ondansetron
 
-No key warnings or contraindications data is available in this evidence pack — please refer to the package insert for this information.
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple completed Phase 2/3 trials and registry cohorts (L1 evidence) establish Cyclophosphamide-based conditioning (Bu/Cy) and post-transplant Cyclophosphamide (PTCy) as standard practice for AML transplant management, giving strong confidence in the mechanistic and clinical basis of this prediction — though it should be understood as confirming established practice rather than a novel indication.
+Cyclophosphamide is widely embedded in myeloid leukemia treatment through transplant conditioning, combination chemotherapy and PTCy, supported by multiple completed Phase 2/3 trials and a large body of cohort literature. However, most of this evidence is indirect: cyclophosphamide is part of a regimen rather than the tested variable, and no randomized trial isolates its contribution. Evidence also lacks a primary-label statement for this use in India.
 
 **To proceed, the following is needed:**
-- Mechanism of action (MOA) data from DrugBank to support formal safety linkage
-- TFDA/local label warnings and contraindications (currently unavailable — flagged as Blocking data gap)
-- Clinical review of the 481 catalogued drug interactions for relevance to conditioning/PTCy dosing regimens
-- Local market authorization and formulation/route data, since the drug is currently unmarketed in this jurisdiction
+- Package insert warnings and contraindications from India registrations (currently missing; this blocks formal safety screening)
+- Detailed mechanism-of-action data
+- Approved indication text for the Indian licences
+- Trials or analyses that isolate cyclophosphamide's contribution in myeloid leukemia
+- A monitoring plan for myelosuppression, bladder toxicity and drug interactions
+
+---
+
+## Other Predicted Indications (Brief)
+
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation | Note |
+|------|------|------|------|------|------|
+| 2 | Ganglioneuroblastoma | 99.43% | L3 | Research Question | Case reports only; the single trial (NCT07502287) is a CAR-NK study where cyclophosphamide is used for lymphodepletion. Neuroblastoma is already an original indication |
+| 3 | Vertebral anomalies and variable endocrine and T-cell dysfunction | 99.38% | L5 | Hold | No trials or literature; immunosuppressive agent could worsen T-cell dysfunction |
+| 4 | Retroperitoneal neoplasm | 99.37% | L4 | Research Question | Case reports and small series across diverse histologies; no registered trials |
+| 5 | Lymph node cancer | 99.31% | L1 | Proceed with Guardrails | Large Phase 3 trials (e.g., NCT00003782, n=5351) are mostly in node-positive breast cancer, which overlaps with an existing indication, so this is not a clearly new use |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

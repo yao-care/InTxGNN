@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Plerixafor
-parent: High Evidence (L1-L2)
-nav_order: 675
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 682
+evidence_level: L5
 indication_count: 7
 ---
 
 # Plerixafor
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **7**
 
 </div>
 
-# Plerixafor: From Stem Cell Mobilization to Myeloid Leukemia
+# Plerixafor: From Plasma Cell Myeloma to Indolent Plasma Cell Myeloma
 
 ## One-Sentence Summary
 
-Plerixafor is a CXCR4 antagonist approved as a hematopoietic stem cell mobilizer, used to collect stem cells before autologous transplantation in non-Hodgkin lymphoma and multiple myeloma. The TxGNN model predicts it may also act as a chemosensitizing agent in **myeloid leukemia** by disrupting the CXCR4-CXCL12 bone marrow niche interaction, with **30 clinical trials** and **20 publications** currently supporting this direction — though most trials are single-arm Phase 1/2 studies rather than confirmatory RCTs.
-
-> **Note on scope:** This evidence pack scored 7 candidate indications for Plerixafor. Six of them (indolent plasma cell myeloma, CMM7, pediatric leptomeningeal melanoma, epithelioid uveal melanoma, bronchitis, vulvar melanoma) have **no supporting clinical trials or literature** (Evidence Level L5, model prediction only) and are not detailed below. This report focuses on **myeloid leukemia**, the only candidate with substantive evidence.
+Plerixafor is a CXCR4 antagonist, best known as a hematopoietic stem cell mobiliser used with autologous transplantation in multiple myeloma and non-Hodgkin lymphoma.
+The TxGNN model predicts it may be effective for **indolent plasma cell myeloma**.
+Currently there are **0 clinical trials** and **0 publications** for this specific subtype, so the prediction rests on the model score alone.
 
 ---
 
@@ -43,67 +43,57 @@ Plerixafor is a CXCR4 antagonist approved as a hematopoietic stem cell mobilizer
 
 | Item | Content |
 |------|------|
-| Original Indication | Hematopoietic stem cell mobilization for autologous/allogeneic transplantation in non-Hodgkin lymphoma and multiple myeloma |
-| Predicted New Indication | Myeloid leukemia (chemosensitization) |
-| TxGNN Prediction Score | 99.02% |
-| Evidence Level | L2 |
-| India Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Original Indication | Plasma cell myeloma |
+| Predicted New Indication | Indolent plasma cell myeloma |
+| TxGNN Prediction Score | 99.97% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 5 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Plerixafor is a CXCR4 antagonist. It blocks the interaction between CXCR4 (expressed on hematopoietic and leukemic cells) and its ligand CXCL12/SDF-1α, which normally anchors these cells within the protective bone marrow niche. This mechanism is already clinically exploited to mobilize normal stem cells out of the marrow for collection prior to transplant.
+Plerixafor blocks the CXCR4 receptor and disrupts the CXCR4/CXCL12 axis. This axis helps myeloma cells home to and stay in the bone marrow, where the protective niche supports their survival. The drug also binds ACKR3, a related chemokine receptor.
 
-The same CXCR4-CXCL12 axis is implicated in acute myeloid leukemia (AML): leukemic blasts use it to remain in protective marrow niches, where they are shielded from chemotherapy and can develop drug resistance. The repurposing hypothesis is that Plerixafor can mobilize AML blasts out of these niches and into circulation, sensitizing them to concurrent chemotherapy ("chemosensitization") rather than treating the leukemia directly.
+Plasma cell myeloma and its indolent form are closely related diseases, so a link through this bone marrow retention mechanism is plausible. Plerixafor is already used in myeloma patients to mobilise stem cells, but that is a supportive-care use, not treatment of the myeloma itself.
 
-This is a mechanistically direct extension of the drug's known pharmacology (not a distant analogy), which is reflected in the substantial number of AML-focused trials — several combining Plerixafor with standard induction regimens (cytarabine/daunorubicin, decitabine, sorafenib, clofarabine) specifically to test this chemosensitization hypothesis.
+The high TxGNN score is probably inflated by the similarity between the new indication and the original one. No trials or publications specific to the indolent subtype were found, so the mechanistic argument has not been tested clinically.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00906945](https://clinicaltrials.gov/study/NCT00906945) | Phase 1/2 | Completed | 39 | Plerixafor + G-CSF chemosensitization in relapsed/refractory AML |
-| [NCT00512252](https://clinicaltrials.gov/study/NCT00512252) | Phase 1/2 | Completed | 52 | Plerixafor + mitoxantrone/etoposide/cytarabine (MEC) in relapsed/refractory AML; tested hypothesis that disrupting blast-marrow interaction enhances chemo cytotoxicity |
-| [NCT01435343](https://clinicaltrials.gov/study/NCT01435343) | Phase 1/2 | Completed | 55 | Fludarabine/idarubicin/cytarabine/G-CSF + Plerixafor induction in young patients with relapsed/refractory AML |
-| [NCT00990054](https://clinicaltrials.gov/study/NCT00990054) | Phase 1 | Completed | 36 | Dose-escalation of Plerixafor + cytarabine/daunorubicin ("7+3") in newly diagnosed AML |
-| [NCT00822770](https://clinicaltrials.gov/study/NCT00822770) | Phase 1/2 | Completed | 47 | Plerixafor + G-CSF with busulfan/fludarabine conditioning for allogeneic transplant in AML/MDS/CML |
-| [NCT00241358](https://clinicaltrials.gov/study/NCT00241358) | Phase 1/2 | Completed | 92 | AMD3100 (Plerixafor)-mobilized stem cells for HLA-matched sibling transplant in advanced hematologic malignancies |
-| [NCT01696461](https://clinicaltrials.gov/study/NCT01696461) | Phase 2 | Completed | 127 | Subcutaneous Plerixafor for HLA-matched sibling donor mobilization/transplant in hematologic malignancies |
-| [NCT01319864](https://clinicaltrials.gov/study/NCT01319864) | Phase 1 | Completed | 20 | Plerixafor as chemosensitizing agent with cytarabine/etoposide in pediatric relapsed acute leukemia/MDS |
-| [NCT01160354](https://clinicaltrials.gov/study/NCT01160354) | Phase 1/2 | Terminated | 22 | Plerixafor + clofarabine in untreated older AML with unfavorable prognostic factors; closed before Part 2 |
-| [NCT01352650](https://clinicaltrials.gov/study/NCT01352650) | Phase 1 | Completed | 71 | Decitabine + Plerixafor priming induction/postremission therapy in AML patients ≥60 years |
-
-*30 total trials identified; the remaining 20 (mostly stem cell mobilization/transplant pilot studies with terminated or unknown status) are lower relevance or grading-pending.*
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [29392425](https://pubmed.ncbi.nlm.nih.gov/29392425/) | 2018 | RCT (Phase 1-2) | Annals of Hematology | PLERIFLAG regimen (fludarabine/idarubicin/cytarabine/G-CSF + high-dose Plerixafor) in first early-relapsed/refractory AML |
-| [32697348](https://pubmed.ncbi.nlm.nih.gov/32697348/) | 2020 | RCT (Phase 1) | American Journal of Hematology | Sorafenib + G-CSF + Plerixafor in relapsed/refractory FLT3-ITD-mutated AML (n=28); targets stroma-leukemia resistance interactions |
-| [29724902](https://pubmed.ncbi.nlm.nih.gov/29724902/) | 2018 | RCT (Phase 1) | Haematologica | Decitabine + Plerixafor in newly diagnosed older AML (n=69); evaluated effect on leukemia stem cells |
-| [22308295](https://pubmed.ncbi.nlm.nih.gov/22308295/) | 2012 | Phase 1/2 | Blood | Foundational chemosensitization study: Plerixafor disrupts CXCR4/CXCL12-mediated blast-microenvironment interaction in relapsed/refractory AML (n=52) |
-| [32877869](https://pubmed.ncbi.nlm.nih.gov/32877869/) | 2020 | Systematic Review/Meta-analysis | Leukemia Research | Systematic review of Plerixafor + chemotherapy/HCT in acute leukemia across preclinical and clinical studies |
-| [39261603](https://pubmed.ncbi.nlm.nih.gov/39261603/) | 2024 | Review | Leukemia | Comprehensive review of CXCR4 as a therapeutic target in AML |
-| [27822339](https://pubmed.ncbi.nlm.nih.gov/27822339/) | 2016 | Review | World Journal of Stem Cells | Review of AML leukemia stem cell biology and therapeutic opportunities, including CXCR4 targeting |
-| [32079173](https://pubmed.ncbi.nlm.nih.gov/32079173/) | 2020 | Review | Biology | CXCR4 antagonists as stem cell mobilizers and therapy sensitizers for AML and glioblastoma |
-| [38024589](https://pubmed.ncbi.nlm.nih.gov/38024589/) | 2023 | Cohort/Case report | EJHaem | Concomitant multiple myeloma and CML case managed with daratumumab-based induction and autologous transplant |
-| [29140182](https://pubmed.ncbi.nlm.nih.gov/29140182/) | 2018 | Preclinical/mechanistic | Hematology (Amsterdam) | TGF-β1 and CXCL12/CXCR4 blockade modulate AML cell proliferation and chemosensitivity in stromal co-culture |
+Currently no related literature available.
+
+---
+
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 43308 | Celstemx 24mg Injection | Vial of 1.2 ml injection | Sayre Therapeutics Pvt Ltd |
+| 136994 | Mozifor Injection | Vial of 1.2 ml injection | Hetero Drugs Ltd |
+| 43149 | Celrixafor Injection | Vial of 1 injection | Celon Laboratories Ltd |
+| 142724 | Mostim Injection | Vial of 1.2 ml injection | Zydus Cadila |
+| 203215 | Stemfor Injection | Vial of 1.2 ml injection | Intas Pharmaceuticals Ltd |
+
+All five registrations are valid single-ingredient injectable products.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-level cautions flagged in the knowledge graph (not taken from product labelling):** thrombocytopenia, impaired renal function, and leukaemia.
 
-*(No structured warnings, contraindications, or clinical drug-drug interaction data were available in this evidence pack. The DDI query returned only pharmacological target annotations — CXCR4 and ACKR3 receptor binding — which describe the drug's mechanism rather than clinical interactions, and are reflected in the mechanism discussion above.)*
+Please refer to the package insert for full warnings, contraindications and drug interaction information.
 
 ---
 
@@ -112,14 +102,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The CXCR4-CXCL12 chemosensitization hypothesis in AML is mechanistically sound and supported by a substantial body of early-phase clinical evidence (multiple completed Phase 1/2 studies directly testing Plerixafor combined with standard AML regimens). However, no completed Phase 3 confirmatory trial exists, several key studies were terminated early, and — critically — the TFDA label/safety data gap (DG001, Blocking severity) prevents even an initial safety assessment. The drug is also not currently marketed in Taiwan/India.
+The prediction for indolent plasma cell myeloma is supported only by the model score, with no trials or publications for this subtype. Plerixafor's current myeloma use is supportive (stem cell mobilisation), not disease-modifying, and the high score is likely inflated by similarity to the original indication.
+
+Among the other TxGNN predictions for this drug, **myeloid leukaemia** has much stronger support. It has 25 registered trials (Phase 1 to Phase 2, several completed with 39 to 52 patients) of plerixafor as a chemosensitiser alongside cytarabine-based regimens, and 20 publications. These include a systematic review and Phase 1/2 studies. No Phase 3 or randomised efficacy data exist yet, so that indication reaches only evidence level L2 and is a research question, not a go decision.
 
 **To proceed, the following is needed:**
-- TFDA-approved package insert (warnings, contraindications) to clear the Blocking data gap (DG001)
-- Formal DrugBank/regulatory MOA documentation (DG002) to replace pharmacology-source mechanism data
-- Results from ongoing/recruiting trials (e.g., NCT06158828, NCT05088356) once available
-- Route compatibility and dosing-regimen assessment for the AML chemosensitization context (current approved use is stem cell mobilization only)
-- Given the six other TxGNN-predicted indications (myeloma, melanoma subtypes, bronchitis, CMM7) currently have zero supporting evidence (L5, model prediction only), they should remain deprioritized pending any emerging trial or literature signal
+- Clinical or preclinical data specific to indolent plasma cell myeloma, including disease-modifying (not stem cell mobilisation) endpoints
+- Package insert warnings and contraindications from the Indian product labels
+- Confirmation of the mechanism of action from a curated drug database
+- A review of whether the indolent-myeloma population could tolerate repeated dosing, given the cautions listed above
+- For the myeloid leukaemia direction, a randomised evaluation before any recommendation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

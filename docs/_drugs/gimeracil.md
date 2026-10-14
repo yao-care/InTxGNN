@@ -2,7 +2,7 @@
 layout: default
 title: Gimeracil
 parent: High Evidence (L1-L2)
-nav_order: 388
+nav_order: 392
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,15 +29,13 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-Using the drug-repurposing evidence pack, here is the evaluation report for **Gimeracil**, focused on its top-ranked predicted indication (Colonic Neoplasm), which is the only candidate with meaningful clinical/literature support (L1). The other 9 predicted indications (rank 2–10) are Hold/Research-Question stage with L4–L5 evidence and are summarized briefly at the end for completeness, per the evidence pack's decision staging.
-
----
-
 # Gimeracil: From Gastric Cancer to Colonic Neoplasm
 
 ## One-Sentence Summary
 
-Gimeracil is the DPD-inhibitor component of the S-1 combination (tegafur + gimeracil + oteracil), a fluoropyrimidine-based regimen whose proven efficacy is in gastric cancer. The TxGNN model predicts it may also be effective for **Colonic Neoplasm** (colorectal cancer), with **8 clinical trials** and **15 publications** currently supporting this direction — though the clinical evidence is attributable to the S-1 combination as a whole, not to Gimeracil as a standalone agent, and Gimeracil is not currently marketed in Taiwan.
+Gimeracil is a component of the S-1 combination (tegafur/gimeracil/oteracil), originally used to treat gastric cancer.
+The TxGNN model predicts it may be effective for **colonic neoplasm**, with **6 clinical trials** (2 of them Phase 3) and **12 retrieved publications**, mostly case reports and preclinical studies, supporting this direction.
+The clinical evidence is for the S-1 combination as a whole, not gimeracil alone.
 
 ---
 
@@ -45,23 +43,23 @@ Gimeracil is the DPD-inhibitor component of the S-1 combination (tegafur + gimer
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastric cancer (as a component of the S-1 combination; not individually registered in Taiwan) |
-| Predicted New Indication | Colonic Neoplasm (Colorectal Cancer) |
+| Original Indication | Gastric cancer (the approved indication text in the India licences is blank; this comes from the knowledge-graph indication list) |
+| Predicted New Indication | Colonic neoplasm |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L1 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Gimeracil alone is not available (Data Gap). Based on known information, Gimeracil is part of the S-1 combination (tegafur/gimeracil/oteracil), where it functions as a dihydropyrimidine dehydrogenase (DPD) inhibitor. By blocking DPD-mediated breakdown of 5-fluorouracil (the active metabolite of tegafur), Gimeracil raises and sustains intratumoral 5-FU concentrations, and its efficacy as part of S-1 in gastric cancer has been proven in multiple regulatory jurisdictions.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, gimeracil is the dihydropyrimidine dehydrogenase (DPD) inhibitor component of S-1. By inhibiting DPD, it slows the breakdown of 5-fluorouracil (5-FU, released from tegafur) and sustains 5-FU exposure.
 
-Gastric cancer and colonic neoplasm are both gastrointestinal adenocarcinomas that respond to fluoropyrimidine-based chemotherapy through the same core mechanism — thymidylate synthase inhibition potentiated by DPD blockade. This mechanistic overlap is precisely why S-1 has already been separately approved and extensively trialed for colorectal cancer in multiple countries (including large Phase 3 adjuvant and metastatic trials), independent of the TxGNN prediction.
+Gastric and colorectal cancers are both gastrointestinal tumours, and 5-FU-based therapy is a standard backbone in colorectal cancer. Sustained 5-FU exposure is therefore mechanistically relevant there. Gimeracil has also reportedly inhibited homologous recombination repair, which could add chemosensitising effects, but this finding is preclinical.
 
-The caveat is that the supporting clinical evidence below is generated with the *S-1 combination product*, not Gimeracil in isolation. Since Gimeracil is not marketed as a standalone drug in Taiwan and has no local approval record, any repurposing pathway would need to proceed via the combination product or with explicit bridging justification for the single component.
+An important caveat is that the benefit seen in trials belongs to the fixed-dose combination. It cannot be attributed to gimeracil independently.
 
 ---
 
@@ -69,14 +67,12 @@ The caveat is that the supporting clinical evidence below is generated with the 
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01918852](https://clinicaltrials.gov/study/NCT01918852) | Phase 3 | Completed | 161 | SALTO trial — randomized S-1 vs. capecitabine (± bevacizumab) as first-line therapy for metastatic colorectal cancer; direct head-to-head efficacy/safety evidence for S-1 (Grade A relevance). |
-| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | Phase 3 | Completed | 1535 | Large adjuvant RCT comparing UFT+leucovorin vs. TS-1 (S-1) in Stage III colon cancer, with gene-expression predictive-factor analysis (Grade A relevance). |
-| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | Phase 3 | Unknown | 1191 | SOX (S-1+oxaliplatin) vs. XELOX as adjuvant chemotherapy for Stage III colorectal cancer; large sample size but results not yet publicly reported. |
-| [NCT02618356](https://clinicaltrials.gov/study/NCT02618356) | Phase 2 | Unknown | 82 | Raltitrexed + S-1 for metastatic colorectal cancer after failure of standard chemotherapy; primary endpoint was progression-free survival. |
-| [NCT00974389](https://clinicaltrials.gov/study/NCT00974389) | Phase 2 | Unknown | 40 | S-1 + bevacizumab in unresectable/recurrent colorectal cancer after prior irinotecan/oxaliplatin failure. |
-| [NCT00524706](https://clinicaltrials.gov/study/NCT00524706) | Phase 1/2 | Unknown | 42 | S-1 + oral leucovorin + oxaliplatin (SOL regimen) in untreated metastatic colorectal cancer; early-phase activity/toxicity data. |
-| [NCT02216149](https://clinicaltrials.gov/study/NCT02216149) | Phase 2 | Terminated | 20 | Evaluated cardiac microvascular safety of S-1/capecitabine + oxaliplatin in metastatic GI adenocarcinoma; not an efficacy trial, low relevance. |
-| [NCT06255379](https://clinicaltrials.gov/study/NCT06255379) | Phase 2 | Not yet recruiting | 52 | Planned trial of fruquintinib + S-1 as third-line therapy for advanced metastatic CRC; no data available yet. |
+| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | Phase 3 | Completed | 1535 | Adjuvant S-1 (TS-1) vs UFT + leucovorin in stage III colon cancer. Active-comparator design, so it informs comparative efficacy rather than superiority over placebo |
+| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | Phase 3 | Unknown | 1191 | SOX (oxaliplatin + S-1) vs XELOX as adjuvant chemotherapy in stage III colorectal cancer. Population and endpoints should be verified |
+| [NCT00974389](https://clinicaltrials.gov/study/NCT00974389) | Phase 2 | Unknown | 40 | S-1 + bevacizumab in unresectable or recurrent colorectal cancer after failure of prior chemotherapy |
+| [NCT02618356](https://clinicaltrials.gov/study/NCT02618356) | Phase 2 | Unknown | 82 | Raltitrexed + S-1 in metastatic colorectal cancer after standard chemotherapy failure; primary endpoint is median progression-free survival |
+| [NCT06255379](https://clinicaltrials.gov/study/NCT06255379) | Phase 2 | Not yet recruiting | 52 | Fruquintinib + tegafur/gimeracil/oteracil as third-line therapy in advanced metastatic colorectal cancer (single-arm; no outcome data yet) |
+| [NCT02216149](https://clinicaltrials.gov/study/NCT02216149) | Phase 2 | Terminated | 20 | S-1 or capecitabine with oxaliplatin, assessing coronary artery blood flow (a cardiac safety endpoint, not efficacy) |
 
 ---
 
@@ -84,57 +80,47 @@ The caveat is that the supporting clinical evidence below is generated with the 
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [41724114](https://pubmed.ncbi.nlm.nih.gov/41724114/) | 2026 | Real-world cohort | European Journal of Cancer | Population-based study of S-1 safety/feasibility as adjuvant therapy after capecitabine-induced hand-foot syndrome or cardiotoxicity in colon cancer. |
-| [21084813](https://pubmed.ncbi.nlm.nih.gov/21084813/) | 2010 | Cohort | Gan To Kagaku Ryoho | Risk-factor analysis for Grade 3–4 hematologic toxicity in 87 patients receiving S-1 + irinotecan for advanced/recurrent colonic cancer (16.1% severe toxicity rate). |
-| [21875473](https://pubmed.ncbi.nlm.nih.gov/21875473/) | 2011 | Cohort | Zhonghua Zhong Liu Za Zhi | Efficacy and adverse-effect profile of oxaliplatin + S-1 in postoperative colorectal cancer patients. |
-| [20841935](https://pubmed.ncbi.nlm.nih.gov/20841935/) | 2010 | Cohort/PK study | Gan To Kagaku Ryoho | Pharmacokinetics of S-1 in a mouse model of peritoneal metastasis from colon cancer. |
-| [20811661](https://pubmed.ncbi.nlm.nih.gov/20811661/) | 2010 | Preclinical/Xenograft | Oncology Reports | Irinotecan overcomes 5-FU resistance in colon cancer xenografts via S-1-mediated thymidylate synthase down-regulation. |
-| [18630468](https://pubmed.ncbi.nlm.nih.gov/18630468/) | 2008 | Case Report | Anticancer Research | Complete response maintained with S-1 + CPT-11 in hepatic metastases of colon cancer. |
-| [29394831](https://pubmed.ncbi.nlm.nih.gov/29394831/) | 2017 | Case Report | Gan To Kagaku Ryoho | Two-stage hepatectomy following SOX (S-1+oxaliplatin) + panitumumab downstaging for irresectable colorectal liver metastases. |
-| [29483452](https://pubmed.ncbi.nlm.nih.gov/29483452/) | 2018 | Case Report | Gan To Kagaku Ryoho | Transverse colon cancer with liver metastasis and portal vein tumor thrombosis effectively treated with combination chemotherapy including S-1-based regimens. |
-| [32936722](https://pubmed.ncbi.nlm.nih.gov/32936722/) | 2021 | Case Report | J Oncol Pharm Practice | Hypertriglyceridemia induced by S-1 in a colorectal cancer patient — a distinct safety signal. |
-| [28414195](https://pubmed.ncbi.nlm.nih.gov/28414195/) | 2017 | Case Report | Eur J Dermatol | TS-1 (tegafur/gimeracil/oteracil)-induced erythroderma with extensive mucosal involvement and hand-foot syndrome. |
+| [20811661](https://pubmed.ncbi.nlm.nih.gov/20811661/) | 2010 | Preclinical xenograft study | Oncol Rep | Irinotecan combined with S-1 overcame 5-FU resistance in colon cancer xenografts by down-regulating thymidylate synthase |
+| [20841935](https://pubmed.ncbi.nlm.nih.gov/20841935/) | 2010 | Pharmacokinetic study | Gan To Kagaku Ryoho | Pharmacokinetics of S-1 in a mouse model of colon cancer peritoneal metastasis |
+| [21084813](https://pubmed.ncbi.nlm.nih.gov/21084813/) | 2010 | Retrospective analysis | Gan To Kagaku Ryoho | Risk factors for grade 3–4 haematological toxicity in 87 patients with advanced or recurrent colonic cancer on S-1 + irinotecan (rate 16.1%) |
+| [18630468](https://pubmed.ncbi.nlm.nih.gov/18630468/) | 2008 | Case report | Anticancer Res | Complete response maintained with S-1 + CPT-11 in colon cancer hepatic metastases |
+| [29394831](https://pubmed.ncbi.nlm.nih.gov/29394831/) | 2017 | Case report | Gan To Kagaku Ryoho | SOX + panitumumab downstaging allowed two-stage hepatectomy for unresectable colorectal liver metastases |
+| [32936722](https://pubmed.ncbi.nlm.nih.gov/32936722/) | 2021 | Case report / review | J Oncol Pharm Pract | S-1-induced hypertriglyceridaemia |
+| [28414195](https://pubmed.ncbi.nlm.nih.gov/28414195/) | 2017 | Case report | Eur J Dermatol | TS-1-induced erythroderma with extensive mucosal involvement and hand-foot syndrome |
+
+No randomized or systematic-review literature was retrieved. The publications are preclinical studies, a retrospective analysis, and case reports, and several focus on adverse events.
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-Gimeracil currently has **no marketing authorization in Taiwan** (`market_status: Not marketed`, 0 registrations, no license records available). No approved product, dosage form, or labeled indication exists locally for this drug as a standalone entity or within an S-1 combination product.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 228787 | Tegoyes 4.35mg/11.8mg/15mg Capsule (Torrent Pharmaceuticals Ltd) | Strip of 7 capsules | Not stated in the available data |
+| Registration No. 226940 | Tegoyes 5.8mg/15.8mg/20mg Capsule (Torrent Pharmaceuticals Ltd) | Strip of 7 capsules | Not stated in the available data |
 
 ---
 
 ## Cytotoxicity
 
-Gimeracil, as the DPD-inhibitor component of the cytotoxic fluoropyrimidine combination S-1, is classified as an antineoplastic agent.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (fluoropyrimidine-potentiating agent; DPD inhibitor component of the S-1 regimen) |
-| Myelosuppression Risk | Moderate — literature reports a 16.1% rate of Grade 3–4 hematologic toxicity with S-1 + irinotecan in colonic cancer patients (PMID 21084813) |
-| Emetogenicity Classification | Low to moderate (consistent with fluoropyrimidine-class regimens) |
-| Monitoring Items | CBC with differential, liver and renal function, serum triglycerides (per reported hypertriglyceridemia signal), skin/mucosal assessment (per reported erythroderma and hand-foot syndrome) |
-| Handling Protection | Standard cytotoxic drug handling precautions apply, as Gimeracil is administered only as part of a cytotoxic combination regimen |
+| Cytotoxicity Classification | Conventional cytotoxic (fluoropyrimidine class; gimeracil is a DPD inhibitor that boosts 5-FU exposure) |
+| Myelosuppression Risk | Medium. In one retrospective series with S-1 + irinotecan, grade 3–4 haematological toxicity occurred in 16.1% of patients |
+| Emetogenicity Classification | Low to medium |
+| Monitoring Items | CBC with differential, liver and renal function, electrolytes; watch for hand-foot syndrome, skin and mucosal reactions, and lipid abnormalities |
+| Handling Protection | Follow cytotoxic drug handling regulations. Please refer to the package insert warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-No formal drug label warnings, contraindications, or drug-drug interaction data are currently available for Gimeracil (label review and DDI database queries returned no results). Please refer to the package insert for official safety information.
+The only safety signals available come from the retrieved literature, which describes S-1-associated adverse events:
+- Hand-foot syndrome and erythroderma with mucosal involvement (case report)
+- Hypertriglyceridaemia (case report)
+- Grade 3–4 haematological toxicity in 16.1% of patients on S-1 + irinotecan
 
-**Adverse events reported in the literature** (not formal label warnings, but noted for awareness):
-- Hypertriglyceridemia associated with S-1 administration (PMID 32936722)
-- Erythroderma with extensive mucosal involvement and hand-foot syndrome (PMID 28414195)
-- Grade 3–4 hematologic toxicity in 16.1% of patients receiving S-1 + irinotecan (PMID 21084813)
-
----
-
-## Other Predicted Indications (Lower Priority)
-
-The remaining 9 TxGNN-predicted indications for Gimeracil all fall at L4–L5 evidence levels with **Hold** or **Research Question** status, and are not recommended for near-term action:
-
-- **Cardia cancer** (L4, Research Question) — mechanistically plausible (gastric adenocarcinoma subtype) but supported only by a single case report.
-- **Rectosigmoid junction neoplasm** (L5, Research Question) — anatomically/histologically adjacent to colonic neoplasm; no direct trial or literature evidence yet.
-- **Cecum villous adenoma, malignant gastric granular cell tumor, lipoma of colon, cecum neuroendocrine tumor G1, colonic lymphangioma, colon leiomyoma, gastric lymphoma** (all L5, Hold) — benign, non-chemotherapy-responsive, or mechanistically unrelated conditions with no supporting clinical trial or literature evidence; likely low-specificity artifacts of the knowledge graph.
+No data on drug interactions or knowledge-graph contraindications were found. For warnings and contraindications, please refer to the package insert.
 
 ---
 
@@ -143,13 +129,14 @@ The remaining 9 TxGNN-predicted indications for Gimeracil all fall at L4–L5 ev
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple Phase 3 RCTs (including two large, completed trials: SALTO, n=161, and the UFT+LV vs. TS-1 adjuvant trial, n=1535) directly support the efficacy of the S-1 combination — which contains Gimeracil — in colorectal cancer. However, this evidence is attributable to the combination product, not Gimeracil as a standalone agent, and Gimeracil has no market authorization or safety labeling in Taiwan.
+Two Phase 3 trials, including a completed randomized trial of 1535 patients, support S-1 regimens in colon and colorectal cancer, and the mechanism (sustained 5-FU exposure via DPD inhibition) is plausible. However, the evidence applies to the S-1 combination, not gimeracil alone. The dataset has no India label text, and the other predicted indications (rank 2–10) have little or no supporting evidence.
 
 **To proceed, the following is needed:**
-- TFDA-approved package insert data (warnings, contraindications) — currently a Blocking data gap
-- Formal mechanism-of-action documentation for Gimeracil specifically (via DrugBank or manufacturer data) — currently a High-severity data gap
-- Clarification on whether the repurposing pathway targets Gimeracil alone or the full S-1 combination product, since all supporting clinical evidence is combination-based
-- A regulatory strategy given the drug's current unmarketed status in Taiwan
+- India package insert warnings, contraindications and approved indications (currently missing, and a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Confirmation of outcomes from NCT00660894 and the status and results of NCT03448549
+- Clarification of how the Tegoyes products (strengths and dosing) relate to the trial regimens
+- A safety monitoring plan, including DPD deficiency considerations and haematological, skin and lipid monitoring
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Clindamycin
 parent: Model Prediction Only (L5)
-nav_order: 193
+nav_order: 194
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,87 +29,84 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Clindamycin: From Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
+# Clindamycin: From Bacterial Infections and Acne to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Clindamycin is a lincosamide antibacterial conventionally used against anaerobic and gram-positive bacterial infections; no locally registered original-indication text is available in this evidence pack. The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis**, but this direction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model-derived (L5) signal with no direct biological or clinical corroboration.
-
----
+Clindamycin is a lincosamide antibiotic originally used for bacterial infections (streptococcal, staphylococcal and anaerobic infections), bacterial vaginosis and acne.
+The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**, but **no clinical trials and no publications** currently support this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from local registration data (drug not marketed in India). Internationally, Clindamycin is used for anaerobic and gram-positive bacterial infections. |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
+| Original Indication | Acne, streptococcal and staphylococcal infections, anaerobic bacterial infections, bacterial vaginosis (the India licence records contain no approved indication text) |
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Clindamycin is not available in this evidence pack. Based on general pharmacological knowledge, Clindamycin inhibits bacterial protein synthesis by binding the 50S ribosomal subunit and is effective against anaerobic and gram-positive organisms; its established uses span intra-abdominal, skin/soft-tissue, and bacterial vaginosis-type infections.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, clindamycin is a lincosamide antibiotic that inhibits bacterial protein synthesis. Its efficacy in Gram-positive and anaerobic bacterial infections is established, so any benefit would be limited to a bacterial component of an eye surface disease.
 
-Punctate epithelial keratoconjunctivitis, however, is predominantly a viral (e.g., adenoviral), dry-eye, or immune-mediated condition rather than a typical bacterial infection. Clindamycin has no antiviral activity, so there is no straightforward mechanistic bridge between its known pharmacology and this predicted indication.
+The link to the predicted indication is weak. Punctate epithelial keratoconjunctivitis is often viral or inflammatory rather than bacterial, so an antibacterial mechanism is not established. The very high score (99.97%) is most likely a graph-proximity artefact of the knowledge graph rather than evidence of real efficacy.
 
-The evidence pack's own rationale for this candidate explicitly flags the link as weak: it describes the association as a statistical artifact of the knowledge-graph embedding ("KG embedding 之統計關聯") rather than a biologically grounded hypothesis. Given the absence of any supporting clinical trials or literature (evidence level L5), this prediction should be treated as exploratory only and not acted upon without independent mechanistic or preclinical validation.
-
----
+Other predictions for this drug show the same pattern. Exposure keratitis has only indirect literature on bacterial keratitis. Epidemic keratoconjunctivitis is adenoviral, and clindamycin has no antiviral activity. Postmenopausal atrophic vaginitis is driven by oestrogen deficiency. "Non-human animal disease" is not a usable human indication. Neurotrophic keratopathy is not primarily bacterial.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available for the lead prediction (punctate epithelial keratoconjunctivitis).
 
----
+For the second-ranked prediction, exposure keratitis, only indirect papers were retrieved. None addresses exposure keratitis or clindamycin treatment:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [24244625](https://pubmed.ncbi.nlm.nih.gov/24244625/) | 2013 | Retrospective cohort | PLoS One | Hospital review of *S. aureus* keratitis comparing MRSA and MSSA isolates (demographics, antibiotic susceptibility, outcomes) |
+| [22880135](https://pubmed.ncbi.nlm.nih.gov/22880135/) | 2012 | Retrospective cohort | PLoS One | Prevalence, clinical features and antibiotic susceptibility of ocular MRSA vs MSSA infections |
+| [11581057](https://pubmed.ncbi.nlm.nih.gov/11581057/) | 2001 | Case report | Ophthalmology | Contact lens-related *Bacillus cereus* keratitis and ulcer linked to a contaminated lens case |
+| [42763505](https://pubmed.ncbi.nlm.nih.gov/42763505/) | 2026 | Case report | IDCases | Vision-threatening ocular toxoplasmosis involving the fovea, diagnosed by intraocular fluid mNGS (not relevant to clindamycin use here) |
 
 ## India Market Information
 
-Clindamycin currently holds no registrations in the India market (market status: Not Marketed; total registrations: 0). No product, dosage form, or approved-indication data is available for local reference.
+Twenty valid single-ingredient licences are registered. The licence records contain no approved indication text. The main authorizations are:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 58772 | Dalacin C 150mg Capsule (Pfizer Ltd) | Strip of 10 capsules | Not recorded |
+| 63474 | Dalcap 150mg Capsule (Torrent Pharmaceuticals Ltd) | Strip of 4 capsules | Not recorded |
+| 35710 | Clid 300mg Injection (Bennet Pharmaceuticals Limited) | Vial of 4 ml injection | Not recorded |
+| 106481 | Humclid 600mg Injection (Medic Biologicals And Pharmaceuticals Pvt Ltd) | Vial of 4 ml injection | Not recorded |
+| 141344 | Mazocan Suppository (Canvarzys Healthcare Ltd) | Packet of 3 suppositories | Not recorded |
+
+Available routes include oral capsules and tablets, injectables and vaginal capsules or suppositories. No ophthalmic formulation appears among the registrations.
 
 ## Safety Considerations
 
-Drug-specific labeled warnings and contraindications are not yet available in this evidence pack; please refer to the official package insert for that information.
+- **Contraindications (from the knowledge graph, not label text)**: liver failure, sunburn, Crohn disease, inflammatory bowel disease, Crohn's colitis, ulcerative colitis, atopic eczema/dermatitis, exfoliative dermatitis, diarrhoeal disease, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, vulvovaginal candidiasis.
+- **Drug Interactions**: 320 interactions are recorded. Moderate-level interactions include balsalazide, clarithromycin, picosulfuric acid, attapulgite and kaolin. Others are of unknown severity, including amphotericin B, aspirin, amoxicillin, bupropion, pantoprazole, metformin, omeprazole, sucralfate, vancomycin and morphine.
 
-**Drug Interactions** (from DDI database, 320 total interactions on file for Clindamycin; key Moderate-level interactions shown below):
-
-| Interacting Drug | Level | Source |
-|------|------|--------|
-| Balsalazide | Moderate | ddinter |
-| Clarithromycin | Moderate | ddinter |
-| Picosulfuric acid | Moderate | ddinter |
-| Attapulgite | Moderate | ddinter |
-| Kaolin | Moderate | ddinter |
-
-An additional large set of interactions (e.g., Amphotericin B, Acetylsalicylic acid, Amoxicillin, Bupropion, Pantoprazole, Glimepiride, Doxycycline, Clotrimazole, Morphine, Metformin, Omeprazole, Sucralfate, Rosiglitazone, Lansoprazole, Vancomycin) is on file but classified with "Unknown" severity level by the source database — these should be reviewed individually before any clinical use is considered.
-
----
+Package insert warnings and contraindications were not obtained. Please refer to the package insert for full safety information. Clindamycin is also a well-known risk factor for *C. difficile* infection.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication (Punctate Epithelial Keratoconjunctivitis) has no clinical trial or literature support and is explicitly noted in the underlying rationale as a weak, mechanistically unsupported statistical association (evidence level L5). Additionally, a Blocking-severity data gap (missing local label warnings/contraindications, DG001) prevents this candidate from entering safety pre-screening (S1) at all.
+The prediction is supported only by a model score, with no trials or literature, and the proposed disease is often viral or inflammatory, so an antibacterial mechanism is not plausible. The knowledge graph also flags several gastrointestinal and dermatological contraindications, and there is no ophthalmic formulation registered in India.
 
 **To proceed, the following is needed:**
-- Local label warnings and contraindications (DG001 — Blocking; required before any S1 safety review)
-- Mechanism-of-action data for Clindamycin (DG002 — High priority; needed to properly assess mechanistic plausibility)
-- Direct preclinical or clinical efficacy data for Clindamycin specifically in punctate epithelial keratoconjunctivitis (none currently exists)
-- Consider re-evaluating other ranked candidates in this evidence pack with stronger indirect support — e.g., **exposure keratitis** (rank 2, evidence level L4, 4 supporting publications on causative pathogens including MRSA) — as a potentially more tractable repurposing direction than the top-ranked candidate
-- Note: rank 3 ("non-human animal disease") appears to be a data-quality issue (a generic KG disease-category label, not a valid human indication) and should be excluded from further candidate consideration
+- Package insert warnings and contraindications from the India regulatory source (currently blocking safety screening)
+- Mechanism of action data from DrugBank
+- Evidence that a bacterial component exists in punctate epithelial keratoconjunctivitis, or a re-ranking toward better-supported ocular bacterial indications (for example bacterial keratitis)
+- Assessment of ocular route feasibility and formulation, since only oral, injectable and vaginal products are registered
+- Exclusion of non-actionable terms ("non-human animal disease") and name-matching false positives (epidemic keratoconjunctivitis) from the candidate list
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

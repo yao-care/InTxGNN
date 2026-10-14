@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Enoxaparin
-parent: Moderate Evidence (L3-L4)
-nav_order: 304
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 307
+evidence_level: L5
 indication_count: 1
 ---
 
 # Enoxaparin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,103 +29,78 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Enoxaparin: From Venous Thromboembolism to Thrombophilia due to Protein C Deficiency (Autosomal Recessive)
+# Enoxaparin: From Pulmonary Embolism and Related Coagulation Disorders to Thrombophilia due to Protein C Deficiency (Autosomal Recessive)
 
 ## One-Sentence Summary
 
-Enoxaparin is a low molecular weight heparin (LMWH) widely used for the prevention and treatment of venous thromboembolism (VTE) and acute coronary syndromes.
-The TxGNN model predicts it may be effective for **Thrombophilia due to Protein C Deficiency, Autosomal Recessive**,
-with **no registered clinical trials** and **no published literature** currently available for this specific indication. The mechanistic rationale, however, is strong and well-recognised by hematology guidelines.
-
----
+Enoxaparin is a low-molecular-weight heparin originally used for thrombosis-related conditions such as pulmonary embolism, disseminated intravascular coagulation and purpura fulminans.
+The TxGNN model predicts it may be effective for **thrombophilia due to protein C deficiency, autosomal recessive**,
+but currently there are **no registered clinical trials and no publications** in the compiled data supporting this specific prediction, so the evidence rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Venous thromboembolism (DVT/PE) prevention and treatment; acute coronary syndromes |
-| Predicted New Indication | Thrombophilia due to Protein C Deficiency, Autosomal Recessive |
+|------|------|
+| Original Indication | Pulmonary embolism, disseminated intravascular coagulation, purpura fulminans, acquired purpura fulminans (from the knowledge graph; no approved indication text is recorded in the India licence data) |
+| Predicted New Indication | Thrombophilia due to protein C deficiency, autosomal recessive |
 | TxGNN Prediction Score | 99.58% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Enoxaparin is a low molecular weight heparin that exerts its anticoagulant effect by binding to and activating **Antithrombin III (AT-III)**, which in turn strongly inhibits **Factor Xa** (anti-Xa activity) and, to a lesser extent, **Thrombin (Factor IIa)**. Although detailed MOA data was not retrieved from DrugBank in this evidence pack, Enoxaparin's pharmacology is extensively characterised in the literature: its anti-Xa to anti-IIa ratio of approximately 3.8:1 distinguishes it from unfractionated heparin and confers more predictable anticoagulant kinetics.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, enoxaparin is a low-molecular-weight heparin that potentiates antithrombin and mainly inhibits factor Xa. This reduces thrombin generation and so limits clot formation.
 
-**Autosomal recessive Protein C deficiency** creates a profoundly hypercoagulable state. Protein C, once activated by thrombin bound to thrombomodulin, normally cleaves and inactivates **Factor Va and Factor VIIIa**, the two critical co-factors that amplify thrombin generation. Without Protein C, this brake is absent, resulting in unchecked thrombin formation and a high risk of life-threatening thrombosis in infancy. The complementary pathway is direct:
+In severe (homozygous or compound heterozygous) protein C deficiency, the protein C anticoagulant pathway is lost and thrombin generation goes unchecked. This typically presents as neonatal purpura fulminans. Enoxaparin's existing knowledge-graph indications include purpura fulminans and acquired purpura fulminans, which are closely related protein C pathway disorders. This overlap makes the prediction mechanistically coherent.
 
-> Protein C deficiency → ↑ Factor Va / VIIIa → ↑ Thrombin generation → Thrombosis
-> ← **[Enoxaparin intervenes via anti-Xa / anti-IIa inhibition]**
-
-By blocking Factor Xa upstream and suppressing Thrombin directly, Enoxaparin compensates for the lost Protein C anticoagulant activity at the downstream effector level. This mechanistic rationale is recognised in ISTH and ASH guidelines for the management of hereditary thrombophilia, where LMWH is used as a bridge or long-term maintenance therapy. It is important to note that Enoxaparin **does not restore Protein C function itself**; in severe homozygous neonates, Protein C Concentrate (PCC) or fresh frozen plasma (FFP) remains the primary intervention, with LMWH serving an adjunctive and prophylactic role.
-
----
+Two caveats apply. The mechanism-of-action field is missing, and the TxGNN score is a computational prediction only. No trials or publications were supplied for this specific indication, so clinical use in protein C deficiency cannot be verified from the available data.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Enoxaparin in thrombophilia due to Protein C deficiency, autosomal recessive.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for this specific indication.
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-Enoxaparin is currently **not marketed in India**. No registered product licences were found in the regulatory database at the time of this report (data cut-off: 2026-04-04).
+Enoxaparin has 20 valid single-ingredient registrations and no cancelled ones. Approved indication text is not recorded for any of them. The first five are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 74006 | Encoxel 40 Injection | Prefilled syringe, 0.4 ml injection | Not recorded |
+| 188112 | Renoxa 60mg Injection | Vial, 1 ml injection | Not recorded |
+| 80787 | Enoxijet 60 Injection | Prefilled syringe, 0.6 ml injection | Not recorded |
+| 138259 | Macparin 60mg Injection | Vial, 0.6 ml injection | Not recorded |
+| 191232 | RB 40mg Injection | Vial, 1 injection | Not recorded |
 
 ## Safety Considerations
 
-**Drug Interactions:** Enoxaparin has **174 known drug interactions** in the DDInter database. The following major and selected moderate interactions are clinically most relevant:
-
-| Interacting Drug | Severity | Clinical Note |
-|-----------------|----------|---------------|
-| Acetylsalicylic acid (Aspirin) | Major | Combined antiplatelet + anticoagulant; significantly elevated bleeding risk |
-| Abciximab | Major | GP IIb/IIIa inhibitor; additive haemorrhagic risk |
-| Alteplase | Major | Thrombolytic agent; concurrent use markedly increases bleeding |
-| Ibuprofen | Major | NSAID-mediated platelet inhibition + GI bleeding risk |
-| Ketorolac | Major | High-risk NSAID; combination generally contraindicated |
-| Acalabrutinib | Major | BTK inhibitor; additive bleeding risk, especially intracranial |
-| Deferasirox | Major | Iron chelator; increased bleeding and GI adverse events |
-| Ibritumomab tiuxetan | Major | Radioimmunotherapy; myelosuppression compounds bleeding risk |
-| Tositumomab (I-131) | Major | Radioimmunotherapy; additive haemorrhagic risk |
-| Trastuzumab emtansine | Major | ADC with thrombocytopenia risk; additive with anticoagulants |
-| Dexfenfluramine | Moderate | Serotonergic agents may mildly alter platelet function |
-| Sugammadex | Moderate | Theoretical displacement of heparin from plasma proteins |
-| Iodide I-131 / I-123 | Moderate | Monitor for altered biodistribution |
-| Aliskiren | Moderate | Additive hypotensive / renal effects in high-risk patients |
-| Diclofenac (topical) | Moderate | Low systemic absorption, but monitor in high-dose application |
-
-> **Note:** Formal warnings and contraindications (e.g., active major bleeding, heparin-induced thrombocytopenia history) could not be retrieved from the package insert in this evidence pack. Please refer to the official prescribing information for the complete safety profile.
-
----
+- **Contraindications (knowledge-graph associations, not label text)**: liver failure, haematologic disease, thrombocytopenia, heparin-induced thrombocytopenia, blood coagulation disease, haemophilia, antithrombin III deficiency, Glanzmann thrombasthenia, qualitative platelet defect, intracranial or intracerebral haemorrhage, placental abruption, active peptic ulcer disease, ulcerative colitis, inflammatory bowel disease, biliary tract disease, obstructive jaundice, infective endocarditis (including subacute bacterial endocarditis), retinal disease (including diabetic and hypertensive retinopathy, retinitis, diabetic cataract), osteoporosis (including postmenopausal), and arteriosclerosis obliterans.
+- **Drug Interactions**: 174 interactions are recorded. Major ones among the 20 listed include:
+  - Antiplatelet and anti-inflammatory drugs: acetylsalicylic acid, ibuprofen, ketorolac, abciximab
+  - Thrombolytic: alteplase
+  - Other drugs: deferasirox, acalabrutinib, trastuzumab emtansine, ibritumomab tiuxetan, tositumomab
+  
+  Moderate interactions include dexfenfluramine, fenfluramine, sibutramine, sugammadex, aliskiren, radioactive iodide (I-123 and I-131) and topical diclofenac. Most major interactions involve additive bleeding risk.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic link between Enoxaparin and autosomal recessive Protein C deficiency thrombophilia is pharmacologically sound and complementary—Enoxaparin's downstream inhibition of Factor Xa and Thrombin directly compensates for the absent Protein C anticoagulant brake. However, no clinical trials or indexed publications were identified for this precise indication, placing current evidence at **L4 (mechanistic/preclinical reasoning only)**. Off-label use of LMWH in hereditary thrombophilia is guideline-acknowledged but not systematically studied under this rare disease classification.
+The prediction score is high and the mechanism is plausible, given the link to purpura fulminans. However, there are no clinical trials or publications for this indication (Evidence Level L5). Package insert warnings and contraindications are also missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
-
-- **Broader literature search:** Re-query PubMed/EMBASE using broader terms (e.g., "LMWH + Protein C deficiency", "hereditary thrombophilia + enoxaparin") to capture evidence not indexed under the OMIM/ORDO disease name
-- **Guideline review:** Retrieve ISTH, ASH, and EHA guidelines on anticoagulation in Protein C deficiency to document current standard-of-care role of LMWH
-- **Package insert retrieval:** Download and parse Enoxaparin's official prescribing information (FDA/EMA label) to fill the critical DG001 safety gap (warnings, contraindications)
-- **MOA documentation:** Query DrugBank API (DB01225) to formally document mechanism of action and fill DG002
-- **Comparator assessment:** Evaluate availability of Protein C Concentrate in the target market, as this determines whether Enoxaparin would serve as a primary or bridging therapy
-- **Rare disease registry check:** Search EURODIS, Orphanet, and national rare disease registries for case series or real-world data on anticoagulation strategies in this population
-- **India registration pathway:** As Enoxaparin is not currently marketed in India, assess regulatory pathway (new drug application or orphan designation) before any clinical development can be initiated
+- Package insert warnings and contraindications from the India Pharma website
+- Mechanism of action data from DrugBank
+- A literature and trial search for enoxaparin or low-molecular-weight heparin in severe congenital protein C deficiency and neonatal purpura fulminans
+- A bleeding-risk assessment that accounts for the major drug interactions and the contraindication associations above
+- Confirmation of the approved indications on the India licences
+- Route and formulation compatibility assessment for the target population, including neonates
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

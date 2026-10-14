@@ -2,7 +2,7 @@
 layout: default
 title: Potassium Nitrate
 parent: Model Prediction Only (L5)
-nav_order: 685
+nav_order: 692
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,74 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Potassium Nitrate: From No Established Indication to Meningococcal Infection (Predicted)
+# Potassium Nitrate: From Dental Hypersensitivity Products to Meningococcal Infection
 
 ## One-Sentence Summary
 
-Potassium nitrate (DB11090) has no recorded therapeutic indication and is not a marketed pharmaceutical product in the current registry. TxGNN predicts potential efficacy against **meningococcal infection** (score 99.61%) and, as a secondary candidate, **sclerosing cholangitis** (score 99.21%), but **neither prediction is supported by any clinical trial or published literature**, and the evidence pack itself flags the mechanistic link as likely spurious.
-
----
+Potassium nitrate is marketed in India as an ingredient in dental gels and toothpastes. The TxGNN model predicts it may be effective for **meningococcal infection**, but **no clinical trials and no publications** currently support this prediction. It rests on a model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved indication on record (compound is not established as a systemic drug) |
+| Original Indication | Not recorded (no approved indication text in the registrations) |
 | Predicted New Indication | Meningococcal infection |
 | TxGNN Prediction Score | 99.61% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for potassium nitrate. It is not a marketed pharmaceutical in this registry, and the evidence pack contains no clinical indication history to compare against the predicted new use.
+Currently, detailed mechanism of action data is not available. Based on the registrations, potassium nitrate is a single-ingredient component of oral-care products (dental gels and toothpastes) in India. No original indication is recorded for it.
 
-Based on the limited public information available, potassium nitrate (KNO₃) is best known for non-therapeutic uses — a desensitizing agent in toothpaste and a food preservative (E252) — rather than as a systemic anti-infective or immunomodulatory agent. There is no known pharmacological pathway connecting it to meningococcal infection or to sclerosing cholangitis.
+One speculative rationale is that potassium nitrate is an inorganic nitrate salt. It can be reduced to nitrite and then to nitric oxide (NO), and NO and related reactive nitrogen species have general antimicrobial activity. This is not specific to *Neisseria meningitidis* and is not supported by any data compiled for this report.
 
-The evidence pack's own mechanistic assessment concludes that both predictions most likely reflect **knowledge-graph topological similarity rather than genuine biological plausibility** — for example, indirect linkage through potassium- or nitrate-related nodes in the graph — and explicitly flags the meningococcal infection prediction as a probable false positive. With zero supporting clinical trials or literature for either candidate, this assessment should be treated as a hypothesis-generation signal only, not as a repurposing lead with mechanistic grounding.
+Meningococcal infection is an acute, life-threatening invasive disease. It is treated with established antibiotics and prevented by vaccines. A high TxGNN score alone does not justify repurposing a nitrate salt for this condition.
 
----
+A second prediction, **sclerosing cholangitis** (score 99.21%), also has no clinical trials or literature. Its proposed link, nitrate-derived NO signalling affecting vascular tone, inflammation or biliary epithelial function, is equally unsupported.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## India Market Information
 
-## Secondary Candidate: Sclerosing Cholangitis
+There are 20 valid single-ingredient registrations, with no combination products and none cancelled. The five main ones are listed below. Approved indication text is not recorded for any of them.
 
-A second TxGNN prediction (rank 2, score 99.21%, evidence level L5) links potassium nitrate to sclerosing cholangitis, a chronic autoimmune/idiopathic biliary disease. As with the primary candidate, there are no clinical trials, no literature, and no plausible mechanistic rationale connecting the compound to this condition. This candidate carries the same Hold recommendation for the same reasons.
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 151674 | Nitra Gel Mint | Dental gel, 100 g tube | Micro Labs Ltd |
+| 117360 | Kyodent Dental Gel | Dental gel, 50 g tube | Lifekyor Pharmaceuticals |
+| 61782 | Dent-X Toothpaste (Medicated) | Toothpaste, 100 g tube | Cascade India Pharmaceuticals |
+| 65292 | Dentosmith Toothpaste | Toothpaste, 50 g tube | Nusmith Pharma Pvt. Ltd |
+| 164072 | Orasafe Dental Gel | Gel, 50 g tube | Age Biotech |
 
 ## Safety Considerations
 
-No safety data (key warnings, contraindications, or drug interactions) is currently available. Potassium nitrate is not a marketed pharmaceutical product in this jurisdiction, so no package insert or regulatory safety documentation exists for reference.
+- **Knowledge-graph contraindication signal**: The TxGNN knowledge graph (PrimeKG) links potassium nitrate to **dental fluorosis** as a contraindication. This comes from graph edges, not from label text.
 
----
+No package insert warnings, contraindications or drug interaction data were available. Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Both predicted indications rest on TxGNN score alone (L5, no clinical trials, no literature), the compound has no established original indication or MOA, and the evidence pack itself assesses the mechanistic link as a likely false positive from graph-embedding similarity rather than genuine biology. A Blocking data gap (TFDA/regulatory warnings and contraindications) also means the candidate cannot yet clear a basic safety screen (S1).
+The prediction rests on the model score only (Evidence Level L5). There are no clinical trials or publications, and no mechanism data. Established antibiotic treatment and vaccines exist for meningococcal infection. All current products are topical oral-care formulations, and route compatibility with a systemic infection has not been assessed.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism of action (MOA) data for potassium nitrate (DrugBank/pharmacology literature)
-- Resolution of the Blocking data gap: regulatory warnings/contraindications (source: national FDA product label)
-- Independent pharmacological or preclinical rationale linking potassium nitrate to meningococcal infection or sclerosing cholangitis before any further evidence collection is warranted
-- Re-screening in future TxGNN model versions to check whether this prediction persists or was an artifact of the current graph embedding
+- Mechanism of action data for potassium nitrate
+- Package insert warnings and contraindications for the marketed products
+- Independent preclinical evidence of activity against *Neisseria meningitidis*
+- Assessment of route and formulation compatibility with the proposed indication
+- Clarification of the dental fluorosis contraindication signal
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

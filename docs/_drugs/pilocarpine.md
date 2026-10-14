@@ -2,7 +2,7 @@
 layout: default
 title: Pilocarpine
 parent: Model Prediction Only (L5)
-nav_order: 663
+nav_order: 670
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,88 +29,83 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Pilocarpine: From Unrecorded Original Indication to Primary Hereditary Glaucoma
+# Pilocarpine: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-Pilocarpine (DrugBank DB01085) has no recorded original indication or mechanism-of-action data in this evidence pack — both are flagged as gaps. The TxGNN model predicts a link to **Primary Hereditary Glaucoma** with a **99.83% prediction score**, but this is supported by **0 clinical trials** and **0 publications**, and the model's own rationale text notes that pilocarpine's muscarinic-agonist mechanism is already a well-established glaucoma treatment mechanism — meaning this may reflect a data-completeness gap rather than a genuinely novel repurposing signal.
-
----
+Pilocarpine was originally used to lower eye pressure in open-angle glaucoma and ocular hypertension.
+The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
+but at present there are **no clinical trials and no publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in evidence pack (see data gap note below) |
-| Predicted New Indication | Primary Hereditary Glaucoma |
+| Original Indication | Open-angle glaucoma; ocular hypertension (from the knowledge graph, as no approved indication text is available in the India licence records) |
+| Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 99.83% |
-| Evidence Level | L4 (mechanism/preclinical only, no trials or literature) |
-| Taiwan Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 16 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a Blocking/High-severity data gap in this pack). Based on general pharmacological knowledge captured in the model's own rationale, pilocarpine is a muscarinic (M3) receptor agonist acting on the ciliary muscle and iris sphincter, producing miosis and increased trabecular outflow of aqueous humor — a mechanism that lowers intraocular pressure (IOP).
+Pilocarpine is a muscarinic M3 receptor agonist. It contracts the ciliary muscle and increases outflow of fluid through the trabecular meshwork, which lowers intraocular pressure (IOP). This is the basis of its use in open-angle glaucoma and ocular hypertension. Detailed mechanism of action data are not available in the data compiled for this report, so this description is based on general pharmacological knowledge rather than a verified source record.
 
-This mechanism is directly relevant to glaucoma pathophysiology (impaired aqueous outflow → elevated IOP → optic nerve damage), including primary hereditary forms. However, the model's own repurposing rationale explicitly cautions that this is a **well-established, not novel**, pharmacological link — pilocarpine's IOP-lowering effect on glaucoma is already textbook knowledge, not a newly discovered association. Combined with the fact that this evidence pack has no recorded original indication for the drug at all, the prediction may largely be reproducing an already-known drug–disease relationship rather than surfacing a new repurposing opportunity.
+The high prediction score likely reflects the shared pathophysiology of raised IOP and impaired outflow, and the closeness of primary hereditary glaucoma to the approved glaucoma indications in the knowledge graph.
 
-**Recommended priority**: verify whether the "no original indication" and "no MOA" data gaps are a database omission (i.e., pilocarpine's glaucoma indication was simply not captured) before treating this as a novel hypothesis worth independent investment.
+There are important caveats. Hereditary glaucoma forms, such as primary congenital glaucoma (often linked to CYP1B1 or other genes), frequently involve developmental abnormalities of the anterior chamber angle. Miotics may work less well there than in adult open-angle disease, and in some settings pilocarpine could even worsen angle closure. The mechanistic link is therefore a prediction only and is not supported by clinical data.
 
----
+## India Market Information
 
-## Clinical Trial Evidence
+Pilocarpine is marketed in India as a single-ingredient product under 16 valid registrations, with no cancelled ones. Approved indication text is not recorded for any of them. The main authorizations are listed below.
 
-Currently no related clinical trials registered.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 36699 | Carpinol Eye Drop | Bottle of 1 ml eye drop | Sunways India Pvt Ltd |
+| 175055 | Pilotbg Tablet | Strip of 10 tablets | TBG Pharma Ltd |
+| 36641 | Carpine 0.5% Injection | Vial of 1 ml injection | Intas Pharmaceuticals Ltd |
+| 178124 | Pilocar 4% Eye Drop | Packet of 5 ml eye drop | FDC Ltd |
+| 173852 | Pilomax Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
 
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+Available routes include ophthalmic (eye drops), oral (tablets) and injectable forms.
 
 ## Safety Considerations
 
-**Drug Interactions**: 102 interactions identified via DDInter. Notable Moderate-level interactions are with other anticholinergic/antimuscarinic agents, where pilocarpine's cholinergic agonism would pharmacodynamically oppose their effect:
+- **Contraindications suggested by the knowledge graph** (not taken from label text; to be verified against the package insert):
+  - Eye conditions: angle-closure (closed-angle) glaucoma, keratitis, keratoconjunctivitis, iritis, iridocyclitis, uveitis, retinal detachment.
+  - Respiratory conditions: asthma, chronic obstructive pulmonary disease (including severe early-onset forms), bronchial disease.
+  - Biliary and liver conditions: cholelithiasis, cholecystolithiasis, choledocholithiasis, cholecystitis, biliary tract disease, obstructive jaundice, liver failure.
+  - Kidney conditions: nephrolithiasis (including the SLC26A1-related susceptibility form), acute urate nephropathy.
+- **Drug Interactions**: 102 interactions were found in total. The moderate-level ones are mainly with other anticholinergic (antimuscarinic) drugs, whose effects may oppose pilocarpine's:
+  - Atropine (including ophthalmic)
+  - Hyoscyamine
+  - Scopolamine (including ophthalmic)
+  - Glycopyrronium (including topical)
+  - Clidinium
+  - Dicyclomine
+  - Mepenzolate
+  - Methscopolamine
+  - Propantheline
+  - Trospium
 
-| Interacting Drug | Level | Source |
-|---|---|---|
-| Hyoscyamine | Moderate | ddinter |
-| Atropine | Moderate | ddinter |
-| Atropine (ophthalmic) | Moderate | ddinter |
-| Glycopyrronium | Moderate | ddinter |
-| Glycopyrronium (topical) | Moderate | ddinter |
-| Clidinium | Moderate | ddinter |
-| Dicyclomine | Moderate | ddinter |
-| Mepenzolate | Moderate | ddinter |
-| Methscopolamine | Moderate | ddinter |
-| Propantheline | Moderate | ddinter |
-| Scopolamine | Moderate | ddinter |
-| Scopolamine (ophthalmic) | Moderate | ddinter |
-| Trospium | Moderate | ddinter |
+  Interactions with pantoprazole, omeprazole, lansoprazole, clotrimazole, morphine, metformin and epinephrine are listed with an unknown severity level.
 
-An additional ~89 interactions (including Pantoprazole, Omeprazole, Lansoprazole, Metformin, Morphine, Epinephrine, Clotrimazole) are logged at "Unknown" severity level and require individual review before clinical use.
-
-No TFDA package-insert warnings or contraindications are available in this pack — this is logged as a **Blocking** data gap (DG001) and must be resolved before any safety pre-assessment (S1) can proceed.
-
----
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication is backed by mechanism plausibility only (L4), with no clinical trials or literature, no Taiwan market presence, and a Blocking data gap on TFDA label warnings/contraindications that prevents even a baseline safety assessment. Additionally, the model's own rationale suggests this may reflect an already-known drug–disease relationship rather than a genuine new signal.
+The prediction score is very high (99.83%), but no clinical trials or publications support pilocarpine in primary hereditary glaucoma. Developmental angle abnormalities in these patients may make miotics less effective, or even harmful.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) to resolve DG001 (Blocking)
-- Confirmed mechanism of action from DrugBank to resolve DG002 (High)
-- Confirmation of pilocarpine's actual original/approved indications (currently blank in this pack) to determine whether "Primary Hereditary Glaucoma" is truly a new indication or an existing one
-- Targeted clinical trial and literature search once the above is resolved, to establish a higher evidence level before advancing past S1
+- Package insert warnings and contraindications for the India-marketed products (a blocking gap for safety screening)
+- Verified mechanism of action data
+- A literature and clinical trial search specific to hereditary and congenital glaucoma subtypes, including the response of these patients to miotics
+- An assessment of whether the available ophthalmic formulations are suitable for the target population, including paediatric use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

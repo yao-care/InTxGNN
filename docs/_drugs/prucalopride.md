@@ -2,7 +2,7 @@
 layout: default
 title: Prucalopride
 parent: Model Prediction Only (L5)
-nav_order: 703
+nav_order: 710
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,74 +29,67 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Prucalopride: From Chronic Idiopathic Constipation to Hypoalphalipoproteinemia
+# Prucalopride: From Constipation Disorder to Hypoalphalipoproteinemia
 
 ## One-Sentence Summary
 
-Prucalopride is a highly selective 5-HT4 receptor agonist; a formal "original indication" field was not available in the regulatory data, but internal rationale notes in this evidence pack identify it as approved for **chronic idiopathic constipation**. The TxGNN model assigns a very high prediction score (**99.82%**) for **Hypoalphalipoproteinemia**, but this direction is currently supported by **0 clinical trials** and **0 publications** — the model's own mechanistic rationale explicitly states there is no known pharmacological link between 5-HT4 agonism and lipoprotein metabolism.
-
----
+Prucalopride is a selective 5-HT4 receptor agonist originally used to treat constipation disorder.
+The TxGNN model predicts it may be effective for **hypoalphalipoproteinemia** (low HDL cholesterol), but this is a knowledge-graph prediction only,
+with **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic Idiopathic Constipation (from evidence-pack rationale text; not present in formal `original_indications`/license fields — data gap) |
+| Original Indication | Constipation disorder |
 | Predicted New Indication | Hypoalphalipoproteinemia |
 | TxGNN Prediction Score | 99.82% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for prucalopride is not available (`original_moa` is a data gap). Based on known pharmacology, prucalopride acts as a 5-HT4 receptor agonist that stimulates cholinergic enteric neurons to enhance colonic motility, with proven efficacy in chronic idiopathic constipation.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, prucalopride is a selective 5-HT4 receptor agonist that enhances gut motility, and its efficacy in constipation disorder is established.
 
-For Hypoalphalipoproteinemia, however, the evidence pack's own repurposing rationale is explicit that **no mechanistic connection exists**: "Prucalopride is a 5-HT4 receptor agonist acting on gastrointestinal motility, with no known pharmacological mechanistic link to lipoprotein metabolism (HDL-related disease)." There is no plausible pathway from 5-HT4-mediated gut motility to HDL/lipoprotein regulation, and the prediction is not corroborated by any clinical trial or literature evidence — it reflects the TxGNN model's knowledge-graph score alone.
+For hypoalphalipoproteinemia, however, no mechanistic link can be identified. No established pathway connects 5-HT4 agonism to HDL metabolism. The very high TxGNN score (99.82%) reflects a pattern in the knowledge graph rather than biological or clinical evidence, and should be treated as a hypothesis-generating signal only.
 
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+Other top-ranked predictions show the same pattern. Most lipid disorders (homozygous familial hypercholesterolemia, familial combined hyperlipidemia), infections (oral candidiasis, strongyloidiasis, HIV) and duodenal ulcer have no plausible mechanistic basis. The only partially plausible direction is amyloidosis-related gut dysmotility (amyloidosis, primary amyloidosis), where a prokinetic might give symptomatic relief of intestinal pseudo-obstruction without treating the underlying disease. These have only indirect literature support (a case report and a motility-diagnosis study, neither testing prucalopride).
 
 ## India Market Information
 
-Prucalopride currently has **no marketing authorization in India** (0 registrations, market status: Not Marketed). No license records are available to summarize.
+Prucalopride has 20 valid single-ingredient registrations in India, all oral tablets. Approved indication text is not available for these registrations. Main examples:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 174899 | Prudac 1 Tablet (Zydus Cadila) | Strip of 10 tablets | Not specified |
+| 174283 | Prusent 1mg Tablet (Lupin Ltd) | Strip of 10 tablets | Not specified |
+| 39195 | Convio 2mg Tablet (Wellvio Healthcare Pvt Ltd) | Strip of 10 tablets | Not specified |
+| 174810 | Prucapla 1mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not specified |
+| 176052 | Prucalor 2mg Tablet (Ajanta Pharma Ltd) | Strip of 10 tablets | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Label warnings, contraindications, and DDI data are not available in this evidence pack — flagged as a **Blocking** data gap requiring TFDA/CDSCO label retrieval before any S1 safety assessment.)
+- **Contraindications suggested by the knowledge graph** (not label text): ulcerative colitis, inflammatory bowel disease, intestinal perforation.
+- **Drug Interactions**: 98 interactions are recorded. Examples include:
+  - Moderate: aclidinium, levonorgestrel, norethisterone, ethinylestradiol, and anticholinergics such as hyoscyamine, atropine, benztropine, biperiden, glycopyrronium and clidinium.
+  - Minor: nifedipine, afatinib, alpelisib, amiodarone, cobicistat, captopril, diltiazem, spironolactone, carvedilol and conivaptan.
 
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate is evidence level L5 — a model prediction with no supporting clinical trials, no literature, and no plausible mechanistic rationale linking the drug's known pharmacology to the predicted indication. There is no basis to advance this candidate beyond the model-scoring stage.
+The predicted indication hypoalphalipoproteinemia has no clinical trials, no literature and no plausible mechanistic link to 5-HT4 agonism, so the high TxGNN score is not backed by evidence (Evidence Level L5).
 
 **To proceed, the following is needed:**
-- Mechanistic or preclinical evidence connecting 5-HT4 agonism to lipoprotein/HDL metabolism
-- Any observational or case-level data on lipid parameters in patients treated with prucalopride
-- DrugBank MOA confirmation (currently a High-severity data gap)
-- TFDA/CDSCO label data — warnings, contraindications, DDI (currently a Blocking data gap; required before any safety screening)
-
-**Note:** Within the same evidence pack, two other candidates — Amyloidosis (rank 6) and Primary Amyloidosis (rank 9) — reach evidence level L4 / decision stage S1 ("Research Question"), supported by literature on GI motility disorders associated with amyloid-related autonomic neuropathy. These may warrant separate evaluation as they carry a stronger (though still indirect) mechanistic rationale than Hypoalphalipoproteinemia.
+- Package insert warnings and contraindications from the Indian market, which are needed for safety screening
+- Detailed mechanism of action data
+- A credible biological rationale linking 5-HT4 agonism to HDL metabolism, supported by preclinical data
+- Consideration of the amyloidosis-related gut dysmotility direction (the only partially plausible candidate, ranked as a research question) in place of the top-ranked lipid prediction, along with controlled studies of prucalopride in that setting
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

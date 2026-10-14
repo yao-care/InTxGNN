@@ -2,7 +2,7 @@
 layout: default
 title: Oxaceprol
 parent: Model Prediction Only (L5)
-nav_order: 618
+nav_order: 624
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Oxaceprol: From Undocumented Original Indication to Spondyloarthropathy Susceptibility
+# Oxaceprol: From Osteoarthritis to Spondyloarthropathy (Susceptibility)
 
 ## One-Sentence Summary
 
-Oxaceprol's original approved indication and mechanism of action are not documented in the available data (the drug is not currently marketed in India). The TxGNN model's top prediction is **Spondyloarthropathy, susceptibility to**, but this is a genetic susceptibility trait rather than a treatable disease, and there are **zero clinical trials** and **zero publications** supporting any of the model's top 10 predicted indications for this drug.
+Oxaceprol is an oral agent used for osteoarthritis and related joint disorders (arthropathy).
+The TxGNN model predicts it may be effective for **spondyloarthropathy, susceptibility to**,
+but **no clinical trials and no publications** currently support this prediction, so it is a model-based hypothesis only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in current dataset (no approved indication or license on file) |
+| Original Indication | Osteoarthritis, osteoarthritis susceptibility, arthropathy (the approved-indication text is empty in the India licence records; these come from the knowledge-graph indication data) |
 | Predicted New Indication | Spondyloarthropathy, susceptibility to |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Oxaceprol is not available, and no original approved indication is documented — the drug has zero registered licenses in India. Externally, oxaceprol is known in some markets as a proline derivative used as an anti-inflammatory agent (e.g., for osteoarthritis), but this is not confirmed within the current evidence pack.
+Currently, detailed mechanism of action data is not available. Based on known information, oxaceprol is a proline-derivative joint agent used in osteoarthritis. It is reported to be cartilage-protective and anti-inflammatory, possibly by inhibiting leukocyte migration into joints. This has not been verified in the data compiled for this report.
 
-Because both the original indication and MOA are undocumented, no mechanistic bridge can be constructed between Oxaceprol and the predicted new indication. More importantly, the top-ranked prediction itself — "spondyloarthropathy, susceptibility to" — describes a genetic susceptibility trait, not a drug-treatable disease state. The model's own rationale for this candidate explicitly flags that the high score likely reflects proximity between gene–disease–drug nodes in the knowledge graph rather than a real pharmacological relationship, and assesses this as a probable graph-based false positive.
+The predicted indication is a genetic susceptibility phenotype for spondyloarthropathy. It is related to the original joint indications only indirectly. The prediction most likely reflects the closeness of these diseases to the existing arthropathy and osteoarthritis indications in the knowledge graph, not a demonstrated therapeutic effect.
 
-This pattern repeats across the full top-10 list: several candidates (brachyolmia-amelogenesis imperfecta syndrome, acromesomelic dysplasia, pseudoachondroplasia) are structural/genetic disorders with no plausible anti-inflammatory mechanism, while the more biologically plausible inflammatory-arthritis candidates (ankylosing spondylitis, juvenile idiopathic arthritis, rheumatoid vasculitis, etc.) have no corroborating trial or literature evidence at all. Given the missing MOA/indication data and the non-actionable nature of the top hit, this prediction should currently be treated as an unverified model output only.
+Other predicted indications are also supported only by model scores. The more biologically plausible ones are inflammatory joint diseases such as **juvenile idiopathic arthritis** (score 99.95%) and **ankylosing spondylitis** (score 99.95%). Ankylosing spondylitis is driven by axial, immune pathways (HLA-B27, IL-17/TNF), and no data show that oxaceprol acts on them. Juvenile idiopathic arthritis has no paediatric safety or efficacy data. Rare genetic skeletal disorders in the list (for example brachyolmia-amelogenesis imperfecta syndrome, acromesomelic dysplasia, pseudoachondroplasia and myosclerosis) have very low plausibility and likely reflect network artefacts. Rheumatoid vasculitis needs immunosuppression, and relying on this prediction could be clinically risky.
 
 ## Clinical Trial Evidence
 
@@ -63,21 +65,37 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+## India Market Information
+
+Twenty valid single-ingredient registrations were found. The approved-indication text is not recorded for any of them. The five main ones are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 171698 | Oxasoft 200mg Capsule | Strip of 10 capsules | Not recorded |
+| 116504 | Kneerol OD Tablet SR | Strip of 10 SR tablets | Not recorded |
+| 215745 | Trueceprol OD Tablet SR | Strip of 10 SR tablets | Not recorded |
+| 249155 | Zextra Capsule | Strip of 10 capsules | Not recorded |
+| 40609 | Ceprol Tablet SR | Strip of 10 SR tablets | Not recorded |
+
+All products are oral (capsules, tablets, sustained- or extended-release tablets).
+
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 TxGNN predictions for Oxaceprol rest solely on model score (Evidence Level L5), with no supporting clinical trials or literature. The top-ranked candidate is a genetic susceptibility trait rather than a treatable indication, and the model's own rationale flags it as a likely knowledge-graph false positive. The drug also lacks basic documentation (original indication, MOA, safety label) needed to build any supporting case.
+The prediction is based only on a knowledge-graph score (L5), with no trials, no literature and no verified mechanism. The link between oxaceprol and a genetic susceptibility phenotype is speculative. The drug is widely marketed in India, but its approved indications and safety text are not available in the data compiled for this report.
 
 **To proceed, the following is needed:**
-- Original approved indication and mechanism of action (e.g., via DrugBank API or a market where Oxaceprol is licensed)
-- Local safety label data — key warnings, contraindications, and a working DDI database (current DDI query failed due to a missing local data file)
-- Targeted literature/trial search focused on the more biologically plausible candidates (ankylosing spondylitis, juvenile idiopathic arthritis) rather than the genetic-disorder candidates, which should likely be deprioritized or excluded as non-actionable
+- Package insert warnings, contraindications and approved indications for the Indian products (a blocking gap for safety screening)
+- Mechanism of action data (for example from DrugBank)
+- A literature and trial search for oxaceprol in spondyloarthritis and juvenile idiopathic arthritis, the more plausible candidates
+- A paediatric safety review before considering juvenile idiopathic arthritis
+- Reassessment of the candidate list, prioritising inflammatory arthropathies over rare genetic skeletal disorders
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

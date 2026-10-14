@@ -2,7 +2,7 @@
 layout: default
 title: Reserpine
 parent: Model Prediction Only (L5)
-nav_order: 727
+nav_order: 734
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,88 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-Using the drug-repurposing evaluation report template to generate this report from the Evidence Pack.
-
-# Reserpine: From Hypertension to Treatment-Refractory Schizophrenia
+# Reserpine: From Hypertension and Psychotic Disorders to Treatment-Refractory Schizophrenia
 
 ## One-Sentence Summary
 
-> Reserpine is a VMAT2 inhibitor historically used to treat hypertension (and, before chlorpromazine, as an early antipsychotic). The TxGNN model predicts it may be effective for **treatment-refractory schizophrenia**, but this prediction is currently supported by **no clinical trials and no publications** — it is a model-only hypothesis.
-
----
+Reserpine is an older drug originally used to treat hypertension and psychotic disorders, including schizophrenia.
+The TxGNN model predicts it may be effective for **treatment-refractory schizophrenia**,
+but **no clinical trials or publications** were found in the data compiled for this report, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (historical; no Taiwan label/registration text available — see Data Gap DG001) |
+| Original Indication | Hypertension and psychotic disorders (from the knowledge graph; the India licence lists no indication text) |
 | Predicted New Indication | Treatment-refractory schizophrenia |
 | TxGNN Prediction Score | 99.04% |
-| Evidence Level | **L5** (model prediction only, no supporting trials/literature) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data from DrugBank is not available (Data Gap DG002). Based on the mechanistic rationale supplied with this candidate, Reserpine is a **VMAT2 (vesicular monoamine transporter 2) inhibitor** that depletes presynaptic vesicular stores of dopamine, norepinephrine, and serotonin.
+Reserpine irreversibly inhibits vesicular monoamine transporter 2 (VMAT2). This depletes presynaptic stores of dopamine, norepinephrine and serotonin. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description comes from general pharmacological knowledge.
 
-This mechanism aligns with the dopamine-depletion theory underlying first-generation antipsychotics from the 1950s–60s. In fact, Reserpine was one of the earliest agents used for schizophrenia, predating chlorpromazine. This gives the prediction theoretical biological plausibility for dopamine-hyperactivity-related, treatment-refractory schizophrenia.
+Dopamine depletion is consistent with antipsychotic activity. Reserpine was used historically as an early antipsychotic in schizophrenia and other psychotic disorders, and these conditions are already among its original indications. Treatment-refractory schizophrenia is a subgroup of the same disease, which probably explains the high model score.
 
-However, the same irreversible monoamine-depletion mechanism is well known to induce severe depression, extrapyramidal symptoms, and elevated suicide risk. For this reason, modern psychiatry has completely abandoned Reserpine for psychiatric use. The mechanistic plausibility therefore comes with a significant, already-recognized safety liability that must be weighed against any repurposing rationale.
-
----
+The score is a computational prediction only. It likely reflects the drug's link to related psychotic disorders, not independent evidence of benefit in refractory disease. Reserpine's historical efficacy was modest compared with later antipsychotics. Its adverse effects (depression, sedation, hypotension, extrapyramidal symptoms) are a particular concern in a population that is already hard to treat.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## India Market Information
 
-## Taiwan Market Information
-
-Reserpine currently has **no active registrations in Taiwan** (market status: Not marketed / Not marketed; total licenses: 0). No approved product label or indication text is available for reference (Data Gap DG001 — TFDA label/warnings not yet retrieved).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 5857 | Adelphane 0.1mg/10mg Tablet (Novartis India Ltd) | Strip of 10 tablets (oral) | Not stated |
 
 ## Safety Considerations
 
-- **Drug Interactions**: DDI screening identified **103 total interactions**. Representative moderate-level interactions include:
+- **Contraindications flagged in the knowledge graph** (these are model-derived associations, not package insert text):
+  - Liver: liver failure, liver disease, cirrhosis, hepatic coma, hepatic encephalopathy
+  - Kidney: kidney disease, anuria, nephrocalcinosis, pyoureter
+  - Gastrointestinal: peptic ulcer disease, pancreatitis, gallbladder disease
+  - Metabolic and endocrine: diabetes mellitus, diabetic ketoacidosis, gout, hyperuricemia, hypercalcemia, hyperparathyroidism, potassium deficiency, phosphorus metabolism disease
+  - Neuropsychiatric: epilepsy, anxiety disorder, neurotic disorder, dysthymic disorder
+  - Other: hypotensive disorder, systemic lupus erythematosus, neonatal jaundice, slow acetylation
+- **Drug Interactions**: 103 interactions were recorded. The 20 listed in the data were all of Moderate severity:
+  - Corticosteroids: hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide
+  - Antidiabetic agents: canagliflozin, dapagliflozin, empagliflozin, chlorpropamide, glimepiride, repaglinide, insulin aspart, degludec, detemir and glargine
+  - Sympathomimetics and stimulants: epinephrine, bupropion, diethylpropion, phentermine
+  - Other: dronabinol
 
-| Interacting Drug | Level | Category |
-|---|---|---|
-| Epinephrine | Moderate | Sympathomimetic — risk of exaggerated pressor response |
-| Hydrocortisone / Dexamethasone / Betamethasone / Budesonide / Triamcinolone | Moderate | Corticosteroids |
-| Bupropion / Dronabinol / Diethylpropion / Phentermine | Moderate | CNS/appetite stimulants |
-| Canagliflozin / Dapagliflozin / Empagliflozin / Glimepiride / Repaglinide / Chlorpropamide | Moderate | Antidiabetics (SGLT2i, sulfonylureas, glinides) |
-| Insulin aspart / degludec / detemir / glargine | Moderate | Insulin analogues |
-
-(20 of 103 total interactions shown; all classified as Moderate severity by DDInter.)
-
-No package-insert-level key warnings or contraindications are currently available (Data Gap DG001).
-
----
+The concern about depression and dysthymic disorder is especially relevant for a psychiatric population.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is an **L5, model-prediction-only** candidate with zero supporting clinical trials or literature, no Taiwan market presence, and no confirmed MOA or label safety data. The known historical risk profile of Reserpine (severe depression, EPS, suicide risk) as a psychiatric agent further weighs against proceeding without stronger evidence.
+The prediction is supported only by the TxGNN model (Evidence Level L5), with no trials or publications for the refractory subgroup. Reserpine's modest historical efficacy and its adverse-effect profile weigh against advancing it for a difficult-to-treat population without further evidence.
 
 **To proceed, the following is needed:**
-- TFDA/official label data — warnings and contraindications (DG001, Blocking)
-- Confirmed MOA from DrugBank API (DG002, High)
-- Targeted literature/clinical trial search specifically for Reserpine + treatment-refractory schizophrenia
-- A formal psychiatric safety risk assessment (depression/suicidality, EPS) before any further evaluation stage
+- A systematic literature search for historical and recent reserpine studies in refractory schizophrenia
+- Package insert warnings and contraindications for the India-marketed product (these are currently missing, which blocks safety screening)
+- Confirmed mechanism-of-action data from DrugBank
+- A comparison against current standard options for refractory schizophrenia, such as clozapine
+- A risk assessment of depression, hypotension and extrapyramidal effects, with a monitoring plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Chloramphenicol
-parent: High Evidence (L1-L2)
-nav_order: 169
-evidence_level: L2
+parent: Moderate Evidence (L3-L4)
+nav_order: 170
+evidence_level: L3
 indication_count: 9
 ---
 
 # Chloramphenicol
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **9** 
+Evidence Level: **L3** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,88 +29,86 @@ Evidence Level: **L2** | Predicted Indications: **9**
 
 </div>
 
-# Chloramphenicol: From Broad-Spectrum Bacterial Infections to Conjunctivitis
+# Chloramphenicol: From Typhoid Fever to Conjunctivitis
 
 ## One-Sentence Summary
 
-Chloramphenicol is a classic broad-spectrum antibiotic historically used for serious bacterial infections including typhoid fever, bacterial meningitis, plague, and cholera. The TxGNN model predicts it may be effective for **Conjunctivitis**, with **0 registered clinical trials** but **19 publications** — including multiple RCTs — currently supporting this direction. This aligns with chloramphenicol's longstanding use as a topical ophthalmic antibiotic in the UK, Australia, and many other markets, despite not being registered in India.
+Chloramphenicol is a broad-spectrum antibiotic, originally used for systemic bacterial infections such as typhoid fever, paratyphoid fever and bacterial meningitis.
+The TxGNN model predicts it may be effective for **conjunctivitis**. No clinical trials are registered for this prediction, but **19 publications** (mostly reviews and comparative studies) are linked to it. Topical ophthalmic use is already an established practice, so this is closer to a confirmation of an existing use than a novel repurposing.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Typhoid fever, bacterial meningitis, serious bacterial infections (not registered in India) |
+|------|------|
+| Original Indication | Typhoid fever (others include salmonellosis, paratyphoid fever, meningococcal infection, streptococcal meningitis, rickettsial diseases) |
 | Predicted New Indication | Conjunctivitis |
 | TxGNN Prediction Score | 99.66% |
-| Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L3 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Chloramphenicol inhibits bacterial protein synthesis by binding to the **50S ribosomal subunit**, blocking peptidyltransferase activity and preventing peptide chain elongation. This mechanism confers broad-spectrum bacteriostatic activity against the principal pathogens responsible for bacterial conjunctivitis — *Staphylococcus aureus*, *Haemophilus influenzae*, and *Streptococcus pneumoniae* — making the predicted indication pharmacologically coherent.
+Chloramphenicol is a bacteriostatic antibiotic that inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit. The data compiled for this report do not include a formal mechanism-of-action entry, but this action is well established and directly explains activity against the bacteria that commonly cause conjunctivitis.
 
-The key advantage for ophthalmic use lies in its pharmacokinetic profile as a topical formulation. Chloramphenicol eye drops achieve high intraocular concentrations while systemic absorption remains negligible (nanogram/mL range), substantially mitigating the risk of the drug's most feared adverse effect — aplastic anaemia. The estimated risk of aplastic anaemia from topical ocular use is extremely rare (approximately 1:100,000 to 1:450,000), and this risk-benefit balance has been deemed acceptable in multiple national markets including the UK and Australia, where ophthalmic formulations remain first-line OTC treatments for bacterial conjunctivitis.
+The original indications are bacterial infections, and bacterial conjunctivitis is also a superficial bacterial infection, so the link is a direct one. Chloramphenicol eye drops and ointments are already marketed in India, and the literature describes widespread topical use in countries such as the UK.
 
-The transition from systemic bacterial infections to a topical ophthalmic indication therefore represents not so much a novel repurposing as a **route-of-administration extension** with decades of real-world precedent. The TxGNN model's high confidence score (99.66%) is reinforced by a substantial body of published RCTs and systematic reviews comparing chloramphenicol eye drops against alternative topical antibiotics.
+Other predictions in the list (for example diffuse scleroderma, Chagas cardiomyopathy, infection-related haemolytic uraemic syndrome and punctate epithelial keratoconjunctivitis) have little or no mechanistic support. They are not evaluated further here because conjunctivitis is the top-ranked prediction and the only one with meaningful evidence.
 
 ---
 
 ## Clinical Trial Evidence
 
-No registered clinical trials specifically evaluating Chloramphenicol for conjunctivitis were identified in ClinicalTrials.gov or ICTRP at the time of data collection.
-
-> Currently no related clinical trials registered.
+Currently no related clinical trials registered for conjunctivitis.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [32959365](https://pubmed.ncbi.nlm.nih.gov/32959365/) | 2020 | Cochrane Systematic Review | *The Cochrane Database of Systematic Reviews* | Interventions for preventing ophthalmia neonatorum; evaluates chloramphenicol among antiseptic/antibiotic agents to prevent neonatal conjunctivitis and potential vision impairment |
-| [16378567](https://pubmed.ncbi.nlm.nih.gov/16378567/) | 2005 | Systematic Review | *Br J Gen Pract* | Updated meta-analysis of topical antibiotics (including chloramphenicol) vs placebo for acute bacterial conjunctivitis in primary care; supports benefit of topical antibiotic therapy |
-| [3554881](https://pubmed.ncbi.nlm.nih.gov/3554881/) | 1987 | RCT | *Acta Ophthalmologica* | Single-blind RCT (n=250); chloramphenicol 0.5% vs fusidic acid 1% — clinical success 81% vs 84%; chloramphenicol had slightly higher rate of mild local side effects (14% vs 5%) |
-| [8333258](https://pubmed.ncbi.nlm.nih.gov/8333258/) | 1993 | RCT | *Acta Ophthalmologica* | RCT (n=38 GPs in Norway); fusidic acid twice daily vs chloramphenicol 6×/day in acute conjunctivitis — no significant difference in bacteriological findings or treatment response |
-| [3300139](https://pubmed.ncbi.nlm.nih.gov/3300139/) | 1987 | RCT | *Acta Ophthalmologica* | Open RCT in Tanzania; fusidic acid superior to chloramphenicol eye drops (93% vs 48% clinical success); chloramphenicol showed high in vitro resistance rate in study population |
-| [17947266](https://pubmed.ncbi.nlm.nih.gov/17947266/) | 2007 | RCT | *Br J Ophthalmology* | Randomised equivalency trial (trachoma-endemic area, Mexico); 2.5% povidone-iodine vs ophthalmic chloramphenicol for preventing neonatal conjunctivitis |
-| [38511104](https://pubmed.ncbi.nlm.nih.gov/38511104/) | 2024 | Comparative Study | *Curr Ther Res* | Head-to-head comparison of moxifloxacin vs chloramphenicol for bacterial eye infections; contextualises chloramphenicol's bacteriostatic mechanism and known toxicity profile in modern ophthalmic practice |
-| [8800624](https://pubmed.ncbi.nlm.nih.gov/8800624/) | 1996 | Review | *Drug Safety* | Critical review of the evidence for and against an association between topical ocular chloramphenicol and aplastic anaemia; widely used in UK for conjunctivitis despite controversy |
-| [6188739](https://pubmed.ncbi.nlm.nih.gov/6188739/) | 1983 | RCT (multicentre) | *J Antimicrob Chemother* | n=230; trimethoprim-polymyxin B vs chloramphenicol ophthalmic solution in bacterial conjunctivitis — all preparations shown effective with few adverse events |
-| [23571246](https://pubmed.ncbi.nlm.nih.gov/23571246/) | 2014 | Observational | *Indian J Ophthalmology* | Profiles non-chlamydia conjunctival bacteria and antimicrobial susceptibility in rural Ethiopia after trichiasis surgery; includes chloramphenicol resistance data |
+|------|-----|------|------|---------|
+| [38511104](https://pubmed.ncbi.nlm.nih.gov/38511104/) | 2024 | Comparative clinical study | Curr Ther Res | Moxifloxacin compared with chloramphenicol for bacterial eye infections; chloramphenicol is used mainly topically because of its known toxicity |
+| [32959365](https://pubmed.ncbi.nlm.nih.gov/32959365/) | 2020 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Interventions for preventing ophthalmia neonatorum (neonatal conjunctivitis) |
+| [3554881](https://pubmed.ncbi.nlm.nih.gov/3554881/) | 1987 | Randomized, single-blind | Acta Ophthalmol | Fusidic acid 1% vs chloramphenicol 0.5% in acute purulent conjunctivitis: clinical success 84% vs 81%; stinging and discomfort more frequent with chloramphenicol (14% vs 5%) |
+| [3300139](https://pubmed.ncbi.nlm.nih.gov/3300139/) | 1987 | Open, randomized | Acta Ophthalmol | In Tanzania, fusidic acid was superior to chloramphenicol (93% vs 48% clinical success), partly because of in vitro resistance |
+| [11270936](https://pubmed.ncbi.nlm.nih.gov/11270936/) | 2001 | Review | Drugs | Comparative review of 16 topical ophthalmic antibacterial preparations |
+| [8800624](https://pubmed.ncbi.nlm.nih.gov/8800624/) | 1996 | Safety review | Drug Saf | Debated link between topical ocular chloramphenicol and aplastic anaemia |
+| [7498557](https://pubmed.ncbi.nlm.nih.gov/7498557/) | 1995 | Review/commentary | Eye (Lond) | Appropriateness of topical chloramphenicol use |
+| [25833086](https://pubmed.ncbi.nlm.nih.gov/25833086/) | 2015 | Commentary | Clin Exp Ophthalmol | Over-the-counter chloramphenicol use |
+| [10589371](https://pubmed.ncbi.nlm.nih.gov/10589371/) | 1999 | Review | Clin Pharmacokinet | Treatment of ocular infections with topical antibacterials |
+| [7153511](https://pubmed.ncbi.nlm.nih.gov/7153511/) | 1982 | Clinical observation | J Hyg (Lond) | Prior chloramphenicol drops delayed and reduced symptoms in neonatal chlamydial conjunctivitis, but 85% of treated infants remained culture-positive |
 
 ---
 
 ## India Market Information
 
-Chloramphenicol has **no registered products** in India at the time of data collection (0 licences, market status: Not Marketed).
+None of the 20 valid registrations has approved-indication text on record. Five representative authorizations are listed below, covering oral and ophthalmic forms.
 
-> No products currently registered in India. Ophthalmic formulations are marketed in the UK (prescription-exempt), Australia, and other countries.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 19864 | Actimycetin Suspension | Bottle of 50 ml suspension | Not stated |
+| 3564 | Anchlor-DX Eye Ointment | Tube of 5 gm eye ointment | Not stated |
+| 235428 | Vanmycetin 0.4% Eye Drop | Packet of 5 ml eye drop | Not stated |
+| 174906 | Polychlor DM Eye/Ear Drops | Bottle of 5 ml eye/ear drops | Not stated |
+| 177082 | Paraxin 250mg Dragees | Strip of 10 tablets | Not stated |
+
+All 20 registrations are single-ingredient products and all are valid. Several are ophthalmic ointments or drops, which fits the predicted conjunctivitis use.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions (478 interactions documented; clinically significant interactions listed below):**
+- **Haematological toxicity:** The knowledge graph lists contraindications or cautions for anaemia, aplastic anaemia, agranulocytosis, neutropenia (including congenital forms), thrombocytopenia and paroxysmal nocturnal haemoglobinuria. The literature also discusses a controversial link between topical ocular chloramphenicol and aplastic anaemia.
+- **Other conditions flagged in the knowledge graph:** kidney disease, liver disease, gallbladder disease, peripheral neuropathy, optic neuritis and acute intermittent porphyria. These come from knowledge-graph relationships, not from product label text.
+- **Drug interactions:** 478 interactions were identified. Major ones include **cisapride** and **naloxegol**. Moderate ones include sulfonylureas (glimepiride, glipizide, glyburide, chlorpropamide, acetohexamide), repaglinide, saxagliptin, simvastatin, rosuvastatin, metronidazole, budesonide, aprepitant, balsalazide, iron, eliglustat, naldemedine and nitisinone.
+- **Stewardship:** Over-the-counter use raises antimicrobial-stewardship concerns, and local resistance may reduce efficacy (see the Tanzanian trial above).
 
-| Severity | Interacting Drug(s) | Clinical Concern |
-|----------|-------------------|-----------------|
-| **Major** | Cisapride | Potential for cardiac arrhythmia; co-administration contraindicated |
-| **Major** | Naloxegol | CYP3A4 inhibition by chloramphenicol may markedly increase naloxegol exposure |
-| Moderate | Acetohexamide, Chlorpropamide, Glimepiride, Glipizide, Glyburide, Repaglinide | CYP2C9 inhibition may prolong/enhance hypoglycaemic effect of sulphonylureas and repaglinide; blood glucose monitoring recommended |
-| Moderate | Saxagliptin | Increased saxagliptin exposure via CYP3A4/CYP2C8 inhibition |
-| Moderate | Simvastatin, Rosuvastatin | Increased statin plasma levels; risk of myopathy/rhabdomyolysis |
-| Moderate | Budesonide, Budesonide (nasal) | Inhibition of corticosteroid metabolism; increased systemic steroid exposure |
-| Moderate | Metronidazole | Pharmacodynamic/pharmacokinetic interaction; enhanced CNS adverse effects possible |
-| Moderate | Iron | Chloramphenicol may delay erythropoietic response to iron supplementation |
-| Moderate | Aprepitant, Eliglustat, Naldemedine, Nitisinone, Balsalazide | Variable mechanisms; clinical monitoring advised |
-
-> **Note:** Warnings and contraindications data were not available in this Evidence Pack. Please refer to the official package insert and current prescribing information for complete safety details.
+Package insert warnings and contraindications were not available for this report, so please refer to the package insert for label safety information.
 
 ---
 
@@ -119,15 +117,15 @@ Chloramphenicol has **no registered products** in India at the time of data coll
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple published RCTs and a Cochrane systematic review establish chloramphenicol ophthalmic solution as an effective treatment for bacterial conjunctivitis, and the drug holds regulatory approval for this indication in the UK and Australia. The TxGNN prediction is well-supported by biological plausibility and real-world evidence, representing a route-of-administration adaptation rather than a novel mechanistic repurposing. The primary risk — aplastic anaemia — is quantifiable and extremely rare with topical ocular use, which is standard practice globally.
+Topical chloramphenicol for bacterial conjunctivitis is a long-established use with a clear antibacterial mechanism, ophthalmic products already marketed in India, and randomized and comparative literature. However, there is no registered trial and no Phase 3 RCT in the data, the evidence is mostly comparative or review-level, and the aplastic anaemia debate calls for safeguards. The other predicted indications are not supported (Hold or research question only).
 
 **To proceed, the following is needed:**
-
-- **Regulatory filing strategy**: Chloramphenicol ophthalmic drops are not registered in India; a new drug/licence application for ophthalmic formulation would be required
-- **Full safety data package**: Retrieve CDSCO-equivalent warnings, contraindications, and the official DrugBank MOA entry to complete the safety profile (DG001, DG002 currently blocking)
-- **Resistance surveillance data for India**: Resistance rates observed in the 1987 Tanzania RCT (48% clinical success) highlight geographic variability — local *S. aureus*, *H. influenzae*, and *S. pneumoniae* susceptibility data from India should be reviewed before launch
-- **Aplastic anaemia risk communication plan**: A clear patient and prescriber communication strategy is required given the historical safety debate, even though topical risk is extremely low
-- **Comparator positioning**: Define competitive positioning against moxifloxacin, tobramycin, and other topical antibiotics available in the Indian market
+- Package insert warnings, contraindications and approved indications for the Indian products (currently missing)
+- Detailed mechanism of action data from DrugBank
+- Current local resistance data for common ocular pathogens
+- Topical-only use with restrictions on systemic exposure, and a prescription-based supply pathway
+- A pharmacovigilance plan for haematological adverse events and a check for patients with pre-existing blood disorders
+- Comparative data against current first-line ophthalmic antibiotics
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

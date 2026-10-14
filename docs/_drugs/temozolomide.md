@@ -2,7 +2,7 @@
 layout: default
 title: Temozolomide
 parent: High Evidence (L1-L2)
-nav_order: 806
+nav_order: 813
 evidence_level: L1
 indication_count: 2
 ---
@@ -29,14 +29,12 @@ Evidence Level: **L1** | Predicted Indications: **2**
 
 </div>
 
-# Temozolomide: From Malignant Glioma to Adult Astrocytic Tumour (India Market Entry Candidate)
+# Temozolomide: From Astrocytoma and Glioblastoma to Adult Astrocytic Tumour
 
 ## One-Sentence Summary
 
-> Temozolomide is a globally established oral alkylating agent used as the standard-of-care chemotherapy for malignant glioma (glioblastoma/anaplastic astrocytoma), but it currently has **zero registrations in India**.
-> The TxGNN model flags **adult astrocytic tumour** as its top-scoring indication (99.36%),
-> and this is backed by **2 clinical trials** and **20 publications**, including several landmark Phase 3 RCTs that already define global treatment guidelines.
-> Note: this is less a "novel repurposing" signal and more a **market-entry validation** — the model is confirming a well-known indication for a drug not yet marketed locally.
+Temozolomide is an oral alkylating chemotherapy originally used for anaplastic astrocytoma, astrocytoma (excluding glioblastoma) and glioblastoma.
+The TxGNN model predicts it may be effective for **adult astrocytic tumour**, with **2 clinical trials** and **20 publications** currently supporting this direction. This is essentially an on-label use rather than true repurposing.
 
 ---
 
@@ -44,23 +42,21 @@ Evidence Level: **L1** | Predicted Indications: **2**
 
 | Item | Content |
 |------|------|
-| Original Indication | Malignant glioma / glioblastoma multiforme (established global indication; no India license record exists because the drug is not marketed) |
-| Predicted New Indication | Adult Astrocytic Tumour |
+| Original Indication | Anaplastic astrocytoma; astrocytoma (excluding glioblastoma); brain glioblastoma (India licence indication text is not available) |
+| Predicted New Indication | Adult astrocytic tumour |
 | TxGNN Prediction Score | 99.36% |
 | Evidence Level | L1 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data from the evidence pack is not available (flagged as a High-severity data gap). Based on well-established public pharmacology, temozolomide is an oral imidazotetrazine alkylating agent that spontaneously converts to the active metabolite MTIC, which methylates DNA (primarily at the O6 position of guanine), triggering cytotoxic DNA damage and apoptosis in rapidly dividing tumour cells.
+Temozolomide is an oral alkylating agent that methylates DNA (at O6-guanine, N7-guanine and N3-adenine). This causes cytotoxic lesions and apoptosis in tumour cells. Activity is greatest in tumours with a methylated MGMT promoter, where DNA repair is reduced. Detailed mechanism-of-action data were not available in the drug database, so this description comes from the repurposing analysis.
 
-The predicted indication, "adult astrocytic tumour," is not a mechanistically distant target — it is the same disease family (WHO grade III/IV astrocytic tumours, including anaplastic astrocytoma and glioblastoma) for which temozolomide is already the internationally recognized standard of care (the "Stupp protocol": concomitant radiotherapy plus temozolomide, followed by maintenance temozolomide). This explains the very high TxGNN score and the depth of Phase 3 RCT support.
-
-Because temozolomide is not currently registered in India, this evidence pack should be read as a **market-access opportunity assessment** rather than a speculative repurposing hypothesis — the scientific/clinical evidence is mature and long-standing; what is missing is local regulatory documentation (label warnings, contraindications) needed to complete a safety review.
+Adult astrocytic tumours, including anaplastic astrocytoma and glioblastoma, are the core established indications of temozolomide. The predicted indication therefore largely overlaps with the original one. The high TxGNN score is consistent with the established clinical evidence.
 
 ---
 
@@ -68,8 +64,8 @@ Because temozolomide is not currently registered in India, this evidence pack sh
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Phase 3 | Completed | 500 | Randomized trial comparing temozolomide monotherapy vs. PCV (procarbazine/lomustine/vincristine) in recurrent WHO Grade III/IV astrocytic tumours |
-| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Phase 1 | Completed | 26 | Dose-finding study of XL184 (cabozantinib) combined with temozolomide + radiotherapy in newly diagnosed glioblastoma |
+| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Phase 3 | Completed | 500 | Randomised comparison of temozolomide versus PCV (procarbazine, lomustine, vincristine) in recurrent WHO grade III and IV astrocytic tumours |
+| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Phase 1 | Completed | 26 | Dose-finding and safety study of XL184 (cabozantinib) plus temozolomide and radiotherapy in first-line glioblastoma; temozolomide is a combination partner, so the evidence is supportive only |
 
 ---
 
@@ -77,62 +73,72 @@ Because temozolomide is not currently registered in India, this evidence pack sh
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT | N Engl J Med | Landmark EORTC-NCIC trial establishing radiotherapy + concomitant/adjuvant temozolomide as standard of care for newly diagnosed glioblastoma |
-| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | RCT (follow-up) | Lancet Oncol | 5-year follow-up confirming durable survival benefit of temozolomide + radiotherapy over radiotherapy alone |
-| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT | Lancet Oncol | NOA-08 trial: temozolomide monotherapy vs. radiotherapy alone in elderly patients with malignant astrocytoma |
-| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT | Lancet | CeTeG/NOA-09: lomustine-temozolomide combination superior to temozolomide alone in MGMT-methylated glioblastoma |
-| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT | JAMA | EF-14 trial: Tumor-Treating Fields + temozolomide vs. temozolomide alone improves survival in glioblastoma |
-| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT | N Engl J Med | Randomized trial of bevacizumab added to standard temozolomide/radiotherapy in newly diagnosed glioblastoma |
-| [40779733](https://pubmed.ncbi.nlm.nih.gov/40779733/) | 2025 | RCT (Phase II/III) | J Clin Oncol | NRG-BN007: dual immune checkpoint blockade with temozolomide-based regimen in MGMT-unmethylated glioblastoma |
-| [36809318](https://pubmed.ncbi.nlm.nih.gov/36809318/) | 2023 | Review | JAMA | Comprehensive review of glioblastoma and primary brain malignancies, confirming temozolomide's role as standard therapy |
-| [10914698](https://pubmed.ncbi.nlm.nih.gov/10914698/) | 2000 | Review | Clin Cancer Res | Early review establishing temozolomide's efficacy profile in malignant glioma |
-| [29075865](https://pubmed.ncbi.nlm.nih.gov/29075865/) | 2017 | Review | Curr Oncol Rep | Review of glioblastoma treatment in older adults, including temozolomide dosing considerations |
+| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT | N Engl J Med | Radiotherapy plus concomitant and adjuvant temozolomide versus radiotherapy alone in glioblastoma (the landmark Stupp trial) |
+| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | RCT | Lancet Oncol | 5-year analysis of the EORTC-NCIC phase III trial confirming the survival benefit of temozolomide with radiotherapy |
+| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT | Lancet Oncol | NOA-08: temozolomide alone versus radiotherapy alone in elderly patients with anaplastic astrocytoma or glioblastoma |
+| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT | Lancet | CeTeG/NOA-09: lomustine plus temozolomide versus standard temozolomide in MGMT-methylated newly diagnosed glioblastoma |
+| [29260225](https://pubmed.ncbi.nlm.nih.gov/29260225/) | 2017 | RCT | JAMA | Tumour-treating fields plus maintenance temozolomide versus temozolomide alone in glioblastoma |
+| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT | JAMA | Interim analysis of maintenance tumour-treating fields plus temozolomide versus temozolomide alone |
+| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT | N Engl J Med | Bevacizumab added to standard temozolomide chemoradiotherapy in newly diagnosed glioblastoma |
+| [39480453](https://pubmed.ncbi.nlm.nih.gov/39480453/) | 2024 | RCT | JAMA Oncol | Adding veliparib to temozolomide in MGMT-methylated glioblastoma |
+| [34898238](https://pubmed.ncbi.nlm.nih.gov/34898238/) | 2022 | Guideline | J Clin Oncol | ASCO-SNO guideline on therapy for diffuse astrocytic and oligodendroglial tumours in adults |
+| [17478095](https://pubmed.ncbi.nlm.nih.gov/17478095/) | 2007 | Review | Crit Rev Oncol Hematol | Review of anaplastic astrocytoma in adults |
 
 ---
 
 ## India Market Information
 
-No CDSCO registration currently on record. According to the evidence pack, temozolomide has **0 licenses** in India (`market_status: Not marketed` / Not Marketed) — there is no product currently authorized for sale.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 228645 | Temoblast 250mg Capsule | Strip of 5 capsules | Not stated in the data compiled |
+| 220212 | Temotide 100mg Tablet | Strip of 5 tablets | Not stated in the data compiled |
+| 223951 | Temo GBM 250mg Capsule | Bottle of 5 capsules | Not stated in the data compiled |
+| 225370 | Temokem 100mg Injection | Packet of 5 injections | Not stated in the data compiled |
+| 96306 | Gliotem 250mg Capsule | Strip of 1 capsule | Not stated in the data compiled |
+
+There are 20 valid single-ingredient registrations in total, including oral capsules, tablets and an injectable form.
 
 ---
 
 ## Cytotoxicity
 
-Temozolomide is a conventional cytotoxic chemotherapy agent (oral alkylating agent, imidazotetrazine class), used for a malignant CNS tumour indication.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Alkylating agent — imidazotetrazine class) |
-| Myelosuppression Risk | Moderate–High — thrombocytopenia and neutropenia are the dose-limiting toxicities of this drug class; nadir typically occurs mid- to late-cycle |
-| Emetogenicity Classification | Moderate (standard oral dosing) |
-| Monitoring Items | CBC with differential (baseline, weekly during cycle 1, then prior to each cycle), liver function tests, renal function |
-| Handling Protection | Requires standard cytotoxic drug handling precautions (PPE, avoid capsule opening/crushing due to mutagenic/teratogenic potential) |
-
-*Note: This classification is based on the drug's known pharmacological class; the evidence pack itself contains no India-specific toxicity/label data (see Safety Considerations below).*
+| Cytotoxicity Classification | Conventional cytotoxic (alkylating agent) |
+| Myelosuppression Risk | Medium to high; the knowledge graph links temozolomide to neutropenia, thrombocytopenia, pancytopenia and aplastic anaemia as contraindication-related conditions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Complete blood count with differential, liver function, renal function |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: A total of 320 potential interactions were identified via DDInter. Among the sampled interactions, most severity levels are unclassified ("Unknown") in the source database; two carry an assigned severity: **Naltrexone (Moderate)** and **Levofloxacin (Minor)**. Given the large interaction count, a full DDI screen against a patient's concurrent medication list is recommended before use.
+- **Contraindication-related conditions (knowledge graph, not label text)**: liver failure, thrombocytopenia, neutropenia, agranulocytosis, anaemia, macrocytic anaemia, pneumocystosis, pancytopenia, lymphopenia, myelodysplastic syndrome, idiopathic aplastic anaemia, aplastic anaemia.
+- **Drug Interactions**: 320 interactions were recorded. The main ones with a defined severity are naltrexone (moderate) and levofloxacin (minor). Many others, such as pantoprazole, omeprazole, metformin, morphine and prednisone, have an unclassified severity.
 
-No formal key warnings or contraindications could be extracted — please refer to an authoritative package insert (e.g., FDA/EMA label) for full safety information, as India-specific labeling does not yet exist for this unregistered product.
+Package insert warnings and contraindications were not available, so please refer to the package insert for full safety information.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The clinical evidence for temozolomide in astrocytic tumours/glioblastoma is exceptionally strong (Evidence Level L1, multiple completed Phase 3 RCTs spanning two decades) and this is already the accepted global standard of care. However, a **Blocking**-severity data gap exists: the absence of TFDA/CDSCO label warnings and contraindications means the safety pre-assessment (S1 stage) cannot be completed, and the drug has zero current India registrations.
+Phase 3 randomised evidence and multiple high-quality RCTs and guidelines support temozolomide in adult astrocytic tumours, and 20 products are already marketed in India. Package insert safety data are missing, and significant haematological toxicity is expected.
 
 **To proceed, the following is needed:**
-- Official India (or reference-market) package insert data — warnings, contraindications, and precautions — to complete the S1 safety review
-- Confirmation of a regulatory registration pathway (new drug application / import license) in India, since this is a market-entry decision rather than an off-label repurposing decision
-- DDI severity reconciliation for the ~318 "Unknown"-level interactions, prioritizing agents commonly co-prescribed in oncology settings (antiemetics, corticosteroids, PPIs)
+- Package insert warnings and contraindications from the India product labels, plus the approved indication text, which is missing for all licences
+- Detailed mechanism-of-action data from DrugBank
+- A haematological monitoring plan, especially for patients with bone marrow suppression or liver impairment
+- Review of the interaction list for co-medications commonly used in this population
 
-*Secondary signal noted but out of scope for this report: the evidence pack also flags "cauda equina neoplasm" (rank 2, Evidence Level L4, based on a single case report) — evidence is currently insufficient and the pack itself already recommends Hold for this indication.*
+---
+
+## Additional Note: Cauda Equina Neoplasm (Second Prediction)
+
+TxGNN also predicted **cauda equina neoplasm** (score 99.30%). This is only a **research question** (evidence level L4). There are no registered clinical trials, and the only relevant publication is a single case report of a response in relapsed spinal myxopapillary ependymoma ([PMID 29270703](https://pubmed.ncbi.nlm.nih.gov/29270703/), 2018). The other two retrieved papers are off-topic. The high score likely reflects network proximity to other CNS tumours rather than direct evidence, and **no clinical recommendation** can be made without prospective data.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

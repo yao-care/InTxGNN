@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Olanzapine
-parent: Moderate Evidence (L3-L4)
-nav_order: 610
-evidence_level: L3
+parent: Model Prediction Only (L5)
+nav_order: 615
+evidence_level: L5
 indication_count: 3
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,31 +29,37 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-# Olanzapine: From Schizophrenia/Bipolar Disorder to Dysthymic Disorder
+# Olanzapine: From Schizophrenia and Bipolar Disorder to Benign Paroxysmal Torticollis of Infancy
 
 ## One-Sentence Summary
 
-Olanzapine is a second-generation (atypical) antipsychotic historically used for schizophrenia and bipolar disorder. Among the three indications TxGNN predicted, **Dysthymic Disorder** is the only one with actual supporting evidence — **5 publications**, though **no dedicated clinical trials** — and is therefore the focus of this report, even though it ranks third by raw TxGNN score. The two higher-scoring predictions were screened out (see note below) because they carry zero evidence and, in one case, a serious safety concern.
-
-> **Note on candidate selection:** TxGNN's top two scored predictions — *benign paroxysmal torticollis of infancy* (99.54%) and *agoraphobia* (99.47%) — returned **zero** clinical trials or literature on cross-check, and the pack's own mechanistic-link analysis flags the torticollis prediction as a likely spurious knowledge-graph artifact with no plausible pharmacology, additionally noting the serious safety risk of using an antipsychotic in infants. Both are scored `S0 / Hold` in the source data and are not carried forward as the headline candidate. Dysthymic Disorder (99.28%, rank 3) is used instead as it is the only candidate that reached `S1` with real evidence.
+Olanzapine is an antipsychotic originally used to treat schizophrenia, bipolar disorder, and depressive and anxiety disorders.
+The TxGNN model predicts it may be effective for **benign paroxysmal torticollis of infancy**,
+but **no clinical trials and no publications** currently support this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia / Bipolar Disorder (general drug-class knowledge; original_moa/indications not available in this evidence pack) |
-| Predicted New Indication | Dysthymic Disorder |
-| TxGNN Prediction Score | 99.28% |
-| Evidence Level | L3 |
-| Taiwan Market Status | Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Original Indication | Schizophrenia, bipolar disorder, major depressive disorder, anxiety disorder (the approved indication text in the India licences is blank; these come from knowledge-graph indication data) |
+| Predicted New Indication | Benign paroxysmal torticollis of infancy |
+| TxGNN Prediction Score | 99.54% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this candidate (flagged as a Blocking/High data gap in the evidence pack). Based on generally known pharmacology, olanzapine is a second-generation antipsychotic with 5-HT2A/5-HT2C antagonism and weak 5-HT1A agonism, in addition to its D2 antagonism. This serotonergic receptor-modulating profile is the same mechanistic basis underlying its already-established use in the olanzapine-fluoxetine combination (Symbyax) for treatment-resistant depression, which lends some biological plausibility to a role in mood disorders more broadly, including dysthymic disorder (persistent low-grade depressive symptoms).
+Detailed mechanism of action data is not available in the data compiled for this report. Olanzapine is generally known as a dopamine D2 and serotonin 5-HT2A antagonist, and its efficacy in psychotic and mood disorders is established.
 
-That said, dysthymia is a chronic, low-intensity depressive condition typically managed with antidepressants and psychotherapy; atypical antipsychotics are more commonly used as an *augmentation* strategy rather than monotherapy. The literature identified below supports this pattern — it centers on antipsychotic augmentation in depressive/personality-disorder contexts rather than dysthymia as a primary target — so the mechanistic story is coherent but the specific fit to dysthymic disorder remains indirect. Sedation and metabolic side effects (weight gain, dyslipidemia) also weigh against long-term use for a chronic, low-severity condition and need explicit risk-benefit justification.
+The predicted condition is a rare, self-limiting paroxysmal movement disorder of infancy. It is related to the migraine spectrum and to CACNA1A channelopathy. There is no established link between this condition and olanzapine's receptor pharmacology. The high score most likely reflects proximity to other paroxysmal or movement disorders in the knowledge graph, not a pharmacological rationale.
+
+Olanzapine is also poorly suited to infants because of its metabolic and sedative adverse effects, and the condition usually resolves on its own. The prediction should therefore be treated as a weak, hypothesis-only signal.
+
+For context, two other predictions for this drug have more supporting evidence (both L3, "Research Question"):
+- **Agoraphobia** (score 99.47%): a 12-week open-label olanzapine augmentation trial in treatment-resistant panic disorder (31 patients), plus case reports.
+- **Dysthymic disorder** (score 99.28%): a Cochrane review of second-generation antipsychotics for major depression and dysthymia, plus indirect studies.
 
 ## Clinical Trial Evidence
 
@@ -61,36 +67,53 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [10578457](https://pubmed.ncbi.nlm.nih.gov/10578457/) | 1999 | Open-label cohort | Biological Psychiatry | Open-label olanzapine trial in borderline personality disorder with comorbid dysthymia; supports tolerability/efficacy signal in this comorbid population |
-| [21154393](https://pubmed.ncbi.nlm.nih.gov/21154393/) | 2010 | Systematic Review (Cochrane) | Cochrane Database of Systematic Reviews | Reviews second-generation antipsychotics, including olanzapine, as augmentation for major depressive disorder and dysthymia |
-| [22938165](https://pubmed.ncbi.nlm.nih.gov/22938165/) | 2012 | Review | Bipolar Disorders | Evidence-based options for treatment-resistant bipolar disorder; contextualizes antipsychotic use in mood disorders |
-| [11920152](https://pubmed.ncbi.nlm.nih.gov/11920152/) | 2002 | Review | Molecular Psychiatry | Reviews substituted benzamides' shared mechanistic rationale across dysthymic disorder and schizophrenia negative symptoms — relevant analog for olanzapine's dual-mechanism logic |
-| [34727399](https://pubmed.ncbi.nlm.nih.gov/34727399/) | 2021 | Systematic Review / Meta-analysis | Human Psychopharmacology | Meta-analysis of amisulpride (related atypical antipsychotic) for depressive symptoms across psychiatric disorders |
+Currently no related literature available.
 
-## Taiwan Market Information
+## India Market Information
 
-No Olanzapine license/product registrations are present in this evidence pack (`total_licenses = 0`, market status: Not Marketed).
+Twenty valid single-ingredient registrations are on record (no cancelled licences). The approved indication text is blank in the data compiled for this report. Five representative registrations:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 167725 | Olafast 20mg Tablet (Jagsam Pharma) | Strip of 10 tablets | Not stated |
+| 168855 | Olace 20mg Tablet (La Pharmaceuticals) | Strip of 10 tablets | Not stated |
+| 115118 | Jpine 5mg Tablet (Jpee Drugs) | Strip of 10 tablets | Not stated |
+| 167659 | Oliza Pet 10mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 30 tablets | Not stated |
+| 128536 | Lanopin 10mg Tablet MD (Molekule India Pvt Ltd) | Strip of 10 tablets (MD) | Not stated |
+
+All registered products are oral tablets.
 
 ## Safety Considerations
 
-- **Drug Interactions**: 338 total interactions documented. Major-severity interactions include **Bupropion**, **Morphine**, and **Potassium citrate**. Multiple Moderate-severity interactions involve antidiabetic agents (Metformin, Canagliflozin, Dapagliflozin, Alogliptin, Albiglutide, Chlorpropamide) — notable given olanzapine's known metabolic/glycemic risk profile and worth specific attention in any repurposing safety plan.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for label safety information.
 
-*(Key warnings and contraindications are not available in this evidence pack — flagged as a Blocking data gap; see Conclusion below.)*
+- **Contraindication and caution signals from the knowledge graph** (these are graph edges, not label text). Conditions flagged include:
+  - Cardiovascular and cerebrovascular: orthostatic hypotension, stroke and cerebral infarction, myocardial infarction.
+  - Metabolic: diabetes mellitus, diabetic ketoacidosis, hyperglycaemia, hyperlipidaemia, obesity.
+  - Haematological: neutropenia, agranulocytosis.
+  - Hepatic: liver failure, liver disease, cirrhosis.
+  - Neurological and other: epilepsy, benign prostatic hyperplasia.
+- **Drug Interactions**: 338 interactions were identified. Major-level interactions include:
+  - Bupropion
+  - Morphine
+  - Potassium citrate
+
+  Moderate-level examples include metformin and other antidiabetic agents, anticholinergics (atropine, hyoscyamine, glycopyrronium), famotidine, clarithromycin, and epinephrine.
+
+The metabolic and sedative effects of olanzapine are especially concerning in infants.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L3 (systematic review / cohort only, no RCTs or trials specific to dysthymic disorder), the drug is not currently marketed in Taiwan, and TFDA label warnings/contraindications — required to clear the S1 safety gate — are a **Blocking** data gap. The mechanistic rationale is plausible but indirect, so this remains a research question rather than a near-term repurposing candidate.
+The prediction score is very high, but there are no clinical trials or publications, no plausible mechanistic link, and an unfavourable risk-benefit profile in infants for a usually self-limiting condition.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (Blocking gap, DG001) — required before any S1 safety evaluation can complete
-- Confirmed mechanism of action documentation (High gap, DG002) to substantiate the mechanistic-link argument
-- A dedicated clinical trial or controlled study in dysthymic disorder, since current literature only addresses adjacent conditions (BPD comorbid dysthymia, MDD augmentation)
-- Metabolic/glycemic risk-benefit assessment given olanzapine's DDI profile with antidiabetic agents
+- Any mechanistic or clinical rationale linking olanzapine to this condition (none is currently apparent)
+- Detailed mechanism of action data
+- Package insert warnings and contraindications from the India regulatory source
+- Consider redirecting effort to the better-supported predictions (agoraphobia and dysthymic disorder), which warrant controlled studies and a metabolic risk-benefit assessment against established first-line options
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

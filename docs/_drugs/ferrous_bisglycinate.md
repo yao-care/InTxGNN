@@ -2,7 +2,7 @@
 layout: default
 title: Ferrous Bisglycinate
 parent: Model Prediction Only (L5)
-nav_order: 346
+nav_order: 349
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ferrous bisglycinate: From Iron Deficiency to Bronchitis
+# Ferrous Bisglycinate: From Iron Supplementation to Bronchitis
 
 ## One-Sentence Summary
 
-Ferrous bisglycinate is an oral iron supplement (a glycine-chelated form of ferrous iron) commonly used for iron deficiency and iron deficiency anemia. The TxGNN model predicts a possible association with **Bronchitis**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags the connection as likely indirect/noise rather than a causal mechanism.
-
----
+Ferrous bisglycinate is an iron chelate (iron bound to the amino acid glycine) marketed in India as an oral iron supplement. The TxGNN model predicts it may be effective for **bronchitis**, but **no clinical trials and no publications** were found to support this prediction, so it rests on a graph-based model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Iron deficiency / iron deficiency anemia (general pharmacological knowledge; no India license record exists to cite, as the product is not marketed) |
+| Original Indication | Not stated in the India license data (iron supplementation is the typical use) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 97.45% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 6 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on general pharmacological knowledge, ferrous bisglycinate is an oral iron salt in which ferrous iron is chelated to glycine to improve gastrointestinal absorption and bioavailability; its established role is correcting iron deficiency and supporting erythropoiesis (red blood cell production).
+Currently, detailed mechanism of action data is not available. Based on known information, ferrous bisglycinate is an iron chelate used to replenish iron, and its established role is in correcting iron deficiency. It is not an anti-infective or anti-inflammatory agent.
 
-There is no known direct physiological pathway connecting iron repletion to bronchial inflammation. The evidence pack's own mechanistic assessment for this candidate states explicitly: *"no known mechanism: Ferrous bisglycinate acts on intestinal absorption and hematopoiesis, with no direct physiological pathway to bronchial inflammation,"* and suggests the high TxGNN score (0.974) more likely reflects an indirect knowledge-graph association — such as the known comorbidity between iron-deficiency anemia and chronic respiratory disease (anemia of chronic disease) — rather than a causal repurposing signal.
+No plausible mechanistic link between iron supplementation and the treatment of bronchitis has been established. The high TxGNN score (0.974) reflects proximity in a knowledge graph, not clinical or biological evidence. Because the original indication is missing from the license data, the relationship between the original and predicted indications cannot be assessed.
 
-This interpretation is reinforced by the broader prediction list for this drug: several other top-ranked candidates (gastroduodenitis, peptic ulcer disease) represent **known adverse-effect directions** of oral iron (GI mucosal irritation), and a cluster of unrelated coagulation-factor disorders (heparin cofactor 2 deficiency, antithrombin deficiency, factor V excess, thrombophilia) appear consecutively in the ranking, suggesting a knowledge-graph clustering artifact rather than independent pharmacological signals. Taken together, the bronchitis prediction should be treated as **hypothesis-generating only**, not as a mechanistically grounded repurposing candidate.
-
----
+Other top-ranked predictions are also unsupported. These include bronchial neoplasm, gastroduodenitis, peptic ulcer disease, and several clotting disorders (heparin cofactor 2 deficiency, antithrombin deficiency type 2, thrombophilia). Several of them, such as the cancer and Chagas cardiomyopathy predictions, raise a concern that supplemental iron could be harmful rather than helpful. For peptic ulcer, iron supports anemia care after bleeding but does not treat the ulcer.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-This product currently has no drug registration/license records in India (market status: **Not Marketed**, total registrations: 0). No approved indication text is available for reference.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 84828 | Fenton-PR Tablet | Strip of 10 tablets | Not stated |
+| 85861 | Ferro-Svp Tablet | Strip of 10 tablets | Not stated |
+| 6753 | Albuvit-Fe Tablet | Strip of 10 tablets | Not stated |
+| 26774 | Bisred Tablet | Strip of 10 tablets | Not stated |
+| 200366 | Sayfer XT Tablet | Strip of 10 tablets | Not stated |
 
----
+Six valid single-ingredient licenses are registered in total (a sixth product, Hbqte-XT Tablet, license 104189, comes in strips of 15 tablets). All are oral tablets.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA/local labeling warnings and contraindications are recorded as a Blocking data gap — DG001 — meaning a formal safety assessment (S1 stage) cannot proceed until this information is obtained.)*
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found for this drug in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The bronchitis prediction is based solely on a TxGNN model score (L5, no supporting clinical trials or literature), and the model's own rationale identifies no plausible mechanistic link — with some corroborating context (adjacent predictions) suggesting the signal cluster may be graph-embedding noise rather than a genuine pharmacological association. The drug is also not currently marketed in India, and mechanism-of-action and labeling/safety data are both missing (one at Blocking severity).
+The prediction is supported only by a model score, with no trials, no literature, and no credible mechanistic link between iron supplementation and bronchitis. Safety label information is also missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain official product labeling (warnings, contraindications) before any safety evaluation can begin
-- Resolve DG002: obtain confirmed mechanism-of-action data from DrugBank or another authoritative source
-- Preclinical or mechanistic studies specifically linking iron repletion/chelation to airway inflammation, to establish biological plausibility beyond the KG association
-- Continued monitoring of ClinicalTrials.gov, ICTRP, and PubMed for any emerging trials or publications on this drug-disease pair
+- Package insert warnings and contraindications from the India regulatory source
+- Mechanism of action data (e.g., from DrugBank)
+- The approved indication text for the registered products
+- Any preclinical or clinical evidence linking iron chelates to bronchitis, which is currently absent
+- Route and dosage-form compatibility assessment for a respiratory indication (currently only oral tablets are registered)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

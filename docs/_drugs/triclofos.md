@@ -2,7 +2,7 @@
 layout: default
 title: Triclofos
 parent: Model Prediction Only (L5)
-nav_order: 856
+nav_order: 863
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,15 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using the drug-repurposing-evaluation-report skill implicitly per the specified template (no other skill applies — this is a direct content-generation task using the fixed prompt format).
-
-# Triclofos: From Sedative-Hypnotic Agent to Insomnia
+# Triclofos: From Sedation/Hypnosis (No Indication Text on Record) to Insomnia
 
 ## One-Sentence Summary
 
-> Triclofos is the prodrug of trichloroethanol — the same active metabolite as chloral hydrate — and has historically been used as a sedative-hypnotic, though it is not currently marketed or registered in India.
-> The TxGNN model's top prediction for this drug is **Insomnia (disease)**, essentially reaffirming its known historical pharmacological role rather than identifying a truly novel indication.
-> Direct supporting evidence for this exact entry is currently limited (0 clinical trials, 0 literature citations attached to the "insomnia" node itself), though closely related synonym terms and adjacent indications (sleep disorder, anxiety/sedation) are supported by multiple older RCTs and case reports.
+Triclofos is an oral sedative-hypnotic, a prodrug of trichloroethanol (the active metabolite of chloral hydrate). The indication text is blank on all of its Indian registrations.
+The TxGNN model predicts it may be effective for **insomnia** (score 99.91%). However, **no clinical trials** are registered under this exact label, and the supporting literature sits under closely related labels. This is the drug's established pharmacological class use, not a novel repurposing signal.
 
 ---
 
@@ -45,47 +42,73 @@ Using the drug-repurposing-evaluation-report skill implicitly per the specified 
 
 | Item | Content |
 |------|------|
-| Original Indication | No structured registration or indication data available (drug not currently marketed in India; original MOA and indication fields are data gaps) |
-| Predicted New Indication | Insomnia (disease) |
+| Original Indication | Not stated (all registration records have blank indication text) |
+| Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.91% |
-| Evidence Level | L4 (mechanism/preclinical-level support) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 (L3 under the related label "sleep disorder, initiating and maintaining sleep") |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 18 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, Triclofos (triclofos sodium) is a phosphorylated derivative of chloral hydrate, functioning as a prodrug that is metabolized to trichloroethanol — the identical active metabolite produced by chloral hydrate itself. Trichloroethanol acts on the GABA-A receptor complex, producing sedative and hypnotic effects, a mechanism that is well established in the pharmacology literature even though it is not recorded in the structured `original_moa` field here.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, triclofos is a prodrug of trichloroethanol, which enhances GABA-A receptor-mediated inhibition and produces sedative-hypnotic effects. This is mechanistically consistent with treating insomnia.
 
-Because trichloroethanol is the shared active moiety of both chloral hydrate and triclofos, and chloral hydrate has a long clinical history as a sedative-hypnotic, the predicted indication of "insomnia" is not so much a novel repurposing hypothesis as a restatement of the drug's traditional pharmacological class effect. This is corroborated by literature attached to the closely related synonym node "sleep disorder, initiating and maintaining sleep," which includes a 1979 double-blind crossover hypnotic trial (PMID 387491) directly comparing triclofos sodium to nitrazepam for insomnia, and a 1972 case-series report (PMID 4567567) titled "Triclofos sodium (Triclos) for insomnia."
+Because insomnia is the drug's long-standing class use, this prediction is better read as a confirmation of known pharmacology than as a new repurposing opportunity. Closely related records exist under "sleep disorder, initiating and maintaining sleep," including a 1979 double-blind crossover trial and a 1972 clinical report. The product has been largely superseded by newer hypnotics.
 
-Additional indirect support comes from a substantial body of pediatric procedural-sedation and premedication RCTs (attached to the "anxiety" node) comparing oral triclofos to midazolam, diazepam, flunitrazepam, and hydroxyzine. These studies confirm triclofos's clinically effective sedative-hypnotic activity across decades of use, even though their endpoints (procedural sedation, preoperative anxiolysis) are not identical to a chronic insomnia indication. Overall, the mechanistic rationale is strong, but it should be read as validating an already-known drug class effect rather than uncovering a new therapeutic use.
+Other predicted indications fall into three groups:
+- **Anxiety and procedural sedation:** Pre-operative anxiolysis and sedation in children has the most literature (ranks 2 and 5). It supports a procedural-sedation use, not treatment of anxiety disorders.
+- **Speculative anxiety-spectrum links:** Neurocirculatory asthenia, agoraphobia and irritable bowel syndrome (ranks 4, 6 and 9) have no supporting evidence.
+- **Likely graph artifacts:** Juvenile Parkinson disease 19A, benign paroxysmal torticollis of infancy and acute encephalopathy with biphasic seizures (ranks 7, 8 and 10) have no credible mechanistic link.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials are registered for insomnia or the other top predicted indications.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for this specific indication entry (insomnia). Note: closely related synonym terms in this evidence pack (e.g., "sleep disorder, initiating and maintaining sleep") do carry supporting literature — see the rationale discussion above.
+No literature was retrieved under the exact label "insomnia." The most relevant records sit under related labels:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [387491](https://pubmed.ncbi.nlm.nih.gov/387491/) | 1979 | Comparative trial | J Int Med Res | Double-blind crossover in 30 insomnia patients: Finorgal, nitrazepam and triclofos sodium gave similar sleep induction, duration and quality |
+| [4567567](https://pubmed.ncbi.nlm.nih.gov/4567567/) | 1972 | Clinical report | Med Lett Drugs Ther | Report on triclofos sodium for insomnia (uncontrolled; no abstract) |
+| [6102865](https://pubmed.ncbi.nlm.nih.gov/6102865/) | 1980 | Comparative trial | Br J Anaesth | Double-blind study of 128 children; triclofos gave good anxiolysis, and was superior to diazepam and flunitrazepam in children under 5 |
+| [24574594](https://pubmed.ncbi.nlm.nih.gov/24574594/) | 2014 | Randomized comparative | J Anaesthesiol Clin Pharmacol | Midazolam vs triclofos vs hydroxyzine as premedication in children |
+| [31198261](https://pubmed.ncbi.nlm.nih.gov/31198261/) | 2019 | Comparative trial | Anesth Essays Res | Oral triclofos vs oral midazolam as premedication in pediatric elective surgery |
+| [28492195](https://pubmed.ncbi.nlm.nih.gov/28492195/) | 2017 | Comparative study | J Indian Soc Pedod Prev Dent | Nitrous oxide-oxygen vs triclofos sodium as conscious sedation in pediatric dentistry |
+| [22918094](https://pubmed.ncbi.nlm.nih.gov/22918094/) | 2012 | Comparative study | J Indian Soc Pedod Prev Dent | Oral midazolam vs tramadol, triclofos and zolpidem in pediatric dental sedation |
+| [40153912](https://pubmed.ncbi.nlm.nih.gov/40153912/) | 2025 | Cohort | Brain Dev | Risk factors for sedation and MRI failure with oral triclofos and/or rectal chloral hydrate in children with neurodevelopmental disorders |
+
+The insomnia-related evidence is old and of limited methodological quality. The pediatric premedication and sedation studies support procedural sedation rather than treatment of anxiety disorders.
 
 ---
 
 ## India Market Information
 
-Triclofos currently has no registered products in India — 0 authorizations are on record, and market status is listed as **Not Marketed**.
+Triclofos is marketed in India with 18 valid single-ingredient registrations. Indication text is blank on all of them. Five examples:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 174194 | Pedicalm Oral Solution | Oral solution, 30 ml bottle | Not stated |
+| 174456 | Pedirest Syrup | Syrup, 30 ml bottle | Not stated |
+| 223755 | Tricloslep Drop | Drop, 15 ml packet | Not stated |
+| 173611 | Pedicloryl Oral Solution | Oral solution, 30 ml bottle | Not stated |
+| 227201 | Trolis 500mg Oral Suspension | Oral suspension, 30 ml bottle | Not stated |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Structured warnings, contraindications, and drug-interaction data are not currently available for this entry, and this gap has been flagged as **Blocking** (DG001) for safety evaluation purposes — see Conclusion below.
+Please refer to the package insert for safety information. Warnings and contraindications could not be retrieved for this report, and no drug-interaction records were found.
+
+Literature notes that sedative-hypnotics are not recommended for irritable bowel syndrome because of dependence and tolerance concerns. It also notes that sedation could confound neurological assessment in acute encephalopathy.
 
 ---
 
@@ -94,13 +117,14 @@ Please refer to the package insert for safety information. Structured warnings, 
 **Decision: Hold**
 
 **Rationale:**
-- The predicted indication is well-supported mechanistically (shared active metabolite with chloral hydrate, a known hypnotic class effect) and consistent with historical literature, but this evidence pack lacks any registered product, label warnings/contraindications, or trials/literature directly attached to the insomnia entry itself. A blocking data gap (missing warnings/contraindications) prevents a preliminary safety assessment (S1), so the candidate cannot advance past a research question stage yet.
+Insomnia is a plausible, mechanistically consistent indication, but it reflects the drug's established class use rather than a new repurposing finding. There are no registered trials, and the supporting literature is dated (1972 and 1979). The remaining predictions have little or no evidence.
 
 **To proceed, the following is needed:**
-- Official label warnings and contraindications (via source regulatory agency, since India has no registration to reference)
-- Confirmed mechanism of action data from DrugBank
-- Clarification of current global marketing/registration status for triclofos
-- A safety monitoring plan addressing known chloral-hydrate-class risks (hepatic metabolism, respiratory depression, cardiac arrhythmia with prolonged/high-dose use), particularly given its historical use in pediatric populations
+- The package insert (warnings, contraindications, approved indications) from the Indian regulator, because safety screening cannot proceed without it
+- Detailed mechanism-of-action data from DrugBank
+- A review of whether the pediatric procedural-sedation literature should be framed as a separate indication from insomnia
+- Comparison with currently preferred hypnotics, since triclofos is largely superseded
+- Confirmation of the study designs of the pediatric premedication papers, which cannot be verified from titles and abstracts alone
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Riociguat
-parent: High Evidence (L1-L2)
-nav_order: 736
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 743
+evidence_level: L5
 indication_count: 10
 ---
 
 # Riociguat
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,98 +29,81 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Riociguat: From Pulmonary Arterial Hypertension to PAH Associated with Connective Tissue Disease
+# Riociguat: From Pulmonary Arterial Hypertension to Ambras Type Hypertrichosis Universalis Congenita
 
 ## One-Sentence Summary
 
-> Riociguat is a soluble guanylate cyclase (sGC) stimulator already established for pulmonary arterial hypertension (PAH), as confirmed by the PATENT‑1/2 pivotal trial literature in this evidence pack.
-> TxGNN's single highest-scoring prediction (*Ambras type hypertrichosis*, 94.9%) has zero supporting evidence and is flagged in the rationale itself as model noise, so it is not a usable candidate.
-> Among the candidates that do have evidence, the model repeatedly surfaces specific **PAH etiological subtypes** — most notably **PAH associated with connective tissue disease (CTD-PAH)** — supported by **12 publications**, including a dedicated riociguat-specific PATENT‑1/2 subgroup RCT analysis, but **no dedicated clinical trials** for this subgroup are currently registered.
-
----
+Riociguat is an oral soluble guanylate cyclase (sGC) stimulator, originally used to treat pulmonary arterial hypertension and chronic thromboembolic pulmonary hypertension.
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, but this is a **model-only prediction with 0 clinical trials and 0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Pulmonary Arterial Hypertension (PAH) — inferred from PATENT‑1/2 trial literature in this pack; no formal license/label data available |
-| Predicted New Indication | PAH associated with Connective Tissue Disease (CTD-PAH) |
-| TxGNN Prediction Score | 91.55% |
-| Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
-⚠️ **Note on ranking**: TxGNN's raw #1–#5, #7, #8 candidates (scores 91.5%–94.9%) — including hair-shaft disorders, Dandy-Walker syndrome, and periodontal malformation — have **zero clinical trial or literature support**, and the pack's own rationale explicitly labels them prediction noise. This report focuses on the highest-evidence, mechanistically coherent candidate (CTD-PAH) rather than the raw top score.
-
----
+| Original Indication | Pulmonary arterial hypertension; chronic thromboembolic pulmonary hypertension |
+| Predicted New Indication | Ambras type hypertrichosis universalis congenita |
+| TxGNN Prediction Score | 94.92% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 9 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Formal MOA documentation (DrugBank) is currently a data gap (DG002). However, the literature within this pack consistently characterizes riociguat as a **soluble guanylate cyclase (sGC) stimulator** that amplifies the NO–sGC–cGMP signaling pathway, producing pulmonary vasodilation as well as anti-proliferative and anti-fibrotic effects on remodeled pulmonary vasculature.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Riociguat is known to be an sGC stimulator, which acts on the NO-sGC-cGMP pathway. Its efficacy in pulmonary hypertension is established.
 
-CTD-PAH is not a separate disease but a recognized **etiological subgroup within WHO Group 1 PAH** — the same broad category riociguat is already indicated for. Connective tissue disease, particularly systemic sclerosis, is one of the largest non-idiopathic contributors to the global PAH population, and the pivotal PATENT‑1/PATENT‑2 phase III program that established riociguat's efficacy in PAH included a **prospectively planned CTD-PAH subgroup** (PMID 27457511).
+The link to the predicted condition is weak. Ambras type hypertrichosis is a genetic hair follicle developmental disorder. No established connection exists between sGC stimulation and this defect. The high score most likely reflects the structure of the knowledge graph rather than a biological rationale.
 
-Mechanistically, CTD-PAH shares the same core vasculopathy as idiopathic PAH — medial hypertrophy, intimal fibrosis, and endothelial NO/cGMP deficiency — so riociguat's sGC-stimulating action is expected to translate similarly. A clinical case series (PMID 28671485) further reports benefit when CTD-PAH patients were switched from PDE5 inhibitors to riociguat, reinforcing the biological plausibility beyond the trial subgroup data alone.
-
----
+Some vasodilators, such as minoxidil, cause excess hair growth through a different mechanism (potassium channel opening). That may partly explain the graph-based score, but it is not evidence of therapeutic benefit. No data on riociguat were found for this question.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
-*(A related trial exists for a different PAH-CHD subgroup — NCT07356778 — but it evaluates sotatercept add-on therapy, not riociguat, so it is not included here.)*
-
----
-
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [27457511](https://pubmed.ncbi.nlm.nih.gov/27457511/) | 2017 | RCT subgroup analysis | Annals of the Rheumatic Diseases | Riociguat improved outcomes in the PAH-CTD subgroup of the PATENT‑1/PATENT‑2 phase III program |
-| [38378970](https://pubmed.ncbi.nlm.nih.gov/38378970/) | 2024 | Systematic review/meta-analysis | Internal and Emergency Medicine | Meta-analysis of RCT subgroup/post-hoc data on CTD-PAH treatment outcomes |
-| [37765060](https://pubmed.ncbi.nlm.nih.gov/37765060/) | 2023 | Review | Pharmaceuticals (Basel) | Overview of PAH-CTD pathophysiology and treatment advances, including riociguat |
-| [28671485](https://pubmed.ncbi.nlm.nih.gov/28671485/) | 2017 | Cohort (case series) | Pulmonary Circulation | Switching from PDE5 inhibitor to riociguat improved outcomes in 3 PAH-CTD patients |
-| [33131480](https://pubmed.ncbi.nlm.nih.gov/33131480/) | 2020 | Review/commentary | Kardiologiia | Discusses riociguat's role in PAH associated with systemic connective tissue disease |
-| [27941129](https://pubmed.ncbi.nlm.nih.gov/27941129/) | 2017 | Guideline (EULAR) | Annals of the Rheumatic Diseases | EULAR recommendations include PAH-targeted therapy for systemic sclerosis |
-| [40331647](https://pubmed.ncbi.nlm.nih.gov/40331647/) | 2025 | Cohort (prospective) | Kardiologiia | Long-term survival analysis in PAH associated with autoimmune rheumatic disease |
-| [35412560](https://pubmed.ncbi.nlm.nih.gov/35412560/) | 2022 | Review | JAMA | General PAH diagnosis and treatment overview |
-| [31090367](https://pubmed.ncbi.nlm.nih.gov/31090367/) | 2019 | Cohort (registry) | Terapevticheskii Arkhiv | Six-year national PAH registry observation |
-| [40592721](https://pubmed.ncbi.nlm.nih.gov/40592721/) | 2025 | Review (narrative) | RMD Open | 2025 update on the systemic sclerosis treatment landscape |
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-Riociguat currently has **no registrations** and is **not marketed** in this jurisdiction (0 licenses on file), so no product/dosage-form table is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 189517 | Riopah 1mg Tablet (Lupin Ltd) | Strip of 10 tablets | Not listed |
+| 185114 | Rioteph 0.5mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not listed |
+| 184984 | Rioci 0.5mg Tablet (MSN Laboratories) | Strip of 10 tablets | Not listed |
+| 191524 | Rioci 2mg Tablet (MSN Laboratories) | Strip of 10 tablets | Not listed |
+| 185852 | Rioteph 1.5mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not listed |
 
----
+Nine valid single-ingredient registrations exist in total, all oral tablets. The remaining four are Rioci 1mg and 1.5mg, Riopah 0.5mg and Rioteph 1mg.
 
 ## Safety Considerations
 
-- **Drug Interactions**: 75 documented interactions identified (all Moderate severity in the available data), notably with:
-  - Proton pump inhibitors (rabeprazole, omeprazole, pantoprazole, lansoprazole, dexlansoprazole, esomeprazole)
-  - SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin)
-  - Antacids/mineral agents (magnesium oxide/carbonate/hydroxide, calcium carbonate, aluminum hydroxide, magaldrate, mannitol)
-  - Dexamethasone, clarithromycin, papaverine
+- **Drug Interactions**: 75 interactions were recorded. The 20 listed in the data compiled for this report are all Moderate severity. They include:
+  - Proton pump inhibitors: omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole and rabeprazole.
+  - Antacids: calcium carbonate, aluminium hydroxide, magaldrate, and magnesium oxide, carbonate and hydroxide.
+  - SGLT2 inhibitors: canagliflozin, dapagliflozin, empagliflozin and ertugliflozin.
+  - Others: dexamethasone, clarithromycin, mannitol and papaverine.
+- **Class-level cautions** (from the general assessment of riociguat):
+  - Co-administration with nitrates or PDE5 inhibitors should be avoided.
+  - Embryo-fetal toxicity requires contraception.
+  - Blood pressure should be monitored for hypotension.
 
-Formal label warnings and contraindications are a blocking data gap (DG001) and are not yet available in this pack.
-
----
+Please refer to the package insert for full warnings and contraindications. These were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-CTD-PAH is a pre-specified subgroup of riociguat's pivotal PATENT‑1/2 phase III program (tier‑1 RCT subgroup evidence), reinforced by cohort/case-series data — sufficient to advance under guardrails, but not to a full "Go" given the absence of a dedicated trial in this specific subgroup and outstanding blocking safety data gaps.
+The prediction rests only on a graph-based score. There are no clinical trials or publications, and no plausible mechanistic link between sGC stimulation and this genetic hair follicle disorder. The drug is widely marketed in India, but only for its original pulmonary hypertension indications.
 
 **To proceed, the following is needed:**
-- Official label warnings/contraindications (DG001 — blocking; required for S1 safety screen)
-- Formal DrugBank/regulatory MOA documentation (DG002)
-- Market entry/registration assessment, since the drug currently has zero registrations in this jurisdiction
-- A dedicated prospective trial or registry analysis in the CTD-PAH population if a formal label extension is sought
-- Review of the TxGNN ranking pipeline: six of the ten returned candidates (including the #1-ranked prediction) have no supporting evidence and should be filtered as noise before future evidence packs are generated
+- Mechanistic or preclinical evidence linking sGC/cGMP signalling to the hair follicle phenotype
+- Package insert warnings and contraindications from the manufacturers' labels
+- Detailed mechanism of action data
+- Assessment of whether the vasodilatory effects of riociguat could worsen hypertrichosis, as with minoxidil
+
+**Note on other predictions for this drug:** Better-supported candidates exist. These are pulmonary arterial hypertension associated with connective tissue disease (Evidence Level L1, with PATENT-1/2 subgroup data) and pulmonary arterial hypertension associated with congenital heart disease (L3). Both are largely subgroups of the already approved indication rather than true repurposing, and they would be better places to focus further evaluation.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Denosumab
 parent: Model Prediction Only (L5)
-nav_order: 240
+nav_order: 242
 evidence_level: L5
 indication_count: 2
 ---
@@ -33,86 +33,73 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Denosumab is a fully human monoclonal antibody targeting RANKL (Receptor Activator of Nuclear Factor Kappa-B Ligand), primarily approved for osteoporosis and prevention of skeletal-related events associated with bone metastases.
-The TxGNN model predicts it may be effective for **Severe Nonproliferative Diabetic Retinopathy**, with a near-perfect prediction score of 99.63%.
-However, **no clinical trials** and **no publications** currently directly support this specific indication — this prediction is entirely model-driven at this stage.
-
----
+Denosumab is a RANKL inhibitor originally used to treat osteoporosis, including postmenopausal and drug-induced osteoporosis.
+The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but the support is **model prediction only**, with **no clinical trials** and **no directly relevant publications** for this specific indication.
+A related prediction, diabetic retinopathy, has 2 publications, but neither addresses retinopathy outcomes directly.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Osteoporosis; prevention of skeletal-related events in bone metastases (known approved indications globally) |
-| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
+|------|------|
+| Original Indication | Osteoporosis (including postmenopausal and drug-induced osteoporosis) |
+| Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 10 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from our regulatory data sources. Based on known pharmacology, Denosumab is a fully human IgG2 monoclonal antibody that binds and inhibits RANKL, thereby suppressing osteoclast formation, function, and survival — the core mechanism underlying its approvals for osteoporosis and bone metastases management in markets such as the US, EU, and Japan.
+Detailed mechanism of action data is not available in the data compiled for this report. Denosumab is known as a RANKL inhibitor, and its efficacy in osteoporosis is established. Mechanistically, RANKL/RANK signalling has been proposed to play a role in inflammation, vascular calcification and metabolic regulation.
 
-The mechanistic bridge to severe nonproliferative diabetic retinopathy (SNPDR) is biologically plausible but unvalidated. The RANKL/OPG signaling axis may play a role in retinal pericyte survival, and RANKL inhibition could theoretically suppress downstream NF-κB-driven inflammatory pathways relevant to diabetic microvascular damage. Separately, a real-world cohort study (PMID 38899553, evaluating the broader diabetic retinopathy category) suggests Denosumab may reduce microvascular complications in type 2 diabetes — possibly through secondary improvements in insulin sensitivity — providing a weak indirect signal.
+A link to retinal microvascular disease or diabetes-related inflammation is therefore conceivable, but it is speculative. The only support in the data is the very high TxGNN score. No ocular efficacy or ocular safety data are available, and the mechanism cannot be cross-checked against a recorded mechanism of action.
 
-That said, none of these mechanistic links have been validated specifically in retinal tissue, and the high TxGNN score (0.9963) most likely reflects indirect pathway associations in the knowledge graph (connecting bone metabolism nodes to diabetic microvascular disease nodes) rather than direct biological evidence. The mechanistic leap from systemic RANKL inhibition in bone to retinal microvasculature pathology requires substantial preclinical investigation before a clinical hypothesis can be responsibly articulated.
-
----
+For the broader prediction of **diabetic retinopathy** (score 99.23%), one 2024 cohort analysis suggests denosumab may reduce the incidence of type 2 diabetes and related complications compared with bisphosphonates. This is an indirect, metabolic signal and not evidence of benefit in the retina.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for severe nonproliferative diabetic retinopathy.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for severe nonproliferative diabetic retinopathy.
+No literature is available for severe nonproliferative diabetic retinopathy. The following two publications were retrieved for the related prediction of diabetic retinopathy:
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [38899553](https://pubmed.ncbi.nlm.nih.gov/38899553/) | 2024 | Cohort / observational (inferred from title) | Diabetes, Obesity & Metabolism | Real-world cohort analysis with systematic review and meta-analysis. Denosumab was associated with lower incidence of type 2 diabetes, less foot ulceration and lower all-cause mortality than bisphosphonates. Microvascular outcomes, including retinopathy, were examined, but retinopathy-specific results cannot be confirmed from the available abstract. |
+| [36960265](https://pubmed.ncbi.nlm.nih.gov/36960265/) | 2023 | Observational / cross-sectional (inferred from title) | Cureus | Use of the FRAX fracture risk tool in adults with type 2 diabetes. Not relevant to denosumab efficacy in retinopathy. |
 
 ## India Market Information
 
-Denosumab is currently not registered or marketed in India. No approved indication data is available from the regulatory database (0 active licenses on record).
+Approved indication text was not recorded for these registrations. Five of the 10 valid registrations are listed.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 184573 | Rozel Injection (Intas Pharmaceuticals) | Prefilled syringe, 1 ml injection | Not recorded |
+| 161730 | Olimab 60mg Injection (Intas Pharmaceuticals) | Prefilled syringe, injection | Not recorded |
+| 243842 | Xgeva Solution for Injection (Dr Reddy's Laboratories) | Vial, solution for injection | Not recorded |
+| 59166 | Denosurel 120mg Injection (Reliance Life Sciences) | Vial, injection | Not recorded |
+| 173788 | Prolia Solution for Injection (Dr Reddy's Laboratories) | Prefilled syringe, solution for injection | Not recorded |
 
 ## Safety Considerations
 
-**Drug Interactions**: Denosumab has **193 recorded interactions** in the DDInter database. All interactions identified in this evidence pack are classified as **Moderate** severity. Key interaction categories include:
+- **Drug Interactions**: 193 interactions were recorded. The ones listed here are all moderate. They include corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone, methylprednisolone), immunosuppressants and related agents (tacrolimus, mercaptopurine, dupilumab, levamisole, trimetrexate), radiopharmaceuticals (ibritumomab tiuxetan, iobenguane I-131, tositumomab), and corticotropin and tetracosactide.
 
-| Interacting Drug(s) | Level | Clinical Note |
-|---------------------|-------|---------------|
-| Corticosteroids (Hydrocortisone, Dexamethasone, Prednisolone, Prednisone, Betamethasone, Budesonide, Methylprednisolone, Triamcinolone) | Moderate | Concurrent use may potentiate immunosuppression and increase infection risk; corticosteroids also independently impair bone metabolism |
-| Tacrolimus | Moderate | Additive immunosuppression requires monitoring for opportunistic infections |
-| Dupilumab | Moderate | Combined immunomodulation warrants clinical vigilance |
-| Mercaptopurine | Moderate | Potential additive immunosuppression |
-| Radiopharmaceuticals (Ibritumomab tiuxetan, Tositumomab I-131, Iobenguane I-131) | Moderate | Combination with myelosuppressive agents may increase hematologic toxicity risk |
-| Levamisole, Trimetrexate | Moderate | Immunomodulatory interactions; clinical significance requires case-by-case assessment |
-
-> Formal warnings, contraindications, and full prescribing information were not available in this evidence pack (Data Gap DG001). Please refer to the FDA/EMA package insert for complete safety guidance.
-
----
+Please refer to the package insert for warnings and contraindications. No ocular safety data are available for denosumab.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a very high TxGNN prediction score (99.63%), there is currently zero direct clinical or preclinical evidence linking Denosumab to severe nonproliferative diabetic retinopathy. The mechanistic rationale rests entirely on indirect inference from knowledge graph topology, and the drug has no regulatory presence in India.
+The prediction rests on a high model score alone (L5), with no clinical trials and no direct literature on retinopathy. The mechanistic link between RANKL inhibition and retinal microvascular disease is hypothetical.
 
 **To proceed, the following is needed:**
-
-- **Preclinical validation**: In vitro and in vivo studies to assess whether RANKL inhibition has measurable effects on retinal pericyte survival and retinal microvasculature in diabetic animal models
-- **Mechanistic clarification**: Establish whether the RANKL/OPG pathway is functionally active in retinal tissue and whether Denosumab's known downstream effects (NF-κB suppression, OPG upregulation) are relevant in a diabetic retinal context
-- **Broader DR signal review**: The related evidence for the rank-2 indication (Diabetic Retinopathy — PMID 38899553 cohort study and NCT00925600 Phase 3 trial) should be fully reviewed to determine whether any signal is transferable to the more severe SNPDR subtype
-- **MOA data retrieval**: Retrieve complete DrugBank MOA record (Data Gap DG002) to enable a rigorous mechanistic link analysis
-- **Safety profile completion**: Obtain TFDA/FDA package insert to resolve key warnings and contraindications (Data Gap DG001) before any S1 safety screening can proceed
-- **Regulatory pathway scoping**: If preclinical signals emerge, a regulatory strategy for India market entry would need to be defined prior to any clinical development planning
+- Full-text review of PMID 38899553 to check whether it contains retinopathy-specific outcomes, which could support an upgrade to L4
+- Detailed mechanism of action data and preclinical evidence linking RANKL/RANK signalling to diabetic retinopathy
+- Package insert warnings and contraindications for the registered Indian products
+- Ocular safety and efficacy data, including whether systemic administration is suitable for a retinal indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

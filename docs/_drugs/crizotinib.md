@@ -2,7 +2,7 @@
 layout: default
 title: Crizotinib
 parent: Model Prediction Only (L5)
-nav_order: 211
+nav_order: 213
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,80 +33,80 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Crizotinib is an ALK/ROS1/MET tyrosine kinase inhibitor originally developed for ALK-positive/ROS1-positive non-small cell lung cancer (NSCLC) — this is documented in the literature within this evidence pack rather than in formal India regulatory records, since the drug is not currently marketed in India. The TxGNN model's top-ranked prediction for this drug is **Gingival Fibromatosis**, but this direction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model prediction with no corroborating evidence.
-
----
+Crizotinib is a targeted kinase inhibitor (ALK, ROS1 and MET) originally used to treat non-small cell lung cancer.
+The TxGNN model predicts it may be effective for **gingival fibromatosis** (top-ranked prediction), but **no clinical trials and no publications** support this prediction.
+It is a computational signal only and should be treated as a hypothesis.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in India licensing (drug not marketed); per literature in this pack, crizotinib is approved for ALK-positive/ROS1-positive non-small cell lung cancer (NSCLC) |
-| Predicted New Indication | Gingival Fibromatosis |
+| Original Indication | Non-small cell lung carcinoma / lung cancer (from the knowledge graph; approved indication text is not available in the India licence records) |
+| Predicted New Indication | Fibromatosis, gingival |
 | TxGNN Prediction Score | 99.81% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is flagged as a data gap in DrugBank for this evidence pack. However, literature captured elsewhere in this same evidence pack (PMID 24756793, PMID 30069759) describes crizotinib as an ATP-competitive small-molecule inhibitor of the receptor tyrosine kinases c-Met, ALK, and ROS1, approved for NSCLC harboring EML4-ALK rearrangements and, subsequently, ROS1-rearranged NSCLC.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. From the literature, crizotinib is known to be an ATP-competitive inhibitor of the receptor tyrosine kinases ALK, ROS1 and MET. Its efficacy in ALK- or ROS1-positive non-small cell lung cancer is well established.
 
-Gingival fibromatosis is a benign, non-neoplastic overgrowth of gingival connective tissue, typically driven by fibroblast proliferation (often hereditary or drug-induced, e.g., by phenytoin, cyclosporine, or calcium channel blockers). There is no established biological pathway linking ALK, ROS1, or MET signaling to gingival fibroblast overgrowth, and no clinical or preclinical literature in this evidence pack draws that connection.
+For gingival fibromatosis, no pathway connecting these targets to the disease has been shown. The high TxGNN score (99.81%) reflects a pattern in the knowledge graph rather than demonstrated biology, and it should not be read as evidence of efficacy.
 
-Consistent with this, the model's own rationale record for this candidate states explicitly that there is no supporting trial or literature evidence and no known mechanistic link — the prediction reflects a TxGNN network-proximity signal only, not a validated pharmacological hypothesis.
-
----
+Other high-ranking predictions give context:
+- **Closest to the original indication:** lung hilum carcinoma (score 99.73%) is largely a subset of already-approved NSCLC use, supported by two case reports (ROS1-positive neoadjuvant therapy; 68-month PFS in ALK-positive disease). It is not a true repurposing.
+- **Lung germ cell tumor (99.73%)**: two basket or tumor-agnostic trials exist, but nothing shows that a germ cell tumor patient was treated.
+- **Lung benign neoplasm (99.73%)**: the many Phase 3 NSCLC trials concern a malignant, already-approved indication and do not transfer to benign tumors.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered for gingival fibromatosis.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available for gingival fibromatosis.
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 48989 | Crizalk 250mg Capsule (Pfizer Ltd) | Capsule (box of 60) | Not listed in licence record |
+| 48988 | Crizalk 200mg Capsule (Pfizer Ltd) | Capsule (box of 60) | Not listed in licence record |
+
+Both registrations are valid single-agent oral products.
 
 ## Cytotoxicity
-
-Crizotinib is classified as an antineoplastic agent (targeted small-molecule kinase inhibitor used in oncology), so cytotoxicity considerations are included even though the predicted indication above is non-oncologic.
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Targeted therapy (ALK/ROS1/MET tyrosine kinase inhibitor) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Liver function (ALT/AST/bilirubin — reports of fulminant hepatotoxicity), cardiac monitoring (ECG/QT interval — reports of bradycardia, QT prolongation, and multiple simultaneous cardiac toxicities), pulmonary symptoms (reports of drug-induced interstitial lung disease/organizing pneumonia) |
+| Monitoring Items | Liver function (case reports describe fatal fulminant liver failure), ECG and heart rate (case reports describe bradycardia, QT prolongation and other cardiac toxicity), CBC |
 | Handling Protection | Please refer to the package insert warnings and precautions |
-
----
 
 ## Safety Considerations
 
-**Drug Interactions**: A DDI query returned 566 total interactions. Notable **Major**-level interactions identified include Clarithromycin, Cisapride, Dolasetron, Eliglustat, and Granisetron. Multiple **Moderate**-level interactions were also identified, including Famotidine, Metformin, Loperamide, Bupropion, Aprepitant, and Dexamethasone.
+- **Drug Interactions**: 566 interactions were recorded. Major-level interactions include clarithromycin, cisapride, dolasetron, eliglustat and granisetron. Moderate-level examples include famotidine, metformin, loperamide, bupropion, aprepitant, dexamethasone and budesonide.
+- **Case-report safety signals** (not label text): fatal fulminant liver failure, multiple cardiac toxicities (bradycardia, QT prolongation, ventricular arrhythmia, pericarditis), sick sinus syndrome, erythema multiforme and erosive esophagitis.
 
-Key warnings and contraindications are not currently available in this evidence pack — please refer to the package insert for that information.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked TxGNN prediction (Gingival Fibromatosis) has no clinical trial or literature support and no plausible mechanistic link to crizotinib's ALK/ROS1/MET-inhibiting activity — evidence level L5 does not meet the threshold to advance this candidate.
+The prediction rests only on a model score, with no trials, no literature and no plausible mechanistic link to gingival fibromatosis. Known hepatic and cardiac risks make it hard to justify further work without a stronger biological rationale.
 
 **To proceed, the following is needed:**
-- Preclinical or mechanistic data establishing any plausible link between ALK/ROS1/MET signaling and gingival fibroblast proliferation
-- Formal MOA and safety documentation (both currently flagged as data gaps, one of them Blocking)
-- India-specific regulatory/label data, since the drug is currently not marketed there
-- Note: within this same evidence pack, other predicted indications for crizotinib carry materially stronger evidence and may warrant prioritization instead — notably "lung hilum carcinoma" (L3, Proceed with Guardrails) and "lung benign neoplasm" (L2, though its literature appears to reflect malignant ALK+/ROS1+ NSCLC trials rather than benign disease and should be re-verified for disease-label accuracy before use)
+- Mechanism-of-action data and a biological rationale linking ALK, ROS1 or MET signaling to gingival fibromatosis
+- Preclinical data (for example, fibroblast models from affected tissue)
+- Package insert warnings and contraindications from the India licence holder, which are currently missing
+- A risk-benefit assessment for a non-malignant, non-life-threatening condition, given the hepatotoxicity and cardiotoxicity reports
+- If lung-related indications are of interest, prioritize lung hilum carcinoma (ALK/ROS1-positive), which falls under the existing NSCLC indication, over the other predictions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

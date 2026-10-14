@@ -2,7 +2,7 @@
 layout: default
 title: Ferric Carboxymaltose
 parent: Model Prediction Only (L5)
-nav_order: 344
+nav_order: 347
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,74 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ferric carboxymaltose: From Iron Deficiency Anemia to Bronchitis
+# Ferric Carboxymaltose: From Iron Deficiency Replacement to Bronchitis
 
 ## One-Sentence Summary
 
-Ferric carboxymaltose is an intravenous iron replacement product globally used to treat iron deficiency anemia. The TxGNN model's top-ranked prediction is **Bronchitis**, but this signal is currently supported by **0 clinical trials** and **0 publications** — it is a pure model output with no empirical corroboration.
-
----
+Ferric carboxymaltose is an intravenous iron replacement product marketed in India. The TxGNN model predicts it may be effective for **bronchitis**, but this prediction rests on the graph model alone, with **0 clinical trials** and **0 publications** currently supporting it. Evidence is limited to model prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in evidence pack (drug not marketed in India, `total_licenses: 0`); globally indicated as an IV iron replacement for iron deficiency anemia |
+| Original Indication | Not stated in the India license data (the product is an intravenous iron replacement) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.00% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 14 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug in the evidence pack (flagged as data gap DG002, High severity). Based on general pharmacological knowledge, ferric carboxymaltose is a colloidal iron-carbohydrate complex used to replenish iron stores intravenously; it has no established anti-inflammatory, antimicrobial, or bronchodilatory pathway that would mechanistically connect it to bronchitis.
+Currently, detailed mechanism of action data is not available. Based on known information, ferric carboxymaltose is an intravenous iron preparation used to correct iron deficiency, and its efficacy in iron repletion is established.
 
-The model's own rationale for this prediction states explicitly: *"無已知機轉關聯，KG 分數推測缺乏臨床或文獻支持"* (no known mechanistic association; the KG score is speculative and lacks clinical or literature support). This is reflected in the evidence level (L5 — model prediction only) and decision stage (S0/Hold).
+For bronchitis, no identifiable mechanistic link exists in the data compiled for this report. Nothing connects iron repletion to airway inflammation or infection. The high score (0.990) is a graph-based prediction only, and the TxGNN rank (14,476) is not a sign of independent support.
 
-For context, the #2-ranked candidate — **thrombotic disease** (score 98.04%) — has meaningfully stronger, though still preliminary, support: a completed Phase 4 RCT (n=1,003) and 3 literature reports on iron-deficiency-associated thrombocytosis, placing it at Evidence Level L3. Reviewers evaluating this drug's repurposing potential may want to prioritize that direction over bronchitis, given the current evidence gap for the top-ranked prediction.
-
----
+Other top-ranked predictions were also reviewed:
+- **Thrombotic disease** (score 98.04%, L4): Iron deficiency is linked to reactive thrombocytosis and a prothrombotic tendency, and iron repletion may lower platelet counts. This suggests a possible reduction of thrombotic risk factors in iron-deficient patients, but it does not show that the drug treats thrombotic disease.
+- **Rheumatoid arthritis** (score 96.88%, L4): The drug appears effective and safe for iron-deficiency anaemia in inflammatory rheumatic disease. This is a supportive-care benefit, not disease modification.
+- **Bronchial neoplasm, granulomatous myositis, myositis fibrosa, exostosis, laryngotracheitis, tendinitis and heparin cofactor 2 deficiency**: No supporting evidence or plausible mechanism was found.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for bronchitis.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for bronchitis.
 
----
+For context, the literature linked to the second-ranked prediction (thrombotic disease) is listed below. It is indirect and does not support bronchitis.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [36282723](https://pubmed.ncbi.nlm.nih.gov/36282723/) | 2023 | Review | European Heart Journal | Iron deficiency is common in cardiovascular disease, including coronary artery disease, heart failure and pulmonary hypertension |
+| [41912474](https://pubmed.ncbi.nlm.nih.gov/41912474/) | 2026 | Cohort | Renal Failure | IV ferric carboxymaltose in non-dialysis CKD patients with iron deficiency; effects on platelet counts and transferrin, with possible implications for thrombogenicity |
+| [32079699](https://pubmed.ncbi.nlm.nih.gov/32079699/) | 2021 | Preclinical (animal) | Haematologica | In rats, iron deficiency-induced thrombocytosis increased thrombotic tendency; ferric carboxymaltose was used to reverse iron deficiency |
+| [42785516](https://pubmed.ncbi.nlm.nih.gov/42785516/) | 2026 | Review/Observational | Journal of Pediatrics | Comparison of effectiveness and safety of IV iron formulations in children with iron deficiency |
 
 ## India Market Information
 
-Ferric carboxymaltose is not currently marketed in India — no licenses are recorded in the evidence pack (`market_status: Not marketed`, `total_licenses: 0`).
+Fourteen valid single-ingredient registrations are on record. The approved indication text is not available in the license data. The five main authorizations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 72698 | Encicarb 1K Injection (Emcure Pharmaceuticals) | Vial of 20 ml injection | Not available |
+| 120929 | Larinject 50mg Injection (La Renon Healthcare) | Vial of 10 ml injection | Not available |
+| 84463 | Ferinject 50mg/ml Solution for Injection (Lupin) | Vial of 20 ml solution for injection | Not available |
+| 184334 | Revofer Solution for Injection (Lupin) | Vial of 10 ml solution for injection | Not available |
+| 161707 | Orofer FCM 1K Injection (Emcure Pharmaceuticals) | Vial of 20 ml injection | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions** (5 recorded):
+  - **Major**: Dimercaprol
+  - **Moderate**: Iron, ferrous fumarate, ferrous gluconate, chloramphenicol
+- **Other safety note**: Ferric carboxymaltose is known to cause hypophosphatemia, which is relevant to bone health with repeated dosing.
 
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Bronchitis) is a pure computational signal (L5) with no supporting clinical trials, no literature, and no plausible mechanistic hypothesis — the model's own rationale confirms this. There is currently no basis to advance this specific candidate.
+The bronchitis prediction has no clinical trials, no literature and no identifiable mechanism, so it rests on the TxGNN score alone (evidence level L5). The drug's established role is correcting iron deficiency, and the stronger signals (thrombotic disease, rheumatoid arthritis) reflect benefits of treating iron deficiency in those populations, not direct treatment of the disease.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001 — Blocking; required before any S1 safety review can proceed)
-- Mechanism of action data (DG002 — High priority)
-- Preclinical or mechanistic evidence linking iron repletion to bronchitis pathophysiology
-- Consider redirecting evaluation effort toward the rank-2 candidate, thrombotic disease, which currently has stronger (L3) preliminary evidence
+- Package insert warnings and contraindications from the India regulator or manufacturers, since safety screening cannot proceed without them
+- Mechanism of action data (for example from DrugBank)
+- Approved indication text for the registered products
+- Any preclinical or clinical rationale connecting iron repletion to airway disease, before further investment
+- If a repurposing direction is pursued, consider the better-supported iron-deficiency anaemia settings (for example inflammatory rheumatic disease or cardiovascular disease) rather than bronchitis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

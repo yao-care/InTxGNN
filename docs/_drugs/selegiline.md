@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Selegiline
-parent: High Evidence (L1-L2)
-nav_order: 759
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 766
+evidence_level: L5
 indication_count: 4
 ---
 
 # Selegiline
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,15 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **4**
 
 </div>
 
-# Selegiline: From Parkinson's Disease to Schizophrenia (Negative Symptom Augmentation)
+# Selegiline: From Parkinson's Disease to Schizophrenia
 
 ## One-Sentence Summary
 
-> Selegiline is a selective, irreversible MAO-B inhibitor originally approved for **Parkinson's disease (oral)** and **major depressive disorder (transdermal, in other jurisdictions)**.
-> The TxGNN model predicts it may be useful as an **augmentation therapy for schizophrenia negative symptoms**,
-> with **1 completed clinical trial** and **20 publications** (including two placebo-controlled RCTs) currently supporting this direction.
->
-> Note: TxGNN's top-ranked candidate ("polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis") and two other high-scoring candidates (a congenital glycosylation disorder, and a retinal dystrophy syndrome) were screened out — they have no supporting clinical/literature evidence and no plausible mechanistic link to MAO-B inhibition. They are flagged in the evidence pack itself as likely knowledge-graph topology artifacts ("noise matches"), not real repurposing signals. This report therefore focuses on the schizophrenia candidate, the only one with actual evidence.
+Selegiline is an irreversible MAO-B inhibitor, originally used to treat Parkinson's disease and also associated with depressive disorders.
+The TxGNN model predicts it may be effective for **schizophrenia** (specifically as an add-on for negative symptoms), with **1 clinical trial** and **20 publications** currently supporting this direction.
+The evidence is still at the research-question stage and not yet strong enough to support a clinical decision.
 
 ---
 
@@ -45,87 +43,96 @@ Evidence Level: **L2** | Predicted Indications: **4**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not marketed in India; per literature (PMID 37087864), approved elsewhere for Parkinson's disease (oral) and major depressive disorder (transdermal) |
-| Predicted New Indication | Schizophrenia (negative symptom augmentation of antipsychotics) |
-| TxGNN Prediction Score | 99.14% (rank 12,910) |
-| Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+| Original Indication | Parkinson's disease (the approved indication text in the India registrations is blank; the original indications come from the knowledge graph and also include depressive disorders and anxiety disorder) |
+| Predicted New Indication | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (top-ranked by TxGNN score; no supporting evidence). The best-supported prediction is **schizophrenia** (rank 2), which is the focus of this report. |
+| TxGNN Prediction Score | 99.15% (rank 1 prediction); 99.14% (schizophrenia) |
+| Evidence Level | L3 (schizophrenia); L5 for the rank 1 prediction |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 8 |
+| Recommended Decision | Hold (rank 1 prediction); schizophrenia is a research question |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Structured mechanism-of-action data was not available in the source registry for this evaluation. Based on evidence within the pack (systematic review, PMID 37087864), Selegiline is an irreversible, selective MAO-B inhibitor, approved for Parkinson's disease (oral) and major depressive disorder (transdermal). At low oral doses it remains MAO-B selective, sparing peripheral MAO-A and reducing tyramine-reaction risk relative to non-selective MAOIs; at higher oral doses (≥20 mg/day) selectivity is lost.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, selegiline is an irreversible, selective MAO-B inhibitor. At higher oral doses (≥20 mg/day) it also loses selectivity and inhibits MAO-A. Its efficacy in Parkinson's disease is established, and it has dopaminergic and possibly antioxidant effects.
 
-Schizophrenia negative symptoms (avolition, blunted affect, anhedonia) are hypothesized to reflect regionally deficient prefrontal cortical dopaminergic activity — a mechanism distinct from the mesolimbic dopamine excess targeted by antipsychotics. Selegiline's MAO-B inhibition increases synaptic dopamine (and to a lesser extent norepinephrine), providing a biologically plausible rationale for its use as an **add-on/augmentation** agent to antipsychotics, rather than monotherapy.
+The rationale for schizophrenia centres on negative and cognitive symptoms, which are linked to low dopamine activity in the prefrontal cortex. Blocking dopamine breakdown could plausibly help as an add-on to antipsychotics, which treat positive symptoms well but have limited effect on negative ones. The antioxidant and neuroprotective angle is biologically plausible but less established.
 
-This mechanistic link is directly supported by multiple published trials in the evidence pack testing selegiline augmentation of antipsychotics (haloperidol, risperidone) specifically for negative symptoms — this is not a purely computational prediction but an area with an existing, if inconclusive, clinical research literature spanning 1993–2023.
+The other predictions are much weaker. For the rank 1 prediction (a rare genetic cortical malformation syndrome) and rank 3 (a congenital disorder of glycosylation), no mechanistic link to MAO-B inhibition was found, and they are likely knowledge-graph artifacts. For rank 4 (retinal dystrophy), only a general neuroprotection rationale exists, supported by one indirect review.
 
 ---
 
 ## Clinical Trial Evidence
 
+Schizophrenia (rank 2):
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00456976](https://clinicaltrials.gov/study/NCT00456976) | Early Phase 1 | Completed | 70 | RCT of selegiline augmentation of antipsychotics vs. placebo for negative symptoms in chronic inpatient schizophrenia; primary endpoint was reduction in negative symptoms |
+| [NCT00456976](https://clinicaltrials.gov/study/NCT00456976) | Early Phase 1 | Completed | 70 | Randomized trial of selegiline vs placebo added to antipsychotics for negative symptoms in inpatients with chronic schizophrenia (2007). No results are available in the compiled data, so efficacy cannot be judged. |
+
+No clinical trials are registered for the other three predicted indications (rank 1, 3 and 4).
 
 ---
 
 ## Literature Evidence
 
+Schizophrenia (selected from 20 publications, prioritising randomized trials and reviews directly about selegiline):
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15677608](https://pubmed.ncbi.nlm.nih.gov/15677608/) | 2005 | RCT (double-blind, placebo-controlled, multicenter) | Am J Psychiatry | Tested selegiline augmentation of antipsychotics in outpatients with moderate-or-greater negative symptoms |
-| [17972359](https://pubmed.ncbi.nlm.nih.gov/17972359/) | 2008 | RCT (add-on, double-blind, placebo-controlled) | Hum Psychopharmacol | Selegiline add-on to risperidone, 8-week RCT, for negative symptoms |
-| [8627275](https://pubmed.ncbi.nlm.nih.gov/8627275/) | 1996 | RCT/pilot (open-label augmentation) | J Nerv Ment Dis | Low-dose selegiline (5 mg BID) augmentation tested against dopamine-deficiency hypothesis of negative symptoms in 21 patients |
-| [37087864](https://pubmed.ncbi.nlm.nih.gov/37087864/) | 2023 | Systematic Review/Meta-analysis | Eur Neuropsychopharmacol | Pooled efficacy/safety of oral and transdermal selegiline across psychiatric disorders, including schizophrenia |
-| [10080262](https://pubmed.ncbi.nlm.nih.gov/10080262/) | 1999 | Case series | Compr Psychiatry | 3 patients showed improved negative symptoms and functioning after selegiline addition, no adverse effects observed |
-| [17405823](https://pubmed.ncbi.nlm.nih.gov/17405823/) | 2007 | Review | Ann Pharmacother | Evaluates the evidence base for selegiline in schizophrenia negative symptoms |
-| [8102552](https://pubmed.ncbi.nlm.nih.gov/8102552/) | 1993 | RCT (placebo-controlled) | Biol Psychiatry | Selegiline 10 mg/day vs. placebo for neuroleptic-induced tardive dyskinesia in 33 patients |
-| [7901857](https://pubmed.ncbi.nlm.nih.gov/7901857/) | 1993 | Clinical study | Pharmacopsychiatry | Selegiline evaluated for neuroleptic-induced parkinsonism |
-| [16930948](https://pubmed.ncbi.nlm.nih.gov/16930948/) | 2006 | Systematic Review | Schizophr Res | Reviews pharmacological treatments (including selegiline) for primary negative symptoms |
-| [36561338](https://pubmed.ncbi.nlm.nih.gov/36561338/) | 2022 | Historical Review | Front Pharmacol | Historical role of MAO inhibitors, including selegiline, in psychopharmacology |
+| [15677608](https://pubmed.ncbi.nlm.nih.gov/15677608/) | 2005 | RCT (double-blind, multicenter) | Am J Psychiatry | Selegiline augmentation of antipsychotics for negative symptoms in outpatients with moderate or greater severity |
+| [17972359](https://pubmed.ncbi.nlm.nih.gov/17972359/) | 2008 | RCT (double-blind) | Hum Psychopharmacol | 8-week selegiline add-on to risperidone for negative symptoms in chronic schizophrenia; notes earlier results were contradictory |
+| [10587287](https://pubmed.ncbi.nlm.nih.gov/10587287/) | 1999 | RCT (double-blind, small) | J Clin Psychopharmacol | Deprenyl (selegiline) augmentation for negative symptoms; 16 clinically stable patients |
+| [8102552](https://pubmed.ncbi.nlm.nih.gov/8102552/) | 1993 | RCT (placebo-controlled) | Biol Psychiatry | Selegiline 10 mg/day vs placebo for 6 weeks in 33 patients with tardive dyskinesia |
+| [8627275](https://pubmed.ncbi.nlm.nih.gov/8627275/) | 1996 | Open-label pilot | J Nerv Ment Dis | Low-dose selegiline (5 mg twice daily) added to antipsychotics in 21 patients with chronic schizophrenia or schizoaffective disorder, testing a dopamine-deficiency hypothesis |
+| [37087864](https://pubmed.ncbi.nlm.nih.gov/37087864/) | 2023 | Systematic review and meta-analysis | Eur Neuropsychopharmacol | Efficacy and safety of oral and transdermal selegiline across psychiatric disorders |
+| [17405823](https://pubmed.ncbi.nlm.nih.gov/17405823/) | 2007 | Review | Ann Pharmacother | Role of selegiline in treating negative symptoms of schizophrenia |
+| [16930948](https://pubmed.ncbi.nlm.nih.gov/16930948/) | 2006 | Systematic review | Schizophr Res | Pharmacological treatments for primary negative symptoms |
+| [26848926](https://pubmed.ncbi.nlm.nih.gov/26848926/) | 2016 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Antioxidant treatments for schizophrenia |
+| [29552749](https://pubmed.ncbi.nlm.nih.gov/29552749/) | 2018 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Miscellaneous treatments for antipsychotic-induced tardive dyskinesia |
+
+For retinal dystrophy (rank 4), only one indirect review is available: [16392036](https://pubmed.ncbi.nlm.nih.gov/16392036/) (2005, Cell Mol Neurobiol), on protein aggregation in retinal cells and cell-protection approaches. It does not show that selegiline treats retinal dystrophy. No literature is available for rank 1 or rank 3.
 
 ---
 
 ## India Market Information
 
-Selegiline currently has **no marketing authorization** on record in the India regulatory dataset used for this evaluation (`market_status: Not marketed`, 0 registrations). No product listing table is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 205731 | Selgelin 5mg Tablet (D D Pharmaceuticals) | Strip of 10 tablets | Not specified |
+| 203238 | Selerin 5mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not specified |
+| 77756 | Eldepryl 10mg Tablet (Themis Medicare Ltd) | Strip of 10 tablets | Not specified |
+| 201769 | Selgin 10mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified |
+| 114426 | Jumax 5mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified |
+
+There are 8 valid single-ingredient registrations in total, all oral tablets, with none cancelled.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions** (from DDI database, 123 total interactions on file; representative Major-severity interactions shown):
+- **Contraindications suggested by the knowledge graph** (these are graph associations, not label text): multiple system atrophy, orthostatic hypotension, postural orthostatic tachycardia syndrome, kidney disease, liver disease, gallbladder disease, bipolar disorder, major affective disorder, psychotic disorders (including schizophreniform and schizoaffective disorder), mental disorder, melanoma, sudden cardiac arrest, heart conduction disease, phaeochromocytoma and related adrenal or sympathetic tumours, certain small intestine, duodenum and heart cancers, and tardive dyskinesia. Several psychiatric entries in this list overlap with the proposed schizophrenia use and should be examined carefully.
+- **Drug Interactions**: 123 interactions were identified in total. Major interactions in the data reviewed include isometheptene, bupropion, diethylpropion, phentermine and dexfenfluramine. Moderate interactions include epinephrine, metoclopramide, and several antidiabetic agents (sulfonylureas, repaglinide, nateglinide and multiple insulins), which carry a risk of low blood sugar.
 
-| Interacting Drug | Severity |
-|---|---|
-| Isometheptene | Major |
-| Bupropion | Major |
-| Diethylpropion | Major |
-| Phentermine | Major |
-| Dexfenfluramine | Major |
-
-These reflect the expected pharmacology of a MAO-B inhibitor: sympathomimetic amines, other MAOIs/antidepressants, and appetite suppressants carry risk of hypertensive crisis or serotonin syndrome and should be reviewed case-by-case. In addition, multiple Moderate-severity interactions exist with sulfonylureas and insulins (e.g., Glimepiride, Repaglinide, Insulin glargine), suggesting glucose-lowering potentiation risk warranting monitoring.
-
-Detailed key warnings and contraindications were not available in this evidence pack; please refer to the package insert for full safety information.
+Please refer to the package insert for the full warnings, as label warnings and contraindications are not available in the data compiled for this report.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold** (for the rank 1 prediction and the other low-evidence predictions). Schizophrenia add-on therapy is best treated as a **research question**, not a candidate ready to move forward.
 
 **Rationale:**
-Existing RCTs of selegiline augmentation for schizophrenia negative symptoms span three decades but are small, methodologically heterogeneous, and yield inconsistent effect sizes; the only registered trial (NCT00456976) was Early Phase 1. Evidence level is L2 (a completed RCT exists) but effect is not robustly established, and this is add-on rather than monotherapy positioning.
+- The top-ranked prediction has no trials, no literature and no mechanistic link, so a high TxGNN score alone is not sufficient.
+- Schizophrenia has a plausible dopaminergic mechanism and several small randomized studies of selegiline add-on for negative symptoms. However, the only registered trial is Early Phase 1 with no results available, earlier findings were described as contradictory, and the knowledge graph flags psychotic disorders as a contraindication area.
 
 **To proceed, the following is needed:**
-- Official TFDA/regulatory-sourced package insert (warnings, contraindications) — currently a blocking data gap
-- Verified original MOA and indication data from DrugBank/regulatory source (currently unavailable)
-- An updated, adequately powered RCT (Phase 2/3) specifically in negative-symptom-predominant schizophrenia
-- Formal DDI risk assessment against concomitant antipsychotic and antidepressant regimens typical in this population
+- Package insert warnings and contraindications from the India registrations (currently a blocking data gap)
+- Detailed mechanism of action data
+- Extraction and appraisal of the outcomes of the randomized schizophrenia studies, together with the 2023 meta-analysis
+- A dedicated safety assessment for patients with psychotic disorders, including interaction management with antipsychotics and antidepressants
+- Confirmation of the approved indications on the India registrations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

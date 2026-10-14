@@ -2,7 +2,7 @@
 layout: default
 title: Rasagiline
 parent: Model Prediction Only (L5)
-nav_order: 721
+nav_order: 728
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,33 +29,42 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Rasagiline: From Parkinson's Disease to PLA2G6-Associated Neurodegeneration
+# Rasagiline: From Parkinson Disease to PLA2G6-Associated Neurodegeneration
 
 ## One-Sentence Summary
 
-> Rasagiline is a selective MAO-B inhibitor conventionally used to treat Parkinson's disease.
-> The TxGNN model predicts it may be effective for **PLA2G6-associated neurodegeneration**,
-> but this prediction is currently supported by **no clinical trials** and **no published literature** — it is a model-only signal.
+Rasagiline is an irreversible MAO-B inhibitor, originally used to treat Parkinson disease and related parkinsonian syndromes.
+The TxGNN model predicts it may be effective for **PLA2G6-associated neurodegeneration**, but **no clinical trials and no publications** currently support this direction. The prediction rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson's disease (based on known drug class; not captured in Taiwan regulatory data as the product is not marketed locally) |
+| Original Indication | Parkinson disease (the data compiled for this report also lists related parkinsonian syndromes; no approved indication text is available from Indian licences) |
 | Predicted New Indication | PLA2G6-associated neurodegeneration |
 | TxGNN Prediction Score | 99.71% |
-| Evidence Level | L5 (model prediction only, no clinical or literature evidence) |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 9 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for Rasagiline is currently marked as a data gap in this evidence pack. Based on known clinical information, Rasagiline is a selective, irreversible MAO-B (monoamine oxidase-B) inhibitor, established for use in Parkinson's disease, where it reduces dopamine breakdown in the central nervous system and is thought to have a secondary neuroprotective (anti-apoptotic) effect on dopaminergic neurons.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, rasagiline is an irreversible MAO-B inhibitor. It raises dopamine availability in the brain and provides symptomatic relief in Parkinson disease.
 
-PLA2G6-associated neurodegeneration (which includes NBIA/INAD subtypes) shares a pathological hallmark with Parkinson's disease: basal ganglia iron accumulation and progressive degeneration of dopaminergic neurons. This overlap gives the TxGNN prediction some theoretical mechanistic plausibility — a drug that protects dopaminergic neurons in one iron/dopamine-related neurodegenerative pathway could plausibly extend to another. However, this remains an indirect, knowledge-graph-derived inference rather than a proven pharmacological relationship, and no direct molecular-level evidence in this rare disease exists.
+PLA2G6-associated neurodegeneration includes infantile neuroaxonal dystrophy and PLA2G6-related dystonia-parkinsonism (PARK14). A plausible link therefore exists for the parkinsonian features of the late-onset forms.
 
-It is worth noting that among the six candidates in this evidence pack, "paralysis agitans, juvenile, of Hunt" (juvenile parkinsonism) has the strongest mechanistic rationale, since it is clinically similar to classic Parkinson's disease. The remaining candidates (Rasmussen encephalitis, myelitis, transaldolase deficiency, and a cortical malformation syndrome) have no known mechanistic link to MAO-B inhibition and should be treated as low-confidence statistical associations only.
+However, the underlying pathology (defective phospholipid remodelling, iron accumulation, alpha-synuclein pathology) is not addressed by MAO-B inhibition. The very high score likely reflects network proximity to the parkinsonism indications rather than disease-modifying biology. At best, the drug might offer symptomatic benefit in selected patients.
+
+**Other predictions reviewed (all without trials or literature):**
+
+| Predicted Indication | TxGNN Score | Evidence Level | Assessment |
+|------|------|------|------|
+| Paralysis agitans, juvenile, of Hunt | 99.25% | L4 | Within the parkinsonism spectrum. This is closer to an extension of the existing indication than true repurposing, and needs juvenile and paediatric safety and efficacy confirmation. Recommendation: Research Question |
+| Rasmussen subacute encephalitis | 99.56% | L5 | No clear mechanistic rationale for a T-cell-mediated disease. Likely a graph artefact |
+| Myelitis | 99.32% | L5 | No established anti-inflammatory role. Only indirect preclinical neuroprotection |
+| Transaldolase deficiency | 99.19% | L5 | No mechanistic link. Hepatic involvement would need caution given rasagiline's CYP1A2 metabolism |
+| Perisylvian polymicrogyria with cerebellar hypoplasia and arthrogryposis | 99.01% | L5 | A structural malformation is not expected to respond to a symptomatic MAO-B inhibitor |
 
 ## Clinical Trial Evidence
 
@@ -65,46 +74,40 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
-## Taiwan Market Information
+## India Market Information
 
-Rasagiline is currently **not marketed** in Taiwan (0 registered licenses). No product-level registration data is available for review.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 6734 | Afrelect 0.5mg Tablet (Taj Pharma India Ltd) | Strip of 10 tablets | Not specified |
+| 184809 | Relgin 1 Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified |
+| 184402 | Rasalect 1 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not specified |
+| 184676 | Relgin 0.5 Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified |
+| 189515 | Rasagin 0.5mg Tablet (Natco Pharma Ltd) | Strip of 30 tablets | Not specified |
+
+Nine valid single-ingredient oral registrations exist in total; the five above are shown.
 
 ## Safety Considerations
 
-**Drug Interactions** (137 total interactions on file; selected examples):
+- **Contraindications (from the knowledge graph, not label text):** hypertension and hypertensive disorder; multiple system atrophy; postural orthostatic tachycardia syndrome; orthostatic hypotension; drug-induced dyskinesia; epilepsy; bipolar disorder and major affective disorder; liver disease; gallbladder disease; melanoma; phaeochromocytoma and sympathetic paraganglioma; and several cancers (duodenum, small intestine, heart, adrenal gland).
+- **Drug Interactions:** 137 interactions were recorded. Examples:
+  - **Major:** bupropion, morphine.
+  - **Moderate:** epinephrine, cimetidine, phentermine, diethylpropion, dronabinol, obeticholic acid, chlorpropamide, glimepiride, and multiple insulin products (aspart, degludec, detemir, glargine, glulisine, human isophane, human regular, inhaled).
 
-| Interacting Drug | Severity |
-|---|---|
-| Bupropion | Major |
-| Morphine | Major |
-| Epinephrine | Moderate |
-| Chlorpropamide | Moderate |
-| Cimetidine | Moderate |
-| Diethylpropion | Moderate |
-| Difenoxin | Moderate |
-| Diphenoxylate | Moderate |
-| Dronabinol | Moderate |
-| Obeticholic acid | Moderate |
-| Phentermine | Moderate |
-| Glimepiride | Moderate |
-| Multiple insulin formulations (aspart, degludec, detemir, glargine, glulisine, isophane, regular, inhaled) | Moderate |
-
-These interaction patterns (sympathomimetics, opioids, and glucose-lowering agents) are consistent with known MAO-B inhibitor pharmacology and warrant caution regardless of the indication under consideration.
-
-Detailed labeling warnings and contraindications are not yet available (TFDA package insert data gap — see Conclusion below).
+Please refer to the package insert for full label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All six TxGNN-predicted indications are at Evidence Level L5 — model prediction only, with zero supporting clinical trials or literature. The drug is also not currently marketed in Taiwan, and a blocking data gap (missing TFDA label warnings/contraindications) prevents the candidate from passing the S1 safety screening gate.
+The prediction rests only on a model score, with no clinical trials or literature. The mechanistic link is weak because MAO-B inhibition does not address the core pathology of PLA2G6-associated neurodegeneration. The juvenile parkinsonism prediction is the most coherent but is essentially an extension of the existing indication.
 
 **To proceed, the following is needed:**
-- Obtain TFDA package insert (warnings, contraindications) — currently a **Blocking** data gap (DG001)
-- Confirm mechanism of action via DrugBank API — currently a **High** severity data gap (DG002)
-- Preclinical or mechanistic studies specifically linking MAO-B inhibition to PLA2G6-associated neurodegeneration
-- If further exploration is warranted, prioritize "paralysis agitans, juvenile, of Hunt" for follow-up given its stronger mechanistic overlap with Parkinson's disease, rather than the current top-ranked candidate by TxGNN score alone
+- Package insert warnings and contraindications for the Indian products (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Case series, natural-history data, or preclinical evidence for MAO-B inhibition in PLA2G6-related dystonia-parkinsonism
+- Juvenile and paediatric safety and efficacy data if the juvenile parkinsonism direction is pursued
+- Review of hepatic safety, since liver disease appears among the graph-derived contraindications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

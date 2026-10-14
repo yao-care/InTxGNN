@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Flupirtine
-parent: Moderate Evidence (L3-L4)
-nav_order: 366
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 370
+evidence_level: L5
 indication_count: 10
 ---
 
 # Flupirtine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Flupirtine: From Chronic Pain to Osteoarthritis
+# Flupirtine: From Pain Management to Osteoarthritis
 
 ## One-Sentence Summary
 
-Flupirtine is a centrally-acting non-opioid analgesic historically used for chronic musculoskeletal pain, including pain associated with arthrosis and arthritis. The TxGNN model predicts it may be effective for **Osteoarthritis**, but this direction is currently supported only by **0 clinical trials** and **4 publications** — none of which directly studied flupirtine in osteoarthritis patients.
+Flupirtine is a centrally acting, non-opioid analgesic (a selective neuronal potassium channel opener) marketed in India under many brand names, mainly for pain and muscle-relaxant use.
+The TxGNN model predicts it may be useful for **osteoarthritis** with a very high score, but there are currently **0 registered clinical trials** and only **indirect or preclinical literature** supporting this direction.
+The evidence is at the research-question stage, and the known liver safety risk weighs heavily on any repurposing decision.
 
 ---
 
@@ -41,56 +43,77 @@ Flupirtine is a centrally-acting non-opioid analgesic historically used for chro
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic pain (arthrosis/arthritis pain) — inferred from cited literature; no formal Taiwan label data available |
+| Original Indication | Not stated in the available licence records (approved indication text is empty) |
 | Predicted New Indication | Osteoarthritis |
 | TxGNN Prediction Score | 98.64% |
-| Evidence Level | L4 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L4 (preclinical and mechanistic evidence only) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Formal DrugBank/TFDA mechanism-of-action documentation for flupirtine is currently a data gap in this evidence pack. However, the literature and mechanistic rationale captured alongside the predictions consistently describe flupirtine as a **Kv7/KCNQ potassium channel opener**. This action hyperpolarizes sensory neurons and produces analgesia through indirect NMDA-receptor antagonism and GABA-A potentiation — a central pain-modulating mechanism, not an anti-inflammatory or disease-modifying one.
+Detailed mechanism-of-action data was not available in the data compiled for this report. Based on known pharmacology, flupirtine is a selective neuronal potassium channel (KCNQ/Kv7) opener with analgesic and muscle-relaxant activity.
 
-This mechanism is consistent with flupirtine's historical use: a 12-month open-label study (PMID 2451818) treated patients with chronic pain "in particular arthrosis and arthritis," indicating the drug's original niche already overlapped with degenerative joint pain. Osteoarthritis and arthrosis/arthritis pain are clinically adjacent — both are characterized by chronic nociceptive and neuropathic joint pain — so extending a centrally-acting analgesic from one to the other is mechanistically plausible.
+A 2019 rat study (PMID 30759446) found that KCNQ/M channels in dorsal root ganglia neurons are suppressed in osteoarthritic pain, and that this is associated with hyperalgesic behaviour. Opening these channels is therefore a plausible way to relieve osteoarthritis pain.
 
-The strongest direct mechanistic support comes from PMID 30759446, which found that suppression of KCNQ/M potassium channels in dorsal root ganglion neurons contributes to the development of osteoarthritic pain in an animal model. Since flupirtine pharmacologically opens this same channel, there is a coherent (though indirect) hypothesis that it could counteract this pain-amplifying mechanism. Notably, no study in this evidence pack has tested flupirtine directly in osteoarthritis — the closest direct comparator data exists for a different joint pain condition (gout, see Conclusion).
+This supports **symptomatic pain relief only**, not disease modification. Flupirtine has been withdrawn or restricted in Europe because of hepatotoxicity, which is a major concern for a chronic condition such as osteoarthritis.
 
----
+### Other Predicted Indications (for reference)
 
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Predicted Indication | Score | Evidence Level | Comment |
+|------|------|------|------|
+| Osteoarthritis susceptibility | 98.46% | L5 | Genetic susceptibility concept, not a treatable indication; likely reflects similarity to osteoarthritis |
+| Rheumatoid arthritis | 98.43% | L4 | Possible symptomatic analgesia only; no anti-inflammatory or disease-modifying action; only a 1987 preliminary report |
+| Gout | 97.83% | L4 | Preclinical animal data on gout arthritis pain; no human data; does not address urate or inflammation |
+| Hepatic porphyria, hepatoportal sclerosis, primitive portal vein thrombosis | 97.5–97.9% | L5 | No rationale; likely graph artifacts; liver safety concern |
+| Pseudoachondroplasia, brachyolmia, acromesomelic dysplasia (Hunter-Thompson type) | 97.6–97.9% | L5 | Rare skeletal dysplasias with no plausible mechanistic link |
 
 ---
 
 ## Literature Evidence
 
+Currently no registered clinical trials are available for osteoarthritis. The literature below is indirect or preclinical.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [30759446](https://pubmed.ncbi.nlm.nih.gov/30759446/) | 2019 | Mechanistic (preclinical) | Pharmacology | Reduced KCNQ2/KCNQ3 expression and M-current density in dorsal root ganglion neurons drive osteoarthritic pain in a rat model, implicating Kv7/M channel opening (flupirtine's mechanism) as a potential therapeutic strategy |
-| [28510996](https://pubmed.ncbi.nlm.nih.gov/28510996/) | 2017 | Systematic Review | Cochrane Database of Systematic Reviews | Reviews tramadol ± paracetamol for cancer pain; general opioid-ladder context, not specific to flupirtine or osteoarthritis |
-| [26977921](https://pubmed.ncbi.nlm.nih.gov/26977921/) | 2015 | Review | Zhurnal Nevrologii i Psikhiatrii imeni S.S. Korsakova | Differential diagnosis and treatment review of back pain/spinal osteoarthritis; not drug-specific |
-| [25376546](https://pubmed.ncbi.nlm.nih.gov/25376546/) | 2015 | Systematic Review/Meta-analysis | Schmerz (Berlin, Germany) | Compares opioid vs. non-opioid analgesics in chronic non-cancer pain; general background, not flupirtine-specific |
+| [30759446](https://pubmed.ncbi.nlm.nih.gov/30759446/) | 2019 | Preclinical (animal) | Pharmacology | Reduced KCNQ2/KCNQ3 expression and M-current in dorsal root ganglia neurons of osteoarthritic rats, associated with pain behaviour; supports the KCNQ-opening rationale |
+| [25376546](https://pubmed.ncbi.nlm.nih.gov/25376546/) | 2015 | Systematic review | Schmerz | Opioids vs non-opioid analgesics in chronic non-cancer pain; indirect relevance |
+| [28510996](https://pubmed.ncbi.nlm.nih.gov/28510996/) | 2017 | Systematic review | Cochrane Database Syst Rev | Tramadol for cancer pain; not relevant to osteoarthritis or flupirtine |
+| [26977921](https://pubmed.ncbi.nlm.nih.gov/26977921/) | 2015 | Review | Zh Nevrol Psikhiatr Im S S Korsakova | Differential diagnosis and treatment of back pain (spinal osteoarthritis); indirect |
 
-Note: only PMID 30759446 provides a direct mechanistic link to osteoarthritis; the remaining three are background/context references on analgesic classes rather than flupirtine-specific evidence.
+Related evidence for other predicted indications:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [2451818](https://pubmed.ncbi.nlm.nih.gov/2451818/) | 1987 | Preliminary clinical report | Postgrad Med J | Long-term flupirtine in chronic pain from arthrosis or arthritis (104 patients reported, 12-month study); uncontrolled and dated |
+| [32062659](https://pubmed.ncbi.nlm.nih.gov/32062659/) | 2020 | Preclinical (animal) | Pharmacology | Retigabine and flupirtine showed antinociceptive efficacy in a gout arthritis pain model |
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-Flupirtine currently holds no marketing authorization in Taiwan (0 registrations on file; market status: Not marketed).
+Flupirtine is widely registered in India: 20 valid single-ingredient registrations, with none cancelled. The approved indication text is not recorded in the licence data. Main examples:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 174704 | Pirineu P 100mg/325mg Tablet | Strip of 10 tablets | Not recorded |
+| 85535 | Flupride 100mg Tablet | Strip of 10 tablets | Not recorded |
+| 175091 | Pirineu 100mg Capsule | Strip of 10 capsules | Not recorded |
+| 233340 | Vasfree 100 Capsule (Intas) | Strip of 10 capsules | Not recorded |
+| 115766 | Katadol Capsule (Lupin) | Strip of 10 capsules | Not recorded |
+
+All products are oral (tablets, capsules, and one extended-release tablet).
 
 ---
 
 ## Safety Considerations
 
-Formal safety fields (key warnings, contraindications, drug-drug interactions) are not available in this evidence pack — please refer to the package insert for safety information.
+- **Hepatotoxicity:** Flupirtine has been withdrawn or restricted in Europe because of liver toxicity. This is a major concern for long-term use in chronic diseases such as osteoarthritis or rheumatoid arthritis, and it makes use in liver disease (for example hepatic porphyria, hepatoportal sclerosis, portal vein thrombosis) especially problematic.
 
-**Notable Safety Signal (from mechanistic rationale, not formal safety data):** Two lower-ranked predictions in this pack (hepatic porphyria, hepatoportal sclerosis) were flagged as mechanistically contraindicated because flupirtine is hepatically metabolized to reactive quinone-diimine intermediates associated with hepatotoxicity. This is consistent with flupirtine's known real-world hepatotoxicity risk and should be treated as a priority item for any safety workup, regardless of target indication.
+Please refer to the package insert for further safety information, including warnings, contraindications and drug interactions. These were not available in the data compiled for this report.
 
 ---
 
@@ -99,15 +122,14 @@ Formal safety fields (key warnings, contraindications, drug-drug interactions) a
 **Decision: Hold**
 
 **Rationale:**
-The osteoarthritis prediction rests on a plausible but indirect mechanistic hypothesis (Kv7 channel opening countering KCNQ suppression seen in osteoarthritic pain models) with no flupirtine-specific clinical or preclinical study in osteoarthritis (Evidence Level L4). The blocking data gap on TFDA label warnings/contraindications (DG001) also prevents completion of the S1 safety screen, and flupirtine's known hepatotoxicity liability raises the bar for any repurposing decision.
+The prediction for osteoarthritis is mechanistically plausible (KCNQ/Kv7 opening for pain relief), but there are no registered clinical trials and the supporting literature is preclinical or indirect. The known hepatotoxicity risk makes long-term use in a chronic condition hard to justify without stronger evidence.
 
 **To proceed, the following is needed:**
-- TFDA/EMA package insert data (warnings, contraindications, hepatotoxicity monitoring requirements) — currently a blocking gap
-- Confirmed mechanism-of-action documentation from DrugBank (currently a data gap)
-- A flupirtine-specific preclinical or clinical study in osteoarthritis to replace the current indirect mechanistic inference
-- Since flupirtine is not marketed in Taiwan, a regulatory/import feasibility assessment before any development track is pursued
-
-**Additional note:** Among the other candidates in this evidence pack, **gout** (rank 6, recommendation "Research Question") has notably more direct evidence — PMID 32062659 directly tested flupirtine (alongside retigabine) in an animal model of gout arthritis pain. This may be a more tractable next research question than osteoarthritis, though it remains preclinical-only.
+- Package insert warnings and contraindications from the Indian regulator, to complete safety screening
+- Confirmed approved indications for the registered Indian products
+- Detailed mechanism-of-action data
+- Controlled clinical evidence of efficacy in osteoarthritis pain, compared against current analgesic options
+- A liver safety assessment and monitoring plan, including current European regulatory status and post-marketing hepatic safety data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

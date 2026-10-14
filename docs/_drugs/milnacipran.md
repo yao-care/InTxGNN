@@ -2,7 +2,7 @@
 layout: default
 title: Milnacipran
 parent: Moderate Evidence (L3-L4)
-nav_order: 548
+nav_order: 553
 evidence_level: L3
 indication_count: 10
 ---
@@ -33,116 +33,80 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Milnacipran is a serotonin-norepinephrine reuptake inhibitor (SNRI) originally approved for the management of fibromyalgia.
-The TxGNN model predicts it may be effective for **Migraine Disorder**,
-with **2 clinical trials** and **5 publications** currently supporting this direction — including one completed randomised controlled pilot trial.
-
----
+Milnacipran is a serotonin-norepinephrine reuptake inhibitor (SNRI), originally used to treat fibromyalgia and myofascial pain syndrome.
+The TxGNN model predicts it may be effective for **migraine disorder**,
+with **2 clinical trials** and **5 publications** currently supporting this direction, mostly small, early-stage or open-label studies.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Fibromyalgia |
-| Predicted New Indication | Migraine Disorder |
+|------|------|
+| Original Indication | Fibromyalgia; myofascial pain syndrome (the approved indication text on the Indian licences is empty) |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L3 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Research Question (Proceed with Guardrails) |
-
----
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 11 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Milnacipran is an SNRI that inhibits the reuptake of both serotonin (5-HT) and norepinephrine (NE), raising synaptic concentrations of both neurotransmitters. Although detailed MOA data is not available from the current data pack, its dual reuptake inhibition profile is well characterised in the fibromyalgia literature. Other SNRIs — particularly venlafaxine and duloxetine — have established evidence as preventive agents for migraine, supporting the class-level plausibility of this prediction.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, milnacipran is an SNRI, its use in fibromyalgia is established, and mechanistically it may be applicable to migraine.
 
-Serotonin plays a pivotal role in the trigeminovascular pathway, which underlies migraine pathophysiology. Activation of 5-HT1B/1D receptors suppresses neurogenic inflammation and reduces trigeminal nociceptive signalling. By blocking the serotonin transporter (SERT), milnacipran elevates synaptic serotonin in a manner mechanistically analogous to other SNRI-based migraine preventives. The norepinephrine component further reinforces descending pain inhibition via the locus coeruleus–norepinephrine (LC-NE) pathway, an established target for chronic pain modulation.
+Other SNRIs and tricyclic antidepressants with serotonergic and noradrenergic activity are used for migraine prevention. Descending pain-modulatory pathways are implicated in both fibromyalgia and migraine, so the mechanistic link is plausible. However, this link rests on the known drug class rather than on a documented mechanism record for milnacipran itself.
 
-Both fibromyalgia and chronic migraine are centralised pain disorders characterised by sensitisation of nociceptive pathways rather than peripheral tissue pathology. This shared neurobiological substrate — dysfunctional central pain processing — means that an agent effective in fibromyalgia has genuine mechanistic grounds to be explored in migraine prevention. An anecdotal clinical survey that prompted the original pilot study observed that fibromyalgia patients receiving milnacipran coincidentally reported reduced headache frequency, providing real-world biological face validity for this prediction.
-
----
+The prediction should be treated as a research hypothesis. The other predicted indications (such as migraine with brainstem aura, tendinitis, myositis variants and cauda equina syndrome) have no trials or literature. Their high scores likely reflect ontology proximity or model artifacts. The entry "migraine with or without aura, susceptibility to" largely repeats the same migraine evidence and is not an independent signal.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|-----------|-------------|
-| [NCT01319825](https://clinicaltrials.gov/study/NCT01319825) | Phase 4 | Unknown | 45 | Open-label pilot study examining whether milnacipran can reduce headache frequency in both episodic and chronic migraine sufferers over 3 months |
-| [NCT01393522](https://clinicaltrials.gov/study/NCT01393522) | N/A | Completed | 37 | Randomised, double-blind, placebo-controlled trial directly assessing twice-daily milnacipran for reduction of migraine headache pain |
-
----
+|---------|------|------|------|---------|
+| [NCT01393522](https://clinicaltrials.gov/study/NCT01393522) | NA | Completed | 37 | Randomized, double-blind, placebo-controlled trial of twice-daily milnacipran for migraine headache pain (2011–2013). No results in the compiled data. |
+| [NCT01319825](https://clinicaltrials.gov/study/NCT01319825) | Phase 4 | Unknown | 45 | Open-label pilot study of milnacipran to reduce headache frequency in episodic and chronic migraine (2011–2012). Likely the registration of the published study PMID 24030685. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [26798881](https://pubmed.ncbi.nlm.nih.gov/26798881/) | 2015 | Evidence-based guideline | J California Dental Assoc | Reviews pharmacologic approaches to chronic orofacial pain; notes that the three FDA-approved fibromyalgia drugs (including milnacipran) have modest efficacy; supports SNRIs alongside TCAs and beta-blockers for daily migraine prevention |
-| [24030685](https://pubmed.ncbi.nlm.nih.gov/24030685/) | 2014 | Prospective open-label study | Neurological Sciences | 3-month pilot study in 38 episodic and 7 chronic migraine patients using headache diaries; originated from clinical observation that milnacipran reduced headache incidence in fibromyalgia patients — likely the publication corresponding to NCT01319825 |
-| [21377931](https://pubmed.ncbi.nlm.nih.gov/21377931/) | 2011 | Review / Mechanism analysis | Current Opinion in Pharmacology | Discusses 5-HT receptor ligands in pain beyond IBS and migraine; highlights that SNRIs (e.g., duloxetine, milnacipran) modulate analgesia through serotonin and noradrenaline reuptake inhibition rather than direct receptor binding |
-| [31804357](https://pubmed.ncbi.nlm.nih.gov/31804357/) | 2019 | Case report | Medicine | Case of reversible cerebral vasoconstriction syndrome (RCVS) presenting with thunderclap headache; contextually relevant as RCVS must be differentiated from migraine — indirectly informs diagnostic boundaries for milnacipran-treated headache populations |
-| [22967190](https://pubmed.ncbi.nlm.nih.gov/22967190/) | 2012 | Pharmacovigilance / Methodology | Drug Safety | Analysis of competition bias in spontaneous reporting signal detection; methodological study relevant to interpreting safety signals for milnacipran in new indications |
-
----
+|------|-----|------|------|---------|
+| [24030685](https://pubmed.ncbi.nlm.nih.gov/24030685/) | 2014 | Prospective open-label study | Neurological Sciences | 3-month pilot in 38 episodic and 7 chronic migraine patients using headache diaries, prompted by clinical observation that milnacipran reduced migraine headaches. |
+| [26798881](https://pubmed.ncbi.nlm.nih.gov/26798881/) | 2015 | Review | J Calif Dent Assoc | Review of chronic orofacial pain treatments. SNRIs are among the options for neuropathic pain, and the three drugs approved for fibromyalgia, including milnacipran, are described as not robust. |
+| [21377931](https://pubmed.ncbi.nlm.nih.gov/21377931/) | 2011 | Review | Curr Opin Pharmacol | Overview of 5-HT receptor ligands in pain. It notes that serotonin/noradrenaline reuptake inhibitors may act through 5-HT-modulated analgesia. |
+| [22967190](https://pubmed.ncbi.nlm.nih.gov/22967190/) | 2012 | Pharmacovigilance analysis | Drug Safety | Analysis of competition bias in safety signal detection in French spontaneous reports. Not directly about efficacy. |
+| [31804357](https://pubmed.ncbi.nlm.nih.gov/31804357/) | 2019 | Case report | Medicine | Reversible cerebral vasoconstriction with thunderclap headache, which is hard to distinguish from migraine. Likely a safety signal. |
 
 ## India Market Information
 
-Milnacipran is not currently approved or marketed in India. No regulatory licences have been identified in the database.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 137396 | Milnace 25 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated |
+| 137660 | Milnace 50 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated |
+| 137571 | Milza 25 Capsule (Intas Pharmaceuticals Ltd) | Strip of 10 capsules | Not stated |
+| 137928 | Milza 50mg Capsule (Intas Pharmaceuticals Ltd) | Strip of 10 capsules | Not stated |
+| 146441 | Milpran 25mg Capsule (Ajanta Pharma Ltd) | Strip of 10 capsules | Not stated |
 
-> This drug has **0 registered products** in India as of the data cut-off date (2026-04-04). Any clinical development would require new regulatory filings.
-
----
+All 11 registrations are valid single-ingredient products. None has been cancelled.
 
 ## Safety Considerations
 
-**Drug-Drug Interactions (144 interactions identified via DDInter):**
+- **Contraindications flagged in the knowledge graph (not label text):** hypertension and hypertensive disorder, cardiovascular and heart disease, epilepsy, liver disease, gallbladder disease, substance abuse/dependence, blood coagulation disease, angle-closure (closed-angle) glaucoma, inappropriate ADH syndrome (including the nephrogenic form), serotonin syndrome, and urinary tract obstruction.
+- **Drug Interactions:** 144 interactions were recorded. Major-level interactions include bupropion, lorcaserin, diethylpropion, phentermine, dexfenfluramine, dolasetron and palonosetron. Examples of moderate-level interactions are acetylsalicylic acid, morphine, epinephrine, ephedrine, naltrexone and metoclopramide.
+- **Other signals:** one case report in the literature describes reversible cerebral vasoconstriction with thunderclap headache, which may be a safety signal worth monitoring in a migraine population.
 
-*Major interactions requiring avoidance or close management:*
-
-| Interacting Drug | Level | Clinical Relevance |
-|-----------------|-------|--------------------|
-| Bupropion | Major | Risk of seizures and serotonergic toxicity |
-| Dexfenfluramine | Major | Serotonin syndrome risk |
-| Diethylpropion | Major | Enhanced serotonergic/sympathomimetic effects |
-| Dolasetron | Major | QT prolongation and serotonin syndrome risk |
-| Lorcaserin | Major | Serotonin syndrome risk via combined 5-HT activity |
-| Palonosetron | Major | Serotonin syndrome risk |
-| Phentermine | Major | Enhanced sympathomimetic and CNS stimulant effects |
-
-*Selected moderate interactions:*
-
-| Interacting Drug | Level | Clinical Relevance |
-|-----------------|-------|--------------------|
-| Acetylsalicylic acid | Moderate | Increased bleeding risk |
-| Epinephrine | Moderate | Enhanced sympathomimetic pressor response |
-| Ephedrine | Moderate | Enhanced sympathomimetic effects |
-| Isometheptene | Moderate | Enhanced vasoconstrictive and sympathomimetic effects |
-| Morphine | Moderate | Altered opioid efficacy; serotonergic interaction |
-| Metoclopramide | Moderate | Potential enhanced CNS/extrapyramidal effects |
-| Naltrexone | Moderate | Possible pharmacodynamic interaction |
-
-> The complete interaction profile covers 144 agents. Prescribers should review the full DDI list before initiating milnacipran in any new patient population.
-
-> **Key warnings and contraindications**: Formal package insert data for India was not available in this data pack. Please refer to the originating regulatory authority (FDA/EMA) package insert for complete warnings and contraindications.
-
----
+Package insert warnings and contraindications were not available, so please refer to the package insert for the complete safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Research Question (Proceed with Guardrails)**
+**Decision: Hold**
 
 **Rationale:**
-A completed randomised double-blind placebo-controlled pilot trial (NCT01393522, n=37) and a prospective open-label study (n=45) provide preliminary clinical evidence that milnacipran can reduce migraine headache frequency. The mechanistic rationale is solid — SNRI-class drugs are already used for migraine prevention — and the fibromyalgia–migraine shared pain-sensitisation biology is well described. However, the evidence base remains exploratory (small samples, one unknown-status study), and milnacipran is not marketed in India, requiring a full regulatory development pathway.
+The mechanistic link is plausible and two migraine-specific studies exist, but both are small (37 and 45 patients), and one is open-label and uncontrolled. The randomized trial has no available results, and no Phase 3 evidence exists. Evidence is therefore early and best treated as a research question rather than a basis for clinical or regulatory action.
 
 **To proceed, the following is needed:**
-
-- **Formal MOA characterisation**: Obtain complete DrugBank/SmPC data for milnacipran's mechanism of action, receptor binding profile, and pharmacokinetic parameters
-- **Full safety data**: Download and parse the FDA/EMA package insert to extract contraindications, Black Box Warnings, and population-specific risks (pregnancy, renal impairment, cardiovascular disease) before any clinical-stage decision
-- **Larger confirmatory trial**: Commission or identify a Phase 2b/3 RCT (n ≥ 150) with standardised migraine endpoints (28-day headache days, MIDAS score) — the existing pilot data is insufficient for registration
-- **India regulatory assessment**: Engage CDSCO to determine the pathway for a new indication filing; clarify whether bridging studies in the Indian population are required
-- **Comparator benchmarking**: Position milnacipran against established migraine preventives (propranolol, topiramate, amitriptyline, CGRP monoclonal antibodies) to define where it offers differentiated value — particularly in fibromyalgia–migraine comorbid patients
-- **Serotonin syndrome risk protocol**: Given the major DDIs identified (especially with triptans commonly used in migraine management), a dedicated drug interaction safety protocol must be defined before clinical use in migraine populations
-
-> ⚠️ *This report is for research reference only and does not constitute medical advice. All repurposing candidates require clinical validation before therapeutic application.*
+- Results of the randomized placebo-controlled trial NCT01393522, and the full outcome data of the open-label study (PMID 24030685)
+- Package insert warnings and contraindications from Indian labels (currently blocking safety screening)
+- Mechanism-of-action data from DrugBank
+- A safety review for migraine patients, particularly cardiovascular and blood pressure risks, and the reported cerebral vasoconstriction signal
+- If results are encouraging, an adequately powered controlled trial in migraine prevention
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

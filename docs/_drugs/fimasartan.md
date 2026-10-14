@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fimasartan
-parent: Model Prediction Only (L5)
-nav_order: 350
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 353
+evidence_level: L4
 indication_count: 4
 ---
 
 # Fimasartan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L4** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,27 +33,34 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Fimasartan is an angiotensin II receptor blocker (ARB), a drug class whose established indication is essential/systemic hypertension. The TxGNN model predicts it may be effective for **Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia (WHO Group 3 PH)**, but this prediction is currently supported by **0 clinical trials** and **20 literature hits that, on review, do not actually discuss Fimasartan or this indication** — the evidence base is essentially a model score with no direct corroboration.
+Fimasartan is an angiotensin II receptor blocker originally used to treat hypertension.
+The TxGNN model predicts it may be effective for **pulmonary hypertension owing to lung disease and/or hypoxia**,
+but at present there are **0 clinical trials** and only **1 preclinical publication** (in myocardial ischemia/reperfusion injury, not pulmonary hypertension), so this remains largely a computational prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (inferred from ARB drug class; formal indication/MOA record is a data gap) |
-| Predicted New Indication | Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia (WHO Group 3) |
+| Original Indication | Hypertension (hypertensive disorder) |
+| Predicted New Indication | Pulmonary hypertension owing to lung disease and/or hypoxia |
 | TxGNN Prediction Score | 99.20% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Fimasartan is not available in this evidence pack (marked as a data gap). Based on known information, Fimasartan belongs to the **angiotensin II receptor blocker (ARB) class**, and its efficacy in systemic/essential hypertension is well established for this drug class; the repurposing rationale text confirms Fimasartan blocks the renin-angiotensin-aldosterone system (RAAS).
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, fimasartan belongs to the angiotensin II type 1 receptor (AT1R) blocker class. Its efficacy in hypertension is established, and mechanistically it may be applicable to pulmonary hypertension.
 
-However, the predicted new indication — Group 3 pulmonary hypertension (due to lung disease and/or hypoxia) — is pathophysiologically driven by **hypoxic pulmonary vasoconstriction and pulmonary parenchymal remodeling**, a mechanism distinct from systemic RAAS-driven hypertension. There is currently no established mechanistic rationale for ARB efficacy in this specific PH subtype.
+Activation of the renin-angiotensin system is implicated in pulmonary vascular remodelling and hypoxic pulmonary vasoconstriction, so blocking AT1R is biologically plausible as a way to modulate pulmonary vascular tone. Both conditions involve elevated vascular pressure, which gives some conceptual similarity.
 
-Critically, the 20 literature references retrieved for this pair are general hypoxia-biology papers (cancer metabolism, brain aging, multiple sclerosis, tissue repair, etc.) — none mention Fimasartan, the ARB class, or pulmonary hypertension treatment. This indicates the literature co-occurrence is keyword noise ("hypoxia") rather than direct supporting evidence, and the mechanistic link for this prediction should be considered unproven.
+However, the only linked publication is a preclinical animal study of fimasartan in myocardial ischemia/reperfusion injury, which does not address pulmonary hypertension. The high TxGNN score is a computational output and is not supported by direct clinical or pulmonary-specific data.
+
+Other predicted indications share the same limitation (all are model predictions with no trials):
+- Pulmonary hypertension with unclear multifactorial mechanism (score 99.20%, evidence level L5)
+- Malignant hypertensive renal disease (score 99.16%, L5). This is closer to an extension of the original hypertension indication and would need dedicated renal and safety data.
+- Malignant renovascular hypertension (score 99.16%, L5). The mechanism is coherent, but ARBs carry a recognised concern in bilateral renal artery stenosis or stenosis in a solitary kidney.
 
 ## Clinical Trial Evidence
 
@@ -63,40 +70,34 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33862277](https://pubmed.ncbi.nlm.nih.gov/33862277/) | 2021 | Review | Ageing Research Reviews | General review on hypoxia's role in brain aging/neurodegeneration; no mention of Fimasartan or PH |
-| [34618295](https://pubmed.ncbi.nlm.nih.gov/34618295/) | 2022 | Review | Metabolic Brain Disease | Review of hypoxia-induced cognitive impairment mechanisms; unrelated to ARBs or PH |
-| [21328446](https://pubmed.ncbi.nlm.nih.gov/21328446/) | 2011 | Review | Journal of Cellular Biochemistry | General review of hypoxia-mediated cell biology and disease associations |
-| [31706510](https://pubmed.ncbi.nlm.nih.gov/31706510/) | 2019 | Review | Trends in Cancer | Review of deubiquitinases and hypoxia signaling in cancer, unrelated to PH |
-| [34535359](https://pubmed.ncbi.nlm.nih.gov/34535359/) | 2021 | Review | Clinical Oncology | Review of tumor hypoxia and radiotherapy/therapeutic resistance |
-| [40347693](https://pubmed.ncbi.nlm.nih.gov/40347693/) | 2025 | Review | Redox Biology | Review of hypoxia's role in multiple sclerosis pathology |
-| [40815459](https://pubmed.ncbi.nlm.nih.gov/40815459/) | 2025 | Review | Rev Med Inst Mex Seguro Soc | Review of hypobaric (altitude) hypoxia physiology |
-| [37328448](https://pubmed.ncbi.nlm.nih.gov/37328448/) | 2023 | Basic Research | Advanced Science | Mechanistic study of glycolysis/HIF-1α in gastric cancer under hypoxia |
-| [33278780](https://pubmed.ncbi.nlm.nih.gov/33278780/) | 2021 | Basic Research | Redox Biology | Study of glucose metabolism in keloid fibroblasts under hypoxia |
-| [27423661](https://pubmed.ncbi.nlm.nih.gov/27423661/) | 2016 | Basic Research | Cell and Tissue Research | Review of hypoxia/HIF-1 signaling in tissue repair and fibrosis |
-
-**Note:** None of the above publications specifically evaluate Fimasartan or pharmacologic treatment of pulmonary hypertension. They were retrieved on the shared keyword "hypoxia" and should not be treated as direct supporting evidence for this repurposing candidate.
+| [23642815](https://pubmed.ncbi.nlm.nih.gov/23642815/) | 2013 | Preclinical (animal model) | International Journal of Cardiology | Investigated the cardioprotective effect of fimasartan against myocardial ischemia/reperfusion injury and the mechanism by which it reduces mitochondrial damage. Not specific to pulmonary hypertension. |
 
 ## India Market Information
 
-Fimasartan currently has no registered product licenses (0 total registrations); the drug is not marketed in this market, so no authorization table is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 86357 | Fimagen 60 Tablet (Ajanta Pharma Ltd) | Strip of 10 tablets | Not specified |
+| Registration No. 87924 | Fimanta 120 Tablet (Ajanta Pharma Ltd) | Strip of 10 tablets | Not specified |
+| Registration No. 85681 | Fimanta 60 Tablet (Ajanta Pharma Ltd) | Strip of 10 tablets | Not specified |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+For the predicted indications, the following class-level cautions apply: ARBs may cause acute renal function decline in bilateral renal artery stenosis or stenosis in a solitary kidney, and hyperkalaemia and acute kidney injury risk would need specific evaluation in any renal indication.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- Evidence level is L5 (model prediction only) — there are no clinical trials, no relevant literature, and the retrieved publications do not substantiate a mechanistic or clinical link between Fimasartan and Group 3 pulmonary hypertension. The mechanistic basis (RAAS blockade) does not clearly map onto the hypoxia/lung-disease-driven pathophysiology of the target indication.
-- Three additional predicted indications in this evidence pack (unclear multifactorial PH, malignant hypertensive renal disease, malignant renovascular hypertension) carry the same "Hold" recommendation, similarly unsupported by trials or literature — two of them have somewhat stronger class-level mechanistic plausibility (ARB effect on RAAS-driven hypertensive nephropathy) but still lack any empirical evidence.
+The prediction is supported only by a high model score and a plausible class-level mechanism. There are no clinical trials, and the sole publication is a preclinical study in a different condition. Package insert safety data are also missing.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label warnings and contraindications (currently a Blocking data gap — required before any S1 safety screening)
-- Confirmed mechanism of action data from DrugBank (High-severity data gap)
-- Disease-specific (non-keyword-matched) literature or preclinical studies directly evaluating ARBs in Group 3 pulmonary hypertension
-- If pursuing the renal-hypertension-related candidates instead, dedicated evidence search for ARB use in malignant/renovascular hypertension, including renal artery stenosis safety considerations
+- Mechanism of action data for fimasartan (e.g., from DrugBank)
+- Package insert warnings and contraindications from the manufacturer (Ajanta Pharma), to enable safety screening
+- Pulmonary-hypertension-specific preclinical evidence (e.g., hypoxia-induced pulmonary hypertension models)
+- Review of the hemodynamic and renal safety profile in the target population before any clinical study design
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

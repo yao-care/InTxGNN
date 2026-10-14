@@ -2,7 +2,7 @@
 layout: default
 title: Idebenone
 parent: Model Prediction Only (L5)
-nav_order: 416
+nav_order: 420
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,77 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Idebenone: From an Unrecorded Original Indication to Hepatic Porphyria
+# Idebenone: From Leber Hereditary Optic Neuropathy to Hepatic Porphyria
 
 ## One-Sentence Summary
 
-The original approved indication for Idebenone is not recorded in the current data set, and it is currently **not marketed in Taiwan**. The TxGNN model's top prediction is that Idebenone may be effective for **Hepatic Porphyria**, but this signal is currently supported by **0 clinical trials** and **0 publications** — it is a pure model prediction with no corroborating evidence.
-
----
+Idebenone was originally used for Leber hereditary optic neuropathy.
+The TxGNN model predicts it may be effective for **hepatic porphyria**,
+but **no clinical trials and no publications** currently support this direction, so it is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in current data |
-| Predicted New Indication | Hepatic Porphyria |
+| Original Indication | Leber hereditary optic neuropathy (the Indian licence records contain no approved indication text) |
+| Predicted New Indication | Hepatic porphyria |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 7 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for Idebenone is not available in this evidence pack (flagged as a High-severity data gap). Based on the mechanistic rationale accompanying the prediction, Idebenone is described as a CoQ10 analogue that acts on the mitochondrial electron transport chain (bypassing Complex I) and has antioxidant properties.
+Currently, detailed mechanism of action data is not available. Based on known information, idebenone is a short-chain benzoquinone that acts as an electron carrier in the mitochondrial respiratory chain and as an antioxidant. Its use in Leber hereditary optic neuropathy, a mitochondrial disease, is the basis of its original indication.
 
-Hepatic porphyria's core pathology involves defects in the heme biosynthesis pathway (e.g., ALA synthase dysregulation), which has no established mechanistic link to mitochondrial oxidative phosphorylation or antioxidant activity. The evidence pack itself notes that TxGNN's high score for this pair may reflect proximity between "liver metabolism" nodes in the knowledge graph rather than a validated pharmacological mechanism.
+A speculative link to hepatic porphyria is that antioxidant activity might reduce oxidative stress in hepatocytes. However, no data support a role for idebenone in heme biosynthesis defects, so this rationale cannot be verified.
 
-Because Idebenone's original indication is not recorded here, no direct comparison between the original and predicted indication can be made. The mechanistic rationale should be treated as a hypothesis-generating signal only, not as pharmacological evidence.
-
----
+The other top predictions are scored almost identically (99.9% for several hepatic vascular and liver disorders). This suggests a shared signal in the knowledge graph rather than a disease-specific mechanism. Other predicted indications include hepatopulmonary syndrome, primitive portal vein thrombosis, hepatoportal sclerosis, idiopathic copper-associated cirrhosis, and several inflammatory myopathies. All of them also lack supporting evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## India Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 150824 | Norwayz Tablet | Strip of 10 tablets | Not stated |
+| 108004 | IDEBEST 45MG TABLET | Strip of 10 tablets | Not stated |
+| 49528 | Cebrol 45mg Tablet | Strip of 10 tablets | Not stated |
+| 108716 | ID-45 Tablet | Strip of 10 tablets | Not stated |
+| 28067 | Benovat 45mg Tablet | Strip of 10 tablets | Not stated |
 
-Idebenone currently holds **no marketing authorization in Taiwan** (market status: Not marketed, 0 registered licenses). No product-level registration data is available.
-
----
+Seven valid single-ingredient oral registrations exist in total; the five above are shown.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: key warnings, contraindications, and drug-drug interaction data are all currently unrecorded — TFDA label warnings/contraindications are flagged as a Blocking-severity data gap (DG001) that must be resolved before any safety assessment can proceed.)*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate has zero clinical trial or literature evidence (Evidence Level L5 — model prediction only), and the proposed mechanistic link between Idebenone's mitochondrial/antioxidant activity and hepatic porphyria's heme-synthesis pathology is speculative. Combined with a Blocking-severity gap on TFDA label safety data, this candidate does not meet the threshold for further evaluation at this time.
+The prediction rests only on a model score, with no clinical trials or publications for hepatic porphyria. The proposed mechanism is speculative, and safety data are unavailable.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking) — required before any S1 safety screening
-- Confirmed mechanism of action from DrugBank or primary literature (DG002)
-- Preclinical or case-level evidence connecting mitochondrial/antioxidant mechanisms to heme biosynthesis regulation
-- **Porphyrinogenicity assessment**: since the predicted indication is itself a porphyria, it is essential to confirm Idebenone does not induce hepatic CYP450/ALA synthase activity, as porphyrinogenic drugs can precipitate acute porphyric attacks in this patient population
-- Note: 9 additional lower-ranked candidates (hepatopulmonary syndrome, portal vein thrombosis, various myopathies, etc.) were also predicted, all at the same L5 evidence level with no supporting trials or literature — none currently warrant prioritization over this top candidate.
+- Detailed mechanism of action data (MOA)
+- Package insert warnings and contraindications for the Indian-marketed products
+- Preclinical or mechanistic studies linking idebenone to heme biosynthesis or hepatic porphyria
+- A literature and trial search specific to hepatic porphyria and the other top-ranked predictions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

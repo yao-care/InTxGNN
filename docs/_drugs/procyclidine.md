@@ -2,7 +2,7 @@
 layout: default
 title: Procyclidine
 parent: Model Prediction Only (L5)
-nav_order: 697
+nav_order: 704
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,82 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-A few honesty notes before the report: `original_indications` and `taiwan_regulatory.licenses` are empty in this Evidence Pack, so I've used Procyclidine's well-established public drug classification (antimuscarinic/anticholinergic, historically used for Parkinsonism) only where the template's own fallback rule requires it — flagged explicitly as not sourced from this Evidence Pack. I also did not soften the rank-1 candidate's own rationale text, which states there is no mechanistic basis for it.
-
----
-
-# Procyclidine: From Parkinsonism to Rasmussen Subacute Encephalitis
+# Procyclidine: From Parkinson Disease to Rasmussen Subacute Encephalitis
 
 ## One-Sentence Summary
 
-> Procyclidine is an antimuscarinic (anticholinergic) agent historically used to manage Parkinson's disease and drug-induced extrapyramidal symptoms.
-> The TxGNN model predicts it may be effective for **Rasmussen Subacute Encephalitis**,
-> but this direction currently has **0 clinical trials** and **0 publications**, and the model's own mechanistic rationale states there is no known biological link between the two.
-
----
+Procyclidine is an anticholinergic (muscarinic antagonist) originally used to treat Parkinson disease and related movement disorders.
+The TxGNN model predicts it may be effective for **Rasmussen subacute encephalitis**, but this is a model prediction only, with **0 clinical trials** and **0 publications** currently supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinsonism / drug-induced extrapyramidal symptoms (based on known drug classification — not provided in this Evidence Pack; `original_indications` is empty) |
-| Predicted New Indication | Rasmussen Subacute Encephalitis |
+| Original Indication | Parkinson disease and related parkinsonian disorders, including dystonia (per the knowledge graph; no approved-indication text is available in the India licence records) |
+| Predicted New Indication | Rasmussen subacute encephalitis |
 | TxGNN Prediction Score | 99.74% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for Procyclidine in this Evidence Pack (flagged as data gap DG002, High severity). Based on generally known pharmacological classification, Procyclidine is an antimuscarinic anticholinergic that antagonizes central M1 acetylcholine receptors, and has been used clinically to reduce tremor and rigidity in Parkinsonism and drug-induced extrapyramidal symptoms.
+Currently, detailed mechanism of action data is not available. Based on known information, procyclidine is a muscarinic antagonist (anticholinergic) whose efficacy in parkinsonian disorders and dystonia is established. It reduces the relative excess of cholinergic activity in the basal ganglia.
 
-Rasmussen subacute encephalitis, the model's top-ranked candidate, is a unilateral autoimmune inflammatory encephalitis in which T-cell–mediated neuronal destruction drives intractable focal epilepsy. This is mechanistically unrelated to antimuscarinic receptor blockade. The Evidence Pack's own repurposing rationale for this candidate is explicit on this point: it states there is "no association with anticholinergic drug mechanism" and "no evidentiary basis" for the link. A prediction score of 99.7% should not be read as clinical confidence here — TxGNN scores are frequently compressed near the top of the range across many drug-disease pairs, and this candidate's ordinal rank (5,111th) and empty evidence base both indicate a low-quality signal despite the high raw score.
+Rasmussen encephalitis is an immune-mediated, T-cell-driven chronic encephalitis that causes focal epilepsy. No established link exists between muscarinic blockade and this pathology. The high TxGNN score is a graph-based prediction, probably driven by shared neurological disease neighbours rather than a biological rationale.
 
-It is worth noting that other candidates further down this drug's Top-10 list are mechanistically more coherent with Procyclidine's known pharmacology — for example, rank 7 (progressive supranuclear palsy–corticobasal syndrome) and rank 8 (juvenile parkinsonism, "Hunt's paralysis agitans") both involve parkinsonian rigidity/dystonia where anticholinergics are occasionally used symptomatically. However, these too returned zero clinical trials, zero ICTRP registrations, and zero PubMed literature in the queries performed, so none of the ten candidates currently rise above a model-only (L5) evidence level.
-
----
+For context, other predictions in the top 10 are also unsupported by clinical data. The most plausible symptomatic links are **PLA2G6-associated neurodegeneration** (parkinsonism and dystonia overlap) and **progressive supranuclear palsy-corticobasal syndrome** (anticholinergics are generally poorly effective there and may worsen cognition). The entry "paralysis agitans, juvenile, of Hunt" is a historical term for juvenile parkinsonism and largely overlaps with existing indications, so it is not a true repurposing finding.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-Procyclidine is not currently marketed in India — `taiwan_regulatory.total_licenses` = 0 and no license records are present in this Evidence Pack.
+Procyclidine has 20 valid single-ingredient registrations in India, all oral tablets. No approved-indication text is available in the records. The 5 main authorizations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 177924 | Prolidine 2.5mg Tablet (Oxford Pharmaceuticals) | Strip of 10 tablets | Not specified |
+| 154622 | Nopadin 2.5mg Tablet (Kivi Labs) | Strip of 10 tablets | Not specified |
+| 176998 | Procydin 2.5 Tablet (D D Pharmaceuticals) | Strip of 10 tablets | Not specified |
+| 116277 | Kemdin 5mg Tablet (Vrddhi Life Sciences) | Strip of 10 tablets | Not specified |
+| 204191 | Sycline 5mg Tablet MD (Pifer Pharmaceuticals) | Strip of 10 orally disintegrating tablets | Not specified |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 70 interactions on file. Two are classified **Major**: co-administration with **Potassium citrate** and **Potassium chloride** (risk relates to anticholinergic-mediated slowing of GI transit, which can increase mucosal contact time/ulcerogenic potential of oral potassium salts). The remainder are classified **Moderate**, predominantly other antimuscarinic/anticholinergic agents (e.g., Atropine, Glycopyrronium, Dicyclomine, Trospium, Mepenzolate, Methscopolamine, Clidinium — additive anticholinergic burden), opioids (Morphine, Opium, Loperamide — additive constipation/CNS effects), and agents sensitive to altered GI motility (Metoclopramide, Pramlintide, Eluxadoline, Dronabinol, Nabilone).
+- **Disease-level contraindications (knowledge graph, not label text)**: Procyclidine is associated with contraindications in the following disease groups:
+  - Eye: angle-closure (closed-angle) glaucoma
+  - Gastrointestinal: gastric ulcer, pyloric stenosis, achalasia/megaesophagus, hiatus hernia, paralytic ileus, intestinal obstruction, toxic megacolon, ulcerative colitis/inflammatory bowel disease
+  - Urinary: benign prostatic hyperplasia, bladder neck obstruction
+  - Neuromuscular: myasthenia gravis and other neuromuscular junction diseases
+  - Cardiovascular and endocrine: hypertension, coronary artery disease, hyperthyroidism/Graves disease/thyrotoxicosis
+  - Organ disease: kidney, liver and gallbladder disease
+- **Drug Interactions**: 70 interactions were identified. The two **Major** interactions shown are with potassium citrate and potassium chloride. Most others are Moderate and involve additive anticholinergic effects (e.g., atropine, hyoscyamine, glycopyrronium, dicyclomine, trospium) or additive central nervous system and gut-motility effects (e.g., morphine, loperamide, opium, metoclopramide, dronabinol, nabilone, eluxadoline).
+- **Paediatric and cognitive note**: Anticholinergics may impair cognition and attention, which is relevant for conditions such as ADHD and PSP/CBS.
 
-Key warnings and contraindications could not be assessed — this Evidence Pack reports a **Blocking**-severity data gap (DG001: TFDA/label warnings and contraindications not yet retrieved), which by definition prevents this candidate from entering the S1 safety initial-screening stage.
-
----
+Please also refer to the package insert for full warnings, which were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (Rasmussen subacute encephalitis) has no supporting clinical trials or literature and, per the model's own rationale, no plausible mechanistic link to Procyclidine's anticholinergic action — this is an L5, model-only signal. Independently, a **Blocking**-severity data gap (missing label warnings/contraindications, DG001) means the candidate cannot yet pass the S1 safety initial evaluation regardless of indication evidence, and the drug has no existing India market presence to leverage.
+The prediction is supported only by the TxGNN model score (99.74%), with no clinical trials or literature and no plausible mechanistic link between muscarinic blockade and Rasmussen encephalitis. Evidence is at level L5.
 
 **To proceed, the following is needed:**
-- Retrieve TFDA/official product label warnings and contraindications (resolves DG001, currently Blocking)
-- Retrieve confirmed mechanism-of-action documentation from DrugBank (resolves DG002)
-- If pursuing repurposing further, prioritize mechanistically coherent candidates from this drug's list (e.g., PSP-CBS, juvenile parkinsonism) over the current top-ranked candidate, and commission targeted literature/preclinical searches, since all 10 predicted indications currently return zero hits across ClinicalTrials.gov, ICTRP, and PubMed
-- Pharmacology/clinical expert review of the Rasmussen-encephalitis prediction specifically, given the model rationale itself disputes the mechanistic basis
+- Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- Preclinical or clinical evidence linking cholinergic modulation to Rasmussen encephalitis
+- If a symptomatic-use strategy is pursued, consider re-prioritising candidates such as PLA2G6-associated neurodegeneration, which has the most plausible overlap with the labelled parkinsonism and dystonia domains, and gather supporting evidence for it
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Mirtazapine
 parent: Model Prediction Only (L5)
-nav_order: 554
+nav_order: 559
 evidence_level: L5
 indication_count: 3
 ---
@@ -33,106 +33,68 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Mirtazapine is a noradrenergic and specific serotonergic antidepressant (NaSSA class), widely used in the treatment of major depressive disorder.
-The TxGNN model predicts it may be effective for **Ohdo Syndrome and Variants**, a rare genetic neurodevelopmental disorder,
-with **0 clinical trials** and **0 publications** currently supporting this direction — making this a purely computational prediction.
-
----
+Mirtazapine is an antidepressant originally used for depressive disorders (unipolar depression, major depressive disorder) and anxiety disorder.
+The TxGNN model predicts it may be effective for **Ohdo syndrome and variants**,
+but there are currently **no clinical trials** and **no publications** supporting this direction, so it is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Major Depressive Disorder (NaSSA antidepressant) |
-| Predicted New Indication | Ohdo Syndrome and Variants |
+|------|------|
+| Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder |
+| Predicted New Indication | Ohdo syndrome and variants |
 | TxGNN Prediction Score | 99.42% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Mirtazapine belongs to the NaSSA class and acts as an antagonist at presynaptic α2-adrenergic receptors — enhancing the release of both norepinephrine and serotonin — while also blocking postsynaptic 5-HT2A, 5-HT2C, and 5-HT3 receptors as well as histamine H1 receptors. This receptor profile explains its clinical effects: antidepressant action, sedation, and appetite stimulation.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, mirtazapine is an antidepressant that acts through central alpha-2 adrenergic antagonism, 5-HT2/5-HT3 antagonism and H1 antagonism. Its efficacy in depression is established.
 
-Ohdo Syndrome and Variants are rare genetic neurodevelopmental disorders caused by mutations in chromatin remodeling and transcriptional regulatory genes such as *MED13L*, *KAT6A*, and *SETD5*. These causal mechanisms operate at the level of gene expression regulation and have no direct molecular connection to Mirtazapine's receptor-based pharmacology. The TxGNN model's high prediction score most likely arises from indirect network paths in the knowledge graph — shared phenotypic nodes such as sleep disturbance, behavioral difficulties, and appetite dysregulation appear in both depression and the clinical presentation of Ohdo Syndrome — rather than any genuine disease-modifying mechanism.
+The link to the predicted indication is weak. Ohdo syndrome is a rare genetic neurodevelopmental disorder (blepharophimosis, intellectual disability, hypotonia), associated with chromatin-modifier defects such as KAT6B or MED12 variants, depending on the subtype. Mirtazapine's monoaminergic pharmacology has no established connection to this pathology. The very high TxGNN score (0.994) reflects a graph-based computational prediction, not biological evidence. At most, benefit could be symptomatic (for example sleep, appetite or mood), and this is speculative.
 
-In summary, while Mirtazapine's symptomatic properties (sedation, anxiolysis, appetite stimulation) could theoretically address some behavioral features of Ohdo Syndrome in a supportive capacity, there is no biologically plausible basis for a disease-modifying effect. This prediction should be treated as a computational signal requiring experimental validation before any further development consideration.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-*(Search conducted on 2026-03-27 across ClinicalTrials.gov and ICTRP for all three predicted indications; result count: 0)*
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
-*(PubMed search conducted on 2026-03-27 for Mirtazapine × Ohdo Syndrome, Mirtazapine × BIDS Ohdo type, and Mirtazapine × benign paroxysmal torticollis of infancy; result count: 0 for all queries)*
-
----
+Two other predictions were also generated, and they are equally unsupported:
+- **Blepharophimosis - intellectual disability syndrome, Ohdo type** (score 99.11%): a closely related entity to the first prediction. The similar scores suggest the predictions are not independent. No plausible disease-modifying mechanism is evident.
+- **Benign paroxysmal torticollis of infancy** (score 99.11%): an episodic movement disorder related to migraine equivalents, often linked to CACNA1A variants. Only a speculative, indirect link exists. The condition is self-limiting and managed supportively, and mirtazapine carries a boxed warning for suicidality in young patients and is not established in infants.
 
 ## India Market Information
 
-Mirtazapine currently holds **no regulatory approvals** in India. No product licenses are on record.
+Mirtazapine has 20 valid single-ingredient registrations, all oral tablets (including mouth-dispersible and orally disintegrating forms). The approved indication text is not available for these registrations. Main examples:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 140043 | Mirfit 15 Tablet (Ryon Pharma) | Strip of 10 tablets | Not specified |
+| 146733 | Mitraford 30 Tablet (Oxpro Pharma) | Strip of 10 tablets | Not specified |
+| 141002 | Mirtadep 15mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not specified |
+| 136526 | Mirnite 7.5mg Tablet DT (Intas Pharmaceuticals) | Strip of 10 orally disintegrating tablets | Not specified |
+| 139616 | Mirzat 7.5mg Tablet (Knoll Pharmaceuticals) | Strip of 10 tablets | Not specified |
 
 ## Safety Considerations
 
-**Drug Interactions**: Mirtazapine has a total of **324 known drug interactions** (source: DDInter). Selected clinically significant interactions are listed below.
+- **Contraindications / risk conditions (from knowledge graph disease associations, not label text):** multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, hypotensive disorder, epilepsy, manic bipolar affective disorder, liver disease, gallbladder disease, impaired renal function, neutropenia, agranulocytosis, hemoglobinopathy, hypertriglyceridemia, obesity disorder (including monogenic obesity), stroke and cerebrovascular disorder, cerebral infarction, myocardial infarction, coronary thrombosis, serotonin syndrome and drug-induced akathisia.
+- **Drug Interactions:** 324 interactions were identified. Major-level interactions include:
+  - Bupropion
+  - Lorcaserin
+  - Dolasetron
+  - Palonosetron
 
-**Major Interactions (require avoidance or close monitoring):**
-
-| Interacting Drug | Level | Clinical Concern |
-|-----------------|-------|-----------------|
-| Bupropion | Major | Increased seizure risk; CNS toxicity |
-| Lorcaserin | Major | Serotonin syndrome risk |
-| Dolasetron | Major | QT prolongation; additive serotonergic effects |
-| Palonosetron | Major | Serotonin syndrome risk |
-
-**Selected Moderate Interactions:**
-
-| Interacting Drug | Level |
-|-----------------|-------|
-| Morphine | Moderate |
-| Clarithromycin | Moderate |
-| Dexamethasone | Moderate |
-| Aprepitant | Moderate |
-| Cimetidine | Moderate |
-| Loperamide | Moderate |
-| Famotidine | Moderate |
-| Levofloxacin | Moderate |
-| Nabilone | Moderate |
-| Dronabinol | Moderate |
-
-Complete warnings and contraindications data (TFDA package insert) were not available at the time of this assessment. Please refer to the official package insert for full safety information.
-
----
+  Moderate-level examples include famotidine, cimetidine, loperamide, aprepitant, morphine, dexamethasone, clarithromycin, levofloxacin, dronabinol, nabilone, eliglustat, obeticholic acid and several bowel-preparation laxatives.
+- **Special population note:** Mirtazapine carries a boxed warning for suicidality in young patients, and its use in infants is not established. This is particularly relevant for the paediatric indications predicted here.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN prediction score (99.42%), Mirtazapine's repurposing potential for Ohdo Syndrome and Variants is not supported by any clinical trials, published literature, or direct mechanistic rationale — the underlying disease pathology (chromatin remodeling gene mutations) is fundamentally distinct from Mirtazapine's neurotransmitter receptor-based pharmacology. All three predicted indications in this Evidence Pack are rated L5, and none meet the threshold for advancement to a safety screening stage.
+All three predictions are supported by model scores only. There are no clinical trials or publications, and no plausible mechanistic link between mirtazapine's monoaminergic pharmacology and the genetic or developmental nature of these conditions. The target populations are also paediatric, which raises the safety bar.
 
 **To proceed, the following is needed:**
-
-- **MOA data**: Retrieve full DrugBank entry for DB00370 to formally document receptor pharmacology and confirm mechanism assumptions
-- **Safety profile**: Download and parse the TFDA (or equivalent) package insert to populate warnings, contraindications, and special population data — currently a blocking gap (DG001)
-- **Preclinical plausibility check**: Identify whether any in vitro or animal model data link Mirtazapine (or its receptor targets) to phenotypic features of Ohdo Syndrome (e.g., behavioral, sleep, or feeding endpoints in relevant models)
-- **Symptomatic use-case scoping**: If pursuing a purely symptomatic (not disease-modifying) rationale, document the prevalence and severity of sleep and appetite disturbances in Ohdo Syndrome patients to assess clinical need
-- **Regulatory pathway**: Mirtazapine has no existing approval in India — any development pathway would require a full NDA submission, significantly raising the bar for proceeding
-
-> ⚠️ *This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any application.*
+- Mechanism of action data for mirtazapine from DrugBank
+- Package insert warnings and contraindications from the India product labels (currently unavailable, which blocks safety screening)
+- Preclinical or mechanistic evidence linking mirtazapine to the pathways involved in Ohdo syndrome or benign paroxysmal torticollis of infancy
+- A review of whether any symptomatic benefit (sleep, appetite, mood) is clinically relevant, with a paediatric safety assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

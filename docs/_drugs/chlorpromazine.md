@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Chlorpromazine
-parent: Model Prediction Only (L5)
-nav_order: 175
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 176
+evidence_level: L4
 indication_count: 10
 ---
 
 # Chlorpromazine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,132 +29,96 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Chlorpromazine: From Schizophrenia to Retinal Dystrophy with or without Extraocular Anomalies
+# Chlorpromazine: From Schizophrenia and Other Psychotic Disorders to Retinal Dystrophy
 
 ## One-Sentence Summary
 
-Chlorpromazine is a first-generation phenothiazine antipsychotic—the world's first clinically used antipsychotic drug (1952)—originally developed to treat schizophrenia and other psychotic disorders through dopamine D2 receptor antagonism.
-The TxGNN model ranks **Retinal Dystrophy with or without Extraocular Anomalies** as its top predicted new indication (score: 99.95%); however, established pharmacovigilance evidence identifies this as a **contraindicated direction**—Chlorpromazine is itself a known cause of phenothiazine pigmentary retinopathy.
-Across all 10 predicted indications, only **Early-Onset Schizophrenia** (rank #10) carries biologically coherent mechanistic support, backed by **1 clinical trial** and **8 publications**.
-
----
+Chlorpromazine is a long-established antipsychotic, originally used for schizophrenia and related psychotic and manic disorders.
+The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, but there are **0 clinical trials** and only **1 publication** (a 1967 case report describing drug-induced phototoxic reactions, which is a safety signal rather than a benefit).
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Schizophrenia and psychotic disorders (first-generation typical antipsychotic) |
-| Predicted New Indication | Retinal Dystrophy with or without Extraocular Anomalies |
+|------|------|
+| Original Indication | Schizophrenia and related psychotic disorders (manic bipolar affective disorder, schizoaffective disorder, schizophreniform disorder, and others) |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 99.95% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this Evidence Pack (data gap DG002). Based on established pharmacology, Chlorpromazine exerts its primary effects through antagonism of dopamine D2 receptors in the mesolimbic and mesocortical pathways. It also has broad receptor-binding activity including α-adrenergic, histaminic H1, and muscarinic receptors, which underlies its many off-target effects.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Chlorpromazine is a phenothiazine antipsychotic, generally understood to act mainly through dopamine D2 receptor antagonism. Its efficacy in psychotic disorders is well established.
 
-The top predicted indication—retinal dystrophy with or without extraocular anomalies—is not only mechanistically unsupported, it is pharmacologically contradictory. **Chlorpromazine is a well-documented cause of phenothiazine pigmentary retinopathy**: prolonged high-dose exposure leads to melanin-binding pigment deposits in the retina, cornea, and lens, and may result in irreversible visual loss. One of the 15 retrieved literature items (PMID 5647013, *Ophthalmologica*, 1968) specifically documents this retinal toxicity. This represents a **contraindicated direction**—the drug is a pathogenic agent for this disease category, not a therapeutic one.
+The prediction is **not well supported**. The only supporting record is a 1967 report of phototoxic reactions induced by high doses of chlorpromazine and thioridazine. That report documents drug-induced ocular toxicity, a safety concern, and not a therapeutic effect. No plausible mechanism has been identified by which chlorpromazine would treat inherited retinal degeneration. The high TxGNN score therefore appears to be a model artefact, and the available literature points to potential harm in retinal disease.
 
-Among all 10 predicted indications, **Early-Onset Schizophrenia (rank #10)** is the only entry with a strong direct mechanistic link: Chlorpromazine's D2 antagonism is the founding pharmacological basis for treating schizophrenia. The pediatric extension involves independent safety considerations—neurodevelopmental effects, higher extrapyramidal syndrome (EPS) susceptibility, and tardive dyskinesia risk in developing brains—but the biological rationale is fundamentally sound and evidence-supported.
-
----
+Other top-ranked predictions show the same pattern. None of the eight highest-ranked predictions (retinal dystrophy, congenital disorder of glycosylation with defective fucosylation, three myopia entries, hydranencephaly, a polymicrogyria syndrome, Charcot-Marie-Tooth type 1G, atypical glycine encephalopathy) has any clinical trial or literature support, apart from the retinal dystrophy case report above. For the myopia entries, dopamine antagonism would be expected to be unhelpful or counterproductive. The rank-10 prediction, early-onset schizophrenia, is largely an on-label extension and not true repurposing.
 
 ## Clinical Trial Evidence
 
-**Primary predicted indication (Rank #1 — Retinal Dystrophy with or without Extraocular Anomalies):**
-
-Currently no related clinical trials registered. ⚠️ Safety warning: This indication is contraindicated (see Safety Considerations).
-
----
-
-**Most Promising Repurposing Target — Early-Onset Schizophrenia (Rank #10):**
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT06128408](https://clinicaltrials.gov/study/NCT06128408) | N/A | Unknown | 300 | Longitudinal characterization of treatment-resistant schizophrenia (TRS) from illness onset; up to 30% of antipsychotic-naïve first-episode patients show poor treatment response; TRS-from-onset accounts for ~80% of all TRS patients. (Observational study; not a treatment efficacy trial.) |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-**Primary predicted indication (Rank #1 — Retinal Dystrophy with or without Extraocular Anomalies):**
-
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [5647013](https://pubmed.ncbi.nlm.nih.gov/5647013/) | 1968 | — | *Ophthalmologica* | ⚠️ **Inverse safety signal**: Documents phenothiazine-retinopathy—retinal pigmentary damage caused by phenothiazine drugs including Chlorpromazine. Directly contradicts repurposing rationale. |
-| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | *Pediatric Radiology* | Pediatric orbital lesions: congenital and developmental ocular pathologies (microphthalmos, coloboma, Coats disease); no mention of Chlorpromazine therapy. |
-| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | *Taiwan Journal of Ophthalmology* | Congenital lens shape anomalies and associated anterior segment dysgenesis; structural disease focus, no pharmacological intervention discussed. |
-| [33806565](https://pubmed.ncbi.nlm.nih.gov/33806565/) | 2021 | — | *Int J Mol Sci* | Optic nerve and retinal abnormalities in congenital fibrosis of extraocular muscles (CFEOM); genetic basis (KIF21A, TUBB3). |
-| [24932988](https://pubmed.ncbi.nlm.nih.gov/24932988/) | 2014 | — | *Am J Ophthalmology* | Maculopathy pathogenesis associated with cavitary optic disc anomalies; structural treatment approach. |
-| [24413161](https://pubmed.ncbi.nlm.nih.gov/24413161/) | 2014 | Case Report | *J Neuro-Ophthalmology* | Congenital trochlear-oculomotor synkinesis in a 6-year-old; rare cranial dysinnervation disorder. |
-| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | *Klin Monatsbl Augenheilkd* | Congenital ptosis from levator muscle fatty dystrophy and fibrosis; surgical management. |
-| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Clinical Pearl | *Seminars in Neurology* | Systematic evaluation of diplopia from ocular, neurologic, and extraocular muscle etiologies. |
-| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | *Documenta Ophthalmologica* | Wagner–Stickler syndrome: vitreoretinal degeneration with systemic extraocular manifestations including deafness and skeletal dysplasia. |
-| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | *Seminars in Ultrasound, CT, and MR* | Orbital infections with sinusitis as primary etiology; systemic predisposing conditions including diabetes and malignancy. |
-
-> **Summary**: None of the 15 retrieved publications support Chlorpromazine as a treatment for retinal dystrophy. The single most directly relevant paper (PMID 5647013) documents this drug class as a *cause* of retinal pathology.
-
----
-
-**Early-Onset Schizophrenia Literature (Rank #10 — the only viable repurposing target):**
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [18408624](https://pubmed.ncbi.nlm.nih.gov/18408624/) | 2008 | Pharmacogenomic | *Pharmacogenetics and Genomics* | BDNF gene as schizophrenia risk factor and predictor of Chlorpromazine-induced extrapyramidal syndrome (EPS) in Chinese population; confirms direct chlorpromazine–schizophrenia pharmacological link. |
-| [17915974](https://pubmed.ncbi.nlm.nih.gov/17915974/) | 2007 | Pharmacogenomic | *J Clinical Psychiatry* | AKT1 gene polymorphisms associated with schizophrenia etiology and antipsychotic treatment response; AKT-dopamine signaling intersection. |
-| [10703271](https://pubmed.ncbi.nlm.nih.gov/10703271/) | 1999 | Retrospective | *Social Psychiatry & Psychiatric Epidemiology* | Earlier age at schizophrenia onset correlates with different neuroleptic dosage requirements; relevant to pediatric dosing calibration. |
-| [28976410](https://pubmed.ncbi.nlm.nih.gov/28976410/) | 2017 | Cross-sectional | *Clinical Neuropharmacology* | Early-onset schizophrenia with OCD comorbidity: clinical features and treatment correlates in pediatric population. |
-| [26916502](https://pubmed.ncbi.nlm.nih.gov/26916502/) | 2016 | Observational | *Acta Neuropsychiatrica* | Theory of mind deficits in adolescents with early-onset schizophrenia correlated with executive function and clinical severity. |
-| [24854724](https://pubmed.ncbi.nlm.nih.gov/24854724/) | 2015 | Observational | *L'Encéphale* | Neurological soft signs in early-onset schizophrenia as neurodevelopmental markers; relevant to monitoring antipsychotic side effects. |
-| [24289465](https://pubmed.ncbi.nlm.nih.gov/24289465/) | 2013 | Comparative | *Psychogeriatrics* | Clinical characteristics of late-onset vs. early-onset schizophrenia; supports distinct subtype characterization. |
-| [22802957](https://pubmed.ncbi.nlm.nih.gov/22802957/) | 2012 | Neuroimaging | *PLoS ONE* | Gray matter volume loss in temporal gyrus in first-episode early-onset schizophrenia; neuroanatomical baseline for treatment monitoring. |
-
----
+|------|-----|------|------|---------|
+| [5336672](https://pubmed.ncbi.nlm.nih.gov/5336672/) | 1967 | Case report / toxicology observation | JAMA | Phototoxic reactions induced by high doses of chlorpromazine and thioridazine. This is a safety signal, not evidence of therapeutic benefit. No abstract available. |
 
 ## India Market Information
 
-Chlorpromazine is currently **not marketed in India**. No drug licenses or registrations found in the regulatory database.
+Approved indication text is not available for these registrations. Main authorizations (5 of 20 shown):
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 35727 | Chlorpromazine Hydrochloride Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 186848 | Relitil 25mg Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 188795 | Relitil 50mg Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 201920 | Sun Prazin 100mg Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 221236 | Talentil 100mg Tablet | Strip of 10 tablets | Not specified |
+
+All 20 registrations are valid oral tablet products, with none cancelled. Several are fixed-dose combination brands with other ingredients (e.g., Chlorectil Plus, Ostil Plus, Normacalm Forte).
+
+## Cytotoxicity
+
+Not applicable. Chlorpromazine is not an antineoplastic drug.
 
 ## Safety Considerations
 
-**Drug Interactions**: Chlorpromazine has **315 documented drug interactions** (source: DDInter). Key interactions are summarized below:
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for label-based safety information.
 
-| Severity | Interacting Drug | Clinical Concern |
-|----------|-----------------|-----------------|
-| **Major** | Bupropion | Significantly lowers seizure threshold |
-| **Major** | Morphine | Additive CNS and respiratory depression |
-| Moderate | Epinephrine | Risk of paradoxical hypotension (α-blockade reversal) |
-| Moderate | Atropine, Hyoscyamine, Glycopyrronium | Additive anticholinergic toxicity |
-| Moderate | Metformin, Acarbose, Alogliptin, Pioglitazone, Canagliflozin, Chlorpropamide, Albiglutide | Chlorpromazine may impair glycemic control and mask hypoglycemia; caution in diabetic patients on multiple agents |
-| Moderate | Amphotericin B, Amphotericin B (lipid complex) | QT prolongation and electrolyte disturbance risk |
-| Moderate | Loperamide, Bisacodyl, Famotidine, Hydrocortisone, Lorcaserin | Varied pharmacodynamic interactions |
+- **Contraindication signals (from a knowledge graph, not label text)**: The following disease associations were flagged:
+  - **Cardiac**: long QT syndrome (including familial), torsades de pointes, sudden cardiac arrest, heart conduction disease, myocardial infarction and coronary thrombosis.
+  - **Blood**: neutropenia, agranulocytosis, leukopenia, thrombocytopenia, anemia (including macrocytic anemia), hemoglobinopathy.
+  - **Neurological**: epilepsy, basal ganglia disease, focal hand dystonia, blepharospasm, multiple system atrophy.
+  - **Blood pressure and autonomic**: orthostatic hypotension, postural orthostatic tachycardia syndrome.
+  - **Liver and gallbladder**: liver disease, gallbladder disease.
+  - **Metabolic**: hyperglycemia, obesity disorder, monogenic obesity.
+  - **Other**: benign prostatic hyperplasia, substance abuse/dependence, female breast carcinoma.
+- **Drug Interactions**: 315 interactions were recorded, and the 20 listed in the data include two **Major** ones:
+  - **Bupropion**
+  - **Morphine**
 
-> ⚠️ **Critical Ocular Safety Warning**: Chlorpromazine is a known causative agent of **phenothiazine pigmentary retinopathy** with long-term or high-dose use. Pigment deposits in the retina, cornea, and lens can cause irreversible visual impairment. Any repurposing evaluation targeting ocular or retinal diseases must treat this as a fundamental biological contraindication.
-
-Please refer to the package insert for complete warnings and contraindications (full TFDA labeling data currently unavailable — data gap DG001).
-
----
+  Moderate interactions include:
+  - Antidiabetic agents (metformin, pioglitazone, alogliptin, canagliflozin, acarbose, albiglutide, chlorpropamide)
+  - Anticholinergics (atropine, hyoscyamine, glycopyrronium)
+  - Others (epinephrine, hydrocortisone, famotidine, amphotericin B, loperamide, lorcaserin, bisacodyl)
+- **Ocular signal**: The only literature on the predicted indication reports phototoxic and ocular adverse effects at high doses.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The #1 TxGNN prediction (retinal dystrophy) is biologically contraindicated—Chlorpromazine causes retinal pigmentary degeneration, not treats it, and the retrieved literature confirms this inverse safety signal. Indications ranked #2 through #9 are all L5 evidence with no clinical trials, no relevant literature, and low mechanistic plausibility. The only viable candidate across all 10 predictions is **Early-Onset Schizophrenia (rank #10)**, which is essentially a pediatric label extension of the drug's established mechanism—but this requires independent pediatric safety, dosing, and neurodevelopmental evaluation before it can be advanced.
+The prediction rests on a computational score alone, and the single supporting publication describes drug-induced toxicity and not benefit. There are no clinical trials, no plausible mechanism, and a potential harm signal in the retina.
 
-**To proceed (specifically for Early-Onset Schizophrenia), the following is needed:**
-
-- Retrieve complete MOA and pharmacology profile from DrugBank API (data gap DG002)
-- Download and parse the TFDA/India package insert for current warnings, contraindications, and approved pediatric dosing guidance (data gap DG001)
-- Conduct a systematic review comparing Chlorpromazine vs. atypical antipsychotics (e.g., risperidone, aripiprazole) in pediatric schizophrenia for efficacy and EPS/tardive dyskinesia risk
-- Evaluate neurodevelopmental long-term safety data in adolescent populations, particularly dopamine system interference during brain maturation
-- Assess the regulatory pathway in India for a pediatric schizophrenia indication, including whether new clinical data would be required given the drug's off-patent status
+**To proceed, the following is needed:**
+- Package insert warnings and contraindications for the India-marketed products (a blocking gap for safety screening)
+- Detailed mechanism of action data, and a mechanistic rationale connecting chlorpromazine to retinal dystrophy pathology
+- Preclinical evidence (e.g., retinal degeneration models) showing benefit and not toxicity
+- A review of ocular and phototoxicity risk, since retinal toxicity is a known concern
+- If the team wants a more tractable lead, consider the rank-10 prediction (early-onset schizophrenia). It is an on-label extension and would need paediatric and adolescent safety evaluation, particularly for extrapyramidal and metabolic burden.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

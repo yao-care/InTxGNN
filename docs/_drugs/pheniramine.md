@@ -2,15 +2,15 @@
 layout: default
 title: Pheniramine
 parent: Moderate Evidence (L3-L4)
-nav_order: 655
-evidence_level: L3
+nav_order: 662
+evidence_level: L4
 indication_count: 3
 ---
 
 # Pheniramine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-# Pheniramine: From Allergic Symptom Relief to Allergic Urticaria
+# Pheniramine: From Allergic Rhinitis and Related Allergic Conditions to Allergic Urticaria
 
 ## One-Sentence Summary
 
-Pheniramine is a classical first-generation H1-antihistamine, though a formally documented original indication is not available in the current data pack. The TxGNN model predicts it may be effective for **Allergic Urticaria**, supported by **1 clinical trial** (of limited direct relevance) and **20 literature references** — most concerning the chlorpheniramine/dexchlorpheniramine class rather than pheniramine itself.
+Pheniramine is a first-generation H1 antihistamine, originally used for allergic and upper-airway conditions such as allergic rhinitis, vasomotor rhinitis, conjunctivitis, the common cold, urticaria and angioedema.
+The TxGNN model predicts it may be effective for **allergic urticaria**, but this is largely an overlap with its existing indications rather than a true new use.
+Currently there are **0 clinical trials** and **4 publications** (3 case reports and 1 review of a different drug), so the evidence is mainly a model prediction.
 
 ---
 
@@ -41,31 +43,29 @@ Pheniramine is a classical first-generation H1-antihistamine, though a formally 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not established from local licensing data (drug is not marketed); classically used as a first-generation H1-antihistamine for allergic symptoms |
-| Predicted New Indication | Allergic Urticaria |
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, conjunctivitis (atopic, papillary, vernal), urticaria, angioedema and others (the India licence indication text is empty, so this list comes from the knowledge-graph indication edges) |
+| Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.67% |
-| Evidence Level | L3 |
-| Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 16 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Pheniramine itself is not currently available. Based on known pharmacology, Pheniramine belongs to the first-generation alkylamine H1-antihistamine class, structurally and pharmacologically related to chlorpheniramine and dexchlorpheniramine. H1-receptor antagonism is the established standard-of-care mechanism for treating allergic urticaria, so a class-level rationale for this prediction is plausible.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known drug-class information, pheniramine is a first-generation H1-receptor antagonist. By blocking histamine at H1 receptors, it can reduce the wheal-and-flare response, itching and swelling that characterise urticaria.
 
-However, the supporting evidence is largely indirect: the majority of clinical and literature evidence in this evidence pack pertains to chlorpheniramine or dexchlorpheniramine rather than Pheniramine specifically. This represents evidence extrapolated across a drug class rather than drug-specific proof of efficacy. Two literature items (PMID 40125237, 40324831) do reference Pheniramine directly, but describe adverse/hypersensitivity events rather than efficacy in urticaria.
+Urticaria and angioedema are already among pheniramine's listed indications, so allergic urticaria falls largely within the existing scope. This is closer to an on-label use than true repurposing. The very high TxGNN score probably reflects this overlap with known antihistamine indications.
 
-Given the absence of a documented original indication and pheniramine-specific RCT data, the mechanistic plausibility is reasonable but currently unconfirmed at the drug-specific level — this should be treated as a class-effect hypothesis pending dedicated evidence.
+Two other predictions were also made: **nasal cavity disease** (score 99.28%) and **acute laryngopharyngitis** (score 99.25%). Both rest on overlap with existing rhinitis, pharyngitis and common cold indications. They have no supporting trials or literature in the data compiled. Antihistamines have limited proven benefit in infectious pharyngitis.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02082054](https://clinicaltrials.gov/study/NCT02082054) | Phase 2 | Unknown | 125 | Dose-ranging study of atropine + pseudoephedrine/chlorpheniramine in seasonal allergic rhinitis (TNSS endpoint). Relevance graded **C** — primarily an atropine-focused trial with chlorpheniramine as a combination comparator; not a direct evaluation of Pheniramine in urticaria, likely retrieval noise. |
+Currently no related clinical trials registered.
 
 ---
 
@@ -73,24 +73,43 @@ Given the absence of a documented original indication and pheniramine-specific R
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35652393](https://pubmed.ncbi.nlm.nih.gov/35652393/) | 2024 | Review | Curr Rev Clin Exp Pharmacol | Comprehensive review of chlorpheniramine (CPM), noting historical use in chronic urticaria among other allergic conditions |
-| [39265704](https://pubmed.ncbi.nlm.nih.gov/39265704/) | 2024 | Cohort | Eur J Pharm Sci | Comparative inhibition of histamine-induced wheal/flare by oral bilastine vs. parenteral dexchlorpheniramine and a new bilastine formulation |
-| [18597008](https://pubmed.ncbi.nlm.nih.gov/18597008/) | 2008 | Cohort | Methods Find Exp Clin Pharmacol | Large-scale surveillance (n=1,742) of sedative profiles across H1-antihistamines, including first-generation agents |
-| [40125237](https://pubmed.ncbi.nlm.nih.gov/40125237/) | 2025 | Case Report | Cureus | Immediate hypersensitivity reaction to Pheniramine itself in a patient with multiple drug hypersensitivity syndrome |
-| [40324831](https://pubmed.ncbi.nlm.nih.gov/40324831/) | 2025 | Case Report | Indian J Pharmacol | Serious adverse event (loss of consciousness) following concurrent IV pheniramine and hydrocortisone for anaphylaxis management |
-| [31852144](https://pubmed.ncbi.nlm.nih.gov/31852144/) | 2019 | Case Report | Medicine | Two cases of chlorpheniramine-induced anaphylaxis plus retrospective pharmacovigilance database review |
-| [32641443](https://pubmed.ncbi.nlm.nih.gov/32641443/) | 2020 | Case Report | BMJ Case Rep | Urticaria and angioedema as a prodromal cutaneous manifestation of COVID-19 (disease-context, not drug-specific) |
-| [15623181](https://pubmed.ncbi.nlm.nih.gov/15623181/) | 2004 | Preclinical | JPMA | Comparison of chlorpheniramine vs. loratadine effects on isolated rabbit trachea (mechanistic/preclinical) |
-| [26179134](https://pubmed.ncbi.nlm.nih.gov/26179134/) | 2015 | Case Report | Contact Dermatitis | Palpebral angioedema and allergic contact dermatitis caused by a cerumenolytic |
-| [25372261](https://pubmed.ncbi.nlm.nih.gov/25372261/) | 2014 | Case Report | Cutis | Flurbiprofen-induced unilateral eyelid angioedema |
+| [40324831](https://pubmed.ncbi.nlm.nih.gov/40324831/) | 2025 | Case report | Indian J Pharmacol | Loss of consciousness after concurrent intravenous pheniramine and hydrocortisone given for a drug-induced allergic reaction (a safety report) |
+| [40125237](https://pubmed.ncbi.nlm.nih.gov/40125237/) | 2025 | Case report | Cureus | Immediate hypersensitivity reaction to pheniramine in a patient with multiple drug hypersensitivity syndrome (a safety report) |
+| [16854350](https://pubmed.ncbi.nlm.nih.gov/16854350/) | 2006 | Case report | Allergol Immunopathol | Life-threatening facial oedema after ingesting a pine processionary caterpillar, mimicking an allergic event (not about pheniramine efficacy) |
+| [2859711](https://pubmed.ncbi.nlm.nih.gov/2859711/) | 1985 | Review (of a different drug) | Z Hautkr | Review of astemizole trials, with pheniramine mentioned only as a comparator (not direct evidence for pheniramine) |
+
+None of these publications provides direct efficacy evidence for pheniramine in allergic urticaria.
+
+---
+
+## India Market Information
+
+Pheniramine is marketed in India with 16 valid single-ingredient registrations and no cancelled ones. Dosage forms include injections, tablets and syrup. The indication text is empty in the registration records. Five main registrations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 114 | Avil Injection (Sanofi India Ltd) | Vial of 2 ml injection | Not stated in the records |
+| Registration No. 56 | Avil Injection (Sanofi India Ltd) | Vial of 10 ml injection | Not stated in the records |
+| Registration No. 5 | Avil 25 Tablet (Sanofi India Ltd) | Strip of 15 tablets | Not stated in the records |
+| Registration No. 226 | Avil 50mg Tablet (Sanofi India Ltd) | Strip of 15 tablets | Not stated in the records |
+| Registration No. 178677 | Pheril 100mg Syrup (Ciron Drugs & Pharmaceuticals) | Bottle of 100 ml syrup | Not stated in the records |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Contraindications flagged in the knowledge graph** (these come from drug-disease relationship data, not from label text, and need confirmation against the package insert):
+- Cardiovascular and respiratory: hypertension, chronic obstructive pulmonary disease, bronchitis
+- Neurological and psychiatric: epilepsy, insomnia, psychotic and schizophrenia-spectrum disorders, mental disorder
+- Gastrointestinal and hepatobiliary: gastric ulcer, peptic ulcer disease, gastritis, inflammatory bowel disease, pancreatitis, liver disease and liver failure, gallbladder disease
+- Renal and urological: kidney disease, pyoureter, benign prostatic hyperplasia
+- Endocrine and metabolic: diabetes mellitus, diabetic ketoacidosis, hyperglycaemia, hypothyroidism (including myxoedema and congenital hypothyroidism)
+- Other: thrombocytopenia, dermatitis herpetiformis
 
-*(Note: safety label warnings, contraindications, and drug-drug interaction data are currently unavailable — this is a Blocking-severity data gap per the evidence pack that prevents initial safety screening.)*
+**Safety signals from the literature:**
+- Two recent case reports describe serious adverse events with pheniramine: loss of consciousness after intravenous administration together with hydrocortisone, and an immediate hypersensitivity reaction. Both are single-case observations.
+
+Package insert warnings and drug interaction data were not available. Please refer to the package insert for full safety information.
 
 ---
 
@@ -99,13 +118,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Evidence supporting Pheniramine specifically (rather than the broader chlorpheniramine/dexchlorpheniramine class) in allergic urticaria is limited to case reports and indirect class-level studies, corresponding to Evidence Level L3. Combined with a Blocking data gap on TFDA safety labeling (warnings/contraindications), the candidate cannot yet proceed to initial safety screening (S1).
+The predicted indication of allergic urticaria largely overlaps with pheniramine's existing urticaria and angioedema indications, so it is not a distinct repurposing opportunity. The data compiled contain no clinical trials and no literature showing pheniramine efficacy, so the evidence is limited to a model prediction and drug-class reasoning (L4). The other two predictions (nasal cavity disease, acute laryngopharyngitis) have no direct supporting evidence at all (L5).
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label data — warnings, contraindications (currently a Blocking gap)
-- Drug-specific mechanism of action confirmation for Pheniramine (currently a Data Gap)
-- Drug-drug interaction (DDI) profile (current query returned no results)
-- Dedicated pheniramine-specific efficacy data in urticaria populations, rather than class-effect extrapolation from chlorpheniramine/dexchlorpheniramine studies
+- Package insert warnings, contraindications and approved indication text for the India registrations, which is a blocking gap for safety screening
+- Mechanism of action data from DrugBank
+- Controlled clinical evidence for pheniramine in urticaria (or confirmation that the existing indication already covers it)
+- Review of the knowledge-graph contraindications against the label, and of the reported hypersensitivity and intravenous administration safety signals
+- Confirmation of whether any new route or formulation would be needed (route compatibility has not yet been assessed)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

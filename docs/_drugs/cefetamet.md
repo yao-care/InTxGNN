@@ -29,72 +29,63 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cefetamet: From Bacterial Infections to Rheumatoid Arthritis
+# Cefetamet: From Bacterial Infection (Antibacterial Use) to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-Cefetamet is a third-generation cephalosporin antibiotic originally developed for the treatment of bacterial infections, including respiratory and urinary tract infections.
-The TxGNN model predicts it may be effective for **Rheumatoid Arthritis** (top-ranked among 10 predicted indications),
-however, **no clinical trials** and **no publications** currently support any of the 10 predicted indications — all evidence levels are L5.
-
----
+Cefetamet is a third-generation oral cephalosporin antibiotic (given as its prodrug, cefetamet pivoxil) and is currently marketed in India as single-ingredient tablets.
+The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but **no clinical trials and no publications** currently support this prediction.
+It is a computational signal only and should be treated as a low-confidence hypothesis.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Bacterial infections (3rd-generation cephalosporin antibiotic; no India/CDSCO approvals on record) |
-| Predicted New Indication | Rheumatoid Arthritis |
+|------|------|
+| Original Indication | Not stated in the data compiled for this report (the approved indication text on all Indian licences is blank). Based on its drug class, it is an antibacterial. |
+| Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 97.99% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 6 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Cefetamet belongs to the third-generation cephalosporin class — a group of broad-spectrum β-lactam antibiotics that inhibit bacterial cell wall synthesis by binding to penicillin-binding proteins (PBPs). Its oral prodrug form, cefetamet pivoxil, was historically used for community-acquired respiratory and urinary tract infections.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, cefetamet is a beta-lactam cephalosporin. It acts by inhibiting bacterial cell wall synthesis.
 
-Cephalosporins have theoretical indirect pathways that could conceivably touch rheumatoid arthritis biology: some β-lactam antibiotics have shown weak NF-κB inhibitory activity in vitro, and there are known connections between infectious triggers (e.g., *Proteus mirabilis*, periodontal pathogens) and synovitis in RA. Eradication of such infections could, in theory, reduce antigen-driven joint inflammation. Cephalosporins may also modulate gut microbiota composition, with downstream effects on systemic immune tone.
+The link to rheumatoid arthritis is weak. Cefetamet has no known anti-inflammatory or immunomodulatory activity relevant to autoimmune arthritis. The high score (0.980) most likely reflects network proximity in the knowledge graph rather than a real pharmacological relationship.
 
-However, these mechanistic links are highly speculative for Cefetamet specifically. No clinical or animal study has demonstrated anti-inflammatory efficacy for Cefetamet or any cephalosporin in RA. The TxGNN high score most likely reflects a shared comorbidity pathway ("infection → immune activation → arthritis") embedded in the knowledge graph, rather than a direct therapeutic mechanism. Notably, the same pattern of zero supporting evidence appears across all 10 top-ranked predictions — ranging from osteoarthritis to rare skeletal dysplasias — which further suggests that the scores here reflect knowledge-graph topological proximity rather than genuine repurposing potential.
+The other top-ranked predictions are osteoarthritis, osteoarthritis susceptibility, gout, hemoglobinopathy, pseudoachondroplasia, colobomatous microphthalmia-rhizomelic dysplasia syndrome, brachyolmia, beta-thalassemia, and Hunter-Thompson acromesomelic dysplasia. None has any trial or literature support, and none has a plausible mechanism. Together they form a cluster of musculoskeletal and hematologic or genetic conditions, which points to a graph artifact rather than a true repurposing signal.
 
----
+## India Market Information
 
-## Clinical Trial Evidence
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 7368 | Altamet 250mg Tablet (Alembic Pharmaceuticals Ltd) | Strip of 4 tablets | Not stated |
+| 190698 | Recocef 500mg Tablet (Zydus Cadila) | Strip of 4 tablets | Not stated |
+| 230548 | Ultipime O 500mg Tablet (Cadila Pharmaceuticals Ltd) | Strip of 4 tablets | Not stated |
+| 190624 | Recocef 250mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
+| 231376 | Ultipime O 250mg Tablet (Cadila Pharmaceuticals Ltd) | Strip of 4 tablets | Not stated |
 
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+A sixth licence (180683, Pryzm 500mg Tablet, Torrent Pharmaceuticals Ltd, strip of 4 tablets) is also valid. All six registrations are single-ingredient oral tablets.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 TxGNN-predicted indications for Cefetamet are rated L5 with zero supporting clinical trials or literature, the mechanistic links are highly speculative or implausible (several top predictions involve rare monogenic skeletal dysplasias entirely unrelated to antibiotic mechanisms), and Cefetamet has no regulatory history in India.
+The prediction rests only on a model score. There are no clinical trials or publications, and no plausible mechanism links a beta-lactam antibacterial to rheumatoid arthritis. The evidence level is L5.
 
 **To proceed, the following is needed:**
-
-- **MOA data**: Retrieve full DrugBank entry (DB13504) to confirm mechanism, targets, and any known off-target activity
-- **CDSCO regulatory review**: Obtain Indian package insert or SmPC equivalent to assess approved indications, warnings, and contraindications before any safety evaluation can proceed
-- **Mechanistic plausibility screen**: Conduct a structured literature review on β-lactam antibiotics and inflammatory arthritis (NF-κB, gut microbiome, infection-driven synovitis) to determine whether a credible hypothesis can be constructed
-- **KG bias assessment**: Investigate whether the high TxGNN scores across diverse, mechanistically unrelated indications (RA, skeletal dysplasias, hemoglobinopathies) indicate a systematic knowledge-graph artefact for this drug node — if so, de-prioritise Cefetamet from the repurposing pipeline
-- **In vitro pilot** (only if the above steps identify a plausible target): Test anti-inflammatory activity in relevant cell models (e.g., macrophage NF-κB reporter, fibroblast-like synoviocyte assay) before committing to animal or clinical studies
+- Package insert warnings and contraindications for the Indian products (a blocking gap for safety screening)
+- Confirmed mechanism-of-action data from DrugBank
+- Any preclinical or clinical signal showing that cefetamet affects inflammatory or autoimmune arthritis pathways
+- Confirmation of the approved indications on the Indian licences
+- Assessment of route compatibility (currently pending; the available form is oral tablets only)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

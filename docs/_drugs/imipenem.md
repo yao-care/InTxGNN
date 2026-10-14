@@ -2,7 +2,7 @@
 layout: default
 title: Imipenem
 parent: Model Prediction Only (L5)
-nav_order: 423
+nav_order: 427
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,84 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Imipenem: From Serious Bacterial Infections to Diffuse Scleroderma
+# Imipenem: From Bacterial Infections to Diffuse Scleroderma
 
 ## One-Sentence Summary
 
-Imipenem is a broad-spectrum carbapenem antibiotic used as a last-resort treatment for serious hospital-acquired bacterial infections, including those caused by multidrug-resistant organisms.
-The TxGNN model's top-ranked prediction is **Diffuse Scleroderma** (systemic sclerosis),
-however, **no clinical trials** and **no publications** currently support this direction — the evidence base is entirely model-derived, making this an L5 prediction.
-
-> **Note:** Among all 10 ranked predictions, the most clinically actionable indication is **Staphylococcus aureus infection** (Rank 9, L2, Proceed with Guardrails), backed by a Phase 4 RCT and substantial literature. The sections below follow the format specification and report on the top-ranked prediction first.
+Imipenem is a carbapenem antibiotic, originally used to treat serious bacterial infections such as bacterial pneumonia, peritonitis and endocarditis.
+The TxGNN model predicts it may be effective for **diffuse scleroderma**, but there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Serious bacterial infections (carbapenem antibiotic, hospital-acquired) |
-| Predicted New Indication | Diffuse Scleroderma |
+|------|------|
+| Original Indication | Bacterial infections (bacterial pneumonia, peritonitis, endocarditis, bacterial arthritis, endometritis) |
+| Predicted New Indication | Diffuse scleroderma |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacology, Imipenem is a carbapenem beta-lactam antibiotic whose efficacy against serious bacterial infections is well established. Carbapenems work by binding to penicillin-binding proteins (PBPs) in bacterial cell walls, inhibiting cell wall synthesis and causing bacterial death. This mechanism has no recognized direct relevance to autoimmune or fibrotic disease pathways.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, imipenem is a carbapenem antibiotic that inhibits bacterial cell wall synthesis, and its efficacy in bacterial infections is well established.
 
-Diffuse scleroderma is an autoimmune fibrotic disease driven by immune dysregulation, vascular injury, and progressive fibrosis of the skin and internal organs. It is not caused by bacteria and does not respond to cell wall synthesis inhibitors by any established mechanism.
+Diffuse scleroderma, however, is an autoimmune, fibrotic disease, not an infection. No mechanistic link to imipenem's antibacterial action is evident. The very high TxGNN score is not supported by any clinical or published evidence, so it should be treated as a model-generated hypothesis rather than a credible repurposing signal.
 
-According to this Evidence Pack's repurposing rationale, the elevated TxGNN score for this pairing most likely originates from indirect edges in the knowledge graph — specifically, shared comorbidity nodes representing infectious complications that arise in immunocompromised scleroderma patients. In other words, the model learned that Imipenem and scleroderma co-occur in clinical contexts (infection management in immunosuppressed patients), not that Imipenem treats scleroderma directly. This is likely a false positive.
+For context, the other predictions for this drug are mostly infectious diseases, where antibacterial activity is plausible:
+- **Staphylococcus aureus infection** has the strongest support. It has two small Phase 4 trials (both combination-based) plus older experimental and clinical literature, and is rated L3.
+- **Typhoid fever, paratyphoid fever and salmonellosis** are supported only by susceptibility data and case reports (L4).
+- **Sinusitis and chronic rhinosinusitis** are supported by microbiology surveys only (L4).
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Imipenem in diffuse scleroderma.
+Currently no related clinical trials registered for diffuse scleroderma.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for Imipenem in diffuse scleroderma.
+Currently no related literature available for diffuse scleroderma.
 
 ---
 
 ## India Market Information
 
-Imipenem is not currently registered in India. No licensed products are on record in the Indian regulatory database (total registrations: 0).
+Imipenem has 20 valid registrations in India, all single-ingredient injectable products (no combination products and no cancelled licences). Five main authorizations are listed below.
+
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| 83903 | Elpentin 500mg/500mg Injection | Vial of 1 Injection |
+| 232706 | Ufimep CL 500mg/500mg Injection | Vial of 1 Injection |
+| 112937 | Imiron 500mg/500mg Injection | Vial of 1 Injection |
+| 57458 | Cilanip 500mg/500mg Injection | Vial of 1 Injection |
+| 112405 | Imipol 1000mg/1000mg Powder for Injection | Vial of 1 Powder for Injection |
+
+All marketed forms are injectable (vials of injection or powder for injection).
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions** (15 interactions identified; source: DDInter):
+- **Contraindication signals from the knowledge graph** (not label text): epilepsy, kidney disease, pyoureter, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis.
+- **Drug Interactions**: 15 interacting drugs were identified.
+  - **Major**: bupropion, iohexol, iopamidol.
+  - **Moderate**: warfarin, dicoumarol, theophylline, aminophylline, dyphylline, oxtriphylline, cyclosporine, mycophenolic acid, ethinylestradiol, lindane, pemetrexed, polyethylene glycol (3350 with electrolytes).
 
-**Major interactions — require clinical attention before co-prescribing:**
-
-| Interacting Drug | Severity | Clinical Concern |
-|-----------------|----------|-----------------|
-| Bupropion | Major | Imipenem lowers seizure threshold; combination significantly increases seizure risk |
-| Iohexol | Major | Iodinated contrast agent; risk of seizure or neurotoxicity in combination |
-| Iopamidol | Major | Iodinated contrast agent; same concern as Iohexol |
-
-**Moderate interactions — monitor if co-prescribed:**
-
-| Interacting Drug | Clinical Concern |
-|-----------------|-----------------|
-| Theophylline / Aminophylline / Dyphylline / Oxtriphylline | Xanthine derivatives; imipenem may reduce theophylline clearance, increasing seizure and toxicity risk |
-| Warfarin / Dicoumarol | Anticoagulant effect may be potentiated; INR monitoring required |
-| Cyclosporine | CNS toxicity (tremor, seizure) may be enhanced |
-| Mycophenolic acid | Imipenem/cilastatin may reduce mycophenolate plasma levels by ~30–50%, risking transplant rejection |
-| Pemetrexed | Imipenem may delay pemetrexed renal clearance, increasing pemetrexed toxicity |
-| Ethinylestradiol | Antibiotic-related reduction of hormonal contraceptive efficacy |
-| Polyethylene glycol (3350 with electrolytes) | Moderate interaction |
-| Lindane | Moderate interaction; both lower seizure threshold |
+For full warnings and contraindications, please refer to the package insert.
 
 ---
 
@@ -115,16 +109,13 @@ Imipenem is not currently registered in India. No licensed products are on recor
 **Decision: Hold**
 
 **Rationale:**
-There is no clinical or preclinical evidence supporting the use of Imipenem in diffuse scleroderma. The high TxGNN score almost certainly reflects indirect knowledge graph co-occurrence (infection management in immunocompromised patients) rather than a genuine anti-fibrotic or immunomodulatory mechanism. A carbapenem antibiotic targeting bacterial PBPs has no established basis for treating an autoimmune fibrotic disease, and antimicrobial stewardship principles strongly discourage use outside of infectious indications.
+The prediction for diffuse scleroderma has no clinical trials or literature behind it and no plausible mechanism, since an antibacterial agent is not expected to act on an autoimmune fibrotic disease. Evidence is model prediction only (L5).
 
-**To proceed from L5 toward any investigable hypothesis, the following would be needed:**
-- A plausible mechanistic hypothesis linking carbapenem activity to scleroderma pathogenesis (e.g., microbiome modulation, anti-fibrotic signaling — currently speculative)
-- Preclinical data (in vitro fibroblast/immune cell models or animal model) showing relevant biological activity
-- If a microbiome-mediated hypothesis is proposed, 16S rRNA or metagenomic evidence linking specific microbial dysbiosis to scleroderma progression
-
----
-
-> **Actionable alternative:** If this report is being used to prioritize Imipenem repurposing opportunities, **Staphylococcus aureus infection** (Rank 9) represents the most evidence-supported direction — with 1 completed Phase 4 RCT ([NCT00871104](https://clinicaltrials.gov/study/NCT00871104): fosfomycin + imipenem for MRSA endocarditis), 13 clinical trials, and 20 publications, yielding an L2 rating and a "Proceed with Guardrails" recommendation.
+**To proceed, the following is needed:**
+- Any mechanistic or preclinical rationale linking imipenem to fibrosis or autoimmune pathways in scleroderma
+- Detailed mechanism of action data (MOA)
+- Package insert warnings and contraindications from the India regulatory source
+- If the aim is a more credible repurposing direction, evaluate the *Staphylococcus aureus* infection prediction (L3) instead, noting that its evidence concerns combination regimens rather than imipenem alone
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

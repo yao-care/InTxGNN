@@ -2,7 +2,7 @@
 layout: default
 title: Ibutilide
 parent: Model Prediction Only (L5)
-nav_order: 415
+nav_order: 419
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,74 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Ibutilide: From Atrial Fibrillation/Flutter to Rheumatoid Arthritis
+# Ibutilide: From Cardiac Arrhythmia to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-Ibutilide is a Class III antiarrhythmic used intravenously for acute termination of atrial fibrillation/flutter; it is not currently marketed in Taiwan. The TxGNN model predicts a possible effect on **Rheumatoid Arthritis**, but this prediction is currently supported by **no clinical trials and no literature** — it is a model-only signal (Evidence Level L5) with a mechanistic rationale that the evidence pack itself flags as weak and speculative.
-
----
+Ibutilide is a class III antiarrhythmic drug given by injection. The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** currently supporting it. A second prediction, nephrogenic syndrome of inappropriate antidiuresis (NSIAD), is equally unsupported.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Atrial Fibrillation / Atrial Flutter (IV, acute termination) — derived from known pharmacology noted in the evidence pack; no Taiwan license record available |
-| Predicted New Indication | Rheumatoid Arthritis |
+| Original Indication | Not listed in the India license data (known pharmacology: class III antiarrhythmic) |
+| Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.31% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Ibutilide is not available in this evidence pack (MOA field marked as a data gap). Based on the mechanistic notes accompanying the prediction, Ibutilide is a Class III antiarrhythmic that activates the slow inward sodium current and blocks the delayed rectifier potassium current (IKr), prolonging atrial and ventricular action potentials and effective refractory periods. Its only established clinical use is IV administration for acute termination of atrial fibrillation/flutter.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, ibutilide is a class III antiarrhythmic that blocks the delayed rectifier potassium current (IKr, hERG) and promotes a slow inward sodium current. This prolongs the cardiac action potential.
 
-Rheumatoid arthritis is driven by autoimmune inflammatory pathways (TNF-α, IL-6, RANKL, synovial proliferation) that have no established connection to cardiac ion-channel modulation. The evidence pack's own rationale states there is no known immunomodulatory or anti-inflammatory activity for Ibutilide, and characterizes the mechanistic link to rheumatoid arthritis as speculative rather than substantiated. Given the absence of any clinical trial, literature, or preclinical signal connecting the two, this prediction should be treated as an early-stage hypothesis generated purely from the knowledge-graph model, not as a mechanistically grounded candidate.
+No clear link to rheumatoid arthritis biology (TNF, IL-6, JAK/STAT, B/T-cell activation) is supported by the available data. Potassium channels such as Kv1.3 and KCa3.1 are discussed in T-cell and synoviocyte biology. However, ibutilide is not known to act on them, so this connection is speculative. The high score (0.993) reflects a model prediction, not experimental or clinical support.
 
----
+The second predicted indication, **nephrogenic syndrome of inappropriate antidiuresis** (score 99.30%), is caused by gain-of-function mutations in the vasopressin V2 receptor. Ibutilide has no known action on this receptor or on renal water handling. This prediction also has no trials or literature. It is unfavorable on safety grounds because hyponatremia and electrolyte disturbances increase the risk of proarrhythmia with ibutilide.
 
-## Clinical Trial Evidence
+## India Market Information
 
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
-
-## Taiwan Market Information
-
-Ibutilide is not currently marketed in Taiwan (0 registrations on file), so no product license records are available for review.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 85028 | Fibricor Injection (Zuventus Healthcare Ltd) | Vial of 10 ml injection | Not stated |
 
 ## Safety Considerations
 
-**Drug Interactions**: Ibutilide has 125 recorded interactions in the DDI database. Notable **Major**-severity interactions include: Clarithromycin, Picosulfuric acid, Polyethylene glycol (3350 with electrolytes), Dolasetron, Eliglustat, Palonosetron, Sodium sulfate, Levofloxacin, Ondansetron, Granisetron, and Cisapride. Several of these (e.g., ondansetron, granisetron, dolasetron, palonosetron, cisapride, clarithromycin, levofloxacin) are themselves QT-prolonging agents, consistent with Ibutilide's Class III mechanism and raising particular concern for additive QT-prolongation/arrhythmia risk. Moderate-level interactions were also recorded with Famotidine, Loperamide, Bisacodyl, Lactitol, Lactulose, Polyethylene glycol (3350), Castor oil, and Glycerin; a Minor interaction was recorded with Metronidazole.
+- **Knowledge-graph contraindications** (from drug-disease contraindication links, not label text): long QT syndrome, familial long QT syndrome, torsades de pointes, potassium deficiency disease, atrioventricular dissociation, atrioventricular block, heart block.
+- **Drug interactions:** 125 interactions were identified. Major ones include:
+  - Macrolide and fluoroquinolone antibiotics: clarithromycin, levofloxacin
+  - 5-HT3 antagonist antiemetics: ondansetron, granisetron, dolasetron, palonosetron
+  - Cisapride
+  - Eliglustat
+  - Bowel-preparation and laxative products: picosulfuric acid, polyethylene glycol 3350 with electrolytes, sodium sulfate
+  
+  Moderate interactions include famotidine, loperamide, bisacodyl, lactitol, lactulose, polyethylene glycol 3350, castor oil and glycerin. Metronidazole is a minor interaction.
+- **Clinical context:** Ibutilide is known to cause QT prolongation and torsades de pointes, and is given only in monitored settings. This is general pharmacological knowledge rather than data from this record.
 
-Package-insert warnings and contraindications are not yet available for this drug (TFDA label data gap, flagged as Blocking).
-
----
+Please also refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but the prediction is unsupported by any clinical trial or literature evidence (L5, decision stage S0), and the evidence pack's own mechanistic assessment characterizes the drug–disease link as speculative. Combined with the absence of TFDA label data (a Blocking gap), this candidate cannot proceed to safety evaluation yet.
+Both predictions rest only on model scores, with no clinical trials, no literature and no plausible mechanistic link. Ibutilide's proarrhythmic risk (QT prolongation, torsades de pointes) is a significant safety barrier for a non-cardiac indication such as rheumatoid arthritis.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — Blocking gap, required before any S1 safety review
-- Detailed mechanism-of-action confirmation from DrugBank/primary literature
-- Preclinical or mechanistic studies exploring any plausible link between Class III antiarrhythmic activity and autoimmune/rheumatoid pathways
-- Clarification of regulatory pathway, since Ibutilide is not currently marketed in Taiwan
+- The India package insert (warnings and contraindications), which is currently missing and blocks safety screening
+- Mechanism of action data from DrugBank
+- Preclinical evidence, for example on Kv1.3/KCa3.1 channel activity in T cells and synoviocytes, to test the speculative mechanism
+- A risk-benefit assessment of QT and arrhythmia risk for chronic or non-monitored use
+- Confirmation of the approved indication for the registered product
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

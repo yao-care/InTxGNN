@@ -29,81 +29,63 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Amantadine: From Parkinson's Disease to Rasmussen Subacute Encephalitis
+# Amantadine: From Parkinson Disease to Rasmussen Subacute Encephalitis
 
 ## One-Sentence Summary
 
-Amantadine is a well-established agent used for Parkinson's disease and influenza A, acting primarily through non-competitive NMDA receptor antagonism and dopaminergic enhancement. The TxGNN model predicts it may be effective for **Rasmussen Subacute Encephalitis**, a rare, chronic autoimmune encephalitis causing progressive unilateral brain destruction. Currently, **no clinical trials and no publications** specifically support this repurposing direction — the prediction rests entirely on model inference.
+Amantadine was originally used to treat Parkinson disease and related movement disorders.
+The TxGNN model predicts it may be effective for **Rasmussen subacute encephalitis**,
+but **no clinical trials and no publications** currently support this specific prediction (the signal is model-based only).
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Parkinson's disease; influenza A (not currently marketed in India) |
-| Predicted New Indication | Rasmussen Subacute Encephalitis |
+|------|------|
+| Original Indication | Parkinson disease and related parkinsonian and dystonic disorders (the approved indication text for the Indian licences is not available) |
+| Predicted New Indication | Rasmussen subacute encephalitis |
 | TxGNN Prediction Score | 99.48% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 12 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the regulatory data on record. Based on known pharmacological information, Amantadine functions as a **non-competitive NMDA receptor antagonist** (blocking glutamate-mediated excitotoxicity) and a **dopaminergic agent** (promoting dopamine release and inhibiting reuptake). These dual mechanisms underlie its established use in Parkinson's disease, where it reduces motor symptoms and drug-induced dyskinesia.
+Currently, detailed mechanism of action data is not available. Based on known information, amantadine is an NMDA receptor antagonist with dopaminergic activity, and its efficacy in Parkinson disease and related movement disorders is established. Mechanistically, it may be applicable to Rasmussen encephalitis.
 
-Rasmussen Encephalitis (RE) is a rare, progressive autoimmune condition characterised by T-cell-mediated unilateral hemispheric inflammation and neuronal destruction. While the primary pathology is immune-driven, secondary **glutamate excitotoxicity via NMDA receptor over-activation** contributes to neuronal death and propagation of seizure activity. A subset of RE patients also carry antibodies against GluR3 (an AMPA receptor subunit), suggesting cross-talk with glutamate receptor pathways. Amantadine's NMDA antagonism theoretically could reduce this secondary excitotoxic cascade — analogous to the rationale supporting Memantine use in neuroinflammatory conditions.
+Rasmussen encephalitis is a rare, progressive inflammatory brain disease that causes severe seizures and loss of function on one side of the brain. Glutamate receptor-mediated excitotoxicity and autoimmune mechanisms have been proposed in this disease. NMDA receptor antagonism could therefore plausibly be relevant. This link is theoretical and unverified, and the prediction rests on the model score alone.
 
-However, the mechanistic link is **indirect and weak**. RE's core pathophysiology is autoimmune, not dopaminergic or glutamatergic in origin. Amantadine does not address the T-cell-mediated inflammation that drives the disease. The TxGNN high score likely reflects broad network connectivity between "antiviral/antiparkinson" drug nodes and "encephalitis/CNS inflammation" disease nodes in the knowledge graph, rather than a specific mechanistic fit. This should be treated as a hypothesis-generating signal, not a clinically actionable finding.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+For context, other top-ranked predictions are myelitis (score 99.24%, indirect evidence from post-polio syndrome fatigue studies) and PLA2G6-associated neurodegeneration (score 99.23%, extrapolated from a case report in a related disorder). Both rank below Rasmussen encephalitis by score but have some literature, whereas Rasmussen encephalitis has none.
 
 ---
 
 ## India Market Information
 
-Amantadine currently has **no registered products** in India. There are no active licenses, approved dosage forms, or approved indications on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 39651 | Comantrel 100 Capsule | Strip of 10 capsules | Not stated |
+| 73591 | Ensorex 100mg Capsule | Strip of 15 capsules | Not stated |
+| 38074 | Comantrel-T Tablet | Strip of 10 tablets | Not stated |
+| 174876 | Parkitidin ER 193 Tablet | Strip of 10 extended-release tablets | Not stated |
+| 73243 | Ensorex 50mg Tablet | Strip of 15 tablets | Not stated |
+
+All 12 registrations are valid single-ingredient products (none cancelled). Only the first 5 are listed here.
 
 ---
 
 ## Safety Considerations
 
-Formal package insert warnings and contraindications data are not available in this evidence pack. Please refer to the original package insert for complete safety information.
+- **Contraindications / disease associations flagged in the knowledge graph** (not label text): multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, epilepsy, kidney disease, pyoureter, congestive heart failure, psychotic disorder, schizophreniform disorder, mental disorder, schizoaffective disorder, melanoma, angle-closure glaucoma, closed-angle glaucoma, substance-related disorder, substance abuse/dependence, atopic eczema, dermatitis.
+  - Epilepsy is particularly relevant, because seizures are the dominant feature of Rasmussen encephalitis.
+- **Drug Interactions**: 93 interactions were identified in total. Notable examples:
+  - **Major**: bupropion.
+  - **Moderate**: anticholinergic agents (atropine, scopolamine, hyoscyamine, glycopyrronium, dicyclomine, clidinium, mepenzolate, methscopolamine, propantheline, trospium), metoclopramide, and bowel-preparation products (polyethylene glycol with electrolytes, picosulfuric acid, sodium sulfate).
 
-**Key Drug Interactions** (93 interactions on record; selected below by clinical significance):
-
-| Interacting Drug | Severity | Clinical Note |
-|-----------------|----------|--------------|
-| Bupropion | **Major** | Increased risk of seizures and CNS toxicity; concurrent use generally contraindicated |
-| Atropine | Moderate | Additive anticholinergic effects; risk of urinary retention, confusion, dry mouth |
-| Scopolamine | Moderate | Additive anticholinergic effects |
-| Hyoscyamine | Moderate | Additive anticholinergic effects |
-| Glycopyrronium | Moderate | Additive anticholinergic effects |
-| Dicyclomine | Moderate | Additive anticholinergic effects |
-| Trospium | Moderate | Additive anticholinergic effects |
-| Methscopolamine | Moderate | Additive anticholinergic effects |
-| Mepenzolate | Moderate | Additive anticholinergic effects |
-| Propantheline | Moderate | Additive anticholinergic effects |
-| Clidinium | Moderate | Additive anticholinergic effects |
-| Metoclopramide | Moderate | Pharmacodynamic antagonism; amantadine may reduce metoclopramide efficacy |
-| Polyethylene glycol 3350 | Moderate | Altered GI transit may affect amantadine absorption |
-| Picosulfuric acid | Moderate | Altered GI transit may affect amantadine absorption |
-| Sodium sulfate | Moderate | Altered GI transit may affect amantadine absorption |
-
-> ⚠️ The full interaction list contains 93 entries. The anticholinergic burden is a particularly notable concern for elderly or neurologically impaired patients. Verify all concurrent medications before any clinical trial design.
+Please refer to the package insert for label warnings, as these were not available in the data compiled for this report.
 
 ---
 
@@ -112,16 +94,14 @@ Formal package insert warnings and contraindications data are not available in t
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high confidence score (99.48%), but this reflects network topology in the knowledge graph rather than disease-specific mechanistic evidence. Rasmussen Encephalitis is a rare autoimmune CNS disease whose primary pathology — T-cell-mediated neuroinflammation — is not directly addressed by Amantadine's known mechanisms. There are zero supporting clinical trials and zero supporting publications. This is a model-only prediction (L5) with weak-to-moderate indirect mechanistic plausibility.
+The prediction score is very high, but there are no clinical trials or publications for Rasmussen encephalitis, so the evidence is model-based only (L5). The knowledge graph also lists epilepsy as a contraindication, which needs careful consideration in a seizure-dominant disease.
 
-**To proceed to the next stage, the following is needed:**
-
-- **MOA confirmation**: Retrieve full Amantadine DrugBank entry including mechanism, pharmacodynamics, and pharmacokinetics
-- **Preclinical evidence search**: Broaden literature review to include NMDA antagonism in autoimmune encephalitis animal models
-- **RE patient population context**: Confirm whether any RE sub-types (anti-GluR3+) might be selectively responsive to glutamate pathway modulation
-- **Comparator analysis**: Review Memantine (structurally and mechanistically similar NMDA antagonist) for any RE-related case reports or small series
-- **Safety profile completion**: Obtain TFDA/FDA/EMA package insert to document formal contraindications and warnings, particularly regarding CNS adverse effects (confusion, hallucinations, seizures) relevant to encephalitis patients
-- **Orphan drug pathway assessment**: Given RE's ultra-rare status, evaluate eligibility for orphan drug designation in India, which may lower the evidence threshold for exploratory IND
+**To proceed, the following is needed:**
+- Mechanism of action data (MOA) and a documented link to Rasmussen encephalitis pathology
+- A targeted literature search for amantadine or NMDA antagonists in Rasmussen encephalitis, and a search for registered trials
+- Package insert warnings and contraindications from Indian manufacturers, including approved indication text
+- A safety assessment of amantadine in patients with epilepsy
+- Consideration of the other predictions (myelitis, PLA2G6-associated neurodegeneration) as research questions, since they have some indirect literature support
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

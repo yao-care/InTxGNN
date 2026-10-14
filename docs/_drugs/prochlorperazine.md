@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Prochlorperazine
-parent: Moderate Evidence (L3-L4)
-nav_order: 696
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 703
+evidence_level: L5
 indication_count: 10
 ---
 
 # Prochlorperazine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,99 +29,87 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-Using the **drug repurposing evaluation report** template supplied in the system instructions to generate this report from the given Evidence Pack.
-
-A note before the report: the Evidence Pack's own annotations flag `predicted_indications[0]`–`[8]` (the 9 highest-scoring TxGNN predictions, all ≥99.99%) as `Hold`/`L5` **model-artifact false positives** — rare congenital/genetic disorders that co-occur with the drug in the knowledge graph but have zero mechanistic or literature support (the pack's own text calls this "偽陽性配對，而非真實藥理證據"). The only candidate with an actual mechanistic story, historical precedent, and real (if weak) literature is rank 10, "manic bipolar affective disorder" (L4, decision_stage S1, "Research Question"). Reporting on rank 1 (retinal dystrophy) as if it were a viable candidate would be actively misleading, so this report is built around rank 10, the only defensible signal in the pack. This deviation is documented below rather than silently made.
-
----
-
-# Prochlorperazine: From Antiemetic/Antipsychotic Use to Manic Bipolar Affective Disorder
+# Prochlorperazine: From Schizophrenia to Retinal Dystrophy (Top TxGNN Prediction, No Supporting Evidence)
 
 ## One-Sentence Summary
 
-> Prochlorperazine is a phenothiazine-class dopamine D2 receptor antagonist, classically used as an antiemetic and for psychotic symptoms.
-> Of 10 indications TxGNN predicted for this drug, the model's top 9 (all ≥99.99% score) were internally flagged as knowledge-graph false positives with no mechanistic or literature support.
-> The one candidate with a genuine (if limited) evidence trail is **Manic Bipolar Affective Disorder**, supported by **0 clinical trials** and **12 publications** — including one 1959 case report that directly documents prochlorperazine use in a manic-depressive patient — but no controlled efficacy studies exist.
-
----
+Prochlorperazine is a phenothiazine dopamine D2 antagonist, originally used for schizophrenia (and widely marketed in India as 5 mg tablets).
+The TxGNN model's top-ranked prediction is **retinal dystrophy with or without extraocular anomalies**, but there are **0 clinical trials** and **0 publications** supporting it.
+The only prediction with any literature is **manic bipolar affective disorder** (7 publications, mostly old case reports and general reviews, no trials), which is the more biologically plausible direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the local registry (drug is unmarketed here); internationally used as an antiemetic and for psychotic symptoms (phenothiazine class) |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
-| TxGNN Prediction Score | 99.98% (score 0.99979, rank 798 by TxGNN internal ranking) |
-| Evidence Level | L4 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Original Indication | Schizophrenia (the India licence records contain no indication text) |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
+| TxGNN Prediction Score | 99.998% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
----
+For comparison, the only prediction with literature is manic bipolar affective disorder (score 99.98%, Evidence Level L4, flagged as a research question rather than a go decision).
 
 ## Why is This Prediction Reasonable?
 
-Detailed original mechanism-of-action data was not supplied in this Evidence Pack (flagged as a data gap, DG002). However, the pack's own repurposing-rationale text establishes that prochlorperazine is a **phenothiazine-class dopamine D2 receptor antagonist**, acting centrally and at the chemoreceptor trigger zone (CTZ) — the pharmacological basis for its use as an antiemetic and antipsychotic.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Prochlorperazine is known as a phenothiazine D2 dopamine receptor antagonist, and its efficacy in schizophrenia and in nausea, vomiting and agitation is established.
 
-Dopamine D2 antagonism is also the mechanistic backbone of conventional antipsychotics (e.g., chlorpromazine, haloperidol) used to control acute mania in bipolar affective disorder. Because prochlorperazine shares this class-level mechanism, a "class effect" rationale for antimanic activity is pharmacologically plausible, even though prochlorperazine itself was never developed or systematically studied for this purpose.
+**Retinal dystrophy (top-ranked prediction):** No mechanistic link has been identified. Inherited retinal degeneration is a genetic condition, and a D2 antagonist has no plausible disease-modifying pathway. The very high score is likely a graph-based artefact common to rare genetic diseases. The same holds for the other top-ranked predictions: hydranencephaly, congenital disorder of glycosylation with defective fucosylation, X-linked myopia, Charcot-Marie-Tooth disease type 1G, perisylvian polymicrogyria, syndromic myopia, female-limited X-linked myopia 26, and atypical glycine encephalopathy. All have no trials, no literature and no plausible mechanism.
 
-The literature evidence supports that this is more than a theoretical link: one case report (PMID 13617778, 1959) directly documents prochlorperazine being administered to a patient with mild manic-depressive illness. Critically, though, that report describes an **adverse reaction** (a confusional, dream-like episode), not a therapeutic response — so the existing direct evidence points to a real historical-use pattern, not to demonstrated efficacy. The remaining literature is dominated by general antipsychotic safety topics (seizures, hyperglycemia, tardive dyskinesia, use in pregnancy), reinforcing that the evidence base here is a risk profile inherited from the phenothiazine class, not an efficacy signal specific to bipolar mania.
-
----
+**Manic bipolar affective disorder:** This is biologically plausible. D2 antagonism underlies the antipsychotic efficacy seen in acute mania, and prochlorperazine is already used for psychosis and agitation. However, newer antipsychotics are the standard of care, so the incremental value of prochlorperazine is unclear.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered, for the top-ranked prediction or for manic bipolar affective disorder.
 
 ## Literature Evidence
 
+No literature is available for the top-ranked prediction (retinal dystrophy). The publications below were retrieved for the manic bipolar affective disorder prediction. All are low-tier evidence.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [13617778](https://pubmed.ncbi.nlm.nih.gov/13617778/) | 1959 | Case Report (direct mention) | Annales medico-psychologiques | Confusional dream-like episode caused by prochlorperazine in a patient with mild manic-depressive illness — direct drug use in this population, but reported as an adverse event, not efficacy |
-| [19461391](https://pubmed.ncbi.nlm.nih.gov/19461391/) | 2009 | Review | Journal of Psychiatric Practice | Review of antipsychotic drug use and safety during pregnancy, including in mood/psychotic disorders |
-| [26819726](https://pubmed.ncbi.nlm.nih.gov/26819726/) | 2015 | Pharmacovigilance/Cohort | Journal of Pharmaceutical Health Care and Sciences | FAERS analysis linking antipsychotics (dopamine antagonists) to hyperglycemic adverse events in schizophrenia/bipolar disorder patients |
-| [4238455](https://pubmed.ncbi.nlm.nih.gov/4238455/) | 1969 | Review | Clinical Pharmacology and Therapeutics | General review of clinical use status of psychotherapeutic drugs |
-| [14242542](https://pubmed.ncbi.nlm.nih.gov/14242542/) | 1965 | Review | Obstetrics and Gynecology | Recommended obstetric approach to severe puerperal psychological disorders |
-| [14233737](https://pubmed.ncbi.nlm.nih.gov/14233737/) | 1964 | Review | The American Journal of Psychiatry | Survey of electroshock therapy combined with phenothiazines and reserpine |
-| [14062306](https://pubmed.ncbi.nlm.nih.gov/14062306/) | 1963 | Review | La Tunisie Medicale | Emergency treatment approach to psychomotor agitation in general practice |
-| [235013](https://pubmed.ncbi.nlm.nih.gov/235013/) | 1975 | Case Report | Journal of the Neurological Sciences | Tardive dyskinesia (induced by prolonged phenothiazine use) treated with pimozide |
-| [6069087](https://pubmed.ncbi.nlm.nih.gov/6069087/) | 1967 | Case Series | Neurology | Spontaneous epileptic seizures and EEG changes during phenothiazine therapy |
-| [15863814](https://pubmed.ncbi.nlm.nih.gov/15863814/) | 2005 | Case Report | The American Journal of Psychiatry | Discontinuation syndrome reported with an antipsychotic (quetiapine) |
-
----
+| [19461391](https://pubmed.ncbi.nlm.nih.gov/19461391/) | 2009 | Review | J Psychiatr Pract | Use and safety of antipsychotic drugs during pregnancy |
+| [26819726](https://pubmed.ncbi.nlm.nih.gov/26819726/) | 2015 | Pharmacovigilance cohort | J Pharm Health Care Sci | Hyperglycaemic adverse events after antipsychotic use in FAERS reports |
+| [13617778](https://pubmed.ncbi.nlm.nih.gov/13617778/) | 1959 | Case report | Ann Med Psychol | Confusional dream-like attack caused by prochlorperazine in a mild manic-depressive patient |
+| [14233737](https://pubmed.ncbi.nlm.nih.gov/14233737/) | 1964 | Survey/case series | Am J Psychiatry | Electroshock therapy combined with phenothiazines and reserpine |
+| [14222730](https://pubmed.ncbi.nlm.nih.gov/14222730/) | 1964 | Case series | L'Encephale | Psychodysleptic manifestations during treatment with psycholeptics |
+| [14242542](https://pubmed.ncbi.nlm.nih.gov/14242542/) | 1965 | Review | Obstet Gynecol | Approach to severe puerperal psychological disorders |
+| [14062306](https://pubmed.ncbi.nlm.nih.gov/14062306/) | 1963 | Review | Tunisie Med | Emergency management of agitation in general practice |
 
 ## India Market Information
 
-Prochlorperazine currently has **no registered marketing authorization** in this jurisdiction (0 licenses on file; market status recorded as "Not Marketed"). No product name, dosage form, or approved indication text is available to report.
+There are 20 valid single-ingredient licences, all oral tablets and none cancelled. The licence records contain no approved-indication text. Main authorisations:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 176671 | Prochlor 5mg Tablet (Hema Laboratories) | Strip of 10 tablets | Not stated |
+| 199519 | Stemetil MD Tablet (Abbott) | Strip of 15 MD tablets | Not stated |
+| 241810 | Westel 5mg Tablet (Key West Medicines) | Strip of 10 tablets | Not stated |
+| 233491 | Vometil 5mg Tablet MD (Cipla) | Strip of 10 MD tablets | Not stated |
+| 322 | Acuvert Tablet (Abbott) | Strip of 9 tablets | Not stated |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 368 total interactions on file (source: DDInter). Two are flagged as **Major**:
-  - Bupropion (Major)
-  - Potassium citrate (Major)
+Package insert warnings and contraindications were not available. The following come from the model's knowledge graph and from interaction databases, not from label text.
 
-  The remainder of the sampled interactions are Moderate, including with Acarbose, Famotidine, Epinephrine, Albiglutide, Alogliptin, Metformin, Pioglitazone, Hyoscyamine, Loperamide, Morphine, Atropine, Lorcaserin, Bisacodyl, Glycopyrronium, Canagliflozin, Chlorpropamide, Clarithromycin, and Picosulfuric acid.
-
-No structured key-warning or contraindication text was available beyond this DDI data; please refer to the package insert for warnings and contraindications not captured here.
-
----
+- **Disease contraindications (knowledge graph):** cardiovascular (hypertension, orthostatic hypotension, long QT syndrome, torsades de pointes, coronary artery disease, myocardial infarction); neurological (epilepsy, basal ganglia disease, multiple system atrophy, focal dystonia, blepharospasm); haematological (neutropenia, agranulocytosis, thrombocytopenia); metabolic and organ (hyperglycaemia, obesity, kidney disease, liver disease, gallbladder disease, gastric ulcer); others (benign prostatic hyperplasia, substance abuse/dependence, female breast carcinoma).
+- **Drug interactions:** 368 interactions were recorded. Major ones include **bupropion** and **potassium citrate**. Moderate ones include antidiabetic agents (metformin, pioglitazone, acarbose, alogliptin, canagliflozin, chlorpropamide, albiglutide), anticholinergics (atropine, hyoscyamine, glycopyrronium), morphine, epinephrine, clarithromycin, famotidine, loperamide, lorcaserin, and laxatives (bisacodyl, picosulfuric acid).
+- Pharmacovigilance data (PMID 26819726) associate antipsychotics with hyperglycaemic events.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Among the 10 TxGNN-predicted indications for prochlorperazine, only "manic bipolar affective disorder" has any real mechanistic or historical grounding (dopamine D2 antagonism, a documented — if adverse — historical use case), yet there are zero clinical trials and no efficacy-oriented studies, only safety/adverse-event literature. The drug is also currently unmarketed in this jurisdiction, so there is no local product or label to anchor a repurposing pathway on. The other 9 higher-scoring predictions are model artifacts with no mechanistic plausibility and should not be pursued.
+The top-ranked predictions, including retinal dystrophy, have only a model score behind them, with no trials, no literature and no plausible mechanism. Manic bipolar affective disorder is plausible but supported only by old, low-quality reports, and better-established antipsychotics already exist. It could be kept as a research question, not a development candidate.
 
 **To proceed, the following is needed:**
-- TFDA/local regulatory label data (warnings, contraindications) — currently a blocking data gap (DG001)
-- Confirmed DrugBank mechanism-of-action record — currently a high-severity data gap (DG002)
-- Prospective or at minimum retrospective controlled efficacy data for prochlorperazine (or class-representative phenothiazines) in acute mania
-- A formal safety review addressing the two Major DDIs (bupropion, potassium citrate) before any clinical use in a bipolar population, which often carries polypharmacy risk
+- Package insert warnings and contraindications from the India regulator, a blocking gap for safety screening
+- Detailed mechanism of action data from DrugBank
+- For manic bipolar disorder: a systematic review or controlled data comparing prochlorperazine with current standard antipsychotics
+- A cardiovascular, QT and metabolic safety review given the knowledge-graph contraindications
+- No further work on the rare genetic disease predictions unless new biological evidence emerges
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

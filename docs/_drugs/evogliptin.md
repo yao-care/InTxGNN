@@ -2,7 +2,7 @@
 layout: default
 title: Evogliptin
 parent: Model Prediction Only (L5)
-nav_order: 331
+nav_order: 334
 evidence_level: L5
 indication_count: 5
 ---
@@ -33,67 +33,52 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Evogliptin (DrugBank DB12625) is a DPP-4 inhibitor whose established clinical use is glycemic control in Type 2 Diabetes Mellitus, though formal original-indication and MOA records are not present in this evidence pack. The TxGNN model's top prediction proposes **Opsismodysplasia**, a rare skeletal dysplasia, but this candidate is supported by **zero clinical trials** and **zero publications**, and the model's own mechanistic rationale concludes the link lacks biological plausibility.
-
----
+Evogliptin is a DPP-4 inhibitor originally used to treat type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **Opsismodysplasia**, a rare skeletal dysplasia.
+However, there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack (Evogliptin is a DPP-4 inhibitor class drug, typically indicated for Type 2 Diabetes Mellitus) |
+| Original Indication | Type 2 diabetes mellitus |
 | Predicted New Indication | Opsismodysplasia |
 | TxGNN Prediction Score | 99.35% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the evidence pack (flagged as a High-severity data gap, DG002). Based on the model's own mechanistic annotation, Evogliptin is understood to act as a DPP-4 inhibitor, suppressing degradation of GLP-1/GIP incretin hormones to promote glucose-dependent insulin secretion and suppress glucagon — a mechanism consistent with use in Type 2 Diabetes Mellitus.
+Currently, detailed mechanism of action data is not available. Based on known information, evogliptin belongs to the DPP-4 inhibitor class. These drugs slow the breakdown of incretin hormones, which helps control blood sugar in type 2 diabetes.
 
-Opsismodysplasia, however, is a rare skeletal dysplasia caused by mutations in genes such as *INPPL1*/*PIEZO1*, with a pathology rooted in abnormal growth-plate cartilage metabolism. There is no established biological pathway connecting incretin/DPP-4 signaling to skeletal growth-plate regulation. The evidence pack's own repurposing rationale explicitly states that this high TxGNN score likely reflects knowledge-graph embedding similarity rather than a genuine pharmacological relationship, and that the prediction "lacks biological plausibility support."
+Opsismodysplasia is a rare skeletal disorder caused by loss-of-function mutations in INPPL1 (SHIP2). These mutations affect PI3K/AKT signaling and bone formation (endochondral ossification). No established link connects DPP-4 inhibition to SHIP2 or to skeletal development pathways, so the mechanistic basis for this prediction is weak.
 
-Given this, the mechanistic rationale for this specific candidate should be treated as weak. This assessment is consistent across the pack: none of the top 5 predicted indications (opsismodysplasia, thiamine-responsive dysfunction syndrome, focal stiff limb syndrome, classic stiff person syndrome, drug-induced localized lipodystrophy) have a direct pharmacological link to DPP-4 inhibition — each rationale describes at most an indirect or speculative pathway (e.g., shared autoimmune antigen, adjacent metabolic tissue), with no experimental or clinical data to support the connection.
+The very high TxGNN score (about 99%) should be read as a model-derived association only. No trials, literature, or preclinical data back it up. Other top-ranked predictions (thiamine-responsive dysfunction syndrome, focal stiff limb syndrome, classic stiff person syndrome, drug-induced localized lipodystrophy) share the same limitation. The stiff-person spectrum conditions have a speculative immune-modulation rationale through DPP-4/CD26 on T cells, but this is hypothesis-level only.
 
----
+## India Market Information
 
-## Clinical Trial Evidence
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 233532 | Valera M 1000 Tablet SR | Strip of 15 sustained-release tablets | Not specified |
+| 233304 | Valera Tablet | Strip of 15 tablets | Not specified |
+| 233332 | Valera M 500 Tablet SR | Strip of 15 sustained-release tablets | Not specified |
 
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-Note: Retrieval of TFDA/label warnings and contraindications is currently a **Blocking** data gap (DG001) — this prevents the candidate from entering the S1 safety pre-screening stage regardless of the strength of efficacy evidence.
-
----
+All three authorizations are valid single-ingredient registrations held by Alkem Laboratories Ltd, in oral form.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All five predicted indications sit at Evidence Level L5 (model prediction only, decision stage S0) with no supporting clinical trials, literature, or ICTRP records. The top-ranked candidate, opsismodysplasia, is explicitly assessed within the evidence pack as lacking biological plausibility despite its high TxGNN score. In addition, a Blocking-severity data gap for TFDA safety labeling data prevents any candidate here from advancing to the S1 safety pre-screening stage.
+The prediction is supported only by the TxGNN model score, with no clinical trials or publications and no plausible mechanistic link between DPP-4 inhibition and opsismodysplasia. Evidence level is L5.
 
 **To proceed, the following is needed:**
-- TFDA/label warnings, contraindications, and precautions (Blocking gap, DG001)
-- Confirmed original indication and detailed MOA documentation (DG002)
-- Drug-drug interaction (DDI) data (currently not found)
-- Preclinical or mechanistic studies specifically linking DPP-4/incretin pathways to any of the five predicted rare-disease indications
-- Taiwan/India market authorization and licensing records, if regulatory filing is ever pursued
+- Detailed mechanism of action data (MOA) for evogliptin
+- Package insert safety information (warnings and contraindications) from the India regulatory source
+- Preclinical or mechanistic studies exploring any connection between DPP-4 and INPPL1/SHIP2 or PI3K/AKT signaling in skeletal development
+- Reassessment of other predicted indications, which have the same evidence gap
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Glutathione
 parent: Moderate Evidence (L3-L4)
-nav_order: 392
+nav_order: 396
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,81 +29,79 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Glutathione: From Antioxidant/Detoxification Use to Sclerosing Cholangitis
+# Glutathione: From an Unspecified Approved Indication to Sclerosing Cholangitis
 
 ## One-Sentence Summary
 
-> Glutathione is an endogenous tripeptide antioxidant commonly used as a detoxification/antioxidant supplement, though it is **not currently marketed in India** and has no approved indication on file.
-> The TxGNN model predicts it may be effective for **Sclerosing Cholangitis**, with a prediction score of **98.14%**,
-> but the supporting evidence consists entirely of **preclinical/observational pathophysiology studies (0 clinical trials, 17 publications)** — and part of that literature raises a potential safety caution rather than a positive treatment signal.
-
----
+Glutathione is the body's main intracellular antioxidant and is marketed in India in injectable, tablet and capsule forms, but the data compiled for this report do not list an approved indication.
+The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but **no clinical trials** are registered, and the **18 publications** retrieved are mostly associative or preclinical.
+This is a model-generated hypothesis, not a validated therapeutic direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not established — no approved indication on file (drug is unmarketed in India) |
-| Predicted New Indication | Sclerosing Cholangitis |
+| Original Indication | Not stated in the compiled data (all 20 registrations have blank indication text) |
+| Predicted New Indication | Sclerosing cholangitis |
 | TxGNN Prediction Score | 98.14% |
 | Evidence Level | L4 |
-| India Market Status | Not marketed (Not Marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for glutathione is not available in this evidence pack. Based on known pharmacology, glutathione is the principal intracellular antioxidant and a substrate of glutathione S-transferase (GST) enzymes, which participate in detoxification of reactive oxygen species and xenobiotic metabolites. Because glutathione has no confirmed approved indication on file (India market status: not marketed, 0 registrations), there is no established original-indication baseline to compare against — the reasonableness of this prediction must rest on mechanistic and disease-biology grounds alone.
+Currently, detailed mechanism of action data is not available. Based on known information, glutathione is the principal intracellular antioxidant, and oxidative stress and bile duct injury are implicated in cholestatic liver disease. Mechanistically, an antioxidant role could be relevant to sclerosing cholangitis.
 
-Sclerosing cholangitis (primary sclerosing cholangitis, PSC) is a chronic cholestatic liver disease marked by oxidative stress and biliary inflammation, which is superficially consistent with a role for an antioxidant such as glutathione. However, the literature retrieved for this candidate is almost entirely **disease pathophysiology research, not therapeutic intervention research**: studies document GST autoantibodies, trace-element (copper/selenium) metabolism abnormalities, and glutathione-pathway changes in xenobiotic-induced cholestasis animal models — none test glutathione administration as a treatment for PSC.
+The retrieved literature is mostly associative. It includes anti-glutathione S-transferase autoantibodies, hepatic copper and selenium retention, and multi-omic signatures in primary sclerosing cholangitis (PSC). A xenobiotic-induced mouse model and a melatonin study in cholestatic mice offer only indirect support. No study shows that giving glutathione improves outcomes in sclerosing cholangitis.
 
-Notably, one line of evidence (PMID 18242955, PMID 15041041) shows that GST isoforms are themselves targets of autoantibodies in PSC and autoimmune hepatitis, suggesting that increasing GST-related antigen exposure (e.g., via exogenous glutathione) could theoretically aggravate rather than ameliorate autoimmune biliary injury. This means the mechanistic story is double-edged, and the prediction should be read as a hypothesis-generating signal rather than a validated therapeutic rationale.
-
----
+Other predictions in the model output (myelodysplastic syndrome, dry eye syndrome, acne) have similar indirect, antioxidant-based rationales. The myelodysplastic syndrome signal rests on a single preclinical study suggesting glutathione enhances the synergy of venetoclax and azacitidine. For dry eye and acne, the clinical evidence concerns N-acetylcysteine, a glutathione precursor, rather than glutathione itself.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
+
+The table lists the most relevant items. No randomized trial of glutathione in sclerosing cholangitis was found.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [36447600](https://pubmed.ncbi.nlm.nih.gov/36447600/) | 2021 | Cohort/Transcriptomic Study | Wellcome Open Research | Tissue-specific transcriptional/microbial differences in PSC-associated IBD linked to elevated colorectal cancer risk; no glutathione intervention tested |
-| [9053974](https://pubmed.ncbi.nlm.nih.gov/9053974/) | 1995 | Cohort | Scandinavian Journal of Gastroenterology | Abnormal hepatic retention of copper and selenium found in PSC patients, indicating disrupted trace-element/antioxidant metabolism |
-| [18242955](https://pubmed.ncbi.nlm.nih.gov/18242955/) | 2008 | Cohort (autoantibody study) | Journal of Autoimmunity | Identified autoantibodies against glutathione S-transferase theta 1 (GSTT1) in PSC/IBD patients — GST may be an autoimmune target, not just a protective enzyme |
-| [29148959](https://pubmed.ncbi.nlm.nih.gov/29148959/) | 2017 | Cohort (parenteral nutrition/GGT monitoring) | JPEN | Case observations of antioxidant depletion in cholestatic patients with overlapping PSC/ulcerative colitis, monitored via γ-GT |
-| [15041041](https://pubmed.ncbi.nlm.nih.gov/15041041/) | 2004 | Cohort (autoantibody study) | Journal of Autoimmunity | Anti-GST A1-1 autoantibodies detected in autoimmune hepatitis, reinforcing GST as an immune target in autoimmune/cholestatic liver disease |
-| [17600122](https://pubmed.ncbi.nlm.nih.gov/17600122/) | 2007 | Animal Model | The American Journal of Pathology | Established a xenobiotic-induced (DDC-fed) mouse model of sclerosing cholangitis/biliary fibrosis to study cholangiopathy mechanisms |
-| [39130146](https://pubmed.ncbi.nlm.nih.gov/39130146/) | 2023 | Mechanistic/Molecular Study | Gastro Hep Advances | Described early deregulation of cholangiocyte NR0B2 in PSC pathogenesis via omics profiling |
-| [22370917](https://pubmed.ncbi.nlm.nih.gov/22370917/) | 2012 | Histopathology Study | Digestive Diseases and Sciences | Evaluated thioredoxin family proteins/proliferation markers as premalignancy biomarkers in PSC-associated gallbladder dysplasia |
-| [30009888](https://pubmed.ncbi.nlm.nih.gov/30009888/) | 2018 | Animal Model/Metabolomics | Food and Chemical Toxicology | Metabolomic profiling of cholestatic liver damage in mice to elucidate injury mechanisms |
-| [35863741](https://pubmed.ncbi.nlm.nih.gov/35863741/) | 2022 | Animal Model | Cellular and Molecular Gastroenterology and Hepatology | Prolonged melatonin (not glutathione) administration improved liver phenotypes in a cholestatic mouse model via MT1/MT2 receptor signaling |
+| [42212255](https://pubmed.ncbi.nlm.nih.gov/42212255/) | 2026 | Review | Frontiers in Physiology | Reviews oxidative stress, bile duct injury and therapeutic strategies in cholestatic and autoimmune liver diseases |
+| [38967587](https://pubmed.ncbi.nlm.nih.gov/38967587/) | 2024 | Preclinical | Hepatology Communications | Loss of β-catenin reveals a role for glutathione in regulating oxidative stress in cholestatic liver disease (mouse) |
+| [17600122](https://pubmed.ncbi.nlm.nih.gov/17600122/) | 2007 | Animal model | American Journal of Pathology | Xenobiotic-induced mouse model of sclerosing cholangitis and biliary fibrosis |
+| [35863741](https://pubmed.ncbi.nlm.nih.gov/35863741/) | 2022 | Animal study | Cell Mol Gastroenterol Hepatol | Prolonged melatonin ameliorates liver phenotypes in a cholestatic mouse model |
+| [18242955](https://pubmed.ncbi.nlm.nih.gov/18242955/) | 2008 | Observational | Journal of Autoimmunity | Autoantibodies to glutathione S-transferase theta 1 found in PSC patients |
+| [9053974](https://pubmed.ncbi.nlm.nih.gov/9053974/) | 1995 | Observational | Scand J Gastroenterol | Hepatic copper and selenium retention in 32 PSC patients |
+| [42468000](https://pubmed.ncbi.nlm.nih.gov/42468000/) | 2026 | Omics study | Hepatology Communications | Circulating multi-omic signature of disease severity and cholangiocarcinoma in PSC |
 
----
+## India Market Information
 
-## Safety Considerations
+The compiled data list 20 valid single-ingredient registrations. Approved indication text is blank for all of them. Five main registrations are shown:
 
-Please refer to the package insert for safety information. (No TFDA/local warnings, contraindications, or DDI data are currently available; a DDI database lookup also failed due to a missing local reference file.)
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 95285 | Glutiprime Injection | Vial of 1 injection | Not stated |
+| 215546 | Thiotres Injection | Vial of 1 ml injection | Not stated |
+| 103964 | Hepafresh Injection | Vial of 1 injection | Not stated |
+| 185123 | Ralgyz Soft Gelatin Capsule | Strip of 15 soft gelatin capsules | Not stated |
+| 94420 | Glutaup 500mg Tablet | Strip of 10 tablets | Not stated |
 
----
+Available routes include injectable (vials, powder for injection) and oral (tablets, soft gelatin capsules).
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence for sclerosing cholangitis is limited to preclinical and observational pathophysiology studies (Evidence Level L4) with zero clinical trials, and part of the literature (GST autoantibody findings) suggests a plausible safety concern rather than a supportive treatment signal — the mechanistic rationale is not strong enough to proceed. In addition, TFDA-equivalent label warnings/contraindications are marked as a **Blocking** data gap (DG001), which by itself prevents this candidate from entering an initial safety screen (S1).
+The prediction score is high (98.14%), but there are no registered clinical trials and no study of glutathione administration in sclerosing cholangitis. The evidence is associative and preclinical (L4), and the approved original indication cannot be confirmed from the compiled data.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent regulatory) label warnings and contraindications for glutathione (blocking gap — required before any S1 safety screening)
-- Confirmed mechanism of action (MOA) and any officially approved indication (currently a data gap)
-- A targeted assessment of whether the GST-autoantibody signal represents a real autoimmune-flare risk before any further investigation of glutathione in PSC
-- Consideration of redirecting research priority to **myelodysplastic syndrome** (rank 2 candidate: Evidence Level L2, decision stage S2, 6 clinical trials on ezatiostat — a glutathione-analogue prodrug), which currently has substantially stronger clinical-trial-backed evidence than the top-ranked sclerosing cholangitis prediction
+- Approved indications and package insert safety information (warnings, contraindications) for the Indian registrations
+- Mechanism of action data for glutathione
+- Preclinical studies testing glutathione directly in cholestatic or sclerosing cholangitis models
+- Evaluation of route of administration and bioavailability, since oral glutathione absorption is a practical question for chronic liver disease
+- Among the other predictions, myelodysplastic syndrome, dry eye syndrome and acne are classed as research questions with indirect evidence; the rest have little or no supporting evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

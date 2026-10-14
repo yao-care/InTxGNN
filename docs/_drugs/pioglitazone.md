@@ -2,7 +2,7 @@
 layout: default
 title: Pioglitazone
 parent: Model Prediction Only (L5)
-nav_order: 667
+nav_order: 674
 evidence_level: L5
 indication_count: 9
 ---
@@ -33,59 +33,79 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Pioglitazone is a thiazolidinedione (TZD)-class PPAR-γ agonist used as an insulin sensitizer in type 2 diabetes mellitus.
-The TxGNN model's top-ranked prediction is **Opsismodysplasia**, a rare skeletal dysplasia, but this direction currently has **0 clinical trials** and **0 supporting publications**, and the model's own mechanistic annotation flags it as lacking pathophysiological plausibility.
+Pioglitazone is an oral insulin-sensitizing drug originally used to treat type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare skeletal dysplasia, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting this specific indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 Diabetes Mellitus (inferred from literature evidence in this pack; no formal MOA/indication record on file — see Data Gap DG002) |
+| Original Indication | Type 2 diabetes mellitus |
 | Predicted New Indication | Opsismodysplasia |
 | TxGNN Prediction Score | 99.59% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not formally on file for this drug (Data Gap DG002). Based on the literature captured elsewhere in this evidence pack, pioglitazone is consistently identified as a thiazolidinedione (TZD)-class PPAR-γ agonist that improves insulin sensitivity and pancreatic β-cell function in type 2 diabetes mellitus, with additional pleiotropic effects reported in outcome trials.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, pioglitazone is a PPAR-gamma agonist (thiazolidinedione class). Its efficacy in type 2 diabetes is established, where it improves insulin sensitivity.
 
-Opsismodysplasia is a rare autosomal recessive skeletal dysplasia associated with mutations in genes governing skeletal/cartilage development (e.g., INPPL1/SHIP2 and related pathways). There is no established biological pathway linking PPAR-γ agonism or insulin sensitization to the skeletal growth defects underlying this disease.
+Opsismodysplasia is caused by INPPL1 mutations (loss of SHIP2 function), which affect PI3K/insulin signaling and chondrocyte maturation. Both conditions touch insulin-related signaling, which may explain the graph-based prediction. However, no direct mechanistic link is established, and any connection is speculative. The high score (0.996) most likely reflects relationships within the knowledge graph rather than independent evidence.
 
-The evidence pack's own repurposing rationale for this candidate explicitly states that the high TxGNN score (rank 7,354 by raw score, 99.6th percentile) reflects **graph-topological similarity in the knowledge graph rather than a supported mechanistic link**. In other words, this is a pure model-generated hypothesis with no corroborating pharmacological rationale — it should not be interpreted as a validated repurposing signal. Notably, other lower-ranked candidates in this same prediction set (the lipodystrophy spectrum, ranks 5–8) have a more defensible mechanistic story via PPAR-γ's known role in adipocyte differentiation, and may be worth prioritizing over this top-ranked but mechanistically unsupported candidate.
+Other top predictions show the same pattern: stiff person syndrome and its focal variant (possible immunomodulation), localized lipodystrophies (PPAR-gamma-driven adipogenesis), thiamine-responsive dysfunction syndrome and pancreatic agenesis (both diabetes-related). All are L5 with no supporting trials or literature specific to the indication.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+No literature directly addresses opsismodysplasia. The seven publications retrieved belong to the rank 9 prediction (pancreatic agenesis). They concern type 2 diabetes and PPAR agonists in general, so they are indirect at best and are not evidence for the top prediction.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [16644631](https://pubmed.ncbi.nlm.nih.gov/16644631/) | 2006 | RCT | Diabetes Care | Muraglitazar vs pioglitazone added to metformin in type 2 diabetes; improved glycaemic control and lipids |
+| [20859539](https://pubmed.ncbi.nlm.nih.gov/20859539/) | 2010 | Review | Vasc Health Risk Manag | Pioglitazone plus alogliptin as pathophysiologically sound therapy in type 2 diabetes |
+| [23680744](https://pubmed.ncbi.nlm.nih.gov/23680744/) | 2013 | Review | Hosp Pract | Pleiotropic effects of thiazolidinediones, including beta-cell protection |
+| [22068250](https://pubmed.ncbi.nlm.nih.gov/22068250/) | 2012 | Review | Endocr Pract | Targeting insulin resistance and beta-cell dysfunction in prediabetes |
+| [15892654](https://pubmed.ncbi.nlm.nih.gov/15892654/) | 2005 | Review | Curr Mol Med | Clinical significance of PPAR-gamma agonism |
+| [12149047](https://pubmed.ncbi.nlm.nih.gov/12149047/) | 2002 | Review | Drugs | Rosiglitazone use in type 2 diabetes (related thiazolidinedione) |
+| [15832493](https://pubmed.ncbi.nlm.nih.gov/15832493/) | 2002 | Review | Treat Endocrinol | Rosiglitazone profile in type 2 diabetes (related thiazolidinedione) |
 
 ## India Market Information
 
-Pioglitazone has no marketing authorization currently registered in India in this dataset (Market Status: Not marketed; Total Registrations: 0). No product/license records are available to tabulate.
+Pioglitazone has 20 valid registrations in India, all single-ingredient entries according to the data compiled for this report, including combinations with metformin or glimepiride-type partners in product names. All are oral tablets. Approved indication text is not available in the registration records. Five main registrations:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 177054 | Pozitiv 15mg Tablet | Strip of 10 tablets | Not stated in record |
+| 101571 | Glizone 30mg Tablet | Strip of 10 tablets | Not stated in record |
+| 176905 | Path 15 Tablet | Strip of 15 tablets | Not stated in record |
+| 48336 | Carbophage P 30mg/500mg Tablet | Strip of 10 tablets | Not stated in record |
+| 175035 | Pionorm-M 15 Tablet SR | Strip of 10 tablets (SR) | Not stated in record |
 
 ## Safety Considerations
 
-- **Drug Interactions**: A DDI query returned 603 total documented interactions. Representative systemic (non-topical) interactions of Moderate severity include: Abiraterone, Phenylephrine, Acetazolamide, Formoterol, Pseudoephedrine, Epinephrine, Hydrochlorothiazide, Ethanol, Alpelisib, and Salbutamol. Given the large total count, a full interaction check against the patient's concurrent medication list is recommended before any clinical use.
+- **Disease-level contraindication signals (knowledge graph, not label text):** kidney disease, liver disease, gallbladder disease, congestive heart failure, adrenocortical insufficiency/Addison disease, thymus gland disease, infectious disease, and a large group of pituitary deficiency and hypogonadotropic hypogonadism conditions (including Kallmann syndrome and Sheehan syndrome).
+- **Drug Interactions:** 603 interactions were identified in total. Examples at the moderate level include abiraterone, acetazolamide, hydrochlorothiazide, epinephrine, salbutamol, formoterol, pseudoephedrine, phenylephrine, hydrocortisone, ethanol and alpelisib. Examples at the minor level include nifedipine, ethinylestradiol and lipoic acid.
 
-Detailed prescribing warnings and contraindications are not available in this dataset (Data Gap DG001, Blocking) — please refer to the official India-approved package insert once available.
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Opsismodysplasia) has no clinical trial or literature support, and the evidence pack's own mechanistic assessment concludes the TxGNN score reflects knowledge-graph topology rather than a genuine pharmacological link — this does not meet the bar to advance past S0.
+The prediction for opsismodysplasia rests solely on a model score, with no clinical trials, no literature, and no established mechanistic link. The knowledge-graph contraindication signals (heart failure, liver and kidney disease) also need review in a rare pediatric skeletal disorder.
 
 **To proceed, the following is needed:**
-- Formal MOA documentation for pioglitazone (Data Gap DG002)
-- India-specific package insert warnings/contraindications (Data Gap DG001, Blocking — required before any S1 safety screening)
-- If pursuing repurposing further, re-evaluate against the mechanistically stronger lipodystrophy-spectrum candidates (ranks 5–8) in this same prediction set rather than this top-ranked but unsupported hypothesis
-- Disease-specific literature/trial search for Opsismodysplasia if this direction is still to be explored, since none currently exists
+- Package insert warnings and contraindications from the India regulatory source (currently blocking safety screening)
+- Mechanism of action data for pioglitazone (e.g., from DrugBank)
+- Preclinical or mechanistic studies testing PPAR-gamma modulation in INPPL1/SHIP2-deficient models
+- A targeted literature search specific to opsismodysplasia
+- Review of lower-ranked predictions (e.g., lipodystrophy forms) as possibly more biologically plausible alternatives, each also requiring supporting evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

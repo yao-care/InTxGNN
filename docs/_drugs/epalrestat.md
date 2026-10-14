@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Epalrestat
-parent: High Evidence (L1-L2)
-nav_order: 308
-evidence_level: L2
+parent: Moderate Evidence (L3-L4)
+nav_order: 311
+evidence_level: L3
 indication_count: 10
 ---
 
 # Epalrestat
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,91 +29,76 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Epalrestat: From Diabetic Peripheral Neuropathy to Type 2 Diabetes Nephropathy
+# Epalrestat: From Diabetic Neuropathy to Type 2 Diabetic Nephropathy
 
 ## One-Sentence Summary
 
-Epalrestat is an aldose reductase inhibitor (ARI) approved in several Asian countries for diabetic peripheral neuropathy.
-The TxGNN model predicts it may be effective for **Type 2 Diabetes Nephropathy**,
-with **0 registered clinical trials** and **5 publications** currently supporting this direction.
-
----
+Epalrestat is an aldose reductase inhibitor, originally used to treat diabetic neuropathy and diabetic polyneuropathy.
+The TxGNN model predicts it may be effective for **type 2 diabetic nephropathy**,
+but so far there are **no registered clinical trials** and only **3 publications** (one 5-year cohort study, one modelling/combination-therapy study and one narrative review) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Diabetic peripheral neuropathy |
-| Predicted New Indication | Type 2 Diabetes Nephropathy |
+|------|------|
+| Original Indication | Diabetic neuropathy / diabetic polyneuropathy (approved indication text is not listed in the Indian registrations) |
+| Predicted New Indication | Type 2 diabetic nephropathy |
 | TxGNN Prediction Score | 99.16% |
-| Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L3 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold (research question; further evidence needed) |
 
 ## Why is This Prediction Reasonable?
 
-Formal DrugBank mechanism of action data was not retrieved in this evidence pack. Based on available literature, Epalrestat is an aldose reductase inhibitor (ARI) that blocks the polyol pathway — the enzymatic conversion of glucose to sorbitol (and subsequently to fructose) — by competitively inhibiting the aldose reductase enzyme. This reduces intracellular sorbitol accumulation, NADPH depletion, and downstream oxidative stress. Because this mechanism directly targets the molecular driver of diabetic peripheral neuropathy, Epalrestat is already approved for that indication in India, China, and Japan.
+Detailed mechanism of action data is not available from the source database. Based on the known pharmacology, however, epalrestat inhibits aldose reductase, the rate-limiting enzyme of the polyol pathway. In hyperglycaemia, increased polyol flux leads to sorbitol accumulation, osmotic and oxidative stress, and downstream injury to the glomeruli and renal tubules.
 
-The mechanistic connection to diabetic nephropathy is strong and biologically coherent: the same polyol pathway is active in renal tubular and glomerular cells under chronic hyperglycemia. Sorbitol accumulation in these cells promotes osmotic stress and drives the overproduction of advanced glycation end products (AGEs). AGEs then bind to RAGE receptors on mesangial cells, triggering pro-fibrotic signaling cascades — glomerular basement membrane thickening, mesangial expansion, and tubular fibrosis — which are the defining pathological events in diabetic nephropathy.
-
-Clinical evidence reinforces this link: a 5-year prospective study (PMID 11522497) showed epalrestat preserved renal function in type 2 diabetic patients with microalbuminuria, and separate work (PMID 12792982) confirmed epalrestat reduces circulating AGE levels. The mechanistic overlap between the established neuropathy indication and the predicted nephropathy indication is therefore not coincidental — both arise from the same upstream polyol pathway dysregulation.
-
----
+This is the same pathway implicated in diabetic neuropathy, the approved indication. Diabetic neuropathy and diabetic nephropathy are both microvascular complications of chronic hyperglycaemia, so the mechanistic link is direct and biologically coherent. The drug is also already marketed and has an established safety record in diabetic patients, which lowers the barrier to further study.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered on ClinicalTrials.gov or ICTRP for the Epalrestat × Type 2 Diabetes Nephropathy combination.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [11522497](https://pubmed.ncbi.nlm.nih.gov/11522497/) | 2001 | Prospective Controlled Trial | J Diabetes Complications | 5-year study in type 2 diabetic patients with microalbuminuria: epalrestat 150 mg/day significantly slowed progression of incipient diabetic nephropathy compared with matched controls |
-| [39423107](https://pubmed.ncbi.nlm.nih.gov/39423107/) | 2024 | Clinical Study | Iranian J Kidney Diseases | Built a diagnostic risk prediction model for DN in type 2 diabetes and evaluated therapeutic outcomes of combined epalrestat + dapagliflozin; combination showed additive renoprotective effect |
-| [12792982](https://pubmed.ncbi.nlm.nih.gov/12792982/) | 2003 | Clinical/Mechanistic Study | In Vivo | Epalrestat administration significantly reduced plasma AGE levels in type 2 diabetic patients, providing direct mechanistic evidence for its anti-AGE, anti-fibrotic renal action |
-| [9571366](https://pubmed.ncbi.nlm.nih.gov/9571366/) | 1998 | Pharmacodynamic Study | Diabetes Care | Demonstrated that epalrestat measurably reduces erythrocyte sorbitol concentrations in diabetic patients with complications, confirming target engagement of polyol pathway inhibition |
-| [41830794](https://pubmed.ncbi.nlm.nih.gov/41830794/) | 2026 | Review/Hypothesis | Medical Gas Research | Proposes the "glycohypoxia" framework — chronic hyperglycemia induces functional cellular hypoxia that drives diabetic complications including nephropathy; contextualizes ARI therapy within a hypoxia-centric pathophysiology |
-
----
+|------|-----|------|------|---------|
+| [11522497](https://pubmed.ncbi.nlm.nih.gov/11522497/) | 2001 | Cohort | J Diabetes Complications | 35 type 2 diabetic patients with microalbuminuria; epalrestat 150 mg/day for 5 years compared with matched controls, assessing the effect on renal function and the development of incipient nephropathy |
+| [39423107](https://pubmed.ncbi.nlm.nih.gov/39423107/) | 2024 | Cohort/Modelling | Iran J Kidney Dis | Built a risk prediction model for diabetic nephropathy in type 2 diabetes and observed the therapeutic effect of epalrestat combined with dapagliflozin |
+| [41830794](https://pubmed.ncbi.nlm.nih.gov/41830794/) | 2026 | Review | Med Gas Res | Narrative review of the "glycohypoxia" hypothesis linking chronic hyperglycaemia to functional hypoxia and diabetic complications; indirect, background support only |
 
 ## India Market Information
 
-Epalrestat currently has **no registered products** in the Indian CDSCO database according to this Evidence Pack (0 authorizations on record). The India market status is listed as not marketed.
+Showing 5 of 20 valid single-ingredient registrations. Approved indication text is not provided in the registration records.
 
-> **Data Note**: Independent sources indicate that Epalrestat-containing products are commercially available in India (e.g., for diabetic neuropathy). The zero-registration result likely reflects a data collection gap rather than true absence from the market. Direct verification via the CDSCO online drug database is strongly recommended before drawing regulatory conclusions.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 74029 | Epstat 150mg Tablet SR | Sustained-release tablet (strip of 10) | Not listed |
+| Registration No. 138007 | Mepal 150mg/1500mcg Tablet | Tablet (strip of 10) | Not listed |
+| Registration No. 80995 | Epalrest-M Tablet | Tablet (strip of 10) | Not listed |
+| Registration No. 1404 | Alrista Forte Tablet | Tablet (strip of 10) | Not listed |
+| Registration No. 468 | Aldonil Tablet | Tablet (strip of 10) | Not listed |
 
----
+All products are oral formulations (tablets and sustained-release tablets), and none are cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug interaction data were available in this evidence pack.
+- **Drug Interactions**: One pharmacology-based interaction record was identified, with the enzyme CYP4A11 as a target of epalrestat. No severity level is assigned, and no interactions with specific co-administered drugs were identified.
 
----
+For other safety information, including warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic case for Epalrestat in diabetic nephropathy is strong — it targets the same polyol pathway that drives both peripheral neuropathy (its approved indication) and renal mesangial/tubular injury. A prospective controlled trial and multiple clinical/mechanistic studies provide L2-level human evidence, making this among the most credible repurposing candidates in this analysis.
+The mechanistic link between aldose reductase inhibition and diabetic nephropathy is sound, and the drug is widely marketed in India. However, the supporting evidence is limited to a small long-term cohort study, a modelling/combination-therapy study and a review, with no registered clinical trials. This is best treated as a research question rather than a candidate ready to proceed.
 
 **To proceed, the following is needed:**
-
-- **Formal MOA data**: Retrieve complete DrugBank pharmacology record (DB15293) to document the MOA and known targets for regulatory submissions
-- **CDSCO safety data**: Download and parse the Indian package insert PDF to extract boxed warnings, contraindications, and special population guidance (currently a blocking data gap)
-- **Drug interaction profile**: Resolve the DDinter file path error and complete the DDI lookup, particularly for common co-medications in type 2 diabetic patients (metformin, ACE inhibitors, SGLT2 inhibitors)
-- **Prospective RCT confirmation**: The 2001 prospective study (PMID 11522497) predates modern nephropathy outcome standards; a contemporary Phase 2/3 RCT with UACR and eGFR endpoints is needed to support a formal label extension
-- **India registration status verification**: Confirm actual CDSCO registration status and retrieve approved indication text to assess whether off-label use would be needed or whether an indication expansion filing is the appropriate pathway
-- **Combination therapy data**: The 2024 study (PMID 39423107) on epalrestat + dapagliflozin combination warrants closer review, given the widespread use of SGLT2 inhibitors in diabetic nephropathy
-
----
-
-> ⚠️ **Disclaimer**: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+- Randomised controlled trials of epalrestat in diabetic nephropathy, with renal endpoints such as albuminuria and eGFR
+- Detailed mechanism of action data
+- Package insert warnings and contraindications from the Indian product labels, to allow safety screening
+- Safety assessment in patients with reduced renal function, and of combination use with agents such as SGLT2 inhibitors
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

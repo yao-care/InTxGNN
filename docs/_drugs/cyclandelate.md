@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cyclandelate
-parent: High Evidence (L1-L2)
-nav_order: 213
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 215
+evidence_level: L5
 indication_count: 10
 ---
 
 # Cyclandelate
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,110 +29,94 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Cyclandelate: From Peripheral Vascular Disease to Migraine Prophylaxis
+# Cyclandelate: From Vasodilator Therapy to Prinzmetal Angina
 
 ## One-Sentence Summary
 
-> Cyclandelate (brand name Cyclospasmol) is a peripheral vasodilator historically used for circulatory disorders such as peripheral vascular disease and intermittent claudication.
-> Among 10 TxGNN-predicted indications, **migraine disorder** stands out as the best-supported candidate, with a TxGNN score of **99.69%** and **6 randomized controlled trials** (13 publications total) directly evaluating cyclandelate for migraine prophylaxis — making it the only candidate in this evidence pack that clears an L2 evidence bar.
-
-*(Note: this drug generated 10 TxGNN-predicted indications. This report focuses on the strongest-evidenced one, migraine disorder. A summary of the other 9 lower-priority candidates appears near the end.)*
-
----
+Cyclandelate is a direct-acting smooth muscle relaxant and vasodilator, marketed in India under multiple brands, with no approved indication text in the data compiled for this report.
+The TxGNN model's top-ranked prediction is **Prinzmetal angina**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
+The strongest evidence is for **migraine prophylaxis**, with **7 randomized studies** among the 11 publications retrieved. Results across these studies are mixed.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Peripheral Vascular Disease / circulatory disorders (historical, brand name Cyclospasmol) — no structured Taiwan/India license record exists |
-| Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.69% (rank 5,863 of candidates) |
-| Evidence Level | L2 |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Original Indication | Not stated in the data (vasodilator used in peripheral and cerebral vascular disorders) |
+| Predicted New Indication | Prinzmetal angina |
+| TxGNN Prediction Score | 99.80% |
+| Evidence Level | L5 (for Prinzmetal angina). Migraine disorder, the best-supported prediction, is L1 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 9 |
+| Recommended Decision | Hold (Prinzmetal angina). Migraine is a research question rather than a Go |
 
 ## Why is This Prediction Reasonable?
 
-Currently, no formal DrugBank/regulatory mechanism-of-action record is available for cyclandelate (flagged as a data gap in this evidence pack). Based on the pharmacological description found in the supporting literature (PMID 8902255), cyclandelate inhibits calcium-induced contraction of vascular smooth muscle, inhibits platelet aggregation induced by thrombin, platelet-activating factor and adenosine, and suppresses provoked serotonin (5-HT) release from platelets. This places it functionally alongside calcium-channel-blocking migraine prophylactics such as flunarizine.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, cyclandelate is a direct-acting smooth muscle relaxant and vasodilator, with reported calcium-antagonist-like activity. It has historically been used in peripheral vascular disease.
 
-Cyclandelate's original use was as a peripheral/cerebral vasodilator for circulatory disorders (Cyclospasmol). Migraine pathophysiology involves both vascular (cortical spreading depression, vasospasm) and serotonergic mechanisms — both of which overlap with cyclandelate's known pharmacology. This mechanistic bridge is why cyclandelate was actually studied and used as a migraine prophylactic agent in several European countries during the 1980s–1990s, predating this TxGNN prediction by decades — i.e., the model's high score recovers a real, previously established clinical use rather than a purely novel hypothesis.
+Prinzmetal angina is driven by coronary vasospasm, so a vasodilator that relaxes vascular smooth muscle is mechanistically plausible. However, no trials or literature were found for this indication. The 99.80% score reflects a computational prediction and not clinical proof.
 
-It's worth noting the evidence is mixed: several earlier RCTs (1987–1998) reported positive prophylactic effects comparable to propranolol, pizotifen, and flunarizine, but the largest and most recent placebo-controlled trial (PMID 11298666, 2001, n=251) failed to meet its primary endpoint. This tempers the otherwise favorable historical signal.
-
----
+The lower-ranked predictions differ in how well they are supported:
+- **Migraine disorder** has the most substantial evidence. Cyclandelate inhibits calcium-induced contraction of vascular smooth muscle, platelet aggregation, and serotonin release from platelets, which suggests prophylactic potential. Several randomized studies compare it with placebo, pizotifen, propranolol and flunarizine.
+- **Raynaud disease** is plausible through relief of vasospasm. The only evidence is a 1965 general paper on peripheral circulatory disease.
+- **Peripheral vascular disease** has an established rationale, but the clinical results conflict.
+- **Pulmonary hypertension, gout, kyphoscoliotic heart disease, benign prostatic hyperplasia and exostosis** have no supporting data. For gout and exostosis, no plausible mechanistic link was identified.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered on ClinicalTrials.gov or ICTRP.
-
----
+Currently no related clinical trials registered for Prinzmetal angina, or for any of the top 10 predicted indications.
 
 ## Literature Evidence
 
+No literature is available for Prinzmetal angina. The evidence below is for the best-supported prediction, **migraine disorder** (rank 3, evidence level L1).
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [1573338](https://pubmed.ncbi.nlm.nih.gov/1573338/) | 1992 | RCT | Journal of Medicine | Double-blind study (n=61 after run-in) comparing cyclandelate vs. pizotifen for migraine prophylaxis over 12 weeks; comparable efficacy and tolerance |
-| [8902255](https://pubmed.ncbi.nlm.nih.gov/8902255/) | 1996 | RCT | Cephalalgia | Multicentre double-blind study (n=214) vs. placebo and propranolol; cyclandelate's calcium-antagonist profile supports prophylactic potential |
-| [9584874](https://pubmed.ncbi.nlm.nih.gov/9584874/) | 1998 | RCT | Functional Neurology | Double-blind placebo-controlled study using contingent negative variation (CNV) to probe central mechanisms of cyclandelate in migraine |
-| [11298666](https://pubmed.ncbi.nlm.nih.gov/11298666/) | 2001 | RCT | Cephalalgia | Largest trial (n=251), multicentre placebo-controlled; **primary endpoint (reduction in migraine days) not met** — negative result |
-| [7649498](https://pubmed.ncbi.nlm.nih.gov/7649498/) | 1995 | RCT | Functional Neurology | Double-blind study vs. propranolol and placebo; responder/non-responder analysis of cyclandelate's prophylactic effect |
-| [3304950](https://pubmed.ncbi.nlm.nih.gov/3304950/) | 1987 | RCT | Drugs | Double-blind trial (n=40) comparing cyclandelate 800mg BID vs. flunarizine 5mg; both significantly reduced migraine symptoms vs. baseline |
-| [9829155](https://pubmed.ncbi.nlm.nih.gov/9829155/) | 1998 | Review | Drugs | Practical guide to migraine management and prevention, contextualizing prophylactic agents including calcium antagonists |
-| [10463349](https://pubmed.ncbi.nlm.nih.gov/10463349/) | 1999 | Review | Journal of Neurology | Overview of antimigraine drug treatment options for acute attacks and prophylaxis |
-| [9139407](https://pubmed.ncbi.nlm.nih.gov/9139407/) | 1997 | Review | Therapeutische Umschau | Migraine diagnosis, differential diagnosis and therapy overview |
+| [11298666](https://pubmed.ncbi.nlm.nih.gov/11298666/) | 2001 | RCT (placebo-controlled) | Cephalalgia | 251 patients, 1600 mg/day for 16 weeks. Neither the primary endpoint (reduction in migraine days) nor most secondary endpoints were met |
+| [8902255](https://pubmed.ncbi.nlm.nih.gov/8902255/) | 1996 | RCT (double-blind, vs placebo and propranolol) | Cephalalgia | 214 patients, multicentre study of efficacy and tolerability against placebo and propranolol |
+| [9584874](https://pubmed.ncbi.nlm.nih.gov/9584874/) | 1998 | RCT (double-blind, placebo-controlled) | Functional Neurology | Central mechanisms of cyclandelate in migraine, assessed with contingent negative variation (CNV) |
+| [7649498](https://pubmed.ncbi.nlm.nih.gov/7649498/) | 1995 | RCT (double-blind, vs propranolol and placebo) | Functional Neurology | Compared responder rates and dose relationships with propranolol and placebo |
+| [1573338](https://pubmed.ncbi.nlm.nih.gov/1573338/) | 1992 | RCT (vs pizotifen) | Journal of Medicine | 84 patients enrolled, 61 randomized after placebo run-in, 12 weeks of active treatment |
+| [3304950](https://pubmed.ncbi.nlm.nih.gov/3304950/) | 1987 | Randomized, double-blind | Drugs | Cyclandelate 800 mg twice daily vs flunarizine in 40 patients. Both drugs significantly relieved symptoms compared with placebo and baseline |
+| [11121368](https://pubmed.ncbi.nlm.nih.gov/11121368/) | 2000 | Retrospective qEEG analysis | Eur J Med Res | Links qEEG findings to clinical drug response in migraine |
 
----
+Evidence for other predictions is limited:
+- **Peripheral vascular disease:** [6364892](https://pubmed.ncbi.nlm.nih.gov/6364892/) (1984, Angiology) is a double-blind crossover trial in 12 claudication patients that found **no effect** of cyclandelate. [853204](https://pubmed.ncbi.nlm.nih.gov/853204/) (1977, J Am Geriatr Soc) is a 39-patient crossover study of circulatory measurements and exercise tolerance. [10952473](https://pubmed.ncbi.nlm.nih.gov/10952473/) (2000, Eur J Clin Pharmacol) is a review questioning the usefulness of oral vasoactive drugs in claudication.
+- **Raynaud disease:** [14258038](https://pubmed.ncbi.nlm.nih.gov/14258038/) (1965, Angiology) is a general review of peripheral circulatory diseases and is indirect.
 
 ## India Market Information
 
-Cyclandelate is **not currently marketed in India** — 0 registered licenses on file. No dosage form, brand name, or approved indication text is available for this market.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 50613 | Cevadil 200mg Capsule | Strip of 10 capsules | Not stated |
+| 45032 | CYCLASYN 400MG Tablet | Strip of 10 tablets | Not stated |
+| 36220 | Cyclo 200mg Tablet | Strip of 10 tablets | Not stated |
+| 49224 | Cevadil 400mg Capsule | Strip of 10 capsules | Not stated |
+| 238002 | VASODAL 200MG Capsule | Strip of 10 capsules | Not stated |
 
----
+All 9 registrations are valid single-ingredient products. Manufacturers include Sterkem Pharma, Cipla, Elder Pharmaceuticals and Torrent Pharmaceuticals.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions:** 17 interactions were identified, all rated Moderate. They include:
+  - SGLT2 inhibitors: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin
+  - Prostacyclin-pathway agents: selexipag, treprostinil, epoprostenol, iloprost
+  - Other vasoactive or hypotensive-type agents: pentoxifylline, amifostine, promethazine, nitrous acid, brimonidine (ophthalmic and topical), topical minoxidil, ozanimod, procarbazine
 
-No structured key warnings, contraindications, or drug-drug interaction (DDI) data were retrievable for cyclandelate in this evidence pack — the TFDA-equivalent label lookup returned no results, and the local DDI database file was unavailable at query time. This is flagged as a **Blocking** data gap in the evidence pack (DG001): safety data must be obtained before this candidate can pass the initial safety screening stage.
-
----
-
-## Other Predicted Indications (Screened, Lower Priority)
-
-For completeness, the remaining 9 TxGNN-predicted indications for cyclandelate in this evidence pack, ranked by model score:
-
-| Rank | Disease | TxGNN Score | Evidence Level | Recommendation |
-|------|---------|-------------|-----------------|-----------------|
-| 1 | Prinzmetal angina | 99.80% | L5 | Hold (no clinical/literature evidence) |
-| 2 | Raynaud disease | 99.73% | L4 | Research Question (1 old case-series report only) |
-| 4 | Migraine with brainstem aura | 99.62% | L4 | Research Question (indirect qEEG studies, not subtype-specific) |
-| 5 | Pulmonary hypertension | 99.50% | L5 | Hold (no evidence) |
-| 6 | Gout | 99.43% | L5 | Hold (no mechanistic rationale, likely graph noise) |
-| 7 | Kyphoscoliotic heart disease | 99.36% | L5 | Hold (no evidence) |
-| 8 | Benign prostatic hyperplasia | 99.08% | L5 | Hold (cyclandelate is not an alpha-blocker; no evidence) |
-| 9 | Exostosis | 99.06% | L5 | Hold (no mechanistic plausibility, likely graph noise) |
-| 10 | Peripheral vascular disease | 99.04% | L3 | Hold (this drug's original historical indication, but pivotal 1984 RCT was negative) |
-
-Notably, rank 10 (peripheral vascular disease) is cyclandelate's *original* indication as Cyclospasmol — and the key RCT (PMID 6364892) found **no effect**, which is a useful sanity check on how much weight to give TxGNN scores alone without evidence triangulation.
-
----
+For warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails** (for the migraine disorder indication)
+**Decision: Hold** (Prinzmetal angina)
 
 **Rationale:**
-Migraine prophylaxis is the only indication in this candidate's prediction set with L2 evidence (multiple historical RCTs), reflecting a genuine, previously-established off-label/international use rather than a purely computational artifact. However, the largest and most recent trial (2001) was negative, and the drug is not currently marketed in India, so this is not a "Go" without further work.
+The Prinzmetal angina prediction has a high model score and a plausible vasospasm mechanism, but no trials or literature support it (L5). Among all predictions, migraine prophylaxis has the most evidence (L1-level randomized studies). However, results are mixed, as the largest placebo-controlled trial missed its primary endpoint, and the studies are dated (1987–2001). It is best treated as a research question rather than a candidate for a Go decision. Peripheral vascular disease has conflicting evidence that does not support a positive recommendation.
 
 **To proceed, the following is needed:**
-- Obtain formal safety/label data (DG001, Blocking) — key warnings, contraindications, and DDI profile currently have no source
-- Formal DrugBank/mechanism-of-action confirmation (DG002, High) to properly ground the mechanistic rationale
-- A structured comparison of the positive (1987–1998) vs. negative (2001) trial results to assess whether efficacy is dose-, population-, or subtype-dependent
-- Confirmation of import/registration pathway feasibility, since cyclandelate has zero current registrations in India
-- The 9 lower-priority predictions (Prinzmetal angina, Raynaud disease, etc.) should remain on Hold pending any new clinical trial or literature signal — no further action needed unless new evidence emerges
+- Package insert warnings and contraindications from the India regulatory source, which are currently missing
+- Mechanism of action data (for example from DrugBank)
+- For migraine: a systematic review of effect sizes and risk of bias across the randomized studies, plus registry-verified trial data
+- For Prinzmetal angina: any clinical or mechanistic evidence, such as coronary vasospasm studies, before further consideration
+- Route compatibility and similarity-to-original-indication assessments, which are still pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

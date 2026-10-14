@@ -2,7 +2,7 @@
 layout: default
 title: Fluorescein
 parent: Model Prediction Only (L5)
-nav_order: 361
+nav_order: 364
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,69 +33,64 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Fluorescein (DB00693) has no confirmed therapeutic indication on file in this evidence pack — it is best known as a diagnostic fluorescent dye (e.g., ophthalmic/retinal angiography, wound and burn assessment), not a treatment drug.
-The TxGNN model predicts it may be effective for **Prinzmetal Angina**, but this pairing is currently supported by **0 clinical trials** and **0 publications** — it is a pure model-based signal with no corroborating evidence.
-
----
+Fluorescein is a fluorescent diagnostic dye used in ophthalmology, for retinal angiography and for staining the ocular surface. The TxGNN model predicts it may be relevant to **Prinzmetal angina**, but **no clinical trials and no supporting publications** back this prediction. It is a graph-based signal only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in this pack — Fluorescein is not registered in the local market covered here; its established use is as a diagnostic dye rather than a therapeutic agent |
-| Predicted New Indication | Prinzmetal Angina |
+| Original Indication | Not stated in the registration data compiled for this report (products are an injection for retinal angiography and ophthalmic staining strips) |
+| Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 99.81% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for Fluorescein in this pack. Based on known pharmacological information, Fluorescein is a fluorescent diagnostic dye used almost exclusively for imaging procedures (fluorescein angiography of the retina/choroid, corneal staining, wound assessment) — it has no established cardiovascular pharmacology and no known mechanism relevant to coronary vasospasm, which is the pathophysiology underlying Prinzmetal angina. No clinical trial or literature evidence links Fluorescein to this disease.
+Detailed mechanism of action data is not available for this report. Fluorescein is a diagnostic fluorescent dye. It is given by injection for retinal angiography and applied topically to stain the ocular surface. It is not known to have therapeutic pharmacological activity.
 
-It is also worth noting a pattern across this entire candidate: for the other predicted indications in this pack that *do* have associated clinical trials or literature (rheumatoid arthritis, hemoglobinopathy, thrombophilia, hyperthyroidism, beta-thalassemia), the retrieved evidence consistently shows Fluorescein being used as a **diagnostic/imaging tool** (fluorescein angiography, OCT-angiography assessment) within studies of those diseases — not as an investigational treatment. In each case the reviewer notes explicitly flag this as a disease-term/keyword mismatch rather than a genuine treatment hypothesis. This reinforces that the TxGNN score for Prinzmetal angina (like the other top-ranked, evidence-free predictions) should be treated as a graph-based statistical association only, without mechanistic or clinical support.
+The review of the prediction found no plausible mechanistic link between fluorescein and Prinzmetal angina. The condition is driven by coronary vasospasm, and fluorescein has no known vasodilatory or anti-vasospastic action. The high score reflects a pattern in the knowledge graph rather than a biological rationale. It should be read as a hypothesis-generating signal, not as evidence of benefit.
 
----
+Other predictions were also reviewed:
+
+- **Rheumatoid arthritis, hemoglobinopathy, thrombophilia and hyperthyroidism:** The retrieved literature mostly describes eye findings in these diseases, where fluorescein is used as a diagnostic tool. This reflects diagnostic co-occurrence, not treatment evidence.
+- **Antithrombin deficiency type 2, factor 5 excess, heparin cofactor 2 deficiency, partial deletion of the short arm of chromosome 16, and beta-thalassemia with other manifestations:** These have no trials, no literature and no mechanistic rationale.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+No publications directly support fluorescein as a treatment for Prinzmetal angina. Currently no related literature available for this indication.
 
----
+## India Market Information
 
-## Market Information
-
-Fluorescein is currently **not marketed** under this registry (0 registrations), so no license/product information is available.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 187812 | Retigraph 20% Injection | Vial of 3 ml injection | Not specified |
+| 89133 | Fluore Stain 0.45mg Strip | Packet of 100 ophthalmic solution | Not specified |
+| 88377 | Floure Stain Strip | Packet of 100 ophthalmic solution | Not specified |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Prinzmetal angina) is an L5, model-only signal with zero clinical trials or literature support, no plausible mechanistic link, and no MOA data available. Broader review of this candidate's other predicted indications shows Fluorescein's real-world evidence footprint is entirely diagnostic (angiography/imaging), not therapeutic — undermining confidence in any of the top-10 TxGNN predictions for this drug.
+The prediction rests only on a model score. There are no clinical trials or publications, and no plausible mechanism links this diagnostic dye to coronary vasospasm. The other nine predicted indications are also at L4–L5, and the literature for them reflects diagnostic use of fluorescein rather than therapy.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism of action (MOA) data from DrugBank or primary literature
-- TFDA/regulatory label warnings, contraindications, and DDI data (currently all data gaps)
-- A mechanistic rationale connecting Fluorescein to coronary vasospasm before any further evaluation of the Prinzmetal angina hypothesis
-- Re-screening of all 10 predicted indications to explicitly separate "diagnostic use in disease X" evidence from genuine "treatment for disease X" evidence, since the current evidence set conflates the two
+- Mechanism of action data and a testable pharmacological hypothesis for Prinzmetal angina
+- Package insert warnings and contraindications for the marketed products
+- Approved indication text for the three registrations
+- Any preclinical or clinical evidence of vasoactive or therapeutic effect, which does not currently exist in the data compiled for this report
+- Route compatibility assessment, since the marketed forms are an injection and an ophthalmic strip
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

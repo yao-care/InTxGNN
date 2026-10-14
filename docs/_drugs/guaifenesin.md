@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Guaifenesin
-parent: High Evidence (L1-L2)
-nav_order: 400
-evidence_level: L2
+parent: Moderate Evidence (L3-L4)
+nav_order: 404
+evidence_level: L4
 indication_count: 5
 ---
 
 # Guaifenesin
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **5** 
+Evidence Level: **L4** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,83 +29,90 @@ Evidence Level: **L2** | Predicted Indications: **5**
 
 </div>
 
-# Guaifenesin: From Cough/Chest Congestion (Expectorant) to Nasal Cavity Disease
+# Guaifenesin: From Upper Respiratory Conditions (Rhinitis, Pharyngitis, Common Cold) to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-Guaifenesin is a mucolytic/expectorant traditionally used to thin and loosen respiratory mucus secretions (chest congestion, productive cough). The TxGNN model predicts it may also be effective for **Nasal Cavity Disease** (e.g., chronic rhinitis/sinusitis), currently supported by **1 completed Phase 2 pilot trial** and **2 supporting review articles**.
-
----
+Guaifenesin is an expectorant that is mainly used for upper respiratory conditions such as rhinitis, pharyngitis and the common cold.
+The TxGNN model predicts it may be effective for **nasal cavity disease**,
+but the evidence is thin: **no clinical trials** and only **1 publication** (a review) were found.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not registered in Taiwan (no TFDA approved-indication text on file); internationally recognized as an over-the-counter expectorant for productive cough |
-| Predicted New Indication | Nasal Cavity Disease |
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, rhinitis, nasopharyngitis, headache disorder (from the knowledge graph; no approved indication text is available for the India licences) |
+| Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L2 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Guaifenesin is not available in this evidence pack ([Data Gap] on `original_moa`). Based on the repurposing rationale accompanying the prediction, Guaifenesin is a mucolytic/expectorant that reduces the viscosity of mucus secretions and promotes ciliary clearance — its established pharmacological effect in the respiratory tract.
+Currently, detailed mechanism of action data is not available. Based on known information, guaifenesin is an expectorant that thins and loosens airway mucus. Its efficacy in rhinitis and related upper airway conditions is already recognised, and mechanistically it may be applicable to nasal cavity disease.
 
-Nasal cavity disease (e.g., chronic rhinitis/sinusitis) shares the same underlying problem of thick, poorly-cleared mucus, just in the upper rather than lower airway. Since Guaifenesin's action is symptomatic mucus-rheology modulation rather than disease-specific, it is mechanistically plausible that the same mucolytic effect could relieve nasal congestion and thick nasal secretions — this is the basis of the TxGNN prediction, and it is echoed by the one existing pediatric pilot trial testing oral Guaifenesin specifically for chronic rhinitis symptoms.
+Nasal cavity disease is a broader category that includes the rhinitis conditions guaifenesin is already linked to. The plausible link is improved clearance of nasal and sinus secretions. This link is inferred and not confirmed.
 
-Note that this is a symptomatic/adjunctive mechanism, not a disease-modifying one — it does not address the underlying inflammatory or infectious cause of nasal cavity disease.
-
----
+The very high TxGNN score (99.98%) is a computational prediction. It probably reflects the overlap with existing rhinitis indications rather than independent evidence of a new benefit.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01364467](https://clinicaltrials.gov/study/NCT01364467) | Phase 2 | Completed | 30 | 14-day randomized, placebo-controlled, masked pilot study of oral Guaifenesin in pediatric chronic rhinitis (ages 7–18), assessing nasal symptom relief (SN-5 survey) vs. nasal airway volume and secretion biophysical properties. Small pilot scale (n=30); provides feasibility/preliminary signal, not definitive efficacy evidence. |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9065342](https://pubmed.ncbi.nlm.nih.gov/9065342/) | 1997 | Review | American Journal of Rhinology | Management review of chronic sinusitis in adult cystic fibrosis patients; discusses medical/surgical management context relevant to mucus-clearance therapy. |
-| [12487405](https://pubmed.ncbi.nlm.nih.gov/12487405/) | 2002 | Review | Logopedics, Phoniatrics, Vocology | Review on hidden respiratory allergies in voice users; notes decongestant/Guaifenesin combinations as a treatment strategy alongside antihistamines and steroids. |
+| [12487405](https://pubmed.ncbi.nlm.nih.gov/12487405/) | 2002 | Review | Logopedics, Phoniatrics, Vocology | Treatment strategies for hidden respiratory allergies in voice users; decongestants containing guaifenesin may be useful, while antihistamines are generally avoided |
 
----
+This is a single review focused on voice users. It offers only indirect support and does not test guaifenesin in nasal cavity disease.
 
-## Taiwan Market Information
+## India Market Information
 
-Currently not registered in Taiwan (0 licenses on file; market status: Not marketed).
+Guaifenesin has 20 valid single-ingredient registrations in India and none are cancelled. The registration records do not include approved indication text. Five main authorizations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 52663 | Chestorex Tablet | Strip of 10 tablets | Not stated in the registration record |
+| Registration No. 30353 | Bro Surex Syrup | Bottle of 100 ml syrup | Not stated in the registration record |
+| Registration No. 247511 | Z Cof Syrup | Bottle of 100 ml syrup | Not stated in the registration record |
+| Registration No. 176224 | Prodexa Tablet | Strip of 10 tablets | Not stated in the registration record |
+| Registration No. 26008 | Broncorex Expectorant | Bottle of 100 ml syrup | Not stated in the registration record |
+
+Available forms include tablets, capsules and syrups.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Conditions flagged in the knowledge graph (not label text):** The drug–disease contraindication links in the knowledge graph include hypertension, liver failure and liver disease, cirrhosis, kidney disease, epilepsy, COPD, peptic and gastric ulcer, inflammatory bowel disease, pancreatitis, porphyria, thrombocytopenia, adrenocortical insufficiency (Addison disease), hypothyroidism, anxiety and psychotic disorders, and insomnia. These links may partly reflect combination products and should be checked against the actual package insert.
+- **Drug interactions:** No interaction records were found.
 
-*(Note: TFDA label warnings/contraindications and drug-interaction data are currently unavailable — this is flagged as a **Blocking** data gap (DG001) that prevents progression to the S1 safety initial-review stage.)*
-
----
+Please refer to the package insert for confirmed warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- The rank-1 indication (Nasal Cavity Disease) has only a single small pediatric pilot trial (n=30) plus two indirectly-related review articles — sufficient to justify further investigation (L2) but not to support progression.
-- A **Blocking** data gap (TFDA label/warnings unavailable) prevents entry into the S1 safety review stage, and the drug has no current Taiwan market registration to anchor a local safety profile.
-- The four other predicted indications (acute laryngopharyngitis, faucial diphtheria, cervical disc degenerative disorder, papillary conjunctivitis) are all L5 (model prediction only, no trials or literature) and are separately recommended for Hold.
+The prediction score is very high, but it likely reflects overlap with existing rhinitis indications. There are no clinical trials, only one indirect review, and the mechanism data are missing, so the evidence does not yet support a new indication.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings and contraindications (source: TFDA official site, PDF parsing) — resolves DG001
-- DrugBank-sourced mechanism-of-action detail (resolves DG002)
-- Confirmation of Taiwan registration/import status for Guaifenesin-containing products
-- A larger, adequately powered RCT in adult or broader pediatric chronic rhinitis/nasal cavity disease populations to move beyond pilot-level evidence
+- Mechanism of action data for guaifenesin
+- Package insert warnings and contraindications for the India products, which are required before safety screening
+- Clinical studies of guaifenesin in nasal cavity disease, or a clear definition of how this differs from the existing rhinitis indications
+- Review of the knowledge-graph contraindication signals against the label
+
+### Other Predicted Indications (Not Recommended for Now)
+
+All have no trials or literature and are rated L5 (model prediction only):
+
+| Predicted Indication | TxGNN Score | Comment |
+|------|------|------|
+| Acute laryngopharyngitis | 99.98% | Plausible given existing pharyngitis use, but no supporting data (Hold) |
+| Faucial diphtheria | 99.54% | Treatment relies on antitoxin and antibiotics; guaifenesin has no such activity (Hold) |
+| Cervical disc degenerative disorder | 99.50% | No clear mechanistic link (Hold) |
+| Papillary conjunctivitis | 99.27% | Tenuous link through allergy only; no ocular mechanism (Hold) |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

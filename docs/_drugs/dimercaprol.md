@@ -2,7 +2,7 @@
 layout: default
 title: Dimercaprol
 parent: Moderate Evidence (L3-L4)
-nav_order: 269
+nav_order: 272
 evidence_level: L4
 indication_count: 1
 ---
@@ -29,93 +29,70 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Dimercaprol: From Heavy Metal Poisoning to Bronchitis
+# Dimercaprol: From Heavy Metal Poisoning (Chelation) to Bronchitis
 
 ## One-Sentence Summary
 
-Dimercaprol (BAL — British Anti-Lewisite) is a dithiol chelating agent originally used for treatment of acute heavy metal poisoning, including arsenic, mercury, and lead toxicity.
-The TxGNN model predicts it may be effective for **Bronchitis**, though the mechanistic link is extremely narrow — applicable only to mercury inhalation-induced chemical bronchitis.
-No clinical trials directly involving Dimercaprol for bronchitis were identified; supporting evidence is limited to a single 1963 case report and a theoretical mechanism.
-
----
+Dimercaprol is a dithiol chelating agent that binds heavy metals such as mercury, arsenic, and lead. The TxGNN model predicts it may be effective for **bronchitis**, but there are **no registered clinical trials** and only **1 publication** (a 1963 case report of mercury-induced bronchitis). The prediction rests almost entirely on the computational score.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Heavy metal poisoning (arsenic, mercury, gold, lead) — not registered in India |
+|------|------|
+| Original Indication | Not stated in the India license data (the approved indication text is blank) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.54% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on established pharmacology, Dimercaprol (BAL) is a dithiol chelating agent that binds heavy metals — particularly mercury, arsenic, gold, and lead — through its two sulfhydryl (–SH) groups, forming stable, water-soluble chelate complexes that are renally excreted. It was originally developed as an antidote against arsenical chemical warfare agents (Lewisite) during World War II and remains the standard of care for acute heavy metal poisoning.
+Currently, detailed mechanism of action data is not available. Based on known information, dimercaprol is a dithiol chelating agent that binds heavy metals such as mercury, arsenic, and lead. The India license entry does not record an approved indication.
 
-The mechanistic connection to bronchitis is extremely narrow: acute inhalation of mercury vapour or arsine gas can cause severe chemical tracheobronchitis. In this specific context, Dimercaprol as a systemic chelating antidote might theoretically reduce the severity or duration of metal-induced airway inflammation by lowering the toxic metal burden in bronchial tissues. A 1963 case report (PMID 14068440) describes two cases of bronchitis caused by acute mercury inhalation — the only literature directly linking the drug's mechanism to this respiratory presentation.
+The only linked publication is a 1963 case report describing bronchitis after acute mercury inhalation. In that setting, bronchitis is a consequence of metal poisoning. Chelation would address the underlying poisoning, not the bronchitis itself. There is no evidence that dimercaprol acts on bronchitis from other causes (infectious, allergic, or chronic obstructive).
 
-The TxGNN prediction score of 99.54% most likely reflects a knowledge graph inference pathway along the lines of "heavy metal poisoning → airway injury → bronchitis" rather than any genuine applicability to common infectious or non-specific bronchitis. This represents a significant risk of algorithmic false-positive prediction, as the mechanistic rationale applies only to a rare, highly specific subtype of chemical bronchitis arising from acute metal poisoning.
-
----
+The very high TxGNN score (99.54%) is a computational prediction only and is not backed by clinical data. The mechanistic link is therefore weak.
 
 ## Clinical Trial Evidence
 
-All 24 clinical trials retrieved were assessed as irrelevant (Grade C) — they involved unrelated interventions such as Vitamin D, inhaled Cyclosporine, Montelukast, and Alvelestat, targeting transplant-related bronchiolitis obliterans or COPD subphenotypes, with no connection to Dimercaprol.
-
 Currently no related clinical trials registered.
-
----
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [14068440](https://pubmed.ncbi.nlm.nih.gov/14068440/) | 1963 | Case Report | Am Rev Respir Dis | Two cases of acute bronchitis caused by mercury vapour inhalation — the only literature directly linking mercury-induced airway injury to the clinical context where Dimercaprol chelation therapy would apply |
-
----
+|------|-----|------|------|---------|
+| [14068440](https://pubmed.ncbi.nlm.nih.gov/14068440/) | 1963 | Case report | The American Review of Respiratory Disease | Report of two cases of bronchitis caused by acute mercury inhalation (no abstract available; the link is to metal-toxicity-related bronchitis, not general bronchitis) |
 
 ## India Market Information
 
-Dimercaprol is not currently registered or marketed in India. No product authorizations are on record. The drug is available in some Western markets (e.g., USA as BAL in Oil® injection), but has no approved products in the Indian market.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 26751 | B A L Injection (Samarth Life Sciences Pvt Ltd) | Ampoule of 2 ml Injection | Not stated |
 
 ## Safety Considerations
 
-**Drug Interactions — 15 Major interactions identified (Source: DDInter):**
+- **Conditions flagged as contraindications in the knowledge graph** (derived from drug-disease links in the TxGNN knowledge graph, not from label text): hypertensive disorder, hypertension, liver disease, gallbladder disease, G6PD deficiency, glycogen storage disease, cystinuria, galactosemia.
+- **Drug Interactions**: 15 interactions rated Major were found. They involve:
+  - Iron products: iron, ferric carboxymaltose, tetraferric tricitrate decahydrate, ferric derisomaltose, ferrous fumarate, ferrous gluconate, ferrous sulfate anhydrous, ferumoxides, ferumoxsil, ferumoxytol, iron dextran, iron protein succinylate, iron sucrose, and sodium ferric gluconate complex.
+  - Selenium.
 
-All major interactions involve iron-containing and selenium preparations. Dimercaprol forms toxic complexes with iron in vivo; concurrent use is contraindicated.
-
-| Category | Interacting Drugs | Severity |
-|----------|-------------------|----------|
-| Iron compounds (oral) | Ferrous fumarate, Ferrous gluconate, Ferrous sulfate anhydrous, Iron protein succinylate | **Major** |
-| Iron compounds (intravenous) | Iron Dextran, Iron sucrose, Ferric carboxymaltose, Ferric derisomaltose, Ferumoxytol, Ferumoxides, Ferumoxsil, Sodium ferric gluconate complex, Tetraferric tricitrate decahydrate | **Major** |
-| Trace elements | Selenium | **Major** |
-
-> Iron supplementation of any form must be withheld during Dimercaprol treatment. The formation of a toxic Dimercaprol–iron complex can cause systemic harm.
-
-For full warnings and contraindications, please refer to the package insert, as those data were not available in this Evidence Pack.
-
----
+Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high (99.54%), but the mechanistic bridge to bronchitis is applicable only to a rare, chemically-induced subtype from acute mercury or arsenic inhalation — not to the broad disease category of bronchitis. There is no clinical trial evidence, and only one 60-year-old case report provides any indirect support. The drug is also not registered in India, creating an additional regulatory barrier.
+The prediction is supported only by a high model score and a single 1963 case report in which bronchitis was a result of mercury poisoning. There are no clinical trials, and no evidence of benefit in bronchitis of other causes. The safety profile also raises concerns (knowledge-graph contraindications including hypertension and liver disease, and Major interactions with iron and selenium).
 
 **To proceed, the following is needed:**
-- Precise definition of the bronchitis subtype of interest (infectious vs. chemical/metal-induced) — the entire rationale hinges on this distinction
-- Full mechanism of action (MOA) data from DrugBank to confirm or refute the mechanistic link
-- Package insert safety data (warnings and contraindications) — currently unavailable and classified as a Blocking data gap
-- Systematic case series or preclinical data demonstrating Dimercaprol's efficacy specifically in reducing the severity or duration of metal-induced bronchitis
-- Regulatory pathway assessment for India market entry before any repurposing programme can advance
+- Package insert warnings and contraindications from the India license (currently missing, and needed before any safety screening)
+- Mechanism of action data (for example from DrugBank) to test whether any mechanism links chelation to bronchitis
+- Evidence of benefit in bronchitis from causes other than metal poisoning, such as preclinical or clinical studies
+- Confirmation of the approved indication for the India registration
+- Assessment of route compatibility (the product is injectable only)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

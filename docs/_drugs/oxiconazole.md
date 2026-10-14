@@ -2,15 +2,15 @@
 layout: default
 title: Oxiconazole
 parent: Moderate Evidence (L3-L4)
-nav_order: 623
-evidence_level: L3
+nav_order: 629
+evidence_level: L4
 indication_count: 1
 ---
 
 # Oxiconazole
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,79 +29,79 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Oxiconazole: From Topical Antifungal (Dermatophytosis) to Cutaneous Candidiasis
+# Oxiconazole: From Tinea Pedis to Cutaneous Candidiasis
 
 ## One-Sentence Summary
 
-Oxiconazole is a topical imidazole antifungal traditionally used against dermatophyte skin infections (tinea/dermatomycosis). The TxGNN model predicts it may also be effective for **Cutaneous Candidiasis**, a prediction consistent with the well-established class-level mechanism of azole antifungals, though it is currently supported only by **5 publications** and **no registered clinical trials**.
-
----
+Oxiconazole is a topical imidazole antifungal, originally used to treat dermatophyte skin infections such as tinea pedis, tinea corporis and pityriasis versicolor.
+The TxGNN model predicts it may be effective for **cutaneous candidiasis**,
+but at present there are **no registered clinical trials** and only **5 publications**, one of which directly studies oxiconazole. The rest are indirect reviews.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Topical antifungal for dermatophyte/tinea skin infections (no Taiwan license data available — drug not marketed) |
-| Predicted New Indication | Cutaneous Candidiasis |
+| Original Indication | Tinea pedis (other listed uses: tinea corporis, tinea infection, pityriasis versicolor, dermatophytosis of groin and perianal area) |
+| Predicted New Indication | Cutaneous candidiasis |
 | TxGNN Prediction Score | 99.81% |
-| Evidence Level | L3 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 14 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed drug-specific mechanism of action data for oxiconazole is not available in the record. Based on known pharmacology, oxiconazole belongs to the imidazole class of topical antifungals, which inhibit fungal CYP51 (14α-demethylase), blocking ergosterol biosynthesis and disrupting fungal cell membrane integrity. This is a well-established, class-level mechanism shared across imidazole antifungals (e.g., econazole, bifonazole).
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the known class mechanism, oxiconazole is an imidazole antifungal. Azoles inhibit fungal lanosterol 14-alpha-demethylase (CYP51), which blocks ergosterol synthesis and disrupts the fungal cell membrane.
 
-Dermatophyte infections (the drug's traditional use area) and cutaneous candidiasis are both superficial fungal skin infections, and imidazole antifungals as a class are already known to have activity against both dermatophytes and *Candida albicans*. This makes the TxGNN prediction a mechanistically well-founded extension rather than a novel hypothesis — it aligns with existing pharmacological knowledge of the azole class rather than proposing an unprecedented mechanism.
+Its approved uses are dermatophyte and *Malassezia*-type skin infections. *Candida* species share the same ergosterol biosynthesis target, so activity against cutaneous candidiasis is mechanistically plausible. General reviews also note that tinea corporis, tinea pedis, cutaneous candidiasis and tinea versicolor are often managed with the same topical antifungals.
 
----
+The very high TxGNN score is consistent with this class-level reasoning. It is a model prediction, however, not clinical evidence for oxiconazole itself.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6382000](https://pubmed.ncbi.nlm.nih.gov/6382000/) | 1984 | Cohort | Mykosen | Direct comparison of oxiconazole and econazole in dermatomycoses |
-| [24196340](https://pubmed.ncbi.nlm.nih.gov/24196340/) | 2013 | Review | J Drugs Dermatol | Overview of topical antifungal therapy for superficial cutaneous fungal infections, including dermatophyte and yeast pathogens |
-| [10439936](https://pubmed.ncbi.nlm.nih.gov/10439936/) | 1999 | Review | Drugs | Review of allylamine/azole-class antifungal efficacy against dermatophytes and *Candida albicans* |
-| [2670516](https://pubmed.ncbi.nlm.nih.gov/2670516/) | 1989 | Review | Drugs | Review of bifonazole (imidazole class) activity against dermatophytes, yeasts, and dimorphic fungi |
-| [7501581](https://pubmed.ncbi.nlm.nih.gov/7501581/) | 1995 | Review | Postgraduate Medicine | Clinical approach to superficial fungal and candidal skin infections, including topical antifungal treatment options |
+| [6382000](https://pubmed.ncbi.nlm.nih.gov/6382000/) | 1984 | Comparative clinical study | Mykosen | Oxiconazole compared with econazole in dermatomycoses (no abstract available; direct evidence on oxiconazole, but in dermatomycoses rather than specifically candidiasis) |
+| [24196340](https://pubmed.ncbi.nlm.nih.gov/24196340/) | 2013 | Review | J Drugs Dermatol | Topical antifungal therapy for superficial cutaneous fungal infections, focusing on naftifine; most cases respond to well-chosen topical therapy |
+| [7501581](https://pubmed.ncbi.nlm.nih.gov/7501581/) | 1995 | Review | Postgrad Med | Diagnosis and treatment of superficial fungal infections; tinea and cutaneous candidiasis can be treated with many topical antifungals (indirect) |
+| [10439936](https://pubmed.ncbi.nlm.nih.gov/10439936/) | 1999 | Review | Drugs | Terbinafine in superficial mycoses; fungistatic activity against *Candida albicans* (different drug, indirect) |
+| [2670516](https://pubmed.ncbi.nlm.nih.gov/2670516/) | 1989 | Review | Drugs | Bifonazole in superficial mycoses; efficacy of 1% topical formulations (different drug, indirect) |
 
----
+## India Market Information
 
-## Taiwan Market Information
+Registration texts for the approved indications are not provided in the data compiled for this report. All 14 registrations are single-ingredient products and currently valid. Five of them are listed below.
 
-Oxiconazole is currently not marketed in Taiwan — no license registrations are on record (total_licenses = 0).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 759 | Auxerg Cream (Cipla Ltd) | Cream, 50 gm tube | Not provided |
+| Registration No. 174918 | Pilzban Cream (La Pristine Bioceuticals) | Cream, 30 gm tube | Not provided |
+| Registration No. 246432 | Zoderm E Cream (Glaxo SmithKline Pharmaceuticals) | Cream, 50 gm tube | Not provided |
+| Registration No. 179718 | Pilzban Lotion (La Pristine Bioceuticals) | Lotion, 50 ml bottle | Not provided |
+| Registration No. 162574 | Oxicojen Cream (Jenburkt Pharmaceuticals) | Cream, 20 gm tube | Not provided |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (TFDA label warnings, contraindications, and drug interaction data are currently unavailable and marked as a **Blocking** data gap — see Conclusion.)
+- **Contraindications (from knowledge graph, not label text)**: dermatitis is listed as a contraindicated condition.
 
----
+Please refer to the package insert for other safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic link between oxiconazole's established antifungal activity and cutaneous candidiasis is pharmacologically sound and supported by class-level literature (L3, observational/review evidence), but there are no clinical trials specifically testing this indication and the drug is not currently marketed in Taiwan.
+The prediction is mechanistically plausible, since azoles target ergosterol synthesis in *Candida* as well as dermatophytes. The evidence is at the model-prediction and class-review level (L4), however, with no registered trials for oxiconazole in cutaneous candidiasis. The package insert safety information has not been reviewed, so safety screening cannot proceed yet.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (Blocking gap — required before any S1 safety pre-assessment can proceed; obtain via TFDA label PDF)
-- Detailed drug-specific mechanism of action data (High priority gap — query DrugBank API)
-- Drug-drug interaction (DDI) data (currently not found)
-- Evaluation of feasibility for Taiwan market entry, given the drug has no existing local license
-- Dedicated clinical trials or case series evaluating oxiconazole specifically for cutaneous candidiasis
+- Package insert warnings and contraindications for the marketed Indian products
+- Confirmed mechanism of action data from DrugBank
+- Oxiconazole-specific clinical data in cutaneous candidiasis, such as in vitro *Candida* susceptibility and comparative trials
+- Confirmation of whether the approved Indian labels already include candidal skin infections
+- Clarification of the dermatitis contraindication signal
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

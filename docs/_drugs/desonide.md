@@ -2,7 +2,7 @@
 layout: default
 title: Desonide
 parent: Model Prediction Only (L5)
-nav_order: 244
+nav_order: 246
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,74 +29,53 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Desonide: From Inflammatory Skin Conditions to Polyp of Vocal Cord
+# Desonide: From Inflammatory Skin and Allergic Conditions to Polyp of Vocal Cord
 
 ## One-Sentence Summary
 
-Desonide is a low-potency synthetic topical corticosteroid primarily used for mild-to-moderate inflammatory skin conditions such as atopic dermatitis and eczema.
-The TxGNN model predicts it may be effective for **Polyp of Vocal Cord**,
-however **no clinical trials** and **no publications** currently support this specific direction — placing this prediction at evidence level **L5**.
-
----
+Desonide is a low-potency topical corticosteroid, originally used for inflammatory and allergic conditions such as atopic dermatitis, contact dermatitis and seborrheic dermatitis.
+The TxGNN model predicts it may be effective for **polyp of vocal cord**,
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on computational prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Inflammatory skin conditions (atopic dermatitis, eczema) — no India-registered indication on file |
-| Predicted New Indication | Polyp of Vocal Cord |
+|------|------|
+| Original Indication | Exanthem, atopic eczema, contact dermatitis, seborrheic dermatitis and related inflammatory conditions (knowledge-graph indications; no approved indication text is available from the registrations) |
+| Predicted New Indication | Polyp of vocal cord |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacological information, Desonide is a low-potency synthetic glucocorticoid. It acts through glucocorticoid receptor (GR) activation, suppressing the NF-κB signaling cascade and reducing production of pro-inflammatory cytokines, prostaglandins, and vasoactive mediators — thereby decreasing vascular permeability, local edema, and tissue inflammation.
+Currently, detailed mechanism of action data is not available. Based on known information, desonide is a low-potency topical corticosteroid, its anti-inflammatory efficacy in dermatologic conditions is established, and mechanistically it may be applicable to inflammatory or reactive lesions elsewhere.
 
-The theoretical link between Desonide and vocal cord polyps rests on the inflammatory component of polyp pathogenesis. Vocal cord polyps often arise from repeated mechanical trauma combined with a sustained local inflammatory response, leading to subepithelial edema, fibrin deposition, and eventual structural remodeling. Corticosteroids — particularly via intralesional injection — have been explored clinically as adjuncts or alternatives to surgical excision, precisely to suppress this inflammatory-fibrotic cycle. In that context, the class-level rationale is not unreasonable.
+A glucocorticoid anti-inflammatory effect could plausibly reduce edema and inflammation in reactive laryngeal lesions. However, vocal cord polyps are mainly managed by voice rest, voice therapy or surgery. In addition, desonide is formulated as a cream or lotion for the skin, which is not suited to delivery to the larynx.
 
-However, the specific applicability of Desonide faces serious practical barriers. As a low-potency topical formulation (cream, lotion, otic foam), delivering effective drug concentrations to the vocal cord mucosa via conventional routes is anatomically implausible. Higher-potency intralesional agents such as triamcinolone are the corticosteroids most referenced in vocal cord polyp literature — not low-potency cutaneous preparations like Desonide. The high TxGNN score most likely reflects the model's recognition of a broad corticosteroid-inflammation pattern rather than a specific mechanistic or pharmacokinetic match between Desonide and vocal cord polyps.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+The same pattern applies to the other top predictions, which are all polyp-type lesions (middle ear, external auditory canal, frontal sinus, ureter, vulva, uterus, fibroepithelial and neoplastic polyps, and epulis). The external auditory canal is the most plausible site for a topical agent. For several others, such as ureteral, uterine and neoplastic polyps, no credible mechanism was identified. The scores are very close to one another (99.89%–99.91%), so the prediction does not clearly single out any one indication.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications flagged in the knowledge graph** (drug–disease contraindication links, not package insert text): hypertension, epilepsy, liver disease, gallbladder disease, hyperglycemia, congestive heart failure, herpes simplex virus keratitis, measles, urea cycle disorders (carbamoyl phosphate synthetase I deficiency, hyperargininemia, citrullinemia), and a group of pituitary and growth hormone deficiency conditions (including hypopituitarism, Kallmann syndrome and Sheehan syndrome). These links are likely inherited from the corticosteroid class and should be verified against the product label.
 
----
+Please refer to the package insert for warnings and drug interaction information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction rests entirely on model inference (L5), with no clinical trials, observational studies, or published case series specifically examining Desonide in vocal cord polyps. Beyond the absence of empirical evidence, the existing Desonide formulations present a fundamental drug-delivery incompatibility with the target anatomical site.
+The prediction is supported only by a model score, with no clinical trials or literature. The available topical skin formulations are not suited to laryngeal delivery, and vocal cord polyps are normally treated with voice therapy or surgery.
 
 **To proceed, the following is needed:**
-
-- **Delivery feasibility assessment**: Evaluate whether any reformulation (e.g., inhaled, intralaryngeal, or nebulized corticosteroid) could achieve adequate mucosal concentration at the vocal fold level
-- **Class-level literature review**: Audit published evidence for *any* topical or intralesional corticosteroid in vocal cord polyps to establish whether the corticosteroid class has proof-of-concept before pursuing a specific agent
-- **Preclinical data**: Animal or ex vivo studies assessing corticosteroid effects on vocal fold fibroblast proliferation and edema resolution
-- **Safety profile completion**: Retrieve full package insert (warnings, contraindications, MOA) to enable S1 safety screening — currently blocked by DG001/DG002 data gaps
-- **Regulatory pathway review**: Assess India (CDSCO) requirements for an NDA or repurposing application given that Desonide has zero existing registrations in the market
-
-> ⚠️ *This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any therapeutic application.*
+- Package insert warnings and contraindications for the marketed products, which are required before any safety screening
+- Detailed mechanism of action data (MOA)
+- Evidence of clinical benefit, such as case reports or trials of corticosteroids in vocal cord polyps
+- A route and formulation feasibility assessment, since only topical cream and lotion products are registered
+- A review of whether another candidate (for example polyp of the external auditory canal, where topical use is most plausible) merits evaluation first
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

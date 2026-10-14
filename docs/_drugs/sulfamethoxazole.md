@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Sulfamethoxazole
-parent: Model Prediction Only (L5)
-nav_order: 790
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 797
+evidence_level: L4
 indication_count: 1
 ---
 
 # Sulfamethoxazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,31 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Sulfamethoxazole: From Antibacterial Use to Acute Contagious Conjunctivitis
+# Sulfamethoxazole: From Bacterial Infections (Otitis Media, Nocardiosis, Toxoplasmosis and Others) to Acute Contagious Conjunctivitis
 
 ## One-Sentence Summary
 
-> Sulfamethoxazole is a sulfonamide-class antibacterial agent; its original approved indication is not specified in the current evidence pack.
-> The TxGNN model predicts it may be effective for **Acute Contagious Conjunctivitis**,
-> currently supported by **0 clinical trials** and **1 publication**, with key drug-level data (mechanism of action, label warnings) still pending.
+Sulfamethoxazole is a sulfonamide antibacterial, originally used for infections such as otitis media, nocardiosis, toxoplasmosis, pneumocystosis, shigellosis and conjunctivitis.
+The TxGNN model predicts it may be effective for **acute contagious conjunctivitis**, but conjunctivitis already appears among its original indications, so this is not a true repurposing candidate.
+Support is limited to **0 clinical trials** and **1 publication** (a cohort study of bacterial conjunctivitis).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in evidence pack (data gap) |
-| Predicted New Indication | Acute Contagious Conjunctivitis |
+| Original Indication | Infectious otitis media, nocardiosis, toxoplasmosis, hirudiniasis, myiasis, pneumocystosis, shigellosis, conjunctivitis, cat-scratch disease (from the knowledge graph; no approved-indication text is available from the Indian licences) |
+| Predicted New Indication | Acute contagious conjunctivitis |
 | TxGNN Prediction Score | 99.63% |
-| Evidence Level | L3 (single observational study, no RCTs) |
-| Taiwan Market Status | Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for Sulfamethoxazole is currently not available (flagged as data gap DG002, pending DrugBank API lookup). Based on known pharmacological class information, Sulfamethoxazole is a sulfonamide antibacterial, a drug class with a long history of topical ophthalmic use (e.g., sulfacetamide) for bacterial conjunctivitis due to broad-spectrum activity against common ocular pathogens.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, sulfamethoxazole inhibits bacterial dihydropteroate synthase and blocks folate synthesis. It is usually combined with trimethoprim, which blocks the folate pathway at a second step. This sequential blockade is plausibly relevant to bacterial conjunctivitis, an infection caused by susceptible pathogens.
 
-The single supporting publication examined bacteriology and antibiotic susceptibility patterns in childhood acute bacterial conjunctivitis, which provides indirect, pathogen-level plausibility for a sulfonamide's relevance to this indication, but does not directly test Sulfamethoxazole efficacy in conjunctivitis. Given that the drug's original indication and MOA are both unconfirmed in this evidence pack, the mechanistic rationale here should be treated as preliminary and class-based rather than drug-specific.
+Importantly, conjunctivitis is already listed among the drug's original indications. The high TxGNN score (99.63%) is therefore likely driven by this existing association rather than by a genuinely new finding. The mechanism link above is inferred from general knowledge, not from the supplied data.
 
 ## Clinical Trial Evidence
 
@@ -63,33 +63,44 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31788487](https://pubmed.ncbi.nlm.nih.gov/31788487/) | 2019 | Retrospective observational study | Medical Hypothesis, Discovery & Innovation Ophthalmology Journal | Retrospective analysis of childhood acute bacterial conjunctivitis in Western Greece, characterizing causative bacteria and antimicrobial susceptibility patterns relevant to empiric topical antibiotic selection |
+| [31788487](https://pubmed.ncbi.nlm.nih.gov/31788487/) | 2019 | Cohort (retrospective) | Medical Hypothesis, Discovery & Innovation Ophthalmology Journal | Bacteriology and antibiotic susceptibility patterns in childhood acute bacterial conjunctivitis in Western Greece. It describes the pathogens and susceptibility in a paediatric hospital and does not evaluate sulfamethoxazole efficacy directly. |
 
-## Taiwan Market Information
+## India Market Information
 
-Sulfamethoxazole currently has no registered licenses in Taiwan (total_licenses = 0; market status: Not Marketed). No product-level dosage form or approved indication data is available.
+Twenty valid single-ingredient registrations are on record, with no cancelled licences. Approved-indication text is not recorded for any of them. The five main registrations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 54981 | Cidaprim Forte Oral Suspension | Bottle of 50 ml oral suspension | Not recorded |
+| 201573 | Synastat 800mg/160mg Tablet | Strip of 10 tablets | Not recorded |
+| 30976 | Bioprim 800mg/160mg Tablet | Strip of 10 tablets | Not recorded |
+| 25959 | Bactrim Syrup (Abbott) | Bottle of 50 ml syrup | Not recorded |
+| 199546 | Septran DS 800mg/160mg Tablet | Strip of 10 tablets | Not recorded |
+
+Available forms are oral tablets, suspensions, syrups and paediatric drops. No ophthalmic (eye-drop) formulation is listed.
 
 ## Safety Considerations
 
-- **Drug Interactions**: DDI query completed with **151 total documented interactions**. Notable interactions include:
-  - **Moderate**: Sulfonylurea antidiabetics (Chlorpropamide, Glimepiride, Acetohexamide, Glipizide, Glyburide) and multiple insulin formulations (human, aspart, degludec, detemir, glargine, glulisine) — potential increased hypoglycemic effect
-  - **Moderate**: Balsalazide, Picosulfuric acid
-  - **Minor**: Famotidine, Clarithromycin, Cisapride, Dolasetron, Palonosetron, Granisetron
+**Contraindications / risk conditions (from the knowledge graph, not label text):** inherited porphyria and other porphyrin metabolism diseases, kidney disease and kidney failure, uraemia, glomerulonephritis, liver disease, gallbladder disease, thrombocytopenia, neutropenia, agranulocytosis, G6PD deficiency, folic acid deficiency anaemia, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, glycogen storage disease, cystinuria, galactosaemia and pyoureter.
 
-Key warnings and contraindications from the product label are not yet available (data gap DG001) — please refer to the official package insert once obtained.
+**Drug Interactions:** 151 interactions are recorded. Examples are listed below.
+- **Moderate:** sulfonylurea antidiabetics (chlorpropamide, glimepiride, glipizide, glyburide, acetohexamide); insulins (human, aspart, degludec, detemir, glargine, glulisine); balsalazide; picosulfuric acid. These mainly involve hypoglycaemia risk with antidiabetics.
+- **Minor:** famotidine, clarithromycin, cisapride, and the setrons dolasetron, granisetron and palonosetron.
+
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for the approved safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-A Blocking-severity data gap (DG001 — missing TFDA label warnings/contraindications) prevents completion of the required S1 safety pre-assessment. Combined with missing MOA data (DG002), an unconfirmed original indication, zero clinical trials, and only a single non-RCT publication (Evidence Level L3), the current evidence base is insufficient to advance this candidate.
+Conjunctivitis is already an original indication, so this is not a true repurposing opportunity. The evidence is model prediction plus one descriptive cohort study, with no clinical trials (Evidence Level L4). Package insert safety data are also missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
-- Resolve DG001: obtain and parse the TFDA package insert for warnings/contraindications
-- Resolve DG002: query DrugBank API for confirmed mechanism of action
-- Confirm the drug's original approved indication(s), currently missing from source data
-- Additional direct clinical evidence (trials or comparative studies) evaluating Sulfamethoxazole specifically in acute contagious conjunctivitis
+- Obtain the package insert warnings and contraindications from the Indian regulatory source to complete safety screening.
+- Obtain mechanism of action data from DrugBank.
+- Confirm whether a distinct new indication (for example a specific subtype of contagious conjunctivitis or a topical route) is intended. If so, the route would need to be assessed, since only oral and systemic forms are marketed in India.
+- Identify clinical studies of sulfamethoxazole (or trimethoprim-sulfamethoxazole) in conjunctivitis, and weigh them against current topical antibiotic standards of care and local resistance patterns.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

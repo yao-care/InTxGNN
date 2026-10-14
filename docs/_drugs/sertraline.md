@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Sertraline
-parent: High Evidence (L1-L2)
-nav_order: 763
-evidence_level: L1
+parent: Moderate Evidence (L3-L4)
+nav_order: 770
+evidence_level: L4
 indication_count: 8
 ---
 
 # Sertraline
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **8** 
+Evidence Level: **L4** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L1** | Predicted Indications: **8**
 
 </div>
 
-# Sertraline: From SSRI Antidepressant Therapy to Agoraphobia
+# Sertraline: From Anxiety Disorder to Paranoid Personality Disorder
 
 ## One-Sentence Summary
 
-> Sertraline is a widely used Selective Serotonin Reuptake Inhibitor (SSRI); detailed original indication text and mechanism-of-action data are not available in this dataset (drug not marketed in India — see Data Gaps DG001/DG002).
-> TxGNN generated 8 psychiatric-disorder predictions for sertraline, most supported only by weak or unrelated literature. Among them, **Agoraphobia** stands out,
-> with **4 clinical trials** (including a completed Phase 4 RCT) and **20 publications** — including a Cochrane and a BMJ network meta-analysis — supporting this direction.
+Sertraline is a serotonergic antidepressant, originally used for anxiety disorder and related conditions such as post-traumatic stress disorder, social phobia and obsessive-compulsive disorder.
+The TxGNN model predicts it may be effective for **Paranoid Personality Disorder**, but there are **no registered clinical trials** and only **4 loosely related publications**, none of which studies this disorder directly.
+This prediction is therefore best treated as a hypothesis, not as supported evidence.
 
 ---
 
@@ -43,34 +43,27 @@ Evidence Level: **L1** | Predicted Indications: **8**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in dataset (India: Not marketed/not marketed; MOA and indication data gaps — DG001, DG002) |
-| Predicted New Indication | Agoraphobia |
-| TxGNN Prediction Score | 99.54% |
-| Evidence Level | L1 |
-| India Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Anxiety disorder (also neurotic disorder, dysthymic disorder, post-traumatic stress disorder, social phobia, phobic disorder, obsessive-compulsive disorder) |
+| Predicted New Indication | Paranoid personality disorder |
+| TxGNN Prediction Score | 99.93% |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (DG002). Based on known information, Sertraline is a Selective Serotonin Reuptake Inhibitor (SSRI); its pharmacology centers on inhibiting presynaptic serotonin reuptake, which is mechanistically linked to mood and anxiety-spectrum regulation.
+Currently, detailed mechanism of action data is not available. Based on known information, sertraline is a serotonin-modulating antidepressant. Its efficacy in anxiety and related disorders is established, and it may plausibly influence shared traits such as irritability and impulsivity.
 
-Agoraphobia most commonly presents as a component of panic disorder, and SSRIs — sertraline specifically — are an established first-line pharmacological class for panic disorder with agoraphobia in multiple jurisdictions. This means the TxGNN signal here is less a novel repurposing hypothesis and more a **confirmatory match** to an already well-characterized pharmacological relationship, which is reflected in the unusually strong clinical trial and literature base (L1, S3).
-
-By contrast, the other 7 TxGNN predictions in this pack (paranoid, schizoid, histrionic, schizotypal, dependent, and narcissistic personality disorders, plus benign paroxysmal torticollis of infancy) are supported only by tangential or unrelated literature (e.g., lupus erythematosus case reports, alpha-interferon psychiatric side-effect reviews), reflecting a known TxGNN false-positive pattern driven by disease-ontology proximity of personality disorders in the knowledge graph, rather than genuine mechanistic or clinical signal. These remain at **Hold**.
+The very high score (the same 99.93% was given to schizoid, histrionic and schizotypal personality disorders) appears to reflect a generic association across the personality-disorder cluster, not a signal specific to paranoid personality disorder. The retrieved literature concerns borderline personality disorder and depression with comorbid personality disorder, not paranoid personality disorder itself. Serotonergic modulation does not establish efficacy in this condition.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00677352](https://clinicaltrials.gov/study/NCT00677352) | Phase 4 | Completed | 321 | Randomized, double-blind, multicenter trial comparing sertraline vs. paroxetine for panic disorder efficacy and safety (Grade A relevance) |
-| [NCT00182533](https://clinicaltrials.gov/study/NCT00182533) | Phase 4 | Terminated | 170 | Sertraline in generalized social phobia with anxiety comorbidity, evaluating safety/efficacy in patients with co-occurring conditions |
-| [NCT05210153](https://clinicaltrials.gov/study/NCT05210153) | N/A | Unknown | 148 | Plasma drug level monitoring and CYP2C19 genotyping for sertraline dose personalization in depression/anxiety treatment |
-| [NCT05930912](https://clinicaltrials.gov/study/NCT05930912) | N/A | Unknown | 1 | Psychoanalytic treatment study in ASD with anxiety-spectrum comorbidities including avoidant personality disorder (low relevance, n=1) |
+Currently no related clinical trials registered.
 
 ---
 
@@ -78,57 +71,50 @@ By contrast, the other 7 TxGNN predictions in this pack (paranoid, schizoid, his
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35045991](https://pubmed.ncbi.nlm.nih.gov/35045991/) | 2022 | Network Meta-analysis | BMJ | Identifies SSRI drug classes/agents with highest remission and lowest adverse-event rates for panic disorder with/without agoraphobia |
-| [38014714](https://pubmed.ncbi.nlm.nih.gov/38014714/) | 2023 | Network Meta-analysis | Cochrane Database Syst Rev | Compares pharmacological treatments, including sertraline, for panic disorder in adults |
-| [16053461](https://pubmed.ncbi.nlm.nih.gov/16053461/) | 2005 | RCT | Bosn J Basic Med Sci | 12-week placebo-controlled trial comparing sertraline and alprazolam in panic disorder with/without agoraphobia |
-| [12191627](https://pubmed.ncbi.nlm.nih.gov/12191627/) | 2002 | RCT (pooled) | J Psychiatr Res | Pooled data from 4 sertraline vs. placebo trials (N=544); early improvement predicted endpoint remission in panic disorder |
-| [16505130](https://pubmed.ncbi.nlm.nih.gov/16505130/) | 2006 | RCT | Am J Geriatr Psychiatry | CBT vs. sertraline for anxiety disorders in older adults |
-| [16292466](https://pubmed.ncbi.nlm.nih.gov/16292466/) | 2006 | Pooled RCT Analysis | Arch Womens Ment Health | Sex differences in clinical presentation and sertraline response in panic disorder with/without agoraphobia |
-| [36573969](https://pubmed.ncbi.nlm.nih.gov/36573969/) | 2022 | Review | JAMA | Overview of anxiety disorders (34% lifetime prevalence), including panic disorder/agoraphobia treatment landscape |
-| [38299123](https://pubmed.ncbi.nlm.nih.gov/38299123/) | 2024 | Case Review | Epilepsy Behav Rep | Case of panic disorder progressing to agoraphobia, managed with psychopharmacological treatment |
-| [11110016](https://pubmed.ncbi.nlm.nih.gov/11110016/) | 2000 | Review | Int Clin Psychopharmacol | SSRIs including sertraline shown superior to placebo for panic disorder, agoraphobia, and associated depressive symptoms |
-| [37676054](https://pubmed.ncbi.nlm.nih.gov/37676054/) | 2023 | Systematic Review | Expert Rev Neurother | Systematic review of pharmacological management of panic disorder in older patients |
+| [36853245](https://pubmed.ncbi.nlm.nih.gov/36853245/) | 2023 | Review | JAMA | Review of borderline personality disorder. It covers burden and impairment and is not specific to paranoid personality disorder. |
+| [9817625](https://pubmed.ncbi.nlm.nih.gov/9817625/) | 1998 | Cohort | Int Clin Psychopharmacol | 308 primary-care patients with major depression were treated with sertraline or citalopram for 24 weeks. The study examined personality disorder comorbidity and its change with treatment. |
+| [18848360](https://pubmed.ncbi.nlm.nih.gov/18848360/) | 2008 | Cohort | Psychiatry Res | Aripiprazole augmentation in 21 borderline personality disorder patients who did not respond to sertraline. |
+| [11686052](https://pubmed.ncbi.nlm.nih.gov/11686052/) | 2001 | Review | L'Encephale | Review of psychiatric side effects of alpha-interferon, including personality and mood disturbances. It is not relevant to sertraline efficacy. |
 
 ---
 
 ## India Market Information
 
-Sertraline currently has **no marketing authorization records in India** in this dataset (market status: Not marketed / not marketed; 0 registrations).
+Sertraline has 20 valid single-ingredient registrations in India and none are cancelled. Approved indication text is not listed for these registrations. The main ones are below.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| Registration No. 58529 | Daxid 25mg Tablet | Strip of 15 tablets | Pfizer Ltd |
+| Registration No. 200878 | Serlin 50mg Tablet | Strip of 10 tablets | Zydus Cadila |
+| Registration No. 74165 | Elesert 25 Tablet | Strip of 10 tablets | Icon Life Sciences |
+| Registration No. 205564 | Setradox 50mg Tablet | Strip of 10 tablets | Intra Labs India Pvt Ltd |
+| Registration No. 125561 | Linta 50mg Tablet | Strip of 10 tablets | Mova Pharmaceutical Pvt Ltd |
 
 ---
 
 ## Safety Considerations
 
-Package-insert-level warnings and contraindications are not available in this dataset (DG001, Blocking severity — TFDA/India label data pending).
+- **Disease-level contraindication signals**: Epilepsy, bipolar disorder, major affective disorder, liver disease, gallbladder disease, blood coagulation disease, neuroleptic malignant syndrome, inappropriate ADH syndrome, nephrogenic syndrome of inappropriate antidiuresis, and serotonin syndrome. These come from knowledge-graph associations, not from product labelling.
+- **Drug Interactions**: 396 interactions were identified. Those rated **Major** include bupropion, lorcaserin, diethylpropion, dolasetron, eliglustat, palonosetron and phentermine. Many others are rated Moderate, for example aspirin, morphine, clarithromycin, and sulfonylureas or insulin (glimepiride, chlorpropamide, insulin aspart).
 
-**Drug Interactions** (396 total documented interactions; major-severity examples below):
-
-| Interacting Drug | Level | Source |
-|---|---|---|
-| Bupropion | Major | ddinter |
-| Lorcaserin | Major | ddinter |
-| Diethylpropion | Major | ddinter |
-| Dolasetron | Major | ddinter |
-| Eliglustat | Major | ddinter |
-| Palonosetron | Major | ddinter |
-| Phentermine | Major | ddinter |
-
-Additional moderate-level interactions on file include famotidine, loperamide, morphine, acetylsalicylic acid, clarithromycin, glimepiride, and insulin aspart, among others.
+Please refer to the package insert for full warnings and contraindications.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The agoraphobia prediction is backed by L1-level evidence — a completed Phase 4 RCT plus a Cochrane and a BMJ network meta-analysis — confirming an already-established SSRI class effect rather than a purely speculative signal. However, India-specific regulatory, MOA, and labeling data are entirely missing, and 7 of the 8 TxGNN predictions in this pack are low-confidence noise that should not be advanced.
+There are no clinical trials and no disease-specific literature for paranoid personality disorder. The high TxGNN score appears to reflect a generic personality-disorder cluster association, so the evidence remains at the model-prediction and indirect-literature level (L4).
+
+Among the other predictions for sertraline, **agoraphobia** has far stronger support (Evidence Level L1, Proceed with Guardrails). It is backed by randomised trials and network meta-analyses in panic disorder with or without agoraphobia, and it is closer to an extension of sertraline's existing anxiety indications. If the goal is to prioritise sertraline repurposing candidates, agoraphobia is a better lead than paranoid personality disorder.
 
 **To proceed, the following is needed:**
-- TFDA/India package insert: warnings, contraindications, precautions (DG001, Blocking)
-- Confirmed mechanism-of-action documentation (DG002)
-- Current India regulatory/licensing status verification (dataset shows 0 registrations / not marketed)
-- No further action needed on the other 7 predicted indications (paranoid, schizoid, histrionic, schizotypal, dependent, narcissistic personality disorders; benign paroxysmal torticollis of infancy) — retain at Hold pending stronger evidence
+- Disease-specific clinical studies of sertraline in paranoid personality disorder
+- Detailed mechanism of action data (MOA)
+- Package insert warnings and contraindications from the India registrations
+- A safety monitoring plan that accounts for the contraindication signals and major interactions above, especially bipolar disorder, serotonin syndrome and the serotonergic co-medications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

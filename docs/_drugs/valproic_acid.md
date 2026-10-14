@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Valproic Acid
-parent: Model Prediction Only (L5)
-nav_order: 870
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 879
+evidence_level: L3
 indication_count: 10
 ---
 
 # Valproic Acid
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,99 +29,105 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Valproic Acid: From Epilepsy to Trigeminal Nerve Neoplasm
+# Valproic Acid: From Epilepsy to Visual Epilepsy
 
 ## One-Sentence Summary
 
-Valproic acid (VPA) is a broad-spectrum antiepileptic and mood-stabilizing agent, classically used internationally for epilepsy, bipolar disorder, and migraine prevention, though it currently holds no registered approval in India.
-The TxGNN model predicts it may be effective for **Trigeminal Nerve Neoplasm**, with **0 clinical trials** and **1 publication** currently available to support this direction.
-The evidence base for this specific indication is minimal, placing this prediction at a purely exploratory stage without clinical validation.
-
----
+Valproic acid is a broad-spectrum antiseizure drug, originally used for epilepsy, manic episodes of bipolar disorder and absence epilepsy.
+The TxGNN model predicts it may be effective for **Visual Epilepsy** (photosensitive and visually triggered seizures), with **no registered clinical trials** and **20 publications** retrieved, mostly reviews and one randomized trial in a related syndrome.
+This is essentially an extension of its established use to a seizure subtype, rather than a new therapeutic area.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No India registration; internationally indicated for epilepsy, bipolar disorder, and migraine prevention |
-| Predicted New Indication | Trigeminal Nerve Neoplasm |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+|------|------|
+| Original Indication | Epilepsy; manic bipolar affective disorder; absence epilepsy |
+| Predicted New Indication | Visual epilepsy |
+| TxGNN Prediction Score | 99.88% |
+| Evidence Level | L3 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Proceed with Guardrails |
 
----
+The first-ranked prediction, trigeminal nerve neoplasm (score 99.97%), was not selected. It has only a single unrelated case series (Sturge-Weber syndrome) and is rated L5 with a Hold recommendation. Visual epilepsy was chosen as the lead indication because it has the strongest supporting evidence among the predictions. Other predictions are summarised below.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the provided Evidence Pack. Based on known pharmacological information, Valproic acid is a well-established antiepileptic drug that — beyond its anticonvulsant properties — also inhibits histone deacetylases (HDACs). This HDAC inhibitory activity has attracted considerable interest in oncology research, as it can theoretically reactivate silenced tumor suppressor genes, impair cell cycle progression, and induce apoptosis and differentiation in neoplastic cells.
+Detailed mechanism of action data is not available in the data compiled for this report. From the published literature, valproic acid enhances GABAergic over glutamatergic transmission, blocks sodium channels and modulates T-type calcium channels, which raises the seizure threshold. It also inhibits histone deacetylase, which is of theoretical interest in oncology but not relevant to this indication.
 
-However, the link between VPA and trigeminal nerve neoplasm specifically is not well-supported at this time. While VPA's HDAC inhibitory activity provides a theoretical antineoplastic mechanism applicable across multiple tumor types, there is no established disease-specific pathway connecting it to tumors of the trigeminal nerve. The high TxGNN score (99.97%) most likely reflects VPA's broad connectivity in the knowledge graph with general neurological and neural tumor nodes, rather than a validated indication-specific pathway.
+Visual (photosensitive) epilepsy is a reflex seizure type within the generalized epilepsy spectrum, where valproate is already a standard treatment. The prediction therefore fits the drug's known pharmacology well. Support comes from reviews and from a randomized comparison of ethosuximide, valproic acid and lamotrigine in childhood absence epilepsy. That trial concerns a related but different syndrome.
 
-The sole available literature reference (PMID 9157801) is a Sturge-Weber syndrome case series in which VPA was employed for seizure control — not as an antineoplastic agent — and carries no direct relevance to trigeminal nerve neoplasm treatment. This gap significantly limits confidence in the prediction.
+**Other predicted indications (for context):**
 
----
+| Rank | Predicted Indication | Score | Evidence Level | Assessment |
+|------|------|------|------|------|
+| 1 | Trigeminal nerve neoplasm | 99.97% | L5 | Hold. No clear mechanistic link; the only paper is an unrelated case series |
+| 3 | Trigeminal neuralgia | 99.83% | L4 | Research question. Class-level reviews only; no valproate-specific trials, and not better supported than first-line carbamazepine or oxcarbazepine |
+| 4 | Eating seizures | 99.81% | L4 | Research question. Case reports only |
+| 5 | Startle epilepsy | 99.81% | L4 | Research question. A small study and case reports; hyperekplexia is a distinct disorder |
+| 6 | Thinking seizures | 99.81% | L4 | Hold. Literature does not address this entity |
+| 7 | Orgasm-induced seizures | 99.81% | L5 | Hold. No trials or literature |
+| 8 | Micturition-induced seizures | 99.81% | L5 | Hold. Literature is general epilepsy only |
+| 9 | Audiogenic seizures | 99.81% | L4 | Hold. Rodent models only |
+| 10 | Reading seizures | 99.79% | L4 | Research question. Indirect support via juvenile myoclonic epilepsy |
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Case series | Anales espanoles de pediatria | Review of 14 Sturge-Weber syndrome patients over 25 years; VPA used exclusively for seizure control, not as antineoplastic therapy — no direct relevance to trigeminal nerve neoplasm |
+|------|-----|------|------|---------|
+| [20200383](https://pubmed.ncbi.nlm.nih.gov/20200383/) | 2010 | RCT | N Engl J Med | Compared ethosuximide, valproic acid and lamotrigine as initial treatment in childhood absence epilepsy (a related syndrome, not visual epilepsy) |
+| [30592252](https://pubmed.ncbi.nlm.nih.gov/30592252/) | 2019 | Review | Curr Neuropharmacol | Valproic acid remains one of the most efficient antiepileptic drugs; broad actions on ion currents and GABAergic transmission |
+| [39786974](https://pubmed.ncbi.nlm.nih.gov/39786974/) | 2025 | Cohort | Future Oncol | Levetiracetam and valproic acid in glioma: antiseizure use and possible antineoplastic effects |
+| [37037506](https://pubmed.ncbi.nlm.nih.gov/37037506/) | 2023 | Review | Brain Nerve | Medical treatment of epilepsy, based on recent clinical practice guidelines |
+| [35976303](https://pubmed.ncbi.nlm.nih.gov/35976303/) | 2022 | Review | Arq Neuropsiquiatr | Diagnosis, monitoring and treatment of status epilepticus |
+| [39899098](https://pubmed.ncbi.nlm.nih.gov/39899098/) | 2025 | Review | Continuum | Treatment of first seizures, acute repetitive seizures and status epilepticus |
+| [32768086](https://pubmed.ncbi.nlm.nih.gov/32768086/) | 2020 | Review | Handb Clin Neurol | Epilepsy management in pregnancy, including antiseizure medication choice and counseling |
+| [26478444](https://pubmed.ncbi.nlm.nih.gov/26478444/) | 2015 | Review | CNS Oncol | Seizures in oligodendroglial tumors |
+| [1808081](https://pubmed.ncbi.nlm.nih.gov/1808081/) | 1991 | Review | Indian Pediatr | General review of valproic acid |
+| [36994516](https://pubmed.ncbi.nlm.nih.gov/36994516/) | 2023 | Preclinical | J Tradit Chin Med | Dingxian pill combined with valproic acid in a rat chronic epilepsy model |
 
----
+No publication directly studies visual epilepsy; the evidence is indirect.
 
 ## India Market Information
 
-Valproic acid is currently **not registered** in India. No license or approval records are available.
+The data compiled for this report list 20 valid single-ingredient registrations. No approved indication text is recorded for any of them. Five examples:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 188649 | Raival 500mg Tablet ER | Extended-release tablet | Not recorded |
+| 38619 | Convulex 500mg Tablet ER | Extended-release tablet | Not recorded |
+| 109837 | Ivalp 750mg Tablet XR | Extended-release tablet | Not recorded |
+| 205534 | Soval 500mg Tablet | Tablet | Not recorded |
+| 235102 | Valcot 500mg Tablet CR | Controlled-release tablet | Not recorded |
+
+All available forms are oral tablets (standard, ER, XR and CR).
 
 ## Safety Considerations
 
-**Drug Interactions** (248 total interactions identified; selected key interactions shown below):
+- **Contraindications suggested by the knowledge graph (not label text):** liver disease, pancreatitis, kidney disease, hematologic disease, thrombocytopenia, gallbladder disease, porphyria and other porphyrin metabolism diseases, urea cycle disorders (carbamoyl phosphate synthetase I deficiency, citrullinemia, hyperargininemia), cognitive disorder, anxiety disorder, neurotic disorder and dysthymic disorder.
+- **Drug interactions:** 248 interactions are recorded. The most serious listed is **glycerol phenylbutyrate (Major)**. Moderate interactions include bupropion, morphine, acetylsalicylic acid, clarithromycin, metoclopramide, diphenoxylate and difenoxin, dronabinol, nabilone and activated charcoal. Minor interactions include cimetidine, esomeprazole and several antacids (magnesium, aluminum and calcium salts).
+- **Other concerns from the literature:** teratogenicity in women of reproductive age, hepatotoxicity, and interaction with carbapenem antibiotics.
 
-| Interacting Drug | Severity | Clinical Note |
-|-----------------|----------|---------------|
-| Glycerol phenylbutyrate | **Major** | Clinically significant — avoid combination |
-| Bupropion | Moderate | Monitor for increased seizure risk |
-| Morphine | Moderate | Monitor for CNS depression potentiation |
-| Morphine (liposomal) | Moderate | Monitor for CNS depression potentiation |
-| Acetylsalicylic acid | Moderate | May displace VPA from protein binding; monitor levels |
-| Clarithromycin | Moderate | May inhibit VPA metabolism; monitor drug levels |
-| Activated charcoal | Moderate | Reduces VPA absorption if co-administered |
-| Difenoxin | Moderate | Monitor for enhanced CNS effects |
-| Diphenoxylate | Moderate | Monitor for enhanced CNS effects |
-| Dronabinol | Moderate | Monitor for additive CNS depression |
-| Metoclopramide | Moderate | Monitor for altered VPA pharmacokinetics |
-| Nabilone | Moderate | Monitor for additive CNS depression |
-| Cimetidine | Minor | May slightly elevate VPA levels |
-| Aluminum/Magnesium/Calcium antacids | Minor | Minimal effect; separate dosing if possible |
-
-Please refer to the package insert for complete warnings, contraindications, and hepatotoxicity/teratogenicity black-box warnings known to be associated with valproic acid.
-
----
+Package insert warnings and contraindications for the Indian products were not available; please refer to the package insert.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-Despite the TxGNN model's high prediction score (99.97%), there is no supporting clinical trial evidence and the sole literature reference has no direct relevance to trigeminal nerve neoplasm treatment. This is a purely model-driven prediction (L5) and cannot advance to clinical consideration without foundational preclinical evidence.
+Visual epilepsy is a reflex seizure type within the generalized epilepsy spectrum, where valproate is already established, so the prediction is pharmacologically plausible. Direct evidence is lacking, however: there are no trials, and support comes from reviews and a randomized trial in a related syndrome. The guardrails are teratogenicity, hepatotoxicity and the large number of drug interactions.
 
 **To proceed, the following is needed:**
-- Preclinical studies (in vitro or in vivo) specifically examining VPA's effect on trigeminal nerve neoplasm cell lines or animal models
-- Confirmation that HDAC-inhibitory plasma concentrations of VPA are achievable at trigeminal nerve tumor sites
-- At least one case report or case series documenting VPA use in trigeminal nerve neoplasm patients
-- Full MOA data retrieved from DrugBank to evaluate mechanistic specificity
-- CDSCO package insert review to characterize India-relevant safety profile, warnings, and contraindications
-- India regulatory pathway assessment before any clinical study design
+- Package insert warnings and contraindications for the Indian products, which are currently a blocking gap for safety screening
+- Detailed mechanism of action data from DrugBank
+- Approved indication text for the Indian registrations, to confirm whether this use is already covered
+- Studies directly addressing photosensitive or visually triggered seizures
+- A pregnancy and reproductive-age risk management plan
+- Review of the 248 recorded drug interactions, prioritising the Major interaction with glycerol phenylbutyrate
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

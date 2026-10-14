@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Bromocriptine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 119
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 ---
 
 # Bromocriptine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Bromocriptine: From Parkinson's Disease / Hyperprolactinemia to Schizophrenia
+# Bromocriptine: From Parkinson Disease to Congenital Disorder of Glycosylation with Defective Fucosylation
 
 ## One-Sentence Summary
 
-Bromocriptine is a dopamine D2/D3 receptor agonist with long-established use in Parkinson's disease, hyperprolactinemia, acromegaly, and type 2 diabetes (Cycloset formulation).
-The TxGNN model predicts potential therapeutic relevance in **schizophrenia**,
-with **3 clinical trials** and **20 publications** currently supporting this direction — though the mechanistic relationship is fundamentally paradoxical and requires careful patient stratification.
+Bromocriptine is a dopamine D2 receptor agonist, originally used for Parkinson disease, hyperprolactinaemia (including prolactin-producing pituitary tumours) and acromegaly.
+The TxGNN model ranks **congenital disorder of glycosylation with defective fucosylation** as its top prediction, but there are **0 clinical trials** and **0 publications** supporting it, so this is a model-only signal.
+Among the other top-ten predictions, schizophrenia has the most material (1 clinical trial, which targets metabolic comorbidity rather than psychosis itself) and retinal dystrophy has only preclinical and case-level literature.
 
 ---
 
@@ -43,78 +43,78 @@ with **3 clinical trials** and **20 publications** currently supporting this dir
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson's disease, hyperprolactinemia, acromegaly |
-| Predicted New Indication | Schizophrenia |
-| TxGNN Prediction Score | 99.73% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Original Indication | Parkinson disease, hyperprolactinaemia, acromegaly (the licence records contain no approved indication text) |
+| Predicted New Indication | Congenital disorder of glycosylation with defective fucosylation |
+| TxGNN Prediction Score | 99.83% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Bromocriptine is an ergot-derived dopamine agonist with high affinity for D2 and D3 receptors, along with partial D1 agonist activity and serotonin 5-HT2C agonist properties. In Parkinson's disease, its mechanism is straightforward: it directly stimulates post-synaptic D2 receptors to compensate for the loss of nigrostriatal dopamine neurons. This well-characterized dopaminergic pharmacology forms the basis for the TxGNN prediction in schizophrenia.
+Currently, detailed mechanism of action data is not available. Based on known information, bromocriptine is a dopamine D2 receptor agonist. Its efficacy in Parkinson disease, hyperprolactinaemia and acromegaly is established, and it acts mainly through dopaminergic signalling.
 
-Schizophrenia involves a spatially heterogeneous dopamine dysregulation: **mesolimbic hyperdopaminergia** drives positive symptoms (delusions, hallucinations), while **mesocortical hypodopaminergia** in the prefrontal cortex underlies negative symptoms (blunted affect, avolition, cognitive impairment) and accounts for the substantial unmet need in treatment. Standard antipsychotic drugs are D2 antagonists that effectively control positive symptoms but do little — and may even worsen — the prefrontal dopamine deficit. Bromocriptine, acting as a D2 agonist, theoretically targets the negative symptom domain by correcting this prefrontal hypo-dopaminergic state, particularly when used as an adjunct under the "umbrella" of a D2 antagonist antipsychotic.
+For the top-ranked prediction, no mechanistic link to fucosylation pathways is known. The very high score (99.83%) reflects graph-based similarity only and should not be read as biological support. The same applies to the other low-ranked predictions with no data, such as polymicrogyria with cerebellar hypoplasia, atypical glycine encephalopathy and hereditary demyelinating neuropathy.
 
-However, this mechanistic logic carries an inherent paradox: bromocriptine's D2 agonist activity in the mesolimbic system could simultaneously exacerbate positive symptoms. Published case reports have documented **bromocriptine-induced de novo psychosis** in predisposed individuals. A second, more established clinical niche exists: bromocriptine as an adjunct to reverse **antipsychotic-induced hyperprolactinemia**, since chronic D2 blockade in the pituitary raises prolactin, causing sexual dysfunction, osteoporosis, and metabolic disturbances. These two potential roles — negative symptom augmentation vs. prolactin management — have different risk-benefit profiles and must be assessed separately.
+Two other predictions have some plausibility:
+- **Retinal dystrophy:** A 2024 preclinical study (PMID 39009597) tested a combination of tamsulosin, metoprolol and bromocriptine in retinopathy models and reported mutation-agnostic efficacy. A 1991 case report treated Goldmann-Favre syndrome with cyclosporin A plus bromocriptine, where the effect of bromocriptine cannot be separated.
+- **Schizophrenia:** The dopamine hypothesis points in a mixed direction, because dopamine agonism could worsen psychosis. A 1993 case report (PMID 8120934) describes bromocriptine-induced schizophrenia. The one registered trial looks at metabolic effects, not antipsychotic efficacy.
 
 ---
 
 ## Clinical Trial Evidence
 
+For the top-ranked prediction (congenital disorder of glycosylation with defective fucosylation), currently no related clinical trials are registered.
+
+For reference, the only trial among the top-ten predictions is for schizophrenia:
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03575000](https://clinicaltrials.gov/study/NCT03575000) | Phase 4 | Not Yet Recruiting | 15 | Open-label adjunctive bromocriptine in schizophrenia patients with antipsychotic-induced prediabetes/insulin resistance; evaluates safety, tolerability, and metabolic benefit of bromocriptine as a Cycloset-class dopamine agonist added to existing antipsychotic regimens |
-| [NCT00315081](https://clinicaltrials.gov/study/NCT00315081) | Phase 3 | Unknown | 20 | Bromocriptine for risperidone-induced hyperprolactinemia in schizophrenic patients; endocrinological assessment with serial hormone measurement |
-| [NCT04181385](https://clinicaltrials.gov/study/NCT04181385) | Phase 2/3 | Unknown | 15 | Lipid and metabolic response to olanzapine in healthy adults; tests whether bromocriptine can counteract antipsychotic-induced metabolic disturbances (indirect relevance) |
+| [NCT03575000](https://clinicaltrials.gov/study/NCT03575000) | Phase 4 | Not yet recruiting | 15 | Open-label pilot of adjunctive bromocriptine for antipsychotic-associated impaired glucose tolerance/insulin resistance in schizophrenia with prediabetes; focuses on safety and tolerability, no controls, no results |
 
 ---
 
 ## Literature Evidence
 
+For the top-ranked prediction, currently no related literature is available.
+
+For reference, the most relevant items among the other top-ten predictions:
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31688399](https://pubmed.ncbi.nlm.nih.gov/31688399/) | 2019 | Systematic Review | J Clin Psychopharmacology | Meta-analysis of prodopaminergic agents (including bromocriptine) as adjuncts for negative symptoms of schizophrenia; evaluates evidence for dopamine agonist strategy targeting prefrontal hypodopaminergia |
-| [18480682](https://pubmed.ncbi.nlm.nih.gov/18480682/) | 2008 | RCT | J Clin Psychopharmacology | Randomised crossover comparing herbal preparation (Peony-Glycyrrhiza Decoction) vs bromocriptine for risperidone-induced hyperprolactinemia in schizophrenia patients |
-| [2643996](https://pubmed.ncbi.nlm.nih.gov/2643996/) | 1989 | Pilot RCT | Biological Psychiatry | Low-dose bromocriptine (2.5 mg/day) adjunct to haloperidol vs placebo in 30 schizophrenic patients; acute 29% improvement in total BPRS score within 24 hours in the bromocriptine arm |
-| [8561400](https://pubmed.ncbi.nlm.nih.gov/8561400/) | 1995 | Clinical Study | Annales Médico-Psychologiques | 12 schizophrenic patients on bromocriptine 7.5 mg/day + neuroleptic showed mean 29% improvement in total PANSS score at one month; supports adjunctive neuroleptic-bromocriptine combination |
-| [1679383](https://pubmed.ncbi.nlm.nih.gov/1679383/) | 1991 | Clinical Report/Pilot | Comprehensive Psychiatry | Open clinical exploration of bromocriptine combined with neuroleptics specifically for "negative schizophrenia"; theoretical basis in D2 agonism for prefrontal dopamine deficit |
-| [6574535](https://pubmed.ncbi.nlm.nih.gov/6574535/) | 1983 | Clinical Trial (small, uncontrolled) | Psychiatry Research | 10 chronic schizophrenics treated with escalating bromocriptine (up to 40 mg/day); psychopathological assessment via BPRS and prolactin response to haloperidol challenge |
-| [26573387](https://pubmed.ncbi.nlm.nih.gov/26573387/) | 2016 | Case Report | Nordic J Psychiatry | Early-onset schizophrenia on paliperidone: adjunctive bromocriptine resolved hyperprolactinemia and tremors and — strikingly — also improved negative symptoms; supports dual benefit hypothesis |
-| [21157697](https://pubmed.ncbi.nlm.nih.gov/21157697/) | 2011 | Clinical Observational | Pharmacopsychiatry | Disorganized schizophrenia patients did not deteriorate when exposed to dopamine agonists (cabergoline/bromocriptine) used for ablactation; suggests subgroup safety under specific conditions |
-| [8120934](https://pubmed.ncbi.nlm.nih.gov/8120934/) | 1993 | Case Report | J National Medical Assn | New-onset schizophrenia in a 53-year-old man 4 days after starting low-dose bromocriptine for macroprolactinoma; fully resolved within 5 days of discontinuation — confirms psychosis risk and dopamine hypothesis |
-| [33571431](https://pubmed.ncbi.nlm.nih.gov/33571431/) | 2021 | Structural Biology | Cell | Cryo-EM structures of human D1R and D2R signalling complexes at atomic resolution; establishes mechanistic framework for dopaminergic drugs (including bromocriptine) in Parkinson's disease, schizophrenia, and other neuropsychiatric disorders |
+| [39009597](https://pubmed.ncbi.nlm.nih.gov/39009597/) | 2024 | Preclinical | Nature Communications | Tamsulosin, metoprolol and bromocriptine combination suppressed cAMP and Ca2+ activity and showed mutation-agnostic efficacy in retinopathy models (retinal dystrophy) |
+| [1753674](https://pubmed.ncbi.nlm.nih.gov/1753674/) | 1991 | Case report | Klin Monatsbl Augenheilkd | Goldmann-Favre syndrome treated with cyclosporin A and bromocriptine; bromocriptine effect not separable |
+| [6574535](https://pubmed.ncbi.nlm.nih.gov/6574535/) | 1983 | Clinical study (10 patients) | Psychiatry Research | Bromocriptine in chronic schizophrenia, with effects on symptoms, sleep and prolactin response (schizophrenia) |
+| [8120934](https://pubmed.ncbi.nlm.nih.gov/8120934/) | 1993 | Case report | J Natl Med Assoc | Schizophrenia developed after starting bromocriptine for a macroprolactinoma and resolved after discontinuation (safety signal) |
+| [30805732](https://pubmed.ncbi.nlm.nih.gov/30805732/) | 2019 | Review | J Neural Transm | Overview of classical dopamine agonists including bromocriptine (schizophrenia, background) |
+| [39265262](https://pubmed.ncbi.nlm.nih.gov/39265262/) | 2024 | Systematic review | Schizophrenia Research | Insulin resistance as a modifiable pathway to cognitive dysfunction in schizophrenia (background) |
 
 ---
 
 ## India Market Information
 
-Bromocriptine currently has **no registered products** in India (CDSCO database). No authorization numbers, brand names, or approved indications on record.
+Bromocriptine is marketed in India, with 20 valid single-ingredient registrations. The main ones are:
 
-> Note: Bromocriptine is approved in multiple other markets (FDA, EMA) for Parkinson's disease, hyperprolactinemia, acromegaly, and type 2 diabetes. A regulatory pathway assessment would be needed before any India market application.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 79840 | Encript 5mg Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not stated in the data |
+| 75407 | Encript 2.5mg Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not stated in the data |
+| 26231 | Brom 2.5mg Tablet (Inga Laboratories) | Strip of 10 tablets | Not stated in the data |
+| 37799 | Criptin 2.5mg Tablet (DD Pharmaceuticals) | Strip of 10 tablets | Not stated in the data |
+| 29731 | Brom Syrup (Hi Tech Pharmaceuticals) | Bottle of 100 ml syrup | Not stated in the data |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions (87 total identified via DDInter):**
+- **Contraindications flagged in the knowledge graph (not label text):** hypertensive disorders, hypertension, liver disease, gallbladder disease, coronary artery disease, stroke and cerebrovascular disorders, cerebral infarction, and pre-eclampsia (severe, mild) including HELLP syndrome.
+- **Drug Interactions:** 87 interactions were identified. Major-level ones include **isometheptene** and **lorcaserin**. Moderate-level ones include morphine, clarithromycin, dronabinol, lansoprazole, metoclopramide, promethazine, ethanol, deferasirox and fostamatinib.
+- **Schizophrenia-specific signal:** a case report links bromocriptine to new-onset psychosis, so psychiatric risk needs attention if the schizophrenia direction is pursued.
 
-*Major interactions (require avoidance or mandatory clinical supervision):*
-- **Isometheptene**: Major — combined vasoconstrictive/sympathomimetic effects; risk of hypertensive crisis
-- **Lorcaserin**: Major — overlapping serotonergic and dopaminergic activity; serotonin syndrome risk
-
-*Clinically significant moderate interactions (selected):*
-- **Metoclopramide**: Dopamine antagonist; directly opposes bromocriptine's mechanism and reduces efficacy — combination should be avoided in psychiatric settings
-- **Promethazine**: Dopamine antagonism similarly reduces bromocriptine activity
-- **Clarithromycin**: CYP3A4 inhibitor; may significantly raise bromocriptine plasma levels and increase adverse effects
-- **Ethanol**: Enhanced CNS depression and hypotensive effects; advise abstinence
-- **Morphine / Opium / Difenoxin / Diphenoxylate**: Opioid co-administration enhances CNS/respiratory depression
-- **Amyl Nitrite**: Combined vasodilation may cause severe hypotension
-- **Dronabinol / Nabilone**: CNS depression potentiation
-- **Ioflupane I-123 (DaTscan)**: Bromocriptine may interfere with dopamine transporter imaging; discontinue before neuroimaging
+Please refer to the package insert for further safety information, since label warnings were not available for this report.
 
 ---
 
@@ -123,16 +123,13 @@ Bromocriptine currently has **no registered products** in India (CDSCO database)
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic basis for bromocriptine in schizophrenia is a double-edged sword — its D2 agonism could theoretically improve negative symptoms (prefrontal dopamine deficiency) but simultaneously carries a documented risk of exacerbating positive symptoms (mesolimbic hyperdopaminergia), which is directly contrary to the effect of standard-of-care antipsychotics. Current evidence is limited to small pilot trials, observational reports, and a systematic review (L3), with no completed large-scale Phase 3 RCT demonstrating net clinical benefit. The paradoxical mechanism, together with the documented case of bromocriptine-induced schizophrenia, means the risk-benefit ratio is unacceptably uncertain at this stage.
+The top-ranked prediction rests only on a graph-model score, with no trials, no literature and no plausible mechanistic link to fucosylation. The evidence level is L5. The schizophrenia direction (the only one with a registered trial) is a research question with a mixed safety direction, and its single trial concerns metabolic comorbidity.
 
 **To proceed, the following is needed:**
-
-- Resolve **DG001** (Blocking): Obtain and parse official package insert (CDSCO equivalent / FDA/EMA label) for complete contraindications and black-box warnings — this is a mandatory prerequisite before any safety evaluation
-- Resolve **DG002** (High): Retrieve full DrugBank mechanism of action data for bromocriptine to formally document receptor binding profile, pharmacodynamics, and pharmacokinetics
-- Establish a **regulatory pathway assessment** for India, given zero current CDSCO registrations
-- Clearly define the clinical use case before any trial design: **(a)** adjunctive treatment for antipsychotic-induced hyperprolactinemia (lower risk, precedent exists) vs **(b)** adjunctive treatment for negative symptoms (higher risk, requires Phase 2 RCT with strict inclusion criteria)
-- For the negative symptom indication: require **stable positive symptom control**, mandatory concomitant antipsychotic coverage, and consider biomarker stratification (prefrontal dopamine availability, D2 receptor occupancy imaging) to identify responder subgroups
-- Conduct a formal pharmacovigilance review of psychosis adverse events reported with bromocriptine use in published literature before any clinical development proceeds
+- Detailed mechanism of action data for bromocriptine
+- Package insert warnings and contraindications from Indian labelling, which are needed for safety screening
+- Biological rationale or preclinical data linking dopamine D2 agonism to glycosylation pathways
+- If pursuing a lower-ranked option, confirmation of whether bromocriptine is a component in PMID 39009597 and of the evidence quality for retinal dystrophy, or results from NCT03575000 for schizophrenia-related metabolic use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

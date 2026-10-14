@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ciclesonide
-parent: Moderate Evidence (L3-L4)
-nav_order: 181
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 182
+evidence_level: L5
 indication_count: 6
 ---
 
 # Ciclesonide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,100 +29,86 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-# Ciclesonide: From Asthma / Allergic Rhinitis to Atopic Eczema
+# Ciclesonide: From Asthma to Atopic Eczema
 
 ## One-Sentence Summary
 
-Ciclesonide is a second-generation inhaled corticosteroid (ICS) clinically established for asthma and allergic rhinitis, acting via its active metabolite des-ciclesonide to suppress glucocorticoid receptor-mediated airway inflammation.
-The TxGNN model predicts it may be effective for **Atopic Eczema** (score 99.96%), yet there are currently **no registered clinical trials** and **no direct supporting publications** for this specific application.
-While the mechanistic rationale is scientifically plausible, the absence of a topical skin formulation represents a critical route-compatibility gap that must be addressed before clinical development can proceed.
-
----
+Ciclesonide is an inhaled corticosteroid, originally used to treat asthma and allergic rhinitis.
+The TxGNN model predicts it may be effective for **atopic eczema**,
+but **no clinical trials and no publications** currently support this specific direction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available (not marketed in India; standard global use: asthma, allergic rhinitis) |
-| Predicted New Indication | Atopic Eczema |
+|------|------|
+| Original Indication | Asthma (including intrinsic and allergic asthma), allergic rhinitis, vasomotor rhinitis (from the knowledge graph; the approved indication text in India licences is blank) |
+| Predicted New Indication | Atopic eczema |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 19 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Ciclesonide is a prodrug that is converted by airway esterases into its pharmacologically active form, **des-ciclesonide**, following inhalation. Des-ciclesonide binds with high affinity to glucocorticoid receptors (GR), triggering suppression of pro-inflammatory gene transcription. This specifically downregulates **IL-4, IL-13, and TSLP** — the core cytokines driving Th2-polarised immune activation.
+Detailed mechanism of action data is not currently available in the data compiled for this report. Based on known pharmacology, ciclesonide is an inhaled corticosteroid prodrug. It is activated by esterases to des-ciclesonide, a glucocorticoid receptor agonist with anti-inflammatory activity.
 
-Atopic eczema (atopic dermatitis) is fundamentally a **Th2-skewed inflammatory disease**: its pathophysiology is driven by exactly the same IL-4/IL-13/TSLP axis that des-ciclesonide suppresses. This mechanistic alignment is not incidental — it is the reason why **topical corticosteroids (TCS) are the established first-line therapy** for atopic dermatitis worldwide, lending strong biological plausibility to the TxGNN prediction.
+Asthma, allergic rhinitis and atopic eczema are all allergic (atopic) inflammatory conditions, and corticosteroids are an established treatment for atopic eczema. A glucocorticoid-mediated mechanism is therefore plausible.
 
-However, the current gap is practical rather than mechanistic: ciclesonide exists only as an **inhaled aerosol and intranasal spray**, with no approved dermatological formulation. Realising this prediction would require either a purpose-built topical reformulation of ciclesonide, or evaluation of an alternative systemic route — both of which demand dedicated pharmacokinetic, safety, and efficacy studies before any clinical trial could proceed.
+There are important limits. The data show no dermal formulation or skin-specific pharmacology for ciclesonide, and all marketed products in India are inhaled or nasal. The high score is a model output with no clinical support behind it.
 
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Ciclesonide in Atopic Eczema.
-
----
+Other predictions point the same way:
+- **Dermatitis, atopic** is essentially the same disease concept as atopic eczema, so the two should be treated as one candidate, not two independent signals.
+- **Asthma-related traits, susceptibility to** is a genetic trait concept closely tied to the existing asthma indication. It likely reflects current use, not a new one.
+- **2-hydroxyethyl methacrylate sensitization** is a contact allergy managed mainly by allergen avoidance, so the rationale for an inhaled steroid is weak.
+- **Bronchitis** and **contact dermatitis** have only indirect literature (see below).
 
 ## Literature Evidence
 
-Currently no related literature available for Ciclesonide in Atopic Eczema.
+No literature directly addresses ciclesonide in atopic eczema. The only publications retrieved relate to other lower-ranked predictions:
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/) | 2015 | Review (guideline) | Basic & Clinical Pharmacology & Toxicology | Finnish guideline on diagnosis and pharmacotherapy of stable COPD. It gives indirect context for inhaled corticosteroids in chronic airway disease (linked to the bronchitis prediction), but is not specific to ciclesonide. |
+| [22957490](https://pubmed.ncbi.nlm.nih.gov/22957490/) | 2012 | Case report | Contact Dermatitis | Systemic allergic dermatitis caused by inhaled budesonide, with cross-reactivity in patch tests to ciclesonide (linked to the contact dermatitis prediction). This is a hypersensitivity safety signal, not evidence of benefit. |
 
 ## India Market Information
 
-Ciclesonide is **not currently marketed in India** and holds no product registrations with the Indian regulatory authority (CDSCO). No authorization records are available.
+There are 19 valid single-ingredient registrations. The approved indication text is blank in all records. The five below are examples:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 215349 | Triohale Rotacap (Cipla Ltd) | Packet of 30 rotacaps | Not stated |
+| 44473 | Ciclospray Nasal Spray (Cipla Ltd) | Packet of 100 MDI nasal spray | Not stated |
+| 215625 | Trimium Transhaler (Lupin Ltd) | Packet of 180 MDI Transhaler | Not stated |
+| 55530 | Cilomist HFA 160mcg Inhaler (Zydus Cadila) | Packet of 120 MDI inhaler | Not stated |
+| 249503 | Zovair Octacap Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 30 capsules | Not stated |
 
 ## Safety Considerations
 
-**Drug Interactions** — 63 interactions identified (DDInter database):
+- **Contraindications flagged in the knowledge graph** (not label text): herpes simplex virus keratitis, adrenocortical insufficiency, Addison disease, osteoporosis, postmenopausal osteoporosis, fungal infectious disease, dermatophytosis, ocular hypertension, glaucoma, parasitic infection.
+- **Drug interactions:** 63 interactions were identified. The main ones are:
+  - **Major:** cladribine.
+  - **Moderate:** clarithromycin, miconazole, cobicistat, fostamatinib, fosamprenavir, atazanavir, amprenavir, ceritinib, boceprevir, conivaptan, abametapir (topical) and inhaled rapid-acting human insulin.
+  - **Minor:** formoterol, salbutamol, arformoterol.
+  - **Level not graded:** omeprazole, lansoprazole, prednisolone, famotidine.
+- **Hypersensitivity:** a published case shows cross-reactivity between budesonide and ciclesonide in patch tests, so caution is warranted in patients with corticosteroid contact allergy.
 
-| Interacting Drug | Severity |
-|-----------------|----------|
-| Cladribine | **Major** |
-| Clarithromycin | Moderate |
-| Cobicistat | Moderate |
-| Atazanavir | Moderate |
-| Fosamprenavir | Moderate |
-| Amprenavir | Moderate |
-| Boceprevir | Moderate |
-| Ceritinib | Moderate |
-| Conivaptan | Moderate |
-| Fostamatinib | Moderate |
-| Miconazole | Moderate |
-| Insulin human (inhalation, rapid acting) | Moderate |
-| Abametapir (topical) | Moderate |
-| Formoterol | Minor |
-| Salbutamol | Minor |
-| Arformoterol | Minor |
-
-> The most significant interaction is with **Cladribine (Major)**, likely reflecting immunosuppression compounding. Multiple **CYP3A4 inhibitors** (clarithromycin, cobicistat, HIV protease inhibitors) are flagged at moderate severity, consistent with ciclesonide's known CYP3A4-dependent metabolism.
-
-> Key warnings and contraindications data are not available in the current evidence pack. Please refer to the official package insert (EMA/US FDA SmPC) for complete safety and contraindication information.
-
----
+Please refer to the package insert for warnings and complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Although TxGNN's prediction is mechanistically coherent — the Th2/GR pathway alignment between ciclesonide's pharmacology and atopic eczema's pathophysiology is genuine — there is **zero clinical or published evidence** specifically supporting this use, and ciclesonide's existing formulations are incompatible with dermatological application. The route-compatibility gap is a blocking prerequisite, not a minor detail.
+The prediction score is high (99.96%), and corticosteroids are a plausible class for atopic eczema. However, there are no clinical trials or literature for ciclesonide in this indication (L5), no dermal formulation exists, and the only related publication points to a hypersensitivity risk.
 
 **To proceed, the following is needed:**
-- **Formulation feasibility**: Determine whether ciclesonide can be reformulated as a topical skin preparation (cream/ointment), or whether an oral/systemic route could be justified for moderate-to-severe atopic dermatitis
-- **Preclinical data**: Commission skin penetration studies and in vitro/in vivo atopic dermatitis model testing with reformulated ciclesonide
-- **MOA documentation**: Retrieve complete mechanism of action data from DrugBank (DB01410) to formalise the mechanistic dossier
-- **Regulatory safety review**: Download and parse the EMA/FDA package insert to extract key warnings, contraindications, and special population restrictions
-- **Competitive context analysis**: Evaluate differentiation opportunity against widely available generic topical corticosteroids (e.g., hydrocortisone, betamethasone) and newer biologics (dupilumab) in the atopic dermatitis market
+- Mechanism of action data and a mechanism-based comparison with established topical corticosteroids
+- Package insert warnings and contraindications for the Indian products
+- Preclinical or early clinical evidence of ciclesonide in atopic dermatitis
+- Assessment of route and formulation feasibility, since current products are inhaled or nasal only
+- A safety plan covering corticosteroid cross-reactivity and the contraindicated conditions listed above
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

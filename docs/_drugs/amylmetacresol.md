@@ -29,101 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Amylmetacresol: From Antiseptic/Throat Infections to Cauda Equina Syndrome
+# Amylmetacresol: From Throat Lozenge Antiseptic to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Amylmetacresol is a phenolic antiseptic compound commonly used in over-the-counter throat lozenge formulations to relieve minor throat infections and mouth discomfort.
-The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**, achieving a prediction score of **99.99%**.
-However, there are currently **0 clinical trials** and **0 publications** supporting this direction, and all predictions in this batch are classified as **L5** (model prediction only), with a recommendation to **Hold**.
-
----
+Amylmetacresol is a local antiseptic used in throat lozenges, marketed in India in several cough and sore-throat lozenge products.
+The TxGNN model predicts it may be relevant for **cauda equina syndrome**, but this is a purely computational prediction with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Topical antiseptic; throat/mouth infection relief (OTC lozenge formulations) |
-| Predicted New Indication | Cauda Equina Syndrome |
+|------|------|
+| Original Indication | Not stated in the registration data (marketed as throat/cough lozenges) |
+| Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 6 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (MOA Data Gap). Based on known information, Amylmetacresol is a phenolic antiseptic compound widely used in combination OTC throat lozenges (e.g., Strepsils, in combination with dichlorobenzyl alcohol). Its broad-spectrum antimicrobial and mild local anesthetic properties have been validated for oral/pharyngeal mucosal applications.
+Currently, detailed mechanism of action data is not available. Based on known information, amylmetacresol is a single-ingredient topical antiseptic used in oropharyngeal lozenges, with minimal systemic exposure expected from lozenge use.
 
-Cauda Equina Syndrome is a neurological emergency caused by compression of the lumbar nerve roots at the base of the spinal cord, primarily requiring surgical decompression. The pathophysiology is anatomical and mechanical in nature — there is no recognized pharmacological pathway connecting a topical antiseptic/disinfectant mechanism to nerve root decompression or neurological recovery.
+The predicted indication, cauda equina syndrome, is a compressive neurological emergency that requires surgical decompression. There is no plausible pharmacological route from a local throat antiseptic to this condition. The high score (0.9999) reflects a graph-based association, not a biological rationale.
 
-The extremely high TxGNN score (99.99%) for this indication — alongside a similarly high ranking for multiple anatomically unrelated conditions (neurogenic bladder, uveitis, IBS, and several ciliary body diseases) — strongly suggests a **false positive driven by training data sparsity** rather than a genuine biological signal. The absence of any supporting clinical trials or literature across all 10 predicted indications further reinforces this interpretation.
-
----
+The other top predictions are also unsupported. They include an obsolete neurogenic bladder entry (likely a knowledge-graph artifact), irritable bowel syndrome, and several eye conditions (uveitis, panuveitis, iris and ciliary body diseases and neoplasms). None has clinical, literature, or mechanistic backing. The only weak, speculative link is infectious anterior uveitis, based on the drug's in-vitro antibacterial and antiviral activity in the throat. There is no evidence of intraocular penetration or ocular safety.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
-Amylmetacresol currently has **no registered products** in India. No authorization records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 219813 | Tusq-D Lozenges Ginger | Strip of 6 lozenges | Not stated |
+| 248366 | Zedex Lozenges | Strip of 10 lozenges | Not stated |
+| 215973 | Tusq-D Cough Lozenges Honey Lemon | Strip of 6 lozenges | Not stated |
+| 37682 | Cof Q Lozenges | Strip of 6 lozenges | Not stated |
+| 214969 | Tusq-D Cough Lozenges Sugar Free | Strip of 6 lozenges | Not stated |
 
----
+One further registration (214990, Tusq-D Cough Lozenges Orange) is also valid. All 6 registrations are single-ingredient products with valid status.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-> ⚠️ **Note:** Both key warnings and contraindications data are unavailable for this drug in the current evidence pack. No drug-drug interaction records were identified. Full safety assessment should be completed before any further evaluation stage.
-
----
-
-## Full Prediction Overview (All 10 Ranked Indications)
-
-All 10 predicted indications are at Evidence Level **L5** with a **Hold** recommendation. The pattern of predictions is notable:
-
-| Rank | Disease | TxGNN Score | Key Concern |
-|------|---------|-------------|-------------|
-| 1 | Cauda Equina Syndrome | 99.99% | No mechanistic link to antiseptic MOA; surgical condition |
-| 2 | Neurogenic Bladder (obsolete term) | 99.96% | Obsolete OMOP/MONDO terminology; no MOA link |
-| 3 | Irritable Bowel Syndrome | 99.89% | Non-selective gut microbiome disruption risk |
-| 4 | Ciliary Body Disease | 99.70% | Ocular safety unknown; broad disease category |
-| 5 | Panuveitis | 99.68% | Ocular penetration/safety data absent |
-| 6 | Iris Disease | 99.63% | Likely KG ontology cluster artifact |
-| 7 | Infectious Anterior Uveitis | 99.57% | Conceptually closest match but no ocular delivery data |
-| 8 | Uveitis | 99.53% | Overlaps with rank 5–7; ontology clustering suspected |
-| 9 | Ciliary Body Cancer | 99.46% | No antineoplastic mechanism; high false-positive risk |
-| 10 | Benign Neoplasm of Ciliary Body | 99.45% | Minimal pharmacological treatment need |
-
-**Pattern observation:** Ranks 4–10 are dominated by ocular anterior segment diseases (ciliary body, iris, uvea), strongly suggesting a **knowledge graph ontology clustering artifact** rather than distinct independent predictions.
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found, and no contraindication edges were identified in the knowledge graph.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 predicted indications lack any supporting clinical or preclinical evidence (L5), the drug's mechanism of action is undocumented in the current evidence pack, and the prediction pattern shows clear signs of knowledge graph false positives (ontology clustering in ocular diseases, training data sparsity in neurological indications). There is currently no scientific basis to advance any of these candidates to the next evaluation stage.
+The prediction rests only on a graph-based score. No clinical trials, publications, or plausible mechanism support using a local throat antiseptic for cauda equina syndrome. The same holds for the other nine predicted indications.
 
 **To proceed, the following is needed:**
-
-- **MOA characterization**: Obtain full mechanism of action data from DrugBank or primary literature to determine whether Amylmetacresol has any systemic or non-antiseptic biological activities
-- **False positive investigation**: Audit TxGNN training data density for the 10 predicted disease nodes to confirm the clustering artifact hypothesis
-- **Ontology deduplication**: Consolidate the 7 ocular indications (ranks 4–10) into a single representative candidate (suggested: Infectious Anterior Uveitis, rank 7) before further evaluation
-- **Safety baseline**: Retrieve the full CDSCO/TFDA package insert or equivalent regulatory label to complete the S1 safety pre-screening
-- **India registration review**: Determine whether any Amylmetacresol-containing products (combination lozenges) are registered in India under combination drug categories, which may have been missed by single-ingredient search
+- Package insert warnings and contraindications from the India regulator's product information (currently blocking for safety screening)
+- Mechanism of action data for amylmetacresol
+- A credible biological rationale linking the drug to the predicted condition, plus evidence that the drug can reach the target tissue (the current lozenge route is local and oropharyngeal)
+- Any preclinical or clinical evidence for the predicted indication, or review of whether a different candidate indication is more plausible
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

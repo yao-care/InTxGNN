@@ -2,7 +2,7 @@
 layout: default
 title: Riluzole
 parent: Model Prediction Only (L5)
-nav_order: 734
+nav_order: 741
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,91 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Riluzole: From Amyotrophic Lateral Sclerosis to Bilateral Parasagittal Parieto-Occipital Polymicrogyria
+# Riluzole: From Amyotrophic Lateral Sclerosis to Bilateral Parasagittal Parieto-occipital Polymicrogyria
 
 ## One-Sentence Summary
 
-> Riluzole is a glutamate-modulating neuroprotective agent whose only well-established clinical indication is amyotrophic lateral sclerosis (ALS).
-> The TxGNN model's **top-ranked** prediction is **Bilateral Parasagittal Parieto-Occipital Polymicrogyria**, a cortical malformation disorder,
-> but this prediction is supported by **0 clinical trials** and **0 publications**, and the evidence pack's own rationale flags it as a likely false-positive with no mechanistic plausibility.
-
----
+Riluzole is an oral drug originally used to treat amyotrophic lateral sclerosis (ALS).
+The TxGNN model predicts it may be effective for **bilateral parasagittal parieto-occipital polymicrogyria**, but **no clinical trials and no publications** currently support this specific prediction.
+It is a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not present in registry data (drug not marketed locally); established clinical indication is **Amyotrophic Lateral Sclerosis (ALS)**, per literature cited elsewhere in this evidence pack |
-| Predicted New Indication | Bilateral Parasagittal Parieto-Occipital Polymicrogyria |
+| Original Indication | Amyotrophic lateral sclerosis |
+| Predicted New Indication | Bilateral parasagittal parieto-occipital polymicrogyria |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for riluzole is not available in this evidence pack (`original_moa` is a data gap). However, elsewhere in the pack — in the rationale for a lower-ranked candidate (ALS susceptibility, rank 8) — riluzole's mechanism is described as inhibition of presynaptic glutamate release, blockade of voltage-gated sodium channels, and antagonism of glutamate receptors, reducing motor-neuron excitotoxicity. This is consistent with riluzole's well-known role as the first approved disease-modifying therapy for ALS.
+Currently, detailed mechanism of action data is not available. Based on known information, riluzole is an established treatment for ALS and is generally described in the literature as acting on glutamate neurotransmission. Mechanistically, it might be applicable to a neurodevelopmental cortical malformation through glutamate modulation.
 
-For the top-ranked prediction, **bilateral parasagittal parieto-occipital polymicrogyria**, the evidence pack's own repurposing rationale is explicit that this link is **not** mechanistically sound: polymicrogyria is a disorder of neuronal migration during cortical development, whereas riluzole acts on excitotoxic injury in mature motor neurons. There is no known developmental or migrational pathway targeted by riluzole. The rationale text states this is "a TxGNN high-score prediction lacking mechanistic plausibility or any supporting evidence."
+That link is speculative. Polymicrogyria is a structural malformation of the cortex that arises during development, and nothing in the data compiled for this report shows that dampening glutamate signalling would change its course. The very high score (99.99%) reflects the model's pattern matching and is not clinical evidence.
 
-Given this, the prediction should be treated as a candidate for further model/data-quality investigation rather than a scientifically grounded repurposing hypothesis at this stage.
-
----
+Other top-ranked predictions are closer to the original indication, such as lower motor neuron syndrome with late-adult onset, monomelic amyotrophy, Mills syndrome, and ALS subtypes. They have some biological overlap with motor neuron disease, but they also lack trials or publications specific to those conditions.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the predicted indication.
 
----
+For context, 20 publications were retrieved for a different prediction, the ALS susceptibility label (rank 8). These are mostly reviews on ALS pathophysiology and glutamate excitotoxicity, and they do not address polymicrogyria. Examples:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [9178165](https://pubmed.ncbi.nlm.nih.gov/9178165/) | 1997 | Review | Journal of neurology | Glutamate excitotoxicity as a major mechanism of motor neuron injury in ALS |
+| [21128691](https://pubmed.ncbi.nlm.nih.gov/21128691/) | 2011 | Review | CNS drugs | Riluzole is the only medication shown to modestly prolong survival in ALS |
+| [42161327](https://pubmed.ncbi.nlm.nih.gov/42161327/) | 2026 | Genetic association study | Brain | CYP2D6 variants studied for ALS risk and survival |
 
 ## India Market Information
 
-No registration records found. Riluzole is not currently marketed in India/Taiwan under the regulatory data reviewed (`total_licenses = 0`), so no product/dosage-form/indication table can be produced.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 184257 | Rilutor 50mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the available data |
 
 ## Safety Considerations
 
-**Drug Interactions**: A DDI query returned 44 total interactions on record. Notable Moderate-severity interactions include:
+- **Conditions flagged as contraindication-related (from the knowledge graph, not label text)**: neutropenia, agranulocytosis, substance abuse/dependence, hyperbilirubinemia, hereditary hyperbilirubinemia, Gilbert syndrome, interstitial lung disease, drug-induced liver injury.
+- **Liver safety**: a 2020 modelling study reports that about 50% of ALS patients on oral riluzole 50 mg tablets have ALT above the upper limit of normal, about 8% above 3× ULN and about 2% above 5× ULN.
+- **Drug Interactions**: 44 interactions were identified. Moderate-level interactions include obeticholic acid, naltrexone, deferasirox, osilodrostat, anagrelide, asparaginase *Escherichia coli*, brentuximab vedotin, clofarabine, methotrexate, and epirubicin. Minor-level interactions include omeprazole, caffeine, theophylline, and aminophylline.
 
-- Obeticholic acid
-- Naltrexone
-- Deferasirox
-- Osilodrostat
-- Anagrelide
-- Asparaginase Escherichia coli
-- Brentuximab vedotin
-- Clofarabine
-- Methotrexate
-- Epirubicin
-
-(Minor: Omeprazole, Caffeine, Theophylline, Aminophylline; several others rated "Unknown" severity — e.g., Metformin, Simvastatin, Ranitidine, Salbutamol, Ibuprofen, Cyanocobalamin.)
-
-Formal package-insert warnings and contraindications are not available in this evidence pack; please refer to the official label once obtained.
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked TxGNN prediction (polymicrogyria) has no clinical, literature, or mechanistic support, and the evidence pack itself identifies it as a probable false-positive knowledge-graph association. Pursuing this candidate is not justified at this time.
+The prediction rests on a model score alone. There are no clinical trials or publications for polymicrogyria, and a plausible mechanism has not been established. Riluzole is already marketed in India for ALS, but that does not support this new use.
 
 **To proceed, the following is needed:**
-- Resolve blocking data gap DG001 (TFDA/regulatory label — warnings and contraindications) before any safety evaluation can proceed
-- Resolve data gap DG002 (confirmed MOA from DrugBank) to support or refute mechanistic linkage claims
-- Independent review of the TxGNN ranking methodology, since the highest-scored candidate in this run lacks mechanistic plausibility while a lower-ranked, evidence-rich candidate (ALS susceptibility, rank 8, L1/S3) corresponds to riluzole's already-approved indication rather than a novel repurposing opportunity
-- If genuine novel candidates are desired, consider re-examining mid-ranked motor-neuron-disease-adjacent predictions in this pack (e.g., late-adult-onset lower motor neuron syndrome, Mills syndrome, ALS type 22) that at least share a plausible excitotoxicity-based mechanistic rationale, even though none currently have clinical trial or literature support
+- Package insert warnings and contraindications for the Indian product, which are needed before any safety screening
+- Riluzole's mechanism of action data
+- Preclinical or mechanistic evidence linking glutamate modulation to polymicrogyria
+- Reassessment of closer ALS-spectrum predictions (lower motor neuron syndrome, monomelic amyotrophy, ALS subtypes), which may be better candidates for subtype-stratified evidence
+- Hepatic and haematological monitoring plans, given the liver-related and neutropenia/agranulocytosis flags
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

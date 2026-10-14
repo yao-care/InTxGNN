@@ -33,33 +33,31 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Benzonatate is a non-opioid antitussive (cough suppressant) that acts via local anesthetic mechanisms on pulmonary stretch receptors, and is currently not marketed in India (0 registered products).
-The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**,
-however, **no clinical trials** and **no published literature** currently support this repurposing direction, placing it at the lowest evidence tier.
+Benzonatate is an oral cough suppressant marketed in India as single-ingredient capsules. The TxGNN model predicts it may be effective for **cauda equina syndrome**, but **no clinical trials and no publications** currently support this prediction, so it rests on the model score alone.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Cough suppression (antitussive) |
-| Predicted New Indication | Cauda Equina Syndrome |
+|------|------|
+| Original Indication | Not stated in the India license records (the drug is generally known as a cough suppressant) |
+| Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.66% |
-| Evidence Level | L5 — Model prediction only, no actual studies found |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on known pharmacological information, Benzonatate belongs to the para-aminobenzoic acid ester class of local anesthetics and is structurally related to tetracaine. Its established antitussive effect is mediated by anesthetizing the stretch receptors in the respiratory tract, thereby suppressing the cough reflex via afferent vagal nerve pathways.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, benzonatate is a local anaesthetic-like agent that blocks voltage-gated sodium channels in peripheral sensory nerves and stretch receptors, which is how it suppresses the cough reflex.
 
-Cauda equina syndrome (CES) is caused by compression of the bundle of spinal nerve roots below the L1 vertebra, producing radicular pain, motor weakness, and autonomic dysfunction. The theoretical mechanistic link between Benzonatate and CES may lie in its local anesthetic activity on peripheral and spinal sensory nerve fibers — a property that underpins the broader use of local anesthetics (such as lidocaine and bupivacaine) in neuraxial pain management. If Benzonatate's anesthetic action can extend to dorsal root ganglion afferents or nerve root membranes, it may theoretically modulate the neuropathic pain component of CES.
+A possible link to cauda equina syndrome is modulation of nociceptive or neuropathic signalling through sodium channel blockade. This link is speculative. Cauda equina syndrome is a surgical emergency caused by mechanical compression of nerve roots, and a sodium channel blocker would not treat that cause. At most, it might play a symptomatic role.
 
-However, this mechanistic link is entirely speculative at present. Benzonatate is administered orally for systemic antitussive effect, while achieving therapeutic concentrations at compressed spinal nerve roots would require a very different pharmacokinetic profile or delivery route. Without any preclinical, translational, or clinical data to support this leap, the TxGNN prediction — while algorithmically high-confidence — currently lacks biological plausibility evidence adequate for advancement.
+The second prediction, **obsolete neurogenic bladder (disease)**, has a TxGNN score of 99.39%. The theoretical rationale is that blocking sodium channels in sensory afferents could dampen bladder C-fibre signalling. The disease entry is marked "obsolete" in the ontology, so it probably maps to a broader neurogenic lower urinary tract dysfunction concept. It also has no supporting trials or literature.
 
 ---
 
@@ -75,15 +73,22 @@ Currently no related literature available.
 
 ---
 
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 120994 | Lupin's Benz Pearls Capsule | Strip of 10 soft gelatin capsules | Not stated |
+| 25866 | Benz 100mg Capsule | Strip of 12 capsules | Not stated |
+
+Both licenses are valid single-ingredient oral products from Lupin Ltd.
+
+---
+
 ## Safety Considerations
 
-**Drug Interactions:** One moderate-severity interaction identified:
+- **Drug Interactions**: One interaction was identified in the DDInter database: **tizanidine** (Moderate severity).
 
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Tizanidine | Moderate | CNS depressant combination; may enhance sedation or muscle relaxation. Monitor closely if co-administered. |
-
-For complete warnings and contraindications, please refer to the full package insert (TFDA/CDSCO-approved labelling), as this data was not available in the current Evidence Pack.
+For other safety information, such as warnings and contraindications, please refer to the package insert.
 
 ---
 
@@ -92,17 +97,15 @@ For complete warnings and contraindications, please refer to the full package in
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high computational score (99.66%) to the Benzonatate–Cauda Equina Syndrome pair, but zero supporting clinical trials and zero supporting publications were found. With L5 evidence (model prediction only), there is insufficient basis to advance this candidate without further investigation.
+The high TxGNN scores (99.66% for cauda equina syndrome and 99.39% for obsolete neurogenic bladder) are model predictions only, with no clinical trials or literature behind them. The proposed mechanism is speculative, and cauda equina syndrome is driven by mechanical compression that sodium channel blockade would not address.
 
 **To proceed, the following is needed:**
-
-- **Mechanism confirmation**: Obtain full MOA data from DrugBank API (DG002); confirm whether Benzonatate's local anesthetic effect reaches spinal nerve roots at therapeutically relevant concentrations
-- **Preclinical evidence search**: Broaden literature search to include animal models of nerve root compression, neuropathic pain, or cauda equina injury with local anesthetic agents
-- **Safety data gap**: Retrieve TFDA/CDSCO prescribing information to document official warnings and contraindications (DG001)
-- **Route compatibility assessment**: Evaluate whether existing oral formulations can achieve target nerve root exposure, or whether an alternative delivery route (e.g., epidural, intrathecal) would be required — noting this would constitute a new drug product, not a simple repurposing
-- **Feasibility review**: Consult a neurologist or spine surgeon to evaluate the clinical unmet need and whether Benzonatate's profile could realistically compete with established treatments for CES (surgical decompression, corticosteroids)
-
-> ⚠️ *This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any clinical application.*
+- Package insert warnings and contraindications from the India Pharma source, which are needed for safety screening
+- Detailed mechanism of action data (for example, from DrugBank)
+- Approved indication text for the two India licenses
+- Preclinical or clinical evidence showing a benefit in cauda equina syndrome or neurogenic bladder symptoms
+- Clarification of which current disease concept the "obsolete neurogenic bladder" entry maps to
+- Route compatibility assessment for the proposed new indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Losartan
-parent: Moderate Evidence (L3-L4)
-nav_order: 499
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 504
+evidence_level: L5
 indication_count: 8
 ---
 
 # Losartan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,96 +33,77 @@ Evidence Level: **L4** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-Losartan is a selective angiotensin II type 1 (AT1) receptor blocker (ARB), clinically proven for the treatment of hypertension and diabetic nephropathy.
-The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease**, with **0 clinical trials** and **1 publication** currently supporting this direction.
-The mechanistic rationale is strong—RAAS overactivation is a core driver of malignant hypertensive nephrosclerosis—but dedicated clinical evidence remains absent.
-
----
+Losartan is an angiotensin II receptor blocker originally used to treat hypertension and diabetic nephropathy.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**,
+but the data compiled for this report contain **no clinical trials** and only **1 supporting publication** (an animal model study).
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension, Diabetic Nephropathy |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
+|------|------|
+| Original Indication | Hypertension, hypertensive disorder, diabetic nephropathy (from the knowledge graph; no approved indication text is available in the India license records) |
+| Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.73% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacology, Losartan is a selective AT1 receptor antagonist that competitively blocks angiotensin II from binding to its primary receptor subtype. This prevents angiotensin II from triggering vasoconstriction, aldosterone secretion, sodium retention, and downstream pro-inflammatory signalling—including the NF-κB pathway. Its efficacy in essential hypertension and hypertensive nephropathy has been well-established in landmark clinical trials such as LIFE and RENAAL.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, losartan blocks the angiotensin II type 1 (AT1) receptor. Its efficacy in hypertension and diabetic kidney disease is established, and mechanistically it may be applicable to hypertensive kidney injury.
 
-Malignant hypertensive renal disease (malignant hypertensive nephrosclerosis) is defined by severely uncontrolled blood pressure causing acute end-organ injury to the kidneys, characterised histologically by fibrinoid necrosis of arterioles and onion-skin intimal hyperplasia. The central pathological driver is RAAS overactivation—angiotensin II exerts intense afferent arteriolar vasoconstriction, promotes glomerular ischaemia, and amplifies NF-κB-mediated renal inflammation. This pathophysiology maps directly onto Losartan's mechanism of action, making the TxGNN prediction mechanistically coherent.
+Malignant hypertensive renal disease is a severe form of kidney damage driven by very high blood pressure. It overlaps closely with losartan's existing uses in blood pressure control and renal protection. The only supporting paper is a rat model study showing that angiotensin II and NF-κB signaling contribute to malignant hypertensive nephrosclerosis. This makes AT1 blockade biologically plausible, but it is preclinical evidence only.
 
-Supportive animal evidence (PMID 30809002) demonstrates the pathogenic role of angiotensin II and the NF-κB system in a rat model of malignant hypertensive nephrosclerosis. While renin-angiotensin blockade is already recommended in chronic hypertensive nephrosclerosis, the specific application in the acute malignant phenotype—where the safety balance (risk of precipitous renal function decline) requires careful evaluation—has not been formalised through dedicated clinical trials, leaving a clear research gap that this prediction highlights.
-
----
+Other predictions in the list have similarly limited support:
+- **Malignant renovascular hypertension** (score 99.73%, L4): one case report of enalapril plus losartan in Takayasu's arteritis and one rat methods paper. ARBs can reduce renal perfusion in bilateral renal artery stenosis, so caution is needed.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.71%, L4): a small human study showed losartan abolished intermittent-hypoxia-induced oxidative stress, and rat studies link AT1 blockade to hypoxia-induced right ventricular hypertrophy. A high-altitude trial found no benefit. No study tests pulmonary hypertension outcomes in patients.
+- **Brain small vessel disease 1 with or without ocular anomalies** (score 99.37%, L4): evidence is indirect, drawn from Marfan syndrome ARB reviews, Alport syndrome, and sporadic small vessel disease studies.
+- Pulmonary hypertension with unclear multifactorial mechanism, Braddock syndrome, Prinzmetal angina, and a rare COL4A1-related hematuria syndrome are prediction-only, with no trials or literature.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Losartan in malignant hypertensive renal disease.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [30809002](https://pubmed.ncbi.nlm.nih.gov/30809002/) | 2019 | Animal/Mechanistic | Hypertension Research | In a rat model where NF-κB inhibition during lactation induced adult-onset hypertension, uninephrectomy plus salt overload unmasked latent renal dysfunction and promoted malignant hypertensive nephrosclerosis; angiotensin II and the NF-κB pathway were identified as key pathogenic drivers, directly supporting the rationale for AT1 receptor blockade |
-
----
+|------|-----|------|------|---------|
+| [30809002](https://pubmed.ncbi.nlm.nih.gov/30809002/) | 2019 | Preclinical animal model | Hypertension Research | Angiotensin II and the NF-κB system play a pathogenic role in a rat model of malignant hypertensive nephrosclerosis |
 
 ## India Market Information
 
-Losartan (DB00678) is **not currently registered or marketed in India**. No CDSCO authorization records are on file (0 total licenses). A formal marketing authorization application would be required before any clinical use.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 126491 | Lopassium 50mg Tablet | Strip of 10 tablets | Not stated |
+| 133326 | Losawun 25mg Tablet | Strip of 10 tablets | Not stated |
+| 94577 | Giftan-HC Tablet | Strip of 10 tablets | Not stated |
+| 128730 | Losaline H 50mg/12.5mg Tablet | Strip of 10 tablets | Not stated |
+| 1374 | Amlozaar Tablet | Strip of 15 tablets | Not stated |
 
----
+All 20 registrations are currently valid. Only the first 5 are listed here.
 
 ## Safety Considerations
 
-**Drug Interactions (253 total known interactions; selected clinically significant interactions shown):**
+- **Contraindication signals from the knowledge graph** (disease-level links, not label text): pancreatitis, liver disease, gallbladder disease, systemic lupus erythematosus, potassium deficiency, diabetes mellitus, diabetic ketoacidosis, hypotensive disorder, hyperparathyroidism, hepatic coma/encephalopathy, neonatal jaundice, anuria, gout, hypercalcemia, nephrocalcinosis, renal artery obstruction, and impaired renal function. These should be verified against the official label, since several appear to reflect combination products such as losartan with hydrochlorothiazide.
+- **Drug Interactions**: 253 interactions were recorded. Major interactions include **potassium citrate** and **potassium bicarbonate** (risk of hyperkalaemia). Moderate interactions include corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin), insulins, acetylsalicylic acid, morphine, bupropion, aprepitant and dronabinol.
+- **Renal perfusion caution**: ARBs can reduce renal perfusion in bilateral renal artery stenosis, which is relevant to the renovascular hypertension prediction.
 
-Major interactions requiring close management or avoidance:
-
-| Interacting Drug | Level | Clinical Concern |
-|-----------------|-------|-----------------|
-| Potassium citrate | **Major** | Additive potassium retention; risk of life-threatening hyperkalemia |
-| Potassium bicarbonate | **Major** | Additive potassium retention; risk of hyperkalemia |
-
-Selected moderate interactions of practical importance:
-
-| Interacting Drug | Level | Clinical Concern |
-|-----------------|-------|-----------------|
-| Corticosteroids (Hydrocortisone, Dexamethasone, Betamethasone, Budesonide, Triamcinolone) | Moderate | Corticosteroids antagonise antihypertensive effect and promote sodium/water retention |
-| SGLT2 Inhibitors (Canagliflozin, Dapagliflozin, Empagliflozin) | Moderate | Additive blood pressure–lowering and volume-depleting effects; monitor for hypotension and acute kidney injury |
-| Insulins (Insulin aspart, Insulin glargine, Insulin human isophane) | Moderate | ARBs may enhance insulin sensitivity; monitor blood glucose for hypoglycaemia |
-| Acetylsalicylic acid | Moderate | NSAIDs/aspirin may blunt antihypertensive efficacy and increase risk of renal impairment |
-| Morphine | Moderate | Additive hypotensive effect; monitor blood pressure |
-| Aprepitant | Moderate | CYP3A4 interaction may alter Losartan exposure |
-| Bupropion | Moderate | Monitor for blood pressure changes |
-
-Please refer to the package insert for complete key warnings and contraindications, which were not available in this Evidence Pack.
-
----
+Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic case for Losartan in malignant hypertensive renal disease is highly plausible—AT1 receptor blockade directly targets the RAAS overactivation underpinning the disease—but current evidence is limited to a single animal/mechanistic study (L4), with no registered clinical trials and no India marketing authorisation in place. Critical safety data from the package insert (key warnings, contraindications in the malignant hypertension setting) are also outstanding.
+The prediction score is high, and AT1 blockade is mechanistically plausible for hypertensive kidney injury. However, the only evidence is one animal study, with no clinical trials, so the evidence level is L5. Among the other predictions, pulmonary hypertension due to lung disease/hypoxia and brain small vessel disease are the most promising as research questions (L4), but both rely on indirect evidence.
 
 **To proceed, the following is needed:**
-- Obtain Losartan package insert (CDSCO-approved or international reference label) to clarify contraindications and warnings specifically relevant to malignant hypertension (e.g., bilateral renal artery stenosis risk)
-- Retrieve full DrugBank MOA and toxicity data for mechanistic documentation
-- Conduct a systematic literature search for ARB use in malignant hypertensive nephrosclerosis to determine whether existing real-world or retrospective data support a Phase 2 hypothesis
-- Evaluate whether Losartan's active metabolite (EXP3174) offers any pharmacokinetic or pharmacodynamic advantage over other ARBs in this acute-severity setting
-- If evidence is deemed sufficient, initiate regulatory pre-consultation with CDSCO regarding marketing authorisation pathway and potential indication expansion requirements
+- Package insert warnings and contraindications from the India regulatory source (currently blocking safety screening)
+- Mechanism of action data from DrugBank
+- Human clinical data (observational studies or trials) in malignant hypertensive nephrosclerosis
+- Review of the knowledge-graph contraindications against the official label
+- A safety plan covering potassium monitoring, renal function, and renal artery stenosis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Gefitinib
 parent: Model Prediction Only (L5)
-nav_order: 383
+nav_order: 387
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,109 +33,87 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Gefitinib is an EGFR tyrosine kinase inhibitor (EGFR-TKI) originally developed for EGFR mutation-positive non-small cell lung cancer (NSCLC). The TxGNN model's top-ranked prediction for this drug is **Gingival Fibromatosis**, but this signal is currently supported by **0 clinical trials** and **0 publications** — it is a pure model-score prediction with no mechanistic or empirical backing found in this evidence pack.
-
----
+Gefitinib is an EGFR tyrosine kinase inhibitor originally used to treat non-small cell lung cancer (NSCLC).
+The TxGNN model predicts it may be effective for **gingival fibromatosis**, but this is a computational prediction only,
+with **0 clinical trials** and **0 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Non-small cell lung cancer (NSCLC), EGFR mutation-positive (per repurposing rationale notes; formal MOA/indication fields are a data gap — see below) |
-| Predicted New Indication | Gingival Fibromatosis (fibromatosis, gingival) |
+| Original Indication | Non-small cell lung cancer / lung cancer (from the knowledge graph; the Indian licence records contain no indication text) |
+| Predicted New Indication | Gingival fibromatosis |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for gefitinib is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on information embedded in the repurposing rationale fields, gefitinib is known to act as an EGFR tyrosine kinase inhibitor, and its established efficacy is in EGFR mutation-positive NSCLC.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, gefitinib is an oral EGFR tyrosine kinase inhibitor, its efficacy in EGFR-mutated non-small cell lung cancer is well established, and mechanistically it might be applicable to conditions driven by EGFR-mediated cell proliferation.
 
-Gingival fibromatosis is a connective-tissue overgrowth disorder with no established EGFR-driven pathogenesis. The evidence pack's own mechanistic assessment for this candidate states explicitly that despite the high TxGNN score, there is no known EGFR-driven mechanism linking the two conditions, and the prediction is unsupported by any clinical trial or literature evidence — it should be treated as a pure knowledge-graph artifact rather than a validated hypothesis.
+Gingival fibromatosis is a fibrotic overgrowth of gum tissue and is very different from lung cancer. The only link suggested is that EGFR signalling could contribute to fibroblast proliferation. This is speculative: no trial or publication in the data supports it, and the high TxGNN score is a model output alone.
 
-For context, two lower-ranked candidates in this pack — **lung hilum carcinoma** (rank 5) and **pulmonary sulcus neoplasm** (rank 8) — carry somewhat stronger rationale, since both are anatomical subtypes of NSCLC and align with gefitinib's known EGFR-TKI mechanism. However, the pack's own analysis notes these represent an anatomical extension of the existing NSCLC indication rather than genuine repurposing, and both remain at evidence level L4 with only case-report/overview-level support.
-
----
+Among the other top-ranked predictions, only a few have any literature, and that literature mostly concerns gefitinib's existing use in lung cancer, resistance mechanisms or adverse effects. It does not show a new therapeutic use. For example, the lung hilum carcinoma and pulmonary sulcus neoplasm predictions largely restate the approved NSCLC use, and some matches are plainly spurious (a formulation paper matched to "lung germ cell tumor" because of the word "germ").
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for gingival fibromatosis.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for gingival fibromatosis.
 
----
+## India Market Information
 
-## Taiwan Market Information
+Gefitinib has 20 valid single-ingredient registrations in India and no combination or cancelled registrations. The records contain no approved-indication text. Five main authorizations are listed below.
 
-Gefitinib currently holds **0 registered licenses** in the Taiwan regulatory dataset (market status: not marketed). No product, dosage form, or approved-indication records are available to list.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 109077 | Iressa 250mg Tablet (AstraZeneca) | Box of 30 tablets | Not stated in the records |
+| Registration No. 94713 | Gefticip Tablet (Cipla Ltd) | Strip of 30 tablets | Not stated in the records |
+| Registration No. 99608 | Grexam 250mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 30 tablets | Not stated in the records |
+| Registration No. 95429 | Geffy 250mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the records |
+| Registration No. 66935 | Denrit 250mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not stated in the records |
 
 ## Cytotoxicity
-
-Gefitinib's original indication (NSCLC) is an oncology indication and its class (EGFR-TKI) qualifies it for cytotoxicity/antineoplastic assessment.
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Targeted therapy (EGFR tyrosine kinase inhibitor) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Liver function and respiratory symptoms (suggested by the contraindication-related disease associations and the case literature on pneumonitis); please also refer to the package insert |
 | Handling Protection | Please refer to the package insert warnings and precautions |
-
----
 
 ## Safety Considerations
 
-**Drug Interactions**: The evidence pack's DDI query returned 349 total catalogued interactions; a sample of 20 is available below. Most listed interactions are **Moderate**-level and involve gastric-acid-modifying agents (H2 antagonists and proton pump inhibitors), which is mechanistically notable since gefitinib absorption is pH-dependent:
+- **Disease associations flagged in the knowledge graph (not label text)**: liver disease, gallbladder disease, interstitial lung disease, pulmonary fibrosis, postinflammatory pulmonary fibrosis. Published case reports describe gefitinib-induced acute pneumonitis and interstitial lung disease, including a fatal case.
+- **Other safety signals in the literature**: cutaneous toxicity (acneiform eruption, paronychia, xerosis), experimental evidence of QT prolongation, and a case report of recurrent myocardial infarction. The cutaneous toxicity is particularly relevant to any use in skin or mucosal disorders.
+- **Drug Interactions**: 349 interactions were identified. The main moderate-level ones are:
+  - Acid-suppressing drugs: famotidine, ranitidine, cimetidine, nizatidine, and the proton pump inhibitors omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole and rabeprazole
+  - Clarithromycin
+  - Aprepitant
+  - Dexamethasone
+  - Naltrexone
+  - Azole antifungals (miconazole, clotrimazole)
+  - Troglitazone
 
-| Interacting Drug | Level | Source |
-|------|------|------|
-| Famotidine | Moderate | ddinter |
-| Ranitidine | Moderate | ddinter |
-| Rabeprazole | Moderate | ddinter |
-| Aprepitant | Moderate | ddinter |
-| Cimetidine | Moderate | ddinter |
-| Clarithromycin | Moderate | ddinter |
-| Dexlansoprazole | Moderate | ddinter |
-| Omeprazole | Moderate | ddinter |
-| Dexamethasone | Moderate | ddinter |
-| Naltrexone | Moderate | ddinter |
-| Lansoprazole | Moderate | ddinter |
-| Miconazole | Moderate | ddinter |
-| Nizatidine | Moderate | ddinter |
-| Pantoprazole | Moderate | ddinter |
-| Esomeprazole | Moderate | ddinter |
-| Clotrimazole | Moderate | ddinter |
-| Ranitidine (bismuth citrate) | Moderate | ddinter |
-| Troglitazone | Moderate | ddinter |
-| Calcitriol | Unknown | ddinter |
-| Glimepiride | Unknown | ddinter |
-
-Key warnings and contraindications are not available in this evidence pack (data gap DG001, Blocking severity) — this must be sourced from the TFDA/manufacturer package insert before any safety review can proceed.
-
----
+Package-insert warnings and contraindications were not available for this report; please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked TxGNN prediction (gingival fibromatosis) has no clinical trial or literature support and no plausible mechanistic link to gefitinib's known EGFR-TKI activity — it is a model-score-only (L5) hypothesis. Gefitinib is also not currently marketed in Taiwan, and the evidence pack lacks the drug-level safety data (MOA, key warnings, contraindications) needed to even begin a preliminary safety assessment.
+The prediction rests on a model score alone (Evidence Level L5), with no clinical trials or literature and only a speculative mechanistic link. Gefitinib also carries known pulmonary, skin and liver safety concerns that would need to be weighed against any benefit in a non-malignant condition.
 
 **To proceed, the following is needed:**
-- TFDA package insert warnings/contraindications (DG001, Blocking — required before any S1 safety screening)
-- Verified mechanism of action data from DrugBank (DG002)
-- If pursuing repurposing further, prioritize re-evaluating rank 5 (lung hilum carcinoma) and rank 8 (pulmonary sulcus neoplasm) instead — both reached decision stage S1 with gefitinib-specific literature, though the pack's own analysis flags them as anatomical extensions of the existing NSCLC indication rather than novel repurposing candidates
-- Independent mechanistic plausibility review for gingival fibromatosis before any further evidence collection is warranted
+- Mechanism of action data (from DrugBank)
+- Package insert warnings and contraindications (from the Indian regulatory source), which are required before safety screening can proceed
+- Preclinical or mechanistic evidence that EGFR inhibition affects gingival fibroblast proliferation
+- Review of the other top-ranked predictions: lung hilum carcinoma and pulmonary sulcus neoplasm have some indirect literature (Evidence Level L4) but mainly reflect the existing NSCLC use rather than a new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

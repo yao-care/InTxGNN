@@ -2,15 +2,15 @@
 layout: default
 title: Tacrolimus
 parent: High Evidence (L1-L2)
-nav_order: 795
-evidence_level: L1
+nav_order: 802
+evidence_level: L2
 indication_count: 3
 ---
 
 # Tacrolimus
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **3** 
+Evidence Level: **L2** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,76 +29,89 @@ Evidence Level: **L1** | Predicted Indications: **3**
 
 </div>
 
-# Tacrolimus: From Organ Transplant Rejection Prophylaxis to Seborrheic Dermatitis
+# Tacrolimus: From Atopic Eczema to Seborrheic Dermatitis
 
 ## One-Sentence Summary
 
-Tacrolimus is a calcineurin inhibitor originally developed as a systemic immunosuppressant to prevent organ transplant rejection, with a topical ointment formulation (Protopic) also long used for atopic dermatitis. The TxGNN model predicts it may be effective for **Seborrheic Dermatitis**, with **2 clinical trials** and **21 publications** currently supporting this direction.
+Tacrolimus is a calcineurin inhibitor, originally used to treat atopic eczema (atopic dermatitis).
+The TxGNN model predicts it may be effective for **Seborrheic Dermatitis**,
+with **2 clinical trials** (one completed Phase 3 and one completed Phase 4) and **20 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in this evidence pack (data gap). Literature within the pack confirms tacrolimus is used systemically as an immunosuppressant for organ transplant rejection prophylaxis, and topically (Protopic) for atopic dermatitis |
-| Predicted New Indication | Seborrheic Dermatitis |
+| Original Indication | Atopic eczema / atopic dermatitis |
+| Predicted New Indication | Seborrheic dermatitis |
 | TxGNN Prediction Score | 99.26% |
-| Evidence Level | L1 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L2 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for this candidate is currently a flagged data gap (DG002). Based on the pharmacology referenced across the collected literature, tacrolimus is a calcineurin inhibitor that blocks T-cell activation and downregulates inflammatory cytokine release. This mechanism underlies its established use as a topical immunomodulator (Protopic) for T-cell-mediated skin inflammation, most notably atopic dermatitis.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tacrolimus is a calcineurin inhibitor. It blocks T-cell activation and the release of pro-inflammatory cytokines. This is the pathway behind its established use in atopic dermatitis.
 
-Seborrheic dermatitis is likewise a chronic, relapsing inflammatory dermatological condition, with the face and scalp as primary sites, driven by cytokine-mediated inflammation and modulated by Malassezia yeast colonization. Because calcineurin inhibition suppresses this inflammatory cascade without the skin-atrophy risk associated with long-term corticosteroid use, tacrolimus ointment is mechanistically well suited to facial areas requiring long-term maintenance therapy — which is exactly the population studied in the supporting trials below.
+Seborrheic dermatitis is a chronic, relapsing inflammatory skin disease of the face and scalp. It involves an inflammatory response to *Malassezia* yeast. Atopic dermatitis and seborrheic dermatitis share an inflammatory, T-cell-driven component, so calcineurin inhibition is a plausible way to treat both. Tacrolimus may also have indirect effects on *Malassezia*-related inflammation. The very high TxGNN score is consistent with this rationale.
 
-One data-quality note: the evidence pack lists "dermatitis" (atopic dermatitis) as a separate, lower-ranked predicted indication, but this is in fact an already-established, marketed indication for topical tacrolimus rather than a novel repurposing candidate. This, combined with the empty `original_indications` field and "Not marketed" status recorded here, suggests the source regulatory record for this drug is incomplete and should be manually reconciled before this candidate proceeds further.
+Note on the evidence level: the completed Phase 3 trial supports the topical ointment form specifically. A strict reading of the L1 rule (at least two completed Phase 3 RCTs) is not met for seborrheic dermatitis, because the second trial is Phase 4. The evidence is therefore placed at L2 here, a conservative reading of one completed Phase 3 trial plus supportive Phase 4 and published clinical data.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02004860](https://clinicaltrials.gov/study/NCT02004860) | Phase 3 | Completed | 120 | Evaluated tacrolimus ointment (Protopic) as maintenance treatment for severe facial seborrheic dermatitis, aiming to prolong remission and reduce reliance on topical steroids |
-| [NCT01591070](https://clinicaltrials.gov/study/NCT01591070) | Phase 4 | Completed | 104 | Assessed whether proactive, once/twice-weekly application of 0.1% tacrolimus ointment maintains remission and reduces exacerbation in adult facial seborrheic dermatitis |
+| [NCT02004860](https://clinicaltrials.gov/study/NCT02004860) | Phase 3 | Completed | 120 | Tacrolimus ointment (Protopic) as maintenance treatment of severe seborrheic dermatitis on the adult face, aiming to reduce relapses and steroid use |
+| [NCT01591070](https://clinicaltrials.gov/study/NCT01591070) | Phase 4 | Completed | 104 | Proactive once- or twice-weekly 0.1% tacrolimus ointment to keep adult facial seborrheic dermatitis in remission and reduce exacerbations |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33010323](https://pubmed.ncbi.nlm.nih.gov/33010323/) | 2021 | RCT | J Am Acad Dermatol | Multicenter, double-blind RCT comparing tacrolimus 0.1% vs. ciclopiroxolamine 1% for maintenance therapy in severe facial seborrheic dermatitis |
-| [26512166](https://pubmed.ncbi.nlm.nih.gov/26512166/) | 2015 | RCT | Ann Dermatol | Evaluated 0.1% tacrolimus ointment as maintenance therapy for facial seborrheic dermatitis, extending the intermittent-use strategy proven in atopic dermatitis |
-| [24171300](https://pubmed.ncbi.nlm.nih.gov/24171300/) | 2013 | RCT/Cohort | Ann Parasitol | Comparative trial of sertaconazole 2% cream vs. tacrolimus 0.03% cream in 60 patients with seborrheic dermatitis |
-| [37067129](https://pubmed.ncbi.nlm.nih.gov/37067129/) | 2023 | RCT | Indian J Dermatol Venereol Leprol | Compared oral itraconazole plus topical tacrolimus vs. topical tacrolimus alone for maintenance treatment of seborrheic dermatitis in Vietnam |
-| [27804089](https://pubmed.ncbi.nlm.nih.gov/27804089/) | 2017 | Systematic Review | Am J Clin Dermatol | Systematic review of topical treatments (antifungals, keratolytics, corticosteroids, calcineurin inhibitors) for facial seborrheic dermatitis |
-| [19222250](https://pubmed.ncbi.nlm.nih.gov/19222250/) | 2009 | Review | Am J Clin Dermatol | Reviews pathophysiology, safety, and efficacy of topical calcineurin inhibitors as a corticosteroid-sparing option for seborrheic dermatitis |
-| [39219446](https://pubmed.ncbi.nlm.nih.gov/39219446/) | 2024 | Cochrane Systematic Review/NMA | Clin Exp Allergy | Network meta-analysis of topical anti-inflammatory treatments across eczema/inflammatory dermatoses, including calcineurin inhibitors |
-| [12833030](https://pubmed.ncbi.nlm.nih.gov/12833030/) | 2003 | Open pilot study | J Am Acad Dermatol | Early open-label pilot in 18 patients; 61% achieved complete clearance of seborrheic dermatitis with 0.1% tacrolimus over 28 days |
-| [19213227](https://pubmed.ncbi.nlm.nih.gov/19213227/) | 2009 | Review | J Drugs Dermatol | Overview of facial seborrheic dermatitis pathophysiology and emerging therapeutic options, including topical calcineurin inhibitors |
-| [15461548](https://pubmed.ncbi.nlm.nih.gov/15461548/) | 2004 | Review | Expert Opin Pharmacother | Reviews tacrolimus ointment's efficacy and safety across atopic dermatitis and other inflammatory cutaneous diseases |
+| [26512166](https://pubmed.ncbi.nlm.nih.gov/26512166/) | 2015 | RCT/Clinical study | Annals of Dermatology | Maintenance therapy of facial seborrheic dermatitis with 0.1% tacrolimus ointment |
+| [27804089](https://pubmed.ncbi.nlm.nih.gov/27804089/) | 2017 | Systematic Review | American Journal of Clinical Dermatology | Systematic review of topical treatments for facial seborrheic dermatitis |
+| [19222250](https://pubmed.ncbi.nlm.nih.gov/19222250/) | 2009 | Review | American Journal of Clinical Dermatology | Role of topical calcineurin inhibitors in seborrheic dermatitis: pathophysiology, safety and efficacy |
+| [24171300](https://pubmed.ncbi.nlm.nih.gov/24171300/) | 2013 | Clinical trial | Annals of Parasitology | Sertaconazole 2% cream compared with tacrolimus 0.03% cream in 60 patients with seborrheic dermatitis |
+| [19213227](https://pubmed.ncbi.nlm.nih.gov/19213227/) | 2009 | Review | Journal of Drugs in Dermatology | Current status and therapeutic horizons for facial seborrheic dermatitis |
+| [31476936](https://pubmed.ncbi.nlm.nih.gov/31476936/) | 2019 | Review | Journal of Cutaneous Medicine and Surgery | Off-label use of topical calcineurin inhibitors in dermatologic disorders |
+| [17685874](https://pubmed.ncbi.nlm.nih.gov/17685874/) | 2007 | Review | Expert Opinion on Investigational Drugs | New roles for topical tacrolimus beyond atopic dermatitis |
+| [15461548](https://pubmed.ncbi.nlm.nih.gov/15461548/) | 2004 | Review | Expert Opinion on Pharmacotherapy | Tacrolimus ointment for atopic dermatitis and other inflammatory skin diseases |
+| [11770914](https://pubmed.ncbi.nlm.nih.gov/11770914/) | 2001 | Review | Seminars in Cutaneous Medicine and Surgery | Future directions for topical tacrolimus and pimecrolimus, including seborrheic dermatitis |
+| [39219446](https://pubmed.ncbi.nlm.nih.gov/39219446/) | 2024 | Systematic Review / Network Meta-analysis | Clinical and Experimental Allergy | Cochrane review of topical anti-inflammatory treatments for eczema (indirect for this indication) |
 
 ## India Market Information
 
-Tacrolimus currently has no marketing authorization on record in India (total registrations: 0; market status: not marketed). No product-level licensing data is available to summarize dosage forms or approved indications.
+The approved indication text is not recorded for these licences. The 20 valid single-ingredient licences are mostly oral capsules, plus one ointment (Tames Forte) and one prolonged-release capsule (Advagraf).
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 221068 | Tames Forte Ointment (Ampra Pharmaceuticals) | Tube of 10 gm ointment | Not recorded |
+| 2091 | Advagraf 1mg Capsule PR (Astellas Pharma) | Strip of 10 prolonged-release capsules | Not recorded |
+| 219172 | Takfa 0.25 Capsule (Intas Pharmaceuticals) | Strip of 10 capsules | Not recorded |
+| 220926 | Tacrolim 1mg Capsule (Dr Reddy's Laboratories) | Strip of 10 capsules | Not recorded |
+| 190385 | Rengraf 0.5mg Capsule (Abbott) | Strip of 10 capsules | Not recorded |
+
+Only one topical product (Tames Forte Ointment) is registered, and the other registrations are oral capsules. The predicted indication relies on topical use, so the topical supply and its approved labelling need to be confirmed.
 
 ## Safety Considerations
 
-- **Drug Interactions**: The evidence pack records 868 total known interactions. Notable **Major**-level interactions include Amphotericin B, Amphotericin B (lipid complex), Loperamide, Mesalazine, Omeprazole, and Balsalazide. **Moderate**-level interactions include Acarbose, Famotidine, Rabeprazole, Hydrocortisone, Metformin, Pioglitazone, Dexamethasone, Betamethasone, Metronidazole, and Budesonide (among others).
-
-Detailed key warnings and contraindications are not available in this evidence pack (flagged as a Blocking data gap, DG001) — please refer to the package insert for this information once obtained.
+- **Contraindications / disease associations (from the knowledge graph, not label text):** hypertension, long QT syndrome, torsades de pointes, liver failure, kidney disease, epilepsy, diabetes mellitus, hyperglycaemia, diabetic ketoacidosis, active infections (including herpes simplex and herpes zoster), cancer, lymphoma, progressive multifocal leukoencephalopathy and posterior leukoencephalopathy syndrome. Many of these relate to systemic immunosuppressive use and may apply less to topical use.
+- **Drug Interactions:** 868 interactions were found. Major-level examples include amphotericin B, loperamide, mesalazine, omeprazole and balsalazide. Moderate-level examples include acarbose, famotidine, rabeprazole, hydrocortisone, metformin, pioglitazone, dexamethasone and aprepitant.
+- **Cancer risk with topical use:** a 2023 systematic review and meta-analysis (PMID 36370744) examined cancer risk with topical calcineurin inhibitors, a safety concern that should be part of any monitoring plan.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Two completed trials (one Phase 3, one Phase 4) plus a substantial literature base — including a multicenter double-blind RCT — directly support tacrolimus ointment for facial seborrheic dermatitis maintenance therapy, justifying an L1 evidence rating. However, the drug is not currently marketed in India and key regulatory safety data is missing, so progression must be gated on closing those gaps.
+A completed Phase 3 trial and a completed Phase 4 study of tacrolimus ointment in facial seborrheic dermatitis, plus a published clinical study and several reviews, support the TxGNN prediction. The mechanism is consistent with its use in atopic dermatitis. The evidence is limited by the small trials and the lack of a second Phase 3 RCT.
 
 **To proceed, the following is needed:**
-- TFDA/CDSCO-equivalent label warnings and contraindications (DG001, Blocking)
-- Confirmed mechanism-of-action documentation (DG002)
-- Reconciliation of the drug's actual original/marketed indications (current record shows empty `original_indications` despite topical tacrolimus being a known marketed product elsewhere)
-- India-specific regulatory filing and registration pathway assessment, since the product is not currently marketed there
+- Review of the Phase 3 (NCT02004860) and Phase 4 (NCT01591070) results, and ideally a second confirmatory RCT
+- The package insert warnings and contraindications for the India products, which are not yet available
+- Confirmation of topical ointment availability and labelling in India, since most registrations are oral capsules
+- Detailed mechanism of action data
+- A safety monitoring plan covering infection risk, long-term cancer risk, and interactions with concomitant drugs
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

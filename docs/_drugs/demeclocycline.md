@@ -2,7 +2,7 @@
 layout: default
 title: Demeclocycline
 parent: Model Prediction Only (L5)
-nav_order: 239
+nav_order: 241
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,90 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Demeclocycline: From Tetracycline Antibiotic to Chronic Ethmoidal Sinusitis
+# Demeclocycline: From Bacterial Infections to Chronic Ethmoidal Sinusitis
 
 ## One-Sentence Summary
 
-Demeclocycline (DB00618) is a broad-spectrum tetracycline-class antibiotic whose registered original indications were not captured in this evidence pack, though it is classically known for treating bacterial infections and blocking ADH in SIADH.
-The TxGNN model predicts it may be effective for **Chronic Ethmoidal Sinusitis**, with **0 clinical trials** and **1 histomorphometric study** currently supporting this direction — making the evidence base extremely limited.
-At this stage the overall recommendation is **Hold**, pending mechanism verification and direct clinical evidence.
-
----
+Demeclocycline is a tetracycline-class antibiotic, originally used to treat bacterial infections such as urinary tract infection, bronchitis, gonorrhea and pharyngitis.
+The TxGNN model predicts it may be effective for **chronic ethmoidal sinusitis**,
+but at present there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on computation alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available in this evidence pack (known class: tetracycline antibiotic) |
-| Predicted New Indication | Chronic Ethmoidal Sinusitis |
+|------|------|
+| Original Indication | Bacterial infections (urinary tract infection, bronchitis, anthrax, staphylococcal infection, gonorrhea, pharyngitis and others; the approved indication text on the Indian licences is blank, so this list comes from the knowledge graph) |
+| Predicted New Indication | Chronic ethmoidal sinusitis |
 | TxGNN Prediction Score | 99.14% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Hold |
 
----
+Other predictions for this drug are chronic rhinosinusitis (99.09%) and paranasal sinus neoplasm (99.05%). Neither has any clinical trials or literature either.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, Demeclocycline belongs to the tetracycline antibiotic class, which shares several properties relevant to chronic sinus disease. First, tetracyclines provide broad-spectrum antibacterial coverage against common chronic sinusitis pathogens including *Haemophilus influenzae*, *Streptococcus pneumoniae*, and anaerobes — offering a plausible antimicrobial rationale. Second, tetracyclines are recognised non-selective inhibitors of matrix metalloproteinases (MMPs), particularly MMP-2 and MMP-9, which play a role in mucosal remodelling and the bone changes observed in chronic ethmoidal sinusitis. The single available publication (PMID 9546260) specifically documents ethmoid bone resorption and synthesis changes in chronic rhinosinusitis, a pathological process MMP inhibition could theoretically attenuate.
+Currently, detailed mechanism of action data is not available. Based on known information, demeclocycline is a member of the tetracycline class of antibiotics. Its efficacy in bacterial infections of the respiratory tract and other sites is the basis of its original use, and mechanistically it may be applicable to chronic ethmoidal sinusitis.
 
-However, it is critical to note that the mechanistic studies on anti-inflammatory and MMP-inhibiting effects have been conducted predominantly with Doxycycline and Minocycline — not Demeclocycline specifically. There are no direct preclinical or clinical studies establishing that Demeclocycline exerts meaningful anti-inflammatory or anti-remodelling effects in sinus tissue.
+Plausible links include antibacterial activity against sinus pathogens, and the anti-inflammatory and matrix metalloproteinase-inhibiting properties of the tetracycline class. The original indications include upper airway infections such as bronchitis and pharyngitis, which offer only weak indirect plausibility for sinus disease. None of these links is supported by trial or literature data compiled for this report.
 
-The TxGNN model likely generated this prediction by combining Demeclocycline's tetracycline class membership with the anatomical and inflammatory similarity between conditions it may have been associated with in the knowledge graph. This is a class-effect inference, not direct evidence for Demeclocycline itself.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [9546260](https://pubmed.ncbi.nlm.nih.gov/9546260/) | 1998 | Histomorphometric Study | The Laryngoscope | Undecalcified ethmoid bone analysis in chronic sinusitis vs. controls; documents bone synthesis, resorption, and inflammatory cell infiltration in sinus disease — provides histological context for the disease mechanism but does not involve Demeclocycline |
-
----
+The high TxGNN score is a computational prediction only and is not clinical evidence. The predicted indication is closely related to chronic rhinosinusitis, which was also predicted. The third prediction, paranasal sinus neoplasm, has low biological plausibility for an antibiotic. Its high score likely reflects network proximity to sinus-related diseases rather than a true therapeutic signal.
 
 ## India Market Information
 
-Demeclocycline currently has no registered products in the Indian market. No authorisation records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 124393 | Ledermycin 150mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not stated in the available data |
+| 122118 | Ledermycin 300mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not stated in the available data |
 
----
+Both licences are valid single-ingredient oral products.
 
 ## Safety Considerations
 
-**Drug Interactions:** 154 drug-drug interactions are on record (DDInter database). Key interactions to be aware of include:
+- **Contraindications (from the knowledge graph, not label text)**: kidney disease, pyoureter, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, and diabetes insipidus (including neurohypophyseal and central forms).
+- **Drug Interactions**: 154 interactions were identified. The sample reviewed included mostly Moderate-level interactions:
+  - **Major**: Vitamin A.
+  - **Moderate**: Amoxicillin, balsalazide, and polyvalent cation products (calcium phosphate, calcium acetate, magnesium oxide, magnesium sulfate, magnesium chloride, zinc sulfate, zinc acetate, potassium citrate). Several insulin products are also listed (aspart, degludec, detemir, glargine, glulisine, human isophane, human regular, human inhalation).
+  - **Minor**: Mannitol.
 
-- **Major interaction:** Vitamin A — co-administration with tetracyclines is associated with increased risk of benign intracranial hypertension (pseudotumor cerebri); avoid concurrent use.
-- **Moderate interactions (selected):** Amoxicillin (potential antagonism of bactericidal activity); multiple insulin formulations (tetracyclines may potentiate hypoglycaemic effects — monitor blood glucose); divalent/trivalent cations including Calcium Phosphate, Calcium acetate, Magnesium oxide, Magnesium sulfate, Magnesium chloride, Zinc sulfate, Zinc acetate (chelation reduces tetracycline absorption — separate dosing by at least 2–3 hours); Potassium citrate; Balsalazide.
-- **Minor interaction:** Mannitol.
-
-Full package insert warnings and contraindications were not available in this evidence pack. Please refer to the originator package insert or DrugBank monograph for complete safety labelling, including renal impairment dosing, photosensitivity risk (a known class effect that is particularly pronounced with Demeclocycline), and use in pregnancy/paediatric populations.
-
----
+Package insert warnings and contraindications have not been obtained. Please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high prediction score (99.14%) for Demeclocycline in chronic ethmoidal sinusitis, but the underlying evidence is at Level L5 — model prediction only, with zero clinical trials and a single non-interventional histological study that does not involve the drug. There is no direct preclinical or clinical data for Demeclocycline in any sinusitis indication, and the mechanistic link rests entirely on class-effect extrapolation from other tetracyclines.
+The prediction has a high model score but no supporting clinical trials or publications (Evidence Level L5). The package insert safety data are also missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
-
-- **MOA verification:** Retrieve full DrugBank monograph to confirm Demeclocycline's mechanism of action, MMP inhibitory potency relative to Doxycycline/Minocycline, and any anti-inflammatory pharmacodynamic data.
-- **Safety labelling:** Download and parse the originator package insert (or TFDA/EMA/FDA SmPC) to obtain complete warnings, contraindications, and special population guidance — currently a Blocking data gap.
-- **Preclinical evidence:** Commission or identify in-vitro or animal studies specifically assessing Demeclocycline (not just class members) against sinusitis-relevant pathogens and inflammatory pathways.
-- **Comparative class analysis:** Determine whether Doxycycline or Minocycline — which have more established anti-inflammatory evidence — would be superior candidates for the same indication, which might make Demeclocycline repurposing redundant.
-- **Feasibility assessment:** Given that Demeclocycline is not marketed in India (0 registrations), any development pathway would require de-novo import/registration, adding significant regulatory burden before clinical investigation could begin.
-
----
-
-*This report is generated for research reference purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+- Package insert warnings and contraindications for the Indian products (a blocking gap)
+- Mechanism of action data for demeclocycline
+- A literature and trial search on tetracycline-class antibiotics in chronic sinusitis, to establish whether any real-world or preclinical evidence exists
+- A review of the approved indications on the Indian licences, which are currently blank
+- A safety assessment of the knowledge-graph contraindications (especially kidney disease and *C. difficile* colitis) against the intended sinusitis population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

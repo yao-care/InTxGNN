@@ -2,7 +2,7 @@
 layout: default
 title: Phenylalanine
 parent: Model Prediction Only (L5)
-nav_order: 657
+nav_order: 664
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,31 +29,34 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Phenylalanine: From Amino Acid Supplement to Sclerosing Cholangitis
+# Phenylalanine: From an Unspecified Original Indication to Sclerosing Cholangitis
 
 ## One-Sentence Summary
 
-Phenylalanine (DB00120) is an essential amino acid with no approved therapeutic indication on record and is currently **not marketed in Taiwan**. TxGNN assigns a high embedding score (99.43%) linking it to **Sclerosing Cholangitis**, but none of the 4 supporting publications actually studies phenylalanine's effect on this disease — the strongest matches concern a different substance (the bacterial peptide fMLP, whose name happens to contain "phenylalanine"). This candidate should be treated as an unverified model artifact, not a validated repurposing signal.
+Phenylalanine is an essential aromatic amino acid, marketed in India as a single-ingredient oral tablet, but no approved indication is recorded for it in the data compiled for this report.
+The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but there are **0 clinical trials** and only **3 indirect publications** (none showing a therapeutic effect), so this is a computational hypothesis only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not established — Phenylalanine is an essential amino acid/nutritional component with no recorded disease indication (`original_moa`: Data Gap) |
-| Predicted New Indication | Sclerosing Cholangitis |
+| Original Indication | Not available (the approved indication text on the registration is blank) |
+| Predicted New Indication | Sclerosing cholangitis |
 | TxGNN Prediction Score | 99.43% |
-| Evidence Level | L5 (model prediction only) |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L4 (indirect metabolic/biomarker literature only; no studies of phenylalanine as a treatment) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Mechanism-of-action data for phenylalanine is not available (`[Data Gap]`), and unlike typical repurposing candidates, there is no established original indication to anchor a mechanistic bridge to sclerosing cholangitis.
+Currently, detailed mechanism of action data is not available. Phenylalanine is an essential amino acid and a precursor of tyrosine, but the data compiled for this report provide no established pathway linking it to sclerosing cholangitis, and no approved original indication to compare against.
 
-More importantly, the supporting literature does not actually corroborate the link. Of the 4 publications returned, one (PMID 15790420) studies **tyrosine**, not phenylalanine, in relation to fatigue in PBC/PSC; one (PMID 32025163) is an unrelated cholangiocarcinoma metabolomics study; and two (PMID 8000512, PMID 2103382) study **N-formyl-methionyl-leucyl-phenylalanine (fMLP)**, a bacterial chemotactic peptide used as an immunology reagent — a distinct pharmacological entity that merely shares the substring "phenylalanine" in its name with DB00120.
+The only related literature is indirect. A 2005 cohort study examined plasma tyrosine (a phenylalanine metabolite) and fatigue in primary biliary cirrhosis and primary sclerosing cholangitis. It suggests altered aromatic amino acid metabolism in cholestatic liver disease, but it does not show that giving phenylalanine helps. A 2020 serum metabolomics study in cholangiocarcinoma, a related biliary condition, treats amino acids as disease biomarkers, not treatments. A 1990 paper concerns a different compound (the chemotactic peptide formyl-methionyl-leucyl-phenylalanine) and is not evidence for phenylalanine as a drug.
 
-Taken together, this strongly suggests the TxGNN score reflects a knowledge-graph embedding artifact (likely driven by textual/entity overlap) rather than a genuine pharmacological relationship. No mechanistic rationale currently supports this prediction.
+The high TxGNN score therefore reflects knowledge-graph patterns only and is not supported by clinical evidence.
+
+A second prediction, **congenital prothrombin deficiency** (score 99.26%), has no trials or literature at all. Congenital prothrombin deficiency is a factor II coagulation deficiency, and phenylalanine is not known to correct it. It is treated as a hypothesis only (Evidence Level L5, Hold).
 
 ## Clinical Trial Evidence
 
@@ -63,29 +66,39 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15790420](https://pubmed.ncbi.nlm.nih.gov/15790420/) | 2005 | Cohort | BMC Gastroenterology | Examines plasma **tyrosine** (not phenylalanine) and fatigue in PBC/PSC — does not study phenylalanine treatment |
-| [32025163](https://pubmed.ncbi.nlm.nih.gov/32025163/) | 2020 | Cohort/Metabolomics | J Clin Exp Hepatol | Serum metabolomic profiling in cholangiocarcinoma; unrelated to phenylalanine as an intervention |
-| [8000512](https://pubmed.ncbi.nlm.nih.gov/8000512/) | 1994 | Animal study | J Gastroenterol | Rectal **fMLP** (a bacterial peptide, distinct from the amino acid) induced small duct cholangitis in rats with colitis |
-| [2103382](https://pubmed.ncbi.nlm.nih.gov/2103382/) | 1990 | Basic research | J Gastroenterol Hepatol | Characterizes enterohepatic circulation of bacterial **F-met chemotactic peptides**, not free phenylalanine |
+| [15790420](https://pubmed.ncbi.nlm.nih.gov/15790420/) | 2005 | Cohort | BMC Gastroenterology | Examined the relation between plasma tyrosine and fatigue in primary biliary cirrhosis and primary sclerosing cholangitis; identifies amino acid abnormalities but no treatment effect |
+| [32025163](https://pubmed.ncbi.nlm.nih.gov/32025163/) | 2020 | Cohort | Journal of Clinical and Experimental Hepatology | Serum metabolomic profiling in cholangiocarcinoma versus benign hepatobiliary disease, searching for biomarkers |
+| [2103382](https://pubmed.ncbi.nlm.nih.gov/2103382/) | 1990 | Laboratory assay | Journal of Gastroenterology and Hepatology | Radio-immunoassay of a bacterial chemotactic peptide showing enterohepatic circulation; a different compound, not direct evidence |
 
-*Note: none of the above studies evaluates phenylalanine itself as a therapeutic agent for sclerosing cholangitis; matches appear driven by name/text overlap with the unrelated peptide fMLP.*
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 135152 | Melaroc Tablet (Rivan Pharma) | Strip of 10 tablets | Not stated |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Note: TFDA label warnings/contraindications are marked as a **Blocking** data gap (DG001) — this must be resolved before any safety pre-assessment (S1) can proceed.
+- **Disease contraindications flagged in the knowledge graph** (these come from drug-disease relationship data, not from product label text):
+  - Kidney and urinary: kidney disease, chronic kidney disease, chronic renal failure syndrome, end stage renal failure, nephrolithiasis, nephrolithiasis susceptibility caused by SLC26A1, nephrocalcinosis, acute urate nephropathy, pyoureter
+  - Calcium and phosphorus: hypercalcemia disease, humoral hypercalcemia of malignancy, phosphorus metabolism disease, sarcoidosis
+  - Cardiac: heart disease, cardiovascular disease, ventricular fibrillation, digitalis poisoning
+  - Phenylalanine metabolism: phenylketonuria, disorder of phenylalanine metabolism
+
+Phenylketonuria and other phenylalanine metabolism disorders are the most directly relevant, since they involve impaired handling of this very amino acid. For other safety information, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence level is L5 (model prediction only), with no clinical trials and no literature that genuinely supports phenylalanine's activity in sclerosing cholangitis. The available publications appear to reflect a name-collision artifact with the unrelated peptide fMLP rather than a real pharmacological signal, and the drug is not currently marketed in Taiwan.
+The prediction for sclerosing cholangitis rests on a high model score and indirect metabolic literature, with no clinical trials and no demonstrated therapeutic mechanism. The second prediction (congenital prothrombin deficiency) has no supporting evidence at all. The long list of knowledge-graph contraindications, including renal and cardiac disease, adds caution.
 
 **To proceed, the following is needed:**
-- Resolve blocking data gap DG001 (TFDA label warnings/contraindications) before any safety pre-assessment
-- Obtain verified mechanism-of-action data (DG002) for phenylalanine
-- Independent literature/database re-query specifically excluding fMLP and other name-collision entities, to confirm whether any genuine phenylalanine–cholangitis evidence exists
-- Note: the secondary candidate (congenital prothrombin deficiency, score 99.26%) was also assessed and is equally unsupported — its only associated trial (NCT06227429, studying Nitisinone, not phenylalanine) was withdrawn with zero enrollment; it carries the same Hold recommendation
+- Package insert warnings, contraindications and approved indication for the Indian product (Melaroc Tablet), which are currently missing
+- Mechanism of action data (for example, from DrugBank) to assess any biological link to cholestatic biliary disease
+- Preclinical or mechanistic studies testing phenylalanine or its metabolites in sclerosing cholangitis models
+- Evaluation of route and formulation suitability (currently only an oral tablet is registered)
+- A safety review of the knowledge-graph contraindications, especially renal, cardiac and phenylalanine-metabolism disorders, for the likely patient population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

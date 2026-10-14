@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fluvastatin
-parent: High Evidence (L1-L2)
-nav_order: 371
-evidence_level: L1
+parent: Model Prediction Only (L5)
+nav_order: 375
+evidence_level: L5
 indication_count: 10
 ---
 
 # Fluvastatin
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Fluvastatin: From Hypercholesterolemia (Unlicensed in India) to Hyperlipoproteinemia
+# Fluvastatin: From Atherosclerosis and Familial Combined Hyperlipidemia to Hyperlipoproteinemia
 
 ## One-Sentence Summary
 
-Fluvastatin is an HMG-CoA reductase inhibitor (statin) already used internationally to treat hypercholesterolemia and familial hypercholesterolemia, but it currently holds **no market authorization in India**. The TxGNN model's top-ranked prediction — **Hyperlipoproteinemia** — closely mirrors this well-established statin use, supported by **5 clinical trials** and **20 publications**, several of which test fluvastatin directly.
+Fluvastatin is a statin, originally used for atherosclerosis, arteriosclerosis and familial combined hyperlipidemia.
+The TxGNN model predicts it may be effective for **hyperlipoproteinemia**, with **1 registered clinical trial** (which tests a different drug) and **20 publications** in the data compiled for this report. Most of the supporting publications are fluvastatin studies in related lipid disorders.
+This is closer to an on-label or near-label use than to true repurposing.
 
 ---
 
@@ -41,23 +43,29 @@ Fluvastatin is an HMG-CoA reductase inhibitor (statin) already used internationa
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file in this evidence pack — no India license or original-indication text is recorded. Trial/literature evidence (e.g., NCT00171236, NCT00726362) confirms fluvastatin's established global use for hypercholesterolemia/familial hypercholesterolemia. |
+| Original Indication | Arteriosclerosis disorder; atherosclerosis; familial combined hyperlipidemia (from the knowledge graph; the India licence records contain no indication text) |
 | Predicted New Indication | Hyperlipoproteinemia |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L1 (see note below) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Proceed with Guardrails |
+
+*Note on evidence level:* The only registered trial for this indication (NCT03510715) tests alirocumab, not fluvastatin. The L1 rating therefore rests on the fluvastatin literature, which includes a pediatric randomized trial and several combination-therapy trials. It does not rest on completed Phase 3 trials of fluvastatin for this exact indication.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for fluvastatin is not available in this evidence pack (flagged as a High-severity data gap requiring DrugBank API lookup). Based on the pharmacological context captured in the repurposing rationale, fluvastatin acts through the standard statin mechanism — reducing LDL cholesterol and apolipoprotein B — and has been the subject of numerous direct trials in hyperlipidemia and mixed hyperlipoproteinemia.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, fluvastatin is an HMG-CoA reductase inhibitor. It reduces cholesterol synthesis in the liver and upregulates LDL receptors, which lowers LDL cholesterol and apolipoprotein B.
 
-The predicted indication, hyperlipoproteinemia, is mechanistically and clinically almost synonymous with fluvastatin's known therapeutic role: multiple RCTs in the evidence set (e.g., the FACT study, PMID 10856536) test fluvastatin directly — alone or combined with bezafibrate/fenofibrate — in patients with mixed hyperlipidaemia. This means the TxGNN signal here largely **confirms an already-established drug class use** rather than identifying a genuinely novel off-label application, which strengthens confidence in the model's output but tempers its novelty value for this specific candidate.
+Atherosclerosis and hyperlipoproteinemia are closely linked, since raised lipoproteins drive atherosclerotic disease. The predicted indication shares the core lipid-lowering mechanism of the original indications. The prediction is therefore mechanistically sound, though it is better described as an on-label or near-label use than as repurposing.
 
-Because fluvastatin is not currently licensed in India, the practical value of this prediction lies less in discovering a new indication and more in supporting a potential India market-entry/registration case for a globally validated lipid-lowering therapy.
+Other predictions in the ranked list vary in strength:
+- **Familial hypercholesterolemia (heterozygous):** Strong support. NCT00171236 is a completed Phase 3 fluvastatin trial in 84 children, and the literature includes high-dose and combination regimens.
+- **Homozygous familial hypercholesterolemia:** Weak support. These patients have little or no residual LDL receptor function, so statin efficacy is expected to be limited. Evidence level is L4, and the decision is Research Question.
+- **HIV infection:** Fluvastatin is mainly studied for antiretroviral-associated dyslipidemia, not for antiviral effect. Evidence level is L3, and the decision is Research Question.
+- **Lower-ranked predictions** (for example CETP deficiency, 7-alpha-hydroxylase deficiency, animal retroviral diseases and prostate fibroma) have no trial or literature support and are rated Hold.
 
 ---
 
@@ -65,11 +73,13 @@ Because fluvastatin is not currently licensed in India, the practical value of t
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00532311](https://clinicaltrials.gov/study/NCT00532311) | Phase 3 | Terminated | 411 | Lapaquistat acetate (not fluvastatin) added to statin therapy for hypercholesterolemia; terminated. |
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | Completed | 18 | Alirocumab (PCSK9 inhibitor, not fluvastatin) in pediatric homozygous familial hypercholesterolemia. |
-| [NCT04608474](https://clinicaltrials.gov/study/NCT04608474) | Phase 4 | Unknown | 120 | Evolocumab pilot study for hyperlipidemia in renal transplant recipients; different drug class. |
-| [NCT00726362](https://clinicaltrials.gov/study/NCT00726362) | N/A | Completed | 3270 | Large real-world survey comparing commercially available statins, including fluvastatin, in hyperlipidemia patients. |
-| [NCT01634906](https://clinicaltrials.gov/study/NCT01634906) | N/A | Completed | 55 | Non-randomized study on erythrocyte-bound apolipoprotein B changes after statin withdrawal. |
+| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | Completed | 18 | Alirocumab (a PCSK9 inhibitor) in children and adolescents with homozygous FH. It does not involve fluvastatin, so it is indirect evidence that only confirms the disease area. |
+
+Trials for related predictions that bear on this assessment:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00171236](https://clinicaltrials.gov/study/NCT00171236) | Phase 3 | Completed | 84 | Fluvastatin in children with heterozygous familial hypercholesterolemia. Direct evidence for the drug in a related lipid disorder. |
 
 ---
 
@@ -77,30 +87,49 @@ Because fluvastatin is not currently licensed in India, the practical value of t
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [10856536](https://pubmed.ncbi.nlm.nih.gov/10856536/) | 2000 | RCT | Atherosclerosis | FACT study: fluvastatin + bezafibrate combination effective and safe in mixed hyperlipidaemia (n=333). |
-| [11219479](https://pubmed.ncbi.nlm.nih.gov/11219479/) | 2001 | RCT | Clinical Therapeutics | Fluvastatin extended-release vs. immediate-release formulation compared for primary hypercholesterolemia. |
-| [15598476](https://pubmed.ncbi.nlm.nih.gov/15598476/) | 2004 | RCT | Clinical Therapeutics | 12-month RCT: fluvastatin+fenofibrate vs. fluvastatin monotherapy in combined hyperlipidemia with T2DM and CHD. |
-| [8192170](https://pubmed.ncbi.nlm.nih.gov/8192170/) | 1994 | RCT | Am J Medicine | Fluvastatin-bezafibrate vs. fluvastatin-cholestyramine combinations compared in familial hypercholesterolemia. |
-| [9271817](https://pubmed.ncbi.nlm.nih.gov/9271817/) | 1997 | Cohort | Thrombosis Research | Fluvastatin's effect on tissue factor pathway inhibitor in type IIa/IIb hyperlipidemia and post-MI patients. |
-| [7604804](https://pubmed.ncbi.nlm.nih.gov/7604804/) | 1995 | Open-label | Am J Cardiology | High-dose fluvastatin ± bezafibrate in severe heterozygous familial hypercholesterolemia. |
-| [7604807](https://pubmed.ncbi.nlm.nih.gov/7604807/) | 1995 | Open-label | Am J Cardiology | Triple therapy (fluvastatin-bezafibrate-cholestyramine) for severe familial hypercholesterolemia. |
-| [8157036](https://pubmed.ncbi.nlm.nih.gov/8157036/) | 1993 | Double-blind | Eur J Clin Pharmacol | High-dose fluvastatin efficacy/safety in 52 patients with familial hypercholesterolaemia. |
-| [17062478](https://pubmed.ncbi.nlm.nih.gov/17062478/) | 2006 | Clinical study | Acta Paediatrica | Fluvastatin efficacy and safety in children/adolescents with heterozygous familial hypercholesterolaemia. |
-| [7517835](https://pubmed.ncbi.nlm.nih.gov/7517835/) | 1994 | Open study | Drugs | Fluvastatin efficacy, safety, and tolerability in elderly hypercholesterolaemic women. |
+| [17062478](https://pubmed.ncbi.nlm.nih.gov/17062478/) | 2006 | RCT (pediatric) | Acta Paediatr | Fluvastatin in children and adolescents with heterozygous FH, assessing lipid profiles and vascular changes |
+| [15598476](https://pubmed.ncbi.nlm.nih.gov/15598476/) | 2004 | RCT (12-month, double-blind) | Clin Ther | Fluvastatin plus fenofibrate vs fluvastatin alone in combined hyperlipidemia, type 2 diabetes and coronary heart disease |
+| [10856536](https://pubmed.ncbi.nlm.nih.gov/10856536/) | 2000 | RCT (double-blind, n=333) | Atherosclerosis | FACT study: fluvastatin plus bezafibrate in coronary artery disease with mixed hyperlipidaemia |
+| [11219479](https://pubmed.ncbi.nlm.nih.gov/11219479/) | 2001 | Randomized trial | Clin Ther | Fluvastatin 80 mg extended-release vs immediate-release in primary hypercholesterolemia |
+| [8157036](https://pubmed.ncbi.nlm.nih.gov/8157036/) | 1993 | Double-blind clinical study | Eur J Clin Pharmacol | High-dose fluvastatin in 52 patients with familial hypercholesterolaemia |
+| [10067240](https://pubmed.ncbi.nlm.nih.gov/10067240/) | 1998 | Clinical study | Ter Arkh | Variability of lipid-lowering effect of simvastatin and fluvastatin in primary hyperlipoproteinemia |
+| [7604789](https://pubmed.ncbi.nlm.nih.gov/7604789/) | 1995 | Clinical study | Am J Cardiol | Fluvastatin effects on lipid profile and apolipoproteins in 31 Chinese patients with hypercholesterolemia |
+| [7604807](https://pubmed.ncbi.nlm.nih.gov/7604807/) | 1995 | Open-label study | Am J Cardiol | Triple therapy (fluvastatin, bezafibrate, cholestyramine) in severe familial hypercholesterolemia |
+| [8462180](https://pubmed.ncbi.nlm.nih.gov/8462180/) | 1993 | Review | Circulation | Review of drug treatment of dyslipoproteinemia, focusing on fluvastatin |
+| [11347136](https://pubmed.ncbi.nlm.nih.gov/11347136/) | 2001 | Review | Nihon Rinsho | Review of fluvastatin (no abstract available) |
 
 ---
 
 ## India Market Information
 
-Fluvastatin is **not currently licensed or marketed in India** — the evidence pack records zero registrations and no license entries.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 123431 | Lescol XL 80mg Tablet (Novartis India Ltd) | Strip of 14 tablets | Not stated in the registration record |
+| 85524 | Fluvalip 40mg Tablet (Nectazen Pharmaceuticals) | Strip of 10 tablets | Not stated in the registration record |
+
+Both registrations are valid single-ingredient oral products.
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: The DDI database records **159 total interactions** for fluvastatin. Among the sample returned, the following are flagged as **Moderate**-level interactions requiring clinical attention: Aprepitant, Metronidazole, Oxandrolone, Naltrexone, Nateglinide, Nitisinone, Rosuvastatin, Simvastatin, Tinidazole, Glyburide, and Pectin. Additional interactions with Calcitriol, Doxycycline, Cimetidine, Epinephrine, Mannitol, Dicyclomine, Famotidine, Acetylsalicylic acid, and Pantoprazole are on record with unclassified severity. Separately, literature evidence (PMID 23703578, PMID 19838098) highlights a clinically relevant CYP-mediated interaction between statins and HIV protease inhibitors, relevant to any HIV-related lipid-management use of fluvastatin.
+**Contraindication signals from the knowledge graph** (these are graph associations, not package-insert text): liver disease, gallbladder disease, myopathy, muscular disease, skeletal muscle disease, familial periodic paralysis, hypotensive disorder, substance abuse/dependence, rhabdomyolysis, nodular fasciitis and injury.
 
-Package insert warnings and contraindications are not currently available in this evidence pack.
+**Drug Interactions:** The data records 159 interactions. Those listed as Moderate include:
+- Other statins (rosuvastatin, simvastatin)
+- Glyburide
+- Nateglinide
+- Metronidazole
+- Tinidazole
+- Aprepitant
+- Naltrexone
+- Nitisinone
+- Oxandrolone
+- Pectin
+
+Other entries have an unrated level, for example aspirin, cimetidine, famotidine, pantoprazole, doxycycline and calcitriol.
+
+Please refer to the package insert for the full warnings and contraindications, which were not available in the data compiled for this report.
 
 ---
 
@@ -109,13 +138,15 @@ Package insert warnings and contraindications are not currently available in thi
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The predicted indication (hyperlipoproteinemia) is supported by L1-level evidence, including multiple direct fluvastatin RCTs, and effectively reconfirms an established statin indication rather than a novel use. However, fluvastatin holds no current India market authorization, and core safety data (warnings, contraindications) are missing, which blocks a full safety assessment.
+Fluvastatin's lipid-lowering mechanism directly matches hyperlipoproteinemia, and the fluvastatin literature includes randomized trials in related disorders. However, the only registered trial for this exact indication tests a different drug. The strongest direct evidence (NCT00171236) is in heterozygous FH. The package-insert safety review is also incomplete.
 
 **To proceed, the following is needed:**
-- TFDA/India package insert data — key warnings and contraindications (currently a Blocking data gap, DG001)
-- Confirmed mechanism of action via DrugBank API (High-severity data gap, DG002)
-- An India regulatory pathway/licensing assessment, since the drug is not currently marketed there
-- Review of the several clinical trials and literature items still marked "pending" relevance classification to finalize the evidence grade
+- Package-insert warnings and contraindications from the India product labels (a blocking data gap for safety screening)
+- Mechanism of action data from DrugBank
+- Confirmation of the approved indication text for the India registrations
+- A DDI management plan, particularly for combination use with other lipid-lowering agents
+- Pediatric dosing and monitoring guidance if pediatric use is considered
+- Muscle and liver monitoring, given the knowledge-graph contraindication signals
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

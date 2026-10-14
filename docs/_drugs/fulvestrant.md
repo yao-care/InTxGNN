@@ -2,7 +2,7 @@
 layout: default
 title: Fulvestrant
 parent: Model Prediction Only (L5)
-nav_order: 380
+nav_order: 384
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,102 +29,87 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fulvestrant: Original Indication Not on File — Predicted for HIV Infectious Disease
+# Fulvestrant: From Breast Cancer to HIV Infectious Disease
 
 ## One-Sentence Summary
 
-The evidence pack does not document Fulvestrant's original approved indication or India market license data (0 registrations, not marketed). The TxGNN model predicts it may be effective for **HIV Infectious Disease**, but this direction is currently supported by **0 clinical trials** and only **1 loosely related publication** (which concerns HTLV-1, not HIV itself).
-
----
+Fulvestrant is an estrogen receptor antagonist and degrader, marketed in India as an injection for hormone receptor-positive breast cancer. The TxGNN model predicts it may be effective for **HIV infectious disease**, but there are **no registered clinical trials** and only **2 publications** (one preclinical mechanistic study and one tangential HTLV-1 paper). This is a hypothesis-stage prediction, not a clinically supported one.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this evidence pack (no India-approved license record; `original_indications` empty) |
-| Predicted New Indication | HIV Infectious Disease |
+| Original Indication | Not stated in the India licence data compiled for this report (fulvestrant is known to be used in HR-positive advanced breast cancer) |
+| Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 99.91% |
-| Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 (preclinical/mechanistic evidence only) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for Fulvestrant is flagged as a data gap in this evidence pack (DG002). Based on evidence embedded elsewhere in the pack (clinical trial titles/summaries under the "multiple endocrine neoplasia" candidate), Fulvestrant is identifiable as a selective estrogen receptor degrader (SERD) used across dozens of hormone receptor-positive (HR+), HER2-negative metastatic breast cancer trials — but no original-indication or India licensing data is present here to confirm this formally for this candidate record.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, fulvestrant is an estrogen receptor α (ERα) antagonist and degrader. Its efficacy in HR-positive breast cancer is established, and mechanistically it may be applicable to HIV through estrogen receptor signalling.
 
-For the top-ranked prediction, HIV Infectious Disease, the model's own supporting rationale states there is **no direct mechanistic link**. The single literature hit is a cross-omics cohort analysis of HTLV-1-associated myelopathy (HAM) — a different retrovirus and disease from HIV — that only touches HIV tangentially as a comparator within a broader neuroinflammatory/viral-immunology framework. It is not a study of fulvestrant, estrogen-receptor biology, or antiretroviral activity.
+Estrogen receptor α is expressed in CD4+ T cells and is hypothesised to influence HIV transcription and latency. A 2026 in vitro study (PMID 42430506) examined how ER ligands, including fulvestrant, and HIV latency-reversing agents interact with ERα in CD4+ T cells. This suggests fulvestrant could plausibly influence latency reversal.
 
-Given the absence of any mechanistic, preclinical, or clinical connection between an anti-estrogen SERD and HIV pathophysiology, this prediction should be treated as a pure knowledge-graph signal (high TxGNN score, rank 2154) rather than a biologically grounded hypothesis at this stage.
-
----
+This evidence is preclinical and indirect. The link between breast cancer (a hormone-driven tumour) and HIV (a retroviral infection) is only through the shared estrogen receptor pathway. No study has tested fulvestrant in people with HIV.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered for HIV infectious disease.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Cross-omics Cohort Analysis (Tier 3; HTLV-1, not HIV) | Research square (preprint) | Multi-cohort (epi)genomic analysis of HTLV-1-associated myelopathy (HAM), a neuroinflammatory disease; current HAM treatment is symptomatic and borrows strategies from HIV-1/MS therapy — HIV is referenced only as a comparator, not as the study subject, and fulvestrant is not mentioned. |
-
----
+| [42430506](https://pubmed.ncbi.nlm.nih.gov/42430506/) | 2026 | Preclinical in vitro mechanistic study | JCI Insight | Examined the effect of estrogen, fulvestrant and HIV latency-reversing agents on ERα in CD4+ T cells; ER signalling may influence HIV latency |
+| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Cross-omics cohort analysis | Research Square | Concerns HTLV-1-associated myelopathy (a different retrovirus), not HIV; only tangentially relevant |
 
 ## India Market Information
 
-Fulvestrant is currently **not marketed in India** — no licenses are on file (`total_licenses: 0`, `market_status: Not marketed`).
+The licence records compiled for this report contain no approved-indication text. Five of the 20 valid single-ingredient injectable registrations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 84979 | Faslodex 500mg Injection (AstraZeneca) | Vial of 10 ml injection | Not stated in licence data |
+| Registration No. 85200 | Faslodex 250mg Injection (AstraZeneca) | Vial of 5 ml injection | Not stated in licence data |
+| Registration No. 87354 | Fuvestrol Injection (Cadila Pharmaceuticals) | Prefilled syringe of 5 ml injection | Not stated in licence data |
+| Registration No. 88847 | Fulvenat 120mg Injection (Natco Pharma) | Vial of 1 injection | Not stated in licence data |
+| Registration No. 203927 | Strantas 250mg Injection (Intas Pharmaceuticals) | Prefilled syringe of 5 ml injection | Not stated in licence data |
+
+All 20 registrations are valid single-ingredient injectables; none are cancelled or combination products.
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted/hormonal therapy (selective estrogen receptor degrader), not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert; liver function and platelet count are reasonable considerations given the contraindication signals below |
+| Handling Protection | Please refer to the package insert and local institutional handling policy |
 
 ## Safety Considerations
 
-**Drug Interactions**: A DDI query returned 92 total interactions on record (source: DDInter), though all listed interaction levels are classified as "Unknown" severity. Representative interacting drugs include:
+- **Disease associations flagged in the knowledge graph (not label text):** liver disease, gallbladder disease, thrombocytopenia and blood coagulation disease. These come from drug-disease contraindication links in the TxGNN knowledge graph and should be verified against the official label.
+- **Drug Interactions:** 92 potential interactions were identified, all with severity level unspecified. Examples include warfarin, metformin, simvastatin, prednisone, dexamethasone, morphine, ondansetron, proton pump inhibitors (omeprazole, pantoprazole, lansoprazole), H2 blockers (famotidine, ranitidine), metoclopramide, metronidazole and acetylsalicylic acid. Clinical significance has not been graded. The warfarin pairing and the thrombocytopenia/coagulation flags deserve particular attention for an injectable given by intramuscular route.
 
-| Interacting Drug | Level | Source |
-|---|---|---|
-| Pantoprazole | Unknown | ddinter |
-| Morphine | Unknown | ddinter |
-| Metformin | Unknown | ddinter |
-| Omeprazole | Unknown | ddinter |
-| Lansoprazole | Unknown | ddinter |
-| Prednisone | Unknown | ddinter |
-| Simvastatin | Unknown | ddinter |
-| Potassium chloride | Unknown | ddinter |
-| Ranitidine | Unknown | ddinter |
-| Ondansetron | Unknown | ddinter |
-| Metronidazole | Unknown | ddinter |
-| Famotidine | Unknown | ddinter |
-| Acetylsalicylic acid | Unknown | ddinter |
-| Palonosetron | Unknown | ddinter |
-| Bupropion | Unknown | ddinter |
-| Calcium chloride | Unknown | ddinter |
-| Metoclopramide | Unknown | ddinter |
-| Dexamethasone | Unknown | ddinter |
-| Promethazine | Unknown | ddinter |
-| Warfarin | Unknown | ddinter |
-
-Key warnings and contraindications are not available in this evidence pack (flagged as a data gap, DG001 — blocking for safety pre-screening). Please refer to the package insert for that information once obtained.
-
----
+Please refer to the package insert for key warnings and contraindications; this label information was not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The HIV infectious disease prediction has no supporting clinical trials, no mechanistically relevant literature, and the one available publication concerns a different disease (HTLV-1, not HIV). Evidence level is L5 (model prediction only), and both the drug's original indication/MOA and its India regulatory status are undocumented data gaps — the candidate does not clear even an initial safety screen (DG001 is explicitly blocking).
+The only support for HIV is a single in vitro study and a tangential HTLV-1 paper, with no clinical trials. The high TxGNN score (99.91%) reflects network proximity rather than clinical evidence. Other predicted indications fare no better: the trials matched to "multiple endocrine neoplasia" are actually breast cancer studies (the approved use), and rheumatoid arthritis evidence is indirect and possibly contradictory (estrogen blockade worsened inflammation in a rat model). Treat HIV as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
-- Fulvestrant's package insert / TFDA-CDSCO label data (key warnings, contraindications) — currently blocking (DG001)
-- Verified mechanism of action documentation (DG002)
-- Confirmation of Fulvestrant's actual original indication and any India licensing status
-- Any preclinical or in vitro data specifically linking estrogen receptor modulation to HIV viral replication or immune response, if such a hypothesis is to be pursued further
-- DDI severity grading (current list shows "Unknown" levels for all 92 interactions, which is not actionable for risk assessment)
+- Package insert warnings and contraindications from the India licence holders (currently missing; this blocks safety screening)
+- Mechanism-of-action data from DrugBank
+- Further in vitro and ex vivo work on ERα antagonism and HIV latency, including whether fulvestrant reverses or reinforces latency
+- Assessment of the safety of long-term estrogen blockade in people with HIV, including bone health and coagulation
+- Review of drug interaction severity, especially with antiretrovirals, which were not covered in the interaction data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

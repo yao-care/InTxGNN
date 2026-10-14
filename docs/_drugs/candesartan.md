@@ -3,14 +3,14 @@ layout: default
 title: Candesartan
 parent: High Evidence (L1-L2)
 nav_order: 137
-evidence_level: L2
+evidence_level: L1
 indication_count: 10
 ---
 
 # Candesartan
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,102 +33,97 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Candesartan is an angiotensin II type 1 (AT1) receptor blocker (ARB) widely established for the treatment of hypertension and heart failure.
-The TxGNN model predicts it may be effective for **Migraine Disorder**,
-with **3 directly relevant clinical trials** and **20 publications** currently supporting this direction — including a landmark 2025 Phase 2 RCT published in *The Lancet Neurology*.
-
----
+Candesartan is an angiotensin II receptor blocker used to treat hypertension, alone or in combination with other agents.
+The TxGNN model predicts it may be effective for **migraine disorder** (migraine prevention), with **4 related clinical trials** (3 directly relevant) and **20 publications** currently supporting this direction, including a 2025 randomised, triple-blind, placebo-controlled trial published in The Lancet Neurology.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension / Heart failure (established ARB class indication) |
-| Predicted New Indication | Migraine Disorder |
+|------|------|
+| Original Indication | Hypertension (alone or in combination with other agents) |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L2 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L1 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Candesartan is an angiotensin II type 1 (AT1) receptor blocker. By competitively antagonizing AT1 receptors, it prevents angiotensin II from exerting its vasoconstrictive and pro-inflammatory effects on the vasculature, kidney, and central nervous system. Although detailed MOA data from DrugBank was not retrievable in this Evidence Pack, the mechanistic rationale for migraine prevention is well-supported in the literature.
+Candesartan is a selective angiotensin II type 1 (AT1) receptor blocker. Detailed mechanism of action data is not available from the compiled sources, but its pharmacology confirms AT1 receptor (AGTR1) antagonism. Its established use is in hypertension.
 
-The link between the renin-angiotensin-aldosterone system (RAAS) and migraine pathophysiology is biologically plausible and increasingly well-characterised. AT1 receptors are expressed on trigeminovascular neurons and cerebral blood vessels. Angiotensin II sensitises the trigeminovascular system and may facilitate cortical spreading depression (CSD) — the electrophysiological event underlying migraine aura. AT1 blockade is hypothesised to reduce CSD frequency, suppress CGRP release from trigeminal fibres, and normalise cerebrovascular tone through enhanced nitric oxide (NO) signalling. Genetic studies of ACE insertion/deletion polymorphisms have further reinforced the biological plausibility of this RAAS–migraine connection.
+Several mechanisms have been proposed for migraine prevention. They include modulation of the renin-angiotensin system in cerebrovascular and trigeminovascular tissue, reduced neuroinflammation and oxidative stress, lower susceptibility to cortical spreading depression, and modulation of sympathetic tone and vascular reactivity.
 
-This mechanistic rationale is now backed by a Phase 2 RCT (NCT04574713, n=450) published in *The Lancet Neurology* (2025), as well as an earlier head-to-head comparison with propranolol. Multiple clinical practice guidelines (AAN, ACP, Canadian Headache Society) already reference candesartan as a second-line preventive option, making this one of the most evidence-supported repurposing predictions in this dataset.
+Migraine is a neurovascular disorder, and drugs that act on vascular tone and neuronal excitability can be relevant to it. Several guideline-oriented reviews already list candesartan as a preventive option, which is consistent with the high predicted score.
 
----
+*Note on the original indication:* the Indian licence records compiled for this report contain no approved indication text. The original indication above is taken from the pharmacology record (clinical use: hypertension).
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT04574713](https://clinicaltrials.gov/study/NCT04574713) | Phase 2 | Completed | 450 | Multicenter binational RCT evaluating candesartan 8 mg and 16 mg vs placebo for episodic migraine prevention; confirms favorable efficacy seen in earlier crossover studies; primary results published in *Lancet Neurology* 2025 (PMID 40975098) |
-| [NCT00884663](https://clinicaltrials.gov/study/NCT00884663) | Phase 2/3 | Completed | 72 | Double-blind, triple crossover head-to-head comparison of candesartan vs propranolol for migraine prophylaxis; demonstrated candesartan non-inferior to the standard-of-care agent |
-| [NCT04138316](https://clinicaltrials.gov/study/NCT04138316) | Observational | Completed | 85 | CandeSpartan Study — prospective real-world cohort of patients with episodic or chronic migraine who had failed ≥3 prior preventive drugs; assessed response predictors and tolerability; published in *Cephalalgia* 2024 (PMID 38663908) |
-
----
+|---------|------|------|------|---------|
+| [NCT04574713](https://clinicaltrials.gov/study/NCT04574713) | Phase 2 | Completed | 450 | Multicentre, triple-blind, placebo-controlled, parallel-group trial of candesartan 8 mg and 16 mg for migraine prevention. Likely corresponds to the 2025 Lancet Neurology RCT. |
+| [NCT00884663](https://clinicaltrials.gov/study/NCT00884663) | Phase 2/3 | Completed | 72 | Double-blind, double-dummy, placebo-controlled triple cross-over comparison of candesartan versus propranolol for migraine prophylaxis. |
+| [NCT04138316](https://clinicaltrials.gov/study/NCT04138316) | N/A (observational) | Completed | 85 | Spanish real-world study of response predictors and tolerability in patients who had failed three or more preventive drugs. |
+| [NCT07655440](https://clinicaltrials.gov/study/NCT07655440) | Phase 4 | Not yet recruiting | 120 | Compares migraine preventives and anti-CGRP therapies for tinnitus in migraine patients. Indirect relevance, with no results yet. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [40975098](https://pubmed.ncbi.nlm.nih.gov/40975098/) | 2025 | RCT (Phase 2) | The Lancet Neurology | Randomised, triple-blind, placebo-controlled trial of candesartan for episodic migraine prevention; demonstrated significant reduction in migraine days with favorable tolerability profile |
-| [39899861](https://pubmed.ncbi.nlm.nih.gov/39899861/) | 2025 | Clinical Practice Guideline (ACP) | Annals of Internal Medicine | American College of Physicians guideline on pharmacologic prevention of episodic migraine in outpatient adults; includes evidence review of ARBs including candesartan |
-| [38057728](https://pubmed.ncbi.nlm.nih.gov/38057728/) | 2023 | Systematic Review + Network Meta-analysis | Journal of Headache and Pain | Network meta-analysis ranking preventive drugs for chronic migraine in adults; provides comparative effectiveness context for candesartan vs other agents |
-| [37350141](https://pubmed.ncbi.nlm.nih.gov/37350141/) | 2023 | Systematic Review / Meta-analysis | Cephalalgia | Evaluated blood pressure-lowering medications including ARBs for episodic migraine prevention; assessed whether benefits extend across antihypertensive drug classes |
-| [38663908](https://pubmed.ncbi.nlm.nih.gov/38663908/) | 2024 | Prospective Observational Cohort | Cephalalgia | CandeSpartan Study — real-world effectiveness and tolerability of candesartan in treatment-refractory migraine patients; identifies predictors of clinical response |
-| [22529202](https://pubmed.ncbi.nlm.nih.gov/22529202/) | 2012 | Evidence-Based Guideline (AAN) | Neurology | AAN/American Headache Society guideline update on pharmacologic treatment for episodic migraine prevention; includes candesartan among options with emerging evidence |
-| [22683887](https://pubmed.ncbi.nlm.nih.gov/22683887/) | 2012 | Clinical Practice Guideline (CHS) | Canadian Journal of Neurological Sciences | Canadian Headache Society guideline for migraine prophylaxis; includes evidence-based recommendations for second-line agents including candesartan |
-| [33589682](https://pubmed.ncbi.nlm.nih.gov/33589682/) | 2021 | Retrospective Cohort | Scientific Reports | Real-world effectiveness and tolerability of candesartan in migraine practice (2008–2019); explores predictors of patient response with moderate external validity |
-| [40571531](https://pubmed.ncbi.nlm.nih.gov/40571531/) | 2025 | Scoping Review | Clinical Therapeutics | Comprehensive scoping review of candesartan for migraine headache management; summarises all available clinical evidence and contextualises its role as a preventive option |
-| [30600979](https://pubmed.ncbi.nlm.nih.gov/30600979/) | 2019 | Review | American Family Physician | Practical review of migraine headache prophylaxis for primary care; discusses when to initiate preventive therapy and the place of ARBs in the treatment algorithm |
-
----
+|------|-----|------|------|---------|
+| [40975098](https://pubmed.ncbi.nlm.nih.gov/40975098/) | 2025 | RCT | The Lancet. Neurology | Randomised, triple-blind, placebo-controlled phase 2 trial of candesartan for episodic migraine prevention, evaluating safety, tolerability and efficacy. |
+| [39899861](https://pubmed.ncbi.nlm.nih.gov/39899861/) | 2025 | Clinical guideline / Systematic review | Annals of Internal Medicine | American College of Physicians guideline on pharmacologic prevention of episodic migraine in outpatients. |
+| [37350141](https://pubmed.ncbi.nlm.nih.gov/37350141/) | 2023 | Systematic review / Meta-analysis | Cephalalgia | Effect of blood pressure-lowering medications on episodic migraine prevention. |
+| [38057728](https://pubmed.ncbi.nlm.nih.gov/38057728/) | 2023 | Systematic review / Network meta-analysis | The Journal of Headache and Pain | Compares the effectiveness of preventive drugs for chronic migraine in adults. |
+| [39365169](https://pubmed.ncbi.nlm.nih.gov/39365169/) | 2024 | Systematic review | Health Technology Assessment | Clinical and cost-effectiveness of preventive drugs for chronic migraine. |
+| [40571531](https://pubmed.ncbi.nlm.nih.gov/40571531/) | 2025 | Scoping review | Clinical Therapeutics | Candesartan, an angiotensin-receptor blocker, shows potential for migraine management. |
+| [38663908](https://pubmed.ncbi.nlm.nih.gov/38663908/) | 2024 | Observational study | Cephalalgia | CandeSpartan study: effectiveness, tolerability and response predictors of candesartan in migraine prevention. |
+| [38307673](https://pubmed.ncbi.nlm.nih.gov/38307673/) | 2024 | Review | Handbook of Clinical Neurology | Lists candesartan among non-specific oral migraine preventives. |
+| [34048395](https://pubmed.ncbi.nlm.nih.gov/34048395/) | 2021 | Review | Continuum | Overview of preventive migraine treatment, including oral agents and anti-CGRP antibodies. |
+| [18759728](https://pubmed.ncbi.nlm.nih.gov/18759728/) | 2008 | Review | The Medical Journal of Australia | Evidence for candesartan in migraine prophylaxis described as reasonably good but limited. |
 
 ## India Market Information
 
-Candesartan currently has **no registered products** in the India market database. The drug is not marketed at this time.
+Twenty valid single-ingredient licences are registered. All are oral tablets supplied as strips of 10 tablets. Approved indication text is not available for any of them. The five main authorizations are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|--------------|-------------|---------------------|
-| — | No registrations found | — | — |
-
-> Note: Candesartan is a well-established antihypertensive ARB available in many global markets (US, EU, Japan, Taiwan) and generics exist widely. The absence of India registration may reflect a data gap or pending regulatory status rather than unavailability of the compound globally.
-
----
+|---------|------|------|-----------|
+| 37021 | Candesar 4mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated |
+| 38999 | Cantar 8mg Tablet (Dr Reddy's Laboratories Ltd) | Strip of 10 tablets | Not stated |
+| 36620 | Candelong 8mg Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not stated |
+| 39959 | Canditor 8 Tablet (Johnlee Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not stated |
+| 44780 | Candosa 8 Tablet (AAR ESS Remedies Pvt Ltd) | Strip of 10 tablets | Not stated |
 
 ## Safety Considerations
 
-Formal safety data (warnings, contraindications, and drug interaction profiles) was not retrievable for this Evidence Pack.
+Please refer to the package insert for safety information. Package insert warnings and contraindications were not available in the data compiled for this report, and no drug-drug interaction records were identified.
 
-> Please refer to the package insert for safety information.
-
-**Key known class-level safety signals for ARBs (for reference only):**
-- **Contraindicated in pregnancy** (second and third trimester): Risk of fetal renal dysgenesis, oligohydramnios, and pulmonary hypoplasia — documented in case series with candesartan specifically (PMID 15669052, 18412789, 21271514)
-- **Hyperkalemia risk**: Particularly when combined with other RAAS inhibitors, potassium-sparing diuretics, or in patients with renal impairment
-- **Renal function monitoring**: Required in patients with chronic kidney disease or heart failure
-
----
+Points from the compiled literature worth noting:
+- Angiotensin II receptor antagonists given during pregnancy have been linked to oligohydramnios, fetal growth retardation, pulmonary hypoplasia and fetal renal damage (case reports and reviews). Use in women of childbearing potential needs particular attention.
+- Systemic vasodilation and hypotension are a concern in some populations.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-A Phase 2 multicenter RCT (NCT04574713, n=450, *Lancet Neurology* 2025) has now confirmed candesartan's efficacy for episodic migraine prevention, building on an earlier crossover trial vs propranolol. Multiple international clinical guidelines (AAN, ACP, Canadian Headache Society) already reference candesartan as a second-line preventive agent. The mechanistic basis via AT1 receptor blockade in the trigeminovascular system is well-supported. Evidence level L2 is appropriate, as no completed Phase 3 trials yet exist — but the evidence base is maturing.
+A large, completed, triple-blind, placebo-controlled RCT (n=450, published in The Lancet Neurology 2025) and an earlier Phase 2/3 active-comparator trial directly test candesartan for migraine prevention. Guidelines and systematic reviews also discuss it. However, the pivotal trial was registered as Phase 2, the earlier trial was small, and the label-level safety data are missing.
 
 **To proceed, the following is needed:**
+- Package insert warnings and contraindications from Indian sources (currently a blocking data gap).
+- Detailed mechanism of action data (for example from DrugBank).
+- Approved indication text for the Indian licences, to confirm the original indication and any regulatory pathway for a migraine claim.
+- A confirmatory Phase 3 trial or regulatory review of the existing RCT data.
+- A pregnancy and contraception risk-management plan, plus blood pressure, renal function and potassium monitoring for patients who are not hypertensive.
 
-- **India regulatory pathway**: Confirm whether candesartan requires new drug registration or can be listed under existing ARB category approvals; clarify current import/generic availability
-- **Formal safety data retrieval**: Download and parse the CDSCO package insert (if applicable) or reference the approved product labeling from an established market (EU/US) for full contraindication and DDI profile
-- **Phase 3 evidence gap**: Monitor whether NCT04574713's results catalyse a Phase 3 trial; current L2 classification reflects the absence of confirmatory Phase 3 data
-- **Subtype clarification**: TxGNN also flagged *migraine with brainstem aura* (Rank 2) — note that standard ARB use in hemiplegic and basilar-type migraine subtypes may carry additional cardiovascular risk considerations and requires specialist neurology input before any clinical application
-- **Dose optimisation**: NCT04574713 evaluated both 8 mg and 16 mg doses; confirm which dose confers optimal efficacy-tolerability balance based on the 2025 publication findings before any protocol design
+## Other Predicted Indications (Brief)
+
+| Predicted Indication | Evidence Level | Recommendation | Note |
+|------|------|------|------|
+| Migraine with or without aura, susceptibility to | L1 (inherited from migraine disorder) | Proceed with Guardrails | No trials mapped directly; evidence is inferred from the parent condition. |
+| Migraine with brainstem aura | L4 | Research Question | No trial enrolled this subtype specifically. The high score likely reflects ontology proximity to migraine. |
+| Pulmonary hypertension | L4 | Hold | Preclinical rationale only, and no clinical evidence. |
+| Prinzmetal angina, kyphoscoliotic heart disease, atrophoderma vermiculata, ulerythema ophryogenesis, benign prostatic hyperplasia, alopecia | L5 | Hold | Model prediction only, with no supporting trials or relevant literature. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

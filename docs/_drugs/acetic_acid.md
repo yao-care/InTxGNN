@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Acetic Acid
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 20
-evidence_level: L4
+evidence_level: L5
 indication_count: 9
 ---
 
 # Acetic Acid
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,69 +29,78 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-# Acetic Acid: From Topical Antimicrobial Use to Post-Bacterial Disorder
+# Acetic Acid: From Otitis Externa to Post-Bacterial Disorder
 
 ## One-Sentence Summary
 
-Acetic acid is a simple organic acid (pKa ≈ 4.76) with established off-label use as a topical antimicrobial agent for wound irrigation in *Pseudomonas aeruginosa* infections and otitis externa, but currently holds no formal regulatory registration in India.
-The TxGNN model predicts it may be effective for **Post-Bacterial Disorder** (ranked #1 among all repurposing candidates),
-yet **no directly relevant clinical trials** and **no supporting publications** currently exist for this specific indication, making the mechanistic link highly speculative.
+Acetic acid is a topical acidifying and antimicrobial agent, originally used to treat otitis externa (external ear disease).
+The TxGNN model's top-ranked prediction is **post-bacterial disorder**, but this is a model prediction only, with **0 clinical trials** and **0 publications** currently supporting it.
+The only prediction with any meaningful supporting literature is **tinea corporis** (rank 9), which has historical and indirect evidence only.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No formal regulatory registration; known off-label uses include wound irrigation (Pseudomonas aeruginosa) and otitis externa |
-| Predicted New Indication | Post-Bacterial Disorder |
+|------|------|
+| Original Indication | Otitis externa, external ear disease |
+| Predicted New Indication | Post-bacterial disorder (top-ranked); tinea corporis is the only prediction with supporting literature |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Acetic acid exerts its core antimicrobial effect by lowering local pH to below 5, which disrupts bacterial membrane integrity, inhibits metabolic enzymes, and creates an unfavorable growth environment for both gram-positive and gram-negative organisms. This mechanism has justified its historical use in wound bed irrigation — particularly against *Pseudomonas aeruginosa* biofilms — and as a topical acidifying agent in otitis externa management. The compound functions essentially as a chemical barrier rather than a targeted pharmacological agent.
+Currently, detailed mechanism of action data is not available. Based on known information, acetic acid is a topical acidifier with antibacterial and antifungal activity. Its efficacy in otitis externa is established, and mechanistically it may be applicable to some superficial infections.
 
-"Post-bacterial disorder" is a broad umbrella term encompassing sequelae that persist or emerge after the primary bacterial infection has been cleared — examples include reactive arthritis, post-streptococcal glomerulonephritis, and post-infectious gut dysbiosis. In these conditions, the causative pathogen is no longer the primary driver; instead, immune-mediated tissue damage, molecular mimicry, or microbiome disruption sustains the disease process. Acetic acid's pH-reducing antimicrobial mechanism has no established pathway for addressing these downstream immune or structural consequences.
+For the top-ranked prediction, **post-bacterial disorder**, the link is weak. The term is a non-specific category (post-infectious sequelae), and there is no clear pharmacological connection to a topical antiseptic. The other high-scoring predictions (postinfectious vasculitis, post-infectious syndrome, Chagas cardiomyopathy, infection-related hemolytic uremic syndrome, drug-induced osteoporosis) involve immune-mediated or systemic processes that a topical agent is unlikely to influence. Infective urethral stricture has only a very weak indirect rationale, because dilute acetic acid is used as an irrigant in some settings.
 
-Currently, detailed mechanism of action data is not available from DrugBank. Based on known information, acetic acid acts as a broad-spectrum topical antimicrobial via acidification, and its documented efficacy is limited to environments where bacterial viability is pH-sensitive. Its applicability to post-bacterial disorder — where active infection is absent and immune dysregulation predominates — remains mechanistically unsubstantiated. The exceptionally high TxGNN score (99.98%) most likely reflects knowledge graph structural proximity between acetic acid's anti-infective properties and infection-associated disease nodes, rather than a pharmacologically meaningful relationship.
+The most biologically plausible prediction is **tinea corporis** (score 99.25%). Acetic acid acidifies the skin surface and inhibits fungal growth, which is consistent with its use in fungal otitis externa. Historical reports describe dilute acetic acid for related dermatophyte infections. Pityriasis simplex (score 99.33%) is also loosely plausible through the same skin-acidifying effect, but no evidence was found.
 
 ---
 
 ## Clinical Trial Evidence
 
-All 18 clinical trials retrieved for this indication showed low direct relevance (Grade C) to acetic acid in post-bacterial disorders. One trial received a Grade B rating due to direct testing of an acetic acid–containing compound in human subjects:
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04120259](https://clinicaltrials.gov/study/NCT04120259) | N/A | Completed | 126 | Apple cider vinegar (acetic acid source) combined with Metformin vs. Metformin alone in newly diagnosed Type 2 Diabetes; provides indirect in-human pharmacokinetic and safety context for acetic acid administration, though the target disease is metabolic rather than post-bacterial |
-
-> **Note:** No clinical trials directly testing acetic acid for post-bacterial disorder were identified. All other retrieved trials involve unrelated interventions (STI prevention programs, gut microbiome studies, HIV screening, prebiotic supplementation) that were matched by disease category keyword overlap rather than drug relevance.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for acetic acid in post-bacterial disorder.
+No literature is available for the top-ranked prediction (post-bacterial disorder). The table below covers the most relevant publications found for **tinea corporis** (rank 9), the only prediction with meaningful supporting literature. The evidence is dated, uncontrolled, and mostly concerns related dermatophytoses rather than tinea corporis itself.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [20256868](https://pubmed.ncbi.nlm.nih.gov/20256868/) | 1947 | Historical case series | Urol Cutaneous Rev | Larger series of tinea capitis patients treated with special iodine and dilute acetic acid |
+| [20996178](https://pubmed.ncbi.nlm.nih.gov/20996178/) | 1946 | Historical clinical report | JAMA | Treatment of tinea capitis with special iodine and dilute acetic acid |
+| [20983383](https://pubmed.ncbi.nlm.nih.gov/20983383/) | 1946 | Historical clinical report | Arch Dermatol Syphilol | Treatment of tinea capitis with special iodine and dilute acetic acid |
+| [13616002](https://pubmed.ncbi.nlm.nih.gov/13616002/) | 1958 | Historical clinical report | Vestn Dermatol Venerol | Foot epidermophytosis treated with increasing concentrations of acetic acid |
+| [31049344](https://pubmed.ncbi.nlm.nih.gov/31049344/) | 2019 | Case report/series | Skin Appendage Disord | Chemical peeling as an alternative to oral antifungals for onychomycosis in special circumstances |
+| [26857689](https://pubmed.ncbi.nlm.nih.gov/26857689/) | 2016 | In vitro | Mycoses | Topical antifungal products evaluated in an in vitro onychomycosis model |
+| [37256034](https://pubmed.ncbi.nlm.nih.gov/37256034/) | 2023 | Case series (safety) | Arch Plast Surg | Burns caused by Korean folk remedies, a safety concern for uncontrolled topical use |
+
+For **post-infectious syndrome** (rank 3), the only item is a 2011 systematic review of animal models of post-infectious IBS ([20848144](https://pubmed.ncbi.nlm.nih.gov/20848144/), J Gastroenterol). It does not show therapeutic benefit from acetic acid.
 
 ---
 
 ## India Market Information
 
-Acetic acid (DrugBank ID: DB03166) has no registered pharmaceutical products in India. No marketing authorizations, product licenses, or approved indications exist in this jurisdiction.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 805 | Acetik Ear Drop (NuLife Pharmaceuticals) | 10 ml bottle, ear drop | Not specified |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signals**: The TxGNN knowledge graph links acetic acid to contraindications in inherited porphyria, porphyrin metabolism disease, porphyria, herpes simplex infectious disease, and geniculate herpes zoster. These come from graph edges rather than label text, so they should be verified against the product label.
+- **Topical misuse risk**: A 2023 report describes burns caused by folk remedies, which raises a safety concern for uncontrolled topical use of acid-containing preparations.
 
-> **Known safety context (from literature and general knowledge):** Concentrated acetic acid (>30%) is corrosive and can cause chemical burns. Dilute solutions (1–5%) used clinically for wound irrigation are generally well tolerated. Systemic toxicity risk from topical application is low. Caution is advised in patients with renal impairment, as acetic acid metabolism may affect acid-base balance with repeated or high-volume irrigation.
+No drug interaction data were found. Please refer to the package insert for further safety information.
 
 ---
 
@@ -100,14 +109,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Despite an extremely high TxGNN prediction score (99.98%), the evidence for acetic acid in post-bacterial disorder is L4 at best — limited to mechanistic plausibility only. "Post-bacterial disorder" is a poorly defined clinical target, the mechanistic link between acetic acid and post-infectious immune sequelae is absent, no supporting clinical trials or literature exist for this indication, and the drug is unregistered in India with no safety documentation on file.
+All predictions are supported only by the graph-based model, with no clinical trials. The top-ranked prediction (post-bacterial disorder) is non-specific and has no clear pharmacological link to a topical antiseptic. Tinea corporis is the most plausible research question (evidence level L4), but its support is limited to dated, uncontrolled reports on related dermatophytoses.
 
 **To proceed, the following is needed:**
-- **Target specification:** Define the precise post-bacterial disorder of interest (e.g., reactive arthritis, post-streptococcal sequelae, post-infectious dysbiosis) before any further assessment
-- **MOA documentation:** Retrieve DrugBank mechanism of action data to assess whether any pathway could theoretically reach post-infectious immune targets
-- **Safety data retrieval:** Obtain TFDA/India regulatory package insert or equivalent safety documentation to enable formal S1 safety screening
-- **Preclinical feasibility:** Commission or identify in vitro / animal model studies testing acetic acid in relevant post-bacterial disease models before considering clinical development
-- **Alternative candidate prioritisation:** Consider redirecting resources to **tinea corporis** (Rank #9, Evidence Level L3, scored "Research Question"), which has a more coherent mechanistic rationale, 1940s–2020s clinical case series, and a recent small RCT — making it a substantially more actionable repurposing candidate within this Evidence Pack
+- Package insert warnings and contraindications for the marketed product (needed before any safety screening)
+- Detailed mechanism of action data
+- For tinea corporis: modern controlled studies comparing dilute acetic acid with standard topical antifungals, with a defined concentration and safety profile for skin use
+- Confirmation of route compatibility, since the marketed product is an ear drop and skin use would need a different formulation
+- Clarification of the post-bacterial disorder definition before any further assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

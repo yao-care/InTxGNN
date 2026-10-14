@@ -2,7 +2,7 @@
 layout: default
 title: Vinblastine
 parent: Moderate Evidence (L3-L4)
-nav_order: 881
+nav_order: 890
 evidence_level: L3
 indication_count: 10
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Vinblastine: From Hodgkin Lymphoma to Rhabdomyosarcoma
+# Vinblastine: From Hodgkin Lymphoma and Other Lymphomas to Rhabdomyosarcoma
 
 ## One-Sentence Summary
 
-> Vinblastine is a vinca alkaloid historically used to treat Hodgkin lymphoma, testicular cancer, and other malignancies, though it currently holds no marketing authorization in India.
-> The TxGNN model predicts it may be effective for **Rhabdomyosarcoma**,
-> with **0 clinical trials directly testing vinblastine** and **16 publications** (mostly case reports and preclinical studies) currently supporting this direction.
+Vinblastine is a vinca alkaloid chemotherapy drug, originally used to treat lymphomas (including Hodgkin lymphoma, non-Hodgkin lymphoma, mycosis fungoides and Langerhans cell histiocytosis).
+The TxGNN model predicts it may be effective for **rhabdomyosarcoma**,
+but there are **no registered clinical trials** and only **7 publications** retrieved, mostly case reports, small series and preclinical studies, so the evidence remains limited.
 
 ---
 
@@ -43,23 +43,23 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not locally registered (globally used for Hodgkin lymphoma, testicular cancer, and other malignancies as part of combination chemotherapy) |
-| Predicted New Indication | Rhabdomyosarcoma (disease) |
+| Original Indication | Lymphomas (including Hodgkin lymphoma, non-Hodgkin lymphoma, mantle cell lymphoma, mycosis fungoides, Langerhans cell histiocytosis); the India licence records contain no approved indication text |
+| Predicted New Indication | Rhabdomyosarcoma |
 | TxGNN Prediction Score | 99.86% |
 | Evidence Level | L3 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
+| Recommended Decision | Hold (research question only) |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in the evidence pack (data gap DG002). Based on established pharmacology, vinblastine is a vinca alkaloid that binds tubulin and inhibits microtubule polymerization, arresting cells in mitosis (M-phase) — a class effect shared with vincristine and vinorelbine.
+Vinblastine is a vinca alkaloid that binds tubulin and disrupts microtubule dynamics. This causes mitotic arrest in rapidly dividing cells. Detailed mechanism-of-action data were not available in the data compiled for this report, but this antimitotic action is well established for the drug class and is a plausible antitumour mechanism in rhabdomyosarcoma.
 
-Rhabdomyosarcoma (RMS) is a pediatric soft-tissue sarcoma for which the standard-of-care VAC regimen (vincristine, actinomycin-D, cyclophosphamide) already relies on a vinca alkaloid. This creates strong mechanistic plausibility for vinblastine: the closely related agent vinorelbine has demonstrated activity in Phase II pediatric sarcoma trials, and individual case reports document vinblastine-containing combination regimens producing partial responses in perianal and prostatic RMS.
+Lymphomas and rhabdomyosarcoma are both fast-proliferating malignancies, so a drug that blocks cell division could in principle act on both. Supporting literature includes vinblastine-containing combinations (for example cisplatin, vinblastine and bleomycin) used in rhabdomyosarcoma case reports, and a pediatric metronomic multi-drug regimen. A preclinical study also links microtubule-destabilizing drugs with PLK1 inhibition, a synthetic lethal interaction in rhabdomyosarcoma models.
 
-However, evidence for vinblastine *specifically* (as opposed to its vinca-alkaloid relatives vincristine/vinorelbine) remains limited to small case reports, xenograft models, and decades-old case series. No completed clinical trial has tested vinblastine directly in RMS, which is why the evidence level is capped at L3 despite the very high TxGNN prediction score.
+An important limitation: in all of these combination regimens, vinblastine's own contribution cannot be separated from that of the other drugs. The evidence is therefore suggestive but not conclusive.
 
 ---
 
@@ -73,44 +73,49 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38050209](https://pubmed.ncbi.nlm.nih.gov/38050209/) | 2023 | Case report | Medicine | Adult perianal RMS with nodal metastases achieved partial response after nivolumab, dacarbazine, cisplatin, and vinblastine following progression on prior therapy |
-| [2451411](https://pubmed.ncbi.nlm.nih.gov/2451411/) | 1987 | Case report/review | Hinyokika Kiyo | Refractory prostatic RMS in a child; cisplatin + vinblastine + peplomycin (PVP) rapidly reduced pelvic tumor mass after relapse |
-| [3329524](https://pubmed.ncbi.nlm.nih.gov/3329524/) | 1987 | Preclinical mechanistic | Anti-Cancer Drug Design | Examined therapeutic selectivity of vinca alkaloids (vincristine/vinblastine) using human RMS xenograft models in mice |
-| [22633624](https://pubmed.ncbi.nlm.nih.gov/22633624/) | 2012 | Phase II trial (vinorelbine, related agent) | Eur J Cancer | Vinorelbine + low-dose cyclophosphamide showed efficacy and good tolerance in relapsed/refractory pediatric RMS |
-| [15378498](https://pubmed.ncbi.nlm.nih.gov/15378498/) | 2004 | Pilot study (vinorelbine, related agent) | Cancer | Pilot study defining optimal vinorelbine + low-dose cyclophosphamide dosing ahead of European RMS protocol |
-| [12115359](https://pubmed.ncbi.nlm.nih.gov/12115359/) | 2002 | Clinical study (vinorelbine, related agent) | Cancer | Vinorelbine showed activity in previously treated advanced pediatric sarcomas including RMS |
-| [22156656](https://pubmed.ncbi.nlm.nih.gov/22156656/) | 2011 | Pilot study | Oncotarget | Metronomic 4-drug pediatric regimen explored as alternative strategy against resistant sarcomas |
-| [26024389](https://pubmed.ncbi.nlm.nih.gov/26024389/) | 2015 | In vitro mechanistic | Cell Death Differ | PLK1 inhibitors synergize with microtubule-destabilizing drugs (vinca-alkaloid class) in preclinical RMS models |
-| [16302215](https://pubmed.ncbi.nlm.nih.gov/16302215/) | 2007 | Case series (related sarcoma) | Pediatr Blood Cancer | Vinorelbine/low-dose cyclophosphamide regimen (developed for RMS) showed response in desmoplastic small round cell tumor |
-| [41216926](https://pubmed.ncbi.nlm.nih.gov/41216926/) | 2026 | Prospective trial (non-RMS soft tissue sarcoma) | Pediatr Blood Cancer | CWS-96/CWS-2002P trials establish risk stratification and chemotherapy regimens for non-RMS soft tissue sarcomas, providing regimen context |
+| [38050209](https://pubmed.ncbi.nlm.nih.gov/38050209/) | 2023 | Case report/Review | Medicine | Adult with perineal rhabdomyosarcoma and inguinal node metastases; partial response after nivolumab, dacarbazine, cisplatin and vinblastine, followed by surgery |
+| [2451411](https://pubmed.ncbi.nlm.nih.gov/2451411/) | 1987 | Case report/Review | Hinyokika Kiyo | Child with refractory prostatic rhabdomyosarcoma; the pelvic mass shrank rapidly with cisplatin, vinblastine and peplomycin after standard chemotherapy failed |
+| [3329524](https://pubmed.ncbi.nlm.nih.gov/3329524/) | 1987 | Preclinical | Anti-Cancer Drug Design | Rhabdomyosarcoma xenograft model examining the basis of the therapeutic selectivity of vinca alkaloids |
+| [26024389](https://pubmed.ncbi.nlm.nih.gov/26024389/) | 2015 | Preclinical | Cell Death & Differentiation | PLK1 inhibitors and microtubule-destabilizing drugs show synthetic lethality in rhabdomyosarcoma models |
+| [22156656](https://pubmed.ncbi.nlm.nih.gov/22156656/) | 2011 | Pilot study | Oncotarget | Pilot study of a pediatric metronomic 4-drug chemotherapy regimen |
+| [41216926](https://pubmed.ncbi.nlm.nih.gov/41216926/) | 2026 | Cohort | Pediatric Blood & Cancer | CWS-96 and CWS-2002P trials in non-rhabdomyosarcoma soft tissue sarcoma; limited relevance to rhabdomyosarcoma |
+| [14328283](https://pubmed.ncbi.nlm.nih.gov/14328283/) | 1965 | Review (historical) | British Journal of Clinical Practice | Historical review of tumour chemotherapy in children |
 
 ---
 
 ## India Market Information
 
-Vinblastine currently holds **no marketing authorization** in India — market status is "Not Marketed" with 0 registered licenses on file. No product registration data is available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 106054 | Hoydetain 1mg Injection | Vial of 10 ml powder for injection | Not specified in the licence record |
+| 230727 | Uniblastin 10mg Injection | Vial of 10 ml injection | Not specified in the licence record |
+| 118945 | Kristina V 1mg Injection | Vial of 1 injection | Not specified in the licence record |
+| 236396 | Vblastin 10mg Injection | Vial of 10 ml injection | Not specified in the licence record |
 
 ---
 
 ## Cytotoxicity
 
-Based on established pharmacological classification (DrugBank-level data not available in this evidence pack; DG002):
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Vinca alkaloid / microtubule inhibitor class) |
-| Myelosuppression Risk | High — neutropenia is the primary dose-limiting toxicity of vinblastine |
-| Emetogenicity Classification | Low to Moderate |
-| Monitoring Items | CBC with differential (before each dose), liver function tests, assessment for peripheral neuropathy, extravasation site monitoring (vesicant) |
-| Handling Protection | Required — vinblastine is a hazardous/cytotoxic agent and a vesicant; standard cytotoxic drug handling precautions apply. As a well-established class safety fact, vinca alkaloids including vinblastine are **fatal if administered intrathecally** — this is not sourced from local label data (which is a blocking data gap, DG001) and must be confirmed against the official package insert once available. |
+| Cytotoxicity Classification | Conventional cytotoxic (vinca alkaloid, antimitotic) |
+| Myelosuppression Risk | High (the safety knowledge graph links the drug to neutropenia, agranulocytosis and thrombocytopenia as contraindicated conditions) |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC with differential, liver function (bilirubin), and neurological assessment for peripheral neuropathy |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: 371 total interactions on file. Notable examples include a **Major** interaction with Clarithromycin, and **Moderate** interactions with Aprepitant, Dexamethasone, Metronidazole, Eliglustat, Miconazole, Rolapitant, Rosuvastatin, Simvastatin, Tinidazole, Glycerol phenylbutyrate, and Troglitazone. A Minor interaction is noted with Levofloxacin.
+- **Contraindications (from the knowledge graph, not label text)**: Conditions linked to the drug include liver failure, hyperbilirubinemia (including Gilbert syndrome), thrombocytopenia, neutropenia, agranulocytosis, peripheral neuropathy and other peripheral nervous system disease, lung disease, myocardial ischemia and coronary artery disease, and infectious disease (including fungal infection and dermatophytosis).
+- **Drug Interactions**: 371 interactions were identified in total. Notable examples:
+  - **Major**: clarithromycin
+  - **Moderate**: aprepitant, dexamethasone, metronidazole, eliglustat, miconazole, rolapitant, rosuvastatin, simvastatin, tinidazole, glycerol phenylbutyrate, troglitazone
+  - **Minor**: levofloxacin
+- **Safety signal from the literature**: A neuroblastoma case report described severe ileus with cisplatin plus vinblastine infusion, which is relevant to neurotoxicity in children.
 
-Key warnings and contraindications are not available in the current evidence pack (data gap DG001, Blocking severity) — please refer to the official package insert once obtained.
+Package insert warnings were not available. Please refer to the package insert for full safety information.
 
 ---
 
@@ -119,13 +124,24 @@ Key warnings and contraindications are not available in the current evidence pac
 **Decision: Hold**
 
 **Rationale:**
-Evidence supporting vinblastine specifically (not just the vinca-alkaloid class) in rhabdomyosarcoma is limited to case reports, xenograft studies, and decades-old case series — no completed trial has tested vinblastine directly in this indication. Combined with the drug's complete absence from the India market (0 registrations) and a blocking data gap on local safety labeling, the evidence does not yet support proceeding.
+The TxGNN score is high (99.86%) and the mechanism is plausible, but the evidence is limited to case reports, small series and preclinical work, with no registered trials. Vinblastine's effect cannot be separated from that of co-administered agents. Modern rhabdomyosarcoma standard-of-care regimens are also well established. This is best treated as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
-- TFDA-equivalent package insert / local label data (warnings, contraindications) — DG001, Blocking
-- Confirmed mechanism of action documentation via DrugBank — DG002
-- A direct clinical study (even Phase I/II) evaluating vinblastine — not just related vinca alkaloids — in RMS
-- A pathway for market authorization in India if this indication is pursued further
+- Package insert warnings and contraindications from the India licences (currently missing, which blocks safety screening)
+- Detailed mechanism of action data
+- Preclinical or clinical studies that isolate vinblastine's own activity in rhabdomyosarcoma
+- A comparison against current standard-of-care regimens for rhabdomyosarcoma
+- A myelosuppression and neurotoxicity monitoring plan, especially for pediatric populations
+
+---
+
+## Other Predicted Indications (Brief Note)
+
+Other predictions have weaker support and are all rated Hold or Research Question:
+- **Monocytic leukemia (L3)**: Only historical 1970s clinical reports and in vitro work; modern regimens have superseded them.
+- **Neuroblastoma (L3)**: Preclinical synergy with rapamycin and a phase I pediatric study of vinblastine with sirolimus; no controlled efficacy data.
+- **Prostate embryonal rhabdomyosarcoma and liver sarcoma (L4)**: Anecdotal or indirect literature only.
+- **Rhabdomyosarcoma subtypes (vaginal botryoid, parameningeal embryonal, bile duct) and ganglioneuroblastoma (L5)**: High model scores but no supporting studies.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

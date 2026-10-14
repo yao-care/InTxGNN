@@ -2,7 +2,7 @@
 layout: default
 title: Paroxetine
 parent: Model Prediction Only (L5)
-nav_order: 642
+nav_order: 648
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,31 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Paroxetine: From Unrecorded Original Indication to Ohdo Syndrome and Variants
+# Paroxetine: From Depression and Anxiety Disorders to Ohdo Syndrome and Variants
 
 ## One-Sentence Summary
 
-Paroxetine is an SSRI-class antidepressant (per the evidence pack's mechanistic notes), though its specific original approved indication and mechanism of action are not recorded in this evidence pack. The TxGNN model predicts a possible link to **Ohdo Syndrome and Variants**, a rare congenital malformation syndrome, but this prediction is currently supported by **0 clinical trials** and **0 publications** — model output only.
+Paroxetine is a selective serotonin reuptake inhibitor (SSRI) originally used for depressive and anxiety-related disorders, including major depressive disorder, obsessive-compulsive disorder, social phobia and post-traumatic stress disorder.
+The TxGNN model predicts it may be effective for **Ohdo syndrome and variants**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the computational score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in evidence pack (data gap) |
-| Predicted New Indication | Ohdo Syndrome and Variants |
+| Original Indication | Anxiety disorder, major depressive disorder, obsessive-compulsive disorder, post-traumatic stress disorder, social phobia (from the knowledge graph; no approved indication text is available from the India registrations) |
+| Predicted New Indication | Ohdo syndrome and variants |
 | TxGNN Prediction Score | 99.11% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
-## Why Is This Prediction Reasonable?
+## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for paroxetine is not available in this evidence pack ([Data Gap]). Based on the information present, paroxetine is described as an SSRI-class antidepressant, acting primarily via inhibition of presynaptic serotonin reuptake (SERT inhibition).
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Paroxetine is generally known as an SSRI, and its efficacy in depression and anxiety-spectrum disorders is established. This general knowledge was not supplied in the compiled data, however.
 
-Ohdo syndrome and its variants are a group of rare congenital multiple-malformation disorders caused by germline mutations in chromatin-modifying/transcriptional-regulation genes (e.g., *KAT6B*, *KAT6A*, *MED12*, *DDX3X*), which disrupt craniofacial and skeletal development during embryogenesis. There is no established pharmacological or mechanistic pathway connecting SSRI activity to these developmental gene pathways.
+Ohdo syndrome (including the Say-Barber-Biesecker-Young-Simpson variant) is a rare congenital disorder with intellectual disability. It is typically associated with KAT6B variants that affect chromatin regulation. No plausible link between SSRI pharmacology and this genetic pathology can be established from the available data.
 
-Given the absence of a plausible mechanistic link and the absence of any supporting clinical or literature evidence, this candidate should be treated as a high-scoring but mechanistically unsupported TxGNN association — potentially a false positive arising from graph-topology proximity rather than genuine biological relevance.
+The high score most likely reflects proximity in the knowledge network, for example shared neurodevelopmental or psychiatric phenotype nodes, rather than a causal therapeutic mechanism. The prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
@@ -63,46 +64,47 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+## India Market Information
+
+Paroxetine has 20 valid single-ingredient registrations in India, all oral tablets (mostly controlled-, extended- or prolonged-release forms). No approved indication text is available for any of them. Five main registrations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 201999 | Senoxetin CR 25 Tablet | Strip of 10 CR tablets | Not available |
+| 176000 | Paxiford 12.5mg Tablet CR | Strip of 10 CR tablets | Not available |
+| 176014 | Parol 25mg Tablet | Strip of 10 tablets | Not available |
+| 176217 | Prx 20mg Tablet | Strip of 10 tablets | Not available |
+| 174385 | Paradise XR 12.5 Tablet | Strip of 10 PR tablets | Not available |
+
 ## Safety Considerations
 
-**Drug Interactions**: The evidence pack records 327 total documented interactions for paroxetine. Notable examples include:
+- **Knowledge-graph contraindications (not label text):** epilepsy, bipolar disorder, major affective disorder, liver disease, gallbladder disease, blood coagulation disease, neuroleptic malignant syndrome, inappropriate ADH syndrome, nephrogenic syndrome of inappropriate antidiuresis, serotonin syndrome, drug-induced akathisia, and pathologic fracture (an obsolete term in the ontology).
+- **Drug Interactions:** 327 interactions were recorded. Major-level ones in the sample reviewed include:
+  - Bupropion
+  - Lorcaserin
+  - Diethylpropion
+  - Dolasetron
+  - Eliglustat
+  - Palonosetron
+  - Phentermine
 
-| Interacting Drug | Severity |
-|---|---|
-| Bupropion | Major |
-| Lorcaserin | Major |
-| Diethylpropion | Major |
-| Dolasetron | Major |
-| Eliglustat | Major |
-| Palonosetron | Major |
-| Phentermine | Major |
-| Morphine | Moderate |
-| Acetylsalicylic acid | Moderate |
-| Clarithromycin | Moderate |
-| Cimetidine | Moderate |
-| Chlorpropamide | Moderate |
-| Glimepiride | Moderate |
-| Repaglinide | Moderate |
-| Dronabinol | Moderate |
-| Eluxadoline | Moderate |
-| Picosulfuric acid | Moderate |
-| Polyethylene glycol (3350 w/ electrolytes) | Moderate |
-| Sodium sulfate | Moderate |
-| Aprepitant | Minor |
+  Moderate-level examples include morphine, acetylsalicylic acid, cimetidine, clarithromycin, chlorpropamide, glimepiride and repaglinide.
 
-TFDA label warnings and contraindications are not currently available in this evidence pack.
+Package insert warnings and contraindications were not available, so please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-A Blocking-severity data gap (TFDA label warnings/contraindications unavailable) prevents this candidate from clearing the S1 safety screening stage. Independently, the predicted indication itself has no supporting clinical trials or literature (L5 — prediction only) and no plausible mechanistic rationale connecting SSRI pharmacology to a chromatin-regulation congenital malformation syndrome. Paroxetine is also not currently marketed in Taiwan (0 registrations).
+The only support is a computational prediction score, with no clinical trials, no literature and no plausible mechanistic link between SSRI pharmacology and the genetic basis of Ohdo syndrome. This does not justify advancing at this stage.
 
 **To proceed, the following is needed:**
-- TFDA product label (PDF) parsed for warnings/contraindications (DG001)
-- DrugBank MOA data to properly assess mechanistic plausibility (DG002)
-- Independent expert review of the mechanistic rationale before any further evidence collection is commissioned for this drug–indication pair
+- Package insert warnings and contraindications from the India Pharma source, which is required for safety screening
+- Detailed mechanism of action data
+- A mechanistic rationale connecting paroxetine to KAT6B-related chromatin regulation or the syndrome's phenotypes
+- Preclinical or case-level evidence in Ohdo syndrome models or patients
+- An assessment of whether the rare-disease population and available dosage forms are compatible
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

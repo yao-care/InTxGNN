@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dapoxetine
-parent: Model Prediction Only (L5)
-nav_order: 229
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 231
+evidence_level: L4
 indication_count: 3
 ---
 
 # Dapoxetine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,84 +33,74 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Dapoxetine is a short-acting selective serotonin reuptake inhibitor (SSRI), currently approved in multiple countries (but not India) for the treatment of premature ejaculation.
-The TxGNN model predicts it may be effective for **Migraine Disorder**,
-with **0 clinical trials** and **2 publications** (indirect evidence only) currently supporting this direction — primarily through the shared serotonergic mechanism. However, a fundamental pharmacokinetic limitation — Dapoxetine's ultra-short half-life (~1.5 h) — raises serious doubts about its clinical feasibility for migraine prevention.
-
----
+Dapoxetine is a short-acting selective serotonin reuptake inhibitor (SSRI), originally used to treat premature ejaculation.
+The TxGNN model predicts it may be effective for **migraine disorder**, but this is currently a computational prediction only, with **0 clinical trials** and **2 publications** (only 1 of which is a general review that touches on the topic) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Premature ejaculation |
-| Predicted New Indication | Migraine Disorder |
+|------|------|
+| Original Indication | Premature ejaculation (the India licence records contain no approved indication text; this indication comes from the knowledge graph) |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.34% |
-| Evidence Level | L4 (mechanism/preclinical only) |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the standard data source. Based on pharmacological data retrieved from drug interaction databases, Dapoxetine is a **short-acting SSRI** that selectively inhibits the serotonin reuptake transporter (SERT, encoded by *SLC6A4*). Unlike conventional antidepressant SSRIs, it has an exceptionally short half-life (~1.5 hours), which is why it was specifically developed for on-demand use in premature ejaculation rather than as a daily therapeutic agent.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, dapoxetine is a short-acting SSRI that blocks the serotonin transporter (SERT, gene SLC6A4). Its efficacy in premature ejaculation is established, and mechanistically it may be applicable to migraine.
 
-Serotonin (5-HT) plays a central role in migraine pathophysiology. The trigeminal vascular system expresses 5-HT₁B/1D receptors — the very targets exploited by triptans, the current standard-of-care for acute migraine. SSRIs increase synaptic 5-HT concentrations and theoretically could modulate cortical spreading depression (CSD) and trigeminal sensitisation, providing a plausible rationale for preventive use. Indeed, longer-acting SSRIs such as fluoxetine and venlafaxine have some evidence for migraine prophylaxis.
+Serotonergic dysregulation is implicated in migraine, and some SSRIs and other serotonergic agents have been explored for migraine prevention. This provides a plausible but indirect rationale. The very high TxGNN score is a computational prediction and does not replace dapoxetine-specific data.
 
-However, **Dapoxetine's pharmacokinetics present a fundamental barrier** to this repurposing hypothesis. Sustained 5-HT elevation over days to weeks — necessary for meaningful neuroplastic adaptation and stable migraine threshold modulation — cannot be achieved with a drug that is cleared within hours. This distinguishes Dapoxetine sharply from other SSRIs that have been explored in migraine prevention, and is a critical mechanistic mismatch the TxGNN model (which focuses on target-pathway relationships) cannot fully capture.
+There is also a practical mismatch. Dapoxetine is rapidly absorbed and cleared, and it is designed for on-demand use. Migraine prevention typically needs chronic, steady dosing, so the drug's pharmacokinetic profile is poorly suited to this use.
 
----
+Two other predictions were also generated: dysthymic disorder (score 99.14%, evidence level L5) and migraine with brainstem aura (score 99.11%, evidence level L5). The former is mechanistically plausible for an SSRI, but established SSRIs with chronic-dosing data already exist. The latter probably scores high because it sits close to the parent migraine term in the ontology, not because of subtype-specific evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [33998993](https://pubmed.ncbi.nlm.nih.gov/33998993/) | 2022 | Narrative Review | Current Neuropharmacology | Reviews the full landscape of off-label SSRI uses; includes migraine among conditions where SSRIs have been explored — no specific Dapoxetine migraine data |
-| [23504864](https://pubmed.ncbi.nlm.nih.gov/23504864/) | 2013 | Observational / Compliance Study | Urologia | Evaluates patient adherence to Dapoxetine for premature ejaculation; confirms SSRI mechanism and tolerability profile — no migraine-related findings |
-
-> **Note:** Neither publication provides direct evidence for Dapoxetine in migraine. PMID 33998993 discusses SSRIs as a class; PMID 23504864 addresses the approved indication. These represent indirect, class-level evidence only.
-
----
+|------|-----|------|------|---------|
+| [33998993](https://pubmed.ncbi.nlm.nih.gov/33998993/) | 2022 | Review | Current Neuropharmacology | Reviews off-label uses of SSRIs as a class, including migraine; contains no dapoxetine-specific migraine data |
+| [23504864](https://pubmed.ncbi.nlm.nih.gov/23504864/) | 2013 | Cohort | Urologia | Treatment compliance with dapoxetine in premature ejaculation; not related to migraine |
 
 ## India Market Information
 
-Dapoxetine currently has **no registered products** in India. The drug is approved in several other markets (including Germany, Austria, Italy, Portugal, Finland, New Zealand, Argentina, Mexico, and the UK under the brand name **Priligy**), but has not received approval from the US FDA. A completed Phase 3 US trial ([NCT00211094](https://clinicaltrials.gov/ct2/results?term=NCT00211094)) did not lead to FDA approval.
+Twenty single-ingredient dapoxetine licences are valid and none are cancelled. The records contain no approved indication text. The five main licences are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 26353 | Bold Care 30 Tablet (Oddity Healthcare) | Strip of 4 tablets | Not stated in the records |
+| Registration No. 11465 | Amjoy 60mg Tablet (Albert David) | Strip of 4 tablets | Not stated in the records |
+| Registration No. 58268 | Duralast 30 Tablet (Sun Pharmaceutical) | Strip of 4 tablets | Not stated in the records |
+| Registration No. 58680 | Dejac 30 Tablet (Intas Pharmaceuticals) | Strip of 4 tablets | Not stated in the records |
+| Registration No. 59888 | Dapoxy 30mg Tablet (Alembic Pharmaceuticals) | Strip of 6 tablets | Not stated in the records |
 
 ## Safety Considerations
 
-Package insert safety data (warnings and contraindications) for the Indian market is unavailable, as the drug is not registered locally. Based on available pharmacological data:
+- **Drug Interactions**: The interaction query completed with one entry, which is pharmacological rather than a drug-drug interaction. Dapoxetine's target is the serotonin transporter (SERT), which it inhibits as a short-acting SSRI. Because of this serotonergic action, caution is warranted when it is combined with other serotonergic agents.
+- **Regional approval context**: Dapoxetine is not approved by the US FDA. Several national agencies, including those in Austria, Germany, Italy, Portugal, New Zealand and the UK, have granted marketing authorisation. A US Phase 3 trial (NCT00211094) has been completed, but approval has not been granted.
 
-- **Mechanism-Based Interaction**: Dapoxetine inhibits SERT and therefore carries a risk of **serotonin syndrome** when combined with other serotonergic agents (other SSRIs, SNRIs, MAOIs, triptans, tramadol). This interaction is particularly relevant in the context of migraine treatment, where triptans — also serotonergic — are commonly used.
-- **Class Effect**: As an SSRI, Dapoxetine shares class-level risks including nausea, dizziness, and syncope (especially orthostatic), which have been documented in its approved indication.
-
-Please refer to the approved country-of-origin package insert (e.g., Priligy SmPC) for complete warnings and contraindications.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model correctly identifies the serotonergic mechanistic link between Dapoxetine and migraine, but a critical pharmacokinetic barrier — Dapoxetine's ultra-short half-life (~1.5 h) — makes it fundamentally unsuitable for the sustained 5-HT modulation required for migraine prevention. Furthermore, the drug is not marketed in India, there are zero supporting clinical trials, and the two retrieved publications provide only indirect, class-level evidence. The evidence base is insufficient and the mechanistic rationale is weak relative to longer-acting SSRIs already explored for migraine prophylaxis.
+The prediction is mechanistically plausible but rests on a computational score alone, with no migraine-specific trials or literature for dapoxetine. Its short half-life and on-demand design also fit poorly with the chronic dosing migraine prevention usually requires.
 
-**To proceed (if reconsidered), the following would be needed:**
-
-- **Pharmacokinetic feasibility assessment**: Modelling or in vitro data demonstrating whether any modified-release formulation of Dapoxetine could achieve sustained SERT occupancy relevant to migraine prevention
-- **Mechanistic MOA data**: Full DrugBank / literature review of Dapoxetine's receptor binding profile beyond SERT (e.g., any 5-HT₁B/1D activity)
-- **Comparative literature review**: Systematic comparison of Dapoxetine vs. long-acting SSRIs in serotonin-mediated migraine mechanisms
-- **Safety interaction profiling**: Formal assessment of Dapoxetine + triptan co-administration risk (serotonin syndrome), given migraine patients often use triptans acutely
-- **Regulatory pathway review**: If further evidence emerges, an analysis of the registration pathway in India (CDSCO) would be required
+**To proceed, the following is needed:**
+- India package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Dapoxetine-specific preclinical or clinical evidence in migraine
+- An assessment of whether the pharmacokinetics support a prophylactic regimen
+- A comparison against established SSRIs and other migraine preventives that already have chronic-dosing data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

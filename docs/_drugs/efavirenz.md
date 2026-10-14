@@ -2,15 +2,15 @@
 layout: default
 title: Efavirenz
 parent: Moderate Evidence (L3-L4)
-nav_order: 295
-evidence_level: L3
+nav_order: 298
+evidence_level: L4
 indication_count: 3
 ---
 
 # Efavirenz
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,112 +29,88 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-# Efavirenz: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+# Efavirenz: From HIV Infection to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-Efavirenz is a non-nucleoside reverse transcriptase inhibitor (NNRTI) originally approved for the treatment of HIV-1 infection in humans. The TxGNN model predicts it may be effective for **Simian Immunodeficiency Virus (SIV) Infection**, supported by **1 clinical trial** (withdrawn, zero enrollment) and **16 publications** — the majority of which involve SHIV chimeric animal models rather than true SIV infection. However, the biological distinction between SHIV and authentic SIV significantly limits the translational relevance of this prediction for clinical use.
-
----
+Efavirenz is an antiretroviral drug originally used to treat HIV infection and AIDS.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus infection**, but the supporting evidence is limited to **0 clinical trials** and **14 preclinical or basic-science publications**, mostly in macaque models. The evidence is a model prediction backed by animal and laboratory work, not by human data.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | HIV-1 Infection (NNRTI antiretroviral) |
-| Predicted New Indication | Simian Immunodeficiency Virus Infection |
+|------|------|
+| Original Indication | HIV infectious disease; AIDS |
+| Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 99.80% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 15 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on established pharmacological knowledge, Efavirenz is a non-nucleoside reverse transcriptase inhibitor (NNRTI) that selectively binds to and inhibits HIV-1 reverse transcriptase (RT) by inducing a conformational change in the enzyme's catalytic pocket, thereby blocking viral RNA-to-DNA transcription. Its activity is highly specific to HIV-1 RT; it does not effectively inhibit the RT of authentic simian immunodeficiency virus (SIV) due to structural differences in the NNRTI binding pocket.
+Efavirenz is a non-nucleoside reverse transcriptase inhibitor (NNRTI) of HIV-1. Detailed mechanism-of-action data were not available in the data compiled for this report, but the NNRTI mechanism is well established: it binds HIV-1 reverse transcriptase and blocks viral replication.
 
-The TxGNN prediction appears to stem from the close phylogenetic relationship between HIV-1 and SIV, as well as the existence of SHIV/RT-SHIV chimeric animal models — viruses in which the SIV backbone has been engineered to express HIV-1 RT. Because RT-SHIV contains HIV-1 RT, it is genuinely sensitive to Efavirenz. The body of literature catalogued under this indication almost exclusively uses these RT-SHIV macaque models as a proxy system for studying HIV-1 antiretroviral therapy pharmacokinetics, drug resistance dynamics, and viral sanctuaries — not for treating SIV infection itself.
+The link to simian immunodeficiency virus (SIV) comes from a research model. Wild-type SIV reverse transcriptase is naturally resistant to NNRTIs. However, a chimeric virus (RT-SHIV), in which SIV carries the HIV-1 reverse transcriptase, is susceptible to efavirenz. In rhesus and pigtail macaques infected with this chimera, efavirenz, alone or in combination with lamivudine and tenofovir, reduced viral load.
 
-This is a critical scientific distinction: true SIV infection (primarily affecting non-human primates) has a reverse transcriptase that is structurally divergent from HIV-1 RT, making Efavirenz pharmacologically irrelevant for authentic SIV. Human clinical exposure to SIV is an exceedingly rare zoonotic event and does not constitute a viable therapeutic target. The SHIV animal model evidence represents a mechanistic research tool, not a clinical repurposing signal.
+This activity applies to the engineered chimera, not to native SIV. The predicted indication is therefore a preclinical research model of HIV, and it does not offer a new human therapeutic use beyond the existing HIV indication.
 
----
+Two other predictions were also generated:
+- **Feline acquired immunodeficiency syndrome:** The only support is a 2023 in vitro biochemical and structural study of NNRTIs against feline immunodeficiency virus reverse transcriptase. There are no in vivo or clinical data, and any benefit would be veterinary.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter:** This rests only on a high prediction score (99.77%), with no trials or literature. A speculative link through efavirenz's effect on the brain enzyme CYP46A1 would need independent validation.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00863668](https://clinicaltrials.gov/study/NCT00863668) | N/A | Withdrawn | 0 | Study of HIV viral decay kinetics with integrase inhibitor Raltegravir in SIV-infected macaques. **Withdrawn before enrollment; no data generated. Drug of interest was Raltegravir, not Efavirenz; disease target was human HIV, not SIV. This trial is not relevant evidence.** |
-
-> ⚠️ **Evidence quality note:** The sole registered trial is withdrawn with zero enrollment and involves a different drug (Raltegravir) and a different disease (human HIV-1). It provides no usable clinical evidence for this indication.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15328115](https://pubmed.ncbi.nlm.nih.gov/15328115/) | 2004 | Animal Model (In vivo) | Antimicrob Agents Chemother | Efavirenz monotherapy and combination ART evaluated in rhesus macaques infected with RT-SHIV (SIV chimera with HIV-1 RT); demonstrated antiviral activity in this engineered model |
-| [15919889](https://pubmed.ncbi.nlm.nih.gov/15919889/) | 2005 | Animal Model (In vivo) | J Virology | HAART regimen including Efavirenz 200 mg/day reduced plasma viral RNA in RT-SHIV-infected macaques; modeled AIDS therapy in NHP |
-| [19889213](https://pubmed.ncbi.nlm.nih.gov/19889213/) | 2009 | Animal Model (In vivo) | Retrovirology | RT-SHIV quasispecies dynamics studied in pigtail macaques receiving short-course Efavirenz monotherapy followed by combination ART |
-| [24777106](https://pubmed.ncbi.nlm.nih.gov/24777106/) | 2014 | Animal Model (In vivo) | Antimicrob Agents Chemother | Enhanced 4- and 5-drug HAART (including Efavirenz) in RT-SHIV macaques; improved early viral decay kinetics compared to standard regimens |
-| [20668516](https://pubmed.ncbi.nlm.nih.gov/20668516/) | 2010 | Animal Model (In vivo) | PLoS One | Viral decay kinetics during HAART in RT-SHIV macaque model of AIDS; mechanisms of viral persistence under therapy examined |
-| [26559632](https://pubmed.ncbi.nlm.nih.gov/26559632/) | 2015 | Animal Model (In vivo) | Retrovirology | Plasma and tissue viral populations in RT-SHIV macaques; lack of viral replication in tissues during ART; viral reservoir mapping |
-| [20032180](https://pubmed.ncbi.nlm.nih.gov/20032180/) | 2010 | Animal Model (In vivo) | J Virology | Comprehensive analysis of viral sanctuaries in fluids and tissues during HAART in RT-SHIV macaque AIDS model |
-| [24505452](https://pubmed.ncbi.nlm.nih.gov/24505452/) | 2014 | Animal Model (In vivo) | PLoS One | Residual low-level viremia during HAART in RT-SHIV macaques; dominant plasma clone identified; no ongoing viral evolution observed |
-| [21084490](https://pubmed.ncbi.nlm.nih.gov/21084490/) | 2011 | Molecular Virology | J Virology | SIV genetic diversity before, during, and after ART in pigtail macaques; Efavirenz used in short-course monotherapy phase |
-| [35856680](https://pubmed.ncbi.nlm.nih.gov/35856680/) | 2022 | Imaging / Pharmacology | Antimicrob Agents Chemother | Mass spectrometry imaging of 6 antiretrovirals (including Efavirenz) in NHP spleen; spatial relationship between drug distribution and viral RNA expression |
-
-> ⚠️ **Evidence quality note:** All publications use RT-SHIV or SHIV chimeric models (SIV with HIV-1 RT inserted). None of these studies directly target or treat authentic SIV infection. The evidence reflects Efavirenz's activity against HIV-1 RT in an animal model context, not therapeutic efficacy against SIV.
-
----
+| [15328115](https://pubmed.ncbi.nlm.nih.gov/15328115/) | 2004 | Preclinical (non-human primate efficacy) | Antimicrob Agents Chemother | Efavirenz evaluated for antiviral activity in rhesus macaques infected with RT-SHIV, an SIV carrying HIV-1 reverse transcriptase |
+| [15919889](https://pubmed.ncbi.nlm.nih.gov/15919889/) | 2005 | Preclinical (non-human primate) | J Virol | Efavirenz, lamivudine and tenofovir combination (HAART) suppressed viral load in RT-SHIV-infected macaques |
+| [24777106](https://pubmed.ncbi.nlm.nih.gov/24777106/) | 2014 | Preclinical (non-human primate) | Antimicrob Agents Chemother | Four- and five-drug enhanced HAART regimens improved viral decay kinetics in RT-SHIV-infected macaques |
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro susceptibility | Antivir Ther | Compared the activity of 16 approved anti-HIV drugs against HIV-2, SIV and SHIV strains |
+| [15564466](https://pubmed.ncbi.nlm.nih.gov/15564466/) | 2004 | In vitro | J Virol | Characterized an SIV-HIV chimera expressing HIV-1 reverse transcriptase to study NNRTI resistance in pigtail macaques |
+| [22933296](https://pubmed.ncbi.nlm.nih.gov/22933296/) | 2012 | Preclinical (non-human primate) | J Virol | Ultrasensitive PCR found rare preexisting drug-resistant variants in RT-SHIV-infected macaques |
+| [21084490](https://pubmed.ncbi.nlm.nih.gov/21084490/) | 2011 | Preclinical (non-human primate) | J Virol | Viral genetic diversity persisted in macaques despite antiretroviral therapy, including short efavirenz monotherapy |
+| [19889213](https://pubmed.ncbi.nlm.nih.gov/19889213/) | 2009 | Preclinical (non-human primate) | Retrovirology | Tracked wild-type and drug-resistant viral subpopulations during efavirenz monotherapy followed by combination therapy |
+| [26559632](https://pubmed.ncbi.nlm.nih.gov/26559632/) | 2015 | Preclinical (non-human primate) | Retrovirology | Plasma and tissue viral populations were well mixed, suggesting little tissue replication during therapy |
+| [35856680](https://pubmed.ncbi.nlm.nih.gov/35856680/) | 2022 | Preclinical (imaging analysis) | Antimicrob Agents Chemother | Imaging of antiretrovirals, viral RNA and fibrosis in the spleens of nonhuman primates |
 
 ## India Market Information
 
-Efavirenz is currently **not marketed** in India. No product licenses, registration numbers, or approved indications are on record in the regulatory dataset.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 77516 | Efavir 200mg Tablet (Cipla Ltd) | Bottle of 60 tablets | Not specified |
+| 76025 | Efamat 600mg Tablet (Mylan Pharmaceuticals Pvt Ltd) | Strip of 30 tablets | Not specified |
+| 73774 | Efavir 200mg Capsule (Cipla Ltd) | Strip of 30 capsules | Not specified |
+| 81571 | Evirenz 200mg Tablet (Alkem Laboratories Ltd) | Strip of 10 tablets | Not specified |
+| 81471 | Effahope 600mg Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 30 tablets | Not specified |
 
-> Efavirenz is widely approved in other jurisdictions (including the US FDA and EMA) for the treatment of HIV-1 infection in adults and pediatric patients, typically as part of combination antiretroviral therapy. The absence from the Indian market does not reflect a safety or efficacy concern but may represent a registration gap or market access decision.
-
----
+All 15 registrations are valid single-ingredient products; the five above are shown as examples.
 
 ## Safety Considerations
 
-Detailed label warnings and contraindications are not available in this Evidence Pack (data gap). Please refer to the package insert for complete safety information.
+- **Disease-related cautions (from knowledge-graph contraindication links, not label text):** liver failure, liver disease, fatty liver disease, non-alcoholic steatohepatitis, chronic hepatitis B and C virus infection, kidney disease, Fanconi renotubular syndrome, epilepsy, anxiety disorder, neurotic disorder, dysthymic disorder, delusional disorder, paranoid schizophrenia, hypertriglyceridemia, obesity, hypophosphatemia, osteomalacia, rickets, lactic acidosis, gallbladder disease.
+- **Drug Interactions:** 330 interactions are recorded in total. One is rated Major: **dolasetron**. Examples rated Moderate include acarbose, famotidine, rabeprazole, hydrocortisone, dexamethasone, pioglitazone, loperamide, bupropion, aprepitant, clarithromycin and saxagliptin.
+- Efavirenz is known for neuropsychiatric adverse effects, which is a concern for any new use in a pediatric neurodevelopmental population.
 
-**Drug Interactions (330 total interactions identified):**
-
-Efavirenz has an extensive drug interaction profile, primarily due to its dual role as both a CYP3A4 inducer and inhibitor. Key interactions from the dataset include:
-
-- **Major interaction:**
-  - **Dolasetron** — Major interaction (mechanism likely involves QT prolongation risk and CYP3A4 metabolism)
-
-- **Moderate interactions (selected):**
-  - **Clarithromycin** — Moderate (CYP3A4 induction by Efavirenz may reduce Clarithromycin plasma levels)
-  - **Bupropion** — Moderate (CYP2B6 induction may significantly reduce Bupropion exposure)
-  - **Pioglitazone** — Moderate (CYP3A4/2C8 interactions may alter glucose control)
-  - **Saxagliptin** — Moderate (CYP3A4 induction may reduce Saxagliptin AUC)
-  - **Dexamethasone / Hydrocortisone / Betamethasone / Triamcinolone** — Moderate (corticosteroid metabolism via CYP3A4 affected)
-  - **Aprepitant** — Moderate (bidirectional CYP3A4 interaction)
-  - **Dronabinol** — Moderate (CYP3A4 metabolism affected)
-
-> Note: 330 total DDI records were identified. The above represents a clinically selected subset. Full interaction review is required before clinical use.
-
----
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction of Efavirenz for simian immunodeficiency virus infection is scientifically explainable but clinically unfeasible. Efavirenz is specifically active against HIV-1 reverse transcriptase; authentic SIV RT is structurally distinct and not susceptible to NNRTIs. The entire body of literature supporting this prediction relies on engineered SHIV/RT-SHIV chimeric animal models — tools designed to study HIV-1 therapy in macaques, not to treat SIV infection. Furthermore, true SIV infection in humans is an extremely rare zoonosis without an established treatment indication.
+The predicted indications are supported only by preclinical or in vitro work, mainly in a chimeric SIV/HIV model, with no clinical trials. The SIV activity depends on the HIV-1 reverse transcriptase in the chimera, so it adds no new human therapeutic use beyond the existing HIV indication. The feline and neurodevelopmental predictions have even weaker support.
 
 **To proceed, the following is needed:**
-- Clarification of clinical intent: If the goal is HIV-1 treatment (for which Efavirenz is approved elsewhere), a separate India-specific regulatory filing pathway should be assessed
-- If the goal is genuinely exploring Efavirenz against primate lentiviruses, in vitro studies directly testing Efavirenz against authentic SIV RT would be required as a first step
-- Mechanism of action data from DrugBank (DG002) to confirm pharmacological basis
-- India package insert / CDSCO label review (DG001) for safety baseline
-- Assessment of whether India regulatory registration for HIV-1 indication (the established use) would be of commercial or public health value, given the drug's established global profile
+- Package insert warnings and contraindications from the Indian regulator's product information, to enable safety screening
+- Detailed mechanism of action data from DrugBank
+- For the neurodevelopmental prediction, independent mechanistic validation (for example, the CYP46A1 hypothesis) and a pediatric safety assessment
+- Clarification of whether any human therapeutic need exists beyond the current HIV indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

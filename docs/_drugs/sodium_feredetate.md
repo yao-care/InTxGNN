@@ -2,7 +2,7 @@
 layout: default
 title: Sodium Feredetate
 parent: Model Prediction Only (L5)
-nav_order: 772
+nav_order: 779
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,62 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sodium Feredetate: From Iron Deficiency Anemia to Bronchitis
+# Sodium Feredetate: From Iron Supplementation to Bronchitis
 
 ## One-Sentence Summary
 
-> Sodium feredetate is an iron chelate compound conventionally used to treat iron deficiency anemia.
-> The TxGNN model predicts it may be effective for **Bronchitis**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure knowledge-graph similarity score with no mechanistic or clinical corroboration.
-
----
+Sodium feredetate is an iron(III) EDTA chelate used as an oral iron supplement.
+The TxGNN model predicts it may be effective for **bronchitis**, but **no clinical trials and no publications** currently support this direction. The prediction is based on graph topology alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Iron deficiency anemia (per known drug class use; not documented in India regulatory data) |
+| Original Indication | Iron supplementation (iron deficiency); the registered indication text is not available in the data compiled for this report |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 97.45% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 6 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Sodium feredetate. Based on known information, it is an iron chelate compound used as an iron replacement therapy for iron deficiency anemia. Its efficacy in that indication is well established, but there is no known pharmacological pathway linking iron chelation/supplementation to the inflammatory or infectious processes underlying bronchitis.
+Currently, detailed mechanism of action data is not available. Based on known information, sodium feredetate is an iron(III) EDTA chelate that replenishes iron stores, and its use in iron deficiency is well established.
 
-The model's own repurposing rationale is explicit on this point: it states that no mechanistic hypothesis supports this prediction, and that the score reflects node proximity within the TxGNN knowledge graph embedding rather than a causal or therapeutic relationship.
+No mechanistic link between iron repletion and the treatment of bronchitis has been identified. The high TxGNN score reflects relationships in the knowledge graph rather than a known biological pathway or clinical observation. At this stage the prediction should be regarded as a hypothesis only.
 
-Notably, this internal inconsistency extends across the full top-10 candidate list for this drug: several lower-ranked predictions (gastroduodenitis, peptic ulcer disease) point in the *opposite* direction — oral iron supplementation is a well-documented cause of gastrointestinal mucosal irritation, meaning the same drug is simultaneously flagged as a candidate "treatment" for conditions it is known to potentially cause or worsen. This pattern should be treated as a strong signal that the current prediction set reflects embedding similarity rather than biological plausibility, and warrants no action beyond monitoring.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
-
----
-
-## Literature Evidence
-
-Currently no related literature available
-
----
+Other top-ranked predictions (bronchial neoplasm, gastroduodenitis, peptic ulcer disease, and several hereditary coagulation disorders) likewise lack supporting evidence. For some of them, such as bronchial neoplasm, peptic ulcer disease, diabetic retinopathy and Chagas cardiomyopathy, there are theoretical concerns that iron could be unhelpful or harmful (oxidative stress, gastric mucosal irritation, or iron dependence of the parasite).
 
 ## India Market Information
 
-Sodium feredetate is not currently marketed in India, and no product registrations are on record (0 licenses).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 199863 | Solfe Tablet (Abbott) | Strip of 15 tablets | Not specified |
+| 190706 | Rednext Oral Drops (Globus Labs) | Bottle of 30 ml oral drops | Not specified |
+| 90108 | Fearo FD 231mg Syrup (Blubell Pharma) | Bottle of 200 ml syrup | Not specified |
+| 190762 | Rednext Syrup (Globus Labs) | Bottle of 150 ml syrup | Not specified |
+| 233868 | Vegefer Syrup (Sundyota Numandis Probioceuticals) | Bottle of 150 ml oral solution | Not specified |
 
----
+A sixth registration, Fericom-SF Tablet (No. 85282, Bioncare Pharma, strip of 10 tablets), is also valid. All six registrations are single-ingredient products and none has been cancelled.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: TFDA-equivalent label warnings/contraindications are currently a data gap, classified as Blocking — see Conclusion below.)*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- This is an L5 prediction (model score only, no clinical trials or literature) with an explicitly stated absence of mechanistic support, and internally contradictory signals elsewhere in the same candidate list. Regulatory safety data (warnings/contraindications) needed for even a preliminary safety screen (S1) is also missing, making this candidate not eligible to advance beyond S0.
+The prediction for bronchitis rests solely on a model score, with no clinical trials or literature and no plausible mechanism. The drug is widely marketed in India as an iron supplement, but that does not support a respiratory indication.
 
 **To proceed, the following is needed:**
-- Local regulatory label data (warnings, contraindications) — currently blocking (DG001)
-- Confirmed mechanism of action from DrugBank or primary literature (DG002)
-- Any preclinical or mechanistic study connecting iron chelation to respiratory/bronchial inflammation
-- At minimum one case report, observational study, or registered trial before reconsidering evidence level above L5
+- Mechanism of action data and a credible biological rationale linking iron EDTA to airway inflammation or infection
+- Package insert warnings and contraindications for a formal safety review
+- Evidence from preclinical or clinical studies in bronchitis
+- Registered indication text for the Indian licenses
+- Assessment of route compatibility and drug interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

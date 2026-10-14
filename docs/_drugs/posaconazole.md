@@ -2,7 +2,7 @@
 layout: default
 title: Posaconazole
 parent: Moderate Evidence (L3-L4)
-nav_order: 680
+nav_order: 687
 evidence_level: L4
 indication_count: 1
 ---
@@ -29,75 +29,104 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Posaconazole: From Invasive Fungal Infection Prophylaxis to Pneumocystosis
+# Posaconazole: From Invasive Fungal Infections to Pneumocystosis
 
 ## One-Sentence Summary
 
-Posaconazole is a triazole antifungal used mainly for antifungal prophylaxis (e.g., against *Aspergillus*) in transplant and hematologic malignancy patients. The TxGNN model predicts it may be effective for **Pneumocystosis (PCP)**, but this is currently supported only by **2 clinical trials** (both low-relevance, indirect matches) and **5 publications** (mostly reviews/guidelines, none an RCT of posaconazole for PCP).
+Posaconazole is a triazole antifungal originally used for invasive and superficial fungal infections such as aspergillosis, candidiasis, and histoplasmosis.
+The TxGNN model predicts it may be effective for **pneumocystosis** (Pneumocystis pneumonia), but the evidence is very weak: **1 clinical trial** was found (it tested a different drug, rezafungin) and the **5 publications** retrieved are general reviews, guidelines, or retrospective studies, not direct evidence for posaconazole.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Invasive fungal infection prophylaxis (e.g., *Aspergillus*) in transplant/hematologic malignancy patients — not formally documented in this dataset |
-| Predicted New Indication | Pneumocystosis (Pneumocystis jirovecii pneumonia) |
+| Original Indication | Fungal infections (chromomycosis, coccidioidomycosis, aspergillosis, sporotrichosis, histoplasmosis, fusariosis, mycetoma, candidiasis, oral candidiasis, etc.). The Indian licence records contain no approved indication text. |
+| Predicted New Indication | Pneumocystosis |
 | TxGNN Prediction Score | 99.77% |
 | Evidence Level | L4 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 18 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for posaconazole is not available in this dataset. Based on general drug class knowledge, posaconazole is a triazole antifungal that inhibits fungal CYP51 (lanosterol 14α-demethylase), blocking ergosterol synthesis in the fungal cell membrane.
+Currently, detailed mechanism of action data for the original record is not available. Based on known pharmacology, posaconazole is a triazole antifungal that inhibits fungal lanosterol 14-alpha-demethylase (CYP51), which blocks ergosterol synthesis. Its efficacy against moulds and yeasts such as Aspergillus and Candida is well established.
 
-However, this mechanistic link to pneumocystosis is weak. *Pneumocystis jirovecii* is an atypical fungus whose cell membrane relies primarily on host-derived cholesterol rather than fungal ergosterol, so azole activity against it has historically been considered limited and inconsistent. Standard PCP treatment and prophylaxis today remains TMP-SMX; posaconazole's established clinical role is antifungal prophylaxis against molds such as *Aspergillus* in transplant/hematologic malignancy patients, not direct treatment of *Pneumocystis*.
+The link to pneumocystosis is weak. *Pneumocystis jirovecii* has little or no ergosterol in its membrane and relies on cholesterol-type sterols scavenged from the host, so the azole target is largely absent. Posaconazole is not an established treatment for Pneumocystis pneumonia; first-line therapy remains trimethoprim-sulfamethoxazole.
 
-Given this, the mechanistic connection is indirect inference rather than direct evidence — consistent with the model's L4 evidence classification and the "Hold" recommendation below.
+The very high TxGNN score (99.77%) most likely reflects network proximity to other antifungal indications in the knowledge graph, rather than a true biological rationale. It should be read as a hypothesis-generating signal only.
+
+---
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04368559](https://clinicaltrials.gov/study/NCT04368559) | Phase 3 | Active, not recruiting | 602 | Evaluates IV rezafungin (an echinocandin, not posaconazole) vs. standard antimicrobial regimen to prevent invasive fungal disease in allogeneic transplant recipients; rezafungin itself has no activity against *Pneumocystis* — matched by keyword only, not a direct posaconazole/PCP trial |
-| [NCT06859424](https://clinicaltrials.gov/study/NCT06859424) | Phase 2 | Recruiting | 358 | Platform trial comparing post-transplant cyclophosphamide-based GVHD prophylaxis regimens after mismatched unrelated donor stem cell transplant; population overlaps with immunocompromised patients at PCP risk, but posaconazole/PCP is not a primary study endpoint |
+| [NCT04368559](https://clinicaltrials.gov/study/NCT04368559) | Phase 3 | Completed | 602 | Rezafungin (an echinocandin) vs standard antimicrobial regimen for preventing invasive fungal disease in allogeneic blood and marrow transplant recipients. It does not test posaconazole, so it gives no direct evidence; it is useful only as disease-area context. |
 
-Both trials were graded **C (low relevance)** — neither directly tests posaconazole for pneumocystosis.
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [41232547](https://pubmed.ncbi.nlm.nih.gov/41232547/) | 2025 | Review/Guideline | The Lancet. Infectious Diseases | UK best-practice update on diagnosing serious fungal diseases, including Pneumocystis, via non-culture-based tests |
-| [41362140](https://pubmed.ncbi.nlm.nih.gov/41362140/) | 2025 | Guideline | Chinese Journal of Tuberculosis and Respiratory Diseases | 2025 clinical practice guideline for diagnosis/management of invasive pulmonary fungal disease |
-| [26901377](https://pubmed.ncbi.nlm.nih.gov/26901377/) | 2016 | Review | Swiss Medical Weekly | Overview of invasive candidiasis, aspergillosis, cryptococcosis and PCP; notes posaconazole's established role is mold-active prophylaxis (reducing invasive candidiasis/aspergillosis), not primary PCP treatment |
-| [35596686](https://pubmed.ncbi.nlm.nih.gov/35596686/) | 2022 | Cohort | Transplant Infectious Disease | Retrospective review of infectious complications, including fungal infections, in liver transplant patients with acute GVHD |
-| [21973267](https://pubmed.ncbi.nlm.nih.gov/21973267/) | 2011 | Review (PK/PD) | Clinical Pharmacokinetics | Reviews pulmonary epithelial lining fluid penetration of antifungal agents, relevant to posaconazole PK in lung tissue |
+| [41232547](https://pubmed.ncbi.nlm.nih.gov/41232547/) | 2026 | Guideline/Review | The Lancet Infectious Diseases | British Society for Medical Mycology best-practice recommendations for diagnosing serious fungal diseases (diagnosis, not treatment) |
+| [41362140](https://pubmed.ncbi.nlm.nih.gov/41362140/) | 2025 | Guideline | Zhonghua Jie He He Hu Xi Za Zhi | Chinese guidelines for diagnosis and management of invasive pulmonary fungal disease |
+| [26901377](https://pubmed.ncbi.nlm.nih.gov/26901377/) | 2016 | Review | Swiss Medical Weekly | Overview of invasive candidiasis, aspergillosis, cryptococcosis, and Pneumocystis pneumonia; notes that mould-active posaconazole prophylaxis reduced invasive fungal disease in high-risk haemato-oncology patients |
+| [21973267](https://pubmed.ncbi.nlm.nih.gov/21973267/) | 2011 | Review | Clinical Pharmacokinetics | Penetration of antifungal and other anti-infective agents into pulmonary epithelial lining fluid |
+| [35596686](https://pubmed.ncbi.nlm.nih.gov/35596686/) | 2022 | Retrospective cohort | Transplant Infectious Disease | Infectious complications and antimicrobial management in acute graft-versus-host disease after liver transplantation |
 
-No publication directly reports clinical outcomes of posaconazole used to treat or prevent pneumocystosis.
+None of these publications shows that posaconazole is effective for Pneumocystis pneumonia.
+
+---
 
 ## India Market Information
 
-Posaconazole currently has no marketing authorization in this dataset (0 registrations, market status: not marketed). No product/license information is available.
+Posaconazole has 18 valid single-ingredient registrations in India, with no cancelled licences. Oral tablets, oral suspensions, and injections are available. The records contain no approved indication text. Five of the main registrations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 151535 | Noxafil Oral Suspension (MSD) | Bottle of 105 ml oral suspension | Not stated in the records |
+| 176865 | Poshope Injection (Abbott) | Vial of 16.7 ml injection | Not stated in the records |
+| 174772 | Posatral Tablet (Mylan) | Strip of 10 tablets | Not stated in the records |
+| 176503 | Posahit 100mg Tablet (Sun Pharma) | Strip of 10 tablets | Not stated in the records |
+| 175459 | Posaforce 100mg Tablet (Mankind) | Strip of 10 tablets | Not stated in the records |
+
+---
 
 ## Safety Considerations
 
-- **Drug Interactions**: 269 total interactions identified (source: DDInter). Notable **Major**-level interactions include Loperamide, Triamcinolone, and Budesonide. Additional **Moderate**-level interactions include Famotidine, Ranitidine, Rabeprazole, Hydrocortisone, Aprepitant, Omeprazole, Dexamethasone, Betamethasone, Bisacodyl, Cimetidine, Clarithromycin, Picosulfuric acid, Polyethylene glycol (with electrolytes), and Saxagliptin.
+- **Drug Interactions**: 269 interactions were identified in the data compiled for this report. Examples of **Major** interactions:
+  - Loperamide
+  - Triamcinolone
+  - Budesonide
 
-Package insert warnings and contraindications are not available in this dataset and must be sourced separately before any safety review.
+  Examples of **Moderate** interactions:
+  - Acid-reducing agents: famotidine, ranitidine, cimetidine, omeprazole, rabeprazole
+  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone
+  - Others: aprepitant, clarithromycin, saxagliptin
+
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for further safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted association rests on indirect mechanistic inference rather than direct clinical evidence — the two matched trials are low-relevance keyword matches, and the literature covers general antifungal diagnostics/prophylaxis rather than posaconazole treating pneumocystosis specifically. Combined with an unresolved blocking data gap on package insert warnings/contraindications, this candidate is not ready to advance past S0.
+The prediction rests only on a model score. The biological rationale is weak because Pneumocystis lacks the ergosterol target, no trial or publication directly tests posaconazole for pneumocystosis, and an effective first-line therapy (trimethoprim-sulfamethoxazole) already exists. The evidence level is L4 at best.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking gap — required for initial safety screening, S1)
-- Confirmed mechanism-of-action data from DrugBank
-- Direct clinical or preclinical evidence evaluating posaconazole specifically against *Pneumocystis jirovecii*, given its low ergosterol-dependent membrane biology
-- Confirmed original approved indication(s) and formulation/route data for comparison with pneumocystosis treatment requirements
+- Direct preclinical or clinical data on posaconazole against *Pneumocystis jirovecii*, including comparison with standard prophylaxis or treatment
+- Package insert warnings and contraindications from Indian labelling, which are required before safety screening
+- Verified mechanism of action data
+- Approved indication text for the Indian registrations
+- A drug-interaction management plan, given the many Major and Moderate interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

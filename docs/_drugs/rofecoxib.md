@@ -2,7 +2,7 @@
 layout: default
 title: Rofecoxib
 parent: Model Prediction Only (L5)
-nav_order: 744
+nav_order: 751
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,79 +29,85 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rofecoxib: From COX-2-Mediated Analgesia to Heparin Cofactor II Deficiency
+# Rofecoxib: From Rheumatoid Arthritis and Osteoarthritis to Heparin Cofactor 2 Deficiency
 
 ## One-Sentence Summary
 
-> Rofecoxib is a selective COX-2 inhibitor historically used for analgesic and anti-inflammatory purposes (marketed as Vioxx until its global withdrawal in 2004 due to cardiovascular thrombotic risk); no original indication data is recorded in the current evidence pack.
-> The TxGNN model's top prediction is **Heparin Cofactor II Deficiency**, a rare hereditary thrombophilic disorder,
-> but this prediction is supported by **0 clinical trials** and **0 publications**, and the underlying evidence pack itself flags it as a likely embedding-space false positive with a mechanistically opposite safety direction.
-
----
+Rofecoxib is a selective COX-2 inhibitor (an NSAID) originally used for arthritic and inflammatory conditions such as rheumatoid arthritis, osteoarthritis and migraine.
+The TxGNN model predicts it may be effective for **heparin cofactor 2 deficiency**, but this is a model-only prediction with **0 clinical trials** and **0 publications** supporting it.
+The drug's known prothrombotic safety signal also runs against this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack (data gap). Based on mechanistic notes within the evidence pack, rofecoxib is described as a selective COX-2 inhibitor for analgesic/anti-inflammatory use; historically marketed as Vioxx, withdrawn worldwide in 2004 for cardiovascular thrombotic risk |
-| Predicted New Indication | Heparin Cofactor II Deficiency |
+| Original Indication | Rheumatoid arthritis, osteoarthritis, migraine, juvenile idiopathic arthritis, spondyloarthropathy (the product labels in India list no indication text) |
+| Predicted New Indication | Heparin cofactor 2 deficiency |
 | TxGNN Prediction Score | 99.81% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed (should be verified, see below) |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, no verified mechanism-of-action record exists in the structured drug fields (`original_moa` = data gap). However, the evidence pack's own repurposing-rationale notes describe rofecoxib as a selective COX-2 inhibitor whose primary pharmacology is suppression of prostaglandin synthesis for analgesic and anti-inflammatory effect.
+Currently, detailed mechanism of action data is not available. Based on general pharmacology, rofecoxib is a selective COX-2 inhibitor. Its efficacy in inflammatory joint disease and pain is well established.
 
-Heparin cofactor II deficiency is a hereditary defect in a thrombin-inhibiting plasma protein that produces a **thrombophilic (pro-clotting)** phenotype. There is no established pharmacological pathway connecting COX-2/prostaglandin inhibition to coagulation-factor gene regulation, and the evidence pack explicitly notes that this prediction runs in the **opposite safety direction**: rofecoxib is independently associated with an *increased* risk of cardiovascular thrombotic events (myocardial infarction, stroke) — the very reason it was withdrawn from global markets in 2004. Applying it to a population already predisposed to spontaneous thrombosis would be mechanistically incongruent and potentially harmful rather than beneficial.
+Heparin cofactor 2 deficiency is an inherited thrombophilic disorder involving a serine protease inhibitor (SERPIND1). No credible mechanistic link exists between COX-2 inhibition and this condition. The high score most likely reflects proximity between nodes in the knowledge graph, not a biological rationale.
 
-Notably, this pattern extends across the full top-10 prediction list: 9 of 10 candidates are rare monogenic disorders (coagulation-factor diseases or skeletal/developmental dysplasias) with very high TxGNN scores (>99.6%) but **zero** supporting trials or literature. Only rank 5 (spondyloarthropathy susceptibility) has any literature hit, and that single reference (PMID 17913549) discusses cardiovascular risk *in* spondyloarthropathy patients rather than providing efficacy or safety evidence *for* rofecoxib in that indication. The overall pattern is consistent with a knowledge-graph embedding artifact rather than a genuine repurposing signal.
+Rofecoxib was withdrawn from many markets because of increased cardiovascular thrombotic risk. Using it in a prothrombotic condition would therefore raise a significant safety concern, so the prediction points in the wrong direction.
 
----
+The other top-ranked predictions show the same pattern:
+- **Other thrombophilic disorders** (factor 5 excess with spontaneous thrombosis, antithrombin deficiency type 2): no plausible mechanism, and the same safety concern applies.
+- **Congenital skeletal or developmental syndromes** (for example brachydactyly-syndactyly syndrome, acromesomelic dysplasia Hunter-Thompson type, brachyolmia): an NSAID would not be expected to correct a genetic structural malformation.
+- **Spondyloarthropathy, susceptibility to** (rank 5): biologically plausible, since COX-2 inhibitors are used for symptom relief in spondyloarthritis. However, it overlaps with an existing indication and is not a new repurposing finding.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
----
+## India Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 92030 | Flexib 100mg Tablet | Strip of 15 tablets | Not specified |
+| Registration No. 197698 | Rofejet Gel | Tube of 20 gm gel | Not specified |
+| Registration No. 164793 | Oslol 20mg Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 171767 | Okabax 12.5mg Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 197904 | Roflam 50mg Tablet | Strip of 10 tablets | Not specified |
 
-Rofecoxib currently has **no marketing authorizations registered in Taiwan** (market status: Not marketed / Not marketed; total licenses: 0). No product listings are available to summarize.
-
----
+There are 20 valid single-ingredient registrations in total, including oral tablets and capsules and topical gels. The database lists the product as marketed, but rofecoxib has been withdrawn in most markets, so the actual market status should be verified.
 
 ## Safety Considerations
 
-- **Drug Interactions**: DDI database query completed with **246 total interactions** identified (source: DDInter). Representative moderate-severity interactions include: Acetylsalicylic acid, Metformin, Glimepiride, Chlorpropamide, Nateglinide (glycemic/antiplatelet-relevant agents), corticosteroids (Hydrocortisone, Dexamethasone, Betamethasone, Triamcinolone, Budesonide), Vancomycin, Kanamycin, Levofloxacin, Mesalazine, Balsalazide, Alosetron, Naltrexone, and bowel-prep agents (Polyethylene glycol with electrolytes, Sodium sulfate, Picosulfuric acid).
-- **Known Class-Level Risk (from evidence pack rationale, not a formal label warning)**: Rofecoxib was withdrawn from global markets in 2004 due to an established increase in cardiovascular thrombotic events (myocardial infarction, stroke). This is directly relevant context for any repurposing evaluation, particularly given that several top predicted indications are thrombophilic/coagulation disorders where this risk would be especially concerning.
+- **Drug Interactions**: 246 interacting drugs were found. The 20 shown in the data compiled for this report are all Moderate level. They include:
+  - Corticosteroids: hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide
+  - Other anti-inflammatory drugs: acetylsalicylic acid, mesalazine, balsalazide
+  - Antidiabetic drugs: metformin, glimepiride, chlorpropamide, nateglinide
+  - Antibiotics: vancomycin, kanamycin, levofloxacin
+  - Bowel preparations: picosulfuric acid, polyethylene glycol with electrolytes, sodium sulfate
+  - Others: alosetron, naltrexone
+- **Class-level concern**: Rofecoxib is associated with increased thrombotic cardiovascular events, which was the reason for its market withdrawal. This matters especially for any thrombophilic indication.
 
-Formal TFDA-equivalent label warnings and contraindications are not yet available (see Data Gap DG001 below); please refer to the official package insert once obtained.
-
----
+Package insert warnings and contraindications were not available, so please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (and 9 of the top 10) carry Evidence Level L5 with no clinical trial or literature support, and the leading candidate is mechanistically and safety-wise contradictory to rofecoxib's known prothrombotic cardiovascular risk profile — the same risk that led to its 2004 global withdrawal. The drug is also not currently marketed in Taiwan (0 registrations), and blocking data gaps remain on official label warnings/contraindications and confirmed MOA.
+The prediction rests only on a graph-based score, with no clinical trials, no literature and no plausible mechanism. Rofecoxib's prothrombotic signal makes it a safety concern, not a therapeutic opportunity, for thrombophilic conditions such as heparin cofactor 2 deficiency.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent) official label with warnings, contraindications, and cardiovascular risk labeling (DG001 — Blocking)
-- Confirmed mechanism-of-action documentation via DrugBank API (DG002 — High)
-- Any real-world or preclinical evidence directly linking COX-2 inhibition to the predicted coagulation/skeletal disorders, if such evidence exists
-- A dedicated cardiovascular risk-benefit reassessment before considering any of the top-10 predicted indications for further evaluation
+- Package insert warnings and contraindications from India's regulatory sources (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Any preclinical or clinical evidence linking COX-2 inhibition to the predicted condition
+- Verification of the current market and withdrawal status of rofecoxib in India
+- Thrombotic and cardiovascular risk assessment before any further evaluation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

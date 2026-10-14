@@ -2,15 +2,15 @@
 layout: default
 title: Fluticasone Furoate
 parent: Moderate Evidence (L3-L4)
-nav_order: 370
-evidence_level: L3
+nav_order: 374
+evidence_level: L4
 indication_count: 8
 ---
 
 # Fluticasone Furoate
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **8** 
+Evidence Level: **L4** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,90 +29,88 @@ Evidence Level: **L3** | Predicted Indications: **8**
 
 </div>
 
-# Fluticasone Furoate: From Asthma/Allergic Rhinitis to Atopic Eczema
+# Fluticasone Furoate: From Asthma and Allergic Rhinitis to Atopic Eczema
 
 ## One-Sentence Summary
 
-Fluticasone furoate is a long-acting inhaled/intranasal corticosteroid known for its approved use in asthma, COPD, and allergic rhinitis (marketed elsewhere as Veramyst and, combined with vilanterol, as Relvar/Breo Ellipta); it is not currently marketed in this jurisdiction. The TxGNN model predicts it may be effective for **Atopic Eczema**, with **11 clinical trials** and **2 publications** currently identified — though nearly all of this evidence involves the related ester fluticasone *propionate* rather than furoate itself.
-
----
+Fluticasone furoate is an intranasal and inhaled corticosteroid, originally used to treat asthma and allergic rhinitis.
+The TxGNN model predicts it may be effective for **atopic eczema**, but there are **no registered clinical trials** and **2 publications** that only touch on the topic indirectly (one on adrenal suppression with intranasal steroids, one immunotherapy case report). This is a model-only prediction with very limited direct support.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available locally — drug is unlicensed in this jurisdiction (no label data); globally known for asthma/COPD/allergic rhinitis |
-| Predicted New Indication | Atopic Eczema |
+| Original Indication | Asthma, allergic asthma, intrinsic asthma, allergic rhinitis, vasomotor rhinitis |
+| Predicted New Indication | Atopic eczema |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L3 |
-| Market Status | Not marketed (Not Marketed) |
-| Number of Registrations | 0 |
-| Recommended Decision | Research Question |
-
----
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for fluticasone furoate is currently a data gap. Based on known pharmacological class information, fluticasone furoate is a synthetic glucocorticoid; its efficacy in asthma and COPD (in fixed combination with vilanterol) has been established, and mechanistically its anti-inflammatory action — suppression of pro-inflammatory cytokines and immune cell activation — is directly applicable to inflammatory skin conditions such as atopic eczema.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, fluticasone furoate is a potent glucocorticoid receptor agonist with anti-inflammatory and immunosuppressive effects. Its efficacy in allergic airway disease (asthma and allergic rhinitis) is established.
 
-The predicted link is strengthened by the fact that a closely related ester, fluticasone **propionate**, is already an approved and widely used topical treatment for atopic dermatitis (e.g., Cutivate). Both molecules share the same corticosteroid core structure and differ only in their ester side chain, which primarily affects potency, lipophilicity, and duration of action rather than the underlying anti-inflammatory mechanism.
+Atopic eczema, asthma and allergic rhinitis are all allergic (atopic) conditions that often occur together. Topical corticosteroids are standard therapy for atopic eczema, so a class-level rationale exists.
 
-However, this is an important caveat: fluticasone **furoate** currently has no marketed topical/dermatological formulation, and essentially all of the identified clinical evidence for atopic eczema involves fluticasone propionate or third-party comparator drugs (tacrolimus, pimecrolimus, probiotics). Direct evidence for furoate itself in this indication is therefore indirect, and formulation development would likely be required before furoate could be studied topically.
+The main limitation is formulation. Fluticasone furoate is developed for intranasal and inhaled delivery, and no dermal formulation or skin trial is supported by the data. The prediction therefore rests on class-level reasoning rather than drug-specific evidence.
 
----
+### Other predicted indications
+
+| Predicted Indication | Score | Evidence Level | Comment |
+|------|------|------|------|
+| Bronchitis | 99.89% | L3 | The most evidence-supported alternative. Indirect evidence from COPD, chronic cough and asthma studies; phenotype and drug-specific contribution unclear |
+| 2-Hydroxyethyl methacrylate sensitization | 99.87% | L5 | Score only, no studies |
+| Dermatitis, atopic | 99.81% | L4 | Duplicate of atopic eczema; consider merging |
+| Contact dermatitis | 99.46% | L5 | Class-level rationale only |
+| Asthma-related traits, susceptibility to | 99.37% | L5 | Likely a knowledge-graph artifact overlapping the existing asthma indication |
+| Occupational dermatitis | 99.33% | L5 | Computational prediction only |
+| Phototoxic dermatitis | 99.12% | L5 | Computational prediction only |
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03594565](https://clinicaltrials.gov/study/NCT03594565) | Early Phase 1 | Completed | 13 | Topical nasal steroids used for skin reactions to glucose monitoring devices in children with T1DM; small case series, not a primary AD trial |
-| [NCT01772056](https://clinicaltrials.gov/study/NCT01772056) | Phase 3 | Terminated | 54 | Twice-weekly fluticasone propionate maintenance cream reduced relapse risk in mild-to-moderate pediatric AD |
-| [NCT00546000](https://clinicaltrials.gov/study/NCT00546000) | Phase 4 | Completed | 56 | Evaluated HPA-axis suppression risk of fluticasone propionate (Cutivate) lotion in pediatric AD |
-| [NCT01915914](https://clinicaltrials.gov/study/NCT01915914) | Phase 4 | Completed | 107 | Intermittent fluticasone propionate cream plus daily moisturizer reduced relapse vs. moisturizer alone in stabilized pediatric AD |
-| [NCT04706559](https://clinicaltrials.gov/study/NCT04706559) | N/A | Completed | 98 | Oral probiotics in pediatric AD assessed via SCORAD index; mechanism unrelated to corticosteroids |
-| [NCT00690105](https://clinicaltrials.gov/study/NCT00690105) | Phase 4 | Completed | 577 | Tacrolimus 0.1% vs. fluticasone 0.005% ointment in adults with facial ("red face") AD lesions |
-| [NCT03742414](https://clinicaltrials.gov/study/NCT03742414) | Phase 2 | Active, not recruiting | 398 | Proactive fluticasone propionate cream + barrier cream (Epiceram) to prevent AD progression and food allergy in infants |
-| [NCT00426283](https://clinicaltrials.gov/study/NCT00426283) | Phase 2 | Completed | 42 | Swallowed fluticasone propionate vs. placebo for eosinophilic esophagitis — off-target indication, not AD |
-| [NCT00689832](https://clinicaltrials.gov/study/NCT00689832) | Phase 4 | Completed | 487 | Tacrolimus 0.03% vs. fluticasone 0.005% ointment in children ≥2 years with moderate-severe AD |
-| [NCT00616538](https://clinicaltrials.gov/study/NCT00616538) | Phase 4 | Completed | 121 | Epiceram barrier-repair cream vs. mid-strength fluticasone propionate steroid in pediatric AD |
-
----
+Currently no related clinical trials registered for atopic eczema.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Review | Neuroimmunomodulation | Reviews HPA-axis/adrenal suppression risk from intranasal corticosteroids in allergic conditions that commonly coexist with atopic dermatitis |
-| [40066386](https://pubmed.ncbi.nlm.nih.gov/40066386/) | 2025 | Case Report | Indian Journal of Otolaryngology and Head & Neck Surgery | Case study of allergen immunotherapy in a patient with autoimmune disease; notes atopic dermatitis as one application area of allergen-directed immunotherapy |
+| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Review | Neuroimmunomodulation | Reviews adrenal suppression with intranasal corticosteroids in allergic rhinitis, which often coexists with asthma and atopic dermatitis. This is a safety topic and does not test the drug in eczema |
+| [40066386](https://pubmed.ncbi.nlm.nih.gov/40066386/) | 2025 | Case report | Indian J Otolaryngol Head Neck Surg | Allergen immunotherapy in a patient with autoimmune disease. It does not test fluticasone furoate in eczema |
 
----
+## India Market Information
 
-## Market Information
+Twenty single-ingredient registrations are valid in India, all nasal sprays; none are cancelled. The data compiled for this report do not include approved indication text. Main authorizations:
 
-No registrations found. This drug is currently **not marketed** in this jurisdiction (0 licenses on record), so no local product/dosage-form data is available.
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 84092 | Furamist Nasal Spray | Bottle of 6 gm nasal spray | Cipla Ltd |
+| 162387 | Odnase Nasal Spray | Bottle of 6 gm nasal spray | Dr Reddy's Laboratories Ltd |
+| 84258 | Flutiways AZ Nasal Spray | Pump bottle of 70 MDI nasal spray | Mankind Pharma Ltd |
+| 72535 | Ezicas F 360 Nasal Spray | Bottle of 16 gm nasal spray | Intas Pharmaceuticals Ltd |
+| 84752 | Fluoren Nasal Spray | Bottle of 120 MDI nasal spray | Indoco Remedies Ltd |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (No local label warnings, contraindications, or drug interaction data were retrievable — this is flagged as a **Blocking** data gap for safety assessment.)
+- **Contraindications flagged in the knowledge graph (not label text)**: measles, herpes simplex virus keratitis, adrenocortical insufficiency, Addison disease, varicella zoster infection, fungal infectious disease, dermatophytosis, pulmonary tuberculosis, ocular hypertension, glaucoma, parasitic infection, infectious disease, lower respiratory tract disease, paranasal sinus disease, nasal cavity disease, upper respiratory tract disease, adrenal gland hyperfunction, Cushing syndrome.
+- **Related literature note**: Intranasal corticosteroids can suppress the hypothalamic-pituitary-adrenal axis (PMID 19571596), which matters if the drug were used over larger skin areas or for long periods.
 
----
+Please refer to the package insert for full warnings, contraindications and drug interaction information.
 
 ## Conclusion and Next Steps
 
-**Decision: Research Question**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale is reasonable (corticosteroid class, shared core structure with the already-approved fluticasone propionate for AD), but nearly all supporting clinical evidence involves a different ester of fluticasone rather than furoate itself, and furoate currently has no topical formulation. Combined with the missing local safety label (blocking gap) and missing detailed MOA data, evidence is insufficient to move beyond a research question at this stage.
+The prediction score is high, but there are no clinical trials, the literature does not test the drug in eczema, and there is no dermal formulation. The evidence is class-level reasoning only. Of the predicted indications, bronchitis (L3) has the most supporting evidence and may be worth separate consideration as a research question.
 
 **To proceed, the following is needed:**
-- Local product label data (warnings/contraindications) — currently a blocking data gap
-- Detailed mechanism-of-action data for fluticasone furoate specifically
-- Furoate-specific (not propionate) topical formulation development and preclinical/clinical bridging data
-- Direct clinical trials of fluticasone furoate in atopic eczema/dermatitis
-
-**Note:** Among this drug's other predicted indications, **bronchitis/COPD** (rank 2) shows substantially stronger evidence — L1 evidence level, 28 trials including direct fluticasone furoate/vilanterol (Relvar/Breo Ellipta) studies, and a "Proceed with Guardrails" recommendation — since this reflects an indication already approved in other markets rather than a novel mechanistic hypothesis. That pathway may warrant higher near-term priority than the eczema indication covered in this report.
+- Package insert warnings and contraindications from the India regulator (currently missing and blocking safety screening)
+- Mechanism of action data from DrugBank
+- Evidence that fluticasone furoate works in atopic eczema, or a feasible dermal formulation
+- Comparison against established topical corticosteroids
+- If pursuing bronchitis, a defined phenotype (chronic bronchitis within COPD, eosinophilic bronchitis, or chronic cough) and drug-specific evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: L-Glutamine
 parent: Model Prediction Only (L5)
-nav_order: 461
+nav_order: 465
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# L-Glutamine: From Nutritional Support to Drug-Induced Osteoporosis
+# L-Glutamine: From Short Bowel Syndrome to Dermatitis
 
 ## One-Sentence Summary
 
-L-Glutamine is a conditionally essential amino acid widely used as a nutritional supplement, particularly for gut mucosal support and metabolic replenishment in critically ill patients.
-The TxGNN model predicts it may be effective for **Drug-Induced Osteoporosis**, though **0 clinical trials** and **0 publications** currently support this specific direction.
-The high TxGNN score (99.98%) likely reflects knowledge graph proximity between amino acid metabolism and bone metabolism nodes, rather than a direct causal mechanism.
+L-Glutamine is an amino acid originally associated with the treatment of short bowel syndrome.
+The TxGNN model's top-ranked prediction is drug-induced osteoporosis, but that prediction has no supporting studies. The best-supported prediction is **Dermatitis** (rank 3), backed by **1 clinical trial (withdrawn, 0 enrolled)** and **11 publications**, mostly preclinical or supportive-care studies.
 
 ---
 
@@ -43,47 +42,68 @@ The high TxGNN score (99.98%) likely reflects knowledge graph proximity between 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no India market authorization on file) |
-| Predicted New Indication | Drug-Induced Osteoporosis |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+| Original Indication | Short bowel syndrome |
+| Predicted New Indication | Drug-induced osteoporosis (TxGNN rank 1, no evidence). Dermatitis (rank 3) is the best-supported candidate and is the focus of this report. |
+| TxGNN Prediction Score | 99.98% (drug-induced osteoporosis); 99.85% (dermatitis) |
+| Evidence Level | L5 (drug-induced osteoporosis); L3 (dermatitis) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
+| Recommended Decision | Hold (drug-induced osteoporosis); Hold for dermatitis, as a research question only |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known pharmacology, L-Glutamine is the most abundant free amino acid in the body and serves as a key substrate for protein synthesis, nucleotide production, and energy metabolism in rapidly proliferating cells. It also acts as a precursor for glutathione (an important antioxidant) and contributes to collagen synthesis pathways—which are relevant to bone matrix maintenance.
+**Drug-induced osteoporosis (rank 1).** No clinical trials or literature were found, and no plausible mechanism linking glutamine to bone metabolism can be established from the data compiled for this report. The high score is a computational prediction only. The same applies to the other highly ranked predictions (hemorrhagic disease of newborn, acrodermatitis chronica atrophicans, neonatal dermatomyositis, acne keloid, severe nonproliferative diabetic retinopathy, familial hydroa vacciniforme, childhood secondary interstitial lung disease, and amyopathic dermatomyositis). None has any supporting studies.
 
-Drug-induced osteoporosis commonly results from long-term use of corticosteroids, anticonvulsants, or other agents that disrupt bone remodeling, reduce calcium absorption, or impair osteoblast function. The theoretical connection to L-Glutamine rests on its role in supporting collagen precursor metabolism and maintaining cellular anabolic balance, which may help counteract drug-driven catabolic effects on bone. However, these are mechanistic extrapolations rather than demonstrated effects.
+**Dermatitis (rank 3).** Detailed mechanism of action data for L-glutamine is not available in the compiled data. The supporting rationale comes from preclinical literature:
 
-The TxGNN model's high prediction score (0.9998) most likely reflects graph-level proximity between amino acid metabolism nodes and bone metabolism pathways in the underlying knowledge graph—not a direct pharmacological causal link. No clinical trials or preclinical studies specifically testing L-Glutamine in drug-induced osteoporosis have been identified. This prediction should be treated as a hypothesis-generating signal only.
+- Glutamine suppressed DNFB-induced contact dermatitis in mice by deactivating p38 MAPK through induction of MAPK phosphatase-1 (MKP-1).
+- Glutamine up-regulates MKP-1 through the Ca2+/ERK pathway.
+- Glutamine attenuates itch by inducing GRK2 in an ERK-dependent way.
+
+Clinical signals exist only in supportive-care settings: radiotherapy/chemotherapy-induced dermatitis, hand-foot skin reaction, and an elemental diet study. These are not direct evidence in primary dermatitis. Several studies used combination products (for example HMB/arginine/glutamine), so effects cannot be attributed to glutamine alone.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for this indication.
+Dermatitis is the only prediction with a registered trial.
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04019769](https://clinicaltrials.gov/study/NCT04019769) | Early Phase 1 | Withdrawn | 0 | Planned safety and efficacy study of glutamine supplements in people aged 5-65 with atopic dermatitis and other immune dysregulation. Withdrawn with no participants, so no data. |
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for Drug-Induced Osteoporosis and L-Glutamine.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [28588793](https://pubmed.ncbi.nlm.nih.gov/28588793/) | 2017 | RCT (double-blind) | Mol Clin Oncol | 50 head and neck cancer patients received oral glutamine or placebo to reduce radio/chemotherapy-induced mucositis and dermatitis |
+| [17984413](https://pubmed.ncbi.nlm.nih.gov/17984413/) | 2007 | Clinical trial | Arch Pediatr Adolesc Med | Glutamine-enriched enteral nutrition in very low-birth-weight infants, assessing allergic and infectious disease in the first year |
+| [30587616](https://pubmed.ncbi.nlm.nih.gov/30587616/) | 2019 | Clinical study | In Vivo | HMB/arginine/glutamine supplement to prevent sorafenib-associated hand-foot skin reaction in hepatocellular carcinoma |
+| [32699632](https://pubmed.ncbi.nlm.nih.gov/32699632/) | 2020 | Clinical study | Mol Clin Oncol | Glutamine-rich elemental diet and chemotherapy-induced dermatitis and raw wound areas |
+| [24394143](https://pubmed.ncbi.nlm.nih.gov/24394143/) | 2013 | Clinical study | Gan To Kagaku Ryoho | Abound (HMB, glutamine, arginine) for capecitabine-induced hand-foot syndrome |
+| [22727501](https://pubmed.ncbi.nlm.nih.gov/22727501/) | 2012 | Preclinical (animal) | J Dermatol Sci | Glutamine suppressed DNFB-induced allergic contact dermatitis and itching |
+| [23076500](https://pubmed.ncbi.nlm.nih.gov/23076500/) | 2013 | Preclinical (animal) | J Invest Dermatol | Topical glutamine inhibited contact dermatitis in mouse ears via p38 MAPK deactivation and MKP-1 induction |
+| [29530536](https://pubmed.ncbi.nlm.nih.gov/29530536/) | 2018 | Preclinical (mechanistic) | J Invest Dermatol | Glutamine attenuates itch via rapid ERK-dependent induction of GRK2 |
+| [28955885](https://pubmed.ncbi.nlm.nih.gov/28955885/) | 2016 | Preclinical (in vitro) | Biochem Biophys Rep | Glutamine up-regulates MKP-1 through the Ca2+/ERK cascade |
+| [25143595](https://pubmed.ncbi.nlm.nih.gov/25143595/) | 2014 | Veterinary | Poultry Science | Glutamine/glutamate supplementation in broiler chickens, including foot pad dermatitis incidence |
 
 ---
 
 ## India Market Information
 
-L-Glutamine currently holds **no market authorizations** in India. The drug is not marketed domestically, and no license records are on file.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 95958 | Glutamune DT 1000 Tablet | Strip of 10 dispersible tablets (oral) | Not specified |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interaction records were found.
 
 ---
 
@@ -92,21 +112,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-There is a complete absence of clinical or preclinical evidence specifically linking L-Glutamine to drug-induced osteoporosis; the TxGNN score is high (99.98%), but this appears to be driven by knowledge graph node proximity rather than mechanistic or empirical evidence. An L5 evidence level does not support advancing this repurposing candidate at this time.
+The highest-scoring prediction (drug-induced osteoporosis) and most other predictions have no supporting trials or literature, so they remain computational outputs only. Dermatitis has plausible preclinical mechanisms and supportive-care clinical signals, but the only registered trial was withdrawn with no enrolment and the clinical studies do not address primary dermatitis. It is best treated as a research question rather than a candidate for development.
 
 **To proceed, the following is needed:**
-- Preclinical studies (animal models of corticosteroid-induced osteoporosis) testing L-Glutamine supplementation on bone mineral density and collagen matrix
-- Mechanistic studies clarifying whether L-Glutamine modulates osteoblast/osteoclast activity under drug-induced conditions
-- Retrieval of detailed MOA data from DrugBank (DG002) and official package insert warnings/contraindications from the TFDA (DG001)
-- Market authorization pathway assessment for India given current zero-registration status
-
----
-
-> **Note:** Among the 10 predicted indications in this Evidence Pack, **Dermatitis (Rank 3)** presents a more actionable evidence profile (L3, 2 clinical trials, 20 publications, with RCTs demonstrating L-Glutamine's effect on radiation-induced dermatitis and animal models supporting anti-inflammatory activity via CARD11-mTORC1 pathway). If further investigation is planned, Dermatitis may warrant prioritization over Drug-Induced Osteoporosis.
-
----
-
-*This report is for research reference purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any therapeutic application.*
+- Mechanism of action data for L-glutamine
+- Package insert warnings and contraindications (Indian label information is currently missing)
+- Controlled clinical studies of glutamine alone in dermatitis, such as atopic or contact dermatitis, to replace the withdrawn trial
+- Evidence separating the effect of glutamine from the combination products used in supportive-care studies
+- Dosage form and route assessment for the target dermatitis use, since the only registered product is an oral tablet
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

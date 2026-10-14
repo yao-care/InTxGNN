@@ -2,7 +2,7 @@
 layout: default
 title: Lindane
 parent: Model Prediction Only (L5)
-nav_order: 488
+nav_order: 493
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,98 +29,65 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lindane: From Scabies/Pediculosis to Cervical Neuroblastoma
+# Lindane: From Scabies and Lice Infestation to Cervical Neuroblastoma
 
 ## One-Sentence Summary
 
-Lindane is an organochlorine compound historically used as a topical treatment for scabies and lice infestations (pediculosis). The TxGNN model predicts it may be effective for **Cervical Neuroblastoma**, with **0 clinical trials** and **0 publications** currently supporting this direction. This prediction rests entirely on computational modeling with no empirical evidence whatsoever.
-
----
+Lindane is an organochlorine topical antiparasitic, originally used to treat scabies (including Norwegian scabies), head and pubic lice, and mite infestations.
+The TxGNN model predicts it may be effective for **cervical neuroblastoma**, but **no clinical trials and no publications** currently support this prediction, so it rests on a computational score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Scabies, pediculosis (lice infestation) — topical ectoparasiticide |
-| Predicted New Indication | Cervical Neuroblastoma |
+|------|------|
+| Original Indication | Scabies, Norwegian scabies, Pediculus humanus capitis infestation, Pthirus pubis infestation, mite infestation (from the knowledge graph; the India licence records contain no indication text) |
+| Predicted New Indication | Cervical neuroblastoma |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on established pharmacology, Lindane (gamma-hexachlorocyclohexane, γ-HCH) is an organochlorine insecticide that acts as a GABA-A receptor antagonist—it blocks chloride ion channels in neuronal membranes, causing uncontrolled neuronal excitation and paralysis in ectoparasites. It has been used topically for scabies and lice, though many regulatory agencies have restricted or banned it due to environmental persistence and human toxicity concerns.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Lindane is known as an organochlorine insecticide that acts as a GABA-A receptor antagonist. Its efficacy in scabies and lice is established, but this is a parasiticidal effect on the pest's nervous system.
 
-The TxGNN model's prediction for cervical neuroblastoma appears to rely on the fact that neuroblastoma cells (neural crest origin) express GABA-A receptors to some extent. The hypothesis might follow that GABA-A modulation could influence tumor cell signaling. However, Lindane is a neuroexcitatory toxin, not a cytostat or apoptosis inducer, and there is no established pathway by which GABA-A chloride channel blockade translates into anti-tumor activity against neuroblastoma.
+No mechanistic link has been identified between this action and neuroblastoma. The very high score (99.91%) is most likely a product of graph connectivity in the knowledge graph, not a biological rationale. Other top-ranked predictions are also tumour or cyst conditions of the head and neck (for example benign neoplasm of tongue, epiglottis neoplasm, odontogenic cyst, inner ear neoplasm). All are L5 with no supporting studies, which suggests a systematic pattern in the graph rather than a drug-specific signal.
 
-Most critically, Lindane is classified as an **IARC Group 1 Known Human Carcinogen**, with demonstrated epidemiological association with non-Hodgkin lymphoma (NHL). Applying a known carcinogen to treat a pediatric solid tumor presents a fundamental safety and ethical paradox. Combined with its CNS neurotoxicity, potential ototoxicity, and complete absence of any preclinical or clinical oncology data, this prediction is mechanistically implausible and clinically untenable in its current form.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+Lindane also has well-documented neurotoxicity (seizure risk) and carcinogenicity concerns, which argue against its use in oncology.
 
 ## India Market Information
 
-Lindane currently has no product registrations in India. No authorizations are on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 202944 | Scabex S Lotion | Lotion, 100 ml bottle | Not stated in the data |
+| 165108 | Olscab C Lotion | Lotion, 100 ml bottle | Not stated in the data |
+| 207147 | Scabac Lotion | Lotion, 100 ml bottle | Not stated in the data |
+| 131284 | Linscab Lotion | Lotion, 100 ml bottle | Not stated in the data |
+| 96831 | Gamascab 1% Cream | Cream, 15 g tube | Not stated in the data |
 
----
+All 20 registrations are valid single-ingredient products (lotions, creams, solution, liquid and soaps); the table shows the first five.
 
 ## Safety Considerations
 
-**Drug Interactions (179 total interactions on record):**
+- **Disease associations flagged in the knowledge graph (contraindication edges, not label text)**: epilepsy, cirrhosis of liver, atopic eczema/atopic dermatitis, psoriasis, parapsoriasis, substance abuse/dependence, skin disease, actinic keratosis, seborrheic keratosis.
+- **Drug Interactions**: 179 interactions are recorded. Major-level examples include **bupropion**, **iopamidol** and **iohexol**. Moderate-level examples include morphine, levofloxacin, metoclopramide, promethazine, ephedrine, phentermine, fenfluramine and sibutramine.
+- **Other concerns noted in the prediction review**: neurotoxicity (seizures), systemic absorption and carcinogenicity classification, which weigh against exploratory use.
 
-The following are the most clinically significant interactions identified:
-
-| Severity | Interacting Drug | Clinical Concern |
-|----------|-----------------|-----------------|
-| **Major** | Bupropion | Both agents lower the seizure threshold; co-administration substantially increases seizure risk |
-| **Major** | Iopamidol | Intrathecal contrast agents combined with CNS-penetrating GABA antagonists markedly raise neurotoxicity/seizure risk |
-| **Major** | Iohexol | Same mechanism as above; avoid concurrent use |
-| Moderate | Morphine | Additive CNS/respiratory depression |
-| Moderate | Morphine (liposomal) | Same as above |
-| Moderate | Opium | Same as above |
-| Moderate | Promethazine | Enhanced CNS sedation and neurological effects |
-| Moderate | Metoclopramide | Risk of additive extrapyramidal/neurological effects |
-| Moderate | Levofloxacin | Fluoroquinolone-GABA antagonism may compound seizure risk |
-| Moderate | Ephedrine | Cardiovascular and neurological overstimulation |
-| Moderate | Sibutramine | CNS stimulant interaction |
-| Moderate | Dronabinol | Unpredictable CNS interaction |
-| Moderate | Fenfluramine / Dexfenfluramine / Phentermine / Diethylpropion / Mazindol | Multiple CNS stimulant interactions with seizure risk implications |
-| Moderate | Picosulfuric acid / Sodium sulfate / Polyethylene glycol (3350 with electrolytes) | Bowel preparation agents may alter Lindane absorption if co-administered orally |
-
-> ⚠️ **Additional Safety Flags:** Lindane is an IARC Group 1 carcinogen (NHL risk). It demonstrates known CNS neurotoxicity with systemic absorption, suspected ototoxicity, and environmental persistence. It is banned or severely restricted in many jurisdictions. Full package insert warnings and contraindications were not available in this evidence pack—please consult the current prescribing information before any clinical consideration.
-
----
+Please refer to the package insert for label warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All ten predicted indications for Lindane sit at Evidence Level L5 (model prediction only, zero empirical support), and the top indication—cervical neuroblastoma—carries a mechanistically implausible rationale compounded by Lindane's established carcinogenicity and neurotoxicity. There is no reasonable basis to advance this candidate under current evidence.
+The prediction is supported only by a model score (L5), with no clinical trials, no literature and no plausible mechanism. Lindane's neurotoxicity and carcinogenicity concerns make oncology repurposing unattractive.
 
 **To proceed, the following is needed:**
-
-- Obtain full package insert safety data: warnings, contraindications, and special population restrictions (currently unavailable — blocking gap)
-- Confirm complete MOA data via DrugBank API query
-- Verify Lindane's current regulatory status in India (whether it is banned, restricted, or subject to special controls)
-- Commission focused preclinical studies (in vitro neuroblastoma models) to determine whether any GABA-A–mediated anti-proliferative effect exists at non-toxic concentrations
-- Conduct a formal carcinogenicity risk–benefit analysis before any oncology indication development given IARC Group 1 classification
-- If preclinical signal is found, a structured safety package addressing genotoxicity, systemic exposure, and pediatric tolerability would be mandatory prior to any first-in-human oncology study
+- Package insert warnings and contraindications from the India regulatory source (currently blocking safety screening)
+- Mechanism of action data from DrugBank
+- Preclinical evidence showing a biological link to neuroblastoma
+- A safety and route-of-administration assessment, since the available products are topical only
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

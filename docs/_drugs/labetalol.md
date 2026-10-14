@@ -2,7 +2,7 @@
 layout: default
 title: Labetalol
 parent: Moderate Evidence (L3-L4)
-nav_order: 462
+nav_order: 466
 evidence_level: L4
 indication_count: 4
 ---
@@ -33,102 +33,88 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Labetalol is a combined alpha1 and non-selective beta adrenergic blocker widely used internationally for hypertension management and hypertensive emergencies.
-The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension**,
-with **0 clinical trials** and **2 case reports** currently supporting this direction.
-
----
+Labetalol is a combined alpha-1 and beta-adrenergic blocker, originally used to treat hypertension and hypertensive disorders.
+The TxGNN model predicts it may be effective for **malignant renovascular hypertension**,
+but there are currently **no registered clinical trials** and only **1 publication** (a 1981 case report) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension (not registered in India; based on known international use) |
-| Predicted New Indication | Malignant Renovascular Hypertension |
+|------|------|
+| Original Indication | Hypertensive disorder, hypertension (from the knowledge graph; no approved indication text is available from the India licences) |
+| Predicted New Indication | Malignant renovascular hypertension |
 | TxGNN Prediction Score | 99.08% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Labetalol is a distinctive antihypertensive agent that uniquely combines alpha1 and non-selective beta adrenergic receptor blockade in a single molecule. The beta-blocking component reduces cardiac output and suppresses renin release from the kidneys, while alpha1 blockade lowers peripheral vascular resistance. This dual mechanism allows for rapid, titratable blood pressure reduction, which is why labetalol has historically been favoured in hypertensive emergencies.
+Currently, detailed mechanism of action data is not available. Based on known information, labetalol combines alpha-1 and non-selective beta-adrenergic blockade, and its efficacy in hypertension and hypertensive emergencies is established. Mechanistically, it may be applicable to malignant renovascular hypertension.
 
-Malignant renovascular hypertension is a severe hypertensive crisis driven primarily by renal artery stenosis (RAS) activating the renin-angiotensin-aldosterone (RAA) system. Labetalol's beta-blocking component theoretically targets a key upstream driver of this cascade by suppressing renin release. Two historical case reports — from 1981 and 2004 — describe clinically meaningful blood pressure control with labetalol in patients presenting with malignant hypertension in a renovascular context, lending limited but real-world plausibility to the prediction.
+However, caution is needed. In renovascular disease, blood pressure is driven largely by activation of the renin-angiotensin system, and beta-blockade only partly reduces renin release. This predicted indication is also very close to the drug's existing hypertension use, so it is better viewed as an extension of the current indication than as true repurposing.
 
-However, an important mechanistic caveat must be acknowledged: in bilateral renal artery stenosis, inhibiting the compensatory RAA system with beta-blockers may paradoxically worsen renal perfusion and accelerate acute kidney injury. The safe boundaries of labetalol use in this specific renovascular subtype have not been defined in any controlled study. The TxGNN prediction likely reflects shared graph topology between labetalol and hypertensive disease nodes, rather than a validated biological link specific to the renovascular subtype.
+The high TxGNN score (about 99%) most likely reflects closeness to the original hypertension indication in the knowledge graph, not independent clinical evidence.
 
----
+The other predicted indications are weaker still:
+- **Malignant hypertensive renal disease** (score 99.08%, L5): no trials or literature. Any benefit would come through general blood pressure control rather than a kidney-specific mechanism.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.08%, L4): the retrieved literature concerns pregnancy, perioperative hypertension and animal studies, not pulmonary hypertension. Non-selective beta-blockade may worsen bronchospasm in lung disease.
+- **Pulmonary hypertension with unclear multifactorial mechanism** (score 99.08%, L5): no supporting studies. Beta-blockade may be harmful in some patients with right ventricular dysfunction.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [7242419](https://pubmed.ncbi.nlm.nih.gov/7242419/) | 1981 | Case Report | Medical Journal of Australia | 20-year-old with hallucinogen-induced malignant hypertension and renal arteritis; labetalol combined with minoxidil achieved impressive initial blood pressure control; renal angiography confirmed vasculitic changes |
-| [15113447](https://pubmed.ncbi.nlm.nih.gov/15113447/) | 2004 | Case Report | BMC Nephrology | 18-month-old child with hyponatremic hypertensive syndrome (HHS) presenting as malignant hypertension with renovascular involvement; documents the clinical setting where labetalol is considered in paediatric renovascular crisis |
+For the top predicted indication (malignant renovascular hypertension):
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [7242419](https://pubmed.ncbi.nlm.nih.gov/7242419/) | 1981 | Case report | The Medical Journal of Australia | A 20-year-old man with malignant hypertension after hallucinogenic drug use developed vasculitis of the renal vessels. The arteritis resolved with prednisone, and minoxidil and labetalol were used for initial blood pressure control. |
+
+The literature retrieved for the pulmonary hypertension predictions is mostly about preeclampsia, perioperative hypertension, beta-blocker toxicity and animal studies. It does not directly address pulmonary hypertension and is therefore not listed here.
 
 ## India Market Information
 
-Labetalol is currently **not registered** in India. No product authorizations are on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 121877 | Lebatens Tablet | Strip of 10 tablets | Not stated |
+| 129476 | Labimeg 20mg Injection | Vial of 4 ml injection | Not stated |
+| 63253 | DavaIndia Labetalol 100mg Tablet | Strip of 10 tablets | Not stated |
+| 175101 | Pregnasafe Tablet | Strip of 10 tablets | Not stated |
+| 121186 | Lablol 100mg Tablet | Strip of 10 tablets | Not stated |
 
----
+There are 20 valid single-ingredient registrations in total, covering oral tablets and injectable vials (4 ml and 20 ml).
 
 ## Safety Considerations
 
-**Drug Interactions (240 total interactions identified; key interactions listed below):**
+- **Contraindications (from the knowledge graph, not label text)**: The knowledge graph links labetalol to contraindication with several conditions, including:
+  - Liver conditions: liver failure, liver disease, hepatic coma, hepatic encephalopathy
+  - Kidney and metabolic conditions: kidney disease, anuria, diabetes mellitus, diabetic ketoacidosis, gout
+  - Cardiopulmonary conditions: atrioventricular block, hypotensive disorder, pulmonary emphysema, bronchial disease
+  - Others: systemic lupus erythematosus, pancreatitis, gallbladder disease, intraoperative floppy iris syndrome
+  
+  These should be verified against the official package insert.
+- **Drug Interactions**: 240 interactions were identified in total. Major interactions include **epinephrine** and **dolasetron**. Moderate interactions include corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), anticholinergics (atropine, hyoscyamine, methscopolamine, dicyclomine), morphine, cimetidine, canagliflozin, dapagliflozin and chlorpropamide.
+- **Additional concern**: Non-selective beta-blockade may worsen bronchospasm in lung disease, which is relevant to the pulmonary hypertension predictions.
 
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Epinephrine | **Major** | Risk of paradoxical severe hypertension followed by bradycardia; alpha-blockade unmasks epinephrine's alpha-agonist activity |
-| Dolasetron | **Major** | Potential additive cardiovascular and QT-prolonging effects |
-| Hydrocortisone | Moderate | Corticosteroids may attenuate the antihypertensive effect |
-| Dexamethasone | Moderate | Same mechanism as hydrocortisone |
-| Betamethasone | Moderate | Same mechanism as hydrocortisone |
-| Budesonide | Moderate | Same mechanism as hydrocortisone |
-| Triamcinolone | Moderate | Same mechanism as hydrocortisone |
-| Canagliflozin | Moderate | Beta-blockade may mask hypoglycaemia symptoms in diabetic patients |
-| Dapagliflozin | Moderate | Same as canagliflozin |
-| Chlorpropamide | Moderate | Beta-blockade may mask and prolong hypoglycaemia |
-| Cimetidine | Moderate | May increase labetalol plasma levels by reducing hepatic first-pass metabolism |
-| Morphine | Moderate | Additive hypotensive effect; monitor haemodynamics closely |
-| Atropine | Moderate | May counteract labetalol-induced bradycardia |
-| Dicyclomine | Moderate | Anticholinergic agents may reduce labetalol efficacy |
-| Hyoscyamine | Moderate | Same as dicyclomine |
-| Methscopolamine | Moderate | Same as dicyclomine |
-| Calcium Phosphate | Moderate | Calcium salts may reduce antihypertensive effect |
-| Calcium acetate | Moderate | Same as calcium phosphate |
-| Acetylsalicylic acid | Minor | May slightly reduce antihypertensive effect via prostaglandin inhibition |
-| Magnesium oxide | Minor | Antacids may alter labetalol absorption |
-
-> The full interaction database lists 240 interactions. Prescribers should conduct a comprehensive medication review before use. Please also refer to the package insert for complete warnings and contraindications.
-
----
+The package insert warnings could not be obtained for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence is limited to two historical case reports with no registered clinical trials, placing this candidate at L4. While there is theoretical mechanistic plausibility through renin suppression, an unresolved safety concern in bilateral renal artery stenosis — where beta-blockade may worsen renal function — represents a potentially blocking issue. The absence of India market registration adds a further regulatory barrier to any near-term development.
+The only support for the top prediction is a single 1981 case report, with no registered clinical trials. The high TxGNN score likely reflects similarity to the existing hypertension indication rather than independent evidence. The pulmonary hypertension predictions lack mechanistic support and carry potential safety concerns.
 
 **To proceed, the following is needed:**
-- Retrieve and review the full MOA data from DrugBank (DG002) to confirm the alpha1/beta selectivity ratio and its relevance to the renovascular subtype
-- Retrieve CDSCO/TFDA package insert or equivalent labelling (DG001) to formally assess contraindications, particularly renal impairment and heart block
-- Clarify the intended patient population: unilateral vs. bilateral renal artery stenosis, as the safety profile diverges significantly between these two groups
-- Conduct a structured pharmacovigilance review of published real-world beta-blocker use in renovascular hypertension
-- Commission a focused narrative review or case series analysis before advancing to any prospective observational study
-- Establish renal function monitoring criteria and haemodynamic safety endpoints as prerequisites for any clinical investigation
+- Package insert warnings and contraindications from the India licences, which are required for safety screening
+- Detailed mechanism of action data
+- Controlled clinical evidence in malignant renovascular hypertension, including comparison with renin-angiotensin system–targeted therapy
+- Clarification of whether this indication is a genuine new use or already covered by the existing hypertension label
+- Approved indication text for the India registrations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

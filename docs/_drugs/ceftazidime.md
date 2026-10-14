@@ -2,15 +2,15 @@
 layout: default
 title: Ceftazidime
 parent: High Evidence (L1-L2)
-nav_order: 158
-evidence_level: L1
+nav_order: 159
+evidence_level: L2
 indication_count: 10
 ---
 
 # Ceftazidime
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,98 +29,94 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Ceftazidime: From Gram-Negative Bacterial Infections to Urinary Tract Infection
+# Ceftazidime: From Bacterial Infections to Urinary Tract Infection
 
 ## One-Sentence Summary
 
-Ceftazidime is a third-generation cephalosporin antibiotic with established global use against serious gram-negative bacterial infections, including complicated urinary tract infections (UTIs), respiratory tract infections, and bacteremia — yet it currently holds no registered approval in India.
-The TxGNN model predicts it may be effective for **Urinary Tract Infection**, which aligns with its core pharmacological profile, with **17 clinical trials** and **20 publications** currently supporting this direction.
-This case represents a market access gap rather than a clinical evidence gap: the evidence base is robust, and the recommended path is to proceed with a structured registration strategy.
+Ceftazidime is a third-generation cephalosporin antibiotic, originally used for bacterial infections such as pneumonia, meningitis, peritonitis and staphylococcal and streptococcal infections.
+The TxGNN model predicts it may be effective for **urinary tract infection**, the highest-ranked prediction with supporting clinical data.
+It has **4 clinical trials** and **20 publications** behind it, but most of this work tested the ceftazidime-avibactam combination rather than ceftazidime alone.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Gram-negative bacterial infections (systemic; globally established) |
-| Predicted New Indication | Urinary Tract Infection |
+|------|------|
+| Original Indication | Streptococcal infection, bacterial pneumonia, meningococcal infection, peritonitis, bacterial meningitis, and others (from the knowledge graph; no approved indication text is available in the India licence records) |
+| Predicted New Indication | Urinary tract infection (disease) |
 | TxGNN Prediction Score | 99.41% |
-| Evidence Level | L1 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L2 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
+
+> Note: the three highest-scoring predictions (polyclonal hyperviscosity syndrome, hyperamylasemia, congenital analbuminemia, scores about 99.5%) have no clinical or literature support and no plausible antibacterial mechanism. They are likely knowledge-graph artifacts. This report therefore focuses on urinary tract infection, the highest-ranked prediction with real trial evidence.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacological knowledge, Ceftazidime is a third-generation cephalosporin that exerts its antibacterial effect by binding to penicillin-binding protein 3 (PBP3), blocking the final cross-linking step of peptidoglycan synthesis in the bacterial cell wall. This produces concentration-independent bactericidal activity and is particularly potent against gram-negative organisms, most notably *Pseudomonas aeruginosa* — a pathogen that is disproportionately difficult to treat and commonly implicated in complicated and healthcare-associated UTIs.
+Detailed mechanism-of-action data was not available in the data compiled for this report. From general knowledge, ceftazidime is a third-generation cephalosporin. It inhibits bacterial penicillin-binding proteins, which blocks cell-wall synthesis. It is active against Gram-negative bacteria, including *Pseudomonas aeruginosa*.
 
-The mechanistic fit for UTI is strong on multiple levels. Ceftazidime is renally eliminated largely unchanged, achieving urinary drug concentrations that exceed the MIC for most susceptible uropathogens by a wide margin. Common UTI causative agents — *Escherichia coli*, *Klebsiella pneumoniae*, *Pseudomonas aeruginosa*, and *Enterobacter* species — fall squarely within the gram-negative spectrum of Ceftazidime's activity. The combination formulation Ceftazidime-Avibactam (CAZ-AVI) further extends this coverage to carbapenem-resistant strains producing KPC and OXA-48-type β-lactamases, making Ceftazidime particularly critical in the era of multidrug-resistant (MDR) uropathogens.
+Urinary tract infections are commonly caused by Gram-negative bacteria such as *E. coli* and other Enterobacterales. Ceftazidime's activity therefore fits this indication, and it is already used against other bacterial infections. This is better described as a label extension within infectious disease than as true repurposing.
 
-Importantly, the TxGNN prediction reflects pharmacological reality: UTI (particularly complicated UTI and pyelonephritis) is one of Ceftazidime's core global indications. Its absence from the Indian market is therefore a regulatory and commercial gap, not a signal of clinical uncertainty. Multiple international guidelines (IDSA, ESCMID, SIMIT/SPILF) endorse Ceftazidime or CAZ-AVI for complicated UTIs caused by resistant organisms, and robust clinical trial data — including Phase 4 completed studies and systematic network meta-analyses — support efficacy and safety in this indication.
+An important caveat is that the available trial evidence mostly involves ceftazidime combined with the β-lactamase inhibitor avibactam (CAZ-AVI), not ceftazidime alone. That limits how far the findings apply to ceftazidime as a single agent.
 
 ---
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT04882085](https://clinicaltrials.gov/study/NCT04882085) | Phase 4 | Completed | 60 | Open-label RCT comparing CAZ-AVI vs best available therapy for carbapenem-resistant gram-negative infections (including cUTI) in Chinese adults; directly evaluates efficacy and safety |
-| [NCT00921024](https://clinicaltrials.gov/study/NCT00921024) | Phase 2 | Completed | 129 | Double-blind RCT comparing IV CXA-101 vs IV Ceftazidime in complicated UTI including pyelonephritis; high-quality direct comparator evidence |
-| [NCT00690378](https://clinicaltrials.gov/study/NCT00690378) | Phase 2 | Completed | 137 | Investigator-blinded, randomized study of NXL104/Ceftazidime vs comparator in hospitalized adults with complicated UTI; supports combination strategy |
-| [NCT02497781](https://clinicaltrials.gov/study/NCT02497781) | Phase 2 | Completed | 97 | Single-blind RCT of CAZ-AVI vs Cefepime in pediatric complicated UTI (3 months–18 years); supports use in pediatric populations |
-| [NCT04628572](https://clinicaltrials.gov/study/NCT04628572) | N/A | Completed | 189 | Retrospective real-world study of CAZ-AVI effectiveness and safety in India (June 2019–April 2020), including cUTI; directly relevant to the Indian market context |
-| [NCT03147807](https://clinicaltrials.gov/study/NCT03147807) | N/A | Completed | 75 | BetaLACTA test-guided early de-escalation of empirical carbapenems in ICU patients with pulmonary, urinary, and bloodstream infections; supports Ceftazidime's role in UTI step-down therapy |
-| [NCT05733104](https://clinicaltrials.gov/study/NCT05733104) | N/A | Recruiting | 600 | Post-marketing surveillance of Zavicefta (CAZ-AVI) in Korea for hospital-acquired infections including cUTI; ongoing safety/effectiveness data |
-| [NCT04278404](https://clinicaltrials.gov/study/NCT04278404) | N/A | Recruiting | 5,000 | Large PK/PD study of understudied drugs in pediatric populations; provides Ceftazidime dosing optimization data for UTI in children |
-| [NCT01430910](https://clinicaltrials.gov/study/NCT01430910) | Phase 1 | Completed | 43 | PK/DDI study of Avibactam + Ceftazidime; directly informs CAZ-AVI combination dosing for MDR UTI |
-| [NCT05258851](https://clinicaltrials.gov/study/NCT05258851) | Phase 3 | Terminated | 29 | CAZ-AVI vs Colistin in critically ill patients with carbapenem-resistant Enterobacteriaceae; terminated early due to enrollment challenges, not safety signals |
+|---------|------|------|------|---------|
+| [NCT00921024](https://clinicaltrials.gov/study/NCT00921024) | Phase 2 | Completed | 129 | Randomized, double-blind multicenter study comparing intravenous CXA-101 with intravenous ceftazidime in complicated UTI, including pyelonephritis (safety and efficacy) |
+| [NCT04882085](https://clinicaltrials.gov/study/NCT04882085) | Phase 4 | Completed | 60 | Open-label randomized study of CAZ-AVI versus best available treatment for carbapenem-resistant Gram-negative infections (including complicated UTI) in Chinese adults |
+| [NCT01430910](https://clinicaltrials.gov/study/NCT01430910) | Phase 1 | Completed | 43 | Pharmacokinetic and drug-interaction study of ceftazidime-avibactam in healthy subjects; no efficacy data |
+| [NCT04278404](https://clinicaltrials.gov/study/NCT04278404) | N/A | Recruiting | 5000 | Pharmacokinetics and safety of understudied drugs in children; supportive pharmacology only |
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [39817442](https://pubmed.ncbi.nlm.nih.gov/39817442/) | 2025 | Systematic Review / NMA | J Comparative Effectiveness Research | Network meta-analysis of treatment options for complicated UTI including acute pyelonephritis; evaluates CAZ-AVI among available therapies against drug-resistant organisms |
-| [38688353](https://pubmed.ncbi.nlm.nih.gov/38688353/) | 2024 | Clinical Practice Guideline | Int J Antimicrobial Agents | Joint SIMIT/SPILF practical guidance on treating MDR gram-negative infections; positions CAZ-AVI for cUTI caused by carbapenem-resistant Enterobacterales |
-| [33618353](https://pubmed.ncbi.nlm.nih.gov/33618353/) | 2021 | Retrospective Cohort | Clinical Infectious Diseases | Multicenter study of CAZ-AVI for KPC-producing *K. pneumoniae* infections, including UTI; supports real-world effectiveness |
-| [32094128](https://pubmed.ncbi.nlm.nih.gov/32094128/) | 2020 | Comparative Cohort | Antimicrobial Agents & Chemotherapy | Head-to-head comparison of CAZ-AVI vs meropenem-vaborbactam for carbapenem-resistant Enterobacteriaceae infections; patients with localized UTI were excluded, defining scope boundary |
-| [35787918](https://pubmed.ncbi.nlm.nih.gov/35787918/) | 2022 | Review | Int J Antimicrobial Agents | Clinical trial data review for novel antibiotics including CAZ-AVI for MDR gram-negative bacteria; positions Ceftazidime combinations as standard of care |
-| [39934901](https://pubmed.ncbi.nlm.nih.gov/39934901/) | 2025 | Systematic Review / Meta-analysis | Antimicrobial Resistance & Infection Control | Global trends in CAZ-AVI resistance in gram-negative bacteria; critical for India market resistance surveillance planning |
-| [30219824](https://pubmed.ncbi.nlm.nih.gov/30219824/) | 2019 | Review | Clinical Infectious Diseases | Challenges of renal dose adjustment for CAZ-AVI in AKI vs chronic kidney disease; directly relevant to UTI patients with renal impairment |
-| [37843118](https://pubmed.ncbi.nlm.nih.gov/37843118/) | 2023 | Review | Clinical Infectious Diseases | ARLG priorities and progress in gram-negative infection research; includes design considerations for ceftazidime-based trials in resistant uropathogens |
-| [35734948](https://pubmed.ncbi.nlm.nih.gov/35734948/) | 2022 | Epidemiology | Pediatrics | Epidemiology, treatment, and outcomes of third-generation cephalosporin-resistant UTI in US pediatric patients; highlights role of Ceftazidime-class drugs in resistant pediatric UTI |
-| [30270406](https://pubmed.ncbi.nlm.nih.gov/30270406/) | 2018 | Phase 3 RCT | Infectious Diseases & Therapy | TANGO II trial of meropenem-vaborbactam vs best available therapy (which included CAZ-AVI) for CRE; supports CAZ-AVI positioning in treatment algorithms for resistant UTI |
+|------|-----|------|------|---------|
+| [39817442](https://pubmed.ncbi.nlm.nih.gov/39817442/) | 2025 | Systematic review / network meta-analysis | J Comp Eff Res | Efficacy of treatment options for complicated UTI, including acute pyelonephritis |
+| [38688353](https://pubmed.ncbi.nlm.nih.gov/38688353/) | 2024 | Review | Int J Antimicrob Agents | Practical approach to treating multidrug-resistant Gram-negative infections (Italian and French guidance) |
+| [35787918](https://pubmed.ncbi.nlm.nih.gov/35787918/) | 2022 | Review | Int J Antimicrob Agents | Clinical data on novel antibiotics for multidrug-resistant Gram-negative infections, including ceftazidime-avibactam |
+| [30219824](https://pubmed.ncbi.nlm.nih.gov/30219824/) | 2019 | Review | Clin Infect Dis | Renal dosing of antibiotics, including ceftazidime/avibactam, and reduced response at creatinine clearance of 30-50 mL/min |
+| [32094128](https://pubmed.ncbi.nlm.nih.gov/32094128/) | 2020 | Retrospective cohort | Antimicrob Agents Chemother | Meropenem-vaborbactam versus ceftazidime-avibactam for carbapenem-resistant Enterobacteriaceae infections |
+| [33618353](https://pubmed.ncbi.nlm.nih.gov/33618353/) | 2021 | Retrospective cohort | Clin Infect Dis | Ceftazidime-avibactam for KPC-producing *K. pneumoniae* infections |
+| [30270406](https://pubmed.ncbi.nlm.nih.gov/30270406/) | 2018 | RCT | Infect Dis Ther | TANGO II: meropenem-vaborbactam versus best available therapy for carbapenem-resistant Enterobacteriaceae; ceftazidime is not the study drug |
+| [39934901](https://pubmed.ncbi.nlm.nih.gov/39934901/) | 2025 | Systematic review / meta-analysis | Antimicrob Resist Infect Control | Global trends of ceftazidime-avibactam resistance in Gram-negative bacteria |
 
 ---
 
 ## India Market Information
 
-Ceftazidime currently has **no registered authorizations** in India. The `taiwan_regulatory` data (sourced for the India market context) confirms zero licenses and no marketed products. This represents a regulatory gap — not a safety or efficacy issue — as Ceftazidime and CAZ-AVI are widely approved and marketed in the United States (FDA), European Union (EMA), Japan (PMDA), and many other jurisdictions.
+Twenty single-ingredient injectable registrations are valid, with none cancelled. Approved indication text is not recorded for any of them. The main ones are listed below.
 
-Notably, the retrospective real-world study [NCT04628572](https://clinicaltrials.gov/study/NCT04628572) enrolled 189 patients in India who had already received CAZ-AVI for at least 48 hours in routine practice (June 2019–April 2020), indicating that the drug is in clinical use in India through off-label or import channels despite having no formal registration.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 85994 | Fortum ES 2gm Injection (Glaxo SmithKline Pharmaceuticals Ltd) | Vial of 2 gm injection | Not recorded |
+| 165495 | Orzid 2gm Injection (Orchid Chemicals & Pharmaceuticals Ltd) | Vial of 1 injection | Not recorded |
+| 33120 | Bbcef S 1000mg/500mg Injection (LifeCare Formulation Pvt Ltd) | Vial of 1 powder for injection | Not recorded |
+| 217210 | Tazid 500mg Injection (Alkem Laboratories Ltd) | Vial of 1 injection | Not recorded |
+| 209865 | Spectrazid 250mg Injection (Apex Laboratories Pvt Ltd) | Vial of 2 ml injection | Not recorded |
 
 ---
 
 ## Safety Considerations
 
-Formal warning and contraindication data for Ceftazidime are not available in this Evidence Pack. Please refer to the package insert for key warnings and contraindications before clinical use.
+- **Disease-related contraindication signals (from knowledge-graph associations, not label text)**: kidney disease, liver disease, gallbladder disease, blood coagulation disease, *Clostridium difficile* colitis, pyoureter, perinatal necrotizing enterocolitis, congenital prothrombin deficiency.
+- **Drug Interactions**: 114 interactions were identified. The main moderate-level ones are:
+  - Amphotericin B (including its cholesteryl sulfate, lipid complex and liposomal forms)
+  - Aminoglycosides: kanamycin, neomycin, streptomycin
+  - Picosulfuric acid
 
-**Drug Interactions** (114 total interactions identified; key moderate-level interactions):
+  Other interactions are of unknown severity, for example with vancomycin, pantoprazole, omeprazole, lansoprazole, metformin, morphine and doxycycline.
+- **Renal function**: published reviews note reduced clinical response in patients with moderate renal impairment, so dosing needs careful adjustment.
 
-| Interacting Drug | Interaction Level | Clinical Note |
-|-----------------|------------------|---------------|
-| Amphotericin B (conventional) | Moderate | Potential additive nephrotoxicity; monitor renal function closely |
-| Amphotericin B (cholesteryl sulfate) | Moderate | Same nephrotoxicity concern as conventional formulation |
-| Amphotericin B (lipid complex) | Moderate | Nephrotoxicity risk persists even with lipid formulations |
-| Amphotericin B (liposomal) | Moderate | Monitor renal function; liposomal formulation reduces but does not eliminate risk |
-| Kanamycin | Moderate | Additive nephrotoxicity and ototoxicity with aminoglycosides |
-| Neomycin | Moderate | Additive nephrotoxicity with aminoglycosides |
-| Streptomycin | Moderate | Additive nephrotoxicity and ototoxicity with aminoglycosides |
-| Picosulfuric acid | Moderate | Risk of electrolyte imbalance may affect drug excretion/toxicity |
+Please refer to the package insert for the full warnings and contraindications.
 
 ---
 
@@ -129,16 +125,20 @@ Formal warning and contraindication data for Ceftazidime are not available in th
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Ceftazidime is a globally established, guideline-endorsed antibiotic for complicated urinary tract infections — particularly for *Pseudomonas aeruginosa* and carbapenem-resistant gram-negative organisms — supported by Phase 2/4 completed RCTs, systematic reviews, and extensive real-world evidence. Its absence from the Indian market is a market access issue, not a clinical uncertainty; the drug is already being used in Indian clinical practice via off-label channels, as evidenced by a completed real-world Indian cohort study (n=189).
+Urinary tract infection is mechanistically close to ceftazidime's existing antibacterial uses, and a completed Phase 2 randomized trial plus a Phase 4 study support the direction. However, most evidence involves the avibactam combination, so the evidence is not direct for ceftazidime alone.
 
 **To proceed, the following is needed:**
+- Package insert warnings and contraindications for the marketed Indian products. This is a blocking gap for safety screening.
+- Mechanism-of-action data from DrugBank.
+- Trial or observational data on ceftazidime monotherapy in UTI, separate from the avibactam combination.
+- Susceptibility confirmation and renal dose adjustment as standard guardrails.
+- Review of the 114 interactions, particularly with aminoglycosides and amphotericin B (nephrotoxicity concerns).
 
-- **Regulatory filing**: Prepare CDSCO New Drug Application (NDA) or import registration documentation; leverage existing FDA/EMA approval dossiers as the basis
-- **Mechanism of action documentation**: Obtain formal DrugBank MOA data (DB00438) to complete safety narratives required for regulatory submissions
-- **Local resistance surveillance data**: Conduct or source a local Indian antibiogram for common UTI pathogens to establish susceptibility profiles and support clinical positioning
-- **Package insert safety data**: Download and parse the FDA/EMA-approved package insert to fill the current warning and contraindication data gaps
-- **Pharmacovigilance plan**: Establish a local adverse drug reaction monitoring framework, given that aminoglycoside combinations (commonly used in Indian ICUs) represent the primary moderate drug-drug interaction risk
-- **Formulation strategy**: Confirm IV formulation availability and cold-chain logistics for the Indian market; consider whether CAZ-AVI (Zavicefta) should be co-registered alongside Ceftazidime monotherapy to maximize MDR coverage positioning
+**Other predictions (all Hold unless noted):**
+- Chronic suppurative otitis media (infectious otitis media) has small, mostly non-randomized studies of parenteral ceftazidime in children with *Pseudomonas* infection. It is a reasonable research question, but the evidence is older and limited.
+- Epiglottitis, gonococcal urethritis and *Peptostreptococcus* infection have only case-level or in-vitro evidence, and better established agents exist.
+- Ureaplasma urethritis conflicts with the drug's mechanism, since Ureaplasma lacks a cell wall.
+- Polyclonal hyperviscosity syndrome, hyperamylasemia, congenital analbuminemia and blood group incompatibility have no plausible rationale and are likely model artifacts.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

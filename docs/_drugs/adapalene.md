@@ -29,37 +29,36 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Adapalene: From Acne Vulgaris to Zinc, Elevated Plasma
+# Adapalene: From Acne to Elevated Plasma Zinc
 
 ## One-Sentence Summary
 
-Adapalene is a third-generation synthetic retinoid with established use in the topical treatment of acne vulgaris across multiple international markets.
-The TxGNN model predicts it may be effective for **Zinc, Elevated Plasma**, with **no clinical trials** and **no publications** currently supporting this direction.
-At present, this prediction is based solely on model output (TxGNN score: 99.51%), and substantial evidence gaps must be addressed before any clinical consideration.
+Adapalene is a topical retinoid originally used to treat acne.
+The TxGNN model predicts it may be effective for **elevated plasma zinc**, but **no clinical trials and no publications** currently support this direction. The prediction rests on the model score alone.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Acne vulgaris (topical retinoid therapy) |
-| Predicted New Indication | Zinc, Elevated Plasma |
+|------|------|
+| Original Indication | Acne |
+| Predicted New Indication | Zinc, elevated plasma |
 | TxGNN Prediction Score | 99.51% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Adapalene is a synthetic naphthoic acid derivative with selective retinoid activity. It binds preferentially to nuclear retinoic acid receptors RAR-β and RAR-γ, modulating gene expression programs involved in cellular differentiation, keratinization, and inflammatory cascades — which underlies its efficacy in acne.
+Currently, detailed mechanism of action data is not available. Based on known information, adapalene is a topical retinoid that acts as a selective retinoic acid receptor (RAR-beta/gamma) agonist. Its efficacy in acne is established, but a mechanistic link to elevated plasma zinc has not been found.
 
-A potential mechanistic bridge to zinc homeostasis exists through the well-documented interplay between retinoid signaling and zinc biology. Zinc is an indispensable structural cofactor for nuclear receptor zinc-finger domains, including those of the RAR/RXR superfamily through which Adapalene acts. Retinoids have been shown to regulate zinc-binding proteins (e.g., metallothioneins) and influence expression of zinc transporter genes (ZnT/ZIP families). If Adapalene modulates RAR-mediated transcriptional programs, downstream effects on zinc distribution and plasma levels are biologically conceivable.
+Elevated plasma zinc is a laboratory finding or biochemical state rather than a conventional treatable disease. No known pathway connects retinoid receptor signalling to zinc homeostasis in a way that would lower plasma zinc. Topical adapalene also has low systemic exposure, which makes a systemic effect on plasma zinc even less likely.
 
-It is important to note, however, that "zinc, elevated plasma" describes a laboratory finding rather than a discrete clinical disease entity. The therapeutic relevance of targeting this parameter with a topical retinoid — a drug with minimal systemic absorption — remains highly speculative in the absence of any supporting experimental or clinical data.
+The very high TxGNN score (0.995) is a model output only. It may reflect a knowledge-graph artifact, such as general retinoid–zinc associations in skin biology or shared gene-network neighbours. It should not be read as evidence of efficacy.
 
 ---
 
@@ -77,24 +76,24 @@ Currently no related literature available.
 
 ## India Market Information
 
-Adapalene is **not currently marketed** in India, with **0 registered products** on record. No license entries are available for display.
+Twenty valid single-ingredient registrations are listed. The main five are shown below. All are topical gels, and no approved indication text is available in the data compiled for this report.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 217787 | Ticin Plus Gel | Tube of 20 gm gel | Torque Pharmaceuticals Pvt Ltd |
+| 17264 | Adhibit Gel | Tube of 15 gm gel | Dupen Laboratories Pvt Ltd |
+| 5953 | Aclene 0.10% Gel | Tube of 15 gm gel | Cipla Ltd |
+| 12911 | Achilles 0.10% Gel | Tube of 15 gm gel | Novartis India Ltd |
+| 14480 | Adene 0.1% Gel | Tube of 15 gm gel | Gary Pharmaceuticals Pvt Ltd |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions:** A total of 58 potential drug interactions have been identified (source: DDInter). All interactions are currently classified as **Unknown** severity level, meaning risk magnitude has not been formally characterised. Clinically notable interacting drugs include:
+- **Disease associations flagged as contraindications in the knowledge graph** (not taken from label text): photoparoxysmal response, photosensitivity disease, exfoliative dermatitis, and dermatitis.
+- **Drug Interactions:** 58 potential interactions were identified, but none has a severity level assigned. Examples include doxycycline, minocycline, tetracycline, metronidazole, prednisone, triamcinolone, budesonide, omeprazole, pantoprazole, ibuprofen, fluconazole, clopidogrel, and bupropion.
 
-| Drug Class | Examples |
-|------------|---------|
-| Tetracycline antibiotics (commonly co-prescribed for acne) | Doxycycline, Tetracycline, Minocycline |
-| Proton pump inhibitors | Pantoprazole, Omeprazole, Rabeprazole |
-| Corticosteroids | Prednisone, Triamcinolone, Budesonide |
-| Antifungals / Antimicrobials | Fluconazole, Metronidazole |
-| Antihistamines | Cetirizine, Loratadine, Fexofenadine |
-| Other | Clopidogrel, Ibuprofen, Bupropion, Scopolamine, Loperamide, Ranitidine |
-
-Please refer to the package insert for complete safety information, including warnings and contraindications.
+For full warnings and contraindications, please refer to the package insert.
 
 ---
 
@@ -103,15 +102,14 @@ Please refer to the package insert for complete safety information, including wa
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN prediction score of 99.51%, there is currently zero supporting evidence from clinical trials or published literature (Evidence Level: L5). The predicted indication — "zinc, elevated plasma" — is a metabolic laboratory parameter rather than an established therapeutic target, and Adapalene's minimal systemic bioavailability as a topical agent further limits plausibility for systemic zinc modulation.
+The prediction is supported only by a model score (Evidence Level L5). No trials or publications exist, and no plausible mechanism links a topical retinoid to lowering plasma zinc. The target is also a laboratory finding rather than a disease, and topical dosing gives low systemic exposure.
 
 **To proceed, the following is needed:**
-- Clarification of the clinical relevance of "zinc, elevated plasma" as a defined therapeutic target
-- Retrieval of full MOA data from DrugBank (DG002) to enable mechanistic linkage analysis
-- Retrieval of TFDA/CDSCO package insert to characterise warnings and contraindications (DG001)
-- Preclinical studies examining Adapalene's effects on zinc transporter expression or metallothionein regulation
-- Assessment of systemic exposure levels achievable with topical versus any potential oral formulation, if systemic indication is pursued
-- Review of whether oral retinoids (e.g., isotretinoin) show any signal for plasma zinc modulation as a mechanistic proxy
+- Confirmation that elevated plasma zinc is a clinically meaningful therapeutic target
+- Detailed mechanism of action data and any evidence linking retinoid signalling to zinc homeostasis
+- Preclinical or exploratory studies showing an effect on plasma zinc
+- Package insert warnings and contraindications from the India Pharma source, which are currently missing and block safety screening
+- An assessment of route compatibility, since the topical gel formulations may not achieve relevant systemic exposure
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

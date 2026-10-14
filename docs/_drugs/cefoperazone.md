@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cefoperazone
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 155
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Cefoperazone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,73 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cefoperazone: From Bacterial Infections to Sclerosing Cholangitis
+# Cefoperazone: From Antibacterial Therapy to Sclerosing Cholangitis
 
 ## One-Sentence Summary
 
-Cefoperazone is a third-generation cephalosporin antibiotic with broad-spectrum antibacterial activity, established for treating serious bacterial infections including pneumonia, intra-abdominal infections, and septicemia — notably distinguished by its predominant biliary excretion (~70% excreted unchanged in bile).
-The TxGNN model predicts it may be effective for **Sclerosing Cholangitis**, with **no clinical trials** and **no publications** currently supporting this specific direction.
-Evidence is at the model-prediction level only (L5), and this candidate is currently recommended to **Hold** pending mechanistic validation.
+Cefoperazone is a third-generation cephalosporin antibiotic, marketed in India as an injectable.
+The TxGNN model's top-ranked new indication for it is **sclerosing cholangitis**, but **no clinical trials and no publications** support this prediction.
+The best-supported predicted use is pneumonia, which is an established antibacterial use rather than true repurposing (see "Other Predicted Indications").
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available (no registrations in India) |
-| Predicted New Indication | Sclerosing Cholangitis |
+|------|------|
+| Original Indication | Not stated in the registration records (cefoperazone is an injectable cephalosporin antibacterial) |
+| Predicted New Indication | Sclerosing cholangitis |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 (model prediction only) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Cefoperazone is a third-generation cephalosporin — a β-lactam antibiotic that inhibits bacterial cell wall (peptidoglycan) synthesis by covalently binding to penicillin-binding proteins (PBPs), ultimately triggering bacterial autolysis. It is clinically used both as monotherapy and in combination with the β-lactamase inhibitor sulbactam (Cefoperazone/Sulbactam) to extend coverage against β-lactamase-producing organisms, including multidrug-resistant Acinetobacter baumannii.
+Currently, detailed mechanism of action data is not available. Based on known information, cefoperazone is a third-generation cephalosporin that inhibits bacterial cell wall synthesis. Its efficacy is established in bacterial infections, but there is no data showing a mechanistic link to sclerosing cholangitis.
 
-A distinctive pharmacokinetic feature of Cefoperazone is its predominant biliary excretion: approximately 70% of the drug is eliminated unchanged via bile, resulting in substantially higher concentrations in the biliary tract compared to plasma. This property provides a theoretical mechanistic rationale for potential activity in biliary conditions — the drug reaches the target tissue at levels far exceeding typical systemic antibiotics.
-
-Sclerosing cholangitis — particularly primary sclerosing cholangitis (PSC) — involves immune dysregulation and gut microbiome perturbation. The gut-bile axis hypothesis proposes that intestinal bacteria may drive biliary inflammation and fibrosis, and antibiotic interventions have been explored in PSC (e.g., oral vancomycin in pediatric patients). Cefoperazone's high biliary concentration theoretically positions it as a candidate for modulating the biliary microbial environment. However, this mechanistic link remains entirely speculative: the TxGNN prediction most likely originates from knowledge graph (KG) associations between the biliary excretion pathway node and biliary tract disease nodes, rather than from validated pharmacological evidence. No clinical or preclinical data currently support this repurposing hypothesis.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+The only loose connection is that cefoperazone is excreted substantially in bile. That could matter for biliary infection or cholangitis from bacterial causes. It does not support a disease-modifying effect in primary sclerosing cholangitis, which is a chronic, immune-mediated, fibrosing disease. The high score is a computational prediction only.
 
 ---
 
 ## India Market Information
 
-Cefoperazone is currently **not registered in India**. No product authorizations, brand names, or approved indications are available from the local regulatory database.
+There are 20 valid registrations, all injectable. Approved indication text is not recorded for any of them. Five examples:
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 142898 | Magna SB 1000mg/1000mg Injection | Vial of 1 Injection | Aristo Pharmaceuticals Pvt Ltd |
+| 83839 | Edelcef 500mg Injection | Vial of 1 Powder for Injection | Edelweiss Lifecare Pvt Ltd |
+| 213258 | Sulcetis SB 1g Injection | Vial of 1 Injection | Atlantis Formulations Pvt Ltd |
+| 53383 | C Bactum Forte 2000mg/1000mg Injection | Vial of 1 Injection | Vhb Life Sciences Inc |
+| 252967 | Zonefor 250mg Injection | Vial of 1 Injection | Fortune Labs |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions** (14 moderate-level interactions identified via DDInter):
+- **Contraindication signals (knowledge-graph, not label text):** liver disease, gallbladder disease, blood coagulation disease, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, congenital prothrombin deficiency, vitamin K deficiency hemorrhagic disease, digestive system disease, intestinal disease.
+  - Liver and gallbladder disease are directly relevant to a biliary indication such as sclerosing cholangitis.
+- **Drug Interactions:** 14 moderate-level interactions were identified:
+  - Aminoglycosides: kanamycin, neomycin, streptomycin, amikacin (including liposomal), gentamicin
+  - Anticoagulants: warfarin, heparin
+  - Others: ethanol, chloramphenicol, picosulfuric acid, ethinylestradiol, mycophenolic acid, pemetrexed
+  - Ethanol and the anticoagulants correspond to the known disulfiram-like reaction and bleeding risks.
 
-| Interacting Drug | Level | Clinical Relevance |
-|-----------------|-------|-------------------|
-| Warfarin | Moderate | Cephalosporins with the N-methylthiotetrazole (NMTT) side chain (present in Cefoperazone) may inhibit vitamin K–dependent clotting factor synthesis, potentiating anticoagulation |
-| Heparin | Moderate | Additive bleeding risk; monitor coagulation parameters closely |
-| Ethanol | Moderate | NMTT side chain causes disulfiram-like reaction (flushing, tachycardia, nausea) — avoid alcohol during and 5 days after treatment |
-| Kanamycin / Amikacin / Amikacin (liposome) / Gentamicin / Neomycin / Streptomycin | Moderate | Concurrent aminoglycosides increase nephrotoxicity and ototoxicity risk; renal function monitoring required |
-| Chloramphenicol | Moderate | Potential pharmacodynamic antagonism with β-lactam antibiotics |
-| Ethinylestradiol | Moderate | Gut flora disruption may reduce enterohepatic recycling of estrogen; consider backup contraception |
-| Mycophenolic acid | Moderate | Antibiotic-induced gut flora changes may reduce mycophenolate bioavailability; monitor immunosuppressant levels |
-| Pemetrexed | Moderate | Cefoperazone may reduce renal clearance of pemetrexed, increasing toxicity risk |
-| Picosulfuric acid | Moderate | Concurrent use may reduce bowel preparation efficacy |
+Package insert warnings and contraindications were not available, so please refer to the package insert for the full safety profile.
+
+---
+
+## Other Predicted Indications
+
+Because the top-ranked prediction has no support, here is how the other candidates compare:
+
+| Predicted Indication | Evidence Level | Supporting Evidence | Assessment |
+|------|------|------|------|
+| **Pneumonia** (rank 3, score 99.93%) | L1 | 2 trials, 19 publications, including a randomized noninferiority trial of cefoperazone-sulbactam vs cefepime in hospital-acquired pneumonia ([PMID 31138577](https://pubmed.ncbi.nlm.nih.gov/31138577/)) and a comparison vs piperacillin-tazobactam ([PMID 34168466](https://pubmed.ncbi.nlm.nih.gov/34168466/)) | Proceed with Guardrails. This is an established antibacterial use. The trials are [NCT07671755](https://clinicaltrials.gov/study/NCT07671755) (completed, n=80, colistin ± cefoperazone-sulbactam for MDR *A. baumannii* ventilator-associated pneumonia) and [NCT02060149](https://clinicaltrials.gov/study/NCT02060149) (Phase 1/2, status unknown, n=90, indirect evidence). Guardrails are antimicrobial stewardship, local resistance patterns, and bleeding and alcohol-reaction risks. |
+| Bronchitis (rank 7) | L3 | Mostly 1980s open-label or comparative studies | Research question. Most bronchitis is viral, so stewardship applies. |
+| Meningococcal infection (rank 8) | L3 | One small 1987 preliminary report in bacterial meningitis | Research question. CSF penetration is inferior to ceftriaxone and cefotaxime. |
+| Infectious otitis media (rank 9) | L4 | Only indirect bacteriology and other-drug studies | Hold |
+| Rheumatoid arthritis, gout, IgG4-related sclerosing cholangitis, colobomatous microphthalmia-rhizomelic dysplasia syndrome, brachydactyly-syndactyly syndrome | L4–L5 | None relevant (the RA papers are case reports of infections in RA patients) | Hold. No plausible mechanism. |
 
 ---
 
@@ -104,15 +108,13 @@ Cefoperazone is currently **not registered in India**. No product authorizations
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a very high prediction score (99.98%) to sclerosing cholangitis, likely driven by Cefoperazone's unique biliary excretion pharmacokinetics creating a KG pathway association with biliary tract diseases — not by validated pharmacological or clinical evidence. No clinical trials or publications support this repurposing direction, and the evidence level is L5 (model prediction only). Furthermore, Cefoperazone is not registered in India, presenting an additional regulatory barrier.
+The top-ranked prediction, sclerosing cholangitis, rests only on a model score. It has no trials, no literature, and no plausible mechanism for an antibiotic. The knowledge-graph also flags liver and gallbladder disease as contraindications. The genuinely supported direction is pneumonia, which is an established antibacterial use rather than new repurposing.
 
 **To proceed, the following is needed:**
-
-- **MOA confirmation**: Query DrugBank API to obtain formal mechanism of action, pharmacodynamics, and pharmacokinetic data for Cefoperazone (DB01329)
-- **Regulatory safety data**: Obtain package insert (SmPC or local equivalent) to establish key warnings and contraindications before any safety evaluation
-- **Preclinical hypothesis testing**: Investigate whether Cefoperazone's biliary drug concentrations are sufficient to modulate biliary microbiota in PSC animal models (e.g., *Mdr2*-knockout mice)
-- **Literature gap assessment**: Search specifically for Cefoperazone + gut microbiome, bile acid, or cholestasis interactions — the current query returned zero results but a broader mechanistic search may yield indirect evidence
-- **Prioritize higher-evidence candidates**: The same Evidence Pack identifies **Pneumonia** (rank 3, L2 evidence, 2 clinical trials + 20 publications, "Proceed with Guardrails") and **Bronchitis** (rank 7, L3 evidence, 20 publications, "Proceed with Guardrails") as more immediately viable repurposing targets for Cefoperazone; these should be advanced in parallel
+- Package insert warnings and contraindications from India registration documents, which are currently missing and block safety screening
+- Mechanism of action data
+- For sclerosing cholangitis: any preclinical or clinical signal beyond the model score, before further investment
+- For pneumonia: confirmation of the approved indication text and a stewardship and local-resistance review
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

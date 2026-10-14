@@ -2,7 +2,7 @@
 layout: default
 title: Duloxetine
 parent: High Evidence (L1-L2)
-nav_order: 290
+nav_order: 293
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,35 +29,37 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Duloxetine: From Major Depressive Disorder to Obsessive-Compulsive Disorder
+# Duloxetine: From Depression and Anxiety to Obsessive-Compulsive Disorder
 
 ## One-Sentence Summary
 
-Duloxetine is a serotonin-norepinephrine reuptake inhibitor (SNRI) established for major depressive disorder, generalized anxiety disorder, and several chronic pain conditions. The TxGNN model predicts it may be effective for **Obsessive-Compulsive Disorder (OCD)**, supported by **1 completed Phase 4 clinical trial** and **10+ publications** including a double-blind RCT — making OCD the highest-evidence repurposing target in this analysis. (Note: While benign paroxysmal torticollis of infancy ranks #1 by TxGNN score (99.85%), it carries no clinical trial or literature evidence (L5/Hold); OCD ranks #3 (99.84%) but has the strongest actionable evidence at L2.)
+Duloxetine is a serotonin-norepinephrine reuptake inhibitor (SNRI) originally used for depression, anxiety disorders, fibromyalgia, myofascial pain syndrome and female stress incontinence.
+Although the highest-scoring TxGNN prediction is benign paroxysmal torticollis of infancy, it has no supporting evidence, so this report focuses on the best-supported prediction, **obsessive-compulsive disorder (OCD)**.
+OCD is supported by **3 related clinical trials** and **19 publications**, including one double-blind randomized trial.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Major Depressive Disorder, Generalized Anxiety Disorder, Chronic Pain (diabetic neuropathic pain, fibromyalgia, musculoskeletal pain) |
-| Predicted New Indication | Obsessive-Compulsive Disorder (OCD) |
-| TxGNN Prediction Score | 99.84% |
+|------|------|
+| Original Indication | Unipolar depression, major depressive disorder, anxiety disorder, fibromyalgia, myofascial pain syndrome, female stress incontinence (from the knowledge graph; no approved indication text is available in the India licence records) |
+| Predicted New Indication | Obsessive-compulsive disorder (rank 3 overall; the rank 1 prediction, benign paroxysmal torticollis of infancy, has no evidence and is not pursued) |
+| TxGNN Prediction Score | 99.84% (rank 1 prediction: 99.85%) |
 | Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold (research question only; see Conclusion) |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Duloxetine is a balanced dual-acting SNRI that simultaneously inhibits the serotonin transporter (SERT) and norepinephrine transporter (NET), elevating synaptic concentrations of both 5-HT and norepinephrine across multiple brain circuits. This dual mechanism underlies its regulatory approvals in MDD, GAD, and several pain conditions. Detailed DrugBank MOA data was not retrieved in this analysis and should be supplemented from the DrugBank API.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Duloxetine is known as a serotonin-norepinephrine reuptake inhibitor. Its efficacy in depression and anxiety disorders is established, and serotonergic modulation is the core mechanism of OCD pharmacotherapy.
 
-OCD is neurobiologically characterised by hyperactivity in the orbitofrontal cortex (OFC)–caudate nucleus–thalamus circuit, with serotonin system dysregulation as the primary pharmacological target — precisely the rationale for SSRIs being first-line OCD therapy. Duloxetine's SERT inhibition provides the same 5-HT tone enhancement as SSRIs. Critically, its additional NET inhibition strengthens norepinephrine signalling in the prefrontal cortex, which may improve cognitive inhibition and executive control — offering a mechanistic advantage in SSRI-refractory patients where pure serotonergic agents have failed. PMID 27811556, a double-blind RCT, directly validates this augmentation hypothesis in treatment-resistant OCD.
+OCD is classically treated with SSRIs and clomipramine. Duloxetine's serotonin reuptake inhibition therefore gives a plausible rationale for use in OCD, particularly in patients who do not respond to standard treatment. Reviews, however, suggest SNRIs are less established than SSRIs in OCD.
 
-The mechanistic overlap between duloxetine's approved indications (anxiety and mood disorders) and OCD is substantial. Both domains involve amygdala hyperresponsiveness and serotonin-mediated fear/threat processing. Multiple case series, open-label studies, and at least one double-blind RCT have now documented OCD symptom reduction with duloxetine, placing it among the best-evidenced SNRI repurposing candidates in the psychiatric space.
+Other predictions are weaker. Agoraphobia has only open-label and case-level evidence in panic disorder. The remaining top-ranked predictions (personality disorders, Ohdo syndrome, ligneous conjunctivitis, benign paroxysmal torticollis of infancy) have no clinical or literature evidence and no plausible mechanistic link. They likely reflect graph-based similarity only.
 
 ---
 
@@ -65,77 +67,66 @@ The mechanistic overlap between duloxetine's approved indications (anxiety and m
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00464698](https://clinicaltrials.gov/study/NCT00464698) | Phase 4 | Completed | 20 | Directly assessed duloxetine efficacy in OCD; the most relevant registered trial for this indication |
-| [NCT01404871](https://clinicaltrials.gov/study/NCT01404871) | N/A | Completed | 26 | Investigated medication response predictors in OCD; duloxetine evaluated as an alternative arm alongside clomipramine and escitalopram |
-| [NCT02476136](https://clinicaltrials.gov/study/NCT02476136) | N/A | Unknown | 8,800 | Individual patient data meta-analysis of antidepressant efficacy across anxiety disorders; duloxetine included as a comparator drug |
+| [NCT00464698](https://clinicaltrials.gov/study/NCT00464698) | Phase 4 | Completed | 20 | Duloxetine for OCD; assesses efficacy directly, small and likely open-label |
+| [NCT01404871](https://clinicaltrials.gov/study/NCT01404871) | N/A | Completed | 26 | Predictors of medication response in OCD (clomipramine vs escitalopram; duloxetine for previously treated participants) |
+| [NCT02476136](https://clinicaltrials.gov/study/NCT02476136) | N/A | Unknown | 8800 | Individual patient data meta-analysis of initial severity and antidepressant efficacy in anxiety disorders; indirect context only |
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------|
-| [27811556](https://pubmed.ncbi.nlm.nih.gov/27811556/) | 2016 | Double-blind RCT | J Clin Psychopharmacol | Duloxetine augmentation produced statistically significant OCD symptom improvement in SSRI-resistant patients |
-| [32982805](https://pubmed.ncbi.nlm.nih.gov/32982805/) | 2020 | Meta-review | Front Psychiatry | Evaluated efficacy and tolerability of antidepressants across paediatric psychiatric disorders including OCD; includes duloxetine-class data |
-| [28477500](https://pubmed.ncbi.nlm.nih.gov/28477500/) | 2017 | Meta-analysis | J Affect Disord | Demonstrated OCD has lower antidepressant and placebo response than other anxiety disorders; calibrates expectations for effect sizes |
-| [25637377](https://pubmed.ncbi.nlm.nih.gov/25637377/) | 2015 | Open-label study | Int J Neuropsychopharmacol | Prospective open-label trial of duloxetine in DSM-IV OCD; demonstrated clinically meaningful symptom reduction |
-| [31749717](https://pubmed.ncbi.nlm.nih.gov/31749717/) | 2019 | Systematic Review | Front Psychiatry | Comprehensive systematic review of duloxetine use in psychiatric disorders beyond approved indications, including OCD evidence synthesis |
-| [24766145](https://pubmed.ncbi.nlm.nih.gov/24766145/) | 2014 | Systematic Review | Expert Opin Pharmacother | Updated review of serotonergic antidepressants in OCD; summarises double-blind evidence and confirms 5-HT system centrality |
-| [16669725](https://pubmed.ncbi.nlm.nih.gov/16669725/) | 2006 | Critical Review | J Clin Psychiatry | Critical appraisal of SNRI anti-obsessional properties as SSRI alternatives; discusses venlafaxine and clomipramine data with implications for duloxetine |
-| [39735048](https://pubmed.ncbi.nlm.nih.gov/39735048/) | 2024 | Case Report | Cureus | Supratherapeutic-dose duloxetine combined with CBT achieved sustained remission in a decade-long treatment-resistant OCD case with comorbid MDD |
-| [22567604](https://pubmed.ncbi.nlm.nih.gov/22567604/) | 2012 | Case Report | Innov Clin Neurosci | Suprathreshold duloxetine achieved remission in treatment-resistant OCD with comorbid anorexia and depression; discusses dose-response considerations |
-| [17632660](https://pubmed.ncbi.nlm.nih.gov/17632660/) | 2007 | Case Report | Prim Care Companion J Clin Psychiatry | First reported case of OCD responding specifically to duloxetine after inadequate SSRI response |
+|------|-----|------|------|---------|
+| [27811556](https://pubmed.ncbi.nlm.nih.gov/27811556/) | 2016 | RCT (double-blind) | J Clin Psychopharmacol | Duloxetine augmentation in resistant OCD |
+| [25637377](https://pubmed.ncbi.nlm.nih.gov/25637377/) | 2015 | Open-label trial | Int J Neuropsychopharmacol | Efficacy of duloxetine in OCD (DSM-IV) |
+| [31749717](https://pubmed.ncbi.nlm.nih.gov/31749717/) | 2019 | Systematic review | Front Psychiatry | Duloxetine use in psychiatric disorders beyond major depression and generalized anxiety disorder |
+| [16669725](https://pubmed.ncbi.nlm.nih.gov/16669725/) | 2006 | Review | J Clin Psychiatry | Critical review of SNRIs (venlafaxine, clomipramine) in OCD as an alternative to SSRIs |
+| [24766145](https://pubmed.ncbi.nlm.nih.gov/24766145/) | 2014 | Review | Expert Opin Pharmacother | Review of double-blind studies of serotonergic antidepressants in OCD |
+| [21779536](https://pubmed.ncbi.nlm.nih.gov/21779536/) | 2011 | Review | Innov Clin Neurosci | SNRIs as possible pharmacological alternatives in OCD |
+| [28477500](https://pubmed.ncbi.nlm.nih.gov/28477500/) | 2017 | Meta-analysis | J Affect Disord | OCD shows reduced placebo and antidepressant response compared with other anxiety disorders |
+| [18208931](https://pubmed.ncbi.nlm.nih.gov/18208931/) | 2008 | Case series | J Psychopharmacol | Switching from SRIs to duloxetine in resistant OCD |
+| [39735048](https://pubmed.ncbi.nlm.nih.gov/39735048/) | 2024 | Case report | Cureus | Supratherapeutic duloxetine plus CBT in severe treatment-resistant OCD with depression |
+| [19483491](https://pubmed.ncbi.nlm.nih.gov/19483491/) | 2009 | Case report | Clin Neuropharmacol | High-dose duloxetine with sustained full remission in treatment-resistant OCD |
 
 ---
 
 ## India Market Information
 
-Duloxetine currently has **no registered licenses** in the India dataset provided. The market status is recorded as "Not Marketed" with zero authorizations. This represents a data gap that should be cross-checked against the CDSCO drug registration database, as duloxetine is commercially available in several markets under brand names such as Cymbalta.
+Twenty valid single-ingredient registrations are listed; the approved indication text is not available in the licence records. Main authorizations:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 59906 | Dulox 30mg Tablet (Jpee Healthcare) | Strip of 10 tablets | Not stated |
+| 64661 | Diligo 20 Tablet (Salveo Lifecare) | Strip of 10 tablets | Not stated |
+| 58877 | Duvanta NP 20 Tablet (Intas Pharmaceuticals) | Strip of 10 tablets | Not stated |
+| 63444 | Dulet 30mg Tablet DR (Chemo Healthcare) | Strip of 10 delayed-release tablets | Not stated |
+| 251146 | Zidane 40mg Capsule (Cyril Pharmaceuticals) | Strip of 10 capsules | Not stated |
+
+All products are oral forms (tablets, delayed-release tablets, capsules).
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions (329 total interactions identified):**
+- **Contraindications flagged in the knowledge graph (not label text):** hypertension, orthostatic hypotension, epilepsy, bipolar disorder, liver disease (including cirrhosis, fatty liver, hepatitis), gallbladder disease, hyperglycemia, angle-closure glaucoma, blood coagulation disease, substance abuse/dependence, serotonin syndrome, neuroleptic malignant syndrome, and syndromes of inappropriate antidiuresis.
+- **Drug Interactions:** 329 interactions were identified. Major-level examples include bupropion, lorcaserin, diethylpropion, dolasetron and dexfenfluramine. Moderate-level examples include epinephrine, morphine, acetylsalicylic acid and cimetidine. Several acid suppressants (famotidine, ranitidine, rabeprazole) are minor.
 
-Major interactions requiring avoidance or close monitoring:
-
-| Severity | Interacting Drug | Clinical Concern |
-|---------|-----------------|-----------------|
-| **Major** | Bupropion | Combined serotonergic/noradrenergic load; seizure and serotonin syndrome risk |
-| **Major** | Lorcaserin | Serotonin syndrome risk (5-HT2C agonism + SNRI) |
-| **Major** | Diethylpropion | CNS stimulant interaction; cardiovascular and serotonergic risk |
-| **Major** | Dolasetron | QTc prolongation and serotonin syndrome risk |
-| **Major** | Dexfenfluramine | Serotonin syndrome (historical agent; avoid combination) |
-| **Moderate** | Epinephrine | Enhanced cardiovascular effects due to NE reuptake inhibition |
-| **Moderate** | Morphine | Additive CNS depression; possible serotonin syndrome |
-| **Moderate** | Acetylsalicylic acid | Increased bleeding risk (platelet 5-HT depletion + antiplatelet effect) |
-| **Moderate** | Cimetidine | CYP1A2/CYP2D6 inhibition may increase duloxetine plasma levels |
-| **Minor** | Famotidine, Ranitidine, Rabeprazole | Gastric pH changes with minimal clinical impact |
-
-Please refer to the official prescribing information for complete warnings and contraindications — these were not retrieved in this analysis and represent a blocking data gap (DG001).
+Package insert warnings and contraindications could not be retrieved; please refer to the package insert for full safety information.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-A completed Phase 4 clinical trial directly evaluating duloxetine in OCD, combined with a double-blind RCT demonstrating efficacy in treatment-resistant OCD augmentation, provides sufficient clinical evidence to justify moving beyond a pure research stage. The serotonergic mechanism is well-founded, and convergent evidence from open-label studies, case series, and systematic reviews corroborates the signal.
+OCD has the strongest support among the predictions, with one small double-blind randomized trial, an open-label study and a Phase 4 trial, but all are small and no completed Phase 3 trials exist. Reviews place SNRIs behind SSRIs in OCD. The remaining predictions, including the highest-scoring one, have little or no evidence. The product label safety review is also incomplete, so this should be treated as a research question rather than a development decision.
 
 **To proceed, the following is needed:**
-- Retrieve official prescribing information (warnings and contraindications) from CDSCO or international sources (DG001 — currently Blocking)
-- Retrieve detailed MOA data from DrugBank API to support mechanistic analysis (DG002 — currently High severity)
-- Confirm actual duloxetine registration status in India via CDSCO database (market_status may be underreported in this dataset)
-- Conduct a larger, adequately powered RCT specifically targeting OCD as the primary endpoint (current Phase 4 trial: N=20, which limits statistical conclusions)
-- Develop a safety monitoring plan addressing the 329 known drug interactions — particularly serotonin syndrome risk with co-prescribed serotonergic or stimulant agents
-- Consult a clinical psychiatrist specialising in OCD for dosing strategy (supratherapeutic doses may be required per case evidence)
-- Ensure all published content includes YMYL disclaimer: *"Results are for research reference only and do not constitute medical advice. Drug repurposing candidates require clinical validation before application."*
-
----
-
-> **Disclaimer:** This report is generated for research reference purposes only and does not constitute medical advice. All drug repurposing predictions require independent clinical validation prior to any application.
+- Package insert warnings and contraindications from the India regulatory source (currently a blocking gap)
+- Detailed mechanism of action data
+- Larger, well-powered randomized trials of duloxetine in OCD, ideally against an SSRI
+- A safety plan covering serotonin syndrome risk, the major drug interactions, and the comorbid conditions flagged above (bipolar disorder, liver disease, hypertension)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

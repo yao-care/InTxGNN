@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Finasteride
-parent: Model Prediction Only (L5)
-nav_order: 351
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 354
+evidence_level: L4
 indication_count: 6
 ---
 
 # Finasteride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,73 +29,83 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Finasteride: From Androgenetic Alopecia to Hypertrichosis
+# Finasteride: From Benign Prostatic Hyperplasia to Hypertrichosis
 
 ## One-Sentence Summary
 
-Finasteride is a 5α-reductase inhibitor established for androgen-dependent hair loss (androgenetic alopecia) and benign prostatic hyperplasia. The TxGNN model predicts a possible role in **Hypertrichosis**, with **1 loosely related clinical trial** and **4 review articles** currently available — but the evidence is preclinical/mechanism-level rather than direct RCT support, and the drug is not currently marketed in India.
-
-*Note: TxGNN's top-ranked candidate (Ambras type hypertrichosis, score 99.99%) was excluded from this report — it has zero supporting trials or literature, and the evidence pack itself flags it as likely knowledge-graph noise (a congenital, non-androgen-dependent condition with no mechanistic link to 5α-reductase inhibition). Hypertrichosis (disease) at rank 2 is the only candidate with any supporting evidence and is used here instead.*
+Finasteride is a 5-alpha-reductase inhibitor originally used to treat benign prostatic hyperplasia (BPH).
+The TxGNN model predicts it may be effective for **hypertrichosis**, but there are currently **0 registered clinical trials** and only **4 publications**, all of which are narrative reviews or a methods paper rather than direct efficacy evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Androgenetic alopecia (male pattern hair loss) — per literature evidence in this pack; no India-approved indication text is available since the drug is not marketed in India |
+| Original Indication | Benign prostatic hyperplasia |
 | Predicted New Indication | Hypertrichosis (disease) |
-| TxGNN Prediction Score | 99.99% (0.99993) |
-| Evidence Level | L4 (mechanism/preclinical + off-label clinical experience, no dedicated RCT) |
-| India Market Status | Not marketed (Not Marketed) |
-| Number of Registrations | 0 |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
+
+*Note: The top-ranked prediction by TxGNN score is Ambras type hypertrichosis universalis congenita (99.99%), but it has no trials or literature (L5). Hypertrichosis is presented here because it is the highest-ranked prediction with any supporting literature.*
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in structured form (flagged as a High-severity data gap). Based on known pharmacology, finasteride is a type 1/2 5α-reductase inhibitor that blocks conversion of testosterone to dihydrotestosterone (DHT), the mechanism underlying its efficacy in androgen-dependent hair loss.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, finasteride inhibits type II (and III) 5-alpha-reductase, which blocks the conversion of testosterone to dihydrotestosterone (DHT). This is the basis for its use in BPH, and it is also widely used for male pattern hair loss.
 
-Hypertrichosis is a broad, heterogeneous category. Its androgen-dependent subtype — hirsutism — shares the same DHT pathway that finasteride already modulates, and off-label clinical experience using finasteride in women with hirsutism has been documented in the literature retrieved here. This gives a plausible, if indirect, mechanistic rationale: lowering DHT could theoretically dampen androgen-driven excess hair growth, the inverse effect of what finasteride achieves on the scalp in androgenetic alopecia.
+The mechanistic fit with hypertrichosis is only partial. Hypertrichosis is, by definition, excess hair growth in non-androgen-dependent areas, whereas finasteride acts on androgen-dependent tissue. Any prediction signal may partly reflect overlap with hirsutism (androgen-dependent excess hair growth), which is a different condition. The relationship between the original and new indication is therefore thematic (hair biology and androgen signalling) rather than directly mechanistic.
 
-However, hypertrichosis as a whole also includes non-androgen-dependent forms (congenital, drug-induced, metabolic, paraneoplastic), where this mechanism does not apply. None of the retrieved literature or trials directly studied finasteride in a hypertrichosis/hirsutism population — the connection is inferred from review-level commentary, not tested outcomes.
+Other predictions are even weaker. For Ambras syndrome (a congenital condition linked to TRPS1 regulation), dental/periodontal malformation syndromes, Dandy-Walker-related syndromes, isolated hair shaft abnormalities and familial trichomegaly, no plausible DHT-mediated mechanism was identified. They appear to be computational artefacts of the knowledge graph. For Dandy-Walker-related syndromes, finasteride's concern for male fetal development also makes use unattractive.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04293822](https://clinicaltrials.gov/study/NCT04293822) | Phase 4 | Unknown | 60 | Compares topical cetirizine gel vs. minoxidil 5% gel for androgenetic alopecia (hair loss, not hypertrichosis). Does not test finasteride. Retrieved only via topical proximity in the hair-disease knowledge graph (relevance grade C); not direct supporting evidence. |
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [12942187](https://pubmed.ncbi.nlm.nih.gov/12942187/) | 2003 | Review | Der Hautarzt | Notes finasteride's established role in male pattern hair loss alongside laser hair removal for hypertrichosis/hirsutism, without testing finasteride for the latter. |
-| [12223963](https://pubmed.ncbi.nlm.nih.gov/12223963/) | 2002 | Review | Annales de dermatologie et de venereologie | Distinguishes hypertrichosis (non-androgen-dependent) from hirsutism (androgen-dependent); lists iatrogenic, metabolic, and paraneoplastic causes of hypertrichosis. |
-| [10330884](https://pubmed.ncbi.nlm.nih.gov/10330884/) | 1999 | Review | Therapeutische Umschau | Reviews oral treatment options, including antiandrogens, for androgenetic alopecia and hirsutism. |
-| [12444520](https://pubmed.ncbi.nlm.nih.gov/12444520/) | 2002 | Review | Der Hautarzt | Describes TrichoScan, a digital hair-analysis tool for monitoring hair loss/growth treatment response; general methodology, not disease-specific efficacy data. |
+| [12223963](https://pubmed.ncbi.nlm.nih.gov/12223963/) | 2002 | Review | Annales de dermatologie et de venereologie | Hypertrichosis occurs in non-androgen-dependent areas, unlike hirsutism; adult causes are mostly drug-induced, metabolic, nutritional or paraneoplastic |
+| [10330884](https://pubmed.ncbi.nlm.nih.gov/10330884/) | 1999 | Review | Therapeutische Umschau | Overview of new treatments for androgenetic alopecia and hirsutism, including oral therapy for male pattern hair loss |
+| [12942187](https://pubmed.ncbi.nlm.nih.gov/12942187/) | 2003 | Review | Der Hautarzt | Finasteride for male pattern hair loss and laser-assisted hair removal for hypertrichosis and hirsutism |
+| [12444520](https://pubmed.ncbi.nlm.nih.gov/12444520/) | 2002 | Methods/Instrument | Der Hautarzt | TrichoScan digital hair analysis tool for measuring hair density, diameter and growth |
+
+None of these publications directly demonstrates finasteride efficacy in hypertrichosis.
 
 ## India Market Information
 
-Finasteride is currently **not marketed in India** (0 registrations on file), so no license or approved-indication data is available for this evidence pack.
+Finasteride has 20 valid single-ingredient registrations in India, all oral tablets. Approved indication text is not available for these registrations. The main ones are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 84119 | Finast Tablet (Dr Reddy's Laboratories Ltd) | Strip of 30 tablets | Not specified |
+| 85730 | Finabald 5mg Tablet (East West Pharma) | Strip of 10 tablets | Not specified |
+| 87493 | Fistide 5mg Tablet (Samarth Life Sciences Pvt Ltd) | Strip of 10 tablets | Not specified |
+| 86672 | Feelal 1mg Tablet (Synnove Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not specified |
+| 88910 | Findil 1mg Tablet (Daksh Pharma Pvt Ltd) | Strip of 10 tablets | Not specified |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 321 potential interactions identified via the DDInter database; severity levels are not classified in the source data ("Unknown"). Representative interacting drugs include Calcitriol, Doxycycline, Clotrimazole, Dolasetron, Dicyclomine, Chlorhexidine, Famotidine, Acetylsalicylic acid, Amoxicillin, Bupropion, Pantoprazole, Glimepiride, Mesalazine, Acarbose, Morphine, Metformin, Omeprazole, Sucralfate, Palonosetron, and Rosiglitazone.
+- **Contraindications (knowledge-graph based, not label text)**: Liver disease and gallbladder disease.
+- **Drug Interactions**: 321 potential interactions were identified, but the severity level is unclassified for all of those retrieved. Examples include calcitriol, doxycycline, clotrimazole, famotidine, acetylsalicylic acid, bupropion, omeprazole, metformin and morphine.
+- **Other considerations**: Finasteride raises a teratogenicity concern for male fetal development.
 
-Official warnings and contraindications (e.g., from a local product label) are not available in this evidence pack.
+Please refer to the package insert for full warnings, as label text was not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale (DHT suppression) plausibly applies only to the androgen-dependent subset (hirsutism) of the broader hypertrichosis category, and no clinical trial or study directly tests finasteride in this population — evidence is L4 (mechanism/review-level only). The drug is also unmarketed in India, and safety-critical data (label warnings, contraindications) is a Blocking-severity gap that prevents a proper S1 safety evaluation.
+The TxGNN score is very high, but there are no clinical trials, and the only literature consists of narrative reviews and a methods paper. Hypertrichosis is by definition androgen-independent, so the mechanistic fit is weak. Evidence is indirect (L4 at best, L5 for all other predictions).
 
 **To proceed, the following is needed:**
-- Official product label / warnings and contraindications data (currently blocking safety review)
-- Confirmed mechanism of action documentation (currently a data gap)
-- Narrow the target population from "hypertrichosis" to specifically androgen-dependent hirsutism, where the mechanistic link is strongest
-- A dedicated clinical study (even small/observational) testing finasteride in hirsutism, since current literature is review-level only
-- DDI severity classification, since all 321 interactions are currently listed as "Unknown" level
-- Regulatory pathway assessment given the drug is not currently marketed in India
+- Mechanism of action data confirmed from DrugBank
+- Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)
+- Direct clinical evidence of finasteride in hypertrichosis, separate from hirsutism, such as case series or controlled studies
+- Severity classification for the drug interactions
+- Evaluation of whether hirsutism would be a more suitable target indication than hypertrichosis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Zonisamide
-parent: High Evidence (L1-L2)
-nav_order: 903
-evidence_level: L1
+parent: Model Prediction Only (L5)
+nav_order: 912
+evidence_level: L5
 indication_count: 10
 ---
 
 # Zonisamide
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,94 +29,110 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-Using no additional skills — this is a direct content-generation task per an explicit, fully-specified prompt template; no coding/debugging/brainstorming skill applies.
-
-Note before the report: the Evidence Pack contains **10 candidate indications** for zonisamide, not one. The literal `predicted_indications[0]` (Tourette syndrome) has TxGNN score 99.85% but **zero clinical trials, zero literature, evidence level L5, recommendation Hold** — it is a pure embedding artifact. The same is true for trichotillomania, Prinzmetal angina, and conjunctivitis. Two other top-ranked "predictions" (methemoglobinemia / methemoglobinemia alpha type / reductase deficiency) are flagged in the data itself as likely **inverse safety signals** (zonisamide is a known sulfonamide trigger of methemoglobinemia, not a treatment for it) — reporting these as "repurposing opportunities" would be misleading.
-
-The only candidate with real evidentiary weight (L1, two completed Phase 3 RCTs, decision stage S3) is **absence epilepsy**. As the person responsible for this report, I am building it around that candidate rather than the raw top TxGNN score, and flagging the rest below.
-
----
-
-# Zonisamide: From Partial Epilepsy to Absence Epilepsy
+# Zonisamide: From Epilepsy to Tourette Syndrome
 
 ## One-Sentence Summary
 
-> Zonisamide is a sulfonamide-derivative anticonvulsant established as monotherapy for newly diagnosed partial (focal) epilepsy.
-> Among 10 TxGNN-predicted indications for this drug, the strongest-evidenced signal is **Absence Epilepsy**,
-> supported by **4 clinical trials (2 completed Phase 3 RCTs)** and **20 publications**, including seizure-type-specific case series.
-> Note: the drug's raw #1 TxGNN score (Tourette syndrome) and two other top-ranked hits (methemoglobinemia) carry no supporting evidence or are likely safety-direction artifacts — see Conclusion.
+Zonisamide is an anticonvulsant (antiseizure) drug that is marketed in India in capsule and tablet forms.
+The TxGNN model predicts it may be effective for **Tourette syndrome**, but this is a model prediction only, with **no clinical trials** and **no publications** currently supporting it.
+Among the other top-ranked predictions, **absence epilepsy** has the most supporting literature, although it is closer to an extension of the existing epilepsy use than a true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in formal India regulatory data (data gap); per literature in this pack, zonisamide is an established antiepileptic for partial/focal seizures |
-| Predicted New Indication | Absence Epilepsy |
-| TxGNN Prediction Score | 99.24% |
-| Evidence Level | L1 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Not stated in the Indian license records compiled for this report (zonisamide is a known antiseizure medication) |
+| Predicted New Indication | Tourette syndrome |
+| TxGNN Prediction Score | 99.85% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 13 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, a formal DrugBank mechanism-of-action record is not available (data gap DG002). However, the literature reviewed in this evidence pack consistently describes zonisamide as a broad-spectrum antiepileptic that blocks voltage-gated Na⁺ channels and **T-type Ca²⁺ channels**, and modulates glutamate/GABA release. T-type Ca²⁺ channel blockade is specifically relevant to absence seizures, which arise from abnormal thalamocortical oscillatory circuits — this is the same target class exploited by first-line absence therapies (ethosuximide, valproate).
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, zonisamide is an antiseizure drug that is thought to block voltage-gated sodium channels and T-type calcium channels and to modulate dopaminergic and serotonergic transmission. Its efficacy in epilepsy is established, and these effects could plausibly relate to the circuits involved in tics.
 
-Because zonisamide's core approved use is anticonvulsant therapy, the relationship between the original and predicted indications is not a cross-disease repurposing leap — it is a **within-epilepsy extension** from partial seizures to a different seizure type (absence seizures) that shares the same class of drug target. Case series literature already report use in refractory juvenile absence epilepsy and juvenile myoclonic epilepsy, giving this prediction a mechanistic and empirical basis stronger than a typical de novo repurposing hypothesis.
+The prediction should be read with caution. A pragmatic review (PMID 36005856) reports that antiseizure medications can induce obsessive-compulsive and tic disorders, which points to a possible safety concern rather than support for benefit in Tourette syndrome. The TxGNN score is high, but no trial or publication directly supports this indication.
 
-By contrast, the mechanistic rationale offered for Tourette syndrome, trichotillomania, and Prinzmetal angina in this pack is explicitly labeled as speculative cross-system extrapolation with no direct supporting studies, and the methemoglobinemia-related predictions are noted as likely representing a known **adverse-effect direction** (sulfonamide-induced methemoglobinemia) rather than a treatment indication.
+Other predictions in the top 10 differ in strength:
+- **Absence epilepsy (score 99.24%, Evidence Level L3):** The most credible of the group. T-type calcium channel blockade is the same mechanism that underlies absence seizures and the action of ethosuximide. Evidence consists of small uncontrolled or retrospective studies. Because zonisamide is already used in epilepsy, this is a niche or adjunctive use rather than new repurposing.
+- **Manic bipolar affective disorder (score 99.35%, Evidence Level L4):** The evidence is mixed. An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania.
+- **Fibromyalgia (score 99.20%, Evidence Level L5):** The only trial was withdrawn with zero enrollment.
+- **Trichotillomania, Prinzmetal angina, conjunctivitis:** Prediction only, with speculative or implausible mechanistic links.
+- **Methemoglobinemia (including alpha type) and methemoglobin reductase deficiency:** No plausible mechanism. These scores probably reflect shared graph neighbours, and sulfonamides are more often linked to hematologic risk than benefit.
 
 ## Clinical Trial Evidence
 
+Currently no related clinical trials are registered for Tourette syndrome.
+
+For reference, the only trial found among the top 10 predictions concerns fibromyalgia:
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00477295](https://clinicaltrials.gov/study/NCT00477295) | Phase 3 | Completed | 583 | Multicentre RCT comparing zonisamide vs. carbamazepine monotherapy in newly diagnosed partial epilepsy; direct efficacy/safety evidence for zonisamide (Grade A) |
-| [NCT00848549](https://clinicaltrials.gov/study/NCT00848549) | Phase 3 | Completed | 295 | Double-blind extension study assessing long-term safety and efficacy durability of zonisamide monotherapy in newly diagnosed partial seizures (Grade A) |
-| [NCT07443241](https://clinicaltrials.gov/study/NCT07443241) | N/A | Completed | 779 | Retrospective study of sex-specific differences in status epilepticus; not a zonisamide intervention trial (Grade C, low relevance) |
-| [NCT04939675](https://clinicaltrials.gov/study/NCT04939675) | N/A | Unknown | 40 | Feasibility study for an epilepsy screening questionnaire; not a drug efficacy trial (Grade C, low relevance) |
+| [NCT00259636](https://clinicaltrials.gov/study/NCT00259636) | Phase 4 | Withdrawn | 0 | Zonisamide vs placebo in patients with fibromyalgia and migraine; withdrawn with no participants, so no efficacy or safety data |
 
 ## Literature Evidence
 
+Currently no related literature is available for Tourette syndrome.
+
+The most relevant publications found for related predictions are listed below.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15847848](https://pubmed.ncbi.nlm.nih.gov/15847848/) | 2005 | Review | Epilepsy Research | Chart review of 45 patients ≤18y with absence seizures: 51.1% became seizure-free on zonisamide, supporting efficacy specifically in absence seizures |
-| [24907183](https://pubmed.ncbi.nlm.nih.gov/24907183/) | 2014 | Cohort | Epilepsy Research | Zonisamide effective in drug-resistant juvenile absence epilepsy (JAE) |
-| [15634623](https://pubmed.ncbi.nlm.nih.gov/15634623/) | 2004 | Cohort | Epileptic Disorders | Retrospective review of 15 juvenile myoclonic epilepsy patients (including absence seizures) treated with zonisamide |
-| [34941639](https://pubmed.ncbi.nlm.nih.gov/34941639/) | 2021 | Review | Pediatric Reports | Review of therapeutic options for childhood absence epilepsy, including newer AEDs |
-| [34289757](https://pubmed.ncbi.nlm.nih.gov/34289757/) | 2021 | Review | Expert Rev Clin Pharmacol | Therapeutic approach to difficult-to-treat typical absence seizures across idiopathic generalized epilepsies |
-| [35363878](https://pubmed.ncbi.nlm.nih.gov/35363878/) | 2022 | Review (Cochrane) | Cochrane Database Syst Rev | Network meta-analysis of AED monotherapy for epilepsy including zonisamide, individual participant data |
-| [23350722](https://pubmed.ncbi.nlm.nih.gov/23350722/) | 2013 | Review | Epilepsia | Updated ILAE evidence review of AED efficacy/effectiveness as initial monotherapy across seizure types and syndromes |
-| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Review (AAN/AES Guideline) | Neurology | Practice guideline update on efficacy/tolerability of newer AEDs for treatment of new-onset epilepsy |
-| [16341290](https://pubmed.ncbi.nlm.nih.gov/16341290/) | 2005 | Review | Drugs of Today | Review of zonisamide's use in epilepsy therapy, including efficacy in absence seizures among other seizure types |
-| [15832611](https://pubmed.ncbi.nlm.nih.gov/15832611/) | 2005 | Cohort | Journal of Child Neurology | Retrospective chart review of 68 children treated with zonisamide monotherapy/adjunctive therapy across seizure types |
+| [36005856](https://pubmed.ncbi.nlm.nih.gov/36005856/) | 2022 | Review | Expert Rev Neurother | Antiseizure medication-induced obsessive-compulsive and tic disorders; a possible safety concern for the Tourette prediction |
+| [35363878](https://pubmed.ncbi.nlm.nih.gov/35363878/) | 2022 | Network meta-analysis | Cochrane Database Syst Rev | Antiepileptic drug monotherapy for epilepsy (general, not zonisamide-specific) |
+| [23350722](https://pubmed.ncbi.nlm.nih.gov/23350722/) | 2013 | Evidence review (ILAE) | Epilepsia | Efficacy of antiepileptic drugs as initial monotherapy for epileptic seizures and syndromes |
+| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Practice guideline | Neurology | AAN/AES guideline update on new antiepileptic drugs in new-onset epilepsy |
+| [15847848](https://pubmed.ncbi.nlm.nih.gov/15847848/) | 2005 | Chart review | Epilepsy Res | In 45 patients aged 18 or under with absence seizures, 51.1% became seizure-free on zonisamide |
+| [24907183](https://pubmed.ncbi.nlm.nih.gov/24907183/) | 2014 | Case series | Epilepsy Res | Zonisamide in drug-resistant juvenile absence epilepsy |
+| [15634623](https://pubmed.ncbi.nlm.nih.gov/15634623/) | 2004 | Retrospective study | Epileptic Disord | Efficacy and tolerability of zonisamide in 15 patients with juvenile myoclonic epilepsy |
+| [17163811](https://pubmed.ncbi.nlm.nih.gov/17163811/) | 2007 | Clinical study (open-label pilot) | Expert Opin Pharmacother | Zonisamide for bipolar depression, evaluating effectiveness, tolerability and switch to mania |
+| [2109869](https://pubmed.ncbi.nlm.nih.gov/2109869/) | 1990 | Case report | Psychosomatics | Zonisamide-induced mania |
+| [22575611](https://pubmed.ncbi.nlm.nih.gov/22575611/) | 2013 | Systematic review | Int J Neuropsychopharmacol | Anticonvulsants in acute bipolar depression (RCT-based review) |
 
 ## India Market Information
 
-Zonisamide currently holds **no marketing authorization in India** (0 registrations, market status: Not Marketed). No license records are available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 10380 | Asmide 100mg Capsule (Asterisk Laboratories) | Strip of 10 capsules | Not stated in the records |
+| 248467 | Zonit 100mg Capsule (Torrent) | Strip of 10 capsules | Not stated in the records |
+| 246646 | Zonegran Tablet (Eisai) | Strip of 10 tablets | Not stated in the records |
+| 246678 | Zonisep 100 Capsule (Sun Pharma) | Strip of 10 capsules | Not stated in the records |
+| 247095 | Zonimid 100 Capsule (Intas) | Strip of 10 capsules | Not stated in the records |
+
+There are 13 valid single-ingredient registrations in total, in oral capsule and tablet forms.
 
 ## Safety Considerations
 
-**Drug Interactions**: The DDI query returned 154 total interactions. Notable **Major**-level interactions include a cluster of anticholinergic agents — Methscopolamine, Hyoscyamine, Atropine, Scopolamine, Glycopyrronium, Clidinium, Dicyclomine, Trospium, Mepenzolate, and Propantheline — as well as **Metformin**. Notable **Moderate**-level interactions include Aprepitant, Morphine, Dexamethasone, Cimetidine, Clarithromycin, Dronabinol, Nabilone, Metoclopramide, and Miconazole.
+- **Contraindications flagged in the drug-disease knowledge graph (not label text):** The graph links zonisamide to a number of conditions, including:
+  - Psychiatric: anxiety disorder, psychotic disorder, schizoaffective disorder, dysthymic disorder
+  - Kidney and liver: kidney disease, nephrolithiasis, liver disease, gallbladder disease
+  - Metabolic: metabolic acidosis
+  - Hematologic: agranulocytosis and neutropenia (including several congenital forms)
+- **Psychiatric and neurological signals in the literature:** A report of zonisamide-induced mania (PMID 2109869) and a review of antiseizure medication-induced obsessive-compulsive and tic disorders (PMID 36005856).
+- **Sulfonamide class:** Zonisamide is a sulfonamide, which is generally associated with hematologic and oxidative risk. This is relevant to the methemoglobinemia predictions.
+- **Drug Interactions:** 154 interactions were recorded. Major-level interactions include:
+  - Anticholinergics: atropine, scopolamine, hyoscyamine, methscopolamine, glycopyrronium, dicyclomine, clidinium, trospium, mepenzolate, propantheline
+  - Metformin
+  
+  Moderate-level interactions include aprepitant, morphine, dexamethasone, cimetidine, clarithromycin, dronabinol, nabilone, metoclopramide and miconazole.
 
-(Key warnings and contraindications from the formal India label are not yet available in this evidence pack — see Next Steps.)
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails** (for Absence Epilepsy specifically)
+**Decision: Hold**
 
 **Rationale:**
-Two completed Phase 3 trials plus a decade-plus body of cohort/case-series literature on zonisamide across absence, juvenile myoclonic, and generalized epilepsy syndromes provide L1-level support for this indication, and the mechanism (T-type Ca²⁺ channel blockade) is directly relevant to absence-seizure pathophysiology. This is best framed as a seizure-type label extension rather than a novel disease repurposing.
+The Tourette syndrome prediction rests on the model score alone, with no trials or publications, and the only related literature raises a possible tic-inducing concern. Zonisamide's safety profile also includes psychiatric and hematologic signals that need careful assessment before any new use is pursued.
 
 **To proceed, the following is needed:**
-- Official India-approved package insert / label (warnings, contraindications) — currently a **blocking** data gap (DG001), required before any safety pre-screen (S1)
-- Formal DrugBank-sourced mechanism-of-action record (DG002)
-- A market-entry pathway assessment, since zonisamide has zero existing India registrations
-- Confirmation of anticholinergic and metformin co-prescription risk in the target absence-epilepsy population, given the Major-level DDIs identified
-
-**Other candidates in this evidence pack, for the record:**
-- **Manic/Bipolar Affective Disorder** (L2, Research Question) — one RCT positive (PMID 22506436) but contradicted by case reports of zonisamide-induced mania/psychosis; mechanistically plausible but directionally inconsistent, needs further review before any decision.
-- **Fibromyalgia**, **Tourette syndrome**, **trichotillomania**, **Prinzmetal angina**, **conjunctivitis** — all Hold, L4/L5, no or withdrawn trial support.
-- **Methemoglobinemia / methemoglobinemia alpha type / methemoglobin reductase deficiency** — these should **not** be treated as repurposing candidates; they most likely reflect the knowledge graph capturing a known adverse-effect relationship (sulfonamide-induced methemoglobinemia) in the wrong direction. Recommend routing these to safety/pharmacovigilance review rather than the repurposing pipeline.
+- Package insert warnings and contraindications from the Indian regulator or manufacturers
+- Detailed mechanism of action data (for example, from DrugBank)
+- Approved indication text for the Indian licenses, to confirm the original indication
+- Preclinical or clinical evidence specific to Tourette syndrome, with a focus on tic-related safety
+- If a more evidence-supported direction is wanted, a separate assessment of **absence epilepsy** (Evidence Level L3), recognizing that it is largely an extension of the existing epilepsy use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

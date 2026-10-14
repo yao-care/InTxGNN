@@ -2,7 +2,7 @@
 layout: default
 title: Natalizumab
 parent: Model Prediction Only (L5)
-nav_order: 576
+nav_order: 581
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,37 +29,47 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Natalizumab: From Multiple Sclerosis to Bronchitis
+# Natalizumab: From Crohn's Disease and Multiple Sclerosis to Bronchitis
 
 ## One-Sentence Summary
 
-Natalizumab (Tysabri) is a monoclonal antibody that blocks α4-integrin, approved internationally for relapsing-remitting multiple sclerosis and Crohn's disease.
-The TxGNN model predicts it may be effective for **Bronchitis**, however currently **0 clinical trials** and **0 publications** directly support this specific indication.
-With evidence level L5, this prediction is based solely on computational modelling and requires substantial further investigation before any clinical consideration.
+Natalizumab is a monoclonal antibody originally used to treat Crohn's disease, inflammatory bowel disease and multiple sclerosis.
+The TxGNN model predicts it may be effective for **bronchitis**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** currently supporting it.
+Several other predicted indications (for example psoriasis) have some literature, but it is mostly case reports and shows signals of harm as well as benefit.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Multiple Sclerosis (Relapsing-Remitting) / Crohn's Disease |
+|------|------|
+| Original Indication | Crohn's disease, inflammatory bowel disease, Crohn's colitis, multiple sclerosis (the India license record has no approved indication text) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.46% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the provided dataset. Based on the repurposing rationale embedded in the evidence pack, Natalizumab blocks α4β1 and α4β7 integrins — the same receptors responsible for directing immune cells (eosinophils and lymphocytes) toward mucosal tissues. In theory, blocking this trafficking pathway could reduce inflammatory cell infiltration into the bronchial mucosa, offering an indirect anti-inflammatory effect in eosinophilic subtypes of bronchitis.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. From general knowledge, natalizumab blocks alpha-4 integrin and limits the movement of white blood cells into inflamed tissue. This is how it helps in multiple sclerosis and Crohn's disease.
 
-However, the mechanistic link is considered biologically weak for this indication. Bronchitis encompasses a highly heterogeneous group of conditions — ranging from infectious (bacterial, viral) to purely inflammatory origins — and α4-integrin is not recognised as a core pathogenic driver in any of these subtypes. The anti-adhesion mechanism that works well in CNS-directed neuroinflammation (MS) and gut-directed inflammation (Crohn's) does not translate clearly to the bronchial epithelium.
+A theoretical link to airway inflammation exists, because excessive leukocyte infiltration is a feature of inflammatory lung conditions. However, no clinical or published evidence supports using natalizumab for bronchitis. The high TxGNN score is a model output only.
 
-As a result, this prediction likely reflects structural or co-occurrence patterns within the TxGNN knowledge graph rather than a validated therapeutic signal. The absence of any supporting clinical trial or published literature reinforces that this remains a computational hypothesis only.
+The safety profile also works against this use. Natalizumab carries a risk of serious infections, including progressive multifocal leukoencephalopathy (PML) and opportunistic infections. Using it for an infection-related or inflammatory airway condition is therefore unfavorable.
+
+### Other Predicted Indications Reviewed
+
+| Predicted Indication | TxGNN Score | Evidence Level | Assessment |
+|------|------|------|------|
+| Bronchitis | 99.46% | L5 | No trials or literature; theoretical link only |
+| Parapsoriasis | 99.37% | L4 | Only one case report, describing an adverse event, not a benefit |
+| Psoriasis | 99.19% | L4 | Conflicting case reports; one small series reports improvement, others report induced or worsened psoriasis |
+| Severe nonproliferative diabetic retinopathy | 99.18% | L5 | No trials or literature; theoretical link only |
+| Acute lichenoid pityriasis | 99.04% | L4 | Only one case report, describing an adverse event, not a benefit |
 
 ---
 
@@ -71,45 +81,44 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+For the top-ranked prediction (bronchitis), currently no related literature is available.
+
+For comparison, the most relevant publications for the third-ranked prediction (psoriasis) are shown below. None is a randomized trial.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [33589543](https://pubmed.ncbi.nlm.nih.gov/33589543/) | 2021 | Observational / case series | Neurology(R) Neuroimmunology & Neuroinflammation | 18 MS patients with comorbid psoriasis treated with natalizumab; psoriasis improvement was reported |
+| [30323758](https://pubmed.ncbi.nlm.nih.gov/30323758/) | 2018 | Case study with review | Case Reports in Neurology | Plaque psoriasis developed during natalizumab treatment; evidence of induction or aggravation is limited to case reports |
+| [28905124](https://pubmed.ncbi.nlm.nih.gov/28905124/) | 2018 | Case report with review | Neurological Sciences | Arthritic psoriasis during natalizumab treatment |
+| [35646438](https://pubmed.ncbi.nlm.nih.gov/35646438/) | 2022 | Case report | Dermatology Practical & Conceptual | Natalizumab-induced pustular psoriasis of palms and soles |
+| [28765121](https://pubmed.ncbi.nlm.nih.gov/28765121/) | 2018 | Review | Annals of the Rheumatic Diseases | Novel therapies in immune-mediated inflammatory diseases, including psoriasis and Crohn's disease |
+| [40526577](https://pubmed.ncbi.nlm.nih.gov/40526577/) | 2025 | Review | Deutsches Ärzteblatt International | Treatment options when MS occurs together with psoriasis, rheumatoid arthritis or inflammatory bowel disease |
+| [25448040](https://pubmed.ncbi.nlm.nih.gov/25448040/) | 2015 | Review | Pharmacology & Therapeutics | Role of leukocyte integrins in leukocyte recruitment and as therapeutic targets in inflammatory disease |
+| [18345706](https://pubmed.ncbi.nlm.nih.gov/18345706/) | 2008 | Review | BioDrugs | Cell adhesion antagonists and their therapeutic potential in asthma and COPD |
+| [19647202](https://pubmed.ncbi.nlm.nih.gov/19647202/) | 2009 | Review | The Lancet Oncology | PML associated with rituximab, natalizumab and efalizumab |
+| [20298966](https://pubmed.ncbi.nlm.nih.gov/20298966/) | 2010 | Review | The Lancet Neurology | Clinical features and pathogenesis of JC virus disorders, including PML linked to natalizumab |
 
 ---
 
 ## India Market Information
 
-Natalizumab is currently not marketed in India. No product authorizations are on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 217331 | Tysabri 300mg Injection (Biogen Idec Biotech India Pvt Ltd) | Vial of 15 ml injection | Not stated in the available record |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions (273 total interactions on record):**
+- **Contraindications (from knowledge-graph disease associations, not label text)**: progressive multifocal leukoencephalopathy (PML).
+- **Drug Interactions**: 273 interactions were recorded. Major-level interactions include:
+  - Corticosteroids: hydrocortisone, prednisolone, prednisone, dexamethasone, betamethasone, budesonide, triamcinolone
+  - Other immunosuppressive or cytotoxic agents: mercaptopurine, trimetrexate, levamisole
+  - Radiopharmaceuticals and radioimmunotherapies: ibritumomab tiuxetan, tositumomab, iobenguane (I-131)
+- **Moderate and minor interactions**: naltrexone (moderate); zinc salts (minor).
+- **PML and infection risk**: Multiple reviews in the literature link natalizumab with PML, a rare and often fatal brain infection caused by JC virus.
 
-The following major interactions warrant particular attention in any clinical planning:
-
-| Interacting Drug | Severity |
-|-----------------|----------|
-| Hydrocortisone | Major |
-| Triamcinolone | Major |
-| Dexamethasone | Major |
-| Betamethasone | Major |
-| Budesonide | Major |
-| Prednisolone | Major |
-| Prednisone | Major |
-| Triamcinolone (ophthalmic) | Major |
-| Iobenguane (I-131) | Major |
-| Ibritumomab tiuxetan | Major |
-| Tositumomab (I-131) | Major |
-| Tositumomab | Major |
-| Levamisole | Major |
-| Trimetrexate | Major |
-| Mercaptopurine | Major |
-| Naltrexone | Moderate |
-| Zinc sulfate / acetate / gluconate / chloride | Minor |
-
-> Note: The pattern of major interactions — predominantly corticosteroids and immunosuppressants — is consistent with Natalizumab's known immunomodulatory profile and the heightened risk of opportunistic infections (including PML) when combined with other immunosuppressive agents.
-
-Please refer to the package insert for key warnings and contraindications, as this data was not available in the current evidence pack.
+Please refer to the package insert for the full warnings and contraindications, as label-level data were not available for this report.
 
 ---
 
@@ -118,14 +127,14 @@ Please refer to the package insert for key warnings and contraindications, as th
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN computational score (99.46%), there is zero clinical, observational, or preclinical evidence linking Natalizumab to bronchitis treatment. The mechanistic hypothesis is speculative and weak, and bronchitis aetiology is too heterogeneous to support a targeted repurposing strategy without foundational data.
+The top predicted indication, bronchitis, rests only on a model score, with no clinical trials or literature, and natalizumab's infection risks (including PML) make this use unfavorable. The other predictions have either no evidence or only case reports, and some of those suggest the drug may cause the condition rather than treat it.
 
 **To proceed, the following is needed:**
-- Preclinical studies (e.g., murine models of eosinophilic or allergic bronchitis) to test whether α4-integrin blockade produces measurable bronchial anti-inflammatory effects
-- Disease subtype clarification: if any benefit is plausible, it would likely be limited to eosinophilic or allergic bronchitis, not infectious bronchitis
-- Complete MOA data retrieved from DrugBank (DG002 remediation)
-- Full safety package insert from CDSCO/FDA for key warnings and contraindications (DG001 remediation)
-- Comparison with existing bronchitis therapies (inhaled corticosteroids, β2-agonists) to assess whether a systemic monoclonal antibody offers any advantage in risk-benefit terms
+- Package insert warnings and contraindications for the India-marketed product (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Preclinical or clinical evidence in the predicted indication (for example airway inflammation models)
+- A benefit-risk comparison against established therapies, such as IL-17, IL-23 and TNF inhibitors for psoriasis
+- If psoriasis is pursued, prospective controlled data to resolve the conflicting signals of benefit and harm
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

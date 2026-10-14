@@ -2,7 +2,7 @@
 layout: default
 title: Metaxalone
 parent: Model Prediction Only (L5)
-nav_order: 526
+nav_order: 531
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,98 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Metaxalone: From Skeletal Muscle Relaxant to Infectious Otitis Media
+# Metaxalone: From Skeletal Muscle Relaxation to Infectious Otitis Media
 
 ## One-Sentence Summary
 
-Metaxalone (DrugBank: DB00660) is a centrally acting skeletal muscle relaxant, approved in the United States for relief of discomfort associated with acute, painful musculoskeletal conditions.
-The TxGNN model predicts it may be effective for **Infectious Otitis Media** (rank #1 among predicted indications, score 99.06%),
-however **no clinical trials and no publications** currently support this direction, and the mechanistic rationale analysis strongly suggests this is a model artifact rather than a genuine biological signal.
-
----
+Metaxalone is a centrally acting skeletal muscle relaxant that is marketed in India as a single-ingredient oral tablet.
+The TxGNN model predicts it may be effective for **infectious otitis media**,
+but **no clinical trials and no publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Musculoskeletal pain / skeletal muscle spasm (centrally acting muscle relaxant; not registered in India) |
-| Predicted New Indication | Infectious Otitis Media |
+|------|------|
+| Original Indication | Not stated in the data compiled for this report (metaxalone is generally known as a skeletal muscle relaxant) |
+| Predicted New Indication | Infectious otitis media |
 | TxGNN Prediction Score | 99.06% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Metaxalone in this evidence pack. Based on known pharmacological information, Metaxalone is a CNS depressant that acts centrally to produce skeletal muscle relaxation; it is widely used in the United States for acute musculoskeletal pain. Its precise molecular mechanism remains incompletely characterized, with no established antimicrobial, antiviral, or local anti-inflammatory activity in the ear.
+Currently, detailed mechanism of action data is not available. Metaxalone is a centrally acting skeletal muscle relaxant, and its exact mechanism is incompletely characterized.
 
-Infectious otitis media is a bacterial or viral infection of the middle ear that requires antimicrobial treatment or symptomatic management targeting infectious pathogenesis. There is no known pharmacological bridge between central muscle relaxation and the resolution of middle-ear infection—neither antibacterial activity, anti-biofilm properties, nor relevant immunomodulatory effects have been reported for Metaxalone.
+The review of the prediction found no established mechanistic link to infectious otitis media. Metaxalone has no known antimicrobial, anti-inflammatory, or Eustachian tube-related activity. The high score (99.06%) is a graph-based computational prediction only and is not backed by any trial or literature evidence.
 
-The high TxGNN score (0.9906) is most likely a **graph shortcut artifact**: when MOA-related nodes are absent or sparse in the knowledge graph, graph neural networks can generate spurious high-confidence links between pharmacologically unrelated drug–disease pairs. The fact that all three top-ranked predicted indications (otitis media, endocarditis, endocardial fibroelastosis) fall into structurally dissimilar disease categories with zero supporting evidence strongly reinforces this interpretation. This prediction should not be taken as a genuine repurposing signal without further mechanistic investigation.
+Two other predictions were also generated, and neither is supported by evidence:
+- **Endocarditis** (score 99.02%): no plausible mechanistic link, because infective endocarditis is treated with targeted antimicrobial therapy and metaxalone has no antibacterial or cardiac-specific activity.
+- **Endocardial fibroelastosis** (score 99.00%): no identified mechanistic link, and pediatric safety data for metaxalone are limited.
 
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+All three predictions are rated L5 and Hold.
 
 ## India Market Information
 
-Metaxalone has **no registered products** in India. No authorization records are available.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 84259 | Flexura 400 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets (oral) | Not stated |
 
 ## Safety Considerations
 
-**Drug Interactions (53 interactions identified; selected key interactions shown below):**
+- **Knowledge-graph contraindication signals** (from the TxGNN knowledge graph, not from label text): liver failure, acute liver failure, hepatitis, hemolytic anemia.
+- **Drug Interactions**: 53 interactions are recorded. The Major-level ones among those listed are:
+  - Morphine (including liposomal morphine)
+  - Codeine
+  - Hydrocodone
 
-| Interacting Drug | Severity | Clinical Significance |
-|-----------------|----------|-----------------------|
-| Morphine | **Major** | Additive CNS depression; risk of respiratory depression and sedation |
-| Morphine (liposomal) | **Major** | Same as morphine; additive CNS depressant effects |
-| Codeine | **Major** | Additive CNS and respiratory depression |
-| Hydrocodone | **Major** | Additive CNS and respiratory depression |
-| Dronabinol | Moderate | Enhanced CNS depression |
-| Nabilone | Moderate | Enhanced CNS depression |
-| Naltrexone | Moderate | May reduce analgesic efficacy of opioids used concomitantly |
-| Metoclopramide | Moderate | Additive CNS effects |
-| Ethanol | Moderate | Enhanced CNS depression; avoid concomitant use |
-| Promethazine | Moderate | Additive sedation and CNS depression |
-| Chlorpheniramine | Moderate | Additive sedation |
-| Cetirizine | Moderate | Additive sedation |
-| Dextromethorphan | Moderate | Additive CNS depression |
-| Sibutramine | Moderate | CNS interaction risk |
-| Doxylamine | Moderate | Additive sedation and anticholinergic effects |
+  Moderate-level interactions include:
+  - Cannabinoids (dronabinol, nabilone)
+  - Naltrexone
+  - Metoclopramide
+  - Opium
+  - Sibutramine
+  - Ethanol
+  - Sedating antihistamines (promethazine, chlorpheniramine, cetirizine, brompheniramine, carbinoxamine, clemastine, mepyramine, doxylamine)
+  - Dextromethorphan
 
-> **Note:** Key warnings and contraindications data are not available in the current evidence pack. Please refer to the US FDA package insert (Skelaxin®) or applicable prescribing information for complete safety guidance.
+  Many of these are central nervous system depressants, so additive sedation is a likely concern.
 
----
+Package insert warnings and contraindications were not available, so please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction carries L5 evidence (model prediction only, zero supporting clinical or literature evidence) and the mechanistic rationale analysis identifies it as a probable graph neural network artifact driven by missing MOA nodes in the knowledge graph. Metaxalone's CNS muscle-relaxant profile has no plausible pharmacological connection to infectious otitis media, endocarditis, or endocardial fibroelastosis—the three top-ranked predictions all point toward the same systematic bias in the model output.
+The prediction is based only on a model score. There are no clinical trials or publications, no mechanistic link to otitis media, and the package insert safety data are missing. The evidence level is L5.
 
 **To proceed, the following is needed:**
-
-- **MOA clarification**: Retrieve complete DrugBank mechanism-of-action data to determine whether any secondary pharmacological activity could support anti-infective or anti-inflammatory applications
-- **Knowledge graph audit**: Review TxGNN KG edges connecting Metaxalone to infection-related disease nodes to identify and correct the graph shortcut artifact
-- **CDSCO/India package insert**: Obtain official prescribing information to document warnings, contraindications, and approved indications if/when India registration is sought
-- **Re-prediction with updated KG**: Re-run TxGNN after patching missing MOA nodes; if the high scores persist after correction, escalate to L4 mechanistic investigation; otherwise, deprioritize this candidate
-- **Consideration of alternative indications**: If Metaxalone repurposing is a priority, explore evidence-backed directions (e.g., neuropathic pain, spasticity in neurological conditions) rather than the current model-flagged infections
+- The India package insert (warnings, contraindications, approved indication), obtained from the India Pharma website. This is currently a blocking gap for safety screening.
+- Mechanism of action data for metaxalone from DrugBank, to allow a mechanistic-link analysis.
+- Any preclinical or clinical evidence linking metaxalone to infectious otitis media. Without it, the prediction should not advance.
+- A review of the knowledge-graph liver-related contraindication signals and the CNS-depressant interactions if the project is reconsidered.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

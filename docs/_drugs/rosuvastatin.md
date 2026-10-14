@@ -2,7 +2,7 @@
 layout: default
 title: Rosuvastatin
 parent: Model Prediction Only (L5)
-nav_order: 748
+nav_order: 755
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rosuvastatin: From Hypercholesterolemia to Cholesterol-Ester Transfer Protein Deficiency
+# Rosuvastatin: From Hyperlipidaemia and Stroke Prevention to Familial Hypercholesterolemia
 
 ## One-Sentence Summary
 
-> Rosuvastatin is a well-known HMG-CoA reductase inhibitor (statin) globally used to manage hypercholesterolemia and cardiovascular risk, though this Evidence Pack contains no India-specific label or licensing data.
-> The TxGNN model's top-ranked prediction is **Cholesterol-Ester Transfer Protein (CETP) Deficiency**, but this is currently supported by **0 clinical trials** and only **2 loosely related case-report publications** — neither of which studies rosuvastatin directly.
-> Evidence is too thin and mechanistically ambiguous to support this indication at present.
+Rosuvastatin is a statin (HMG-CoA reductase inhibitor) originally used for hypertriglyceridemia, hyperlipoproteinemia, atherosclerosis, stroke-related disorders and homozygous familial hypercholesterolemia.
+The top-ranked prediction with real supporting evidence is **Familial Hypercholesterolemia**, backed by **12 listed clinical trials** and **13 publications**. Note that this is largely an on-label or near-label use rather than true repurposing.
+The only genuinely novel prediction with a body of evidence is **HIV infectious disease** (a research question, not a recommendation).
 
 ---
 
@@ -43,72 +43,109 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from the India regulatory dataset (no license records); rosuvastatin is globally established as an HMG-CoA reductase inhibitor for hypercholesterolemia/dyslipidemia |
-| Predicted New Indication | Cholesterol-Ester Transfer Protein (CETP) Deficiency |
-| TxGNN Prediction Score | 99.54% |
-| Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+| Original Indication | Hypertriglyceridemia, stroke disorder, cerebrovascular disorder, cerebral infarction, atherosclerosis, familial combined hyperlipidemia, hyperlipoproteinemia, homozygous familial hypercholesterolemia (the Indian licence records contain no approved indication text) |
+| Predicted New Indication | Cholesterol-ester transfer protein deficiency (rank 1; prediction only). The best-supported prediction is Familial Hypercholesterolemia (rank 2) |
+| TxGNN Prediction Score | 99.54% (rank 1); 99.54% (Familial Hypercholesterolemia) |
+| Evidence Level | L5 for rank 1; L1 for Familial Hypercholesterolemia |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold for rank 1; Proceed with Guardrails for Familial Hypercholesterolemia |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for this candidate is not available in the current Evidence Pack (flagged as a High-severity data gap, DG002). Based on generally known pharmacology, rosuvastatin is a potent HMG-CoA reductase inhibitor that lowers LDL-cholesterol by upregulating hepatic LDL receptors, and it also modestly raises HDL-cholesterol — properties that place it firmly within lipid-metabolism pharmacology.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, rosuvastatin is a statin that inhibits HMG-CoA reductase, reducing hepatic cholesterol synthesis and upregulating LDL receptors, which lowers LDL-C and triglycerides.
 
-CETP deficiency, however, is a rare genetic disorder in which loss of cholesteryl-ester transfer protein activity causes markedly *elevated* HDL-C rather than hypercholesterolemia. This is mechanistically distinct from rosuvastatin's LDL-lowering action, and the two supporting publications in this pack are case reports on **apoA-I deficiency** and **hepatic lipase deficiency** — related rare lipid disorders, but neither is a study of rosuvastatin treatment in CETP deficiency specifically. The link therefore appears to be an artifact of the model's proximity in "lipid metabolism disorder" concept space rather than a genuine, literature-supported therapeutic hypothesis.
+**Rank 1 (cholesterol-ester transfer protein deficiency):** This is a model prediction only, with no trials or publications. CETP deficiency raises HDL-C and alters lipoprotein metabolism, and no direct mechanistic or clinical link to rosuvastatin is documented. It should be treated as a hypothesis.
 
-Given the absence of any direct pharmacological or clinical rationale connecting rosuvastatin to CETP deficiency, this prediction should be treated as a low-confidence signal warranting further mechanistic investigation rather than a near-term repurposing opportunity.
+**Familial hypercholesterolemia:** The LDL clearance deficit in this condition is directly addressed by statin-induced LDL receptor upregulation. Homozygous familial hypercholesterolemia is already among the original indications, so this is mostly an established use. Guardrails: pediatric dosing, monitoring for myopathy and liver enzymes, and limited response in homozygous patients with null LDLR variants, who often need add-on therapy.
+
+**Other predictions in the list:**
+- **Hyperlipidemia** (rank 10, L1): an established use, with large Phase 3 programmes.
+- **HIV infectious disease** (rank 5, L2): the rationale is lipid-lowering and anti-inflammatory effects reducing cardiovascular risk in people with HIV. The trials mostly address surrogate cardiovascular endpoints and drug interactions with antiretrovirals, not HIV itself, and results are mixed.
+- **Brain stem infarction, hypoalphalipoproteinemia, CYP7A1-deficiency hypercholesterolemia:** only indirect or preclinical support.
+- **Hepatic lipase deficiency hyperlipidemia, ABri amyloidosis, a rare neurodevelopmental disorder:** prediction only, no evidence.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Shown for Familial Hypercholesterolemia, the best-supported prediction (up to 10 most relevant trials). The rank 1 prediction, CETP deficiency, has no registered clinical trials.
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00355615](https://clinicaltrials.gov/study/NCT00355615) | Phase 3 | Completed | 173 | Rosuvastatin vs placebo for 12 weeks, then 40 weeks open label, in children aged 10–17 with heterozygous FH; primary endpoint LDL-C reduction |
+| [NCT01078675](https://clinicaltrials.gov/study/NCT01078675) | Phase 3 | Completed | 315 | Open-label 2-year efficacy, safety and pharmacokinetic study in children and adolescents (6 to <18 years) with FH |
+| [NCT02226198](https://clinicaltrials.gov/study/NCT02226198) | Phase 3 | Completed | 20 | Double-blind, placebo-controlled crossover study in children and adolescents with homozygous FH |
+| [NCT02434497](https://clinicaltrials.gov/study/NCT02434497) | Phase 3 | Completed | 9 | Open-label extension evaluating long-term safety in paediatric homozygous FH |
+| [NCT00654602](https://clinicaltrials.gov/study/NCT00654602) | Phase 3 | Completed | 1500 | 48-week open-label study of efficacy and safety in Fredrickson type IIa/IIb dyslipidaemia, including heterozygous FH |
+| [NCT00654446](https://clinicaltrials.gov/study/NCT00654446) | Phase 3 | Completed | 442 | Renal effects of rosuvastatin vs simvastatin in type IIa/IIb dyslipidaemia, including heterozygous FH |
+| [NCT01709500](https://clinicaltrials.gov/study/NCT01709500) | Phase 3 | Completed | 249 | Alirocumab vs placebo in heterozygous FH on lipid-modifying therapy; rosuvastatin's role (background therapy or test drug) is unclear |
+| [NCT03510884](https://clinicaltrials.gov/study/NCT03510884) | Phase 3 | Completed | 153 | Alirocumab in children with heterozygous FH on stable statin therapy; rosuvastatin's role is unclear |
+| [NCT06910098](https://clinicaltrials.gov/study/NCT06910098) | N/A | Completed | 195 | Effect of different rosuvastatin doses on LDL, CPK and AST levels |
+| [NCT07474649](https://clinicaltrials.gov/study/NCT07474649) | Phase 3 | Not yet recruiting | 103 | Bempedoic acid/ezetimibe plus high-intensity atorvastatin or rosuvastatin on coronary plaque; no results yet |
 
 ---
 
 ## Literature Evidence
 
+Shown for Familial Hypercholesterolemia (up to 10 most relevant, RCTs first).
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21122686](https://pubmed.ncbi.nlm.nih.gov/21122686/) | 2010 | Case report/Review | Journal of Clinical Lipidology | Describes complete Apo A-I deficiency in an Iraqi family with premature atherosclerosis; does not evaluate rosuvastatin or CETP deficiency directly |
-| [22798447](https://pubmed.ncbi.nlm.nih.gov/22798447/) | 2010 | Case report | BMJ Case Reports | Describes hepatic lipase deficiency in a Middle-Eastern male, reporting CETP activity/mass as a secondary finding; not a treatment study |
-
-Both papers are tangential to the predicted indication — neither addresses rosuvastatin as a therapy for CETP deficiency.
+| [20223367](https://pubmed.ncbi.nlm.nih.gov/20223367/) | 2010 | RCT | J Am Coll Cardiol | Efficacy and safety of rosuvastatin in children with familial hypercholesterolemia |
+| [28838366](https://pubmed.ncbi.nlm.nih.gov/28838366/) | 2017 | Cohort | J Am Coll Cardiol | Rosuvastatin efficacy in children with homozygous FH and its association with underlying genetic mutations |
+| [26387811](https://pubmed.ncbi.nlm.nih.gov/26387811/) | 2016 | Pharmacokinetic study | Eur J Clin Pharmacol | Population pharmacokinetics of rosuvastatin in paediatric heterozygous FH |
+| [12269853](https://pubmed.ncbi.nlm.nih.gov/12269853/) | 2002 | Review | Drugs | Rosuvastatin was superior to atorvastatin, simvastatin and pravastatin in improving lipid profile in hypercholesterolaemia across 6–52 week trials; low propensity for drug interactions |
+| [15531000](https://pubmed.ncbi.nlm.nih.gov/15531000/) | 2004 | Review | Clin Ther | Rosuvastatin in the management of hyperlipidemia, including homozygous FH |
+| [28437620](https://pubmed.ncbi.nlm.nih.gov/28437620/) | 2017 | Guideline | Endocr Pract | AACE/ACE guidelines for dyslipidemia management and cardiovascular prevention |
+| [36928267](https://pubmed.ncbi.nlm.nih.gov/36928267/) | 2023 | Cohort | J Atheroscler Thromb | Real-world LDL-C goal achievement in high-risk patients in Japan |
+| [40254247](https://pubmed.ncbi.nlm.nih.gov/40254247/) | 2025 | Mechanistic study | Toxicology | Statin myotoxicity in iPSC-derived muscle cells from FH patients, comparing lipophilic and hydrophilic statins |
+| [20531065](https://pubmed.ncbi.nlm.nih.gov/20531065/) | 2010 | Case report | South Med J | Rare severe thrombocytopenia during rosuvastatin treatment |
+| [33976097](https://pubmed.ncbi.nlm.nih.gov/33976097/) | 2021 | Review | Med Lett Drugs Ther | Evinacumab for homozygous FH |
 
 ---
 
 ## India Market Information
 
-Rosuvastatin is currently **not marketed** in India under this dataset, with **0 registered licenses**. No product, dosage form, or approved-indication records are available for review.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 191412 | Rosutime 10mg Tablet (TTK Healthcare Ltd) | Strip of 10 tablets | Not specified |
+| 193515 | Rosmi 5mg Tablet (Cadila Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified |
+| 36307 | Crevast 20 Tablet (Eris Lifesciences Ltd) | Strip of 15 tablets | Not specified |
+| 184168 | Rosuvas 20 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not specified |
+| 185654 | Rosave CV 20mg/75mg Capsule (Alembic Pharmaceuticals Ltd) | Strip of 10 capsules | Not specified |
+
+All 20 registrations are valid, with none cancelled. Several products carry rosuvastatin in combination with other agents (for example, the "CV" capsules), although the data classify all 20 as single-ingredient licences.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**: The DDI database records 524 total interactions for rosuvastatin. Notable examples from the sampled list include:
-- **Major**: Fenofibrate, Atazanavir
-- **Moderate**: Zidovudine, Paclitaxel, Adalimumab, Trastuzumab emtansine, Ethanol, Alpelisib, Amiodarone, Sodium citrate, Apalutamide, Asparaginase (E. coli / Erwinia chrysanthemi), Atorvastatin, Auranofin, Bempedoic acid, Ezetimibe
-- **Minor**: Levonorgestrel, Norethisterone, Desogestrel
+- **Contraindications suggested by the knowledge graph** (not from label text): liver disease, gallbladder disease, hypothyroidism, myxedema, congenital hypothyroidism, myopathy, muscular disease, skeletal muscle disease, familial periodic paralysis, substance abuse/dependence, rhabdomyolysis, nodular fasciitis, injury, proteinuria.
+- **Drug Interactions:** 524 interactions are recorded. Major-level examples include **fenofibrate** and **atazanavir**. Moderate-level examples include atorvastatin, ezetimibe, bempedoic acid, amiodarone, paclitaxel, zidovudine, adalimumab, trastuzumab emtansine, alpelisib, apalutamide, asparaginase, auranofin, ethanol and sodium citrate. Minor-level examples include levonorgestrel, norethisterone and desogestrel.
+- **Literature signals:** rare thrombocytopenia (case report), statin-associated incident diabetes, worsened insulin resistance in HIV-infected adults on rosuvastatin, and statin-associated muscle symptoms.
 
-No key warnings or contraindications data are currently available (flagged as a Blocking data gap, DG001 — TFDA label warnings/contraindications). Please refer to the official package insert for complete safety information once available.
+The package-insert warnings and contraindications for the Indian products have not been obtained. Please refer to the package insert for authoritative safety information.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails (Familial Hypercholesterolemia); Hold (CETP deficiency, the top-ranked prediction, and the other low-evidence predictions)**
 
 **Rationale:**
-The predicted indication (CETP deficiency) has no direct clinical or mechanistic evidence linking rosuvastatin to this disease — the two supporting publications concern unrelated rare lipid disorders. Combined with a Blocking data gap on TFDA safety labeling (DG001) and a High-severity gap on mechanism of action (DG002), this candidate cannot proceed past initial safety screening (S0).
+- Familial hypercholesterolemia is supported by multiple completed Phase 3 trials, including paediatric RCTs, and is already close to an original indication. The top-scored prediction, CETP deficiency, has no trials or literature and rests on the model score alone.
+- HIV infectious disease (L2) is worth investigating as a research question, but the evidence is mostly surrogate and mixed.
 
 **To proceed, the following is needed:**
-- Confirmed rosuvastatin mechanism of action (MOA) data from DrugBank
-- TFDA/local regulatory label with warnings and contraindications
-- Direct preclinical or clinical evidence connecting rosuvastatin to CETP activity or CETP-deficiency-related lipid phenotypes
-- Reassessment against alternative, better-supported candidates in this Evidence Pack (e.g., familial hypercholesterolemia, rank 2, which has extensive Phase 3 RCT support, or HIV-related cardiovascular risk reduction, rank 5, L3/S1) as these show substantially stronger evidence bases
+- Package-insert warnings and contraindications from the Indian regulatory source (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Approved indication text for the Indian licences
+- Paediatric dosing guidance, and a myopathy and liver-enzyme monitoring plan
+- A review of the major drug interactions (fenofibrate, atazanavir) and dose adjustment in renal impairment and in Asian patients
+- Any further evaluation of the HIV indication should focus on clinical outcomes rather than lipid or inflammatory surrogates
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

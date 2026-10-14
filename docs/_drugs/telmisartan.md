@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Telmisartan
-parent: High Evidence (L1-L2)
-nav_order: 805
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 812
+evidence_level: L5
 indication_count: 10
 ---
 
 # Telmisartan
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,12 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Telmisartan: From Hypertension to Intracerebral Hemorrhage Recurrence Prevention
+# Telmisartan: From Hypertension to Prinzmetal Angina
 
 ## One-Sentence Summary
 
-> Telmisartan is a well-established angiotensin II receptor blocker (ARB) used globally to treat hypertension. Among **10 candidate indications** screened by TxGNN for this drug, **Intracerebral Hemorrhage (recurrence prevention)** stands out as the strongest candidate, supported by a **completed Phase 3 trial (TRIDENT, n=1,671)** and **10 relevant preclinical/clinical publications** — though the human evidence is for a triple-pill combination regimen, not telmisartan monotherapy.
+Telmisartan is an angiotensin receptor blocker, originally used to treat hypertension and to reduce stroke and cerebral infarction risk.
+The TxGNN model predicts it may be effective for **Prinzmetal angina** (vasospastic angina) with a very high score, but **no clinical trials and no publications** were found for this specific indication, so the prediction rests on the model alone.
 
 ---
 
@@ -41,80 +42,85 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension *(well-established use of telmisartan; not available in this Evidence Pack — see Data Gap DG001)* |
-| Predicted New Indication | Intracerebral Hemorrhage (recurrence prevention) |
-| TxGNN Prediction Score | 99.93% (score 0.99925, model rank 1792/multiple candidates) |
-| Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
-*Note: This Evidence Pack screened 10 TxGNN-predicted indications for telmisartan. The top TxGNN-scored candidate (Prinzmetal angina, 99.98%) has zero supporting trials/literature (L5, Hold) and is not evidence-actionable. Intracerebral hemorrhage — ranked #9 by raw TxGNN score — has the strongest actual evidence base and is used as the lead candidate in this report. See "Why is This Prediction Reasonable?" for context on other candidates screened.*
+| Original Indication | Hypertension, stroke, cerebrovascular disorder, cerebral infarction (from the knowledge graph; the licence records list no indication text) |
+| Predicted New Indication | Prinzmetal angina |
+| TxGNN Prediction Score | 99.98% |
+| Evidence Level | L5 (model prediction only) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for telmisartan is currently a documented data gap (DG002, High severity). Based on the mechanistic rationale captured alongside the TxGNN predictions, telmisartan is an **AT1 receptor antagonist with partial PPARγ agonist activity** ("metabosartan"). This dual mechanism gives it antihypertensive effects plus antioxidant, anti-inflammatory, and anti-apoptotic properties that extend beyond simple blood pressure lowering.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, telmisartan blocks the angiotensin II type 1 (AT1) receptor. It is also a partial agonist of PPAR-gamma. Its efficacy in hypertension and cerebrovascular disease is established, and mechanistically it may be applicable to vasospastic angina.
 
-Hypertension is the dominant modifiable risk factor for both primary and recurrent intracerebral hemorrhage (ICH). Mechanistically, AT1 blockade reduces the vascular shear stress and oxidative injury that drive hemorrhagic stroke recurrence, and multiple rodent ICH/subarachnoid hemorrhage models show telmisartan reduces apoptosis, inflammation, and vasospasm at the injury site. This provides a plausible biological bridge from telmisartan's approved antihypertensive use to secondary ICH prevention.
+Prinzmetal angina is caused by spasm and hypercontractility of coronary smooth muscle. AT1 blockade and PPAR-gamma activity could plausibly modulate vascular tone and endothelial function. This connects the drug's established vascular effects to the predicted disease.
 
-Clinically, this mechanistic link has already been tested in humans: the TRIDENT trial (NCT02699645) enrolled 1,671 ICH survivors and evaluated a fixed-dose "Triple Pill" (which includes telmisartan) for recurrent stroke prevention — a direct, completed Phase 3 human dataset. The caveat is that TRIDENT tested a **combination regimen**, so telmisartan's independent contribution cannot be isolated from this trial alone. Other TxGNN-predicted candidates for telmisartan (e.g., cerebral artery occlusion, L3, backed by 14 preclinical AT1/PPARγ neuroprotection studies) reinforce the same underlying cerebrovascular mechanism but lack any human trial data, and were therefore not selected as the lead indication for this report.
+This link is a hypothesis only. No trial or publication supporting telmisartan in Prinzmetal angina was retrieved. The high graph score should not be read as clinical evidence.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02699645](https://clinicaltrials.gov/study/NCT02699645) | Phase 3 | Completed | 1,671 | TRIDENT main trial: fixed-dose "Triple Pill" (including telmisartan) vs. usual care for prevention of recurrent stroke after intracerebral hemorrhage — direct human evidence, but combination-drug design, not telmisartan monotherapy. |
-| [NCT03783754](https://clinicaltrials.gov/study/NCT03783754) | N/A | Terminated | 4 | TRIDENT MRI sub-study; terminated early with only 4 participants — no meaningful conclusions possible. |
-| [NCT03785067](https://clinicaltrials.gov/study/NCT03785067) | Phase 3 | Terminated | 1 | TRIDENT cognitive sub-study; terminated early with only 1 participant — no meaningful conclusions possible. |
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [34994269](https://pubmed.ncbi.nlm.nih.gov/34994269/) | 2022 | Trial protocol | Int J Stroke | Rationale and design of the TRIDENT trial evaluating triple-pill BP control (including telmisartan) for recurrent ICH prevention. |
-| [24636673](https://pubmed.ncbi.nlm.nih.gov/24636673/) | 2014 | Cohort (secondary analysis) | Int J Stroke | Analysis within the PRoFESS secondary stroke prevention trial comparing ischemic vs. hemorrhagic recurrence rates across race-ethnic groups. |
-| [15834293](https://pubmed.ncbi.nlm.nih.gov/15834293/) | 2005 | Comparative study | J Hypertension | Telmisartan vs. ramipril effects on cerebrovascular structure in hypertensive rats — reversal of arteriolar remodeling. |
-| [22957022](https://pubmed.ncbi.nlm.nih.gov/22957022/) | 2012 | Preclinical (animal) | PLoS One | Short-term telmisartan (vs. candesartan) improves pial arteriole diameter in spontaneously hypertensive rats via PPARγ. |
-| [17538008](https://pubmed.ncbi.nlm.nih.gov/17538008/) | 2007 | Preclinical (animal) | J Pharmacol Exp Ther | AT1 receptor blockade with telmisartan reduces apoptosis, inflammation, and oxidative stress in a normotensive rat ICH model. |
-| [27078703](https://pubmed.ncbi.nlm.nih.gov/27078703/) | 2016 | Preclinical (animal) | Neurological Research | Telmisartan reduces oxidative stress and vasospasm after subarachnoid hemorrhage in animal model. |
-| [40045320](https://pubmed.ncbi.nlm.nih.gov/40045320/) | 2025 | Preclinical (animal) | J Neuroinflammation | Angiotensin II-driven hypertension model of cerebral microhemorrhage development — mechanistic relevance to AT1-blocker protection. |
-| [19148963](https://pubmed.ncbi.nlm.nih.gov/19148963/) | 2009 | Commentary | NEJM | "Telmisartan for prevention of cardiovascular events" — commentary/correspondence on cardiovascular outcome data. |
+Currently no related literature available.
 
 ---
 
 ## India Market Information
 
-Telmisartan currently has **no registered authorizations on file** in this dataset (0 licenses; market status: Not Marketed). No product/indication table can be generated until India regulatory registration data is obtained.
+Twenty valid registrations were found, all with valid status. The five below are examples. The licence records contain no approved-indication text.
+
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| 226234 | Temcar 40mg Tablet | Strip of 10 tablets |
+| 227759 | Teloris 40mg Tablet | Strip of 10 tablets |
+| 129212 | Lintel-CT 80 Tablet | Strip of 10 tablets |
+| 201139 | Stamlo-T 80 Tablet | Strip of 10 tablets |
+| 216483 | Tetan Beta 50 Tablet ER | Strip of 15 extended-release tablets |
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: Telmisartan has **185 total documented interactions**. Notable **Major-severity** interactions include **Potassium citrate** and **Potassium bicarbonate** (risk of hyperkalemia, consistent with ARB pharmacology). Multiple **Moderate-severity** interactions are also documented, including corticosteroids (Hydrocortisone, Dexamethasone, Betamethasone, Triamcinolone, Budesonide), SGLT2 inhibitors (Canagliflozin, Dapagliflozin, Empagliflozin), insulin/incretin agents (Insulin human, Insulin aspart, Exenatide), Bupropion, Morphine, Acetylsalicylic acid, and bowel-prep agents (Picosulfuric acid, Polyethylene glycol with electrolytes, Sodium sulfate).
-- Key warnings and contraindications (product labeling) are a documented data gap (DG001, Blocking severity) — TFDA/local label warnings have not yet been obtained. Please refer to the official package insert once available.
-- **Mechanism-specific caution**: One of the other screened candidates ("malignant renovascular hypertension") was flagged as a *safety-relevant, not efficacy-relevant* signal — ARBs are contraindicated or require caution in bilateral renal artery stenosis due to risk of acute kidney injury from efferent arteriolar dilation. This should inform renal function monitoring for any ICH-prevention use as well, particularly given concurrent Major hyperkalemia interaction risk.
+- **Contraindication-related conditions (knowledge-graph derived, not label text)**: liver failure, liver disease, hepatic coma and encephalopathy, cholestasis (including benign recurrent and familial intrahepatic forms), kidney disease, anuria, renal artery obstruction, pancreatitis, gallbladder disease, systemic lupus erythematosus (including pediatric), diabetes mellitus, diabetic ketoacidosis, hypotensive disorder, potassium deficiency, hypercalcemia, nephrocalcinosis, hyperparathyroidism, osteitis fibrosa, phosphorus metabolism disease, gout, hyperuricemia, pyoureter, neonatal jaundice. Many of these likely reflect hydrochlorothiazide combination products, so they need confirmation against the actual package inserts.
+- **Drug Interactions**: 185 interactions were recorded.
+  - **Major**: potassium citrate and potassium bicarbonate, which carry a hyperkalemia risk.
+  - **Moderate examples**:
+    - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide
+    - Acetylsalicylic acid
+    - SGLT2 inhibitors: canagliflozin, dapagliflozin, empagliflozin
+    - Insulin products and exenatide
+    - Bupropion
+    - Morphine
+    - Dronabinol
+    - Bowel-preparation laxatives
+
+Package insert warnings were not available, so please refer to the package insert for full safety information.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Among 10 TxGNN-predicted indications for telmisartan, intracerebral hemorrhage recurrence prevention is the only one supported by a completed Phase 3 human trial (TRIDENT, n=1,671) combined with a coherent, multiply-replicated preclinical mechanism (AT1 blockade + PPARγ agonism → reduced oxidative stress, inflammation, and vasospasm). However, TRIDENT tested a fixed-dose triple-pill combination, so telmisartan's independent contribution is not isolated, and two related TRIDENT sub-studies were terminated with negligible enrollment.
+The Prinzmetal angina prediction has a very high model score but no supporting trials or literature (L5). Telmisartan is already widely marketed in India, so access is not a barrier. The barrier is the absence of any indication-specific evidence.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (TFDA/local label warnings and contraindications — Blocking) before any safety initial screening (S1) can be completed
-- Resolve DG002 (verified DrugBank MOA data) to confirm mechanistic rationale
-- India-specific regulatory/registration data, since telmisartan currently has zero registered licenses in this market
-- Analysis to isolate telmisartan's independent effect from the TRIDENT triple-pill combination (e.g., component-level subgroup or monotherapy trial data)
-- Renal function and serum potassium monitoring plan, given the Major-severity potassium-related DDIs and known ARB caution in renovascular disease
+- Targeted literature and trial searches for ARBs and telmisartan in vasospastic angina
+- Mechanism of action data (MOA) to support the AT1 and PPAR-gamma hypothesis
+- Package insert warnings and contraindications for the marketed products
+- A comparison with established first-line therapy for vasospastic angina (calcium channel blockers)
+
+**Note on other predictions:** Among the other predicted indications, **intracerebral hemorrhage** has the strongest support (L1). It is backed by the completed Phase 3 TRIDENT trial (NCT02699645, n=1671) and a 2026 NEJM publication. That trial tested a three-drug low-dose pill, so telmisartan's own contribution cannot be separated. **Cerebral artery occlusion** has Phase 4 trial and preclinical support (L2). A separate evaluation of these indications is worth considering.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

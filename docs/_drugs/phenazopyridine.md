@@ -2,7 +2,7 @@
 layout: default
 title: Phenazopyridine
 parent: Model Prediction Only (L5)
-nav_order: 653
+nav_order: 660
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,95 +29,64 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Phenazopyridine: From Urinary Tract Infection Symptom Relief to Bronchitis
+# Phenazopyridine: From Urinary Tract Symptom Relief to Bronchitis
 
 ## One-Sentence Summary
 
-Phenazopyridine is an azo-dye urinary tract analgesic used to relieve dysuria, urgency, and pain caused by urinary tract infection; it has no marketing authorization in Taiwan. The TxGNN model predicts a possible new use for **Bronchitis** with a high raw score (99.23%), but this is currently supported by **zero clinical trials** and **zero publications**, and the evidence pack's own mechanistic assessment suggests this is most likely a knowledge-graph false positive rather than a genuine pharmacological signal.
-
----
+Phenazopyridine is an oral urinary tract analgesic that is marketed in India under 2 valid registrations.
+The TxGNN model predicts it may be effective for **bronchitis**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Urinary tract infection–related dysuria, urgency, and pain (urinary analgesic) — no Taiwan license record exists to confirm formal labeled indication |
+| Original Indication | Not stated in the registration records compiled for this report |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.23% (rank 11,844) |
+| TxGNN Prediction Score | 99.23% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for phenazopyridine is not available (flagged as a High-severity data gap). Based on known clinical use, phenazopyridine is taken orally, excreted renally, and exerts a local analgesic effect on the bladder/urethral mucosa — it is used solely to relieve the burning, urgency, and pain of urinary tract infection. Its exact molecular mechanism has never been fully elucidated.
+Currently, detailed mechanism of action data is not available. Phenazopyridine is generally understood as a urinary tract analgesic that acts locally on the urothelium, but its exact mechanism is not well characterized.
 
-There is no known pharmacological pathway connecting this urinary-tract local analgesic effect to bronchitis (a respiratory tract infection/inflammation) — phenazopyridine has no established anti-inflammatory, bronchodilatory, antimicrobial, or antitussive/expectorant activity. The original indication (urinary system) and the predicted new indication (respiratory system) do not share an obvious anatomical, mechanistic, or therapeutic-class relationship.
+A credible mechanistic link to bronchitis has not been established. The drug has no known anti-inflammatory, antimicrobial, mucolytic or bronchodilatory activity relevant to bronchial disease, and its original use (symptomatic relief of urinary tract discomfort) is unrelated to respiratory illness.
 
-Given the absence of any supporting clinical trials, literature, or plausible mechanistic link, the most likely explanation is that this is a **false-positive association in the knowledge graph** — potentially arising from indirect comorbidity or adverse-event edges connecting "urinary symptoms" and "respiratory symptoms" nodes, rather than a real pharmacological relationship. This assessment is consistent with the evidence pack's own repurposing rationale and its "Hold" recommendation at decision stage S0.
+The high score (0.992) is a knowledge-graph prediction only. It may reflect network-structure artifacts, such as shared neighbours with other drugs or genes, rather than a true biological relationship. No clinical or preclinical data in the compiled dataset support the prediction.
 
----
+## India Market Information
 
-## Clinical Trial Evidence
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 177628 | Phenodyne 100mg Tablet | Strip of 10 tablets | Not stated |
+| 173624 | Pyridium 200 Tablet | Strip of 10 tablets | Not stated |
 
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
-
-## Taiwan Market Information
-
-Phenazopyridine currently holds **no marketing license in Taiwan** (0 registrations, market status: Not marketed). No product, dosage form, or approved-indication data is available.
-
----
+Both registrations are valid single-ingredient oral products (manufacturers: Remedial Healthcare; A. Menarini India Pvt Ltd).
 
 ## Safety Considerations
 
-- **Drug Interactions**: 24 documented interactions in total (source: DDInter). Notable entries include:
+- **Contraindication signals from the knowledge graph** (these are model-derived drug–disease links, not label text): hypertension, liver failure and liver disease, kidney disease, inherited porphyria, COPD, hematologic disease (thrombocytopenia, neutropenia, agranulocytosis, anemia), hepatic encephalopathy, benign prostatic hyperplasia, coronary artery disease, sleep apnea syndromes, anxiety and related disorders, and substance abuse/dependence. Several of these (COPD, sleep apnea, hypoventilation syndromes) are relevant to a respiratory population.
+- **Additional concerns:** methemoglobinemia, hemolysis in G6PD deficiency and renal impairment are known risks that would weigh against use in a respiratory population without clear justification.
+- **Drug interactions:** 24 interactions were identified in total. The two **Major** ones are **leflunomide** and **nitrous acid**. Most of the remaining are Moderate, including naltrexone, methotrexate, topical/ophthalmic local anaesthetics (lidocaine, benzocaine, tetracaine, oxybuprocaine, cinchocaine), cocaine, asparaginase, pegaspargase, brentuximab vedotin, clofarabine, idelalisib and interferon beta-1a/1b.
 
-| Interacting Drug | Level |
-|---|---|
-| Nitrous acid | Major |
-| Leflunomide | Major |
-| Naltrexone | Moderate |
-| Methotrexate | Moderate |
-| Lidocaine (topical/ophthalmic) | Moderate |
-| Benzocaine (topical) | Moderate |
-| Cocaine (nasal/topical) | Moderate |
-| Tetracaine (ophthalmic/topical) | Moderate |
-| Oxybuprocaine (ophthalmic) | Moderate |
-| Cinchocaine (topical) | Moderate |
-| Asparaginase Escherichia coli | Moderate |
-| Brentuximab vedotin | Moderate |
-| Clofarabine | Moderate |
-| Idelalisib | Moderate |
-| Interferon beta-1a / beta-1b | Moderate |
-| Pegaspargase | Moderate |
-
-Package-insert warnings and contraindications are currently unavailable (Blocking data gap — TFDA label not yet obtained), so this information cannot be assessed at this time.
-
----
+Package insert warnings and contraindications were not available for this report; please refer to the package insert for label safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on TxGNN score alone (L5, no clinical or literature support), and the mechanistic review found no plausible pathway linking a urinary-tract analgesic to bronchitis — the signal is most likely a false positive from indirect knowledge-graph edges. In addition, the drug is not marketed in Taiwan and TFDA label safety data is missing (Blocking gap), which by itself prevents even an initial safety screen (S1).
+The prediction is supported only by a model score. There are no clinical trials or literature, no established mechanistic link, and the safety profile adds concerns for respiratory patients. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — currently Blocking
-- Confirmed mechanism of action (DrugBank or primary literature) — currently High-severity gap
-- At minimum, preclinical or mechanistic evidence connecting phenazopyridine to respiratory tract pathology before any further evaluation stage is considered
-- Independent confirmation that the KG edge is not an artifact (e.g., re-run prediction excluding shared adverse-event/comorbidity edges)
+- Package insert warnings, contraindications and approved indication text for the Indian products
+- Mechanism of action data (e.g. from DrugBank) and an assessment of any plausible link to bronchial disease
+- Preclinical or observational evidence showing any benefit in bronchitis
+- Review of route and formulation compatibility for a respiratory indication
+- A safety assessment covering methemoglobinemia, hemolysis and renal/hepatic risks in the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

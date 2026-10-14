@@ -2,7 +2,7 @@
 layout: default
 title: Tetracycline
 parent: Moderate Evidence (L3-L4)
-nav_order: 820
+nav_order: 827
 evidence_level: L4
 indication_count: 4
 ---
@@ -33,59 +33,84 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Tetracycline is a classic broad-spectrum antibiotic, long used to treat bacterial infections including *Chlamydia trachomatis*-related disease. The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis**, but this direction is currently supported by only **0 clinical trials** and **1 case report** (published in 1992) — very early-stage, exploratory evidence.
+Tetracycline is a broad-spectrum antibiotic originally used for bacterial infections such as urinary tract infection, bronchitis, acne, pneumonia and conjunctivitis.
+The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**,
+but there are **no registered clinical trials** and only **1 publication** (a 1992 case report), so this prediction rests mainly on the model itself.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections, broad-spectrum antibacterial (specific approved indication text not available in this evidence pack) |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
+| Original Indication | Bacterial infections, including urinary tract infection, bronchitis, acne, pneumonia and conjunctivitis (from the knowledge graph; no approved-indication text is available in the India licence records) |
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 99.58% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Tetracycline belongs to the tetracycline class of broad-spectrum antibiotics, and its efficacy against bacterial infections — including *Chlamydia trachomatis* — is well established. Mechanistically, this may extend to punctate epithelial keratoconjunctivitis, since this corneal condition is a recognized sequela of chlamydial follicular conjunctivitis.
+Currently, detailed mechanism of action data is not available. Based on known information, tetracycline is a member of the tetracycline antibiotic class, its efficacy in bacterial infections including conjunctivitis is established, and mechanistically it may be applicable to punctate epithelial keratoconjunctivitis.
 
-The underlying rationale is that tetracyclines are a classic first-line therapy for chlamydial infections, and trachoma/chlamydial conjunctivitis is one of tetracycline's textbook indications. Punctate epithelial keratitis frequently arises as a residual inflammatory lesion after the pathogen has already been cleared by antibiotic treatment — meaning the pharmacological link exists, but points to prevention of a downstream complication rather than direct treatment of an active, drug-responsive disease process.
+Tetracycline is an established treatment for chlamydial (trachoma/inclusion) conjunctivitis, and persistent superficial punctate keratitis can follow chlamydial infection. Its antibacterial activity against *Chlamydia*, together with the anti-inflammatory and MMP-inhibiting effects of tetracyclines on the ocular surface, gives a plausible link.
 
-Importantly, the only literature reference for this candidate is a single 1992 case report of two patients whose chlamydial follicular conjunctivitis resolved after oral tetracycline or doxycycline, but who subsequently developed persistent punctate keratitis. This report demonstrates that the keratitis occurred **despite** — not because of — successful antibiotic treatment, and does not provide evidence that tetracycline itself treats or prevents this residual corneal lesion. The mechanistic plausibility is real, but the clinical evidence supporting a treatment effect is essentially absent.
+However, the only supporting paper is a 1992 report of post-chlamydial keratitis. It is indirect and does not test tetracycline for this indication. The high TxGNN score is likely driven by closeness to the approved conjunctivitis indications in the knowledge graph.
+
+Other predictions for this drug are weaker or different in kind. Chronic rhinosinusitis (including its ethmoidal subtype) has class-level evidence, mostly on doxycycline. Paranasal sinus neoplasm has no supporting data.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [1424659](https://pubmed.ncbi.nlm.nih.gov/1424659/) | 1992 | Case report | Cornea | Two patients with chlamydial follicular conjunctivitis, treated with oral tetracycline or doxycycline, had resolution of follicles but subsequently developed persistent bilateral punctate epithelial keratitis with fluorescein-staining lesions; one case had associated anterior stromal edema. Illustrates keratitis as a post-treatment sequela rather than a treatable target of tetracycline. |
+| [1424659](https://pubmed.ncbi.nlm.nih.gov/1424659/) | 1992 | Case report | Cornea | Two patients with chlamydial follicular conjunctivitis were treated with oral tetracycline or doxycycline, and the follicles resolved. Both then developed recurrent bilateral punctate epithelial keratitis. The report does not test tetracycline as a treatment for the keratitis. |
 
 ## India Market Information
 
-Currently no market authorization records in India (0 registrations; product not marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 216002 | Tetralab 250mg Capsule | Strip of 10 capsules | Not stated |
+| 20540 | Arcycline 250mg Capsule | Strip of 10 capsules | Not stated |
+| 192020 | Rancycline 250mg Capsule (Sun Pharmaceutical) | Strip of 10 capsules | Not stated |
+| 217158 | Tetra A 250mg Tablet | Strip of 10 tablets | Not stated |
+| 153483 | Nicocycline 500mg Capsule (Abbott) | Strip of 10 capsules | Not stated |
+
+There are 20 valid single-ingredient registrations in total. All are oral capsules or tablets. No ophthalmic formulation appears in the data compiled for this report.
 
 ## Safety Considerations
 
-- **Drug Interactions**: A total of 308 documented interactions were identified. Notable **Major**-level interactions include **Isotretinoin**, **Acitretin**, and **Aminolevulinic acid** (photosensitization/retinoid-related risk). Several **Moderate**-level interactions involve antacid/mineral-containing agents (e.g., aluminum hydroxide, bismuth subcitrate) and other antibiotics (amoxicillin, ampicillin) due to chelation/absorption effects. Given the large number of interactions (308), full screening against a patient's concurrent medication list is recommended before use.
+- **Contraindications suggested by the knowledge graph** (not label text): liver failure, liver disease, kidney disease, kidney failure, uremia, glomerulonephritis, neutropenia, agranulocytosis, G6PD deficiency, epilepsy, diabetes mellitus, diabetic ketoacidosis, gout, peripheral neuropathy, blood coagulation disease, *Clostridium difficile* colitis, respiratory failure, atrial fibrillation, atrioventricular block, and others.
+- **Drug Interactions**: 308 interactions were identified. Major ones include:
+  - Isotretinoin
+  - Acitretin
+  - Aminolevulinic acid
+- **Moderate interactions** include:
+  - Ethinylestradiol
+  - Amoxicillin
+  - Ampicillin
+  - Aluminium hydroxide
+  - Aminophylline
+  - Atracurium
+  - Bismuth subcitrate potassium
+
+Package insert warnings and contraindications could not be obtained for this report. Please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only literature support for this predicted indication is a single 30-year-old case report that documents keratitis occurring *after* successful antibiotic treatment, not a therapeutic effect of tetracycline on the condition itself; combined with zero clinical trials and an L4/S1 evidence rating, the evidence base is insufficient to justify active development.
+The prediction score is high, but the only supporting evidence is a single 1992 case report that does not test tetracycline for this condition. No clinical trials exist, and the available India formulations are oral only. The evidence is insufficient to support a repurposing effort at present.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label warnings and contraindications (currently a blocking data gap — DG001)
-- Confirmed mechanism of action and original approved indication text for Tetracycline (currently a data gap — DG002)
-- Prospective or comparative studies directly evaluating tetracycline (not just doxycycline, its analog) for treatment or prevention of punctate epithelial keratoconjunctivitis
-- Route of administration compatibility assessment (ophthalmic vs. systemic) — currently marked "pending" in the evidence pack
-- Note: a related candidate, **chronic rhinosinusitis** (rank 3, L2/S2), has substantially stronger evidence (multiple RCTs and a systematic review/meta-analysis) but is based almost entirely on **doxycycline**, not tetracycline itself; if this program is pursued, that indication with an explicit tetracycline-vs-doxycycline extrapolation assessment may be a more productive next step than punctate keratoconjunctivitis.
+- Package insert warnings and contraindications from the India product labels, which are required for safety screening
+- Detailed mechanism of action data
+- Clinical evidence testing tetracycline in punctate epithelial keratoconjunctivitis, and an assessment of whether an ophthalmic formulation is available or needed
+- Separately, the chronic rhinosinusitis prediction (L3, class-level evidence from doxycycline) could be framed as a research question. It should not be treated as support for tetracycline itself.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

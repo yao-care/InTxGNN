@@ -2,7 +2,7 @@
 layout: default
 title: Theophylline
 parent: Model Prediction Only (L5)
-nav_order: 821
+nav_order: 828
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,78 +29,109 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Theophylline: From Bronchodilator Therapy (Asthma/COPD) to Predicted Thrombotic Disease
+# Theophylline: From Asthma and Chronic Airway Disease to Thrombotic Disease
 
 ## One-Sentence Summary
 
-Theophylline is a classic methylxanthine bronchodilator, long used internationally for asthma and chronic obstructive pulmonary disease (COPD), though this original indication is not captured in the structured regulatory data for this evidence pack (data gap).
-The TxGNN model's top-ranked prediction for this drug is **Thrombotic Disease** (score 99.62%), but the supporting evidence is currently very thin — **0 clinical trials** and **20 publications**, most of which are indirect background studies on platelet biomarkers rather than direct evidence of an antithrombotic effect.
-Overall confidence in this specific candidate is low; a separate candidate in this same evidence pack (obstructive lung disease, rank 5) has far stronger clinical evidence and is not covered by this report.
+Theophylline is a long-established bronchodilator, originally used for asthma, bronchitis, emphysema and related airway diseases.
+The TxGNN model predicts it may be effective for **thrombotic disease**, but there are **0 clinical trials** and **19 retrieved publications**, none of which evaluates theophylline as an antithrombotic.
+This prediction rests on model output alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in structured regulatory data (data gap); internationally recognized as a bronchodilator for asthma/COPD based on literature context in this pack |
-| Predicted New Indication | Thrombotic Disease |
+| Original Indication | Asthma (also intrinsic and allergic asthma, bronchitis, emphysema, other lung and bronchial disease) |
+| Predicted New Indication | Thrombotic disease |
 | TxGNN Prediction Score | 99.62% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data for theophylline is not available in this evidence pack. Based on general pharmacological knowledge, theophylline is a non-selective phosphodiesterase (PDE) inhibitor and adenosine receptor antagonist, a mechanism well established for its bronchodilator and anti-inflammatory effects in asthma/COPD (see literature in the "obstructive lung disease" candidate elsewhere in this pack).
+Theophylline is a nonselective phosphodiesterase (PDE) inhibitor and an adenosine receptor antagonist. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description comes from general pharmacology.
 
-The link to thrombotic disease is mechanistically speculative rather than established: PDE inhibition can theoretically raise intracellular cAMP in platelets and reduce platelet activation, which is the rationale behind several approved antiplatelet/vasodilator drugs (e.g., cilostazol). However, none of the literature identified for this candidate directly tests theophylline's effect on thrombosis or platelet aggregation in a treatment context — most articles use theophylline incidentally (e.g., as a component of anticoagulant/reagent buffers in laboratory assays) rather than as a therapeutic agent under study.
+Inhibiting PDE can raise cyclic AMP in platelets, which can weakly reduce platelet aggregation. That is a plausible but unproven link to thrombosis. The old airway indication (bronchodilation) and the predicted thrombotic indication share only this general cAMP pathway.
 
-As stated in the underlying evidence review: *"Literature is mostly background research on platelet biomarkers/inflammatory mechanisms; there is no proof that theophylline directly inhibits thrombus formation. PDE inhibitors could theoretically affect platelet activation, but there is no clinical validation pathway."* This places the candidate at evidence level L5 with no clinical trial support.
+The high TxGNN score is not backed by clinical data. The retrieved literature mostly covers platelet biomarkers, ticlopidine pharmacokinetics, assay methods and a theophylline biosensor.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
+
+None of the retrieved papers tests theophylline as a treatment for thrombosis. The most relevant items are listed below, mostly background on platelet cAMP biology or older work on theophylline derivatives in vascular disease.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6771102](https://pubmed.ncbi.nlm.nih.gov/6771102/) | 1980 | Review | CRC Crit Rev Biochem | Reviews thromboxane A2/prostacyclin balance in platelet aggregation and atherosclerosis; does not address theophylline directly |
-| [21719422](https://pubmed.ncbi.nlm.nih.gov/21719422/) | 2011 | Cohort/Ex vivo | Rheumatology (Oxford) | Platelet/neutrophil activation ex vivo in Behçet's disease patients; theophylline not a study drug |
-| [15475744](https://pubmed.ncbi.nlm.nih.gov/15475744/) | 2004 | Cohort | Inflammatory Bowel Diseases | Platelet-leukocyte aggregate formation in IBD linked to thrombotic risk; theophylline not administered |
-| [8055680](https://pubmed.ncbi.nlm.nih.gov/8055680/) | 1994 | PK study (ticlopidine) | Clinical Pharmacokinetics | Reviews antiplatelet drug ticlopidine pharmacokinetics; theophylline not the subject |
-| [32824700](https://pubmed.ncbi.nlm.nih.gov/32824700/) | 2020 | Methodology study | Cells | Evaluates anticoagulation/sample-processing effects on platelet-derived microRNA signatures; theophylline not a treatment variable |
-| [25856065](https://pubmed.ncbi.nlm.nih.gov/25856065/) | 2015 | Assay development | Platelets | Develops sCLEC-2 assay to detect platelet activation in thrombotic disease risk; theophylline not tested |
-| [749930](https://pubmed.ncbi.nlm.nih.gov/749930/) | 1978 | Assay development | British Journal of Haematology | Describes PF4 radioimmunoassay; theophylline used only as a component of the anticoagulant reagent, not as treatment |
-| [26764324](https://pubmed.ncbi.nlm.nih.gov/26764324/) | 2016 | In vitro study | The Journal of Nutrition | Aged garlic extract inhibits platelet aggregation via cAMP/cGMP pathways; theophylline not studied |
-| [6241135](https://pubmed.ncbi.nlm.nih.gov/6241135/) | 1984 | Cohort (historical) | Cor et Vasa | Describes "theophylline-resistant" T-lymphocyte subsets elevated in vascular disease patients; immunological marker only, not a treatment study |
-| [8981060](https://pubmed.ncbi.nlm.nih.gov/8981060/) | 1996 | In vitro pharmacology | General Pharmacology | Studies milrinone/adenosine interplay in platelet inhibition via cAMP; theophylline not the primary agent |
+| [8981060](https://pubmed.ncbi.nlm.nih.gov/8981060/) | 1996 | Laboratory study | General Pharmacology | Milrinone (another PDE inhibitor) reduced platelet aggregation and raised platelet cAMP, and it interacted with adenosine's effect. Theophylline was not studied. |
+| [6771102](https://pubmed.ncbi.nlm.nih.gov/6771102/) | 1980 | Review | CRC Critical Reviews in Biochemistry | Describes prostacyclin acting through adenylate cyclase and cAMP to inhibit platelet aggregation. This is background for the cAMP mechanism. |
+| [4776567](https://pubmed.ncbi.nlm.nih.gov/4776567/) | 1973 | Not classified | Minerva Cardioangiologica | Theophylline nicotinate derivative studied in chronic obliterating peripheral arteriopathy. No abstract available. |
+| [5136470](https://pubmed.ncbi.nlm.nih.gov/5136470/) | 1971 | Not classified | Cardiologia Practica | Cardiocirculatory effects of a theophylline nicotinate ester in cerebral and peripheral angiopathies. No abstract available. |
+| [5605983](https://pubmed.ncbi.nlm.nih.gov/5605983/) | 1967 | Not classified | Annali di Ottalmologia e Clinica Oculistica | Theophylline nicotinate in some retinal vascular diseases. No abstract available. |
+| [8055680](https://pubmed.ncbi.nlm.nih.gov/8055680/) | 1994 | Pharmacokinetic review | Clinical Pharmacokinetics | Concerns ticlopidine, not theophylline. It is relevant only as background on antiplatelet drugs. |
+| [749930](https://pubmed.ncbi.nlm.nih.gov/749930/) | 1978 | Assay method | British Journal of Haematology | Theophylline appears only as an additive in the anticoagulant solution used for a platelet factor 4 assay. |
+| [29254574](https://pubmed.ncbi.nlm.nih.gov/29254574/) | 2018 | Analytical method | Analytica Chimica Acta | Electrochemical aptasensor for detecting theophylline. It is not about antithrombotic efficacy. |
+
+---
 
 ## India Market Information
 
-Currently no registration information available — this drug is not marketed in India according to the available regulatory data.
+Twenty single-ingredient theophylline registrations are valid and none are cancelled. The registration records do not state an approved indication. Five main registrations:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 221818 | Theobid 600mg Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 222065 | TR Phyllin 250mg Capsule | Strip of 10 capsules | Not specified |
+| Registration No. 64646 | Duralyn 400mg Capsule CR | Strip of 10 controlled-release capsules | Not specified |
+| Registration No. 230300 | Unicontin-E 600 Tablet CR | Strip of 10 controlled-release tablets | Not specified |
+| Registration No. 150742 | New Theo-Asthalin Syrup | Bottle of 100 ml syrup | Not specified |
+
+---
 
 ## Safety Considerations
 
-**Drug Interactions**: A total of 371 documented drug-drug interactions were identified for theophylline. Notable examples from the available sample include:
-- **Major**: Bupropion
-- **Moderate**: Famotidine, Ranitidine, Rabeprazole, Doxycycline, Hydrocortisone, Triamcinolone, Omeprazole, Dexamethasone, Betamethasone, Tetracycline, Budesonide, Cimetidine, Clarithromycin, Minocycline, Activated charcoal
-- **Minor**: Ephedrine, Ephedrine (nasal)
+- **Disease associations flagged as contraindications (knowledge graph, not label text):**
+  - Cardiovascular and neurological: hypertension, epilepsy.
+  - Mental health: anxiety, psychotic disorders, schizophreniform and schizoaffective disorders, neurotic and dysthymic disorders.
+  - Liver, kidney and gallbladder: liver failure, liver disease, kidney disease, gallbladder disease.
+  - Metabolic and endocrine: porphyria, hypothyroidism, diabetes mellitus, diabetic ketoacidosis.
+  - Blood: thrombocytopenia, neutropenia, agranulocytosis.
+  - Other: peptic ulcer disease, open-angle glaucoma, benign prostatic hyperplasia, dermatitis herpetiformis.
+- **Drug interactions:** 371 interactions are recorded.
+  - Major: bupropion.
+  - Moderate: H2 blockers and PPIs (famotidine, ranitidine, cimetidine, omeprazole, rabeprazole), corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), tetracyclines (doxycycline, tetracycline, minocycline), clarithromycin, activated charcoal and some bowel-preparation agents.
+  - Minor: ephedrine.
+- **General:** Theophylline has a narrow therapeutic window, so any new use would need serum level monitoring. Please also refer to the package insert, as label warnings were not available in the data compiled for this report.
 
-Given the very high total interaction count (371), theophylline's known narrow therapeutic index should be assumed even where specific label warnings and contraindications are not yet available in this system (see data gaps below).
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score for thrombotic disease is high, but there is no clinical trial evidence and the supporting literature is almost entirely indirect (platelet biomarker/assay studies), with no article directly evaluating theophylline as a treatment for thrombotic disease. This corresponds to evidence level L5 / decision stage S0, insufficient to support further development at this time.
+The 99.62% TxGNN score is not supported by any clinical trial or relevant publication. The only link is a plausible but unproven platelet cAMP effect. Theophylline also has a narrow therapeutic window and many drug interactions.
+
+Among the other predictions, only obstructive lung disease has strong support (L1, Proceed with Guardrails). That is essentially theophylline's existing labeled airway use, not true repurposing.
 
 **To proceed, the following is needed:**
-- Regulatory label warnings and contraindications for theophylline (currently a **blocking** data gap — needed before any S1 safety screening can occur)
-- Confirmed mechanism-of-action data (currently a **high-severity** data gap affecting mechanistic-linkage analysis)
-- Dedicated preclinical or clinical studies directly testing theophylline's antithrombotic/antiplatelet activity, rather than incidental appearances in unrelated platelet biomarker research
-- Note: this same evidence pack contains a substantially better-supported candidate — **obstructive lung disease** (rank 5, evidence level L1, decision stage S3, "Proceed with Guardrails") — which may warrant its own dedicated evaluation report rather than being deprioritized in favor of the top TxGNN-ranked but weakly supported thrombotic disease candidate.
+- Preclinical or ex vivo data showing that theophylline at clinically achievable concentrations meaningfully inhibits platelet aggregation or thrombus formation
+- Any clinical signal (observational or interventional) for theophylline in thrombotic outcomes
+- Package insert warnings and contraindications from the Indian regulator's records, so a safety screen can be done
+- Detailed mechanism-of-action data from DrugBank
+- A dosing and monitoring plan that addresses the narrow therapeutic index, CYP1A2 variability and the interaction burden
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

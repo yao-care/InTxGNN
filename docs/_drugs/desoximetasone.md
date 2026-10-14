@@ -2,7 +2,7 @@
 layout: default
 title: Desoximetasone
 parent: High Evidence (L1-L2)
-nav_order: 245
+nav_order: 247
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,83 +29,73 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Desoximetasone: From Skin Inflammation to Alopecia Areata
+# Desoximetasone: From Inflammatory Skin Conditions to Alopecia Areata
 
 ## One-Sentence Summary
 
-Desoximetasone is a potent topical corticosteroid originally used to reduce skin inflammation caused by allergic reactions, eczema, and psoriasis, acting through the glucocorticoid receptor (NR3C1) to suppress pro-inflammatory pathways.
-The TxGNN model predicts it may be effective for **Alopecia Areata (圓禿)**,
-with **0 registered clinical trials** and **1 RCT publication** currently supporting this direction.
-
----
+Desoximetasone is a potent topical corticosteroid, originally used for inflammatory skin conditions such as atopic dermatitis, contact dermatitis, seborrheic dermatitis and discoid lupus erythematosus.
+The TxGNN model predicts it may be effective for **alopecia areata**,
+with **1 randomized, double-blind, placebo-controlled trial publication** and **no registered clinical trials** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Skin inflammation from allergic reactions, eczema, and psoriasis |
-| Predicted New Indication | Alopecia Areata |
+|------|------|
+| Original Indication | Inflammatory skin conditions (e.g., atopic dermatitis, contact dermatitis, seborrheic dermatitis, discoid lupus erythematosus). Approved indication text was not available on the India licences. |
+| Predicted New Indication | Alopecia areata |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Desoximetasone is a potent topical corticosteroid that binds to the glucocorticoid receptor (GR, encoded by *NR3C1*). Upon binding, the activated GR complex translocates to the nucleus and suppresses transcription of pro-inflammatory cytokines—including IL-2, IFN-γ, and TNF-α—primarily via inhibition of the NF-κB signalling pathway. This results in reduced immune cell infiltration, decreased vascular permeability, and localised immunosuppression at the site of application.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, desoximetasone is a potent topical corticosteroid that acts on the glucocorticoid receptor (NR3C1). It is used to reduce skin inflammation from allergic reactions, eczema and psoriasis.
 
-Alopecia areata (AA) is an autoimmune condition driven by CD8⁺ T-cell infiltration around the hair bulb (the "peribulbar lymphocytic infiltrate"). These T cells target hair follicles that have lost their normal immune privilege, triggering follicular apoptosis and hair loss. Desoximetasone's mechanism of action directly addresses this pathology: by suppressing IL-2 and IFN-γ production, it reduces T-cell activation and peribulbar infiltration, thereby restoring follicular immune privilege and allowing hair regrowth.
+Alopecia areata is an autoimmune condition in which T-cell-mediated attack on hair follicles causes hair loss. Desoximetasone is already used in several immune-mediated and inflammatory skin diseases, including primary cutaneous T-cell lymphoma and discoid lupus erythematosus. Local glucocorticoid-mediated suppression of inflammation around the follicle is therefore mechanistically plausible, and topical corticosteroids are already used for this condition.
 
-The mechanistic connection between desoximetasone's established anti-inflammatory action in eczema/psoriasis and its predicted utility in alopecia areata is therefore well-grounded. Both conditions share aberrant cutaneous immune activation as their core pathology. Notably, this prediction is supported by a published randomised double-blind placebo-controlled trial (Charuwichitratana et al., 2000), lending direct clinical credibility to the TxGNN model's top-ranked prediction.
-
----
+The one identified study is a randomized, double-blind, placebo-controlled trial of 0.25% desoximetasone cream in alopecia areata. Its abstract was not available, so the outcome is not confirmed here.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [11030789](https://pubmed.ncbi.nlm.nih.gov/11030789/) | 2000 | RCT | Archives of Dermatology | Randomised double-blind placebo-controlled trial evaluating 0.25% desoximetasone cream in the treatment of alopecia areata |
-
----
+|------|-----|------|------|---------|
+| [11030789](https://pubmed.ncbi.nlm.nih.gov/11030789/) | 2000 | RCT | Archives of Dermatology | Randomized, double-blind, placebo-controlled trial of 0.25% desoximetasone cream in alopecia areata (abstract not available; outcome not confirmed) |
 
 ## India Market Information
 
-Desoximetasone currently holds no drug authorisations in India. No registration records are available for this product.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 244552 | Xinasone HP Cream (Lupin Ltd) | Tube of 15 gm cream | Not specified |
+| 174397 | Provate-D Cream (Percos India Pvt Ltd) | Tube of 15 gm cream | Not specified |
+| 60538 | Dexomet Cream (Sun Pharmaceutical Industries Ltd) | Tube of 15 gm cream | Not specified |
+| 72679 | Emcor Cream (Emcure Pharmaceuticals Ltd) | Packet of 15 gm cream | Not specified |
 
 ## Safety Considerations
 
-**Drug-Target Pharmacology:**
-Desoximetasone binds to the **Glucocorticoid receptor (GR / NR3C1, Entrez Gene ID: 2908)**. As a potent topical corticosteroid (synonyms: Topicort®, R-2113, HOE-304), its pharmacological activity is mediated entirely through this receptor. Known class-level safety concerns for potent topical corticosteroids include skin atrophy, telangiectasia, striae, and hypothalamic-pituitary-adrenal (HPA) axis suppression with prolonged or extensive use.
+- **Contraindications (from knowledge-graph associations, not label text)**: The drug-disease contraindication links include pituitary hormone deficiencies (e.g., hypopituitarism, growth hormone deficiency, hypogonadotropic hypogonadism, Kallmann syndrome, Sheehan syndrome), thymus gland disease, skin atrophy, and peripheral vascular disease (peripheral arterial disease, intermittent claudication). Skin atrophy is particularly relevant to prolonged topical use.
+- **Drug Interactions**: Only a pharmacological target association was identified (glucocorticoid receptor, NR3C1). No specific drug-drug interactions were reported.
 
-Please refer to the package insert for complete warnings, contraindications, and precaution information, as detailed safety data was not available in the current evidence pack.
-
----
+Please also refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-A randomised double-blind placebo-controlled trial directly testing 0.25% desoximetasone cream in alopecia areata provides Level 2 evidence, and the mechanistic rationale linking GR-mediated immunosuppression to follicular immune privilege restoration is clear and biologically coherent. However, the drug is not currently marketed in India, and full safety documentation (package insert warnings and contraindications) is absent from the current evidence pack.
+A randomized, double-blind, placebo-controlled trial of desoximetasone in alopecia areata exists, the drug class is already used for this condition, and the drug is marketed in India as a topical cream. However, the trial outcome is unconfirmed and there are no registered trials, so this is best treated as a research question rather than a ready indication.
 
 **To proceed, the following is needed:**
-
-- Obtain and review the full prescribing information / package insert (TFDA or equivalent) for detailed warnings and contraindications
-- Confirm the full text and efficacy data of PMID 11030789 (Charuwichitratana et al., 2000) to assess effect size and responder rate
-- Conduct a systematic search for additional RCTs or controlled studies on topical corticosteroids (class effect) in alopecia areata to strengthen evidence grading toward L1
-- Evaluate the regulatory pathway for India market entry, including required clinical data packages
-- Define a safety monitoring plan covering HPA axis assessment and local skin effects for the target alopecia areata population
+- Full text or abstract of PMID 11030789 to confirm efficacy and safety results
+- Package insert warnings and contraindications for the Indian products
+- Detailed mechanism of action data
+- Assessment of skin atrophy risk and the application duration and site limits for scalp use
+- Confirmation of the approved indications on the Indian licences
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

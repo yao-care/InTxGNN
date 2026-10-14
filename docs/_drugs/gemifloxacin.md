@@ -2,7 +2,7 @@
 layout: default
 title: Gemifloxacin
 parent: Model Prediction Only (L5)
-nav_order: 386
+nav_order: 390
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,12 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Gemifloxacin: From Bacterial Infections to Hyperamylasemia
+# Gemifloxacin: From Bacterial Pneumonia to Hyperamylasemia
 
 ## One-Sentence Summary
 
-> Gemifloxacin is a fluoroquinolone antibacterial agent; per the notes embedded in this evidence pack, it acts by inhibiting bacterial DNA gyrase/topoisomerase IV and its antibacterial spectrum concentrates on respiratory pathogens such as *Streptococcus pneumoniae*.
-> The TxGNN model predicts a possible association with **Hyperamylasemia**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the evidence pack itself notes no known biological pathway connecting the drug's antibacterial mechanism to this outcome.
+Gemifloxacin is a fluoroquinolone antibacterial, originally used to treat bacterial pneumonia, including streptococcal, Klebsiella, Mycoplasma and chlamydial pneumonia.
+The TxGNN model predicts it may be effective for **Hyperamylasemia**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction.
+The high score is most likely an artifact of the knowledge graph rather than a biological signal.
 
 ---
 
@@ -42,48 +43,66 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (fluoroquinolone antibacterial) — no formal India/Taiwan market license record is available to cite a specific approved indication text |
+| Original Indication | Bacterial pneumonia (streptococcal, Klebsiella, Mycoplasma pneumoniae and chlamydial pneumonia) |
 | Predicted New Indication | Hyperamylasemia |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
+
+*Note: The approved indication text is not available in the India registration records compiled for this report. The original indications above come from the TxGNN knowledge graph.*
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action (MOA) data is not available for Gemifloxacin in this evidence pack — it is flagged as a **High-severity data gap (DG002)**. Based on information embedded in the repurposing-rationale text of this evidence pack, Gemifloxacin belongs to the fluoroquinolone class of antibacterials, working through inhibition of bacterial DNA gyrase and topoisomerase IV, with an antibacterial spectrum noted to concentrate on respiratory pathogens such as *Streptococcus pneumoniae*.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on general knowledge, gemifloxacin is a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Its efficacy in respiratory bacterial infections is the basis of its original use.
 
-The relationship between the original indication (bacterial infection) and the top-ranked predicted indication (Hyperamylasemia) is weak. Hyperamylasemia is a metabolic/pancreatic biochemical abnormality; per the evidence pack's own assessment, it has **no known biological pathway connection** to Gemifloxacin's DNA gyrase/topoisomerase IV inhibition mechanism. The very high TxGNN score (99.89%) more likely reflects topological similarity in the knowledge graph's node embeddings (e.g., shared neighbors within the same drug class) rather than a causal pharmacological relationship — a caveat the evidence pack states explicitly.
+For hyperamylasemia, **no mechanistic link was identified**. Hyperamylasemia is a laboratory finding with varied causes (pancreatic, salivary, renal), not a bacterial disease. An antibacterial DNA gyrase inhibitor has no known effect on it. The high TxGNN score is likely a knowledge-graph artifact.
 
-Across all ten TxGNN-predicted indications in this pack, mechanistic plausibility is generally low to absent (hyperamylasemia, polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, premalignant hematological disease, monoclonal gammopathy, and congenital hematological disorder are all noted as having no biologically plausible link to an antibacterial mechanism). Two exceptions are only partially plausible: septicemic plague (rank 8) has class-level plausibility because fluoroquinolones are an accepted alternative treatment for *Yersinia pestis*, but no Gemifloxacin-specific evidence exists; endomyometritis (rank 10) has theoretical antibacterial relevance, but Gemifloxacin's spectrum has limited anaerobic coverage and is not a standard choice for this indication. One prediction (rank 7, hematological disease with acquired peripheral neuropathy) is flagged as potentially **conflicting with a known fluoroquinolone class safety signal** (peripheral neuropathy risk) rather than supporting a therapeutic use.
+The other top predictions show the same pattern. Most are haematological or immunological conditions (polyclonal hyperviscosity syndrome, congenital analbuminemia, monoclonal gammopathy, blood group incompatibility) with no plausible mechanism. These predictions appear to be semantically clustered in the graph. Two lower-ranked predictions have an indirect antibacterial rationale and are worth noting as research questions:
+
+- **Septicemic plague (score 99.67%, L4):** *Yersinia pestis* is susceptible to fluoroquinolones such as ciprofloxacin, levofloxacin and moxifloxacin. Gemifloxacin shares the same mechanism and may be active in vitro, but this rests on class-effect inference only.
+- **Endomyometritis (score 99.30%, L4):** This is a polymicrobial pelvic infection usually needing anaerobic coverage, which gemifloxacin covers only to a limited extent. Fluoroquinolone use in pregnancy and the postpartum period is also a safety concern.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## India Market Information
 
-No registration or license records are available for Gemifloxacin in this jurisdiction. Market status is recorded as **Not marketed** with **0 total licenses**.
+Showing 5 of 20 valid registrations (all single-ingredient products).
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 31898 | Biogem 200mg Injection (United Biotech Pvt Ltd) | Vial of 1 injection | Not stated |
+| 32541 | Biogem 1000mg Injection (United Biotech Pvt Ltd) | Vial of 1 injection | Not stated |
+| 94597 | G-Cin Tablet (Lupin Ltd) | Strip of 5 tablets | Not stated |
+| 29736 | Biogem 320mg Tablet (Biochem Pharmaceutical Industries) | Strip of 5 tablets | Not stated |
+| 183792 | Quinhext 320mg Tablet (Sanofi India Ltd) | Strip of 5 tablets | Not stated |
+
+The remaining registrations are mostly 320 mg tablets from various manufacturers.
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: 273 total documented interactions were identified (source: DDInter). Among the interactions listed, **Major-level** interactions include Hydrocortisone, Betamethasone, Chlorpropamide, and Dolasetron. **Moderate-level** interactions include Metformin, Pioglitazone, Acarbose, Bisacodyl, Calcium acetate, Clarithromycin, Famotidine, Acetylsalicylic acid, and several glucose-lowering agents (Albiglutide, Alogliptin, Canagliflozin, Dapagliflozin, Dulaglutide, Empagliflozin, Loperamide) — a pattern consistent with the known fluoroquinolone-class risk of glycemic disturbance when combined with antidiabetic agents. **Minor-level**: Cimetidine.
-- **Note**: Official label-level safety information (key warnings and contraindications) is not yet available in this evidence pack. This is flagged as a **Blocking-severity data gap (DG001)** and prevents the candidate from entering the S1 safety pre-assessment stage.
+- **Contraindication signals from the knowledge graph** (not label text): long QT syndrome (including familial), torsades de pointes, epilepsy, myasthenia gravis and other neuromuscular junction diseases, peripheral neuropathy and other peripheral nervous system diseases, tendinitis and related tendon/joint disorders, impaired renal function, potassium deficiency, *Clostridium difficile* colitis, and anxiety and related psychiatric disorders.
+- **Drug interactions:** 273 interactions were identified. Examples at **Major** level include hydrocortisone, betamethasone, chlorpropamide and dolasetron. **Moderate** examples include clarithromycin, metformin, acarbose, famotidine, aspirin, calcium acetate and several SGLT2 inhibitors, DPP-4 inhibitors and GLP-1 agonists. Interactions with corticosteroids, QT-prolonging drugs and antidiabetic agents deserve particular attention.
+- **Class-related concern:** Fluoroquinolones carry a boxed warning for peripheral neuropathy and can cause immune haemolytic anaemia. This runs contrary to the predicted benefit in the haematological and neuropathy-related predictions.
+
+Please refer to the package insert for the official warnings and contraindications.
 
 ---
 
@@ -92,13 +111,14 @@ No registration or license records are available for Gemifloxacin in this jurisd
 **Decision: Hold**
 
 **Rationale:**
-All ten TxGNN-predicted indications in this pack are rated Evidence Level L5 (model prediction only, zero supporting clinical trials or publications) with decision stage S0, and the evidence pack itself recommends "Hold" for every candidate. The mechanistic rationale for the top-ranked prediction (Hyperamylasemia) is explicitly assessed as lacking a known biological pathway, and the drug currently has no market presence (0 registrations). Combined with a Blocking-severity gap on official label warnings/contraindications (DG001) and a High-severity gap on MOA (DG002), this candidate cannot yet proceed to safety review.
+The prediction for hyperamylasemia has no clinical trials, no literature and no plausible mechanism, so it is best treated as a knowledge-graph artifact. Among all the predictions, only septicemic plague and endomyometritis have a credible antibacterial rationale, and both remain research questions at L4.
 
 **To proceed, the following is needed:**
-- Official label/regulatory safety data (warnings, contraindications) — Blocking gap DG001
-- Verified mechanism of action documentation — High-severity gap DG002
-- Drug-specific preclinical or clinical evidence connecting Gemifloxacin to Hyperamylasemia (currently zero trials/publications)
-- If the septicemic plague signal (rank 8) is pursued instead, dedicated pharmacokinetic/pharmacodynamic data against *Yersinia pestis* are needed, since current support is class-level extrapolation only, not drug-specific evidence
+- Package insert warnings and contraindications from the India registrations (currently a blocking gap for safety screening)
+- Mechanism of action data
+- For septicemic plague: in vitro susceptibility data for gemifloxacin against *Yersinia pestis* and any animal-model data
+- For endomyometritis: evidence on spectrum of activity, including anaerobic coverage, and a pregnancy/postpartum safety assessment
+- Confirmation of route compatibility (oral tablets and injectable forms are registered in India)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

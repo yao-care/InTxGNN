@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Magnesium Carbonate
-parent: High Evidence (L1-L2)
-nav_order: 507
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 512
+evidence_level: L5
 indication_count: 10
 ---
 
 # Magnesium Carbonate
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,106 +29,78 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Magnesium Carbonate: From Antacid Use to Active Peptic Ulcer Disease
+# Magnesium Carbonate: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
 
 ## One-Sentence Summary
 
-Magnesium carbonate (MgCO₃) is an alkaline mineral compound historically used as an antacid component in over-the-counter gastrointestinal preparations, though it carries no formally registered therapeutic indication in India.
-The TxGNN model predicts it may be effective for **Active Peptic Ulcer Disease** with a confidence score of 99.96%, directly consistent with its established acid-neutralizing chemistry.
-This direction is currently supported by **0 registered clinical trials** and **4 publications** (including 3 RCTs), placing it at evidence level L2.
-
----
+Magnesium carbonate is an antacid originally used for acid-related conditions such as peptic ulcer disease, gastroesophageal reflux disease and dyspepsia.
+The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but this is largely an overlap with its existing use rather than a true new indication.
+Support is weak: **0 clinical trials** and **1 publication** (an in vitro antacid quality study) are currently available.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No formally registered indication (used as antacid excipient/component) |
-| Predicted New Indication | Active Peptic Ulcer Disease |
+|------|------|
+| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, esophagitis, constipation, dyspepsia (the India licence records list no indication text) |
+| Predicted New Indication | Active peptic ulcer disease |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
+| Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available. Based on known information, magnesium carbonate is an antacid that neutralizes gastric acid. Its use in acid-related disease is established, and mechanistically it may be applicable to active peptic ulcer disease through symptom relief.
 
-Magnesium carbonate is an inorganic alkaline salt that reacts directly with hydrochloric acid in the stomach via a well-characterized neutralization reaction: **MgCO₃ + 2HCl → MgCl₂ + H₂O + CO₂**. This reaction effectively raises intragastric pH to ≥3.5, reducing the corrosive impact of gastric acid on the ulcerated mucosa. The mechanism is straightforward and mechanistically inseparable from the very pathophysiology of acid-peptic ulcer disease — excessive acid secretion eroding an insufficiently protected mucosal barrier.
+Active peptic ulcer disease overlaps closely with the original peptic ulcer disease indication. The prediction is therefore better read as a confirmation of existing use than as a new repurposing opportunity. Acid neutralization can relieve symptoms, but the data compiled for this report contain no clinical outcome data on ulcer healing.
 
-The pathological link between magnesium carbonate's mechanism and active peptic ulcer disease is direct and biologically well-founded. Peptic ulcers develop when the balance between aggressive factors (acid, pepsin) and defensive factors (mucus, bicarbonate, prostaglandins) is disrupted. Acid neutralization by an antacid like magnesium carbonate directly addresses the aggressive side of this equation, reducing acid load on exposed ulcer beds and allowing mucosal healing to proceed. Multiple RCTs from the 1980s — when antacids were still first-line therapy — demonstrated healing rates of 50–75% at 3–4 weeks with high-dose antacid regimens, comparable to cimetidine (H2 antagonist) in head-to-head trials.
-
-Currently, detailed mechanism-of-action data from DrugBank is not available for this candidate. However, based on its well-known physicochemical properties, magnesium carbonate belongs to the antacid class (alkaline carbonate salts) alongside calcium carbonate and sodium bicarbonate. Its empirical efficacy in acid-related GI conditions is supported by decades of clinical use in compound antacid formulations such as Caved-S and Novaluzid, both of which contain magnesium salts as active components.
-
----
+Other top-ranked predictions are mostly further acid-related conditions: gastric ulcer, duodenal ulcer, gastroduodenitis, gastrojejunal ulcer and duodenogastric reflux. Several have indirect support from in vitro or mucosal-protection studies. Predictions for peptic ulcer perforation, gastroparesis and duodenal obstruction have no supporting studies and weak mechanistic rationale, since these are surgical or motility problems that an antacid would not treat.
 
 ## Clinical Trial Evidence
 
-Currently no clinical trials specifically registered for Magnesium Carbonate in Active Peptic Ulcer Disease.
-
-> **Note:** For the broader "Stomach Disease" category (Rank 7 indication), 2 completed Phase 1 trials directly assessed the antacid activity of magnesium-containing preparations using pH-metry (NCT03069963, n=24) and gamma scintigraphy (NCT03065816, n=34), providing indirect pharmacodynamic support.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [7034155](https://pubmed.ncbi.nlm.nih.gov/7034155/) | 1981 | RCT | Scand J Gastroenterol | 72-patient 12-week double-blind trial: antacid + anticholinergic vs. cimetidine vs. placebo in active duodenal/prepyloric ulcers; 50% healing at 3 weeks with antacid arm (vs. 67% cimetidine, 17% placebo) |
-| [6755656](https://pubmed.ncbi.nlm.nih.gov/6755656/) | 1982 | RCT | Scand J Gastroenterol Suppl | Treatment of active prepyloric and duodenal ulcers comparing antacid/anticholinergic regimen vs. cimetidine vs. placebo; confirms antacid efficacy in active ulcer healing |
-| [3003883](https://pubmed.ncbi.nlm.nih.gov/3003883/) | 1985 | RCT | Scand J Gastroenterol | 80-patient 4-week RCT: antacid tablets (120 mmol HCl/day neutralizing capacity) in active duodenal ulcer; healing rates 60–67.5% across dietary arms, demonstrating antacid monotherapy efficacy |
-| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | Cross-sectional/Lab | Medicine and Pharmacy Reports | Evaluation of acid-neutralizing capacity (ANC) of antacid formulations marketed in Morocco; provides in vitro characterization of antacid class including carbonate-based preparations |
+|------|-----|------|------|---------|
+| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | In vitro / product quality study | Medicine and Pharmacy Reports | Evaluated the acid-neutralizing capacity and other properties of antacids marketed in Morocco; no clinical outcome data |
 
----
+For the other predicted conditions, only indirect evidence was found. Examples include an in vitro bile acid adsorption study of antacids ([3440273](https://pubmed.ncbi.nlm.nih.gov/3440273/)), a human mucosal protection study against aspirin-induced injury using aluminium hydroxide–magnesium carbonate gel ([3913424](https://pubmed.ncbi.nlm.nih.gov/3913424/)), and an artificial stomach-duodenum model of antacid efficacy ([8763049](https://pubmed.ncbi.nlm.nih.gov/8763049/)). None studied patients with these ulcer conditions directly.
 
 ## India Market Information
 
-Magnesium carbonate (DB09481) currently has **no approved drug registrations** in India. The drug is not marketed as a standalone therapeutic agent.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 175730 | Plegiocard Injection (Samarth Life Sciences Pvt Ltd) | Vial of 20 ml injection | Not stated |
+| 43422 | Cardiplegin Injection (Troikaa Pharmaceuticals Ltd) | Vial of 20 ml injection | Not stated |
 
-> Magnesium carbonate may appear as an excipient or minor component in compound antacid formulations, but no standalone CDSCO license has been identified in the dataset.
-
----
+Both registered products are injectables. Neither is an oral antacid, so the registered forms do not match the route needed for acid-related indications.
 
 ## Safety Considerations
 
-**Drug Interactions (197 interactions identified via DDInter):**
+- **Contraindications (from knowledge-graph disease associations, not label text):** liver failure, liver disease, hepatic coma and encephalopathy, kidney disease, nephrocalcinosis, hypercalcemia, hyperparathyroidism, porphyria, sarcoidosis, thrombocytopenia, neutropenia, agranulocytosis, anemia, diarrheal disease, obstructive sleep apnea, substance abuse/dependence, and anxiety and related disorders. These associations need confirmation against the product labelling.
+- **Drug Interactions:** 197 interactions were recorded. The main ones are:
+  - Major: dolutegravir.
+  - Moderate: acalabrutinib, doxycycline, alendronic acid, risedronic acid, cholecalciferol, amphetamine, acetylsalicylic acid, atazanavir, atropine, azithromycin, baloxavir marboxil, benzphetamine.
+  - Minor: acebutolol, famotidine, ranitidine, alprazolam, atenolol, axitinib, benazepril.
 
-Key clinically significant interactions to be aware of:
-
-| Severity | Interacting Drug | Clinical Relevance |
-|----------|-----------------|-------------------|
-| **Major** | Dolutegravir | Magnesium ions chelate dolutegravir, significantly reducing absorption; must separate dosing by ≥2 hours |
-| Moderate | Alendronic acid / Risedronic acid | Divalent cations markedly reduce bisphosphonate absorption; avoid co-administration |
-| Moderate | Doxycycline | Magnesium chelates tetracycline-class antibiotics; administer separately |
-| Moderate | Azithromycin | Potential reduction in macrolide bioavailability |
-| Moderate | Baloxavir marboxil | Polyvalent cations (Mg²⁺) reduce antiviral absorption; clinically significant |
-| Moderate | Atazanavir | Gastric pH elevation impairs atazanavir absorption (requires acidic environment) |
-| Moderate | Cholecalciferol | Interaction with fat-soluble vitamin metabolism |
-| Moderate | Acetylsalicylic acid | Alkaline pH may alter salicylate absorption and urinary excretion |
-| Moderate | Amphetamine / Benzphetamine | Urinary alkalinization by magnesium reduces amphetamine excretion, increasing CNS effects |
-| Minor | Famotidine / Ranitidine | Additive acid suppression; generally manageable |
-| Minor | Atenolol / Acebutolol | Minor reduction in beta-blocker absorption |
-
-**General safety note:** For detailed warnings and contraindications, please refer to the package insert or prescribing information, as this data was not available in the current evidence pack. Particular attention is warranted in patients with **renal impairment** (risk of hypermagnesemia with regular use) and patients on drugs with pH-dependent or chelation-sensitive absorption profiles.
-
----
+Please refer to the package insert for key warnings and contraindications on the label.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic link between magnesium carbonate and active peptic ulcer disease is clear and biologically direct — acid neutralization is the classical mechanism for reducing mucosal injury in acid-peptic disease, supported by multiple Phase 2/3-level RCTs demonstrating antacid efficacy comparable to H2 antagonists. However, current evidence comes exclusively from compound antacid formulations (not pure magnesium carbonate), and the modern standard of care has shifted to PPI-based H. pylori eradication regimens, requiring careful positioning of any new antacid-based development.
+The predicted indication overlaps with an existing use, and no clinical trials exist. The only direct literature is an in vitro product-quality study, so evidence is at L5. The registered India products are injectables, which do not fit an oral antacid use.
 
 **To proceed, the following is needed:**
-
-- **H. pylori status stratification:** Any new trial must screen and stratify patients for H. pylori status; H. pylori-positive patients require concurrent eradication therapy
-- **Monotherapy evidence:** Existing RCTs used compound antacid formulations; a Phase 2 trial with pure magnesium carbonate is needed to isolate its individual contribution
-- **Renal safety monitoring plan:** Regular assessment of serum magnesium levels, especially in patients with CKD (eGFR <60 mL/min/1.73m²), where hypermagnesemia risk is clinically meaningful
-- **Regulatory pathway clarification:** Define whether this would be developed as a prescription drug, OTC antacid, or medical device food under CDSCO guidelines
-- **TFDA prescribing information / package insert** (data gap DG001): Needed to complete the safety assessment before advancing to Stage 1 screening
-- **India market entry feasibility:** Assess whether a standalone magnesium carbonate antacid formulation has commercial viability given competition from established PPIs, H2 blockers, and combination antacids already on the market
+- Package insert warnings and contraindications from the India licence holders (currently missing and blocking safety screening)
+- Mechanism of action data from DrugBank
+- Confirmation of whether any oral magnesium carbonate product is registered in India
+- Clinical outcome data (such as ulcer healing) for the specific predicted conditions
+- A clearer definition of what counts as a new indication versus the existing peptic ulcer use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

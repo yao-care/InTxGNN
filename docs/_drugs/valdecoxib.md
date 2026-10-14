@@ -2,7 +2,7 @@
 layout: default
 title: Valdecoxib
 parent: Model Prediction Only (L5)
-nav_order: 869
+nav_order: 878
 evidence_level: L5
 indication_count: 2
 ---
@@ -33,110 +33,96 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Valdecoxib (Bextra®) is a selective COX-2 inhibitor approved in the early 2000s for osteoarthritis, rheumatoid arthritis, and primary dysmenorrhea, but voluntarily withdrawn from global markets in 2005 due to cardiovascular and severe skin reaction safety concerns.
-The TxGNN model predicts it may be effective for **Osteoarthritis Susceptibility** (score 99.45%), with **0 clinical trials** and **0 publications** directly supporting this specific predicted indication — placing it at model-prediction-only evidence level.
-A closely related rank-2 prediction, **Rheumatoid Arthritis**, carries substantially stronger support with **1 clinical trial** and **20 publications**; however, the pre-existing withdrawal history means safety must be addressed before any repurposing pathway can proceed.
-
----
+Valdecoxib is a COX-2 selective NSAID used for osteoarthritis, rheumatoid arthritis and primary dysmenorrhoea.
+The TxGNN model predicts it may be effective for **osteoarthritis susceptibility** (top-ranked), and for **rheumatoid arthritis** (second-ranked), which has **1 clinical trial** and **19 publications**.
+Both predictions overlap with the drug's known uses, so they are better read as confirmation of existing use than as new repurposing opportunities.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available in regulatory data (drug withdrawn globally in 2005; historically approved for osteoarthritis, rheumatoid arthritis, and dysmenorrhea) |
-| Predicted New Indication | Osteoarthritis Susceptibility |
+|------|------|
+| Original Indication | Not stated in the licence data compiled for this report (literature describes osteoarthritis, rheumatoid arthritis, dysmenorrhoea) |
+| Predicted New Indication | Osteoarthritis susceptibility |
 | TxGNN Prediction Score | 99.45% |
-| Evidence Level | L5 (model prediction only — 0 clinical trials, 0 publications for this specific indication) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 (for the top-ranked prediction; the rheumatoid arthritis prediction is L3) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on published literature, valdecoxib is a selective cyclo-oxygenase-2 (COX-2) inhibitor. It reduces prostaglandin-mediated inflammation and pain, a symptomatic effect rather than a disease-modifying one.
 
-Currently, detailed mechanism of action data is not available in the structured data fields. Based on information consistently described across the retrieved literature, Valdecoxib is a highly selective inhibitor of cyclooxygenase-2 (COX-2) — the inducible enzyme responsible for prostaglandin synthesis at sites of inflammation, injury, and pain. By selectively blocking COX-2 without suppressing COX-1, it reduces prostaglandin-mediated joint inflammation and pain sensitization while sparing the gastroprotective prostaglandins that COX-1 maintains.
+The top-ranked term, "osteoarthritis susceptibility", refers to genetic predisposition rather than a treatable clinical condition. It most likely maps to the ordinary clinical entity "osteoarthritis", for which valdecoxib was already used. It should be treated as an ontology-mapping artefact, not a novel opportunity. No trials or literature were found for this specific term, so the link rests on the model prediction alone.
 
-Osteoarthritis susceptibility is mechanistically linked to chronic, low-grade inflammatory activity in synovial joints, where COX-2-derived prostaglandins drive cartilage degradation and pain chronification. The pharmacological rationale for a COX-2 inhibitor in this setting is well-established — Valdecoxib was in fact originally approved for osteoarthritis management. The TxGNN prediction is therefore a biologically coherent re-identification of its known therapeutic target. The "susceptibility" framing may reflect the model identifying an early-intervention or disease-modification opportunity in at-risk populations, which is mechanistically plausible given that COX-2 activity has been implicated in early cartilage loss.
-
-It is critical to note that Valdecoxib's 2005 market withdrawal was driven not by lack of efficacy but by confirmed post-marketing safety signals: increased cardiovascular thrombotic event risk (myocardial infarction, stroke) and rare but life-threatening skin reactions (Stevens-Johnson syndrome / toxic epidermal necrolysis). Any repurposing pathway must directly address these liabilities before clinical re-evaluation can be considered.
-
----
+The second prediction, rheumatoid arthritis, is also consistent with the drug's original labelled use. COX-2/prostaglandin signalling plays a role in joint inflammation and pain in both conditions. This supports the biological plausibility, but it is not a true repurposing finding.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for osteoarthritis susceptibility.
-
-> **Supporting context (Rank-2 prediction — Rheumatoid Arthritis):** One completed Phase 4 trial (NCT00650455) evaluated Valdecoxib in rheumatoid arthritis; see table below for reference.
+No clinical trials are registered for osteoarthritis susceptibility. The table below shows the trial found for the second-ranked prediction, rheumatoid arthritis.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT00650455](https://clinicaltrials.gov/study/NCT00650455) | Phase 4 | Completed | 489 | Multicenter RCT comparing Valdecoxib 10 mg QD vs. Naproxen 500 mg BID vs. placebo in severe RA; evaluated efficacy, safety, and tolerability |
-
----
+|---------|------|------|------|---------|
+| [NCT00650455](https://clinicaltrials.gov/study/NCT00650455) | Phase 4 | Completed | 489 | Double-blind, randomized, placebo-controlled study of valdecoxib 10 mg once daily vs naproxen 500 mg twice daily in a severe rheumatoid arthritis population (2003–2005); assessed efficacy, safety and tolerability |
 
 ## Literature Evidence
 
-Currently no related literature available specifically queried for osteoarthritis susceptibility.
-
-> **Supporting context (Rank-2 prediction — Rheumatoid Arthritis):** 20 publications were retrieved; the 10 most relevant are listed below.
+No literature was found for osteoarthritis susceptibility. The table below shows literature for rheumatoid arthritis (10 of 19 publications listed).
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [15363872](https://pubmed.ncbi.nlm.nih.gov/15363872/) | 2004 | Systematic Review / Meta-analysis | *Pain* | Meta-analysis of RCTs: Valdecoxib 10–20 mg was significantly more effective than placebo and comparable to NSAIDs in OA and RA, with better upper GI tolerability |
-| [18405470](https://pubmed.ncbi.nlm.nih.gov/18405470/) | 2008 | Systematic Review / HTA | *Health Technology Assessment* | Comprehensive systematic review and economic evaluation of COX-2 selective NSAIDs (including valdecoxib) for OA and RA; assessed clinical effectiveness and cost-effectiveness |
-| [15740543](https://pubmed.ncbi.nlm.nih.gov/15740543/) | 2005 | Meta-analysis | *Alimentary Pharmacology & Therapeutics* | Meta-analysis comparing upper GI tolerability of valdecoxib vs. nonselective NSAIDs in OA/RA patients; valdecoxib showed significantly lower abdominal pain, dyspepsia, and nausea |
-| [17692722](https://pubmed.ncbi.nlm.nih.gov/17692722/) | 2007 | RCT | *Clinical Therapeutics* | 12-week multicenter double-blind RCT in severe RA: valdecoxib significantly improved signs and symptoms vs. placebo; safety profile compared with naproxen |
-| [12209034](https://pubmed.ncbi.nlm.nih.gov/12209034/) | 2002 | RCT | *Rheumatology (Oxford)* | Randomized controlled trial in RA patients: valdecoxib was significantly more effective than placebo and non-inferior to naproxen in symptom reduction |
-| [16678642](https://pubmed.ncbi.nlm.nih.gov/16678642/) | 2006 | RCT | *Clinical Therapeutics* | Dose-comparison RCT (10, 20, 40 mg QD) vs. naproxen 500 mg BID vs. placebo in RA; all valdecoxib doses demonstrated significant efficacy improvement |
-| [15266215](https://pubmed.ncbi.nlm.nih.gov/15266215/) | 2004 | Pooled Analysis | *American Journal of Therapeutics* | Cardiovascular thrombotic event data pooled from ~8,000 OA/RA patients; quantified the cardiovascular risk that ultimately led to market withdrawal |
-| [15161329](https://pubmed.ncbi.nlm.nih.gov/15161329/) | 2004 | Review | *Drugs* | Comprehensive clinical review covering OA, RA, dysmenorrhea, and acute pain; summarizes efficacy as dose-dependent up to 40 mg/day |
-| [23517091](https://pubmed.ncbi.nlm.nih.gov/23517091/) | 2013 | Review | *Expert Opinion on Pharmacotherapy* | Historical analysis of valdecoxib's regulatory trajectory: effective for rheumatological disease, withdrawn due to GI and cardiovascular risk profile |
-| [40311381](https://pubmed.ncbi.nlm.nih.gov/40311381/) | 2025 | Original Research | *Archives of Medical Research* | Recent study showing valdecoxib ameliorates apoptosis and ferroptosis in tenocytes via SIRT6/NRF2-mediated suppression of oxidative stress — suggests novel cytoprotective mechanisms beyond classical COX-2 inhibition |
-
----
+|------|-----|------|------|---------|
+| [15363872](https://pubmed.ncbi.nlm.nih.gov/15363872/) | 2004 | Systematic Review | Pain | Meta-analysis of randomised trials of valdecoxib 10 or 20 mg vs placebo or NSAIDs in osteoarthritis and rheumatoid arthritis |
+| [17692722](https://pubmed.ncbi.nlm.nih.gov/17692722/) | 2007 | RCT | Clin Ther | 12-week, double-blind, placebo-controlled study of valdecoxib vs naproxen in severe RA |
+| [12209034](https://pubmed.ncbi.nlm.nih.gov/12209034/) | 2002 | RCT | Rheumatology (Oxford) | Randomized comparison of valdecoxib with placebo and naproxen in RA |
+| [16678642](https://pubmed.ncbi.nlm.nih.gov/16678642/) | 2006 | RCT | Clin Ther | Valdecoxib 10, 20 and 40 mg once daily vs placebo and naproxen 500 mg twice daily in RA symptoms |
+| [15266215](https://pubmed.ncbi.nlm.nih.gov/15266215/) | 2004 | Pooled analysis | Am J Ther | Cardiovascular thrombotic events in about 8,000 arthritis patients on valdecoxib, NSAIDs or placebo |
+| [15740543](https://pubmed.ncbi.nlm.nih.gov/15740543/) | 2005 | Meta-analysis | Aliment Pharmacol Ther | Upper gastrointestinal tolerability of valdecoxib vs non-selective NSAIDs in OA and RA |
+| [18405470](https://pubmed.ncbi.nlm.nih.gov/18405470/) | 2008 | Systematic review | Health Technol Assess | Clinical and cost-effectiveness of COX-2 selective NSAIDs, including valdecoxib, in OA and RA |
+| [15161329](https://pubmed.ncbi.nlm.nih.gov/15161329/) | 2004 | Review | Drugs | Valdecoxib effective vs placebo in OA, RA, dysmenorrhoea and postoperative pain; 10 mg/day as effective as naproxen |
+| [12269850](https://pubmed.ncbi.nlm.nih.gov/12269850/) | 2002 | Review | Drugs | Ten large randomised trials showing valdecoxib superior to placebo in OA, RA, dysmenorrhoea and postsurgical analgesia |
+| [23517091](https://pubmed.ncbi.nlm.nih.gov/23517091/) | 2013 | Review | Expert Opin Pharmacother | Rise and fall of valdecoxib as a COX-2 inhibitor |
 
 ## India Market Information
 
-No authorized products found. Valdecoxib currently holds **0 registrations** and is classified as **not marketed** in India.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 240122 | Valigud 10mg Tablet | Strip of 10 tablets | Not stated |
+| 237265 | Vacox 40mg Tablet | Strip of 10 tablets | Not stated |
+| 239198 | Valsafe 20mg Tablet | Strip of 10 tablets | Not stated |
+| 240499 | Valcox 40mg Injection | Vial of 5 ml injection | Not stated |
+| 238421 | Valcib 20mg Tablet | Strip of 10 tablets | Not stated |
 
----
+All 20 registrations are valid single-ingredient products; only the first 5 are shown.
 
 ## Safety Considerations
 
-**Drug Interactions (222 total interactions identified; representative sample below):**
+- **Drug Interactions**: 222 interactions were identified. Those listed include mostly moderate-level ones, such as:
+  - Corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone)
+  - Acetylsalicylic acid
+  - Metformin and sulfonylureas (glimepiride, chlorpropamide)
+  - Mesalazine and balsalazide
+  - Clarithromycin, metronidazole, vancomycin, cimetidine
+  - Aprepitant
+  - Bowel-preparation agents (picosulfuric acid, polyethylene glycol, sodium sulfate)
 
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Acetylsalicylic acid | Moderate | Combination increases GI toxicity; may blunt antiplatelet effect of aspirin |
-| Hydrocortisone / Dexamethasone / Betamethasone / Triamcinolone / Budesonide | Moderate | NSAID + corticosteroid combinations significantly increase GI bleeding and ulceration risk |
-| Metformin / Glimepiride / Chlorpropamide | Moderate | NSAIDs may impair renal clearance and potentiate hypoglycaemic effects |
-| Clarithromycin | Moderate | CYP3A4 inhibition can raise valdecoxib plasma concentrations |
-| Cimetidine | Moderate | Inhibits hepatic metabolism; potential for elevated drug exposure |
-| Vancomycin | Moderate | Combined nephrotoxicity risk; renal monitoring warranted |
-| Mesalazine / Balsalazide | Moderate | Additive GI mucosal injury risk |
-| Metronidazole | Moderate | Interaction mechanism requires clinical monitoring |
-| Omeprazole | Minor | May alter absorption or metabolic profile |
+  Omeprazole is a minor interaction.
+- **Regulatory history (from literature review)**: Valdecoxib was withdrawn from some markets in 2005 over cardiovascular risk and serious skin reactions (including Stevens-Johnson syndrome). This is a major barrier to any further development.
 
-> **Critical Historical Safety Context:** Valdecoxib was voluntarily withdrawn worldwide in April 2005 following post-marketing evidence of (1) increased cardiovascular thrombotic events (MI, stroke) compared to placebo, particularly in post-CABG surgical patients, and (2) disproportionate reports of Stevens-Johnson syndrome and toxic epidermal necrolysis. These represent confirmed, mechanism-linked safety signals — not theoretical risks — and constitute the primary barrier to any repurposing effort.
-
----
+Please also refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Valdecoxib's withdrawal from global markets due to confirmed cardiovascular thrombotic risk and life-threatening cutaneous reactions represents a blocking safety liability that cannot be bypassed without a formal risk reassessment and risk-mitigation strategy; additionally, the rank-1 predicted indication (osteoarthritis susceptibility) has zero supporting clinical or literature evidence, placing confidence solely in the TxGNN model prediction at this stage.
+The top-ranked prediction, osteoarthritis susceptibility, has no supporting trials or literature and is most likely an ontology-mapping artefact. The rheumatoid arthritis prediction (L3) overlaps with the drug's original use and is not new repurposing. Cardiovascular and skin-reaction safety concerns, together with 222 recorded interactions, further weigh against progressing.
 
 **To proceed, the following is needed:**
-
-- **Safety re-evaluation**: Obtain and review original FDA/EMA withdrawal documentation to precisely characterize the at-risk populations and dose/duration thresholds associated with cardiovascular and skin toxicity
-- **Risk stratification strategy**: Define a patient subgroup (e.g., low baseline cardiovascular risk, short-term use) where the benefit-risk balance may be acceptable for osteoarthritis susceptibility
-- **MOA characterization**: Retrieve full mechanism of action data from DrugBank API (DG002 remediation); the recent 2025 finding on SIRT6/NRF2-mediated cytoprotection in tenocytes warrants further investigation
-- **Evidence gap for specific indication**: Commission a targeted literature search specifically for "valdecoxib AND osteoarthritis susceptibility / early osteoarthritis / OA prevention" to determine if L5 is truly the ceiling
-- **India regulatory feasibility assessment**: Clarify whether a drug withdrawn from major markets (US, EU) can be re-submitted under a new indication in India, and what the regulatory pathway would require
-- **Package insert recovery**: Retrieve pre-withdrawal prescribing information (PDF parsing from archived TFDA/FDA sources) to populate formal contraindications and black-box warnings (DG001 remediation)
+- Package insert warnings and contraindications from the India licences (currently missing, and a blocking gap for safety screening)
+- Approved indication text for the India registrations
+- Detailed mechanism of action data
+- A strong safety justification, including cardiovascular and severe skin-reaction risk, and a comparison with other COX-2 inhibitors that already cover these indications
+- Clarification of the mapping between "osteoarthritis susceptibility" and the clinical entity "osteoarthritis"
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

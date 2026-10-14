@@ -2,7 +2,7 @@
 layout: default
 title: Felbinac
 parent: Model Prediction Only (L5)
-nav_order: 338
+nav_order: 341
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Felbinac: From Topical Anti-inflammatory Use to Brachyolmia-Amelogenesis Imperfecta Syndrome
+# Felbinac: From Osteoarthritis to Brachyolmia-Amelogenesis Imperfecta Syndrome
 
 ## One-Sentence Summary
 
-Felbinac (DrugBank DB07477) has no confirmed original indication on record in this evidence pack, but is described in the underlying data as a topical NSAID (COX inhibition, local anti-inflammatory/analgesic action). The TxGNN model's top prediction is **Brachyolmia-Amelogenesis Imperfecta Syndrome**, a rare genetic skeletal/dental dysplasia, but this pairing has **zero clinical trials, zero literature, and no known mechanistic link** — the model's own rationale text flags a lack of biological plausibility.
+Felbinac is a topical NSAID (non-steroidal anti-inflammatory drug) originally used for osteoarthritis and related joint conditions.
+The TxGNN model predicts it may be effective for **brachyolmia-amelogenesis imperfecta syndrome**,
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on record (no approved indication text available; drug reportedly classified as a topical NSAID) |
+| Original Indication | Osteoarthritis, arthropathy (the Indian licence lists no approved indication text; these indications come from the TxGNN knowledge graph) |
 | Predicted New Indication | Brachyolmia-amelogenesis imperfecta syndrome |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on the information embedded in the model's own rationale text across candidates, Felbinac is a **topical NSAID** acting through COX inhibition to produce local anti-inflammatory and analgesic effects.
+Detailed mechanism of action data is not available in the data compiled for this report. Felbinac is known to be a topical NSAID that acts through COX inhibition, and its role in osteoarthritis is symptomatic relief of pain and inflammation.
 
-Brachyolmia-amelogenesis imperfecta syndrome, however, is a hereditary skeletal and dental developmental disorder caused by structural genetic defects — it is not an inflammatory condition. The evidence pack's own mechanistic_link assessment for this top-ranked candidate explicitly states there is **no known mechanistic relationship** between COX-mediated anti-inflammatory action and this genetic syndrome, and that the model's high confidence score "lacks biological plausibility support."
+Brachyolmia-amelogenesis imperfecta syndrome is a rare genetic skeletal and dental disorder, associated with LTBP3 variants that affect TGF-beta signalling. COX inhibition is not expected to act on this pathway, so no mechanistic link has been established. The very high TxGNN score is a graph-based prediction and is likely driven by shared skeletal or joint-related neighbours in the knowledge graph, not by pharmacological rationale.
 
-Notably, several lower-ranked candidates in this pack (e.g., rank 6 spondyloarthropathy, rank 7 rheumatoid nodulosis, ranks 9–10 juvenile idiopathic arthritis) are inflammatory joint conditions where NSAID pharmacology has directional plausibility — these may be more scientifically defensible follow-up targets than the top-ranked prediction, even though none currently have Felbinac-specific trial or literature support either.
+Other top-ranked predictions show the same pattern. Several are genetic skeletal conditions with no plausible NSAID target (acromesomelic dysplasia Hunter-Thompson type, brachyolmia, myosclerosis, combined immunodeficiency due to moesin deficiency). The more plausible ones are inflammatory joint diseases where NSAIDs give symptomatic relief only: spondyloarthropathy susceptibility, rheumatoid nodulosis, juvenile idiopathic arthritis and its RF-positive polyarticular subtype, and pseudoachondroplasia (where early joint pain and osteoarthritis occur). None has felbinac-specific evidence.
 
 ## Clinical Trial Evidence
 
@@ -63,26 +65,33 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
-## Taiwan Market Information
+## India Market Information
 
-Felbinac has no marketing authorizations on record in Taiwan (0 registrations; market status: Not marketed / Not Marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 88988 | Felbimax Gel (Lupin Ltd) | Tube of 30 gm Gel | Not stated |
+
+Felbinac is available in India only as a topical gel.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Note: TFDA label warnings/contraindications for Felbinac are currently a **Blocking** data gap (DG001) — this must be resolved before any safety-stage (S1) evaluation can proceed, and no drug interaction data could be located (DDI query: not found).
+Please refer to the package insert for safety information.
+
+No drug interactions were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on an L5 model score with no supporting trials or literature, and the pack's own mechanistic assessment finds no biological plausibility for the top-ranked indication (brachyolmia-amelogenesis imperfecta syndrome). Combined with the blocking gap on TFDA safety labeling and the drug's unmarketed status in Taiwan, this candidate does not meet the bar to advance.
+The prediction is supported only by a graph-based model score. There are no clinical trials or publications, and no mechanistic link between COX inhibition and the underlying biology of this genetic syndrome. A topical NSAID is also unlikely to be useful for a skeletal and dental disorder.
 
 **To proceed, the following is needed:**
-- TFDA package insert data (warnings/contraindications) to close the blocking gap (DG001)
-- Confirmed mechanism of action via DrugBank API (DG002)
-- If pursuing repurposing, redirect evaluation toward mechanistically plausible candidates lower in the ranking (e.g., spondyloarthropathy, JIA) and search for Felbinac-specific evidence there
-- Dedicated literature/trial search for Felbinac in inflammatory joint disease before any further staging
+- Package insert warnings and contraindications from the India Pharma source (a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- Any preclinical or clinical evidence linking felbinac to this syndrome
+- Route-compatibility and disease-similarity assessments, which are still pending
+- If a repurposing direction is wanted, consider the more plausible symptomatic candidates (spondyloarthropathy, juvenile idiopathic arthritis) for literature review first, with pediatric safety and dosing established for the JIA subtypes
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

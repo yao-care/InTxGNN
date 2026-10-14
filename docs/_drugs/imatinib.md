@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Imatinib
-parent: Moderate Evidence (L3-L4)
-nav_order: 421
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 425
+evidence_level: L5
 indication_count: 10
 ---
 
 # Imatinib
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,79 +29,112 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Imatinib: From Chronic Myeloid Leukaemia to Heart Fibrosarcoma
+# Imatinib: From Chronic Myelogenous Leukemia / GIST to Heart Fibrosarcoma
 
 ## One-Sentence Summary
 
-Imatinib (Gleevec/Glivec) is a selective tyrosine kinase inhibitor originally developed for chronic myeloid leukaemia (CML) and gastrointestinal stromal tumours (GIST), acting by blocking BCR-ABL, c-KIT, and PDGFR-α/β kinase activity.
-The TxGNN model predicts it may have activity against **Heart Fibrosarcoma** with a prediction score of 99.94%; however, only **1 general publication** — a 2008 editorial whose title explicitly states "not robust evidence" — currently exists in this direction, representing the lowest-actionable evidence tier.
-The high model score almost certainly reflects generalisation from mechanistically related fibrosarcoma subtypes (e.g. DFSP, where imatinib is already an FDA/EMA-approved treatment) rather than disease-specific evidence for this rare cardiac entity.
+Imatinib is a tyrosine kinase inhibitor originally used for BCR-ABL1-positive chronic myelogenous leukemia, gastrointestinal stromal tumor (GIST), dermatofibrosarcoma protuberans and several related conditions.
+The TxGNN model's top-ranked prediction is **heart fibrosarcoma**, but for this specific indication the evidence is very thin: **no clinical trials** and **only 1 publication** (a 2008 commentary), so the prediction rests mainly on the model score.
+The more evidence-supported directions among the top 10 predictions are **liposarcoma** (3 Phase 1/2 or Phase 2 trials) and **fibroblastic neoplasm** (largely dermatofibrosarcoma protuberans, which is already an approved use).
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Chronic Myeloid Leukaemia (CML) / Gastrointestinal Stromal Tumour (GIST) — inferred from literature; India regulatory records not yet loaded in system |
-| Predicted New Indication | Heart Fibrosarcoma |
+|------|------|
+| Original Indication | Not stated in the India licence records (approved indication text is empty). The knowledge graph lists systemic mastocytosis, GIST, BCR-ABL1-positive CML, chronic eosinophilic leukemia, dermatofibrosarcoma protuberans and hypereosinophilic syndrome |
+| Predicted New Indication | Heart fibrosarcoma |
 | TxGNN Prediction Score | 99.94% |
-| Evidence Level | L4 |
-| India Market Status | Not marketed (data gap — CDSCO records not available in system) |
-| Number of Registrations | 0 (data gap) |
+| Evidence Level | L4 (heart fibrosarcoma); L2 for the best-supported alternative, liposarcoma |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Imatinib is a small-molecule inhibitor that selectively targets three tyrosine kinases: BCR-ABL (the driving fusion oncogene in Philadelphia chromosome-positive CML), c-KIT (mutated in GIST, systemic mastocytosis, and other tumours), and PDGFR-α/β (platelet-derived growth factor receptors). These three targets share a conserved ATP-binding pocket, which imatinib occupies to block downstream proliferative signalling. Its remarkable efficacy in CML and GIST established the concept of oncogene-targeted therapy, and the same PDGFR-β inhibitory mechanism later supported FDA (2006) and EMA approval for dermatofibrosarcoma protuberans (DFSP), a fibroblastic tumour driven by the COL1A1-PDGFB fusion gene.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on widely known pharmacology, imatinib inhibits the BCR-ABL, KIT and PDGFR tyrosine kinases. Its efficacy in CML and GIST is established, and these kinases drive growth in those diseases.
 
-Currently, detailed mechanism of action data is not available in this evidence pack (Data Gap DG002). Based on established pharmacology, imatinib's anti-PDGFR-β activity is the most plausible rationale for its predicted efficacy in fibrosarcoma-type tumours. Some fibrosarcomas do express PDGFR-α/β at varying levels, providing a theoretical basis for tyrosine kinase inhibition. The TxGNN knowledge graph model likely inferred this connection by traversing the PDGFR pathway nodes linking imatinib's known activity to fibroblastic neoplasm disease nodes.
+The link to heart fibrosarcoma is indirect. In dermatofibrosarcoma protuberans (DFSP), a fibroblastic tumour, the COL1A1-PDGFB fusion causes constitutive PDGFR activation, which imatinib blocks. This makes a plausible but unverified connection to fibroblastic sarcomas in general. The only literature linked to heart fibrosarcoma is a 2008 commentary on new imatinib indications, which does not address cardiac tumours directly.
 
-In practice, however, heart fibrosarcoma is an ultra-rare primary cardiac malignancy (annual incidence estimated below 1 per million), and no molecular profiling studies have characterised PDGFR expression levels or driving mutations in this specific tumour type. The single retrieved publication is a general editorial reviewing imatinib's expanding indications across multiple disease areas — it contains no data specific to cardiac fibrosarcoma. The model's prediction here is best understood as extrapolation from better-characterised fibroblastic tumours rather than a disease-specific signal.
+The fit is weaker for several other predicted sarcomas. Conventional fibrosarcoma generally lacks the COL1A1-PDGFB fusion. Liposarcoma is mainly driven by MDM2/CDK4 amplification, low grade fibromyxoid sarcoma by FUS-CREB3L2 fusions, myxoid liposarcoma by FUS-DDIT3 fusions, and rhabdoid tumors by SMARCB1 loss. None of these has an established dependence on imatinib's targets. Any benefit would probably be limited to KIT/PDGFR-positive subsets, so molecular confirmation of target dependence would be essential before extrapolating.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Heart Fibrosarcoma and Imatinib.
+No clinical trials are registered for heart fibrosarcoma. The trials below were retrieved for other top-10 predictions and are relevant only by analogy.
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00031915](https://clinicaltrials.gov/study/NCT00031915) | Phase 2 | Completed | Not reported | Imatinib in metastatic or unresectable soft tissue and bone sarcoma (liposarcoma prediction); subtype results not available |
+| [NCT00006357](https://clinicaltrials.gov/study/NCT00006357) | Phase 1/2 | Completed | 91 | Dose-finding and efficacy of STI571 (imatinib) in recurrent or refractory soft tissue sarcoma (liposarcoma prediction); no liposarcoma-specific results |
+| [NCT00154388](https://clinicaltrials.gov/study/NCT00154388) | Phase 2 | Completed | 185 | Exploratory basket study in life-threatening rare malignancies with imatinib-sensitive kinases (cited for kidney fibrosarcoma and liposarcoma); no organ-specific results |
 
 ---
 
 ## Literature Evidence
 
+**Heart fibrosarcoma (the top prediction)**
+
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [18623899](https://pubmed.ncbi.nlm.nih.gov/18623899/) | 2008 | Editorial/Commentary | Prescrire International | General review of imatinib's expanding indications, including Ph+ ALL and beyond CML/GIST. The article's own title notes "not robust evidence" for newer indications. No data specific to heart fibrosarcoma. Cited here as the sole retrieved publication; does not constitute targeted support for this indication. |
+|------|-----|------|------|---------|
+| [18623899](https://pubmed.ncbi.nlm.nih.gov/18623899/) | 2008 | Review | Prescrire International | Commentary on new imatinib indications; evidence described as not robust, and not specific to cardiac tumours |
+
+**Supporting literature from related predictions**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [39904126](https://pubmed.ncbi.nlm.nih.gov/39904126/) | 2025 | Guideline | Eur J Cancer | European interdisciplinary guideline update on DFSP diagnosis and treatment |
+| [19451433](https://pubmed.ncbi.nlm.nih.gov/19451433/) | 2009 | Phase 2 trial | J Clin Oncol | Multicenter Phase 2 trial of imatinib across 10 sarcoma subtypes using a Bayesian model |
+| [42062942](https://pubmed.ncbi.nlm.nih.gov/42062942/) | 2026 | Cohort | BMC Cancer | 153 Chinese DFSP patients; Mohs surgery plus postoperative imatinib |
+| [25852058](https://pubmed.ncbi.nlm.nih.gov/25852058/) | 2015 | Preclinical | Mol Cancer Ther | CDKN2A/p16 loss implicates CDK4 as a target in imatinib-resistant DFSP |
+| [40558511](https://pubmed.ncbi.nlm.nih.gov/40558511/) | 2025 | Preclinical | Cells | Patient-derived cell line profiling predicts imatinib sensitivity in DFSP |
+| [30901500](https://pubmed.ncbi.nlm.nih.gov/30901500/) | 2019 | Preclinical | Drug Dev Res | Imatinib plus dexketoprofen liposomes against fibrosarcoma (weak supporting signal) |
+| [12702540](https://pubmed.ncbi.nlm.nih.gov/12702540/) | 2003 | Report | Ann Oncol | Potential use of imatinib in c-KIT-expressing ocular melanoma and liposarcoma |
+| [16158966](https://pubmed.ncbi.nlm.nih.gov/16158966/) | 2005 | Study | Anticancer Res | c-kit expression in dedifferentiated and well-differentiated liposarcomas |
+| [36999599](https://pubmed.ncbi.nlm.nih.gov/36999599/) | 2023 | Review | J Surg Oncol | Surgical management of DFSP; imatinib used in advanced or unresectable disease |
+| [15794712](https://pubmed.ncbi.nlm.nih.gov/15794712/) | 2005 | Review | Expert Opin Drug Saf | Development and application of imatinib |
+
+---
+
+## India Market Information
+
+Imatinib is marketed in India with 20 valid single-ingredient registrations. The approved indication text is not recorded in the licence data. Five representative registrations:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 95895 | Glivec 100mg Tablet (Novartis India Ltd) | Strip of 10 tablets | Not recorded |
+| 100962 | Gleevac 100mg Tablet (Novartis India Ltd) | Bottle of 60 tablets | Not recorded |
+| 111302 | Imalek 400mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not recorded |
+| 108048 | Imatib 100 Tablet (Cipla Ltd) | Strip of 10 tablets | Not recorded |
+| 111040 | Imatinate 400 Capsule (Khandelwal Laboratories Pvt Ltd) | Bottle of 10 capsules | Not recorded |
+
+All products are oral (tablets or capsules).
 
 ---
 
 ## Cytotoxicity
 
-Imatinib is a targeted antineoplastic agent (TKI) used for haematological and solid tumour malignancies.
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Tyrosine kinase inhibitor (BCR-ABL / c-KIT / PDGFR class); not a conventional cytotoxic agent |
-| Myelosuppression Risk | Moderate — neutropenia and thrombocytopenia are among the most frequent adverse effects, particularly during the initial months of treatment; severe myelosuppression (Grade 3–4) reported in 10–30% of CML patients |
-| Emetogenicity Classification | Low to moderate (oral tablet formulation; nausea common but typically manageable with food intake) |
-| Monitoring Items | CBC with differential (every 2 weeks for first 3 months, then monthly or as clinically indicated); liver function tests (ALT, AST, bilirubin — monthly for first 3 months); renal function; weight and fluid retention assessment |
-| Handling Protection | Standard cytotoxic handling precautions apply for oral formulation — avoid crushing tablets; wear gloves when handling damaged tablets; follow institutional cytotoxic drug disposal protocols |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (tyrosine kinase inhibitor), not a conventional cytotoxic agent |
+| Myelosuppression Risk | Please refer to the package insert; the knowledge graph flags thrombocytopenia, neutropenia and agranulocytosis as contraindication-related conditions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC, liver and renal function (suggested given the knowledge graph flags for liver disease, kidney disease and cytopenias) |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: 675 total documented interactions (DDInter database). Selected clinically important interactions:
-  - **Major — Eliglustat**: Imatinib is a CYP3A4 inhibitor; co-administration markedly increases eliglustat exposure, risking QT prolongation and cardiac arrhythmia. Avoid concurrent use.
-  - **Major — Naloxegol**: Imatinib inhibits CYP3A4-mediated naloxegol metabolism, substantially increasing opioid receptor antagonist levels. Avoid concurrent use or reduce naloxegol dose with close monitoring.
-  - **Moderate — CYP3A4 inhibitors (Clarithromycin, Aprepitant)**: May increase imatinib plasma concentrations; monitor for imatinib toxicity (fluid retention, myelosuppression, hepatotoxicity).
-  - **Moderate — CYP3A4 inducers (Dexamethasone, Budesonide, Triamcinolone, Betamethasone, Hydrocortisone)**: May reduce imatinib exposure and diminish efficacy; consider dose adjustment.
-  - **Moderate — CYP2C8/3A4 substrates (Pioglitazone, Glimepiride, Saxagliptin)**: Imatinib inhibits CYP2C8, potentially increasing exposure and hypoglycaemic risk; monitor blood glucose closely.
-  - **Moderate — Opioid-related agents (Morphine, Naltrexone, Naldemedine)**: Pharmacokinetic and/or pharmacodynamic interactions; clinical significance varies — assess case by case.
+- **Contraindication-related conditions (from the knowledge graph, not label text):** liver failure and liver disease, kidney disease, congestive heart failure and heart failure, coronary artery disease, heart valve disease, pericardial effusion, thrombocytopenia, neutropenia, agranulocytosis, anemia, hypertension, pulmonary edema, brain edema, diabetes mellitus, diabetic ketoacidosis, hyperbilirubinemia and Gilbert syndrome, active peptic ulcer disease, hypophosphatemia, obesity, and congenital heart disease. These should be verified against the official package insert.
+- **Drug Interactions:** 675 interactions were identified. Major-level examples include **eliglustat** and **naloxegol**. Moderate-level examples include corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), pioglitazone, glimepiride, saxagliptin, aprepitant, morphine, cimetidine, clarithromycin, lansoprazole, dexlansoprazole, naltrexone, naldemedine and metreleptin.
+- **Case report signal:** a case of imatinib-induced drug reaction with eosinophilia and systemic symptoms (DRESS) was reported in a DFSP patient, successfully managed with desensitization ([PMID 30096127](https://pubmed.ncbi.nlm.nih.gov/30096127/)).
 
-Please refer to the package insert for complete warnings and contraindications, including cardiac monitoring requirements, hepatotoxicity precautions, and pregnancy/reproductive toxicity.
+Given the cardiac-related flags, extra caution applies if the heart is the disease site. Please refer to the package insert for full warnings and contraindications.
 
 ---
 
@@ -110,15 +143,14 @@ Please refer to the package insert for complete warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-Heart fibrosarcoma is an ultra-rare disease (< 1 per million per year) with no published molecular profiling to confirm PDGFR expression or other imatinib-sensitive driver alterations, and the sole retrieved publication is a general 2008 editorial that explicitly acknowledges a lack of robust evidence — it does not address cardiac fibrosarcoma in any specific way. Advancing this indication without foundational molecular and preclinical data would not be scientifically defensible.
+The top prediction, heart fibrosarcoma, has no clinical trials and only one indirect commentary (evidence level L4), and the high model score (99.94%) is not corroborated by data. The best-supported alternatives are soft tissue sarcoma subsets (liposarcoma, L2, with Phase 2 trials but no subtype-specific results) and fibroblastic neoplasms driven by PDGFB (DFSP, already an approved use). The remaining predictions (familial Mediterranean fever, ovarian myxoid liposarcoma, familial rhabdoid tumor) are model-only (L5).
 
 **To proceed, the following is needed:**
-- Molecular profiling of heart fibrosarcoma specimens for PDGFR-α/β expression (IHC and/or gene fusion analysis) to establish a mechanistic rationale
-- Retrieval and review of imatinib's complete MOA profile from DrugBank (Data Gap DG002) to enable proper mechanistic analysis
-- Verification of Imatinib's CDSCO registration and package insert review (Data Gap DG001, currently Blocking) for India-specific regulatory and safety assessment
-- Case reports or preclinical studies specifically investigating imatinib activity in primary cardiac sarcomas
-- Consultation of basket trial registries (e.g. NCT00154388 and similar designs) to determine whether cardiac fibrosarcoma patients with confirmed imatinib-sensitive targets may qualify for enrolment
-- If molecular characterisation reveals PDGFR activation, reclassification of this prediction and re-evaluation under the fibroblastic neoplasm (Rank 2, Evidence Level L2, **Proceed with Guardrails**) pathway, where the evidence base is considerably stronger and FDA/EMA approval for the DFSP subtype already exists
+- Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Subtype-level results from the soft tissue sarcoma trials (NCT00031915, NCT00006357, NCT00154388) and the 10-subtype Phase 2 trial (PMID 19451433)
+- Molecular confirmation of PDGFR/KIT dependence (e.g., PDGFB rearrangement) in any target tumour type
+- A cardiac safety assessment, given the knowledge graph contraindication flags for heart disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

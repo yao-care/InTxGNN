@@ -2,7 +2,7 @@
 layout: default
 title: Verteporfin
 parent: Model Prediction Only (L5)
-nav_order: 878
+nav_order: 887
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,80 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Verteporfin: From Wet Age-Related Macular Degeneration to Mitochondrial Oxidative Phosphorylation Disorder
+# Verteporfin: From Macular Degeneration to Mitochondrial Oxidative Phosphorylation Disorder Due to Nuclear DNA Anomalies
 
 ## One-Sentence Summary
 
-Verteporfin is a photosensitizer publicly known for use in photodynamic therapy of wet age-related macular degeneration, though the drug's formal indication and labeling data are currently missing from this evidence pack (blocking data gap DG001). The TxGNN model predicts it may be effective for **mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies**, but this prediction is supported by **zero clinical trials** and **zero publications**, making it a pure model-output candidate at this stage.
-
----
+Verteporfin is a photosensitizer originally used in photodynamic therapy for macular degeneration.
+The TxGNN model predicts it may be effective for **mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies**,
+but currently **no clinical trials and no publications** support this direction. The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in current data (DG001 — TFDA/CDSCO label text missing); publicly known off-record use is wet AMD via photodynamic therapy |
+| Original Indication | Macular degeneration |
 | Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
 | TxGNN Prediction Score | 99.49% |
-| Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack (DG002). Based on publicly known pharmacology, Verteporfin (marketed elsewhere as Visudyne) is a benzoporphyrin-derivative **photosensitizer**: after intravenous administration it is activated by laser light to generate reactive oxygen species (ROS), which selectively damages abnormal choroidal neovasculature — the basis for its use in photodynamic therapy for wet AMD. Separately, the literature also describes Verteporfin as an inhibitor of the YAP/TAZ–TEAD protein–protein interaction, blocking downstream transcription of the Hippo signaling pathway.
+Currently, detailed mechanism of action data is not available. Based on known information, verteporfin is a benzoporphyrin-derivative photosensitizer used in photodynamic therapy for neovascular macular degeneration. Its efficacy in that eye disease is established, but a mechanistic link to the new indication has not been shown.
 
-Neither of these known mechanisms — light-activated ROS generation or YAP/TAZ–TEAD inhibition — has an established connection to mitochondrial oxidative phosphorylation (OXPHOS) disorders caused by nuclear DNA defects, which are driven by inherited deficiencies in electron transport chain (ETC) complex assembly or function. There is currently no published mechanistic hypothesis or preclinical rationale linking Verteporfin to correction or modulation of ETC complex activity.
+Preclinical reports suggest verteporfin can inhibit YAP-TEAD signaling. However, the data compiled for this report contain nothing connecting this activity to mitochondrial disorders caused by nuclear DNA abnormalities. Any connection, for example through mitochondrial stress, reactive oxygen species (ROS) or autophagy modulation, is speculative and unverified.
 
-Given this gap, the prediction should be treated as an association surfaced purely by the TxGNN knowledge-graph embedding (score 0.9949, KG rank 8547), rather than a mechanistically explainable candidate. This is consistent with the model's own scoring, which assigns this candidate to Evidence Level L5 and decision stage S0 (Hold).
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+There is also a safety concern. When activated by light, verteporfin generates ROS, which could plausibly worsen rather than improve mitochondrial dysfunction. This must be resolved before any repurposing hypothesis is pursued. The high model score (0.995) should therefore be treated as a hypothesis-generating signal only.
 
 ## India Market Information
 
-Verteporfin is currently **not marketed** in India (0 registrations on file). No license or product-level data is available to summarize.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 234341 | Visudyne Injection (Novartis India Ltd) | Vial of 1, powder for injection | Not specified in the available data |
 
 ## Safety Considerations
 
-**Drug Interactions**: DrugBank/DDInter data lists **117 documented interactions** in total. The 20 highest-confidence entries returned are predominantly **Moderate**-severity, clustering around two pharmacological themes consistent with Verteporfin's photosensitizing mechanism and hepatic handling:
+- **Contraindications suggested by the knowledge graph** (derived from the TxGNN knowledge graph, not from package insert text): inherited porphyria, porphyrin metabolism disease, porphyria, liver disease, gallbladder disease.
+- **Drug Interactions**: 117 interactions were recorded, mostly of Moderate severity. Examples include:
+  - Tetracycline-class antibiotics (doxycycline, tetracycline, minocycline), including topical forms
+  - Sulfonylurea antidiabetics (glimepiride, glipizide, glyburide, tolbutamide, chlorpropamide, tolazamide, acetohexamide)
+  - Acetylsalicylic acid
+  - Levofloxacin
+  - Sulfasalazine
+  - Mannitol
+  - Beta carotene
+  - Papaverine
 
-- **Other photosensitizing agents** — increased risk of additive photosensitivity/phototoxic skin or ocular reactions: Doxycycline, Doxycycline (topical), Tetracycline, Tetracycline (topical), Minocycline, Minocycline (topical), Levofloxacin, Sulfasalazine, Beta carotene, Acetylsalicylic acid, Polymyxin B (Minor).
-- **Sulfonylurea antidiabetics** — potential for altered glycemic control or additive photosensitivity: Chlorpropamide, Glimepiride, Glipizide, Glyburide, Tolazamide, Tolbutamide, Acetohexamide.
-- Others noted: Mannitol, Papaverine.
+  Many of these are likely photosensitivity-related. Polymyxin B is listed as Minor.
 
-No structured key warnings or contraindications are currently available (DG001, blocking); please refer to the official package insert once obtained for full prescribing safety information.
-
----
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction carries a high TxGNN similarity score but is unsupported by any clinical trial or literature evidence (L5), and the drug's own known mechanisms (photoactivated ROS generation, YAP/TAZ–TEAD inhibition) have no established link to nuclear-DNA-related mitochondrial OXPHOS disorders. Combined with a blocking data gap on TFDA/CDSCO label warnings and contraindications (DG001), the candidate cannot yet proceed to a safety-based (S1) review.
+The prediction has no clinical trials or literature behind it (Evidence Level L5). No mechanistic link to the proposed indication is established, and verteporfin's ROS-generating photosensitizing action could be harmful in mitochondrial disease. Investment in this direction is not justified at present.
 
 **To proceed, the following is needed:**
-- Resolve DG001: obtain official label/warning and contraindication data (TFDA/CDSCO) before any S1 safety evaluation
-- Resolve DG002: confirm verified mechanism of action from DrugBank/primary literature
-- Preclinical or mechanistic literature search specifically linking YAP/Hippo signaling (or ROS-mediated pathways) to nuclear-DNA-encoded ETC complex function, to establish or rule out biological plausibility
-- Route compatibility assessment — Verteporfin's approved administration (IV infusion + localized laser photoactivation) may not be feasible for a systemic mitochondrial disease population; this needs explicit evaluation before further development
+- Mechanism of action data (e.g., from DrugBank) to support a mechanistic-link analysis
+- Package insert warnings and contraindications from the India Pharma source, which currently block safety screening
+- Preclinical studies testing verteporfin in models of nuclear-DNA-driven OXPHOS deficiency, with attention to ROS-related toxicity
+- A literature and trial search to confirm whether any supporting evidence exists
+- Assessment of route compatibility, since the current product is an injectable used with light activation in the eye
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

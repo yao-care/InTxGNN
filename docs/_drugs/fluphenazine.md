@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fluphenazine
-parent: Moderate Evidence (L3-L4)
-nav_order: 365
-evidence_level: L3
+parent: Model Prediction Only (L5)
+nav_order: 369
+evidence_level: L5
 indication_count: 10
 ---
 
 # Fluphenazine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Fluphenazine: From Psychotic Disorders to Manic Bipolar Affective Disorder
+# Fluphenazine: From Psychotic Disorder and Schizophrenia to Retinal Dystrophy
 
 ## One-Sentence Summary
 
-Fluphenazine is a first-generation (typical) phenothiazine antipsychotic, primarily acting through D2 dopamine receptor antagonism to treat psychotic disorders such as schizophrenia. Among the 10 new indications predicted by the TxGNN model for this drug, only **manic bipolar affective disorder** is backed by actual clinical literature (20 publications, no dedicated RCTs), reaching evaluation stage S2 with a **Proceed with Guardrails** recommendation — the other 9 candidates (e.g., retinal dystrophy, syndromic myopia, various rare genetic disorders) have very high raw TxGNN embedding scores but no supporting mechanism or literature, and remain at Hold (S0).
-
-> **Note on candidate selection**: This evidence pack ranks 10 predicted indications by TxGNN score. The top-ranked candidate ("retinal dystrophy with or without extraocular anomalies," score 99.99%) has no plausible mechanistic link to fluphenazine's pharmacology and no supporting evidence — the model itself flags this as likely embedding noise. This report focuses on **manic bipolar affective disorder** (rank 10, score 99.98%), the only candidate with real supporting evidence and an actionable decision stage.
+Fluphenazine is a phenothiazine antipsychotic, originally used for psychotic disorders including schizophrenia.
+The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**,
+but **no clinical trials and no publications** currently support this prediction. It is a computational signal only.
 
 ---
 
@@ -43,23 +43,23 @@ Fluphenazine is a first-generation (typical) phenothiazine antipsychotic, primar
 
 | Item | Content |
 |------|------|
-| Original Indication | Psychotic disorders (schizophrenia) — typical antipsychotic, phenothiazine class |
-| Predicted New Indication | Manic bipolar affective disorder (bipolar mania) |
-| TxGNN Prediction Score | 99.98% (rank 852 among all candidates) |
-| Evidence Level | L3 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Psychotic disorder, schizophrenia, schizophreniform disorder, schizoaffective disorder, mental disorder (from the knowledge graph; the Indian registrations list no indication text) |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
+| TxGNN Prediction Score | 99.99% (model rank 279) |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 12 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Fluphenazine is a first-generation phenothiazine antipsychotic whose primary mechanism is D2 dopamine receptor antagonism, with secondary activity at D1, α1-adrenergic, H1-histamine, and muscarinic acetylcholine receptors. D2 antagonism is the core pharmacological mechanism underlying acute treatment of manic episodes, and this mechanism is shared with other typical and atypical antipsychotics (e.g., haloperidol, risperidone) that are already approved for bipolar mania.
+Currently, detailed mechanism of action data is not available. Based on known information, fluphenazine is a high-potency phenothiazine and a dopamine D2 receptor antagonist. Its efficacy in psychotic disorders and schizophrenia is well established.
 
-This prediction therefore represents a **class-effect extrapolation** rather than a novel mechanism specific to fluphenazine: because other D2-antagonist antipsychotics are established treatments for bipolar mania, and fluphenazine shares the same receptor pharmacology, its potential efficacy in this indication is biologically plausible. This is further supported by real-world literature showing off-label and long-acting injectable (LAI) fluphenazine use in bipolar disorder management, particularly for adherence-challenged or substance-use-comorbid patients.
+Mechanistically, no plausible pathway connects D2 antagonism to inherited retinal degeneration. Retinal dystrophies are generally genetically driven, and no data compiled for this report links fluphenazine to the causal genes or pathways. The high TxGNN score (0.9999) should be read as a model output, not as biological validation.
 
-By contrast, the other 9 TxGNN-predicted indications for fluphenazine (retinal dystrophies, syndromic/X-linked myopia, hydranencephaly, congenital glycosylation disorders, Charcot-Marie-Tooth disease, etc.) are structural, developmental, or metabolic genetic diseases with no known relationship to dopaminergic/adrenergic/cholinergic receptor pharmacology. The evidence pack's own rationale text for these explicitly notes "no known mechanistic link" — these should be treated as low-confidence knowledge-graph artifacts, not credible repurposing signals.
+The model also produced other high-scoring predictions, such as syndromic myopia, X-linked myopia and several rare neurodevelopmental or metabolic disorders. None of these has supporting trials or publications. The only prediction with any literature is **manic bipolar affective disorder**. It sits close to fluphenazine's existing psychiatric uses and is therefore an adjacent indication rather than a true repurposing. Even there, the literature is indirect (reviews of long-acting injectable antipsychotics, case reports) and contains no fluphenazine-specific trial data.
 
 ---
 
@@ -71,48 +71,53 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [26243837](https://pubmed.ncbi.nlm.nih.gov/26243837/) | 2015 | Review | Clin Psychopharmacol Neurosci | Systematic review and expert consensus on long-acting injectable (LAI) antipsychotics, including fluphenazine decanoate, in bipolar disorder |
-| [39756485](https://pubmed.ncbi.nlm.nih.gov/39756485/) | 2025 | Cohort | J Affect Disord | Retrospective analysis: adding LAI antipsychotics during manic episodes reduces rehospitalization in bipolar disorder |
-| [36779113](https://pubmed.ncbi.nlm.nih.gov/36779113/) | 2023 | Case Report | Cureus | Off-label use of fluphenazine in bipolar disorder with comorbid substance abuse history, two cases |
-| [37345508](https://pubmed.ncbi.nlm.nih.gov/37345508/) | 2023 | Review | Expert Opin Pharmacother | Pharmacological considerations for switching to LAI antipsychotics, including fluphenazine, in severe mental illness |
-| [22494448](https://pubmed.ncbi.nlm.nih.gov/22494448/) | 2012 | Review | CNS Drugs | Review of first- and second-generation depot antipsychotics for maintenance treatment of bipolar disorder |
-| [30129771](https://pubmed.ncbi.nlm.nih.gov/30129771/) | 2018 | Observational | J Comp Eff Res | Initiating LAI antipsychotics associated with reduced hospitalization risk in bipolar I disorder |
-| [34353834](https://pubmed.ncbi.nlm.nih.gov/34353834/) | 2021 | Case Report | BMJ Case Rep | Case of neuroleptic malignant syndrome in a bipolar patient maintained on fluphenazine decanoate — safety signal |
-| [27028966](https://pubmed.ncbi.nlm.nih.gov/27028966/) | 2016 | Case Series | J Child Adolesc Psychopharmacol | Efficacy of LAI antipsychotics in adolescents, limited pediatric safety/efficacy data |
+Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-Fluphenazine currently holds no TFDA license and is not marketed in Taiwan (Not marketed, 0 registrations). No local product, dosage form, or approved indication data is available.
+Twelve valid single-ingredient registrations exist, with no cancelled licences. The registration data lists no approved indication text. The five main authorizations are shown below.
+
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| 180783 | Phenvator 25mg Injection | Vial, injection |
+| 85612 | Fludecan 25mg Injection | Vial of 2 ml, injection |
+| 175233 | Phenasol 25mg Injection | Vial of 1 ml, injection |
+| 7771 | Arkane 2mg Tablet | Strip of 10 tablets |
+| 7089 | Anatensol Decanoate 25mg Injection | Vial of 1 ml, injection |
+
+The remaining registrations are mostly 25 mg injections, plus Tripnor 0.5 mg/10 mg tablets (licence 216178).
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**: A total of 313 documented drug-drug interactions were identified. Notable interactions include:
-- **Major**: Bupropion, Morphine
-- **Moderate**: Acarbose, Famotidine, Epinephrine, Hydrocortisone, several antidiabetic agents (Albiglutide, Alogliptin, Metformin, Pioglitazone), Amphotericin B (conventional and lipid complex), Atropine/Hyoscyamine (anticholinergic burden), corticosteroids (Dexamethasone, Triamcinolone, Betamethasone), Lorcaserin, Loperamide
-- **Minor**: Ascorbic acid
+Package insert warnings and label contraindications are not available in the data compiled for this report. Please refer to the package insert for these.
 
-Detailed TFDA-specific warnings and contraindications are not currently available (this is a blocking data gap — see below).
+- **Disease-level contraindications (knowledge graph, not label text)**:
+  - Cardiovascular: long QT syndrome, torsades de pointes, sudden cardiac arrest, heart conduction disease, myocardial infarction, orthostatic hypotension.
+  - Haematological: neutropenia, agranulocytosis, leukopenia, thrombocytopenia, anaemia.
+  - Neurological: epilepsy, basal ganglia disease, focal hand dystonia, blepharospasm.
+  - Other: liver disease, gallbladder disease, hyperglycaemia, benign prostatic hyperplasia, substance abuse/dependence, obesity, female breast carcinoma.
+- **Drug Interactions**: 313 interactions were identified. The two **Major** interactions listed are bupropion and morphine. Moderate interactions include antidiabetics (metformin, pioglitazone, acarbose, alogliptin, albiglutide), corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone), anticholinergics (atropine, hyoscyamine), loperamide, epinephrine, famotidine and amphotericin B.
+- **Population concern**: Phenothiazines carry neurological adverse effects such as extrapyramidal symptoms. This would need careful consideration in any neurological or paediatric genetic population.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Manic bipolar affective disorder is supported by a class-effect mechanistic rationale (shared D2 antagonism with already-approved antipsychotics for bipolar mania) and multiple real-world/cohort/case-level publications, including fluphenazine-specific use cases — reaching evaluation stage S2. However, no fluphenazine-specific RCT exists for this indication, and the drug is not currently marketed in Taiwan, so guardrails (specialist oversight, off-label use documentation, safety monitoring) are warranted rather than unconditional advancement.
+The prediction rests solely on a model score. No trials or publications exist, and no mechanistic link to retinal dystrophy is identified. The safety profile (QT prolongation, blood dyscrasias, neurological effects) is substantial, so there is no basis to advance this indication.
 
 **To proceed, the following is needed:**
-- TFDA product labeling (warnings/contraindications) — currently a **blocking** data gap (DG001); required before formal S1 safety assessment can begin
-- Confirmed mechanism of action (MOA) documentation from DrugBank or equivalent source (DG002)
-- A formal Taiwan market-entry or import pathway assessment, given current "Not marketed" status
-- Consideration of a fluphenazine- or class-specific prospective study in bipolar mania, since existing evidence is largely LAI-formulation and class-level rather than drug-specific RCT data
+- A mechanistic hypothesis linking dopamine D2 antagonism, or other fluphenazine pharmacology, to retinal degeneration, tested in preclinical models.
+- Detailed mechanism of action data (MOA).
+- Package insert warnings and contraindications for the Indian products.
+- A benefit-risk assessment in the target population, including cardiac and haematological monitoring.
+- If the team wants a near-term research question, reprioritise toward the adjacent indication of manic bipolar affective disorder. It has indirect literature support, but fluphenazine-specific data would still be needed.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

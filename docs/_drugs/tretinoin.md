@@ -2,7 +2,7 @@
 layout: default
 title: Tretinoin
 parent: Model Prediction Only (L5)
-nav_order: 853
+nav_order: 860
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,103 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tretinoin: From Unspecified Original Indication to Rheumatoid Nodulosis
+# Tretinoin: From Acne and Acute Promyelocytic Leukemia to Rheumatoid Nodulosis
 
 ## One-Sentence Summary
 
-> Tretinoin (all-trans retinoic acid, DB00755) is not currently marketed in India, and no original indication data is available in this dataset.
-> The TxGNN model predicts it may be effective for **Rheumatoid Nodulosis**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a model-only prediction with no independent evidence.
-
----
+Tretinoin (all-trans retinoic acid) is a retinoid originally used for acne, acute promyelocytic leukemia, acquired keratosis and palmoplantar keratoderma.
+The TxGNN model predicts it may be effective for **rheumatoid nodulosis**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no licenses or original indication data in current dataset |
-| Predicted New Indication | Rheumatoid Nodulosis |
+| Original Indication | Acne, acute promyelocytic leukemia, acquired keratosis, palmoplantar keratoderma (from the knowledge graph; no approved indication text was available in the India licence records) |
+| Predicted New Indication | Rheumatoid nodulosis |
 | TxGNN Prediction Score | 99.84% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Tretinoin is not available in this dataset (flagged as a High-severity data gap, DG002). Based on the accompanying repurposing rationale, Tretinoin (ATRA) is known to act as a **retinoic acid receptor (RAR) agonist**. The theoretical link to rheumatoid nodulosis rests on the general premise that RAR agonism can modulate Th17/Treg balance and influence autoimmune inflammation.
+Currently, detailed mechanism of action data is not available. Based on known information, tretinoin is a retinoid, its efficacy in acne and acute promyelocytic leukemia is established, and it may mechanistically be applicable to immune-mediated conditions through general retinoid effects on immune cells.
 
-This is explicitly described in the evidence pack as an **inferential mechanistic link only** — there is no direct clinical, preclinical, or case-based data connecting Tretinoin to rheumatoid nodulosis specifically. The same caveat applies to the next four ranked predictions (rheumatoid factor-positive polyarticular JIA, juvenile idiopathic arthritis, juvenile chronic polyarthritis, and spondyloarthropathy susceptibility), all of which are L5/S0 with no supporting evidence.
+The data compiled for this report notes that retinoic acid has immunomodulatory activity, for example effects on the Th17/Treg balance. However, no specific link to rheumatoid nodulosis is supported by the available data. The relationship between the original indications (skin and blood disorders) and the predicted indication (a nodular complication of rheumatoid arthritis) is not yet characterised.
 
-Notably, one lower-ranked prediction in this pack (osteoarthritis, rank 7, L4) does have substantial literature (20 publications), but several of those publications suggest the opposite therapeutic direction — retinoic acid signaling may *promote* cartilage degradation and OA pathogenesis (e.g., PMID 40564983 directly uses ATRA to induce OA in animal models; PMID 37418291 proposes *blocking* retinoic acid metabolism as the therapeutic strategy). This raises a mechanistic red flag rather than reinforcing the repurposing hypothesis, and is a signal that TxGNN score alone should not be relied upon without directionality review.
-
----
+The other top predictions are mostly inflammatory or skeletal conditions: juvenile idiopathic arthritis and its synonyms, spondyloarthropathy susceptibility, osteoarthritis, rare skeletal dysplasias, and folliculitis decalvans. Several of these are near-synonyms of one another, so their high scores are likely correlated rather than independent confirmations.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available for rheumatoid nodulosis.
 
----
+For the seventh-ranked prediction (osteoarthritis), two publications were retrieved, but neither supports tretinoin use. One concerns PRP injection for knee osteoarthritis, and the other is a case report of adverse events after arsenic trioxide in acute promyelocytic leukemia.
 
 ## India Market Information
 
-No registration records are available. Tretinoin is currently listed as **not marketed (Not marketed)** in this dataset, with 0 total licenses on file.
+Tretinoin has 20 valid single-ingredient registrations, with no combination products and none cancelled. Approved indication text was not available for any of them. The main examples are:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 217369 | Trebor 0.025% Cream | Cream (tube of 20 gm) | Not specified |
+| 36675 | CA Retrans Capsule | Capsule (strip of 10) | Not specified |
+| 8570 | Atranza Capsule | Capsule (bottle of 100) | Not specified |
+| 220862 | Tretiome 20mg Tablet | Tablet | Not specified |
+| 184151 | Retino-A 0.05% Cream | Cream (tube of 20 gm) | Not specified |
+
+Products are available in both oral (capsule, tablet) and topical (cream, gel, ointment) forms.
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Differentiating agent (retinoid) used in acute promyelocytic leukemia; not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert warnings and precautions (typically includes blood counts, liver function and lipids) |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 323 documented interactions on file. Notable **Major**-level interactions include Doxycycline, Tetracycline, Minocycline, and Vitamin A (additive retinoid toxicity risk). **Moderate**-level interactions include Aprepitant, Clarithromycin, and Naltrexone. A **Minor** interaction is noted with Levofloxacin. Several additional interactions (e.g., with Metformin, PPIs, corticosteroids) are on file but currently classified as "Unknown" severity and require further review.
+- **Contraindications (from the knowledge graph, not label text)**: The knowledge graph links tretinoin to the following conditions as contraindications:
+  - Liver, kidney, pancreatic and gallbladder disease
+  - Congestive heart failure
+  - Diabetes mellitus and diabetic ketoacidosis
+  - Osteoporosis and postmenopausal osteoporosis
+  - Crohn disease and inflammatory bowel disease
+  - Atopic eczema and sunburn
+  - Adrenocortical insufficiency and Addison disease
+  - Psychiatric conditions: anxiety, neurotic, dysthymic, psychotic, schizophreniform and schizoaffective disorders
+  - Mycosis fungoides and related cutaneous T-cell lymphomas
+- **Drug Interactions**: 323 interactions were identified. The major-level ones are:
+  - Doxycycline
+  - Tetracycline
+  - Minocycline
+  - Vitamin A
 
-Key warnings and contraindications are not yet available in this dataset (flagged as a **Blocking** data gap, DG001 — TFDA-equivalent label warnings/contraindications). This gap must be resolved before any safety assessment (S1 stage) can proceed.
+  Moderate-level interactions include aprepitant, clarithromycin and naltrexone. Levofloxacin is minor.
+- **Other considerations from the prediction rationale**: Systemic tretinoin carries teratogenicity and mucocutaneous toxicity concerns, which are especially relevant for the paediatric predictions (juvenile arthritis). Retinoids are also known to affect skeletal development adversely, which is relevant to the skeletal dysplasia predictions.
 
----
+Package insert warnings were not available, so please refer to the package insert for the full safety profile.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (rheumatoid nodulosis) has no supporting clinical trials or literature — it is a pure model output at evidence level L5/S0. Combined with a blocking data gap on label warnings/contraindications and the drug's non-marketed status in India, there is currently no basis to advance this candidate.
+The prediction is supported only by the model score (99.84%), with no clinical trials or literature for rheumatoid nodulosis (Evidence Level L5). Package insert safety data and mechanism of action data are also missing.
 
 **To proceed, the following is needed:**
-- TFDA-equivalent/Indian regulatory label data (warnings, contraindications) to resolve the blocking data gap (DG001)
-- DrugBank-sourced mechanism of action data to properly evaluate mechanistic plausibility (DG002)
-- Independent preclinical or case-level evidence specifically linking Tretinoin to rheumatoid nodulosis (or related juvenile arthritis phenotypes) before this candidate can move past S0
-- If osteoarthritis is considered as an alternative candidate, a directionality review is required given literature suggesting retinoic acid agonism may worsen rather than improve cartilage degradation
+- Package insert warnings and contraindications from the India regulatory records, which are currently a blocking gap for safety screening
+- Detailed mechanism of action data
+- Literature and trial searches specific to retinoids in rheumatoid nodulosis and related rheumatoid or juvenile arthritis conditions
+- A defined route and formulation, since oral and topical products are both marketed and the required route for the new indication is not yet established
+- A risk assessment of the teratogenicity and the knowledge-graph contraindications for the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

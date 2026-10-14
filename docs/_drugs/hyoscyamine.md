@@ -2,7 +2,7 @@
 layout: default
 title: Hyoscyamine
 parent: Model Prediction Only (L5)
-nav_order: 413
+nav_order: 417
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Hyoscyamine: From Gastrointestinal Spasm to Gastroduodenitis
+# Hyoscyamine: From Peptic Ulcer Disease to Gastroduodenitis
 
 ## One-Sentence Summary
 
-Hyoscyamine is a muscarinic anticholinergic antispasmodic, clinically used to relieve gastrointestinal spasm, pain, and hypermotility. The TxGNN model predicts it may be effective for **Gastroduodenitis**, but this direction is currently supported by **0 clinical trials** and only **1 weakly-related publication**, so the prediction should be treated as a hypothesis, not a validated finding.
+Hyoscyamine is an antimuscarinic drug originally used to treat peptic ulcer disease.
+The TxGNN model predicts it may be effective for **gastroduodenitis**,
+but at present there are **no registered clinical trials** and only **1 loosely related publication** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | GI spasm / antispasmodic use (based on known pharmacology; no formal approved-indication text available in this dataset) |
+| Original Indication | Peptic ulcer disease |
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 99.59% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-A formal, sourced mechanism-of-action record for Hyoscyamine is not available in this dataset (flagged as a High-severity data gap, DG002). Based on the pharmacological description captured during evidence review, Hyoscyamine is a competitive antagonist at muscarinic acetylcholine receptors (M1–M3), which suppresses smooth-muscle contraction and glandular secretion. Clinically, this underlies its use as an antispasmodic for GI spasm, pain, and excessive motility.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, hyoscyamine is a non-selective competitive antagonist of muscarinic acetylcholine receptors. Blocking M3 receptors on gastric parietal cells and on smooth muscle can reduce gastric acid secretion, gastrointestinal motility and spasm.
 
-This anticholinergic action could theoretically ease the spasmodic abdominal pain that sometimes accompanies gastroduodenitis. However, it does not address the underlying pathology of gastroduodenitis, which is typically mucosal inflammation driven by *H. pylori* infection or NSAID exposure. Anticholinergic drugs have no anti-inflammatory or mucosal-protective effect.
+Peptic ulcer disease and gastroduodenitis are both upper gastrointestinal conditions. Symptom control through reduced acid secretion and reduced spasm is plausible in both. This link is inferred from general pharmacology, not from the supplied data.
 
-The very high TxGNN score (99.59%) most likely reflects a learned association pattern between "GI symptom-relief drugs" and GI diagnoses in the knowledge graph, rather than a true disease-modifying mechanism. This prediction should therefore be interpreted as a potential symptomatic-adjunct signal at best, not evidence of a treatment effect on gastroduodenitis itself.
+The high TxGNN score (0.996) reflects network proximity to peptic ulcer disease in the knowledge graph. It is a model prediction and is not clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -63,30 +65,52 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [10696836](https://pubmed.ncbi.nlm.nih.gov/10696836/) | 2000 | Review/Procedural | Endoscopy | Discusses IV sedation practice variation and premedication for endoscopy/colonoscopy (e.g., propofol use, informed consent); does not directly evaluate Hyoscyamine efficacy in gastroduodenitis, and its relevance to this indication is unconfirmed (marked "pending" in evidence classification). |
+| [10696836](https://pubmed.ncbi.nlm.nih.gov/10696836/) | 2000 | Review | Endoscopy | Review of premedication, preparation and surveillance for endoscopy (sedation practice, propofol use, consent). It does not directly assess hyoscyamine in gastroduodenitis, so its relevance is low. |
 
 ## India Market Information
 
-Hyoscyamine currently has no market authorization records in this dataset (market status: not marketed; 0 registrations), so no product/license table is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 103902 | Hyocimax-S Injection 1ml | Packet of 10 injections | Not stated |
+| Registration No. 26567 | Biospan 10mg Tablet | Strip of 10 tablets | Not stated |
+| Registration No. 103672 | Hyocimax-S Tablet | Strip of 10 disintegrating strips | Not stated |
+| Registration No. 75136 | Eupep Syrup | Bottle of 200 ml syrup | Not stated |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 207 total interactions on file. Notable moderate-level interactions include additive CNS/anticholinergic or respiratory-depressant effects with opioids (Fentanyl, Alfentanil, Codeine, Dihydrocodeine, Tramadol) and additive anticholinergic burden with other anticholinergic/antihistaminic agents (Amitriptyline, Amoxapine, Chlorpheniramine, Acrivastine, Phenyltoloxamine, Ambenonium, Amantadine) and with Ethanol. Minor interactions were noted with Acetaminophen and Hydrochlorothiazide.
+- **Contraindications (from knowledge-graph drug-disease links, not label text)**: The knowledge graph links hyoscyamine to a wide range of conditions where caution or avoidance may apply, including:
+  - Cardiovascular: hypertension, congestive heart failure
+  - Hepatic: liver failure, liver disease, cirrhosis, hepatic coma and encephalopathy
+  - Renal and urinary: kidney disease, pyoureter, benign prostatic hyperplasia
+  - Respiratory: chronic obstructive pulmonary disease
+  - Gastrointestinal: gastric ulcer, gastritis, gallbladder disease
+  - Metabolic and endocrine: diabetes mellitus, diabetic ketoacidosis, porphyria
+  - Haematological: thrombocytopenia, neutropenia, agranulocytosis, blood coagulation disorders, haemophilia
+  - Psychiatric: anxiety disorder, neurotic disorder, dysthymic disorder, substance abuse/dependence
 
-Formal key warnings and contraindications (e.g., from a Taiwan/regional product label) are not available in this dataset — this is flagged as a **Blocking** data gap (DG001), meaning a full safety (S1) assessment cannot be completed until label data is obtained.
+  The presence of gastric ulcer and gastritis on this list deserves attention, because it overlaps with the predicted indication.
+- **Drug Interactions**: 207 interactions were recorded. The examples listed are mostly Moderate, with a few Minor:
+  - Opioids and analgesics: fentanyl, alfentanil, codeine, dihydrocodeine, tramadol
+  - Other anticholinergic or sedating agents: amitriptyline, amoxapine, chlorpheniramine, acrivastine, phenyltoloxamine, aclidinium, ethanol
+  - Others: botulinum toxin type A, phenylephrine, acebutolol, amantadine, acetylcholine, ambenonium
+  - Minor: acetaminophen, hydrochlorothiazide
+
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for authoritative safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a single, weakly-relevant review article and no clinical trials (Evidence Level L5), and a blocking data gap on official label warnings/contraindications prevents even a preliminary safety assessment. The proposed mechanism also does not address the underlying inflammatory pathology of gastroduodenitis.
+The prediction rests only on a model score and general pharmacological reasoning (Evidence Level L5). No clinical trials exist, and the single publication retrieved is not relevant to the question. Knowledge-graph links to gastric ulcer and gastritis as contraindications also warrant clarification before any further work.
 
 **To proceed, the following is needed:**
-- Official product label / regulatory warnings and contraindications (DG001, blocking)
-- A sourced, verifiable mechanism-of-action reference (DG002)
-- Targeted literature/clinical-trial search specifically on Hyoscyamine (or anticholinergic antispasmodics) in gastroduodenitis or related dyspeptic/spasmodic GI conditions, since the current single hit is off-topic
-- Confirmation of Hyoscyamine's original approved indication(s) from a regulatory source, since none were available in this evidence pack
+- Package insert warnings and contraindications for the marketed Indian products, which are required before safety screening can proceed
+- Confirmed mechanism of action data from DrugBank
+- A targeted literature search on antimuscarinic or hyoscyamine use in gastritis, duodenitis or gastroduodenitis
+- Approved indication text for the four Indian registrations
+- Clarification of the contraindication signal for gastric ulcer and gastritis
+- Assessment of whether the available dosage forms suit the proposed use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

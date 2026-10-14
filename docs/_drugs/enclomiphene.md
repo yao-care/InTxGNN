@@ -2,7 +2,7 @@
 layout: default
 title: Enclomiphene
 parent: Model Prediction Only (L5)
-nav_order: 303
+nav_order: 306
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,85 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Enclomiphene: From Secondary Hypogonadism (Investigational) to Acute Intermittent Porphyria
+# Enclomiphene: From an Unspecified Approved Indication to Acute Intermittent Porphyria
 
 ## One-Sentence Summary
 
-Enclomiphene is the trans-isomer of clomiphene, a Selective Estrogen Receptor Modulator (SERM) that has been investigated in clinical trials for secondary hypogonadism in men, though it has not received regulatory approval in India or most other markets.
-The TxGNN model predicts it may have potential in **Acute Intermittent Porphyria (AIP)**,
-with **0 clinical trials** and **0 publications** currently supporting this specific direction — the prediction rests solely on knowledge graph inference.
-
----
+Enclomiphene is a selective estrogen receptor modulator (the trans-isomer of clomiphene) that is marketed in India, but the data compiled for this report do not list an approved indication.
+The TxGNN model predicts it may be effective for **acute intermittent porphyria**, but this is a model output only.
+**No clinical trials and no publications** currently support this direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Investigational: secondary hypogonadism in men (no approved indication on record) |
-| Predicted New Indication | Acute Intermittent Porphyria |
+|------|------|
+| Original Indication | Not stated in the compiled licence data |
+| Predicted New Indication | Acute intermittent porphyria |
 | TxGNN Prediction Score | 99.76% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 17 |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, enclomiphene is a selective estrogen receptor modulator. It blocks estrogen feedback at the hypothalamus, which raises LH and FSH secretion. It is mainly associated with male hypogonadism and fertility-related use.
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, enclomiphene is the (E)-isomer of clomiphene — a Selective Estrogen Receptor Modulator (SERM) that competitively antagonises estrogen receptors in the hypothalamus and pituitary. This disrupts the negative feedback loop on gonadotropin-releasing hormone (GnRH), leading to elevated LH and FSH, which in turn stimulates endogenous testosterone production. This is why it has been explored as a non-suppressive alternative to exogenous testosterone replacement in men with secondary hypogonadism.
+Acute intermittent porphyria is a heme biosynthesis disorder caused by HMBS deficiency. Hormonal changes can influence the frequency of porphyria attacks, so a link through endocrine modulation is conceivable. However, no data support a role for enclomiphene in this disease, and no mechanistic link has been established. The high score most likely reflects similarity within the model's knowledge graph rather than biological evidence, and should be treated as a hypothesis only.
 
-The biological link to Acute Intermittent Porphyria is indirect but not entirely without logic. AIP is triggered or exacerbated by hormonal fluctuations — particularly estrogen, which is known to upregulate hepatic ALA synthase (ALAS1), driving excess porphyrin precursor accumulation. A SERM that modulates estrogen receptor signalling could theoretically dampen this hormonal trigger of acute attacks. This mechanistic hypothesis exists in the broader SERM class literature.
+Other top-ranked predictions are also unsupported by evidence (see the table below).
 
-However, it is essential to note that this specific connection has never been explored in any enclomiphene study. The TxGNN score reflects a knowledge graph co-clustering inference — likely driven by the shared node between "porphyrin metabolism" and "steroid hormone signalling" — rather than any direct experimental evidence. The prediction should be treated as a hypothesis-generating signal, not a validated mechanistic link.
-
----
+| Rank | Predicted Disease | TxGNN Score |
+|------|------|------|
+| 2 | Psychogenic movement disorders | 99.65% |
+| 3 | Chronic tic disorder | 99.64% |
+| 4 | Benign shuddering attacks | 99.64% |
+| 5 | Extrapyramidal and movement disease | 99.64% |
+| 6 | Primary orthostatic tremor | 99.63% |
+| 7 | Tremor-nystagmus-duodenal ulcer syndrome | 99.62% |
+| 8 | Lingual-facial-buccal dyskinesia | 99.62% |
+| 9 | Benign paroxysmal tonic upgaze of childhood with ataxia | 99.61% |
+| 10 | Carbamoyl phosphate synthetase I deficiency disease | 99.48% |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for enclomiphene in acute intermittent porphyria.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for enclomiphene in acute intermittent porphyria.
+Currently no related literature available.
 
----
+## India Market Information
+
+Enclomiphene has 17 valid single-ingredient registrations in India and none cancelled. The approved indication text is not available for any of them. Five representative registrations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 161875 | Ova Plus 100mg Tablet | Strip of 10 tablets | Not available |
+| 205764 | Smartova Pure 50 Capsule | Strip of 5 capsules | Not available |
+| 78506 | Enos 50mg Tablet | Strip of 10 tablets | Not available |
+| 157975 | N Clomi 100mg Tablet | Strip of 5 tablets | Not available |
+| 79843 | Engamet 50mg Tablet | Strip of 5 tablets | Not available |
+
+All products are oral forms (tablets, capsules and soft gelatin capsules).
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Full safety data (key warnings, contraindications, and drug interaction profile) were not available in this Evidence Pack and must be retrieved from the DrugBank record and regulatory filings before any further development steps are taken.
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 top-ranked TxGNN predictions for enclomiphene carry an L5 evidence designation — meaning there is zero supporting clinical trial or published literature evidence for any of the predicted indications. The highest-ranked prediction (AIP) has a biologically plausible but entirely unverified mechanistic hypothesis. Without any human data, proceeding beyond hypothesis generation is premature.
+The prediction rests only on a computational score. There are no clinical trials or publications, and no plausible mechanistic link to acute intermittent porphyria has been established. The approved indication and mechanism of action are also missing from the compiled data.
 
 **To proceed, the following is needed:**
-
-- **Retrieve MOA data**: Pull the full DrugBank DB06735 record to confirm enclomiphene's receptor binding profile, pharmacodynamics, and known pharmacology
-- **Retrieve safety data**: Download and parse the full prescribing information / SmPC from any jurisdiction where enclomiphene has been studied (e.g., FDA NDA review documents for Androxal) to extract key warnings, contraindications, and DDI profile
-- **AIP mechanistic literature search**: Conduct a systematic PubMed search for "SERM + porphyria", "estrogen receptor modulation + AIP", and "clomiphene + porphyria" to assess whether any related compounds have been explored in porphyria models
-- **Assess AIP clinical context**: Determine whether existing AIP therapies (givosiran, hemin) leave an unmet need that a SERM could address, and in which patient subpopulation (e.g., women with hormonally-triggered attacks)
-- **Validate KG node connectivity**: Review the TxGNN knowledge graph edges connecting enclomiphene → estrogen receptor signalling → porphyrin metabolism to assess whether the prediction reflects a genuine mechanistic path or a graph clustering artefact
-- **India regulatory pathway**: Confirm whether enclomiphene can be imported or investigated under clinical trial regulations in India, given its zero-registration status
-
-> ⚠️ *This report is for research reference only and does not constitute medical advice. Any drug repurposing candidate requires prospective clinical validation before application.*
+- Package insert warnings and contraindications from the Indian regulatory source, which are required before any safety screening
+- Mechanism of action data and the approved indication from DrugBank or the package insert
+- A mechanistic and preclinical rationale linking selective estrogen receptor modulation to heme biosynthesis or porphyria attacks
+- A literature and trial search to confirm that no relevant studies exist
+- A route-of-administration and formulation compatibility assessment for the target disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

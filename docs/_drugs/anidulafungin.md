@@ -29,89 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Anidulafungin: From Fungal Infections to Impetigo
+# Anidulafungin: From Esophageal Candidiasis and Candidemia to Impetigo
 
 ## One-Sentence Summary
 
-Anidulafungin is an echinocandin-class antifungal agent approved internationally for the treatment of candidemia and invasive *Candida* infections (no India registration on record).
-The TxGNN model predicts it may be effective for **Impetigo**, yet **no supporting clinical trials or literature** currently exist for this indication.
-The mechanistic basis for this prediction is absent — impetigo is a bacterial skin infection, and anidulafungin's target (β-1,3-glucan synthase) is entirely fungus-specific.
-
----
+Anidulafungin is an echinocandin antifungal, originally used to treat esophageal candidiasis and candidemia.
+The TxGNN model predicts it may be effective for **impetigo**, but there are **no clinical trials** and **no publications** supporting this prediction, so it rests on model output alone.
+The mechanistic review found no plausible biological link.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Invasive candidiasis / candidemia (India regulatory data unavailable; based on international approvals) |
+|------|------|
+| Original Indication | Esophageal candidiasis, candidemia |
 | Predicted New Indication | Impetigo |
 | TxGNN Prediction Score | 98.85% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 12 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacological information, Anidulafungin belongs to the echinocandin class of antifungals. It works by non-competitively inhibiting **β-1,3-glucan synthase**, the enzyme responsible for assembling the β-glucan polymer layer in fungal cell walls. This target is entirely absent in bacteria and human cells, making it one of the more selective antifungal mechanisms known.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, anidulafungin belongs to the echinocandin class. It inhibits 1,3-beta-D-glucan synthase, an enzyme in the fungal cell wall, which explains its proven efficacy in invasive Candida infections.
 
-Impetigo is a superficial bacterial skin infection caused primarily by *Staphylococcus aureus* and *Streptococcus pyogenes* — both Gram-positive bacteria that do not possess β-1,3-glucan synthase. There is no established biochemical pathway through which anidulafungin could inhibit, neutralise, or modulate the virulence of these pathogens.
+The link to impetigo is weak. Impetigo is a bacterial skin infection, mainly caused by *Staphylococcus aureus* and *Streptococcus pyogenes*. Bacteria do not have the enzyme that anidulafungin targets, so the drug has no expected antibacterial activity. The high TxGNN score most likely reflects the model grouping anti-infective drugs together in its knowledge graph rather than a real biological relationship.
 
-The high TxGNN score (98.85%) is likely a **knowledge graph topology artefact** rather than a true pharmacological signal. Notably, 9 out of 10 top-ranked predictions in this analysis share the same pattern — high scores assigned to bacterial infections and pleural malignancies — all without mechanistic support. This cluster pattern strongly suggests the model is capturing the anatomical proximity of skin and pleural disease nodes in the knowledge graph, not genuine drug efficacy.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+The other top-ranked predictions have the same problem. Mesothelioma and other pleural tumours have no known glucan synthase target. Staphylococcal scalded skin syndrome, bullous impetigo, hordeolum and Clostridium infection are bacterial conditions. Pleural empyema is the only one with indirect support: a pharmacokinetic study showed the drug reaches pleural fluid. That supports feasibility for a fungal pleural infection, not efficacy in empyema, which is mostly bacterial.
 
 ## India Market Information
 
-Anidulafungin currently has **no approved registrations in India** (0 licenses on record). The drug is marketed in other jurisdictions (e.g., under the brand name **Eraxis** in the US and EU) for invasive candidiasis and candidemia, but has not entered the Indian market as of the data cut-off date (2026-04-05).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 3077 | Anidulan Injection (Mylan Pharmaceuticals) | Vial of 1 Injection | Indication text not listed |
+| 39084 | Canidula Injection (Gufic Bioscience) | Vial of 1 Injection | Indication text not listed |
+| 62776 | Dulaedge 100mg Injection (Abbott) | Vial of 1 Injection | Indication text not listed |
+| 72925 | Eraxis 100mg Injection (Pfizer) | Vial of 1 Injection | Indication text not listed |
+| 75267 | Endfung 100mg Injection (Glenmark) | Vial of 1 Injection | Indication text not listed |
 
----
+Twelve single-ingredient injectable registrations are valid, and none are cancelled. Only the five main ones are shown here.
 
 ## Safety Considerations
 
-**Drug Interactions:**
+- **Disease-level contraindication signals (from the knowledge graph, not label text)**: liver disease and gallbladder disease.
+- **Drug Interactions**: One interaction was found, with cyclosporine, rated Minor.
 
-| Interacting Drug | Severity | Details |
-|-----------------|----------|---------|
-| Cyclosporine | Minor | Minor pharmacokinetic interaction reported. Clinical significance is limited; routine monitoring is recommended when used together. |
-
-Please refer to the full package insert for complete warnings and contraindications (these data were not available in this evidence pack and are classified as a blocking data gap).
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN prediction score, there is no mechanistic basis, clinical trial, or published literature supporting anidulafungin for impetigo. The antifungal mechanism (β-1,3-glucan synthase inhibition) is entirely irrelevant to the Gram-positive bacteria that cause this condition, and the high score is most plausibly explained by knowledge graph topology rather than drug activity.
-
-**Broader pattern note:** All 10 top-ranked predictions in this report are "Hold" (9 at L5; 1 at L4 with a single pharmacokinetic study for pleural empyema in immunocompromised patients). This systematic pattern suggests a potential graph topology bias for Anidulafungin in the current TxGNN model, warranting further investigation before any indication is advanced.
+The prediction for impetigo has no clinical trials or publications behind it. The drug has no antibacterial activity and the target enzyme is absent in bacteria, so the high score is probably a graph artifact. Evidence is at the lowest level (L5).
 
 **To proceed, the following is needed:**
-
-- Retrieval of India CDSCO / full package insert to resolve the blocking safety data gap (warnings, contraindications)
-- Formal mechanistic review: does any published in vitro or in vivo evidence suggest antibacterial or immunomodulatory activity for echinocandins?
-- Knowledge graph bias audit: assess whether the pleural/skin disease node cluster artificially inflates scores for this drug
-- If the pleural empyema signal (Rank 4, L4) is of interest, a targeted PK/PD analysis for fungal empyema in immunosuppressed populations would be the most scientifically defensible next step
-
----
-
-> ⚠️ **Disclaimer:** This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any application.
+- A credible mechanistic rationale for activity against impetigo, or a switch to a better-supported indication
+- Package insert warnings and contraindications from the Indian manufacturers, which are currently missing and block safety screening
+- Detailed mechanism of action data
+- In vitro or preclinical data showing activity against the relevant pathogens
+- Route compatibility assessment, since only injectable forms are marketed and impetigo is usually treated topically
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

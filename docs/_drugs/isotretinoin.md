@@ -2,7 +2,7 @@
 layout: default
 title: Isotretinoin
 parent: Model Prediction Only (L5)
-nav_order: 450
+nav_order: 454
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,36 +29,36 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Isotretinoin: From Severe Acne to Malignant Renovascular Hypertension
+# Isotretinoin: From Hypertensive Disorder to Malignant Renovascular Hypertension
 
 ## One-Sentence Summary
 
-Isotretinoin is a synthetic retinoid (vitamin A derivative) primarily used for the treatment of severe nodular acne and related dermatological conditions.
-The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension**, however **0 clinical trials** and **0 publications** currently support this direction — this is a purely model-driven prediction without any clinical validation identified to date.
+Isotretinoin is listed in the underlying knowledge graph with hypertensive disorder and hypertension as its original indications. This listing conflicts with its known clinical use in severe recalcitrant nodular acne and may be a data-mapping artifact.
+The TxGNN model predicts it may be effective for **malignant renovascular hypertension**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Severe nodular acne (and related dermatological conditions) |
-| Predicted New Indication | Malignant Renovascular Hypertension |
+|------|------|
+| Original Indication | Hypertensive disorder / hypertension (from the knowledge graph; no approved indication text is available from Indian licences) |
+| Predicted New Indication | Malignant renovascular hypertension |
 | TxGNN Prediction Score | 99.01% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, Isotretinoin is a synthetic retinoid that modulates gene expression by binding to nuclear retinoic acid receptors (RARα, RARβ, RARγ) and retinoid X receptors (RXRs). Its efficacy in severe acne has been well established through decades of clinical use due to its ability to reduce sebaceous gland size, normalise keratinisation, and suppress inflammatory signalling. It is also used in neuroblastoma maintenance therapy for its capacity to induce cellular differentiation.
+Currently, detailed mechanism of action data is not available. Isotretinoin is a retinoid. Retinoid signalling has been studied in vascular and renal biology, but this is a hypothesis and not established evidence for treating malignant renovascular hypertension.
 
-Malignant renovascular hypertension is a life-threatening condition driven by renal artery stenosis, leading to pathological activation of the renin-angiotensin-aldosterone system (RAAS) and severe end-organ damage. Exploratory research suggests that retinoic acid signalling can influence vascular smooth muscle cell phenotype, renal tubular function, and inflammatory cascades — biological pathways that are relevant to renovascular disease. Some preclinical data have also indicated that retinoids may modulate renin expression and RAAS activity, providing a theoretical mechanistic bridge.
+The "original indications" in the knowledge graph (hypertensive disorder, hypertension) do not match the drug's known clinical use, which is severe recalcitrant nodular acne. The prediction therefore probably reflects relationships between nodes in the graph rather than a real pharmacological link. A second prediction, malignant hypertensive renal disease, has an identical score (99.01%). This suggests the two are closely related graph nodes and not independent signals.
 
-However, the knowledge-graph topology that drives TxGNN's high score does not guarantee a direct therapeutic relationship. No published clinical or translational evidence specifically linking Isotretinoin to malignant renovascular hypertension was identified during evidence collection. This prediction should be treated as a hypothesis-generating signal requiring independent experimental validation rather than a clinically supported repurposing candidate.
+Overall, no supported mechanistic link exists between isotretinoin and malignant renovascular hypertension. The high score should be read as a model output only.
 
 ---
 
@@ -74,29 +74,48 @@ Currently no related literature available.
 
 ---
 
+## India Market Information
+
+Twenty valid single-ingredient registrations are on record. The five main ones are listed below. None of them has approved indication text on file.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 97044 | Gloret 10mg Tablet | Strip of 10 tablets | Not specified |
+| 109591 | Isozit 20mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not specified |
+| 109482 | Isina 20mg Capsule | Strip of 10 capsules | Not specified |
+| 241821 | Wontret 20mg Tablet | Strip of 10 tablets | Not specified |
+| 200705 | Sotret NF 24mg Capsule | Strip of 10 soft gelatin capsules | Not specified |
+
+All products are oral forms (tablets and capsules).
+
+---
+
 ## Safety Considerations
 
-**Drug Interactions** (98 total interactions identified; key interactions listed below):
+- **Contraindications recorded in the knowledge graph** (graph relationships, not label text):
+  - Psychiatric: anxiety disorder, neurotic disorder, dysthymic disorder, psychotic disorder, schizophreniform disorder, schizoaffective disorder, mental disorder
+  - Liver, kidney and pancreas: liver disease, kidney disease, pancreatitis, gallbladder disease, pyoureter
+  - Metabolic and bone: diabetes mellitus, diabetic ketoacidosis, potassium deficiency disease, hyperuricemia, osteoporosis, postmenopausal osteoporosis
+  - Immune, blood and vascular: inflammatory bowel disease, systemic lupus erythematosus (including paediatric), neutropenia, agranulocytosis, hypotensive disorder
+  - Angioedema (all types): acquired, hereditary, hereditary with C1Inh deficiency, non-histaminic, and RAAS-blocker-induced
+- **Known safety concerns** (from the repurposing assessment): teratogenicity (boxed warning, iPLEDGE REMS), hypertriglyceridaemia and hepatotoxicity. In a kidney-related hypertensive condition, isotretinoin may worsen the dyslipidaemia that is common in kidney disease.
+- **Drug Interactions**: 98 interactions are recorded. The Major-level ones among those listed are:
+  - Doxycycline
+  - Minocycline
+  - Tetracycline
+  - Vitamin A
 
-| Interacting Drug | Level | Clinical Relevance |
-|-----------------|-------|--------------------|
-| Doxycycline | **Major** | Combined use significantly raises risk of intracranial hypertension (pseudotumour cerebri); concurrent use is contraindicated in standard practice |
-| Minocycline | **Major** | Same mechanism as Doxycycline; concurrent tetracycline-class antibiotics should be avoided |
-| Tetracycline | **Major** | Combined use markedly increases intracranial hypertension risk |
-| Vitamin A | **Major** | Additive retinoid toxicity; may precipitate hypervitaminosis A syndrome |
-| Betamethasone | Moderate | Corticosteroid interaction; monitor for additive adverse effects |
-| Budesonide | Moderate | Corticosteroid interaction; monitor closely |
-| Dexamethasone | Moderate | Corticosteroid interaction; monitor closely |
-| Hydrocortisone | Moderate | Corticosteroid interaction |
-| Prednisolone | Moderate | Corticosteroid interaction |
-| Prednisone | Moderate | Corticosteroid interaction |
-| Triamcinolone | Moderate | Corticosteroid interaction |
-| Warfarin | Moderate | May alter anticoagulation effect; INR monitoring recommended |
-| Dicoumarol | Moderate | Anticoagulant effect may be altered |
-| Ethanol | Moderate | Increased hepatotoxicity risk; alcohol should be minimised |
-| Naltrexone | Moderate | Interaction reported; monitor for adverse effects |
+  Moderate-level interactions include:
+  - Corticosteroids (betamethasone, budesonide, dexamethasone, hydrocortisone, prednisolone, prednisone, triamcinolone)
+  - Warfarin and dicoumarol
+  - Naltrexone
+  - Ethanol
+  - Ivacaftor and lumacaftor
+  - Nitisinone
+  - Fostamatinib
+  - Abametapir (topical)
 
-> Full warning and contraindication data are not available in this evidence pack. Please refer to the official package insert for complete safety information.
+Package insert warnings and contraindications could not be obtained for this report. Please refer to the package insert for label safety information.
 
 ---
 
@@ -105,16 +124,14 @@ Currently no related literature available.
 **Decision: Hold**
 
 **Rationale:**
-There is currently no clinical trial or published literature evidence supporting the use of Isotretinoin in malignant renovascular hypertension. The TxGNN score of 99.01% reflects a strong knowledge-graph signal, but with zero supporting studies, the evidence level is L5 (model prediction only). Advancing this candidate without any experimental validation would not be justified.
+The prediction has only model-based support (L5), with no clinical trials and no literature. The original indication in the knowledge graph appears to be a data artifact. The drug's known safety profile (teratogenicity, lipid elevation, hepatotoxicity, many interactions) is unfavourable for a severe hypertensive condition.
 
 **To proceed, the following is needed:**
-
-- **Mechanistic validation**: Confirm whether retinoic acid receptor signalling meaningfully modulates RAAS activity or vascular remodelling in renovascular hypertension models (preclinical studies required)
-- **Preclinical evidence**: Animal model studies (e.g., 2-kidney 1-clip rat model) to test Isotretinoin's antihypertensive effect before any clinical step
-- **Safety data completion**: Retrieve TFDA/CDSCO package insert to obtain key warnings, contraindications, and teratogenicity classification (currently a blocking data gap — DG001)
-- **MOA data**: Query DrugBank API for full mechanism of action details (DG002) to strengthen the repurposing rationale
-- **Literature sweep**: Conduct a broader PubMed search on retinoids + hypertension + renal disease to identify any indirect supporting evidence
-- **India regulatory pathway**: Since Isotretinoin is not currently marketed in India, a de novo regulatory filing strategy would be required if the candidate advances
+- Verification of the original indication mapping (isotretinoin's known use is acne)
+- Mechanism of action data (for example from DrugBank) to assess any link between retinoid signalling and renovascular or hypertensive renal disease
+- Package insert warnings and contraindications from Indian sources, to allow safety screening
+- Preclinical or clinical evidence that retinoids affect malignant renovascular hypertension
+- A benefit-risk analysis covering teratogenicity, lipid effects and liver and kidney safety in this patient population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,76 +29,119 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Acyclovir: From Herpes Infections to Punctate Epithelial Keratoconjunctivitis
+# Acyclovir: From Herpes Simplex Infection to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Acyclovir is a nucleoside analogue antiviral with well-established efficacy against herpes simplex virus (HSV) and varicella-zoster virus (VZV) infections.
-The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis (PEK)**,
-with **0 clinical trials** and **2 publications** currently supporting this direction — neither of which directly tests Acyclovir as a treatment for this condition.
-
----
+Acyclovir is an antiviral originally used to treat herpes simplex infections, herpes zoster, chickenpox, herpes labialis, herpes simplex encephalitis and genital herpes.
+The TxGNN model ranks **punctate epithelial keratoconjunctivitis** highest at 99.67%, but **no clinical trials** and only **2 unrelated publications** support it. The better-supported secondary signal is **common warts**, with **4 clinical trials** (intralesional acyclovir) and **about 20 publications**, including recent randomized trials.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Herpes simplex virus infections; varicella-zoster virus infections |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
-| TxGNN Prediction Score | 99.67% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
-
----
+|------|------|
+| Original Indication | Herpes simplex infection, herpes zoster, chickenpox, herpes labialis, herpes simplex encephalitis, genital herpes (the licence records carry no approved-indication text) |
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis (top-ranked); common wart (best-supported alternative) |
+| TxGNN Prediction Score | 99.67% (punctate epithelial keratoconjunctivitis); 99.46% (common wart) |
+| Evidence Level | L5 (top-ranked indication); L2 (common wart) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold (top-ranked indication); Proceed with Guardrails for common wart as a research question |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this dataset. Based on established medical knowledge, Acyclovir is a synthetic nucleoside analogue that, upon entry into virus-infected cells, is selectively converted to its active triphosphate form by viral thymidine kinase (TK). The active metabolite then competitively inhibits the viral DNA polymerase, halting viral replication. This TK-dependent activation is the cornerstone of Acyclovir's selectivity — it acts preferentially in HSV- and VZV-infected cells while sparing healthy host cells.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Acyclovir is a well-known guanosine analogue antiviral. It is activated by viral thymidine kinase and then inhibits herpesvirus DNA polymerase, which is why it works against HSV and VZV.
 
-Punctate epithelial keratoconjunctivitis is typically caused by adenoviruses (serotypes 3, 7, 8, 19, 37) or, in some populations, Microsporidia. Critically, neither adenoviruses nor Microsporidia encode a thymidine kinase. Without this viral enzyme, Acyclovir cannot be phosphorylated into its active form, making the standard antiviral mechanism mechanistically non-functional against these pathogens. This represents a fundamental incompatibility between drug mechanism and disease etiology.
+**Top-ranked prediction (punctate epithelial keratoconjunctivitis).** This condition can be herpetic or adenoviral. A plausible link exists only for herpetic cases. The two papers retrieved concern microsporidial keratoconjunctivitis and drug-induced corneal lipidosis in AIDS, so neither supports acyclovir use. The high score is a model prediction without clinical backing.
 
-The TxGNN model's high prediction score (99.67%) most likely reflects a broad knowledge graph association between the "ocular infections" node and "antiviral drugs" rather than a specific, direct efficacy signal for PEK. The two retrieved publications concern corneal lipidosis in AIDS patients and microsporidial keratoconjunctivitis epidemiology — neither involves Acyclovir as a therapeutic intervention for punctate epithelial keratoconjunctivitis. This is a cautionary example of a high TxGNN score driven by indirect node relationships in the knowledge graph.
+**Common wart.** Warts are caused by HPV, a DNA virus that lacks its own thymidine kinase, so acyclovir's selective activation is not expected to work as it does in herpesviruses. Proposed mechanisms are non-specific inhibition of viral DNA synthesis and immune modulation after intralesional injection. The mechanistic rationale is weak, but clinical activity has been reported repeatedly in small randomized comparisons, mostly from Egypt.
 
----
+**Other predictions** are weakly supported:
+- Herpetic eye disease (disease of the orbital region) largely overlaps with existing herpes indications.
+- Epidemic keratoconjunctivitis is adenoviral, so acyclovir is not expected to work.
+- Hepatitis C cirrhosis (an RNA virus) and vulvovaginal candidiasis (a fungus) have no plausible acyclovir target.
+- Sequela of COVID-19 mostly reflects treatment of reactivated herpes infections, not COVID-19 itself.
+- Post-infectious neuralgia, eosinophilic pustular folliculitis and papular urticaria have no retrieved evidence.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Trials for the top-ranked indication: currently no related clinical trials registered.
 
----
+Trials for common wart (best-supported alternative):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT06261684](https://clinicaltrials.gov/study/NCT06261684) | Phase 2/3 | Unknown | 92 | Randomized trial of intralesional acyclovir vs cryotherapy in plantar warts; safety and efficacy comparison |
+| [NCT05429151](https://clinicaltrials.gov/study/NCT05429151) | Phase 4 | Unknown | 40 | Intralesional acyclovir vs Candida antigen in plantar warts |
+| [NCT05324904](https://clinicaltrials.gov/study/NCT05324904) | Not applicable | Unknown | 44 | Intralesional vitamin D3 vs acyclovir in plantar warts |
+| [NCT07448844](https://clinicaltrials.gov/study/NCT07448844) | Phase 4 | Recruiting | 40 | Intralesional vitamin D3 vs acyclovir in cutaneous viral warts; complete clearance at week 8 |
+
+Related ocular trials (herpetic eye disease, disease of the orbital region):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT06757907](https://clinicaltrials.gov/study/NCT06757907) | Not applicable | Completed | 20 | Topical ganciclovir vs systemic acyclovir in herpetic keratitis |
+| [NCT05313828](https://clinicaltrials.gov/study/NCT05313828) | Not applicable | Unknown | 40 | Treatment modalities for dendritic viral ulcer |
+| [NCT03389191](https://clinicaltrials.gov/study/NCT03389191) | Not applicable | Unknown | 30 | Oral acyclovir in refractory viral uveitis |
 
 ## Literature Evidence
 
+Common wart (best-supported alternative):
+
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [7825685](https://pubmed.ncbi.nlm.nih.gov/7825685/) | 1995 | Case Series | American Journal of Ophthalmology | Two AIDS patients treated for opportunistic infections developed bilateral ocular surface changes consistent with drug-induced corneal lipidosis; describes phospholipid accumulation in lysosomal membranes but does not involve Acyclovir as a PEK treatment |
-| [21934222](https://pubmed.ncbi.nlm.nih.gov/21934222/) | 2011 | Case Series | Indian Journal of Pathology & Microbiology | Case series characterizing microsporidial keratoconjunctivitis in an eastern Indian cohort; describes Microsporidia as intracellular parasites causing MKC; Acyclovir not mentioned as treatment |
+|------|-----|------|------|---------|
+| [40889709](https://pubmed.ncbi.nlm.nih.gov/40889709/) | 2026 | RCT | J Am Acad Dermatol | Intralesional acyclovir vs cryotherapy in plantar warts |
+| [40488756](https://pubmed.ncbi.nlm.nih.gov/40488756/) | 2025 | RCT/Comparative | Arch Dermatol Res | Intralesional acyclovir vs 5-fluorouracil in recalcitrant warts |
+| [38822848](https://pubmed.ncbi.nlm.nih.gov/38822848/) | 2024 | RCT | Arch Dermatol Res | Intralesional acyclovir vs hepatitis B vaccine in resistant plantar warts (48 patients) |
+| [41686619](https://pubmed.ncbi.nlm.nih.gov/41686619/) | 2026 | Systematic review / network meta-analysis | Medicine | Comparison of treatment modalities for cutaneous warts, including intralesional acyclovir |
+| [40056255](https://pubmed.ncbi.nlm.nih.gov/40056255/) | 2025 | Clinical trial | Arch Dermatol Res | Intralesional acyclovir vs quadrivalent HPV vaccine in recalcitrant warts (60 patients) |
+| [37303436](https://pubmed.ncbi.nlm.nih.gov/37303436/) | 2023 | Comparative study | Cureus | Intralesional acyclovir vs PPD immunotherapy in viral warts |
+| [34412535](https://pubmed.ncbi.nlm.nih.gov/34412535/) | 2022 | Clinical study | J Cutan Med Surg | Intralesional acyclovir as a potential option for cutaneous warts |
+| [38793636](https://pubmed.ncbi.nlm.nih.gov/38793636/) | 2024 | Case reports and review | Viruses | Remission of HPV-related disease with acyclovir or valacyclovir |
+| [26885794](https://pubmed.ncbi.nlm.nih.gov/26885794/) | 2016 | Case report | J Drugs Dermatol | Persistent plantar warts resolved after oral acyclovir given for zoster |
 
-> ⚠️ Neither publication supports Acyclovir as an effective or tested treatment for punctate epithelial keratoconjunctivitis.
+Top-ranked indication (punctate epithelial keratoconjunctivitis):
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [21934222](https://pubmed.ncbi.nlm.nih.gov/21934222/) | 2011 | Case series | Indian J Pathol Microbiol | Microsporidial keratoconjunctivitis cohort; no acyclovir link |
+| [7825685](https://pubmed.ncbi.nlm.nih.gov/7825685/) | 1995 | Case report | Am J Ophthalmol | Drug-induced corneal lipidosis in AIDS; not relevant to acyclovir efficacy |
+
+## India Market Information
+
+Acyclovir has 20 valid single-ingredient registrations, and all of them are marketed. Oral tablets (including dispersible forms) and injectables are available. The licence records contain no approved-indication text. Five main registrations:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 90 | Acivir 400 DT Tablet (Cipla Ltd) | Dispersible tablet, strip of 5 | Not specified in the records |
+| 5358 | Acloveer 400 Tablet (Knoll Pharmaceuticals Ltd) | Tablet, strip of 10 | Not specified in the records |
+| 103927 | Herpex 200mg Tablet (Torrent Pharmaceuticals Ltd) | Tablet, strip of 10 | Not specified in the records |
+| 124530 | Lovir 800mg Tablet (Eli Lilly and Company India Pvt Ltd) | Tablet, strip of 5 | Not specified in the records |
+| 193040 | Riv 500mg Injection (Medilife Health Sciences Pvt Ltd) | Injection, vial | Not specified in the records |
+
+An injectable formulation (500 mg vial) is registered, so the intralesional approach used in wart trials relies on diluting an existing vial. This is off-label and no wart-specific product exists.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications flagged in the knowledge graph** (not drawn from label text): hypertension, kidney disease and impaired renal function, hemolytic-uremic syndrome, thrombocytopenic purpura, diabetes and hyperglycemia, diabetic ketoacidosis, adrenocortical insufficiency, stroke and cerebrovascular disorders, myocardial infarction, peripheral vascular disease, obesity, skin atrophy and telangiectasia. Several of these look like class-level or non-specific associations, so they should be checked against the package insert.
+- **Drug Interactions**: 100 interactions were found. Those graded Moderate are the aminosalicylates (balsalazide, mesalazine, olsalazine, sulfasalazine) and trospium. Others, such as amphotericin B, metformin, glimepiride, rosiglitazone, morphine, doxycycline, omeprazole, pantoprazole, lansoprazole, sucralfate, calcitriol, mannitol, epinephrine, palonosetron and clotrimazole, are listed with unknown severity.
 
----
+Warnings and contraindications from the package insert were not available. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold for punctate epithelial keratoconjunctivitis; Proceed with Guardrails for common wart (research question only)**
 
 **Rationale:**
-Punctate epithelial keratoconjunctivitis is caused by adenoviruses and Microsporidia, neither of which encodes the thymidine kinase required for Acyclovir activation. There is no mechanistic rationale for this repurposing candidate, the evidence level is L5 (model prediction only), and the high TxGNN score almost certainly reflects an indirect knowledge graph artifact rather than a genuine therapeutic signal.
+- The top-ranked prediction rests on model score alone. The retrieved papers are unrelated, and the mechanism applies only to herpetic cases.
+- Common wart has the strongest signal (4 small trials, several recent RCTs), but the mechanism is weak, the samples are small, most work comes from one region, and the Phase 2/3 trial has unknown status. This supports further study, not clinical adoption.
 
 **To proceed, the following is needed:**
-- Identification of any TK-independent antiviral mechanism that could explain activity against adenovirus or Microsporidia
-- In vitro testing of Acyclovir against the clinically relevant adenovirus serotypes (8, 19, 37) to determine minimum inhibitory concentrations
-- Mechanistic hypothesis generation distinct from the standard TK-phosphorylation pathway
-- Complete safety profile retrieval from the package insert (currently unavailable due to data gap DG001)
-- MOA confirmation via DrugBank API query (data gap DG002) before any further development consideration
+- Package insert warnings and contraindications (blocking gap for safety screening)
+- Detailed mechanism-of-action data
+- For warts: a larger, multicentre, blinded RCT with a defined dose and long-term recurrence follow-up, plus a review of local-injection safety
+- For the eye indication: confirmation of herpetic aetiology and clear separation from existing herpes keratitis indications
+- Route compatibility assessment (intralesional use is off-label relative to the registered oral and intravenous forms)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Altretamine
-parent: High Evidence (L1-L2)
+parent: Moderate Evidence (L3-L4)
 nav_order: 42
-evidence_level: L2
+evidence_level: L4
 indication_count: 10
 ---
 
 # Altretamine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,115 +29,80 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Altretamine: From Refractory Ovarian Cancer to Female Breast Carcinoma
+# Altretamine: From Ovarian Cancer to Female Breast Carcinoma
 
 ## One-Sentence Summary
 
-Altretamine (hexamethylmelamine, HMM) is an oral s-triazine class chemotherapy agent approved for the treatment of refractory ovarian cancer.
-The TxGNN model predicts it may be effective for **Female Breast Carcinoma**, with a prediction score of **99.91%**.
-Currently, **20 publications** — including multiple Phase II clinical trials conducted between the 1970s and 1990s — provide historical clinical evidence for this direction, though no directly relevant active clinical trials are currently registered.
-
----
+Altretamine is an oral cytotoxic agent originally used to treat ovarian cancer.
+The TxGNN model predicts it may be effective for **female breast carcinoma**, but **no clinical trials** are registered for this use. Support is limited to **3 publications**, which include a systematic review, a preclinical xenograft study and a dose-intensity analysis in ovarian cancer.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Refractory ovarian cancer |
-| Predicted New Indication | Female Breast Carcinoma |
+|------|------|
+| Original Indication | Ovarian cancer (including ovarian adenocarcinoma and ovarian germ cell tumours; the India licence has no indication text) |
+| Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 99.91% |
-| Evidence Level | L2 |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Altretamine is an s-triazine class oral alkylating-like agent. After hepatic CYP450 metabolism, it generates active metabolites that form DNA interstrand crosslinks, inhibiting DNA replication and ultimately inducing tumour cell apoptosis. Its efficacy in refractory epithelial ovarian cancer has been clinically established, and this DNA damage mechanism is mechanistically relevant to breast cancer — particularly in tumours with defective DNA repair pathways (e.g., BRCA1/2 mutation carriers), which share biological vulnerabilities with platinum-sensitive ovarian cancer.
+Detailed mechanism of action data are not available in the data compiled for this report. Based on general pharmacological knowledge, altretamine (hexamethylmelamine) is an s-triazine, alkylating-like cytotoxic agent. It is thought to need metabolic activation to reactive intermediates, such as formaldehyde-releasing methylmelamines, that damage DNA. This mechanism is not specific to one tumour type, so it could plausibly act in breast carcinoma.
 
-Ovarian cancer and breast cancer share important biological overlap: both are hormone-sensitive malignancies common in women, both may carry BRCA1/2 germline mutations, and both show susceptibility to DNA-damaging agents. Altretamine's partial mechanistic overlap with platinum compounds is especially relevant because BRCA-mutated breast cancer cells harbour homologous recombination repair defects — the same vulnerability exploited in ovarian cancer treatment.
+The only direct signal comes from a 1995 preclinical study. In nude mice, altretamine showed antitumour activity against human breast carcinoma xenografts, and also against stomach and colon carcinoma xenografts. A 2023 systematic review of s-triazine derivatives also discusses altretamine as an approved s-triazine anticancer drug, though it mentions breast cancer in connection with gedatolisib rather than altretamine.
 
-Historical clinical evidence further supports this rationale. Multiple Phase II trials from the late 1970s to early 1990s tested Altretamine (then called hexamethylmelamine, HMM) in patients with metastatic breast cancer who had failed prior anthracycline-based regimens, observing modest but reproducible antitumour activity. A 2023 systematic review (PMID 37298753) also highlighted Altretamine as one of only three clinically approved s-triazine derivatives in oncology, confirming its established place in antineoplastic pharmacology.
-
----
+The high TxGNN score reflects knowledge-graph proximity between cancers. It is not proof of clinical benefit. No human efficacy data in breast cancer were supplied.
 
 ## Clinical Trial Evidence
 
-No directly relevant Altretamine-specific clinical trials for female breast carcinoma were identified in the current database. The four trials retrieved (NCT06299163, NCT04442126, NCT05775822, NCT04931823) were assessed as irrelevant (Grade C) — they involve unrelated investigational agents (tri-specific antibodies, CPO-100) or cardiovascular endpoints, and represent database mapping artefacts rather than Altretamine trials.
-
-> Currently no directly relevant Altretamine clinical trials for breast carcinoma are registered on ClinicalTrials.gov.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [37298753](https://pubmed.ncbi.nlm.nih.gov/37298753/) | 2023 | Systematic Review | Molecules | Comprehensive review of s-triazine antitumour compounds; confirms Altretamine as one of only three clinically approved s-triazine agents, approved for refractory ovarian cancer |
-| [118805](https://pubmed.ncbi.nlm.nih.gov/118805/) | 1979 | Phase II Clinical Trial | Cancer Treatment Reports | 53 patients with metastatic breast cancer (post-FAC/CMFP failure) randomised to HMM alone vs HMM+vincristine+mitomycin C (HOM); both arms showed measurable activity |
-| [113095](https://pubmed.ncbi.nlm.nih.gov/113095/) | 1979 | Phase II Clinical Trial | Cancer Treatment Reports | 98 heavily pretreated metastatic breast cancer patients; 2% response rate to HMM alone; neurological toxicity observed in HMM-only arm |
-| [6785566](https://pubmed.ncbi.nlm.nih.gov/6785566/) | 1981 | Phase II Clinical Trial | Medical and Pediatric Oncology | AVDH combination (adriamycin + vincristine + dibromodulcitol + HMM) in advanced breast cancer after CMFP failure; ECOG pilot study |
-| [6797746](https://pubmed.ncbi.nlm.nih.gov/6797746/) | 1981 | Phase I/II Clinical Trial | Cancer Clinical Trials | Four-drug regimen (cyclophosphamide + 5-FU + HMM + prednisone) in 19 advanced breast cancer patients; 7/18 evaluable patients achieved objective response |
-| [1904313](https://pubmed.ncbi.nlm.nih.gov/1904313/) | 1991 | Clinical Retrospective Series | Cancer Treatment Reviews | Review of HMM use in metastatic breast cancer; summarises historical clinical experience |
-| [2410072](https://pubmed.ncbi.nlm.nih.gov/2410072/) | 1985 | Clinical Series | Breast Cancer Research and Treatment | 23 metastatic breast cancer patients treated with intensive multiagent induction including HMM; complete remission rate and durability assessed |
-| [820422](https://pubmed.ncbi.nlm.nih.gov/820422/) | 1976 | Narrative Review | Cancer | Decade-long NCI evaluation of HMM; confirmed activity across solid tumours including breast carcinoma; noted lack of cross-resistance with other agents |
-| [7559101](https://pubmed.ncbi.nlm.nih.gov/7559101/) | 1995 | In Vivo Xenograft | Japanese Journal of Cancer Research | Altretamine tested against 5 human breast carcinoma xenografts (MX-1, T-61, MCF-7, R-27, Br-10) in nude mice; direct evidence of in vivo antitumour activity |
-| [8317890](https://pubmed.ncbi.nlm.nih.gov/8317890/) | 1993 | Mechanistic/Laboratory | Anticancer Research | HMM derivative SAE9 developed with both direct antitumour activity and aromatase-inhibitory activity on breast carcinoma cell lines (MCF-7, R-27, MDA-MB-231); supports mechanistic rationale |
+|------|-----|------|------|---------|
+| [37298753](https://pubmed.ncbi.nlm.nih.gov/37298753/) | 2023 | Systematic review | Molecules | Reviews s-triazine derivatives as anticancer scaffolds. Altretamine is noted as approved for refractory ovarian cancer. |
+| [7559101](https://pubmed.ncbi.nlm.nih.gov/7559101/) | 1995 | Preclinical (in vivo xenograft) | Jpn J Cancer Res | Altretamine (hexamethylmelamine) showed antitumour activity against human breast, stomach and colon carcinoma xenografts in nude mice. |
+| [8411257](https://pubmed.ncbi.nlm.nih.gov/8411257/) | 1993 | Review / dose-intensity analysis | J Natl Cancer Inst | Dose-intensity analysis of multiagent chemotherapy in advanced ovarian cancer. Only cisplatin showed a significant association between dose intensity and response. |
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 45917 | Cantret Capsule (Natco Pharma Ltd) | Strip of 10 capsules | Not stated in the licence data |
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic — s-triazine class (alkylating-like mechanism) |
-| Myelosuppression Risk | Moderate (leucopenia and thrombocytopenia reported in clinical trials; less severe than typical alkylating agents) |
-| Emetogenicity Classification | High (dose-limiting gastrointestinal toxicity, including nausea and vomiting, is a well-documented concern) |
-| Monitoring Items | CBC with differential, liver function tests, renal function, neurological assessment (peripheral neuropathy risk) |
-| Handling Protection | Must follow cytotoxic drug handling regulations; oral administration requires standard chemotherapy dispensing precautions |
-
----
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (s-triazine, alkylating-like agent) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions. The knowledge graph lists thrombocytopenia, leukopenia and anaemia as contraindication-related conditions, which suggests haematological toxicity is a concern. |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC with differential, liver and renal function, and neurological assessment (the knowledge graph flags peripheral neuropathy) |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-**Drug Interactions** (120 interactions on record; key interactions listed below):
+- **Conditions flagged in the knowledge graph (not label text)**: thrombocytopenia, leukopenia, anaemia (including macrocytic anaemia), peripheral neuropathy and other peripheral nervous system disease, and central nervous system origin vertigo.
+- **Drug Interactions**: 120 interactions were identified. Major-level examples include deferiprone, adalimumab and samarium (153Sm) lexidronam. Moderate-level examples include cimetidine, pyridoxine, chloramphenicol, doxepin, zidovudine, ganciclovir, alemtuzumab and strontium chloride Sr-89. Minor-level examples include levofloxacin and gemifloxacin. Many of these involve additive myelosuppression or immunosuppression.
 
-| Interacting Drug | Level | Clinical Significance |
-|-----------------|-------|----------------------|
-| Deferiprone | **Major** | Additive myelosuppression risk; combination generally contraindicated |
-| Adalimumab | **Major** | Immunosuppression-related infection risk; combination requires careful evaluation |
-| Samarium (153Sm) lexidronam | **Major** | Additive haematological toxicity |
-| Cimetidine | Moderate | Cimetidine inhibits CYP450 metabolism of Altretamine, potentially increasing drug exposure and toxicity |
-| Pyridoxine | Moderate | Pyridoxine (vitamin B6) may reduce Altretamine neurotoxicity but has also been reported to decrease antitumour efficacy; balance requires clinical judgement |
-| Zidovudine | Moderate | Additive myelosuppression |
-| Chloramphenicol | Moderate | Additive bone marrow suppression |
-| Ganciclovir | Moderate | Additive myelosuppression |
-| Doxepin | Moderate | Potential pharmacodynamic interaction |
-| Strontium chloride Sr-89 | Moderate | Additive myelosuppression risk |
-
-> For complete safety information including warnings, contraindications, and full interaction profile, please refer to the package insert (SmPC/labelling).
-
----
+Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Historical Phase II clinical data from the 1970s–1990s and in vivo xenograft evidence confirm that Altretamine has genuine antitumour activity in breast cancer, and the mechanistic rationale — DNA damage in BRCA-mutated or repair-deficient tumours — is scientifically plausible. However, all evidence is dated, no modern randomised trials exist, and India has no approved formulation of this drug.
+The prediction rests on a model score, a single preclinical xenograft study and indirect review literature. No clinical trials or human efficacy data exist for breast carcinoma. The evidence is at L4, and the safety profile (myelosuppression, neurotoxicity, many interactions) calls for caution. Altretamine is also not a standard breast cancer therapy.
 
 **To proceed, the following is needed:**
-
-- **MOA data**: Retrieve detailed mechanism of action from DrugBank API (DB00488) to strengthen mechanistic link analysis
-- **Regulatory safety data**: Download and parse the full prescribing information (SmPC or FDA label) to populate warnings and contraindications currently missing
-- **Modern biomarker context**: Assess whether BRCA1/2 mutation status or homologous recombination deficiency (HRD) scoring could stratify patient populations likely to respond — aligning with contemporary precision oncology frameworks
-- **Reformulation feasibility**: Evaluate whether Altretamine (currently only available orally in limited markets) could be sourced or reformulated for India; confirm regulatory pathway with CDSCO
-- **Updated literature search**: Commission a systematic search for any post-2000 studies incorporating HMM into breast cancer regimens, including any combination studies with PARP inhibitors given the BRCA-overlap rationale
-- **Preclinical confirmation**: Consider a focused in vitro study in BRCA-mutated breast cancer cell lines to confirm contemporary relevance before investing in clinical development
-
-> ⚠️ *Disclaimer: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+- Package insert warnings and contraindications for Cantret Capsule, which are needed before safety screening.
+- Mechanism of action data from DrugBank.
+- Clinical data in breast cancer, such as earlier phase 2 studies, with a comparison against current standard therapy.
+- A review of the other predicted indications (germ cell tumours, mucinous adenocarcinomas of other organs). These are all prediction-only (L5) and largely overlap with existing ovarian indications or rest on histology similarity.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

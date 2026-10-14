@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Insulin Glulisine
-parent: High Evidence (L1-L2)
-nav_order: 434
-evidence_level: L1
+parent: Model Prediction Only (L5)
+nav_order: 438
+evidence_level: L5
 indication_count: 10
 ---
 
 # Insulin Glulisine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,107 +29,95 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Insulin Glulisine: From Diabetes Management to Type 1 Diabetes Mellitus
+# Insulin Glulisine: From Diabetes Mellitus to Type 1 Diabetes Mellitus
 
 ## One-Sentence Summary
 
-Insulin glulisine (Apidra®) is a rapid-acting human insulin analogue with established approval by the US FDA and EMA for glycemic control in patients with diabetes mellitus, though it is not currently registered in India.
-The TxGNN model predicts it may be effective for **Type 1 Diabetes Mellitus (T1DM)** — a finding aligned with its internationally approved core indication — supported by **50+ clinical trials** and **19 publications**, including multiple completed Phase 3 RCTs across adult and pediatric populations.
-This report frames the prediction as a market-entry evaluation, given the complete absence of local CDSCO registration despite a robust global evidence base.
+Insulin glulisine is a rapid-acting human insulin analogue, originally used to treat diabetes mellitus and diabetic ketoacidosis.
+The TxGNN model predicts it may be effective for **type 1 diabetes mellitus**, which in practice already falls within its diabetes indication, so this is an on-label use rather than true repurposing. It is supported by **27 registered clinical trials** and **20 publications**.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Glycemic control in diabetes mellitus (FDA/EMA approved globally; no India registration) |
-| Predicted New Indication | Type 1 Diabetes Mellitus |
+|------|------|
+| Original Indication | Diabetes mellitus; diabetic ketoacidosis (from the knowledge graph; the Indian licence records contain no approved indication text) |
+| Predicted New Indication | Type 1 diabetes mellitus |
 | TxGNN Prediction Score | 99.55% |
-| Evidence Level | L1 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L1 (assigned from published comparative trials; the Phase 3 trials listed below also support this level) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Insulin glulisine \[3(B)-Lys, 29(B)-Glu human insulin\] is a rapid-acting insulin analogue engineered to overcome the pharmacokinetic limitations of regular human insulin. By substituting asparagine with lysine at position B3 and lysine with glutamate at position B29, the molecule cannot form zinc-coordinated hexamers in subcutaneous tissue, enabling faster dissociation into monomers and absorption into the bloodstream. It binds the insulin receptor (INSR), activating the PI3K/Akt/mTOR signaling cascade to promote GLUT4 translocation to cell membranes, accelerate peripheral glucose uptake, stimulate glycogen synthesis, and suppress hepatic gluconeogenesis. The result is an onset of action within 10–15 minutes, peak effect at approximately 1 hour, and a duration of roughly 4 hours — closely mimicking physiological first-phase insulin secretion.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, insulin glulisine is a rapid-acting insulin analogue that binds the insulin receptor and lowers blood glucose. It has a faster onset and shorter duration of action than regular human insulin.
 
-Type 1 diabetes mellitus is caused by autoimmune destruction of pancreatic β-cells (mediated primarily by autoreactive CD8+ T cells targeting antigens such as GAD65 and IA-2), leading to absolute and irreversible insulin deficiency. Without exogenous insulin replacement, patients cannot regulate blood glucose and are at immediate risk of diabetic ketoacidosis. The mechanistic link between insulin glulisine and T1DM is therefore direct and essential: the drug directly replaces the endogenous prandial insulin signal that β-cells can no longer provide. Its rapid onset is particularly well suited to prandial (mealtime) coverage in basal-bolus regimens and to continuous subcutaneous insulin infusion (CSII) pumps, where catheter compatibility and absence of zinc-induced precipitation are important practical advantages.
+Type 1 diabetes is a form of diabetes mellitus, the drug's original indication, so the prediction is consistent with existing use. Insulin replacement is the cornerstone of type 1 diabetes therapy. The drug has been studied extensively in mealtime (prandial) use, basal-bolus regimens with insulin glargine, and pump (CSII) therapy.
 
-Globally, insulin glulisine received US FDA approval in 2004 and EMA approval under the brand Apidra® (Sanofi) for glycemic control in adults and pediatric patients ≥4 years with T1DM and T2DM. The TxGNN model's top-ranked prediction (score 99.55%) correctly identifies T1DM as the primary therapeutic target. This is not a speculative drug repurposing — rather, it represents an opportunity to bring an evidence-rich, globally established therapy into the Indian market, where it is currently unregistered.
+Other top-ranked predictions (e.g., stiff person syndrome, autoimmune oophoritis, lipodystrophies) mostly reflect comorbidity or side-effect associations in the knowledge graph rather than therapeutic rationale, and are not pursued here.
 
 ---
 
 ## Clinical Trial Evidence
 
+The compiled data include 27 trials. The 10 most relevant are listed below, prioritising completed Phase 3 trials and direct glulisine studies.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|---|---|---|---|---|
-| [NCT02688933](https://clinicaltrials.gov/study/NCT02688933) | Phase 4 | Completed | 638 | 16-week randomized active-controlled trial in adult T1DM comparing morning Toujeo (glargine U300) vs Lantus, both combined with glulisine as prandial insulin; Toujeo showed better CGM glucose control and fewer nocturnal hypoglycemic events |
-| [NCT04974528](https://clinicaltrials.gov/study/NCT04974528) | Phase 3 | Completed | 319 | INHALE-1: 26-week pediatric trial comparing inhaled Afrezza vs rapid-acting insulin analogues including glulisine in combination with basal insulin in T1DM/T2DM children; provided comparative safety and efficacy data for glulisine in pediatric populations across a 52-week study window |
-| [NCT00290979](https://clinicaltrials.gov/study/NCT00290979) | Phase 3 | Completed | 250 | 28-week randomized non-inferiority trial in T1DM adults comparing insulin glulisine to insulin lispro; demonstrated comparable HbA1c reduction and equivalent safety profile |
-| [NCT00546702](https://clinicaltrials.gov/study/NCT00546702) | Phase 3 | Completed | 142 | 26-week open-label multicenter study evaluating glulisine efficacy (HbA1c change from baseline) and safety in T1DM patients using glargine as basal insulin |
-| [NCT00271284](https://clinicaltrials.gov/study/NCT00271284) | Phase 3 | Completed | 88 | Crossover multicenter RCT comparing fasting glucose variability with glargine+glulisine vs detemir+glulisine in T1DM; demonstrated non-inferiority of both combinations |
-| [NCT01202474](https://clinicaltrials.gov/study/NCT01202474) | Phase 4 | Completed | 100 | Multicenter Phase 4 study evaluating Apidra (glulisine) + Lantus in T1DM children and adolescents (ages 6–17 years) in Russia over 12 months; primary endpoint: HbA1c <8% (ages 6–12) and <7.5% (ages 13–17) |
-| [NCT04124302](https://clinicaltrials.gov/study/NCT04124302) | Phase 4 | Completed | 76 | RCT in T1DM children comparing two insulin dose calculation methods for mixed meals using glulisine-based regimen; evaluated impact on postprandial glycemia |
-| [NCT01848990](https://clinicaltrials.gov/study/NCT01848990) | Phase 4 | Completed | 456 | CONSISTENT 1: 6-month study evaluating hyaluronidase preadministration in T1DM patients on CSII (predominantly with glulisine); compared HbA1c improvement, local tolerability, and hypoglycemia rates vs standard CSII |
-| [NCT01678235](https://clinicaltrials.gov/study/NCT01678235) | Phase 4 | Completed | 64 | Double-blind crossover RCT in T1DM children comparing postprandial glycemic control of glulisine vs insulin aspart after high-glycaemic index meals via insulin pump (CSII) |
-| [NCT00964574](https://clinicaltrials.gov/study/NCT00964574) | Phase 4 | Completed | 68 | Open-label multicenter Phase 4 study evaluating efficacy, safety, insulin doses, and patient satisfaction with glulisine in T1DM patients on a glargine-based regimen over 12 months |
+|---------|------|------|------|---------|
+| [NCT00115570](https://clinicaltrials.gov/study/NCT00115570) | Phase 3 | Completed | 572 | Glulisine vs lispro in children and adolescents with type 1 diabetes, 26 weeks |
+| [NCT00467376](https://clinicaltrials.gov/study/NCT00467376) | Phase 3 | Completed | 485 | Glulisine vs lispro with glargine in type 1 or 2 diabetes; efficacy and hypoglycaemia frequency |
+| [NCT00290979](https://clinicaltrials.gov/study/NCT00290979) | Phase 3 | Completed | 250 | Non-inferiority of glulisine vs lispro on HbA1c change in type 1 diabetes, 28 weeks |
+| [NCT00397553](https://clinicaltrials.gov/study/NCT00397553) | Phase 3 | Completed | 104 | Local efficacy and safety data for glulisine with glargine in type 1 diabetes |
+| [NCT00046150](https://clinicaltrials.gov/study/NCT00046150) | Phase 3 | Completed | 59 | Safety of glulisine vs aspart in insulin pumps (catheter occlusion, hypoglycaemia) |
+| [NCT07070752](https://clinicaltrials.gov/study/NCT07070752) | Phase 3 | Completed | 224 | Immunogenicity non-inferiority of GP40321 vs Apidra SoloStar in type 1 diabetes |
+| [NCT00607087](https://clinicaltrials.gov/study/NCT00607087) | Phase 4 | Completed | 289 | Glulisine vs aspart and lispro in pumps; unexplained hyperglycaemia and infusion set occlusion |
+| [NCT00964574](https://clinicaltrials.gov/study/NCT00964574) | Phase 4 | Completed | 68 | Efficacy and safety of glulisine with glargine in type 1 diabetes |
+| [NCT01204593](https://clinicaltrials.gov/study/NCT01204593) | Phase 4 | Completed | 206 | Glargine plus glulisine basal-bolus therapy in uncontrolled type 1 diabetes; HbA1c change at 24 weeks |
+| [NCT01194245](https://clinicaltrials.gov/study/NCT01194245) | Phase 2 | Completed | 135 | Randomised double-blind crossover of insulin lispro-PH20 or aspart-PH20 vs lispro in type 1 diabetes (glulisine not tested) |
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|---|---|---|---|---|
-| [35933650](https://pubmed.ncbi.nlm.nih.gov/35933650/) | 2022 | Prospective Comparative Study | Acta Diabetologica | Real-world comparison of T1DM patients using glulisine vs lispro vs aspart via CSII; described HbA1c effectiveness, fasting glucose, and rates of hyperglycemia, hypoglycemia, and DKA |
-| [16308840](https://pubmed.ncbi.nlm.nih.gov/16308840/) | 2005 | RCT (Pivotal) | Hormone and Metabolic Research | Multinational multicenter parallel-group RCT (n=683 T1DM adults) comparing glulisine to insulin lispro; demonstrated comparable HbA1c reduction and equivalent safety profile at 26 weeks |
-| [21291333](https://pubmed.ncbi.nlm.nih.gov/21291333/) | 2011 | RCT | Diabetes Technology & Therapeutics | 26-week trial in pediatric T1DM patients comparing glulisine to lispro as part of a basal-bolus regimen; found comparable efficacy and safety across children and adolescents |
-| [21457066](https://pubmed.ncbi.nlm.nih.gov/21457066/) | 2011 | RCT | Diabetes Technology & Therapeutics | Randomized crossover multicenter study in T1DM via CSII comparing glulisine vs aspart vs lispro; glulisine showed a trend toward fewer catheter occlusions than aspart |
-| [23243636](https://pubmed.ncbi.nlm.nih.gov/23243636/) | 2012 | Systematic Review | Drugs of Today | Systematic review of insulin analogues for T1DM in children and adolescents; evaluated glulisine among three approved rapid-acting analogues (lispro, aspart, glulisine) for pharmacokinetics, efficacy, and safety |
-| [28544684](https://pubmed.ncbi.nlm.nih.gov/28544684/) | 2017 | Pediatric Clinical Study | Pediatrics International | Evaluated glulisine efficacy and safety via CSII in 20 Japanese T1DM children over 1 year; postprandial glucose levels after breakfast and dinner significantly improved (P<0.05) |
-| [16123473](https://pubmed.ncbi.nlm.nih.gov/16123473/) | 2005 | Pediatric PK/PD Study | Diabetes Care | PK/PD study in T1DM children and adolescents comparing glulisine vs regular human insulin (RHI) given immediately premeal; glulisine showed faster absorption, lower postprandial excursions, and improved safety |
-| [19614947](https://pubmed.ncbi.nlm.nih.gov/19614947/) | 2009 | RCT | Diabetes, Obesity & Metabolism | Japanese T1DM randomized trial comparing glulisine to lispro with glargine as basal insulin; demonstrated non-inferior efficacy and similar safety in the Japanese population |
-| [29159123](https://pubmed.ncbi.nlm.nih.gov/29159123/) | 2016 | Clinical PK/PD Study | Journal of Clinical & Translational Endocrinology | Compared PK/PD of glargine+glulisine basal-bolus vs twice-daily premixed insulin in T1DM during three standardized meals over 24 hours; basal-bolus showed superior physiologic glucose response |
-| [19496630](https://pubmed.ncbi.nlm.nih.gov/19496630/) | 2009 | Review | Drugs | Comprehensive review of insulin glulisine in diabetes management; summarized clinical evidence for comparable glycaemic control vs other rapid-acting analogues, PK/PD advantages, and safety data across T1DM and T2DM |
+|------|-----|------|------|---------|
+| [16308840](https://pubmed.ncbi.nlm.nih.gov/16308840/) | 2005 | RCT | Horm Metab Res | Multinational open-label RCT in adults with type 1 diabetes (672 treated); glulisine compared with lispro |
+| [19614947](https://pubmed.ncbi.nlm.nih.gov/19614947/) | 2009 | Clinical trial | Diabetes Obes Metab | Glulisine vs lispro with glargine in Japanese patients with type 1 diabetes |
+| [20150026](https://pubmed.ncbi.nlm.nih.gov/20150026/) | 2010 | Review/Meta-analysis | Endocr Pract | Rapid-acting analogues vs regular human insulin in basal-bolus type 1 diabetes: HbA1c, hypoglycaemia, dose |
+| [23243636](https://pubmed.ncbi.nlm.nih.gov/23243636/) | 2012 | Systematic review | Drugs Today | Insulin analogues, including glulisine, for children and adolescents with type 1 diabetes |
+| [19496630](https://pubmed.ncbi.nlm.nih.gov/19496630/) | 2009 | Review | Drugs | Glulisine has similar glucose effects to lispro and is effective against other short- and rapid-acting insulins |
+| [16706558](https://pubmed.ncbi.nlm.nih.gov/16706558/) | 2006 | Review | Drugs | Faster onset and shorter duration than regular human insulin; similar HbA1c control in type 1 diabetes |
+| [35933650](https://pubmed.ncbi.nlm.nih.gov/35933650/) | 2022 | Comparative study | Acta Diabetol | Glulisine vs lispro and aspart in pump-treated type 1 diabetes: HbA1c, hypo- and hyperglycaemia, DKA rates |
+| [28544684](https://pubmed.ncbi.nlm.nih.gov/28544684/) | 2017 | Clinical study | Pediatr Int | Glulisine in CSII for 20 children for one year; post-meal glucose improved |
+| [25865292](https://pubmed.ncbi.nlm.nih.gov/25865292/) | 2016 | Review | Diabetes Metab Res Rev | CSII in diabetes: populations, safety, efficacy and pharmacoeconomics |
+| [18076215](https://pubmed.ncbi.nlm.nih.gov/18076215/) | 2008 | Pharmacology review | Clin Pharmacokinet | Pharmacokinetics and pharmacodynamics of glulisine: faster absorption and shorter action than regular insulin |
 
 ---
 
 ## India Market Information
 
-Insulin glulisine (Apidra®) currently holds **no CDSCO registrations in India**. There are no approved products, licensed manufacturers, or authorized brands on the domestic market.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 666 | Apidra 100IU/ml Solution for Injection | Vial of 10 ml solution for injection | Not stated in the licence record |
+| 197 | Apidra 100IU Cartridge | Cartridge of 3 ml solution for injection | Not stated in the licence record |
+| 444 | Apidra Solostar 100IU/ml Injection | Pre-filled pen of 3 ml solution for injection | Not stated in the licence record |
 
-For reference, the drug holds the following major international authorizations:
-
-| Regulatory Body | Approval Year | Brand Name | Approved Indication |
-|---|---|---|---|
-| US FDA | 2004 | Apidra® (Sanofi) | Glycemic control in adults and children ≥4 years with T1DM and T2DM |
-| EMA | 2004 | Apidra® (Sanofi) | Glycemic control in adults and children ≥6 years with T1DM and T2DM |
-
-A new drug application to CDSCO under the New Drugs and Clinical Trials Rules, 2019 would be required before any market entry in India.
+All three licences are held by Sanofi India Ltd and are currently valid.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions (353 interactions identified; key moderate-level interactions listed):**
+- **Drug Interactions**: 353 known interactions were recorded. Examples include:
+  - Moderate: metformin, pioglitazone, alogliptin, albiglutide, alpelisib, epinephrine, salbutamol, formoterol, phenylephrine, pseudoephedrine, acebutolol, hydrochlorothiazide, acetazolamide, doxycycline, estradiol, ethinylestradiol, hydrocortisone, ethanol
+  - Minor: topical hydrocortisone, topical alclometasone
+- **Class-related concerns**: Monitor for hypoglycaemia and for injection-site lipodystrophy.
 
-| Interacting Drug | Level | Clinical Concern |
-|---|---|---|
-| Epinephrine | Moderate | Sympathomimetics counter insulin's glucose-lowering effect; concurrent use may cause hyperglycemia |
-| Phenylephrine | Moderate | Similar to epinephrine; blood glucose monitoring required |
-| Acebutolol | Moderate | Beta-blockers may mask tachycardia as a warning sign of hypoglycemia |
-| Hydrochlorothiazide | Moderate | Thiazide diuretics impair insulin secretion and peripheral glucose utilization |
-| Hydrocortisone | Moderate | Corticosteroids cause insulin resistance; insulin dose may need to be increased |
-| Metformin | Moderate | Additive blood glucose-lowering effect; monitor for hypoglycemia, especially with dose titration |
-| Pioglitazone | Moderate | Additive glucose-lowering; increased risk of hypoglycemia and fluid retention |
-| Alogliptin | Moderate | Additive glucose-lowering; hypoglycemia risk when combined with insulin |
-| Ethanol | Moderate | Alcohol inhibits hepatic gluconeogenesis, potentiating insulin-induced hypoglycemia |
-| Formoterol / Salbutamol | Moderate | Beta-2 agonists antagonize insulin action; monitor blood glucose during bronchodilator use |
-
-As local prescribing information (CDSCO-approved package insert) is not available, please refer to the Apidra® international prescribing information (FDA label or EMA SmPC) for full warnings and contraindications, including hypoglycemia precautions, insulin allergy, and special population dosing (renal/hepatic impairment, elderly, pediatric).
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for full safety information.
 
 ---
 
@@ -138,16 +126,13 @@ As local prescribing information (CDSCO-approved package insert) is not availabl
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Insulin glulisine is a globally established rapid-acting insulin analogue with decades of Phase 3/4 RCT evidence firmly supporting its use in T1DM across adult and pediatric populations; the TxGNN model's top prediction correctly identifies its primary therapeutic niche. The sole barrier to use in India is the absence of CDSCO registration — not a lack of clinical evidence or mechanistic rationale.
+Type 1 diabetes is an on-label use of insulin glulisine. Several completed Phase 3 trials and published randomised comparisons with lispro and aspart support its efficacy and safety. Guardrails are needed because the package insert safety data are missing and the interaction burden is high.
 
 **To proceed, the following is needed:**
-
-- File a New Drug Application (NDA) with CDSCO under the New Drugs and Clinical Trials Rules, 2019, leveraging the existing FDA/EMA approvals as primary evidence dossier
-- Compile the India-specific prescribing information (package insert) with local warnings, contraindications, and dosing guidance in alignment with CDSCO requirements
-- Retrieve full MOA and pharmacology data from the DrugBank API (DB01309) and published literature to complete the regulatory dossier and drug monograph
-- Assess cold-chain logistics and storage infrastructure requirements for subcutaneous insulin products across Indian distribution networks
-- Evaluate competitive landscape and pricing strategy against existing rapid-acting insulin analogues registered in India (insulin lispro, insulin aspart)
-- Confirm with CDSCO whether any local bridging study is required for already-globally-approved insulin analogues under the accelerated approval pathway for globally approved drugs
+- Package insert warnings and contraindications from the Indian licence holder (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Approved indication text for the three Indian licences
+- A hypoglycaemia and injection-site monitoring plan, with interaction screening for concomitant drugs
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

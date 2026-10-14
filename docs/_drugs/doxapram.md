@@ -2,7 +2,7 @@
 layout: default
 title: Doxapram
 parent: Moderate Evidence (L3-L4)
-nav_order: 283
+nav_order: 286
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,95 +29,73 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Doxapram: From Respiratory Stimulation to Vascular Disease
+# Doxapram: From Respiratory Failure to Vascular Disease
 
 ## One-Sentence Summary
 
-Doxapram is a respiratory stimulant (analeptic) used clinically for drug-induced respiratory depression, post-anesthetic respiratory depression, and apnea of prematurity — acting primarily by stimulating carotid body chemoreceptors to increase respiratory drive.
-The TxGNN model predicts it may have activity against **Vascular Disease**, with **0 clinical trials** and **17 publications** currently available; however, none of the literature directly supports a therapeutic application, and several studies indicate potential harm signals.
-The overall evidence base is weak, and this candidate is currently rated as **Hold** pending mechanistic clarification.
+Doxapram is a respiratory stimulant originally used to treat respiratory failure.
+The TxGNN model predicts it may be effective for **vascular disease**, but there are **no registered clinical trials** and the **12 publications** retrieved are mostly animal studies, veterinary cohorts, old case reports, and safety observations, so this is essentially a computational prediction without therapeutic support.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Respiratory depression (drug-induced, post-anesthetic); apnea of prematurity |
-| Predicted New Indication | Vascular Disease |
+|------|------|
+| Original Indication | Respiratory failure |
+| Predicted New Indication | Vascular disease |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the DrugBank record. Based on known pharmacology, Doxapram stimulates peripheral chemoreceptors — primarily the carotid body — and to a lesser extent brainstem respiratory centres. This stimulation increases respiratory rate and tidal volume and is accompanied by a sympathomimetic surge: elevation of blood pressure, heart rate, and cardiac output. It is this hemodynamic footprint that the TxGNN knowledge graph links to the "vascular disease" node cluster.
+Currently, detailed mechanism of action data is not available. Based on known information, doxapram is a respiratory stimulant that acts on peripheral carotid chemoreceptors and the brainstem respiratory centres. Its use in respiratory failure is established, but no therapeutic mechanism linking it to vascular disease has been identified.
 
-However, the biological plausibility of a **therapeutic** application in vascular disease is not supported by the available evidence. PMID 10704775 (neonatal rat model) explicitly shows that doxapram **worsened** white matter injury following bilateral carotid artery occlusion. PMID 4398848 records hemodynamic responses in dogs but describes no treatment benefit for vascular pathology. The mechanistic link in this case represents a **potential harm signal** rather than a repurposing opportunity.
+The retrieved literature describes only indirect observations: pressor and hemodynamic effects in normovolemic and hypovolemic dogs, a 1971 report in hemorrhagic hypotension, and modulation of hypoxic pulmonary vasoconstriction in a piglet model. These are pharmacology and side-effect findings, not evidence of benefit in vascular disease.
 
-In short, the high TxGNN score most likely reflects topological clustering of vascular-related nodes in the knowledge graph — an artefact of doxapram's sympathomimetic side-effect profile — rather than evidence of a genuinely tractable mechanism. The prediction should be interpreted with caution.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+The very high TxGNN score (about 0.9999) should be interpreted cautiously. Many unrelated vascular terms (for example thoracic outlet syndromes, blue toe syndrome, hemangioendothelioma, visceral calciphylaxis, lymphangiectasis) receive almost identical scores, which suggests a nonspecific signal rather than a disease-specific one.
 
 ---
 
 ## Literature Evidence
 
-The 17 retrieved publications are predominantly animal studies, case reports, and retrospective studies. None directly evaluate doxapram as a **treatment** for vascular disease. The table below lists the most informative entries in descending tier order.
-
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [8737758](https://pubmed.ncbi.nlm.nih.gov/8737758/) | 1996 | Clinical Observational (RCT aborted) | Eur J Clin Pharmacol | Randomised trial of doxapram vs. placebo for post-operative hypoxaemia was terminated early due to adverse events; no vascular benefit demonstrated |
-| [11743509](https://pubmed.ncbi.nlm.nih.gov/11743509/) | 2001 | Retrospective Cohort | J Pediatrics | Prolonged doxapram therapy in VLBW infants associated with isolated mental developmental delay; raises CNS safety concerns |
-| [8870121](https://pubmed.ncbi.nlm.nih.gov/8870121/) | 1996 | Physiological Study (Clinical) | Semin Perinatol | Doxapram studied as a modulator of hypoxic pulmonary vasoconstriction in neonatal piglets; findings inform pulmonary vascular physiology but not systemic vascular therapy |
-| [10704775](https://pubmed.ncbi.nlm.nih.gov/10704775/) | 2000 | Animal Study (Neonatal Rat) | Neurosci Lett | Doxapram **accentuated** white matter injury after bilateral carotid artery occlusion; represents a harm signal for cerebrovascular use |
-| [4398848](https://pubmed.ncbi.nlm.nih.gov/4398848/) | 1971 | Animal Study (Dog) | Anesth Analg | Documented hemodynamic responses (BP, CO increases) to doxapram in normovolemic and hypovolemic dogs; no therapeutic vascular benefit |
-| [4706757](https://pubmed.ncbi.nlm.nih.gov/4706757/) | 1973 | Case Report | Anesthesiology | Single case of recovery from central respiratory failure in a patient with a brainstem lesion; tangentially related to cerebrovascular context only |
-| [4764360](https://pubmed.ncbi.nlm.nih.gov/4764360/) | 1973 | Clinical Study | Crit Care Med | Doxapram in critically ill patients — questions whether increased oxygen consumption reflects benefit or debt; hemodynamic concerns highlighted |
-| [18371030](https://pubmed.ncbi.nlm.nih.gov/18371030/) | 2008 | Retrospective Veterinary Study | J Vet Intern Med | Comparison of caffeine vs. doxapram for hypercapnia in foals with hypoxic-ischaemic encephalopathy; limited translational value |
-| [35318792](https://pubmed.ncbi.nlm.nih.gov/35318792/) | 2022 | Retrospective Veterinary Study | J Vet Emerg Crit Care | Cardiopulmonary arrest in hospitalised birds — doxapram mentioned as a resuscitation agent; no vascular disease relevance |
-| [4402447](https://pubmed.ncbi.nlm.nih.gov/4402447/) | 1971 | Clinical Study | Eur J Toxicol | Effects of doxapram on chronic respiratory insufficiency; cardiovascular side effects noted but no vascular treatment data |
+|------|-----|------|------|---------|
+| [8737758](https://pubmed.ncbi.nlm.nih.gov/8737758/) | 1996 | Clinical study | Eur J Clin Pharmacol | Randomized double-blind trial of doxapram vs placebo for late postoperative hypoxaemia; focus on adverse events with continuous infusion |
+| [11743509](https://pubmed.ncbi.nlm.nih.gov/11743509/) | 2001 | Cohort | J Pediatr | Prolonged doxapram therapy for apnea in very low birth weight infants was associated with isolated mental developmental delay |
+| [18371030](https://pubmed.ncbi.nlm.nih.gov/18371030/) | 2008 | Retrospective cohort (veterinary) | J Vet Intern Med | Caffeine vs doxapram for hypercapnia in foals with hypoxic-ischemic encephalopathy |
+| [35318792](https://pubmed.ncbi.nlm.nih.gov/35318792/) | 2022 | Retrospective cohort (veterinary) | J Vet Emerg Crit Care | Cardiopulmonary arrest and resuscitation in 41 hospitalized birds |
+| [10704775](https://pubmed.ncbi.nlm.nih.gov/10704775/) | 2000 | Animal study | Neurosci Lett | Doxapram accentuated white matter injury in neonatal rats after bilateral carotid artery occlusion |
+| [8870121](https://pubmed.ncbi.nlm.nih.gov/8870121/) | 1996 | Animal study | Semin Perinatol | Modulators of hypoxic pulmonary vasoconstriction and response to inhaled nitric oxide in a piglet atelectasis model |
+| [4398848](https://pubmed.ncbi.nlm.nih.gov/4398848/) | 1971 | Animal study | Anesth Analg | Hemodynamic responses to doxapram in normovolemic and hypovolemic dogs |
+| [4397240](https://pubmed.ncbi.nlm.nih.gov/4397240/) | 1971 | Clinical/experimental | Proc Soc Exp Biol Med | Doxapram in hemorrhagic hypotension |
+| [4706757](https://pubmed.ncbi.nlm.nih.gov/4706757/) | 1973 | Case report | Anesthesiology | Recovery from central respiratory failure and doxapram administration in a patient with a brainstem lesion |
+| [4388361](https://pubmed.ncbi.nlm.nih.gov/4388361/) | 1966 | Human physiology study | Acta Anaesthesiol Scand Suppl | EEG effects of doxapram in humans |
 
-> **Note:** PMID 40023176 (PRESTIGE-AF trial on DOACs in intracerebral haemorrhage) appears to be a retrieval artefact unrelated to doxapram; it has been excluded from the table.
+None of these studies evaluates doxapram as a treatment for vascular disease.
 
 ---
 
 ## India Market Information
 
-Doxapram is **not currently marketed in India**. No drug authorisation licences are on record.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|------------|-------------------|
-| — | — | — | No registered products found |
+|---------|------|------|-----------|
+| 39172 | Caropram 20mg Injection (Khandelwal Laboratories Pvt Ltd) | Vial of 5 ml injection | Not stated in the available data |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions (55 interactions identified; selected major interactions below):**
+- **Contraindications suggested by the knowledge graph (not label text):** epilepsy, chronic obstructive pulmonary disease, asthma, kidney disease, liver disease, brain edema, hypotensive disorder, stroke and cerebrovascular disorders, pulmonary embolism, coronary artery disease, atherosclerosis, sudden cardiac arrest, heart conduction disease, and pheochromocytoma or paraganglioma.
+- **Drug Interactions:** 55 interactions were identified. Major ones include bupropion, methylene blue, iobenguane (I-131), iohexol, iopamidol, and tramadol. Moderate ones include epinephrine, ephedrine, phenylephrine, pseudoephedrine, salbutamol, formoterol, and arformoterol, among others.
+- **Literature safety signals:** white matter injury in neonatal rats under cerebral ischemia, adverse events with continuous infusion, and an association between prolonged use in preterm infants and developmental delay.
 
-| Interacting Drug | Severity | Clinical Concern |
-|-----------------|---------|----------------|
-| Bupropion | **Major** | Additive CNS stimulation; increased seizure risk |
-| Methylene blue | **Major** | Risk of serotonergic excess and hypertensive crisis |
-| Iobenguane (I-131) | **Major** | Sympathomimetic interference with radiopharmaceutical uptake |
-| Iohexol | **Major** | Enhanced risk of seizure or cardiovascular toxicity with iodinated contrast |
-| Iopamidol | **Major** | Same mechanism as Iohexol |
-| Tramadol | **Major** | Additive CNS stimulation; lowered seizure threshold |
-| Epinephrine | Moderate | Additive cardiovascular stimulation; hypertension, arrhythmia risk |
-| Ephedrine | Moderate | Additive pressor effect |
-| Pseudoephedrine | Moderate | Additive sympathomimetic effects |
-| Salbutamol / Formoterol / Arformoterol | Moderate | Additive cardiovascular stimulation with beta-agonists |
-
-> For complete warnings and contraindications, please refer to the doxapram package insert. TFDA label data was not available at time of this report (Data Gap DG001).
+Many of the contraindicated conditions are cardiovascular or cerebrovascular, which runs directly counter to the predicted vascular indication. Please refer to the package insert for label warnings.
 
 ---
 
@@ -126,15 +104,14 @@ Doxapram is **not currently marketed in India**. No drug authorisation licences 
 **Decision: Hold**
 
 **Rationale:**
-Evidence for doxapram in vascular disease is limited to indirect mechanistic associations and a handful of animal/observational studies — none of which support a therapeutic benefit. Critically, at least one animal study (PMID 10704775) demonstrates that doxapram may **worsen** vascular injury outcomes. The TxGNN prediction appears driven by knowledge graph topology rather than biological plausibility, and the sympathomimetic profile of doxapram raises active safety concerns for patients with vascular conditions.
+The prediction is supported only by a nonspecific computational score. There are no clinical trials, no literature showing benefit in vascular disease, and the safety signals and knowledge-graph contraindications include cardiovascular and cerebrovascular conditions.
 
 **To proceed, the following is needed:**
-
-- **MOA verification:** Retrieve full DrugBank mechanism of action data (Data Gap DG002) to confirm or refute any plausible link to vascular biology
-- **Safety review:** Obtain and parse the TFDA/CDSCO package insert to fill key warnings and contraindications gap (Data Gap DG001)
-- **Mechanistic pre-screening:** Conduct a formal in silico or in vitro assessment to determine whether doxapram has any direct vascular effect (e.g., endothelial, smooth muscle) independent of its sympathomimetic action
-- **Harm signal assessment:** The carotid artery occlusion white matter injury data (PMID 10704775) should be evaluated for its relevance to human vascular disease before any further development is considered
-- **Re-evaluate lower-ranked predictions:** Indications outside the vascular disease cluster (e.g., apnea of prematurity, respiratory conditions) may yield better evidence-to-mechanism alignment for repurposing
+- Mechanism of action data to assess any plausible link to vascular pathology
+- Package insert warnings and contraindications for the Indian product
+- Clarification of which specific vascular condition is intended, since "vascular disease" is too broad
+- Preclinical or clinical evidence of benefit in a defined vascular condition
+- A review of the cardiovascular safety profile relative to the proposed use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

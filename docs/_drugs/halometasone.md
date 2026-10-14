@@ -2,7 +2,7 @@
 layout: default
 title: Halometasone
 parent: Moderate Evidence (L3-L4)
-nav_order: 401
+nav_order: 405
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,62 +29,62 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Halometasone: From Corticosteroid-Responsive Dermatoses to Primary Cutaneous T-Cell Lymphoma
+# Halometasone: From Topical Corticosteroid Therapy to Primary Cutaneous T-Cell Lymphoma
 
 ## One-Sentence Summary
 
-Halometasone is a potent (class I–II) topical corticosteroid used to treat corticosteroid-responsive skin inflammation. The TxGNN model predicts it may be effective for **Primary Cutaneous T-Cell Lymphoma**, but this direction is currently supported only by drug-class-level precedent — **no clinical trials or publications** exist for halometasone itself in this indication.
+Halometasone is a potent topical corticosteroid, marketed in India as a cream.
+The TxGNN model predicts it may be effective for **primary cutaneous T-cell lymphoma**,
+but **no clinical trials and no publications** were found to support this prediction, so it remains a model-based research question.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the provided data — no India license records exist; based on general pharmacology, halometasone is used for corticosteroid-responsive dermatoses (e.g., eczema, dermatitis) |
-| Predicted New Indication | Primary Cutaneous T-Cell Lymphoma |
+| Original Indication | Not specified in the registration data |
+| Predicted New Indication | Primary cutaneous T-cell lymphoma |
 | TxGNN Prediction Score | 99.62% |
 | Evidence Level | L4 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for halometasone (flagged as a High-severity data gap). Based on known information, halometasone is a class I–II potent topical corticosteroid with anti-inflammatory and immunosuppressive activity, believed to act by suppressing inflammatory mediator release and inhibiting local immune cell proliferation in skin tissue.
+Currently, detailed mechanism of action data is not available for this drug. Based on known class information, halometasone is a potent topical corticosteroid (a glucocorticoid receptor agonist). It is marketed in India only as a dermatologic cream, and the registration records do not state its approved indications.
 
-Primary cutaneous T-cell lymphoma (e.g., mycosis fungoides) involves malignant T-lymphocyte infiltration of the skin, and topical corticosteroids are already an established "skin-directed therapy" for early-stage disease (NCCN guidelines list class I agents such as clobetasol, with retrospective cohorts reporting 80–90% overall response rates). Because halometasone shares the same pharmacologic class and potency tier as these agents, the TxGNN association is mechanistically plausible.
+Topical corticosteroids are an established skin-directed therapy for early-stage mycosis fungoides, the most common primary cutaneous T-cell lymphoma. In this setting they reduce inflammation and can induce apoptosis of malignant T cells. This is class-level knowledge, not drug-specific evidence for halometasone. The high TxGNN score is a model prediction only, and a topical route fits skin-limited disease.
 
-However, this rationale is drawn entirely from class-level analogy — no clinical trial, case series, or publication has evaluated halometasone specifically in cutaneous T-cell lymphoma. The prediction should be treated as a research hypothesis rather than evidence-backed indication until drug-specific data becomes available.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
-
-## Literature Evidence
-
-Currently no related literature available
+Nine other predicted indications (various polyps, such as vocal cord, middle ear, uterine, ureter, vulvar, frontal sinus, external auditory canal, fibroepithelial and neoplastic polyps) also scored above 99.5%. None has any clinical evidence. Most involve sites a dermatologic cream cannot plausibly reach, or conditions treated by surgical removal, so they are not considered credible repurposing directions.
 
 ## India Market Information
 
-Halometasone currently has no registered products in India (0 licenses on file; market status: Not Marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 73013 | Execare Cream | Cream (tube of 10 gm) | Not stated |
+| 103820 | Halox F Cream | Cream (tube of 10 gm) | Not stated |
+| 104383 | Halostrol-F Cream | Cream (tube of 10 gm) | Not stated |
+| 72919 | Execare-F Cream | Cream (tube of 10 gm) | Not stated |
+
+All four registrations are valid single-ingredient products.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA warning/contraindication data for this drug is an outstanding Blocking data gap — safety cannot be assessed until this is resolved.)*
+Please refer to the package insert for safety information. No drug interactions were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on class-level mechanistic analogy (L4, no direct trials or literature for halometasone), and a Blocking data gap on TFDA warnings/contraindications prevents even an initial safety screen — the candidate cannot advance past the research-question stage as-is.
+The prediction rests on the model score and class-level reasoning alone, with no clinical trials or literature for halometasone in this indication. Evidence is insufficient to advance, although primary cutaneous T-cell lymphoma is the only predicted indication with a plausible topical-route rationale.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism of action data for halometasone specifically (currently a data gap)
-- TFDA/regulatory safety labeling (warnings, contraindications) — required before any S1 safety evaluation
-- Drug-specific preclinical or case-level evidence in cutaneous T-cell lymphoma (current evidence is class-level only)
-- Route/formulation feasibility assessment, since only a topical dosage form is presumed and no route-compatibility data has been confirmed
+- Literature and trial searches specific to halometasone in mycosis fungoides or cutaneous T-cell lymphoma
+- Package insert warnings and contraindications from the India registrations, plus approved indication text
+- Mechanism of action data from DrugBank
+- Comparison with established topical corticosteroids already used in early-stage mycosis fungoides
+- Assessment of route compatibility and the suitability of the cream formulation for skin lesions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

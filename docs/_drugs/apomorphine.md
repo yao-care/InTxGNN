@@ -29,37 +29,37 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Apomorphine: From Parkinson's Disease to Perisylvian Polymicrogyria with Cerebellar Hypoplasia and Arthrogryposis
+# Apomorphine: From Parkinson Disease to Schizophrenia
 
 ## One-Sentence Summary
 
-Apomorphine is a non-selective dopamine D1/D2 receptor agonist best known as a rescue therapy for acute "off" episodes in Parkinson's disease.
-The TxGNN model predicts it may be effective for **Polymicrogyria, Perisylvian, with Cerebellar Hypoplasia and Arthrogryposis**,
-with **0 clinical trials** and **0 publications** currently supporting this direction.
+Apomorphine is a dopamine agonist originally used to treat Parkinson disease and related parkinsonian syndromes.
+The top-ranked TxGNN prediction is a rare developmental malformation (polymicrogyria) with no supporting evidence, so this report focuses on the best-supported prediction, **schizophrenia** (rank 5). It is backed by **no registered clinical trials** and **19 publications**, mostly older, small or indirect studies.
+Overall, the evidence is hypothesis-level, and the direction of any therapeutic effect is uncertain.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Parkinson's disease (acute hypomobility "off" episodes) |
-| Predicted New Indication | Polymicrogyria, Perisylvian, with Cerebellar Hypoplasia and Arthrogryposis |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+|------|------|
+| Original Indication | Parkinson disease (the licence records contain no approved indication text) |
+| Predicted New Indication | Top-ranked: polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (L5, no evidence). Best-supported: schizophrenia (rank 5) |
+| TxGNN Prediction Score | 99.75% (rank 1); 99.69% (schizophrenia) |
+| Evidence Level | L5 for the rank 1 prediction; L3 for schizophrenia |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
+| Recommended Decision | Hold (rank 1 prediction); schizophrenia is a research question only |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Apomorphine in this evidence pack. Based on known pharmacological information, Apomorphine is a direct-acting, non-selective dopamine receptor agonist (D1 and D2) that stimulates striatal and limbic dopamine receptors without requiring intact endogenous dopamine synthesis. It is structurally related to both morphine and dopamine, crosses the blood-brain barrier rapidly, and produces central dopaminergic effects used therapeutically in Parkinson's disease off-episode management.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, apomorphine is a dopamine D1/D2 receptor agonist. Its efficacy in Parkinson disease comes from replacing deficient dopaminergic signalling.
 
-Polymicrogyria with perisylvian distribution, cerebellar hypoplasia, and arthrogryposis is a rare and severe congenital neurodevelopmental syndrome. Its pathogenesis stems from genetic mutations — most notably in *PIK3R2* and *GPR56* — that disrupt neuronal migration and cortical folding during fetal brain development. These structural abnormalities are established prenatally and represent a fundamental disorder of brain architecture, not an ongoing neurotransmitter imbalance amenable to pharmacological correction.
+**Rank 1 (polymicrogyria with cerebellar hypoplasia and arthrogryposis):** No mechanistic link can be identified. The score is very high, but it appears to be a knowledge-graph prediction only, and nothing connects dopaminergic signalling to the pathogenesis of this rare developmental malformation. The other top-ranked predictions have similarly weak or absent rationales. These include congenital glycosylation disorder, hereditary neuropathy, atypical glycine encephalopathy and hydranencephaly. The exceptions are retinal dystrophy and the myopia variants, where retinal dopamine offers only a speculative link.
 
-There is no recognized mechanistic pathway connecting dopamine receptor agonism to the correction or amelioration of structural neuronal migration defects. The high TxGNN score (99.75%) most likely reflects indirect node associations in the shared knowledge graph — for example, both entities co-occurring within "neurodevelopment"-related edges — rather than a genuine pharmacological relationship. This prediction should be regarded as a probable false positive, and no drug development action is warranted at this time.
+**Schizophrenia (rank 5):** There is a clear pharmacological connection through the dopamine hypothesis. However, the direction is problematic. A D1/D2 agonist would be expected to worsen psychosis rather than treat it. The older literature mainly uses apomorphine as a probe of dopamine function. Small 1980s studies of low-dose apomorphine found no significant therapeutic improvement. The 1984 study of 25 patients showed no significant improvement or deterioration. A 1983 study of 12 chronic patients showed no overall difference from placebo, though anxiety and depression subscales improved.
 
 ---
 
@@ -71,34 +71,48 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Evidence for schizophrenia (10 of the 19 publications are summarised here, ordered by relevance; the study-type labels are based on titles and abstracts as compiled):
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [6372737](https://pubmed.ncbi.nlm.nih.gov/6372737/) | 1984 | Clinical study | Arch Gen Psychiatry | Low-dose apomorphine (0.75 mg SC) vs placebo in 25 male schizophrenics: no significant improvement or deterioration |
+| [6682989](https://pubmed.ncbi.nlm.nih.gov/6682989/) | 1983 | Double-blind study | Prog Neuropsychopharmacol Biol Psychiatry | 12 chronic patients: no overall difference vs placebo; anxiety and depression subscales improved |
+| [6718635](https://pubmed.ncbi.nlm.nih.gov/6718635/) | 1984 | Clinical study (details not verified) | Psychopharmacol Bull | Apomorphine and schizophrenia (no abstract available) |
+| [11394190](https://pubmed.ncbi.nlm.nih.gov/11394190/) | 2001 | Review/Commentary | J Psychiatry Neurosci | Little evidence that apomorphine at postsynaptic doses induces or worsens psychosis, which challenges the dopamine hypothesis |
+| [1099172](https://pubmed.ncbi.nlm.nih.gov/1099172/) | 1975 | Double-blind study | J Neurol Neurosurg Psychiatry | 40 men, mainly alcoholics: no endogenous depression or schizophrenic symptoms developed with apomorphine |
+| [540209](https://pubmed.ncbi.nlm.nih.gov/540209/) | 1979 | Neuroendocrine study | Br J Psychiatry | Growth hormone and prolactin responses to apomorphine in schizophrenia research |
+| [12727131](https://pubmed.ncbi.nlm.nih.gov/12727131/) | 2003 | Clinical study | Psychoneuroendocrinology | Prolactin, ACTH and cortisol responses to apomorphine in 20 untreated schizophrenic inpatients vs 23 controls |
+| [30805732](https://pubmed.ncbi.nlm.nih.gov/30805732/) | 2019 | Review | J Neural Transm | Overview of classical dopamine agonists, including parenteral apomorphine in Parkinson disease |
+| [33571431](https://pubmed.ncbi.nlm.nih.gov/33571431/) | 2021 | Structural biology | Cell | Cryo-EM structures of D1 and D2 dopamine receptor signalling complexes |
+| [12405516](https://pubmed.ncbi.nlm.nih.gov/12405516/) | 2002 | Preclinical | Behav Genet | Apomorphine-susceptible and unsusceptible rat lines as models of psychopathology |
+
+The remaining publications are indirect (BPC 157 peptide work, clozapine and aripiprazole reviews, a plant-extract mouse study, and general reviews).
+
+No literature was available for the other nine top-ranked predictions.
 
 ---
 
 ## India Market Information
 
-Apomorphine is currently **not marketed in India**. No product registrations or drug authorizations were identified in the regulatory database.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 1655 | Apotab 2 Sublingual tablet (Alteus Biogenics Pvt Ltd) | Strip of 10 sublingual tablets | Not stated in the data compiled |
+| 248265 | Zyprima 3mg Tablet (Zydus Cadila) | Strip of 4 sublingual tablets | Not stated in the data compiled |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**: A total of **173 drug interactions** have been documented for Apomorphine. The most clinically significant ones are listed below:
+**Contraindication-related conditions (from the knowledge graph, not label text):** multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, drug-induced dyskinesia, long QT syndrome (including familial), torsades de pointes, liver disease, gallbladder disease, psychotic disorders (including schizophreniform and schizoaffective disorder), mental disorder, potassium deficiency, substance abuse/dependence, coronary artery disease, impaired renal function, priapism and cerebrovascular disorder.
 
-| Interacting Drug | Severity | Source |
-|-----------------|----------|--------|
-| Alosetron | **Major** | DDInter |
-| Cisapride | **Major** | DDInter |
-| Dolasetron | **Major** | DDInter |
-| Granisetron | **Major** | DDInter |
-| Famotidine | Moderate | DDInter |
-| Bupropion | Moderate | DDInter |
-| Clarithromycin | Moderate | DDInter |
-| Levofloxacin | Moderate | DDInter |
-| Metoclopramide | Moderate | DDInter |
-| Loperamide | Moderate | DDInter |
+Note that psychotic disorder appears on this list, which directly conflicts with the schizophrenia prediction.
 
-> Note: The complete warnings and contraindications for Apomorphine were not available in this evidence pack. Please refer to the CDSCO-approved package insert for full safety information.
+**Drug Interactions:** 173 interactions were recorded. The main examples are:
+- **Major:** alosetron, cisapride, dolasetron, granisetron (consistent with QT-prolongation and serotonergic or gastrointestinal concerns)
+- **Moderate:** famotidine, loperamide, bupropion, clarithromycin, levofloxacin, metoclopramide, dronabinol, and several laxatives (bisacodyl, castor oil, lactulose, lactitol, magnesium salts, mineral oil, glycerin)
+- **Minor:** metronidazole
+
+Please refer to the package insert for further safety information.
 
 ---
 
@@ -107,13 +121,15 @@ Apomorphine is currently **not marketed in India**. No product registrations or 
 **Decision: Hold**
 
 **Rationale:**
-Perisylvian polymicrogyria with cerebellar hypoplasia and arthrogryposis is a structural congenital brain malformation caused by prenatal neuronal migration defects (PIK3R2/GPR56 mutations). There is no plausible mechanistic connection to dopaminergic pharmacology, and the complete absence of any clinical trials or literature support confirms this as a knowledge-graph artefact rather than a viable repurposing opportunity.
+The top-ranked prediction (polymicrogyria) has a very high model score but no trials, no literature and no plausible mechanism (evidence level L5). Schizophrenia has the most literature (evidence level L3). However, it is limited to small, early or indirect studies. Findings were largely negative or unclear, and psychotic disorder is a recorded contraindication. It is therefore a research question rather than a candidate for advancement.
 
 **To proceed, the following is needed:**
-- Preclinical (in vitro or animal model) research to establish any mechanistic link between dopamine receptor activation and neuronal migration pathways (PIK3R2/GPR56)
-- MOA data retrieval from DrugBank API (currently unavailable — identified as a High-severity data gap)
-- CDSCO/India package insert download and parsing to obtain complete warnings and contraindications (identified as a Blocking data gap for safety assessment)
-- Reassessment of higher-ranked evidence-supported indications (e.g., **schizophrenia**, Rank 5, Evidence Level L3) as a more actionable repurposing candidate before investing resources in L5 predictions
+- Mechanism of action data from DrugBank
+- Package insert warnings and contraindications from the India Pharma sources (a blocking gap for safety screening)
+- Approved indication text for the two India registrations
+- Preclinical or mechanistic evidence for any rank 1 to 4 prediction before further consideration
+- For schizophrenia, a clear rationale for the therapeutic direction (agonist vs antagonist) and a risk assessment given the psychosis contraindication
+- Route compatibility assessment (the marketed forms are sublingual tablets)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

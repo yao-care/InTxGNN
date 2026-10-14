@@ -2,7 +2,7 @@
 layout: default
 title: Insulin Glargine
 parent: Model Prediction Only (L5)
-nav_order: 433
+nav_order: 437
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,103 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Insulin Glargine: From Diabetes Mellitus to Autoimmune Oophoritis
+# Insulin Glargine: From Type 2 Diabetes Mellitus to Autoimmune Oophoritis
 
 ## One-Sentence Summary
 
-Insulin glargine is a long-acting recombinant insulin analog widely used for basal glycemic control in Type 1 and Type 2 diabetes mellitus.
-The TxGNN model predicts it may have a role in **Autoimmune Oophoritis**, achieving a prediction score of **99.88%**;
-however, **zero clinical trials and zero published literature** currently support this direction — all 10 predicted indications remain at the hypothesis stage only.
-
----
+Insulin glargine is a long-acting basal insulin, originally used to treat type 1 and type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Diabetes mellitus (Type 1 & Type 2; standard clinical use) |
-| Predicted New Indication | Autoimmune Oophoritis |
+|------|------|
+| Original Indication | Type 2 diabetes mellitus (other recorded indications: type 1 diabetes mellitus, diabetic ketoacidosis) |
+| Predicted New Indication | Autoimmune oophoritis |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
----
+*Note: No approved-indication text was available in the India licence records, so the original indication comes from the knowledge-graph indication data.*
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on established pharmacological knowledge, insulin glargine is a modified long-acting human insulin analog that provides a peakless, 24-hour basal insulin profile. It binds to insulin receptors (IR) and cross-reacts with IGF-1 receptors (IGF-1R), activating the PI3K–Akt and MAPK signaling cascades that govern glucose uptake, protein synthesis, lipid metabolism, and cell survival.
+Currently, detailed mechanism of action data is not available. Based on known information, insulin glargine is a long-acting insulin analogue used for basal glucose control, and its efficacy in diabetes is well established.
 
-The connection to autoimmune oophoritis is indirect and most likely reflects knowledge graph topology rather than a direct therapeutic mechanism. Insulin and IGF-1R signaling do influence ovarian granulosa cell steroidogenesis — a relationship best studied in the context of polycystic ovary syndrome (PCOS) and hyperinsulinemia. However, autoimmune oophoritis is a T-cell–mediated immune destruction of ovarian follicles, a pathophysiology that insulin signaling does not directly modulate. The TxGNN model's high score almost certainly arises from the close proximity of Type 1 Diabetes Mellitus (T1DM) and autoimmune oophoritis nodes in the knowledge graph: both are classic organ-specific autoimmune diseases that share immune regulatory axes (e.g., regulatory T-cell dysfunction, HLA susceptibility loci), making them graph neighbors without implying a pharmacological bridge.
+The link to autoimmune oophoritis is most likely indirect. Autoimmune oophoritis often occurs together with autoimmune polyendocrine syndromes, which can include type 1 diabetes. The high score therefore probably reflects proximity in the disease network, not a therapeutic effect of insulin on ovarian autoimmunity. No evidence suggests insulin treats the ovarian condition itself.
 
-Among all 10 predicted indications, the most biologically grounded signal is **opsismodysplasia** (Rank 5), caused by loss-of-function mutations in *INPPL1* (SHIP2) — a phosphatase that is a direct negative regulator of the insulin PI3K–Akt pathway. SHIP2 deficiency would theoretically amplify insulin downstream signaling, making this the one candidate with a genuine mechanistic hypothesis worth exploring preclinically. All other predictions, including the lipodystrophy cluster, either reflect reverse causation (insulin injections *cause* lipodystrophy) or comorbidity association rather than actionable repurposing targets.
-
----
+Other top-ranked predictions show similar patterns. Several (thiamine-responsive dysfunction syndrome, stiff person syndrome, focal stiff limb syndrome) are linked through a shared diabetes phenotype or anti-GAD autoimmunity. Insulin would only manage comorbid diabetes, not the underlying disease. Localized lipodystrophies are likely confounded by the fact that insulin injection itself can cause lipodystrophy at injection sites. Pancreatic agenesis (rank 6) is mechanistically coherent, since insulin replacement is standard care for the resulting diabetes, but this is arguably an extension of the existing diabetes indication rather than true repurposing.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for any of the 10 predicted indications.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for any of the 10 predicted indications.
-
----
+Currently no related literature available for autoimmune oophoritis.
 
 ## India Market Information
 
-Insulin glargine is currently **not registered or marketed in India**. No product licenses were found in the CDSCO database.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 120850 | Lantus 100IU/ml Solution for Injection | Vial of 10 ml solution for injection | Not specified |
+| 94480 | Glaritus 100IU/ml Injection | Vial of 10 ml injection | Not specified |
+| 214942 | Toujeo 300U/ml Cartridge (1.5 ml each) | Packet of 3 cartridges | Not specified |
+| 25967 | Basalog One 100IU/ml Injection | Pre-filled pen of 3 ml injection | Not specified |
+| 25951 | Basaglar 100IU/ml Kwikpen | Pre-filled pen of 3 ml solution for injection | Not specified |
 
----
+There are 20 valid single-ingredient registrations in total, held by Sanofi India, Wockhardt, Biocon, Lupin and Cipla. All are injectable presentations (vials, cartridges, pre-filled pens and syringes).
 
 ## Safety Considerations
 
-**Drug Interactions (352 interactions identified; key examples below):**
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for safety information.
 
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Metformin | Moderate | Additive glucose-lowering; monitor for hypoglycemia |
-| Pioglitazone | Moderate | Enhanced hypoglycemic effect; dose adjustment may be needed |
-| Alogliptin | Moderate | Additive antidiabetic effect; blood glucose monitoring required |
-| Albiglutide | Moderate | Additive glucose-lowering; titrate insulin accordingly |
-| Hydrocortisone | Moderate | Corticosteroids antagonize insulin; may substantially increase insulin requirements |
-| Hydrochlorothiazide | Moderate | Thiazide diuretics may reduce insulin efficacy and raise blood glucose |
-| Ethanol | Moderate | Potentiates hypoglycemia; unpredictable glycemic response; patient counseling required |
-| Epinephrine | Moderate | Catecholamines elevate blood glucose and blunt hypoglycemia awareness |
-| Acebutolol | Moderate | Beta-blockers may mask tachycardia as a hypoglycemia warning sign |
-| Formoterol | Moderate | Beta-2 agonists may impair hypoglycemia recognition and raise blood glucose |
-| Salbutamol | Moderate | Same mechanism as formoterol; monitor glycemia during acute bronchospasm treatment |
-| Pseudoephedrine | Moderate | Sympathomimetic; may increase blood glucose |
-| Phenylephrine | Moderate | Sympathomimetic; may increase blood glucose |
-| Ethinylestradiol | Moderate | Estrogens alter insulin sensitivity; requirements may change |
-| Estradiol | Moderate | Same class effect as ethinylestradiol |
-| Alpelisib | Moderate | PI3K inhibitor causes hyperglycemia; insulin dose escalation often required |
-| Acetazolamide | Moderate | Carbonic anhydrase inhibition may alter glycemic control |
-| Doxycycline | Moderate | Tetracyclines reported to affect blood glucose; monitor glycemia |
-| Hydrocortisone (topical) | Minor | Minimal systemic absorption; low glycemic impact under normal use |
-| Alclometasone (topical) | Minor | Topical corticosteroid; systemic effect negligible at standard doses |
-
-Please refer to the package insert for complete warnings and contraindications (currently not retrieved in this evidence pack).
-
----
+**Drug Interactions:** The interaction screening identified 352 interacting drugs. Most of the 20 listed are of moderate severity:
+- **Other glucose-lowering agents** (metformin, pioglitazone, alogliptin, albiglutide): moderate; additive glucose-lowering effects.
+- **Sympathomimetics and bronchodilators** (epinephrine, phenylephrine, pseudoephedrine, salbutamol, formoterol): moderate.
+- **Corticosteroids** (hydrocortisone): moderate; topical corticosteroids (hydrocortisone, alclometasone) are minor.
+- **Others**: acebutolol, acetazolamide, doxycycline, ethinylestradiol, estradiol, hydrochlorothiazide, alpelisib and ethanol, all moderate.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Every one of the 10 TxGNN-predicted indications for insulin glargine returned zero supporting clinical trials and zero published literature, placing all candidates at L5 (model prediction only). The top-ranked prediction — autoimmune oophoritis — reflects knowledge graph co-clustering of autoimmune diseases rather than a mechanistically actionable insulin–ovarian immunity link. Proceeding without at least preclinical or mechanistic evidence would not meet a credible repurposing threshold.
+The prediction for autoimmune oophoritis rests on a high model score alone, with no clinical trials or publications and a probable association-based explanation (shared autoimmune and diabetes context) rather than a therapeutic one. Insulin glargine is well established and widely marketed in India for diabetes, but this does not support the new indication.
 
 **To proceed, the following is needed:**
-
-- **Resolve Data Gap DG001**: Retrieve CDSCO or global package insert to populate key warnings and contraindications — this is classified as Blocking for any safety review
-- **Resolve Data Gap DG002**: Query the DrugBank API to confirm the official MOA and original approved indications — the absence of `original_indications` likely causes system misclassification of "pancreatic agenesis" (a standard insulin indication) as a novel repurposing candidate
-- **Prioritize opsismodysplasia for hypothesis exploration**: This is the only candidate among the 10 with a direct mechanistic rationale (SHIP2/INPPL1 as a negative insulin-pathway regulator); a targeted scoping review of INPPL1 knockout model data would clarify feasibility
-- **Exclude reverse-causation candidates**: Drug-induced localized lipodystrophy should be removed from the candidate list — insulin glargine is an established *cause* of this condition, not a treatment
-- **Confirm pancreatic agenesis status**: If insulin replacement is already standard-of-care for pancreatic agenesis, this indication should be reclassified as an existing use rather than a repurposing opportunity
+- Evidence that insulin or insulin glargine has a direct benefit in autoimmune oophoritis (preclinical, observational or clinical)
+- Mechanism of action data
+- Package insert warnings and contraindications for a safety assessment
+- A clear separation of true repurposing from management of comorbid diabetes, for example in pancreatic agenesis, where insulin is already standard care for the resulting diabetes
+- Route and formulation compatibility assessment for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

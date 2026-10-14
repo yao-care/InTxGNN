@@ -2,7 +2,7 @@
 layout: default
 title: Fluocinolone Acetonide
 parent: Model Prediction Only (L5)
-nav_order: 360
+nav_order: 363
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,79 +29,84 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Fluocinolone Acetonide: From Topical Anti-Inflammatory Use to Lichen Planus Pigmentosus
+# Fluocinolone Acetonide: From Inflammatory Skin Conditions to Lichen Planus Pigmentosus
 
 ## One-Sentence Summary
 
-Fluocinolone acetonide is a halogenated topical corticosteroid classically used for inflammatory and pruritic skin conditions (and, in specialized ophthalmic implant form, for diabetic macular edema and non-infectious posterior uveitis). The TxGNN model predicts it may be effective for **Lichen Planus Pigmentosus**, but this prediction currently has **0 clinical trials** and **0 publications** in direct support — it is a pure knowledge-graph prediction with no confirmatory evidence yet.
-
----
+Fluocinolone acetonide is a potent topical corticosteroid, originally used for inflammatory and itchy skin conditions such as atopic eczema, contact dermatitis, seborrheic dermatitis and discoid lupus erythematosus.
+The TxGNN model predicts it may be effective for **lichen planus pigmentosus**, but **no clinical trials and no publications** are currently available to support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Inflammatory and pruritic skin conditions (topical corticosteroid); drug is not currently marketed in Taiwan, so this is derived from pharmacological/clinical-use reference data rather than a TFDA label |
-| Predicted New Indication | Lichen Planus Pigmentosus |
+| Original Indication | Inflammatory and itchy skin conditions (e.g., atopic eczema, contact dermatitis, seborrheic dermatitis, discoid lupus erythematosus, neurodermatitis) |
+| Predicted New Indication | Lichen planus pigmentosus |
 | TxGNN Prediction Score | 99.42% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
----
+Other predicted indications, all with the same L5 level and a Hold recommendation, are annular atrophic lichen planus (99.42%), hypertrophic lichen planus (99.42%) and lichen planus pemphigoides (99.34%).
 
 ## Why is This Prediction Reasonable?
 
-The formal mechanism-of-action field for this drug is marked as a data gap. However, pharmacology reference data included in this evidence pack shows fluocinolone acetonide acts as a synthetic glucocorticoid receptor (NR3C1) agonist, the same target class shared by all clinically used topical/systemic corticosteroids. Its established clinical use is as an anti-inflammatory, anti-pruritic agent applied topically to skin, and in modified implant formulations for ocular inflammatory conditions (diabetic macular edema, non-infectious posterior uveitis).
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, fluocinolone acetonide acts on the glucocorticoid receptor (NR3C1), giving it anti-inflammatory and immunosuppressive activity. Its efficacy in inflammatory skin diseases is established.
 
-Lichen planus pigmentosus is a pigmented variant within the lichen planus disease family, a lichenoid inflammatory dermatosis in which T-cell-mediated cytotoxic activity against basal keratinocytes plays a central role. Topical corticosteroids are already a mainstay treatment for classic lichen planus and its variants because they suppress T-cell activation and downstream inflammatory mediator release — the same pathway fluocinolone acetonide targets. This provides a plausible mechanistic rationale for TxGNN's prediction.
+Lichen planus pigmentosus is a T-cell-mediated lichenoid dermatitis with pigment deposition in the skin. Suppressing T-cell-driven inflammation with a glucocorticoid is therefore biologically plausible. The high score is probably driven by the drug's existing "lichen disease" indication in the knowledge graph, so it should not be read as clinical confirmation. This disease is also often refractory to topical steroids, so the real benefit is uncertain.
 
-That said, this rationale is currently theoretical. Notably, this evidence pack contains **four** TxGNN-predicted lichen-planus-family indications for this drug (lichen planus pigmentosus, annular atrophic lichen planus, hypertrophic lichen planus, and lichen planus pemphigoides), all scored near 99.3–99.4%. Of these, only **lichen planus pemphigoides** (rank 4) has any literature support — 3 publications on topical corticosteroids (including fluocinonide, a related fluorinated corticosteroid) for oral vesiculoerosive/lichen planus-spectrum disease. This lends indirect, class-level support to the broader hypothesis that topical corticosteroids are relevant to lichen planus variants, but it is not direct evidence for lichen planus pigmentosus specifically, and the original MOA linkage remains unconfirmed by primary source data.
-
----
+The same reasoning applies to the other predicted lichen planus variants:
+- **Hypertrophic lichen planus:** Potent topical steroids (often under occlusion or by intralesional use) are a general standard approach for lichen planus. This is background knowledge, not evidence specific to this drug.
+- **Annular atrophic lichen planus:** This is a rare variant, so any evidence would likely be limited to case reports.
+- **Lichen planus pemphigoides:** Corticosteroids are a mainstay of treatment, but the disease usually needs systemic therapy, and a topical agent alone may be insufficient.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
-*(Note: 3 publications exist for the related predicted indication "lichen planus pemphigoides" — see rationale above — but none map directly to lichen planus pigmentosus.)*
+## India Market Information
 
----
+There are 20 valid single-ingredient registrations and no cancelled ones. The main products are listed below. Approved indication text is not available for these registrations.
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 217232 | Three Derm Cream | Cream, 5 g tube | Lupin Ltd |
+| 86160 | Fluocin-MF Cream | Cream, 15 g tube | Zeelab Pharmacy Pvt Ltd |
+| 231826 | Ultiderm CS Ointment | Ointment, 50 g tube | Percos India Pvt Ltd |
+| 84284 | Flucort Skin Lotion | Solution, 30 ml bottle | Glenmark Pharmaceuticals Ltd |
+| 87466 | Fluderm 0.025% Cream | Cream, 50 g tube | Dermo Care Laboratories |
 
-This drug currently has no marketing authorizations registered in Taiwan (0 licenses; market status: Not marketed / Not Marketed).
-
----
+All products are topical (cream, ointment, lotion or solution).
 
 ## Safety Considerations
 
-**Drug Interactions**: DDInter data lists 9 documented interacting agents, though none have a classified severity level (all reported as "Unknown"): Dexamethasone, Cetirizine, Citalopram, Valproic acid, Acetaminophen, Digoxin, Levothyroxine, Alendronic acid, Clonazepam. Clinical significance of these interactions has not been established from available data and requires further evaluation before use.
+Package insert warnings and contraindications are not available in the data compiled for this report. Please refer to the package insert for safety information.
 
-Key warnings and contraindications are not currently available for this drug — please refer to the package insert once available.
+**Contraindication-related conditions from the knowledge graph (not label text):**
+- Infections: herpes simplex infection, herpes simplex keratitis, geniculate herpes zoster, fungal eye infection, mycotic corneal ulcer, ocular tuberculosis
+- Skin and vascular conditions: skin atrophy, telangiectasis, hereditary hemorrhagic telangiectasia, capillary disease, peripheral vascular disease, peripheral arterial disease, intermittent claudication
+- Other: sunburn, glaucoma, adrenocortical insufficiency, Addison disease, dermatitis
 
----
+**Drug interactions:** Ten interaction records were retrieved, but none has a severity level assigned. The named interacting drugs are dexamethasone, cetirizine, citalopram, valproic acid, acetaminophen, digoxin, levothyroxine, alendronic acid and clonazepam. The tenth record is the glucocorticoid receptor, which is the drug's pharmacological target rather than an interacting drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is a pure L5 model prediction for lichen planus pigmentosus with zero supporting clinical trials or literature, the drug is not marketed in Taiwan (no local safety/label data), and both TFDA warning/contraindication data (Blocking gap) and confirmed MOA data (High-severity gap) are missing — insufficient basis to advance past initial screening.
+The prediction rests on model output alone (L5). No clinical trials or publications were found for any of the four predicted lichen planus-related diseases. The high scores are likely propagated from the existing "lichen disease" indication, and lichen planus pigmentosus is often resistant to topical steroids.
 
 **To proceed, the following is needed:**
-- TFDA label/insert data (or equivalent reference-market label) to establish warnings and contraindications (currently a Blocking data gap)
-- Confirmed mechanism-of-action data via DrugBank API query (currently a High-severity data gap)
-- Disease-specific case reports, case series, or trials evaluating corticosteroids (ideally fluocinolone acetonide specifically) in lichen planus pigmentosus
-- Clarification of route compatibility — available formulations (topical/ophthalmic) versus routes required for treating lichen planus pigmentosus, which remains marked "pending"
-- Severity/clinical-significance grading for the 9 unclassified drug interactions before any safety sign-off
+- A targeted literature search (including case series and case reports) for fluocinolone acetonide in lichen planus variants, particularly hypertrophic lichen planus
+- Package insert warnings and contraindications from the Indian regulatory source, which currently block safety screening
+- Mechanism of action data from DrugBank
+- Approved indication text for the Indian registrations, to confirm the original labelled uses
+- Route and formulation compatibility assessment for each predicted disease, including whether topical potency is adequate for lichen planus pemphigoides
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

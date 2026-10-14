@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Calcipotriol
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 131
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Calcipotriol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,91 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Calcipotriol: From Psoriasis to Seborrheic Keratosis
+# Calcipotriol: From Psoriasis (Topical Vitamin D3 Analogue) to Seborrheic Keratosis
 
 ## One-Sentence Summary
 
-Calcipotriol is a synthetic vitamin D3 analogue approved internationally for the treatment of plaque psoriasis, acting through the Vitamin D Receptor (VDR) to regulate keratinocyte differentiation and inhibit inflammatory signalling.
-The TxGNN model predicts it may be effective for **Seborrheic Keratosis**, but there are currently **no clinical trials** and **no publications** directly supporting this specific direction.
-This prediction is at the model-only stage and requires substantial mechanistic and clinical validation before further exploration is warranted.
-
----
+Calcipotriol is a topical vitamin D3 analogue that is widely marketed in India in ointment and lotion products. The approved indication text is not recorded in the data compiled for this report. The TxGNN model predicts it may be effective for **seborrheic keratosis**, supported by **no registered clinical trials** and **4 publications**, which are mostly small case-level or uncontrolled clinical reports.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Plaque psoriasis |
-| Predicted New Indication | Seborrheic Keratosis |
+|------|------|
+| Original Indication | Not stated in the licence records (calcipotriol is generally known as a psoriasis treatment) |
+| Predicted New Indication | Seborrheic keratosis |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
-
----
+| Evidence Level | L3 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold (treat as a research question) |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacological knowledge, Calcipotriol is a synthetic analogue of calcitriol (active vitamin D3) that binds to the Vitamin D Receptor (VDR), a nuclear receptor expressed on keratinocytes and immune cells. VDR activation inhibits keratinocyte hyperproliferation, promotes cellular differentiation, and suppresses pro-inflammatory cytokines (notably IL-17 and IL-23) — all of which underpin its effectiveness in psoriasis therapy.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, calcipotriol is a vitamin D3 analogue that binds the vitamin D receptor in keratinocytes. This inhibits cell proliferation, promotes differentiation and can induce apoptosis. These are the effects that make it useful in psoriasis, a disease of excessive keratinocyte growth.
 
-Seborrheic keratosis (SK) is a common benign epidermal overgrowth characterised by keratinocyte hyperproliferation, frequently driven by activating somatic mutations in FGFR3 and PIK3CA signalling pathways. At a superficial level, a rationale exists: Calcipotriol inhibits keratinocyte proliferation, and SK involves keratinocyte overproduction. However, this reasoning does not hold under scrutiny.
+Seborrheic keratosis is a common, benign, slow-growing epidermal tumour of keratinocytes, mostly in older adults. Because both conditions involve excess keratinocyte proliferation, a mechanistic link is plausible. Japanese reports on topical active vitamin D3 in "senile warts" (an older term for seborrheic keratosis) suggest apoptosis induction as a possible mechanism.
 
-SK is a genetically driven benign neoplasm — its proliferative driver is not inflammatory hyperproliferation (as in psoriasis) but rather oncogenic signalling through the FGFR3/PIK3CA axis, which VDR activation does not directly antagonise. Furthermore, SK carries negligible malignant transformation risk, so the unmet clinical need for a therapeutic agent is minimal. The high TxGNN prediction score most likely reflects the model generalising across "keratinising skin disorders" rather than detecting a disease-specific mechanistic link. Without published literature or clinical trial data, this prediction cannot be advanced beyond a hypothesis-generating finding.
-
----
+The evidence is still preliminary. The available reports are small and uncontrolled, and no randomized trial has been identified.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
-
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [36752725](https://pubmed.ncbi.nlm.nih.gov/36752725/) | 2023 | Case series (12 patients) | Australas J Dermatol | 0.005% calcipotriol ointment for 3–8 months on facial flat seborrheic keratosis; complete regression of lesions, with remission lasting 6–10 years |
+| [16043912](https://pubmed.ncbi.nlm.nih.gov/16043912/) | 2005 | Clinical/mechanistic study | J Dermatol | Topical vitamin D3 analogues (tacalcitol, calcipotriol, maxacalcitol) in 116 senile wart cases treated for 3–12 months; 35 cases (30.2%) responded; apoptosis induction proposed as the mechanism |
+| [15577148](https://pubmed.ncbi.nlm.nih.gov/15577148/) | 2004 | Clinical report/review | Clin Calcium | Overview of active vitamin D3 ointments for senile warts as an alternative to surgery, freezing or laser |
+| [10721662](https://pubmed.ncbi.nlm.nih.gov/10721662/) | 2000 | Case report | J Dermatol | Marked response of keratosis lichenoides chronica (a different keratotic disorder) to calcipotriol ointment; indirect relevance only |
 
 ## India Market Information
 
-Calcipotriol is currently **not marketed in India**. No drug licences have been issued by CDSCO for this compound as of the data cut-off date (2026-04-10).
+Twenty valid single-ingredient registrations exist, with no cancelled or combination licences. The approved indication text is not recorded for any of them. Main examples:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 37343 | Covate-C Ointment (Canbro Healthcare) | Ointment, 20 g tube | Not recorded |
+| 201404 | Soristop-C Lotion (Alniche Life Sciences) | Lotion, 30 ml bottle | Not recorded |
+| 173902 | Pasitrex Ointment (Sun Pharmaceutical) | Ointment, 20 g tube | Not recorded |
+| 35800 | Calpsor Ointment (Biocon) | Ointment, 30 g tube | Not recorded |
+| 34929 | Calpsor C Lotion (Biocon) | Lotion, 20 ml bottle | Not recorded |
+
+All products are topical ointments or lotions.
 
 ## Safety Considerations
 
-**Drug Interactions**: The DDinter database has flagged **84 potential drug interactions** for Calcipotriol. All interactions are currently classified as **Unknown severity**, which limits their direct clinical utility for risk stratification. Flagged drug classes include:
+- **Drug Interactions**: The interaction screen returned 84 records. The 20 displayed have no severity grading. They include corticosteroids (triamcinolone, prednisone, prednisolone, hydrocortisone), proton pump inhibitors (omeprazole, pantoprazole, lansoprazole, rabeprazole), doxycycline, clarithromycin, metformin and simvastatin. Their clinical significance is unclear for topical use.
+- **Knowledge-graph contraindication signals** (from disease-drug links, not label text): hypercalcemia and other calcium metabolism disorders, nephrocalcinosis, hypervitaminosis, adrenocortical insufficiency, skin atrophy, telangiectasis, peripheral vascular disease, calciphylaxis and calcinosis. Also listed are several ichthyoses, Darier disease, pseudoxanthoma elasticum and guttate psoriasis.
 
-- Corticosteroids: Prednisone, Prednisolone, Hydrocortisone, Triamcinolone
-- Proton pump inhibitors: Omeprazole, Pantoprazole, Lansoprazole, Rabeprazole
-- Antibiotics: Doxycycline, Clarithromycin, Vancomycin
-- Antidiabetics: Metformin, Rosiglitazone, Glyburide
-- Others: Aspirin, Simvastatin, Sulfasalazine, Morphine, Bupropion, Clotrimazole
-
-Please refer to the package insert for complete warnings and contraindications, as those data are currently unavailable in this Evidence Pack.
-
----
+Package insert warnings and contraindications were not available. Please refer to the package insert for authoritative safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold (research question)**
 
 **Rationale:**
-Despite a very high TxGNN prediction score (99.96%), this score reflects model generalisation across keratinocyte-related skin disorders rather than a disease-specific mechanistic connection. Seborrheic keratosis is driven by FGFR3/PIK3CA mutation, not by the VDR-regulated inflammatory pathways Calcipotriol modulates; the unmet clinical need is also minimal given SK's benign and non-malignant nature. With zero supporting clinical trials and zero relevant publications, there is no evidence base to justify further investment.
+The prediction score is very high and there is a plausible keratinocyte-based mechanism. However, the supporting evidence consists of small uncontrolled studies and case series, with no registered trials and no randomized comparison. The package insert safety data and approved indications are also missing, so safety screening cannot yet proceed.
 
 **To proceed, the following is needed:**
-
-- **Mechanistic validation**: In vitro studies using SK-derived keratinocyte models (FGFR3/PIK3CA-mutant cell lines) to determine whether VDR activation has any measurable impact on SK-type proliferative signalling
-- **Epidemiological signal**: Any observational evidence that long-term Calcipotriol users show altered SK incidence or lesion regression
-- **Clinical need assessment**: A formal determination of whether a therapeutic gap exists for SK, given its benign course and low treatment priority
-- **MOA data retrieval**: Query DrugBank API to obtain the complete pharmacological profile of Calcipotriol (Data Gap DG002)
-- **Safety profile completion**: Retrieve CDSCO prescribing information to assess warnings and contraindications (Data Gap DG001)
-- **Consider reprioritising**: Among the top 10 predicted indications, **Vulvitis (rank 4)** and **Vulvar Neoplasm (rank 5)** have published literature support (PMID [22968059](https://pubmed.ncbi.nlm.nih.gov/22968059/) and [30785593](https://pubmed.ncbi.nlm.nih.gov/30785593/) respectively) and stronger mechanistic rationale as psoriasis-extension and EMPD chemosensitisation targets — these may be higher-yield candidates for a full evidence deep-dive
-
----
-
-> ⚠️ **Disclaimer**: This report is for research reference purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any therapeutic application.
+- Package insert warnings and contraindications from the Indian product labels
+- Approved indication text for the Indian licences
+- Detailed mechanism of action data
+- A controlled study (for example, randomized versus standard treatments such as cryotherapy) in seborrheic keratosis
+- A calcium and skin safety monitoring plan, given the hypercalcemia and skin atrophy signals
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

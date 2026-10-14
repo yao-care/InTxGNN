@@ -2,7 +2,7 @@
 layout: default
 title: Nilotinib
 parent: Model Prediction Only (L5)
-nav_order: 590
+nav_order: 595
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,108 +29,93 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Nilotinib: From Chronic Myelogenous Leukemia to Dermatofibrosarcoma Protuberans
+# Nilotinib: From BCR-ABL1-Positive Chronic Myelogenous Leukemia to Dermatofibrosarcoma Protuberans
 
 ## One-Sentence Summary
 
-Nilotinib is a second-generation BCR-ABL/KIT/PDGFRα/β tyrosine kinase inhibitor (TKI), originally developed and approved for Philadelphia chromosome-positive chronic myelogenous leukemia (CML). The TxGNN model predicts it may be effective for **Dermatofibrosarcoma Protuberans (DFSP)**, with **0 clinical trials** and **1 publication** currently supporting this direction. The mechanistic rationale is strong — DFSP is driven by constitutive PDGFRβ activation, a known Nilotinib target — but formal clinical evidence remains absent.
-
----
+Nilotinib is a tyrosine kinase inhibitor originally used to treat BCR-ABL1-positive chronic myelogenous leukemia.
+The TxGNN model predicts it may be effective for **Dermatofibrosarcoma Protuberans (DFSP)**, but currently only **1 review article** supports this direction and **no registered clinical trials** were found.
+The prediction is mechanistically plausible but remains at the research-question stage.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Philadelphia chromosome-positive chronic myelogenous leukemia (CML) |
-| Predicted New Indication | Dermatofibrosarcoma Protuberans (DFSP) |
+|------|------|
+| Original Indication | Chronic myelogenous leukemia, BCR-ABL1 positive |
+| Predicted New Indication | Dermatofibrosarcoma protuberans |
 | TxGNN Prediction Score | 99.31% |
-| Evidence Level | L4 (Preclinical / mechanism studies only) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 (the data compiled for this report rates it L4; only a general review exists, with no nilotinib-specific study, so model prediction is effectively the main support) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Nilotinib is a second-generation BCR-ABL tyrosine kinase inhibitor also active against KIT and PDGF receptors α and β. Compared to first-generation imatinib, it binds the kinase domain with greater affinity and can overcome several imatinib-resistance mutations. Its inhibitory potency against PDGFRβ is well established (IC₅₀ ≈ 20–50 nM in vitro).
+Currently, detailed mechanism of action data for nilotinib is not available in the data compiled for this report. Based on general knowledge, nilotinib is a tyrosine kinase inhibitor that blocks BCR-ABL1, and it also inhibits PDGFR, KIT and DDR kinases.
 
-DFSP is a rare soft-tissue sarcoma defined by a pathognomonic chromosomal translocation t(17;22)(q22;q13), which fuses the COL1A1 gene to PDGFB. The resulting fusion protein constitutively activates the PDGFRβ autocrine signalling loop, making PDGFRβ the central oncogenic driver of this tumour. This is the same target already exploited clinically by imatinib, which holds FDA approval for unresectable or metastatic DFSP. Because Nilotinib shares the PDGFRβ target with imatinib and demonstrates superior in-vitro potency, the TxGNN model's high prediction score is mechanistically coherent and consistent with established oncology biology.
+DFSP is typically driven by the COL1A1-PDGFB fusion, which causes constitutive autocrine activation of PDGFRB. Because nilotinib can inhibit PDGFR, there is a plausible mechanistic link between its activity in leukemia (kinase inhibition) and the growth signal that drives DFSP. The very high TxGNN score (0.993) is consistent with this biology.
 
-The theoretical advantage of Nilotinib over imatinib in DFSP is its potential utility after imatinib failure. However, no completed clinical trial has yet validated this hypothesis in DFSP patients, keeping the evidence at the preclinical/mechanism level (L4). The single available publication is a broad narrative review of PDGFR-inhibitor pharmacology and does not report patient outcomes specific to this indication.
-
----
+An important caveat: the single supporting publication is a 2018 review of small-molecule PDGFR inhibitors in neoplastic disorders. It appears to centre on imatinib, the established PDGFR inhibitor for this disease, and is not nilotinib-specific clinical evidence. The mechanism described here is inferred from the drug class, not from the data provided.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Nilotinib in Dermatofibrosarcoma Protuberans.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [29408302](https://pubmed.ncbi.nlm.nih.gov/29408302/) | 2018 | Narrative Review | Pharmacological Research | Comprehensive review of small-molecule PDGFRα/β inhibitors in neoplastic disorders; discusses the PDGF signalling axis, receptor biology, and approved/investigational TKIs including Nilotinib; provides mechanistic rationale but no DFSP-specific clinical outcome data |
-
----
+|------|-----|------|------|---------|
+| [29408302](https://pubmed.ncbi.nlm.nih.gov/29408302/) | 2018 | Review | Pharmacological Research | Review of small-molecule PDGFR inhibitors in neoplastic disorders, covering the PDGF family and PDGFR signalling; likely focused on imatinib rather than nilotinib |
 
 ## India Market Information
 
-Nilotinib currently holds **no registered marketing authorizations** in India. The drug is not commercially available through the local regulatory pathway and would require new drug application or special importation approval before clinical use.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 216456 | Tasigna 150mg Capsule | Strip of 4 capsules | Not specified in available data |
+| 215851 | Tasigna 200mg Capsule | Strip of 4 capsules | Not specified in available data |
 
----
+Both licences are held by Novartis India Ltd and are currently valid. Both are oral single-ingredient products.
 
 ## Cytotoxicity
 
-Nilotinib is an antineoplastic agent (targeted therapy — BCR-ABL/PDGFR tyrosine kinase inhibitor).
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy (Second-generation BCR-ABL / KIT / PDGFRα/β TKI) |
-| Myelosuppression Risk | Moderate — thrombocytopenia, neutropenia, and anaemia are reported class effects of BCR-ABL TKIs; CBC monitoring is essential |
-| Emetogenicity Classification | Low to minimal |
-| Monitoring Items | CBC with differential, liver function tests, serum lipase/amylase, electrolytes (QTc-relevant: potassium, magnesium), fasting glucose, ECG (QTc interval) |
-| Handling Protection | Must follow cytotoxic drug handling regulations for oral targeted therapies |
-
----
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (tyrosine kinase inhibitor) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions (the knowledge graph lists neutropenia, thrombocytopenia and anemia as contraindicated conditions, suggesting haematological risk) |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC, liver function, electrolytes (potassium, magnesium), blood glucose, ECG for QT interval |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-**Drug Interactions (637 total interactions identified):**
+- **Contraindicated or high-caution conditions (from the knowledge graph, not label text)**:
+  - Cardiovascular: long QT syndrome (including familial), torsades de pointes, hypertension
+  - Liver, biliary and pancreatic: liver disease, gallbladder disease, hyperbilirubinemia (including Gilbert syndrome), pancreatitis
+  - Blood: thrombocytopenia, neutropenia, agranulocytosis, anemia
+  - Metabolic: hyperglycemia, diabetes mellitus, diabetic ketoacidosis, potassium deficiency, hypophosphatemia, hypercalcemia, nephrocalcinosis, phosphorus metabolism disorders
+- **Drug Interactions**: 637 interactions were identified in total. Major-level examples include:
+  - Dexamethasone
+  - Clarithromycin
+  - Picosulfuric acid
+  - Polyethylene glycol (3350 with electrolytes)
 
-Major-level interactions requiring clinical attention:
+  Moderate-level examples include acid-suppressing drugs (famotidine, ranitidine, rabeprazole, omeprazole, cimetidine), corticosteroids (hydrocortisone, triamcinolone, betamethasone, budesonide), pioglitazone, loperamide, bupropion, aprepitant, bisacodyl and saxagliptin.
 
-- **Dexamethasone** — Major (CYP3A4 inducer; may significantly reduce Nilotinib plasma levels)
-- **Clarithromycin** — Major (potent CYP3A4 inhibitor; may substantially increase Nilotinib exposure and QTc risk)
-- **Picosulfuric acid** — Major (electrolyte disturbance risk; additive QTc prolongation potential)
-- **Polyethylene glycol 3350 with electrolytes** — Major (electrolyte disturbance; QTc prolongation risk)
-
-Representative moderate-level interactions:
-
-Famotidine, Ranitidine, Rabeprazole, Omeprazole, Cimetidine (gastric pH-elevating agents reduce Nilotinib absorption), Hydrocortisone, Budesonide, Betamethasone, Triamcinolone (CYP3A4 effects), Pioglitazone, Saxagliptin (metabolic interactions), Bupropion, Aprepitant, Loperamide, Bisacodyl.
-
-> ⚠️ Nilotinib carries known QTc prolongation risk. Co-administration with any QTc-prolonging agent or electrolyte-depleting preparation requires ECG monitoring and electrolyte correction before and during therapy.
-
-For complete warnings and contraindications, please refer to the Tasigna® (Nilotinib) package insert, as formal safety label data was not included in this Evidence Pack.
-
----
+Package insert warnings and contraindications were not available. Please refer to the package insert for authoritative safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic basis for Nilotinib in DFSP is scientifically sound — PDGFRβ is the confirmed oncogenic driver and Nilotinib is a potent PDGFRβ inhibitor — however, the current evidence consists of a single narrative review with no DFSP-specific clinical or preclinical experimental data. With zero registered clinical trials and no market authorization in India, the evidence base is insufficient to advance beyond a research hypothesis at this stage.
+The PDGFR-driven biology of DFSP gives a plausible mechanistic link and the TxGNN score is high. However, there are no registered clinical trials and no nilotinib-specific literature; the only supporting item is a general review that appears to focus on imatinib. The established PDGFR inhibitor for this disease already exists, and nilotinib's safety profile includes significant QT, metabolic and haematological concerns.
 
 **To proceed, the following is needed:**
-
-- **Preclinical data**: In vitro PDGFRβ inhibition studies in DFSP cell lines; in vivo xenograft models to establish proof-of-concept before human trials
-- **Comparative activity data**: Head-to-head comparison with imatinib (the FDA-approved PDGFR inhibitor for DFSP) to quantify whether Nilotinib offers meaningful efficacy advantages
-- **Safety label review**: Obtain and parse the full Nilotinib prescribing information (Tasigna® SmPC / FDA label) to complete the safety profile, particularly QTc warnings and contraindications
-- **Regulatory feasibility assessment**: Determine whether a compassionate use / investigational new drug pathway exists in India for Nilotinib in DFSP, given zero local market authorization
-- **Case report / retrospective series search**: Systematic search for published case reports of Nilotinib use in DFSP (imatinib-refractory setting) to supplement the current evidence gap
-- **Clinical trial registration**: If preclinical data is supportive, design and register a Phase 1/2 single-arm trial in unresectable or imatinib-progressed DFSP
+- Nilotinib-specific evidence in DFSP (case series, phase 2 data, or preclinical studies in COL1A1-PDGFB models)
+- Comparative rationale against imatinib, including imatinib-resistant or intolerant patients
+- Mechanism of action data (MOA) confirmed from a primary source
+- Package insert warnings and contraindications for the India-marketed Tasigna products, plus their approved indication text
+- A safety plan covering QT monitoring, and review of the major drug interactions listed above
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

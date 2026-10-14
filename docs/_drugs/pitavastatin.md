@@ -2,7 +2,7 @@
 layout: default
 title: Pitavastatin
 parent: Moderate Evidence (L3-L4)
-nav_order: 674
+nav_order: 681
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,71 +29,89 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Pitavastatin: From Hypercholesterolemia to Homozygous Familial Hypercholesterolemia
+# Pitavastatin: From Familial Combined Hyperlipidaemia to Homozygous Familial Hypercholesterolaemia
 
 ## One-Sentence Summary
 
-Pitavastatin is a statin (HMG-CoA reductase inhibitor class) generally used for hypercholesterolemia/dyslipidemia; a specific local approved-indication record is not available in this evidence pack.
-The TxGNN model predicts it may be effective for **Homozygous Familial Hypercholesterolemia (HoFH)**,
-but currently only **0 clinical trials** and **2 publications** support this specific direction, and the mechanistic case is weakened by HoFH's near-total loss of LDL receptor function.
+Pitavastatin is a statin (HMG-CoA reductase inhibitor) originally used for familial combined hyperlipidaemia.
+The TxGNN model predicts it may be effective for **homozygous familial hypercholesterolaemia**, but the evidence for this specific disease is thin: **no registered clinical trials** and only **2 loosely related publications** (an HIV dyslipidaemia RCT and a small case report on a related condition).
+Other predicted indications are much better supported, notably **hyperlipoproteinaemia** (Phase 3/4 trials) and **HIV-associated cardiovascular risk** (the large REPRIEVE trial).
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypercholesterolemia / dyslipidemia (general statin-class use); no local approved-indication record available |
-| Predicted New Indication | Homozygous Familial Hypercholesterolemia |
+| Original Indication | Familial combined hyperlipidaemia (including LPL-related forms) |
+| Predicted New Indication | Homozygous familial hypercholesterolaemia |
 | TxGNN Prediction Score | 99.996% |
 | Evidence Level | L4 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Pitavastatin belongs to the statin (HMG-CoA reductase inhibitor) class; its efficacy in hypercholesterolemia/dyslipidemia is well established, and mechanistically statins act by inhibiting hepatic cholesterol synthesis and upregulating LDL receptor expression.
+Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, pitavastatin inhibits HMG-CoA reductase, which lowers hepatic cholesterol synthesis and upregulates hepatic LDL receptors, thereby reducing LDL cholesterol. Its efficacy in lipid disorders is well established.
 
-In Homozygous Familial Hypercholesterolemia, patients have near-complete loss of functional LDL receptors (biallelic LDLR mutations, or equivalent defects such as autosomal recessive hypercholesterolemia via LDLRAP1). Because statins act primarily by increasing LDL receptor activity, their efficacy as monotherapy in HoFH is inherently limited — the mechanism is only partially applicable, working through residual receptor activity or minor non-receptor pathways rather than the primary mechanism used in more common hypercholesterolemia. Standard care for HoFH typically requires combination therapy (e.g., PCSK9 inhibitors, LDL apheresis), consistent with the evidence pack's own assessment that this is a "weakened, indirect mechanistic association."
+Homozygous familial hypercholesterolaemia (HoFH) is a severe inherited form of high LDL cholesterol, so a link with the original lipid indication is understandable. However, the benefit of a statin depends on residual LDL receptor activity. In patients with little or no receptor function, the response is expected to be limited. The only FH-relevant item found is a 2025 case report on autosomal recessive hypercholesterolaemia, which is a different condition, and the HIV dyslipidaemia RCT (INTREPID) does not address this disease. The prediction is therefore mechanistically plausible but not directly supported.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for homozygous familial hypercholesterolaemia.
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [28416195](https://pubmed.ncbi.nlm.nih.gov/28416195/) | 2017 | RCT | The Lancet HIV | INTREPID trial: pitavastatin vs. pravastatin in HIV-1-infected adults with dyslipidaemia — pitavastatin effective without CYP450-mediated interactions with antiretrovirals (population is HIV dyslipidaemia, not HoFH specifically) |
-| [39532566](https://pubmed.ncbi.nlm.nih.gov/39532566/) | 2025 | Case report | Journal of Clinical Lipidology | Rapid lipid-lowering response in two cases of autosomal recessive hypercholesterolemia (ARH), a condition clinically indistinguishable from HoFH |
+| [28416195](https://pubmed.ncbi.nlm.nih.gov/28416195/) | 2017 | RCT (Phase 4) | The Lancet HIV | Pitavastatin vs pravastatin in adults with HIV and dyslipidaemia (INTREPID); studied lipid-lowering efficacy and safety, but not in HoFH |
+| [39532566](https://pubmed.ncbi.nlm.nih.gov/39532566/) | 2025 | Case report | J Clin Lipidol | Rapid lipid-lowering response in two cases of autosomal recessive hypercholesterolaemia, a condition clinically indistinguishable from HoFH |
+
+---
 
 ## India Market Information
 
-Not currently marketed; no local product registration records are available in this evidence pack.
+The 20 valid registrations are all single-ingredient products (no combinations recorded), none cancelled. No approved indication text was provided for any of them. Five representative entries:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 78681 | Ezenon-P4 Tablet (Indinon Pharma) | Strip of 10 tablets | Not stated |
+| 126527 | Livastat 4 Tablet (Novazen Pharmaceuticals) | Strip of 10 tablets | Not stated |
+| 174138 | Pivasta 4 Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
+| 175394 | Pitava 2mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
+| 180569 | Pivasta F 2mg/135mg Capsule DR (Zydus Cadila) | Strip of 10 delayed-release capsules | Not stated |
+
+---
 
 ## Safety Considerations
 
-**Drug Interactions** (86 total interactions identified; key examples):
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: liver disease, gallbladder disease, hypothyroidism, myxedema, congenital hypothyroidism, myopathy, muscular disease, skeletal muscle disease, familial periodic paralysis, hypotensive disorder, rhabdomyolysis, nodular fasciitis, impaired renal function, injury.
+- **Drug Interactions**: 86 interactions are recorded. The only **Major** interaction among those listed is **erythromycin**. Moderate interactions include other statins (rosuvastatin, simvastatin), cobicistat, eltrombopag, metronidazole, tinidazole, chloroquine, hydroxychloroquine, disulfiram, ethanol and others. Warfarin and dicoumarol are minor. Only 20 of the 86 are shown in the compiled data.
 
-| Interacting Drug | Severity |
-|---|---|
-| Erythromycin | Major |
-| Eluxadoline, Naltrexone, Metronidazole, Rosuvastatin, Simvastatin, Tinidazole, Ethanol, Cobicistat, Eltrombopag, Chloroquine, Disulfiram, Secnidazole, Benznidazole, Hydroxychloroquine, Zafirlukast, Chloramphenicol, Dapsone | Moderate |
-| Warfarin, Dicoumarol | Minor |
+Package insert warnings and contraindications were not available; please refer to the package insert for label safety information.
 
-No specific key-warning or contraindication data is available for this drug in the current evidence pack.
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence for pitavastatin in HoFH is limited to two publications (no HoFH-specific RCTs and no registered clinical trials), and the mechanistic rationale itself is weak — HoFH's near-absent LDL receptor function limits statin monotherapy efficacy, with real-world management relying on combination therapy. The evidence level (L4) does not support proceeding beyond a research hypothesis at this time.
+The prediction score is very high, but there are no clinical trials in HoFH and no directly relevant publications. Efficacy is expected to be limited in receptor-null patients. For comparison, the same drug has far stronger support in other predicted indications: hyperlipoproteinaemia (L1, Proceed with Guardrails), familial hypercholesterolaemia and autosomal dominant hypercholesterolaemia (L2, Proceed with Guardrails), and HIV-associated cardiovascular risk reduction (L1, Proceed with Guardrails, based on REPRIEVE).
 
 **To proceed, the following is needed:**
-- TFDA/local label warnings and contraindications (currently a Blocking data gap — required before any S1 safety screening)
-- Confirmed mechanism of action (MOA) data
-- HoFH-specific clinical evidence, ideally evaluating pitavastatin as combination/adjunct therapy rather than monotherapy
-- Note: within the same evidence pack, the related indication **hyperlipoproteinemia** (rank 2) shows substantially stronger support (Evidence Level L1, 12 clinical trials including Phase 4 RCTs, 17 publications, recommendation "Proceed with Guardrails") and may warrant prioritization over HoFH as the lead repurposing candidate for this drug.
+- Dedicated HoFH efficacy data, ideally stratified by LDL receptor activity (residual function vs null)
+- Detailed mechanism of action data
+- Package insert warnings and contraindications for products marketed in India (a blocking data gap)
+- Approved indication text for the Indian registrations
+- A DDI and myopathy/liver monitoring plan if pursued
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Trimetazidine
-parent: High Evidence (L1-L2)
-nav_order: 860
-evidence_level: L2
+parent: Moderate Evidence (L3-L4)
+nav_order: 867
+evidence_level: L3
 indication_count: 10
 ---
 
 # Trimetazidine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Trimetazidine: From Angina Pectoris to Endolymphatic Hydrops
+# Trimetazidine: From Angina Pectoris (Cardiac Metabolic Therapy) to Endolymphatic Hydrops
 
 ## One-Sentence Summary
 
-> Trimetazidine is a metabolic anti-ischemic agent generally used for angina pectoris; it is **not currently marketed in India**, and no local approved-indication text is available in this Evidence Pack.
-> The TxGNN model predicts it may be effective for **Endolymphatic Hydrops (Ménière's disease)**,
-> supported by **2 historical randomized controlled trials** and **4 additional publications**, with no registered clinical trials to date.
+Trimetazidine is a metabolic anti-ischaemic agent, widely marketed in India as oral tablets and capsules. The India licence records compiled for this report do not list an approved indication.
+The TxGNN model predicts it may be effective for **Endolymphatic Hydrops**, the pathological correlate of Ménière's disease, with **0 clinical trials** and **5 publications** (2 small double-blind RCTs from 1990) supporting this direction.
+Evidence is limited and dated, so this is best treated as a research question rather than a ready-to-develop indication.
 
 ---
 
@@ -43,29 +43,29 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Angina pectoris (general drug knowledge; no approved-indication text available — drug not marketed in India) |
-| Predicted New Indication | Endolymphatic Hydrops (Ménière's disease) |
+| Original Indication | Not stated in the India licence data (the cardiac use described here reflects general knowledge of the drug and is not drawn from the compiled data) |
+| Predicted New Indication | Endolymphatic hydrops |
 | TxGNN Prediction Score | 98.57% |
-| Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L3 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold (treat as a research question; see Conclusion) |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known information, trimetazidine is a metabolic anti-ischemic agent that inhibits fatty acid β-oxidation and shifts cellular energy production toward glucose oxidation, thereby protecting tissue under ischemic/metabolic stress. It is best known internationally as an anti-anginal agent.
+Detailed mechanism-of-action data for trimetazidine are not available in the data compiled for this report. Based on general pharmacological knowledge, trimetazidine is a partial inhibitor of long-chain 3-ketoacyl-CoA thiolase. It shifts cellular energy metabolism from fatty acid oxidation toward glucose oxidation, which improves energy efficiency under ischaemic or metabolically stressed conditions.
 
-The predicted new indication — endolymphatic hydrops, the pathological hallmark of Ménière's disease — has a plausible mechanistic link: the inner ear (cochlea and vestibular organs) is highly sensitive to microcirculatory and metabolic disturbance, and vascular/metabolic dysfunction is one of the leading hypotheses for endolymphatic hydrops. Trimetazidine's protective effect against ischemic energy stress could theoretically extend to inner ear tissue.
+Endolymphatic hydrops is the pathological hallmark of Ménière's disease, which causes recurrent vertigo, hearing loss, tinnitus and ear fullness. Trimetazidine has been studied in vestibular vertigo and Ménière's disease, with proposed effects on inner-ear microcirculation and cellular energy metabolism. These effects could reduce ischaemic or metabolic stress in the labyrinth.
 
-Notably, this is not a purely theoretical extrapolation: trimetazidine (as *Vastarel 20mg*) has a documented history of clinical use for vertigo and Ménière's disease, evidenced by two 1990s double-blind RCTs comparing it against betahistine (a standard Ménière's disease therapy). This historical precedent meaningfully strengthens the plausibility of the TxGNN prediction. The same underlying mechanism also drove high TxGNN scores for closely related ontology entries — cochlear, vestibular, and cochleovestibular subtypes of active Ménière's disease (ranks 3–5) — and for benign recurrent vertigo (rank 7), where trimetazidine was again studied for residual dizziness after BPPV repositioning maneuvers.
+The supporting studies are old and small, and abstracts were only partly available. The evidence applies to hydrops indirectly, through Ménière's disease. The mechanistic link remains a hypothesis.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
@@ -73,43 +73,53 @@ Currently no related clinical trials registered
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [2240994](https://pubmed.ncbi.nlm.nih.gov/2240994/) | 1990 | RCT | Ann Otolaryngol Chir Cervicofac | Double-blind trial: trimetazidine (60mg/day) vs. betahistine (24mg/day) in 40 patients with peripheral vertigo, 20 of whom had Ménière's disease, over 3 months |
-| [2240995](https://pubmed.ncbi.nlm.nih.gov/2240995/) | 1990 | RCT | Ann Otolaryngol Chir Cervicofac | Double-blind trial: trimetazidine (60mg/day) vs. betahistine (36mg/day) in 45 Ménière's disease patients (cochlear symptoms: vertigo, tinnitus, hearing loss) over 2 months |
-| [10367069](https://pubmed.ncbi.nlm.nih.gov/10367069/) | 1999 | Review | Ann Otolaryngol Chir Cervicofac | Synopsis of clinical trials on Vastarel 20mg (trimetazidine) contribution to vertigo treatment |
-| [26208913](https://pubmed.ncbi.nlm.nih.gov/26208913/) | 2016 | Review | Eur Arch Otorhinolaryngol | Molecular rationale for histamine-pathway therapy (betahistine) via histamine receptor expression in the human endolymphatic sac — supports the vascular/ion-transport hypothesis of endolymphatic hydrops relevant to trimetazidine's proposed mechanism |
-| [19454061](https://pubmed.ncbi.nlm.nih.gov/19454061/) | 2007 | Review | BMJ Clin Evid | General overview of Ménière's disease clinical course and treatment options (background) |
-| [16623983](https://pubmed.ncbi.nlm.nih.gov/16623983/) | 2006 | Review | J Laryngol Otol | Case series on rare pediatric Ménière's disease (background) |
+| [2240994](https://pubmed.ncbi.nlm.nih.gov/2240994/) | 1990 | RCT | Ann Otolaryngol Chir Cervicofac | Double-blind, 3-month comparison of trimetazidine (60 mg/day) with betahistine (24 mg/day) in peripheral vestibular vertigo; 40 patients enrolled, 20 with Ménière's disease |
+| [2240995](https://pubmed.ncbi.nlm.nih.gov/2240995/) | 1990 | RCT | Ann Otolaryngol Chir Cervicofac | Double-blind, 2-month comparison of trimetazidine (60 mg/day) with betahistine (36 mg/day) in Ménière's disease; 45 patients enrolled, 5 dropped out |
+| [10367069](https://pubmed.ncbi.nlm.nih.gov/10367069/) | 1999 | Review | Ann Otolaryngol Chir Cervicofac | Synopsis of clinical trials of trimetazidine 20 mg in vertigo (no abstract available) |
+| [19454061](https://pubmed.ncbi.nlm.nih.gov/19454061/) | 2007 | Review | BMJ Clin Evid | General review of Ménière's disease (recurrent vertigo, hearing loss, tinnitus); not specific to trimetazidine |
+| [26208913](https://pubmed.ncbi.nlm.nih.gov/26208913/) | 2016 | Basic/Mechanistic | Eur Arch Otorhinolaryngol | Histamine receptor expression in the human endolymphatic sac; rationale for betahistine, not trimetazidine |
 
-**Related-indication corroborating evidence:** [26563011](https://pubmed.ncbi.nlm.nih.gov/26563011/) (2015, RCT, *B-ENT*) evaluated trimetazidine, betahistine, and ginkgo biloba for residual dizziness after BPPV repositioning maneuvers — a mechanistically adjacent vestibular indication (predicted rank 7, "benign recurrent vertigo").
+Related evidence for other predicted indications: a 2015 study ([26563011](https://pubmed.ncbi.nlm.nih.gov/26563011/), B-ENT) examined trimetazidine, betahistine and ginkgo biloba extract for residual dizziness after repositioning manoeuvres for benign paroxysmal positional vertigo. This is a different condition from the genetically defined recurrent vertigo predicted by the model.
 
 ---
 
 ## India Market Information
 
-Trimetazidine currently has no marketing authorization in India (0 registrations); no license records are available in this Evidence Pack.
+The compiled data list 20 valid single-ingredient registrations. Approved indication text is not available for any of them. Five representative authorizations:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 42958 | Cytopill 35mg Tablet SR | Strip of 10 sustained-release tablets | Not listed |
+| 84040 | Flavedon MR Tablet | Strip of 10 modified-release tablets | Not listed |
+| 214835 | Timzid-MR Tablet | Strip of 15 modified-release tablets | Not listed |
+| 223930 | Trilong 60mg Capsule | Strip of 10 capsules | Not listed |
+| 180560 | Prodium 20mg Tablet | Strip of 10 tablets | Not listed |
+
+All products are oral forms.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*Note: Local regulatory warnings/contraindications (equivalent to a TFDA label) could not be retrieved for this drug (Data Gap DG001, severity: Blocking) and represent a mandatory prerequisite before any S1 safety review.*
+Please refer to the package insert for safety information. No warnings, contraindications or drug-interaction data were available in the data compiled for this report.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold (research question)**
 
 **Rationale:**
-Two historical double-blind RCTs plus a supporting synopsis directly evaluated trimetazidine in Ménière's disease/vertigo, and this finding is reinforced by convergent TxGNN predictions across multiple related Ménière's disease ontology entries and benign recurrent vertigo. However, the evidence is decades old, of modest scale, and the drug has no current market presence in India, so it cannot proceed without additional safety and regulatory work.
+The only supporting studies are two small, 1990 double-blind comparisons against betahistine, and the evidence reaches endolymphatic hydrops only indirectly through Ménière's disease. There are no registered trials, and no safety or package-insert data are available to support a screening decision.
 
 **To proceed, the following is needed:**
-- Local (India-equivalent) label warnings and contraindications — currently missing and blocking any safety assessment (DG001)
-- Confirmed mechanism-of-action documentation (DG002)
-- Re-evaluation of trimetazidine's known systemic safety profile (e.g., movement-disorder/Parkinsonism signal reported in other markets) against inner-ear indication use
-- Assessment of route/formulation availability, since no dosage form data currently exists for this market
+- Package insert warnings and contraindications from the India licence documents
+- Mechanism-of-action data from DrugBank
+- Full-text review of the 1990 RCTs, covering methods, outcomes and betahistine comparator results
+- A modern, adequately powered RCT in Ménière's disease, or a systematic review of existing data
+- Confirmation of the approved indications on the India licences, to define the original indication properly
+
+**Other predicted indications:** The data compiled for this report rank mitochondrial oxidative phosphorylation disorder, exocrine pancreatic insufficiency, 46,XY gonadal development disorder, male infertility due to gonadal dysgenesis and metastatic melanoma among the top predictions. None has supporting trials or literature, and they are rated L5 with a Hold recommendation. The Ménière's disease subtypes (cochlear, vestibular, cochleovestibular) and benign recurrent vertigo have only indirect, non-subtype-specific support (L4).
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

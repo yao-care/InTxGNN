@@ -2,7 +2,7 @@
 layout: default
 title: Temsirolimus
 parent: High Evidence (L1-L2)
-nav_order: 807
+nav_order: 814
 evidence_level: L2
 indication_count: 3
 ---
@@ -29,103 +29,88 @@ Evidence Level: **L2** | Predicted Indications: **3**
 
 </div>
 
-# Temsirolimus: From Renal Cell Carcinoma to Liposarcoma
+# Temsirolimus: From Mantle Cell Lymphoma and Renal Cell Carcinoma to Liposarcoma
 
 ## One-Sentence Summary
 
-> Temsirolimus is an mTOR inhibitor known internationally as an antineoplastic agent; India-specific approved-indication data is not present in this evidence pack.
-> The TxGNN model predicts it may be effective for **Liposarcoma**,
-> with **5 clinical trials** and **1 publication** currently supporting this direction, though only one trial uses Temsirolimus itself directly.
-
----
+Temsirolimus is an mTOR inhibitor originally used to treat renal cell carcinoma and mantle cell lymphoma.
+The TxGNN model predicts it may be effective for **liposarcoma**,
+with **2 clinical trials** (both in sarcoma populations, not liposarcoma-specific) and **1 publication** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in evidence pack (`original_indications` empty; Temsirolimus is globally recognized as an antineoplastic mTOR inhibitor) |
+| Original Indication | Mantle cell lymphoma, renal cell carcinoma (the approved-indication text in the India licence records is blank, so this comes from the knowledge-graph indication list) |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.54% (rank 7926) |
+| TxGNN Prediction Score | 99.54% |
 | Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
-
----
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
+| Recommended Decision | Hold (research question; further evidence needed) |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data is not available in the evidence pack (flagged as a High-severity data gap, DG002). Based on the drug's known pharmacological class, Temsirolimus is a rapalog (mTOR inhibitor) that blocks signaling through the PI3K/AKT/mTOR pathway, a pathway central to cell growth and proliferation control in oncology.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the pathway analysis, temsirolimus inhibits mTOR (through the FKBP12 complex), a node downstream of PI3K/AKT signalling. Its efficacy in renal cell carcinoma and mantle cell lymphoma is established, and mechanistically it may be applicable to liposarcoma.
 
-The evidence pack does not record an India-approved original indication for Temsirolimus (market status: not marketed, 0 registrations), so a direct "original vs. new indication" comparison cannot be made from local regulatory data. However, per the evidence pack's own repurposing rationale, the PI3K/AKT/mTOR pathway is frequently dysregulated in well-differentiated and dedifferentiated liposarcoma — often downstream of MDM2/CDK4 amplification — which provides a plausible mechanistic basis for mTOR-inhibitor activity in this tumor type.
+Activation of the mTOR pathway and of IGF-1R/PI3K signalling has been implicated in sarcoma growth, including liposarcoma. Blocking IGF-1R together with mTOR (as with cixutumumab plus temsirolimus) targets the compensatory feedback activation of AKT. Combining temsirolimus with a liposarcoma-active cytotoxic such as liposomal doxorubicin is also plausible.
 
-That said, direct clinical evidence using Temsirolimus itself (rather than same-class agents such as sirolimus, ridaforolimus, or everolimus) in liposarcoma is limited to a single small Phase 1/2 combination trial (NCT00949325, n=24). The majority of supporting evidence reflects a **class effect** across rapalogs rather than drug-specific confirmation.
-
----
+The high TxGNN score is consistent with this pathway rationale, but it remains a computational prediction. Two other predicted indications, ovarian myxoid liposarcoma (99.47%) and vulva sarcoma (99.09%), have no supporting trials or literature and are likely extrapolations from the same sarcoma-pathway signal.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00949325](https://clinicaltrials.gov/study/NCT00949325) | Phase 1/2 | Completed | 24 | Torisel (Temsirolimus brand name) combined with liposomal doxorubicin in advanced soft tissue/bone sarcoma, including liposarcoma; the only trial directly evidencing Temsirolimus in this disease group. |
-| [NCT02821507](https://clinicaltrials.gov/study/NCT02821507) | Phase 2 | Completed | 70 | Sirolimus (same-class rapalog) + cyclophosphamide in metastatic/unresectable myxoid liposarcoma and chondrosarcoma; disease-specific but different drug. |
-| [NCT00093080](https://clinicaltrials.gov/study/NCT00093080) | Phase 2 | Completed | 216 | AP23573 (ridaforolimus, same-class mTOR inhibitor) in advanced sarcoma; largest trial supporting rapalog activity in sarcoma. |
-| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | Phase 2 | Active, not recruiting | 48 | Ribociclib + Everolimus (same-class) in advanced dedifferentiated liposarcoma and leiomyosarcoma. |
-| [NCT01614795](https://clinicaltrials.gov/study/NCT01614795) | Phase 2 | Completed | 46 | Cixutumumab + Temsirolimus in pediatric recurrent/refractory sarcoma; direct drug use but pediatric, non-liposarcoma-specific population. |
-
----
+| [NCT00949325](https://clinicaltrials.gov/study/NCT00949325) | Phase 1/2 | Completed | 24 | Temsirolimus (Torisel) plus liposomal doxorubicin in recurrent advanced soft tissue and bone sarcomas; aims to identify a safe dose and assess effectiveness. Population is mixed, and liposarcoma-specific results are not confirmed. |
+| [NCT01614795](https://clinicaltrials.gov/study/NCT01614795) | Phase 2 | Completed | 46 | Cixutumumab plus temsirolimus in pediatric patients with recurrent or refractory solid tumours including sarcoma. Limited direct relevance to adult liposarcoma; supports the mTOR/IGF-1R combination rationale only. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [20497911](https://pubmed.ncbi.nlm.nih.gov/20497911/) | 2010 | Review | Bulletin du cancer | Reviews targeted treatment approaches for rare connective tissue tumors and sarcomas, classified by molecular subgroup, including pathways relevant to mTOR-targeted therapy. |
-
----
+| [20497911](https://pubmed.ncbi.nlm.nih.gov/20497911/) | 2010 | Review | Bulletin du cancer | Review of targeted treatments for rare connective tissue tumours and sarcomas, organised by molecular subgroup. The abstract excerpt available does not describe temsirolimus-specific findings. |
 
 ## India Market Information
 
-Temsirolimus is not currently marketed in India. No registration records are available in this evidence pack (`total_licenses: 0`).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 210129 | Sirotem Injection (Celon Laboratories Ltd) | Vial of 1 ml injection | Not stated in the licence record |
+| Registration No. 222031 | Torisel Kit (Pfizer Ltd) | Vial of 1 ml injection | Not stated in the licence record |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (mTOR inhibitor / rapalog class) |
+| Cytotoxicity Classification | Targeted therapy (mTOR inhibitor) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Suggested based on DDI profile: renal and hepatic function, blood glucose and lipid panel, complete blood count |
-| Handling Protection | Please refer to the package insert warnings and precautions |
-
----
+| Monitoring Items | Please refer to the package insert; given the knowledge-graph flags, consider blood glucose, lipids, liver and renal function, bilirubin, and respiratory status |
+| Handling Protection | Please refer to the package insert warnings and precautions; follow institutional antineoplastic handling policy |
 
 ## Safety Considerations
 
-- **Drug Interactions**: The evidence pack records 540 total interactions (ddinter source). Notable **Major**-level interactions include:
-  - Amphotericin B / Amphotericin B (lipid complex)
-  - Dexamethasone
-  - Clarithromycin
+- **Drug Interactions**: 540 interactions were identified in the interaction databases. Examples of those rated **Major**: amphotericin B (including the lipid complex), dexamethasone, and clarithromycin. Examples rated **Moderate** include hydrocortisone, other corticosteroids (triamcinolone, betamethasone, budesonide), aprepitant, cimetidine, mesalazine, balsalazide, and several antidiabetic drugs (acarbose, metformin, pioglitazone, alogliptin, albiglutide, canagliflozin, dapagliflozin, chlorpropamide).
+- **Knowledge-graph contraindication signals** (from the TxGNN knowledge graph, not from label text, so they should be verified against the package insert):
+  - Metabolic: hyperglycaemia, diabetes mellitus, diabetic ketoacidosis, hyperlipidaemia (including familial)
+  - Organ function: kidney disease, liver disease, gallbladder disease, hyperbilirubinaemia (including Gilbert syndrome), interstitial lung disease
+  - Cerebrovascular: stroke, cerebrovascular disorder, cerebral infarction
+  - Central nervous system tumours: brain cancer and several astrocytoma, glioblastoma and oligodendroglial tumour types
 
-  Notable **Moderate**-level interactions include Acarbose, Hydrocortisone, Metformin, Pioglitazone, Aprepitant, Cimetidine, Canagliflozin, Dapagliflozin, and several corticosteroids (Betamethasone, Budesonide, Triamcinolone), among others.
-
-> Key warnings and contraindications are not available in this evidence pack (flagged as Blocking data gap DG001). Please refer to the package insert for complete safety information.
-
----
+Package insert warnings and contraindications were not available for this report; please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-A Blocking-severity data gap (missing India label warnings/contraindications, DG001) prevents completion of the S1 safety initial review, and evidence level is L2 with only one small Phase 1/2 trial (n=24) directly using Temsirolimus in the liposarcoma population — most supporting data reflects a rapalog class effect rather than drug-specific evidence. The drug is also not currently marketed in India.
+Temsirolimus has a plausible mTOR/PI3K pathway rationale for liposarcoma and a very high model score. However, the only supporting trials are a small mixed-sarcoma Phase 1/2 study and a paediatric Phase 2 study, with no liposarcoma-specific efficacy data and no confirmatory trials. The package insert safety review is also incomplete, so the case is best treated as a research question rather than a candidate for advancement.
 
 **To proceed, the following is needed:**
-- India-specific label warnings and contraindications (resolve DG001, Blocking)
-- Confirmed mechanism of action data from DrugBank (resolve DG002)
-- Larger, disease-specific clinical evidence using Temsirolimus itself in liposarcoma (beyond the single n=24 trial)
-- Regulatory pathway assessment given current "not marketed" status in India
+- Liposarcoma-specific results (subgroup data) from NCT00949325 and related sarcoma studies
+- Package insert warnings and contraindications from the India licence holders, to complete safety screening
+- Detailed mechanism of action data
+- A review of the knowledge-graph contraindication signals (metabolic, hepatic, pulmonary, cerebrovascular) against label text, and a drug-interaction management plan (especially with dexamethasone, clarithromycin, and amphotericin B)
+- Preclinical or translational evidence of mTOR pathway dependence in liposarcoma subtypes
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Hydroquinone
 parent: Moderate Evidence (L3-L4)
-nav_order: 409
+nav_order: 413
 evidence_level: L4
 indication_count: 4
 ---
@@ -29,63 +29,80 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-# Hydroquinone: From Hyperpigmentation (Melasma) to Seborrheic Keratosis
+# Hydroquinone: From Topical Skin Depigmentation to Seborrheic Keratosis
 
 ## One-Sentence Summary
 
-Hydroquinone has no approved indication or market authorization on record in India, and detailed mechanism-of-action data is currently a data gap in this evidence pack; based on its widely known pharmacology as a tyrosinase inhibitor (referenced in the supporting literature/trial evidence below), it is used internationally for pigmentary skin disorders such as melasma. The TxGNN model predicts it may be effective for **Seborrheic Keratosis**, but this direction is currently supported by only **2 publications** and **no registered clinical trials**.
+Hydroquinone is a topical skin-lightening agent that is widely marketed in India as single-ingredient creams and ointments. The TxGNN model predicts it may be useful for **seborrheic keratosis**, but the supporting evidence is very thin: **0 clinical trials** and **1 publication**, which is an observational study of facial pigmentary disorders rather than of seborrheic keratosis itself.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally documented (no India license on file); contextual evidence indicates established international use for pigmentary skin disorders (e.g., melasma) |
-| Predicted New Indication | Seborrheic Keratosis |
+| Original Indication | Not stated in the licence records compiled for this report (the products are topical depigmenting creams and ointments) |
+| Predicted New Indication | Seborrheic keratosis |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Hydroquinone is not available in the formal drug record. Based on the supporting evidence in this pack (drawn from the repurposing rationale of related predictions), Hydroquinone is known to act as a **tyrosinase inhibitor**, suppressing melanin synthesis — the mechanism underlying its established use for pigmentary conditions such as melasma and post-inflammatory hyperpigmentation.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, hydroquinone inhibits tyrosinase, the enzyme that drives melanin synthesis, and it is used topically to lighten hyperpigmented skin.
 
-Seborrheic keratosis (SK) is fundamentally a benign epidermal proliferation, not primarily a pigmentation-driven disease, so the mechanistic overlap with Hydroquinone's tyrosinase-inhibition pathway is limited. However, a pigmented variant of SK — dermatosis papulosa nigra (DPN), common in darker-skinned populations — frequently presents with visible hyperpigmentation. In this subset, Hydroquinone's depigmenting action could theoretically lighten the pigmented component surrounding lesions, though it cannot resolve the underlying epidermal proliferation itself.
+Seborrheic keratosis is a benign epidermal growth that is often pigmented. Reducing melanin could in theory lighten the lesions, so a mechanistic link is plausible. However, the link is indirect. Seborrheic keratosis is a proliferative lesion, not mainly a disorder of melanin production, so depigmentation would at best change the colour and not treat the growth. The very high TxGNN score is a computational prediction and should not be read as clinical evidence.
 
-Given this, the mechanistic link is only **partially established**: plausible for the pigmented DPN variant, but not for SK as a proliferative disease overall. This is consistent with the L4 evidence level and "Research Question" stage assigned to this candidate — the prediction merits further mechanistic and clinical investigation rather than being considered validated.
+Other predictions in the model output are weaker still:
+- **Vulvar inverted follicular keratosis** (score 99.64%): no trials or literature; it is usually managed by excision, and applying hydroquinone to vulvar mucosa raises irritation concerns.
+- **Exanthem** (99.42%): the only trial concerned an herbal depigmenting system for melasma and does not address exanthems.
+- **Lichen disease** (99.07%): hydroquinone might help the leftover pigmentation of pigmented lichenoid disorders, but it would not treat the inflammation. The one case report found benefit from topical tacrolimus, not hydroquinone.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials are registered for seborrheic keratosis.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33046430](https://pubmed.ncbi.nlm.nih.gov/33046430/) | 2021 | Cohort | Journal of Plastic, Reconstructive & Aesthetic Surgery (JPRAS) | Prospective observational study proposing a combination treatment algorithm for Asian patients with multiple coexisting facial pigmentary disorders |
-| [17373158](https://pubmed.ncbi.nlm.nih.gov/17373158/) | 2007 | Review | Journal of Drugs in Dermatology (JDD) | Reviews treatment options for dermatosis papulosa nigra (DPN), a pigmented facial variant with histology closely resembling seborrheic keratosis |
+| [33046430](https://pubmed.ncbi.nlm.nih.gov/33046430/) | 2021 | Prospective observational cohort | J Plast Reconstr Aesthet Surg | Combination treatment algorithm for facial pigmentary disorders in Asian patients; addresses multiple pigmentary conditions together, not seborrheic keratosis specifically |
 
 ## India Market Information
 
-Hydroquinone is currently not marketed in India — no registration records are available.
+Twenty single-ingredient hydroquinone products hold valid registrations, and none has been cancelled. Approved indication text is not available in the compiled records. The main registrations are:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 244397 | Xiar HC Ointment | Tube of 20 g ointment | Not available |
+| 206300 | Smart Glo Cream | Tube of 15 g cream | Not available |
+| 152006 | Nolasma Cream | Tube of 15 g cream | Not available |
+| 128311 | Litetone Cream | Tube of 20 g cream | Not available |
+| 114379 | Justclean Cream | Tube of 20 g cream | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+The data compiled for this report include no package insert warnings, contraindications or drug interactions. A knowledge-graph screen (not label text) links hydroquinone to the following conditions as potential contraindications:
+
+- **Skin conditions:** sunburn, skin atrophy, atopic eczema, dermatitis
+- **Vascular conditions:** telangiectasis, capillary disease, hereditary hemorrhagic telangiectasia, peripheral vascular disease, intermittent vascular claudication, peripheral arterial disease
+- **Endocrine conditions:** adrenocortical insufficiency, Addison disease
+
+These are model-derived signals and must be checked against the official package insert. Please refer to the package insert for authoritative safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link to seborrheic keratosis is only partially supported (applicable mainly to the pigmented DPN variant, not SK's core proliferative pathology), evidence is limited to two non-RCT publications with no clinical trials, and a Blocking data gap on TFDA-equivalent label warnings/contraindications currently prevents any S1 safety evaluation. The drug also has no existing market presence in India.
+The prediction rests on a computational score and one indirect observational study, with no clinical trial in seborrheic keratosis. The mechanism (melanin reduction) would not treat the underlying benign growth, so the evidence does not yet justify moving forward.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism-of-action data from DrugBank (currently a data gap)
-- Product label/package insert with warnings and contraindications (Blocking gap, DG001) to enable safety review
-- Dedicated clinical or preclinical evidence testing Hydroquinone specifically in seborrheic keratosis or its pigmented DPN variant
-- Assessment of India regulatory pathway, given the drug is not currently marketed there
+- Package insert warnings and contraindications from the Indian regulator, since safety screening cannot start without them
+- Detailed mechanism of action data (for example from DrugBank)
+- Controlled studies of hydroquinone in seborrheic keratosis, or at least in pigmented keratoses
+- Confirmation of the approved indications for the registered products
+- A comparison with existing treatments for seborrheic keratosis (cryotherapy, curettage) to define any realistic role, such as a cosmetic lightening adjunct
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

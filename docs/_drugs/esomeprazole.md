@@ -2,7 +2,7 @@
 layout: default
 title: Esomeprazole
 parent: Moderate Evidence (L3-L4)
-nav_order: 320
+nav_order: 323
 evidence_level: L4
 indication_count: 3
 ---
@@ -29,94 +29,80 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-# Esomeprazole: From Acid-Related Disorders to Duodenogastric Reflux
+# Esomeprazole: From Peptic Ulcer Disease and GERD to Duodenogastric Reflux
 
 ## One-Sentence Summary
 
-Esomeprazole (Nexium) is the S-isomer of omeprazole — a proton pump inhibitor (PPI) with established efficacy in gastro-oesophageal reflux disease (GERD), reflux esophagitis, and Helicobacter pylori eradication.
-The TxGNN model predicts it may be effective for **Duodenogastric Reflux** with a score of 99.53%, currently supported by **0 clinical trials** and **1 narrative review** specifically for this indication.
-Notably, the closely related indication of **duodenal ulcer** (TxGNN rank 3) carries robust **L1 evidence** from multiple completed Phase 3 RCTs, reflecting the drug's well-established acid-suppression pharmacology across the gastroduodenal spectrum.
-
----
+Esomeprazole is a proton pump inhibitor originally used for acid-related conditions such as peptic ulcer disease, gastroesophageal reflux disease (GERD), and Zollinger-Ellison syndrome.
+The TxGNN model predicts it may be effective for **duodenogastric reflux** (bile reflux into the stomach).
+However, there are **0 clinical trials** and only **1 general review article** for this specific indication, so the prediction rests mainly on the model score.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | GERD, reflux esophagitis, H. pylori eradication, NSAID-associated ulcer prevention (no registered product found in India market) |
-| Predicted New Indication | Duodenogastric Reflux |
+|------|------|
+| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, esophagitis, Zollinger-Ellison syndrome (label text for the Indian licences is not available) |
+| Predicted New Indication | Duodenogastric reflux |
 | TxGNN Prediction Score | 99.53% |
 | Evidence Level | L4 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack. Based on published literature, Esomeprazole is a proton pump inhibitor (PPI) that irreversibly blocks the H⁺/K⁺-ATPase enzyme on gastric parietal cells, dramatically reducing acid secretion and prolonging intragastric pH above 4. As the S-isomer of omeprazole, it achieves more consistent pharmacokinetic exposure than its racemate, which translates to superior acid control in head-to-head trials.
+Esomeprazole suppresses gastric acid secretion by irreversibly inhibiting the H+/K+ ATPase (proton pump) in gastric parietal cells. Detailed mechanism data were not included in the data compiled for this report, so this description reflects the well-established class pharmacology of proton pump inhibitors.
 
-The mechanistic connection to duodenogastric reflux is **indirect and only partially plausible**. Duodenogastric reflux is characterised by the retrograde movement of bile and duodenal contents into the stomach — the primary pathological agent here is bile, not acid. PPI therapy has no direct pharmacological mechanism to block bile reflux. However, in mixed-reflux scenarios where acid and bile act synergistically to damage the gastric mucosa, reducing acid may attenuate the co-injury effect, providing some clinical benefit.
+Duodenogastric reflux and the drug's original indications are both upper gastrointestinal disorders. The link is plausible but not direct. The main injurious agents in bile reflux are bile and pancreatic secretions, not acid. Acid suppression may therefore relieve symptoms or mucosal injury only indirectly.
 
-The TxGNN model's very high prediction score (99.53%) most likely reflects the dense knowledge-graph connections between esomeprazole and the broader family of acid-related gastroduodenal diseases — including GERD, peptic ulcer, and reflux esophagitis — rather than a validated mechanistic pathway specific to duodenogastric reflux. This prediction should therefore be interpreted with caution and treated as a hypothesis-generating signal.
-
----
+The very high TxGNN score (99.53%) most likely reflects the disease's closeness to acid-related GI disorders in the knowledge network. It is not disease-specific evidence. The score should be read as a hypothesis, not as confirmation of efficacy.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Esomeprazole in duodenogastric reflux.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Narrative Review | European Journal of Clinical Pharmacology | Comprehensive PPI update confirming esomeprazole as first-line for peptic ulcer, H. pylori infection, GERD, NSAID-induced GI lesions, and Zollinger-Ellison syndrome; duodenogastric reflux is not addressed as a distinct indication |
-
----
+|------|-----|------|------|---------|
+| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Review | Eur J Clin Pharmacol | General update on proton pump inhibitor use and pharmacokinetics. It covers peptic ulcer, H. pylori infection, GERD, NSAID-related lesions, and Zollinger-Ellison syndrome, but does not address duodenogastric reflux directly. |
 
 ## India Market Information
 
-No registered products found. Esomeprazole holds no approved licenses on record in the India market within this dataset.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 80975 | Esomo 40mg Injection | Vial of 1 injection | Ambreyo Lifesciences |
+| 78836 | Esmoden 40 Tablet | Strip of 10 tablets | Welgenic Pharma |
+| 79460 | Esoloc 40mg Tablet | Strip of 10 tablets | Meritus Life Care Pvt Ltd |
+| 83656 | Esvelo 40mg Tablet | Strip of 10 tablets | Shreeyam Healthcare |
+| 74291 | Esmoleaf 40 Tablet | Strip of 10 tablets | Fujin Kami Pharmaceutico |
 
----
+All 20 registrations are valid single-ingredient products, available as oral tablets and injectable vials. Only the first 5 are listed here, and approved-indication text was not available for them.
 
 ## Safety Considerations
 
-**Drug Interactions (168 total identified; key interactions listed below):**
+- **Contraindications / disease associations (from a knowledge graph, not label text):** liver failure, osteoporosis, postmenopausal osteoporosis, bone fracture, chronic atrophic gastritis.
+- **Drug Interactions:** 168 known interactions were identified. Examples from the compiled list:
+  - **Major:** acalabrutinib, atazanavir.
+  - **Moderate:** hydrochlorothiazide, amphotericin B, amikacin, amphetamine, fenofibrate, apalutamide, armodafinil, atorvastatin, bendamustine, bosutinib, bumetanide.
+  - **Minor:** acetylsalicylic acid, axitinib, bortezomib, brivaracetam, cyanocobalamin.
 
-| Interacting Drug | Severity |
-|-----------------|---------|
-| Acalabrutinib | Major |
-| Atazanavir | Major |
-| Abametapir (topical) | Moderate |
-| Apalutamide | Moderate |
-| Armodafinil | Moderate |
-| Bosutinib | Moderate |
-| Atorvastatin | Moderate |
-| Amphotericin B | Moderate |
-| Hydrochlorothiazide | Moderate |
-| Acetylsalicylic acid | Minor |
-
-> Key warnings and contraindications data are not available in this evidence pack. Please refer to the package insert for complete safety information.
-
----
+Please refer to the package insert for label warnings and full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Although Esomeprazole's TxGNN prediction score for duodenogastric reflux is extremely high (99.53%), the mechanistic link is indirect (acid suppression does not directly address bile reflux), there are no dedicated clinical trials for this indication, and the sole supporting publication is a general PPI narrative review with no specific duodenogastric reflux data. The evidence is insufficient to advance beyond hypothesis generation at this stage.
+The prediction is supported only by a high model score and one general review that does not address this condition. There are no clinical trials. Because bile reflux is not acid-driven, esomeprazole's mechanism offers only an indirect rationale.
+
+Note that the same dataset shows far stronger support for a different predicted indication, **duodenal ulcer**. That indication has 30 registered trials, including multiple completed Phase 3 studies, and RCT literature on esomeprazole-based therapy. Duodenal ulcer is closely related to esomeprazole's existing peptic ulcer indication, so it is better viewed as confirmation of an existing use than as true repurposing.
 
 **To proceed, the following is needed:**
-- Dedicated prospective clinical studies or RCTs evaluating esomeprazole specifically in duodenogastric (bile) reflux populations
-- Mechanistic studies clarifying whether acid suppression meaningfully modifies outcomes in isolated versus mixed (acid + bile) reflux
-- Complete MOA data from DrugBank (DG002 remediation) to support or challenge the mechanistic rationale
-- TFDA/CDSCO package insert review to fill the warning and contraindication data gap (DG001 remediation)
-- Consider whether the L1-evidence duodenal ulcer indication (TxGNN rank 3) represents a higher-priority repurposing opportunity that warrants a separate regulatory evaluation
+- Disease-specific clinical or observational studies of esomeprazole in duodenogastric (bile) reflux.
+- Comparison against bile-targeted approaches, to show a benefit beyond acid suppression.
+- Package insert warnings and contraindications for the Indian-marketed products.
+- Detailed mechanism of action data.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

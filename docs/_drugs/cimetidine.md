@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cimetidine
-parent: Moderate Evidence (L3-L4)
-nav_order: 182
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 183
+evidence_level: L5
 indication_count: 9
 ---
 
 # Cimetidine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,95 +29,82 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-# Cimetidine: From Peptic Ulcer Disease to Smouldering Systemic Mastocytosis
+# Cimetidine: From Gastric Ulcer to Smouldering Systemic Mastocytosis
 
 ## One-Sentence Summary
 
-Cimetidine is the first-generation histamine H2 receptor antagonist, originally developed and widely used for peptic ulcer disease and gastric acid hypersecretion conditions.
-The TxGNN model predicts it may be effective for **Smouldering Systemic Mastocytosis (SSM)**, based on its capacity to block H2 receptors and relieve histamine-mediated gastrointestinal symptoms that are characteristic of mast cell disorders.
-Currently, there are **no dedicated clinical trials** and **no directly relevant publications** for this specific indication, placing the evidence at Level **L4** (mechanistic rationale without direct clinical data).
-
----
+Cimetidine is a histamine H2-receptor blocker, originally used to treat gastric and duodenal ulcers, reflux disease and gastric hypersecretory conditions.
+The TxGNN model predicts it may be effective for **Smouldering Systemic Mastocytosis**,
+but there are currently **0 clinical trials** and **0 publications** specific to this indication, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Peptic ulcer disease and gastric acid hypersecretion (well-established pharmacological use; no India regulatory record available) |
-| Predicted New Indication | Smouldering Systemic Mastocytosis |
+|------|------|
+| Original Indication | Gastric ulcer, gastroesophageal reflux disease, duodenal ulcer, Zollinger-Ellison syndrome, systemic mastocytosis and related conditions (the India licence records list no approved indication text) |
+| Predicted New Indication | Smouldering systemic mastocytosis |
 | TxGNN Prediction Score | 99.80% |
-| Evidence Level | L4 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 8 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Formal mechanism of action data is not currently available from the DrugBank record for this analysis. Based on established pharmacology, Cimetidine is a competitive antagonist at histamine H2 receptors located primarily on gastric parietal cells. By blocking these receptors, it suppresses cyclic AMP-mediated acid secretion, promoting mucosal healing in peptic ulcer disease. At higher doses (1.2–1.6 g/day), Cimetidine also demonstrates weak anti-androgenic activity through competitive androgen receptor blockade — a property relevant to some of its off-label applications such as acne.
+Currently, detailed mechanism of action data is not available. Based on known information, cimetidine is a histamine H2-receptor antagonist. Its efficacy in acid-related conditions is well established, and mechanistically it may be applicable to smouldering systemic mastocytosis.
 
-Smouldering Systemic Mastocytosis is defined by high clonal mast cell burden in the bone marrow without overt organ damage. A defining pathophysiological feature across all systemic mastocytosis variants is uncontrolled histamine release from neoplastic mast cells. In the gastrointestinal tract, this excess histamine drives acid hypersecretion, peptic ulceration, abdominal cramping, and diarrhoea — effects mediated specifically through H2 receptors on parietal cells. This mechanistic link forms the biological basis for the TxGNN prediction.
+Cimetidine already appears among the known indications for systemic mastocytosis and mastocytosis. In these diseases, excess histamine from mast cells drives gastric acid hypersecretion and related symptoms. Blocking H2 receptors reduces that effect. Smouldering systemic mastocytosis is a subtype of the same disease family, so a high model score is plausible.
 
-Current clinical practice guidelines for systemic mastocytosis recommend combining H1 and H2 receptor antagonists as the first-line approach to symptomatic management. Cimetidine directly addresses the H2-mediated component of histamine excess. However, it is critical to understand that H2 blockade provides symptomatic relief only and exerts no effect on the underlying clonal mast cell proliferation. For SSM — a high-burden subtype that may require disease-modifying therapy — Cimetidine's role is strictly adjunctive, not curative.
-
----
+Note that this is symptom control (acid-related symptoms), not treatment of the underlying mast cell disease. No trials or publications were found for this specific subtype.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Smouldering Systemic Mastocytosis.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature directly investigating Cimetidine in Smouldering Systemic Mastocytosis is available.
+Currently no related literature available for the top predicted indication.
 
----
+For context, the second-ranked prediction, active peptic ulcer disease (an on-label use rather than true repurposing), has only one possibly direct trial: a 1981 double-blind study of 72 patients with cimetidine, antacid/anticholinergic and placebo, in which 3-week healing was 67% with cimetidine (p<0.005 vs placebo). Its design cannot be fully verified from the title and abstract alone.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [7034155](https://pubmed.ncbi.nlm.nih.gov/7034155/) | 1981 | RCT (probable) | Scand J Gastroenterol | Cimetidine vs antacid/anticholinergic vs placebo in active duodenal and prepyloric ulcers; 67% healing at 3 weeks with cimetidine |
 
 ## India Market Information
 
-Cimetidine currently holds no product registrations in India and is not marketed. No authorisation records were identified in the India regulatory database.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 231297 | Ulciban 400mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not specified in the data compiled |
+| 223407 | Tagasec 200mg Tablet (Taj Pharma India) | Strip of 10 tablets | Not specified in the data compiled |
+| 43394 | Cimetiget 200mg Tablet (Franco-Indian Pharmaceuticals) | Strip of 10 tablets | Not specified in the data compiled |
+| 155392 | Neotid 400mg Tablet (Neon Laboratories) | Strip of 10 tablets | Not specified in the data compiled |
+| 39684 | Cimetiget 400mg Tablet (Franco-Indian Pharmaceuticals) | Strip of 10 tablets | Not specified in the data compiled |
 
----
+All 8 registrations are valid single-ingredient oral tablet products. Only the first five are listed here.
 
 ## Safety Considerations
 
-**Drug Interactions**: Cimetidine carries an exceptionally high drug interaction burden, with **551 documented interactions**. This is primarily driven by its broad inhibition of hepatic CYP450 enzymes (CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP3A4), which can elevate plasma concentrations of co-administered drugs. Representative interactions include:
+- **Contraindication signals from the knowledge graph (not label text):** liver disease, gallbladder disease, impaired renal function, and gastric cancer or neoplasm (including diffuse gastric adenocarcinoma, linitis plastica and gastric carcinoma).
+- **Drug interactions:** 551 interactions were recorded. Examples at moderate level include paclitaxel, fentanyl, acalabrutinib, lidocaine, acebutolol, dihydrocodeine, codeine, tramadol, nifedipine and alfentanil. Minor-level examples include dolutegravir, zidovudine, acetaminophen, ibuprofen, ketorolac, ethinylestradiol, albendazole and ethanol.
+- **Literature signals:** the supplied literature includes reports of ulcer perforation while on cimetidine, gynaecomastia, and an increased risk of nosocomial pneumonia with H2 blockers in stress ulcer prophylaxis.
 
-| Severity | Interacting Drug | Clinical Note |
-|----------|-----------------|---------------|
-| Moderate | Paclitaxel | CYP3A4 inhibition may increase taxane exposure |
-| Moderate | Acalabrutinib | Requires gastric acid for absorption; H2 blockade reduces bioavailability |
-| Moderate | Fentanyl | Increased opioid plasma levels via CYP3A4 inhibition |
-| Moderate | Alfentanil | Increased opioid exposure |
-| Moderate | Nifedipine | Elevated nifedipine levels; monitor blood pressure |
-| Moderate | Lidocaine | Reduced lidocaine clearance |
-| Moderate | Tramadol | Enhanced opioid effect |
-| Moderate | Codeine | Enhanced opioid effect via CYP2D6 inhibition |
-| Moderate | Dihydrocodeine | Enhanced opioid effect |
-| Moderate | Acebutolol | Altered beta-blocker pharmacokinetics |
-| Minor | Dolutegravir | Minor pharmacokinetic interaction |
-| Minor | Zidovudine | Minor interaction |
-| Minor | Acetaminophen | Minor interaction |
-
-> The 551-interaction burden is of particular concern in SSM patients, who frequently require multiple concurrent medications including cytoreductive agents (e.g., Midostaurin, Avapritinib) and combination antihistamine therapy. Cimetidine's CYP450 inhibition profile may meaningfully alter the pharmacokinetics of these agents. A comprehensive drug interaction review is mandatory before any clinical consideration.
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials or publications directly support the use of Cimetidine in Smouldering Systemic Mastocytosis. While the mechanistic reasoning — H2 blockade to manage histamine-driven gastrointestinal symptoms in mast cell disease — is biologically sound and consistent with guideline recommendations, the absence of direct clinical evidence and the drug's substantial interaction profile preclude advancement beyond the research hypothesis stage.
+The top prediction scores very high (99.80%), but it is supported only by the model and by cimetidine's existing use in mastocytosis. No trials or publications exist for the smouldering subtype, and any benefit would likely be limited to symptom control.
+
+Other predictions rank similarly. Active peptic ulcer disease, gastrojejunal ulcer, duodenogastric reflux and duodenal obstruction are L4, largely on-label or indirect evidence, and PPIs have largely replaced H2 blockers. Peptic ulcer perforation is likely a model artifact, as reports describe perforation occurring during cimetidine therapy. Acne (anti-androgenic mechanism) is a research question only. Abnormality of glucagon secretion is L5 and appears to be a knowledge-graph artifact.
 
 **To proceed, the following is needed:**
-- Prospective clinical studies or systematic evidence specifically evaluating H2 receptor antagonist therapy in SSM patients
-- Formal MOA documentation retrieved from the DrugBank API (currently a data gap)
-- Dedicated drug interaction assessment for SSM-specific concurrent medications, particularly Midostaurin and Avapritinib, which are CYP3A4 substrates susceptible to Cimetidine inhibition
-- A pharmacovigilance plan addressing polypharmacy risk given the 551-interaction burden in the typical SSM patient population
-- India regulatory pathway assessment, as Cimetidine has no current market authorisation in India and a new drug application or import licence would be required prior to any clinical use
+- Mechanism of action data (MOA) from DrugBank
+- Package insert warnings and contraindications for the India-marketed products, which are currently missing and block safety screening
+- Clinical or observational data on cimetidine in smouldering systemic mastocytosis, including comparison with current standard symptom control
+- Review of the interaction profile (especially the moderate-level interactions) and the liver, kidney and gallbladder contraindication signals before any patient-facing use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cetirizine
-parent: High Evidence (L1-L2)
-nav_order: 165
-evidence_level: L1
+parent: Model Prediction Only (L5)
+nav_order: 166
+evidence_level: L5
 indication_count: 6
 ---
 
 # Cetirizine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,102 +33,98 @@ Evidence Level: **L1** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Cetirizine is a second-generation H1 histamine receptor antagonist established for the treatment of allergic rhinitis and related IgE-mediated conditions.
-The TxGNN model predicts it may be effective for **Allergic Urticaria**, with **18 publications** — spanning systematic reviews, direct clinical studies, and pharmacological reviews — supporting this direction.
-The mechanistic link is exceptionally strong, as histamine released by mast cells is the primary mediator of urticaria pathophysiology.
-
----
+Cetirizine is a second-generation antihistamine, originally used for allergic rhinitis, conjunctivitis and idiopathic urticaria.
+The TxGNN model predicts it may be effective for **allergic urticaria**,
+with **1 clinical trial** and **18 publications** currently supporting this direction. This is better viewed as an extension within the same disease family than as true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Allergic rhinitis (no India registration data on file) |
-| Predicted New Indication | Allergic Urticaria |
+|------|------|
+| Original Indication | Allergic rhinitis (other listed indications: vasomotor rhinitis, pharyngitis, common cold, atopic/papillary/vernal conjunctivitis, nasopharyngitis, idiopathic urticaria) |
+| Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L1 (conditional, see below) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Formal mechanism of action data was not retrieved in this evidence pack (DrugBank API query pending). Based on established pharmacological literature, cetirizine is a piperazine-class, second-generation H1 receptor antagonist and the carboxylated metabolite of hydroxyzine. It selectively and competitively blocks peripheral H1 receptors on skin mast cells and basophils, suppressing the IgE-mediated wheal-and-flare response. Critically, cetirizine also inhibits eosinophil chemotaxis during the secondary phase of the allergic cascade — a dual anti-allergic action that extends beyond simple antihistamine blockade (Campoli-Richards et al., *Drugs* 1990; Spencer et al., *Drugs* 1993).
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, cetirizine is a second-generation H1-receptor antagonist. Its efficacy in allergic rhinitis and idiopathic urticaria is well established, and mechanistically it is applicable to allergic urticaria.
 
-Allergic urticaria and allergic rhinitis share an identical immunological driver: IgE-mediated mast cell degranulation with histamine as the primary effector. This is not a mechanistic leap across disease categories — it is the same H1-receptor axis applied to a different tissue compartment (skin versus nasal mucosa). Multiple landmark clinical studies have directly confirmed cetirizine's efficacy in chronic urticaria (Broide, *Allergy* 1995), and current international guidelines already position second-generation H1 antihistamines as first-line treatment for chronic spontaneous urticaria, with up-dosing to 4× the standard dose permitted if control is insufficient.
+Histamine released from mast cells drives wheal and flare formation in allergic urticaria, so H1 blockade directly addresses the underlying pathophysiology. The predicted indication is closely related to idiopathic urticaria, which is already an original indication.
 
-The TxGNN score of 99.99% reflects near-perfect mechanism-disease alignment. Rather than a speculative repurposing hypothesis, this prediction represents model confirmation of well-established pharmacology, validating the TxGNN model's ability to capture direct H1-receptor–urticaria mechanistic relationships.
-
----
+The literature also describes cetirizine as inhibiting eosinophil chemotaxis and histamine release during the allergic response. Reviews describe antihistamines as the mainstay of urticaria treatment.
 
 ## Clinical Trial Evidence
 
-Currently no clinical trials for Cetirizine in Allergic Urticaria are registered in ClinicalTrials.gov or ICTRP in the evidence database.
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02023164](https://clinicaltrials.gov/study/NCT02023164) | Phase 3 | Completed | 36 | Randomized, double-blind pilot study of IV cetirizine (10 mg) vs IV diphenhydramine (50 mg) in acute urticaria in emergency departments, urgent care and allergy clinics. It assessed feasibility of a larger Phase 3 trial rather than definitive efficacy. |
 
----
+The L1 rating is conditional. This is a small pilot study using an IV route, so it does not by itself establish Phase 3 RCT-level efficacy. The rating rests mainly on the broader antihistamine literature and the existing urticaria indication.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [33030434](https://pubmed.ncbi.nlm.nih.gov/33030434/) | 2021 | Systematic Review | J Investig Allergol Clin Immunol | Critical systematic review of up-dosing second-generation H1 antihistamines (including cetirizine) up to 4× licensed dose in chronic spontaneous urticaria; establishes antihistamine-first strategy per current guidelines |
-| [7645679](https://pubmed.ncbi.nlm.nih.gov/7645679/) | 1995 | Clinical Trial | Allergy | Direct clinical studies of cetirizine in allergic rhinitis and chronic urticaria — foundational efficacy evidence for this specific drug-disease pair |
-| [1981354](https://pubmed.ncbi.nlm.nih.gov/1981354/) | 1990 | Pharmacological Review | Drugs | Comprehensive cetirizine pharmacology review: potent H1 receptor antagonist inhibiting histamine release and eosinophil chemotaxis; controlled trials confirm efficacy in chronic idiopathic urticaria |
-| [7510611](https://pubmed.ncbi.nlm.nih.gov/7510611/) | 1993 | Clinical Review | Drugs | Reappraisal of cetirizine: effective and well-tolerated for seasonal/perennial allergic rhinitis and chronic idiopathic urticaria in both adults and children; 10 mg/day appears optimal |
-| [9951950](https://pubmed.ncbi.nlm.nih.gov/9951950/) | 1999 | Comparative Review | Drugs | Head-to-head comparison of second-generation antihistamines including cetirizine; evaluates sedation profile, CNS effects, and key clinical differentiators affecting drug choice |
-| [18336052](https://pubmed.ncbi.nlm.nih.gov/18336052/) | 2008 | PK/PD Review | Clin Pharmacokinet | Comparative pharmacokinetics and pharmacodynamics of desloratadine, fexofenadine, and levocetirizine (cetirizine's active R-enantiomer) for allergic rhinitis and chronic idiopathic urticaria |
-| [16278258](https://pubmed.ncbi.nlm.nih.gov/16278258/) | 2005 | Review | Ann Pharmacother | Efficacy and safety review of first- and second-generation antihistamines for allergic rhinitis and chronic idiopathic urticaria; pharmacy-focused management framework |
-| [7530629](https://pubmed.ncbi.nlm.nih.gov/7530629/) | 1994 | Review | Drugs | Urticaria recognition, causes and treatment; nonsedating antihistamines are identified as the mainstay of treatment for chronic idiopathic urticaria |
-| [12113226](https://pubmed.ncbi.nlm.nih.gov/12113226/) | 2002 | Review | Clin Allergy Immunol | H1 antihistamines in children: Level 1 evidence confirmed for allergic rhinoconjunctivitis and urticaria; cetirizine among agents reviewed |
-| [41602253](https://pubmed.ncbi.nlm.nih.gov/41602253/) | 2025 | Case Report | Cureus | Rebound pruritus and urticaria following discontinuation of chronic cetirizine use in an Asian patient — emerging safety signal for long-term use management in Asian populations |
+|------|-----|------|------|---------|
+| [7510611](https://pubmed.ncbi.nlm.nih.gov/7510611/) | 1993 | Review | Drugs | Cetirizine is effective and well tolerated in seasonal/perennial allergic rhinitis and chronic idiopathic urticaria in adults |
+| [1981354](https://pubmed.ncbi.nlm.nih.gov/1981354/) | 1990 | Review | Drugs | Pharmacology and clinical potential in allergic rhinitis, pollen-induced asthma and chronic urticaria; no CNS depressant effects at 10 mg |
+| [16278258](https://pubmed.ncbi.nlm.nih.gov/16278258/) | 2005 | Review | Ann Pharmacother | Efficacy and safety of oral antihistamines in allergic rhinitis and chronic idiopathic urticaria |
+| [7530629](https://pubmed.ncbi.nlm.nih.gov/7530629/) | 1994 | Review | Drugs | Non-sedating antihistamines are the mainstay of treatment for most chronic idiopathic urticaria |
+| [7645679](https://pubmed.ncbi.nlm.nih.gov/7645679/) | 1995 | Review | Allergy | Clinical studies of cetirizine in allergic rhinitis and chronic urticaria |
+| [18201439](https://pubmed.ncbi.nlm.nih.gov/18201439/) | 2007 | Review | Allergy Asthma Proc | Levocetirizine (the R-enantiomer of cetirizine) in allergic rhinitis and chronic idiopathic urticaria |
+| [19808127](https://pubmed.ncbi.nlm.nih.gov/19808127/) | 2009 | Review | Clin Ther | Levocetirizine in allergic rhinitis and chronic idiopathic urticaria in adults and children |
+| [11034010](https://pubmed.ncbi.nlm.nih.gov/11034010/) | 2000 | Case report | J Clin Gastroenterol | Case of cetirizine-induced cholestasis; transient transaminase elevations in <2% of patients in US trials |
 
----
+The evidence is mostly reviews, including several on related antihistamines (levocetirizine and others), rather than direct trials in allergic urticaria.
 
 ## India Market Information
 
-Cetirizine currently has **no active registrations** in India based on the regulatory data retrieved for this evidence pack (0 licenses, market status: Not Marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 12883 | Acrecet 10mg Tablet | Strip of 10 tablets | Not specified |
+| 205627 | Stencold Syrup | Bottle of 30 ml syrup | Not specified |
+| 116914 | Kolcare Tablet | Strip of 10 tablets | Not specified |
+| 51370 | Cetrish 10mg Tablet | Strip of 10 tablets | Not specified |
+| 52831 | Cetnir Syrup | Bottle of 60 ml syrup | Not specified |
 
-> This finding likely reflects a data retrieval gap rather than true absence from the Indian market — cetirizine (sold globally as Zyrtec, Reactine, and numerous generics) is one of the most widely available OTC antihistamines worldwide and is expected to be marketed in India. Independent verification via the CDSCO drug database is strongly recommended before drawing conclusions about market access.
-
----
+There are 20 valid single-ingredient registrations in total. Dosage forms include tablets, dispersible tablets, capsules and syrups.
 
 ## Safety Considerations
 
-**Drug Interactions**: Cetirizine has 570 known drug interactions on record. Clinically notable moderate-severity interactions include:
+- **Disease-level cautions from the knowledge graph** (not label text): the drug-disease contraindication edges list hypertension, kidney disease (including chronic and end-stage), liver disease, gallbladder disease, diabetes mellitus and diabetic ketoacidosis, benign prostatic hyperplasia, coronary artery disease and atherosclerosis, angle-closure glaucoma, and hyperthyroidism (including Graves disease). These should be verified against the package insert.
+- **Drug interactions**: 570 interactions were identified. Those rated moderate include bupropion, dronabinol, loperamide, metoclopramide, morphine, nabilone, opium, sibutramine, difenoxin and diphenoxylate. Several others have an unknown severity level (for example calcitriol, pantoprazole, glimepiride and doxycycline).
+- **Literature signal**: a case report describes cetirizine-induced cholestasis, and transient transaminase elevations have been reported in under 2% of trial patients.
 
-| Interacting Drug | Severity | Clinical Note |
-|-----------------|----------|--------------|
-| Bupropion | Moderate | CNS-related interaction potential |
-| Dronabinol | Moderate | Additive CNS depression |
-| Loperamide | Moderate | GI/CNS interaction |
-| Metoclopramide | Moderate | CNS dopaminergic overlap |
-| Morphine | Moderate | Additive CNS and respiratory depression |
-| Morphine (liposomal) | Moderate | Additive CNS and respiratory depression |
-| Nabilone | Moderate | Cannabinoid CNS additive effect |
-| Opium | Moderate | Additive CNS depression |
-| Sibutramine | Moderate | CNS serotonergic/adrenergic interaction |
-| Difenoxin | Moderate | Antidiarrheal CNS interaction |
-| Diphenoxylate | Moderate | Antidiarrheal CNS interaction |
-
-Please refer to the package insert for full warnings and contraindications, as formal warning and contraindication data was not retrieved in this evidence pack.
-
----
+Please refer to the package insert for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Cetirizine's H1-receptor antagonism directly targets the primary pathological mechanism of allergic urticaria — mast cell histamine release — with L1-level systematic review evidence and multiple direct clinical studies confirming efficacy. This is a mechanism-confirmed indication, not a speculative leap, and current international urticaria guidelines already support second-generation antihistamine use as the standard of care.
+The mechanism is directly relevant, and cetirizine is already approved for closely related urticaria. However, the only trial is a small IV pilot study, and the supporting literature is largely review-based, so the L1 rating is conditional.
 
 **To proceed, the following is needed:**
-- **CDSCO regulatory verification**: Confirm whether cetirizine is already registered in India (the 0-license finding is likely a data gap) and retrieve the approved indication text and package insert for safety completeness
-- **Formal MOA documentation**: Query DrugBank API for DB00341 to complete the mechanistic analysis record
-- **Clinical trial gap assessment**: No ClinicalTrials.gov or ICTRP trials for cetirizine + allergic urticaria were retrieved; a manual search of CTRI (Clinical Trials Registry–India) is recommended to identify India-specific evidence
-- **Up-dosing safety protocol**: Confirm the 40 mg/day up-dosing threshold (4× standard dose) with appropriate hematological and hepatic monitoring plan for chronic use
-- **Asian population safety flag**: Address the 2025 case report signal (PMID 41602253) on rebound pruritus following chronic cetirizine discontinuation, particularly relevant for the India patient population
+- Package insert warnings and contraindications from the Indian regulator (currently missing and blocking for safety screening)
+- Detailed mechanism of action data
+- Approved indication text for the Indian registrations
+- Confirmation of efficacy in allergic urticaria from oral-route RCTs, or from the pivotal results of the IV cetirizine program
+- A safety monitoring plan for patients with liver or kidney impairment and for those on interacting CNS-active drugs
+
+### Other Predicted Indications (for reference)
+
+| Predicted Indication | Score | Evidence Level | Recommendation |
+|------|------|------|------|
+| Cold urticaria | 99.95% | L3 | Proceed with Guardrails |
+| Nasal cavity disease | 99.77% | L4 | Research question (term too broad) |
+| Acute laryngopharyngitis | 99.72% | L5 | Hold |
+| Rosacea conjunctivitis | 99.41% | L5 | Hold |
+| Recalcitrant atopic dermatitis | 99.19% | L5 | Hold |
+
+Cold urticaria has the strongest secondary signal: clinical studies show cetirizine reduced cold-induced wheals (by about 50% in one small study), and antihistamines are first-line therapy.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

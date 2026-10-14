@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Benazepril
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 95
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Benazepril
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L4** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,101 +33,80 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Benazepril is an angiotensin-converting enzyme (ACE) inhibitor originally used to treat hypertension and chronic kidney disease by blocking the renin-angiotensin system (RAS).
-The TxGNN model predicts it may have activity against **Malignant Renovascular Hypertension**, with a prediction score of **99.65%**.
-However, **no clinical trials and no targeted publications** currently support this repurposing direction, placing this prediction at the lowest evidence level (L5).
-
----
+Benazepril is an ACE inhibitor originally used to treat hypertension.
+The TxGNN model predicts it may be effective for **malignant renovascular hypertension**, but **no clinical trials and no directly relevant publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension (ACE inhibitor class) |
-| Predicted New Indication | Malignant Renovascular Hypertension |
+|------|------|
+| Original Indication | Hypertensive disorder / hypertension |
+| Predicted New Indication | Malignant renovascular hypertension |
 | TxGNN Prediction Score | 99.65% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on known pharmacology, Benazepril is a prodrug ACE inhibitor (converted to active benazeprilat) that blocks the conversion of angiotensin I to angiotensin II (Ang II). This reduces systemic vascular resistance, lowers aldosterone secretion, and promotes natriuresis — making it effective in systemic hypertension and renal-protective in chronic kidney disease.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, benazepril is an ACE inhibitor, its efficacy in hypertension is established, and mechanistically it may be applicable to renovascular hypertension, which is strongly driven by activation of the renin-angiotensin system (RAS).
 
-The mechanistic link to malignant renovascular hypertension is biologically plausible but carries significant clinical risk. In renovascular hypertension, the kidneys downstream of a stenotic artery rely heavily on Ang II-mediated efferent arteriolar constriction to maintain glomerular filtration pressure. Blocking ACE in this context can precipitously drop renal perfusion, potentially triggering acute kidney injury — particularly in bilateral renal artery stenosis. The TxGNN model likely detected the shared "hypertension" node in the knowledge graph, but the mechanistic picture is more nuanced than a simple match.
+However, the predicted indication is closely related to the approved hypertension indication, so it is not a true repurposing opportunity. ACE inhibitors also carry a well-known risk of acute decline in kidney function in bilateral renal artery stenosis or stenosis in a solitary kidney, which is a significant safety concern.
 
-The high TxGNN prediction score (99.65%) reflects a strong computational signal, most likely derived from Benazepril's established antihypertensive activity and its existing connections to renal vascular biology in the knowledge graph. However, this is a case where the model score and the clinical risk are in tension: the same mechanism that makes ACE inhibitors useful for hypertension is precisely the reason they are considered a relative or absolute contraindication in certain forms of renovascular hypertension.
-
----
+The other predictions are weaker:
+- **Malignant hypertensive renal disease** (score 99.65%): RAS blockade reduces intraglomerular pressure and proteinuria, so there is indirect plausibility. This is an acute, severe condition in which ACE inhibitors may cause hypotension or acute kidney injury without careful monitoring.
+- **Pulmonary hypertension (hypoxia-related and unclear multifactorial)** (both 99.60%): The link is theoretical. ACE inhibitors have not shown established benefit here. The identical scores suggest a shared graph neighbourhood rather than independent evidence.
+- **Braddock syndrome** (99.44%): No clear mechanistic connection can be established.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Benazepril in malignant renovascular hypertension.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available specifically targeting Benazepril in malignant renovascular hypertension.
+For the top-ranked prediction, currently no related literature is available.
 
----
+Three publications were retrieved for the pulmonary hypertension (hypoxia) prediction, but none concerns benazepril or pulmonary hypertension. They are preclinical studies of traditional Chinese medicine formulations in renal fibrosis, chronic renal failure and myocardial fibrosis, matched only by the keyword "hypoxia", so they are not counted as supporting evidence.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [38803876](https://pubmed.ncbi.nlm.nih.gov/38803876/) | 2024 | Preclinical | Heliyon | Modified Zhenwu Tang slowed chronic renal failure progression via oxidative stress and hypoxic responses (not about benazepril) |
+| [31007700](https://pubmed.ncbi.nlm.nih.gov/31007700/) | 2019 | Preclinical | Evid Based Complement Alternat Med | Danggui Shaoyao San reduced renal fibrosis in rats via hypoxia and autophagy regulation (not about benazepril) |
+| [31317035](https://pubmed.ncbi.nlm.nih.gov/31317035/) | 2019 | Preclinical | Biomed Res Int | Tongxinluo reduced myocardial fibrosis after myocardial infarction in rats (not about benazepril) |
 
 ## India Market Information
 
-Benazepril currently has no registered licenses in India. There are no approved products on record.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 30004 | Bampril 5 Tablet | Strip of 10 tablets | Not specified |
+| 10337 | Apriace 10mg Tablet | Strip of 10 tablets | Not specified |
+| 4630 | Apriace 5mg Tablet | Strip of 10 tablets | Not specified |
+| 26609 | Benzil 5 Tablet | Strip of 10 tablets | Not specified |
 
 ## Safety Considerations
 
-**Drug-Drug Interactions (169 interactions identified):**
+- **Contraindications (from the knowledge graph, not label text)**: Liver failure, liver disease, hepatic coma/encephalopathy, kidney disease, anuria, angioedema (including hereditary, acquired and RAAS-blocker-induced forms), pancreatitis, gallbladder disease, systemic lupus erythematosus, connective tissue disease, diabetes mellitus and diabetic ketoacidosis, potassium deficiency, neutropenia, agranulocytosis, hypotensive disorder, hyperparathyroidism, bone and cartilage disease, and neonatal jaundice, among others.
+- **Drug Interactions**: 169 interactions are recorded. The main ones listed are of moderate severity and include:
+  - Glucose-lowering agents: insulins (human, aspart, degludec, detemir, glargine, glulisine, lispro), sulfonylureas (acetohexamide, chlorpropamide, glimepiride, glipizide, glyburide), alogliptin, dapagliflozin and exenatide
+  - Others: hydrocortisone and glycerin
+- **Class-level concern**: Risk of acute renal function decline in bilateral renal artery stenosis or stenosis in a solitary kidney, and of hypotension or acute kidney injury in malignant hypertension with renal involvement.
 
-The following are notable moderate-level interactions identified from DDInter:
-
-| Interacting Drug | Interaction Level | Clinical Relevance |
-|-----------------|-------------------|-------------------|
-| Hydrocortisone | Moderate | Corticosteroids may antagonize antihypertensive effect; sodium/water retention risk |
-| Insulin human | Moderate | ACE inhibitors may enhance hypoglycaemic effect; monitor blood glucose |
-| Insulin glargine | Moderate | Same class risk — enhanced hypoglycaemia with insulin analogues |
-| Insulin detemir | Moderate | Enhanced hypoglycaemic risk |
-| Insulin aspart | Moderate | Enhanced hypoglycaemic risk |
-| Insulin degludec | Moderate | Enhanced hypoglycaemic risk |
-| Insulin glulisine | Moderate | Enhanced hypoglycaemic risk |
-| Insulin lispro | Moderate | Enhanced hypoglycaemic risk |
-| Glimepiride | Moderate | Sulfonylurea + ACE inhibitor: potentiated glucose-lowering effect |
-| Glipizide | Moderate | Same risk as glimepiride |
-| Glyburide | Moderate | Same risk as glimepiride |
-| Alogliptin | Moderate | DPP-4 inhibitor: increased risk of angioedema with concurrent ACE inhibitor use |
-| Dapagliflozin | Moderate | SGLT-2 inhibitor: additive blood pressure and renal effects |
-| Exenatide | Moderate | GLP-1 agonist: potential pharmacodynamic interaction |
-| Acetohexamide | Moderate | First-generation sulfonylurea: enhanced hypoglycaemia risk |
-| Chlorpropamide | Moderate | First-generation sulfonylurea: enhanced hypoglycaemia risk |
-| Glycerin | Moderate | Osmotic agent: additive renal and blood pressure effects |
-
-> Note: 169 total drug interactions were identified. Listing above represents the most clinically significant categories. For a complete interaction profile, please refer to the full DDInter data and the prescribing information.
-
-> For key warnings and contraindications, please refer to the package insert, as this data was not available in the current Evidence Pack.
-
----
+Please also refer to the package insert for label warnings, which were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is entirely model-generated (L5 evidence) with no supporting clinical trials or targeted literature. More critically, the predicted indication — malignant renovascular hypertension — carries a well-established mechanistic contraindication risk for ACE inhibitors: Ang II blockade in the setting of renal artery stenosis can precipitate acute renal failure, meaning the drug's known mechanism is a potential hazard rather than a therapeutic advantage for this specific disease subtype.
+The predicted indication has a plausible RAS-based rationale, but it overlaps with the approved hypertension indication and has no supporting trials or literature. The ACE-inhibitor renal risk in renovascular disease is also a significant safety issue. The high TxGNN score is a model prediction only.
 
 **To proceed, the following is needed:**
-
-- **MOA documentation**: Retrieve full mechanism of action from DrugBank (currently marked as Data Gap DG002)
-- **Safety label review**: Download and parse the prescribing information to extract key warnings and contraindications (Data Gap DG001 — Blocking severity)
-- **Literature search refinement**: Conduct targeted searches combining "benazepril OR ACE inhibitor" with "renovascular hypertension" to assess whether any indirect evidence exists
-- **Clinical risk assessment**: Consult a nephrologist or hypertension specialist to formally evaluate whether this indication represents a contraindication rather than a repurposing opportunity
-- **Regulatory review**: Assess whether Benazepril is currently contraindicated in bilateral renal artery stenosis per approved labelling in any jurisdiction
-- **India registration strategy**: If pursuing this market, a full registration dossier would be required given current zero-licence status in India
+- Package insert warnings and contraindications for the Indian-marketed products (currently a blocking gap for safety screening)
+- Mechanism of action data (for example from DrugBank)
+- Clinical trial or literature evidence on benazepril or ACE inhibitors in renovascular and malignant hypertension
+- A renal safety and monitoring plan for patients with renal artery stenosis
+- Clarification of whether the indication is distinct enough from approved hypertension use to count as repurposing
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

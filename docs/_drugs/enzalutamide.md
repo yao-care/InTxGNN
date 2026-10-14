@@ -2,7 +2,7 @@
 layout: default
 title: Enzalutamide
 parent: Model Prediction Only (L5)
-nav_order: 307
+nav_order: 310
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,104 +29,125 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Enzalutamide: From Prostate Cancer to Prostate Cancer/Brain Cancer Susceptibility
+# Enzalutamide: From Prostate Cancer to Male Reproductive Organ Cancer (Prostate Neoplasm)
 
 ## One-Sentence Summary
 
-Enzalutamide (Xtandi) is a second-generation androgen receptor (AR) inhibitor with established clinical approval in multiple markets for castration-resistant and castration-sensitive prostate cancer.
-The TxGNN model predicts it may be relevant for **Prostate Cancer/Brain Cancer Susceptibility** conditions,
-with **0 clinical trials** and **0 publications** currently supporting this specific direction.
+Enzalutamide is an androgen receptor inhibitor originally used to treat prostate cancer.
+The TxGNN model's top-ranked prediction is "prostate cancer/brain cancer susceptibility", a germline susceptibility term with no evidence behind it. The best-supported candidates are **male reproductive organ cancer** (**35 clinical trials** and **20 publications**) and **prostate neoplasm** (**35 clinical trials** and **20 publications**). Both are essentially the already-approved prostate cancer indication rather than a genuinely new use.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Prostate cancer (castration-resistant and castration-sensitive) |
-| Predicted New Indication | Prostate Cancer/Brain Cancer Susceptibility |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+|------|------|
+| Original Indication | Prostate cancer (including familial prostate carcinoma) |
+| Predicted New Indication | Top-ranked: prostate cancer/brain cancer susceptibility (no evidence). Best-supported: male reproductive organ cancer / prostate neoplasm |
+| TxGNN Prediction Score | 99.71% (top-ranked); 99.51% (male reproductive organ cancer); 98.37% (prostate neoplasm) |
+| Evidence Level | L1 for male reproductive organ cancer and prostate neoplasm (on-label evidence); L5 for the top-ranked prediction |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 17 |
+| Recommended Decision | Proceed with Guardrails (restricted to prostate cancer); Hold for the other predictions |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Enzalutamide is a potent, second-generation androgen receptor (AR) antagonist. Unlike first-generation agents such as bicalutamide, it exerts a triple-blockade mechanism: (1) competitive inhibition of androgen binding to the AR, (2) suppression of AR nuclear translocation, and (3) inhibition of AR–DNA binding and co-activator recruitment. This comprehensive AR axis blockade is the basis for its remarkable efficacy in castration-resistant prostate cancer (CRPC), validated across landmark Phase 3 trials including AFFIRM, PREVAIL, PROSPER, and ARCHES.
+Detailed mechanism-of-action data is not currently available in the data compiled for this report. Based on known pharmacology, enzalutamide is a second-generation androgen receptor (AR) signaling inhibitor. It blocks androgen binding, nuclear translocation of the AR, and AR binding to DNA.
 
-The prediction for "prostate cancer/brain cancer susceptibility" likely reflects a hereditary cancer predisposition context — for example, germline mutations in BRCA2, CHEK2, or ATM that simultaneously elevate lifetime risk for both prostate and certain brain tumors (e.g., glioblastoma). Biological plausibility exists in this space: in BRCA2-deficient prostate cancers, the AR signaling axis remains a key growth driver, and preclinical work suggests that AR activity may modulate expression of homologous recombination repair genes, potentially creating a vulnerability exploitable by AR inhibition. The TxGNN model's high score (rank 5603 of all disease nodes) reflects this strong topological proximity between Enzalutamide and prostate cancer–related nodes in the knowledge graph.
+The high-scoring predictions are mostly different labels for prostate disease or closely related ontology terms. "Male reproductive organ cancer" and "prostate neoplasm" are parent terms that contain prostate cancer, so the supporting trial and literature evidence is almost entirely on-label prostate cancer work. This is confirmation of the existing indication, not novel repurposing. No evidence was found for other male reproductive cancers such as testicular or penile cancer.
 
-However, a critical conceptual distinction must be made: "susceptibility" refers to a risk state, not an established malignancy. Chemoprevention of hereditary cancer syndromes using AR inhibitors has not been clinically investigated. The absence of any supporting trial or literature data, combined with the unusual disease framing (susceptibility rather than active disease), suggests this prediction captures a graph topology signal rather than a clinically actionable treatment hypothesis in its current form.
+Other predictions are rare or benign prostate lesions (prostate leiomyoma, fibroma of prostate, benign prostate phyllodes tumor, prostate phyllodes tumor, benign neoplasm of prostate). They may be biologically conceivable through AR biology, but no trials or supporting literature exist. Brenner tumor has no known AR-driven biology, and its high score is likely a graph artifact. The top-ranked "prostate cancer/brain cancer susceptibility" is a germline susceptibility term, not a treatable disease state.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for the predicted indication (prostate cancer/brain cancer susceptibility).
+The table below covers the best-supported prediction groups (male reproductive organ cancer and prostate neoplasm), selecting the most relevant trials. The other predictions have no registered trials.
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02446405](https://clinicaltrials.gov/study/NCT02446405) | Phase 3 | Active, not recruiting | 1125 | ENZAMET: enzalutamide vs conventional non-steroidal antiandrogen with first-line ADT in metastatic prostate cancer |
+| [NCT06551324](https://clinicaltrials.gov/study/NCT06551324) | Phase 3 | Active, not recruiting | 600 | MEVPRO-1: mevrometostat plus enzalutamide vs enzalutamide or docetaxel in mCRPC after abiraterone |
+| [NCT02987543](https://clinicaltrials.gov/study/NCT02987543) | Phase 3 | Completed | 387 | PROfound: olaparib vs enzalutamide or abiraterone in mCRPC with HRR gene mutations |
+| [NCT03834493](https://clinicaltrials.gov/study/NCT03834493) | Phase 3 | Terminated | 1244 | KEYNOTE-641: pembrolizumab plus enzalutamide vs placebo plus enzalutamide in mCRPC |
+| [NCT06136624](https://clinicaltrials.gov/study/NCT06136624) | Phase 3 | Recruiting | 1310 | OMAHA-003: opevesostat vs abiraterone or enzalutamide in heavily pretreated mCRPC |
+| [NCT06496581](https://clinicaltrials.gov/study/NCT06496581) | Phase 3 | Recruiting | 500 | Standard of care ± 177Lu-PSMA-617 in poor-responding de novo mHSPC; enzalutamide likely in the backbone |
+| [NCT03641560](https://clinicaltrials.gov/study/NCT03641560) | Phase 4 | Completed | 52 | Single-arm safety and efficacy study of enzalutamide in Indian patients with docetaxel-pretreated mCRPC |
+| [NCT07512076](https://clinicaltrials.gov/study/NCT07512076) | Phase 2 | Not yet recruiting | 26 | Dose optimization of enzalutamide in elderly patients with advanced prostate cancer |
+| [NCT04332744](https://clinicaltrials.gov/study/NCT04332744) | Phase 2 | Completed | 54 | Talazoparib plus enzalutamide in metastatic hormone-naïve prostate cancer |
+| [NCT01547299](https://clinicaltrials.gov/study/NCT01547299) | Phase 2 | Completed | 52 | Neoadjuvant enzalutamide before prostatectomy in localized prostate cancer |
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for the predicted indication (prostate cancer/brain cancer susceptibility).
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [22894553](https://pubmed.ncbi.nlm.nih.gov/22894553/) | 2012 | RCT (AFFIRM) | N Engl J Med | Enzalutamide increased survival in prostate cancer after chemotherapy |
+| [29949494](https://pubmed.ncbi.nlm.nih.gov/29949494/) | 2018 | RCT (PROSPER) | N Engl J Med | Enzalutamide in nonmetastatic castration-resistant prostate cancer with rapidly rising PSA |
+| [31329516](https://pubmed.ncbi.nlm.nih.gov/31329516/) | 2019 | RCT (ARCHES) | J Clin Oncol | Enzalutamide plus ADT in metastatic hormone-sensitive prostate cancer |
+| [41633900](https://pubmed.ncbi.nlm.nih.gov/41633900/) | 2026 | Post hoc analysis | Eur Urol | ARCHES 5-year efficacy and safety of enzalutamide plus ADT in mHSPC |
+| [41124201](https://pubmed.ncbi.nlm.nih.gov/41124201/) | 2026 | RCT (EMBARK) | N Engl J Med | Improved overall survival with enzalutamide in biochemically recurrent prostate cancer |
+| [42223064](https://pubmed.ncbi.nlm.nih.gov/42223064/) | 2026 | RCT | N Engl J Med | PARP inhibitor plus androgen-signaling inhibition plus ADT in metastatic prostate cancer |
+| [27477525](https://pubmed.ncbi.nlm.nih.gov/27477525/) | 2017 | Extended RCT analysis (PREVAIL) | Eur Urol | Longer-term efficacy and safety in chemotherapy-naïve mCRPC |
+| [40439959](https://pubmed.ncbi.nlm.nih.gov/40439959/) | 2025 | Cohort | Adv Ther | Overall survival with apalutamide vs enzalutamide in mCSPC |
+| [39275993](https://pubmed.ncbi.nlm.nih.gov/39275993/) | 2024 | Review | Expert Rev Anticancer Ther | Current uses and resistance mechanisms of enzalutamide |
+| [32534790](https://pubmed.ncbi.nlm.nih.gov/32534790/) | 2020 | Review | Trends Cancer | Treatment advances in advanced prostate cancer |
 
 ---
 
 ## India Market Information
 
-Enzalutamide currently holds no approved registrations in India. No license records are available.
+Enzalutamide has 17 valid registrations in India, all single-ingredient products. The approved indication text is not available for any of them. Five main registrations:
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 243972 | Xtandi 40mg Soft Capsule | Bottle of 112 capsules | Astellas Pharma Inc |
+| 72884 | Enzamide 40mg Tablet | Strip of 28 tablets | Intas Pharmaceuticals Ltd |
+| 1970 | Azel 40mg Capsule | Strip of 28 capsules | Dr Reddy's Laboratories Ltd |
+| 72886 | Enzyl Capsule | Strip of 28 capsules | Sun Pharmaceutical Industries Ltd |
+| 243863 | Xylutide Capsule | Strip of 28 capsules | Cipla Ltd |
 
 ---
 
 ## Cytotoxicity
 
-Enzalutamide is classified as an antineoplastic agent (prostate cancer treatment) and meets the criteria for inclusion of this section.
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Second-generation androgen receptor antagonist (non-steroidal) |
-| Myelosuppression Risk | Low (AR antagonists do not exert direct bone marrow toxicity; neutropenia is uncommon) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function tests (LFTs), complete blood count (CBC), blood pressure, neurological status (seizure risk — known class effect), cardiovascular assessment |
-| Handling Protection | Standard oral antineoplastic handling precautions recommended; avoid crushing/splitting capsules |
+|------|------|
+| Cytotoxicity Classification | Targeted hormonal therapy (androgen receptor inhibitor), not a conventional cytotoxic agent |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert; blood pressure, seizure risk, falls and fatigue are key clinical concerns |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**: Enzalutamide has 571 documented drug interactions in the DDInter database. Clinically significant interactions include:
+- **Drug Interactions**: 571 interactions were identified in total. Major-level interactions include bupropion, dolasetron and eliglustat. Moderate-level interactions include famotidine, rabeprazole, omeprazole, hydrocortisone, dexamethasone, clarithromycin, aprepitant, loperamide, saxagliptin, empagliflozin and linagliptin, among others.
+- **Clinical risks to monitor** (from the assessment of the prostate neoplasm group): seizure, falls, fatigue, hypertension, and CYP-mediated drug interactions.
 
-| Severity | Interacting Drug | Clinical Concern |
-|----------|-----------------|-----------------|
-| **Major** | Bupropion | Seizure threshold lowering — additive risk with Enzalutamide's known seizure potential |
-| **Major** | Dolasetron | QT interval prolongation risk |
-| **Major** | Eliglustat | Enzalutamide induces CYP3A4/CYP2D6, significantly altering Eliglustat exposure |
-| Moderate | Clarithromycin | CYP3A4 inhibition may increase Enzalutamide plasma levels |
-| Moderate | Dexamethasone / Hydrocortisone | CYP3A4 induction interactions; frequent combination in prostate cancer — dosing review required |
-| Moderate | Famotidine / Omeprazole / Rabeprazole | Acid-suppressive agents may affect absorption; gastric pH considerations |
-| Moderate | Saxagliptin / Linagliptin / Empagliflozin | Diabetes medications — CYP3A4 induction by Enzalutamide may reduce DPP-4 inhibitor exposure |
-
-> Note: Formal package insert warnings and contraindications for this market have not yet been retrieved (Data Gap DG001). Please refer to the current prescribing information (FDA/EMA label) for complete safety data before any clinical application.
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails (restricted to prostate cancer); Hold for all other predicted indications**
 
 **Rationale:**
-The high TxGNN prediction score (99.71%) reflects strong graph-level proximity to prostate-related pathways, but the "susceptibility" framing of the indication is a fundamentally different clinical context from therapeutic treatment — and zero supporting clinical trials or published literature leaves this at L5 evidence, insufficient for clinical development planning.
+- The strongest evidence (multiple completed Phase 3 RCTs such as AFFIRM, PROSPER, ARCHES and EMBARK, plus the ENZAMET trial) supports enzalutamide in prostate cancer, which is the already-approved use. It should be labeled as on-label confirmation rather than new repurposing, and not extended to other organ sites.
+- The top-ranked prediction and the rare or benign prostate lesions, as well as Brenner tumor, have no trials or supporting literature (L5), so no clinical inference can be made.
+- The "benign neoplasm of prostate" and "benign reproductive system neoplasm" predictions rely only on prostate cancer data and indirect preclinical work (L4), and the benefit-risk balance is unfavorable without dedicated studies.
 
 **To proceed, the following is needed:**
-
-- **Disease phenotype clarification**: Precisely define what "prostate cancer/brain cancer susceptibility" represents in the knowledge graph (ICD-10/OMIM mapping) — is this a specific hereditary syndrome (e.g., BRCA2-associated, Lynch syndrome)?
-- **Mechanistic validation**: Conduct a targeted literature review on AR's role in hereditary cancer susceptibility and chemoprevention — does AR inhibition reduce incident cancer risk in germline mutation carriers?
-- **Safety data completion**: Retrieve TFDA/FDA package insert for full warnings and contraindications (resolve Data Gap DG001)
-- **MOA data retrieval**: Obtain DrugBank API data for formal MOA documentation (resolve Data Gap DG002)
-- **Pivot consideration**: Rank 9 of this same prediction set — **Prostate Neoplasm** — carries L1 evidence with a "Proceed with Guardrails" recommendation and represents a far more immediately actionable repurposing signal for India market strategy
+- Package insert warnings and contraindications from Indian regulatory sources (currently missing and blocking safety screening)
+- Detailed mechanism-of-action data from DrugBank
+- Approved indication text for the Indian registrations
+- Dedicated studies before any consideration of benign or rare prostatic or non-prostatic indications
+- A drug-interaction management plan covering the major-level interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

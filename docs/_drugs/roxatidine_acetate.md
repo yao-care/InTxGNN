@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Roxatidine Acetate
-parent: High Evidence (L1-L2)
-nav_order: 749
-evidence_level: L1
+parent: Model Prediction Only (L5)
+nav_order: 756
+evidence_level: L5
 indication_count: 6
 ---
 
 # Roxatidine Acetate
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,85 +29,93 @@ Evidence Level: **L1** | Predicted Indications: **6**
 
 </div>
 
-# Roxatidine Acetate: From Unregistered H2-Receptor Antagonist to Active Peptic Ulcer Disease
+# Roxatidine Acetate: From Gastric Ulcer to Active Peptic Ulcer Disease
 
 ## One-Sentence Summary
 
-Roxatidine acetate is a histamine H2-receptor antagonist with no recorded original indication in the current regulatory dataset (drug is not marketed in India/Taiwan). The TxGNN model predicts it may be effective for **Active Peptic Ulcer Disease**, and this direction is strongly corroborated by **2 randomized controlled trials** and **13 additional publications**, largely because this is in fact the drug's well-established historical use as an antisecretory agent rather than a novel mechanistic leap.
-
----
+Roxatidine acetate is a histamine H2-receptor antagonist originally used to treat gastric ulcer, reflux disease and related acid-related disorders.
+The TxGNN model predicts it may be effective for **active peptic ulcer disease**, which is closely aligned with its existing uses.
+No clinical trials are registered for this indication, but **14 publications** (including randomized trials and reviews) support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in dataset (no Taiwan/India license on file) |
-| Predicted New Indication | Active Peptic Ulcer Disease |
+| Original Indication | Gastric ulcer, gastroesophageal reflux disease, esophagitis, Zollinger-Ellison syndrome (the licence entries in India carry no indication text) |
+| Predicted New Indication | Active peptic ulcer disease |
 | TxGNN Prediction Score | 99.58% |
-| Evidence Level | L1 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L1 (based on randomized controlled trials in the literature; see note below) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
 | Recommended Decision | Proceed with Guardrails |
 
----
+*Note: Peptic ulcer disease is essentially an on-label use, so this is not a true repurposing. The L1 grade rests on published double-blind RCTs rather than registered trials, and the grade is moderately uncertain.*
 
 ## Why is This Prediction Reasonable?
 
-Detailed DrugBank-sourced mechanism-of-action data is not currently available for this candidate. However, the accompanying literature evidence fills this gap: roxatidine acetate is rapidly converted by esterases to its active metabolite roxatidine, a potent H2-receptor antagonist that inhibits basal and histamine-stimulated gastric acid secretion in parietal cells. Unlike cimetidine, it does not exhibit anti-androgenic effects or interfere with hepatic (CYP-mediated) drug metabolism (PMID 1717223, 2906472). Preclinical work additionally demonstrates a cytoprotective action independent of pure acid suppression, involving endogenous prostaglandin pathways (PMID 2906796, 9379358).
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the published literature, roxatidine acetate is a histamine H2-receptor antagonist. It is almost completely absorbed after oral dosing (more than 95%) and is rapidly converted to its active metabolite, roxatidine. Roxatidine inhibits basal and stimulated gastric acid secretion by blocking H2 receptors on gastric parietal cells.
 
-This mechanism is the textbook, non-inferential basis for treating peptic ulcer disease — acid suppression combined with mucosal protection directly addresses the pathophysiology of gastric and duodenal ulcers. Notably, this is not a true "repurposing" scenario in the conventional sense: the predicted indication (active peptic ulcer disease) is the class-defining, historically established use of H2-receptor antagonists like roxatidine, dating to clinical development in the late 1980s–1990s. The TxGNN model has effectively rediscovered the drug's original therapeutic niche rather than identifying a novel disease association.
+Peptic ulcers develop when acid and other aggressive factors overwhelm the protective defences of the stomach and duodenal lining. Reducing acid lets the ulcer heal. The drug's original indications (gastric ulcer, reflux disease, esophagitis) rely on the same acid-suppression effect, so the predicted indication follows directly from its known mechanism.
 
-Given that this drug currently has zero regulatory registrations in India/Taiwan and no recorded "original indication" in the local dataset, the practical value of this prediction lies in supporting a **first-time market entry submission** for peptic ulcer disease, using decades of existing global clinical evidence, rather than validating a genuinely new therapeutic direction.
-
----
+Preclinical work in rats also suggests a cytoprotective effect on the gastric mucosa, which may add to the benefit.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered (no entries found in `clinical_trials` or `ictrp_trials`).
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [1674231](https://pubmed.ncbi.nlm.nih.gov/1674231/) | 1991 | RCT | Clinical Therapeutics | Two 12-month, double-blind, placebo-controlled multicenter maintenance studies (n=725); 75mg nightly roxatidine reduced duodenal and gastric ulcer relapse vs. placebo |
-| [1352083](https://pubmed.ncbi.nlm.nih.gov/1352083/) | 1992 | RCT | Am J Gastroenterol | 4-week double-blind RCT in active duodenal ulcer; roxatidine healing rate 33.9% vs. placebo 21.9% at week 2 (p=0.018), sustained advantage through week 4 |
-| [8527619](https://pubmed.ncbi.nlm.nih.gov/8527619/) | 1995 | RCT | Aliment Pharmacol Ther | Double-blind RCT comparing early-evening vs. bedtime roxatidine 150mg dosing in short-term duodenal ulcer treatment; comparable efficacy and tolerability between regimens |
-| [1717223](https://pubmed.ncbi.nlm.nih.gov/1717223/) | 1991 | Review | Drugs | Comprehensive PK/PD review: >95% oral absorption, potent basal/stimulated acid suppression, no anti-androgenic effects, no hepatic enzyme interference |
-| [2906456](https://pubmed.ncbi.nlm.nih.gov/2906456/) | 1988 | Review | Scand J Gastroenterol Suppl | 150mg identified as optimal dose for acid suppression; modified-release capsule sustains nocturnal acid control; confirmed ulcer-healing efficacy in trials |
-| [2906472](https://pubmed.ncbi.nlm.nih.gov/2906472/) | 1988 | Review (DDI focus) | Scand J Gastroenterol Suppl | Contrasts roxatidine's minimal hepatic microsomal enzyme interaction with cimetidine/ranitidine, suggesting lower drug-interaction risk profile |
-| [2184124](https://pubmed.ncbi.nlm.nih.gov/2184124/) | 1990 | Review | Gastroenterol Clin North Am | Overview of PUD medical therapy; roxatidine and nizatidine noted as safe, effective new H2 blockers without added clinical advantage over existing agents |
-| [8097411](https://pubmed.ncbi.nlm.nih.gov/8097411/) | 1993 | Review | Bailliere's Clin Gastroenterol | Mechanistic review of gastric acid regulation (ACh/gastrin/histamine pathways), providing pharmacological basis for H2RA antisecretory action |
-| [2906796](https://pubmed.ncbi.nlm.nih.gov/2906796/) | 1988 | Preclinical | Arch Int Pharmacodyn Ther | Demonstrates cytoprotective action against ethanol-induced gastric mucosal lesions, partly prostaglandin-mediated, distinct from acid suppression |
-| [9379358](https://pubmed.ncbi.nlm.nih.gov/9379358/) | 1997 | Preclinical | J Pharm Pharmacol | Rat stress-ulcer model: MX1 (roxatidine-bismuth-citrate complex) showed enhanced gastroprotection vs. equimolar roxatidine alone |
-
----
+| [1674231](https://pubmed.ncbi.nlm.nih.gov/1674231/) | 1991 | RCT | Clin Ther | Two double-blind placebo-controlled studies (725 patients) of 75 mg at night as 12-month maintenance therapy after ulcer healing, in duodenal and gastric ulcer |
+| [1717223](https://pubmed.ncbi.nlm.nih.gov/1717223/) | 1991 | Review | Drugs | Pharmacology and therapeutic potential in peptic ulcer disease; near-complete oral absorption, potent acid inhibition, no anti-androgenic effects |
+| [2906456](https://pubmed.ncbi.nlm.nih.gov/2906456/) | 1988 | Review | Scand J Gastroenterol Suppl | 150 mg at bedtime was optimal for suppressing nocturnal acid secretion |
+| [2184124](https://pubmed.ncbi.nlm.nih.gov/2184124/) | 1990 | Review | Gastroenterol Clin North Am | Roxatidine and nizatidine described as safe and effective H2 blockers without new clinically important properties |
+| [2905237](https://pubmed.ncbi.nlm.nih.gov/2905237/) | 1988 | Review | Drugs | Role of prostaglandins and H2-receptor antagonists in peptic ulcer disease |
+| [8097411](https://pubmed.ncbi.nlm.nih.gov/8097411/) | 1993 | Review | Baillieres Clin Gastroenterol | Pharmacology of gastric acid regulation and inhibition |
+| [2906472](https://pubmed.ncbi.nlm.nih.gov/2906472/) | 1988 | Review | Scand J Gastroenterol Suppl | Drug-interaction mechanisms; roxatidine acts differently on hepatic enzymes than cimetidine and ranitidine |
+| [2906796](https://pubmed.ncbi.nlm.nih.gov/2906796/) | 1988 | Preclinical | Arch Int Pharmacodyn Ther | Cytoprotective action against experimental gastric mucosal lesions |
+| [26883979](https://pubmed.ncbi.nlm.nih.gov/26883979/) | 2016 | Animal study | Life Sci | Gastroprotective effects of several H2 blockers on ibuprofen-induced gastric ulcer in rats |
 
 ## India Market Information
 
-Roxatidine acetate is currently **not marketed** in India (0 registrations on file); no authorization records are available for review.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 250522 | Zorpex 75mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 14 tablets | Not specified |
+| 251681 | Zorpex 150mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 14 tablets | Not specified |
+| 189348 | Rotane Forte Tablet (Sanofi India Ltd) | Strip of 10 tablets | Not specified |
+| 188497 | Rotane 75mg Tablet (Sanofi India Ltd) | Strip of 14 tablets | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and DDI data are currently unavailable — flagged as a **Blocking** data gap, see Conclusion below.)
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The efficacy evidence for roxatidine acetate in active peptic ulcer disease is strong (L1 — multiple completed RCTs plus a substantial supporting literature base spanning three decades), and the mechanism is well-established rather than speculative. However, this drug is unregistered in India/Taiwan and **safety labeling data (warnings, contraindications) is entirely missing (DG001, Blocking severity)** — this must be resolved before any S1 safety evaluation or market submission can proceed. Lower-ranked predicted indications (gastrojejunal ulcer, peptic ulcer perforation, gastroduodenitis, duodenogastric reflux, duodenal obstruction) are all L5 (model-prediction only, no supporting evidence) and are recommended for **Hold** — several (e.g., perforation, structural obstruction) are mechanistically inappropriate for an antisecretory agent and should be deprioritized or excluded from further evaluation.
+Peptic ulcer disease is an established use of this H2-receptor antagonist, and the published randomized trials and reviews support it. Because no trials are registered and the safety label data could not be obtained, the evidence grade is moderately uncertain and the decision should carry guardrails.
 
 **To proceed, the following is needed:**
-- Official product label / package insert (warnings, contraindications, DDI) — source: regulatory agency label database (Blocking, per DG001)
-- Formal DrugBank MOA record to replace literature-derived mechanism summary (DG002)
-- Confirmation of dosage form and route availability for the local market
-- If pursuing India market entry: full CDSCO registration dossier referencing the existing global RCT evidence base for peptic ulcer disease
+- Package insert warnings and contraindications from the Indian marketed products (currently missing, and this blocks safety screening)
+- Confirmed mechanism of action data from DrugBank
+- Approved indication text for the four Indian registrations
+- Comparison with proton pump inhibitors as the current standard of care
+
+---
+
+### Other Predicted Indications (Brief Note)
+
+| Predicted Indication | TxGNN Score | Evidence Level | Decision |
+|------|------|------|------|
+| Gastrojejunal ulcer | 99.55% | L1 (indirect; trials are in gastric/duodenal ulcer and reflux esophagitis, so this is an extrapolation) | Proceed with Guardrails |
+| Gastroduodenitis | 99.28% | L4 (indirect evidence from NSAID-induced lesion prevention) | Research Question |
+| Peptic ulcer perforation | 99.55% | L5 | Hold |
+| Duodenogastric reflux | 99.21% | L5 | Hold |
+| Duodenal obstruction | 99.09% | L5 | Hold |
+
+For gastrojejunal ulcer, guardrails include confirming the diagnosis, checking for H. pylori and NSAID causes, and considering a PPI as the standard comparator. Several head-to-head randomized trials against ranitidine exist for duodenal ulcer (PMIDs 2905255, 1679668), gastric ulcer (2905240) and reflux esophagitis (8100189), but none are specific to post-surgical marginal ulcer.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

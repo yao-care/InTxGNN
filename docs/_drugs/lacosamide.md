@@ -2,15 +2,15 @@
 layout: default
 title: Lacosamide
 parent: High Evidence (L1-L2)
-nav_order: 463
-evidence_level: L2
+nav_order: 467
+evidence_level: L1
 indication_count: 10
 ---
 
 # Lacosamide
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,98 +29,90 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Lacosamide: From Focal Epilepsy to Manic Bipolar Affective Disorder
+# Lacosamide: From Epilepsy (Original Indication Not Listed in Registration Data) to Migraine Disorder
 
 ## One-Sentence Summary
 
-Lacosamide (brand name Vimpat®) is a third-generation antiepileptic drug (AED) approved in multiple countries for the treatment of focal (partial onset) seizures in adults and adolescents.
-The TxGNN model predicts it may be effective for **Manic Bipolar Affective Disorder**, with **1 clinical trial** and **14 publications** currently supporting this direction.
-The mechanistic rationale is plausible — Lacosamide shares neuronal membrane-stabilising properties with established mood stabilisers such as Lamotrigine and Valproate — though the clinical evidence base remains early-stage and requires cautious interpretation.
-
----
+Lacosamide is a sodium-channel-modulating antiseizure medicine that is widely marketed in India.
+The TxGNN model predicts it may be effective for **migraine disorder**,
+with **4 clinical trials** (including 3 Phase 3 trials) and **19 publications** currently supporting this direction, including one published randomized double-blind trial against propranolol.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Focal (partial onset) epilepsy / partial seizures |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L2 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+|------|------|
+| Original Indication | Not stated in the registration data compiled for this report (lacosamide is known as an antiseizure medicine for focal seizures) |
+| Predicted New Indication | Migraine disorder |
+| TxGNN Prediction Score | 99.87% |
+| Evidence Level | L1 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available from the Evidence Pack. Based on information extracted from the supporting literature, Lacosamide exerts its primary pharmacological effect through **selective enhancement of the slow inactivation of voltage-gated sodium (Nav) channels** — in particular Nav1.3, Nav1.7, and Nav1.1 — thereby prolonging the inactivated state and reducing repetitive high-frequency neuronal firing. A secondary mechanism involves binding to **Collapsin Response Mediator Protein 2 (CRMP-2)**, which regulates microtubule dynamics, ion channel trafficking, and synaptic plasticity. Taken together, these actions stabilise neuronal membrane excitability in a sustained, state-dependent manner (PMID 28845834).
+Detailed mechanism of action data is not available in the data compiled for this report. From the literature, lacosamide enhances slow inactivation of voltage-gated sodium channels and may also interact with collapsin response mediator protein 2 (CRMP2). Preclinical work suggests that CRMP2 modulation can reduce release of calcitonin gene-related peptide (CGRP) in the trigeminal system, a key driver of migraine pain.
 
-This mechanism closely parallels that of other anticonvulsants already used as first- and second-line mood stabilisers in bipolar disorder. Lamotrigine (also a Nav channel blocker) and Valproate (an HDAC inhibitor / sodium channel modulator) are both guideline-recommended for bipolar maintenance. If Lacosamide achieves comparable membrane stabilisation with a potentially more favourable tolerability profile, there is a mechanistically coherent rationale for its mood-stabilising potential. Notably, the CRMP-2 pathway may also modulate hippocampal neuroplasticity and emotional regulation circuits — an additional biological link to affective disorders.
+Several antiseizure medicines (such as topiramate) are already used for migraine prevention, so a link between seizure control and migraine prevention is established. In mice, lacosamide reduced cortical spreading depolarization, the wave of cortical activity thought to underlie migraine aura. This supports biological plausibility.
 
-One important caveat: the only registered clinical trial (NCT07412132) targets the **depressive phase** of bipolar disorder rather than the **manic phase**. The TxGNN-predicted label is "manic bipolar affective disorder," creating a partial indication mismatch. The mechanistic argument for the depressive pole (Nav channel suppression reducing cortical hyperexcitability) is stronger in the existing literature. Any translation effort must carefully distinguish between bipolar subtypes and episode polarity.
-
----
+Clinical support is real but limited. Published human results come mainly from one randomized trial against propranolol, and most trials compare against active drugs rather than placebo. This limits conclusions about absolute efficacy.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT07412132](https://clinicaltrials.gov/study/NCT07412132) | Phase 3 | Recruiting | 40 | Double-blind RCT evaluating Lacosamide as augmentation to first- or second-line treatment in moderate-to-severe **major depressive episodes** of Bipolar I and II. Initiated January 2026; results expected 2027. Note: the trial targets the depressive pole, not the manic pole — indication sub-type alignment should be confirmed. |
-
----
+|---------|------|------|------|---------|
+| [NCT05851781](https://clinicaltrials.gov/study/NCT05851781) | Phase 3 | Completed | 600 | Lacosamide vs propranolol in migraine; outcomes are reduction in monthly headache days and ≥50% responder rate |
+| [NCT06243692](https://clinicaltrials.gov/study/NCT06243692) | Phase 3 | Unknown | 600 | Lacosamide vs topiramate in migraine; no results available, reliability uncertain |
+| [NCT05632133](https://clinicaltrials.gov/study/NCT05632133) | Phase 3 (labelled; described as a pilot) | Completed | 200 | Effect on serum CGRP in episodic migraine, with lacosamide 50 mg twice daily plus ibuprofen vs ibuprofen alone; biomarker-oriented |
+| [NCT00440518](https://clinicaltrials.gov/study/NCT00440518) | Phase 2 | Completed | 218 | Double-blind, placebo-controlled trial of 100 mg/day and 300 mg/day lacosamide; the registry title is truncated, so the indication could not be confirmed from the available data |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/) | 2018 | Retrospective Cohort | Psychiatry and Clinical Neurosciences | Lacosamide vs. other anticonvulsants over 30 days in hospitalised patients with bipolar disorder without comorbid epilepsy — first controlled-design study directly in BD. |
-| [33666402](https://pubmed.ncbi.nlm.nih.gov/33666402/) | 2021 | Open-label Pilot Trial | Journal of Clinical Psychopharmacology | 12-week pilot trial evaluating efficacy and safety of Lacosamide for bipolar depression; provides preliminary tolerability and response data. |
-| [32693579](https://pubmed.ncbi.nlm.nih.gov/32693579/) | 2020 | Review | ACS Chemical Neuroscience | Reviews CRMP-2 as a druggable target for neurodegenerative and neuropsychiatric diseases; discusses Lacosamide's CRMP-2 binding as a secondary mechanism relevant to mood circuits. |
-| [29957667](https://pubmed.ncbi.nlm.nih.gov/29957667/) | 2018 | Review | Therapeutic Drug Monitoring | Updated review of TDM for all 27 licensed AEDs; explicitly notes that several AEDs including Lacosamide are used off-label for pain and bipolar disorder, supporting broad psychiatric utility. |
-| [28845834](https://pubmed.ncbi.nlm.nih.gov/28845834/) | 2017 | Case Report | Acta Bio-Medica | Case of clinical mood stabilisation with Lacosamide in a patient with comorbid mood disorder, PTSD, and fronto-temporal epilepsy; describes Nav channel slow-inactivation as the mechanistic basis. |
-| [30275630](https://pubmed.ncbi.nlm.nih.gov/30275630/) | 2018 | Case Report / Safety Signal | Indian Journal of Psychological Medicine | Reports Lacosamide-precipitated neutropenia in a patient with bipolar disorder and comorbid epilepsy — important safety signal for haematological monitoring when used in psychiatric populations. |
-| [29253680](https://pubmed.ncbi.nlm.nih.gov/29253680/) | 2018 | Prospective Multicenter Study | Epilepsy & Behavior | Prospective study of Lacosamide's effect on depression and anxiety symptoms in focal epilepsy patients; found improvements in mood outcomes, suggesting an intrinsic mood-modifying effect beyond seizure control. |
-| [38304661](https://pubmed.ncbi.nlm.nih.gov/38304661/) | 2024 | Case Report | Cureus | Complex case of a pregnant patient with Bipolar I, comorbid epilepsy, and PNES; Lacosamide featured as part of the polypharmacy management — highlights real-world use and safety complexity in vulnerable populations. |
-
----
+|------|-----|------|------|---------|
+| [41863672](https://pubmed.ncbi.nlm.nih.gov/41863672/) | 2026 | RCT | Molecular Neurobiology | Double-blind trial of lacosamide vs propranolol for episodic migraine prevention, aimed especially at patients who cannot tolerate propranolol |
+| [38502425](https://pubmed.ncbi.nlm.nih.gov/38502425/) | 2024 | RCT | Acta Neurologica Belgica | Effect of lacosamide on serum CGRP levels in episodic migraine patients |
+| [22779776](https://pubmed.ncbi.nlm.nih.gov/22779776/) | 2013 | Systematic review/meta-analysis | Epilepsia | Adverse event profile of lacosamide across randomized controlled trials |
+| [40670944](https://pubmed.ncbi.nlm.nih.gov/40670944/) | 2025 | Preclinical | J Headache Pain | Lacosamide effect on cortical spreading depolarization in mice |
+| [27917413](https://pubmed.ncbi.nlm.nih.gov/27917413/) | 2016 | Preclinical | Pain Reports | (S)-Lacosamide in preclinical models of cephalic pain, targeting CRMP2 to inhibit CGRP release |
+| [22862686](https://pubmed.ncbi.nlm.nih.gov/22862686/) | 2012 | Review | Expert Opin Emerg Drugs | Emerging treatments for chronic and refractory chronic migraine |
+| [38870050](https://pubmed.ncbi.nlm.nih.gov/38870050/) | 2024 | Review | Expert Rev Neurother | Pharmacotherapy update for trigeminal neuralgia; mentions third-generation anticonvulsants as possible options (indirect) |
 
 ## India Market Information
 
-Lacosamide is currently **not registered or marketed in India**. No approved license records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 126251 | Lacove 150mg Tablet | Strip of 10 tablets | Not stated |
+| 250388 | Zolaco 200mg Tablet | Strip of 10 tablets | Not stated |
+| 121572 | Lacoxa 100mg Tablet | Strip of 10 tablets | Not stated |
+| 123738 | Laconext 10mg Injection | Vial of 20 ml injection | Not stated |
+| 208370 | Seizgard 150mg Tablet | Strip of 10 tablets | Not stated |
 
-> ⚠️ This means there is no approved product label, no locally reviewed safety data, and no established supply chain in India. Any clinical development or access programme would need to begin from regulatory submission.
-
----
+Twenty valid single-ingredient registrations are on record, in oral tablet and injectable forms.
 
 ## Safety Considerations
 
-Detailed safety data (package insert warnings, contraindications, drug interaction profiles) was not retrievable for this report.
+- **Disease associations flagged in the knowledge graph** (drug-disease contraindication links, not label text): liver disease, gallbladder disease, cardiac conduction and rhythm disorders (atrioventricular block, sick sinus syndrome, atrial fibrillation, atrial flutter), coronary artery disease, myocardial ischemia, and orthostatic hypotension and related autonomic disorders (multiple system atrophy, postural orthostatic tachycardia syndrome). Cardiac conduction problems deserve particular attention when screening migraine patients.
+- **Drug Interactions**: 25 interactions were recorded. Major-level interactions are with dolasetron, ceritinib and siponimod. Moderate-level interactions include clarithromycin, ethanol, cobicistat, chloroquine, hydroxychloroquine, mefloquine, lidocaine, ketoconazole, pasireotide, alectinib, brigatinib, crizotinib, fingolimod, idelalisib, imatinib, ozanimod and sunitinib. Many of these are drugs that affect cardiac conduction.
+- **Case report safety signal**: neutropenia was reported with lacosamide in a patient with bipolar disorder and epilepsy.
 
-One safety signal identified from the literature is worth noting:
-
-- **Haematological toxicity**: A case of Lacosamide-precipitated **neutropenia** has been reported in a patient with bipolar disorder and comorbid epilepsy ([PMID 30275630](https://pubmed.ncbi.nlm.nih.gov/30275630/)). This warrants baseline and periodic monitoring of full blood counts if Lacosamide is used in psychiatric populations.
-
-For complete safety information — including cardiac conduction effects (PR interval prolongation, known from AED class), teratogenicity risk, and CYP2C19 interaction potential — please refer to the current Vimpat® package insert or equivalent regulatory product information.
-
----
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-A Phase 3 RCT is actively recruiting (NCT07412132), and a retrospective cohort study plus an open-label pilot trial provide initial supportive signals. The mechanistic link via Nav channel stabilisation is biologically coherent and analogous to approved mood stabilisers. However, the evidence base is still early-stage, the trial targets the depressive rather than the manic pole, and the drug is not marketed in India — all of which constrain immediate clinical translation.
+Migraine is the best-supported prediction among the candidates. It has three Phase 3 trials, one Phase 2 placebo-controlled trial and one published randomized double-blind trial, plus plausible sodium channel and CGRP-related mechanisms. However, published results come from essentially one trial and the active-comparator designs limit conclusions about absolute efficacy.
 
 **To proceed, the following is needed:**
+- Results from the completed trials (NCT05851781, NCT00440518) and confirmation of what NCT00440518 studied
+- Independent replication, ideally a placebo-controlled trial, to confirm effect sizes
+- Package insert warnings and contraindications from the India registrations, plus the approved indication text
+- Confirmed mechanism of action data
+- A cardiac safety plan (ECG screening and attention to conduction-affecting co-medications)
 
-- **Confirm indication sub-type**: Clarify whether the target is manic episodes, depressive episodes, or bipolar maintenance — the current trial (NCT07412132) addresses depressive episodes only, which does not perfectly align with the TxGNN-predicted label of "manic bipolar."
-- **Obtain complete safety data**: Retrieve and review the full Vimpat® package insert (SmPC / USPI) to document cardiac conduction warnings, teratogenicity, contraindications, and drug interaction profile — currently all marked as data gaps.
-- **Regulatory pathway assessment**: Since Lacosamide has zero India registrations, determine whether a new drug application or a research import licence would be required before any India-based trial could proceed.
-- **Monitor NCT07412132**: Track results of the ongoing Phase 3 trial (completion expected 2027); positive results would upgrade evidence to L1 and materially strengthen the repurposing case.
-- **Haematological monitoring plan**: Given the neutropenia signal (PMID 30275630), establish a CBC monitoring protocol as part of any clinical use protocol.
-- **Dose optimisation research**: The effective dose in psychiatric indications (vs. 200–400 mg/day for epilepsy) has not been established; dose-finding studies may be required.
+**Other predicted indications (for reference):** Manic bipolar affective disorder (L3) and myofascial pain syndrome (L2) are research questions only. Bipolar disorder rests on small observational data and a neutropenia case report. Myofascial pain has only a Phase 2 trial in fibromyalgia, with no results provided. Tourette syndrome, trichotillomania, nephrogenic syndrome of inappropriate antidiuresis, insomnia, migraine with brainstem aura, obsessive-compulsive disorder and papillary conjunctivitis are on hold, since they have no meaningful supporting evidence. For Tourette syndrome, the literature even suggests antiepileptic drugs can induce tics.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

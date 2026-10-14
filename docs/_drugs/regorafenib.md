@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Regorafenib
-parent: High Evidence (L1-L2)
-nav_order: 725
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 732
+evidence_level: L5
 indication_count: 10
 ---
 
 # Regorafenib
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Regorafenib: From Colorectal Cancer/GIST to Liposarcoma
+# Regorafenib: From Metastatic Colorectal Cancer / Hepatocellular Carcinoma / GIST to Liposarcoma
 
 ## One-Sentence Summary
 
-> Regorafenib is an oral multi-kinase inhibitor originally developed for metastatic colorectal cancer, gastrointestinal stromal tumours (GIST), and hepatocellular carcinoma.
-> The TxGNN model predicts it may be effective for **Liposarcoma**,
-> with **2 clinical trials** and **9 publications** currently available — but the direct trial evidence for this specific subtype is **negative**, warranting caution.
+Regorafenib is an oral multi-kinase inhibitor originally used for metastatic colorectal cancer, hepatocellular carcinoma and gastrointestinal stromal tumour (GIST).
+The TxGNN model predicts it may be effective for **liposarcoma**, with **1 clinical trial** and **9 publications** compiled for this direction.
+The strongest data are randomized and placebo-controlled, but they **do not support routine use in liposarcoma**: the liposarcoma-specific cohort showed no benefit.
 
 ---
 
@@ -43,27 +43,25 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Metastatic colorectal cancer, GIST, hepatocellular carcinoma (based on literature evidence; no Taiwan regulatory record exists) |
+| Original Indication | Metastatic colorectal cancer, hepatocellular carcinoma (liver cancer), gastrointestinal stromal tumour. No approved indication text was recorded in the India licence entries, so this comes from the knowledge graph's indication list. |
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 99.76% |
-| Evidence Level | L2 |
-| Taiwan Market Status | ✗ Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+| Evidence Level | L1 (see note below) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
+| Recommended Decision | Hold (the data-based grade is Proceed with Guardrails, but the liposarcoma-specific results are negative; see Conclusion) |
+
+> **Note on evidence level:** The L1 grade rests on randomized, placebo-controlled Phase 2 trials in soft tissue sarcoma. Strictly under the grading rules (≥2 completed Phase 3 RCTs), no Phase 3 trial exists for this indication, so the level is better read as L2-equivalent. More importantly, the randomized data are **negative for liposarcoma specifically**.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Regorafenib is an oral diphenylurea multi-kinase inhibitor that blocks angiogenic receptor tyrosine kinases (VEGFR1-3, TIE2), stromal kinases (PDGFR-β, FGFR), and oncogenic kinases (KIT, RET, RAF/BRAF). It was the first small-molecule multi-kinase inhibitor to demonstrate a survival benefit in metastatic colorectal cancer refractory to standard therapy, and has since been approved for GIST and hepatocellular carcinoma — all highly vascularised tumour types.
+Regorafenib is a multi-kinase inhibitor that targets angiogenic kinases (VEGFR1-3, TIE2), stromal kinases (PDGFR, FGFR) and oncogenic kinases (KIT, RET, RAF). These pathways drive blood-vessel growth and tumour proliferation in many solid tumours, including soft tissue sarcomas. Detailed mechanism-of-action data were not available in the data compiled for this report; the targets above come from the literature.
 
-Liposarcoma, like other soft tissue sarcomas, is a heterogeneous but generally angiogenesis-dependent malignancy, providing a plausible mechanistic rationale for regorafenib activity via VEGFR/PDGFR blockade. This mechanistic logic is what drives the TxGNN prediction.
+Its original indications (colorectal cancer, hepatocellular carcinoma and GIST) are all solid tumours that respond to kinase and angiogenesis inhibition. GIST is itself a sarcoma, which links the drug's established use to the sarcoma family. This explains the high TxGNN score.
 
-**However, this mechanistic plausibility is not confirmed by direct trial results.** Two dedicated Phase 2 trials specifically tested this hypothesis in liposarcoma cohorts:
-- The **REGOSARC trial** (NCT01900743) found regorafenib effective in leiomyosarcoma, synovial sarcoma, and other non-adipocytic sarcomas, but **explicitly not in liposarcoma** (PMID 29902612).
-- The **SARC024 liposarcoma cohort** (NCT02048371) concluded that results "do not support the routine use of regorafenib in this patient population" (PMID 32701199).
-
-This is a case where the TxGNN mechanistic prediction is reasonable in principle but has already been **tested and refuted** in the specific target population. This distinction should be prominent in any downstream decision-making.
+However, the clinical data show that this mechanistic link does not hold equally across sarcoma subtypes. The REGOSARC randomized trial showed benefit in non-adipocytic sarcomas (leiomyosarcoma, synovial sarcoma and others), but **not in liposarcoma**. The SARC024 liposarcoma cohort confirmed this, and its authors concluded the results "do not support the routine use of regorafenib" in this population.
 
 ---
 
@@ -71,8 +69,7 @@ This is a case where the TxGNN mechanistic prediction is reasonable in principle
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01900743](https://clinicaltrials.gov/study/NCT01900743) | Phase 2 | Completed | 219 | REGOSARC trial: randomized, placebo-controlled, multi-cohort study of regorafenib in anthracycline-pretreated metastatic soft tissue sarcoma, including a dedicated liposarcoma (Cohort A) arm |
-| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Phase 2 | Completed | 131 | SARC024 blanket protocol testing regorafenib across specific sarcoma subtypes including a dedicated liposarcoma cohort |
+| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Phase 2 | Completed | 131 | SARC024: blanket protocol of oral regorafenib in selected sarcoma subtypes, including liposarcoma; the liposarcoma cohort was randomized, double-blind and placebo-controlled |
 
 ---
 
@@ -80,21 +77,24 @@ This is a case where the TxGNN mechanistic prediction is reasonable in principle
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [27751846](https://pubmed.ncbi.nlm.nih.gov/27751846/) | 2016 | RCT | Lancet Oncol | REGOSARC: regorafenib improved PFS vs placebo in doxorubicin-pretreated advanced STS, but benefit was driven by non-adipocytic subtypes |
-| [32701199](https://pubmed.ncbi.nlm.nih.gov/32701199/) | 2020 | RCT | The Oncologist | SARC024 liposarcoma cohort: results do **not** support routine use of regorafenib in refractory liposarcoma |
-| [29902612](https://pubmed.ncbi.nlm.nih.gov/29902612/) | 2018 | RCT (post-cross-over analysis) | Eur J Cancer | Updated REGOSARC analysis confirming efficacy in non-adipocytic STS but not liposarcoma, including post-cross-over activity data |
-| [28295221](https://pubmed.ncbi.nlm.nih.gov/28295221/) | 2017 | Cohort/QoL analysis | Cancer | Q-TWiST analysis of REGOSARC showing quality-adjusted clinical benefit in doxorubicin-refractory non-adipocytic sarcoma |
-| [25884155](https://pubmed.ncbi.nlm.nih.gov/25884155/) | 2015 | Trial Protocol | BMC Cancer | REGOSARC study protocol describing rationale for testing regorafenib across sarcoma subtypes |
-| [29931504](https://pubmed.ncbi.nlm.nih.gov/29931504/) | 2018 | Review | Targeted Oncology | Review of regorafenib's expanding role in sarcoma treatment across STS subtypes |
-| [33290314](https://pubmed.ncbi.nlm.nih.gov/33290314/) | 2021 | Retrospective study | Anti-Cancer Drugs | Retrospective study of anlotinib in liposarcoma; references regorafenib as an approved TKI for non-adipocytic STS (indirect relevance) |
-| [40975452](https://pubmed.ncbi.nlm.nih.gov/40975452/) | 2025 | Review | Crit Rev Oncol Hematol | Review of maintenance therapy strategies after first-line treatment for advanced STS |
-| [26266019](https://pubmed.ncbi.nlm.nih.gov/26266019/) | 2015 | Case Report | Rare Tumors | Case report of pazopanib activity in Ewing sarcoma; cites regorafenib/SARC024 rationale (indirect relevance) |
+| [32701199](https://pubmed.ncbi.nlm.nih.gov/32701199/) | 2020 | RCT | The Oncologist | SARC024 liposarcoma cohort: results do not support routine use of regorafenib in treatment-refractory liposarcoma |
+| [27751846](https://pubmed.ncbi.nlm.nih.gov/27751846/) | 2016 | RCT | The Lancet Oncology | REGOSARC: placebo-controlled Phase 2 trial of regorafenib in anthracycline-pretreated advanced soft tissue sarcoma |
+| [29902612](https://pubmed.ncbi.nlm.nih.gov/29902612/) | 2018 | RCT (updated analysis) | European Journal of Cancer | Efficacy in leiomyosarcoma, synovial sarcoma and other non-adipocytic sarcomas, but not in liposarcoma; includes post-cross-over activity |
+| [29931504](https://pubmed.ncbi.nlm.nih.gov/29931504/) | 2018 | Review | Targeted Oncology | Review of the growing role of regorafenib in sarcoma |
+| [40975452](https://pubmed.ncbi.nlm.nih.gov/40975452/) | 2025 | Review | Critical Reviews in Oncology/Hematology | Maintenance therapy after first-line treatment for advanced soft tissue sarcoma |
+| [28295221](https://pubmed.ncbi.nlm.nih.gov/28295221/) | 2017 | Post hoc analysis of RCT | Cancer | REGOSARC quality-adjusted time without symptoms of progression or toxicity (Q-TWiST) analysis |
+| [25884155](https://pubmed.ncbi.nlm.nih.gov/25884155/) | 2015 | Study protocol | BMC Cancer | Design of the REGOSARC randomized Phase 2 trial |
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-Regorafenib is **not currently marketed in Taiwan** — the regulatory dataset shows 0 licenses and no registered products. No TFDA-approved indication text is available for this drug in this dataset.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 152519 | Nublexa Tablet (Bayer Zydus Pharma Pvt Ltd) | Strip of 28 tablets | Not recorded |
+| 185007 | Regonat Tablet (Natco Pharma Ltd) | Bottle of 28 tablets | Not recorded |
+
+Both licences are valid single-ingredient oral products.
 
 ---
 
@@ -102,19 +102,31 @@ Regorafenib is **not currently marketed in Taiwan** — the regulatory dataset s
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (oral multi-kinase inhibitor; not a conventional cytotoxic agent) |
-| Myelosuppression Risk | Low — regorafenib's dominant toxicities are dermatologic (hand-foot skin reaction), hepatic, and cardiovascular (hypertension) rather than haematological |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function tests (hepatotoxicity risk per literature), blood pressure, skin examination for hand-foot skin reaction, CBC, electrolytes |
-| Handling Protection | Standard oral oncology drug handling precautions apply; not subject to IV cytotoxic handling regulations |
+| Cytotoxicity Classification | Targeted therapy (oral multi-kinase inhibitor), not a conventional cytotoxic agent |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Liver function (hepatic toxicity is a known class concern for anti-angiogenic TKIs), blood pressure, urine protein, skin (hand-foot skin reaction), CBC |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: 213 total interactions identified in the DDI database. Major-level interactions are predominantly with anticoagulant/antiplatelet agents (e.g., Apixaban, Alteplase, Abciximab, Antithrombin III human, Acetylsalicylic acid) as well as Deferasirox, Ibritumomab tiuxetan, and Tositumomab — consistent with regorafenib's known bleeding-risk profile and warranting caution with concurrent anticoagulation.
+- **Drug Interactions:** 213 interactions were identified in the interaction database. Examples of the **Major** level include:
+  - Acetylsalicylic acid
+  - Deferasirox
+  - Apixaban
+  - Alteplase
+  - Abciximab
+  - Antithrombin III human
+  - Ibritumomab tiuxetan
+  - Tositumomab
 
-Detailed package insert warnings, contraindications, and TFDA-specific safety labeling are not currently available in this dataset (see data gap DG001 below).
+  Several of these are antithrombotic or thrombolytic agents. **Moderate** examples include dexamethasone, clarithromycin, rosuvastatin, naltrexone and cobicistat.
+
+- **Class-related toxicities (from the retrieved literature):** hand-foot skin reaction, hypertension, diarrhoea, asthenia, hepatic toxicity and proteinuria are reported with regorafenib and related anti-angiogenic kinase inhibitors.
+
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for full safety information.
 
 ---
 
@@ -123,12 +135,13 @@ Detailed package insert warnings, contraindications, and TFDA-specific safety la
 **Decision: Hold**
 
 **Rationale:**
-The two most relevant dedicated trials (REGOSARC, SARC024) directly tested regorafenib in liposarcoma and found it **ineffective in this specific subtype**, despite showing benefit in other soft tissue sarcoma subtypes. Combined with a blocking data gap on TFDA safety labeling (DG001) and the drug's non-marketed status in Taiwan, the evidence does not currently support advancing this specific indication.
+Although the TxGNN score is very high and randomized trials exist, the liposarcoma cohort of SARC024 and the REGOSARC trial both showed no benefit in liposarcoma, and the SARC024 authors explicitly advise against routine use. The positive sarcoma signal is confined to non-adipocytic subtypes. Any move forward would need a rationale beyond monotherapy in unselected liposarcoma. The framework-based recommendation of "Proceed with Guardrails" should therefore be tempered by these negative subtype-specific results.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings and contraindications data (DG001, blocking — required before any S1 safety evaluation)
-- Formal DrugBank-sourced mechanism of action data (DG002)
-- Consider re-evaluating pipeline priority toward better-supported candidates in this evidence pack, such as **clear cell renal carcinoma** or **renal cell carcinoma (general)**, both of which have positive single-arm Phase 2 evidence (PMID 22959186) rather than a negative trial signal
+- Evidence of benefit in a defined liposarcoma subset (for example, by histological subtype) or in combination regimens, as the SARC024 authors suggest exploring
+- Package insert warnings and contraindications for the India-marketed products
+- Mechanism-of-action data and the approved indication text for the India licences
+- A safety monitoring plan, including attention to bleeding risk with the major-level antithrombotic interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Rimonabant
 parent: Model Prediction Only (L5)
-nav_order: 735
+nav_order: 742
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,81 +29,87 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-Using no additional skill — this is a direct report-generation task per the supplied template with a fully specified Evidence Pack; no ambiguity requiring brainstorming/debugging.
-
-# Rimonabant: From Obesity (CB1 Receptor Blockade) to Hypervitaminosis
+# Rimonabant: From Obesity to Hypervitaminosis
 
 ## One-Sentence Summary
 
-> Rimonabant is a synthetic CB1 receptor antagonist whose pharmacology data describes its historical clinical use as an obesity treatment (marketed as Acomplia® before global withdrawal).
-> The TxGNN model's top-ranked prediction is **Hypervitaminosis**, but the model's own rationale explicitly flags this link as lacking any known biological plausibility and possibly representing knowledge-graph noise.
-> **No clinical trials and no literature** currently support this or any of the other six top-ranked candidates in this Evidence Pack.
-
----
+Rimonabant is a CB1 receptor blocker originally used to treat obesity, including monogenic obesity.
+The TxGNN model predicts it may be effective for **hypervitaminosis**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** currently supporting it.
+The evidence is weak, and no plausible mechanistic link has been identified.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file in India market licenses (0 licenses); pharmacology data lists historical `clinical_use`: "CB1 receptor blocker for obesity" |
+| Original Indication | Obesity disorder; monogenic obesity (the India licence records contain no approved-indication text) |
 | Predicted New Indication | Hypervitaminosis |
 | TxGNN Prediction Score | 99.998% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 9 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as Blocking/High-severity data gap DG002). Based on the pharmacology data provided, rimonabant acts as a CB1 cannabinoid receptor (CNR1) antagonist and also binds GPR55, and was historically used to treat obesity by suppressing appetite via the endocannabinoid system.
+Currently, detailed mechanism of action data is not available. Based on known information, rimonabant is a CB1 receptor blocker (it also acts on GPR55) whose use in obesity is established, but no clear mechanism links CB1 antagonism to hypervitaminosis.
 
-However, the model's own repurposing rationale for this candidate states there is **no known mechanistic overlap** between CB1/endocannabinoid signaling and fat-soluble vitamin excess metabolism, and explicitly notes the high TxGNN score may reflect knowledge-graph connection noise rather than genuine biology.
+The high TxGNN score is a graph-based prediction only. No clinical trials or literature were retrieved to support it, so the prediction should be treated as a hypothesis, not a finding.
 
-This weakness is not isolated to the top candidate: of the seven ranked predictions in this pack, most are flagged by the model's own rationale as mechanistically implausible — three involve obsolete ontology terms or non-druggable congenital structural syndromes (16p11.2 microdeletion, obsolete hypertelorism, frontorhiny, Boissel-type lethal polymalformative syndrome), and one (insomnia, rank 6) is flagged as **directionally contradictory** — CB1 blockade is associated with sleep disturbance as a known adverse effect of rimonabant, not a therapeutic benefit. No candidate in this pack currently rises above L5.
+### Other Predictions Reviewed
 
----
+The model also produced six lower-ranked predictions. None has clinical trial evidence, and all are at Evidence Level L5 with a recommendation of Hold.
+
+| Rank | Predicted Indication | TxGNN Score | Assessment |
+|------|------|------|------|
+| 2 | Proximal 16p11.2 microdeletion syndrome | 99.997% | The deletion is associated with obesity and metabolic features, so the link is conceptually plausible but unvalidated. Rimonabant's psychiatric adverse events are a major concern in a population with neurodevelopmental comorbidity. |
+| 3 | Obsolete hypertelorism (disease) | 99.992% | No plausible mechanism. The ontology term is obsolete, so this is likely a knowledge-graph artifact. |
+| 4 | Frontorhiny | 99.989% | No known link to the endocannabinoid system. |
+| 5 | Pentosuria | 99.398% | Benign metabolic condition that generally needs no treatment. |
+| 6 | Insomnia (disease) | 99.271% | Rimonabant is known to cause insomnia and sleep disturbance, so a therapeutic role is unfavourable. |
+| 7 | Lethal polymalformative syndrome, Boissel type | 99.049% | Lethal prenatal condition, so repurposing is impractical. |
+
+For insomnia, the single paper retrieved (PMID 19548858, a 2009 review in *Expert Opinion on Investigational Drugs*) concerns tesofensine, a different weight-loss agent. It is not direct evidence for rimonabant.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
-
----
+Currently no related literature available for the top prediction, hypervitaminosis.
 
 ## India Market Information
 
-Rimonabant currently holds **no market licenses in India** (`total_licenses: 0`, `market_status: Not marketed`). No dosage forms or registered products are on file.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 189128 | Ribafit 20mg Tablet (Lupin Ltd) | Strip of 10 tablets | Not stated in the data |
+| 166255 | Oberim 20mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the data |
+| 165980 | Obitone 20mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the data |
+| 64889 | Defat 20mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the data |
+| 191760 | Rimobest 20mg Tablet (Aristo Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not stated in the data |
 
----
+Nine valid single-ingredient registrations exist in total, all oral tablets, and none is cancelled.
 
 ## Safety Considerations
 
-- **Pharmacological Target Data**: Rimonabant binds the CB1 receptor (CNR1, human) and GPR55 (human) as its primary pharmacological targets. These are target-binding annotations, not clinical drug-drug interaction (DDI) records — no clinical DDI data is currently available.
-- **Known Safety History (from model rationale, rank 6)**: Insomnia/sleep disturbance is noted as a known adverse effect of rimonabant from prior clinical experience. This is consistent with rimonabant's broader regulatory history of withdrawal due to psychiatric safety signals (depression, suicidal ideation), though formal TFDA/package-insert warnings are not yet available (DG001, Blocking).
+- **Psychiatric adverse events**: Rimonabant was withdrawn in many markets because of depression, anxiety and suicidality. This is a major concern for any new use, especially in populations with neurodevelopmental comorbidity.
+- **Sleep disturbance**: Rimonabant is known to cause insomnia and sleep disturbance as an adverse effect.
+- **Pharmacological targets**: CB1 receptor (CNR1) and GPR55. No drug-drug interactions with other medicines were identified in the data compiled for this report.
 
-Full package insert warnings and contraindications are not currently available and must be sourced before any safety evaluation proceeds (see DG001).
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All seven predicted indications are L5 (model prediction only), with zero clinical trials or literature support. The top-ranked candidate's own generated rationale identifies it as likely knowledge-graph noise, several lower-ranked candidates involve non-druggable congenital syndromes, and one candidate (insomnia) is mechanistically contradictory to rimonabant's known pharmacology. The drug is also unmarketed in India and missing both MOA confirmation and package insert safety data — two data gaps, one of which is Blocking.
+The top prediction, hypervitaminosis, rests only on a model score, with no trials, no literature and no plausible mechanism. Rimonabant's known psychiatric safety problems further argue against pursuing it without strong supporting evidence.
 
 **To proceed, the following is needed:**
-- Resolve DG001: obtain official package insert warnings/contraindications (Blocking — required before any S1 safety screening)
-- Resolve DG002: confirm mechanism of action via DrugBank or primary literature
-- Given rimonabant's known history of market withdrawal for psychiatric safety concerns, obtain full pharmacovigilance/regulatory withdrawal rationale before allocating further evaluation resources
-- If repurposing evaluation continues, deprioritize candidates already flagged by the model as mechanistically implausible (ranks 1, 2, 3, 4, 7) and treat rank 6 (insomnia) as a safety signal rather than an efficacy lead
+- Mechanism of action data to assess whether CB1 antagonism could plausibly relate to hypervitaminosis
+- Package insert warnings and contraindications from the India regulatory source (a blocking gap for safety screening)
+- Any preclinical or clinical evidence for the predicted indications. The 16p11.2 microdeletion prediction is the most biologically plausible and could be examined first, with a rigorous psychiatric risk assessment.
+- Confirmation of the approved indication text for the India registrations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

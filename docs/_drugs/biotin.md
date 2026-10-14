@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Biotin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 111
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 ---
 
 # Biotin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,101 +29,85 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Biotin: From Nutritional Supplement to Dyspepsia
+# Biotin: From Nutritional Biotin Deficiency to Dyspepsia
 
 ## One-Sentence Summary
 
-Biotin (Vitamin B7) is an essential micronutrient acting as a coenzyme for multiple carboxylases, traditionally used as a nutritional supplement without a registered drug indication in India's market.
-The TxGNN model predicts it may be effective for **Dyspepsia**,
-however, current evidence support is limited — with **0 directly relevant clinical trials** and only **1 marginally related publication** — placing this candidate at evidence level **L4**.
-
----
+Biotin (vitamin B7) was originally used to treat nutritional biotin deficiency.
+The TxGNN model predicts it may be effective for **dyspepsia**, but there are currently **no registered clinical trials** and **no publications that show biotin treating dyspepsia**. This is a model-generated hypothesis only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Nutritional supplement (Vitamin B7); no registered drug indication on record |
+|------|------|
+| Original Indication | Nutritional biotin deficiency (from the TxGNN knowledge graph; no approved indication text appears on the Indian licences) |
 | Predicted New Indication | Dyspepsia |
 | TxGNN Prediction Score | 99.43% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 18 |
+| Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available. Based on known information, biotin is a water-soluble vitamin that serves as a cofactor for carboxylase enzymes involved in carbohydrate, fat and amino acid metabolism. Its efficacy in correcting biotin deficiency is established.
 
-Biotin (Vitamin B7) serves as an essential cofactor for multiple carboxylase enzymes — including acetyl-CoA carboxylase, pyruvate carboxylase, and propionyl-CoA carboxylase — playing a central role in fatty acid synthesis, gluconeogenesis, and amino acid metabolism. Biotin deficiency is known to manifest with gastrointestinal symptoms such as nausea and vomiting, suggesting an indirect relationship between Biotin status and digestive tract function.
+Deficiency can cause gastrointestinal symptoms such as nausea and loss of appetite. This offers at most a loose, indirect link to dyspepsia, and it would apply only in a deficiency state, not in general functional dyspepsia.
 
-A second line of reasoning links Biotin to gut health through the gut microbiome: intestinal bacteria can both produce and consume Biotin, and Biotin may modulate intestinal epithelial barrier integrity. Functional dyspepsia is increasingly understood as a disorder with multifactorial pathogenesis, including microbiome dysbiosis and impaired mucosal barrier function. The theoretical chain connecting Biotin repletion to symptomatic relief in dyspepsia is therefore mechanistically plausible — but remains at the level of hypothesis.
-
-Importantly, no direct mechanistic evidence or controlled clinical data currently establish Biotin as an active therapeutic agent for dyspepsia. The TxGNN model's graph-based prediction may reflect shared network proximity between Biotin's metabolic nodes and gastrointestinal disease pathways, rather than a direct causal pharmacological link. This prediction should be interpreted as a hypothesis-generating signal, not a validated therapeutic claim.
-
----
+The very high model score (99.43%) is not backed by any established mechanism in the data compiled for this report. The same applies to the second-ranked prediction, gastroparesis (score 99.42%), which has no trials, no literature and no evident biological link to biotin. Both predictions are hypothesis-generating only.
 
 ## Clinical Trial Evidence
 
-Both trials retrieved from ClinicalTrials.gov were assessed as **Grade C** (false-positive retrieval, no direct relevance):
-
-| Trial Number | Phase | Status | Enrollment | Assessment |
-|---------|------|------|------|---------|
-| [NCT05389813](https://clinicaltrials.gov/study/NCT05389813) | Phase 2/3 | Unknown | 150 | **Irrelevant** — Compares Oxycodone vs Pregabalin for postoperative pain control; no connection to Biotin or dyspepsia |
-| [NCT03360435](https://clinicaltrials.gov/study/NCT03360435) | N/A | Completed | 99 | **Indirectly related at best** — Examines transdermal vitamin absorption (including Biotin) in post-bariatric surgery patients; dyspepsia is not an endpoint; population-specific findings are not generalizable |
-
-> **Note:** No clinical trials directly investigating Biotin for dyspepsia treatment were identified.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Of 7 publications retrieved, only 1 has meaningful (though indirect) relevance to Biotin in dyspepsia. The remainder concern IBS pathophysiology, H. pylori gastritis, or unrelated conditions where Biotin appears incidentally.
+The six retrieved publications are indirect. Only the first involves biotin, and none shows that biotin treats dyspepsia.
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|------|---------|
-| [25384804](https://pubmed.ncbi.nlm.nih.gov/25384804/) | 2014 | Clinical Interventional Study | Minerva Gastroenterol Dietol | Open multicentric study evaluating a multi-ingredient supplement (sodium alginate, calcium carbonate, pineapple, papaya, ginger, α-galactosidase, fennel — product name "Bioten") in functional dyspepsia post-H. pylori treatment; Biotin itself is not an independent variable |
-| [15863846](https://pubmed.ncbi.nlm.nih.gov/15863846/) | 2005 | Case Report | J Dermatology | Infant with Biotin deficiency initially diagnosed as having dyspepsia and fed amino acid formula; Biotin deficiency caused dermatological manifestations — dyspepsia was the presenting context, not the outcome |
-| [21695955](https://pubmed.ncbi.nlm.nih.gov/21695955/) | 2011 | Clinical Study | Exp Clin Gastroenterology | Evaluates a prebiotic supplement (Stimbifid) containing inulin, oligofructose, and multiple vitamins including Biotin in patients with bronchopulmonary disease on antibiotics; GI microbiota correction was assessed, dyspepsia not a primary endpoint |
-| [25110039](https://pubmed.ncbi.nlm.nih.gov/25110039/) | 2014 | Observational | Int J Mol Med | Describes antral endocrine cell changes in IBS patients vs healthy controls; no Biotin involvement |
-| [24891930](https://pubmed.ncbi.nlm.nih.gov/24891930/) | 2014 | Observational | World J Gastrointest Endoscopy | Examines oxyntic mucosa endocrine cells in IBS; no Biotin involvement |
-| [11304845](https://pubmed.ncbi.nlm.nih.gov/11304845/) | 2001 | Histological/Immunological Study | J Clin Pathol | IL-10 localisation in H. pylori-associated gastritis; no Biotin involvement |
-| [10354275](https://pubmed.ncbi.nlm.nih.gov/10354275/) | 1999 | Basic/Histological Study | Kidney International | Small bowel mucosal findings in IgA nephropathy; unrelated to Biotin or dyspepsia |
-
-> **Summary:** No published RCT or controlled study directly tests Biotin as a treatment for dyspepsia. The most relevant paper (PMID 25384804) evaluates a compound supplement where Biotin is not an isolable variable.
-
----
+|------|-----|------|------|---------|
+| [15863846](https://pubmed.ncbi.nlm.nih.gov/15863846/) | 2005 | Case report | The Journal of Dermatology | Biotin deficiency in an infant fed only an amino acid formula after a neonatal dyspepsia diagnosis; presented with alopecia and dermatitis, with low serum and urine biotin |
+| [21695955](https://pubmed.ncbi.nlm.nih.gov/21695955/) | 2011 | Clinical article | Eksp Klin Gastroenterol | A prebiotic supplement containing multiple vitamins (including biotin) for gut microbiota disorders in patients on antibiotics; not biotin-specific |
+| [25110039](https://pubmed.ncbi.nlm.nih.gov/25110039/) | 2014 | Observational | Int J Mol Med | Stomach antral endocrine cells in irritable bowel syndrome; not biotin-related |
+| [24891930](https://pubmed.ncbi.nlm.nih.gov/24891930/) | 2014 | Observational | World J Gastrointest Endosc | Endocrine cells in the stomach's oxyntic mucosa in irritable bowel syndrome; not biotin-related |
+| [11304845](https://pubmed.ncbi.nlm.nih.gov/11304845/) | 2001 | Observational | J Clin Pathol | Interleukin 10 in Helicobacter pylori gastritis; not biotin-related |
+| [10354275](https://pubmed.ncbi.nlm.nih.gov/10354275/) | 1999 | Observational | Kidney Int | Small bowel T cells in IgA nephropathy; not biotin-related |
 
 ## India Market Information
 
-Biotin is **not registered as a pharmaceutical product** in India's drug regulatory database. No marketing authorisations were identified.
+All 18 registrations are valid single-ingredient oral tablets, and none has approved indication text on record. Five are listed below.
 
-> Biotin may be commercially available in India as a food supplement, nutraceutical, or over-the-counter vitamin product, but this falls outside the scope of the drug repurposing regulatory framework evaluated here.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 27963 | B7F 5mg/1mg Tablet | Strip of 15 tablets | Not specified |
+| Registration No. 85165 | Folivern-Plus Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 115809 | Kerashine-F Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 86266 | Finrest-B 10mg/1mg Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 27618 | Bkosa-F Tablet | Strip of 10 tablets | Not specified |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-> No drug-drug interaction data were identified in the DDI database query. No formal key warnings or contraindications data were retrieved from the regulatory source. Given Biotin's status as an essential micronutrient with a well-established safety profile at physiological doses, the absence of formal safety filings reflects its classification as a nutritional supplement rather than a high-risk pharmaceutical.
+The knowledge graph links biotin to contraindication-type relationships with the following conditions. These come from graph relationships, not label text, and should be verified:
+- Kidney disease, nephrolithiasis, nephrocalcinosis and acute urate nephropathy
+- Hypercalcaemia, hyperparathyroidism, osteitis fibrosa and phosphorus metabolism disease
+- Sarcoidosis, pyoureter, constipation disorder and lytic metastatic bone lesion
 
----
+No drug interaction data were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high prediction score (99.43%) for Biotin in dyspepsia, but this score does not correspond to clinical evidence — both retrieved clinical trials are false-positive matches, and no controlled study has specifically tested Biotin as a therapeutic agent for dyspepsia. The mechanistic rationale is theoretically coherent (cofactor role in gut metabolism, microbiome interactions, epithelial barrier modulation) but remains unvalidated. With evidence level L4 and no India market presence, this candidate is not ready for clinical translation.
+The prediction rests only on a model score. There are no clinical trials, no supporting literature and no established mechanism linking biotin to dyspepsia or gastroparesis. The benefit is plausible only in the setting of deficiency.
 
-**To proceed, the following would be needed:**
-
-- **Mechanistic validation**: Preclinical studies (in vitro / animal models) directly testing Biotin supplementation in dyspepsia models, including functional dyspepsia and gastroparesis
-- **Human pilot data**: A prospective observational or open-label pilot study assessing Biotin status and GI symptom correlation in dyspepsia patients
-- **Dose-response clarification**: Distinction between physiological supplementation doses (µg/day) and pharmacological doses (e.g., high-dose MD1003 used in neurological research), since the therapeutic hypothesis may require supratherapeutic dosing
-- **Regulatory pathway assessment**: Determine whether the relevant submission would proceed under a drug or functional food/nutraceutical regulatory framework in India
-- **Safety package**: Formal retrieval of package insert warnings and contraindications data from a regulatory source, particularly if high-dose Biotin is being evaluated (high-dose Biotin is known to interfere with immunoassay-based laboratory tests, a clinically significant concern)
+**To proceed, the following is needed:**
+- Mechanism of action data and a clearer biological rationale for gastrointestinal effects
+- Package insert warnings and contraindications from the Indian regulator, which are currently missing and block safety screening
+- Targeted literature review or pilot studies of biotin in dyspepsia, ideally in patients with confirmed biotin deficiency
+- Clarification of the approved indications for the Indian registrations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

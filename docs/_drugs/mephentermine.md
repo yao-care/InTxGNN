@@ -2,7 +2,7 @@
 layout: default
 title: Mephentermine
 parent: Model Prediction Only (L5)
-nav_order: 520
+nav_order: 525
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,94 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Mephentermine: From Hypotension to Postural Orthostatic Tachycardia Syndrome
+# Mephentermine: From Hypotensive Disorder to Postural Orthostatic Tachycardia Syndrome
 
 ## One-Sentence Summary
 
-Mephentermine is a sympathomimetic amine historically used as a vasopressor for the treatment of hypotension, particularly in perioperative and anaesthetic settings.
-The TxGNN model predicts it may be effective for **Postural Orthostatic Tachycardia Syndrome (POTS)**, the highest-ranked indication with a prediction score of **99.84%**.
-However, **no clinical trials and no published literature** currently support this repurposing direction, and significant mechanistic concerns exist.
-
----
+Mephentermine is an indirect sympathomimetic originally used to treat low blood pressure (hypotensive disorder).
+The TxGNN model predicts it may be effective for **postural orthostatic tachycardia syndrome (POTS)**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypotension (vasopressor use in perioperative/anaesthetic settings) |
-| Predicted New Indication | Postural Orthostatic Tachycardia Syndrome (POTS) |
+|------|------|
+| Original Indication | Hypotensive disorder (the registration records compiled for this report contain no approved indication text) |
+| Predicted New Indication | Postural orthostatic tachycardia syndrome |
 | TxGNN Prediction Score | 99.84% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 6 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacological properties, Mephentermine is a mixed adrenergic agonist with both α- and β-adrenoceptor activity. Its vasopressor effect is mediated primarily through α-adrenergic vasoconstriction and positive chronotropic/inotropic effects via β₁-adrenoceptor stimulation. These properties form the mechanistic basis for its historical use in hypotension.
+Currently, detailed mechanism of action data is not available. Based on general pharmacology, mephentermine is an indirect sympathomimetic that releases endogenous norepinephrine and has alpha- and beta-adrenergic effects. This raises blood pressure and vascular tone, which is why it is used for low blood pressure.
 
-POTS is characterised by an excessive compensatory sinus tachycardia upon standing, driven by inadequate venous return and orthostatic hypotension. The α-adrenergic vasoconstrictive component of Mephentermine could theoretically improve venous return and reduce orthostatic hypotension — a rationale analogous to Midodrine, the selective α₁-agonist currently used as a POTS standard of care.
+In POTS, standing up causes blood to pool in the lower body and the heart rate rises sharply. Raising vascular tone could, in theory, counter the pooling and the orthostatic blood pressure component. This is the main reason the prediction looks plausible.
 
-However, the prediction carries an inherent mechanistic contradiction: Mephentermine's β-adrenergic activity accelerates heart rate, which directly worsens POTS's defining symptom — compensatory sinus tachycardia. Unlike Midodrine's selective α₁ profile, Mephentermine's mixed adrenergic action may amplify rather than relieve the core pathophysiology. This internal inconsistency substantially undermines the repurposing hypothesis, and no clinical data exists to resolve it.
+However, the same mechanism is likely to push the heart rate higher, and a rapid heart rate is the defining feature of POTS. The net effect is therefore uncertain and could be harmful. The high score of 99.84% is a computational prediction only, and no trials or literature were found to back it up.
 
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+Other lower-ranked predictions were also generated, but they are weaker:
+- **Sinoatrial node disease** (score 99.33%) and **sinoatrial block** (score 99.33%): a stimulant of heart rate might theoretically help a slow heartbeat, but it carries arrhythmia risk and established treatments are better supported. These two predictions are likely correlated and add little independent support.
+- **Variably protease-sensitive prionopathy** (score 99.11%): no plausible mechanistic link was identified, and this is likely a false positive.
 
 ## India Market Information
 
-Mephentermine is currently not marketed in India. No regulatory authorizations or product registrations are on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 214828 | Termin 30mg Injection | Vial of 10 ml injection | Not stated in the data compiled |
+| 216311 | Termin 15mg Injection | Vial of 1 ml injection | Not stated in the data compiled |
+| 136078 | Mephentine 15mg Injection | Vial of 1 ml injection | Not stated in the data compiled |
+| 133933 | Mephentine 30mg Injection | Vial of 10 ml injection | Not stated in the data compiled |
+| 179666 | Phentin 15mg Injection | Vial of 1 ml injection | Not stated in the data compiled |
 
----
+A sixth valid single-ingredient registration (216899, Termiva Injection, vial of 10 ml) is also on record. All six registrations are injectable products, and none is cancelled.
 
 ## Safety Considerations
 
-**Drug Interactions (64 interactions on record; selected key examples below):**
+- **Drug Interactions**: 64 interactions are recorded. All of those reviewed are rated Moderate. They mainly involve:
+  - Diabetes medicines: acarbose, metformin, pioglitazone, glimepiride, chlorpropamide, insulins (aspart, degludec, detemir, glargine)
+  - GLP-1 and DPP-4 agents: albiglutide, dulaglutide, semaglutide, lixisenatide, alogliptin, linagliptin
+  - SGLT2 inhibitors: canagliflozin, dapagliflozin, empagliflozin
+  - Other stimulant or appetite-suppressant drugs: phentermine, diethylpropion
+- **Cardiac caution**: As a sympathomimetic, mephentermine carries a risk of arrhythmia and rapid heart rate. This matters for all of the predicted indications, particularly POTS and sinoatrial conditions.
 
-Mephentermine has 64 documented drug-drug interactions, predominantly at a **Moderate** severity level. A notable pattern is interaction with antidiabetic agents — Mephentermine's sympathomimetic activity can antagonise insulin secretion and impair glucose uptake, reducing the efficacy of hypoglycaemic medications.
-
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Metformin | Moderate | Sympathomimetic-induced hyperglycaemia may reduce antidiabetic efficacy |
-| Insulin glargine / aspart / detemir / degludec | Moderate | Adrenergic stimulation can antagonise insulin action and mask hypoglycaemic symptoms |
-| Semaglutide / Dulaglutide / Lixisenatide / Albiglutide | Moderate | GLP-1 agonist efficacy may be attenuated |
-| Canagliflozin / Dapagliflozin / Empagliflozin | Moderate | SGLT-2 inhibitor glucose-lowering effect may be reduced |
-| Pioglitazone | Moderate | Potential attenuation of insulin-sensitising effect |
-| Glimepiride / Chlorpropamide | Moderate | Risk of altered glycaemic control |
-| Phentermine / Diethylpropion | Moderate | Additive sympathomimetic effects; cardiovascular risk amplified |
-| Alogliptin / Linagliptin | Moderate | DPP-4 inhibitor efficacy potentially reduced |
-| Acarbose | Moderate | Carbohydrate absorption modulation may interact with glycaemic response |
-
-For complete contraindications and package insert warnings, please refer to the official prescribing information, as these data were not available in the current evidence pack.
-
----
+Please refer to the package insert for other safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction score of 99.84% is high, but the evidence base is entirely absent — zero clinical trials, zero publications — placing this at Evidence Level L5 (model prediction only). More critically, the mechanistic hypothesis contains a direct internal contradiction: Mephentermine's β-adrenergic activity would be expected to worsen the defining tachycardia of POTS, opposing the therapeutic goal. The drug is also not marketed in India, adding a significant regulatory hurdle.
+The prediction has a very high model score but no supporting clinical trials or literature (evidence level L5). The drug's likely effect of raising heart rate conflicts with the core feature of POTS, so benefit is uncertain and harm is possible. Package insert safety information is also still missing.
 
 **To proceed, the following is needed:**
-
-- **Mechanistic clarification**: Obtain complete MOA data from DrugBank (DG002) to formally evaluate α vs. β receptor selectivity and relevance to POTS pathophysiology
-- **Safety baseline**: Retrieve TFDA (or equivalent) package insert for full warnings and contraindications (DG001) before any clinical consideration
-- **Preclinical evidence**: Generate in vitro/in vivo data on Mephentermine's effect on heart rate and venous capacitance in POTS models before advancing — this is the minimum scientific threshold given the mechanistic contradiction
-- **Comparator analysis**: Benchmark against Midodrine and Fludrocortisone (established POTS therapies) to identify whether a mixed adrenergic agent offers any differentiated benefit
-- **Regulatory feasibility assessment**: Given zero Indian market presence, a full registration pathway analysis would be required prior to any clinical development
+- Package insert warnings and contraindications from the India regulator or manufacturer (currently a blocking gap for safety screening)
+- Mechanism of action data from DrugBank to allow a proper mechanistic analysis
+- Approved indication text for the registered products
+- A literature and clinical trial search for sympathomimetics in POTS to see whether any supporting or opposing evidence exists
+- A cardiac safety assessment (heart rate and arrhythmia risk) before any exploratory study is considered
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

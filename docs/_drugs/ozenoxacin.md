@@ -2,7 +2,7 @@
 layout: default
 title: Ozenoxacin
 parent: Model Prediction Only (L5)
-nav_order: 629
+nav_order: 635
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,61 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ozenoxacin: From Impetigo to Malaria
+# Ozenoxacin: From Acne to Malaria
 
 ## One-Sentence Summary
 
-Ozenoxacin is a topical, non-fluorinated quinolone antibacterial originally used to treat impetigo caused by susceptible Gram-positive skin bacteria. The TxGNN model predicts it may be effective for **Malaria**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it rests entirely on structural analogy within the quinolone compound family, not on any documented antiparasitic evidence.
+Ozenoxacin is a topical non-fluorinated quinolone antibacterial, originally used to treat acne.
+The TxGNN model predicts it may be effective for **malaria**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Impetigo (topical Gram-positive skin infections) — noted in evidence rationale; not confirmed via a Taiwan license record, as the drug is not marketed in Taiwan |
+| Original Indication | Acne |
 | Predicted New Indication | Malaria |
 | TxGNN Prediction Score | 99.16% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap). Based on known information, Ozenoxacin is a topical non-fluorinated quinolone antibacterial that inhibits bacterial DNA gyrase and topoisomerase IV, and it has proven efficacy against Gram-positive bacteria in impetigo.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, ozenoxacin is a topical quinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Its efficacy in acne is attributed to this antibacterial activity.
 
-Malaria, by contrast, is caused by *Plasmodium* protozoan parasites replicating via apicoplast DNA machinery. Some quinolone-family compounds have loosely analogous structural scaffolds to agents explored against apicoplast DNA replication, which is likely why the knowledge graph surfaced this association. However, there is no direct pharmacological or clinical evidence that ozenoxacin itself has antiplasmodial activity — the link is a structural class analogy rather than a validated mechanistic pathway.
+The plausible link to malaria is theoretical. The *Plasmodium* apicoplast contains a gyrase-like target, which gives a conceptual basis for quinolone activity against the parasite. However, ozenoxacin is formulated only for topical use, with minimal systemic exposure. Malaria is a bloodborne infection, so a cream is unlikely to reach therapeutic concentrations at the site of disease.
 
-Given that ozenoxacin is a topical formulation with only local skin bacterial activity demonstrated, and malaria requires systemic antiparasitic exposure, the mechanistic plausibility of this prediction is weak. This is reflected in the L5 evidence tier (model prediction only, no supporting studies).
+The high TxGNN score (0.99) reflects knowledge-graph proximity, not clinical or experimental support. Other top-ranked predictions (for example PAPA syndrome, spondyloarthropathy, Zollinger-Ellison syndrome, and elevated plasma zinc) have no plausible mechanistic link and look like knowledge-graph artifacts. Among the ten predictions, demodicidosis of the sebaceous gland is the most anatomically plausible for a topical agent, because it affects the same pilosebaceous unit as acne. Even so, ozenoxacin has no known acaricidal activity, so this remains speculative.
 
-## Clinical Trial Evidence
+---
 
-Currently no related clinical trials registered.
+## India Market Information
 
-## Literature Evidence
+All 20 registrations are valid single-ingredient topical creams. The approved indication text is not available. The main authorizations are listed below.
 
-Currently no related literature available.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 199925 | S-Clear Cream | Cream, tube of 10 gm | Alkem Laboratories Ltd |
+| 26555 | B-Oze Cream | Cream, tube of 10 gm | Oaknet Healthcare Pvt Ltd |
+| 162775 | Ozx Cream | Cream, tube of 5 gm | Glowderma Labs Pvt Ltd |
+| 162701 | Ozebrut Cream | Cream, tube of 5 gm | Mankind Pharma Ltd |
+| 150370 | Noxa Cream | Cream, tube of 5 gm | Indoco Remedies Ltd |
 
-## Taiwan Market Information
-
-Ozenoxacin is not currently marketed in Taiwan (0 registrations), so no license records are available to summarize.
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are all currently unavailable — TFDA label data is flagged as a Blocking data gap, and no DDI database match was found due to a missing local data file.)
+Please refer to the package insert for safety information. No drug interaction records were found in the data compiled for this report.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN model score, there is zero clinical trial or literature support for an ozenoxacin–malaria link, and the mechanistic rationale is speculative (structural class analogy only, contradicted by the drug's topical-only, Gram-positive-only activity profile). Safety data needed for even a preliminary review is also missing.
+The prediction rests on model score alone (Evidence Level L5), with no clinical trials or literature. The topical-only formulation is also poorly suited to a systemic bloodborne infection such as malaria.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings and contraindications data (currently a Blocking gap)
-- Confirmed mechanism of action data from DrugBank (currently a High-severity gap)
-- Any in vitro/preclinical evidence of antiplasmodial activity for ozenoxacin specifically (not just the quinolone class)
-- DDI database repair/reload (local ddinter data file is missing, causing query errors)
-- Re-run evidence search periodically, as this candidate currently sits at decision stage S0 with no trial or literature signal
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- Detailed mechanism of action data
+- In vitro data on ozenoxacin activity against *Plasmodium*
+- Evidence that adequate systemic exposure is achievable, or a different formulation, since only topical creams are currently marketed
+- Reassessment of more plausible topical indications, such as demodicidosis of the sebaceous gland, if further evidence emerges
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

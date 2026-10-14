@@ -2,7 +2,7 @@
 layout: default
 title: Granisetron
 parent: Model Prediction Only (L5)
-nav_order: 398
+nav_order: 402
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,64 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Granisetron: From Antiemetic Use to Manic Bipolar Affective Disorder
+# Granisetron: From Chemotherapy-Associated Nausea and Vomiting to Manic Bipolar Affective Disorder
 
 ## One-Sentence Summary
 
-Granisetron is a selective 5-HT3 receptor antagonist, pharmacologically used to control nausea and vomiting via action on the peripheral and medullary vomiting center. TxGNN predicts a possible link to **manic bipolar affective disorder**, but this direction is currently supported by **0 clinical trials** and **0 publications** — a pure computational (L5) prediction with no real-world evidence behind it.
+Granisetron is a selective 5-HT3 receptor antagonist that is widely marketed in India as an antiemetic. The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, but **no clinical trials and no publications** were found to support this direction, so the prediction rests on the computational score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No India-market indication text available (drug not marketed); pharmacologically classified as an antiemetic (5-HT3 receptor antagonist) |
+| Original Indication | Not stated in the Indian licence records compiled for this report (granisetron is generally known as an antiemetic) |
 | Predicted New Indication | Manic bipolar affective disorder |
 | TxGNN Prediction Score | 99.62% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed structured mechanism-of-action data is not available for Granisetron in this evidence pack. Based on the information that is available, Granisetron acts as a selective 5-HT3 receptor antagonist, working mainly on peripheral vagal afferents and the medullary vomiting center — the pharmacological basis for its established antiemetic use.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Granisetron is generally described as a selective 5-HT3 receptor antagonist. Its established use is to prevent nausea and vomiting, although none of the 20 Indian licence entries lists an approved indication text.
 
-The proposed link to manic bipolar affective disorder rests on the broader theory that serotonergic signaling participates in mood regulation (a hypothesis explored with other 5-HT3 antagonists such as ondansetron in psychiatric research). However, mania is understood to be driven primarily by dopaminergic and noradrenergic dysregulation, not 5-HT3 antagonism specifically, so there is no direct pharmacological pathway connecting Granisetron's known action to this indication.
+The proposed link to manic bipolar disorder is hypothetical. 5-HT3 antagonism has been suggested to modulate dopaminergic and serotonergic signalling in the central nervous system, and these pathways are implicated in mood disorders. No trials or publications were supplied to test this idea, so the high score (0.996) should be read as a computational association only.
 
-Given this gap, the TxGNN score likely reflects indirect co-occurrence of serotonin-related nodes in the knowledge graph rather than a validated pharmacological mechanism. This caution extends to the other 9 candidates TxGNN generated for Granisetron (e.g., conjunctivitis, angioedema, urticaria, bronchitis) — each carries the same L5/Hold status, and several of their own mechanistic rationales explicitly flag the prediction as likely knowledge-graph noise rather than a genuine repurposing signal.
+Other top-ranked predictions have varying degrees of biological plausibility. Tourette syndrome (99.5%) and trichotillomania (99.2%) have loose serotonergic or dopaminergic rationales. Allergic urticaria (99.3%) has a weak itch-related rationale. Several others, such as nephrogenic syndrome of inappropriate antidiuresis, contagious conjunctivitis and bronchitis, have no evident mechanistic connection. All ten predictions are at evidence level L5.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+## India Market Information
+
+Twenty valid single-ingredient registrations exist and none are cancelled. The licence records contain no approved indication text. The first five registrations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 98677 | Granipel Oral Drops (Pelzar Healthcare) | Bottle of 15 ml oral drops | Not stated |
+| 78780 | Emergan 1mg Injection (H & Care Incorp) | Vial of 3 ml injection | Not stated |
+| 9427 | Anset G 3mg Injection (Bennet Mypher Pharmaceuticals LLP) | Vial of 3 ml injection | Not stated |
+| 97683 | Grawel 1mg Tablet (Zee Laboratories) | Strip of 4 tablets | Not stated |
+| 94658 | Graniset 1 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 4 tablets | Not stated |
+
+Available routes are oral (drops, tablets, orally disintegrating and dispersible tablets) and injectable (1 ml and 3 ml presentations). Route compatibility with the predicted indication has not been assessed.
 
 ## Safety Considerations
 
-**Drug Interactions**: DrugBank/DDInter records 461 total interactions for Granisetron. Of the sample reviewed, the following are flagged **Major**:
-- Fentanyl, Dextromethorphan, Tramadol, Alfentanil, Almotriptan, Sumatriptan, Amiodarone, Amisulpride, Amitriptyline, Anagrelide
+- **Knowledge-graph contraindication signals**: Drug–disease contraindication links in the TxGNN knowledge graph (not label text) include long QT syndrome, familial long QT syndrome, potassium deficiency disease, sudden cardiac arrest and heart conduction disease. These point to a QT-prolongation and arrhythmia concern.
+- **Drug Interactions**: The interaction query returned 461 interacting drugs. The 20 examples compiled include these Major-level interactions:
+  - Opioids and analgesics: fentanyl, alfentanil, tramadol, dextromethorphan
+  - Triptans: almotriptan, sumatriptan
+  - QT-relevant or cardiac drugs: amiodarone, amisulpride, amitriptyline, anagrelide
+- **Moderate-level examples**: abametapir (topical), abiraterone, dihydrocodeine, codeine, famotidine, formoterol, adenosine, salbutamol, alfuzosin and propofol.
 
-The following are flagged **Moderate**:
-- Abametapir (topical), Abiraterone, Dihydrocodeine, Codeine, Famotidine, Formoterol, Adenosine, Salbutamol, Alfuzosin, Propofol
-
-Given the volume of interactions (461 total) and the presence of multiple Major-level flags involving opioids, triptans, and QT-prolonging agents, a full interaction screen against the patient's concurrent medication list is warranted before any use.
-
-Structured warnings and contraindications (e.g., from a TFDA-approved label) are not currently available for this drug.
+This matters for a bipolar disorder population, where antipsychotics, antidepressants and other QT-prolonging or serotonergic drugs are commonly co-prescribed. Package insert warnings and contraindications were not available, so please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication (manic bipolar affective disorder) has zero supporting clinical trials or literature, and the drug's own mechanism (5-HT3 antagonism) has no established pathophysiological link to mania. This is a pure TxGNN computational signal (L5) that the underlying evidence pack itself flags as possible knowledge-graph noise.
+The prediction for manic bipolar affective disorder is supported only by a model score (L5), with no registered trials or publications. The mechanistic link is speculative, and the cardiac-conduction signals and interaction burden are relevant to a population likely to take multiple psychotropic drugs.
 
 **To proceed, the following is needed:**
-- TFDA-equivalent label data (warnings/contraindications) — currently a Blocking data gap preventing any S1 safety review
-- Structured mechanism-of-action data from DrugBank — currently a High-severity data gap
-- Any preclinical or mechanistic studies directly linking 5-HT3 antagonism to mood/mania pathways, if this direction is to be pursued further
-- Confirmation of India market/regulatory status, since the drug is currently unmarketed with zero registrations
+- Package insert warnings, contraindications and approved indications from the Indian regulatory source
+- Mechanism of action data from DrugBank
+- A systematic literature and trial search on 5-HT3 antagonists in mania or bipolar disorder
+- Preclinical or mechanistic evidence linking 5-HT3 antagonism to mood regulation
+- A QT and interaction risk assessment for co-medication with psychotropic drugs
+- A comparison with the other top predictions (such as Tourette syndrome and trichotillomania) to decide which has the strongest rationale for further study
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Vinpocetine
-parent: Moderate Evidence (L3-L4)
-nav_order: 884
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 893
+evidence_level: L5
 indication_count: 7
 ---
 
 # Vinpocetine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-# Vinpocetine: From Cerebrovascular Disorders to Coronary Artery Disease
+# Vinpocetine: From Dementia to Coronary Artery Disease
 
 ## One-Sentence Summary
 
-> Vinpocetine is internationally used for cerebrovascular disorders and age-related memory impairment, acting as a phosphodiesterase 1 (PDE1) inhibitor.
-> The TxGNN model predicts it may be effective for **Coronary Artery Disease**,
-> but this direction is currently supported only by **3 pieces of literature** (mostly older observational/animal studies) and **no registered clinical trials**.
+Vinpocetine is a drug originally used for dementia and cerebrovascular and cognitive disorders.
+The TxGNN model predicts it may be effective for **Coronary Artery Disease**,
+but **no clinical trials** and only **2 loosely related publications** (neither specific to coronary disease) currently support this prediction. The evidence is essentially computational.
 
 ---
 
@@ -43,29 +43,31 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not officially registered in India; internationally described (DrugBank pharmacology data) for cerebrovascular disorders and age-related memory impairment |
-| Predicted New Indication | Coronary Artery Disease |
+| Original Indication | Dementia |
+| Predicted New Indication | Coronary artery disease |
 | TxGNN Prediction Score | 99.90% |
-| Evidence Level | L4 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 13 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-No structured `original_moa` record is currently available for Vinpocetine. However, pharmacology target data confirms it acts as an inhibitor of **phosphodiesterase 1A and 1C (PDE1A/PDE1C)**. By blocking PDE1-mediated hydrolysis of cyclic nucleotides, Vinpocetine raises intracellular cAMP/cGMP levels, producing vasodilation, inhibition of platelet aggregation, and improved microcirculation — this is the pharmacological basis of its established international use in cerebrovascular disorders and age-related memory impairment.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, vinpocetine inhibits phosphodiesterase 1 (PDE1A and PDE1C are listed as targets), which raises cyclic nucleotide levels and promotes vasodilation. It is also described as a voltage-gated sodium channel blocker with anti-inflammatory activity (for example, IKK inhibition).
 
-The proposed link to coronary artery disease is a mechanistic extrapolation: cerebral and coronary circulation share vasodilatory and platelet-related pathways, so a PDE1-driven increase in blood flow could theoretically extend from the brain to the heart. However, the existing literature evidence is concentrated almost entirely on the **cerebrovascular system**, not on coronary atherosclerosis pathology (e.g., plaque stability, lipid metabolism). The connection to CAD is therefore indirect inference rather than disease-specific mechanistic evidence.
+Its established uses are in cerebrovascular disorders and age-related memory impairment, where it is thought to increase cerebral blood flow and provide neuroprotection. Coronary artery disease is also a vascular disease, so a vasodilatory and anti-inflammatory drug could plausibly be relevant.
 
-Some older Soviet/Hungarian observational studies (e.g., hemodynamic and adenosine metabolism effects in atherosclerosis patients) hint at a broader vascular benefit, but these predate modern trial standards and were not designed with CAD-specific endpoints. Overall, the biological plausibility is reasonable but the direct disease-specific evidence remains weak.
+This link is indirect. The available literature covers cerebrovascular disease and hypoxic pulmonary vascular remodelling, not coronary artery disease. The high TxGNN score is a computational prediction only.
+
+Related preclinical work exists for a neighbouring indication, **myocardial ischemia** (ranked second). Two animal studies report cardioprotective effects of vinpocetine, one in isoproterenol-induced myocardial infarction in rats (2019) and one in mouse ischemia/reperfusion injury (2026). This supports a cardiovascular signal, but only in animals.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
@@ -73,23 +75,30 @@ Currently no related clinical trials registered
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [17631470](https://pubmed.ncbi.nlm.nih.gov/17631470/) | 2007 | Review | Orvosi hetilap | Reviews vinpocetine's role in cerebrovascular disease; notes coronary artery disease as the second leading cause of death after cerebrovascular disease, and highlights the importance of restoring cerebral blood flow in hypoperfused patients |
-| [3188457](https://pubmed.ncbi.nlm.nih.gov/3188457/) | 1988 | Cohort | Vrachebnoe delo | Small clinical hemodynamic study of kavinton (vinpocetine) on hemodynamics and adenosine metabolism in atherosclerosis patients |
-| [15377497](https://pubmed.ncbi.nlm.nih.gov/15377497/) | 2005 | Experimental (animal/vascular) | Am J Physiol Lung Cell Mol Physiol | PDE inhibitors potentiate prostacyclin analog effects on hypoxic pulmonary vascular remodeling; supports PDE-mediated vasoactive mechanism, but in pulmonary rather than coronary vasculature |
+| [17631470](https://pubmed.ncbi.nlm.nih.gov/17631470/) | 2007 | Review | Orvosi Hetilap | Reviews human studies of vinpocetine in cerebrovascular disease. Increasing cerebral blood flow may help patients with chronic hypoperfusion. Not specific to coronary disease. |
+| [15377497](https://pubmed.ncbi.nlm.nih.gov/15377497/) | 2005 | Preclinical | Am J Physiol Lung Cell Mol Physiol | cAMP phosphodiesterase inhibitors potentiate prostacyclin analogs in hypoxic pulmonary vascular remodelling. Indirect, non-coronary evidence. |
 
 ---
 
 ## India Market Information
 
-Vinpocetine is **not currently marketed in India**; no CDSCO product registrations are on file, so no authorization/license table is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 35786 | COGNITOL 5 MG TABLET (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not specified |
+| 40975 | Cogvin 10mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified |
+| 36214 | Cogvin 5mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified |
+| 150661 | Neurovin Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not specified |
+| 28592 | Brainpro 10mg Tablet (Vatican Life Sciences Pvt Ltd) | Strip of 10 tablets | Not specified |
+
+There are 13 valid single-ingredient registrations in total, all oral tablets.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: The interaction query completed with 2 entries. Both are pharmacological target relationships rather than drug-drug interactions: vinpocetine acts on phosphodiesterase 1A (PDE1A) and phosphodiesterase 1C (PDE1C). No interaction severity levels are available.
 
-*(Note: key warnings and contraindications data are currently unavailable. Pharmacology database records show Vinpocetine binds PDE1A and PDE1C as its known targets, but no formal drug-drug interaction data has been compiled.)*
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -98,13 +107,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Evidence for the coronary artery disease indication is limited to Evidence Level L4 (mechanistic/preclinical and older, non-CAD-specific observational studies), with no registered clinical trials evaluating this indication directly. Combined with the drug not being marketed in India and a **Blocking** data gap on package-insert warnings/contraindications (required for initial safety screening), the evidence base is not yet sufficient to advance beyond a research question.
+The coronary artery disease prediction rests only on a computational score. There are no clinical trials, and the supplied literature does not address coronary disease. Animal data for the related indication of myocardial ischemia are encouraging but preclinical.
 
 **To proceed, the following is needed:**
-- India (CDSCO)-equivalent package insert warnings and contraindications (currently a Blocking data gap)
-- Structured mechanism-of-action data from DrugBank (currently a High-severity data gap)
-- Dedicated clinical trials or controlled studies evaluating Vinpocetine specifically in coronary artery disease/myocardial ischemia populations
-- Confirmation of India market/regulatory pathway if development is pursued
+- Package insert warnings and contraindications from the Indian regulatory sources, which is a blocking gap for safety screening
+- Detailed mechanism-of-action data (for example, from DrugBank)
+- Direct evidence in coronary artery disease, such as targeted literature searches or preclinical models
+- Further evaluation of myocardial ischemia as a more evidence-supported research question
+- Human cardiac safety and efficacy data before any clinical development
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

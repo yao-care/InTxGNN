@@ -29,84 +29,65 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Blonanserin: From Schizophrenia to Retinal Dystrophy with or without Extraocular Anomalies
+# Blonanserin: From Schizophrenia to Retinal Dystrophy (With or Without Extraocular Anomalies)
 
 ## One-Sentence Summary
 
-Blonanserin is an atypical antipsychotic approved in Japan (marketed as Lonasen®), primarily acting as a D2/D3 and 5-HT2A receptor antagonist for the treatment of schizophrenia.
-The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, with a prediction score of **99.98%** — however, there are currently **0 clinical trials** and **0 publications** supporting this direction.
-This prediction is classified as a model-only signal and warrants careful scrutiny before any further development.
-
----
+Blonanserin is an atypical antipsychotic originally used to treat schizophrenia.
+The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Schizophrenia (approved in Japan) |
+|------|------|
+| Original Indication | Schizophrenia |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 18 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the India regulatory dataset. Based on pharmacological target data, Blonanserin (CAS 132810-10-7) is a synthetic organic compound that antagonises the **D2/D3 dopamine receptors** (DRD2, gene ID 1813) and **5-HT2A serotonin receptors** (HTR2A, gene ID 3356). This dual receptor blockade profile is the basis for its antipsychotic activity in schizophrenia treatment.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, blonanserin is a dopamine D2/D3 and serotonin 5-HT2A receptor antagonist. Its efficacy in schizophrenia is established, and it is approved for that use in Japan. The pharmacology data compiled for this report confirm binding to the 5-HT2A receptor (HTR2A) and the D2 receptor (DRD2).
 
-Retinal dystrophy with or without extraocular anomalies is a group of hereditary, progressive photoreceptor and retinal pigment epithelium (RPE) degenerative diseases driven by genetic mutations such as RPGR and RPGRIP1L. While the retina does contain dopaminergic amacrine neurons — which modulate contrast sensitivity and circadian adaptation — their functional role is distinct from the genetic and structural mechanisms underlying inherited retinal dystrophy. Blonanserin's D2/5-HT2A antagonism has no known pharmacological intersection with photoreceptor structural maintenance or genetic defect repair pathways.
+No mechanistic link to retinal dystrophy is supported by the available data. No retinal target or pathway connection has been documented, and the original mechanism of action record is incomplete. The high TxGNN score (99.98%) is a computational prediction only. It has no clinical or literature corroboration, so it should be treated as a hypothesis-generating signal rather than a rational basis for treatment.
 
-The TxGNN model produces a high numerical score for this pairing, but this is most likely a **model false positive**. The biological plausibility is very low: the primary pathology in retinal dystrophy is irreversible photoreceptor degeneration driven by structural gene mutations, a disease mechanism that dopamine receptor modulation cannot address. This prediction does not rise above a speculative computational association at this time.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+Other top-ranked predictions are similarly unsupported. They include congenital disorder of glycosylation with defective fucosylation, Charcot-Marie-Tooth disease type 1G, hydranencephaly, a polymicrogyria syndrome, several myopia subtypes, and atypical glycine encephalopathy. All have scores of about 99.96–99.97% and no trials or publications. For the myopia entries, retinal dopamine signalling is loosely associated with eye growth regulation, but the direction of effect for a D2 antagonist is uncertain and could be unfavourable.
 
 ## India Market Information
 
-Blonanserin is currently **not registered or marketed in India**. No product licenses are on file.
+18 valid single-ingredient registrations were found, all oral tablets. None of the records include approved indication text. The main authorizations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 32559 | Blonet 2mg Tablet (Shatayushi Healthcare) | Strip of 10 tablets | Not stated |
+| 72896 | Elicia 4 Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
+| 73328 | Elicia 8 Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
+| 26704 | Blonitas 8 Tablet (Intas Pharmaceuticals) | Strip of 10 tablets | Not stated |
+| 33159 | Blosana 4 Tablet (Ryon Pharma) | Strip of 10 tablets | Not stated |
 
 ## Safety Considerations
 
-**Drug-Receptor Interactions (Pharmacological Targets):**
-Based on available pharmacology data, Blonanserin acts on the following human receptors:
+Please refer to the package insert for safety information.
 
-- **5-HT2A receptor** (HTR2A, ENSG00000102468) — antagonism contributes to atypical antipsychotic profile
-- **D2 receptor** (DRD2, ENSG00000149295) — blockade underlies antipsychotic efficacy and extrapyramidal side-effect risk
-
-> For full prescribing warnings, contraindications, and drug interaction data, please refer to the Japanese package insert (Lonasen®), as India-specific labelling data is not available.
-
----
+The only interaction-related data compiled are receptor-level pharmacology records (5-HT2A and D2 receptor binding), not drug-drug interactions. No contraindication edges were found in the knowledge graph.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is zero clinical or preclinical evidence supporting Blonanserin's use in retinal dystrophy. The mechanistic link between D2/5-HT2A receptor antagonism and hereditary photoreceptor degeneration is not established, and the TxGNN high-score prediction is assessed as a likely model false positive for this indication.
+The prediction is supported only by the TxGNN model score. There are no clinical trials, no literature, and no plausible mechanistic link between D2/5-HT2A antagonism and retinal dystrophy. Evidence is at the lowest level (L5).
 
-**To proceed, the following would be needed:**
-
-- **Mechanistic validation**: Identify any credible biological pathway linking D2 or 5-HT2A receptor modulation to photoreceptor/RPE cell survival in retinal dystrophy models
-- **Preclinical proof-of-concept**: In vitro or in vivo studies in retinal dystrophy animal models (e.g., rd1, rd10 mice) before any human study could be considered
-- **India package insert / safety dossier**: Obtain TFDA/CDSCO-equivalent labelling data to complete the safety assessment (Data Gaps DG001 and DG002 must be resolved)
-- **DrugBank MOA data**: Retrieve full mechanism of action profile to enable proper mechanistic relevance scoring
-- **Regulatory pathway assessment**: Confirm whether Blonanserin would require a new drug application in India before any clinical investigation could begin
+**To proceed, the following is needed:**
+- Detailed mechanism of action data, and any evidence of retinal or ocular targets
+- Package insert warnings and contraindications from the India regulatory source, since safety screening cannot proceed without them
+- Preclinical studies (for example, retinal degeneration models) to test the hypothesis
+- A literature and trial search for the predicted indication
+- Assessment of whether an oral antipsychotic is a suitable route and risk profile for a chronic inherited retinal condition
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

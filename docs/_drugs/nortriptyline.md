@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nortriptyline
-parent: Moderate Evidence (L3-L4)
-nav_order: 604
-evidence_level: L3
+parent: High Evidence (L1-L2)
+nav_order: 609
+evidence_level: L2
 indication_count: 2
 ---
 
 # Nortriptyline
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **2** 
+Evidence Level: **L2** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,81 +29,94 @@ Evidence Level: **L3** | Predicted Indications: **2**
 
 </div>
 
-# Nortriptyline: From Depression to Attention-Deficit/Hyperactivity Disorder (ADHD)
+# Nortriptyline: From Anxiety Disorder to Attention Deficit-Hyperactivity Disorder
 
 ## One-Sentence Summary
 
-Nortriptyline is a tricyclic antidepressant (TCA) originally used to treat major depressive disorder.
-The TxGNN model predicts it may be effective for **Attention-Deficit/Hyperactivity Disorder (ADHD)**,
-with **0 registered clinical trials** but **20 supporting publications**, including a Cochrane systematic review and several controlled studies.
-
----
+Nortriptyline is a tricyclic antidepressant, with original indications in the knowledge graph of anxiety disorder, neurotic disorder and dysthymic disorder.
+The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**.
+Currently there are **no registered clinical trials**, but **15 publications** were retrieved, including a Cochrane review and a controlled trial in children and adolescents.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Major depressive disorder (TCA class); no Taiwan-approved indication text on file — drug is not marketed |
-| Predicted New Indication | Attention-Deficit/Hyperactivity Disorder (ADHD) |
+| Original Indication | Anxiety disorder, neurotic disorder, dysthymic disorder (from the knowledge graph; no approved indication text in the India licences) |
+| Predicted New Indication | Attention deficit-hyperactivity disorder |
 | TxGNN Prediction Score | 99.42% |
-| Evidence Level | L3 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
-
----
+| Evidence Level | L2 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, nortriptyline is a secondary-amine tricyclic antidepressant that primarily inhibits norepinephrine reuptake (with weaker serotonergic activity); its efficacy in major depressive disorder is well established.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known class pharmacology, nortriptyline is a tricyclic antidepressant that mainly inhibits norepinephrine reuptake, with weaker serotonin reuptake inhibition. A PET study in patients with depression (PMID 24345533) also examined norepinephrine transporter occupancy by nortriptyline.
 
-ADHD and depression are both neuropsychiatric conditions where noradrenergic and dopaminergic signaling play a central role in symptom control. Several publications in this evidence set (e.g., PMID 15064003, PMID 24345533) specifically note that nortriptyline's noradrenergic selectivity underlies its historical use as a second-line, non-stimulant ADHD treatment — particularly in patients who cannot tolerate stimulants or who have comorbid tic disorders/Tourette's syndrome.
+Noradrenergic enhancement in prefrontal circuits is the shared mechanism of approved non-stimulant ADHD drugs such as atomoxetine. A review of non-stimulant ADHD treatments (PMID 15064003) notes that these compounds share noradrenergic/dopaminergic activity. It also identifies the secondary-amine tricyclics, including nortriptyline, as established alternative treatments.
 
-Mechanistically, this makes the TxGNN prediction plausible: nortriptyline's noradrenergic reuptake inhibition is a recognized pathway for ADHD symptom control (shared by other non-stimulant agents such as atomoxetine), and clinical use of TCAs for ADHD already has decades of documented, if limited, precedent.
+The original indications (anxiety, neurotic and dysthymic disorders) and ADHD are all psychiatric conditions, and ADHD often co-occurs with mood and anxiety disorders. The prediction is therefore biologically plausible. Its clinical use is limited by a narrow therapeutic index, cardiac conduction effects, anticholinergic effects and overdose toxicity.
 
----
+A second predicted indication, ADHD inattentive type (score 99.33%), is a subtype of the same condition. It has no supporting trials or literature and is rated L4 / Hold. It is not evaluated further here.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [25238582](https://pubmed.ncbi.nlm.nih.gov/25238582/) | 2014 | Systematic Review (Cochrane) | Cochrane Database of Systematic Reviews | Reviewed TCAs, including nortriptyline, as second-line ADHD treatment in children/adolescents |
-| [11052409](https://pubmed.ncbi.nlm.nih.gov/11052409/) | 2000 | Controlled Study | Journal of Child and Adolescent Psychopharmacology | Assessed efficacy and tolerability of nortriptyline in pediatric ADHD |
-| [22700161](https://pubmed.ncbi.nlm.nih.gov/22700161/) | 2012 | RCT | Pediatric Nephrology | Randomized double-blind trial of nortriptyline for enuresis in children with ADHD |
-| [7807071](https://pubmed.ncbi.nlm.nih.gov/7807071/) | 1995 | Systematic Assessment | Journal of Nervous and Mental Disease | Systematic assessment of TCAs, including nortriptyline, in adult ADHD |
-| [15064003](https://pubmed.ncbi.nlm.nih.gov/15064003/) | 2004 | Review | Psychiatric Clinics of North America | Notes nortriptyline as an established but narrow-therapeutic-index nonstimulant ADHD option |
-| [8428873](https://pubmed.ncbi.nlm.nih.gov/8428873/) | 1993 | Case Series | Journal of the American Academy of Child and Adolescent Psychiatry | Nortriptyline used in children with ADHD and comorbid tic disorder/Tourette's syndrome |
-| [12270803](https://pubmed.ncbi.nlm.nih.gov/12270803/) | 2002 | Review | Adolescent Medicine | Lists nortriptyline among TCAs with documented anti-ADHD activity in adolescents |
-| [15794722](https://pubmed.ncbi.nlm.nih.gov/15794722/) | 2005 | Review | Expert Opinion on Drug Safety | Reviews safety of nonstimulant ADHD agents, including TCAs such as nortriptyline |
-| [8444754](https://pubmed.ncbi.nlm.nih.gov/8444754/) | 1993 | Retrospective Study | Journal of the American Academy of Child and Adolescent Psychiatry | Retrospective review of serum levels and ECG effects of nortriptyline in children/adolescents |
-| [4075308](https://pubmed.ncbi.nlm.nih.gov/4075308/) | 1985 | Case Report | Clinical Neuropharmacology | Early report of nortriptyline use in attention deficit disorder |
+| [25238582](https://pubmed.ncbi.nlm.nih.gov/25238582/) | 2014 | Cochrane systematic review | Cochrane Database Syst Rev | Reviews tricyclic antidepressants as second-line treatment for ADHD in children and adolescents |
+| [11052409](https://pubmed.ncbi.nlm.nih.gov/11052409/) | 2000 | RCT | J Child Adolesc Psychopharmacol | Controlled study of nortriptyline efficacy and tolerability in pediatric ADHD |
+| [22700161](https://pubmed.ncbi.nlm.nih.gov/22700161/) | 2012 | Randomized double-blind trial | Pediatr Nephrol | Nortriptyline for enuresis in children with ADHD |
+| [15064003](https://pubmed.ncbi.nlm.nih.gov/15064003/) | 2004 | Review | Psychiatr Clin North Am | Non-stimulant treatments for adult ADHD; nortriptyline and desipramine are the more noradrenergic tricyclics, but a narrow therapeutic index and cardiovascular toxicity limit their use |
+| [12270803](https://pubmed.ncbi.nlm.nih.gov/12270803/) | 2002 | Review | Adolesc Med | Lists nortriptyline among tricyclics effective for ADHD in adolescents |
+| [22303520](https://pubmed.ncbi.nlm.nih.gov/22303520/) | 2012 | Guideline | Ann Clin Psychiatry | CANMAT recommendations for mood disorders with comorbid ADHD |
+| [8428873](https://pubmed.ncbi.nlm.nih.gov/8428873/) | 1993 | Open-label/cohort | J Am Acad Child Adolesc Psychiatry | Nortriptyline in children with ADHD and tic disorder or Tourette's syndrome |
+| [8444763](https://pubmed.ncbi.nlm.nih.gov/8444763/) | 1993 | Chart review | J Am Acad Child Adolesc Psychiatry | Chart review of 58 children and adolescents with ADHD treated with nortriptyline |
+| [8444754](https://pubmed.ncbi.nlm.nih.gov/8444754/) | 1993 | Retrospective study | J Am Acad Child Adolesc Psychiatry | Serum levels and ECG effects of nortriptyline in children and adolescents |
+| [4075308](https://pubmed.ncbi.nlm.nih.gov/4075308/) | 1985 | Early clinical report | Clin Neuropharmacol | Early report of nortriptyline in attention deficit disorder |
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 158104 | Norhap 25mg Tablet | Strip of 10 tablets | Not stated in the data |
+| 151869 | Nordep 25mg Tablet | Strip of 10 tablets | Not stated in the data |
+| 229119 | Tyval 75mg Tablet | Strip of 10 tablets | Not stated in the data |
+| 158368 | Notrima 25mg Tablet | Strip of 10 tablets | Not stated in the data |
+| 232875 | Unotrip 15mg Tablet | Strip of 10 tablets | Not stated in the data |
+
+There are 20 valid single-ingredient licences in total (all oral tablets); the five main ones are shown.
 
 ## Safety Considerations
 
-- **Drug Interactions**: DDI database records **295 total interactions** for nortriptyline. Among the sampled interactions, several are flagged **Major**: Epinephrine, Bupropion, Lorcaserin, Potassium citrate, and Dolasetron. Moderate-level interactions include Famotidine, Cimetidine, Clarithromycin, and several anticholinergic agents (Atropine, Hyoscyamine, Glycopyrronium, Dicyclomine).
+- **Contraindications (knowledge graph, not label text)**:
+  - Cardiac: long QT syndrome, familial long QT syndrome, torsades de pointes, myocardial infarction, coronary thrombosis, sudden cardiac arrest, heart conduction disease
+  - Cerebrovascular: stroke, cerebrovascular disorder, cerebral infarction
+  - Neuropsychiatric: epilepsy, manic bipolar affective disorder, substance abuse/dependence
+  - Ocular and urological: open-angle glaucoma, glaucoma, benign prostatic hyperplasia
+  - Thyroid: hyperthyroidism, Graves disease, thyrotoxicosis
+  - Organ failure and blood: liver failure, kidney failure, uremia, hemoglobinopathy
+- **Drug Interactions**: 295 interactions recorded. Major-level examples include epinephrine, bupropion, lorcaserin, potassium citrate and dolasetron. Moderate-level examples include famotidine, cimetidine, clarithromycin, morphine, and anticholinergics such as atropine, hyoscyamine, glycopyrronium and dicyclomine. CYP2D6-related interactions are also relevant.
+- **Class-related concerns**: Cardiac conduction effects (QTc/PR prolongation), anticholinergic effects and overdose toxicity. In children, the ECG effects of nortriptyline have been examined (PMID 8444754).
 
----
+Please refer to the package insert for label-based warnings, as these were not available for this report.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-No clinical trials are registered specifically for nortriptyline in ADHD, and the local Taiwan safety label/warning data (DG001) is a **Blocking** gap that prevents entry into initial safety (S1) assessment. While literature support (Cochrane review + several controlled studies) is encouraging, it is not sufficient to proceed without local safety documentation.
+The evidence rests on one controlled trial (PMID 11052409), a Cochrane review of tricyclics, and several reviews and observational studies. These support efficacy in ADHD, but no registered trials back the indication. The cardiac and interaction risks are substantial, so any further work needs strict safety guardrails.
 
 **To proceed, the following is needed:**
-- TFDA package insert warnings/contraindications (DG001, Blocking)
-- Confirmed mechanism of action documentation (DG002, High)
-- A defined regulatory pathway, since nortriptyline is currently not marketed in Taiwan (0 licenses)
-- Classification of the literature evidence base (study type/tier currently marked "pending") to formally confirm the L3 evidence level
+- India package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- Cardiac screening plan (baseline and follow-up ECG) and exclusion of patients with the contraindicated conditions listed above
+- Interaction management plan, especially for CYP2D6 inhibitors and QT-prolonging drugs
+- Confirmation of efficacy in adults, and of the practical role of nortriptyline relative to approved non-stimulants such as atomoxetine
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

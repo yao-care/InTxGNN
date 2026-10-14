@@ -2,7 +2,7 @@
 layout: default
 title: Pegaptanib
 parent: Model Prediction Only (L5)
-nav_order: 645
+nav_order: 651
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Pegaptanib: From Neovascular Age-Related Macular Degeneration to Esophageal Varices with Bleeding
+# Pegaptanib: From Macular Degeneration to Esophageal Varices with Bleeding
 
 ## One-Sentence Summary
 
-Pegaptanib is an anti-VEGF165 aptamer originally developed for neovascular (wet) age-related macular degeneration. The TxGNN model predicts potential efficacy for **esophageal varices with bleeding**, but this direction is currently supported by **zero clinical trials** and **zero publications** — it rests entirely on a theoretical mechanistic hypothesis.
+Pegaptanib was originally used to treat macular degeneration.
+The TxGNN model predicts it may be effective for **esophageal varices with bleeding** (and also esophageal varices without bleeding),
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Neovascular (wet) age-related macular degeneration |
-| Predicted New Indication | Esophageal varices with bleeding |
+| Original Indication | Macular degeneration |
+| Predicted New Indication | Esophageal varices with bleeding (a second prediction, esophageal varices without bleeding, has the same score) |
 | TxGNN Prediction Score | 99.19% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed DrugBank mechanism-of-action text is not yet available for pegaptanib in this evidence pack (flagged as a High-severity data gap). Based on known pharmacology, pegaptanib is an anti-VEGF165 aptamer that inhibits angiogenesis, and this mechanism is what underlies its proven efficacy in neovascular AMD.
+Detailed mechanism of action data is not available in the data compiled for this report. From general knowledge, pegaptanib is a pegylated RNA aptamer that selectively binds VEGF-165, and it is used for macular degeneration, where VEGF-driven angiogenesis plays a central role.
 
-The proposed link to esophageal varices rests on the observation that portosystemic collateral vessel formation in portal hypertension has, in animal models, been associated with VEGF signaling — so an anti-VEGF agent could theoretically reduce collateral vessel growth. However, this connection is a mechanistic hypothesis only; no human data (for pegaptanib or any anti-VEGF agent) support use in esophageal variceal bleeding.
+A theoretical link to esophageal varices exists. VEGF-driven angiogenesis and the hyperdynamic splanchnic circulation contribute to portal hypertension and the formation of portosystemic collaterals, including varices. Blocking VEGF could in principle reduce this process.
 
-Importantly, this hypothesis contains an internal tension worth flagging explicitly: anti-VEGF agents are systemically associated with a known bleeding tendency, which is directly at odds with using the drug to manage or prevent variceal **bleeding** in cirrhotic/portal-hypertensive patients. A closely related candidate — esophageal varices *without* bleeding (rank 2, same TxGNN score) — was also predicted, but carries the same lack of evidentiary support.
+However, the link is speculative. Pegaptanib is given by intravitreal injection with minimal systemic exposure, so it is unlikely to reach the portal or splanchnic circulation at relevant levels. The score for the bleeding and non-bleeding forms is identical (0.992), which suggests it reflects a shared disease-node feature rather than evidence specific to each indication. Systemic anti-VEGF agents can also impair hemostasis and wound healing and carry bleeding risk, which is a particular concern in active variceal hemorrhage. Standard care (non-selective beta-blockers, endoscopic band ligation) is well established, so any repurposing would need preclinical support first.
 
 ## Clinical Trial Evidence
 
@@ -65,27 +67,29 @@ Currently no related literature available.
 
 ## India Market Information
 
-Pegaptanib is not currently marketed (0 registrations on file); no authorization records are available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 142632 | Macugen 0.3mg Infusion (Pfizer Ltd) | Bottle of 90 ml infusion (injectable) | Not stated in the available data |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-*(Note: the mechanistic rationale above independently flags a plausible bleeding-risk concern specific to this indication — anti-VEGF agents carry a known bleeding-tendency side effect, which is mechanistically discordant with treating variceal bleeding. This should be treated as a safety signal pending confirmed labeling data.)*
+No drug interaction records were found for this drug. Note that systemic anti-VEGF agents carry bleeding and impaired wound-healing risks, which would be a particular concern in active variceal hemorrhage.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate is evidence level L5 — a model prediction with no supporting clinical trials or literature, and the underlying mechanistic story is mechanistically self-contradictory (an agent with a known bleeding-tendency side effect proposed for a bleeding indication). TFDA/label safety data needed for even a preliminary safety screen (S1) is currently blocked (Data Gap DG001, Blocking severity).
+The prediction is supported only by the TxGNN model score (evidence level L5), with no clinical trials or literature. The intravitreal route gives minimal systemic exposure, and there is a bleeding-risk concern in variceal bleeding.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — currently blocking S1 safety screening
-- Confirmed DrugBank mechanism-of-action data for pegaptanib
-- Preclinical/mechanistic evidence specifically linking VEGF inhibition to portal hypertension collateral formation (not just general angiogenesis literature)
-- Safety data on systemic anti-VEGF use in cirrhotic/portal-hypertensive patients, given the bleeding-risk contradiction noted above
-- Any real-world or case-level evidence before advancing past S0
+- Preclinical evidence that VEGF inhibition affects portal hypertension or varices
+- A feasibility assessment of route and exposure, since the current product is intravitreal only
+- Detailed mechanism of action data (MOA)
+- Package insert warnings and contraindications from the India label
+- A bleeding-risk assessment specific to variceal hemorrhage
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

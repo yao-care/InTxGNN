@@ -2,7 +2,7 @@
 layout: default
 title: Pantothenic Acid
 parent: Model Prediction Only (L5)
-nav_order: 637
+nav_order: 643
 evidence_level: L5
 indication_count: 9
 ---
@@ -29,76 +29,92 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Pantothenic Acid: From Vitamin B5 Supplementation to Congenital Prothrombin Deficiency
+# Pantothenic Acid: From Ascorbic Acid Deficiency to Congenital Prothrombin Deficiency
 
 ## One-Sentence Summary
 
-Pantothenic acid (Vitamin B5, DrugBank DB01783) is an essential precursor of Coenzyme A (CoA) and is conventionally used as a nutritional supplement; it is not currently marketed in Taiwan and has no formal regulatory indication on file. The TxGNN model predicts it may be effective for **Congenital Prothrombin Deficiency**, but this prediction is currently supported only by **1 clinical trial of low relevance (Grade C)** and **no directly related literature**, placing it at the lowest evidence tier.
-
----
+Pantothenic acid (vitamin B5) is a coenzyme A precursor; in the knowledge graph used for this prediction, its original indications are ascorbic acid deficiency and scurvy.
+The TxGNN model predicts it may be effective for **congenital prothrombin deficiency**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Vitamin B5 nutritional supplementation (no formal disease indication on file; not marketed in Taiwan) |
-| Predicted New Indication | Congenital Prothrombin Deficiency |
+| Original Indication | Ascorbic acid deficiency; scurvy (from the knowledge graph; the Indian licence lists no indication text) |
+| Predicted New Indication | Congenital prothrombin deficiency |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for pantothenic acid is not available in this evidence pack. Based on known pharmacology, pantothenic acid is the metabolic precursor of Coenzyme A (CoA), a cofactor central to fatty-acid metabolism, the tricarboxylic acid cycle, and broader energy/lipid biosynthesis. Its established clinical role is as a Vitamin B5 nutritional supplement, generally as part of B-complex formulations, rather than as a targeted therapeutic for a specific disease.
+Currently, detailed mechanism of action data is not available. Based on known information, pantothenic acid is a B vitamin and the precursor of coenzyme A, which takes part in lipid and energy metabolism.
 
-Congenital prothrombin deficiency is a hereditary coagulation disorder caused by mutations in the prothrombin (Factor II) gene. There is no known biochemical pathway connecting CoA/pantothenate metabolism to prothrombin synthesis or coagulation factor function. The evidence pack's own mechanistic assessment states this directly: the TxGNN model's high score most likely reflects **graph-topological proximity** within the knowledge graph rather than a genuine biochemical or pharmacological pathway linking the two entities.
+Congenital prothrombin deficiency is a monogenic defect of coagulation factor II. Pantothenic acid is not known to affect prothrombin synthesis or function, so no mechanistic link can be identified. The very high score (99.96%) reflects a computational association only and is not backed by any trial or publication.
 
-Given this, the top-ranked prediction should be treated as a hypothesis-generation signal only, not as evidence of biological plausibility. Notably, other lower-ranked candidates in this same evidence pack — such as uterine inflammatory disease (rank 5) and urinary tract infection (rank 7) — carry direct preclinical or in-vitro mechanistic support and have already advanced to decision stage S1 ("Research Question"), making them more promising near-term leads than this top-scored candidate.
+### Other Predictions Considered
 
----
+Eight further predictions were reviewed. None has trial evidence.
+
+| Predicted Indication | Score | Evidence Level | Assessment |
+|------|------|------|------|
+| Ochronosis disorder | 99.78% | L5 | No known role in homogentisic acid metabolism; Hold |
+| Glycerol metabolism disease | 99.77% | L5 | Only a loose link through coenzyme A; the retrieved papers are incidental metabolomics studies; Hold |
+| Folic acid deficiency anemia | 99.60% | L4 | Plausible nutritional link, but evidence is old and indirect; research question |
+| Uterine inflammatory disease | 99.14% | L4 | One 2026 mouse study; no human data; research question |
+| Xanthogranulomatous pyelonephritis | 99.10% | L5 | No rationale; Hold |
+| Urinary tract infection | 99.10% | L5 | Retrieved papers are unrelated; Hold |
+| Gonococcal urethritis | 99.10% | L5 | No antibacterial role; Hold |
+| Ureaplasma urethritis | 99.10% | L5 | No antibacterial role; Hold |
+
+Of these, folic acid deficiency anemia and uterine inflammatory disease have the most plausible rationale. Folate is the established treatment for the former, so pantothenic acid would at most be adjunctive.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02392767](https://clinicaltrials.gov/study/NCT02392767) | NA | Completed | 25 | Randomized, double-blind, placebo-controlled cross-over study of a multi-ingredient dietary supplement (L-arginine, Pycnogenol, vitamin K2, alpha-lipoic acid, vitamins B6/B12/folic acid) on endothelial function in volunteers with mild-to-moderate hypertension. **Relevance graded C** — population and endpoints are unrelated to congenital prothrombin deficiency; captured only via the general "dietary supplement" keyword match. |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+For the top-ranked prediction (congenital prothrombin deficiency), currently no related literature is available.
 
----
+The literature found for the next most relevant predictions is listed below.
 
-## Taiwan Market Information
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [41223999](https://pubmed.ncbi.nlm.nih.gov/41223999/) | 2026 | Preclinical (mouse) | Mucosal Immunology | Pantothenic acid alleviated vagotomy-induced endometrial injury in mice (uterine inflammatory disease) |
+| [3724048](https://pubmed.ncbi.nlm.nih.gov/3724048/) | 1986 | Review | Laboratory Animal Science | Review of nutritional deficiency anemias in nonhuman primates, including pantothenic acid and folic acid deficiency |
+| [21021037](https://pubmed.ncbi.nlm.nih.gov/21021037/) | 1946 | Historical study | Nutrition Reviews | Anemia and granulocytopenia in relation to pantothenic acid and folic acid deficiencies |
+| [21929634](https://pubmed.ncbi.nlm.nih.gov/21929634/) | 2011 | Review | Maternal & Child Nutrition | Fortified foods in pregnancy and lactation and their effect on nutritional status |
 
-Not marketed in Taiwan — no drug license records are available for pantothenic acid in the source data.
+The five papers retrieved for glycerol metabolism disease are metabolomics or microbiota profiling studies. The two papers retrieved for urinary tract infection are a case series on a multivitamin transporter deficiency and a zoledronic acid case report. These appear to be incidental keyword matches and are not listed as evidence.
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 153595 | Nervic-Plus Injection (Unimarck Healthcare Ltd) | Vial of 2 ml injection | Not stated |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signals** (from drug-disease relationships in the knowledge graph, not from label text): kidney disease, pyoureter, sickle cell anemia, hereditary persistence of fetal hemoglobin, primary hyperoxaluria, hereditary hemochromatosis, hemosiderosis, iron metabolism disease, Wilson disease.
 
----
+No package insert warnings, contraindications or drug interaction data were available. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (congenital prothrombin deficiency) has no known mechanistic link, only one weakly relevant (Grade C) clinical trial, and no supporting literature — evidence level L5, decision stage S0. Combined with the drug's non-marketed status in Taiwan and missing MOA/label data, there is insufficient evidence to proceed on this candidate at present.
+The top-ranked prediction, congenital prothrombin deficiency, has no mechanistic link, no clinical trials and no literature. It is supported only by a model score. Of the alternatives, folic acid deficiency anemia and uterine inflammatory disease are worth follow-up as research questions, but neither has human evidence.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (currently blocking safety pre-assessment, per DG001)
-- Confirmed mechanism of action data from DrugBank or primary literature (DG002)
-- Disease-specific clinical or preclinical studies directly evaluating pantothenic acid (not multi-ingredient supplements) in congenital prothrombin deficiency
-- Consider redirecting evaluation priority toward the pack's stage-S1 candidates (uterine inflammatory disease, urinary tract infection), which already have direct preclinical/in-vitro mechanistic evidence and a "Research Question" recommendation
+- Package insert warnings and contraindications from the Indian regulator (a blocking gap for safety screening)
+- Mechanism of action data for pantothenic acid
+- Human clinical evidence for any candidate indication, with priority on folic acid deficiency anemia and uterine inflammatory disease
+- Review of the knowledge-graph contraindication signals, especially kidney disease and iron metabolism disorders
+- Route compatibility assessment: the only registered product is an injectable multi-ingredient-style brand, and its approved indication text is not available
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

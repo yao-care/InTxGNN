@@ -2,7 +2,7 @@
 layout: default
 title: Palonosetron
 parent: Moderate Evidence (L3-L4)
-nav_order: 633
+nav_order: 639
 evidence_level: L4
 indication_count: 5
 ---
@@ -29,80 +29,80 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-# Palonosetron: From CINV/PONV to Migraine Disorder
+# Palonosetron: From Chemotherapy-Related Nausea and Vomiting to Migraine Disorder
 
 ## One-Sentence Summary
 
-Palonosetron is a highly selective 5-HT3 receptor antagonist used for chemotherapy- and postoperative-induced nausea and vomiting (CINV/PONV). TxGNN predicts a possible link to **Migraine Disorder** with a 99.74% score, but this is currently supported by **0 clinical trials** and only **1 case report** — and that single report describes palonosetron *causing* migraine-type headache as an adverse effect, not treating it. This is a low-confidence, mechanistically unsupported signal.
-
----
+Palonosetron is a second-generation 5-HT3 receptor antagonist, a class of drug used to prevent nausea and vomiting. The TxGNN model predicts it may be effective for **migraine disorder**, but there are **no registered clinical trials** and the only directly relevant publication is a **case report describing palonosetron-induced migraine-type headache**, which points in the opposite direction of benefit.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not in local registry (drug not marketed); per known drug class, used for CINV/PONV |
-| Predicted New Indication | Migraine Disorder |
+| Original Indication | Not stated in the India licence data compiled for this report (palonosetron is generally used as an antiemetic) |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.74% |
 | Evidence Level | L4 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 12 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-A formal mechanism-of-action record is not available for this candidate (data gap DG002). Based on known pharmacology noted in the associated evidence, palonosetron is a highly selective **5-HT3 receptor antagonist**, used to prevent chemotherapy- and surgery-induced nausea/vomiting by blocking serotonin signaling at the chemoreceptor trigger zone and vagal afferents.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, palonosetron is a second-generation 5-HT3 receptor antagonist. These receptors are found on trigeminal afferent nerves and in the brainstem circuits that control vomiting, which gives a theoretical link to migraine pathophysiology and to migraine-associated nausea.
 
-Migraine, by contrast, is primarily managed through **5-HT1B/1D receptor agonism** (e.g., triptans), a distinct serotonergic pathway from the 5-HT3 antagonism palonosetron provides. There is no established pharmacological rationale connecting 5-HT3 blockade to migraine prevention or treatment. The high TxGNN score most likely reflects shared "serotonin/neurotransmission" graph neighborhoods rather than a genuine therapeutic mechanism.
+However, this link is weak. The high TxGNN score (99.74%) reflects a network-based prediction, not clinical data. The only retrieved publication (PMID 21132477) reports that palonosetron **induced** migraine-type headache. That is a safety signal opposite to therapeutic benefit.
 
-Critically, the only literature retrieved for this pairing is a case report titled *"Palonosetron-induced migraine-type headache"* — this documents palonosetron as a **trigger** of migraine-type headache (an adverse event), which is the opposite of therapeutic evidence. This is a negative/contradictory signal, not supportive evidence.
-
-*(For transparency: this same prediction batch also generated four additional candidates for palonosetron — migraine with brainstem aura, migraine susceptibility, atrophoderma vermiculata, and ulerythema ophryogenesis — all rated L5/Hold with no supporting trials or literature. The pattern across this batch suggests TxGNN graph-co-occurrence noise for this drug rather than genuine repurposing signals.)*
-
----
+The other predicted indications are even less supported. Migraine with brainstem aura is a prediction driven only by its similarity to the general migraine node. "Migraine with or without aura, susceptibility to" is a genetic susceptibility phenotype rather than a treatable indication. Atrophoderma vermiculata and ulerythema ophryogenesis are rare skin disorders with no plausible 5-HT3 link and probably reflect knowledge-graph artifacts.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21132477](https://pubmed.ncbi.nlm.nih.gov/21132477/) | 2011 | Case Report (Adverse Event) | Canadian Journal of Anaesthesia | Documents palonosetron **inducing** migraine-type headache as an adverse effect — this is a safety signal, not evidence of therapeutic benefit for migraine. |
-
----
+| [21132477](https://pubmed.ncbi.nlm.nih.gov/21132477/) | 2011 | Case report | Can J Anaesth | Palonosetron-induced migraine-type headache; a safety signal, not evidence of efficacy |
+| [42748473](https://pubmed.ncbi.nlm.nih.gov/42748473/) | 2026 | Review | Eur Heart J Cardiovasc Pharmacother | Review of antiemetic-associated QT prolongation with a risk-stratified prescribing framework; relevant to cardiac safety, not migraine efficacy |
 
 ## India Market Information
 
-Palonosetron currently has **0 registrations** and is **not marketed** in this jurisdiction, so no local authorization records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 178921 | Palibout 0.25 Injection | Vial of 5 ml injection | Not specified |
+| 8975 | Aloxy Capsule | Strip of 10 capsules | Not specified |
+| 178192 | Palostar 0.25mg Injection | Vial of 5 ml injection | Not specified |
+| 44732 | Chepatron 0.25mg Injection | Vial of 1 ml injection | Not specified |
+| 76668 | Emecad 0.25mg Injection | Vial of 5 ml injection | Not specified |
 
----
+Twelve valid single-ingredient registrations are listed in total. Both injectable and oral forms are marketed.
 
 ## Safety Considerations
 
-- **Drug Interactions**: 398 total interactions identified. Notable **Major**-level interactions include several serotonergic and QT-prolonging agents: Fentanyl, Dextromethorphan, Tramadol, Alfentanil, Amiodarone, Amisulpride, Amitriptyline, Anagrelide, and — notably — the triptans **Almotriptan** and **Sumatriptan**. This last point is directly relevant to the proposed migraine indication: standard first-line migraine therapy (triptans) carries a **Major** interaction risk (serotonin syndrome) with palonosetron, which would complicate any real-world repurposing even if efficacy were later established. Additional **Moderate**-level interactions include Famotidine, Propofol, Loperamide, Adenosine, Salbutamol, and Formoterol.
+- **Drug Interactions**: 398 interactions were recorded. Major-level interactions include:
+  - Fentanyl, alfentanil, tramadol and dextromethorphan
+  - Almotriptan and sumatriptan
+  - Amiodarone, amisulpride, amitriptyline and anagrelide
 
-Detailed key warnings and contraindications are not currently available (data gap DG001, flagged as Blocking) — refer to the package insert once obtained.
+  Moderate-level interactions include abiraterone, codeine, dihydrocodeine, famotidine, formoterol, adenosine, salbutamol, propofol and loperamide.
+- **Cardiac safety**: A 2026 review indicates that antiemetics can prolong the QT interval. This is relevant given the QT-related interactions above (for example amiodarone and amisulpride).
+- **Headache signal**: Palonosetron has been reported to induce migraine-type headache (PMID 21132477).
 
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but all substantive evidence contradicts rather than supports the hypothesis: the single literature hit describes palonosetron *causing* migraine-type headache, there are zero clinical trials, and the underlying mechanism (5-HT3 antagonism) does not align with established migraine pharmacology (5-HT1B/1D agonism). Combined with a Blocking safety data gap (no TFDA warnings/contraindications available) and a Major-level DDI conflict with triptans — the standard migraine therapy — this candidate does not warrant progression past S0.
+The prediction rests on a model score alone. There are no clinical trials, and the only directly relevant report suggests palonosetron can trigger migraine-type headache rather than treat it. The remaining predicted indications have no supporting evidence.
 
 **To proceed, the following is needed:**
-- TFDA/local package insert data (warnings, contraindications) — currently Blocking (DG001)
-- Confirmed mechanism-of-action documentation (DG002)
-- Preclinical or mechanistic studies establishing a plausible causal link between 5-HT3 antagonism and migraine pathophysiology (none currently exist)
-- Re-review of whether this candidate should remain in the pipeline at all, given the sole evidence is an adverse-event report contradicting the hypothesis
+- Package insert warnings and contraindications from the India Pharma source (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Preclinical or clinical evidence that 5-HT3 antagonism by palonosetron benefits migraine, which would need to address the reported headache-induction signal
+- A QT-risk assessment if any development is considered, given the interacting QT-prolonging drugs
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

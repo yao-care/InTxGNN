@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Desmopressin
-parent: Moderate Evidence (L3-L4)
-nav_order: 242
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 244
+evidence_level: L5
 indication_count: 10
 ---
 
 # Desmopressin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,91 +29,114 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Desmopressin: From von Willebrand Disease / Mild Hemophilia A to Congenital Prothrombin Deficiency
-
----
+# Desmopressin: From von Willebrand Disease to Congenital Prothrombin Deficiency
 
 ## One-Sentence Summary
 
-Desmopressin (DDAVP) is a synthetic vasopressin analog established in the management of von Willebrand disease (type 1), mild hemophilia A, and nocturnal enuresis, acting primarily by releasing von Willebrand factor (vWF) and Factor VIII from vascular endothelium.
-The TxGNN model predicts it may have utility in **Congenital Prothrombin Deficiency** (Factor II deficiency), with a prediction score of **99.70%**; however, current evidence consists of only **4 publications** (all case reports or narrative reviews) and **no directly relevant clinical trials**, and the mechanistic rationale is questionable given that desmopressin does not directly supplement prothrombin.
-
----
+Desmopressin is a synthetic vasopressin analogue originally used for hereditary von Willebrand disease, hemophilia A (including symptomatic female carriers) and nocturnal enuresis.
+The TxGNN model's top-ranked prediction is **congenital prothrombin deficiency** (score 99.70%), but it has **no clinical trials** and only **1 general review** behind it, and the mechanism does not hold up.
+The best-supported option among the ten predictions is a different one: **primary release disorder of platelets**, with one pediatric cohort study and a 2023 review.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | von Willebrand Disease / Mild Hemophilia A (known established use; not formally approved or marketed in India) |
-| Predicted New Indication | Congenital Prothrombin Deficiency |
+|------|------|
+| Original Indication | Hereditary von Willebrand disease (also von Willebrand disease, hemophilia, nocturnal enuresis) |
+| Predicted New Indication | Congenital prothrombin deficiency |
 | TxGNN Prediction Score | 99.70% |
-| Evidence Level | L4 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 10 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, Desmopressin is a synthetic analog of arginine vasopressin (ADH) that binds to V2 receptors on vascular endothelial cells, triggering rapid release of pre-formed von Willebrand factor (vWF) multimers and coagulation Factor VIII (FVIII) from Weibel-Palade bodies. This 3–5 fold transient elevation of circulating vWF and FVIII underpins its established use in von Willebrand disease (type 1) and mild hemophilia A.
+Currently, detailed mechanism of action data is not available. Based on known information, desmopressin is a vasopressin analogue that raises plasma von Willebrand factor (VWF) and factor VIII. Its efficacy in von Willebrand disease and mild hemophilia A is established.
 
-Congenital prothrombin deficiency (Factor II deficiency) is a rare autosomal recessive bleeding disorder caused by mutations in the prothrombin gene (*F2*), leading to impaired thrombin generation within the common coagulation pathway. There is a fundamental mechanistic gap: desmopressin releases vWF and FVIII but has no direct pathway to supplement prothrombin. The two conditions share the broad phenotypic category of "inherited bleeding disorder," which likely explains why the TxGNN knowledge graph assigns high connectivity between the two nodes.
+For the top-ranked prediction, **congenital prothrombin deficiency**, this mechanism does not apply. Prothrombin (factor II) levels are not affected by desmopressin, so there is no plausible way for it to correct this deficiency. The only linked paper is a 1993 general review of inherited bleeding disorders. The high score likely reflects network proximity to other bleeding disorders in the knowledge graph rather than a real therapeutic link.
 
-One case report (PMID 2607619) describes DDAVP administration in combined Factor V + Factor VIII deficiency—not prothrombin deficiency—raising concern about disease classification misalignment within the knowledge graph. The TxGNN high prediction score most plausibly reflects generalized graph proximity among congenital hemostatic disorders rather than a pharmacologically specific relationship between desmopressin and Factor II deficiency.
+Across the ten predictions, the picture is mixed:
 
----
+- **Most plausible:** *Primary release disorder of platelets* (L3). VWF release and improved platelet adhesion may partly compensate for granule-release defects (storage pool and aspirin-like disorders). Evidence is small and non-randomized, and responses are variable.
+- **Research questions only:** *Glanzmann thrombasthenia* (L4) and *bleeding diathesis due to a collagen receptor defect* (L4). Desmopressin does not correct the underlying defects. In Glanzmann thrombasthenia it is at most an adjunct for mild bleeding.
+- **Safety signals rather than benefits:** *Inherited thrombophilia*, *thrombocytopenic purpura* (including TTP) and *pseudo-von Willebrand disease* (platelet-type). Desmopressin-induced VWF release may worsen these conditions. Case reports describe desmopressin-induced or worsened TTP.
+- **Likely artifacts:** *Flood factor deficiency* (not an established disease name), *Scott syndrome* and *hereditary thrombocytosis with transverse limb defect*. These have no supporting evidence of desmopressin use.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT04567511](https://clinicaltrials.gov/study/NCT04567511) | Phase 4 | Recruiting | 20 | Single-arm study evaluating emicizumab (a bispecific antibody bridging FIXa/FX) in mild hemophilia A males; assesses coagulation laboratory parameters, joint health, and quality of life. The study drug is emicizumab — **not desmopressin** — and the indication is mild hemophilia A, not congenital prothrombin deficiency. Relevance to this repurposing hypothesis is absent. |
-
-> No clinical trials directly investigating desmopressin for congenital prothrombin deficiency were identified.
-
----
+Currently no related clinical trials registered for any of the ten predicted indications.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [7684674](https://pubmed.ncbi.nlm.nih.gov/7684674/) | 1993 | Narrative Review | *Drugs* | Rational treatment options for common inherited bleeding disorders; identifies desmopressin as preferred first-line therapy for mild hemophilia A and most von Willebrand disease subtypes based on safety, efficacy, and cost. No mention of prothrombin deficiency. |
-| [2607619](https://pubmed.ncbi.nlm.nih.gov/2607619/) | 1989 | Case Report | *Rinsho Ketsueki* (Jpn. J. Clin. Hematol.) | DDAVP administration in a case of **combined Factor V + Factor VIII deficiency** (not prothrombin/Factor II deficiency); describes partial hemostatic improvement. This represents a disease classification mismatch with the predicted indication. |
-| [1942544](https://pubmed.ncbi.nlm.nih.gov/1942544/) | 1991 | Case Report | *Rinsho Ketsueki* (Jpn. J. Clin. Hematol.) | Management of cesarean section under Factor VIII concentrate replacement therapy in a patient with combined FV + FVIII deficiency; does not involve prothrombin deficiency or desmopressin as primary intervention. |
-| [21115138](https://pubmed.ncbi.nlm.nih.gov/21115138/) | 2011 | Review | *Autoimmunity Reviews* | Acquired hemophilia A: pathophysiology, aetiology, and management including FVIII inhibitors; discusses desmopressin's role in raising FVIII transiently. Only tangentially relevant; addresses acquired rather than congenital prothrombin deficiency. |
+**Top-ranked prediction (congenital prothrombin deficiency)**
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [7684674](https://pubmed.ncbi.nlm.nih.gov/7684674/) | 1993 | Review | Drugs | General review of treatment options for inherited bleeding disorders; no specific evidence for desmopressin in prothrombin deficiency |
+
+**Best-supported prediction (primary release disorder of platelets)**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [36656570](https://pubmed.ncbi.nlm.nih.gov/36656570/) | 2023 | Review | Eur J Haematol | Desmopressin releases VWF and FVIII, enhances platelet adhesion and shortens bleeding time. Effective in mild hemophilia A, certain VWD subtypes, uremia and liver disease. Use can be complicated by hyponatremia and, rarely, arterial thrombotic events |
+| [21509710](https://pubmed.ncbi.nlm.nih.gov/21509710/) | 2011 | Cohort | Klin Padiatr | Effect of desmopressin on primary hemostasis in children with aspirin-like defect (hereditary thrombocytopathy) |
+| [23051555](https://pubmed.ncbi.nlm.nih.gov/23051555/) | 2013 | Cohort | Haemophilia | Increased amounts of VWF bound to microparticles after desmopressin infusion; may help explain effects in platelet disorders |
+| [22057877](https://pubmed.ncbi.nlm.nih.gov/22057877/) | 2011 | Case report | Hamostaseologie | Therapy-refractory menorrhagia as first manifestation of Hermansky-Pudlak syndrome (platelet storage pool defect) |
+| [22726100](https://pubmed.ncbi.nlm.nih.gov/22726100/) | 2012 | Review | Haemophilia | Overview of inherited platelet disorders |
+
+**Other predictions: key items**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [10509036](https://pubmed.ncbi.nlm.nih.gov/10509036/) | 1999 | Not classified | Haematologica | In vitro and ex vivo effects of desmopressin on platelet function (Glanzmann thrombasthenia prediction) |
+| [16444446](https://pubmed.ncbi.nlm.nih.gov/16444446/) | 2006 | Case report | Clin Appl Thromb Hemost | Dental extraction in a patient with Glanzmann thrombasthenia: desmopressin was ineffective, and bleeding was controlled with recombinant factor VIIa |
+| [1785670](https://pubmed.ncbi.nlm.nih.gov/1785670/) | 1991 | Cohort | Am J Pediatr Hematol Oncol | Desmopressin plus ethamsylate synergistically shortened bleeding time in 12 patients with constitutional bleeding disorders who did not respond to desmopressin alone |
+| [22726101](https://pubmed.ncbi.nlm.nih.gov/22726101/) | 2012 | Review | Haemophilia | Treatment of inherited platelet disorders; platelet transfusion is frequently needed in severe cases |
+| [15499705](https://pubmed.ncbi.nlm.nih.gov/15499705/) | 2004 | Case report | Thromb Haemost | **Safety signal:** worsening of TTP symptoms after desmopressin |
+| [21921792](https://pubmed.ncbi.nlm.nih.gov/21921792/) | 2011 | Case report | Blood Coagul Fibrinolysis | **Safety signal:** Moschcowitz-like syndrome (TTP-like) after desmopressin for postpartum hemorrhage |
+| [16460464](https://pubmed.ncbi.nlm.nih.gov/16460464/) | 2006 | Case report | J Thromb Haemost | Link between desmopressin use for nocturnal enuresis and inherited TTP (Upshaw-Schulman syndrome) |
+| [12109311](https://pubmed.ncbi.nlm.nih.gov/12109311/) | 2002 | Case report | Ned Tijdschr Geneeskd | **Safety signal:** a trial dose of desmopressin caused severe thrombocytopenia in a patient with VWD type 2B |
+
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 59569 | Dpressin 0.1mg Tablet (United Biotech) | Strip of 10 tablets | Not stated |
+| 133549 | Minirin 0.1mg Tablet (Ferring) | Bottle of 15 tablets | Not stated |
+| 134712 | Minirin Melt 120mcg Tablet (Ferring) | Strip of 10 tablets | Not stated |
+| 133878 | Minirin Nasal Spray (Ferring) | 2.5 ml nasal spray | Not stated |
+| 59224 | Dpressin Nasal Spray (United Biotech) | 5 ml nasal spray | Not stated |
+
+Ten valid single-ingredient registrations are on record in total, covering oral tablets (including melt/orally disintegrating forms) and nasal sprays. Approved indication text was not available for any of them.
 
 ## Safety Considerations
 
-**Drug Interactions (172 total interactions on record; representative key interactions below):**
+- **Contraindications and disease associations (knowledge graph, not label text):** hypertension and hypertensive disorder, coronary artery disease, impaired renal function, cystic fibrosis, water intoxication, polydipsia, dipsogenic diabetes insipidus, allergic and vasomotor rhinitis, common cold, pharyngitis, respiratory tract infection, and von Willebrand disease (the last likely refers to specific subtypes such as type 2B).
+- **Drug interactions:** 172 interactions were identified. Major interactions are with corticosteroids: hydrocortisone, triamcinolone, dexamethasone, beclomethasone, betamethasone, budesonide, prednisolone and prednisone. Moderate interactions include epinephrine, loperamide, morphine, opium and chlorpropamide. Aspirin is a minor interaction.
+- **Literature-based safety signals:**
+  - Hyponatremia and rarely arterial thrombotic events (2023 review).
+  - Worsening or induction of TTP-like syndromes.
+  - Severe thrombocytopenia in VWD type 2B.
+  
+  These signals bear directly on three of the ten predictions (inherited thrombophilia, thrombocytopenic purpura, pseudo-von Willebrand disease).
 
-| Severity | Interacting Drugs |
-|----------|-------------------|
-| **Major** | Hydrocortisone, Dexamethasone, Prednisolone, Prednisone, Beclomethasone dipropionate, Betamethasone, Budesonide, Triamcinolone |
-| **Moderate** | Epinephrine, Loperamide, Morphine, Morphine (liposomal), Opium, Chlorpropamide |
-| **Minor** | Acetylsalicylic acid |
-
-Major interactions are predominantly with corticosteroids. Concurrent use of desmopressin with systemic corticosteroids may increase the risk of water retention and severe hyponatremia. Close monitoring of serum sodium is mandatory when these combinations cannot be avoided.
-
-Please refer to the package insert for complete warnings and contraindications (full data not available in this evidence pack).
-
----
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Desmopressin's established mechanism—releasing vWF and FVIII from endothelial stores—does not address the underlying coagulation defect in congenital prothrombin (Factor II) deficiency, which lies downstream in the common coagulation pathway. The high TxGNN prediction score (99.70%) most likely reflects broad knowledge graph connectivity among inherited bleeding disorders, and the available literature provides only indirect or misclassified evidence. There is no clinical or mechanistic basis sufficient to proceed with further evaluation at this time.
+The top-ranked prediction, congenital prothrombin deficiency, has no clinical trials, one general review, and no plausible mechanism, since desmopressin does not raise prothrombin. Across all ten predictions there are no registered clinical trials. Three predictions carry safety signals of possible harm, and several others are probably graph artifacts. The only prediction with meaningful support is primary release disorder of platelets (L3), and that evidence is small, non-randomized and variable.
 
 **To proceed, the following is needed:**
-- Verification that the TxGNN knowledge graph correctly classifies "congenital prothrombin deficiency" as a node distinct from Factor V/VIII-related disorders; suspected misclassification should be corrected before re-scoring
-- Retrieval of full MOA data from DrugBank (DG002) to formally exclude any secondary mechanism that could benefit Factor II deficiency
-- A dedicated, targeted literature search using MeSH terms for "desmopressin" AND "prothrombin deficiency" / "Factor II deficiency" to confirm the absence of any relevant evidence
-- Acquisition of full package insert safety data (DG001) — currently blocking entry into safety screening — particularly regarding hyponatremia risk and contraindications in coagulopathic patients
-- Expert hematology consultation to assess whether any indirect hemostatic benefit (e.g., vWF-mediated platelet plug enhancement) could be clinically meaningful in severe prothrombin deficiency before any prospective investigation is considered
+- Shift the focus from the top-ranked prediction to **primary release disorder of platelets**. Plan a prospective, controlled study of desmopressin response in storage pool and aspirin-like disorders, with a desmopressin challenge test before use.
+- Treat Glanzmann thrombasthenia and collagen receptor defects as research questions only, with desmopressin positioned at most as an adjunct.
+- Flag thrombotic thrombocytopenic purpura, inherited thrombophilia and platelet-type (pseudo-) von Willebrand disease as **cautions, not opportunities**, in any repurposing plan.
+- Verify the disease definition of "flood factor deficiency" before any assessment.
+- Obtain package insert warnings and contraindications from the India regulatory sources, as well as approved indication text for the ten registrations.
+- Obtain detailed mechanism of action data from DrugBank.
+- Define a monitoring plan for hyponatremia (sodium and fluid restriction) and for thrombotic risk in any new population.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

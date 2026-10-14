@@ -2,7 +2,7 @@
 layout: default
 title: Protamine Sulfate
 parent: Model Prediction Only (L5)
-nav_order: 702
+nav_order: 709
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,72 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Protamine Sulfate: From Heparin Antagonism to Helminthiasis, Animal
+# Protamine Sulfate: From Heparin Neutralization to Helminthiasis (Animal)
 
 ## One-Sentence Summary
 
-Protamine sulfate is a strongly cationic polypeptide best known pharmacologically as a heparin antagonist (and as the carrier protein in NPH/protamine insulin formulations); no formal original-indication or MOA record is present in this evidence pack. The TxGNN model's top-ranked signal for this drug is **Helminthiasis, Animal**, but the score is exactly at the model's baseline (50%) with an internal rank of ~1.75 million, and **no clinical trials or literature** support it. Across all 10 candidates returned, evidence is essentially absent — only one candidate (Gingivitis) has any supporting trial/literature, and even that evidence does not actually involve protamine sulfate as the tested intervention.
-
----
+Protamine sulfate is a cationic, arginine-rich peptide used to neutralize heparin. The TxGNN model predicts it may be effective for **helminthiasis, animal**, but this is a computational prediction only. There are **0 clinical trials** and **0 publications** supporting this direction, so the evidence is very weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — drug is not marketed in Taiwan and no formal indication text was returned (known general pharmacology: heparin reversal/anticoagulant antagonist) |
-| Predicted New Indication | Helminthiasis, Animal |
-| TxGNN Prediction Score | 50.00% (baseline level, not a distinguishing signal) |
+| Original Indication | Not stated in the Indian license records (the drug is known as a heparin-neutralizing agent) |
+| Predicted New Indication | Helminthiasis, animal |
+| TxGNN Prediction Score | 50.00% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 6 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in this evidence pack (original_moa is a data gap, and no original indication is recorded). Based on generally known pharmacology, protamine sulfate is a cationic peptide that neutralizes heparin's anticoagulant activity and is also used as a slow-release carrier for insulin — neither function has an established pharmacological basis for antiparasitic activity.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Protamine sulfate is a cationic, arginine-rich peptide that binds and neutralizes heparin. Its use as a heparin antidote is well known, but no data connect it to anthelmintic activity.
 
-The evidence pack's own analysis for this candidate is explicit on this point: there is "no known mechanistic link" between protamine sulfate and helminth infection, and the score of 0.5 sits at what appears to be the model's uninformative baseline rather than a genuine signal — an internal rank of ~1,749,451 places it deep in the tail of TxGNN's overall candidate space, not near the top. The same pattern holds for the other 9 candidates in this set (classical swine fever, hip dysplasia, viral hepatitis in animals, gingival overgrowth, and several swine/bovine veterinary diseases): all score exactly 0.5 with no mechanistic rationale offered.
+The TxGNN score of 50% is uninformative: it does not distinguish this prediction from a random one. All of the top ten predicted indications share this same score. They are mostly veterinary conditions (classical swine fever, canine hip dysplasia, animal viral hepatitis, exudative epidermitis of swine, enzootic porcine encephalomyelitis, edema disease of swine, infectious bovine rhinotracheitis), plus gingivitis and gingival overgrowth. For the others, the only theoretical links are speculative ones, such as binding of heparan sulfate (a viral attachment factor) or antimicrobial effects of cationic peptides. None has been tested for these diseases.
 
-The one partial exception is **Gingivitis** (rank 5 of this set), which has L4 evidence (one clinical trial, four PubMed records). However, on inspection none of that evidence actually tests protamine sulfate: the trial (NCT03792113) compares fibrin glue to sutures in periodontal surgery, and the literature covers unrelated topics (in vitro mitogenesis inhibition, nanovesicle engineering, canine gingival heparin content, and lysozyme paste in guinea pigs). The link appears to be disease-category co-occurrence rather than a tested drug effect. Overall, this evidence pack does not support a credible repurposing hypothesis for protamine sulfate at this time.
-
----
+For helminthiasis, no mechanistic link has been established, and the similarity to the original use has not been assessed.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available for helminthiasis, animal.
 
----
+For reference, the only literature found in the top ten predictions relates to the rank 5 prediction, gingivitis. It is indirect and does not support a therapeutic effect:
 
-## Taiwan Market Information
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [6210390](https://pubmed.ncbi.nlm.nih.gov/6210390/) | 1984 | In vitro study | J Natl Cancer Inst | Protamine sulfate reversibly inhibited serum-induced mitogenic responses in normal and neoplastic cells in vitro. Heparin and heparan sulfate neutralized the effect. |
+| [16245632](https://pubmed.ncbi.nlm.nih.gov/16245632/) | 1985 | Animal observational study | Acta Odontol Latinoam | Developed a method to measure heparin in normal dog gingiva. This is not a study of protamine treatment. |
 
-Protamine sulfate is currently **not marketed in Taiwan** (0 licenses on record), so no product registration table is available.
+## India Market Information
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 175945 | Prota 10mg Injection | Vial of 5 ml injection | Not stated |
+| 152305 | Neutrahep 10mg Injection | Vial of 5 ml injection | Not stated |
+| 105303 | Hepadot Injection | Vial of 5 ml injection | Not stated |
+| 174388 | Protamine Sulphate 10mg Injection | Vial of 5 ml injection | Not stated |
+| 175637 | Prota 50mg Injection | Vial of 5 ml injection | Not stated |
+
+A sixth registration, 154515 (Newtain 50mg Injection), is also valid. All six registrations are single-ingredient injectables.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction data were available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (Helminthiasis, Animal) carries no clinical trial or literature support and a baseline-level TxGNN score, and the evidence pack's own rationale confirms there is no plausible mechanistic link. None of the 10 returned candidates — including the sole candidate with any supporting evidence (Gingivitis, whose evidence does not actually involve protamine sulfate) — reach a level justifying further evaluation.
+The prediction rests only on a model score of 50%, with no clinical trials, no relevant literature, and no plausible mechanistic link to helminthiasis. The target is a veterinary condition, while the marketed products are human injectables. The approved indications and safety information are also missing.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — currently a blocking data gap (DG001) preventing any S1 safety assessment
-- Confirmed mechanism-of-action data from DrugBank (DG002)
-- A re-run of TxGNN scoring or an alternate indication list, since all current candidates cluster at an uninformative baseline score with no differentiating signal
-- If pursued further, independent verification of a genuine drug-level (not disease-category) association before considering the Gingivitis lead
+- Package insert warnings, contraindications, and approved indications for the Indian products (a blocking gap for safety screening)
+- Detailed mechanism of action data (for example from DrugBank)
+- Any experimental (in vitro or in vivo) evidence of anthelmintic activity
+- Assessment of route and formulation compatibility for veterinary use
+- A re-ranking of predictions, since all top candidates share an uninformative score of 0.5
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

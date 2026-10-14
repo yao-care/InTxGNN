@@ -2,7 +2,7 @@
 layout: default
 title: Metolazone
 parent: Model Prediction Only (L5)
-nav_order: 538
+nav_order: 543
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,104 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Metolazone: From Hypertension and Edema to Malignant Renovascular Hypertension
+# Metolazone: From Hypertension to Malignant Renovascular Hypertension
 
 ## One-Sentence Summary
 
-Metolazone is a thiazide-like diuretic used for treating hypertension and fluid overload, with particular utility in patients with renal impairment where conventional thiazides lose efficacy.
-The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension** with a prediction score of **99.84%**,
-however, **no clinical trials or direct supporting literature** have been identified for this specific repurposing direction.
-
----
+Metolazone is a thiazide-like diuretic, originally used to treat hypertension.
+The TxGNN model predicts it may be effective for **malignant renovascular hypertension**,
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension and edema (no India registration record found) |
-| Predicted New Indication | Malignant Renovascular Hypertension |
+|------|------|
+| Original Indication | Hypertension (hypertensive disorder) |
+| Predicted New Indication | Malignant renovascular hypertension |
 | TxGNN Prediction Score | 99.84% |
-| Evidence Level | L4 (mechanistic reasoning; no direct clinical evidence identified) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this dataset. Based on known pharmacological information, Metolazone is a thiazide-like diuretic that inhibits the sodium-chloride cotransporter (NCC/SLC12A3) in the distal convoluted tubule, reducing sodium and water reabsorption to lower blood volume and blood pressure. A key clinical distinguishing feature is that Metolazone also acts on the proximal tubule, retaining diuretic efficacy even when GFR falls below 30 mL/min — making it particularly valuable in patients with chronic kidney disease and diuretic resistance where standard thiazides become ineffective.
+Currently, detailed mechanism of action data is not available. Based on known information, metolazone is a thiazide-like diuretic, its use in hypertension is established, and mechanistically it may lower blood pressure through sodium and volume reduction.
 
-Malignant renovascular hypertension is a severe hypertensive emergency driven by critical renal artery stenosis, which triggers pathological overactivation of the renin-angiotensin-aldosterone system (RAAS). The TxGNN model likely draws a connection through Metolazone's antihypertensive and volume-reducing properties. However, this is mechanistically problematic: in RAAS-driven hypertension, diuretic-induced volume depletion can paradoxically further stimulate renin release, potentially worsening renal ischemia. Standard management centers on revascularization (angioplasty or stenting) and RAAS blockade (ACEI/ARB, with significant caution in bilateral stenosis), while the malignant phase as an acute emergency requires carefully titrated intravenous antihypertensives rather than oral diuretics.
+Malignant renovascular hypertension is a severe form of hypertension. It is driven largely by activation of the renin-angiotensin system due to renal artery stenosis. This makes the link to the original indication only partial. Thiazide-like diuretics can further stimulate renin, which could work against the intended effect in this setting. The high score most likely reflects the model's similarity to the parent hypertension indication rather than a specific mechanistic fit.
 
-The TxGNN prediction score is high (99.84%, ranked #3,485), but clinical plausibility for this specific indication remains limited. The prediction appears to reflect shared knowledge graph associations between Metolazone's antihypertensive mechanism and renal hypertensive conditions broadly, rather than a disease-specific biological signal. This pattern is further supported by the observation that four of the top five predictions are all related to hypertension or vascular conditions, suggesting topology-driven scoring rather than indication-specific mechanistic differentiation.
+Other predictions show the same pattern. Malignant hypertensive renal disease (99.84%) has a plausible link, since metolazone stays effective when kidney function is reduced. However, malignant hypertension usually needs rapid, titratable intravenous agents, and an oral diuretic is not a primary therapy. Pulmonary hypertension (99.83%) has only a symptom-level rationale: relieving fluid congestion and right-heart volume load, not treating the pulmonary vessels. Braddock syndrome (99.78%) has no identifiable mechanistic connection and appears to be a knowledge-graph artifact.
 
----
+## Literature Evidence
+
+For the top prediction, no related literature is currently available.
+
+The only article retrieved across the top five predictions was linked to a lower-ranked prediction, pulmonary hypertension owing to lung disease and/or hypoxia:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [2916665](https://pubmed.ncbi.nlm.nih.gov/2916665/) | 1989 | Preclinical | Am J Physiol | In rats, thiazide diuretic receptors (labelled with metolazone) fell by about 90% after acute renal ischemia and recovered afterwards. It does not address pulmonary hypertension. |
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
-
 ## India Market Information
 
-Metolazone currently has no products registered in India. The CDSCO market status is **Not Marketed** with zero license records on file.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 135905 | Mela 5mg Tablet (RPG Life Sciences) | Strip of 10 tablets | Not stated |
+| 246439 | Zytanix 2.5 Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
+| 143978 | Metoz 1.25mg Tablet (Centaur) | Strip of 10 tablets | Not stated |
+| 246982 | Zytanix 5 Tablet (Zydus Cadila) | Strip of 15 tablets | Not stated |
+| 64284 | Diurem 2.5mg Tablet (Cipla) | Strip of 10 tablets | Not stated |
 
----
+These are 5 of 20 valid single-ingredient registrations. All are oral tablets.
 
 ## Safety Considerations
 
-**Drug Interactions — 249 total interactions identified (DDInter database):**
+- **Disease-level contraindication signals (knowledge graph, not label text)**: orthostatic hypotension, multiple system atrophy, postural orthostatic tachycardia syndrome, liver failure, hepatic coma and encephalopathy, pancreatitis, systemic lupus erythematosus (including pediatric), potassium deficiency, diabetes mellitus, diabetic ketoacidosis, anuria, gout, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease, and HELLP syndrome.
+- **Drug Interactions**: 249 interactions were recorded. Examples at moderate level include acarbose, alogliptin, albiglutide, bupropion, morphine, omeprazole, rabeprazole, cholecalciferol, calcium phosphate, bisacodyl, amphotericin B, and corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, beclomethasone). Minor examples include doxycycline, atropine, and hyoscyamine.
 
-Key interactions of clinical note:
-
-| Interacting Drug | Interaction Level | Clinical Relevance |
-|-----------------|-------------------|--------------------|
-| Dexamethasone | Moderate | Corticosteroids antagonize diuretic effect; additive potassium loss |
-| Hydrocortisone | Moderate | As above |
-| Betamethasone | Moderate | As above |
-| Beclomethasone dipropionate | Moderate | As above |
-| Triamcinolone | Moderate | As above |
-| Amphotericin B | Moderate | Additive risk of hypokalemia |
-| Amphotericin B (lipid complex) | Moderate | Additive risk of hypokalemia |
-| Morphine | Moderate | Enhanced hypotensive effect |
-| Bupropion | Moderate | Electrolyte disturbance may lower seizure threshold |
-| Acarbose | Moderate | Thiazides may impair glycemic control |
-| Alogliptin | Moderate | Thiazides may reduce hypoglycemic drug efficacy |
-| Albiglutide | Moderate | Thiazides may reduce hypoglycemic drug efficacy |
-| Cholecalciferol | Moderate | Risk of hypercalcemia with thiazide co-administration |
-| Calcium Phosphate | Moderate | Thiazide-related calcium homeostasis disruption |
-| Bisacodyl | Moderate | Combined gastrointestinal potassium loss |
-| Omeprazole | Moderate | Possible electrolyte interaction |
-| Rabeprazole | Moderate | Possible electrolyte interaction |
-| Doxycycline | Minor | — |
-| Hyoscyamine | Minor | — |
-| Atropine | Minor | — |
-
-Please refer to the official package insert for complete warnings, contraindications, and safety information.
-
----
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No direct clinical trial or literature evidence supports Metolazone for malignant renovascular hypertension, and mechanistic analysis suggests that RAAS activation triggered by diuretic-induced volume depletion may be counterproductive in this condition — making the TxGNN prediction biologically plausible in concept but clinically problematic in practice.
+The prediction is supported only by the model score, with no clinical trials or relevant literature, and the mechanism may even conflict with the disease biology (renin-driven hypertension). Standard management of malignant hypertension also relies on parenteral agents rather than an oral diuretic.
 
 **To proceed, the following is needed:**
-- Official package insert retrieval from CDSCO/FDA sources to fill MOA, contraindication, and key warning data gaps
-- Targeted literature search specifically for Metolazone in renovascular or malignant hypertension clinical settings
-- Knowledge graph topology audit to determine whether TxGNN's score reflects a unique biological signal or shared antihypertensive/renal node proximity
-- Review of the Rank 2 prediction (Malignant Hypertensive Renal Disease), which shares the same score and may carry a more defensible mechanistic rationale given Metolazone's preserved efficacy in low GFR settings
-- If the program is to move forward, a formal preclinical study design would be needed before any clinical translation consideration
+- Package insert warnings and contraindications for the Indian products (a blocking gap for safety screening)
+- Mechanism of action data for metolazone
+- Clinical or mechanistic studies of thiazide-like diuretics in renovascular or malignant hypertension
+- Assessment of similarity to the original indication and of route compatibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

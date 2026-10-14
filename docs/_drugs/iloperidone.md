@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Iloperidone
-parent: High Evidence (L1-L2)
-nav_order: 420
-evidence_level: L1
+parent: Model Prediction Only (L5)
+nav_order: 424
+evidence_level: L5
 indication_count: 10
 ---
 
 # Iloperidone
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,99 +33,88 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Iloperidone (Fanapt®) is a second-generation atypical antipsychotic, originally approved by the FDA in 2009 for the treatment of schizophrenia in adults.
-The TxGNN model predicts it may be effective for **Manic Bipolar Affective Disorder** — a prediction strongly supported by real-world evidence, with **1 registered clinical trial** and **19 publications**, including a pivotal Phase 3 RCT that led to FDA approval for bipolar I disorder in 2024.
-Although TxGNN ranks this indication 10th by graph score (99.977%), it represents the only clinically actionable finding in this evidence pack — the top 9 TxGNN predictions are all L5 (model-only) with Hold recommendations.
-
----
+Iloperidone is an atypical antipsychotic originally used to treat schizophrenia.
+The TxGNN model predicts it may be effective for **manic bipolar affective disorder**.
+Currently **18 publications** support this direction, including a double-blind, placebo-controlled study, but **no clinical trials** are registered in the data compiled for this report.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Schizophrenia (FDA-approved 2009) |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
-| TxGNN Prediction Score | 99.977% |
-| Evidence Level | L1 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+|------|------|
+| Original Indication | Schizophrenia |
+| Predicted New Indication | Manic bipolar affective disorder |
+| TxGNN Prediction Score | 99.98% |
+| Evidence Level | L1 (provisional, see note below) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
----
+*Note: The L1 level rests on the titles of the literature. The pivotal study is described as a phase 3 randomized, double-blind, placebo-controlled study, but its results and a second completed Phase 3 trial have not been verified, so the level may be overstated.*
 
 ## Why is This Prediction Reasonable?
 
-Iloperidone is a benzisoxazole atypical antipsychotic that acts as a dual **D2 dopamine receptor and 5-HT2A serotonin receptor antagonist**. This mechanism is the pharmacological backbone of most approved antimanic agents in the second-generation antipsychotic class — risperidone, olanzapine, quetiapine, and asenapine all share this core profile and carry regulatory approval for bipolar I disorder. The 5-HT2A antagonism modulates downstream dopaminergic hyperactivity in limbic circuits, which is the primary neurobiological driver of manic episodes.
+Detailed mechanism of action data is not available. Based on known class pharmacology, iloperidone is an atypical antipsychotic that blocks dopamine D2 and serotonin 5-HT2A receptors. It is a benzisoxazole, structurally related to risperidone.
 
-Schizophrenia and manic bipolar affective disorder share overlapping neurobiology: both involve pathological hyperdopaminergic states in mesolimbic pathways, and both respond to D2/5-HT2A blockade. This mechanistic overlap is precisely why most atypical antipsychotics approved for schizophrenia eventually gain bipolar indications — the therapeutic target is shared across diagnostic boundaries. Iloperidone's receptor binding profile is particularly well-suited: its relatively lower D2 binding affinity compared to older agents may reduce extrapyramidal side effects while the 5-HT2A antagonism provides mood-stabilising properties.
+Schizophrenia and bipolar mania share psychotic and behavioural symptoms, and other atypical antipsychotics are already used for acute mania. This makes it mechanistically plausible that iloperidone works in mania too.
 
-Crucially, this is not merely a theoretical prediction. A Phase 3, double-blind, placebo-controlled trial (PMID 38236020, published 2024 in *Journal of Clinical Psychiatry*) confirmed iloperidone's efficacy in acute bipolar mania using the Young Mania Rating Scale as the primary endpoint. The FDA approved this new indication in 2024, making the TxGNN model's prediction retrospectively validated at the highest evidence tier.
-
----
+The literature supports this. A 2024 phase 3, randomized, double-blind, placebo-controlled study tested iloperidone (up to 24 mg/day) against placebo over 4 weeks in adults with bipolar mania. Reviews from 2024 and 2025 also describe a new US indication for acute treatment of bipolar I disorder mania. An earlier open trial in mixed episodes (2017) points the same way.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02413918](https://clinicaltrials.gov/study/NCT02413918) | Phase 4 | Completed | 41 | Open-label study of iloperidone as adjunctive treatment to lithium, divalproex, or lamotrigine in bipolar mixed states; assessed acute and long-term bimodal efficacy and predictors of treatment response |
-
----
+Currently no related clinical trials are registered in the data compiled for this report.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|------|---------|
-| [38236020](https://pubmed.ncbi.nlm.nih.gov/38236020/) | 2024 | RCT | J Clin Psychiatry | Phase 3, double-blind, placebo-controlled trial; iloperidone up to 24 mg/day for 4 weeks significantly reduced YMRS scores vs. placebo in adults with bipolar mania — the pivotal trial supporting FDA approval |
-| [39800949](https://pubmed.ncbi.nlm.nih.gov/39800949/) | 2025 | Review/Meta-analysis | Ann Pharmacother | Comprehensive review of iloperidone's efficacy for mania in bipolar I disorder and safety profile (QTc prolongation, orthostatic hypotension, metabolic effects) |
-| [39008105](https://pubmed.ncbi.nlm.nih.gov/39008105/) | 2024 | Drug Update | Med Lett Drugs Ther | Formal drug update commentary on iloperidone's new FDA-approved indication for bipolar disorder |
-| [28817490](https://pubmed.ncbi.nlm.nih.gov/28817490/) | 2017 | Open-label Trial | J Clin Psychopharmacol | Open trial of iloperidone in bipolar mixed episodes; assessed depression response alongside manic symptoms over short- and long-term observation |
-| [30187288](https://pubmed.ncbi.nlm.nih.gov/30187288/) | 2018 | Systematic Review | Drugs Aging | Pharmacological and clinical review of newer atypical antipsychotics including iloperidone for bipolar disorder in older adults |
-| [22849428](https://pubmed.ncbi.nlm.nih.gov/22849428/) | 2012 | Narrative Review | Expert Opin Pharmacother | Primer on iloperidone, asenapine, and lurasidone covering schizophrenia and bipolar indications; describes iloperidone's serotonin/dopamine antagonism as the mechanistic basis for mood stabilisation |
-| [41826282](https://pubmed.ncbi.nlm.nih.gov/41826282/) | 2026 | Pharmacogenomics Study | Pharmacogenomics J | Analysis of SLC2A9 variant rs7442295 and uric acid levels in patients from the Phase 3 bipolar mania trial; iloperidone associated with increased uric acid from baseline |
-| [22900950](https://pubmed.ncbi.nlm.nih.gov/22900950/) | 2012 | Comparative Safety Study | CNS Drugs | Systematic review and meta-analysis comparing metabolic adverse effects (weight, glucose, lipids) of iloperidone, asenapine, lurasidone, and paliperidone across schizophrenia and bipolar disorder populations |
-| [39126643](https://pubmed.ncbi.nlm.nih.gov/39126643/) | 2024 | Safety Review | Expert Opin Drug Saf | Updated review on QTc interval prolongation risk and Torsades de Pointes for atypical antipsychotics including iloperidone; addresses clinical surveillance recommendations |
-| [31065941](https://pubmed.ncbi.nlm.nih.gov/31065941/) | 2019 | Systematic Review/Meta-analysis | CNS Drugs | Meta-analysis on medication-induced akathisia with newer antipsychotics including iloperidone across severe mental illness indications |
-
----
+|------|-----|------|------|---------|
+| [38236020](https://pubmed.ncbi.nlm.nih.gov/38236020/) | 2024 | RCT | J Clin Psychiatry | Phase 3 double-blind, placebo-controlled study of iloperidone (up to 24 mg/day) in adults with bipolar mania over 4 weeks; the primary endpoint was change in Young Mania Rating Scale score |
+| [39800949](https://pubmed.ncbi.nlm.nih.gov/39800949/) | 2025 | Review | Ann Pharmacother | Evaluates iloperidone efficacy for mania in bipolar I disorder and its safety profile (QTc prolongation, orthostatic hypotension, metabolic effects) |
+| [39008105](https://pubmed.ncbi.nlm.nih.gov/39008105/) | 2024 | Review | Med Lett Drugs Ther | Note on iloperidone (Fanapt) and its new bipolar disorder indication |
+| [39126643](https://pubmed.ncbi.nlm.nih.gov/39126643/) | 2024 | Review | Expert Opin Drug Saf | Safety review of atypical antipsychotics, QTc interval and torsades de pointes |
+| [42213400](https://pubmed.ncbi.nlm.nih.gov/42213400/) | 2026 | Review | Clin Drug Investig | Milsaperidone, an active metabolite of iloperidone; iloperidone approved in the USA for schizophrenia (2009) and acute bipolar I disorder (2024) |
+| [22900950](https://pubmed.ncbi.nlm.nih.gov/22900950/) | 2012 | Systematic review | CNS Drugs | Body weight and metabolic adverse effects of asenapine, iloperidone, lurasidone and paliperidone in schizophrenia and bipolar disorder |
+| [22849428](https://pubmed.ncbi.nlm.nih.gov/22849428/) | 2012 | Review | Expert Opin Pharmacother | Overview of iloperidone, asenapine and lurasidone |
+| [27372312](https://pubmed.ncbi.nlm.nih.gov/27372312/) | 2016 | Review | CNS Drugs | Incidence, mechanisms and management of antipsychotic-induced somnolence |
+| [30187288](https://pubmed.ncbi.nlm.nih.gov/30187288/) | 2018 | Review | Drugs Aging | Newer atypical antipsychotics for bipolar disorder, with considerations for older patients |
+| [28817490](https://pubmed.ncbi.nlm.nih.gov/28817490/) | 2017 | Open trial | J Clin Psychopharmacol | Open trial of iloperidone for mixed episodes in bipolar disorder |
 
 ## India Market Information
 
-Iloperidone is currently **not marketed in India**. No drug registrations have been filed or approved with the Central Drugs Standard Control Organisation (CDSCO). The drug is approved and marketed in the United States (as Fanapt® by Vanda Pharmaceuticals) for schizophrenia (since 2009) and bipolar I disorder manic/mixed episodes (since 2024), but has no regulatory footprint in the Indian market at the time of this report.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 113558 | Ilofast 6mg Tablet (Zydus Cadila) | Strip of 30 tablets | Not stated |
+| Registration No. 112404 | Ilofast 8mg Tablet (Zydus Cadila) | Strip of 30 tablets | Not stated |
+| Registration No. 113599 | Ilobril 8mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated |
+| Registration No. 112311 | Iiosure 6mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated |
+| Registration No. 112895 | Ilopride 6mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated |
 
----
+There are 20 valid single-ingredient registrations in total. All are oral tablets, and none has approved indication text on record.
 
 ## Safety Considerations
 
-**Drug Interactions (239 interactions identified; selected Major-level interactions):**
+- **Contraindications and disease-level cautions** (from the knowledge graph, not label text): the data link iloperidone to caution in the following conditions.
+  - Cardiovascular: long QT syndrome (including familial), torsades de pointes, sudden cardiac arrest, heart conduction disease, myocardial infarction, orthostatic hypotension, multiple system atrophy, postural orthostatic tachycardia syndrome
+  - Blood: neutropenia, agranulocytosis, leukopenia
+  - Metabolic: diabetes mellitus, diabetic ketoacidosis, hyperglycemia, obesity, potassium deficiency
+  - Neurological and movement: epilepsy, Alzheimer disease, neuroleptic malignant syndrome, tardive dyskinesia
+  - Other: liver disease, gallbladder disease, female breast carcinoma, priapism
+- **Drug Interactions**: 239 interactions were found. Major ones include **bupropion**, **morphine** and **clarithromycin**. Moderate ones include antidiabetic agents (metformin, pioglitazone, acarbose, alogliptin, canagliflozin, chlorpropamide, albiglutide), anticholinergic agents (atropine, hyoscyamine, glycopyrronium), epinephrine, famotidine, loperamide and lorcaserin.
+- **Literature-highlighted risks**: QTc prolongation, orthostatic hypotension, metabolic and weight effects, somnolence, and a raised uric acid signal in the bipolar mania trial.
 
-| Interacting Drug | Severity | Clinical Concern |
-|---------|------|---------|
-| Clarithromycin | **Major** | CYP3A4 inhibition increases iloperidone plasma levels; risk of QTc prolongation and Torsades de Pointes |
-| Bupropion | **Major** | CYP2D6 inhibition by bupropion elevates iloperidone concentrations; increased risk of adverse CNS and cardiac effects |
-| Morphine | **Major** | Additive CNS depression; respiratory depression risk in combination |
-
-**Moderate interactions** identified for 236 additional agents, including antidiabetic drugs (metformin, pioglitazone, canagliflozin, acarbose), anticholinergics (atropine, hyoscyamine, glycopyrronium), and catecholamines (epinephrine). The anticholinergic and antidiabetic interactions are clinically relevant given that metabolic syndrome and anticholinergic burden are common considerations in psychiatric populations.
-
-**QTc Prolongation Risk**: Multiple publications in this evidence pack (PMID 39126643, PMID 22900950) confirm that iloperidone carries a clinically meaningful QTc-prolonging effect. Baseline and on-treatment ECG monitoring is standard of care. Avoid combination with other QTc-prolonging agents.
-
-**Orthostatic Hypotension**: Noted as a class-specific concern for iloperidone in the clinical review literature (PMID 39800949). Dose titration should be gradual to minimise haemodynamic effects.
-
----
+Please also refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Iloperidone's efficacy for manic bipolar affective disorder is supported by the highest level of clinical evidence — a Phase 3 double-blind placebo-controlled RCT published in 2024 resulted in FDA approval for this exact indication. The mechanistic basis (D2/5-HT2A antagonism) is identical to that of multiple drugs already approved for bipolar I disorder. This is not speculative repurposing; it is a confirmed new indication that has not yet reached the Indian market.
+A 2024 phase 3 placebo-controlled study, supported by reviews describing a new US bipolar I mania indication, makes this prediction clinically credible. However, the evidence level has not been confirmed against trial registry records, and the safety burden is considerable (QTc, metabolic effects, many drug interactions).
 
 **To proceed, the following is needed:**
-
-- **CDSCO registration pathway**: Iloperidone has no existing India registration. A New Drug Application (NDA) or abbreviated dossier leveraging FDA approval as a reference would be required.
-- **Local package insert and safety data**: Formal TFDA/CDSCO-format warnings, contraindications, and prescribing information need to be compiled — currently flagged as a data gap (DG001).
-- **QTc monitoring protocol**: Given the Major DDI risk with CYP3A4 inhibitors (clarithromycin) and known QTc-prolonging properties, a mandatory ECG monitoring plan should accompany any clinical deployment.
-- **Pharmacogenomic consideration**: Iloperidone is metabolised primarily by CYP2D6 and CYP3A4. CYP2D6 poor metabolisers have significantly higher drug exposure. Genotype-guided dosing guidance or dose adjustment guidelines for the Indian population should be assessed.
-- **Metabolic monitoring plan**: Given interactions with antidiabetic drugs and known metabolic effects, baseline and periodic monitoring of fasting glucose, HbA1c, lipid panel, and body weight is recommended.
+- Verification of the pivotal trial's phase, design and results, and identification of a second confirmatory trial
+- Mechanism of action data from DrugBank
+- Indication text and warnings from the India package insert (CDSCO-approved labelling)
+- A safety monitoring plan covering QTc, metabolic parameters, orthostatic hypotension and interacting medicines
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

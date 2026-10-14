@@ -33,53 +33,69 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Amodiaquine is a 4-aminoquinoline antimalarial drug, widely used for decades in the treatment and prevention of malaria caused by *Plasmodium falciparum*, particularly in sub-Saharan Africa as part of artemisinin-based combination therapy (ASAQ).
-The TxGNN model predicts it may be effective for **Pulmonary Hypertension**, with a high prediction confidence score of 99.25%.
-However, currently **no clinical trials** and **no publications** specifically supporting this repurposing direction have been identified, making the evidence base extremely limited.
+Amodiaquine is a 4-aminoquinoline drug that is marketed in India as a single-ingredient product, but the data compiled for this report do not list an approved indication.
+The TxGNN model predicts it may be effective for **pulmonary hypertension**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
+The only indication in the ranked list with meaningful supporting literature is **rheumatoid arthritis** (8 publications, mostly historical), which is covered as an additional finding below.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Malaria (*Plasmodium falciparum* infection) |
-| Predicted New Indication | Pulmonary Hypertension |
+|------|------|
+| Original Indication | Not stated in the India license data |
+| Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 99.25% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on known pharmacological information, Amodiaquine belongs to the 4-aminoquinoline class of antimalarial drugs — the same structural family as chloroquine and hydroxychloroquine. Its primary antimalarial activity is attributed to accumulation in parasite food vacuoles and inhibition of heme polymerization, thereby disrupting the parasite's ability to detoxify heme. Beyond its antiparasitic action, amodiaquine has well-documented anti-inflammatory properties: studies in the rheumatoid arthritis literature confirm that it suppresses T cell proliferation and Th1 cell differentiation through p21-mediated pathways, and inhibits PPARγ activity, reducing pro-inflammatory responses.
+Currently, detailed mechanism of action data is not available. Based on known information, amodiaquine is a 4-aminoquinoline antimalarial, related to chloroquine and hydroxychloroquine. Its original indication is not recorded in the license data compiled for this report.
 
-The mechanistic bridge to pulmonary hypertension is plausible but speculative. Pulmonary arterial hypertension (PAH) is increasingly understood as a disease with significant inflammatory and autoimmune components — vascular remodelling driven by inflammatory cytokines, T cell infiltration, and dysregulated immune signalling are central pathophysiological features. Chloroquine and hydroxychloroquine, structurally related to amodiaquine, have been studied in PAH and systemic autoimmune diseases complicated by PAH, lending indirect mechanistic support. Additionally, the 4-aminoquinolines are known to modulate lysosomal function and autophagy, pathways implicated in pulmonary vascular smooth muscle cell proliferation.
+For pulmonary hypertension, no mechanistic rationale is evident from the available data. The score reflects the model's graph-based prediction only, with no trials or literature to back it. The other top-ranked predictions are similar: several migraine entries (migraine disorder, susceptibility, brainstem aura) probably come from the same graph neighbourhood and should not be counted as independent evidence. The rare conditions (nephrogenic syndrome of inappropriate antidiuresis, kyphoscoliotic heart disease, atrophoderma vermiculata, ulerythema ophryogenesis) likewise have no supporting data.
 
-That said, the TxGNN knowledge graph prediction may be capturing network-level relationships (shared protein targets, pathway proximity) rather than direct mechanistic evidence. Without primary experimental data or clinical observation linking amodiaquine specifically to pulmonary haemodynamics, this prediction remains hypothesis-generating only.
+### Additional Finding: Rheumatoid Arthritis (Rank 7, score 98.65%, Evidence Level L3)
+
+Rheumatoid arthritis is the best-supported alternative direction. Amodiaquine is structurally and pharmacologically related to chloroquine and hydroxychloroquine, which are established disease-modifying drugs for this condition. Preclinical work suggests anti-inflammatory activity through suppression of T cell proliferation and Th1 differentiation. A 2025 computational study also points to possible PAD4 inhibitor repositioning potential, which is relevant to citrullination biology in rheumatoid arthritis. Historical clinical reports from 1959 to 1964 exist, but their methodological quality cannot be verified from the data available.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Amodiaquine in Pulmonary Hypertension.
+Currently no related clinical trials registered for pulmonary hypertension, nor for any of the other top-ten predicted indications.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for Amodiaquine in Pulmonary Hypertension.
+Currently no related literature available for pulmonary hypertension.
+
+For the additional rheumatoid arthritis direction, the following publications were found:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [13799077](https://pubmed.ncbi.nlm.nih.gov/13799077/) | 1959 | Controlled clinical study (historical) | Arthritis and Rheumatism | 15-month controlled study of amodiaquine (Camoquin) in rheumatoid arthritis; no abstract available |
+| [14408648](https://pubmed.ncbi.nlm.nih.gov/14408648/) | 1959 | Clinical study (historical) | Lancet | Amodiaquine and hydroxychloroquine in rheumatoid arthritis; no abstract available |
+| [27109480](https://pubmed.ncbi.nlm.nih.gov/27109480/) | 2016 | Preclinical | Biochem Biophys Res Commun | Chloroquine and amodiaquine reduce T cell proliferation and Th1 differentiation via p21 |
+| [40697620](https://pubmed.ncbi.nlm.nih.gov/40697620/) | 2025 | Computational/in vitro | RSC Med Chem | Virtual screening for repositioned PAD4 inhibitors, relevant to rheumatoid arthritis |
+| [29071567](https://pubmed.ncbi.nlm.nih.gov/29071567/) | 2017 | Preclinical | Arch Pharm Res | Anti-adipogenic activity through PPARγ suppression; rheumatoid arthritis mentioned as a therapeutic area of interest |
+| [13939082](https://pubmed.ncbi.nlm.nih.gov/13939082/) | 1962 | Review (historical) | Hospital (Rio de Janeiro) | Evaluation of antimalarials for rheumatoid arthritis |
+| [13975794](https://pubmed.ncbi.nlm.nih.gov/13975794/) | 1962 | Clinical report (historical) | Vie Medicale | Treatment of rheumatoid polyarthritis with synthetic antimalarials |
+| [14203311](https://pubmed.ncbi.nlm.nih.gov/14203311/) | 1964 | Clinical commentary (historical) | Gazette Medicale de France | Reflections on a corticoid-aspirin-antimalarial combination |
 
 ---
 
 ## India Market Information
 
-Amodiaquine is not currently registered or marketed in India. No authorizations on record.
-
-> **Note:** Amodiaquine is listed on the WHO Essential Medicines List for malaria treatment (as ASAQ fixed-dose combination) and is widely used in Africa under WHO/UNICEF programs, but it does not hold an approved marketing authorization in India as of the data cut-off (2026-04-05).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 79388 | Eriquin 200mg Tablet | Strip of 10 tablets | Not stated |
+| 28083 | Basoquin Suspension | Bottle of 30 ml suspension | Not stated |
 
 ---
 
@@ -87,7 +103,7 @@ Amodiaquine is not currently registered or marketed in India. No authorizations 
 
 Please refer to the package insert for safety information.
 
-> Safety data specific to amodiaquine — including package insert warnings, contraindications, and drug-drug interaction profiles — were not available in this Evidence Pack. Key known concerns from the pharmacological literature include: risk of agranulocytosis with prolonged use (historically limiting its prophylactic use), hepatotoxicity, and potential QT interval prolongation (a class effect of aminoquinolines relevant to any cardiac indication such as PAH). These require formal evaluation before any repurposing programme is initiated.
+Note that the literature reviewed for the rheumatoid arthritis direction flags hepatotoxicity and agranulocytosis as risks associated with amodiaquine that would need careful weighing against hydroxychloroquine, which has a better-established safety profile.
 
 ---
 
@@ -96,18 +112,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high prediction score (99.25%) to amodiaquine for pulmonary hypertension, suggesting strong network-level associations in the knowledge graph; however, zero clinical trials and zero directly relevant publications have been identified, placing this at Evidence Level L5 — model prediction only, with no empirical validation. The drug is also not marketed in India, eliminating any regulatory shortcut. A Hold decision is appropriate until foundational evidence is established.
+The pulmonary hypertension prediction rests on the model score alone (Evidence Level L5), with no trials, no literature and no identifiable mechanistic link. The rheumatoid arthritis direction (L3) is more plausible, but its human evidence is historical and of unverified quality, and it would have to compete with hydroxychloroquine.
 
 **To proceed, the following is needed:**
-
-- **MOA clarification**: Obtain full DrugBank mechanism-of-action data for amodiaquine (DrugBank DB00613) to confirm whether known molecular targets overlap with PAH pathophysiology (e.g., PDGFR, BMPR2 pathway, inflammatory cytokine suppression)
-- **Safety dossier**: Retrieve CDSCO/TFDA/EMA package insert for complete warnings, contraindications, and QT-prolongation risk profile — critical for any cardiac/pulmonary indication
-- **Preclinical evidence search**: Conduct a systematic search in PubMed using broader queries (e.g., "amodiaquine vascular", "4-aminoquinoline pulmonary hypertension", "chloroquine PAH") to identify any indirect preclinical support
-- **DDI database access**: Restore the DDinter dataset (file path error logged in query log) to assess drug interaction risks, particularly with current PAH pharmacotherapy (sildenafil, bosentan, prostanoids)
-- **Expert review**: Engage a pulmonary hypertension specialist to assess biological plausibility before committing to preclinical studies
-- **India regulatory pathway assessment**: Confirm whether amodiaquine would require a full NDA or could leverage existing WHO/international data packages if clinical evidence supports advancement
-
-> ⚠️ *This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any therapeutic application.*
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- Mechanism of action data for amodiaquine
+- The approved indication text for the Indian licenses
+- Any mechanistic or preclinical evidence linking amodiaquine to pulmonary hypertension
+- For rheumatoid arthritis: a critical review of the 1959 controlled study, and a comparison of benefit and risk against hydroxychloroquine
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

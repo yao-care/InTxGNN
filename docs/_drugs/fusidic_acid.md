@@ -2,7 +2,7 @@
 layout: default
 title: Fusidic Acid
 parent: Moderate Evidence (L3-L4)
-nav_order: 381
+nav_order: 385
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,11 +29,12 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Fusidic Acid: From Staphylococcal Infections to Exposure Keratitis
+# Fusidic Acid: From Bacterial Skin and Systemic Infections to Exposure Keratitis
 
 ## One-Sentence Summary
 
-Fusidic acid is a fusidane-class antibiotic historically used against *Staphylococcus aureus* infections, though this evidence pack does not record a specific approved indication or product license for it. The TxGNN model's top-ranked prediction is that fusidic acid may be effective for **Exposure Keratitis**, but this direction is currently supported by **0 clinical trials** and only **1 publication**, and that publication does not directly involve fusidic acid or exposure keratitis — the evidence is weak.
+Fusidic acid is an antibacterial agent, originally used for infections such as urinary tract infection, bronchitis, acne, folliculitis and bacterial pneumonia, and in India it is marketed as topical creams and ointments.
+The TxGNN model predicts it may be effective for **Exposure Keratitis**, but there are **0 clinical trials** and only **1 publication** (an unrelated case series of ocular infections), so the prediction is not supported by clinical data.
 
 ---
 
@@ -41,21 +42,21 @@ Fusidic acid is a fusidane-class antibiotic historically used against *Staphyloc
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in evidence pack (Fusidic acid is a known antistaphylococcal antibiotic; no license/indication text on file) |
-| Predicted New Indication | Exposure Keratitis |
+| Original Indication | Not stated on the Indian licences; the knowledge graph lists urinary tract infection, bronchitis, acne, folliculitis, seborrheic dermatitis, bacterial pneumonia and others |
+| Predicted New Indication | Exposure keratitis |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L4 |
-| India Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap). Based on general pharmacological knowledge, fusidic acid is a fusidane-class antibiotic that inhibits bacterial protein synthesis by blocking elongation factor G (EF-G) translocation, and it is particularly active against *Staphylococcus* species, including MRSA. Its proven efficacy has historically been in skin, soft-tissue, and ocular surface infections in other markets.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, fusidic acid inhibits bacterial protein synthesis by blocking elongation factor G, and it is strongly active against Gram-positive bacteria such as *Staphylococcus*.
 
-Exposure keratitis, however, is primarily a mechanical/non-infectious corneal disorder caused by inadequate eyelid closure, and only requires antimicrobial therapy when a secondary bacterial infection develops. While fusidic acid ophthalmic formulations do have an antibacterial mechanistic rationale against *Staphylococcus*, the only literature identified for this pairing is a case series on *Tsukamurella* species (an atypical actinomycete, not *Staphylococcus*) causing ophthalmic infection — the mechanistic link between fusidic acid and exposure keratitis specifically remains weak and largely inferred from the drug's general antistaphylococcal activity rather than direct evidence.
+Exposure keratitis is mainly a mechanical or desiccation disorder of the cornea, caused by incomplete eyelid closure. An antibacterial would only be relevant if a secondary bacterial infection developed. The single retrieved paper is a case series on ocular *Tsukamurella* infections and does not study fusidic acid in this condition. The very high TxGNN score therefore appears to reflect proximity in the knowledge graph (ocular and infectious disease nodes) rather than clinical support.
 
 ---
 
@@ -69,19 +70,32 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31246677](https://pubmed.ncbi.nlm.nih.gov/31246677/) | 2019 | Case Series | Cornea | Largest case series of *Tsukamurella* species-associated ophthalmic infections (including a case of ocular implant infection after enucleation), covering clinical spectrum, risk factors, treatment, and outcome; does not directly evaluate fusidic acid in exposure keratitis. |
+| [31246677](https://pubmed.ncbi.nlm.nih.gov/31246677/) | 2019 | Case series | Cornea | Ophthalmic infections caused by *Tsukamurella* species, including the first report of ocular implant infection after enucleation; it does not evaluate fusidic acid or exposure keratitis |
 
 ---
 
 ## India Market Information
 
-Fusidic acid is not currently marketed in India — no product registrations are on file (0 licenses).
+Product indication text is not recorded on the licences. All 20 registrations are valid single-ingredient products, and the main ones are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 88191 | Fusy Cream | Cream (5 g tube) | Not recorded |
+| Registration No. 85771 | Fusidox 20mg Cream | Cream (5 g tube) | Not recorded |
+| Registration No. 87795 | Fusilife Cream | Cream (10 g tube) | Not recorded |
+| Registration No. 209057 | Safoban Ointment | Ointment (10 g tube) | Not recorded |
+| Registration No. 85644 | Fusi Ointment | Ointment (5 g tube) | Not recorded |
+
+All registered products are topical creams or ointments; no oral or ophthalmic forms are registered.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (knowledge-graph associations, not label text)**: The knowledge graph links fusidic acid with contraindications in conditions including liver failure, liver disease, kidney disease, gallbladder disease, diabetes mellitus, diabetic ketoacidosis, atrial fibrillation, atrioventricular block, myasthenia gravis, glaucoma, ocular hypertension, herpes simplex virus keratitis, eye infectious disease, conjunctivitis, *Clostridium difficile* colitis and respiratory failure. These associations are model-derived and should be checked against the official package insert.
+- **Ocular relevance**: Several of these associations involve the eye (glaucoma, ocular hypertension, herpes simplex keratitis, eye infection, conjunctivitis), which needs particular scrutiny for any ophthalmic use.
+
+No drug-interaction data were found, and package-insert warnings were not available. Please refer to the package insert for full safety information.
 
 ---
 
@@ -90,15 +104,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (exposure keratitis) has no clinical trials and only one loosely related case series (evidence level L4), and the drug's own mechanism-of-action data is missing, so there is insufficient basis to advance this specific indication.
+The prediction has a very high model score but no clinical trials and no directly relevant literature. Exposure keratitis is not primarily an infectious disease, and all marketed Indian products are topical skin formulations, not ophthalmic ones.
 
 **To proceed, the following is needed:**
-- Fusidic acid mechanism of action (MOA) data from DrugBank (DG002)
-- TFDA/India package insert warnings and contraindications (DG001, Blocking — required before any safety pre-assessment)
-- Original approved indication and license data for fusidic acid (currently absent from regulatory records)
-- Preclinical or case-level evidence specifically linking fusidic acid to bacterial keratitis/exposure keratitis with *Staphylococcus* co-infection
+- Package-insert warnings and contraindications from the Indian regulator's records
+- Mechanism-of-action data (for example from DrugBank)
+- Evidence that secondary bacterial infection in exposure keratitis is a meaningful, fusidic-acid-susceptible target
+- An ophthalmic formulation and route-compatibility assessment, including the ocular contraindication signals above
 
-**Note on alternative candidates:** Within the same evidence pack, two lower-ranked predictions have materially stronger evidence and may warrant separate evaluation — *post-bacterial disorder* (rank 5, evidence level L2, includes a completed Phase 3 RCT of oral fusidic acid, NCT02570490, recommendation "Proceed with Guardrails") and *otitis externa* (rank 3, evidence level L3, supported by 6 publications on staphylococcal otitis pathogens, recommendation "Research Question"). These may represent more actionable repurposing directions than the top-ranked exposure keratitis prediction.
+**Other predictions worth noting:** Otitis externa (rank 3, evidence level L4) has a plausible mechanism, since *S. aureus* and *S. pseudintermedius* are within fusidic acid's spectrum and topical use is reasonable. However, the retrieved literature is mostly veterinary or indirect, and rising staphylococcal resistance is a concern. It is better framed as a research question than as a candidate for advancement. The remaining predictions (ranks 2 and 4–10) have no supporting evidence and should stay on hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

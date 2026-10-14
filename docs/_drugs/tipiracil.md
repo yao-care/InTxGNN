@@ -2,7 +2,7 @@
 layout: default
 title: Tipiracil
 parent: Model Prediction Only (L5)
-nav_order: 833
+nav_order: 840
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,102 +29,91 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tipiracil: From Metastatic Colorectal Cancer to Cecum Villous Adenoma
+# Tipiracil: From Colorectal Cancer to Cecum Villous Adenoma
 
 ## One-Sentence Summary
 
-Tipiracil is a thymidine phosphorylase inhibitor combined with trifluridine to form TAS-102 (Lonsurf), originally used for metastatic/unresectable colorectal cancer. The TxGNN model predicts it may be effective for **Cecum Villous Adenoma**, but currently **no clinical trials or publications** directly support this specific direction — the evidence pack's own mechanistic review flags this as a likely false-positive driven by anatomical proximity rather than true biological plausibility.
-
----
+Tipiracil is a component of the trifluridine/tipiracil combination, originally used to treat colorectal cancer.
+The TxGNN model predicts it may be effective for **cecum villous adenoma**, but there are currently **0 clinical trials** and **0 related publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Metastatic/unresectable colorectal cancer (as component of TAS-102/Lonsurf; not independently marketed) |
+| Original Indication | Colorectal cancer (malignant colon neoplasm, colonic neoplasm, squamous cell carcinoma of colon) |
 | Predicted New Indication | Cecum villous adenoma |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Tipiracil itself is not cytotoxic. According to pharmacology data in this evidence pack, it acts as a thymidine phosphorylase inhibitor — its role is to block degradation of trifluridine (the actual antimetabolite), thereby increasing trifluridine's bioavailability and DNA-incorporation in tumour cells. This combination (TAS-102/Lonsurf) is approved for metastatic colorectal cancer and is under investigation for metastatic gastric cancer.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tipiracil is a thymidine phosphorylase inhibitor that is marketed only in combination with trifluridine (trifluridine/tipiracil). It prevents the breakdown of trifluridine, a cytotoxic nucleoside analogue, and so raises the drug's exposure. Tipiracil itself is not known to have a direct antitumour effect.
 
-However, for the top-ranked prediction — cecum villous adenoma — the evidence pack's own mechanistic analysis argues **against** clinical plausibility rather than for it. Villous adenoma is a benign/pre-malignant lesion, and the standard of care is endoscopic resection, not systemic cytotoxic chemotherapy. The high TxGNN score most likely reflects the knowledge graph's tendency to cluster diseases by anatomical location ("colon/cecum") rather than a genuine mechanistic or clinical relationship to tipiracil's antimetabolite-potentiating activity.
+A villous adenoma of the cecum is a benign precursor lesion in the same organ as colorectal cancer. The link between the two is therefore anatomical and prediction-based. The model score is very high, but it likely reflects shared colon-tissue neighbours in the knowledge graph rather than a biological reason.
 
-The same anatomical-proximity pattern appears across ranks 2–9 in this evidence pack (colon lipoma, colonic lymphangioma, colon leiomyoma, cavernous hemangioma of colon, etc.) — all benign, non-proliferative, or vascular/structural lesions with no rationale for cytotoxic chemotherapy. Only rank 3 (rectosigmoid junction neoplasm, if malignant) and rank 6 (cecal disease, non-specific) fall within tipiracil's existing mechanistic scope, but neither represents a genuinely new indication signal.
-
----
+There is also little clinical rationale for cytotoxic therapy in a benign lesion that can usually be removed endoscopically. No clinical, preclinical or literature evidence supports a benefit in this condition.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available for cecum villous adenoma.
 
 ## India Market Information
 
-Tipiracil is currently **not marketed** in India, with zero registered authorizations on file. No product-level registration data (authorization number, brand name, dosage form, or approved indication text) is available for review.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 228143 | Tipanat 8.19mg/20mg Tablet (Natco Pharma Ltd) | Bottle of 20 tablets (oral) | Not specified in the data compiled for this report |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (antimetabolite-potentiator; component of fluoropyrimidine-adjacent combination TAS-102) |
-| Myelosuppression Risk | Medium–High — leukopenia and neutropenia reported as known adverse effects of trifluridine/tipiracil combination therapy (PMID 30677817) |
+| Cytotoxicity Classification | Not a cytotoxic agent itself. It is the enzyme-inhibitor component of a conventional cytotoxic combination (trifluridine, a nucleoside analogue) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions. The published case reports for the combination mention leukopenia and neutropenia |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | CBC with differential (leukopenia/neutropenia risk); monitor for diarrhea, vomiting, and fatigue as reported adverse effects |
-| Handling Protection | Must follow cytotoxic drug handling regulations as component of an antineoplastic combination product |
-
----
+| Monitoring Items | Complete blood count with differential, plus liver and renal function, as is standard for the combination |
+| Handling Protection | Please refer to the package insert; follow cytotoxic drug handling regulations when handling the combination product |
 
 ## Safety Considerations
 
-**Drug Interactions**: 13 moderate-level interactions identified (source: DDInter):
+- **Drug Interactions**: 14 interaction records were found. Thirteen are rated Moderate (DDInter). Those listed are:
+  - Cimetidine
+  - Tafenoquine
+  - Ketoconazole
+  - Brigatinib
+  - Crizotinib
+  - Encorafenib
+  - Ethinylestradiol
+  - Lenvatinib
+  - Medroxyprogesterone acetate
+  - Megestrol acetate
+  - Ribociclib
+  - Rucaparib
+  - Vandetanib
 
-| Interacting Drug | Level |
-|---|---|
-| Cimetidine | Moderate |
-| Tafenoquine | Moderate |
-| Ketoconazole | Moderate |
-| Brigatinib | Moderate |
-| Crizotinib | Moderate |
-| Encorafenib | Moderate |
-| Ethinylestradiol | Moderate |
-| Lenvatinib | Moderate |
-| Medroxyprogesterone acetate | Moderate |
-| Megestrol acetate | Moderate |
-| Ribociclib | Moderate |
-| Rucaparib | Moderate |
-| Vandetanib | Moderate |
+  The fourteenth is a pharmacology record linking tipiracil to the SARS-CoV-2 non-structural protein 15, which is not a clinical drug interaction.
+- **Adverse event report**: A case report describes leukocytoclastic vasculitis with late-onset Henoch-Schönlein purpura after trifluridine/tipiracil treatment. Other reported effects of the combination include leukopenia, neutropenia, fatigue, diarrhoea and vomiting.
 
----
+Warnings and contraindications from the package insert are not available. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L5 (model prediction only) with zero clinical trials or publications supporting cecum villous adenoma specifically, and the mechanistic rationale itself concludes the prediction likely reflects a knowledge-graph anatomical-proximity artifact rather than genuine biological plausibility — villous adenoma is a benign lesion managed by endoscopic resection, not cytotoxic chemotherapy.
+The prediction for cecum villous adenoma is supported only by the model score, with no trials, no literature and no mechanistic basis. Cytotoxic combination therapy is also hard to justify for a benign lesion that can be resected endoscopically. The other nine predicted indications are likewise Hold. Most are benign colon lesions or re-labellings of the approved colorectal cancer indication.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory-authority product label (warnings and contraindications) — currently unavailable and blocking any safety pre-assessment (S1)
-- Formal DrugBank-sourced mechanism of action confirmation (currently inferred only from pharmacology interaction records)
-- Preclinical or mechanistic evidence specifically addressing benign colorectal adenoma biology, if this indication is to be pursued further
-- Re-evaluation of lower-ranked candidates (e.g., rectosigmoid junction neoplasm, if malignant subtype) that fall within tipiracil's existing mechanistic scope, rather than pursuing anatomically-clustered benign lesions
+- Package insert warnings and contraindications for the Indian product, which block safety screening.
+- Mechanism of action data, for example from DrugBank.
+- Any preclinical or clinical evidence specific to cecal villous adenoma. If none exists, consider redirecting effort to malignant colorectal subsets such as rectosigmoid junction neoplasm, where the approved indication may already apply.
+- A benefit-risk argument for cytotoxic therapy over endoscopic resection in a benign lesion.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

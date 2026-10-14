@@ -2,7 +2,7 @@
 layout: default
 title: Nefopam
 parent: Model Prediction Only (L5)
-nav_order: 579
+nav_order: 584
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nefopam: From Acute/Chronic Pain to Craniostenosis Cataract
+# Nefopam: From Pain Management (Indication Not Listed on Licences) to Lumbar Spinal Stenosis
 
 ## One-Sentence Summary
 
-Nefopam is a non-opioid central analgesic (benzoxazocine class), clinically established for moderate-to-severe pain management via monoamine reuptake inhibition and NMDA receptor modulation.
-The TxGNN model's highest-scoring prediction points to **Craniostenosis Cataract** (score: 99.98%); however, 9 of the top 10 predictions are cataract subtypes with near-identical scores — a pattern strongly consistent with a knowledge graph clustering artifact rather than genuine biological signal.
-**No clinical trials or publications** were found to support Nefopam for any of the 10 predicted indications.
-
----
+Nefopam is a centrally acting non-opioid analgesic that is marketed in India. The TxGNN model's top-ranked predictions are a cluster of cataract-related conditions, which have no supporting evidence. The only prediction with any literature behind it is **lumbar spinal stenosis** (perioperative pain), with **0 registered clinical trials** and **4 publications**, so the evidence remains early.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Acute and chronic pain (non-opioid analgesic) |
-| Predicted New Indication | Craniostenosis Cataract (Rank 1) |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+|------|------|
+| Original Indication | Not stated on the India licences (analgesic by drug class) |
+| Predicted New Indication | Craniostenosis cataract (top-ranked, no evidence). The most evidence-supported alternative is lumbar spinal stenosis (rank 10). |
+| TxGNN Prediction Score | 99.98% (craniostenosis cataract); 99.97% (lumbar spinal stenosis) |
+| Evidence Level | L5 (craniostenosis cataract); L4 (lumbar spinal stenosis) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the current Evidence Pack. Based on established pharmacological knowledge, Nefopam acts primarily through monoamine reuptake inhibition (serotonin, norepinephrine, dopamine) and NMDA receptor modulation, giving it a central analgesic profile without opioid receptor activity. It also exhibits sodium and calcium channel blocking properties at higher concentrations — a breadth of CNS targets that may create indirect connectivity to many disease nodes in the TxGNN knowledge graph.
+Currently, detailed mechanism of action data for this drug is not available in the compiled data. Based on general pharmacology, nefopam is a centrally acting non-opioid analgesic. It is understood to inhibit serotonin, norepinephrine and dopamine reuptake and to modulate voltage-gated sodium and calcium channels.
 
-Craniostenosis cataract is a rare developmental condition in which premature fusion of cranial sutures is associated with lens opacification. There is no established biological pathway linking Nefopam's analgesic mechanisms to lens metabolism or craniosynostosis pathophysiology. The same assessment applies to the eight other cataract subtypes (Ranks 2–9): mature cataract, DM type 2 associated cataract, tetanic cataract, immature cataract, cortical cataract, nuclear senile cataract, senile cataract, and diabetic cataract. All nine share near-identical TxGNN scores (0.9997–0.9998), which is a diagnostic hallmark of **knowledge graph node clustering artifacts** — the model is picking up structural proximity between the Nefopam node and a dense ophthalmic disease cluster in the graph, not a genuine biological relationship.
+**The cataract predictions (ranks 1–9)** are not credible. Nefopam's actions have no known link to lens opacity, crystallin aggregation, the polyol pathway or calcium homeostasis. All nine terms carry nearly identical scores (99.97–99.98%), which suggests a systematic knowledge-graph artifact rather than independent signals. There are no trials or publications for any of them.
 
-The sole exception is **Lumbar Spinal Stenosis (Rank 10)**, where Nefopam's analgesic mechanism directly maps to the primary symptom burden of neurogenic claudication and chronic compressive pain. This is the only prediction in this list with conceptual coherence to Nefopam's established clinical role. Even so, no specific clinical trials or literature evidence currently support this application, and the appropriate framing would be **symptom management** (pain relief), not disease modification.
-
----
+**Lumbar spinal stenosis (rank 10)** is biologically plausible as symptomatic pain management. Central analgesic and monoamine-reuptake actions could reduce postoperative pain and dysesthesia after spine surgery, and may reduce opioid use. This would be symptom control, not disease modification. Two retrieved publications (PMIDs 38068520 and 41937571) appear to be randomized perioperative studies, but the data compiled for this report contain only truncated abstracts. Their results cannot be confirmed, so the evidence level is capped at L4 pending full-text review.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for any of the 10 predicted indications.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for any of the 10 predicted indications.
+These publications relate to lumbar spinal stenosis. No literature exists for the cataract predictions.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [38068520](https://pubmed.ncbi.nlm.nih.gov/38068520/) | 2023 | RCT (double-blind, randomized) | J Clin Med | Effect of 20 mg nefopam on dysesthesia, postoperative pain and satisfaction in 73 patients undergoing spine surgery for lumbar spinal stenosis. Results are not available in the compiled abstract. |
+| [41937571](https://pubmed.ncbi.nlm.nih.gov/41937571/) | 2026 | RCT (double-blind, placebo-controlled) | Asian Spine J | Opioid-sparing effect of continuous postoperative intravenous nefopam after multilevel degenerative lumbar spinal fusion. Results are not available in the compiled abstract. |
+| [31166320](https://pubmed.ncbi.nlm.nih.gov/31166320/) | 2019 | Clinical study | Zh Vopr Neirokhir Im N N Burdenko | Compares multimodal analgesia regimens in spinal stenosis surgery and their effect on failed back surgery syndrome. Nefopam involvement is unconfirmed. |
+| [25535527](https://pubmed.ncbi.nlm.nih.gov/25535527/) | 2014 | Case report | J Korean Neurosurg Soc | Status epilepticus attributed to nefopam in a 71-year-old man admitted for lumbar spinal stenosis surgery. This is a safety signal. |
 
 ## India Market Information
 
-Nefopam is **not currently marketed in India**. No CDSCO-registered licenses were identified.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 150449 | Nefodol Tablet (Medley Pharmaceuticals) | Strip of 10 tablets | Not stated |
+| 151496 | Nefosar 20mg Injection (Abbott) | Ampoule of 1 ml injection | Not stated |
+| 150485 | Nefosar Tablet (Abbott) | Strip of 10 tablets | Not stated |
 
-> **Note:** Nefopam is approved and widely used in several European countries (France, Belgium, UK, South Africa) for acute and postoperative pain. The absence of an India registration means both supply chain and regulatory pathway assessments would be required before any clinical evaluation.
-
----
+Both oral (tablet) and injectable forms are available.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Full prescribing information (including warnings and contraindications) was not retrievable from the current data inputs — this is classified as a **Blocking** data gap (DG001) that must be resolved before any safety evaluation can proceed.
+- **Neurological risk**: The literature includes a case report of status epilepticus caused by nefopam in a patient undergoing lumbar spinal stenosis surgery (PMID 25535527). The abstract also notes other reported neurologic reactions (confusion, hallucinations, delirium, convulsions) and anticholinergic, cardiovascular and neuropsychiatric adverse effects.
 
----
+Please refer to the package insert for further safety information, including warnings, contraindications and drug interactions.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top 9 predictions (all cataract subtypes) share near-identical TxGNN scores across unrelated disease subtypes, are mechanistically unsupported, and carry zero clinical or literature evidence — collectively indicating a knowledge graph clustering artifact that should be excluded from further evaluation. The one mechanistically coherent candidate (lumbar spinal stenosis) is also unsupported by evidence and cannot be assessed safely without resolving the blocking safety data gap.
+The top-ranked cataract predictions have no mechanistic or clinical support and appear to be model artifacts. Lumbar spinal stenosis (perioperative pain) is plausible, with two apparent randomized studies, but their results are unverified and a seizure-related safety signal exists.
 
 **To proceed, the following is needed:**
-
-- **Artifact verification (immediate):** Examine TxGNN graph topology to confirm adjacency between the Nefopam node and the cataract disease cluster; if confirmed as artifact, remove these 9 indications from the candidate list
-- **MOA data retrieval (DG002 — High priority):** Query DrugBank API for Nefopam's full mechanism of action, targets, and pharmacology profile
-- **Safety baseline (DG001 — Blocking):** Retrieve and parse the Nefopam package insert (available from EMA, MHRA, or French ANSM) to extract warnings, contraindications, and key drug interactions; the DDI database path error must also be resolved
-- **Lumbar Spinal Stenosis — targeted literature review:** If proceeding beyond artifact cleanup, commission a focused search on Nefopam use in neuropathic and compressive pain conditions (not restricted to LSS) to establish whether a symptom-management claim is supportable
-- **India regulatory feasibility:** Assess CDSCO registration pathway and import supply chain before committing research investment, given the drug's complete absence from the India market
+- Full-text review of PMIDs 38068520 and 41937571 to confirm design, outcomes and effect sizes
+- Package insert warnings and contraindications for the India products (currently missing)
+- Detailed mechanism of action data from DrugBank
+- Confirmation of the approved indications on the India licences
+- A seizure-risk assessment for the proposed perioperative spine surgery population
+- Route compatibility assessment (oral and injectable forms are available; the required route has not been defined)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Betamethasone
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 106
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Betamethasone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,110 +29,94 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Betamethasone: From Inflammatory & Autoimmune Conditions to Alopecia Areata
+# Betamethasone: From Autoimmune and Inflammatory Conditions to Alopecia Areata
 
 ## One-Sentence Summary
 
-Betamethasone is a potent synthetic glucocorticoid corticosteroid widely used in clinical practice for a broad range of inflammatory, allergic, and autoimmune conditions; no India (CDSCO) regulatory registration records were found in this dataset.
-The TxGNN model predicts it may be effective for **Alopecia Areata**, with **7 clinical trials** and **20 publications** currently supporting this direction.
-Evidence includes a 2023 Cochrane systematic review and multiple completed randomised controlled trials.
-
----
+Betamethasone is a potent glucocorticoid originally used for autoimmune and inflammatory conditions such as Crohn disease, adrenocortical insufficiency and eosinophilic pneumonia.
+The TxGNN model predicts it may be effective for **Alopecia Areata**,
+with **6 clinical trials** and **20 publications** currently supporting this direction, including several randomized comparisons of oral mini-pulse, topical and intralesional use.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No India (CDSCO) registry record available; betamethasone is a glucocorticoid corticosteroid broadly used for inflammatory and autoimmune conditions |
-| Predicted New Indication | Alopecia Areata |
+|------|------|
+| Original Indication | Autoimmune disease, Crohn disease, adrenocortical insufficiency, and others (the licence records provide no approved indication text) |
+| Predicted New Indication | Alopecia areata |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L2 (1 completed Phase 2 RCT + multiple completed Phase 4 RCTs + Cochrane review) |
-| India Market Status | Not Marketed (no CDSCO registrations found) |
-| Number of Registrations | 0 |
+| Evidence Level | L2 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Betamethasone is a synthetic glucocorticoid with potent anti-inflammatory and immunosuppressive activity. Although detailed MOA data is unavailable in this Evidence Pack, it is well-established that betamethasone binds to intracellular glucocorticoid receptors, suppresses the transcription of pro-inflammatory cytokines (including IL-1, IL-6, TNF-α), and inhibits T-lymphocyte activation and proliferation.
+Currently, detailed mechanism of action data is not available. Based on known information, betamethasone is a potent glucocorticoid, its efficacy in autoimmune and inflammatory diseases is established, and mechanistically it may be applicable to alopecia areata.
 
-Alopecia areata (AA) is a tissue-specific autoimmune disorder in which autoreactive CD8⁺ T cells breach the immune privilege of hair follicles and trigger non-scarring hair loss. This immune-mediated mechanism is precisely the pathological pathway that corticosteroids are designed to suppress. The mechanistic match between betamethasone's immunosuppressive action and the T-cell-driven pathology of AA is therefore direct and biologically coherent.
+Alopecia areata is a T-cell-mediated autoimmune attack on the hair follicle, with collapse of follicular immune privilege. Betamethasone suppresses inflammatory cytokines and lymphocyte activity, which is directly relevant to this process. This fits the drug's existing autoimmune indications.
 
-In clinical practice, corticosteroids — administered topically, intralesionally, or systemically as pulse/mini-pulse regimens — are already regarded as first- or second-line agents for AA. The TxGNN prediction is therefore consistent with existing clinical knowledge, and the strength of the supporting evidence (including a Cochrane review and multiple RCTs comparing betamethasone formulations head-to-head with other agents) strongly reinforces its plausibility.
-
----
+Betamethasone is already used in clinical practice for this condition as a topical cream, as intralesional injection and as oral mini-pulses. The main risks are systemic steroid adverse effects with pulse dosing and relapse after withdrawal.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|-----------|-------------|
-| [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | Phase 2 | Completed | 60 | Compared weekly azathioprine pulse vs. betamethasone oral mini-pulse (BOMP) in moderate-to-severe AA; directly evaluates betamethasone as primary intervention |
-| [NCT03535233](https://clinicaltrials.gov/study/NCT03535233) | Phase 4 | Completed | 40 | Combined topical 5% minoxidil + potent topical corticosteroid vs. intralesional triamcinolone in AA; RCT assessing topical corticosteroid combination efficacy |
-| [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | Phase 4 | Completed | 50 | Head-to-head comparison of topical betamethasone vs. topical latanoprost for localised AA; provides direct comparative evidence |
-| [NCT05803070](https://clinicaltrials.gov/study/NCT05803070) | N/A | Unknown | 59 | Topical cetirizine 1% vs. topical betamethasone valerate 0.1% in localised AA; efficacy and safety comparison |
-| [NCT06087796](https://clinicaltrials.gov/study/NCT06087796) | Phase 1 | Unknown | 60 | Topical pentoxifylline 2% gel and topical metformin 10% gel vs. topical betamethasone valerate 0.1% cream in patchy AA; novel comparator study |
-| [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | Phase 4 | Recruiting | 250 | Multicentre prospective study of treatment outcomes in Central Centrifugal Cicatricial Alopecia (related scarring alopecia subtype); corticosteroid arm included |
-| [NCT01111981](https://clinicaltrials.gov/study/NCT01111981) | Phase 4 | Unknown | 30 | Safety and efficacy of clobetasol propionate 0.05% foam in Central Centrifugal Cicatricial Alopecia; related corticosteroid comparator |
-
----
+|---------|------|------|------|---------|
+| [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | Phase 2 | Completed | 60 | Weekly azathioprine pulse vs oral betamethasone mini-pulse in moderate to severe alopecia areata (betamethasone directly evaluated; no results summary available) |
+| [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | Phase 4 | Completed | 50 | Topical latanoprost vs topical betamethasone in localized alopecia areata |
+| [NCT05803070](https://clinicaltrials.gov/study/NCT05803070) | N/A | Unknown | 59 | Topical cetirizine 1% vs betamethasone valerate 0.1% in localized alopecia areata |
+| [NCT06087796](https://clinicaltrials.gov/study/NCT06087796) | Phase 1 | Unknown | 60 | Topical pentoxifylline and metformin gels vs betamethasone valerate 0.1% cream in patchy alopecia areata |
+| [NCT07696585](https://clinicaltrials.gov/study/NCT07696585) | N/A | Not yet recruiting | 60 | Topical metformin, simvastatin and betamethasone valerate in patchy alopecia areata (betamethasone's contribution cannot be separated) |
+| [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | Phase 4 | Recruiting | 250 | Treatment outcomes in central centrifugal cicatricial alopecia, a scarring alopecia different from alopecia areata (indirect relevance) |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | Cochrane Systematic Review | Cochrane Database of Systematic Reviews | Network meta-analysis of all AA treatments; establishes comparative evidence base for corticosteroids including betamethasone |
-| [34400956](https://pubmed.ncbi.nlm.nih.gov/34400956/) | 2021 | RCT | Iranian Journal of Pharmaceutical Research | Double-blind, placebo-controlled RCT (n=36) comparing oral betamethasone pulse, methotrexate, and combination in severe AA; betamethasone arm showed significant hair regrowth |
-| [40510104](https://pubmed.ncbi.nlm.nih.gov/40510104/) | 2025 | RCT | Cureus | Randomised controlled trial (n=60) comparing oral cyclosporine vs. betamethasone mini-pulse in AA; provides head-to-head comparative efficacy data |
-| [36257912](https://pubmed.ncbi.nlm.nih.gov/36257912/) | 2022 | RCT | Dermatologic Therapy | Blinded multi-group RCT evaluating latanoprost vs. minoxidil, betamethasone, and combinations in AA (6 groups, n=18 each); comprehensive comparative design |
-| [39393548](https://pubmed.ncbi.nlm.nih.gov/39393548/) | 2025 | RCT | Journal of the American Academy of Dermatology | Randomised controlled trial of microneedle transdermal delivery of compound betamethasone in AA; demonstrates novel delivery approach reduces injection pain while maintaining efficacy |
-| [38623137](https://pubmed.ncbi.nlm.nih.gov/38623137/) | 2024 | RCT | Cureus | Comparison of topical betamethasone dipropionate vs. topical minoxidil in AA patients; direct head-to-head RCT |
-| [40519428](https://pubmed.ncbi.nlm.nih.gov/40519428/) | 2025 | Observational Study | Cureus | Prospective study assessing efficacy, safety, and outcomes of oral betamethasone mini-pulses in moderate-to-severe AA |
-| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Review | Dermatology Practical & Conceptual | Comprehensive review of corticosteroid pulse therapy in AA: efficacy, relapse rates, side effects, and prognostic factors |
-| [36461625](https://pubmed.ncbi.nlm.nih.gov/36461625/) | 2023 | Review | Pediatric Dermatology | Review of pulse dose corticosteroid therapy dosing and administration specifically in paediatric AA; summarises available dosing regimens |
-| [32594786](https://pubmed.ncbi.nlm.nih.gov/32594786/) | 2022 | RCT | Journal of Dermatological Treatment | Within-patient randomised controlled trial comparing intralesional betamethasone vs. triamcinolone acetonide in localised AA; directly evaluates betamethasone intralesional efficacy |
+|------|-----|------|------|---------|
+| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | Network meta-analysis | Cochrane Database Syst Rev | Comparison of treatments for alopecia areata, including immunosuppressants, hair growth stimulants and contact immunotherapy |
+| [39393548](https://pubmed.ncbi.nlm.nih.gov/39393548/) | 2025 | RCT | J Am Acad Dermatol | Microneedle transdermal delivery of compound betamethasone as a less painful alternative to intralesional injection |
+| [34400956](https://pubmed.ncbi.nlm.nih.gov/34400956/) | 2021 | RCT (double-blind, placebo-controlled) | Iran J Pharm Res | Oral betamethasone pulse (3 mg weekly), methotrexate, and their combination in 36 patients with severe alopecia areata |
+| [40510104](https://pubmed.ncbi.nlm.nih.gov/40510104/) | 2025 | RCT | Cureus | Oral cyclosporine vs oral betamethasone mini-pulse in 60 patients |
+| [27746635](https://pubmed.ncbi.nlm.nih.gov/27746635/) | 2016 | Comparative study | Ann Dermatol | Oral cyclosporine vs betamethasone minipulse therapy |
+| [32594786](https://pubmed.ncbi.nlm.nih.gov/32594786/) | 2022 | Within-patient RCT | J Dermatol Treat | Intralesional betamethasone vs triamcinolone acetonide in localized alopecia areata |
+| [36257912](https://pubmed.ncbi.nlm.nih.gov/36257912/) | 2022 | RCT (blinded) | Dermatol Ther | Latanoprost vs minoxidil, betamethasone and combinations in six groups of 18 patients |
+| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Review | Dermatol Pract Concept | Efficacy, relapse rates and side effects of corticosteroid pulse therapy in alopecia areata |
+| [40519428](https://pubmed.ncbi.nlm.nih.gov/40519428/) | 2025 | Clinical study | Cureus | Efficacy and safety of oral betamethasone mini-pulses in moderate to severe alopecia areata |
+| [17642661](https://pubmed.ncbi.nlm.nih.gov/17642661/) | 2004 | Open uncontrolled study | Indian J Dermatol Venereol Leprol | Extensive alopecia areata treated with oral betamethasone mini-pulse therapy |
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 26850 | Besole 0.5mg Tablet | Strip of 10 tablets | Not stated in the licence record |
+| 27072 | Betnevin 4mg Injection | Vial of 1 ml injection | Not stated in the licence record |
+| 139463 | Mycopar Cream | Tube of 5 gm cream | Not stated in the licence record |
+| 38129 | Celestone 0.5mg Oral Drops | Bottle of 10 ml oral drops | Not stated in the licence record |
+| 25777 | Betnesol Oral Drops | Packet of 15 ml oral drops | Not stated in the licence record |
+
+In total, 20 valid single-ingredient registrations exist, covering oral tablets, oral drops, injections, creams and ointments.
 
 ## Safety Considerations
 
-**Drug Interactions (451 total interactions identified):**
+- **Contraindications (knowledge-graph associations, not label text)**: hypertension, congestive heart failure, hyperglycemia, epilepsy, measles, herpes simplex virus keratitis, and hypopituitarism and related pituitary hormone deficiencies.
+- **Drug Interactions**: 451 interactions are recorded. A major interaction is listed with adalimumab. Moderate interactions include zidovudine, isotretinoin, acarbose, acetazolamide, ketorolac, ibuprofen, nifedipine, ethinylestradiol, aldesleukin, alemtuzumab, fluvoxamine and fosamprenavir. Minor interactions include formoterol and salbutamol.
+- **Class considerations**: Systemic steroid adverse effects with pulse dosing and relapse after withdrawal are noted in the literature.
 
-| Severity | Interacting Drug | Clinical Relevance |
-|----------|----------------|--------------------|
-| **Major** | Adalimumab | Concurrent use significantly increases infection risk due to compounded immunosuppression |
-| Moderate | Ibuprofen, Ketorolac | Increased risk of gastrointestinal ulceration and bleeding with concomitant NSAIDs |
-| Moderate | Acarbose, Albiglutide | Glucocorticoids antagonise hypoglycaemic effects; blood glucose monitoring required |
-| Moderate | Acetazolamide | Risk of hypokalaemia may be increased |
-| Moderate | Nifedipine | Possible pharmacokinetic interaction; blood pressure monitoring warranted |
-| Moderate | Ethinylestradiol | Oestrogens may increase corticosteroid plasma levels |
-| Moderate | Fluvoxamine | CYP3A4 inhibition may increase betamethasone exposure |
-| Moderate | Fosamprenavir | CYP3A4-mediated interaction; monitor for increased corticosteroid effects |
-| Moderate | Isotretinoin | Concurrent use increases risk of raised intracranial pressure |
-| Moderate | Immunologicals (Adalimumab, Alefacept, Alemtuzumab, Aldesleukin, Tetanus toxoid) | Betamethasone may reduce immune response to vaccines and biologics |
-| Minor | Formoterol, Salbutamol | Hypokalaemia risk may be mildly increased |
-
-> **Note:** Detailed key warnings and contraindications from the package insert are not available in this Evidence Pack. Please refer to the full prescribing information before clinical use.
-
----
+Please refer to the package insert for the full warnings, as label-based safety data were not available.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Betamethasone is a mechanistically well-justified treatment for alopecia areata — an autoimmune disease driven by T-cell activity that is directly suppressed by glucocorticoids — and is already used in clinical practice for this indication globally, supported by a 2023 Cochrane systematic review, multiple completed RCTs, and ongoing comparative trials. However, no India (CDSCO) regulatory registration was found in this dataset, formal large-scale Phase 3 RCT data is absent, and safety details (key warnings, contraindications) are not available in this pack.
+Betamethasone is directly evaluated in alopecia areata in a completed Phase 2 trial and several randomized studies of oral mini-pulse, topical and intralesional use, and it is widely marketed in India. However, most trials are small, use betamethasone as a comparator, and are not placebo-controlled, so the evidence does not reach L1.
 
 **To proceed, the following is needed:**
+- Package insert warnings and contraindications from the Indian regulatory source
+- Mechanism of action data
+- Larger, placebo-controlled trials with defined dosing regimens (topical, intralesional, oral mini-pulse)
+- A monitoring and relapse-management plan for systemic pulse dosing, especially in patients with hypertension, diabetes or heart failure
 
-- **Regulatory verification:** Confirm actual CDSCO registration status in India, as betamethasone products are widely sold; the current dataset result (0 registrations) may reflect a data gap rather than true market absence
-- **Package insert review:** Obtain and review the full India package insert for key warnings and contraindications (DG001 — currently blocking S1 safety assessment)
-- **MOA documentation:** Retrieve mechanism of action data from DrugBank (DG002) to complete the mechanistic evidence dossier
-- **Route-specific assessment:** Determine which administration route (topical, intralesional, oral mini-pulse) is most appropriate for the India clinical context and patient population
-- **Paediatric vs. adult dosing plan:** Given existing evidence for both adult and paediatric AA, a dose-stratified safety monitoring plan should be developed
-- **DDI screening:** For AA patients commonly co-prescribed immunosuppressants or biologics (e.g., adalimumab — a **major** interaction), prospective DDI screening protocols should be established before clinical deployment
-
-> ⚠️ *This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+**Other predicted indications (for reference):** Alopecia mucinosa, telogen effluvium, Quinquaud's folliculitis decalvans and idiopathic steroid-sensitive nephrotic syndrome have only case-level or indirect evidence (Hold, or a research question for nephrotic syndrome). The remaining predictions are supported only by the model score and are not recommended for further work at this time.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

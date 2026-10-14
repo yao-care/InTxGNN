@@ -33,94 +33,65 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Bisoprolol is a selective β1-adrenergic receptor blocker widely used in clinical practice for hypertension, chronic heart failure, and angina pectoris.
-The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease**, with a prediction score of **99.94%**.
-However, **no supporting clinical trials or literature** specific to this indication were identified; the current evidence level is model prediction only (L5).
-
----
+Bisoprolol is a beta-1 selective blocker, originally used to treat hypertension.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**,
+but **no clinical trials and no publications** currently support this specific prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension, chronic stable heart failure, angina pectoris |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
+|------|------|
+| Original Indication | Hypertension (hypertensive disorder) |
+| Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.94% |
-| Evidence Level | L5 (model prediction only, no actual studies) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Research Question (Hold) |
-
----
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data is not available from the structured data source. Based on established pharmacology, Bisoprolol is a highly cardioselective β1-adrenergic receptor antagonist. By blocking β1 receptors in the heart, it reduces heart rate and cardiac output, thereby lowering systemic blood pressure. In addition, β1 blockade at the juxtaglomerular apparatus suppresses renin secretion, dampening activity of the renin–angiotensin–aldosterone system (RAAS).
+Currently, detailed mechanism of action data is not available. Based on known information, bisoprolol is a beta-1 selective blocker, its efficacy in hypertension is established, and mechanistically it may be applicable to hypertensive kidney disease through blood pressure lowering and reduced renin release.
 
-Malignant hypertensive renal disease (malignant nephrosclerosis) is an acute, severe form of hypertensive end-organ damage characterised by markedly elevated blood pressure causing direct vascular injury to the glomeruli and arterioles. The mechanistic link to Bisoprolol is indirect: by reducing cardiac output and suppressing renin release, the drug lowers blood pressure and may theoretically reduce ongoing renal haemodynamic injury. However, this is a second-order mechanism — standard first-line therapy for malignant hypertension prioritises intravenous antihypertensives for acute blood pressure reduction, while long-term renoprotection is managed primarily with ACE inhibitors or ARBs.
+However, malignant hypertensive renal disease is a hypertensive emergency with kidney involvement. It is managed with rapid, carefully titrated parenteral therapy and blockade of the renin-angiotensin-aldosterone system (RAAS). Oral beta-blockers are not a primary therapy. The very high TxGNN score most likely reflects closeness to the existing hypertension indication in the knowledge graph rather than independent evidence.
 
-The TxGNN model likely captures the general anti-hypertensive network connectivity of Bisoprolol within the knowledge graph, which spans multiple hypertensive end-organ disease nodes. While the mechanistic link is biologically plausible, Bisoprolol plays a supporting rather than primary role in this clinical scenario, and no direct renal endpoint evidence exists to substantiate a repurposing claim at this stage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Bisoprolol in malignant hypertensive renal disease.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for Bisoprolol in malignant hypertensive renal disease.
-
----
+Other top-ranked predictions are similarly weak:
+- **Malignant renovascular hypertension** (99.94%): beta-1 blockade lowers renin secretion, which is plausible, but definitive management is revascularisation and RAAS inhibitors.
+- **Pulmonary hypertension** (two entries, 99.93%): the link is weak. It is a distinct pulmonary vascular disease, and beta-blockers are generally avoided or used cautiously because of the risk of right ventricular dysfunction. Eight publications were retrieved for the hypoxia-related entry, but none shows bisoprolol treating pulmonary hypertension. They are heart failure, preclinical and physiology studies that give only indirect context.
+- **Braddock syndrome** (99.91%): no mechanistic rationale can be established from the available data.
 
 ## India Market Information
 
-Bisoprolol is currently **not marketed** in India under any registered authorisation. No CDSCO licence records were identified in the dataset.
+Bisoprolol is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled. Approved indication text was not available for these registrations. Five of them are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 29839 | Bisopil H 2.5 Tablet | Strip of 10 tablets | Psychotropics India Ltd |
+| 26711 | Biselect 10 Tablet | Strip of 10 tablets | Intas Pharmaceuticals Ltd |
+| 27597 | Besicor 2.5 Tablet | Strip of 15 tablets | Ajanta Pharma Ltd |
+| 28963 | Bitoprol 25 XL Tablet | Strip of 10 extended-release tablets | Bi-Cure Remedies |
+| 26325 | Bisosafe 5 Tablet | Strip of 10 tablets | Abbott |
 
 ## Safety Considerations
 
-**Drug Interactions (226 interactions identified; selected key interactions shown):**
+Package insert warnings and contraindications were not available. Please refer to the package insert for safety information.
 
-| Interacting Drug | Interaction Level | Notes |
-|-----------------|------------------|-------|
-| Epinephrine | Moderate | β-blockade may blunt epinephrine-mediated bronchodilation and vasopressor response; risk of paradoxical hypertension |
-| Dexamethasone | Moderate | Corticosteroids may antagonise antihypertensive effects |
-| Betamethasone | Moderate | Same class as dexamethasone; similar mechanism of antagonism |
-| Budesonide | Moderate | Inhaled corticosteroid; potential attenuation of antihypertensive effect |
-| Hydrocortisone | Moderate | Systemic corticosteroid interaction; blood pressure antagonism |
-| Triamcinolone | Moderate | Corticosteroid; similar to above |
-| Bupropion | Moderate | May increase bisoprolol plasma levels via CYP2D6 inhibition |
-| Morphine | Moderate | Additive hypotensive and CNS depressant effects possible |
-| Atropine | Moderate | Anticholinergic drugs may counteract bradycardic effects |
-| Calcium carbonate / acetate / citrate / gluconate | Moderate | Calcium salts may reduce absorption or efficacy |
-| Acetylsalicylic acid | Minor | NSAIDs may blunt antihypertensive effect with regular use |
-| Aluminum hydroxide | Minor | May reduce oral bisoprolol absorption |
-
-> **Note:** A total of 226 drug interactions were identified in the database. Only a representative selection is shown above. For a complete interaction profile, consult a full DDI reference source or clinical pharmacist.
-
-For warnings and contraindications, please refer to the approved package insert, as structured safety data were not available in this Evidence Pack (CDSCO/TFDA SmPC data pending retrieval).
-
----
+- **Disease associations flagged in the knowledge graph (not label text):** asthma, diabetes mellitus and diabetic ketoacidosis, kidney disease, liver disease and hepatic encephalopathy, pancreatitis, gallbladder disease, systemic lupus erythematosus, psoriasis, gout, anuria, myasthenia gravis, anxiety and related mood disorders, and several electrolyte or metabolic conditions (potassium deficiency, hypercalcaemia, hyperparathyroidism, phosphorus metabolism disease). These should be verified against the official label.
+- **Drug interactions:** 226 interactions were identified. Those listed are mostly Moderate, including epinephrine, corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), anticholinergics (atropine, hyoscyamine, methscopolamine), bupropion, morphine, acetohexamide, and calcium salts (acetate, carbonate, citrate, gluconate). Acetylsalicylic acid, aluminium hydroxide and attapulgite are Minor.
 
 ## Conclusion and Next Steps
 
-**Decision: Research Question (Hold)**
+**Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high prediction score for Bisoprolol in malignant hypertensive renal disease based on knowledge graph connectivity, and a biologically plausible indirect mechanism exists (blood pressure reduction → reduced renal haemodynamic stress). However, the evidence level is L5 — no clinical trials, no published literature, and no India regulatory precedent — which is insufficient to justify any clinical development or repurposing pathway at this time.
+The prediction is supported only by the model score, with no clinical trials or literature for the top indication (Evidence Level L5). Standard care for malignant hypertensive renal disease relies on other therapies, and oral bisoprolol is not a primary option.
 
 **To proceed, the following is needed:**
-
-- **Retrieve formal MOA data** from DrugBank API (DG002) to complete mechanistic analysis
-- **Retrieve CDSCO / TFDA package insert warnings and contraindications** (DG001, currently blocking safety screening)
-- **Conduct targeted literature review** focused specifically on: (1) β-blockers in malignant hypertension, (2) renal outcomes in β-blocker trials, and (3) comparative efficacy vs. ACEi/ARB in hypertensive nephrosclerosis
-- **Assess clinical positioning**: determine whether Bisoprolol can be meaningfully differentiated from existing standard-of-care (IV labetalol, ACEi/ARB) in this indication
-- **Consider preclinical feasibility study** to explore direct renal protective effects of β1 blockade in malignant hypertension animal models before any clinical hypothesis formation
-- **India regulatory pathway review**: since Bisoprolol has 0 registered products in India, a full new drug application pathway or import licence would be required before any clinical study
+- Clinical or observational evidence of bisoprolol in malignant hypertensive renal disease or related hypertensive kidney injury
+- Mechanism of action data
+- Package insert warnings and contraindications from the India regulatory source, which is a blocking gap for safety screening
+- Review of the knowledge-graph contraindications (notably kidney disease) against the label, given the renal target population
+- Assessment of route compatibility, since the emergency setting normally requires parenteral therapy and only oral forms are marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

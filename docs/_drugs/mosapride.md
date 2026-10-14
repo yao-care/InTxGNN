@@ -2,7 +2,7 @@
 layout: default
 title: Mosapride
 parent: Model Prediction Only (L5)
-nav_order: 565
+nav_order: 570
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,88 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Mosapride: From Gastrointestinal Disorders to Insomnia
+# Mosapride: From Gastrointestinal Motility Disorders to Insomnia
 
 ## One-Sentence Summary
 
-Mosapride is a selective 5-HT₄ receptor agonist (gastroprokinetic agent) approved in several South American and East Asian countries for the treatment of gastrointestinal disorders, including functional dyspepsia and gastroparesis, by accelerating gastric emptying.
-The TxGNN model predicts it may be effective for **Insomnia**, with a prediction score of **99.87%**;
-however, **0 clinical trials** and **0 publications** directly support this new indication, making this a model-only prediction at this time.
-
----
+Mosapride is a 5-HT4 receptor agonist that speeds up gastric emptying and is used for gastrointestinal disorders in the countries where it is approved.
+The TxGNN model predicts it may be effective for **insomnia**, but **no clinical trials and no publications** currently support this direction.
+This is a model-only prediction at this stage.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Gastrointestinal disorders (functional dyspepsia, gastroparesis); accelerates gastric emptying |
+|------|------|
+| Original Indication | Not stated in the licence records. Pharmacology data describe use for gastrointestinal disorders (accelerating gastric emptying). |
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.87% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the evidence pack. Based on known pharmacological information from the DDI data, Mosapride is a selective 5-HT₄ receptor agonist in the gastroprokinetic drug class, with its efficacy in gastrointestinal disorders well established across multiple national regulatory approvals (primarily in South America and East Asia).
+Currently, detailed mechanism of action data is not available in the compiled records. Based on known pharmacology, mosapride is a selective 5-HT4 receptor agonist that promotes gastrointestinal motility. Its active metabolite also has some 5-HT3 antagonist activity.
 
-The theoretical mechanistic link to insomnia rests on two hypotheses. First, 5-HT₄ receptors are distributed not only in the gastrointestinal tract but also in the hippocampus and cerebral cortex, regions potentially involved in sleep regulation. However, Mosapride is actively effluxed by P-glycoprotein at the blood-brain barrier, resulting in extremely low CNS penetration (estimated < 1%), which severely undermines any direct central pharmacodynamic effect on sleep architecture.
+No direct pathway from this mechanism to sleep regulation has been established in the data compiled for this report. A speculative link could involve the gut-brain axis or serotonergic modulation of sleep-wake circuits, but nothing here supports it.
 
-Second, the gut-brain axis hypothesis proposes that by alleviating nocturnal gastrointestinal symptoms (e.g., functional dyspepsia or GERD), Mosapride might indirectly reduce sleep disturbances. While plausible, this mechanism is indirect and non-specific—it does not address the core pathophysiology of primary insomnia. The overall mechanistic link is considered **weak** and remains a speculative, indirect inference rather than a direct pharmacological rationale.
-
----
+The very high score (99.87%) reflects the model's output only. It should be treated as a hypothesis to test, not as evidence of efficacy.
 
 ## Clinical Trial Evidence
 
-> ⚠️ **Note:** 2 trials were retrieved by the evidence system, but both were assessed as **Grade C (not relevant)**. Neither trial tests Mosapride as an investigational drug for insomnia—Mosapride appears only as a background standard-of-care treatment for functional dyspepsia in both studies. These results are likely due to keyword co-occurrence during database retrieval and do not constitute supporting evidence for this repurposing hypothesis.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|-------------|
-| [NCT07187492](https://clinicaltrials.gov/study/NCT07187492) | Phase 4 | Recruiting | 180 | **Irrelevant (Grade C)** — Investigational drug is *Bacillus coagulans* (probiotic) for anxiety/depression in functional dyspepsia. Mosapride used only as background GI treatment. |
-| [NCT07182890](https://clinicaltrials.gov/study/NCT07182890) | Phase 4 | Recruiting | 180 | **Irrelevant (Grade C)** — Investigational drug is *Clostridium butyricum* (probiotic) for anxiety/depression in functional dyspepsia. Parallel design to NCT07187492; Mosapride again used only as background GI treatment. |
-
-**Effective supporting trials for Mosapride + Insomnia: 0**
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Mosapride in the treatment of insomnia.
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-Mosapride is currently **not registered or marketed** in the India market. No license records are available.
+Mosapride has 20 valid single-ingredient registrations in India, and none are cancelled. The licence records contain no approved indication text. Five representative authorisations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 133728 | Moza 5 Tablet | Strip of 10 tablets | Intas Pharmaceuticals Ltd |
+| 116482 | Kinetix 5mg Tablet | Strip of 10 tablets | Lupin Ltd |
+| 146225 | Mozax 2.5mg Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
+| 145288 | Movaride 2.5mg Tablet | Strip of 10 tablets | Dr Reddy's Laboratories Ltd |
+| 141041 | Mosapid 5mg Tablet | Strip of 10 tablets | Cipla Ltd |
+
+All products are oral. Most are tablets, and one product (Moza MPS Chewable Tablet) is a chewable tablet.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-**Known pharmacological note:** Mosapride acts as a selective agonist at the **5-HT₄ receptor** (gene: *HTR4*, Entrez: 3360, Ensembl: ENSG00000164270). This is the drug's primary pharmacological target rather than a drug-drug interaction per se, but co-administration with other serotonergic agents should be evaluated for potential additive serotonergic effects.
-
----
+The only interaction record is a pharmacology entry for the drug's own target, the 5-HT4 receptor. It is not a drug-drug interaction and has no bearing on this indication.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high prediction score (99.87%), but this is a **purely model-driven signal (L5 evidence)**—there are no direct clinical trials, no published literature, and no regulatory approvals supporting Mosapride for insomnia. The mechanistic rationale is biologically weak: the drug's ultra-low CNS penetration (< 1% due to P-glycoprotein efflux) makes a direct central sleep-modulating effect implausible, and the indirect gut-brain axis pathway does not differentiate Mosapride from other GI agents.
+The prediction rests on a model score alone. There are no clinical trials or publications, no established mechanistic link to sleep, and the safety label data are missing.
 
 **To proceed, the following is needed:**
-
-- **MOA verification:** Obtain full mechanism of action data from DrugBank API (DG002) to confirm or refute any CNS activity
-- **Safety package:** Retrieve TFDA/originator package insert warnings and contraindications (DG001, currently Blocking severity) before any safety assessment can proceed
-- **Preclinical evidence:** Conduct a targeted literature search for animal sleep studies or CNS pharmacology studies involving 5-HT₄ agonists and sleep architecture
-- **Indirect evidence search:** Investigate whether sleep quality improvement has been reported as a secondary endpoint in existing Mosapride GI trials
-- **BBB penetration data:** Obtain quantitative CNS penetration data (Kp,uu,brain) to determine if any therapeutically relevant brain exposure is achievable
-- **Regulatory feasibility:** Assess whether India/Taiwan registration is feasible given zero current market presence; a de novo regulatory filing would be required
+- Package insert warnings and contraindications from the Indian regulator or manufacturers. This is a blocking gap for safety screening.
+- Detailed mechanism of action data for mosapride.
+- A literature and trial search, plus preclinical or mechanistic work, on serotonergic or gut-brain links to sleep.
+- A comparison of mosapride's pharmacology with that of existing insomnia treatments.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

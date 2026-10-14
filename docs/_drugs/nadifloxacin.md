@@ -2,7 +2,7 @@
 layout: default
 title: Nadifloxacin
 parent: Model Prediction Only (L5)
-nav_order: 570
+nav_order: 575
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,35 +29,39 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nadifloxacin: From Acne / Skin Infections to Malaria
+# Nadifloxacin: From Acne to Malaria
 
 ## One-Sentence Summary
 
-Nadifloxacin is a topical fluoroquinolone antibiotic approved in several markets for the treatment of acne vulgaris and superficial bacterial skin infections. The TxGNN model predicts it may be effective for **Malaria**, with a prediction score of 99.16%; however, **no clinical trials** and **no published literature** currently support this direction. The prediction almost certainly reflects a class-level fluoroquinolone association in the knowledge graph rather than any property specific to Nadifloxacin itself.
+Nadifloxacin is a topical fluoroquinolone antibacterial originally used to treat acne.
+The TxGNN model predicts it may be effective for **malaria**, but **no clinical trials and no publications** currently support this prediction.
+It is a model-based hypothesis only.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Acne vulgaris / superficial bacterial skin infections (topical antibiotic; no India registration on record) |
+|------|------|
+| Original Indication | Acne |
 | Predicted New Indication | Malaria |
 | TxGNN Prediction Score | 99.16% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Why is This Prediction Reasonable?
 
-Nadifloxacin belongs to the fluoroquinolone class of antibiotics. Its mechanism of action is shared with other fluoroquinolones — inhibition of bacterial DNA gyrase (topoisomerase II) and topoisomerase IV — which disrupts DNA replication and transcription in susceptible micro-organisms. As a topical preparation, however, it achieves meaningful drug concentrations only within the skin, with negligible systemic absorption.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, nadifloxacin is a topical fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Its efficacy in acne is attributed to its antibacterial action.
 
-The knowledge-graph rationale for the malaria prediction rests on the fact that certain fluoroquinolones (e.g., Ciprofloxacin) display in-vitro inhibitory activity against *Plasmodium falciparum* DNA gyrase homologues (PfGyrA/B). Some quinolone derivatives have been investigated as anti-malarial scaffolds in early-stage research, creating a documented edge in the TxGNN knowledge graph between "fluoroquinolone class" and "malaria."
+A theoretical link to malaria exists: *Plasmodium* has a gyrase located in its apicoplast, which could in principle be a target for quinolones. However, this is a hypothesis with no supporting activity data. The very high TxGNN score (99.16%) reflects a model prediction only.
 
-In practice, this mechanistic link does not transfer to Nadifloxacin for two fundamental reasons. First, Nadifloxacin is formulated exclusively as a topical cream/ointment; systemic bioavailability after dermal application is extremely low and far below any anti-malarial therapeutic threshold. Second, no in-vitro or in-vivo data exist for Nadifloxacin against *Plasmodium* spp. specifically. The high TxGNN score most likely reflects a class-level generalisation — a known limitation of knowledge-graph models that do not differentiate between systemic and topical members of the same drug class.
+A major unresolved concern is route of administration. Nadifloxacin is marketed only as topical products (cream, gel, ointment, dusting powder), and achieving systemic antimalarial exposure with these forms is doubtful. Malaria is a bloodstream infection.
+
+Other top-ranked predictions are also unsupported by evidence. They include pyogenic arthritis-pyoderma gangrenosum-acne syndrome, spondyloarthropathy, relapsing fever, demodicidosis of the sebaceous gland, and leishmaniasis. Leishmaniasis (cutaneous form) and relapsing fever have the most plausible theoretical links, but neither has supporting data.
 
 ---
 
@@ -75,15 +79,21 @@ Currently no related literature available.
 
 ## India Market Information
 
-Nadifloxacin currently has **no registered products** in India. The drug is therefore not available through any licensed domestic channel and carries no approved local indication.
+All 20 registrations are valid single-ingredient products. The five main ones are shown below. Approved indication text is not available in the data compiled for this report.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 156062 | Nadoxin 1% Dusting Powder | 10 gm packet, dusting powder | Dr Reddy's Laboratories Ltd |
+| 215775 | Triclear N Gel | 20 gm tube, gel | Trikona Pharmaceuticals Pvt. Ltd. |
+| 155357 | Nadikem Cream | 20 gm tube, cream | Alkem Laboratories Ltd |
+| 150775 | Nadoxin-A Gel | 15 gm tube, gel | Dr Reddy's Laboratories Ltd |
+| 151528 | Nadimax Cream | 15 gm tube, cream | Zee Laboratories |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-> Detailed warning and contraindication data (DG001) were not available in this Evidence Pack. As a fluoroquinolone-class antibiotic, prescribers should be aware of general class effects (photosensitivity, potential for bacterial resistance, skin irritation at the application site) until full label data can be retrieved from the regulatory authority.
+Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were found in the data compiled for this report.
 
 ---
 
@@ -92,15 +102,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-All 10 predicted indications are classified as L5 (model prediction only), with zero supporting clinical trials or publications across every disease queried. More critically, Nadifloxacin's topical-only formulation creates a fundamental route-of-administration mismatch for every systemic indication in the prediction list (malaria, relapsing fever, leishmaniasis, spondyloarthropathy, rheumatoid vasculitis, Zollinger-Ellison syndrome, elevated plasma zinc). The only indication that carries any residual biological plausibility is **demodicidosis of the sebaceous gland** (Rank 6), where Nadifloxacin's established activity against *Cutibacterium acnes* could address secondary bacterial co-infection — but even this would require reclassification as adjunctive therapy rather than primary treatment.
+The malaria prediction rests only on a model score, with no clinical trials or literature. The available products are topical, which makes systemic antimalarial exposure unlikely.
 
 **To proceed, the following is needed:**
-
-- **Retrieve full prescribing information** (DG001): Download and parse the official package insert (e.g., Acuatop®, OzenoxaCe®) to complete safety, contraindication, and warning data.
-- **Confirm MOA data** (DG002): Query DrugBank API for Nadifloxacin's mechanistic profile (targets, enzyme inhibition constants, spectrum of activity) to enable proper mechanistic-link scoring.
-- **Route-compatibility assessment**: Any future repurposing candidate must be a **dermatological indication** compatible with topical application, or require a new formulation development programme (oral/IV) — a substantially higher development burden.
-- **Focused evidence search for demodicidosis**: If a decision is made to investigate one indication further, search PubMed and ClinicalTrials.gov specifically for *Demodex*-related skin disease and topical antibiotics to determine whether a research question (not a development programme) is warranted.
-- **India regulatory pathway**: If any indication is validated, a full new-drug application or labelling-extension dossier would be required given zero current Indian registrations.
+- Mechanism of action data for nadifloxacin
+- In vitro activity data against *Plasmodium* (and, as secondary candidates, *Leishmania* and *Borrelia*)
+- Pharmacokinetic evidence on whether therapeutic systemic exposure is achievable, or a feasibility assessment for a non-topical formulation
+- Package insert warnings and contraindications from the Indian regulatory source
+- A systematic literature and trial search for malaria and the other top-ranked predicted indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

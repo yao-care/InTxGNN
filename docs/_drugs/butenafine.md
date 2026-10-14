@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Butenafine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 126
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 ---
 
 # Butenafine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,101 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-# Butenafine: From Superficial Dermatophytosis to Cutaneous Candidiasis
+# Butenafine: From Superficial Fungal Skin Infections (Tinea) to Superficial Mycosis
 
 ## One-Sentence Summary
 
-Butenafine is a benzylamine antifungal agent with established efficacy against superficial dermatophyte infections (tinea pedis, tinea corporis, tinea cruris), used clinically in Japan and other markets.
-The TxGNN model predicts it may be effective for **Cutaneous Candidiasis**,
-with **0 registered clinical trials** and **3 publications** currently supporting this specific direction.
+Butenafine is a topical benzylamine antifungal, originally used for tinea pedis, tinea corporis, other tinea infections, pityriasis versicolor, and dermatophytosis of the groin and perianal area.
+The TxGNN model predicts it may be effective for **superficial mycosis** (the top-ranked prediction, cutaneous candidiasis, has much weaker support), with **no registered clinical trials** but **11 publications**, including a vehicle-controlled RCT, supporting this direction.
+Note that this is largely a relabeling of existing uses rather than a true repurposing.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Superficial dermatophytosis (tinea pedis, tinea corporis, tinea cruris) |
-| Predicted New Indication | Cutaneous Candidiasis |
-| TxGNN Prediction Score | 99.33% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+|------|------|
+| Original Indication | Tinea pedis, tinea corporis, tinea infection, pityriasis versicolor, dermatophytosis of groin and perianal area (from the knowledge graph; the Indian license records contain no indication text) |
+| Predicted New Indication | Superficial mycosis (the strongest-supported of the five predictions; the rank-1 prediction is cutaneous candidiasis) |
+| TxGNN Prediction Score | 99.02% for superficial mycosis (cutaneous candidiasis: 99.33%) |
+| Evidence Level | L1 for superficial mycosis (L4 for cutaneous candidiasis; L5 for the other three predictions) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
+| Recommended Decision | Proceed with Guardrails (superficial mycosis); Hold for the other four predictions |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in the evidence pack. Based on published literature, Butenafine hydrochloride is a **synthetic benzylamine antifungal derivative** — a class known to inhibit squalene epoxidase, an enzyme essential for ergosterol biosynthesis in fungal cell membranes. Ergosterol depletion disrupts membrane integrity and leads to fungicidal activity, particularly against dermatophytes, aspergilli, dimorphic fungi, and dematiaceous fungi (PMID 18624686). This mechanism is chemically analogous to allylamines such as terbinafine, but the benzylamine scaffold confers a distinct pharmacokinetic profile and prolonged post-treatment activity.
+Detailed mechanism of action data is not formally available for this drug. Based on known pharmacology, butenafine is a benzylamine antifungal that inhibits squalene epoxidase. This blocks ergosterol synthesis, depletes ergosterol in the fungal cell membrane, and causes squalene to accumulate, which is fungicidal against susceptible organisms such as dermatophytes.
 
-The prediction from TxGNN is biologically plausible: both dermatophytoses and cutaneous candidiasis are **superficial fungal infections affecting the skin**, sharing overlapping tissue tropism and pathophysiological features. An antifungal agent effective against dermatophytes (which cause tinea species) could reasonably demonstrate activity against Candida species in the cutaneous compartment, since both depend on ergosterol-rich membranes. Indeed, butenafine has been reviewed among "novel antimycotics" with potential application for cutaneous and mucosal diseases beyond pure dermatophyte infections (PMID 11893219).
+Superficial mycoses (dermatophytoses, pityriasis versicolor) are the established territory of this drug. The prediction is therefore consistent with its approved class of use, and is closer to relabeling than to genuine repurposing. The published literature includes a vehicle-controlled RCT in tinea pedis, a randomized comparison against bifonazole, and a multicentre efficacy and safety study in tinea pedis, cruris and corporis.
 
-One animal study specifically tested efficacy against **cutaneous candidiasis in guinea pigs** (PMID 11302816), providing preclinical biological plausibility. However, direct clinical trial evidence in humans with cutaneous candidiasis remains absent, which limits the current evidence classification to L4.
+The other predictions are weaker:
+- **Cutaneous candidiasis**: Candida also depends on ergosterol, so a mechanistic link is plausible. However, benzylamine and allylamine activity against Candida is generally weaker and more variable than against dermatophytes. The supplied literature consists of antifungal reviews and an in vitro study of a different drug (KP-103), with no direct clinical data on butenafine.
+- **Endothrix infection, ectothrix infection, Majocchi granuloma**: The organisms are plausibly susceptible, but topical butenafine penetrates poorly into hair follicles, hair shafts and the dermis. These conditions are conventionally treated with systemic therapy. There are no trials or literature, so support is a model prediction only.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Butenafine in cutaneous candidiasis.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
+The table covers the superficial mycosis prediction, which has the most relevant literature.
+
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [11302816](https://pubmed.ncbi.nlm.nih.gov/11302816/) | 2001 | Preclinical (Animal) | Antimicrobial Agents and Chemotherapy | In vitro and in vivo (guinea pig) evaluation of KP-103 vs. comparators including butenafine; therapeutic efficacy tested against both plantar tinea pedis and **cutaneous candidiasis** models |
-| [11893219](https://pubmed.ncbi.nlm.nih.gov/11893219/) | 2002 | Review | American Journal of Clinical Dermatology | Review of six novel antimycotics including butenafine; discusses potential applications for **human cutaneous and mucosal fungal diseases**, including candidiasis context |
-| [24196340](https://pubmed.ncbi.nlm.nih.gov/24196340/) | 2013 | Review | Journal of Drugs in Dermatology | Optimization of topical antifungal therapy for superficial cutaneous fungal infections caused by dermatophytes and **yeasts**; positions butenafine among available agents |
+|------|-----|------|------|---------|
+| [9039200](https://pubmed.ncbi.nlm.nih.gov/9039200/) | 1997 | RCT (vehicle-controlled) | J Am Acad Dermatol | One-week twice-daily butenafine 1% cream versus vehicle in tinea pedis (multicenter, double-blind) |
+| [23283047](https://pubmed.ncbi.nlm.nih.gov/23283047/) | 2012 | Randomized, double-blind comparative study | Global Journal of Health Science | Butenafine versus bifonazole cream for 2 weeks in 96 patients with superficial mycosis; safety and efficacy compared |
+| [11676116](https://pubmed.ncbi.nlm.nih.gov/11676116/) | 2001 | Clinical study | J Indian Med Assoc | Butenafine 1% cream in 111 patients with tinea pedis (4 weeks), tinea cruris and tinea corporis (2 weeks); efficacy and safety assessed (non-comparative) |
+| [18624686](https://pubmed.ncbi.nlm.nih.gov/18624686/) | 2008 | Review | Expert Opin Drug Metab Toxicol | Butenafine is a benzylamine with potent fungicidal activity, particularly against dermatophytes |
+| [12432425](https://pubmed.ncbi.nlm.nih.gov/12432425/) | 2002 | Review | Skin Therapy Letter | Effective and safe in interdigital tinea pedis, tinea corporis/cruris and pityriasis versicolor; effect persists at least 4 weeks after stopping |
+| [9039197](https://pubmed.ncbi.nlm.nih.gov/9039197/) | 1997 | Review | J Am Acad Dermatol | Update on topical therapy for superficial fungal infections with a focus on butenafine |
+| [24898980](https://pubmed.ncbi.nlm.nih.gov/24898980/) | 2014 | Case report | Am J Trop Med Hyg | Tinea nigra treated with butenafine 1% for 30 days, with complete remission and no recurrence at 12 months |
+| [10357864](https://pubmed.ncbi.nlm.nih.gov/10357864/) | 1999 | RCT (combination) | Trop Med Int Health | 2% butenafine plus 5% tea tree oil in toenail onychomycosis; the effect of butenafine alone cannot be isolated |
+| [11893219](https://pubmed.ncbi.nlm.nih.gov/11893219/) | 2002 | Review | Am J Clin Dermatol | Review of six new antimycotics, including butenafine (cited for cutaneous candidiasis; no direct butenafine candidiasis data) |
+
+Other supplied publications provide only background or supportive context: a review of topical naftifine (PMID 24196340), a review of antifungal-resistant dermatophytosis in Japan (PMID 42219346), an in vitro dermatophyte susceptibility study from Turkey (PMID 38567576), a tinea nigra case report (PMID 41378809), and an animal study of a different drug, KP-103 (PMID 11302816).
 
 ---
 
 ## India Market Information
 
-Butenafine (DB01091) currently has **no registered licenses** in the Indian market. No authorization records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 28571 | Butenaskin Cream | Cream, tube of 15 gm | Not stated in the records |
+| 116998 | Kutica Cream | Cream, tube of 15 gm | Not stated in the records |
+| 221459 | Tenafin Cream | Cream, tube of 10 gm | Not stated in the records |
+| 77405 | Exebute Cream | Cream, tube of 15 gm | Not stated in the records |
+
+All four licenses are valid single-ingredient topical products.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction data, key warnings, or contraindication records were retrievable during the evidence collection period (query date: 2026-03-27). Formal CDSCO prescribing information review is required before any clinical consideration.
+Please refer to the package insert for safety information. The data compiled for this report contain no drug-interaction records and no knowledge-graph contraindications for butenafine.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails** (superficial mycosis). **Hold** for cutaneous candidiasis, endothrix infection, Majocchi granuloma and ectothrix infection.
 
 **Rationale:**
-Butenafine is pharmacologically well-characterized as a benzylamine antifungal with squalene epoxidase inhibition as its core mechanism, and the TxGNN prediction score of 99.33% for cutaneous candidiasis is mechanistically coherent. However, the drug is **not currently marketed in India**, and direct human clinical evidence for cutaneous candidiasis is absent — only one animal preclinical study and two narrative reviews were identified. Without any clinical trial data and with all safety records flagged as data gaps, regulatory and clinical development risk cannot be adequately assessed.
+- Superficial mycosis is supported by a vehicle-controlled RCT, a randomized comparison against bifonazole, and several reviews. It falls within butenafine's established use in dermatophyte infections and pityriasis versicolor, so it is closer to relabeling than to new repurposing.
+- The remaining predictions rest on model scores alone or on indirect literature. Hair-follicle and deep dermal infections are also poorly suited to a topical cream.
 
 **To proceed, the following is needed:**
-
-- **Safety package**: Obtain full prescribing information (package insert / SmPC) from markets where butenafine is approved (e.g., Japan, USA — Mentax®) to assess contraindications, warnings, and drug interactions
-- **MOA confirmation**: Query DrugBank API to formally document the mechanism of action (squalene epoxidase inhibition) for the evidence dossier
-- **Human clinical evidence**: Conduct a systematic literature search to identify any human studies on butenafine specifically for Candida skin infections (not just dermatophytes)
-- **Regulatory feasibility**: Assess CDSCO pathway for introducing a non-marketed antifungal topical agent; evaluate whether existing global approvals (US FDA approval for tinea pedis) could support an accelerated bridging strategy
-- **In vitro MIC data**: Verify butenafine's minimum inhibitory concentration (MIC) against common cutaneous Candida species (C. albicans, C. tropicalis) to confirm antifungal spectrum
+- The package insert for the four Indian products, to confirm approved indications and obtain warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Guardrail: limit any claim to superficial dermatophyte infections and pityriasis versicolor. Claims for onychomycosis or antifungal-resistant dermatophytosis need separate evidence.
+- For cutaneous candidiasis: direct clinical or in vitro data on butenafine against Candida species
+- For the hair-follicle and deep infections: evidence of adequate follicular penetration and efficacy, or a decision to exclude topical use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

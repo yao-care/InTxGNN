@@ -2,7 +2,7 @@
 layout: default
 title: Sevoflurane
 parent: Model Prediction Only (L5)
-nav_order: 764
+nav_order: 771
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sevoflurane: From General Anesthesia to Prinzmetal Angina
+# Sevoflurane: From General Anaesthesia to Prinzmetal Angina
 
 ## One-Sentence Summary
 
-> Sevoflurane is an inhalational general anesthetic, used for induction and maintenance of general anesthesia.
-> The TxGNN model predicts it may be effective for **Prinzmetal Angina**,
-> but currently **no clinical trials** and **no supporting literature** exist for this specific indication, and the mechanistic linkage is considered weak.
+Sevoflurane is an inhaled volatile anaesthetic, marketed in India for the induction and maintenance of general anaesthesia (the registered indication text is not available in the data compiled for this report).
+The TxGNN model predicts it may be effective for **Prinzmetal angina**, but **no clinical trials and no publications** currently support this prediction.
+The prediction should be regarded as a hypothesis only.
 
 ---
 
@@ -43,58 +43,74 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | General Anesthesia (inhalational agent; detailed MOA/label indication data not yet available) |
-| Predicted New Indication | Prinzmetal Angina |
+| Original Indication | General anaesthesia (inhaled anaesthetic; the registered indication text is not available) |
+| Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 99.78% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (DG002, High severity data gap pending DrugBank confirmation). Based on the available pharmacological description, Sevoflurane is an inhalational general anesthetic that acts primarily on central nervous system GABA_A/NMDA receptors, and secondarily suppresses myocardial contractility and vascular tone.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, sevoflurane is a volatile anaesthetic that potentiates GABA-A receptors and inhibits NMDA and nicotinic receptors. Its use in general anaesthesia is well established.
 
-There is indirect physiological literature on anesthetic-induced myocardial "preconditioning" (a cardioprotective effect against ischemia), which may partially explain why the TxGNN knowledge graph links Sevoflurane to a cardiovascular disease node. However, Prinzmetal angina's core pathology — coronary artery vasospasm from smooth muscle hyperreactivity — has no established direct molecular connection to Sevoflurane's known receptor pharmacology.
+A plausible but unverified link is that volatile anaesthetics modulate calcium handling in vascular smooth muscle and may have vasodilatory effects relevant to coronary vasospasm, the basis of Prinzmetal angina. No trials or publications support this, and a high model score is not clinical evidence.
 
-**This is likely a knowledge-graph co-occurrence signal rather than a mechanism-supported prediction.** The high TxGNN score (99.78%) reflects statistical proximity between "anesthetic agents" and "cardiovascular" nodes in the graph, not validated pharmacological plausibility. No clinical or preclinical evidence currently supports therapeutic use of Sevoflurane in Prinzmetal angina.
+Practical barriers are also substantial. Sevoflurane is an inhaled agent given under anaesthetic supervision, which makes it unsuitable for the chronic or outpatient management that vasospastic angina requires.
+
+### Other Predicted Indications (all Hold)
+
+| Rank | Predicted Indication | Score | Evidence Level | Comment |
+|---|---|---|---|---|
+| 2 | Tourette syndrome | 99.50% | L5 | Prediction only; chronic inhaled use is impractical |
+| 3 | Fibromyalgia | 99.42% | L4 | One case report of anaesthetic management, not treatment |
+| 4 | Tendinitis | 99.41% | L4 | Nine publications, all perioperative or unrelated to treating tendinitis |
+| 5 | Myositis fibrosa | 99.41% | L5 | No rationale or data |
+| 6 | Idiopathic granulomatous myositis | 99.41% | L5 | No rationale; malignant hyperthermia risk in myopathies is a concern |
+| 7 | Nephrogenic syndrome of inappropriate antidiuresis | 99.40% | L5 | No plausible mechanism |
+| 8 | Trichotillomania | 99.33% | L5 | Speculative only |
+| 9 | Migraine disorder | 99.23% | L4 | One paediatric MRI anaesthesia cohort, not migraine treatment |
+| 10 | Inclusion body myositis | 99.09% | L4 | One anaesthetic-safety case report |
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for Prinzmetal angina.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for Prinzmetal angina.
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-Sevoflurane is currently **not marketed** in Taiwan under this dataset (0 registered licenses). No product registration or approved-indication data is available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 202762 | Sevura Inhaler For Inhalation (Neon Laboratories Ltd) | Bottle of 250 ml inhaler | Not available |
+| 201485 | Sevorane Inhaler (Abbott) | Bottle of 250 ml inhaler | Not available |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**
-A total of **146 drug-drug interactions** were identified in the DDI database. Notable **Major**-level interactions include:
+- **Disease associations flagged in the knowledge graph (not label text)**: The TxGNN knowledge graph lists contraindication links with epilepsy, kidney disease, pyoureter, liver disease, gallbladder disease, hypotensive disorder, malignant hyperthermia of anaesthesia, exercise-induced malignant hyperthermia, pseudotumor cerebri, intracranial hypertension, Duchenne muscular dystrophy, muscular dystrophy, Becker muscular dystrophy and proteinuria. These should be verified against the package insert.
+- **Drug Interactions**: 146 interactions were recorded. Major-level examples include:
+  - Epinephrine
+  - Dolasetron
+  - Cisapride
 
-| Interacting Drug | Severity | Source |
-|---|---|---|
-| Epinephrine | Major | DDInter |
-| Cisapride | Major | DDInter |
-| Dolasetron | Major | DDInter |
+  Moderate-level examples include morphine, ondansetron, palonosetron, levofloxacin, clarithromycin and famotidine.
 
-Additional **Moderate**-level interactions were identified with agents including Famotidine, Loperamide, Morphine, Clarithromycin, Levofloxacin, Ondansetron, Palonosetron, Exenatide, and several laxative/bowel-prep agents (Bisacodyl, Lactulose, Lactitol, Polyethylene glycol, Sodium sulfate, Castor oil).
+  Combined use with other cardiovascular-active or QT-prolonging drugs requires particular caution, especially in a cardiac indication such as angina.
 
-Key warnings and contraindications data are not yet available (blocking data gap DG001 — TFDA label PDF not yet retrieved/parsed).
+Please refer to the package insert for full warnings and contraindications.
 
 ---
 
@@ -103,13 +119,14 @@ Key warnings and contraindications data are not yet available (blocking data gap
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication (Prinzmetal angina) has no supporting clinical trials or literature, and the internal repurposing rationale itself flags the mechanistic link as indirect/weak — likely a knowledge-graph artifact rather than a genuine pharmacological signal. The drug is also not currently marketed in Taiwan, and core safety data (label warnings, contraindications, and MOA) remain unresolved data gaps.
+The Prinzmetal angina prediction rests on a model score alone, with no clinical trials or publications. Sevoflurane's route of administration (inhaled, under anaesthetic supervision) is a poor fit for a chronic cardiac condition. The listed safety concerns, such as hypotension and the major interaction with epinephrine, add further caution. None of the other nine predicted indications has direct therapeutic evidence either.
 
 **To proceed, the following is needed:**
-- TFDA label (warnings/contraindications) — currently a **Blocking** data gap (DG001)
-- Confirmed mechanism of action from DrugBank — currently a **High** severity data gap (DG002)
-- Preclinical or mechanistic studies specifically linking Sevoflurane to coronary vasospasm/Prinzmetal angina pathophysiology
-- If pursued further, initial hypothesis-generating research (in vitro/animal models) before any clinical evidence can be considered
+- Package insert warnings and contraindications from the Indian regulatory sources, which currently block safety screening
+- Mechanism of action data (for example, from DrugBank)
+- Preclinical or mechanistic studies of sevoflurane in coronary vasospasm
+- Assessment of route and setting compatibility with chronic angina management
+- Registered indication text for the two Indian licences
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

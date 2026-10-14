@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Aceclofenac
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 16
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 ---
 
 # Aceclofenac
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,90 +29,86 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Aceclofenac: From Musculoskeletal Inflammation to Inflammatory Spondylopathy
+# Aceclofenac: From Rheumatoid Arthritis and Osteoarthritis to Brachyolmia-Amelogenesis Imperfecta Syndrome
 
 ## One-Sentence Summary
 
-Aceclofenac is an oral NSAID with established international use for musculoskeletal inflammatory conditions including osteoarthritis, rheumatoid arthritis, and ankylosing spondylitis — though it is not currently registered in India.
-The TxGNN model's top-ranked predictions are dominated by rare genetic skeletal dysplasias (Ranks 1–6, all L5/Hold); the most clinically actionable prediction is **Inflammatory Spondylopathy** (Rank 8),
-with **3 clinical trials** and **17 publications** — including two direct RCTs in ankylosing spondylitis — currently supporting this direction.
-
----
+Aceclofenac is an oral NSAID originally used to relieve pain and inflammation in rheumatoid arthritis, ankylosing spondylitis and osteoarthritis.
+The TxGNN model ranks **brachyolmia-amelogenesis imperfecta syndrome** as its top prediction, but there are **0 clinical trials** and **0 publications** supporting it, so it is a model prediction only.
+The only prediction with a literature base is **inflammatory spondylopathy**, and that overlaps with aceclofenac's existing indications.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Musculoskeletal inflammatory pain (OA, RA, AS — established in EU/Asian markets; not registered in India) |
-| Predicted New Indication | Inflammatory Spondylopathy (Rank #8 — highest evidence among all predictions) |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+|------|------|
+| Original Indication | Rheumatoid arthritis, ankylosing spondylitis, osteoarthritis, arthropathy, frozen shoulder (the license records in the data compiled for this report contain no approved indication text) |
+| Predicted New Indication | Brachyolmia-amelogenesis imperfecta syndrome |
+| TxGNN Prediction Score | 99.89% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Detailed mechanism of action data is not available for this report. Aceclofenac is a phenylacetic acid-derivative NSAID, related to diclofenac. The literature describes it as having analgesic and anti-inflammatory effects, mainly through prostaglandin inhibition. Its efficacy in rheumatoid arthritis, osteoarthritis and ankylosing spondylitis is well documented.
 
-Currently, detailed mechanism of action data is not available from this Evidence Pack. Based on published literature, Aceclofenac is a phenylacetic acid derivative that inhibits both COX-1 and COX-2 enzymes, thereby reducing prostaglandin E2 (PGE₂) synthesis — the primary mediator of inflammation, pain sensitization, and synovial hyperemia in joint disease. This pharmacological profile is extensively documented across multiple decades of clinical trial publications.
+For the top-ranked prediction, a plausible mechanistic link is hard to find. Brachyolmia-amelogenesis imperfecta syndrome is a rare genetic skeletal and dental developmental disorder. An NSAID would not be expected to alter its underlying pathology. The same holds for the next few predictions (acromesomelic dysplasia Hunter-Thompson type, brachyolmia, pseudoachondroplasia). These are genetic skeletal dysplasias, and the high scores most likely reflect network proximity to musculoskeletal terms in the knowledge graph rather than a real pharmacological relationship.
 
-Inflammatory spondylopathy encompasses ankylosing spondylitis (AS) and related seronegative spondyloarthropathies, all characterized by chronic immune-driven inflammation at spinal and sacroiliac entheses. Because PGE₂ drives the inflammatory cascade central to spondyloarthritis — including osteoclast activation, periosteal inflammation, and pain amplification via spinal sensitization — COX inhibition by aceclofenac addresses the pathological pathway directly. NSAIDs are internationally recognized as the first-line treatment for axial spondyloarthritis by ASAS and ACR guidelines, making this mechanistic link not merely theoretical but guideline-supported.
-
-Critically, two multicenter comparative RCTs of aceclofenac in active ankylosing spondylitis were published as early as 1996 (PMID 8823692 vs. tenoxicam; PMID 8823693 vs. indomethacin), demonstrating comparable efficacy and tolerability. The TxGNN model's prediction therefore represents a confirmation of established clinical practice in markets where aceclofenac is approved — and an opportunity for India regulatory filing rather than first-in-disease clinical investigation.
-
----
+Among the top 10 predictions, only **inflammatory spondylopathy** (score 99.63%) has a strong indirect rationale. Aceclofenac is already used in ankylosing spondylitis, a prototypical inflammatory spondylopathy. Because this overlaps with existing indications, it is not a true repurposing opportunity. Other predictions (rheumatoid vasculitis, polyarticular juvenile rheumatoid arthritis, hypermobility of coccyx, myosclerosis) have only class-level or speculative links. Kummell disease would at most receive analgesia.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|-------------|
-| [NCT00647517](https://clinicaltrials.gov/study/NCT00647517) | Phase 4 | Completed | 60 | Taiwan 12-week RCT evaluating tramadol/APAP as add-on to COX-2 NSAID background therapy in patients with active ankylosing spondylitis or rheumatoid arthritis — directly confirms NSAID use as standard backbone therapy in inflammatory spondylopathy |
-| [NCT05164198](https://clinicaltrials.gov/study/NCT05164198) | Phase 4 | Unknown | 448 | Multicenter prospective RCT comparing standard-dose vs. reduced-dose TNF inhibitor in stable AS patients — indirectly confirms AS as the primary clinical subtype of inflammatory spondylopathy under active investigation |
-| [NCT02883569](https://clinicaltrials.gov/study/NCT02883569) | N/A | Completed | 1,102 | Large comparative effectiveness study of surgical vs. non-surgical management for low back pain (herniated disc and spinal stenosis) — limited relevance to aceclofenac pharmacotherapy; included for completeness |
-
----
+Currently no related clinical trials registered for the top-ranked prediction, or for any of the other nine predictions.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [8823692](https://pubmed.ncbi.nlm.nih.gov/8823692/) | 1996 | RCT | J Rheumatology | Multicenter, double-blind, parallel 3-month RCT: Aceclofenac 100 mg BID vs tenoxicam 20 mg QD in active AS — comparable efficacy and safety profile |
-| [8823693](https://pubmed.ncbi.nlm.nih.gov/8823693/) | 1996 | Clinical Trial | J Rheumatology | Multicenter controlled trial: Aceclofenac vs indomethacin in active ankylosing spondylitis — efficacy equivalence established |
-| [34876850](https://pubmed.ncbi.nlm.nih.gov/34876850/) | 2021 | Review | J Pain Research | Comprehensive review of aceclofenac's analgesic and anti-inflammatory effects across musculoskeletal disorders including LBP, OA, RA, and AS; summarizes clinical trial evidence |
-| [15163279](https://pubmed.ncbi.nlm.nih.gov/15163279/) | 2004 | Review | Expert Opin Pharmacother | Aceclofenac in inflammatory pain management — >75 million patients treated worldwide; confirms non-inferiority to indomethacin in AS, diclofenac in RA, naproxen in OA |
-| [11511027](https://pubmed.ncbi.nlm.nih.gov/11511027/) | 2001 | Review | Drugs | Reappraisal of aceclofenac in pain and rheumatic disease — covers comparative trial data across OA, RA, and AS with emphasis on GI tolerability advantages |
-| [8799688](https://pubmed.ncbi.nlm.nih.gov/8799688/) | 1996 | Review | Drugs | Pharmacodynamic and therapeutic potential review: efficacy equivalent to diclofenac/indomethacin in RA, OA, AS; preclinical data suggests lower GI damage potential than diclofenac |
-| [11523298](https://pubmed.ncbi.nlm.nih.gov/11523298/) | 2001 | Review | Rev Med Liege | Critical review of aceclofenac's anti-inflammatory profile — covers COX inhibition, PGE₂ reduction, and cartilage remodeling effects relevant to spondyloarthritis |
-| [10081315](https://pubmed.ncbi.nlm.nih.gov/10081315/) | 1999 | Review | Rev Med Liege | Drug profile: indicated for OA, RA, AS, abarticular inflammations, post-trauma inflammations; oral 100 mg BID; favorable GI safety profile |
-| [11548913](https://pubmed.ncbi.nlm.nih.gov/11548913/) | 2001 | Cost-effectiveness | PharmacoEconomics | Economic modeling of aceclofenac vs other NSAIDs in OA, RA, and AS — demonstrates favorable cost-effectiveness including mild-to-moderate adverse event costs |
-| [23192419](https://pubmed.ncbi.nlm.nih.gov/23192419/) | 2013 | RCT | Clin Rheumatology | Taiwan 12-week double-blind placebo-controlled RCT: tramadol/acetaminophen add-on to ongoing NSAID in 60 active AS patients (BASDAI >3); confirms NSAID as standard backbone in spondyloarthritis management |
+Currently no related literature is available for the top-ranked prediction. The table below lists the most relevant publications found for the best-supported prediction, inflammatory spondylopathy (rank 8). They concern ankylosing spondylitis and general musculoskeletal use, which are existing indications.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [8823693](https://pubmed.ncbi.nlm.nih.gov/8823693/) | 1996 | Clinical study (controlled, multicenter) | J Rheumatol | Efficacy and tolerability of aceclofenac vs indomethacin in active ankylosing spondylitis |
+| [8823692](https://pubmed.ncbi.nlm.nih.gov/8823692/) | 1996 | Comparative clinical study | J Rheumatol | 3-month multicenter comparison of aceclofenac 100 mg twice daily vs tenoxicam in ankylosing spondylitis; reported as safe and effective |
+| [34876850](https://pubmed.ncbi.nlm.nih.gov/34876850/) | 2021 | Review | J Pain Res | Analgesic and anti-inflammatory effects of aceclofenac in musculoskeletal disorders (low back pain, OA, RA, AS) |
+| [15163279](https://pubmed.ncbi.nlm.nih.gov/15163279/) | 2004 | Review | Expert Opin Pharmacother | Aceclofenac as effective as diclofenac, naproxen and piroxicam in OA, and as comparator NSAIDs in RA and AS |
+| [11511027](https://pubmed.ncbi.nlm.nih.gov/11511027/) | 2001 | Review | Drugs | Symptomatic relief of pain and joint inflammation in rheumatic disease, similar to other NSAIDs |
+| [8799688](https://pubmed.ncbi.nlm.nih.gov/8799688/) | 1996 | Review | Drugs | Pharmacology and therapeutic potential; efficacy similar to diclofenac and indomethacin, with preclinical suggestion of less gastrointestinal damage |
+| [11523298](https://pubmed.ncbi.nlm.nih.gov/11523298/) | 2001 | Review | Rev Med Liege | Role of aceclofenac in chronic osteoarthritis, including effects on cartilage remodeling |
+| [10081315](https://pubmed.ncbi.nlm.nih.gov/10081315/) | 1999 | Review/drug profile | Rev Med Liege | Indicated for symptomatic treatment of pain and inflammatory or degenerative arthropathies; usual dose 100 mg twice daily |
+
+## India Market Information
+
+Aceclofenac has 20 valid single-ingredient registrations in India. The records contain no approved indication text. Five representative authorizations:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 76207 | Eenac-SP Tablet | Strip of 10 tablets | Not stated in the compiled records |
+| Registration No. 37081 | Ceknac Plus Tablet | Strip of 10 tablets | Not stated in the compiled records |
+| Registration No. 194444 | Riofenac-P Oral Suspension | Bottle of 60 ml oral suspension | Not stated in the compiled records |
+| Registration No. 106002 | Hilnac-SR Tablet | Strip of 10 sustained-release tablets | Not stated in the compiled records |
+| Registration No. 8938 | Abate 200mg Tablet SR | Strip of 10 sustained-release tablets | Not stated in the compiled records |
+
+All products are oral (tablets, sustained-release tablets and oral suspension).
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Formal key warnings, contraindications, and drug-drug interaction data were not retrievable from the current data sources.
+Please refer to the package insert for safety information. No warnings, contraindications or drug interaction records were available in the data compiled for this report.
 
-**Important note for reviewers:** As a member of the NSAID class, aceclofenac carries expected class-level risks including gastrointestinal toxicity (peptic ulceration, GI bleeding), cardiovascular risk (particularly with long-term use), renal impairment, and hypersensitivity reactions in aspirin-sensitive patients. One case report in the literature (PMID 16922973, *JEADV* 2006) documents aceclofenac as a precipitant of generalized pustular psoriasis — a rare but severe adverse event that warrants inclusion in prescriber guidance, particularly relevant given the dermatological overlap in spondyloarthritis patients.
-
----
+One literature item is a case report of generalized pustular psoriasis precipitated by aceclofenac (PMID 16922973, 2006), which indicates a rare cutaneous adverse reaction. Any use in children (for example, juvenile arthritis) would need a separate pediatric safety evaluation.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Two direct multicenter RCTs comparing aceclofenac to active comparators in ankylosing spondylitis (the core subtype of inflammatory spondylopathy) were published in 1996 and demonstrate comparable efficacy to established NSAIDs; this evidence, combined with multiple systematic reviews and a 2021 narrative review, supports an L2 classification. The prediction represents an India regulatory filing opportunity for a pharmacologically well-characterized drug, rather than a first-in-disease investigation.
+The top-ranked prediction, brachyolmia-amelogenesis imperfecta syndrome, rests on a graph-based score alone. There are no trials or publications, and no plausible mechanistic link between an NSAID and a genetic skeletal and dental developmental disorder. The nine other top predictions are either similarly unsupported or overlap with aceclofenac's established indications (inflammatory spondylopathy), so none represents a validated new repurposing opportunity.
 
 **To proceed, the following is needed:**
-
-- **Blocking — Regulatory filing strategy for India CDSCO:** Aceclofenac is not currently marketed in India; a regulatory dossier referencing EU and other Asian market approvals must be prepared before any India-specific clinical or commercial activity
-- **Blocking — Full package insert safety data (DG001):** Key warnings and contraindications from the approved package insert must be obtained from the TFDA website (or equivalent approved markets) to complete the safety evaluation before S1 safety screening
-- **High — Detailed MOA documentation (DG002):** DrugBank API query should be executed to obtain the complete mechanism of action, target profile (COX-1/COX-2 IC₅₀ ratio, metabolite activity), and pharmacokinetic data
-- **Medium — Drug-drug interaction profile:** DDI query returned no results; a supplementary query via DrugBank DDI module or clinical pharmacology database is recommended given aceclofenac's broad use in elderly polypharmacy patients
-- **Medium — Pediatric safety assessment:** If inflammatory spondylopathy indication includes juvenile-onset AS, pediatric dosing and safety data must be separately evaluated (no data currently available for this subpopulation)
-- **Low — Clarify pustular psoriasis risk:** Investigate whether PMID 16922973 represents an isolated case or a known class-effect signal, and determine whether a specific warning is required for patients with concurrent psoriatic spondyloarthritis
+- Package insert warnings and contraindications for the Indian products (blocking for any safety screening)
+- Mechanism of action data for aceclofenac
+- Any preclinical or clinical evidence linking aceclofenac to a predicted indication, which does not exist in the data compiled for this report
+- Pediatric safety data if juvenile arthritis is pursued
+- Route compatibility and similarity-to-original-indication assessments, which are still pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

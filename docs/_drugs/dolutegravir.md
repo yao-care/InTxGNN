@@ -2,15 +2,15 @@
 layout: default
 title: Dolutegravir
 parent: Moderate Evidence (L3-L4)
-nav_order: 278
-evidence_level: L3
+nav_order: 281
+evidence_level: L4
 indication_count: 3
 ---
 
 # Dolutegravir
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,99 +29,87 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-# Dolutegravir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+# Dolutegravir: From HIV Infection to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-Dolutegravir is a second-generation integrase strand transfer inhibitor (INSTI) used globally for HIV-1 infection treatment in adults and children.
-The TxGNN model predicts it may be effective for **simian immunodeficiency virus (SIV) infection**,
-with **1 clinical trial** and **15 publications** currently supporting this research direction.
-
----
+Dolutegravir is an integrase strand transfer inhibitor originally used to treat HIV infection and AIDS.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus (SIV) infection**, essentially an animal-model extension of the approved HIV use rather than a new human disease.
+Currently there are **no registered clinical trials**, and **14 publications** (mostly preclinical macaque and in vitro studies) support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV-1 Infection (globally approved; not yet registered in India) |
-| Predicted New Indication | Simian Immunodeficiency Virus (SIV) Infection |
+| Original Indication | HIV infectious disease; AIDS |
+| Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 99.85% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, Dolutegravir belongs to the integrase strand transfer inhibitor (INSTI) class of antiretrovirals. It exerts its antiviral effect by blocking the HIV integrase enzyme, which is essential for inserting viral DNA into the host cell genome — a step required for productive viral replication. Second-generation INSTIs such as Dolutegravir are distinguished by their slow dissociation kinetics from the integrase-DNA complex, conferring a high genetic barrier to resistance.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known drug-class information, dolutegravir is an HIV-1 integrase strand transfer inhibitor (INSTI). It blocks the integration of viral DNA into the host genome, and its efficacy in HIV infection is established.
 
-SIV and HIV both belong to the *Lentivirus* genus within *Retroviridae* and share a high degree of integrase complex structural homology. This mechanistic overlap directly supports the biological rationale for Dolutegravir's activity against SIV. Multiple published studies have demonstrated that Dolutegravir exerts measurable selective pressure on SIV integrase in vivo, generating resistance mutation profiles (e.g., E92Q, G118R) closely analogous to those observed in HIV-1 — directly confirming drug-target engagement in the SIV system and validating SIV non-human primate (NHP) models as reliable pharmacological surrogates for HIV drug development.
+SIV is a closely related lentivirus with a homologous integrase. Structural work on HIV/SIV intasomes supports a shared INSTI binding site. Preclinical macaque studies show antiviral activity against SIV, including the selection of resistance patterns under dolutegravir monotherapy.
 
-It should be noted that this predicted indication represents a veterinary and animal model application rather than a conventional human clinical repurposing target. The primary scientific value lies in two areas: (1) validating SIV-NHP models for HIV resistance and eradication research, and (2) providing antiretroviral treatment for SIV-infected captive primates (e.g., chimpanzees, macaques) for animal welfare purposes. The 2017 case report of successful SIVcpz treatment in a captive chimpanzee illustrates this real-world veterinary application.
-
----
+The prediction is therefore mechanistically plausible, but it mainly describes use in animal models and research. It does not represent a new human therapeutic indication.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03577782](https://clinicaltrials.gov/study/NCT03577782) | Phase 1/2 | Unknown | 12 | Vedolizumab combined with ART (including INSTI) in HIV-infected subjects seeking virological remission off-ART; indirectly supports INSTI-based ART use in lentiviral infection management, but study likely did not complete enrollment |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [30381490](https://pubmed.ncbi.nlm.nih.gov/30381490/) | 2019 | Animal In Vivo Study | J Virology | DTG monotherapy in SIV-infected macaques selected E92Q/G118R resistance mutations with variable virological outcomes, directly confirming DTG-SIV integrase interaction in vivo |
-| [26150024](https://pubmed.ncbi.nlm.nih.gov/26150024/) | 2016 | Animal Comparative Study | AIDS Res Hum Retroviruses | Injectable cART including DTG (FTC+TDF+DTG) suppressed SIVmac239 replication in rhesus macaques to clinically relevant levels, establishing NHP cART model |
-| [36365101](https://pubmed.ncbi.nlm.nih.gov/36365101/) | 2022 | Animal Long-term Pharmacological Study | Pharmaceutics | Pharmacological validation of long-term TDF+FTC+DTG in SIVmac251-infected NHPs; confirmed appropriate PK profiles and sustained virological suppression |
-| [26378179](https://pubmed.ncbi.nlm.nih.gov/26378179/) | 2015 | In Vitro / Animal Study | J Virology | Comprehensive INSTI resistance profiling in SIVmac239; same drug resistance mutations produce similar phenotypes in SIV and HIV, validating SIV as a resistance model |
-| [34903055](https://pubmed.ncbi.nlm.nih.gov/34903055/) | 2021 | Animal Translational Study | mBio | Despite effective cART including DTG, lentiviral reservoirs persist in brain microglia and macrophages; SIV-NHP model parallels CNS reservoir dynamics in humans with HIV |
-| [32166319](https://pubmed.ncbi.nlm.nih.gov/32166319/) | 2020 | In Vitro / Animal Safety Study | Clin Infect Dis | DTG and Raltegravir promote pro-adipogenic and profibrotic effects and induce insulin resistance in human and simian adipose tissue; key metabolic safety signal for long-term INSTI use |
-| [31619550](https://pubmed.ncbi.nlm.nih.gov/31619550/) | 2019 | In Vitro Mechanistic Study | J Virology | Wnt/β-Catenin pathway modulation reduces long-lived memory CD4+ T cell proliferation in ART-suppressed SIV-infected macaques; mechanistic insight into viral reservoir maintenance |
-| [28576126](https://pubmed.ncbi.nlm.nih.gov/28576126/) | 2017 | Veterinary Case Report | Retrovirology | Successful antiretroviral treatment of SIVcpz-induced immunodeficiency in a captive chimpanzee; direct demonstration of INSTI-based regimen feasibility in NHP veterinary care |
-| [40093003](https://pubmed.ncbi.nlm.nih.gov/40093003/) | 2025 | Animal Study | Front Immunol | FTC+TDF+DTG cART in rhesus macaques modulated CNS extracellular free water and white matter tract deficits associated with SIV infection; neuroimaging evidence of treatment benefit |
-| [32506843](https://pubmed.ncbi.nlm.nih.gov/32506843/) | 2021 | Structural Biology / Review | FEBS Journal | X-ray crystal structures of HIV/SIV intasome complexes elucidate the molecular basis of second-generation INSTI (DTG, bictegravir) binding and their high genetic barrier to resistance |
+| [30381490](https://pubmed.ncbi.nlm.nih.gov/30381490/) | 2019 | Preclinical in vivo | J Virol | Dolutegravir monotherapy in SIV-infected macaques selected several resistance mutation patterns with variable virological outcomes |
+| [28923862](https://pubmed.ncbi.nlm.nih.gov/28923862/) | 2017 | Preclinical in vitro/in vivo | Antimicrob Agents Chemother | Activity of bictegravir and cabotegravir against integrase inhibitor-resistant SIVmac239 and HIV-1 |
+| [26378179](https://pubmed.ncbi.nlm.nih.gov/26378179/) | 2015 | Preclinical in vitro | J Virol | INSTI resistance profiles in SIVmac239 resemble those seen in HIV |
+| [24920794](https://pubmed.ncbi.nlm.nih.gov/24920794/) | 2014 | Preclinical in vitro | J Virol | HIV integrase resistance mutations introduced into SIVmac239 changed susceptibility to INSTIs, including dolutegravir |
+| [32506843](https://pubmed.ncbi.nlm.nih.gov/32506843/) | 2021 | Review | FEBS J | HIV/SIV intasome structures explain INSTI binding and viral escape mechanisms |
+| [36365101](https://pubmed.ncbi.nlm.nih.gov/36365101/) | 2022 | Preclinical in vivo | Pharmaceutics | Pharmacological validation of long-term antiretroviral treatment, including dolutegravir, in SIV-infected macaques |
+| [26150024](https://pubmed.ncbi.nlm.nih.gov/26150024/) | 2016 | Preclinical in vivo | AIDS Res Hum Retroviruses | Comparison of coformulated injectable combination ART regimens in SIV-infected rhesus macaques |
+| [25583721](https://pubmed.ncbi.nlm.nih.gov/25583721/) | 2015 | Preclinical model | Antimicrob Agents Chemother | Simian-tropic HIV as a model for studying integrase inhibitor resistance |
+| [34903055](https://pubmed.ncbi.nlm.nih.gov/34903055/) | 2021 | Preclinical in vivo | mBio | Lentiviral infection persists in the brain despite effective ART |
+| [40093003](https://pubmed.ncbi.nlm.nih.gov/40093003/) | 2025 | Preclinical imaging | Front Immunol | Brain extracellular free water and tract changes in macaques before and after emtricitabine + tenofovir + dolutegravir |
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 233352 | Viropil Tablet | Bottle of 30 tablets | Not specified |
+| 199998 | Spegra Tablet | Bottle of 30 tablets | Not specified |
+| 107978 | Instgra Tablet | Bottle of 30 tablets | Not specified |
+| 35654 | Cipanec 50mg/300mg/300mg Tablet | Bottle of 30 tablets | Not specified |
 
 ## Safety Considerations
 
-**Drug Interactions:** A total of 62 drug-drug interactions have been identified (source: DDInter). Key concerns are summarised below.
+- **Drug Interactions**: 62 interactions were identified. The main ones are listed below.
+  - **Major**: Polyvalent cation products that can reduce dolutegravir absorption, including aluminium hydroxide, attapulgite, kaolin, magaldrate, calcium salts (acetate, carbonate, citrate, glubionate, gluconate, lactate, phosphate), iron, and magnesium salts (carbonate, chloride, citrate).
+  - **Minor**: Aprepitant, cimetidine, clarithromycin, clotrimazole, dexamethasone.
 
-**Major Interactions — Polyvalent Cation Chelation:**
-Dolutegravir absorption is significantly reduced by polyvalent cation-containing products. The following agents all carry **Major** interaction ratings and must be carefully timed relative to Dolutegravir administration:
-
-| Category | Agents |
-|----------|--------|
-| Antacids / Buffers | Aluminum hydroxide, Magaldrate, Magnesium carbonate, Magnesium chloride, Magnesium citrate, Magnesium phosphate |
-| Calcium supplements | Calcium acetate, Calcium carbonate, Calcium citrate, Calcium glubionate, Calcium gluconate, Calcium lactate, Calcium phosphate |
-| Adsorbents | Attapulgite, Kaolin |
-| Iron supplements | Iron (all oral forms) |
-
-> ⚠️ **Clinical implication:** Dolutegravir should be administered at least 2 hours before or 6 hours after these agents. If separation is not possible, Dolutegravir may be taken simultaneously with food when combined with calcium or iron supplements.
-
-**Minor Interactions:** Aprepitant, Cimetidine, Clarithromycin, Clotrimazole, Dexamethasone — monitor for modest pharmacokinetic interactions; dose adjustment typically not required.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Dolutegravir's mechanism of HIV integrase inhibition is directly applicable to SIV given the high structural and sequence homology between HIV and SIV integrase complexes. Multiple peer-reviewed animal studies confirm drug-target engagement, characterised resistance mutation patterns, and measurable virological suppression in NHP models. However, this application is primarily veterinary and scientific (NHP research model and captive primate welfare) rather than a conventional human clinical drug repurposing pathway, which limits its immediate translational impact.
+The SIV indication is a research-model extension of dolutegravir's approved HIV use, not a new human disease. Support comes only from preclinical studies, with no clinical trials. The high TxGNN score likely reflects network proximity to the HIV indication.
 
 **To proceed, the following is needed:**
-- Species-specific pharmacokinetic studies to establish appropriate dosing regimens across target NHP species (rhesus macaques, chimpanzees)
-- Formal EC₅₀ characterisation of Dolutegravir against purified SIV integrase and against FIV integrase (for feline indication), compared directly to HIV integrase
-- Detailed MOA data retrieval from DrugBank (DB08930) to complete mechanistic documentation
-- Long-term safety monitoring plan addressing INSTI-class metabolic effects (weight gain, insulin resistance, adipose tissue changes) in the NHP context
-- Regulatory pathway assessment: veterinary drug approval versus compassionate/off-label use in captive primate programmes
-- TFDA/CDSCO package insert review to fill the current Blocking data gap on approved warnings and contraindications before any clinical translation is considered
+- Package insert warnings and contraindications for the marketed Indian products (currently a blocking data gap)
+- Detailed mechanism of action data
+- A clear decision on whether SIV (a research or veterinary context) is a relevant target at all
+- Dolutegravir-specific efficacy data in SIV models
+
+## Other Predicted Indications (For Reference)
+
+- **Feline acquired immunodeficiency syndrome (TxGNN 99.85%, L4, Hold):** One preclinical study (PMID [37112803](https://pubmed.ncbi.nlm.nih.gov/37112803/)) tested a combination of dolutegravir, tenofovir and emtricitabine in FIV-infected cats. It does not show dolutegravir-specific efficacy, and there is no human clinical relevance.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (TxGNN 99.80%, L5, Hold):** No trials or literature and no mechanistic link to integrase inhibition. This is likely a knowledge-graph artifact.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

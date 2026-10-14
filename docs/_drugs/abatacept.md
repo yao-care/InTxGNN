@@ -3,14 +3,14 @@ layout: default
 title: Abatacept
 parent: Moderate Evidence (L3-L4)
 nav_order: 12
-evidence_level: L3
+evidence_level: L4
 indication_count: 10
 ---
 
 # Abatacept
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,40 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Abatacept (Orencia) is a selective T-cell costimulation modulator (CTLA4-Ig fusion protein) globally approved for rheumatoid arthritis (RA) and polyarticular juvenile idiopathic arthritis, though not yet licensed in India.
-The TxGNN model predicts it may be effective for **Rheumatoid Vasculitis**, with **1 clinical trial** and **20 publications** currently identified in support of this direction.
-Evidence remains predominantly at the case report and observational level (Evidence Level L3), positioning this as a promising research question rather than an established indication.
+Abatacept is a T-cell co-stimulation blocker, originally used to treat rheumatoid arthritis, juvenile idiopathic arthritis and spondyloarthropathy.
+The TxGNN model's top-ranked prediction is **rheumatoid vasculitis**, but this is supported only by **1 loosely related clinical trial** and a handful of **case reports**, so the evidence is weak.
+A more clinically grounded signal in the ranked list is **polyarticular juvenile rheumatoid arthritis** (Phase 3 evidence), though that largely overlaps with an existing indication.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Rheumatoid Arthritis (globally approved by FDA/EMA; not licensed in India) |
-| Predicted New Indication | Rheumatoid Vasculitis |
+|------|------|
+| Original Indication | Rheumatoid arthritis (the registration record carries no indication text; this comes from the knowledge-graph indications: rheumatoid arthritis, juvenile idiopathic arthritis, spondyloarthropathy) |
+| Predicted New Indication | Rheumatoid vasculitis |
 | TxGNN Prediction Score | 99.91% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Research Question |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from this evidence pack. Based on known pharmacological information, Abatacept is a fusion protein composed of the Fc region of IgG1 fused to the extracellular domain of CTLA-4. It selectively blocks the CD80/CD86–CD28 co-stimulatory axis required for full T-cell activation, thereby suppressing downstream T-effector cell proliferation, cytokine release, and B-cell helper function. This mechanism is distinct from cytokine-targeting biologics (e.g., anti-TNF or anti-IL-6 agents) in that it acts upstream at the T-cell priming stage.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, abatacept is a fusion protein (CTLA-4 extracellular domain linked to an IgG1 Fc region) that blocks CD28–CD80/86 T-cell co-stimulation. Its efficacy in rheumatoid arthritis is established.
 
-Rheumatoid Vasculitis (RV) is a severe extra-articular complication of longstanding RA, characterised by immune complex deposition in vessel walls and T-cell-driven vascular inflammation. The pathological drivers of RV substantially overlap with those of RA itself — dysregulated CD4+ T-cell activation and B-cell-mediated humoral immunity are central to both conditions. Abatacept's mechanism of suppressing T-cell co-stimulation is therefore mechanistically congruent with interrupting the immunological processes underlying RV, particularly in patients where B-cell depletion (rituximab) is contraindicated or has failed.
+Rheumatoid vasculitis is a serious complication of rheumatoid arthritis, driven by immune-complex and T-cell-mediated vascular inflammation. Dampening T-cell activation could plausibly reduce this inflammation, which is the basis for the prediction.
 
-Published case reports provide preliminary clinical proof-of-concept. Two cases describe rapid improvement in RV following abatacept therapy (PMID 29930884, PMID 22124545), including one patient refractory to methotrexate, TNF inhibitors, steroids, immunoadsorption plasmapheresis, and IL-6 inhibition. However, a cautionary case (PMID 27052429) documents new onset of RV *during* abatacept therapy with subsequent improvement only after switching to rituximab — underscoring that T-cell costimulation blockade alone may not be sufficient in all RV phenotypes, and patient selection will be critical.
+The direction of effect, however, is inconsistent. One case report describes rapid improvement of rheumatoid vasculitis on abatacept, in a patient who had failed methotrexate, TNF inhibitors and an IL-6 inhibitor. Another describes a patient whose vasculitis developed anew during abatacept therapy and improved after rituximab. A third reports orbital vasculitis arising while on abatacept. This mix means the benefit is unproven and a paradoxical effect cannot be ruled out.
+
+**Other predictions in the ranked list (for context):**
+- **Polyarticular juvenile rheumatoid arthritis** (score 99.83%, evidence L1): essentially confirms the existing juvenile idiopathic arthritis indication rather than true repurposing.
+- **Inflammatory spondylopathy** (score 99.84%, evidence L2): supported by Phase 3 and Phase 2b psoriatic arthritis trials, but evidence in axial disease is negative.
+- **Ankylosing spondylitis** (score 99.91%, evidence L3): a small open-label pilot and a published report of lack of efficacy in TNF-refractory axial spondyloarthropathy. Review literature also describes abatacept as not effective here.
+- **Hypermobility of coccyx, Kummell disease, brachydactyly-syndactyly syndrome, colobomatous microphthalmia-rhizomelic dysplasia syndrome**: no mechanistic rationale and no supporting studies; likely network artefacts.
+- **Vertebral disease and spondyloarthropathy susceptibility**: non-specific terms with only indirect literature.
 
 ---
 
@@ -67,75 +74,58 @@ Published case reports provide preliminary clinical proof-of-concept. Two cases 
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Phase 2 | Not Yet Recruiting | 80 | Perioperative immunosuppressant management in rheumatology patients undergoing total shoulder arthroplasty; assesses flare rates and wound complications when biologics (including Abatacept) are held vs. continued. Abatacept is a background medication here — this trial does not directly evaluate RV treatment efficacy. |
+| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Phase 2 | Recruiting | 80 | Perioperative immunosuppressant management in rheumatology patients undergoing shoulder arthroplasty; does not test abatacept for vasculitis |
+
+Only this one trial was retrieved for rheumatoid vasculitis, and it is not directly relevant.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------|
-| [29930884](https://pubmed.ncbi.nlm.nih.gov/29930884/) | 2018 | Case Series / Review | Cureus | Abatacept (CTLA4-Ig) used as therapeutic option for confirmed RV in a patient with RA and common variable immunodeficiency; rituximab was contraindicated due to risk of exacerbating immunodeficiency — describes rationale for choosing abatacept |
-| [22124545](https://pubmed.ncbi.nlm.nih.gov/22124545/) | 2012 | Case Report | Modern Rheumatology | 38-year-old woman with RV refractory to MTX, TNF inhibitors, steroids, immunoadsorption plasmapheresis, and IL-6 inhibitor; abatacept administration produced rapid clinical improvement with near-normalisation of inflammatory markers |
-| [30119075](https://pubmed.ncbi.nlm.nih.gov/30119075/) | 2018 | Case Series | Ophthalmic Plastic & Reconstructive Surgery | RA patient presenting with bilateral orbital lesions while on abatacept; biopsy revealed vasculitis with eosinophilic infiltrate; initial response to cyclophosphamide followed by disease progression — illustrates complex immune dynamics in biologic-treated RV |
-| [27052429](https://pubmed.ncbi.nlm.nih.gov/27052429/) | 2016 | Case Report | Joint Bone Spine | New onset of RV during abatacept therapy; subsequent improvement achieved after switching to rituximab — important cautionary case highlighting that abatacept may be insufficient for some RV phenotypes |
-| [34068884](https://pubmed.ncbi.nlm.nih.gov/34068884/) | 2021 | Narrative Review | Journal of Clinical Medicine | Overview of episcleritis and scleritis as ocular manifestations of RA (present in 2–15% of RA-associated scleritis); reviews biologic treatment escalation including T-cell pathway modulators in refractory cases |
-| [36418100](https://pubmed.ncbi.nlm.nih.gov/36418100/) | 2023 | Case Report | Internal Medicine (Tokyo) | ANCA-associated nephritis (pauci-immune pattern) developing during combined abatacept + adalimumab therapy; tocilizumab attenuated the vasculitic renal injury — relevant safety case for immune-mediated vascular events on biologic therapy |
-| [31174819](https://pubmed.ncbi.nlm.nih.gov/31174819/) | 2018 | Review | Best Practice & Research Clinical Rheumatology | Review of CNS involvement in RA including cerebral vasculitis, rheumatoid nodules, and meningitis; discusses implications of biologics including abatacept for CNS manifestations |
-| [41117362](https://pubmed.ncbi.nlm.nih.gov/41117362/) | 2026 | Review | European Journal of Clinical Investigation | Summarises early diagnostic and therapeutic approaches in inflammatory and autoimmune rheumatic diseases including RA and large-vessel vasculitis in polymyalgia rheumatica; provides updated context for vasculitic pathophysiology |
-| [24493331](https://pubmed.ncbi.nlm.nih.gov/24493331/) | 2015 | Case-based Review | Clinical Rheumatology | Abatacept as successful therapy for myositis — demonstrates broader off-label efficacy of abatacept in T-cell-driven inflammatory conditions beyond RA; supports mechanistic plausibility in related autoimmune vasculopathies |
-| [23557513](https://pubmed.ncbi.nlm.nih.gov/23557513/) | 2013 | Review | BMC Medicine | Update on biologic therapies for autoimmune diseases; positions abatacept within the broader immune-modulating landscape and discusses limitations and adverse event profiles relevant to repurposing decisions |
+|------|-----|------|------|---------|
+| [29930884](https://pubmed.ncbi.nlm.nih.gov/29930884/) | 2018 | Case report | Cureus | Abatacept as a therapeutic option for rheumatoid vasculitis in a patient with RA and common variable immunodeficiency, where rituximab was a concern |
+| [22124545](https://pubmed.ncbi.nlm.nih.gov/22124545/) | 2012 | Case report | Modern Rheumatology | Rapid improvement of rheumatoid vasculitis on abatacept after failure of methotrexate, TNF inhibitors and an IL-6 inhibitor |
+| [27052429](https://pubmed.ncbi.nlm.nih.gov/27052429/) | 2016 | Case report | Joint Bone Spine | New-onset rheumatoid vasculitis during abatacept therapy, improved after rituximab |
+| [30119075](https://pubmed.ncbi.nlm.nih.gov/30119075/) | 2018 | Case report | Ophthalmic Plastic and Reconstructive Surgery | RA-associated orbital vasculitis arising while on abatacept; progressed despite cyclophosphamide |
+| [36418100](https://pubmed.ncbi.nlm.nih.gov/36418100/) | 2023 | Case report | Internal Medicine | ANCA-associated nephritis occurring during abatacept and adalimumab therapy for RA, attenuated by tocilizumab |
+| [24840285](https://pubmed.ncbi.nlm.nih.gov/24840285/) | 2014 | Systematic review and cohort | Autoimmunity Reviews | Biologics-induced autoimmune renal disorders in chronic inflammatory rheumatic diseases |
+| [34068884](https://pubmed.ncbi.nlm.nih.gov/34068884/) | 2021 | Review | Journal of Clinical Medicine | Treatment perspectives for RA-associated episcleritis and scleritis |
+| [23557513](https://pubmed.ncbi.nlm.nih.gov/23557513/) | 2013 | Review | BMC Medicine | Update on biologic therapy for autoimmune diseases |
+
+No randomized controlled trials exist for this indication.
 
 ---
 
 ## India Market Information
 
-Abatacept is currently **not licensed in India**. No product registrations are on record.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| — | No registrations found | — | — |
-
-> **Note:** Abatacept is approved globally under the brand name **Orencia** (Bristol-Myers Squibb) by the FDA (since 2005 for RA) and EMA, for Rheumatoid Arthritis and Polyarticular Juvenile Idiopathic Arthritis. Its absence from the Indian market represents an unmet access gap rather than a safety or efficacy concern at the global level.
+| Registration No. 163966 | Orencia Powder for infusion (BMS India Pvt Ltd) | Box of 1 powder for infusion | Not stated in the registration record |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions** (73 interactions identified total — selected key interactions shown below):
+- **Drug Interactions**: 73 interactions were identified. Major-level interactions include other biologic or targeted immunosuppressants (adalimumab, baricitinib, certolizumab pegol) and live vaccines (BCG live). Moderate-level interactions include other immunomodulators (anakinra, canakinumab, alemtuzumab, alefacept, azathioprine, roflumilast) and several live or attenuated vaccines (adenovirus type 4, anthrax, cholera, Candida albicans antigen). Zinc salts are listed as minor.
+- **Other safety signals in the retrieved literature**: infection risk with biologics (including tuberculosis screening and herpes zoster) and reports of paradoxical vasculitis or autoimmune renal disease during biologic therapy.
 
-*Major interactions — avoid or use with extreme caution:*
-- **Adalimumab**: Combining two biologics markedly increases serious infection risk; concomitant use is generally contraindicated
-- **Baricitinib**: Biologic + JAK inhibitor combination substantially elevates infection risk; avoid concurrent use
-- **Certolizumab pegol**: Same concern as adalimumab; dual biological immunosuppression is not recommended
-- **BCG vaccine (live, Tice strain)**: Live vaccines must not be administered during abatacept therapy due to risk of disseminated infection in an immunocompromised host
-
-*Moderate interactions — monitor closely:*
-- **Anakinra, Canakinumab, Alemtuzumab, Alefacept**: Additive immunosuppression; increased infection and lymphopenia risk
-- **Live/attenuated vaccines** (Anthrax, Cholera CVD 103-HgR, Adenovirus): Reduced vaccine efficacy and potential safety risk; timing of vaccination relative to therapy must be planned carefully
-- **Azathioprine**: Additive myelosuppression and infection risk; monitor CBC and hepatic function
-- **Roflumilast**: Additive immunosuppression; heightened infection surveillance warranted
-- **Bifidobacterium longum infantis**: Probiotic use in immunocompromised patients requires caution
-
-*Minor interactions — routine monitoring sufficient:*
-- **Zinc acetate, Zinc gluconate, Zinc sulfate, Zinc chloride**: Minor interaction; no dose adjustment required under normal circumstances
+Please refer to the package insert for warnings and contraindications, as label-level data were not available.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Research Question**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic link between Abatacept's T-cell costimulation blockade and the T-cell-driven pathogenesis of Rheumatoid Vasculitis is biologically plausible, and published case reports confirm clinical responses in individual patients — particularly those unable to receive rituximab. However, evidence is entirely at the case report/case series level (L3), no randomised controlled trial data exist for this indication, and at least one case documents RV onset *during* abatacept therapy, signalling heterogeneity in response that requires further characterisation before any practice change can be recommended.
+The top prediction, rheumatoid vasculitis, rests on a few case reports with conflicting directions of effect and no relevant trials (evidence level L4). The model score is high, but it is not backed by clinical results.
 
 **To proceed, the following is needed:**
-- Obtain full package insert (TFDA/FDA SmPC) to document complete safety warnings and contraindications (currently unavailable — a blocking data gap)
-- Retrieve DrugBank MOA data to enable formal mechanistic linkage analysis
-- Establish a prospective case registry for RV patients receiving abatacept to build structured real-world evidence
-- Design a pilot clinical trial (Phase 2 open-label) comparing abatacept to rituximab in patients with confirmed RV — particularly targeting the subgroup where rituximab is contraindicated
-- Define response biomarkers (e.g., T-cell subsets, ACPA, RF levels) to prospectively identify which RV patients are most likely to benefit from T-cell costimulation blockade
-- Develop an India-specific regulatory and access strategy given zero current market presence
+- Package insert warnings and contraindications for the India-registered product (currently a blocking gap for safety screening)
+- Detailed mechanism of action data
+- A larger case series or controlled study of abatacept in rheumatoid vasculitis, with attention to the reports of vasculitis emerging during therapy
+- If a more actionable lead is wanted, consider assessing psoriatic arthritis (the spondyloarthritis spectrum), where Phase 3 and 2b trials exist, while noting that axial disease evidence is negative
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,95 +33,78 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Astemizole is a second-generation H1 antihistamine historically used for allergic conditions such as allergic rhinitis and urticaria, but withdrawn from global markets in 1999 due to life-threatening cardiac toxicity.
-The TxGNN model predicts it may have potential in **Rosacea Conjunctivitis**,
-with a high computational score of **99.78%** — however, **no clinical trials and no published literature** currently support this direction, making this a purely model-driven prediction.
-
----
+Astemizole is a second-generation H1-receptor antagonist, originally used for allergic rhinitis, allergic and atopic conjunctivitis, and idiopathic urticaria.
+The TxGNN model predicts it may be effective for **rosacea conjunctivitis**,
+but currently **no clinical trials and no publications** support this direction, so the prediction rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Allergic rhinitis, urticaria (antihistamine; not listed in India registry — drug is not marketed) |
-| Predicted New Indication | Rosacea Conjunctivitis |
+|------|------|
+| Original Indication | Allergic rhinitis (also vasomotor rhinitis, atopic, papillary and vernal conjunctivitis, idiopathic urticaria) |
+| Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 99.78% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 9 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Astemizole is a second-generation H1 histamine receptor antagonist (antihistamine). Its mechanism relies on selectively blocking H1 receptors, thereby suppressing the inflammatory cascade triggered by histamine released from mast cells — without the sedation profile of first-generation antihistamines.
+Currently, detailed mechanism of action data is not available. Based on known information, astemizole is a second-generation H1-receptor antagonist. Its efficacy in allergic and atopic conjunctivitis (including vernal and papillary forms) is established, and by blocking histamine it may mechanistically reduce histamine-mediated inflammation of the ocular surface in rosacea conjunctivitis.
 
-Rosacea conjunctivitis is a form of ocular inflammation associated with rosacea, a chronic skin condition with a prominent inflammatory component. Conjunctival mast cells release histamine upon activation, contributing to redness, itching, and irritation. On mechanistic grounds, H1 blockade could theoretically dampen this histamine-mediated ocular inflammation, providing the biological rationale for TxGNN's prediction.
-
-However, this theoretical link is overshadowed by a critical safety reality. **Astemizole was withdrawn from the US FDA and EU markets in 1999** due to its blockade of the hERG cardiac potassium channel, leading to QTc interval prolongation and potentially fatal arrhythmias (Torsades de Pointes). With 276 known drug-drug interactions, it is classified as an extremely high-risk compound. The prediction score of 99.78%, while mathematically impressive, reflects graph-based structural similarity rather than clinical viability.
-
----
+This link is weak, however. Ocular rosacea is driven mainly by meibomian gland dysfunction, tear film instability, microbial and Demodex factors, and innate immune activation. Histamine plays only a minor role. The very high TxGNN score (99.78%) most likely reflects network proximity to astemizole's existing conjunctivitis indications rather than an independent mechanistic signal. Because the mechanism data is missing, the link is inferred from the drug class only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
-Astemizole currently holds no approved drug licenses in India. The drug is not marketed and has no active registrations on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 6296 | Acemiz Plus 5mg Suspension (Lupin Ltd) | Bottle of 60 ml suspension | Not stated |
+| 6237 | Astem 10mg Tablet (Medley Pharmaceuticals) | Strip of 10 tablets | Not stated |
+| 11004 | Astelong 5mg Oral Suspension (Torrent Pharmaceuticals Ltd) | Bottle of 60 ml oral suspension | Not stated |
+| 202130 | Stemiz 10mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
+| 6542 | Alestol 10mg Tablet (Indico Pharmaceuticals) | Strip of 10 tablets | Not stated |
 
----
+Nine valid single-ingredient registrations exist in total; the five main ones are listed above. All are oral tablets or suspensions, and no ophthalmic formulation appears in the data compiled for this report.
 
 ## Safety Considerations
 
-**Drug Interactions (276 total interactions identified):**
+- **Cardiac risk**: Astemizole was withdrawn from many markets because of hERG channel blockade, QT prolongation and torsades de pointes risk. This weighs heavily against any new use.
+- **Drug Interactions**: 276 interactions are recorded, notably with CYP3A4 inhibitors. Major-level interactions include:
+  - Cimetidine
+  - Clarithromycin
+  - Aprepitant
+  - Dolasetron
+  - Miconazole
+  - Picosulfuric acid
+  - Sodium sulfate
+  - Polyethylene glycol (3350 with electrolytes)
 
-Below are selected interactions of note, prioritised by severity:
+  Moderate-level interactions include famotidine, loperamide, ondansetron, palonosetron, levofloxacin, lactulose and lactitol.
 
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Clarithromycin | **Major** | CYP3A4 inhibition raises astemizole plasma levels → increased QTc risk |
-| Aprepitant | **Major** | CYP3A4 inhibition → elevated astemizole exposure |
-| Cimetidine | **Major** | Inhibits hepatic metabolism → QTc prolongation risk |
-| Miconazole | **Major** | Antifungal CYP inhibition → cardiac arrhythmia risk |
-| Dolasetron | **Major** | Additive QTc prolongation |
-| Picosulfuric acid | **Major** | Electrolyte-mediated QTc potentiation |
-| Polyethylene glycol (3350 with electrolytes) | **Major** | Electrolyte shifts → increased arrhythmia risk |
-| Sodium sulfate | **Major** | Electrolyte disturbance interaction |
-| Ondansetron | Moderate | Additive QTc effects (5-HT3 antagonist) |
-| Palonosetron | Moderate | Additive QTc effects |
-| Levofloxacin | Moderate | Fluoroquinolone-related QTc additive effect |
-| Famotidine | Moderate | H2/H1 pathway overlap, QT monitoring advised |
-| Loperamide | Moderate | Cardiac conduction caution |
-
-> ⚠️ **Critical Safety Note:** Astemizole's hERG channel blockade and resultant QTc prolongation risk led to its global market withdrawal in 1999. It should be regarded as a **withdrawn compound** with an **unacceptable cardiac safety profile** for any new indication development without a specific cardiac risk mitigation programme.
-
----
+Package insert warnings and contraindications were not available; please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Although TxGNN assigns a high prediction score (99.78%) based on mechanistic graph proximity between H1 antagonism and histamine-mediated conjunctival inflammation, astemizole carries a black-box cardiac safety profile that resulted in its global withdrawal. With zero supporting clinical trials, zero published literature, 276 drug-drug interactions, and no India market presence, the benefit-risk ratio for pursuing this candidate is currently unfavourable.
+The prediction has no supporting clinical trials or literature (Evidence Level L5), and the mechanistic link to rosacea conjunctivitis is weak. The serious cardiac safety profile (QT prolongation, torsades de pointes) and extensive interaction burden make a new use hard to justify without much stronger evidence.
 
-**To reconsider this direction, the following would be needed:**
-
-- **Cardiac safety re-evaluation**: Evidence that a topical ophthalmic formulation achieves negligible systemic exposure, thereby circumventing QTc risk
-- **Preclinical proof-of-concept**: In vitro or in vivo data demonstrating efficacy in a rosacea conjunctivitis model
-- **Regulatory pathway consultation**: Assessment of whether the 1999 withdrawal creates insurmountable barriers to any new IND filing
-- **Comparative analysis**: Head-to-head mechanistic comparison against safer second-generation antihistamines (e.g., olopatadine, azelastine) already approved for ophthalmic use
-- **MOA data gap resolution**: Confirm via DrugBank API whether any additional pharmacological activity (beyond H1 antagonism) contributes to TxGNN's prediction
-- **Full safety document retrieval**: Package insert warnings and contraindications should be sourced before any further development consideration
+**To proceed, the following is needed:**
+- Package insert warnings and contraindications from the Indian regulatory source (needed for safety screening)
+- Detailed mechanism of action data
+- Preclinical or clinical evidence that H1 blockade benefits ocular rosacea
+- A comparison against existing safer antihistamines and standard ocular rosacea therapies
+- A cardiac safety risk-benefit assessment, including a route-compatibility check (for example, whether a topical ocular formulation could limit systemic exposure)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

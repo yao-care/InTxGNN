@@ -2,7 +2,7 @@
 layout: default
 title: Empagliflozin
 parent: Model Prediction Only (L5)
-nav_order: 300
+nav_order: 303
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,102 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Empagliflozin: From Type 2 Diabetes to Classic Stiff Person Syndrome
+# Empagliflozin: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
 
 ## One-Sentence Summary
 
-Empagliflozin (Jardiance) is a well-established SGLT2 inhibitor approved globally for type 2 diabetes mellitus and heart failure with reduced ejection fraction.
-The TxGNN model predicts it may be effective for **Classic Stiff Person Syndrome**, a rare autoimmune neurological disorder,
-however **no clinical trials and no supporting publications** currently exist for this direction — making this a model-only hypothesis at this stage.
-
----
+Empagliflozin is an oral SGLT2 inhibitor originally used to treat type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **classic stiff person syndrome**,
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Type 2 Diabetes Mellitus / Heart Failure (global approval; not registered in India) |
-| Predicted New Indication | Classic Stiff Person Syndrome |
+|------|------|
+| Original Indication | Type 2 diabetes mellitus |
+| Predicted New Indication | Classic stiff person syndrome |
 | TxGNN Prediction Score | 99.06% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on well-established pharmacological knowledge, Empagliflozin is a selective sodium-glucose cotransporter 2 (SGLT2) inhibitor. It reduces blood glucose by blocking glucose reabsorption in the renal proximal tubule, and has demonstrated cardiovascular and renal protective effects likely mediated through reduction of oxidative stress, inflammation, and haemodynamic load.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Empagliflozin is known to be an SGLT2 inhibitor that lowers blood glucose by blocking glucose reabsorption in the kidney. Its efficacy in type 2 diabetes is well established, but that mechanism has no demonstrated link to the new indication.
 
-Classic Stiff Person Syndrome (SPS) is a rare autoimmune neurological disorder characterised by progressive muscle rigidity and spasms. Its core pathology involves anti-GAD65 antibodies attacking GABAergic inhibitory interneurons in the spinal cord and brain, fundamentally disrupting GABA-mediated motor suppression. This immunological and neurological mechanism has no established pharmacological overlap with SGLT2 inhibition.
+Stiff person syndrome is an autoimmune neurological disorder involving GABAergic signalling and antibodies against glutamic acid decarboxylase (GAD65). A possible connection exists through the association of GAD65 autoimmunity with type 1 diabetes and other autoimmune conditions. This link is indirect and speculative, and no supported mechanistic link was identified.
 
-The high TxGNN score (99.06%) is most likely a consequence of **network topology artefacts** — Empagliflozin occupies a highly connected node in the knowledge graph (touching metabolic, inflammatory, and cardiovascular disease clusters), and SPS may share indirect graph proximity via shared comorbidity nodes such as autoimmune disease or neuroinflammation. This does **not** indicate mechanistic specificity. Furthermore, the identical score shared between Classic SPS (rank 13,839) and Focal Stiff Limb Syndrome (rank 13,840) strongly suggests the model treats these as near-equivalent graph nodes, further reducing confidence in the prediction's specificity.
-
----
+The prediction should be treated with caution. The closely related prediction, focal stiff limb syndrome, receives an identical score (99.06%), which suggests the model is propagating a shared disease-neighbourhood signal rather than independent evidence. The third-ranked prediction, opsismodysplasia (score 99.03%), is also unsupported by any trials or publications.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Empagliflozin in Classic Stiff Person Syndrome, Focal Stiff Limb Syndrome, or Opsismodysplasia.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for any of the three predicted indications.
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-Empagliflozin currently has **no registered products** in India. No authorization records are available.
+Twenty valid single-ingredient registrations are on file. The main ones are listed below. The data compiled for this report contain no approved indication text for these products.
 
-> Note: Empagliflozin (brand name Jardiance) is approved in the US (FDA, 2014), EU (EMA), and many other markets for type 2 diabetes and heart failure, but has not obtained regulatory approval in India as of the data cutoff (2026-04-04).
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 113870 | Jardiance 10mg Tablet | Strip of 10 tablets | Boehringer Ingelheim |
+| 113866 | Jardiance 25mg Tablet | Strip of 10 tablets | Boehringer Ingelheim |
+| 94211 | Glyxambi 25mg/5mg Tablet | Strip of 10 tablets | Boehringer Ingelheim |
+| 72505 | Empaone 10mg Tablet | Strip of 10 tablets | MSN Laboratories |
+| 162085 | Oboravo 10mg Tablet | Strip of 10 tablets | Cipla Ltd |
 
 ## Safety Considerations
 
-**Drug Interactions:** A total of **369 drug-drug interactions** have been identified via DDInter. Key interactions to note include:
+- **Drug Interactions**: 369 interactions were identified in total. Examples at Moderate level include phenylephrine, acebutolol, acetazolamide, formoterol, pseudoephedrine, nifedipine, epinephrine, ethinylestradiol, hydrocortisone, salbutamol, ethanol, furosemide and fosinopril. Minor-level examples include topical hydrocortisone and topical alclometasone.
 
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Furosemide | Moderate | Additive diuretic effect; risk of volume depletion and electrolyte imbalance |
-| Acetazolamide | Moderate | Compounded risk of metabolic acidosis |
-| Nifedipine | Moderate | Potential pharmacokinetic interaction affecting drug exposure |
-| Ethanol | Moderate | Increased risk of hypoglycaemia and volume depletion |
-| Fosinopril | Moderate | Additive hypotensive and renal effects |
-| Fosphenytoin | Moderate | Possible alteration of glucose control |
-| Phenylephrine | Moderate | May blunt glucose-lowering effect |
-| Epinephrine | Moderate | May antagonise glycaemic benefit |
-| Salbutamol / Formoterol | Moderate | Beta-agonists may counteract glycaemic effects |
-| Ethinylestradiol | Moderate | Potential impact on glycaemic control |
-| Hydrocortisone | Moderate | Corticosteroids may blunt SGLT2 inhibitor efficacy |
-| Hydrocortisone (topical) | Minor | Low clinical significance |
-| Alclometasone (topical) | Minor | Low clinical significance |
-
-For complete warnings and contraindications, please refer to the approved package insert (e.g., FDA label or EMA SmPC for Jardiance), as India-specific label data is not available.
-
----
+Please refer to the package insert for warnings and contraindications, as these were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All three TxGNN-predicted indications (Classic Stiff Person Syndrome, Focal Stiff Limb Syndrome, Opsismodysplasia) are classified as Evidence Level L5 — model prediction only, with zero supporting clinical trials or published literature. The mechanistic link between SGLT2 inhibition and the GABAergic/autoimmune pathology of Stiff Person Syndrome is highly speculative, and the identical TxGNN scores for two related conditions suggest network topology noise rather than genuine therapeutic signal. This candidate does not meet the minimum evidence threshold for further investment at this time.
+The prediction has no supporting clinical trials or publications (evidence level L5), no verified mechanistic link, and the drug's package insert safety data are not yet available. A high TxGNN score alone is not enough to justify moving forward.
 
 **To proceed, the following is needed:**
-
-- **Mechanistic validation:** Identify any published preclinical or in vitro data linking SGLT2 inhibition to GABAergic signalling, neuroinflammation, or anti-GAD65 antibody modulation
-- **India regulatory data:** Clarify whether Empagliflozin has a pending CDSCO application or is available under import licence; obtain India-specific package insert for formal safety assessment
-- **Literature review:** Commission a systematic literature search beyond PubMed (e.g., Embase, ICTRP, grey literature) to confirm the absence of any preliminary case reports or mechanism studies
-- **Expert consultation:** Consult a neurologist specialising in rare movement disorders to assess clinical plausibility before any resource commitment
-- **Network analysis audit:** Request TxGNN graph analysis to determine whether the high score reflects genuine mechanistic nodes or indirect comorbidity clustering artefacts
-
----
-
-> ⚠️ **Disclaimer:** This report is for research reference purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any application. Data cutoff: 2026-04-04.
+- Package insert warnings and contraindications from the India Pharma source, which currently block safety screening
+- Mechanism of action data from DrugBank, to allow a proper mechanistic-link analysis
+- A literature and trial search specific to stiff person syndrome and SGLT2 inhibitors, including preclinical or mechanistic studies
+- Assessment of whether the identical scores for classic stiff person syndrome and focal stiff limb syndrome reflect a model artefact
+- Review of the safety profile in the target population, given that stiff person syndrome patients often have autoimmune comorbidities
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

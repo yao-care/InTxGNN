@@ -2,7 +2,7 @@
 layout: default
 title: Silver
 parent: Model Prediction Only (L5)
-nav_order: 766
+nav_order: 773
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Silver: From Unspecified Original Use to Bone Paget Disease
+# Silver: From Topical Wound and Burn Care to Bone Paget Disease
 
 ## One-Sentence Summary
 
-> No original indication or mechanism-of-action data is currently on file for Silver (DrugBank DB12965).
-> The TxGNN model's top prediction suggests possible relevance to **Bone Paget Disease**,
-> but the underlying evidence — **2 clinical trials** and **5 publications** — consists entirely of unrelated "silver staining" histology methodology papers, not therapeutic studies of silver as a drug.
+Silver is marketed in India as a topical antimicrobial in wound and burn products (gels, creams, sprays and liquids).
+The TxGNN model predicts it may be effective for **bone Paget disease**, but there are **no registered clinical trials** and the **5 publications** retrieved use silver only as a laboratory staining reagent, not as a treatment.
+This prediction is a model output without therapeutic support.
 
 ---
 
@@ -43,32 +43,29 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | No data available |
-| Predicted New Indication | Bone Paget Disease |
+| Original Indication | Not stated in the licence records (the products are marketed as antimicrobial wound and burn care) |
+| Predicted New Indication | bone Paget disease |
 | TxGNN Prediction Score | 99.67% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 9 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a blocking-severity data gap, DG002). No original indications are recorded for Silver in this evidence pack, so no pharmacological rationale can be constructed linking a known original use to the predicted new indication.
+Currently, detailed mechanism of action data is not available. Based on known information, silver is used topically in India as an antimicrobial agent in wound and burn products. Its relationship to Paget disease of bone cannot be established mechanistically from the data compiled for this report.
 
-More importantly, the evidence pack's own analysis flags this top prediction as a **likely false positive caused by a name collision**. All five supporting publications discuss "silver staining" (Ag-NOR staining), a laboratory histology technique used to visualize nucleolar organizer regions in osteoclast nuclei — a method for studying Paget's disease tissue samples, not a treatment involving silver compounds. The two supporting clinical trials (a general rare-disease patient registry and an unrelated phosphate-reduction dialysis trial) also show no connection to silver-based therapy for bone Paget disease.
+The high TxGNN score (99.67%) is not backed by pharmacological evidence. The five retrieved papers mention silver only as a histological stain, for example silver impregnation of bone tissue and staining of nucleolar organizer regions in osteoclasts. None evaluates silver as a therapy. The link appears to be a text-mining artefact of the word "silver" rather than a real treatment relationship.
 
-This pattern recurs across several other top-ranked TxGNN predictions for this drug (e.g., amenorrhea, esotropia, myelodysplastic syndrome): the retrieved literature is dominated by unrelated hits on the surname "Silver" (e.g., researchers named Richard T. Silver, Silver-Russell syndrome) or histological silver-staining techniques, rather than genuine pharmacological evidence for elemental/ionic silver as a therapeutic agent. This strongly suggests a systematic entity-disambiguation issue rather than a substantive repurposing signal.
+Other top predictions show the same pattern. Silver appears as a stain, as a toxicant (argyria), as part of the eponym "Silver-Russell syndrome", or as a metaphor ("silver bullets", "silver lining"). The second entry for "Paget disease of bone" duplicates the first and should be consolidated with it. Antimicrobial wound-care use is also topical, which makes systemic bone disease an unlikely target.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01793168](https://clinicaltrials.gov/study/NCT01793168) | N/A | Recruiting | 20,000 | General rare-disease patient registry (Sanford CoRDS); not a silver-specific intervention trial |
-| [NCT03573089](https://clinicaltrials.gov/study/NCT03573089) | N/A | Recruiting | 3,600 | Serum phosphate reduction trial in dialysis patients; no silver compound involved despite title association with Paget-related bone metabolism |
+Currently no related clinical trials registered.
 
 ---
 
@@ -76,25 +73,35 @@ This pattern recurs across several other top-ranked TxGNN predictions for this d
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9836854](https://pubmed.ncbi.nlm.nih.gov/9836854/) | 1998 | Mechanistic | Bone | Silver-staining (AgNOR) technique used to study osteoclast nucleoli in Paget's bone disease — a lab method, not a treatment study |
-| [3163726](https://pubmed.ncbi.nlm.nih.gov/3163726/) | 1988 | Mechanistic | J Nucl Med | Gallium-67 citrate localization in osteoclast nuclei; silver not the subject drug |
-| [4111887](https://pubmed.ncbi.nlm.nih.gov/4111887/) | 1972 | Method | Stain Technology | Silver staining of bone for osteoid quantification — histology method paper |
-| [2420233](https://pubmed.ncbi.nlm.nih.gov/2420233/) | 1985 | Method | Anat Anz | Silver impregnation of bone tissue — histology staining method |
-| [9227338](https://pubmed.ncbi.nlm.nih.gov/9227338/) | 1997 | Mechanistic | J Pathol | Vitamin D receptor mRNA quantification in bone/kidney tissue; unrelated to silver as therapy |
+| [9836854](https://pubmed.ncbi.nlm.nih.gov/9836854/) | 1998 | Histopathology study | Bone | Silver staining (AgNOR) shows increased nucleolar organizer regions in osteoclast nuclei in Paget's disease; silver is used as a stain only |
+| [3163726](https://pubmed.ncbi.nlm.nih.gov/3163726/) | 1988 | Imaging study | J Nucl Med | Gallium-67 citrate localizes in osteoclast nuclei of Paget lesions; unrelated to silver therapy |
+| [4111887](https://pubmed.ncbi.nlm.nih.gov/4111887/) | 1972 | Histological method | Stain Technology | Silver staining of bone before decalcification to quantify osteoid |
+| [2420233](https://pubmed.ncbi.nlm.nih.gov/2420233/) | 1985 | Histological method | Anatomischer Anzeiger | Silver impregnation method for bone tissue |
+| [9227338](https://pubmed.ncbi.nlm.nih.gov/9227338/) | 1997 | Laboratory method | J Pathol | Quantification of vitamin D receptor mRNA in tissue sections; limitations of in situ RT-PCR |
 
-**Note:** None of the above papers evaluate silver compounds as a therapeutic intervention for bone Paget disease.
+None of these studies tests silver as a treatment.
 
 ---
 
 ## India Market Information
 
-Silver (DB12965) currently holds **no registered authorizations** in India (market status: Not Marketed; total registrations: 0). No product-level licensing data is available for review.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 230608 | Unosil 550 Antimicrobial Wound and Burn Gel | Gel, 15 g tube | Not stated |
+| 199930 | Silvacure Plus Cream | Cream, 15 g tube | Not stated |
+| 200609 | Silverstream Liquid | Liquid, 100 ml bottle | Not stated |
+| 231127 | Unosil Antimicrobial Wound and Burn Spray | Solution, 50 ml pump bottle | Not stated |
+| 231323 | Unosil 550 Antimicrobial Wound and Burn Gel | Gel, 200 g jar | Not stated |
+
+There are 9 valid single-ingredient registrations in total; the table lists the first 5.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug-drug interaction data are currently on file for this entry (DDI query status: not found).
+Please refer to the package insert for safety information.
+
+One note from the literature: a case report of systemic argyria (PMID 8063942) describes silver pigment deposition in multiple organs after chronic ingestion of silver compounds. This is a toxicity finding relevant to any systemic use.
 
 ---
 
@@ -103,13 +110,15 @@ Please refer to the package insert for safety information. No key warnings, cont
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked TxGNN prediction (Bone Paget Disease, score 99.67%) is supported only by histology-method literature about the "silver staining" laboratory technique, not by any evidence of silver as a therapeutic agent — this is assessed as a name-collision false positive (Evidence Level L5, Decision Stage S0). Combined with the absence of MOA data, original indication data, and any India market presence, there is no basis to advance this candidate.
+The prediction has no clinical trials and no therapeutic literature; the papers match only on the word "silver" as a stain. With evidence level L5 and no plausible mechanism, there is no basis to advance Paget disease of bone as a repurposing target.
 
 **To proceed, the following is needed:**
-- Resolve blocking data gap DG001 (TFDA/regulatory label warnings and contraindications)
-- Obtain verified mechanism-of-action data for silver as a pharmacological agent (DG002)
-- Re-run literature/trial retrieval with improved entity disambiguation (exclude "silver staining" methodology papers and author-surname matches)
-- If a genuine indication is to be pursued, evaluate rank 7 (esophageal disease) separately, where two literature hits (systemic argyria toxicity case report; in vitro phosphino-silver complex cytotoxicity against esophageal cancer cells) show at least nominal silver-compound relevance — though still only preclinical/toxicity-level evidence (L4/S1), also currently rated Hold
+- Mechanism of action data for silver
+- Package insert warnings and contraindications from the India regulatory source
+- Preclinical evidence that silver has any effect on osteoclast biology or bone remodelling
+- Route compatibility assessment (current products are topical or non-systemic; Paget disease needs systemic or bone-targeted exposure)
+- Consolidation of the duplicate "bone Paget disease" and "Paget disease of bone" predictions
+- Review of other top predictions with the same silver-as-stain artefact before any further evaluation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

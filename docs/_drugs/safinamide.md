@@ -2,7 +2,7 @@
 layout: default
 title: Safinamide
 parent: Model Prediction Only (L5)
-nav_order: 753
+nav_order: 760
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,93 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Safinamide: From Parkinson's Disease to Rasmussen Subacute Encephalitis
+# Safinamide: From Parkinson Disease to Rasmussen Subacute Encephalitis
 
 ## One-Sentence Summary
 
-> Safinamide is a MAO-B inhibitor publicly known for use as adjunctive therapy in Parkinson's disease, though detailed original-indication and mechanism-of-action data are missing from this dataset.
-> The TxGNN model predicts it may be effective for **Rasmussen Subacute Encephalitis**,
-> but this prediction is currently supported by **no clinical trials** and **no published literature** — it is a model-score-only signal.
-
----
+Safinamide is a reversible MAO-B inhibitor, originally used to treat Parkinson disease and related parkinsonian syndromes.
+The TxGNN model predicts it may be effective for **Rasmussen subacute encephalitis**,
+but **no clinical trials and no publications** currently support this direction. It is a model-based prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in dataset (publicly known: Parkinson's disease, MAO-B inhibitor adjunctive therapy) |
-| Predicted New Indication | Rasmussen Subacute Encephalitis |
+| Original Indication | Parkinson disease (the data compiled for this report lists no approved indication text for the India licenses; this indication comes from the knowledge graph) |
+| Predicted New Indication | Rasmussen subacute encephalitis |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 6 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this dataset. Based on publicly known pharmacology, Safinamide is a reversible MAO-B inhibitor that also blocks voltage-dependent sodium/calcium channels and inhibits glutamate release; it is approved as adjunctive therapy for Parkinson's disease.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, safinamide is a reversible MAO-B inhibitor that also blocks voltage-gated sodium channels and modulates glutamate release. Its efficacy in Parkinson disease is established.
 
-Rasmussen subacute encephalitis is a chronic, focal, immune/excitotoxicity-mediated encephalitis. In theory, glutamate-release inhibition could offer some neuroprotective effect in this setting, which may explain the high TxGNN association score (0.996). However, this link is a mechanistic extrapolation only — there is no direct preclinical or clinical evidence connecting Safinamide to this indication, and the connection rests entirely on the knowledge-graph prediction rather than experimental data.
+Rasmussen encephalitis is a rare, immune-mediated chronic encephalitis. It causes inflammation in one cerebral hemisphere and refractory focal seizures. In theory, sodium channel blockade and reduced glutamate release could dampen neuronal hyperexcitability and seizures. However, nothing suggests safinamide addresses the underlying T-cell-mediated pathology, so the mechanistic link is speculative. The high TxGNN score reflects a graph-based association, not clinical evidence.
 
-Two other candidates were predicted with similar characteristics: **Myelitis** (score 0.995) — a plausible but unproven extension of the same glutamate-inhibition hypothesis — and **PLA2G6-associated neurodegeneration** (score 0.992), which has somewhat stronger mechanistic plausibility due to shared nigral degeneration and movement-disorder pathology with Parkinson's disease. All three remain at the model-prediction-only stage (S0).
-
----
+Two other candidates were also predicted:
+- **Myelitis** (score 99.46%): the possible rationale is neuroprotection through glutamate inhibition, sodium channel blockade and reduced oxidative stress. This is untested in myelitis, and the causes of myelitis vary widely.
+- **PLA2G6-associated neurodegeneration** (score 99.22%): the parkinsonian features overlap with safinamide's original use, so symptomatic benefit in later-onset cases with parkinsonism is plausible. This is the most coherent of the three, but there is still no direct evidence, and disease-modifying effects are unsupported.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-Safinamide is currently **not marketed** in India, with no registered authorizations on file (0 licenses). No product-level registration data is available for review.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 247222 | Zafimove 100 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not listed |
+| 201255 | Safion 100mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not listed |
+| 243852 | Xafinact 100 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not listed |
+| 243785 | Xafinact 50 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not listed |
+| 246661 | Zafimove 50mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not listed |
 
----
+One further registration, 200331 (Safion 50mg Tablet, Intas Pharmaceuticals Ltd), is also valid. All six registrations are single-ingredient oral tablets.
 
 ## Safety Considerations
 
-**Drug Interactions**: A total of 110 documented interactions were identified. Notable examples include:
+**Drug Interactions**: 110 interactions were identified in total. The first 20 retrieved include one Major and 19 Moderate interactions.
+- **Major**: Bupropion
+- **Moderate, antidiabetic agents**: chlorpropamide, glimepiride, acetohexamide, nateglinide, repaglinide, empagliflozin, and multiple insulin products (aspart, degludec, detemir, glargine, glulisine, human isophane, human regular, human inhaled rapid-acting)
+- **Moderate, other**: isometheptene, diethylpropion, phentermine, metoclopramide, rosuvastatin
 
-| Interacting Drug | Severity | Source |
-|---|---|---|
-| Bupropion | Major | ddinter |
-| Isometheptene | Moderate | ddinter |
-| Chlorpropamide | Moderate | ddinter |
-| Diethylpropion | Moderate | ddinter |
-| Empagliflozin | Moderate | ddinter |
-| Phentermine | Moderate | ddinter |
-| Glimepiride | Moderate | ddinter |
-| Metoclopramide | Moderate | ddinter |
-| Repaglinide | Moderate | ddinter |
-| Rosuvastatin | Moderate | ddinter |
-
-*(Full list contains 110 entries, predominantly insulin/insulin-analogue and sulfonylurea interactions consistent with MAO-B inhibitor–related hypoglycemic risk; Bupropion is the only Major-severity interaction identified.)*
-
-Key warnings and contraindications are not available in this dataset — please refer to the package insert for complete safety information.
-
----
+Please refer to the package insert for warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication is supported only by a TxGNN model score (L5, S0 stage), with zero clinical trials and zero published literature. Combined with the absence of original indication/MOA data and no current India market presence, there is insufficient evidence to advance this candidate.
+The prediction rests only on a graph-based score, with no clinical trials or publications and a speculative mechanistic link. The evidence level is L5. Package insert warnings and contraindications are also missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label data (warnings, contraindications) — currently a Blocking data gap
-- Confirmed mechanism of action from DrugBank or primary literature — currently a High-severity data gap
-- Preclinical or case-level evidence directly linking Safinamide to Rasmussen encephalitis, myelitis, or PLA2G6-associated neurodegeneration
-- Assessment of route/formulation compatibility for the new indication once evidence emerges
+- Package insert warnings and contraindications from the India regulatory source
+- Detailed mechanism of action data (for example from DrugBank)
+- A literature and trial search for Rasmussen encephalitis, and for PLA2G6-associated neurodegeneration, which is the most plausible alternative candidate
+- Preclinical or mechanistic evidence showing an effect on the immune-mediated pathology
+- Route and dosage compatibility assessment for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

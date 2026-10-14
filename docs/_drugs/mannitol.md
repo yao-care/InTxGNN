@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Mannitol
-parent: Moderate Evidence (L3-L4)
-nav_order: 509
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 514
+evidence_level: L5
 indication_count: 10
 ---
 
 # Mannitol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,103 +29,91 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Mannitol: From Osmotic Diuresis to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Mannitol: From Intracranial Hypertension and Cerebral Edema to Nephrogenic Syndrome of Inappropriate Antidiuresis
 
 ## One-Sentence Summary
 
-Mannitol is a classical osmotic diuretic, traditionally administered intravenously to reduce raised intracranial pressure and treat acute oliguria. The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**, with **0 clinical trials** and **1 publication** currently supporting this direction — placing it at the earliest exploratory stage.
-
----
+Mannitol is an osmotic agent originally used for conditions such as brain edema, intracranial hypertension, ocular hypertension and congestive heart failure.
+The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis**, but there are **no clinical trials** and only **1 general review** behind this prediction, so it is a model prediction with essentially no direct evidence.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Osmotic diuresis (raised intracranial pressure, acute oliguria) — India regulatory record unavailable |
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD) |
+|------|------|
+| Original Indication | Brain edema, intracranial hypertension, ocular hypertension, pseudotumor cerebri, congestive heart failure, cystic fibrosis (knowledge-graph indications; the India licences carry no indication text) |
+| Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 8 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Mannitol is a non-metabolized sugar alcohol that works as an osmotic diuretic. When given intravenously, it raises plasma osmolality, draws free water from intracellular compartments into the bloodstream, and is then freely filtered and excreted by the kidney — producing net free-water loss without significant sodium depletion. This mechanism is the foundation of its established use in reducing cerebral oedema and managing acute oliguric states.
+Currently, detailed mechanism of action data is not available. Based on known information, mannitol is an osmotic diuretic. Its efficacy in reducing brain and tissue edema and intracranial pressure is established, and mechanistically it may be applicable to disorders of water balance.
 
-NSIAD is caused by gain-of-function mutations in AVPR2 (the V2 vasopressin receptor gene), resulting in constitutive, ADH-independent water reabsorption in the collecting duct. Patients develop persistent hyponatraemia and plasma hypo-osmolality with an inappropriately concentrated urine. In theory, Mannitol's osmotic diuretic action could counteract this free-water retention, increase free-water excretion, and partially restore serum osmolality — a plausible mechanistic bridge.
-
-However, the case has real limitations. The effect would likely be transient and difficult to sustain without continuous infusion. More importantly, rapid osmotic shifts carry a meaningful risk of worsening electrolyte instability. No dedicated preclinical or clinical study has tested Mannitol specifically in NSIAD. The TxGNN high score most likely reflects shared osmolality-regulation network topology in the knowledge graph rather than established biological efficacy.
-
----
+In theory, osmotic diuresis could promote free-water excretion in a condition of excess water retention. However, mannitol can also worsen hyponatremia through translocational effects (water shifting out of cells and diluting serum sodium). The only linked paper is a general review of pitfalls in evaluating hyponatremia and is not specific to this disease. The high TxGNN score therefore remains a hypothesis and is not supported by disease-specific evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Clinical Review | European Journal of Internal Medicine | Describes 10 common pitfalls in evaluating hyponatraemic patients; emphasises accurate causative diagnosis — including distinguishing SIADH from NSIAD — to avoid inappropriate osmotic correction. Provides indirect context for how diuretics may be misapplied in these settings. |
-
----
+|------|-----|------|------|---------|
+| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Review | Eur J Intern Med | Ten common pitfalls in evaluating hyponatremia; both under- and over-treatment can cause serious harm. Not specific to mannitol or this disease. |
 
 ## India Market Information
 
-Mannitol is currently not registered with CDSCO. No product authorisations are on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 3476 | Axatol 20IU Infusion | Bottle of 100 ml infusion | Not stated |
+| 87612 | Fabitol 20% Infusion | Bottle of 100 ml infusion | Not stated |
+| 134062 | Manitol 20% Infusion | Bottle of 350 ml infusion | Not stated |
+| 134615 | Mannitol IP 20% Infusion | Bottle of 350 ml infusion | Not stated |
+| 135356 | Manogyl 10% Infusion | Bottle of 100 ml infusion | Not stated |
 
----
+Eight valid single-ingredient licences are registered in total; the five above are shown.
 
 ## Safety Considerations
 
-**Drug Interactions:** 249 interactions have been identified in total. The most clinically significant are listed below:
+- **Contraindication signals from the knowledge graph** (model-derived associations, not label text): liver failure, hepatic coma and encephalopathy, anuria, impaired renal function, intracranial hemorrhage, pulmonary edema, porphyria, and several blood disorders (thrombocytopenia, neutropenia, agranulocytosis, anemia).
+- **Drug interactions**: 249 interactions were found. Major: **amikacin**. Moderate examples include lamivudine, formoterol, salbutamol, benazepril, captopril, carbamazepine, citalopram, canagliflozin, dapagliflozin, cisatracurium and iodinated contrast agents (iothalamic acid, diatrizoate).
+- **Condition-specific concern**: osmotic loading can expand intravascular volume and precipitate pulmonary edema. Mannitol could also worsen free-water loss or sodium imbalance in water-balance disorders.
 
-| Interacting Drug | Severity | Clinical Concern |
-|-----------------|----------|-----------------|
-| Amikacin | **Major** | Enhanced nephrotoxicity; combined osmotic and direct tubular injury risk |
-| Lamivudine | Moderate | |
-| Formoterol | Moderate | |
-| Salbutamol | Moderate | |
-| Amifostine | Moderate | |
-| Benazepril | Moderate | |
-| Captopril | Moderate | |
-| Canagliflozin | Moderate | |
-| Dapagliflozin | Moderate | |
-| Carbamazepine | Moderate | |
-| Cisatracurium | Moderate | |
-| Citalopram | Moderate | |
-| Desvenlafaxine | Moderate | |
-| Bisacodyl | Moderate | |
-| Picosulfuric acid | Moderate | |
-| Polyethylene glycol (3350 with electrolytes) | Moderate | |
-| Iothalamic acid | Moderate | |
-| Diatrizoate | Moderate | |
-| Arformoterol | Moderate | |
-| Doxycycline | Minor | |
-
-Please refer to the package insert for key warnings and contraindication details (formal India label data not available).
-
----
+Please refer to the package insert for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence base for Mannitol in NSIAD is virtually non-existent — only one tangentially relevant review article was identified and no clinical trials have been registered. While a mechanistic rationale can be sketched, the risks of osmotic overtreatment and electrolyte instability in this patient population are real and uncharacterised.
+The prediction rests on a model score alone, with no clinical trials and no disease-specific literature. The mechanism is plausible only in theory and may even be counterproductive, because mannitol can worsen hyponatremia.
 
 **To proceed, the following is needed:**
+- Mechanism of action data and a clear mechanistic argument for this disease
+- Disease-specific preclinical or clinical evidence
+- Package insert warnings and contraindications for the India-marketed products (a blocking gap for safety screening)
+- A safety review covering sodium and volume effects and the knowledge-graph contraindication signals
 
-- Detailed pharmacodynamic profiling of Mannitol's effect on serum osmolality in AVPR2 gain-of-function models (preclinical — cell line or animal)
-- A formal mechanistic study confirming that net free-water excretion is achievable without destabilising serum sodium in NSIAD
-- Safety risk assessment covering osmotic demyelination syndrome potential during correction phases
-- Review of dosing regimens: continuous vs bolus infusion feasibility for a chronic condition
-- India regulatory pathway evaluation with CDSCO for an unlicensed osmotic diuretic indication
+---
+
+### Other Predicted Indications (for reference)
+
+All other candidates also score 99.6% or higher but remain at **Hold** (one is flagged "Research Question"), with no clinical trials.
+
+| Rank | Predicted Indication | Evidence Level | Note |
+|---|---|---|---|
+| 2 | Acute pulmonary heart disease | L4 | Only indirect literature, and osmotic loading may precipitate pulmonary edema |
+| 3 | Exercise-induced malignant hyperthermia | L5 | No literature |
+| 4 | Malignant hyperthermia susceptibility | L4 | Mannitol is only a supportive agent or dantrolene excipient |
+| 5 | Familial periodic paralysis | L4 | Mannitol serves as a potassium vehicle, not a disease-modifying therapy |
+| 6 | Hypokalemic periodic paralysis | L4 | Supportive vehicle use; case-level evidence only |
+| 7 | Congenital multicore myopathy with external ophthalmoplegia | L5 | Likely reflects shared RYR1 network; no literature |
+| 8 | Moderate multiminicore disease with hand involvement | L5 | Likely reflects shared RYR1 network; no literature |
+| 9 | Nephrogenic diabetes insipidus | L5 | Mechanistically unlikely, since osmotic diuresis may worsen polyuria |
+| 10 | King-Denborough syndrome | L5 | Network proximity to malignant hyperthermia only |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

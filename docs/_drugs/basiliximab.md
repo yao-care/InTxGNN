@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Basiliximab
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 92
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 ---
 
 # Basiliximab
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,81 +29,83 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Basiliximab: From Organ Transplant Rejection to Plasma Cell Myeloma
+# Basiliximab: From Transplant Rejection Prophylaxis to Plasma Cell Myeloma
 
 ## One-Sentence Summary
 
-Basiliximab (Simulect) is a chimeric monoclonal antibody originally approved to prevent acute rejection in kidney transplantation by blocking the IL-2 receptor (CD25) on activated T cells.
-The TxGNN model predicts it may be relevant for **Plasma Cell Myeloma**, with **3 clinical trials** currently supporting this direction — though all trials evaluate Basiliximab as a GVHD prophylaxis agent within the hematopoietic stem cell transplantation (HSCT) framework, rather than as a direct antimyeloma therapy.
-There is currently no published literature specifically linking Basiliximab to plasma cell myeloma treatment.
-
----
+Basiliximab is an anti-CD25 (IL-2 receptor alpha) monoclonal antibody marketed in India as Simulect Injection. The TxGNN model predicts it may be relevant for **plasma cell myeloma**, with **3 clinical trials** and **4 publications** currently linked to this direction. These studies concern transplant-related immune modulation and GVHD prevention, not direct anti-myeloma activity.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Prevention of acute organ rejection in kidney transplantation |
-| Predicted New Indication | Plasma Cell Myeloma |
+|------|------|
+| Original Indication | Not specified in the Indian licence data compiled for this report |
+| Predicted New Indication | Plasma cell myeloma |
 | TxGNN Prediction Score | 95.61% |
-| Evidence Level | L3 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
-
----
+| Evidence Level | L2 (as assigned in the compiled data; the supporting trials are small Phase 1/2 studies with no efficacy conclusions, so this level should be read cautiously) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
+| Recommended Decision | Hold (research question only) |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on established pharmacological knowledge, Basiliximab is a chimeric (human/murine) IgG1κ monoclonal antibody that specifically binds to the alpha subunit (CD25) of the high-affinity IL-2 receptor on activated T lymphocytes. By competitively blocking IL-2 binding, it prevents clonal T-cell expansion and suppresses the alloimmune response — the mechanism underpinning its efficacy in solid organ transplant rejection.
+Detailed mechanism-of-action data is not available in the data compiled for this report. From its known pharmacology, basiliximab blocks the IL-2 receptor alpha chain (CD25) on activated T cells and regulatory T cells (Tregs). This limits T-cell activation, and it can deplete or suppress Tregs.
 
-The connection to plasma cell myeloma is indirect and operates through the HSCT framework. For relapsed or refractory multiple myeloma, allogeneic HSCT remains a potential treatment option, with the graft-versus-myeloma (GVM) effect being central to long-term disease control. However, acute graft-versus-host disease (aGVHD) is the principal life-threatening obstacle. Basiliximab, by selectively blocking IL-2/CD25 signaling on activated donor T cells, may suppress GVHD while theoretically preserving sufficient GVM activity — thereby improving HSCT outcomes in myeloma patients. Additionally, CD25 is highly expressed on regulatory T cells (Tregs), which suppress anti-tumor immunity; partial Treg depletion via CD25 blockade could theoretically reduce immune escape in the myeloma microenvironment.
+In myeloma, basiliximab has been studied as a supportive agent rather than an anti-myeloma drug. One approach uses it to deplete activated T cells and prevent graft-versus-host disease (GVHD) after nonmyeloablative allogeneic transplant. The other uses it to reduce Tregs around autologous stem cell transplantation, which may release the anti-myeloma immune response, since Tregs reconstitute rapidly after transplant and can suppress it.
 
-An essential conceptual distinction must be made: the available evidence frames Basiliximab strictly as a **supportive immunomodulatory agent within the HSCT setting** (GVHD prophylaxis), not as a **direct antimyeloma drug**. No clinical study has evaluated Basiliximab's direct cytotoxic or tumor-suppressive efficacy against myeloma cells, and this mechanistic leap remains unvalidated.
-
----
+The link is therefore immunomodulatory and transplant-related. There is no evidence that basiliximab kills plasma cells directly. Basiliximab is also used to prevent rejection after transplantation, and this setting overlaps with the transplant context of myeloma treatment.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT01526096](https://clinicaltrials.gov/study/NCT01526096) | Phase 1 | Completed | 30 | Regulatory T-cell depletion to improve autologous SCT outcomes in multiple myeloma — assesses safety and feasibility of immune modulation; indirect evidence supporting immune axis manipulation in the myeloma-HSCT context |
-| [NCT00975975](https://clinicaltrials.gov/study/NCT00975975) | Phase 2 | Completed | 17 | Basiliximab combined with cyclosporine for in vivo activated T-cell depletion to prevent GVHD after non-myeloablative allogeneic transplantation for hematologic cancers — patient cohort may include myeloma; primary endpoint is GVHD control, not myeloma response |
-| [NCT00594308](https://clinicaltrials.gov/study/NCT00594308) | N/A | Terminated | 10 | Basiliximab + cyclosporine vs. cyclosporine alone for GVHD prevention — terminated early due to inadequate enrollment; insufficient data for meaningful conclusions |
+|---------|------|------|------|---------|
+| [NCT01526096](https://clinicaltrials.gov/study/NCT01526096) | Phase 1 | Completed | 30 | Pilot of regulatory T-cell depletion during autologous stem cell transplantation in myeloma; the most mechanistically relevant study, but exploratory with no efficacy conclusion |
+| [NCT00975975](https://clinicaltrials.gov/study/NCT00975975) | Phase 2 | Completed | 17 | Basiliximab plus cyclosporine for GVHD prevention after nonmyeloablative allotransplant in blood cancers; endpoint is GVHD, not myeloma control |
+| [NCT00594308](https://clinicaltrials.gov/study/NCT00594308) | NA | Terminated | 10 | Basiliximab plus cyclosporine vs cyclosporine alone for GVHD prevention; very small and terminated early, so little interpretable efficacy evidence |
 
----
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [31940591](https://pubmed.ncbi.nlm.nih.gov/31940591/) | 2020 | Phase 1 trial report | Journal for Immunotherapy of Cancer | Pilot of Treg depletion around autologous stem cell transplantation for myeloma, motivated by immune dysfunction as a cause of post-transplant progression |
+| [12476283](https://pubmed.ncbi.nlm.nih.gov/12476283/) | 2002 | Cohort | Bone Marrow Transplantation | Basiliximab was reported to be well tolerated and effective in 17 patients with steroid-refractory acute GVHD, including one with multiple myeloma |
+| [42379467](https://pubmed.ncbi.nlm.nih.gov/42379467/) | 2026 | Case report/Review | American Journal of Kidney Diseases | Kidney transplantation after CAR T-cell therapy in myeloma; context is transplant management, not basiliximab efficacy against myeloma |
+| [28320553](https://pubmed.ncbi.nlm.nih.gov/28320553/) | 2017 | Case reports | American Journal of Kidney Diseases | Four kidney transplants in patients with myeloma-related kidney failure; transplant context only |
+
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 201030 | Simulect Injection (Novartis India Ltd) | Vial of 1 injection | Not stated in the compiled licence data |
 
 ## Safety Considerations
 
-**Drug Interactions (69 total interactions identified):**
+- **Drug Interactions:** 69 interactions were identified in the data compiled for this report. Those listed include:
+  - **Major:** adalimumab, baricitinib, certolizumab pegol, and BCG live vaccine (Tice substrain)
+  - **Moderate:** alemtuzumab, alefacept, anakinra, azathioprine, canakinumab, roflumilast, and several vaccines (tetanus toxoid, anthrax, adenovirus type 4, live cholera)
+  - **Minor:** zinc salts (acetate, gluconate, sulfate, chloride)
 
-Major interactions requiring avoidance or close monitoring:
+  The pattern reflects additive immunosuppression and interference with vaccines, especially live vaccines.
 
-- **Adalimumab** (Major): Dual biologic immunosuppression substantially increases the risk of serious and opportunistic infections
-- **Baricitinib** (Major): Additive immunosuppressive effects with a JAK inhibitor; combined use heightens infection risk
-- **BCG Vaccine — Tice strain (live)** (Major): Live vaccines are contraindicated during immunosuppression; risk of disseminated BCG infection
-- **Certolizumab pegol** (Major): TNF inhibitor combined with IL-2R blockade creates profound immunosuppression
-
-Moderate interactions include concurrent use of: Azathioprine, Alemtuzumab, Anakinra, Canakinumab, Alefacept, Roflumilast, Bifidobacterium longum infantis, and multiple attenuated or killed vaccines (Anthrax, Cholera CVD 103-HgR, Adenovirus serotype 4, Tetanus toxoid).
-
-> Please refer to the product package insert for complete information on warnings and contraindications, as this data was not available in the current evidence pack.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold (research question only)**
 
 **Rationale:**
-Every piece of clinical evidence in this pack positions Basiliximab as an adjunctive GVHD prophylaxis tool within the allogeneic HSCT setting — not as a direct plasma cell myeloma treatment. There is no Phase 2 or higher trial, nor any published literature, specifically designed to evaluate Basiliximab's direct anti-myeloma activity. The mechanistic leap from IL-2R blockade to myeloma cell kill is theoretically plausible but entirely unvalidated.
+The evidence for myeloma consists of a Phase 1 Treg-depletion pilot and two small GVHD-prevention studies, with no efficacy data against myeloma itself. The mechanism is supportive and immunomodulatory rather than anti-tumour. Strong immunosuppression is also a potential concern in cancer, and the safety data for this product is incomplete.
 
 **To proceed, the following is needed:**
+- Results and efficacy outcomes from the completed Treg-depletion pilot (NCT01526096 / PMID 31940591), and larger controlled studies in myeloma
+- Detailed mechanism-of-action data
+- Package insert warnings, contraindications, and the approved indication for Simulect in India
+- A safety review of infection risk and drug interactions in myeloma patients
 
-- **Clarify the research question**: "Basiliximab for GVHD prevention in myeloma patients undergoing allo-HSCT" is a scientifically tractable question supported by existing L3 evidence; "Basiliximab as direct myeloma treatment" is not supported by current data and requires a full de novo mechanistic rationale
-- **Dedicated Phase 2 trial design** if pursuing the HSCT-supportive angle: myeloma-specific endpoints such as GVM effect preservation, GVHD-free / relapse-free survival (GRFS), and post-HSCT progression-free survival
-- **DrugBank MOA data**: Formal pharmacological profiling to characterize Basiliximab's effects on the myeloma immune microenvironment, including Treg dynamics and CD25 expression on myeloma cells
-- **Regulatory safety data**: Obtain CDSCO/TFDA package insert to complete the safety profile, particularly regarding warnings in hematologic malignancy populations
-- **Note — higher-priority indication identified**: The strongest evidence in this Evidence Pack is for **hemoglobinopathy** (Rank 4: L2 evidence, Phase 4 completed RCT with n=205 directly evaluating Basiliximab for GVHD prevention in thalassemia major HSCT; recommendation: "Proceed with Guardrails"). A separate dedicated evaluation report for that indication is recommended as a higher-priority next step.
+## Other Predicted Indications (Brief Note)
+
+- **Hemoglobinopathy (95% below the top score; 94.28%):** A completed Phase 4 trial of 205 patients (NCT02342145) supports basiliximab for acute GVHD prevention in unrelated stem cell transplant for thalassemia major. The benefit is in the transplant setting, not the underlying globin disorder. This is worth reviewing as a separate transplant-supportive use.
+- **Bronchitis, gastric carcinoma, and other entries:** These have no supporting therapeutic rationale. The bronchitis signal likely reflects term overlap with bronchiolitis obliterans syndrome after lung transplant, and the gastric carcinoma literature is a coincidental case report. Several others (indolent myeloma, beta-thalassemia with other manifestations, rare syndromes) rest on model prediction alone.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

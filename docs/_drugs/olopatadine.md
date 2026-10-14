@@ -2,7 +2,7 @@
 layout: default
 title: Olopatadine
 parent: Model Prediction Only (L5)
-nav_order: 612
+nav_order: 618
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Olopatadine: From Allergic Conjunctivitis to Rosacea Conjunctivitis
+# Olopatadine: From Allergic Rhinitis and Allergic Conjunctivitis to Rosacea Conjunctivitis
 
 ## One-Sentence Summary
 
-Olopatadine is an H1-antihistamine / mast cell stabilizer approved for allergic conjunctivitis.
-The TxGNN model predicts it may be effective for **Rosacea Conjunctivitis**, with a prediction score of **99.41%**,
-but **no clinical trials or published literature** currently support this direction — the signal is model-only.
+Olopatadine is an antiallergic drug originally used for allergic rhinitis, vasomotor rhinitis, and several forms of allergic conjunctivitis (atopic, papillary, and vernal).
+The TxGNN model predicts it may be effective for **rosacea conjunctivitis**,
+but at present there are **no registered clinical trials and no publications** supporting this direction, so it is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic conjunctivitis (based on known pharmacology cited in the evidence pack; not derived from Taiwan license data, as the drug is unmarketed) |
-| Predicted New Indication | Rosacea Conjunctivitis |
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis |
+| Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 99.41% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in DrugBank for this record (`original_moa` is a data gap). Based on known pharmacology, Olopatadine acts as an H1-receptor antihistamine with mast cell-stabilizing activity, and it is approved for allergic conjunctivitis — an IgE/mast cell-mediated ocular surface condition.
+Currently, detailed mechanism of action data is not available. Based on known information, olopatadine is marketed as a histamine H1 antagonist and mast cell stabilizer. It is used for allergic conjunctivitis, and mechanistically it may be applicable to rosacea conjunctivitis.
 
-Rosacea conjunctivitis (ocular rosacea), however, arises from a largely different pathophysiology: meibomian gland dysfunction, *Demodex* mite overgrowth, neurovascular dysregulation, and chronic non-IgE inflammation. The mechanistic overlap with Olopatadine's known action is therefore indirect — it may address shared surface symptoms such as conjunctival redness and irritation, but it does not target the underlying causes of rosacea conjunctivitis.
+Rosacea conjunctivitis involves inflammation of the ocular surface. Olopatadine could plausibly reduce ocular surface inflammation and itching. This is an inference from general pharmacology and is not supported by the data compiled for this report.
 
-The TxGNN score of 99.41% reflects knowledge-graph topological similarity between the drug and disease nodes, not a validated mechanistic or clinical relationship. Given the absence of any clinical trial or literature evidence, this prediction should be treated as an early-stage hypothesis rather than an actionable signal.
+The high TxGNN score likely reflects network proximity to the approved conjunctivitis indications in the knowledge graph. It should be read as a computational signal, not as proof of efficacy. In addition, rosacea conjunctivitis is driven largely by meibomian gland dysfunction and non-allergic inflammation, so an antihistamine may address only part of the disease.
 
 ## Clinical Trial Evidence
 
@@ -65,25 +65,38 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+## India Market Information
+
+Olopatadine is marketed in India as single-ingredient products, with 20 valid registrations and none cancelled. Both oral tablets and ophthalmic solutions are available. The data compiled for this report do not include approved indication text for any of them. The main registrations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 61853 | Dynolap 5 Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
+| 174208 | Patadin Tablet | Strip of 10 tablets | Ajanta Pharma Ltd |
+| 5691 | Allenil 5mg Tablet | Strip of 10 tablets | Torrent Pharmaceuticals Ltd |
+| 175802 | Pataone Eye Drop | Bottle of 5 ml ophthalmic solution | Choroid Laboratories |
+| 4747 | Alerchek OD Ophthalmic Solution | Packet of 3 ml ophthalmic solution | Indoco Remedies Ltd |
+
 ## Safety Considerations
 
-**Drug Interactions**: A total of 112 potential interactions were identified via DDInter. All returned records report an "Unknown" severity level (clinical significance not graded in source data). Selected interacting drugs include: Pantoprazole, Doxycycline, Clotrimazole, Metformin, Omeprazole, Lansoprazole, Cimetidine, Triamcinolone, Prednisone, Simvastatin, Epinephrine, Hydrocortisone, Tetracycline, Potassium chloride, Sucralfate, Rosiglitazone, Nystatin, Tegaserod, Rosuvastatin, and Prednisolone. Because severity levels are unclassified, this list should be treated as a screening reference only, not a clinical risk assessment.
+- **Disease associations flagged in the knowledge graph (not label text):** lower respiratory tract disease, paranasal sinus disease, nasal cavity disease, and upper respiratory tract disease. These come from computational drug-disease contraindication edges and should be verified against the approved labelling.
+- **Drug Interactions:** The interaction screen returned 112 potential interacting drugs, but the severity level is unclassified for all of them. Examples include pantoprazole, omeprazole, lansoprazole, cimetidine, metformin, simvastatin, rosuvastatin, prednisone, prednisolone, hydrocortisone, triamcinolone, epinephrine, doxycycline, and tetracycline. Clinical significance must be assessed individually.
 
-TFDA label warnings and contraindications are not yet available for this record (flagged as a Blocking data gap — DG001).
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L5 — the prediction rests solely on TxGNN knowledge-graph scoring, with zero clinical trials or literature, and the proposed mechanism only partially overlaps with rosacea conjunctivitis pathophysiology. Additionally, a Blocking data gap (TFDA label warnings/contraindications) prevents even a baseline safety assessment (S1).
+The prediction rests only on a model score, with no clinical trials or publications supporting it (Evidence Level L5). The mechanism data and the package-insert safety information needed for safety screening are also missing.
 
 **To proceed, the following is needed:**
-- TFDA label (warnings/contraindications) — Blocking gap, required before any safety screening (DG001)
-- Confirmed mechanism of action from DrugBank/primary literature (DG002)
-- Preclinical or observational evidence specifically linking Olopatadine (or its drug class) to rosacea/ocular rosacea outcomes
-- Route/formulation compatibility assessment — Olopatadine is formulated as an ophthalmic solution for allergic conjunctivitis; whether this formulation is appropriate for rosacea conjunctivitis (which often involves periocular skin/lid margin disease) is currently unassessed
-- Since the product holds no Taiwan license, a regulatory pathway assessment would be needed before any local development
+- Obtain the Indian package insert (warnings and contraindications) for the safety screening
+- Obtain detailed mechanism of action data from DrugBank
+- Conduct a literature and trial search for olopatadine or antihistamine/mast cell stabilizer use in ocular rosacea
+- Confirm that an ophthalmic route is suitable for the target use, since the registered products include both oral tablets and eye drops
+- Classify the severity of the 112 potential drug interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Hydroxocobalamin
 parent: Model Prediction Only (L5)
-nav_order: 410
+nav_order: 414
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,80 +29,82 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Hydroxocobalamin: From Vitamin B12 Therapy to Esophageal Varices
+# Hydroxocobalamin: From Vitamin B12 Deficiency to Esophageal Varices Without Bleeding
 
 ## One-Sentence Summary
 
-Hydroxocobalamin is a cobalamin (vitamin B12) analog whose original approved indications are not documented in this evidence pack. The TxGNN model predicts potential relevance to **esophageal varices** (both with and without bleeding), based on the drug's known nitric oxide (NO)-scavenging property, but this prediction is currently supported by **no clinical trials and no published literature**.
-
----
+Hydroxocobalamin is a form of vitamin B12, originally used to treat vitamin B12 deficiency, pernicious anemia and cyanide poisoning.
+The TxGNN model predicts it may be effective for **esophageal varices without bleeding**, but **no clinical trials and no publications** currently support this prediction, so it is a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in evidence pack (no approved indications or licenses on record; MOA is a data gap) |
-| Predicted New Indication | Esophageal Varices without Bleeding (rank 1); Esophageal Varices with Bleeding (rank 2, same score) |
+| Original Indication | Vitamin B12 deficiency, cyanide poisoning, pernicious anemia (from the knowledge graph; the approved indication text in the India licences is blank) |
+| Predicted New Indication | Esophageal varices without bleeding |
 | TxGNN Prediction Score | 99.23% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| Taiwan Market Status | Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Hydroxocobalamin in this evidence pack (original indications and MOA are both marked as data gaps). Based on established pharmacology, hydroxocobalamin is a cobalamin derivative known for its ability to scavenge nitric oxide (NO), a property already exploited clinically in vasodilatory shock states.
+Currently, detailed mechanism of action data is not available. Based on known information, hydroxocobalamin is a vitamin B12 form whose efficacy in B12 deficiency and cyanide poisoning is established. It can scavenge cyanide and bind nitric oxide.
 
-The TxGNN rationale links this NO-scavenging activity to the pathophysiology of portal hypertension: in cirrhosis, excess splanchnic NO production drives vasodilation and increased portal blood flow, which contributes to the formation and progression of esophageal varices. Reducing NO activity could theoretically lower splanchnic vasodilation and portal pressure, which is the mechanistic thread connecting hydroxocobalamin to both predicted indications (varices with and without bleeding).
+A link to portal hypertension through nitric oxide modulation is conceivable, but nothing in the data compiled for this report supports it. No trial or publication tests this idea.
 
-This link is, however, purely theoretical — it has not been tested in any preclinical or clinical study specific to portal hypertension or esophageal varices. For the "with bleeding" indication in particular, the rationale itself flags an added concern: variceal hemorrhage is an acute emergency requiring rapid hemostasis (endoscopic therapy, octreotide/terlipressin), and hydroxocobalamin's systemic vasoconstrictive effects in an actively bleeding, hemodynamically unstable patient are of unknown safety.
+The model gives the same score (99.23%) to both the non-bleeding and bleeding varices indications. This suggests the prediction reflects a shared disease-ontology relationship rather than biology specific to either indication. The high score should not be read as clinical evidence.
 
----
+A related prediction, **esophageal varices with bleeding**, has the same score, the same L5 evidence level and the same Hold recommendation. Acute variceal bleeding is managed with vasoactive agents, endoscopic band ligation and antibiotic prophylaxis. Nothing in the data suggests hydroxocobalamin has a role there.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 44607 | Cox 1mg Injection (Bryogen Pharmaceuticals Pvt. Ltd.) | Vial of 1 ml injection | Not stated in the compiled data |
+| 216332 | Trineurosol HV Injection (Wockhardt Ltd) | Vial of 5 ml injection | Not stated in the compiled data |
+| 216200 | Trineurosol HP 1000mg Injection (Wockhardt Ltd) | Vial of 1 ml injection | Not stated in the compiled data |
+| 215018 | Trineurosol HP Injection (Wockhardt Ltd) | Vial of 5 ml injection | Not stated in the compiled data |
+
+All four licences are valid single-ingredient injectables. No oral or other non-injectable forms are registered.
 
 ## Safety Considerations
 
-**Drug Interactions** (from DDI database, 32 total interactions on record; moderate-level interactions identified):
+- **Knowledge-graph contraindications**: Hypertensive disorder and hypertension are listed as contraindications. These come from drug-disease relationships in the knowledge graph, not from label text. This is relevant because hydroxocobalamin can cause transient hypertension, which matters in portal hypertension and bleeding settings.
+- **Other known effects**: Hydroxocobalamin can cause red discoloration of skin and urine.
+- **Drug Interactions**: 32 interactions were identified. Most are of unknown severity. Those graded **Moderate** are:
+  - Arsenic trioxide
+  - Chloramphenicol
+  - Iodide I-131
+  - Iodide I-123
 
-| Interacting Drug | Level |
-|---|---|
-| Arsenic trioxide | Moderate |
-| Chloramphenicol | Moderate |
-| Iodide I-131 | Moderate |
-| Iodide I-123 | Moderate |
+  Other listed interacting drugs include omeprazole, lansoprazole, ranitidine, simvastatin, prednisolone, budesonide, acetylsalicylic acid, valsartan, ramipril, lorazepam, citalopram, mirtazapine, levothyroxine, folic acid, loperamide and acetaminophen.
 
-The remaining ~28 interactions (e.g., Omeprazole, Simvastatin, Folic acid, Levothyroxine, Acetylsalicylic acid) are recorded with "Unknown" severity level in the source database — clinical significance cannot be determined from this data alone.
-
-Key warnings and contraindications from the product label are not currently available (flagged as a **Blocking** data gap — TFDA label has not yet been retrieved and parsed).
-
----
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Both predicted indications sit at Evidence Level L5 (model prediction only) with zero supporting clinical trials or literature, and the underlying mechanistic link is speculative and untested. Compounding this, a **Blocking** data gap exists on TFDA label warnings/contraindications, which by itself prevents this candidate from entering the S1 safety review stage.
+The prediction rests on a model score alone (L5). There are no clinical trials and no publications, and the proposed mechanism is speculative. Hydroxocobalamin's potential to raise blood pressure is also a concern in portal hypertension.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — currently a Blocking gap
-- Original approved indication(s) and mechanism of action (DrugBank) — currently a High-severity gap
-- Preclinical or mechanistic studies directly testing NO-scavenging effects on portal pressure/variceal outcomes
-- Clinical safety data on hydroxocobalamin's vasoconstrictive effects in hemodynamically unstable (actively bleeding) patients, specifically for the "with bleeding" indication
-- Route compatibility assessment (available vs. required administration routes — currently pending)
+- Package insert warnings and contraindications for the India-marketed products (a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- Preclinical or clinical evidence on hydroxocobalamin in portal hypertension or varices
+- A literature and trial search specific to varices to confirm whether any evidence exists
+- Route and dosing compatibility assessment for the new indication
+- An assessment of blood pressure effects in patients with portal hypertension or variceal bleeding
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

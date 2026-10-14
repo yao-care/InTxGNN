@@ -2,7 +2,7 @@
 layout: default
 title: Lisinopril
 parent: Model Prediction Only (L5)
-nav_order: 489
+nav_order: 494
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,81 +33,85 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Lisinopril is an ACE inhibitor with well-established global use for hypertension, heart failure, and post-MI left ventricular dysfunction, though it currently holds no approved registration in India.
-The TxGNN model's top-ranked prediction is that it may be effective for **Posterolateral Myocardial Infarction**, a specific anatomical subtype of acute MI; there are currently **0 clinical trials** and **0 publications** specifically supporting this direction.
-Notably, among the 10 predicted indications in this pack, **Chronic Pulmonary Heart Disease** (cor pulmonale, rank 9) carries substantially stronger evidence (L3), with two direct clinical studies documenting Lisinopril's efficacy, and may represent the higher-priority repurposing candidate for follow-on investigation.
-
----
+Lisinopril is an ACE inhibitor originally used to treat hypertension and myocardial infarction.
+The TxGNN model predicts it may be effective for **posterolateral myocardial infarction**, but **no clinical trials or publications** specific to this subtype are currently available.
+This prediction most likely reflects the closeness of the disease to the already-approved myocardial infarction indication, rather than a new therapeutic signal.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No India registration; globally established for hypertension, chronic heart failure, and post-MI left ventricular dysfunction |
-| Predicted New Indication | Posterolateral Myocardial Infarction |
+|------|------|
+| Original Indication | Hypertension, myocardial infarction (from the knowledge graph; the licence records contain no indication text) |
+| Predicted New Indication | Posterolateral myocardial infarction |
 | TxGNN Prediction Score | 99.90% |
-| Evidence Level | L5 (model prediction only — no indication-specific studies identified) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 (below the L3 level reached by chronic pulmonary heart disease) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data was not retrieved for Lisinopril in this evidence pack. Based on well-established pharmacology, Lisinopril is an ACE inhibitor that blocks the conversion of angiotensin I to angiotensin II (Ang II), thereby suppressing the renin-angiotensin-aldosterone system (RAAS). This results in vasodilation, reduced aldosterone secretion, lower blood pressure, and decreased cardiac afterload and preload. Its efficacy across hypertension, heart failure, and post-MI management is supported by landmark trials (GISSI-3, CONSENSUS, ATLAS).
+Currently, detailed mechanism of action data is not available. Based on known information, lisinopril belongs to the ACE inhibitor class. Its efficacy in hypertension and myocardial infarction is established, and ACE inhibition is known to reduce blood pressure and limit post-infarction cardiac remodeling.
 
-Posterolateral myocardial infarction is an anatomical subtype of acute MI involving the posterior and lateral walls of the left ventricle, typically resulting from occlusion of the circumflex artery or a dominant right coronary artery. Following any MI, RAAS activation is a key driver of adverse cardiac remodeling — progressive ventricular dilation, wall thinning, and decline in ejection fraction. ACE inhibitors are mechanistically well-suited to interrupt this remodeling cascade, and their benefit in the broader post-MI population is unequivocal.
+Posterolateral myocardial infarction is an anatomical subtype of myocardial infarction, which is already an approved indication for lisinopril. The indication is therefore largely covered by the existing label. The high TxGNN score probably reflects ontology proximity to the approved indication, so this is not a true repurposing candidate in the strict sense.
 
-The TxGNN prediction is therefore mechanistically coherent: the same RAAS-suppression mechanism that reduces ventricular remodeling after anterior or inferior MI should apply to posterolateral MI as an anatomical subtype. The L5 evidence level reflects not mechanistic implausibility, but the absence of any subtype-specific clinical trial or publication in the current data retrieval — an evidence gap that is common for rare anatomical MI classifications.
+Other high-scoring predictions follow the same pattern: posteroinferior and septal myocardial infarction, and malignant hypertensive renal disease and malignant renovascular hypertension, which are severe forms of hypertension. The mechanistic rationale for these is coherent, but they add little new information.
 
----
+Several other predictions are less well supported:
+- **Chronic pulmonary heart disease** has the most supporting literature (L3), consisting of two small lisinopril studies in cor pulmonale and pulmonary hypertension.
+- **Pulmonary hypertension** (hypoxia-related and multifactorial) has only indirect evidence.
+- **Braddock syndrome** and a rare familial hematuria–retinal arteriolar tortuosity syndrome are computational predictions only.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered specifically for Lisinopril in posterolateral myocardial infarction.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available specifically for Lisinopril in posterolateral myocardial infarction.
+Currently no related literature available for posterolateral myocardial infarction.
 
----
+For reference, the most relevant literature found for other predicted indications is shown below.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [17047621](https://pubmed.ncbi.nlm.nih.gov/17047621/) | 2006 | Clinical study (design unconfirmed) | Kardiologiia | Lisinopril 10 mg/day attenuated pulmonary hypertension and improved right ventricular systolic function in patients with heart failure, ischaemic heart disease and COPD (chronic pulmonary heart disease) |
+| [14524095](https://pubmed.ncbi.nlm.nih.gov/14524095/) | 2003 | Clinical study (likely uncontrolled) | Probl Tuberk Bolezn Legk | Lisinopril in chronic cor pulmonale; no abstract available (chronic pulmonary heart disease) |
+| [39018146](https://pubmed.ncbi.nlm.nih.gov/39018146/) | 2024 | Case report | JPMA | ACE inhibitor plus coenzyme Q10 as adjunctive treatment in ventricular septal rupture after myocardial infarction (septal MI) |
+| [10456287](https://pubmed.ncbi.nlm.nih.gov/10456287/) | 1999 | Ex vivo/animal | Fundam Clin Pharmacol | In isolated rat pulmonary arteries, endothelin rather than angiotensin II contributed to the hypoxic contractile response (pulmonary hypertension) |
+
+## India Market Information
+
+The licence records contain no approved indication text. Of the 20 valid single-ingredient registrations, five are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 128096 | Lapril 10mg Tablet (Wockhardt Ltd) | Strip of 10 tablets | Not stated |
+| 123445 | Listen 10mg Tablet (Litaka Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated |
+| 126708 | Lisonol 5mg Tablet (Knoll Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated |
+| 129806 | Lisnop 2.5mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated |
+| 121497 | Listril 10 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 15 tablets | Not stated |
 
 ## Safety Considerations
 
-**Drug Interactions**: Lisinopril has 308 documented interactions. The following are the most clinically significant:
+- **Disease-level contraindication signals (knowledge graph, not label text)**: kidney disease, liver disease, pancreatitis, gallbladder disease, angioedema (including hereditary and ACE-inhibitor-induced forms), systemic lupus erythematosus, diabetes mellitus and diabetic ketoacidosis, potassium deficiency, neutropenia and agranulocytosis, aortic stenosis, hypotensive disorders, hyperparathyroidism, hepatic encephalopathy, connective tissue disease and bone disease.
+- **Drug interactions**: 308 interactions were recorded. Major-level interactions include potassium citrate and potassium bicarbonate (risk of hyperkalaemia). Moderate-level interactions include corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), antidiabetic agents (metformin, alogliptin, saxagliptin, canagliflozin, dapagliflozin, empagliflozin, chlorpropamide), acetylsalicylic acid, morphine and bupropion.
+- **Case-report signals**: severe hypotension and bradycardia with concomitant tizanidine (PMID 20852161), and a report of small bowel angioedema attributed to lisinopril (PMID 42226836).
+- **Prediction-specific cautions**: in malignant renovascular hypertension, bilateral renal artery stenosis or a solitary kidney can lead to acute kidney injury with ACE inhibitors. Hyperkalaemia and hypotension are also relevant.
 
-| Severity | Interacting Drug | Clinical Concern |
-|----------|-----------------|-----------------|
-| Major | Potassium citrate | Risk of severe hyperkalemia; ACEi reduces aldosterone → potassium retention |
-| Major | Potassium bicarbonate | Same mechanism as above; concurrent use requires close electrolyte monitoring |
-| Moderate | Hydrocortisone / Dexamethasone / Betamethasone / Budesonide / Triamcinolone | Corticosteroids may antagonise the antihypertensive effect via sodium retention |
-| Moderate | Acetylsalicylic acid | NSAIDs/aspirin may attenuate ACEi efficacy and increase renal risk, especially at higher doses |
-| Moderate | Metformin | Renal impairment from ACEi may elevate metformin levels; monitor renal function |
-| Moderate | Canagliflozin / Dapagliflozin / Empagliflozin | Additive blood pressure–lowering and diuretic effects; monitor for hypotension and acute kidney injury |
-| Moderate | Alogliptin / Saxagliptin / Chlorpropamide | Possible enhanced hypoglycaemic effect and angioedema risk with DPP-4 inhibitors |
-| Moderate | Morphine | Additive hypotensive effect in acute settings |
-| Moderate | Bupropion | May lower seizure threshold in combination; monitor neurological status |
-| Moderate | Dronabinol | Additive hypotensive effect |
-
-Please refer to the package insert for complete warnings and contraindications, as these data were not available in the current evidence pack.
-
----
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials or literature specifically address Lisinopril in posterolateral myocardial infarction. Although the underlying RAAS-inhibition mechanism is biologically sound, this prediction remains an inference from broader post-MI evidence and cannot be elevated beyond L5 without subtype-specific data.
+Posterolateral myocardial infarction is a subtype of an indication lisinopril already holds, so the prediction adds little new therapeutic information. No subtype-specific trials or literature support it (evidence level L4).
 
 **To proceed, the following is needed:**
-- Retrieve full Lisinopril mechanism of action and toxicity profile from DrugBank (DrugBank ID: DB00722) to complete the pharmacological rationale
-- Obtain India-specific package insert (if available through CDSCO or manufacturer labeling) for warnings and contraindications
-- Conduct a broadened literature search covering posterior MI, inferolateral MI, and circumflex territory MI alongside ACE inhibitor therapy, to determine whether any publications address overlapping anatomical subtypes
-- **Priority reallocation recommended**: Consider redirecting the primary evaluation to **Chronic Pulmonary Heart Disease (cor pulmonale)** — ranked 9th by TxGNN score but carrying **L3 evidence** with two direct clinical studies of Lisinopril in cor pulmonale (PMID [17047621](https://pubmed.ncbi.nlm.nih.gov/17047621/) — prospective study; PMID [14524095](https://pubmed.ncbi.nlm.nih.gov/14524095/) — clinical study), which together represent a substantially more actionable repurposing pathway
+- Package insert warnings and contraindications from the India Pharma source (a blocking gap for safety screening)
+- Detailed mechanism of action data (from DrugBank)
+- Confirmation that the existing myocardial infarction indication already covers this subtype, which would make a separate repurposing effort unnecessary
+- If a genuine repurposing signal is wanted, consider chronic pulmonary heart disease (L3). This would require retrieving the full text of the two lisinopril studies and a controlled trial to confirm efficacy.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

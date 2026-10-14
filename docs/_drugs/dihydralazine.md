@@ -2,15 +2,15 @@
 layout: default
 title: Dihydralazine
 parent: Moderate Evidence (L3-L4)
-nav_order: 266
-evidence_level: L3
+nav_order: 269
+evidence_level: L4
 indication_count: 10
 ---
 
 # Dihydralazine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,93 +29,84 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Dihydralazine: From Hypertensive Crisis to Heart Disease
+# Dihydralazine: From Hypertension to Heart Disease
 
 ## One-Sentence Summary
 
-Dihydralazine is a direct-acting arteriolar vasodilator historically used for hypertensive crises and as an adjunct in congestive heart failure, though it holds no current drug registration in India.
-The TxGNN model predicts it may be effective for **Heart Disease**,
-with **1 clinical trial** and **20 publications** currently supporting this direction.
-
----
+Dihydralazine is a direct-acting arteriolar vasodilator, and it is marketed in India as an antihypertensive. The India licence records compiled for this report do not list an approved indication, so this is inferred from the drug class. The TxGNN model predicts it may be effective for **heart disease**, but direct evidence is weak: **1 clinical trial** was found that does not clearly test this drug, and the **20 publications** are mostly indirect (animal studies, small physiology studies, old reviews).
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertensive crisis; adjunct in congestive heart failure (historical use; no India registration) |
-| Predicted New Indication | Heart Disease |
+|------|------|
+| Original Indication | Not stated in the India licence records (the drug class suggests hypertension) |
+| Predicted New Indication | Heart disease |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
-
----
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
+| Recommended Decision | Hold (research question only) |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is currently unavailable from DrugBank. Based on available literature, Dihydralazine belongs to the hydrazinophthalazine class and functions as a direct arteriolar vasodilator. It reduces systemic vascular resistance (afterload) without directly increasing myocardial contractility. Several French and European clinical studies from the 1980s (marketed as Nepressol) documented its use in NYHA class III–IV congestive heart failure as an adjunct to digitalis and diuretics, based on this afterload-reduction rationale.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, dihydralazine is an arteriolar vasodilator that lowers systemic vascular resistance and afterload. This is plausibly relevant to hypertensive heart disease, cardiac remodelling, and heart failure.
 
-The mechanistic link to heart disease is biologically plausible in the short term: reducing afterload allows a failing heart to increase cardiac output. However, this benefit is self-limiting. Pure arteriolar vasodilation reflexively activates the renin-angiotensin-aldosterone system (RAAS) and sympathetic nervous system, leading to compensatory sodium retention, tachycardia, and ultimately tachyphylaxis — exactly the pattern documented in the landmark 1984 European Heart Journal study (PMID 6479183), where long-term benefit was lost compared to placebo.
+Several older publications support this indirectly. They describe dihydralazine used as a vasodilator in congestive heart failure and cardiomyopathy, and in animal models of hypertension. However, one long-term study found that its benefit in chronic heart failure faded over time.
 
-The TxGNN prediction therefore reflects an established but historically superseded pharmacological association. Dihydralazine was an early vasodilator used before ACE inhibitors demonstrated superior neurohormonal blockade and survival benefit. One active Phase 3 trial (NCT05230901) is re-exploring dihydralazine specifically in the context of post-TAVI myocardial fibrosis alongside spironolactone — a more targeted hypothesis that may offer a rationale for narrow re-evaluation, but cannot yet be attributed to dihydralazine's individual contribution.
-
----
+Caution is warranted. "Heart disease" is a very broad label, and dihydralazine's established antihypertensive use may overlap with it. The high TxGNN score may therefore partly reflect existing use rather than true repurposing. No disease-specific pivotal evidence was identified.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT05230901](https://clinicaltrials.gov/study/NCT05230901) | Phase 3 | Recruiting | 300 | Evaluates antifibrotic therapy for regression of myocardial fibrosis post-TAVI in aortic stenosis patients with high fibrotic burden. Three arms: standard of care alone, Spironolactone + standard of care, or Spironolactone + Dihydralazine + standard of care. Dihydralazine is a combination partner, not the primary study drug; efficacy attributable to it specifically cannot be determined from this design. |
+|---------|------|------|------|---------|
+| [NCT05230901](https://clinicaltrials.gov/study/NCT05230901) | Phase 3 | Unknown | 300 | Antifibrotic therapy (spironolactone, or spironolactone + dihydralazine, plus standard of care) vs standard of care alone for regression of myocardial fibrosis after TAVI in aortic stenosis |
 
-> ⚠️ The sole identified trial has **low direct relevance** to Dihydralazine as a therapy for heart disease (Relevance Grade C). No trials testing Dihydralazine as the primary intervention for heart disease were identified.
-
----
+The trial summary lists a spironolactone + dihydralazine arm, but the data do not show that dihydralazine is the primary investigational agent. It is therefore only indirect, disease-area evidence. The intervention list should be verified before the evidence level is upgraded.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [1420010](https://pubmed.ncbi.nlm.nih.gov/1420010/) | 1992 | RCT | Br J Obstet Gynaecol | Compared epoprostenol vs dihydralazine in acute hypertensive crisis of pregnancy; dihydralazine served as the active comparator, supporting its established role in acute BP reduction |
-| [29974489](https://pubmed.ncbi.nlm.nih.gov/29974489/) | 2018 | Network Meta-Analysis | Br J Clin Pharmacol | Network meta-analysis of antihypertensives for severe hypertension in pregnancy; includes comparative efficacy and safety data for dihydralazine vs labetalol, nifedipine and others |
-| [3075406](https://pubmed.ncbi.nlm.nih.gov/3075406/) | 1988 | Comparative Clinical Study | Acta Physiol Hung | Short-term comparison of captopril (Lopirin, Tensiomin) vs dihydralazine in 15 patients with severe heart failure (NYHA III–IV); ACE inhibitors and dihydralazine both showed hemodynamic benefit acutely |
-| [6479183](https://pubmed.ncbi.nlm.nih.gov/6479183/) | 1984 | Clinical Study | Eur Heart J | Long-term dihydralazine vs placebo in 14 severe CHF patients refractory to digitalis/diuretics; acute hemodynamic benefits confirmed but long-term efficacy lost — key tachyphylaxis evidence |
-| [6803467](https://pubmed.ncbi.nlm.nih.gov/6803467/) | 1982 | Clinical Study | Z Kardiol | Acute and chronic hemodynamic effects of dihydralazine in severe congestive heart failure both at rest and during exercise |
-| [7209863](https://pubmed.ncbi.nlm.nih.gov/7209863/) | 1980 | Clinical Study | Therapie | Tolerance and complications of dihydralazine treatment in severe heart failure; early clinical safety characterization |
-| [22534703](https://pubmed.ncbi.nlm.nih.gov/22534703/) | 2012 | Case Report | Med Sci Monit | Management of NYHA class III/IV heart failure (LVEF 13%) during pregnancy; dihydralazine considered as part of multi-drug regimen in a life-threatening cardiac situation |
-| [8497771](https://pubmed.ncbi.nlm.nih.gov/8497771/) | 1993 | Review | Schweiz Med Wochenschr | Review of hypertensive crisis management; discusses hemodynamic mechanisms and lists dihydralazine among available agents with notes on endothelial damage pathophysiology |
-| [1695297](https://pubmed.ncbi.nlm.nih.gov/1695297/) | 1990 | Animal Study | J Cardiovasc Pharmacol | Hemodynamic comparison of isradipine vs dihydralazine in atherosclerotic and normal rabbits; dihydralazine produced arteriolar vasodilation but with less favorable organ perfusion profile than calcium antagonist |
-| [15201535](https://pubmed.ncbi.nlm.nih.gov/15201535/) | 2004 | Cohort | J Hypertension | Plasma volume and hemodynamic disturbances in hypertensive pregnancy; provides physiological context for dihydralazine's afterload-targeting mechanism in cardiovascular disease states |
+|------|-----|------|------|---------|
+| [29974489](https://pubmed.ncbi.nlm.nih.gov/29974489/) | 2018 | Network meta-analysis | Br J Clin Pharmacol | Compared drugs for severe hypertension in pregnancy |
+| [3075406](https://pubmed.ncbi.nlm.nih.gov/3075406/) | 1988 | Comparative clinical study | Acta Physiol Hung | Short-term effects of captopril preparations and dihydralazine in 15 patients with severe chronic heart failure |
+| [6479183](https://pubmed.ncbi.nlm.nih.gov/6479183/) | 1984 | Placebo-controlled study | Eur Heart J | In 14 patients with severe congestive heart failure, dihydralazine lost effectiveness in long-term treatment |
+| [7307999](https://pubmed.ncbi.nlm.nih.gov/7307999/) | 1981 | Clinical study | Dtsch Med Wochenschr | Acute vasodilator effects in 16 patients with severe heart failure; only dihydralazine reduced systemic resistance acutely (by 42%) |
+| [6127295](https://pubmed.ncbi.nlm.nih.gov/6127295/) | 1982 | Review | Fortschr Med | Vasodilators including dihydralazine in the treatment of cardiomyopathies |
+| [8497771](https://pubmed.ncbi.nlm.nih.gov/8497771/) | 1993 | Review | Schweiz Med Wochenschr | Overview of hypertensive crisis |
+| [42117551](https://pubmed.ncbi.nlm.nih.gov/42117551/) | 2026 | Trial design paper | ESC Heart Fail | Design and rationale of the Reduce-MFA DZHK25 anti-fibrotic trial after TAVI |
+| [1715494](https://pubmed.ncbi.nlm.nih.gov/1715494/) | 1991 | Animal study | J Cardiovasc Pharmacol | In hypertensive rats, dihydralazine prolonged survival but did not nearly normalise it |
+| [1695297](https://pubmed.ncbi.nlm.nih.gov/1695297/) | 1990 | Animal study | J Cardiovasc Pharmacol | Haemodynamics of isradipine vs dihydralazine in atherosclerotic and normal rabbits |
+| [1420010](https://pubmed.ncbi.nlm.nih.gov/1420010/) | 1992 | Comparative study | Br J Obstet Gynaecol | Epoprostenol vs dihydralazine in severe hypertension in pregnancy |
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 353 | Apresol Tablet | Strip of 15 tablets | Not stated in the records |
+| 151433 | Nepresol 25mg Tablet | Strip of 10 tablets | Not stated in the records |
 
 ## Safety Considerations
 
-No structured safety data (key warnings, contraindications, or drug interactions) was returned from the standard sources. Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. Note that the package insert warnings and contraindications could not be obtained for this report.
 
-> **Literature-derived safety signals worth flagging before any further use:**
->
-> - **Drug-induced autoimmune hepatitis**: Dihydralazine is metabolized by CYP1A2, and multiple case series and mechanistic studies (PMID [2347920](https://pubmed.ncbi.nlm.nih.gov/2347920/), PMID [1513326](https://pubmed.ncbi.nlm.nih.gov/1513326/), PMID [9241657](https://pubmed.ncbi.nlm.nih.gov/9241657/)) have documented dihydralazine-induced hepatitis characterized by anti-CYP1A2 (anti-liver microsomal) autoantibodies. This is a rare but potentially serious idiosyncratic reaction requiring hepatic monitoring.
-> - **Acetylator phenotype dependency**: Dihydralazine is acetylated by hepatic N-acetyltransferase (NAT2); slow acetylators may have higher plasma levels and elevated risk of drug-induced lupus-like syndrome — a known class effect of hydrazinophthalazines.
-> - **Pregnancy context**: Multiple studies used dihydralazine in hypertensive emergencies of pregnancy, but a 2018 network meta-analysis (PMID 29974489) suggests newer agents (labetalol, nifedipine) may have more favorable profiles.
+- **Hepatotoxicity signal**: Published reports describe dihydralazine-induced autoimmune hepatitis, associated with anti-CYP1A2 autoantibodies. This is a relevant safety signal for any expanded use.
+- **Pregnancy**: The literature covers dihydralazine use in hypertensive disorders of pregnancy, including effects on the unborn child.
 
----
+No drug interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction for heart disease reflects a known pharmacological history, not a new repurposing opportunity. Dihydralazine was clinically evaluated for heart failure in the 1980s and was superseded by ACE inhibitors and beta-blockers due to tachyphylaxis and the lack of neurohormonal benefits. The only active clinical trial uses dihydralazine as a combination partner in a highly specific post-TAVI fibrosis setting, making it impossible to derive independent efficacy conclusions. With zero India market registrations and no complete safety data on file, the current evidence base does not support advancing this candidate.
+The evidence is limited to a model prediction plus indirect literature (mostly old, small, or animal studies), and the only trial found is not clearly testing dihydralazine. The broad "heart disease" label may simply reflect its existing antihypertensive use, and the hepatotoxicity signal argues for caution. This is best treated as a research question, not a development candidate.
 
 **To proceed, the following is needed:**
-
-- Obtain complete MOA and safety data from DrugBank API and the EMA/ANSM (French) package insert for Nepressol
-- Clarify whether the NCT05230901 trial can generate dihydralazine-specific efficacy and safety data via subgroup or secondary analysis
-- Define a precise sub-indication (e.g., post-TAVI myocardial fibrosis, hypertensive heart disease with fibrotic remodeling) where dihydralazine's mechanism may offer benefit beyond current standard of care
-- Assess NAT2 acetylator phenotype implications for patient stratification and safety risk management
-- Review the full TFDA/India CDSCO database to confirm absence of any historical registration and evaluate regulatory pathway feasibility
+- Verify the intervention list of NCT05230901 to see whether dihydralazine is a tested agent
+- Define a specific cardiac indication (e.g. a particular heart failure or hypertensive heart disease population) in place of the broad "heart disease" label
+- Obtain the India package insert (approved indications, warnings, contraindications) to complete safety screening
+- Obtain mechanism of action data
+- Prepare a hepatic safety monitoring plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Rizatriptan
-parent: High Evidence (L1-L2)
-nav_order: 742
-evidence_level: L2
+parent: Moderate Evidence (L3-L4)
+nav_order: 749
+evidence_level: L3
 indication_count: 2
 ---
 
 # Rizatriptan
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **2** 
+Evidence Level: **L3** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,85 +33,88 @@ Evidence Level: **L2** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Rizatriptan is a selective 5-HT1B/1D receptor agonist established for the acute treatment of migraine. The TxGNN model predicts potential effectiveness for **Migraine with Brainstem Aura** (formerly "basilar-type migraine"), but this specific subtype has historically been treated as a relative contraindication for triptans, and no dedicated clinical trials or Taiwan regulatory data currently support this use.
-
----
+Rizatriptan is a triptan originally used to treat acute migraine.
+The TxGNN model predicts it may be effective for **migraine with brainstem aura**,
+but no clinical trials are registered for this specific subtype, and the **19 publications** retrieved cover migraine broadly and are indirect evidence only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute treatment of migraine (general, based on drug class/mechanism; no Taiwan-approved license on file) |
-| Predicted New Indication | Migraine with Brainstem Aura |
+| Original Indication | Migraine disorder |
+| Predicted New Indication | Migraine with brainstem aura |
 | TxGNN Prediction Score | 99.94% |
-| Evidence Level | L2 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L3 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Rizatriptan is a selective 5-HT1B/1D receptor agonist. Its mechanism — vasoconstriction of cranial vessels and inhibition of trigeminovascular release of calcitonin gene-related peptide (CGRP) — is well established for typical migraine (with or without aura), which explains the model's confidence score.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, rizatriptan is a triptan (a selective 5-HT1B/1D receptor agonist) used for acute migraine with or without aura, and its efficacy in migraine is well established.
 
-However, the predicted indication, "migraine with brainstem aura," is a distinct clinical subtype (previously termed basilar-type migraine) involving aura symptoms attributable to brainstem/vertebrobasilar territory dysfunction. Because triptans theoretically carry a risk of vasoconstriction in the vertebrobasilar circulation, this subtype has long been considered a relative contraindication for the triptan class, and major RCTs have systematically excluded these patients. While recent guidelines have partially relaxed this stance, direct controlled-trial evidence in this specific population remains absent — meaning the TxGNN prediction reflects a plausible but historically cautioned mechanistic extension rather than a validated new use.
+Migraine with brainstem aura is a subtype of migraine with aura. The two share core pathophysiology: activation of the trigeminovascular system, CGRP release and cranial vasodilation. This makes the prediction biologically plausible, and the very high TxGNN score reflects how close the new indication sits to the approved migraine indications.
 
----
+There is an important caveat. None of the retrieved studies evaluates brainstem aura specifically. Triptans have historically been used cautiously or avoided in this subtype (formerly called basilar-type migraine) because of theoretical vascular concerns. The evidence is therefore indirect, and a safety evaluation is needed before any recommendation.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+The literature below is drawn from the broader migraine population. Reviews and RCT-type analyses are prioritised.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15209688](https://pubmed.ncbi.nlm.nih.gov/15209688/) | 2004 | RCT | Headache | Placebo-controlled study showing efficacy of rizatriptan when administered early in a migraine attack |
-| [11903526](https://pubmed.ncbi.nlm.nih.gov/11903526/) | 2001 | Clinical Report | Headache | Reports on triptan use (including rizatriptan) in basilar-type migraine and migraine with prolonged aura — the most directly relevant evidence found, but not a controlled trial |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Review | Headache | American Headache Society evidence assessment of acute migraine pharmacotherapies, including rizatriptan |
-| [11687054](https://pubmed.ncbi.nlm.nih.gov/11687054/) | 2001 | Systematic Review (Cochrane) | Cochrane Database Syst Rev | Systematic review of rizatriptan efficacy/safety for acute migraine treatment |
-| [17636717](https://pubmed.ncbi.nlm.nih.gov/17636717/) | 2007 | Systematic Review (Cochrane, Withdrawn) | Cochrane Database Syst Rev | Withdrawn update of the above Cochrane review on rizatriptan for acute migraine |
-| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Review/Meta-analysis | J Headache Pain | Compares frovatriptan vs. rizatriptan, zolmitriptan, and almotriptan specifically in migraine **with aura** |
-| [16336021](https://pubmed.ncbi.nlm.nih.gov/16336021/) | 2005 | Review (Pharmacoeconomic) | PharmacoEconomics | Reviews efficacy/cost-utility of rizatriptan 5mg/10mg vs. other triptans and ergotamine/caffeine |
-| [15613223](https://pubmed.ncbi.nlm.nih.gov/15613223/) | 1999 | PK Study | Headache | Pharmacokinetics of rizatriptan during and between migraine attacks (gastric stasis effects) |
-| [23695053](https://pubmed.ncbi.nlm.nih.gov/23695053/) | 2013 | Review/Comparative | Neurol Sci | Efficacy of frovatriptan/rizatriptan/zolmitriptan in hypertensive vs. normotensive migraine patients |
-| [24867847](https://pubmed.ncbi.nlm.nih.gov/24867847/) | 2014 | Review/Comparative | Neurol Sci | Efficacy of frovatriptan/rizatriptan/zolmitriptan in normal-weight vs. obese migraine patients |
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Review | Headache | American Headache Society evidence assessment of acute migraine pharmacotherapies in adults |
+| [11687054](https://pubmed.ncbi.nlm.nih.gov/11687054/) | 2001 | Review | Cochrane Database Syst Rev | Cochrane review of rizatriptan for acute migraine |
+| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Review (meta-analysis) | J Headache Pain | Frovatriptan compared with rizatriptan, zolmitriptan and almotriptan in migraine with aura |
+| [24867845](https://pubmed.ncbi.nlm.nih.gov/24867845/) | 2014 | RCT (pooled analysis) | Neurol Sci | Gender and triptan efficacy: frovatriptan vs. other triptans in three crossover studies |
+| [17718700](https://pubmed.ncbi.nlm.nih.gov/17718700/) | 2007 | Observational study | Eur J Neurol | Triptans in familial or sporadic hemiplegic migraine: average response 6.9/10, and no ischaemic stroke or heart attack among 76 users |
+| [16336021](https://pubmed.ncbi.nlm.nih.gov/16336021/) | 2005 | Review | PharmacoEconomics | Rizatriptan 10 mg gave faster pain relief than sumatriptan 50 mg, with similar tolerability |
+| [22211870](https://pubmed.ncbi.nlm.nih.gov/22211870/) | 2012 | Review | Headache | Rescue therapy with triptans, DHE and magnesium in emergency and clinic settings |
+| [15209688](https://pubmed.ncbi.nlm.nih.gov/15209688/) | 2004 | Placebo-controlled study | Headache | Efficacy of rizatriptan given early in a migraine attack |
+| [23695053](https://pubmed.ncbi.nlm.nih.gov/23695053/) | 2013 | Review of randomized studies | Neurol Sci | Efficacy of frovatriptan and other triptans, including rizatriptan, in hypertensive vs. normotensive migraineurs |
+| [32952420](https://pubmed.ncbi.nlm.nih.gov/32952420/) | 2020 | Clinical study | Noro Psikiyatr Ars | Cerebral haemodynamic changes during migraine attacks and after frovatriptan and rizatriptan |
 
----
+## India Market Information
 
-## Taiwan Market Information
+Showing 5 of 20 valid registrations. All are single-ingredient products. The approved indication text was not available in the registration data.
 
-Rizatriptan is currently **not marketed in Taiwan** — no license registrations are on file (`total_licenses: 0`). No approved indication text is available for local reference.
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 141907 | Migsun 5mg Tablet | Strip of 4 tablets | Sunrise Remedies Pvt Ltd |
+| 186973 | Ritza 5mg Tablet | Strip of 6 tablets | Natco Pharma Ltd |
+| 184687 | Rizora 10 Tablet | Strip of 4 tablets | Intas Pharmaceuticals Ltd |
+| 188477 | Rizamelt 5 Disintegrating Strip | Packet of 5 disintegrating strips | Arinna Lifescience Pvt Ltd |
+| 184240 | Rizact 10 Tablet | Strip of 4 tablets | Cipla Ltd |
 
 ## Safety Considerations
 
-**Drug Interactions** (80 total interactions on file; key Major-level interactions below, primarily serotonergic agents with theoretical serotonin syndrome risk):
+- **Contraindications suggested by the knowledge graph** (not taken from label text): hypertension, liver disease, gallbladder disease, stroke and cerebrovascular disorders, cerebral infarction, myocardial infarction, coronary artery disease, myocardial ischaemia, Prinzmetal angina, peripheral vascular disease and peripheral arterial disease, chronic kidney disease and end-stage renal failure, hemoglobinopathy, and familial or sporadic hemiplegic migraine.
+- **Drug Interactions**: 80 interactions were identified. Those rated **Major** are lorcaserin, dolasetron, palonosetron, ondansetron, granisetron, dexfenfluramine, fenfluramine and sibutramine, mostly serotonergic agents. Morphine (including liposomal) is rated Moderate. The remaining interactions listed (for example pantoprazole, omeprazole, metformin and prednisone) have no severity rating.
+- **Subtype-specific concern**: triptans have historically been used cautiously or avoided in brainstem aura because of theoretical vascular risk. The vascular contraindications above reinforce the need for a dedicated safety review.
 
-- **Major**: Lorcaserin, Dolasetron, Palonosetron, Ondansetron, Granisetron, Dexfenfluramine, Fenfluramine, Sibutramine
-- **Moderate**: Morphine, Morphine (liposomal)
-- Multiple additional interactions of **Unknown** severity are on file (e.g., Pantoprazole, Omeprazole, Metformin, Prednisone) and require individual review.
-
-Taiwan-specific label warnings and contraindications are not currently available and require retrieval from the official TFDA package insert before further safety evaluation.
-
----
+Please also refer to the package insert, as label warnings and contraindications were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Migraine with brainstem aura has historically been treated as a relative contraindication for triptans due to theoretical vertebrobasilar vasoconstriction risk, and no dedicated clinical trials support this specific use. Combined with the absence of Taiwan market registration and missing TFDA safety label data, the evidence is insufficient to advance beyond a research question at this stage.
+The prediction is biologically plausible and rizatriptan is widely marketed in India. However, there are no trials specific to brainstem aura, the supporting literature is indirect, and the theoretical vascular safety concern for this subtype is unresolved. This corresponds to an L3 evidence level and a research question rather than an actionable repurposing candidate.
 
 **To proceed, the following is needed:**
-- TFDA package insert data (warnings/contraindications) — currently a blocking data gap
-- Confirmed mechanism of action detail from DrugBank
-- Dedicated clinical evidence (trial or structured case series) in patients specifically diagnosed with migraine with brainstem aura
-- Assessment of regulatory pathway, given the drug is not currently registered in Taiwan
+- The India package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A targeted literature review or case series on triptan use and outcomes in brainstem aura
+- A dedicated vascular safety assessment for this subtype
+- Approved indication text for the India registrations, to confirm the labelled scope
+
+---
+
+*Note on the second predicted indication:* atrophoderma vermiculata (TxGNN score 99.19%) has no clinical or literature support and no clear mechanistic link to 5-HT1B/1D agonism. It is likely a knowledge-graph artefact, is rated L5, and the recommendation is Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

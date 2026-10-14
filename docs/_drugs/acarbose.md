@@ -29,98 +29,107 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Acarbose: From Type 2 Diabetes to Classic Stiff Person Syndrome
+# Acarbose: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
 
 ## One-Sentence Summary
 
-Acarbose is an intestinal alpha-glucosidase inhibitor originally used to manage postprandial blood glucose in Type 2 Diabetes by slowing carbohydrate absorption.
-The TxGNN model predicts it may be effective for **Classic Stiff Person Syndrome**, with a prediction score of **99.65%**.
-However, there are currently **no clinical trials** and **no publications** supporting this direction, placing this prediction at the lowest evidence tier.
-
----
+Acarbose is an intestinal alpha-glucosidase inhibitor, originally used to treat type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **classic stiff person syndrome**,
+but **no clinical trials and no related publications** currently support this prediction, so it remains a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Type 2 Diabetes (postprandial hyperglycaemia management) |
-| Predicted New Indication | Classic Stiff Person Syndrome |
+|------|------|
+| Original Indication | Type 2 diabetes mellitus |
+| Predicted New Indication | Classic stiff person syndrome |
 | TxGNN Prediction Score | 99.65% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacology, Acarbose competitively inhibits alpha-glucosidase enzymes (maltase, glucoamylase, sucrase) in the brush border of the small intestine, delaying the breakdown and absorption of complex carbohydrates and thereby blunting postprandial blood glucose peaks. Its action is almost entirely confined to the gastrointestinal lumen, with negligible systemic absorption.
+Currently, detailed mechanism of action data is not available. Based on known information, acarbose is an alpha-glucosidase inhibitor that acts in the gut, slowing carbohydrate digestion and reducing post-meal blood glucose rises. Its efficacy in type 2 diabetes is established.
 
-Classic Stiff Person Syndrome (SPS) is a rare autoimmune neurological disorder driven by anti-GAD65 antibodies. GAD65 (glutamic acid decarboxylase 65) is the rate-limiting enzyme for GABA synthesis in inhibitory neurons, and its autoimmune impairment leads to disinhibition of motor circuits, causing debilitating muscle rigidity and spasms. Crucially, GAD65 is also expressed in pancreatic beta cells, which is why anti-GAD65 antibodies appear in both Type 1 Diabetes and SPS — and why the TxGNN knowledge graph likely built a drug–disease connection through this shared biological node.
+A plausible mechanistic link to stiff person syndrome is not evident. Stiff person syndrome is an autoimmune neurological disorder involving the GABAergic system and anti-GAD65 antibodies. The only conceivable connection is that GAD-antibody-related autoimmune diabetes can co-occur with it. That is an association between diseases, not evidence that acarbose treats the neurological condition. The high score most likely reflects proximity in the knowledge graph rather than true biology.
 
-In practice, however, this mechanistic bridge is extremely weak. Acarbose has no known immunomodulatory activity, no central nervous system penetration, and no mechanism by which inhibiting intestinal carbohydrate-cleaving enzymes could influence the autoimmune GABAergic cascade underlying SPS. The high TxGNN score most likely reflects a graph topology artifact — a short path between the "Acarbose → Diabetes → GAD65 → SPS" nodes — rather than a pharmacologically actionable relationship. This prediction should be interpreted as a hypothesis-generating signal only.
+The next-ranked predictions show the same pattern:
 
----
+- **Focal stiff limb syndrome** (99.65%): likely driven by its proximity to stiff person syndrome. No mechanism has been identified.
+- **Thiamine-responsive dysfunction syndrome** (99.62%): overlaps with diabetes, but acarbose would not address the underlying thiamine transporter defect.
+- **Opsismodysplasia** (99.62%): a rare skeletal dysplasia with no recognised link to glucosidase inhibition.
+- **Localized lipodystrophies** (99.17% to 99.25%): any link would be indirect, via glucose and lipid metabolism.
+- **Pancreatic agenesis** (99.16%): the only prediction with retrieved literature, but none of it is disease-specific. Patients need insulin and enzyme replacement, which acarbose cannot replace.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the top-ranked prediction (classic stiff person syndrome).
 
----
+Literature was retrieved only for the ninth-ranked prediction, pancreatic agenesis. It is general diabetes material, and none of it evaluates acarbose in that condition. The most relevant items are listed below.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [21697254](https://pubmed.ncbi.nlm.nih.gov/21697254/) | 2011 | Review | J Clin Endocrinol Metab | Preserving β-cell function as the key to preventing progression from prediabetes to type 2 diabetes |
+| [9506190](https://pubmed.ncbi.nlm.nih.gov/9506190/) | 1998 | Review | Adv Intern Med | Overview of type 2 diabetes and its metabolic abnormalities |
+| [12877088](https://pubmed.ncbi.nlm.nih.gov/12877088/) | 2003 | Review | Nihon Rinsho | Alpha-glucosidase inhibitors for postprandial hyperglycaemia in hypertensive type 2 diabetes |
+| [15449970](https://pubmed.ncbi.nlm.nih.gov/15449970/) | 2004 | Review | Am J Cardiovasc Drugs | Links between heart failure and impaired glucose metabolism |
+| [10094112](https://pubmed.ncbi.nlm.nih.gov/10094112/) | 1999 | Preclinical (animal study) | Metabolism | Acarbose prevented and reversed metabolic abnormalities in the OLETF diabetic rat |
+| [30572448](https://pubmed.ncbi.nlm.nih.gov/30572448/) | 2018 | Case report | Medicine | Three cases of insulin autoimmune syndrome |
+| [34562871](https://pubmed.ncbi.nlm.nih.gov/34562871/) | 2021 | Case report | Diabetes Metab Syndr | Continuous glucose monitoring and rituximab in insulin autoimmune syndrome |
 
 ## India Market Information
 
-Acarbose is currently **not marketed in India** and holds **no regulatory authorizations** on record. Any future repurposing effort would require establishing a full regulatory pathway from the outset.
+Twenty single-ingredient registrations are valid. All are oral tablets (strips of 10). The data compiled for this report contain no approved indication text. Five main authorizations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 94291 | Glucobay 25 Tablet (Bayer Zydus Pharma) | Strip of 10 tablets | Not available |
+| 6328 | AC 50mg Tablet (USV Ltd) | Strip of 10 tablets | Not available |
+| 13805 | Acarjohn 25 Tablet (Johnlee Pharmaceuticals) | Strip of 10 tablets | Not available |
+| 59993 | DavaIndia Acarbose 25mg Tablet (Davaindia Generic Pharmacy) | Strip of 10 tablets | Not available |
+| 24270 | Acarwin 50mg Tablet (Intra Labs India) | Strip of 10 tablets | Not available |
 
 ## Safety Considerations
 
-**Drug Interactions**: Acarbose has **371 known drug interactions** in total. The following moderate-level interactions are of primary clinical relevance:
+- **Contraindications flagged in the knowledge graph** (not label text): kidney disease, pyoureter, liver disease, gallbladder disease, cirrhosis of liver, inflammatory bowel disease, hypoglycemia, and injury.
+- **Drug Interactions**: 371 interactions were recorded. The first 20 reviewed include these moderate-level ones:
+  - Acetazolamide
+  - Salbutamol
+  - Aloe Vera Leaf
+  - Alpelisib
+  - Amprenavir
+  - Aripiprazole
+  - Asenapine
+  - Asparaginase (both forms)
+  - Atazanavir
+  - Bedaquiline
+  - Bendroflumethiazide
+  - Benzphetamine
+  - Benzthiazide
+  - Betamethasone
 
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Acetazolamide | Moderate | Carbonic anhydrase inhibition may alter glycaemic control |
-| Salbutamol (Albuterol) | Moderate | Beta-agonists counteract glucose-lowering effects; monitor blood glucose |
-| Aloe Vera Leaf | Moderate | Additive hypoglycaemic effect; risk of excessive glucose lowering |
-| Alpelisib | Moderate | PI3K inhibitor alters glucose homeostasis; glucose monitoring required |
-| Amprenavir | Moderate | Protease inhibitor may impair glucose regulation |
-| Aripiprazole | Moderate | Atypical antipsychotic; may worsen glycaemic control |
-| Asenapine | Moderate | Atypical antipsychotic; blood glucose monitoring advised |
-| Asparaginase (E. coli) | Moderate | May impair pancreatic beta-cell function and glucose metabolism |
-| Asparaginase (Erwinia) | Moderate | Same concern as E. coli-derived asparaginase |
-| Atazanavir | Moderate | Protease inhibitor; glycaemia monitoring advised |
-| Bedaquiline | Moderate | Monitor for effects on metabolic glucose balance |
-| Bendroflumethiazide | Moderate | Thiazide diuretics antagonise hypoglycaemic effects |
-| Benzthiazide | Moderate | Thiazide class; similar antagonism of glucose lowering |
-| Benzphetamine | Moderate | Sympathomimetic; may impair blood glucose control |
-| Betamethasone | Moderate | Corticosteroids significantly antagonise hypoglycaemic activity |
+  Minor-level ones include albiglutide, alclometasone (topical), lipoic acid, amcinonide, and anisindione.
 
-> Note: Full package insert warnings and contraindications were not available in this Evidence Pack. Please refer to the official prescribing information for complete safety data.
-
----
+Please also refer to the package insert for the full safety profile. Label warnings and contraindications were not available.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is no clinical, translational, or mechanistic evidence supporting the use of Acarbose in Classic Stiff Person Syndrome. The TxGNN prediction almost certainly reflects a knowledge graph traversal artifact via the shared GAD65 node between diabetes and SPS pathways, rather than a genuine pharmacological opportunity. Acarbose has no immunomodulatory, neuroprotective, or GABAergic activity that could be expected to benefit SPS patients.
+The prediction rests only on a computational score. There are no clinical trials or publications for classic stiff person syndrome. Acarbose acts in the gut, and no plausible mechanism links it to this autoimmune neurological disorder. The other top-ranked predictions have the same weakness.
 
 **To proceed, the following is needed:**
-
-- **Mechanistic investigation**: Determine whether Acarbose or its gut metabolites have any secondary effects on systemic immune signalling, the gut–brain axis, or GABAergic pathways that could theoretically be relevant to SPS
-- **Preclinical data**: Conduct or identify animal model studies of GAD65-mediated autoimmunity treated with alpha-glucosidase inhibitors before investing in human research
-- **Microbiome hypothesis**: If the rationale is gut microbiome modulation (a plausible indirect path), design a mechanistic study linking alpha-glucosidase inhibition → microbiome shifts → neuroimmune outcomes
-- **India regulatory groundwork**: As Acarbose is not approved in India, both the original Type 2 Diabetes indication and any repurposed indication would require a full NDA/regulatory filing
-- **Safety data retrieval**: Obtain the full CDSCO-aligned package insert including warnings, contraindications, and special population data (currently a blocking data gap)
+- Mechanism of action data for acarbose (for example, from DrugBank)
+- Package insert warnings and contraindications from the India regulatory source, needed for safety screening
+- Any preclinical or clinical rationale linking alpha-glucosidase inhibition to stiff person syndrome or the GABAergic/anti-GAD65 pathway
+- A systematic literature search specific to acarbose and each predicted disease before reconsidering
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

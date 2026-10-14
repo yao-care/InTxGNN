@@ -2,7 +2,7 @@
 layout: default
 title: Mitomycin
 parent: Model Prediction Only (L5)
-nav_order: 556
+nav_order: 561
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,106 +29,102 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mitomycin: From Solid Tumor Chemotherapy to Solid Pseudopapillary Carcinoma of Pancreas
+# Mitomycin: From Pancreatic Adenocarcinoma to Solid Pseudopapillary Carcinoma of the Pancreas
 
 ## One-Sentence Summary
 
-Mitomycin is a classic cytotoxic antibiotic historically used as a core component in combination chemotherapy regimens for solid tumors, including gastric and exocrine pancreatic cancers (e.g., SMF, FAM protocols).
-The TxGNN model predicts it may be effective for **Solid Pseudopapillary Carcinoma of Pancreas**,
-with **0 clinical trials** and **0 publications** currently supporting this specific direction.
-The overall evidence base is minimal, and caution is warranted before further investment in this indication.
-
----
+Mitomycin is a DNA cross-linking cytotoxic agent, originally used to treat pancreatic adenocarcinoma.
+The TxGNN model predicts it may be effective for **solid pseudopapillary carcinoma of the pancreas**,
+but **no clinical trials and no publications** currently support this specific prediction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available in regulatory data; Mitomycin is historically used in combination chemotherapy for gastric cancer, exocrine pancreatic cancer, and other solid tumors |
-| Predicted New Indication | Solid Pseudopapillary Carcinoma of Pancreas |
+|------|------|
+| Original Indication | Pancreatic adenocarcinoma (the licence records provide no indication text) |
+| Predicted New Indication | Solid pseudopapillary carcinoma of the pancreas |
 | TxGNN Prediction Score | 99.86% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 16 |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available. Based on known information, mitomycin is a cytotoxic DNA cross-linking (alkylating-type) agent. Its use in pancreatic adenocarcinoma is established, and mechanistically it may be applicable to other pancreatic tumours.
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacological knowledge, Mitomycin (Mitomycin C) is a cytotoxic antibiotic that acts as a bifunctional alkylating agent, forming DNA interstrand and intrastrand cross-links. This covalent DNA modification inhibits DNA replication and transcription, selectively targeting rapidly proliferating cells — a property that forms the theoretical basis for its use in oncology.
+The predicted link likely reflects shared pancreatic neoplasm classification rather than disease-specific biology. Solid pseudopapillary neoplasms are usually treated surgically and tend to behave in a low-grade manner, so the value of cytotoxic chemotherapy is uncertain.
 
-Solid Pseudopapillary Carcinoma of the Pancreas (SPC) is a rare low-grade malignant tumor, predominantly affecting young women. Because it is low-grade with a relatively favorable prognosis, the primary treatment is surgical resection rather than systemic chemotherapy. SPC's biological behavior — slow growth and low mitotic activity — is mechanistically misaligned with agents like Mitomycin, which exert greatest effect against high-proliferation tumors. There is no published evidence specific to Mitomycin in SPC.
-
-The TxGNN graph model prediction may reflect Mitomycin's historical association with pancreatic tumor subtypes broadly, rather than any specific mechanistic rationale for SPC. The prediction score of 99.86% reflects the model's confidence in a biological relationship at the knowledge-graph level, not the strength of clinical evidence. In the absence of supporting clinical data, and given that SPC is managed primarily by surgery, this prediction is considered hypothesis-generating only.
-
----
+Other top-ranked predictions are all pancreatic tumour subtypes with the same score range (99.82%–99.86%):
+- **Osteoclastic giant cell tumour of the pancreas** (99.86%): a rare tumour; no supporting evidence.
+- **Pancreatic carcinoma with mixed differentiation** (99.85%): a ductal adenocarcinoma component could plausibly respond, but there are no direct data.
+- **Pancreatic intraductal papillary-mucinous carcinoma** (99.85%): invasive disease is often treated like ductal adenocarcinoma, which gives only indirect plausibility.
+- **Mixed ductal-endocrine carcinoma** (99.85%) and **pancreatic signet ring cell adenocarcinoma** (99.84%): the ductal or adenocarcinoma components overlap with the approved indication, but there are no subtype-specific data.
+- **Malignant exocrine pancreas neoplasm** (99.84%): largely a parent term for the existing indication, so it adds little new repurposing information.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Mitomycin in solid pseudopapillary carcinoma of pancreas.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Mitomycin in solid pseudopapillary carcinoma of pancreas.
+No literature was retrieved for the top-ranked prediction. For the lower-ranked predictions, the retrieved papers are only indirectly relevant:
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [10897253](https://pubmed.ncbi.nlm.nih.gov/10897253/) | 2000 | Review | Strahlenther Onkol | Adjuvant and neoadjuvant radiochemotherapy in ductal pancreatic carcinoma. Relevant to the approved indication, not to IPMN specifically |
+| [8361472](https://pubmed.ncbi.nlm.nih.gov/8361472/) | 1993 | Clinical study | Nihon Geka Gakkai Zasshi | Tamoxifen added to immuno-chemotherapy (including mitomycin) after resection of pancreatic carcinoma. Only indirectly relevant |
+| [15983445](https://pubmed.ncbi.nlm.nih.gov/15983445/) | 2005 | Case report | Pancreatology | Pseudomyxoma peritonei with a pancreatic IPMN managed with intraperitoneal hyperthermic chemoperfusion. No evidence of mitomycin efficacy in IPMN |
+| [2695183](https://pubmed.ncbi.nlm.nih.gov/2695183/) | 1989 | Review | Bull Cancer | General review of unknown primary tumours. Not specific to mitomycin |
 
 ## India Market Information
 
-Mitomycin is currently **not marketed in India** and has **0 registered product authorizations** on record. No license data is available to display.
+All 16 registrations are valid single-ingredient injections. The licence records contain no approved indication text. Five main authorizations:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 135815 | Mitomycin 10mg Injection (Biochem Pharmaceutical Industries) | Vial of 1 injection | Not stated |
+| 168193 | Oncocin 10mg Injection (Chandra Bhagat Pharma) | Vial of 1 injection | Not stated |
+| 135703 | Mitomycin C 2mg Injection (Biochem Pharmaceutical Industries) | Vial of 2 ml injection | Not stated |
+| 138509 | Mito 10mg Injection (Neon Laboratories) | Vial of 1 injection | Not stated |
+| 140054 | Mitocin 10mg Injection (Cadila Pharmaceuticals) | Vial of 1 injection | Not stated |
+
+All products are injectable, so the dosage form is the same as the original indication.
 
 ## Cytotoxicity
 
-Mitomycin is a conventional cytotoxic antineoplastic antibiotic. The following safety profile applies based on established pharmacological class knowledge:
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic — Antineoplastic antibiotic (alkylating-type mechanism via DNA cross-linking) |
-| Myelosuppression Risk | High — Cumulative, delayed myelosuppression is a hallmark toxicity; thrombocytopenia and neutropenia typically nadir at 4–6 weeks; Hemolytic Uremic Syndrome (HUS) is a rare but serious complication with cumulative dosing |
-| Emetogenicity Classification | Low to Moderate (IV bolus); prophylactic antiemetics are generally recommended |
-| Monitoring Items | Complete Blood Count (CBC) with differential and platelets (monitor for delayed nadir), serum creatinine and urinalysis (HUS surveillance), pulmonary function tests (interstitial pneumonitis risk with prolonged use) |
-| Handling Protection | Must follow cytotoxic drug handling regulations — preparation in a biological safety cabinet, PPE (gloves, gown, mask), and compliance with cytotoxic waste disposal protocols required |
-
----
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (DNA cross-linking agent) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions. The knowledge graph links the drug to thrombocytopenia, leukopenia and anaemia as contraindicated conditions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Complete blood count (with platelets), renal function, and cardiac status, based on the conditions flagged in the knowledge graph |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-**Drug Interactions (193 interactions on record; key interactions listed below):**
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: kidney disease, pyoureter, thrombocytopenia, blood coagulation disease, anaemia (including macrocytic anaemia), leukopenia, haemolytic-uraemic syndrome (including the typical form), congestive heart failure, heart failure, and stomatitis.
+- **Drug Interactions**: 193 interactions are recorded. Main ones with a graded severity:
+  - Major: deferiprone, samarium (153Sm) lexidronam
+  - Moderate: palifermin, strontium chloride Sr-89, fostamatinib
+  - Minor: levofloxacin
+  - Many others, such as warfarin, dexamethasone, prednisone and ondansetron, have no severity grade assigned.
 
-| Interacting Drug | Severity | Notes |
-|-----------------|----------|-------|
-| Deferiprone | Major | Concurrent use with myelosuppressive agents significantly increases risk of agranulocytosis |
-| Samarium (153Sm) lexidronam | Major | Additive myelosuppression risk with radiopharmaceuticals |
-| Palifermin | Moderate | Palifermin should not be administered within 24 hours of cytotoxic chemotherapy |
-| Strontium chloride Sr-89 | Moderate | Additive bone marrow suppression risk |
-| Fostamatinib | Moderate | Potential pharmacodynamic interaction; monitor blood counts |
-| Levofloxacin | Minor | Monitor for QT prolongation and other additive effects |
-
-> Note: The full interaction list contains 193 entries. Package insert and clinical pharmacist review are essential before co-administration with any agent.
-
----
+Please refer to the package insert for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high prediction score for Mitomycin in solid pseudopapillary carcinoma of the pancreas, but this indication has zero supporting clinical trials and zero published literature. SPC is a low-grade tumor managed primarily by surgery, making systemic cytotoxic chemotherapy of limited relevance, and Mitomycin's mechanism is better suited to high-proliferation malignancies.
+The prediction is supported only by the model score (L5). There are no clinical trials or directly relevant publications. Solid pseudopapillary neoplasms are usually managed surgically, so the benefit of cytotoxic chemotherapy is doubtful. In addition, the safety profile of mitomycin carries significant haematological, renal and cardiac concerns.
 
 **To proceed, the following is needed:**
-
-- **MOA data**: Retrieve complete mechanism of action from DrugBank (DB00305) to enable formal mechanistic linkage analysis
-- **Safety data gap**: Obtain the full prescribing information / package insert (TFDA or FDA/EMA) to populate key warnings and contraindications — currently blocking safety review (DG001, Severity: Blocking)
-- **Indication re-evaluation**: Consider pivoting analysis to Rank 8 indication (*malignant exocrine pancreas neoplasm*, Evidence Level L4) where Mitomycin has historical use in SMF/FAM regimens and limited literature support — this represents a more scientifically grounded repurposing hypothesis
-- **India registration pathway**: If pursuing any pancreatic indication, regulatory pathway for new drug application in India (CDSCO) must be established; Mitomycin currently has no registered products in India
-- **Preclinical data review**: Systematic review of SPC molecular biology (CTNNB1 mutations, Wnt pathway) to assess whether DNA cross-linking agents have any rational mechanistic basis in this specific tumor type
-
-> ⚠️ **Disclaimer**: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+- Package insert warnings and contraindications from the Indian regulator (currently missing, and blocking safety screening)
+- Detailed mechanism of action data
+- Disease-specific clinical or case-series evidence for mitomycin in the predicted pancreatic subtypes
+- Review of whether the predicted subtypes are clinically distinct from the already-approved pancreatic adenocarcinoma indication
+- A risk-benefit assessment of the haematological, renal and cardiac risks flagged in the knowledge graph
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Strontium Chloride
-parent: High Evidence (L1-L2)
-nav_order: 786
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 793
+evidence_level: L5
 indication_count: 10
 ---
 
 # Strontium Chloride
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,79 +29,75 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Strontium Chloride: From Unspecified Original Indication to Osteoarthritis
+# Strontium Chloride: From an Unspecified Original Indication to Osteoarthritis
 
 ## One-Sentence Summary
 
-> No original indication or licensed product record is currently available for Strontium chloride (DB13987) in this dataset.
-> The TxGNN model predicts it may be effective for **Osteoarthritis**,
-> with **1 clinical trial** currently supporting this direction and **no directly matched publications**.
-
----
+Strontium chloride is marketed in India as a topical dental gel (Bentoform Dental Gel), but no approved indication text is recorded for it in the data compiled for this report.
+The TxGNN model predicts it may be effective for **osteoarthritis**, supported by **1 Phase 3 clinical trial** (status unknown) and **no indexed publications**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented (no original indications on file, no licensed products) |
+| Original Indication | Not recorded in the India license data |
 | Predicted New Indication | Osteoarthritis |
 | TxGNN Prediction Score | 98.28% |
-| Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+| Evidence Level | L1 (nominal; see note below) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
+| Recommended Decision | Proceed with Guardrails |
 
----
+*Note: The L1 label comes from the data compiled for this report, but the evidence is weaker than L1 normally implies. Only one Phase 3 trial is registered, its status is unknown, and no verified results are available. By the strict definition (two or more completed Phase 3 RCTs), the evidence would be lower.*
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available for this compound (MOA: Data Gap). Based on the mechanistic rationale extracted from the evidence pack, Sr²⁺ can substitute for Ca²⁺ in bone matrix, stimulating osteoblast proliferation/differentiation while inhibiting osteoclast activity — a mechanism well established for strontium-based compounds (e.g., strontium ranelate) in bone and joint disease.
+Currently, detailed mechanism of action data is not available for strontium chloride. Based on known information, strontium has dual effects on bone remodeling: it stimulates osteoblast-mediated bone formation and inhibits osteoclast-mediated resorption. It has also been reported to influence chondrocyte activity and cartilage matrix synthesis.
 
-The single supporting trial (NCT00954629) tested a **topical strontium chloride hexahydrate** formulation for knee osteoarthritis pain, which is mechanistically consistent with this pathway. However, this evidence pack's drug entity is **strontium chloride (DB13987)**, a different salt form from strontium ranelate, and it has not been confirmed whether the trial's active ingredient is pharmacologically and formulation-wise identical to DB13987. This salt/formulation discrepancy must be resolved before the trial can be treated as direct supporting evidence.
+This gives a plausible link to osteoarthritis, a joint disease involving cartilage degeneration and changes in the underlying bone. The mechanism could therefore support structure-modifying or pain-relieving effects.
 
----
+There are important caveats. The registered trial studied a topical strontium chloride hexahydrate product (2PX), but the registry record has no verified outcome. The available mechanistic reasoning may rely partly on strontium ranelate data, so extrapolating to strontium chloride is unconfirmed. The original indication of the marketed product is also not stated, so the relationship between original and new use cannot be assessed.
+
+Other predictions have much weaker support, with no trials or literature and mechanistic links that appear to be graph artifacts. They are:
+- Osteoarthritis susceptibility
+- Rheumatoid arthritis
+- Hepatic porphyria
+- Gout
+- Pseudoachondroplasia
+- Several rare hepatic and portal conditions
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00954629](https://clinicaltrials.gov/study/NCT00954629) | Phase 3 | Unknown | 300 | 26-week, randomized, double-blind, placebo-controlled study of topical strontium chloride hexahydrate (2PX) vs. vehicle for knee osteoarthritis pain and physical function; result status not verified (trial marked "Unknown"). |
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+| [NCT00954629](https://clinicaltrials.gov/study/NCT00954629) | Phase 3 | Unknown | 300 | 26-week, placebo-controlled, randomised, double-blind study of topical strontium chloride hexahydrate (2PX) for knee osteoarthritis pain. It aims to show superiority over vehicle in reducing pain intensity and improving physical function (2009-06 to 2010-05). No results verified. |
 
 ## India Market Information
 
-Strontium chloride (DB13987) is currently **not marketed** in India, and no license registrations are on record in this dataset.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 29556 | Bentoform Dental Gel (JK Biochem Healthcare Pvt Ltd) | Dental gel, tube of 50 gm | Not stated |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-*Note: Regulatory safety documentation (warnings, contraindications) for this compound has not yet been retrieved and is flagged as a blocking data gap for safety review.*
-
----
+One point from the data is worth noting. Strontium ranelate, a different strontium salt, has been associated with venous thromboembolism risk. Whether this applies to topical strontium chloride is unknown.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The only supporting trial has an unresolved ("Unknown") completion status, and it is unconfirmed whether its active ingredient matches the exact salt form/formulation of DB13987. Combined with the absence of any safety documentation (warnings/contraindications), the candidate cannot yet clear even an initial safety screen (S1).
+A single Phase 3 placebo-controlled trial of topical strontium chloride in knee osteoarthritis offers a reasonable signal. However, the trial status is unknown, no results or publications are available, and the mechanistic reasoning is partly extrapolated from another strontium salt. This supports further investigation, not a full "Go".
 
 **To proceed, the following is needed:**
-- Confirm whether the agent studied in NCT00954629 (topical strontium chloride hexahydrate) is pharmaceutically equivalent to DB13987
-- Retrieve regulatory package insert / safety documentation (warnings, contraindications) — currently a blocking gap for S1 review
-- Obtain a verified MOA reference from DrugBank to substantiate the mechanistic rationale
-- Follow up on NCT00954629 for updated/completed results given its current "Unknown" status
-- Deprioritize rank-2 prediction ("osteoarthritis susceptibility") as it represents a genetic susceptibility marker, not a treatable disease phenotype
+- Retrieve published or registry results for NCT00954629 and confirm its final status
+- Confirm the exact salt form and formulation tested in the trial
+- Obtain the package insert for Bentoform Dental Gel to clarify its approved indication, warnings and contraindications
+- Obtain mechanism of action data for strontium chloride (for example from DrugBank)
+- Assess route compatibility between the existing dental gel and a topical osteoarthritis product
+- Review the safety profile of topical strontium, including the thromboembolism signal seen with strontium ranelate
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

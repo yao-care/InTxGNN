@@ -2,7 +2,7 @@
 layout: default
 title: Fosinopril
 parent: Model Prediction Only (L5)
-nav_order: 377
+nav_order: 381
 evidence_level: L5
 indication_count: 5
 ---
@@ -33,74 +33,76 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Fosinopril is an ACE inhibitor generally used for hypertension and related cardiovascular indications, though no India-specific approved indication text is available in this evidence pack. The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**, but this prediction is currently supported by **no clinical trials and no literature** — it rests on the model score alone.
-
----
+Fosinopril is an ACE inhibitor originally used to treat hypertension.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**,
+but currently there are **no registered clinical trials** and **no relevant publications** supporting this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — Fosinopril is not registered in India (no license/indication text in this evidence pack); generically an ACE inhibitor class drug |
+| Original Indication | Hypertension (hypertensive disorder) |
 | Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.87% |
-| Evidence Level | L5 (model prediction only, no supporting trials/literature) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Fosinopril in this evidence pack. Based on known pharmacological classification, Fosinopril is an angiotensin-converting enzyme (ACE) inhibitor that acts on the renin-angiotensin-aldosterone system (RAAS) to lower blood pressure and provide renal-protective effects — this is a well-established class effect of ACE inhibitors.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, fosinopril belongs to the ACE inhibitor class, its efficacy in hypertension is established, and it may mechanistically be applicable to malignant hypertensive renal disease.
 
-Malignant hypertensive renal disease involves severe, rapidly progressive hypertension with renal damage, mechanistically connected to RAAS dysregulation. The generic "ACEi → hypertension/renal disease" pharmacological link in the knowledge graph likely drives this prediction, but it has not been specialized to the malignant subtype with any direct clinical or literature evidence.
+Malignant hypertensive kidney disease involves severe blood pressure elevation and activation of the renin-angiotensin-aldosterone system (RAAS). Blocking angiotensin-converting enzyme is therefore biologically plausible. However, this prediction is essentially an extension of the approved hypertension indication rather than a true repurposing.
 
-Because no clinical trials, ICTRP registrations, or PubMed literature were found for this specific drug-disease pairing, the mechanistic rationale should be treated as generic class-level plausibility rather than validated evidence.
-
----
+Other high-scoring predictions in the same list are:
+- **Malignant renovascular hypertension** (99.87%): plausible because renal hypoperfusion drives RAAS activation, but caution is needed in bilateral renal artery stenosis because of the risk of acute kidney injury.
+- **Pulmonary hypertension (unclear multifactorial mechanism, and due to lung disease/hypoxia)** (99.87%): the link is indirect, and ACE inhibitors have no established benefit here. Systemic vasodilation may also cause hypotension.
+- **Braddock syndrome** (99.81%): no mechanistic rationale could be established; the score is likely a graph-based artifact.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+No literature supports the top-ranked prediction. For the fourth-ranked prediction (pulmonary hypertension owing to lung disease and/or hypoxia), two publications were retrieved, and neither supports efficacy:
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [9923037](https://pubmed.ncbi.nlm.nih.gov/9923037/) | 1998 | Case report | Rev Mal Respir | Two patients on enalapril or fosinopril for hypertension developed hypoxic eosinophilic pneumonia; a safety signal, not a benefit |
+| [31105790](https://pubmed.ncbi.nlm.nih.gov/31105790/) | 2019 | Preclinical (bioinformatics) | Exp Ther Med | Gene expression analysis in mouse mesangial cells related to diabetic nephropathy; unrelated to pulmonary hypertension |
 
 ## India Market Information
 
-Fosinopril is currently not marketed in India — there are no product license records available (0 registrations).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 89526 | Fosinace 20mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated |
+| Registration No. 89754 | Fosinace 10mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated |
+| Registration No. 88071 | Fovas 20mg Tablet (Cadila Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated |
+| Registration No. 88802 | Fovas 10mg Tablet (Cadila Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated |
 
 ## Safety Considerations
 
-**Drug Interactions**: Fosinopril has 183 recorded interactions in the DDI database. Notable interactions include:
-- **Major**: Potassium bicarbonate, Potassium citrate (potassium-elevating agents — combined with an ACE inhibitor, this raises hyperkalemia risk consistent with known ACEi pharmacology)
-- **Moderate**: multiple corticosteroids (Hydrocortisone, Betamethasone, Budesonide, Triamcinolone, Dexamethasone), antidiabetic agents (Alogliptin, Canagliflozin, Chlorpropamide, Dapagliflozin, Empagliflozin, Metformin, Saxagliptin), Acetylsalicylic acid, Dronabinol, Bupropion, Morphine, Picosulfuric acid, Polyethylene glycol (3350 with electrolytes)
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: kidney disease, liver disease, pancreatitis, gallbladder disease, angioedema (including hereditary and ACE-inhibitor-related forms), systemic lupus erythematosus, diabetes mellitus and diabetic ketoacidosis, potassium deficiency, neutropenia/agranulocytosis, aortic stenosis and aortic valve disease, hypotensive disorder, hyperparathyroidism, hepatic coma/encephalopathy, connective tissue disease, and bone disease.
+- **Drug Interactions**: 183 interactions were recorded. Major-level interactions include **potassium bicarbonate** and **potassium citrate** (risk of hyperkalaemia). Moderate-level interactions include corticosteroids (hydrocortisone, betamethasone, budesonide, triamcinolone, dexamethasone), antidiabetic drugs (metformin, alogliptin, saxagliptin, canagliflozin, dapagliflozin, empagliflozin, chlorpropamide), acetylsalicylic acid, morphine, bupropion, and dronabinol.
+- **Special caution**: in bilateral renal artery stenosis (relevant to the renovascular prediction), ACE inhibition carries a risk of acute kidney injury. A published case report also links ACE inhibitors to hypoxic eosinophilic pneumonia.
 
-No TFDA/label-level key warnings or contraindications data are currently available for this drug (see Data Gap DG001 below).
-
----
+Package insert warnings and contraindications were not available; please refer to the package insert for the official safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a TxGNN model score (L5, no clinical trials or literature), and a blocking data gap on TFDA label warnings/contraindications (DG001) prevents any S1 safety pre-assessment. Fosinopril is also not currently marketed in India, and MOA confirmation is missing (DG002).
+The prediction scores highly in the model (99.87%), but there are no clinical trials or supporting literature, so the evidence level is L5. It is also largely an extension of the approved hypertension indication rather than a new therapeutic direction.
 
 **To proceed, the following is needed:**
-- Resolve DG001: obtain TFDA label warnings and contraindications to enable safety pre-assessment
-- Resolve DG002: confirm mechanism of action via DrugBank query
-- Independent clinical or preclinical evidence specific to malignant hypertensive renal disease (current dataset has zero trials/literature)
-- Clarify original approved indication and any India market entry pathway, since no license records currently exist
+- Package insert warnings and contraindications from the India Pharma website (a blocking gap for safety screening)
+- Mechanism of action data (e.g. from DrugBank)
+- A targeted search for clinical studies of ACE inhibitors in malignant hypertension and hypertensive nephropathy
+- Approved indication text for the four marketed products
+- A review of the safety profile in renal impairment and renal artery stenosis, given the long list of kidney-related and other contraindicated conditions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

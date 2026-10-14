@@ -2,7 +2,7 @@
 layout: default
 title: Pegfilgrastim
 parent: Model Prediction Only (L5)
-nav_order: 647
+nav_order: 653
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,11 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Pegfilgrastim: From G-CSF-Based Neutrophil Support to Severe Nonproliferative Diabetic Retinopathy
+# Pegfilgrastim: From an Unspecified Original Indication to Severe Nonproliferative Diabetic Retinopathy
 
 ## One-Sentence Summary
 
-Pegfilgrastim is a PEGylated granulocyte-colony stimulating factor (G-CSF) analog; the specific original indication and mechanism-of-action text for this candidate were not provided in the current evidence pack (Data Gap DG002). The TxGNN model predicts potential relevance to **severe nonproliferative diabetic retinopathy**, but this prediction is supported by **0 clinical trials** and **0 publications** — it rests entirely on knowledge-graph topology, and the model's own mechanistic rationale flags a plausible risk of harm rather than benefit.
+Pegfilgrastim is a PEGylated recombinant G-CSF analogue marketed in India in 13 single-ingredient injectable products. The licence records compiled for this report do not state an approved indication.
+The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy** (and the broader term **diabetic retinopathy**), but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the model score alone.
 
 ---
 
@@ -41,23 +42,23 @@ Pegfilgrastim is a PEGylated granulocyte-colony stimulating factor (G-CSF) analo
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — `original_indications` and `original_moa` are empty/gapped in this evidence pack (Data Gap DG002) |
+| Original Indication | Not stated in the available licence records |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.89% (rank 2523) |
-| Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| India Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
+| TxGNN Prediction Score | 99.89% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 13 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for this drug is not available in the evidence pack (Data Gap DG002). Based on general pharmacological knowledge, Pegfilgrastim belongs to the G-CSF analog class, whose established biological activity is stimulating proliferation and differentiation of granulocyte precursors — a mechanism with no established connection to retinal vascular biology.
+Currently, detailed mechanism of action data is not available. Based on known information, pegfilgrastim is a long-acting PEGylated form of granulocyte colony-stimulating factor (G-CSF). It stimulates the growth and mobilisation of neutrophils and haematopoietic progenitor cells. Its mechanistic relationship to diabetic retinopathy has not been established.
 
-The evidence pack's own mechanistic rationale is notably cautionary rather than supportive: it notes that G-CSF analogs lack any known anti-angiogenic or retinoprotective mechanism, and that their known properties — mobilizing hematopoietic/progenitor cells, pro-inflammatory signaling, and potential pro-angiogenic activity — could theoretically be **harmful rather than beneficial** in diabetic retinopathy, particularly in the severe nonproliferative stage where progression to proliferative (neovascular) disease is a key risk. The same caution applies to the second-ranked candidate, plain diabetic retinopathy (score 99.73%, rank 5308), where the source evidence explicitly flags a hypothetical risk of aggravating pathological neovascularization.
+Two speculative links can be drawn. First, dysfunction of bone marrow-derived progenitor cells is thought to impair vascular repair in diabetes, and G-CSF might influence this process. Second, neutrophil-mediated inflammation contributes to retinal vascular damage. The second point cuts the other way: G-CSF-induced neutrophilia could worsen retinal inflammation and vascular injury. The direction of effect is therefore unclear.
 
-In short, the high TxGNN score (99.89%) reflects a graph-topology association only (likely via shared inflammation/angiogenesis-related nodes) and should **not** be read as mechanistic support for efficacy. Both candidate indications carry `decision_stage: S0` and `recommendation: Hold` in the source scoring, consistent with this being an exploratory signal rather than a validated hypothesis.
+The two predicted indications (severe nonproliferative diabetic retinopathy and its parent term, diabetic retinopathy) overlap, so they are not independent pieces of evidence. No clinical or preclinical data were available to confirm or refute a therapeutic effect.
 
 ---
 
@@ -75,20 +76,34 @@ Currently no related literature available.
 
 ## India Market Information
 
-Pegfilgrastim is currently not marketed in India under this evidence pack (`market_status: Not marketed`, 0 registrations); no license records are available to summarize.
+All 13 licences are valid single-ingredient injectable products. The licence records do not include approved indication text. The five main authorisations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 173956 | Pegstim Injection (Zydus Cadila) | Prefilled syringe, 0.6 ml injection | Not stated |
+| 87425 | Filcad P Injection (Cadila Pharmaceuticals Ltd) | Prefilled syringe, 0.6 ml injection | Not stated |
+| 206706 | Sfil Peg 6mg Injection (Sarabhai Chemicals Ltd) | Prefilled syringe, injection | Not stated |
+| 174482 | Peg-ReliGrast Injection (Reliance Life Sciences) | Prefilled syringe, injection | Not stated |
+| 151911 | Neupeg 6mg Injection (Intas Pharmaceuticals Ltd) | Vial, injection | Not stated |
+
+---
+
+## Cytotoxicity
+
+Pegfilgrastim is a supportive-care growth factor, not an antineoplastic drug, so a cytotoxicity assessment does not apply.
 
 ---
 
 ## Safety Considerations
 
-**Key warnings and contraindications** are not available in this evidence pack (Data Gap DG001, classified as *Blocking* — this gap alone prevents the candidate from clearing the S1 safety pre-screen).
+- **Drug Interactions**: The interaction screening identified 147 potential interacting drugs. The 20 entries retrieved were all rated **Moderate**. They include:
+  - Cytotoxic and antineoplastic agents such as paclitaxel, mercaptopurine, azacitidine, arsenic trioxide, trimetrexate, altretamine and asparaginase
+  - Targeted agents such as abemaciclib, acalabrutinib and avapritinib
+  - Immunotherapies and biologics such as aldesleukin, alemtuzumab and belantamab mafodotin
+  - Radiopharmaceuticals and radioimmunotherapy agents such as iobenguane (I-131), tositumomab, ibritumomab tiuxetan and fludeoxyglucose (18F)
+  - Others, including levamisole and pegvaliase
 
-**Drug Interactions**: A DDI query returned 147 total interactions (source: ddinter), predominantly rated Moderate. Notable patterns among the interacting agents:
-- **Radiopharmaceutical/imaging agents**: Iobenguane (I-131), Fludeoxyglucose (18F), Ibritumomab tiuxetan, Tositumomab / Tositumomab (I-131) — G-CSF-stimulated marrow activity can interfere with these agents' distribution or imaging/therapeutic accuracy.
-- **Cytotoxic/myelosuppressive chemotherapy agents**: Mercaptopurine, Paclitaxel, Trimetrexate, Altretamine, Arsenic trioxide, Azacitidine, Asparaginase (E. coli) — concurrent use requires attention to timing relative to chemotherapy cycles, per standard G-CSF class labeling practice.
-- **Immunomodulators/targeted agents**: Pegvaliase, Alemtuzumab, Aldesleukin, Acalabrutinib, Abemaciclib, Avapritinib, Belantamab mafodotin, Levamisole — several carry their own myelosuppression or immune-related risk profiles.
-
-This list represents the 20 highest-priority entries out of 147 total; full interaction detail should be reviewed before clinical use.
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -97,13 +112,14 @@ This list represents the 20 highest-priority entries out of 147 total; full inte
 **Decision: Hold**
 
 **Rationale:**
-The candidate has no clinical trial or literature evidence (L5, prediction-only), and the source data's own mechanistic rationale suggests the G-CSF pathway may plausibly worsen rather than treat diabetic retinopathy. Combined with a Blocking data gap on TFDA-equivalent label warnings/contraindications (DG001), this candidate does not meet the bar to proceed.
+The prediction relies entirely on a high model score (99.89%). There are no clinical trials, no literature, and no mechanism of action data. The biological direction of effect is also uncertain, because G-CSF-driven neutrophilia could aggravate retinal inflammation.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label warnings and contraindications (resolves DG001, Blocking)
-- Confirmed original indication and mechanism-of-action data (resolves DG002, High)
-- Preclinical or mechanistic studies specifically evaluating G-CSF pathway effects on retinal vasculature, given the theoretical concern for pro-angiogenic harm
-- Any real-world or case-level evidence of G-CSF exposure in diabetic retinopathy patients, to assess whether the graph-predicted association reflects a genuine signal or confounding
+- Package insert warnings and contraindications for the Indian products, which are required before safety screening can start
+- Confirmed mechanism of action data and the approved indications for the marketed products
+- Preclinical or mechanistic evidence on G-CSF effects in the diabetic retina, including whether the effect is beneficial or harmful
+- A literature and trial search specific to G-CSF or pegfilgrastim and diabetic retinopathy
+- An assessment of whether the injectable route and dosing are compatible with a retinal indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

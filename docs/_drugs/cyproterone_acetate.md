@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cyproterone Acetate
-parent: High Evidence (L1-L2)
-nav_order: 220
-evidence_level: L2
+parent: Moderate Evidence (L3-L4)
+nav_order: 222
+evidence_level: L4
 indication_count: 10
 ---
 
 # Cyproterone Acetate
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Cyproterone Acetate: From Androgen-Dependent Disorders to Amenorrhea (Hyperandrogenic Menstrual Irregularity)
+# Cyproterone Acetate: From Androgen-Dependent Conditions to Migraine Disorder
 
 ## One-Sentence Summary
 
-Cyproterone acetate (CPA) is an antiandrogen/progestogen historically used for androgen-dependent conditions (hirsutism, acne, hyperandrogenism) and as a component of combined oral contraceptives; it is **not currently marketed in Taiwan** (0 registrations). Among 10 TxGNN-predicted indications in this evidence pack, the only one with substantive clinical support is **Amenorrhea**, backed by **4 clinical trials and 14 publications**, including a Phase IV RCT directly testing CPA-containing formulations. The nominal #1 TxGNN-ranked prediction (migraine disorder) and several others (thrombophilia, antithrombin deficiency, Prinzmetal angina) have **no supporting evidence and, on closer review, actively contradict CPA's known prothrombotic safety profile** — these are flagged below rather than promoted.
-
-> **Note on methodology**: This evidence pack contains 10 ranked TxGNN candidates. Rather than mechanically reporting the raw #1 TxGNN score (migraine disorder, L5/L4, no trials, safety-contradictory), this report highlights the candidate with actual decision-relevant evidence (Amenorrhea, L2, S3, "Proceed with Guardrails") and documents the others as screened-out/rejected signals for transparency.
+Cyproterone acetate is a progestogen and antiandrogen, used in androgen-dependent conditions such as prostate cancer, acne and hirsutism in women, and in combined oral contraceptives.
+The TxGNN model predicts it may be effective for **migraine disorder**, but there are **no registered clinical trials** and **3 publications**, none of which show that the drug treats migraine.
+This prediction is a computational signal only and should be treated with caution.
 
 ---
 
@@ -43,96 +43,96 @@ Cyproterone acetate (CPA) is an antiandrogen/progestogen historically used for a
 
 | Item | Content |
 |------|------|
-| Original Indication | Androgen-dependent conditions (hirsutism, acne, PCOS-related hyperandrogenism); chemical castration in prostate cancer/BPH; component of combined oral contraceptives *(sourced from DrugBank pharmacology data — formal `original_indications`/`original_moa` fields are not populated in this pack)* |
-| Predicted New Indication | Amenorrhea (hyperandrogenic menstrual irregularity / PCOS) |
-| TxGNN Prediction Score | 99.28% (score 0.9928; internal rank 11,216) |
-| Evidence Level | L2 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Not stated in the India license records (the drug's general clinical use is androgen-dependent conditions, acne and hirsutism in women, and contraception) |
+| Predicted New Indication | Migraine disorder |
+| TxGNN Prediction Score | 99.66% |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not formally available in this evidence pack (`original_moa` = data gap). However, pharmacology data captured in the DDI record show CPA's primary molecular target is the **Androgen Receptor (AR)**, consistent with its established clinical use as an antiandrogen: it is used for "chemical castration in patients with various androgen-dependent diseases... and is used to treat acne and hirsutism in females," with its progestogen activity also exploited in combined oral contraceptive pills.
+Currently, detailed mechanism of action data is not available. Based on known information, cyproterone acetate is a progestogen and androgen receptor antagonist, widely used in androgen-dependent diseases and in combined contraceptives (often with ethinylestradiol). Its efficacy in these hormone-related conditions is established.
 
-Amenorrhea in the context of PCOS/hyperandrogenism is mechanistically the *least novel* of the 10 candidates — it is essentially an already-established use of CPA (typically as ethinyl estradiol + cyproterone acetate, e.g. Diane-35-type formulations) for correcting menstrual irregularity driven by excess androgen. Suppressing gonadotropin secretion and free testosterone with CPA restores ovarian cyclicity, which explains why this is the only candidate with real trial and literature support.
+Migraine, particularly menstrual and hormone-related migraine, is plausibly sensitive to sex-steroid fluctuation. A review of progestin effects on the brain notes that progestins interact with GABA-A receptors and dopamine and opioid systems, and that cyproterone acetate increases dopaminergic responses and binds opiate receptors independently of its classical action. This offers a loose biological link.
 
-By contrast, the top TxGNN-ranked candidates (migraine disorder, migraine with brainstem aura, Prinzmetal angina, antithrombin deficiency, heparin cofactor 2 deficiency, factor 5 excess with thrombosis, breast fibrocystic disease) have **no clinical trial or literature evidence** in this pack, and several are flagged by the evidence itself as mechanistically **contradictory** — CPA/ethinyl estradiol combinations are well documented to *increase* thromboembolic risk, making them a plausible relative contraindication rather than a treatment opportunity for clotting-disorder-related diagnoses.
+However, no retrieved paper shows that cyproterone acetate treats migraine. Estrogen-containing cyproterone products carry migraine-related vascular warnings, so the direction of effect is uncertain and could be harmful. The high TxGNN score reflects a knowledge-graph association, not demonstrated benefit.
 
----
-
-## Clinical Trial Evidence (Amenorrhea)
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01103518](https://clinicaltrials.gov/study/NCT01103518) | Phase 4 | Unknown | 100 | Randomized, double-blind comparison of two ethinyl estradiol + cyproterone acetate preparations for menstrual irregularities of hyperandrogenic origin |
-| [NCT04831151](https://clinicaltrials.gov/study/NCT04831151) | N/A | Unknown | 42 | Effect of CPA-containing vs. drospirenone-containing combined oral contraceptives on blood metabolomics in PCOS |
-| [NCT02744131](https://clinicaltrials.gov/study/NCT02744131) | N/A | Unknown | 100 | OCP (EE+CPA) vs. metformin for clinical/hormonal/metabolic features of PCOS in Indian women |
-| [NCT02729545](https://clinicaltrials.gov/study/NCT02729545) | Phase 2 | Completed | 60 | Tung's acupuncture vs. Diane-35 (CPA/EE) as control for ovarian function in PCOS (CPA used as active comparator, not primary intervention) |
+Two related predictions, *migraine with brainstem aura* and *migraine with or without aura, susceptibility to*, rest on the same weak basis. The literature for them concerns thrombotic and vascular risk of hormonal contraception, which is a safety signal rather than evidence of benefit.
 
 ---
 
-## Literature Evidence (Amenorrhea)
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+---
+
+## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [2946604](https://pubmed.ncbi.nlm.nih.gov/2946604/) | 1986 | Multicenter Clinical Trial | Fertility and Sterility | Compared low-dose (Diane, 2mg) vs. high-dose (Androcur, 100mg) CPA in 158 patients with severe hirsutism; both effective, similar dropout rates |
-| [9130733](https://pubmed.ncbi.nlm.nih.gov/9130733/) | 1997 | Cohort/Clinical Study | Human Reproduction | GnRH agonist + EE-CPA pill vs. EE-CPA pill alone in PCOD-related hyperandrogenism; evaluated added benefit of GnRH-a |
-| [2528199](https://pubmed.ncbi.nlm.nih.gov/2528199/) | 1989 | Review | Rev Fr Gynecol Obstet | CPA identified as the most effective available antiandrogen for skin hyperandrogenism; recommends co-prescribing estrogen to prevent amenorrhea |
-| [6232474](https://pubmed.ncbi.nlm.nih.gov/6232474/) | 1984 | Review | Obstet Gynecol Annual | Review of polycystic ovarian disease management |
-| [17162716](https://pubmed.ncbi.nlm.nih.gov/17162716/) | 2006 | Case Report | Gynecol Endocrinol | Hormonal therapy inducing therapeutic amenorrhea used to manage recurrent catamenial pneumothorax |
-| [1589384](https://pubmed.ncbi.nlm.nih.gov/1589384/) | 1992 | Case Report | Postgrad Med J | CPA + ethinyl estradiol used for 3 years to manage hirsutism/secondary amenorrhea from androgen-producing adrenal adenomas |
-| [2137793](https://pubmed.ncbi.nlm.nih.gov/2137793/) | 1990 | Case Series | Fertility and Sterility | GnRH agonist + antiandrogen therapy reversed hirsutism while preserving fertility in familial virilization syndrome |
-| [23365131](https://pubmed.ncbi.nlm.nih.gov/23365131/) | 2013 | Case Report | J Clin Endocrinol Metab | Virilizing ovarian tumor case in McCune-Albright syndrome |
-| [35592826](https://pubmed.ncbi.nlm.nih.gov/35592826/) | 2022 | Case Report | Ann Med Surg | Congenital adrenal hyperplasia (21-hydroxylase deficiency) presenting with virilization in adolescence |
-| [12266391](https://pubmed.ncbi.nlm.nih.gov/12266391/) | 1984 | Review | J Bras Ginecol | Review of a new ovulation-inhibitor antiandrogen |
+| [14670648](https://pubmed.ncbi.nlm.nih.gov/14670648/) | 2003 | Review | Maturitas | Progestins interact with GABA-A receptors and dopamine and opioid systems; cyproterone acetate increases dopaminergic responses and binds opiate receptors. Mechanistic background only. |
+| [12390622](https://pubmed.ncbi.nlm.nih.gov/12390622/) | 2002 | Cohort | Headache | Compared three oral hormone replacement schemes and their effects on migraine in postmenopausal women; not specific to cyproterone acetate. |
+| [10857213](https://pubmed.ncbi.nlm.nih.gov/10857213/) | 2000 | Review | Zentralblatt fur Gynakologie | Long-term side effects of cyproterone acetate-containing therapy in gynecology, including discussion of mutagenic potential; no migraine efficacy data. |
 
 ---
 
-## Screened-Out TxGNN Candidates (No Evidence or Safety-Contradictory)
+## India Market Information
 
-For transparency, the remaining 9 predicted indications from this evidence pack were reviewed and **not** advanced, despite high TxGNN scores:
+Cyproterone acetate has 20 valid single-ingredient registrations; the license records provide no approved indication text. Five main authorizations:
 
-| Rank | Disease | TxGNN Score | Evidence | Why Rejected |
-|------|---------|------|------|------|
-| 1 | Migraine disorder | 99.66% | 3 literature (no trials) | Indirect hormone-therapy literature only; CPA/estrogen combinations are a relative contraindication in migraine with aura due to vascular risk |
-| 2 | Migraine with brainstem aura | 99.58% | None | No evidence; hormonal combinations are contraindicated in this migraine subtype |
-| 3 | Prinzmetal angina | 99.52% | None | No evidence; no known mechanistic link (coronary vasospasm) |
-| 4 | Antithrombin deficiency type 2 | 99.48% | None | **Mechanism-contradictory** — CPA/OC combinations increase thrombosis risk; relative contraindication, not a treatment opportunity |
-| 5 | Heparin cofactor 2 deficiency | 99.45% | None | Same as above |
-| 6 | Factor 5 excess with spontaneous thrombosis | 99.45% | None | Same as above (Factor V Leiden interaction documented as risk-additive) |
-| 7 | Migraine susceptibility | 99.34% | None | Genetic susceptibility marker, not a treatable indication |
-| 9 | Breast fibrocystic disease | 99.15% | None | Plausible mechanism (progestogen effect) but zero supporting evidence |
-| 10 | Thrombophilia | 99.03% | 18 literature (all reverse-signal) | **Mechanism-contradictory** — all 18 papers document CPA/EE combinations *increasing* venous/arterial thromboembolic risk (APC resistance, thrombin generation); this is a safety signal, not a repurposing opportunity |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 40795 | Carrol Tablet | Strip of 10 tablets | Not stated |
+| Registration No. 35019 | Carpela Tablet | Strip of 21 tablets | Not stated |
+| Registration No. 59882 | Dianette 2mg/0.035mg Tablet | Strip of 21 tablets | Not stated |
+| Registration No. 74045 | Estranon Tablet | Strip of 21 tablets | Not stated |
+| Registration No. 94234 | Ginette 35 Tablet | Strip of 21 tablets | Not stated |
+
+---
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Hormonal antiandrogen (not a conventional cytotoxic); used in prostate cancer palliation |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert warnings and precautions (liver function is commonly monitored with this drug) |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-**Formal `key_warnings` and `contraindications` fields are not populated in this evidence pack (data gap) — please refer to the package insert for official safety information.**
-
-**Important Safety Signal (from literature evidence, not formal safety fields):** Across the "thrombophilia" candidate's 18 associated publications, CPA-containing combined hormonal formulations (particularly with ethinyl estradiol) are consistently associated with **increased venous and arterial thromboembolic risk** — including deep vein thrombosis, cerebral venous sinus thrombosis, and interaction with inherited thrombophilia (e.g., Factor V Leiden). This should be treated as a safety caution for any CPA use, including the amenorrhea/PCOS indication discussed above.
-
-**Drug Target Data:** CPA's primary pharmacological target is the Androgen Receptor (AR, human), confirming its antiandrogen mechanism (CAS 427-51-0). No formal DDI severity level was returned for this record.
+- **Drug Interactions**: The interaction query completed with one pharmacology entry, the drug's own target, the androgen receptor (an antagonist action rather than a drug-drug interaction). No other drug-drug interactions were found.
+- **Thrombosis signal from the literature**: Retrieved papers consistently link cyproterone acetate-containing products, mainly combined with ethinylestradiol, to increased venous thromboembolism risk and prothrombotic changes, with larger effects in factor V Leiden carriers.
+- **Migraine-specific concern**: Migraine with aura is a recognised risk factor and contraindication for estrogen-containing hormonal products, so use in migraine may be harmful.
+- Package insert warnings and contraindications were not available. Please refer to the package insert for complete safety information.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails** (for the Amenorrhea/PCOS indication only)
+**Decision: Hold**
 
 **Rationale:**
-- One Phase IV RCT plus a consistent body of cohort and case evidence supports CPA (as EE+CPA combinations) for correcting hyperandrogenic amenorrhea/menstrual irregularity — this is largely an extension of already-documented antiandrogen/contraceptive use rather than a novel mechanism.
-- Thromboembolic risk is a well-documented safety guardrail that must accompany any use recommendation.
-- All other TxGNN-predicted indications in this pack (migraine, Prinzmetal angina, thrombophilia-related disorders, breast fibrocystic disease) lack supporting evidence and, for the clotting-disorder predictions, are mechanistically contradicted by CPA's known prothrombotic profile — these should remain on **Hold**.
+The prediction rests on a computational score alone. No trials exist, and the literature offers only loose mechanistic background and safety signals. Because estrogen-containing cyproterone products carry vascular and migraine-related warnings, the risk could outweigh any benefit.
 
 **To proceed, the following is needed:**
-- Official TFDA/CDSCO package insert warnings and contraindications (currently a Blocking data gap per `DG001`)
-- Formal mechanism-of-action documentation (`DG002`)
-- A thrombosis-risk-focused safety review before any amenorrhea/PCOS repurposing pathway advances past S3
-- Confirmation that no Taiwan marketing authorization currently exists (0 registrations recorded) before any regulatory pathway planning
+- Package insert warnings and contraindications from the India regulatory source
+- Mechanism of action data (for example from DrugBank)
+- Evidence on cyproterone acetate alone (without estrogen) in hormone-related migraine
+- A benefit-risk assessment addressing thrombotic and stroke risk in people with migraine, especially with aura
+
+**Other predictions in this run:**
+- *Amenorrhea (irregular cycles of hyperandrogenic origin)* is the best supported (L3), with one Phase 4 trial (NCT01103518, 100 participants, status unknown) and older hirsutism and hyperandrogenism studies. It is better viewed as a symptom of an already established use than as a new target.
+- *Breast fibrocystic disease* has limited, old evidence (L3) and remains on Hold.
+- The thrombosis-related predictions (thrombophilia, antithrombin deficiency type 2, heparin cofactor 2 deficiency, factor 5 excess, Prinzmetal angina) reflect harm or no evidence, and should not be pursued as therapeutic targets.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

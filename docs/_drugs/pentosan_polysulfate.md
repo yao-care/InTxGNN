@@ -2,7 +2,7 @@
 layout: default
 title: Pentosan Polysulfate
 parent: Model Prediction Only (L5)
-nav_order: 650
+nav_order: 656
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,70 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Pentosan Polysulfate: From Unspecified Original Indication to Primary Release Disorder of Platelets
+# Pentosan Polysulfate: From Interstitial Cystitis to Primary Release Disorder of Platelets
 
 ## One-Sentence Summary
 
-Pentosan polysulfate (DB00686)'s original approved indication is not on record in this evidence pack, and its formal mechanism of action is also unavailable. The TxGNN model predicts a possible link to **primary release disorder of platelets**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a knowledge-graph score only, with no clinical or literature corroboration.
-
----
+Pentosan polysulfate is a heparin-like sulfated polysaccharide, originally used to treat **interstitial cystitis**.
+The TxGNN model predicts it may be effective for **primary release disorder of platelets**, but **no clinical trials and no publications** currently support this prediction.
+The prediction rests on the model score alone, and the available data point to a bleeding-risk concern rather than a therapeutic signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no record in evidence pack) |
+| Original Indication | Interstitial cystitis |
 | Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 99.71% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 6 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for pentosan polysulfate (flagged as a High-severity data gap). Based on known pharmacology, PPS is a heparin-like sulfated polysaccharide with anticoagulant / antiplatelet-adhesion activity — a property reflected in its extensive drug interaction profile with anticoagulants and antiplatelet agents (see Safety Considerations below).
+Currently, detailed mechanism of action data is not available. Based on known information, pentosan polysulfate is a heparin-like sulfated polysaccharide with weak anticoagulant activity. It is established in interstitial cystitis, but no mechanism has been verified that would apply to a platelet disorder.
 
-This is where the prediction runs into a mechanistic problem rather than support: **primary release disorder of platelets is a bleeding disorder** caused by defective platelet granule release, where the clinical goal is to *promote* hemostasis. PPS's anticoagulant/antiplatelet mechanism points in the *opposite* direction — toward reduced clotting, not enhanced clotting. The TxGNN link likely arises from shared graph neighbors (e.g., glycosaminoglycan-binding proteins or platelet-surface receptors) rather than a therapeutically coherent mechanism.
+The connection to the new indication is weak. A platelet release (secretion) defect involves impaired granule release by platelets. A drug with anticoagulant properties would be expected to worsen, not improve, a bleeding tendency. The prediction is probably driven by shared coagulation and haemostasis neighbours in the knowledge graph rather than a true therapeutic effect.
 
-The same directional conflict applies to the model's second- and third-ranked candidates — Glanzmann thrombasthenia (rank 2, score 99.65%) and pseudo-von Willebrand disease (rank 3, score 99.62%) — both also bleeding disorders where PPS's antithrombotic activity would be mechanistically counterproductive, and both similarly lack any clinical trial or literature support. This mismatch, combined with a complete absence of empirical evidence, means the prediction should be treated as a hypothesis-generation signal only, not as reasonable grounds for clinical consideration at this time.
-
----
+The other two top predictions, Glanzmann thrombasthenia (99.65%) and pseudo-von Willebrand disease (99.62%), also have no supporting trials or literature. Pseudo-von Willebrand disease has a theoretical link, since sulfated polysaccharides can interact with VWF/GPIb binding. However, the direction of any effect is unknown and would need preclinical validation.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 176373 | Pentossan 100 Capsule (AMPS Biotech Pvt Ltd) | Bottle of 90 capsules | – |
+| 34200 | Cystopen Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 10 capsules | – |
+| 34943 | Comfora Capsule (Swati Spentose Pvt Ltd) | Strip of 10 capsules | – |
+| 178096 | Pentossan 100 Capsule (AMPS Biotech Pvt Ltd) | Strip of 10 capsules | – |
+| 84495 | For-IC Capsule (Cipla Ltd) | Strip of 10 capsules | – |
+
+All six registrations are single-ingredient oral capsules and all are valid. A sixth registration (36228, Comfora Capsule, bottle of 90 capsules, Swati Spentose Pvt Ltd) is not shown in the table above. The approved indication text is not available in the compiled data.
 
 ## Safety Considerations
 
-- **Drug Interactions**: 58 documented interactions (source: DDInter), all rated **Moderate** severity. The large majority involve anticoagulants, antiplatelet agents, and thrombolytics — e.g., Warfarin, Apixaban, Edoxaban, Betrixaban, Clopidogrel, Cilostazol, Dipyridamole, Alteplase, Anistreplase, Bivalirudin, Cangrelor, Dalteparin, Abciximab, Acetylsalicylic acid — consistent with PPS's own antithrombotic activity and pointing to an additive bleeding-risk profile. This reinforces the mechanistic concern above: combining PPS with these agents in a patient who already has a bleeding-tendency platelet disorder would compound rather than mitigate hemorrhagic risk.
+- **Contraindications (from drug-disease associations in the knowledge graph, not label text)**: liver disease, gallbladder disease, thrombocytopenia, blood coagulation disease, hemophilia, heparin-induced thrombocytopenia.
+- **Drug Interactions**: 58 interactions recorded. The 20 retrieved are all Moderate and mostly involve agents affecting coagulation or platelet function, which suggests additive bleeding risk. Examples:
+  - Antiplatelet agents: acetylsalicylic acid, clopidogrel, cilostazol, dipyridamole, abciximab, cangrelor
+  - Anticoagulants: warfarin, apixaban, edoxaban, betrixaban, dalteparin, bivalirudin, antithrombin III
+  - Thrombolytics: alteplase, anistreplase
+  - Others: defibrotide, caplacizumab, ibritumomab tiuxetan, tositumomab
 
-Detailed key warnings and contraindications are not yet available (TFDA/label data gap, flagged as Blocking) — please refer to the package insert once available for full safety information.
-
----
+The knowledge-graph contraindications (coagulation disorders, hemophilia, thrombocytopenia) overlap directly with the bleeding-related conditions proposed as new indications. Please also refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a TxGNN knowledge-graph score (L5, no clinical or literature evidence), and the drug's known antithrombotic pharmacology is mechanistically opposed to the therapeutic goal of the top three predicted indications (all bleeding disorders requiring pro-hemostatic, not anticoagulant, intervention). The drug is also not currently marketed in India (0 registrations), so there is no local regulatory or market foothold to build on.
+The prediction is supported only by a model score (Evidence Level L5), with no trials or publications. The drug's anticoagulant properties and the contraindication signals for coagulation disorders make a benefit in a platelet release disorder mechanistically implausible and potentially harmful.
 
 **To proceed, the following is needed:**
-- Formal mechanism-of-action data from DrugBank (currently a High-severity gap)
-- TFDA/label safety data — warnings and contraindications (currently a Blocking gap; required before any S1 safety screening)
-- Preclinical or mechanistic literature specifically testing PPS in platelet-release or GPIIb/IIIa-related bleeding disorders, to confirm or refute the directional mechanistic conflict noted above
-- Confirmation of original approved indication(s) for this drug, to properly assess indication-to-indication relevance
+- Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)
+- Mechanism of action data (e.g., from DrugBank)
+- Preclinical validation, such as platelet function and VWF/GPIb binding assays, particularly for pseudo-von Willebrand disease
+- A review of whether the prediction is a graph-based artifact before any clinical consideration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

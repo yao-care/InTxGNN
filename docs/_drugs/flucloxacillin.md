@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Flucloxacillin
-parent: Model Prediction Only (L5)
-nav_order: 354
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 357
+evidence_level: L4
 indication_count: 10
 ---
 
 # Flucloxacillin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,27 +33,26 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Flucloxacillin is a narrow-spectrum, penicillinase-resistant β-lactam antibiotic traditionally used against susceptible staphylococcal and streptococcal infections. The TxGNN model predicts it may be effective for **Conjunctivitis**, but this is currently supported only by **0 clinical trials** and **2 indirect publications**, none of which studied flucloxacillin for this indication directly.
+Flucloxacillin is an anti-staphylococcal penicillin antibiotic, marketed in India in injectable and oral forms.
+The TxGNN model predicts it may be effective for **conjunctivitis**, but **no clinical trials** and only **1 publication** (a case report on a different pathogen) are available, so the prediction is essentially unsupported by clinical evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally recorded (data gap); pharmacologically, staphylococcal/streptococcal infections based on drug class |
+| Original Indication | Not stated in the available licence data (anti-staphylococcal antibacterial use) |
 | Predicted New Indication | Conjunctivitis |
 | TxGNN Prediction Score | 99.84% |
-| Evidence Level | L4 (mechanism-based, no direct clinical evidence) |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 7 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data for flucloxacillin is not available from DrugBank (flagged as a High-severity data gap). Based on known pharmacological classification, flucloxacillin is a narrow-spectrum, penicillinase-resistant isoxazolyl penicillin with established antibacterial activity against *Staphylococcus aureus* and other Gram-positive organisms.
+Currently, detailed mechanism of action data is not available. Based on known information, flucloxacillin is a penicillinase-resistant penicillin, a class that acts against susceptible Gram-positive bacteria, particularly *Staphylococcus aureus*. Mechanistically it may be applicable to bacterial conjunctivitis caused by susceptible Gram-positive organisms.
 
-Bacterial conjunctivitis can be caused by *S. aureus* and related organisms, so there is a plausible general antibacterial-spectrum rationale for flucloxacillin's activity in this setting. However, this is a class-level extrapolation rather than indication-specific pharmacological evidence — nothing in the evidence pack directly links flucloxacillin's mechanism to ocular/conjunctival tissue penetration or efficacy.
-
-Importantly, the two literature items identified both discuss conjunctivitis only as a secondary or prodromal clinical feature of unrelated conditions (staphylococcal scalded skin syndrome; atypical herpes simplex presentations) rather than as a treatment target for flucloxacillin itself. The TxGNN graph-based score is therefore likely capturing a co-occurrence signal (staphylococcal disease ↔ conjunctivitis) rather than direct treatment evidence, which is consistent with the model's own L4/Hold classification for this candidate.
+However, the only retrieved publication concerns gonococcal dacryoadenitis, which involves a different pathogen (*Neisseria gonorrhoeae*) and a different site (the lacrimal gland). It does not support flucloxacillin use. The high model score is therefore not backed by clinical evidence. A second, duplicate ontology entry ("conjunctivitis (disease)", score 99.69%) rests on the same single case report and should be considered together with this one.
 
 ## Clinical Trial Evidence
 
@@ -63,29 +62,38 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [12627992](https://pubmed.ncbi.nlm.nih.gov/12627992/) | 2003 | Review | American Journal of Clinical Dermatology | Reviews staphylococcal scalded skin syndrome (SSSS); notes conjunctivitis as a prodromal symptom, not a flucloxacillin treatment study |
-| [1286123](https://pubmed.ncbi.nlm.nih.gov/1286123/) | 1992 | Review/Case report | International Journal of STD & AIDS | Reviews atypical presentations of herpes simplex virus infection; abstract unavailable, no direct relevance to flucloxacillin established |
+| [41884366](https://pubmed.ncbi.nlm.nih.gov/41884366/) | 2026 | Case report | Case Reports in Ophthalmology | Gonococcal dacryoadenitis, a rare lacrimal gland involvement in *N. gonorrhoeae* conjunctivitis; not relevant to flucloxacillin efficacy |
 
-## Taiwan Market Information
+## India Market Information
 
-Flucloxacillin currently has no marketing authorization records in Taiwan (0 registrations, status: Not marketed/Not Marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 202133 | Staphonex Injection | Vial of 1 injection | Not listed |
+| 88197 | Flulen Injection | Vial of 1 injection | Not listed |
+| 201576 | Staphonex Injection | Vial of 1 injection | Not listed |
+| 203436 | Staflowin Injection | Vial of 1 injection | Not listed |
+| 203115 | Staflowin 500mg Injection | Vial of 1 injection | Not listed |
+
+Two further registrations exist (7 in total): Staphonex 500mg Capsule (200101, strip of 4 capsules) and Stafocid 1G Injection (202440, vial of 1 injection). All 7 are valid single-ingredient products. Available routes are injectable and oral.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Note: TFDA label warnings/contraindications and DDI database results were not retrievable at time of this report — see Conclusion below.)
+No drug interaction records were found for flucloxacillin in the data compiled for this report. Please refer to the package insert for safety information.
+
+Other predicted indications surfaced safety signals in the literature that are worth noting: case reports describe agranulocytosis with long-term flucloxacillin use and a fatal Stevens-Johnson syndrome/toxic epidermal necrolysis case in which flucloxacillin or doxycycline was suspected. One small study in rheumatoid arthritis patients found no clinically significant pharmacokinetic interaction between flucloxacillin and methotrexate.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The conjunctivitis prediction rests on L4 (mechanism/graph-inference) evidence only, with no clinical trials and no literature directly evaluating flucloxacillin for this indication. The drug also has no current market presence in Taiwan and a blocking gap in TFDA safety data, which prevents any safety pre-assessment (S1 stage).
+The prediction rests on model output alone, since no trials exist and the single publication concerns a different pathogen and site. A plausible antibacterial rationale exists for susceptible Gram-positive conjunctivitis, but it is unproven here, and other conjunctivitis therapies are already established.
 
 **To proceed, the following is needed:**
-- TFDA product label (warnings/contraindications) — blocking gap, required before S1 safety review
-- DrugBank mechanism of action detail — required for mechanistic-relevance analysis
-- Indication-specific preclinical or clinical data on flucloxacillin in bacterial conjunctivitis
-- Complete DDI database query (current query failed due to missing local DDInter data file)
+- Package insert warnings and contraindications from the India regulatory source (currently blocking safety screening)
+- Approved indication text for the registered products
+- Mechanism of action data from DrugBank
+- Clinical or microbiological evidence for flucloxacillin in Gram-positive bacterial conjunctivitis, including ocular penetration data and route suitability (the available formulations are oral and injectable, not ophthalmic)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

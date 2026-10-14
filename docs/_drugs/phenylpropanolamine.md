@@ -2,15 +2,15 @@
 layout: default
 title: Phenylpropanolamine
 parent: Moderate Evidence (L3-L4)
-nav_order: 659
-evidence_level: L3
+nav_order: 666
+evidence_level: L4
 indication_count: 5
 ---
 
 # Phenylpropanolamine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **5** 
+Evidence Level: **L4** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L3** | Predicted Indications: **5**
 
 </div>
 
-# Phenylpropanolamine: From Nasal Decongestion to Nasal Cavity Disease
+# Phenylpropanolamine: From Allergic Rhinitis to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-Phenylpropanolamine (PPA, DrugBank DB00397) is a sympathomimetic amine historically used as a nasal decongestant and, in some markets, an appetite suppressant; it is not currently marketed in Taiwan and no TFDA license record exists in this evidence pack.
-The TxGNN model's top prediction — **Nasal Cavity Disease** — largely restates this known original use rather than identifying a genuinely novel indication, and is currently supported by **1 clinical trial** (testing a different drug) and **3 publications** (1 direct human comparative study, 2 animal models).
-Four additional lower-ranked predictions (acute laryngopharyngitis, rosacea conjunctivitis, faucial diphtheria, cervical disc degenerative disorder) have **no clinical or literature evidence** and are flagged in the source rationale as likely knowledge-graph noise or, at best, weak mechanistic analogy.
+Phenylpropanolamine is a sympathomimetic decongestant, originally used for allergic rhinitis, the common cold and related upper airway and conjunctival conditions.
+The TxGNN model predicts it may be effective for **nasal cavity disease**, but the support is thin: **no registered clinical trials** and only **3 publications** (one comparative clinical pharmacology study and two preclinical animal studies).
+Its serious safety history (hemorrhagic stroke risk) calls for strong caution.
 
 ---
 
@@ -43,31 +43,32 @@ Four additional lower-ranked predictions (acute laryngopharyngitis, rosacea conj
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this evidence pack (Taiwan: not marketed, no license records). Mechanistic evidence indicates PPA's classic historical use is as a nasal decongestant. |
-| Predicted New Indication | Nasal Cavity Disease |
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, and conjunctivitis (atopic, papillary, vernal). The India licence records contain no approved-indication text. |
+| Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L3 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed, regulatory-grade mechanism-of-action documentation for PPA is not available in this evidence pack (flagged as a data gap, DG002). Based on the mechanistic rationale collected alongside the top prediction, PPA is described as a direct-acting α-adrenergic receptor agonist that constricts nasal mucosal vascular smooth muscle — the classic pharmacological basis for a nasal decongestant.
+Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, phenylpropanolamine is a direct- and indirect-acting sympathomimetic. It causes alpha-adrenergic vasoconstriction of nasal mucosal blood vessels, which reduces swelling and congestion.
 
-Importantly, the evidence pack itself notes that this mechanism represents PPA's **historical original use category**, not a novel repurposing target: the "prediction" of nasal cavity disease is essentially a rediscovery of well-established pharmacology rather than new therapeutic ground. This should temper enthusiasm about the score despite its high magnitude (99.98%), since TxGNN is confirming known biology rather than surfacing an unexpected signal.
+Its original indications (allergic and vasomotor rhinitis, nasopharyngitis, the common cold) are largely nasal conditions. "Nasal cavity disease" is a broad category that overlaps heavily with them, so this prediction looks more like a natural extension of existing use than a truly new indication. The mechanism, reducing mucosal congestion, would plausibly apply across this category.
 
-The remaining four predicted indications (laryngopharyngitis, rosacea conjunctivitis, faucial diphtheria, cervical disc degeneration) either rely on distant mechanistic analogy (e.g., comparison to brimonidine's use in rosacea) or have **no plausible pathophysiological link** to α-adrenergic vasoconstriction (faucial diphtheria is a bacterial infection; cervical disc degeneration is a structural orthopedic condition). The source rationale explicitly characterizes these as probable knowledge-graph artifacts.
+The other predictions are weaker:
+- **Acute laryngopharyngitis** (99.98%) is a close extension of the existing pharyngitis indications, supported only by the model.
+- **Rosacea conjunctivitis** (99.19%) could theoretically benefit from reduced redness, but its cause (chronic inflammation, meibomian gland dysfunction) is not addressed by a decongestant.
+- **Faucial diphtheria** and **cervical disc degenerative disorder** (about 99%) have no plausible mechanistic link and are likely artifacts of the knowledge graph.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01364467](https://clinicaltrials.gov/study/NCT01364467) | Phase 2 | Completed | 30 | Randomized, placebo-controlled pilot trial of oral **guaifenesin** (not PPA) for pediatric chronic rhinitis symptom relief. Relevance graded **C**: same disease domain but does not directly test PPA — contextual evidence only. |
+Currently no related clinical trials registered.
 
 ---
 
@@ -75,23 +76,33 @@ The remaining four predicted indications (laryngopharyngitis, rosacea conjunctiv
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [11345158](https://pubmed.ncbi.nlm.nih.gov/11345158/) | 2001 | Cohort/Comparative (Tier 1) | American Journal of Rhinology | Direct comparison of oral/topical decongestant effects of PPA vs. d-pseudoephedrine using acoustic rhinometry; establishes PPA's measurable effect on nasal cavity dimensions/architecture. |
-| [10582116](https://pubmed.ncbi.nlm.nih.gov/10582116/) | 1999 | Animal model (feline), Tier 3 | American Journal of Rhinology | Characterizes nasal airway resistance changes in a compound 48/80-induced feline nasal congestion model; establishes the pharmacology platform later used to test decongestants. |
-| [10582118](https://pubmed.ncbi.nlm.nih.gov/10582118/) | 1999 | Animal model, Tier 3 | American Journal of Rhinology | Combined H1/H3 histamine receptor blockade produces nasal decongestion in the same experimental congestion model; mechanistic supporting context, not a direct PPA study. |
+| [11345158](https://pubmed.ncbi.nlm.nih.gov/11345158/) | 2001 | Comparative clinical pharmacology study | American Journal of Rhinology | Compared the oral and topical decongestant effects of phenylpropanolamine and d-pseudoephedrine, using acoustic rhinometry to measure changes in nasal cavity dimensions. |
+| [10582118](https://pubmed.ncbi.nlm.nih.gov/10582118/) | 1999 | Preclinical (animal) | American Journal of Rhinology | Combined histamine H1 and H3 receptor blockade produced nasal decongestion in a cat model of nasal congestion. |
+| [10582116](https://pubmed.ncbi.nlm.nih.gov/10582116/) | 1999 | Preclinical (animal) | American Journal of Rhinology | Described pressure and acoustic rhinometry for measuring nasal patency in a feline congestion model. |
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-Phenylpropanolamine currently holds no marketing authorization in Taiwan (market status: Not marketed / Not marketed; 0 registered licenses). No license or product data is available to summarize.
+All 20 registrations are valid single-ingredient licences. The data contain no approved-indication text. The main authorizations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 62698 | Dexovik Syrup | Syrup, 100 ml bottle | Not stated |
+| 223808 | Tussiz P Syrup | Syrup, 60 ml bottle | Not stated |
+| 219285 | Triatussic 12.5 mg/2 mg/10 mg Tablet | Tablet, strip of 10 | Not stated |
+| 46398 | Chericold Capsule | Capsule, strip of 10 | Not stated |
+| 223840 | Tritus Plus Suspension | Suspension, 50 ml bottle | Not stated |
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: 176 documented interactions on file. Notable **Major**-severity interactions include Bupropion, Lorcaserin, Diethylpropion, and Phentermine (all sympathomimetic/CNS-active agents with additive pressor or serotonergic/adrenergic risk). Numerous **Moderate**-severity interactions were also identified with antidiabetic agents (e.g., Metformin, Acarbose, Alogliptin, Canagliflozin, Dapagliflozin, Empagliflozin, Pioglitazone, Repaglinide, Chlorpropamide, Linagliptin, Dulaglutide, Albiglutide) and bowel-prep agents (Picosulfuric acid, PEG-electrolyte solutions), consistent with PPA's sympathomimetic/glycemic effects.
+- **Cardiovascular and stroke risk**: Phenylpropanolamine has been withdrawn or restricted in many markets because of hemorrhagic stroke risk. Any repurposing would need strong guardrails.
+- **Disease associations flagged in the knowledge graph** (not label text): hypertension and hypotensive disorders, liver failure and liver disease, kidney disease, epilepsy, insomnia, COPD, pancreatitis, gallbladder disease, thrombocytopenia, hypothyroidism, peptic ulcer disease, inflammatory bowel disease, benign prostatic hyperplasia, gout, substance abuse/dependence, and several blood and iron-metabolism disorders (sickle cell anemia, hemophilia, hemochromatosis, Wilson disease).
+- **Drug interactions**: 176 interactions were identified. Major-level ones include **bupropion, lorcaserin, diethylpropion and phentermine**. Moderate-level ones include epinephrine, isometheptene, and several antidiabetic drugs (e.g., metformin, pioglitazone, empagliflozin, dapagliflozin, repaglinide, acarbose).
 
-Detailed TFDA-sourced key warnings and contraindications are not available in this evidence pack (data gap DG001, severity: Blocking) — please refer to the package insert once available. Note also that PPA carries a well-established international regulatory history of hemorrhagic stroke risk that led to withdrawal in several markets; this should be independently verified against TFDA/regulatory sources before any further evaluation, as it is not captured in the structured safety data here.
+Package insert warnings and contraindications were not available, so please refer to the package insert for full safety information.
 
 ---
 
@@ -100,14 +111,14 @@ Detailed TFDA-sourced key warnings and contraindications are not available in th
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (nasal cavity disease) mechanistically restates PPA's known original use rather than identifying novel therapeutic ground, is not supported by any completed trial directly testing PPA, and the drug is not currently marketed in Taiwan. A blocking data gap (missing TFDA warnings/contraindications) prevents even an initial safety screen (S1), and the four remaining predicted indications lack any supporting clinical or literature evidence, with two flagged as probable false positives.
+The evidence is limited to one comparative pharmacology study and two animal studies, with no registered clinical trials. The nasal cavity prediction largely overlaps with existing rhinitis indications. The drug's stroke and cardiovascular risks are a major concern.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent) package insert data: key warnings, contraindications (currently blocking)
-- Formal DrugBank/MOA documentation to confirm mechanism-relevance claims
-- A direct PPA (not guaifenesin) clinical trial or comparative study in a defined nasal cavity disease population
-- Independent verification of PPA's historical cardiovascular/hemorrhagic stroke safety profile against current regulatory sources
-- Re-evaluation of lower-ranked candidates (ranks 2–5) only if new clinical or literature evidence emerges — current mechanistic links are too weak to justify progression
+- Mechanism of action data
+- Package insert warnings and contraindications for the India-marketed products
+- Controlled clinical trial data in nasal cavity disease
+- A benefit-risk assessment focused on hemorrhagic stroke and blood pressure effects, with a plan for excluding high-risk patients
+- Approved indication text for the India licences, to clarify how far the prediction goes beyond current use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

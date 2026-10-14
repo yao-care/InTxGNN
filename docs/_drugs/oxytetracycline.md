@@ -2,7 +2,7 @@
 layout: default
 title: Oxytetracycline
 parent: Model Prediction Only (L5)
-nav_order: 628
+nav_order: 634
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Oxytetracycline is a broad-spectrum tetracycline-class antibiotic; no original-indication or product license data is currently on file in this Evidence Pack (drug is unlicensed/not marketed in India). The TxGNN model predicts potential efficacy for **Chronic Rhinosinusitis**, but this specific prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model-driven hypothesis.
+Oxytetracycline is a tetracycline-class antibiotic, originally used for bacterial infections such as urinary tract infection, bronchitis, pneumonia, and conjunctivitis.
+The TxGNN model predicts it may be effective for **chronic rhinosinusitis**, but **no clinical trials and no publications** currently support this specific prediction, so it rests on model output alone.
 
 ---
 
@@ -41,23 +42,23 @@ Oxytetracycline is a broad-spectrum tetracycline-class antibiotic; no original-i
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented (no license/registry record on file — see note below) |
-| Predicted New Indication | Chronic Rhinosinusitis |
+| Original Indication | Bacterial infections (e.g., urinary tract infection, bronchitis, pneumonia, conjunctivitis); the license records compiled do not include indication wording |
+| Predicted New Indication | Chronic rhinosinusitis |
 | TxGNN Prediction Score | 99.61% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in this Evidence Pack (`original_moa: [Data Gap]`). Based on established pharmacological knowledge, Oxytetracycline is a broad-spectrum tetracycline-class antibiotic that inhibits bacterial protein synthesis by binding the 30S ribosomal subunit and blocking aminoacyl-tRNA attachment. Tetracyclines also have a well-documented secondary anti-inflammatory effect through matrix metalloproteinase (MMP) inhibition, independent of their antibacterial activity.
+Currently, detailed mechanism of action data is not available for this report. Based on known information, oxytetracycline belongs to the tetracycline class of broad-spectrum antibiotics. Its efficacy in respiratory, urinary, and eye infections is established, and mechanistically it may be applicable to chronic rhinosinusitis.
 
-The rationale linking Oxytetracycline to chronic rhinosinusitis rests on this dual mechanism: many cases of chronic rhinosinusitis have a bacterial component, and the antibacterial effect could theoretically address infective flares, while the MMP-inhibiting anti-inflammatory effect could theoretically address the chronic mucosal inflammation component. However, this is a **mechanistic hypothesis only** — the knowledge graph score (rank 7023, 99.61%) is not corroborated by any registered clinical trial or published literature for this specific disease.
+Tetracyclines are also known to have anti-inflammatory and matrix metalloproteinase-inhibiting properties. Low-dose doxycycline, a related tetracycline, has been explored in chronic rhinosinusitis with nasal polyps. This offers a plausible bridge between the original infectious indications and the predicted sinus disease.
 
-Given the complete absence of clinical or literature evidence (L5), this prediction should be treated as hypothesis-generating rather than actionable, and is not yet suitable for further clinical development without dedicated preclinical or early-phase investigation.
+This link is **hypothetical**. No studies of oxytetracycline itself in chronic rhinosinusitis were found. The high score may partly reflect closeness to other respiratory and infectious disease nodes in the knowledge graph rather than a proven therapeutic signal.
 
 ---
 
@@ -75,18 +76,27 @@ Currently no related literature available.
 
 ## India Market Information
 
-Oxytetracycline currently has **no marketing authorization on file in India** (`market_status: Not marketed`, 0 registrations, no license records available for extraction).
+Oxytetracycline has 20 valid single-ingredient registrations in India and none cancelled. Dosage forms include capsules, tablets, oral solution, syrup, and injectable or infusion products. The license records do not include approved indication text. Five main registrations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 221265 | T M 250mg Capsule | Strip of 4 capsules | Pfizer Ltd |
+| 216151 | Terramycin SF Capsule | Strip of 10 capsules | Pfizer Ltd |
+| 216058 | Terramycin MD Injection | Vial of 10 ml injection | Pfizer Ltd |
+| 163153 | Oxytetracycline AF Tablet | Strip of 4 tablets | Pfizer Ltd |
+| 228563 | Tetracon 50mg Syrup | Bottle of 100 ml syrup | Western Remedies |
 
 ---
 
 ## Safety Considerations
 
-Key warnings and contraindications are not available in the Evidence Pack (data gap — TFDA/India label review still pending, flagged as **Blocking** in `data_gaps`).
+- **Contraindications flagged in the knowledge graph** (these come from drug-disease relationship data, not from package insert text): kidney disease, kidney failure, uremia, glomerulonephritis, liver disease, gallbladder disease, *Clostridium difficile* colitis, G6PD deficiency, potassium deficiency, atrial fibrillation, atrioventricular block, Adams-Stokes syndrome, Wolff-Parkinson-White syndrome, respiratory failure, perinatal necrotizing enterocolitis, glycogen storage disease, cystinuria, galactosemia, and pyoureter.
+- **Drug Interactions**: 144 interactions were recorded. Selected ones:
+  - **Major**: Vitamin A.
+  - **Moderate**: Amoxicillin, balsalazide, calcium salts (phosphate, acetate), magnesium salts (oxide, sulfate, chloride), zinc salts (sulfate, acetate), potassium citrate, and multiple insulin products (aspart, degludec, detemir, glargine, glulisine, human).
+  - **Minor**: Mannitol.
 
-**Drug Interactions**: A DDI query returned 144 documented interactions (ddinter source). Notable entries include:
-- **Major**: Vitamin A (co-administration with tetracyclines is associated with risk of pseudotumor cerebri)
-- **Moderate**: Divalent/trivalent cation-containing products that chelate tetracyclines and reduce absorption — Calcium Phosphate, Calcium Acetate, Magnesium Oxide/Sulfate/Chloride, Zinc Sulfate/Acetate, Potassium Citrate; also Amoxicillin, Balsalazide, and multiple insulin products (aspart, degludec, detemir, glargine, glulisine, human isophane/regular/inhaled)
-- **Minor**: Mannitol
+Please refer to the package insert for full warnings and precautions.
 
 ---
 
@@ -95,14 +105,16 @@ Key warnings and contraindications are not available in the Evidence Pack (data 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked TxGNN prediction (Chronic Rhinosinusitis) has a high model confidence score but zero supporting clinical trials or literature (Evidence Level L5) — insufficient to justify moving past a research-hypothesis stage.
+The chronic rhinosinusitis prediction is supported only by the model score (L5), with no trials or publications for oxytetracycline in this condition. The mechanistic link, while plausible for the tetracycline class, is unverified for this drug.
 
 **To proceed, the following is needed:**
-- TFDA/India product label (warnings, contraindications) — currently a **Blocking** data gap per `DG001`
-- Detailed mechanism-of-action confirmation — currently a **High**-severity data gap per `DG002`
-- Preclinical or early-phase evidence specifically for chronic rhinosinusitis before any clinical development decision
+- A targeted literature search for oxytetracycline, and for tetracyclines more broadly, in chronic rhinosinusitis, to establish whether any direct evidence exists
+- Mechanism of action data
+- The package insert warnings and contraindications from the Indian regulator, which are needed for safety screening
+- Route and formulation compatibility assessment (sinus delivery versus the oral and injectable forms currently registered)
+- A comparison against standard chronic rhinosinusitis therapy
 
-**Note on alternate candidates in this Evidence Pack:** Among the 10 predicted indications supplied, **Otitis Externa** (rank 10, score 99.27%) is materially stronger — it reaches **Evidence Level L2** with 20 supporting publications, including multiple RCTs of topical oxytetracycline/hydrocortisone/polymyxin B combinations, and carries a **Proceed with Guardrails** recommendation. **Post-bacterial disorder / osteomyelitis** (rank 6) reaches L3 but is based on a single terminated, 11-patient early-phase trial. If a repurposing candidate is needed near-term, Otitis Externa is the substantially better-supported option and may warrant its own dedicated evaluation report.
+**Note on an alternative candidate:** Among the other predictions, **otitis externa** has the most supporting literature. It includes randomized comparisons of topical oxytetracycline, polymyxin B, and hydrocortisone combinations against other treatments (e.g., 1985, 1990, 1993). The studies are mostly old, and several suggest that steroid alone or other antibiotics may perform comparably, so oxytetracycline's own contribution is uncertain. It would be a more tractable research question than chronic rhinosinusitis, but it is not the primary subject of this evaluation.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

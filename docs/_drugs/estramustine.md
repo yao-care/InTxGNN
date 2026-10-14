@@ -2,7 +2,7 @@
 layout: default
 title: Estramustine
 parent: Model Prediction Only (L5)
-nav_order: 321
+nav_order: 324
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,100 +33,119 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Estramustine (Emcyt/Estracyt) is a hybrid cytotoxic agent combining estradiol-17β and a nornitrogen mustard carbamate, originally developed and FDA-approved for palliative treatment of metastatic and/or progressive prostate cancer.
-The TxGNN model predicts it may be applicable to **Prostate Cancer/Brain Cancer Susceptibility** — a mechanistic association node in the knowledge graph — with **0 clinical trials** and **0 publications** directly supporting this specific combined susceptibility indication.
-The prediction is anchored on EMBP (estramustine-binding protein) expression in malignant brain tumors, but this remains a model-derived association with no translational clinical evidence to date.
-
----
+Estramustine is an oral cytotoxic drug, originally used to treat prostate cancer.
+The TxGNN model's top-ranked prediction is **prostate cancer/brain cancer susceptibility**, but this prediction has **no clinical trials and no publications** behind it. The best-supported direction in the data is **female breast carcinoma** (1 Phase 2 trial and 17 publications), and a "male reproductive organ cancer" category is dominated by prostate cancer, which is the drug's existing indication.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Prostate cancer (metastatic/progressive; palliative treatment) |
-| Predicted New Indication | Prostate Cancer/Brain Cancer Susceptibility |
+|------|------|
+| Original Indication | Prostate cancer (the India licence records contain no indication text) |
+| Predicted New Indication | Prostate cancer/brain cancer susceptibility (top-ranked prediction) |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 for the top-ranked prediction (model prediction only) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Hold |
 
----
+**Note on the top-ranked prediction:** It is a genetic susceptibility entity that overlaps with prostate cancer mainly by name. The high score probably reflects graph proximity to prostate cancer. The sections below therefore also cover the other candidates that have real evidence (breast carcinoma and the male reproductive organ cancer category).
 
-## Why Is This Prediction Reasonable?
+## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not formally available in this Evidence Pack. Based on published literature within the evidence pack, Estramustine exerts its antitumor effects by binding to microtubule-associated proteins (MAPs) and tubulin, causing depolymerization of cytoplasmic microtubules and cell cycle arrest at the G2/M phase. Importantly, it selectively accumulates in prostate tissue through a specific 46 kDa glycoprotein known as estramustine-binding protein (EMBP), which mediates tissue selectivity. The drug also carries an estrogenic component that suppresses the hypothalamic–pituitary–gonadal axis, reducing circulating androgens.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. From the literature, estramustine is an estradiol conjugated to a nitrogen mustard carbamate. It binds tubulin and microtubule-associated proteins, depolymerises microtubules, and disrupts the nuclear matrix. It is concentrated in prostatic tissue through estramustine-binding protein (EMBP).
 
-The TxGNN model likely established the "prostate cancer/brain cancer susceptibility" node via EMBP biology: multiple studies have demonstrated EMBP expression in malignant gliomas in both rats and humans (PMID 11131983). Elevated EMBP levels in rat astrocytoma correlated with poor prognosis, creating a molecular bridge between prostate-specific drug binding and brain tumor tissue in the knowledge graph. The estramustine-binding site has also been identified in breast cancer (PMID 1888147) and melanoma cells, suggesting EMBP is not strictly prostate-confined. This broad tissue distribution of the target protein is the biological rationale the model may have exploited.
+For the top-ranked prediction, no mechanistic link to a susceptibility phenotype has been shown. The score most likely reflects graph proximity to prostate cancer rather than a real therapeutic signal. The same is true of the other benign or rare prostate and ovarian entities (fibroma of prostate, prostate leiomyoma, benign prostate phyllodes tumor, Brenner tumor, breast fibrocystic disease). HIV infection also has no plausible mechanism.
 
-However, "prostate cancer/brain cancer susceptibility" as a clinical entity is ambiguous — it is a knowledge graph concept representing co-susceptibility or mechanistic overlap rather than a defined treatment indication. A separate Phase II study of Taxol + Estramustine in recurrent glioblastoma multiforme exists (PMID 10930101), suggesting translational interest in brain tumors does exist, but the current Evidence Pack did not retrieve this under the susceptibility node. Without a clear and actionable clinical question, this prediction cannot be advanced without further target clarification.
-
----
+The most credible new direction is **female breast carcinoma**. EMBP expression has been described in human breast cancer, and estramustine potentiates taxanes in refractory breast cancer. A Phase 1 study with paclitaxel and a single-agent report after anthracycline and taxane failure suggest activity. Taxanes alone are standard in breast cancer, so the added value of estramustine is unproven.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered specifically for the "prostate cancer/brain cancer susceptibility" indication.
+**Top-ranked prediction (prostate cancer/brain cancer susceptibility):** Currently no related clinical trials registered.
 
----
+**Female breast carcinoma (rank 8):**
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00003066](https://clinicaltrials.gov/study/NCT00003066) | Phase 2 | Unknown | 40 | Docetaxel plus estramustine phosphate in metastatic breast cancer; small single-arm study |
+
+**Male reproductive organ cancer (rank 6)**, a category dominated by prostate cancer, the existing indication (selected trials):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00004001](https://clinicaltrials.gov/study/NCT00004001) | Phase 3 | Completed | 770 | Docetaxel + estramustine vs mitoxantrone + prednisone in hormone-refractory prostate cancer |
+| [NCT00055731](https://clinicaltrials.gov/study/NCT00055731) | Phase 3 | Completed | 413 | Adjuvant hormonal therapy with or without docetaxel and estramustine in advanced or high-risk prostate cancer |
+| [NCT00004054](https://clinicaltrials.gov/study/NCT00004054) | Phase 3 | Completed | 397 | Androgen suppression and radiotherapy with or without paclitaxel/estramustine/etoposide in high-risk localised prostate cancer |
+| [NCT00002855](https://clinicaltrials.gov/study/NCT00002855) | Phase 3 | Completed | 306 | Androgen ablation alone vs chemo/hormonal therapy as initial treatment; compares regimens, not estramustine alone |
+| [NCT00024167](https://clinicaltrials.gov/study/NCT00024167) | Phase 3 | Terminated | 265 | Consolidation therapy with or without strontium-89; estramustine's contribution cannot be isolated |
+| [NCT00541281](https://clinicaltrials.gov/study/NCT00541281) | Phase 2 | Completed | 150 | Weekly docetaxel/estramustine/prednisone vs docetaxel/prednisone, PSA response endpoint |
+| [NCT00193193](https://clinicaltrials.gov/study/NCT00193193) | Phase 2 | Completed | 100 | Weekly paclitaxel, low-dose estramustine and carboplatin, weekly vs every 4 weeks |
+| [NCT00003084](https://clinicaltrials.gov/study/NCT00003084) | Phase 2 | Completed | 75 | Randomised comparison of two estramustine-containing regimens in androgen-independent prostate cancer |
+| [NCT00016107](https://clinicaltrials.gov/study/NCT00016107) | Phase 2 | Completed | 72 | Estramustine, docetaxel and bevacizumab, single-arm |
+| [NCT00002775](https://clinicaltrials.gov/study/NCT00002775) | Phase 1/2 | Unknown | 37 | Docetaxel plus estramustine in metastatic prostate cancer |
+
+These trials support the existing prostate cancer label, not a new indication.
 
 ## Literature Evidence
 
-Currently no related literature available specifically for the "prostate cancer/brain cancer susceptibility" indication.
+**Female breast carcinoma (rank 8):**
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [11697838](https://pubmed.ncbi.nlm.nih.gov/11697838/) | 2001 | Phase 2 trial | Ann Oncol | Single-agent estramustine phosphate is active in advanced breast cancer after anthracycline and taxane failure |
+| [12377650](https://pubmed.ncbi.nlm.nih.gov/12377650/) | 2002 | Phase 2 | Ann Oncol | Weekly docetaxel plus estramustine in metastatic breast cancer |
+| [9071337](https://pubmed.ncbi.nlm.nih.gov/9071337/) | 1997 | Phase 1 trial | Semin Oncol | Estramustine phosphate plus paclitaxel in advanced breast cancer |
+| [11396364](https://pubmed.ncbi.nlm.nih.gov/11396364/) | 2001 | Review | Oncology (Williston Park) | Estramustine potentiates taxanes in prostate and refractory breast cancers |
+| [15811618](https://pubmed.ncbi.nlm.nih.gov/15811618/) | 2005 | Systematic review | Lancet Oncol | Docetaxel in solid tumours, including breast cancer |
+| [24722887](https://pubmed.ncbi.nlm.nih.gov/24722887/) | 2015 | Retrospective case series | Int J Clin Oncol | Estramustine phosphate in heavily pretreated metastatic breast cancer |
+| [9738564](https://pubmed.ncbi.nlm.nih.gov/9738564/) | 1998 | Phase 1 | J Clin Oncol | Estramustine phosphate with short paclitaxel infusions in women with solid tumours |
+| [1888147](https://pubmed.ncbi.nlm.nih.gov/1888147/) | 1991 | Basic research | Anticancer Res | EMBP detected in 6 of 17 breast cancers |
+
+**Benign reproductive system neoplasm (rank 4):** 8 publications, all biomarker, binding-protein or uptake studies in prostate cancer and benign prostatic hyperplasia (for example [8821700](https://pubmed.ncbi.nlm.nih.gov/8821700/), 1996, Eur Urol). None tests therapeutic efficacy in a benign neoplasm.
+
+**Top-ranked prediction:** Currently no related literature available.
 
 ## India Market Information
 
-Estramustine is currently not marketed in India. No product registrations or authorization numbers are on record.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 77750 | Estramin 140mg Capsule (Samarth Life Sciences Pvt Ltd) | Strip of 10 capsules | Not recorded in the compiled data |
+| 77563 | Estram 140mg Capsule (United Biotech Pvt Ltd) | Strip of 10 capsules | Not recorded in the compiled data |
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic — Alkylating agent/Microtubule disruptor hybrid (estradiol–nornitrogen mustard conjugate) |
-| Myelosuppression Risk | Low to moderate — Less myelosuppressive than classical alkylating agents due to EMBP-mediated selective tissue uptake; however, CBC monitoring is required, as leukopenia and thrombocytopenia have been reported |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential, liver function tests (LFTs), renal function, serum calcium, cardiovascular monitoring (thromboembolic risk from estrogenic component including DVT and PE) |
-| Handling Protection | Standard cytotoxic drug handling regulations apply — gloves, gown, and appropriate waste disposal required |
-
----
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (antimicrotubule agent; estradiol–nitrogen mustard carbamate conjugate) |
+| Myelosuppression Risk | Low (one breast cancer study cites lack of haematological toxicity), but monitoring is still advised, especially in combination with taxanes |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC, liver and renal function, blood pressure, fluid status, calcium, glucose, and signs of thromboembolism |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the package insert for key warnings and contraindications (formal India/FDA package insert data not available in this Evidence Pack).
+- **Contraindication-related conditions (knowledge-graph associations, not label text):** hypertension, epilepsy, kidney disease, liver disease, gallbladder disease, congestive heart failure, diabetes mellitus and diabetic ketoacidosis, hypercalcaemia, thrombophlebitis, migraine, coronary artery disease and myocardial infarction, cerebrovascular disorder, hyperbilirubinaemia and Gilbert syndrome, haemoglobinopathy, and gynaecomastia/breast hypertrophy. Erectile dysfunction, premature ejaculation and psychologic dyspareunia are also listed.
+- **Drug Interactions:** 111 interactions were identified, all of the 20 listed in the data being Moderate. They include:
+  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide
+  - Antidiabetic agents: acarbose, metformin, canagliflozin, dapagliflozin, empagliflozin, alogliptin, linagliptin, chlorpropamide, albiglutide, dulaglutide
+  - Amphotericin B (including lipid complex)
+  - Calcium products: calcium acetate, calcium phosphate, topical calcitriol
+- The large interaction burden is a particular concern in patients on antiretrovirals or multiple medications.
+- Breast cancer use also requires weighing thromboembolic and cardiovascular toxicity.
 
-**Drug Interactions** (111 interactions documented; clinically representative moderate interactions listed below):
-
-| Interacting Drug | Level | Clinical Relevance |
-|-----------------|-------|--------------------|
-| Metformin | Moderate | Estrogenic component may alter insulin sensitivity and glucose metabolism |
-| Dexamethasone | Moderate | Pharmacodynamic interaction; corticosteroid co-administration may amplify metabolic and adrenal effects |
-| Hydrocortisone | Moderate | Additive steroid-estrogen metabolic interaction |
-| Budesonide | Moderate | Potential additive adrenal axis suppression |
-| Canagliflozin / Dapagliflozin / Empagliflozin | Moderate | Estrogenic effects may interfere with SGLT2 inhibitor-mediated glucose handling |
-| Alogliptin / Linagliptin | Moderate | Possible pharmacokinetic interaction with DPP-4 inhibitor metabolism pathway |
-| Amphotericin B | Moderate | Additive electrolyte disturbances (hypokalemia, hypomagnesemia) — close monitoring required |
-| Calcium Phosphate / Calcium Acetate | Moderate | Calcium chelation may significantly reduce estramustine oral bioavailability — must not be co-administered with dairy products or calcium-containing supplements |
-
----
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a near-perfect TxGNN prediction score (99.99%), the indication "prostate cancer/brain cancer susceptibility" is not a clinically actionable treatment target — zero clinical trials and zero publications were retrieved for this combined susceptibility node, and the disease definition itself is ambiguous in a drug repurposing context.
+The top-ranked prediction (prostate cancer/brain cancer susceptibility) has a very high score but no trials, no literature and no plausible mechanism, so it is likely a graph artefact. The only direction with real evidence is female breast carcinoma, which has a single small Phase 2 trial (status unknown) and no Phase 3 data. It is best treated as a research question, not an actionable repurposing candidate. The substantial prostate cancer evidence supports the existing label, not a new use.
 
 **To proceed, the following is needed:**
-
-- **Clarify the clinical question**: If the intent is to explore Estramustine for brain tumors (glioblastoma/glioma), re-query the Evidence Pack using "glioblastoma multiforme" or "malignant glioma" as the target indication to retrieve the existing Phase II data (PMID 10930101)
-- **Remediate DG001**: Download and parse the FDA/EMA package insert PDF to obtain full warnings, contraindications, and precaution data
-- **Remediate DG002**: Query DrugBank API for complete MOA and pharmacodynamic profile of Estramustine (DB01196)
-- **Preclinical validation**: Confirm EMBP expression levels and estramustine cytotoxicity in relevant brain tumor cell lines before considering clinical development for neurological indications
-- **India market pathway**: Assess regulatory filing requirements for India given current "Not Marketed" status — a new drug application pathway would be required
-- **Consider investigating rank 8 (Female Breast Carcinoma) as an alternative repurposing target**, which has 2 completed Phase II clinical trials and 20 supporting publications, representing a substantially stronger evidence base for near-term development
+- Package insert warnings and contraindications from the India licences (currently missing, and a blocking gap for safety screening)
+- Mechanism of action data (for example from DrugBank)
+- For breast carcinoma: prospective randomised data showing the added value of estramustine over taxane alone, and a thromboembolic and cardiovascular risk assessment
+- Confirmation of the approved indication text on the India licences
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Sparfloxacin
 parent: Model Prediction Only (L5)
-nav_order: 779
+nav_order: 786
 evidence_level: L5
 indication_count: 9
 ---
@@ -29,12 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Sparfloxacin: From Unknown Original Indication to Hyperamylasemia
+# Sparfloxacin: From Pneumonia to Hyperamylasemia
 
 ## One-Sentence Summary
 
-> Sparfloxacin is a fluoroquinolone-class antibacterial agent (inhibiting bacterial DNA gyrase/topoisomerase IV per class knowledge); its specific original approved indication is not captured in this evidence pack.
-> The TxGNN model predicts it may be effective for **Hyperamylasemia**, but this is a **model-only prediction (L5)** — the evidence pack itself notes no clinical trials, no literature, and **no plausible mechanistic link**, and flags the signal as possibly reflecting knowledge-graph node proximity rather than real biology.
+Sparfloxacin is a fluoroquinolone antibiotic, originally used to treat pneumonia (including streptococcal, Mycoplasma pneumoniae and chlamydial pneumonia).
+The TxGNN model predicts it may be effective for **hyperamylasemia**, but **no clinical trials and no publications** currently support this prediction.
+It is a computational signal only and should be treated with caution.
 
 ---
 
@@ -42,23 +43,23 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in this pack (Data Gap); known generically as a fluoroquinolone-class antibacterial |
+| Original Indication | Pneumonia (streptococcal, Mycoplasma pneumoniae, chlamydial) |
 | Predicted New Indication | Hyperamylasemia |
 | TxGNN Prediction Score | 99.74% |
-| Evidence Level | L5 (model prediction only, no supporting trials/literature, no mechanistic link) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (`original_moa` is a Data Gap in this pack). Based on other fields in the evidence pack, Sparfloxacin is described as a fluoroquinolone-class antibiotic that inhibits bacterial DNA gyrase/topoisomerase IV — a mechanism relevant to treating bacterial infections, not to metabolic/enzymatic conditions like hyperamylasemia.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, sparfloxacin is a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. This action explains its efficacy against respiratory pathogens.
 
-For the top-ranked prediction, the pack's own rationale is explicit: *"無明確機轉關聯。Hyperamylasemia 多與胰臟/唾液腺病理相關，抗生素類藥物無已知直接作用路徑，此預測可能反映知識圖譜節點鄰近性而非真實生物學訊號"* — i.e., there is no known biological pathway connecting a DNA gyrase inhibitor to pancreatic/salivary-gland amylase overproduction, and the high TxGNN score likely reflects graph topology rather than pharmacology.
+No mechanistic link to hyperamylasemia could be identified. Elevated amylase is not an established therapeutic target for this drug class, and no known pathway connects the antibacterial action to amylase regulation. The high TxGNN score appears to be a graph-based association without supporting clinical or literature data.
 
-Notably, among the 9 ranked candidates in this pack, only **septicemic plague** (rank 8) has class-level mechanistic plausibility — other fluoroquinolones (ciprofloxacin, levofloxacin) are approved for *Yersinia pestis* infection, and one loosely related PMID (antibiotic persistence in uropathogenic *E. coli*) was retrieved — though no sparfloxacin-specific evidence exists there either. This does not change the assessment of the rank-1 candidate (hyperamylasemia), which remains mechanistically unsupported.
+Other top-ranked predictions show the same pattern. These include polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, monoclonal gammopathy and several haematological conditions. None has a plausible mechanistic rationale, and none has trials or publications. One exception is **septicemic plague** (rank 8, score 99.31%). A class-level rationale exists because fluoroquinolones are active against *Yersinia pestis*. However, no sparfloxacin-specific data were found, and the one retrieved publication concerns uropathogenic *E. coli*, not plague.
 
 ---
 
@@ -70,32 +71,48 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for hyperamylasemia.
+
+For reference, the only publication retrieved across the predicted indications relates to the lower-ranked prediction of septicemic plague:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [20231390](https://pubmed.ncbi.nlm.nih.gov/20231390/) | 2010 | Preclinical (in vitro) | Antimicrob Agents Chemother | Persistence of uropathogenic *E. coli* in the face of multiple antibiotics. Not specific to plague or hyperamylasemia. |
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-No marketing authorizations are registered for Sparfloxacin in Taiwan (market status: Not marketed / not marketed; total licenses: 0).
+Sparfloxacin is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled. Approved indication text was not available for these products. Five representative registrations:
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 201912 | Spin 200mg Tablet | Strip of 10 tablets | Lancer Health Care Pvt Ltd |
+| 213300 | Sparflin 400mg Tablet | Strip of 6 tablets | Lupin Ltd |
+| 208042 | Sparcure 200mg Tablet | Strip of 10 tablets | Radicura Pharma Pvt Ltd |
+| 202418 | Spiro 200mg Tablet | Strip of 10 tablets | Adoc Pharma |
+| 210716 | Spearl 200mg Tablet | Strip of 6 tablets | Pax Healthcare |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**: The evidence pack contains 239 recorded interactions. Major-severity interactions identified include:
+Drug-interaction screening identified **239 interacting drugs**. Examples of those rated **Major**:
 
-| Interacting Drug | Level | Source |
-|---|---|---|
-| Hydrocortisone | Major | ddinter |
-| Bupropion | Major | ddinter |
-| Triamcinolone | Major | ddinter |
-| Dexamethasone | Major | ddinter |
-| Betamethasone | Major | ddinter |
-| Chlorpropamide | Major | ddinter |
+- Hydrocortisone
+- Dexamethasone
+- Betamethasone
+- Triamcinolone
+- Bupropion
+- Chlorpropamide
 
-Additional Moderate-level interactions (partial list, 239 total recorded): Acarbose, Famotidine, Albiglutide, Alogliptin, Metformin, Pioglitazone, Loperamide, Acetylsalicylic acid, Balsalazide, Bisacodyl, Calcium Phosphate, Calcium acetate, Canagliflozin, Potassium citrate.
+Examples of **Moderate** interactions include acarbose, famotidine, metformin, pioglitazone, canagliflozin, loperamide, acetylsalicylic acid and calcium or potassium salts.
 
-Key warnings and contraindications for Sparfloxacin are not available in this pack (Data Gap DG001, flagged as **Blocking** — this prevents a full S1 safety assessment). Please refer to the official package insert once available.
+Other considerations noted in the data compiled for this report:
+- Fluoroquinolones are associated with peripheral neuropathy as an adverse effect.
+- Sparfloxacin carries phototoxicity and QT-prolongation risks, and has limited current availability.
+
+For warnings and contraindications, please refer to the package insert.
 
 ---
 
@@ -104,13 +121,13 @@ Key warnings and contraindications for Sparfloxacin are not available in this pa
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (hyperamylasemia) has no supporting clinical trials, no literature, and no plausible mechanistic link — the evidence pack itself flags this as a likely knowledge-graph artifact rather than a genuine biological signal. Combined with the drug's unmarketed status in Taiwan (0 licenses) and a blocking data gap on TFDA label warnings/contraindications, there is insufficient basis to advance this candidate.
+The prediction rests only on a graph-based score. There is no mechanistic link, no clinical trials and no literature for hyperamylasemia. Sparfloxacin's safety profile (phototoxicity, QT prolongation, neuropathy, many major interactions) further argues against pursuing this indication.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking — required before any S1 safety screening)
-- Confirmed mechanism of action data (DG002)
-- If pursuing an antibacterial-indication angle instead, consider re-evaluating **septicemic plague** (rank 8), which has class-level mechanistic plausibility (fluoroquinolone class effect against *Yersinia pestis*), though sparfloxacin-specific evidence would still need to be generated
-- Independent biological/literature review to confirm or rule out the hyperamylasemia signal before any further investment
+- Detailed mechanism of action data, and a plausible biological rationale linking sparfloxacin to amylase regulation
+- Package insert warnings and contraindications from the India market, which are required for safety screening
+- Any preclinical or clinical evidence for the predicted indication
+- A risk-benefit assessment for QT prolongation, phototoxicity and drug interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

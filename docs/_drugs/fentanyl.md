@@ -2,7 +2,7 @@
 layout: default
 title: Fentanyl
 parent: Model Prediction Only (L5)
-nav_order: 342
+nav_order: 345
 evidence_level: L5
 indication_count: 2
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Fentanyl is a potent synthetic opioid analgesic; no Taiwan-specific approved indication text is available since the drug is currently **not marketed in Taiwan**. The TxGNN model predicts a possible link to **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**, but this prediction is supported by **no clinical trials and no literature** — the model's own rationale flags the mechanistic link as weak and possibly contradictory.
+Fentanyl is a potent mu-opioid receptor agonist marketed in India as transdermal patches and injections. The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**, but **no clinical trials and no publications** support this prediction. It rests on a computational score alone.
 
 ---
 
@@ -41,23 +41,25 @@ Fentanyl is a potent synthetic opioid analgesic; no Taiwan-specific approved ind
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — `original_indications` is empty and `original_moa` is a data gap; Fentanyl is not currently marketed in Taiwan, so no TFDA-approved indication text exists in this evidence pack |
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD) |
+| Original Indication | Not stated in the available India licence records |
+| Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 99.46% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 15 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on known pharmacology, Fentanyl is a potent synthetic mu-opioid receptor agonist whose established clinical effects are central analgesia and respiratory depression.
+Detailed mechanism of action data is not available in the data compiled for this report. Fentanyl is known to be a mu-opioid receptor agonist, and the original indication text is missing from the licence records.
 
-NSIAD is a rare, genetically determined disorder caused by gain-of-function mutations in the AVPR2 (V2 vasopressin) receptor gene, structurally distinct from any opioid signaling pathway. The evidence pack's own mechanistic rationale is explicit that there is **no established mechanistic link** between mu-opioid receptor activity and AVPR2 receptor structure: opioids can influence ADH secretion via the hypothalamic-pituitary axis (occasionally producing SIADH-like effects), but this is an acquired, drug-induced phenomenon distinct from the structural receptor mutation underlying NSIAD — and the rationale notes the direction of effect may even run opposite to what would be needed (opioids more typically *suppress* rather than mimic V2 receptor activation).
+NSIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2). These mutations cause water retention in the kidney independent of vasopressin. Opioids can influence vasopressin release through central pathways. However, NSIAD is driven by constitutive receptor activation in the kidney, so a central opioid effect would not be expected to correct it. Opioids are also more often associated with SIADH-like effects (increased antidiuretic hormone activity), which suggests possible harm rather than benefit.
 
-A second candidate in this evidence pack, Tourette syndrome (TxGNN score 99.05%, rank 13994), is similarly flagged with a weak, indirect mechanistic rationale (opioid modulation of dopaminergic tone via GABA interneurons) and is explicitly noted as clinically infeasible given the addiction and respiratory-depression risk of using a potent opioid for a non-life-threatening movement disorder. Neither candidate currently has independent mechanistic or clinical support beyond the TxGNN score itself.
+**The prediction is therefore not mechanistically supported.** The high score of 0.995 is a computational output only.
+
+A second predicted indication, **Tourette syndrome** (score 99.05%, also L5, Hold), has a weak and speculative link. Opioid-modulating agents such as buprenorphine and naltrexone have been explored in small tic-suppression studies. Fentanyl is a short-acting, high-abuse-liability opioid with respiratory depression risk. It is poorly suited to a chronic neuropsychiatric condition normally managed with alpha-2 agonists, antipsychotics, or behavioural therapy (CBIT). No trials or publications support this prediction either.
 
 ---
 
@@ -73,40 +75,34 @@ Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-Fentanyl is currently **not marketed in Taiwan** — `taiwan_regulatory.total_licenses` is 0 and no license records are present in this evidence pack.
+All 15 registrations are valid single-ingredient products, and none has been cancelled. The main authorisations are listed below. The licence records contain no approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 59004 | Durogesic 25mcg Patch (Janssen Pharmaceuticals) | Packet of 3 transdermal patches | Not stated |
+| 59860 | Durogesic 50mcg Patch (Janssen Pharmaceuticals) | Packet of 3 transdermal patches | Not stated |
+| 85177 | Fendrop 25mcg Patch (Sun Pharmaceutical Industries) | Packet of 1 transdermal patch | Not stated |
+| 164595 | Opifent 500 Injection (Varenyam Healthcare) | Ampoule of 10 ml injection | Not stated |
+| 84345 | Fent 50mcg Injection (Neon Laboratories) | Vial of 2 ml injection | Not stated |
+
+Available forms are transdermal patches and injectables.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions** (from DDI database; 327 total interactions on record, 20 representative entries returned in this evidence pack):
+- **Contraindication signals (knowledge graph, not label text):** The TxGNN knowledge graph links fentanyl to contraindications in several disease groups:
+  - Cardiovascular: hypotensive disorder, orthostatic hypotension, hypertension, long QT syndrome, torsades de pointes
+  - Respiratory: COPD, asthma (including allergic and intrinsic forms)
+  - Hepatic and renal: liver failure, liver disease, kidney disease
+  - Gastrointestinal: pancreatitis, gallbladder disease, inflammatory bowel disease
+  - Neurological and psychiatric: multiple system atrophy, basal ganglia disease, focal hand dystonia, blepharospasm, anxiety disorder, substance abuse/dependence
+  - Other: benign prostatic hyperplasia, potassium deficiency disease
+- **Drug interactions:** 327 interactions were recorded. Examples of **Major** interactions include alvimopan, aprepitant, bupropion, clarithromycin, clotrimazole, dexamethasone, dolasetron, fenfluramine, dexfenfluramine, granisetron and lorcaserin. **Moderate** interactions include atropine, cimetidine, clidinium, dicyclomine, dronabinol, eluxadoline, glycopyrronium and hyoscyamine.
 
-| Interacting Drug | Severity |
-|---|---|
-| Alvimopan | Major |
-| Aprepitant | Major |
-| Bupropion | Major |
-| Clarithromycin | Major |
-| Clotrimazole | Major |
-| Dexamethasone | Major |
-| Dexfenfluramine | Major |
-| Dolasetron | Major |
-| Fenfluramine | Major |
-| Granisetron | Major |
-| Lorcaserin | Major |
-| Atropine | Moderate |
-| Cimetidine | Moderate |
-| Clidinium | Moderate |
-| Dicyclomine | Moderate |
-| Dronabinol | Moderate |
-| Eluxadoline | Moderate |
-| Glycerol phenylbutyrate | Moderate |
-| Glycopyrronium | Moderate |
-| Hyoscyamine | Moderate |
-
-Key warnings and contraindications are not available in this evidence pack (marked as a **Blocking** data gap, DG001 — TFDA label warnings/contraindications must be sourced before this candidate can enter S1 safety screening).
+Please refer to the package insert for label warnings and contraindications. These were not available in the data compiled for this report.
 
 ---
 
@@ -115,13 +111,14 @@ Key warnings and contraindications are not available in this evidence pack (mark
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L5 — the TxGNN score is unsupported by any clinical trial or literature evidence, and the model's own mechanistic rationale explicitly describes the receptor-level link to NSIAD (and to the alternative Tourette syndrome candidate) as weak or potentially contradictory. Combined with the Blocking data gap on TFDA safety labeling, this candidate cannot proceed past S0.
+The prediction rests only on a model score, with no clinical or literature support (L5). The mechanistic reasoning suggests the drug is unlikely to correct NSIAD and may worsen it. Fentanyl also carries serious safety risks, including respiratory depression and abuse liability.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking — required before any S1 safety evaluation)
-- Confirmed mechanism of action data from DrugBank (DG002)
-- Independent preclinical or mechanistic evidence linking mu-opioid receptor activity to AVPR2-mediated antidiuresis, beyond the TxGNN score alone
-- Clarification of regulatory pathway given Fentanyl is not currently marketed in Taiwan
+- Package insert warnings and contraindications from the India regulator's website, which block safety screening
+- Confirmed mechanism of action data from DrugBank
+- Preclinical or mechanistic evidence that fentanyl affects AVPR2-driven water retention
+- Original approved indication text for the India licences
+- A review of the NSIAD safety concern, since opioids may increase antidiuretic hormone activity
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

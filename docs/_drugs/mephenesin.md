@@ -2,7 +2,7 @@
 layout: default
 title: Mephenesin
 parent: Model Prediction Only (L5)
-nav_order: 519
+nav_order: 524
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,62 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mephenesin: From Muscle Relaxant to Metastatic Melanoma
+# Mephenesin: From Muscle Spasm (Topical Use) to Metastatic Melanoma
 
 ## One-Sentence Summary
 
-Mephenesin is a first-generation central nervous system depressant historically used as a muscle relaxant, acting on spinal polysynaptic reflex arcs via glycinergic/GABAergic interneurons.
-The TxGNN model predicts it may be effective for **Metastatic Melanoma**,
-with **0 clinical trials** and **0 publications** currently supporting this direction — making this a pure model-driven hypothesis at this stage.
-
----
+Mephenesin is a centrally acting muscle relaxant (a propanediol derivative), marketed in India only as topical gels.
+The TxGNN model predicts it may be effective for **metastatic melanoma**, but **no clinical trials and no publications** currently support this prediction, so it is a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Muscle relaxant (CNS depressant; spinal polysynaptic reflex inhibition) |
-| Predicted New Indication | Metastatic Melanoma |
+|------|------|
+| Original Indication | Not stated in the India license records (approved indication text is empty for all three licenses) |
+| Predicted New Indication | Metastatic melanoma |
 | TxGNN Prediction Score | 96.26% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Mephenesin is a first-generation centrally acting muscle relaxant that exerts its effect by inhibiting polysynaptic reflexes in the spinal cord, primarily through GABAergic and glycinergic interneuron pathways. Its clinical use largely predates modern drug approval standards, and it has since been superseded by newer agents.
+Currently, detailed mechanism of action data is not available. Based on known information, mephenesin is a centrally acting muscle relaxant of the propanediol class, sold in India as a topical gel. No mechanistic link to melanoma has been established.
 
-The theoretical bridge between Mephenesin and melanoma rests on an interesting biological observation: melanocytes — and by extension melanoma cells — originate from the neural crest, a transient embryonic structure that gives rise to components of the peripheral nervous system. Some neurotransmitter receptors (including GABA-related proteins) have been documented to be ectopically expressed in neural crest-derived tumour cells. The TxGNN knowledge graph may have detected a connection via shared GABAergic protein nodes or oxidative stress pathway intersections.
+The high TxGNN score most likely reflects similarity within the knowledge graph rather than a validated biological pathway. The other top predictions support this reading. Several are melanoma subtypes (non-cutaneous, epithelioid cell and eyelid melanoma) that probably share one cluster and are not independent evidence. Several others are cataract subtypes with an identical score of 95.47%, which points to a shared ontology-driven prediction. Choroideremia, a monogenic retinal degeneration, also appears, with no plausible connection to a muscle relaxant.
 
-However, this mechanistic link is **highly speculative**. There is no published preclinical or clinical evidence connecting Mephenesin to any melanoma subtype. The prediction likely reflects the model's sensitivity to neural crest biology rather than a pharmacologically validated interaction. The identical TxGNN scores observed across multiple cataract subtypes (ranks 5–9) further suggest that a portion of these top predictions arise from knowledge graph clustering artefacts rather than genuine biological signals.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+This prediction should be treated as a hypothesis-generating signal only.
 
 ## India Market Information
 
-Mephenesin currently has **no registered products** in India. The drug is not marketed and has no active licences on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 121240 | Lignogesic Gel (Medley Pharmaceuticals) | Tube of 30 gm gel | Not stated |
+| 76887 | Ethnorub Gel (Strides Shasun Ltd) | Tube of 30 gm gel | Not stated |
+| 8661 | Actofenal Gel 4X (Nexcellence Lifesciences) | Tube of 30 gm gel | Not stated |
 
----
+All three licenses are valid single-ingredient products, and all are topical gels. No systemic formulation is registered.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
----
+No drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high score (96.26%) to the Mephenesin–metastatic melanoma pairing, but this is based entirely on knowledge graph topology with no supporting clinical trials, observational studies, or published literature (Evidence Level L5). Combined with the complete absence of India market presence, missing MOA data, and a mechanistic hypothesis that remains highly inferential, there is insufficient basis to advance this candidate.
+The prediction rests on a model score alone (L5). There are no clinical trials, no literature and no mechanistic rationale. Mephenesin is available in India only as a topical gel, and the available data do not show a route that would suit metastatic melanoma.
 
 **To proceed, the following is needed:**
-
-- **MOA characterisation**: Retrieve and document Mephenesin's full mechanism of action from DrugBank or primary literature to assess whether any molecular target overlaps with melanoma biology
-- **Preclinical signal search**: Conduct a broad PubMed search for Mephenesin + cancer / GABA + melanoma / neural crest + muscle relaxant to determine if any preclinical signals exist outside the queried scope
-- **KG artefact review**: Investigate whether the shared identical scores across cataract subtypes (ranks 5–9) indicate a graph clustering issue that may also affect the melanoma predictions; if confirmed, adjust confidence accordingly
-- **Safety data retrieval**: Download and parse the original product monograph or SmPC to populate the missing warnings and contraindications before any further evaluation
-- **Regulatory feasibility check**: Since Mephenesin is not marketed in India, assess regulatory pathway requirements (new drug application vs. repurposing submission) before committing research resources
-
-> ⚠️ **Disclaimer**: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+- Package insert warnings, contraindications and approved indications from the India regulator (currently missing and blocking safety screening)
+- Mechanism of action data, to test any biological link to melanoma
+- A literature and trial search, including preclinical work, for mephenesin or related propanediols in melanoma
+- Route compatibility assessment, since only topical gels are marketed and metastatic disease would likely need systemic exposure
+- Independent confirmation that the melanoma subtype predictions are not just one duplicated signal
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Terbutaline
-parent: Model Prediction Only (L5)
-nav_order: 814
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 821
+evidence_level: L1
 indication_count: 3
 ---
 
 # Terbutaline
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L1** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,15 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-Using no specialized skill here — this is a direct content-generation task fully specified by the user's report prompt; I'll follow it exactly against the supplied Evidence Pack.
-
-# Terbutaline: From No Registered Indication (Not Marketed Locally) to Obstructive Lung Disease
+# Terbutaline: From Asthma to Obstructive Lung Disease
 
 ## One-Sentence Summary
 
-> Terbutaline (DrugBank DB00871) currently holds **zero product registrations** in this jurisdiction, and no original-indication text is on file in this evidence pack.
-> The TxGNN model's top prediction is **Obstructive Lung Disease**, backed by **48 clinical trials** and **20 publications** —
-> but nearly all of this evidence reflects Terbutaline's long-established role as a β2-agonist bronchodilator in asthma/COPD, rather than a genuinely novel indication.
+Terbutaline is a short-acting beta-2 agonist bronchodilator, originally used to treat asthma and related airway conditions such as bronchitis and pulmonary emphysema.
+The TxGNN model predicts it may be effective for **Obstructive Lung Disease**, a category that largely overlaps with its existing uses.
+Currently, **14 clinical trials** and **20 publications** support this direction. Most of the trials are completed Phase 3 studies in asthma, where terbutaline mainly served as a comparator or reliever.
 
 ---
 
@@ -45,23 +43,23 @@ Using no specialized skill here — this is a direct content-generation task ful
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file — no local product license exists to extract indication text from (market status: not marketed) |
-| Predicted New Indication | Obstructive Lung Disease |
+| Original Indication | Asthma (including intrinsic and allergic asthma), bronchitis, pulmonary emphysema (the marketed products carry no indication text in the data compiled for this report) |
+| Predicted New Indication | Obstructive lung disease |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L1 (≥2 completed Phase 3 RCTs) |
-| Local Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+| Evidence Level | L1 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-A formal, structured mechanism-of-action record for Terbutaline is not available in this evidence pack (data gap DG002). However, the clinical trial evidence within the pack itself is unambiguous: across dozens of studies, Terbutaline (marketed internationally as Bricanyl® Turbuhaler) is consistently used as a short-acting β2-adrenergic receptor agonist bronchodilator, deployed as rescue/reliever therapy alongside inhaled corticosteroids (budesonide, beclomethasone) and other bronchodilators (salbutamol, ipratropium) in the management of asthma and COPD.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, terbutaline is a selective beta-2 adrenergic agonist. It relaxes bronchial smooth muscle through the cAMP pathway and produces bronchodilation.
 
-The predicted new indication, "Obstructive Lung Disease," is the umbrella pathophysiological category that already encompasses asthma and COPD — the exact conditions Terbutaline has been studied in for over four decades. Mechanistically, β2-agonism relaxes airway smooth muscle and relieves bronchoconstriction, which is precisely the pathology underlying obstructive lung disease. This tight mechanistic fit is almost certainly why TxGNN assigns this prediction its very high score.
+This is the same mechanism behind its established use in asthma, bronchitis and emphysema. Obstructive lung disease (which includes asthma and COPD) is therefore effectively an on-label or near-label indication, not a true repurposing candidate. The main value of this prediction is to confirm and extend its use in COPD-type airway obstruction.
 
-Because of this overlap, this candidate should be read not as a novel repurposing hypothesis but as the model correctly recovering a **well-established indication**. Its practical value for a repurposing pipeline is therefore limited to the question of local registration/import feasibility (the drug has 0 current licenses here), rather than discovery of new pharmacological activity.
+Several studies directly support this. Placebo-controlled crossover trials of oral and inhaled terbutaline in COPD report effects on diaphragm strength, exercise capacity, FEV1 and walking distance.
 
 ---
 
@@ -69,16 +67,18 @@ Because of this overlap, this candidate should be read not as a novel repurposin
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01096017](https://clinicaltrials.gov/study/NCT01096017) | Phase 3 | Completed | 24 | Terbutaline Turbuhaler 0.4mg vs. Salbutamol pMDI 200μg, crossover, Japanese adult asthma patients |
-| [NCT02322788](https://clinicaltrials.gov/study/NCT02322788) | Phase 3 | Completed | 95 | Bricanyl Turbuhaler M3 vs. M2 — protective effect on methacholine-induced bronchoconstriction, mild-moderate asthma |
-| [NCT00849095](https://clinicaltrials.gov/study/NCT00849095) | Phase 3 | Completed | 860 | As-needed budesonide/formoterol vs. regular budesonide/formoterol + as-needed terbutaline, mild-moderate persistent asthma |
-| [NCT00839800](https://clinicaltrials.gov/study/NCT00839800) | Phase 3 | Completed | 2,091 | Symbicort SMART vs. Symbicort + as-needed terbutaline, 12-month multinational asthma trial |
-| [NCT02149199](https://clinicaltrials.gov/study/NCT02149199) | Phase 3 | Completed | 3,850 | Symbicort as-needed vs. terbutaline as-needed vs. Pulmicort BID + terbutaline as-needed, adult/adolescent asthma |
-| [NCT02224157](https://clinicaltrials.gov/study/NCT02224157) | Phase 3 | Completed | 4,215 | Symbicort as-needed vs. Pulmicort BID + terbutaline as-needed, adult/adolescent asthma |
-| [NCT00242775](https://clinicaltrials.gov/study/NCT00242775) | Phase 3 | Completed | 2,100 | Symbicort vs. Seretide + terbutaline as-needed (AHEAD trial), persistent asthma |
-| [NCT01944033](https://clinicaltrials.gov/study/NCT01944033) | Phase 3 | Completed | 250 | β2-agonist alone vs. β2-agonist + ipratropium bromide in acute COPD exacerbation |
-| [NCT06626620](https://clinicaltrials.gov/study/NCT06626620) | Phase 3 | Completed | 120 | IV magnesium sulfate vs. terbutaline for pediatric acute asthma exacerbation |
-| [NCT00750568](https://clinicaltrials.gov/study/NCT00750568) | N/A | Unknown | 36 | PK/PD of continuous IV terbutaline infusion in pediatric severe status asthmaticus |
+| [NCT02322788](https://clinicaltrials.gov/study/NCT02322788) | Phase 3 | Completed | 95 | Bricanyl Turbuhaler M3 vs M2 against methacholine-induced bronchoconstriction in mild to moderate asthma |
+| [NCT00849095](https://clinicaltrials.gov/study/NCT00849095) | Phase 3 | Completed | 860 | As-needed budesonide/formoterol vs regular dosing plus as-needed terbutaline in asthma |
+| [NCT02224157](https://clinicaltrials.gov/study/NCT02224157) | Phase 3 | Completed | 4215 | Symbicort as needed vs Pulmicort twice daily plus as-needed terbutaline in asthma |
+| [NCT02149199](https://clinicaltrials.gov/study/NCT02149199) | Phase 3 | Completed | 3850 | Symbicort as needed vs as-needed terbutaline vs Pulmicort plus terbutaline in asthma |
+| [NCT06626620](https://clinicaltrials.gov/study/NCT06626620) | Phase 3 | Completed | 120 | IV magnesium sulfate vs terbutaline in children with acute asthma exacerbation |
+| [NCT01096017](https://clinicaltrials.gov/study/NCT01096017) | Phase 3 | Completed | 24 | Terbutaline Turbuhaler 0.4 mg vs salbutamol pMDI in Japanese adults with asthma |
+| [NCT00839800](https://clinicaltrials.gov/study/NCT00839800) | Phase 3 | Completed | 2091 | Symbicort SMART vs Symbicort plus as-needed terbutaline in asthma |
+| [NCT00837967](https://clinicaltrials.gov/study/NCT00837967) | Phase 3 | Completed | 25 | Tolerability of 10 inhalations of Symbicort vs terbutaline on top of Symbicort in Japanese adults with asthma |
+| [NCT00252863](https://clinicaltrials.gov/study/NCT00252863) | Phase 3 | Completed | 1600 | Symbicort single inhaler therapy vs conventional best practice in persistent asthma (terbutaline likely as reliever) |
+| [NCT00421122](https://clinicaltrials.gov/study/NCT00421122) | Phase 3 | Completed | 315 | Symbicort plus Bricasol (terbutaline) vs Pulmicort plus Bricasol in Chinese COPD patients |
+
+Most of these trials use terbutaline as a reliever or comparator, not as the investigational drug. Evidence for its efficacy in asthma is strong, but direct evidence in COPD from the registered trials is limited. One additional trial (NCT04973345) was withdrawn with no enrollment and provides no evidence.
 
 ---
 
@@ -86,39 +86,69 @@ Because of this overlap, this candidate should be read not as a novel repurposin
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [30156361](https://pubmed.ncbi.nlm.nih.gov/30156361/) | 2019 | RCT | Acad Emerg Med | Nebulized terbutaline + ipratropium vs. terbutaline alone in AECOPD requiring non-invasive ventilation |
-| [1615190](https://pubmed.ncbi.nlm.nih.gov/1615190/) | 1992 | RCT | Respiratory Medicine | Placebo-controlled crossover: inhaled terbutaline improves FEV1, FVC, dyspnoea, walking distance in COPD |
-| [3073804](https://pubmed.ncbi.nlm.nih.gov/3073804/) | 1988 | RCT | Br J Dis Chest | Double-blind crossover: oral terbutaline increases diaphragmatic contraction force in COPD |
-| [3044105](https://pubmed.ncbi.nlm.nih.gov/3044105/) | 1988 | RCT | Am J Med Sci | Placebo-controlled crossover: oral terbutaline augments cardiac performance in COPD |
-| [10384064](https://pubmed.ncbi.nlm.nih.gov/10384064/) | 1999 | RCT | Lung | Double-blind, placebo-controlled crossover: terbutaline effects on exercise capacity and lung function in COPD |
-| [2031046](https://pubmed.ncbi.nlm.nih.gov/2031046/) | 1991 | RCT | Pneumologie | Randomized crossover: nebulized terbutaline + positive expiratory pressure in COPD |
-| [2951811](https://pubmed.ncbi.nlm.nih.gov/2951811/) | 1986 | RCT | Respiration | Randomized single-blind: fenoterol-ipratropium combo vs. terbutaline in COLD |
-| [6988343](https://pubmed.ncbi.nlm.nih.gov/6988343/) | 1980 | RCT | Int J Clin Pharmacol Ther Toxicol | Double-blind: clenbuterol vs. terbutaline bronchodilator effects in COLD |
-| [6107217](https://pubmed.ncbi.nlm.nih.gov/6107217/) | 1980 | RCT | Chest | Double-blind crossover: beta-blocker interaction with terbutaline in COLD patients |
-| [33065789](https://pubmed.ncbi.nlm.nih.gov/33065789/) | 2020 | Clinical Study | Ann Palliat Med | N-acetylcysteine + terbutaline sulfate in elderly COPD — apoptosis/anti-apoptosis mechanism |
+| [29768149](https://pubmed.ncbi.nlm.nih.gov/29768149/) | 2018 | RCT | N Engl J Med | As-needed budesonide-formoterol in mild asthma, as an alternative to conventional strategies with a short-acting beta-agonist |
+| [3073804](https://pubmed.ncbi.nlm.nih.gov/3073804/) | 1988 | RCT | Br J Dis Chest | Oral terbutaline increased diaphragmatic contraction force vs placebo in COPD (10 patients) |
+| [30156361](https://pubmed.ncbi.nlm.nih.gov/30156361/) | 2019 | RCT | Acad Emerg Med | Nebulized terbutaline plus ipratropium vs terbutaline alone in COPD exacerbation needing noninvasive ventilation |
+| [6988343](https://pubmed.ncbi.nlm.nih.gov/6988343/) | 1980 | RCT | Int J Clin Pharmacol Ther Toxicol | Oral clenbuterol vs terbutaline in chronic obstructive lung disease over two weeks |
+| [10384064](https://pubmed.ncbi.nlm.nih.gov/10384064/) | 1999 | RCT (crossover) | Lung | Single-dose terbutaline Turbuhaler on lung function and exercise capacity in COPD |
+| [1615190](https://pubmed.ncbi.nlm.nih.gov/1615190/) | 1992 | RCT (crossover) | Respir Med | Inhaled terbutaline on FEV1, FVC, dyspnoea and walking distance in COPD |
+| [36227333](https://pubmed.ncbi.nlm.nih.gov/36227333/) | 2023 | Systematic Review | Naunyn Schmiedebergs Arch Pharmacol | Pharmacokinetics of terbutaline in humans across routes, age, disease states and other factors |
+| [23348973](https://pubmed.ncbi.nlm.nih.gov/23348973/) | 2013 | Review | Am J Respir Crit Care Med | Beta-2 agonists, including terbutaline, as bronchodilators in lung disease |
+| [25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/) | 2015 | Guideline | Basic Clin Pharmacol Toxicol | Finnish guideline on diagnosis and pharmacotherapy of stable COPD |
+| [33065789](https://pubmed.ncbi.nlm.nih.gov/33065789/) | 2020 | Clinical study | Ann Palliat Med | N-acetylcysteine plus terbutaline in elderly COPD patients |
+
+---
+
+## India Market Information
+
+Terbutaline holds 20 valid single-ingredient registrations in India and none are cancelled. No approved indication text is available in the data compiled for this report. The main authorizations are:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 27654 | Bricanyl 0.5mg Injection (AstraZeneca) | Vial of 1 ml injection | Not stated |
+| 140276 | MT 4 Syrup (Abron Healthcare) | Bottle of 100 ml syrup | Not stated |
+| 202119 | Somavent Forte AF Tablet (Somatico Pharmacal) | Strip of 10 tablets | Not stated |
+| 67051 | Doxofast T 5mg/400mg Tablet (Innovative Pharmaceuticals) | Strip of 10 tablets | Not stated |
+| 27321 | Bronchosolvin Syrup (Ipca Laboratories) | Bottle of 60 ml syrup | Not stated |
+
+Available forms are syrups, tablets and an injection.
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: DDI screening identified **406 total interactions**. Representative *Moderate*-level interactions include: Acarbose, Isometheptene, Famotidine, Epinephrine, Albiglutide, Alogliptin, Pioglitazone, Loperamide, Bisacodyl, Canagliflozin, Chlorpropamide, Clarithromycin, Picosulfuric acid, and Polyethylene glycol (3350 w/ electrolytes). Representative *Minor*-level interactions include corticosteroids commonly co-prescribed in obstructive lung disease regimens: Hydrocortisone, Triamcinolone, Dexamethasone, Beclomethasone dipropionate, Betamethasone, and Budesonide.
+- **Contraindications flagged in the knowledge graph** (these come from the TxGNN knowledge graph, not from package insert text): hypertension, epilepsy, hyperglycemia, diabetes mellitus, diabetic ketoacidosis, potassium deficiency, sudden cardiac arrest, heart conduction disease, respiratory failure, hyperthyroidism (including Graves disease and thyrotoxicosis), pulmonary edema, myocardial ischemia, coronary artery disease, and placental abruption.
+- **Drug Interactions**: 406 interactions are recorded. Examples include:
+  - Moderate: acarbose, alogliptin, pioglitazone, canagliflozin, chlorpropamide (antidiabetic agents), epinephrine, famotidine, clarithromycin, loperamide, bisacodyl.
+  - Minor: corticosteroids such as hydrocortisone, dexamethasone, budesonide, triamcinolone, betamethasone and beclomethasone.
+- **Monitoring points** (inferred from general pharmacology): cardiovascular effects (tachycardia, arrhythmia), hypokalaemia and tremor. Special attention is needed for co-medication with beta-blockers, diuretics, MAO inhibitors and tricyclic antidepressants.
 
-Formal local product-label warnings and contraindications are not yet available in this evidence pack (see DG001 below).
+Please refer to the package insert for official warnings and contraindications.
+
+---
+
+## Other Predicted Indications (Lower Priority)
+
+| Predicted Indication | TxGNN Score | Evidence Level | Decision | Comment |
+|------|------|------|------|------|
+| Respiratory malformation | 99.52% | L4 | Hold | Only one broad pediatric PK/safety program (NCT04278404) and mostly mismatched literature. Beta-2 agonism may relieve reversible bronchoconstriction but cannot correct a structural malformation. |
+| Rienhoff syndrome | 99.38% | L5 | Hold | No trials and no literature. No mechanistic link is supported by the data. |
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-A Blocking-severity data gap (DG001 — local product label warnings/contraindications) explicitly prevents this candidate from entering the S1 safety pre-screen stage, and Terbutaline holds zero current registrations locally. Additionally, the top predicted indication (Obstructive Lung Disease) substantially overlaps with Terbutaline's decades-established use as a bronchodilator in asthma/COPD, so the strategic value here is primarily about registration/import feasibility rather than discovering a genuinely new therapeutic application.
+Multiple completed Phase 3 trials support terbutaline in asthma, and its bronchodilator mechanism applies directly to obstructive lung disease. The prediction is essentially an on-label or near-label use. Its safety profile needs active management because of the cardiovascular, metabolic and interaction burden.
 
 **To proceed, the following is needed:**
-- Local product label (key warnings, contraindications) — DG001, Blocking
-- Formal DrugBank/mechanism-of-action record — DG002, High
-- Assessment of registration/import pathway given 0 current licenses
-- Clarification of why "obstructive lung disease" surfaces as a *new* candidate despite Terbutaline's extensive existing use in this exact disease category (possible knowledge-graph mapping artifact worth a methodology review)
+- Package insert warnings and contraindications from the India product labels (currently missing)
+- Detailed mechanism of action data from DrugBank
+- Approved indication text for the India registrations, to confirm whether COPD is already covered
+- Direct COPD efficacy data with terbutaline as the investigational drug, since most registered trials use it as a comparator
+- A cardiovascular and electrolyte monitoring plan, especially for patients with hypertension, diabetes, thyroid disease or ischaemic heart disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

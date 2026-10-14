@@ -2,7 +2,7 @@
 layout: default
 title: Etoricoxib
 parent: Model Prediction Only (L5)
-nav_order: 329
+nav_order: 332
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,92 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Etoricoxib: From Arthritis/Pain to Migraine Disorder
+# Etoricoxib: From Inflammatory and Pain Conditions to Migraine Disorder
 
 ## One-Sentence Summary
 
-Etoricoxib is a selective COX-2 inhibitor known for treating osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, acute pain and gout.
-The TxGNN model predicts it may be effective for **Migraine Disorder**,
-but this ranking is currently supported by **0 clinical trials** and **0 publications** — it is a pure computational prediction with no direct evidence.
-
----
+Etoricoxib is a selective COX-2 inhibitor used for pain and inflammatory conditions such as osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, acute pain and gout.
+The TxGNN model predicts it may be effective for **migraine disorder**, but there are **no registered clinical trials** and only **1 loosely related publication** (a scoping review that contains no etoricoxib-specific data).
+The prediction is therefore supported mainly by the model score and a plausible mechanism, not by direct clinical evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis, chronic low back pain, ankylosing spondylitis, acute pain, gout (per pharmacology database; not a TFDA-registered indication) |
-| Predicted New Indication | Migraine Disorder |
+| Original Indication | Not stated in the India licence records; pharmacology references list rheumatoid arthritis, osteoarthritis, chronic lower back pain, ankylosing spondylitis, acute pain and gout |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.90% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the current evidence pack. Based on the pharmacology data that is available, etoricoxib is a synthetic, selective cyclooxygenase-2 (COX-2 / PTGS2) inhibitor, clinically used for rheumatoid arthritis, osteoarthritis, chronic lower back pain, ankylosing spondylitis, acute pain and gout.
+Detailed mechanism of action data is not available in the data compiled for this report. Etoricoxib is known as a selective COX-2 inhibitor (target: PTGS2), and its efficacy in pain and inflammatory conditions is established.
 
-The predicted link to migraine disorder is described in the evidence pack itself as "purely a TxGNN knowledge-graph embedding similarity prediction." There is a theoretical mechanistic rationale — prostaglandins generated via the COX-2 pathway are implicated in neurogenic inflammation and neurovascular signaling, which plays a role in migraine pathophysiology — but this connection has **not** been tested directly for etoricoxib in migraine disorder: no clinical trials and no literature were retrieved for this specific disease term.
+COX-2-derived prostaglandins such as PGE2 are thought to contribute to neurogenic inflammation and trigeminovascular sensitization in migraine. Other NSAIDs are established in acute migraine treatment, so a mechanistic link is plausible.
 
-Notably, related but lower-ranked predictions in this same evidence pack (headache disorder, rank 9; trigeminal autonomic cephalalgia, rank 10) do have real, if weak, supporting evidence — several case reports and one case series describe etoricoxib/celecoxib responsiveness in indomethacin-responsive headache syndromes (e.g., primary stabbing headache, cough headache), which lends indirect, class-level plausibility to a COX-2-inhibitor/headache-pathway link. However, "migraine disorder" itself, the top-ranked candidate, has no such corroborating evidence and should not be conflated with these adjacent, better-evidenced entities.
-
----
+However, the only publication linked to this prediction is a scoping review of fasting-induced headache during Ramadan, which provides no etoricoxib efficacy data. The high TxGNN score is a model prediction only.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [42841395](https://pubmed.ncbi.nlm.nih.gov/42841395/) | 2026 | Review | Pain management | Scoping review of fasting-induced headache in Ramadan; no etoricoxib-specific efficacy data |
 
----
+**Related evidence for neighbouring predictions (not direct support for migraine disorder):**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [29209105](https://pubmed.ncbi.nlm.nih.gov/29209105/) | 2017 | Preclinical (rat) | Mediators of inflammation | Oral nimesulide, etoricoxib and ketoprofen affected CGRP and PGE2 release from rat trigeminal ganglia (predicted indication: migraine susceptibility) |
+| [35277974](https://pubmed.ncbi.nlm.nih.gov/35277974/) | 2022 | Case series | Headache | Etoricoxib- and celecoxib-sensitive indomethacin-responsive headache disorders, including trigeminal autonomic cephalalgias |
+| [36893522](https://pubmed.ncbi.nlm.nih.gov/36893522/) | 2023 | Case report | Clin Neurol Neurosurg | Two patients with secondary cough headache responded to etoricoxib |
+| [17883876](https://pubmed.ncbi.nlm.nih.gov/17883876/) | 2007 | Case report | J Med Case Rep | Etoricoxib used to treat idiopathic stabbing headache |
+| [18171381](https://pubmed.ncbi.nlm.nih.gov/18171381/) | 2008 | Case report/small series | Eur J Neurol | Primary stabbing headache can respond to etoricoxib |
 
 ## India Market Information
 
-Etoricoxib currently has **0 registrations** and is **not marketed** in Taiwan (source: taiwan_regulatory dataset); no license records are available to summarize.
+Etoricoxib has 20 valid single-ingredient registrations. The records do not include approved indication text. Five representative authorizations:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 80717 | Etix 90mg Tablet | Strip of 10 tablets | Not listed |
+| 224464 | Torcoxia 60mg Tablet | Strip of 10 tablets | Not listed |
+| 78259 | Etobert 120mg Tablet | Strip of 10 tablets | Not listed |
+| 5195 | Adetor 90mg Tablet | Strip of 10 tablets | Not listed |
+| 76076 | Etonext 120mg Tablet | Strip of 10 tablets | Not listed |
+
+All products are oral tablets. Several are fixed-dose combinations, for example with thiocolchicoside, paracetamol or tizanidine.
 
 ## Safety Considerations
 
-- **Drug Interactions**: The safety database record for etoricoxib describes its pharmacological target (COX-2 / PTGS2 gene, human) rather than a specific interacting drug or DDI severity level; no actionable drug-pair interaction data is currently available.
+- **Hyperkalemia and kidney injury:** A case report describes life-threatening hyperkalemia and acute kidney dysfunction with etoricoxib in a patient taking telmisartan on a potassium-rich, low-sodium diet.
+- **Cerebrovascular risk:** A case report describes reversible cerebral vasoconstriction syndrome possibly induced by etoricoxib. This is relevant to any headache indication.
+- **Cardiovascular risk:** COX-2 inhibitors have been linked to increased risk of myocardial infarction, fluid retention and raised blood pressure.
+- **Drug interactions:** Pharmacology data identify COX-2 (PTGS2) as the target. No specific drug-drug interaction entries were available.
 
-Formal key warnings and contraindications are not available in the current evidence pack. Please refer to the package insert for complete safety information. Separately, unrelated literature surfaced during evidence collection for other candidate indications flags known class-level COX-2 inhibitor safety signals worth keeping in view — a case report of etoricoxib-induced life-threatening hyperkalemia and acute kidney injury (in combination with telmisartan and a low-sodium diet), and a case report of possible etoricoxib-associated reversible cerebral vasoconstriction syndrome — consistent with the established cardiovascular/renal risk profile of selective COX-2 inhibitors.
-
----
+Please also refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (migraine disorder) is supported only by a TxGNN model score with zero clinical trials and zero literature — this is an L5, model-only signal per the evidence pack's own scoring, insufficient to advance past initial screening.
+Evidence is at the model-prediction level (L5): there are no clinical trials and no etoricoxib-specific migraine data. The mechanism is plausible, but the safety signals, including cardiovascular, renal and cerebrovascular events, need to be weighed.
+
+Of the other predictions, headache disorder and trigeminal autonomic cephalalgia have more direct supporting reports (all case-level, L4) and are better candidates for further research than migraine itself.
 
 **To proceed, the following is needed:**
-- TFDA/manufacturer label data on warnings, contraindications, and confirmed original indications (currently blocking, per DG001)
-- Confirmed mechanism-of-action documentation (currently a data gap, per DG002)
-- Targeted literature/clinical-trial search specifically on "etoricoxib" AND "migraine" to confirm the absence of evidence is not a search-term artifact
-- If pursuing the COX-2/headache-pathway angle at all, consider re-scoping toward the better-evidenced adjacent candidates (headache disorder, trigeminal autonomic cephalalgia) rather than migraine disorder itself, and note their evidence is limited to case reports/case series only
+- Package insert warnings and contraindications from the India regulator
+- Detailed mechanism of action data
+- Etoricoxib-specific controlled studies in migraine, or a systematic search of the migraine literature on COX-2 inhibitors
+- A cardiovascular, renal and cerebrovascular risk assessment for the target population
+- Consideration of headache disorders responsive to COX-2 inhibitors as a more evidence-supported starting point
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

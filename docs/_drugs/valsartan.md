@@ -2,7 +2,7 @@
 layout: default
 title: Valsartan
 parent: Moderate Evidence (L3-L4)
-nav_order: 871
+nav_order: 880
 evidence_level: L4
 indication_count: 7
 ---
@@ -33,112 +33,92 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 ## One-Sentence Summary
 
-Valsartan is an angiotensin II type 1 receptor blocker (ARB) with well-established use in hypertension, heart failure, and post-myocardial infarction management.
-The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease**, with **0 clinical trials** and **1 experimental publication** currently supporting this direction.
-Overall evidence is at the preclinical/mechanistic level (L4), and a formal research programme is required before clinical translation.
-
----
+Valsartan is an angiotensin II receptor blocker originally used to treat hypertension.
+The TxGNN model predicts it may be useful for **malignant hypertensive renal disease**,
+but the supporting evidence is thin: **no clinical trials** and **1 publication** (a preclinical study of a different drug) were found for this indication.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension, heart failure, post-myocardial infarction (ARB class) |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
+|------|------|
+| Original Indication | Hypertension (hypertensive disorder) |
+| Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
-
-## All Predicted Indications at a Glance
-
-| Rank | Indication | TxGNN Score | Evidence Level | Recommendation |
-|------|-----------|------------|---------------|---------------|
-| 1 | Malignant hypertensive renal disease | 99.97% | L4 | Research Question |
-| 2 | Malignant renovascular hypertension | 99.97% | L4 | Research Question |
-| 3 | Pulmonary hypertension owing to lung disease / hypoxia | 99.97% | L5 | Hold |
-| 4 | Pulmonary hypertension with unclear multifactorial mechanism | 99.97% | L5 | Hold |
-| 5 | Braddock syndrome | 99.96% | L5 | Hold |
-| 6 | Chronic pulmonary heart disease | 99.58% | L3 | Research Question |
-| 7 | Prinzmetal angina | 99.45% | L5 | Hold |
-
-The remainder of this report provides detailed evidence for **Indication #1 (Malignant Hypertensive Renal Disease)**, the top-ranked prediction.
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data could not be retrieved in this query cycle (DrugBank data gap). Based on established pharmacology, Valsartan selectively blocks the angiotensin II type 1 (AT1) receptor, preventing angiotensin II from triggering vasoconstriction, aldosterone secretion, and downstream pro-fibrotic and pro-inflammatory cascades. In the kidney, AT1 blockade reduces intraglomerular pressure and suppresses mesangial fibrosis — effects that are central to renoprotective ARB therapy.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, valsartan is an angiotensin II type 1 (AT1) receptor blocker. Its efficacy in hypertension is established, and mechanistically it may be applicable to malignant hypertensive renal disease.
 
-Malignant hypertensive renal disease is defined by fulminant RAAS hyperactivation: fibrinoid necrosis of renal arterioles, rapidly progressive renal insufficiency, and microangiopathic haemolysis. This is precisely the disease context where AT1 receptor blockade has the strongest theoretical rationale, as Ang II-mediated constriction of efferent arterioles and direct pro-fibrotic signalling are core pathological drivers. The TxGNN model likely captured the dense co-occurrence of "ARB / Valsartan / malignant hypertension / renal disease" nodes in the knowledge graph, reflecting this mechanistic logic.
+Angiotensin II-driven vascular and renal injury is central to malignant nephrosclerosis, so blocking the AT1 receptor is a plausible approach and sits close to the original hypertension indication. The only retrieved paper, however, studies avosentan (an endothelin antagonist) in hypertensive nephropathy in rats, not valsartan. It therefore gives only indirect support.
 
-The sole supporting publication (PMID 24368192) investigates avosentan — an endothelin receptor antagonist, not Valsartan — in RAAS double-transgenic rats that overexpress both human renin and angiotensinogen. Although the drug class differs, the shared RAAS-overactivation pathology makes this an indirect mechanistic analogue. A complementary study in Indication #2 (PMID 11560862, *Circulation* 2001) directly tests AT1 receptor blockade in lethal malignant hypertension and kidney inflammation in an animal model, providing the closest mechanistic support to Valsartan's specific action — but this evidence remains preclinical, with no subsequent RCT follow-up in over two decades.
-
----
+Other predicted indications were also reviewed:
+- **Malignant renovascular hypertension** (L4): A 2001 animal study found AT1 receptor blockade prevented lethal malignant hypertension. This is indirect preclinical support. Bilateral renal artery stenosis is a known safety concern for this drug class.
+- **Pulmonary hypertension due to lung disease/hypoxia** (L4): Evidence is preclinical and mostly involves sacubitril/valsartan rather than valsartan alone.
+- **Chronic pulmonary heart disease** (L4): One preclinical paper suggests angiotensin receptor-neprilysin inhibition attenuates right ventricular remodeling in pulmonary hypertension. The rest of the literature concerns heart failure.
+- **Pulmonary hypertension with unclear multifactorial mechanism, Braddock syndrome, Prinzmetal angina** (L5): Prediction only, with no credible supporting evidence.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Valsartan in malignant hypertensive renal disease.
+No clinical trials are registered for the lead predicted indication, malignant hypertensive renal disease.
 
----
+For the sixth-ranked prediction, chronic pulmonary heart disease, one trial was retrieved, but it is only tangentially related:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02966665](https://clinicaltrials.gov/study/NCT02966665) | Phase 1 | Recruiting | 420 | Vascular function and exercise rehabilitation in hypertension; does not appear to test valsartan or target this indication |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Animal / Experimental | Pharmacological Research | Avosentan (endothelin antagonist) protects against hypertensive nephropathy in RAAS double-transgenic rats at sub-fluid-retention doses; provides indirect mechanistic analogy for RAAS-targeted renal protection but does not directly study Valsartan |
+|------|-----|------|------|---------|
+| [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Preclinical (animal) | Pharmacological Research | Avosentan (endothelin antagonist, not valsartan) protected against hypertensive nephropathy in transgenic rats at doses that did not cause fluid retention |
 
----
+Related literature for other predicted indications:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [11560862](https://pubmed.ncbi.nlm.nih.gov/11560862/) | 2001 | Preclinical (animal) | Circulation | AT1 receptor blockade prevented lethal malignant hypertension, related to reduced kidney inflammation (malignant renovascular hypertension) |
+| [32552157](https://pubmed.ncbi.nlm.nih.gov/32552157/) | 2020 | Preclinical (animal) | J Am Heart Assoc | Sacubitril/valsartan attenuated right ventricular remodeling in pulmonary hypertension |
+| [22377232](https://pubmed.ncbi.nlm.nih.gov/22377232/) | 2012 | Preclinical (animal) | Diabetes Res Clin Pract | Valsartan inhibited the HIF-1α pathway and reduced renal interstitial fibrosis in diabetic rats |
+| [36719525](https://pubmed.ncbi.nlm.nih.gov/36719525/) | 2023 | Preclinical (animal) | Sleep & Breathing | Sacubitril/valsartan mitigated intermittent-hypoxia-related gut microbiota changes and aortic injury |
+| [39210725](https://pubmed.ncbi.nlm.nih.gov/39210725/) | 2024 | Post hoc RCT analysis | JAMA Cardiology | Sacubitril/valsartan and all-cause hospitalizations in heart failure (indirect relevance) |
 
 ## India Market Information
 
-Valsartan currently holds **no registered product licences** in India under CDSCO. The drug is not commercially available in the Indian market. Any future repurposing programme targeting India would need to address the full regulatory pathway for market authorisation prior to clinical investigation.
+Valsartan is marketed in India with 20 valid single-ingredient registrations. Approved indication text is not available in the data compiled for this report. Main authorizations:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 58946 | Diovan 80 Tablet (Novartis India Ltd) | Strip of 14 tablets | Not specified |
+| 64720 | Diovan 160 Tablet (Novartis India Ltd) | Strip of 28 tablets | Not specified |
+| 36075 | Co-Diovan 80/12.5 Tablet (Novartis India Ltd) | Strip of 14 tablets | Not specified |
+| 233540 | Valent 80 Tablet (Lupin Ltd) | Strip of 10 tablets | Not specified |
+| 208126 | Starval 160mg Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 10 capsules | Not specified |
 
 ## Safety Considerations
 
-**Drug Interactions:** A total of **254 interactions** were identified. Key interactions are listed below.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for full safety information.
 
-**Major interactions — require active management:**
-
-| Interacting Drug | Level | Clinical Concern |
-|----------------|-------|-----------------|
-| Potassium Bicarbonate | Major | Risk of hyperkalaemia; concurrent use should be avoided or require close electrolyte monitoring |
-| Potassium Chloride | Major | Risk of hyperkalaemia; serum potassium must be monitored regularly |
-
-**Moderate interactions — representative examples:**
-
-| Interacting Drug / Class | Level | Clinical Concern |
-|--------------------------|-------|-----------------|
-| Insulin (all formulations: human, aspart, degludec, detemir, glargine, glulisine, lispro, isophane, zinc, inhalation) | Moderate | ARBs may enhance hypoglycaemic effect; blood glucose monitoring recommended |
-| Hydrocortisone | Moderate | Corticosteroids can attenuate antihypertensive effect |
-| Exenatide | Moderate | Enhanced hypoglycaemic effect possible |
-| Eluxadoline | Moderate | Monitor for altered GI or haemodynamic effects |
-| Polyethylene Glycol 3350 with electrolytes | Moderate | Electrolyte balance (particularly potassium) requires management |
-
-> Detailed warnings and contraindications could not be retrieved in this query cycle (CDSCO/package insert data gap). Please refer to the approved package insert for full safety information before clinical use.
-
----
+- **Disease contraindications (from a knowledge graph, not label text)**: Items flagged include liver failure and liver disease, pancreatitis, gallbladder disease, angioedema (including hereditary and ACE/RAAS-blocker-induced forms), systemic lupus erythematosus, diabetes and diabetic ketoacidosis, gout, hypotensive disorder, anuria, impaired renal function, renal artery obstruction, neutropenia/agranulocytosis, and electrolyte or mineral disorders (potassium deficiency, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease). These should be verified against the official label.
+- **Drug Interactions**: 254 interactions were recorded. The **Major** interactions among those listed are with **potassium bicarbonate** and **potassium chloride** (risk of hyperkalaemia). **Moderate** interactions include hydrocortisone, eluxadoline, exenatide, polyethylene glycol with electrolytes, and numerous insulin products.
+- Bilateral renal artery stenosis is a known safety concern for this drug class, which is directly relevant to the renovascular hypertension prediction.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Although Valsartan's AT1 receptor blockade mechanism is strongly theoretically applicable to malignant hypertensive renal disease — where RAAS hyperactivation is a core driver — the current evidence base consists solely of a single indirect animal study using a different drug. There are no registered clinical trials for this specific indication, and Valsartan is not marketed in India (0 CDSCO authorisations). The evidence is not sufficient to progress beyond a research hypothesis at this time.
+The prediction score is very high (99.97%), and the AT1-blockade mechanism is plausible. But there are no clinical trials, and the only retrieved paper is an animal study of a different drug. Evidence is at the L4 level for the top predictions and L5 for several others, so the score alone cannot justify moving forward.
 
 **To proceed, the following is needed:**
-
-- **Retrieve CDSCO/package insert safety data** (warnings and contraindications) to complete the S1 safety gate assessment — currently a blocking data gap
-- **Obtain DrugBank MOA documentation** for Valsartan to formally confirm and document mechanistic links for the dossier
-- **Conduct a targeted literature review** specifically on ARB-class drugs (candesartan, losartan, olmesartan) in malignant hypertension and hypertensive nephropathy to establish class-level evidence
-- **Identify if any investigator-initiated trials** exist outside ClinicalTrials.gov (e.g., EU Clinical Trials Register, WHO ICTRP) for ARBs in malignant hypertensive nephropathy
-- **Design a pilot clinical study** or seek academic collaboration for a proof-of-concept trial evaluating Valsartan or an ARB comparator in malignant hypertensive renal disease
-- **Establish a regulatory strategy for India market entry** before any clinical development programme can be initiated in-country
+- Clinical or valsartan-specific preclinical data in malignant hypertensive nephrosclerosis (and renovascular hypertension)
+- Mechanism of action data to strengthen the mechanistic-link analysis
+- Package insert warnings and contraindications from the Indian regulatory source, which are needed for safety screening
+- A safety assessment for patients with renal impairment, renal artery stenosis, or hyperkalaemia risk, given the renal focus of the lead indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

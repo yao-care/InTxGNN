@@ -2,15 +2,15 @@
 layout: default
 title: Levonorgestrel
 parent: Moderate Evidence (L3-L4)
-nav_order: 484
-evidence_level: L3
+nav_order: 489
+evidence_level: L4
 indication_count: 6
 ---
 
 # Levonorgestrel
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **6** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,95 +29,103 @@ Evidence Level: **L3** | Predicted Indications: **6**
 
 </div>
 
-# Levonorgestrel: From Contraception to Acne
+# Levonorgestrel: From Postmenopausal Osteoporosis to Acne
 
 ## One-Sentence Summary
 
-Levonorgestrel (LNG) is a synthetic progestin widely used as a hormonal contraceptive, available in combined oral contraceptives (COC), intrauterine devices (IUD), and emergency contraception formulations.
-The TxGNN model predicts it may be effective for **Acne (Disease)**, with **5 clinical trials** and **20 publications** currently supporting this direction — though the mechanistic relationship is notably complex and bidirectional, requiring careful interpretation.
+Levonorgestrel is a progestin, listed in the TxGN knowledge graph for postmenopausal osteoporosis and widely marketed in India for contraception, including emergency contraception and intrauterine systems.
+The TxGNN model predicts it may be effective for **acne (disease)**, but there are **0 registered clinical trials** and only **indirect literature** supporting this direction.
+The evidence is a model prediction with class-level context, and levonorgestrel alone is unlikely to be beneficial for acne.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Contraception (no India regulatory records on file) |
-| Predicted New Indication | Acne (Disease) |
+|------|------|
+| Original Indication | Postmenopausal osteoporosis / osteoporosis (from the knowledge graph; no approved indication text is available for the Indian licences) |
+| Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 99.88% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Levonorgestrel is a 19-nortestosterone-derived synthetic progestin with well-documented **androgenic activity**, classifying it among the more androgenic members of the progestin family (PMID 7825629). It functions primarily as a hormonal contraceptive — either as the progestin component of combined oral contraceptives (COC) paired with ethinylestradiol (EE), or as a standalone progestin in intrauterine devices and subdermal implants. Detailed MOA data is currently unavailable from the regulatory database; the mechanistic picture below is derived from the published literature.
+Currently, detailed mechanism of action data is not available. Based on known information, levonorgestrel is a progestin derived from 19-nortestosterone. It is used mainly in contraceptives (oral tablets, emergency contraception, and intrauterine systems).
 
-The relationship between LNG and acne is **mechanistically bidirectional**. When used in combination with EE as a COC, the estrogen component raises sex hormone-binding globulin (SHBG), lowers circulating free testosterone, and suppresses sebaceous gland activity — all of which can improve acne. A placebo-controlled RCT (PMID 12196750) demonstrated that a low-dose COC containing 20 µg EE + 100 µg LNG significantly improved biochemical markers of androgenicity and was effective against moderate acne. This is the strongest signal supporting the TxGNN prediction.
+The link to acne is only partly plausible. Acne is driven in part by androgens acting on the sebaceous gland. Combined oral contraceptives containing ethinylestradiol raise sex hormone-binding globulin (SHBG) and lower free androgens, which can improve acne. One randomized, placebo-controlled trial (PMID 12196750) studied a low-dose combination of 20 µg ethinylestradiol and 100 µg levonorgestrel in moderate acne. That benefit comes from the combination and the estrogen component, not from levonorgestrel alone.
 
-However, LNG used **alone** exhibits partial androgen receptor (AR) agonist activity that can stimulate sebaceous glands and elevate free androgens — potentially **worsening** rather than treating acne. Comparative studies consistently show LNG-containing pills are less favorable for dermatological outcomes than COCs formulated with anti-androgenic progestins (e.g., drospirenone, chlormadinone acetate). In short, the beneficial acne signal belongs to the LNG+EE combination, not LNG as a standalone agent.
+Levonorgestrel also has measurable residual androgenic activity, which generally works against acne. Newer antiandrogenic progestins, such as chlormadinone acetate, have documented dermatological benefits. The very high TxGNN score is a computational prediction, not clinical evidence. The original osteoporosis indication has no obvious mechanistic connection to acne.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT00480532](https://clinicaltrials.gov/study/NCT00480532) | N/A | Completed | 131 | Evaluates doxycycline for reducing breakthrough bleeding during continuous LNG-containing COC use; acne is incidental context, not a primary endpoint |
-| [NCT01650168](https://clinicaltrials.gov/study/NCT01650168) | N/A | Completed | 101,498 | Large safety cohort comparing nomegestrol acetate/estradiol vs. LNG-containing COC; primary endpoints are cardiovascular and VTE safety, not acne efficacy |
-| [NCT00161226](https://clinicaltrials.gov/study/NCT00161226) | N/A | Terminated | 44 | LNG intrauterine system for endometrial cancer prevention in obese women; oral progestin-associated acne cited as background rationale, no acne treatment endpoint |
-| [NCT05570786](https://clinicaltrials.gov/study/NCT05570786) | Phase 2 | Completed | 100 | Double-blind RCT of gestrinone subdermal implant for endometriosis-associated pelvic pain; study drug is gestrinone (not LNG), indirect relevance only |
-| [NCT05492487](https://clinicaltrials.gov/study/NCT05492487) | Phase 2 | Unknown | 60 | LNG-IUS (Mirena) vs. megestrol for atypical endometrial hyperplasia; no acne-related endpoints |
-
-> ⚠️ **Important:** No registered trial directly evaluates LNG monotherapy for acne treatment. All acne-relevant signals derive from LNG+EE combination oral contraceptive studies.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [12196750](https://pubmed.ncbi.nlm.nih.gov/12196750/) | 2002 | RCT | J Am Acad Dermatol | Placebo-controlled trial: low-dose COC (20 µg EE + 100 µg LNG) significantly improved moderate acne; effect attributed to EE-driven SHBG elevation and androgen suppression |
-| [6084924](https://pubmed.ncbi.nlm.nih.gov/6084924/) | 1984 | Clinical Study | Acta Derm Venereol | LNG+EE OC raised SHBG and reduced free testosterone in female acne patients; pre-treatment androgen abnormalities found in 57% of subjects |
-| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Review | Am J Medicine | LNG classified as a highly androgenic progestin (19-nortestosterone derivative); its androgenic activity is identified as an unfavorable property in acne management |
-| [21895044](https://pubmed.ncbi.nlm.nih.gov/21895044/) | 2011 | Comparative Review | Am J Clin Dermatol | EE/chlormadinone acetate superior to EE/LNG for acne, hirsutism, and seborrhea; anti-androgenic progestins preferred for pilosebaceous unit disorders |
-| [15025547](https://pubmed.ncbi.nlm.nih.gov/15025547/) | 2004 | Review | Drugs | EE/CMA significantly more effective than EE/LNG 0.03/0.15 mg for mild-to-moderate papulopustular facial acne in a controlled comparison |
-| [16796485](https://pubmed.ncbi.nlm.nih.gov/16796485/) | 2006 | Review | J Womens Health | Drospirenone-containing COC outperforms LNG-containing COC in reducing acne vulgaris and hirsutism due to antimineralocorticoid and antiandrogenic properties |
-| [11727177](https://pubmed.ncbi.nlm.nih.gov/11727177/) | 2001 | Review | Semin Reprod Med | LNG-IUS produces strong antiproliferative effect on endometrium; systemic LNG exposure via IUD is low — limited relevance to systemic acne treatment |
-| [14688179](https://pubmed.ncbi.nlm.nih.gov/14688179/) | 2004 | Cohort | Hum Reprod | LNG-IUS improved symptoms of endometriosis; primarily a local progestogenic effect with low systemic androgenic exposure |
-| [32909630](https://pubmed.ncbi.nlm.nih.gov/32909630/) | 2020 | Cochrane Review | Cochrane Database Syst Rev | LNG-IUS effective for endometrial hyperplasia treatment; no acne efficacy endpoints reported |
-| [11091988](https://pubmed.ncbi.nlm.nih.gov/11091988/) | 2000 | Review | Obstet Gynecol Clin NA | LNG implants prevent pregnancy via ovulation inhibition, cervical mucus changes, and endometrial alteration; androgenic activity of LNG noted as a pharmacological property |
+|------|-----|------|------|---------|
+| [12196750](https://pubmed.ncbi.nlm.nih.gov/12196750/) | 2002 | Randomized, placebo-controlled trial | J Am Acad Dermatol | Low-dose oral contraceptive (20 µg ethinylestradiol + 100 µg levonorgestrel) evaluated for moderate acne; it improves biochemical markers of androgenicity |
+| [32909630](https://pubmed.ncbi.nlm.nih.gov/32909630/) | 2020 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Levonorgestrel-releasing intrauterine system for endometrial hyperplasia (not acne) |
+| [15025547](https://pubmed.ncbi.nlm.nih.gov/15025547/) | 2004 | Review | Drugs | Ethinylestradiol/chlormadinone acetate was more effective than ethinylestradiol/levonorgestrel 0.03/0.15 mg in mild-to-moderate papulopustular acne |
+| [21895044](https://pubmed.ncbi.nlm.nih.gov/21895044/) | 2011 | Review | Am J Clin Dermatol | Dermatological benefits of ethinylestradiol/chlormadinone acetate in acne, hirsutism, seborrhea and hair loss |
+| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Review | Am J Med | Androgenicity of progestins; 19-carbon progestins used in most contraceptives retain some androgenic effect |
+| [30088446](https://pubmed.ncbi.nlm.nih.gov/30088446/) | 2018 | Review | Curr Drug Targets | Steroid interactions contributing to sebum production and acne |
+| [11727177](https://pubmed.ncbi.nlm.nih.gov/11727177/) | 2001 | Review | Semin Reprod Med | Progestin-releasing intrauterine systems for contraception (indirect context) |
+| [14688179](https://pubmed.ncbi.nlm.nih.gov/14688179/) | 2004 | Clinical study | Hum Reprod | Intrauterine levonorgestrel for endometriosis symptoms (not acne) |
+
+Most retrieved publications are general reviews of contraceptives and offer only indirect, class-level context.
 
 ---
 
 ## India Market Information
 
-Levonorgestrel currently has **no registered products** in India's drug regulatory database, with zero active licenses on record.
+Levonorgestrel is marketed in India under 20 valid single-ingredient registrations. No approved indication text is available in the data compiled for this report. Five main registrations are listed below.
 
-> *Note: This does not reflect global availability. LNG is widely marketed internationally under brand names including Mirena and Kyleena (hormonal IUDs), Plan B / Postinor (emergency contraception), and as the progestin component of numerous combined oral contraceptive formulations.*
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 134050 | Mirena Intrauterine Delivery System | packet of 1 Unit | Not available |
+| Registration No. 74055 | Eloira Hormonal Intrauterine system | box of 1 Intrauterine system | Not available |
+| Registration No. 86115 | Freedom 28 Tablet | strip of 28 tablets | Not available |
+| Registration No. 108804 | Idoz 1.5mg Tablet | strip of 1 Tablet | Not available |
+| Registration No. 175668 | Pronta 72 Emergency Contraceptive Tablet | strip of 1 Tablet | Not available |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions (162 interactions identified; representative moderate-level interactions shown):**
+- **Disease associations flagged in the knowledge graph (not label text):** the knowledge graph links levonorgestrel to contraindication with the following conditions:
+  - hypertension
+  - epilepsy
+  - liver and gallbladder disease
+  - kidney disease
+  - diabetes mellitus and hyperglycemia
+  - blood coagulation disease
+  - hypertriglyceridemia
+  - asthma
+  - systemic lupus erythematosus
+  - hypothyroidism
+  - porphyria
+  - anxiety and dysthymic disorders
+  - hypercalcemia-related conditions
+- **Drug Interactions:** 162 interactions were recorded. The ones listed are all moderate-level and include:
+  - antidiabetic agents (acarbose, canagliflozin, dapagliflozin, ertugliflozin, linagliptin, nateglinide)
+  - GLP-1 agonists (exenatide, liraglutide)
+  - several insulin products
+  - aprepitant
+  - clotrimazole
+  - linaclotide
+  - glycerol phenylbutyrate
 
-| Interacting Drug | Level | Clinical Note |
-|-----------------|-------|---------------|
-| Insulin aspart, lispro, degludec, isophane, zinc (multiple formulations) | Moderate | LNG may impair insulin sensitivity and compromise glycemic control |
-| Canagliflozin, Dapagliflozin, Ertugliflozin (SGLT2 inhibitors) | Moderate | LNG may counteract glucose-lowering effects of SGLT2 inhibitors |
-| Exenatide, Liraglutide (GLP-1 agonists) | Moderate | Risk of reduced antidiabetic efficacy |
-| Linagliptin, Nateglinide | Moderate | Potential for compromised glycemic management |
-| Aprepitant | Moderate | CYP3A4 induction may reduce LNG plasma concentrations |
-| Clotrimazole | Moderate | CYP enzyme interaction; potential for altered LNG systemic exposure |
-| Acarbose, Glycerol phenylbutyrate | Moderate | LNG's glucocorticoid-like metabolic effects may antagonize antidiabetic agents |
-
-> ⚠️ The high concentration of interactions with antidiabetic drug classes reflects LNG's known effect on **glucose metabolism and insulin resistance** — a clinically important consideration in patients with diabetes or metabolic syndrome.
-
-Please refer to the package insert for full warnings and contraindications (currently unavailable for India; data gap DG001 pending resolution).
+Please refer to the package insert for official warnings and contraindications.
 
 ---
 
@@ -126,15 +134,14 @@ Please refer to the package insert for full warnings and contraindications (curr
 **Decision: Hold**
 
 **Rationale:**
-The clinical evidence for LNG in acne derives **entirely from LNG+EE combination oral contraceptives**, not from LNG monotherapy. LNG's intrinsic androgenic (AR partial agonist) activity means that, without an estrogenic counterpart to raise SHBG, LNG may actively **worsen** acne — making it fundamentally unsuitable as a standalone acne therapy. Comparative head-to-head data consistently rank LNG-containing regimens below anti-androgenic progestins for dermatological indications.
+The prediction rests on a model score with no registered clinical trials. The only supporting literature is indirect and concerns combination contraceptives, where the benefit is attributed mainly to the estrogen component and to antiandrogenic progestins. Levonorgestrel's residual androgenic activity argues against benefit as a single agent. The evidence is at the research-question stage.
 
 **To proceed, the following is needed:**
-- **Formulation strategy clarification:** Determine whether the intended target is the LNG+EE combination (not LNG monotherapy); this changes the regulatory and clinical development pathway entirely
-- **MOA data retrieval:** Complete DrugBank API query to formally document mechanism of action (Data Gap DG002)
-- **Safety package completion:** Retrieve full TFDA/CDSCO package insert for warnings and contraindications (Data Gap DG001, Blocking severity)
-- **Preclinical clarification:** Obtain data on LNG's net effect on sebaceous gland activity in the absence of exogenous estrogen, to resolve the bidirectionality concern
-- **Comparative efficacy design:** If the combination indication is pursued, plan head-to-head trials against anti-androgenic COCs (drospirenone-EE, CMA-EE) to demonstrate non-inferiority or superiority
-- **India regulatory pathway:** With zero existing registrations, any new indication would require a full new drug application to CDSCO
+- Package insert warnings and contraindications from the India regulator, which are currently missing and block safety screening
+- Mechanism of action data
+- Direct comparative data on levonorgestrel alone versus antiandrogenic progestins in acne
+- Clarification of why the knowledge graph links levonorgestrel to osteoporosis and whether that link supports any rationale
+- Review of the other predictions (Worth syndrome, pregnancy-associated osteoporosis, and others), which have no supporting evidence and remain on Hold
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

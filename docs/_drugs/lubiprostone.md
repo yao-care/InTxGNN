@@ -2,7 +2,7 @@
 layout: default
 title: Lubiprostone
 parent: Model Prediction Only (L5)
-nav_order: 503
+nav_order: 508
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,84 +33,61 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Lubiprostone is a prostaglandin E1 (PGE1) derivative primarily used for chronic constipation and irritable bowel syndrome, working through chloride channel (ClC-2) activation and EP receptor agonism in the gastrointestinal tract.
-The TxGNN model predicts it may have potential utility in **Alopecia (hair loss)**, ranked #1 among all predicted new indications with a score of **99.93%**.
-However, this prediction is supported by **no clinical trials** and **no published literature**, placing it at the lowest evidence level (L5).
-
----
+Lubiprostone is a ClC-2 chloride channel activator (a prostone-class compound) used to treat chronic constipation and irritable bowel syndrome.
+The TxGNN model predicts it may be effective for **alopecia**, but **no clinical trials and no publications** currently support this direction.
+The prediction is a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Chronic constipation; Irritable bowel syndrome (IBS) |
+|------|------|
+| Original Indication | Chronic constipation and irritable bowel syndrome (from pharmacology data; the India license record has no indication text) |
 | Predicted New Indication | Alopecia |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Lubiprostone is a bicyclic fatty acid derived from prostaglandin E1 (PGE1). It activates type-2 chloride channels (ClC-2) in intestinal epithelial cells, promoting fluid secretion and intestinal motility. It also acts as an EP4 and EP1 receptor agonist, contributing to its gastrointestinal effects. The drug's primary design is for luminal (gut-local) action, with extremely low systemic bioavailability.
+Detailed mechanism of action data is not available in the data compiled for this report. From pharmacology data, lubiprostone is a ClC-2 chloride channel activator (target gene CLCN2) that acts on the gut epithelium. It is a bicyclic fatty acid derived from prostaglandin E1, and it has minimal systemic absorption.
 
-The mechanistic basis for the alopecia prediction is indirect but theoretically plausible. EP4 receptor activation has been shown in vitro to promote dermal papilla cell proliferation, which is important for the hair growth cycle. Additionally, prostaglandin D2 (PGD2) is a known inhibitor of hair growth (as studied by the Cotsarelis laboratory), and EP4 agonism may theoretically counteract PGD2-mediated hair follicle suppression. The TxGNN model likely identified this connection via knowledge graph linkages between the PGE2/EP4 signalling pathway and hair follicle biology.
+No established mechanistic link between ClC-2 activation and hair follicle biology was identified. The high score is likely driven by shared network neighbours in the knowledge graph, such as prostaglandin-related pathways. Prostaglandin analogues such as bimatoprost do affect hair growth, but lubiprostone does not act on the same receptors. This explanation is therefore speculative and cannot be verified.
 
-However, it is critical to note that this mechanistic link is highly indirect and speculative. Lubiprostone's known systemic exposure is negligible after oral administration, making any hair follicle-level pharmacological effect extremely unlikely via the current oral dosage form. No preclinical animal studies or human clinical research have explored lubiprostone for any form of alopecia. The high TxGNN score likely reflects knowledge graph proximity between "prostaglandin pathways" and "hair follicle cycle nodes" rather than a validated pharmacological relationship.
+The other top predictions fall into two groups:
+- **Hair disorders:** congenital hypotrichosis milia (99.93%), hypotrichosis simplex of the scalp (99.93%) and diffuse alopecia areata (99.93%). These likely echo the same signal as alopecia rather than providing independent support. Alopecia areata is autoimmune, and lubiprostone has no known immunomodulatory action relevant to it.
+- **Vascular and other conditions:** pulmonary hypertension (99.86%), kyphoscoliotic heart disease (99.81%), Raynaud disease (99.64%), autosomal recessive primary pulmonary hypertension (99.54%), phaeochromocytoma (99.50%) and peripheral vascular disease (99.40%). The vascular links rest on the prostanoid scaffold shared with prostacyclin or alprostadil analogues. Lubiprostone has little systemic exposure and no demonstrated vasodilatory effect. No plausible mechanism was identified for phaeochromocytoma.
 
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Lubiprostone in alopecia.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for Lubiprostone in alopecia.
-
----
+All ten predictions have evidence level L5 and a Hold recommendation.
 
 ## India Market Information
 
-Lubiprostone is not currently approved or marketed in India. No drug licenses are on record.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 121000 | Lubowel 24 Soft Gelatin Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 15 soft gelatin capsules (oral) | Not stated in the license record |
 
 ## Safety Considerations
 
-**Drug Interactions:**
+- **Drug Interactions:**
+  - Idelalisib: Moderate interaction (DDInter).
+  - ClC-2 (CLCN2): this is the pharmacological target of lubiprostone, not an interacting drug.
 
-| Interacting Drug | Severity | Source | Notes |
-|-----------------|----------|--------|-------|
-| Idelalisib | Moderate | DDInter | Monitor for potential interaction; clinical significance in the context of hair loss treatment would require evaluation |
-
-> For complete safety information including warnings, contraindications, and precautions, please refer to the originator product (Amitiza®) package insert.
-
----
+Please refer to the package insert for other safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 TxGNN-predicted indications for Lubiprostone carry an L5 evidence level with zero supporting clinical trials or published literature. The mechanistic link between Lubiprostone's EP4/ClC-2 pharmacology and alopecia is theoretically interesting but extremely indirect, and the drug's near-zero systemic bioavailability creates a fundamental pharmacokinetic barrier to any extra-intestinal indication.
+The prediction rests only on a graph-based model score. There are no clinical trials or publications, and no plausible mechanism links a gut-acting ClC-2 activator with minimal systemic absorption to hair loss. The package insert safety data are also missing.
 
 **To proceed, the following is needed:**
-
-- **MOA clarification**: Obtain complete DrugBank mechanism of action data, particularly regarding EP receptor subtype selectivity (EP1/EP2/EP4) and ClC-2 channel activation
-- **Safety data**: Retrieve TFDA/FDA package insert to identify key warnings and contraindications (currently a blocking data gap)
-- **Preclinical proof-of-concept**: At minimum, in vitro studies using dermal papilla cells or ex vivo hair follicle organ culture with lubiprostone are needed before any clinical consideration
-- **Formulation feasibility**: Evaluate whether a topical or locally-delivered formulation could bypass the systemic bioavailability limitation — this is a prerequisite for any hair follicle indication
-- **Alternative higher-plausibility indications**: Consider prioritising pulmonary hypertension (Rank #5) for further evaluation, as it has the strongest mechanistic rationale among all predicted indications (prostacyclin-like EP4 agonism → pulmonary vasodilation), though systemic bioavailability remains a concern there as well
-
----
-
-> **Disclaimer**: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+- Obtain the package insert (warnings and contraindications) from the India Pharma source
+- Obtain mechanism of action data from DrugBank
+- Perform a systematic literature and trial search on lubiprostone or prostone compounds and hair growth
+- Run preclinical studies (for example, hair follicle models) to test any biological plausibility
+- Assess route compatibility, since the only available route is oral and a topical or systemic route may be needed for hair or vascular indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

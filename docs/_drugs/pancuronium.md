@@ -2,7 +2,7 @@
 layout: default
 title: Pancuronium
 parent: Model Prediction Only (L5)
-nav_order: 634
+nav_order: 640
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Pancuronium is a non-depolarizing neuromuscular blocking agent used as a skeletal muscle relaxant adjunct during general anesthesia. The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**, but this ranks among the model's weakest possible signals: **0 clinical trials** and **0 publications** currently support this specific link, and the drug's own mechanism review flags the prediction as a likely false positive.
+Pancuronium is a non-depolarizing neuromuscular blocker, used as a muscle relaxant during anesthesia and mechanical ventilation. The TxGNN model predicts it may be effective for **cauda equina syndrome**, but **no clinical trials and no directly relevant publications** currently support this prediction. It rests on the model score alone.
 
 ---
 
@@ -41,49 +41,91 @@ Pancuronium is a non-depolarizing neuromuscular blocking agent used as a skeleta
 
 | Item | Content |
 |------|------|
-| Original Indication | Skeletal muscle relaxant / neuromuscular blockade adjunct to general anesthesia (non-depolarizing agent) — no formal Taiwan license text on file |
-| Predicted New Indication | Cauda Equina Syndrome |
+| Original Indication | Not stated in the registration data compiled for this report (pancuronium is generally known as a neuromuscular blocking agent) |
+| Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on the mechanistic annotations carried within the evidence itself, Pancuronium is a non-depolarizing neuromuscular blocker acting on nicotinic acetylcholine receptors at the skeletal muscle motor end-plate, producing muscle paralysis for surgical/ventilatory purposes only.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, pancuronium is a non-depolarizing neuromuscular blocker. It antagonizes nicotinic acetylcholine receptors at the motor endplate and also has vagolytic activity.
 
-Cauda equina syndrome is a neurosurgical emergency caused by mechanical compression of the lumbosacral nerve roots, requiring surgical decompression. There is no pharmacological pathway by which a peripherally-acting neuromuscular blocker could treat the underlying compressive lesion. The evidence pack's own rationale for this candidate explicitly states that no mechanism supports a treatment effect, and attributes the high TxGNN score to a likely **knowledge-graph artifact** — probable spurious linkage through shared downstream symptoms (e.g., urinary retention, limb weakness) that co-occur with both pancuronium's known effects and cauda equina syndrome's clinical presentation, rather than genuine therapeutic relevance.
+The link to cauda equina syndrome is weak. Cauda equina syndrome is a compressive neurological emergency that normally requires surgical decompression, and neuromuscular blockade has no plausible disease-modifying role. The high TxGNN score (99.95%) is a model output only. It is not backed by trials or literature, and it likely reflects network proximity in the knowledge graph rather than a pharmacological rationale.
 
-This assessment is consistent across the full prediction set for this drug: all 10 top-ranked TxGNN candidates (cauda equina syndrome, IBS, neurogenic bladder, neurocirculatory asthenia, migraine variants, mitral valve prolapse/MVP1, autonomic nervous system disease) were independently reviewed and none has a plausible mechanistic basis. The two candidates with any literature at all (neurocirculatory asthenia, autonomic nervous system disease) are supported only by anesthesia-safety case reports describing how pancuronium behaves *in patients who already have* those conditions — not evidence that pancuronium treats them. All 10 candidates carry a "Hold" recommendation in the source data.
+Other predictions had similarly weak rationale:
+
+- **Irritable bowel syndrome** (99.93%): a theoretical antimuscarinic or vagolytic effect on gut motility, but a systemic neuromuscular blocker that needs ventilatory support is impractical for a chronic functional disorder.
+- **Neurogenic bladder (obsolete term)** (99.89%): weak M2 blocking activity, but not a recognized or practical therapeutic route.
+- **Neurocirculatory asthenia** (99.81%): pancuronium's sympathomimetic-like hemodynamic effects are the opposite of what would be needed.
+- **Migraine and migraine with brainstem aura** (99.70% and 99.62%): no established mechanism.
+- **Mitral valve prolapse (familial, general, and MVP1)** (99.48%, 99.48%, 99.40%): a structural valve disorder, and pancuronium's tachycardic effect could be undesirable.
+- **Autonomic nervous system disease** (99.45%): the only prediction with a genuine pharmacological link, because pancuronium acts on autonomic pathways. However, the literature describes drug behavior in patients who already have autonomic dysfunction, not treatment of the disease.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for cauda equina syndrome.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for cauda equina syndrome.
+
+For reference, the publications found for the lower-ranked prediction **autonomic nervous system disease** are indirect. They are mostly anesthesia-management reports, hemodynamic studies, and animal experiments, and none shows that pancuronium treats autonomic disease:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [7793215](https://pubmed.ncbi.nlm.nih.gov/7793215/) | 1995 | Clinical hemodynamic study | Acta Anaesthesiol Scand | Compared hemodynamic effects of vecuronium and pancuronium in diabetic patients with autonomic neuropathy during vitrectomy |
+| [156745](https://pubmed.ncbi.nlm.nih.gov/156745/) | 1979 | Clinical observational | Intensive Care Med | Autonomic dysfunction in tetanus: morphine controlled sympathetic overactivity; sympathetic effects of pancuronium, d-tubocurarine and alcuronium discussed |
+| [24558930](https://pubmed.ncbi.nlm.nih.gov/24558930/) | 2014 | Review | Masui | Anesthetic management in arrhythmogenic right ventricular cardiomyopathy |
+| [2677433](https://pubmed.ncbi.nlm.nih.gov/2677433/) | 1989 | Case report | Masui | Anesthesia in a patient with Shy-Drager syndrome |
+| [9227591](https://pubmed.ncbi.nlm.nih.gov/9227591/) | 1997 | Preclinical (rat) | Am J Physiol | Esophagocardiovascular reflex in rats |
+
+For neurocirculatory asthenia, one retrieved paper ([2633661](https://pubmed.ncbi.nlm.nih.gov/2633661/), 1989, Ann Fr Anesth Reanim) concerns hemodynamics in liver transplantation with a veno-venous shunt. It is not about the predicted disease and provides no therapeutic evidence.
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-Pancuronium currently holds no marketing license in Taiwan (market status: Not marketed, 0 registrations on file), so no product/dosage-form registry data is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 152603 | Neocuron Injection | Vial of 2 ml injection | Not stated |
+| 175813 | Pancuronium Bromide 2mg Injection | Vial of 2 ml injection | Not stated |
+| 180269 | Panconium Injection | Vial of 2 ml injection | Not stated |
+
+All three registrations are valid single-ingredient injectable products.
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: DDI screening returned 71 total interaction records; among the detailed entries, **Major**-level interactions include Paromomycin, Kanamycin, and Neomycin (aminoglycosides potentiate neuromuscular blockade). **Moderate**-level interactions include other aminoglycosides/tetracyclines (Doxycycline, Tetracycline, Minocycline, Vancomycin), corticosteroids (Hydrocortisone, Dexamethasone, Betamethasone, Triamcinolone), magnesium salts (Magnesium sulfate, Magnesium chloride), Mannitol, Metoclopramide, Trospium, and Amphotericin B (including lipid complex).
+**Drug Interactions:** 71 interactions were recorded. Major-level examples include:
+- Paromomycin
+- Kanamycin
+- Neomycin
 
-Key warnings and contraindications from the product label are not yet available (Blocking data gap, DG001) — refer to the package insert once obtained for full safety information.
+Moderate-level examples include:
+- Aminoglycoside and glycopeptide antibiotics (vancomycin)
+- Tetracyclines (doxycycline, tetracycline, minocycline)
+- Corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone)
+- Amphotericin B
+- Magnesium salts (magnesium sulfate, magnesium chloride)
+- Mannitol
+- Metoclopramide
+- Trospium
+
+Minor-level example: ranitidine.
+
+Concomitant use with these agents may potentiate or alter neuromuscular blockade. The literature also notes that pancuronium's autonomic and hemodynamic effects (vagolytic tachycardia) could be a safety concern in patients with autonomic instability or arrhythmic conditions.
+
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for further safety information.
 
 ---
 
@@ -92,13 +134,14 @@ Key warnings and contraindications from the product label are not yet available 
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score (99.95%) reflects a model-only prediction (L5) with no supporting clinical trials or literature, and the mechanistic review indicates the signal is likely a knowledge-graph false positive rather than a genuine repurposing lead. The drug is also unregistered in Taiwan, and a Blocking data gap (missing TFDA label warnings/contraindications) prevents even an initial S1 safety screen.
+The prediction for cauda equina syndrome is supported only by a model score (Evidence Level L5). There are no trials or literature, and no plausible mechanism links neuromuscular blockade to this condition. Pancuronium is also a hospital-administered injectable that requires ventilatory support, which limits practical repurposing. None of the other nine predicted indications has stronger support.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) to close the Blocking gap (DG001) before any safety review can begin
-- Detailed mechanism of action data (DG002) to properly evaluate mechanistic plausibility
-- Independent pharmacological or preclinical evidence specifically linking pancuronium to cauda equina syndrome, since none currently exists
-- If pursuing an alternative candidate from this drug's prediction set, "autonomic nervous system disease" (L4, decision stage S1) has the most literature volume (14 papers), though it too requires re-evaluation since existing citations describe anesthesia safety in affected patients rather than therapeutic effect
+- Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A credible mechanistic hypothesis and preclinical evidence for any candidate indication
+- Route and setting compatibility assessment (injectable, ventilator-supported use)
+- Evidence for **autonomic nervous system disease** reviewed first, as the only prediction with a pharmacological link, though current literature is indirect and safety-oriented
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

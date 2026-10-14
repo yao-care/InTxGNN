@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Mianserin
-parent: Moderate Evidence (L3-L4)
-nav_order: 542
-evidence_level: L3
+parent: Model Prediction Only (L5)
+nav_order: 547
+evidence_level: L5
 indication_count: 7
 ---
 
 # Mianserin
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,122 +29,120 @@ Evidence Level: **L3** | Predicted Indications: **7**
 
 </div>
 
-# Mianserin: From Major Depressive Disorder to Neurotic Depression
+# Mianserin: From Unipolar Depression to Benign Paroxysmal Torticollis of Infancy
 
 ## One-Sentence Summary
 
-Mianserin is a tetracyclic antidepressant used in the treatment of major depressive disorder, operating through presynaptic α2-adrenergic antagonism and multi-serotonin receptor blockade to enhance noradrenaline and serotonin neurotransmission. The TxGNN model identifies **Neurotic Depression** (the highest-evidence prediction among 7 candidates) as the most clinically supported repurposing direction, backed by **0 registered clinical trials** but **20 publications** — including multiple randomized controlled trials directly evaluating Mianserin in depression with anxiety features.
-
----
+Mianserin is a tetracyclic antidepressant originally used for unipolar depression, endogenous depression, major depressive disorder and anxiety disorder.
+The TxGNN model's top-ranked prediction is **benign paroxysmal torticollis of infancy**, but this is a model prediction only, with **0 clinical trials** and **0 publications** behind it.
+Among the other predicted indications, **neurotic disorder** has the most mianserin-specific literature (4 publications), and **dysthymic disorder**, **melancholia** and **neurotic depression** are close to the approved depression uses.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Major Depressive Disorder |
-| Predicted New Indication | Neurotic Depression |
-| TxGNN Prediction Score | 99.16% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Research Question |
+|------|------|
+| Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder (from the knowledge graph; the India licence records contain no indication text) |
+| Predicted New Indication | Benign paroxysmal torticollis of infancy (rank 1) |
+| TxGNN Prediction Score | 99.49% |
+| Evidence Level | L5 (for the top-ranked indication) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
+| Recommended Decision | Hold |
 
----
+Other predicted indications, for comparison:
 
-## All TxGNN Predicted Indications (Summary)
-
-| Rank | Disease | TxGNN Score | Evidence Level | Decision |
-|------|---------|-------------|----------------|----------|
-| 1 | Benign Paroxysmal Torticollis of Infancy | 99.49% | L5 | Hold |
-| 2 | Dysthymic Disorder | 99.45% | L5 | Hold |
-| 3 | Agoraphobia | 99.40% | L4 | Hold |
-| 4 | Ohdo Syndrome and Variants | 99.23% | L5 | Hold |
-| 5 | Melancholia | 99.17% | L3 | Research Question |
-| **6** | **Neurotic Depression** | **99.16%** | **L3** | **Research Question** |
-| 7 | Neurotic Disorder | 99.02% | L3 | Research Question |
-
-> **Note on top-ranked prediction:** Benign Paroxysmal Torticollis of Infancy (rank 1) has the highest TxGNN score but zero supporting evidence and no plausible mechanistic connection — the prediction likely reflects knowledge graph topological proximity among neurological disease nodes rather than true pharmacological relevance. Neurotic depression (rank 6) is featured as the primary focus of this report due to its strongest mechanistic rationale and richest evidence base.
-
----
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Registered Trials | Publications |
+|------|------|------|------|------|------|
+| 1 | Benign paroxysmal torticollis of infancy | 99.49% | L5 | 0 | 0 |
+| 2 | Dysthymic disorder | 99.45% | L4 | 0 | 1 |
+| 3 | Agoraphobia | 99.40% | L4 | 0 | 1 |
+| 4 | Ohdo syndrome and variants | 99.23% | L5 | 0 | 0 |
+| 5 | Melancholia | 99.17% | L4 | 0 | 20 |
+| 6 | Neurotic depression | 99.16% | L4 | 0 | 20 |
+| 7 | Neurotic disorder | 99.02% | L3 | 0 | 4 |
 
 ## Why is This Prediction Reasonable?
 
-Mianserin is a tetracyclic antidepressant that acts primarily by blocking presynaptic α2-adrenergic autoreceptors and heteroreceptors, thereby disinhibiting noradrenaline (NE) and serotonin (5-HT) release from presynaptic terminals. It simultaneously antagonizes postsynaptic 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, and 5-HT7 receptors, as well as α1A, α1B, and α1D adrenoceptors, and inhibits the norepinephrine transporter (NET). This multi-receptor profile — increasing NE/5-HT availability while blunting potentially adverse serotonin receptor subtypes — is pharmacologically nearly identical to its structural successor, mirtazapine, which is currently in widespread clinical use.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, mianserin is a tetracyclic antidepressant. Its receptor profile includes 5-HT1B, 5-HT2A/2B/2C, 5-HT6 and 5-HT7 serotonin receptors, α1A/1B/1D-adrenoceptors, the LPA1 receptor and the noradrenaline transporter (NET). Its efficacy in depression is established and it has been marketed for many years.
 
-Neurotic depression (corresponding broadly to DSM-5 persistent depressive disorder or mild-to-moderate major depressive disorder with prominent anxiety features) is pathophysiologically characterized by chronic monoamine insufficiency, heightened hypothalamic-pituitary-adrenal (HPA) axis reactivity, and significant autonomic dysregulation — all targets addressable by Mianserin's mechanism. The α2 antagonism-driven NE enhancement addresses the core monoamine deficit; 5-HT2C and histamine H1 blockade provide secondary anxiolytic and sedative effects particularly relevant to the anxiety component; and α1-adrenoceptor blockade may modulate autonomic symptoms such as tension headaches and vegetative crises.
+The top-ranked prediction, benign paroxysmal torticollis of infancy, has **no established mechanistic link**. It is a rare paediatric condition often associated with channelopathy-related genetic variants (such as CACNA1A). There is no evidence that mianserin's receptor activity addresses its pathophysiology, and paediatric use would raise additional safety concerns. The high score reflects a graph-based pattern only. Ohdo syndrome (a rare genetic developmental disorder) is in the same position.
 
-Historically, the clinical trial literature from the 1980s used this exact patient phenotype — outpatient depression with anxiety features — as the primary study population for Mianserin. Multiple double-blind randomized controlled trials (PMID 2864794, PMID 6824555, PMID 1806624) compared Mianserin directly against other antidepressants in this population, establishing a direct evidence base that goes beyond mechanistic inference.
-
----
+The more credible candidates are mood and anxiety conditions:
+- **Dysthymic disorder, melancholia and neurotic depression** are chronic, severe or milder forms of depression, closely related to mianserin's approved uses. Melancholia in particular is effectively on-label or near on-label, so it is not a true repurposing case.
+- **Neurotic disorder** is a broad legacy category covering anxiety and depressive conditions and overlaps with mianserin's approved depression and anxiety indications.
+- **Agoraphobia** is an anxiety-spectrum disorder, so there is some conceptual overlap, but the only retrieved paper concerns a different drug class.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for neurotic depression.
-
----
+Currently no related clinical trials registered for any of the predicted indications.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [2864794](https://pubmed.ncbi.nlm.nih.gov/2864794/) | 1985 | Double-blind Multicenter RCT | Acta Psychiatrica Scandinavica Suppl. | Mianserin (60 mg) vs. nomifensine in 61 depressive outpatients with anxiety features; no significant efficacy difference between arms; confirms Mianserin's antidepressant activity in this population |
-| [6824555](https://pubmed.ncbi.nlm.nih.gov/6824555/) | 1983 | RCT | British Journal of Clinical Pharmacology | Mianserin vs. doxepin in 60 outpatients with depression and anxiety across two centres; both drugs showed substantial improvement on Hamilton scores; no consistent efficacy difference; Mianserin showed a distinct tolerability profile |
-| [1806624](https://pubmed.ncbi.nlm.nih.gov/1806624/) | 1991 | Double-blind RCT | International Clinical Psychopharmacology | Mianserin (60–90 mg/day) vs. maprotiline (100–150 mg/day) in 317 DSM-III major depressive outpatients; significant improvement in both arms; direct large-sample Mianserin evidence |
-| [2530770](https://pubmed.ncbi.nlm.nih.gov/2530770/) | 1989 | Double-blind Multicenter RCT | Acta Psychiatrica Scandinavica Suppl. | Paroxetine vs. Mianserin in depression; direct head-to-head comparison providing insight into Mianserin's efficacy profile |
-| [7048075](https://pubmed.ncbi.nlm.nih.gov/7048075/) | 1982 | Review | Modern Problems of Pharmacopsychiatry | Comprehensive early review of Mianserin pharmacology and clinical evidence across multiple depression types; foundational reference for the drug's therapeutic use |
-| [40616802](https://pubmed.ncbi.nlm.nih.gov/40616802/) | 2025 | Review | Prilozi (Macedonian Academy of Sciences) | Treatment-resistant depression: highlights combining SSRIs with α2-autoreceptor antagonists such as Mianserin and Mirtazapine as an evidence-based strategy; reaffirms Mianserin's continued mechanistic relevance |
-| [6686702](https://pubmed.ncbi.nlm.nih.gov/6686702/) | 1983 | Single-blind Study | Progress in Neuro-Psychopharmacology & Biological Psychiatry | Single-blind open study of Mianserin in inpatients with DSM-III major depression; significant Hamilton score reduction (p < 0.001); explored plasma-level/response relationship |
-| [1454971](https://pubmed.ncbi.nlm.nih.gov/1454971/) | 1992 | Double-blind Placebo-controlled Trial | Psychotherapy and Psychosomatics | Mianserin vs. placebo in chronic idiopathic pain as "masked depression"; tests the hypothesis that chronic pain may represent a depressive equivalent; direct Mianserin placebo-controlled evidence |
-| [3863468](https://pubmed.ncbi.nlm.nih.gov/3863468/) | 1985 | Open Pilot Study | Acta Psychiatrica Scandinavica Suppl. | Open study of Mianserin (1 mg/kg/day) in 110 depressed children and adolescents aged 8–19; improvement apparent from end of week 1; only study evaluating Mianserin in pediatric depression |
-| [9090572](https://pubmed.ncbi.nlm.nih.gov/9090572/) | 1997 | Review | Journal of Clinical Psychopharmacology | Mechanistic review of NE-5-HT interactions in depression; provides theoretical grounding for α2-antagonist antidepressants including Mianserin and mirtazapine |
+No literature is available for benign paroxysmal torticollis of infancy or Ohdo syndrome. The tables below show the most relevant papers for the other indications. Most are class-level antidepressant reviews and do not isolate mianserin.
 
----
+**Neurotic disorder (most mianserin-specific literature)**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [8722245](https://pubmed.ncbi.nlm.nih.gov/8722245/) | 1996 | Clinical study | Psychiatria Polska | 50 depressed patients (including 4 with neurotic depression) treated with mianserin monotherapy, rated on the Hamilton scale at days 7, 14 and 28 |
+| [7710969](https://pubmed.ncbi.nlm.nih.gov/7710969/) | 1994 | Comparative study | Rom J Neurol Psychiatry | Mianserin vs imipramine in minor depressive disorders; about 40% of patients were discharged as clearly improved after 4 weeks |
+| [7032887](https://pubmed.ncbi.nlm.nih.gov/7032887/) | 1981 | Analysis of controlled studies | L'Encephale | Three controlled studies of mianserin vs clomipramine showed no significant efficacy difference; mianserin had an earlier onset in endogenous depression |
+| [11063152](https://pubmed.ncbi.nlm.nih.gov/11063152/) | 2000 | Cohort / predictive study | Scand J Gastroenterol | Personality traits and response to mianserin or placebo in functional GI disorder (tangential relevance) |
+
+**Neurotic depression / melancholia (selected)**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [29530157](https://pubmed.ncbi.nlm.nih.gov/29530157/) | 2016 | Systematic review / meta-analysis | J Prim Health Care | Antidepressants versus placebo in primary care depression |
+| [40183137](https://pubmed.ncbi.nlm.nih.gov/40183137/) | 2025 | Network meta-analysis | Br J Psychiatry | Antidepressant efficacy and tolerability in depression with physical comorbidity |
+| [25911132](https://pubmed.ncbi.nlm.nih.gov/25911132/) | 2015 | Systematic review | J Affect Disord | Evidence-based dose equivalents of antidepressants from RCTs |
+| [22244025](https://pubmed.ncbi.nlm.nih.gov/22244025/) | 2011 | Meta-analysis | J Clin Psychiatry | Antidepressant efficacy in late-life depression |
+| [6824555](https://pubmed.ncbi.nlm.nih.gov/6824555/) | 1983 | Double-blind trial | Br J Clin Pharmacol | Mianserin vs doxepin in outpatient depression with anxiety; both improved, with no consistent efficacy difference |
+| [2864794](https://pubmed.ncbi.nlm.nih.gov/2864794/) | 1985 | Double-blind multicentre trial | Acta Psychiatr Scand Suppl | Mianserin vs nomifensine in 61 depressed patients |
+| [1454971](https://pubmed.ncbi.nlm.nih.gov/1454971/) | 1992 | Double-blind placebo-controlled trial | Psychother Psychosom | Mianserin in chronic idiopathic pain and "masked" depression |
+| [3863468](https://pubmed.ncbi.nlm.nih.gov/3863468/) | 1985 | Open pilot study | Acta Psychiatr Scand Suppl | 110 depressed children and adolescents treated with mianserin (about 1 mg/kg/day) for 60 days |
+| [7048075](https://pubmed.ncbi.nlm.nih.gov/7048075/) | 1982 | Review | Mod Probl Pharmacopsychiatry | Mianserin overview |
+
+**Dysthymic disorder and agoraphobia**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [21527126](https://pubmed.ncbi.nlm.nih.gov/21527126/) | 2011 | Meta-analysis | J Clin Psychiatry | Antidepressants in dysthymia, placebo-controlled RCTs (class-level; mianserin not isolated) |
+| [7717094](https://pubmed.ncbi.nlm.nih.gov/7717094/) | 1995 | Review | Acta Psychiatr Scand Suppl | Reversible MAO-A inhibitors in mental disorders (does not address mianserin directly) |
 
 ## India Market Information
 
-Mianserin is currently **not marketed in India**. There are no CDSCO-registered product licenses on record. The drug is marketed in certain European countries (e.g., UK as Norval/Bolvidon, Netherlands as Tolvon) and may require import authorization or new drug application procedures for India use.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 69375 | Depnon 30mg Tablet | Strip of 10 tablets | Not specified in the compiled data |
+| 64260 | Depnon 10mg Tablet | Strip of 10 tablets | Not specified in the compiled data |
+| 225409 | Tetradep 10mg Tablet | Strip of 10 tablets | Not specified in the compiled data |
+| 226232 | Tetradep 20mg Tablet | Strip of 10 tablets | Not specified in the compiled data |
 
----
+All four registrations are valid single-ingredient oral tablets. Depnon is made by Infar India Ltd and Tetradep by Torrent Pharmaceuticals Ltd.
 
 ## Safety Considerations
 
-**Pharmacological Target Interactions (from receptor binding data):**
+Package insert warnings and contraindications were not available in the compiled data. Please refer to the package insert for safety information.
 
-Mianserin has documented activity at 11 receptor/transporter targets with clinical relevance to its safety profile:
+The receptor-binding data compiled for this report list 11 pharmacological targets (serotonin receptors, α1-adrenoceptors, LPA1 and NET). These are binding targets rather than documented drug-drug interactions, so they do not show specific interacting drugs.
 
-| Target | Gene | Species | Clinical Implication |
-|--------|------|---------|----------------------|
-| 5-HT2A receptor | HTR2A | Human | Antagonism reduces adverse serotonin effects; may contribute to antipsychotic-like properties |
-| 5-HT2B receptor | HTR2B | Human | 5-HT2B blockade; relevant to cardiovascular monitoring |
-| 5-HT2C receptor | HTR2C | Human | Blockade contributes to anxiolytic and appetite-stimulating effects (weight gain risk) |
-| 5-HT6 receptor | HTR6 | Human | Cognitive modulation |
-| 5-HT7 receptor | HTR7 | Human | Mood and circadian rhythm modulation; sleep effects |
-| α1A-adrenoceptor | ADRA1A | Human | Postural hypotension risk; dizziness on standing |
-| α1B-adrenoceptor | ADRA1B | Human | Cardiovascular effects |
-| α1D-adrenoceptor | ADRA1D | Human | Peripheral vascular effects |
-| LPA1 receptor | LPAR1 | Human | Lysophosphatidic acid signaling; emerging relevance |
-| NET (Norepinephrine Transporter) | Slc6a2 | Rat | NE reuptake inhibition; NE enhancement mechanism |
-| 5-HT1B receptor | Htr1b | Mouse | Serotonin autoreceptor modulation |
-
-For complete warnings, contraindications, and drug-drug interaction details, please refer to the package insert from a country where Mianserin is currently marketed (e.g., UK Summary of Product Characteristics). Formal CDSCO prescribing information is not available as the drug is not marketed in India.
-
----
+Literature points to some context-specific concerns that need verification against the label: antidepressant safety in overdose, interactions with antiepileptic drugs in patients with epilepsy (PMID 36278185, 7207339), cardiovascular effects of antidepressants (PMID 2690161), and suicidality in depression (PMID 9616807). Paediatric use, relevant to the top-ranked prediction, would need particular care.
 
 ## Conclusion and Next Steps
 
-**Decision: Research Question**
+**Decision: Hold**
 
 **Rationale:**
-Mianserin has a well-established antidepressant mechanism and historical RCT evidence base in neurotic/anxiety-type depression, making it biologically plausible for further investigation in neurotic depression subtypes. However, with no registered clinical trials in the target indication and a not-marketed status in India, the path to clinical application requires regulatory and strategic groundwork before commitment.
+The top-ranked prediction (benign paroxysmal torticollis of infancy) has a high model score but no trials, literature or plausible mechanism, and it involves a paediatric population. The better-supported candidates (neurotic disorder, dysthymic disorder, melancholia, neurotic depression) are close to existing depression and anxiety indications, so they offer little true repurposing novelty. Their evidence consists mainly of older comparative studies and class-level reviews rather than mianserin-specific Phase 3 trials.
 
 **To proceed, the following is needed:**
-
-- **MOA documentation:** Obtain full pharmacological profile from DrugBank API (DG002) and recent literature to characterize the α2/5-HT mechanism in detail for regulatory submissions
-- **Package insert safety data:** Download the UK or EU Summary of Product Characteristics (SPC) to extract formal contraindications and warnings (DG001 critical gap — Blocking severity)
-- **India regulatory pathway:** Assess CDSCO requirements for new drug approval or import license for a drug not currently marketed in India
-- **Systematic literature review:** Commission a formal meta-analysis specifically on Mianserin (not mirtazapine) in neurotic depression subtypes to quantify effect size vs. current standard of care
-- **Differentiation analysis:** Evaluate whether Mianserin offers advantages over its successor mirtazapine (already widely available), particularly in populations requiring specific receptor profiles or different tolerability characteristics
-- **Evidence gap for aligned predictions:** Melancholia (rank 5) and Neurotic Disorder (rank 7) share overlapping evidence and should be co-evaluated as secondary research questions in the same protocol
+- Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)
+- Mechanism of action data for mianserin
+- Review of the study designs of the four neurotic disorder papers to confirm the evidence level
+- Any mianserin-specific controlled trials in dysthymia or other chronic mild depression
+- Confirmation of the approved indication text for the four India registrations
+- For the paediatric candidate, a specific mechanistic hypothesis and a paediatric safety assessment before any further work
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

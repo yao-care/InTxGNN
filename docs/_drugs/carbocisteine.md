@@ -33,75 +33,66 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Carbocisteine is a cysteine-derived mucolytic agent conventionally used to reduce viscosity of airway secretions in respiratory conditions.
-The TxGNN model predicts it may be effective for **Gout**,
-with a prediction score of **99.67%** — however, there are currently **no clinical trials** and **no publications** directly supporting this repurposing direction.
-This prediction is currently model-only (Evidence Level L5), and independent mechanistic plausibility remains speculative.
-
----
+Carbocisteine is a mucolytic agent (a cysteine derivative) marketed in India as Mucodyne capsules and syrup. The TxGNN model predicts it may be effective for **gout**, but there are currently **no registered clinical trials and no publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Mucolytic agent for respiratory tract disorders (no India regulatory record) |
+|------|------|
+| Original Indication | Not stated in the licence records compiled for this report |
 | Predicted New Indication | Gout |
 | TxGNN Prediction Score | 99.67% |
-| Evidence Level | L5 — Model prediction only, no actual studies |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known pharmacology, Carbocisteine (S-carboxymethyl-L-cysteine) is a cysteine derivative with a sulfur-containing backbone. Its established role is as a mucolytic agent that modifies the physicochemical properties of mucus secretions, primarily used in chronic obstructive pulmonary disease (COPD) and bronchitis.
+Currently, detailed mechanism of action data is not available, and no original indication is recorded in the data compiled for this report. Carbocisteine is generally known as a mucolytic, and it has reported antioxidant and anti-inflammatory properties.
 
-The mechanistic link to gout proposed by the TxGNN knowledge graph is theoretically threefold: (1) **antioxidant activity** — the cysteine scaffold may scavenge reactive oxygen species (ROS) induced by monosodium urate crystals; (2) **anti-inflammatory effects** — existing literature shows carbocisteine can suppress NF-κB signalling and IL-8 secretion, pathways also active in acute gouty arthritis; (3) **potential xanthine oxidase (XO) interference** — sulfur-containing compounds have structural potential to inhibit XO (the enzyme responsible for uric acid synthesis), though no direct experimental evidence exists for carbocisteine.
+Those properties could plausibly relate to the inflammatory side of gout, for example by reducing oxidative stress or neutrophil-driven inflammation. This is speculative. Nothing in the compiled data confirms a mechanistic link between carbocisteine and gout.
 
-Despite the high TxGNN score, the repurposing rationale team notes that this score likely reflects high connectivity of "inflammatory disease" nodes in the knowledge graph rather than gout-specific signalling. Respiratory mucus disorders and gout share no direct pathophysiological overlap, and the mechanistic links above remain entirely theoretical with zero clinical or in vitro validation. Until preclinical data is available, this candidate cannot advance beyond the Hold stage.
-
----
+The very high TxGNN score (99.67%) is a model-derived prediction only. It is not clinical or mechanistic evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
-Carbocisteine has **no registered products** in the India regulatory database. There are no approved licenses, dosage forms, or indications on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 137159 | Mucodyne 250mg Capsule | Strip of 10 capsules | Not stated |
+| 146086 | Mucodyne 150mg Capsule | Strip of 10 capsules | Not stated |
+| 135708 | Mucodyne 250mg Syrup | Bottle of 100 ml syrup | Not stated |
 
----
+All three licences are valid single-ingredient products from Elder Pharmaceuticals Ltd.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signal**: The TxGNN knowledge graph (PrimeKG) links carbocisteine to **active peptic ulcer disease** as a contraindication. This comes from graph relationships, not from package insert text.
+- **Drug interactions**: No interaction records were found.
 
----
+Please refer to the package insert for other safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is zero direct clinical or preclinical evidence linking Carbocisteine to gout — the TxGNN model prediction (L5) alone is insufficient to justify further investment without at least in vitro or animal model data supporting the proposed mechanism.
+The prediction is supported only by the TxGNN model score (Evidence Level L5). There are no clinical trials, no literature and no confirmed mechanism linking carbocisteine to gout. The approved indications and package insert safety information are also missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
-
-- **MOA confirmation**: Retrieve full DrugBank mechanism-of-action data to verify whether anti-inflammatory or antioxidant properties are pharmacologically active at therapeutic concentrations
-- **Preclinical evidence**: Identify or commission in vitro studies on uric acid crystal-induced inflammation models (e.g., macrophage IL-1β suppression assay)
-- **XO inhibition assay**: Test whether carbocisteine or its metabolites exhibit measurable xanthine oxidase inhibitory activity
-- **Regulatory baseline**: Retrieve the India package insert (CDSCO/local label) to establish contraindications and warning profile before any indication expansion work begins
-- **Literature gap fill**: Conduct a broader PubMed search covering carbocisteine + inflammation + uric acid to confirm there are truly zero indirect supporting publications
+- Package insert warnings and contraindications from the Indian regulatory source (blocking gap)
+- Approved indication text for the Mucodyne licences
+- Mechanism of action data for carbocisteine, from DrugBank or other sources
+- A literature and trial search on carbocisteine's antioxidant and anti-inflammatory effects in urate-crystal or gouty inflammation models
+- Assessment of the peptic ulcer contraindication signal, since gout patients often use NSAIDs that carry gastrointestinal risk
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

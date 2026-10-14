@@ -2,7 +2,7 @@
 layout: default
 title: Fexofenadine
 parent: Model Prediction Only (L5)
-nav_order: 348
+nav_order: 351
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,79 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Fexofenadine: From Allergic Rhinitis/Urticaria (H1-Antihistamine) to Rosacea Conjunctivitis
+# Fexofenadine: From Allergic Rhinitis to Rosacea Conjunctivitis
 
 ## One-Sentence Summary
 
-Fexofenadine is a second-generation H1-antihistamine, commonly used for allergic rhinitis and chronic urticaria (specific approved-indication text is not available in this evidence pack since the drug is currently **not marketed** in this jurisdiction). The TxGNN model predicts a possible association with **Rosacea Conjunctivitis**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a model-only signal.
-
----
+Fexofenadine is a peripheral H1-receptor antagonist (antihistamine), originally used for allergic rhinitis, allergic conjunctivitis and idiopathic urticaria.
+The TxGNN model predicts it may be effective for **rosacea conjunctivitis**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no market license on record; commonly known as a second-generation H1-antihistamine) |
-| Predicted New Indication | Rosacea Conjunctivitis |
-| TxGNN Prediction Score | 99.85% (rank 3330) |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Original Indication | Allergic rhinitis (also vasomotor rhinitis, atopic, papillary and vernal conjunctivitis, idiopathic urticaria) |
+| Predicted New Indication | Rosacea conjunctivitis |
+| TxGNN Prediction Score | 99.85% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Fexofenadine in this evidence pack. Based on known information, Fexofenadine belongs to the second-generation H1-antihistamine class; its efficacy in allergic rhinitis and chronic urticaria is well established, and it acts by blocking peripheral H1 histamine receptors, theoretically reducing itching, redness, and edema associated with allergic-type ocular/mucosal inflammation.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, fexofenadine is a selective peripheral H1-receptor antagonist. Its efficacy in allergic and other forms of conjunctivitis is already recognised, and it may be mechanistically applicable to rosacea conjunctivitis.
 
-However, the specific mechanistic link to rosacea conjunctivitis is weak. Rosacea-associated conjunctivitis is primarily driven by innate immune dysregulation, neurovascular abnormalities, and activation of the TLR2/cathelicidin pathway — not by classical IgE/histamine-mediated hypersensitivity. As a result, H1-receptor blockade is only indirectly relevant to the underlying inflammatory pathway of rosacea, and there is currently no mechanistic validation supporting Fexofenadine's specific activity against rosacea-driven inflammation.
+The plausible link is symptomatic. H1 blockade could relieve histamine-mediated ocular itching, redness and hyperaemia that may accompany ocular rosacea. Fexofenadine is also not antimuscarinic, so it does not cause the tear-film drying seen with first-generation antihistamines.
 
-This prediction (TxGNN score 0.9985, rank 3330) should therefore be treated as a knowledge-graph-derived hypothesis only, not as a mechanistically well-grounded candidate.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
-
----
-
-## Literature Evidence
-
-Currently no related literature available
-
----
+The link is weak, however. Ocular rosacea is driven mainly by meibomian gland dysfunction, tear-film instability, bacterial or *Demodex*-related inflammation and neurovascular dysregulation. Antihistamines are not an established treatment for these mechanisms, and oral fexofenadine has no anti-inflammatory or antimicrobial action relevant to them. Any benefit would probably be limited to relieving an allergic-like component. The very high TxGNN score is a computational prediction and not clinical evidence.
 
 ## India Market Information
 
-Fexofenadine currently has no marketing authorization on record in this jurisdiction (market status: Not Marketed; 0 registrations).
+Fexofenadine has 20 valid single-ingredient registrations in India, all oral tablets. The approved indication text is not available for these registrations. The first five are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 90925 | Faxodas 120mg Tablet | Strip of 6 tablets | Shreya Life Sciences Pvt Ltd |
+| 93422 | Fextree 120mg Tablet | Strip of 10 tablets | Apa Pharmaceuticals |
+| 11102 | Alfexo 120mg Tablet | Strip of 10 tablets | Ernst Pharmacia |
+| 85706 | Fexor 180mg Tablet | Strip of 10 tablets | Orphic Pharma (India) Ltd |
+| 92135 | Fexosep 120 Tablet | Strip of 10 tablets | Sepik Life Sciences |
 
 ## Safety Considerations
 
-**Drug Interactions**: A DDI query returned 473 total interactions on record. Notable interactions among the top results include:
-- **Moderate**: Eliglustat, Eluxadoline, Rolapitant, Magnesium hydroxide, Aluminum hydroxide, Magaldrate, Magnesium carbonate (antacid-type agents, consistent with fexofenadine's known absorption interaction with magnesium/aluminum-containing antacids)
-- **Minor**: Clarithromycin, Miconazole, Clotrimazole
-- **Unknown/unclassified severity**: Calcitriol, Doxycycline, Cimetidine, Levocarnitine, Epinephrine, Dolasetron, Dicyclomine, Chlorhexidine, Famotidine, Acetylsalicylic acid
+- **Contraindications (knowledge-graph associations, not label text)**: The knowledge graph links fexofenadine with caution in the following conditions:
+  - Cardiovascular: hypertension and hypertensive disorder; coronary artery disease, coronary atherosclerosis, arteriosclerosis and atherosclerosis.
+  - Metabolic and endocrine: diabetes mellitus and diabetic ketoacidosis; hyperthyroidism, Graves disease and thyrotoxicosis.
+  - Renal, urinary and ocular: kidney disease and pyoureter; benign prostatic hyperplasia; angle-closure (closed-angle) glaucoma.
+- **Drug Interactions**: 473 interactions are recorded. Examples classed as **Moderate**:
+  - Antacids: magnesium hydroxide, aluminum hydroxide, magaldrate and magnesium carbonate.
+  - Other drugs: eliglustat, eluxadoline and rolapitant.
 
-Detailed key warnings and contraindications are not available in this evidence pack (blocking data gap — see below); please refer to the official package insert once available.
+  Examples classed as **Minor** are clarithromycin, miconazole and clotrimazole. Several other interactions (for example cimetidine, famotidine, epinephrine and doxycycline) have no assigned severity level.
 
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is based solely on the TxGNN knowledge-graph model (Evidence Level L5), with zero supporting clinical trials or literature, and the proposed mechanistic link to rosacea conjunctivitis is explicitly assessed as weak/indirect. In addition, TFDA/local-agency label warnings and contraindications are a **Blocking** data gap, meaning safety screening (S1) cannot be initiated for this candidate.
+The prediction has no supporting clinical trials or publications (Evidence Level L5). The mechanistic link is limited to symptomatic itch and redness relief, and antihistamines do not address the main causes of ocular rosacea.
 
 **To proceed, the following is needed:**
-- Official package insert / label warnings and contraindications (Blocking gap — required before any S1 safety review)
-- Confirmed mechanism of action data from DrugBank or equivalent source (High-priority gap)
-- Preclinical or mechanistic studies specifically evaluating H1-antihistamine activity in rosacea-associated ocular inflammation, given the pathway mismatch noted above
-- Initiation of clinical trial or literature searches specific to "Fexofenadine + rosacea conjunctivitis" to move beyond L5 evidence
+- Package insert warnings and contraindications from the India Pharma source, which are required before safety screening
+- Mechanism of action data from DrugBank
+- A literature and trial search on antihistamines in ocular rosacea, to find any real-world or preclinical support
+- A review of route compatibility, since the predicted indication may favour topical ocular delivery and only oral tablets are registered in India
+- Early-stage studies, for example of symptom relief in ocular rosacea patients with an allergic component, before any further investment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

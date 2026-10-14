@@ -2,7 +2,7 @@
 layout: default
 title: Doxycycline
 parent: Moderate Evidence (L3-L4)
-nav_order: 287
+nav_order: 290
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,93 +29,75 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Doxycycline: From Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
+# Doxycycline: From Bacterial Infections (Bronchitis, Acne, Pneumonia) to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Doxycycline is a broad-spectrum tetracycline antibiotic, established as a first-line treatment for a wide range of bacterial infections including *Chlamydia trachomatis*, Lyme disease (*Borrelia burgdorferi*), Q fever (*Coxiella burnetii*), Rocky Mountain spotted fever, and sexually transmitted infections (STIs).
-The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis**,
-with **0 clinical trials** and **1 publication** currently supporting this direction.
-
----
+Doxycycline is a tetracycline-class antibiotic. It is used for bronchitis, bacterial pneumonia, acne, anthrax, gonorrhoea and a range of other bacterial infections.
+The TxGNN model predicts it may be useful for **punctate epithelial keratoconjunctivitis**.
+Evidence is thin: **no clinical trials** and **1 publication** (a 1992 case report) support this direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Bacterial infections (Chlamydia, Lyme disease, Q fever, STIs, Rickettsia) |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
+|------|------|
+| Original Indication | Bronchitis, acne, bacterial pneumonia, anthrax, gonorrhoea and other bacterial infections (from the knowledge-graph indication list; no approved-indication text is recorded for the Indian licences) |
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data source. Based on known information, Doxycycline is a tetracycline-class broad-spectrum antibiotic with established efficacy against intracellular pathogens — particularly *Chlamydia trachomatis* — and has been used for decades as the preferred oral treatment for chlamydial infections, trachoma, and related ocular diseases. It also possesses well-documented anti-inflammatory properties, including inhibition of matrix metalloproteinases (MMP-8, MMP-9) and modulation of the NF-κB pathway, which may have additional relevance beyond direct antimicrobial activity.
+Currently, detailed mechanism of action data is not available. Based on known information, doxycycline is a broad-spectrum tetracycline antibiotic. Its efficacy in bacterial infections, including those caused by *Chlamydia trachomatis*, is established, and mechanistically it may be applicable to punctate epithelial keratoconjunctivitis.
 
-The mechanistic link to punctate epithelial keratoconjunctivitis is indirect. *Chlamydia trachomatis* is the leading cause of trachoma and infectious follicular conjunctivitis, both of which can result in punctate epithelial keratitis as a post-infection sequela. The sole supporting publication (PMID 1424659, 1992) describes two patients who developed persistent superficial punctate keratitis following chlamydial follicular conjunctivitis, initially treated with oral tetracycline or doxycycline. This case series suggests that the epithelial lesions may persist even after the primary infection resolves, indicating that the keratoconjunctivitis seen here is a post-infectious complication rather than an active infection directly amenable to antibiotic therapy.
+Persistent superficial punctate keratitis can follow chlamydial follicular conjunctivitis, an infection doxycycline treats. Doxycycline is also known for anti-inflammatory and matrix metalloproteinase (MMP)-inhibiting effects that could help the ocular surface. This benefit is inferred, not demonstrated.
 
-The high TxGNN prediction score (99.94%) likely reflects the model's recognition of doxycycline's well-established role in treating the causative organism (*Chlamydia*) rather than direct evidence of efficacy against the keratitis lesion itself. In the absence of clinical trials or direct treatment data for punctate epithelial keratoconjunctivitis as a standalone indication, this prediction is best interpreted as a hypothesis generated from known biological relationships rather than a validated repurposing opportunity.
-
----
+The only supporting report describes keratitis that appeared *after* the infection was treated with oral tetracycline or doxycycline. That is indirect evidence, and it does not show that doxycycline treats the keratitis itself.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [1424659](https://pubmed.ncbi.nlm.nih.gov/1424659/) | 1992 | Case Observation | *Cornea* | Two patients developed persistent bilateral punctate epithelial keratitis following chlamydial follicular conjunctivitis treated with oral tetracycline or doxycycline; lesions persisted after resolution of follicular infection, suggesting a post-infectious epithelial process distinct from the primary infection |
-
----
+|------|-----|------|------|---------|
+| [1424659](https://pubmed.ncbi.nlm.nih.gov/1424659/) | 1992 | Case report | Cornea | Two patients with chlamydial follicular conjunctivitis were treated with oral tetracycline or doxycycline, and the follicles resolved. Both then developed recurrent, bilateral punctate epithelial keratitis, and one had anterior stromal edema. |
 
 ## India Market Information
 
-Currently no product licenses registered for Doxycycline in India within this dataset.
+Twenty single-ingredient doxycycline licences are valid, and none are cancelled. Oral tablets and capsules and injectable vials are all available. The licence records do not include approved-indication text. Five of the 20 are shown below.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 178608 | Pydox 100mg Tablet | Strip of 10 tablets | Pifer Pharmaceuticals Pvt Ltd |
+| 13789 | Amdoxy Capsule | Strip of 10 capsules | Ampira Biotechnics Pvt Ltd |
+| 58835 | Doxicip LB Capsule | Strip of 10 capsules | Cipla Ltd |
+| 59833 | Doxytab 100mg Tablet | Strip of 8 tablets | Intas Pharmaceuticals Ltd |
+| 68326 | Dcyline 100mg Injection | Vial of 1 injection | Dr. Edwin Lab |
 
 ## Safety Considerations
 
-**Drug Interactions:** A total of **471 drug-drug interactions** have been identified. Key interactions to monitor include:
+- **Contraindications (knowledge-graph disease associations, not label text)**: *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, and dyskinesia of the esophagus.
+- **Drug Interactions**: 471 interactions are recorded. Major-level examples include **isotretinoin**, **acitretin** and **aminolevulinic acid**. Moderate-level examples include aluminum hydroxide, aminophylline, amoxicillin, ampicillin and bedaquiline.
 
-| Interacting Drug | Severity | Clinical Significance |
-|-----------------|----------|-----------------------|
-| Isotretinoin | **Major** | Risk of pseudotumor cerebri (benign intracranial hypertension); concurrent use is contraindicated |
-| Acitretin | **Major** | Risk of pseudotumor cerebri; concurrent use is contraindicated |
-| Aminolevulinic acid (systemic) | **Major** | Additive photosensitization reactions |
-| Aluminum hydroxide | Moderate | Divalent/trivalent cations chelate doxycycline, significantly reducing oral absorption |
-| Amoxicillin / Ampicillin | Moderate | Potential antagonism between bacteriostatic (doxycycline) and bactericidal (penicillins) antibiotics |
-| Aminophylline | Moderate | Doxycycline may alter theophylline metabolism |
-| Amobarbital | Moderate | Barbiturates induce hepatic enzymes, reducing doxycycline plasma levels |
-| Bedaquiline | Moderate | Additive QT prolongation risk |
-
-> Note: The full interaction list (471 entries) should be consulted via the package insert or clinical decision support tool before co-administration with any drug.
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model's high prediction score reflects a biologically plausible but mechanistically indirect link — doxycycline treats the causative pathogen (*Chlamydia trachomatis*) but has no demonstrated direct efficacy against post-infectious punctate epithelial keratoconjunctivitis as an isolated condition. The entire evidence base consists of a single 1992 case observation involving only two patients, with no clinical trials registered globally.
+The prediction score is high, but the only evidence is a single 1992 case report that describes keratitis after an infection, not a response to doxycycline. No trials exist, and the mechanistic link is inferred.
 
 **To proceed, the following is needed:**
-
-- **Mechanistic clarification**: Determine whether the target lesion represents active chlamydial infection (potentially treatable) or a sterile post-infectious epitheliopathy (for which antibiotics are unlikely to be effective)
-- **Clinical trial evidence**: At least one prospective pilot study or observational cohort specifically targeting this diagnosis as an endpoint
-- **MOA data**: Retrieve full DrugBank record for Doxycycline (DB00254) to characterize anti-inflammatory properties (MMP inhibition, NF-κB modulation) and assess whether these non-antibiotic effects may be relevant to the keratitis lesion
-- **India regulatory baseline**: Download and parse package insert (PI) from the regulatory authority to identify approved indications, key warnings, and contraindications before any safety assessment can proceed
-- **Comparator assessment**: Review whether topical ophthalmic formulations (not oral doxycycline) could be more appropriate for an ocular surface indication
+- Mechanism of action data
+- Package insert warnings and contraindications for Indian-market products, which are required for safety screening
+- Controlled clinical evidence (trials or well-designed studies) of doxycycline in punctate epithelial keratoconjunctivitis
+- A clear route and formulation rationale for ocular use, since the Indian products are oral and injectable
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

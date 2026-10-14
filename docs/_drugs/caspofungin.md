@@ -29,108 +29,75 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Caspofungin: From Invasive Candidiasis to Gastrin Secretion Abnormality
+# Caspofungin: From Esophageal Candidiasis and Candidemia to Gastrin Secretion Abnormality
 
 ## One-Sentence Summary
 
-Caspofungin is an echinocandin-class antifungal agent with established clinical use in invasive candidiasis and invasive aspergillosis, currently not registered in India.
-The TxGNN model ranks **Gastrin Secretion Abnormality** as its top predicted new indication,
-with **0 clinical trials** and **0 publications** directly supporting this direction — suggesting a probable false positive from the knowledge graph.
-
----
+Caspofungin is an echinocandin antifungal originally used to treat esophageal candidiasis and candidemia.
+The TxGNN model ranks **gastrin secretion abnormality** as its top predicted new use, but this is a computational prediction only,
+with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Invasive candidiasis; invasive aspergillosis (known clinical use; no India registration on record) |
-| Predicted New Indication | Gastrin Secretion Abnormality |
+|------|------|
+| Original Indication | Esophageal candidiasis; candidemia |
+| Predicted New Indication | Gastrin secretion abnormality |
 | TxGNN Prediction Score | 99.44% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on information embedded in the evidence pack's repurposing rationale, Caspofungin belongs to the **echinocandin class** and exerts its antifungal effect by inhibiting **β-1,3-glucan synthase** (encoded by *FKS1* and *FKS2* genes) — an enzyme essential for fungal cell wall biosynthesis. Disruption of the cell wall leads to osmotic instability and fungal cell death. Its efficacy in invasive *Candida* and *Aspergillus* infections is well-established in international guidelines.
+Caspofungin inhibits beta-(1,3)-D-glucan synthase, an enzyme that fungi need to build their cell wall. Human cells do not have this enzyme, which is why the drug is selective for fungal infections such as *Candida*.
 
-Gastrin secretion abnormality involves dysregulation of gastrin production by **G cells** in the gastric antrum, modulated through CCK-B (cholecystokinin B) receptors and neuroendocrine signalling. There is no known pharmacological bridge between β-1,3-glucan synthesis inhibition and this neuroendocrine pathway.
-
-The TxGNN model's high score (99.44%) for this indication most likely reflects a **distant indirect node connection** in the knowledge graph — e.g., the path: *Candida* infection → gut microbiome disruption → gastrointestinal hormone dysregulation → gastrin abnormality. This is a low-specificity, multi-hop inference rather than a mechanistically grounded prediction, and carries a high probability of being a **false positive**. No preclinical or clinical data exists to elevate this beyond an algorithm-generated hypothesis.
-
----
+Esophageal candidiasis and candidemia are fungal infections. Gastrin secretion abnormality is a disorder of a human digestive hormone. We found **no plausible mechanistic link** between blocking fungal glucan synthesis and regulating gastrin. The very high score most likely reflects patterns in the knowledge graph rather than a real pharmacological relationship. With no trials or publications behind it, this prediction should be treated as a computational hypothesis only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## India Market Information
+
+Caspofungin has 20 valid single-ingredient registrations in India, all injectable vials. The five below are examples. The approved indication text is not listed for these registrations.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 112805 | Ibicasp 50mg Injection | Vial of 1 injection | Indiabulls Pharmaceutical Ltd |
+| 29267 | Brufungin 50 Injection | Vial of 1 injection | Brawn Laboratories Ltd |
+| 52244 | Caspercid 50mg Injection | Vial of 1 injection | Sanofi India Ltd |
+| 44817 | Casfungen 50mg Injection | Vial of 1 injection | Chandra Bhagat Pharma Pvt Ltd |
+| 106113 | Hospicasp 70mg Injection | Vial of 1 injection | Alkem Laboratories Ltd |
 
 ## Safety Considerations
 
-**Drug Interactions** (81 total interactions identified; selected highlights shown below):
+- **Disease associations from the knowledge graph** (these come from graph relationships, not from package insert text): liver disease, gallbladder disease, potassium deficiency disease.
+- **Drug Interactions**: 81 interacting drugs were identified.
+  - **Major**: dexamethasone.
+  - **Moderate**: naltrexone.
+  - The rest have no severity rating. They include pantoprazole, omeprazole, lansoprazole, simvastatin, amphotericin B, prednisone, hydrocortisone and potassium chloride.
 
-| Interacting Drug | Severity |
-|-----------------|----------|
-| Dexamethasone | **Major** |
-| Naltrexone | Moderate |
-| Calcitriol | Unknown |
-| Pantoprazole | Unknown |
-| Doxycycline | Unknown |
-| Morphine | Unknown |
-| Omeprazole | Unknown |
-| Lansoprazole | Unknown |
-| Vancomycin | Unknown |
-| Sucralfate | Unknown |
-| Lactulose | Unknown |
-| Prednisone | Unknown |
-| Simvastatin | Unknown |
-| Nystatin | Unknown |
-| Epinephrine | Unknown |
-| Amphotericin B | Unknown |
-| Hydrocortisone | Unknown |
-| Prednisolone | Unknown |
-
-> The **Major** interaction with **Dexamethasone** is the most clinically significant finding. Caspofungin's plasma levels can be reduced by enzyme inducers; co-administration with systemic corticosteroids warrants dose review. The high count of Unknown-severity interactions (largely with common ICU medications — PPIs, corticosteroids, opioids, antibiotics) reflects incomplete DDI characterisation and should be evaluated systematically before any new indication study is designed.
->
-> For complete warnings and contraindications, please refer to the originator package insert (Cancidas® / Merck), as formal CDSCO labelling data was not available in this evidence pack.
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is no identified mechanistic link between caspofungin's β-1,3-glucan synthase inhibition and gastrin secretion pathways, and a complete absence of supporting clinical trials or literature makes this indication unsuitable for further development at this stage. The high TxGNN score most likely reflects knowledge-graph topology rather than true pharmacological relevance.
+The prediction has the highest score but no clinical or literature support. It also has no plausible mechanism, since caspofungin acts on a fungal enzyme and has no known role in gastrin regulation. It remains at evidence level L5.
 
-**To proceed with this specific indication, the following would be needed:**
-- A plausible biological hypothesis connecting the echinocandin mechanism to G-cell / CCK-B receptor biology (e.g., via fungal-gut microbiome-gastrin axis)
-- Preclinical evidence (in vitro or in vivo) demonstrating any effect on gastrin secretion
-- Retrieval of full MOA data from DrugBank (DB00520) and CDSCO / originator package insert
+**To proceed, the following is needed:**
+- Any mechanistic or preclinical evidence linking caspofungin to gastrin regulation
+- Package insert warnings and contraindications for the Indian products
+- Detailed mechanism of action data from a curated source
 
----
-
-**⚠️ Note on higher-priority indications in this evidence pack:**
-
-While the top-ranked TxGNN prediction (Gastrin Secretion Abnormality, Rank 1) is a **Hold**, two additional indications within this same evidence pack carry meaningfully stronger evidence and merit separate evaluation:
-
-| Rank | Indication | Evidence Level | Decision |
-|------|-----------|---------------|----------|
-| 8 | **Candida glabrata** infection | L2 | Proceed with Guardrails |
-| 9 | **Neonatal Candidiasis** | L2 | Research Question |
-| 10 | **Congenital Candidiasis** | L2 | Proceed with Guardrails |
-
-Caspofungin is an IDSA-recommended first-line agent for invasive *C. glabrata* infections, with Phase 4 clinical trial data (NCT00839540), pharmacokinetic studies in neonates (NCT00330395), and a completed Phase 3 trial in Chinese adults supporting the congenital/neonatal candidiasis use case (NCT00635648). These indications represent the most clinically actionable repurposing opportunities in this evidence pack and should be prioritised for full report generation.
+**Note on other candidates:** Other predictions in the same list have much stronger support than this one. The best is **neonatal candidiasis** (score 95.18%, evidence level L2), with two Phase 2 trials (NCT00330395, completed, n=16; NCT01945281, terminated, n=51) and a pediatric echinocandin meta-analysis. It would be classed as **Proceed with Guardrails**: confirm neonatal dosing and PK, monitor liver function, and clarify why the randomized trial was terminated. Neonatal candidiasis is an extension of the approved candidemia use, not a new mechanism, so it would be a more productive focus for further evaluation than the top-ranked prediction.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

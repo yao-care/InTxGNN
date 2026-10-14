@@ -2,7 +2,7 @@
 layout: default
 title: Phenoxybenzamine
 parent: Model Prediction Only (L5)
-nav_order: 656
+nav_order: 663
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,71 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Phenoxybenzamine: From Pheochromocytoma-Related Hypertension to Primary Hereditary Glaucoma
+# Phenoxybenzamine: From Pheochromocytoma to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-Phenoxybenzamine is a non-selective, irreversible alpha-adrenergic receptor antagonist, historically used to manage pheochromocytoma-related hypertension and peripheral vasospasm (this original indication is inferred from its DrugBank pharmacological classification, as confirmed original-indication data is currently a gap). The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma**, but this direction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model-based prediction with no corroborating evidence.
-
----
+Phenoxybenzamine is an alpha-adrenergic blocker originally used for pheochromocytoma and related neuroendocrine or adrenal tumours.
+The TxGNN model predicts it may be effective for **primary hereditary glaucoma** (with open-angle glaucoma as a second prediction), but **no clinical trials and no publications** currently support this direction. The prediction is based on computational modelling only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Pheochromocytoma-related hypertension / peripheral vasospasm (inferred from drug class; confirmed indication text unavailable) |
-| Predicted New Indication | Primary Hereditary Glaucoma |
+| Original Indication | Adrenal gland pheochromocytoma (also listed: phaeochromocytoma, sympathetic paraganglioma, adrenal gland cancer, duodenum cancer, small intestine cancer, heart cancer). The approved indication text on the India licences is blank. |
+| Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 99.55% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (Data Gap DG002). Based on its DrugBank (DB00925) pharmacological classification, phenoxybenzamine is known to act as a non-selective, irreversible α-adrenergic receptor antagonist, traditionally used to control hypertension and peripheral vascular spasm associated with pheochromocytoma.
+Phenoxybenzamine is an irreversible, non-selective alpha-adrenergic antagonist. Detailed mechanism of action data is not available in the data compiled for this report, so this description comes from general pharmacological knowledge. It is used in pheochromocytoma to control the effects of excess catecholamines, such as high blood pressure.
 
-The proposed link to glaucoma is theoretical: α1-receptor antagonism could, in principle, relax vascular smooth muscle in the trabecular meshwork or ciliary body and thereby influence aqueous humor outflow. However, this is a speculative pathway rather than a validated mechanism for intraocular pressure (IOP) reduction — clinically established IOP-lowering agents in this receptor family are α2-**agonists** (e.g., brimonidine), which act in the opposite pharmacological direction. Primary hereditary glaucoma is also driven by specific genetic mechanisms (e.g., MYOC, CYP1B1 mutations), which have no established direct connection to adrenergic signaling.
+A theoretical link to glaucoma is that alpha-adrenergic blockade could lower intraocular pressure, either by reducing aqueous humour production or by changing outflow, or by modulating ocular vascular tone. This is the only rationale available, and it has not been verified.
 
-A second, related candidate — **open-angle glaucoma** (TxGNN score 99.48%, rank 8696) — was also flagged by the model, but likewise has zero clinical trials or literature support. Both predictions currently rest solely on knowledge-graph link scores rather than experimental or clinical validation, and the drug's known systemic effects (postural hypotension, tachycardia) raise additional feasibility questions for any ophthalmic application, for which no topical/ocular formulation data exist.
+There are important reasons for caution:
+- Primary hereditary glaucoma is mainly driven by genetic defects in the trabecular meshwork or anterior segment development (for example MYOC, CYP1B1). Alpha-blockade is unlikely to address these.
+- The original indication (a catecholamine-secreting tumour) is biologically unrelated to glaucoma. The prediction rests on a model score, not on a shared disease mechanism.
+- Systemic alpha-blockade carries risks such as orthostatic hypotension, reflex tachycardia, nasal congestion and miosis.
+- The second prediction, **open-angle glaucoma** (score 99.48%), has the same limitations. Established glaucoma treatments already exist (prostaglandin analogues, beta-blockers, alpha-2 agonists, carbonic anhydrase inhibitors). Any benefit of an irreversible systemic alpha-antagonist would need to be shown against its safety concerns, and topical or ocular-targeted delivery would likely be required.
 
----
+## India Market Information
 
-## Clinical Trial Evidence
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 29256 | Biophenox 50mg Injection | Vial of 1 injection | Not specified |
+| 85821 | Fenoxene Capsule | Strip of 10 capsules | Not specified |
+| 250700 | Zaxyben 50mg Injection | Vial of 1 ml injection | Not specified |
+| 86893 | Fenoxene 50mg Injection | Vial of 1 ml injection | Not specified |
 
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+All four registrations are valid single-ingredient products. Available routes are injectable and oral. No ophthalmic (topical eye) formulation is registered.
 
 ## Safety Considerations
 
-- **Drug Interactions**: 32 interactions identified in total (DDInter), all classified as Moderate severity. Notable interacting agents include: Bupropion, Morphine, Canagliflozin, Dapagliflozin, Dronabinol, Empagliflozin, Nabilone, Ertugliflozin, Opium, Amifostine, Promethazine, Nitrous acid, Iobenguane (I-123), Epoprostenol, Iloprost, Selexipag, Treprostinil, Codeine, Hydrocodone, and Mepyramine.
+- **Disease contraindications (from the knowledge graph, not label text)**: kidney disease, pyoureter, hypotensive disorder, coronary artery disease.
+- **Drug interactions**: 32 interactions were identified in total. All of the 20 listed are of Moderate severity. Main examples:
+  - Opioids: morphine, codeine, hydrocodone, opium
+  - SGLT2 inhibitors: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin
+  - Prostacyclin-pathway agents: epoprostenol, iloprost, selexipag, treprostinil
+  - Cannabinoids: dronabinol, nabilone
+  - Others: bupropion, promethazine, amifostine, mepyramine, iobenguane (I-123), nitrous acid
 
-(Key warnings and contraindications are not yet available — see Data Gap DG001 below.)
-
----
+Package insert warnings and contraindications are not available in the data compiled for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a TxGNN knowledge-graph score (Evidence Level L5) with zero clinical trials and zero literature, and the drug is not currently marketed in India (0 registrations). Combined with a Blocking-severity data gap on TFDA/local label safety information (DG001), there is insufficient evidence to advance this candidate past initial screening.
+The prediction has only a computational basis (L5). There are no clinical trials or publications, the mechanistic link to hereditary glaucoma is weak, and systemic alpha-blockade has notable safety concerns.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001 — Blocking; required before any S1 safety screening can occur)
-- Confirmed mechanism of action and original approved indication documentation (DG002)
-- Preclinical or early clinical data testing IOP-lowering effect specifically (topical or systemic)
-- Ophthalmic formulation and local safety/tolerability assessment, given known systemic hypotensive effects
-- At minimum, one observational study or mechanistic study to move evidence level beyond L5
+- A systematic literature search on alpha-blockers and intraocular pressure or glaucoma
+- Preclinical assessment, such as IOP effects in animal models
+- Detailed mechanism of action data (MOA)
+- Package insert warnings and contraindications from the India regulatory sources, which are needed before any safety screening
+- Evaluation of an ocular-targeted (topical) delivery route, since none is currently registered
+- A comparison against established glaucoma therapies to show a meaningful benefit
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

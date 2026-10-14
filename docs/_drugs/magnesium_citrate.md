@@ -2,7 +2,7 @@
 layout: default
 title: Magnesium Citrate
 parent: Model Prediction Only (L5)
-nav_order: 508
+nav_order: 513
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,92 +29,63 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Magnesium Citrate: From Osmotic Laxative/Mineral Supplement to Calcium-Alkali Syndrome
+# Magnesium Citrate: From Osteoporosis and Mineral Metabolism Disorders to Calcium-Alkali Syndrome
 
 ## One-Sentence Summary
 
-Magnesium citrate is a magnesium salt commonly used as an osmotic laxative and mineral supplement to correct magnesium deficiency.
-The TxGNN model predicts it may be effective for **Calcium-Alkali Syndrome**,
-however **0 clinical trials** and **0 publications** currently support this direction — this remains a model-prediction-only finding at the present stage.
-
----
+Magnesium citrate is a magnesium salt used in conditions of mineral and bone metabolism (such as osteoporosis, hypercalcaemia and phosphorus metabolism disorders) and as a laxative for constipation.
+The TxGNN model predicts it may be relevant for **calcium-alkali syndrome**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No approved indication data available in regulatory records |
-| Predicted New Indication | Calcium-Alkali Syndrome |
+|------|------|
+| Original Indication | Osteoporosis, postmenopausal osteoporosis, hypercalcaemia, nephrocalcinosis, phosphorus metabolism disease, constipation (from the knowledge graph; no approved indication text is available in the India licences) |
+| Predicted New Indication | Calcium-alkali syndrome |
 | TxGNN Prediction Score | 99.51% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 12 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from DrugBank. Based on known pharmacology, Magnesium citrate delivers two biologically active components: magnesium ions (Mg²⁺) and citrate. Magnesium ions can competitively inhibit calcium reabsorption at both the intestinal epithelium and renal tubular level — sharing transport channels (TRPM6/TRPM7) with calcium — which theoretically could reduce serum calcium levels in hypercalcaemic states.
+Currently, detailed mechanism of action data is not available. Based on known information, magnesium citrate is an oral magnesium salt. Magnesium takes part in calcium and phosphorus homeostasis and in parathyroid hormone (PTH) regulation, and it overlaps with the drug's original indications (hypercalcaemia, nephrocalcinosis, phosphorus metabolism disease). This overlap is the likely basis for the model's prediction.
 
-However, a critical mechanistic paradox undermines this rationale. The citrate moiety carries a pronounced alkalizing effect: it is metabolised to bicarbonate (HCO₃⁻), which could directly worsen the metabolic alkalosis that sits at the very core of calcium-alkali syndrome pathology. The two components of this drug work in opposing directions: Mg²⁺ may help lower calcium while citrate may aggravate alkalosis. The net clinical outcome is therefore ambiguous, and this contradictory mechanism sharply limits confidence in the prediction.
+However, the link is weak. Calcium-alkali syndrome is caused by excessive intake of calcium and absorbable alkali, and its main management is to stop the offending agents and give hydration. Whether magnesium citrate offers any benefit is unestablished. The citrate component is alkalinizing, and magnesium can accumulate in renal impairment, which is common in this syndrome, so there is a possible safety concern.
 
-Furthermore, the 235 documented drug interactions raise serious co-administration concerns, particularly with agents frequently encountered alongside calcium-alkali syndrome (e.g., calcium supplements, diuretics, proton pump inhibitors). Although the TxGNN score is exceptionally high (99.51%), the complete absence of clinical or preclinical evidence — combined with the mechanistic contradiction — means this prediction must be treated with significant caution until further data emerge.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+A second prediction, **primary bone dysplasia with defective bone mineralization** (score 99.33%), is similarly unsupported. Magnesium is a cofactor in bone mineral metabolism, but these are heterogeneous genetic disorders driven by specific gene defects (for example hypophosphatasia). A general magnesium supplement is not expected to correct them, and no clinical evidence exists for it.
 
 ## India Market Information
 
-Magnesium citrate (DrugBank ID: DB11110) currently has **no registered products** in the Indian market. No authorization records exist in the available regulatory dataset.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 14554 | Alkovak Oral Solution | 200 ml bottle, oral solution | Not stated |
+| 230592 | Urikem Syrup | 200 ml bottle, syrup | Not stated |
+| 230736 | Utimack Syrup | 200 ml bottle, syrup | Not stated |
+| 200118 | Ston 1 Oral Solution Mixed Fruit | 200 ml bottle, oral solution | Not stated |
+| 200326 | Ston 1 Oral Solution Delicious Pineapple | 200 ml bottle, oral solution | Not stated |
 
----
+Twelve valid single-ingredient licences are registered in total; the five above are shown. There are no combination or cancelled licences.
 
 ## Safety Considerations
 
-**Drug Interactions** (235 total interactions identified; top interactions listed below):
-
-| Interacting Drug | Severity | Source |
-|------------------|----------|--------|
-| Dolutegravir | **Major** | DDInter |
-| Abiraterone | Moderate | DDInter |
-| Tramadol | Moderate | DDInter |
-| Acetazolamide | Moderate | DDInter |
-| Doxycycline | Moderate | DDInter |
-| Hydrocortisone | Moderate | DDInter |
-| Amiodarone | Moderate | DDInter |
-| Arsenic trioxide | Moderate | DDInter |
-| Hydrochlorothiazide | Moderate | DDInter |
-| Alendronic acid | Moderate | DDInter |
-
-> A total of **235 drug interactions** have been identified. This is a notably high interaction burden. Consult the full interaction database before any co-administration decision.
-
----
+- **Contraindications (from knowledge-graph drug-disease edges, not label text)**: kidney disease and impaired renal function, nephrolithiasis, nephrocalcinosis, acute urate nephropathy, hypercalcaemia, hyperparathyroidism, hyperphosphataemia, metabolic acidosis, adrenal insufficiency (including Addison disease and congenital adrenal hyperplasia), peptic ulcer disease, appendicitis, diarrhoeal disease, sarcoidosis, rhabdomyolysis. Several of these (renal impairment, hypercalcaemia, metabolic acidosis) are directly relevant to calcium-alkali syndrome.
+- **Drug Interactions**: 235 interactions are recorded. The only Major one in the listed set is **dolutegravir**. Moderate interactions include alendronic acid, doxycycline, hydrocortisone, triamcinolone, hydrochlorothiazide, amiloride, acetazolamide, amiodarone, tramadol, and salbutamol. The binding or chelation effect of magnesium on drugs such as dolutegravir, doxycycline and bisphosphonates should be considered when timing doses.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN prediction score (99.51%), the mechanistic case for Magnesium citrate in calcium-alkali syndrome is inherently contradictory — the magnesium component may reduce hypercalcaemia while the citrate component risks worsening the metabolic alkalosis that defines the syndrome. With zero supporting clinical trials or literature, no market authorisation in India, and a substantial DDI burden (235 interactions), the evidence basis is entirely insufficient to proceed.
+The prediction is supported only by a knowledge-graph score, with no clinical trials or literature (Evidence Level L5). Calcium-alkali syndrome is managed by removing the causative agents, and magnesium citrate carries a possible safety concern in the renal impairment that often accompanies it.
 
 **To proceed, the following is needed:**
-- Retrieve full MOA data from DrugBank to confirm or refine the mechanistic hypothesis
-- Commission or identify preclinical studies (cell/animal models) that specifically examine the net effect of magnesium citrate on calcium-alkali balance
-- Conduct a targeted literature search for any case reports or observational data linking magnesium supplementation to outcomes in calcium-alkali or hypercalcaemic-alkalosis conditions
-- Perform a comprehensive DDI risk assessment focusing on agents commonly used in calcium-alkali syndrome management (calcium supplements, thiazide diuretics, PPIs, antacids)
-- Obtain TFDA package insert to identify official warnings and contraindications (currently a blocking data gap)
+- A literature and clinical-trial search specific to magnesium and calcium-alkali syndrome, to see whether any supporting evidence exists
+- Mechanism of action data for magnesium citrate
+- Package insert warnings and contraindications for the marketed Indian products, and their approved indications
+- A renal safety assessment for patients with impaired kidney function and for the alkalinizing effect of citrate
+- Route compatibility and similarity-to-original-indication analyses, which are still pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

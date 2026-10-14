@@ -2,7 +2,7 @@
 layout: default
 title: Minocycline
 parent: Model Prediction Only (L5)
-nav_order: 551
+nav_order: 556
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,91 +29,81 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Minocycline: From Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
+# Minocycline: From Bacterial Infections and Acne to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Minocycline is a broad-spectrum second-generation tetracycline antibiotic, classically used to treat bacterial infections including acne vulgaris, respiratory tract infections, and sexually transmitted diseases.
-The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis (PEK)**, yet **no direct clinical trials or published literature** currently support this specific indication — the prediction rests on mechanistic plausibility and knowledge graph topology, placing it at **Evidence Level L4**.
-
----
+Minocycline is a tetracycline-class antibiotic originally used for infections such as urinary tract infection, bronchitis, gonorrhea and periodontitis, and for acne.
+The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Bacterial infections (acne vulgaris, respiratory tract infections, STIs) |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
+|------|------|
+| Original Indication | Urinary tract infection, bronchitis, acne, anthrax infection, periodontitis, gonorrhea and other bacterial infections (the approved indication text in the India license records is blank, so these indications come from the knowledge graph) |
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 99.63% |
-| Evidence Level | L4 — Mechanistic / preclinical reasoning only |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Minocycline is a second-generation tetracycline with well-established antibacterial activity, but it also carries significant anti-inflammatory properties that extend well beyond its antibiotic function. It inhibits NF-κB signaling, downregulates pro-inflammatory cytokines (IL-1β, TNF-α), and suppresses matrix metalloproteinases MMP-2 and MMP-9. These mechanisms are directly relevant to ocular surface pathology: MMP-2/MMP-9 are key drivers of corneal basement membrane degradation, and chronic low-grade inflammation is the central feature of Punctate Epithelial Keratoconjunctivitis (PEK).
+Currently, detailed mechanism of action data is not available. Based on known information, minocycline is part of the tetracycline class of antibiotics. Its efficacy in bacterial infections and acne is established, and mechanistically it may be applicable to punctate epithelial keratoconjunctivitis.
 
-The pharmacological analogy to doxycycline — a structurally related tetracycline — lends indirect support. Doxycycline already has clinical precedent in treating Meibomian Gland Dysfunction (MGD), which is one of the principal upstream causes of PEK, through the same MMP-inhibition and anti-inflammatory pathway. If doxycycline can modify the inflammatory milieu responsible for PEK, minocycline — with comparable or superior tissue penetration and anti-inflammatory potency — may offer similar benefit.
+A plausible, but unverified, rationale is that minocycline has anti-inflammatory and matrix metalloproteinase (MMP)-inhibiting activity. These properties are relevant to ocular surface inflammation, and tetracycline-class drugs are already used in ocular surface conditions such as meibomian gland dysfunction and blepharitis. This link comes from general pharmacology, not from the data compiled for this report.
 
-The TxGNN model's high prediction score (0.9963) reflects meaningful connectivity between minocycline-related nodes and corneal epithelial disease nodes in the knowledge graph. However, this remains an inference: no dedicated clinical trials or publications directly testing minocycline in PEK were identified. The mechanistic case is plausible but unconfirmed, and formal preclinical validation is the necessary next step before any clinical translation.
-
----
+The second-ranked prediction, **exposure keratitis** (score 99.20%), has a similar but weaker rationale. Exposure keratitis is mainly caused by incomplete eyelid closure and corneal drying, so an antibiotic would be at best an adjunct, and the predicted benefit is uncertain. Neither prediction has supporting trials or literature.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 140812 | Minop 100 Tablet | Strip of 10 tablets | Not specified |
+| 108379 | Iminza 100mg Injection | Vial of 1 injection | Not specified |
+| 134417 | Minolox 100 Tablet | Strip of 10 tablets | Not specified |
+| 136201 | Minym 45mg Tablet ER | Strip of 10 extended-release tablets | Not specified |
+| 59251 | Divaine 50 Tablet | Strip of 10 tablets | Not specified |
+
+There are 20 valid single-ingredient registrations in total, covering oral tablets, extended-release tablets, capsules and injectable (vial) forms. No topical ophthalmic formulation appears among them.
+
+## Cytotoxicity
+
+Not applicable (not an antineoplastic drug), so this section is omitted.
 
 ## Safety Considerations
 
-**Drug Interactions** — 272 total interactions identified. Key interactions requiring clinical attention are summarised below.
+- **Contraindications / disease associations (from the knowledge graph, not label text)**: kidney disease, pyoureter, liver disease, gallbladder disease, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, pseudotumor cerebri, intracranial hypertension, dyskinesia of esophagus.
+- **Drug Interactions**: 272 interactions were identified in total. The main ones from the sample reviewed:
+  - **Major**: isotretinoin, acitretin (a recognized concern is the risk of raised intracranial pressure when tetracyclines are combined with retinoids).
+  - **Moderate**: ethinylestradiol, amoxicillin, ampicillin, sodium citrate, calcium acetate, calcium phosphate, bismuth subcitrate potassium, balsalazide, cannabidiol, aminolevulinic acid (topical), brentuximab vedotin, and asparaginase products.
+  - **Minor**: acetazolamide, hydrochlorothiazide, amiloride, bumetanide.
 
-**Major interactions (avoid concurrent use):**
-
-| Interacting Drug | Severity | Clinical Significance |
-|------------------|----------|-----------------------|
-| Isotretinoin | **Major** | Concurrent use significantly increases risk of pseudotumour cerebri (benign intracranial hypertension); combination should be avoided |
-| Acitretin | **Major** | Same mechanism — retinoids combined with tetracyclines carry established risk of raised intracranial pressure |
-
-**Notable moderate interactions:**
-
-| Interacting Drug | Severity | Notes |
-|------------------|----------|-------|
-| Ethinylestradiol | Moderate | Potential reduction of oral contraceptive efficacy; additional contraception advised |
-| Amoxicillin / Ampicillin | Moderate | Pharmacodynamic antagonism between bacteriostatic (minocycline) and bactericidal (penicillins) agents |
-| Calcium Phosphate / Calcium acetate | Moderate | Chelation in the gut reduces minocycline oral bioavailability; separate dosing by ≥2 hours |
-| Aminolevulinic acid (topical) | Moderate | Additive photosensitivity risk |
-| Cannabidiol | Moderate | Monitor for overlapping adverse effects |
-| Brentuximab vedotin | Moderate | Monitor closely; mechanism not fully characterised |
-
-> A total of **272 drug interactions** have been catalogued. A thorough medication reconciliation is essential before initiating minocycline in any patient, particularly those on retinoids, oral contraceptives, or calcium-containing preparations.
-
----
+Package insert warnings and contraindications were not available, so please refer to the package insert for the authoritative safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high prediction score (99.63%) to minocycline for punctate epithelial keratoconjunctivitis, and the mechanistic rationale — MMP-2/MMP-9 inhibition combined with NF-κB-mediated anti-inflammatory activity, supported by cross-class analogy with doxycycline in MGD — is scientifically coherent. However, the complete absence of direct clinical trials or published literature (Evidence Level L4) means this remains a hypothesis. The drug is also not currently registered in India, adding a regulatory pathway requirement.
+The prediction is supported only by the TxGNN score (Evidence Level L5), with no clinical trials or publications for either punctate epithelial keratoconjunctivitis or exposure keratitis. Package insert safety data are also missing, which blocks progression to safety screening.
 
 **To proceed, the following is needed:**
-- Preclinical studies (in vitro corneal epithelial cell models and/or animal PEK models) to confirm minocycline's direct activity on the target pathology
-- Targeted literature review for indirect evidence — doxycycline clinical data in MGD/PEK, or any minocycline ocular surface case reports — that may upgrade the evidence level
-- Determination of the appropriate delivery route (topical ophthalmic formulation vs. low-dose systemic oral), given that ocular bioavailability and corneal penetration are route-dependent
-- Retrieval of full MOA data from DrugBank (Data Gap DG002) to substantiate the mechanistic linkage for regulatory dossiers
-- Full safety package including prescribing information warnings and contraindications (Data Gap DG001), which are currently unavailable
-- CDSCO regulatory pathway assessment: a new drug or new indication application will be required given zero existing registrations in India
+- Package insert warnings and contraindications from the India regulatory source (currently a blocking gap)
+- Detailed mechanism of action data (e.g., from DrugBank)
+- A literature and trial search for tetracycline-class or minocycline use in punctate epithelial keratoconjunctivitis and other ocular surface disease
+- Assessment of route compatibility, since all marketed forms are oral or injectable and a topical ophthalmic route would likely be needed
+- Preclinical or early-phase evidence of benefit before reconsidering the decision
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

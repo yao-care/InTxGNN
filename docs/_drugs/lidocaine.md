@@ -2,7 +2,7 @@
 layout: default
 title: Lidocaine
 parent: Model Prediction Only (L5)
-nav_order: 486
+nav_order: 491
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,71 +29,91 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lidocaine: From Local Anesthesia to Punctate Epithelial Keratoconjunctivitis
+# Lidocaine: From Local Anaesthesia and Neuralgia to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Lidocaine is a well-established Na⁺ channel blocker widely used as a local anesthetic and Class Ib antiarrhythmic agent.
-The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis**, achieving a prediction score of **99.99%**,
-however **no clinical trials** and **no supporting publications** have been identified for this specific indication — evidence is currently limited to model prediction only.
-
----
+Lidocaine is a sodium channel blocker, originally used as a local anaesthetic and for conditions such as neuralgia, postherpetic neuralgia, haemorrhoids, dermatitis and parasitic skin infestations.
+The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis** (top-ranked prediction), but **no clinical trials and no publications** currently support this specific indication, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Local anesthesia / cardiac arrhythmia (no India regulatory registration on file) |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
+|------|------|
+| Original Indication | Not stated in the India licence records; the knowledge graph lists dermatitis, neuralgia, postherpetic neuralgia, haemorrhoid, scabies and other conditions |
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in this Evidence Pack. Based on established pharmacology, Lidocaine is a Na⁺ channel blocker that inhibits neuronal membrane depolarization by blocking voltage-gated sodium channels, producing local anesthesia and — at systemic doses — antiarrhythmic effects (Class Ib). Its use as a topical ocular surface anesthetic is well-established in ophthalmic clinical practice worldwide.
+Detailed mechanism of action data is not available in the data compiled for this report. Lidocaine is generally known as a sodium channel blocker, and it acts as a topical ocular anaesthetic. It could in principle relieve surface pain.
 
-In the context of punctate epithelial keratoconjunctivitis (PEK) — a condition characterized by scattered punctate epithelial defects across the corneal and conjunctival surface, often accompanied by ocular discomfort — Lidocaine's analgesic mechanism could theoretically address acute pain arising from exposed corneal nerve endings. Sodium channel blockade may additionally confer mild anti-inflammatory properties by reducing neurogenic inflammation via suppression of neuropeptide release (e.g., Substance P), providing a biologically plausible, albeit indirect, connection to PEK symptom management.
+However, the link to the predicted indication is weak. Lidocaine does not treat the underlying epithelial inflammation or infection in punctate epithelial keratoconjunctivitis. Prolonged topical anaesthetic use is also known to be toxic to the corneal epithelium, which argues against therapeutic use. The very high TxGNN score is therefore not matched by any mechanistic or clinical support.
 
-However, this prediction carries a critical biological caveat. PEK arises from diverse etiologies including drug toxicity, post-infectious sequelae, and dry eye disease. Prolonged topical application of local anesthetics — including Lidocaine — is well-documented to inhibit corneal epithelial cell mitosis and delay wound healing, potentially worsening the very condition it might aim to treat. The high TxGNN score most likely reflects broad network-level similarity across ocular surface inflammation nodes in the knowledge graph rather than a direct, specific therapeutic mechanism.
-
----
+Other high-ranking predictions (papillary conjunctivitis, rosacea conjunctivitis, exposure keratitis, nephrotic syndrome, tinea corporis) show the same pattern: no plausible disease-modifying mechanism and no supportive trials. The one slightly more interesting lead is **atopic conjunctivitis** (L4), where a 2023 preclinical study suggests sensory nerve signalling, which lidocaine blocks, may influence allergen passage through the conjunctiva. This remains a research question rather than a clinical signal.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials are registered for the top-ranked predicted indication, punctate epithelial keratoconjunctivitis.
 
----
+For context, the closest trials found relate to the lower-ranked prediction "conjunctival disorder". They concern procedural anaesthesia, not treatment of a disease:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT05978687](https://clinicaltrials.gov/study/NCT05978687) | Phase 4 | Completed | 41 | Lidocaine gel vs subconjunctival injection for pain control in pterygium excision |
+| [NCT01350024](https://clinicaltrials.gov/study/NCT01350024) | N/A | Completed | 34 | Postoperative pain with two types of local anaesthesia in ptosis (drooping eyelid) surgery |
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature is available for punctate epithelial keratoconjunctivitis.
 
----
+Selected publications linked to other predicted ocular indications are shown below for context:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [18989343](https://pubmed.ncbi.nlm.nih.gov/18989343/) | 2009 | RCT | Eye (London) | Lidocaine 2% gel vs tetracaine 1% drops as sole topical anaesthetic in primary pterygium surgery |
+| [29135709](https://pubmed.ncbi.nlm.nih.gov/29135709/) | 2018 | Pilot study | Cornea | Subconjunctival injection vs 2% vs 5% lidocaine gel in pterygium surgery |
+| [15799734](https://pubmed.ncbi.nlm.nih.gov/15799734/) | 2005 | Clinical study | Acta Ophthalmol Scand | Efficacy of lidocaine 2% gel as topical anaesthetic in pterygium surgery |
+| [37819721](https://pubmed.ncbi.nlm.nih.gov/37819721/) | 2023 | Preclinical mechanistic study | JCI Insight | Nerve-goblet cell association promotes antigen passage in allergic conjunctivitis |
+| [8039024](https://pubmed.ncbi.nlm.nih.gov/8039024/) | 1994 | Experimental physiological study | Clin Exp Allergy | Nasal anaesthesia and lacrimal function after nasal allergen challenge |
+| [19250287](https://pubmed.ncbi.nlm.nih.gov/19250287/) | 2009 | Review | Cephalalgia | Neuropsychiatric and cardiac side effects of lidocaine, based on headache patients and literature |
+
+## India Market Information
+
+Lidocaine has 20 valid single-ingredient registrations. The records do not include approved indication text. Five main authorisations are shown:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 125383 | Lidofix 2% Injection | Vial of 30 ml injection | Not stated |
+| 127832 | Lignocip 2% Injection (Cipla) | Vial of 30 ml injection | Not stated |
+| 121665 | Lignox 2% Gel (Indoco) | Tube of 30 gm gel | Not stated |
+| 203383 | Skore Not Out Lidocaine Topical Spray | Bottle of 12 gm spray | Not stated |
+| 109472 | Ilidotrans Transdermal Patch | Box of 2 transdermal patches | Not stated |
+
+Other forms on the market include an oral topical solution and 1% ophthalmic-use injection (Oculan). No ophthalmic drop formulation appears among the registered products.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+- **Contraindication signals (knowledge graph, not label text)**: Linked conditions include hypertension, liver failure and liver disease, cirrhosis, kidney disease, epilepsy, adrenocortical insufficiency, hypothyroidism, open-angle glaucoma, herpes simplex virus keratitis, varicella zoster infection, atopic dermatitis, osteoporosis, psychotic disorders, fungal infections and gastritis. These should be verified against the product label.
+- **Drug Interactions**: 100 interactions were identified. Major: **bupropion**. Moderate: aprepitant, cimetidine, liposomal morphine, obeticholic acid, polyethylene glycol (3350 with electrolytes), picosulfuric acid and sodium sulfate. Minor: dexamethasone, kanamycin, neomycin, streptomycin, omeprazole and troglitazone.
+- **Literature-reported risks**: Neuropsychiatric and cardiac side effects with intravenous use (PMID 19250287); drug-induced methemoglobinaemia, including a paediatric case with topical lidocaine, benzocaine and co-trimoxazole (PMID 41995267); seizures in animals at low doses when lidocaine was used as a diluent (PMID 19858165); and corneal epithelial toxicity with prolonged topical ocular use.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials or publications directly support Lidocaine for punctate epithelial keratoconjunctivitis, and the well-documented corneal epitheliotoxicity associated with prolonged topical anesthetic use represents a mechanistic safety concern that must be addressed before this indication can advance.
+The top prediction has a very high model score but no clinical trials or literature. Lidocaine only provides symptomatic surface anaesthesia, does not treat the underlying disease, and prolonged topical use can damage the corneal epithelium. Existing ocular evidence concerns procedural anaesthesia, not disease treatment.
 
 **To proceed, the following is needed:**
-- Mechanism of action (MOA) data from DrugBank to formally characterize anti-inflammatory potential
-- India package insert retrieval and review for ophthalmic safety warnings and contraindications (currently blocking)
-- Preclinical data distinguishing short-term analgesic benefit from long-term epithelial toxicity in PEK models
-- Drug interaction (DDI) database query to be re-run after correcting the missing DDInter file path (`ddinter_code_A.csv`)
-- Reassessment once India market status is clarified — Lidocaine formulations (gel, solution) may be available under different registration pathways not captured in the current data
+- Package insert warnings and contraindications for the India-registered products
+- Detailed mechanism of action data
+- A clear case for a disease-modifying or symptomatic role in punctate epithelial keratoconjunctivitis, including corneal toxicity risk assessment
+- If pursuing the atopic conjunctivitis lead, preclinical or early clinical studies on sensory nerve blockade, together with confirmation of suitable ophthalmic formulations and routes
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

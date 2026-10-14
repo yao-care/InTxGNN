@@ -2,7 +2,7 @@
 layout: default
 title: Methoxsalen
 parent: Moderate Evidence (L3-L4)
-nav_order: 531
+nav_order: 536
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,110 +29,94 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Methoxsalen: From PUVA Therapy (CTCL / Psoriasis) to Localized Pagetoid Reticulosis
+# Methoxsalen: From Cutaneous T-Cell Lymphoma to Localized Pagetoid Reticulosis
 
 ## One-Sentence Summary
 
-Methoxsalen is a psoralen (furocoumarin) compound that functions as the photosensitizing agent in PUVA (Psoralen + UVA) therapy, with established clinical use in psoriasis, vitiligo, and cutaneous T-cell lymphoma (CTCL) — including FDA-approved applications in mycosis fungoides and Sézary syndrome, as well as extracorporeal photopheresis (ECP).
-The TxGNN model predicts it may be effective for **Localized Pagetoid Reticulosis (Woringer-Kolopp Disease)**, a rare indolent variant of CTCL presenting as a solitary intraepidermal T-cell plaque.
-Currently, **0 clinical trials** and **0 publications** are directly available for this specific indication; the prediction rests entirely on mechanistic extrapolation from its established role in closely related CTCL disorders.
-
----
+Methoxsalen is a photosensitising agent (psoralen) used with UVA light (PUVA) and in extracorporeal photopheresis. It was originally used for cutaneous T-cell lymphoma and vitiligo.
+The TxGNN model predicts it may be effective for **localized pagetoid reticulosis**, an indolent epidermotropic variant of cutaneous T-cell lymphoma.
+Currently there are **0 clinical trials** and **0 publications** directly supporting this prediction, so the support is mechanistic and class-level inference only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | PUVA therapy for psoriasis, vitiligo, and CTCL (mycosis fungoides / Sézary syndrome) |
-| Predicted New Indication | Localized Pagetoid Reticulosis (Woringer-Kolopp Disease) |
+|------|------|
+| Original Indication | Primary cutaneous T-cell lymphoma (including non-Hodgkin type); vitiligo |
+| Predicted New Indication | Localized pagetoid reticulosis |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold (Research Question) |
-
----
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Methoxsalen is a psoralen that undergoes photoactivation by long-wave ultraviolet A (UVA) light, forming covalent monoadducts and interstrand crosslinks with pyrimidine bases in DNA. This halts cell division and triggers apoptosis preferentially in rapidly proliferating or aberrant lymphocytes. The mechanism underpins both topical/systemic PUVA therapy and extracorporeal photopheresis (ECP), in which patient leukocytes are treated with methoxsalen ex vivo before UVA irradiation — a technique FDA-approved for erythrodermic CTCL. Detailed MOA documentation from DrugBank was not available in the current evidence pack, and full confirmation should be obtained.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, methoxsalen is activated by UVA light and forms DNA crosslinks, which induces apoptosis in malignant epidermal T cells. Its efficacy in cutaneous T-cell lymphoma is established, and it may be mechanistically applicable to localized pagetoid reticulosis.
 
-Localized Pagetoid Reticulosis (Woringer-Kolopp disease) is a rare, indolent variant of CTCL characterised by a solitary, slowly expanding cutaneous plaque with intraepidermal proliferation of CD8+ (or CD4+) neoplastic T cells. Because PUVA therapy is already an established first-line option for localized, early-stage CTCL variants, the mechanistic logic is biologically sound: the same DNA crosslinking and T-cell apoptosis pathway that underlies PUVA's efficacy in mycosis fungoides can be directly extrapolated to this histologically related condition. The extreme rarity of the disease (fewer than 200 cases reported globally) largely explains the absence of dedicated clinical trials.
+Localized pagetoid reticulosis (Woringer-Kolopp disease) is an indolent, epidermotropic variant of primary cutaneous T-cell lymphoma. It therefore sits very close to the original indication, and photochemotherapy acts on the same skin-homing T-cell biology.
 
-It is important to recognise this remains an **indirect mechanistic extrapolation** with no published case series or prospective evidence specifically addressing methoxsalen in pagetoid reticulosis. The TxGNN model's high score (99.97%) most likely reflects the shared T-cell ontology and spatial co-occurrence of CTCL variants in the knowledge graph, rather than independently validated clinical efficacy. Comparing with the rank-2 prediction — indolent primary cutaneous T-cell lymphoma (score 99.91%, L3 evidence, 2 supporting publications on ECP) — this prediction is plausible but requires further empirical validation.
+The very high TxGNN score mainly reflects this proximity to an existing indication. It is not independent clinical evidence, and this is closer to an overlap with the original indication than a true repurposing signal.
 
----
+The other nine predictions are weaker. The second-ranked prediction, indolent primary cutaneous T-cell lymphoma, has a similar rationale and one indirect reference. The remaining eight are B-cell lymphomas (including MALT lymphomas, Burkitt lymphoma, tonsillar lymphoma and a follicular lymphoma susceptibility entry) and a benign vulvar lesion. They have no plausible mechanistic link and were all rated Hold at evidence level L5. UVA-activated methoxsalen cannot reach deep or visceral disease.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials are registered for localized pagetoid reticulosis.
 
 ## Literature Evidence
 
-Currently no related literature available.
+No literature was found for localized pagetoid reticulosis. For the related second-ranked prediction, indolent primary cutaneous T-cell lymphoma, one reference is available:
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [23074497](https://pubmed.ncbi.nlm.nih.gov/23074497/) | 2006 | Review (health technology assessment) | Ontario Health Technology Assessment Series | Evidence-based analysis of the effectiveness, safety and cost-effectiveness of extracorporeal photopheresis in refractory erythrodermic CTCL and refractory chronic graft-versus-host disease. Indirect, secondary evidence. |
 
 ## India Market Information
 
-Methoxsalen is currently **not marketed in India**. No drug licences have been registered with the Indian regulatory authority (CDSCO), and no approved product information is available from domestic sources.
+Twenty valid single-ingredient registrations exist. The data compiled for this report contains no approved indication text for any of them. The main authorizations are:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 138256 | Macsoralen Lotion | Bottle of 15 ml solution | Not available |
+| 201942 | Salen Capsule | Strip of 10 capsules | Not available |
+| 147728 | Misvic 10mg Tablet | Strip of 10 tablets | Not available |
+| 139157 | Maxlen 10mg Tablet | Strip of 20 tablets | Not available |
+| 133618 | Melanocyl Tablet | Strip of 40 tablets | Not available |
 
 ## Cytotoxicity
 
-Methoxsalen is used as the active photosensitizing agent in PUVA photochemotherapy and ECP for CTCL (a T-cell malignancy), qualifying it for oncology-specific safety review.
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Photochemotherapy agent — Psoralen class; mechanism: photoactivated DNA interstrand crosslinking and apoptosis induction in aberrant T lymphocytes |
-| Myelosuppression Risk | Low — primary toxicity is phototoxicity and cutaneous carcinogenesis, not bone marrow suppression |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function tests (hepatotoxicity risk); ophthalmological examination (UVA-induced cataract risk — UV-protective eyewear mandatory during and for 24 h after dosing); long-term skin cancer surveillance (squamous cell carcinoma risk with cumulative PUVA exposure) |
-| Handling Protection | Standard precautions; patients must avoid sunlight and UV exposure for 8–24 h post-dose; systemic methoxsalen has a narrow therapeutic window requiring dose adjustment by body weight |
-
----
+|------|------|
+| Cytotoxicity Classification | Photoactivated DNA-crosslinking agent (used with UVA). Not a conventional cytotoxic chemotherapy |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-**Drug Interactions (126 interactions identified; representative moderate-level interactions shown below):**
+- **Contraindications (from the knowledge graph, not label text)**: The following disease associations are recorded.
+  - Photosensitivity: photosensitivity disease, photoparoxysmal response.
+  - Porphyrias: porphyria, variegate porphyria, porphyria cutanea tarda, erythropoietic protoporphyria and related porphyrin metabolism disorders.
+  - Skin cancers: melanoma, basal cell carcinoma, squamous cell carcinoma, skin carcinoma and other carcinomas.
+  - Other: xeroderma pigmentosum, albinism, systemic lupus erythematosus, liver disease, gallbladder disease, Waardenburg syndrome, piebaldism and Griscelli syndrome.
+- **Drug Interactions**: 126 interactions were recorded. The 20 listed are all Moderate. They include tetracycline-class antibiotics (doxycycline, tetracycline, minocycline), sulfonylureas (glimepiride, glipizide, glyburide, chlorpropamide, tolbutamide, tolazamide, acetohexamide), levofloxacin, sulfasalazine, sulfamethizole, promethazine, alosetron, and NSAIDs (ibuprofen, flurbiprofen). Many of these probably relate to additive photosensitivity or other photosensitising effects.
 
-| Interacting Drug | Level | Clinical Concern |
-|-----------------|-------|-----------------|
-| Doxycycline / Doxycycline (topical) | Moderate | Additive phototoxicity risk |
-| Tetracycline / Tetracycline (topical) | Moderate | Additive phototoxicity risk |
-| Minocycline / Minocycline (topical) | Moderate | Additive phototoxicity risk |
-| Levofloxacin | Moderate | Additive phototoxicity risk |
-| Promethazine | Moderate | Additive phototoxicity risk |
-| Sulfasalazine | Moderate | Additive phototoxicity risk |
-| Sulfamethizole | Moderate | Additive phototoxicity risk |
-| Chlorpropamide / Glimepiride / Glipizide / Glyburide / Tolazamide / Tolbutamide / Acetohexamide | Moderate | Possible pharmacokinetic interaction with sulfonylureas |
-| Ibuprofen / Flurbiprofen | Moderate | Additive phototoxicity risk |
-| Alosetron | Moderate | Interaction mechanism under review |
-
-A total of 126 drug interactions have been identified in the DDInter database. The predominant interaction pattern is **additive phototoxicity** with other photosensitizing agents (tetracyclines, fluoroquinolones, phenothiazines, sulfonamides, NSAIDs). Please refer to the package insert for complete warnings, contraindications, and carcinogenicity data, which were not available in the current evidence pack.
-
----
+Package insert warnings and contraindications could not be obtained. Please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold (Research Question)**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic basis for using methoxsalen (via PUVA) in localized pagetoid reticulosis is biologically plausible given the shared T-cell pathobiology with CTCL, but the complete absence of dedicated clinical trials or published case series means this cannot be advanced beyond hypothesis generation at this stage. Additionally, methoxsalen is not currently registered in India, creating an additional regulatory barrier.
+The top prediction, localized pagetoid reticulosis, is plausible, but it is essentially an extension of the approved cutaneous T-cell lymphoma indication. No trials or literature support it, and the high score reflects proximity to the existing indication rather than new evidence. Package insert safety data are missing, and the knowledge graph flags several relevant contraindications, including skin cancers and photosensitivity disorders. The B-cell lymphoma predictions have no plausible mechanism.
 
 **To proceed, the following is needed:**
-
-- **Evidence generation**: Systematic case series or retrospective registry data documenting PUVA outcomes specifically in pagetoid reticulosis patients
-- **Regulatory pathway**: Assessment of CDSCO registration requirements for methoxsalen in India, given zero current approvals
-- **Safety data**: Retrieval and review of CDSCO/TFDA-equivalent package insert for complete key warnings and contraindications (currently a blocking data gap)
-- **MOA documentation**: DrugBank API query to formally document methoxsalen's mechanism of action and support mechanistic link analysis
-- **Administration feasibility**: Evaluation of whether topical PUVA (preferred for localized lesions) vs. systemic PUVA is appropriate, given the solitary plaque presentation of Woringer-Kolopp disease
-- **Consider rank-2 prediction first**: The indolent primary cutaneous T-cell lymphoma indication (rank 2, L3 evidence, 2 supporting publications on ECP) offers a more evidence-supported entry point and may be a preferable initial focus
-
-> **Research disclaimer**: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+- Case series, registry data or guideline evidence for PUVA in localized pagetoid reticulosis
+- Package insert warnings and contraindications from the Indian regulator or manufacturers, and approved indication text for the registered products
+- Detailed mechanism of action data (MOA)
+- Route and formulation compatibility assessment (oral, topical and extracorporeal use)
+- A safety plan for photosensitivity, skin cancer risk and drug interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,37 +29,37 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-# Buprenorphine: From Opioid Use Disorder / Pain Management to Acute Intermittent Porphyria
+# Buprenorphine: From Opioid Dependence to Acute Intermittent Porphyria
 
 ## One-Sentence Summary
 
-Buprenorphine is a partial μ-opioid receptor agonist with established use in opioid use disorder (OUD) treatment and moderate-to-severe pain management.
-The TxGNN model predicts it may be applicable to **Acute Intermittent Porphyria (AIP)**,
-with **0 clinical trials** and **1 publication** currently available to support this direction — evidence remains extremely limited.
+Buprenorphine is a partial opioid agonist originally used to treat opioid dependence and related substance dependence disorders.
+The TxGNN model predicts it may be effective for **Acute Intermittent Porphyria**, but there are **0 clinical trials** and only **1 publication** (an anesthetic case report) behind this prediction.
+The evidence is weak, and the high model score is not supported by clinical data.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Opioid use disorder; moderate-to-severe pain management |
-| Predicted New Indication | Acute Intermittent Porphyria |
+|------|------|
+| Original Indication | Opioid dependence, substance abuse/dependence, morphine dependence (approved indication text is not available in the India licence records) |
+| Predicted New Indication | Acute intermittent porphyria |
 | TxGNN Prediction Score | 99.41% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on known pharmacology, Buprenorphine is a partial agonist at the μ-opioid receptor and an antagonist at the κ-opioid receptor, giving it a distinctive profile among opioid analgesics — high-ceiling analgesia with a lower respiratory depression risk compared to full agonists.
+Currently, detailed mechanism of action data is not available. Based on known information, buprenorphine is a mu-opioid partial agonist used in opioid dependence and pain management. Its efficacy in opioid dependence is established, but no mechanistic basis for use in acute intermittent porphyria has been identified.
 
-Acute Intermittent Porphyria (AIP) is a rare metabolic disorder caused by a deficiency in the heme biosynthesis enzyme hydroxymethylbilane synthase (HMBS). During acute attacks, patients experience debilitating neuropathic abdominal pain along with autonomic instability and, in severe cases, neuropsychiatric symptoms. The critical clinical challenge is that many common analgesics and sedatives are porphyrinogenic (i.e., they can trigger or worsen attacks by inducing ALA synthase), making pain management particularly difficult.
+Acute intermittent porphyria is caused by a defect in heme biosynthesis. There is no credible mechanistic link between mu-opioid partial agonism and this defect. The only publication found is a report on anesthetic management of a patient with the disease. It suggests opioid-type analgesia may be usable in these patients, but it does not show any disease-modifying benefit.
 
-The predicted link here is not disease-modifying but rather **symptom-supportive**: buprenorphine, as a non-porphyrinogenic opioid, is considered relatively safe for AIP pain management. The 1993 Japanese case report in the evidence pack describes anesthetic management in a patient with suspected AIP undergoing major surgery, which tangentially supports the notion that opioids (including agents in this class) can be used with caution in this population. However, this is a symptomatic analgesic application, not a targeted therapy addressing the underlying heme enzyme deficiency. The TxGNN model's high prediction score likely reflects the graph-level mechanistic compatibility rather than a novel disease-modifying role.
+The high TxGNN score (0.994) is therefore not backed by clinical data. At most, buprenorphine could serve as symptomatic analgesia, and this would require checking porphyria safety first, including porphyrinogenic drug lists and CYP3A4 metabolism of buprenorphine.
 
 ---
 
@@ -72,35 +72,61 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [8301837](https://pubmed.ncbi.nlm.nih.gov/8301837/) | 1993 | Case Report | Masui (Japanese Journal of Anesthesiology) | Anesthetic management of a 40-year-old female with suspected AIP undergoing radical hysterectomy; describes the challenges of selecting porphyria-safe agents perioperatively. Buprenorphine is not directly evaluated but the case highlights the importance of opioid selection in AIP patients. |
+|------|-----|------|------|---------|
+| [8301837](https://pubmed.ncbi.nlm.nih.gov/8301837/) | 1993 | Case report | Masui (Japanese Journal of Anesthesiology) | Anesthetic management of a 40-year-old woman with suspected acute intermittent porphyria undergoing surgery for ovarian tumour; no evidence of disease-modifying benefit |
 
 ---
 
 ## India Market Information
 
-Buprenorphine currently has **no registered products** in the Indian market. No authorization records are available.
+Twenty valid single-ingredient registrations are on record. Approved indication text is not available for any of them. The main authorizations are:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 26263 | Bupreplast Patch (Zuventus Healthcare) | Box of 2 patches | Not specified |
+| 139468 | Mutrans 20mcg/hr Transdermal Patch (6ipain Healthcare) | Box of 2 transdermal patches | Not specified |
+| 25826 | Buvalor 10mg Transdermal Patch (Modi Mundi Pharma) | Packet of 2 transdermal patches | Not specified |
+| 28578 | Buprinor 0.3mg Injection (AstraZeneca) | Vial of 2 ml injection | Not specified |
+| 216369 | Tidigesic 0.2mg Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not specified |
+
+Available forms include transdermal patches, injections and tablets.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions:** A total of **264 drug-drug interactions** have been identified in the DDI database. Key interactions include:
+- **Contraindications (from knowledge graph associations, not label text)**: The knowledge graph links buprenorphine to a number of conditions, including:
+  - Respiratory: chronic obstructive pulmonary disease, respiratory failure
+  - Cardiac and circulatory: long QT syndrome, torsades de pointes, orthostatic hypotension
+  - Hepatic: liver disease, chronic hepatitis B and C infection
+  - Gastrointestinal: paralytic ileus, intestinal obstruction, gallbladder disease
+  - Endocrine: hypothyroidism, adrenocortical insufficiency (Addison disease)
+  - Other: benign prostatic hyperplasia, intracranial hypertension, urethral stricture
+- **Drug Interactions**: 264 interactions were recorded. Major-level interactions include:
+  - Alvimopan
+  - Bupropion
+  - Morphine
+  - Cisapride
+  - Dolasetron
 
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Alvimopan | **Major** | Opioid antagonist; concurrent use may precipitate withdrawal or loss of analgesic effect |
-| Morphine | **Major** | Combined opioid use increases risk of CNS/respiratory depression |
-| Bupropion | **Major** | May lower seizure threshold and alter opioid metabolism via CYP2D6 inhibition |
-| Cisapride | **Major** | Risk of QT prolongation and potentially fatal arrhythmias |
-| Dolasetron | **Major** | Additive QT prolongation risk |
-| Famotidine | Moderate | May affect buprenorphine absorption/metabolism |
-| Clarithromycin | Moderate | CYP3A4 inhibition may increase buprenorphine plasma levels |
-| Dexamethasone | Moderate | CYP3A4 induction may reduce buprenorphine efficacy |
-| Hyoscyamine / Atropine / Dicyclomine | Moderate | Additive anticholinergic effects |
-| Loperamide | Moderate | Combined opioid effects on GI motility |
+  Moderate-level interactions include famotidine, loperamide, aprepitant, clarithromycin, cimetidine and several anticholinergics.
+- **Porphyria-specific caution**: Porphyria safety of buprenorphine, including CYP3A4 metabolism, has not been verified and must be checked before any use in this condition.
 
-Please refer to the package insert for full warnings and contraindications, as these data were not available in the current Evidence Pack.
+Please refer to the package insert for label warnings and contraindications, as these were not available in the data compiled for this report.
+
+---
+
+## Other Predicted Indications (Context)
+
+None of the other top-ranked predictions has supporting trials. All are rated Hold.
+
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Comment |
+|------|------|------|------|------|
+| 2 | Lingual-facial-buccal dyskinesia | 99.32% | L4 | Literature is indirect (opioids and agitation in dementia, pharmacology, veterinary safety); none addresses dyskinesia. Opioids may themselves cause movement-related adverse effects. |
+| 3 | Chronic tic disorder | 99.13% | L5 | Model prediction only |
+| 4 | Continuous spikes and waves during sleep | 99.05% | L5 | Model prediction only; opioids can lower seizure threshold in some settings |
+| 5 | Extrapyramidal and movement disease | 99.03% | L5 | Broad category; model prediction only |
+| 6 | Benign shuddering attacks | 99.03% | L5 | Benign, self-limiting paediatric condition; the risk-benefit of an opioid would be unfavourable |
 
 ---
 
@@ -109,18 +135,13 @@ Please refer to the package insert for full warnings and contraindications, as t
 **Decision: Hold**
 
 **Rationale:**
-Evidence for buprenorphine in acute intermittent porphyria is limited to a single indirect case report from 1993, with zero registered clinical trials. The proposed mechanism is symptomatic (analgesic support) rather than disease-modifying, and the drug is not currently approved or marketed in India, creating additional regulatory barriers.
+The prediction rests on a single anesthetic case report with no clinical trials, and there is no plausible mechanistic link between buprenorphine and the heme biosynthesis defect in acute intermittent porphyria. Any use would be symptomatic analgesia only, and porphyria-related safety is unresolved.
 
 **To proceed, the following is needed:**
-
-- Obtain the India/CDSCO package insert to assess key warnings, contraindications, and approved label language before any safety evaluation can proceed
-- Retrieve complete MOA data from DrugBank API (DB00921) to enable rigorous mechanistic analysis
-- Conduct a targeted literature review specifically examining buprenorphine (not opioids generally) as a safe analgesic in AIP, distinguishing it from porphyrinogenic agents
-- Explore whether any AIP pain management guidelines (e.g., European Porphyria Network / EPNET) list or exclude buprenorphine by name
-- If the intended application is purely symptomatic analgesia in AIP attacks, consider whether a full repurposing program is warranted versus a prescribing guidance / formulary inclusion initiative
-- Clarify the regulatory pathway for introducing buprenorphine to the Indian market, including controlled substance scheduling requirements
-
-> ⚠️ **Disclaimer:** This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.
+- Mechanism of action data for buprenorphine (for example from DrugBank)
+- Package insert warnings and contraindications from the India regulatory records, and approved indication text for the registered products
+- Review of buprenorphine against porphyrinogenic drug lists, including the effect of CYP3A4 metabolism
+- Evidence of disease-modifying benefit, or a clear decision to pursue only a symptomatic analgesia use case, supported by controlled clinical data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

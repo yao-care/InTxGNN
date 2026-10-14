@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tulobuterol
-parent: High Evidence (L1-L2)
-nav_order: 865
-evidence_level: L1
+parent: Moderate Evidence (L3-L4)
+nav_order: 873
+evidence_level: L4
 indication_count: 10
 ---
 
 # Tulobuterol
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,97 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Tulobuterol: From Obstructive Airways Disease to Bronchitis
+# Tulobuterol: From Asthma to Bronchitis
 
 ## One-Sentence Summary
 
-Tulobuterol is a selective β₂-adrenergic receptor agonist (long-acting bronchodilator), with established use for bronchial asthma and obstructive airways disease in Japan, Korea, and China — most notably as the Hokunalin transdermal patch formulation.
-The TxGNN model predicts it may be effective for **Bronchitis**, with **1 clinical trial** and **4 publications** currently supporting this direction.
-The mechanistic rationale is strong: tulobuterol directly relaxes bronchial smooth muscle and has been shown to enhance mucociliary clearance — both central to bronchitis pathophysiology.
-
----
+Tulobuterol is a beta-2 adrenergic agonist bronchodilator, originally used to treat asthma and pulmonary emphysema.
+The TxGNN model predicts it may be effective for **bronchitis** with a very high score, but so far only **2 publications** (one 1987 mucociliary clearance study and one 1985 review) bear on this indication, and **no clinical trials** are registered for it.
+This is a computational prediction with limited direct clinical support.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Bronchial asthma / Obstructive airways disease (approved in Japan, Korea, China) |
+|------|------|
+| Original Indication | Asthma, intrinsic asthma, allergic asthma, pulmonary emphysema |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.998% |
-| Evidence Level | L1 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 9 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information from the literature, tulobuterol is a selective β₂-adrenergic receptor agonist that relaxes bronchial smooth muscle, reduces airway resistance, and is delivered via a transdermal patch (Hokunalin/Atock) providing stable 24-hour drug release. This chronotherapeutic design specifically targets the early-morning dip in respiratory function by timing peak plasma concentration to coincide with peak symptom severity.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, tulobuterol is a beta-2 adrenergic agonist. It relaxes airway smooth muscle, and its efficacy in asthma and emphysema is established.
 
-Bronchitis — whether acute or chronic — is pathologically characterized by airway inflammation, mucus hypersecretion, and bronchospasm. Tulobuterol addresses all three mechanisms applicable to smooth muscle: it lowers bronchomotor tone, improves expiratory flow, and has been directly shown to enhance mucociliary clearance. PMID 2884705 (Matthys et al., 1987) prospectively demonstrated that tulobuterol significantly improved total, central, and peripheral bronchial mucociliary clearance in patients with chronic obstructive bronchitis in a double-blind crossover design — directly linking the drug's pharmacology to the pathological mechanism of bronchitis.
+Bronchitis with airflow obstruction shares the same airway-narrowing problem. Bronchodilation could plausibly give symptomatic relief. A 1987 study also found that tulobuterol improved mucociliary clearance in patients with chronic obstructive bronchitis, which is a second plausible benefit.
 
-The clinical overlap further supports this prediction. Chronic bronchitis is one of the two defining phenotypes of COPD, an indication in which tulobuterol already has multiple completed RCTs and licensed approvals. An active Phase 4 RCT (NCT06411925) is currently enrolling 296 patients with acute bronchitis using the Atock Dry Syrup formulation, providing prospective confirmation that this indication is being formally pursued.
+This evidence is indirect. Neither available publication is a bronchitis-specific efficacy trial. The very high TxGNN score is a computational prediction and does not replace clinical evidence.
 
----
+**Other predictions in the same analysis:**
+- **Obstructive lung disease and chronic obstructive pulmonary disease (COPD):** these are close to the approved uses, so they are largely on-label or near-label rather than true repurposing. Evidence is stronger (L3), including Phase 4 trials and comparative studies (see below).
+- **Respiratory malformation, Rienhoff syndrome, compensatory emphysema, interstitial emphysema, hyperlucent lung, tracheal stenosis and congenital lobar emphysema:** no plausible mechanistic link or clinical evidence was found. Several involve fixed structural problems that bronchodilation is unlikely to change. These predictions appear to rest on knowledge-graph associations.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|-------------|
-| [NCT06411925](https://clinicaltrials.gov/study/NCT06411925) | Phase 4 | Recruiting | 296 | Multi-center, randomized, double-blind, active-controlled, non-inferiority RCT evaluating efficacy and safety of Atock Dry Syrup in acute bronchitis patients (est. completion Sep 2027) |
+No clinical trials are registered for bronchitis. Currently no related clinical trials registered for this indication.
 
----
+For the closely related obstructive airway indications (rank 2 and rank 4 predictions):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT01465906](https://clinicaltrials.gov/study/NCT01465906) | Phase 4 | Unknown | 160 | Tulobuterol patch plus tiotropium for relieving dyspnea in COPD; multicentre randomized trial. Results not verified |
+| [NCT00950794](https://clinicaltrials.gov/study/NCT00950794) | Phase 4 | Completed | 367 | Salmeterol vs tulobuterol (Hokunalin) tape in adult asthma; tulobuterol is the comparator, not the focus |
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [2884705](https://pubmed.ncbi.nlm.nih.gov/2884705/) | 1987 | Pharmacological/Clinical Study | *Respiration* | Double-blind crossover study (n=10) showing tulobuterol significantly improved total, central, and peripheral mucociliary clearance in patients with chronic obstructive bronchitis; comparable to fenoterol |
-| [2861899](https://pubmed.ncbi.nlm.nih.gov/2861899/) | 1985 | Clinical Study (Controlled Trial) | *Clinical Therapeutics* | Evaluated tulobuterol as a β₂-agonist in obstructive airways disease; chronic bronchitis and emphysema discussed alongside asthma; individual patient response variability noted |
-| [23527972](https://pubmed.ncbi.nlm.nih.gov/23527972/) | 2013 | Review | *Chinese Journal of Pediatrics* | Clinical application of transdermal β₂-agonists including tulobuterol patch in childhood wheezing diseases; supports pediatric bronchitis-related use |
-| [2983286](https://pubmed.ncbi.nlm.nih.gov/2983286/) | 1985 | Pharmacological Study | *Orvosi Hetilap* | Mechanistic study on β-mimetic effects on bronchial mucus transport; provides the pharmacological basis for mucociliary clearance improvement relevant to bronchitis |
+**Bronchitis:**
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [2884705](https://pubmed.ncbi.nlm.nih.gov/2884705/) | 1987 | Mechanistic/physiological study | Respiration | In 8 patients with chronic obstructive bronchitis and 2 with asthma, tulobuterol and fenoterol significantly improved mucociliary clearance in a double-blind crossover design |
+| [2861899](https://pubmed.ncbi.nlm.nih.gov/2861899/) | 1985 | Review | Clinical Therapeutics | Beta-2 agonists are useful in asthma; chronic bronchitis and emphysema respond less well, but a trial is warranted to look for a reversible component |
+
+**Related obstructive airway disease (COPD and asthma):**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [2876775](https://pubmed.ncbi.nlm.nih.gov/2876775/) | 1986 | RCT | Clinical Therapeutics | Double-blind comparison of tulobuterol and salbutamol in 40 men with COPD |
+| [1974678](https://pubmed.ncbi.nlm.nih.gov/1974678/) | 1990 | RCT | Lung | Tulobuterol aerosol vs fenoterol aerosol over two months in 36 adults; FEV1 increases were greater with tulobuterol |
+| [22270072](https://pubmed.ncbi.nlm.nih.gov/22270072/) | 2012 | Review | Allergology International | Review of the tulobuterol transdermal patch as a long-acting beta-2 agonist |
+| [41234762](https://pubmed.ncbi.nlm.nih.gov/41234762/) | 2025 | Phase 4 clinical study | Annals of Thoracic Medicine | Safety, tolerability and efficacy of the tulobuterol patch (Tuloplast) in asthma and COPD |
+| [16336029](https://pubmed.ncbi.nlm.nih.gov/16336029/) | 2005 | Open-label study | Treatments in Respiratory Medicine | Transdermal tulobuterol compared with inhaled salmeterol in stable COPD |
+| [22817699](https://pubmed.ncbi.nlm.nih.gov/22817699/) | 2013 | Comparative study | Geriatrics & Gerontology International | Better adherence to the tulobuterol patch than inhaled salmeterol in elderly COPD patients |
 
 ## India Market Information
 
-Tulobuterol is currently **not marketed in India**. No drug registrations are on record with the Indian regulatory authority (CDSCO). The drug holds established approvals in Japan (Hokunalin Tape, Atock), Korea, and China as a transdermal patch and oral/inhaled formulations. These existing approvals in Asia-Pacific markets may serve as regulatory precedent for a future India submission.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 219028 | Tulomax 2.0 Transdermal Patch | Packet of 1 patch | Not specified |
+| 218159 | Tulomax 0.5 Transdermal Patch | Packet of 1 patch | Not specified |
+| 216894 | Tuloplast 2 Transdermal Patch | Packet of 14 transdermal patches | Not specified |
+| 218169 | Tulo-Touch 2mg Patch | Box of 14 patches | Not specified |
+| 219840 | Tulo-Touch 0.5mg Patch | Box of 14 patches | Not specified |
 
----
+There are 9 valid single-ingredient registrations in total, all transdermal patches, from Hetero Healthcare, Zuventus Healthcare and Sparsha Pharma International.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-> Formal warning and contraindication data were not available in this evidence pack. As a β₂-adrenergic agonist class, clinicians should review class-specific precautions — including cardiovascular effects (tachycardia, palpitations), skeletal muscle tremor, hypokalemia at high doses, and caution in patients with hyperthyroidism or cardiac arrhythmias — from the Japanese or Korean product labeling prior to any clinical application.
-
----
-
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction score is near-perfect (99.998%), the mechanistic link between β₂-agonist activity and bronchitis is well-established, a Phase 4 RCT is actively recruiting for this exact indication, and multiple literature sources directly support bronchodilator use in bronchitis. The L1 evidence rating reflects the robustness of the broader obstructive airways disease evidence base.
+For bronchitis, the evidence is limited to a 1987 mucociliary clearance study and a 1985 review, with no registered clinical trials, so the prediction rests mainly on the model score. The related indications of obstructive lung disease and COPD have stronger support (L3) but are largely on-label.
 
 **To proceed, the following is needed:**
-- Retrieve full CDSCO or equivalent package insert (India or Japan/Korea) to complete the S1 safety screening — currently a blocking data gap
-- Confirm detailed MOA data via DrugBank API (DB12248) to complete mechanistic analysis
-- Monitor NCT06411925 (expected completion September 2027) for Phase 4 acute bronchitis efficacy and safety results
-- Assess India registration feasibility: evaluate import pathway or local manufacturing requirements given current not-marketed status
-- Use Japan PMDA and Korea MFDS existing approvals as regulatory precedent to support a CDSCO dossier
+- Bronchitis-specific clinical evidence, such as a controlled trial of the tulobuterol patch in chronic bronchitis with airflow obstruction
+- Mechanism of action data
+- Package insert warnings and contraindications from the Indian regulator, which are required before safety screening
+- Approved indication wording for the Indian registrations, to confirm how the current labels relate to bronchitis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

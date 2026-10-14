@@ -2,7 +2,7 @@
 layout: default
 title: Ramucirumab
 parent: Model Prediction Only (L5)
-nav_order: 717
+nav_order: 724
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,107 +29,98 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ramucirumab: From Unknown Original Indication to Uterine Ligament Adenocarcinoma
+# Ramucirumab: From Non-Small Cell Lung Cancer, Gastric Adenocarcinoma and Hepatocellular Carcinoma to Uterine Ligament Adenocarcinoma
 
 ## One-Sentence Summary
 
-Ramucirumab is an anti-VEGFR2 monoclonal antibody; its original approved indication in India is not currently on record in this evidence pack. The TxGNN model predicts potential activity against **Uterine Ligament Adenocarcinoma**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it rests entirely on algorithmic inference and class-effect reasoning.
-
----
+Ramucirumab is an injectable antibody originally used for cancers including non-small cell lung carcinoma, gastric adenocarcinoma and hepatocellular carcinoma.
+The TxGNN model predicts it may be effective for **uterine ligament adenocarcinoma**,
+but **no clinical trials and no publications** were found for this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no India license data on file) |
-| Predicted New Indication | Uterine Ligament Adenocarcinoma |
+| Original Indication | Non-small cell lung carcinoma, lung cancer, gastric adenocarcinoma, hepatocellular carcinoma and related liver cancers (from the knowledge graph; no approved indication text is available in the India license records) |
+| Predicted New Indication | Uterine ligament adenocarcinoma |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available for Ramucirumab in this evidence pack. Based on known pharmacology, Ramucirumab is an anti-VEGFR2 monoclonal antibody belonging to the antiangiogenic drug class, mechanistically related to agents like bevacizumab.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Ramucirumab is known to be a VEGFR2 antagonist, and its efficacy in gastric, lung and liver cancers is established. Mechanistically, blocking VEGFR2 may be applicable to adenocarcinomas that depend on angiogenesis.
 
-The repurposing rationale draws on class-effect reasoning: anti-VEGF/VEGFR2 agents have demonstrated efficacy in cervical cancer (e.g., bevacizumab in the GOG-240 trial), which provides a theoretical basis for potential activity in gynecologic adenocarcinomas. However, this is an indirect, analogy-based inference rather than direct evidence for Ramucirumab specifically in uterine ligament adenocarcinoma — a rare histological subtype with no published data on VEGFR2 expression or angiogenesis dependence.
+The predicted indication is an adenocarcinoma, a histology shared with gastric adenocarcinoma and lung adenocarcinoma among the original indications. The link is therefore inferred from the similarity of disease types, not from direct evidence in this tumour. The score may partly reflect how close these diseases sit in the knowledge-graph ontology.
 
-The strength of this rationale should not be overstated: it is biologically plausible but entirely unproven for this specific drug-indication pair. All ten top-ranked predictions in this evidence pack share this same limitation — high TxGNN confidence scores paired with zero direct clinical or literature support.
+**Other predicted indications** (all L5, all Hold, none with trials or literature):
 
----
+| Rank | Predicted Indication | Score |
+|---|---|---|
+| 2 | Endocervical carcinoma | 99.95% |
+| 3 | Adenoid cystic carcinoma of the cervix uteri | 99.95% |
+| 4 | Uterine ligament serous adenocarcinoma | 99.94% |
+| 5 | Signet ring cell variant cervical mucinous adenocarcinoma | 99.94% |
+| 6 | Cervical adenosquamous carcinoma, glassy cell variant | 99.94% |
+| 7 | Uterine ligament endometrioid adenocarcinoma | 99.94% |
+| 8 | Uterine ligament clear cell adenocarcinoma | 99.94% |
+| 9 | Uterine ligament mucinous adenocarcinoma | 99.94% |
+| 10 | Intestinal variant cervical mucinous adenocarcinoma | 99.94% |
+
+Most predictions are gynaecological adenocarcinomas. Among them, endocervical carcinoma has the most biological plausibility, because VEGF-driven angiogenesis matters in cervical cancer and another anti-VEGF agent, bevacizumab, has an established role there.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
-Ramucirumab is not currently marketed in India (0 registered licenses on file). No authorization records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 39275 | Cyramza 100mg Injection | Vial of 10 ml injection | Not stated in the records |
+| 35995 | Cyramza 500mg Injection | Vial of 50 ml injection | Not stated in the records |
 
----
+Both licenses are valid single-ingredient products from Eli Lilly and Company India Pvt Ltd.
 
 ## Cytotoxicity
 
-Ramucirumab is classified as a targeted antineoplastic agent (anti-VEGFR2 monoclonal antibody), meeting the antineoplastic criteria via its known drug class.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (VEGFR2-targeted monoclonal antibody) |
+| Cytotoxicity Classification | Targeted therapy (anti-VEGFR2 monoclonal antibody), not a conventional cytotoxic agent |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
----
-
 ## Safety Considerations
 
-**Drug Interactions**: Ramucirumab has 127 recorded drug-drug interactions. Notable **Major**-severity interactions include:
-- Acetylsalicylic acid
-- Deferasirox
-- Ibritumomab tiuxetan
-- Tositumomab (I-131) / Tositumomab
-- Abciximab
-- Alteplase
-- Antithrombin III human
-- Apixaban
-- Betrixaban
-- Bivalirudin
-- Cangrelor
-- Caplacizumab
-- Cilostazol
-- Clopidogrel
-- Dalteparin
-- Defibrotide
+- **Drug Interactions**: 127 interactions were recorded. The ones listed here are Major and mostly involve agents that affect bleeding or clotting, so bleeding risk deserves attention:
+  - Antiplatelet agents: acetylsalicylic acid, clopidogrel, cilostazol, abciximab, cangrelor
+  - Anticoagulants and thrombolytics: apixaban, betrixaban, bivalirudin, dalteparin, alteplase, antithrombin III human, defibrotide, caplacizumab
+  - Others: deferasirox, ibritumomab tiuxetan, tositumomab (including I-131)
+  - Moderate-level interactions include dexfenfluramine, fenfluramine and sibutramine.
 
-Many of these are antiplatelet, anticoagulant, or thrombolytic agents, consistent with Ramucirumab's known antiangiogenic bleeding-risk profile — caution is warranted when co-administering agents that further increase bleeding risk.
-
----
+For other safety information, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is supported only by a TxGNN model score with no corroborating clinical trials or literature (Evidence Level L5), and the drug is not currently marketed in India. Combined with critical safety and regulatory data gaps, this candidate does not meet the threshold for further development at this time.
+All ten predictions rest on model scores alone (L5), with no clinical trials or publications. The rationale is plausible but inferred from related diseases. The Indian package insert has also not been obtained, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
-- India (TFDA-equivalent) label warnings and contraindications (currently blocking — DG001)
-- Confirmed mechanism of action data from DrugBank (DG002)
-- Original approved indication(s) for Ramucirumab in India
-- Preclinical or translational evidence of VEGFR2 relevance in uterine ligament adenocarcinoma specifically
-- Any case reports or off-label use data in gynecologic adenocarcinomas before considering further investment
+- Download and review the Indian package insert (warnings, contraindications and approved indications)
+- Detailed mechanism of action data (for example from DrugBank)
+- A literature and trial search for ramucirumab in cervical and uterine adenocarcinomas, starting with endocervical carcinoma
+- Assessment of whether these rare histologies have enough patients to support a trial
+- A bleeding-risk and interaction review for the intended patient population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

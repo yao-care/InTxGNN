@@ -29,100 +29,89 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Carisoprodol: From Musculoskeletal Pain to Insomnia
+# Carisoprodol: From Muscle Relaxation to Insomnia
 
 ## One-Sentence Summary
 
-Carisoprodol is a centrally-acting skeletal muscle relaxant approved in several markets for short-term relief of acute musculoskeletal pain and spasm.
-The TxGNN model predicts it may be effective for **Insomnia**, with a high prediction score of **99.02%**.
-However, actual clinical evidence supporting this repurposing direction is very limited: **0 clinical trials** and only **1 tangentially related publication** were identified, placing this at an early exploratory stage.
-
----
+Carisoprodol is a centrally acting skeletal muscle relaxant that is marketed in India as single-ingredient tablets.
+The TxGNN model predicts it may be effective for **insomnia**,
+but there are currently **no registered clinical trials** and only **1 loosely related publication** supporting this direction, so the prediction rests almost entirely on computation.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Skeletal muscle relaxant for acute musculoskeletal pain and spasm |
+|------|------|
+| Original Indication | Not stated in the India license data (carisoprodol is generally known as a skeletal muscle relaxant) |
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.02% |
-| Evidence Level | L4 — Mechanism/preclinical basis only |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 5 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Carisoprodol is a prodrug of **meprobamate**: after oral administration, it is metabolised in the liver to meprobamate, a compound known to act as a **positive allosteric modulator of GABA-A receptors**. This GABAergic central nervous system depression produces sedation and anxiolysis in addition to muscle relaxation — a pharmacological profile that, in principle, overlaps with the mechanism of older hypnotic-sedative agents.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, carisoprodol is a centrally acting muscle relaxant. Its active metabolite, meprobamate, modulates GABA-A receptors and has sedative and anxiolytic properties.
 
-Because insomnia is partly mediated by insufficient GABAergic inhibitory tone (the same pathway targeted by benzodiazepines and Z-drugs), the TxGNN knowledge graph can plausibly link carisoprodol's mechanism to sleep-onset or sleep-maintenance benefit. The model's high score (0.990) most likely reflects this mechanistic similarity rather than observed clinical evidence.
+This sedative profile could plausibly be relevant to insomnia. However, this is background pharmacology and is not supported by the evidence compiled here. The high TxGNN score (99.02%) is a computational prediction only and does not confirm clinical benefit.
 
-However, this theoretical connection must be weighed against a critical safety concern: meprobamate carries a **high risk of physical dependence, tolerance, and abuse**, which is precisely why it was displaced by benzodiazepines and subsequently by non-benzodiazepine hypnotics (zolpidem, eszopiclone, etc.) decades ago. The prediction is mechanistically coherent but clinically superseded.
-
----
+Safety is also a concern for this use. Carisoprodol has abuse and dependence potential, and it has 158 recorded drug interactions, many involving CNS depressants that are commonly co-prescribed to people with insomnia.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Carisoprodol in insomnia.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [22963024](https://pubmed.ncbi.nlm.nih.gov/22963024/) | 2012 | Review / Clinical Overview | American Family Physician | Review of nocturnal leg cramps; notes that recurrent, painful calf-muscle tightening can cause **severe insomnia** in up to 60% of affected adults; carisoprodol appears on the list of associated medications — indirectly linking the drug to the insomnia symptom burden rather than its treatment |
-
-> **Note:** This publication discusses insomnia as a *consequence* of nocturnal leg cramps, not as an indication directly treated by carisoprodol. Its relevance to the repurposing hypothesis is indirect.
-
----
+|------|-----|------|------|---------|
+| [22963024](https://pubmed.ncbi.nlm.nih.gov/22963024/) | 2012 | Review | American Family Physician | Review of nocturnal leg cramps, which can cause severe insomnia. It does not directly evaluate carisoprodol for insomnia. |
 
 ## India Market Information
 
-Carisoprodol is **not currently registered or marketed in India**. No product authorisations were identified.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 7469 | Aciprodol 350mg Tablet | Strip of 10 tablets | Not stated |
+| Registration No. 34745 | Carisoma Compound Tablet | Strip of 10 tablets | Not stated |
+| Registration No. 35669 | Carisoma 350mg Tablet | Strip of 10 tablets | Not stated |
+| Registration No. 38228 | Carisol 350mg Tablet | Strip of 10 tablets | Not stated |
+| Registration No. 117195 | Korisuma Tablet | Strip of 10 tablets | Not stated |
 
 ## Safety Considerations
 
-**Drug Interactions (158 interactions on record):**
+- **Contraindications (knowledge-graph associations, not label text)**: The TxGNN knowledge graph links carisoprodol to contraindications in many conditions, including:
+  - Epilepsy
+  - Kidney disease and liver disease
+  - Respiratory failure
+  - Substance abuse/dependence
+  - Adrenal insufficiency (including Addison disease)
+  - Hypothyroidism
+  - Sudden cardiac arrest and heart conduction disease
+  - Thrombocytopenia, hemophilia and anemia
+  - Peptic ulcer disease and inflammatory bowel disease
+  - Gout
+  - Hypotensive disorder
+  - Benign prostatic hyperplasia
+- **Drug Interactions**: 158 interactions are recorded. The main ones are:
+  - **Major**: Morphine (including liposomal morphine)
+  - **Moderate**: Dronabinol, nabilone, metoclopramide, opium, sibutramine, difenoxin and diphenoxylate
 
-Key interactions by severity level:
+  Combining carisoprodol with opioids and other CNS depressants raises concern for additive sedation and respiratory depression.
 
-| Severity | Interacting Drug | Clinical Implication |
-|----------|-----------------|---------------------|
-| **Major** | Morphine | Additive CNS/respiratory depression; avoid combination |
-| **Major** | Morphine (liposomal) | Additive CNS/respiratory depression; avoid combination |
-| **Moderate** | Dronabinol | Enhanced CNS depression |
-| **Moderate** | Nabilone | Enhanced CNS depression |
-| **Moderate** | Opium | Additive sedation and respiratory risk |
-| **Moderate** | Sibutramine | CNS interaction |
-| **Moderate** | Difenoxin | Enhanced CNS depression |
-| **Moderate** | Diphenoxylate | Enhanced CNS depression |
-| **Moderate** | Metoclopramide | CNS interaction |
-
-> An additional 149 interactions of Unknown or lower severity are on record. The pattern of Major interactions with opioids and Moderate interactions with CNS-active agents is consistent with carisoprodol's broad central depressant profile via its meprobamate metabolite.
-
-> Please refer to the package insert for complete warnings and contraindications — these data were not available in the current evidence pack.
-
----
+Please refer to the package insert for full safety information, as label-based warnings were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Although the GABAergic mechanism of carisoprodol's active metabolite (meprobamate) provides a plausible theoretical basis for sedation/sleep promotion, there is **zero clinical trial evidence** and only **one indirectly relevant review paper** for the insomnia indication. Furthermore, the abuse and dependence liability of meprobamate creates a significant safety barrier that modern insomnia pharmacotherapy has already addressed with safer alternatives.
+The prediction is supported only by a computational score (Evidence Level L5). There are no clinical trials, and the single publication found does not evaluate carisoprodol for insomnia. Abuse and dependence potential and the many CNS-depressant interactions add substantial safety concerns for a chronic sleep indication.
 
 **To proceed, the following is needed:**
-
-- **Formal package insert review** — Obtain and parse the full prescribing information (warnings, contraindications, abuse-potential labelling) before any clinical assessment can begin (currently a Blocking data gap)
-- **Mechanism of action documentation** — Confirm MOA via DrugBank API or primary pharmacology literature; specifically quantify GABA-A binding affinity relative to approved hypnotics
-- **Regulatory status clarification** — Assess whether India's CDSCO has any stance on meprobamate/carisoprodol given its international controlled-substance status (Schedule IV in the US; banned in several EU countries)
-- **Abuse liability risk assessment** — Any repurposing proposal must address whether scheduling restrictions would make clinical development or market access feasible
-- **Comparative effectiveness analysis** — Benchmark against existing insomnia treatments (zolpidem, eszopiclone, lemborexant) to determine whether any unmet need remains that carisoprodol could plausibly address
+- Package insert warnings and contraindications from the India regulatory source, since this is a blocking gap for safety screening
+- Mechanism of action data (for example, from DrugBank) to support a mechanistic link to insomnia
+- Clinical or observational evidence on carisoprodol or meprobamate for insomnia
+- A risk assessment for abuse, dependence and co-prescribed CNS depressants in the insomnia population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

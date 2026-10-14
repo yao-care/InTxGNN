@@ -2,7 +2,7 @@
 layout: default
 title: Doxylamine
 parent: Moderate Evidence (L3-L4)
-nav_order: 288
+nav_order: 291
 evidence_level: L4
 indication_count: 4
 ---
@@ -29,101 +29,73 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-# Doxylamine: From Insomnia & Nausea Relief to Allergic Urticaria
+# Doxylamine: From Allergic Rhinitis and Urticaria to Allergic Urticaria
 
 ## One-Sentence Summary
 
-Doxylamine is a first-generation H1 histamine receptor antagonist, historically used over-the-counter as a sleep aid and (combined with pyridoxine) for nausea and vomiting of pregnancy.
-The TxGNN model predicts it may be effective for **Allergic Urticaria**, with a prediction confidence of **99.85%**; however, **0 clinical trials** and **0 publications** specifically supporting this repurposing direction were identified — the rationale rests entirely on pharmacological mechanism inference.
-
----
+Doxylamine is a first-generation H1-antihistamine, originally used for allergic rhinitis, vasomotor rhinitis, the common cold, conjunctivitis, urticaria, and angioedema.
+The TxGNN model predicts it may be effective for **allergic urticaria**, but **no clinical trials or publications** were found to support this directly.
+The prediction is best understood as an extension of an existing indication, supported only by class-level mechanistic reasoning.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Insomnia; nausea and vomiting of pregnancy (based on established pharmacological use; no India registration on record) |
-| Predicted New Indication | Allergic Urticaria |
+|------|------|
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, urticaria, angioedema, and related allergic conditions (the India license records contain no indication text) |
+| Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.85% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from this Evidence Pack. Based on established pharmacological knowledge, Doxylamine is a first-generation H1 histamine receptor antagonist with additional anticholinergic and central sedative properties — belonging to the ethanolamine subclass of antihistamines.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, doxylamine is a first-generation H1-antihistamine with anticholinergic activity. Its efficacy in allergic and histamine-mediated conditions is established, and it may mechanistically be applicable to allergic urticaria.
 
-Allergic urticaria is a quintessential histamine-driven condition: allergen exposure triggers IgE-mediated mast cell degranulation, releasing histamine that binds cutaneous H1 receptors to produce the characteristic wheal-and-flare response, pruritus, and angioedema. H1 receptor antagonists directly block this pathophysiological cascade at the molecular level, and the EAACI/GA²LEN international guidelines establish antihistamines as the unequivocal first-line therapy for allergic urticaria. The mechanistic link between Doxylamine and this indication is therefore pharmacologically direct and scientifically sound.
+Allergic urticaria is driven by histamine release from mast cells, so blocking H1 receptors is directly relevant. Because urticaria and angioedema are already among doxylamine's known indications, this prediction is largely an extension of an existing use rather than true repurposing. The high TxGNN score likely reflects this overlap.
 
-The primary clinical caveat is competitive displacement by second-generation antihistamines (cetirizine, loratadine, fexofenadine), which share the same H1 mechanism but lack the significant sedation and anticholinergic burden inherent to Doxylamine. Unless a specific patient subpopulation benefit can be identified — such as patients who benefit from the combined sedative-antihistamine profile — Doxylamine faces a high barrier for clinical prioritisation over existing alternatives. No Doxylamine-specific clinical trials or publications for allergic urticaria were found in this evidence search.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Doxylamine in allergic urticaria.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for Doxylamine specifically in allergic urticaria.
-
----
+Other predicted indications follow the same pattern:
+- **Nasal cavity disease** (99.36%): a broad, non-specific category overlapping with allergic rhinitis, vasomotor rhinitis, and the common cold.
+- **Acute laryngopharyngitis** (99.34%): symptomatic relief only, since antihistamines do not treat the infectious cause.
+- **Cold urticaria** (99.26%): H1-antihistamines are standard therapy, but current guidelines favour second-generation non-sedating agents because of the sedation and anticholinergic burden of first-generation drugs.
 
 ## India Market Information
 
-Doxylamine currently has no approved drug registrations in the India market. No license records are available.
+Doxylamine is marketed in India with 20 valid single-ingredient registrations and no cancelled ones. All are oral tablets. Approved indication text is not recorded in the license data. The main authorizations are:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 71620 | Doxqueen 10mg/10mg/2.5mg Tablet | Strip of 10 tablets | Not recorded |
+| 96198 | Gud M Tablet | Strip of 10 tablets | Not recorded |
+| 64184 | Doxibert-Plus Tablet | Strip of 10 tablets | Not recorded |
+| 201100 | Sinate Tablet | Strip of 30 tablets | Not recorded |
+| 159279 | Nnv Tablet | Strip of 10 tablets | Not recorded |
 
 ## Safety Considerations
 
-**Drug Interactions** (289 total interactions identified; key interactions listed below):
+- **Contraindications (from the knowledge graph, not label text)**: The knowledge graph links doxylamine to contraindications in several disease groups:
+  - Cardiovascular: hypertension, coronary artery disease, myocardial infarction, atherosclerosis, ventricular tachycardia.
+  - Liver and pancreas: liver failure, liver disease, pancreatitis, gallbladder disease.
+  - Eye and urinary: angle-closure glaucoma, ocular hypertension, benign prostatic hyperplasia, bladder neck obstruction.
+  - Metabolic and endocrine: diabetes mellitus, diabetic ketoacidosis, hyperthyroidism, Graves disease, thyrotoxicosis.
+  - Other: peptic ulcer disease, substance abuse/dependence, hemoglobinopathy, paracetamol poisoning.
+- **Drug Interactions**: 289 interactions were recorded. The **Major** interactions in the listed results are with **potassium citrate** and **potassium chloride**. Many **Moderate** interactions involve anticholinergic or sedating drugs such as atropine, hyoscyamine, scopolamine, glycopyrronium, dicyclomine, morphine, opium, loperamide, dronabinol, nabilone, and metoclopramide. These likely reflect additive anticholinergic and central nervous system depressant effects.
 
-| Severity | Interacting Drug | Interaction Class |
-|----------|-----------------|-------------------|
-| **Major** | Potassium citrate | Risk of GI mucosal injury / delayed transit |
-| **Major** | Potassium chloride | Risk of GI mucosal injury / delayed transit |
-| Moderate | Morphine | Additive CNS and respiratory depression |
-| Moderate | Morphine (liposomal) | Additive CNS and respiratory depression |
-| Moderate | Opium | Additive CNS depression |
-| Moderate | Scopolamine | Additive anticholinergic toxicity |
-| Moderate | Atropine | Additive anticholinergic toxicity |
-| Moderate | Hyoscyamine | Additive anticholinergic toxicity |
-| Moderate | Glycopyrronium | Additive anticholinergic toxicity |
-| Moderate | Glycopyrronium (topical) | Additive anticholinergic toxicity |
-| Moderate | Dicyclomine | Additive anticholinergic toxicity |
-| Moderate | Mepenzolate | Additive anticholinergic toxicity |
-| Moderate | Methscopolamine | Additive anticholinergic toxicity |
-| Moderate | Propantheline | Additive anticholinergic toxicity |
-| Moderate | Clidinium | Additive anticholinergic toxicity |
-| Moderate | Metoclopramide | Pharmacodynamic antagonism (dopaminergic) |
-| Moderate | Loperamide | Additive GI motility reduction |
-| Moderate | Eluxadoline | Additive GI motility reduction |
-| Moderate | Dronabinol | Additive CNS depression |
-| Moderate | Nabilone | Additive CNS depression |
-
-> Note: Complete warnings and contraindications are unavailable in this Evidence Pack. Please refer to the package insert for full safety information.
-
----
+Please also refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-While Doxylamine's H1-antagonist mechanism provides a pharmacologically direct and textbook rationale for allergic urticaria, zero Doxylamine-specific clinical trials or publications were found, the evidence level is L4 (mechanistic inference only), and the therapeutic landscape is already well-served by second-generation antihistamines with superior tolerability profiles — creating a high bar for clinical differentiation.
+The mechanistic rationale is sound, but the prediction overlaps heavily with doxylamine's existing indications, and no trials or literature directly support it. Guidelines also favour non-sedating second-generation antihistamines for urticaria, and the package insert safety data are not yet available.
 
 **To proceed, the following is needed:**
-- Retrieve and review the full Doxylamine package insert (warnings, contraindications, and formal MOA documentation) to complete the S1 safety gate
-- Conduct a systematic comparative literature review of first-generation vs. second-generation antihistamines in urticaria to identify evidence gaps where Doxylamine could offer distinct value
-- Define a target patient subpopulation hypothesis where the sedative-antihistamine dual profile is clinically advantageous (e.g., patients with urticaria-associated sleep disruption)
-- If a viable niche is identified, design a pilot randomised controlled trial or observational study to generate Doxylamine-specific efficacy and tolerability data in allergic urticaria
-- Clarify India regulatory pathway requirements before any clinical development investment
+- Package insert warnings and contraindications from the India Pharma source
+- Detailed mechanism of action data
+- Clinical or literature evidence for doxylamine in allergic urticaria, ideally compared with second-generation antihistamines
+- Assessment of sedation and anticholinergic risk in the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

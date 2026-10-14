@@ -2,7 +2,7 @@
 layout: default
 title: Methocarbamol
 parent: Model Prediction Only (L5)
-nav_order: 529
+nav_order: 534
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,37 +29,37 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Methocarbamol: From Musculoskeletal Spasm to Cauda Equina Syndrome
+# Methocarbamol: From Muscle Spasm (Musculoskeletal Conditions) to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Methocarbamol is a centrally-acting skeletal muscle relaxant, widely used internationally for musculoskeletal pain and spasm, but currently not marketed in India.
-The TxGNN model predicts it may be effective for **Cauda Equina Syndrome** with a prediction score of **99.98%**.
-However, there are currently **no clinical trials** and **no supporting publications** for this specific indication — the evidence level is L5 (model prediction only).
+Methocarbamol is a centrally acting skeletal muscle relaxant that is marketed in India as tablets and an injection.
+The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**, but **no clinical trials and no publications** support this prediction.
+It is a computational prediction only, so the evidence is very weak.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Skeletal muscle spasm and musculoskeletal pain (international labelling; no India registration data available) |
-| Predicted New Indication | Cauda Equina Syndrome |
+|------|------|
+| Original Indication | Not stated in the India license data (methocarbamol is generally used as a muscle relaxant for painful muscle spasm) |
+| Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Methocarbamol is a centrally-acting skeletal muscle relaxant that works primarily via CNS depression, reducing nerve impulse transmission to skeletal muscle. It does not act directly on the neuromuscular junction or on smooth muscle.
+Currently, detailed mechanism of action data is not available. Based on known information, methocarbamol is a centrally acting skeletal muscle relaxant. A plausible link would be symptomatic relief of muscle spasm or pain associated with the condition.
 
-Cauda equina syndrome is a neurosurgical emergency caused by compression of the cauda equina nerve roots at the lumbar spine, resulting in lower limb weakness, sensory deficits, and loss of bladder/bowel control. The definitive treatment is surgical decompression. While Methocarbamol could theoretically relieve the secondary skeletal muscle spasm that accompanies nerve root irritation, it has no direct effect on the underlying mechanical compression or the neurological damage itself.
+Cauda equina syndrome is caused by compression of the nerve roots at the base of the spinal cord, and it is a surgical emergency. Methocarbamol would not treat the underlying compression. At most, it could play a supportive, symptomatic role. The high TxGNN score reflects a pattern in the knowledge graph and is not backed by clinical evidence.
 
-The high TxGNN score most likely reflects an indirect connection in the knowledge graph between "spinal/neuromuscular" nodes rather than a true therapeutic mechanistic link. The prediction may be a structural artefact rather than a genuine repurposing signal, and this interpretation is supported by the complete absence of any clinical or preclinical evidence for this combination.
+Other top-ranked predictions are also unsupported by the data compiled for this report. These are irritable bowel syndrome, panuveitis, anaphylaxis, iris disease, uveitis, ventricular tachycardia, food-dependent exercise-induced anaphylaxis, conjunctivitis and obsolete bundle branch block. For these, no plausible mechanistic link could be drawn. The only literature retrieved was for anaphylaxis and ventricular tachycardia, and it does not show efficacy (see below).
 
 ---
 
@@ -73,29 +73,37 @@ Currently no related clinical trials registered.
 
 Currently no related literature available for cauda equina syndrome.
 
+For the lower-ranked predictions, the following papers were retrieved. They do not show therapeutic benefit:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [20086833](https://pubmed.ncbi.nlm.nih.gov/20086833/) | 1998 | Review | The Physician and Sportsmedicine | General review of arthropod bites and stings. Methocarbamol is mentioned only as an option for symptoms after widow spider bites. It is not an anaphylaxis treatment (anaphylaxis prediction, rank 4). |
+| [42543011](https://pubmed.ncbi.nlm.nih.gov/42543011/) | 2026 | Review | Orvosi Hetilap | Compares side-effect profiles of centrally acting muscle relaxants. It concerns safety, not benefit, and notes anaphylactic reactions with tolperisone (anaphylaxis prediction, rank 4). |
+| [30050852](https://pubmed.ncbi.nlm.nih.gov/30050852/) | 2017 | Case report (veterinary) | Veterinary Medicine (Auckland) | Severe lamotrigine toxicosis in a dog. It is not about methocarbamol efficacy and gives no evidence for ventricular tachycardia (rank 7). |
+
 ---
 
 ## India Market Information
 
-Methocarbamol has no registered products in India. No authorization records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 136699 | Mecotha Tablet | Strip of 10 tablets | Not stated |
+| 184792 | Robinax 100mg Injection | Vial of 10 ml injection | Not stated |
+| 184528 | Robinax 500mg Tablet | Strip of 10 tablets | Not stated |
+
+All three licenses are valid single-ingredient products. There are no combination products and no cancelled licenses.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions** (126 total interactions identified; notable examples listed below):
+- **Contraindications suggested by the knowledge graph (not label text):** The TxGNN knowledge graph links methocarbamol with contraindications in these conditions: epilepsy, kidney disease, liver disease, gallbladder disease, thrombocytopenia and thrombocytopenic purpura, peptic ulcer disease (including active disease) and gastritis, gout, substance abuse/dependence, anaemia (including macrocytic anaemia), bleeding disorders (haemophilia, von Willebrand disease, congenital prothrombin deficiency, vitamin K deficiency haemorrhagic disease), Reye syndrome, Alzheimer disease, Pick disease, cerebellar degeneration, nasal cavity polyp and pyoureter. These should be verified against the official package insert.
+- **Drug Interactions:** 126 interactions were recorded. The main ones are:
+  - **Major:** morphine and liposomal morphine (additive central nervous system and respiratory depression is the expected concern).
+  - **Moderate:** dronabinol, nabilone, metoclopramide, opium and sibutramine.
+  - Further interactions with unknown severity were recorded, including metformin, glimepiride, omeprazole, pantoprazole and doxycycline.
 
-| Interacting Drug | Severity | Notes |
-|-----------------|----------|-------|
-| Morphine | **Major** | Enhanced CNS/respiratory depression; combination requires close monitoring |
-| Morphine (liposomal) | **Major** | Same risk profile as morphine |
-| Dronabinol | Moderate | Additive CNS depression |
-| Nabilone | Moderate | Additive CNS depression |
-| Opium | Moderate | Additive CNS/respiratory depression |
-| Metoclopramide | Moderate | Potential pharmacodynamic interaction |
-| Sibutramine | Moderate | CNS-related interaction |
-
-> For full warnings, contraindications, and precautions, please refer to the official prescribing information (package insert). These data were not available in the current Evidence Pack.
+Please refer to the package insert for the official warnings and contraindications.
 
 ---
 
@@ -104,17 +112,14 @@ Methocarbamol has no registered products in India. No authorization records are 
 **Decision: Hold**
 
 **Rationale:**
-All 10 TxGNN-predicted indications for Methocarbamol carry an L5 evidence rating — meaning there is no clinical trial or published literature support for any of the predicted new uses. Several predicted targets (uveitis, iris disease, panuveitis, conjunctivitis) appear to be knowledge graph clustering artefacts rather than true biological signals. The top prediction (cauda equina syndrome) lacks a plausible direct mechanism, as Methocarbamol cannot address the structural nerve compression that defines this condition. Additionally, Methocarbamol is not currently marketed in India, meaning even its established muscle relaxant indication has no local regulatory foothold.
+The prediction rests only on a TxGNN computational score, with no clinical trials or supporting literature. Methocarbamol cannot treat the underlying nerve compression in cauda equina syndrome, and the best case is symptomatic relief.
 
 **To proceed, the following is needed:**
-
-- **MOA data**: Retrieve full mechanism of action from DrugBank API (DG002 — High severity gap) to enable proper mechanistic analysis
-- **Safety data**: Download and parse India prescribing information or international SmPC/FDA label to obtain warnings and contraindications (DG001 — Blocking gap; prevents S1 safety evaluation)
-- **Broader evidence search**: Expand PubMed and clinical trial searches beyond top-1 indication to check whether any predicted indication has even preclinical support
-- **KG artefact review**: Conduct a systematic review of whether the eye-disease cluster (uveitis, panuveitis, iris disease, conjunctivitis) represents a structural knowledge graph bias, and filter accordingly before escalating any indication
-- **Regulatory feasibility**: Assess whether Methocarbamol can be registered in India and under what pathway, given zero current market presence
-
-> ⚠️ **Disclaimer**: This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before application.
+- Package insert warnings, contraindications and approved indications from the India license documents
+- Mechanism of action data (for example from DrugBank)
+- Clinical or observational evidence for the predicted indication, or a reasoned choice of a more plausible candidate indication
+- Review of the knowledge graph contraindication signals, especially for hepatic, renal and haematological conditions
+- A route-of-administration compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

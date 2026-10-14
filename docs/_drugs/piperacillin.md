@@ -2,7 +2,7 @@
 layout: default
 title: Piperacillin
 parent: Model Prediction Only (L5)
-nav_order: 668
+nav_order: 675
 evidence_level: L5
 indication_count: 9
 ---
@@ -29,80 +29,89 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Piperacillin: From Bacterial Infections to Rheumatoid Arthritis
+# Piperacillin: From Bacterial Infection Treatment to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-Piperacillin is a broad-spectrum ureidopenicillin antibiotic used to treat susceptible bacterial infections; it is not currently marketed in Taiwan. The TxGNN model predicts a possible new indication in **Rheumatoid Arthritis** with a very high prediction score (**99.94%**), but this signal is currently supported by **0 clinical trials** and **0 publications**, and the evidence pack's own mechanistic review flags the score as a likely knowledge-graph artifact rather than a genuine biological signal.
-
----
+Piperacillin is a beta-lactam antibiotic, marketed in India mainly as an injectable combined with tazobactam for bacterial infections.
+The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but **no clinical trials** and **no supporting publications** were found for this use.
+The retrieved literature only mentions rheumatoid arthritis as the background condition of patients treated for infections, so this prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file — Piperacillin has no approved license record in Taiwan; pharmacologically it is a broad-spectrum antibiotic for susceptible bacterial infections |
-| Predicted New Indication | Rheumatoid Arthritis |
-| TxGNN Prediction Score | 99.94% (global rank 1502) |
+| Original Indication | Bacterial infections (general antibacterial use; the licence records compiled for this report contain no indication text) |
+| Predicted New Indication | Rheumatoid arthritis |
+| TxGNN Prediction Score | 99.94% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, a structured mechanism-of-action (MOA) field is not available for this drug. Based on known pharmacology, Piperacillin is a ureidopenicillin-class broad-spectrum antibiotic that irreversibly binds penicillin-binding proteins (PBPs) to inhibit bacterial cell wall synthesis. This mechanism acts on bacterial cell-wall biosynthesis and has no established connection to the autoimmune, joint-driven inflammatory pathophysiology of rheumatoid arthritis (RA).
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Piperacillin is a beta-lactam antibiotic of the penicillin class. This class inhibits bacterial cell wall synthesis, and its efficacy in bacterial infections is well established.
 
-The evidence pack's own mechanistic assessment agrees: no known anti-inflammatory or immunomodulatory activity has been described for piperacillin that would explain a therapeutic effect in RA. The very high TxGNN score (99.94%) most plausibly reflects a structural/topological artifact in the knowledge-graph embedding space — for example, piperacillin's dense connectivity to 81 other drugs through documented drug-drug interactions — rather than a genuine pharmacological signal.
+No credible mechanistic link to rheumatoid arthritis was identified. Piperacillin has no known anti-inflammatory or immunomodulatory activity relevant to this autoimmune disease. The retrieved articles mention rheumatoid arthritis only because the patients had it and developed infections that were treated with antibiotics, or because of methotrexate toxicity. This reflects co-occurrence, not a therapeutic effect.
 
-This pattern is consistent across the broader candidate list in this evidence pack: of the 9 TxGNN-ranked indications reviewed, most are rare genetic/developmental syndromes with no plausible mechanistic link to an antibacterial agent, and the two candidates with any literature hits (diabetic nephropathy, WHIM syndrome) reflect piperacillin's supportive role in treating secondary bacterial infections in those patient populations — not disease-modifying activity against the underlying conditions themselves. None of the 9 candidates have direct clinical trial or literature support for the predicted indication itself.
-
----
+The high TxGNN score is therefore not supported by clinical or mechanistic evidence. It should be treated as a model-generated hypothesis only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+None of the retrieved publications tests piperacillin as a treatment for rheumatoid arthritis. The most relevant items are listed below.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [37599303](https://pubmed.ncbi.nlm.nih.gov/37599303/) | 2023 | Case report | Orthopadie (Heidelberg) | Prosthetic knee joint infection in an RA patient on upadacitinib; piperacillin/tazobactam was given for pneumonia. |
+| [22605835](https://pubmed.ncbi.nlm.nih.gov/22605835/) | 2012 | Case report | BMJ Case Reports | Purulent pericarditis in an RA patient on methotrexate and etanercept; empirical piperacillin-tazobactam was used. |
+| [41268563](https://pubmed.ncbi.nlm.nih.gov/41268563/) | 2025 | Case report | Frontiers in Immunology | Atypical bullous erysipelas caused by *E. coli* in a long-term immunosuppressed RA patient. |
+| [41257433](https://pubmed.ncbi.nlm.nih.gov/41257433/) | 2026 | Cohort | British Journal of Clinical Pharmacology | Predictive model for eosinophilia in patients treated with ampicillin/sulbactam or piperacillin/tazobactam. |
+| [33987340](https://pubmed.ncbi.nlm.nih.gov/33987340/) | 2021 | Cohort | Annals of Translational Medicine | Prevalence and characteristics of antibiotic-associated drug-induced liver injury. |
+| [38343452](https://pubmed.ncbi.nlm.nih.gov/38343452/) | 2024 | Case report | Proceedings (Baylor Univ. Med. Center) | Low-dose methotrexate toxicity with pancytopenia in an RA patient, treated with leucovorin rescue. |
+| [34178513](https://pubmed.ncbi.nlm.nih.gov/34178513/) | 2021 | Case report | Cureus | Pancytopenia from low-dose methotrexate in RA. |
 
-## Taiwan Market Information
+## India Market Information
 
-Piperacillin currently has no market authorization records in Taiwan (0 registrations; market status: Not marketed).
+Piperacillin has 20 valid single-ingredient registrations, all injectable. The licence records compiled for this report contain no approved-indication text. Five representative authorizations:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 70787 | Demtaz 4000mg/500mg Injection | Vial of 1 Injection | Not recorded |
+| Registration No. 209561 | Shipip-T Injection | Vial of 1 Injection | Not recorded |
+| Registration No. 182013 | Piprax-T Injection | Vial of 1 Injection | Not recorded |
+| Registration No. 179168 | Phyton Injection (Wockhardt) | Vial of 1 Injection | Not recorded |
+| Registration No. 190635 | Revotaz 2000mg/250mg Injection (Alkem) | Vial of 10 ml Injection | Not recorded |
 
 ## Safety Considerations
 
-**Drug Interactions**: 81 interactions on file (source: DDInter). Notable entries include:
-- **Major**: Vancomycin
-- **Moderate**: Doxycycline, Tetracycline, Picosulfuric acid, Minocycline, Kanamycin, Streptomycin
-- **Minor**: Clarithromycin
-- **Severity not classified in source**: Pantoprazole, Morphine, Sucralfate, Prednisone, Simvastatin, Nystatin, Potassium chloride, Prednisolone, Ranitidine, Rabeprazole, Omeprazole, Lansoprazole (61 additional interactions not listed here)
+- **Drug Interactions**: 81 interactions were recorded. Main ones:
+  - **Major**: Vancomycin (combined use is also linked to nephrotoxicity concerns).
+  - **Moderate**: Doxycycline, Tetracycline, Minocycline, Kanamycin, Streptomycin, Picosulfuric acid.
+  - **Minor**: Clarithromycin.
+- **Other considerations from the literature and predictions**:
+  - Piperacillin is associated with drug-induced liver injury and cholestasis.
+  - It can cause eosinophilia.
+  - It requires renal dose adjustment.
 
-Key warnings and contraindications are not available in this evidence pack — please refer to the TFDA package insert once obtained.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The Rheumatoid Arthritis signal has no mechanistic basis, zero clinical trial evidence, and zero literature support (L5 — model prediction only), and the evidence pack itself assesses the score as likely reflecting knowledge-graph topology bias rather than true biology. Piperacillin is also not currently marketed in Taiwan, so there is no existing regulatory foothold to build on.
+The prediction is supported only by the model score (L5). There are no clinical trials, no relevant mechanism, and the literature reflects only co-occurrence of rheumatoid arthritis with infections. The other predicted indications (for example sclerosing cholangitis, diabetic nephropathy and rare genetic syndromes) are likewise unsupported, and some have safety signals that argue against use.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — currently a Blocking data gap (DG001)
-- Structured MOA/pharmacology confirmation from DrugBank — currently a High-severity data gap (DG002)
-- Independent mechanistic or preclinical evidence for any immunomodulatory activity of piperacillin before this candidate can advance past S0
-- If this candidate is pursued further, re-review the remaining 8 predicted indications in this pack together, as none currently clear L4/L3 evidence thresholds
+- Mechanism of action data and a plausible biological link to rheumatoid arthritis
+- Package insert warnings and contraindications from the Indian regulator, needed for safety screening
+- Preclinical or early clinical evidence of anti-inflammatory or disease-modifying activity in rheumatoid arthritis
+- Approved-indication text for the Indian registrations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

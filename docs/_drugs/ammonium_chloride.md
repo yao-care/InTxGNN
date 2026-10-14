@@ -29,92 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Ammonium Chloride: From Expectorant / Urinary Acidifier to Acute Laryngopharyngitis
+# Ammonium Chloride: From Pharyngitis / Common Cold to Acute Laryngopharyngitis
 
 ## One-Sentence Summary
 
-Ammonium chloride is a classic expectorant and urinary acidifying agent, traditionally used in cough remedies and to correct metabolic alkalosis.
-The TxGNN model predicts it may be effective for **Acute Laryngopharyngitis**,
-with **0 clinical trials** and **0 publications** currently supporting this direction — the prediction rests entirely on knowledge graph topology.
-
----
+Ammonium chloride is a long-established expectorant ingredient, originally used for upper respiratory conditions such as pharyngitis, common cold and nasopharyngitis.
+The TxGNN model predicts it may be effective for **acute laryngopharyngitis**,
+but at present there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Expectorant; urinary acidifier; metabolic alkalosis correction |
-| Predicted New Indication | Acute Laryngopharyngitis |
+|------|------|
+| Original Indication | Pharyngitis, common cold, nasopharyngitis (from the knowledge graph; the approved indication text on Indian licences is blank) |
+| Predicted New Indication | Acute laryngopharyngitis |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available. Based on known information, ammonium chloride is an expectorant ingredient used in cough and cold syrups, and it is already linked to pharyngitis, common cold and nasopharyngitis. Mechanistically it may be applicable to acute laryngopharyngitis, but this has not been verified.
 
-Ammonium chloride is a small inorganic salt that exerts its pharmacological effects primarily through **urinary and systemic acidification**. As an expectorant, it is believed to stimulate bronchial gland secretion via a gastric reflex mechanism, thereby increasing the water content of respiratory mucus and reducing its viscosity. This indirectly facilitates mucociliary clearance — the primary physical defense of the upper and lower airways.
+Acute laryngopharyngitis sits right next to the drug's existing indications. Both involve inflammation of the upper airway, and the throat and larynx are anatomically adjacent to the pharynx. Expectorants are traditionally thought to loosen secretions in the upper airway, which could plausibly help here.
 
-Acute laryngopharyngitis is characterised by mucosal inflammation, oedema, and accumulation of viscous secretions in the larynx and pharynx. The theoretical mechanistic bridge is that ammonium chloride's ability to thin and mobilise respiratory secretions could relieve symptoms associated with mucosal congestion. Furthermore, as an acidifying agent, it may shift the local pH of pharyngeal secretions in a manner that transiently reduces inflammatory exudate viscosity.
+The very high score most likely reflects how close this disease sits to existing indications in the knowledge graph, rather than independent evidence. It should be treated as a hypothesis only.
 
-However, it is important to note that the detailed mechanism of action (MOA) for this specific repurposing context is **not available in the current dataset**. The reasoning above is drawn from established pharmacological knowledge of ammonium chloride and represents a theoretical inference rather than a data-driven conclusion. The TxGNN high score (99.94%) most likely reflects proximity in the knowledge graph topology — i.e., shared nodes with respiratory or ENT disease clusters — rather than validated clinical efficacy.
+A second prediction, **nasal cavity disease** (score 99.94%, also evidence level L5), is a very broad category. It has no supporting trials or literature, and it would need to be narrowed to a specific condition, such as rhinitis or sinusitis, before it could be tested.
 
----
+## India Market Information
 
-## Clinical Trial Evidence
+All 20 registrations are single-ingredient entries listed as valid. The approved indication text is blank in the data compiled for this report. Five examples:
 
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 152200 | Nocof Syrup | Bottle of 100 ml syrup | Not stated |
+| 249589 | Zumcof DX Syrup | Bottle of 100 ml syrup | Not stated |
+| 35576 | Cofdex Plus Syrup Sweet Orange | Bottle of 100 ml syrup | Not stated |
+| 29960 | Becodryl Syrup | Bottle of 60 ml syrup | Not stated |
+| 12881 | Adyl Expectorant | Bottle of 110 ml expectorant | Not stated |
 
 ## Safety Considerations
 
-**Drug Interactions** (21 interactions identified; selected key interactions below):
+Package insert warnings and contraindications were not available. Please refer to the package insert for safety information.
 
-| Interacting Drug | Severity | Clinical Note |
-|-----------------|----------|---------------|
-| Amphetamine | Moderate | Ammonium chloride acidifies urine, increasing renal excretion of amphetamine and reducing its efficacy/duration |
-| Benzphetamine | Moderate | Same mechanism as amphetamine — urinary acidification accelerates elimination |
-| Dextroamphetamine | Moderate | Clinically relevant: may reduce therapeutic effect of dextroamphetamine in ADHD management |
-| Lisdexamfetamine | Moderate | Prodrug of dextroamphetamine; same interaction risk applies |
-| Metamfetamine | Moderate | Enhanced urinary excretion of methamphetamine |
-| Ephedrine | Minor | Urinary acidification may slightly increase ephedrine clearance |
-| Pseudoephedrine | Minor | Similar to ephedrine; modest pharmacokinetic effect |
-| Tricyclic antidepressants (Amitriptyline, Clomipramine, Desipramine, Doxepin, Imipramine, Nortriptyline, Protriptyline, Trimipramine) | Minor | Acidification may modestly alter TCA plasma levels |
-| Methadone | Minor | Urinary acidification can increase methadone renal clearance |
-| Mexiletine / Flecainide | Minor | Increased renal excretion of these antiarrhythmics under acidic urine conditions |
-
-> **Note:** The pattern of interactions is mechanistically coherent — ammonium chloride acidifies urine (lowers urinary pH), which increases ionisation of basic drugs and promotes their renal elimination. Clinicians should be aware when co-administering with amphetamine-class compounds (Moderate risk).
-
-> Key warnings and contraindications are not available in the current dataset. Please refer to the package insert for full safety information.
-
----
+- **Contraindication-related conditions (knowledge graph, not label text)**: The graph links ammonium chloride to conditions including liver failure, impaired renal function, anuria, hypertension, epilepsy, adrenocortical insufficiency, peptic ulcer disease, pulmonary edema, myocardial ischemia and coronary artery disease. This list is long (30 conditions) and should be confirmed against official labelling.
+- **Drug Interactions**: 21 interactions were identified.
+  - Moderate: amphetamine, benzphetamine, dextroamphetamine, lisdexamfetamine, metamfetamine.
+  - Minor: ephedrine, pseudoephedrine, tricyclic antidepressants (amitriptyline, clomipramine, desipramine, doxepin, imipramine, nortriptyline, protriptyline, trimipramine), methadone, mexiletine, flecainide.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate is currently at evidence level L5 — the prediction is derived solely from TxGNN knowledge graph modelling, with zero supporting clinical trials and zero supporting publications. Additionally, ammonium chloride has no registered products in India (0 licenses), meaning there is no existing regulatory or commercial infrastructure to build upon. The theoretical mechanistic rationale is plausible but unverified.
+The prediction score is very high, but there are no clinical trials, no publications and no mechanism data. Evidence is at level L5 (model prediction only), and the safety data is incomplete.
 
 **To proceed, the following is needed:**
-
-- **Mechanism of action confirmation**: Retrieve full MOA data from DrugBank API (DG002 data gap) to establish a stronger mechanistic narrative
-- **Regulatory baseline**: Obtain the drug's package insert warnings and contraindications from an authoritative source (DG001 data gap — currently Blocking for S1 safety evaluation)
-- **Targeted literature search**: Conduct a manual PubMed/Embase search using broader MeSH terms (e.g., "ammonium chloride AND pharyngitis", "expectorant AND laryngopharyngitis") to identify any indirect or preclinical evidence
-- **Preclinical feasibility review**: Assess whether any in vitro or animal model data supports anti-inflammatory or mucolytic effects in the laryngopharyngeal mucosa
-- **Formulation pathway**: Identify suitable dosage forms (oral solution, lozenge, inhalation) appropriate for laryngopharyngeal delivery before any clinical hypothesis can be tested
-- **Regulatory pathway in India**: Determine whether a new drug application would be required or whether ammonium chloride could be developed as an OTC expectorant under existing frameworks
-
-> ⚠️ *This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before application.*
+- Mechanism of action data (for example from DrugBank)
+- Package insert warnings and contraindications from the Indian regulator's records, and the approved indications for each registration
+- A literature and trial search specific to acute laryngopharyngitis
+- A review of the knowledge-graph contraindications, especially renal, hepatic and cardiovascular conditions
+- A clearer definition of the target condition and route of administration before any further evaluation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

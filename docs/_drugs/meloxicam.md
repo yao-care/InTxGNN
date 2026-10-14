@@ -2,7 +2,7 @@
 layout: default
 title: Meloxicam
 parent: Model Prediction Only (L5)
-nav_order: 516
+nav_order: 521
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,94 +29,88 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Meloxicam: From Osteoarthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Meloxicam: From Rheumatoid Arthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-Meloxicam is a preferential COX-2 inhibitor NSAID, clinically established for osteoarthritis, rheumatoid arthritis, and inflammatory musculoskeletal conditions.
-The TxGNN model's top-ranked prediction is **Acromesomelic Dysplasia, Hunter-Thompson Type** (score 99.92%), a rare skeletal dysplasia with no mechanistic link to COX-2 inflammation pathways; among all 10 predicted indications, the most clinically coherent candidates are **Spondyloarthropathy** (Rank 6) and **RF-positive Polyarticular Juvenile Idiopathic Arthritis** (Rank 8), both reaching L3 evidence level.
-Currently, the top-ranked indication is supported by **0 clinical trials** and **0 publications**.
-
----
+Meloxicam is a COX-2-preferential NSAID, originally used to treat rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis and spondyloarthropathy.
+The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, but **no clinical trials and no publications** currently support this prediction. It is a graph-based prediction only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Osteoarthritis, Rheumatoid Arthritis, Inflammatory Pain |
-| Predicted New Indication | Acromesomelic Dysplasia, Hunter-Thompson Type |
+|------|------|
+| Original Indication | Rheumatoid arthritis (also osteoarthritis, juvenile idiopathic arthritis, spondyloarthropathy) |
+| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Meloxicam is a preferential COX-2 inhibitor of the oxicam class, selectively suppressing cyclooxygenase-2 to reduce prostaglandin E2 (PGE2) synthesis. This translates to anti-inflammatory, analgesic, and antipyretic effects that underpin its established use in chronic inflammatory joint diseases such as osteoarthritis, rheumatoid arthritis, and ankylosing spondylitis.
+Currently, detailed mechanism of action data is not available. Based on known information, meloxicam is an NSAID that inhibits COX-2, and its efficacy in inflammatory joint disease has been established.
 
-Acromesomelic Dysplasia, Hunter-Thompson Type is a rare autosomal recessive skeletal dysplasia arising from loss-of-function mutations in the *GDF5* gene (Growth Differentiation Factor 5). GDF5 is a bone morphogenetic protein critical for limb chondrogenesis; its deficiency causes disproportionate shortening of the middle and distal limb segments through a developmental — not inflammatory — mechanism. This pathway has no established intersection with the COX-2/PGE2 axis that Meloxicam modulates.
+The predicted disease is a skeletal dysplasia caused by loss-of-function variants in CDMP1/GDF5. This is a genetic developmental defect, and COX-2 inhibition does not address it. No mechanistic link has been established. The high score most likely reflects the disease's proximity to arthropathy-related nodes in the knowledge graph rather than shared biology.
 
-The high TxGNN score most likely reflects topological proximity in the knowledge graph between skeletal dysplasia disease nodes that share structural annotation features with inflammatory joint diseases (e.g., shared "musculoskeletal system" ontology branches), rather than genuine pharmacological plausibility. This is a recognised limitation of graph neural network repurposing models: high scores can emerge from structural graph similarity rather than mechanistic relevance. No clinical or preclinical evidence exists to support this prediction, and it should be treated as a model artefact requiring manual expert triage.
-
----
+The same pattern appears in the other top-ranked predictions. Several are rare skeletal or developmental syndromes (brachyolmia, brachyolmia-amelogenesis imperfecta syndrome, pseudoachondroplasia, colobomatous microphthalmia-rhizomelic dysplasia syndrome) or unrelated conditions (WHIM syndrome). Meloxicam might offer symptomatic relief of secondary joint pain in some of them, such as pseudoachondroplasia, but it would not modify the disease. The only prediction with any supporting literature is rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (rank 8, evidence level L4). It is largely an extension of an existing indication, not a novel repurposing.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the top-ranked prediction.
 
----
+For reference, the only publication in the compiled data relates to the rank 8 prediction (polyarticular JIA):
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [25057265](https://pubmed.ncbi.nlm.nih.gov/25057265/) | 2014 | Safety registry (Phase 4) | Pediatr Rheumatol Online J | Long-term safety and developmental data for celecoxib vs. nonselective NSAIDs in JIA |
 
 ## India Market Information
 
-Meloxicam currently has **no registered products** in the Indian market. No authorizations are on record in the regulatory dataset.
+The 20 valid registrations are all single-ingredient products. The compiled data does not include approved indication text. The main authorizations are:
 
-> Note: Meloxicam is approved in multiple major markets globally (FDA, EMA, Japan PMDA) for osteoarthritis and rheumatoid arthritis. Its absence from the India regulatory dataset warrants verification against the current CDSCO database, as registration status may have changed after the data cutoff of 2026-04-04.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 144942 | Muvik 15mg Tablet (Lesanto Laboratories) | Strip of 10 tablets | Not available |
+| 138452 | Movac 15mg Tablet (Alkem Laboratories Ltd) | Strip of 10 tablets | Not available |
+| 135516 | M-Cam 7.5mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not available |
+| 138674 | Melotross 5mg Infusion (Kaytross Health Care) | Bottle of 100 ml infusion | Not available |
+| 194233 | Rafree 7.5mg Tablet (Dr Reddy's Laboratories Ltd) | Strip of 10 tablets | Not available |
 
----
+Available forms: oral tablets and an intravenous infusion.
 
 ## Safety Considerations
 
-**Drug Interactions (273 interactions identified; selected clinically significant moderate-level interactions shown):**
+- **Contraindications / risk conditions (from knowledge-graph associations, not label text)**: hypertension, congestive heart failure, heart disease and cardiovascular disease, myocardial infarction, stroke and cerebrovascular disorders, kidney disease and impaired renal function, active peptic ulcer disease, gastritis, blood coagulation disease, anemia, diabetes mellitus and diabetic ketoacidosis, hyperlipidemia, and substance abuse/dependence.
+- **Drug Interactions**: 273 interactions were identified. Those listed are mainly moderate:
+  - Corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide)
+  - Acetylsalicylic acid
+  - Antidiabetic agents (metformin, glimepiride, chlorpropamide)
+  - Aminosalicylates (mesalazine, balsalazide)
+  - Aminoglycosides and vancomycin (kanamycin)
+  - Aprepitant
+  - Bowel-preparation and potassium products
+  - Linaclotide (minor)
 
-| Interacting Drug | Level | Clinical Concern |
-|-----------------|-------|-----------------|
-| Hydrocortisone | Moderate | NSAID + systemic corticosteroid: additive GI mucosal injury and bleeding risk |
-| Dexamethasone | Moderate | NSAID + corticosteroid: additive GI mucosal injury and bleeding risk |
-| Betamethasone | Moderate | NSAID + corticosteroid: additive GI mucosal injury and bleeding risk |
-| Triamcinolone | Moderate | NSAID + corticosteroid: additive GI mucosal injury and bleeding risk |
-| Budesonide | Moderate | NSAID + corticosteroid: additive GI mucosal injury and bleeding risk |
-| Acetylsalicylic acid | Moderate | Dual antiplatelet/NSAID exposure: substantially elevated GI and cardiovascular bleeding risk |
-| Metformin | Moderate | NSAIDs may reduce renal clearance of metformin; monitor for lactic acidosis risk |
-| Glimepiride | Moderate | NSAIDs may potentiate sulfonylurea hypoglycaemic effect; monitor blood glucose |
-| Vancomycin | Moderate | Additive nephrotoxicity; renal function monitoring required |
-| Kanamycin | Moderate | Additive nephrotoxicity; renal function monitoring required |
-
-A total of **273 drug-drug interactions** were identified in the DDInter database. Key warnings and contraindications data are not available in this Evidence Pack (Data Gap DG001). Please refer to the package insert for complete safety information.
-
----
+Please also refer to the package insert for label warnings, which were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked TxGNN prediction — Acromesomelic Dysplasia, Hunter-Thompson Type — has no mechanistic plausibility, no clinical trial support, and no published literature (L5), making it unsuitable for drug repurposing development at this time. The high model score is attributable to knowledge graph topology artefacts rather than pharmacological signal. Of note, two lower-ranked predictions — **Spondyloarthropathy (Rank 6, L3, "Proceed with Guardrails")** and **RF-positive Polyarticular JIA (Rank 8, L3, "Proceed with Guardrails")** — have substantially stronger mechanistic rationale consistent with Meloxicam's known COX-2 mechanism, and should be prioritised for dedicated separate evaluation.
+The prediction is supported only by a graph-based score. There are no trials or publications, and no plausible mechanistic link between COX-2 inhibition and a GDF5-related genetic skeletal dysplasia. The cardiovascular, renal and gastrointestinal risk profile of meloxicam also offers no advantage for a non-inflammatory genetic condition.
 
 **To proceed, the following is needed:**
-- **Resolve DG001 (Blocking):** Retrieve and parse the package insert from CDSCO/TFDA to obtain warnings and contraindications — required before any safety assessment can be completed
-- **Resolve DG002 (High):** Query DrugBank API for full MOA data to enable mechanistic linkage analysis
-- **Re-prioritise candidate indications:** Commission dedicated evidence reviews for Spondyloarthropathy (Rank 6) and RF-positive Polyarticular JIA (Rank 8), which have established NSAID mechanistic rationale and existing observational evidence
-- **Verify India registration status:** Cross-check current CDSCO database directly, as Meloxicam is globally approved and the "Not Marketed" status may reflect a data gap rather than true market absence
-- **Assess India-specific unmet need:** Evaluate epidemiology of SpA and JIA in India to determine clinical and market rationale before committing to regulatory strategy
+- Package insert warnings and contraindications for the Indian-market products
+- Detailed mechanism of action data
+- Preclinical or mechanistic evidence linking COX-2/prostaglandin signalling to GDF5-related skeletal pathology
+- If a practical direction is wanted, evaluate rank 8 (polyarticular JIA) or symptomatic joint-pain use in pseudoachondroplasia instead, as these are better grounded
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Doxazosin
 parent: Moderate Evidence (L3-L4)
-nav_order: 284
+nav_order: 287
 evidence_level: L4
 indication_count: 2
 ---
@@ -29,37 +29,38 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Doxazosin: From Hypertension to Migraine Disorder
+# Doxazosin: From Hypertension and Benign Prostatic Hyperplasia to Migraine Disorder
 
 ## One-Sentence Summary
 
-Doxazosin is a selective alpha-1 adrenergic receptor blocker widely used for the treatment of hypertension and benign prostatic hyperplasia (BPH).
-The TxGNN model predicts it may be effective for **Migraine Disorder**, placing it at rank 12,265 in the prediction output.
-Supporting evidence is limited to **0 clinical trials** and **1 expert commentary** from 1997, making this an early-stage research hypothesis requiring further investigation.
+Doxazosin is an alpha-1 adrenergic blocker originally used to treat hypertension and benign prostatic hyperplasia.
+The TxGNN model predicts it may be effective for **migraine disorder**, but the supporting evidence is thin: **no registered clinical trials** and only **1 publication** (a small case series from 1997).
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension, Benign Prostatic Hyperplasia (BPH) |
-| Predicted New Indication | Migraine Disorder |
+|------|------|
+| Original Indication | Hypertension; benign prostatic hyperplasia (from the knowledge graph, as no approved indication text is available in the India license records) |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.20% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 8 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the current Evidence Pack. Based on established pharmacological knowledge, Doxazosin is a selective alpha-1 adrenergic receptor antagonist. By blocking alpha-1 receptors on vascular smooth muscle, it inhibits norepinephrine-driven vasoconstriction, leading to vasodilation and reduced peripheral vascular resistance — the basis of its antihypertensive effect.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge of the drug class, doxazosin is an alpha-1 adrenergic antagonist. Its efficacy in hypertension and benign prostatic hyperplasia is established, and it acts by relaxing vascular and prostatic smooth muscle.
 
-The theoretical link to migraine lies in the trigeminovascular system, where cerebrovascular tone (CVT) dysregulation and sympathetic nervous system hyperactivation are implicated in migraine pathophysiology. Alpha-1 receptor blockade could theoretically stabilise cerebrovascular tone, reduce the risk of vasospasm, and attenuate peripheral sensitisation of pain pathways. A 1997 expert commentary by Vatz reported that 9 out of 10 migraine patients placed on either terazosin or doxazosin experienced reduced migraine frequency or severity, lending early observational support to this hypothesis.
+Adrenergic signaling influences cerebrovascular tone and sympathetic activity, both plausibly involved in migraine. Other adrenergic-modulating drugs, such as propranolol and clonidine, have been used for migraine prophylaxis. This gives a plausible but indirect rationale for the prediction.
 
-However, there are important mechanistic caveats. The established migraine prophylaxis agents in the adrenergic class are **beta-blockers** (e.g. Propranolol, FDA-approved), not alpha-1 blockers. The role of alpha-1 selective blockade is far less characterised in migraine, and orthostatic hypotension — a known side effect of Doxazosin — could paradoxically trigger or worsen migraine episodes. The risk-benefit balance of this mechanism for migraine remains undefined.
+The very high TxGNN score is a computational prediction only and is not clinical evidence. The mechanistic link here rests on general class knowledge rather than on supplied mechanism data.
+
+A second predicted indication, **migraine with brainstem aura** (score 99.19%), has no direct clinical or literature support. Its score likely reflects its close relationship to migraine disorder rather than independent evidence, so it remains prediction-only (L5, Hold).
 
 ---
 
@@ -72,42 +73,42 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [9074296](https://pubmed.ncbi.nlm.nih.gov/9074296/) | 1997 | Expert Commentary / Narrative Review | Headache | 10 migraine patients placed on terazosin or doxazosin; 9 experienced reduced frequency or severity, but 5 discontinued due to side effects. No serious adverse reactions reported. |
+|------|-----|------|------|---------|
+| [9074296](https://pubmed.ncbi.nlm.nih.gov/9074296/) | 1997 | Review (small case series) | Headache | Ten migraine patients in a general neurology practice received terazosin or doxazosin. Migraine frequency and/or severity decreased in all but one patient, but five discontinued because of side effects. No serious adverse reactions were reported. |
+
+This is a very small, uncontrolled report and cannot establish efficacy.
 
 ---
 
 ## India Market Information
 
-Doxazosin is currently **not marketed in India** and holds **no active drug registrations** with CDSCO. No licensed products, dosage forms, or approved indications are on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 59845 | Doxacard 4 Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated in records |
+| 64626 | Doxapress 2mg Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not stated in records |
+| 217969 | Tendura Tablet (Adeka India Private Limited) | Strip of 10 tablets | Not stated in records |
+| 66014 | Doxapress 1mg Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not stated in records |
+| 61421 | Duracard 2mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in records |
+
+Eight valid single-ingredient registrations exist in total, all oral tablets, with none cancelled. The table lists five of them.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions (DDI):** A total of **185 drug-drug interactions** have been identified for Doxazosin. Key interactions of clinical relevance include:
+- **Disease-level contraindication signals (knowledge graph, not label text):** multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, hypotensive disorder, liver failure, liver disease, gallbladder disease, pyloric stenosis, intestinal obstruction, priapism, and intraoperative floppy iris syndrome.
+- **Drug Interactions:** 185 interactions were identified in total. Moderate-level interactions include:
+  - Corticosteroids: hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone
+  - SGLT2 inhibitors: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin
+  - Opioids: morphine, opium
+  - Cannabinoids: dronabinol, nabilone
+  - Others: bupropion, clarithromycin
 
-| Interacting Drug | Interaction Level | Notes |
-|-----------------|------------------|-------|
-| Hydrocortisone | Moderate | Corticosteroids may antagonise the hypotensive effect |
-| Prednisolone | Moderate | Corticosteroids may antagonise the hypotensive effect |
-| Prednisone | Moderate | Corticosteroids may antagonise the hypotensive effect |
-| Dexamethasone | Moderate | Corticosteroids may antagonise the hypotensive effect |
-| Betamethasone | Moderate | Corticosteroids may antagonise the hypotensive effect |
-| Budesonide | Moderate | Corticosteroids may antagonise the hypotensive effect |
-| Triamcinolone | Moderate | Corticosteroids may antagonise the hypotensive effect |
-| Morphine | Moderate | Enhanced hypotensive effect; risk of orthostatic hypotension |
-| Opium | Moderate | Enhanced hypotensive effect; risk of orthostatic hypotension |
-| Bupropion | Moderate | Potential additive CNS/cardiovascular effects |
-| Clarithromycin | Moderate | CYP3A4 inhibition may increase Doxazosin plasma levels |
-| Canagliflozin | Moderate | Additive blood pressure-lowering effect |
-| Dapagliflozin | Moderate | Additive blood pressure-lowering effect |
-| Empagliflozin | Moderate | Additive blood pressure-lowering effect |
-| Ertugliflozin | Moderate | Additive blood pressure-lowering effect |
-| Dronabinol | Moderate | Additive hypotensive effect |
-| Nabilone | Moderate | Additive hypotensive effect |
+  Interactions with calcitriol, clotrimazole, and cimetidine are of unknown severity.
 
-For complete package insert warnings and contraindications, please refer to the official prescribing information.
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for full safety information.
+
+The orthostatic hypotension and hypotension signals are especially relevant for a migraine population. The 1997 case series also reported that half of the patients stopped treatment because of side effects.
 
 ---
 
@@ -116,14 +117,14 @@ For complete package insert warnings and contraindications, please refer to the 
 **Decision: Hold**
 
 **Rationale:**
-The sole piece of direct clinical evidence is a 1997 expert commentary with no control group and a high dropout rate due to adverse effects; no registered clinical trials exist for this indication, and Doxazosin is not currently marketed in India. The mechanistic hypothesis is plausible but significantly weaker than the established beta-blocker evidence base for migraine prophylaxis, and the risk of orthostatic hypotension is a meaningful safety concern in this patient population.
+The prediction is mechanistically plausible but rests on a very high model score, a single small uncontrolled case series, and no registered clinical trials. This is not enough to justify moving forward.
 
 **To proceed, the following is needed:**
-- Retrieval and review of the complete Doxazosin prescribing information (contraindications and warnings) from an established regulatory authority (e.g. FDA, EMA) to complete the S1 safety screen
-- Clarification of mechanism of action (alpha-1 receptor subtype selectivity and CNS penetration) to strengthen the mechanistic rationale
-- Systematic literature search beyond PubMed to identify any unpublished or grey literature reports
-- Design of a prospective observational study or small pilot RCT to generate Phase 2-level clinical evidence before any investment decision is made
-- Assessment of the orthostatic hypotension risk profile specifically in migraine patient demographics (often young women of reproductive age)
+- Mechanism of action data for doxazosin, to strengthen the link to migraine
+- Package insert warnings and contraindications from the India regulator, to complete safety screening
+- Controlled clinical evidence (at least a well-designed Phase 2 trial) of doxazosin for migraine prophylaxis
+- A tolerability and hypotension risk assessment in migraine patients, given the side-effect discontinuations in the early report
+- Independent evidence for migraine with brainstem aura, if that subtype is to be pursued
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

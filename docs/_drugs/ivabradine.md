@@ -2,7 +2,7 @@
 layout: default
 title: Ivabradine
 parent: Model Prediction Only (L5)
-nav_order: 454
+nav_order: 458
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,96 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Ivabradine: From Chronic Heart Failure to Hypertrichosis
+# Ivabradine: From Cardiovascular Use (Heart Failure / Heart-Rate Control) to Hypertrichosis
 
 ## One-Sentence Summary
 
-Ivabradine is a selective HCN channel (If current) blocker approved globally for chronic heart failure and chronic stable angina, reducing resting heart rate without affecting cardiac contractility.
-The TxGNN model predicts it may be effective for **Hypertrichosis (excessive hair growth)**, however this is supported by **0 clinical trials** and **0 publications** — making this a low-confidence, model-only prediction.
-The mechanistic rationale is considered a probable knowledge graph false positive, and independent biological validation would be required before this direction can be pursued.
-
----
+Ivabradine is a heart-rate-lowering drug that blocks HCN channels (the If current) in the sinoatrial node, and it is widely marketed in India. The TxGNN model predicts it may be effective for **hypertrichosis**, but **no clinical trials and no publications** currently support this direction. The prediction is a network-based computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Chronic heart failure, chronic stable angina (not registered in India) |
-| Predicted New Indication | Hypertrichosis |
+|------|------|
+| Original Indication | Not stated in the India license data compiled for this report (the licensed product names, e.g. "Beat HF", suggest heart failure use) |
+| Predicted New Indication | Hypertrichosis (disease) |
 | TxGNN Prediction Score | 99.79% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on established pharmacology, Ivabradine selectively blocks the hyperpolarization-activated cyclic nucleotide-gated (HCN) channel — specifically the If ("funny") current in sinoatrial node pacemaker cells — thereby slowing heart rate in a dose-dependent manner without impairing myocardial contractility or conduction. This mechanism underpins its approved use in heart failure with reduced ejection fraction (HFrEF) and chronic stable angina.
+Detailed mechanism-of-action data for ivabradine is not available in the data compiled for this report. Based on known pharmacology, ivabradine inhibits HCN channels (the If current) in the sinoatrial node, which lowers heart rate. Its established use is cardiovascular.
 
-The predicted link between Ivabradine and hypertrichosis is mechanistically weak. While HCN channels have minimal reported expression in hair follicle tissue, no direct causal evidence connects HCN channel blockade to hair growth regulation. The more likely explanation for this TxGNN prediction is an indirect knowledge graph topology artefact: Minoxidil — another cardiovascular drug (vasodilator) — is well known to cause hypertrichosis as a side effect, potentially placing cardiovascular drug nodes in close proximity to hypertrichosis nodes within the graph. This proximity-driven scoring represents graph noise rather than a true biological connection.
+Mechanistically, the link to hypertrichosis is weak. There is no established connection between HCN channel inhibition and hair follicle biology or hair growth regulation. HCN channel expression in hair follicles is not an established pathway. Hypertrichosis is a known adverse effect of some drugs (for example minoxidil), but that is unrelated to HCN inhibition.
 
-In summary, no mechanistic pathway linking Ivabradine's HCN channel blockade to hair follicle biology has been identified. This prediction is assessed as a probable false positive arising from knowledge graph topology, not from pharmacological plausibility.
+The high score (0.998) therefore most likely reflects graph proximity in the knowledge network, not a true mechanistic relationship. The other top predictions follow the same pattern. They are mostly congenital or genetic conditions that a heart-rate-lowering ion channel blocker is unlikely to correct:
 
----
+| Rank | Predicted Disease | Score | Assessment |
+|---|---|---|---|
+| 2 | Ambras type hypertrichosis universalis congenita | 99.72% | Genetic rearrangement near TRPS1 (chromosome 8q22); no plausible link to HCN blockade |
+| 3 | Malformation syndrome with odontal and/or periodontal component | 99.72% | Broad developmental category; no known role of ivabradine in tooth or periodontal development |
+| 4 | Syndrome with a Dandy-Walker malformation as major feature | 99.70% | Structural brain malformation; not a plausible pharmacological target |
+| 5 | Isolated genetic hair shaft abnormality | 99.69% | Structural keratin or protein defects; no link to HCN channels |
+| 6 | Nephrogenic syndrome of inappropriate antidiuresis | 99.08% | Caused by gain-of-function AVPR2 mutations; ivabradine does not act on this pathway |
 
-## Clinical Trial Evidence
+## India Market Information
 
-Currently no related clinical trials registered.
+Twenty valid single-ingredient registrations were found. The approved indication text was empty for all of them. The first five are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 206226 | StayHappi Ivabradine 5mg Tablet (Sarvagunaushdhi Pvt Ltd) | Strip of 10 tablets | Not specified |
+| 25936 | Beat HF 5 Tablet (Emcure Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified |
+| 108150 | Ivabratco 5 Tablet (Natco Pharma Ltd) | Strip of 10 tablets | Not specified |
+| 108523 | Ivaniche 15mg Tablet (Alniche Life Sciences Pvt Ltd) | Strip of 10 tablets | Not specified |
+| 108395 | Ivabid OD 15mg Tablet (Abbott) | Strip of 10 tablets | Not specified |
 
-## Literature Evidence
-
-Currently no related literature available.
-
----
+All products are oral tablets.
 
 ## Safety Considerations
 
-**Drug Interactions (138 total identified; top interactions listed below):**
+- **Drug Interactions**: 138 interactions were recorded. The listing includes several Major-level interactions, for example:
+  - Aprepitant
+  - Clarithromycin
+  - Cisapride
+  - Clotrimazole
+  - Cobicistat
+  - Dolasetron
+  - Granisetron
+  - Levofloxacin
+  - Ondansetron
+  - Palonosetron
+  - Papaverine
+  
+  Moderate-level interactions include famotidine, ranitidine, cimetidine, nizatidine, dexamethasone, miconazole, metreleptin and troglitazone.
 
-| Interacting Drug | Severity | Source |
-|------------------|----------|--------|
-| Aprepitant | **Major** | DDInter |
-| Clarithromycin | **Major** | DDInter |
-| Cobicistat | **Major** | DDInter |
-| Cisapride | **Major** | DDInter |
-| Clotrimazole | **Major** | DDInter |
-| Dolasetron | **Major** | DDInter |
-| Granisetron | **Major** | DDInter |
-| Levofloxacin | **Major** | DDInter |
-| Ondansetron | **Major** | DDInter |
-| Palonosetron | **Major** | DDInter |
-| Papaverine | **Major** | DDInter |
-| Famotidine | Moderate | DDInter |
-| Ranitidine | Moderate | DDInter |
-| Dexamethasone | Moderate | DDInter |
-| Cimetidine | Moderate | DDInter |
-| Miconazole | Moderate | DDInter |
-| Nizatidine | Moderate | DDInter |
-| Troglitazone | Moderate | DDInter |
-| Metreleptin | Moderate | DDInter |
-| Ranitidine (bismuth citrate) | Moderate | DDInter |
-
-> Note: Package insert warnings and contraindications were not available in this evidence pack. Please refer to the official prescribing information for complete safety data.
-
----
+Please refer to the package insert for warnings and contraindications, as this information was not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is a pure model prediction (Evidence Level L5) with zero supporting clinical trials and zero supporting literature. The proposed mechanistic link between HCN channel blockade and hypertrichosis is biologically implausible and most likely represents a knowledge graph noise artefact driven by Minoxidil's proximity in the drug–disease network. Pursuing this candidate without any biological basis would not represent efficient use of research resources.
+The prediction rests only on a model score. There are no clinical trials or publications, and the mechanistic link between HCN channel inhibition and hypertrichosis, or any of the other top-ranked conditions, is not plausible. The drug's established safety profile does not justify pursuing a new indication without supporting evidence.
 
 **To proceed, the following is needed:**
-- **Mechanistic validation**: Confirm whether HCN channels play any role in hair follicle cycling or hair shaft growth, ideally through a targeted literature review and wet-lab feasibility assessment
-- **KG path audit**: Trace the exact knowledge graph reasoning path to determine if the prediction is driven by Minoxidil–hypertrichosis proximity (graph noise) or a genuine Ivabradine-specific signal
-- **MOA data**: Retrieve full DrugBank mechanistic data for Ivabradine (currently missing) to support rigorous target–indication matching
-- **India regulatory data**: Download the TFDA/CDSCO package insert PDF to obtain approved indications, contraindications, and key warnings
-- **Re-score after data gaps are closed**: Once DG001 (warnings/contraindications) and DG002 (MOA) are resolved, re-run the safety pre-screening before reconsidering this or other predicted indications
+- Package insert warnings and contraindications from the India regulator, which are required for safety screening
+- Detailed mechanism-of-action data
+- Preclinical evidence of HCN channel involvement in hair follicle biology
+- Evidence of route compatibility and similarity to the original indication
+- An approved-indication statement for the India licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

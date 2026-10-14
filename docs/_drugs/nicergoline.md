@@ -2,7 +2,7 @@
 layout: default
 title: Nicergoline
 parent: Model Prediction Only (L5)
-nav_order: 586
+nav_order: 591
 evidence_level: L5
 indication_count: 8
 ---
@@ -29,55 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Nicergoline: From Cerebrovascular Disorders to Hypertrichosis
+# Nicergoline: From Cerebrovascular/Vasoactive Use to Hypertrichosis (Top Prediction), with Migraine as the Best-Supported Candidate
 
 ## One-Sentence Summary
 
-Nicergoline is an ergot alkaloid derivative historically used for cerebrovascular insufficiency and cognitive impairment across multiple markets.
-The TxGNN model predicts it may have activity in **Hypertrichosis**,
-with **0 clinical trials** and **0 publications** currently supporting this specific direction.
+Nicergoline is an ergot-derived vasodilator and alpha-1 adrenergic antagonist marketed in India as single-ingredient tablets. The India license records compiled for this report do not list an approved indication.
+The TxGNN model's top prediction is **hypertrichosis** (score 99.57%), but it has **0 clinical trials and 0 publications**, so it rests on graph-based prediction only.
+Among the eight predicted indications, only **migraine disorder** has supporting literature (**6 publications, 0 registered trials**, mostly preclinical).
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Cerebrovascular disorders / cognitive impairment (no India registration on record) |
-| Predicted New Indication | Hypertrichosis |
-| TxGNN Prediction Score | 99.57% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+|------|------|
+| Original Indication | Not stated in the India license data |
+| Predicted New Indication | Hypertrichosis (rank 1); best-supported alternative: migraine disorder (rank 8) |
+| TxGNN Prediction Score | 99.57% (hypertrichosis); 99.12% (migraine disorder) |
+| Evidence Level | L5 (hypertrichosis); L4 (migraine disorder) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 5 |
+| Recommended Decision | Hold (hypertrichosis); migraine flagged as a research question |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on publicly known pharmacology, Nicergoline is an ergot alkaloid derivative with α-adrenergic receptor blocking activity (both α1 and α2 subtypes) and vasodilatory properties. It has been approved and used in several countries for cerebrovascular insufficiency, peripheral vascular disease, and vascular dementia.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known pharmacology, nicergoline is an ergot derivative with vasodilating, alpha-1 adrenergic blocking and serotonin-modulating properties.
 
-The theoretical link to hypertrichosis — defined as abnormal excessive hair growth — rests on the fact that α-adrenergic receptors are expressed in hair follicles, and adrenergic signaling is known to modulate the hair growth cycle (anagen/telogen transitions). Blocking α receptors could theoretically influence follicular activity and hair shaft production. However, this mechanistic pathway is highly speculative and extrapolated indirectly from receptor biology rather than from any Nicergoline-specific experimental data.
+**Hypertrichosis (rank 1):** No plausible mechanistic path from nicergoline to hair growth regulation is evident. The high score is likely a graph-proximity artefact. The same applies to the related predictions (Ambras-type congenital hypertrichosis, isolated genetic hair shaft abnormality), which are genetic conditions that a vasoactive drug is unlikely to correct.
 
-No supporting preclinical or clinical literature connecting Nicergoline to hypertrichosis was identified during evidence collection. The prediction is most likely driven by indirect knowledge graph topology in TxGNN (network proximity between α-receptor pharmacology nodes and hair follicle biology nodes) rather than a validated biological hypothesis. This signal should be treated as hypothesis-generating only and does not currently justify clinical translation.
+**Other low-plausibility predictions:** Malformation syndromes (odontal/periodontal, Dandy-Walker) are structural developmental conditions, and nephrogenic syndrome of inappropriate antidiuresis arises from vasopressin V2 receptor signalling. None has a link to nicergoline's pharmacology in the data supplied.
+
+**Benign prostatic hyperplasia (rank 5):** Alpha-1 blockade is the mechanism of established BPH drugs such as tamsulosin, so the rationale is plausible. However, no evidence was supplied, and uroselectivity and blood-pressure effects would need to be compared with existing alternatives.
+
+**Migraine (rank 8):** This is the most coherent candidate. Nicergoline's vasoactive, alpha-blocking and serotonergic properties fit migraine pathophysiology. Preclinical work shows effects on cerebrovascular resistance, 5-HT-induced vasoconstriction and serotonin transport in rat brain synaptosomes.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for any of the predicted indications.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+The literature below relates to migraine disorder, the only predicted indication with publications. No literature was available for the other seven predictions.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [6385484](https://pubmed.ncbi.nlm.nih.gov/6385484/) | 1984 | Clinical report (design unclear) | Wiadomosci Lekarskie | Describes use of nicergoline (Sermion) in migraine treatment; no abstract available, apparently uncontrolled |
+| [2622296](https://pubmed.ncbi.nlm.nih.gov/2622296/) | 1989 | Preclinical | Methods Find Exp Clin Pharmacol | Nicergoline reduced cerebrovascular resistance and affected 5-HT-induced vessel constriction and 5-HT transport in rat brain synaptosomes in migraine-related models |
+| [2625145](https://pubmed.ncbi.nlm.nih.gov/2625145/) | 1989 | Preclinical (animal) | Farmakol Toksikol | Nicergoline and methysergide competitively inhibited serotonin uptake in rat brain synaptosomes |
+| [8374139](https://pubmed.ncbi.nlm.nih.gov/8374139/) | 1993 | Preclinical/mechanistic | Biull Eksp Biol Med | Compared the effect of antimigraine drugs, including nicergoline, on serotonin transport in platelets |
+| [12924226](https://pubmed.ncbi.nlm.nih.gov/12924226/) | 2003 | Preclinical/mechanistic | Eksp Klin Farmakol | Compared the antiserotonin cerebrovascular effects of tropoxin with other antimigraine drugs |
+| [2684591](https://pubmed.ncbi.nlm.nih.gov/2684591/) | 1989 | Review (flunarizine, not nicergoline-specific) | Drugs | Review of flunarizine as migraine prophylaxis; indirect context only |
 
 ---
 
 ## India Market Information
 
-No product registrations found. Nicergoline is not currently marketed in India.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 35705 | Cholergol Tablet | Strip of 10 tablets | Not stated |
+| 151877 | Nicer 30mg Tablet | Strip of 10 tablets | Not stated |
+| 200864 | Sermion 30mg Tablet | Strip of 10 tablets | Not stated |
+| 150520 | Nicerbium Tablet | Strip of 10 tablets | Not stated |
+| 154136 | Nicerwin V Tablet | Strip of 10 tablets | Not stated |
+
+All five licences are valid single-ingredient oral products.
 
 ---
 
@@ -89,18 +110,18 @@ Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold** (for hypertrichosis and the other six non-migraine predictions). Migraine disorder is flagged as a research question rather than a Go.
 
 **Rationale:**
-There is zero clinical or preclinical literature specifically linking Nicergoline to hypertrichosis, and no mechanistic precedent beyond a speculative α-receptor/hair-follicle connection. An L5 evidence rating with no supporting data does not justify further development investment for this indication at this time.
+- The top-ranked prediction has no clinical or literature support and no plausible mechanism, so the score is likely a knowledge-graph artefact.
+- Migraine has a coherent mechanism, but its evidence is mostly preclinical, with one old, low-grade clinical report. BPH is mechanistically plausible but entirely unsupported by evidence.
 
 **To proceed, the following is needed:**
-- Obtain a CDSCO-recognised package insert or equivalent regulatory document to confirm the original approved indication, key warnings, and contraindications
-- Retrieve full DrugBank MOA profile to formally characterise the α-adrenergic blocking and vasodilatory mechanisms
-- Conduct a targeted literature search on α-blocker class effects and hair follicle biology to assess whether a biologically plausible hypothesis can be built
-- **Reassess indication priority**: Among the top 8 TxGNN predictions in this pack, two candidates carry substantially stronger mechanistic rationale and should be considered as the primary repurposing focus:
-  - **Benign Prostatic Hyperplasia (Rank 5, 99.39%)** — Nicergoline is an α1-blocker, the same pharmacological class as first-line BPH agents (tamsulosin, alfuzosin, doxazosin); a class-effect hypothesis is scientifically defensible and warrants a dedicated literature and clinical trial search
-  - **Migraine Disorder (Rank 8, 99.12%)** — Supported by experimental evidence in migraine animal models (PMID 2622296), in vitro serotonin transport studies (PMID 2625145, 8374139), and a direct clinical use report from 1984 (PMID 6385484); this represents the historically best-documented repurposing signal for Nicergoline in this dataset
+- Package insert warnings and contraindications from the India regulator, which are required before any safety screening
+- Approved indication text for the India licences, to establish the original indication
+- Mechanism of action data for nicergoline (for example, from DrugBank)
+- For migraine: a systematic search for controlled clinical trials of nicergoline, and comparison with established prophylaxis options
+- For BPH: a literature search and a comparison of alpha-1 selectivity and blood-pressure effects against existing alpha-blockers
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

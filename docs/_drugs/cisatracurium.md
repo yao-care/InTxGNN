@@ -2,7 +2,7 @@
 layout: default
 title: Cisatracurium
 parent: Model Prediction Only (L5)
-nav_order: 185
+nav_order: 186
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cisatracurium: From Neuromuscular Blockade (Anaesthesia) to Cauda Equina Syndrome
+# Cisatracurium: From Neuromuscular Blockade in Anaesthesia to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Cisatracurium is a non-depolarizing neuromuscular blocking agent (NMBA) widely used intraoperatively and in the ICU to facilitate endotracheal intubation and mechanical ventilation.
-The TxGNN model assigns its highest repurposing score to **Cauda Equina Syndrome** (99.99%), yet no supporting clinical trials or published literature exist for this direction.
-Across all 10 predicted indications reviewed, evidence consistently yields an **L5 or L4 level with a Hold recommendation**; high TxGNN scores most likely reflect surgical co-occurrence patterns rather than genuine therapeutic signals.
-
----
+Cisatracurium is a non-depolarizing neuromuscular blocking agent given by injection, used as a muscle relaxant in anaesthesia and critical care.
+The TxGNN model predicts it may be effective for **cauda equina syndrome**, but there are **no clinical trials** and **no publications** supporting this prediction.
+It is a graph-based prediction only, with no plausible mechanistic rationale.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Neuromuscular blockade to facilitate intubation and mechanical ventilation |
-| Predicted New Indication | Cauda Equina Syndrome |
+|------|------|
+| Original Indication | Not stated in the registration data compiled for this report (generally used as a neuromuscular blocker during anaesthesia) |
+| Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 7 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Cisatracurium is a benzylisoquinolinium non-depolarizing NMBA that competitively antagonises nicotinic acetylcholine receptors (nAChR) at the neuromuscular junction (NMJ), producing dose-dependent skeletal muscle relaxation. Detailed MOA data from DrugBank was not retrievable at the time of this report due to a data gap; however, this peripheral mechanism is firmly established in the anaesthesia pharmacology literature. Cisatracurium undergoes Hofmann elimination — a pH- and temperature-dependent spontaneous degradation — making it particularly favoured in patients with hepatic or renal impairment.
+Detailed mechanism of action data is not available in the data compiled for this report. Cisatracurium is generally known as a non-depolarizing neuromuscular blocker that acts at nicotinic acetylcholine receptors of the motor endplate, producing skeletal muscle relaxation.
 
-Cauda equina syndrome (CES) is caused by compression of the lumbosacral nerve roots within the spinal canal, producing a constellation of bladder and bowel dysfunction, saddle anaesthesia, and lower limb weakness. The definitive intervention is urgent surgical decompression; pharmacological muscle paralysis neither relieves nerve root compression nor modifies the underlying neurological injury. Crucially, Cisatracurium acts exclusively at peripheral NMJ sites on skeletal muscle fibres and does not cross the blood–brain barrier or penetrate central neural tissue.
+This mechanism offers no plausible link to cauda equina syndrome. That condition is a compressive neurological emergency that requires surgical decompression, not muscle paralysis. The high TxGNN score (99.99%) reflects a pattern in the knowledge graph rather than pharmacological or clinical reasoning.
 
-The mechanistic gap is therefore fundamental. Blocking NMJ transmission cannot decompress the cauda equina, reduce epidural haematoma or disc herniation pressure, attenuate neuroinflammation, or restore axonal conductance. The TxGNN model's high score (global rank 308) is most plausibly an artefact of statistical co-occurrence: Cisatracurium is routinely administered as part of general anaesthesia for the very spinal surgeries performed to treat CES, creating a dataset association that carries no therapeutic implication whatsoever.
-
----
+The other top-ranked predictions (preeclampsia, neurogenic bladder, migraine, thrombotic disease, irritable bowel syndrome and others) show the same weakness. None has a therapeutic mechanism supported by clinical data. The two papers retrieved for preeclampsia and the one paper for thrombotic disease concern anaesthesia care in cesarean section and liver transplantation. In those papers cisatracurium would at most be an incidental co-administered anaesthetic, not a treatment for the disease.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Cisatracurium in Cauda Equina Syndrome.
-
----
+Currently no related clinical trials registered for cauda equina syndrome.
 
 ## Literature Evidence
 
-Currently no related literature available for Cisatracurium in Cauda Equina Syndrome.
-
----
+Currently no related literature available for cauda equina syndrome.
 
 ## India Market Information
 
-Cisatracurium currently has **no registered products** in India. Market status: Not Marketed (0 authorisations on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 41637 | Cisblok 20mg Injection (Abbott) | Vial of 10 ml injection | Not stated |
+| 42184 | Cis-Atrabloc 20 Injection (Varenyam Healthcare) | Vial of 10 ml injection | Not stated |
+| 45296 | Cis-Atrabloc 10 Injection (Varenyam Healthcare) | Vial of 5 ml injection | Not stated |
+| 39104 | Cisartacil 10mg Injection (Neon Laboratories) | Vial of 5 ml injection | Not stated |
+| 37442 | Cisblok 10mg Injection (Abbott) | Vial of 5 ml injection | Not stated |
 
----
+All 7 registrations are valid single-ingredient injectables. The table lists the first 5.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 61 interactions were identified in total. Examples from the compiled list:
+  - **Major**: kanamycin, neomycin, paromomycin, polymyxin B, streptomycin. These aminoglycoside and polymyxin antibiotics can potentiate neuromuscular blockade.
+  - **Moderate**: amphotericin B (including lipid complex, cholesteryl sulfate and liposomal forms), doxycycline, minocycline, tetracycline, magnesium sulfate, magnesium chloride, mannitol, metoclopramide, vancomycin, neomycin (topical).
+  - **Minor**: ranitidine, ranitidine (bismuth citrate).
+- Magnesium sulfate is particularly relevant in severe preeclampsia, where potentiated blockade is a safety concern.
+- Systemic neuromuscular blockade requires ventilatory support.
 
-> **Note:** Key warnings and contraindications data were not available at the time of this report (data gap). DDI database query returned no results due to a missing local database file. The official package insert (CDSCO/TFDA) should be consulted before any clinical use.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials or published literature support the use of Cisatracurium for cauda equina syndrome, and there is a fundamental mechanistic mismatch — peripheral NMJ blockade cannot address spinal nerve root compression. The same pattern holds across all 10 TxGNN-predicted indications (cauda equina syndrome, preeclampsia, neurogenic bladder, migraine, thrombotic disease, IBS, migraine with brainstem aura, mild/severe pre-eclampsia, and neurocirculatory asthenia): high model scores but no mechanistic link, with evidence limited to anaesthesia co-occurrence artefacts.
+The prediction rests on the TxGNN graph score alone. There are no clinical trials or literature, and no plausible mechanism links neuromuscular blockade to cauda equina syndrome. Other top-ranked predictions are similarly unsupported, and the few papers found describe incidental anaesthetic use only.
 
 **To proceed, the following is needed:**
-
-- **MOA data gap resolution:** Query DrugBank API (DB00565) for complete mechanism, targets, and pharmacology data
-- **Safety data gap resolution:** Download and parse the official package insert PDF to extract warnings, contraindications, and special population precautions
-- **DDI database repair:** Restore the missing `ddinter_code_A.csv` file to enable drug–drug interaction screening
-- **Hypothesis re-scoping:** If repurposing is a genuine objective, the investigation should pivot away from all 10 current predictions — none demonstrate a plausible therapeutic mechanism — and instead explore pharmacological properties specific to Cisatracurium (e.g., Hofmann elimination in organ-impaired patients, histamine-sparing properties, ICU sedation protocols) as potential differentiation angles
-- **India registration pathway:** Confirm whether Cisatracurium is available through import licensing or requires a new CDSCO submission before any clinical development in India can be planned
+- Package insert warnings and contraindications from the India registration, as the current safety data is incomplete
+- Approved indication text for the India licences, which is currently blank
+- Mechanism of action data from DrugBank
+- A credible mechanistic hypothesis and preclinical evidence before any clinical consideration
+- Otherwise, deprioritise this candidate in favour of repurposing candidates with supporting clinical data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

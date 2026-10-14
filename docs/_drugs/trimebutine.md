@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Trimebutine
-parent: High Evidence (L1-L2)
-nav_order: 859
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 866
+evidence_level: L5
 indication_count: 2
 ---
 
 # Trimebutine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,12 @@ Evidence Level: **L2** | Predicted Indications: **2**
 
 </div>
 
-# Trimebutine: From Gastrointestinal Motility Disorder to Migraine Disorder
+# Trimebutine: From Functional Gastrointestinal Disorders to Migraine Disorder
 
 ## One-Sentence Summary
 
-> Trimebutine is a peripheral opioid receptor agonist historically used for gastrointestinal motility disorders (e.g., IBS, functional dyspepsia), though this evidence pack does not confirm its original approved indication.
-> The TxGNN model predicts it may be effective for **Migraine Disorder**,
-> with **0 clinical trials** and **4 publications** (including 1 RCT) currently supporting this direction — largely as an absorption-enhancing adjunct to triptans rather than a primary antimigraine agent.
+Trimebutine is a peripheral opioid-receptor agonist that regulates gastrointestinal motility, and it is marketed in India as an oral tablet.
+The TxGNN model predicts it may be useful for **migraine disorder**, but the support is limited: **no registered clinical trials** and **3 publications**, only one of which is a randomized trial (an add-on to a triptan).
 
 ---
 
@@ -43,29 +42,31 @@ Evidence Level: **L2** | Predicted Indications: **2**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in evidence pack (data gap); pharmacologically consistent with GI motility disorders based on mechanism description |
+| Original Indication | Not stated in the Indian license record |
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.64% |
-| Evidence Level | L2 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L2 (based on a single small randomized trial; no registered clinical trials) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (Data Gap). Based on the repurposing rationale provided, Trimebutine is a peripheral opioid receptor agonist (mu/kappa/delta) with spasmolytic and prokinetic action on gastrointestinal smooth muscle, acting mainly on the Meissner and Auerbach plexuses without CNS penetration.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Based on general pharmacology, trimebutine acts on peripheral opioid receptors (mu, delta, kappa) in the gut and also modulates gastrointestinal motility and ion channels (calcium and sodium). Its use is mainly in functional gastrointestinal disorders.
 
-The link to migraine is **not** a direct antimigraine mechanism. During migraine attacks, gastroparesis commonly delays gastric emptying, which in turn delays absorption and onset of oral triptans. The proposed mechanism is that Trimebutine improves gastric emptying, thereby enhancing the bioavailability and clinical effect of co-administered oral triptans (e.g., rizatriptan) — an **absorption-enhancement** effect rather than a primary analgesic or antimigraine action.
+A possible link to migraine is modulation of visceral and peripheral pain signalling, or of gut-brain axis signalling. This remains speculative. The very high TxGNN score is a computational prediction and does not establish a mechanism.
 
-Because original indication and MOA data are both marked as Data Gaps in this pack, this mechanistic reasoning is inferred primarily from literature titles/abstracts and known pharmacological classification, and should be treated as a hypothesis pending confirmation.
+The only direct clinical signal is a 2006 double-blind, randomized, cross-over, placebo-controlled study of rizatriptan versus rizatriptan plus trimebutine for acute migraine. Gastroparesis is common during migraine attacks and can delay absorption of oral drugs. A gastrokinetic agent might therefore help the triptan work faster or more consistently. If real, this would be an **adjunctive effect** rather than an independent antimigraine effect.
+
+A second predicted indication, **migraine with brainstem aura**, has no trials or literature. Its high score (99.54%) most likely reflects its close relationship to the parent migraine disorder. Triptans are traditionally used with caution in brainstem aura, so extrapolation is weak. It is not evaluated further here.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
@@ -73,24 +74,23 @@ Currently no related clinical trials registered
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [16776704](https://pubmed.ncbi.nlm.nih.gov/16776704/) | 2006 | RCT | Cephalalgia | Double-blind, randomized, cross-over, placebo-controlled study comparing rizatriptan alone vs. rizatriptan + trimebutine for acute migraine treatment; rationale based on trimebutine's gastrokinetic effect counteracting migraine-associated gastroparesis to improve triptan absorption |
-| [19220673](https://pubmed.ncbi.nlm.nih.gov/19220673/) | 2009 | Review | Journal of Gastroenterology and Hepatology | Review of prokinetic agents' effectiveness against diseases external to the GI tract, including CNS, respiratory, urologic, and metabolic conditions |
-| [17046449](https://pubmed.ncbi.nlm.nih.gov/17046449/) | 2006 | Review | Lancet | Review discussing strategies to increase the effect of triptans in migraine treatment (no abstract available) |
-| [16245431](https://pubmed.ncbi.nlm.nih.gov/16245431/) | 2005 | Case Report | Polski Merkuriusz Lekarski | Case report of abdominal migraine in a 9-year-old girl; trimebutine mentioned among prior unsuccessful treatments for functional abdominal pain (not migraine-specific efficacy evidence) |
+| [16776704](https://pubmed.ncbi.nlm.nih.gov/16776704/) | 2006 | RCT | Cephalalgia | Double-blind, randomized, cross-over, placebo-controlled study of rizatriptan vs. rizatriptan plus trimebutine in acute migraine. Rationale: gastroparesis during attacks delays oral drug absorption; a gastrokinetic may improve triptan efficacy. |
+| [19220673](https://pubmed.ncbi.nlm.nih.gov/19220673/) | 2009 | Review | J Gastroenterol Hepatol | Review of prokinetic agents for diseases outside the GI tract, including the central nervous system. |
+| [16245431](https://pubmed.ncbi.nlm.nih.gov/16245431/) | 2005 | Case report | Pol Merkur Lekarski | Nine-year-old girl with abdominal migraine who did not improve with drotaverine, mebeverine or trimebutine. |
 
 ---
 
 ## India Market Information
 
-Currently not marketed in India; no registration records are available in this evidence pack (total licenses: 0).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 219665 | Trimspa 200mg Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 6 tablets | Not stated |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*Note: TFDA/label warnings and contraindications data are flagged as a **Blocking** severity data gap (DG001) in this evidence pack, meaning safety pre-screening (S1) cannot currently be completed.*
+Please refer to the package insert for safety information. No drug-interaction records were found in the data compiled for this report.
 
 ---
 
@@ -99,13 +99,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Evidence is limited to a single small double-blind crossover RCT plus supporting reviews, with no registered clinical trials directly testing trimebutine for migraine; more importantly, a **Blocking** data gap on TFDA safety warnings/contraindications prevents the mandatory safety pre-screening step, and the drug is not currently marketed in India.
+The high TxGNN score is a computational prediction only. The sole direct evidence is one small 2006 randomized trial suggesting an add-on effect with a triptan, likely through improved gastric motility. There are no registered trials and no confirmed mechanism, so this is best treated as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
-- TFDA/label warnings, contraindications, and DDI data (DG001, Blocking — required before safety review)
-- Confirmed original approved indication(s) and mechanism of action (DG002, High)
-- Dedicated clinical trials evaluating trimebutine's effect on migraine outcomes (not solely as a triptan-absorption adjunct)
-- Clarification of India market entry pathway, given current "Not Marketed" status and zero registrations
+- Package insert warnings and contraindications from the Indian regulator or manufacturer, which are required before safety screening
+- Detailed mechanism-of-action data, to test the proposed gut-brain or motility link
+- Critical appraisal of the 2006 trial (sample size, endpoints, effect size), and ideally a larger confirmatory trial of trimebutine as a triptan add-on
+- Confirmation of the approved indication for the Indian product
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

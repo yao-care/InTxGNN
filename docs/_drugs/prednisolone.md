@@ -2,7 +2,7 @@
 layout: default
 title: Prednisolone
 parent: High Evidence (L1-L2)
-nav_order: 689
+nav_order: 696
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,94 +29,89 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Prednisolone: From Systemic Corticosteroid Therapy to Alopecia Areata
+# Prednisolone: From Autoimmune Disease to Alopecia Areata
 
 ## One-Sentence Summary
 
-Prednisolone is a systemic glucocorticoid with broad anti-inflammatory and immunosuppressive activity; no specific original indication or Taiwan marketing record is documented in this evidence pack. The TxGNN model predicts it may be effective for **Alopecia Areata**, with **18 clinical trials** and **20 publications** returned by evidence search, though only a limited subset directly and specifically supports corticosteroid use in this indication.
-
----
+Prednisolone is a glucocorticoid, originally used for autoimmune and inflammatory conditions such as Crohn disease, inflammatory bowel disease, adrenocortical insufficiency and acute lymphoblastic leukaemia.
+The TxGNN model predicts it may be effective for **Alopecia Areata**.
+No clinical trials are registered for this indication, but **20 publications** support the direction, including a placebo-controlled RCT and several systematic reviews.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in this evidence pack (no `original_indications` or Taiwan license data available) |
-| Predicted New Indication | Alopecia Areata |
+| Original Indication | Autoimmune disease (the licence records in the compiled data contain no approved indication text) |
+| Predicted New Indication | Alopecia areata |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L2 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data for prednisolone is not available in this evidence pack, and no original approved indication is recorded (Taiwan regulatory status: Not Marketed, 0 registrations). Based on general pharmacological knowledge, prednisolone is a systemic corticosteroid with broad anti-inflammatory and immunosuppressive activity, consistent with its established use across a wide range of autoimmune and inflammatory conditions.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, prednisolone is a systemic glucocorticoid. Its efficacy in autoimmune and inflammatory diseases is well established, and mechanistically it may be applicable to alopecia areata.
 
-Alopecia areata (AA) is a T-cell-mediated autoimmune attack on the hair follicle. Corticosteroids (including prednisolone/methylprednisolone) suppress the perifollicular lymphocytic infiltrate through broad immunosuppressive and anti-inflammatory action, and are already widely used clinically — particularly as pulse therapy — for moderate-to-severe AA. This gives the TxGNN prediction a plausible mechanistic basis.
+Alopecia areata is a T-cell-mediated autoimmune attack on the hair follicle, with collapse of follicular immune privilege. Glucocorticoids suppress T-cell activation and pro-inflammatory cytokine production, which directly targets this pathway. This fits the drug's existing autoimmune uses. One study also suggests that oral pulse steroids lower serum and tissue TNF-α levels in alopecia areata (PMID 30294905).
 
-However, it is worth noting that most large, contemporary Phase 2/3 RCTs identified for AA target newer-mechanism agents such as the JAK inhibitor baricitinib, rather than prednisolone itself. The direct evidence base for prednisolone specifically consists mainly of smaller cohort studies, one Phase 4 trial, and one older placebo-controlled trial, which is reflected in the moderate (L2) evidence level.
-
----
+Practical limits apply. Hair loss often relapses after withdrawal, and cumulative steroid toxicity restricts long-term use. JAK inhibitors are now preferred where available. Prednisolone is therefore best positioned as short-course or pulse therapy, or as an option when JAK inhibitors are unsuitable.
 
 ## Clinical Trial Evidence
 
-The evidence search returned 18 trials for "Prednisolone + Alopecia Areata," but most (SLE trials of JAK inhibitors/biologics, an occipital nerve block technique study, a prostate cancer trial) are not specific to prednisolone in AA and were excluded as low relevance. The trials below were graded most relevant:
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01167946](https://clinicaltrials.gov/study/NCT01167946) | Phase 4 | Completed | 42 | Oral mega-pulse methylprednisolone (higher dose, more frequent pulses) in severe therapy-resistant AA; systemic pulse glucocorticoids are effective in widespread AA but not in totalis/universalis/ophiasic subtypes. |
-| [NCT01017510](https://clinicaltrials.gov/study/NCT01017510) | N/A | Unknown | 20 | Compared Dermojet (needle-free) vs. standard syringe for intralesional corticosteroid injection in AA; supports corticosteroid injection as a conventional AA treatment. |
-| [NCT07101471](https://clinicaltrials.gov/study/NCT07101471) | N/A | Completed | 296 | Observational safety/effectiveness study of tofacitinib in alopecia; participants received tofacitinib with or without adjuvant prednisolone. |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15692475](https://pubmed.ncbi.nlm.nih.gov/15692475/) | 2005 | RCT | J Am Acad Dermatol | First randomized, placebo-controlled trial of oral pulse prednisolone therapy in AA. |
-| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | Review (Cochrane) | Cochrane Database Syst Rev | Network meta-analysis of AA treatments, including immunosuppressants such as corticosteroids. |
-| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Review | Dermatol Pract Concept | Review of corticosteroid pulse therapy efficacy, relapse rates, side effects, and prognostic factors in AA. |
-| [30191561](https://pubmed.ncbi.nlm.nih.gov/30191561/) | 2019 | Review | Australas J Dermatol | Systematic review of systemic treatments (including corticosteroids) for AA, totalis, and universalis. |
-| [41243342](https://pubmed.ncbi.nlm.nih.gov/41243342/) | 2025 | Review | J Dermatolog Treat | Dexamethasone oral mini-pulse achieved durable remission in severe AA when JAK inhibitors were not an option. |
-| [35986630](https://pubmed.ncbi.nlm.nih.gov/35986630/) | 2022 | Cohort | Dermatol Ther | Retrospective comparison of methylprednisolone alone vs. methylprednisolone + methotrexate in extensive AA. |
-| [28140540](https://pubmed.ncbi.nlm.nih.gov/28140540/) | 2017 | Cohort | J Dtsch Dermatol Ges | Sequential high- then low-dose systemic corticosteroid therapy in severe childhood AA; good initial response, relapse common after discontinuation. |
-| [21572877](https://pubmed.ncbi.nlm.nih.gov/21572877/) | 2009 | Cohort | Dermatoendocrinol | Medium-dose prednisolone pulse therapy effective in early-stage AA, but significant side effects led to treatment discontinuation in some patients. |
-| [22426909](https://pubmed.ncbi.nlm.nih.gov/22426909/) | 2012 | Case Series | Saudi Med J | Oral mega-pulse methylprednisolone in severe therapy-resistant AA (literature counterpart to trial NCT01167946). |
-| [30294905](https://pubmed.ncbi.nlm.nih.gov/30294905/) | 2019 | Mechanistic | J Cosmet Dermatol | Changes in serum/tissue TNF-α levels proposed as a possible mechanism of oral pulse steroid action in AA. |
-
----
+| [15692475](https://pubmed.ncbi.nlm.nih.gov/15692475/) | 2005 | RCT | J Am Acad Dermatol | Placebo-controlled study of oral pulse prednisolone in alopecia areata |
+| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | Network meta-analysis | Cochrane Database Syst Rev | Compares treatments for alopecia areata, including immunosuppressants, hair growth stimulants and contact immunotherapy |
+| [30191561](https://pubmed.ncbi.nlm.nih.gov/30191561/) | 2019 | Systematic review | Australas J Dermatol | Evidence for systemic treatments in alopecia areata, totalis and universalis; efficacy varies |
+| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Review | Dermatol Pract Concept | Efficacy, relapse rates, side effects and prognostic factors of corticosteroid pulse therapy |
+| [36461625](https://pubmed.ncbi.nlm.nih.gov/36461625/) | 2023 | Review | Pediatr Dermatol | Dosing regimens and side effects of pulse corticosteroids in children |
+| [21572877](https://pubmed.ncbi.nlm.nih.gov/21572877/) | 2009 | Cohort | Dermato-endocrinology | Medium-dose prednisolone pulse therapy appears effective early on, but side effects may lead to discontinuation |
+| [28140540](https://pubmed.ncbi.nlm.nih.gov/28140540/) | 2017 | Cohort | J Dtsch Dermatol Ges | Sequential high- then low-dose steroids in severe childhood alopecia areata |
+| [32779249](https://pubmed.ncbi.nlm.nih.gov/32779249/) | 2020 | Retrospective study | J Eur Acad Dermatol Venereol | Azathioprine, methotrexate and cyclosporine as steroid-sparing agents in 138 patients with chronic disease |
+| [41243342](https://pubmed.ncbi.nlm.nih.gov/41243342/) | 2025 | Case report | J Dermatol Treat | Durable remission with dexamethasone oral mini-pulse when JAK inhibitors were unsuitable |
+| [30294905](https://pubmed.ncbi.nlm.nih.gov/30294905/) | 2019 | Mechanistic study | J Cosmet Dermatol | Changes in TNF-α levels as a possible mechanism of oral pulse steroids |
 
 ## India Market Information
 
-No marketing authorizations for Prednisolone are on record in this dataset — status is **Not Marketed** with **0 registrations**.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 152780 | Nisolone 5mg Tablet | Strip of 10 tablets | Not specified in the data |
+| 174223 | Pred 10mg Tablet | Strip of 10 tablets | Not specified in the data |
+| 161855 | Omnacortil 30 Tablet DT | Strip of 10 dispersible tablets | Not specified in the data |
+| 99146 | GB Pred AC Eye Drop | Bottle of 5 ml eye drop | Not specified in the data |
+| 39969 | Ceruclean Drop | Packet of 10 ml drop | Not specified in the data |
 
----
+There are 20 valid single-ingredient licences in total, mostly oral tablets, plus eye and ear/other drops.
 
 ## Safety Considerations
 
-**Drug Interactions**: The DDI database records **753 total documented interactions** for Prednisolone (source: DDInter). Of the 20-item sample returned, most are Moderate-severity (e.g., NSAIDs such as ibuprofen/ketorolac, beta-agonists, acarbose, acetazolamide, nifedipine, ethinylestradiol, various biologics); **Adalimumab is flagged as a Major-level interaction**. Given the size of the full interaction set, a complete review against any concomitant medication list is recommended before clinical use.
+**Drug Interactions**: The data compiled for this report list 753 interacting drugs. Examples:
+- **Major**: adalimumab
+- **Moderate**: zidovudine, isotretinoin, acarbose, acebutolol, acetazolamide, ketorolac, nifedipine, ibuprofen, ethinylestradiol, butalbital, albiglutide, aldesleukin, alemtuzumab, aliskiren, tetanus toxoid vaccine
+- **Minor**: formoterol, salbutamol
 
-No TFDA label warnings or contraindications are available in this evidence pack for other safety domains — please refer to the package insert for full safety information.
+**Disease-level contraindication signals (knowledge graph, not label text)**: hypertension, epilepsy, hyperglycaemia, congestive heart failure, herpes simplex keratitis, measles, porphyria, certain urea cycle disorders (e.g., citrullinemia, hyperargininemia) and pituitary hormone deficiencies.
 
----
+Literature also notes relapse after withdrawal and cumulative steroid toxicity. For complete warnings, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Clinical experience with corticosteroid pulse therapy (including a Phase 4 trial and an older placebo-controlled RCT) supports prednisolone/methylprednisolone activity in moderate-to-severe AA, but most large contemporary RCTs in this space target newer JAK-inhibitor agents rather than prednisolone itself, and no Taiwan-specific regulatory or MOA data are currently available — placing this candidate at Evidence Level L2 / Decision Stage S2.
+A placebo-controlled RCT, multiple cohort studies and systematic reviews support pulse corticosteroids in alopecia areata, and the mechanism is plausible. However, no registered trials were found, relapse after withdrawal is common, and JAK inhibitors are preferred where available.
 
 **To proceed, the following is needed:**
-- TFDA-approved label / package insert (warnings and contraindications) — currently a **Blocking** gap that prevents initial safety assessment (S1)
-- Confirmed mechanism-of-action data via DrugBank API (**High**-severity gap)
-- Documentation of prednisolone's original approved indication(s) and Taiwan market/license status
-- Route and dosing compatibility assessment specific to AA (currently unassessed/pending)
-- Full 753-entry DDI review for indication-relevant contraindicated combinations
+- Package insert warnings and contraindications from the Indian regulator (currently missing, and blocking safety screening)
+- Detailed mechanism of action data
+- Review of the primary trial data to confirm effect size and relapse rates
+- A pulse-dosing protocol with monitoring for blood pressure, glucose, infection and bone health, and consideration of steroid-sparing agents
+- Confirmation of approved indication text for the Indian licences
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

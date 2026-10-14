@@ -2,7 +2,7 @@
 layout: default
 title: Pidotimod
 parent: Model Prediction Only (L5)
-nav_order: 662
+nav_order: 669
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pidotimod: From Unspecified Original Indication to Osteoarthritis
+# Pidotimod: From Immune Modulation (Original Indication Not Specified) to Osteoarthritis
 
 ## One-Sentence Summary
 
-The evidence pack does not record Pidotimod's original approved indication or mechanism of action (both flagged as data gaps). The TxGNN model predicts potential efficacy for **Osteoarthritis**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the pack's own mechanistic review flags it as likely graph noise rather than a biologically grounded signal.
+Pidotimod is a synthetic dipeptide immunomodulator that is marketed in India, but the data compiled for this report do not specify its approved indication.
+The TxGNN model predicts it may be effective for **osteoarthritis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+This is a computational prediction only and should be treated as a hypothesis.
 
 ---
 
@@ -41,47 +43,45 @@ The evidence pack does not record Pidotimod's original approved indication or me
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this evidence pack (no licenses or indication text available) |
+| Original Indication | Not specified (no approved indication text in the compiled license data) |
 | Predicted New Indication | Osteoarthritis |
 | TxGNN Prediction Score | 98.56% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 9 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for Pidotimod is not available in this evidence pack (marked as a High-severity data gap), and no original indication is on record. Without this information, an independent mechanistic case for repurposing cannot be constructed from the pack alone.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on general knowledge, pidotimod is an immunomodulator that enhances innate and adaptive immunity, through dendritic cell maturation, Th1 polarization, and upregulation of TLR2.
 
-The evidence pack does include the model's own mechanistic assessment, and it is not favorable: for osteoarthritis, the note states that OA is primarily driven by cartilage degeneration and low-grade inflammation, which has no direct connection to Pidotimod's known immunostimulatory activity, and that the high TxGNN score likely reflects an indirect link through inflammation/immune nodes in the knowledge graph rather than genuine mechanistic relevance.
+A possible link to osteoarthritis would be the modulation of low-grade joint inflammation. However, this link is speculative. Immune stimulation is not an established treatment approach for osteoarthritis, and the direction of effect is unknown.
 
-Notably, several of the other top-10 predicted indications in this pack (rheumatoid arthritis, gout) are flagged by the same rationale as mechanistically *contradictory* — Pidotimod is an immune stimulant, whereas these conditions require immune suppression or anti-inflammatory action. This pattern across the candidate list reinforces that the current top prediction should be treated as a hypothesis-generating signal only, not a mechanistically supported lead.
+The high TxGNN score (98.56%) reflects proximity in a knowledge graph and is not evidence of efficacy. Several other top predictions are rare skeletal dysplasias (e.g., pseudoachondroplasia, brachyolmia) with no plausible mechanistic connection to pidotimod, which suggests the ranking partly reflects graph-proximity artifacts. A related entry, "osteoarthritis susceptibility" (score 98.39%), is a genetic susceptibility phenotype and likely overlaps with the osteoarthritis prediction.
 
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+Other predictions follow the same pattern. Rheumatoid arthritis (98.22%) raises a theoretical safety concern, because immune stimulation in autoimmune disease could worsen it. Gout (97.73%) has only a loose conceptual link through innate immune activation, and the direction of effect could be harmful.
 
 ---
 
 ## India Market Information
 
-Pidotimod is not marketed in Taiwan/India per this evidence pack (0 registrations, no license records available), so no authorization table can be produced.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 111167 | Imudot 800 Tablet | Strip of 10 tablets | Not specified |
+| 107837 | Immulina Liquid | Bottle of 200 ml oral liquid | Not specified |
+| 204403 | Stimmune 800 Tablet | Strip of 10 tablets | Not specified |
+| 174831 | Pidotimune 800 Tablet | Strip of 10 tablets | Not specified |
+| 108162 | Immulina Liquid | Bottle of 100 ml oral liquid | Not specified |
+
+Nine valid single-ingredient registrations exist in total (none cancelled); the five above are shown as examples. Other registrations include Imudot 400, Pidotimune 400, Immulina 400, and Immulina 800 tablets.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug interaction data are available in this evidence pack — TFDA warning/contraindication data is flagged as a **Blocking** data gap, and the DDI database query returned no results.
+Please refer to the package insert for safety information.
 
 ---
 
@@ -90,14 +90,15 @@ Please refer to the package insert for safety information. No key warnings, cont
 **Decision: Hold**
 
 **Rationale:**
-- The prediction is TxGNN-model-only (L5), with zero clinical trials or literature support, and the pack's own mechanistic review does not find a plausible biological rationale for osteoarthritis.
-- A Blocking data gap on TFDA warnings/contraindications means safety cannot even complete the S1 initial screen, and the drug is not currently marketed in Taiwan/India.
+The osteoarthritis prediction is supported only by the TxGNN model score, with no clinical trials, no literature, and no confirmed mechanism of action (Evidence Level L5). Pidotimod is already marketed in India, which lowers barriers to later investigation, but the data do not justify advancing it now.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label data (warnings, contraindications) to clear the Blocking data gap
-- Confirmed mechanism of action and original approved indication(s) for Pidotimod
-- Preclinical or observational evidence specifically linking Pidotimod to osteoarthritis before considering trial-stage investment
-- Re-screening of lower-ranked candidates (e.g., rheumatoid arthritis, gout) is not recommended given documented mechanistic contradiction with Pidotimod's immunostimulatory action
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data for pidotimod
+- Confirmation of the approved indications for the registered products
+- A literature and trial search specific to pidotimod in osteoarthritis and inflammatory joint conditions
+- Preclinical or mechanistic evidence for a role in osteoarthritis
+- Safety assessment of immune stimulation in patients with autoimmune or inflammatory joint disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

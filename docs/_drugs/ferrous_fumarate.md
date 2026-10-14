@@ -2,7 +2,7 @@
 layout: default
 title: Ferrous Fumarate
 parent: Model Prediction Only (L5)
-nav_order: 347
+nav_order: 350
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Ferrous Fumarate: From Iron-Deficiency Anemia to Non-syndromic Esophageal Malformation
+# Ferrous Fumarate: From Iron Deficiency Anemia to Non-Syndromic Esophageal Malformation
 
 ## One-Sentence Summary
 
-Ferrous fumarate is an oral iron salt conventionally used to treat iron-deficiency anemia (this original indication is general pharmacological knowledge — the evidence pack itself contains no confirmed indication text, as the drug has no India/Taiwan license record). The TxGNN model predicts a possible link to **non-syndromic esophageal malformation**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags the link as mechanistically implausible.
+Ferrous fumarate is an oral iron salt, originally used to treat iron deficiency anemia and related anemias.
+The TxGNN model predicts it may be effective for **non-syndromic esophageal malformation**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Iron-deficiency anemia (general pharmacological knowledge; not present in evidence pack — no license record) |
+| Original Indication | Iron deficiency anemia and related anemias (folic acid deficiency anemia, anemia of prematurity, hypochromic anemia, microcytic anemia, deficiency anemia); acne is also listed in the knowledge graph. The India license record contains no approved indication text. |
 | Predicted New Indication | Non-syndromic esophageal malformation |
-| TxGNN Prediction Score | 99.49% (rank #8604 among candidates) |
+| TxGNN Prediction Score | 99.49% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (MOA marked as data gap). Based on known pharmacology, ferrous fumarate supplies ferrous iron to support hemoglobin/heme synthesis and is used to correct iron-deficiency states — a metabolic replacement mechanism, not a developmental or structural one.
+Currently, detailed mechanism of action data is not available. Based on known information, ferrous fumarate is an oral iron salt used to replenish iron stores in iron deficiency anemias. Its efficacy in anemia is well established, but no mechanistic route to the predicted indication has been identified.
 
-Non-syndromic esophageal malformation (e.g., esophageal atresia / tracheoesophageal fistula) is a congenital structural defect arising during embryonic foregut development. There is no established biological pathway by which iron repletion would influence esophageal morphogenesis, and no drug is known to reverse a structural malformation pharmacologically.
+Non-syndromic esophageal malformations (for example esophageal atresia or tracheoesophageal fistula) are congenital structural defects arising from abnormal embryonic foregut development. Iron supplementation is not known to correct or treat such defects.
 
-The model's own rationale for this candidate states that the high TxGNN score most likely reflects sparse or spuriously co-occurring graph nodes (e.g., "iron/anemia" and "congenital/pediatric" clusering together in the knowledge graph) rather than a genuine mechanistic signal. Combined with the complete absence of clinical, preclinical, or literature evidence, this prediction should be treated as a low-confidence model artifact rather than a credible repurposing hypothesis at this stage.
+The very high TxGNN score (99.49%) is a knowledge-graph prediction only. It most likely reflects network proximity or shared gene/pathway associations rather than a pharmacologically plausible effect. Oral iron can also irritate the esophagus and gastrointestinal tract, which argues against benefit in a structurally abnormal esophagus. This prediction should therefore be treated with considerable caution.
 
 ## Clinical Trial Evidence
 
@@ -65,33 +67,45 @@ Currently no related literature available.
 
 ## India Market Information
 
-Ferrous fumarate has no license records in this evidence pack — market status is "Not Marketed" with 0 registrations on file. No product/authorization details are available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 151094 | New CoeHB Plus Tablet (Koye Pharmaceuticals Pvt Ltd) | Strip of 10 tablets (oral) | Not stated in the license record |
 
 ## Safety Considerations
 
-**Drug Interactions** (80 total interactions on file; representative entries below):
-- **Proton pump inhibitors / acid suppressants** (Moderate): Omeprazole, Esomeprazole, Lansoprazole, Dexlansoprazole, Pantoprazole — reduced gastric acidity may impair iron absorption.
-- **Tetracycline-class antibiotics** (Moderate): Doxycycline, Tetracycline, Minocycline — mutual absorption reduction via chelation.
-- **Fluoroquinolones** (Moderate): Levofloxacin — chelation reduces antibiotic absorption.
-- **Antacids / mineral salts** (Moderate): Magnesium oxide, Calcium carbonate, Aluminum hydroxide, Magaldrate, Sodium sulfate, Triethylenetetramine — reduced iron absorption.
-- **Pancrelipase** (Moderate).
-- **H2-receptor antagonist** (Minor): Cimetidine.
-- **Zinc salts** (Minor): Zinc sulfate, Zinc acetate — competitive absorption interference.
+- **Contraindications (from knowledge-graph associations, not label text)**: The following conditions are linked to ferrous fumarate as contraindications in the knowledge graph:
+  - Iron overload and metabolism: hereditary hemochromatosis, hemosiderosis, iron metabolism disease, Wilson disease
+  - Blood disorders: sickle cell anemia, hereditary persistence of fetal hemoglobin
+  - Porphyrias: inherited porphyria, porphyrin metabolism disease, porphyria
+  - Gastrointestinal, liver and kidney: peptic ulcer disease, liver disease, gallbladder disease, kidney disease, pyoureter
+  - Metabolic and endocrine: diabetes mellitus, diabetic ketoacidosis, hyperglycemia, hyperparathyroidism, osteitis fibrosa, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease, potassium deficiency disease, primary hyperoxaluria
+  - Cardiovascular and psychiatric: hypertension and hypertensive disorder, anxiety disorder, neurotic disorder, dysthymic disorder
+  - Other: sarcoidosis
 
-Key warnings and contraindications are not available in the evidence pack; please refer to the package insert for this information once obtained.
+  These associations have not been verified against the package insert.
+
+- **Drug Interactions**: 80 interactions were identified in total. The main ones are:
+  - Moderate:
+    - Proton pump inhibitors (omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole, rabeprazole), which reduce gastric acidity and iron absorption
+    - Tetracycline-class antibiotics (tetracycline, doxycycline, minocycline) and levofloxacin
+    - Antacids and minerals (calcium carbonate, magnesium oxide, aluminum hydroxide, magaldrate, sodium sulfate)
+    - Pancrelipase and triethylenetetramine
+  - Minor: cimetidine, zinc sulfate, zinc acetate
+
+Package insert warnings and contraindications are not available, so please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L5 (model prediction only) with zero supporting clinical trials or literature, and the drug's own mechanistic rationale finds no plausible biological link between iron repletion and a congenital structural esophageal defect. A blocking data gap (missing TFDA/label safety data) also prevents any S1 safety pre-assessment.
+The prediction has no clinical trial or literature support (Evidence Level L5), and no plausible mechanistic link between iron supplementation and a congenital esophageal structural defect was identified. The high model score alone does not justify advancing, and oral iron may irritate the esophagus.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label data — warnings and contraindications (blocking gap, DG001)
-- Confirmed mechanism of action documentation (DG002)
-- Any preclinical or mechanistic evidence linking iron metabolism to esophageal/foregut development, to justify further investment
-- Reassessment of the TxGNN candidate ranking (#8604) to confirm this is not a low-priority artifact before allocating further review resources
+- Package insert warnings and contraindications from the India Pharma source (a blocking gap for safety screening)
+- Mechanism of action data for ferrous fumarate (e.g., from DrugBank)
+- Any preclinical or clinical evidence linking iron-related pathways to esophageal development
+- A route-compatibility assessment for the predicted indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

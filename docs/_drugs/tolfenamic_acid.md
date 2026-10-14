@@ -2,7 +2,7 @@
 layout: default
 title: Tolfenamic Acid
 parent: Model Prediction Only (L5)
-nav_order: 837
+nav_order: 844
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,11 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tolfenamic Acid: From Acute Migraine (International Use) to Headache Disorder
+# Tolfenamic Acid: From an Unspecified Labelled Indication to Headache Disorder
 
 ## One-Sentence Summary
 
-> Tolfenamic acid is a fenamate NSAID with no current marketing authorization in Taiwan; internationally (e.g., UK) it is approved for acute migraine treatment.
-> The TxGNN model predicts it may also be effective for **Headache Disorder** (broadly),
-> supported by **20 published studies** — including multiple double-blind RCTs — though **no registered clinical trials** were found for this specific indication.
+Tolfenamic acid is an NSAID marketed in India as Clotan Capsule. The approved indication text is not available in the data compiled for this report, but its published use is in migraine and rheumatic disease. The TxGNN model predicts it may be effective for **headache disorder**, with **no registered clinical trials** but **19 publications** (including several randomised double-blind studies in migraine) supporting this direction.
 
 ---
 
@@ -43,29 +41,31 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally registered in Taiwan; internationally approved for acute migraine (UK) |
-| Predicted New Indication | Headache Disorder |
+| Original Indication | Not stated in the available India licence data |
+| Predicted New Indication | Headache disorder |
 | TxGNN Prediction Score | 99.74% |
-| Evidence Level | L2 (multiple historical double-blind RCTs in literature; no registered clinical trials) |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+| Evidence Level | L1 (see note below) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
+| Recommended Decision | Proceed with Guardrails |
+
+*Note on evidence level:* The literature includes several randomised double-blind trials in migraine (1979–2004), but none is a registered Phase 3 trial, so L1 rests on published RCTs rather than on the strict "two completed Phase 3 RCTs" definition. No clinical trial registry records are available.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed DrugBank mechanism-of-action data is currently a data gap. Based on available pharmacology literature, tolfenamic acid is an anthranilic acid (fenamate) derivative NSAID that acts as a potent inhibitor of prostaglandin biosynthesis and has also been reported to inhibit leukotriene synthesis. DrugBank pharmacology data additionally lists an interaction with **AKR1C3** (aldo-keto reductase family 1 member C3), an enzyme involved in prostaglandin F and steroid metabolism, consistent with the drug's anti-inflammatory pharmacology.
+Detailed mechanism-of-action data is not available in the compiled data. Based on known information, tolfenamic acid is an NSAID of the fenamate class. It inhibits cyclooxygenase and reduces prostaglandin synthesis, and it has also been reported to affect leukotriene pathways.
 
-This mechanism directly supports the drug's already-established international use in acute migraine: prostaglandins are implicated in migraine-related vasodilation, sensitization of nociceptors, and hyperalgesia, and multiple older RCTs show tolfenamic acid performing comparably to ergotamine, sumatriptan, and paracetamol in acute attacks, and to propranolol/pizotifen in prophylaxis.
+Prostaglandins sensitise nociceptors and are involved in platelet aggregation, vasodilatation and neurogenic inflammation, all of which are implicated in migraine. This makes a prostaglandin-inhibiting drug a plausible treatment for headache disorders.
 
-The TxGNN prediction of "Headache Disorder" is therefore largely a restatement/extension of an indication the molecule already has strong real-world and trial support for outside Taiwan, rather than a mechanistically novel repurposing hypothesis. The main gap is not scientific plausibility but the absence of Taiwan-specific regulatory data (label, market authorization) needed to act on it locally.
+One practical consideration is that absorption of oral tolfenamic acid is delayed during a migraine attack, probably because of gastric stasis. Combination with metoclopramide has been studied to address this.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered (no entries found in ClinicalTrials.gov or ICTRP for this indication).
+Currently no related clinical trials registered.
 
 ---
 
@@ -73,43 +73,56 @@ Currently no related clinical trials registered (no entries found in ClinicalTri
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [2375249](https://pubmed.ncbi.nlm.nih.gov/2375249/) | 1990 | RCT (double-blind crossover) | Acta Neurol Scand | Tolfenamic acid 200/400 mg vs. paracetamol 500/1000 mg in acute common migraine |
-| [3727918](https://pubmed.ncbi.nlm.nih.gov/3727918/) | 1986 | RCT (double-blind crossover) | Acta Neurol Scand | Tolfenamic acid vs. propranolol vs. placebo for migraine prophylaxis; both active drugs reduced attack frequency/duration |
-| [7051739](https://pubmed.ncbi.nlm.nih.gov/7051739/) | 1982 | RCT (double-blind crossover) | Acta Neurol Scand | Tolfenamic acid significantly better than placebo for migraine prophylaxis (attack frequency, duration, vomiting) |
-| [7976233](https://pubmed.ncbi.nlm.nih.gov/7976233/) | 1994 | RCT (double-blind crossover) | Acta Neurol Scand | Tolfenamic acid 100 mg TID vs. propranolol 40 mg TID for migraine prophylaxis in 76 patients |
-| [9563211](https://pubmed.ncbi.nlm.nih.gov/9563211/) | 1998 | RCT (double-blind, parallel-group) | Headache | Tolfenamic acid rapid release vs. oral sumatriptan for acute migraine; comparable efficacy in 141 patients |
-| [12474702](https://pubmed.ncbi.nlm.nih.gov/12474702/) | 2002 | RCT (double-blind, parallel-group) | Medicina (Kaunas) | Tolfenamic acid 300 mg vs. pizotifen 1.5 mg for migraine prevention in 192 patients |
-| [89390](https://pubmed.ncbi.nlm.nih.gov/89390/) | 1979 | RCT (double-blind crossover) | Lancet | Tolfenamic acid vs. ergotamine vs. aspirin vs. placebo in 160 migraine attacks; efficacy comparable to ergotamine with fewer side effects |
-| [6984358](https://pubmed.ncbi.nlm.nih.gov/6984358/) | 1982 | Clinical study | Cephalalgia | Tolfenamic acid combined with caffeine, metoclopramide, or pyridoxine in acute migraine (60 attacks) |
-| [6394143](https://pubmed.ncbi.nlm.nih.gov/6394143/) | 1984 | Clinical study | Cephalalgia | Tolfenamic acid, metoclopramide, caffeine, and combinations tested in migraine attacks |
-| [7816790](https://pubmed.ncbi.nlm.nih.gov/7816790/) | 1994 | Review | Pharmacology & Toxicology | Review of tolfenamic acid in acute and prophylactic migraine treatment, prostaglandin hypothesis |
+| [6394143](https://pubmed.ncbi.nlm.nih.gov/6394143/) | 1984 | RCT | Cephalalgia | Tolfenamic acid, metoclopramide, caffeine and their combinations tested in migraine attacks |
+| [2375249](https://pubmed.ncbi.nlm.nih.gov/2375249/) | 1990 | RCT | Acta Neurol Scand | Double-blind crossover comparison of tolfenamic acid (200 or 400 mg) and paracetamol in migraine without aura |
+| [3727918](https://pubmed.ncbi.nlm.nih.gov/3727918/) | 1986 | RCT | Acta Neurol Scand | Tolfenamic acid and propranolol both significantly reduced attack number and duration versus placebo in prophylaxis |
+| [9563211](https://pubmed.ncbi.nlm.nih.gov/9563211/) | 1998 | RCT | Headache | Rapid-release tolfenamic acid had an effect comparable to sumatriptan in acute migraine (141 patients) |
+| [12474702](https://pubmed.ncbi.nlm.nih.gov/12474702/) | 2002 | RCT | Medicina (Kaunas) | Tolfenamic acid 300 mg compared with pizotifen for migraine prevention (192 patients) |
+| [7976233](https://pubmed.ncbi.nlm.nih.gov/7976233/) | 1994 | RCT | Acta Neurol Scand | Tolfenamic acid versus propranolol for prophylaxis in 76 patients; both drugs significantly effective |
+| [89390](https://pubmed.ncbi.nlm.nih.gov/89390/) | 1979 | RCT | Lancet | As effective as ergotamine in reducing attack duration and intensity, with less nausea |
+| [7816790](https://pubmed.ncbi.nlm.nih.gov/7816790/) | 1994 | Review | Pharmacol Toxicol | Review of tolfenamic acid in acute and prophylactic migraine treatment |
+| [10234467](https://pubmed.ncbi.nlm.nih.gov/10234467/) | 1999 | Retrospective study | Cephalalgia | Adding tolfenamic acid to sumatriptan decreased migraine recurrence |
+| [15222892](https://pubmed.ncbi.nlm.nih.gov/15222892/) | 2004 | Randomised open-label | BMC Neurol | Rizatriptan alone versus combined with rofecoxib or tolfenamic acid for recurrence |
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-Tolfenamic acid currently holds **no marketing authorizations in Taiwan** (0 registrations, market status: Not marketed/Not Marketed). No license records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 34436 | Clotan Capsule (Torrent Pharmaceuticals Ltd) | Strip of 10 capsules | Not stated in available data |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. TFDA-specific key warnings and contraindications are not yet available (see Data Gaps below); a pharmacology-level target interaction with AKR1C3 (aldo-keto reductase C3) is recorded in DrugBank, but its clinical drug-drug interaction relevance has not been established.
+- **Drug Interactions**: The only recorded interaction entry is a pharmacological target association with AKR1C3 (a human enzyme), not a drug–drug interaction with a defined severity level.
+- **Pharmacokinetic note**: Migraine attacks delay oral absorption of tolfenamic acid.
+- **Long-term tolerability**: A 6-month rheumatic-disease study (600 mg/day) reported mostly mild side effects, mainly diarrhoea and other gastrointestinal disturbances, with some patients stopping treatment.
+
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-Efficacy evidence for headache/migraine is substantial (multiple historical double-blind RCTs vs. placebo, propranolol, pizotifen, sumatriptan, and ergotamine), but the candidate cannot advance to formal safety review (S1) because TFDA label warnings/contraindications are a **Blocking** data gap, and the drug currently has zero marketing authorizations in Taiwan.
+Multiple randomised, double-blind studies show tolfenamic acid is effective in acute and prophylactic migraine treatment, with efficacy comparable to ergotamine, sumatriptan and propranolol. The mechanism is plausible. However, the evidence is largely from the 1980s–1990s, there are no registered trials, and the safety label data are missing.
 
 **To proceed, the following is needed:**
-- TFDA label data (warnings, contraindications) — download and parse official package insert (DG001, Blocking)
-- DrugBank-confirmed mechanism of action (DG002, High) to formally support the mechanistic rationale
-- Classification/tiering of the currently "pending" literature evidence (study type, relevance) to firm up the evidence level
-- Assessment of a regulatory pathway for Taiwan market entry, given current non-marketed status
+- Package insert warnings and contraindications for Clotan Capsule (currently a blocking gap)
+- The approved indication text for the Indian licence
+- Detailed mechanism-of-action data
+- Review of the older RCTs against current migraine trial standards (e.g., current endpoints and comparators)
+- A safety monitoring plan, particularly for gastrointestinal, renal and cardiovascular risks common to NSAIDs
+
+---
+
+## Other Predicted Indications (Brief Note)
+
+Rheumatoid arthritis also has L1-level literature support, including randomised double-blind comparisons with phenylbutazone, aspirin and ibuprofen. It would support symptomatic relief only, not disease modification, and is a candidate for separate evaluation. The other predictions (tendinitis, trigeminal autonomic cephalalgia, myositis variants, fibromyalgia, exostosis, osteoarthritis susceptibility) have no supporting evidence and remain on Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

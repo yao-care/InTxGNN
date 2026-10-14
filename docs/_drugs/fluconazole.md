@@ -2,7 +2,7 @@
 layout: default
 title: Fluconazole
 parent: Model Prediction Only (L5)
-nav_order: 355
+nav_order: 358
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,96 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Fluconazole: From Fungal Infections to Punctate Epithelial Keratoconjunctivitis
+# Fluconazole: From Candidiasis to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Fluconazole is a triazole antifungal agent, primarily used to treat systemic and mucocutaneous fungal infections.
-The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis**,
-but this prediction is currently supported by **0 clinical trials** and **0 publications**, and is based solely on knowledge-graph embedding similarity.
-
----
+Fluconazole is an azole antifungal originally used to treat candidiasis (oral, oesophageal, vulvovaginal, and invasive forms) and cryptococcal meningitis.
+The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the evidence pack (no Taiwan licenses on file); Fluconazole is a known triazole-class antifungal per the mechanistic rationale data |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
-| TxGNN Prediction Score | 99.24% (rank 11,709) |
+| Original Indication | Oral candidiasis, candidiasis, vulvovaginal candidiasis, oesophageal candidiasis, cryptococcal meningitis, candidaemia, disseminated candidiasis |
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis |
+| TxGNN Prediction Score | 99.24% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for this candidate is not available (original_moa: Data Gap). Based on the mechanistic notes in the evidence pack, Fluconazole is a triazole antifungal that inhibits fungal cytochrome P450-dependent 14α-demethylase (lanosterol demethylase), blocking ergosterol synthesis and disrupting fungal cell membrane integrity.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, fluconazole is an azole antifungal that inhibits fungal CYP51 (lanosterol 14-alpha-demethylase) and blocks ergosterol synthesis. Its efficacy in superficial and invasive fungal infections is established.
 
-Punctate epithelial keratoconjunctivitis is, in the large majority of cases, caused by viral infection (e.g., adenovirus, herpes simplex virus), dry eye disease, or immune-mediated inflammation; only a small subset of cases (superficial forms of fungal/candidal keratitis) are fungal in origin. Fluconazole's antifungal mechanism therefore has no direct relevance to the viral or inflammatory etiologies that account for most cases of this condition.
+The link to the new indication is weak. Punctate epithelial keratoconjunctivitis is most often viral (for example adenovirus) or related to dry eye, drug toxicity, or other non-fungal causes. An antifungal mechanism therefore has no clear connection to the typical cause. A plausible link would exist only for a fungal subset of keratoconjunctivitis, and the supplied data do not support that.
 
-The high TxGNN score (99.24%) most likely reflects structural proximity between Fluconazole and other anti-infective or ophthalmic agents within the knowledge-graph embedding space, rather than a demonstrated pathophysiological link. Given the missing MOA data and the empty original-indication record, this mechanistic rationale should be treated as weak and speculative pending further evidence.
-
----
+The high score (0.992) most likely reflects closeness in the knowledge graph to other ocular or fungal infection indications rather than a validated mechanism. The prediction should be regarded as a hypothesis only.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
----
+## India Market Information
 
-## Taiwan Market Information
+Fluconazole is marketed in India with 20 valid single-ingredient registrations and no cancelled ones. The approved indication text is not available for these registrations. The main authorizations are:
 
-Fluconazole currently has no marketing license on record in Taiwan (market_status: Not marketed, total_licenses: 0). No registration entries are available to summarize.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 234535 | V Can 150mg Capsule | Strip of 1 capsule | Pegasus Farmaco India Pvt Ltd |
+| 87481 | Flucowin Tablet | Strip of 1 tablet | Makers Laboratories Ltd |
+| 146110 | M Fluk 150mg Tablet | Strip of 10 tablets | Madhav Biotech Pvt. Ltd |
+| 89362 | Flucar 200 Capsule | Strip of 4 capsules | Cartel Laboratories |
+| 39101 | Cozen 150mg Tablet | Strip of 1 tablet | Zenith Healthcare Ltd |
 
----
+All listed forms are oral (capsules and tablets). No topical or ophthalmic fluconazole product appears among the registrations, so route compatibility with an eye indication would need to be assessed separately.
 
 ## Safety Considerations
 
-**Drug Interactions**: A total of 783 documented interactions were found. Notable entries include:
+- **Contraindications (from knowledge graph, not label text)**: Long QT syndrome, familial long QT syndrome, kidney disease, pyoureter, liver disease, gallbladder disease.
+- **Drug Interactions**: 783 interactions were recorded. Examples:
+  - **Major**: Chlorpropamide.
+  - **Moderate**: Famotidine, rabeprazole, omeprazole, dexlansoprazole, hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide, loperamide, aprepitant, saxagliptin, bisacodyl.
+  - **Minor**: Amphotericin B, clarithromycin.
 
-| Interacting Drug | Severity Level |
-|---|---|
-| Chlorpropamide | Major |
-| Famotidine | Moderate |
-| Rabeprazole | Moderate |
-| Hydrocortisone | Moderate |
-| Loperamide | Moderate |
-| Aprepitant | Moderate |
-| Triamcinolone | Moderate |
-| Omeprazole | Moderate |
-| Dexamethasone | Moderate |
-| Betamethasone | Moderate |
-| Budesonide | Moderate |
-| Saxagliptin | Moderate |
-| Dexlansoprazole | Moderate |
-| Clarithromycin | Minor |
-| Amphotericin B | Minor |
-
-Key warnings and contraindications are not currently available in the evidence pack (flagged as a Blocking data gap — see Conclusion).
-
----
+Please refer to the package insert for warnings and label contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate is at evidence level L5 — a model prediction with no supporting clinical trials or literature, and a mechanistic link assessed as weak given the predominantly non-fungal etiology of the target condition. In addition, TFDA label warnings/contraindications are marked as a **Blocking** data gap (DG001), which by itself prevents this candidate from entering the S1 safety pre-screening stage.
+The prediction is supported only by the model score, with no clinical trials or literature. The antifungal mechanism does not fit the usual non-fungal causes of this condition, and no ophthalmic fluconazole product is registered in India.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — required to clear the Blocking gap before any safety review
-- Confirmed mechanism of action (MOA) data from DrugBank
-- Targeted literature/clinical trial search for antifungal use in punctate epithelial keratoconjunctivitis or fungal keratitis, to test whether any subset of the target population (fungal-etiology cases) is mechanistically relevant
-- Route/formulation compatibility assessment — the predicted indication is ophthalmic, and available Fluconazole formulations/routes have not yet been confirmed as suitable
+- Mechanism of action data and a clearer mechanistic rationale for the proposed indication
+- Literature and trial searches for fluconazole in fungal keratitis or keratoconjunctivitis, to find any supporting subset
+- Package insert warnings and contraindications from the India regulatory source, since the safety screen cannot proceed without them
+- Assessment of route and formulation (oral versus ophthalmic) for an ocular use
+- Review of the knowledge-graph contraindications (QT prolongation, renal and hepatic disease) against a possible ocular use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

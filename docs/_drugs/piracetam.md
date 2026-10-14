@@ -2,7 +2,7 @@
 layout: default
 title: Piracetam
 parent: Model Prediction Only (L5)
-nav_order: 670
+nav_order: 677
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Piracetam: From Myoclonus to Osteoarthritis
+# Piracetam: From an Unspecified Original Indication to Osteoarthritis
 
 ## One-Sentence Summary
 
-Piracetam is a cyclic GABA derivative (nootropic) that is approved in the UK for myoclonus (in combination with other anti-myoclonic therapies) and used in several European, Asian, and South American countries for cognitive/circulatory indications, but it is **not marketed in Taiwan** and not FDA-approved. The TxGNN model predicts it may be effective for **Osteoarthritis**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model-embedding signal with no external validation.
-
----
+Piracetam is a cyclic GABA derivative marketed in India as a single-ingredient product, and the data compiled for this report do not list an approved indication for it.
+The TxGNN model predicts it may be effective for **osteoarthritis**, but **no clinical trials and no publications** currently support this prediction.
+It rests on model output alone, so the recommended decision is **Hold**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not marketed in Taiwan (0 licenses); internationally approved for myoclonus (UK), per DrugBank pharmacology record |
+| Original Indication | Not stated in the available licence data |
 | Predicted New Indication | Osteoarthritis |
 | TxGNN Prediction Score | 98.45% |
-| Evidence Level | L5 (model prediction only) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Piracetam's `original_moa` field is a formal data gap, but the DrugBank pharmacology record captures its known target profile: it binds the AMPA-type ionotropic glutamate receptor subunits **GluA1–GluA4** (genes GRIA1–GRIA4), consistent with its established nootropic/anti-myoclonic effects. Its clinically documented actions center on neuronal membrane fluidity, red blood cell deformability, and microcirculation — it is used for myoclonus and, in some jurisdictions, for cognitive and vascular indications.
+Currently, detailed mechanism of action data is not available. Piracetam is described as a cyclic GABA derivative with putative effects on membrane fluidity and on neuronal and platelet function. Pharmacology records in the compiled data show it linked to the AMPA-type glutamate receptor subunits GluA1, GluA2, GluA3 and GluA4 (GRIA1 to GRIA4). Its best-known uses are cognitive enhancement and, in the UK, adjunctive treatment of myoclonus. None of these relates directly to joint disease.
 
-Osteoarthritis, by contrast, is driven by cartilage degradation, chondrocyte senescence, and local joint inflammation — pathways with no established connection to glutamate-receptor modulation or hemorheology. The model's own rationale is explicit on this point: **"no known mechanistic overlap between piracetam's known pharmacology and osteoarthritis cartilage degeneration or joint inflammation pathways."**
+No mechanistic link between piracetam and osteoarthritis is established in the data. The high score probably reflects proximity in the knowledge graph to other joint and musculoskeletal disease nodes, not a demonstrated biological rationale. The model's other top predictions are rheumatoid arthritis, gout, and several rare skeletal dysplasias. They show the same pattern, and all of them also lack supporting studies. This prediction should be treated as a hypothesis for screening, not as evidence of efficacy.
 
-In short, this is a case where the TxGNN embedding score is high (98.45%, rank 21,123) but is not corroborated by any independent mechanistic, preclinical, or clinical signal. The prediction should be read as a hypothesis-generating signal only, not as evidence of therapeutic plausibility.
+## India Market Information
 
----
+Piracetam has 20 valid single-ingredient registrations in India and none are cancelled. The licence records contain no approved-indication text. Five representative authorisations are listed below.
 
-## Clinical Trial Evidence
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 16967 | Anitam Syrup | Syrup, bottle of 100 ml | Not stated |
+| 157765 | Normalite 800mg Tablet | Tablet, strip of 10 | Not stated |
+| 156443 | Nutam 400mg Capsule | Capsule, strip of 10 | Not stated |
+| 158155 | Neucitam 200mg Injection | Injection, ampoule of 15 ml | Not stated |
+| 175326 | Pirament 800 Tablet | Tablet, strip of 10 | Not stated |
 
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
-
-## Taiwan Market Information
-
-Piracetam is **not marketed in Taiwan** — `total_licenses` = 0, no product registrations on file. No dosage forms or approved indications are available for the local market.
-
----
+Available forms include oral tablets, capsules and syrups, as well as injectables.
 
 ## Safety Considerations
 
-TFDA-specific warnings and contraindications are not currently available (blocking data gap — see Conclusion below). No package-insert-level DDI list was returned; the pharmacology data on file describes piracetam's AMPA-receptor target-binding profile (GluA1–GluA4) rather than drug-drug interactions, so it is reported under mechanism above instead of as a safety warning.
+- **Drug Interactions**: The interaction screen was completed. It returned four pharmacology records, not clinical drug-drug interactions. They show piracetam acting on the AMPA receptor subunits GluA1, GluA2, GluA3 and GluA4, and no interaction severity levels were assigned.
+- **Porphyria**: The prediction list includes hepatic porphyria. Piracetam's safety in porphyria has not been established, so porphyrinogenicity would need to be checked before any further consideration.
 
-> Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for other safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction sits at decision stage S0 with Evidence Level L5 — a TxGNN score alone, with zero supporting clinical trials or literature, and an explicit mechanistic mismatch between piracetam's known glutamatergic/hemorheological activity and osteoarthritis pathophysiology. There is no basis to advance this candidate at this time.
+The prediction for osteoarthritis rests on a model score alone (Evidence Level L5). No clinical trials or literature were found, no mechanistic link is shown, and the original indication and mechanism of action are missing from the data.
 
 **To proceed, the following is needed:**
-- TFDA/manufacturer package insert (warnings, contraindications) — currently a **blocking** data gap (DG001) that prevents entry into the S1 safety pre-screen
-- Confirmed mechanism-of-action documentation beyond the raw pharmacology target list (DG002)
-- Preclinical or observational evidence directly linking piracetam to cartilage/joint inflammation pathways before any clinical exploration is considered
+- Package insert warnings and contraindications from the Indian regulator, which are needed for any safety screening
+- Mechanism of action data (for example from DrugBank) to assess a plausible link to osteoarthritis
+- The approved indications of the Indian products, to define the original indication
+- A systematic search for preclinical or clinical studies of piracetam in osteoarthritis or other joint disease
+- A comparison of the available oral and injectable routes with those needed for osteoarthritis treatment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

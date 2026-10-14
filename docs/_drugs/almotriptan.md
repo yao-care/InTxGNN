@@ -3,14 +3,14 @@ layout: default
 title: Almotriptan
 parent: Moderate Evidence (L3-L4)
 nav_order: 37
-evidence_level: L3
+evidence_level: L4
 indication_count: 3
 ---
 
 # Almotriptan
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,102 +33,90 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Almotriptan is a selective serotonin 5-HT1B/1D receptor agonist (triptan class), approved in multiple countries for the acute treatment of migraine with or without aura in adults.
-The TxGNN model predicts it may be effective for **Migraine with Brainstem Aura**,
-with **0 registered clinical trials** and **19 publications** currently supporting this direction (primarily covering the broader migraine indication).
-
----
+Almotriptan is a triptan (5-HT1B/1D agonist) originally used for the acute treatment of migraine, with or without aura.
+The TxGNN model predicts it may be effective for **migraine with brainstem aura**, but this is mostly an extension within the same migraine family.
+There are **no registered clinical trials** and **19 publications**, none of which tests brainstem aura specifically.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Acute migraine with or without aura (adults) |
-| Predicted New Indication | Migraine with Brainstem Aura |
+|------|------|
+| Original Indication | Migraine disorder (the licence records compiled for this report contain no indication text) |
+| Predicted New Indication | Migraine with brainstem aura |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 6 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on published literature, Almotriptan is a selective agonist of serotonin 5-HT1B and 5-HT1D receptors. It acts by causing cranial vasoconstriction and inhibiting the release of pro-inflammatory neuropeptides from trigeminal nerve terminals, thereby interrupting the cascade of events that produces migraine pain. This mechanism is shared by all drugs in the triptan class.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, almotriptan is a selective 5-HT1B/1D receptor agonist. It acts on trigeminovascular activation and cranial vasodilation, which are involved in migraine attacks.
 
-Migraine with brainstem aura (MBA; formerly called "basilar-type migraine") is a subtype of migraine with aura in which aura symptoms originate from the brainstem — including diplopia, dysarthria, tinnitus, vertigo, and ataxia — followed by headache. Because the underlying trigeminovascular and serotonergic pathophysiology is identical to other forms of migraine with aura, the mechanistic rationale for triptan use extends logically to this subtype. Almotriptan is already FDA-approved for migraine with or without aura, and the 2013 International Headache Society reclassification explicitly removed the prior contraindication language around triptan use in what was then called basilar migraine.
+Migraine with brainstem aura is a subtype of migraine with aura, so the shared pathophysiology makes a mechanistic link plausible. However, this is essentially an extension within the original indication family, not true repurposing. The high TxGNN score probably reflects how close this disease sits to the approved migraine indication, not subtype-specific evidence.
 
-The high TxGNN score (99.98%) likely reflects the knowledge graph's recognition that Almotriptan's existing indication and MBA share the same disease ontology branch (migraine → migraine with aura → migraine with brainstem aura). This is less a "true" repurposing prediction and more an indication-extension signal within the same therapeutic axis — a mechanistically coherent finding that merits specialist guidance before formalising a clinical protocol.
+There is also a caution. Triptans have historically carried cautions or contraindications in brainstem aura (formerly basilar-type migraine) and hemiplegic migraine, because of theoretical concerns about vasoconstriction in the posterior circulation. This is reflected in the knowledge-graph contraindication data below.
 
----
+The other two predictions, atrophoderma vermiculata (score 99.77%) and ulerythema ophryogenesis (score 99.64%), have no credible mechanistic link, no trials and no literature. They are likely artifacts of the knowledge graph and are not pursued here.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Almotriptan in migraine with brainstem aura.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [18302700](https://pubmed.ncbi.nlm.nih.gov/18302700/) | 2008 | RCT | Headache | AEGIS Trial: Early intervention with almotriptan vs placebo significantly reduced functional disability and improved health-related quality of life in acute migraine |
-| [11768838](https://pubmed.ncbi.nlm.nih.gov/11768838/) | 2001 | RCT | Clinical Therapeutics | Dose-finding RCT: subcutaneous almotriptan was well tolerated and efficacious for acute migraine treatment |
-| [18234046](https://pubmed.ncbi.nlm.nih.gov/18234046/) | 2008 | Clinical Study | Headache | Almotriptan effective in both menstrually related and non-menstrually related migraine subtypes; supports broad applicability across migraine variants |
-| [30845850](https://pubmed.ncbi.nlm.nih.gov/30845850/) | 2019 | Review | Expert Review of Neurotherapeutics | 20-year narrative review of almotriptan (>15,000 patients in studies; >150 million treated attacks); comprehensive safety and efficacy profile confirmed |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Evidence Assessment | Headache | American Headache Society updated evidence assessment: almotriptan among established first-line agents for acute migraine pharmacotherapy |
-| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Meta-analysis | The Journal of Headache and Pain | Comparative meta-analysis of triptans in migraine with aura; confirms triptan class (including almotriptan) efficacy during headache phase of aura attacks |
-| [12455302](https://pubmed.ncbi.nlm.nih.gov/12455302/) | 2002 | Review | AJHP | Comprehensive review of almotriptan pharmacology and pharmacokinetics; FDA-approved for migraine with or without aura; selective 5-HT1B/1D agonist profile confirmed |
-| [20945537](https://pubmed.ncbi.nlm.nih.gov/20945537/) | 2010 | Review | Expert Review of Neurotherapeutics | 10-year review including large RCTs and post-marketing data; early treatment (mild pain) yields better sustained pain-free outcomes |
-| [14629242](https://pubmed.ncbi.nlm.nih.gov/14629242/) | 2003 | Clinical Study | Headache | Early intervention with almotriptan (at mild pain) improves 1- and 2-hour pain-free rates versus treatment at moderate/severe intensity |
-| [15595988](https://pubmed.ncbi.nlm.nih.gov/15595988/) | 2004 | Review | Cephalalgia | Migraine pathophysiology review: cortical spreading depression activates trigeminal afferents; serotonergic modulation central to both aura and headache phases — supports triptan use in aura subtypes |
+None of the publications below studies brainstem aura directly. They are general reviews of almotriptan or triptans, or studies in migraine overall or migraine with aura.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Review | Headache | American Headache Society evidence assessment of acute migraine pharmacotherapies in adults |
+| [30845850](https://pubmed.ncbi.nlm.nih.gov/30845850/) | 2019 | Review | Expert Rev Neurother | 20 years of almotriptan experience: data on more than 15,000 patients in studies |
+| [20945537](https://pubmed.ncbi.nlm.nih.gov/20945537/) | 2010 | Review | Expert Rev Neurother | 10 years of almotriptan experience, including large RCTs and post-marketing studies |
+| [11380642](https://pubmed.ncbi.nlm.nih.gov/11380642/) | 2001 | Safety/tolerability analysis | Headache | Safety and tolerability of oral almotriptan from premarketing trials |
+| [11768838](https://pubmed.ncbi.nlm.nih.gov/11768838/) | 2001 | Randomized, double-blind dose-finding study | Clin Ther | Efficacy and tolerability of subcutaneous almotriptan in acute migraine |
+| [14629242](https://pubmed.ncbi.nlm.nih.gov/14629242/) | 2003 | Clinical study | Headache | Treating when pain is mild improves pain-free and sustained pain-free rates |
+| [15109355](https://pubmed.ncbi.nlm.nih.gov/15109355/) | 2004 | Clinical study | Headache | Better response rates when almotriptan is taken within 1 hour of migraine onset |
+| [12455302](https://pubmed.ncbi.nlm.nih.gov/12455302/) | 2002 | Review | Am J Health Syst Pharm | Pharmacology, efficacy and adverse effects of almotriptan |
+| [21726161](https://pubmed.ncbi.nlm.nih.gov/21726161/) | 2011 | Review | Expert Opin Pharmacother | Almotriptan for menstrually related migraine |
+| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Meta-analysis | J Headache Pain | Frovatriptan compared with rizatriptan, zolmitriptan and almotriptan in migraine with aura |
 
 ## India Market Information
 
-Almotriptan is currently **not registered** in India. No licence data is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 1265 | Almotan 6.25 Tablet (MSN Laboratories) | Strip of 4 tablets | Not stated |
+| 17044 | Almigra 6.25mg Tablet (Eigen Pharmaceuticals) | Strip of 4 tablets | Not stated |
+| 5657 | Almogril 12.5mg Tablet (Lupin) | Strip of 10 tablets | Not stated |
+| 9291 | Amlotan 6.25mg Tablet (MSN Laboratories) | Strip of 4 tablets | Not stated |
+| 8436 | Almogril 6.25mg Tablet (Lupin) | Strip of 10 tablets | Not stated |
 
----
+A sixth registration (1638, Almotan 12.5 Tablet, MSN Laboratories) is also valid. All 6 registrations are single-ingredient oral tablets.
 
 ## Safety Considerations
 
-**Drug Interactions (56 total interactions identified; key interactions listed below):**
-
-| Interacting Drug | Severity | Clinical Concern |
-|-----------------|----------|-----------------|
-| Dexfenfluramine | **Major** | Serotonin syndrome risk (combined serotonergic activity) |
-| Fenfluramine | **Major** | Serotonin syndrome risk |
-| Lorcaserin | **Major** | Serotonin syndrome risk |
-| Sibutramine | **Major** | Serotonin syndrome risk |
-| Dolasetron | **Major** | Combined serotonergic/5-HT3 effects; QT prolongation concern |
-| Granisetron | **Major** | Combined serotonergic activity |
-| Ondansetron | **Major** | Combined serotonergic activity; QT prolongation concern |
-| Palonosetron | **Major** | Combined serotonergic activity |
-| Clarithromycin | Moderate | CYP3A4 inhibition may increase almotriptan exposure |
-| Aprepitant | Moderate | CYP3A4 inhibition may increase almotriptan exposure |
-| Morphine | Moderate | Additive CNS effects possible |
-
-> **Note:** Formal CDSCO package insert warnings and contraindications were not available in this Evidence Pack. Please refer to the full prescribing information before clinical use. Serotonin syndrome is the most clinically significant risk, particularly when co-administered with other serotonergic agents.
-
----
+- **Contraindications (knowledge-graph data, not label text)**: The knowledge graph links almotriptan with these conditions:
+  - Cardiovascular and cerebrovascular: coronary artery disease, myocardial infarction, myocardial ischemia, Prinzmetal angina, sudden cardiac arrest, heart conduction disease, hypertension, stroke, transient ischemic attack, cerebral infarction, brain ischemia, vertebrobasilar insufficiency.
+  - Peripheral vascular: peripheral arterial disease, Raynaud disease.
+  - Migraine subtype: familial or sporadic hemiplegic migraine.
+  - Other: serotonin syndrome, liver disease, diabetes mellitus, obesity.
+  - Vertebrobasilar insufficiency and hemiplegic migraine are especially relevant to brainstem aura.
+- **Drug Interactions**: 56 interactions were recorded. Major-level ones include:
+  - 5-HT3 antagonists: ondansetron, granisetron, dolasetron, palonosetron.
+  - Serotonergic or weight-loss agents: fenfluramine, dexfenfluramine, lorcaserin, sibutramine.
+  - Moderate-level ones include aprepitant, clarithromycin and morphine.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Almotriptan is already an approved migraine therapy with a well-characterised 20-year safety record; migraine with brainstem aura is a recognised migraine subtype sharing the same trigemino-vascular pathophysiology, and recent IHS guidelines no longer contraindicate triptan use in this subtype. However, the specific subtype evidence gap (no dedicated RCTs, no India registration) warrants specialist-supervised use rather than broad adoption.
+The high score reflects closeness to the approved migraine indication, not new evidence. No trial or publication tests almotriptan in brainstem aura. Triptan caution in posterior-circulation and hemiplegic-type migraine adds a safety concern.
 
 **To proceed, the following is needed:**
-
-- **Formal MOA data:** Retrieve full DrugBank entry (DB00918) to complete mechanism of action documentation
-- **India regulatory pathway:** Initiate CDSCO registration or evaluate import licence options, as Almotriptan is currently not marketed in India
-- **Subtype-specific evidence:** Commission or identify any prospective observational data for almotriptan specifically in migraine with brainstem aura (ICHD-3 criteria)
-- **Package insert review:** Obtain and parse the full prescribing information (EU SmPC or US PI) to document contraindications and black-box warnings formally
-- **Neurologist consultation:** Confirm that the prescribing context excludes patients with hemiplegic migraine (where triptans remain relatively contraindicated) and establishes monitoring for atypical aura features
-- **Serotonin syndrome protocol:** Given multiple major DDIs with serotonergic agents, a co-medication screening checklist should be developed prior to any clinical protocol
+- Package insert warnings and contraindications from the India registrations, especially for brainstem aura and hemiplegic migraine
+- Mechanism of action data (e.g. from DrugBank)
+- Clinical or observational evidence specific to brainstem aura, with a safety assessment of posterior-circulation vasoconstriction
+- Clarification of whether this counts as a new indication or falls within the existing "migraine with aura" label
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

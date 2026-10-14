@@ -2,7 +2,7 @@
 layout: default
 title: Rabeprazole
 parent: Model Prediction Only (L5)
-nav_order: 711
+nav_order: 718
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,77 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Rabeprazole: From Acid-Related Disorders to Smouldering Systemic Mastocytosis
+# Rabeprazole: From Peptic Ulcer and Acid-Related Disease to Smouldering Systemic Mastocytosis
 
 ## One-Sentence Summary
 
-Rabeprazole is a proton pump inhibitor (PPI) whose original indication data is not available in the current India regulatory dataset (the drug is currently unmarketed there), but its known drug class is typically used for GERD/peptic ulcer disease.
-The TxGNN model predicts it may be effective for **Smouldering Systemic Mastocytosis**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model prediction with no direct experimental or clinical validation.
-
----
+Rabeprazole is a proton pump inhibitor originally used for acid-related conditions such as peptic ulcer disease, gastroesophageal reflux disease and Zollinger-Ellison syndrome.
+The TxGNN model predicts it may be useful for **Smouldering systemic mastocytosis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no India license records; Rabeprazole's drug class — PPI — is generally indicated for GERD/peptic ulcer disease) |
-| Predicted New Indication | Smouldering Systemic Mastocytosis |
+| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, duodenal ulcer, Zollinger-Ellison syndrome (the India licence records contain no approved indication text) |
+| Predicted New Indication | Smouldering systemic mastocytosis |
 | TxGNN Prediction Score | 99.44% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action (MOA) data is not directly available for this drug (flagged as a data gap, DG002). Based on known information, Rabeprazole is a proton pump inhibitor (PPI) that inhibits the H⁺/K⁺-ATPase in gastric parietal cells — a well-established pharmacological mechanism used to suppress gastric acid secretion.
+Currently, detailed mechanism of action data is not available. Based on known information, rabeprazole is a proton pump inhibitor (a class that suppresses gastric acid secretion). Its efficacy in acid-related disease is established, and the knowledge graph already links it to systemic mastocytosis and mastocytosis.
 
-There is no known direct mechanistic connection between this pathway and the pathology of mastocytosis, which is typically driven by KIT-mutation-related clonal mast cell proliferation (e.g., KIT D816V). The TxGNN model's very high score (99.44%) likely reflects an indirect statistical association in the knowledge graph — for example, shared nodes around gastric acid/histamine metabolism (H2 receptors, enterochromaffin-like cells) — rather than a validated pharmacological rationale.
+The link to the predicted indication is indirect. In mastocytosis, mast cells release excess histamine, which can drive gastric acid hypersecretion. Acid suppression can control these complications, but this is symptom control, not treatment of the underlying disease. The high score most likely reflects the close network proximity between smouldering systemic mastocytosis and the mastocytosis indications already listed for the drug.
 
-A second candidate indication, *lymphoadenopathic mastocytosis with eosinophilia* (score 99.35%), shows the same pattern: a rare mastocytosis subtype with no clinical trial or literature support, and no established mechanistic link to PPI activity. Both predictions should be treated as hypothesis-generating only, not as evidence of therapeutic plausibility.
+There is no evidence that rabeprazole reduces mast cell burden, affects KIT-driven proliferation, or slows progression in smouldering disease.
 
----
+The second-ranked prediction, **lymphoadenopathic mastocytosis with eosinophilia** (score 99.35%), follows the same reasoning. It is a subtype extension of the existing mastocytosis indications, not a new mechanism. There is no evidence that rabeprazole affects eosinophilia, lymphadenopathy or the underlying neoplastic process. It also has no trials or literature (evidence level L5, Hold).
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
-Rabeprazole currently has **0 registrations** in the India regulatory dataset and is marked as **Not Marketed**. No product authorization records are available for this evidence pack.
+There are 20 valid single-ingredient registrations and no cancelled ones. The compiled records contain no approved indication text. The main authorizations are:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 191472 | Rowet 20mg Tablet | Strip of 10 tablets | Not available |
+| 198837 | Rastik-IT Capsule SR | Strip of 10 sustained-release capsules | Not available |
+| 199186 | Rabicred IV 20mg Injection | Vial of 1 injection | Not available |
+| 184495 | Rabeloc 20 Tablet | Strip of 10 tablets | Not available |
+| 184873 | Rablet 10 Tablet | Strip of 15 tablets | Not available |
+
+Available forms include oral tablets, sustained-release capsules and tablets, and injectables.
 
 ## Safety Considerations
 
-- **Drug Interactions**: 486 total interactions on record. Notable **Major**-level interactions include **Acalabrutinib** and **Atazanavir** (source: DDInter). Multiple **Moderate**-level interactions are also documented, including amphotericin B (and formulations), aminoglycosides (amikacin), thiazide diuretics (bendroflumethiazide, benzthiazide), and several kinase inhibitors (apalutamide, armodafinil, bosutinib). A full interaction screen against any co-administered therapy is recommended.
+- **Knowledge-graph contraindication signals** (from drug-disease relationships, not label text): liver disease, gallbladder disease, osteoporosis, postmenopausal osteoporosis, bone fracture.
+- **Drug Interactions**: 486 interactions were identified. Examples of **Major** interactions include **acalabrutinib** and **atazanavir**. Examples of **Moderate** interactions include amikacin, amphotericin B formulations, amphetamine, aprepitant, armodafinil, apalutamide and bosutinib. Minor interactions include acetylsalicylic acid and axitinib.
 
-(Key warnings and contraindications are not available in this evidence pack — please refer to the package insert for that information.)
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L5 — both candidate indications are supported only by the TxGNN model score, with zero clinical trials or publications identified. Critically, TFDA-equivalent label data (warnings/contraindications) is flagged as a **Blocking** data gap (DG001), which by itself prevents this candidate from entering the S1 safety review stage.
+The prediction is supported only by the TxGNN score, with no clinical trials or literature (L5). Any plausible benefit is symptomatic control of acid hypersecretion, which the existing mastocytosis indications already cover. It is not a new disease-modifying effect.
 
 **To proceed, the following is needed:**
-- Official label data (warnings, contraindications) — currently Blocking gap (DG001)
-- Confirmed mechanism of action detail from DrugBank — currently High-priority gap (DG002)
-- Preclinical/mechanistic studies exploring any link between PPI pharmacology and KIT-driven mast cell proliferation
-- Full DDI review given the high interaction count (486), particularly the Major-level interactions, before any further evaluation in the target population
+- Package insert warnings and contraindications from India Pharma, a blocking gap for safety screening
+- Mechanism of action data from DrugBank
+- Clinical or observational evidence on rabeprazole use in smouldering systemic mastocytosis, including any effect on mast cell burden or disease progression
+- Clarification of whether the prediction adds value beyond the existing mastocytosis indications
+- Route compatibility and similarity-to-original assessments, both still pending
+- A review of the long-term bone and liver safety signals, given the knowledge-graph contraindications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

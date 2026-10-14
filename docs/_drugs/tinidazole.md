@@ -2,7 +2,7 @@
 layout: default
 title: Tinidazole
 parent: Model Prediction Only (L5)
-nav_order: 830
+nav_order: 837
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,95 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tinidazole: From Antiprotozoal/Antibacterial Therapy to Postmenopausal Atrophic Vaginitis
+# Tinidazole: From Giardiasis and Trichomoniasis to Postmenopausal Atrophic Vaginitis
 
 ## One-Sentence Summary
 
-Tinidazole is a 5-nitroimidazole antiprotozoal/antibacterial agent (per the evidence pack's own mechanistic notes, used against *Trichomonas vaginalis*, amoebiasis, and giardiasis); no formal original-indication or regulatory label text was provided in this dataset. The TxGNN model's top prediction is **Postmenopausal Atrophic Vaginitis**, but this candidate is supported by **zero clinical trials** and **zero publications**, and the model's own rationale flags it as a likely false positive driven by knowledge-graph term proximity ("vaginitis") rather than genuine pharmacology.
-
----
+Tinidazole is an antimicrobial originally used to treat protozoal and anaerobic infections such as giardiasis, amoebiasis, trichomoniasis and bacterial vaginosis.
+The TxGNN model predicts it may be effective for **postmenopausal atrophic vaginitis**, but **no clinical trials and no publications** currently support this specific prediction.
+The result is a model-only prediction that should be treated as a hypothesis.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in the regulatory dataset (no license records); drug class is nitroimidazole antiprotozoal/antibacterial |
-| Predicted New Indication | Postmenopausal Atrophic Vaginitis |
+| Original Indication | Giardiasis, bacterial vaginosis, vaginitis, vulvitis, vulvovaginitis, amoebiasis due to *Entamoeba histolytica*, trichomoniasis |
+| Predicted New Indication | Postmenopausal atrophic vaginitis |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for tinidazole was not available in this evidence pack (flagged as a High-severity data gap). Based on the mechanistic notes embedded elsewhere in this evidence pack, tinidazole is understood to be a 5-nitroimidazole drug whose activity is directed against protozoa (*Trichomonas vaginalis*, *Giardia*, *Entamoeba histolytica*) and anaerobic bacteria — an infection-clearance mechanism, not a hormonal or trophic one.
+Currently, detailed mechanism of action data is not available. Based on known information, tinidazole is a 5-nitroimidazole antimicrobial. Its efficacy in vaginal infections such as bacterial vaginosis and trichomoniasis is established, and the model appears to link it to vaginitis in general.
 
-Postmenopausal atrophic vaginitis, by contrast, is caused by declining estrogen levels after menopause, leading to thinning and dryness of vaginal epithelium. It is not an infectious condition, and there is no established pharmacological pathway by which an antiprotozoal/antibacterial agent would address estrogen-deficiency-driven tissue atrophy.
+The prediction is probably driven by graph proximity to the approved vaginitis, vulvitis and vulvovaginitis indications rather than by a shared disease mechanism. Atrophic vaginitis after menopause is caused mainly by estrogen deficiency, not infection. An antimicrobial would therefore not be expected to treat the underlying condition. At most it might help with a secondary infection.
 
-The evidence pack's own repurposing rationale explicitly states this: the high TxGNN score is most plausibly explained by semantic clustering around the shared term "vaginitis" in the knowledge graph, rather than any genuine biological link. No clinical trials or literature support this association. **This prediction should be treated as a likely false positive rather than a genuine repurposing signal.**
-
----
+Other high-scoring predictions point the same way. The ulceration of vulva, vulvar neoplasm, benign breast conditions (fibrocystic disease, blunt duct adenosis, apocrine adenosis, benign mammary dysplasia) and HIV-related conditions all have weak or no plausible mechanistic rationale. Their scores most likely reflect graph neighbourhood effects.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials are registered for postmenopausal atrophic vaginitis.
 
----
+For reference, the only registered trial among the other predicted indications (AIDS) is below. It is indirectly relevant at best.
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT03412071](https://clinicaltrials.gov/study/NCT03412071) | Not applicable | Unknown | 125 | Pilot study of four antimicrobial products (3 topical, 1 systemic) on the foreskin microbiome and HIV susceptibility in Ugandan men. It does not test tinidazole for AIDS treatment, and no efficacy data are available. |
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature is available for postmenopausal atrophic vaginitis.
 
----
+Literature was retrieved only for the AIDS prediction. It mostly concerns tinidazole's established uses and does not show benefit in HIV.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [21931875](https://pubmed.ncbi.nlm.nih.gov/21931875/) | 2011 | Cohort | PLoS Negl Trop Dis | Retrospective analysis of 170 HIV-1-infected Japanese men with invasive amoebiasis: clinical features and response to therapy |
+| [8442923](https://pubmed.ncbi.nlm.nih.gov/8442923/) | 1993 | Preliminary study | AIDS | Combined tinidazole, thiabendazole and cotrimoxazole versus placebo for AIDS diarrhoea in Zambia |
+| [34794678](https://pubmed.ncbi.nlm.nih.gov/34794678/) | 2022 | Review | Pediatr Clin North Am | Amoebiasis and amoebic liver abscess in children, including higher risk in people with HIV/AIDS |
+| [19632225](https://pubmed.ncbi.nlm.nih.gov/19632225/) | 2010 | Review | Exp Parasitol | Treatment options and prospects for new drugs against *Cryptosporidium* and *Giardia* |
+| [35863010](https://pubmed.ncbi.nlm.nih.gov/35863010/) | 2022 | In vitro | Microbiol Spectrum | In vitro activity of 5-nitroimidazole drugs against *T. vaginalis* clinical isolates |
+| [31324206](https://pubmed.ncbi.nlm.nih.gov/31324206/) | 2019 | Trial protocol | Trials | Randomized trial protocol on antimicrobial effects on penile microbiota and HIV susceptibility in Ugandan men |
+| [21097745](https://pubmed.ncbi.nlm.nih.gov/21097745/) | 2010 | Case report | Int J STD AIDS | Trichomoniasis presenting as vulval ulceration, fully resolved after oral tinidazole |
+| [33121364](https://pubmed.ncbi.nlm.nih.gov/33121364/) | 2021 | Case report | Int J STD AIDS | Successful tinidazole desensitization in a patient with trichomoniasis allergic to metronidazole |
 
 ## India Market Information
 
-Tinidazole currently has no registration records in the provided regulatory dataset (0 licenses, market status: Not marketed). No product/license information is available to summarize.
+Twenty valid single-ingredient registrations are on record. The approved indication text is not available for any of them. Five main registrations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 84533 | Fasigyn 500mg Tablet | Strip of 4 tablets | Pfizer Ltd |
+| 84516 | Fasigyn DS 1000mg Tablet | Strip of 2 tablets | Pfizer Ltd |
+| 222759 | Tinibid DS 1000mg Tablet | Strip of 6 tablets | Sun Pharmaceutical Industries Ltd |
+| 218212 | Tinifas 500mg Tablet | Strip of 10 tablets | Cipla Ltd |
+| 215735 | Tiniba 800mg Infusion | Bottle of 400 ml infusion | Zydus Cadila |
+
+Available forms are oral tablets and intravenous infusions. No vaginal formulation appears in the registration data.
 
 ## Safety Considerations
 
-**Drug Interactions**: A total of **161 drug-drug interactions** were identified (source: DDInter), all classified as Moderate severity. Representative interacting agents include:
-- Ethanol, Amiodarone, Atorvastatin, Levodopa
-- Oral contraceptive components (Ethinylestradiol, Estradiol)
-- Multiple oncology agents (Paclitaxel, Cabazitaxel, Capecitabine, Bortezomib, Brentuximab vedotin, Trastuzumab emtansine, Brigatinib)
-- Biologics/immunomodulators (Adalimumab, Auranofin)
+- **Contraindication-related conditions (knowledge graph):** epilepsy, neutropenia, agranulocytosis, peripheral nervous system disease and peripheral neuropathy. These come from graph associations, not from label text.
+- **Drug Interactions:** 161 interactions are recorded, and the 20 listed in the data compiled for this report are all of moderate severity. They include paclitaxel, cabazitaxel, capecitabine, bortezomib, brentuximab vedotin, trastuzumab emtansine, amiodarone, atorvastatin, ethinylestradiol, estradiol, levodopa and ethanol. Alcohol is a well-known concern with nitroimidazoles.
 
-No product-specific warnings or contraindications were available in this dataset — please refer to the official package insert for full safety information.
-
----
+Please refer to the package insert for other warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (postmenopausal atrophic vaginitis) has no supporting clinical trials or literature, and the model's own mechanistic analysis identifies it as a probable knowledge-graph artifact rather than a biologically plausible repurposing candidate. Several other top-10 predictions (e.g., vulvar neoplasm, breast fibrocystic disease) share this same pattern and are similarly unsupported.
+The prediction rests on model score alone (L5), with no clinical trials or literature. The disease is estrogen-deficiency driven, so an antimicrobial mechanism is unlikely to be relevant. Other top-ranked predictions are similarly unsupported, and the AIDS-related evidence reflects treatment of co-infections, not of HIV.
 
 **To proceed, the following is needed:**
-- If this candidate is to be pursued further, in vitro or mechanistic studies establishing any plausible pathway between nitroimidazole pharmacology and vaginal epithelial atrophy would be required — none currently exist.
-- Regulatory label data (TFDA/CDSCO warnings and contraindications) to complete a baseline safety assessment (currently blocking S1 review).
-- MOA confirmation from DrugBank or equivalent source.
-- **Note for portfolio prioritization**: within this same evidence pack, the rank-5 candidate (AIDS) has at least indirect clinical trial and literature support (L4, one Phase NA trial, ~17 publications on trichomoniasis/amoebiasis management in HIV-positive populations), though the mechanistic link there is also indirect (treatment of co-infections rather than direct antiviral activity). If further investment in this drug is desired, that candidate — not the current top-ranked one — would be the more defensible starting point for a Research Question-stage inquiry.
+- Package insert warnings and contraindications from the India regulatory source
+- Detailed mechanism of action data
+- Evidence that a secondary infectious component is clinically relevant in atrophic vaginitis, before any trial is designed
+- Assessment of route compatibility, since no vaginal formulation is currently registered
+- Review of the neuropathy, neutropenia and epilepsy signals for any target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

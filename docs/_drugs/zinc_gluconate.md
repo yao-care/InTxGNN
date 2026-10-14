@@ -2,7 +2,7 @@
 layout: default
 title: Zinc Gluconate
 parent: Model Prediction Only (L5)
-nav_order: 897
+nav_order: 906
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,83 +29,64 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Zinc Gluconate: From Nutritional Supplementation to Anemia of Prematurity
+# Zinc Gluconate: From Ascorbic Acid Deficiency (Scurvy) to Anemia of Prematurity
 
 ## One-Sentence Summary
 
-> Zinc gluconate is a mineral (zinc) supplement; no confirmed original approved indication is on file for this product in the current dataset, and it is not currently marketed in this jurisdiction.
-> The TxGNN model predicts it may be effective for **Anemia of Prematurity**,
-> but this prediction is currently supported by **no clinical trials** and **no publications** — it is a purely computational (L5) hypothesis.
-
----
+Zinc gluconate is a zinc salt, listed in the knowledge graph for ascorbic acid deficiency and scurvy, and it is marketed in India as oral zinc products.
+The TxGNN model predicts it may be useful for **anemia of prematurity** (score 99.94%), but **no clinical trials and no publications** were found for this indication, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No data available (drug not marketed; no approved indication on record) |
-| Predicted New Indication | Anemia of Prematurity |
+| Original Indication | Ascorbic acid deficiency, scurvy (from the knowledge graph; the Indian licence records contain no indication text) |
+| Predicted New Indication | Anemia of prematurity |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 9 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for zinc gluconate is not available in the evidence pack, and no original approved indication is on file (the product is not currently marketed in this jurisdiction). Based on general pharmacological knowledge, zinc gluconate is a mineral salt used to supplement zinc, an essential trace element that serves as a cofactor for more than 300 enzymes, including superoxide dismutase (antioxidant defense) and various enzymes involved in cell division, immune function, and wound healing.
+Currently, detailed mechanism of action data is not available. Zinc is an essential trace element involved in many enzymatic processes, including erythropoiesis and the balance of iron and copper in the body. This gives a plausible biological link to anemia in premature infants.
 
-The TxGNN model's top-ranked prediction links zinc gluconate to anemia of prematurity (score 99.94%, rank 1573). The rationale offered in the underlying evidence review is that zinc deficiency has a recognized general association with certain anemias, since zinc is a cofactor for hematopoietic enzymes. However, anemia of prematurity is a distinct clinical entity primarily driven by insufficient endogenous erythropoietin (EPO) production and depleted iron stores in preterm infants — mechanisms not directly addressed by zinc supplementation.
-
-As a result, the mechanistic link between zinc gluconate and anemia of prematurity is assessed as weak, and — consistent with this — no clinical trials or published literature currently support this specific indication. This prediction should be treated as a computational hypothesis only, not as a basis for clinical action.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
-
----
-
-## Literature Evidence
-
-Currently no related literature available
-
----
+The original indications (ascorbic acid deficiency and scurvy) are nutritional deficiencies, and anemia of prematurity is also partly related to nutrient status. That is a loose conceptual connection, not direct evidence. The prediction has not been tested in any trial or publication compiled for this report. Note also that chronic excess zinc is known to cause copper-deficiency anemia (see the case report PMID 12728841 in the data), so the direction of effect on blood parameters needs careful study.
 
 ## India Market Information
 
-Zinc gluconate currently has no marketing authorization on record in this jurisdiction (0 registrations; market status: not marketed). No license-level product data is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 249882 | Zincorun Oral Solution | Bottle of 100 ml oral solution | Not stated in the records |
+| 109187 | IZinc Oral Suspension | Bottle of 100 ml oral suspension | Not stated in the records |
+| 113921 | Jink Syrup | Bottle of 100 ml oral solution | Not stated in the records |
+| 248473 | Zincotus Syrup | Bottle of 100 ml syrup | Not stated in the records |
+| 246658 | Zioral Drops | Bottle of 15 ml oral drops | Not stated in the records |
 
----
+All 9 registrations are valid single-ingredient products; the five above are shown.
 
 ## Safety Considerations
 
-**Drug Interactions**: The evidence pack lists 103 documented drug-drug interactions for zinc gluconate. Most are classified as Minor (e.g., co-administration with biologic immunomodulators such as abatacept, adalimumab, anakinra). Several **Moderate**-level interactions follow a known chelation mechanism that reduces oral bioavailability of the interacting drug:
-- Bisphosphonates: alendronic acid, risedronic acid, ibandronate
-- Tetracycline
-- Baloxavir marboxil
+- **Drug Interactions**: 103 interactions were recorded. Most listed ones are Minor (for example abatacept, adalimumab, hydrocortisone, dexamethasone). The Moderate ones include alendronic acid, risedronic acid, ibandronate, tetracycline and baloxavir marboxil. These are consistent with zinc reducing the absorption of some drugs, so dosing should be separated in time.
+- **Knowledge-graph contraindication signals** (not label text): hypertension, rheumatoid arthritis, systemic lupus erythematosus, multiple sclerosis, allergic rhinitis, blood coagulation disease, sickle cell anemia, iron metabolism diseases (hereditary hemochromatosis, hemosiderosis), Wilson disease, primary hyperoxaluria, asthma, diarrheal disease, HIV/AIDS and leukemia. These need verification against the package insert.
+- **Other safety signals in the literature**: intranasal zinc gluconate has been linked to loss of smell (anosmia), and chronic excessive zinc intake can cause copper-deficiency anemia. Both are relevant to any new use, particularly in infants.
 
-These interactions generally warrant separating administration times rather than avoiding co-use entirely.
-
-*Key warnings and contraindications are not available in the current dataset — please refer to the official product label once available.*
-
----
+Package insert warnings and contraindications for the Indian products were not available and should be obtained.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (anemia of prematurity) has an Evidence Level of L5 — no supporting clinical trials or literature — and the proposed mechanistic rationale is weak, since anemia of prematurity is primarily an EPO/iron-driven condition rather than a zinc-deficiency disorder. Core safety data (product label warnings and contraindications) is also flagged as a **Blocking** data gap, precluding entry into a preliminary safety assessment (S1).
+The prediction for anemia of prematurity is supported only by the TxGNN score, with no trials or literature. The broader zinc-related literature for the other predicted indications is mostly animal or mechanistic work, and the safety record includes anemia from zinc excess in humans.
 
 **To proceed, the following is needed:**
-- Official product label warnings and contraindications (Blocking data gap, DG001 — TFDA label PDF retrieval/parsing)
-- Mechanism of action (MOA) data from DrugBank (High-priority data gap, DG002)
-- Confirmed original approved indication and regulatory history for this product
-- Preclinical or mechanistic evidence directly linking zinc supplementation to erythropoiesis in preterm infants, before any further clinical evaluation is considered
+- A literature and trial search specific to zinc supplementation in preterm infants and anemia of prematurity
+- Mechanism of action data (for example from DrugBank)
+- Package insert warnings and contraindications from the Indian regulator's records
+- A dose and copper-status safety assessment for neonates and preterm infants
+- Confirmation of the original approved indications, since the licence records contain no indication text
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Clobazam
 parent: Moderate Evidence (L3-L4)
-nav_order: 195
+nav_order: 196
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,82 +29,92 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Clobazam: From Epilepsy to Febrile Infection-Related Epilepsy Syndrome (FIRES)
+# Clobazam: From Lennox-Gastaut Syndrome to Febrile Infection-Related Epilepsy Syndrome
 
 ## One-Sentence Summary
 
-> Clobazam is a 1,5-benzodiazepine anticonvulsant, established as an adjunctive antiseizure medication (ASM) in refractory epilepsy syndromes.
-> The TxGNN model predicts it may be effective for **febrile infection-related epilepsy syndrome (FIRES)**,
-> but currently no clinical trials and only **2 indirect case-series publications** (studying related benzodiazepines/ASMs, not Clobazam itself) support this specific direction.
-
----
+Clobazam is a benzodiazepine anti-seizure medication, originally used for Lennox-Gastaut syndrome.
+The TxGNN model predicts it may be effective for **febrile infection-related epilepsy syndrome (FIRES)**,
+but at present there are **no registered clinical trials** and only **2 publications** (a case series and a case report), neither of which studied clobazam directly.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Epilepsy (adjunctive antiseizure therapy) — no India (CDSCO) regulatory record available; drug is unmarketed locally |
-| Predicted New Indication | Febrile infection-related epilepsy syndrome (FIRES) |
+| Original Indication | Lennox-Gastaut syndrome (the licence entries in India carry no indication text) |
+| Predicted New Indication | Febrile infection-related epilepsy syndrome |
 | TxGNN Prediction Score | 99.82% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Clobazam in this Evidence Pack. Based on known pharmacological information (and corroborated by the literature retrieved for related, higher-evidence indications in this same pack — see PMID 11129898, 3527689), Clobazam is a 1,5-benzodiazepine that acts as a broad-spectrum positive allosteric modulator of the GABA-A receptor. Its efficacy as adjunctive antiseizure therapy in refractory epilepsy syndromes (e.g., Lennox-Gastaut syndrome, focal epilepsy) is clinically well established, and mechanistically this GABAergic action may extend to other refractory seizure states.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, clobazam is a GABA-A positive allosteric modulator, like other benzodiazepines. Its efficacy in Lennox-Gastaut syndrome, a severe drug-resistant epilepsy, is established, and mechanistically it may be applicable to other refractory epilepsies.
 
-FIRES is a form of new-onset refractory status epilepticus (NORSE) that occurs after a febrile illness in previously healthy children. Acute management of FIRES relies heavily on GABAergic agents — benzodiazepines (e.g., midazolam, lorazepam) and barbiturates — for seizure control, with oral benzodiazepines such as Clobazam commonly considered during the weaning/maintenance phase in clinical practice once the acute anesthetic-coma phase resolves. This shared GABA-A-mediated mechanism is the basis of the TxGNN prediction.
+FIRES is a severe form of new-onset refractory status epilepticus that occurs in previously healthy children. Seizures are often resistant to conventional anti-seizure drugs and are managed with benzodiazepines such as midazolam, or with other anaesthetics. A class-effect link to clobazam is therefore plausible. However, the retrieved publications describe lorazepam weaning and perampanel, not clobazam, so the link remains unproven.
 
-However, the two literature items retrieved for this specific pairing (PMID 35770765 on enteral lorazepam weaning, and PMID 39958143 on perampanel reducing barbiturate dependency) do not study Clobazam directly — they provide only indirect, drug-class-level support. This is reinforced by stronger, Clobazam-specific evidence found elsewhere in this Evidence Pack for closely related epileptic-encephalopathy indications (e.g., benign occipital epilepsy and childhood-onset epileptic encephalopathy/Lennox-Gastaut syndrome, both rated L2 with Cochrane systematic-review-level support), which lends plausibility to the drug class but does not substitute for direct FIRES data.
+Other predicted indications are listed below for context. Only childhood-onset epileptic encephalopathy has meaningful supporting literature, and that is largely an extension of the existing Lennox-Gastaut indication rather than true repurposing.
 
----
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Note |
+|---|---|---|---|---|
+| 2 | Perioral myoclonia with absences | 99.79% | L5 | Prediction only |
+| 3 | Cryptogenic late-onset epileptic spasms | 99.77% | L4 | One cohort study, no clobazam efficacy data |
+| 4 | Atypical childhood epilepsy with centrotemporal spikes | 99.77% | L4 | General reviews and case series |
+| 5 | Photosensitive occipital lobe epilepsy | 99.77% | L4 | One 1994 regional report |
+| 6 | Childhood onset epileptic encephalopathy | 99.59% | L3 | Reviews and guidelines; largely an extension of the existing indication |
+| 7 | Benign occipital epilepsy | 99.58% | L4 | Includes Cochrane review of clobazam monotherapy; usually self-limited disease |
+| 8 | GRIN2A-related early-onset epileptic encephalopathy | 99.40% | L5 | Prediction only |
+| 9 | Restless legs syndrome | 99.30% | L5 | Prediction only; weak class-level rationale |
+| 10 | Polymicrogyria with optic nerve hypoplasia | 99.09% | L5 | Prediction only |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Cohort/Case Series | Epileptic Disorders | Enteral lorazepam (a related benzodiazepine, not Clobazam) used as an effective weaning substitute in midazolam-dependent FIRES patients |
-| [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Case Series | Cureus | Perampanel (AMPA antagonist, not GABAergic) reduced barbiturate dependency in a FIRES case; illustrates the broader refractory-seizure management context in which benzodiazepines like Clobazam are also used |
-
----
+| [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Case series | Epileptic Disorders | Enteral lorazepam as a weaning substitute in midazolam-dependent FIRES patients; clobazam not studied |
+| [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Case report | Cureus | Perampanel may reduce barbiturate dependency in a 13-year-old boy with FIRES; clobazam not studied |
 
 ## India Market Information
 
-No India (CDSCO) marketing authorizations on record — Clobazam is currently not marketed in India (`total_licenses = 0`).
+Clobazam is marketed in India as a single-ingredient oral tablet (20 valid registrations, none cancelled). The data compiled for this report contain no approved-indication text for these licences. Five representative registrations:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 80614 | Ericlob 10 Tablet | Strip of 10 tablets | Not stated |
+| Registration No. 204573 | Sebenz 5mg Tablet | Strip of 10 tablets | Not stated |
+| Registration No. 84073 | Frisium 10mg Tablet | Strip of 15 tablets | Not stated |
+| Registration No. 36105 | Cloba MT 2.5 Tablet MD | Strip of 10 tablets (MD) | Not stated |
+| Registration No. 155298 | Nucloba 5 Tablet DT | Strip of 10 tablets (DT) | Not stated |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions:** 100 interactions were identified. Major-level interactions include:
+  - Morphine (including liposomal morphine): additive central nervous system and respiratory depression
+  - Eliglustat
 
-*(Note: key warnings, contraindications, and drug-drug interaction data were not retrievable during this evaluation — the DDI database query failed due to a missing local data file, and no local package-insert data exists since the product is unmarketed in India. This is flagged as a Blocking data gap — see Next Steps.)*
+  Moderate-level interactions include bupropion, aprepitant, omeprazole, esomeprazole, lansoprazole, cimetidine, clarithromycin, metoclopramide, dronabinol, fenfluramine and dexfenfluramine. Minor interactions include antacids (magnesium oxide, aluminium hydroxide, calcium carbonate, and others).
 
----
+Please refer to the package insert for warnings and contraindications, as these were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on plausible drug-class mechanism (GABA-A modulation) rather than Clobazam-specific evidence — there are zero clinical trials and only two indirect case-series publications studying other benzodiazepines/ASMs in FIRES, not Clobazam itself (Evidence Level L4, decision stage S1 — "Research Question"). Combined with the absence of any India market presence or safety documentation, this candidate is not yet ready to advance past the research-question stage.
+The prediction score is very high, but there are no clinical trials, and the only two publications on FIRES concern other drugs (lorazepam and perampanel). Evidence is limited to a plausible benzodiazepine class effect. Of the other predicted indications, only childhood-onset epileptic encephalopathy has supporting literature, and that largely overlaps the already-approved Lennox-Gastaut use.
 
 **To proceed, the following is needed:**
-- Clobazam-specific case series, cohort studies, or trials in FIRES/NORSE patients (current literature only covers related agents)
-- CDSCO/package-insert warnings and contraindications data for Clobazam (currently a **Blocking** data gap — DG001)
-- Confirmed mechanism-of-action documentation from DrugBank or equivalent source (**High** priority gap — DG002)
-- Re-run of the drug-drug interaction (DDI) query once the local DDInter reference file is restored (query previously failed with a file-not-found error)
-- Consider reprioritizing near-term evaluation toward candidates in this same predicted-indication set with materially stronger, Clobazam-specific evidence — notably **benign occipital epilepsy** and **childhood-onset epileptic encephalopathy/Lennox-Gastaut syndrome** (both Evidence Level L2, decision stage S2, "Proceed with Guardrails," supported by Cochrane systematic reviews)
+- Clobazam-specific data in FIRES, such as case series, registry data or a prospective study
+- Mechanism of action data for clobazam
+- Package insert warnings and contraindications from the India regulator, to allow safety screening
+- A review of the major interactions (opioids in particular), given that FIRES patients are often on multiple sedatives
+- Confirmation of the approved indications on the India licences
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

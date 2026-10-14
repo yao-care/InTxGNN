@@ -2,7 +2,7 @@
 layout: default
 title: Lamotrigine
 parent: Model Prediction Only (L5)
-nav_order: 466
+nav_order: 470
 evidence_level: L5
 indication_count: 9
 ---
@@ -33,71 +33,72 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Lamotrigine is a second-generation broad-spectrum antiepileptic drug (AED) widely used globally for epilepsy and bipolar disorder, though it holds no current marketing authorisation in India.
-The TxGNN model assigns it a top-ranked prediction score of **99.97%** for **Trigeminal Nerve Neoplasm**,
-yet **no clinical trials** and **no published literature** currently support this specific direction — placing it at evidence level L5.
+Lamotrigine is an antiepileptic drug, originally used for epilepsy, including partial epilepsy and Lennox-Gastaut syndrome.
+The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, but there are **0 clinical trials** and only **2 publications** for this prediction. Both publications concern trigeminal neuralgia, not tumour treatment, so the prediction rests on the model score alone.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available from India regulatory data (globally approved for epilepsy and bipolar disorder) |
-| Predicted New Indication | Trigeminal Nerve Neoplasm |
+|------|------|
+| Original Indication | Epilepsy (including partial epilepsy and Lennox-Gastaut syndrome) |
+| Predicted New Indication | Trigeminal nerve neoplasm |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on the extensive clinical literature retrieved during evidence collection, Lamotrigine is known to exert its antiseizure effect primarily by blocking voltage-gated sodium channels (NaV1.x), thereby stabilising neuronal membranes and preventing abnormal repetitive firing. It also suppresses presynaptic glutamate release. These mechanisms underpin its efficacy across focal epilepsy, generalised epilepsy, Lennox-Gastaut syndrome, and trigeminal neuralgia — all conditions driven by neuronal hyperexcitability rather than neoplastic proliferation.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, lamotrigine blocks voltage-gated sodium channels and reduces glutamate release. This calms abnormal, hyperexcitable nerve firing, which explains its use in epilepsy and its potential to relieve neuropathic pain.
 
-Trigeminal nerve neoplasm, by contrast, involves abnormal cell growth along the trigeminal nerve (cranial nerve V). This is a fundamentally different pathophysiological process from aberrant electrical discharge. There is no established biological rationale for why sodium channel stabilisation or glutamate inhibition would suppress tumour growth, invasion, or survival in trigeminal nerve tumours. The extremely high TxGNN score (0.9997) most likely reflects the structural proximity of the "trigeminal nerve" node to pain and seizure pathway nodes in the knowledge graph, rather than a genuine pharmacological relationship to neoplastic disease.
+The link to the predicted indication is weak. The supporting literature is about **trigeminal neuralgia** (a facial nerve pain condition), not tumours of the trigeminal nerve. There is no evidence that lamotrigine has antitumour activity. The high score most likely reflects the drug's network proximity to trigeminal neuralgia in the knowledge graph, rather than a true neoplasm indication.
 
-It is worth noting that Lamotrigine's second-ranked TxGNN prediction — **trigeminal neuralgia** (score: 99.89%, L3 evidence, 19 publications) — is mechanistically far better supported. Trigeminal neuralgia is driven by the same NaV-mediated hyperexcitability that Lamotrigine directly targets, and published literature explicitly documents its clinical use for this condition. This contrast underscores that the rank-1 prediction for trigeminal nerve neoplasm is likely a knowledge-graph artefact and not a biologically meaningful repurposing signal.
+A closely related prediction, **trigeminal neuralgia** (ranked 2nd by TxGNN, score 99.89%), has far stronger support. It has two completed trials of lamotrigine, one of them a Phase 2/3 comparison against carbamazepine, and European Academy of Neurology guidance lists lamotrigine as an add-on or alternative option. Any development effort would more sensibly focus on that indication.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for trigeminal nerve neoplasm.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Review | Expert Rev Neurother | Overview of medical and surgical treatments for trigeminal neuralgia; concerns the pain condition, not neoplasm |
+| [30650431](https://pubmed.ncbi.nlm.nih.gov/30650431/) | 2018 | Case report | Stereotact Funct Neurosurg | Gamma Knife radiosurgery for trigeminal neuralgia caused by a cavernous malformation; no lamotrigine treatment of a tumour |
 
 ---
 
 ## India Market Information
 
-Lamotrigine currently holds **no marketing authorisations** in India. There are zero registered licenses in the database, and the drug is classified as **not marketed**.
+Lamotrigine has 20 valid single-ingredient registrations, with no cancelled licences. The registration records do not list approved indication text. Five of the main registrations:
+
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| Registration No. 122080 | Lamictal 50mg Tablet DT | Strip of 14 dispersible tablets |
+| Registration No. 121198 | Lametec 100 DT Tablet | Strip of 10 dispersible tablets |
+| Registration No. 121788 | Lamosyn 100 Tablet | Strip of 10 tablets |
+| Registration No. 121707 | Lamitor DT 25 Tablet | Strip of 15 dispersible tablets |
+| Registration No. 114357 | JI Lmt OD 200mg Tablet SR | Strip of 10 sustained-release tablets |
+
+All products are oral formulations.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**: 149 drug interactions have been identified (source: DDInter). Key interactions are summarised below:
+- **Contraindications and warnings from the knowledge graph** (not label text): anxiety disorder, neurotic disorder, dysthymic disorder, liver disease, gallbladder disease, thrombocytopenia, neutropenia, agranulocytosis, anaemia (including macrocytic and aplastic anaemia), pancytopenia, and non-infectious meningitis. These are drug-disease links and should be checked against the official package insert.
+- **Drug Interactions**: 149 interactions were recorded. Moderate-level ones include morphine (including liposomal), opium, dronabinol, nabilone, metoclopramide, and orlistat. Metformin is rated minor. Several others, such as proton pump inhibitors, doxycycline, and vancomycin, have an unknown severity level.
 
-| Interacting Drug | Severity Level |
-|-----------------|---------------|
-| Morphine | Moderate |
-| Morphine (liposomal) | Moderate |
-| Opium | Moderate |
-| Dronabinol | Moderate |
-| Nabilone | Moderate |
-| Metoclopramide | Moderate |
-| Orlistat | Moderate |
-| Metformin | Minor |
-| Calcitriol, Glimepiride, Doxycycline, Clotrimazole, Phentermine, Pantoprazole, Mesalazine, Omeprazole, Sucralfate, Rosiglitazone, Lansoprazole, Vancomycin | Unknown level |
-
-Please refer to the full package insert for complete warnings and contraindications, which were not available in this evidence pack.
+Please refer to the package insert for authoritative warnings and contraindications.
 
 ---
 
@@ -106,23 +107,14 @@ Please refer to the full package insert for complete warnings and contraindicati
 **Decision: Hold**
 
 **Rationale:**
-There is no clinical trial evidence and no published literature supporting the use of Lamotrigine in trigeminal nerve neoplasm. The TxGNN rank-1 score almost certainly reflects graph-level topological proximity (trigeminal nerve node adjacent to seizure/pain pathways) rather than a genuine mechanistic or clinical repurposing signal. Sodium channel blockade has no established antitumour rationale in this cancer type.
+The prediction has a very high model score but no clinical trials and no publications showing lamotrigine treats a trigeminal nerve tumour. The available literature describes trigeminal neuralgia, which is a different condition, so the evidence level is L5 (model prediction only).
 
 **To proceed, the following is needed:**
-
-- A credible biological hypothesis explaining why NaV channel blockade or glutamate inhibition would affect trigeminal nerve tumour growth, survival, or progression
-- Preclinical (in vitro/in vivo) data testing Lamotrigine in trigeminal nerve neoplasm or neurofibroma models
-- Graph topology audit: confirm whether the TxGNN high score is an artefact of trigeminal nerve node connectivity to epilepsy/pain pathways
-- Retrieval of Lamotrigine MOA data from DrugBank (currently a High-severity data gap)
-- Retrieval of TFDA/CDSCO package insert to obtain formal warnings and contraindications (currently a Blocking-severity data gap)
-
----
-
-> **Note for research teams**: If the objective is to identify the most actionable repurposing candidate from this evidence pack, **Trigeminal Neuralgia** (rank 2, TxGNN score 99.89%, Evidence Level L3, 19 publications including clinical guidelines and direct comparative trials of Lamotrigine vs. Carbamazepine) represents a substantially stronger starting point and warrants a dedicated evaluation report.
-
----
-
-*This report is for research reference purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any application. Data cut-off: 2026-04-04.*
+- Evidence of antitumour activity, such as preclinical studies in relevant tumour models
+- Clarification of whether the prediction reflects trigeminal neuralgia rather than a true neoplasm indication
+- Consideration of trigeminal neuralgia as the more supportable repurposing target (Evidence Level L2, with completed trials)
+- Detailed mechanism of action data (MOA)
+- Package insert warnings and contraindications from the India regulatory source
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

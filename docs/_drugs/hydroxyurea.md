@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Hydroxyurea
-parent: High Evidence (L1-L2)
-nav_order: 411
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 415
+evidence_level: L5
 indication_count: 10
 ---
 
 # Hydroxyurea
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Hydroxyurea: From Sickle Cell Anemia (HbSS) to Sickle Cell-Hemoglobin C Disease Syndrome
+# Hydroxyurea: From Melanoma and Sickle Cell Anemia to Breast Carcinoma
 
 ## One-Sentence Summary
 
-Hydroxyurea is an S-phase-specific ribonucleotide reductase inhibitor whose efficacy in classic sickle cell anemia (HbSS) — via induction of fetal hemoglobin (HbF) — is already well documented in the literature. The TxGNN model predicts it may also be effective for **Sickle Cell-Hemoglobin C Disease Syndrome**, a related hemoglobinopathy genotype, and this direction is currently supported by **8 clinical trials** and **19 publications**, including two Cochrane systematic reviews and a 2025 NEJM Evidence trial report.
-
-Note: this evidence pack covers 10 predicted indications for hydroxyurea (5 sickle-cell hemoglobinopathy variants and 5 unrelated oncology indications). This report focuses on the strongest-evidence candidate, Sickle Cell-Hemoglobin C Disease; the others are summarized in a table at the end of this section for context.
+Hydroxyurea is an oral ribonucleotide reductase inhibitor, originally used for melanoma, sickle cell anemia and ovarian cancer.
+The TxGNN model's top-ranked prediction is **female breast carcinoma**, but it has **no registered clinical trials** and only preclinical or indirect publications behind it.
+The best-supported repurposing direction in the data compiled for this report is **sickle cell-hemoglobin C disease (HbSC)**, with **1 Phase 2 trial** and **a 2025 NEJM Evidence publication**.
 
 ---
 
@@ -43,120 +43,124 @@ Note: this evidence pack covers 10 predicted indications for hydroxyurea (5 sick
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in this evidence pack (`original_indications` field is empty); literature within the pack confirms hydroxyurea's proven use in classic sickle cell anemia (HbSS) |
-| Predicted New Indication | Sickle Cell-Hemoglobin C Disease Syndrome |
-| TxGNN Prediction Score | 99.67% |
-| Evidence Level | L2 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Melanoma, sickle cell anemia, hereditary persistence of fetal hemoglobin, ovarian cancer (the registration records in India contain no approved indication text) |
+| Predicted New Indication | Female breast carcinoma (rank 1); best-supported alternative: sickle cell-hemoglobin C disease |
+| TxGNN Prediction Score | 99.97% (breast carcinoma); 99.67% (HbSC) |
+| Evidence Level | L4 (breast carcinoma); L2 (HbSC) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold (breast carcinoma); Proceed with Guardrails (HbSC) |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed DrugBank-sourced mechanism-of-action text is currently a data gap for this pack. However, the collected literature itself documents the mechanism: hydroxyurea is an S-phase-specific ribonucleotide reductase inhibitor that induces fetal hemoglobin (HbF) synthesis. Elevated HbF interferes with the polymerization of sickle hemoglobin (HbS), which is the pathological driver of vaso-occlusive crises across all sickle hemoglobinopathy genotypes, not just classic HbSS.
+Detailed mechanism-of-action data is not available in the compiled data. Based on known information, hydroxyurea inhibits ribonucleotide reductase, which depletes deoxyribonucleotide pools and causes replication stress. It also raises fetal hemoglobin (HbF), which reduces sickle hemoglobin polymerization.
 
-Sickle Cell-Hemoglobin C Disease (HbSC) is a compound heterozygous genotype (one HbS allele, one HbC allele) that shares the same HbS-polymerization pathophysiology as HbSS, just with a milder average phenotype. Because hydroxyurea's HbF-inducing mechanism does not depend on which second allele is present, mechanistic extrapolation from HbSS to HbSC is biologically plausible — a point echoed explicitly in the evidence pack's own rationale notes ("同HbF誘導機轉，惟直接針對...族群數據有限，多數證據來自一般鐮狀血球病族群之外推").
+**Breast carcinoma.** Preclinical studies use hydroxyurea as a replication-stress tool in breast cancer cells. They cover RPA2-mediated DNA repair, ATR inhibition and BRCA-related replication fork biology. This supports biological plausibility only. No breast cancer trial of hydroxyurea is registered. Older Phase 1 combination studies from 1991–1992 (with 5-FU, leucovorin and cisplatin) were not breast-specific, and the 2024 lipid-conjugate paper is an in-silico design study.
 
-This is also historically supported: as literature entry PMID 26615793 notes, hydroxyurea's clinical and laboratory efficacy was proven in adult HbSS patients decades ago, and clinical use has since been cautiously extended to HbSC patients, motivated by their still-significant burden of vaso-occlusive pain, acute chest syndrome, and avascular necrosis despite a historically "milder disease" label.
+**HbSC disease.** HbF induction is the established mechanism in sickle cell anemia, so extending it to HbSC is reasonable. It is less certain than in HbSS because HbC also contributes to red cell dehydration and viscosity. This indication has direct clinical data.
+
+**Other sickle syndromes.** The other sickle-related predictions (HPFH-sickle, HbSE, HbSD, HbS/beta-thalassemia) rest on the same HbF logic but have little genotype-specific evidence. The remaining predictions (cervical adenosarcoma and mucinous adenocarcinomas of the colon, rectum and gallbladder) rest only on the model score.
 
 ---
 
 ## Clinical Trial Evidence
 
+**Female breast carcinoma:** Currently no related clinical trials registered.
+
+**Sickle cell-hemoglobin C disease (best-supported alternative):**
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00532883](https://clinicaltrials.gov/study/NCT00532883) | Phase 2 | Terminated | 44 | Hydroxyurea vs. magnesium pidolate, alone and combined, for reducing RBC density and pain episodes in HbSC disease |
-| [NCT02640573](https://clinicaltrials.gov/study/NCT02640573) | Phase 2 | Terminated | 1 | Treatment of adult patients with HbSC disease using hydroxyurea |
-| [NCT02336373](https://clinicaltrials.gov/study/NCT02336373) | Phase 2 | Terminated | 32 | Hydroxyurea treatment effects in youth with HbSC disease |
-| [NCT03474965](https://clinicaltrials.gov/study/NCT03474965) | Phase 2 | Completed | 117 | Crizanlizumab with/without hydroxyurea/hydroxycarbamide in pediatric sickle cell VOC, incl. SC genotype |
-| [NCT03264989](https://clinicaltrials.gov/study/NCT03264989) | Phase 2 | Completed | 57 | Crizanlizumab with/without hydroxyurea in adult sickle cell VOC |
-| [NCT03128515](https://clinicaltrials.gov/study/NCT03128515) | Phase 3 | Completed | 187 | NOHARM: first placebo-controlled RCT of hydroxyurea dosing/safety in a malaria-endemic sickle cell population |
-| [NCT03763656](https://clinicaltrials.gov/study/NCT03763656) | Phase 1/2 | Completed | 33 | Pharmacokinetic study of oral hydroxyurea solution in children with sickle cell anemia |
-| [NCT01987908](https://clinicaltrials.gov/study/NCT01987908) | Phase 2 | Terminated | 35 | Comparator trial noting hydroxyurea as the only approved SCD drug, evaluated against Aes-103 |
+| [NCT00532883](https://clinicaltrials.gov/study/NCT00532883) | Phase 2 | Terminated | 44 | Hydroxyurea and magnesium pidolate, alone and combined, for reducing red cell density and pain episodes in HbSC; early termination limits conclusions |
+
+**Sickle cell-beta-thalassemia (indirect only):**
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT03653338](https://clinicaltrials.gov/study/NCT03653338) | Phase 1/2 | Recruiting | 5 | T-cell depleted alternative donor transplant in severe sickle cell disease; hydroxyurea is not the intervention tested |
+| [NCT01962415](https://clinicaltrials.gov/study/NCT01962415) | Phase 2 | Recruiting | 100 | Reduced-intensity conditioning for transplant in non-malignant disorders; not a test of hydroxyurea efficacy |
 
 ---
 
 ## Literature Evidence
 
+**Female breast carcinoma (preclinical or indirect):**
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [39647172](https://pubmed.ncbi.nlm.nih.gov/39647172/) | 2025 | RCT | NEJM Evidence | Trial examining safety and efficacy of hydroxyurea treatment specifically in patients with HbSC disease, a genotype with no established disease-modifying therapy |
-| [36047926](https://pubmed.ncbi.nlm.nih.gov/36047926/) | 2022 | Systematic Review | Cochrane Database of Systematic Reviews | Updated Cochrane review of hydroxyurea (hydroxycarbamide) for sickle cell disease |
-| [28426137](https://pubmed.ncbi.nlm.nih.gov/28426137/) | 2017 | Systematic Review | Cochrane Database of Systematic Reviews | Earlier Cochrane review update on hydroxyurea for sickle cell disease |
-| [26615793](https://pubmed.ncbi.nlm.nih.gov/26615793/) | 2016 | Clinical Study | American Journal of Hematology | Evaluates hydroxyurea safety/utility in HbSC patients, 20 years after efficacy was proven in adult HbSS |
-| [22949140](https://pubmed.ncbi.nlm.nih.gov/22949140/) | 2013 | Clinical Study | Pediatric Blood & Cancer | Long-term hydroxyurea response in 15 children with severe HbSC: increased MCV/HbF, fewer chest syndrome/hospitalization episodes; thrombocytopenia was the main side effect |
-| [11464988](https://pubmed.ncbi.nlm.nih.gov/11464988/) | 2001 | Clinical Study | Journal of Pediatric Hematology/Oncology | Pilot evaluation of hydroxyurea laboratory/clinical response in pediatric HbSC patients |
-| [36799926](https://pubmed.ncbi.nlm.nih.gov/36799926/) | 2023 | Review | Blood Advances | Notes most adults with severe HbSC disease are not treated with hydroxyurea despite disease burden, highlighting an access/practice gap |
-| [11406036](https://pubmed.ncbi.nlm.nih.gov/11406036/) | 2001 | Systematic Review | Cochrane Database of Systematic Reviews | Original Cochrane review establishing hydroxyurea's HbF-raising rationale for sickle cell disease |
-| [37439373](https://pubmed.ncbi.nlm.nih.gov/37439373/) | 2023 | Clinical Study | Haematologica | Plasma metabolomics in sickle cell patients (incl. HbSC) as a function of hydroxyurea treatment |
-| [39229085](https://pubmed.ncbi.nlm.nih.gov/39229085/) | 2024 | Preprint | bioRxiv | CureSCi metadata catalog harmonizing studies for secondary analysis of hydroxyurea use in sickle cell disease |
+| [38211596](https://pubmed.ncbi.nlm.nih.gov/38211596/) | 2024 | In-silico/Preclinical | Drug Research | Design of hydroxyurea-lipid conjugates targeting the PI3K/AKT/mTOR pathway; no clinical data |
+| [28837865](https://pubmed.ncbi.nlm.nih.gov/28837865/) | 2017 | Preclinical | DNA Repair | Valproic acid sensitizes breast cancer cells to hydroxyurea by inhibiting RPA2-mediated DNA repair |
+| [32795962](https://pubmed.ncbi.nlm.nih.gov/32795962/) | 2020 | Preclinical | DNA Repair | A valproic acid analogue as a potential breast carcinoma therapy, building on hydroxyurea sensitization |
+| [1957839](https://pubmed.ncbi.nlm.nih.gov/1957839/) | 1991 | Phase 1 | Am J Clin Oncol | 5-FU, leucovorin and then hydroxyurea in advanced GI and breast cancer; not breast-specific |
+| [1733549](https://pubmed.ncbi.nlm.nih.gov/1733549/) | 1992 | Phase 1/2 | Cancer Chemother Pharmacol | 5-FU, leucovorin, hydroxyurea and cisplatin with radiotherapy in solid tumors; not breast-specific |
+| [30159181](https://pubmed.ncbi.nlm.nih.gov/30159181/) | 2018 | Case report | Case Rep Hematol | Coexisting breast cancer and essential thrombocythemia, with discussion of therapeutic challenges |
 
----
+**Sickle cell-hemoglobin C disease:**
 
-### Other Predicted Indications in This Pack (Summary)
-
-| Rank | Disease | TxGNN Score | Evidence Level | Recommendation |
-|------|---------|-------------|-----------------|------------------|
-| 2 | Hereditary Persistence of Fetal Hemoglobin–Sickle Cell Disease | 99.67% | L4 | Research Question |
-| 3 | Sickle Cell-Hemoglobin E Disease Syndrome | 99.67% | L2 | Proceed with Guardrails |
-| 4 | Sickle Cell-Hemoglobin D Disease Syndrome | 99.67% | L2 | Proceed with Guardrails |
-| 6 | Sickle Cell-Beta-Thalassemia Disease Syndrome | 99.67% | L4 | Research Question |
-| 1 | Female Breast Carcinoma | 99.97% | L5 | Hold — no supporting trials or literature |
-| 7 | Cervical Adenosarcoma | 99.40% | L5 | Hold — no supporting trials or literature |
-| 8 | Colon Mucinous Adenocarcinoma | 99.32% | L5 | Hold — no supporting trials or literature |
-| 9 | Rectum Mucinous Adenocarcinoma | 99.31% | L5 | Hold — no supporting trials or literature |
-| 10 | Gallbladder Mucinous Adenocarcinoma | 99.28% | L5 | Hold — no supporting trials or literature |
-
-The oncology-related predictions (breast, cervical, colon, rectum, gallbladder) rest purely on hydroxyurea's general antiproliferative mechanism, with zero clinical trial or literature hits returned in this pack's queries — these remain model-score-only (L5) and are not actionable without further evidence generation.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [39647172](https://pubmed.ncbi.nlm.nih.gov/39647172/) | 2025 | Clinical study | NEJM Evidence | Safety and efficacy of hydroxyurea in children and adults with HbSC; design and results should be confirmed against the full text |
+| [36047926](https://pubmed.ncbi.nlm.nih.gov/36047926/) | 2022 | Systematic review | Cochrane Database Syst Rev | Hydroxyurea for sickle cell disease; mostly HbSS data, indirect for HbSC |
+| [26615793](https://pubmed.ncbi.nlm.nih.gov/26615793/) | 2016 | Observational | Am J Hematol | Effects of hydroxyurea in patients with HbSC |
+| [22949140](https://pubmed.ncbi.nlm.nih.gov/22949140/) | 2013 | Observational | Pediatr Blood Cancer | In 15 children with severe HbSC, hydroxyurea raised MCV and HbF and reduced acute chest syndrome and pain hospitalizations; thrombocytopenia was the main side effect |
+| [36799926](https://pubmed.ncbi.nlm.nih.gov/36799926/) | 2023 | Observational | Blood Adv | Most adults with severe HbSC in Ghana are not treated with hydroxyurea |
+| [42360692](https://pubmed.ncbi.nlm.nih.gov/42360692/) | 2026 | Real-world cohort | Br J Haematol | Retrospective pre-post study of hydroxyurea effectiveness and safety in adults with HbSC in Quebec |
 
 ---
 
 ## India Market Information
 
-Currently no market authorizations are recorded (`total_licenses = 0`, market status: Not Marketed).
+Twenty valid single-ingredient registrations are listed; five are shown below. The registration records contain no approved indication text. All are oral forms (capsule or tablet).
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 104805 | Hondrea 500mg Capsule (Alkem Laboratories) | Strip of 10 capsules | Not stated in registration record |
+| 104101 | Hydab 500mg Capsule (Fresenius Kabi India) | Strip of 10 capsules | Not stated in registration record |
+| 103709 | Hydrea 500mg Capsule (Sarabhai Chemicals) | Strip of 10 capsules | Not stated in registration record |
+| 134720 | Mylostat 500mg Capsule (Zydus Cadila) | Strip of 10 capsules | Not stated in registration record |
+| 105353 | Hdyshil 500mg Tablet (Shilpa Medicare) | Strip of 10 tablets | Not stated in registration record |
 
 ---
 
 ## Cytotoxicity
 
-Hydroxyurea is classified as a conventional cytotoxic agent (S-phase-specific ribonucleotide reductase inhibitor), as reflected in its established antineoplastic use and in the mechanistic rationale throughout this evidence pack.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (ribonucleotide reductase inhibitor, S-phase specific) |
-| Myelosuppression Risk | High — literature in this pack (PMID 22949140) identifies thrombocytopenia as the most significant treatment-limiting side effect in HbSC patients on hydroxyurea; neutropenia is also a recognized dose-limiting toxicity in the broader sickle cell/oncology literature |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential (frequent during dose titration, then periodic maintenance monitoring), renal function, hepatic function |
-| Handling Protection | Should be handled per institutional cytotoxic/hazardous drug handling protocols despite oral administration |
+| Cytotoxicity Classification | Conventional cytotoxic (antimetabolite, ribonucleotide reductase inhibitor) |
+| Myelosuppression Risk | Significant. The knowledge graph lists leukopenia, thrombocytopenia and anemia as contraindicated conditions, and thrombocytopenia was the main side effect in HbSC children |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Complete blood count with differential, plus renal function (the knowledge graph lists kidney disease as a contraindicated condition) |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ---
 
 ## Safety Considerations
 
-Key warnings and contraindications are not currently available in this evidence pack (flagged as a **Blocking** data gap — TFDA label warnings/contraindications must be obtained before this candidate can pass initial safety screening, per DG001).
+- **Contraindicated conditions (knowledge graph, not label text):** kidney disease, pyoureter, thrombocytopenia, anemia, macrocytic anemia, leukopenia, cutaneous vasculitis.
+- **Drug Interactions:** 309 interactions were identified. Most are of unclassified severity. Examples include levofloxacin (minor), doxycycline, amphotericin B, hydrocortisone, acetylsalicylic acid, metformin, omeprazole, simvastatin and prednisone. The severity of most of these interactions has not been classified.
 
-**Drug Interactions**: A DDI query returned 309 total interacting drugs. Among the sampled entries, most are recorded with an "Unknown" severity level pending further classification; one has a graded severity:
-- Levofloxacin — Minor
-
-Other frequently co-prescribed drugs flagged in the DDI dataset (severity not yet classified) include doxycycline, amphotericin B, hydrocortisone, famotidine, acetylsalicylic acid, pantoprazole, acarbose, morphine, metformin, omeprazole, rosiglitazone, lansoprazole, vancomycin, lactulose, triamcinolone, prednisone, simvastatin, nystatin, and potassium chloride. Given the high total interaction count (309) and the predominance of unclassified severities, a full DDI severity review is recommended before clinical use.
+Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails** (for Sickle Cell-Hemoglobin C Disease Syndrome)
+**Decision: Hold for female breast carcinoma; Proceed with Guardrails for HbSC disease**
 
 **Rationale:**
-Multiple completed and ongoing trials plus two Cochrane systematic reviews and a 2025 NEJM Evidence trial support hydroxyurea's mechanistic and clinical rationale in HbSC disease, extrapolated from decades of proven efficacy in classic HbSS. However, the Blocking-severity absence of TFDA label warnings/contraindications (DG001) means this candidate cannot yet pass initial safety screening (S1), and the drug is currently unmarketed in this jurisdiction (0 registrations).
+- Breast carcinoma has the highest TxGNN score (99.97%) but only preclinical, in-silico and non-specific Phase 1 support (L4), and no registered trials.
+- HbSC has the strongest evidence (L2): a Phase 2 trial (terminated), observational studies and a 2025 NEJM Evidence study.
+- The remaining sickle syndromes (HPFH-sickle, HbSE, HbSD, HbS/beta-thalassemia) are research questions at best.
+- The cervical adenosarcoma and mucinous adenocarcinoma predictions (colon, rectum, gallbladder) rest on the model score alone and should be held.
 
 **To proceed, the following is needed:**
-- Resolve DG001: obtain TFDA (or equivalent local regulator) product label warnings/contraindications
-- Resolve DG002: obtain detailed MOA data from DrugBank to formalize the mechanistic-link analysis
-- Full DDI severity classification (309 entries, mostly "Unknown" severity)
-- Regulatory pathway assessment given current "Not Marketed" status
-- If pursuing sickle-cell genotype variants beyond HbSC (HbSE, HbSD — also L2), consolidate into a single genotype-class label-expansion strategy rather than separate submissions
+- Package insert warnings and contraindications from the Indian labels. This is a blocking gap for safety screening.
+- Confirmation of the design and results of the 2025 HbSC publication (PMID 39647172) against the full text.
+- A myelosuppression and blood-count monitoring plan, particularly because thrombocytopenia was reported in HbSC children.
+- Mechanism-of-action data from DrugBank.
+- For breast carcinoma, Phase 1/2 data or a defined preclinical-to-clinical plan before any further consideration.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

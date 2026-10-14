@@ -2,7 +2,7 @@
 layout: default
 title: Gemfibrozil
 parent: Moderate Evidence (L3-L4)
-nav_order: 385
+nav_order: 389
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,87 +29,91 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Gemfibrozil: From Dyslipidemia to Rheumatoid Arthritis
+# Gemfibrozil: From Hypertriglyceridemia to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-> Gemfibrozil is a fibrate-class PPARα agonist originally used to treat dyslipidemia (elevated triglycerides, low HDL-C).
-> The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**,
-> but this direction is currently supported only by **0 clinical trials** and **4 publications**, mostly preclinical or indirectly related.
-
----
+Gemfibrozil is a PPAR-alpha agonist originally used to treat hypertriglyceridemia.
+The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but the support so far consists only of **animal and related-drug preclinical studies**, with **no registered clinical trials**.
+Other predicted indications (HIV-associated lipid disorders and hypoalphalipoproteinemia) have considerably stronger evidence and are noted below.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Dyslipidemia (hypertriglyceridemia / low HDL-C) — inferred from known fibrate pharmacology; no India regulatory filing text is available since the drug is not marketed locally |
-| Predicted New Indication | Rheumatoid Arthritis |
+| Original Indication | Hypertriglyceridemia |
+| Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.90% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 8 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap pending DrugBank API lookup). Based on known information, Gemfibrozil is a member of the fibrate class of PPARα agonists, and its efficacy in dyslipidemia (raising HDL-C, lowering triglycerides via LPL activation and ApoC-III suppression) is well established.
+Gemfibrozil activates PPAR-alpha, a nuclear receptor that regulates fat metabolism. This is how it lowers triglycerides and raises HDL cholesterol. PPAR signalling also has anti-inflammatory and immune-modulating effects, including influence on T-cell and cytokine pathways. These are processes involved in rheumatoid arthritis. Detailed mechanism-of-action data were not available in the data compiled for this report, so this link rests on the known pharmacology of the drug class.
 
-PPARα agonists also have recognized anti-inflammatory properties — they can inhibit the NF-κB pathway and reduce expression of pro-inflammatory cytokines (TNF-α, IL-6), which theoretically could provide a modulatory effect on the chronic inflammation seen in rheumatoid arthritis (RA). This is the mechanistic basis for the TxGNN prediction.
-
-However, the supporting literature is weak and largely indirect: it is dominated by animal-model studies of a related but distinct drug (bezafibrate), a case report describing palmar erythema as a gemfibrozil side effect (not an RA study), and a mechanistic Treg/nitric-oxide study conducted in an EAE model (a different autoimmune disease from RA). There is no controlled clinical evidence of gemfibrozil itself being used to treat RA patients, so the mechanistic rationale remains hypothesis-generating rather than clinically validated.
-
----
+Direct evidence is thin. A rat study (2019) found that gemfibrozil combined with a reduced steroid dose gave a similar outcome to the full steroid dose in adjuvant-induced arthritis. A 2026 animal study with bezafibrate, a related pan-PPAR agonist, reported reduced experimental arthritis through PPAR-dependent pathways. Neither is human data, and the original lipid indication is only indirectly related to joint inflammation.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for rheumatoid arthritis.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [18039017](https://pubmed.ncbi.nlm.nih.gov/18039017/) | 2007 | Review/Case Report | American Journal of Clinical Dermatology | Review of palmar erythema etiologies; not an RA study — gemfibrozil is discussed only as one possible drug associated with this dermatologic finding |
-| [30074417](https://pubmed.ncbi.nlm.nih.gov/30074417/) | 2019 | Preclinical (Animal) | Modern Rheumatology | In a rat adjuvant-induced arthritis (AIA) model, gemfibrozil combined with a reduced steroid dose produced disease control comparable to a full-dose steroid regimen, suggesting a possible steroid-sparing effect |
-| [41207105](https://pubmed.ncbi.nlm.nih.gov/41207105/) | 2026 | Preclinical (Animal) | International Immunopharmacology | Bezafibrate (a pan-PPAR agonist, not gemfibrozil) attenuated experimental RA via PPAR-dependent, especially PPARγ-mediated, anti-inflammatory pathways — supports the fibrate class mechanistically but does not directly test gemfibrozil |
-| [20083653](https://pubmed.ncbi.nlm.nih.gov/20083653/) | 2010 | Preclinical (Animal) | Journal of Immunology | Mechanistic study of nitric oxide and Foxp3/Treg regulation in an EAE (experimental autoimmune encephalomyelitis) model — a different autoimmune disease from RA; relevance to RA is indirect |
+| [30074417](https://pubmed.ncbi.nlm.nih.gov/30074417/) | 2019 | Preclinical (rat model) | Modern Rheumatology | Gemfibrozil plus reduced-dose prednisolone gave a similar picture to full-dose steroid in adjuvant-induced arthritis |
+| [41207105](https://pubmed.ncbi.nlm.nih.gov/41207105/) | 2026 | Preclinical (related drug) | International Immunopharmacology | Bezafibrate, a pan-PPAR agonist, attenuated experimental arthritis via PPAR-dependent pathways |
+| [20083653](https://pubmed.ncbi.nlm.nih.gov/20083653/) | 2010 | Preclinical (mechanistic) | Journal of Immunology | Nitric oxide and Foxp3 regulation in T cells; background on immune mechanisms |
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 168871 | Oxipace 300mg Tablet | Strip of 10 tablets | Not specified |
+| 121328 | Lopid Capsule | Strip of 10 capsules | Not specified |
+| 97053 | Gempar 300mg Capsule | Strip of 10 capsules | Not specified |
+| 194412 | Regulipid Tablet | Strip of 30 tablets | Not specified |
+| 221144 | Triglyd 600mg Tablet | Strip of 10 tablets | Not specified |
+
+Eight valid single-ingredient registrations exist in total.
 
 ## Safety Considerations
 
-**Drug Interactions**: DrugBank/DDInter records 129 total interactions for gemfibrozil. Notable **Major**-severity interactions include:
-- Eluxadoline
-- Loperamide
-- Pioglitazone
-- Repaglinide
-- Rosuvastatin
-- Simvastatin
+- **Contraindications (from knowledge-graph associations, not label text)**: liver disease, gallbladder disease, cholelithiasis and related biliary stone conditions, primary biliary cholangitis, impaired renal function, thrombocytopenia, leukopenia, anaemia (including macrocytic anaemia).
+- **Drug Interactions**: 129 interactions were identified. Major ones include:
+  - Statins: rosuvastatin and simvastatin
+  - Antidiabetic agents: pioglitazone and repaglinide
+  - Antidiarrhoeals: loperamide and eluxadoline
+  - Moderate interactions include insulins, nateglinide, rosiglitazone, chlorpropamide, tolazamide, rifaximin and chenodeoxycholic acid.
 
-Notable **Moderate**-severity interactions include multiple insulin formulations (aspart, degludec, detemir, glargine, glulisine, human isophane/regular), sulfonylureas (chlorpropamide, tolazamide), other glitazones/glinides (rosiglitazone, nateglinide), rifaximin, and chenodeoxycholic acid.
-
-Key warnings and contraindications from the local product label are not currently available (blocking data gap — pending retrieval and parsing of the official package insert). This must be resolved before any safety evaluation (S1) can proceed.
-
----
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The Rheumatoid Arthritis signal rests entirely on preclinical/mechanistic and indirect literature (evidence level L4) — no clinical trials, and most supporting studies involve a related drug (bezafibrate) or unrelated disease models (EAE) rather than gemfibrozil in RA patients directly. This is insufficient to advance past S0.
+The high TxGNN score is not backed by human evidence. There are no registered trials, and the literature is limited to animal studies and a related-drug study. The mechanistic link is plausible but unproven.
 
 **To proceed, the following is needed:**
-- Official India product label (warnings/contraindications) — currently a **Blocking** data gap (DG001)
-- Confirmed mechanism of action data from DrugBank — currently a **High**-severity data gap (DG002)
-- A dedicated preclinical or clinical study evaluating gemfibrozil (not bezafibrate) specifically in RA models or patients
-- Re-evaluation of India market entry plans, since the drug currently has zero local registrations
+- Controlled preclinical confirmation with gemfibrozil itself, and any early-phase human data in rheumatoid arthritis
+- Detailed mechanism-of-action data
+- Package insert warnings and contraindications from the Indian market
+- A drug-interaction plan, since rheumatoid arthritis patients commonly take multiple medications
 
-**Note:** Among the other candidates in this evidence pack, *hypoalphalipoproteinemia* (rank 4) shows materially stronger evidence (Evidence Level L2, decision stage S3, "Proceed with Guardrails") — but this reflects gemfibrozil's already-established fibrate pharmacology rather than a genuinely novel repurposing opportunity, and may warrant a separate evaluation report if needed.
+---
+
+## Other Predicted Indications (Supplementary)
+
+| Rank | Predicted Indication | Score | Evidence Level | Decision | Notes |
+|---|---|---|---|---|---|
+| 3 | HIV infectious disease | 99.80% | L2 | Research Question | Supports managing protease-inhibitor-associated hypertriglyceridaemia, not treating HIV itself. Includes a randomized double-blind study ([PMID 12409741](https://pubmed.ncbi.nlm.nih.gov/12409741/)) and a comparative effectiveness study ([PMID 23892238](https://pubmed.ncbi.nlm.nih.gov/23892238/)). One Phase 1 trial ([NCT00039663](https://clinicaltrials.gov/study/NCT00039663)) was low relevance. Interaction risk with statins and antiretrovirals requires guardrails. |
+| 4 | Hypoalphalipoproteinemia (low HDL) | 99.77% | L3 | Proceed with Guardrails | Several small, older crossover and comparison studies (1989–2000) showing lipoprotein changes. Mostly surrogate endpoints. No registered trials. |
+| 8 | Familial combined hyperlipidemia (obsolete term) | 99.71% | L5 | Hold | Mechanistically plausible, but the term is obsolete and must be mapped to a current one before assessment. |
+| 9 | Sclerosing cholangitis | 99.70% | L4 | Hold | Literature covers fibrate safety in cholestatic disease, not efficacy. Hepatotoxicity concern. |
+| 2, 5, 6, 7, 10 | Multiple endocrine neoplasia; brachydactyly-syndactyly syndrome; colobomatous microphthalmia-rhizomelic dysplasia syndrome; methemoglobinemia, alpha type; methemoglobin reductase deficiency | 99.70–99.83% | L5 | Hold | No clinical or literature evidence and no plausible mechanistic link. Computational prediction only. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Disopyramide
 parent: Model Prediction Only (L5)
-nav_order: 274
+nav_order: 277
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,98 +33,78 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Disopyramide is a Class Ia antiarrhythmic agent that blocks cardiac sodium channels to suppress ventricular and supraventricular arrhythmias.
-The TxGNN model predicts it may be effective for **Tourette Syndrome**,
-however this prediction is currently supported by **0 clinical trials** and **0 publications**, making it a model-only signal requiring substantial further investigation before any development decision.
-
----
+Disopyramide is a class Ia antiarrhythmic (sodium channel blocker with anticholinergic activity) marketed in India as Norpace New Capsule. The TxGNN model predicts it may be effective for **Tourette syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. The result is a graph-based signal only, with no pharmacological rationale behind it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Cardiac arrhythmia (Class Ia antiarrhythmic; no India registration on file) |
-| Predicted New Indication | Tourette Syndrome |
+|------|------|
+| Original Indication | Not stated in the India license data (the drug's known use is as an antiarrhythmic) |
+| Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 99.86% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, disopyramide is a class Ia antiarrhythmic that blocks sodium channels and has anticholinergic activity. Its established role is in atrial and ventricular arrhythmias.
 
-Detailed mechanism of action data for Disopyramide is not currently available in the evidence pack. Based on known pharmacology, Disopyramide is a Class Ia antiarrhythmic agent that blocks fast sodium (Na⁺) channels in cardiac tissue and prolongs the effective refractory period. It also carries a clinically significant anticholinergic side-effect profile through muscarinic receptor (M1/M2) antagonism.
+Tourette syndrome is mainly treated by modulating dopaminergic and alpha-2 adrenergic pathways, which are not primary targets of disopyramide. No clear mechanistic link was identified. The high TxGNN score most likely reflects proximity in the knowledge graph and not a drug-specific pharmacological signal.
 
-The proposed link to Tourette Syndrome rests on the observation that M1 muscarinic receptors play a modulatory role in basal ganglia circuitry — the same circuitry implicated in tic generation. In theory, anticholinergic activity could influence that circuit. However, established anticholinergic agents have not demonstrated efficacy for Tourette Syndrome, and the anticholinergic burden of Disopyramide may in fact worsen cognitive side effects relevant to this patient population (predominantly children and adolescents).
-
-The most plausible explanation for this TxGNN prediction is an indirect knowledge-graph path through shared protein–protein interaction network nodes (e.g., Na⁺ channel subunits expressed in neuronal tissue) rather than a direct pharmacological mechanism. The prediction should be treated as a hypothesis-generating signal only, not as mechanistic evidence of efficacy.
-
----
+Other top-ranked predictions show the same pattern:
+- **ADHD (including the inattentive subtype), trichotillomania, specific developmental disorder, faciodigitogenital syndrome:** no plausible mechanism, and no supporting evidence.
+- **Chondromyxoid fibroma and trigeminal nerve neoplasm:** no antineoplastic activity is known.
+- **Idiopathic neonatal atrial flutter:** mechanistically plausible, because disopyramide is used for atrial arrhythmias in adults. However, no neonatal data exist, and neonatal safety and dosing are unestablished.
+- **Multifocal atrial tachycardia:** biologically plausible, but the only publication found concerns a different drug (see below).
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+No literature was found for Tourette syndrome. The only publication in the top 10 predictions relates to multifocal atrial tachycardia (rank 9):
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [7418495](https://pubmed.ncbi.nlm.nih.gov/7418495/) | 1980 | Clinical study (case report) | Chest | A patient with resistant ventricular and supraventricular arrhythmias, including multifocal premature ventricular contractions, was treated with lorcainide. Quinidine, procainamide, disopyramide, propranolol and digoxin had failed to suppress the arrhythmias. This concerns a different drug, so it is only indirect evidence. |
 
 ## India Market Information
 
-Disopyramide has no registered products in India. No license records are available.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 151471 | Norpace New Capsule (RPG Life Sciences Ltd) | Strip of 10 capsules (oral) | Not stated in the license data |
 
 ## Safety Considerations
 
-**Drug Interactions (258 total interactions on file):**
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
 
-The following are the highest-severity interactions identified:
+**Contraindication signals from the knowledge graph** (drug-disease links, not label text):
+- **Cardiac:** long QT syndrome (including familial), atrioventricular block, atrial fibrillation, atrial flutter, cardiomyopathy (including hypertrophic), myocarditis, endomyocardial fibrosis, myocardial disorder, hypotensive disorder
+- **Anticholinergic-related:** angle-closure glaucoma, benign prostatic hyperplasia, myasthenia gravis and related neuromuscular junction disease
+- **Organ and metabolic:** kidney disease, liver disease, gallbladder disease, pyoureter, potassium deficiency, hypoglycemia
 
-| Severity | Interacting Drug | Clinical Relevance |
-|----------|-----------------|-------------------|
-| **Major** | Potassium citrate | Urine alkalinisation reduces disopyramide renal clearance, raising plasma levels and toxicity risk |
-| **Major** | Clarithromycin | CYP3A4 inhibition elevates disopyramide levels; combined QT prolongation risk |
-| **Major** | Picosulfuric acid | Electrolyte depletion (hypokalaemia) potentiates arrhythmia and QT prolongation |
+**Drug interactions:** 258 interactions were recorded. Main examples:
+- **Major:** potassium citrate, clarithromycin, picosulfuric acid
+- **Moderate:** famotidine, hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide, amphotericin B, atropine, hyoscyamine, glycopyrronium, clidinium, loperamide, aprepitant, bisacodyl, chlorpropamide
+- **Minor:** cimetidine
 
-Selected Moderate interactions (out of a larger list):
-
-| Severity | Interacting Drug |
-|----------|-----------------|
-| Moderate | Atropine / Hyoscyamine / Glycopyrronium / Clidinium (additive anticholinergic effects) |
-| Moderate | Hydrocortisone / Dexamethasone / Betamethasone / Budesonide / Triamcinolone (hypokalaemia, QT risk) |
-| Moderate | Famotidine / Cimetidine (altered renal excretion) |
-| Moderate | Amphotericin B / Amphotericin B (lipid complex) (hypokalaemia) |
-| Moderate | Loperamide / Bisacodyl (motility effects compound anticholinergic burden) |
-| Moderate | Aprepitant (CYP3A4 modulation) |
-| Moderate | Chlorpropamide (hypoglycaemia risk) |
-
-Please refer to the package insert for full warnings and contraindications, as those data were not available in the current evidence pack.
-
----
+In ADHD and Tourette populations, which include many children and adolescents, the cardiovascular and anticholinergic adverse effects of disopyramide would be a particular concern.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high prediction score (99.86%), but this reflects knowledge-graph topology rather than pharmacological plausibility — the mechanistic rationale for Disopyramide in Tourette Syndrome is weak, and the drug's anticholinergic profile may be contraindicated in the target population. There is zero clinical or preclinical literature supporting this indication.
+The Tourette syndrome prediction rests only on a graph-based score (L5). There are no clinical trials or literature, no plausible mechanism, and a cardiac and anticholinergic safety profile that is unfavorable for this population. The same applies to the other neurodevelopmental, oncologic and rare-disease predictions. Of the top 10 predictions, the arrhythmia-related ones (multifocal atrial tachycardia, idiopathic neonatal atrial flutter) are the most biologically plausible, but they also lack direct evidence.
 
-**To reconsider this candidate, the following would be needed:**
-
-- Retrieve and review the full Disopyramide package insert (from a reference market such as the US FDA or EMA) to document contraindications and black-box warnings — currently a blocking data gap
-- Confirm the full MOA via DrugBank API query (currently a high-severity data gap)
-- Conduct a systematic literature search in neuropsychiatric databases (e.g., PsycINFO, EMBASE) using broader terms (Na⁺ channel blockers + tic disorders; anticholinergics + Tourette) to rule out any unpublished or non-indexed signals
-- Evaluate whether India-specific registration is feasible given the drug is currently not marketed domestically
-- If mechanistic rationale emerges, commission a scoping review before any preclinical investment
-
-> **Disclaimer:** This report is for research reference purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+**To proceed, the following is needed:**
+- The approved indication text and package insert warnings and contraindications from the India license (this blocks safety screening)
+- Detailed mechanism of action data
+- Direct preclinical or clinical evidence for any predicted indication
+- For arrhythmia-related predictions, specific evidence on disopyramide, including neonatal safety, dosing and pharmacokinetics for the neonatal atrial flutter prediction
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

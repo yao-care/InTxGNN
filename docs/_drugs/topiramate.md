@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Topiramate
-parent: Moderate Evidence (L3-L4)
-nav_order: 841
-evidence_level: L3
+parent: Model Prediction Only (L5)
+nav_order: 848
+evidence_level: L5
 indication_count: 9
 ---
 
 # Topiramate
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,124 +29,119 @@ Evidence Level: **L3** | Predicted Indications: **9**
 
 </div>
 
-# Topiramate: From Broad-Spectrum Epilepsy Treatment to Visual Epilepsy (and Related Reflex Seizure Subtypes)
+# Topiramate: From Epilepsy to Trigeminal Nerve Neoplasm
 
 ## One-Sentence Summary
 
-> Topiramate is a well-established broad-spectrum antiepileptic drug. This evidence pack screened **9 candidate indications** via TxGNN, most representing rare reflex-epilepsy subtypes rather than a wholly new disease area.
-> The strongest signal is **Visual Epilepsy**, supported by **4 clinical trials** and **20 publications** (Evidence Level L3), while several other candidates (e.g., trigeminal nerve neoplasm, orgasm-induced seizures) have **zero supporting evidence** and are flagged in the data itself as likely false-positive pairings.
+Topiramate is an anticonvulsant originally used for epilepsy (generalized tonic-clonic seizures, partial epilepsy and Lennox-Gastaut syndrome).
+The TxGNN model's top-ranked prediction is **trigeminal nerve neoplasm**, but there are **no clinical trials and no publications** supporting it; this is a computational prediction only.
+The better-supported candidates are reflex-seizure conditions (such as audiogenic seizures, thinking seizures and reading seizures), which are essentially extensions of the existing epilepsy use.
 
 ---
 
 ## Quick Overview
 
-*(For the lead candidate — Visual Epilepsy — the strongest evidenced prediction in this pack)*
-
 | Item | Content |
 |------|------|
-| Original Indication | Not available — Topiramate is not currently marketed in India, so no approved indication text exists in this evidence pack. Its established use as a broad-spectrum antiepileptic is referenced throughout the supporting evidence. |
-| Predicted New Indication | Visual Epilepsy |
-| TxGNN Prediction Score | 99.28% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Epilepsy (generalized tonic-clonic seizures, partial epilepsy, Lennox-Gastaut syndrome) |
+| Predicted New Indication | Trigeminal nerve neoplasm |
+| TxGNN Prediction Score | 99.70% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
----
-
-## Screened Candidates Overview
-
-TxGNN returned 9 disease candidates for Topiramate. Evidence strength varies enormously — most are ultra-rare reflex-epilepsy subtypes with no dedicated literature:
-
-| Rank | Disease | TxGNN Score | Evidence Level | Decision Stage | Recommendation |
-|------|---------|-------------|-----------------|-----------------|-----------------|
-| 1 | Trigeminal nerve neoplasm | 99.70% | L5 | S0 | Hold |
-| 2 | **Visual epilepsy** | 99.28% | **L3** | S2 | **Proceed with Guardrails** |
-| 3 | Eating seizures | 99.21% | L4 | S0 | Hold |
-| 4 | Orgasm-induced seizures | 99.21% | L5 | S0 | Hold |
-| 5 | Audiogenic seizures | 99.21% | L4 | S1 | Research Question |
-| 6 | **Thinking seizures** | 99.21% | **L3** | S2 | **Proceed with Guardrails** |
-| 7 | Micturition-induced seizures | 99.21% | L5 | S0 | Hold |
-| 8 | Startle epilepsy | 99.21% | L5 | S0 | Hold |
-| 9 | Reading seizures | 99.09% | L3 | S1 | Research Question |
-
-**Note on Rank 1**: The top-scored candidate, "trigeminal nerve neoplasm," has no clinical trial or literature evidence at all, and the evidence pack's own mechanistic rationale explicitly labels it as "a probable false-positive pairing from the KG algorithm." It is not carried forward as the report's primary subject.
+The original indications come from the TxGNN knowledge graph, because the Indian licence records contain no indication text.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data for Topiramate is not available in this evidence pack (flagged as Data Gap DG002, High severity). Based on the evidence that *is* available, Topiramate is consistently described across trials and literature as a **broad-spectrum antiepileptic drug** acting through multiple mechanisms — voltage-gated sodium channel blockade, GABA-A potentiation, AMPA/kainate receptor antagonism, and carbonic anhydrase inhibition.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Topiramate is a broad-spectrum antiseizure drug, and its efficacy in epilepsy is established. Literature retrieved for other predictions describes its actions as sodium channel blockade, GABA-A enhancement, AMPA/kainate antagonism and weak carbonic anhydrase inhibition.
 
-The candidates in this pack are not a genuinely new therapeutic area — they are largely **reflex epilepsy subtypes** (seizures triggered by specific stimuli such as light, sound, reading, or eating) that fall within the broader epilepsy spectrum Topiramate already treats. For **Visual Epilepsy** specifically, the underlying rationale states: *"Topiramate's broad-spectrum antiepileptic mechanism (multi-channel/receptor modulation) is already established to suppress multiple seizure types; photosensitive/visually-triggered epilepsy represents an extension subtype within its existing indication scope, rather than a novel mechanistic hypothesis."*
+For the top-ranked prediction, **trigeminal nerve neoplasm**, none of these actions has an established link to tumour biology. Any benefit would at most be symptomatic, for example control of related neuropathic pain, and the data compiled here do not support even that. The very high score (99.70%) should therefore be treated as a model output, not as evidence of efficacy.
 
-This is corroborated by supporting trial data: a large completed Phase 3 RCT (NCT00231556, n=750) demonstrates efficacy of topiramate monotherapy in newly diagnosed/recurrent epilepsy, and the SANAD RCT (PMID 17382828, Lancet 2007) confirms topiramate's efficacy across generalized/unclassifiable seizure types — the same broad category that visual, thinking, and reading-triggered seizures fall under. The mechanistic plausibility is therefore high, though no trial to date has specifically isolated the visually-triggered subtype as a primary endpoint.
+The other predictions are more plausible mechanistically because they are seizure disorders:
+
+| Rank | Predicted Indication | Score | Evidence Level | Assessment |
+|---|---|---|---|---|
+| 2 | Visual epilepsy | 99.28% | L4 | Indirect evidence; effectively an extension of the existing epilepsy indication |
+| 3 | Eating seizures | 99.21% | L4 | Literature mainly covers eating disorders and adverse events, not reflex eating seizures |
+| 4 | Orgasm-induced seizures | 99.21% | L5 | No evidence |
+| 5 | Audiogenic seizures | 99.21% | L4 | Animal data show anticonvulsant activity in DBA/2 mice; no human data |
+| 6 | Thinking seizures | 99.21% | L4 | Cochrane reviews support add-on use in drug-resistant partial epilepsy, but nothing is specific to this entity |
+| 7 | Micturition-induced seizures | 99.21% | L4 | Generic epilepsy reviews only |
+| 8 | Startle epilepsy | 99.21% | L5 | No evidence |
+| 9 | Reading seizures | 99.09% | L4 | Indirect evidence only |
 
 ---
 
 ## Clinical Trial Evidence
 
-*(Visual Epilepsy candidate)*
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00231556](https://clinicaltrials.gov/study/NCT00231556) | Phase 3 | Completed | 750 | Randomized, double-blind, monotherapy trial comparing two topiramate doses in newly diagnosed/recurrent epilepsy — high-quality direct evidence for broad-spectrum efficacy, though not visual-epilepsy specific. |
-| [NCT00855738](https://clinicaltrials.gov/study/NCT00855738) | Phase 4 | Completed | 111 | Prospective observational "Liceo Study" assessing new AEDs (including topiramate) as first-choice bitherapy in focal epilepsy. |
-| [NCT03107507](https://clinicaltrials.gov/study/NCT03107507) | Phase 4 | Unknown | 40 | Study of levetiracetam for neonatal seizures; topiramate mentioned as an emerging alternative AED — only indirectly relevant. |
-| [NCT03803046](https://clinicaltrials.gov/study/NCT03803046) | N/A | Terminated | 1 | Terminated pediatric study on cognitive impact of benzodiazepine withdrawal after epilepsy surgery — low relevance to topiramate/visual epilepsy specifically. |
+Currently no related clinical trials registered, for the top-ranked prediction or for any of the other predictions listed above.
 
 ---
 
 ## Literature Evidence
 
-*(Visual Epilepsy candidate, prioritized RCT > Systematic Review > Review > Cohort)*
+For the top-ranked prediction (trigeminal nerve neoplasm), currently no related literature available.
+
+The most relevant publications retrieved for the other predictions are shown below. They support topiramate's general antiseizure activity, not the specific predicted conditions.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [17382828](https://pubmed.ncbi.nlm.nih.gov/17382828/) | 2007 | RCT | Lancet | SANAD trial: compares valproate, lamotrigine, and topiramate in generalized/unclassifiable epilepsy — long-term effectiveness data. |
-| [37378757](https://pubmed.ncbi.nlm.nih.gov/37378757/) | 2023 | Systematic Review/NMA | J Neurology | Network meta-analysis of antiseizure medications (incl. topiramate) for idiopathic generalized epilepsies. |
-| [34817852](https://pubmed.ncbi.nlm.nih.gov/34817852/) | 2021 | Cochrane Review | Cochrane Database Syst Rev | Updated systematic review of topiramate for juvenile myoclonic epilepsy (JME). |
-| [15811478](https://pubmed.ncbi.nlm.nih.gov/15811478/) | 2005 | Review | Clinical Therapeutics | Efficacy of topiramate monotherapy for epilepsy and migraine prevention; dosing/titration guidance. |
-| [29424067](https://pubmed.ncbi.nlm.nih.gov/29424067/) | 2018 | Cohort | Clin Exp Pharmacol Physiol | Cross-sectional study on topiramate plasma concentration and seizure frequency in drug-resistant epilepsy. |
-| [35421622](https://pubmed.ncbi.nlm.nih.gov/35421622/) | 2022 | Review | Seizure | Molecular mechanisms of topiramate and its clinical value in epilepsy, including comorbidities (migraine, obesity). |
-| [18193927](https://pubmed.ncbi.nlm.nih.gov/18193927/) | 2008 | Review | CNS Drugs | "Spotlight on topiramate in epilepsy" — established efficacy in generalized tonic-clonic, partial, and Lennox-Gastaut seizures. |
-| [17641254](https://pubmed.ncbi.nlm.nih.gov/17641254/) | 2007 | Double-blind study | J Child Neurology | Topiramate monotherapy in 470 newly diagnosed pediatric/adolescent epilepsy patients, incl. 151 children 6–15 yrs. |
-| [33350762](https://pubmed.ncbi.nlm.nih.gov/33350762/) | 2020 | Prospective Study | Medicine | Effectiveness of dose-escalated topiramate mono/add-on therapy in neurosurgery-related epilepsy. |
-| [10530697](https://pubmed.ncbi.nlm.nih.gov/10530697/) | 1999 | Review | Epilepsia | Early review establishing topiramate efficacy as adjunctive/monotherapy across multiple seizure types. |
+| [24570033](https://pubmed.ncbi.nlm.nih.gov/24570033/) | 2014 | Cochrane systematic review | Cochrane Database Syst Rev | Summarizes evidence for topiramate as add-on treatment in drug-resistant partial epilepsy |
+| [31642054](https://pubmed.ncbi.nlm.nih.gov/31642054/) | 2019 | Cochrane review | Cochrane Database Syst Rev | Updated review of topiramate add-on therapy for drug-resistant focal epilepsy |
+| [18646072](https://pubmed.ncbi.nlm.nih.gov/18646072/) | 2008 | Cochrane systematic review | Cochrane Database Syst Rev | Add-on topiramate in drug-resistant partial epilepsy |
+| [39854828](https://pubmed.ncbi.nlm.nih.gov/39854828/) | 2025 | Review/consensus | Epilepsy Behav | Topiramate is among the FDA-approved antiseizure medications for Lennox-Gastaut syndrome |
+| [10666508](https://pubmed.ncbi.nlm.nih.gov/10666508/) | 2000 | Preclinical (animal) | Eur J Pharmacol | Topiramate antagonized audiogenic seizures in DBA/2 mice and potentiated other anticonvulsants |
+| [12581224](https://pubmed.ncbi.nlm.nih.gov/12581224/) | 2003 | Preclinical (animal) | Epilepsia | Antiepileptic effects in genetic absence and audiogenic rat models |
+| [35421622](https://pubmed.ncbi.nlm.nih.gov/35421622/) | 2022 | Review | Seizure | Molecular mechanisms of topiramate and its clinical value in epilepsy |
+| [30687937](https://pubmed.ncbi.nlm.nih.gov/30687937/) | 2019 | Cochrane review | Cochrane Database Syst Rev | Efficacy and tolerability of topiramate in juvenile myoclonic epilepsy |
+| [19173373](https://pubmed.ncbi.nlm.nih.gov/19173373/) | 2009 | Review | CNS Drugs | Antiepileptic drugs, topiramate in particular, may help in some eating disorders |
+| [40742426](https://pubmed.ncbi.nlm.nih.gov/40742426/) | 2025 | Review | Epilepsia | Topiramate for neonatal seizures and beyond |
 
 ---
 
 ## India Market Information
 
-Topiramate is currently **not marketed in India** (0 registrations on file in this evidence pack). No approved indication text is available for comparison against the predicted new indication.
+Twenty valid single-ingredient registrations are on record. The main ones are listed below; the licence records contain no approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 222437 | Topomed 25mg Tablet (Emocare) | Strip of 10 tablets | Not stated in the records |
+| 222550 | Torpiza 50mg Tablet (Emcure Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the records |
+| 215112 | Topamac 50mg Tablet (Janssen Pharmaceuticals) | Strip of 10 tablets | Not stated in the records |
+| 222063 | Topamate 100mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated in the records |
+| 220296 | Topiram 50mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated in the records |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**: The evidence pack records **187 total interactions**. Among the sampled entries, the following are classified as **Major**:
+**Contraindication-related conditions (from the knowledge graph, not label text):** anxiety disorder, neurotic disorder, dysthymic disorder, kidney disease, pyoureter, liver disease, gallbladder disease, diarrheal disease, ocular hypertension, nephrolithiasis (including SLC26A1-related susceptibility), acute urate nephropathy, acidosis disorder, metabolic acidosis, amnestic disorder and retrograde amnesia.
 
-- Metformin, Hyoscyamine, Atropine, Scopolamine, Glycopyrronium, Clidinium, Dicyclomine, Mepenzolate, Methscopolamine, Propantheline, Trospium
+**Drug Interactions:** 187 interactions are recorded. The main ones are:
+- **Major:** metformin; anticholinergic/antimuscarinic agents (hyoscyamine, atropine, scopolamine, glycopyrronium, clidinium, dicyclomine, mepenzolate, methscopolamine, propantheline, trospium)
+- **Moderate:** pioglitazone, glyburide, morphine, dronabinol, nabilone, phentermine, metoclopramide, phenylbutyric acid, glycerol phenylbutyrate
 
-Moderate-level interactions in the sample include Pioglitazone, Morphine, Dronabinol, Phentermine, Metoclopramide, Glyburide, and others. Many of the Major interactions cluster around **anticholinergic agents**, consistent with topiramate's known metabolic acidosis/carbonic anhydrase inhibition profile warranting caution in combination therapy.
-
-Key warnings and contraindications from the official package insert are **not yet available** in this evidence pack (Data Gap DG001, Blocking severity) — please refer to the official label once retrieved.
+Literature retrieved for other predictions also points to adverse-event concerns, including pregnancy complications, psychiatric effects (psychosis, mania) and adverse reactions in children. Please refer to the package insert for full warnings and contraindications.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails** *(for the Visual Epilepsy / Thinking Seizures cluster — L3 evidence, S2 decision stage)*
+**Decision: Hold**
 
 **Rationale:**
-- Visual epilepsy and thinking-induced seizures are supported by multiple Phase 3/4 trials and Cochrane-level systematic reviews confirming topiramate's broad-spectrum antiepileptic efficacy, and they fall within its existing mechanistic indication scope rather than requiring a novel efficacy hypothesis.
-- The remaining 6 of 9 candidates (trigeminal nerve neoplasm, orgasm-induced, micturition-induced, and startle-induced seizures) have **no clinical or literature evidence** and should remain on **Hold** — they appear to be low-confidence KG artifacts rather than genuine repurposing signals.
+The top-ranked prediction, trigeminal nerve neoplasm, rests solely on a model score (Evidence Level L5), with no trials, no literature and no plausible mechanistic link to tumour biology. The seizure-related predictions are more credible but are indirect extensions of the existing epilepsy indication. Audiogenic seizures, which have animal-model support, is the only one flagged as a research question.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory package insert (warnings & contraindications) — currently a **Blocking** data gap that prevents safety pre-assessment (S1)
-- Detailed mechanism of action (MOA) data from DrugBank
-- Reflex-epilepsy-subtype-specific trial data (visual/photosensitive, cognitive, or reading-triggered seizures currently lack dedicated prospective trials — existing evidence is extrapolated from general epilepsy populations)
-- India market entry assessment, since the product currently holds zero local registrations
+- Mechanism of action data (MOA) to allow a proper mechanistic analysis
+- Package insert warnings and contraindications from the Indian regulator, which are currently missing and block safety screening
+- Disease-specific clinical evidence (case series or trials) for any candidate indication, especially the reflex epilepsies
+- For trigeminal nerve neoplasm, preclinical or clinical evidence of a tumour-related or symptomatic benefit before any further consideration
+- Confirmation that the predicted seizure conditions add value beyond the already-approved epilepsy indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

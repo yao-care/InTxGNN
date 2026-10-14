@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Folic Acid
-parent: Moderate Evidence (L3-L4)
-nav_order: 373
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 377
+evidence_level: L5
 indication_count: 1
 ---
 
 # Folic Acid
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,103 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-Using the given Evidence Pack directly (no fabrication beyond documented fields); original indication/MOA fields are genuine data gaps in the pack, so they're flagged rather than guessed.
-
-# Folic Acid: From Vitamin B9 Supplementation to Biotin Metabolic Disease
+# Folic Acid: From Vitamin Deficiency and Anemia to Biotin Metabolic Disease
 
 ## One-Sentence Summary
 
-Folic acid (DrugBank DB00158) is a water-soluble B-vitamin conventionally used to treat and prevent folate deficiency. The TxGNN model predicts a possible role in **biotin metabolic disease** (e.g., biotinidase deficiency), but this is currently supported only by **13 indirect clinical trials** (none testing folic acid specifically for this condition) and **20 publications**, all reviews or cohort studies — no RCTs.
+Folic acid (vitamin B9) is originally used to treat vitamin deficiency disorders and deficiency-related anemias, including folic acid deficiency anemia.
+The TxGNN model predicts it may be relevant to **biotin metabolic disease**, but there are **no registered clinical trials** and the **20 publications** found are mostly general reviews on vitamins, not direct evidence for this use.
+The prediction is best treated as a model-generated hypothesis only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in evidence pack (folic acid is generally classified as a vitamin/nutrient supplement) |
+| Original Indication | Vitamin deficiency disorder; folic acid deficiency anemia; iron deficiency anemia; hypochromic anemia; deficiency anemia; microcytic anemia (the approved indication text on the India licences is blank) |
 | Predicted New Indication | Biotin metabolic disease |
 | TxGNN Prediction Score | 99.49% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for folic acid in this evidence pack. Based on known pharmacology, folic acid (vitamin B9) functions in one-carbon metabolism and nucleic acid synthesis, while biotin (vitamin B7) acts as a cofactor for carboxylase enzymes — these are distinct metabolic pathways with no direct enzymatic overlap.
+Currently, detailed mechanism of action data is not available. Based on known information, folic acid is a water-soluble B vitamin that acts as a cofactor precursor in one-carbon metabolism. Its efficacy in folate-deficiency anemia is well established.
 
-Biotin metabolic diseases (such as biotinidase deficiency or holocarboxylase synthetase deficiency) are standardly treated with biotin supplementation itself, not folic acid. The two compounds share only a superficial classification as "water-soluble B-vitamins."
+The high TxGNN score likely reflects that folic acid (B9) and biotin (B7) sit close together in the knowledge graph. Both are B vitamins involved in cellular metabolism.
 
-The model's high score (99.49%) most likely reflects a knowledge-graph clustering effect — vitamin-class drugs and vitamin-responsive metabolic disorders tend to co-occur as connected node groups — rather than a specific, validated biological mechanism. This interpretation is reinforced by the evidence itself: among the retrieved clinical trials, none directly test folic acid for biotin metabolic disease, and the literature consists exclusively of reviews discussing B-vitamins generically (several explicitly grouping folate and biotin together as "vitamin-responsive disorders" without establishing a folic acid–specific therapeutic link).
+The mechanistic link is weak, though. Folic acid cannot replace biotin in biotin-dependent carboxylases. Biotin metabolic diseases, such as biotinidase deficiency and holocarboxylase synthetase deficiency, are treated with pharmacologic doses of biotin itself. No direct mechanism by which folic acid would correct the underlying defect was identified. The score is therefore more likely a "same vitamin family" association than a real therapeutic signal.
+
+---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT05687474](https://clinicaltrials.gov/study/NCT05687474) | N/A | Completed | 6,824 | Universal newborn genomic screening program (Baby Detect) covering 126 treatable genetic diseases, potentially including biotin-related disorders; not a folic acid intervention study |
-| [NCT01474486](https://clinicaltrials.gov/study/NCT01474486) | N/A | Completed | 40 | Feasibility of multi-micronutrient palliative intervention in congestive heart failure |
-| [NCT04312152](https://clinicaltrials.gov/study/NCT04312152) | N/A | Unknown | 200 | Cross-over RCT of Q10 ubiquinol + multivitamin B/E complex in idiopathic and Phelan-McDermid syndrome autism |
-| [NCT03444155](https://clinicaltrials.gov/study/NCT03444155) | N/A | Completed | 30 | Pilot comparing natural vs. synthetic vitamin B-complex (includes folic acid and biotin) bioavailability |
-| [NCT07350538](https://clinicaltrials.gov/study/NCT07350538) | N/A | Active, not recruiting | 20 | Exploratory gut microbiome profiling and personalized prebiotic intervention for alcohol addiction recovery |
-| [NCT01173315](https://clinicaltrials.gov/study/NCT01173315) | Phase 2 | Completed | 75 | Vitamin/mineral supplementation effect on neuropathy and nephropathy in type 2 diabetes |
-| [NCT04586348](https://clinicaltrials.gov/study/NCT04586348) | Phase 4 | Active, not recruiting | 794 | Prenatal iodine supplementation and early childhood neurodevelopment |
-| [NCT03360435](https://clinicaltrials.gov/study/NCT03360435) | N/A | Completed | 99 | Transdermal vitamin absorption in post-bariatric surgery patients |
-| [NCT00572741](https://clinicaltrials.gov/study/NCT00572741) | N/A | Completed | 39 | Targeted nutritional intervention for oxidative stress and metabolic pathology in autism |
-| [NCT01558193](https://clinicaltrials.gov/study/NCT01558193) | N/A | Completed | 202 | Multivitamin/mineral ± omega-3 fatty acid supplementation and impulsivity/aggression |
+Currently no related clinical trials registered.
 
-None of the above trials directly evaluate folic acid monotherapy for biotin metabolic disease; all involve multi-nutrient formulations or unrelated indications.
+---
 
 ## Literature Evidence
 
+No randomized trials or studies directly testing folic acid in biotin metabolic disease were found. The most relevant items are reviews that discuss several vitamins together.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38203763](https://pubmed.ncbi.nlm.nih.gov/38203763/) | 2024 | Review | Int J Mol Sci | Discusses vitamin B12 as cofactor alongside biotin and folic acid in methionine/succinyl-CoA synthesis; no direct folic acid–biotin disease link established |
-| [30557456](https://pubmed.ncbi.nlm.nih.gov/30557456/) | 2019 | Review | Mov Disord | Reviews movement disorders in treatable inborn errors of metabolism, including vitamin-responsive conditions |
-| [23622402](https://pubmed.ncbi.nlm.nih.gov/23622402/) | 2013 | Review | Handb Clin Neurol | Reviews vitamin-responsive disorders of cobalamin, folate, biotin, B1 and E; groups folate and biotin deficiencies as distinct clinical entities |
-| [37123774](https://pubmed.ncbi.nlm.nih.gov/37123774/) | 2023 | Review | Cureus | Relationship between vitamins (including biotin) and type 2 diabetes |
-| [25388747](https://pubmed.ncbi.nlm.nih.gov/25388747/) | 2015 | Review | Endocr Metab Immune Disord Drug Targets | Vitamins (including biotin, pyridoxine) and type 2 diabetes mellitus |
-| [41692080](https://pubmed.ncbi.nlm.nih.gov/41692080/) | 2026 | Review | Clin Dermatol | Overview of B-vitamin roles in dermatology, including biotin |
-| [29173522](https://pubmed.ncbi.nlm.nih.gov/29173522/) | 2017 | Review | Gastroenterol Clin North Am | Vitamin and mineral deficiencies (including folate) in inflammatory bowel disease |
-| [7027768](https://pubmed.ncbi.nlm.nih.gov/7027768/) | 1981 | Review | Acta Vitaminol Enzymol | Reviews vitamin involvement in metabolic diseases via malabsorption, metabolic errors, and vitamin-dependent syndromes |
-| [1368195](https://pubmed.ncbi.nlm.nih.gov/1368195/) | 1992 | Review | J Chem Technol Biotechnol | Biotechnological production of vitamins and coenzymes, including biotin |
-| [36197290](https://pubmed.ncbi.nlm.nih.gov/36197290/) | 2022 | Cohort | Microbiol Spectr | Gut microbiota and metabolomic changes (including B-vitamin metabolism) in seafarers after long voyages |
+| [23622402](https://pubmed.ncbi.nlm.nih.gov/23622402/) | 2013 | Review | Handb Clin Neurol | Vitamin-responsive disorders (cobalamin, folate, biotin, B1, E); catalytic roles of vitamin cofactors and inborn errors of vitamin metabolism |
+| [38203763](https://pubmed.ncbi.nlm.nih.gov/38203763/) | 2024 | Review | Int J Mol Sci | Vitamin B12 deficiency and the nervous system; B12 links to biotin and folate in biochemical reactions |
+| [37123774](https://pubmed.ncbi.nlm.nih.gov/37123774/) | 2023 | Review | Cureus | Vitamins and type 2 diabetes; lower thiamine, pyridoxine and biotin levels in diabetes |
+| [25388747](https://pubmed.ncbi.nlm.nih.gov/25388747/) | 2015 | Review | Endocr Metab Immune Disord Drug Targets | Individual and combined vitamins in type 2 diabetes |
+| [41692080](https://pubmed.ncbi.nlm.nih.gov/41692080/) | 2026 | Review | Clin Dermatol | B vitamins in dermatology; roles in cellular metabolism and erythrocyte synthesis |
+| [14989256](https://pubmed.ncbi.nlm.nih.gov/14989256/) | 2004 | Review | Arch Biochem Biophys | Micronutrient supplementation and DNA damage; deficiencies in B12, folic acid, B6 and others |
+| [7027768](https://pubmed.ncbi.nlm.nih.gov/7027768/) | 1981 | Review | Acta Vitaminol Enzymol | Vitamins in metabolic diseases: malabsorption, metabolic errors, and vitamin-dependent syndromes |
+| [13199008](https://pubmed.ncbi.nlm.nih.gov/13199008/) | 1954 | Animal study | Biol Latina | Combined biotin and folic acid deficiency induced in rats on a purified diet |
+| [16183151](https://pubmed.ncbi.nlm.nih.gov/16183151/) | 2006 | Animal study | Int J Cardiol | Folic acid reduced VCAM-1 expression in rats with hyperhomocysteinemia (not biotin-related) |
+| [21496936](https://pubmed.ncbi.nlm.nih.gov/21496936/) | 2011 | Clinical study | Diabetes Res Clin Pract | Micronutrient supplementation and neuropathy scores in type 2 diabetes |
 
-No RCT evidence exists linking folic acid to biotin metabolic disease; all retrieved literature is review-level and largely discusses B-vitamins as a class.
+---
 
 ## India Market Information
 
-Folic acid currently holds no marketing authorization record in this dataset (market status: Not marketed / Not Marketed; 0 registrations). No license or product information is available.
+Folic acid has 20 valid single-ingredient licences in India, none cancelled. The approved indication text is blank in the data compiled for this report. Five main authorizations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 86303 | Folimet 5mg Tablet | Strip of 10 tablets | Not specified |
+| 85641 | Folistat 5mg Tablet | Strip of 10 tablets | Not specified |
+| 84545 | Folicel Tablet | Strip of 30 tablets | Not specified |
+| 84717 | Folistar Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not specified |
+| 231606 | Unifol 15 mcg/500 mcg Injection | Vial of 10 ml | Not specified |
+
+Both oral (tablets, soft gelatin capsules) and injectable forms are marketed.
+
+---
 
 ## Safety Considerations
 
-- **Drug Interactions**: 430 documented interactions recorded (DDInter). Most entries have no graded severity ("Unknown"); notable graded interactions include **Pancrelipase (Moderate)** and **Sulfasalazine (Minor)**.
-- TFDA label warnings and contraindications have not yet been retrieved (source: TFDA official site, blocking gap) — required before any formal safety evaluation (S1 stage) can proceed.
+- **Drug Interactions**: 430 interactions were recorded. Most are of unknown severity. The only graded ones are Pancrelipase (Moderate) and Sulfasalazine (Minor). Other listed agents include metformin, omeprazole, pantoprazole, lansoprazole, glimepiride, prednisone, simvastatin and mesalazine, all of unknown severity.
+- **Disease-related cautions (knowledge graph, not label text)**: The graph links folic acid to contraindication-type relationships with several conditions, including kidney disease, nephrolithiasis, peptic ulcer disease, diabetes mellitus, inflammatory bowel disease, ulcerative colitis, sickle cell anemia, hemolytic anemia, hereditary hemochromatosis, Wilson disease and hypercalcemia. These come from a model graph and have not been verified against package inserts. They should be reviewed with caution.
+
+Package insert warnings and contraindications for India were not available and need to be obtained.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted association rests on a single high TxGNN score with no supporting mechanistic data (MOA unavailable) and no direct clinical or literature evidence — all retrieved trials and publications address B-vitamins generically rather than folic acid specifically for biotin metabolic disease, and the two compounds act through unrelated metabolic pathways. Evidence level is L4 (mechanism/preclinical-level at best), and the drug is not currently marketed, further limiting near-term actionability.
+The prediction rests only on a model score (L5). There are no clinical trials, and the literature is general vitamin reviews with no direct evidence. Folic acid cannot substitute for biotin, and biotin metabolic diseases are already treated with biotin itself.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (blocking gap, DG001)
-- Verified mechanism of action data (DG002)
-- A dedicated study isolating folic acid's effect in biotin-responsive metabolic disorders (current evidence is confounded by multi-vitamin co-administration)
-- Clarification of current regulatory/market status before any registration pathway is considered
+- A plausible biological mechanism showing how folic acid could affect biotin-dependent pathways (e.g., biotinidase or holocarboxylase synthetase deficiency)
+- Mechanism of action data for folic acid
+- Preclinical or clinical studies directly testing this use
+- Package insert warnings and contraindications from the India regulator, to allow safety screening
+- A review of the graph-derived disease cautions against label information
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Naftopidil
 parent: Model Prediction Only (L5)
-nav_order: 571
+nav_order: 576
 evidence_level: L5
 indication_count: 5
 ---
@@ -33,72 +33,59 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Naftopidil is a selective α1-adrenergic receptor antagonist primarily approved in Japan for benign prostatic hyperplasia (BPH) and lower urinary tract symptoms (LUTS).
-The TxGNN model predicts it may be effective for **Ambras Type Hypertrichosis Universalis Congenita** (an ultra-rare congenital hair disorder), however with **0 clinical trials** and **0 publications** currently supporting this direction, the evidence basis is entirely absent.
-
----
+Naftopidil was originally used to treat benign prostatic hyperplasia (BPH).
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**,
+but there are currently **no clinical trials** and **no publications** supporting this direction. The prediction rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in India (BPH / LUTS per Japan approval records) |
-| Predicted New Indication | Ambras Type Hypertrichosis Universalis Congenita |
+|------|------|
+| Original Indication | Benign prostatic hyperplasia |
+| Predicted New Indication | Ambras type hypertrichosis universalis congenita |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Naftopidil belongs to the selective α1-adrenergic receptor antagonist class (with preferential affinity for α1D and α1A receptor subtypes). Its efficacy in BPH and lower urinary tract symptoms has been demonstrated in clinical practice, primarily in Japan, where it is approved and marketed.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, naftopidil is an alpha-1 adrenergic receptor antagonist (preferentially alpha-1D) and is marketed for benign prostatic hyperplasia, where it relaxes smooth muscle in the prostate and bladder neck.
 
-Regarding the mechanistic connection to Ambras type hypertrichosis universalis congenita: α1-adrenergic receptors are indeed expressed in hair follicles, and noradrenergic signalling is known to theoretically influence follicular cycling — specifically the transition from the growth phase (anagen) to the regression phase (catagen). On this basis alone, the knowledge graph may have linked Naftopidil to hair-related disease nodes. However, Ambras type hypertrichosis universalis congenita is caused by structural mutations in the **TRPS1 gene** and affects fewer than 100 individuals globally. This is a structural genetic defect — not a receptor-mediated or inflammatory process — and α1-receptor antagonism has no established mechanism by which it could compensate for or reverse an underlying genomic transcription factor deficiency.
+The link to the predicted indication is weak. Ambras syndrome is a congenital hypertrichosis linked to chromosome 8q regulatory rearrangements that affect TRPS1 expression. No direct mechanistic connection between alpha-1 adrenergic blockade and this genetic basis is evident. The high score most likely reflects proximity in the knowledge graph rather than established biology.
 
-The high TxGNN prediction score most likely reflects co-localization of hair-related nodes within the knowledge graph rather than genuine biological plausibility. There is no preclinical, translational, or clinical evidence to support this repurposing hypothesis, and the mechanistic rationale is considered biologically implausible for this specific indication.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+Other predictions in the same list (hypertrichosis in general, isolated genetic hair shaft abnormality, and several developmental malformation syndromes) show the same pattern: very high scores (99.92% to 99.95%) with no supporting studies. For general hypertrichosis, the therapeutic goal (reducing versus promoting hair growth) would also need to be defined.
 
 ## India Market Information
 
-Naftopidil holds no product registrations in India. The drug is currently not approved, manufactured, or distributed in the Indian market. No authorization records exist in the regulatory database.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 153639 | Naftomax 50 Tablet | Strip of 10 tablets | Not stated in the data |
+| 151226 | Nafodil 75 Tablet | Strip of 10 tablets | Not stated in the data |
+| 150842 | Nafodil 50 Tablet | Strip of 10 tablets | Not stated in the data |
+| 157282 | Naftomax 25 Tablet | Strip of 10 tablets | Not stated in the data |
 
----
+All four registrations are valid single-ingredient oral tablets from Sun Pharmaceutical Industries Ltd (Naftomax) and Intas Pharmaceuticals Ltd (Nafodil). None has been cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug interactions were found in the data compiled for this report, and no knowledge-graph contraindications were recorded.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a very high TxGNN prediction score (99.96%), Ambras type hypertrichosis universalis congenita is a monogenic structural disorder caused by TRPS1 mutations, for which α1-adrenergic receptor antagonism has no scientifically plausible therapeutic mechanism. The prediction is likely an artefact of topological proximity within the knowledge graph, and no supporting clinical or preclinical evidence exists whatsoever.
+The prediction has a very high model score but no clinical trials, no literature, and no plausible mechanistic link between alpha-1 adrenergic blockade and the genetic cause of Ambras syndrome. The evidence level is L5 (model prediction only).
 
 **To proceed, the following is needed:**
-- Formal mechanism of action documentation (MOA) to confirm receptor binding profile and pharmacodynamics
-- Preclinical evidence — at minimum a cell or animal model — demonstrating any effect of α1-antagonism on TRPS1-related hair follicle pathology
-- Independent biological rationale beyond knowledge graph co-occurrence
-- India regulatory pathway assessment, as the drug is currently not registered and would require full NDA/import licensing before any clinical exploration
-- Consideration of whether alternative, higher-ranked predictions with stronger mechanistic grounding (e.g., urological or vascular indications) offer more viable repurposing pathways for this compound
+- Detailed mechanism of action data for naftopidil (e.g., from DrugBank)
+- Package insert warnings and contraindications from the India regulator, which are needed before any safety screening
+- A defined biological hypothesis connecting alpha-1D adrenergic signalling to TRPS1-related or hair-follicle pathways
+- Preclinical or case-level evidence supporting any effect on hair growth
+- A clear therapeutic goal for hypertrichosis (reducing versus promoting hair growth)
+- Assessment of route compatibility, since only oral tablets are currently available
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

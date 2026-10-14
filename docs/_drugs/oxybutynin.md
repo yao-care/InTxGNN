@@ -2,7 +2,7 @@
 layout: default
 title: Oxybutynin
 parent: Model Prediction Only (L5)
-nav_order: 624
+nav_order: 630
 evidence_level: L5
 indication_count: 3
 ---
@@ -33,77 +33,89 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Oxybutynin is an antimuscarinic (M1/M3 receptor antagonist) commonly used to treat overactive bladder and urge urinary incontinence. The TxGNN model's top-ranked prediction suggests possible efficacy in **Restless Legs Syndrome (RLS)**, but this direction currently has **zero clinical trials** and **zero publications** in direct support — it rests entirely on the model's prediction score.
-
----
+Oxybutynin is an antimuscarinic drug originally used to treat overactive bladder, neurogenic bladder and cauda equina syndrome.
+The TxGNN model predicts it may be effective for **restless legs syndrome**, but **no clinical trials and no publications** currently support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this evidence pack (Taiwan license data is empty; based on general pharmacological knowledge, oxybutynin is used for overactive bladder / urge urinary incontinence) |
-| Predicted New Indication | Restless Legs Syndrome |
+| Original Indication | Overactive bladder, neurogenic bladder, cauda equina syndrome (from the knowledge graph; no approved indication text is available in the India licence records) |
+| Predicted New Indication | Restless legs syndrome |
 | TxGNN Prediction Score | 99.74% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 9 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for oxybutynin in this evidence pack (data gap, High severity). Based on general pharmacological knowledge, oxybutynin is an anticholinergic/antimuscarinic agent that blocks M1/M3 muscarinic acetylcholine receptors, relaxing detrusor smooth muscle — the established basis for its use in overactive bladder.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Oxybutynin is known to be a muscarinic antagonist with direct antispasmodic activity on smooth muscle, and its efficacy in overactive bladder is established.
 
-For the top-ranked prediction, restless legs syndrome, the mechanistic case is weak. RLS pathophysiology is primarily driven by central dopaminergic dysfunction and iron metabolism abnormalities, and standard treatments are dopamine agonists, α2δ calcium-channel ligands, or iron replacement. Oxybutynin's anticholinergic action has no established connection to these pathways. Consistent with this, the evidence pack shows no clinical trials, no ICTRP registrations, and no PubMed literature linking oxybutynin to RLS — the prediction is model-score-only (L5), the lowest evidence tier.
+The link to restless legs syndrome is weak. This condition is mainly tied to dopaminergic dysfunction and brain iron deficiency, and no direct mechanistic path to muscarinic blockade has been established. Anticholinergics with central activity may even worsen restless legs symptoms. The high TxGNN score therefore appears to reflect a pattern in the knowledge graph rather than a biologically supported rationale.
 
-By contrast, two lower-ranked predictions in this pack have somewhat more grounding: peptic ulcer disease (rank 3, L3) is supported by literature describing oxybutynin's antispasmodic/anticholinergic effect on gastric acid secretion and GI smooth muscle — a mechanism plausible for pre-PPI-era antispasmodic use, though one case report also documents oxybutynin-induced reflux esophagitis via lower esophageal sphincter relaxation, indicating a double-edged mechanistic risk.
+**Other predictions in the candidate list**
 
----
+| Rank | Predicted Indication | Score | Evidence Level | Comment |
+|------|------|------|------|------|
+| 2 | Gastroduodenitis | 99.62% | L5 | Antimuscarinic action could in theory reduce gastric secretion and motility, but anticholinergics are not standard therapy and no evidence was provided. |
+| 3 | Peptic ulcer disease | 99.31% | L4 | Same rationale as historical anticholinergic ulcer therapy, which has been displaced by proton pump inhibitors and H2 blockers. Only old, low-tier publications exist. |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+For the top prediction (restless legs syndrome), currently no related literature is available.
 
----
+For the third-ranked prediction (peptic ulcer disease), the following publications were found:
 
-## Taiwan Market Information
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [14173506](https://pubmed.ncbi.nlm.nih.gov/14173506/) | 1964 | Uncontrolled clinical evaluation | Current Therapeutic Research | Historical clinical evaluation of oxybutynin chloride in gastrointestinal disease (no abstract available) |
+| [4380481](https://pubmed.ncbi.nlm.nih.gov/4380481/) | 1965 | Pharmacology/Review | Arch Int Pharmacodyn Ther | Describes oxybutynin as a musculotropic antispasmodic with moderate anticholinergic action |
+| [2360335](https://pubmed.ncbi.nlm.nih.gov/2360335/) | 1990 | Case report | DICP (Ann Pharmacother) | Reports oxybutynin-induced reflux esophagitis, probably from reduced lower esophageal sphincter tone, a safety signal against use in upper GI disease |
 
-Oxybutynin is currently **not marketed** in Taiwan under this evidence pack — 0 registered licenses, no product/dosage-form data available.
+## India Market Information
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 215033 | Tropan 2.5 Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not specified in the records |
+| 34837 | Cystran 5 Tablet (Intas) | Strip of 10 tablets | Not specified in the records |
+| 34821 | Cystran 2.5 Tablet (Intas) | Strip of 10 tablets | Not specified in the records |
+| 161779 | Oxyspas 2.5 Tablet (Cipla) | Strip of 10 tablets | Not specified in the records |
+| 215266 | Tropan XL 5 Tablet (Sun Pharmaceutical) | Strip of 10 extended-release tablets | Not specified in the records |
+
+Nine valid single-ingredient registrations exist in total, all oral. The remaining four are Nocturin 5 mg and 2.5 mg (Elder), Oxyspas 5 (Cipla) and Tropan 5 (Sun Pharmaceutical).
 
 ## Safety Considerations
 
-**Drug Interactions** (205 total interactions on record; representative entries):
+- **Contraindications / conditions of concern (from knowledge-graph links, not label text)**:
+  - Gastrointestinal: paralytic ileus, intestinal obstruction, toxic megacolon, ulcerative colitis and inflammatory bowel disease, gastroesophageal reflux disease, esophagitis, hiatus hernia
+  - Urinary and prostate: bladder neck obstruction, benign prostatic hyperplasia
+  - Eye and neuromuscular: angle-closure glaucoma, myasthenia gravis
+  - Cardiovascular: hypertension, coronary artery disease, heart conduction disease, sudden cardiac arrest
+  - Other: kidney disease, liver disease, hyperthyroidism
+- **Drug Interactions**: 205 interactions were recorded. Those listed include:
+  - **Major**: potassium chloride and potassium citrate
+  - **Moderate**: other anticholinergic or antispasmodic agents (atropine, hyoscyamine, glycopyrronium, dicyclomine, trospium, propantheline, clidinium, mepenzolate, methscopolamine), opioids (morphine, opium, loperamide, eluxadoline), metoclopramide, aprepitant and pramlintide
+- **Additional signals**: central anticholinergic activity may worsen restless legs symptoms, and a case report links oxybutynin to reflux esophagitis.
 
-- **Major**: Potassium chloride, Potassium citrate — reduced GI motility from anticholinergic effect can prolong mucosal contact with solid potassium salts, increasing risk of GI ulceration/irritation.
-- **Moderate**: Additive anticholinergic burden with other antimuscarinics — Atropine, Hyoscyamine, Glycopyrronium (oral and topical), Clidinium, Dicyclomine, Trospium, Mepenzolate, Methscopolamine, Propantheline.
-- **Moderate**: Reduced GI motility affecting opioid pharmacodynamics — Morphine (including liposomal), Loperamide, Opium.
-- **Moderate**: Metoclopramide (prokinetic antagonism), Aprepitant, Pramlintide, Eluxadoline.
-
-Detailed key warnings and contraindications are not available in this evidence pack (data gap, Blocking severity) — please refer to the package insert once obtained.
-
----
+Package insert warnings were not available in the data compiled for this report; please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (restless legs syndrome) has no clinical trial or literature support and no clear mechanistic rationale — evidence level L5 is insufficient to proceed. The drug is also not currently marketed in Taiwan, so there is no existing safety/labeling foundation to build on.
+The prediction rests on the model score alone (L5). No trials or literature support it, the mechanism does not fit known restless legs pathophysiology, and anticholinergic activity may aggravate the condition. The gastrointestinal alternatives are likewise supported only by old, low-tier evidence and carry a reflux signal.
 
 **To proceed, the following is needed:**
-- Taiwan package insert / warnings and contraindications (currently a Blocking data gap)
-- Confirmed mechanism of action data from DrugBank or primary literature
-- If pursuing repurposing further, consider re-evaluating the peptic ulcer disease candidate (rank 3) instead, which has L3 evidence (3 publications) versus RLS's L5
-- Formal literature/trial search specifically for oxybutynin + RLS to confirm the absence of supporting evidence is not a search-coverage artifact
+- Mechanism of action data and a credible mechanistic rationale linking muscarinic antagonism to restless legs syndrome
+- Preclinical or clinical evidence, including a literature search focused on anticholinergics and restless legs symptoms
+- Package insert warnings and contraindications from the India licence holders, and approved indication text for the registered products
+- A safety assessment of the central anticholinergic effects and the numerous drug interactions in the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

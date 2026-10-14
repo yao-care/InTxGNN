@@ -2,7 +2,7 @@
 layout: default
 title: Rocuronium
 parent: Model Prediction Only (L5)
-nav_order: 743
+nav_order: 750
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,11 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using no additional tools — this is a direct evidence-pack-to-report writing task, so I'll produce the report per the v5 template.
-
-# Rocuronium: From Neuromuscular Blockade to Migraine Disorder
+# Rocuronium: From Neuromuscular Blockade in Anaesthesia to Migraine Disorder
 
 ## One-Sentence Summary
 
-> Rocuronium is a peripheral, non-depolarizing neuromuscular blocking agent used for skeletal muscle relaxation during general anesthesia and intubation. The TxGNN model's top prediction links it to **Migraine Disorder**, but this is supported by only **1 loosely related clinical trial** and **no literature**, and the evidence pack's own mechanistic review found **no plausible pharmacological basis** for the connection.
+Rocuronium is a non-depolarizing neuromuscular blocking agent marketed in India as an injection. The TxGNN model predicts it may be effective for **migraine disorder**, but the prediction rests on **1 clinical trial that is not relevant to efficacy** and **no supporting publications**. The prediction appears to be a knowledge-graph artifact rather than a real therapeutic signal.
 
 ---
 
@@ -43,23 +41,23 @@ Using no additional tools — this is a direct evidence-pack-to-report writing t
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file for the India market (drug not marketed, 0 registrations). Per the evidence pack's own mechanistic notes, rocuronium is a peripheral neuromuscular blocking agent used for muscle relaxation during general anesthesia. |
-| Predicted New Indication | Migraine Disorder |
+| Original Indication | Not stated in the Indian licence records compiled for this report |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.90% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 11 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for rocuronium is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on the information that is available, rocuronium is a peripheral neuromuscular blocking agent acting at the nicotinic acetylcholine receptor of the neuromuscular junction — its clinical role is skeletal muscle relaxation during surgical anesthesia, not central nervous system modulation.
+Currently, detailed mechanism of action data is not available in the compiled data. From general pharmacology, rocuronium is a non-depolarizing neuromuscular blocker. It competitively antagonizes nicotinic acetylcholine receptors at the neuromuscular junction and is used as an anaesthetic adjunct for muscle relaxation.
 
-The evidence pack's own rationale for the top prediction is explicit that no mechanistic link exists: rocuronium does not cross the blood–brain barrier and has no known action on the trigeminovascular system or CGRP pathway implicated in migraine pathophysiology. This pattern repeats across nearly all 10 TxGNN candidates in this pack (migraine with brainstem aura, cauda equina syndrome, rare dermatologic conditions, IBS, etc.) — each is annotated as having no mechanistic basis, and most have zero supporting clinical trials or literature. The single partial exception is rank 10, "headache disorder" (L4, decision-stage S1, "Research Question"), where one comparative study (PMID 23812022) suggests a rocuronium-sugammadex anesthesia protocol may reduce post-ECT myalgia/headache — but this reflects a reduction in an *anesthesia side effect*, not treatment of headache as a disease.
+This mechanism has no established link to migraine pathophysiology, such as CGRP signalling, trigeminovascular activation or cortical spreading depression. The high TxGNN score most likely reflects network proximity to other drugs or targets in the knowledge graph, not a real therapeutic connection.
 
-Overall, this candidate set does not currently support a repurposing hypothesis for rocuronium. The high TxGNN scores appear to reflect graph-level associations (e.g., co-occurrence in surgical/procedural contexts) rather than genuine pharmacological relevance.
+The other top predictions point the same way. They include migraine with brainstem aura, cauda equina syndrome, atrophoderma vermiculata and irritable bowel syndrome, and none has a plausible mechanistic rationale. Several are clustered around migraine-related terms, which suggests ontology proximity drives the results. Rocuronium also requires intravenous administration with ventilatory support, which makes use in a chronic condition like migraine impractical.
 
 ---
 
@@ -67,25 +65,45 @@ Overall, this candidate set does not currently support a repurposing hypothesis 
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01431326](https://clinicaltrials.gov/study/NCT01431326) | N/A | Completed | 3,520 | Pediatric pharmacokinetics study of "understudied drugs" administered per standard of care; rocuronium is one of many study drugs. Not a migraine treatment trial — relevance graded **C** (likely database co-occurrence artifact). |
+| [NCT01431326](https://clinicaltrials.gov/study/NCT01431326) | N/A | Completed | 3520 | Pharmacokinetic study of understudied drugs given to children as standard of care. It does not test migraine efficacy, and the match appears incidental (relevance grade C). |
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature is available for migraine disorder.
+
+For the related prediction **headache disorder** (score 99.09%), two publications were found. Neither shows that rocuronium treats headache.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [23812022](https://pubmed.ncbi.nlm.nih.gov/23812022/) | 2014 | Clinical study | J ECT | Compared succinylcholine with rocuronium-sugammadex for myalgia and headache after electroconvulsive therapy. This is a perioperative side-effect outcome, not headache treatment. |
+| [24196089](https://pubmed.ncbi.nlm.nih.gov/24196089/) | 2013 | Case report | Pediatr Emerg Care | Rapid sequence intubation in a child with elevated intracranial pressure. Rocuronium is mentioned only as an anaesthetic adjunct. |
 
 ---
 
 ## India Market Information
 
-Rocuronium is currently **not marketed** in India under this evidence pack (0 registrations, no license records available).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 117347 | Kabiroc 10mg Injection (Fresenius Kabi India) | Vial of 5 ml injection | Not stated |
+| 189625 | Rocsur 50mg Injection (Gland Pharma) | Vial of 5 ml injection | Not stated |
+| 78509 | Esmeron 100mg Injection (Organon India) | Vial of 10 ml injection | Not stated |
+| 185921 | Rocunium 50mg Injection (Neon Laboratories) | Vial of 5 ml injection | Not stated |
+| 194149 | Rocutroy 10mg Injection (Troikaa Pharmaceuticals) | Vial of 5 ml injection | Not stated |
+
+There are 11 valid single-ingredient registrations in total, all injectable.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data are not currently available — flagged as a Blocking-severity data gap, DG001, pending TFDA label retrieval.)
+**Drug Interactions:** 73 interactions were identified. Among the entries reviewed, the main ones are:
+- **Major:** paromomycin, kanamycin, neomycin (aminoglycosides, which may potentiate neuromuscular blockade)
+- **Moderate:** doxycycline, tetracycline, minocycline, vancomycin, magnesium sulfate, magnesium chloride, amphotericin B, corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, prednisone), mannitol, metoclopramide
+- **Minor:** ranitidine
+
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -94,13 +112,13 @@ Please refer to the package insert for safety information. (Key warnings, contra
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (migraine disorder) has no mechanistic plausibility, minimal clinical trial support (1 trial, relevance grade C), and no literature evidence — consistent with an L5, prediction-only evidence level. Across all 10 candidates returned, none rise above L4, and the one L4/S1 candidate (headache disorder) reflects an anesthesia side-effect signal rather than a disease-treatment hypothesis. Compounding this, core drug-level data (MOA, TFDA warnings/contraindications) are marked as data gaps, one of which is Blocking severity — meaning this candidate cannot yet even complete a basic safety screen.
+The prediction is supported only by model output. The single linked trial is an unrelated pediatric pharmacokinetic study, and no literature supports a migraine benefit. No plausible mechanism connects neuromuscular blockade to migraine, and the intravenous, ventilator-dependent use of rocuronium makes a migraine indication impractical.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): retrieve and parse TFDA label for warnings/contraindications before any S1 safety evaluation
-- Resolve DG002 (High): confirm mechanism of action via DrugBank API to properly assess mechanistic plausibility
-- If pursuing the headache-disorder signal (rank 10) instead, reframe the hypothesis around anesthesia-associated myalgia/headache reduction (not migraine treatment) and seek confirmatory studies beyond the single case-comparative report (PMID 23812022)
-- Given the drug is not currently marketed in India, market-entry feasibility would also need separate evaluation independent of the repurposing signal
+- Package insert warnings and contraindications from the Indian regulator
+- Confirmed approved indications and mechanism of action data
+- Any mechanistic or preclinical evidence linking rocuronium to migraine pathophysiology
+- A reassessment of whether other candidates are more biologically plausible, since the predictions for this drug look like knowledge-graph artifacts
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

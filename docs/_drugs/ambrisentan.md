@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ambrisentan
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 45
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ambrisentan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,92 +29,100 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Ambrisentan: From Pulmonary Arterial Hypertension to Pulmonary Arteriovenous Malformation
+# Ambrisentan: From Pulmonary Arterial Hypertension to Pulmonary Arterial Hypertension Associated with Connective Tissue Disease
 
 ## One-Sentence Summary
 
-Ambrisentan is a selective endothelin type A (ETA) receptor antagonist, approved internationally for pulmonary arterial hypertension (PAH) but not yet registered in India.
-The TxGNN model predicts it may be effective for **Pulmonary Arteriovenous Malformation (AVM)**, with **0 clinical trials** and **1 publication** currently supporting this specific direction.
-Notably, co-predictions for PAH subtypes — including PAH associated with congenital heart disease (L2), HIV infection (L1), and connective tissue disease (L2) — carry substantially stronger evidence and represent more immediately actionable repurposing opportunities.
-
----
+Ambrisentan is an oral endothelin receptor antagonist, originally used to treat pulmonary arterial hypertension (PAH).
+The TxGNN model's top-ranked prediction is pulmonary arteriovenous malformation, but that prediction is weak. The best-supported candidate is **PAH associated with connective tissue disease**, which has **2 clinical trials** and **19 publications** behind it.
+This subtype largely falls under the existing PAH indication, so it is better viewed as a subgroup refinement than a wholly new use.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Pulmonary Arterial Hypertension (PAH) — approved globally (US/EU); not registered in India |
-| Predicted New Indication | Pulmonary Arteriovenous Malformation (disease) |
-| TxGNN Prediction Score | 99.41% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+|------|------|
+| Original Indication | Pulmonary arterial hypertension |
+| Predicted New Indication | Pulmonary arteriovenous malformation (TxGNN rank 1); PAH associated with connective tissue disease is the best-supported candidate (rank 4) |
+| TxGNN Prediction Score | 99.41% (rank 1); 99.30% (rank 4) |
+| Evidence Level | L5 for the rank 1 prediction (L4 per the data compiled; a single case report); L2 for the rank 4 candidate |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 10 |
+| Recommended Decision | Hold for rank 1; Proceed with Guardrails for PAH associated with connective tissue disease |
 
----
+Note: The original indication comes from the TxGNN knowledge graph. The Indian licence records contain no approved indication text.
 
 ## Why is This Prediction Reasonable?
 
-Formal mechanism of action (MOA) data is not documented in this Evidence Pack. Based on established pharmacology, Ambrisentan is a highly selective endothelin type A (ETA) receptor antagonist. It competitively blocks ET-1 binding to ETA receptors on pulmonary arterial smooth muscle and endothelial cells, reducing pulmonary vasoconstriction and vascular remodeling — the core pathophysiology of PAH. Its selectivity for ETA over ETB is clinically relevant because preserved ETB receptor activity maintains endogenous NO production and vascular clearance of ET-1.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, ambrisentan is a selective endothelin type A receptor antagonist. Endothelin-1 drives vasoconstriction and vascular remodelling in PAH, and its efficacy in PAH is established.
 
-Pulmonary arteriovenous malformations (PAVMs) are predominantly structural vascular anomalies, most commonly arising in patients with Hereditary Hemorrhagic Telangiectasia (HHT), a rare autosomal dominant disorder caused by mutations in the *ACVRL1* or *ENG* genes — both encoding components of the TGF-β/BMP signaling pathway. A subset of HHT patients (estimated 5–15%) concurrently develop PAH. It is in this specific HHT-PAH overlap population that an endothelin receptor antagonist like Ambrisentan could theoretically provide benefit. The mechanistic link is therefore indirect: Ambrisentan would target the PAH complication co-occurring with HHT, not the PAVM structural lesion itself.
+**Rank 1 (pulmonary arteriovenous malformation):** This prediction is not well supported. The only linked paper is a case report of PAH in a patient with hereditary haemorrhagic telangiectasia. It describes PAH occurring alongside a vascular malformation disorder and does not show that ambrisentan treats pulmonary AVMs. Endothelin receptor antagonism is not an established way to close or prevent AVMs. The high score probably reflects network proximity to PAH. There is also a theoretical caution that pulmonary vasodilation could alter shunt physiology.
 
-The sole supporting publication (PMID 33969094) precisely describes this overlap scenario — an HHT patient who developed PAH and underwent PAH-targeted therapy, with family gene analysis revealing ACVRL1/ENG mutation implicating the endothelin signaling axis. The TxGNN model likely captured this biological connection through shared knowledge-graph nodes (*ACVRL1/ENG* ↔ endothelin pathway ↔ PAH), but this does not imply Ambrisentan can structurally reverse or ablate PAVM lesions. The prediction reflects a comorbidity-driven opportunity rather than a primary PAVM mechanism.
+**Rank 4 (PAH associated with connective tissue disease):** Endothelial dysfunction and endothelin-mediated vasoconstriction and remodelling are central to this subtype, including in systemic sclerosis. This is the same pathway ambrisentan blocks in its approved indication. Two clinical trials and several meta-analyses and subgroup analyses (including from the AMBITION and ARIES-E studies) support its use here.
 
----
+Other PAH subtypes (congenital heart disease, HIV, schistosomiasis, chronic haemolytic anaemia) share the same pathway. Their evidence ranges from small observational studies to nothing at all. The remaining predictions (malformation syndrome with odontal/periodontal component, hypotrichosis simplex, hypertrichosis, Dandy-Walker syndrome) have no plausible mechanism and are likely model artifacts.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Pulmonary Arteriovenous Malformation.
+Trials linked to the best-supported candidate, PAH associated with connective tissue disease. No clinical trials are registered for the rank 1 prediction or for the other predictions.
 
----
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02290613](https://clinicaltrials.gov/study/NCT02290613) | Phase 2 | Completed | 38 | Randomised, double-blind, placebo-controlled proof-of-concept trial of early treatment in borderline PAH associated with systemic sclerosis |
+| [NCT01042158](https://clinicaltrials.gov/study/NCT01042158) | Phase 4 | Completed | 25 | 36-week open-label single-arm study of ambrisentan plus tadalafil in scleroderma-associated PAH, assessing 6-minute walk distance, NYHA class and haemodynamics |
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [33969094](https://pubmed.ncbi.nlm.nih.gov/33969094/) | 2021 | Case Report | World Journal of Clinical Cases | HHT patient with concurrent PAH treated with PAH-targeted therapy; family gene analysis identified ACVRL1/ENG mutation, illustrating the HHT-PAH co-morbidity where endothelin-axis therapies may be relevant |
+Selected publications for PAH associated with connective tissue disease, plus the single paper linked to the rank 1 prediction.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [38378970](https://pubmed.ncbi.nlm.nih.gov/38378970/) | 2024 | Systematic review/meta-analysis | Intern Emerg Med | Meta-analysis of RCT subgroup data on treatments for PAH in connective tissue disease |
+| [23906950](https://pubmed.ncbi.nlm.nih.gov/23906950/) | 2013 | Meta-analysis | BMJ Open | Meta-analysis of clinical trials in connective tissue disease-associated PAH; the optimal treatment is not yet established |
+| [32161055](https://pubmed.ncbi.nlm.nih.gov/32161055/) | 2020 | Post hoc analysis | Ann Rheum Dis | Initial ambrisentan plus tadalafil combination versus monotherapy in connective tissue disease-associated PAH (AMBITION) |
+| [28039187](https://pubmed.ncbi.nlm.nih.gov/28039187/) | 2017 | Subgroup analysis | Ann Rheum Dis | AMBITION subgroup analysis of initial combination therapy in connective tissue disease-associated PAH |
+| [27492539](https://pubmed.ncbi.nlm.nih.gov/27492539/) | 2016 | Subgroup analysis | Respir Med | Three-year efficacy and safety of ambrisentan in connective tissue disease-associated PAH (ARIES-E) |
+| [26360334](https://pubmed.ncbi.nlm.nih.gov/26360334/) | 2015 | Clinical study | Am J Respir Crit Care Med | Up-front ambrisentan and tadalafil combination in scleroderma-associated PAH |
+| [28425346](https://pubmed.ncbi.nlm.nih.gov/28425346/) | 2017 | Review | Ther Adv Respir Dis | Drug profile; ambrisentan is approved for idiopathic, heritable and connective tissue disease-associated PAH |
+| [21371683](https://pubmed.ncbi.nlm.nih.gov/21371683/) | 2011 | Cohort | Am J Cardiol | Ambrisentan in PAH due to congenital heart disease (Eisenmenger syndrome); early experience (congenital heart disease subtype) |
+| [34921523](https://pubmed.ncbi.nlm.nih.gov/34921523/) | 2022 | Cohort/safety study | Pediatr Pulmonol | Safety and tolerability of ambrisentan plus tadalafil in children with PAH (congenital heart disease subtype) |
+| [33969094](https://pubmed.ncbi.nlm.nih.gov/33969094/) | 2021 | Case report | World J Clin Cases | PAH in a patient with hereditary haemorrhagic telangiectasia; not evidence that ambrisentan treats pulmonary AVMs (rank 1 prediction) |
+
+## India Market Information
+
+Ten valid single-ingredient registrations are on record; the five main ones are shown. None of the records carries approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 72527 | Endobloc T Combipack (Cipla Ltd) | Packet of 20 tablets | Not stated |
+| 247591 | Zambri 5mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
+| 611 | Ambrican 5 Tablet (Lupin Ltd) | Strip of 10 tablets | Not stated |
+| 249050 | Zambri 10mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
+| 109448 | Ibitan 5mg Tablet (Indiabulls Pharmaceutical Ltd) | Strip of 10 tablets | Not stated |
 
 ## Safety Considerations
 
-**Drug Interactions**: Ambrisentan has 112 documented interactions. The most clinically significant are listed below:
+- **Contraindications flagged in the knowledge graph (not label text):** congestive heart failure, anaemia, macrocytic anaemia, pulmonary veno-occlusive disease.
+- **Embryo-fetal toxicity:** Ambrisentan is teratogenic (boxed warning), which makes it inappropriate for developmental disorders.
+- **Fluid retention and anaemia:** These are known adverse effects and need careful consideration in haemolytic anaemia populations and in connective tissue disease.
+- **Drug Interactions:** 112 interactions were recorded. Moderate-level interactions include canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, eliglustat and naltrexone. Minor-level interactions include clarithromycin, miconazole and omeprazole. Interactions with antiretrovirals should be assessed before use in HIV-associated PAH.
 
-| Interacting Drug | Severity | Clinical Note |
-|-----------------|----------|--------------|
-| Canagliflozin | Moderate | Monitor when co-administered |
-| Dapagliflozin | Moderate | Monitor when co-administered |
-| Empagliflozin | Moderate | Monitor when co-administered |
-| Ertugliflozin | Moderate | Monitor when co-administered |
-| Eliglustat | Moderate | Monitor when co-administered |
-| Naltrexone | Moderate | Monitor when co-administered |
-| Clarithromycin | Minor | Routine monitoring sufficient |
-| Miconazole | Minor | Routine monitoring sufficient |
-| Omeprazole | Minor | Routine monitoring sufficient |
-
-Please refer to the package insert for complete warnings and contraindications (formal India package insert data not available in this Evidence Pack).
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold for pulmonary arteriovenous malformation (rank 1); Proceed with Guardrails for PAH associated with connective tissue disease (rank 4)**
 
 **Rationale:**
-Although TxGNN assigns Pulmonary AVM the highest prediction score (99.41%), the mechanistic link is indirect — Ambrisentan targets PAH co-occurring in HHT patients rather than the AVM lesion itself — and clinical evidence is limited to a single case report, placing it at L4. This is insufficient to support clinical advancement for this specific indication. The more compelling repurposing story lies in the co-predicted PAH subtypes (ranks 2–4), all of which share the same ETA-antagonism mechanism and are supported by Phase 2/3 level evidence.
+- The top-ranked prediction rests on one case report, has no plausible mechanism and carries a theoretical shunt-physiology concern, so it should not advance.
+- PAH associated with connective tissue disease has two completed small trials, meta-analyses and AMBITION/ARIES-E subgroup data. It is already covered by the general PAH indication, so the remaining work is subgroup-specific.
+- PAH associated with congenital heart disease (L3) and HIV (L4) are research questions based on observational evidence only. PAH associated with chronic haemolytic anaemia or schistosomiasis, and the non-PAH predictions, have no supporting evidence.
 
 **To proceed, the following is needed:**
-
-- **MOA documentation**: Obtain formal DrugBank MOA and DrugBank categories to complete the mechanism-of-action analysis and confirm non-antineoplastic classification
-- **Package insert review**: Retrieve India or international package insert (Letairis/Volibris) for warnings, contraindications, and hepatotoxicity monitoring requirements
-- **Redirect primary evaluation**: Prioritize higher-evidence co-predictions:
-  - PAH-CHD (L2): NCT01808313, Phase 3b, completed in Chinese population — directly actionable for India market
-  - PAH-HIV (L1): NCT00709956, Phase 3 double-blind RCT — meets highest evidence threshold
-  - PAH-CTD (L2): Multiple completed trials including AMBITION post-hoc CTD-PAH subgroup (PMID 28039187, 32161055)
-- **For PAVM specifically**: Conduct a systematic review to determine whether HHT/PAVM patients were included in any existing Ambrisentan PAH registrational trials; assess whether PAVM+PAH co-morbidity constitutes a viable labeling sub-indication
-- **DDI safety audit**: Review all 112 documented interactions with focus on antiretroviral drugs (for PAH-HIV subgroup, given potential CYP3A4/P-gp interplay) and immunosuppressants (for PAH-CTD subgroup)
-- **India regulatory pathway**: Assess feasibility of new drug application or importation approval for Ambrisentan in India, given zero existing registrations
+- Package insert warnings and contraindications from the Indian licence holders (currently missing; this blocks safety screening)
+- Mechanism of action data from DrugBank
+- Subgroup-specific monitoring plan for fluid retention and coexisting interstitial lung disease in connective tissue disease
+- A Phase 3 or larger randomised study specific to connective tissue disease-associated PAH, if a formal new indication is sought
+- Antiretroviral interaction assessment if HIV-associated PAH is pursued
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

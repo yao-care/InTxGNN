@@ -33,9 +33,9 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Arsenic trioxide (ATO, brand name Trisenox) is an internationally established treatment for Acute Promyelocytic Leukemia (APL), achieving molecular remission in over 80% of cases.
-The TxGNN model predicts it may be effective for **Myelodysplastic Syndrome (MDS)**, with **24 clinical trials** and **20 publications** currently supporting this direction.
-Among the top 10 predicted indications, MDS carries the highest evidence level (L2) and the strongest actionable recommendation ("Proceed with Guardrails").
+Arsenic trioxide was originally used to treat acute promyelocytic leukemia (APL) and related myeloid leukemias.
+The TxGNN model predicts it may be effective for **myelodysplastic syndrome (MDS)**, a closely related myeloid disorder.
+The data compiled for this report include **20 clinical trials** and **20 publications** for this indication, although most trials are small, early-phase, or terminated.
 
 ---
 
@@ -43,102 +43,100 @@ Among the top 10 predicted indications, MDS carries the highest evidence level (
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute Promyelocytic Leukemia (APL) |
-| Predicted New Indication | Myelodysplastic Syndrome (MDS) |
-| TxGNN Prediction Score | 99.91% |
+| Original Indication | Acute promyelocytic leukemia (also myelomonocytic leukemia and AML with inv(16)/t(16;16)) |
+| Predicted New Indication | Myelodysplastic syndrome (predicted_indications rank 6, the best-supported prediction; the top-scoring prediction, unclassified myelodysplastic syndrome, has no trials or literature) |
+| TxGNN Prediction Score | 99.91% (myelodysplastic syndrome); the top-ranked term, unclassified myelodysplastic syndrome, scores 99.93% |
 | Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
 | Recommended Decision | Proceed with Guardrails |
+
+**Note on selection:** The highest-scoring predictions (unclassified MDS, refractory cytopenia of childhood, congenital sideroblastic anemia) have no or only indirect supporting evidence. This report therefore focuses on the broader MDS entity, which has the strongest evidence among the predictions. Aplastic-type anemia (L3) and Ewing sarcoma (L3) are secondary research questions.
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Why is This Prediction Reasonable?
 
-Arsenic trioxide (As₂O₃) acts through several converging anti-cancer mechanisms. At the molecular level, ATO binds to cysteine thiol groups and inhibits thioredoxin reductase, activating the mitochondrial apoptotic cascade (cytochrome c release → caspase activation). It simultaneously suppresses NF-κB survival signaling, downregulates anti-apoptotic BCL-2 family proteins (BCL-2, BCL-XL, MCL-1), and degrades the GLI2 transcription factor in the Hedgehog/GLI pathway. ATO also exerts immune-modulatory effects by restoring the Treg/Th17/Th1 balance and has documented anti-angiogenic properties.
+Detailed mechanism-of-action data are not available in the compiled data. Based on the literature, arsenic trioxide induces apoptosis (through NF-κB/FLIP and BCL2-family modulation), promotes cell differentiation, and has epigenetic (demethylating) and anti-angiogenic effects. These actions are the basis for its established efficacy in APL.
 
-MDS and APL share a common origin in clonal hematopoietic stem cell dysfunction. In MDS, pathological myeloid progenitors overexpress BCL-2 and rely on constitutive NF-κB signaling to resist programmed cell death — the same targets ATO addresses in APL. This mechanistic overlap forms a direct biological rationale for repurposing. Furthermore, ATO demonstrates synergy with DNA hypomethylating agents (decitabine, azacitidine): ATO dismantles pro-survival signaling while hypomethylating agents reverse epigenetic silencing of tumor suppressor genes. This complementary dual-pathway effect has been validated in both MDS cell lines (MUTZ-1, SKM-1) and Phase I/II clinical trials.
+APL and MDS are both clonal myeloid disorders of the bone marrow. MDS can progress to acute myeloid leukemia, and arsenic trioxide is already established in a related myeloid malignancy. This biological overlap supports the TxGNN prediction.
 
-Translational evidence has been partially established: a 2023 systematic review with network meta-analysis confirmed ATO activity (as monotherapy and in combination) in MDS patients, and an oral formulation (Arsenol®) is now being evaluated in active Phase 2 trials specifically designed for MDS and TP53-mutated myeloid malignancies (recruitment ongoing as of 2025). The critical remaining gap is the absence of a completed, adequately powered Phase 3 randomized controlled trial in MDS — the definitive hurdle before formal regulatory approval in this indication.
+The clinical picture is mixed. Several Phase 1 and Phase 2 trials exist, including combinations with decitabine and ascorbic acid, thalidomide, cholecalciferol, etanercept, and low-dose cytarabine. However, response rates are modest (about 20% in one review), many trials were terminated, enrollments are small, and no Phase 3 trial specific to arsenic trioxide in MDS was identified.
 
 ---
 
 ## Clinical Trial Evidence
 
-The following 10 most relevant trials are selected from 24 registered trials for MDS:
+Top 10 most relevant trials, selected from 20 linked trials:
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00803530](https://clinicaltrials.gov/study/NCT00803530) | Phase 2 | Terminated | 55 | Prospective multicenter trial of ATO + ascorbic acid in MDS; terminated early but generated partial efficacy data supporting ATO + vitamin C combination |
-| [NCT00251511](https://clinicaltrials.gov/study/NCT00251511) | Phase 2 | Terminated | 60 | ATO + thalidomide in low through high-risk MDS (IPSS-stratified); dual-pathway suppression design exploring immune modulation and apoptosis induction |
-| [NCT00454480](https://clinicaltrials.gov/study/NCT00454480) | Phase 2/3 | Completed | 2,000 | Largest completed trial; evaluates multiple regimens including ATO in older patients with AML and high-risk MDS; MDS subgroup data available for analysis |
-| [NCT00020969](https://clinicaltrials.gov/study/NCT00020969) | Phase 2 | Terminated | N/A | Early landmark multicenter Phase 2 of ATO monotherapy in MDS; foundational study that established the research direction despite early termination |
-| [NCT00274820](https://clinicaltrials.gov/study/NCT00274820) | Phase 2 | Completed | 15 | TADA regimen (Thalidomide + ATO + Dexamethasone + Ascorbic Acid) in MDS/overlap myeloproliferative disorders; provides multi-agent proof-of-concept data |
-| [NCT06778187](https://clinicaltrials.gov/study/NCT06778187) | Phase 2 | Recruiting | 30 | Oral ATO (Arsenol®) + ascorbic acid ± low-intensity therapy in previously untreated or relapsed/refractory TP53-mutated MDS/AML; most current study (start: Feb 2025) |
-| [NCT02190695](https://clinicaltrials.gov/study/NCT02190695) | Phase 2 | Completed | 92 | Three-arm randomized study: decitabine vs. decitabine + carboplatin vs. decitabine + ATO in relapsed/refractory AML and MDS; provides comparative contribution data for ATO arm |
-| [NCT00274781](https://clinicaltrials.gov/study/NCT00274781) | Phase 2 | Completed | 30 | ATO + gemtuzumab ozogamicin in advanced MDS; completed with 30 patients; provides combination safety profile and activity signal in an advanced disease setting |
-| [NCT06670222](https://clinicaltrials.gov/study/NCT06670222) | Phase 1 | Recruiting | 24 | Dose-escalation of oral ATO in low-risk MDS failing ESA and luspatercept; start July 2025; establishes safe dose range for oral formulation in treatment-refractory patients |
-| [NCT00671697](https://clinicaltrials.gov/study/NCT00671697) | Phase 1 | Completed | 13 | IV decitabine + ATO + ascorbic acid in MDS and AML; completed with 13 patients; characterizes pharmacodynamic interaction of triple combination |
+| [NCT00251511](https://clinicaltrials.gov/study/NCT00251511) | Phase 2 | Terminated | 60 | Arsenic trioxide plus thalidomide in low- to high-risk MDS; largest MDS-specific arsenic trioxide trial |
+| [NCT00093366](https://clinicaltrials.gov/study/NCT00093366) | Phase 1/2 | Completed | 32 | Arsenic trioxide plus etanercept in advanced MDS |
+| [NCT00020969](https://clinicaltrials.gov/study/NCT00020969) | Phase 2 | Terminated | Not reported | Single-agent arsenic trioxide in MDS (multicenter) |
+| [NCT00195104](https://clinicaltrials.gov/study/NCT00195104) | Phase 1/2 | Completed | 87 | Arsenic trioxide with low-dose cytarabine in high-risk MDS and poor-prognosis AML |
+| [NCT02190695](https://clinicaltrials.gov/study/NCT02190695) | Phase 2 | Completed | 92 | Randomized: decitabine vs decitabine plus carboplatin vs decitabine plus arsenic in relapsed/refractory/elderly AML and MDS |
+| [NCT00621023](https://clinicaltrials.gov/study/NCT00621023) | Phase 2 | Completed | 7 | Pilot of decitabine, arsenic trioxide and ascorbic acid; safety focus |
+| [NCT00671697](https://clinicaltrials.gov/study/NCT00671697) | Phase 1 | Completed | 13 | Decitabine plus arsenic trioxide and ascorbic acid; safety and dose information |
+| [NCT00274781](https://clinicaltrials.gov/study/NCT00274781) | Phase 2 | Completed | 30 | Arsenic trioxide plus gemtuzumab ozogamicin in advanced MDS |
+| [NCT06670222](https://clinicaltrials.gov/study/NCT06670222) | Phase 1 | Recruiting | 24 | Oral arsenic in low-risk MDS failing ESAs and luspatercept |
+| [NCT06778187](https://clinicaltrials.gov/study/NCT06778187) | Phase 2 | Recruiting | 30 | Oral arsenic trioxide with ascorbic acid and low-intensity therapy in TP53-mutated myeloid malignancies |
+
+A Phase 3 trial of decitabine plus arsenic trioxide (NCT03377725) was withdrawn with zero enrollment.
 
 ---
 
 ## Literature Evidence
 
-The following 10 publications are prioritized by study type and clinical relevance (from 20 publications for MDS):
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [37908176](https://pubmed.ncbi.nlm.nih.gov/37908176/) | 2023 | Systematic Review / Meta-Analysis | Hematology | Network meta-analysis confirming ATO efficacy in MDS across multiple regimens; identifies ATO + ascorbic acid and ATO + decitabine as optimal combinations |
-| [40167011](https://pubmed.ncbi.nlm.nih.gov/40167011/) | 2025 | Retrospective Clinical Study | Hematology | Decitabine + ATO in elderly high-risk MDS; demonstrates efficacy and manageable safety profile in a population with limited treatment options |
-| [38816179](https://pubmed.ncbi.nlm.nih.gov/38816179/) | 2024 | Comparative Clinical Analysis | Immunopharmacology and Immunotoxicology | Compares oral (realgar) vs. IV ATO immunological effects in MDS mouse model; details Treg/Th17/Th1 rebalancing and cytokine modulation |
-| [20956016](https://pubmed.ncbi.nlm.nih.gov/20956016/) | 2011 | Phase I/II Clinical Trial | Leukemia Research | ATO + low-dose cytarabine in 49 patients with Int-2/high-risk MDS; CR rate 17%, established dosing feasibility and activity signal |
-| [17920679](https://pubmed.ncbi.nlm.nih.gov/17920679/) | 2008 | Clinical Study | Leukemia Research | ATO + all-trans retinoic acid + thalidomide in higher-risk MDS; evaluates triple-agent differentiation-plus-apoptosis strategy |
-| [18282365](https://pubmed.ncbi.nlm.nih.gov/18282365/) | 2007 | Review | Clinical Lymphoma & Myeloma | Summarizes ATO clinical data in leukemia and MDS; contextualizes APL remission rates with exploratory MDS results and combination approaches |
-| [20425329](https://pubmed.ncbi.nlm.nih.gov/20425329/) | 2006 | Review | Current Hematologic Malignancy Reports | Reviews ATO mechanisms (pro-apoptotic, anti-proliferative, anti-angiogenic) in MDS and summarizes early trial outcomes supporting clinical development |
-| [30898879](https://pubmed.ncbi.nlm.nih.gov/30898879/) | 2019 | In Vitro / Mechanistic | Journal of Investigative Medicine | Synergistic apoptosis induction by decitabine + ATO in MUTZ-1 and SKM-1 MDS cell lines via endoplasmic reticulum stress; provides mechanistic basis for combination therapy |
-| [22964015](https://pubmed.ncbi.nlm.nih.gov/22964015/) | 2012 | Translational / Clinical Sample | Journal of Hematology & Oncology | Ex vivo comparison of BCL2 family gene expression in MDS patient bone marrow before and after ATO treatment; directly demonstrates BCL2/BCL-XL downregulation |
-| [16105982](https://pubmed.ncbi.nlm.nih.gov/16105982/) | 2005 | Mechanistic Study | Blood | Characterizes NF-κB activity and FLIP expression in MDS patient samples; demonstrates ATO-induced apoptosis via NF-κB suppression in RAEB subtype |
+| [37908176](https://pubmed.ncbi.nlm.nih.gov/37908176/) | 2023 | Systematic review / network meta-analysis | Hematology | Evaluates efficacy and adverse events of arsenic-containing regimens in MDS; notes small samples and conflicting trial conclusions |
+| [20956016](https://pubmed.ncbi.nlm.nih.gov/20956016/) | 2011 | Phase I/II study | Leuk Res | Arsenic trioxide plus low-dose cytarabine in 49 patients with intermediate-2/high-risk MDS; complete remission in 17%, 4-week mortality 8% |
+| [17920679](https://pubmed.ncbi.nlm.nih.gov/17920679/) | 2008 | Clinical study | Leuk Res | Arsenic trioxide, thalidomide and retinoic acid combination in higher-risk MDS |
+| [18282365](https://pubmed.ncbi.nlm.nih.gov/18282365/) | 2007 | Review | Clin Lymphoma Myeloma | Activity of arsenic trioxide in leukemias and MDS |
+| [20425329](https://pubmed.ncbi.nlm.nih.gov/20425329/) | 2006 | Review | Curr Hematol Malig Rep | Arsenic trioxide acts through pro-apoptotic, antiproliferative and anti-angiogenic mechanisms in MDS |
+| [12886236](https://pubmed.ncbi.nlm.nih.gov/12886236/) | 2003 | Review | Leukemia | Opportunities for arsenic trioxide in MDS |
+| [38816179](https://pubmed.ncbi.nlm.nih.gov/38816179/) | 2024 | Preclinical | Immunopharmacol Immunotoxicol | Compares immunological changes with realgar and arsenic trioxide in a murine MDS model |
+| [41398777](https://pubmed.ncbi.nlm.nih.gov/41398777/) | 2025 | Preclinical | Medicine | Triptolide plus arsenic trioxide induces MDS cell apoptosis via NF-κB inhibition |
+| [27665715](https://pubmed.ncbi.nlm.nih.gov/27665715/) | 2016 | Preclinical | Mol Med Rep | Synergistic apoptosis with triptolide in the SKM-1 MDS cell line |
+| [20471733](https://pubmed.ncbi.nlm.nih.gov/20471733/) | 2010 | Review | Blood Rev | Arsenic trioxide as an old drug rediscovered, from APL to other malignancies including MDS |
 
 ---
 
 ## India Market Information
 
-Arsenic trioxide currently has **no registered products in India** (market status: Not Marketed; total registrations: 0). The drug is internationally approved — notably as Trisenox® (FDA-approved for APL) and in multiple other regulatory jurisdictions — but has not obtained market authorization in India as of the data cutoff (April 5, 2026). Any clinical use in India for MDS would require a special import license, a New Drug Application submission, or a compassionate use / expanded access protocol.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 2440 | Arsenox 10mg Injection (Intas Pharmaceuticals Ltd) | Vial of 10 ml injection | Not specified in the compiled data |
+| Registration No. 9023 | Arsitri 10mg Injection (Neon Laboratories Ltd) | Vial of 10 ml injection | Not specified in the compiled data |
+| Registration No. 8883 | Arsikem 10mg Injection (Alkem Laboratories Ltd) | Vial of 1 injection | Not specified in the compiled data |
 
 ---
 
 ## Cytotoxicity
 
-Arsenic trioxide is an antineoplastic agent (approved for the hematologic malignancy APL; original indication involves leukemia). This section applies.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Inorganic cytotoxic (arsenic-based); induces differentiation and apoptosis in malignant hematopoietic cells through a distinct mechanism separate from conventional alkylating agents or antimetabolites |
-| Myelosuppression Risk | Moderate — particularly relevant in MDS patients who already have pre-existing cytopenias; initial worsening of blood counts possible before clinical response; CBC monitoring is essential |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential (weekly during induction), serum electrolytes (K⁺, Mg²⁺ before each dose), 12-lead ECG / QTc interval (baseline and during treatment), liver function tests (AST/ALT), renal function (creatinine, eGFR) |
-| Handling Protection | Must follow cytotoxic drug handling regulations: closed-system drug-transfer device, PPE (gloves, gown, face shield), disposal as hazardous pharmaceutical waste |
+| Cytotoxicity Classification | Conventional cytotoxic / antineoplastic (arsenical; induces apoptosis and differentiation) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | ECG (QTc interval), serum electrolytes (potassium, magnesium), CBC, liver and renal function |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions (332 total interactions identified; key interactions listed below):**
+- **Contraindication-related conditions (from knowledge-graph associations, not label text):** long QT syndrome (including familial), torsades de pointes, atrioventricular block, potassium deficiency, kidney disease, liver disease, gallbladder disease, and pyoureter.
+- **Drug Interactions:** 332 interactions were identified. Major interactions include:
+  - QT-prolonging agents: cisapride, clarithromycin, dolasetron, granisetron, levofloxacin
+  - Hydrocortisone
+  - Amphotericin B (conventional, lipid complex, cholesteryl sulfate, and liposomal forms)
+  
+  Moderate interactions include famotidine, loperamide, and several laxatives and osmotic agents (bisacodyl, castor oil, glycerin, lactitol, lactulose, magnesium citrate, magnesium hydroxide). Metronidazole is a minor interaction.
+- **Cardiac risk:** QT prolongation requires monitoring, supported by the associations above and the large interaction burden.
 
-| Interacting Drug | Severity | Clinical Concern |
-|---------|------|------|
-| Amphotericin B (conventional, lipid complex, cholesteryl sulfate, liposomal) | **Major** | All formulations cause hypokalemia and hypomagnesemia, potentiating ATO-induced QT prolongation; correct electrolytes before and during concurrent use |
-| Hydrocortisone | **Major** | Corticosteroid-driven electrolyte shifts (hypokalemia) amplify QT risk; monitor QTc closely |
-| Cisapride | **Major** | Direct additive QT prolongation; concurrent use is contraindicated |
-| Clarithromycin | **Major** | Strong QT prolongation; prefer alternative antibiotics (e.g., amoxicillin-clavulanate) |
-| Dolasetron | **Major** | Additive QT prolongation; use alternative antiemetics (e.g., metoclopramide, dexamethasone) |
-| Granisetron | **Major** | Additive QT prolongation; minimize 5-HT3 antagonist use or choose ondansetron with careful QTc monitoring |
-| Levofloxacin | **Major** | Additive QT prolongation; select non-QT-prolonging antibiotics whenever clinically feasible |
-| Famotidine | Moderate | Monitor; H2-receptor blockers may alter gastric pH and drug absorption kinetics |
-| Loperamide | Moderate | Moderate QT prolongation risk; use cautiously if antidiarrheal therapy is needed |
-| Magnesium citrate / Magnesium hydroxide | Moderate | Electrolyte shifts may transiently affect QTc interval; monitor serum Mg²⁺ |
-
-> The predominant interaction pattern across all 332 DDIs is **QT interval prolongation**. Baseline ECG with QTc measurement, correction of electrolyte abnormalities (K⁺ ≥ 4.0 mEq/L; Mg²⁺ ≥ 0.8 mmol/L), and ongoing cardiac monitoring are essential safety measures throughout ATO treatment.
+Please refer to the package insert for full warnings and contraindications.
 
 ---
 
@@ -147,16 +145,16 @@ Arsenic trioxide is an antineoplastic agent (approved for the hematologic malign
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple Phase 2 trials have directly evaluated ATO in MDS, a 2023 systematic review with network meta-analysis confirms clinically meaningful activity, and active Phase 2 trials (including an oral ATO formulation, Arsenol®) are currently recruiting as of 2025. The mechanistic rationale — pro-apoptotic, anti-NF-κB, synergy with hypomethylating agents, immune modulation — is supported across preclinical, translational, and early clinical data. However, no completed Phase 3 RCT specifically in MDS exists, ATO is not registered in India, and the full safety profile for the Indian regulatory context requires verification.
+Myelodysplastic syndrome has multiple completed Phase 1 and Phase 2 trials and a 2023 systematic review, with a plausible mechanism shared with APL. However, response rates are modest, several trials were terminated, enrollments are small, and no Phase 3 evidence exists. Other predicted indications (unclassified MDS, childhood refractory cytopenia, congenital sideroblastic anemia, del(5q), dermatofibrosarcoma protuberans, liposarcoma, ovarian myxoid liposarcoma) are prediction-only and should be held.
 
 **To proceed, the following is needed:**
-
-- **Complete MOA documentation**: Retrieve full DrugBank mechanism-of-action data (DrugBank DB01169) to support mechanistic-link analysis in the regulatory dossier
-- **Full safety package**: Download and parse the complete prescribing information / package insert (FDA Trisenox® or equivalent) for comprehensive warnings, contraindications, and special population data
-- **QT cardiac safety protocol**: Develop a formal QTc monitoring plan given 332 total drug interactions, the majority of which involve QT prolongation risk
-- **Target population definition**: Prioritize a clinically defined MDS subgroup — candidates include TP53-mutated MDS, hypomethylating agent-refractory MDS, or high-risk MDS by IPSS-R — to maximize the benefit-risk ratio
-- **Phase 3 trial design**: Design a well-powered randomized controlled trial (e.g., ATO + decitabine vs. decitabine alone in high-risk MDS) building on the Phase 2 data and the 2023 meta-analysis findings
-- **India regulatory pathway**: Engage with CDSCO to assess feasibility of a New Drug Application or special import authorization for ATO in the MDS indication; evaluate whether data from international trials can support an abbreviated approval pathway
+- Package insert warnings and contraindications for the Indian-marketed products (currently unavailable, and a blocking gap for safety screening)
+- Detailed mechanism-of-action data from DrugBank
+- Approved indication text for the Indian registrations
+- Review of the 2023 meta-analysis to identify the best-performing combination regimens and the patient subgroups (e.g., TP53-mutated, low-risk after ESA failure) most likely to benefit
+- A cardiac safety plan (baseline and serial ECG, electrolyte correction, and a review of concomitant QT-prolonging drugs)
+- Consideration of a randomized trial, since no Phase 3 evidence exists
+- Secondary research questions: refractory aplastic anemia (L3; small single-arm studies, one terminated for non-response) and Ewing sarcoma (L3; mainly preclinical)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

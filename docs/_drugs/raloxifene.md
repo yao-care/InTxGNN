@@ -2,7 +2,7 @@
 layout: default
 title: Raloxifene
 parent: Model Prediction Only (L5)
-nav_order: 713
+nav_order: 720
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,78 +29,75 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Raloxifene: From Unknown Original Indication to Duodenal Ulcer (Predicted, Low Confidence)
+# Raloxifene: From Postmenopausal Osteoporosis to Duodenal Ulcer
 
 ## One-Sentence Summary
 
-> This evidence pack does not document Raloxifene's original approved indication (data gap), though supporting text identifies it as a selective estrogen receptor modulator (SERM).
-> The TxGNN model predicts possible efficacy for **Duodenal Ulcer**,
-> but **no clinical trials** and **no literature** currently support this direction — the evidence pack itself flags this as a likely false-positive prediction.
-
----
+Raloxifene was originally used to treat postmenopausal osteoporosis and osteoporosis.
+The TxGNN model predicts it may be effective for **duodenal ulcer**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this evidence pack (original_indications empty; MOA marked as data gap) |
-| Predicted New Indication | Duodenal Ulcer (disease) |
+| Original Indication | Postmenopausal osteoporosis, osteoporosis (the approved-indication text in the India licence records is empty, so this comes from the knowledge-graph indication data) |
+| Predicted New Indication | Duodenal ulcer |
 | TxGNN Prediction Score | 99.72% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 14 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for Raloxifene is not available in this evidence pack (flagged as a Blocking/High-severity data gap). However, the model's own rationale text identifies Raloxifene as a **selective estrogen receptor modulator (SERM)** acting primarily on ERα/ERβ.
+Currently, detailed mechanism of action data is not available. Based on known information, raloxifene is a selective estrogen receptor modulator (SERM) with tissue-selective estrogen agonist and antagonist activity in bone, breast and uterus. Its efficacy in postmenopausal osteoporosis is established.
 
-The rationale explicitly cautions that although gastrointestinal mucosa expresses low levels of estrogen receptors — and estrogenic signaling is theoretically associated with mucosal protection — **there is no experimental or clinical data supporting a therapeutic effect of Raloxifene on duodenal ulcer.** No mechanistic chain linking SERM activity to peptic ulcer healing has been established.
+A link to duodenal ulcer is speculative. One could imagine a gastroprotective effect through estrogen receptor signalling in the gastric or duodenal mucosa, but nothing in the data compiled for this report establishes it. The high score (0.997) is a model prediction only.
 
-The evidence pack's own assessment states this high TxGNN score is "very likely a false positive arising from embedding similarity in the knowledge graph, without underlying biological relevance." The three other TxGNN candidates for this drug (hypoalphalipoproteinemia, duodenal obstruction, duodenogastric reflux) carry the same caveat — one is mechanistically contradictory (Raloxifene's lipid effects run opposite to the proposed indication), and two involve structural/mechanical or motility pathology with no plausible SERM mechanism. All four candidates are scored L5 (model-only) with a **Hold** recommendation at decision stage S0.
-
----
+Other top-ranked predictions are also weak. Hypoalphalipoproteinemia (99.65%) has a plausible lipid-metabolism connection, but raloxifene lowers LDL cholesterol and has little or no effect on HDL, so correcting low HDL is not expected. Duodenal obstruction (99.64%) is largely a structural condition that a SERM is unlikely to address. Duodenogastric reflux (99.59%) is a motility disorder with no known raloxifene action. The three duodenal predictions likely share neighbouring nodes in the knowledge graph, which may inflate their scores.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
----
+## India Market Information
 
-## Taiwan Market Information
+Raloxifene has 14 valid single-ingredient registrations in India and none cancelled. The approved-indication text is not recorded for any of them. The main authorizations are:
 
-No registration records currently available — Raloxifene is not marketed in Taiwan under this dataset (market status: Not marketed / Not Marketed; 0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 47098 | Ceost 60mg Tablet (Comed Chemicals Ltd) | Strip of 10 tablets | Not recorded |
+| 185019 | Ralista Tablet (Cipla Ltd) | Strip of 10 tablets | Not recorded |
+| 189807 | Ruftuf 60mg Tablet (Ajanta Pharma Ltd) | Strip of 10 tablets | Not recorded |
+| 80048 | Esserm 60mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not recorded |
+| 85592 | Femoral 60mg Tablet (Duckbill Drugs Pvt Ltd) | Strip of 14 tablets | Not recorded |
 
----
+All products are oral tablets.
 
 ## Safety Considerations
 
-- **Drug Interactions**: 129 documented drug–drug interactions identified via DDInter. Severity levels for all listed interactions are recorded as "Unknown" in the source database, so clinical significance cannot be graded from this data alone. Representative interacting drugs include: Calcitriol, Pantoprazole, Glimepiride, Mesalazine, Doxycycline, Clotrimazole, Morphine, Metformin, Omeprazole, Lansoprazole, Sucralfate, Rosiglitazone, Vancomycin, Lactulose, Triamcinolone, Simvastatin, Nystatin, Nateglinide, Scopolamine, and Tetracycline (20 of 129 total shown).
+- **Contraindications (from knowledge-graph drug-disease edges, not label text):** hypertension and hypertensive disorder, liver disease, gallbladder disease, atrial fibrillation, hypertriglyceridemia, thrombophlebitis, coronary artery disease, stroke and cerebrovascular disorders, ischemic stroke susceptibility, cerebral infarction, pulmonary embolism, retinal artery occlusion, thrombophilia, impaired renal function, transient ischemic attack, vertebrobasilar insufficiency, antiphospholipid syndrome. The recurring theme is cardiovascular and thromboembolic risk, along with liver, gallbladder and kidney conditions.
+- **Drug Interactions:** 129 interactions were identified, but severity levels are unclassified. Examples include calcitriol, pantoprazole, omeprazole, lansoprazole, glimepiride, metformin, rosiglitazone, simvastatin, doxycycline, tetracycline, morphine and sucralfate. Clinical significance would need to be reviewed individually.
 
-Key warnings and contraindications are not available in this evidence pack — please refer to the package insert for this safety information.
-
----
+Please also refer to the package insert for label warnings, which were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All four TxGNN-predicted indications for Raloxifene are model-only outputs (L5) with zero supporting clinical trials or literature. The drug's original indication and mechanism of action are undocumented data gaps, and the evidence pack's own mechanistic review flags the top candidate (duodenal ulcer) as a probable knowledge-graph false positive rather than a biologically grounded signal.
+The prediction rests on model score alone (L5), with no clinical trials or literature, and no credible mechanistic link to duodenal ulcer. The contraindication profile, with its cardiovascular and thromboembolic concerns, adds caution. The other top-ranked predictions are no better supported.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — currently a Blocking data gap
-- Confirmed mechanism of action via DrugBank API query — currently a High-severity data gap
-- Independent mechanistic or preclinical evidence connecting SERM activity to duodenal mucosal pathology before any further evaluation stage is considered
-- Re-screening of TxGNN output for false-positive filtering given the pattern observed across all four ranked candidates for this drug
+- Package insert warnings and contraindications from the India regulator or manufacturers (currently a blocking gap for safety screening)
+- Mechanism of action data (for example from DrugBank) to test for a link to duodenal ulcer
+- Preclinical or observational evidence on raloxifene and gastroduodenal mucosal effects
+- Classification of drug-interaction severity for the 129 identified interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

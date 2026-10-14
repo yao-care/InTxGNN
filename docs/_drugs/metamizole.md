@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Metamizole
-parent: High Evidence (L1-L2)
-nav_order: 525
-evidence_level: L1
+parent: Moderate Evidence (L3-L4)
+nav_order: 530
+evidence_level: L4
 indication_count: 10
 ---
 
 # Metamizole
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,106 +29,102 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Metamizole: From Analgesic/Antipyretic to Migraine Disorder
+# Metamizole: From Analgesic/Antipyretic Use to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-Metamizole (also known as dipyrone) is a pyrazolone-class non-opioid analgesic and antipyretic, widely used in many countries for acute pain and fever management.
-The TxGNN model's top-ranked prediction is **Rheumatoid Arthritis** (rank 1, score 99.78%), but the most evidence-backed actionable indication is **Migraine Disorder** (rank 2, score 99.72%), supported by **3 clinical trials** (including 1 completed Phase 3 RCT) and **19 publications** (including multiple RCTs and a Cochrane systematic review).
-The RA prediction is assessed as **Hold** due to absence of direct clinical evidence; migraine carries a **Proceed with Guardrails** recommendation at evidence level **L1**.
+Metamizole is a non-opioid analgesic and antipyretic that is marketed in India as both tablets and injections.
+The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but **no clinical trials** are registered and the **9 publications** retrieved mainly address safety and prescribing patterns, not efficacy.
+The evidence for this prediction is therefore weak. The only migraine-related prediction with some supportive literature is a stronger research question.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Analgesic/Antipyretic (inferred from pharmacology; no India market approval on record) |
-| Predicted New Indication | Migraine Disorder (TxGNN rank 2; highest-evidence actionable prediction) |
-| TxGNN Prediction Score | 99.72% |
-| Evidence Level | L1 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails (Migraine) / Hold (Rheumatoid Arthritis) |
+|------|------|
+| Original Indication | Not stated in the approval records compiled for this report (analgesic/antipyretic use is inferred from the drug class) |
+| Predicted New Indication | Rheumatoid arthritis |
+| TxGNN Prediction Score | 99.78% |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 5 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Metamizole belongs to the pyrazolone class of non-opioid analgesics. Detailed MOA data is not currently available in the Evidence Pack, but known pharmacological mechanisms include inhibition of COX-2 and the less-characterised COX-3 isoform, with resulting suppression of prostaglandin E2 (PGE2) synthesis. On top of the peripheral anti-inflammatory effect, metamizole exerts central analgesic actions mediated through cannabinoid CB1 receptors and the descending serotonergic (5-HT) pain-modulation pathway — a dual peripheral-central profile that distinguishes it from conventional NSAIDs.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on general knowledge, metamizole is a non-opioid analgesic and antipyretic with weak anti-inflammatory activity. It is thought to act through central COX inhibition and possibly through cannabinoid and opioidergic pathways.
 
-Migraine attacks are initiated by cortical spreading depression (CSD) and trigemino-vascular system activation. PGE2 is a principal sensitising agent for trigeminal nerve endings surrounding meningeal blood vessels, and its suppression at both the trigeminal ganglia and the meningeal level directly interrupts the pain cascade. Metamizole's additional central action via the 5-HT descending pathway provides a second layer of pain modulation, targeting the very pathways responsible for migraine chronification.
+This could plausibly give symptomatic pain relief in rheumatic disease. However, there is no evidence that it modifies the course of rheumatoid arthritis. The retrieved literature is about safety (agranulocytosis when used alongside methotrexate, drug interactions, hypersensitivity) and prescribing patterns, not about efficacy. The high TxGNN score is not supported by clinical data.
 
-The mechanistic fit is supported by a substantial body of clinical evidence. Multiple randomised controlled trials conducted in Brazil, Turkey, and Israel — together with Cochrane systematic reviews — confirm metamizole's efficacy as an abortive treatment for acute migraine with and without aura, via both intravenous and oral routes. Intravenous metamizole is routinely used in emergency department settings across Latin America, southern Europe, and the Middle East. TxGNN's high score for migraine (99.72%) therefore reflects a genuine pharmacological relationship, not a knowledge-graph artefact.
-
-> **Note on the top TxGNN prediction (Rheumatoid Arthritis, rank 1, 99.78%):** Metamizole's COX inhibition can provide symptomatic analgesia in RA, and German claims data (PMID 33825975) confirms it is indeed prescribed as an adjunct analgesic in rheumatic diseases. However, it has no disease-modifying (DMARD) activity, cannot halt joint destruction, and is not recommended as a primary RA therapy. The high TxGNN score most likely arises from a RA ↔ pain ↔ analgesic pathway similarity in the knowledge graph rather than a direct therapeutic relationship. Evidence level is L4; recommendation is **Hold**.
+**Other predictions reviewed:**
+- **Migraine disorder (99.72%)**: The most plausible alternative. The literature includes a small randomized, single-blind comparison of intravenous dipyrone versus lysine clonixinate in severe migraine attacks, plus reviews and clinical surveys. Evidence level L3, a research question. A preclinical study also raises a caution signal for medication-overuse headache.
+- **Migraine with or without aura, susceptibility to (99.70%)**: Essentially a duplicate of the migraine disorder entry; it is not independent evidence.
+- **Migraine with brainstem aura (99.67%)**: Only a primary care survey was found; there is no subtype-specific evidence.
+- **Exostosis, gout, tendinitis, antithrombin deficiency type 2, brachydactyly-syndactyly syndrome, factor 5 excess with spontaneous thrombosis**: No clinical or literature evidence. For gout and tendinitis, only symptomatic pain relief is conceivable. For the genetic and coagulation disorders, no plausible mechanism exists.
 
 ---
 
 ## Clinical Trial Evidence
 
-*(Evidence for Migraine Disorder, predicted_indications[1])*
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT02183220](https://clinicaltrials.gov/study/NCT02183220) | Phase 3 | Completed | 417 | Double-blind, placebo- and aspirin-controlled RCT evaluating a single oral dose of metamizole 0.5 g and 1.0 g vs. placebo and aspirin 1.0 g across 2 episodes of moderate tension headache; directly assessed analgesic efficacy and tolerability — the highest-quality direct trial in this dataset |
-| [NCT05048914](https://clinicaltrials.gov/study/NCT05048914) | N/A (Observational) | Unknown | 50 | Evaluated abortive migraine treatment patterns in Israeli children and adolescents aged 6–18; provides pediatric real-world use data for metamizole |
-| [NCT02706015](https://clinicaltrials.gov/study/NCT02706015) | Phase 3 | Withdrawn | 0 | Planned non-inferiority trial comparing Cefaliv® vs Neosaldina® (both contain metamizole) for migraine attacks; withdrawn before any enrollment — no data contributed |
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-*(Evidence for Migraine Disorder, predicted_indications[1])*
-
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [17443558](https://pubmed.ncbi.nlm.nih.gov/17443558/) | 2007 | Cochrane Systematic Review | Cochrane Database Syst Rev | Dipyrone for acute primary headaches; comprehensive review of evidence across multiple countries confirming efficacy; foundational high-quality evidence |
-| [27096578](https://pubmed.ncbi.nlm.nih.gov/27096578/) | 2016 | Cochrane Review | Cochrane Database Syst Rev | Single-dose dipyrone for acute postoperative pain; includes migraine context; confirms non-opioid analgesic efficacy profile |
-| [24433525](https://pubmed.ncbi.nlm.nih.gov/24433525/) | 2014 | Systematic Review | Headache | Parenteral treatment of episodic tension-type headache; metamizole evaluated as a parenteral analgesic option for acute care settings |
-| [12390611](https://pubmed.ncbi.nlm.nih.gov/12390611/) | 2002 | RCT | Headache | IV dipyrone in acute migraine without aura and with aura; randomized, double-blind, placebo-controlled; confirms efficacy for both migraine subtypes |
-| [15595715](https://pubmed.ncbi.nlm.nih.gov/15595715/) | 2004 | RCT | Functional Neurology | Dipyrone 1 g tablets in acute migraine attacks (with/without aura); double-blind, cross-over, randomized, placebo-controlled multicenter study (n=73); confirms oral efficacy |
-| [11422089](https://pubmed.ncbi.nlm.nih.gov/11422089/) | 2001 | Clinical Trial | Cephalalgia | IV metamizole vs. placebo in migraine with aura (n=54), without aura (n=95), and tension-type headache (n=30); placebo-controlled; supports IV use across headache subtypes |
-| [18545786](https://pubmed.ncbi.nlm.nih.gov/18545786/) | 2008 | RCT | Arq Neuropsiquiatr | Lysine clonixinate vs. IV dipyrone for severe migraine attacks; single-blind, randomized; IV dipyrone confirmed effective with good tolerability |
-| [35523834](https://pubmed.ncbi.nlm.nih.gov/35523834/) | 2022 | Observational Study | Scientific Reports | Abortive migraine treatment in Israeli children/adolescents (n=50); real-world pediatric prescribing data including metamizole |
-| [33712966](https://pubmed.ncbi.nlm.nih.gov/33712966/) | 2021 | Observational Study | Internal and Emergency Medicine | Acute migraine management in a large Spanish tertiary hospital ED (n=847 cases, 2016–2019); documents contemporary real-world use of metamizole in acute migraine care |
-| [22404708](https://pubmed.ncbi.nlm.nih.gov/22404708/) | 2012 | Review | Headache | Rescue therapy for acute migraine — opioids, NSAIDs, and steroids in ED/urgent care; positions metamizole within the NSAID class for acute migraine rescue |
+|------|-----|------|------|---------|
+| [42604876](https://pubmed.ncbi.nlm.nih.gov/42604876/) | 2026 | Pharmacovigilance analysis | Naunyn-Schmiedeberg's Arch Pharmacol | Analysis of whether agranulocytosis is disproportionately reported when metamizole is used with methotrexate for RA |
+| [40188149](https://pubmed.ncbi.nlm.nih.gov/40188149/) | 2025 | Pharmacovigilance analysis | Arthritis Res Ther | Methotrexate-related kidney and liver adverse reactions in RA, and the effect of concomitant analgesics |
+| [33825975](https://pubmed.ncbi.nlm.nih.gov/33825975/) | 2021 | Claims data analysis | Z Rheumatol | Analgesic prescription frequency in RA, axSpA, PsA and SLE in Germany |
+| [21412604](https://pubmed.ncbi.nlm.nih.gov/21412604/) | 2011 | Observational | Rev Bras Reumatol | Potential drug interactions in RA patients with polypharmacy |
+| [18679134](https://pubmed.ncbi.nlm.nih.gov/18679134/) | 2008 | Observational cohort | J Clin Rheumatol | Drug allergy frequency in SLE compared with RA |
+| [23238666](https://pubmed.ncbi.nlm.nih.gov/23238666/) | 2013 | Pharmacodynamic review | Thromb Haemost | NSAID interference with the antiplatelet effect of aspirin |
+
+None of these studies tests whether metamizole treats rheumatoid arthritis.
 
 ---
 
 ## India Market Information
 
-Metamizole is currently **not marketed in India**. No CDSCO license records are available. The drug is approved and in active clinical use in numerous markets — including Germany, Brazil, Spain, Turkey, Poland, and Israel — but has been withdrawn or remains banned in the United States, United Kingdom, and Australia due to the risk of agranulocytosis.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 844 | ANALGIN 500MG TABLET (Alkem Laboratories) | Strip of 10 tablets | Not specified in the records |
+| 17378 | Andep 0.5mg Tablet (Ravian Pharmaceuticals) | Strip of 10 tablets | Not specified in the records |
+| 26735 | Bral 500mg Tablet (Micro Labs) | Strip of 10 tablets | Not specified in the records |
+| 231303 | Ultragin 500mg Injection (Pfizer) | Vial of 30 ml injection | Not specified in the records |
+| 153086 | Novalgin RC 0.5% Injection (Sanofi India) | Vial of 30 ml injection | Not specified in the records |
 
-Any India market entry would require a full CDSCO new drug application (NDA) pathway.
+All five registrations are valid single-ingredient products, covering oral and injectable routes.
 
 ---
 
 ## Safety Considerations
 
-Detailed TFDA/CDSCO package insert warnings and contraindications are not yet available in the Evidence Pack (Data Gap DG001). Drug interaction data could not be retrieved (DDI database file not found during query).
+Please refer to the package insert for safety information.
 
-> Please refer to the originator package insert for complete safety information.
-
-**Key safety consideration known from pharmacological literature:** Metamizole carries a rare but potentially life-threatening risk of **agranulocytosis** (estimated incidence 1:1,000 to 1:30,000 exposures depending on the population and exposure duration). This adverse effect is the primary reason for the drug's withdrawal in several high-income countries and must be a central element of any benefit–risk assessment for new indications. Baseline and periodic complete blood count (CBC) monitoring is recommended when metamizole is used on a chronic or recurrent basis.
+The retrieved literature does flag the following signals:
+- **Agranulocytosis**: Metamizole is itself associated with agranulocytosis, and a pharmacovigilance study examined this risk when it is used alongside methotrexate in RA. Several reviews note it is banned in some countries because of life-threatening blood disorders.
+- **Hypersensitivity**: A case report describes toxic epidermal necrolysis after metamizole.
+- **Medication-overuse headache**: A preclinical rat study suggests repeated exposure may induce latent sensitization.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails** *(Migraine Disorder)* | **Hold** *(Rheumatoid Arthritis and all other predicted indications)*
+**Decision: Hold**
 
 **Rationale:**
-For migraine disorder, multiple Phase 3/RCT-level studies, Cochrane systematic reviews, and real-world evidence from five countries confirm metamizole's acute abortive efficacy. The mechanism of action (COX-2/COX-3 inhibition + central 5-HT/CB1 analgesia) directly maps to established migraine pathophysiology, supporting biological plausibility at L1 evidence level. For all other top-10 predicted indications, evidence is insufficient (L4–L5) or the predictions represent knowledge-graph artefacts without mechanistic basis.
+For rheumatoid arthritis, there are no registered trials and no efficacy studies, only safety and prescribing-pattern literature. The high model score is not supported by clinical data. Migraine has more supportive literature, but this is a small regional randomized comparison and heterogeneous reviews, and the agranulocytosis risk limits use.
 
-**To proceed (Migraine), the following is needed:**
-
-- **Obtain package insert / prescribing information** (DG001): Download and parse TFDA or originator PDF to complete the safety assessment
-- **Retrieve DrugBank MOA data** (DG002): Complete API query for DB04817 to confirm full mechanism and receptor targets
-- **Agranulocytosis risk management plan**: Define CBC monitoring schedule, patient eligibility criteria, and contraindications (e.g., known blood dyscrasias, concurrent myelosuppressive therapy)
-- **India regulatory pathway assessment**: Evaluate CDSCO requirements for a drug currently not marketed in India, including whether prior approval in reference jurisdictions (Germany, Brazil) supports an expedited pathway
-- **Comparative effectiveness positioning**: Benchmark against available alternatives in India (paracetamol, ibuprofen, naproxen, triptans) to define the clinical niche where metamizole's benefit-risk is most favourable
-- **Formulation strategy**: Determine whether IV (emergency/hospital use) or oral (outpatient/OTC) development is the priority for the India market
+**To proceed, the following is needed:**
+- Package insert warnings and contraindications from the Indian regulator, including approved indications (a blocking gap for safety screening)
+- Mechanism of action data
+- For migraine, a focused evidence review of randomized trials, followed by a benefit-risk assessment that accounts for agranulocytosis
+- For rheumatoid arthritis, direct efficacy evidence before any further consideration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

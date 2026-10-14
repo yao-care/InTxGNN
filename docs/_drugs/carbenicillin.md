@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Carbenicillin
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 143
-evidence_level: L5
+evidence_level: L3
 indication_count: 7
 ---
 
 # Carbenicillin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L3** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,37 +29,42 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Carbenicillin: From Gram-Negative Bacterial Infections to Ureaplasma Urethritis
+# Carbenicillin: From Urinary Tract Infection to Gonococcal Urethritis
 
 ## One-Sentence Summary
 
-Carbenicillin is a broad-spectrum, extended-spectrum penicillin (β-lactam class) antibiotic historically used against gram-negative bacterial infections, including *Pseudomonas aeruginosa* and urinary tract pathogens.
-The TxGNN model predicts it may be effective for **Ureaplasma Urethritis**;
-however, **0 clinical trials** and **0 publications** support this direction, and the prediction is mechanistically implausible — *Ureaplasma* completely lacks a cell wall, making it intrinsically resistant to all β-lactam antibiotics.
+Carbenicillin is an extended-spectrum penicillin, originally used to treat urinary tract infection and prostatitis.
+The TxGNN model predicts it may be effective for **gonococcal urethritis** (the most evidence-supported of its predictions), but there are **no registered clinical trials** and only **4 publications**, mostly from the 1970s, behind this direction.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Gram-negative bacterial infections (historical; no India regulatory records found) |
-| Predicted New Indication | Ureaplasma Urethritis |
+|------|------|
+| Original Indication | Urinary tract infection; prostatitis (the approved indication text on the Indian licences is blank, so this comes from the knowledge graph) |
+| Predicted New Indication | Gonococcal urethritis (the top-ranked prediction, Ureaplasma urethritis, was set aside because it is not mechanistically supported; see below) |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
+| Evidence Level | L3 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
+| Recommended Decision | Hold (treat as a research question only) |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacology, Carbenicillin is a broad-spectrum extended-spectrum penicillin that inhibits bacterial cell wall synthesis by binding to Penicillin-Binding Proteins (PBPs) — particularly PBP2 — disrupting peptidoglycan cross-linking and leading to osmotic lysis. Historically, it demonstrated activity against *Pseudomonas aeruginosa*, *Escherichia coli*, *Proteus* species, and other aerobic gram-negative organisms.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, carbenicillin is a beta-lactam penicillin. It inhibits penicillin-binding proteins and blocks bacterial cell wall synthesis. It is active against many Gram-negative organisms, including *Pseudomonas* and *Proteus*, which explains its use in urinary tract infections.
 
-**This prediction is, however, mechanistically untenable.** *Ureaplasma urealyticum* belongs to the class Mollicutes and completely lacks a cell wall — there is no peptidoglycan layer and no PBPs present. This constitutes absolute, intrinsic resistance to every β-lactam antibiotic, including Carbenicillin. No dose optimization or formulation change can overcome this biological structural reality; the drug's target simply does not exist in this pathogen.
+Urinary tract infection and gonococcal urethritis are both infections of the lower urogenital tract, and *Neisseria gonorrhoeae* is a cell-wall-containing bacterium that penicillins can plausibly target. Two 1970s clinical reports (carbenicillin and carbenicillin indanyl sodium in gonorrhoea) suggest historical activity.
 
-The high TxGNN score (99.98%) most likely reflects disease-node similarity within the knowledge graph: both Ureaplasma urethritis and Carbenicillin's established indications cluster within the "urogenital infection" disease space. This is a graph topology artifact — a proximity signal — rather than a genuine antibacterial activity prediction. This result should be treated as a **false positive** and does not warrant clinical development.
+This link has serious limits today. Penicillin resistance in *N. gonorrhoeae* is widespread, and current guidelines use ceftriaxone. The old reports were small and uncontrolled and have not been checked against modern standards.
+
+**Other predictions reviewed (all rated Hold):**
+- **Ureaplasma urethritis (rank 1):** *Ureaplasma* has no cell wall, so beta-lactams are expected to be ineffective. The high score is probably a network artifact.
+- **Urogenital tuberculosis:** *M. tuberculosis* is intrinsically resistant to most penicillins, so the prediction is not mechanistically supported.
+- **Uterine inflammatory disease, xanthogranulomatous pyelonephritis, epiglottitis:** Coverage is plausible in principle, but there is no supporting evidence.
+- **Laryngitis:** Only indirect literature exists (topical antibiotics for post-laryngectomy wound infection; necrotizing otitis externa). Laryngitis is mostly viral.
 
 ---
 
@@ -71,34 +76,33 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [4638000](https://pubmed.ncbi.nlm.nih.gov/4638000/) | 1972 | Clinical study | Health Services Reports | Carbenicillin in the treatment of gonorrhoea in males (no abstract available) |
+| [4841541](https://pubmed.ncbi.nlm.nih.gov/4841541/) | 1974 | Clinical study | Singapore Medical Journal | Carbenicillin indanyl sodium in the treatment of gonorrhoea (no abstract available) |
+| [6224627](https://pubmed.ncbi.nlm.nih.gov/6224627/) | 1982 | Review | Clinical Pharmacy | Comparison of mezlocillin and piperacillin; indirect relevance only |
+| [12002087](https://pubmed.ncbi.nlm.nih.gov/12002087/) | 2001 | Susceptibility survey | East African Medical Journal | Antimicrobial susceptibility of *N. gonorrhoeae* in Gondar, Ethiopia |
+
+---
+
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 50906 | CARBELIN 5GM INJECTION (Lyka Labs) | Vial of 1 injection | Not stated |
+| 42088 | CARBELIN 1GM INJECTION (Lyka Labs) | Vial of 1 injection | Not stated |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions** — 18 interactions identified (DDInter database):
+- **Contraindications flagged by the knowledge graph (not label text):** kidney disease, pyoureter, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, infectious mononucleosis, chronic Epstein-Barr virus infection syndrome.
+- **Drug Interactions:** 18 interactions were found.
+  - **Major:** methotrexate.
+  - **Moderate:** warfarin, dicoumarol, tetracyclines (doxycycline, tetracycline, minocycline, demeclocycline, oxytetracycline), chloramphenicol, ethinylestradiol, mycophenolic acid, pemetrexed, balsalazide, picosulfuric acid, iodide I-131 and I-123.
+  - **Minor:** clarithromycin, erythromycin.
 
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Methotrexate | **Major** | Penicillins compete with methotrexate for renal tubular secretion, potentially causing methotrexate toxicity (myelosuppression, mucositis) |
-| Warfarin | Moderate | Broad-spectrum antibiotics alter gut flora, reducing Vitamin K synthesis and potentially enhancing anticoagulant effect |
-| Dicoumarol | Moderate | Same mechanism as Warfarin interaction |
-| Pemetrexed | Moderate | Reduced renal clearance may increase Pemetrexed plasma exposure |
-| Mycophenolic acid | Moderate | Antibiotics may disrupt enterohepatic recirculation, reducing immunosuppressant efficacy |
-| Ethinylestradiol | Moderate | Broad-spectrum antibiotics may reduce oral contraceptive efficacy via gut flora disruption |
-| Doxycycline | Moderate | Bacteriostatic tetracyclines may antagonize the bactericidal activity of penicillins |
-| Tetracycline | Moderate | Bacteriostatic antagonism |
-| Minocycline | Moderate | Bacteriostatic antagonism |
-| Demeclocycline | Moderate | Bacteriostatic antagonism |
-| Oxytetracycline | Moderate | Bacteriostatic antagonism |
-| Chloramphenicol | Moderate | Bacteriostatic antagonism of penicillin activity |
-| Balsalazide | Moderate | Antibiotic-mediated gut flora changes may alter balsalazide conversion |
-| Picosulfuric acid | Moderate | Antibiotics may interfere with bowel preparation activation |
-| Iodide I-131 | Moderate | Antibiotic-class interaction |
-| Iodide I-123 | Moderate | Antibiotic-class interaction |
-| Clarithromycin | Minor | Possible pharmacodynamic interaction |
-| Erythromycin | Minor | Possible pharmacodynamic interaction |
+Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
 ---
 
@@ -107,17 +111,14 @@ Currently no related literature available.
 **Decision: Hold**
 
 **Rationale:**
-*Ureaplasma urealyticum* is a naturally cell-wall-deficient organism for which all β-lactam antibiotics are fundamentally inactive by mechanism. The TxGNN score of 99.98% reflects urogenital disease-node clustering in the knowledge graph rather than any real biological activity, and there is zero supporting clinical or preclinical evidence. Pursuing this indication would be scientifically unsound.
-
-**Note on Other Predicted Indications:**
-Across the full set of 7 TxGNN predictions for Carbenicillin, the only indication with meaningful clinical evidence is **Gonococcal Urethritis (Rank 2, L3)** — 4 historical publications (1972–2001) directly document Carbenicillin's use against *Neisseria gonorrhoeae* via PBP2 inhibition. However, this also faces major barriers: modern *N. gonorrhoeae* is predominantly penicillin-resistant (PPNG strains), WHO no longer recommends penicillin-class antibiotics for gonorrhea, and Carbenicillin has been withdrawn from most markets. The remaining 5 predicted indications (uterine inflammatory disease, xanthogranulomatous pyelonephritis, urogenital tuberculosis, epiglottitis, laryngitis) are all rated L4–L5 with Hold recommendations, ranging from incomplete coverage to mechanistic impossibility (TB).
+Gonococcal urethritis has the best support of the predicted indications, but that support is two small 1970s reports with no registered trials. Widespread penicillin resistance and the current use of ceftriaxone make a modern role unlikely. The other predictions have no evidence, and two (Ureaplasma urethritis and urogenital tuberculosis) contradict known mechanisms.
 
 **To proceed, the following is needed:**
-- Mechanistic justification review: confirm whether any predicted indication has a valid β-lactam–sensitive pathogen as primary etiology
-- For gonococcal urethritis specifically: obtain current PPNG prevalence data in the target population to assess residual susceptibility
-- Obtain the TFDA/CDSCO package insert (or equivalent historical labeling) to fill the Blocking data gap on warnings and contraindications before any safety evaluation
-- Regulatory pathway assessment for a drug that has been withdrawn from most major markets
-- Evaluate whether updated formulations (e.g., oral Carbenicillin indanyl sodium) could be sourced or reformulated if any indication proceeds
+- Package insert warnings and contraindications from the Indian regulator (currently blocking safety screening)
+- Mechanism of action data from DrugBank
+- Current *N. gonorrhoeae* resistance data for penicillins, including carbenicillin, in India
+- Full-text review of the two 1970s gonorrhoea studies to judge cure rates and study quality
+- A comparison with current standard-of-care regimens before any further development
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Nitrazepam
 parent: Moderate Evidence (L3-L4)
-nav_order: 594
+nav_order: 599
 evidence_level: L3
 indication_count: 3
 ---
@@ -29,97 +29,83 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-# Nitrazepam: From Insomnia/Sedation to Sleep Disorder, Initiating and Maintaining Sleep
+# Nitrazepam: From Insomnia to Sleep Disorder (Initiating and Maintaining Sleep)
 
 ## One-Sentence Summary
 
-Nitrazepam is a long-acting benzodiazepine with a well-established clinical history as a hypnotic agent, used historically for insomnia and seizure disorders. The TxGNN model predicts it may be effective for **Sleep Disorder, Initiating and Maintaining Sleep**, with **0 registered clinical trials** and **20 publications** currently supporting this direction. While this prediction aligns closely with the drug's known pharmacological profile, no regulatory registration exists in India, warranting a cautious approach before any formal repurposing programme is pursued.
-
----
+Nitrazepam is a benzodiazepine originally used to treat insomnia and early myoclonic encephalopathy.
+The TxGNN model predicts it may be effective for **sleep disorder, initiating and maintaining sleep**, but this is essentially the same condition as its existing insomnia use, so it is not a true repurposing candidate.
+Currently **no clinical trials** are registered, and **20 publications** (mostly reviews and comparative or observational reports) are available.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No approved indications on record (historical clinical use: insomnia, epilepsy/infantile spasms) |
-| Predicted New Indication | Sleep Disorder, Initiating and Maintaining Sleep |
+|------|------|
+| Original Indication | Insomnia; early myoclonic encephalopathy (the India license records contain no approved indication text) |
+| Predicted New Indication | Sleep disorder, initiating and maintaining sleep |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge of the benzodiazepine class, nitrazepam enhances GABA-A receptor-mediated inhibitory neurotransmission, producing sedative-hypnotic and anticonvulsant effects.
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Nitrazepam belongs to the **benzodiazepine class** and acts as a positive allosteric modulator of GABA-A receptors, enhancing inhibitory neurotransmission in the central nervous system. This sedative-hypnotic mechanism is the foundation of its longstanding clinical use for difficulty initiating and maintaining sleep. The brand name Mogadon has been in clinical use since the 1960s, and the drug has been directly compared to newer hypnotics (triazolam, zolpidem, brotizolam, zopiclone) in controlled trials.
+The predicted indication, difficulty initiating and maintaining sleep, is essentially the same as the already-recognised insomnia use. The model's high score therefore mainly reflects a known indication rather than a new therapeutic direction.
 
-The relationship between the drug's historical use and the predicted indication is essentially confirmatory: sleep disorder (initiating and maintaining sleep) is the core indication for which benzodiazepine hypnotics like nitrazepam were developed. The TxGNN model's high confidence score (99.89%) reflects this strong pharmacological alignment. In this context, the "repurposing" framing is more accurately understood as a **reassessment of evidence base** — the question for India is whether sufficient structured evidence exists to support a new market entry application.
-
-The primary concern is not mechanistic plausibility (which is well-established), but rather the drug's safety profile, dependency liability, and whether it offers a favourable risk-benefit ratio relative to newer non-benzodiazepine alternatives (e.g., zolpidem, zopiclone, lemborexant) now available in India.
-
----
+Two other predictions have much weaker support. Acute encephalopathy with biphasic seizures and late reduced diffusion has only a speculative GABAergic anticonvulsant link, and sedation could confound neurological monitoring. Wernicke-Korsakoff syndrome is caused by thiamine deficiency. Benzodiazepines only manage alcohol withdrawal in these patients, may worsen cognitive impairment, and have no clear disease-modifying rationale. Neither has any clinical trials or literature.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [4892037](https://pubmed.ncbi.nlm.nih.gov/4892037/) | 1969 | Clinical Trial | British Medical Journal | Double-blind trial in general medical wards established nitrazepam was as effective as butobarbitone as a hypnotic; 27 overdose patients showed no serious adverse effects beyond drowsiness |
-| [6135296](https://pubmed.ncbi.nlm.nih.gov/6135296/) | 1983 | RCT | Acta Psychiatrica Scandinavica | Double-blind cross-over study in 26 geriatric inpatients; nitrazepam 5 mg vs. triazolam 0.25 mg showed similar sleep quantity, quality, and psychomotor performance |
-| [7037262](https://pubmed.ncbi.nlm.nih.gov/7037262/) | 1981 | PK Study | Clinical Pharmacokinetics | Comprehensive review of nitrazepam pharmacokinetics including absorption, distribution, metabolism, and elimination relevant to hypnotic dosing |
-| [4712500](https://pubmed.ncbi.nlm.nih.gov/4712500/) | 1973 | Clinical Study | British Medical Journal | Early characterisation of nitrazepam's effects on sleep and subconscious processing |
-| [1125532](https://pubmed.ncbi.nlm.nih.gov/1125532/) | 1975 | Case Report | British Journal of Psychiatry | Documents nitrazepam (Mogadon) dependence, highlighting the risk of long-term use |
-| [238826](https://pubmed.ncbi.nlm.nih.gov/238826/) | 1975 | Review | Drugs | Reviews hypnotic drug effectiveness against the background of REM/NREM sleep physiology; nitrazepam contextualised among benzodiazepine hypnotics |
-| [3281819](https://pubmed.ncbi.nlm.nih.gov/3281819/) | 1988 | Review | Drugs | Brotizolam compared to nitrazepam 2.5–5 mg in clinical trials; both showed equivalent improvement in insomnia |
-| [10804040](https://pubmed.ncbi.nlm.nih.gov/10804040/) | 2000 | Review | Drugs | Zolpidem efficacy in insomnia found generally comparable to nitrazepam; supports nitrazepam's benchmark status in hypnotic trials |
-| [15089115](https://pubmed.ncbi.nlm.nih.gov/15089115/) | 2004 | Review | CNS Drugs | Nitrazepam cited as a long-acting hypnotic with significant residual daytime sedation and accident risk; implications for prescribing in elderly |
-| [39231170](https://pubmed.ncbi.nlm.nih.gov/39231170/) | 2024 | Observational | PLoS ONE | Inappropriate prescribing patterns for benzodiazepines in primary care; dependency, tolerance, and cognitive decline risks highlighted, especially in older adults |
-
----
+|------|-----|------|------|---------|
+| [4892037](https://pubmed.ncbi.nlm.nih.gov/4892037/) | 1969 | Clinical observation (includes double-blind trial) | British Medical Journal | Nitrazepam was as effective as butobarbitone as a hypnotic; no untoward effects beyond drowsiness in 27 acute overdoses (up to 80 tablets) |
+| [1743245](https://pubmed.ncbi.nlm.nih.gov/1743245/) | 1991 | Double-blind crossover study | Eur J Clin Pharmacol | In 28 insomnia patients, nitrazepam 5 mg/day and oxazepam 25 mg/day both improved sleep induction and quality versus placebo |
+| [15252823](https://pubmed.ncbi.nlm.nih.gov/15252823/) | 2004 | Systematic review / meta-analysis | Hum Psychopharmacol | Compared Z-drugs with benzodiazepines (including nitrazepam) for short-term insomnia management |
+| [10804040](https://pubmed.ncbi.nlm.nih.gov/10804040/) | 2000 | Review | Drugs | Zolpidem's hypnotic efficacy was generally comparable to nitrazepam and other benzodiazepines |
+| [3281819](https://pubmed.ncbi.nlm.nih.gov/3281819/) | 1988 | Review | Drugs | Brotizolam improved sleep similarly to nitrazepam 2.5 and 5 mg |
+| [7037262](https://pubmed.ncbi.nlm.nih.gov/7037262/) | 1981 | Review | Clin Pharmacokinet | Clinical pharmacokinetics of nitrazepam |
+| [1125532](https://pubmed.ncbi.nlm.nih.gov/1125532/) | 1975 | Clinical report | Br J Psychiatry | Nitrazepam (Mogadon) dependence |
+| [15089115](https://pubmed.ncbi.nlm.nih.gov/15089115/) | 2004 | Review | CNS Drugs | Residual "hangover" effects of hypnotics, including daytime sleepiness and psychomotor impairment |
+| [20171127](https://pubmed.ncbi.nlm.nih.gov/20171127/) | 2010 | Review | Sleep Med Rev | Hypnotics impair body balance and standing steadiness, with falls and hip fractures reported |
+| [19450355](https://pubmed.ncbi.nlm.nih.gov/19450355/) | 2007 | Review | BMJ Clin Evid | Insomnia in the elderly: prevalence rises with age |
 
 ## India Market Information
 
-No regulatory authorisations for Nitrazepam have been identified in India. The drug is currently **not marketed**.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 160586 | Nigap 5mg Tablet | Strip of 10 tablets | Not stated |
+| 202518 | Sopor 10mg Tablet | Strip of 10 tablets | Not stated |
+| 150815 | Nitrosun 5mg Tablet | Strip of 10 tablets | Not stated |
+| 64806 | Dormin 5mg Capsule | Strip of 10 capsules | Not stated |
+| 156791 | Nitraz 5mg Tablet SR | Strip of 10 tablet SR | Not stated |
 
----
+All 20 registrations are valid single-ingredient products, and none has been cancelled.
 
 ## Safety Considerations
 
-**Drug Interactions:** A total of **55 drug interactions** have been identified via the DDInter database. All interactions are currently classified as **"Unknown" severity**, meaning the clinical significance has not been formally graded. Representative interacting drugs include:
+Drug-interaction screening identified 55 potential interacting drugs. The interaction severity level is not classified for any of them. Examples include morphine, bupropion, metoclopramide, metformin, dexamethasone and omeprazole.
 
-- CNS/opioid agents: Morphine, Bupropion
-- Gastrointestinal agents: Lansoprazole, Pantoprazole, Omeprazole, Famotidine, Nizatidine, Sucralfate, Loperamide, Metoclopramide, Lactulose, Metronidazole
-- Corticosteroids: Hydrocortisone, Dexamethasone, Budesonide
-- Other: Calcitriol, Metformin, Acetylsalicylic acid, Kanamycin, Vancomycin
-
-Given the drug's class (benzodiazepine), clinically relevant interactions are expected with other CNS depressants, alcohol, CYP3A4 inhibitors/inducers, and opioids. Formal severity grading from a validated interaction database (e.g., Lexicomp, Micromedex) should be obtained before any clinical deployment.
-
-Please refer to the package insert for full safety information once a regulatory dossier or international product monograph is sourced.
-
----
+Literature on the class highlights residual daytime impairment, impaired balance with fall and fracture risk, and dependence with long-term benzodiazepine use. Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction is pharmacologically well-grounded — nitrazepam's hypnotic properties are documented in published comparative trials spanning over five decades. However, the drug is not registered in India, CDSCO package insert data is absent, and formal MOA documentation is missing from this pack. Importantly, modern clinical practice has largely shifted toward non-benzodiazepine hypnotics (Z-drugs, orexin antagonists) due to nitrazepam's dependency risk and residual sedation profile; any repurposing or market entry plan must address this competitive and safety context explicitly.
+The top prediction duplicates nitrazepam's existing insomnia use, so it is not a true repurposing opportunity. The other two predictions (acute encephalopathy with biphasic seizures, Wernicke-Korsakoff syndrome) have no clinical or literature support and only speculative mechanistic links. Package insert safety information is also missing.
 
 **To proceed, the following is needed:**
-
-- **CDSCO / package insert data**: Obtain official warnings, contraindications, and approved indication text from the Indian regulatory dossier or an international reference label (e.g., UK SPC, TGA PI)
-- **Formal MOA documentation**: Retrieve from DrugBank API to complete mechanistic analysis
-- **DDI severity grading**: Re-query 55 interactions against a graded database (Lexicomp or Micromedex) to identify any major/contraindicated combinations
-- **Comparative safety review**: Structured benefit-risk comparison of nitrazepam vs. current standard-of-care hypnotics in India (e.g., zolpidem, zopiclone) regarding dependency, residual sedation, and fall risk in elderly
-- **Regulatory pathway assessment**: Determine whether a New Drug Application (NDA) or abbreviated pathway applies for a drug with established global pharmacology but no current Indian registration
-- **Elderly population risk assessment**: Given the evidence on residual effects and fall risk (PMID 15089115) and inappropriate prescribing (PMID 39231170), a targeted risk mitigation strategy for geriatric use is essential
+- Package insert warnings and contraindications from the India regulatory source, needed before safety screening
+- Detailed mechanism of action data (for example from DrugBank)
+- Clarification of whether any genuinely new indication, distinct from insomnia, is worth pursuing
+- Severity grading of the 55 identified drug interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

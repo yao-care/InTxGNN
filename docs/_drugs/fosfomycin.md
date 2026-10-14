@@ -2,15 +2,15 @@
 layout: default
 title: Fosfomycin
 parent: High Evidence (L1-L2)
-nav_order: 376
-evidence_level: L2
+nav_order: 380
+evidence_level: L1
 indication_count: 10
 ---
 
 # Fosfomycin
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,103 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Fosfomycin: From Urinary Tract Infection to Gonococcal Urethritis
+# Fosfomycin: From Urinary Tract Infection to Pyelitis
 
 ## One-Sentence Summary
 
-Fosfomycin is a long-established antibacterial agent whose principal use is the treatment of urinary tract infections (cystitis, complicated UTI, pyelonephritis) via inhibition of an early step in bacterial cell wall synthesis. The TxGNN model predicts it may also be effective for **Gonococcal Urethritis** (Neisseria gonorrhoeae infection), a prediction that is currently supported by **0 registered clinical trials** and **6 publications**, including one randomized controlled trial.
-
----
+Fosfomycin is an antibiotic originally used to treat urinary tract infection.
+The TxGNN model predicts it may be effective for **Pyelitis** (infection of the renal pelvis), with **19 publications** currently supporting this direction, including a Phase 2/3 randomized trial of intravenous fosfomycin in complicated urinary tract infection and acute pyelonephritis. No clinical trials are registered for this indication. Pyelitis sits very close to the original indication, so this is an extension within the urinary tract rather than a true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Urinary tract infection / cystitis (established antibacterial use; not derived from an India regulatory license — see note below) |
-| Predicted New Indication | Gonococcal Urethritis |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L2 |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Research Question |
+| Original Indication | Urinary tract infection |
+| Predicted New Indication | Pyelitis |
+| TxGNN Prediction Score | 99.37% |
+| Evidence Level | L1 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Proceed with Guardrails |
 
-> **Note on Original Indication**: Fosfomycin has no current India (CDSCO) marketing license in this Evidence Pack (`market_status: Not marketed`, 0 licenses), so the original indication above is drawn from the drug's globally established antibacterial use referenced in the supporting literature (e.g., PMID 23958364, PMID 30861061), not from a local regulatory record.
-
----
+The data compiled for this report also list nine other predicted indications. None of them has evidence comparable to pyelitis. The most notable is gonococcal urethritis, which has a randomized trial and older clinical series; it is summarised at the end of this report.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data from DrugBank is not available in this Evidence Pack (flagged as data gap DG002). Based on information embedded in the supporting literature, fosfomycin is described as "an epoxide antibiotic with a differentiated mechanism of action inhibiting an early step in bacterial cell wall synthesis" (PMID 30861061), consistent with its known action as an inhibitor of the bacterial enzyme MurA, blocking peptidoglycan synthesis.
+Detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology knowledge, fosfomycin inhibits MurA (UDP-N-acetylglucosamine enolpyruvyl transferase), which blocks the first step of bacterial peptidoglycan synthesis. This is bactericidal against many Gram-negative uropathogens, including *E. coli* and many ESBL producers.
 
-Fosfomycin's original and best-established use is in urinary tract infections, where it achieves high, sustained concentrations in urine and urogenital mucosal secretions after systemic or intramuscular administration. Gonococcal urethritis is anatomically and physiologically related — it is a urethral/mucosal infection reachable by the same route of drug concentration. In vitro, fosfomycin has demonstrated bactericidal activity against *Neisseria gonorrhoeae*, and this was clinically exploited historically (intramuscular fosfomycin regimens in the 1970s) and revisited more recently with oral fosfomycin trometamol.
-
-That said, gonorrhea treatment today is governed by antimicrobial resistance surveillance and current guidelines generally favor other first-line agents (e.g., ceftriaxone-based regimens); fosfomycin's role would need to be positioned as an alternative/salvage option rather than a first-line replacement, and resistance monitoring would be essential before any repositioning claim.
-
----
+Pyelitis is infection of the renal pelvis, in the same spectrum as complicated UTI and acute pyelonephritis. Fosfomycin reaches high urinary concentrations, which is consistent with its established UTI use. The ZEUS trial (Phase 2/3) compared intravenous fosfomycin (ZTI-01) with piperacillin-tazobactam in complicated UTI, including acute pyelonephritis. Murine pyelonephritis data also show activity of oral fosfomycin against resistant *E. coli* strains.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials are registered for pyelitis.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [27064136](https://pubmed.ncbi.nlm.nih.gov/27064136/) | 2016 | RCT | Clin Microbiol Infect | Open randomized controlled trial in 126 men with uncomplicated gonococcal urethritis; fosfomycin trometamol 3g given on days 1, 3, 5 evaluated for efficacy |
-| [832528](https://pubmed.ncbi.nlm.nih.gov/832528/) | 1977 | Cohort | Chemotherapy | 70 patients with acute/subacute gonococcal urethritis treated with intramuscular fosfomycin; bacteriological/clinical cure rates of 86–92% depending on dosing regimen |
-| [832523](https://pubmed.ncbi.nlm.nih.gov/832523/) | 1977 | Cohort | Chemotherapy | Multicenter Spanish study of 959 patients treated for various infections including gonococcal urethritis, evaluating fosfomycin's broad-spectrum activity |
-| [35820778](https://pubmed.ncbi.nlm.nih.gov/35820778/) | 2023 | Cohort | Sex Transm Infect | Secondary analysis of the NABOGO trial assessing spontaneous clearance of asymptomatic anogenital/pharyngeal N. gonorrhoeae and its determinants |
-| [19593988](https://pubmed.ncbi.nlm.nih.gov/19593988/) | 2009 | Review | Natl J Androl | Review of diagnosis and treatment approaches for genitourinary infection with non-gonococcal Neisseria in men |
-| [17878816](https://pubmed.ncbi.nlm.nih.gov/17878816/) | 2007 | Case Report | J Fr Ophtalmol | Case of gonococcal conjunctivitis with corneal perforation from a penicillin/tetracycline/fluoroquinolone-resistant N. gonorrhoeae strain, resolved with 15 days of high-dose parenteral antibiotic therapy |
+| [30861061](https://pubmed.ncbi.nlm.nih.gov/30861061/) | 2019 | RCT (Phase 2/3) | Clin Infect Dis | ZEUS trial: IV fosfomycin (ZTI-01) vs piperacillin-tazobactam in complicated UTI, including acute pyelonephritis |
+| [39817442](https://pubmed.ncbi.nlm.nih.gov/39817442/) | 2025 | Systematic review / network meta-analysis | J Comp Eff Res | Efficacy of treatment options for complicated UTI, including acute pyelonephritis |
+| [41711122](https://pubmed.ncbi.nlm.nih.gov/41711122/) | 2026 | Clinical review | Ann Pharmacother | Place in therapy of IV fosfomycin (Contepo) for the newly FDA-approved complicated UTI indication |
+| [32303061](https://pubmed.ncbi.nlm.nih.gov/32303061/) | 2020 | Retrospective review | J Antimicrob Chemother | One-year outcomes of oral fosfomycin for pyelonephritis and complicated UTI in a large municipal healthcare system |
+| [31608743](https://pubmed.ncbi.nlm.nih.gov/31608743/) | 2020 | Review | Postgrad Med | UTI treatment in the era of antimicrobial resistance and new agents |
+| [31160291](https://pubmed.ncbi.nlm.nih.gov/31160291/) | 2019 | Animal study | Antimicrob Agents Chemother | Unexpected activity of oral fosfomycin against resistant *E. coli* in murine pyelonephritis |
+| [35141335](https://pubmed.ncbi.nlm.nih.gov/35141335/) | 2022 | Animal study | Biomed Res Int | Therapeutic effect of fosfomycin in acute pyelonephritis mice infected with ESBL-producing uropathogenic *E. coli* |
+| [30854892](https://pubmed.ncbi.nlm.nih.gov/30854892/) | 2019 | Review | Future Microbiol | Microbiology, clinical pharmacology and early clinical experience of ZTI-01 in complicated UTI |
+| [23958364](https://pubmed.ncbi.nlm.nih.gov/23958364/) | 2013 | Review | Primary Care | UTI overview; fosfomycin listed among first-line options for uncomplicated cystitis |
+| [36031053](https://pubmed.ncbi.nlm.nih.gov/36031053/) | 2023 | Review | Clin Microbiol Infect | UTI in pregnancy |
 
----
+## India Market Information
+
+Fosfomycin has 20 valid single-ingredient registrations and none cancelled. Approved indication text is not available for these registrations. The five listed below are examples across oral and injectable forms.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 84854 | Fosforal 3gm Granules (Macleods) | Sachet of 8 gm granules | Not available |
+| Registration No. 133747 | Myfos Powder (Sun Pharmaceutical) | Sachet of 8 gm powder | Not available |
+| Registration No. 86272 | Fosvaith 4g Injection (Advaith Life Sciences) | Vial of injection | Not available |
+| Registration No. 92067 | Fosfowok 4gm Injection (Wockhardt) | Vial of injection | Not available |
+| Registration No. 35372 | Crifos 4gm Injection (Cipla) | Vial of 1 ml injection | Not available |
+
+Both oral (granules/powder sachets) and injectable forms are marketed.
 
 ## Safety Considerations
 
-**Drug Interactions**: 3 documented interactions —
-- Balsalazide — Moderate (source: DDInter)
-- Picosulfuric acid — Moderate (source: DDInter)
-- Metoclopramide — Minor (source: DDInter)
+- **Contraindications (knowledge-graph associations, not label text)**: kidney disease, pyoureter, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis.
+- **Drug Interactions** (3 found):
+  - Balsalazide: Moderate
+  - Picosulfuric acid: Moderate
+  - Metoclopramide: Minor
 
-Detailed package insert warnings and contraindications are not currently available in this Evidence Pack (flagged as blocking data gap DG001 — India/CDSCO label data pending); please refer to the official package insert for full safety information once available.
-
----
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Research Question**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-Evidence is limited to L2 (one RCT plus older cohort data from the 1970s, with no currently registered clinical trials); the drug is also not currently marketed in India, and current gonorrhea treatment guidelines favor other first-line agents amid resistance concerns, so this remains a research question rather than an actionable repositioning candidate.
+Pyelitis is anatomically and microbiologically close to fosfomycin's established UTI use. A Phase 2/3 randomized trial of IV fosfomycin (ZEUS) in complicated UTI and acute pyelonephritis supports the direction. The evidence is for the broader complicated UTI/pyelonephritis population, not pyelitis specifically, and no trial is registered for pyelitis itself.
 
 **To proceed, the following is needed:**
-- Official package insert / label warnings and contraindications for fosfomycin (Blocking gap, DG001) — required before any S1 safety screening can proceed
-- DrugBank mechanism-of-action data (High priority gap, DG002) to properly assess mechanistic plausibility
-- Current antimicrobial resistance data for *N. gonorrhoeae* against fosfomycin in the relevant population
-- Assessment of regulatory pathway given fosfomycin's current unmarketed status in India
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Confirmation of approved indication text for the Indian registrations, particularly whether pyelonephritis or complicated UTI is covered
+- Renal function guidance, since kidney disease appears as a contraindication association
+- Clarification of which route (oral vs intravenous) is appropriate for upper urinary tract infection
+
+## Other Predicted Indications (Brief)
+
+| Predicted Indication | Evidence Level | Decision | Comment |
+|------|------|------|------|
+| Gonococcal urethritis | L2 | Research question | A 2016 open randomized trial of fosfomycin trometamol in 152 men (126 completed) and a 1977 series with 86-92% cure rates. Worth a dedicated evaluation, but resistance patterns and current guidelines need review. |
+| Uterine inflammatory disease | L4 | Hold | Only general pediatric PK platform trials and an unrelated cystitis paper. |
+| Laryngitis | L4 | Hold | Weak indirect respiratory use; mostly viral and self-limiting. |
+| Ureaplasma urethritis | L5 | Hold | Ureaplasma lacks a cell wall, so the mechanism is implausible. |
+| Xanthogranulomatous pyelonephritis | L5 | Hold | No clinical evidence; usually managed surgically. |
+| Epiglottitis | L5 | Hold | Not a recognized fosfomycin setting; no evidence. |
+| Urogenital tuberculosis | L5 | Hold | Limited mycobacterial susceptibility; retrieved papers show no fosfomycin effect. |
+| Polyclonal hyperviscosity syndrome | L5 | Hold | Not an infection; likely a knowledge-graph artifact. |
+| Hyperamylasemia | L5 | Hold | A laboratory finding; likely a graph artifact. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

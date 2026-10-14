@@ -2,15 +2,15 @@
 layout: default
 title: Iron
 parent: Moderate Evidence (L3-L4)
-nav_order: 443
-evidence_level: L3
+nav_order: 447
+evidence_level: L4
 indication_count: 6
 ---
 
 # Iron
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **6** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,102 +33,100 @@ Evidence Level: **L3** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Iron is an essential mineral with a well-established role in treating iron deficiency anemia.
-The TxGNN model's most clinically actionable prediction is that iron supplementation may be effective for **Plummer-Vinson Syndrome** — a rare triad of dysphagia, iron deficiency anemia, and esophageal webs,
-with **0 registered clinical trials** but **19 supporting publications** in the literature.
-
-> **Note on Top-Ranked Prediction:** The rank #1 TxGNN output (vitamin B12- and folate-independent constitutional megaloblastic anemia, score 99.89%) has been flagged as a likely **false positive**. Megaloblastic anemia is caused by impaired DNA synthesis from B12/folate metabolic defects — mechanistically unrelated to iron deficiency. The high score likely reflects graph-level proximity between "anemia" nodes in the knowledge graph. This report therefore focuses on **rank #2 — Plummer-Vinson Syndrome** — the highest-evidenced, mechanistically coherent, and actionable prediction.
-
----
+Iron is an essential mineral originally used to treat iron deficiency and related anemias.
+The TxGNN model predicts it may be useful for **Plummer-Vinson syndrome**, a rare condition in which iron deficiency anemia occurs together with dysphagia and esophageal webs.
+Support comes from **about 19 publications** (mostly reviews, case reports and retrospective series) and **no registered clinical trials**.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Iron deficiency anemia |
-| Predicted New Indication | Plummer-Vinson Syndrome (TxGNN Rank #2) |
+|------|------|
+| Original Indication | Iron deficiency anemia and related anemias (folic acid deficiency anemia, anemia of prematurity, hypochromic anemia, deficiency anemia, microcytic anemia). The India licence records contain no approved indication text. |
+| Predicted New Indication | Plummer-Vinson syndrome (the highest-scoring prediction, vitamin B12- and folate-independent constitutional megaloblastic anemia, has no supporting evidence and is not assessed here) |
 | TxGNN Prediction Score | 99.89% |
-| Evidence Level | L3 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
----
+Note: the top-ranked prediction by score, vitamin B12- and folate-independent constitutional megaloblastic anemia (99.89%), has no trials or literature (L5, Hold). Plummer-Vinson syndrome is the most credible candidate and is the focus of this report.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on well-established pharmacology, iron supplementation restores systemic iron stores — raising serum ferritin, hemoglobin, and transferrin saturation — and corrects the downstream consequences of iron deficiency across multiple organ systems.
+Currently, detailed mechanism of action data is not available. Based on known information, iron is an essential mineral for haemoglobin synthesis and red cell production. Its efficacy in iron deficiency anemia is established, and it is mechanistically applicable to Plummer-Vinson syndrome.
 
-Plummer-Vinson Syndrome (also called Paterson-Kelly-Brown syndrome) is defined by a classical triad: progressive dysphagia, iron deficiency anemia, and esophageal webs in the post-cricoid region. Iron deficiency is not merely associated with PVS — it is widely accepted as a **direct etiological driver**: depleted iron leads to mucosal atrophy and oxidative damage in the upper esophageal epithelium, triggering fibrous ring formation and web development. Correcting iron deficiency therefore addresses the root cause. In multiple reported cases, iron supplementation resolved anemia, improved dysphagia symptoms, and even led to spontaneous disappearance of esophageal webs.
+Plummer-Vinson syndrome is defined by a triad of iron deficiency anemia, dysphagia and esophageal webs. Iron deficiency is considered the central driver. Case reports and reviews describe dysphagia often improving with iron repletion, sometimes with dilation of the web. The prediction is therefore essentially an extension of the approved iron deficiency anemia use to a syndrome in which that deficiency is the underlying problem.
 
-This makes PVS fundamentally different from a conventional drug repurposing scenario: iron supplementation is a **causal treatment** for an iron-deficiency-driven disease, rather than an off-label use based on mechanistic extrapolation. The main reason it is classified as a "repurposing" candidate is that DrugBank does not formally list PVS as a registered indication for iron — a regulatory gap rather than a scientific one. The declining incidence of PVS in high-income countries (attributed to improved nutritional status) further confirms that correcting iron deficiency is both preventive and curative in this condition.
+The evidence consists of reviews, case reports and retrospective studies, with no prospective trials. Study types were inferred from titles and abstracts and should be checked against the full texts.
 
----
+Other predictions are much weaker. "Vitamin deficiency disorder" (L3) is supported mainly by iron plus multi-nutrient trials and effectively duplicates the approved indication. "Esophageal disease" (L4, Hold) rests on one small pilot trial and mostly preclinical literature. "Non-syndromic esophageal malformation" and "biotin metabolic disease" have no plausible mechanistic link.
 
 ## Clinical Trial Evidence
 
-Currently no clinical trials directly investigating iron supplementation specifically for Plummer-Vinson Syndrome are registered on ClinicalTrials.gov or ICTRP.
+Currently no related clinical trials registered for Plummer-Vinson syndrome.
 
----
+For reference, trials registered under the lower-ranked "vitamin deficiency disorder" prediction (iron-containing, largely duplicating the approved indication):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04137354](https://clinicaltrials.gov/study/NCT04137354) | N/A | Completed | 504 | Intermittent iron and vitamin A in Ethiopian schoolchildren: anemia, iron status and cognition |
+| [NCT05702970](https://clinicaltrials.gov/study/NCT05702970) | Phase 4 | Unknown | 258 | Vitamin D plus oral sucrosomial iron vs IV ferric carboxymaltose in heart failure with iron deficiency |
+| [NCT06148545](https://clinicaltrials.gov/study/NCT06148545) | N/A | Completed | 57 | Iron plus vitamin D on iron status in children with iron deficiency anemia |
+| [NCT01927328](https://clinicaltrials.gov/study/NCT01927328) | Phase 4 | Unknown | 40 | IV iron isomaltoside for anemia in oesophagogastric adenocarcinoma (esophageal disease prediction; small pilot) |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [38871147](https://pubmed.ncbi.nlm.nih.gov/38871147/) | 2024 | Review / Case Series | Clin Gastroenterol Hepatol | Comprehensive review of PVS as a classic triad; iron supplementation is central to management alongside endoscopic dilation |
-| [29089792](https://pubmed.ncbi.nlm.nih.gov/29089792/) | 2017 | Narrative Review | J Blood Medicine | Iron supplementation resolves anemia and often leads to web regression; declining syndrome prevalence linked to improved iron nutrition globally |
-| [31417270](https://pubmed.ncbi.nlm.nih.gov/31417270/) | 2019 | Review | J Multidisciplinary Healthcare | Multidisciplinary approach recommended; iron supplementation first-line; long-term surveillance warranted due to carcinoma risk |
-| [34651287](https://pubmed.ncbi.nlm.nih.gov/34651287/) | 2022 | Case-based Review | Immunologic Research | PVS in a Sjögren syndrome patient; systematic review of PVS-autoimmune associations with shared iron deficiency mechanism |
-| [38034443](https://pubmed.ncbi.nlm.nih.gov/38034443/) | 2023 | Case Report | JPGN Reports | Pediatric PVS in a 4-year-old; iron deficiency confirmed as a crucial causal factor; balloon dilatation plus iron supplementation effective |
-| [26502163](https://pubmed.ncbi.nlm.nih.gov/26502163/) | 2015 | Case Series | J Pediatr Gastroenterol Nutr | PVS in children; iron deficiency consistently present; supplementation recommended as first step before invasive procedures |
-| [12823219](https://pubmed.ncbi.nlm.nih.gov/12823219/) | 2003 | Case Report | Dis Esophagus | Two middle-aged women with PVS; iron supplementation eliminated dysphagia and associated symptoms in both cases |
-| [7575056](https://pubmed.ncbi.nlm.nih.gov/7575056/) | 1995 | Case Report | Arch Intern Med | Iron repletion frequently improves dysphagia; highlights elevated postcricoid carcinoma risk requiring surveillance endoscopy |
-| [7865729](https://pubmed.ncbi.nlm.nih.gov/7865729/) | 1994 | Historical Review | J Gastroenterol Hepatol | Historical analysis identifies iron deficiency as the primary predisposing condition; decreased incidence correlates with nutritional improvement |
-| [39760192](https://pubmed.ncbi.nlm.nih.gov/39760192/) | 2025 | Systematic Review | Oral Diseases | Systematic review of head and neck cancer in PVS patients; underscores importance of treating underlying iron deficiency and conducting oncological surveillance |
-
----
+|------|-----|------|------|---------|
+| [40802140](https://pubmed.ncbi.nlm.nih.gov/40802140/) | 2025 | Retrospective multicenter cohort | Dig Dis Sci | Demographics, imaging and treatment outcomes of PVS across centres; notes potential progression to esophageal squamous cell carcinoma |
+| [39760192](https://pubmed.ncbi.nlm.nih.gov/39760192/) | 2025 | Systematic review | Oral Dis | Head and neck cancer manifestations in PVS patients |
+| [29089792](https://pubmed.ncbi.nlm.nih.gov/29089792/) | 2017 | Review | J Blood Med | Current insights on iron deficiency anemia and PVS |
+| [16978405](https://pubmed.ncbi.nlm.nih.gov/16978405/) | 2006 | Review | Orphanet J Rare Dis | Classic triad; PVS is extremely rare |
+| [7575056](https://pubmed.ncbi.nlm.nih.gov/7575056/) | 1995 | Case report and review | Arch Intern Med | Iron repletion often improves dysphagia; surveillance endoscopy recommended because of postcricoid carcinoma risk |
+| [12823219](https://pubmed.ncbi.nlm.nih.gov/12823219/) | 2003 | Case report | Dis Esophagus | Two women treated with iron supplementation, with resolution of symptoms |
+| [31417270](https://pubmed.ncbi.nlm.nih.gov/31417270/) | 2019 | Review | J Multidiscip Healthc | Multidisciplinary management; long-term surveillance for malignancy |
+| [26502163](https://pubmed.ncbi.nlm.nih.gov/26502163/) | 2015 | Review | J Pediatr Gastroenterol Nutr | PVS in children |
+| [38034443](https://pubmed.ncbi.nlm.nih.gov/38034443/) | 2023 | Case report | JPGN Rep | Endoscopic balloon dilatation in a 4-year-old |
+| [34616256](https://pubmed.ncbi.nlm.nih.gov/34616256/) | 2021 | Case report | Case Rep Gastroenterol | Iron supplementation is the mainstay; dysphagia often responds before the blood picture corrects |
 
 ## India Market Information
 
-Iron (DrugBank ID: DB01592) currently has **no registered pharmaceutical products** in India according to this evidence pack. No authorization records are available.
+The 20 valid single-ingredient registrations carry no approved indication text in the data compiled for this report. Main examples:
 
-> **Clinical Note:** Elemental iron is widely available in India as over-the-counter nutritional supplements and is included in national anemia control programs (e.g., the National Iron Plus Initiative). Formal pharmaceutical licensing under CDSCO may not capture all routes of access. A regulatory pathway assessment is recommended before drawing conclusions about availability.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 161789 | Orofer S 200 Injection | Vial of 10 ml injection | Not recorded |
+| Registration No. 88321 | Ferise 20 Injection | Vial of 1 ml injection | Not recorded |
+| Registration No. 184357 | Rubired Oral Suspension | Bottle of 150 ml oral suspension | Not recorded |
+| Registration No. 103636 | Glonia-XT Tablet | Strip of 10 tablets | Not recorded |
+| Registration No. 13001 | Anofer S 50mg Injection | Vial of 2.5 ml injection | Not recorded |
 
----
+Both injectable and oral forms are available.
 
 ## Safety Considerations
 
-**Drug Interactions — 79 total interactions identified (key examples shown):**
+- **Contraindications suggested by the knowledge graph (not label text)**: peptic ulcer disease, hereditary hemochromatosis, hemosiderosis, iron metabolism disease, Wilson disease, ulcerative colitis, inflammatory bowel disease, hemolytic anemia, gastroenteritis.
+- **Drug Interactions**: 79 interactions were identified.
+  - Major: dolutegravir, bictegravir.
+  - Moderate (examples): doxycycline, tetracycline, ciprofloxacin, delafloxacin, alendronic acid, risedronic acid, ibandronate, omeprazole, rabeprazole, levodopa, cefdinir, chloramphenicol, deferiprone, magnesium oxide, sodium citrate.
+- **Other**: intravenous iron can cause hypophosphatemia (PMID 34534708). PVS carries an increased risk of postcricoid and esophageal squamous cell carcinoma, so surveillance is needed independent of iron therapy.
 
-*Major interactions:*
-- **Dolutegravir** — Iron substantially reduces dolutegravir absorption through chelation; iron should be taken at least 2 hours before or 6 hours after dolutegravir
-- **Bictegravir** — Same chelation mechanism; critical for HIV patients on integrase inhibitor regimens
-
-*Moderate interactions (selected):*
-- **Omeprazole / Rabeprazole** — Proton pump inhibitors raise gastric pH and impair non-heme iron absorption; commonly co-prescribed in anemia patients
-- **Doxycycline / Tetracycline / Ciprofloxacin / Delafloxacin** — Mutual chelation reduces bioavailability of both iron and the antibiotic; separate doses by at least 2–3 hours
-- **Alendronic acid / Risedronic acid / Ibandronate** — Iron chelates bisphosphonates, reducing their efficacy; timing separation required
-- **Levodopa** — Iron forms chelates with levodopa, reducing its absorption and antiparkinsonian effect — clinically significant in elderly patients with comorbid Parkinson's disease
-- **Deferiprone** — Combining iron supplementation with an iron chelator directly antagonizes therapeutic intent; avoid concurrent use
-
-Please refer to the package insert for complete warnings and contraindications, as CDSCO-specific labeling data was not available in this evidence pack.
-
----
+Please refer to the package insert for further safety information, as label warnings were not available.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Plummer-Vinson Syndrome is pathophysiologically rooted in iron deficiency, making iron supplementation a direct causal intervention with consistent support across 19 publications including case reports, narrative reviews, and historical analyses. Although no prospective clinical trials have been specifically registered for PVS, the mechanistic and clinical case for iron is well-established in the medical literature.
+Plummer-Vinson syndrome is driven by iron deficiency, and the literature consistently reports that iron repletion improves symptoms. However, this is an extension of the existing indication, supported only by reviews, case reports and retrospective series (L4), with no prospective trials. Any use should stay within established iron deficiency management, with the guardrails below.
 
 **To proceed, the following is needed:**
-- Retrieve CDSCO package insert to document formal warnings, contraindications, and approved dosage forms
-- Confirm MOA data from DrugBank API (currently missing from this evidence pack)
-- Assess India-specific availability: confirm whether oral ferrous sulfate, ferrous fumarate, or intravenous iron formulations are accessible under existing nutritional supplement or prescription frameworks
-- Define appropriate iron formulation and dosing for PVS: oral iron is first-line; intravenous formulations may be needed in severe malabsorption cases
-- Establish oncological surveillance protocol: PVS carries an elevated risk of postcricoid esophageal carcinoma, requiring endoscopic follow-up even after successful iron repletion
-- Monitor resolution of esophageal webs: imaging or endoscopic confirmation of web regression may be needed; cases with persistent dysphagia despite iron correction require esophageal dilation
+- Package insert warnings and approved indication text for the India products
+- Mechanism of action data
+- Prospective or well-defined cohort data on dysphagia response to iron alone vs iron plus esophageal dilation
+- Screening for contraindicated conditions (hemochromatosis, IBD, peptic ulcer) and a plan for managing interactions (e.g., dosing separation from tetracyclines, quinolones, bisphosphonates and integrase inhibitors)
+- Endoscopic surveillance plan given the malignancy risk
+- Verification of study types against full texts
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

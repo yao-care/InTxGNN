@@ -2,7 +2,7 @@
 layout: default
 title: Methylene Blue
 parent: Model Prediction Only (L5)
-nav_order: 533
+nav_order: 538
 evidence_level: L5
 indication_count: 3
 ---
@@ -33,88 +33,92 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Methylene blue (MB) is a phenothiazine compound with established clinical uses, most notably as first-line treatment for acquired methemoglobinemia and as an endoscopic diagnostic stain.
-The TxGNN model predicts it may be effective for **Bronchitis**, with **0 clinical trials** and **10 publications** currently supporting this direction — however, the literature connection is indirect and the overall recommendation is **Hold**.
-
----
+Methylene blue is an injectable redox agent, originally used to treat methemoglobinemia and sulfhemoglobinemia.
+The TxGNN model predicts it may be effective for **bronchitis**, but **no clinical trials** and **8 publications** were found, and none of those publications tests methylene blue as a treatment for bronchitis.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Acquired methemoglobinemia (recognized clinical use) |
+|------|------|
+| Original Indication | Methemoglobinemia, sulfhemoglobinemia (from the knowledge-graph indication data; the India license records contain no indication text) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 (model prediction only) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in this Evidence Pack. Based on known information, methylene blue is a phenothiazine dye with multiple pharmacological properties: it acts as a NADPH-dependent methemoglobin reductase cofactor to convert ferric (Fe³⁺) haemoglobin back to functional ferrous (Fe²⁺) form, and it also exhibits antimicrobial, antioxidant, and nitric oxide pathway-modulating activity.
+Detailed mechanism of action data is not available for this drug. Methylene blue is generally known as a redox agent that also inhibits nitric oxide synthase and guanylate cyclase. In theory, this could affect airway inflammation or smooth muscle tone.
 
-The link between methylene blue and bronchitis in the TxGNN prediction appears to arise from **indirect knowledge graph associations** rather than direct therapeutic evidence. Methylene blue's documented use in fibreoptic bronchoscopy — as a mucosal stain that selectively marks malignant bronchial tissue — creates graph edges connecting MB to the bronchial system. However, this is a **diagnostic application**, not a therapeutic one for bronchitis inflammation or infection.
+Its original indication, methemoglobinemia, is a blood disorder. Bronchitis is an inflammatory airway disease, so the two conditions are not obviously related. None of the retrieved literature tests the airway-related mechanism.
 
-No preclinical, animal model, or clinical data currently supports methylene blue as a treatment for acute or chronic bronchitis. The repurposing rationale for this indication is assessed as a **likely false positive** arising from indirect node connections in the knowledge graph. The high TxGNN score (0.9997) should be interpreted with caution given the complete absence of mechanistic and experimental support.
-
----
+In the bronchitis-related records, methylene blue appears only as a diagnostic stain (for example, in bronchoscopy) or as a keyword match. The very high model score is therefore not backed by a plausible, data-supported mechanistic link. The prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [9387672](https://pubmed.ncbi.nlm.nih.gov/9387672/) | 1996 | Diagnostic Study | Chinese Journal of Surgery | MB staining in fibreoptic bronchoscopy: 97.14% of malignant bronchial tumours stained positively vs. 8.33% of bronchitis cases — confirms diagnostic, not therapeutic, use |
-| [7313968](https://pubmed.ncbi.nlm.nih.gov/7313968/) | 1981 | Diagnostic Study | Terapevticheskii Arkhiv | Chromoendofibroscopy with MB for differential diagnosis of benign vs. malignant bronchial neoplasms — diagnostic technique study |
-| [8420409](https://pubmed.ncbi.nlm.nih.gov/8420409/) | 1993 | Methodological Study | Am Rev Respiratory Dis | MB evaluated as a tracer marker in bronchoalveolar lavage (BAL) quantitation alongside ⁹⁹ᵐTc-DTPA and other markers — technical/methodological application only |
-| [31419501](https://pubmed.ncbi.nlm.nih.gov/31419501/) | 2020 | Animal Study | J Ethnopharmacology | Lippia alnifolia essential oil induces tracheal relaxation via multiple pathways; bronchitis and asthma mentioned as traditional indication context — MB not involved |
-| [21767626](https://pubmed.ncbi.nlm.nih.gov/21767626/) | 2011 | Animal Study | J Ethnopharmacology | Aloysia gratissima antidepressant effects via L-arginine/NO/cGMP pathway; bronchitis mentioned only as a traditional use — MB not involved |
-| [29254574](https://pubmed.ncbi.nlm.nih.gov/29254574/) | 2018 | Analytical Chemistry | Analytica Chimica Acta | Electrochemical aptasensor for theophylline detection; bronchitis cited as disease context for theophylline use — MB not involved |
-| [2749902](https://pubmed.ncbi.nlm.nih.gov/2749902/) | 1989 | Basic Research | Tsitologiia | MB (as "chromosmon") studied for methemoglobin reduction in erythrocytes — pharmacological mechanism study, no bronchitis relevance |
-| [6121761](https://pubmed.ncbi.nlm.nih.gov/6121761/) | 1982 | Pharmacology Study | Int J Clin Pharmacol Ther Toxicol | MB used as an indicator-dilution marker to measure circulation time in cardiovascular studies — no bronchitis relevance |
-| [20084922](https://pubmed.ncbi.nlm.nih.gov/20084922/) | 2009 | Case Report | Mikrobiyoloji Bulteni | Case of Moraxella catarrhalis endocarditis; bronchitis mentioned as one of M. catarrhalis' common manifestations — MB not involved |
-| [17120034](https://pubmed.ncbi.nlm.nih.gov/17120034/) | 2007 | Case Report | Eur J Pediatrics | Isolated tracheoesophageal fistula diagnosed in a child; MB used in diagnostic contrast studies — bronchitis was a differential diagnosis |
+None of the publications below is a clinical study of methylene blue treating bronchitis. They are listed in order of relevance, and no RCTs or systematic reviews were found.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [9387672](https://pubmed.ncbi.nlm.nih.gov/9387672/) | 1996 | Diagnostic study | Zhonghua Wai Ke Za Zhi | Methylene blue staining during fiberoptic bronchoscopy: 97.14% of central malignant bronchial tumours stained versus 8.33% of bronchitis cases. This is a diagnostic use, not a treatment. |
+| [7313968](https://pubmed.ncbi.nlm.nih.gov/7313968/) | 1981 | Diagnostic staining study | Terapevticheskii Arkhiv | Chromoendoscopy with methylene blue to distinguish benign from malignant gastrointestinal and bronchial neoplasms. |
+| [8420409](https://pubmed.ncbi.nlm.nih.gov/8420409/) | 1993 | Methodological | Am Rev Respir Dis | Methylene blue used as one of five markers to quantify intraalveolar fluid in bronchoalveolar lavage. |
+| [6121761](https://pubmed.ncbi.nlm.nih.gov/6121761/) | 1982 | Pharmacology study | Int J Clin Pharmacol Ther Toxicol | A beta-blocker study that used methylene blue only as an indicator for circulation time. |
+| [31419501](https://pubmed.ncbi.nlm.nih.gov/31419501/) | 2020 | Preclinical (ex vivo) | J Ethnopharmacol | Lippia alnifolia essential oil relaxes guinea-pig trachea. Bronchitis is mentioned only as a folk-medicine use, and this is not about methylene blue as a therapy. |
+| [21767626](https://pubmed.ncbi.nlm.nih.gov/21767626/) | 2011 | Preclinical (animal) | J Ethnopharmacol | Antidepressant-like effects of Aloysia gratissima through the nitric oxide–cGMP pathway. Bronchitis is mentioned only as a traditional use. |
+| [29254574](https://pubmed.ncbi.nlm.nih.gov/29254574/) | 2018 | Analytical/biosensor | Anal Chim Acta | An electrochemical aptasensor for detecting theophylline, a bronchodilator. Not relevant to methylene blue therapy. |
+| [20084922](https://pubmed.ncbi.nlm.nih.gov/20084922/) | 2009 | Case report | Mikrobiyol Bul | Moraxella catarrhalis endocarditis. Bronchitis is mentioned only as background. |
+
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| Registration No. 200838 | Sam MB 10mg Injection | Vial of 1 injection | Samarth Life Sciences Pvt Ltd |
+| Registration No. 27392 | Blue Beam Injection | Ampoule of 10 ml injection | Flagship Biotech International |
+
+Both registrations are valid single-ingredient injectable products.
 
 ## Safety Considerations
 
-**Drug Interactions**: A total of 186 drug interactions have been identified. Representative interactions by severity:
+- **Contraindications suggested by the knowledge graph** (not taken from label text). The following conditions are linked to methylene blue as contraindications, so they should be checked against the official package insert:
+  - G6PD deficiency (risk of hemolysis)
+  - Cardiovascular conditions: hypertension, congestive heart failure, coronary artery disease, sudden cardiac arrest, heart conduction disease
+  - Liver and kidney conditions: liver failure, liver disease, cirrhosis, kidney disease, gallbladder disease
+  - Blood disorders: anemia, macrocytic anemia, blood coagulation disease, hemophilia
+  - Metabolic conditions: diabetes mellitus, diabetic ketoacidosis, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease, glycogen storage disease, galactosemia, cystinuria
+  - Neuromuscular conditions: myasthenia gravis, neuromuscular junction disease
+  - Other: gastritis, benign prostatic hyperplasia, pyoureter
+- **Drug interactions**: 186 interactions are recorded. Many of the major ones involve serotonergic or sympathomimetic drugs, which raises a concern about serotonin syndrome. Examples of major interactions:
+  - Bupropion
+  - Morphine and opium
+  - Ondansetron, granisetron, dolasetron and palonosetron
+  - Ephedrine
+  - Phentermine, diethylpropion, mazindol, fenfluramine, dexfenfluramine and lorcaserin
+  - Isometheptene
+- **Moderate interactions** include epinephrine (including nasal, ophthalmic and topical forms) and ephedrine.
 
-| Severity | Interacting Drugs |
-|----------|------------------|
-| **Major** | Ondansetron, Granisetron, Dolasetron, Palonosetron (5-HT₃ antagonists); Lorcaserin, Fenfluramine, Dexfenfluramine (serotonergic agents); Morphine, Opium (opioids); Ephedrine, Phentermine, Mazindol, Diethylpropion, Isometheptene (sympathomimetics); Bupropion (noradrenaline–dopamine reuptake inhibitor) |
-| **Moderate** | Epinephrine, Epinephrine (ophthalmic), Epinephrine (topical), Ephedrine (nasal) |
-
-**Pattern note**: The clustering of Major interactions with serotonergic drugs (5-HT₃ antagonists, serotonin-releasing agents) is consistent with methylene blue's known MAO-inhibitory activity, which can precipitate **serotonin syndrome** — a potentially life-threatening interaction. Co-administration with serotonergic medications should be avoided or managed with extreme caution.
-
----
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The bronchitis prediction carries an L5 evidence level with zero registered clinical trials and no literature directly supporting methylene blue as a bronchitis therapy. The retrieved publications relate exclusively to MB's diagnostic use in bronchoscopy or mention bronchitis only as background context in unrelated studies. The repurposing rationale identifies this prediction as a knowledge graph false positive.
+The bronchitis prediction has a very high model score but no clinical trials, no supportive literature and no data-backed mechanism, so the evidence level is only L5. The other two predictions for this drug are better supported, but both overlap with its approved use:
+- Methemoglobinemia due to methemoglobin reductase deficiency (L3) is supported by veterinary and human case reports. It could proceed with guardrails: G6PD screening, serotonergic interaction checks and dose limits.
+- Alpha-type methemoglobinemia (L4) is uncertain, because the alpha-globin variants are resistant to reduction.
 
 **To proceed, the following is needed:**
-- Preclinical in vitro or in vivo data demonstrating a direct therapeutic effect of MB on bronchial inflammation or infection
-- A plausible mechanistic hypothesis linking MB's antimicrobial or nitric oxide-modulating properties to bronchitis pathophysiology
-- Mechanism of action (MOA) data from DrugBank (currently unavailable — Data Gap DG002) to enable proper mechanistic analysis
-- TFDA package insert safety data (currently unavailable — Data Gap DG001) before any clinical feasibility assessment
-
-> **Note on other TxGNN predictions**: Two additional indications were evaluated in this Evidence Pack. Methemoglobinemia due to methemoglobin reductase deficiency (rank 3) is rated **L3 / Proceed with Guardrails**, with a sound mechanistic basis — MB bypasses the deficient NADH pathway via an independent NADPH-dependent route, supported by human and veterinary case reports. This indication may be a more actionable repurposing candidate and merits a dedicated evaluation report.
-
----
-*This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before application.*
+- Detailed mechanism of action data, plus preclinical evidence that methylene blue acts on airway inflammation or smooth muscle
+- Any clinical or in vivo studies of methylene blue as a treatment (not a stain) in bronchitis
+- Package insert warnings and contraindications from the India regulatory source
+- A safety plan covering G6PD screening and serotonergic drug interactions, and a route and formulation assessment, since only injectable forms are marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

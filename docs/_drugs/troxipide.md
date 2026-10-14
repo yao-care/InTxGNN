@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Troxipide
-parent: High Evidence (L1-L2)
-nav_order: 864
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 872
+evidence_level: L5
 indication_count: 10
 ---
 
 # Troxipide
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,81 +29,73 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Troxipide: From Peptic Ulcer Disease to Esophagitis
+# Troxipide: From Gastric Ulcer to Esophagitis
 
 ## One-Sentence Summary
 
-Troxipide is a gastroprotective agent approved in Japan (PMDA) for peptic ulcer disease, acting through mucosal barrier reinforcement and anti-inflammatory mechanisms.
-The TxGNN model predicts it may be effective for **Esophagitis**, supported by Phase 2 RCTs conducted in Japan and Korea exploring its use in reflux esophagitis.
-No clinical trials or publications were retrieved via automated search in this evidence pack, but mechanistic and regional regulatory evidence independently supports this prediction.
-
----
+Troxipide is a gastric cytoprotective agent, originally used to treat gastric ulcer.
+The TxGNN model predicts it may be effective for **esophagitis**,
+but **no clinical trials and no publications** currently support this specific indication, so the prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Peptic Ulcer Disease (Japan PMDA approved; not registered in India) |
+|------|------|
+| Original Indication | Gastric ulcer |
 | Predicted New Indication | Esophagitis |
 | TxGNN Prediction Score | 99.94% |
-| Evidence Level | L2 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed MOA data is not yet available in this evidence pack (listed as a high-severity data gap). However, based on the mechanistic rationale embedded in the evidence pack, Troxipide is a gastric mucoprotective agent whose primary actions include: stimulating mucin secretion (MUC5AC and MUC5B) to reinforce the mucosal barrier, inducing PGE₂ synthesis to provide cytoprotection, and suppressing pro-inflammatory mediators such as IL-8 and TNF-α to reduce mucosal damage.
+Currently, detailed mechanism of action data is not available. Based on known information, troxipide is a gastric cytoprotective (mucosal-protective) agent, its use in gastric ulcer is established, and mechanistically it may be applicable to esophagitis.
 
-Peptic ulcer disease and esophagitis share overlapping pathophysiology: both involve breakdown of mucosal defences under conditions of acid and inflammatory stress. In esophagitis — particularly reflux esophagitis — the esophageal epithelium is injured by repeated acid and bile exposure, creating an environment where Troxipide's mucin-promoting and anti-inflammatory actions are mechanistically plausible. The inhibition of IL-8-mediated esophageal epithelial inflammation and PGE₂-driven epithelial repair are especially relevant in this context.
+Reported effects of troxipide include mucosal protection and inhibition of neutrophil migration and activation. Because neutrophil-driven inflammation and mucosal injury also feature in esophageal mucosal damage, an extension to esophagitis is plausible. Both conditions are inflammatory or erosive injuries of the upper gastrointestinal mucosa.
 
-Importantly, this is not purely theoretical: the evidence pack rationale notes that Phase 2 RCTs in Japan and Korea have already explored Troxipide in reflux esophagitis, often in combination with proton pump inhibitors (PPIs). This positions the drug as a candidate for adjunctive therapy rather than monotherapy — analogous to its established role augmenting ulcer healing.
-
----
+However, this remains a hypothesis. The very high TxGNN score reflects proximity in a knowledge graph and is not evidence of efficacy. No trials or publications specific to esophagitis were identified in the data compiled for this report.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered via ClinicalTrials.gov or ICTRP were retrieved for Troxipide in esophagitis. Regional Phase 2 RCT data from Japan and Korea is referenced in the mechanistic rationale but was not captured by automated search. Manual retrieval from UMIN-CTR (Japan) and CRIS (Korea) registries is recommended.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature was retrieved via automated PubMed search for Troxipide in esophagitis. Manual search of Japanese-language literature databases (e.g., Ichushi-Web / J-STAGE) and Korean databases is recommended to recover regional study publications.
+Currently no related literature available for esophagitis.
 
----
+For context, the literature found for other predicted indications (active peptic ulcer disease and gastrojejunal ulcer) is entirely preclinical. It includes work on neutrophil inhibition (PMID 11515628) and rat gastric ulcer and mucosal lesion models (PMID 7959422, 8288208, 32788674). None of it involves esophagitis or human efficacy trials.
 
 ## India Market Information
 
-Troxipide is not currently registered or marketed in India. No product licenses exist. This drug would require a new drug application (NDA) or bibliographic submission for market entry.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 215950 | Troxip Tablet (Zuventus Healthcare Ltd) | Strip of 10 tablets | Not specified |
+| 221481 | Troxpro 100mg Tablet (Emcure Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified |
+| 215848 | Troxip-OD Tablet PR (Zuventus Healthcare Ltd) | Strip of 10 prolonged-release tablets | Not specified |
 
----
+All three registrations are valid single-ingredient oral products.
 
 ## Safety Considerations
 
-No safety data was retrievable for this evidence pack. TFDA package insert warnings, contraindications, and drug interaction data are listed as blocking data gaps.
-
-> Please refer to the originator's package insert (Japan PMDA approved product) for safety information, including contraindications, warnings, and drug interactions, before proceeding with any clinical or regulatory evaluation.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found for troxipide in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction score is high (99.94%), the mechanistic link between Troxipide's mucoprotective and anti-inflammatory actions and esophagitis pathophysiology is well-grounded, and independent Phase 2 RCT activity in Japan and Korea suggests clinical feasibility. However, the evidence pack contains critical data gaps — including MOA, safety data, and the actual RCT publications — that must be resolved before any regulatory or investment decision.
+The esophagitis prediction has a very high model score but no supporting trials or literature (Evidence Level L5). Troxipide is already marketed in India, which lowers access barriers, but efficacy in esophagitis is unsupported.
+
+Among the other predictions, active peptic ulcer disease and gastrojejunal ulcer have preclinical support (L4). These are close to the original gastric ulcer indication and are better framed as research questions than as true repurposing.
 
 **To proceed, the following is needed:**
-
-- **MOA confirmation**: Retrieve full pharmacology data from DrugBank API (DB13419) to formally document mechanism of action
-- **Regional RCT retrieval**: Manually search UMIN-CTR and JapicCTI (Japan) and CRIS (Korea) for Phase 2 trial results on reflux esophagitis
-- **Literature recovery**: Search J-STAGE, Ichushi-Web, and Korean MedRIC databases for Troxipide + esophagitis publications
-- **Safety data**: Download and parse Japan PMDA package insert to extract warnings, contraindications, and interaction profile
-- **India regulatory pathway**: Assess whether bibliographic submission (based on PMDA approval + RCT data) is feasible under India CDSCO new drug regulations
-- **PPI combination strategy**: Evaluate whether India market entry should position Troxipide as adjunctive therapy alongside PPIs, consistent with its regional clinical development pattern
+- Mechanism of action data for troxipide
+- Package insert warnings and contraindications from the Indian labels (including approved indication text)
+- Preclinical or clinical studies of troxipide in esophagitis, such as reflux or erosive esophagitis models
+- A literature search targeted at esophageal mucosal protection with troxipide
+- Assessment of route and formulation suitability for esophageal exposure
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

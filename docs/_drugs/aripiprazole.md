@@ -29,118 +29,112 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Aripiprazole: From Schizophrenia / Bipolar Disorder to Major Affective Disorder
+# Aripiprazole: From Schizophrenia and Bipolar Disorder to Major Affective Disorder
 
 ## One-Sentence Summary
 
-Aripiprazole is an atypical antipsychotic (second-generation) widely established for schizophrenia and bipolar I disorder, acting through a unique partial agonism profile at dopamine and serotonin receptors.
-The TxGNN model predicts it may be effective for **Major Affective Disorder** (encompassing major depressive disorder and bipolar-spectrum conditions),
-with **multiple completed Phase 3 RCTs** and **20 publications** — including several high-quality systematic reviews and network meta-analyses — currently supporting this direction.
-
----
+Aripiprazole is an atypical antipsychotic originally used for schizophrenia, bipolar disorder and autism-related conditions.
+The TxGNN model predicts it may be effective for **major affective disorder** (major depressive disorder), with **36 clinical trials** and **18 publications** currently supporting this direction.
+Several large, completed Phase 3 placebo-controlled trials of adjunctive use are included, so the evidence is relatively strong.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Schizophrenia / Bipolar I Disorder (established globally; no India regulatory data on file) |
-| Predicted New Indication | Major Affective Disorder |
+|------|------|
+| Original Indication | Manic bipolar affective disorder, bipolar disorder, schizophrenia, autism spectrum disorder (approved indication text is not available in the registration records) |
+| Predicted New Indication | Major affective disorder (major depressive disorder) |
 | TxGNN Prediction Score | 99.62% |
 | Evidence Level | L1 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Aripiprazole is a third-generation atypical antipsychotic with a distinctive triple mechanism: **D2/D3 partial agonism** stabilises dopaminergic tone without the full receptor blockade seen with older antipsychotics; **5-HT1A partial agonism** delivers anxiolytic and antidepressant-like effects by modulating serotonergic signalling; and **5-HT2A antagonism** potentiates conventional antidepressant activity. This mechanistic triad positions it as a natural adjunct to antidepressant therapy rather than a pure antipsychotic.
+Detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, aripiprazole is a dopamine D2/D3 partial agonist and a 5-HT1A partial agonist with 5-HT2A antagonism. This profile is thought to modulate dopaminergic and serotonergic tone in mesocortical and mesolimbic circuits. This mechanism is drawn from general knowledge, not from the supplied dataset.
 
-Major affective disorder — spanning major depressive disorder (MDD) and bipolar-spectrum illness — is fundamentally characterised by dysregulation of both dopaminergic and serotonergic circuits in prefrontal-limbic networks. The partial agonism profile of Aripiprazole is particularly suited to this pathophysiology: in hypodopaminergic states (as seen in depression), it provides net receptor activation, while in hyperdopaminergic states (as in mania), it acts as a functional antagonist. This "dopamine system stabiliser" property aligns directly with the mood-state instability that defines major affective disorders.
+Aripiprazole is already used for bipolar disorder, a mood disorder, so the link to depressive disorders is direct. As an add-on to antidepressants, it is proposed to improve response in patients who responded inadequately to antidepressant therapy alone.
 
-Regulatory and clinical evidence further reinforces the prediction. The US FDA has already approved Aripiprazole as **adjunctive therapy for MDD** (under the brand name Abilify), and approvals for acute mania and bipolar I maintenance exist across multiple jurisdictions. Several completed Phase 3 RCTs (including NCT00876343, n = 586 and NCT00095823, n = 1,200) provide direct, high-quality evidence of efficacy specifically in MDD populations who responded inadequately to SSRIs or SNRIs — precisely the clinical scenario the TxGNN model is capturing.
-
----
+The trial and literature record supports this reasoning. Multiple Phase 3 trials test adjunctive aripiprazole in patients with an inadequate antidepressant response, and several network meta-analyses compare it with other augmentation strategies.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---|---|---|---|---|
-| [NCT00876343](https://clinicaltrials.gov/study/NCT00876343) | Phase 3 | Completed | 586 | Double-blind, placebo-controlled RCT evaluating Aripiprazole vs placebo as adjunctive therapy to SSRI/SNRI in MDD; direct, highest-grade efficacy and safety evidence for this indication |
-| [NCT00095823](https://clinicaltrials.gov/study/NCT00095823) | Phase 3 | Completed | 1,200 | Large 14-week placebo-controlled RCT assessing Aripiprazole adjunctive to ongoing antidepressant in MDD; broad safety database |
-| [NCT02046564](https://clinicaltrials.gov/study/NCT02046564) | Phase 3 | Completed | 412 | Evaluated ASC-01 (aripiprazole/sertraline fixed combination) vs sertraline monotherapy in MDD with incomplete SSRI response |
-| [NCT00277212](https://clinicaltrials.gov/study/NCT00277212) | Phase 4 | Completed | 1,169 | Double-blind study of Aripiprazole + Lamotrigine in long-term maintenance of Bipolar I Disorder following manic/mixed episode |
-| [NCT00882362](https://clinicaltrials.gov/study/NCT00882362) | Phase 3 | Completed | 155 | Long-term (≥ 52-week) safety and efficacy of adjunctive Aripiprazole with SSRI/SNRI in MDD |
-| [NCT02305823](https://clinicaltrials.gov/study/NCT02305823) | Phase 4 | Completed | 203 | Head-to-head comparison of Aripiprazole, Quetiapine, and Ziprasidone in first-episode non-affective psychosis; provides comparative effectiveness context |
-| [NCT00107939](https://clinicaltrials.gov/study/NCT00107939) | Phase 3 | Completed | 453 | Licarbazepine as add-on to atypical antipsychotics (including Aripiprazole) in acute mania of Bipolar I; confirms Aripiprazole as a standard-of-care comparator arm |
-| [NCT00683852](https://clinicaltrials.gov/study/NCT00683852) | Phase 3 | Completed | 225 | Double-blind placebo-controlled study evaluating reduced-dose Aripiprazole in MDD patients with inadequate response to antidepressants; dose-optimisation data |
-| [NCT03423680](https://clinicaltrials.gov/study/NCT03423680) | Phase 3 | Recruiting | 390 | 8-week placebo-controlled RCT assessing Aripiprazole adjunctive to mood stabiliser in Bipolar I/II disorder with major depressive episode; results pending |
-| [NCT01111565](https://clinicaltrials.gov/study/NCT01111565) | Phase 3 | Terminated | 137 | Randomised double-blind study of oral Aripiprazole/Escitalopram combination in MDD with inadequate SSRI response; terminated early, provides limited safety data |
+The data include 36 trials. The 10 most relevant are listed below.
 
----
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00095823](https://clinicaltrials.gov/study/NCT00095823) | Phase 3 | Completed | 1200 | 14-week randomized, double-blind, placebo-controlled study of aripiprazole added to ongoing antidepressant therapy in MDD |
+| [NCT00095758](https://clinicaltrials.gov/study/NCT00095758) | Phase 3 | Completed | 1151 | 14-week randomized, double-blind, placebo-controlled study of adjunctive aripiprazole in MDD |
+| [NCT01421342](https://clinicaltrials.gov/study/NCT01421342) | Phase 3 | Completed | 1522 | VAST-D: aripiprazole augmentation vs bupropion augmentation vs switch to bupropion in Veterans with treatment-resistant MDD |
+| [NCT00683852](https://clinicaltrials.gov/study/NCT00683852) | Phase 3 | Completed | 225 | Double-blind, placebo-controlled study of reduced-dose adjunctive aripiprazole in MDD with inadequate prior response |
+| [NCT00876343](https://clinicaltrials.gov/study/NCT00876343) | Phase 3 | Completed | 586 | Placebo-controlled, double-blind study of aripiprazole adjunctive to SSRI/SNRI in MDD |
+| [NCT00105196](https://clinicaltrials.gov/study/NCT00105196) | Phase 3 | Completed | 349 | 14-week randomized, double-blind, placebo-controlled study of adjunctive aripiprazole in MDD |
+| [NCT00095745](https://clinicaltrials.gov/study/NCT00095745) | Phase 3 | Completed | 1002 | 52-week open-label safety and tolerability study of adjunctive aripiprazole in MDD (safety data only, no controlled efficacy) |
+| [NCT01111539](https://clinicaltrials.gov/study/NCT01111539) | Phase 3 | Terminated | 211 | Aripiprazole/escitalopram combination vs escitalopram in MDD; early termination limits interpretation |
+| [NCT00080314](https://clinicaltrials.gov/study/NCT00080314) | Phase 3 | Completed | 400 | Flexible-dose aripiprazole (5–30 mg) vs placebo in bipolar I depressive episode |
+| [NCT01488266](https://clinicaltrials.gov/study/NCT01488266) | Phase NA | Unknown | 90 | Aripiprazole augmentation vs switching antidepressant class in partially responsive MDD |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|---|---|---|---|---|
-| [38669232](https://pubmed.ncbi.nlm.nih.gov/38669232/) | 2024 | Meta-analysis of RCTs | PLoS ONE | Largest meta-analysis evaluating Aripiprazole augmentation vs bupropion switching in TRD/MDD; confirms efficacy and characterises safety profile |
-| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Systematic Review + NMA | J Affect Disord | Network meta-analysis comparing augmentation agents for treatment-resistant depression; Aripiprazole ranked among most evidence-supported options |
-| [38219278](https://pubmed.ncbi.nlm.nih.gov/38219278/) | 2024 | Systematic Review + NMA | Neuropsychopharmacology Reports | Direct comparison of brexpiprazole vs Aripiprazole in Japanese MDD patients with inadequate antidepressant response; supports ethnic generalisability |
-| [37746943](https://pubmed.ncbi.nlm.nih.gov/37746943/) | 2023 | NMA | Medicine | Network meta-analysis ranking 4 atypical antipsychotics (including Aripiprazole) as adjunctive treatment in MDD; provides comparative ranking of efficacy and tolerability |
-| [35510505](https://pubmed.ncbi.nlm.nih.gov/35510505/) | 2023 | Systematic Review + Meta-analysis | Psychological Medicine | Comprehensive meta-analysis of antipsychotics as monotherapy and adjunctive therapy in MDD; largest evidence synthesis to date |
-| [34167174](https://pubmed.ncbi.nlm.nih.gov/34167174/) | 2021 | Systematic Review + Meta-analysis | Prim Care Companion CNS Disord | Focused on long-term (≥ 6 months) efficacy and tolerability of adjunctive Aripiprazole in MDD; remission rates and adverse event profile at sustained follow-up |
-| [37149344](https://pubmed.ncbi.nlm.nih.gov/37149344/) | 2023 | Review | Psychiatr Clin North Am | Reviews antidepressants and atypical antipsychotics for TRD; positions Aripiprazole as a first-line augmentation agent with existing FDA approval |
-| [36855876](https://pubmed.ncbi.nlm.nih.gov/36855876/) | 2023 | Review | Am J Psychiatry | Examines role of antipsychotics (including Aripiprazole) in the evolving TRD treatment landscape; discusses mechanism and clinical positioning |
-| [37815563](https://pubmed.ncbi.nlm.nih.gov/37815563/) | 2023 | Review | JAMA | Comprehensive JAMA review on diagnosis and treatment of bipolar disorder (40 million patients worldwide); Aripiprazole cited as a guideline-endorsed agent |
-| [25963405](https://pubmed.ncbi.nlm.nih.gov/25963405/) | 2016 | Review | Asia-Pacific Psychiatry | Reviews mechanistic basis for antipsychotics as antidepressants; explains why Aripiprazole is effective only at sub-antipsychotic doses in affective disorders |
+|------|-----|------|------|---------|
+| [42090141](https://pubmed.ncbi.nlm.nih.gov/42090141/) | 2026 | Systematic review / Network meta-analysis | JAMA Psychiatry | Adjunctive antipsychotics in MDD; the FDA has approved 5 atypical antipsychotics in MDD on the basis of efficacy and safety evidence |
+| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Systematic review / Network meta-analysis | J Affect Disord | Compares efficacy and discontinuation of augmentation agents in treatment-resistant depression |
+| [39739012](https://pubmed.ncbi.nlm.nih.gov/39739012/) | 2025 | Systematic review / Network meta-analysis | Neuropsychopharmacology | Relative effectiveness of antidepressant treatments in treatment-resistant depression |
+| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Systematic review / Meta-analysis | J Psychopharmacol | Augmentation and combination treatments for early-stage treatment-resistant depression |
+| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Systematic review / Meta-analysis | J Psychopharmacol | Antidepressants plus second-generation antipsychotics vs esketamine vs lithium |
+| [38454079](https://pubmed.ncbi.nlm.nih.gov/38454079/) | 2024 | RCT | Mol Psychiatry | ASCERTAIN-TRD: augmentation with aripiprazole or rTMS vs switching to venlafaxine |
+| [42283956](https://pubmed.ncbi.nlm.nih.gov/42283956/) | 2026 | Network meta-analysis | Adv Ther | Compares lumateperone with other approved atypical antipsychotics as adjunctive MDD treatment |
+| [37149344](https://pubmed.ncbi.nlm.nih.gov/37149344/) | 2023 | Review | Psychiatr Clin North Am | Atypical antipsychotics are the most widely studied augmentation agents in treatment-resistant depression |
+| [36855876](https://pubmed.ncbi.nlm.nih.gov/36855876/) | 2023 | Review | Am J Psychiatry | Where antipsychotics fit in the treatment landscape for treatment-resistant depression |
+| [25963405](https://pubmed.ncbi.nlm.nih.gov/25963405/) | 2016 | Review | Asia Pac Psychiatry | Aripiprazole, quetiapine and olanzapine have FDA approval as adjuncts to antidepressants; effective only at sub-antipsychotic doses |
 
----
+Note: one meta-analysis of aripiprazole or bupropion augmentation (PMID 38669232) has been retracted and is not relied on here.
 
 ## India Market Information
 
-No India regulatory authorisations are currently on file for Aripiprazole in this dataset. The drug is recorded as **not marketed** with zero registered products.
+Twenty valid single-ingredient registrations are on record. The registration records contain no approved indication text. Five main registrations are listed.
 
-> **Note:** Aripiprazole (brand name Abilify and generics) has regulatory approvals in the US, EU, Japan, and many other markets. The absence of India registration data in this dataset may reflect a data gap rather than true non-availability. Independent verification via the CDSCO (Central Drugs Standard Control Organisation) database is recommended before drawing conclusions about India market status.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 99889 | G-Pra 10 Tablet (Gamete Pharma) | Strip of 10 tablets | Not stated in the record |
+| 3239 | Arirazo 10mg Tablet (Arinna Lifescience) | Strip of 10 tablets | Not stated in the record |
+| 14939 | Aripaxe 20 Tablet (Lifecare Neuro Products) | Strip of 10 tablets | Not stated in the record |
+| 2729 | Asprito 10 Tablet (Intas Pharmaceuticals) | Strip of 15 tablets | Not stated in the record |
+| 3883 | Aripra 10mg Tablet (Sun Pharmaceutical Industries) | Strip of 10 tablets | Not stated in the record |
 
 ## Safety Considerations
 
-**Drug Interactions (316 interactions on record):**
+**Contraindications (from knowledge-graph disease associations, not label text):** The knowledge graph links aripiprazole to the following conditions, which warrant caution:
+- Cardiovascular: orthostatic hypotension, hypotensive disorder, postural orthostatic tachycardia syndrome, multiple system atrophy, myocardial infarction, myocardial ischemia, coronary artery disease, sudden cardiac arrest, heart conduction disease, cerebrovascular disorder
+- Metabolic: diabetes mellitus, hyperglycemia, diabetic ketoacidosis, hyperlipidemia, obesity disorder
+- Haematological: neutropenia, leukopenia, agranulocytosis, severe congenital neutropenia and related neutropenia syndromes
+- Neurological: epilepsy, neuroleptic malignant syndrome
 
-The DDI database flags a total of 316 drug interactions for Aripiprazole. Key interactions identified include:
+**Drug Interactions:** 316 interactions were identified. The main ones from the sample reviewed:
+- **Major:** bupropion
+- **Moderate:** antidiabetic agents (acarbose, metformin, pioglitazone, alogliptin, canagliflozin, albiglutide, acetohexamide, chlorpropamide), anticholinergics (atropine, hyoscyamine, clidinium), CYP-inhibiting drugs (cimetidine, clarithromycin, clotrimazole), and others such as epinephrine, famotidine, loperamide, aprepitant and cisapride
 
-- **Major interaction:** Bupropion — risk of seizure threshold lowering and pharmacodynamic potentiation; requires careful monitoring if combined (particularly relevant given Bupropion is itself used in TRD augmentation strategies)
-- **Moderate interactions (selected clinically relevant examples):**
-  - *Clarithromycin* — CYP3A4 inhibition may increase Aripiprazole plasma levels; dose adjustment may be needed
-  - *Aprepitant* — CYP3A4 inhibition; monitor for increased Aripiprazole exposure
-  - *Cisapride* — additive QT-prolongation risk; use with caution
-  - *Anticholinergic agents* (Atropine, Hyoscyamine, Clidinium) — additive anticholinergic burden; monitor in elderly patients
-  - *Antidiabetic agents* (Metformin, Canagliflozin, Pioglitazone, Acarbose, Alogliptin, Albiglutide, Acetohexamide, Chlorpropamide) — Aripiprazole may cause metabolic changes affecting glucose regulation; blood glucose monitoring recommended
-
-> For complete warnings and contraindications, please refer to the approved package insert, as this information is not available in the current dataset.
-
----
+Please refer to the package insert for label-based warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Aripiprazole has already obtained FDA approval as an adjunctive treatment for MDD, supported by multiple completed Phase 3 RCTs (including trials with over 1,000 participants) and high-quality systematic reviews and network meta-analyses placing it among the most evidence-supported augmentation agents for treatment-resistant depression. The TxGNN L1 evidence designation and 99.62% prediction score are both well-justified by the empirical literature. The primary constraint for the India market is the absence of local regulatory registration and the lack of package insert data in this dataset.
+Multiple completed Phase 3 randomized, placebo-controlled trials with over 1,000 participants each, plus several network meta-analyses, support adjunctive aripiprazole in major depressive disorder. Package insert safety information and mechanism data are missing from the compiled data. The knowledge graph also flags numerous cardiometabolic and haematological cautions, and the major interaction with bupropion needs management.
 
 **To proceed, the following is needed:**
+- Package insert warnings and contraindications from the India regulatory source (currently a blocking data gap)
+- Mechanism of action data from DrugBank
+- Approved indication text for the Indian registrations, to confirm whether the depression indication is already labelled
+- A monitoring plan for metabolic, cardiovascular and haematological risks, and a plan for managing interactions (notably bupropion)
 
-- **India regulatory pathway:** Verify current CDSCO status and determine whether a new drug application (NDA) or abbreviated pathway applies; if unregistered, initiate formal filing
-- **Package insert review:** Download and parse the approved India/TFDA prescribing information to extract official warnings, contraindications, and special population guidance (currently blocking for formal safety screening)
-- **MOA documentation:** Retrieve structured mechanism-of-action data from DrugBank API (DB01238) to complete mechanistic gap analysis
-- **Local pharmacovigilance plan:** Given 316 DDI interactions on record and the Major interaction with Bupropion (a common co-prescribed agent in TRD), a structured drug interaction management protocol should be defined prior to any clinical deployment
-- **Biomarker-stratified sub-analysis:** Emerging Phase 3 trial data (e.g., NCT06054321, NCT07153406) exploring biomarker-guided selection of Aripiprazole augmentation may inform which patient subpopulations derive the greatest benefit — monitor for results through 2029
+## Other Predicted Indications (Brief Note)
 
----
-
-*This report is generated for research purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before therapeutic application. Data cutoff: 2026-04-05.*
+- **Trichotillomania** (score 99.26%, evidence level L3, recommendation: research question): two small trials (one open-label, n=12; one not-yet-recruiting placebo-controlled Phase 2, n=100), one open-label study and several case reports. Aripiprazole has also been reported to cause trichotillomania and other impulsive-compulsive behaviours, so the evidence is mixed.
+- **Asperger syndrome susceptibility and Phelan-McDermid syndrome:** no trials or literature. These likely reflect overlap with existing autism-related indications and are model predictions only.
+- **Other predictions** (gaze palsy with progressive scoliosis, amelocerebrohypohidrotic syndrome, distal 17p13.3 microdeletion, Malan overgrowth syndrome, retinal dystrophy, hydranencephaly): no plausible mechanistic link and no clinical evidence. Decision: Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

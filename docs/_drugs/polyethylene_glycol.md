@@ -2,7 +2,7 @@
 layout: default
 title: Polyethylene Glycol
 parent: Model Prediction Only (L5)
-nav_order: 677
+nav_order: 684
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,68 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Polyethylene Glycol: From Osmotic Laxative Use to Congenital Ichthyosiform Erythroderma
+# Polyethylene glycol: From Constipation and Dry Eye to Congenital Ichthyosiform Erythroderma
 
 ## One-Sentence Summary
 
-Polyethylene glycol (PEG, DB09287) is a well-known osmotic laxative and topical excipient/moisturizing base ingredient; no formal indication or mechanism-of-action record exists in this Evidence Pack. The TxGNN model predicts it may be effective for **Congenital Ichthyosiform Erythroderma**, but this is currently supported by **0 clinical trials** and **0 publications** — the score reflects only knowledge-graph topological similarity.
-
----
+Polyethylene glycol is an osmotic agent used as a laxative for constipation and as a lubricant in dry eye products.
+The TxGNN model predicts it may be effective for **congenital ichthyosiform erythroderma**,
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file — no India/Taiwan registration or indication data; PEG is generally known as an osmotic laxative and topical excipient/moisturizing base |
-| Predicted New Indication | Congenital Ichthyosiform Erythroderma |
+| Original Indication | Constipation disorder, dry eye syndrome, xerophthalmia (the India license records contain no approved indication text) |
+| Predicted New Indication | Congenital ichthyosiform erythroderma |
 | TxGNN Prediction Score | 99.03% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, PEG is a large inert polymer commonly used as an osmotic laxative (draws water into the bowel lumen) and, in topical formulations, as an excipient/moisturizing base — its efficacy in these roles is well established, but there is no formal indication record in this Evidence Pack to compare against.
+Currently, detailed mechanism of action data is not available. Based on known information, polyethylene glycol is an osmotic agent and a hydrating or lubricating ingredient. Its efficacy in constipation (as an osmotic laxative) and in dry eye (as a lubricant) is established, and it may mechanistically be applicable to dry, scaly skin conditions.
 
-Congenital ichthyosiform erythroderma is a keratinization disorder characterized by impaired skin barrier function and abnormal scaling. The only plausible link between PEG and this disease is through its topical emollient/moisturizing properties, which could theoretically support skin barrier hydration in ichthyosis-type conditions — a symptomatic/adjunctive role rather than a disease-modifying one.
+The only rationale available is speculative. Because polyethylene glycol attracts and holds water, it could help hydrate a dry, scaly stratum corneum, as seen in congenital ichthyosiform erythroderma. This is a hypothesis, not a demonstrated link.
 
-However, there is no pharmacological mechanism connecting PEG's systemic laxative action (or its general excipient function) to keratinocyte differentiation or skin barrier repair pathways. The TxGNN score of 99.03% reflects graph-topology similarity within the knowledge graph rather than validated pharmacological plausibility, and should be interpreted with caution in the absence of any corroborating mechanistic, preclinical, or clinical data.
+Ichthyosis is a genetic keratinization disorder (for example, TGM1 and ALOX12B/ALOXE3 variants) with a defective skin barrier. Moisturizing the skin eases symptoms but does not modify the disease. The high TxGNN score is a model-based prediction, and the data compiled for this report contain no clinical or literature support for it. The prediction's similarity to the original indications and its route compatibility have not been assessed. All registered products are oral, other (powder/liquid), or ophthalmic, and none is a dermatological product.
 
----
+## India Market Information
 
-## Clinical Trial Evidence
+All 20 registrations are valid single-ingredient products. The license records contain no approved indication text. Five main authorizations are listed below.
 
-Currently no related clinical trials registered.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 121044 | Looz Peg Oral Solution Orange | Oral solution, 200 ml bottle | Intas Pharmaceuticals Ltd |
+| 121797 | Laxolite 10gm Oral Laxative Liquid Sugar Free | Liquid, 100 ml bottle | J B Chemicals and Pharmaceuticals Ltd |
+| 113911 | Junior Cipeg Powder for Oral Solution | Powder for oral solution, 121.1 gm bottle | Cipla Ltd |
+| 175323 | Pegsure Sachet Orange | Powder, 17 gm sachet | Veterix Lifesciences Private Limited |
+| 39940 | C-Well Eye Drop | Eye drop, 10 ml bottle | Wellona Pharmaceutical Private Limited |
 
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+The other 15 registrations include one further laxative powder (Scilax) and 14 additional eye drops, all in 10 ml presentations.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Contraindications (from drug-disease associations in the knowledge graph, not from label text):**
+The following conditions are linked to polyethylene glycol as contraindications in the knowledge graph:
+- **Gastrointestinal:** ileus, paralytic ileus, intestinal obstruction, toxic megacolon, pyloric stenosis, familial visceral myopathy, appendicitis
+- **Cardiovascular:** hypertension, hypertensive disorder, congestive heart failure, cardiovascular disease, heart disease
+- **Renal and metabolic:** kidney disease, anuria, pyoureter, nephrocalcinosis, hypercalcemia, phosphorus metabolism disease, potassium deficiency disease, hyperglycemia, diabetes mellitus, diabetic ketoacidosis
+- **Endocrine:** hyperthyroidism, Graves disease, thyrotoxicosis
+- **Neurological:** epilepsy
+- **Ocular:** angle-closure (closed-angle) glaucoma, eye infectious disease, conjunctivitis
 
----
+These associations come from a model knowledge graph and may reflect other products or components. They should be verified against the official package insert.
+
+No drug interaction records were found. Please refer to the package insert for warnings and other safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate has no clinical trial or literature support (Evidence Level L5) and no confirmed mechanism of action linking PEG to keratinization disorders — the prediction rests solely on TxGNN graph-topology scoring, which is insufficient to justify further evaluation at this time.
+The prediction is supported only by the model score. There are no clinical trials or publications, the mechanistic link is speculative, and the benefit would at most be symptomatic moisturization of a genetic barrier disorder. No registered product has a dermatological route.
 
 **To proceed, the following is needed:**
-- TFDA/India regulatory label data (warnings, contraindications) — currently blocking safety pre-screening (DG001)
-- Confirmed mechanism of action for PEG (DG002), to assess biological plausibility against congenital ichthyosiform erythroderma
-- Any preclinical or case-level evidence on topical PEG use in ichthyosis or related keratinization disorders
-- Drug interaction (DDI) data, currently unavailable (query returned not_found)
+- Package insert warnings and contraindications from the India regulator (currently a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A literature and trial search for polyethylene glycol or PEG-based topical products in ichthyosis
+- An assessment of route compatibility (a topical formulation would be needed) and similarity to the original indications
+- Preclinical or small exploratory data showing a benefit beyond ordinary emollients
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

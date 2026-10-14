@@ -2,7 +2,7 @@
 layout: default
 title: Rifampicin
 parent: Moderate Evidence (L3-L4)
-nav_order: 732
+nav_order: 739
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,90 +29,89 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Rifampicin: From Tuberculosis to Conjunctivitis
+# Rifampicin: From Pulmonary Tuberculosis to Conjunctivitis
 
 ## One-Sentence Summary
 
-> Rifampicin is a rifamycin-class antibiotic originally developed for tuberculosis and other mycobacterial infections.
-> The TxGNN model predicts it may be effective for **Conjunctivitis**,
-> with **0 clinical trials** and **20 publications** currently supporting this direction — most of the literature is historical, microbiological, or mechanistic rather than confirmatory treatment trials.
-
----
+Rifampicin is a broad-spectrum antibiotic (RNA polymerase inhibitor) originally used to treat pulmonary tuberculosis.
+The TxGNN model predicts it may be effective for **conjunctivitis**, but this is supported only by **indirect literature (about 19 publications, mostly susceptibility surveys, case reports and a few older topical-use studies)** and **no registered clinical trials**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Tuberculosis (*Mycobacterium tuberculosis* infection) — based on established clinical knowledge; no market license record available in the current dataset |
+| Original Indication | Pulmonary tuberculosis |
 | Predicted New Indication | Conjunctivitis |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L4 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Rifampicin is a rifamycin-class antibiotic that inhibits bacterial DNA-dependent RNA polymerase, and its efficacy against *Mycobacterium tuberculosis* and other susceptible organisms (including *Chlamydia trachomatis* and several Gram-positive bacteria) has been well established for decades.
+Currently, detailed mechanism of action data is not available. Based on known information, rifampicin is a broad-spectrum antibiotic that inhibits bacterial RNA polymerase. Its efficacy in tuberculosis is well established, and it is active against Gram-positive bacteria, *Chlamydia* and *Staphylococcus*.
 
-Conjunctivitis — particularly bacterial and chlamydial forms — shares a plausible mechanistic link with rifampicin's known antibacterial spectrum. The strongest supporting evidence is a 1975 controlled trial in Tunisia that compared topical rifampicin ointment against tetracycline and boric acid for endemic **trachoma** (a chlamydial conjunctivitis), showing measurable antibacterial activity. Several older case reports and reviews (e.g., meningococcal conjunctivitis treated with systemic rifampin, ophthalmic use reviews from the 1970s) reinforce that rifampicin has occasionally been used off-label for ocular infections.
+These organisms are common causes of bacterial conjunctivitis and trachoma, so an antibacterial link to conjunctivitis is plausible. Older studies tested rifampicin eye ointment in chlamydial eye infections. A 1977 open trial of 1% rifampicin ointment in chlamydial eye infection found that 3 weeks was not enough to cure the disease, while a 6–7 week course gave about 90% clinical and microbiological cure. A 1975 controlled trial in Tunisia compared topical tetracycline and rifampicin in endemic trachoma.
 
-However, most of the remaining literature consists of pathogen susceptibility surveys and case reports rather than treatment-outcome studies, and modern first-line therapy for bacterial/chlamydial conjunctivitis has largely shifted to safer topical antibiotics (e.g., fluoroquinolones, azithromycin). The prediction is mechanistically plausible but not supported by any contemporary clinical trial specifically targeting conjunctivitis.
-
----
+However, the evidence is indirect. Well-established first-line topical antibiotics are available for conjunctivitis, and using a key anti-TB drug for a common, often self-limiting eye infection risks selecting resistance in TB-endemic settings. The data compiled for this report also contain duplicate conjunctivitis entries ("conjunctivitis", "conjunctivitis (disease)", "acute contagious conjunctivitis") that should be merged during curation.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [1096630](https://pubmed.ncbi.nlm.nih.gov/1096630/) | 1975 | RCT (historical) | American Journal of Ophthalmology | Controlled trial: topical 1% rifampicin ointment vs. tetracycline vs. boric acid for endemic trachoma in Tunisian schoolchildren; rifampicin showed antibacterial activity comparable to tetracycline |
-| [6635446](https://pubmed.ncbi.nlm.nih.gov/6635446/) | 1983 | Review | Reviews of Infectious Diseases | Rifampin is the most active antibiotic against *C. trachomatis* by weight; effective for topical trachoma and male urethral infection, but resistance emerges easily in vitro |
-| [5005929](https://pubmed.ncbi.nlm.nih.gov/5005929/) | 1971 | Review | Annals of Ophthalmology | Early review discussing rifampicin's role in ophthalmic infections |
-| [15228931](https://pubmed.ncbi.nlm.nih.gov/15228931/) | 2004 | Review | Anales de Pediatría | Reviews prevalent bacterial pathogens in conjunctivitis and their antibiotic sensitivity patterns |
-| [19941479](https://pubmed.ncbi.nlm.nih.gov/19941479/) | 2010 | Review | Current Medicinal Chemistry | Discusses neglected bacterial diseases including trachoma; notes rifampin/streptomycin combination use for Buruli ulcer |
-| [33457332](https://pubmed.ncbi.nlm.nih.gov/33457332/) | 2020 | Microbiology/susceptibility survey | Advanced Biomedical Research | Assessed bacterial etiology and antibiotic susceptibility of conjunctivitis isolates in Iran |
-| [21484175](https://pubmed.ncbi.nlm.nih.gov/21484175/) | 2011 | Bacteriologic survey | Journal of Ophthalmic Inflammation and Infection | Characterized bacterial etiologies and antibiotic resistance patterns of conjunctivitis in Nigeria |
-| [21191558](https://pubmed.ncbi.nlm.nih.gov/21191558/) | 2010 | Susceptibility survey | Revista Española de Quimioterapia | Antibiotic susceptibility of *Corynebacterium macginleyi* strains causing conjunctivitis |
-| [8363150](https://pubmed.ncbi.nlm.nih.gov/8363150/) | 1993 | Retrospective microbiologic study | Anales Españoles de Pediatría | Analyzed 50 neonatal conjunctivitis samples; found high antibiotic sensitivity except to penicillin |
-| [14686993](https://pubmed.ncbi.nlm.nih.gov/14686993/) | 2003 | Case report | Clinical Microbiology and Infection | Primary meningococcal conjunctivitis in a child successfully treated with systemic rifampin after topical therapy failed |
+| [1096630](https://pubmed.ncbi.nlm.nih.gov/1096630/) | 1975 | Clinical study | Am J Ophthalmol | Controlled trial in Tunisian schoolchildren with trachoma: 1% tetracycline or 1% rifampicin ointment vs boric acid ointment, twice daily for 10 weeks |
+| [322700](https://pubmed.ncbi.nlm.nih.gov/322700/) | 1977 | Open trial | Br J Ophthalmol | 1% rifampicin vs chloramphenicol ointment in chlamydial eye infection (63 patients); 3 weeks insufficient, 6–7 weeks gave about 90% cure |
+| [5005929](https://pubmed.ncbi.nlm.nih.gov/5005929/) | 1971 | Review | Ann Ophthalmol | General review of rifampicin (no abstract available) |
+| [33457332](https://pubmed.ncbi.nlm.nih.gov/33457332/) | 2020 | Susceptibility survey | Adv Biomed Res | Bacterial causes and antibiotic susceptibility of conjunctivitis isolates in Kashan, Iran |
+| [8363150](https://pubmed.ncbi.nlm.nih.gov/8363150/) | 1993 | Microbiology study | An Esp Pediatr | Neonatal conjunctivitis: 84% of samples culture-positive, mostly staphylococci and streptococci; high sensitivity to most drugs tested |
+| [21191558](https://pubmed.ncbi.nlm.nih.gov/21191558/) | 2010 | In vitro study | Rev Esp Quimioter | Antibiotic susceptibility of *Corynebacterium macginleyi* strains causing conjunctivitis |
+| [30347565](https://pubmed.ncbi.nlm.nih.gov/30347565/) | 2018 | Genotyping/susceptibility study | Zhonghua Yan Ke Za Zhi | Genotyping and susceptibility of *S. aureus* from keratitis or conjunctivitis |
+| [3191080](https://pubmed.ncbi.nlm.nih.gov/3191080/) | 1988 | Case report | Br J Ophthalmol | Marginal corneal abscess in adult chlamydial ophthalmia |
+| [39336466](https://pubmed.ncbi.nlm.nih.gov/39336466/) | 2024 | Case report | Medicina (Kaunas) | Parinaud oculoglandular syndrome with *Bartonella* DNA in cornea and conjunctiva |
+| [1247775](https://pubmed.ncbi.nlm.nih.gov/1247775/) | 1976 | Report | Br Med J | Ocular toxicity due to rifampicin |
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 184977 | Risorine Capsule | Strip of 10 capsules | Not stated |
+| 186328 | Rifamycin 450mg Tablet | Strip of 10 tablets | Not stated |
+| 78081 | Eufacin Inh 450 mg/300 mg Tablet | Strip of 10 tablets | Not stated |
+| 193271 | Rimpin 450mg Capsule | Strip of 10 capsules | Not stated |
+| 143426 | Monocin 500mg Injection | Vial of 2 ml injection | Not stated |
+
+All 20 registrations are valid single-ingredient licences; only five are listed here. The data compiled for this report include oral and injectable forms, and none of the listed registrations is an ophthalmic preparation.
+
+## Cytotoxicity
+
+Not applicable. This section is omitted because rifampicin is an antibacterial, not an antineoplastic drug.
 
 ## Safety Considerations
 
-**Drug Interactions**: Rifampicin has 256 recorded drug-drug interactions in the dataset (source: DDInter), most rated Moderate severity. Notable interacting agents include:
+- **Contraindications flagged by the knowledge graph** (not label text): liver failure and liver disease, hepatitis, porphyria, thrombocytopenia, neutropenia, agranulocytosis, aplastic anaemia and pancytopenia, peripheral neuropathy, diabetes (including diabetic ketoacidosis), gout, gallbladder disease, substance abuse/dependence, and slow acetylator status.
+- **Drug Interactions**: 256 interactions were recorded. The first 20 reviewed are all moderate, including rabeprazole, omeprazole, doxycycline, metformin, pioglitazone, bupropion, aprepitant, morphine, clarithromycin, metronidazole, and several corticosteroids and vitamin D analogues. Rifampicin is a strong CYP and P-gp inducer, which can lower exposure to many co-medications, notably antiretrovirals and hormonal contraceptives.
+- **Ocular safety**: reports of ocular toxicity due to rifampicin exist in the literature (1976).
 
-- Proton pump inhibitors: Omeprazole, Rabeprazole
-- Corticosteroids: Hydrocortisone, Dexamethasone, Betamethasone, Triamcinolone
-- Antidiabetics: Metformin, Pioglitazone, Canagliflozin, Chlorpropamide
-- Antibiotics: Doxycycline, Clarithromycin, Metronidazole
-- Vitamin D analogs: Cholecalciferol, Calcifediol, Calcitriol
-- Others: Bupropion, Aprepitant, Morphine, Picosulfuric acid
-
-This reflects rifampicin's well-known role as a strong CYP450 (and transporter) inducer, which reduces plasma concentrations of many co-administered drugs. Given the large interaction count (256 total), a full interaction screen against the patient's concurrent medications is essential before use in any indication, including conjunctivitis.
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only directly relevant clinical evidence is a single 1975 trial for trachoma (a specific chlamydial conjunctivitis), and the remaining 19 references are largely microbiological surveys, case reports, and mechanism reviews rather than confirmatory treatment studies. No trials have evaluated rifampicin against modern standard-of-care topical antibiotics for general bacterial conjunctivitis.
+The antibacterial rationale is plausible and some older topical studies exist, but there are no registered trials, and the supporting literature is indirect and dated. Established topical antibiotics are available, and use of rifampicin risks resistance selection in TB-endemic settings. The model score alone does not justify advancing.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label warnings and contraindications (currently a blocking data gap — required before any safety pre-assessment)
-- Confirmed mechanism of action documentation from DrugBank
-- A prospective or retrospective comparative study of rifampicin vs. current first-line topical antibiotics specifically for bacterial/chlamydial conjunctivitis
-- Clarification on route of administration (topical vs. systemic) appropriate for an ocular indication, given rifampicin's systemic interaction burden
+- Package insert warnings and contraindications (not available in the data compiled for this report, so safety screening cannot proceed)
+- Detailed mechanism of action data
+- Merging of the duplicate conjunctivitis entries and clarification of the target pathogens (e.g., chlamydial or staphylococcal conjunctivitis)
+- A specific ophthalmic formulation and route strategy, since no ophthalmic product is registered in India
+- Comparative evidence against current first-line topical antibiotics and a resistance-risk assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

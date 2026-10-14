@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Topiroxostat
-parent: Model Prediction Only (L5)
-nav_order: 842
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 849
+evidence_level: L4
 indication_count: 3
 ---
 
 # Topiroxostat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Topiroxostat: From Xanthine Oxidoreductase Inhibition to Renal Hypouricemia (Exercise-Induced AKI Prevention)
+# Topiroxostat: From Hyperuricemia and Gout to Renal Hypouricemia
 
 ## One-Sentence Summary
 
-> Topiroxostat's original indication is not recorded in this evidence pack (not marketed in India, no CDSCO license data available), but it is known as a xanthine oxidoreductase (xanthine oxidase) inhibitor.
-> The TxGNN model predicts it may be relevant to **renal hypouricemia (RHUC1)**,
-> with **0 clinical trials** and **1 preclinical publication** currently supporting this direction.
+Topiroxostat is a xanthine oxidoreductase (XOR) inhibitor originally used to treat hyperuricemia and gout.
+The TxGNN model predicts it may be relevant for **renal hypouricemia**, but the support is thin: **0 clinical trials** and **1 preclinical publication**.
+The mechanistic logic is also counterintuitive, since the drug lowers uric acid in a condition where uric acid is already low.
 
 ---
 
@@ -43,29 +43,35 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no CDSCO license records; original_indications field empty) |
-| Predicted New Indication | Hypouricemia, renal (Renal Hypouricemia Type 1) |
+| Original Indication | Hyperuricemia, gout (approved indication text not available in the India license records) |
+| Predicted New Indication | Hypouricemia, renal |
 | TxGNN Prediction Score | 99.58% |
-| Evidence Level | L4 (single preclinical/mechanistic animal study) |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 6 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (DrugBank MOA field: Data Gap). Based on the supporting literature, however, Topiroxostat is understood to act as a **xanthine oxidoreductase (xanthine oxidase) inhibitor**, a drug class that blocks the terminal steps of purine catabolism (hypoxanthine → xanthine → uric acid).
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Topiroxostat is known as an XOR inhibitor that reduces uric acid production, and its efficacy in hyperuricemia and gout is established.
 
-The predicted indication, renal hypouricemia (RHUC1), is not a condition of *excess* uric acid — it is caused by loss-of-function mutations in the URAT1/SLC22A12 urate transporter, leading to abnormally *low* serum uric acid and a predisposition to exercise-induced acute kidney injury (EIAKI). The supporting study (PMID 34799437) used a high-HPRT-activity Urat1-Uox double knockout mouse model of RHUC1 and found that xanthine oxidoreductase inhibitors suppressed the onset of EIAKI. The proposed mechanism is not uric-acid lowering (uric acid is already low in these patients), but rather **reduction of oxidative purine flux and reactive oxygen species generation** during high-turnover states such as intense exercise, which appears to drive the acute kidney injury.
+Renal hypouricemia is a condition in which serum uric acid is already low, typically from loss of function in the urate transporters URAT1 (SLC22A12) or GLUT9. Further urate lowering is therefore mechanistically counterintuitive. It is not a treatment for low urate itself, and it may even add risk.
 
-This gives a plausible, mechanism-based rationale for TxGNN's high similarity score: Topiroxostat shares the same enzymatic target (xanthine oxidoreductase) as the inhibitors tested in the animal model. However, this rationale currently rests on a **single preclinical mouse study** with no human clinical trial replication, so the mechanistic link — while biologically coherent — remains unconfirmed in patients.
+The only linked publication is a preclinical study in a mouse model of hereditary renal hypouricemia type 1. It suggests XOR inhibitors may suppress exercise-induced acute kidney injury (EIAKI), a known complication of the condition. If the drug has any role, it would be protective against that complication rather than correcting low urate. The high TxGNN score most likely reflects proximity in the knowledge network rather than a true therapeutic rationale.
+
+Two other predictions ranked lower and have no supporting studies:
+- **Partial HPRT deficiency (score 99.25%)**: purine salvage failure causes uric acid overproduction, so XOR inhibition is plausible for the hyperuricemic manifestations.
+- **Lesch-Nyhan syndrome (score 99.09%)**: XOR inhibition could address the metabolic component, but would not be expected to treat the neurological and behavioral features.
+
+Both carry a risk of xanthine accumulation and xanthine nephropathy.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
@@ -73,13 +79,21 @@ Currently no related clinical trials registered
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [34799437](https://pubmed.ncbi.nlm.nih.gov/34799437/) | 2022 | Preclinical (animal model) | Journal of the American Society of Nephrology (JASN) | In a high-HPRT-activity Urat1-Uox double knockout mouse model of hereditary renal hypouricemia type 1 (RHUC1), xanthine oxidoreductase inhibitors suppressed the onset of exercise-induced acute kidney injury (EIAKI), supporting a role for XOR inhibition in preventing this RHUC1 complication. |
+| [34799437](https://pubmed.ncbi.nlm.nih.gov/34799437/) | 2022 | Preclinical | J Am Soc Nephrol | In a new mouse model of hereditary renal hypouricemia type 1 (high-HPRT-activity Urat1-Uox double knockout), XOR inhibitors suppressed the onset of exercise-induced AKI |
 
 ---
 
 ## India Market Information
 
-Topiroxostat is currently not marketed in India — no CDSCO license/registration records are available in this evidence pack.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 215173 | Toxur 20mg Tablet | Strip of 10 tablets | Not stated |
+| 216196 | Topimac 20 Tablet | Strip of 10 tablets | Not stated |
+| 218637 | Topimac 60 Tablet | Strip of 10 tablets | Not stated |
+| 215845 | Topimac 40 Tablet | Strip of 10 tablets | Not stated |
+| 215038 | Topiroxo 40mg Tablet | Strip of 10 tablets | Not stated |
+
+One further registration, Topiroxo 20mg Tablet (215064), is also valid. All 6 registrations are single-ingredient oral products and none is cancelled.
 
 ---
 
@@ -87,7 +101,9 @@ Topiroxostat is currently not marketed in India — no CDSCO license/registratio
 
 Please refer to the package insert for safety information.
 
-*Note: Key warnings, contraindications, and drug-drug interaction data are marked as data gaps in this evidence pack (DG001, flagged as Blocking severity — "cannot proceed to S1 safety pre-assessment" without CDSCO/TFDA label data).*
+Points from the mechanistic analysis worth noting:
+- In renal hypouricemia, further urate lowering may increase risk, notably exercise-induced acute kidney injury.
+- In HPRT-deficiency conditions, XOR inhibition raises hypoxanthine and xanthine levels, which carries a risk of xanthine nephropathy.
 
 ---
 
@@ -96,14 +112,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Evidence is limited to a single preclinical animal study with no clinical trials, registered ICTRP trials, or human data supporting the renal hypouricemia indication. Combined with unresolved MOA data and a **Blocking**-severity safety data gap (no label warnings/contraindications available), there is insufficient evidence to proceed to safety pre-assessment (S1) at this time.
+The only supporting evidence is one indirect preclinical study, with no clinical trials. The mechanism (lowering urate where it is already low) runs counter to the disease biology, so the high TxGNN score should not be read as a therapeutic signal.
 
 **To proceed, the following is needed:**
-- Official product label warnings and contraindications (DG001, Blocking — required before S1 safety pre-assessment)
-- Confirmed mechanism of action from DrugBank or primary literature (DG002)
-- Clinical or human translational evidence for the renal hypouricemia / exercise-induced AKI indication (current evidence is animal-model only)
-- Drug-drug interaction data (currently not found)
-- Confirmation of India market/registration status, since the drug is not currently marketed under CDSCO
+- Package insert warnings and contraindications from the India regulatory records, which currently block safety screening
+- Detailed mechanism of action data (MOA)
+- Confirmatory preclinical or clinical studies on whether XOR inhibition protects against exercise-induced AKI in renal hypouricemia
+- A safety assessment of urate lowering and xanthine nephropathy risk in this population
+- Approved indication text for the registered products
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

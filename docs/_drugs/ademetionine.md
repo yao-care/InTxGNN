@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ademetionine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 27
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ademetionine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,74 +29,67 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Ademetionine: From Hepatic Support to Acne
+# Ademetionine: From an Unspecified Original Indication to Acne
 
 ## One-Sentence Summary
 
-Ademetionine (S-Adenosylmethionine, SAMe) is a naturally occurring compound serving as the body's universal methyl donor, widely used internationally as a pharmaceutical and dietary supplement for liver disease and mood disorders.
-The TxGNN model predicts it may also be effective for **Acne**, with **1 clinical trial** (conducted in a combination supplement context) currently providing supporting evidence.
-Notably, the Rank 2 prediction — **Colonic Neoplasm** — carries substantially stronger evidence (1 clinical trial + 20 publications, Evidence Level L2) and warrants parallel consideration.
-
----
+Ademetionine (S-adenosylmethionine, SAMe) is marketed in India as an oral tablet, but the data compiled for this report do not list an approved indication.
+The TxGNN model predicts it may be effective for **acne**, with a very high score of **99.90%**.
+However, there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available (no local registration; SAMe internationally used for intrahepatic cholestasis and depression) |
+|------|------|
+| Original Indication | Not stated in the data compiled for this report |
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 99.90% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Research Question |
-
----
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 14 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Ademetionine in this Evidence Pack. Based on known information, Ademetionine (SAMe) is the body's principal biological methyl donor, generated through the methionine cycle, and serves as a critical upstream precursor to glutathione — the cell's primary antioxidant defense molecule. In markets where it is approved as a pharmaceutical (e.g., Italy, Germany), SAMe is indicated for intrahepatic cholestasis, depression, and osteoarthritis.
+Currently, detailed mechanism of action data is not available from the source database. Based on general pharmacological knowledge, ademetionine is a methyl donor involved in transmethylation, transsulfuration and polyamine synthesis, and it supports glutathione production.
 
-Acne vulgaris involves two interconnected pathological processes: (1) oxidative stress within sebaceous glands, and (2) pro-inflammatory signaling (IL-1β, TNF-α) triggered by *Cutibacterium acnes*. SAMe's role as a glutathione precursor could theoretically reduce oxidative burden at the skin level, while its documented anti-inflammatory properties may dampen acne-associated cytokine activity. However, this mechanistic rationale is general in nature — it applies broadly to any oxidative or inflammatory condition — and is not acne-specific.
+A plausible but unvalidated link to acne runs through modulation of inflammation, oxidative stress and sebaceous lipid metabolism. The original indication could not be determined from the registration data, so the relationship between the original and new indications cannot be assessed.
 
-The sole supporting clinical trial (NCT05340634) tested a multi-component combination product (Metionac: ALA + NAC + Vitamin B6 + SAMe) in patients with Polycystic Ovary Syndrome (PCOS), a condition commonly manifesting with acne as a secondary feature. Since SAMe was only one of several active antioxidant ingredients, its individual contribution to any observed skin improvement cannot be isolated. This substantially limits the strength of attribution.
+The very high TxGNN score is a computational result only. No trials or publications were found to support it.
 
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT05340634](https://clinicaltrials.gov/study/NCT05340634) | Phase 4 | Completed | 90 | Combination antioxidant supplement (ALA, NAC, Vitamin B6, SAMe) evaluated for metabolic and endocrine improvement in PCOS; acne is a recognised manifestation of PCOS but was not the primary endpoint; SAMe's individual contribution to skin improvement cannot be isolated from other components |
-
----
+Other top-ranked predictions are mostly colonic conditions: colonic neoplasm (99.37%), cecum villous adenoma (99.17%), lipoma of colon (99.17%), rectosigmoid junction neoplasm (99.17%), colonic lymphangioma (99.17%), cecum neuroendocrine tumor G1 (99.15%), cecal disease (99.14%), benign neoplasm of cecum (99.13%) and colon leiomyoma (99.13%). Many of these appear to reflect clustering of colonic disease nodes in the knowledge graph rather than drug-specific signals. The one exception with a biologically plausible rationale is colonic neoplasm, where DNA and histone methylation are relevant to colorectal carcinogenesis. Even there, the direction of effect (protective or tumour-promoting) is uncertain.
 
 ## India Market Information
 
-Ademetionine has no registered products on record in the local market (0 authorizations found). The drug is not currently marketed.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 216212 | Triosam 400 Tablet | Strip of 10 tablets | Not stated |
+| 3638 | Admetral 400mg Tablet | Strip of 10 tablets | Not stated |
+| 200560 | S-Methiwave 400 Tablet | Strip of 10 tablets | Not stated |
+| 150657 | New Adesam 400 Tablet | Strip of 10 tablets | Not stated |
+| 103671 | Heptral 400mg Tablet | Strip of 10 tablets | Not stated |
 
----
+There are 14 valid single-ingredient registrations in total, all oral tablets (200 mg and 400 mg strengths).
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signals** (model-derived, not from label text): hypertensive disorder, hypertension, diabetes mellitus, diabetic ketoacidosis, hyperlipidemia, familial hyperlipidemia.
 
----
+Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Research Question**
+**Decision: Hold**
 
 **Rationale:**
-The sole clinical evidence is a completed Phase 4 trial evaluating a multi-component combination supplement in PCOS patients — a study design that precludes any direct attribution of benefit to SAMe alone. While the antioxidant and anti-inflammatory mechanisms are biologically plausible, they are non-specific and insufficient to support advancement without dedicated SAMe monotherapy data in acne populations.
+The prediction for acne (and for every other ranked disease) is supported only by the TxGNN score, with no clinical trials or literature (Evidence Level L5). The original indication and mechanism data are also missing, and the package insert safety data are unavailable.
 
 **To proceed, the following is needed:**
-- A dedicated clinical study evaluating SAMe as a primary intervention specifically for acne vulgaris (monotherapy or with clearly defined contribution)
-- Mechanistic studies confirming SAMe's direct effect on sebaceous gland oxidative stress and *C. acnes*-induced IL-1β/TNF-α signaling
-- Full safety profile including key warnings, contraindications, and drug interactions (retrieve from package insert PDF or DrugBank API for DB00118)
-- MOA documentation from DrugBank (DB00118) to enable mechanistic linkage analysis
-- Regulatory classification review in India: prescription drug vs. dietary supplement status
-- **Recommended parallel action:** Advance Rank 2 prediction (Colonic Neoplasm, Evidence Level L2) to a separate full evaluation report, as that indication is supported by substantially stronger and more direct evidence
+- Package insert warnings, contraindications and approved indications for the Indian products (a blocking gap for safety screening)
+- Mechanism of action data for ademetionine
+- A literature and trial search for ademetionine/SAMe in acne, and in colonic neoplasia if that direction is pursued
+- Review of the knowledge-graph contraindication signals (hypertension, diabetes, hyperlipidemia) against the target population
+- Drug interaction data (none were found)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,83 +29,82 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Benzoic Acid: From Antifungal Agent to Bronchitis
+# Benzoic Acid: From Fibrosing Skin and Connective Tissue Conditions to Bronchitis
 
 ## One-Sentence Summary
 
-Benzoic acid is a well-known antimicrobial compound with historical use as an antifungal agent, preservative, and respiratory expectorant (via Tincture of Benzoin), with no currently registered drug products in India.
-The TxGNN model predicts it may be effective for **Bronchitis**, with **0 clinical trials** and **2 publications** currently supporting this direction.
-Importantly, neither publication directly establishes benzoic acid's therapeutic activity against bronchitis, and the mechanistic link remains unverified.
-
----
+Benzoic acid is a small organic acid, in India marketed as a single-ingredient topical ointment. The data compiled for this report link it to fibrosing and autoimmune skin conditions such as Peyronie disease, scleroderma and pemphigus.
+The TxGNN model predicts it may be effective for **bronchitis**, but **no clinical trials** and **no relevant publications** support this prediction, so it rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No approved indications registered in India (historically used as antifungal agent and respiratory expectorant) |
+|------|------|
+| Original Indication | Pemphigus, Peyronie disease, penile fibromatosis, balanitis xerotica obliterans, scleroderma, localized scleroderma, systemic sclerosis, dermatomyositis (from the knowledge graph; the Indian licence records contain no indication text) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available. Benzoic acid is known as a preservative and a metabolic intermediate, and the data compiled for this report do not establish how it would act in the original indications or in bronchitis.
 
-Currently, detailed mechanism of action data is not available for benzoic acid. Based on known historical and pharmacological information, benzoic acid is a simple aromatic carboxylic acid with documented antimicrobial and antifungal properties. Tincture of Benzoin (a benzoin resin compound containing benzoic acid derivatives) has been used historically as an inhalant expectorant to relieve coughs and upper airway inflammation, which provides a plausible historical link to respiratory indications such as bronchitis.
+The prediction comes from the TxGNN knowledge-graph model, which scores drug-disease pairs by network proximity. The score is very high (99.98%), but it is a graph-based inference only. The two publications retrieved for bronchitis, a repaglinide review in type 2 diabetes and a soluble epoxide hydrolase inhibitor study in smoke-induced COPD, do not study benzoic acid. They therefore provide no direct support, and no credible mechanistic link between benzoic acid and bronchitis can be drawn from the available data.
 
-The TxGNN prediction likely exploits two indirect graph paths in the knowledge graph: (1) benzoic acid's structural presence as a core scaffold in benzoic acid derivative drugs (e.g., repaglinide, a carbamoylmethyl benzoic acid derivative), and (2) a potential anti-inflammatory/antioxidant pathway suggested by soluble epoxide hydrolase (sEH) inhibitor research in smoke-induced COPD. However, the available literature does not directly confirm that benzoic acid itself possesses sEH-inhibitory activity.
-
-The mechanistic hypothesis — benzoic acid → antimicrobial/anti-inflammatory activity → bronchitis symptom relief — is biologically plausible at the conceptual level but lacks any direct experimental or clinical validation. The prediction should be treated as a hypothesis-generating signal only.
-
----
+By contrast, other predictions on the list are more coherent with the original indications. Palmar fibromatosis, Ledderhose disease and infantile digital fibromatosis share a fibrotic phenotype with Peyronie disease and scleroderma. These are the more biologically plausible directions, though they too have no trial or literature support and are only research questions at this stage.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
+No publication retrieved studies benzoic acid in bronchitis. The two papers below are tangential only.
+
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [22180869](https://pubmed.ncbi.nlm.nih.gov/22180869/) | 2012 | Preclinical/Animal Study | Am J Respir Cell Mol Biol | sEH inhibitors showed anti-inflammatory effects in a rat model of tobacco smoke-induced COPD (which includes bronchitis component); benzoic acid's direct sEH-inhibitory activity is not established |
-| [11577798](https://pubmed.ncbi.nlm.nih.gov/11577798/) | 2001 | Review | Drugs | Review of repaglinide — a carbamoylmethyl benzoic acid derivative — for type 2 diabetes; relevant as structural context only, no direct bronchitis evidence |
-
-> **Note:** Neither publication directly investigates benzoic acid in bronchitis. Relevance is indirect (structural scaffold reference and respiratory disease model). These citations were retrieved by keyword association and do not constitute primary evidence for this repurposing hypothesis.
-
----
+|------|-----|------|------|---------|
+| [11577798](https://pubmed.ncbi.nlm.nih.gov/11577798/) | 2001 | Review | Drugs | Review of repaglinide, a benzoic acid derivative, in type 2 diabetes. It does not study benzoic acid or bronchitis. |
+| [22180869](https://pubmed.ncbi.nlm.nih.gov/22180869/) | 2012 | Preclinical | Am J Respir Cell Mol Biol | Soluble epoxide hydrolase inhibitor in smoke-induced COPD. It does not involve benzoic acid. |
 
 ## India Market Information
 
-Benzoic acid (DrugBank ID: DB03793) has **no registered drug products** in India. It is not marketed as a standalone pharmaceutical agent in India's regulatory database.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 60907 | Dersol BH Ointment | Tube of 30 gm ointment | Not stated |
+| 115674 | Keralin Ointment | Tube of 15 gm ointment | Not stated |
+| 72830 | Exsora Ointment | Tube of 15 gm ointment | Not stated |
 
----
+All three are valid single-ingredient topical products. Topical ointments are not a plausible route for treating bronchitis, so route compatibility with the predicted indication is also unresolved.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction data, key warnings, or contraindication data were available from the data sources queried for this report.
+- **Disease associations flagged in the knowledge graph (not label text):** The knowledge graph links benzoic acid to contraindication-type associations with many conditions. The main groups are:
+  - Liver and kidney disease, including liver failure
+  - Cardiovascular conditions: hypertension, coronary artery disease, heart conduction disease and sudden cardiac arrest
+  - Diabetes and diabetic ketoacidosis
+  - Bleeding disorders such as hemophilia
+  - G6PD deficiency, anemia, and metabolic disorders such as galactosemia and cystinuria
+  - Myasthenia gravis and other neuromuscular junction disease
+  - Gastritis and gallbladder disease
+- **Dry eye note:** Benzoate-type preservatives are used in ophthalmic products and raise an ocular-surface toxicity concern, which argues against the dry eye prediction.
 
----
+These associations come from the graph, not from product labelling, and should be verified against the package inserts. No drug interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence level is L5 (model prediction only, no clinical studies), and neither of the two retrieved publications provides direct evidence that benzoic acid is effective for bronchitis. The mechanistic link is speculative, and benzoic acid has no regulatory approval in India for any indication.
+The bronchitis prediction is supported only by a high model score, with no trials and no literature that study benzoic acid. The mechanism is undefined, and the available topical ointments do not match a respiratory indication.
 
 **To proceed, the following is needed:**
-
-- **MOA verification:** Confirm whether benzoic acid or its metabolites (hippuric acid, benzoyl-CoA) have measurable anti-inflammatory or antimicrobial activity relevant to bronchial epithelium
-- **sEH inhibitory activity assay:** In vitro testing of benzoic acid for soluble epoxide hydrolase inhibition to test the primary mechanistic hypothesis
-- **Safety profiling:** Retrieve CDSCO/full prescribing information and systemic toxicity data (high-dose benzoic acid is associated with irritation, metabolic acidosis in certain populations)
-- **Formulation feasibility:** Assess whether an inhalation or oral formulation of benzoic acid can achieve therapeutic concentrations in the bronchial mucosa without toxicity
-- **Preclinical bronchitis model:** Conduct a focused in vivo study in a lipopolysaccharide (LPS)- or smoke-induced bronchitis animal model before any clinical planning
+- Package insert warnings and contraindications for the three Indian products (currently a blocking gap for safety screening)
+- Mechanism of action data for benzoic acid (for example from DrugBank)
+- Direct preclinical or clinical evidence in bronchitis, or a re-prioritisation toward the fibrosis-related predictions (palmar fibromatosis, Ledderhose disease), which fit the original indications better
+- An assessment of route and formulation compatibility with any proposed new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Flutamide
-parent: Moderate Evidence (L3-L4)
-nav_order: 369
-evidence_level: L3
+parent: Model Prediction Only (L5)
+nav_order: 373
+evidence_level: L5
 indication_count: 10
 ---
 
 # Flutamide
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,114 +29,114 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Flutamide: From Prostate Cancer to Benign Reproductive System Neoplasm
+# Flutamide: From Prostate Cancer to Prostate Cancer/Brain Cancer Susceptibility
 
 ## One-Sentence Summary
 
-Flutamide is a nonsteroidal antiandrogen historically used in combination hormonal therapy for prostate cancer. Among ten TxGNN-predicted indications for this drug, the most credible genuine repurposing signal points to **Benign Reproductive System Neoplasm**, supported by **0 clinical trials** but **19 related publications** (mostly cohort studies on flutamide's effect on benign prostatic tissue). The remaining nine predictions are either confirmatory of the drug's known use or unsupported model artifacts — see the supplementary table at the end of this report.
-
----
+Flutamide is an oral androgen receptor antagonist originally used to treat prostate cancer.
+The TxGNN model's top-ranked prediction is **prostate cancer/brain cancer susceptibility**, but this label appears to be a genetic susceptibility entity rather than a treatable indication, and **no clinical trials or publications** support it.
+The broader category of **male reproductive organ cancer** (rank 6) has **43 registered trials and 20 publications**, but these are almost entirely prostate cancer studies, which is the existing indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Prostate cancer (androgen-deprivation hormonal therapy) — inferred from the evidence pack's own mechanistic rationale; formal MOA/indication record is pending DrugBank verification (Data Gap DG002) |
-| Predicted New Indication | Benign Reproductive System Neoplasm |
+| Original Indication | Prostate cancer (from the knowledge graph; the India licence records list no approved indication text) |
+| Predicted New Indication | Prostate cancer/brain cancer susceptibility |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L3 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold (classified internally as "Research Question") |
-
----
+| Evidence Level | L5 (top-ranked prediction); the best-supported category, male reproductive organ cancer, is graded L1 but mainly reflects the existing indication |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 7 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not yet available in structured form (Data Gap DG002). Based on the mechanistic rationale attached to this evidence pack, Flutamide is a nonsteroidal antiandrogen that competitively blocks the androgen receptor (AR), inhibiting the effect of testosterone/DHT on androgen-dependent tissue. This is the classic mechanism underlying its established role in prostate cancer hormonal therapy (alone or combined with LHRH agonists/castration).
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, flutamide is a nonsteroidal androgen receptor antagonist. Its efficacy in prostate cancer is established, and the literature describes it as a "pure antiandrogen" that blocks androgen action in the prostate.
 
-Benign reproductive system neoplasms — particularly androgen-dependent benign prostatic tissue — share the same underlying dependency on androgen signaling as malignant prostate tissue. Blocking AR activity can shrink androgen-dependent benign prostatic volume, which is mechanistically distinct from, but closely adjacent to, its anticancer use.
+The top-ranked prediction is not a convincing new indication. The prostate cancer component is simply the approved use. The brain cancer susceptibility component has no supporting mechanism, and the label looks like a genetic susceptibility entity rather than a disease that can be treated. The high score most likely reflects closeness to prostate cancer in the knowledge graph.
 
-Supporting literature (e.g., PMID 1722793, 1989458) directly documents flutamide reducing prostate volume, PSA, and testosterone response in benign prostatic hyperplasia (BPH) patients, and histopathology studies (PMID 17128417, 7526970, 9428430) confirm androgen-blockade-induced changes in benign prostatic tissue. However, this evidence is observational/mechanistic rather than randomized-controlled, and no clinical trial has been registered specifically against the broad "benign reproductive system neoplasm" label.
+Several other predictions are also weak. Fibroma of prostate, prostate leiomyoma and benign prostate phyllodes tumor are very rare entities with no trials or literature. Brenner tumor, an ovarian neoplasm, has no known androgen-dependent mechanism. The HIV, simian immunodeficiency virus and feline immunodeficiency predictions have no plausible link to androgen receptor blockade and appear to be graph artifacts.
 
----
+The more interesting signals are in the benign and prevention settings:
+- **Benign reproductive system neoplasm** (rank 4): androgen blockade is plausible for androgen-sensitive benign tumors such as benign prostatic hyperplasia. A 1991 study examined flutamide's effect on prostate volume, PSA and testosterone in such men.
+- **Prostatic intraepithelial neoplasia chemoprevention** (within rank 6): a Phase 2 trial tested flutamide as a preventive agent.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+No clinical trials are registered for the top-ranked prediction. The table below shows the most relevant trials from the male reproductive organ cancer category (rank 6), which is dominated by prostate cancer. Flutamide's role in several of these trials is not confirmed.
 
----
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00006214](https://clinicaltrials.gov/study/NCT00006214) | Phase 2 | Completed | 63 | Randomized chemoprevention trial of flutamide in men with prostatic intraepithelial neoplasia; the most direct flutamide-specific trial and a possible new use (prevention) |
+| [NCT06601205](https://clinicaltrials.gov/study/NCT06601205) | Phase 2/3 | Completed | 125 | Pre-surgical window-of-opportunity trial of finasteride vs low-dose flutamide vs placebo in prostate cancer |
+| [NCT02918968](https://clinicaltrials.gov/study/NCT02918968) | Phase 4 | Completed | 206 | Enzalutamide vs flutamide in castration-resistant prostate cancer after bicalutamide failure |
+| [NCT03507608](https://clinicaltrials.gov/study/NCT03507608) | Early Phase 1 | Completed | 25 | Single pulsed-dose flutamide to induce DNA double-strand breaks in prostate cancer with androgen suppression and brachytherapy; exploratory |
+| [NCT00003645](https://clinicaltrials.gov/study/NCT00003645) | Phase 3 | Terminated | 64 | Adjuvant leuprolide plus flutamide after prostate surgery in high-risk patients; underpowered |
+| [NCT00002597](https://clinicaltrials.gov/study/NCT00002597) | Phase 3 | Completed | 2028 | Radiation therapy with or without antiandrogen therapy (flutamide, goserelin, leuprolide) in locally confined prostate cancer |
+| [NCT00104741](https://clinicaltrials.gov/study/NCT00104741) | Phase 3 | Completed | 378 | Triptorelin plus flutamide with radiotherapy in intermediate-risk localized prostate cancer |
+| [NCT00003734](https://clinicaltrials.gov/study/NCT00003734) | Phase 3 | Unknown | 276 | 4 vs 8 months of triptorelin plus flutamide before radiotherapy in high-risk localized prostate cancer |
+| [NCT00450463](https://clinicaltrials.gov/study/NCT00450463) | Phase 2 | Completed | 64 | PROSTVAC vaccine plus flutamide vs flutamide alone in androgen-insensitive non-metastatic prostate cancer |
+| [NCT00003323](https://clinicaltrials.gov/study/NCT00003323) | Phase 2 | Completed | 101 | Flutamide plus finasteride as potency-sparing hormonal therapy for rising PSA after radiation or prostatectomy |
 
 ## Literature Evidence
 
+No publications are available for the top-ranked prediction. The table below shows the most relevant publications retrieved for the related categories (male reproductive organ cancer and benign reproductive system neoplasm). No randomized trial publications were retrieved.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [1722793](https://pubmed.ncbi.nlm.nih.gov/1722793/) | 1991 | Cohort | Journal of Andrology | Flutamide (750 mg/day, 6 months) correlated with reduced prostate volume, PSA, and testosterone in BPH patients (n=43) |
-| [17128417](https://pubmed.ncbi.nlm.nih.gov/17128417/) | 2007 | Cohort | Histology and Histopathology | Androgen deprivation/antiandrogens induce histopathologic changes in both benign and malignant prostate tissue |
-| [1989458](https://pubmed.ncbi.nlm.nih.gov/1989458/) | 1991 | Cohort | American Journal of Surgical Pathology | LHRH agonist + flutamide combination caused marked atrophy and basal-cell hyperplasia in benign prostatic glands |
-| [7526970](https://pubmed.ncbi.nlm.nih.gov/7526970/) | 1994 | Cohort | Cancer | Preoperative estramustine + flutamide induced morphologic/immunohistochemical changes in radical prostatectomy specimens |
-| [9428430](https://pubmed.ncbi.nlm.nih.gov/9428430/) | 1997 | Cohort | Urologia Internationalis | Hormonal treatment altered neuroendocrine cell patterns in BPH and prostatic carcinoma tissue |
-| [26926093](https://pubmed.ncbi.nlm.nih.gov/26926093/) | 2016 | Review | Pharmacological Research | Review of androgen biotransformation (UGT enzymes) in benign and malignant prostate tissue |
-| [12855748](https://pubmed.ncbi.nlm.nih.gov/12855748/) | 2003 | Review | Molecular Endocrinology | Review of sex-steroid receptor signaling in gonadal tumorigenesis (benign and malignant) |
-| [9500777](https://pubmed.ncbi.nlm.nih.gov/9500777/) | 1998 | Case Report | American Journal of Surgical Pathology | Pseudomyxoma ovarii-like post-therapeutic alteration described after neoadjuvant leuprolide + flutamide |
-| [24615730](https://pubmed.ncbi.nlm.nih.gov/24615730/) | 2014 | Preclinical | The Prostate | Carboxypeptidase-D elevated in prostate cancer; anti-apoptotic activity abolished by combined androgen/prolactin receptor targeting |
-| [15816512](https://pubmed.ncbi.nlm.nih.gov/15816512/) | 2005 | Preclinical | Anticancer Research | Established an androgen/AR-antagonist-responsive benign prostate epithelial cell line |
+| [8252497](https://pubmed.ncbi.nlm.nih.gov/8252497/) | 1993 | Review (mechanism) | Cancer | Mechanism of action and pure antiandrogenic properties of flutamide; combining it with an LHRH agonist gives maximal prostate inhibition |
+| [3071951](https://pubmed.ncbi.nlm.nih.gov/3071951/) | 1988 | Review | Am J Clin Oncol | Rationale for combining a nonsteroidal antiandrogen with an LHRH agonist in prostate cancer |
+| [3285484](https://pubmed.ncbi.nlm.nih.gov/3285484/) | 1988 | Review/clinical | Semin Oncol | Advantages of total androgen blockade in advanced prostate cancer |
+| [1722793](https://pubmed.ncbi.nlm.nih.gov/1722793/) | 1991 | Clinical study | J Androl | Flutamide (750 mg/day) in men with benign prostatic hyperplasia: effects on prostate volume, PSA and testosterone |
+| [1989458](https://pubmed.ncbi.nlm.nih.gov/1989458/) | 1991 | Clinical/histological | Am J Surg Pathol | LHRH agonist plus flutamide pretreatment caused marked atrophy of benign prostate glands in 23 prostatectomies |
+| [24950779](https://pubmed.ncbi.nlm.nih.gov/24950779/) | 2014 | Preclinical and Phase 2 | Cancer Prev Res | Flutamide and tissue biomarkers in women at high risk for ovarian cancer |
+| [8146068](https://pubmed.ncbi.nlm.nih.gov/8146068/) | 1994 | Preclinical (rat) | Prostate | Early flutamide exposure delayed tumor appearance and reduced growth in a rat prostatic tumor model |
+| [20541672](https://pubmed.ncbi.nlm.nih.gov/20541672/) | 2010 | Review | Prog Brain Res | Hormonal therapy of prostate cancer and optimal androgen blockade |
+| [29958919](https://pubmed.ncbi.nlm.nih.gov/29958919/) | 2018 | Preclinical/Review | Reprod Toxicol | Effects of flutamide on cell-cell junctions in the testis, epididymis and prostate |
+| [7576816](https://pubmed.ncbi.nlm.nih.gov/7576816/) | 1995 | Review (toxicology) | Hum Exp Toxicol | Drug-induced Leydig cell hyperplasia and neoplasia in rats, including flutamide |
 
----
+## India Market Information
+
+Seven valid single-ingredient registrations exist. All are 250 mg oral tablets supplied as strips of 10. No approved indication text is recorded for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 34456 | Cytomid 250 Tablet (Cipla Ltd) | Strip of 10 tablets | Not recorded |
+| 225020 | Ticum 250mg Tablet (Neon Laboratories Ltd) | Strip of 10 tablets | Not recorded |
+| 89698 | Flutacare 250mg Tablet (Criticare Laboratories Pvt Ltd) | Strip of 10 tablets | Not recorded |
+| 87899 | Flutide 250mg Tablet (Samarth Life Sciences Pvt Ltd) | Strip of 10 tablets | Not recorded |
+| 89008 | Flutatec 250mg Tablet (United Biotech Pvt Ltd) | Strip of 10 tablets | Not recorded |
 
 ## Cytotoxicity
 
-Flutamide is an antineoplastic agent by original indication and drug class (nonsteroidal antiandrogen used in prostate cancer hormonal therapy).
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted (hormonal) therapy — antiandrogen; not a conventional cytotoxic chemotherapy agent |
+| Cytotoxicity Classification | Hormonal therapy (nonsteroidal antiandrogen), not a conventional cytotoxic agent |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Liver function (see Safety Considerations); please also refer to the package insert |
 | Handling Protection | Please refer to the package insert warnings and precautions |
-
----
 
 ## Safety Considerations
 
-**Drug Interactions**: Flutamide has 285 recorded interactions in the DDI database. Notable **Major**-level interactions include **Dolasetron** and **Cisapride**. Multiple **Moderate**-level interactions are also recorded, including Famotidine, Loperamide, Bisacodyl, Clarithromycin, Palonosetron, Ondansetron, and several laxative agents (e.g., Lactulose, Polyethylene glycol, Sodium sulfate). A **Minor** interaction is recorded with Metronidazole.
+- **Contraindications suggested by the knowledge graph** (disease associations from the knowledge graph, not label text): liver failure, liver disease, gallbladder disease, methemoglobinemia, sulfhemoglobinemia, hyperbilirubinemia (including hereditary forms and Gilbert syndrome), G6PD deficiency, glycogen storage disease, cystinuria, galactosemia, pyruvate dehydrogenase E3 deficiency, and methemoglobinemia due to methemoglobin reductase deficiency.
+- **Hepatotoxicity**: the analysis of the HIV prediction notes a boxed warning for hepatotoxicity, and hepatotoxicity also limits use in benign conditions. This should be confirmed against the package insert.
+- **Drug interactions**: 285 interactions are recorded. Major interactions include **dolasetron** and **cisapride**. Moderate interactions include famotidine, loperamide, bisacodyl, clarithromycin, levofloxacin, ondansetron, palonosetron, naltrexone and obeticholic acid, as well as several laxatives and bowel-preparation agents (picosulfuric acid, polyethylene glycol, sodium sulfate, lactitol, lactulose, castor oil, glycerin). Metronidazole is a minor interaction.
 
-Key warnings and contraindications are not yet available in structured form; please refer to the package insert for this information.
-
----
+Please refer to the package insert for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence for the "Benign Reproductive System Neoplasm" indication is limited to observational/mechanistic literature (L3, S2 "Research Question") with zero registered clinical trials directly targeting this indication category. Compounding this, Flutamide is currently **not marketed in India** (0 registrations), and core drug-level safety data (TFDA/local label warnings and contraindications) remains a **Blocking** data gap (DG001).
+The top-ranked prediction, prostate cancer/brain cancer susceptibility, has no trials or literature and is not a treatable indication. The trial-rich category of male reproductive organ cancer mostly represents flutamide's existing prostate cancer use, not a new one. The nearest genuine repurposing signals are prostatic intraepithelial neoplasia chemoprevention (NCT00006214) and androgen-sensitive benign prostate conditions, both based on small, older studies. Flutamide's hepatotoxicity and the many drug interactions add further caution.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism-of-action and drug classification data via DrugBank API (DG002)
-- Local package insert warnings/contraindications (DG001 — currently blocking safety evaluation)
-- A prospective or retrospective study specifically evaluating flutamide in a defined benign reproductive neoplasm population (rather than incidental BPH findings from prostate cancer trials)
-- Regulatory pathway assessment, since the drug has no existing market authorization in India
-
----
-
-## Other TxGNN-Predicted Indications (Same Drug, Lower Priority)
-
-This evidence pack scored ten candidate indications for Flutamide. Only two others carry any supporting evidence; the rest are unsupported model artifacts.
-
-| Rank | Disease | Score | Evidence Level | Recommendation | Note |
-|------|---------|-------|-----------------|-----------------|------|
-| 1 | Prostate cancer/brain cancer susceptibility | 99.98% | L5 | Hold | Anomalous combined disease label; no biological hypothesis, no trials/literature |
-| 2 | Fibroma of prostate | 99.98% | L5 | Hold | Theoretical only; no supporting evidence |
-| 3 | Brenner tumor | 99.98% | L4 | Hold | 2 literature hits, but both are unrelated prostate-cancer papers (embedding noise) |
-| 4 | **Benign reproductive system neoplasm** | 99.98% | **L3** | **Research Question** | **Primary candidate — see main report above** |
-| 5 | Prostate leiomyoma | 99.98% | L5 | Hold | Theoretical only; no supporting evidence |
-| 6 | Male reproductive organ cancer | 99.92% | L1 | Proceed with Guardrails | Highest evidence level (50 trials, 20 papers), but overlaps with flutamide's already-approved prostate cancer use — confirmatory, not a new indication |
-| 7 | Benign prostate phyllodes tumor | 99.98% | L5 | Hold | No supporting evidence |
-| 8 | HIV infectious disease | 99.92% | L5 | Hold | No known mechanistic link; no evidence |
-| 9 | Simian immunodeficiency virus infection | 99.86% | L5 | Hold | Veterinary/model-organism disease; graph-adjacency artifact of HIV entry |
-| 10 | Feline acquired immunodeficiency syndrome | 99.86% | L5 | Hold | Veterinary indication; not applicable to human drug development |
+- Package insert warnings and contraindications (a blocking data gap for safety screening), including hepatotoxicity monitoring requirements
+- Detailed mechanism of action data
+- Verification of flutamide's specific role and results in the Phase 3 hormonal therapy trials, and the published outcomes of the Phase 2 chemoprevention trial NCT00006214
+- A clearly defined, treatable target indication (for example prostatic intraepithelial neoplasia or benign prostatic conditions) with a comparison against established alternatives such as 5-alpha-reductase inhibitors and alpha-blockers
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Colistimethate
 parent: Model Prediction Only (L5)
-nav_order: 208
+nav_order: 209
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Colistimethate: From Gram-Negative Bacterial Infections to Osteoarthritis
+# Colistimethate: From Bacterial Infection to Osteoarthritis
 
 ## One-Sentence Summary
 
-Colistimethate (colistin/polymyxin E prodrug) is a cationic polypeptide antibiotic historically used against multidrug-resistant Gram-negative bacterial infections. The TxGNN model predicts it may be effective for **Osteoarthritis**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it rests entirely on knowledge-graph embedding similarity, with no mechanistic or clinical corroboration found.
+Colistimethate is a polymyxin antibiotic (a prodrug of colistin) that is marketed in India as an injectable product.
+The TxGNN model predicts it may be effective for **osteoarthritis**, but **no clinical trials and no publications** currently support this prediction.
+This is a model-only signal with no biological rationale identified.
 
 ---
 
@@ -41,23 +43,25 @@ Colistimethate (colistin/polymyxin E prodrug) is a cationic polypeptide antibiot
 
 | Item | Content |
 |------|------|
-| Original Indication | Multidrug-resistant Gram-negative bacterial infections (based on known pharmacological classification; no India/Taiwan regulatory license record available) |
+| Original Indication | Not stated in the registration data compiled for this report |
 | Predicted New Indication | Osteoarthritis |
 | TxGNN Prediction Score | 97.78% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this candidate ([Data Gap] in the evidence pack). Based on known pharmacological information, colistimethate is a prodrug of colistin, a cationic polypeptide antibiotic that binds lipopolysaccharide (LPS) on the outer membrane of Gram-negative bacteria and disrupts membrane integrity to achieve bactericidal effect. This is a purely antibacterial mechanism.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, colistimethate is a polymyxin antibiotic and a prodrug of colistin. It disrupts the outer membrane of Gram-negative bacteria, and its established use is in Gram-negative infections.
 
-Osteoarthritis pathology is driven by cartilage degeneration and mechanical wear, with no established antimicrobial or LPS-related component in its core disease process. The evidence pack's own repurposing rationale for this candidate explicitly states there is **no known molecular connection** between colistimethate's mechanism and osteoarthritis, and that the TxGNN score reflects only knowledge-graph embedding similarity rather than a validated biological link.
+No known pathway connects this antibacterial action to the pathophysiology of osteoarthritis (cartilage degradation and inflammation). The high TxGNN score appears to be a graph-based prediction only, likely reflecting network proximity to other arthritis-related drugs rather than a biological rationale.
 
-Given the absence of MOA confirmation, clinical trials, and literature, this prediction should be treated as a hypothesis-generation signal only, not as evidence of therapeutic plausibility. The same caveat applies to the other 9 predicted indications in this evidence pack (rheumatoid arthritis, osteoarthritis susceptibility, gout, pseudoachondroplasia, hepatic porphyria, brachyolmia, primitive portal vein thrombosis, hepatopulmonary syndrome, hepatoportal sclerosis) — all are scored L5/S0 with no corroborating mechanistic, clinical, or literature evidence.
+Systemic use also carries nephrotoxicity and neurotoxicity risks. These are unfavourable for a chronic, non-infectious condition such as osteoarthritis.
+
+Other top-ranked predictions show the same pattern. These include rheumatoid arthritis (97.48%), osteoarthritis susceptibility (97.41%), gout (96.85%), pseudoachondroplasia (96.74%), hepatic porphyria (96.71%), brachyolmia (96.40%), and three hepatic vascular conditions (primitive portal vein thrombosis, hepatopulmonary syndrome and hepatoportal sclerosis, each 96.27%). None has any identified mechanistic support, and the three hepatic vascular conditions share an identical score, suggesting a graph-neighbourhood artefact.
 
 ---
 
@@ -73,14 +77,28 @@ Currently no related literature available.
 
 ---
 
+## India Market Information
+
+Colistimethate has 20 valid single-ingredient registrations, all injectable (vials). Approved indication text is not recorded for any of them. Five representative authorizations:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 111319 | Ibicolist 4.5MIU Injection | Vial of 1 injection | Not recorded |
+| 46540 | Colifen 2 MIU Injection | Vial of 1 injection | Not recorded |
+| 13915 | Acostin 3Million IU Injection (Sun Pharmaceutical Industries Ltd) | Vial of 1 injection | Not recorded |
+| 204939 | Sudostar 3MIU Injection (Lupin Ltd) | Vial of 1 injection | Not recorded |
+| 243851 | Xylistin 1MIU Injection (Cipla Ltd) | Vial of 1 injection | Not recorded |
+
+---
+
 ## Safety Considerations
 
-**Drug Interactions** (33 total interactions on record; major examples below):
+- **Drug Interactions**: 33 interactions were identified, of which the main ones are listed below.
+  - **Major**: Kanamycin, Neomycin and Streptomycin (other aminoglycosides, with additive nephrotoxicity and neurotoxicity as a likely concern); Deferasirox; and iodinated contrast agents (Diatrizoate, Iodipamide, Iodixanol, Iohexol, Iopamidol, Iopromide, Iothalamic acid, Ioversol, Ioxilan).
+  - **Moderate**: Mesalazine, Balsalazide, Olsalazine, Sulfasalazine, Picosulfuric acid, Exenatide and Vancomycin.
+- **Toxicity profile**: Systemic use is associated with nephrotoxicity and neurotoxicity, which is a major barrier for any chronic non-infectious use.
 
-- **Major risk (nephrotoxicity/neurotoxicity synergy)**: Kanamycin, Neomycin, Streptomycin (concurrent aminoglycosides); Deferasirox; iodinated contrast media — Diatrizoate, Iodipamide, Iodixanol, Iohexol, Iopamidol, Iopromide, Iothalamic acid, Ioversol, Ioxilan (increased nephrotoxicity risk with contrast agents)
-- **Moderate risk**: Mesalazine, Balsalazide, Olsalazine, Sulfasalazine (aminosalicylates), Vancomycin, Exenatide, Picosulfuric acid
-
-Detailed key warnings and contraindications (e.g., TFDA/local label warnings) are not currently available in this evidence pack — this is flagged as a **Blocking** data gap (DG001) that prevents completion of the S1 safety pre-screen.
+For other warnings and contraindications, please refer to the package insert.
 
 ---
 
@@ -89,13 +107,14 @@ Detailed key warnings and contraindications (e.g., TFDA/local label warnings) ar
 **Decision: Hold**
 
 **Rationale:**
-This candidate carries only an L5 (model-prediction-only) evidence level with an S0 decision stage — there are zero supporting clinical trials or publications, and the candidate's own mechanistic rationale explicitly finds no biological connection between colistimethate's antibacterial mode of action and osteoarthritis. A Blocking-severity data gap (missing label warnings/contraindications) also prevents any safety pre-screen from being completed.
+The prediction rests only on a graph-based model score, with no clinical trials, no literature and no plausible mechanism. Together with the known nephrotoxicity and neurotoxicity of systemic colistimethate, the benefit-risk balance for osteoarthritis is unfavourable.
 
 **To proceed, the following is needed:**
-- TFDA/local product label (warnings, contraindications) — required before any S1 safety screening (DG001, Blocking)
-- Confirmed mechanism of action data via DrugBank or primary literature (DG002, High)
-- At minimum, preclinical/mechanistic studies linking colistin-class antibiotics to osteoarthritis pathology before further investment
-- Ongoing monitoring for any emerging clinical trial or literature evidence for this drug-disease pair
+- Mechanism of action data and preclinical evidence linking colistimethate to cartilage or joint inflammation pathways
+- Package insert warnings and contraindications from the India regulatory source, which are needed for safety screening
+- Approved indication text for the registered products
+- Assessment of route compatibility, since the drug is available only as an injectable and the predicted indication would need a suitable route (for example intra-articular) and formulation
+- Any supporting clinical or preclinical studies before reconsidering the decision
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

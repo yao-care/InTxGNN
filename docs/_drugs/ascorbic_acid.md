@@ -29,37 +29,34 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ascorbic Acid: From Vitamin C Deficiency to Non-Syndromic Esophageal Malformation
+# Ascorbic Acid: From Ascorbic Acid Deficiency (Scurvy) to Non-syndromic Esophageal Malformation
 
 ## One-Sentence Summary
 
-Ascorbic acid (Vitamin C) is an essential micronutrient whose best-established clinical role is in preventing and treating vitamin C deficiency (scurvy), with widespread use as a nutritional supplement worldwide.
-The TxGNN model predicts it may be effective for **Non-Syndromic Esophageal Malformation**, carrying a prediction score of 99.96%;
-however, this direction is currently supported by **0 clinical trials** and **0 publications**, placing it at the lowest evidence level (L5).
+Ascorbic acid (vitamin C) is originally used to prevent and treat vitamin C deficiency and scurvy.
+The TxGNN model predicts it may be effective for **non-syndromic esophageal malformation**, but this is a model prediction only, with **no clinical trials** and **no publications** currently supporting it.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Vitamin C deficiency / nutritional supplementation (no India market registration data available) |
-| Predicted New Indication | Non-Syndromic Esophageal Malformation |
+|------|------|
+| Original Indication | Ascorbic acid deficiency; scurvy |
+| Predicted New Indication | Non-syndromic esophageal malformation |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 — Model prediction only; no supporting studies of any kind |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for ascorbic acid is unavailable in this evidence pack. Based on established pharmacology, ascorbic acid (Vitamin C) is an essential water-soluble micronutrient that acts as a cofactor for prolyl and lysyl hydroxylases — enzymes critical to collagen biosynthesis and structural stabilization. It also functions as a potent antioxidant, donating electrons to neutralize reactive oxygen species, and participates in catecholamine synthesis, iron absorption enhancement, and epigenetic regulation via TET enzyme activity.
+Currently, detailed mechanism of action data is not available. Based on known information, ascorbic acid is a single-ingredient vitamin. Its efficacy in correcting vitamin C deficiency and scurvy is well established. It is also known as an antioxidant and as a cofactor in collagen synthesis.
 
-The TxGNN model's predicted connection to non-syndromic esophageal malformation most likely runs through the pathway of "collagen synthesis → esophageal structural development." In theory, vitamin C is required for adequate collagen crosslinking, which contributes to the mechanical integrity of esophageal tissue walls. A speculative extension of this reasoning might suggest that severe vitamin C deficiency during embryogenesis could impair normal mesenchymal tissue formation.
-
-However, non-syndromic esophageal malformations (including esophageal atresia and tracheoesophageal fistula) are congenital structural defects determined during early embryogenesis, typically arising from disruptions in foregut patterning during weeks 4–6 of gestation. These are not conditions that respond to post-developmental nutritional supplementation, and no epidemiological data links maternal vitamin C deficiency to congenital esophageal anomalies. The mechanistic rationale is highly indirect and insufficient to support further development at this stage.
+Non-syndromic esophageal malformation is a structural congenital defect that arises during embryonic development. No plausible mechanism has been identified by which ascorbic acid could correct or treat such a defect. The very high score (99.96%) reflects how the model links this drug to the disease, not biological or clinical support. The reliability of this prediction is therefore low, and it should be treated only as a hypothesis for screening.
 
 ---
 
@@ -77,28 +74,34 @@ Currently no related literature available.
 
 ## India Market Information
 
-Ascorbic acid currently holds **no drug registrations** in the India market according to available CDSCO data. This likely represents a data gap rather than true unavailability — ascorbic acid is one of the most widely manufactured and distributed generic pharmaceutical compounds globally, available in oral tablet, injectable, effervescent, and chewable formulations in virtually every country.
+Ascorbic acid is widely marketed in India as a single-ingredient product. There are 20 valid registrations, none cancelled. Dosage forms include injections, chewable tablets and oral drops. The data compiled for this report do not include approved indication text. The five main authorizations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| Registration No. 246648 | Zascor Chewable Tablet Lemon & Honey Sugar Free | Chewable tablet (strip of 15) | Franco-Indian Pharmaceuticals Pvt Ltd |
+| Registration No. 242077 | W-Vit-Plus Injection Combipack | Injection (box of 1) | Woriox Pharma Private Limited |
+| Registration No. 246805 | Zincee Chewable Tablet | Chewable tablet (strip of 20) | Zydus Healthcare Limited |
+| Registration No. 203069 | Scornix Injection | Injection (vial of 6 ml) | Nixi Laboratories Private Limited |
+| Registration No. 24614 | Ascorcee 1500mg Injection | Injection (vial of 1) | Scotmed Care Pvt Ltd |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions** (25 total interactions identified; moderate-level interactions listed first):
+- **Disease associations from the knowledge graph (not label text):** The TxGNN knowledge graph links ascorbic acid with contraindication relationships for several conditions. Examples include kidney disease, anuria, nephrocalcinosis, primary hyperoxaluria, hereditary hemochromatosis, sickle cell anemia, diabetes mellitus, peptic ulcer disease, liver disease, and hypercalcemia. These should be confirmed against the official package insert.
+- **Drug Interactions:** 25 interactions were recorded in total. The moderate-level interactions among those listed are:
+  - Amphetamine
+  - Dextroamphetamine
+  - Lisdexamfetamine
+  - Metamfetamine
+  - Benzphetamine
+  - Aluminum hydroxide
+  - Bortezomib
+  - Deferoxamine
 
-| Interacting Drug | Severity | Notes |
-|-----------------|----------|-------|
-| Amphetamine | Moderate | Ascorbic acid acidifies urine, reducing renal tubular reabsorption of amphetamines and lowering their effect |
-| Aluminum hydroxide | Moderate | May reduce gastrointestinal absorption of ascorbic acid |
-| Benzphetamine | Moderate | Same urinary acidification mechanism as amphetamine |
-| Bortezomib | Moderate | Vitamin C's antioxidant activity may theoretically diminish bortezomib's proteasome-inhibitory efficacy; concurrent use debated in oncology |
-| Deferoxamine | Moderate | High-dose vitamin C may enhance iron mobilization and increase deferoxamine-related toxicity in iron-overloaded patients |
-| Dextroamphetamine | Moderate | Urinary acidification reduces dextroamphetamine reabsorption |
-| Lisdexamfetamine | Moderate | Same mechanism as other amphetamine interactions |
-| Metamfetamine | Moderate | Urinary acidification effect |
+  Minor interactions include paclitaxel, cisplatin, doxorubicin, ethinylestradiol, and pseudoephedrine.
 
-Minor interactions also identified with: Paclitaxel, Cisplatin, Doxorubicin, Doxorubicin (liposomal), Pseudoephedrine, Ephedrine, Ephedrine (nasal), Ethinylestradiol, Flecainide, Fluphenazine, Indinavir, Mexiletine.
-
-> Full prescribing information including contraindications and boxed warnings should be obtained from the CDSCO package insert, as this data was not available in the current evidence pack.
+Please refer to the package insert for complete warnings and contraindications.
 
 ---
 
@@ -107,15 +110,18 @@ Minor interactions also identified with: Paclitaxel, Cisplatin, Doxorubicin, Dox
 **Decision: Hold**
 
 **Rationale:**
-Non-syndromic esophageal malformation is a congenital embryonic structural defect with no established or plausible mechanistic link to ascorbic acid. Despite a high TxGNN model score (99.96%), the complete absence of any supporting clinical trials or published literature results in an L5 evidence classification — the lowest tier — making further investment premature.
+The prediction for non-syndromic esophageal malformation rests solely on the model score. There are no clinical trials, no literature, and no plausible mechanism for correcting a congenital structural defect with ascorbic acid.
+
+**Other predictions for this drug:** Several other predicted indications have more supporting evidence and may be better candidates.
+- **Vitamin deficiency disorder:** L3, Proceed with Guardrails. This is close to an on-label extension of the original use.
+- **Perinatal disease:** L3, a small trial in neonatal hypoxic-ischemic encephalopathy.
+- **Injury:** L2, with Phase 2 trials in sepsis- and COVID-19-related lung injury.
 
 **To proceed, the following is needed:**
-
-- Establish a biologically plausible mechanistic hypothesis: specifically, whether maternal vitamin C deficiency during early embryogenesis (weeks 4–6) is associated with foregut patterning defects in animal models
-- Search medical literature and birth defect registries for any epidemiological signal linking maternal ascorbic acid status to congenital esophageal anomalies
-- Retrieve complete MOA data from DrugBank (DB00126) to support or refute any mechanistic hypothesis
-- Obtain CDSCO prescribing information to fill the safety data gap (warnings, contraindications)
-- Consider whether a zebrafish or rodent developmental model study could generate hypothesis-generating preclinical data before committing further resources
+- Mechanism of action data for ascorbic acid
+- Package insert warnings and contraindications from the India Pharma source
+- A biological rationale connecting ascorbic acid to esophageal development, if this indication is to be pursued
+- Prioritization of better-supported indications before any further work on this one
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

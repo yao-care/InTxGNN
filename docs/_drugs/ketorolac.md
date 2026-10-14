@@ -2,7 +2,7 @@
 layout: default
 title: Ketorolac
 parent: High Evidence (L1-L2)
-nav_order: 460
+nav_order: 464
 evidence_level: L1
 indication_count: 3
 ---
@@ -29,112 +29,99 @@ Evidence Level: **L1** | Predicted Indications: **3**
 
 </div>
 
-# Ketorolac: From Acute Pain Management to Headache Disorder
+# Ketorolac: From Allergic Conjunctivitis (Atopic, Papillary, Vernal) to Headache Disorder
 
 ## One-Sentence Summary
 
-Ketorolac is a well-established non-steroidal anti-inflammatory drug (NSAID) widely used globally for acute pain management, including postoperative and musculoskeletal pain.
-The TxGNN model predicts it may be effective for **Headache Disorder** (including migraine and tension-type headache),
-with **36 clinical trials** and **19 publications** currently supporting this direction — many of which test ketorolac as the primary or reference intervention.
-
----
+Ketorolac is a non-steroidal anti-inflammatory drug (NSAID). The original indications in the knowledge base are atopic, papillary and vernal conjunctivitis.
+The TxGNN model predicts it may be effective for **headache disorder** (mainly migraine and tension-type headache),
+with **17 clinical trials** and **19 publications** currently supporting this direction, including several systematic reviews and meta-analyses.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Acute pain management (not currently registered in India) |
-| Predicted New Indication | Headache Disorder (migraine, tension-type headache) |
+|------|------|
+| Original Indication | Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis (from the knowledge base; no approved indication text is available in the India licence records) |
+| Predicted New Indication | Headache disorder |
 | TxGNN Prediction Score | 99.43% |
 | Evidence Level | L1 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the evidence pack. Based on well-established pharmacological knowledge, Ketorolac is a potent NSAID belonging to the pyrrolizine carboxylic acid class. It exerts its analgesic and anti-inflammatory effects primarily through non-selective inhibition of cyclooxygenase enzymes (COX-1 and COX-2), which reduces the biosynthesis of prostaglandins, thromboxanes, and prostacyclins. This mechanism underlies its efficacy across a broad range of pain conditions.
+Detailed mechanism-of-action data is not currently available in the data compiled for this report. Ketorolac is a non-selective COX-1/COX-2 inhibitor (an NSAID) that reduces prostaglandin synthesis. This is a well-established mechanism for the drug class.
 
-The connection to headache disorder is mechanistically sound. Prostaglandins — particularly PGE2 — play a well-documented role in sensitising trigeminal pain pathways, promoting neurogenic inflammation, and triggering vasodilation, all of which contribute to migraine attacks and tension-type headaches. By suppressing prostaglandin synthesis at the site of inflammation, Ketorolac can interrupt these pain cascades without acting on opioid receptors, making it an attractive non-opioid analgesic option in emergency and clinical headache management.
+Its original ocular indications are inflammatory conditions of the eye surface, where reducing prostaglandins eases inflammation and discomfort. Prostaglandins also contribute to peripheral and central sensitization and neurogenic inflammation in migraine and tension-type headache. COX inhibition therefore offers a plausible analgesic mechanism for headache, and the same anti-inflammatory action explains why the model links the two conditions.
 
-The clinical evidence further validates this prediction. Multiple Phase 3 and Phase 4 randomised controlled trials have specifically tested Ketorolac as a first-line or comparator treatment for acute migraine and tension-type headache in emergency department settings — across both adult and paediatric populations. Systematic reviews by major headache societies (American Headache Society, Canadian Headache Society) have explicitly included Ketorolac in their evidence-based treatment algorithms, cementing its role as a clinically recognised intervention in headache disorders.
-
----
+Clinical practice already reflects this link: injectable ketorolac is widely used in emergency departments for acute migraine, and several trials have tested intravenous and intranasal formulations.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT01267864](https://clinicaltrials.gov/study/NCT01267864) | Phase 4 | Completed | 330 | Three-arm RCT comparing IV valproate, IV metoclopramide, and IV ketorolac for acute migraine in the ED |
-| [NCT01011673](https://clinicaltrials.gov/study/NCT01011673) | Phase 4 | Completed | 123 | Ketorolac vs metoclopramide/diphenhydramine for acute tension-type headache in the ED |
-| [NCT05641363](https://clinicaltrials.gov/study/NCT05641363) | Phase 3 | Completed | 171 | Dose-comparison RCT of ketorolac in children with acute pain (including headache) |
-| [NCT02358681](https://clinicaltrials.gov/study/NCT02358681) | Phase 3 | Completed | 59 | Intranasal vs intravenous ketorolac for migraine in paediatric patients; non-inferiority design |
-| [NCT00483717](https://clinicaltrials.gov/study/NCT00483717) | Phase 2 | Completed | 173 | Double-blind, placebo-controlled trial of intranasal ketorolac for acute migraine treatment |
-| [NCT01807234](https://clinicaltrials.gov/study/NCT01807234) | Phase 4 | Completed | 72 | Ketorolac nasal spray vs sumatriptan nasal spray vs placebo for acute migraine abortive therapy |
-| [NCT01596166](https://clinicaltrials.gov/study/NCT01596166) | Phase 4 | Completed | 56 | Combination IV ketorolac + metoclopramide for paediatric migraine in the ED |
-| [NCT03221569](https://clinicaltrials.gov/study/NCT03221569) | Phase 4 | Unknown | 60 | Sub-dissociative ketamine vs ketorolac for acute tension-type headache in the ED |
-| [NCT02664116](https://clinicaltrials.gov/study/NCT02664116) | Phase 4 | Unknown | 40 | IM ketorolac vs oral diclofenac potassium powder for severe migraine |
-| [NCT06083571](https://clinicaltrials.gov/study/NCT06083571) | Phase 2 | Terminated | 41 | Intranasal ketorolac + oral adjuncts vs IV ketorolac for paediatric migraine; non-inferiority design |
+Of the 17 trials in the data, the 10 most relevant are listed below. Ketorolac is the direct intervention in some and an active comparator or background therapy in others.
 
----
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT01807234](https://clinicaltrials.gov/study/NCT01807234) | Phase 4 | Completed | 72 | Ketorolac nasal spray vs sumatriptan nasal spray vs placebo for acute migraine |
+| [NCT00483717](https://clinicaltrials.gov/study/NCT00483717) | Phase 2 | Completed | 173 | Double-blind, placebo-controlled study of intranasal ketorolac for acute migraine |
+| [NCT01596166](https://clinicaltrials.gov/study/NCT01596166) | Phase 4 | Completed | 56 | IV ketorolac plus metoclopramide for pediatric migraine in the emergency department |
+| [NCT02358681](https://clinicaltrials.gov/study/NCT02358681) | Phase 3 | Completed | 59 | Intranasal vs intravenous ketorolac for pediatric migraine (non-inferiority) |
+| [NCT01267864](https://clinicaltrials.gov/study/NCT01267864) | Phase 4 | Completed | 330 | IV valproate vs IV metoclopramide vs IV ketorolac for acute migraine |
+| [NCT01011673](https://clinicaltrials.gov/study/NCT01011673) | Phase 4 | Completed | 123 | Metoclopramide/diphenhydramine vs ketorolac alone for tension-type headache |
+| [NCT03221569](https://clinicaltrials.gov/study/NCT03221569) | Phase 4 | Unknown | 60 | Ketamine vs ketorolac for tension-type headache |
+| [NCT06083571](https://clinicaltrials.gov/study/NCT06083571) | Phase 2 | Terminated | 41 | Intranasal ketorolac combination vs IV ketorolac regimen in pediatric migraine |
+| [NCT03081416](https://clinicaltrials.gov/study/NCT03081416) | Phase 3 | Completed | 80 | Intranasal ketamine vs standard therapy for primary headache in the emergency department |
+| [NCT06729047](https://clinicaltrials.gov/study/NCT06729047) | Phase 1/2 | Not yet recruiting | 330 | Neostigmine plus atropine vs ketorolac for post-dural puncture headache |
+
+Several other trials, including withdrawn studies with no enrollment, provide no usable efficacy data and are omitted.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [35138658](https://pubmed.ncbi.nlm.nih.gov/35138658/) | 2022 | Systematic Review & Meta-analysis | Academic Emergency Medicine | Evaluated efficacy of parenteral ketorolac specifically for acute migraine; pooled analysis of RCTs |
-| [39674934](https://pubmed.ncbi.nlm.nih.gov/39674934/) | 2025 | Systematic Review & Bayesian Network Meta-analysis | Annals of Emergency Medicine | Compared pharmacological therapies for migraine in the ED; assessed relative efficacy and safety including ketorolac |
-| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Clinical Guideline | Headache | 2025 AHS guideline update on parenteral pharmacotherapies for acute migraine management in the ED |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Evidence Assessment (Review) | Headache | American Headache Society updated evidence assessment of acute migraine pharmacotherapies |
-| [24875925](https://pubmed.ncbi.nlm.nih.gov/24875925/) | 2015 | Systematic Review | Cephalalgia | Canadian Headache Society systematic review and recommendations for migraine pain treatment in emergency settings |
-| [35670115](https://pubmed.ncbi.nlm.nih.gov/35670115/) | 2022 | RCT | Headache | RCT comparing IV metoclopramide alone vs metoclopramide + ketorolac in paediatric ED migraine; assessed efficacy and safety |
-| [30783794](https://pubmed.ncbi.nlm.nih.gov/30783794/) | 2019 | RCT | Neurological Sciences | Prospective double-blind RCT comparing dexamethasone, metoclopramide, ketorolac, and chlorpromazine for migraine pain and recurrence |
-| [37849443](https://pubmed.ncbi.nlm.nih.gov/37849443/) | 2024 | Systematic Review & Meta-analysis | Advances in Clinical and Experimental Medicine | Updated meta-analysis comparing IV ketorolac vs metoclopramide in adult migraine; synthesised recent trial data |
-| [9484382](https://pubmed.ncbi.nlm.nih.gov/9484382/) | 1998 | RCT | Neurology | Three-arm controlled trial of IM ketorolac vs meperidine/promethazine vs placebo for acute tension-type headache |
-| [1514724](https://pubmed.ncbi.nlm.nih.gov/1514724/) | 1992 | RCT | Annals of Emergency Medicine | Early RCT comparing IM ketorolac vs meperidine/hydroxyzine for acute migraine headache in the ED |
-
----
+|------|-----|------|------|---------|
+| [35138658](https://pubmed.ncbi.nlm.nih.gov/35138658/) | 2022 | Systematic review / meta-analysis | Acad Emerg Med | Efficacy of parenteral ketorolac in acute migraine attacks |
+| [37849443](https://pubmed.ncbi.nlm.nih.gov/37849443/) | 2024 | Systematic review / meta-analysis | Adv Clin Exp Med | IV ketorolac vs metoclopramide in adult migraine |
+| [39674934](https://pubmed.ncbi.nlm.nih.gov/39674934/) | 2025 | Systematic review / network meta-analysis | Ann Emerg Med | Comparative effectiveness and safety of migraine therapies in the emergency department |
+| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Guideline | Headache | American Headache Society update on parenteral drugs for acute migraine in the emergency department |
+| [23298250](https://pubmed.ncbi.nlm.nih.gov/23298250/) | 2013 | Systematic review | Headache | Effectiveness of parenteral ketorolac in acute migraine |
+| [35670115](https://pubmed.ncbi.nlm.nih.gov/35670115/) | 2022 | RCT | Headache | Adding IV ketorolac to metoclopramide in children with migraine in the emergency department |
+| [30783794](https://pubmed.ncbi.nlm.nih.gov/30783794/) | 2019 | RCT | Neurol Sci | IV dexamethasone, metoclopramide, ketorolac and chlorpromazine compared for migraine pain relief and recurrence |
+| [24875925](https://pubmed.ncbi.nlm.nih.gov/24875925/) | 2015 | Systematic review / recommendations | Cephalalgia | Canadian Headache Society recommendations for migraine in emergency settings |
+| [24433525](https://pubmed.ncbi.nlm.nih.gov/24433525/) | 2014 | Systematic review | Headache | Parenteral treatment of episodic tension-type headache |
+| [1514724](https://pubmed.ncbi.nlm.nih.gov/1514724/) | 1992 | RCT | Ann Emerg Med | IM ketorolac vs meperidine plus hydroxyzine for acute migraine |
 
 ## India Market Information
 
-Ketorolac currently has **no registered products in India**. No licence data is available for display.
+Twenty valid single-ingredient registrations are on record, covering oral tablets (mostly dispersible), injections and ophthalmic solutions. No approved indication text is available for any of them. The five main registrations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 117966 | Ketoserve 30mg Injection | Vial of 1 injection | Not stated |
+| 118190 | Ketam Injection | Vial of 1 ml injection | Not stated |
+| 137470 | Mighty Mox-KT Eye Drop | Bottle of 5 ml ophthalmic solution | Not stated |
+| 164392 | Olopine-KT Eye Drop | Bottle of 5 ml eye drop | Not stated |
+| 216327 | Torodent-DT Tablet | Strip of 6 dispersible tablets | Not stated |
 
 ## Safety Considerations
 
-**Drug Interactions (222 interactions identified; key interactions listed below):**
+- **Contraindications flagged in the knowledge graph** (not taken from label text): hypertension, peptic ulcer disease (including active disease), liver disease, gallbladder disease, rheumatoid arthritis, inflammatory bowel disease, asthma, diabetes mellitus, diabetic ketoacidosis, blood coagulation disorders, haemophilia, stroke and cerebrovascular disorders, myocardial infarction, anaemia and haemoglobinopathy, impaired renal function, cardiovascular and heart disease, and dry eye syndrome.
+- **Drug Interactions**: 222 interactions are recorded. The major interaction listed is acetylsalicylic acid (aspirin). Moderate interactions include corticosteroids (betamethasone, budesonide, dexamethasone, hydrocortisone), sulfonylureas (glimepiride, glipizide, glyburide, chlorpropamide, acetohexamide), exenatide, levofloxacin, kanamycin, balsalazide and fenfluramine. Minor interactions include famotidine, ranitidine, cimetidine and linaclotide. A case report also describes lithium toxicity when ketorolac was co-administered.
 
-| Severity | Interacting Drug(s) | Clinical Note |
-|----------|---------------------|---------------|
-| **Major** | Acetylsalicylic acid (Aspirin) | Concurrent use significantly increases risk of gastrointestinal bleeding and renal toxicity; combination generally contraindicated |
-| **Moderate** | Corticosteroids (Betamethasone, Budesonide, Dexamethasone, Hydrocortisone) | Combined NSAID + steroid use increases GI ulceration and bleeding risk |
-| **Moderate** | Sulfonylureas (Glimepiride, Glipizide, Glyburide, Chlorpropamide, Acetohexamide) | NSAIDs may enhance hypoglycaemic effect; blood glucose monitoring advised |
-| **Moderate** | Levofloxacin | May increase risk of CNS adverse effects and seizures |
-| **Moderate** | Kanamycin | Potential for additive nephrotoxicity |
-| **Moderate** | Exenatide, Fenfluramine, Dexfenfluramine | Metabolic and pharmacodynamic interactions warranting monitoring |
-| **Minor** | Famotidine, Ranitidine, Cimetidine | H2 blockers may alter ketorolac absorption or gastric protection context; clinically minor |
-
-> **Note:** Detailed warnings and contraindications from Indian regulatory labelling (package insert) are not currently available. Please refer to the internationally approved prescribing information (e.g., FDA or EMA label) for full safety guidance pending local data acquisition.
-
----
+Package insert warnings and contraindications were not available for this report, so please refer to the package insert for the official safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The evidence supporting Ketorolac for headache disorder is exceptionally strong — multiple completed Phase 3 and Phase 4 RCTs have directly tested its efficacy for acute migraine and tension-type headache, and it is explicitly endorsed in major international headache society guidelines (American and Canadian). The TxGNN prediction aligns with established clinical practice globally. However, Ketorolac is not currently marketed in India, and no local regulatory safety data (package insert, CDSCO approval status) has been retrieved, which creates a significant gap for market entry assessment.
+Multiple completed Phase 2 to 4 trials, together with systematic reviews, meta-analyses and an updated guideline, support ketorolac for acute migraine and tension-type headache, and the drug is already widely registered in India. However, the safety profile (gastrointestinal, renal, cardiovascular and bleeding risks) requires strict controls, and the package insert data was not available.
 
 **To proceed, the following is needed:**
-
-- **Regulatory pathway in India:** Initiate CDSCO registration process or investigate whether Ketorolac can be imported under existing frameworks
-- **Local safety labelling:** Obtain and review the full package insert from a reference agency (FDA/EMA) for warnings, contraindications, and special population data
-- **Mechanism of action data:** Query DrugBank API (DB00465) to formally document COX-1/COX-2 inhibition profile for the regulatory dossier
-- **Indication specificity:** Clarify the target indication (migraine vs tension-type vs post-dural puncture headache) to align with the most robust Phase 3 evidence for the regulatory submission
-- **Formulation strategy:** Determine preferred route of administration (IV, IM, or intranasal) given India's clinical setting; intranasal formulation has Phase 3 non-inferiority data vs IV and may ease administration
+- Package insert warnings and contraindications for the India products, since the missing safety data blocks formal safety screening
+- Detailed mechanism of action data from DrugBank
+- Confirmation of the approved indications and routes of the registered injectable and nasal/oral products for headache use
+- Guardrails: avoid in patients with GI bleeding risk, renal impairment, cardiovascular disease or pregnancy; limit treatment duration; check drug interactions (e.g. lithium); use careful dosing in children
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

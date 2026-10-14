@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Trihexyphenidyl
-parent: Model Prediction Only (L5)
-nav_order: 858
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 865
+evidence_level: L4
 indication_count: 10
 ---
 
 # Trihexyphenidyl
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,64 +29,93 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Trihexyphenidyl: From Parkinsonism to Attention-Deficit/Hyperactivity Disorder (ADHD)
+# Trihexyphenidyl: From Parkinson Disease to Attention Deficit-Hyperactivity Disorder
 
 ## One-Sentence Summary
 
-Trihexyphenidyl is a classical anticholinergic agent, conventionally used for Parkinsonism and drug-induced extrapyramidal symptoms.
-The TxGNN model predicts it may be effective for **Attention-Deficit/Hyperactivity Disorder (ADHD)**,
-but this is currently supported by **0 clinical trials** and only **1 indirectly relevant case series**, and the evidence pack itself flags the mechanistic direction as contradictory.
+Trihexyphenidyl is a central anticholinergic drug originally used to treat Parkinson disease and related movement disorders such as parkinsonism and dystonia.
+The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**, but there are currently **no registered clinical trials** and only **1 loosely related publication** (a case series on tic disorder with dystonia), so the prediction rests almost entirely on computation.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in the evidence pack (Trihexyphenidyl is a classical anticholinergic, typically used for Parkinsonism / drug-induced extrapyramidal symptoms) |
-| Predicted New Indication | Attention-Deficit/Hyperactivity Disorder (ADHD) |
+| Original Indication | Parkinson disease (and related parkinsonian disorders, dystonia, blepharospasm) |
+| Predicted New Indication | Attention deficit-hyperactivity disorder |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap). Trihexyphenidyl is a well-established antimuscarinic (anticholinergic) drug, and this class is known to reduce central cholinergic tone — a property useful for controlling tremor and dystonia in Parkinsonism, but generally considered to *impair* rather than improve attention and cognition.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, trihexyphenidyl is a central muscarinic antagonist with preference for the M1 receptor. It modulates the balance between cholinergic and dopaminergic signalling in the striatum, which is the basis of its benefit in parkinsonism and dystonia.
 
-For this specific candidate (ADHD), the only supporting literature is a single case series (PMID 21506147) describing tic disorder associated with dystonia — a topic only tangentially related to ADHD, with no direct evidence of Trihexyphenidyl's efficacy in ADHD. The evidence pack's own mechanistic assessment states that anticholinergic drugs may theoretically *worsen* cognitive function, which runs counter to the therapeutic goal in ADHD.
+ADHD involves dysregulation of dopaminergic and noradrenergic pathways. This gives an indirect, plausible link: a drug that adjusts striatal cholinergic-dopaminergic balance could, in theory, influence the circuits involved. However, this link is speculative. The only retrieved paper describes primary tic disorder associated with dystonia, a related movement/neuropsychiatric setting, and is not a study of ADHD treatment.
 
-Given the absence of direct clinical or mechanistic support, and an explicit contradiction between the drug's known pharmacology and the target indication, this prediction should be treated as a low-confidence signal from the knowledge graph rather than a biologically grounded hypothesis. (Note: a separate, better-supported candidate in this evidence pack — PLA2G6-associated neurodegeneration, rank 5, evidence level L3 — is mechanistically consistent with Trihexyphenidyl's known use in dystonia-Parkinsonism syndromes, and may warrant separate evaluation.)
+There is also a notable concern. Anticholinergic drugs can cause cognitive and attention-related adverse effects, which runs against what would be desired in ADHD. The very high TxGNN score is therefore a computational signal without direct clinical support.
+
+Other predicted indications in the model output (for example, the ADHD inattentive subtype, PLA2G6-associated neurodegeneration, Rasmussen encephalitis, and myelitis) are also supported mainly by computation. Among these, PLA2G6-associated neurodegeneration has the most plausible symptomatic overlap (dystonia-parkinsonism), though any benefit would be symptomatic only.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21506147](https://pubmed.ncbi.nlm.nih.gov/21506147/) | 2011 | Case Series | Movement Disorders | Describes a clinical series of tic disorder associated with dystonia; relevance to ADHD is indirect, with no data on Trihexyphenidyl's efficacy in ADHD |
+| [21506147](https://pubmed.ncbi.nlm.nih.gov/21506147/) | 2011 | Case series | Movement Disorders | Large clinical series and literature review of primary tic disorder co-occurring with dystonia; describes the syndrome's prevalence and features. It does not test trihexyphenidyl in ADHD. |
+
+---
+
+## India Market Information
+
+Twenty valid single-ingredient registrations are listed; the approved indication text is not available for any of them. The main authorizations are:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 239880 | Vihexy 2mg Tablet | Strip of 10 tablets | Not specified |
+| 105078 | Hexinal 2mg Tablet | Strip of 10 tablets | Not specified |
+| 238881 | Vacitane 5mg Tablet | Strip of 10 tablets | Not specified |
+| 174426 | Parkinta 2mg Tablet | Strip of 10 tablets | Not specified |
+| 89607 | Flyper 5mg Tablet | Strip of 30 tablets | Not specified |
+
+All products are oral tablets.
+
+---
 
 ## Safety Considerations
 
-**Drug Interactions**: A total of 107 documented interactions were identified. Notable examples include:
-- **Major**: Potassium citrate, Potassium chloride (risk of additive GI effects potentially affecting absorption/dissolution)
-- **Moderate**: Other anticholinergics (Hyoscyamine, Atropine, Glycopyrronium, Dicyclomine, Scopolamine, Trospium, Mepenzolate, Methscopolamine, Propantheline), opioids (Morphine, Loperamide), prokinetics (Metoclopramide, Prucalopride), Eluxadoline, Dronabinol, Nabilone, Pramlintide, and Magnesium hydroxide — generally reflecting additive anticholinergic burden or altered GI motility/absorption
+- **Contraindications flagged in the knowledge graph (not label text):** these include angle-closure and open-angle glaucoma, benign prostatic hyperplasia, myasthenia gravis, paralytic ileus, achalasia, ulcerative colitis and inflammatory bowel disease, coronary artery disease, heart conduction disease, hypertensive and hypotensive disorders, chronic obstructive pulmonary disease, and liver, kidney and gallbladder disease.
+- **Drug Interactions:** 107 interactions were identified. The **major** ones in the listed records are with **potassium chloride** and **potassium citrate**. Many **moderate** interactions involve other anticholinergic or gut-motility-affecting drugs, such as atropine, hyoscyamine, scopolamine, glycopyrronium, dicyclomine, trospium, propantheline, loperamide, morphine, metoclopramide, and dronabinol.
+- **Population-specific concern:** anticholinergic effects on attention and cognition are a particular worry in ADHD. Ocular risks (mydriasis, angle-closure glaucoma) and a possible lowering of the seizure threshold also apply to some of the other predicted indications.
 
-No package insert warnings or contraindications data are currently available for this drug (data gap — blocking issue for full safety review).
+Package insert warnings and contraindications were not available for this report; please refer to the package insert for label-based safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is no clinical trial evidence and only one indirectly relevant case series for the ADHD indication, and the proposed mechanism (anticholinergic action) runs counter to the therapeutic direction needed for ADHD. The drug is also not currently marketed in this jurisdiction (0 registrations), and core safety documentation (warnings/contraindications) is missing.
+The ADHD prediction has a very high model score but no clinical trials and no directly relevant literature, and the drug's anticholinergic cognitive effects work against the intended use. The evidence is insufficient to justify moving forward.
 
 **To proceed, the following is needed:**
-- Obtain TFDA/local package insert warnings and contraindications (Blocking gap — required before any S1 safety evaluation)
-- Obtain confirmed mechanism of action data via DrugBank API (High-priority gap)
-- Direct pharmacological or clinical evidence linking anticholinergic activity to ADHD symptom improvement, given the currently contradictory mechanistic rationale
-- If pursuing repurposing work on this drug, consider prioritizing the PLA2G6-associated neurodegeneration candidate instead, which has stronger mechanistic consistency (L3 evidence, Proceed with Guardrails)
+- Detailed mechanism of action data (MOA), for example from DrugBank
+- Package insert warnings and contraindications from the Indian regulator, which are required before any safety screening
+- Preclinical or clinical studies directly testing trihexyphenidyl in ADHD, including its effects on attention and cognition
+- If a lower-risk lead is wanted, a closer look at PLA2G6-associated dystonia-parkinsonism as a symptomatic-use research question
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

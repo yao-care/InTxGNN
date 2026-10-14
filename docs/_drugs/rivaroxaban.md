@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Rivaroxaban
-parent: Moderate Evidence (L3-L4)
-nav_order: 740
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 747
+evidence_level: L5
 indication_count: 4
 ---
 
 # Rivaroxaban
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-# Rivaroxaban: From Anticoagulation to Rheumatoid Arthritis
+# Rivaroxaban: From Thromboembolic Disease to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-Rivaroxaban is a direct Factor Xa inhibitor used for venous thromboembolism treatment/prophylaxis and stroke prevention in atrial fibrillation. TxGNN's top prediction suggests possible efficacy in **rheumatoid arthritis** (score 99.57%), but on review the supporting literature addresses coagulation biomarkers and VTE risk in autoimmune disease — not rivaroxaban treating RA itself — so the signal appears to be a **confounded comorbidity association rather than a genuine repurposing lead**.
+Rivaroxaban is an oral Factor Xa inhibitor (anticoagulant) that is widely marketed in India; the data compiled for this report do not list its approved indication text.
+The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but **no clinical trials** and **no publications testing rivaroxaban in this disease** currently support the prediction.
+The evidence is model-prediction only and should be treated as a hypothesis.
 
 ---
 
@@ -41,23 +43,23 @@ Rivaroxaban is a direct Factor Xa inhibitor used for venous thromboembolism trea
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this evidence pack (no India licenses on file; clinically rivaroxaban is a DOAC used for VTE/AF stroke prevention) |
-| Predicted New Indication | Rheumatoid Arthritis |
+| Original Indication | Not available (approved indication text is blank in all registrations) |
+| Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.57% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on general pharmacological knowledge, rivaroxaban is a direct Factor Xa inhibitor; its efficacy in VTE treatment/prophylaxis and stroke prevention in atrial fibrillation is well established.
+Currently, detailed mechanism of action data is not available. Based on known information, rivaroxaban belongs to the direct oral anticoagulant class that inhibits Factor Xa, and it is used to prevent and treat thrombosis. Mechanistically, it may be applicable to rheumatoid arthritis, but only at the hypothesis level.
 
-The proposed mechanistic link to rheumatoid arthritis — that Factor Xa/thrombin signaling via PAR-1/PAR-2 receptors may contribute to synovial inflammation — is biologically plausible in theory, but **none of the retrieved literature actually tests rivaroxaban as a treatment for RA**. The three supporting papers cover (1) a general VTE diagnosis/treatment review, (2) thrombin generation assays as a research tool in autoimmune disease, and (3) rivaroxaban vs. apixaban adherence in atrial fibrillation — none evaluate anti-inflammatory or disease-modifying effects in RA patients.
+A plausible biological rationale exists. Inflammation and autoimmunity are linked to a hypercoagulable state, and Factor Xa and thrombin signalling (for example via PAR-1/PAR-2) may contribute to synovial inflammation. Rheumatoid arthritis also carries an elevated risk of venous thromboembolism, so anticoagulants may be used in these patients for thrombosis. That is a different question from whether the drug modifies the disease itself.
 
-The most likely explanation is that TxGNN's high score reflects the well-known **epidemiological association between RA and elevated VTE risk** (RA patients are frequently co-prescribed anticoagulants for comorbid thrombotic disease), rather than a true drug-repurposing signal. This is explicitly flagged in the evidence pack's own rationale as a case where TxGNN's score does not indicate a new therapeutic pathway.
+The TxGNN score is very high, but the retrieved literature does not test rivaroxaban in rheumatoid arthritis. The prediction should not be read as evidence of efficacy.
 
 ---
 
@@ -71,32 +73,40 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Review | JAMA | General review of DVT/PE diagnosis and treatment; does not address RA or anti-inflammatory use of rivaroxaban |
-| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Review | La Revue de médecine interne | Discusses thrombin generation assay as a tool to assess hypercoagulability in autoimmune disease (e.g., antiphospholipid syndrome); not RA-specific and not a treatment study |
-| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Cohort | PLoS One | Compares medication adherence between rivaroxaban and apixaban in atrial fibrillation; unrelated to RA |
-
-**Note:** No literature in this evidence pack directly evaluates rivaroxaban as an RA treatment.
+| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Review | JAMA | Review of diagnosis and treatment of lower extremity venous thromboembolism; background on thrombosis, not rheumatoid arthritis |
+| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Review | La Revue de medecine interne | Thrombin generation assay in autoimmune disease; conceptually relevant to the rationale, but not evidence of efficacy |
+| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Cohort | PloS one | Adherence to rivaroxaban versus apixaban in non-valvular atrial fibrillation; not related to rheumatoid arthritis |
+| [41918541](https://pubmed.ncbi.nlm.nih.gov/41918541/) | 2026 | Case report | Cureus | Perioperative thromboembolic cerebral infarction in an 88-year-old woman with atrial fibrillation on anticoagulation, who also had rheumatoid arthritis and took oral steroids |
 
 ---
 
 ## India Market Information
 
-Currently no India registration — rivaroxaban is not marketed in the evaluated jurisdiction per this evidence pack (`total_licenses: 0`).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 185549 | Rivoxamac 15mg Tablet | Strip of 10 tablets | Not stated |
+| 185361 | Rivared 15mg Tablet | Strip of 10 tablets | Not stated |
+| 243926 | Xarelto 20mg Tablet | Box of 98 tablets | Not stated |
+| 155933 | Nanotril 10mg Tablet | Strip of 10 tablets | Not stated |
+| 185545 | Rivalto 20mg Tablet | Strip of 14 tablets | Not stated |
+
+The data list 20 valid single-ingredient registrations in total; the five above are shown as examples.
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: 313 total interactions identified via DDInter. Notable Major-severity interactions include:
-  - Acetylsalicylic acid (Major)
-  - Cobicistat (Major)
-  - Deferasirox (Major)
-  - Ibritumomab tiuxetan (Major)
-  - Tositumomab (I-131) (Major)
+- **Disease associations flagged in the knowledge graph (not label text)**: liver failure, kidney disease, pyoureter, liver disease, gallbladder disease, blood coagulation disease.
+- **Drug Interactions**: 313 interactions were identified. Major-level interactions include:
+  - Acetylsalicylic acid
+  - Cobicistat
+  - Deferasirox
+  - Ibritumomab tiuxetan
+  - Tositumomab (I-131)
 
-  Additional Moderate-severity interactions include CYP3A4/P-gp modulators such as clarithromycin, cimetidine, dexamethasone, miconazole, clotrimazole, aprepitant, and rolapitant.
+  Moderate-level examples include aprepitant, dexamethasone, cimetidine, clarithromycin, eliglustat, miconazole, clotrimazole and sugammadex.
 
-Key warnings and contraindications are not available in this evidence pack — please refer to the official package insert for full safety information.
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -105,13 +115,26 @@ Key warnings and contraindications are not available in this evidence pack — p
 **Decision: Hold**
 
 **Rationale:**
-Rivaroxaban is not currently marketed in this jurisdiction (0 registrations), and the top-ranked predicted indication (rheumatoid arthritis, L4 evidence) is not supported by any literature actually testing anti-inflammatory or RA-specific efficacy — the retrieved evidence reflects comorbidity/DDI research rather than a therapeutic signal. The remaining three candidates in this evidence pack (gout, HIV infectious disease, brachydactyly-syndactyly syndrome) were independently reviewed and also received **Hold** with L4–L5 evidence; all were flagged as likely confounded associations (DDI/PK studies or coincidental literature co-occurrence) rather than genuine repurposing leads.
+The TxGNN score is very high, but there are no clinical trials and no literature testing rivaroxaban in rheumatoid arthritis. The biological rationale is hypothesis-level only, so the evidence is L5.
 
 **To proceed, the following is needed:**
-- Confirmed original MOA and approved indication data (currently marked as data gaps)
-- India/local regulatory filing status and package insert (key warnings, contraindications)
-- A mechanistic or preclinical study specifically linking Factor Xa inhibition to RA disease activity, if this candidate is to be revisited
-- Re-screening of TxGNN outputs to filter out comorbidity-driven false positives before further evaluation
+- Package insert warnings, contraindications and approved indications for the India registrations
+- Detailed mechanism of action data
+- Preclinical or mechanistic studies of Factor Xa/thrombin signalling in synovial inflammation
+- Evidence of disease-modifying benefit, beyond thrombosis prevention, in rheumatoid arthritis
+- A bleeding-risk assessment for the target population, including concomitant steroids, NSAIDs and aspirin
+
+---
+
+## Other Predicted Indications (for reference)
+
+The same analysis also produced the following lower-priority predictions. None is supported by direct efficacy evidence, and all are currently **Hold**.
+
+| Predicted Indication | TxGNN Score | Evidence Level | Comment |
+|------|------|------|------|
+| Gout | 99.51% | L5 | No trials; the retrieved papers cover a benzbromarone–CYP interaction and a varicose vein case, neither supporting efficacy |
+| HIV infectious disease | 99.17% | L4 | One Phase 2 trial (NCT00786422) is a DVT/PE study with a CYP3A4 inducer and not an HIV trial; the literature addresses safe co-administration and bleeding risk with antiretrovirals, not treatment of HIV |
+| Brachydactyly-syndactyly syndrome | 99.10% | L5 | No trials or literature; no plausible mechanistic link |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

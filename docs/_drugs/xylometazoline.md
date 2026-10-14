@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Xylometazoline
-parent: Model Prediction Only (L5)
-nav_order: 891
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 900
+evidence_level: L3
 indication_count: 2
 ---
 
 # Xylometazoline
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L3** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,91 +29,82 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Xylometazoline: From Nasal Decongestion to Nasal Cavity Disease
+# Xylometazoline: From Pharyngitis and Common Cold to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-> Xylometazoline is a widely used over-the-counter (OTC) nasal decongestant, an imidazoline-derivative α-adrenergic agonist traditionally used to relieve nasal congestion associated with colds and allergic rhinitis.
-> The TxGNN model predicts it may be effective for **Nasal Cavity Disease**,
-> with **2 clinical trials** and **7 publications** currently supporting this direction — though most of this evidence reflects the drug's already-known decongestant/vasoconstrictive effect rather than a genuinely novel mechanism.
-
----
+Xylometazoline is a topical nasal decongestant originally used for pharyngitis and the common cold.
+The TxGNN model predicts it may be effective for **nasal cavity disease**,
+with **no registered clinical trials** but **6 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No formal India regulatory license on record; per DrugBank pharmacology data, used as a component of OTC nasal decongestants for nasal congestion/allergy-related mucosal swelling |
-| Predicted New Indication | Nasal Cavity Disease |
+| Original Indication | Pharyngitis, common cold |
+| Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.91% |
-| Evidence Level | L3 (observational/small clinical studies) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L3 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, a formal DrugBank MOA description is not available for Xylometazoline (flagged as a data gap, DG002). However, pharmacology-target data in the Evidence Pack shows Xylometazoline binds α1D, α2A, α2B, and α2C adrenoceptors. Agonism at these receptors on nasal mucosal vascular smooth muscle causes vasoconstriction, which is the well-established basis for its decongestant effect.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, xylometazoline is an imidazoline-derivative alpha-adrenergic agonist applied to the nasal mucosa. It constricts mucosal blood vessels, which reduces swelling and nasal resistance. Pharmacology records list it as acting on alpha-2A, alpha-2B and alpha-2C adrenoceptors (human), alpha-1D (rat) and a trace amine receptor (mouse). However, affinity data at the human targets were not available, so no primary target has been confirmed.
 
-Because "Nasal Cavity Disease" is essentially the anatomical category that already contains congestion, mucosal swelling, and rhinitis — the conditions Xylometazoline is already used to treat as an OTC decongestant — this TxGNN prediction is less a discovery of a *new* indication and more a confirmation of an *already-known* pharmacological effect. Several of the supporting studies directly measure nasal airway resistance, nasal cavity volume, or nasal mucosal decongestion after Xylometazoline administration, which mechanistically maps onto the predicted disease category rather well.
+The original indications (common cold and pharyngitis) already involve nasal congestion and mucosal swelling. A predicted benefit in "nasal cavity disease" is therefore a close neighbour of what the drug already does. This is closer to an indication extension than true repurposing.
 
-By contrast, the second-ranked prediction (acute laryngopharyngitis, TxGNN score 99.89%) has no supporting clinical trials or literature at all — it appears to rely purely on anatomical proximity (nasal mucosa vs. laryngopharyngeal mucosa) as a model-level inference, with no direct evidence connecting Xylometazoline to that indication.
-
----
+The literature supports this link. Studies describe nasal cavity expansion, changes in nasal airflow and resistance, and use as a decongestant to prepare the nose for endoscopy or intubation, including a randomized trial in children.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT06443255](https://clinicaltrials.gov/study/NCT06443255) | Phase 3 | Completed | 16 | Triple-crossover comparison of cocaine, lidocaine/xylometazoline, and saline for intranasal analgesia during awake fiberoptic nasotracheal intubation. Grade B relevance — evaluates a lidocaine/xylometazoline combination for a procedural (anesthetic) purpose, not xylometazoline alone as a disease treatment; small sample (n=16). |
-| [NCT05072392](https://clinicaltrials.gov/study/NCT05072392) | N/A | Unknown | 80 | Foley catheter-assisted nasal intubation vs. conventional practice to reduce nasal bleeding during nasotracheal intubation. Grade C relevance — evaluates a mechanical intubation technique, not xylometazoline's therapeutic effect on nasal cavity disease. |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [24158493](https://pubmed.ncbi.nlm.nih.gov/24158493/) | 2013 | RCT | JAMA Otolaryngology–Head & Neck Surgery | Double-blind, placebo-controlled RCT in children: intranasal topical local anesthetic/decongestant (including xylometazoline) improved tolerance and visualization for flexible nasendoscopy. |
-| [24023995](https://pubmed.ncbi.nlm.nih.gov/24023995/) | 2013 | Cohort/Small clinical study | Korean Journal of Anesthesiology | Prophylactic intranasal xylometazoline spray compared to epinephrine gauze packing for nasal mucosa constriction and nasal cavity expansion before nasotracheal intubation. |
-| [1281924](https://pubmed.ncbi.nlm.nih.gov/1281924/) | 1992 | Cohort/Small clinical study | Rhinology | Topical xylometazoline reduced nasal airway resistance asymmetry in healthy subjects and those with acute rhinitis from the common cold. |
-| [22427029](https://pubmed.ncbi.nlm.nih.gov/22427029/) | 2013 | Prospective RCT | European Archives of Oto-Rhino-Laryngology | Randomized, blinded study comparing cotton pledget packing vs. topical decongestant spray for nasal preparation before endoscopy; supports decongestant efficacy in nasal cavity preparation. |
-| [8740084](https://pubmed.ncbi.nlm.nih.gov/8740084/) | 1996 | RCT | Arzneimittel-Forschung | Double-blind rhinomanometric study of a tuaminoheptane/N-acetyl-cysteine combination vs. xylometazoline and placebo for nasal resistance reduction — xylometazoline used as active comparator, not primary study drug. |
-| [34783482](https://pubmed.ncbi.nlm.nih.gov/34783482/) | 2021 | Review | Vestnik Otorinolaringologii | Review of nasal mucosa changes in the elderly and treatment approaches for inflammatory diseases of the nasal cavity and paranasal sinuses, discussing decongestant-containing nasal sprays. |
-| [20632242](https://pubmed.ncbi.nlm.nih.gov/20632242/) | 2010 | Animal study | Pneumologie | Animal (canine) model study showing xylometazoline reduced pathologically elevated intranasal airway resistance in brachycephalic dogs by ~50%. |
-
----
+| [24158493](https://pubmed.ncbi.nlm.nih.gov/24158493/) | 2013 | RCT (double-blind, placebo-controlled) | JAMA Otolaryngol Head Neck Surg | Intranasal topical anaesthetic and decongestant before flexible nasendoscopy in children, compared with placebo |
+| [22427029](https://pubmed.ncbi.nlm.nih.gov/22427029/) | 2013 | Prospective randomized blinded study (100 patients) | Eur Arch Otorhinolaryngol | Cotton pledget packing vs topical spray for nasal preparation before endoscopy |
+| [24023995](https://pubmed.ncbi.nlm.nih.gov/24023995/) | 2013 | Clinical study | Korean J Anesthesiol | Xylometazoline spray vs epinephrine gauze for expanding the nasal cavity before nasotracheal intubation |
+| [34783482](https://pubmed.ncbi.nlm.nih.gov/34783482/) | 2021 | Review | Vestnik Otorinolaringologii | Nasal mucosa in the elderly and treatment of inflammatory diseases of the nasal cavity and sinuses, including combined decongestant sprays |
+| [1281924](https://pubmed.ncbi.nlm.nih.gov/1281924/) | 1992 | Physiological/clinical study | Rhinology | Nasal airflow asymmetry in healthy subjects and in acute rhinitis with the common cold, and the effect of xylometazoline on it |
+| [8740084](https://pubmed.ncbi.nlm.nih.gov/8740084/) | 1996 | Double-blind randomized study (18 subjects) | Arzneimittel-Forschung | Tuaminoheptane plus N-acetylcysteine compared with xylometazoline and placebo on nasal resistance (indirect evidence) |
 
 ## India Market Information
 
-Xylometazoline currently has **no India regulatory license or market authorization on record** (Market Status: Not Marketed; 0 registrations). No product-level dosage form or approved-indication data is available in the Evidence Pack.
+Twenty valid single-ingredient registrations were found, all as nasal drops or nasal solution. Approved indication text was not available for these registrations. The five main authorizations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 247063 | Zetowin-A Nasal Solution | Bottle of 10 ml nasal solution | Not available |
+| 159626 | Nasrea Mini Nasal Drops | Packet of 10 ml nasal drops | Not available |
+| 190770 | Relinose 0.1% Nasal Drops | Bottle of 10 ml nasal drops | Not available |
+| 244932 | Xylojeev Nasal Drops | Bottle of 10 ml nasal drops | Not available |
+| 169283 | Otri-X Nasal Drops | Bottle of 10 ml nasal drops | Not available |
 
 ## Safety Considerations
 
-The Evidence Pack does not contain TFDA/India-specific warnings or contraindications data (flagged as a Blocking data gap, DG001).
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: hypertension and hypertensive disorder, diabetes mellitus, diabetic ketoacidosis, heart disease and cardiovascular disease, hyperthyroidism, Graves disease, and thyrotoxicosis.
+- **Drug Interactions**: Five records were found. All are pharmacology records of receptor targets (alpha-1D, alpha-2A, alpha-2B and alpha-2C adrenoceptors, and TAAR4P), not drug-drug interactions with severity grades. General pharmacology also suggests caution with MAO inhibitors and other sympathomimetics.
+- **Use-related cautions (general pharmacology)**: Prolonged use risks rebound congestion (rhinitis medicamentosa). Caution is needed in young children.
 
-- **Receptor Pharmacology Profile**: Xylometazoline shows binding activity at α1D, α2A, α2B, and α2C adrenoceptors (pharmacology database), consistent with its vasoconstrictive decongestant mechanism. No formal clinical drug-drug interaction (DDI) data with severity levels is currently available — the listed entries represent receptor-binding pharmacology, not clinical DDI pairs.
-
-Please refer to the package insert for further safety information once available.
-
----
+Please also refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The predicted indication (Nasal Cavity Disease) is mechanistically well-supported and largely reflects an already-established pharmacological effect of Xylometazoline as a nasal decongestant, but formal MOA documentation, India regulatory safety data (warnings/contraindications), and direct high-quality RCTs targeting "nasal cavity disease" as a defined clinical endpoint are still missing. The second predicted indication (acute laryngopharyngitis, L5, Hold) lacks any supporting evidence and should not be advanced at this time.
+The evidence is supportive but limited. It consists of several small or procedural studies, including randomized trials in nasal preparation, with no registered clinical trials. The predicted use sits within or next to the drug's existing nasal decongestant role, and the drug is widely marketed in India. A second prediction, acute laryngopharyngitis (score 99.89%), has no trials or literature and mostly overlaps the existing pharyngitis indication, so it stays on **Hold** (Evidence Level L5).
 
 **To proceed, the following is needed:**
-- TFDA/India-equivalent package insert warnings and contraindications (DG001, Blocking — required before S1 safety review)
-- Confirmed DrugBank/manufacturer MOA documentation (DG002, High priority)
-- India market authorization status confirmation, given current "Not Marketed" status
-- Direct clinical evidence (ideally RCTs) evaluating xylometazoline monotherapy against a defined "nasal cavity disease" endpoint, rather than as a procedural/comparator agent
+- Package insert warnings and contraindications from India registrations (currently missing, and a blocking gap for safety screening)
+- Approved indication text for the registered products
+- Detailed mechanism of action data (for example, from DrugBank)
+- Confirmation that the "nasal cavity disease" indication is distinct from the existing common cold indication
+- A duration-of-use limit and a plan for patients with cardiovascular disease, and for children
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

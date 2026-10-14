@@ -2,7 +2,7 @@
 layout: default
 title: Pyrazinamide
 parent: Model Prediction Only (L5)
-nav_order: 706
+nav_order: 713
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,7 +33,9 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Pyrazinamide is a first-line antituberculosis agent, historically used as part of combination therapy for tuberculosis. The TxGNN model predicts it may be effective for **Infectious Otitis Media**, but this top-ranked prediction currently has **no supporting clinical trials or literature** — it is a model-score-only signal.
+Pyrazinamide is a first-line anti-tuberculosis drug, originally used for pulmonary tuberculosis and tuberculous meningitis.
+The TxGNN model predicts it may be effective for **infectious otitis media** with a very high score, but **no clinical trials and no publications** directly support this prediction.
+The only supporting literature across the ear-related predictions concerns rare **tuberculous** middle ear infection, which is an extension of the existing TB indication rather than true repurposing.
 
 ---
 
@@ -41,49 +43,70 @@ Pyrazinamide is a first-line antituberculosis agent, historically used as part o
 
 | Item | Content |
 |------|------|
-| Original Indication | Tuberculosis (inferred from evidence-pack rationale text; formal license/indication data not provided — original_moa and original_indications fields are empty) |
-| Predicted New Indication | Infectious Otitis Media |
+| Original Indication | Pulmonary tuberculosis, meningeal tuberculosis, tuberculous meningitis (the approved indication text in the India licence records is empty) |
+| Predicted New Indication | Infectious otitis media |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Pyrazinamide in this evidence pack. Based on information embedded in the evidence pack's own analysis of related predictions, Pyrazinamide is a first-line antituberculosis drug whose active metabolite, pyrazinoic acid, requires activation by a *Mycobacterium tuberculosis*-specific pyrazinamidase and acts within the acidic environment of macrophages/caseous necrosis to kill semi-dormant tubercle bacilli.
+Currently, detailed mechanism of action data is not available. Based on known information, pyrazinamide is a component of standard multidrug anti-tuberculosis therapy. Its efficacy in tuberculosis is established, and it is active only against *Mycobacterium tuberculosis*, through the acid-dependent activity of its metabolite pyrazinoic acid.
 
-For the top-ranked prediction, **Infectious Otitis Media**, the evidence pack explicitly states there is no trial or literature support — the connection is purely a TxGNN score, with only a loose semantic proximity to other TB-related ear conditions. This is different from several lower-ranked predictions in the same evidence pack (e.g., middle ear disease, chronic otitis media, suppurative otitis media), which are supported by case reports and reviews describing **tuberculous otitis media** — a rare extrapulmonary manifestation of TB in which Pyrazinamide is used as part of the standard multi-drug anti-TB regimen, not as an independently validated treatment for otitis media itself.
+The prediction for infectious otitis media is **not mechanistically convincing**. Pyrazinamide has no recognised activity against the usual otitis media pathogens (*S. pneumoniae*, *H. influenzae*, *M. catarrhalis*). The high score most likely reflects network proximity in the knowledge graph to tuberculous otitis, not a validated mechanism.
 
-In other words, the high TxGNN scores across this disease cluster likely reflect semantic clustering of "TB-related" disease terms in the knowledge graph rather than a genuinely new pharmacological mechanism specific to otologic disease. This should be treated as a research signal requiring independent validation rather than a mechanistically established repurposing hypothesis.
+Other ear-related predictions fall into two groups:
+- **Tuberculous subsets** (middle ear disease, chronic and suppurative otitis media): pyrazinamide is already part of anti-TB regimens, so this extends the approved TB indication to an extrapulmonary site.
+- **Non-infectious or non-mycobacterial conditions** (non-suppurative, allergic, cholesterol granuloma): there is no plausible mechanism, and these are likely graph artefacts.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered for infectious otitis media or any of the other top-10 predicted indications.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+No literature was retrieved for infectious otitis media. The table below lists the most relevant publications retrieved for closely related predictions (middle ear disease and chronic otitis media). All are low-tier evidence.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [26785789](https://pubmed.ncbi.nlm.nih.gov/26785789/) | 2013 | Case report | Int J Mycobacteriol | Nasal and middle ear tuberculosis in a 55-year-old woman, treated with rifampicin, isoniazid and pyrazinamide for 9 months; no recurrence after one year |
+| [15168420](https://pubmed.ncbi.nlm.nih.gov/15168420/) | 2004 | Case report | Am J Kidney Dis | Tuberculous otitis media in a renal transplant recipient after repeated empiric antibiotic courses |
+| [41783873](https://pubmed.ncbi.nlm.nih.gov/41783873/) | 2026 | Case report | Cureus | Tuberculous otitis media presenting as otorrhea; delayed diagnosis because of rarity |
+| [8011030](https://pubmed.ncbi.nlm.nih.gov/8011030/) | 1994 | Clinical observation | Laryngo-Rhino-Otologie | 12 patients with TB first found in the head and neck area, one with middle ear involvement |
+| [21439219](https://pubmed.ncbi.nlm.nih.gov/21439219/) | 2011 | Animal study (mouse) | J Am Assoc Lab Anim Sci | Torticollis in TB-infected mice, including some on pyrazinamide-containing regimens; not a treatment-efficacy study |
 
 ---
 
 ## India Market Information
 
-Pyrazinamide is currently **not marketed** under this evidence pack's regulatory record (0 registrations, no license entries available). No product/dosage-form data can be reported.
+Pyrazinamide has 20 valid single-ingredient registrations in India. The approved indication text is not recorded in the licence data. Five main registrations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 180681 | PYRA 500MG TABLET (Kopran Ltd) | Strip of 10 tablets | Not specified |
+| 12536 | Actizid 750mg Tablet (Overseas Healthcare Pvt Ltd) | Strip of 10 tablets | Not specified |
+| 83965 | Eurozide 750mg Tablet (Euro Biogenics) | Strip of 10 tablets | Not specified |
+| 174379 | P Zide 500 Tablet (Cadila Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified |
+| 136891 | Macrozide 1000 Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 6 tablets | Not specified |
+
+All products are oral tablets.
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: 56 total interactions identified (source: DDInter). Two flagged at **Moderate** severity — Picosulfuric acid and Naltrexone. The remaining listed interactions (e.g., proton pump inhibitors, H2-antagonists, Vancomycin, Amphotericin B, corticosteroids, Metronidazole, Acetylsalicylic acid, Glyburide, Amoxicillin, Streptomycin) are recorded with **Unknown** severity classification in the source database and require individual clinical review.
+- **Disease-level cautions (from knowledge graph contraindication links, not label text)**: liver failure and acute liver failure, hepatitis, liver disease, gallbladder disease, porphyria (including inherited porphyria and porphyrin metabolism disease), gout, diabetes mellitus and diabetic ketoacidosis, peripheral nervous system disease and peripheral neuropathy, substance abuse/dependence, and slow acetylator status.
+- **Drug Interactions**: 56 interactions were identified. Those graded Moderate are **picosulfuric acid** and **naltrexone**. Others, with severity not graded, include pantoprazole, omeprazole, lansoprazole, ranitidine, famotidine, mesalazine, sulfasalazine, morphine, vancomycin, streptomycin, amphotericin B, prednisone, prednisolone, metronidazole, aspirin, glyburide, amoxicillin and potassium chloride.
 
-Key warnings and contraindications are not available in this evidence pack — please refer to the package insert for that information.
+Please refer to the package insert for label warnings and contraindications.
 
 ---
 
@@ -92,13 +115,14 @@ Key warnings and contraindications are not available in this evidence pack — p
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Infectious Otitis Media) has zero clinical trial or literature support and is explicitly flagged by the evidence pack as a prediction-score-only signal (L5). Related, better-evidenced candidates in the same cluster (L4, "Research Question" stage) only support Pyrazinamide's existing role within standard anti-TB combination therapy for extrapulmonary TB, not a novel independent indication.
+The top prediction (infectious otitis media) rests on a computational score alone, with no trials, no literature and no plausible mechanism against common otitis media pathogens. The only supporting evidence is a handful of case reports on tuberculous ear infection, which is already covered by standard anti-TB therapy.
 
 **To proceed, the following is needed:**
-- Mechanism of action (MOA) data from DrugBank to assess biological plausibility beyond TB-cluster semantics
-- TFDA/regulatory package insert data for warnings and contraindications (currently a Blocking data gap per meta.data_gaps)
-- Targeted literature or preclinical search specific to non-tuberculous infectious otitis media (to rule out the TB-semantic-clustering confound)
-- Clarification of whether the TxGNN signal reflects a distinct pharmacological hypothesis or simply reproduces known extrapulmonary-TB treatment patterns
+- Package insert warnings and contraindications for the India-marketed products (currently a blocking gap for safety screening)
+- Mechanism of action data
+- Narrowing the question to **tuberculous otitis media**, where a systematic review of case series could clarify the role of pyrazinamide, rather than pursuing general infectious otitis media
+- Inner ear and middle ear penetration data for pyrazinamide
+- For the Lyme disease prediction (rank 9, flagged as a research question): preclinical validation of activity against *B. burgdorferi* persisters before any clinical consideration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

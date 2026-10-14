@@ -2,15 +2,15 @@
 layout: default
 title: Famotidine
 parent: Moderate Evidence (L3-L4)
-nav_order: 335
-evidence_level: L3
+nav_order: 338
+evidence_level: L4
 indication_count: 10
 ---
 
 # Famotidine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Famotidine: From Peptic Ulcer Disease to Duodenogastric Reflux
+# Famotidine: From Gastric and Duodenal Ulcer to Duodenogastric Reflux
 
 ## One-Sentence Summary
 
-Famotidine is a histamine H2-receptor antagonist historically used to treat peptic ulcer disease and acid-related gastrointestinal conditions.
-The TxGNN model predicts it may also be effective for **Duodenogastric Reflux**, with a prediction score of **99.99%**,
-though currently only **2 publications** and **no registered clinical trials** directly support this specific direction.
+Famotidine is an H2 receptor antagonist originally used to treat gastric ulcer, duodenal ulcer, gastroesophageal reflux disease, and Zollinger-Ellison syndrome.
+The TxGNN model's top-ranked prediction is **duodenogastric reflux**, but the evidence for it is thin: **no registered clinical trials** and only **2 publications** (one critically ill cohort study and one older Russian-language report).
+Stronger support exists for related ulcer indications such as **peptic ulcer disease** (8 clinical trials, 20 publications), but this largely overlaps famotidine's approved uses and is not true repurposing.
 
 ---
 
@@ -43,52 +43,93 @@ though currently only **2 publications** and **no registered clinical trials** d
 
 | Item | Content |
 |------|------|
-| Original Indication | Peptic Ulcer Disease / Acid-related GI disorders (based on known drug class; no TFDA/India label text available — see Data Gap DG001) |
-| Predicted New Indication | Duodenogastric Reflux |
+| Original Indication | Gastric ulcer, gastroesophageal reflux disease, esophagitis, dyspepsia, duodenal ulcer, Zollinger-Ellison syndrome (the India licence records contain no approved-indication text) |
+| Predicted New Indication | Duodenogastric reflux |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L3 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold (source data labels this "Research Question" stage — S1) |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (Data Gap DG002). Based on known information, Famotidine belongs to the histamine H2-receptor antagonist class, and its efficacy in acid-related peptic ulcer disease is well established through decades of clinical use.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, famotidine is a selective histamine H2 receptor antagonist. It reduces basal and stimulated gastric acid secretion, which is the basis for its use in ulcer healing and reflux disease.
 
-Duodenogastric reflux (bile/duodenal content refluxing into the stomach) is mechanistically distinct from simple gastric acid hypersecretion, so the applicability of an H2-antagonist is less direct than in classic acid-peptic disease. Per the model's own rationale: acid suppression may reduce symptoms associated with concurrent acidic reflux, but the mechanistic link to bile/duodenogastric reflux itself is indirect, since neutralizing bile-mediated mucosal injury is not the primary pathway of H2-receptor blockade.
+Duodenogastric reflux is driven mainly by bile and duodenal contents flowing back into the stomach. Acid suppression may lessen mucosal injury from refluxed material, but it does not address the cause, so any benefit would be indirect. The two available publications are a cohort study of famotidine's effect on gastroesophageal and duodeno-gastro-esophageal reflux in critically ill patients (2003) and a Russian-language report of famotidine 20 mg twice daily in early gastroduodenal reflux disease (2004). Both are small or old.
 
-Given this indirect mechanistic link, and the fact that only observational/small non-RCT literature exists for this specific indication, the prediction should be treated as a research hypothesis rather than a near-term repurposing candidate.
+The other predictions fall into three groups:
+- **Overlap with approved uses:** Peptic ulcer disease (L1, 8 trials) and active peptic ulcer disease (L1, includes randomized placebo-controlled and comparative trials) are on-label acid-related conditions.
+- **Plausible but weakly supported:** Gastrojejunal ulcer, gastroduodenitis, and peptic ulcer perforation (all L3) rest on acid-dependence, but PPIs appear to be the preferred standard.
+- **Unsupported:** Duodenal obstruction, abnormality of glucagon secretion, and acne have no plausible direct mechanism or no data. Multiple endocrine neoplasia has only one indirect 1986 review.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for duodenogastric reflux.
+
+For reference, the strongest trial evidence in the data is for the closely related **peptic ulcer disease** prediction (famotidine is mostly the comparator, not the test drug):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT01180179](https://clinicaltrials.gov/study/NCT01180179) | Phase 4 | Completed | 228 | Lansoprazole vs famotidine for preventing recurrent idiopathic gastroduodenal ulcer bleeding |
+| [NCT00843063](https://clinicaltrials.gov/study/NCT00843063) | Phase 4 | Completed | 161 | High-dose famotidine vs pantoprazole for preventing recurrent aspirin-induced ulcer/erosion; famotidine was inferior |
+| [NCT02418312](https://clinicaltrials.gov/study/NCT02418312) | N/A | Completed | 228 | H2 receptor antagonist for preventing thienopyridine-related peptic ulcer |
+| [NCT02551744](https://clinicaltrials.gov/study/NCT02551744) | N/A | Completed | 101 | Pantoprazole vs famotidine for preventing recurrent ulcers in thienopyridine users |
+| [NCT00229424](https://clinicaltrials.gov/study/NCT00229424) | Phase 3 | Completed | 325 | Lafutidine vs placebo and famotidine in mild reflux oesophagitis |
+| [NCT03667703](https://clinicaltrials.gov/study/NCT03667703) | Phase 4 | Completed | 70 | Stress ulcer prophylaxis vs placebo in critically ill infants with congenital heart disease |
+| [NCT00557349](https://clinicaltrials.gov/study/NCT00557349) | Phase 4 | Completed | 40 | Zegerid vs famotidine for preventing anastomotic ulcers after gastric bypass |
+| [NCT00839488](https://clinicaltrials.gov/study/NCT00839488) | Phase 4 | Terminated | 6 | IV pantoprazole vs famotidine for stress ulcer prophylaxis after major abdominal surgery; underpowered |
 
 ---
 
 ## Literature Evidence
 
+Publications directly related to duodenogastric reflux:
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [12532466](https://pubmed.ncbi.nlm.nih.gov/12532466/) | 2003 | Cohort (ICU patients) | World Journal of Gastroenterology | Investigated famotidine's effect on gastroesophageal reflux (GER) and duodeno-gastro-esophageal reflux (DGER) in critically ill patients, exploring possible mechanisms and relevant risk factors. |
-| [16259441](https://pubmed.ncbi.nlm.nih.gov/16259441/) | 2004 | Review / small non-English study | Eksperimental'naia i klinicheskaia gastroenterologiia | Evaluated famotidine 20 mg BID at early stages of gastroduodenal reflux disease (Savary-Miller grade 0–1) via clinical and endoscopic assessment. |
+| [12532466](https://pubmed.ncbi.nlm.nih.gov/12532466/) | 2003 | Cohort/Clinical study | World J Gastroenterol | Effect of famotidine on gastroesophageal and duodeno-gastro-esophageal reflux in critically ill patients |
+| [16259441](https://pubmed.ncbi.nlm.nih.gov/16259441/) | 2004 | Clinical study (non-English) | Eksp Klin Gastroenterol | Famotidine 20 mg twice daily in early-stage gastroduodenal reflux disease |
+
+Selected supporting literature from the related peptic ulcer predictions:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [2877912](https://pubmed.ncbi.nlm.nih.gov/2877912/) | 1987 | RCT | Gastroenterology | Placebo-controlled; nocturnal vs twice-daily famotidine in active duodenal ulcer (n=384) |
+| [2570005](https://pubmed.ncbi.nlm.nih.gov/2570005/) | 1989 | RCT | Digestion | Famotidine vs cimetidine in active duodenal ulcer (n=119) |
+| [2877570](https://pubmed.ncbi.nlm.nih.gov/2877570/) | 1986 | Multicenter randomized study | Am J Med | Famotidine vs ranitidine in active duodenal ulcer (n=1,031) |
+| [19837071](https://pubmed.ncbi.nlm.nih.gov/19837071/) | 2010 | RCT | Gastroenterology | Famotidine inferior to pantoprazole in preventing recurrence of aspirin-related ulcers or erosions |
+| [31229990](https://pubmed.ncbi.nlm.nih.gov/31229990/) | 2020 | RCT | Gut | Lansoprazole vs famotidine for preventing recurrent idiopathic ulcer bleeding |
+| [22186979](https://pubmed.ncbi.nlm.nih.gov/22186979/) | 2012 | RCT | Am J Gastroenterol | Ibuprofen/high-dose famotidine single tablet reduced gastric and duodenal ulcers vs ibuprofen alone |
+| [41405382](https://pubmed.ncbi.nlm.nih.gov/41405382/) | 2026 | Systematic review/Meta-analysis | Crit Care Med | H2RAs vs PPIs for stress ulcer prophylaxis in septic shock |
+| [2573505](https://pubmed.ncbi.nlm.nih.gov/2573505/) | 1989 | Review | Drugs | Updated review of famotidine pharmacology and therapeutic use in peptic ulcer disease |
 
 ---
 
 ## India Market Information
 
-Famotidine is currently not registered or marketed in India (0 registrations on file).
+Famotidine has 20 valid single-ingredient registrations, all oral tablets. The records contain no approved-indication text. Five examples:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 94049 | Famomeg 40mg Tablet (Ridhima Biocare) | Strip of 14 tablets | Not stated in records |
+| 84383 | Famogreat 40mg Tablet (Mankind Pharma Ltd) | Strip of 14 tablets | Not stated in records |
+| 86066 | Fadine 20mg Tablet (Aristo Pharmaceuticals Pvt Ltd) | Strip of 14 tablets | Not stated in records |
+| 127423 | Litz 40mg Tablet (Glitz Pharma) | Strip of 10 tablets | Not stated in records |
+| 90455 | Famopril 20mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated in records |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**: 639 documented interactions on record (source: DDInter). Representative Moderate-level interactions include Abiraterone, Acalabrutinib, Tramadol, Abarelix, Acetohexamide, Adenosine, Salbutamol, Aminophylline, Amiodarone, Amisulpride, Amitriptyline, Amoxapine, Anagrelide, Apalutamide, Apomorphine, Arformoterol, and Aripiprazole. Minor-level interactions include Alendronic acid and Aluminum hydroxide.
+- **Contraindications (knowledge-graph associations, not label text):** The drug-disease graph links famotidine to kidney disease, impaired renal function, liver disease, gallbladder disease, nephrolithiasis, hypercalcemia, hyperparathyroidism, sarcoidosis, diarrheal disease, constipation, and gastric cancer/neoplasm. These need verification against the package insert.
+- **Drug Interactions:** 639 interactions were found. Most listed are Moderate, for example abiraterone, acalabrutinib, tramadol, amiodarone, amitriptyline, aripiprazole, and aminophylline. Alendronic acid and aluminum hydroxide are Minor.
+- **Literature-noted cautions:** Renal dose adjustment is needed, and CNS adverse effects such as delirium have been reported (case report, [11573854](https://pubmed.ncbi.nlm.nih.gov/11573854/)), especially in the elderly.
 
-(Key warnings and contraindications are not yet available — see Data Gap DG001 below.)
+Please also refer to the package insert for full warnings and contraindications.
 
 ---
 
@@ -97,13 +138,13 @@ Famotidine is currently not registered or marketed in India (0 registrations on 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but for duodenogastric reflux specifically the evidence base is limited to two older, non-RCT publications with no registered clinical trials, and the mechanistic link (H2-blockade vs. bile-mediated reflux injury) is indirect. This does not yet meet the bar to proceed.
+For the top prediction, duodenogastric reflux, there are no registered trials and only two small or dated publications, so the evidence is L4. Famotidine acts on acid, whereas this condition is bile-driven, so benefit would be indirect. The L1 evidence applies to peptic ulcer disease, which overlaps famotidine's approved uses and is not true repurposing. In that setting famotidine was inferior to PPIs for preventing aspirin-related ulcer recurrence.
 
 **To proceed, the following is needed:**
-- TFDA/India regulatory package insert (warnings, contraindications) — currently blocking (Data Gap DG001)
-- Confirmed mechanism of action data from DrugBank — currently high-impact gap (Data Gap DG002)
-- Prospective or controlled trials evaluating famotidine specifically in duodenogastric/duodeno-gastro-esophageal reflux populations
-- Note: within this same evidence pack, other predicted indications for famotidine — **peptic ulcer disease** (L1, multiple completed Phase 3/4 RCTs), **active peptic ulcer disease** (L1), and **gastrojejunal/marginal ulcer** (L2, direct Phase 4 RCT evidence) — show substantially stronger, more actionable evidence and may warrant prioritization over duodenogastric reflux.
+- A prospective, controlled study of famotidine in duodenogastric reflux, with bile-reflux endpoints
+- Detailed mechanism-of-action data
+- Package insert warnings and contraindications from the India regulator
+- A comparison against PPIs, and a dosing plan covering renal impairment and elderly patients
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

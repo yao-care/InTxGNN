@@ -2,7 +2,7 @@
 layout: default
 title: Dimethicone
 parent: Model Prediction Only (L5)
-nav_order: 270
+nav_order: 273
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dimethicone: From Skin Protection to Insomnia
+# Dimethicone: From Gas-Related Digestive Discomfort to Insomnia (Prediction Not Supported)
 
 ## One-Sentence Summary
 
-Dimethicone is an inert silicone polymer widely used as a topical skin protectant, emollient excipient, and antiflatulent agent; no formally registered therapeutic indications are documented in the current dataset.
-The TxGNN model predicts it may be effective for **Insomnia**, with a prediction score of **94.35%** (rank 62,274 of all drug–disease pairs).
-However, **no clinical trials and no supporting literature** currently exist to substantiate this prediction, placing the evidence at the lowest possible level (L5).
-
----
+Dimethicone is a silicone polymer widely marketed in India, mainly in anti-flatulence and antacid products. The licence records compiled for this report do not list an approved indication text. The TxGNN model predicts it may be effective for **insomnia**, but there are **0 clinical trials** and **0 publications** supporting this, and the pharmacology argues against it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No registered indication on record |
+|------|------|
+| Original Indication | Not stated in the licence records (marketed products are combination and single-ingredient anti-flatulence and gastrointestinal preparations) |
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 94.35% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 (model prediction only) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known pharmacological properties, Dimethicone is an inert polydimethylsiloxane polymer. It acts purely through physical and mechanical means — forming a protective film on skin or mucosa, reducing surface tension of gas bubbles in the gastrointestinal tract — and has no known receptor-binding activity, no CNS penetration, and no systemic absorption under normal conditions.
+Currently, detailed mechanism of action data is not available. Dimethicone (polydimethylsiloxane) is a silicone polymer that is physiologically inert and not systemically absorbed after oral use. It has no known central nervous system activity.
 
-Insomnia involves dysregulation of sleep-wake neurocircuitry, including GABAergic inhibition, adenosinergic tone, melatonin signalling, and monoaminergic modulation. Dimethicone does not interact with any of these pathways. There is no plausible pharmacological bridge between this inert excipient and sleep regulation.
+No mechanistic link to insomnia could be identified. The high score (0.944) appears to be a knowledge-graph artifact rather than a pharmacologically grounded signal, so the prediction should be treated as unreliable.
 
-The high TxGNN score (94.35%) is most likely attributable to indirect proximity effects within the knowledge graph — Dimethicone may share graph neighbours (e.g., shared drug-excipient relationships or broadly connected disease nodes) with compounds that do have CNS activity. This is considered a **computational false positive**, and the prediction should be treated with caution.
-
----
+The other top-ranked predictions are mostly cataract subtypes (mature, tetanic, craniostenosis, diabetic, immature, cortical, nuclear senile and senile cataract), plus severe non-proliferative diabetic retinopathy. They likely stem from ophthalmic associations of silicone, such as silicone oil used as a surgical tamponade in vitreoretinal surgery and silicone used in intraocular lens materials. These are surgical or device roles, not drug treatment of lens opacity or retinopathy. Each of these predictions also has no supporting trials or literature and an L5 evidence level.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
-Dimethicone (DrugBank ID: DB11074) currently has **no registered products** in the India regulatory database. No authorization numbers, brand names, or approved indications are on record.
+Dimethicone has 20 valid single-ingredient registrations, with no cancelled ones. The licence records give no approved indication text. Five of the main authorisations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 72707 | Enzym Tablet | Strip of 10 tablets | Allenge India |
+| 231737 | Unipride Mps 125mg/10mg Tablet | Strip of 10 tablets | Torrent Pharmaceuticals Ltd |
+| 74829 | Espumisan Endo Drop | Packet of 15 ml drop | A. Menarini India Pvt Ltd |
+| 85033 | Flatease Capsule | Strip of 10 capsules | Teslamed Pharmaceuticals Private Limited |
+| 208972 | Siloil 1300 Injection | Vial of 10 ml injection | Intas Pharmaceuticals Ltd |
+
+Other registered forms include suspensions, oral drops and an emulsion.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found for dimethicone, and no knowledge-graph contraindications were identified.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Dimethicone is a biologically inert silicone polymer with no known CNS activity, no blood-brain barrier permeability, and no receptor-level mechanism relevant to sleep disorders. The high TxGNN prediction score is attributed to knowledge graph clustering artefacts rather than genuine pharmacological signal. There is zero supporting clinical or preclinical evidence for this indication.
+The prediction rests only on a model score. There are no clinical trials or publications, and dimethicone is an inert, non-absorbed silicone with no known CNS activity. The same applies to the cataract and diabetic retinopathy predictions, which likely reflect surgical and device associations of silicone rather than therapeutic effects.
 
 **To proceed, the following is needed:**
-- Establish whether any modified or nano-formulated form of Dimethicone has demonstrated CNS-relevant activity in peer-reviewed preclinical studies
-- Obtain full mechanism of action data from DrugBank (currently a data gap)
-- Perform manual review of TxGNN knowledge graph paths to identify which intermediate nodes generated this score, and evaluate whether the path represents biological plausibility or graph noise
-- If any biological rationale is identified in the above steps, a formal preclinical hypothesis and in vitro sleep-model study design would be the minimum next step before any clinical consideration
-
-> **Research Disclaimer:** This report is generated for research reference purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+- Mechanism of action data confirming any plausible link to sleep regulation (none is currently identified)
+- Package insert warnings and contraindications from the India regulatory source, since these are currently missing
+- Any preclinical or clinical evidence supporting insomnia, which would be required before reconsidering
+- Route compatibility assessment, which has not been completed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

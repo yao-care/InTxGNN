@@ -2,7 +2,7 @@
 layout: default
 title: Flavoxate
 parent: Model Prediction Only (L5)
-nav_order: 352
+nav_order: 355
 evidence_level: L5
 indication_count: 8
 ---
@@ -29,67 +29,85 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Flavoxate: From Urinary Urgency/Frequency to Neurogenic Bladder
+# Flavoxate: From Urinary Tract Smooth Muscle Relaxation to Irritable Bowel Syndrome
 
 ## One-Sentence Summary
 
-Flavoxate is a musculotropic urinary spasmolytic already used to relieve dysuria, urgency, and frequency associated with cystitis, prostatitis, and urethritis. TxGNN's raw ranking surfaced eight candidate indications, but a mechanistic screen finds only **Neurogenic Bladder** biologically defensible (evidence level **L4**, no data gap in rationale); the other seven — including the two top-ranked hits (ADHD subtypes) — are flagged by the model's own rationale as likely embedding noise, with **zero clinical trials and zero publications** across all eight candidates.
+Flavoxate is a smooth muscle relaxant with antimuscarinic, phosphodiesterase-inhibiting and calcium-antagonist properties, used on the urinary tract and marketed in India as a 200 mg tablet.
+The TxGNN model's top-ranked predictions are ADHD-related terms, but these are biologically implausible. The most plausible candidates are **neurogenic bladder** (the most biologically plausible, though the ontology term is obsolete) and **irritable bowel syndrome** (an indirect class-based link).
+Currently there are **0 clinical trials** and **0 publications** supporting any of these predictions, so all rest on model prediction alone.
 
-> **Note on candidate selection**: The highest raw TxGNN score belongs to "ADHD, inattentive type" (rank 1), but its own repurposing rationale states Flavoxate has no known CNS penetration or monoamine activity and calls the link "likely prediction noise." We therefore report **Neurogenic Bladder (rank 6)** as the lead candidate, since it is the only one with a coherent mechanism and a "Proceed with Guardrails" internal recommendation.
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally on file (no `original_indications` recorded); known off-label/approved use pattern is symptomatic relief of dysuria, urgency, frequency, and incontinence associated with cystitis/prostatitis/urethritis |
-| Predicted New Indication | Neurogenic Bladder |
-| TxGNN Prediction Score | 99.13% |
-| Evidence Level | L4 (mechanistic/preclinical rationale only; no trials or literature) |
-| Market Status (Taiwan) | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold (blocked pending safety label data) |
+| Original Indication | Not stated in the India license data (the drug is used for urinary urgency, frequency and bladder spasm) |
+| Predicted New Indication | Top-ranked: attention deficit hyperactivity disorder, inattentive type (implausible). Most plausible: obsolete neurogenic bladder (rank 6) and irritable bowel syndrome (rank 2) |
+| TxGNN Prediction Score | 99.75% (rank 1, ADHD inattentive type); 99.74% (irritable bowel syndrome); 99.13% (neurogenic bladder) |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold (neurogenic bladder: Research Question) |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (`original_moa` is a data gap). Based on the evidence pack's own rationale fields, Flavoxate is known to act as a musculotropic spasmolytic with weak anticholinergic and phosphodiesterase-inhibiting activity, and has an established use pattern in urinary tract irritative symptoms — urgency, frequency, and dysuria linked to cystitis, prostatitis, and urethritis.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, flavoxate relaxes smooth muscle through antimuscarinic, phosphodiesterase-inhibiting and calcium-modulating effects, acting mainly on the urinary tract.
 
-Neurogenic bladder's core clinical presentation (detrusor overactivity, urgency, frequency) overlaps directly with this existing symptom profile. This makes the prediction a **symptom-level extension** of current pharmacology rather than a novel mechanistic hypothesis — the most defensible of the eight candidates TxGNN returned.
+**Neurogenic bladder (most plausible).** Flavoxate relaxes detrusor smooth muscle and is already used for urgency, frequency and bladder spasm. Neurogenic bladder with detrusor overactivity shares these symptoms. The ontology term is flagged obsolete and should be mapped to a current term (for example, neurogenic detrusor overactivity) before further assessment. Urinary retention risk in neurogenic bladder also needs evaluation.
 
-The remaining seven candidates were screened out on mechanistic grounds: ADHD (both entries) and specific developmental disorder require CNS/monoamine activity Flavoxate is not known to have; IBS relies only on a generic "antispasmodic class effect" analogy, not drug-specific evidence; cauda equina syndrome is a surgical emergency where Flavoxate could at most mask urinary symptoms without treating the underlying compression; and gastroduodenitis/peptic ulcer disease require anti-secretory or anti-infective mechanisms unrelated to smooth-muscle relaxation. None of these seven have any supporting trial or literature evidence either.
+**Irritable bowel syndrome (indirect link).** Antimuscarinic and smooth muscle relaxant activity underlies antispasmodics used in IBS, such as hyoscine and dicyclomine. This is an extrapolation from drug class only. Flavoxate acts mainly on the urinary tract, and no GI evidence was provided.
 
-## Clinical Trial Evidence
+**Other predictions.**
+- **ADHD (inattentive type and general) and specific developmental disorder:** No supported mechanism. Antimuscarinics are generally expected to worsen attention and cognition. These predictions are likely graph artifacts, with overlapping ontology terms giving correlated rather than independent support.
+- **Peptic ulcer disease and gastroduodenitis:** Antimuscarinics were historically adjuncts in peptic ulcer disease, but they have been superseded by PPIs and H2 blockers. Flavoxate has no demonstrated gastric antisecretory effect.
+- **Cauda equina syndrome:** A neurosurgical emergency treated by decompression. Flavoxate could at most relieve associated bladder symptoms, could delay urgent care, and may worsen urinary retention.
 
-Currently no related clinical trials registered.
+---
 
-## Literature Evidence
+## India Market Information
 
-Currently no related literature available.
+Twenty valid single-ingredient registrations exist, all as oral tablets (strip of 10 tablets). The license data contains no approved indication text. The first five are listed below.
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 88147 | Flavistrong 200 Tablet | Strip of 10 tablets | Not stated |
+| 210103 | Solvoid Tablet | Strip of 10 tablets | Not stated |
+| 93896 | Flyvo 200mg Tablet | Strip of 10 tablets | Not stated |
+| 231735 | Urific 200mg Tablet | Strip of 10 tablets | Not stated |
+| 167505 | Oriflav 200 Tablet | Strip of 10 tablets | Not stated |
 
-Flavoxate is **not currently marketed in Taiwan** (0 registered licenses, no product listings on file).
+---
 
 ## Safety Considerations
 
-**Drug Interactions** (74 total on file; representative entries below):
-- **Major**: Potassium citrate, Potassium chloride — anticholinergic/antispasmodic effects can slow GI transit, raising the risk of mucosal injury from solid oral potassium formulations.
-- **Moderate** (additive anticholinergic/antimuscarinic burden — constipation, urinary retention, CNS effects): Hyoscyamine, Atropine, Glycopyrronium, Clidinium, Dicyclomine, Propantheline, Mepenzolate, Methscopolamine, Scopolamine, Trospium.
-- **Moderate** (other): Loperamide, Morphine, Dronabinol, Nabilone, Eluxadoline, Metoclopramide, Pramlintide, Prucalopride.
+- **Contraindications suggested by the knowledge graph** (drug-disease contraindication edges, not label text): angle-closure glaucoma, closed-angle glaucoma, pyloric stenosis, paralytic ileus, intestinal obstruction, familial visceral myopathy, active peptic ulcer disease, urinary tract obstruction.
+  - Note that active peptic ulcer disease appears here as a contraindication, which conflicts with the peptic ulcer disease repurposing prediction.
+- **Drug Interactions:** 74 interactions were identified in total.
+  - **Major:** potassium citrate, potassium chloride.
+  - **Moderate (examples):** other antimuscarinics and antispasmodics (hyoscyamine, atropine, glycopyrronium, clidinium, dicyclomine, trospium, scopolamine, propantheline, methscopolamine, mepenzolate); opioids and GI motility-affecting drugs (morphine, loperamide, eluxadoline, metoclopramide, prucalopride, pramlintide); cannabinoids (dronabinol, nabilone).
 
-Key warnings and contraindications are not available in the current evidence pack — refer to the manufacturer's package insert for this information.
+Please refer to the package insert for label warnings and contraindications, which are not available in the compiled data.
+
+---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold** (neurogenic bladder: Research Question)
 
 **Rationale:**
-A blocking data gap exists — TFDA package-insert warnings/contraindications (DG001) are unavailable, which prevents completion of even the initial S1 safety review for this drug. Of the eight TxGNN-predicted indications, only Neurogenic Bladder has a defensible mechanistic rationale (L4); it cannot advance past guardrail status without the missing safety data, and the remaining seven candidates lack sufficient biological plausibility to pursue further.
+All predictions are supported by model scores only, with no clinical trials or literature, so the evidence level is L5. Neurogenic bladder is biologically plausible and worth a targeted literature review, IBS has only a class-level link, and the ADHD-related predictions are implausible and likely artifacts.
 
 **To proceed, the following is needed:**
-- TFDA/manufacturer package insert (warnings, contraindications) — resolves blocking gap DG001
-- Confirmed original mechanism of action (DrugBank API query) — resolves high-severity gap DG002
-- If pursuing Neurogenic Bladder: preclinical or mechanistic pilot data, since no clinical trials or literature currently exist for this specific indication
-- No further evaluation recommended for the remaining seven predicted indications (ADHD ×2, IBS, specific developmental disorder, cauda equina syndrome, gastroduodenitis, peptic ulcer disease) absent new supporting evidence
+- Package insert warnings and contraindications from the India regulator (blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Mapping of the obsolete neurogenic bladder term to a current term, then a targeted literature and trial search
+- Assessment of urinary retention risk in neurogenic bladder
+- Targeted literature search for flavoxate in IBS and other GI spasm
+- Approved indication text for the Indian licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

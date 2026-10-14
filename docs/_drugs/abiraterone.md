@@ -29,123 +29,94 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Abiraterone: From Prostate Cancer to Migraine Disorder
+# Abiraterone: From Prostate Cancer (Not Recorded in License Data) to Migraine Disorder
 
 ## One-Sentence Summary
 
-Abiraterone acetate (DrugBank: DB05812) is a selective CYP17A1 inhibitor used to treat castration-resistant prostate cancer by blocking androgen biosynthesis in the adrenal glands and tumor tissue.
-The TxGNN model predicts it may be effective for **Migraine Disorder** (rank 1, score 98.81%), with migraine variants occupying three of the top five predicted slots.
-However, **no clinical trials or directly relevant publications** linking Abiraterone to any migraine indication have been identified — all predictions remain at Evidence Level L5.
-
----
+Abiraterone is an oral drug marketed in India under 20 valid registrations. The license data compiled for this report does not record an approved indication. The TxGNN model predicts it may be effective for **migraine disorder**, but **no clinical trials and no relevant publications** currently support this prediction. It is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Prostate cancer (castration-resistant; from published prescribing information — no India license on file) |
-| Predicted New Indication | Migraine Disorder |
+|------|------|
+| Original Indication | Not recorded in the compiled license data |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 98.81% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data was not retrieved from DrugBank in this Evidence Pack (Data Gap DG002). Based on established pharmacology, Abiraterone is a selective inhibitor of CYP17A1 (17α-hydroxylase / 17,20-lyase), the enzyme responsible for androgen biosynthesis in the adrenal glands, testes, and tumor microenvironment. Its clinical utility in prostate cancer stems from the fact that tumor growth is driven by androgen receptor signaling even after surgical or chemical castration.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, abiraterone inhibits CYP17A1 and suppresses the synthesis of androgens and cortisol precursors. Its clinical use is in prostate cancer, where it is co-administered with prednisone. The retrieved publications about it are all prostate cancer studies.
 
-The mechanistic rationale linking Abiraterone to migraine centres on the sex-hormone axis: menstrual migraine is well-documented to be triggered by perimenstrual estrogen withdrawal. Because adrenal androgens (DHEA, androstenedione) are upstream precursors for peripheral estrogen synthesis via aromatization, CYP17A1 inhibition could theoretically reduce the substrate pool available for estrogen production, dampening hormonal fluctuations that precipitate migraine attacks. However, the direction of this effect is uncertain — blocking upstream androgens does not reliably suppress circulating estrogen in premenopausal women and may have paradoxical consequences depending on the tissue and hormonal milieu.
+The link between this mechanism and migraine is speculative. Hormonal modulation could theoretically influence migraine, but no mechanistic or clinical evidence has been established. The high score (0.988) most likely reflects proximity in the knowledge graph, not a demonstrated pharmacological rationale.
 
-It is worth noting that among the full top-10 prediction list, **pulmonary hypertension (rank 5)** carries the strongest biological rationale: androgen receptors are expressed in pulmonary arterial smooth muscle cells, idiopathic pulmonary arterial hypertension (IPAH) shows a consistent female predominance (F:M ≈ 2–4:1) implicating sex-hormone signaling in disease pathobiology, and CYP17A1 inhibition could theoretically reduce androgen-driven vascular remodeling. This direction deserves closer attention than the migraine cluster, despite no directly matching evidence being retrieved.
+The other top predictions are also unsupported:
 
----
+- **Migraine-related terms** (susceptibility phenotype, brainstem aura): these appear to be redundant ontology neighbours of the main migraine prediction.
+- **Pulmonary hypertension:** this has only a loose theoretical link through sex-hormone signalling. The five retrieved publications are all about prostate cancer and are not relevant evidence. Abiraterone's mineralocorticoid excess can cause fluid retention and hypertension, which is a safety concern.
+- **Rheumatoid arthritis:** the anti-inflammatory effect comes from co-administered prednisone, not abiraterone, and androgen suppression could be unfavourable.
+- **Leprosy, nephrogenic syndrome of inappropriate antidiuresis, kyphoscoliotic heart disease, atrophoderma vermiculata, ulerythema ophryogenesis:** no plausible mechanism or evidence.
 
 ## Clinical Trial Evidence
 
-Currently no clinical trials directly investigating Abiraterone for Migraine Disorder have been registered.
-
-> **⚠️ Data Quality Note — Pulmonary Hypertension (Rank 5):** One trial was retrieved by the evidence collector for the pulmonary hypertension query:
->
-> | Trial | Phase | Status | Enrollment | Assessment |
-> |-------|-------|--------|------------|------------|
-> | [NCT01961843](https://clinicaltrials.gov/study/NCT01961843) | NA | Completed | 40 | **Mismatched** — This is a prostate cancer circulating tumor cell biomarker study. It was incorrectly retrieved for the pulmonary hypertension indication and should not be counted as supporting evidence. |
->
-> Effective clinical trial count for all 10 predicted indications: **0**.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no directly relevant literature linking Abiraterone to Migraine Disorder is available.
-
-> **⚠️ Data Quality Note — Migraine with or without Aura, Susceptibility (Rank 2):** The evidence collector returned 20 publications for this query. Upon review, all 20 are epilepsy genetics papers (SCN1A polymorphisms, MTHFR variants, POLG-related disease, GABAergic receptor studies) and are entirely unrelated to Abiraterone. This is a keyword mismatching artifact: "migraine susceptibility" was conflated with "epilepsy susceptibility" by the search algorithm. These publications should be excluded from evidence counting.
->
-> **⚠️ Data Quality Note — Pulmonary Hypertension (Rank 5):** Five publications were retrieved, all of which are Abiraterone trials in prostate cancer (STAMPEDE platform, ACIS trial, COSMIC-021, bipolar androgen therapy). None relate to pulmonary hypertension. Evidence collector returned drug-matched but indication-mismatched results.
->
-> Effective literature count for all 10 predicted indications: **0**.
-
----
+Currently no related literature available for migraine disorder.
 
 ## India Market Information
 
-Abiraterone is currently **not registered or marketed in India**. No product authorizations were found in the regulatory database. A market entry pathway assessment would be required from scratch.
+There are 20 valid single-ingredient registrations, with no combination products and no cancelled registrations. The compiled data contains no approved indication text. Five main authorizations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 2882 | Ahabir Tablet (Hetero Drugs Ltd) | Bottle of 120 tablets | Not recorded |
+| 8568 | Abtmed 250mg Tablet (Medicamen Biotech Ltd) | Bottle of 30 tablets | Not recorded |
+| 246845 | Zelgor 500mg Tablet (Sun Pharmaceutical Industries Ltd) | Bottle of 60 tablets | Not recorded |
+| 20160 | Abstet Tablet (Biocon) | Strip of 30 tablets | Not recorded |
+| 247367 | Zabpro 500mg Tablet (Ipca Laboratories Ltd) | Bottle of 60 tablets | Not recorded |
+
+All products are oral tablets.
 
 ## Cytotoxicity
 
-Abiraterone is indicated for prostate cancer and belongs to the androgen biosynthesis inhibitor class — an anticancer drug. This section applies.
+Abiraterone is used as an anticancer hormonal therapy for prostate cancer. It is a CYP17A1 inhibitor, not a conventional cytotoxic chemotherapy.
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted hormonal therapy (CYP17A1 / Androgen synthesis inhibitor) — not a conventional cytotoxic agent |
-| Myelosuppression Risk | Low — no direct myelosuppressive mechanism; not a DNA-damaging or mitotic-targeting agent |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function (ALT/AST — hepatotoxicity risk), serum potassium (hypokalemia from mineralocorticoid excess), blood pressure, serum cortisol / adrenal function, fasting blood glucose (concomitant corticosteroid effect), cardiac monitoring (QT interval) |
-| Handling Protection | Standard oral chemotherapy precautions recommended; does not require the same handling protocols as cytotoxic chemotherapy (no alkylation, no mutagenic metabolites at standard handling exposure) |
-
-**Important co-administration requirement:** Because CYP17A1 inhibition blocks cortisol synthesis, Abiraterone must be co-administered with a corticosteroid (prednisone or prednisolone) to prevent mineralocorticoid excess syndrome (hypertension, hypokalemia, fluid retention) and adrenal crisis. Any repurposing protocol must incorporate this mandatory corticosteroid pairing.
-
----
+|------|------|
+| Cytotoxicity Classification | Targeted hormonal therapy (CYP17A1 inhibitor), not conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert; liver function, blood pressure, fluid status and potassium are commonly monitored |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-Detailed TFDA/CDSCO warning and contraindication text was not retrieved in this Evidence Pack (Data Gap DG001), and the DDI database query failed due to a missing local file (query log ID 1). Please refer to the official prescribing information for complete safety data.
+- **Drug Interactions:** The interaction screen returned 100 interacting drugs. The first 20 returned include:
+  - **Major:** cisapride, dolasetron, eliglustat, loperamide
+  - **Moderate:** bisacodyl, castor oil, clarithromycin, dexfenfluramine, eluxadoline, famotidine, fenfluramine, glycerin, granisetron, lactitol, lactulose, levofloxacin, magnesium citrate, magnesium hydroxide, metoclopramide
+  - **Minor:** metronidazole
+- **Other concerns noted during evaluation:** Mineralocorticoid excess may cause fluid retention and hypertension. This is relevant to the cardiopulmonary predictions (pulmonary hypertension, kyphoscoliotic heart disease).
 
-Based on published prescribing information and the clinical trial literature retrieved:
-
-- **Adrenal Insufficiency & Mineralocorticoid Excess**: Mandatory co-administration with prednisone/prednisolone is required. Abrupt discontinuation can precipitate adrenal crisis.
-- **Hepatotoxicity**: Clinically significant liver enzyme elevations (ALT/AST) have been reported; LFT monitoring is required at baseline and periodically during treatment.
-- **Cardiovascular Effects**: Hypertension, fluid retention, hypokalemia, and QT prolongation have been documented — particularly relevant if considering use in pulmonary hypertension patients with pre-existing cardiac vulnerability.
-- **Drug Interactions**: DDI data could not be assessed due to a database file path error. Abiraterone is known to be a CYP2D6 and CYP2C8 inhibitor, and is a CYP3A4 substrate — interaction screening is critical before any clinical application.
-
----
+For warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 TxGNN-predicted indications are at Evidence Level L5 (model prediction only). The evidence collector returned zero directly relevant clinical trials or publications for Migraine Disorder, and the retrieved evidence for other indications (migraine with aura susceptibility, pulmonary hypertension) was entirely mismatched — epilepsy genetics papers and prostate cancer trials respectively. There is currently no empirical basis to advance any of these predictions.
-
-**Most promising direction for future investigation:**
-Among all 10 predictions, **Pulmonary Hypertension (rank 5)** carries the strongest biological plausibility. The androgen-PAH mechanistic hypothesis is grounded in published preclinical biology (AR expression in PASMC, sex-skewed IPAH epidemiology), and is a recognized active research area in PAH pathophysiology. This direction warrants a dedicated systematic literature search with PAH-specific queries — not drug-paired queries — to properly assess preclinical evidence.
+All predictions are model outputs only (L5), with no clinical trials and no relevant literature. The mechanistic link to migraine is speculative, and the safety data needed for screening is incomplete.
 
 **To proceed, the following is needed:**
-
-- **DG001 (Blocking)**: Obtain Abiraterone prescribing information (package insert) for safety pre-screening — download and parse TFDA/FDA SPI PDF
-- **DG002 (High)**: Retrieve full MOA, pharmacology, and toxicity data from DrugBank API
-- **DDI database**: Fix file path error for `ddinter_code_A.csv` to enable drug interaction screening
-- **Evidence collection fix**: Correct keyword-matching logic to prevent epilepsy/migraine susceptibility conflation; implement indication-specific MeSH term filtering
-- **Pulmonary hypertension-specific search**: Run dedicated PubMed/ClinicalTrials queries using `"androgen" AND "pulmonary hypertension"` without drug-pairing constraint, to capture preclinical mechanistic literature
-- **Regulatory pathway**: If proceeding to Phase I/II in PAH, India market entry dossier must be built from scratch (zero existing registrations)
-
----
-
-> ⚠️ **Disclaimer**: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+- Package insert warnings and contraindications from the India regulatory source (currently blocking safety screening)
+- Approved indication text and mechanism of action data
+- Preclinical or mechanistic evidence linking CYP17A1 inhibition or hormonal modulation to migraine
+- A targeted literature search specific to migraine, since the retrieved publications are all prostate cancer studies
+- Assessment of route compatibility and the cardiovascular risk of mineralocorticoid excess in the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

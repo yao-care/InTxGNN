@@ -2,7 +2,7 @@
 layout: default
 title: Ipratropium
 parent: High Evidence (L1-L2)
-nav_order: 440
+nav_order: 444
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,53 +29,59 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Ipratropium: From Bronchospasm to Obstructive Lung Disease
+# Ipratropium: From Chronic Obstructive Pulmonary Disease to Obstructive Lung Disease
 
 ## One-Sentence Summary
 
-Ipratropium (Atrovent®) is a well-established inhaled anticholinergic bronchodilator, globally used for bronchospasm associated with COPD and asthma, though it currently holds no approved registration in India.
-The TxGNN model predicts it may be effective for **Obstructive Lung Disease** — a prediction backed by **multiple completed Phase 3 clinical trials** and **20 publications**, firmly anchoring this as confirmed clinical evidence rather than an exploratory hypothesis.
+Ipratropium is an inhaled anticholinergic (muscarinic antagonist) bronchodilator, originally used for chronic obstructive pulmonary disease (COPD), allergic and vasomotor rhinitis, bronchitis and related airway conditions.
+The TxGNN model predicts it may be effective for **obstructive lung disease**,
+with **25 clinical trials** and **20 publications** retrieved for this prediction.
+This is largely a confirmation of its established use rather than true repurposing, because the predicted indication overlaps heavily with the existing COPD, emphysema and bronchial disease indications.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No India (CDSCO) registration on record; globally established for bronchospasm / COPD |
-| Predicted New Indication | Obstructive Lung Disease |
+|------|------|
+| Original Indication | Chronic obstructive pulmonary disease, allergic rhinitis, vasomotor rhinitis, bronchitis, common cold, pulmonary emphysema (source: knowledge graph indication data; the Indian licence records contain no indication text) |
+| Predicted New Indication | Obstructive lung disease |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L1 |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 8 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Ipratropium is a synthetic quaternary derivative of atropine that competitively blocks muscarinic receptors on airway smooth muscle — particularly M3 receptors, which mediate acetylcholine-induced bronchoconstriction and mucus hypersecretion. It also suppresses M2 receptor-mediated negative feedback that would otherwise amplify cholinergic tone. Because it carries a quaternary ammonium charge, it is poorly absorbed from the airway surface, which means bronchodilation is achieved with minimal systemic anticholinergic side effects — a distinct advantage over earlier agents such as atropine itself.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, ipratropium is a muscarinic antagonist that blocks cholinergic (vagally mediated) bronchoconstriction in airway smooth muscle. Review articles in the retrieved literature describe it as a non-selective muscarinic receptor antagonist delivered by inhalation.
 
-Obstructive lung disease — encompassing COPD, chronic bronchitis, and emphysema — is characterized by heightened parasympathetic (vagal) tone driving persistent bronchoconstriction and excessive mucus production. Ipratropium directly addresses this core mechanism. The Lung Health Study (NCT00000568), one of the largest and longest COPD trials ever conducted, used ipratropium MDI as an active intervention in smokers with early pulmonary function decline, providing some of the highest-quality direct evidence for this drug-disease pair.
+The predicted indication, obstructive lung disease, is a broad category that includes COPD, emphysema and chronic bronchial disease. These are conditions for which ipratropium is already used. The mechanism is therefore the same as that behind the existing use, and the prediction mostly reflects the established role of the drug in airway obstruction.
 
-Globally, ipratropium is a cornerstone of COPD management and appears in widely used combination products such as Combivent® (ipratropium + albuterol) and Berodual® (ipratropium + fenoterol). Two Cochrane systematic reviews confirm its clinical efficacy relative to tiotropium in stable COPD, and multiple post-marketing surveillance programs have validated its real-world tolerability across thousands of patients. The TxGNN model's top-ranked prediction of obstructive lung disease is not a novel hypothesis — it is a strong computational confirmation of decades of established clinical evidence.
+Other top predictions (nasal cavity disease, pharyngitis, tracheal disease and others) are supported by far weaker evidence. They are not the focus of this report, but they are summarised in the conclusion.
 
 ---
 
 ## Clinical Trial Evidence
 
+The compiled data contain 25 trials. The most relevant are listed below, prioritising completed, larger and directly relevant studies.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00000568](https://clinicaltrials.gov/study/NCT00000568) | Phase 3 | Completed | N/A | Lung Health Study (LHS I & III): ipratropium MDI used directly in smokers with early COPD; assessed long-term rate of FEV1 decline, cardiopulmonary morbidity and mortality — highest-grade direct evidence for ipratropium in obstructive lung disease |
-| [NCT02233894](https://clinicaltrials.gov/study/NCT02233894) | N/A | Completed | 526 | Post-marketing surveillance of Atrovent® (ipratropium) inhalets in COPD; real-world tolerability and efficacy under daily practice conditions |
-| [NCT02238171](https://clinicaltrials.gov/study/NCT02238171) | N/A | Completed | 346 | Second post-marketing surveillance of Atrovent® inhalets in COPD; further confirmation of real-world safety profile |
-| [NCT00274040](https://clinicaltrials.gov/study/NCT00274040) | Phase 3 | Completed | 141 | Double-blind, double-dummy comparison: tiotropium 18 mcg once daily vs Atrovent MDI 20 mcg qid in COPD — bronchodilator efficacy and safety head-to-head |
-| [NCT02172443](https://clinicaltrials.gov/study/NCT02172443) | Phase 3 | Completed | 50 | Confirmatory tiotropium vs Atrovent MDI comparison in COPD; additional PK/efficacy data |
-| [NCT00400153](https://clinicaltrials.gov/study/NCT00400153) | Phase 3 | Completed | 1,480 | Combivent Respimat (ipratropium 20 mcg/salbutamol 100 mcg) vs Combivent® MDI in COPD; non-inferiority on FEV1 AUC confirmed |
-| [NCT02236169](https://clinicaltrials.gov/study/NCT02236169) | Phase 2 | Completed | 30 | PK comparability of ipratropium HFA-134a vs Atrovent® CFC aerosol in COPD patients; supports HFA formulation bridge |
-| [NCT02260011](https://clinicaltrials.gov/study/NCT02260011) | Phase 2 | Completed | 41 | Single-dose crossover: bronchodilator efficacy and safety of ipratropium HFA vs Atrovent® CFC in COPD |
-| [NCT01691482](https://clinicaltrials.gov/study/NCT01691482) | Phase 4 | Completed | 56 | 4-week crossover: daily lung function variation with albuterol and ipratropium alone vs in combination in COPD patients |
-| [NCT01019694](https://clinicaltrials.gov/study/NCT01019694) | Phase 3 | Completed | 470 | Long-term safety and patient acceptability of Combivent Respimat vs free combination of Atrovent HFA + albuterol HFA in COPD |
+| [NCT02177253](https://clinicaltrials.gov/study/NCT02177253) | Phase 3 | Completed | 1118 | 12-week study comparing ipratropium/salbutamol via Respimat with COMBIVENT aerosol, ipratropium Respimat and placebo in COPD (bronchodilator efficacy and safety) |
+| [NCT01415518](https://clinicaltrials.gov/study/NCT01415518) | Phase 4 | Completed | 581 | Symbicort added to Atrovent plus theophylline versus Atrovent plus theophylline in severe COPD |
+| [NCT02172469](https://clinicaltrials.gov/study/NCT02172469) | Phase 3 | Completed | 215 | Tiotropium 18 µg versus Atrovent MDI in COPD |
+| [NCT00239434](https://clinicaltrials.gov/study/NCT00239434) | Phase 3 | Completed | 200 | Once-daily tiotropium versus Atrovent MDI four times daily in COPD |
+| [NCT00371527](https://clinicaltrials.gov/study/NCT00371527) | NA | Completed | 200 | Randomised, double-blind, placebo-controlled trial of ipratropium for symptom control in acute bronchitis without underlying lung disease |
+| [NCT02172404](https://clinicaltrials.gov/study/NCT02172404) | Phase 3 | Completed | 160 | HandiHaler versus MDI administration technique in COPD (device usability, not efficacy) |
+| [NCT01136421](https://clinicaltrials.gov/study/NCT01136421) | Phase 3 | Completed | 124 | Magnesium sulfate versus ipratropium bromide, each with a short-acting β2 agonist, in acute COPD exacerbation |
+| [NCT01691482](https://clinicaltrials.gov/study/NCT01691482) | Phase 4 | Completed | 56 | 4-week crossover of albuterol and ipratropium, alone and combined, in COPD |
+| [NCT06918418](https://clinicaltrials.gov/study/NCT06918418) | Phase 4 | Completed | 60 | Salbutamol alone versus salbutamol plus ipratropium in children with acute asthma |
+| [NCT02686086](https://clinicaltrials.gov/study/NCT02686086) | NA | Completed | 60 | Lung volumes and symptom scores after bronchodilator via vibrating mesh versus jet nebuliser in COPD |
+
+Several other registered trials were withdrawn or terminated with 0–3 participants and provide no usable evidence (for example NCT02235428, NCT04446637).
 
 ---
 
@@ -83,45 +89,49 @@ Globally, ipratropium is a cornerstone of COPD management and appears in widely 
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [26391969](https://pubmed.ncbi.nlm.nih.gov/26391969/) | 2015 | Cochrane Systematic Review | Cochrane Database Syst Rev | Tiotropium superior to ipratropium on FEV1, SGRQ, and exacerbation rate in stable COPD; ipratropium remains a clinically validated treatment across multiple RCTs |
-| [24043433](https://pubmed.ncbi.nlm.nih.gov/24043433/) | 2013 | Cochrane Systematic Review | Cochrane Database Syst Rev | Earlier Cochrane update on tiotropium vs ipratropium; confirms ipratropium efficacy with a consistent safety profile in stable COPD |
-| [38457591](https://pubmed.ncbi.nlm.nih.gov/38457591/) | 2024 | RCT | Medicine | Probiotics combined with budesonide + ipratropium vs budesonide + ipratropium alone in COPD (n=118); combination improved lung function and gut microbiota profile |
-| [7813271](https://pubmed.ncbi.nlm.nih.gov/7813271/) | 1995 | RCT | Chest | Nonbronchodilator effects of pirbuterol vs ipratropium in COPD: compared gas exchange and distribution of ventilation, revealing distinct pharmacodynamic profiles |
-| [8181328](https://pubmed.ncbi.nlm.nih.gov/8181328/) | 1994 | RCT | Chest | COMBIVENT Inhalation Aerosol Study: ipratropium + albuterol combination superior to either agent alone in COPD over 85-day multicenter double-blind trial |
-| [20163324](https://pubmed.ncbi.nlm.nih.gov/20163324/) | 2010 | Review/Meta-analysis | Expert Opin Drug Metab Toxicol | Comprehensive review of albuterol, ipratropium, and combined therapy in COPD — mechanism, clinical efficacy, and safety summary |
-| [2977109](https://pubmed.ncbi.nlm.nih.gov/2977109/) | 1988 | Review | Clinical Pharmacy | Foundational pharmacology review: chemistry, PK, clinical efficacy, and dosing of ipratropium in obstructive lung disease |
-| [28461224](https://pubmed.ncbi.nlm.nih.gov/28461224/) | 2017 | Clinical Study | EBioMedicine | Sex-related differences in FEV1 response to ipratropium in mild-to-moderate COPD; both male and female patients demonstrate clinically meaningful bronchodilator response |
-| [15257628](https://pubmed.ncbi.nlm.nih.gov/15257628/) | 2004 | Review | Drugs | Review of ipratropium/fenoterol (Berodual) delivered via Respimat Soft Mist Inhaler in asthma and COPD; device comparison and clinical outcomes |
-| [35616126](https://pubmed.ncbi.nlm.nih.gov/35616126/) | 2022 | Cochrane Systematic Review | Cochrane Database Syst Rev | Magnesium sulfate as adjunct in COPD exacerbations; contextualises ipratropium's role within the wider AECOPD standard-of-care treatment landscape |
+| [26391969](https://pubmed.ncbi.nlm.nih.gov/26391969/) | 2015 | Systematic review | Cochrane Database Syst Rev | Tiotropium versus ipratropium bromide in stable COPD |
+| [35616126](https://pubmed.ncbi.nlm.nih.gov/35616126/) | 2022 | Systematic review | Cochrane Database Syst Rev | Magnesium sulfate as an adjunct in COPD exacerbations (bronchodilator context) |
+| [23170031](https://pubmed.ncbi.nlm.nih.gov/23170031/) | 2012 | Review | Ann Pharmacother | Efficacy and safety of ipratropium combined with tiotropium in COPD |
+| [20163324](https://pubmed.ncbi.nlm.nih.gov/20163324/) | 2010 | Review | Expert Opin Drug Metab Toxicol | Mechanism, efficacy and safety of albuterol, ipratropium and their combination in COPD |
+| [25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/) | 2015 | Guideline | Basic Clin Pharmacol Toxicol | Finnish guideline on diagnosis and pharmacotherapy of stable COPD |
+| [38457591](https://pubmed.ncbi.nlm.nih.gov/38457591/) | 2024 | Retrospective study | Medicine | Probiotics added to budesonide and ipratropium in 118 COPD patients: lung function and gut microbiota |
+| [10565879](https://pubmed.ncbi.nlm.nih.gov/10565879/) | 1999 | Review | Respir Care Clin N Am | Ipratropium described as a safe and effective bronchodilator in COPD, alone and with albuterol |
+| [2977109](https://pubmed.ncbi.nlm.nih.gov/2977109/) | 1988 | Review | Clin Pharm | Pharmacology, pharmacokinetics, efficacy and adverse effects of ipratropium in obstructive lung disease |
+| [15987237](https://pubmed.ncbi.nlm.nih.gov/15987237/) | 2005 | Review | Treat Respir Med | Ipratropium HFA inhaler for maintenance treatment of bronchospasm |
+| [11249465](https://pubmed.ncbi.nlm.nih.gov/11249465/) | 2000 | Review | Expert Opin Pharmacother | Anticholinergic bronchodilators used in combination for COPD |
 
 ---
 
 ## India Market Information
 
-Ipratropium currently has **no registered products** in India according to regulatory records in this dataset. The drug is not marketed in India (CDSCO) at this time.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 110430 | Ipramist 250mcg Inhaler (Zydus Cadila) | Packet of 200 MDI inhaler | Not stated |
+| 107746 | Ipravent Respules 2ml (Cipla) | Strip of 5 respules | Not stated |
+| 107959 | Ipravent Rotacaps (Cipla) | Packet of 30 capsules (for inhalation) | Not stated |
+| 109544 | Ipratop 200mcg Inhaler (AstraZeneca) | Packet of 1 inhaler | Not stated |
+| 109655 | Ipramist 250mcg Solution for inhalation (Zydus Cadila) | Bottle of 15 ml solution for inhalation | Not stated |
 
-Ipratropium is, however, globally approved and marketed under brand names including Atrovent® (Boehringer Ingelheim) and combination products such as Combivent® (ipratropium + albuterol) and Berodual® (ipratropium + fenoterol). These products have active registrations in the US (FDA), EU (EMA), Japan (PMDA), and many other markets. The absence from the Indian regulatory record represents a regulatory filing opportunity supported by a strong international evidence base.
+There are 8 valid single-ingredient registrations in total and no cancelled ones. Three more are not shown above: 13891 (Aprovent Inhaler, Cipla), 108961 (Ipneb Solution for inhalation, Lupin) and 107821 (Ipravent Respirator Solution, Cipla).
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions:** 106 interactions identified in total. The large majority are moderate-level interactions with other anticholinergic or cholinergic-modulating agents, where the primary concern is additive anticholinergic burden (dry mouth, urinary retention, constipation, blurred vision, tachycardia). Key interactions include:
+**Drug interactions:** The interaction screen identified 106 potential interactions. All of those listed in the compiled data are rated Moderate. They are mainly additive anticholinergic effects with other antimuscarinic agents, such as hyoscyamine, atropine, glycopyrronium, scopolamine, trospium, dicyclomine and aclidinium. Other examples include promethazine, chlorpheniramine, prucalopride, eluxadoline and inhaled insulin.
 
-| Interacting Drug | Level | Mechanism / Concern |
-|-----------------|-------|---------------------|
-| Hyoscyamine | Moderate | Additive anticholinergic effects |
-| Atropine | Moderate | Additive anticholinergic effects |
-| Glycopyrronium | Moderate | Additive anticholinergic effects (same drug class) |
-| Scopolamine | Moderate | Additive anticholinergic effects |
-| Trospium | Moderate | Additive anticholinergic effects |
-| Aclidinium | Moderate | Additive anticholinergic effects (same drug class) |
-| Promethazine | Moderate | Additive anticholinergic + CNS sedative effects |
-| Chlorpheniramine | Moderate | Additive anticholinergic effects via H1-antihistamine activity |
+**Conditions flagged in the knowledge graph (not label text):** The drug-disease contraindication data list the following conditions, which should be checked carefully before use:
+- Angle-closure glaucoma and ocular hypertension
+- Benign prostatic hyperplasia and bladder neck obstruction
+- Long QT syndrome, heart conduction disease, sudden cardiac arrest, myocardial ischaemia and coronary artery disease
+- Hypertension
+- Epilepsy
+- Hyperthyroidism, Graves disease and thyrotoxicosis
+- Diabetes mellitus, diabetic ketoacidosis, acidosis and potassium deficiency
 
-Note: One case report (PMID 8449120) documents severe anaphylaxis following ipratropium inhalation, suspected to be related to the benzalkonium chloride preservative rather than ipratropium itself. Formulations intended for use in patients with known preservative sensitivity should be preservative-free.
+**Additional signals from the literature:** One case report describes severe anaphylaxis after ipratropium inhalation, and another describes unilateral mydriasis (pupil dilation) after inhalation in an infant.
 
-Formal package-insert warnings and contraindications for the Indian market are not available from current regulatory records. Please refer to the Boehringer Ingelheim Atrovent® Summary of Product Characteristics (SmPC) for complete safety information before clinical or regulatory use.
+Package-insert warnings and contraindications for the Indian products were not available, so please refer to the package insert for the official safety information.
 
 ---
 
@@ -130,14 +140,19 @@ Formal package-insert warnings and contraindications for the Indian market are n
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Ipratropium is one of the most extensively studied inhaled bronchodilators in the world, with a body of evidence that includes multiple completed Phase 3 RCTs, two Cochrane systematic reviews, and decades of post-marketing surveillance across large COPD cohorts. The TxGNN score of 99.97% reflects this depth of evidence. The primary barrier to market entry in India is the absence of a CDSCO registration — not a lack of clinical evidence.
+Several large Phase 3 and Phase 4 trials in COPD and a substantial body of review literature support ipratropium in obstructive lung disease, and the drug is already marketed in India under 8 registrations. The prediction largely confirms existing use rather than opening a new indication, so the evidence is strong but the novelty is low.
+
+**Other predictions (not recommended to proceed at this time):**
+- Nasal cavity disease: overlaps with the existing rhinitis use; evidence is indirect, with only a preclinical hydrogel study and no trials. Research question.
+- Respiratory malformation and tracheal disease: only small or preclinical support. Research question.
+- Pharyngitis, acute laryngopharyngitis, papillary conjunctivitis, Rienhoff syndrome and food-dependent exercise-induced anaphylaxis: little or no direct evidence. Hold.
+- Anaphylaxis: Hold, because epinephrine is the standard of care and there is a case report of anaphylaxis caused by ipratropium.
 
 **To proceed, the following is needed:**
-- **CDSCO regulatory filing:** Submit a marketing authorization application in India referencing existing global approvals (US FDA NDA, EMA MA) under the abridged or hybrid pathway
-- **Local bridging data:** Assess whether Indian patient population PK/safety bridging data is required or can be waived given the global approval package
-- **Safety document review:** Obtain and review the complete Atrovent® SmPC / USPI for warnings, contraindications, and special populations (glaucoma, BPH, pregnancy)
-- **MOA documentation:** Retrieve full mechanism of action from DrugBank (DB00332) to complete the regulatory dossier
-- **Post-marketing pharmacovigilance plan:** Establish a proactive safety monitoring protocol for the Indian market, with particular attention to preservative-related hypersensitivity
+- Package-insert warnings, contraindications and approved-indication text for the Indian products (a blocking gap for safety screening)
+- Detailed mechanism-of-action data from DrugBank
+- A safety monitoring plan for patients with glaucoma, urinary retention or prostatic hyperplasia, and cardiac conditions
+- Confirmation that the pending trial relevance assessments do not change the evidence grading
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

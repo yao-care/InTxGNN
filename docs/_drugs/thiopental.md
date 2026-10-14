@@ -2,7 +2,7 @@
 layout: default
 title: Thiopental
 parent: Model Prediction Only (L5)
-nav_order: 824
+nav_order: 831
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,102 +29,90 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using no additional skill — this is a direct report-drafting task per the loaded prompt template; proceeding directly.
-
-# Thiopental: From General Anesthesia Induction to Trichotillomania
+# Thiopental: From Epilepsy and Intracranial Hypertension to Trichotillomania
 
 ## One-Sentence Summary
 
-Thiopental is a classic ultra-short-acting barbiturate historically used for intravenous induction of general anesthesia (and, off-label, for barbiturate coma in refractory status epilepticus). The TxGNN model predicts it may be relevant to **Trichotillomania**, but this signal currently has **0 clinical trials** and **0 publications** in support — it is a pure model-generated hypothesis with no empirical or mechanistic backing.
-
----
+Thiopental is a barbiturate originally listed for epilepsy, pseudotumor cerebri and intracranial hypertension.
+The TxGNN model predicts it may be effective for **trichotillomania**, but there are **0 clinical trials** and **0 publications** supporting this prediction.
+This is a graph-based prediction only, and the top-ranked prediction is not the most credible one in the list (see the note below on frontal lobe epilepsy).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved-indication text available in the regulatory dataset (drug not marketed in India); classically used as an ultra-short-acting IV anesthetic induction agent (barbiturate class) |
+| Original Indication | Epilepsy, pseudotumor cerebri, intracranial hypertension (from the knowledge graph; the India licence records carry no indication text) |
 | Predicted New Indication | Trichotillomania |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 12 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not directly available for this drug in the evidence pack (flagged as a High-severity data gap). However, cross-referencing the rationale text attached to other predicted indications in this same evidence pack confirms Thiopental acts as a **GABA-A receptor positive allosteric modulator**, the standard mechanism underlying barbiturate sedative-hypnotic and anesthetic effects.
+Currently, detailed mechanism of action data is not available. Based on known information, thiopental is a barbiturate that enhances GABA-A receptor activity, and its efficacy in seizure control is established. Mechanistically, however, there is no established rationale linking this to trichotillomania, a compulsive hair-pulling disorder.
 
-Trichotillomania (compulsive hair-pulling disorder) is currently understood primarily through dysregulation of glutamatergic and serotonergic/dopaminergic circuits, and treatment research has focused on agents like N-acetylcysteine, SSRIs, and glutamate modulators — not GABA-A potentiators. The evidence pack itself is explicit on this point: **"no known mechanistic link connects trichotillomania to GABA-A receptor modulation; this is a pure model prediction with no supporting data."**
+The high TxGNN score (99.95%) reflects a pattern in the knowledge graph, not clinical or laboratory evidence. No trials or publications were found for this indication, so the prediction should be treated as a hypothesis only.
 
-In other words, the high TxGNN score reflects graph-embedding proximity in the knowledge graph, not a validated pharmacological rationale. This prediction should be treated as a hypothesis-generating signal only, not as evidence of plausible clinical benefit.
-
----
+**Other predictions worth noting:**
+- **Frontal lobe epilepsy (score 99.94%, evidence level L4)** is the most plausible candidate. Thiopental is already used for refractory seizures and status epilepticus, so this is closer to an extension of an existing indication than a true repurposing. The available literature (a thiopental test in 103 epilepsy surgery patients and several case reports) is indirect or anecdotal, and none of it is a controlled study of thiopental as treatment for frontal lobe epilepsy.
+- **Absence epilepsy (L4)** has indirect evidence only (mainly status epilepticus protocols and case reports). GABAergic enhancement can also aggravate absence seizures in some settings.
+- **Substance abuse/dependence (L4)**: the literature shows that barbiturates cause tolerance and dependence rather than treat it. These are safety signals, not therapeutic evidence, and the indication is not supported.
+- **Prinzmetal angina, migraine disorder, Tourette syndrome, migraine with brainstem aura, obsolete bundle branch block, and nephrogenic syndrome of inappropriate antidiuresis** have no relevant clinical evidence. The few retrieved articles concern other substances or use thiopental only as an anaesthetic in animal experiments.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for trichotillomania.
 
----
+For the closest candidate, frontal lobe epilepsy, the retrieved literature is listed below for reference.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [8223422](https://pubmed.ncbi.nlm.nih.gov/8223422/) | 1993 | Cohort | Epilepsy Research | Thiopental test in 103 epilepsy surgery patients, using EEG beta activity and interictal spiking to localise dysfunction |
+| [18759609](https://pubmed.ncbi.nlm.nih.gov/18759609/) | 2009 | Cohort | Journal of Neurosurgery | Seizure occurrence during intracranial pressure-targeted therapy in traumatic brain injury |
+| [9805996](https://pubmed.ncbi.nlm.nih.gov/9805996/) | 1998 | Case report | Rinsho Shinkeigaku | Severe status epilepticus of frontal lobe origin treated with corticosteroids |
+| [12446223](https://pubmed.ncbi.nlm.nih.gov/12446223/) | 2002 | Case report | Epileptic Disorders | Epilepsy surgery for status epilepticus caused by cortical dysplasia in an infant |
 
 ## India Market Information
 
-Thiopental has **no regulatory license records** in the current dataset — market status is "Not Marketed" with 0 total registrations. No authorization number, product name, dosage form, or approved indication text is available for India.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 110258 | Intraval Sodium Injection | Vial of 1 Injection | Not specified |
+| 223869 | Thioz 500mg Infusion | Bottle of 1 Infusion | Not specified |
+| 226180 | Thioz 1gm Injection | Vial of 1 Injection | Not specified |
+| 111797 | Ithiofast Injection | Vial of 1 Injection | Not specified |
+| 220518 | Thipen 500mg Injection | Vial of 1 Injection | Not specified |
 
----
+All 12 registrations are valid single-ingredient injectable or infusion products. The five listed here are the main examples.
 
 ## Safety Considerations
 
-Structured key-warning and contraindication text is not available in this dataset (regulatory label data collection is listed as a **Blocking** data gap — TFDA/label PDF not yet retrieved/parsed). Please refer to the official package insert for warnings and contraindications.
+- **Contraindications (from the knowledge graph, not label text)**: Kidney disease and kidney failure, uraemia, liver disease, gallbladder disease, asthma (including intrinsic and allergic), hypotensive disorder, anaemia, adrenal insufficiency (including Addison disease and congenital adrenal hyperplasia), myasthenia gravis and neuromuscular junction disease, variegate porphyria, acute intermittent porphyria, and myxedema/hypothyroidism.
+- **Drug Interactions**: 45 interactions were identified in total. The main ones are:
+  - **Major**: Ethanol, Warfarin
+  - **Moderate**: Morphine, Codeine, Hydrocodone, Dextromethorphan, Dronabinol, Nabilone, Cetirizine, Doxycycline, Methylene blue, Nitisinone, Iodide I-131, Iodide I-123, Carbinoxamine, Clemastine
+- **Dependence liability**: The literature retrieved for the dependence indication shows barbiturates can cause tolerance and physical dependence.
 
-**Drug Interactions** (from DDInter; 20 of 45 total documented interactions shown):
-
-| Interacting Drug | Severity |
-|---|---|
-| Ethanol | Major |
-| Warfarin | Major |
-| Doxycycline | Moderate |
-| Morphine | Moderate |
-| Dronabinol | Moderate |
-| Nabilone | Moderate |
-| Nitisinone | Moderate |
-| Methylene blue | Moderate |
-| Iodide I-131 | Moderate |
-| Iodide I-123 | Moderate |
-| Codeine | Moderate |
-| Cetirizine | Moderate |
-| Hydrocodone | Moderate |
-| Dextromethorphan | Moderate |
-| Carbinoxamine | Moderate |
-| Clemastine | Moderate |
-| Pyridoxine | Minor |
-| Cimetidine | Minor |
-| Sulfasalazine | Minor |
-| Promethazine | Minor |
-
----
+Please refer to the package insert for label warnings, which were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (Trichotillomania) has no clinical trial or literature support and no plausible mechanistic link per the evidence pack itself — it is a model-only signal (L5, Decision Stage S0). Combined with a Blocking-severity gap in regulatory label/safety data, this candidate cannot currently pass an S1 safety screen.
+The trichotillomania prediction rests on a model score alone, with no trials, no literature and no plausible mechanistic link. The only direction with some credibility, frontal lobe epilepsy, is essentially an extension of thiopental's existing anticonvulsant use and is supported only by indirect or anecdotal evidence.
 
 **To proceed, the following is needed:**
-- TFDA/Indian product label (warnings, contraindications) to close the Blocking data gap (DG001)
-- Confirmed mechanism-of-action data from DrugBank (DG002)
-- Independent mechanistic or preclinical rationale connecting GABA-A modulation to trichotillomania before any further evidence collection is warranted
-
-**Note:** Among the other 9 candidates in this evidence pack, *frontal lobe epilepsy* (rank 2) shows comparatively stronger — though still preliminary — support (L4, "Research Question" stage, tied to the known off-label use of thiopental-induced barbiturate coma in refractory status epilepticus) and may be a more productive avenue than the top-ranked trichotillomania signal.
+- Package insert warnings and contraindications from the India regulator or manufacturers (currently a blocking gap for safety screening)
+- Detailed mechanism of action data (e.g. from DrugBank)
+- For frontal lobe epilepsy, a focused review of controlled evidence on thiopental in refractory seizures, which could be treated as a research question
+- Confirmation of the approved indications on the India registrations, as the licence records carry no indication text
+- Route and dosing compatibility assessment, since all products are injectable and any chronic indication would need a suitable formulation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

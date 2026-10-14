@@ -2,7 +2,7 @@
 layout: default
 title: Cyclosporine
 parent: Moderate Evidence (L3-L4)
-nav_order: 218
+nav_order: 220
 evidence_level: L4
 indication_count: 7
 ---
@@ -29,85 +29,78 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-# Cyclosporine: From Transplant Rejection Prophylaxis to Chronic Granulomatous Disease
+# Cyclosporine: From Rheumatoid Arthritis and Dry Eye to Chronic Granulomatous Disease (Autosomal Recessive)
 
 ## One-Sentence Summary
 
-> Cyclosporine is a calcineurin-inhibitor immunosuppressant classically used to prevent organ/graft rejection and to treat select autoimmune conditions.
-> The TxGNN model predicts a possible signal for **Chronic Granulomatous Disease, Autosomal Recessive**,
-> but this is currently supported by only **1 clinical trial** and **1 publication**, both of which relate to cyclosporine's role as GVHD prophylaxis during stem-cell transplant rather than as direct CGD therapy.
-
----
+Cyclosporine is a calcineurin-inhibitor immunosuppressant, originally used for rheumatoid arthritis, dry eye syndrome, xerophthalmia and Sjögren syndrome.
+The TxGNN model predicts it may be effective for **autosomal recessive chronic granulomatous disease (CGD)**, but the support is thin: **0 clinical trials** and **1 publication** (a stem cell transplantation cohort study) were found.
+This is essentially a model-only prediction with, at best, an indirect supportive-care link.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No Taiwan license data available (drug not currently marketed in Taiwan). Based on general pharmacological knowledge, cyclosporine is internationally indicated for prevention of solid-organ/bone-marrow transplant rejection and select autoimmune diseases. |
-| Predicted New Indication | Chronic Granulomatous Disease, Autosomal Recessive |
+| Original Indication | Rheumatoid arthritis, dry eye syndrome, xerophthalmia, Sjögren syndrome (from knowledge-graph indication data; no approved indication text is available from the India licences) |
+| Predicted New Indication | Granulomatous disease, chronic, autosomal recessive |
 | TxGNN Prediction Score | 99.68% |
 | Evidence Level | L4 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data for cyclosporine is not available in this evidence pack. Based on known pharmacology, cyclosporine binds cyclophilin to inhibit calcineurin, blocking T-cell activation and IL-2 transcription — its established efficacy is in suppressing T-cell–mediated rejection and autoimmune inflammation.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, cyclosporine is a calcineurin inhibitor that suppresses T-cell activation. It is widely used in transplant immunosuppression and graft-versus-host disease (GVHD) prophylaxis, and its efficacy in immune-mediated conditions such as rheumatoid arthritis and Sjögren syndrome is established.
 
-Chronic Granulomatous Disease (CGD), however, is caused by NADPH oxidase gene defects that impair phagocyte (neutrophil/macrophage) bactericidal killing — a phagocyte defect, not a T-cell–driven pathology. The disease-modifying treatment for CGD is allogeneic hematopoietic stem cell transplantation (HSCT), and cyclosporine appears in this context only as **GVHD prophylaxis** supporting the transplant procedure, not as a therapy targeting CGD's underlying mechanism.
-
-Consequently, the mechanistic link between cyclosporine and CGD is weak and indirect: the drug's association with CGD in the source evidence stems from its routine use as immunosuppression during HSCT for CGD patients, not from any direct pharmacological action against the CGD phenotype.
-
----
+CGD is an inherited defect of the NADPH oxidase enzyme in phagocytes, causing recurrent infections and granuloma formation. Nothing indicates that calcineurin inhibition corrects this defect. The only publication found concerns stem cell transplantation for CGD, where cyclosporine is plausibly part of the GVHD prophylaxis regimen. The link is therefore an indirect, supportive-care role rather than treatment of the underlying disease.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01917708](https://clinicaltrials.gov/study/NCT01917708) | Phase 1 | Completed | 10 | Assessed abatacept combined with cyclosporine and mycophenolate mofetil as GVHD prophylaxis in children/adolescents undergoing unrelated allogeneic HSCT for serious non-malignant diseases; cyclosporine was a background regimen component, not the study drug (relevance grade C — indirect). |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [22078471](https://pubmed.ncbi.nlm.nih.gov/22078471/) | 2012 | Cohort | Journal of Allergy and Clinical Immunology | Reports excellent survival after sibling or unrelated-donor HSCT for CGD; cyclosporine is part of standard peri-transplant immunosuppression, not evaluated as a CGD-specific therapy. |
+| [22078471](https://pubmed.ncbi.nlm.nih.gov/22078471/) | 2012 | Cohort | J Allergy Clin Immunol | Stem cell transplantation from sibling or unrelated donors in CGD showed excellent survival; matched related donor transplantation is an established treatment, and the study assesses unrelated-donor safety and efficacy. Cyclosporine is not the studied intervention. |
 
----
+## India Market Information
 
-## Taiwan Market Information
+The approved indication text is not available for these licences. A selection of the 20 valid single-ingredient registrations:
 
-Cyclosporine currently holds no marketing authorization in Taiwan (market status: Not Marketed; 0 registrations on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 166958 | Oncyclo 50mg Capsule | Strip of 5 capsules | Not stated |
+| 39039 | Cyclophil ME Oral Solution | Bottle of 50 ml oral solution | Not stated |
+| 237076 | Vaktear Eye Drop | Bottle of 3 ml eye drop | Not stated |
+| 202327 | Sandimmun Injection | Ampoule of 1 ml injection | Not stated |
+| 41303 | Cyclomune 50mg Tablet | Strip of 10 tablets | Not stated |
 
----
+Available routes across all registrations: oral, ophthalmic and injectable.
 
 ## Safety Considerations
 
-- **Drug Interactions**: A DDI query returned 823 total interactions on record. Notable entries from the reviewed subset include:
-  - **Major**: Loperamide
-  - **Moderate**: Rabeprazole, Hydrocortisone, Amphotericin B (and lipid complex), Bupropion, Aprepitant, Mesalazine, Triamcinolone, Acetylsalicylic acid, Balsalazide, Dexamethasone, Betamethasone, Metronidazole, Budesonide (oral and nasal), Chlorpropamide, Cholic Acid
-  - **Minor**: Ranitidine, Doxycycline
+- **Contraindications flagged in the knowledge graph (not label text)**: hypertension, epilepsy, kidney disease, liver disease, gallbladder disease, infectious disease (including eye infections and conjunctivitis), hyperuricaemia, hypertriglyceridaemia, hyperbilirubinaemia (including Gilbert syndrome), thrombocytopenic purpura, pseudotumor cerebri/intracranial hypertension, and cancers including lymphoma and primary CNS lymphoma. These are especially relevant in CGD, where infection is the central clinical problem.
+- **Drug Interactions**: 823 interactions were recorded. Notable examples:
+  - Major: loperamide
+  - Moderate: rabeprazole, hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone, amphotericin B (including the lipid complex), bupropion, aprepitant, mesalazine, balsalazide, aspirin, metronidazole, chlorpropamide, cholic acid
+  - Minor: ranitidine, doxycycline
 
-Detailed label warnings and contraindications (TFDA package insert) are not yet available for this drug (see DG001, blocking gap) — please refer to the package insert once obtained.
-
----
+Package-insert warnings were not available; please refer to the package insert for label safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link between cyclosporine and CGD is weak and indirect — the only supporting trial and publication reflect cyclosporine's routine use as GVHD prophylaxis during HSCT for CGD, not a targeted pharmacological effect on CGD pathology. Evidence level is L4 (mechanism/preclinical-adjacent only), and the drug is not currently marketed in Taiwan.
+The prediction has no clinical trials, one transplant-focused cohort study in which cyclosporine is not the studied intervention, and no direct mechanism against CGD. The infection-related contraindication signal is also a concern in this population.
 
 **To proceed, the following is needed:**
-- TFDA package insert data (warnings/contraindications) — currently blocking (DG001)
-- Confirmed mechanism of action data from DrugBank (DG002)
-- Clinical evidence directly evaluating cyclosporine's effect on CGD outcomes, independent of its role as transplant-related immunosuppression
-- Re-evaluation of Taiwan market entry strategy given current "Not Marketed" status
+- Package insert warnings and contraindications from India (currently a blocking gap for safety screening)
+- Mechanism of action data (e.g., from DrugBank)
+- Evidence on cyclosporine's role in CGD transplant conditioning and GVHD prophylaxis, to determine whether a supportive-care indication is realistic
+- Review of the other predictions, notably **brain aneurysm** (L3), where small, older studies in aneurysmal subarachnoid hemorrhage (vasospasm and neurological deterioration) exist but a mechanistic study suggests T-cell function is dispensable for aneurysm formation. This is better framed as a research question than a repurposing candidate. The remaining predictions (colobomatous microphthalmia-rhizomelic dysplasia syndrome, congenital ichthyosiform erythroderma, fetal erythroblastosis, brachydactyly-syndactyly syndrome, prolapse of lacrimal gland) are model-only (L5), and Hold is also recommended for them.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

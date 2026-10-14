@@ -2,7 +2,7 @@
 layout: default
 title: Nitrofurantoin
 parent: Model Prediction Only (L5)
-nav_order: 597
+nav_order: 602
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,82 +33,94 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Nitrofurantoin is a nitrofuran-class antibiotic, widely used as a first-line treatment for uncomplicated urinary tract infections (UTIs).
-The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, with **0 clinical trials** and **12 publications** currently associated with this direction — however, a careful review reveals that this evidence reflects adverse event co-occurrence rather than any therapeutic relationship, and the prediction is assessed as a likely false positive.
+Nitrofurantoin is an antibacterial agent marketed in India as an oral urinary-tract product, and the data compiled for this report do not include a formal approved-indication text.
+The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but there are **0 clinical trials** and the retrieved publications describe **harm rather than benefit**.
+This prediction is best viewed as a network-proximity artifact, not a credible repurposing signal.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Urinary tract infections (UTI) |
-| Predicted New Indication | Rheumatoid Arthritis |
+|------|------|
+| Original Indication | Not stated in the Indian licence records (antibacterial use in urinary tract infection is described in the retrieved literature) |
+| Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Nitrofurantoin is a nitrofuran-class antibiotic whose efficacy in treating urinary tract infections is well established. Its antimicrobial activity is generally understood to involve the generation of reactive intermediates by bacterial nitroreductases, which then cause widespread damage to bacterial DNA, ribosomes, and cell wall proteins.
+Currently, detailed mechanism of action data is not available. Nitrofurantoin is an antibacterial agent used for urinary tract infections, but no credible therapeutic mechanism links it to rheumatoid arthritis (RA).
 
-The link between Nitrofurantoin and rheumatoid arthritis (RA) does not stem from any direct mechanistic rationale. The 12 associated publications document co-occurrence in the context of pulmonary adverse events: both Nitrofurantoin and several RA-associated drugs (e.g., methotrexate, gold salts) can independently cause drug-induced pulmonary fibrosis, and RA itself predisposes patients to interstitial lung disease. This shared clinical territory has led to their co-mention in the literature — not in the context of RA treatment, but in the context of overlapping lung toxicity.
+The very high TxGNN score (0.999) most likely reflects proximity in the knowledge graph rather than true pharmacological activity. The retrieved literature points the other way: nitrofurantoin is a recognised cause of pulmonary toxicity and fibrosis, and a case report describes a methotrexate–nitrofurantoin interaction causing irreversible pulmonary fibrosis in a patient with RA. A self-controlled case series examined antibiotic exposure and RA flares. None of this supports efficacy.
 
-One observational study (PMID 31222078) examined whether antibiotic use is associated with RA flare frequency, suggesting a possible pathogenic role of infections in RA. This indirect hypothesis — that clearing infections might reduce RA disease triggers — is speculative and does not constitute evidence that Nitrofurantoin itself treats RA. The mechanistic case for repurposing is extremely weak. The TxGNN prediction is most likely driven by literature co-occurrence and is assessed as a false positive.
+Other predictions for this drug show the same pattern. Several are rare genetic syndromes with no plausible link. Others (methemoglobinemia, sclerosing cholangitis) reflect known adverse effects of nitrofurantoin, not therapeutic opportunities.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [31222078](https://pubmed.ncbi.nlm.nih.gov/31222078/) | 2019 | Self-controlled case series | Scientific Reports | Studied antibiotic exposure and RA flare frequency in 31,992 RA patients (UK CPRD); identifies a possible infection-RA link — not specific to Nitrofurantoin and does not evaluate therapeutic efficacy |
-| [3335140](https://pubmed.ncbi.nlm.nih.gov/3335140/) | 1988 | Retrospective cohort | Chest | 57 RA patients hospitalized for interstitial lung fibrosis; Nitrofurantoin mentioned as a co-cause of drug-induced fibrosis alongside RA-associated lung disease — adverse event context |
-| [35145797](https://pubmed.ncbi.nlm.nih.gov/35145797/) | 2022 | Case report | Cureus | 94-year-old female with RA on long-term methotrexate developed irreversible pulmonary fibrosis after receiving Nitrofurantoin for recurrent UTIs; documents a dangerous drug–drug interaction, not RA treatment |
-| [15195196](https://pubmed.ncbi.nlm.nih.gov/15195196/) | 2004 | Review | Saudi Medical Journal | Review of drug-induced pulmonary fibrosis; lists Nitrofurantoin among causative agents and notes RA as an independent predisposing systemic disease |
-| [25362778](https://pubmed.ncbi.nlm.nih.gov/25362778/) | 2014 | Review | La Revue du praticien | Drug-induced interstitial lung diseases; Nitrofurantoin cited alongside minocycline as antibiotics associated with subacute or chronic interstitial pneumonia patterns |
-| [41635325](https://pubmed.ncbi.nlm.nih.gov/41635325/) | 2026 | Case report | Cureus | Autoimmune hepatitis workup; Nitrofurantoin listed among common drug-induced liver injury causes, and RA mentioned as a co-existing autoimmune condition — no therapeutic link |
-| [899886](https://pubmed.ncbi.nlm.nih.gov/899886/) | 1977 | Observational | Acta Medica Scandinavica | Short-term Nitrofurantoin therapy for bacteriuria screening in middle-aged women; RA is not mentioned; inclusion appears to be a database artifact |
-| [11937933](https://pubmed.ncbi.nlm.nih.gov/11937933/) | 2002 | Case report | Annales de Dermatologie et de Vénéréologie | Phenylbutazone-induced sialadenitis; Nitrofurantoin mentioned among drugs that can induce salivary gland inflammation — incidental co-mention with no RA relevance |
-| [8104358](https://pubmed.ncbi.nlm.nih.gov/8104358/) | 1993 | Case report | Revue de Pneumologie Clinique | Gold salt-induced immunoallergic pneumonia in a 62-year-old RA patient; discusses CD4 alveolitis differential; Nitrofurantoin cited in the broader drug-induced lung disease context |
-| [4608019](https://pubmed.ncbi.nlm.nih.gov/4608019/) | 1974 | Review | Der Internist | Synopsis of alveolitis and pulmonary fibrosis; Nitrofurantoin listed among known causative agents; no connection to RA treatment |
+|------|-----|------|------|---------|
+| [31222078](https://pubmed.ncbi.nlm.nih.gov/31222078/) | 2019 | Cohort (self-controlled case series) | Scientific Reports | Studied the association between antibiotic exposure and RA flares in a UK cohort of 31,992 newly diagnosed RA patients; this is a safety/association question, not evidence of benefit |
+| [35145797](https://pubmed.ncbi.nlm.nih.gov/35145797/) | 2022 | Case report | Cureus | A 94-year-old woman with RA on methotrexate developed irreversible pulmonary fibrosis after nitrofurantoin treatment |
+| [15195196](https://pubmed.ncbi.nlm.nih.gov/15195196/) | 2004 | Review | Saudi Medical Journal | Lists nitrofurantoin among drugs causing pulmonary fibrosis; RA is noted as a predisposing systemic disease |
+| [25362778](https://pubmed.ncbi.nlm.nih.gov/25362778/) | 2014 | Review | La Revue du Praticien | Reviews drug-induced interstitial lung disease, including nitrofurantoin |
+| [3335140](https://pubmed.ncbi.nlm.nih.gov/3335140/) | 1988 | Cohort | Chest | Poor prognosis in RA patients hospitalised for interstitial lung fibrosis; not related to nitrofurantoin efficacy |
+
+None of these publications reports a therapeutic benefit of nitrofurantoin in RA.
+
+---
 
 ## India Market Information
 
-Nitrofurantoin currently has no registered products in India. No authorization records were found in the regulatory database (total registrations: 0).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 231227 | Utab 100mg Tablet SR | Sustained-release tablet (strip of 10) | Not specified |
+| 230421 | Urosafe 100mg Tablet | Tablet (strip of 10) | Not specified |
+| 134606 | Martifur MR 50mg Tablet | Modified-release tablet (strip of 10) | Not specified |
+| 150745 | Nifutin Tablet SR | Sustained-release tablet (strip of 10) | Not specified |
+| 151351 | Nitro 100mg Capsule | Capsule (strip of 10) | Not specified |
+
+There are 20 valid single-ingredient registrations in total; the table lists 5.
+
+---
 
 ## Safety Considerations
 
-**Drug Interactions** (172 total interactions identified; key interactions listed below):
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: diabetes mellitus, diabetic ketoacidosis, anuria, impaired renal function, peripheral neuropathy, interstitial lung disease, pulmonary fibrosis, G6PD deficiency, drug-induced liver injury, hepatitis, obstructive jaundice, biliary tract disease, vitamin B12 deficiency, optic neuritis, *Clostridium difficile* colitis, and others.
+- **Drug Interactions**: 172 interactions were identified. Moderate-level ones include balsalazide, metronidazole, picosulfuric acid, naltrexone, rosuvastatin and simvastatin. Minor ones include anticholinergics (atropine, hyoscyamine, dicyclomine, glycopyrronium, scopolamine) and magnesium-containing antacids.
+- **Relevant to RA patients**: the literature documents a serious pulmonary interaction with methotrexate, a common RA drug.
+- **Other adverse associations in the retrieved literature**: methemoglobinemia and haemolysis (especially in G6PD deficiency), and drug-induced liver injury, including autoimmune-like hepatitis.
 
-| Interacting Drug | Severity | Notes |
-|-----------------|----------|-------|
-| Metronidazole | Moderate | Potential for increased systemic adverse effects when co-administered |
-| Balsalazide | Moderate | Interaction reported; clinical significance to be assessed |
-| Rosuvastatin | Moderate | May affect statin exposure; monitor for myopathy signs |
-| Simvastatin | Moderate | May affect statin exposure; monitor for myopathy signs |
-| Naltrexone | Moderate | Interaction reported; monitor clinical response |
-| Picosulfuric acid | Moderate | Interaction reported; separate administration timing if possible |
-| Anticholinergics (Hyoscyamine, Atropine, Scopolamine, Dicyclomine, Trospium, etc.) | Minor | May delay gastric emptying and increase Nitrofurantoin absorption |
-| Magnesium-containing antacids (Magaldrate, Magnesium carbonate, Magnesium hydroxide, Magnesium oxide) | Minor | May reduce Nitrofurantoin absorption; administer separately |
+Package insert warnings were not available; please refer to the package insert for full safety information.
 
-Please refer to the package insert for complete warnings and contraindications.
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All available evidence indicates that the TxGNN prediction linking Nitrofurantoin to rheumatoid arthritis is a false positive, driven by literature co-occurrence in the context of pulmonary adverse events — not by any demonstrated or plausible therapeutic mechanism. There are zero clinical trials, no mechanistic hypothesis connecting Nitrofurantoin to RA pathophysiology, and every identified publication describes either adverse events or epidemiological associations unrelated to RA treatment. Critically, Nitrofurantoin is itself a known inducer of pulmonary fibrosis and drug-induced liver injury, both of which overlap with RA-associated complications — making any repurposing attempt potentially harmful rather than beneficial.
+The RA prediction has no clinical trials and no supportive literature, and the available evidence shows nitrofurantoin as a source of harm (pulmonary fibrosis, methotrexate interaction) in RA patients. The high TxGNN score is not backed by any plausible mechanism.
 
-**To proceed, the following would be needed:**
-- A clearly articulated mechanistic hypothesis (e.g., immunomodulation via nitroreductase pathways or microbiome-mediated RA trigger suppression) supported by preclinical evidence
-- In vitro or in vivo studies demonstrating anti-inflammatory or disease-modifying activity in RA models
-- Safety re-evaluation addressing the known pulmonary fibrosis risk — especially in RA patients already on methotrexate or other DMARDs with overlapping lung toxicity profiles
-- Clarification of contraindication boundaries: Nitrofurantoin is contraindicated in patients with eGFR < 45 mL/min, which is relevant given the prevalence of renal impairment in long-standing RA patients on nephrotoxic DMARDs
-- Full MOA data from DrugBank to enable proper mechanistic linkage analysis
+**To proceed, the following is needed:**
+- Detailed mechanism of action data and a credible mechanistic hypothesis for RA
+- Package insert warnings and contraindications for the Indian products
+- Preclinical evidence of anti-inflammatory or immunomodulatory activity relevant to RA
+- A risk assessment addressing pulmonary, hepatic and haematological toxicity, and co-prescription with methotrexate
+- Review of the other nine predictions, none of which currently shows a therapeutic signal
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Silodosin
 parent: Model Prediction Only (L5)
-nav_order: 765
+nav_order: 772
 evidence_level: L5
 indication_count: 6
 ---
@@ -33,65 +33,94 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-> Silodosin is a selective α1A-adrenergic receptor antagonist clinically used for benign prostatic hyperplasia (BPH) symptom relief.
-> The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, a rare congenital hair-overgrowth syndrome,
-> but **no clinical trials and no literature** currently support this direction — the prediction is not corroborated by any external evidence.
+Silodosin is a selective alpha-1A adrenergic receptor antagonist, originally used to treat symptoms of benign prostatic hyperplasia (BPH).
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**,
+but **no clinical trials and no publications** currently support this prediction, so it is a computational signal only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Benign Prostatic Hyperplasia (BPH) — known clinical use, inferred from evidence rationale text; not present in structured regulatory data (`original_indications` is empty) |
+| Original Indication | Benign prostatic hyperplasia |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the structured record (`original_moa: [Data Gap]`). Based on known pharmacology, Silodosin is a highly selective α1A-adrenergic receptor antagonist used clinically to relieve lower urinary tract symptoms associated with BPH by relaxing smooth muscle in the prostate and bladder neck. It has low CNS penetration and no established activity outside the adrenergic signaling pathway.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, silodosin is a selective alpha-1A adrenergic receptor antagonist. Its efficacy in BPH comes from relaxing smooth muscle in the prostate and bladder neck.
 
-Ambras syndrome is a rare congenital form of generalized hypertrichosis caused by chromosomal rearrangement near 8q24.3, affecting genes involved in hair follicle developmental patterning. There is no known biological pathway connecting α1A-adrenergic receptor blockade to hair follicle growth regulation, which is driven primarily by androgen and growth-factor signaling.
+The link to the predicted indication is weak. Ambras syndrome is a rare genetic disorder caused by rearrangements in the regulatory region of the TRPS1 gene. There is no established reason why blocking alpha-1A receptors would change it. A possible connection through adrenergic signalling in hair follicles or vascular function is speculative. For comparison, some vasodilating drugs (such as minoxidil) are known to cause hypertrichosis, so a vasoactive drug could plausibly affect hair growth. However, the direction of effect for silodosin is unknown and could be neutral.
 
-Despite the very high TxGNN embedding score (99.99%, rank 386 of the full candidate space), the complete absence of supporting clinical trials or literature — combined with the lack of a plausible mechanistic pathway — indicates this prediction most likely reflects knowledge-graph embedding similarity noise rather than a genuine pharmacological signal. This assessment is consistent with the evidence pack's own repurposing rationale.
+The other predictions follow the same pattern, and the data compiled for this report show no clinical or literature support for any of them:
+
+| Rank | Predicted Indication | TxGNN Score | Comment |
+|------|------|------|------|
+| 2 | Hypertrichosis | 99.99% | Computational only; direction of effect unestablished |
+| 3 | Malformation syndrome with odontal and/or periodontal component | 99.99% | No identifiable mechanistic link; likely graph-neighbourhood similarity |
+| 4 | Syndrome with Dandy-Walker malformation as major feature | 99.98% | Structural brain anomaly not expected to respond to an alpha-blocker |
+| 5 | Isolated genetic hair shaft abnormality | 99.98% | Hair shaft structure is determined by genetic defects, with no evidence of alpha-1A involvement |
+| 6 | Familial isolated trichomegaly | 99.23% | Speculative and unverified |
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+---
 
 ## India Market Information
 
-Silodosin is not currently registered or marketed in India (`total_licenses: 0`). No product authorization records are available for review.
+Silodosin is marketed in India with 20 valid single-ingredient registrations. Five representative authorizations are listed below. The data compiled for this report contain no approved indication text for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 27632 | Bphlo S 8mg Tablet | Strip of 10 tablets | Renauxe Pharma India Pvt Ltd |
+| 133606 | Maxvoid 8 Tablet | Strip of 15 tablets | Alkem Laboratories Ltd |
+| 62363 | DavaIndia Silodosin 4mg Capsule | Strip of 10 capsules | Davaindia Generic Pharmacy |
+| 202928 | Silotag 8mg Capsule | Strip of 10 capsules | Jaiwik Biotech |
+| 173631 | Prostagard-D8 Capsule | Strip of 10 capsules | Aristo Pharmaceuticals Pvt Ltd |
+
+All available forms are oral (tablets and capsules). Several products are combinations packaged with a second agent (for example, the 8mg/0.5mg products and the combipacks).
+
+---
 
 ## Safety Considerations
 
-**Drug Interactions**: 99 total interactions identified. Notable findings include:
+- **Conditions linked to contraindication or caution (from knowledge-graph data, not package insert text)**: multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, liver failure, kidney disease, pyoureter, intraoperative floppy iris syndrome.
+- **Drug Interactions**: 99 interactions were identified in total. The only Major one among those reviewed is **clarithromycin**. Moderate interactions include bupropion, aprepitant, morphine, dexamethasone, cimetidine, miconazole, clotrimazole, the SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), dronabinol, nabilone, eliglustat, rolapitant, metreleptin, glycerol phenylbutyrate and opium.
 
-| Interacting Drug | Level |
-|---|---|
-| Clarithromycin | Major |
-| Bupropion, Aprepitant, Morphine, Dexamethasone, Canagliflozin, Cimetidine, Dapagliflozin, Dronabinol, Eliglustat, Empagliflozin, Nabilone, Metreleptin, Miconazole, Rolapitant, Clotrimazole, Ertugliflozin, Glycerol phenylbutyrate, Morphine (liposomal), Opium | Moderate |
+Please refer to the package insert for the official warnings and contraindications.
 
-Key warnings and contraindications are not available in the current data (blocking gap, see below); please refer to the official package insert once obtained.
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Ambras type hypertrichosis) has no clinical trial or literature support and no biologically plausible mechanistic link to Silodosin's known pharmacology — the high TxGNN score appears to be an embedding artifact rather than a true signal. Combined with the absence of India market registration and missing core safety data, this candidate does not meet the threshold to advance.
+The prediction rests only on a knowledge-graph score. There are no clinical trials or publications, and no plausible mechanism links alpha-1A blockade to Ambras syndrome or the other predicted conditions. Silodosin is a safe, widely marketed drug for BPH, but that does not support its use in these rare genetic hair and malformation disorders.
 
 **To proceed, the following is needed:**
-- Resolve blocking gap DG001: obtain official label warnings/contraindications (required before any S1 safety screening)
-- Resolve high-priority gap DG002: confirm mechanism of action via DrugBank API
-- Independently verify whether rank-3 prediction ("malformation syndrome with odontal/periodontal component") reflects a genuine signal or a keyword-matching false positive — the 20 associated publications are generic periodontology literature with no mention of Silodosin or α1-adrenergic antagonism
-- If pursuing repurposing further, prioritize re-screening TxGNN output against indications with plausible adrenergic/urological mechanistic overlap rather than the current top-ranked rare genetic syndromes
+- Detailed mechanism of action data, to assess any biological link to hair follicle biology
+- Preclinical evidence (for example, follicle or cell models) showing an effect of alpha-1A antagonism on hair growth
+- Package insert warnings and contraindications from the India regulatory source
+- Assessment of similarity to the original indication and of route compatibility (both currently pending)
+- If hypertrichosis becomes the focus, a literature review of adrenergic effects on hair growth, noting that the direction of effect is unknown
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

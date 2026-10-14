@@ -2,7 +2,7 @@
 layout: default
 title: Dextromethorphan
 parent: Model Prediction Only (L5)
-nav_order: 255
+nav_order: 257
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,114 +29,85 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Dextromethorphan: From Cough Suppression to Nasal Cavity Disease
+# Dextromethorphan: From Upper Respiratory Conditions (Rhinitis, Common Cold, Pharyngitis) to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-Dextromethorphan (DXM) is a well-established over-the-counter central antitussive agent, widely used globally for cough suppression via sigma-1 receptor agonism and NMDA receptor antagonism.
-The TxGNN model predicts it may be effective for **Nasal Cavity Disease**,
-with **1 Phase 3 clinical trial** currently supporting this direction (no published literature specific to this indication identified).
-
-> ⚠️ **Note:** The drug is currently **not marketed in India** under CDSCO, and detailed mechanism of action (MOA) data and package insert warnings were not available in this evidence pack.
-
----
+Dextromethorphan is a centrally acting cough suppressant, originally used for upper respiratory conditions such as allergic rhinitis, the common cold and pharyngitis.
+The TxGNN model predicts it may be effective for **nasal cavity disease**,
+but **no clinical trials and no publications** were found to support this direction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Cough suppression (central antitussive) |
-| Predicted New Indication | Nasal Cavity Disease |
+|------|------|
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, rhinitis, nasopharyngitis, headache disorder (from the knowledge graph; the India licence records contain no indication text) |
+| Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L1 (1 Phase 3 trial, recruiting) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacological information, Dextromethorphan is a centrally acting antitussive that works primarily through **sigma-1 receptor agonism** and **NMDA receptor antagonism** to suppress the cough reflex center in the medulla oblongata (nucleus tractus solitarius, NTS). It is also a weak serotonin reuptake inhibitor and has activity at several other CNS receptors.
+Detailed mechanism-of-action data were not available in the data compiled for this report. Dextromethorphan is generally known as a centrally acting antitussive that acts as a sigma-1 agonist and NMDA receptor antagonist. It has no established direct effect on the nasal mucosa.
 
-Nasal cavity disease encompasses a broad spectrum of upper respiratory conditions — including allergic rhinitis, sinusitis, and viral rhinitis — many of which present with **concomitant dry or irritative cough** arising from post-nasal drip and mucosal irritation. DXM directly addresses this cough component by suppressing the central reflex arc triggered by nasopharyngeal and laryngeal stimulation.
+The predicted indication, nasal cavity disease, is a broad category that overlaps with the drug's existing upper respiratory indications (allergic rhinitis, vasomotor rhinitis, rhinitis, nasopharyngitis). The prediction most likely reflects closeness to these terms in the knowledge graph rather than a distinct pharmacological mechanism.
 
-The mechanistic bridge becomes even more compelling in the context of **combination formulations**: DXM combined with antihistamines (e.g., Bilastine or Chlorphenamine) and nasal decongestants (e.g., Phenylephrine) provides simultaneous coverage of nasal congestion, allergic inflammation, and reflex cough — addressing the complete symptom cluster of nasal cavity disease. This combination approach is already reflected in existing OTC multi-symptom cold and allergy products globally, and a Phase 3 trial of DXM in such a combination has been conducted (see below).
+This should therefore be read as a graph-based association, not as a mechanistically supported new use.
 
----
+### Other Predicted Indications (for reference)
+
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
+|---|---|---|---|---|
+| 2 | Acute laryngopharyngitis | 99.98% | L5 | Close to existing labelled uses; cough suppression may give symptomatic relief only. Largely an extension of current use. |
+| 3 | Faucial diphtheria | 99.36% | L5 | No plausible mechanism against the infection or its toxin; at most symptomatic cough relief. |
+| 4 | Trigeminal autonomic cephalalgia | 99.32% | L5 | Weak, speculative link via NMDA antagonism and headache. Safety would need review given the many recorded interactions. |
+| 5 | Cervical disc degenerative disorder | 99.30% | L5 | Speculative link via NMDA antagonism and neuropathic pain pathways; would not address the structural pathology. |
+| 6 | Allergic urticaria | 99.25% | L5 | No antihistaminic or mast-cell-stabilising action; likely a graph artifact. |
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT06958692](https://clinicaltrials.gov/study/NCT06958692) | Phase 3 | Recruiting | 388 | Multicenter RCT evaluating DXM + Bupropion sustained-release tablets in Chinese adult patients with Major Depressive Disorder; trial is ongoing (completion expected Dec 2026). ⚠️ *Note: This trial's brief summary describes a depression indication, though the relevance grading in this evidence pack associates it with DXM combination use in upper respiratory disease. The indication mismatch should be verified before drawing conclusions.* |
-
-> ⚠️ **Data Quality Note:** The single identified trial (NCT06958692) appears to address **Major Depressive Disorder** (DXM + Bupropion), not nasal cavity disease. The evidence pack's internal relevance reasoning references a separate Bilastine + DXM + Phenylephrine combination trial (PMID 39822435) for upper respiratory/nasal symptoms, but this trial is not listed in the structured evidence. The evidence level of L1 assigned in this pack should be **treated with caution** pending verification of the correct trial mapping.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature specific to Dextromethorphan for nasal cavity disease is available in this evidence pack.
-
-> The evidence pack references PMID 39822435 in the relevance reasoning for the clinical trial, which reportedly describes Phase 3 results for a Bilastine + DXM + Phenylephrine combination in upper respiratory disease. This publication should be retrieved and reviewed as a priority step.
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-Dextromethorphan is **not currently registered** under CDSCO in India based on the data available in this evidence pack (0 license records returned).
+Dextromethorphan is marketed in India with 20 valid single-ingredient registrations and no cancelled ones. Indication text is not recorded in the licence data. Five of the main registrations are listed below.
 
-> Note: DXM is available in many countries as an OTC antitussive ingredient in combination cold and cough products. India's current regulatory status should be independently verified via the CDSCO online database, as single-ingredient and combination registrations may exist under different brand names not captured in this dataset.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 203717 | Stopper SF Syrup | Syrup, 100 ml bottle | Not recorded |
+| 40361 | Corituss Syrup | Syrup, 100 ml bottle | Not recorded |
+| 46599 | Cozia Tablet | Tablet, strip of 10 | Not recorded |
+| 94831 | Glycodin Syrup | Syrup, 100 ml bottle | Not recorded |
+| 225580 | Tixy Soft 10 mg/100 mg Capsule | Capsule, strip of 4 | Not recorded |
 
----
+Available dosage forms are oral syrups, tablets and capsules.
 
 ## Safety Considerations
 
-**Drug-Drug Interactions (DDI):** A total of **306 interactions** were identified (DDInter database). Key interactions to note:
+- **Drug Interactions**: 306 interactions are recorded in total. The major ones involve serotonergic agents and 5-HT3 antagonists: dexfenfluramine, fenfluramine, lorcaserin, sibutramine, dolasetron, granisetron, ondansetron and palonosetron. Moderate interactions include bupropion, morphine, cimetidine, dronabinol, eliglustat, metoclopramide, nabilone, opium, phentermine, mazindol and glycerol phenylbutyrate.
+- **Knowledge-graph contraindication associations** (not label text): hypertension, long QT syndrome and torsades de pointes, liver failure and liver disease, epilepsy, COPD, kidney disease, pancreatitis, thrombocytopenia, adrenocortical insufficiency, hypothyroidism, diabetes mellitus and diabetic ketoacidosis, peptic ulcer disease, inflammatory bowel disease, benign prostatic hyperplasia, bronchitis and hypotensive disorder, among others. These need verification against the product label.
 
-*Major-level interactions (highest risk):*
-
-| Interacting Drug | Interaction Level | Clinical Concern |
-|-----------------|-------------------|-----------------|
-| Dexfenfluramine | Major | Serotonin syndrome risk |
-| Fenfluramine | Major | Serotonin syndrome risk |
-| Lorcaserin | Major | Serotonin syndrome risk |
-| Sibutramine | Major | Serotonin syndrome risk |
-| Ondansetron | Major | Serotonin syndrome / QT prolongation |
-| Granisetron | Major | Serotonin syndrome risk |
-| Dolasetron | Major | Serotonin syndrome / QT risk |
-| Palonosetron | Major | Serotonin syndrome risk |
-
-*Moderate-level interactions (selected):*
-
-| Interacting Drug | Interaction Level | Clinical Concern |
-|-----------------|-------------------|-----------------|
-| Bupropion | Moderate | CYP2D6 inhibition → elevated DXM levels; also combined in some formulations |
-| Morphine / Opium | Moderate | CNS depression additive effect |
-| Metoclopramide | Moderate | CNS effects |
-| Eliglustat | Moderate | CYP2D6 substrate interaction |
-| Cimetidine | Moderate | CYP2D6 inhibition |
-
-> **Key warnings and contraindications** from the official package insert are not available in this evidence pack (Data Gap: DG001). Given DXM's serotonergic activity, **concurrent use with MAOIs is a well-known absolute contraindication** and should be prominently flagged. Full safety review of the CDSCO/TFDA prescribing information is required before any clinical use assessment.
-
----
+Please refer to the package insert for label warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-DXM has a pharmacologically coherent mechanistic link to nasal cavity disease through its antitussive action on the cough reflex arc triggered by upper airway mucosal irritation, and multi-symptom combination formulations incorporating DXM alongside antihistamines and decongestants are already in widespread OTC use globally. However, the single identified Phase 3 trial maps to a different indication (MDD), creating an evidence traceability gap that must be resolved before this evaluation can be finalized.
+The prediction rests only on model scores. There are no clinical trials or publications, the drug has no established direct effect on nasal tissue, and the link appears to be a graph artifact of the existing rhinitis and cold indications. Package insert safety data are also missing.
 
 **To proceed, the following is needed:**
-
-- **[Priority: Blocking]** Retrieve and parse the CDSCO/TFDA package insert for DXM to populate key warnings and contraindications (Data Gap DG001)
-- **[Priority: High]** Verify and correct the clinical trial mapping — confirm whether NCT06958692 is truly relevant to nasal cavity disease, and retrieve the Bilastine + DXM + Phenylephrine Phase 3 trial data referenced in PMID 39822435
-- **[Priority: High]** Retrieve DrugBank MOA data for DXM (Data Gap DG002) to enable formal mechanistic link scoring
-- Conduct a targeted PubMed search for DXM in combination cold/allergy formulations for nasal cavity disease to fill the literature evidence gap
-- Verify current CDSCO registration status for DXM-containing combination products in India
-- Evaluate CYP2D6 pharmacogenomic considerations, as DXM metabolism is highly variable across populations — relevant for any Indian patient population study design
+- Mechanism-of-action data (e.g. from DrugBank) to allow a proper mechanistic assessment
+- Package insert warnings and contraindications from the Indian regulator or manufacturers, to complete safety screening
+- A targeted literature and trial search for nasal cavity disease, and for the more plausible candidates (acute laryngopharyngitis as symptomatic relief, and headache-related conditions via NMDA antagonism)
+- Review of the serotonergic and CYP2D6-related interaction risks before any new-indication use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

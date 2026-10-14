@@ -2,7 +2,7 @@
 layout: default
 title: Prulifloxacin
 parent: Model Prediction Only (L5)
-nav_order: 704
+nav_order: 711
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,11 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Prulifloxacin: From Bacterial Infections to Heart Disease
+# Prulifloxacin: From Bacterial Infection (Fluoroquinolone Antibacterial) to Heart Disease
 
 ## One-Sentence Summary
 
-Prulifloxacin is a fluoroquinolone prodrug antibiotic (active metabolite: ulifloxacin) that works by inhibiting bacterial DNA gyrase and topoisomerase IV. The TxGNN model's top prediction suggests possible relevance to **Heart Disease**, but this is currently supported by only **1 publication** — an animal cardiac-safety study, not an efficacy study — and **0 clinical trials**, indicating very weak evidence.
+Prulifloxacin is an oral fluoroquinolone antibacterial (a prodrug of ulifloxacin), marketed in India in 11 single-ingredient tablet products.
+The TxGNN model predicts it may be effective for **heart disease**, but this is a model prediction only, with **0 clinical trials** and **1 preclinical publication**, and that publication concerns the drug's cardiac safety risk (proarrhythmia) rather than any benefit.
 
 ---
 
@@ -41,23 +42,25 @@ Prulifloxacin is a fluoroquinolone prodrug antibiotic (active metabolite: uliflo
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack (India licensing data absent); drug class is fluoroquinolone antibacterial |
-| Predicted New Indication | Heart Disease |
+| Original Indication | Not stated in the India licence data compiled for this report (prulifloxacin is a fluoroquinolone antibacterial) |
+| Predicted New Indication | Heart disease |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 11 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available as a structured DrugBank field. Based on the available evidence, Prulifloxacin is a fluoroquinolone prodrug that is hydrolyzed to its active metabolite ulifloxacin, which inhibits bacterial DNA gyrase and topoisomerase IV — the standard fluoroquinolone antibacterial mechanism. This mechanism has no established pharmacological pathway connecting it to cardiovascular disease pathophysiology.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, prulifloxacin is a prodrug of ulifloxacin, a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Its established role is treating bacterial infections.
 
-The single supporting publication (PMID 15018156) is an animal proarrhythmia model comparing prulifloxacin's active metabolite against other quinolones for QT-interval prolongation and arrhythmia risk — a **cardiac safety** study, not a treatment-efficacy study. It documents a known class-effect risk (quinolone-associated QT prolongation) rather than any therapeutic benefit in heart disease.
+**The prediction is not mechanistically reasonable.** No credible link connects a bacterial topoisomerase inhibitor to the treatment of heart disease. The high TxGNN score (99.94%, rank 1461) most likely reflects network-level similarity in the knowledge graph rather than biological relevance.
 
-Notably, all 10 of this drug's top TxGNN predictions score within a narrow band (~0.9993–0.9994) and span pharmacologically unrelated conditions — structural heart defects, congenital craniofacial syndromes, chromosomal deletions, and a rare glycosylation disorder. This tight score clustering across mechanistically implausible diseases is a signature of knowledge-graph embedding artifacts rather than genuine differential signal, and should be treated as a strong caution flag rather than a positive finding.
+The only retrieved publication on the cardiac question (PMID 15018156, 2004) is a rabbit study comparing the proarrhythmic effects and QT-interval changes of ulifloxacin and other quinolones. It examines a safety liability, not a therapeutic benefit. Fluoroquinolones as a class carry known cardiac warnings (QT prolongation, and aortic aneurysm/dissection), which argue against use in heart disease.
+
+The other nine predictions in the top ten (for example Laubry-Pezzi syndrome, Pierre Robin syndrome, pulmonary and mitral valve disease, orofacial clefting syndrome, Jeune syndrome situs inversus) are mostly congenital or structural conditions. They also have no mechanistic rationale and no supporting trials. They are not evaluated further here.
 
 ---
 
@@ -71,19 +74,29 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15018156](https://pubmed.ncbi.nlm.nih.gov/15018156/) | 2004 | Animal safety/PK-PD study | The Journal of Toxicological Sciences | Compared prulifloxacin's active metabolite (ulifloxacin) with sparfloxacin, gatifloxacin, and levofloxacin in a rabbit proarrhythmia model, assessing QT-interval prolongation and arrhythmia risk — a cardiac **safety** comparison, not evidence of therapeutic benefit in heart disease |
+| [15018156](https://pubmed.ncbi.nlm.nih.gov/15018156/) | 2004 | Preclinical (rabbit model) | J Toxicol Sci | Compared proarrhythmic effects and QT prolongation of NM394 (ulifloxacin, the active metabolite of prulifloxacin) with sparfloxacin, gatifloxacin and levofloxacin. It addresses cardiac safety risk, not therapeutic benefit. |
 
 ---
 
 ## India Market Information
 
-Currently no market registration information available (India market status: Not Marketed; 0 registrations on file).
+Eleven valid single-ingredient licences are registered, all oral tablets (strips of 5 tablets). The approved-indication text is not recorded for any of them. The five main authorisations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 180018 | Puribact 600mg Tablet (Invision Medi Sciences) | Strip of 5 tablets | Not recorded |
+| 186292 | Rulizo Tablet (Sun Pharmaceutical Industries) | Strip of 5 tablets | Not recorded |
+| 174477 | Pruflox Tablet (Cipla) | Strip of 5 tablets | Not recorded |
+| 173748 | Percin Tablet (Lupin) | Strip of 5 tablets | Not recorded |
+| 180156 | Pruquin 600mg Tablet (Alembic Pharmaceuticals) | Strip of 5 tablets | Not recorded |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+No label-based warnings, contraindications or drug-interaction records were available in the data compiled for this report. Please refer to the package insert for safety information.
+
+As a class concern, fluoroquinolones are associated with QT-interval prolongation and rare ventricular arrhythmias such as torsades de pointes. This is supported by the rabbit study above. This risk is directly relevant to any proposed use in patients with heart disease.
 
 ---
 
@@ -92,13 +105,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a TxGNN model score (L5, no clinical or observational evidence), the drug's antibacterial mechanism has no known pathway relevant to heart disease, the one retrieved publication addresses cardiac safety risk rather than efficacy, and the drug is not currently marketed in India. The tight, mechanistically incoherent clustering of scores across this drug's top 10 predictions further suggests a knowledge-graph embedding artifact rather than a genuine repurposing signal.
+The prediction rests only on a model score. There are no clinical trials, no mechanistic link, and the only relevant publication points to cardiac safety risk. Fluoroquinolone cardiac warnings argue against this use.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism-of-action data from DrugBank/primary literature
-- India (or reference-market) label warnings and contraindications, particularly regarding QT prolongation
-- A plausible mechanistic hypothesis linking fluoroquinolone activity to a specific cardiac disease subtype
-- Prospective preclinical or observational data before advancing beyond S0
+- Package insert warnings and contraindications for the India-marketed products, which are required for any safety screening
+- Mechanism of action data from DrugBank
+- A specific, biologically plausible hypothesis for a cardiac indication (for example, an infective cardiac condition), with supporting preclinical data
+- A cardiac safety assessment (QT and arrhythmia risk) before any further consideration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Megestrol Acetate
 parent: High Evidence (L1-L2)
-nav_order: 515
+nav_order: 520
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,116 +29,94 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Megestrol Acetate: From Cancer Cachexia / Hormonal Cancer Therapy to Uterine Corpus Endometrial Carcinoma
+# Megestrol Acetate: From Endometrial Carcinoma to Uterine Corpus Endometrial Carcinoma
 
 ## One-Sentence Summary
 
-Megestrol acetate is a synthetic progestational agent with established global use in breast cancer, endometrial cancer, and cancer-related anorexia-cachexia, though it is currently not registered in India.
-The TxGNN model predicts it may be effective for **Uterine Corpus Endometrial Carcinoma** with a prediction score of **99.94%**, supported by **3 clinical trials** and a mechanistically well-established rationale as a progesterone receptor agonist that directly opposes estrogen-driven endometrial tumourigenesis.
-
----
+Megestrol acetate is a synthetic progestin originally used to treat endometrial carcinoma.
+The TxGNN model predicts it may be effective for **uterine corpus endometrial carcinoma**, which is essentially the same disease as its original indication, so this is closer to confirming known use than to true repurposing.
+Evidence for this top prediction is **1 clinical trial** (a completed randomized Phase 2 study) and no directly linked publications.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in India; globally approved for palliative treatment of advanced breast carcinoma, advanced endometrial carcinoma, and cancer anorexia-cachexia |
-| Predicted New Indication | Uterine Corpus Endometrial Carcinoma |
+|------|------|
+| Original Indication | Endometrial carcinoma (also listed as endometrial cancer, endometrium neoplasm, uterine corpus cancer) |
+| Predicted New Indication | Uterine corpus endometrial carcinoma |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L2 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from this Evidence Pack. However, Megestrol acetate is a well-characterized synthetic progestin (progesterone receptor agonist) whose antitumour mechanism in the endometrium is thoroughly documented in international literature. By competitively binding progesterone receptors in uterine epithelium, megestrol acetate opposes estrogen-driven cell proliferation, induces differentiation of neoplastic endometrial cells, and suppresses tumour growth — particularly in PR-positive, Grade 1–2 endometrioid-type carcinoma where receptor expression is highest (>70%).
+Currently, detailed mechanism of action data is not available. Based on known information, megestrol acetate is a synthetic progestin. Progestins act through progesterone receptor signaling to induce differentiation and suppress proliferation in hormone-sensitive endometrial tumors.
 
-Uterine corpus endometrial carcinoma is the most common gynaecological malignancy in developed countries, and in its early stages it is strongly estrogen-dependent. This makes progestational therapy a biologically rational intervention. The mechanistic link between progesterone receptor agonism and endometrial cancer suppression is one of the most established in gynaecologic oncology, and megestrol acetate has been a cornerstone of fertility-sparing treatment protocols for young women with Stage IA, Grade 1 disease for decades.
-
-The TxGNN score of 99.94% is fully consistent with this mechanistic plausibility. The evidence package further reinforces this with a completed Phase 2 randomised trial directly incorporating megestrol acetate in endometrial carcinoma (NCT00729586), underscoring that this prediction reflects a real clinical use case rather than purely model speculation.
-
----
+The predicted indication is the same disease family as the original one. The high score therefore reflects consistency with known use rather than a new therapeutic direction. A randomized Phase 2 trial in advanced or recurrent endometrial carcinoma includes a megestrol acetate (with tamoxifen) hormonal arm, which supports the clinical relevance of this use.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT00729586](https://clinicaltrials.gov/study/NCT00729586) | Phase 2 | Completed | 73 | Randomised Phase 2 trial comparing temsirolimus (mTOR inhibitor) alone versus megestrol acetate + tamoxifen + temsirolimus in advanced, persistent, or recurrent endometrial carcinoma; completed 2017; represents the highest-quality direct evidence in this pack |
-| [NCT00503581](https://clinicaltrials.gov/study/NCT00503581) | Phase 2 | Terminated | 9 | Randomised Phase 2 comparing continuous versus sequential megestrol in endometrial intraepithelial neoplasia (EIN) / atypical endometrial hyperplasia in patients desiring uterine preservation; terminated early due to recruitment difficulty with only 9 participants enrolled; provides design rationale but no efficacy conclusions |
-| [NCT04046185](https://clinicaltrials.gov/study/NCT04046185) | Early Phase 1 | Unknown | 60 | PD-1 inhibitor combined with progesterone versus progesterone alone in early-stage endometrial cancer (fertility-sparing); uses progesterone rather than megestrol acetate directly; indirectly supports the broader progestin-in-endometrial-cancer concept |
-
----
+|---------|------|------|------|---------|
+| [NCT00729586](https://clinicaltrials.gov/study/NCT00729586) | Phase 2 | Completed | 73 | Randomized trial of temsirolimus alone or combined with hormonal therapy (megestrol acetate plus tamoxifen) in advanced, persistent or recurrent endometrial cancer. The main question concerns temsirolimus, with the hormonal regimen as a comparator/combination arm. |
 
 ## Literature Evidence
 
-Currently no related literature is available for uterine corpus endometrial carcinoma in this Evidence Pack.
-
----
+Currently no related literature available for this top prediction.
 
 ## India Market Information
 
-Megestrol acetate is currently not registered or marketed in India. No authorisation records are available for this drug under CDSCO.
+Twenty valid single-ingredient registrations are on record. The main ones are listed below; no approved-indication text was available in the data compiled for this report.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 136498 | Mhega 160mg Tablet | Strip of 10 tablets | Not available |
+| 134685 | Megeetron 160mg Tablet | Strip of 10 tablets | Not available |
+| 133810 | Megesta 160 Tablet | Strip of 10 tablets | Not available |
+| 37822 | Cachexiam 160 Tablet | Strip of 10 tablets | Not available |
+| 72436 | Endace 40 Tablet | Strip of 10 tablets | Not available |
+
+All products are oral tablets (40, 80 or 160 mg strengths).
 
 ## Cytotoxicity
 
-Megestrol acetate is classified as an antineoplastic hormonal agent with established use in gynaecological and breast cancers.
+Megestrol acetate is a hormonal (endocrine) antineoplastic agent, not a conventional cytotoxic drug.
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Hormonal therapy — Progestin class (not a conventional cytotoxic agent) |
-| Myelosuppression Risk | Low (progestins do not cause significant bone marrow suppression) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Blood glucose (high-dose megestrol exhibits glucocorticoid-like activity and can elevate glucose significantly), body weight and oedema, signs of adrenal suppression with prolonged high-dose use (≥160 mg/day), haemostatic parameters (increased thromboembolism risk at high doses) |
-| Handling Protection | Standard pharmaceutical handling; dedicated cytotoxic drug handling protocols generally not required for oral progestins |
-
----
+|------|------|
+| Cytotoxicity Classification | Hormonal therapy (progestin); not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert; blood glucose, blood pressure, and liver and renal function are reasonable given the associated conditions below |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-**Drug Interactions (134 interactions identified; selected key examples below):**
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: hypertensive disorder, kidney disease, liver disease, gallbladder disease, hyperglycemia, diabetes mellitus, diabetic ketoacidosis, adrenocortical insufficiency, Addison disease, male hypogonadism, premature menopause, androgen insensitivity syndrome.
+- **Adrenal suppression**: A published study (PMID 10491532) examined secondary adrenal suppression in patients on megestrol acetate for advanced cancer.
+- **Drug Interactions**: 134 interactions were identified, mostly Moderate. The listed ones are largely antidiabetic agents, such as metformin, pioglitazone, glimepiride, repaglinide, sitagliptin, semaglutide, empagliflozin, dapagliflozin, canagliflozin and insulins. Others include aprepitant and clarithromycin. Glucose monitoring is advisable when combined with antidiabetic drugs.
 
-The most clinically prominent interaction pattern involves widespread moderate-level interactions with virtually all major antidiabetic drug classes, reflecting megestrol acetate's glucocorticoid-like activity at high doses (≥160 mg/day), which can antagonise glycaemic control:
-
-| Interaction Category | Representative Drugs | Level |
-|---------------------|---------------------|-------|
-| Insulin analogues | Insulin aspart, Insulin degludec | Moderate |
-| GLP-1 receptor agonists | Albiglutide, Dulaglutide, Semaglutide | Moderate |
-| DPP-4 inhibitors | Alogliptin, Linagliptin, Saxagliptin, Sitagliptin | Moderate |
-| SGLT-2 inhibitors | Canagliflozin, Dapagliflozin, Empagliflozin | Moderate |
-| Biguanides | Metformin | Moderate |
-| Sulfonylureas | Glimepiride, Chlorpropamide | Moderate |
-| Thiazolidinediones | Pioglitazone | Moderate |
-| Meglitinides | Repaglinide | Moderate |
-| Alpha-glucosidase inhibitors | Acarbose | Moderate |
-| Antibiotics / antiemetics | Clarithromycin, Aprepitant | Moderate |
-
-*Clinical implication: High-dose megestrol can induce new-onset hyperglycaemia or worsen existing diabetes. All antidiabetic regimens should be closely monitored and adjusted when co-administering.*
-
-For complete warnings and contraindications, please refer to the package insert, as this data was not available in the current Evidence Pack.
-
----
+Package insert warnings and contraindications were not available, so please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Megestrol acetate's progesterone receptor agonist mechanism is directly and mechanistically applicable to PR-positive endometrial carcinoma, a completed Phase 2 randomised trial (NCT00729586, n=73) provides clinically meaningful supporting evidence at L2 level, and the drug carries decades of global clinical use for this indication — making the TxGNN prediction both biologically and clinically credible for regulatory consideration in India.
+The predicted indication is effectively the drug's original use. A completed randomized Phase 2 trial includes a megestrol acetate arm in endometrial cancer. However, the trial's main question concerned temsirolimus, and no directly linked publications were supplied. Important safety information is also missing.
 
 **To proceed, the following is needed:**
+- Package insert warnings and contraindications for the marketed Indian products (currently a blocking gap)
+- Detailed mechanism of action data
+- Approved indication text for the Indian registrations
+- Efficacy data focused on megestrol acetate in endometrial carcinoma
+- A glucose, blood pressure and adrenal function monitoring plan, given the knowledge-graph contraindications and interactions
 
-- **Regulatory pathway**: Assess CDSCO import licence / New Drug Application requirements for a drug not currently marketed in India
-- **Full package insert review**: Obtain and parse TFDA or FDA prescribing information to document complete warnings and contraindications (Data Gap DG001 — currently blocking S1 safety evaluation)
-- **MOA documentation**: Retrieve complete DrugBank entry to formalise pharmacological mechanism data (Data Gap DG002)
-- **Patient selection criteria**: Define PR/ER receptor testing protocol to identify the target population most likely to benefit (Grade 1–2, PR-positive endometrioid carcinoma; fertility-sparing indication in young patients)
-- **Blood glucose monitoring plan**: Establish baseline and on-treatment glycaemic monitoring given high-dose megestrol's glucocorticoid-like activity and its moderate interaction with all major antidiabetic classes
-- **Thromboembolism risk protocol**: Define risk stratification and prophylaxis strategy for high-dose use (LMWH consideration in cancer patients with additional VTE risk factors)
-- **Comparator benchmarking**: Compare against medroxyprogesterone acetate (MPA), which may be available in India, to determine clinical and market differentiation for endometrial indications
+**Other predictions (for reference):**
+- **Ovarian cancer** (score 99.71%, L1 by trial count): this is a research question rather than a go. The Phase 3 trial (NCT00005975) studied megestrol acetate for hot flashes after breast cancer treatment, not as anti-tumor therapy. Anti-tumor support is limited to older Phase 2 studies of high-dose megestrol acetate in platinum-refractory disease (PMIDs 11593052, 9856656, 3099393).
+- **Uterine carcinosarcoma**: only indirect literature (a hormone receptor expression study and a case report), so it remains a research question.
+- **Other predictions** (endometrial transitional cell carcinoma, hereditary breast ovarian cancer syndrome, borderline ovarian tumor, placenta cancer, ovarian clear cell adenocarcinoma, ovarian dysgerminoma, low-grade uterine neuroendocrine tumor): model prediction only with no clinical evidence, so Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

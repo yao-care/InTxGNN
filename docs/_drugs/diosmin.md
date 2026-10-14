@@ -2,7 +2,7 @@
 layout: default
 title: Diosmin
 parent: Model Prediction Only (L5)
-nav_order: 271
+nav_order: 274
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,80 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Diosmin: From Chronic Venous Insufficiency to Amenorrhea
+# Diosmin: From Venous Disease to Amenorrhea
 
 ## One-Sentence Summary
 
-Diosmin is a flavone O-glycoside compound, clinically established as a venotonic and microcirculation-improving agent, primarily used for chronic venous insufficiency (CVI) and hemorrhoids.
-The TxGNN model predicts it may have potential for **Amenorrhea**, based on theoretical phytoestrogenic and vascular mechanisms linking flavonoid compounds to hormonal pathways.
-However, this direction is currently supported by **no clinical trials** and **no published literature**, placing it at the lowest evidence tier.
-
----
+Diosmin is a flavonoid venoactive agent, widely marketed in India as a single-ingredient product for venous conditions. The TxGNN model predicts it may be effective for **amenorrhea**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It is a purely computational signal.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Chronic venous insufficiency; hemorrhoids (venotonic agent) |
+|------|------|
+| Original Indication | Not stated on the India licences (indication text is blank) |
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 99.42% |
-| Evidence Level | L5 — Model prediction only; no actual studies identified |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 17 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Diosmin (DB08995) is a flavone O-glycoside with well-established activity as a venotonic agent and microcirculation enhancer. Its primary clinical use is for chronic venous insufficiency and hemorrhoidal disease, where it acts by improving venous tone, reducing capillary permeability, and modulating lymphatic drainage.
+Currently, detailed mechanism of action data is not available. Based on general knowledge, diosmin is a flavonoid venoactive agent used for chronic venous insufficiency and haemorrhoids. Its proposed effects are on venous tone, capillary permeability, lymphatic drainage and inflammation. These details are background knowledge and are not drawn from the data compiled for this report.
 
-The TxGNN model's prediction linking Diosmin to amenorrhea appears to stem from the known overlap between flavonoid chemistry and hormonal biology. Three theoretical pathways exist: first, **phytoestrogenic activity** — flavonoids are known to interact weakly with estrogen receptors (ERα/ERβ), which could in principle modulate the hypothalamic-pituitary-ovarian (HPO) axis and menstrual cycling; second, **aromatase modulation** — some flavonoids influence CYP19A1 activity, affecting the estrogen-to-androgen ratio, though the directionality of this effect does not straightforwardly align with inducing menstruation; third, **uterine blood flow improvement** — Diosmin's vasoactive properties could theoretically improve uterine perfusion in cases of functional amenorrhea, though no literature has tested this directly.
-
-It is important to note that the high TxGNN score (0.9941) reflects **topological proximity** within the knowledge graph between flavonoid compounds and hormone-related pathways — not direct biological activity evidence. The mechanistic link between Diosmin and amenorrhea remains **highly speculative** at this stage, and no preclinical, clinical, or observational data currently supports this repurposing direction.
-
----
+No plausible link has been identified between these actions and the hypothalamic-pituitary-ovarian axis, endometrial function, or other drivers of amenorrhea. The India licences list no approved indication text, which further limits inference. Any connection would be speculative, for example through indirect vascular or anti-inflammatory effects. The very high TxGNN score (0.994) should therefore be read as a model output, not as biological or clinical confirmation.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Diosmin in amenorrhea.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Diosmin in amenorrhea.
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-Diosmin currently holds no drug registrations in India. The product is not marketed domestically.
+Diosmin has 17 valid single-ingredient registrations in India and no cancelled ones. Five main authorisations are listed below. The approved-indication text is blank on all of them.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 104457 | Hesdin Tablet | Strip of 15 tablets | Not specified |
+| 58244 | Daflon 500 MG Tablet | Strip of 10 tablets | Not specified |
+| 58279 | Daflon 1000mg Tablet | Strip of 10 tablets | Not specified |
+| 133 | Aldosmin 500mg Tablet | Strip of 10 tablets | Not specified |
+| 230756 | Ubicar Cream | Tube of 30 gm cream | Not specified |
+
+Most products are oral tablets. One topical cream (Ubicar Cream) is also registered.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(No drug-drug interaction records were identified. Key warnings and contraindications data were not available from the sources queried.)*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is currently zero clinical or preclinical evidence supporting Diosmin's use in amenorrhea. The TxGNN score reflects knowledge graph topology rather than direct biological proof, and the proposed mechanisms are speculative. With no registered trials, no published studies, and no India market presence, the evidence base is insufficient to justify further investment at this time.
+The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanistic link to amenorrhea. Evidence is at the lowest level (L5).
 
 **To proceed, the following is needed:**
-
-- **Preclinical mechanistic evidence**: In vitro or animal studies examining Diosmin's effect on the HPO axis, uterine blood flow, or estrogenic receptor activity in the context of amenorrhea
-- **MOA clarification**: Retrieve full mechanism of action data from DrugBank API (currently a data gap) to better characterise phytoestrogenic potential
-- **Literature review expansion**: Broaden search to include related flavonoids (e.g., diosmetin, hesperidin) and amenorrhea or menstrual irregularity to assess class-level evidence
-- **Safety package**: Obtain prescribing information / package insert to complete the safety assessment before any further evaluation stages
-- **Regulatory pathway assessment**: If preclinical evidence emerges, evaluate feasibility of market entry in India given zero existing registrations
+- Mechanism of action data (for example from DrugBank) to assess any biological link
+- Package insert warnings and contraindications from the India licences, to allow safety screening
+- A literature and trial search specifically on diosmin or flavonoids and menstrual or ovarian function
+- A clear clinical rationale for amenorrhea, including the type (primary or secondary) and cause, before any further evaluation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

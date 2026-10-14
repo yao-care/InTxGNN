@@ -2,7 +2,7 @@
 layout: default
 title: Edaravone
 parent: Model Prediction Only (L5)
-nav_order: 294
+nav_order: 297
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,77 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Edaravone: From Amyotrophic Lateral Sclerosis to Heparin Cofactor 2 Deficiency
+# Edaravone: From Ischemic Stroke and ALS to Heparin Cofactor 2 Deficiency
 
 ## One-Sentence Summary
 
-Edaravone (brand name: Radicava) is a free radical scavenger originally approved for the treatment of amyotrophic lateral sclerosis (ALS) and acute ischemic stroke, where oxidative stress drives neuronal damage.
-The TxGNN model predicts it may have therapeutic potential in **Heparin Cofactor 2 Deficiency**, with a prediction score of **99.47%**.
-However, with **0 clinical trials** and **0 publications** currently available to support this direction, this prediction rests entirely on model inference.
-
----
+Edaravone is a free radical scavenger originally used to treat ischemic stroke and amyotrophic lateral sclerosis (ALS).
+The TxGNN model predicts it may be effective for **heparin cofactor 2 deficiency**, but this rests on a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Amyotrophic Lateral Sclerosis (ALS); Acute Ischemic Stroke |
-| Predicted New Indication | Heparin Cofactor 2 Deficiency |
+|------|------|
+| Original Indication | Ischemic stroke, stroke disorder, amyotrophic lateral sclerosis (approved indication text is not available in the India registrations) |
+| Predicted New Indication | Heparin cofactor 2 deficiency |
 | TxGNN Prediction Score | 99.47% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from this Evidence Pack. Based on known published information, Edaravone is a potent free radical scavenger that neutralizes reactive oxygen species (ROS) and hydroxyl radicals, protecting cells from oxidative damage. Its efficacy in ALS and acute ischemic stroke has been clinically established — both conditions share oxidative stress as a key driver of tissue injury.
+Currently, detailed mechanism of action data is not available. Based on known information, edaravone is a free radical scavenger with established use in ischemic stroke and ALS. A speculative link is that it may reduce oxidative endothelial injury, which could in theory lower thrombotic risk in a prothrombotic condition.
 
-The theoretical bridge to Heparin Cofactor II (HCII) deficiency works as follows: ROS can oxidize and inactivate circulating coagulation inhibitor proteins, including serine protease inhibitors such as HCII. If oxidative inactivation were a significant contributor to reduced HCII function, Edaravone's ROS-scavenging activity might theoretically help preserve functional HCII levels, thereby reducing thrombotic risk.
+This link is weak. Heparin cofactor 2 deficiency is a defect in dermatan sulfate-dependent thrombin inhibition, and a radical scavenger would not correct it. The prediction is therefore hypothetical and unvalidated.
 
-However, this mechanistic rationale is weak for the specific indication. HCII deficiency is fundamentally a genetic disorder — caused by insufficient protein synthesis or structural gene mutations resulting in reduced protein quantity or function from the outset. Edaravone cannot compensate for a protein that is not being produced or is structurally defective. The indirect pathway of "oxidative stress → coagulation inhibitor inactivation → thrombosis" may exist as a modulating factor, but its relative contribution to HCII deficiency is unknown and unlikely to be primary. The TxGNN model may be detecting a distant topological proximity in the disease knowledge graph rather than a direct therapeutic mechanism.
-
----
+A second prediction, **factor 5 excess with spontaneous thrombosis** (score 99.06%), has the same limitations. Edaravone does not target the coagulation cascade, and no trials or publications support it.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
-Edaravone is currently not approved or marketed in India. No product registrations were identified in the CDSCO database at the time of this report.
+Edaravone has 20 valid single-ingredient registrations in India and none are cancelled. The registrations include no approved indication text. Five of them are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 77525 | Edivone 1.5mg Injection | Vial of 20 ml injection | Not stated |
+| Registration No. 72868 | Edastar Injection | Vial of 20 ml injection | Not stated |
+| Registration No. 74902 | Edastar 1.5mg Tablet | Strip of 10 tablets | Not stated |
+| Registration No. 88647 | Fraseda 1.5mg Injection | Vial of 20 ml injection | Not stated |
+| Registration No. 494 | Aravon Injection | Vial of 20 ml injection | Not stated |
+
+Most products are injectables, and one oral tablet is registered.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Although the TxGNN prediction score is high (99.47%), there is no clinical, preclinical, or mechanistic evidence connecting Edaravone to Heparin Cofactor 2 Deficiency. The disorder is genetic in origin, making Edaravone's antioxidant mechanism an unlikely therapeutic fit.
+The prediction rests on a model score alone, with no clinical trials or literature. The proposed mechanism does not fit the underlying defect in thrombin inhibition, so there is no basis to advance it.
 
 **To proceed, the following is needed:**
-- Mechanistic studies confirming whether Edaravone can meaningfully elevate HCII protein activity or plasma levels in a relevant model
-- Preclinical data (in vitro or animal model) demonstrating any effect on thrombin inhibition via the HCII pathway
-- Drug labelling and full package insert data to complete the safety profile (currently a blocking data gap)
-- Clarification of whether the TxGNN prediction is driven by indirect disease-ontology co-localization (e.g., shared thrombosis phenotype) rather than mechanistic relevance
-- Consideration of whether orphan drug incentives may justify exploratory investment, given the rarity of HCII deficiency and the complete absence of existing treatments
+- Mechanism of action data to assess any biological link to the predicted conditions
+- Package insert warnings and contraindications for the India-registered products
+- Preclinical or mechanistic studies showing edaravone affects thrombin inhibition or coagulation
+- Route compatibility assessment and similarity analysis against the original indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Dichlorobenzyl Alcohol
 parent: Model Prediction Only (L5)
-nav_order: 258
+nav_order: 261
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,82 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Dichlorobenzyl Alcohol: From Antiseptic/Oral Care to Bronchitis
+# Dichlorobenzyl Alcohol: From Oropharyngeal Antiseptic Use to Bronchitis
 
 ## One-Sentence Summary
 
-Dichlorobenzyl alcohol (DCBA) is a halogenated benzyl alcohol compound traditionally used as a topical antiseptic, most commonly found in over-the-counter throat lozenge products for its antimicrobial properties.
-The TxGNN model predicts it may have potential utility for **Bronchitis**, however with **0 clinical trials** and **1 marginally relevant publication** (concerning a structurally distinct compound), the evidence base is extremely thin.
-At this stage, the prediction cannot be meaningfully substantiated and requires significant foundational research before any repurposing pathway can be considered.
-
----
+Dichlorobenzyl alcohol is a mild antiseptic marketed in India as a throat lozenge ingredient.
+The TxGNN model predicts it may be effective for **bronchitis**, but the data compiled for this report contain **no clinical trials** and **no supporting publications** for this prediction.
+The prediction is a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No registered indication available (traditionally used as a topical oral antiseptic in OTC throat lozenges) |
+|------|------|
+| Original Indication | Not stated in the approval records (marketed as cough/throat lozenges) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.21% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Dichlorobenzyl alcohol is a chlorinated benzyl alcohol that has been used in topical oral antiseptic formulations (e.g., Strepsils lozenges). It is known to exhibit broad-spectrum antimicrobial activity against gram-positive bacteria and has some activity against respiratory viruses, which forms the theoretical bridge to infectious airway conditions.
+Currently, detailed mechanism of action data is not available. Based on known information, dichlorobenzyl alcohol is a mild topical antiseptic typically used in throat lozenges for oropharyngeal infections. Its action is presumably local antiseptic activity against oral and pharyngeal pathogens, which is an unverified assumption.
 
-Acute bronchitis is predominantly caused by viral respiratory pathogens, with a smaller proportion attributable to bacterial infection. The theoretical case for DCBA rests on its surface-level antimicrobial and antiviral properties — if delivered to the airways in an appropriate formulation, it could plausibly reduce pathogen burden. However, DCBA's known use is confined to topical oral mucosa contact, and no data exist on systemic absorption, inhalational delivery, or pulmonary pharmacokinetics.
+Bronchitis is a respiratory tract condition and is related to the throat and cough settings in which the product is sold. However, a lozenge acts locally in the mouth and throat, and there is no data showing that this activity extends to the bronchi. The high score therefore likely reflects proximity within the knowledge graph rather than a demonstrated pharmacological link.
 
-The TxGNN score of 0.992 reflects knowledge-graph topological proximity between DCBA and bronchitis-associated nodes, not a validated biological mechanism. Without MOA data and with a complete absence of bronchitis-specific studies, this prediction should be treated as a hypothesis-generation signal only.
-
----
+A second prediction, **migraine disorder** (score 99.02%), has no clinical trials, no literature, and no identified mechanistic link. It is not considered supported.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [1036939](https://pubmed.ncbi.nlm.nih.gov/1036939/) | 1976 | Observational report (case series) | Arzneimittel-Forschung | 25 patients with chronic bronchitis treated with clenbuterol (a structurally distinct compound whose IUPAC name contains "dichlorobenzyl alcohol") showed elevated creatine kinase — **not a study of DCBA itself** |
-
-> **Important caveat:** This publication concerns clenbuterol (4-amino-α-[(tert-butylamino)methyl]-3,5-dichlorobenzyl alcohol hydrochloride), a β₂-adrenergic agonist bronchodilator. Although "dichlorobenzyl alcohol" appears in its chemical name, clenbuterol is a pharmacologically distinct compound. This paper does **not** constitute evidence for Dichlorobenzyl alcohol (DB13269) in bronchitis.
-
----
+|------|-----|------|------|---------|
+| [1036939](https://pubmed.ncbi.nlm.nih.gov/1036939/) | 1976 | Other (observational/case report) | Arzneimittel-Forschung | Reports elevated serum creatine kinase in 25 chronic bronchitis patients after oral clenbuterol, a different compound (a beta2-mimetic broncholytic). It does not address dichlorobenzyl alcohol and is **not** supporting evidence. |
 
 ## India Market Information
 
-Dichlorobenzyl alcohol currently has no registered products in India. There are no authorization records on file.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 1389 | Alkof Cough Lozenges Orange | Strip of 10 lozenges | Not stated |
+| 87330 | Fastosil Lozenges Honey Lemon | Strip of 8 lozenges | Not stated |
+| 87148 | Fastosil Lozenges Orange | Strip of 8 lozenges | Not stated |
+| 5332 | Alkof Cough Lozenges Menthol | Strip of 10 lozenges | Not stated |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction rests entirely on a TxGNN model score (L5 evidence) with no supporting clinical trials and no directly applicable literature. Critical data gaps — including the complete absence of MOA data, systemic safety profile, and any regulatory registration — make it premature to advance this candidate along any repurposing pathway.
+The prediction rests only on a model score. There are no clinical trials, and the single publication retrieved concerns a different drug. A local lozenge antiseptic also has no established route to act on bronchial infection.
 
 **To proceed, the following is needed:**
-- Mechanism of action data from DrugBank API or primary pharmacology literature
-- Systemic safety and toxicology profile (DCBA is currently known only for topical/mucosal use; systemic or inhalational data are absent)
-- Package insert warnings and contraindications (from regulatory source)
-- Preclinical in vitro or in vivo studies demonstrating activity against bronchitis-relevant pathogens via a clinically relevant route (inhalational or systemic)
-- Pharmacokinetic characterisation: absorption, distribution, lung tissue penetration
-- Route-of-administration feasibility assessment before any clinical hypothesis can be formed
+- Package insert warnings and contraindications from the Indian regulatory source (a blocking gap for safety screening)
+- Mechanism of action data (for example from DrugBank)
+- Evidence that a lozenge formulation or another route could reach the bronchial tissue
+- Relevant clinical or preclinical studies of dichlorobenzyl alcohol in bronchitis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Sulfadiazine
 parent: Moderate Evidence (L3-L4)
-nav_order: 789
+nav_order: 796
 evidence_level: L4
 indication_count: 2
 ---
@@ -29,89 +29,87 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Sulfadiazine: From Bacterial Infections to Pneumocystosis
+# Sulfadiazine: From Toxoplasmosis to Pneumocystosis
 
 ## One-Sentence Summary
 
-> Sulfadiazine is a sulfonamide antibacterial agent; however, this evidence pack contains no record of its original approved indication or India market license.
-> The TxGNN model predicts it may be effective for **Pneumocystosis**,
-> with **no registered clinical trials** but **20 historical publications** supporting a plausible mechanistic and clinical-practice rationale.
-
----
+Sulfadiazine is a sulfonamide antibacterial and antiparasitic agent, originally used for toxoplasmosis and related conditions.
+The TxGNN model predicts it may be effective for **pneumocystosis**,
+but **no clinical trials** are registered and the supporting **literature (19 publications)** is mostly reviews and case reports that do not directly test sulfadiazine for this condition.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in evidence pack (no license records; drug not marketed in India) |
+| Original Indication | Toxoplasmosis (the CDSCO licence records contain no approved indication text; the original indications listed here come from the knowledge graph) |
 | Predicted New Indication | Pneumocystosis |
 | TxGNN Prediction Score | 99.39% |
 | Evidence Level | L4 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 16 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (marked as a High-severity data gap in this evidence pack). Based on known pharmacology, Sulfadiazine is a sulfonamide antibiotic that inhibits dihydropteroate synthase (DHPS), blocking bacterial/protozoal folate synthesis — a pathway shared by *Pneumocystis jirovecii* and *Toxoplasma gondii* but absent in human cells, which confers selective toxicity.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Sulfadiazine belongs to the sulfonamide class, which inhibits dihydropteroate synthase (DHPS) in the folate synthesis pathway. Its efficacy in toxoplasmosis is established, and mechanistically it may be applicable to pneumocystosis.
 
-Historically, pyrimethamine-sulfadiazine combinations have been used as an alternative regimen for AIDS-associated *Pneumocystis carinii* pneumonia (PCP) and concurrent toxoplasmic encephalitis, particularly when trimethoprim-sulfamethoxazole (TMP-SMX, the current first-line therapy) is not tolerated. This gives the TxGNN prediction a plausible mechanistic basis.
+*Pneumocystis jirovecii* depends on the same folate pathway. The related sulfonamide sulfamethoxazole, combined with trimethoprim, is the standard treatment and prophylaxis for *Pneumocystis* pneumonia. This gives a plausible class-level rationale. One supplied paper also shows that DHPS mutations in *P. jirovecii* confer cross-resistance to sulfa drugs, which supports the idea that sulfonamides act on this target.
 
-That said, this represents a re-identification of established historical clinical practice from the 1970s–2000s rather than a genuinely novel repurposing signal. No original indication or India licensing data was available in this pack to assess overlap with current approved use.
-
----
+However, none of the supplied records shows direct evidence of sulfadiazine efficacy against *Pneumocystis*. Most of the literature covers sulfadiazine in toxoplasmosis and AIDS-related opportunistic infections, or discusses trimethoprim-sulfamethoxazole. Sulfadiazine is not a recognised first-line agent for this indication, and cotrimoxazole is far better established. The very high TxGNN score is a computational prediction and does not replace clinical evidence.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [2645082](https://pubmed.ncbi.nlm.nih.gov/2645082/) | 1989 | Case Series/Report | Clinical Pharmacy | Pyrimethamine-sulfadiazine used for treating PCP and concurrent toxoplasmosis in AIDS patients |
-| [5315969](https://pubmed.ncbi.nlm.nih.gov/5315969/) | 1971 | Case Report | Annals of Internal Medicine | Early report of PCP successfully treated with pyrimethamine and sulfadiazine |
-| [12645193](https://pubmed.ncbi.nlm.nih.gov/12645193/) | 2002 | Case Report | J Formosan Medical Association | Taiwan case: Toxoplasma brain abscess treated with clindamycin/sulfadiazine, with concurrent atypical PCP |
-| [2969023](https://pubmed.ncbi.nlm.nih.gov/2969023/) | 1988 | Review | The Journal of Infectious Diseases | Overview of PCP therapy and prophylaxis strategies |
-| [2996829](https://pubmed.ncbi.nlm.nih.gov/2996829/) | 1985 | Review | Clinical Pharmacy | Treatment review of AIDS infectious complications; PCP identified as most common (58%) |
-| [29604970](https://pubmed.ncbi.nlm.nih.gov/29604970/) | 2018 | Review | Handbook of Clinical Neurology | CNS Toxoplasma gondii infection in HIV patients; discusses sulfonamide-based prophylaxis/treatment |
-| [9097375](https://pubmed.ncbi.nlm.nih.gov/9097375/) | 1997 | Review | Seminars in Respiratory Infections | Review of Toxoplasma pneumonia pathogenesis and treatment in immunocompromised hosts |
-| [4580723](https://pubmed.ncbi.nlm.nih.gov/4580723/) | 1973 | Review | Transplantation Proceedings | Diagnosis and treatment of pneumocystosis and toxoplasmosis in the immunosuppressed host |
-| [2011633](https://pubmed.ncbi.nlm.nih.gov/2011633/) | 1991 | Review | Primary Care | PCP identified as the most common opportunistic infection in AIDS (>80% of cases) |
-| [3914245](https://pubmed.ncbi.nlm.nih.gov/3914245/) | 1985 | Review | Archives Françaises de Pédiatrie | Pediatric PCP; TMP-based treatment discussed, early initiation emphasized |
-
----
+| [29604970](https://pubmed.ncbi.nlm.nih.gov/29604970/) | 2018 | Review | Handbook of Clinical Neurology | CNS *Toxoplasma* infection in HIV patients; discusses prophylaxis with trimethoprim-sulfamethoxazole |
+| [7355683](https://pubmed.ncbi.nlm.nih.gov/7355683/) | 1980 | Review | American Family Physician | Drugs of choice for parasitic diseases; quinine-pyrimethamine-sulfadiazine for resistant malaria, trimethoprim-sulfamethoxazole for pneumocystis pneumonia |
+| [2121456](https://pubmed.ncbi.nlm.nih.gov/2121456/) | 1990 | Review | Drugs | Therapy and prophylaxis of systemic protozoan infections, including *Pneumocystis* and *Toxoplasma* |
+| [9097375](https://pubmed.ncbi.nlm.nih.gov/9097375/) | 1997 | Review | Seminars in Respiratory Infections | Toxoplasma pneumonia in AIDS and other cell-mediated immunity defects |
+| [7909657](https://pubmed.ncbi.nlm.nih.gov/7909657/) | 1994 | Review | Annals of Internal Medicine | Advances in managing AIDS-related opportunistic infections |
+| [2645082](https://pubmed.ncbi.nlm.nih.gov/2645082/) | 1989 | Not classified | Clinical Pharmacy | Pyrimethamine-sulfadiazine for *Pneumocystis carinii* pneumonia and toxoplasmosis in AIDS (no abstract available) |
+| [2060528](https://pubmed.ncbi.nlm.nih.gov/2060528/) | 1991 | Retrospective chart review | Eur J Clin Microbiol Infect Dis | 35 AIDS patients on toxoplasmosis maintenance therapy; relapses of both toxoplasmosis and pneumocystosis seen |
+| [15673759](https://pubmed.ncbi.nlm.nih.gov/15673759/) | 2005 | Laboratory study | Antimicrob Agents Chemother | *P. jirovecii* DHPS mutations confer cross-resistance to sulfa drugs |
+| [9122147](https://pubmed.ncbi.nlm.nih.gov/9122147/) | 1997 | Not classified | Presse Médicale | Prevention of parasitic infections in HIV; trimethoprim-sulfamethoxazole is the treatment of choice for *Pneumocystis* prophylaxis |
+| [34941194](https://pubmed.ncbi.nlm.nih.gov/34941194/) | 2021 | Case report and review | Medicine | Acute exacerbation of pulmonary toxoplasmosis during corticosteroid therapy |
 
 ## India Market Information
 
-Sulfadiazine is currently **not marketed** in India according to this evidence pack (0 registered licenses). No product authorization records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 200254 | Salphaz Tablet | Strip of 10 tablets | Not specified |
+| 38277 | Clavora Cream | Tube of 20 gm cream | Not specified |
+| 204669 | Silverine 1% Cream | Tube of 20 gm cream | Not specified |
+| 209656 | Saphrine 1%/0.2% Ointment | Tube of 15 gm ointment | Not specified |
+| 201048 | Silvez Plus 1%/0.2% Cream | Tube of 15 gm cream | Not specified |
 
----
+Of the 16 valid registrations, 15 are topical creams or ointments. Only Salphaz Tablet is an oral product. Pneumocystosis would require systemic (oral or intravenous) dosing, so the topical products are not relevant to this indication.
 
 ## Safety Considerations
 
-- **Drug Interactions**: 82 documented interactions identified (source: DDInter). All 20 detailed interactions returned are rated **Moderate** severity and predominantly involve antidiabetic agents — sulfonylureas (e.g., Glimepiride, Glyburide, Glipizide, Chlorpropamide, Tolazamide, Repaglinide, Nateglinide), insulins (all major formulations), and Balsalazide/Picosulfuric acid. Sulfonamides are known to potentiate hypoglycemic effects, so concurrent use with these agents warrants glucose monitoring.
-
-Key warnings and contraindications data are not available in this evidence pack (flagged as a **Blocking** data gap — TFDA/local package insert warnings and contraindications must be obtained before any safety review can proceed).
-
----
+- **Contraindications (from the knowledge graph, not label text)**: Conditions linked to sulfadiazine include porphyria, kidney disease, liver disease, gallbladder disease, haematologic disease (thrombocytopenia, neutropenia, agranulocytosis, leukopenia, aplastic anaemia, macrocytic anaemia, folic acid deficiency anaemia), G6PD deficiency, slow acetylation, asthma, urinary tract obstruction, cystinuria, galactosemia and glycogen storage disease.
+- **Drug Interactions**: 82 interactions were recorded. The main ones listed are Moderate and include:
+  - Sulfonylureas and meglitinides (chlorpropamide, glimepiride, glipizide, glyburide, tolazamide, repaglinide, nateglinide), with a risk of hypoglycaemia
+  - Multiple insulin products (aspart, degludec, detemir, glargine, glulisine, lispro, human insulins)
+  - Balsalazide, picosulfuric acid and naltrexone
+- **Other considerations**: Systemic sulfonamides carry risks such as hypersensitivity and crystalluria.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence is limited to historical case reports and narrative reviews (L4, no clinical trials or RCTs), the drug is not currently marketed in India, and a **Blocking** data gap exists for core safety information (warnings/contraindications), which prevents any S1 safety assessment from being completed.
+The only support is a class-level mechanistic link (DHPS inhibition) and a computational prediction. No trials are registered, and no supplied study shows sulfadiazine efficacy against *Pneumocystis*. Established alternatives, especially trimethoprim-sulfamethoxazole, are far better supported, so the evidence is insufficient to advance.
 
 **To proceed, the following is needed:**
-- Official package insert warnings and contraindications (Blocking gap — required before any safety evaluation)
-- Confirmed mechanism of action documentation from DrugBank
-- Original approved indication and licensing status verification (currently absent from this pack)
-- Assessment of whether modern first-line therapy (TMP-SMX) supersedes the clinical rationale for this repurposing candidate
+- Direct evidence of sulfadiazine activity against *Pneumocystis* (in vitro or animal models, or clinical data)
+- A comparison with trimethoprim-sulfamethoxazole to show a clinical niche, such as cotrimoxazole intolerance
+- Detailed mechanism of action data
+- Package insert warnings and contraindications for the systemic (oral) product, which are currently missing and block safety screening
+- A safety monitoring plan for haematologic, renal and hypersensitivity risks
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

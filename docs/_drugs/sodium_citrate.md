@@ -2,7 +2,7 @@
 layout: default
 title: Sodium Citrate
 parent: Model Prediction Only (L5)
-nav_order: 771
+nav_order: 778
 evidence_level: L5
 indication_count: 9
 ---
@@ -29,11 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Sodium Citrate: From Undocumented Original Indication to Papillary Conjunctivitis
+# Sodium Citrate: From Peptic Ulcer Disease and Reflux to Papillary Conjunctivitis
 
 ## One-Sentence Summary
 
-Sodium citrate (DrugBank DB09154) has no recorded original indication or mechanism-of-action data in this evidence pack, and it is not currently marketed in this jurisdiction. The TxGNN model's top-ranked prediction is **Papillary Conjunctivitis**, but this prediction is supported by **0 clinical trials** and **0 publications** — it is a pure model score with no mechanistic hypothesis behind it.
+Sodium citrate is a buffering (antacid) agent, originally associated with acid-related upper gastrointestinal and upper respiratory conditions such as peptic ulcer disease, gastroesophageal reflux disease, dyspepsia and the common cold.
+The TxGNN model predicts it may be effective for **papillary conjunctivitis**, but there are **no clinical trials and no publications** supporting this prediction, so it rests on model output alone.
 
 ---
 
@@ -41,23 +42,23 @@ Sodium citrate (DrugBank DB09154) has no recorded original indication or mechani
 
 | Item | Content |
 |------|------|
-| Original Indication | No original indication data available (drug not marketed; regulatory records absent) |
+| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, esophagitis, dyspepsia, pharyngitis, common cold, rhinitis, nasopharyngitis (from the knowledge graph; the Indian product labels list no approved indication text) |
 | Predicted New Indication | Papillary conjunctivitis |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L5 |
-| Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for sodium citrate, and no original approved indication is recorded in this evidence pack. Based on other entries in this evidence pack, sodium citrate is known clinically as an oral alkalinizing agent — it is used to raise intragastric pH (e.g., pre-anesthesia prophylaxis against aspiration pneumonitis) — which gives some general pharmacological context, though this is not tied to any regulatory-approved indication captured here.
+Currently, detailed mechanism of action data is not available. Based on known information, sodium citrate is a buffering agent and antacid. Its use in acid-related gastrointestinal conditions is biologically consistent, and its listed upper respiratory indications may relate to the predicted indication through related tissue and disease categories.
 
-For the top-ranked prediction, **papillary conjunctivitis**, the evidence pack explicitly states there is no mechanistic hypothesis, no clinical trial, and no literature connecting sodium citrate to this condition — it is a model score alone (TxGNN rank 1381, score 99.95%). This should be treated as a purely exploratory signal, not a grounded repurposing hypothesis.
+The link to papillary conjunctivitis is speculative. One plausible but unsupported idea is a buffering or mild antiallergic effect on the ocular surface. The high score most likely reflects graph proximity to other conjunctivitis and upper respiratory disease nodes in the knowledge graph, not demonstrated clinical benefit.
 
-By contrast, a lower-ranked prediction in the same pack — "stomach disease" (rank 4, TxGNN score 99.89%) — has somewhat more supporting context: in vitro studies show sodium citrate combined with 3-bromopyruvate induces apoptosis in gastric cancer cell lines via glycolysis inhibition, and one case report describes sodium citrate–associated gastric/esophageal mucosal injury. Neither constitutes direct clinical evidence of therapeutic benefit, but it illustrates that not all predictions in this pack carry equal evidentiary weight — the top-ranked candidate (papillary conjunctivitis) is the weakest of them.
+Other predictions for this drug show the same pattern. These include nasal cavity disease, acute laryngopharyngitis, stomach disease, postgastrectomy syndrome, gastroduodenitis, familial visceral myopathy, rosacea conjunctivitis and allergic urticaria. Only stomach disease and gastroduodenitis have any retrieved literature, and that literature is indirect. For example, the stomach disease results are mostly preclinical gastric cancer studies that combine sodium citrate with 3-bromopyruvate.
 
 ---
 
@@ -73,21 +74,24 @@ Currently no related literature available.
 
 ---
 
-## Market Information
+## India Market Information
 
-No registration records available — sodium citrate is not currently marketed in this jurisdiction (0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 201195 | Serocit 46.7% Injection | Vial of 1 injection | Not stated |
+| 36112 | Cool Syrup | Bottle of 200 ml syrup | Not stated |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**: A total of **114 known interactions** are on record (sample of 20 provided). Notable entries include:
+- **Drug Interactions**: 114 interactions were identified in total. The main ones are:
+  - **Major**: Aluminum hydroxide.
+  - **Moderate**: Doxycycline, minocycline, tetracycline, levofloxacin, acetylsalicylic acid, iron, rosuvastatin, acalabrutinib, ephedrine and pseudoephedrine.
+  - **Minor**: Sulfonylureas (acetohexamide, chlorpropamide, glipizide, glyburide, tolazamide, tolbutamide), lactulose and misoprostol.
+- **Disease-level cautions from the knowledge graph** (these are not label text): hypertension, pancreatitis, adrenal insufficiency (including Addison disease), benign prostatic hyperplasia, anuria, impaired renal function, rhabdomyolysis, hypercalcemia, nephrocalcinosis, coronary artery disease and myocardial infarction, metabolic acidosis, and angle-closure glaucoma or ocular hypertension.
 
-- **Major**: Aluminum hydroxide
-- **Moderate**: Doxycycline, Acetylsalicylic acid, Iron, Ephedrine (oral/nasal), Levofloxacin, Minocycline, Rosuvastatin, Tetracycline, Acalabrutinib, Pseudoephedrine
-- **Minor**: Acetohexamide, Chlorpropamide, Glipizide, Glyburide, Lactulose, Misoprostol, Tolazamide, Tolbutamide
-
-Key warnings and contraindication data are not available in this evidence pack — please refer to the package insert for that information.
+Please refer to the package insert for label warnings and contraindications.
 
 ---
 
@@ -96,14 +100,15 @@ Key warnings and contraindication data are not available in this evidence pack �
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (papillary conjunctivitis) has zero supporting clinical trials or literature — it is a TxGNN model score with no mechanistic hypothesis (L5, S0). Even the pack's better-supported candidate (stomach disease) only reaches preclinical/case-report-level evidence (L4), insufficient to justify moving past a research question stage.
+The prediction is supported only by a graph-based score. No trials or publications were found, and there is no mechanism of action data. Both marketed Indian products are for non-ocular use (an injection and an oral syrup), and the available route compatibility has not been assessed.
 
 **To proceed, the following is needed:**
-- Original approved indication and regulatory history for sodium citrate
-- Mechanism of action (MOA) data (currently flagged as a Blocking data gap)
-- TFDA-equivalent package insert warnings/contraindications (currently a Blocking data gap)
-- If pursuing papillary conjunctivitis: a documented mechanistic rationale before any trial design is considered
-- If pursuing stomach disease instead: prospective clinical evidence beyond the existing in vitro/case-report literature
+- Mechanism of action data for sodium citrate.
+- Package insert warnings and contraindications for the two Indian products.
+- A targeted literature search on citrate buffers or citrate-containing preparations in ocular surface disease and allergic conjunctivitis.
+- An assessment of whether a suitable ophthalmic formulation and route exist.
+- Preclinical or early clinical data showing a benefit in papillary conjunctivitis.
+- A review of whether another predicted indication with indirect gastrointestinal support, such as gastroduodenitis, would be a better candidate.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

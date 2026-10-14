@@ -2,7 +2,7 @@
 layout: default
 title: Ibuprofen
 parent: Model Prediction Only (L5)
-nav_order: 414
+nav_order: 418
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,61 +29,92 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Ibuprofen: From Pain/Inflammation to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Ibuprofen: From Rheumatoid Arthritis and Osteoarthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-Ibuprofen is a widely used NSAID; detailed original-indication and mechanism-of-action data were not available in this evidence pack. The TxGNN model's top prediction is **Acromesomelic Dysplasia, Hunter-Thompson Type**, an ultra-rare genetic skeletal disorder, but this is currently supported by **0 clinical trials** and **0 publications** — the prediction rests entirely on knowledge-graph statistics.
+Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) originally used for rheumatoid arthritis, osteoarthritis, headache, juvenile idiopathic arthritis and patent ductus arteriosus.
+The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction is based on the model alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in source data (Ibuprofen is a well-known NSAID generally indicated for pain, fever, and inflammation) |
+| Original Indication | Rheumatoid arthritis, osteoarthritis, headache disorder, juvenile idiopathic arthritis, patent ductus arteriosus (the approved-indication text in the India licences is empty, so this list comes from the knowledge graph) |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 99.74% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Taiwan Market Status | Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data for Ibuprofen is not available in this evidence pack (`original_moa: [Data Gap]`), and no original indications were recorded. Based on general pharmacological knowledge, Ibuprofen is a propionic-acid-derivative NSAID that inhibits COX-1/COX-2, reducing prostaglandin synthesis to relieve pain, fever, and inflammation.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Ibuprofen is generally known as a non-selective cyclooxygenase (COX) inhibitor with anti-inflammatory and analgesic effects, and it is established in arthritis and musculoskeletal pain.
 
-Acromesomelic Dysplasia, Hunter-Thompson Type is caused by mutations in the GDF5/CDMP1 gene affecting cartilage morphogenesis signaling — it is a structural/developmental disorder, not a primary inflammatory disease. The only plausible mechanistic bridge is symptomatic: NSAIDs could theoretically relieve secondary joint pain or early-onset osteoarthritis that may accompany this and related skeletal dysplasias, but this would not modify the underlying disease process.
+Acromesomelic dysplasia, Hunter-Thompson type, is a rare skeletal dysplasia caused by loss-of-function variants in the CDMP1/GDF5 gene, which disrupt cartilage and bone development. COX inhibition has no plausible way to correct this developmental defect. The prediction most likely reflects the model's network proximity to musculoskeletal and arthropathy indications rather than a biological rationale. At best, ibuprofen might relieve joint pain symptomatically, which is not a disease-modifying effect.
 
-Notably, all seven TxGNN-predicted indications in this evidence pack are rare skeletal/developmental syndromes (brachyolmia variants, pseudoachondroplasia, brachydactyly-syndactyly syndrome, myosclerosis, colobomatous microphthalmia-rhizomelic dysplasia syndrome) clustered at similarly high scores (99.6–99.7%) with identical L5/Hold status and zero trials or literature for any of them. This pattern suggests the model is picking up a broad embedding-space association between NSAIDs and skeletal-disease nodes rather than a disease-specific signal, and none of the seven should be treated as differentiated leads without further mechanistic or clinical evidence.
+Other top-ranked predictions show the same pattern (all L5, all Hold): brachyolmia-amelogenesis imperfecta syndrome, myosclerosis, brachyolmia, brachydactyly-syndactyly syndrome, pseudoachondroplasia, and colobomatous microphthalmia-rhizomelic dysplasia syndrome. Of these, pseudoachondroplasia (secondary joint pain) and myosclerosis (musculoskeletal pain) have only a speculative symptomatic rationale.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 108439 | Ibufen Tablet | Strip of 10 tablets | Not stated |
+| 112546 | Ibugrap 400mg Tablet | Strip of 10 tablets | Not stated |
+| 160600 | Nilflam Suspension | Bottle of 60 ml suspension | Not stated |
+| 108868 | Ibuset Syrup | Bottle of 60 ml syrup | Not stated |
+| 41347 | Corflam Gel | Tube of 15 gm gel (topical) | Not stated |
+
+All 20 registrations are valid single-ingredient licences. Dosage forms include oral tablets, suspensions, syrups and a topical gel.
+
+---
+
 ## Safety Considerations
 
-- **Drug Interactions**: DDI database records 687 total interactions for Ibuprofen. Representative interactions from this evidence pack:
-  - **Major**: Acetylsalicylic acid (Aspirin)
-  - **Moderate**: Acetohexamide, Aprepitant, Balsalazide, Betamethasone, Budesonide, Chlorpropamide, Dexamethasone, Dexfenfluramine, Exenatide, Fenfluramine, Glimepiride, Glipizide, Glyburide, Hydrocortisone, Kanamycin, Levofloxacin
-  - **Minor**: Famotidine, Ranitidine, Cimetidine
+**Contraindication-related conditions (from the knowledge graph, not label text):**
+Hypertension, liver failure and liver disease, kidney disease, peptic ulcer disease, inflammatory bowel disease, thrombocytopenia, blood coagulation disease, stroke and cerebrovascular disorders, myocardial infarction, diabetes mellitus and diabetic ketoacidosis, epilepsy, COPD, systemic lupus erythematosus, hypothyroidism, gallbladder disease, potassium deficiency, benign prostatic hyperplasia, hypotensive disorder, and substance abuse/dependence.
 
-Detailed prescribing warnings and contraindications are not yet available in this evidence pack; please refer to the package insert for full safety information.
+**Drug Interactions:** 687 interactions were recorded. Main examples:
+- **Major:** Acetylsalicylic acid
+- **Moderate:** Corticosteroids (betamethasone, budesonide, dexamethasone, hydrocortisone), sulfonylureas (acetohexamide, chlorpropamide, glimepiride, glipizide, glyburide), exenatide, aprepitant, balsalazide, fenfluramine and dexfenfluramine, kanamycin, levofloxacin
+- **Minor:** Famotidine, ranitidine, cimetidine
+
+Please refer to the package insert for label-based warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All seven candidate indications, including the top-ranked Acromesomelic Dysplasia, Hunter-Thompson Type, are L5 (model-prediction-only) with zero supporting trials or literature and a weak-to-absent mechanistic rationale. Combined with a blocking data gap on TFDA label warnings/contraindications and the drug's unmarketed status in Taiwan (0 registrations), this candidate cannot proceed to safety evaluation.
+The prediction is supported only by a model score (99.74%), with no clinical trials or publications. There is no plausible mechanism linking COX inhibition to correction of a GDF5-related developmental skeletal defect. Ibuprofen's safety profile is also considerable for a chronic use in a rare paediatric-onset condition.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — currently a blocking data gap (DG001)
-- Confirmed DrugBank mechanism-of-action data (DG002)
-- Preclinical or case-level evidence directly linking Ibuprofen to any of the seven predicted rare skeletal disorders
-- Clarification of Taiwan market/import status given the drug is currently not marketed
+- Mechanism of action data for ibuprofen, to allow mechanistic-link analysis
+- Package insert warnings and contraindications from the India licences, which are required before safety screening
+- Any preclinical or clinical evidence for ibuprofen in GDF5/CDMP1-related skeletal dysplasia
+- Route and dosage-form compatibility assessment for the proposed use
+- If the aim is symptomatic pain relief, a focused review of ibuprofen in secondary joint pain in skeletal dysplasias (such as pseudoachondroplasia) may be more productive than this top-ranked candidate
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

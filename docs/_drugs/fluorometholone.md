@@ -2,7 +2,7 @@
 layout: default
 title: Fluorometholone
 parent: Model Prediction Only (L5)
-nav_order: 362
+nav_order: 365
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,84 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fluorometholone: From Inflammatory Conjunctivitis to Postinfectious Vasculitis
+# Fluorometholone: From Uveitis and Ocular Surface Inflammation to Postinfectious Vasculitis
 
 ## One-Sentence Summary
 
-Fluorometholone is a topical ophthalmic corticosteroid established for treating inflammatory conjunctivitis. The TxGNN model predicts it may be effective for **Postinfectious Vasculitis**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model-generated signal with no corroborating evidence.
-
----
+Fluorometholone is a topical ophthalmic corticosteroid, originally used for uveitis, iritis, iridocyclitis, allergic and vernal conjunctivitis, and corneal ulcer.
+The TxGNN model predicts it may be effective for **postinfectious vasculitis**,
+but **no clinical trials and no publications** currently support this prediction, so it is a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Inflammatory conjunctivitis (per DrugBank pharmacology data; formal Taiwan-approved indication text not yet retrieved) |
-| Predicted New Indication | Postinfectious Vasculitis |
+| Original Indication | Uveitis and related ocular inflammatory conditions (iritis, iridocyclitis, atopic/vernal conjunctivitis, corneal ulcer) |
+| Predicted New Indication | Postinfectious vasculitis |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed official mechanism-of-action (MOA) data has not yet been retrieved from TFDA (data gap DG002). Based on available DrugBank pharmacology annotations, fluorometholone is a synthetic fluorinated corticosteroid that acts as a **glucocorticoid receptor (NR3C1) agonist**, and its established clinical use is topical anti-inflammatory treatment of inflammatory conjunctivitis.
+Currently, detailed mechanism of action data is not available. Based on known information, fluorometholone is a synthetic glucocorticoid that acts on the glucocorticoid receptor (NR3C1). Its efficacy in ocular inflammation is established, and mechanistically it may be applicable to immune-mediated inflammation elsewhere.
 
-Postinfectious vasculitis, however, is a systemic inflammatory blood-vessel disease that typically requires systemic immunomodulatory treatment. Fluorometholone is formulated and used exclusively as a topical ophthalmic drug with very low systemic absorption. This creates a categorical mismatch between the drug's actual delivery route/exposure profile and the systemic reach a vasculitis indication would require.
+In theory, a glucocorticoid could suppress immune-mediated vasculitis. However, fluorometholone is formulated as a topical eye drop with minimal systemic exposure, so it is unlikely to reach concentrations relevant to a systemic vascular disease. The high graph score therefore reflects a computational association rather than a demonstrated clinical rationale.
 
-Given this mismatch, the mechanistic plausibility of this specific prediction is weak. The high TxGNN score (99.91%) reflects a strong pattern-based signal from the knowledge graph, but it is not corroborated by any clinical trial or published literature — this is why the evidence level is rated L5 (model prediction only). Notably, within this same candidate set, rank #2 ("post-bacterial disorder") has a materially stronger evidentiary basis, including an active Phase 2 trial testing fluorometholone directly (see Conclusion).
-
----
+**Other predictions of note.** The other nine predictions have no clinical trial support either. Three are close to the existing ocular indications and are better framed as research questions:
+- **Glaucomatocyclitic crisis** (score 99.82%): a recurrent anterior uveitis-like condition with raised intraocular pressure, where fluorometholone's lower IOP risk is relevant.
+- **Lens-induced iridocyclitis** (score 99.82%): anterior segment inflammation that arguably falls within the existing indication class.
+- **Punctate epithelial keratoconjunctivitis** (score 98.89%): the only prediction with any retrieved literature. It is the only one rated L4, but the two papers are indirect.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+No literature is available for postinfectious vasculitis. The only literature retrieved across the predictions relates to punctate epithelial keratoconjunctivitis (rank 6), and it is indirect:
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [34011737](https://pubmed.ncbi.nlm.nih.gov/34011737/) | 2021 | Review | Indian Journal of Ophthalmology | Characterises the sequelae of microsporidial keratoconjunctivitis and outlines its management |
+| [35128186](https://pubmed.ncbi.nlm.nih.gov/35128186/) | 2021 | Cohort | Journal of Current Ophthalmology | Uses anterior segment OCT to describe the phases of epidemic keratoconjunctivitis and the effect of topical steroid on its course |
 
-## Taiwan Market Information
+Neither paper appears to test fluorometholone specifically.
 
-Fluorometholone is currently not approved/marketed in Taiwan (0 registrations on file); no license records are available to summarize.
+## India Market Information
 
----
+Twenty single-ingredient registrations are valid, and none are cancelled. All are ophthalmic eye drops or suspensions (5 ml packs). The data compiled for this report do not include approved indication text. Main authorizations:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 84104 | FML Liquifilm (Allergan India) | Ophthalmic suspension, 5 ml | Not listed |
+| 84883 | Flosoft Eye Drop (Cipla) | Eye drop, 5 ml bottle | Not listed |
+| 87649 | Flosef Eye Drop (Sun Pharmaceutical) | Eye drop, 5 ml | Not listed |
+| 88223 | Flumace Eye Drop (Micro Labs) | Eye drop, 5 ml | Not listed |
+| 151524 | New Biflace Eye Drop (Alembic) | Eye drop, 5 ml bottle | Not listed |
 
 ## Safety Considerations
 
-- **Drug Interactions**: DDInter flags 11 potential interacting drugs (Doxycycline, Salbutamol, Cyclosporine, Acetaminophen, Digoxin, Brimonidine, Cephalexin, Alendronic acid, Acyclovir, Diazepam, Fenofibrate). All are recorded with **severity level "Unknown"** — the interaction is flagged in the database but not yet mechanistically or clinically characterized, so each would need individual review before co-administration decisions are made.
+- **Disease-level cautions (from the knowledge graph, not label text)**: Fluorometholone is flagged against several conditions, notably eye infections (herpes simplex keratitis, fungal and viral eye infections, ocular tuberculosis), open-angle glaucoma and ocular hypertension, diabetes mellitus and diabetic ketoacidosis, and porphyria. This matters for the infectious keratoconjunctivitis prediction, since corticosteroids can worsen infectious keratitis.
+- **Drug Interactions**: Twelve interaction records were found. Eleven are listed without a severity level: doxycycline, salbutamol, cyclosporine, acetaminophen, digoxin, brimonidine, cephalexin, alendronic acid, acyclovir, diazepam and fenofibrate. The twelfth is the pharmacological target record, the glucocorticoid receptor.
 
-Please refer to the package insert for other safety information (key warnings and contraindications data are not yet available — TFDA label retrieval is a blocking data gap, DG001).
-
----
+Please refer to the package insert for formal warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The postinfectious vasculitis prediction has no clinical trial or literature support (L5, model-only), and the proposed systemic indication is mechanistically inconsistent with fluorometholone's topical, low-systemic-absorption profile. The drug is also not currently marketed in Taiwan, and TFDA safety labeling data needed for a Stage 1 safety review is still missing (DG001, blocking).
+The prediction for postinfectious vasculitis rests only on a model score. There are no trials or publications, and a topical eye drop has little systemic exposure. The ocular-adjacent predictions (glaucomatocyclitic crisis, lens-induced iridocyclitis, punctate epithelial keratoconjunctivitis) are more credible but also lack direct evidence.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — currently a blocking data gap
-- Confirmed official MOA documentation (DrugBank query pending, DG002)
-- Preclinical or mechanistic data establishing a plausible systemic exposure pathway relevant to vasculitis
-- Consider redirecting evaluation effort toward **"post-bacterial disorder"** (rank #2 in this same candidate set), which has a materially stronger evidence base — one completed Phase NA trial (n=154) and one enrolling Phase 2 trial (NCT07308938, n=174) directly testing topical fluorometholone as adjunct anti-inflammatory therapy for bacterial corneal ulcers/post-surgical inflammation, rated evidence level L2.
+- Package insert warnings and contraindications for the Indian products
+- Detailed mechanism of action data
+- Direct clinical or literature evidence for fluorometholone in the predicted condition
+- A route and formulation assessment, because the topical ophthalmic form may not suit a systemic vascular disease
+- Consideration of prioritising the ocular-adjacent predictions as research questions, with intraocular pressure monitoring and infection screening
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

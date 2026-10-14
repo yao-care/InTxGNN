@@ -2,7 +2,7 @@
 layout: default
 title: Febuxostat
 parent: Moderate Evidence (L3-L4)
-nav_order: 337
+nav_order: 340
 evidence_level: L4
 indication_count: 3
 ---
@@ -33,77 +33,82 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Febuxostat is a non-purine selective xanthine oxidase inhibitor (XOI) internationally used to lower serum uric acid in hyperuricemia and gout. The TxGNN model predicts a possible new role in **Renal Hypouricemia** — not as a treatment for the low uric acid itself, but as a candidate for preventing exercise-induced acute kidney injury (EIAKI) in these patients. Evidence is currently limited: **1 clinical trial** (relevance unconfirmed) and **2 review-level publications** support this direction, with no completed RCTs.
-
----
+Febuxostat is a xanthine oxidase inhibitor originally used to treat hyperuricemia (gout-related high uric acid).
+The TxGNN model predicts it may be relevant for **renal hypouricemia**, but only **1 clinical trial** (with an unconfirmed link to this condition) and **2 publications** are available, so the support is weak.
+The prediction appears to reflect proximity to urate metabolism in the knowledge graph rather than a true therapeutic rationale.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file in this evidence pack — no India license records exist (drug is not marketed). Internationally, Febuxostat is approved as a xanthine oxidase inhibitor for hyperuricemia/gout. |
-| Predicted New Indication | Renal Hypouricemia |
+| Original Indication | Hyperuricemia (the approved-indication text is blank in the India licence records; the indication comes from the knowledge graph) |
+| Predicted New Indication | Renal hypouricemia |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L4 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data is not available in the evidence pack. Based on known pharmacology referenced in the repurposing rationale, Febuxostat is a non-purine selective xanthine oxidase inhibitor (XOI) whose established efficacy is in lowering uric acid production for hyperuricemia and gout.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Febuxostat is known to be a non-purine, selective xanthine oxidase inhibitor that lowers serum uric acid. Its efficacy in hyperuricemia is established, but this does not make it a sensible treatment for the predicted condition.
 
-Renal hypouricemia (RHUC) is, mechanistically, the opposite clinical picture — patients carry defects in urate transporters (e.g., URAT1) that cause abnormally *low* serum uric acid. The connection to Febuxostat is not through uric-acid lowering, but through a secondary consequence of RHUC: patients are prone to exercise-induced acute kidney injury (EIAKI), a phenomenon thought to involve a post-exercise surge in xanthine oxidase activity and associated reactive oxygen species generation. By inhibiting xanthine oxidase, Febuxostat may blunt this oxidative pathway and protect renal function during strenuous exercise.
+Renal hypouricemia is a condition in which serum uric acid is already low because the kidney reabsorbs urate poorly (for example, loss of function in URAT1 or GLUT9). Lowering uric acid further has no clear therapeutic rationale and could be harmful. The very high TxGNN score most likely reflects the drug's closeness to urate metabolism in the knowledge graph, not a true therapeutic link.
 
-This is therefore a "enzyme-inhibition protection" hypothesis rather than a direct extension of the uric-acid-lowering indication — mechanistically plausible given Febuxostat's known XOI activity, but still at the case-report/mechanistic-reasoning stage rather than a validated indication.
+The only possible rationale is indirect. Xanthine oxidase inhibition has been proposed to help prevent exercise-induced acute kidney injury, a complication of renal hypouricemia. A 2023 case report describes this idea in a young athlete with familial renal hypouricemia. This remains hypothesis-level.
 
----
+Two other predictions were also generated: partial HPRT deficiency (Kelley-Seegmiller syndrome) and Lesch-Nyhan syndrome. In both, urate overproduction makes febuxostat plausible for symptom control only (gout and urate nephropathy). It would not address the neurological features. Xanthine accumulation (risk of xanthine nephropathy or stones) is a concern, and evidence is limited to case reports. These are better framed as research questions than as the lead indication.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04398251](https://clinicaltrials.gov/study/NCT04398251) | Phase 4 | Unknown | 100 | Prospective controlled study (Dept. of Urology, Shanghai Xu-hui Central Hospital) exploring effects of uric acid control on stone recurrence and renal function in hyperuricemic patients with calculi; relevance to Febuxostat in renal hypouricemia/EIAKI is unconfirmed — trial title does not clarify intervention design and requires manual verification. |
-
----
+| [NCT04398251](https://clinicaltrials.gov/study/NCT04398251) | Phase 4 | Unknown | 100 | Prospective controlled study of how uric acid control affects stone recurrence and renal function in patients with calculi and hyperuricemia. Its link to renal hypouricemia could not be confirmed, so it is likely unrelated. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [36754409](https://pubmed.ncbi.nlm.nih.gov/36754409/) | 2023 | Review | Internal Medicine (Tokyo) | Case of a 16-year-old athlete with familial renal hypouricemia (compound heterozygous URAT1 mutations) and recurrent EIAKI; discusses possible use of non-purine selective XOIs, including febuxostat, for EIAKI prevention when hydration prophylaxis fails. |
-| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Review | Clinical Rheumatology | Narrative review of hypouricemia (serum urate < 2 mg/dL), covering etiology and clinical management relevant to rheumatologists. |
-
----
+| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Review | Clinical Rheumatology | Narrative update on hypouricemia (serum urate < 2 mg/dL) for rheumatologists, covering its causes |
+| [36754409](https://pubmed.ncbi.nlm.nih.gov/36754409/) | 2023 | Case report (classified as Review) | Internal Medicine | A 16-year-old footballer with familial renal hypouricemia (URAT1 mutations) and recurrent exercise-induced acute kidney injury; a non-purine xanthine oxidase inhibitor (febuxostat) was considered as prophylaxis when hydration failed |
 
 ## India Market Information
 
-Febuxostat currently has no India registration or marketing authorization on file (0 licenses recorded).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 68591 | Davstat 40 Tablet | Strip of 10 tablets | Not stated |
+| 89620 | Febumat 40mg Tablet | Strip of 10 tablets | Not stated |
+| 78762 | Ebuxo 120mg Tablet | Strip of 10 tablets | Not stated |
+| 84255 | Feboxa 40 Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not stated |
+| 76843 | Endeavours Furic 40mg Tablet (Lupin) | Strip of 10 tablets | Not stated |
 
----
+All 20 registrations are valid single-ingredient oral tablets (40 mg, 80 mg and 120 mg strengths); only five are shown here.
 
 ## Safety Considerations
 
-- **Drug Interactions**: 22 documented interactions on file. Notable **Major**-level interactions include: Mercaptopurine, Azathioprine, Leflunomide, and Teriflunomide (source: DDInter). **Moderate**-level interactions include theophylline-class agents (Theophylline, Aminophylline, Oxtriphylline, Dyphylline), Methotrexate, Naltrexone, and several immunomodulators/antineoplastics (Brentuximab vedotin, Clofarabine, Pegaspargase, Trabectedin, Epirubicin, Interferon beta-1a/1b, Peginterferon beta-1a, Asparaginase E. coli, Tioguanine).
+- **Drug Interactions**: 22 interactions were identified. The major-level ones are:
+  - Mercaptopurine
+  - Azathioprine
+  - Leflunomide
+  - Teriflunomide
 
-Detailed prescribing warnings and contraindications are not yet available (blocking data gap — see below) and must be obtained from the official India/TFDA label before clinical use.
+  Moderate-level interactions include theophylline and related xanthines (dyphylline, aminophylline, oxtriphylline), methotrexate, tioguanine, clofarabine, epirubicin, trabectedin, asparaginase and pegaspargase, brentuximab vedotin, naltrexone, and interferon beta products.
+- **Knowledge-graph contraindication signals** (not label text): stroke and cerebrovascular disorders, cerebral infarction, myocardial infarction, coronary thrombosis, and hemoglobinopathy. These cardiovascular and cerebrovascular signals should be checked against the official label.
 
----
+Please refer to the package insert for key warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence for the renal-hypouricemia/EIAKI-prevention hypothesis rests on two review articles and one clinical trial of unconfirmed relevance — no completed RCTs exist, and the mechanistic link, while plausible, is inferred rather than directly demonstrated (Evidence Level L4, Decision Stage S0). Two related but even lower-evidence candidates (HPRT partial deficiency, Lesch-Nyhan syndrome) were also identified, both also rated Hold, supported only by case reports.
+The mechanistic logic argues against further urate lowering in renal hypouricemia, the only trial found is probably unrelated, and the only supporting literature is a review and a single case report. The high TxGNN score is not backed by real evidence (Evidence Level L4).
 
 **To proceed, the following is needed:**
-- Official India/TFDA label data (key warnings, contraindications) — currently a **Blocking** data gap (DG001)
-- Confirmed mechanism of action documentation from DrugBank — currently a **High**-severity data gap (DG002)
-- Manual verification of NCT04398251's actual relevance to renal hypouricemia/EIAKI (title alone is inconclusive)
-- Prospective or case-series data specifically evaluating Febuxostat for EIAKI prevention in confirmed RHUC patients, rather than extrapolation from single case reports
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- Clarification of whether the actual research question is exercise-induced acute kidney injury prevention in renal hypouricemia, or urate control in HPRT deficiency or Lesch-Nyhan syndrome (the latter two are better framed as research questions)
+- Controlled data on febuxostat use in these conditions, including safety regarding xanthine accumulation and cardiovascular risk
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

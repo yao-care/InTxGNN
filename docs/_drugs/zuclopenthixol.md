@@ -2,7 +2,7 @@
 layout: default
 title: Zuclopenthixol
 parent: Model Prediction Only (L5)
-nav_order: 904
+nav_order: 913
 evidence_level: L5
 indication_count: 9
 ---
@@ -29,76 +29,82 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Zuclopenthixol: From Antipsychotic Use to Retinal Dystrophy with or without Extraocular Anomalies
+# Zuclopenthixol: From Schizophrenia to Retinal Dystrophy
 
 ## One-Sentence Summary
 
-> Zuclopenthixol is described in the evidence pack's own rationale notes as a D1/D2 dopamine receptor antagonist used as an antipsychotic, though no formal original-indication or India licensing record exists for this drug.
-> The TxGNN model predicts it may be effective for **Retinal Dystrophy with or without Extraocular Anomalies**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the model's own mechanistic notes flag the top hits as likely embedding artifacts rather than genuine biological signals.
-
----
+Zuclopenthixol is a thioxanthene antipsychotic, originally used to treat schizophrenia.
+The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**,
+but **no clinical trials and no publications** currently support this prediction, so it is a computational hypothesis only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented — drug holds no market license in India |
-| Predicted New Indication | Retinal Dystrophy with or without Extraocular Anomalies |
+| Original Indication | Schizophrenia (from the knowledge graph; no approved indication text is available in the India licence records) |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (original_moa is unresolved). Based on the information embedded in the repurposing rationale notes, Zuclopenthixol is a D1/D2 dopamine receptor antagonist, consistent with its known clinical use as an antipsychotic. No original indication text was extractable, since the drug is not currently marketed in India and no licenses are on file.
+Detailed mechanism of action data is not available in the curated data compiled for this report. Based on general pharmacological knowledge, zuclopenthixol is a thioxanthene antipsychotic that acts mainly as a dopamine D1/D2 antagonist, with additional 5-HT2A and alpha-1 adrenergic antagonism. Its efficacy in schizophrenia comes from this receptor blockade.
 
-Critically, for the top-ranked candidate (Retinal Dystrophy with or without Extraocular Anomalies), the model's own rationale states there is **no known mechanistic link**: this is a genetic photoreceptor-gene disorder, and dopamine receptor antagonism has no established pathophysiological connection to it. The rationale explicitly flags the high score as a **suspected knowledge-graph embedding artifact** rather than a genuine biological signal.
+For retinal dystrophy, no mechanistic link has been established. These disorders are largely monogenic, structural or degenerative conditions, and there is no known dopaminergic mechanism that receptor antagonism would correct. The high TxGNN score most likely reflects proximity in the knowledge graph rather than a biological rationale. The prediction should be treated as a hypothesis, not as supported evidence.
 
-This pattern repeats across all nine top-ranked candidates in this pack — hydranencephaly, congenital glycosylation disorder, Charcot-Marie-Tooth type 1G, three distinct myopia subtypes, polymicrogyria, and glycine encephalopathy. Several are developmental or genetic disorders with no plausible connection to dopamine antagonism; the myopia-related candidates are even noted as potentially **directionally implausible**, since retinal dopamine signaling is thought to *inhibit* axial elongation, meaning a D2 antagonist could theoretically worsen rather than improve the condition. None of the nine candidates have any supporting clinical trial or literature evidence, and all are scored L5 with a "Hold" recommendation by the scoring engine itself.
+Other predicted indications show the same pattern. All eight further predictions (scores 99.98–99.99%) also lack trials and literature, and they are L5 with a Hold recommendation:
 
----
+| Rank | Predicted Disease | Mechanistic Assessment |
+|------|------|------|
+| 2 | Hydranencephaly | No plausible link; receptor antagonism cannot restore absent brain tissue |
+| 3 | Congenital disorder of glycosylation with defective fucosylation | No action on glycosylation pathways |
+| 4 | Charcot-Marie-Tooth disease, demyelinating, type 1G | No link; antipsychotic neurological adverse effects argue for caution |
+| 5 | Myopia, X-linked | Dopamine antagonism would be expected to act in the unfavourable direction |
+| 6 | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | Developmental malformation; no link |
+| 7 | Syndromic myopia | Weak and unfavourable link via retinal dopamine |
+| 8 | Myopia 26, X-linked, female-limited | Same unfavourable direction as other myopia entries |
+| 9 | Atypical glycine encephalopathy | No clear link; seizure-threshold lowering is a concern |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-Zuclopenthixol currently holds no marketing authorization in India (0 registrations on file). No product name, dosage form, or approved indication information is available for this market.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 44808 | Clopixol 50mg Injection | Vial of 1 ml injection | Not stated in the records |
+| 40031 | Clopixol 100mg Injection | Vial of 2 ml injection | Not stated in the records |
+| 37606 | Clopixol-Acuphase Injection | Vial of 1 ml injection | Not stated in the records |
 
----
+All three licences are valid single-ingredient injectable products from Lundbeck India Pvt Ltd.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
----
+Note: no drug-interaction records were found in the data compiled for this report, and no knowledge-graph contraindications were listed. This should not be read as evidence of safety. Some predicted indications also raise specific concerns. Antipsychotics can cause extrapyramidal symptoms and can lower the seizure threshold, which matters for neuropathy and for encephalopathy with seizures.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top predicted indication has zero supporting clinical trials or literature (Evidence Level L5), and the model's own repurposing rationale identifies it as a likely knowledge-graph artifact with no plausible mechanistic basis. This assessment is consistent across all nine top-ranked candidates in the pack, several of which are further disqualified by directional implausibility or population-specific safety concerns (e.g., antipsychotic use in pregnancy-related developmental disorders). Combined with the absence of India market presence and unresolved safety/MOA data gaps, there is no basis to advance this candidate.
+The prediction rests on a model score alone (L5). There are no clinical trials or publications, and no plausible mechanism links dopamine and serotonin receptor antagonism to retinal dystrophy. The same holds for the other eight predicted indications, and for the myopia entries the theoretical direction of effect is unfavourable.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): official label warnings and contraindications, required before any S1 safety screening
-- Resolve DG002 (High): confirmed mechanism of action via DrugBank API
-- Independent mechanistic or preclinical validation to rule out KG-embedding artifact before further scoring
-- Re-evaluation against lower-ranked or alternative TxGNN candidates with actual trial/literature support, given the uniform weakness of the current top-9 list
+- Package insert warnings and contraindications for the India products (currently blocking safety screening)
+- Curated mechanism of action data for zuclopenthixol
+- Preclinical or mechanistic studies showing a biological link to retinal dystrophy, such as retinal models or a dopaminergic role in the specific genetic forms
+- A systematic literature and trial search to confirm that no supporting evidence exists
+- Route compatibility assessment (current India products are injectable only), and the intended-use population and risk-benefit review for a chronic genetic eye disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

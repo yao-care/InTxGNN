@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Pefloxacin
-parent: Moderate Evidence (L3-L4)
-nav_order: 644
-evidence_level: L3
+parent: Model Prediction Only (L5)
+nav_order: 650
+evidence_level: L5
 indication_count: 10
 ---
 
 # Pefloxacin
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,70 +29,91 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Pefloxacin: From Bacterial Infections to Heart Valve Disease
-
-> **Note on candidate selection:** The TxGNN pack ranks 10 cardiac-disease candidates for Pefloxacin. The #1-ranked candidate ("heart conduction disease," score 99.90%) has **zero** supporting trials or literature, and the pack's own rationale flags it as likely confounded with Pefloxacin's known QT-prolongation/hERG-blockade risk — a documented adverse effect, not a treatment signal. This report instead features **rank 3 (heart valve disease)**, the only candidate with any directionally consistent supporting evidence (preclinical), and treats rank 1 as a safety caution rather than a lead worth pursuing.
+# Pefloxacin: From Bacterial Infection (Fluoroquinolone Antibacterial) to Heart Conduction Disease
 
 ## One-Sentence Summary
 
-Pefloxacin is a fluoroquinolone-class antibacterial agent (original indication and MOA not documented in this evidence pack — both flagged as data gaps). Among 10 TxGNN-predicted cardiac indications, **Heart Valve Disease** (score 99.89%) is the only one with any supporting evidence — a single 2000 animal-model study on fluoroquinolone efficacy in experimental endocarditis — while the top-scored candidate ("heart conduction disease") is unsupported and likely reflects a known cardiotoxicity signal rather than a genuine therapeutic lead.
+Pefloxacin is a fluoroquinolone antibacterial marketed in India, and the data compiled for this report do not list a specific approved indication.
+The TxGNN model predicts it may be effective for **heart conduction disease**, but **no clinical trials and no publications** support this prediction.
+The prediction is model output only, and known fluoroquinolone safety signals point in the opposite direction.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in source data; Pefloxacin is a fluoroquinolone-class antibacterial used for bacterial infections |
-| Predicted New Indication | Heart Valve Disease (evidence points specifically to infective endocarditis) |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L3 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Original Indication | Not stated in the licence data (fluoroquinolone antibacterial) |
+| Predicted New Indication | Heart conduction disease |
+| TxGNN Prediction Score | 99.90% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 12 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data for Pefloxacin is not available in this evidence pack (DG002). Based on known pharmacology, Pefloxacin is a second-generation fluoroquinolone that acts via inhibition of bacterial DNA gyrase and topoisomerase IV — a mechanism with no established direct relevance to cardiac valve pathology.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Pefloxacin belongs to the fluoroquinolone class, which inhibits bacterial DNA gyrase and topoisomerase IV. This is an antibacterial mechanism with no recognised role in cardiac conduction.
 
-The link to "heart valve disease" is indirect but coherent: the only supporting document (PMID 10671762) evaluated Pefloxacin, alongside other fluoroquinolones, in a rabbit model of **left-sided Pseudomonas aeruginosa endocarditis** — i.e., an infection of the heart valve. Antibacterial treatment of infective endocarditis is an established, mechanistically consistent use case for a bactericidal antibiotic; the model appears to be capturing this real (if narrow) association. However, "heart valve disease" as a KG term covers far more than infective endocarditis (e.g., degenerative or congenital valve disease), and no clinical (human) data exist to confirm Pefloxacin's role even within endocarditis specifically.
+The prediction therefore appears weak. Fluoroquinolones are known to block the hERG potassium channel and can prolong the QT interval, so they may cause or worsen conduction abnormalities rather than treat them. The high score most likely reflects network-based associations in the knowledge graph, not a real therapeutic link.
 
-By contrast, the top-ranked candidate, "heart conduction disease," has no mechanistic rationale, no trials, and no literature — and fluoroquinolones are independently known to block hERG potassium channels, causing QT prolongation and arrhythmia. This is a well-documented **adverse effect**, not a treatment mechanism, so the model's top-ranked signal most likely reflects safety/adverse-event associations embedded in the knowledge graph rather than a therapeutic relationship. It should not be pursued as an indication and is flagged here as a caution rather than a candidate.
+The other top-ranked predictions (all cardiac conditions, scores 99.8% to 99.9%) show the same pattern: heart neoplasm, heart valve disease, congenital ventricular septal anomaly, pericardium disease, heart aneurysm, cor biloculare, carcinoid heart disease, myocardial rupture, and cardiac anomalies-heterotaxy syndrome. Most are structural or congenital conditions that an antibiotic cannot plausibly treat. For heart aneurysm, regulatory safety warnings link fluoroquinolones to a higher risk of aortic aneurysm and dissection, which conflicts with the predicted direction.
+
+Only two of these predictions have any literature, and neither supports a therapeutic use:
+- **Heart valve disease:** a 2000 rabbit study of pefloxacin and other quinolones in experimental *Pseudomonas aeruginosa* endocarditis. It is preclinical and relevant only to infective valve disease (L4).
+- **Pericardium disease:** a 1995 Italian nocardiosis case series, indirect and incidental (L4).
+
+---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04496986](https://clinicaltrials.gov/study/NCT04496986) | N/A | Withdrawn | 0 | Studies post-cardiac-surgery dysphagia mechanisms; unrelated to Pefloxacin or valve-disease treatment (relevance grade C, no enrollment) |
-| [NCT05304416](https://clinicaltrials.gov/study/NCT05304416) | N/A | Active, not recruiting | 347 | Studies risk factors/clinical markers of post-cardiac-surgery dysphagia; unrelated to Pefloxacin or valve-disease treatment (relevance grade C) |
+Currently no related clinical trials registered.
 
-Neither trial actually tests Pefloxacin or valve disease treatment — both were retrieved as keyword matches ("heart valve" surgery context) and provide no supporting evidence.
+---
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [10671762](https://pubmed.ncbi.nlm.nih.gov/10671762/) | 2000 | Preclinical (animal model) | Chemotherapy | In a rabbit model of induced left-sided *Pseudomonas aeruginosa* endocarditis, Pefloxacin (with amikacin, ofloxacin, ciprofloxacin, enoxacin, fleroxacin) given IM as monotherapy for 5 days achieved high survival with no sterile vegetations reported for most agents — the only direction-consistent evidence for this candidate, but animal-only, no human data. |
+Currently no related literature available for the predicted indication (heart conduction disease).
+
+---
 
 ## India Market Information
 
-Pefloxacin is currently **not marketed** in India — 0 registrations on file, no license records available in the source data.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 92289 | Floxaquin P 400mg Tablet (Themis Medicare Ltd) | Strip of 4 tablets | Not stated |
+| Registration No. 180984 | Pef 400mg Tablet (Agron Remedies Pvt Ltd) | Strip of 10 tablets | Not stated |
+| Registration No. 183629 | Qucin 400mg Infusion (Aristo Pharmaceuticals Pvt Ltd) | Bottle of 100 ml infusion | Not stated |
+| Registration No. 181664 | Pefocin 400mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not stated |
+| Registration No. 176041 | Pelox 400mg Tablet (Wockhardt Ltd) | Strip of 10 tablets | Not stated |
+
+Twelve valid single-ingredient registrations are on record in total, covering oral tablets and one intravenous infusion.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. *(Note: TFDA/India label warnings and contraindications are a documented blocking data gap — see Conclusion below. Independently, fluoroquinolones as a class carry known risks of QT prolongation, tendinopathy/tendon rupture, and aortic aneurysm/dissection, which are directly relevant to interpreting several of the other cardiac-disease candidates in this pack as safety signals rather than efficacy signals.)*
+- **Class-level cardiac risks (from known fluoroquinolone safety information, not from the compiled data):** QT prolongation via hERG blockade, and a regulatory warning for aortic aneurysm and dissection.
+- **Tendon toxicity:** fluoroquinolones are associated with tendinopathy and tendon rupture, as illustrated by a 2021 case report with ciprofloxacin.
+
+Please refer to the package insert for further safety information, including contraindications and drug interactions.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only candidate with any supporting evidence (heart valve disease, via a single 2000 animal endocarditis model) provides no human clinical data, and Pefloxacin is not currently marketed in India. Combined with a blocking gap in label safety data and no verified MOA, the evidence base is insufficient to proceed. The higher-scored "heart conduction disease" candidate should be actively deprioritized, as it likely reflects a known cardiotoxicity association rather than a genuine repurposing opportunity; the remaining 8 candidates (ranks 2, 4–10) have no supporting evidence at all (L5, Hold).
+The prediction rests on model output alone (L5), with no trials or supporting literature. The proposed mechanism is biologically implausible, and known fluoroquinolone cardiac safety signals suggest potential harm in cardiac patients.
 
 **To proceed, the following is needed:**
-- TFDA/India label warnings and contraindications (DG001, currently blocking S1 safety review)
-- Verified mechanism of action from DrugBank (DG002)
-- Human clinical evidence for Pefloxacin in infective endocarditis/valve disease — current evidence is a single animal study from 2000
-- Explicit safety review confirming/ruling out QT-prolongation risk before any cardiac-indication work proceeds
-- India market/regulatory pathway assessment, given the drug is not currently registered
+- Package insert warnings and contraindications from the Indian regulator or manufacturer, which are currently missing and block safety screening
+- Mechanism of action data from DrugBank
+- A cardiac safety review (QT prolongation, arrhythmia, aortic aneurysm) before any cardiac indication is considered
+- Any direct clinical or mechanistic evidence for a conduction-disease benefit; otherwise, deprioritise this candidate
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

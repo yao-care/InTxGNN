@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ketamine
-parent: Moderate Evidence (L3-L4)
-nav_order: 457
-evidence_level: L3
+parent: High Evidence (L1-L2)
+nav_order: 461
+evidence_level: L2
 indication_count: 1
 ---
 
 # Ketamine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **1** 
+Evidence Level: **L2** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,37 +29,37 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Ketamine: From Dissociative Anaesthesia to Headache Disorder
+# Ketamine: From Anaesthesia to Headache Disorder
 
 ## One-Sentence Summary
 
-Ketamine is a dissociative anaesthetic and analgesic broadly used for anaesthesia induction, procedural sedation, and acute pain management.
-The TxGNN model predicts it may be effective for **Headache Disorder** (encompassing migraine, tension-type headache, and cluster headache),
-with **at least 9 directly relevant clinical trials** and **4 headache-focused publications** currently supporting this direction.
+Ketamine is an injectable anaesthetic and analgesic agent that is widely marketed in India as a single-ingredient product.
+The TxGNN model predicts it may be effective for **headache disorder**,
+with **9 clinical trials** and **20 publications** currently supporting this direction. Several of the trials are small, and one Phase 3 trial is still recruiting.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Dissociative anaesthesia / acute analgesia (no India regulatory data on file) |
-| Predicted New Indication | Headache Disorder |
+|------|------|
+| Original Indication | Not stated in the data compiled for this report (the licence records contain no approved indication text) |
+| Predicted New Indication | Headache disorder |
 | TxGNN Prediction Score | 99.33% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L2 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacology, ketamine is an NMDA (N-methyl-D-aspartate) receptor antagonist that blocks glutamate-mediated neurotransmission in the central nervous system. By antagonising NMDA receptors, ketamine disrupts **central sensitisation** — a key pathophysiological mechanism underlying chronic and refractory pain states. This mechanism is well-characterised in the broader literature even though the formal MOA field is marked as a data gap in the current evidence package.
+Ketamine is an NMDA receptor antagonist. Currently, detailed mechanism of action data is not available in the data compiled for this report, so the following explanation rests on general pharmacology rather than the supplied record.
 
-The pathophysiology of headache disorders — particularly migraine, chronic daily headache, and cluster headache — critically involves NMDA-mediated glutamate signalling within the **trigeminovascular system**, together with sustained sensitisation of the spinal trigeminal nucleus (trigeminal nucleus caudalis). Intravenous ketamine infusion can interrupt this sensitisation circuit, providing a direct mechanistic rationale for use in refractory headache. Importantly, sub-dissociative (low) doses that preserve consciousness while producing analgesia are already being evaluated in Emergency Department headache protocols, suggesting a clinically tractable dosing window.
+Glutamatergic signalling and central sensitisation contribute to migraine, cluster headache and other chronic headache disorders. Blocking NMDA receptors may dampen cortical spreading depression and trigeminovascular pain transmission. At sub-dissociative doses, ketamine also produces analgesia by modulating descending pain pathways.
 
-The TxGNN knowledge graph model captured this biological overlap and ranked headache disorder at score 99.33%, consistent with a growing body of clinical literature exploring ketamine infusion as a treatment for migraine, tension-type headache, and cluster headache, particularly in refractory or acute-care settings.
+This mechanism is plausible and fits the clinical signals seen in the emergency department and chronic headache trials. The high TxGNN score supports the prediction but is not clinical evidence in itself.
 
 ---
 
@@ -67,16 +67,15 @@ The TxGNN knowledge graph model captured this biological overlap and ranked head
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03221569](https://clinicaltrials.gov/study/NCT03221569) | Phase 4 | Unknown | 60 | RCT: sub-dissociative IV ketamine vs ketorolac for acute generalised tension-type headache in the ED; primary endpoint pain relief by NRS — most directly relevant Grade A evidence |
-| [NCT02657031](https://clinicaltrials.gov/study/NCT02657031) | Phase 4 | Completed | 54 | CHECK Trial: multi-centre double-blind RCT comparing low-dose IV ketamine vs prochlorperazine (Compazine) for headache in the ED |
-| [NCT03081416](https://clinicaltrials.gov/study/NCT03081416) | Phase 3 | Completed | 80 | THINK Trial: single-blind RCT of sub-dissociative intranasal ketamine vs standard care for primary headache syndromes (migraine, tension-type) presenting to the ED |
-| [NCT05306899](https://clinicaltrials.gov/study/NCT05306899) | Phase 3 | Recruiting | 56 | KetHead Study: multicentre placebo-controlled RCT of high-dose IV ketamine (1 mg/kg/h × 6 hours) vs placebo for chronic daily headache; completion expected June 2026 |
-| [NCT04814381](https://clinicaltrials.gov/study/NCT04814381) | Phase 4 | Recruiting | 90 | RCT of single IV ketamine infusion combined with magnesium sulphate for drug-resistant chronic cluster headache; completion expected December 2026 |
-| [NCT04179266](https://clinicaltrials.gov/study/NCT04179266) | Phase 1/2 | Completed | 23 | Proof-of-concept study of intranasal ketamine aqueous spray (100 µL/nostril) for treatment of refractory chronic cluster headache |
-| [NCT06608277](https://clinicaltrials.gov/study/NCT06608277) | Phase 2 | Recruiting | 175 | Multi-centre double-blind RCT comparing IV ketamine, stellate ganglion block, and their combination vs sham for TBI-associated headache and PTSD |
-| [NCT02697071](https://clinicaltrials.gov/study/NCT02697071) | N/A | Completed | 34 | Double-blind placebo-controlled RCT of sub-dissociative IV ketamine for acute migraine-type headache in the ED; assessed pain score reduction and 24-hour recurrence |
-| [NCT04860713](https://clinicaltrials.gov/study/NCT04860713) | Phase 4 | Completed | 5 | Pilot open-label RCT comparing oral ketamine + aspirin vs rimegepant (CGRP antagonist) for acute headache in the ED; very small sample, exploratory grade only |
-| [NCT06428838](https://clinicaltrials.gov/study/NCT06428838) | Phase 3 | Not Yet Recruiting | 102 | Eptinezumab as adjunct to standard care for acute migraine in the ED; no direct ketamine involvement, but provides contemporary comparative benchmark for novel ED headache treatments |
+| [NCT03081416](https://clinicaltrials.gov/study/NCT03081416) | Phase 3 | Completed | 80 | THINK trial: intranasal ketamine vs standard therapy for primary headache in the emergency department; outcome not shown in the registry record |
+| [NCT05306899](https://clinicaltrials.gov/study/NCT05306899) | Phase 3 | Recruiting | 56 | KetHead: placebo-controlled trial of high-dose IV ketamine infusion for chronic daily headache; no results yet |
+| [NCT02657031](https://clinicaltrials.gov/study/NCT02657031) | Phase 4 | Completed | 54 | Low-dose ketamine vs prochlorperazine for headache in the emergency department |
+| [NCT04814381](https://clinicaltrials.gov/study/NCT04814381) | Phase 4 | Completed | 93 | Single ketamine infusion combined with magnesium sulfate for refractory chronic cluster headache |
+| [NCT03221569](https://clinicaltrials.gov/study/NCT03221569) | Phase 4 | Unknown | 60 | Sub-dissociative ketamine vs ketorolac for tension-type headache |
+| [NCT02697071](https://clinicaltrials.gov/study/NCT02697071) | Not applicable | Completed | 34 | Randomised placebo-controlled trial of sub-dissociative ketamine for acute migraine-type headache |
+| [NCT04179266](https://clinicaltrials.gov/study/NCT04179266) | Phase 1/2 | Completed | 23 | Proof-of-concept study of intranasal ketamine spray in chronic cluster headache |
+| [NCT04860713](https://clinicaltrials.gov/study/NCT04860713) | Phase 4 | Completed | 5 | Oral ketamine plus aspirin vs rimegepant in emergency headache; too small to be informative |
+| [NCT02403687](https://clinicaltrials.gov/study/NCT02403687) | Not applicable | Completed | 300 | General analgesic compound study; only indirectly relevant to headache |
 
 ---
 
@@ -84,39 +83,39 @@ The TxGNN knowledge graph model captured this biological overlap and ranked head
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35356451](https://pubmed.ncbi.nlm.nih.gov/35356451/) | 2022 | Retrospective Cohort | Frontiers in Neurology | Retrospective cohort study of combined IV lidocaine and ketamine infusions for inpatient headache disorders; assessed efficacy, duration of response, and safety profile — most directly relevant publication |
-| [34919214](https://pubmed.ncbi.nlm.nih.gov/34919214/) | 2022 | Review | Drugs | Comprehensive review of drug treatment for cluster headache, covering acute (oxygen, sumatriptan) and prophylactic therapies, with discussion of NMDA-targeting adjuvants for refractory cases |
-| [38870050](https://pubmed.ncbi.nlm.nih.gov/38870050/) | 2024 | Review | Expert Review of Neurotherapeutics | Update on pharmacotherapy for trigeminal neuralgia; identifies ketamine alongside CGRP blockers as a promising adjuvant or monotherapy option when first-line anticonvulsants (carbamazepine, oxcarbazepine) are insufficient |
-| [37421541](https://pubmed.ncbi.nlm.nih.gov/37421541/) | 2023 | Review | Current Pain and Headache Reports | Evidence-based review of complex regional pain syndrome covering NMDA-receptor-mediated central sensitisation mechanisms that are mechanistically shared with refractory headache pathophysiology |
-| [36260324](https://pubmed.ncbi.nlm.nih.gov/36260324/) | 2022 | Systematic Review & Meta-analysis | JAMA Psychiatry | Systematic review comparing ketamine vs ECT for major depressive episodes; provides cross-indication safety profiling relevant to broader ketamine use |
-| [35416105](https://pubmed.ncbi.nlm.nih.gov/35416105/) | 2022 | Review | Expert Opinion on Drug Safety | Long-term safety review of racemic ketamine and esketamine across psychiatric indications, including abuse potential, cognitive effects, and urological toxicity — important for risk-benefit evaluation when extending to headache indications |
+| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Guideline | Headache | American Headache Society 2025 update on parenteral drugs for acute migraine in the emergency department |
+| [34703891](https://pubmed.ncbi.nlm.nih.gov/34703891/) | 2021 | Systematic review | J Dent Anesth Pain Med | Efficacy of ketamine in migraine and other primary headache disorders vs placebo and active comparators |
+| [36310189](https://pubmed.ncbi.nlm.nih.gov/36310189/) | 2023 | Systematic review and meta-analysis | J Neurol | Preventive treatments for refractory chronic cluster headache |
+| [35356451](https://pubmed.ncbi.nlm.nih.gov/35356451/) | 2022 | Retrospective cohort | Front Neurol | Efficacy, duration and safety of IV lidocaine and ketamine infusions for inpatient headache treatment |
+| [34919214](https://pubmed.ncbi.nlm.nih.gov/34919214/) | 2022 | Review | Drugs | Drug treatment of cluster headache, including acute and preventive options |
+| [32189074](https://pubmed.ncbi.nlm.nih.gov/32189074/) | 2020 | Review | Curr Neurol Neurosci Rep | Emergency department and inpatient headache management in adults |
+| [32410204](https://pubmed.ncbi.nlm.nih.gov/32410204/) | 2020 | Review | Curr Neurol Neurosci Rep | Emergency department and inpatient headache management in children and adolescents |
+| [38870050](https://pubmed.ncbi.nlm.nih.gov/38870050/) | 2024 | Review | Expert Rev Neurother | Pharmacotherapy for trigeminal neuralgia; ketamine mentioned as a possible adjuvant |
+
+Many other retrieved publications concern ketamine in depression and are not directly relevant to headache.
 
 ---
 
 ## India Market Information
 
-No regulatory authorisations are currently registered in India for Ketamine (DB01221). The India market status is **Not Marketed** with **0** active licences on record. Any development programme targeting this indication would require a new regulatory submission.
+All 20 registrations are valid single-ingredient injectable products. The five main ones are listed below; none of the licence records contains approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 117090 | Ketam 50mg Injection | Vial of 2 ml injection | Not stated |
+| 119150 | Ketanik Injection | Vial of 10 ml injection | Not stated |
+| 116674 | Ketmin 100mg Injection | Vial of 2 ml injection | Not stated |
+| 170405 | Oblar 500mg Injection | Vial of 10 ml injection | Not stated |
+| 118514 | Ketalar 10mg Injection | Vial of 20 ml injection | Not stated |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions** (111 total interactions identified; selected clinically relevant examples shown below):
+- **Disease associations flagged in the knowledge graph** (these come from the TxGNN knowledge graph, not from label text): hypertension and hypertensive disorder, stroke and cerebrovascular disorder, cerebral infarction, myocardial infarction, myocardial ischaemia and coronary artery disease, intracranial hypertension, ocular hypertension, hyperthyroidism and Graves disease, respiratory failure, delirium, substance abuse or dependence, and hemoglobinopathy.
+- **Drug interactions**: 111 interactions were identified. Moderate-level examples include morphine, diphenoxylate, dronabinol, metoclopramide, nabilone, opium, sibutramine, phentermine, ephedrine, fenfluramine, isometheptene and topical epinephrine. Several other pairings, such as atropine, famotidine, omeprazole and ondansetron, have an unclassified severity.
 
-| Interacting Drug | Severity | Clinical Concern |
-|------|------|------|
-| Morphine | Moderate | Additive CNS and respiratory depression; common co-administration in acute pain settings requires monitoring |
-| Morphine (liposomal) | Moderate | Same mechanism as morphine |
-| Opium | Moderate | Additive CNS and respiratory depression |
-| Diphenoxylate | Moderate | Opioid-containing antidiarrhoeal; additive CNS depression risk |
-| Dronabinol | Moderate | Cannabinoid; additive CNS and psychomimetic effects |
-| Nabilone | Moderate | Cannabinoid; additive psychomimetic and sedative effects |
-| Ephedrine | Moderate | Sympathomimetic; risk of haemodynamic instability (hypertension, tachycardia) |
-| Sibutramine | Moderate | Serotonergic component; potential for serotonin-related adverse effects |
-| Phentermine | Moderate | Sympathomimetic; cardiovascular interaction risk |
-| Metoclopramide | Moderate | Increased risk of CNS adverse effects with concurrent administration |
-
-> Formal key warnings and contraindications were not available in this Evidence Pack. Please refer to the package insert and current prescribing information before clinical use.
+Please refer to the package insert for key warnings and contraindications.
 
 ---
 
@@ -125,15 +124,15 @@ No regulatory authorisations are currently registered in India for Ketamine (DB0
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple Phase 3/4 clinical trials directly targeting headache disorders — including the completed THINK Trial (n=80, Phase 3) and CHECK Trial (n=54, Phase 4) alongside the actively recruiting KetHead Phase 3 study — demonstrate that IV and intranasal ketamine is a scientifically credible candidate for headache disorder treatment. The NMDA antagonism mechanism provides a coherent and published biological link to headache pathophysiology. However, Ketamine is not currently marketed in India, critical safety data (package insert warnings and contraindications) is absent from this Evidence Pack, and formal MOA confirmation is still pending.
+Ketamine is already widely marketed in India, and several completed randomised and comparator trials in emergency and chronic headache point in a consistent direction. These trials are small, their outcomes were not available in the data compiled for this report, and the large Phase 3 trial is still recruiting. The cardiovascular and intracranial-pressure flags also call for careful patient selection.
 
 **To proceed, the following is needed:**
-- Retrieve and parse the full prescribing information (package insert PDF) from CDSCO or the originator to complete the safety screening (key warnings, contraindications)
-- Confirm MOA details via DrugBank API query for DB01221
-- Extract and summarise primary efficacy endpoint results from the completed THINK Trial (NCT03081416, n=80) and CHECK Trial (NCT02657031, n=54)
-- Monitor KetHead Study (NCT05306899) Phase 3 results (expected June 2026) — successful completion would upgrade the evidence level to L2 or L1
-- Assess regulatory pathway for India market entry and evaluate whether an import/clinical trial licence application is feasible
-- Define route-of-administration strategy (IV infusion vs intranasal spray) appropriate for the target headache indication and clinical setting
+- Package insert warnings and contraindications, which are currently missing and block the safety screening
+- Confirmed outcome results from the completed Phase 3 THINK trial, and results from the KetHead trial once available
+- Detailed mechanism of action data from an authoritative source
+- Approved indication text for the Indian licences
+- A patient-selection and monitoring plan for people with hypertension, cardiovascular or cerebrovascular disease, raised intracranial pressure, or substance-use history
+- An assessment of dose, route and setting (emergency department vs infusion centre), since no route compatibility analysis has been completed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

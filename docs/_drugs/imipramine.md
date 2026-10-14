@@ -2,7 +2,7 @@
 layout: default
 title: Imipramine
 parent: Moderate Evidence (L3-L4)
-nav_order: 424
+nav_order: 428
 evidence_level: L3
 indication_count: 7
 ---
@@ -29,109 +29,85 @@ Evidence Level: **L3** | Predicted Indications: **7**
 
 </div>
 
-# Imipramine: From Depression to Attention Deficit-Hyperactivity Disorder
+# Imipramine: From Anxiety Disorder to Attention Deficit-Hyperactivity Disorder
 
 ## One-Sentence Summary
 
-Imipramine is a tricyclic antidepressant (TCA) historically used for major depression and nocturnal enuresis, acting primarily by inhibiting norepinephrine and serotonin reuptake in the central nervous system.
-The TxGNN model predicts it may be effective for **Attention Deficit-Hyperactivity Disorder (ADHD)**, with **1 registered trial** and **20 publications** currently supporting this direction.
-The evidence base includes a 2020 meta-review aggregating RCT-level data on antidepressants in pediatric ADHD, alongside multiple historical clinical studies directly examining imipramine in this population.
-
----
+Imipramine is a tricyclic antidepressant, originally used for anxiety disorder, neurotic disorder, dysthymic disorder and nocturnal enuresis.
+The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**, but there are **no registered clinical trials**. The direction is supported by **20 publications**, mostly older reviews and small studies judged from titles and abstracts only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Depression, nocturnal enuresis (historical use; no India registration data available) |
-| Predicted New Indication | Attention Deficit-Hyperactivity Disorder (ADHD) |
+|------|------|
+| Original Indication | Anxiety disorder, neurotic disorder, dysthymic disorder, nocturnal enuresis |
+| Predicted New Indication | Attention deficit-hyperactivity disorder |
 | TxGNN Prediction Score | 99.90% |
 | Evidence Level | L3 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the current evidence pack. Based on clinical literature, imipramine is a tricyclic antidepressant that inhibits the reuptake of norepinephrine (NE) and serotonin (5-HT), increasing their availability at the synapse. This pharmacological profile is mechanistically analogous to atomoxetine — the only non-stimulant medication specifically approved for ADHD — which works primarily through selective NE reuptake inhibition. The TxGNN model's high prediction score (99.90%) most likely reflects this mechanistic overlap encoded in the knowledge graph.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, imipramine inhibits reuptake of norepinephrine and, to a lesser degree, serotonin. Its active metabolite, desipramine, is mainly noradrenergic.
 
-Historically, imipramine has been used as a second- or third-line treatment option for childhood ADHD, particularly when stimulants are contraindicated or not tolerated. PMID 17078784 (2006) explicitly categorises imipramine alongside desipramine as "nonselective norepinephrine reuptake inhibitors" effective in ADHD, while PMID 18304665 (2008) demonstrated both clinical response and quantifiable EEG changes in ADHD children who failed stimulant therapy but responded to imipramine. A 1996 biomarker study (PMID 9465283) further identified prolonged P300 latency as a predictor of poor imipramine response, suggesting a precision-medicine angle.
+Enhancing noradrenergic signalling in prefrontal circuits is a recognized way to control ADHD symptoms. It is shared with atomoxetine and desipramine. The literature includes reviews that list imipramine among non-stimulant options when stimulants fail, and a 1983 report titled "Imipramine for attention deficit disorder."
 
-Important caveats exist: the 2020 meta-review (PMID 32982805) flagged suicidality risk with antidepressants in pediatric populations, which is a key regulatory and clinical concern. In addition, 290 documented drug-drug interactions represent a significant challenge when co-prescribing with common ADHD comorbidity medications.
-
----
+The original indications (anxiety, dysthymia, enuresis) are related to ADHD by shared monoaminergic mechanisms and frequent co-occurrence in children. The supporting evidence is old, and no trial records exist. The claim therefore rests on older literature and should be treated as a research question rather than a proven use.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03220308](https://clinicaltrials.gov/study/NCT03220308) | NA | Completed | 103 | 8-week mindfulness group training for children (8–16 years) with ADHD combined with a parallel mindful parenting program; purely behavioural intervention — no pharmacological arm and no imipramine involvement |
-
-> **Note:** No clinical trials directly evaluating imipramine as a pharmacological treatment for ADHD were identified in the current search. The above trial reflects the full scope of registered trials returned and does not provide drug efficacy evidence.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [32982805](https://pubmed.ncbi.nlm.nih.gov/32982805/) | 2020 | Meta-review | Frontiers in Psychiatry | Aggregates RCT-level data on antidepressants (including imipramine class) in children/adolescents across ADHD, OCD, MDD, and enuresis; flags efficacy alongside suicidality risk signal |
-| [10790990](https://pubmed.ncbi.nlm.nih.gov/10790990/) | 1999 | Systematic Review | Evidence Report/Technology Assessment | Assesses short- and long-term effectiveness of pharmacological and non-pharmacological ADHD interventions in children and adults; includes TCA evidence |
-| [18304665](https://pubmed.ncbi.nlm.nih.gov/18304665/) | 2008 | Clinical Study | International Journal of Psychophysiology | Imipramine produced clinically significant EEG changes in ADHD children who were poor responders to dexamphetamine and ritalin, supporting its role in stimulant-refractory cases |
-| [17078784](https://pubmed.ncbi.nlm.nih.gov/17078784/) | 2006 | Clinical Study | Expert Review of Neurotherapeutics | Proposes P300 topography-guided ADHD treatment selection; classifies imipramine and desipramine as nonselective NE reuptake inhibitors with demonstrated ADHD efficacy |
-| [9465283](https://pubmed.ncbi.nlm.nih.gov/9465283/) | 1996 | Clinical Study | Clinical EEG | In 17 ADHD children trialled on imipramine after stimulant failure, prolonged P300 latency predicted poor treatment response — first biomarker-response correlation for imipramine in ADHD |
-| [15794722](https://pubmed.ncbi.nlm.nih.gov/15794722/) | 2005 | Safety Review | Expert Opinion on Drug Safety | Systematically reviews safety of non-stimulant ADHD agents; positions imipramine and desipramine as options after atomoxetine, with cardiac monitoring requirements highlighted |
-| [2258453](https://pubmed.ncbi.nlm.nih.gov/2258453/) | 1990 | Clinical Study | Journal of Clinical Psychopharmacology | Retrospective study in 36 ADHD children showing carbamazepine co-administration significantly lowered imipramine/desipramine plasma levels — a critical PK drug interaction finding |
-| [2830919](https://pubmed.ncbi.nlm.nih.gov/2830919/) | 1988 | Clinical Study | Biological Psychiatry | Investigated ³H-imipramine platelet binding in ADHD boys before and after methylphenidate treatment; no difference in binding parameters vs controls, and clinical MPH benefit did not alter binding |
-| [14501767](https://pubmed.ncbi.nlm.nih.gov/14501767/) | 2003 | Clinical Review | Journal of Urology | Examined ADHD influence on resolution of urinary incontinence and nocturnal enuresis — directly intersects with imipramine's approved indication for enuresis in the ADHD population |
-| [6849467](https://pubmed.ncbi.nlm.nih.gov/6849467/) | 1983 | Clinical Report | American Journal of Psychiatry | Early clinical report specifically on imipramine use for attention deficit disorder, representing one of the earliest published observations in this indication |
-
----
+|------|-----|------|------|---------|
+| [6849467](https://pubmed.ncbi.nlm.nih.gov/6849467/) | 1983 | Clinical study (design not verifiable) | Am J Psychiatry | Report on imipramine for attention deficit disorder; no abstract available |
+| [18304665](https://pubmed.ncbi.nlm.nih.gov/18304665/) | 2008 | Clinical study | Int J Psychophysiol | Effects of imipramine on EEG in children with ADHD who did not respond to stimulants |
+| [9465283](https://pubmed.ncbi.nlm.nih.gov/9465283/) | 1996 | Clinical study | Clin EEG | In 17 ADHD children who responded poorly to pemoline, prolonged P300 latency predicted poor response to imipramine |
+| [32982805](https://pubmed.ncbi.nlm.nih.gov/32982805/) | 2020 | Meta-review | Front Psychiatry | Efficacy, tolerability and suicidality of antidepressants in children, including ADHD and enuresis |
+| [15794722](https://pubmed.ncbi.nlm.nih.gov/15794722/) | 2005 | Review | Expert Opin Drug Saf | Safety of non-stimulant ADHD agents; tricyclics such as imipramine may be effective when stimulants are not suitable |
+| [31776871](https://pubmed.ncbi.nlm.nih.gov/31776871/) | 2019 | Review | CNS Drugs | Pharmacokinetic drug interactions of ADHD agents |
+| [17078784](https://pubmed.ncbi.nlm.nih.gov/17078784/) | 2006 | Review | Expert Rev Neurother | Imipramine and desipramine named as non-selective norepinephrine reuptake inhibitors; P300 topography for choosing treatment |
+| [10790990](https://pubmed.ncbi.nlm.nih.gov/10790990/) | 1999 | Review | Evid Rep Technol Assess | Effectiveness and safety of drug and non-drug ADHD interventions |
+| [14501767](https://pubmed.ncbi.nlm.nih.gov/14501767/) | 2003 | Clinical study | J Urol | Management of urinary incontinence and nocturnal enuresis in ADHD |
+| [6487858](https://pubmed.ncbi.nlm.nih.gov/6487858/) | 1984 | Clinical study | Br J Clin Psychol | 32 hyperactive children on imipramine or methylphenidate, examined for state-dependent learning |
 
 ## India Market Information
 
-Imipramine (DB00458) currently has **no registered products in India**. No license data is available for this drug.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 110322 | Imipra 25mg Tablet (Cyril Pharmaceuticals) | Strip of 10 tablets | Not stated |
+| 6211 | Antipres 25mg Tablet (Psycormedies) | Strip of 10 tablets | Not stated |
+| 111868 | Impranit 25mg Tablet (Signit Laboratories) | Strip of 10 tablets | Not stated |
+| 58325 | Depsonil 25mg Tablet (Abbott) | Strip of 10 tablets | Not stated |
+| 512 | Antidep 25mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not stated |
 
----
+There are 20 valid single-ingredient oral registrations in total, all as tablets.
 
 ## Safety Considerations
 
-**Drug Interactions:** The evidence pack documents **290 drug-drug interactions** (DDI). Selected clinically significant interactions are listed below:
+- **Contraindications (from knowledge-graph drug-disease links, not label text)**: epilepsy; kidney, liver and gallbladder disease; bipolar and major affective disorder; blood disorders (thrombocytopenia, neutropenia, agranulocytosis); benign prostatic hyperplasia; cardiovascular conditions (coronary artery disease, heart conduction disease, sudden cardiac arrest, stroke and cerebrovascular disorders); ileus and intestinal obstruction; angle-closure glaucoma and ocular hypertension; hyperthyroidism and Graves disease; substance abuse or dependence.
+- **Drug Interactions**: 290 interactions were recorded. Major ones include epinephrine, bupropion, lorcaserin, potassium citrate and dolasetron. Moderate ones include anticholinergics (atropine, hyoscyamine, glycopyrronium, dicyclomine), cimetidine, famotidine, clarithromycin, morphine, loperamide and acetylsalicylic acid.
+- **Paediatric concern**: Cardiac conduction effects and the high interaction burden, including with stimulants and other ADHD agents, are particular concerns in children.
 
-| Severity | Interacting Drug | Clinical Note |
-|---------|---------|--------------|
-| **Major** | Epinephrine | Severe hypertension and cardiac arrhythmia risk; avoid concurrent use |
-| **Major** | Bupropion | Both agents lower seizure threshold; elevated seizure risk with combination |
-| **Major** | Lorcaserin | Serotonin syndrome risk via additive serotonergic activity |
-| **Major** | Dolasetron | Additive QT prolongation; risk of ventricular arrhythmia |
-| **Major** | Potassium citrate | Urinary alkalinisation reduces imipramine renal clearance, raising plasma levels |
-| Moderate | Clarithromycin | CYP3A4 inhibition may elevate imipramine plasma concentrations |
-| Moderate | Cimetidine | CYP inhibition and reduced hepatic clearance increase imipramine exposure |
-| Moderate | Atropine, Hyoscyamine, Dicyclomine, Glycopyrronium | Additive anticholinergic burden (dry mouth, urinary retention, cognitive effects) |
-| Moderate | Morphine | Additive CNS and respiratory depression |
-| Moderate | Famotidine | Anticholinergic potentiation |
-
-> Full warnings and contraindications are not available in the current evidence pack. Please refer to the package insert for complete prescribing information.
-
----
+Please also refer to the package insert, which was not available for this review.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Imipramine's norepinephrine reuptake inhibition mechanism is pharmacologically analogous to the approved ADHD agent atomoxetine, and a body of historical clinical studies — supplemented by a 2020 meta-review aggregating RCT data — documents its use in pediatric ADHD as a second- or third-line option. However, the safety profile (290 DDIs, paediatric suicidality signal, narrow therapeutic index, and QTc concern) demands structured risk management before any expanded use.
+The ADHD prediction has a plausible noradrenergic mechanism and some older literature, but there are no registered trials. The evidence is mostly reviews and small studies judged from titles and abstracts. Cardiac risk and the heavy interaction burden are significant in children, and established stimulant and non-stimulant options exist. The other predicted indications (ADHD inattentive type, faciodigitogenital syndrome, specific developmental disorder, chondromyxoid fibroma, benign paroxysmal torticollis of infancy) have little or no supporting evidence. Obsessive-compulsive disorder has older literature but is better served by clomipramine and SSRIs. These are also not recommended for advancement.
 
 **To proceed, the following is needed:**
-
-- Retrieve full mechanism of action documentation from DrugBank or an authoritative product monograph
-- Obtain complete package insert including contraindications, black-box warnings, and REMS requirements
-- Conduct India-specific regulatory review: determine whether imipramine can be registered or used off-label under CDSCO frameworks
-- Perform a formal comparative efficacy analysis against current ADHD standard of care (methylphenidate, atomoxetine, lisdexamfetamine, clonidine)
-- Develop a paediatric safety monitoring plan covering: suicidality surveillance, baseline and follow-up ECG/QTc monitoring, and weight/growth tracking
-- Create a drug-drug interaction management protocol, particularly for the 5 major-severity interactions and for common ADHD comorbidity polypharmacy scenarios
+- Package insert warnings and contraindications for the India-marketed products
+- Detailed mechanism of action data
+- A systematic review of randomized evidence for imipramine in ADHD, including comparison with atomoxetine and desipramine
+- A cardiac safety assessment (ECG monitoring) and a paediatric dosing and interaction plan
+- Confirmation of whether the ADHD indication is approved in India, since the registered indication text is blank
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

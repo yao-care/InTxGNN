@@ -2,7 +2,7 @@
 layout: default
 title: Favipiravir
 parent: Model Prediction Only (L5)
-nav_order: 336
+nav_order: 339
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,81 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Favipiravir: From Influenza to Infection-Associated Hemophagocytic Syndrome
+# Favipiravir: From Influenza to Acquired Hemophagocytic Lymphohistiocytosis Associated with Malignant Disease
 
 ## One-Sentence Summary
 
-Favipiravir is an RNA-dependent RNA polymerase (RdRp) inhibitor originally developed as an antiviral for novel and re-emerging influenza virus infections. The TxGNN model predicts a possible role in **hemophagocytic syndrome associated with an infection**, but this is currently supported only by **2 review-type publications** and **no clinical trials**, and a blocking data gap in TFDA label safety information prevents full evaluation.
-
----
+Favipiravir is an antiviral originally used to treat influenza.
+The TxGNN model predicts it may be effective for **acquired hemophagocytic lymphohistiocytosis associated with malignant disease**, but **no clinical trials and no publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Influenza (novel/re-emerging influenza virus infection) — not present in current Taiwan regulatory data; based on general drug knowledge |
-| Predicted New Indication | Hemophagocytic syndrome associated with an infection |
+| Original Indication | Influenza |
+| Predicted New Indication | Acquired hemophagocytic lymphohistiocytosis associated with malignant disease |
 | TxGNN Prediction Score | 99.41% |
-| Evidence Level | L4 (mechanism/review-level literature only, no clinical trials) |
-| Taiwan Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for favipiravir is not available in this evidence pack. Based on known information, favipiravir is an RdRp inhibitor with established antiviral activity against RNA viruses, including bunyaviruses such as SFTS virus (SFTSV) and Heartland virus (HRTV).
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, favipiravir is a viral RNA-dependent RNA polymerase inhibitor, and its efficacy in influenza is established.
 
-The mechanistic rationale is indirect rather than direct: SFTSV and HRTV infections are known to trigger secondary (infection-associated) hemophagocytic lymphohistiocytosis (HLH) through virus-driven immune hyperactivation. The proposed pathway is "suppress viral replication → reduce the infectious trigger → reduce secondary immune hyperactivation," not a direct immunomodulatory effect of favipiravir on macrophage/lymphocyte activation. The high TxGNN score (99.41%) most likely reflects a drug–disease co-occurrence pattern in the knowledge graph (antiviral drugs linked to infection-triggered HLH) rather than direct pharmacological evidence.
+The predicted new indication is a different kind of disease. Malignancy-associated hemophagocytic lymphohistiocytosis (HLH) is driven by immune dysregulation and cytokine storm, not by a viral target. No plausible direct mechanistic link is evident, and the high score is a model output only.
 
-It is worth noting that TxGNN generated two additional candidates for favipiravir — "acquired HLH associated with malignant disease" and "fatal infantile cardioencephalomyopathy due to cytochrome c oxidase deficiency" — both scored similarly high but have no supporting literature or trials and no plausible mechanistic link to favipiravir's antiviral activity. These were excluded from further consideration as likely model noise, leaving infection-associated HLH as the only candidate with any supporting rationale.
-
----
+A related prediction is worth noting as a research question. For **hemophagocytic syndrome associated with an infection** (same score, 99.41%), an indirect link is plausible: RNA viruses can trigger HLH, and treating the trigger virus might reduce the downstream hyperinflammation. The two papers retrieved for that prediction concern severe fever with thrombocytopenia syndrome and Heartland virus disease. They do not test favipiravir in HLH. That prediction is rated L4 with a "Research Question" status.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
+
+Currently no related literature available for the top-ranked prediction.
+
+For reference, the two papers found for the second-ranked prediction (infection-associated hemophagocytic syndrome) are background reviews only:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [30098914](https://pubmed.ncbi.nlm.nih.gov/30098914/) | 2018 | Review | Journal of Infection and Chemotherapy | Reviews pathophysiology of severe fever with thrombocytopenia syndrome (SFTS), a tick-borne bunyavirus infection that can progress to hemophagocytic syndrome, and discusses development of specific antiviral therapy |
-| [38399689](https://pubmed.ncbi.nlm.nih.gov/38399689/) | 2024 | Review | Microorganisms | Reviews Heartland virus disease, a related tick-borne bunyavirus infection presenting with fever, leukopenia and thrombocytopenia consistent with a hemophagocytic-syndrome-like picture |
+| [30098914](https://pubmed.ncbi.nlm.nih.gov/30098914/) | 2018 | Review | Journal of Infection and Chemotherapy | Pathophysiology of severe fever with thrombocytopenia syndrome (a tick-borne viral hemorrhagic fever) and development of specific antiviral therapy |
+| [38399689](https://pubmed.ncbi.nlm.nih.gov/38399689/) | 2024 | Review | Microorganisms | Review of Heartland virus disease, a tick-borne infection with fever, leukopenia and thrombocytopenia |
 
-Note: neither publication directly studies favipiravir treatment of hemophagocytic syndrome — both are background reviews of the underlying viral infections that can trigger it.
+## India Market Information
 
----
+Showing 5 of 20 valid single-ingredient registrations. Approved indication text was not available for these products.
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 90506 | Favivent 400mg Tablet | Strip of 10 tablets | Not available |
+| 89221 | Favtris 200 Tablet | Strip of 10 tablets | Not available |
+| 88151 | Fabixa 800mg Tablet | Strip of 10 tablets | Not available |
+| 87492 | Favenza 800 Tablet | Strip of 10 tablets | Not available |
+| 88998 | Fivid Tablet | Strip of 34 tablets | Not available |
 
-Favipiravir is not currently marketed in Taiwan (0 registrations); no license information is available.
-
----
+All products are oral tablets.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-(Note: TFDA label warnings/contraindications for favipiravir are a **blocking data gap** — this has not yet undergone S1 safety screening.)
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only literature evidence consists of two background reviews on related viral infections (SFTS, Heartland virus disease), not direct studies of favipiravir in hemophagocytic syndrome, and no clinical trials exist for this indication. In addition, TFDA label safety data (warnings/contraindications) is missing and is flagged as a blocking gap, which prevents the candidate from proceeding to initial safety evaluation (S1).
+The prediction is supported only by a model score. There are no clinical trials or publications, and no plausible direct mechanistic link between a viral polymerase inhibitor and malignancy-associated HLH, which is driven by immune dysregulation. The infection-associated HLH prediction is a more reasonable research question, but it is also unsupported by any favipiravir data.
 
 **To proceed, the following is needed:**
-- TFDA label warnings and contraindications (blocking gap, DG001)
-- Confirmed mechanism of action data (DG002)
-- Preclinical or case-level evidence directly linking favipiravir treatment to resolution of infection-associated HLH (e.g., in SFTS or Heartland virus disease patients)
-- Clarification of favipiravir's original approved indication and licensing status, since no Taiwan regulatory record currently exists
+- Package insert warnings and contraindications from the India regulatory source (currently missing, and a blocker for safety screening)
+- Detailed mechanism of action data (MOA)
+- Any preclinical or clinical evidence of favipiravir in HLH, particularly the infection-associated form
+- A mechanistic analysis comparing the original and new indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

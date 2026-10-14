@@ -2,7 +2,7 @@
 layout: default
 title: Dactinomycin
 parent: Model Prediction Only (L5)
-nav_order: 226
+nav_order: 228
 evidence_level: L5
 indication_count: 9
 ---
@@ -29,85 +29,102 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Dactinomycin: From Pediatric Solid Tumors to Relapsing-Remitting Multiple Sclerosis
+# Dactinomycin: From Ewing Sarcoma and Other Solid Tumours to Relapsing-Remitting Multiple Sclerosis
 
 ## One-Sentence Summary
 
-Dactinomycin (Actinomycin D) is a cytotoxic intercalating antibiotic established in pediatric oncology, used as a cornerstone agent in standard regimens for rhabdomyosarcoma, Wilms' tumor, and gestational trophoblastic neoplasia.
-The TxGNN model predicts it may be effective for **Relapsing-Remitting Multiple Sclerosis (RRMS)**,
-with **0 clinical trials** and **0 publications** currently supporting this repurposing direction.
+Dactinomycin is a cytotoxic antibiotic-class chemotherapy agent, originally used for paediatric and germ-cell solid tumours such as Ewing sarcoma, rhabdomyosarcoma, Wilms tumour and gestational trophoblastic neoplasm.
+The TxGNN model's top-ranked prediction is **relapsing-remitting multiple sclerosis**, but **no clinical trials and no publications** support it.
+The better-supported predictions are rhabdomyosarcoma variants and head and neck cancer, which are mostly extensions of existing sarcoma use, not true repurposing.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Pediatric solid tumors (rhabdomyosarcoma, Wilms' tumor, gestational trophoblastic neoplasia) |
-| Predicted New Indication | Relapsing-Remitting Multiple Sclerosis |
+|------|------|
+| Original Indication | Ewing sarcoma, testicular cancer / germ cell tumours, gestational trophoblastic neoplasm, rhabdomyosarcoma, Wilms tumour (the product registrations in India list no approved indication text) |
+| Predicted New Indication | Relapsing-remitting multiple sclerosis (top-ranked prediction) |
 | TxGNN Prediction Score | 99.58% |
-| Evidence Level | L5 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 (for the top prediction); L4 for several sarcoma-related predictions |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 6 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this dataset. Based on established pharmacological knowledge, Dactinomycin (Actinomycin D) is a DNA-intercalating antibiotic that inserts between guanine-cytosine base pairs and physically blocks RNA polymerase, halting RNA transcription. This mechanism confers potent, non-selective cytotoxic activity against all rapidly proliferating cells, forming the pharmacological basis for its long-standing use in pediatric oncology — particularly in the VAC combination regimen (vincristine + actinomycin D + cyclophosphamide).
+Currently, detailed mechanism of action data is not available. Dactinomycin is known to be a cytotoxic transcription inhibitor that intercalates into DNA and blocks RNA polymerase, and it has proven efficacy in the paediatric solid tumours listed above.
 
-Relapsing-Remitting Multiple Sclerosis is an autoimmune demyelinating disease driven by autoreactive T- and B-lymphocytes that attack the myelin sheath of the central nervous system. Theoretically, a cytotoxic agent like Dactinomycin could suppress this autoimmune cascade through non-selective lymphocyte depletion. This indirect mechanistic pathway likely explains the TxGNN model's prediction — shared immune-related nodes in the knowledge graph may create an apparent connection between Dactinomycin and RRMS.
+For **relapsing-remitting multiple sclerosis**, no mechanistic link is supported by the data compiled for this report. Broad immunosuppression could in theory affect autoreactive lymphocytes, but dactinomycin's marked myelosuppressive toxicity makes this implausible compared with established MS therapies. The high score of 99.58% is a model output only.
 
-However, the clinical rationale is weak. Established RRMS disease-modifying therapies (natalizumab, fingolimod, ocrelizumab, cladribine) achieve targeted immunomodulation with substantially more favorable and predictable safety profiles. Dactinomycin's severe toxicity burden — dose-limiting myelosuppression, hepatotoxicity, mucositis, and known carcinogenicity — would be clinically disproportionate for a chronic, non-malignant condition. The high TxGNN score most likely reflects indirect knowledge graph connectivity rather than true biological plausibility for RRMS.
+The other predictions are far more coherent with the original indications:
+
+- **Rhabdomyosarcoma subtypes** (botryoid-type vaginal, extrahepatic bile duct, embryonal bile duct, parameningeal embryonal, prostate embryonal): dactinomycin is a backbone agent in the VAC/VA regimens. These are essentially subtypes of an existing indication.
+- **Liver sarcoma:** some literature on paediatric hepatic sarcomas exists, but much of it concerns hepatotoxicity.
+- **Upper aerodigestive tract neoplasm and head and neck cancer:** the supporting evidence is mostly head and neck *rhabdomyosarcoma*, not squamous cell carcinoma. Dactinomycin's effect cannot be separated from combination chemotherapy and radiotherapy.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for any of the predicted indications.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+No literature is available for the top prediction (relapsing-remitting multiple sclerosis). The key publications for the better-supported predictions are below.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [11408506](https://pubmed.ncbi.nlm.nih.gov/11408506/) | 2001 | Cooperative group trial report (IRS-IV) | J Clin Oncol | Risk-based surgery, radiotherapy and chemotherapy regimens in non-metastatic rhabdomyosarcoma (relevant to upper aerodigestive tract and head and neck predictions) |
+| [39058728](https://pubmed.ncbi.nlm.nih.gov/39058728/) | 2024 | Clinical trial results | Cancer | Reduced-dose alkylator chemotherapy plus radiotherapy in standard-risk non-alveolar rhabdomyosarcoma (EpSSG RMS 2005) |
+| [19770373](https://pubmed.ncbi.nlm.nih.gov/19770373/) | 2009 | Likely clinical trial | J Clin Oncol | VAC vs VAC alternating with VTC in intermediate-risk rhabdomyosarcoma (COG D9803); design not confirmed |
+| [12586800](https://pubmed.ncbi.nlm.nih.gov/12586800/) | 2003 | Cohort / trial analysis | J Clin Oncol | Outcomes in localized non-orbital, non-parameningeal head and neck rhabdomyosarcoma (IRS-III and IV) |
+| [33567392](https://pubmed.ncbi.nlm.nih.gov/33567392/) | 2021 | Prospective cohort | Eur J Cancer | Reduced chemotherapy in completely resected embryonal rhabdomyosarcoma (EpSSG RMS2005) |
+| [35763871](https://pubmed.ncbi.nlm.nih.gov/35763871/) | 2022 | Retrospective cohort | Eur J Cancer | Prognostic significance of regional lymph node involvement in embryonal rhabdomyosarcoma |
+| [22104356](https://pubmed.ncbi.nlm.nih.gov/22104356/) | 2012 | Cohort | Int J Radiat Oncol Biol Phys | Local control with reduced-dose radiotherapy in low-risk rhabdomyosarcoma (COG D9602) |
+| [37814737](https://pubmed.ncbi.nlm.nih.gov/37814737/) | 2023 | Case report / review | Cureus | Paediatric undifferentiated embryonal sarcoma of the liver treated with a regimen including dactinomycin |
+| [34900598](https://pubmed.ncbi.nlm.nih.gov/34900598/) | 2022 | Case report / review | Urol Case Rep | Adult prostate embryonal rhabdomyosarcoma treated with dactinomycin, vincristine and cyclophosphamide; patient died of the disease |
+| [21671362](https://pubmed.ncbi.nlm.nih.gov/21671362/) | 2011 | Retrospective study | Pediatr Blood Cancer | Dactinomycin and vincristine toxicity in childhood cancer (COG) |
 
 ---
 
 ## India Market Information
 
-Dactinomycin is currently **not registered in India**. No marketing authorizations are on record (0 licenses).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 223232 | Tinowel 0.5mg Injection | Vial of 1 injection | Not stated |
+| 65406 | Dactinoget 0.5mg Injection | Vial of 1 powder for injection | Not stated |
+| 3963 | Actinocin 0.5mg Injection | Vial of 1 injection | Not stated |
+| 43141 | Cosmegen 0.5mg Injection | Vial of 1 ml injection | Not stated |
+| 67103 | Dacmozen 0.5mg Injection | Vial of 2 ml injection | Not stated |
+
+One further registration (69105, Dactino 0.5mg Injection, Chandra Bhagat Pharma Pvt Ltd) is also valid. All 6 registrations are single-ingredient injectables.
 
 ---
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic (Intercalating antibiotic — Actinomycin class) |
-| Myelosuppression Risk | High — bone marrow suppression is a dose-limiting toxicity; neutropenia, thrombocytopenia, and anemia are expected and common adverse effects |
-| Emetogenicity Classification | Moderate to high |
-| Monitoring Items | Complete blood count with differential (CBC/diff), liver function tests (AST, ALT, bilirubin), renal function, signs of oral mucositis and veno-occlusive disease (particularly in young children) |
-| Handling Protection | Must follow cytotoxic / hazardous drug handling regulations: dedicated preparation area, appropriate PPE (gloves, gown, eye protection) during compounding and administration |
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (DNA-intercalating transcription inhibitor, actinomycin class) |
+| Myelosuppression Risk | High (the knowledge graph links the drug to neutropenia, thrombocytopenia, leukopenia, agranulocytosis and aplastic anaemia) |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC with differential, liver function (hepatopathy and veno-occlusive disease have been reported with VAC regimens) and renal function |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions** (164 total interactions identified; key interactions below):
+- **Disease associations flagged in the knowledge graph** (these are not label text): liver disease, gallbladder disease, thrombocytopenia, neutropenia, agranulocytosis, anaemia, leukopenia, aplastic anaemia, varicella zoster infection / herpes zoster, hepatic vein thrombosis and Budd-Chiari syndrome.
+- **Hepatotoxicity:** retrospective studies describe chemotherapy-induced hepatopathy with VAC (PMID 15143082), with age as a risk factor. This is especially relevant to any liver-based indication.
+- **Drug Interactions:** 164 interactions were identified. Major-level examples include deferiprone and samarium (153Sm) lexidronam. Moderate-level examples include palifermin, strontium chloride Sr-89, fostamatinib, mercaptopurine, roflumilast and chloramphenicol.
 
-| Severity | Interacting Drug | Notes |
-|----------|-----------------|-------|
-| Major | Deferiprone | Additive risk of agranulocytosis and severe neutropenia; concurrent use should be avoided |
-| Major | Samarium (153Sm) lexidronam | Additive myelosuppression; bone marrow recovery must be confirmed before combining |
-| Moderate | Mercaptopurine | Additive hematologic toxicity; dose adjustment and close CBC monitoring required |
-| Moderate | Palifermin | Palifermin should not be administered within 24 hours before or after cytotoxic chemotherapy (increased mucosal toxicity risk) |
-| Moderate | Strontium chloride Sr-89 | Additive bone marrow suppression; hematologic parameters must be adequate before use |
-| Moderate | Fostamatinib | Increased risk of hematologic adverse events |
-| Moderate | Roflumilast | Potential additive immunosuppressive effect |
-| Moderate | Chloramphenicol | Additive myelosuppressive potential |
-| Minor | Levofloxacin | Minor interaction; monitor for overlapping adverse effects |
+Package insert warnings and contraindications have not been obtained, so please refer to the package insert for the full safety information.
 
 ---
 
@@ -116,15 +133,14 @@ Dactinomycin is currently **not registered in India**. No marketing authorizatio
 **Decision: Hold**
 
 **Rationale:**
-There is no clinical trial or published literature evidence supporting Dactinomycin in relapsing-remitting multiple sclerosis. The mechanistic link is speculative and relies on indirect knowledge graph connectivity; furthermore, the drug's severe cytotoxicity profile creates a clearly unfavorable risk-benefit ratio compared to all currently approved RRMS disease-modifying therapies.
+The top-ranked prediction, relapsing-remitting multiple sclerosis, has no trials, no literature and no plausible mechanism, and dactinomycin's myelosuppressive toxicity argues against it. The sarcoma-related predictions are better supported (L4) but are mostly extensions of existing rhabdomyosarcoma use, with dactinomycin's contribution confounded by combination chemotherapy and radiotherapy. They are best treated as research questions rather than repurposing candidates.
 
 **To proceed, the following is needed:**
-- Preclinical studies (in vitro autoimmune models or EAE mouse model) specifically evaluating Dactinomycin's immunomodulatory effects in a demyelinating disease context
-- Verified mechanism of action data (DrugBank API or primary pharmacology literature) to confirm whether low-dose immunosuppression is mechanistically plausible without unacceptable toxicity
-- A comparative risk-benefit analysis against current standard-of-care RRMS therapies to establish whether any therapeutic window exists
-- Toxicogenomic or dose-finding data exploring sub-cytotoxic immunosuppressive dosing regimens
-
-> **Multi-indication note:** This report covers the top-ranked TxGNN prediction (Rank 1: RRMS, L5, Hold). This evidence pack contains 9 predicted indications in total. Significantly stronger clinical evidence exists for Dactinomycin in **rhabdomyosarcoma subtypes** (Rank 5: parameningeal embryonal RMS — L2, *Proceed with Guardrails*, supported by Phase 3 RCT data) and **liver sarcoma** (Rank 7 — L3, *Proceed with Guardrails*, with 1 Phase 3 trial and 20 publications). Separate focused reports for these higher-evidence indications are recommended.
+- Package insert warnings, contraindications and approved indication text from the Indian registrations
+- Detailed mechanism of action data (MOA)
+- For the sarcoma subtypes: confirmation of whether they already fall within the labelled rhabdomyosarcoma indication, plus subtype-specific trial data
+- For head and neck, upper aerodigestive tract and liver predictions: evidence in non-sarcoma histologies, which is currently absent
+- A hepatic and haematological safety monitoring plan for any new population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

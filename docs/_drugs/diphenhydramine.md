@@ -2,7 +2,7 @@
 layout: default
 title: Diphenhydramine
 parent: Model Prediction Only (L5)
-nav_order: 272
+nav_order: 275
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,88 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Diphenhydramine: From Allergic Reactions to Rosacea Conjunctivitis
+# Diphenhydramine: From Allergic Rhinitis and Conjunctivitis to Rosacea Conjunctivitis
 
 ## One-Sentence Summary
 
-Diphenhydramine is a first-generation H1 receptor antagonist, widely used globally for allergic reactions, motion sickness, and insomnia, though it holds no approved indications in the India market.
-The TxGNN model predicts it may be effective for **Rosacea Conjunctivitis**, with a high model confidence score of **99.20%**;
-however, **no clinical trials** and **no published literature** currently support this specific indication, placing it at the lowest evidence tier.
-
----
+Diphenhydramine is a first-generation antihistamine, originally used for allergic rhinitis, vasomotor rhinitis, several forms of allergic conjunctivitis (atopic, papillary, vernal) and insomnia.
+The TxGNN model predicts it may be effective for **rosacea conjunctivitis**, but **no clinical trials and no publications** were identified to support this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Allergic reactions, motion sickness, insomnia (global use; no India market approval on record) |
-| Predicted New Indication | Rosacea Conjunctivitis |
+|------|------|
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis, insomnia (no approved-indication text is available in the India licence records, so these come from the knowledge graph) |
+| Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 99.20% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacological knowledge, Diphenhydramine is a first-generation H1 receptor antagonist with pronounced anticholinergic properties. It competitively blocks histamine at H1 receptors, thereby attenuating vasodilation, increased vascular permeability, and pruritus associated with allergic and inflammatory responses. It also crosses the blood–brain barrier, producing sedation and local anesthetic effects.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on well-established pharmacology, diphenhydramine is a first-generation H1 histamine receptor antagonist with additional mild anticholinergic and local anaesthetic effects. It is already used for allergic conjunctivitis and rhinitis, where it relieves itching and redness by blocking histamine.
 
-Rosacea conjunctivitis (ocular rosacea) is a chronic inflammatory condition of the ocular surface involving mast cell activation, histamine release, and neurogenic inflammation. In theory, H1 receptor blockade could suppress histamine-mediated vasodilation and conjunctival itch. Additionally, diphenhydramine's local anesthetic properties might transiently relieve surface irritation. These mechanistic bridges—shared with general allergic conjunctivitis—are likely the basis for the TxGNN model's high score, given graph connectivity between "allergic eye disease" and "conjunctivitis" nodes.
+The plausible link to rosacea conjunctivitis is symptomatic relief of ocular itching and hyperaemia through H1 blockade. However, rosacea-associated eye disease is driven mainly by meibomian gland dysfunction, tear film instability, Demodex or bacterial colonisation, and neurovascular and innate-immune dysregulation (for example MMPs, IL-1 and TNF). Histamine plays a minor or unproven role in these processes.
 
-However, several critical mechanistic mismatches temper this prediction. The primary pathological drivers in rosacea are Demodex mite infestation, innate immune dysregulation (TLR2 overexpression), and neurovascular dysregulation—not a histamine-dominant pathway. More importantly, diphenhydramine's strong anticholinergic activity suppresses lacrimal gland secretion, which may substantially worsen dry eye syndrome—the most debilitating core complication of ocular rosacea. The high TxGNN score (0.992) more likely reflects indirect graph-level associations rather than rosacea-specific mechanistic relevance.
+The high TxGNN score most likely reflects network proximity to other conjunctivitis indications rather than disease-specific mechanistic evidence. The prediction should therefore be treated as a hypothesis, not a supported finding.
 
----
+## India Market Information
 
-## Clinical Trial Evidence
+Diphenhydramine is marketed in India with 20 valid single-ingredient registrations and no cancelled ones. Approved-indication text is not recorded for these registrations. The main authorisations are listed below.
 
-Currently no related clinical trials registered.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 28971 | Benacof 25mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not recorded |
+| 145847 | Matdryl Syrup | Bottle of 100 ml syrup | Not recorded |
+| 21615 | Aden-Rex Syrup | Bottle of 100 ml syrup | Not recorded |
+| 154621 | Novadryl 25mg Capsule | Strip of 10 capsules | Not recorded |
+| 247305 | Zendryl 25mg Capsule | Strip of 10 capsules | Not recorded |
 
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+The registered products are oral forms (capsules, tablets, dispersible tablets) and liquids (syrups, expectorant). No ophthalmic formulation appears among them, which matters for an eye-surface indication.
 
 ## Safety Considerations
 
-**Drug Interactions**: Diphenhydramine has **394 documented drug interactions** on record. The following represent the highest-priority interactions:
+**Drug Interactions:** The interaction screening found 394 interacting drugs. Examples include:
+- **Major:** potassium citrate, eliglustat
+- **Moderate:** anticholinergics (hyoscyamine, atropine, glycopyrronium, dicyclomine, clidinium, methscopolamine, mepenzolate), opioids and related agents (morphine, loperamide, eluxadoline), and other agents (bupropion, lorcaserin, dronabinol, nabilone, metoclopramide, glycerol phenylbutyrate)
 
-| Severity | Interacting Drug | Clinical Concern |
-|----------|-----------------|-----------------|
-| **Major** | Potassium citrate | Potential for significant adverse interaction; close monitoring required |
-| **Major** | Eliglustat | CYP2D6 inhibition by diphenhydramine may elevate eliglustat plasma levels substantially |
-| Moderate | Hyoscyamine | Additive anticholinergic effects (dry mouth, urinary retention, confusion) |
-| Moderate | Atropine | Additive anticholinergic toxicity |
-| Moderate | Dicyclomine | Additive anticholinergic burden |
-| Moderate | Glycopyrronium | Additive anticholinergic burden |
-| Moderate | Methscopolamine | Additive anticholinergic burden |
-| Moderate | Morphine | Additive CNS and respiratory depression |
-| Moderate | Bupropion | Increased risk of CNS adverse effects |
-| Moderate | Metoclopramide | Opposing gastrointestinal motility effects; potential pharmacodynamic antagonism |
+Many of the moderate interactions involve additive anticholinergic or central nervous system depressant effects.
 
-> Please refer to the package insert for complete warnings, contraindications, and precautions, including use in elderly patients (high anticholinergic burden), pregnancy, and renal/hepatic impairment.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is no clinical trial or published literature evidence supporting diphenhydramine for rosacea conjunctivitis, and the mechanistic rationale has a critical safety liability—diphenhydramine's anticholinergic effect on lacrimal secretion may actively worsen dry eye, which is a hallmark and often disabling complication of ocular rosacea.
+The prediction has no supporting clinical trials or literature (Evidence Level L5), and the biology of rosacea eye disease does not clearly involve histamine. The model score alone is not enough to justify moving forward.
 
 **To proceed, the following is needed:**
-
-- Formal MOA documentation (DrugBank API query recommended per DG002 remediation plan)
-- CDSCO/TFDA package insert to retrieve warnings and contraindications (per DG001 remediation plan)
-- Preclinical or in vitro evidence demonstrating diphenhydramine efficacy in rosacea or Demodex-driven ocular inflammation models
-- A safety assessment specifically addressing whether anticholinergic effects exacerbate dry eye in ocular rosacea patients
-- Mechanistic clarification on whether H1 blockade plays a clinically meaningful role in ocular rosacea pathophysiology (distinct from simple allergic conjunctivitis)
-- Ophthalmic route compatibility assessment before any translational consideration
+- Package insert warnings and contraindications from the India regulatory source (currently missing, and a blocker for safety screening)
+- Detailed mechanism of action data from DrugBank
+- A literature and trial search specific to antihistamines in ocular rosacea or meibomian gland dysfunction
+- Assessment of route compatibility, since no ophthalmic diphenhydramine product is registered in India
+- Preclinical or small exploratory evidence that H1 blockade improves rosacea-related ocular symptoms
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

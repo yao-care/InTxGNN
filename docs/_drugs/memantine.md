@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Memantine
-parent: Moderate Evidence (L3-L4)
-nav_order: 518
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 523
+evidence_level: L5
 indication_count: 4
 ---
 
 # Memantine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,112 +29,120 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-# Memantine: From Alzheimer's Disease to Pulmonary Hypertension
+# Memantine: From Dementia to Pulmonary Hypertension
 
 ## One-Sentence Summary
 
-Memantine is an NMDA receptor antagonist originally used for the treatment of moderate-to-severe Alzheimer's disease.
-The TxGNN model predicts it may be effective for **Pulmonary Hypertension**, with **0 clinical trials** and **2 publications** currently supporting this direction. The evidence base is primarily mechanistic and preclinical, placing this candidate at an early exploratory stage.
-
----
+Memantine is an NMDA receptor antagonist marketed in India as oral tablets. The registration text compiled for this report does not state its approved indication.
+The TxGNN model's top-ranked prediction is **pulmonary hypertension** (score 99.5%), but this rests on model prediction alone, with **0 clinical trials** and **2 publications**, neither of which supports the indication.
+The data compiled for this report show that the better-supported direction is **migraine disorder**, with **1 Phase 3 trial** and **19 publications** (see the notes below).
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Alzheimer's disease (moderate-to-severe) |
-| Predicted New Indication | Pulmonary Hypertension |
+|------|------|
+| Original Indication | Not stated in the India registration data compiled for this report |
+| Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 99.54% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 (model prediction only) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
----
+**Other predicted indications in the data:**
+
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation |
+|---|---|---|---|---|
+| 2 | Migraine disorder | 99.52% | L1 (nominal) | Research question, worth pursuing |
+| 3 | Kyphoscoliotic heart disease | 99.43% | L5 | Hold |
+| 4 | Migraine with brainstem aura | 99.41% | L4 | Research question |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on established pharmacological knowledge, Memantine is a non-competitive NMDA (N-methyl-D-aspartate) receptor antagonist. By blocking excessive calcium influx through over-activated NMDA channels, it reduces excitotoxic neuronal damage. This mechanism is well-validated in the context of Alzheimer's disease, where glutamate-mediated excitotoxicity plays a central pathological role.
+Detailed mechanism of action data is not available in the data compiled for this report. Memantine is generally known as a non-competitive NMDA receptor antagonist, which is the basis for the discussion below. This is general pharmacological knowledge, not drawn from the compiled data.
 
-The theoretical link to pulmonary hypertension rests on the observation that NMDA receptors are expressed not only in the central nervous system but also in peripheral vascular tissues, including pulmonary artery smooth muscle cells. In principle, blocking NMDA receptor-mediated calcium influx could attenuate smooth muscle cell proliferation and vascular remodeling — both hallmarks of pulmonary arterial hypertension (PAH). However, this mechanistic chain involves multiple indirect steps and has not been validated in dedicated PAH models.
+**Pulmonary hypertension (rank 1).** The mechanistic link is weak. One retrieved paper (PMID 33500723) is a preclinical study of NMDA receptor activation in insulin sensitivity and lipid metabolism. It mentions the glutamate/NMDAR axis in pulmonary arterial hypertension only in passing. The other paper (PMID 41739394) is a Phase 1 study of MN-08, a nitrate derivative of memantine, which is a different compound. Neither shows that memantine itself is effective. The high score should be treated as a model signal that needs independent validation.
 
-The most relevant preclinical evidence (PMID 33500723) addresses NMDA receptor activation in the context of insulin resistance and lipid metabolism, not pulmonary vascular pathology. The only direct PAH-related study (PMID 41739394) involves MN-08, a nitrate *derivative* of memantine, in a Phase 1 pharmacokinetics trial — it does not evaluate memantine itself for PAH efficacy. Overall, biological plausibility is weak, and this prediction is likely driven by graph-level disease node proximity within the TxGNN knowledge graph rather than a genuine therapeutic signal.
+**Migraine disorder (rank 2).** This link is more plausible. Glutamate/NMDA signalling is implicated in cortical spreading depression, central sensitisation and trigeminovascular activation. Reviews (PMID 36869904, 29508147) support this mechanism. However, an editorial titled "Memantine for migraine: big promise but little evidence" (PMID 34510445) cautions that the evidence base is thin.
 
----
+**Migraine with brainstem aura (rank 4).** The link is indirect. It is extrapolated from general migraine and aura biology. The only RCT-type paper studied migraine without aura.
+
+**Kyphoscoliotic heart disease (rank 3).** No mechanistic rationale, trials or literature were found.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+No clinical trials were registered for the top-ranked indication, pulmonary hypertension. The only trial in the compiled data is for migraine disorder (rank 2):
 
----
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04698525](https://clinicaltrials.gov/study/NCT04698525) | Phase 3 | Completed | 33 | Memantine vs sodium valproate for prophylaxis of episodic migraine. Active-comparator design, not placebo-controlled. The small sample limits statistical power, and no results were available in the data. |
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [41739394](https://pubmed.ncbi.nlm.nih.gov/41739394/) | 2026 | Phase 1 PK/Safety | Clinical Drug Investigation | MN-08 (a nitrate derivative of memantine) evaluated in healthy Chinese volunteers for single/multiple ascending doses; aimed at PAH indication. Safety and PK data only — no efficacy data for memantine itself in PAH. |
-| [33500723](https://pubmed.ncbi.nlm.nih.gov/33500723/) | 2021 | Basic/Mechanism | Theranostics | Investigated how NMDA receptor activation regulates insulin sensitivity and lipid metabolism. Mentions glutamate/NMDAR axis in pulmonary arterial hypertension and diabetes context, but does not study memantine's effect on PAH pathophysiology. |
+**Pulmonary hypertension (rank 1)**
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [33500723](https://pubmed.ncbi.nlm.nih.gov/33500723/) | 2021 | Preclinical/Mechanistic | Theranostics | NMDA receptor activation regulates insulin sensitivity and lipid metabolism. Pulmonary hypertension is mentioned only as background. |
+| [41739394](https://pubmed.ncbi.nlm.nih.gov/41739394/) | 2026 | Phase 1 PK/Safety | Clin Drug Investig | Safety and pharmacokinetics of MN-08, a nitrate derivative of memantine, in healthy volunteers. Not memantine itself. |
+
+**Migraine disorder (rank 2), selected publications**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [33961371](https://pubmed.ncbi.nlm.nih.gov/33961371/) | 2021 | Meta-analysis of RCTs | Clin Neuropharmacol | Memantine vs placebo in migraine. The abstract notes that efficacy remains controversial. |
+| [34352118](https://pubmed.ncbi.nlm.nih.gov/34352118/) | 2021 | Systematic review | Headache | Efficacy and safety of memantine for prophylaxis of episodic migraine. |
+| [40978493](https://pubmed.ncbi.nlm.nih.gov/40978493/) | 2025 | Network meta-analysis | Front Pharmacol | Comparative efficacy and safety of oral preventive medications for migraine in adults. |
+| [39467289](https://pubmed.ncbi.nlm.nih.gov/39467289/) | 2024 | Clinical practice guideline | Ann Intern Med | 2023 VA/DoD guideline on the treatment and prevention of migraine and tension-type headache. |
+| [36869904](https://pubmed.ncbi.nlm.nih.gov/36869904/) | 2023 | Review | Naunyn Schmiedebergs Arch Pharmacol | Memantine and ketamine as potential anti-migraine agents. |
+| [25159002](https://pubmed.ncbi.nlm.nih.gov/25159002/) | 2014 | Review | Ann Pharmacother | Efficacy and safety of memantine for prevention of primary headache disorders. |
+| [29508147](https://pubmed.ncbi.nlm.nih.gov/29508147/) | 2018 | Review | Neurotherapeutics | Glutamate and its receptors as therapeutic targets in migraine. |
+| [34510445](https://pubmed.ncbi.nlm.nih.gov/34510445/) | 2021 | Editorial | Headache | "Big promise but little evidence" for memantine in migraine. |
+| [17901918](https://pubmed.ncbi.nlm.nih.gov/17901918/) | 2007 | Retrospective study | J Headache Pain | Retrospective study of 60 patients who received memantine as migraine prevention. |
+
+**Migraine with brainstem aura (rank 4)**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [26638119](https://pubmed.ncbi.nlm.nih.gov/26638119/) | 2016 | RCT (indirect) | Headache | Randomised, double-blind, placebo-controlled study of memantine for prophylaxis of migraine without aura. Indirect evidence for this subtype. |
+| [36983158](https://pubmed.ncbi.nlm.nih.gov/36983158/) | 2023 | Review/Mechanistic | J Clin Med | Targeting peripheral NMDA receptors as a novel migraine strategy. |
 
 ## India Market Information
 
-Memantine is currently **not marketed in India** and has **no registered product licenses** on record. No authorization table is available.
+Memantine has 20 valid single-ingredient registrations in India, all oral tablets. The approved indication text is not stated in the registration data. The main registrations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 121855 | Larentine 5 Tablet (La Renon Healthcare) | Strip of 10 tablets | Not stated |
+| 140383 | Mentagen 10mg Tablet (Cellgen Biopharma) | Strip of 10 tablets | Not stated |
+| 138971 | Memantal 5mg Tablet (East West Pharma) | Strip of 10 tablets | Not stated |
+| 63272 | Demenzil 10mg Tablet (Alkem Laboratories) | Strip of 10 tablets | Not stated |
+| 66929 | Dmentin 5mg Tablet MD (Micro Labs) | Strip of 10 tablets (MD) | Not stated |
 
 ## Safety Considerations
 
-**Drug Interactions** (100 total interactions on record; representative sample below):
+- **Disease contraindications from the knowledge graph:** Liver disease, gallbladder disease and impaired renal function. These come from drug-disease contraindication edges in the TxGNN knowledge graph, not from label text.
+- **Drug interactions:** 100 interactions were found in total. The notable ones are:
+  - **Moderate:** anticholinergic and antispasmodic agents, including hyoscyamine, atropine, glycopyrronium, clidinium, dicyclomine, methscopolamine, propantheline, scopolamine, trospium and mepenzolate.
+  - **Minor:** ranitidine, metformin, cimetidine and potassium citrate.
+  - **Unknown severity:** glimepiride, doxycycline, lansoprazole, loperamide, famotidine and acetylsalicylic acid.
 
-| Interacting Drug | Interaction Level |
-|-----------------|------------------|
-| Hyoscyamine | Moderate |
-| Atropine | Moderate |
-| Glycopyrronium | Moderate |
-| Clidinium | Moderate |
-| Dicyclomine | Moderate |
-| Methscopolamine | Moderate |
-| Propantheline | Moderate |
-| Scopolamine | Moderate |
-| Trospium | Moderate |
-| Mepenzolate | Moderate |
-| Ranitidine | Minor |
-| Metformin | Minor |
-| Cimetidine | Minor |
-| Potassium citrate | Minor |
-| Glimepiride | Unknown |
-| Doxycycline | Unknown |
-| Lansoprazole | Unknown |
-| Loperamide | Unknown |
-| Famotidine | Unknown |
-| Acetylsalicylic acid | Unknown |
-
-> Note: The moderate-level interactions are predominantly with anticholinergic agents (atropine-class drugs). This is consistent with memantine's known pharmacology, as both drug classes affect cholinergic/glutamatergic neurotransmission pathways. Prescribers should exercise caution when co-administering memantine with any anticholinergic medication.
->
-> Please refer to the package insert for full warnings and contraindications, as those data were not available in this Evidence Pack.
-
----
+Please also refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold** for the top-ranked indication, pulmonary hypertension.
 
 **Rationale:**
-The TxGNN model assigns a high prediction score for pulmonary hypertension, but the underlying evidence is at L4 (preclinical/mechanistic only). No clinical trials of memantine for PAH exist, and the two available publications do not establish direct efficacy: one is a basic metabolic study with only tangential mention of PAH, and the other evaluates a distinct chemical derivative (MN-08) in a PK safety study. The mechanistic link involves multiple indirect inferential steps with no direct experimental validation in a PAH model.
+- The TxGNN score is very high (99.5%), but there are no clinical trials and the two retrieved papers do not support memantine in this condition. One concerns a different compound, MN-08.
+- Migraine disorder (rank 2) is the more promising direction and is best treated as a research question. Its L1 label comes from a single small Phase 3 trial (n=33) with no available results, and the literature describes the evidence as limited.
 
 **To proceed, the following is needed:**
-
-- **Mechanistic validation**: Dedicated in vitro and in vivo studies confirming memantine's effect on pulmonary artery smooth muscle cell proliferation and vascular remodeling
-- **Preclinical PAH model data**: Efficacy data in established animal models of PAH (e.g., monocrotaline or hypoxia-induced rat model) before any human study can be justified
-- **MN-08 Phase 2/3 results**: Monitor progression of MN-08 trials; if this derivative demonstrates PAH efficacy, it would lend indirect biological support but would not substitute for memantine itself
-- **MOA documentation**: Full mechanism of action data from DrugBank or primary sources to assess vascular target expression profiles
-- **Safety package**: Download and parse the full prescribing information (package insert) to complete the key warnings and contraindications gap (DG001)
-- **India regulatory pathway**: If pre-clinical data become supportive, consult CDSCO on requirements for a new indication investigational study, given the current zero-registration status in India
-
----
-
-*This report is generated for research purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any therapeutic application.*
+- Package insert warnings, contraindications and approved indication text for the India registrations
+- Detailed mechanism of action data
+- For migraine: the results of NCT04698525 and replication in larger placebo-controlled trials
+- For pulmonary hypertension: preclinical or clinical data on memantine itself, not on the derivative MN-08
+- For kyphoscoliotic heart disease and migraine with brainstem aura: any supporting evidence for these subtypes before further consideration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

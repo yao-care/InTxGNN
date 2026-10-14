@@ -3,14 +3,14 @@ layout: default
 title: Cefazolin
 parent: Moderate Evidence (L3-L4)
 nav_order: 152
-evidence_level: L3
+evidence_level: L4
 indication_count: 8
 ---
 
 # Cefazolin
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **8** 
+Evidence Level: **L4** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,94 +29,85 @@ Evidence Level: **L3** | Predicted Indications: **8**
 
 </div>
 
-# Cefazolin: From Bacterial Infections to Infectious Otitis Media
+# Cefazolin: From Bacterial Pneumonia to Infectious Otitis Media
 
 ## One-Sentence Summary
 
-Cefazolin is a first-generation cephalosporin antibiotic established internationally for surgical prophylaxis and gram-positive bacterial infections, though it holds no registered indication in India.
-The TxGNN model predicts it may have activity against **Infectious Otitis Media**, supported by **1 clinical trial** (subsequently terminated) and **3 publications**.
-The mechanistic rationale is plausible but partial — coverage gaps for key otitis media pathogens limit its candidacy as a frontline therapy.
-
----
+Cefazolin is a first-generation cephalosporin antibiotic, originally used for bacterial infections such as bacterial, streptococcal and staphylococcal pneumonia, endocarditis, bacterial arthritis and cholangitis.
+The TxGNN model predicts it may be effective for **infectious otitis media**, but there are **no registered clinical trials** and only **2 loosely related publications** (a case report and an unrelated review) supporting this direction.
+The evidence is therefore mostly model-driven and indirect.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No registered indication in India (international use: surgical prophylaxis, gram-positive bacterial infections) |
-| Predicted New Indication | Infectious Otitis Media |
+|------|------|
+| Original Indication | Bacterial pneumonia (the Indian licence records contain no approved indication text; this comes from the knowledge-graph indication list) |
+| Predicted New Indication | Infectious otitis media |
 | TxGNN Prediction Score | 99.44% |
-| Evidence Level | L3 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, Cefazolin is a first-generation beta-lactam cephalosporin that inhibits bacterial cell wall synthesis by binding to penicillin-binding proteins (PBPs), disrupting peptidoglycan cross-linking and causing bacterial cell lysis. It has excellent coverage against methicillin-susceptible *Staphylococcus aureus* (MSSA) and beta-hemolytic *Streptococcus* species, making it a reliable antibiotic for surgical prophylaxis and skin/soft tissue infections.
+Currently, detailed mechanism of action data is not available from the compiled data. Based on general pharmacological knowledge, cefazolin is a beta-lactam antibiotic that inhibits bacterial cell wall synthesis. It is active against gram-positive organisms such as streptococci and methicillin-susceptible staphylococci. Its efficacy in respiratory and other bacterial infections is established, and mechanistically it may be applicable to otitis media.
 
-Infectious otitis media (acute otitis media, AOM) is predominantly caused by *Streptococcus pneumoniae*, *Haemophilus influenzae*, and *Moraxella catarrhalis*. Cefazolin covers *S. pneumoniae* and MSSA reasonably well, but its activity against *H. influenzae* (particularly beta-lactamase-producing strains) and *M. catarrhalis* is suboptimal — two of the three leading AOM pathogens. Standard-of-care therapy currently favours amoxicillin-clavulanate or higher-generation cephalosporins (e.g., cefdinir, cefuroxime) with broader gram-negative coverage.
+Otitis media is often caused by streptococci and staphylococci, so the original indications (streptococcal and staphylococcal pneumonia) and the predicted indication share relevant pathogens. This pathogen overlap probably explains the high model score.
 
-The TxGNN prediction likely reflects Cefazolin's antibiotic class membership and antibacterial activity against gram-positive cocci that contribute to otitis media, as well as proximity in the drug-disease knowledge graph to otitis-related nodes. The mechanistic link is therefore partial: valid for a subset of causative organisms but not the full etiological spectrum of infectious otitis media. This is not a repurposing signal of novel mechanism — it is a spectrum-of-coverage question.
+There are important limitations. Cefazolin has limited gram-negative and *Haemophilus* coverage, and it is available only as an injection, with limited middle-ear penetration. The only direct support is a 2025 case report of ceftazidime-cefazolin empiric therapy in pediatric Gradenigo syndrome (a complication of otitis media), where the effect cannot be attributed to cefazolin alone.
 
----
+Other otitis-related predictions (suppurative otitis media, chronic otitis media, middle ear disease) show similar patterns. Suppurative otitis media has the most relevant human evidence, a 1982 comparative study of cefmetazole versus cefazolin. Non-suppurative and allergic otitis media have little antibacterial rationale.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01511107](https://clinicaltrials.gov/study/NCT01511107) | Phase 2b | Terminated | 520 | Multicenter, double-blind, placebo-controlled RCT comparing 5-day (short course) vs. 10-day (standard) antibiotic treatment in children aged 6–23 months with AOM, targeting antimicrobial resistance impact. Trial was terminated before completion — the specific reason must be investigated: administrative/funding termination preserves the research question; efficacy failure would substantially downgrade the evidence. |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------|
-| [39567876](https://pubmed.ncbi.nlm.nih.gov/39567876/) | 2025 | Case Report | Ann Otol Rhinol Laryngol | Ceftazidime-Cefazolin empiric combination used for Gradenigo Syndrome (petrous apicitis as a rare complication of AOM); demonstrates Cefazolin's inclusion in multi-drug empiric regimens for severe otitis media complications, though it targets gram-positive coverage in the combination |
-| [877649](https://pubmed.ncbi.nlm.nih.gov/877649/) | 1977 | Review | Southern Medical Journal | Broad review of cephalosporin antibiotics in pediatric infections including ear infections; highlights gram-positive efficacy and relative safety profile, while acknowledging spectrum limitations relevant to otitis media |
-| [3742953](https://pubmed.ncbi.nlm.nih.gov/3742953/) | 1986 | Review | Clinical Pharmacy | Stevens-Johnson syndrome case review in a paediatric patient with a treatment history including antibiotics for otitis media; Cefazolin mentioned in therapeutic context rather than as primary studied agent |
+|------|-----|------|------|---------|
+| [39567876](https://pubmed.ncbi.nlm.nih.gov/39567876/) | 2025 | Case report/Case series | Ann Otol Rhinol Laryngol | Ceftazidime-cefazolin empiric therapy in pediatric Gradenigo syndrome, a complication of acute otitis media; effect of cefazolin alone cannot be separated |
+| [3742953](https://pubmed.ncbi.nlm.nih.gov/3742953/) | 1986 | Review | Clin Pharm | Management of Stevens-Johnson syndrome; otitis media is mentioned only as the original illness in one patient, so it is not relevant to cefazolin efficacy |
 
----
+**Related evidence for other predicted ear indications (for context):**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [6752467](https://pubmed.ncbi.nlm.nih.gov/6752467/) | 1982 | Comparative clinical study | Jpn J Antibiot | Cefmetazole vs cefazolin in suppurative otitis media (172 patients analysed for efficacy); the only human comparative data, old and of limited verifiability |
 
 ## India Market Information
 
-Cefazolin is currently **not registered in India**. No marketing authorizations have been identified in the CDSCO database, and the regulatory market status is confirmed as not marketed. There are no approved indications, no local prescribing information, and no post-marketing safety data from the Indian population available for review.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 169724 | Ozolin 500mg Injection | Vial of 1 powder for injection | Not specified in the data |
+| 14583 | Alcizon 250mg Injection | Vial of 1 injection | Not specified in the data |
+| 45152 | Cefadin 1000mg Injection | Vial of 1 injection | Not specified in the data |
+| 185235 | Reflin 1gm Injection | Vial of 5 ml injection | Not specified in the data |
+| 44638 | Cezolin 500mg Injection | Vial of 1 injection | Not specified in the data |
 
----
+Twenty valid single-ingredient licences are registered in total, all injectable forms and none cancelled.
 
 ## Safety Considerations
 
-**Drug Interactions:** 112 drug interactions have been identified in the DDInter database. The following carry a confirmed Moderate severity classification:
+- **Contraindications flagged in the knowledge graph (not label text):** blood coagulation disease, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, congenital prothrombin deficiency.
+- **Drug Interactions:** 112 interactions recorded. Moderate-level ones include aminoglycosides (kanamycin, neomycin, streptomycin) and picosulfuric acid. Others (e.g. amphotericin B, epinephrine, metformin, omeprazole, aspirin) are of unknown severity.
 
-| Interacting Drug | Severity | Clinical Note |
-|------|------|------|
-| Kanamycin | Moderate | Combined nephrotoxicity risk when co-administered with aminoglycosides |
-| Neomycin | Moderate | Additive nephrotoxicity risk |
-| Streptomycin | Moderate | Additive nephrotoxicity risk with aminoglycosides |
-| Picosulfuric acid | Moderate | Potential interaction in bowel preparation or perioperative settings |
-
-An additional 108 interactions are classified as "Unknown" severity — the full interaction profile should be reviewed before any clinical application.
-
-Please refer to the product package insert for complete warnings and contraindications (prescribing information was not available in the current evidence pack).
-
----
+Please also refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Cefazolin's antibacterial mechanism is mechanistically plausible for gram-positive otitis media pathogens (MSSA, *Streptococcus*), but its coverage of *H. influenzae* and *M. catarrhalis* — the two most prevalent AOM co-pathogens — is insufficient for a competitive repurposing claim. The sole identified clinical trial was terminated before completion, and the available literature comprises retrospective reviews and a single case report, falling short of the evidence threshold needed to advance this candidate. Note that a related indication, **Middle Ear Disease** (rank 3), carries stronger evidence (L2, two clinical trials including an ongoing Phase 4) and a "Proceed with Guardrails" recommendation — that pathway may be more productive to pursue.
+The prediction score is high (99.44%), but there are no registered trials and the available literature is indirect, a single confounded case report combined with another antibiotic. Cefazolin's spectrum and injection-only route are poorly matched to typical otitis media pathogens and treatment settings. The otitis media group of predictions largely overlaps with graph proximity rather than independent evidence.
 
 **To proceed, the following is needed:**
-- Clarification of the NCT01511107 termination reason (administrative/funding versus efficacy or safety failure)
-- CDSCO registration and package insert retrieval to establish warnings and contraindications for India-specific use
-- Complete mechanism of action data from the DrugBank API (DrugBank ID: DB01327)
-- Microbiological susceptibility data for dominant AOM pathogens in the target Indian patient population
-- Assessment of whether the surgical prophylaxis use case (Middle Ear Disease, rank 3) offers a more viable near-term pathway than de novo AOM treatment
+- Package insert warnings and contraindications from the Indian regulator (currently missing and blocking safety screening)
+- Mechanism of action data from DrugBank
+- Review of the 1982 suppurative otitis media comparison to see whether it reports usable cefazolin efficacy data
+- Modern pathogen susceptibility data for otitis media and a route-of-administration assessment
+- If pursued, suppurative otitis media is the more promising target to investigate first, as it has the strongest human evidence (Evidence Level L3)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

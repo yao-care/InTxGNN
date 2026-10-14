@@ -2,15 +2,15 @@
 layout: default
 title: Micafungin
 parent: Moderate Evidence (L3-L4)
-nav_order: 543
-evidence_level: L4
+nav_order: 548
+evidence_level: L3
 indication_count: 1
 ---
 
 # Micafungin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L3** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,37 +29,37 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Micafungin: From Invasive Candidiasis to Urinary Tract Infection
+# Micafungin: From Esophageal Candidiasis and Candidemia to Urinary Tract Infection
 
 ## One-Sentence Summary
 
-Micafungin is an echinocandin class antifungal agent approved in multiple countries for the treatment and prophylaxis of invasive candidiasis and esophageal candidiasis.
-The TxGNN model predicts it may be effective for **Urinary Tract Infection (Candida UTI)**,
-with **0 clinical trials** and **13 publications** currently supporting this direction — though the mechanistic basis for this indication remains pharmacokinetically controversial.
+Micafungin is an echinocandin antifungal, originally used to treat esophageal candidiasis, candidemia and disseminated candidiasis.
+The TxGNN model predicts it may be effective for **urinary tract infection (Candida UTI / candiduria)**.
+Currently there are **no registered clinical trials**, but **13 publications** (mostly cohort studies, case reports and case series) support this direction.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Invasive candidiasis; esophageal candidiasis; prophylaxis in hematopoietic stem cell transplant recipients |
-| Predicted New Indication | Urinary Tract Infection (Candida UTI) |
+|------|------|
+| Original Indication | Esophageal candidiasis, candidemia, disseminated candidiasis (the licence records compiled for this report contain no approved indication text) |
+| Predicted New Indication | Urinary tract infection |
 | TxGNN Prediction Score | 99.03% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L3 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 19 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Micafungin belongs to the echinocandin class of antifungal agents. Its mechanism of action is the inhibition of β-1,3-D-glucan synthase — an enzyme essential for fungal cell wall biosynthesis that has no mammalian equivalent. This mechanism is broadly fungicidal against *Candida* species, including many azole-resistant strains such as *Candida krusei* and *Candida glabrata*. Because urinary tract infections caused by *Candida* (candiduria) share the same pathogens treated by micafungin in systemic settings, the TxGNN model likely identified this mechanistic overlap and awarded a high prediction score.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known class information, micafungin is an echinocandin that inhibits 1,3-beta-D-glucan synthase and disrupts fungal cell wall synthesis. It is established for invasive Candida infections (candidemia, esophageal and disseminated candidiasis).
 
-However, there is a well-recognised pharmacokinetic barrier for this indication: echinocandins including micafungin are excreted in urine at extremely low concentrations — less than 1% of the administered dose reaches the urine as active drug. IDSA guidelines therefore do not recommend echinocandins as first-line agents for Candida UTI, precisely because urine drug concentrations are unlikely to achieve the minimum inhibitory concentration (MIC) at standard doses. The high TxGNN score (0.990) most plausibly reflects the drug's general anti-*Candida* activity rather than site-specific pharmacodynamic evidence for the urinary compartment.
+Candida species are the main fungal cause of urinary tract infection. The new indication is therefore the same pathogen family as the original indications, not a new mechanism. Activity against the causative organisms is plausible, and this is a notable strength of the prediction.
 
-Despite this limitation, the published literature documents a niche where micafungin has been used off-label with reported success: patients with fluconazole-resistant or azole-intolerant *Candida* UTI (e.g., transplant recipients, premature neonates, patients with hepatic dysfunction), particularly when alternative options are exhausted. One pharmacokinetic study (PMID 27424599) argued that therapeutic drug monitoring of urinary micafungin levels could optimise dosing for selected cases. This positions micafungin as a potential salvage-therapy option rather than a broad repurposing candidate, and the current evidence base does not yet support a formal development programme for this indication.
+There is a pharmacokinetic caveat. Echinocandins have traditionally been considered poorly suited to UTI because little active drug is excreted in urine. However, one report (PMID 27424599) found urinary micafungin levels sufficient to treat Candida UTIs, which partly offsets this concern. The high TxGNN score is consistent with this reasoning, but it is a model prediction and not clinical evidence.
 
 ---
 
@@ -72,39 +72,47 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [27587066](https://pubmed.ncbi.nlm.nih.gov/27587066/) | 2016 | Retrospective Cohort | Int J Urol Nephrol | Examined candiduria elimination rates in micafungin-treated hospitalised patients; echinocandins active against azole-resistant *Candida* but limited by low urinary concentrations |
-| [29109159](https://pubmed.ncbi.nlm.nih.gov/29109159/) | 2018 | Multi-site Retrospective | Antimicrob Agents Chemother | Characterised candiduria management in 305 hospitalised patients across multiple institutions; found significant antifungal overuse in asymptomatic candiduria contrary to guidelines |
-| [35146837](https://pubmed.ncbi.nlm.nih.gov/35146837/) | 2022 | Retrospective Case Series | Pediatrics International | Reported treatment outcomes of critically ill PICU patients receiving micafungin for hospital-acquired *Candida* UTIs; analysed success rates across *Candida* species |
-| [27424599](https://pubmed.ncbi.nlm.nih.gov/27424599/) | 2016 | Pharmacokinetic Study | Int J Antimicrob Agents | Six cases of *Candida* UTI (including 4 fluconazole-resistant) successfully treated with micafungin; proposed that therapeutic drug monitoring of urinary levels may enable optimal pharmacodynamic targeting |
-| [26937340](https://pubmed.ncbi.nlm.nih.gov/26937340/) | 2016 | Case Series | Med Mycol Case Rep | Five cases of candiduria treated with parenteral micafungin for ≥6 days; all achieved resolution of fungal growth within 30 days of treatment completion |
-| [31111613](https://pubmed.ncbi.nlm.nih.gov/31111613/) | 2019 | Case Report | Transplant Infect Dis | Successful eradication of chronic symptomatic *Candida krusei* UTI with increased-dose micafungin in a liver–kidney transplant recipient with intrinsic fluconazole resistance |
-| [40765059](https://pubmed.ncbi.nlm.nih.gov/40765059/) | 2025 | Case Report | J Pharm Health Care Sci | Pyelonephritis and bacteraemia from fluconazole-resistant *Candida glabrata* in a patient on SGLT2 inhibitor; successfully treated with micafungin |
-| [38827222](https://pubmed.ncbi.nlm.nih.gov/38827222/) | 2024 | Case Report | Front Pediatrics | *Candida glabrata* UTI in a premature neonate (NICU) treated successfully with micafungin; highlighted rising incidence of non-albicans *Candida* in vulnerable neonatal populations |
-| [38681664](https://pubmed.ncbi.nlm.nih.gov/38681664/) | 2024 | Case Report | Med Mycol Case Rep | Unilateral renal fungus ball (micafungin-sensitive *Candida glabrata*) managed with combined antifungal therapy and endoscopic extraction |
-| [33520520](https://pubmed.ncbi.nlm.nih.gov/33520520/) | 2020 | Case Report | Cureus | *Candida auris* UTI in a nursing home patient with multiple comorbidities; discussed micafungin as one of the few active options against this multidrug-resistant emerging pathogen |
+|------|-----|------|------|---------|
+| [35146837](https://pubmed.ncbi.nlm.nih.gov/35146837/) | 2022 | Cohort | Pediatr Int | Micafungin for hospital-acquired Candida UTI in critically ill children; treatment success rates analysed overall and by Candida species |
+| [27587066](https://pubmed.ncbi.nlm.nih.gov/27587066/) | 2016 | Cohort | Int Urol Nephrol | Candiduria elimination rates in hospitalized patients treated with micafungin |
+| [27424599](https://pubmed.ncbi.nlm.nih.gov/27424599/) | 2016 | Pharmacokinetic study / case series | Int J Antimicrob Agents | Six UTI cases treated successfully, four with fluconazole-resistant Candida; urinary micafungin levels were sufficient |
+| [26937340](https://pubmed.ncbi.nlm.nih.gov/26937340/) | 2016 | Case series | Med Mycol Case Rep | Five candiduria cases; fungal clearance within 30 days of finishing at least 6 days of micafungin |
+| [31111613](https://pubmed.ncbi.nlm.nih.gov/31111613/) | 2019 | Case report | Transpl Infect Dis | Chronic *C. krusei* UTI eradicated with increased-dose micafungin in a liver and kidney transplant recipient |
+| [38827222](https://pubmed.ncbi.nlm.nih.gov/38827222/) | 2024 | Case report | Front Pediatr | *C. glabrata* urinary infection in a premature neonate treated with micafungin |
+| [38681664](https://pubmed.ncbi.nlm.nih.gov/38681664/) | 2024 | Case report | Med Mycol Case Rep | Renal fungus ball from *C. glabrata* (micafungin-sensitive), treated with antifungals plus endoscopic extraction |
+| [40765059](https://pubmed.ncbi.nlm.nih.gov/40765059/) | 2025 | Case report | J Pharm Health Care Sci | *C. glabrata* pyelonephritis and bacteraemia in a patient on an SGLT2 inhibitor, successfully treated with micafungin |
+| [40405904](https://pubmed.ncbi.nlm.nih.gov/40405904/) | 2025 | Case report | Cureus | Urosepsis from nephrolithiasis caused by *C. glabrata* in an immunocompetent patient |
+| [33520520](https://pubmed.ncbi.nlm.nih.gov/33520520/) | 2020 | Case report | Cureus | *C. auris* UTI in a nursing home patient with multiple comorbidities |
+| [29109159](https://pubmed.ncbi.nlm.nih.gov/29109159/) | 2018 | Cohort | Antimicrob Agents Chemother | Multi-centre study showing overtreatment of asymptomatic candiduria; guidelines do not recommend antifungals for it |
+| [39781278](https://pubmed.ncbi.nlm.nih.gov/39781278/) | 2025 | Susceptibility survey | Ther Adv Infect Dis | Candida species distribution and antifungal susceptibility in vulvovaginal candidiasis and UTI in Vietnam |
+| [24182454](https://pubmed.ncbi.nlm.nih.gov/24182454/) | 2014 | Epidemiology | Int J Antimicrob Agents | US Candida bloodstream infection species distribution and susceptibility (background context) |
+
+No randomized controlled trials were identified. Several of these papers are background or epidemiology studies rather than direct efficacy evidence.
 
 ---
 
 ## India Market Information
 
-Micafungin is currently **not marketed in India**. No product registrations are on record (0 authorisations).
+Micafungin is marketed in India with 19 valid single-ingredient registrations. Approved indication text is not available in the compiled licence records. Five main registrations:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 135018 | Mycamine 100mg Injection (Astellas Pharma Inc) | Vial of 1 injection | Not stated in licence records |
+| 134987 | Mycamine 50mg Injection (Glaxo SmithKline Pharmaceuticals Ltd) | Vial of 1 ml injection | Not stated in licence records |
+| 137943 | Micanfa 50mg Injection (Intas Pharmaceuticals Ltd) | Vial of 5 ml injection | Not stated in licence records |
+| 138535 | Micalan Injection (Mylan Pharmaceuticals Pvt Ltd) | Vial of 1 injection | Not stated in licence records |
+| 90148 | Fungofine 50mg Injection (Dr Reddy's Laboratories Ltd) | Vial of 1 injection | Not stated in licence records |
+
+All formulations are injectable. This matters for UTI use because the product would be given intravenously.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions (all Moderate level, source: DDInter):**
+- **Disease-related cautions (knowledge graph):** Kidney disease and pyoureter are flagged as contraindication-related conditions. These come from a drug-disease knowledge graph, not from label text, and should be verified against the package insert. They are relevant because UTI patients may have renal or urinary tract pathology.
+- **Drug Interactions:** Five moderate-level interactions were identified: amphotericin B, nitisinone, everolimus, ribociclib and sirolimus. The sirolimus and everolimus interactions matter in transplant patients, who are a common candiduria population.
 
-| Interacting Drug | Level | Clinical Note |
-|-----------------|-------|--------------|
-| Amphotericin B | Moderate | Potential additive nephrotoxicity; monitor renal function closely |
-| Nitisinone | Moderate | Possible pharmacokinetic interaction; monitor for adverse effects |
-| Everolimus | Moderate | Micafungin may increase everolimus plasma exposure; dose adjustment and level monitoring may be required |
-| Ribociclib | Moderate | Monitor for increased drug exposure and QTc effects |
-| Sirolimus | Moderate | Micafungin has been reported to increase sirolimus AUC; monitor trough levels and toxicity |
-
-Please refer to the package insert for complete warnings and contraindications, as this data was not available for review.
+Please also refer to the package insert for full warnings and contraindications, which were not available in the data compiled for this report.
 
 ---
 
@@ -113,16 +121,14 @@ Please refer to the package insert for complete warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-Although TxGNN assigns a high prediction score (99.03%) reflecting micafungin's potent anti-*Candida* activity, the fundamental pharmacokinetic barrier — less than 1% urinary excretion of active drug — directly undermines the mechanistic premise for treating urinary tract infections. The entire current evidence base (L4) consists of case reports, small case series, and retrospective studies with no registered prospective clinical trials, placing this firmly in the research-question stage. IDSA guidelines explicitly advise against echinocandins for Candida UTI except in highly selected refractory scenarios.
+The mechanism is plausible and the TxGNN score is high. However, the supporting evidence is limited to cohort studies, case series and case reports, with no registered trials and no randomized data. Echinocandins also face a recognised limitation of low urinary excretion, and guidelines do not support treating asymptomatic candiduria. Package insert safety data is also missing, so safety screening cannot yet be completed.
 
 **To proceed, the following is needed:**
-
-- **PK/PD validation**: Prospective pharmacokinetic data confirming that urinary micafungin concentrations at clinically safe doses can reliably exceed the MIC for target *Candida* species
-- **Defined patient population**: Identify a specific subgroup (e.g., fluconazole-resistant *Candida* UTI in transplant recipients) where the benefit–risk calculation favours off-label use
-- **Prospective study**: At least one Phase 2 or prospective observational study before clinical development can be justified
-- **Regulatory package insert review**: Obtain CDSCO/TFDA package insert to document approved warnings and contraindications (currently a blocking data gap)
-- **MOA data**: Retrieve full DrugBank MOA entry to complete mechanistic analysis
-- **India regulatory pathway**: Assess whether compassionate use or off-label prescribing frameworks in India would apply for refractory candiduria cases while formal evidence is gathered
+- Package insert warnings and contraindications for India-marketed products, to complete safety screening
+- Detailed mechanism of action data
+- Controlled or prospective clinical data on micafungin for Candida UTI, including urinary concentration and microbiological clearance outcomes
+- Clear definition of the target population (symptomatic Candida UTI or fluconazole-resistant organisms, as opposed to asymptomatic candiduria)
+- Review of renal safety in patients with kidney disease and of immunosuppressant interactions in transplant patients
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

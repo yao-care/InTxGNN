@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Meclizine
-parent: Moderate Evidence (L3-L4)
-nav_order: 512
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 517
+evidence_level: L5
 indication_count: 6
 ---
 
 # Meclizine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,87 +29,70 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-# Meclizine: From Motion Sickness / Vertigo to Allergic Urticaria
+# Meclizine: From Central Nervous System Vertigo and Motion Sickness to Allergic Urticaria
 
 ## One-Sentence Summary
 
-Meclizine is a first-generation H1 antihistamine, classically used to treat motion sickness, vertigo, and associated nausea and vomiting.
-The TxGNN model predicts it may be effective for **Allergic Urticaria**, which is mechanistically plausible as H1 antagonists are first-line therapy for urticaria as a class — however, there are **0 clinical trials** and **0 publications** directly supporting this specific use of Meclizine, and clinical preference has shifted to second-generation non-sedating antihistamines.
+Meclizine is a first-generation antihistamine, originally used to treat vertigo of central nervous system origin and motion sickness.
+The TxGNN model predicts it may be effective for **Allergic Urticaria**, but **no clinical trials and no publications** were found to support this direction, so the prediction rests on model output and drug-class reasoning alone.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Motion sickness; Vertigo-associated nausea and vomiting |
-| Predicted New Indication | Allergic Urticaria |
+|------|------|
+| Original Indication | Central nervous system origin vertigo; motion sickness (the licence records contain no approved indication text) |
+| Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.67% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 16 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not formally available in this evidence pack. Based on established pharmacological knowledge, Meclizine is a first-generation H1 receptor antagonist with additional anticholinergic properties. It suppresses the vestibular system and central histamine signalling, explaining its efficacy in motion sickness and vertigo-related nausea.
+Detailed mechanism of action data is not currently available. Based on known information, meclizine is a first-generation piperazine H1-antihistamine with anticholinergic activity. Its efficacy in vertigo and motion sickness is established, and mechanistically it may be applicable to histamine-mediated conditions such as urticaria.
 
-Allergic urticaria is driven by mast cell degranulation and histamine release, with H1 receptor blockade serving as the universally accepted first-line mechanism. In this sense, TxGNN's prediction reflects a valid **class-effect mechanistic link**: blocking H1 receptors directly counters the wheal-and-flare cascade underlying urticaria. The transition from vestibular/CNS histamine blockade (motion sickness) to peripheral H1 blockade (urticaria) represents a shift in target organ, not a change in core mechanism.
+H1-antihistamines are the standard first-line therapy for urticaria, so the mechanistic link is plausible. However, this link rests on drug-class knowledge and the TxGNN prediction, not on any meclizine-specific data supplied for this report. Better-characterized antihistamines are already established for this condition, and non-sedating second-generation agents are generally preferred. The incremental value of meclizine is therefore unclear. Its sedation and anticholinergic burden are also relevant.
 
-That said, clinical guidelines for urticaria have firmly moved toward second-generation, non-sedating H1 antihistamines (cetirizine, loratadine, fexofenadine, bilastine) due to superior tolerability and absence of CNS sedation. Meclizine's pronounced sedating and anticholinergic side effects make it a poor candidate for the chronic, long-term management that urticaria typically requires. No independent clinical studies specifically evaluate Meclizine for allergic urticaria, and this prediction is best understood as a class-level signal rather than a compound-specific opportunity.
+### Other Predicted Indications
 
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for allergic urticaria.
-
-> **Note:** One trial was identified in the broader evidence sweep ([NCT01537471](https://clinicaltrials.gov/study/NCT01537471)) but is associated with the **common cold** query and investigates Pre-Pulse Inhibition (a neuropsychiatric biomarker) — it has no relevance to allergic urticaria and is excluded here.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for allergic urticaria.
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Comment |
+|---|---|---|---|---|
+| 2 | Common cold | 99.49% | L5 | Possible symptomatic relief only (rhinorrhoea, sneezing); not disease-modifying |
+| 3 | Nasal cavity disease | 99.48% | L5 | Term too broad to test; a specific condition must be defined first |
+| 4 | Pharyngitis | 99.45% | L5 | No antimicrobial or anti-inflammatory action; at most symptom relief |
+| 5 | Acute laryngopharyngitis | 99.37% | L5 | Anticholinergic drying could worsen throat irritation |
+| 6 | Cold urticaria | 99.22% | L5 | Most direct mechanistic rationale; flagged as a research question |
 
 ---
 
 ## India Market Information
 
-Meclizine currently has **no registered products** in India. The drug is not marketed and holds zero approved licenses with CDSCO. Any introduction for a new indication would require a full new drug application process from the ground up.
+Sixteen valid single-ingredient registrations exist and none are cancelled. The records contain no approved indication text. The five main authorizations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 58351 | Diligan 25 Tablet (Dr Reddy's Laboratories Ltd) | Strip of 15 tablets | Not stated |
+| 60901 | Diligan 50mg Tablet (Dr Reddy's Laboratories Ltd) | Strip of 15 tablets | Not stated |
+| 30704 | Biozine 25mg/50mg Tablet (Remedial Healthcare) | Strip of 10 tablets | Not stated |
+| 94575 | Gladvert 25mg Tablet (Gladstone Pharma India Pvt Ltd) | Strip of 15 tablets | Not stated |
+| 135625 | Meclisafe 50mg/5mg Tablet SR (Pfleger Healthcare Pvt Ltd) | Strip of 10 tablets SR | Not stated |
+
+All products are oral tablets, including sustained-release forms.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions (252 total interactions identified; top interactions listed below):**
+- **Contraindications (from the knowledge graph, not label text)**: benign prostatic hyperplasia, angle-closure (closed-angle) glaucoma, pyloric stenosis, and bladder neck obstruction. These are consistent with the drug's anticholinergic activity.
+- **Drug Interactions**: 252 interactions are recorded. Most are Moderate, mainly with other anticholinergic or antispasmodic agents (hyoscyamine, atropine, glycopyrronium, dicyclomine, trospium, clidinium, mepenzolate, methscopolamine), opioids and antidiarrhoeals (morphine, opium, loperamide, eluxadoline), and others such as metoclopramide, nabilone, and eliglustat. Two **Major** interactions are listed: **potassium citrate** and **potassium chloride**.
+- **Other**: Sedation and anticholinergic burden are relevant, particularly in combination with the agents above.
 
-| Severity | Interacting Drug | Clinical Concern |
-|----------|-----------------|------------------|
-| **Major** | Potassium citrate | Significant interaction — monitor closely |
-| **Major** | Potassium chloride | Significant interaction — monitor closely |
-| Moderate | Hyoscyamine | Additive anticholinergic effects (dry mouth, urinary retention, constipation) |
-| Moderate | Atropine | Additive anticholinergic effects |
-| Moderate | Glycopyrronium | Additive anticholinergic effects |
-| Moderate | Glycopyrronium (topical) | Additive anticholinergic effects |
-| Moderate | Dicyclomine | Additive anticholinergic effects |
-| Moderate | Methscopolamine | Additive anticholinergic effects |
-| Moderate | Mepenzolate | Additive anticholinergic effects |
-| Moderate | Clidinium | Additive anticholinergic effects |
-| Moderate | Trospium | Additive anticholinergic effects |
-| Moderate | Morphine | Risk of enhanced CNS/respiratory depression |
-| Moderate | Morphine (liposomal) | Risk of enhanced CNS/respiratory depression |
-| Moderate | Opium | Risk of enhanced CNS/respiratory depression |
-| Moderate | Nabilone | Additive CNS depressant effects |
-| Moderate | Metoclopramide | Opposing effects on GI motility; reduced metoclopramide efficacy |
-| Moderate | Loperamide | Additive GI motility reduction |
-| Moderate | Eluxadoline | Additive GI effects |
-| Moderate | Eliglustat | Interaction potential |
-| Moderate | Glycerol phenylbutyrate | Interaction potential |
-
-> Package insert warnings and contraindications are not currently available (data gap DG001). Please refer to the official prescribing information before clinical use.
+Please refer to the package insert for the full warnings and contraindications, as these were not available for this report.
 
 ---
 
@@ -118,14 +101,14 @@ Meclizine currently has **no registered products** in India. The drug is not mar
 **Decision: Hold**
 
 **Rationale:**
-Although Meclizine's H1 antagonism provides a mechanistically coherent basis for allergic urticaria, there is a complete absence of direct clinical evidence for this specific drug in this indication, clinical guidelines actively prefer second-generation antihistamines, and the drug holds zero market authorisations in India — making a near-term repurposing pathway impractical without substantial additional investigation.
+The prediction is supported only by a high model score and class-level pharmacology, with no clinical trials or literature (Evidence Level L5). Established, better-tolerated antihistamines already exist for urticaria, and the package insert safety information was not available.
 
 **To proceed, the following is needed:**
-- Direct clinical evidence (even pilot or observational studies) comparing Meclizine to second-generation antihistamines in allergic urticaria
-- Identification of a specific patient subgroup where Meclizine's sedating or anticholinergic profile might confer a clinical advantage (e.g., urticaria with concurrent sleep disturbance)
-- Formal MOA documentation from DrugBank (data gap DG002 — currently unresolved)
-- Retrieval of CDSCO package insert for complete warnings and contraindications (data gap DG001 — blocking severity)
-- Market feasibility analysis for India entry given zero existing regulatory footprint
+- Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- A literature search for any meclizine data in allergic, chronic, or physical (including cold) urticaria. Cold urticaria is the best-supported candidate for follow-up.
+- A comparison against second-generation antihistamines to determine whether meclizine adds value
+- A specific condition definition if "nasal cavity disease" is to be pursued
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Clemastine
-parent: High Evidence (L1-L2)
-nav_order: 190
-evidence_level: L2
+parent: Moderate Evidence (L3-L4)
+nav_order: 191
+evidence_level: L4
 indication_count: 6
 ---
 
 # Clemastine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **6** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,9 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Clemastine is a first-generation H1-antihistamine traditionally used to control allergic rhinitis and related allergic symptoms. The TxGNN model's top-ranked prediction reinforces its effectiveness for **Allergic Urticaria**, supported by **0 clinical trials** and **13 publications**, though the underlying mechanism is a well-established antihistamine effect rather than a truly novel repurposing pathway.
+Clemastine is a first-generation H1 antihistamine, originally used for allergic rhinitis, vasomotor rhinitis, conjunctivitis, urticaria and related allergic conditions.
+The TxGNN model predicts it may be effective for **allergic urticaria**, but there are **no registered clinical trials** and the **10 publications** compiled are mostly indirect, class-level reviews or older reports.
+Urticaria is already among clemastine's known indications, so this prediction reflects existing use rather than a distinct new repurposing opportunity.
 
 ---
 
@@ -41,23 +43,25 @@ Clemastine is a first-generation H1-antihistamine traditionally used to control 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the evidence pack's regulatory dataset (Clemastine is a classical first-generation H1-antihistamine used for allergic rhinitis and related allergic conditions) |
-| Predicted New Indication | Allergic Urticaria |
+| Original Indication | Allergic rhinitis (other listed original indications: vasomotor rhinitis, pharyngitis, common cold, conjunctivitis, urticaria, angioedema) |
+| Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L2 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 3 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Clemastine is not available in the evidence pack (flagged as a High-severity data gap). Based on generally known pharmacology, Clemastine is an ethanolamine-derivative, first-generation H1-receptor antagonist. It blocks histamine-mediated vasodilation, increased vascular permeability, and pruritus caused by mast cell/basophil degranulation — the core pathological mechanism underlying urticaria.
+Currently, detailed mechanism of action data is not available. Based on known information, clemastine is a first-generation H1 histamine receptor antagonist. Its efficacy in allergic rhinitis and related allergic conditions is established, and mechanistically it is applicable to allergic urticaria.
 
-It is important to note that this is not a novel disease-category jump: allergic urticaria has long been one of the classical, standard indications for antihistamines like clemastine (marketed historically as Tavegyl). The TxGNN prediction here largely **reconfirms an existing, well-characterized pharmacological effect** rather than proposing a mechanistically unexpected new use. This is reflected in the supporting literature, which is dominated by comparative reviews of other antihistamines (loratadine, astemizole, acrivastine) using clemastine as a benchmark comparator, plus a small number of clemastine-specific clinical reports.
+In urticaria, mast cell degranulation releases histamine, which causes wheals, flare and itching. Blocking the H1 receptor reduces these histamine-mediated effects. Allergic urticaria is therefore very close to clemastine's known indications, and the high model score likely reflects this overlap.
 
-By contrast, the model's lower-ranked predictions (e.g., cold urticaria at rank 2, evidence level L3) extend into more specific subtypes with thinner direct evidence, and the remaining candidates (nasal cavity disease, acute laryngopharyngitis, recalcitrant atopic dermatitis, atopic IgE responsiveness) have no supporting trials or literature at all (evidence level L5) and are not recommended for further action at this time.
+The related prediction, cold urticaria (score 99.95%), follows the same logic. It is a physical urticaria driven by histamine release, so H1 blockade is plausible, but no controlled clemastine-specific data were identified.
+
+Other predictions (nasal cavity disease, acute laryngopharyngitis, recalcitrant atopic dermatitis, atopic IgE responsiveness) have no supporting trials or literature. Most overlap with existing indications or rest on the model score alone.
 
 ---
 
@@ -71,48 +75,56 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6119852](https://pubmed.ncbi.nlm.nih.gov/6119852/) | 1981 | Comparative Cohort | Wisconsin Medical Journal | Direct patient evaluation of clemastine fumarate compared with other antihistamines (highest-tier clemastine-specific evidence in this set) |
-| [40055203](https://pubmed.ncbi.nlm.nih.gov/40055203/) | 2025 | Review | Naunyn-Schmiedeberg's Arch Pharmacol | Patent-landscape review (2015-2024) confirming clemastine's traditional role in allergic rhinitis/urticaria and noting emerging non-antihistaminergic applications |
-| [4152119](https://pubmed.ncbi.nlm.nih.gov/4152119/) | 1971 | Clinical Report | Therapia Hungarica | Early clinical introduction of clemastine (Tavegyl) for allergic diseases including urticaria |
-| [6230808](https://pubmed.ncbi.nlm.nih.gov/6230808/) | 1984 | Case Report | Vestnik Dermatologii i Venerologii | Documents an allergic reaction to Tavegyl (clemastine) itself — relevant safety signal |
-| [19739446](https://pubmed.ncbi.nlm.nih.gov/19739446/) | 2009 | Commentary | Läkartidningen | Notes that documentation for acute clemastine (Tavegyl) treatment is limited, highlighting an evidence gap |
-| [1715267](https://pubmed.ncbi.nlm.nih.gov/1715267/) | 1991 | Review | Drugs | Acrivastine review reporting clemastine as similarly effective to comparator antihistamines in chronic urticaria and allergic rhinitis |
-| [2873823](https://pubmed.ncbi.nlm.nih.gov/2873823/) | 1986 | Cohort | Asian Pac J Allergy Immunol | Epidemiological study of urticaria in Thai children, providing disease background context |
-| [7528133](https://pubmed.ncbi.nlm.nih.gov/7528133/) | 1994 | Review | Drugs | Loratadine review listing clemastine among antihistamines with demonstrated efficacy in urticaria |
-| [2523301](https://pubmed.ncbi.nlm.nih.gov/2523301/) | 1989 | Review | Drugs | Loratadine review confirming clemastine's established efficacy in chronic urticaria |
-| [2859711](https://pubmed.ncbi.nlm.nih.gov/2859711/) | 1985 | Review | Z Hautkrankheiten | Global astemizole trial review using clemastine as a classical comparator in chronic urticaria |
+| [6119852](https://pubmed.ncbi.nlm.nih.gov/6119852/) | 1981 | Patient evaluation / comparative report | Wisconsin Medical Journal | Patient evaluation of clemastine fumarate compared with other antihistamines (no abstract available) |
+| [1715267](https://pubmed.ncbi.nlm.nih.gov/1715267/) | 1991 | Review (indirect) | Drugs | Acrivastine review; in seasonal allergic rhinitis it was similar in efficacy to clemastine or terfenadine, and it was effective in chronic urticaria |
+| [7528133](https://pubmed.ncbi.nlm.nih.gov/7528133/) | 1994 | Review (indirect) | Drugs | Loratadine review; as effective as several antihistamines, including clemastine, in allergic disorders |
+| [2523301](https://pubmed.ncbi.nlm.nih.gov/2523301/) | 1989 | Review (indirect) | Drugs | Loratadine review; effective in allergic rhinitis and chronic urticaria, superior to placebo |
+| [2859711](https://pubmed.ncbi.nlm.nih.gov/2859711/) | 1985 | Review (indirect) | Zeitschrift fur Hautkrankheiten | Astemizole worldwide review; effective in chronic urticaria and allergic rhinitis, and superior to classical antihistamines including clemastine |
+| [2873823](https://pubmed.ncbi.nlm.nih.gov/2873823/) | 1986 | Cohort / descriptive | Asian Pac J Allergy Immunol | 142 Thai children with urticaria; describes causes and features of the disease |
+| [40055203](https://pubmed.ncbi.nlm.nih.gov/40055203/) | 2025 | Review (patents) | Naunyn-Schmiedeberg's Arch Pharmacol | Recent patents on clemastine, covering potential uses beyond antihistamine action (neurodegenerative, cardiovascular, cancer) |
+| [6209972](https://pubmed.ncbi.nlm.nih.gov/6209972/) | 1984 | Clinical review / observational | Allergologia et Immunopathologia | Cold urticaria: ketotifen and clemastine compared in a double-blind crossover in 52 patients |
+| [19739446](https://pubmed.ncbi.nlm.nih.gov/19739446/) | 2009 | Commentary | Lakartidningen | Commentary noting that documentation for acute clemastine treatment is lacking |
+
+The most relevant item for cold urticaria is PMID 6209972, a 1984 crossover comparison of ketotifen and clemastine. Most of the other literature supports class-level antihistamine efficacy only. Two anaphylaxis case reports in the data set were judged not relevant and are omitted.
 
 ---
 
 ## India Market Information
 
-Clemastine currently has no registered products in India (0 licenses on record; market status: Not Marketed). No authorization data is available to tabulate.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 221649 | Taregyl 0.5mg Syrup | Bottle of 30 ml syrup | Not listed |
+| 220627 | Tavegyl Children Syrup | Bottle of 60 ml syrup | Not listed |
+| 219496 | Taregyl 1mg Tablet | Strip of 10 tablets | Not listed |
+
+All three registrations are single-ingredient products from Novartis India Ltd and are currently valid.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**: The DDI database records 297 total documented interactions for Clemastine. Representative interactions include:
+- **Disease-level cautions (from the knowledge graph, not label text)**: Clemastine is flagged as potentially unsuitable in hypertension, peptic ulcer disease, benign prostatic hyperplasia, ocular hypertension, angle-closure glaucoma, hyperthyroidism (including Graves disease and thyrotoxicosis) and bladder neck obstruction. These are consistent with the anticholinergic properties of first-generation antihistamines.
+- **Drug Interactions**: 297 interactions were identified.
+  - **Major**: potassium chloride and potassium citrate.
+  - **Moderate** (examples): anticholinergics (atropine, hyoscyamine, scopolamine, glycopyrronium, dicyclomine), opioids and related drugs (morphine, loperamide, opium, eluxadoline), cannabinoids (dronabinol, nabilone) and metoclopramide. Additive anticholinergic and central nervous system depressant effects are the likely concern.
 
-- **Major**: Potassium citrate, Potassium chloride (anticholinergic slowing of GI transit may increase risk of mucosal irritation from oral potassium salts)
-- **Moderate**: Multiple opioids and anticholinergic/antimuscarinic agents — Hyoscyamine, Loperamide, Morphine (including liposomal), Atropine, Glycopyrronium (systemic and topical), Clidinium, Dicyclomine, Dronabinol, Eluxadoline, Mepenzolate, Methscopolamine, Metoclopramide, Nabilone, Opium, Propantheline, Scopolamine — generally reflecting additive anticholinergic effects and/or additive CNS/GI depression
-
-Detailed key warnings and contraindications are not available in the current evidence pack (flagged as a Blocking-severity data gap); please refer to the official package insert once obtained.
+Please refer to the package insert for official warnings and contraindications, which were not available in the data compiled for this report.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic basis is strong and well-precedented — clemastine's H1-antagonism is a textbook mechanism for treating urticaria — but this is confirmatory rather than novel, no dedicated clinical trials exist for this indication, and critical safety documentation (TFDA/CDSCO label warnings and contraindications) is currently a blocking data gap. Combined with the drug's non-marketed status in India, guardrails are warranted before any indication-expansion or market-entry action.
+Allergic urticaria is already an established use of clemastine, so this is not a true repurposing opportunity. The supporting evidence is limited to indirect class-level reviews and older reports, with no registered trials (Evidence Level L4). The other predicted indications have no supporting evidence (L5).
 
 **To proceed, the following is needed:**
-- Official India (CDSCO) package insert/label warnings and contraindications (DG001, Blocking)
-- Confirmed mechanism of action documentation from DrugBank or equivalent source (DG002, High)
-- Assessment of whether India market entry/registration is planned or feasible, given current "Not Marketed" status
-- If pursuing further, a targeted literature/trial search specifically on clemastine efficacy in urticaria (rather than as a comparator in other antihistamines' trials) to strengthen the evidence level beyond L2
+- Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)
+- Approved indication text for the three Indian registrations, to confirm whether urticaria is on-label
+- Mechanism of action data from DrugBank
+- Clemastine-specific controlled studies in allergic or cold urticaria, if a new-indication claim is pursued
+- A review of the anticholinergic-related cautions and interactions for the intended patient population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

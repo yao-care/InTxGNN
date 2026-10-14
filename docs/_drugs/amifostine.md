@@ -29,90 +29,97 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Amifostine: From Cancer Chemo/Radioprotection to Hypertensive Disorder
+# Amifostine: From Cytoprotection in Cancer Therapy to Hypertensive Disorder
 
 ## One-Sentence Summary
 
-Amifostine (WR-2721) is a cytoprotective prodrug approved for reducing normal tissue damage from cisplatin chemotherapy and head and neck radiotherapy.
-The TxGNN model predicts it may be relevant to **Hypertensive Disorder** (score: 99.995%), but a **⚠️ critical reverse warning applies**: amifostine's most common serious clinical side effect is **transient hypotension**, creating a direct mechanistic contradiction against its use for treating hypertension.
-Currently **0 clinical trials** and **11 publications** exist for this pairing, and none directly support amifostine as a treatment for hypertension.
+Amifostine is a cytoprotective agent used alongside chemotherapy and radiotherapy to protect normal tissues from treatment toxicity.
+The TxGNN model predicts it may be effective for **hypertensive disorder**, but this is a model prediction only: **no clinical trials** are registered for this indication, and the **9 publications** retrieved are indirect (preclinical or oncology-supportive-care studies).
+Amifostine can itself cause hypotension, which makes this prediction hard to justify.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Cancer cytoprotection (cisplatin-induced nephrotoxicity prevention; radiation-induced xerostomia reduction) |
-| Predicted New Indication | Hypertensive Disorder |
+|------|------|
+| Original Indication | Not stated in the available licence records (the drug is known as a cytoprotectant in cancer therapy) |
+| Predicted New Indication | Hypertensive disorder |
 | TxGNN Prediction Score | 99.995% |
-| Evidence Level | L5 (model prediction only — no directly supporting studies) |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 (preclinical and mechanistic literature only; no direct studies) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 8 |
 | Recommended Decision | Hold |
 
 ---
 
-## Why This Prediction Was Made — and Why It Has Limitations
+## Why is This Prediction Reasonable?
 
-Amifostine is a phosphorylated aminothiol prodrug converted to its active metabolite **WR-1065** by alkaline phosphatase, an enzyme more highly expressed in normal tissues than in tumors. WR-1065 is a potent free radical scavenger that selectively shields normal cells from oxidative DNA damage caused by radiation and alkylating chemotherapy. It is approved for (1) prevention of cumulative cisplatin-induced renal toxicity and (2) reduction of moderate-to-severe xerostomia in post-operative head and neck cancer radiotherapy.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on published literature, amifostine is a thiophosphate prodrug. It is dephosphorylated to an active thiol that scavenges free radicals and protects normal tissue from radiation and chemotherapy damage.
 
-Critically, **transient hypotension is amifostine's most common clinically significant side effect**, occurring in up to 60% of patients and requiring pre-hydration, supine positioning, and temporary treatment suspension protocols. This well-established pharmacological property — blood pressure reduction — creates a **direct mechanistic contradiction** against using amifostine to treat hypertension.
+The link to hypertension is weak and indirect. The retrieved papers describe protection against doxorubicin cardiotoxicity in hypertensive rats, renal protection during radionuclide therapy, and chemotherapy-induced (mitomycin, cisplatin) pulmonary vascular injury. These point to a general organ-protective role, not to blood-pressure-lowering or treatment of hypertension.
 
-The TxGNN prediction most likely reflects knowledge graph topology rather than a genuine therapeutic opportunity. One literature study (PMID 40479584) links the Fanconi anemia complementation group L (FANCL) pathway to pulmonary arterial hypertension via endothelial DNA damage — and amifostine's mechanism involves DNA damage prevention — creating an indirect graph node connection. However, this chain of inference is highly speculative and does not translate into a clinically actionable hypothesis. The 99.995% score reflects graph connectivity, not biological plausibility for this indication.
+There is also a safety conflict. Amifostine commonly causes transient hypotension, so any use in hypertension would need to be carefully justified. The very high TxGNN score (0.99995) reflects a model prediction and does not replace clinical evidence.
+
+Other predictions from the model include alopecia, several forms of pulmonary hypertension, malignant renovascular hypertension, and rare hair disorders. All are at L4 or L5 evidence, and all are on Hold.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for amifostine in hypertensive disorder.
+Currently no related clinical trials are registered for this indication.
 
 ---
 
 ## Literature Evidence
 
-The 11 retrieved publications describe amifostine in oncology cytoprotection contexts; none directly investigate amifostine as a treatment for hypertension.
-
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [10755322](https://pubmed.ncbi.nlm.nih.gov/10755322/) | 2000 | RCT (cytoprotection) | Cancer Chemother Pharmacol | Compared amifostine vs. dexrazoxane for doxorubicin-induced cardiotoxicity using spontaneously hypertensive rats as an animal model — these are **not hypertension treatment studies** but cardiotoxicity protection studies |
-| [11335791](https://pubmed.ncbi.nlm.nih.gov/11335791/) | 2001 | Cohort Study | Anti-Cancer Drugs | Tolerability of amifostine in elderly vs. younger cancer patients (268 IV administrations); **transient hypotension confirmed as the most common side effect** |
-| [15560691](https://pubmed.ncbi.nlm.nih.gov/15560691/) | 2004 | Phase II Trial | J Med Assoc Thailand | Cisplatin-vinblastine + amifostine in advanced NSCLC; assessed whether amifostine reduces cisplatin toxicity without compromising antitumor efficacy |
-| [6286554](https://pubmed.ncbi.nlm.nih.gov/6286554/) | 1982 | Early Phase Trial | Int J Radiat Oncol Biol Phys | Phase I trials of WR-2721 with radiation therapy in 65 patients; established 740 mg/m² as well-tolerated single dose |
-| [6274534](https://pubmed.ncbi.nlm.nih.gov/6274534/) | 1981 | Phase I Trial | Cancer Clin Trials | Three Phase I trials of WR-2721 with radiation and alkylating agents (cyclophosphamide, cisplatin); maximum tolerated dose determination |
-| [19395196](https://pubmed.ncbi.nlm.nih.gov/19395196/) | 2009 | Cohort Study | Int J Radiat Oncol Biol Phys | Evaluated moderate wine consumption as a natural alternative to amifostine for radioprotection in breast cancer; amifostine noted for high cost and significant side effects |
-| [27855533](https://pubmed.ncbi.nlm.nih.gov/27855533/) | 2016 | Preclinical | Drug Delivery | Sustained-release microsphere formulation of amifostine to reduce injection frequency and blood-concentration-dependent side effects including hypotension |
-| [19915842](https://pubmed.ncbi.nlm.nih.gov/19915842/) | 2010 | Review | Eur J Nucl Med Mol Imaging | Review of kidney protection strategies during peptide receptor radionuclide therapy; amifostine mentioned as one nephroprotective option |
-| [40479584](https://pubmed.ncbi.nlm.nih.gov/40479584/) | 2025 | Mechanistic Study | Am J Respir Crit Care Med | FANCL pathway deficiency linked to pulmonary arterial hypertension via endothelial DNA damage — likely the knowledge graph source for TxGNN's prediction; amifostine is not studied as a therapeutic agent in this paper |
-| [26130118](https://pubmed.ncbi.nlm.nih.gov/26130118/) | 2015 | Case Series/Review | Circulation | Mitomycin C-induced pulmonary veno-occlusive disease; chemotherapy identified as a risk factor for PH — peripherally related to hypertension by drug-induced pathway, not amifostine treatment |
+|------|-----|------|------|---------|
+| [11335791](https://pubmed.ncbi.nlm.nih.gov/11335791/) | 2001 | Clinical tolerability study | Anti-Cancer Drugs | Compared amifostine side effects in patients aged 70 and over with younger patients; transient hypotension was the most common side effect |
+| [15560691](https://pubmed.ncbi.nlm.nih.gov/15560691/) | 2004 | Phase 2 | J Med Assoc Thai | Cisplatin-vinblastine with amifostine in advanced non-small cell lung cancer, testing toxicity reduction without loss of efficacy |
+| [10755322](https://pubmed.ncbi.nlm.nih.gov/10755322/) | 2000 | Preclinical | Cancer Chemother Pharmacol | Compared amifostine and dexrazoxane against doxorubicin toxicity in spontaneously hypertensive rats |
+| [19915842](https://pubmed.ncbi.nlm.nih.gov/19915842/) | 2010 | Review | Eur J Nucl Med Mol Imaging | Kidney protection during peptide receptor radionuclide therapy |
+| [26130118](https://pubmed.ncbi.nlm.nih.gov/26130118/) | 2015 | Human disease and animal models | Circulation | Mitomycin-induced pulmonary veno-occlusive disease |
+| [40479584](https://pubmed.ncbi.nlm.nih.gov/40479584/) | 2025 | Preclinical | Am J Respir Crit Care Med | FANCL deficiency and endothelial damage in alkylating-agent-associated pulmonary hypertension |
+| [42850567](https://pubmed.ncbi.nlm.nih.gov/42850567/) | 2026 | Preclinical | Adv Sci (Weinh) | Alkylating-agent-induced FANCL impairment damages pulmonary vascular endothelium |
+| [27855533](https://pubmed.ncbi.nlm.nih.gov/27855533/) | 2016 | Preclinical | Drug Delivery | Sustained-release amifostine microspheres for radioprotection with fewer side effects |
+| [19395196](https://pubmed.ncbi.nlm.nih.gov/19395196/) | 2009 | Cohort | Int J Radiat Oncol Biol Phys | Wine as a radioprotective agent in breast cancer; amifostine is mentioned only as a costly comparator |
+
+None of these studies tested amifostine as a treatment for hypertension.
 
 ---
 
 ## India Market Information
 
-Amifostine is currently **not marketed in India** and has no registered product licenses on file.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 13570 | Amiget 500mg Injection | Vial of 5 ml injection | Not stated |
+| 14477 | Amiphos 500mg Injection | Vial of 1 injection | Not stated |
+| 145409 | M-Fost 500mg Injection | Vial of 1 injection | Not stated |
+| 157917 | Natfost 500mg Injection | Vial of 1 injection | Not stated |
+| 54035 | Chemophos 500mg Injection | Vial of 1 injection | Not stated |
+
+There are 8 valid single-ingredient registrations in total, all injectables.
+
+---
+
+## Cytotoxicity
+
+Amifostine is a cytoprotectant used with cytotoxic therapy, not a cytotoxic drug itself, so this section is omitted.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions (134 total identified; key interactions listed below):**
+- **Hypotension**: Transient hypotension is the most common side effect reported in the literature (PMID 11335791). This is a direct concern for any use in hypertensive patients.
+- **Knowledge-graph contraindication signals** (from drug-disease links in the TxGNN knowledge graph, not label text): hypotensive disorder, hypercalcaemia, nephrocalcinosis, phosphorus metabolism disease, stroke and cerebrovascular disorders, cerebral infarction, sudden cardiac arrest, heart conduction disease, myocardial ischaemia, coronary artery disease, transient ischaemic attack and vertebrobasilar insufficiency.
+- **Drug Interactions**: 134 interactions were identified. Moderate-level interactions include:
+  - Antihypertensives and vasodilators: acebutolol, nifedipine, fosinopril, aliskiren, alfuzosin, hydrochlorothiazide, amiloride, papaverine
+  - Others: furosemide, mannitol, foscarnet
 
-A particularly important pattern in the interaction data is that amifostine carries moderate-level interactions with **multiple antihypertensive drug classes**. Concurrent use would risk additive hypotension — further reinforcing that this drug is unsuitable for use in hypertensive patients rather than offering therapeutic benefit.
+  Many interactions are of unknown severity, including pantoprazole, omeprazole, simvastatin, granisetron, ondansetron, aspirin, metoclopramide, dexamethasone and bupropion. Additive hypotension with antihypertensives is a particular concern.
 
-| Interacting Drug | Level | Clinical Concern |
-|-----------------|-------|-----------------|
-| Acebutolol (beta-blocker) | Moderate | Additive hypotension risk |
-| Nifedipine (calcium channel blocker) | Moderate | Additive hypotension risk |
-| Fosinopril (ACE inhibitor) | Moderate | Additive hypotension risk |
-| Furosemide (loop diuretic) | Moderate | Additive hypotension/fluid depletion risk |
-| Alfuzosin (alpha-blocker) | Moderate | Additive hypotension risk |
-| Aliskiren (direct renin inhibitor) | Moderate | Additive hypotension risk |
-| Hydrochlorothiazide (thiazide diuretic) | Moderate | Additive hypotension risk |
-| Amiloride (potassium-sparing diuretic) | Moderate | Additive hypotension risk |
-| Mannitol | Moderate | Additive hypotension/fluid balance alteration |
-| Papaverine | Moderate | Additive vasodilatory / hypotensive effects |
-| Foscarnet | Moderate | Renal and electrolyte monitoring required |
+Package insert warnings and contraindications were not available for this report, so please refer to the package insert for full safety information.
 
 ---
 
@@ -121,15 +128,14 @@ A particularly important pattern in the interaction data is that amifostine carr
 **Decision: Hold**
 
 **Rationale:**
-Amifostine's established clinical pharmacology directly contradicts its use in hypertension: transient hypotension is its most common serious side effect, evidence is L5 (model prediction only) with zero clinical trials for this indication, and its interaction profile with standard antihypertensive drug classes creates compounding hypotensive risk rather than therapeutic synergy. The TxGNN high score likely reflects knowledge graph connectivity artifacts rather than a genuine repurposing signal.
+The prediction rests on a model score alone. No clinical trials exist, the literature is indirect, and amifostine's known hypotensive effect and cardiovascular contraindication signals run against use in hypertension.
 
-**To revisit this prediction, the following would first be required:**
-- A clearly articulated mechanistic hypothesis that resolves the fundamental contradiction between amifostine's blood-pressure-lowering side effect and its proposed antihypertensive use
-- Exploratory preclinical studies specifically examining amifostine in hypertension models (currently absent in the literature)
-- Confirmation that the TxGNN graph node connection via FANCL/PAH represents a true mechanistic pathway rather than a graph traversal artifact
-- Assessment of whether a structurally modified derivative of amifostine (without the hypotensive pharmacology) might retain any potential hypertension-relevant activity
-
-> **Disclaimer:** This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+**To proceed, the following is needed:**
+- Package insert warnings, contraindications and approved indications for the Indian products
+- Detailed mechanism of action data
+- Direct preclinical evidence of a blood-pressure-lowering or vascular-protective effect
+- A safety assessment of the hypotension risk and of interactions with antihypertensive drugs
+- A better-supported alternative to evaluate, such as chemotherapy-induced alopecia, which has plausible but still indirect support (full-text review of toxicity outcomes in the oncology trials is needed)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

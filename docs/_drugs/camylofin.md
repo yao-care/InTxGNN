@@ -29,78 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Camylofin: From Antispasmodic to Insomnia
+# Camylofin: From Antispasmodic Use to Insomnia
 
 ## One-Sentence Summary
 
-Camylofin is an anticholinergic/antispasmodic agent known primarily for peripheral smooth muscle relaxation.
-The TxGNN model predicts it may be effective for **Insomnia**,
-with a high prediction score of **99.39%**, however **no clinical trials and no published literature** currently support this direction.
-
----
+Camylofin is an antispasmodic that is currently marketed in India in many single-ingredient products, although the data compiled for this report do not include an approved indication text.
+The TxGNN model predicts it may be effective for **insomnia**, but there are currently **no clinical trials and no publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Antispasmodic / smooth muscle relaxation (no formal registration on record) |
-| Predicted New Indication | Insomnia (disease) |
+|------|------|
+| Original Indication | Not stated in the licence data (the drug is generally known as an antispasmodic) |
+| Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.39% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Camylofin is classified as an anticholinergic and antispasmodic drug, acting primarily by blocking muscarinic receptors in peripheral smooth muscle to reduce spasms. Its established use in gastrointestinal and genitourinary conditions is well within this peripheral mechanism.
+Currently, detailed mechanism of action data is not available. Based on general background knowledge (not part of the data compiled for this report), camylofin is an antispasmodic that combines anticholinergic (antimuscarinic) activity with direct smooth-muscle relaxation. Its use in smooth-muscle spasm is the likely original context, but no approved indication text was recorded in the licence data.
 
-The mechanistic link to insomnia is indirect: central M1 muscarinic receptors play a role in regulating sleep architecture, particularly REM sleep suppression. In theory, drugs with anticholinergic properties could influence sleep-wake cycles via central pathways. However, Camylofin's CNS penetration has not been documented in available literature, and its primary pharmacological profile is peripheral rather than central.
-
-The TxGNN high score (0.9939) likely reflects the presence of an "anticholinergic ↔ sleep regulation" indirect edge in the knowledge graph, representing an algorithmic inference rather than direct pharmacological evidence. With the MOA field currently unavailable ([Data Gap]), mechanistic confirmation is not possible at this stage. This prediction should be treated as a hypothesis-generating signal only.
-
----
+The link to insomnia is speculative. Central anticholinergic effects could in theory cause sedation, but they could equally impair cognition or worsen sleep quality. No mechanistic, clinical, or literature evidence in the compiled data confirms a benefit. The high TxGNN score (99.39%) is a model-based prediction only and should be treated as a hypothesis to test, not as proof of efficacy.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
-Camylofin is currently **not marketed in India**. No drug licenses or registrations are on record.
+Camylofin is registered in India under 20 valid single-ingredient licences (no cancelled licences). The licence data contain no approved indication text. Five main authorizations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 498 | Anaspas 25mg Injection (Abbott) | Vial of 2 ml injection | Not stated |
+| 25919 | Bigspas-P Tablet (Mankind Pharma Ltd) | Strip of 10 tablets | Not stated |
+| 41 | Anafortan 25 mg/300 mg Tablet (Abbott) | Strip of 15 tablets | Not stated |
+| 27172 | Bigspas 50mg Injection (Mankind Pharma Ltd) | Vial of 1 ml injection | Not stated |
+| 42154 | Camifort Suspension (Intel Pharmaceuticals) | Bottle of 30 ml suspension | Not stated |
+
+Available dosage forms include injections, tablets, and oral suspensions.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found for this drug in the data compiled for this report, and no disease contraindications were identified in the knowledge graph.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction score is high (99.39%), but this is model prediction only (Evidence Level L5) with zero supporting clinical trials or published literature. Critical data on MOA, safety warnings, and contraindications are missing, making it impossible to assess feasibility or risk at this stage.
+The only support for insomnia is a model prediction (L5), with no clinical trials or publications. The mechanism is unconfirmed, and the anticholinergic activity could plausibly worsen rather than improve sleep. Package insert safety information is also missing.
 
 **To proceed, the following is needed:**
-
-- **MOA clarification**: Query DrugBank API (DB13738) to confirm Camylofin's mechanism of action and CNS penetration profile
-- **Safety data**: Retrieve prescribing information / package insert to obtain key warnings and contraindications
-- **Literature search expansion**: Broaden PubMed search to include Camylofin + sleep, sedation, or CNS effects (not limited to insomnia)
-- **Mechanistic plausibility review**: Assess blood-brain barrier permeability and central M1 receptor binding data before any clinical hypothesis is formed
-- **Regulatory pathway check**: Determine whether Camylofin holds any marketing authorization in any jurisdiction (EU, US, Japan) to establish a safety baseline
+- Package insert warnings and contraindications from the India Pharma website (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank to assess a plausible link to insomnia
+- Confirmed original indication from the licence or label
+- A targeted literature and trial search for camylofin and sleep outcomes
+- Preclinical or early-phase evidence of benefit, with attention to central anticholinergic effects on cognition and sleep quality
+- Assessment of route compatibility and similarity to the original indication (currently pending)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

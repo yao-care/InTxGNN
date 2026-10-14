@@ -2,7 +2,7 @@
 layout: default
 title: Sulbactam
 parent: Moderate Evidence (L3-L4)
-nav_order: 788
+nav_order: 795
 evidence_level: L3
 indication_count: 1
 ---
@@ -29,87 +29,88 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Sulbactam: From Bacterial Infections to Bacterial Arthritis
+# Sulbactam: From Bacterial Infections (Staphylococcal and E. coli) to Bacterial Arthritis
 
 ## One-Sentence Summary
 
-Sulbactam is a beta-lactamase inhibitor conventionally combined with ampicillin (ampicillin/sulbactam) for treatment of susceptible bacterial infections.
-The TxGNN model predicts it may be effective for **Bacterial Arthritis**,
-with **no registered clinical trials** but **20 supporting publications**, several of which directly describe ampicillin/sulbactam use in septic arthritis.
-
----
+Sulbactam is a beta-lactamase inhibitor, originally used against infections such as staphylococcal and *Escherichia coli* infections and cholangitis.
+The TxGNN model predicts it may be effective for **bacterial arthritis**, but there are **no registered clinical trials** and the literature consists of **19 publications** (mostly case reports, in vitro studies and a few older small clinical studies).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No India-approved indication on record — Sulbactam is not individually marketed in India; it is conventionally combined with ampicillin for susceptible bacterial infections |
-| Predicted New Indication | Bacterial Arthritis |
+| Original Indication | Staphylococcus aureus infection, *Escherichia coli* infection, cholangitis (from the knowledge graph; the Indian licence records contain no indication text) |
+| Predicted New Indication | Bacterial arthritis |
 | TxGNN Prediction Score | 99.79% |
 | Evidence Level | L3 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 10 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Sulbactam is not available. Based on known pharmacology, Sulbactam is a beta-lactamase inhibitor typically administered together with ampicillin (as ampicillin/sulbactam), which extends ampicillin's spectrum to cover beta-lactamase-producing Gram-positive and Gram-negative organisms as well as anaerobes. Its efficacy in treating susceptible bacterial infections is well established through decades of clinical use.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, sulbactam is an irreversible beta-lactamase inhibitor. It also has intrinsic activity against *Acinetobacter baumannii* through penicillin-binding protein (PBP) binding. When combined with ampicillin, it extends coverage to beta-lactamase-producing *Staphylococcus aureus*, *E. coli* and anaerobes.
 
-Bacterial (septic) arthritis is itself a bacterial infection — specifically, a joint-space infection caused by organisms such as *Staphylococcus aureus*, *Streptococcus* spp., and *Haemophilus influenzae*, all of which fall within the treatment spectrum of ampicillin/sulbactam. In this sense, the "new" indication is less a mechanistic leap and more a specific anatomical manifestation of the drug's already-established antibacterial activity.
+These organisms are common causes of bone and joint infections. The original indications (staphylococcal and *E. coli* infections) therefore overlap with the likely pathogens of bacterial arthritis, so the link is biologically plausible.
 
-This is reinforced by the literature: publications dating from 1986 through 2024 document ampicillin/sulbactam being used specifically for septic arthritis and osteomyelitis in both pediatric and adult populations, including randomized comparative studies against cefotaxime and ceftriaxone. This long clinical track record supports the biological plausibility of the TxGNN prediction, even though no dedicated randomized trial has evaluated Sulbactam solely for this indication.
-
----
+The very high TxGNN score is consistent with this overlap. It is a computational prediction, not clinical evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
+
+The publications below are those most relevant to sulbactam and bacterial arthritis. Many others in the compiled set are about septic arthritis in general or other pathogens and do not test sulbactam.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [3026009](https://pubmed.ncbi.nlm.nih.gov/3026009/) | 1986 | RCT | Reviews of Infectious Diseases | Open, randomized comparative trial: sulbactam/ampicillin vs. cefotaxime for bone, joint, and soft-tissue infections; comparable clinical cure rates at 2-week follow-up |
-| [2677956](https://pubmed.ncbi.nlm.nih.gov/2677956/) | 1989 | RCT | The Pediatric Infectious Disease Journal | Randomized 2:1 comparison of ampicillin/sulbactam vs. ceftriaxone in children with suppurative arthritis and osteomyelitis; *S. aureus* and *S. pyogenes* most common pathogens |
-| [1745624](https://pubmed.ncbi.nlm.nih.gov/1745624/) | 1991 | Review | Pharmacotherapy | Reviews in vitro activity and clinical efficacy of ampicillin-sulbactam vs. ticarcillin-clavulanate against beta-lactamase-producing pathogens |
-| [36804370](https://pubmed.ncbi.nlm.nih.gov/36804370/) | 2023 | Review | International Journal of Antimicrobial Agents | Review of off-label/formal use of conventional and novel antibiotics (including sulbactam-based combinations) against multidrug-resistant Gram-positive and Gram-negative infections |
-| [3026018](https://pubmed.ncbi.nlm.nih.gov/3026018/) | 1986 | Case series | Reviews of Infectious Diseases | Sequential parenteral sulbactam/ampicillin then oral sultamicillin in 9 children with osteomyelitis/septic arthritis; all susceptible pathogens cleared |
-| [3252119](https://pubmed.ncbi.nlm.nih.gov/3252119/) | 1988 | Case series | Mikrobiyoloji Bulteni | 84 patients with various infections, including 5 with septic arthritis/osteomyelitis, treated with parenteral ampicillin/sulbactam with favorable outcomes |
-| [16269877](https://pubmed.ncbi.nlm.nih.gov/16269877/) | 2005 | Observational study | Acta Orthopaedica et Traumatologica Turcica | Clinical/laboratory characterization of septic arthritis across age groups, establishing initial empiric antibiotic protocol |
-| [9263167](https://pubmed.ncbi.nlm.nih.gov/9263167/) | 1997 | Case report | The Journal of Rheumatology | *Pasteurella multocida* septic arthritis after cat bite successfully treated with ampicillin/sulbactam plus joint aspiration |
-| [16148860](https://pubmed.ncbi.nlm.nih.gov/16148860/) | 2005 | Case report | The Pediatric Infectious Disease Journal | *Fusobacterium necrophorum* septic arthritis in a child; recurrence despite ampicillin-sulbactam required escalation to meropenem/clindamycin |
-| [39193962](https://pubmed.ncbi.nlm.nih.gov/39193962/) | 2024 | Observational study | Clinical Laboratory | Pathogen distribution and antimicrobial resistance patterns in pediatric bone and joint infections, informing empiric beta-lactam/beta-lactamase-inhibitor selection |
+| [2677956](https://pubmed.ncbi.nlm.nih.gov/2677956/) | 1989 | Randomized comparative study | Pediatr Infect Dis J | Ampicillin/sulbactam vs ceftriaxone in children with soft tissue infections (105), suppurative arthritis (11) and osteomyelitis (9) |
+| [3026009](https://pubmed.ncbi.nlm.nih.gov/3026009/) | 1986 | Open randomized comparative study | Rev Infect Dis | Sulbactam/ampicillin (13 patients) vs cefotaxime (9 patients) for bone, joint and soft-tissue infections; clinical cure or improvement reported in all 13 sulbactam/ampicillin patients |
+| [3026018](https://pubmed.ncbi.nlm.nih.gov/3026018/) | 1986 | Clinical study | Rev Infect Dis | Nine children with osteomyelitis and/or septic arthritis treated sequentially with parenteral sulbactam/ampicillin then oral sultamicillin; all identified pathogens were susceptible |
+| [3252119](https://pubmed.ncbi.nlm.nih.gov/3252119/) | 1988 | Clinical trial | Mikrobiyol Bul | 84 patients with various infections (including 5 with septic arthritis or osteomyelitis) treated with ampicillin and sulbactam |
+| [9263167](https://pubmed.ncbi.nlm.nih.gov/9263167/) | 1997 | Case report | J Rheumatol | *Pasteurella multocida* arthritis with gout after a cat bite, resolved with ampicillin/sulbactam, aspiration and intra-articular steroids |
+| [1745624](https://pubmed.ncbi.nlm.nih.gov/1745624/) | 1991 | In vitro comparison / review | Pharmacotherapy | Ampicillin-sulbactam vs ticarcillin-clavulanate: in vitro activity and clinical efficacy review |
+| [36804370](https://pubmed.ncbi.nlm.nih.gov/36804370/) | 2023 | Review | Int J Antimicrob Agents | Off-label use vs formal recommendations of antibiotics for multidrug-resistant bacterial infections |
+| [39193962](https://pubmed.ncbi.nlm.nih.gov/39193962/) | 2024 | Retrospective epidemiology | Clin Lab | Pathogen distribution and antimicrobial resistance in bone and joint infections in children under four |
+| [33606293](https://pubmed.ncbi.nlm.nih.gov/33606293/) | 2021 | In vitro / preclinical | Vet Surg | Cytotoxicity of antibiotics to canine chondrocytes and synoviocytes |
+| [36550469](https://pubmed.ncbi.nlm.nih.gov/36550469/) | 2022 | Case report | BMC Infect Dis | Hyperammonemia in a septic patient with *Ureaplasma parvum* arthritis |
 
----
+The supporting clinical studies are small, old (1986–1989) and mostly paediatric. Several are open or of uncertain design and involve the ampicillin/sulbactam combination, not sulbactam alone.
 
 ## India Market Information
 
-Currently no marketing authorization registered in India.
+Approved indication text is not recorded in the licence data. All 10 registrations are valid single-ingredient injections.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 20197 | Addbactam 2gm Injection (Fusion Healthcare) | Vial of 1 injection | Not recorded |
+| 146022 | Marzon SB 2000mg Injection (Eris Lifesciences) | Vial of 1 injection | Not recorded |
+| 207743 | Sulbamed 1000mg Injection (United Biotech) | Vial of 1 injection | Not recorded |
+| 143500 | Marzon SB 1000mg Injection (Eris Lifesciences) | Vial of 1 injection | Not recorded |
+| 205473 | Sulbamax 1gm Injection (Astaris Lifesciences) | Vial of 1 injection | Not recorded |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: kidney disease, pyoureter, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, infectious mononucleosis, chronic Epstein-Barr virus infection syndrome.
 
----
+No drug interaction records were found. Please refer to the package insert for other safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Sulbactam has no marketing authorization in India, and critical safety data (contraindications, warnings, local label text) remains an unresolved blocking gap, preventing safety evaluation. While the TxGNN score is high and decades of literature (including two randomized comparative trials) support ampicillin/sulbactam's real-world use in septic/bacterial arthritis, the lack of registered clinical trials specific to this indication and the absence of India market presence limit near-term actionability.
+The prediction is mechanistically plausible, and older small studies of ampicillin/sulbactam in bone and joint infections are supportive. However, there are no registered trials, the supporting studies are small, dated and involve the combination product, and the package insert safety data and MOA data are missing. This is best treated as a research question for now.
 
 **To proceed, the following is needed:**
-- India-specific package insert/label documentation to resolve the blocking safety data gap (DG001)
-- Formal mechanism of action documentation from DrugBank (DG002)
-- Assessment of regulatory pathway/feasibility for registering a currently non-marketed drug in India
-- Search for any registered interventional trials (ClinicalTrials.gov/ICTRP) evaluating ampicillin/sulbactam specifically for septic/bacterial arthritis
+- Package insert warnings and contraindications from Indian regulatory sources (a blocking gap for safety screening)
+- Mechanism of action data (for example, from DrugBank)
+- Approved indication text for the Indian licences, to confirm whether bone and joint infections are already covered
+- Review of the full text of the 1986–1989 comparative studies to confirm design and outcomes specific to septic arthritis
+- Current susceptibility data for the main arthritis pathogens in India
+- Route and dosing compatibility assessment for joint infection (sulbactam is available in India only as an injection)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

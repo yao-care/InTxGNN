@@ -29,91 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Calcium Acetate: From Phosphate Binding to Calcium-Alkali Syndrome
+# Calcium Acetate: From Hypercalcemia and Phosphorus Metabolism Disorders to Calcium-Alkali Syndrome
 
 ## One-Sentence Summary
 
-Calcium acetate is a calcium salt used primarily as a phosphate binder to control hyperphosphatemia in chronic kidney disease (CKD) patients on dialysis.
-The TxGNN model assigns it a high score (99.90%) for **Calcium-Alkali Syndrome**, but this prediction demands critical interpretation: mechanistically, calcium acetate is a known **precipitant** of this syndrome — not a treatment for it — suggesting a false-positive signal driven by graph proximity in the knowledge graph.
-Currently, **no clinical trials or publications** directly support a therapeutic role in this indication, placing evidence at **L5 (model prediction only)**.
-
----
+Calcium acetate is a calcium-containing phosphate binder, listed for conditions such as hypercalcemia, nephrocalcinosis, phosphorus metabolism disease and cardiac arrest.
+The TxGNN model predicts it may be effective for **calcium-alkali syndrome**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it. The biological link is questionable and may even be contradictory.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in India (known use: phosphate binding in CKD/hyperphosphatemia) |
-| Predicted New Indication | Calcium-Alkali Syndrome |
+|------|------|
+| Original Indication | Hypercalcemia disease, nephrocalcinosis, phosphorus metabolism disease, cardiac arrest (knowledge-graph indications; no approved indication text in the India licences) |
+| Predicted New Indication | Calcium-alkali syndrome |
 | TxGNN Prediction Score | 99.90% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-> ⚠️ **Reverse Signal Warning**: The TxGNN high score here most likely reflects a pharmacological proximity in the knowledge graph, not a therapeutic relationship. Calcium-alkali syndrome (formerly milk-alkali syndrome) is a clinical triad of hypercalcemia, metabolic alkalosis, and progressive renal impairment caused by excessive ingestion of calcium combined with absorbable alkali. Since calcium acetate is itself a calcium salt that releases bioavailable calcium ions upon ingestion, administering it could plausibly **trigger or aggravate** this syndrome — not resolve it. The predicted direction is mechanistically inverted.
+Currently, detailed mechanism of action data is not available. Based on known information, calcium acetate is a calcium salt used as a phosphate binder, mainly to lower dietary phosphate absorption in kidney disease, and its use in phosphorus metabolism disorders is established in the knowledge graph.
 
-Currently, detailed mechanism of action data is not available for this Evidence Pack. Based on established pharmacology, calcium acetate dissociates in the gastrointestinal tract to release calcium ions and acetate. Its primary clinical role is as an oral phosphate binder: free calcium ions bind dietary phosphate in the gut lumen, preventing its absorption and reducing serum phosphate in dialysis-dependent patients.
+The predicted link to calcium-alkali (milk-alkali) syndrome is doubtful. That syndrome is caused by excess calcium intake, usually with absorbable alkali, and leads to hypercalcemia, metabolic alkalosis and acute kidney injury. Because calcium acetate supplies calcium, it could contribute to the condition rather than treat it. The high score likely reflects closeness in the knowledge graph to related terms (hypercalcemia, phosphorus metabolism, nephrocalcinosis) rather than a true therapeutic relationship. This should be read as a safety signal, not a repurposing opportunity.
 
-The TxGNN knowledge graph links calcium acetate to calcium-alkali syndrome because both involve calcium homeostasis — but this graph edge encodes a pathophysiological cause-effect relationship, not a therapeutic one. A score of 0.9990 reflects how close calcium salts and calcium metabolism disorders sit in the graph topology. This is a textbook example of a **knowledge-graph false positive**: high prediction score does not imply repurposing plausibility when the mechanistic direction is reversed.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT03591471](https://clinicaltrials.gov/study/NCT03591471) | Phase 1/2 | Unknown | 500 | ⚠️ **Pipeline mismatch** — This trial investigates Traditional Chinese Medicine (Tripterygium Wilfordii glycosides) for Henoch-Schönlein Purpura Nephritis in children. It has no connection to calcium acetate or calcium-alkali syndrome. Retrieved due to shared renal keywords; does not constitute supporting evidence. |
-
-No valid clinical trials for calcium acetate in calcium-alkali syndrome are currently registered.
-
----
+A second prediction, **primary bone dysplasia with defective bone mineralization** (score 99.88%, also with no trials or literature), has only a plausible but unverified rationale: calcium provides mineral substrate for bone. However, lowering phosphate may be unhelpful or harmful in disorders such as hypophosphatasia or hypophosphatemic rickets, and the subtype is unspecified. Mechanistic plausibility is low to moderate and needs expert review.
 
 ## India Market Information
 
-Calcium acetate currently has **no registered pharmaceutical products** in India. There are no market authorizations, licensed brands, or approved indications on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 87055 | Foswin Tablet | Strip of 10 tablets | Not stated |
+| 247046 | Zerofos DS Tablet | Strip of 10 tablets | Not stated |
+| 203034 | Specium Tablet | Strip of 10 tablets | Not stated |
+| 175196 | Phosnier 667 Tablet | Strip of 10 tablets | Not stated |
 
----
+All four registrations are valid single-ingredient oral products.
 
 ## Safety Considerations
 
-**Drug Interactions** (83 total interactions on file; clinically significant selections listed below):
+- **Disease contraindication signals (knowledge graph, not label text)**: kidney disease (including chronic kidney disease, chronic renal failure and end-stage renal failure), nephrolithiasis, acute urate nephropathy, hyperparathyroidism, osteitis fibrosa, sarcoidosis, humoral hypercalcemia of malignancy, hypercalcemia, heart disease and cardiovascular disease, digitalis poisoning, ventricular fibrillation, diarrheal disease, and pyoureter.
+- **Drug Interactions**: 83 interactions were found in total. Major ones include **dolutegravir** and **bictegravir**. Moderate ones include:
+  - Tetracycline-class antibiotics (doxycycline, tetracycline) and fluoroquinolones (gemifloxacin)
+  - Bisphosphonates (alendronic acid, risedronic acid, ibandronate)
+  - Calcium channel blockers (nifedipine, amlodipine)
+  - Beta-blockers (acebutolol, atenolol, betaxolol, bisoprolol)
+  - Thiazide diuretics (hydrochlorothiazide, bendroflumethiazide, benzthiazide)
+  - Topical vitamin D analogues (calcipotriol, calcitriol)
+  - Baloxavir marboxil
 
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Dolutegravir | **Major** | Calcium chelates integrase inhibitors — substantially reduces antiviral plasma exposure |
-| Bictegravir | **Major** | Same chelation mechanism; HIV treatment failure risk |
-| Doxycycline | Moderate | Calcium forms insoluble chelates with tetracyclines, reducing antibiotic absorption |
-| Tetracycline | Moderate | Same chelation class as doxycycline |
-| Alendronic acid | Moderate | Calcium reduces oral bisphosphonate absorption |
-| Risedronic acid | Moderate | Same bisphosphonate absorption interaction |
-| Ibandronate | Moderate | Same bisphosphonate absorption interaction |
-| Hydrochlorothiazide | Moderate | Thiazide diuretics increase renal calcium reabsorption — co-administration raises hypercalcemia risk |
-| Calcipotriol (topical) | Moderate | Vitamin D analogue; additive hypercalcemia risk with systemic calcium loading |
-| Calcitriol (topical) | Moderate | Vitamin D analogue; additive hypercalcemia risk |
-
-Please refer to the package insert for warnings and contraindications.
-
----
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The rank-1 TxGNN prediction (calcium-alkali syndrome) represents a pharmacological paradox — calcium acetate is a documented causative agent of this syndrome, not a therapeutic option. The 99.90% prediction score reflects graph topology bias rather than repurposing plausibility. No clinical trial or literature evidence exists to support further development in this direction.
+The prediction rests on model score alone (L5), with no clinical trials or literature. For calcium-alkali syndrome, the calcium load from the drug points toward harm rather than benefit. The bone mineralization prediction is also unsupported.
 
-**To proceed with evaluation of this drug candidate, the following is needed:**
-
-- **Nephrologist consultation** to formally confirm the reverse-signal interpretation and rule out any niche scenario where calcium acetate might be beneficial (e.g., chelating excess oxalate in a subset of patients)
-- **Investigation of rank-2 prediction** (primary bone dysplasia with defective bone mineralization, score 99.88%) — this carries a biologically plausible mechanistic rationale (calcium ions support hydroxyapatite formation) and may represent a more legitimate repurposing signal, though it also lacks clinical trial or literature support at this time
-- **MOA data from DrugBank API** (DG002) to complete the mechanistic plausibility assessment
-- **CDSCO/package insert review** (DG001) to retrieve warnings, contraindications, and labelled dosing before any clinical discussion proceeds
-- If the rank-2 indication is pursued: preclinical literature search for calcium supplementation in rare bone mineralization disorders (e.g., hypophosphatasia subtypes not treated with asfotase alfa)
+**To proceed, the following is needed:**
+- Package insert warnings and contraindications from the India licences (currently unavailable and blocking for safety screening)
+- Detailed mechanism of action data
+- Expert review of the biological direction of the calcium-alkali syndrome prediction, treating it as a safety signal
+- For bone dysplasia, specification of the disorder subtype and review of the effect of phosphate lowering
+- Any clinical or preclinical evidence supporting either predicted indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

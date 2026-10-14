@@ -2,7 +2,7 @@
 layout: default
 title: Pantoprazole
 parent: High Evidence (L1-L2)
-nav_order: 636
+nav_order: 642
 evidence_level: L1
 indication_count: 6
 ---
@@ -29,101 +29,109 @@ Evidence Level: **L1** | Predicted Indications: **6**
 
 </div>
 
-# Pantoprazole: From Erosive Esophagitis to Active Peptic Ulcer Disease
+# Pantoprazole: From Peptic Ulcer Disease and GERD to Active Peptic Ulcer Disease
 
 ## One-Sentence Summary
 
-Pantoprazole is a proton pump inhibitor (PPI); per available literature its original FDA-labeled indication is the short-term treatment of erosive esophagitis (PMID 11402494), and no India registration record exists in this dataset.
-The TxGNN model predicts it may also be effective for **active peptic ulcer disease**,
-with **3 clinical trials** and **19 publications** currently supporting this direction.
-
----
+Pantoprazole is a proton pump inhibitor originally used for acid-related conditions such as peptic ulcer disease, gastroesophageal reflux disease, esophagitis and Zollinger-Ellison syndrome.
+The TxGNN model predicts it may be effective for **active peptic ulcer disease**, which is closely related to its existing uses, so this is better described as confirmation of an established indication than as true repurposing.
+Evidence for this prediction includes **1 completed Phase 3 trial** directly linked to the indication, **18 publications**, and additional Phase 3 and 4 trials in related ulcer settings.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No India license text available (drug not marketed locally); per literature (PMID 11402494), originally FDA-labeled for short-term treatment of erosive esophagitis |
-| Predicted New Indication | Active Peptic Ulcer Disease |
+| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, esophagitis, Zollinger-Ellison syndrome (the Indian licence records list no approved-indication text) |
+| Predicted New Indication | Active peptic ulcer disease |
 | TxGNN Prediction Score | 99.69% |
 | Evidence Level | L1 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-DrugBank's structured mechanism-of-action field for this record is currently a data gap. Based on the literature captured in this evidence pack, however, pantoprazole is a substituted benzimidazole that **irreversibly and selectively inhibits the gastric parietal cell H⁺/K⁺-ATPase (proton pump)**, blocking the final common step of acid secretion (PMID 19938880, 9017763). It has a relatively long duration of action compared with other PPIs and, per the same review, no clinically significant drug-drug interactions had been identified across numerous interaction studies at the time of that publication.
+Pantoprazole irreversibly inhibits the gastric H+/K+ ATPase (the proton pump) in parietal cells. This suppresses acid secretion and allows ulcers to heal. Detailed mechanism-of-action data was not available in the data compiled for this report. This description therefore draws on general pharmacology and the cited reviews.
 
-The original indication (erosive esophagitis/GERD, per PMID 11402494) and the predicted indication (active peptic ulcer disease) are both acid-related upper-GI disorders that share the same underlying pathophysiology: excess or unbuffered gastric acid damaging the mucosa. Since pantoprazole's mechanism acts directly on acid production regardless of the specific mucosal site (esophagus, stomach, or duodenum), extending its use from reflux esophagitis to peptic ulcer healing is mechanistically direct rather than speculative.
+Peptic ulcers are acid-mediated, and peptic ulcer disease is already among pantoprazole's original indications. Active peptic ulcer disease is essentially the same disease area, so the high TxGNN score is expected. Because the use is already established, this evaluation is mostly a confirmation of existing evidence. It does not identify a new therapeutic opportunity.
 
-This is further reinforced by the repurposing rationale attached to the top-ranked prediction: pantoprazole's acid-suppressing mechanism both promotes ulcer healing and supports Helicobacter pylori eradication regimens, a use already extensively documented in the clinical trial and literature evidence below.
+Other predicted indications are less well supported:
 
----
+- **Gastrojejunal ulcer:** mechanistically plausible, but no trials are registered and the literature is general PPI material (evidence level L4).
+- **Peptic ulcer perforation:** limited to a small clinical study of pantoprazole plus perforation repair and non-operative management series (L3).
+- **Duodenogastric reflux:** only partial mechanistic fit, because pantoprazole does not directly prevent bile reflux (L3).
+- **Duodenal obstruction:** no clear rationale; this is a mechanical condition and the score likely reflects network proximity to duodenal ulcer (L5, Hold).
+- **Duodenal ulcer:** an established on-label use with strong evidence (L1).
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02084420](https://clinicaltrials.gov/study/NCT02084420) | Phase 3 | Completed | 323 | Multicenter, double-blind, active-controlled comparison of ilaprazole vs. pantoprazole triple therapy (7 days) for H. pylori eradication in H. pylori-positive gastric/duodenal ulcer patients |
-| [NCT02197039](https://clinicaltrials.gov/study/NCT02197039) | N/A | Completed | 316 | Prospective study identifying risk factors for poor stigmata fading or early rebleeding after endoscopic hemostasis plus high-dose PPI infusion, to define criteria for second-look endoscopy |
-| [NCT00930670](https://clinicaltrials.gov/study/NCT00930670) | Phase 4 | Completed | 320 | Evaluated whether PPIs (including pantoprazole) and statins interfere with clopidogrel's antiplatelet effect in patients on dual antiplatelet therapy after PCI |
+| [NCT02084420](https://clinicaltrials.gov/study/NCT02084420) | Phase 3 | Completed | 323 | Ilaprazole vs pantoprazole triple therapy for 7 days for H. pylori eradication in gastric and/or duodenal ulcer patients (multicentre, randomized, double-blind) |
 
----
+Further trials in related ulcer settings were found under the duodenal ulcer prediction:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00374101](https://clinicaltrials.gov/study/NCT00374101) | Phase 3 | Completed | 450 | High vs standard dose PPI after endoscopic therapy for bleeding peptic ulcers; high dose was not better |
+| [NCT00843063](https://clinicaltrials.gov/study/NCT00843063) | Phase 4 | Completed | 161 | Famotidine vs pantoprazole to prevent recurrent aspirin-induced ulcer or erosion |
+| [NCT02551744](https://clinicaltrials.gov/study/NCT02551744) | Not applicable | Completed | 101 | Pantoprazole vs famotidine to prevent recurrent ulcers in thienopyridine users |
+| [NCT02467621](https://clinicaltrials.gov/study/NCT02467621) | Phase 4 | Completed | 3350 | Stress ulcer prophylaxis with a PPI in the ICU (SUP-ICU) |
+| [NCT00261300](https://clinicaltrials.gov/study/NCT00261300) | Phase 3 | Completed | 100 | Long-term pantoprazole in chronic acid-peptic complaints |
+| [NCT00001191](https://clinicaltrials.gov/study/NCT00001191) | Phase 2 | Completed | Not reported | Oral omeprazole and IV pantoprazole in gastric acid hypersecretion (Zollinger-Ellison syndrome) |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [18824852](https://pubmed.ncbi.nlm.nih.gov/18824852/) | 2008 | RCT | Digestion | Compared intermittent vs. continuous IV pantoprazole infusion for preventing rebleeding in peptic ulcer bleeding |
-| [15244210](https://pubmed.ncbi.nlm.nih.gov/15244210/) | 2003 | RCT | Hepato-gastroenterology | Compared lansoprazole vs. pantoprazole efficacy in active duodenal ulcer treatment and H. pylori eradication |
-| [10632647](https://pubmed.ncbi.nlm.nih.gov/10632647/) | 2000 | RCT | Alimentary Pharmacology & Therapeutics | Evaluated pantoprazole + amoxicillin + azithromycin/clarithromycin regimens for H. pylori eradication in duodenal ulcer |
-| [12752349](https://pubmed.ncbi.nlm.nih.gov/12752349/) | 2003 | RCT | Alimentary Pharmacology & Therapeutics | Compared three pantoprazole-based triple therapy regimens for H. pylori eradication and gastric ulcer healing |
-| [16677158](https://pubmed.ncbi.nlm.nih.gov/16677158/) | 2006 | RCT | Journal of Gastroenterology and Hepatology | Pantoprazole infusion as adjuvant to endoscopic therapy reduced rebleeding in peptic ulcer bleeding |
-| [38345252](https://pubmed.ncbi.nlm.nih.gov/38345252/) | 2024 | Systematic Review | American Journal of Gastroenterology | Network meta-analysis comparing P-CAB vs. PPI (including pantoprazole) efficacy/safety in healing Grade C/D esophagitis |
-| [19938880](https://pubmed.ncbi.nlm.nih.gov/19938880/) | 2009 | Review | Clinical Drug Investigation | Reviews pantoprazole's irreversible H+/K+-ATPase inhibition, long duration of action, and lack of identified drug interactions |
-| [10983736](https://pubmed.ncbi.nlm.nih.gov/10983736/) | 2000 | Review | Drugs | Comparative review noting esomeprazole gives better intragastric pH control than omeprazole, lansoprazole, and pantoprazole in GERD |
-| [9017763](https://pubmed.ncbi.nlm.nih.gov/9017763/) | 1997 | Review | Pharmacotherapy | Reviews PPI mechanism (H+/K+-ATPase inhibition) and superiority over H2RAs in controlling gastric acid secretion |
-| [38652367](https://pubmed.ncbi.nlm.nih.gov/38652367/) | 2024 | Preclinical/Animal | Inflammopharmacology | Rat model study of combined pantoprazole + mesenchymal stem cells on gastric ulcer healing via oxidative stress/inflammation/apoptosis pathways |
+| [38384180](https://pubmed.ncbi.nlm.nih.gov/38384180/) | 2024 | RCT | Gut and Liver | Tegoprazan (a potassium-competitive acid blocker) vs active control for endoscopic resection-induced artificial ulcers |
+| [38345252](https://pubmed.ncbi.nlm.nih.gov/38345252/) | 2024 | Systematic review / network meta-analysis | Am J Gastroenterol | P-CAB vs PPI for healing grade C/D esophagitis |
+| [19938880](https://pubmed.ncbi.nlm.nih.gov/19938880/) | 2009 | Review | Clin Drug Investig | Pantoprazole irreversibly binds the proton pump, with a long duration of action and few identified drug interactions |
+| [21534455](https://pubmed.ncbi.nlm.nih.gov/21534455/) | 2011 | Review | Med Arh | PPIs in GERD management; healing correlates with intragastric pH above 3.5 |
+| [10450061](https://pubmed.ncbi.nlm.nih.gov/10450061/) | 1999 | Review | Pharmacology | Different PPIs show similar dose-response relationships at the same milligram dose |
+| [16961157](https://pubmed.ncbi.nlm.nih.gov/16961157/) | 2006 | Review | Int J Clin Pharmacol Ther | Impact of CYP2C19 polymorphism on PPI action |
+| [10638560](https://pubmed.ncbi.nlm.nih.gov/10638560/) | 2000 | Comparative study | Am J Gastroenterol | Pantoprazole vs ranitidine in duodenal ulcer, multicentre study in Brazil |
+| [15244210](https://pubmed.ncbi.nlm.nih.gov/15244210/) | 2003 | Comparative study | Hepatogastroenterology | Lansoprazole vs pantoprazole in active duodenal ulcer and H. pylori eradication |
+| [38652367](https://pubmed.ncbi.nlm.nih.gov/38652367/) | 2024 | Preclinical (rat) | Inflammopharmacology | Pantoprazole combined with mesenchymal stem cells in experimental gastric ulcer |
+| [26439477](https://pubmed.ncbi.nlm.nih.gov/26439477/) | 2016 | Preclinical (rat) | J Nat Med | Crocin against indomethacin-induced gastric lesions, with pantoprazole as a comparator |
 
----
+Duodenal ulcer literature also includes several older comparative trials, including [7569755](https://pubmed.ncbi.nlm.nih.gov/7569755/) (pantoprazole vs ranitidine, RCT, 1995) and [8180294](https://pubmed.ncbi.nlm.nih.gov/8180294/) (pooled analysis showing significantly better duodenal ulcer healing with pantoprazole 40 mg than ranitidine 300 mg at 2 and 4 weeks).
 
 ## India Market Information
 
-Pantoprazole is currently **not marketed** in India per this dataset — no registration/license records are available (`total_licenses: 0`).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 19608 | Adicid 40mg Injection | Vial of 1 injection | Not stated |
+| 175021 | Proton 40mg Tablet | Strip of 10 tablets | Not stated |
+| 174002 | Pantocid 80 Dual-Release Tablet | Strip of 15 tablets | Not stated |
+| 173922 | Pantocid IV Injection | Vial of 1 injection | Not stated |
+| 96957 | Gempan 40mg Tablet | Strip of 10 tablets | Not stated |
 
----
+All 20 licences are valid single-ingredient products, and none are cancelled. Both injectable and oral tablet forms are marketed.
 
 ## Safety Considerations
 
-**Drug Interactions**: A DDI database query returned **597 total interactions**. Notable Major-severity interactions include:
+- **Contraindications (knowledge-graph association, not label text):** osteoporosis, postmenopausal osteoporosis, bone fracture, pernicious anemia.
+- **Drug interactions:** 597 interactions were identified. Examples:
+  - Major: acalabrutinib, atazanavir.
+  - Moderate: hydrochlorothiazide, atorvastatin, bosutinib, fenofibrate, alpelisib, apalutamide, amphotericin B, amikacin, bumetanide.
+  - Minor: acetylsalicylic acid, cyanocobalamin, axitinib, bortezomib.
 
-| Interacting Drug | Severity | Source |
-|---|---|---|
-| Acalabrutinib | Major | ddinter |
-| Atazanavir | Major | ddinter |
-
-Both involve drugs whose absorption is pH-dependent, consistent with pantoprazole's acid-suppressing mechanism reducing their bioavailability. Numerous additional Moderate-level interactions (e.g., hydrochlorothiazide, atorvastatin, apalutamide, bosutinib, amikacin) and Minor-level interactions (e.g., acetylsalicylic acid, axitinib, bortezomib) are also on record; full details require the complete DDI dataset.
-
-Structured key warnings and contraindications (e.g., TFDA/local label text) are not yet available for this record.
-
----
+Please refer to the package insert for warnings and other safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple completed Phase 3/Phase 4 trials and several RCTs directly support pantoprazole's efficacy in H. pylori eradication and peptic ulcer healing/rebleeding prevention (Evidence Level L1), giving a mechanistically direct and well-evidenced case for the predicted indication. However, local regulatory and safety data are missing, and the drug is not currently marketed in India.
+Active peptic ulcer disease is an established use of pantoprazole. It is supported by a completed Phase 3 randomized trial, other ulcer-related trials, and comparative studies showing faster healing than ranitidine. Because this is on-label use, the decision is about confirming and documenting existing evidence, not pursuing a new indication.
 
 **To proceed, the following is needed:**
-- TFDA/CDSCO label warnings and contraindications (currently a blocking data gap, DG001)
-- Formal DrugBank-sourced mechanism-of-action record (DG002)
-- India market entry/registration pathway assessment, since the drug is currently unmarketed
-- Route-of-administration compatibility confirmation (currently marked pending in the evidence pack)
-- Trials or literature specifically targeting "active peptic ulcer disease" as a formal labeled outcome, since most current evidence addresses related but distinct endpoints (H. pylori eradication, bleeding-ulcer rebleeding prevention)
+- Package insert warnings and contraindications from the Indian licences, as the approved-indication text is currently blank
+- Detailed mechanism-of-action data
+- Verification of the comparator and population for NCT02084420, since its title is truncated
+- A review of the major drug interactions (e.g., atazanavir, acalabrutinib), and of the bone-health and vitamin B12 / pernicious anemia associations for long-term use
+- Other predicted indications (gastrojejunal ulcer, peptic ulcer perforation, duodenogastric reflux) are research questions needing dedicated clinical evidence; duodenal obstruction should be held
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

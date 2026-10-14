@@ -2,7 +2,7 @@
 layout: default
 title: Lansoprazole
 parent: Moderate Evidence (L3-L4)
-nav_order: 467
+nav_order: 471
 evidence_level: L4
 indication_count: 2
 ---
@@ -29,99 +29,82 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Lansoprazole: From Peptic Ulcer Disease to Duodenogastric Reflux
+# Lansoprazole: From Gastric Ulcer and Acid-Related Upper GI Disease to Duodenogastric Reflux
 
 ## One-Sentence Summary
 
-Lansoprazole is a proton pump inhibitor (PPI) widely used for treating acid-related gastrointestinal disorders, including peptic ulcer disease, gastroesophageal reflux disease (GERD), *Helicobacter pylori* eradication, and Zollinger-Ellison syndrome. The TxGNN model predicts it may be effective for **Duodenogastric Reflux**, with **0 clinical trials** and **2 publications** currently supporting this direction. However, one of these publications is an animal study raising a concerning safety signal — Lansoprazole may actually promote gastric carcinogenesis in the context of duodenogastric reflux, which significantly tempers the initial prediction.
-
----
+Lansoprazole is a proton pump inhibitor originally used to treat gastric and duodenal ulcers, gastroesophageal reflux disease, esophagitis, and Zollinger-Ellison syndrome.
+The TxGNN model predicts it may be effective for **duodenogastric reflux**, but there are **no registered clinical trials** and only **1 general review article**, so evidence is limited to model prediction and indirect reasoning.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Peptic ulcer disease, GERD, *H. pylori* eradication, Zollinger-Ellison syndrome |
-| Predicted New Indication | Duodenogastric Reflux |
+|------|------|
+| Original Indication | Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease, esophagitis, duodenal ulcer, Zollinger-Ellison syndrome (the approved indication text on the Indian licences is blank; these come from the knowledge graph) |
+| Predicted New Indication | Duodenogastric reflux |
 | TxGNN Prediction Score | 99.69% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, lansoprazole is a proton pump inhibitor that suppresses gastric acid secretion, and its efficacy in acid-related upper gastrointestinal disease is well established.
 
-Currently, detailed mechanism of action data is not available from the regulatory database. Based on known pharmacological information, Lansoprazole is a proton pump inhibitor (PPI) that irreversibly blocks the H⁺/K⁺-ATPase enzyme on the gastric parietal cell — the final step in gastric acid secretion. This mechanism is well-established, making it effective for any condition driven by excessive or harmful gastric acid.
+Duodenogastric (bile) reflux is the backflow of duodenal contents, including bile and pancreatic fluid, into the stomach. Acid suppression may reduce mucosal injury and symptoms when acid and bile act together. However, lansoprazole does not stop the reflux itself and does not neutralize bile acids, so the mechanistic link is indirect and symptomatic at best.
 
-Duodenogastric reflux (DGR) involves the retrograde movement of duodenal contents — including bile acids, pancreatic enzymes, and intestinal fluid — back into the stomach. While DGR does expose the gastric mucosa to a mixed, partially acidic refluxate, the primary pathogenic drivers are **bile acids and pancreatic fluid, not gastric acid itself**. Theoretically, Lansoprazole could reduce the acidic component of the refluxate and offer some mucosal protection; however, it cannot address the mechanical or bile-driven pathology that characterises DGR. This makes the mechanistic link indirect and incomplete.
+The high TxGNN score likely reflects the close pathophysiological and network proximity of this condition to lansoprazole's existing indications (GERD, esophagitis, peptic ulcer), not independent clinical evidence.
 
-More importantly, the available preclinical evidence raises a red flag. A rat model study (PMID 15052437) found that Lansoprazole may **promote gastric carcinogenesis** in the presence of DGR, potentially through hypergastrinaemia and mucosal hyperproliferation. This reverses the expected benefit and makes this TxGNN prediction particularly difficult to advance without substantial further investigation.
-
----
+A second prediction, duodenal obstruction (score 99.68%), was also generated. It has no identified mechanistic rationale, no trials, and no literature. Obstruction is mainly a mechanical or structural problem, and lansoprazole would at most be an adjunct for associated peptic disease. This prediction is not pursued further here.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Lansoprazole in duodenogastric reflux.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Narrative Review | European Journal of Clinical Pharmacology | Comprehensive update on PPI clinical use and pharmacokinetics; confirms Lansoprazole and other PPIs as first-line therapy for peptic ulcer, GERD, *H. pylori*, NSAID-induced GI lesions, and Zollinger-Ellison syndrome — contextualises the drug's established mechanism |
-| [15052437](https://pubmed.ncbi.nlm.nih.gov/15052437/) | 2004 | Animal Study (Rat Model) | Gastric Cancer | Lansoprazole promoted gastric carcinogenesis in rats with surgically induced duodenogastric reflux; suggests that acid suppression in a DGR environment may paradoxically increase cancer risk, possibly via elevated gastrin and mucosal hyperproliferation — a critical safety signal |
-
----
+|------|-----|------|------|---------|
+| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Review | European Journal of Clinical Pharmacology | General update on PPI clinical use and pharmacokinetics (peptic ulcer, H. pylori, GERD, NSAID-related lesions, Zollinger-Ellison syndrome). Not specific to duodenogastric reflux. |
 
 ## India Market Information
 
-Lansoprazole is currently **not registered** in India. No licensed products are available in the regulatory database.
+Twenty valid single-ingredient licences are registered and none are cancelled. The approved indication text is not available for any of them. Five main licences are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|-------------|-------------------|
-| — | — | — | No registrations on record |
+|---------|------|------|-----------|
+| 124137 | Lanzomed 15mg Tablet DT | Dispersible tablet (strip of 10) | Not available |
+| 130682 | Lansoford 30mg Tablet | Tablet (strip of 10) | Not available |
+| 130379 | Lancron 30mg Capsule | Capsule (strip of 10) | Not available |
+| 130532 | Lansotaj 30mg Injection | Powder for injection (1 vial) | Not available |
+| 113876 | Junior Lanzol 30mg Tablet DT | Dispersible tablet (strip of 10) | Not available |
 
----
+Available forms include oral tablets, dispersible tablets, capsules and an injectable powder.
 
 ## Safety Considerations
 
-**Drug Interactions**: Lansoprazole has **618 documented drug interactions** in the DDInter database. The most clinically significant are listed below:
+- **Contraindications suggested by the knowledge graph (not label text):** These are graph-derived associations and not confirmed label contraindications. They include long QT syndrome, torsades de pointes, liver failure and liver disease, kidney disease, porphyria, congestive heart failure, myocardial infarction, stroke and cerebrovascular disorders, osteoporosis, blood coagulation disease, anaemia, *Clostridium difficile* colitis, and myasthenia gravis.
+- **Drug Interactions:** 618 interactions were recorded. Examples:
+  - **Major:** acalabrutinib, atazanavir.
+  - **Moderate:** hydrochlorothiazide, amphotericin B, amikacin, amphetamine, fenofibrate, apalutamide, aprepitant, atorvastatin, bosutinib, brigatinib, bromocriptine.
+  - **Minor:** acetylsalicylic acid, axitinib, brivaracetam, cyanocobalamin.
 
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Acalabrutinib | **Major** | Lansoprazole raises gastric pH, substantially reducing Acalabrutinib oral absorption and efficacy |
-| Atazanavir | **Major** | PPI-mediated pH elevation markedly reduces Atazanavir bioavailability; co-administration is generally contraindicated |
-| Apalutamide | Moderate | May alter Lansoprazole exposure via CYP induction |
-| Aprepitant | Moderate | Possible CYP3A4-mediated interaction |
-| Bosutinib | Moderate | Reduced Bosutinib absorption at higher gastric pH |
-| Brigatinib | Moderate | Possible pH-dependent absorption reduction |
-| Bromocriptine | Moderate | Possible interaction |
-| Amphotericin B | Moderate | Possible interaction |
-| Hydrochlorothiazide | Moderate | Possible interaction |
-| Atorvastatin | Moderate | Possible CYP-mediated interaction |
-
-> Please refer to the full package insert for complete warnings and contraindications, which could not be retrieved in this data collection cycle.
-
----
+Please refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence for Lansoprazole in duodenogastric reflux is limited to one animal study and a general PPI review — with zero registered clinical trials. More critically, the only directly relevant preclinical study found a harmful signal: Lansoprazole may **increase gastric carcinogenesis risk** in the DGR environment rather than providing benefit. Until this safety concern is resolved with human-level evidence, proceeding with development is not justified.
+The prediction rests only on model score and proximity to existing indications. There are no trials, the single review is not condition-specific, and the mechanism is indirect and symptomatic. Package insert safety data is also missing.
 
 **To proceed, the following is needed:**
-
-- **Safety data**: Obtain the full package insert (CDSCO/TFDA) to extract approved warnings and contraindications (currently a blocking data gap)
-- **MOA clarification**: Retrieve Lansoprazole mechanism of action from DrugBank to better assess mechanistic overlap with DGR pathophysiology
-- **Human-level evidence**: Search for any observational studies, systematic reviews, or clinical trial sub-analyses examining Lansoprazole specifically in DGR patients
-- **Carcinogenesis risk resolution**: Commission or identify studies that specifically address whether the rat-model carcinogenesis signal (PMID 15052437) translates to humans — this is the primary decision gate
-- **Indication scope clarification**: Determine whether the target is DGR as a primary indication or as an adjunct condition managed alongside another pathology (e.g., peptic ulcer, post-surgical reflux)
-- **India regulatory pathway**: If evidence becomes favourable, assess the India registration pathway given zero current market presence
+- Condition-specific clinical studies of PPIs (including lansoprazole) in duodenogastric or bile reflux
+- Mechanism of action data from DrugBank
+- Package insert warnings and contraindications for the Indian products, to allow safety screening
+- Approved indication text for the Indian licences
+- Review of the knowledge-graph contraindication signals against label information
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

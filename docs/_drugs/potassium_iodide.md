@@ -2,7 +2,7 @@
 layout: default
 title: Potassium Iodide
 parent: Moderate Evidence (L3-L4)
-nav_order: 684
+nav_order: 691
 evidence_level: L4
 indication_count: 2
 ---
@@ -29,11 +29,12 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Potassium Iodide: From Antifungal Therapy to Nasal Cavity Disease
+# Potassium Iodide: From Allergic and Vasomotor Rhinitis to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-Potassium Iodide (DrugBank DB06715) is not currently marketed in Taiwan, and no approved-indication text is available from local licensing data; based on the supporting literature, it has traditionally been used off-label as an antifungal agent (e.g., sporotrichosis, zygomycosis). The TxGNN model predicts potential efficacy for **Nasal Cavity Disease**, but this is currently supported only by **4 case reports** (3 veterinary, 1 human from 1994) and **no clinical trials**.
+Potassium iodide was originally used for upper respiratory conditions such as allergic rhinitis, vasomotor rhinitis, pharyngitis, the common cold and nasopharyngitis.
+The TxGNN model predicts it may be effective for **nasal cavity disease**, but support is thin: **0 clinical trials** and **4 publications**, all case reports (3 veterinary, 1 human).
 
 ---
 
@@ -41,29 +42,29 @@ Potassium Iodide (DrugBank DB06715) is not currently marketed in Taiwan, and no 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — drug is unlicensed in Taiwan (no license records). Literature indicates traditional off-label antifungal use (e.g., sporotrichosis, zygomycosis) |
-| Predicted New Indication | Nasal Cavity Disease |
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, nasopharyngitis (the registered label text is blank in the data compiled for this report) |
+| Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L4 |
-| Taiwan Market Status | ✗ Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 7 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is currently not available (Data Gap). Based on known information, potassium iodide has traditionally been used as an antifungal therapy for conditions such as cutaneous/lymphocutaneous sporotrichosis and some forms of zygomycosis (mucormycosis). The proposed mechanism involves iodide ion interference with fungal cell wall integrity/metabolism and modulation of local immune response, though the exact molecular pathway is not well characterized.
+Currently, detailed mechanism of action data is not available. Based on known information, potassium iodide has a long history as a treatment for certain fungal and fungus-like infections, such as sporotrichosis and, in veterinary use, pythiosis and zygomycosis. Its original upper respiratory uses relate mainly to thinning mucus (expectorant or mucolytic action).
 
-The supporting literature for "Nasal Cavity Disease" is entirely composed of case reports describing potassium iodide treatment of **fungal (mycotic) infections of the nasal cavity and sinuses** — rhinofacial pythiosis in sheep, mycotic rhinitis (Aspergillus) in a horse, Pseudallescheria boydii nasal infection in a horse, and nasofacial zygomycosis in a human patient. This is mechanistically consistent with the drug's known antifungal use.
+The retrieved literature describes nasal and rhinofacial infections (pythiosis, Aspergillus rhinitis, Pseudallescheria infection, nasofacial zygomycosis) in which potassium iodide was used or discussed. A plausible link is an antifungal or immunomodulatory effect on granulomatous fungal infection of the nasal cavity.
 
-However, "Nasal Cavity Disease" as predicted by TxGNN is a broad disease-category label, while the actual evidence is confined to a narrow subset — mycotic/fungal rhinitis — and cannot be generalized to nasal cavity disease as a whole. Three of the four supporting reports are veterinary case reports (sheep, horses), and only one is a human case report, dating from 1994, with no controlled or comparative design. The high TxGNN score may partly reflect over-generalization of the disease node in the knowledge graph rather than a well-supported clinical signal.
+There are important caveats. The original indications are about mucus thinning, not antimicrobial action, so the two mechanisms differ. The high TxGNN score is a computational prediction and is not backed by controlled human data. In addition, the same prediction list includes acute laryngopharyngitis (score 99.95%, no trials or literature found, evidence level L5). That is close to the existing upper respiratory uses, so it is more a label-adjacent indication than a true repurposing.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
@@ -71,18 +72,35 @@ Currently no related clinical trials registered
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [7997795](https://pubmed.ncbi.nlm.nih.gov/7997795/) | 1994 | Case Report | Rev Inst Med Trop Sao Paulo | Human case of nasofacial zygomycosis (Pará, Brazil); rapid clinical response to potassium iodide therapy, though disease recurred |
-| [10976304](https://pubmed.ncbi.nlm.nih.gov/10976304/) | 2000 | Case Report (Veterinary) | J Am Vet Med Assoc | Pseudallescheria boydii nasal cavity infection in a horse treated with topical miconazole and IV sodium iodide |
-| [34902797](https://pubmed.ncbi.nlm.nih.gov/34902797/) | 2022 | Case Report (Veterinary) | J Mycol Med | Successful potassium iodide treatment of rhinofacial pythiosis (Pythium insidiosum) in sheep |
-| [39576399](https://pubmed.ncbi.nlm.nih.gov/39576399/) | 2024 | Case Report (Veterinary) | Vet Res Commun | Mycotic rhinitis (Aspergillus fumigatus) in a horse treated with topical clotrimazole plus oral potassium iodide |
+| [39576399](https://pubmed.ncbi.nlm.nih.gov/39576399/) | 2024 | Case report (veterinary, horse) | Veterinary Research Communications | Mycotic rhinitis caused by *Aspergillus fumigatus* in a mare, treated with topical clotrimazole and oral potassium iodide |
+| [34902797](https://pubmed.ncbi.nlm.nih.gov/34902797/) | 2022 | Case report (veterinary, sheep) | Journal de Mycologie Medicale | Successful potassium iodide treatment of rhinofacial pythiosis in sheep |
+| [7997795](https://pubmed.ncbi.nlm.nih.gov/7997795/) | 1994 | Case report (human) | Revista do Instituto de Medicina Tropical de Sao Paulo | Nasofacial zygomycosis in a 64-year-old woman in Brazil, with a rapid response to potassium iodide |
+| [10976304](https://pubmed.ncbi.nlm.nih.gov/10976304/) | 2000 | Case report (veterinary, horse) | Journal of the American Veterinary Medical Association | *Pseudallescheria boydii* infection of the nasal cavity in a horse, treated with miconazole and sodium iodide; the specific role of the iodide is unclear |
+
+---
+
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 41548 | Catasoft Eye Drop | Bottle of 10 ml eye drop | Not stated |
+| 180123 | Pyonil Gum Paint | Bottle of 15 ml gum paint | Not stated |
+| 35543 | Catax Eye Drop | Bottle of 10 ml eye drop | Not stated |
+| 37727 | Catobar Eye Drop | Bottle of 10 ml eye drop | Not stated |
+| 35844 | Catafly Eye Drop | Bottle of 10 ml eye drop | Not stated |
+
+Two more eye drop registrations also exist (Cataclear, 35495; Catadoze, 39559), for 7 in total. All are single-ingredient products and all are currently valid. The marketed forms are ophthalmic and gum paint, and none is a nasal or oral systemic form, so the predicted nasal indication has no route match among current Indian products.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**: A DDI query returned 45 total interactions. Notable **Major**-level interactions (elevated hyperkalemia/potassium-retention risk) include ACE inhibitors (Benazepril, Captopril, Enalapril, Lisinopril, Moexipril, Perindopril, Quinapril), ARBs (Olmesartan, Valsartan, Azilsartan medoxomil, Losartan, Telmisartan), the renin inhibitor Aliskiren, and Trimethoprim. **Moderate**-level interactions include NSAIDs (Ketorolac, Ibuprofen, Diclofenac, Oxaprozin, Naproxen) and Tolvaptan.
+- **Contraindications flagged in the knowledge graph** (drug-disease links, not package insert text): hypertension, liver failure and liver disease, kidney disease, epilepsy, COPD, anxiety and neurotic disorders, porphyria, pancreatitis, gallbladder disease, thrombocytopenia, hypothyroidism and myxedema, peptic ulcer disease, inflammatory bowel disease, psychotic and schizophrenia-spectrum disorders, dermatitis herpetiformis, diabetes mellitus and diabetic ketoacidosis.
+- **Drug Interactions**: 45 interactions were recorded; the 20 reviewed include these.
+  - **Major**: ACE inhibitors (benazepril, captopril, enalapril, lisinopril, moexipril, perindopril, quinapril), angiotensin receptor blockers (olmesartan, valsartan, azilsartan medoxomil, losartan, telmisartan) and trimethoprim. These are mainly hyperkalaemia-type concerns.
+  - **Moderate**: NSAIDs (ketorolac, ibuprofen, diclofenac, oxaprozin, naproxen), aliskiren and tolvaptan.
 
-Detailed Taiwan/TFDA label warnings and contraindications are not currently available (Data Gap, Blocking — see Conclusion).
+Package insert warnings and contraindications were not available, so please refer to the package insert for label safety information.
 
 ---
 
@@ -91,13 +109,14 @@ Detailed Taiwan/TFDA label warnings and contraindications are not currently avai
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication's own scoring already flags it as decision-stage S0 with a "Hold" recommendation — evidence is limited to four case reports (three veterinary, one 40+ year-old human case) with no clinical trials or controlled studies, and one Blocking-severity data gap (missing Taiwan label warnings/contraindications) prevents entry into the S1 safety evaluation stage.
+The prediction rests on a high model score and a handful of case reports, mostly in animals, with no registered clinical trials. The mechanism differs from the original indications, and none of the Indian products is a suitable nasal form.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — currently Blocking (DG001)
-- Detailed mechanism-of-action data from DrugBank — currently High-priority gap (DG002)
-- Controlled or comparative clinical evidence specific to mycotic rhinitis/nasal cavity disease, rather than isolated case reports
-- Note: a second candidate, "Acute Laryngopharyngitis" (TxGNN score 99.95%, Evidence Level L5), has zero supporting clinical trials or literature and is not recommended for further pursuit at this time.
+- Package insert warnings and contraindications for the Indian products (a blocking gap for safety screening)
+- Mechanism of action data, to assess the link between the antifungal and mucolytic effects
+- Human controlled data or registered trials in nasal fungal disease or other nasal cavity conditions
+- A route and formulation assessment, since current Indian products are ophthalmic or gum paint
+- A review of the contraindication and drug interaction signals (hypertension, thyroid, renal disease, potassium-raising drugs) for the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

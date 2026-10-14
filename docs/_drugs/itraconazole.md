@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Itraconazole
-parent: Moderate Evidence (L3-L4)
-nav_order: 453
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 457
+evidence_level: L5
 indication_count: 1
 ---
 
 # Itraconazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,101 +29,98 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Itraconazole: From Fungal Infections to Pneumocystosis
+# Itraconazole: From Systemic Fungal Infections to Pneumocystosis
 
 ## One-Sentence Summary
 
-Itraconazole is a broad-spectrum triazole antifungal agent widely used to treat systemic and superficial fungal infections including aspergillosis, histoplasmosis, and onychomycosis.
-The TxGNN model predicts it may be effective for **Pneumocystosis** (infection caused by *Pneumocystis jirovecii*),
-with **0 clinical trials** and **20 publications** identified — however, critical mechanistic evidence strongly contradicts this prediction.
-
----
+Itraconazole is an azole antifungal originally used for systemic fungal infections such as candidiasis, histoplasmosis, aspergillosis, blastomycosis and sporotrichosis.
+The TxGNN model predicts it may be effective for **pneumocystosis**, but the evidence is currently **model prediction only**, with **0 clinical trials** and **20 publications** (all of low relevance to this specific indication, mostly reviews, case reports and cohort studies).
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Systemic and superficial fungal infections (aspergillosis, histoplasmosis, onychomycosis, etc.) |
-| Predicted New Indication | Pneumocystosis (*Pneumocystis jirovecii* pneumonia, PCP) |
+|------|------|
+| Original Indication | Esophageal candidiasis, candidemia, histoplasmosis, aspergillosis, blastomycosis, sporotrichosis and other systemic fungal infections (listed in the knowledge graph; no approved indication text is available from Indian licences) |
+| Predicted New Indication | Pneumocystosis |
 | TxGNN Prediction Score | 99.34% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Itraconazole belongs to the triazole antifungal class and exerts its effect by inhibiting **lanosterol 14α-demethylase (CYP51/Erg11)**, a key enzyme in the ergosterol biosynthesis pathway. By blocking ergosterol production, itraconazole disrupts fungal cell membrane integrity and function. This mechanism is highly effective against organisms whose cell membranes depend on ergosterol, such as *Aspergillus*, *Histoplasma*, and *Candida* species.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, itraconazole inhibits fungal lanosterol 14-alpha-demethylase (CYP51), which blocks ergosterol synthesis in the fungal cell membrane. Its efficacy in other invasive fungal infections is established.
 
-However, there is a **fundamental mechanistic contradiction** with this prediction: *Pneumocystis jirovecii* is a unique atypical fungus whose cell membrane **lacks ergosterol entirely** — it substitutes cholesterol instead. Because itraconazole's target enzyme (Erg11) requires ergosterol as the downstream product, all azole antifungals and polyene antifungals (which also target ergosterol) are **intrinsically ineffective** against *P. jirovecii*. This is corroborated by the molecular study (PMID 12606318), which confirmed that the *P. carinii* Erg11 protein shares key amino acid substitutions associated with azole resistance.
+The link to pneumocystosis is weak. *Pneumocystis jirovecii* was reclassified as a fungus, which may explain why the knowledge graph places it near other fungal diseases. However, it lacks ergosterol in its membrane and uses cholesterol instead, so the azole mechanism has no plausible target in this organism. Standard therapy (trimethoprim-sulfamethoxazole) works through folate pathway inhibition, not ergosterol disruption.
 
-The co-occurrence of itraconazole and pneumocystosis in the literature most likely reflects **ecological association rather than therapeutic relevance**: both conditions frequently arise in the same immunocompromised patient populations (HIV/AIDS, organ transplant recipients, patients on corticosteroids), not because itraconazole treats PCP. The first-line treatment for PCP remains TMP-SMX, with alternatives including pentamidine, atovaquone, and clindamycin + primaquine. This prediction is therefore considered a likely **ecological fallacy** in the TxGNN model output.
-
----
+The high score of 0.993 therefore most likely reflects network proximity to other fungal indications (histoplasmosis, aspergillosis, candidiasis) rather than a true mechanistic link. This prediction should be treated with caution.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [11737382](https://pubmed.ncbi.nlm.nih.gov/11737382/) | 2001 | RCT (double-blind, placebo-controlled) | HIV Medicine | Phase III trial of itraconazole prophylaxis in HIV-infected patients; evaluated prevention of **deep fungal infections** (not PCP specifically) |
-| [21418688](https://pubmed.ncbi.nlm.nih.gov/21418688/) | 2010 | Clinical Guideline / Review | BMJ Clinical Evidence | HIV opportunistic infection prophylaxis guidelines; PCP prophylaxis centres on TMP-SMX, not azoles |
-| [2121456](https://pubmed.ncbi.nlm.nih.gov/2121456/) | 1990 | Review | Drugs | Review of protozoan infection therapy including *P. carinii*; azoles not listed as treatment options |
-| [8016481](https://pubmed.ncbi.nlm.nih.gov/8016481/) | 1993 | Review | Seminars in Respiratory Infections | Lung transplant infections; PCP prophylaxis discussed without mention of itraconazole |
-| [8397916](https://pubmed.ncbi.nlm.nih.gov/8397916/) | 1993 | Review | Current Clinical Topics in Infectious Diseases | Bone marrow transplant antimicrobial prophylaxis; itraconazole mentioned for fungal coverage, not PCP |
-| [12606318](https://pubmed.ncbi.nlm.nih.gov/12606318/) | 2003 | Basic Science | Am J Respir Cell Mol Biol | Characterised *P. carinii* Erg11; confirmed inherent resistance to azoles due to specific amino acid substitutions — **key mechanistic evidence against this repurposing** |
-| [26036497](https://pubmed.ncbi.nlm.nih.gov/26036497/) | 2015 | Retrospective Cohort | Transplantation Proceedings | Invasive fungal infections post-kidney transplant; itraconazole used for mould coverage, PCP treated separately with TMP-SMX |
-| [30429396](https://pubmed.ncbi.nlm.nih.gov/30429396/) | 2018 | Observational Study | Indian Journal of Medical Microbiology | Respiratory fungal pathogens in immunocompromised vs. immunocompetent hosts; PCP and azole-susceptible fungi co-occur in same population |
-| [36891307](https://pubmed.ncbi.nlm.nih.gov/36891307/) | 2023 | Case Report | Frontiers in Immunology | *Talaromyces marneffei* + *P. jirovecii* co-infection in a child with STAT1 mutation; itraconazole used for talaromycosis, not PCP |
-| [8967681](https://pubmed.ncbi.nlm.nih.gov/8967681/) | 1996 | Case Report | Annals of Internal Medicine | Uveitis associated with rifabutin prophylaxis and itraconazole therapy in an HIV patient; highlights itraconazole DDI risk in this population |
+The retrieved literature mentions pneumocystosis mostly in the context of opportunistic infections in immunocompromised patients. None of it demonstrates itraconazole efficacy against *Pneumocystis*. The relevance of each item has not yet been assessed.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [11737382](https://pubmed.ncbi.nlm.nih.gov/11737382/) | 2001 | Randomized, double-blind, placebo-controlled trial (Phase III) | HIV Medicine | Itraconazole capsules for prevention of deep fungal infections in HIV-infected, immunodeficient patients; the abstract provided does not report pneumocystosis results |
+| [21973267](https://pubmed.ncbi.nlm.nih.gov/21973267/) | 2011 | Review | Clinical Pharmacokinetics | Penetration of antifungal and other anti-infective agents into pulmonary epithelial lining fluid |
+| [21418688](https://pubmed.ncbi.nlm.nih.gov/21418688/) | 2010 | Review | BMJ Clinical Evidence | Primary and secondary prophylaxis of opportunistic infections in HIV |
+| [15250025](https://pubmed.ncbi.nlm.nih.gov/15250025/) | 2004 | Review | Clinical Infectious Diseases | Antimicrobial prophylaxis in febrile neutropenia; trimethoprim-sulfamethoxazole is highly effective against *Pneumocystis* pneumonia |
+| [2121456](https://pubmed.ncbi.nlm.nih.gov/2121456/) | 1990 | Review | Drugs | Therapy and prophylaxis of systemic protozoan infections, including *Pneumocystis carinii* |
+| [8016481](https://pubmed.ncbi.nlm.nih.gov/8016481/) | 1993 | Review | Seminars in Respiratory Infections | Infection after lung transplantation |
+| [8397916](https://pubmed.ncbi.nlm.nih.gov/8397916/) | 1993 | Review | Current Clinical Topics in Infectious Diseases | Prophylaxis and treatment of infection in bone marrow transplant recipients |
+| [26036497](https://pubmed.ncbi.nlm.nih.gov/26036497/) | 2015 | Cohort | Transplantation Proceedings | Invasive fungal infections after kidney transplantation, single-centre experience |
+| [2233233](https://pubmed.ncbi.nlm.nih.gov/2233233/) | 1990 | Case series | Medicine | Disseminated histoplasmosis in AIDS: clinical findings, diagnosis and treatment |
+| [36891307](https://pubmed.ncbi.nlm.nih.gov/36891307/) | 2023 | Case report and review | Frontiers in Immunology | *Talaromyces marneffei* and *Pneumocystis jirovecii* coinfection in a child with a STAT1 mutation |
+
+## India Market Information
+
+Itraconazole is marketed in India under 20 valid single-ingredient licences. The licence data compiled for this report do not include approved indication text. The main authorisations are:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 116368 | Kapitra 100mg Capsule | Strip of 4 capsules | Not available |
+| 84324 | Fungikem 200 Capsule | Strip of 4 capsules | Not available |
+| 107918 | Itragreat 200 Capsule | Strip of 10 capsules | Not available |
+| 97177 | Grita Tablet | Strip of 10 tablets | Not available |
+| 93319 | Fuzcon I 200mg Tablet | Strip of 4 tablets | Not available |
+
+All products are oral capsules or tablets.
 
 ## Safety Considerations
 
-**Drug Interactions (295 interactions identified; selected major and clinically significant interactions listed below):**
+**Contraindication-related conditions (from drug-disease knowledge graph, not label text):** The knowledge graph links itraconazole to the following conditions, which may warrant caution:
+- Cardiac: long QT syndrome, familial long QT syndrome, torsades de pointes, congestive heart failure, heart failure, cardiomyopathy, hypertrophic cardiomyopathy, myocardial ischemia, coronary artery disease, heart valve disease, endomyocardial fibrosis
+- Hepatic and renal: liver disease, drug-induced liver injury, kidney disease, impaired renal function
+- Other: chronic obstructive pulmonary disease, peripheral neuropathy, hearing loss, vision disorder, hypokalaemia (potassium deficiency), hypercalcaemia, achlorhydria
 
-| Severity | Interacting Drug | Clinical Relevance |
-|----------|----------------|--------------------|
-| **Major** | Loperamide | Risk of serious cardiac events (QT prolongation / torsades de pointes) |
-| **Major** | Triamcinolone | Itraconazole inhibits CYP3A4, markedly increasing corticosteroid exposure; risk of Cushing's syndrome and adrenal suppression |
-| **Major** | Budesonide | Same mechanism as triamcinolone; systemic budesonide levels can increase dramatically |
-| Moderate | Omeprazole, Rabeprazole | Proton pump inhibitors reduce gastric acid → impaired absorption of itraconazole capsules |
-| Moderate | Famotidine, Ranitidine, Cimetidine | H2 blockers reduce gastric acid → impaired itraconazole capsule absorption |
-| Moderate | Dexamethasone, Hydrocortisone, Betamethasone | CYP3A4 inhibition increases corticosteroid exposure |
-| Moderate | Aprepitant | Mutual CYP3A4 interaction; increased plasma levels of both agents |
-| Moderate | Alosetron | Increased alosetron exposure via CYP3A4 inhibition |
-| Moderate | Budesonide (nasal) | Systemic absorption risk via CYP3A4 inhibition |
-| Minor | Metformin, Pioglitazone | Minor pharmacokinetic interactions; clinical significance generally low |
-| Minor | Amphotericin B / Amphotericin B (lipid complex) | Potential antagonism; itraconazole may reduce ergosterol availability needed for amphotericin B binding |
+**Drug Interactions:** 295 interactions were identified. Examples of those graded **Major**:
+- Loperamide
+- Triamcinolone
+- Budesonide
 
-> For complete warnings, contraindications, and special population guidance, please refer to the approved package insert, as this data was not available in the current Evidence Pack.
+Examples graded **Moderate** include famotidine, ranitidine, cimetidine, omeprazole, rabeprazole, aprepitant, alosetron, dexamethasone, hydrocortisone and betamethasone. Acid-suppressing drugs are notable because they can reduce absorption of itraconazole capsules.
 
----
+For warnings and contraindications from the package insert, please refer to the package insert, as these are not available in the compiled data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction score is high (99.34%), but this is a case where the model appears to have learned **co-occurrence in immunocompromised populations** rather than a genuine therapeutic relationship. The fundamental mechanistic barrier — *P. jirovecii* lacks ergosterol, the molecular target of all azole antifungals — makes itraconazole pharmacologically inactive against PCP. No clinical trials support this indication, and the existing literature does not contain evidence of itraconazole being used or studied as a PCP treatment.
+The prediction rests on model output alone (Evidence Level L5). There are no registered clinical trials, and the retrieved literature does not show itraconazole activity against *Pneumocystis*. The biological rationale is also doubtful, since the organism lacks the ergosterol target and effective standard therapy already exists.
 
-**To proceed (if further investigation is deemed warranted), the following is needed:**
-
-- **Mechanistic rebuttal investigation**: Confirm whether any novel mechanism (e.g., host-directed therapy, immunomodulatory effects, or inhibition of cholesterol pathway in *P. jirovecii*) could theoretically justify activity independent of ergosterol targeting
-- **Full package insert data**: Retrieve TFDA/EMA/FDA prescribing information to complete safety assessment (key warnings, contraindications)
-- **DrugBank MOA data**: Formally confirm mechanism of action via DrugBank API to support or refute the mechanistic analysis above
-- **Expert consultation**: Obtain infectious disease specialist review before any further investment in this repurposing hypothesis
-- **India regulatory pathway**: If evidence were to emerge, note that itraconazole is currently not registered in India (0 licenses), requiring a full regulatory submission
-
-> ⚠️ **Research Note**: This result is provided for research purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any therapeutic application.
+**To proceed, the following is needed:**
+- Manual relevance screening of the literature, and a targeted search for in vitro, animal or clinical data on itraconazole against *Pneumocystis*
+- Mechanistic evidence for a plausible target in *Pneumocystis* (e.g. sterol composition and azole sensitivity)
+- Detailed mechanism of action data from DrugBank
+- Package insert warnings and contraindications from Indian regulatory sources, needed before any safety screening
+- A review of cardiac risk (QT prolongation, heart failure) and the major drug interactions, particularly in the immunocompromised populations in which pneumocystosis occurs
+- Justification of any added value over standard trimethoprim-sulfamethoxazole therapy
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Tiotropium
 parent: High Evidence (L1-L2)
-nav_order: 832
+nav_order: 839
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,58 +29,56 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-Using the specified v5 report template to synthesize this Evidence Pack into the required Markdown report.
-
----
-
-# Tiotropium: From Bronchodilator (Not Locally Marketed) to Obstructive Lung Disease
+# Tiotropium: From Bronchitis, Asthma and Emphysema to Obstructive Lung Disease
 
 ## One-Sentence Summary
 
-> Tiotropium is a long-acting muscarinic antagonist (LAMA) bronchodilator with no formally recorded local approval history in this dataset (0 registrations, market status "Not Marketed").
-> The TxGNN model's top-ranked candidate is **Obstructive Lung Disease**, which corresponds to tiotropium's internationally established use as a COPD/asthma maintenance bronchodilator.
-> This is supported by an unusually large evidence base: **60+ clinical trials** and **20 publications**, including several landmark Phase 3 RCTs.
+Tiotropium is a long-acting inhaled anticholinergic (muscarinic antagonist) bronchodilator, originally used for bronchitis, asthma and pulmonary emphysema.
+The TxGNN model predicts it may be effective for **obstructive lung disease**, an umbrella category that includes COPD and asthma. This is largely an on-label or near-label indication rather than true repurposing.
+The data compiled for this report show **38 clinical trials** (many Phase 3, completed) and **20 publications** for this prediction, including a randomized trial in the *New England Journal of Medicine*.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not locally approved / no registration on file (drug not marketed); internationally established as a long-acting bronchodilator for COPD/asthma |
-| Predicted New Indication | Obstructive Lung Disease |
+|------|------|
+| Original Indication | Bronchitis, asthma, intrinsic asthma, allergic asthma, pulmonary emphysema (from the knowledge graph; no approved-indication text is available in the India licence records) |
+| Predicted New Indication | Obstructive lung disease |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L1 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, a structured mechanism-of-action (MOA) record for tiotropium is a flagged data gap in this pack (DG002 — High severity, remediation: query DrugBank API). However, the evidence pack's own repurposing rationale supplies the pharmacological basis: **tiotropium is a long-acting muscarinic receptor antagonist (LAMA)** that blocks M1 and M3 receptors, inhibiting acetylcholine-mediated bronchoconstriction. This is the standard mechanistic pathway underlying treatment of obstructive airway diseases such as COPD and severe persistent asthma.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, tiotropium is a long-acting muscarinic antagonist (LAMA). It blocks M3 receptors on airway smooth muscle, which produces sustained bronchodilation. The literature also describes slow dissociation from M1 and M3 receptors relative to M2, which allows once-daily dosing.
 
-Because `original_indications` and `taiwan_regulatory.licenses` are both empty, this jurisdiction has no on-file record of tiotropium ever being formally indicated or registered locally — the drug shows as "Not Marketed" with zero registrations. The TxGNN model's top prediction, "obstructive lung disease," is therefore not a novel mechanistic leap; it converges with tiotropium's globally recognized primary use, as explicitly noted in the rank-5 rationale for "chronic obstructive pulmonary disease" in the same pack ("此為Tiotropium國際公認之主要適應症，本資料集market_status標示Not marketed可能僅反映該轄區尚未核准" — this is tiotropium's internationally recognized primary indication; the "not marketed" status here likely just reflects that this jurisdiction has not yet approved it).
+Obstructive lung disease is the umbrella category covering COPD and asthma, which are already established uses of the drug. The prediction is therefore consistent with the original indications, and the mechanistic fit is strong.
 
-In other words, the mechanistic applicability is high because the "new" indication and the drug's known pharmacology are the same disease class — the gap is regulatory/administrative (no local license on record), not scientific.
+Other predictions in the list (for example respiratory malformation, tracheal stenosis, interstitial emphysema, hyperlucent lung, compensatory emphysema, Rienhoff syndrome and a CD8alpha-related immunodeficiency) have weak or no mechanistic support and little or no clinical evidence. They are not recommended for advancement. "Chronic obstructive pulmonary disease" itself (rank 5) is also an established indication with L1 evidence. "COPD, severe early onset" (rank 4) rests on extrapolation from general COPD evidence.
 
 ---
 
 ## Clinical Trial Evidence
 
+The 10 most relevant trials for obstructive lung disease are listed below. Trials graded most relevant, completed Phase 3 randomized studies, are prioritized.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00144339](https://clinicaltrials.gov/study/NCT00144339) | Phase 3 | Completed | 5,993 | UPLIFT trial — evaluated whether daily tiotropium reduces the rate of lung function (FEV1) decline over time in COPD |
-| [NCT00277264](https://clinicaltrials.gov/study/NCT00277264) | Phase 3 | Completed | 914 | SAFE study — 1-year RCT on trough FEV1 change with tiotropium 18 µg vs. placebo; Grade A relevance |
-| [NCT00776984](https://clinicaltrials.gov/study/NCT00776984) | Phase 3 | Completed | 453 | 48-week RCT of tiotropium Respimat 5 µg as add-on therapy in severe persistent asthma; Grade A relevance |
-| [NCT01012765](https://clinicaltrials.gov/study/NCT01012765) | Phase 3 | Completed | 173 | Crossover study using open-label tiotropium 18 µg as active bronchodilator comparator in moderate COPD; Grade A relevance |
-| [NCT01316913](https://clinicaltrials.gov/study/NCT01316913) | Phase 3 | Completed | 872 | 24-week RCT comparing GSK573719/GW642444 combination vs. tiotropium in COPD; Grade B relevance |
-| [NCT01911364](https://clinicaltrials.gov/study/NCT01911364) | Phase 3 | Completed | 3,686 | 52-week trial of triple therapy (beclometasone+formoterol+glycopyrrolate) vs. tiotropium in severe COPD |
-| [NCT02006732](https://clinicaltrials.gov/study/NCT02006732) | Phase 3 | Completed | 809 | TONADO-type study assessing tiotropium+olodaterol fixed-dose combination vs. tiotropium and placebo in moderate-severe COPD |
-| [NCT02173769](https://clinicaltrials.gov/study/NCT02173769) | N/A | Completed | 1,845 | AKTIV — large real-world study on physical functioning changes with tiotropium ± olodaterol combination therapy |
-| [NCT00463567](https://clinicaltrials.gov/study/NCT00463567) | Phase 2/3 | Completed | 2,059 | Seamless adaptive dose-finding study using open-label tiotropium as active control in COPD |
-| [NCT00274014](https://clinicaltrials.gov/study/NCT00274014) | Phase 3 | Completed | 1,000 | 1-year RCT evaluating tiotropium's effect on airflow obstruction severity and exacerbation incidence/severity in moderate-severe COPD |
+| [NCT00240435](https://clinicaltrials.gov/study/NCT00240435) | Phase 3 | Completed | 491 | Tiotropium Respimat 5 and 10 mcg vs placebo and ipratropium MDI over 12 weeks in COPD (bronchodilator efficacy) |
+| [NCT01431274](https://clinicaltrials.gov/study/NCT01431274) | Phase 3 | Completed | 2624 | 52-week efficacy and safety of tiotropium + olodaterol vs individual components in COPD (TOnado 1) |
+| [NCT00772538](https://clinicaltrials.gov/study/NCT00772538) | Phase 3 | Completed | 459 | Tiotropium 5 mcg vs placebo over 48 weeks as add-on therapy in severe persistent asthma |
+| [NCT01316380](https://clinicaltrials.gov/study/NCT01316380) | Phase 3 | Completed | 465 | Tiotropium 2.5 and 5 mcg vs placebo over 12 weeks in mild persistent asthma |
+| [NCT01854645](https://clinicaltrials.gov/study/NCT01854645) | Phase 3 | Completed | 2103 | 24-week study of glycopyrronium/formoterol and related MDI products vs placebo, with open-label tiotropium as active control, in moderate to very severe COPD |
+| [NCT00900731](https://clinicaltrials.gov/study/NCT00900731) | Phase 3 | Completed | 1598 | Indacaterol vs tiotropium over 12 weeks in moderate to severe COPD |
+| [NCT00877383](https://clinicaltrials.gov/study/NCT00877383) | Phase 3 | Completed | 1142 | Indacaterol added to tiotropium vs tiotropium alone over 12 weeks in COPD |
+| [NCT00157235](https://clinicaltrials.gov/study/NCT00157235) | Phase 3 | Completed | 234 | Tiotropium vs placebo on exercise tolerance during pulmonary rehabilitation in COPD |
+| [NCT02172443](https://clinicaltrials.gov/study/NCT02172443) | Phase 3 | Completed | 50 | Tiotropium capsules 18 mcg vs ipratropium MDI in COPD (small active-comparator study) |
+| [NCT04780984](https://clinicaltrials.gov/study/NCT04780984) | Phase 2 | Completed | 116 | Dose-ranging pharmacodynamics, bioavailability and safety of tiotropium inhalation solution in COPD |
 
 ---
 
@@ -88,30 +86,40 @@ In other words, the mechanistic applicability is high because the "new" indicati
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [28877027](https://pubmed.ncbi.nlm.nih.gov/28877027/) | 2017 | RCT | N Engl J Med | Long-term tiotropium improves lung function and slows decline in mild/moderate, early-stage COPD |
-| [25046211](https://pubmed.ncbi.nlm.nih.gov/25046211/) | 2014 | Review/Meta-analysis (Cochrane) | Cochrane Database Syst Rev | Systematic review confirming tiotropium efficacy vs. placebo across multiple COPD trials |
-| [29605624](https://pubmed.ncbi.nlm.nih.gov/29605624/) | 2018 | RCT (DYNAGITO) | Lancet Respir Med | Tiotropium+olodaterol vs. tiotropium alone for prevention of COPD exacerbations |
-| [26391969](https://pubmed.ncbi.nlm.nih.gov/26391969/) | 2015 | Review (Cochrane) | Cochrane Database Syst Rev | Comparative review of tiotropium vs. ipratropium bromide in stable COPD |
-| [32727455](https://pubmed.ncbi.nlm.nih.gov/32727455/) | 2020 | Review | Respiratory Research | Overview of tiotropium's clinical development program as LAMA monotherapy across GOLD groups B/C/D |
-| [35510163](https://pubmed.ncbi.nlm.nih.gov/35510163/) | 2022 | Cohort (real-world) | Int J Chron Obstruct Pulmon Dis | Multicenter Taiwan-based comparison of tiotropium/olodaterol vs. other LABA/LAMA combinations in COPD |
-| [19402836](https://pubmed.ncbi.nlm.nih.gov/19402836/) | 2009 | Meta-analysis | Respirology | Efficacy and safety of tiotropium in Chinese patients with stable COPD |
-| [12010082](https://pubmed.ncbi.nlm.nih.gov/12010082/) | 2002 | Review | Drugs | Pharmacological profile and clinical efficacy summary of tiotropium bromide in COPD |
-| [10069510](https://pubmed.ncbi.nlm.nih.gov/10069510/) | 1999 | Review | Life Sciences | Original mechanistic characterization of tiotropium as a slow-dissociating M1/M3-selective antimuscarinic |
-| [16030078](https://pubmed.ncbi.nlm.nih.gov/16030078/) | 2005 | Review | Ann Pharmacother | Review of tiotropium efficacy and tolerability as a COPD bronchodilator |
+| [28877027](https://pubmed.ncbi.nlm.nih.gov/28877027/) | 2017 | RCT | N Engl J Med | Long-term tiotropium in mild to moderate (early-stage) COPD, assessing lung function and its decline |
+| [29779416](https://pubmed.ncbi.nlm.nih.gov/29779416/) | 2018 | RCT | Am J Respir Crit Care Med | SUNSET: de-escalating triple therapy to indacaterol/glycopyrronium in COPD |
+| [25046211](https://pubmed.ncbi.nlm.nih.gov/25046211/) | 2014 | Systematic review | Cochrane Database Syst Rev | Tiotropium vs placebo for COPD |
+| [26391969](https://pubmed.ncbi.nlm.nih.gov/26391969/) | 2015 | Systematic review | Cochrane Database Syst Rev | Tiotropium vs ipratropium bromide for COPD |
+| [23728670](https://pubmed.ncbi.nlm.nih.gov/23728670/) | 2013 | Systematic review | Cochrane Database Syst Rev | Inhaled steroid plus LABA combination vs tiotropium in COPD |
+| [32727455](https://pubmed.ncbi.nlm.nih.gov/32727455/) | 2020 | Review | Respir Res | Review of the clinical development of tiotropium in COPD |
+| [33095662](https://pubmed.ncbi.nlm.nih.gov/33095662/) | 2021 | Review | Curr Med Res Opin | Tiotropium + olodaterol for reducing and managing COPD exacerbations |
+| [31119643](https://pubmed.ncbi.nlm.nih.gov/31119643/) | 2019 | Review | Drugs | Tiotropium/olodaterol fixed-dose combination in COPD |
+| [12010082](https://pubmed.ncbi.nlm.nih.gov/12010082/) | 2002 | Review | Drugs | Tiotropium is an anticholinergic bronchodilator with long M3 receptor residence and once-daily dosing |
+| [10069510](https://pubmed.ncbi.nlm.nih.gov/10069510/) | 1999 | Pharmacology review | Life Sci | Mechanistic considerations and clinical profile of tiotropium in obstructive lung disease |
 
 ---
 
 ## India Market Information
 
-Tiotropium is currently **not marketed** in this jurisdiction — `total_licenses = 0`, and no authorization records are present in the evidence pack (`licenses: []`). There is no local product name, dosage form, or approved-indication text on file to report.
+Tiotropium has 20 valid single-ingredient registrations and no cancelled ones. Five representative authorizations are shown below. The records contain no approved-indication text.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 2361 | Aerotrop 18mcg Rotacap (Macleods) | Packet of 15 rotacaps | Not stated in the records |
+| 215127 | Tiova Rotacap (Cipla) | Bottle of 30 rotacaps | Not stated in the records |
+| 215189 | Tiate Transhaler (Lupin) | Packet of 180 MDI Transhaler | Not stated in the records |
+| 216396 | Tiomist CFC Free 9mcg Inhaler (Zydus Cadila) | Packet of 120 MDI Inhaler | Not stated in the records |
+| 206247 | Solbihale T Redicaps (Dr Reddy's) | Packet of 30 redicaps | Not stated in the records |
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: The evidence pack's DDI query returned **430 total interactions**. The most clinically notable pattern is **additive anticholinergic burden** with other antimuscarinic/anticholinergic agents — flagged as *Moderate* severity for: Hyoscyamine, Atropine, Glycopyrronium (systemic and topical), Clidinium, Dicyclomine, Eluxadoline, Trospium, Mepenzolate, Methscopolamine, Propantheline, and Scopolamine. Co-administration may increase risk of dry mouth, urinary retention, constipation, and blurred vision. A *Minor* interaction was noted with Cimetidine. Several additional interactions (e.g., Calcitriol, Pantoprazole, Glimepiride, Mesalazine, Doxycycline) are recorded at "Unknown" severity and warrant individual review before use.
+- **Contraindications / conditions of concern (from the knowledge graph, not label text)**: benign prostatic hyperplasia, impaired renal function, angle-closure (closed-angle) glaucoma, and bladder neck obstruction.
+- **Drug Interactions**: 430 interactions were recorded. The main ones are additive anticholinergic effects (Moderate) with other antimuscarinics, including hyoscyamine, atropine, glycopyrronium, clidinium, dicyclomine, trospium, scopolamine, methscopolamine, propantheline and mepenzolate. Other Moderate interactions include eluxadoline, prucalopride and inhaled insulin. Cimetidine is Minor.
+- **Ocular safety**: one completed study (NCT06525051, n=108) examined tiotropium's effect on anterior chamber parameters and intraocular pressure, consistent with the glaucoma caution.
 
-*(Key warnings and contraindications were not available in this pack — flagged as Blocking data gap DG001, requiring TFDA/CDSCO label retrieval before safety sign-off.)*
+Please refer to the package insert for the full warnings and precautions.
 
 ---
 
@@ -120,15 +128,14 @@ Tiotropium is currently **not marketed** in this jurisdiction — `total_license
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The obstructive-lung-disease indication is backed by L1-level evidence — multiple large, completed Phase 3 RCTs (including the 5,993-patient UPLIFT trial and the 914-patient SAFE study) plus Cochrane-level systematic reviews confirm bronchodilator efficacy. However, this jurisdiction currently has **zero registrations** for the product, and two Blocking/High-severity data gaps (local label warnings/contraindications, and a structured MOA record) must be closed before any regulatory or clinical-use decision.
+Multiple completed Phase 3 RCTs, Cochrane reviews and an NEJM trial support tiotropium in COPD and asthma, and the drug is widely marketed in India. This is an established indication rather than novel repurposing, so evidence is strong. The guardrails reflect missing label-level safety data and the anticholinergic risks in vulnerable patients.
 
 **To proceed, the following is needed:**
-- Retrieve and parse the official product label (warnings, contraindications) — currently a Blocking gap (DG001)
-- Confirm structured MOA via DrugBank API — currently a High-severity gap (DG002)
-- Local market-authorization dossier assessment, since the drug has no current registration despite strong global evidence
-- Formal review of anticholinergic DDI risk in target patient populations (esp. concomitant antimuscarinic use)
-
-**Note on other predicted candidates in this pack:** Predictions ranked #2 (respiratory malformation), #3 (Rienhoff syndrome), #6–#10 (interstitial emphysema, hyperlucent lung, compensatory emphysema, tracheal stenosis, CD8α-related immunodeficiency) were all scored L5/Hold — these reflect structural, congenital, or immunologic conditions with no plausible mechanistic link to LAMA pharmacology and no supporting trials or literature; they should be treated as knowledge-graph noise rather than actionable candidates. Rank #4 ("COPD, severe early onset") and rank #5 ("chronic obstructive pulmonary disease" itself) are consistent with and reinforce the rank #1 conclusion above.
+- India package insert warnings and contraindications (currently a blocking data gap)
+- Detailed mechanism of action data from DrugBank
+- Approved-indication text for the India registrations
+- Safety monitoring plan for patients with glaucoma, prostatic hyperplasia, bladder neck obstruction or renal impairment, and for co-use with other anticholinergics
+- Other predicted indications (rank 2 and ranks 6-10) should remain on hold, and the severe early-onset COPD prediction needs phenotype-specific data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Fenfluramine
 parent: Model Prediction Only (L5)
-nav_order: 340
+nav_order: 343
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Fenfluramine: From Undocumented Original Indication to Proximal 16p11.2 Microdeletion Syndrome
+# Fenfluramine: From Obesity to Proximal 16p11.2 Microdeletion Syndrome
 
 ## One-Sentence Summary
 
-The evidence pack does not document fenfluramine's original approved indication or mechanism of action.
-The TxGNN model predicts a possible association with **proximal 16p11.2 microdeletion syndrome** (score **99.93%**),
-but **zero clinical trials** and **zero publications** currently support this direction, and the evidence pack's own mechanistic review flags the prediction as likely knowledge-graph noise rather than a genuine repurposing signal.
+Fenfluramine was originally used to treat obesity, including monogenic obesity.
+The TxGNN model predicts it may be effective for **proximal 16p11.2 microdeletion syndrome**,
+but **no clinical trials or publications** currently support this prediction, so it is a model-based hypothesis only.
 
 ---
 
@@ -43,56 +43,59 @@ but **zero clinical trials** and **zero publications** currently support this di
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack |
+| Original Indication | Obesity disorder; monogenic obesity (from the knowledge graph, as no approved indication text is available for the India license) |
 | Predicted New Indication | Proximal 16p11.2 microdeletion syndrome |
 | TxGNN Prediction Score | 99.93% |
-| Evidence Level | L5 (model prediction only, no trials or literature) |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for fenfluramine is not available in this evidence pack (marked as a High-severity data gap, DG002). What can be extracted from the evidence pack's own repurposing analysis is that fenfluramine acts as a serotonin releasing agent / reuptake inhibitor, with pharmacological activity centered on the appetite-regulation center and the 5-HT2C receptor.
+Currently, detailed mechanism of action data is not available. Based on known information, fenfluramine is a serotonergic agent that is understood to release serotonin and act on 5-HT receptors. Its efficacy in obesity was the basis of its original use, and it has also been used in seizure disorders.
 
-Proximal 16p11.2 microdeletion syndrome, by contrast, is a structural chromosomal copy-number disorder presenting with developmental delay, obesity, and autism-spectrum features. Its pathophysiology stems from gene-dosage imbalance rather than a receptor or pathway that can be pharmacologically modulated. The evidence pack's own mechanistic assessment explicitly concludes there is **no direct mechanistic correspondence** between fenfluramine's serotonergic activity and the root cause of this syndrome, and suggests the high TxGNN score likely reflects an over-weighted "obesity/appetite phenotype" node association in the knowledge graph rather than a genuine therapeutic signal.
+The 16p11.2 deletion is associated with obesity and with neurodevelopmental and epilepsy phenotypes. This overlaps with both fenfluramine's original obesity use and its use in seizure disorders, which may explain the high model score.
 
-The remaining top-ranked candidates (hypervitaminosis, obsolete hypertelorism, frontorhiny) were assessed with the same conclusion — each lacks any plausible mechanistic pathway connecting fenfluramine's known pharmacology to the candidate disease, and each is attributed to probable graph co-occurrence noise rather than biological plausibility. This pattern across all four top-ranked predictions is itself a notable finding and warrants review of the underlying prediction/ranking methodology before further evaluation.
+This link is plausible but unverified. The score reflects a graph-based prediction, not clinical evidence, and should not be treated as proof of efficacy.
+
+Other predictions from the model (hypervitaminosis, hypertelorism, frontorhiny) show no identifiable mechanistic link to fenfluramine and are likely network artifacts or data-quality issues. They are not pursued in this report.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## India Market Information
 
-No India market authorizations found — fenfluramine is currently **not marketed** in India (total registrations: 0).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 176203 | Ponderax 20mg Tablet (Serdia Pharmaceuticals India Pvt Ltd) | Strip of 10 tablets (oral) | Not specified |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**: A DDI query returned 303 total interactions on record. Notable **Major**-severity interactions include:
-- Fentanyl
-- Dextromethorphan
-- Tramadol
-- Alfentanil
-- Almotriptan
+- **Contraindications flagged in the knowledge graph** (model-derived associations, not label text): hypertension, pulmonary hypertension, substance abuse/dependence, type 1 and type 2 diabetes mellitus, diabetic ketoacidosis, glaucoma.
+- **Drug Interactions**: 303 interactions are recorded. Major-level examples include:
+  - Fentanyl, alfentanil and tramadol (opioids)
+  - Dextromethorphan
+  - Almotriptan
 
-Additional **Moderate**-severity interactions include Abciximab, Abiraterone, Acalabrutinib, Acarbose, Dihydrocodeine, Codeine, Formoterol, Ketorolac, Trastuzumab emtansine, Ibuprofen, Albiglutide, Salbutamol, Ethanol, and Alogliptin/Pioglitazone, among others (303 total).
+  Moderate-level examples include antidiabetic agents (acarbose, alogliptin, pioglitazone, albiglutide), NSAIDs (ibuprofen, ketorolac), codeine, dihydrocodeine, salbutamol, formoterol and ethanol.
 
-Label-level warnings and contraindications are not available in this evidence pack (data gap DG001, Blocking severity) — please refer to the official package insert once obtained.
+Please also refer to the package insert for full warnings and contraindications, as label-based safety text was not available.
 
 ---
 
@@ -101,14 +104,14 @@ Label-level warnings and contraindications are not available in this evidence pa
 **Decision: Hold**
 
 **Rationale:**
-All four top-ranked predicted indications are Evidence Level L5 (no clinical trials, no literature), and the evidence pack's own mechanistic review concludes none of them have a plausible biological link to fenfluramine's known pharmacology — the high TxGNN scores are assessed as likely artifacts of knowledge-graph co-occurrence rather than genuine repurposing signals. In addition, a Blocking-severity data gap (missing TFDA/label safety data) prevents even an initial S1 safety evaluation.
+The prediction score is very high (99.93%), but it is a model prediction only, with no clinical trials or literature (Evidence Level L5). The proposed serotonergic link to 16p11.2 microdeletion syndrome remains hypothetical.
 
 **To proceed, the following is needed:**
-- TFDA (or relevant regulatory) package insert warnings/contraindications (DG001, Blocking)
-- Confirmed mechanism of action data from DrugBank or equivalent source (DG002, High)
-- Documentation of fenfluramine's original approved indication(s)
-- Re-review of the TxGNN prediction/ranking methodology, given that all top 4 candidates were independently flagged as mechanistically implausible
-- If lower-ranked candidates exist with stronger mechanistic rationale, prioritize those for evaluation instead
+- Detailed mechanism of action data (MOA)
+- Package insert warnings and contraindications for the India-marketed product
+- A literature and trial search specific to fenfluramine in 16p11.2 microdeletion syndrome
+- A review of the cardiovascular and pulmonary hypertension risks, given the contraindication signals and the serotonergic mechanism
+- Assessment of route and formulation compatibility for the proposed indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

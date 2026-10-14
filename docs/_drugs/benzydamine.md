@@ -29,81 +29,61 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Benzydamine: From Oral/Pharyngeal Anti-inflammatory to Benign Prostatic Hyperplasia
+# Benzydamine: From Local Oral and Throat Use to Benign Prostatic Hyperplasia
 
 ## One-Sentence Summary
 
-Benzydamine is a non-steroidal anti-inflammatory drug (NSAID) with local anesthetic properties, commonly used for oral mucositis, pharyngitis, and gynaecological inflammation.
-The TxGNN model predicts it may be effective for **Benign Prostatic Hyperplasia (BPH)**,
-with a high prediction score of **99.26%**; however, **no supporting clinical trials or published literature** were identified, making this a model-only prediction at this stage.
-
----
+Benzydamine is marketed in India mainly as a mouthwash, gargle and dental gel product.
+The TxGNN model predicts it may be effective for **benign prostatic hyperplasia (BPH)**, but **no clinical trials and no publications** currently support this direction, so the prediction is computational only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Oral/pharyngeal inflammation (oral mucositis, pharyngitis); detailed regulatory indication data not available in India |
-| Predicted New Indication | Benign Prostatic Hyperplasia (BPH) |
+|------|------|
+| Original Indication | Not stated in the registration records compiled for this report (the approved indication text is blank for all licenses; products are oral rinses, gargles and a dental gel) |
+| Predicted New Indication | Benign prostatic hyperplasia |
 | TxGNN Prediction Score | 99.26% |
-| Evidence Level | L5 — Model prediction only; no clinical trials or literature identified |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action (MOA) data for Benzydamine is not available in the current dataset. Based on established pharmacological knowledge, Benzydamine is a benzimidazole-derived NSAID with three theoretically relevant mechanisms that may connect it to BPH pathophysiology.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general background knowledge (not from the supplied data), benzydamine is a locally acting NSAID with anti-inflammatory, analgesic and local anaesthetic properties. These are thought to involve reduced pro-inflammatory cytokines such as TNF-alpha and IL-1beta, together with membrane-stabilising effects.
 
-**Anti-inflammatory axis:** BPH pathogenesis is closely linked to chronic low-grade inflammation within the prostatic microenvironment, characterised by elevated levels of IL-6, IL-8, and TNF-α. Benzydamine is known to inhibit TNF-α translation and COX-dependent prostaglandin synthesis, which may theoretically attenuate the inflammatory proliferative stimulus in prostate tissue. This represents the strongest mechanistic rationale, though evidence remains indirect and organ-level data are absent.
+A possible link to the new indication is that inflammation is believed to contribute to prostatic enlargement and lower urinary tract symptoms, so an anti-inflammatory agent could plausibly be relevant. This link is speculative. The very high TxGNN score reflects a model prediction only, and it has not been tested in preclinical or clinical studies.
 
-**Local anesthetic and sensory nerve modulation:** Benzydamine's sodium channel blocking activity may influence prostatic sensory afferent input, potentially improving subjective lower urinary tract symptoms (LUTS) perception without addressing the underlying tissue hyperplasia. Additionally, limited pharmacological data suggest a weak alpha-adrenoceptor antagonist activity, loosely analogous to tamsulosin; however, the potency is far below that of standard alpha-blockers and findings across literature are inconsistent. A critical limitation is that Benzydamine's low systemic bioavailability from topical formulations may preclude therapeutically relevant prostatic tissue concentrations.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+There is also a practical gap: all Indian products are mouth, throat or dental formulations. No route of administration suitable for prostatic disease has been identified, and route compatibility has not yet been assessed.
 
 ## India Market Information
 
-Benzydamine is currently **not marketed in India**. No drug approvals or product registrations were found in the regulatory dataset.
+Benzydamine has 20 valid single-ingredient registrations in India, with no cancelled licenses. The approved indication text is not recorded for any of them. Main examples:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 31318 | Bensodyl 7.5mg/6mg Mouth Wash | Mouth wash, 100 ml bottle | Not recorded |
+| 59047 | Dresin Mouthwash & Gargle | Gargle, 100 ml bottle | Not recorded |
+| 216902 | Tantum Gel | Dental gel, 20 g tube | Not recorded |
+| 215239 | Tantum Oral rinse | Mouth wash, 120 ml bottle | Not recorded |
+| 29594 | Benzyda 0.15% Mouth Wash | Mouth wash, 200 ml bottle | Not recorded |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(All available safety fields — key warnings, contraindications, and drug-drug interactions — contained no retrievable data in the current Evidence Pack. Full safety evaluation requires manual review of the CDSCO/manufacturer prescribing information.)*
-
----
+Please refer to the package insert for safety information. No warnings, contraindications or drug interaction records were available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a very high prediction score (99.26%), but all three evidence queries (ClinicalTrials.gov, ICTRP, PubMed) returned zero results for Benzydamine in BPH. With no human or preclinical in-vivo data, and critical gaps in both MOA characterisation and safety profiling, this candidate cannot advance past the hypothesis stage.
+The prediction score is very high, but it is the only support. There are no clinical trials or publications for BPH, the mechanism data are missing, and all marketed products are oral or topical formulations with no clear route for a prostatic indication.
 
 **To proceed, the following is needed:**
-
-- **Safety data remediation (Blocking):** Obtain and parse the official prescribing information (package insert) to extract key warnings and contraindications before any S1 safety assessment can begin
-- **MOA confirmation:** Retrieve structured mechanism of action data from DrugBank API (DB09084) to formally confirm TNF-α inhibition, COX inhibition, and sodium channel blocking as the operative pharmacology
-- **Preclinical evidence search:** Conduct a broader literature search using MeSH terms (e.g., "benzydamine" AND "prostate" OR "LUTS" OR "alpha-adrenergic") and expand to non-English databases; current query may have been too restrictive
-- **Prostatic pharmacokinetic data:** Determine whether systemic absorption is sufficient to achieve therapeutic concentrations in prostate tissue — this is a critical feasibility gate given Benzydamine's historically topical usage
-- **Exploratory in-vitro or in-vivo BPH model study:** If mechanistic plausibility is confirmed, a preclinical proof-of-concept study would be the minimum threshold to elevate this candidate from L5 to L4
-- **India regulatory pathway:** Since Benzydamine has no existing India registration, a full new drug application pathway would apply — factoring this into the development timeline is essential
+- Mechanism of action data (e.g., from DrugBank) to test the proposed anti-inflammatory link to BPH
+- Package insert warnings and contraindications from the India regulator, needed before any safety screening
+- Preclinical or early clinical evidence of benefit in BPH or lower urinary tract symptoms
+- Assessment of whether a suitable route or formulation exists for prostatic delivery, given that current products are local oral and dental forms
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

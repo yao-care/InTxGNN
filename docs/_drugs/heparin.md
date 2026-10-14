@@ -2,7 +2,7 @@
 layout: default
 title: Heparin
 parent: Model Prediction Only (L5)
-nav_order: 404
+nav_order: 408
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,71 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Heparin: From Anticoagulant Therapy to Thrombophilia due to Protein C Deficiency, Autosomal Recessive
+# Heparin: From Pulmonary Embolism to Thrombophilia due to Protein C Deficiency (Autosomal Recessive)
 
 ## One-Sentence Summary
 
-Heparin is a well-established anticoagulant used for the prevention and treatment of thromboembolic disease. The TxGNN model predicts it may be effective for **thrombophilia due to protein C deficiency, autosomal recessive**, with a very high prediction score (**99.29%**), but this candidate currently has **0 clinical trials** and **0 publications** as direct supporting evidence — the signal rests on mechanistic plausibility alone.
-
----
+Heparin is an anticoagulant originally used for pulmonary embolism, disseminated intravascular coagulation and purpura fulminans.
+The TxGNN model predicts it may be useful for **thrombophilia due to protein C deficiency, autosomal recessive**,
+but **no clinical trials and no publications** specific to this indication were found, so the support is **model prediction only**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Anticoagulation (prevention and treatment of thromboembolic disease) — well-established use; no India licensing record available in this dataset |
-| Predicted New Indication | Thrombophilia due to Protein C Deficiency, Autosomal Recessive |
+| Original Indication | Pulmonary embolism, disseminated intravascular coagulation, purpura fulminans, acquired purpura fulminans |
+| Predicted New Indication | Thrombophilia due to protein C deficiency, autosomal recessive |
 | TxGNN Prediction Score | 99.29% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed formal mechanism-of-action documentation is not available for this drug entry (data gap). However, based on well-established pharmacological knowledge, heparin acts by activating antithrombin III, which in turn inhibits thrombin and factor Xa — the core mechanism underlying its anticoagulant effect.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, heparin enhances antithrombin activity and thereby inhibits thrombin and factor Xa. This can offset the hypercoagulable state seen when protein C, a natural anticoagulant, is deficient.
 
-Congenital protein C deficiency causes thrombophilia because protein C normally works with protein S to inactivate factors Va and VIIIa; when deficient, patients are prone to venous thromboembolism and, when started on warfarin without bridging, to warfarin-induced skin necrosis. Heparin's antithrombin III–mediated mechanism is pharmacologically independent of the protein C pathway, making it the textbook standard of care for treating acute thrombotic events in protein C–deficient patients and for bridging anticoagulation during warfarin initiation.
+The new indication is closely linked to one of heparin's existing indications. Purpura fulminans is a severe manifestation of homozygous or compound heterozygous protein C deficiency. The high TxGNN score is probably driven largely by this overlap and is a computational prediction only.
 
-This gives the prediction strong mechanistic plausibility despite the complete absence of disease-specific trials or literature in this dataset. That absence should be read as an **evidence gap** (the condition is rare, so dedicated trials are unlikely to exist) rather than a negative signal — it warrants manual literature/guideline verification rather than outright rejection.
-
----
+In practice, this condition is managed mainly with protein C concentrate and other anticoagulation, with heparin as an adjunct. This comes from general knowledge and is not supported by the data compiled for this report.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available for this indication.
 
----
+## India Market Information
+
+Approved indication text is not available for any of the registrations. The 20 valid single-ingredient registrations include injectable vials (1 ml, 5 ml and 10 ml presentations) and one topical ointment. Main examples:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 105298 | Heprin 5000IU Injection | Vial of 1 injection | Not specified |
+| 103797 | Heparin Sodium 5000IU Injection | Vial of 5 ml injection | Not specified |
+| 104120 | Heparin 25000IU Injection | Vial of 5 ml injection | Not specified |
+| 103909 | Hep Lock Solution | Vial of 10 ml injection | Not specified |
+| 104449 | Hepgel 250IU Ointment | Tube of 15 g ointment | Not specified |
 
 ## Safety Considerations
 
-- **Drug Interactions**: DrugBank/DDInter records 614 total interactions for Heparin. Notable **Moderate**-level interactions (increased bleeding or hypoglycemia risk with concurrent use) include: Acetylsalicylic acid, Chlorpropamide, Glimepiride, Repaglinide, Nateglinide, Tolazamide, Fenfluramine, Glipizide, Glyburide, Acetohexamide, Dexfenfluramine, Sibutramine, and Tolbutamide. Additional interactions with an unclassified ("Unknown") severity level include Levocarnitine, Mannitol, Calcitriol, Vitamin A, Pantoprazole, Mesalazine, and Doxycycline. These are a partial sample from a much larger interaction list and should not be treated as exhaustive.
+- **Contraindications (from knowledge-graph drug-disease links, not label text)**: liver failure, thrombocytopenia, heparin-induced thrombocytopenia, blood coagulation disease, hemophilia, antithrombin III deficiency, Glanzmann thrombasthenia and qualitative platelet defects, intracranial and intracerebral hemorrhage, placental abruption, active peptic ulcer disease, ulcerative colitis and inflammatory bowel disease, infective endocarditis, retinal diseases (including diabetic and hypertensive retinopathy), biliary tract disease, obstructive jaundice, osteoporosis.
+- **Drug Interactions**: 614 interactions were identified. Moderate-level interactions include acetylsalicylic acid and several antidiabetic agents (chlorpropamide, glimepiride, glipizide, glyburide, tolbutamide, tolazamide, acetohexamide, repaglinide, nateglinide), as well as fenfluramine, dexfenfluramine and sibutramine.
 
-Formal key warnings and contraindications (e.g., TFDA/label-equivalent text) are not yet available for this drug and must be obtained before clinical use is considered.
-
----
+Please also refer to the package insert for label-based warnings and contraindications, which were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction score is very high and mechanistically well-supported by heparin's known antithrombin III/factor Xa pharmacology, but this candidate has zero direct clinical trial or literature evidence in the current dataset (Evidence Level L5), and critical safety documentation (warnings/contraindications) is missing entirely. The evidence base is not yet sufficient to progress beyond initial screening.
+The prediction is biologically plausible and fits with heparin's existing use in purpura fulminans. However, there are no trials or publications for this indication, and the evidence is model prediction only (L5). Label-based safety information is also missing.
 
 **To proceed, the following is needed:**
-- Manual literature/guideline search specifically for heparin use in protein C deficiency–related thrombophilia (the absence of hits here reflects a data-collection gap for a rare disease, not necessarily a lack of clinical basis)
-- TFDA/equivalent official label warnings and contraindications (Blocking data gap — required before any S1 safety screening can proceed)
-- Formal DrugBank/MOA documentation to support mechanism-of-action review
-- Confirmation of India market/licensing status, since none is currently on record
-- Note: a second TxGNN signal for this drug (primary release disorder of platelets, score 99.06%, with 30 trials/20 publications) was also reviewed but excluded — the underlying evidence overwhelmingly concerns heparin-induced thrombocytopenia (a drug-caused adverse reaction) rather than treatment of a primary platelet release defect, representing a mechanistically mismatched false-positive signal that should not be advanced.
+- Targeted literature review of heparin use in severe congenital protein C deficiency and purpura fulminans, including comparison with protein C concentrate
+- Mechanism of action data from DrugBank
+- Package insert warnings and contraindications from the India registrations
+- Confirmation of approved indications on the Indian labels
+- Clinical expert review of bleeding risk and the role of heparin as an adjunct
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

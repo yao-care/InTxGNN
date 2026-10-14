@@ -2,7 +2,7 @@
 layout: default
 title: Docusate
 parent: Model Prediction Only (L5)
-nav_order: 277
+nav_order: 280
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,86 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Docusate: From Stool Softener to Plummer-Vinson Syndrome
+# Docusate: From Constipation and Anemia to Plummer-Vinson Syndrome
 
 ## One-Sentence Summary
 
-Docusate is an anionic surfactant stool softener, primarily used to relieve constipation by reducing stool surface tension to facilitate intestinal water absorption.
-The TxGNN model predicts it may be effective for **Plummer-Vinson Syndrome**,
-however there are currently **0 clinical trials** and **0 publications** supporting this direction, and this prediction likely stems from a knowledge graph proximity artifact rather than true mechanistic relevance.
-
----
+Docusate is a stool softener (anionic surfactant) whose recorded indications include constipation, and several anemia types, most likely because it appears in combination products with iron or folate.
+The TxGNN model predicts it may be effective for **Plummer-Vinson syndrome**,
+but there are currently **no clinical trials and no publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No India registration data (drug not marketed in India) |
-| Predicted New Indication | Plummer-Vinson Syndrome |
+|------|------|
+| Original Indication | Constipation disorder; iron deficiency anemia, folic acid deficiency anemia, and other anemia types (from the knowledge graph; the approved indication text on the Indian licences is blank) |
+| Predicted New Indication | Plummer-Vinson syndrome |
 | TxGNN Prediction Score | 99.18% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 2 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Docusate is an anionic surfactant stool softener that reduces intestinal surface tension to soften stool, and may additionally inhibit P-glycoprotein and enhance drug membrane permeability. Its efficacy in constipation treatment has been established, but mechanistically this appears difficult to apply to Plummer-Vinson Syndrome.
+Currently, detailed mechanism of action data is not available. Docusate is known as a stool softener (an anionic surfactant), and it has an established role in constipation. It has no known effect on iron absorption, blood cell production, or the esophageal changes seen in Plummer-Vinson syndrome.
 
-Plummer-Vinson Syndrome (also known as Patterson-Kelly Syndrome) presents a triad of iron-deficiency anemia, esophageal web, and dysphagia, with core pathology involving iron metabolism disorders and mucosal atrophy. The known mechanisms of Docusate — reducing intestinal surface tension, P-glycoprotein inhibition, and enhancing drug membrane permeability — have no direct biological plausibility link to iron-deficiency pathology or esophageal web formation.
+Plummer-Vinson syndrome typically presents with iron deficiency anemia, difficulty swallowing and esophageal webs. The high score most likely reflects the closeness of this disease to the anemia terms (iron deficiency anemia, hypochromic anemia) linked to docusate in the knowledge graph. Those anemia links probably arise because docusate is sold in combination with iron or folate, where it offsets constipation, rather than because it treats anemia itself.
 
-The TxGNN high prediction score (0.9918) is likely derived from a **graph proximity artifact** in the knowledge graph through "gastrointestinal tract / mucosa-related node" graph distance effects, rather than a true mechanistic association. This prediction requires particularly cautious interpretation.
+A second prediction, **vitamin B12- and folate-independent constitutional megaloblastic anemia** (score 99.15%), follows the same pattern. It is a very rare, genetically driven condition, and docusate has no recognized action on DNA synthesis, vitamin B12 or folate metabolism, or red cell maturation. It also has no supporting trials or literature.
 
----
+Overall, the prediction appears to come from shared graph associations and not from a true pharmacological link.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
-Docusate is currently not marketed in India and has no approved drug registrations.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 122099 | Laxicon SG Capsule (Stadmed Pvt Ltd) | Strip of 10 capsules | Not stated |
+| Registration No. 199671 | Smuth Capsule (Aristo Pharmaceuticals Pvt Ltd) | Strip of 10 capsules | Not stated |
 
----
+Both licences are valid single-ingredient oral capsule products.
 
 ## Safety Considerations
 
-**Drug Interactions:** The following clinically relevant drug interactions have been identified:
+- **Drug Interactions** (4 recorded; none rated major):
+  - Lactulose: Moderate
+  - Mineral oil: Moderate
+  - Phenolphthalein: Moderate
+  - Linaclotide: Minor
+- **Conditions flagged as contraindications in the knowledge graph** (from drug-disease relationship data, not package insert text): peptic ulcer disease, ulcerative colitis, inflammatory bowel disease, appendicitis, gastroenteritis, chronic atrophic gastritis, potassium deficiency disease, sickle cell anemia, hemolytic anemia, hereditary persistence of fetal hemoglobin, primary hyperoxaluria, hereditary hemochromatosis, hemosiderosis, iron metabolism disease, Wilson disease, Leber hereditary optic neuropathy.
 
-| Interacting Drug | Interaction Level | Notes |
-|-----------------|------------------|-------|
-| Lactulose | Moderate | Combined use with other laxatives may increase risk of electrolyte disturbance |
-| Mineral oil | Moderate | Docusate may promote mineral oil absorption, increasing systemic exposure risk |
-| Phenolphthalein | Moderate | Combined use may enhance laxative effect and associated adverse reactions |
-| Linaclotide | Minor | Combined laxative effects; clinical significance limited |
-
-Please refer to the package insert for further safety information.
-
----
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is currently zero supporting evidence (no clinical trials, no relevant literature) for Docusate in Plummer-Vinson Syndrome, and mechanistic analysis indicates this TxGNN prediction most likely represents a knowledge graph graph proximity artifact rather than a genuine drug repurposing opportunity. Additionally, the drug is not marketed in India and lacks regulatory approval data.
+The prediction has no clinical trials or publications behind it (evidence level L5). The high model score likely reflects network proximity to anemia terms, not a real pharmacological effect, and there is no plausible mechanism linking a stool softener to Plummer-Vinson syndrome.
 
 **To proceed, the following is needed:**
-
-- Obtain official Docusate package insert (MOA, warnings, contraindications) — currently a blocking data gap
-- Confirm Docusate's mechanism of action via DrugBank API query to reassess biological plausibility
-- Conduct basic scientific literature review to determine whether any preclinical evidence supports Docusate's role in iron-deficiency anemia or esophageal mucosa repair
-- If mechanistic plausibility cannot be established, recommend removing this candidate from the repurposing pipeline and prioritizing other drug candidates
+- Mechanism of action data for docusate, to assess any plausible link
+- Package insert warnings and contraindications from the Indian regulator's records, needed before any safety screening
+- Evidence of any clinical or preclinical signal for docusate in Plummer-Vinson syndrome, such as case reports or mechanistic studies
+- Confirmation of whether the anemia indications in the knowledge graph come from iron or folate combination products, which would explain the prediction as an artefact
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

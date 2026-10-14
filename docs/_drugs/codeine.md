@@ -2,7 +2,7 @@
 layout: default
 title: Codeine
 parent: Model Prediction Only (L5)
-nav_order: 206
+nav_order: 207
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Codeine: From Analgesic/Antitussive Use to Nasal Cavity Disease
+# Codeine: From Allergic Rhinitis and Common Cold Symptoms to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-Codeine is an opioid historically used as an analgesic and antitussive (cough suppressant); no original indication or approval record is present in this Evidence Pack, and detailed mechanism-of-action data is a confirmed data gap. TxGNN predicts a possible link to **Nasal Cavity Disease** with a very high score, but the only supporting literature (2 case reports) describes intranasal opioid **abuse causing tissue necrosis and rhinolithiasis** — i.e., harm, not therapeutic benefit — and no clinical trials exist for this pairing.
+Codeine is an opioid medicine originally used for symptom relief in upper respiratory conditions (allergic rhinitis, pharyngitis, common cold) and headache disorders.
+The TxGNN model predicts it may be effective for **nasal cavity disease**, but this rests on a very high model score alone: **0 clinical trials** and **1 publication** (a case report describing an adverse event, not a benefit) are available.
+The evidence does not currently support a therapeutic repurposing.
 
 ---
 
@@ -41,23 +43,30 @@ Codeine is an opioid historically used as an analgesic and antitussive (cough su
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in this Evidence Pack (Codeine is generally known as an opioid analgesic/antitussive; DG002 flags MOA as a data gap) |
-| Predicted New Indication | Nasal Cavity Disease |
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, rhinitis, nasopharyngitis, headache disorder |
+| Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.93% |
-| Evidence Level | L4 (2 case reports only; no trials, no mechanistic support) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
+
+*Note: The original indications come from the TxGNN knowledge graph, because the approved indication text in the India licence records is blank.*
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Codeine is not available in this Evidence Pack (DG002, High severity). Based on general pharmacological knowledge, Codeine is a mu-opioid agonist used systemically for pain and centrally to suppress cough — neither mechanism has an established link to primary nasal cavity pathology.
+Currently, detailed mechanism of action data is not available. Based on known information, codeine is an opioid used mainly for cough suppression and mild pain relief. Its use in upper respiratory symptoms is well established, and mechanistically it acts through mu-opioid receptors in the central nervous system.
 
-Critically, the literature returned for this pairing does **not** support a therapeutic hypothesis. Both PubMed hits (PMID 22965281, PMID 17315836) describe **intranasal abuse of opioid-containing products causing tissue necrosis, rhinolithiasis, and a foreign-body "opioma"** — these are adverse/toxic events, not evidence of treatment efficacy. One of the two reports concerns hydrocodone-acetaminophen, not Codeine itself, further weakening the direct evidence base.
+The high prediction score most likely reflects the closeness of nasal cavity disease to the approved indications (rhinitis, nasopharyngitis) in the knowledge graph. This is anatomical and symptomatic adjacency, not proof of benefit. Codeine's central antitussive and analgesic actions do not address nasal pathology, and no plausible mechanism for treating nasal cavity disease is supported.
 
-The TxGNN score of 99.93% most likely reflects a **co-occurrence artifact** (Codeine and nasal-cavity terms appear together in adverse-event literature) rather than a genuine repurposing signal. The same pattern repeats across the other top-ranked predictions in this pack: acute laryngopharyngitis (L5, no evidence at all), trigeminal autonomic cephalalgia (L4, headache-society guidance explicitly discourages opioids), and allergic urticaria (L4, literature shows Codeine **causes** mast-cell degranulation/urticaria rather than treating it). All four were independently scored "Hold" in the source evidence pack.
+The only publication is a case report of a rhinolith (nasal stone) that formed around a hardened codeine and opium foreign body. This is an incidental or adverse event, not a therapeutic effect.
+
+Other predictions in the ranked list show the same pattern:
+- **Acute laryngopharyngitis** (score 99.92%): no trials or literature; adjacent to the approved pharyngitis and cold indications. Codeine use in children with upper respiratory conditions is restricted because of ultra-rapid CYP2D6 metabolism risk.
+- **Trigeminal autonomic cephalalgia** (score 99.43%): opioids are not recommended for cluster headache, and the retrieved papers show no codeine benefit. Opioids also carry a risk of medication-overuse headache and dependence.
+- **Allergic urticaria** (score 99.37%): the literature points in the opposite direction. Codeine directly triggers mast-cell histamine release and is used as a positive control in skin tests, so it can provoke urticaria rather than treat it.
 
 ---
 
@@ -71,22 +80,33 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [22965281](https://pubmed.ncbi.nlm.nih.gov/22965281/) | 2012 | Case report | The Laryngoscope | Intranasal hydrocodone-acetaminophen abuse caused necrosis of the nasal cavity and pharynx — adverse event, not therapeutic use |
-| [17315836](https://pubmed.ncbi.nlm.nih.gov/17315836/) | 2007 | Case report | Ear, Nose & Throat Journal | Rhinolithiasis ("opioma") formed around an impacted mixture of codeine and opium in the nasal cavity — foreign-body/toxicity case, not treatment evidence |
+| [17315836](https://pubmed.ncbi.nlm.nih.gov/17315836/) | 2007 | Case report | Ear, Nose & Throat Journal | A 21-year-old man had a rhinolith formed around a hardened codeine and opium foreign body ("opioma"). It was an unusual cause of nasal obstruction, not a treatment benefit. |
 
 ---
 
 ## India Market Information
 
-No registration records available — Codeine is currently not marketed in this jurisdiction under this Evidence Pack (0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 52843 | Codybex Syrup | Syrup, 100 ml bottle | Not stated in the licence record |
+| 43548 | Codifem Syrup | Syrup, 100 ml bottle | Not stated in the licence record |
+| 129888 | Lecof-C Syrup | Syrup, 100 ml bottle | Not stated in the licence record |
+| 36031 | Codine Sulphate 15mg Tablet | Tablet, strip of 10 | Not stated in the licence record |
+| 34726 | Codeine Phosphate Linctus | Linctus, 60 ml bottle | Not stated in the licence record |
+
+Twenty single-ingredient licences are currently valid (none cancelled). Most are syrups, with a few tablet and linctus products.
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: Database query returned 449 total interactions. Notable examples include **Major**-level interactions with Alvimopan and Bupropion, and **Moderate**-level interactions with Atropine, Cimetidine, Dexamethasone, Dronabinol, Eliglustat, Eluxadoline, Glycopyrronium, Granisetron, Hyoscyamine, and Loperamide, among others (source: DDInter).
+- **Contraindication signals from the knowledge graph** (not label text): hypertension, liver failure and liver disease, kidney disease, epilepsy, insomnia, chronic obstructive pulmonary disease, anxiety and other mental disorders (including psychotic disorders), porphyria, pancreatitis, gallbladder disease, thrombocytopenia, hypothyroidism, peptic ulcer disease, inflammatory bowel disease, gastritis, and dermatitis herpetiformis.
+- **Drug interactions**: 449 interactions are recorded. The major ones listed are **alvimopan** and **bupropion**. Moderate ones include atropine, cimetidine, dexamethasone, dicyclomine, glycopyrronium, hyoscyamine, loperamide, granisetron, dolasetron and fenfluramine.
+- **Paediatric use**: Ultra-rapid CYP2D6 metabolism makes codeine risky in children with upper respiratory conditions.
+- **Urticaria**: Codeine can directly provoke mast-cell degranulation and urticaria, which is relevant for patients with urticaria or asthma.
+- **Headache**: Opioid use carries a risk of medication-overuse headache and dependence.
 
-Key warnings and contraindications from the local product label are not yet available (DG001, Blocking severity) — please refer to the official package insert once obtained.
+Package insert warnings and contraindications were not available, so please refer to the package insert for full safety information.
 
 ---
 
@@ -95,13 +115,13 @@ Key warnings and contraindications from the local product label are not yet avai
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication is supported only by two case reports describing opioid-related nasal tissue injury, not therapeutic benefit — the mechanistic direction is inverted relative to what would justify repurposing. This pattern holds across all four top predictions in the pack, none of which have supporting trials or a coherent MOA-to-indication rationale. Codeine is also not currently marketed in this jurisdiction, and label-level safety data (DG001) is a blocking gap.
+The TxGNN score is very high, but the evidence is model prediction only (L5), with no clinical trials and a single case report that describes an adverse event. There is no plausible mechanism for benefit in nasal cavity disease, and codeine has meaningful safety concerns.
 
 **To proceed, the following is needed:**
-- TFDA/local package insert data (warnings, contraindications) — currently blocking
-- Confirmed mechanism of action from DrugBank or primary literature
-- Re-evaluation of TxGNN candidate list against literature co-occurrence bias (adverse-event mentions should be filtered from training/scoring)
-- If any indication is pursued further, dedicated preclinical or observational evidence specific to a therapeutic (not toxic) relationship
+- Package insert warnings and contraindications from the India regulator, which are required before any safety screening
+- Mechanism of action data (for example, from DrugBank)
+- Any controlled clinical evidence showing therapeutic benefit in nasal cavity disease, which does not currently exist
+- A review of the paediatric and respiratory risks, and the mast-cell and urticaria signal, if the project continues
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

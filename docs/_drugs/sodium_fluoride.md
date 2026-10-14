@@ -2,7 +2,7 @@
 layout: default
 title: Sodium Fluoride
 parent: Model Prediction Only (L5)
-nav_order: 773
+nav_order: 780
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Sodium Fluoride: From Unregistered Status to Predicted Multiple Infectious/Inflammatory Indications
+# Sodium Fluoride: From Vitamin Deficiency Disorder to Epiglottitis
 
 ## One-Sentence Summary
 
-Sodium fluoride (DrugBank DB09325) is not marketed in Taiwan and has no established original indication or mechanism of action on record. The TxGNN model predicts high-confidence associations with several infectious and inflammatory conditions (epiglottitis, urinary tract infection, gonococcal urethritis, and others), but **no clinical trials, no mechanistic data, and only tangential literature (primarily diagnostic PET imaging studies)** support these associations, indicating the predictions are likely knowledge-graph artifacts rather than genuine therapeutic signals.
+Sodium fluoride is originally associated with vitamin deficiency disorder in the underlying knowledge graph, and it is marketed in India in tablet, injectable and dental varnish forms.
+The TxGNN model predicts it may be effective for **epiglottitis**, but **no clinical trials and no publications** support this prediction.
+The prediction is a model output only and has no mechanistic or clinical backing in the data compiled for this report.
 
 ---
 
@@ -41,57 +43,66 @@ Sodium fluoride (DrugBank DB09325) is not marketed in Taiwan and has no establis
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — drug has no registered indications |
+| Original Indication | Vitamin deficiency disorder (from the knowledge graph; no approved indication text is available in the Indian licence records) |
 | Predicted New Indication | Epiglottitis |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| India Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 5 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for sodium fluoride. The drug is not registered in Taiwan and has no documented original indication, meaning there is no established pharmacological baseline from which to reason about repurposing to infectious/inflammatory disease.
+Currently, detailed mechanism of action data is not available. Based on known information, sodium fluoride is a fluoride salt used mainly in oral and dental products and as a mineral supplement, and no plausible link to its original indication of vitamin deficiency disorder has been established in the data.
 
-The six predicted indications (epiglottitis, urinary tract infection, gonococcal urethritis, Ureaplasma urethritis, uterine inflammatory disease, xanthogranulomatous pyelonephritis) are all conditions with well-characterized infectious etiologies requiring antimicrobial treatment. Sodium fluoride has no documented antibacterial or anti-inflammatory activity. The most plausible explanation for these high TxGNN scores is a **confounding signal from ¹⁸F-NaF (fluorine-18 sodium fluoride)**, a radiotracer used in PET/CT bone and cartilage imaging that frequently co-occurs in the biomedical literature with head/neck and genitourinary pathology descriptions — not because the drug treats these conditions, but because it is used to *image* related bone/cartilage lesions (e.g., metastases to the thyroid/cricoid cartilage). This is a classic case of a knowledge-graph embedding capturing a diagnostic co-occurrence pattern rather than a true drug-disease treatment relationship.
+Epiglottitis is an acute infection of the epiglottis, typically caused by bacteria such as *Haemophilus influenzae* type b. It is treated with airway management and systemic antibiotics. Sodium fluoride has no recognised antibacterial role in this setting.
 
-Mechanistically, none of these predictions have biological plausibility grounded in known fluoride pharmacology (dental/bone mineralization effects, radiotracer uptake), and no supplementary evidence (clinical trials or treatment-focused literature) closes this gap.
+The high score most likely reflects similarity in the knowledge-graph neighbourhood, not a real biological mechanism. Several other top predictions are infections (urinary tract infection, gonococcal urethritis, Ureaplasma urethritis, xanthogranulomatous pyelonephritis), and two of them share an identical score. This pattern points to a graph artifact rather than a disease-specific signal. The prediction should be treated as a hypothesis only.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for any of the six predicted indications.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Literature evidence exists only for **laryngitis** (rank 7); all other predicted indications have no supporting literature.
+Currently no related literature available for epiglottitis.
+
+A search for the lower-ranked prediction, laryngitis, returned four publications. None shows therapeutic evidence, and they are keyword-level matches only:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [29245332](https://pubmed.ncbi.nlm.nih.gov/29245332/) | 2017 | Case Report (Imaging) | Medicine | ¹⁸F-NaF PET-CT used diagnostically to detect cricoid cartilage invasion in laryngeal carcinoma — imaging use, not treatment |
-| [33156044](https://pubmed.ncbi.nlm.nih.gov/33156044/) | 2021 | Case Report (Imaging) | Clinical Nuclear Medicine | ¹⁸F-NaF PET/CT detected thyroid cartilage metastasis from breast cancer — diagnostic imaging only |
-| [26204214](https://pubmed.ncbi.nlm.nih.gov/26204214/) | 2015 | Case Report (Imaging) | Clinical Nuclear Medicine | ¹⁸F-NaF and ¹⁸F-FDG PET/CT findings in multiple myeloma with thyroid cartilage involvement — diagnostic, not therapeutic |
-| [24178785](https://pubmed.ncbi.nlm.nih.gov/24178785/) | 2013 | Animal Toxicology Study | Biological Trace Element Research | High dietary fluoride suppressed intestinal development in broiler chickens — toxicity signal, unrelated to laryngitis treatment |
-| [235491](https://pubmed.ncbi.nlm.nih.gov/235491/) | 1975 | Basic Research | Infection and Immunity | Ammonium chloride (not sodium fluoride) blocked diphtheria toxin action in cultured cells — no direct relevance |
-
-**Assessment**: None of these five papers describe sodium fluoride as a treatment for laryngitis or any related condition. Three are diagnostic ¹⁸F-NaF PET imaging case reports (the likely source of the knowledge-graph confound), one is an unrelated toxicology study, and one does not even study sodium fluoride.
+| [29245332](https://pubmed.ncbi.nlm.nih.gov/29245332/) | 2017 | Case report | Medicine | Elevated 18F-NaF PET-CT uptake in the cricoid cartilage of a patient with laryngeal carcinoma (diagnostic imaging, not treatment) |
+| [42721223](https://pubmed.ncbi.nlm.nih.gov/42721223/) | 2026 | Imaging study | Cartilage | [18F]NaF and [18F]FDG PET/CT used to assess calcification and glucose metabolism in thyroid cartilage with age |
+| [24178785](https://pubmed.ncbi.nlm.nih.gov/24178785/) | 2013 | Animal toxicology | Biol Trace Elem Res | High dietary fluorine suppressed intestinal development in broilers |
+| [235491](https://pubmed.ncbi.nlm.nih.gov/235491/) | 1975 | In vitro | Infect Immun | Ammonium chloride protected cultured cells from diphtheria toxin (not related to fluoride therapy) |
 
 ---
 
 ## India Market Information
 
-Sodium fluoride is currently **not marketed** in Taiwan (Not marketed), with zero registered licenses. No market authorization data is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 162335 | Otoflour Tablet | Strip of 10 tablets | Not specified |
+| 151622 | Nunaf Tablet | Strip of 10 tablets | Not specified |
+| 86376 | Fluoritop SR Dental Varnish 1.5 ml | Bottle of 1 paint | Not specified |
+| 59448 | D Flour Tablet | Strip of 10 tablets | Not specified |
+| 84203 | Florocid Injection | Ampoule of 8 injections | Not specified |
+
+All five registrations are valid single-ingredient products.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No TFDA warning, contraindication, or drug-interaction data is currently available for this compound (data collection pending — see Data Gaps below).
+- **Contraindications (from knowledge-graph associations, not label text)**: kidney disease, nephrolithiasis, nephrocalcinosis, acute urate nephropathy, nephrolithiasis susceptibility caused by SLC26A1, pyoureter, sarcoidosis, hyperparathyroidism, osteitis fibrosa, hypercalcemia disease, phosphorus metabolism disease, constipation disorder, lytic metastatic bone lesion, and dental fluorosis.
+
+Please refer to the package insert for further safety information, including warnings and drug interactions.
 
 ---
 
@@ -100,13 +111,14 @@ Please refer to the package insert for safety information. No TFDA warning, cont
 **Decision: Hold**
 
 **Rationale:**
-All six predicted indications lack mechanistic plausibility, clinical trial evidence, and therapeutic literature support. The available literature for the top-evidence indication (laryngitis) consists entirely of diagnostic PET-imaging case reports and unrelated toxicology/basic research, strongly suggesting the TxGNN associations are knowledge-graph artifacts driven by ¹⁸F-NaF's role as an imaging radiotracer rather than genuine repurposing signals. Combined with the drug's unregistered status in Taiwan and absent MOA data, there is no basis to advance any of these candidates beyond S0.
+The prediction rests only on a model score, with no clinical trials, no supporting literature and no plausible mechanism. Epiglottitis already has well-established treatment, and the knowledge-graph contraindications (notably renal conditions) add caution.
 
 **To proceed, the following is needed:**
-- TFDA label/warning and contraindication data (currently a Blocking data gap — DG001)
-- Confirmed mechanism of action from DrugBank or primary literature (High-severity gap — DG002)
-- Investigation into whether TxGNN training data conflates therapeutic sodium fluoride with ¹⁸F-NaF diagnostic radiotracer entries, which appears to be driving spurious high-confidence predictions
-- If pursued further, in vitro/preclinical evidence of any antimicrobial or anti-inflammatory activity before any clinical hypothesis is considered
+- Detailed mechanism of action data (MOA) and a testable antibacterial or anti-inflammatory rationale
+- Package insert warnings and contraindications for the Indian products
+- Preclinical or in vitro evidence for activity relevant to epiglottitis
+- Confirmation of the approved indications and routes of administration for the registered products
+- Review of whether the high-scoring infection predictions reflect a graph artifact
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

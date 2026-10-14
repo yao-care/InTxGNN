@@ -2,7 +2,7 @@
 layout: default
 title: Ursodeoxycholic Acid
 parent: Model Prediction Only (L5)
-nav_order: 868
+nav_order: 877
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,94 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Ursodeoxycholic Acid: From Cholestatic Liver Disease to Homozygous Familial Hypercholesterolemia
+# Ursodeoxycholic Acid: From Gallstone and Biliary Disease to Homozygous Familial Hypercholesterolemia
 
 ## One-Sentence Summary
 
-Ursodeoxycholic acid (UDCA) is a naturally occurring bile acid used primarily in the treatment of cholestatic liver diseases such as primary biliary cholangitis and gallstone dissolution.
-The TxGNN model predicts it may be effective for **Homozygous Familial Hypercholesterolemia (HoFH)**,
-however this prediction is currently supported by **0 clinical trials** and **0 publications**, representing model-only evidence.
-
----
+Ursodeoxycholic acid (UDCA) is a bile acid originally used to treat gallstone disease (cholelithiasis, cholecystolithiasis, choledocholithiasis) and primary biliary cholangitis.
+The TxGNN model predicts it may be effective for **homozygous familial hypercholesterolemia (HoFH)**,
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available from India regulatory data (no registered licenses) |
-| Predicted New Indication | Homozygous Familial Hypercholesterolemia |
+|------|------|
+| Original Indication | Cholelithiasis, cholecystolithiasis, choledocholithiasis, primary biliary cholangitis, Reynolds syndrome (from the knowledge graph; the approved indication text on Indian licences is blank) |
+| Predicted New Indication | Homozygous familial hypercholesterolemia |
 | TxGNN Prediction Score | 99.86% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data sources queried. Based on known pharmacology, UDCA is a hydrophilic bile acid that modulates bile acid pool composition, hepatoprotection, and cholesterol homeostasis. Its indirect effects on cholesterol metabolism are mechanistically plausible as a starting point for the model's inference.
+Currently, detailed mechanism of action data is not available. Based on known information, UDCA is a bile acid with established use in gallstone dissolution and primary biliary cholangitis, and it acts on bile acid and cholesterol metabolism, so it may be mechanistically linked to a lipid disorder.
 
-The predicted link to homozygous familial hypercholesterolemia (HoFH) likely arises from UDCA's multi-pronged influence on cholesterol pathways: it replaces toxic hydrophobic bile acids in the bile acid pool, inhibits HMG-CoA reductase to reduce hepatic cholesterol synthesis, activates the nuclear receptor FXR to upregulate the cholesterol transporters ABCG5/ABCG8 (increasing biliary cholesterol excretion), and reduces intestinal cholesterol absorption. These mechanisms collectively lower systemic cholesterol load.
+A plausible but unverified link runs through cholesterol handling. UDCA is reported to reduce intestinal cholesterol absorption and to suppress hepatic cholesterol synthesis and secretion, and it may lower LDL cholesterol modestly. This shared lipid and bile acid pathway is the most likely reason the graph model connects the drug to hypercholesterolemia.
 
-However, the biological rationale for HoFH specifically is weak. HoFH is defined by biallelic loss-of-function mutations in the LDL receptor (LDLR), rendering the hepatic LDL-receptor clearance pathway non-functional. As a result, plasma LDL-C typically reaches 500–1,000 mg/dL—a severity that UDCA's incremental cholesterol-lowering effects cannot meaningfully address. The TxGNN high score most likely reflects topological overlap of cholesterol metabolism nodes within the knowledge graph rather than disease-specific therapeutic potential. This mismatch between mechanism magnitude and disease severity warrants caution.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+The mechanistic case is weak, however. HoFH is caused mainly by LDL receptor dysfunction (variants in LDLR, APOB, PCSK9 or LDLRAP1), and its LDL elevation is largely independent of the pathways UDCA affects. A meaningful effect is therefore doubtful. The high score most likely reflects network proximity in the knowledge graph (shared lipid and bile acid nodes) and not demonstrated efficacy.
 
 ## India Market Information
 
-Ursodeoxycholic acid is currently **not marketed in India** under any registered license. No authorization records are available in the India regulatory database.
+UDCA is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled. The approved indication text is not listed for these registrations. Five representative registrations:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 232290 | UD Dox 300mg Tablet | Strip of 10 tablets | Not listed |
+| 230251 | Urdohep 300 Tablet | Strip of 10 tablets | Not listed |
+| 231713 | Udcasafe 300mg Tablet | Strip of 10 tablets | Not listed |
+| 231464 | Uvido 300mg Tablet | Strip of 10 tablets | Not listed |
+| 200052 | Shinoliv 300mg Tablet | Strip of 10 tablets | Not listed |
 
 ## Safety Considerations
 
-**Drug Interactions (272 total interactions identified):**
+- **Drug Interactions**: The interaction screen returned 272 potential interactions. The first 20 entries listed include:
+  - Minor: cyclosporine, aluminum hydroxide, magaldrate
+  - Severity not classified: cyanocobalamin, calcitriol, folic acid, pravastatin, ramipril, lorazepam, tramadol, fluconazole, oseltamivir, erythromycin, sildenafil, pantoprazole, citalopram, moxifloxacin, nelfinavir, glimepiride, indinavir
+  - Of note for a lipid indication, pravastatin (a statin) appears among the interacting drugs, and its severity is not classified. Concomitant use with lipid-lowering therapy would need review.
 
-Notable interactions from available data:
-
-| Interacting Drug | Interaction Level | Clinical Note |
-|-----------------|------------------|---------------|
-| Cyclosporine | Minor | Possible minor pharmacokinetic interaction |
-| Aluminum hydroxide | Minor | Antacids may reduce UDCA absorption; separate dosing recommended |
-| Magaldrate | Minor | Similar to aluminum hydroxide — may impair UDCA absorption |
-| Pravastatin | Unknown | Interaction profile unclear; monitor if co-administered |
-| Fluconazole | Unknown | Interaction profile unclear |
-| Erythromycin | Unknown | Interaction profile unclear |
-| Nelfinavir | Unknown | Interaction profile unclear |
-| Indinavir | Unknown | Interaction profile unclear |
-
-A total of 272 drug interactions have been identified in the DDI database. The majority (269) are classified as "Unknown" severity, indicating that interaction profiles have not been fully characterised. Please consult the package insert and a current drug interaction database for comprehensive review before initiating combination therapy.
-
-Please refer to the package insert for full warnings and contraindication information, as those data were not available in this evidence pack.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN prediction score (99.86%), there is zero clinical or published evidence supporting the use of UDCA in homozygous familial hypercholesterolemia, and the mechanistic rationale is structurally weak — HoFH's core LDLR deficiency cannot be compensated by UDCA's bile acid–mediated cholesterol modulation. The score likely reflects knowledge graph topology artefacts rather than actionable biology.
+The prediction has no supporting clinical trials or literature (evidence level L5), and the proposed mechanism is doubtful because HoFH is driven by LDL receptor defects that UDCA does not address. The drug's established safety record and wide Indian availability do not offset the lack of efficacy evidence.
 
 **To proceed, the following is needed:**
-- Retrieve full MOA data from DrugBank API to confirm or refute mechanistic plausibility
-- Conduct targeted literature review using broader search terms (UDCA + dyslipidaemia, UDCA + familial hypercholesterolaemia, UDCA + LDL-C) to rule out any indirect evidence not captured in the current query
-- Obtain India package insert to complete key warnings and contraindications (currently blocking safety evaluation at Stage S1)
-- Evaluate whether TxGNN's high score for HoFH is a systematic false positive due to cholesterol pathway node over-representation in the knowledge graph — if so, consider down-weighting this class of predictions
-- If UDCA is to be pursued for any lipid-related indication, heterozygous FH or non-familial hypercholesterolaemia would represent more biologically defensible targets than HoFH
+- Mechanism of action data for UDCA, to allow a proper mechanistic analysis
+- Package insert warnings and contraindications for Indian products (the safety screen cannot proceed without them)
+- Preclinical or clinical data showing an LDL-lowering effect of UDCA in HoFH or related LDL receptor-deficient models
+- A review of the literature on UDCA and LDL cholesterol in other lipid disorders
+- Assessment of interactions with standard HoFH therapies, including statins
+- Confirmation of route compatibility (the oral tablet is the only Indian dosage form listed)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

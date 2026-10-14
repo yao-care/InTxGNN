@@ -2,7 +2,7 @@
 layout: default
 title: Pinaverium
 parent: Model Prediction Only (L5)
-nav_order: 666
+nav_order: 673
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,11 +29,11 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Pinaverium: From Irritable Bowel Syndrome to Benign Prostatic Hyperplasia
+# Pinaverium: From Irritable Bowel Syndrome (Gastrointestinal Spasm) to Benign Prostatic Hyperplasia
 
 ## One-Sentence Summary
 
-Pinaverium is a gut-selective calcium channel blocker best known for relieving intestinal spasm in irritable bowel syndrome (IBS); formal TFDA-approved indication data is not available since the drug is not currently marketed in Taiwan. The TxGNN model predicts it may be effective for **Benign Prostatic Hyperplasia (BPH)**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it rests entirely on knowledge-graph embedding similarity.
+Pinaverium is a gastrointestinal-selective calcium channel blocker (antispasmodic), generally used for irritable bowel syndrome. The TxGNN model predicts it may be effective for **benign prostatic hyperplasia (BPH)**, but **no clinical trials and no publications** currently support this direction. The prediction rests on the model alone.
 
 ---
 
@@ -41,47 +41,49 @@ Pinaverium is a gut-selective calcium channel blocker best known for relieving i
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in TFDA data (drug not marketed in Taiwan); pharmacologically known for IBS-related intestinal spasm |
-| Predicted New Indication | Benign Prostatic Hyperplasia (BPH) |
+| Original Indication | Not stated in the registration data compiled for this report (general pharmacology: irritable bowel syndrome / GI smooth muscle spasm) |
+| Predicted New Indication | Benign prostatic hyperplasia |
 | TxGNN Prediction Score | 99.22% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| Taiwan Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Pinaverium is a musculotropic calcium antagonist that acts selectively on L-type calcium channels in gastrointestinal smooth muscle, reducing intestinal wall tension. This gut-selective mechanism is why it has been used clinically to relieve spasm associated with IBS.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, pinaverium is a gastrointestinal-selective L-type calcium channel blocker that relaxes gut smooth muscle, and it is used for irritable bowel syndrome.
 
-The proposed link to BPH is a cross-organ pharmacological extrapolation: lower urinary tract symptoms (LUTS) in BPH are partly driven by excessive smooth muscle tone in the bladder neck and prostate, and calcium channel blockade could theoretically relax this tissue as well. However, this is not a mechanism the drug was designed or previously documented for — it is inferred purely from structural/functional similarity in the TxGNN knowledge graph.
+A plausible link to BPH is that L-type calcium channels contribute to smooth muscle contraction in the prostate stroma, bladder neck and detrusor. Blocking them could theoretically lower smooth muscle tone and ease lower urinary tract symptoms. This is a hypothesis from general pharmacology, not a finding from the supplied data.
 
-A key pharmacological concern is that Pinaverium has very low systemic bioavailability, with its therapeutic action concentrated locally in the gut. Whether clinically meaningful drug concentrations could be achieved at the bladder neck or prostate is unconfirmed, and there is currently no direct molecular, preclinical, or clinical evidence supporting this cross-indication extrapolation.
+There is also a significant counterargument. Pinaverium is poorly absorbed when taken orally and is largely excreted in bile, so exposure at prostatic tissue would likely be low, which weakens the hypothesis. The TxGNN score of 0.992 is a model prediction only and gives no clinical validation.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-Pinaverium is not currently marketed in Taiwan (0 licenses on record), so no product registration details are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 72414 | Eldicet Tablet (Abbott) | Strip of 10 tablets | Not stated in the registration data |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No warning, contraindication or drug interaction data were available for this report.
 
 ---
 
@@ -90,13 +92,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The BPH prediction is supported only by TxGNN embedding similarity (L5 evidence) with zero clinical trials or literature, and the underlying mechanistic rationale is a cross-organ extrapolation not yet confirmed pharmacologically. Combined with the drug's absence from the Taiwan market, there is insufficient basis to advance this candidate at this time.
+The prediction is supported only by the TxGNN model score (Evidence Level L5), with no clinical trials or literature. Pinaverium's poor systemic absorption also makes adequate prostatic exposure doubtful.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (currently a Blocking data gap — required before any S1 safety screening)
-- Confirmed mechanism of action data from DrugBank or primary literature (currently a High-severity data gap)
-- Preclinical or pharmacokinetic data demonstrating whether Pinaverium reaches effective concentrations in prostate/bladder neck tissue given its low systemic bioavailability
-- At minimum, preclinical or early-phase clinical evidence directly linking Pinaverium to LUTS/BPH before reconsidering this candidate
+- Mechanism of action data (e.g., from DrugBank) to allow a proper mechanistic analysis
+- The approved indication and the package insert warnings and contraindications for the India registration (a blocking gap for safety screening)
+- Preclinical or pharmacokinetic evidence showing the drug reaches prostate or lower urinary tract tissue
+- A literature and trial search for calcium channel blockers in BPH or lower urinary tract symptoms
+- Route compatibility assessment (available vs. required routes)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

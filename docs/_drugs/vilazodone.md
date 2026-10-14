@@ -2,7 +2,7 @@
 layout: default
 title: Vilazodone
 parent: Model Prediction Only (L5)
-nav_order: 879
+nav_order: 888
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,94 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using no additional skill — this is a direct content-generation task governed by the report template already supplied in full. Proceeding directly.
-
----
-
 # Vilazodone: From Major Depressive Disorder to Dysthymic Disorder
 
 ## One-Sentence Summary
 
-> Vilazodone is a serotonin partial agonist/reuptake inhibitor (SPARI) originally developed and FDA-approved for Major Depressive Disorder (MDD) in adults.
-> The TxGNN model predicts it may be effective for **Dysthymic Disorder**, with a **99.79% prediction score**,
-> but currently **no clinical trials or published literature** directly support this specific indication — this is a model-only signal.
-
----
+Vilazodone is an antidepressant originally used to treat depression (including major depressive disorder) and anxiety disorders.
+The TxGNN model predicts it may be effective for **dysthymic disorder**, but this prediction currently rests on the model score alone, with **0 clinical trials** and **0 publications** directly supporting it.
+Among the other top predictions, only neurotic depression (20 general antidepressant publications) and melancholia (1 clinical trial, 20 publications) have any indirect supporting evidence, and none of it is specific to vilazodone in the predicted condition.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Major Depressive Disorder (MDD) — per literature within this evidence pack; no India/Taiwan regulatory label available (drug not marketed) |
-| Predicted New Indication | Dysthymic Disorder |
+| Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder (the data compiled for this report has no approved indication text on the Indian licences) |
+| Predicted New Indication | Dysthymic disorder |
 | TxGNN Prediction Score | 99.79% |
 | Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available (data gap DG002). Based on literature evidence within this pack, vilazodone combines selective serotonin reuptake inhibition (SSRI) with partial 5-HT1A receptor agonism — a mechanism approved by the FDA for adult MDD, supported by four positive short-term Phase 3 randomized placebo-controlled trials (per PMID 35726313, PMID 21951984).
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Published reviews describe vilazodone as a serotonin reuptake inhibitor with 5-HT1A partial agonist activity. It is already used for depression and anxiety, and its serotonergic activity may plausibly be relevant to dysthymic disorder.
 
-Dysthymic disorder (persistent depressive disorder) sits within the broader depression spectrum, so the SSRI+5-HT1A mechanism is theoretically plausible for this condition. However, this rationale is purely mechanistic reasoning by class effect — there is no vilazodone-specific clinical trial or publication addressing dysthymic disorder in the evidence pack. The 99.79% TxGNN score reflects knowledge-graph proximity to depression-related nodes, not observed clinical efficacy.
+Dysthymia is a chronic, lower-grade depressive condition closely related to major depressive disorder. This makes the prediction reasonable on disease similarity alone. However, the link is inferred only from this similarity. No trials or publications specific to dysthymia were found, so the prediction is an extension of the existing depression indication and not yet a tested new use.
 
-**Note for context:** Among the other candidates in this evidence pack, *neurotic depression* and *melancholia* — both recognized as MDD subtypes/synonyms rather than truly distinct indications — carry substantially stronger evidence (L1, multiple systematic reviews/network meta-analyses, one completed Phase 4 trial). These largely reflect vilazodone's already-approved MDD indication rather than genuine repurposing and may warrant separate evaluation as "life-cycle management" rather than novel repurposing.
-
----
+The other top-ranked predictions vary in plausibility:
+- **Closely related to the existing indication:** neurotic depression (a legacy term largely overlapping with dysthymia and major depression), melancholia (a severe subtype of major depression), neurotic disorder, agoraphobia and obsessive-compulsive disorder (OCD). OCD has a class-level rationale, since serotonergic antidepressants are established in it.
+- **No evident mechanistic link:** benign paroxysmal torticollis of infancy, Keppen-Lubinsky syndrome, Ohdo syndrome and variants, and histrionic personality disorder. These are likely artifacts of the knowledge graph.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for dysthymic disorder specifically.
+No clinical trials are registered for the top-ranked prediction, dysthymic disorder.
 
----
+For the fourth-ranked prediction, melancholia, one related trial was found. It is indirect evidence only, as it studies major depression in general, not the melancholic subtype.
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT01916824](https://clinicaltrials.gov/study/NCT01916824) | Phase 4 | Completed | 53 | Effects of treatment on decision-making in major depression (depressed patients versus healthy controls). The study is small and cognitive in focus, the intervention arm is not confirmed, and outcomes are not provided. |
 
 ## Literature Evidence
 
-Currently no related literature available for dysthymic disorder specifically.
+No literature is available for dysthymic disorder. The table below lists the most relevant publications retrieved for neurotic depression and melancholia. They are general antidepressant or vilazodone-in-major-depression evidence and do not study these conditions as distinct entities.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [27932864](https://pubmed.ncbi.nlm.nih.gov/27932864/) | 2016 | Meta-analysis of Phase III/IV RCTs | Drug Des Devel Ther | Four trials (1,930 patients) of vilazodone in major depressive disorder; significant MADRS improvement from week 2 |
+| [35726313](https://pubmed.ncbi.nlm.nih.gov/35726313/) | 2022 | Review | Neuropsychiatr Dis Treat | Four positive short-term placebo-controlled trials support vilazodone efficacy in adult major depression |
+| [36253442](https://pubmed.ncbi.nlm.nih.gov/36253442/) | 2023 | Network meta-analysis | Mol Psychiatry | Compares antidepressants in the maintenance phase of major depressive disorder |
+| [30475091](https://pubmed.ncbi.nlm.nih.gov/30475091/) | 2019 | Review | Expert Opin Pharmacother | Vilazodone for depressive and anxiety disorders, including investigation in generalized anxiety disorder |
+| [27508501](https://pubmed.ncbi.nlm.nih.gov/27508501/) | 2016 | Review | Psychother Psychosom | Safety and tolerability of newer-generation antidepressants, including vilazodone |
+| [37032427](https://pubmed.ncbi.nlm.nih.gov/37032427/) | 2023 | Guideline | Clin Pharmacol Ther | Pharmacogenetic guideline for serotonin reuptake inhibitor antidepressants, including vilazodone |
+| [31777303](https://pubmed.ncbi.nlm.nih.gov/31777303/) | 2020 | Systematic review | Clin Toxicol | Vilazodone overdose; possible more severe toxicity because of faster serotonin rise |
+| [24766145](https://pubmed.ncbi.nlm.nih.gov/24766145/) | 2014 | Review | Expert Opin Pharmacother | Serotonergic antidepressants in OCD (class-level evidence only; no vilazodone data) |
+
+## India Market Information
+
+Vilazodone is marketed in India as a single-ingredient oral tablet, with 20 valid registrations and none cancelled. The approved indication text is not available for these registrations. The five main entries are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 233856 | Vilano 40 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not available |
+| 233519 | Vilano 20 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not available |
+| 233655 | Vilazine 20 Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not available |
+| 233825 | Vilarest 20 Tablet (Cipla Ltd) | Strip of 10 tablets | Not available |
+| 233783 | Vilodon 20 Tablet (MSN Laboratories) | Strip of 10 tablets | Not available |
 
 ## Safety Considerations
 
-- **Drug Interactions**: Query completed, **171 total interactions** identified (DDInter). Major-level interactions in the sampled data include: **Bupropion, Clarithromycin, Lorcaserin, Diethylpropion, Dolasetron, Palonosetron, Phentermine** — consistent with known serotonergic drug class risks (serotonin syndrome, QT-prolongation potential agents, CYP3A4 interactions). Moderate-level interactions include several sulfonylureas/insulins (Pioglitazone, Chlorpropamide, Glimepiride, insulin analogs), aspirin, dexamethasone, morphine, and bowel-prep agents (polyethylene glycol, picosulfuric acid, sodium sulfate).
-- Detailed key warnings and contraindications are not currently available (data gap DG001 — India/local label warnings pending retrieval and parsing).
+- **Conditions flagged in the knowledge graph (not label text):** epilepsy, bipolar disorder, major affective disorder, blood coagulation disease, neuroleptic malignant syndrome, inappropriate ADH syndrome, nephrogenic syndrome of inappropriate antidiuresis, and serotonin syndrome. These come from drug-disease relationship data and should be verified against the package insert.
+- **Drug Interactions:** 171 interactions were recorded. Examples classed as **Major** include bupropion, lorcaserin, clarithromycin, diethylpropion, dolasetron, palonosetron and phentermine. Examples classed as **Moderate** include acetylsalicylic acid, morphine, aprepitant, dexamethasone, pioglitazone, glimepiride, chlorpropamide and several insulins.
+- **Overdose:** a systematic review suggests overdose may carry more severe toxicity than with standard SSRIs, because of a faster rise in synaptic serotonin.
 
----
+Package insert warnings and contraindications were not available. Please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score for dysthymic disorder is high, but there is zero direct clinical trial or literature evidence — only a theoretical class-effect rationale. This does not meet the bar to proceed without further validation, and the drug is not currently marketed in India, so no local safety label exists to support even a guarded launch.
+Dysthymic disorder is supported only by the model score (L5), with no trials or publications. It is also a close neighbour of an existing indication, so it is more an extension of the depression indication than true repurposing. Melancholia and OCD are more promising research questions, but their evidence is indirect (L4).
 
 **To proceed, the following is needed:**
-- Mechanism of action documentation (DG002)
-- India/local package insert warnings and contraindications (DG001)
-- Dedicated preclinical or clinical evidence for dysthymic disorder specifically (current evidence only supports the already-approved MDD indication)
-- Consider re-scoping: evaluate *melancholia* and *neurotic depression* (L1, S3, Proceed with Guardrails) separately, as these have materially stronger evidence within this same pack
+- The package insert warnings and contraindications from the Indian regulator (a blocking gap for safety screening)
+- Detailed mechanism of action data (for example, from DrugBank)
+- A focused search for vilazodone trials or studies in dysthymia, melancholic depression and OCD
+- A safety review covering the interaction and knowledge-graph contraindication signals above, in particular serotonin syndrome risk, bipolar disorder screening and the Major interactions
+- Confirmation of the approved indication text on the Indian licences
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Interferon Beta-1A
 parent: Model Prediction Only (L5)
-nav_order: 436
+nav_order: 440
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,84 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Interferon beta-1a: From Multiple Sclerosis to Jeune Syndrome Situs Inversus
+# Interferon beta-1a: From Relapsing-Remitting Multiple Sclerosis to Jeune Syndrome Situs Inversus
 
 ## One-Sentence Summary
 
-Interferon beta-1a (IFN β-1a) is a recombinant cytokine biologic widely established for the treatment of relapsing-remitting multiple sclerosis (MS) — though no original indication is formally registered in India's regulatory database.
-The TxGNN model ranks **Jeune syndrome situs inversus** as the top predicted new indication, with a score of **97.47%**.
-However, **no clinical trials and no relevant literature** exist to support this prediction — the high score is assessed as a knowledge graph topology artifact, not a clinically actionable signal.
-
----
+Interferon beta-1a is an immunomodulatory cytokine originally used to treat relapsing-remitting multiple sclerosis.
+The TxGNN model predicts it may be effective for **Jeune syndrome situs inversus**, but **no clinical trials and no relevant publications** support this prediction.
+The prediction is a graph-based computational output only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in India (no approved licenses on record; known globally for relapsing-remitting MS) |
-| Predicted New Indication | Jeune Syndrome Situs Inversus |
+|------|------|
+| Original Indication | Relapsing-remitting multiple sclerosis |
+| Predicted New Indication | Jeune syndrome situs inversus |
 | TxGNN Prediction Score | 97.47% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, no detailed mechanism of action data is available in this Evidence Pack. Based on widely published pharmacology, Interferon beta-1a binds to the heterodimeric IFNAR1/IFNAR2 receptor complex on cell surfaces, activating the JAK1/TYK2 → STAT1/STAT2 → ISGF3 signalling cascade, which drives transcription of interferon-stimulated genes (ISGs). This pathway modulates innate and adaptive immunity — suppressing pro-inflammatory T-cell activity, reducing lymphocyte trafficking across the blood-brain barrier, and upregulating anti-inflammatory cytokines. Its clinical benefit in MS is rooted in immune dysregulation correction, not in structural tissue repair.
+Currently, detailed mechanism of action data is not available. Based on known information, interferon beta-1a is an immunomodulatory cytokine, its efficacy in relapsing-remitting multiple sclerosis is established, and it acts on immune-mediated inflammation.
 
-Jeune syndrome (asphyxiating thoracic dystrophy) with situs inversus is a ciliopathy — a congenital defect of primary cilia function — manifesting as skeletal dysplasia, restricted thoracic cage development, and, in some cases, situs inversus totalis due to defective cilia-driven left-right patterning in embryogenesis. This is a fixed structural malformation established before birth. The IFN β-1a immune-modulatory pathway has no known mechanism to correct or compensate for germline ciliopathy defects or to reverse situs inversus anatomy.
+Jeune syndrome with situs inversus is a genetic ciliopathy and skeletal dysplasia. It is not an immune-mediated disease, and no interferon-beta-responsive pathway is recognised for it. The data compiled for this report identified no plausible mechanistic link. The high TxGNN score (0.975) reflects network-based similarity in the knowledge graph and is not supported by clinical or literature evidence.
 
-The TxGNN knowledge graph likely assigns a high score here because ciliary biology nodes (e.g., IFT genes, DNAI1) and immune regulation nodes share indirect edges in the graph topology — a structural artifact rather than a biologically meaningful therapeutic connection. All 10 top-ranked predictions in this Evidence Pack are congenital structural or chromosomal disorders, reinforcing the interpretation that these are systematic graph topology false signals for IFN β-1a, not genuine repurposing opportunities.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Interferon beta-1a in Jeune syndrome situs inversus.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for Interferon beta-1a in Jeune syndrome situs inversus.
-
-> **Note on apparent literature count:** The evidence pipeline retrieved 20 publications under the "disorder of fucoglycosan synthesis" query (rank #4). These have been reviewed and confirmed as false positives — all articles address IFN β-1a in multiple sclerosis, COVID-19, COPD, and ARDS, with zero semantic relevance to fucoglycosan metabolism or the ciliopathy spectrum that includes Jeune syndrome. They are not counted as supporting evidence for any indication in this report.
-
----
+Other top-ranked predictions show the same pattern. Examples include Pierre Robin syndrome, chromosomal deletion disorders, Laubry-Pezzi syndrome and orofacial clefting syndrome. These are structural or genetic developmental conditions with no expected response to immunomodulation. The only partly plausible candidates are ovarian tumours (rete ovarii cystadenoma and borderline ovarian serous tumour). Interferons have antiproliferative effects in some neoplasms, but this link is speculative and no supporting studies were found.
 
 ## India Market Information
 
-Interferon beta-1a has **no registered products** in India's drug regulatory database. No authorization numbers, brand names, dosage forms, or approved indications are on record.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 28723 | Betaferon 250mcg Injection (Bayer Zydus Pharma Pvt Ltd) | Vial of 1 injection | Not stated |
+| 188174 | Rebif 44mcg Injection (Merck Ltd) | Vial of 1 injection | Not stated |
+| 3047 | AVONEX 30 MCG Injection (Biogenetic Pharmaceuticals) | Vial of 1 injection | Not stated |
+| 187471 | Relibeta Injection (Reliance Life Sciences) | Prefilled syringe of 0.5 ml injection | Not stated |
 
 ## Safety Considerations
 
-**Drug Interactions:** A total of **284 drug-drug interactions** have been identified (DDInter database). Clinically notable interactions include:
+- **Drug Interactions**: 284 interactions were recorded. Among those listed, **bupropion** is rated Major. Examples rated Moderate include:
+  - Antidiabetic agents: acarbose, pioglitazone, rosiglitazone
+  - Statins: rosuvastatin, simvastatin
+  - Anti-infectives: clarithromycin, levofloxacin, minocycline, clotrimazole
+  - Anabolic steroids: oxandrolone, oxymetholone, stanozolol
+  - Others: naltrexone, orlistat, nicotinamide, chenodeoxycholic acid, bowel-preparation agents
 
-- **Major severity:** Bupropion — risk of increased adverse effects; combination requires careful clinical assessment
-- **Moderate severity (selected):** Rosuvastatin, Simvastatin (hepatotoxicity monitoring recommended); Clarithromycin, Levofloxacin, Minocycline (immunomodulatory overlap); Pioglitazone, Rosiglitazone, Acarbose (glucose metabolism effects in diabetic patients); Naltrexone; Orlistat; Anabolic steroids (Oxandrolone, Oxymetholone, Stanozolol — hepatotoxicity risk)
-
-For complete warnings and contraindications, please refer to the approved package insert (SmPC/Prescribing Information). Formal TFDA labelling data was not available for this report.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is no clinical trial evidence, no disease-relevant literature, and no mechanistic plausibility linking IFN β-1a to Jeune syndrome situs inversus. The TxGNN high score reflects a knowledge graph topology artifact — indirect cilia/immune node proximity — rather than a translatable therapeutic hypothesis. Additionally, IFN β-1a is not marketed in India, further limiting any near-term repurposing pathway.
+The prediction rests on a model score alone (L5). There are no clinical trials or relevant literature, and no plausible biological link between interferon beta-1a and a genetic ciliopathy/skeletal dysplasia. The 20 publications retrieved for another low-ranked prediction (fucoglycan synthesis disorder) concern multiple sclerosis therapies and do not support that indication either.
 
-**To proceed with any future evaluation of this drug, the following is needed:**
-
-- Obtain the official prescribing information / SmPC for IFN β-1a (Avonex, Rebif, or equivalent) to fill the MOA and safety data gaps
-- Run a targeted literature review across **all** ranked indications to identify whether any L3–L4 level mechanistic evidence exists (e.g., IFN pathway involvement in ciliopathies)
-- Reassess whether TxGNN graph embeddings for IFN β-1a are over-indexing on immune/structural node co-occurrence — a calibration review of the knowledge graph edges is recommended before generating further candidates for this drug
-- If repurposing is still of interest, pivot to indications where IFN β-1a has established biological rationale: autoimmune disorders, viral infections (COVID-19, COPD viral exacerbations), or neurodegenerative conditions with inflammatory components
+**To proceed, the following is needed:**
+- Mechanism of action data for interferon beta-1a
+- Package insert warnings and contraindications from the India regulatory source, which are needed for safety screening
+- A mechanistic rationale and preclinical evidence linking interferon beta-1a to the predicted condition
+- If any candidate is pursued further, the ovarian tumour predictions are the most biologically plausible, but they still require supporting studies
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

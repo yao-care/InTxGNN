@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Oxyphenonium
-parent: Moderate Evidence (L3-L4)
-nav_order: 627
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 633
+evidence_level: L5
 indication_count: 1
 ---
 
 # Oxyphenonium
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,65 +29,61 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Oxyphenonium: From Gastric and Duodenal Ulcer to Irritable Bowel Syndrome
+# Oxyphenonium: From an Antispasmodic for Gastric and Duodenal Ulcer to Irritable Bowel Syndrome
 
 ## One-Sentence Summary
 
-Oxyphenonium is a quaternary ammonium anticholinergic (antimuscarinic) agent historically used for gastric and duodenal ulcer.
-The TxGNN model predicts it may be effective for **Irritable Bowel Syndrome (IBS)**,
-but this direction is currently supported by only **1 publication** and **no registered clinical trials**.
+Oxyphenonium is a quaternary ammonium antimuscarinic (anticholinergic) agent, used in India as an antispasmodic and for gastric and duodenal ulcer.
+The TxGNN model predicts it may be effective for **irritable bowel syndrome**,
+but at present **no clinical trials and no publications** support this prediction, so it rests on model output and drug-class reasoning alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not licensed in India; historically used for gastric and duodenal ulcer (source: pharmacology database) |
-| Predicted New Indication | Irritable Bowel Syndrome |
+| Original Indication | Gastric and duodenal ulcer (from pharmacology reference data; the India licence record has no indication text) |
+| Predicted New Indication | Irritable bowel syndrome |
 | TxGNN Prediction Score | 99.08% |
-| Evidence Level | L4 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed, TFDA/CDSCO-sourced mechanism-of-action documentation is not currently available for Oxyphenonium (flagged as a High-severity data gap). Based on pharmacology database records available in this evidence pack, Oxyphenonium is a synthetic quaternary ammonium compound that acts on muscarinic receptors (target: CHRM4 / M4 receptor, human), consistent with its classification as an antimuscarinic antispasmodic historically used to treat gastric and duodenal ulcer.
+Detailed mechanism of action data is not available for this drug. Based on known drug-class information, oxyphenonium is an antimuscarinic agent that blocks muscarinic acetylcholine receptors. Pharmacology reference data list the M4 receptor (CHRM4) as a proposed target, but no publicly available bioactivity data confirm it, so no primary target has been assigned.
 
-Mechanistically, Oxyphenonium's antimuscarinic activity inhibits smooth-muscle muscarinic receptors (M3-type) in the gastrointestinal tract, reducing gut motility and spasm. This mode of action is the same pharmacological principle used by other antispasmodics (e.g., dicyclomine, hyoscine) that are already applied to relieve IBS symptoms, particularly diarrhea-predominant/spasm-type presentations.
+Blocking muscarinic receptors in the gut can reduce smooth muscle hypermotility and visceral cramping. These are features of irritable bowel syndrome (IBS), particularly the pain-predominant and diarrhoea-predominant subtypes. Related antimuscarinics such as hyoscine butylbromide, dicyclomine and hyoscyamine have been studied in IBS and showed modest symptom benefit. No data specific to oxyphenonium were available.
 
-The TxGNN model's high score (0.99) reflects strong structural similarity between this drug class and the IBS indication within the knowledge graph, rather than direct clinical evidence for Oxyphenonium itself. The mechanistic rationale is plausible, but independent confirmatory data (trials, MOA documentation, safety labeling) are still needed before this signal can be considered clinically actionable.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [24933967](https://pubmed.ncbi.nlm.nih.gov/24933967/) | 2013 | Other/Unclear (non-RCT, abstract-level evidence) | Eksperimental'naia i klinicheskaia gastroenterologiia | Reports on use of methocinium iodide (a related quaternary ammonium antimuscarinic) in patients with irritable bowel syndrome; abstract-level, non-randomized evidence |
+The high TxGNN score is a computational prediction only. Class-level anticholinergic effects (dry mouth, constipation, urinary retention, blurred vision) may limit use, especially in constipation-predominant IBS.
 
 ## India Market Information
 
-Currently not marketed in India; no registration records available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 2299 | Antrenyl 5mg Tablet (Novartis India Ltd) | Strip of 10 tablets | Not stated in the licence record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: The interaction query completed with one entry, a pharmacological target association (M4 receptor, CHRM4) rather than an interaction with another drug. No graded drug-drug interactions were identified.
+- **Class-level effects (inferred, not from a label)**: Anticholinergic adverse effects such as dry mouth, constipation, urinary retention and blurred vision are expected.
 
-*(Note: TFDA/CDSCO label warnings and contraindications are marked as a Blocking data gap and could not be retrieved for this evaluation, which prevents a full S1 safety assessment.)*
+Please refer to the package insert for further safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale for IBS is biologically plausible given Oxyphenonium's antimuscarinic activity, but the current evidence base is limited to a single non-randomized, abstract-level publication with no registered clinical trials — corresponding to evidence level L4. The drug is also not currently marketed in India, and safety labeling data is unavailable.
+The prediction rests only on a high model score and class-level reasoning. No clinical trials or literature support oxyphenonium in IBS, and package-insert safety data are missing, so the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Official TFDA/CDSCO label (warnings and contraindications) to complete the S1 safety assessment (currently a Blocking gap)
-- Confirmed detailed mechanism-of-action documentation (currently a High-severity gap)
-- Additional clinical evidence (trials or higher-tier studies) specific to Oxyphenonium in IBS, beyond the single 2013 abstract-level report
+- Package insert warnings and contraindications for Antrenyl, obtained from the manufacturer or regulator (currently a blocking gap for safety screening)
+- Detailed mechanism of action and receptor-binding data
+- Approved indication text for the India licence
+- Literature review of antimuscarinics in IBS to estimate the expected benefit and tolerability of oxyphenonium
+- Preclinical or early clinical data specific to oxyphenonium in IBS
+- Assessment of formulation and route suitability (the only registered form is an oral tablet)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

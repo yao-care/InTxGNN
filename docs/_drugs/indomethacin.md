@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Indomethacin
-parent: High Evidence (L1-L2)
-nav_order: 428
-evidence_level: L2
+parent: Model Prediction Only (L5)
+nav_order: 432
+evidence_level: L5
 indication_count: 10
 ---
 
 # Indomethacin
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,108 +29,90 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Indomethacin: From Inflammatory Disease to Juvenile Idiopathic Arthritis
+# Indomethacin: From Inflammatory Arthritis and Related Conditions to Brachydactyly-Syndactyly Syndrome
 
 ## One-Sentence Summary
 
-Indomethacin is a potent COX-1/COX-2 inhibitor (NSAID) with decades of clinical use in adult inflammatory conditions including arthritis, gout, and ankylosing spondylitis. The TxGNN model identifies **Juvenile Idiopathic Arthritis (JIA)** as the highest-evidence predicted indication among 10 candidates, with **0 registered clinical trials** but **20 supporting publications** — including a double-blind RCT directly comparing indomethacin in juvenile chronic arthritis, giving it an L2 evidence rating and an actionable "Proceed with Guardrails" recommendation.
-
----
+Indomethacin is a nonsteroidal anti-inflammatory drug (NSAID) used for inflammatory joint and soft-tissue conditions such as rheumatoid arthritis, ankylosing spondylitis, gout, osteoarthritis and bursitis. It is also used to close patent ductus arteriosus.
+The TxGNN model predicts it may be effective for **brachydactyly-syndactyly syndrome**, a rare congenital limb malformation.
+However, there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not recorded in current dataset |
-| Predicted New Indication | Juvenile Idiopathic Arthritis |
-| TxGNN Prediction Score | 99.84% |
-| Evidence Level | L2 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
-> **Note:** This is a multi-indication analysis (10 predictions total). Ranks #1–7 are rare genetic skeletal syndromes with no clinical or preclinical evidence (all L5/Hold). Juvenile Idiopathic Arthritis (rank #8) is the highest-evidence actionable indication and is the primary focus of this report.
-
----
+|------|------|
+| Original Indication | Inflammatory joint and soft-tissue conditions (e.g., rheumatoid arthritis, ankylosing spondylitis, gout, osteoarthritis, bursitis, tendinitis) and patent ductus arteriosus. Indication text on the Indian licences is not specified, so this comes from the knowledge-graph indication list. |
+| Predicted New Indication | Brachydactyly-syndactyly syndrome |
+| TxGNN Prediction Score | 99.97% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Indomethacin inhibits both COX-1 and COX-2 enzymes, blocking the conversion of arachidonic acid into prostaglandins. The resulting reduction in prostaglandin E2 (PGE2) suppresses vasodilation, leukocyte recruitment, and the amplification of pro-inflammatory cytokine signals — producing both analgesic and anti-inflammatory effects. Detailed MOA data from DrugBank is currently unavailable (Data Gap DG002), but the pharmacological mechanism is well-established in the literature.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Indomethacin belongs to the NSAID class and is generally understood to reduce prostaglandin-driven inflammation by inhibiting cyclooxygenase (COX) enzymes. This is why it works in inflammatory arthritis and gout.
 
-Juvenile Idiopathic Arthritis encompasses several subtypes of chronic inflammatory arthritis in children under 16, characterised by persistent joint inflammation, morning stiffness, and risk of progressive joint destruction. Its pathophysiology is driven by dysregulated immune activation involving IL-1β, IL-6, and TNF-α — all of which rely on prostaglandins as downstream amplifiers of the inflammatory cascade. NSAIDs targeting this prostaglandin axis are therefore first-line symptomatic agents in JIA management.
+Brachydactyly-syndactyly syndrome, however, is a rare congenital limb malformation with a genetic developmental basis. It is not an inflammatory disease, and no mechanistic link between COX inhibition and limb patterning has been established. The very high TxGNN score most likely reflects the disease's closeness to musculoskeletal and joint disease nodes in the knowledge graph, not a genuine therapeutic rationale.
 
-Historically, indomethacin was among the earliest NSAIDs used in juvenile chronic arthritis (JCA, the predecessor classification to JIA). A 1978 double-blind crossover trial in 30 children confirmed indomethacin as both a safe and effective anti-inflammatory and analgesic in JCA — and found it to be the preferred agent over ketoprofen. Multiple clinical reviews from the 1980s–1990s also list indomethacin alongside aspirin as the established NSAID backbone for systemic JIA fever control. The TxGNN knowledge graph prediction almost certainly reflects this mechanistic and historical connection captured as high-density edges in the drug–disease network.
-
----
+The rationale for this prediction is therefore weak. It should be treated as a computational signal only, with no biological or clinical support at present.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials are registered for Indomethacin in Juvenile Idiopathic Arthritis.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [362571](https://pubmed.ncbi.nlm.nih.gov/362571/) | 1978 | RCT (double-blind crossover) | South African Medical Journal | Indomethacin vs ketoprofen in 30 children with JCA — both effective; indomethacin emerged as the preferred drug |
-| [28418334](https://pubmed.ncbi.nlm.nih.gov/28418334/) | 2017 | Review | Balkan Medical Journal | Comprehensive overview of JIA subtypes, clinical features, and current treatment modalities |
-| [22573189](https://pubmed.ncbi.nlm.nih.gov/22573189/) | 2012 | Review | Swiss Medical Weekly | Systemic-onset JIA (Still's disease): orphan disease with chronic course, unique response profile to conventional immunosuppressants |
-| [1379157](https://pubmed.ncbi.nlm.nih.gov/1379157/) | 1992 | Clinical Review | Drugs | NSAIDs — including indomethacin — described as the foundation of pharmacotherapy for juvenile rheumatoid arthritis |
-| [8422565](https://pubmed.ncbi.nlm.nih.gov/8422565/) | 1993 | Review | British Journal of Rheumatology | NSAIDs in paediatric rheumatic disease; indomethacin specifically noted for systemic JCA fever control, though more toxic than alternatives |
-| [28086918](https://pubmed.ncbi.nlm.nih.gov/28086918/) | 2017 | Observational | Pediatric Rheumatology Online Journal | Atypical monoarthritis presentation in oligoarticular JIA; clinical management context |
-| [7417361](https://pubmed.ncbi.nlm.nih.gov/7417361/) | 1980 | Comparative Study | Arthritis and Rheumatism | JRA cohort comparison (USSR vs USA); documents therapeutic practices and NSAID reliance |
-| [1884567](https://pubmed.ncbi.nlm.nih.gov/1884567/) | 1991 | Clinical Review | Clinical Pharmacokinetics | Pharmacokinetics of NSAIDs including indomethacin in juvenile arthritis; dosing and clearance considerations |
-| [5632159](https://pubmed.ncbi.nlm.nih.gov/5632159/) | 1967 | Clinical Study | Arzneimittel-Forschung | Long-term indomethacin therapy in juvenile rheumatoid arthritis and Still's disease — early efficacy data |
-| [23312448](https://pubmed.ncbi.nlm.nih.gov/23312448/) | 2013 | Basic Research | Cytotherapy | Mesenchymal stromal cells in systemic JIA suppress immune responses; mechanistic context for combination approaches |
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-Indomethacin has no recorded product registrations in the current dataset (0 licences on file). No approved indication text is available.
+Indomethacin is marketed in India with 20 valid single-ingredient registrations and no cancelled ones. The approved indication text is not specified for any of them. Five representative authorizations:
 
----
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| Registration No. 109975 | Indometh 75mg Tablet SR | Sustained-release tablet |
+| Registration No. 108477 | Inmeth Suppositories | Suppository |
+| Registration No. 108966 | Inmecin 75mg Capsule | Capsule |
+| Registration No. 107709 | Indocap SR Capsule | Sustained-release capsule |
+| Registration No. 110796 | Indoriv 25mg Capsule | Capsule |
+
+Available forms are mainly oral (tablets, capsules, sustained- and extended-release) plus rectal suppositories.
 
 ## Safety Considerations
 
-**Drug Interactions (252 interactions on record; key interactions listed below):**
+- **Drug Interactions**: 252 interactions were recorded, mostly minor or moderate. Notable moderate-level interactions include:
+  - Corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide)
+  - Acetylsalicylic acid
+  - Metformin and sulfonylureas (chlorpropamide, glimepiride)
+  - Mesalazine and balsalazide
+  - Aprepitant
+  - Potassium salts (potassium citrate, potassium bicarbonate)
 
-| Interacting Drug | Level | Clinical Relevance |
-|----------------|-------|-------------------|
-| Acetylsalicylic acid | Moderate | Concurrent NSAID use significantly increases GI bleeding and ulceration risk |
-| Hydrocortisone | Moderate | Corticosteroid + NSAID combination raises GI ulceration risk; monitor closely |
-| Dexamethasone | Moderate | As above; particularly relevant in JIA patients on steroid bridges |
-| Betamethasone | Moderate | As above |
-| Budesonide | Moderate | As above |
-| Triamcinolone | Moderate | As above |
-| Metformin | Moderate | NSAIDs may reduce renal clearance of metformin via prostaglandin-mediated renal effects |
-| Mesalazine | Moderate | Risk of additive renal toxicity; monitor renal function |
-| Balsalazide | Moderate | Monitor renal function with concurrent use |
-| Glimepiride | Moderate | NSAIDs may potentiate hypoglycaemic effect of sulphonylureas |
-| Famotidine | Minor | H2 blockers often co-prescribed for GI mucosal protection with NSAIDs |
-| Ranitidine | Minor | As above |
-| Cimetidine | Minor | As above |
+  Minor interactions include H2 blockers (famotidine, ranitidine, cimetidine).
+- **Conditions flagged as contraindication-related in the knowledge graph** (not label text): this is a general NSAID-type signal and should be verified against the package insert.
+  - Cardiovascular: hypertension, myocardial infarction, heart disease
+  - Gastrointestinal: peptic and gastric ulcers, ulcerative colitis, inflammatory bowel disease
+  - Renal and hepatic: kidney disease, liver disease
+  - Bleeding and blood: coagulation disorders, thrombocytopenia, intracerebral hemorrhage
+  - Respiratory: asthma
+  - Neurological: epilepsy
 
-Complete warnings and contraindications are not available in the current dataset (Data Gap DG001). Please refer to the package insert for full safety information.
-
----
+Please refer to the package insert for authoritative warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Indomethacin has documented historical clinical use in juvenile chronic arthritis backed by a double-blind RCT and multiple clinical reviews spanning five decades. The COX inhibition → PGE2 reduction → joint inflammation control mechanism directly maps onto JIA pathophysiology. However, current paediatric rheumatology guidelines have shifted towards naproxen, ibuprofen, and diclofenac as preferred first-line NSAIDs due to indomethacin's comparatively higher GI and CNS toxicity burden; biologics (tocilizumab, etanercept) are now standard for refractory disease.
+The prediction has no clinical trials and no literature, and no plausible mechanistic link between COX inhibition and a genetic limb malformation. The high score appears to be a graph-based artifact, and indomethacin carries meaningful cardiovascular, gastrointestinal and renal risks that are not justified by any evidence of benefit here.
 
 **To proceed, the following is needed:**
+- Detailed mechanism of action data, and any biological evidence linking prostaglandin pathways to this syndrome
+- Package insert warnings and contraindications for the marketed Indian products
+- Any preclinical or case-level evidence in this condition
 
-- **Safety data (Blocking):** Obtain CDSCO/TFDA package insert to fill DG001 — warnings and contraindications are currently unknown
-- **MOA documentation (High):** Query DrugBank API for complete mechanism of action (DG002) to strengthen mechanistic rationale
-- **Comparative benefit–risk review:** Head-to-head evidence against currently preferred NSAIDs in JIA (naproxen, ibuprofen, diclofenac) to establish whether indomethacin offers any advantage in specific JIA subtypes (e.g., systemic JIA fever)
-- **Paediatric dosing review:** Confirm age-appropriate dosing, weight-based regimens, and paediatric pharmacokinetic data specific to JIA
-- **Regulatory pathway assessment:** Evaluate feasibility of India registration for the JIA indication given current market status (not marketed, 0 registrations)
-- **Subtype stratification:** Clarify which JIA subtypes (systemic, oligoarticular, polyarticular RF+/RF−) may benefit most, given the mechanistic literature is heterogeneous
+**Note on other predictions:** Among the other top-ranked predictions, juvenile idiopathic arthritis (rank 8) has the most support (L3, older reviews and one 1978 double-blind comparison). However, this is an established symptomatic NSAID use rather than a novel repurposing, and it does not show disease modification.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

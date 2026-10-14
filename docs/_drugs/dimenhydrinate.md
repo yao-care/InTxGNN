@@ -2,7 +2,7 @@
 layout: default
 title: Dimenhydrinate
 parent: Moderate Evidence (L3-L4)
-nav_order: 268
+nav_order: 271
 evidence_level: L4
 indication_count: 2
 ---
@@ -29,94 +29,77 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Dimenhydrinate: From Motion Sickness to Allergic Urticaria
+# Dimenhydrinate: From Motion Sickness and Vertigo to Allergic Urticaria
 
 ## One-Sentence Summary
 
-Dimenhydrinate is a first-generation antihistamine/antiemetic classically used for the prevention and treatment of motion sickness, nausea, and vomiting. The TxGNN model predicts it may be effective for **Allergic Urticaria**, with **0 clinical trials** and **1 publication** currently supporting this direction. The mechanistic basis is plausible given that dimenhydrinate metabolises to diphenhydramine — a well-established H1 receptor antagonist — yet direct clinical evidence for this repurposing remains absent.
-
----
+Dimenhydrinate was originally used to treat motion sickness and vertigo of central nervous system origin.
+The TxGNN model predicts it may be effective for **allergic urticaria**,
+but at present only **1 publication** (a veterinary pharmacokinetic pilot study) and **no clinical trials** support this direction, so the evidence rests mainly on the model prediction and the known pharmacology of its active component.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Motion sickness; nausea and vomiting |
-| Predicted New Indication | Allergic Urticaria |
+|------|------|
+| Original Indication | Central nervous system origin vertigo; motion sickness (the registration records in India do not list approved indication text) |
+| Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.74% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Dimenhydrinate is a salt composed of diphenhydramine and 8-chlorotheophylline. Upon oral or parenteral administration, it is rapidly metabolised to diphenhydramine — a classic first-generation H1 receptor antagonist. Diphenhydramine competitively blocks histamine H1 receptors, thereby suppressing the downstream cascade triggered by mast cell degranulation: vasodilation, increased vascular permeability, and pruritus. These are precisely the hallmark features of allergic urticaria, making the mechanistic link between dimenhydrinate (via its active metabolite) and this indication scientifically coherent.
+Currently, detailed mechanism of action data is not available. Based on known information, dimenhydrinate is a salt of diphenhydramine and 8-chlorotheophylline. Once absorbed, it releases diphenhydramine, a first-generation H1-receptor antagonist. Its efficacy in motion sickness and vertigo is established, and mechanistically it may be applicable to histamine-mediated conditions.
 
-Diphenhydramine itself carries Level 1 RCT evidence for allergic urticaria and is listed as a first-line agent in multiple international guidelines. The TxGNN model's high-confidence prediction therefore aligns with established pharmacology. However, dimenhydrinate as an independent drug entity has never been directly evaluated in allergic urticaria clinical trials — a critical evidence gap. The 8-chlorotheophylline moiety provides mild anticholinergic and bronchodilatory effects that are unlikely to enhance antihistaminic efficacy in urticaria but may contribute to additional adverse effects (e.g., CNS stimulation, tachycardia).
+Urticaria is driven largely by histamine released from mast cells. H1 antagonists are a recognized drug class for this condition, so the prediction is pharmacologically plausible, and the high TxGNN score (0.997) is consistent with it. However, the support is indirect. It comes from the diphenhydramine component, not from dimenhydrinate itself being tested in urticaria. Current practice generally favors second-generation, less sedating antihistamines, so any use of a sedating first-generation agent would need to be justified against that standard.
 
-The distinction between diphenhydramine (well-evidenced for urticaria) and dimenhydrinate (zero direct clinical trial data) is the central challenge for this repurposing candidate. Regulatory and clinical acceptance would require bridging studies specifically using dimenhydrinate as the test agent, rather than extrapolating entirely from diphenhydramine data.
-
----
+A second prediction, **cold urticaria** (score 99.24%), has the same theoretical rationale but no clinical trials or literature at all (evidence level L5, decision Hold).
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Dimenhydrinate in allergic urticaria.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [30779257](https://pubmed.ncbi.nlm.nih.gov/30779257/) | 2019 | Pharmacokinetic Study | Veterinary Dermatology | Compared oral dimenhydrinate vs. oral/IV diphenhydramine in healthy dogs; dimenhydrinate showed superior oral absorption of diphenhydramine and was evaluated for suppression of histamine-induced wheal formation, suggesting a pharmacodynamic basis for antiallergic activity |
+|------|-----|------|------|---------|
+| [30779257](https://pubmed.ncbi.nlm.nih.gov/30779257/) | 2019 | Pharmacokinetic study (pilot, in dogs) | Veterinary Dermatology | Compared diphenhydramine pharmacokinetics after oral and intravenous diphenhydramine and oral dimenhydrinate in healthy dogs, with the effect on histamine-induced wheal formation. Dimenhydrinate has been reported to give better oral absorption of diphenhydramine. |
 
----
+This is an animal study and does not provide direct clinical evidence in humans.
 
 ## India Market Information
 
-Dimenhydrinate currently has no registered products in India (0 authorisations on record).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 222323 | Transmine 50mg Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 58841 | Draminate 50mg Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 94324 | Gravol Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 61798 | Draminate 15.625mg/5ml Syrup | Bottle of 30 ml syrup | Not specified |
 
 ## Safety Considerations
 
-**Drug Interactions (67 interactions identified; selected key interactions listed below):**
+- **Contraindication signals from the knowledge graph** (drug-disease contraindication links in the TxGNN knowledge graph, not label text): hypertension and hypotension; liver disease; gallbladder disease; thrombocytopenia and blood coagulation disorders; diabetes mellitus, hyperglycemia and diabetic ketoacidosis; peptic ulcer disease and pyloric stenosis; benign prostatic hyperplasia and bladder neck obstruction; angle-closure glaucoma and ocular hypertension; hyperthyroidism (Graves disease, thyrotoxicosis); gout; substance abuse/dependence; acute coronary syndrome, coronary artery disease and myocardial infarction; hemoglobinopathy; hypophosphatemia.
+- **Drug Interactions**: 67 interactions were recorded in total. Examples:
+  - **Major**: potassium citrate, potassium chloride.
+  - **Moderate**: anticholinergics (atropine, hyoscyamine, scopolamine, glycopyrronium, dicyclomine, trospium, propantheline, clidinium, mepenzolate, methscopolamine), opioids and related drugs (morphine, opium, loperamide, eluxadoline), nabilone, metoclopramide and prucalopride.
 
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Potassium chloride | **Major** | Anticholinergic effects of dimenhydrinate may slow GI motility, increasing risk of potassium chloride-induced GI lesions |
-| Potassium citrate | **Major** | Same mechanism as above; delayed gastric emptying increases mucosal exposure time |
-| Scopolamine | Moderate | Additive anticholinergic effects; risk of urinary retention, dry mouth, confusion |
-| Atropine | Moderate | Additive anticholinergic effects |
-| Morphine | Moderate | Additive CNS and respiratory depression |
-| Metoclopramide | Moderate | Dimenhydrinate's anticholinergic action may antagonise the prokinetic effect of metoclopramide |
-| Hyoscyamine | Moderate | Additive anticholinergic toxicity |
-| Glycopyrronium | Moderate | Additive anticholinergic toxicity |
-| Loperamide | Moderate | Combined antimotility effect; risk of paralytic ileus |
-| Nabilone | Moderate | Additive CNS depression and anticholinergic effects |
-
-> The full interaction profile includes 67 interactions. Prescribers should review the complete DDI list before co-administration, particularly with any anticholinergic, CNS-depressant, or potassium-containing preparation.
-
----
+For package insert warnings and contraindications, please refer to the product label.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Although the mechanistic hypothesis is sound — dimenhydrinate's active metabolite diphenhydramine is an established first-line H1 antihistamine for allergic urticaria — there are zero clinical trials and only one indirect pharmacokinetic study using dimenhydrinate as the test drug. The drug is also not marketed in India, meaning no local regulatory dossier exists. The current evidence base (L4) is insufficient to support a repurposing claim without further dedicated investigation.
+The mechanistic link through the diphenhydramine component is plausible and the TxGNN score is high. However, there are no clinical trials, the only publication is a veterinary pharmacokinetic pilot study, and safety screening cannot proceed without label-based warnings. Second-generation antihistamines are the existing standard, and sedating first-generation agents are less attractive.
 
 **To proceed, the following is needed:**
-
-- **MOA and package insert data**: Obtain full DrugBank MOA record and CDSCO/reference regulatory labelling (warnings, contraindications, special populations) to complete the S1 safety screen
-- **Bridging PK/PD study**: Confirm that plasma diphenhydramine exposure from dimenhydrinate is equivalent to therapeutic diphenhydramine doses used in urticaria trials
-- **Pilot clinical study**: A Phase 2 randomised controlled trial comparing dimenhydrinate to cetirizine or loratadine (second-generation standard-of-care) in mild-to-moderate allergic urticaria would define efficacy and tolerability
-- **Regulatory strategy**: Evaluate whether a 505(b)(2)-equivalent pathway (or India's bridging submission route) can leverage existing diphenhydramine data to reduce the clinical development burden
-- **Safety monitoring plan**: Given the 67 documented DDIs — including two Major-level interactions with potassium salts — a formal drug interaction management protocol must be developed before any clinical use
-- **Patient population scoping**: Clarify whether the target population would be adults only, or whether paediatric use (a common population for urticaria) is intended, as this affects study design and dosing
+- Package insert warnings and contraindications for the marketed Indian products
+- Detailed mechanism of action data (MOA)
+- Human clinical evidence of dimenhydrinate or diphenhydramine in allergic urticaria, and a comparison against second-generation antihistamines
+- Route and dosage compatibility assessment for the new indication
+- Review of the knowledge-graph contraindication signals and the interaction profile for the intended population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

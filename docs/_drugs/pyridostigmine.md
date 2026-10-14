@@ -2,7 +2,7 @@
 layout: default
 title: Pyridostigmine
 parent: Moderate Evidence (L3-L4)
-nav_order: 707
+nav_order: 714
 evidence_level: L3
 indication_count: 7
 ---
@@ -33,61 +33,81 @@ Evidence Level: **L3** | Predicted Indications: **7**
 
 ## One-Sentence Summary
 
-Pyridostigmine is an acetylcholinesterase inhibitor already established as standard symptomatic therapy for myasthenia gravis (MG). The TxGNN model's top prediction — **myasthenia gravis with thymus hyperplasia** — is essentially a well-recognized clinical subtype of this existing indication rather than a novel disease target, currently supported by **0 dedicated clinical trials** and **3 publications** (including a 39-patient cohort study on thymectomy outcomes).
+Pyridostigmine is a cholinesterase inhibitor originally used to treat myasthenia gravis and related neuromuscular junction disorders.
+The TxGNN model predicts it may be effective for **myasthenia gravis with thymus hyperplasia**, a subtype of the already-approved indication.
+Support currently comes from **3 publications** (a review, a case report and a cohort study) and **no registered clinical trials**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Myasthenia Gravis (per evidence pack rationale; no structured India label data available) |
-| Predicted New Indication | Myasthenia Gravis with Thymus Hyperplasia |
+| Original Indication | Myasthenia gravis; adult-onset myasthenia gravis; neuromuscular junction disease (from the knowledge graph, as the India licence records contain no indication text) |
+| Predicted New Indication | Myasthenia gravis with thymus hyperplasia |
 | TxGNN Prediction Score | 99.76% |
 | Evidence Level | L3 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 12 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Structured DrugBank mechanism-of-action data was not available for this query (data gap). However, the mechanistic rationale embedded in the prediction evidence is clear: Pyridostigmine is a reversible acetylcholinesterase (AChE) inhibitor that increases acetylcholine concentration at the neuromuscular junction, improving synaptic transmission. This is the well-established mechanism underlying its standard use in myasthenia gravis.
+Pyridostigmine is a reversible acetylcholinesterase inhibitor. By slowing acetylcholine breakdown, it increases acetylcholine at the neuromuscular junction and improves muscle strength. Detailed mechanism-of-action data were not available in the data compiled for this report, but this symptomatic mechanism is well established for the drug.
 
-Myasthenia gravis with thymus hyperplasia is not a distinct disease from a pharmacological standpoint — it is a clinical subtype of MG in which thymic hyperplasia is a common associated finding (particularly in early-onset, AChR-antibody-positive disease). Because pyridostigmine's mechanism acts downstream of the autoimmune/thymic pathology, directly at the neuromuscular junction, its efficacy in this subgroup follows directly from its already-proven efficacy in generalized MG.
+Thymic hyperplasia is common in acetylcholine receptor (AChR) antibody-positive myasthenia gravis. The predicted indication is therefore essentially a subtype of the approved indication rather than a true repurposing. The symptomatic benefit of cholinesterase inhibition does not depend on thymic pathology.
 
-Consequently, this "prediction" functions more as a confirmatory validation of the TxGNN model (correctly recovering a known, standard use) than as a genuine repurposing hypothesis. The supporting literature — a cohort study on thymectomy outcomes in MG, a review of MG pathology/subtypes, and a case report of thymus-hyperplasia-associated MG — reinforces that this population is already part of routine pyridostigmine clinical practice rather than an unstudied population.
+Other predictions in the list (neonatal myasthenia gravis, autoimmune disease of the peripheral nervous system, autoimmune limb-girdle myasthenia) are also mechanistically plausible but rest on weaker evidence. They are listed in the next-steps section. Two predictions, hypersplenism and atypical haemolytic-uraemic syndrome with factor B anomaly, have no mechanistic rationale and no supporting studies.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [25683765](https://pubmed.ncbi.nlm.nih.gov/25683765/) | 2015 | Cohort | Journal of neurology | Retrospective cohort of 39 non-thymomatous, AChR-antibody-positive, generalized late-onset MG patients; evaluated 2-year post-thymectomy outcomes using MGFA classification |
-| [34225443](https://pubmed.ncbi.nlm.nih.gov/34225443/) | 2021 | Review/Genomic | Molecular medicine reports | Reviews genomic, phenotypic and epigenetic features of MG subtypes (including neonatal, ocular, generalized), and the role of anti-AChR autoantibodies |
-| [18053719](https://pubmed.ncbi.nlm.nih.gov/18053719/) | 2008 | Case report | Neuromuscular disorders : NMD | Case of MuSK-positive MG with thymus hyperplasia presenting as dropped head syndrome from progressive neck extensor weakness |
+| [34225443](https://pubmed.ncbi.nlm.nih.gov/34225443/) | 2021 | Review | Molecular Medicine Reports | Genomic, phenotypic and epigenetic review of myasthenia gravis pathology and autoimmunity |
+| [25683765](https://pubmed.ncbi.nlm.nih.gov/25683765/) | 2015 | Cohort | Journal of Neurology | Two-year outcomes of thymectomy in 39 patients with non-thymomatous late-onset myasthenia gravis |
+| [18053719](https://pubmed.ncbi.nlm.nih.gov/18053719/) | 2008 | Case report | Neuromuscular Disorders | MuSK-positive myasthenia gravis with thymus hyperplasia presenting with dropped head syndrome |
+
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 136415 | Mygris 60mg Tablet | Strip of 10 tablets | Not stated in the records |
+| 94756 | Gravitor SR Tablet | Strip of 10 SR tablets | Not stated in the records |
+| 134082 | Myestin 60mg Tablet | Strip of 10 tablets | Not stated in the records |
+| 178890 | Pyristig 60mg Tablet | Strip of 10 tablets | Not stated in the records |
+| 181021 | Pyrido 60mg Tablet | Strip of 10 tablets | Not stated in the records |
+
+All 12 registrations are valid single-ingredient oral products, and none has been cancelled.
 
 ## Safety Considerations
 
-**Drug Interactions**: DDI screening identified 78 total interactions (source: ddinter), all rated Moderate. Notable classes among the reviewed subset:
-- **Corticosteroids** (Hydrocortisone, Dexamethasone, Betamethasone, Budesonide, Prednisone, Prednisolone, Triamcinolone) — steroids can transiently worsen myasthenic weakness or mask/alter anticholinesterase response
-- **Anticholinergic/antispasmodic agents** (Atropine, Scopolamine, Glycopyrronium, Hyoscyamine, Methscopolamine, Clidinium, Dicyclomine, Trospium, Mepenzolate, Propantheline) — pharmacodynamic antagonism may reduce pyridostigmine's cholinergic effect
-- **Aminoglycoside antibiotics** (Neomycin, Kanamycin, Paromomycin) — may potentiate neuromuscular blockade and worsen myasthenic symptoms
+- **Contraindications flagged in the knowledge graph** (drug-disease associations, not package insert text): kidney disease, pyoureter, asthma (including intrinsic and allergic asthma), and urinary tract obstruction.
+- **Drug Interactions**: 78 interactions were recorded. The 20 reviewed are all of moderate severity. They fall mainly into these groups:
+  - Anticholinergic agents (atropine, scopolamine, hyoscyamine, glycopyrronium, dicyclomine, trospium, propantheline, clidinium, methscopolamine, mepenzolate), which may oppose the effect of pyridostigmine.
+  - Corticosteroids (hydrocortisone, prednisone, prednisolone, dexamethasone, betamethasone, budesonide, triamcinolone).
+  - Aminoglycosides (neomycin, kanamycin, paromomycin).
 
-Key warnings and contraindications were not available in this evidence pack (data gap — TFDA/India label not yet retrieved); refer to the package insert for complete safety information.
+Warnings and contraindications from the package insert were not available. Please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanism and existing clinical use of pyridostigmine in MG make this subtype-level prediction low-risk and biologically well-founded, but the absence of dedicated trials in this specific subgroup, combined with missing label-level safety data and the drug's current unmarketed status in India, means it cannot be advanced to "Go" without further data completion.
+Pyridostigmine is already marketed in India for myasthenia gravis, and thymic hyperplasia is a common feature of AChR-positive disease, so the predicted indication largely overlaps with established use. Evidence is limited to a review, a case report and a cohort study, with no registered trials specific to this subtype.
 
 **To proceed, the following is needed:**
-- India/CDSCO label warnings and contraindications (currently a blocking data gap — required before S1 safety review can be completed)
-- Structured DrugBank mechanism-of-action data to formally document the pharmacological rationale
-- Confirmation of whether "myasthenia gravis with thymus hyperplasia" requires a distinct labeled indication or is already covered under a general MG indication
-- Assessment of India market entry pathway, given the drug currently has zero registrations there
+- Package insert warnings and contraindications for the Indian products, which are currently missing.
+- Detailed mechanism-of-action data.
+- Confirmation that the approved indication wording covers myasthenia gravis subtypes, since the records contain no indication text.
+- Subtype-level review of the other predictions:
+  - Neonatal myasthenia gravis: neonatal dosing and safety data are needed.
+  - Autoimmune peripheral nervous system disease: cholinesterase inhibitors can worsen some congenital myasthenic subtypes, so each subtype needs its own assessment.
+  - Autoimmune limb-girdle myasthenia: only a single case report supports it.
+  - MuSK-positive myasthenia gravis: response to cholinesterase inhibitors is variable.
+- Hypersplenism and atypical haemolytic-uraemic syndrome should stay on hold unless a mechanistic hypothesis is developed.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

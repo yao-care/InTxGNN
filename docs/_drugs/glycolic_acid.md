@@ -2,7 +2,7 @@
 layout: default
 title: Glycolic Acid
 parent: Model Prediction Only (L5)
-nav_order: 395
+nav_order: 399
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,77 +29,90 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using the drug-repurposing evaluation report format supplied above (no additional skill applies — this is a direct content-generation task per explicit instructions in the prompt).
-
-I reviewed the Evidence Pack closely before writing. Two things shape this report: (1) `predicted_indications[0]` (the top-ranked candidate, "atypical coarctation of aorta") has **zero** clinical trial or literature support and an explicitly negative mechanistic assessment in the pack itself; (2) the drug has no recorded original indication, no MOA, and is unmarketed in India, with a **Blocking**-severity data gap on label warnings/contraindications. I've followed the template literally for the required tables (which pull from `predicted_indications[0]`), and added a short supplementary table summarizing the other 9 candidates, since this pack is explicitly multi-candidate (`TW-DB03085-multi`) and omitting that context would misrepresent the evidence.
-
----
-
-# Glycolic Acid: From No Established Indication to Atypical Coarctation of Aorta (Prediction Unsupported by Evidence)
+# Glycolic Acid: From an Unspecified Original Indication to Esophageal Disease
 
 ## One-Sentence Summary
 
-Glycolic acid (DrugBank ID DB03085) has no recorded original indication or mechanism-of-action data in this evidence pack, and it is not currently marketed in India. The TxGNN model's top-ranked prediction — **Atypical Coarctation of Aorta** — carries a 99.72% model score but is supported by **zero clinical trials and zero literature citations**, and independent review of all ten ranked candidates found no indication with genuine, mechanistically coherent supporting evidence.
+Glycolic acid is currently marketed in India as an ingredient of a topical face wash, and no approved medical indication is recorded for it.
+The TxGNN model predicts it may be relevant to **esophageal disease**, but this is a graph-based prediction supported by **0 clinical trials** and only **indirect preclinical literature**.
+The retrieved papers concern glycolic acid-containing polymers (PGA, PLGA) used as biomaterials, not glycolic acid as an active drug.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not established (no license or indication data on record) |
-| Predicted New Indication | Atypical Coarctation of Aorta |
-| TxGNN Prediction Score | 99.72% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Original Indication | Not specified (the registered product is a cosmetic-type foaming face wash with no approved indication text) |
+| Predicted New Indication | Esophageal disease (the highest-ranked prediction, atypical coarctation of aorta, has no supporting evidence at all; esophageal disease is the highest-ranked prediction with any literature) |
+| TxGNN Prediction Score | 99.69% (esophageal disease); 99.72% for the top-ranked atypical coarctation of aorta |
+| Evidence Level | L4 (esophageal disease); L5 for the top-ranked prediction |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for glycolic acid is currently a data gap (DG002, High severity), so a mechanism-based plausibility assessment cannot be performed with confidence. Similarly, no original approved indication or India license history exists for this compound (0 registrations), so there is no established therapeutic baseline to compare the new prediction against.
+Currently, detailed mechanism of action data is not available. Glycolic acid is an alpha-hydroxy acid, and the only registered product in India is a topical face wash. No original medical indication is documented, so a link between a prior therapeutic use and the predicted indication cannot be drawn.
 
-For the top-ranked candidate itself, the pack's own mechanistic review concludes there is **no known biological link**: atypical coarctation of the aorta is a structural congenital cardiovascular malformation, whereas glycolic acid's known chemistry is limited to its properties as an alpha-hydroxy acid (keratolytic activity, pH modulation). No plausible pathway connects the two, and the prediction rests purely on TxGNN graph-embedding similarity with no clinical or literature corroboration.
+The retrieved literature on esophageal disease concerns polyglycolic acid (PGA) sheets and PLGA-based materials. These are used as stent coatings, scaffolds, and drug carriers to prevent or treat esophageal stricture. Glycolic acid is only a degradation monomer of these polymers. The therapeutic effect in these studies comes from the device, the carrier, or the loaded drug (paclitaxel, bFGF, triamcinolone), not from glycolic acid itself. The mechanistic link is therefore indirect and does not support a therapeutic indication for glycolic acid.
 
-It is also worth noting that the candidate with the largest apparent literature base — "esophageal disease" (rank 3, 9 papers, L4) — does not hold up on closer reading. Nearly all of those papers concern **polyglycolic acid (PGA) or PLGA polymer biomaterials** (surgical sheets, stents, nanoparticle drug carriers) rather than the small-molecule glycolic acid itself; this is a name-collision false positive. The one paper that does concern glycolic acid as a molecule (PMID 24996905) describes **glycolic aciduria as a disease-causing metabolic abnormality**, which points in the opposite direction from a therapeutic use case. No candidate in this pack, including the top-ranked one, is currently supported by coherent mechanistic or empirical evidence.
+The other top predictions, including atypical coarctation of aorta, non-syndromic esophageal malformation, potassium deficiency disease, sclerosing cholangitis, and several familial hyperinsulinism disorders, have no identifiable pharmacological rationale and no supporting trials or literature. Their high scores reflect graph-based prediction only.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available (for the top-ranked candidate, "Atypical Coarctation of Aorta").
+The literature below was retrieved for esophageal disease. All items are preclinical or otherwise low-tier, and several are off-topic.
 
-**Note on other predicted indications:** While the top-ranked candidate has no literature, three lower-ranked candidates returned PubMed hits that were reviewed and found not to constitute genuine supporting evidence:
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [37635203](https://pubmed.ncbi.nlm.nih.gov/37635203/) | 2023 | Experimental (PGA sheet, pigs) | J Gastroenterol | Polyglycolic acid sheets with bFGF tested to prevent stricture after esophageal endoscopic submucosal dissection |
+| [35487426](https://pubmed.ncbi.nlm.nih.gov/35487426/) | 2022 | Preclinical | Acta Biomater | Biodegradable paclitaxel-PLGA-coated magnesium stent for benign esophageal stricture; the coating increased radial force |
+| [33543561](https://pubmed.ncbi.nlm.nih.gov/33543561/) | 2021 | Preclinical | Cell Prolif | Chitosan-collagen scaffold loaded with PLGA/triamcinolone microspheres to reduce stenosis after endoscopic dissection |
+| [28556975](https://pubmed.ncbi.nlm.nih.gov/28556975/) | 2017 | Case report | Dig Endosc | Polyglycolic acid mesh combined with a gastropexy device to close gastrocutaneous fistulas |
+| [36238233](https://pubmed.ncbi.nlm.nih.gov/36238233/) | 2022 | Bibliometric analysis | Front Public Health | Research trends in endoscopic submucosal dissection; not specific to glycolic acid |
+| [29808844](https://pubmed.ncbi.nlm.nih.gov/29808844/) | 2018 | Preclinical (off-topic) | Nanoscale | PLGA nanoparticles delivering a ruthenium radiosensitizer to oesophageal cancer cells |
+| [24996905](https://pubmed.ncbi.nlm.nih.gov/24996905/) | 2014 | Genetic study (off-topic) | J Med Genet | HAO1 mutations cause isolated glycolic aciduria; unrelated to esophageal therapy |
+| [41135390](https://pubmed.ncbi.nlm.nih.gov/41135390/) | 2026 | Preclinical (off-topic) | Drug Resist Updat | PROTAC delivery for drug-resistant lung cancer |
 
-| Rank | Disease | Score | Evidence Level | Literature Hits | Reviewer Finding |
-|------|---------|-------|-----------------|------------------|-------------------|
-| 3 | Esophageal disease | 99.69% | L4 | 9 | Mostly PGA/PLGA biomaterial studies (name-collision false positives); one paper on glycolic acid points to pathology, not treatment |
-| 5 | Aortic malformation | 99.58% | L5 | 1 | PLGA vascular wrap material study, unrelated to glycolic acid pharmacology |
-| 7 | Disorder of carbohydrate absorption/transport | 99.52% | L5 | 2 | PLGA nanoparticle drug-delivery studies, unrelated to the proposed indication's mechanism |
-
-All other ranked candidates (atypical coarctation of aorta, non-syndromic esophageal malformation, potassium deficiency disease, sclerosing cholangitis, and the four hyperinsulinism/hypoglycemia variants) returned no clinical trial or literature evidence at all. All ten candidates are scored L4–L5 and flagged **Hold** in the source data.
+---
 
 ## India Market Information
 
-Glycolic acid is not currently marketed in India — 0 registrations/licenses on record. No authorization, product, or approved-indication data is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 94773 | Glucy Foaming Face Wash | Bottle of 100 ml face wash | Not specified |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data are all currently data gaps; the drug-interaction database query additionally failed due to a missing local data file, so DDI screening could not be completed.)
+Please refer to the package insert for safety information. No drug interaction records were found, and no contraindication links were identified in the knowledge graph.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication has no clinical, literature, or mechanistic support, and review of the pack's other nine candidates found no genuine repurposing signal — the best-looking literature base (esophageal disease) turns out to reflect an unrelated polymer material (PGA/PLGA), not the glycolic acid molecule. Combined with the absence of any established original indication, MOA, or India market presence, and a **Blocking**-severity gap in label safety data, this candidate does not meet the threshold to advance past initial screening.
+The predictions rest on graph-based scores alone. The only supporting literature for esophageal disease concerns glycolic acid-based polymers as device or carrier materials, not glycolic acid as a drug. The only registered product is a topical face wash, so there is no established therapeutic use to build on.
 
 **To proceed, the following is needed:**
-- India/TFDA package insert warnings and contraindications (DG001 — Blocking; required before any S1 safety screening can occur)
-- Verified mechanism of action for glycolic acid (DG002 — High)
-- Confirmation of glycolic acid's actual approved indication(s) and regulatory status, if any, in relevant markets
-- If the esophageal-disease signal is to be pursued further, a re-run literature search restricted explicitly to small-molecule glycolic acid (excluding PGA/PLGA polymer and biomaterial studies) to determine whether any genuine supporting evidence exists
-- Repair of the local DDI dataset (ddinter files missing) so a proper interaction screen can be run
+- Mechanism of action data for glycolic acid
+- Package insert warnings and contraindications
+- Evidence that glycolic acid itself, rather than PGA/PLGA materials, has activity in the predicted disease
+- Assessment of route compatibility, since the only marketed form is topical and the predicted indications would likely require a different route
+- Preclinical studies to test any plausible mechanistic hypothesis before further evaluation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

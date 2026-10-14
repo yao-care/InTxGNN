@@ -2,7 +2,7 @@
 layout: default
 title: Naproxen
 parent: Model Prediction Only (L5)
-nav_order: 574
+nav_order: 579
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,90 +29,80 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Naproxen: From Pain & Inflammation to Brachydactyly-Syndactyly Syndrome
+# Naproxen: From Inflammatory and Musculoskeletal Pain Conditions to Brachydactyly-Syndactyly Syndrome
 
 ## One-Sentence Summary
 
-Naproxen is a well-established non-steroidal anti-inflammatory drug (NSAID) widely used for pain relief, fever, and inflammatory conditions such as arthritis.
-The TxGNN model predicts it may be effective for **Brachydactyly-Syndactyly Syndrome**, a rare congenital skeletal malformation disorder.
-Currently, **no clinical trials** and **no supporting publications** exist for this combination, leaving the prediction at the lowest evidence tier.
-
----
+Naproxen is a non-steroidal anti-inflammatory drug (NSAID) originally used for conditions such as rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, gout, bursitis, tendinitis and migraine.
+The TxGNN model predicts it may be effective for **brachydactyly-syndactyly syndrome**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Pain, inflammation, and fever (NSAID; analgesic/antipyretic use) |
-| Predicted New Indication | Brachydactyly-Syndactyly Syndrome |
+|------|------|
+| Original Indication | Bursitis, rheumatoid arthritis, ankylosing spondylitis, tendinitis, gout, migraine, osteoarthritis and related conditions (the approved indication text in the India licences is blank) |
+| Predicted New Indication | Brachydactyly-syndactyly syndrome |
 | TxGNN Prediction Score | 99.35% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Naproxen is generally known as a non-selective COX inhibitor with anti-inflammatory and analgesic effects, and its efficacy in inflammatory joint and pain conditions is established.
 
-Currently, detailed mechanism of action data is not available for Naproxen in this context. Based on known pharmacological information, Naproxen is a propionic acid-class NSAID that inhibits cyclooxygenase (COX-1 and COX-2) enzymes, thereby suppressing the synthesis of prostaglandins — most notably prostaglandin E2 (PGE2). This action underlies its well-established analgesic, antipyretic, and anti-inflammatory effects.
+Brachydactyly-syndactyly syndrome, however, is a congenital skeletal malformation with a developmental and genetic basis. Blocking prostaglandin synthesis is not expected to correct a structural limb patterning defect, so no mechanistic link is supported by the available data. The high score (99.35%) most likely reflects network proximity in the knowledge graph (for example, to skeletal and joint-related terms among naproxen's original indications) rather than a true therapeutic relationship.
 
-The connection to brachydactyly-syndactyly syndrome is mechanistically indirect. PGE2 is known to play a modulatory role in skeletal development, including regulation of bone morphogenetic protein (BMP) signalling and osteoblast/chondrocyte activity during embryogenesis. Brachydactyly-syndactyly syndrome, however, is a congenital structural defect caused by mutations in RAS-MAPK and related developmental signalling pathways, resulting in permanent anatomical abnormalities of the digits and limbs that are established during embryonic development.
+The other three top-ranked predictions show the same pattern. All are rare congenital developmental syndromes, with no trials or literature:
+- Colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.22%)
+- Acromesomelic dysplasia, Hunter-Thompson type (99.17%)
+- Brachyolmia-amelogenesis imperfecta syndrome (99.06%)
 
-Suppression of PGE2 via COX inhibition cannot reverse pre-existing congenital skeletal malformations. The high TxGNN score (0.9935) most likely reflects high topological connectivity of skeletal-related nodes in the knowledge graph rather than a direct pharmacological rationale. There is no mechanistic pathway by which post-natal NSAID therapy could modify the structural phenotype of this syndrome.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+At most, naproxen might relieve joint pain symptomatically in some of these patients, which is not a repurposing claim.
 
 ## India Market Information
 
-Naproxen currently has **no registered products** in the Indian market (CDSCO licensing data). No authorization records are available for this drug under the dataset reviewed.
+Naproxen has 20 valid single-ingredient registrations and no cancelled ones. The data compiled for this report do not include approved indication text for these products. Main authorizations:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 244550 | Xenap 250 Tablet | Strip of 10 tablets | Not stated |
+| 153983 | Nalyxan 250mg Tablet | Strip of 10 tablets | Not stated |
+| 152315 | Napsea Tablet | Strip of 10 tablets | Not stated |
+| 151203 | Naprosyn 125mg Suspension | Bottle of 60 ml suspension | Not stated |
+| 150316 | Naxdom 250 Tablet | Strip of 15 tablets | Not stated |
+
+Available forms are oral tablets and an oral suspension. Several registrations are fixed-dose products, although the data classify all as single-ingredient (for example, the "D" and "250mg/10mg" products).
 
 ## Safety Considerations
 
-**Drug Interactions (309 interactions on record):** The following are representative moderate-severity interactions identified in the DDInter database:
+- **Contraindications / disease associations (knowledge graph, not label text)**: Naproxen is linked to the following conditions, grouped by area:
+  - Cardiovascular: hypertension, congestive heart failure, coronary artery disease, coronary atherosclerosis, myocardial infarction, coronary thrombosis, stroke, cerebrovascular disorder, cerebral infarction
+  - Liver and kidney: liver failure, liver disease, kidney disease, gallbladder disease
+  - Metabolic: diabetes mellitus, diabetic ketoacidosis, obesity, osteoporosis
+  - Blood: blood coagulation disease, anaemia, hemoglobinopathy
+  - Other: epilepsy, benign prostatic hyperplasia, substance abuse/dependence
+- **Drug Interactions**: 309 interactions are recorded. The 20 listed in the data are all Moderate-level and include:
+  - Acid-lowering agents: famotidine, ranitidine, cimetidine, rabeprazole, dexlansoprazole
+  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide
+  - Other: acetylsalicylic acid, metformin, chlorpropamide, mesalazine, balsalazide, aprepitant, potassium citrate, potassium bicarbonate
 
-| Interacting Drug | Severity | Clinical Relevance |
-|-----------------|----------|--------------------|
-| Acetylsalicylic acid | Moderate | Concurrent NSAID use increases GI bleeding risk and may reduce aspirin's antiplatelet efficacy |
-| Dexamethasone / Hydrocortisone / Betamethasone / Budesonide / Triamcinolone | Moderate | Combined NSAID + corticosteroid use significantly elevates risk of GI ulceration and haemorrhage |
-| Metformin | Moderate | NSAIDs may reduce renal clearance of metformin, increasing metformin plasma levels |
-| Famotidine / Ranitidine / Cimetidine / Rabeprazole / Dexlansoprazole | Moderate | GI protectants co-prescribed to mitigate NSAID-associated gastropathy; pharmacokinetic interactions possible |
-| Mesalazine / Balsalazide | Moderate | Concurrent use with NSAIDs may exacerbate inflammatory bowel disease |
-| Chlorpropamide | Moderate | NSAIDs may potentiate hypoglycaemic effects of sulfonylureas |
-| Aprepitant | Moderate | Potential CYP-mediated interaction affecting naproxen metabolism |
-| Picosulfuric acid / Polyethylene glycol (3350 with electrolytes) / Potassium citrate / Potassium bicarbonate | Moderate | Electrolyte balance and renal handling may be affected |
-
-> Warnings and contraindications data from the regulatory package insert were not available in this dataset. Please refer to the approved product labelling for complete safety information.
-
----
+Please refer to the package insert for warnings and formal contraindications, as label-based data were not available.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Brachydactyly-syndactyly syndrome is an irreversible congenital skeletal malformation caused by germline mutations in developmental signalling pathways. There is no pharmacological mechanism by which Naproxen's COX inhibition could modify the structural phenotype, and the complete absence of clinical trial or literature evidence confirms this prediction is not actionable at this time. The TxGNN high score reflects knowledge-graph topology rather than biological plausibility.
+The prediction is supported only by a model score (L5), with no clinical trials or publications, and there is no plausible mechanistic link between COX inhibition and correcting a congenital skeletal malformation. The cardiovascular, renal, hepatic and gastrointestinal risk profile of naproxen further weakens any case for use in this setting.
 
-**To proceed, the following would be needed:**
-- **Mechanistic validation:** Preclinical evidence (cell or animal model) demonstrating that COX/PGE2 inhibition meaningfully modulates the specific genetic defect(s) underlying brachydactyly-syndactyly syndrome
-- **MOA clarification:** Full DrugBank MOA data for Naproxen should be retrieved to rule out any secondary targets relevant to congenital skeletal disorders
-- **Regulatory safety data:** CDSCO / TFDA package insert warnings and contraindications (DG001) must be retrieved before any safety-based evaluation can proceed
-- **India market registration:** If clinical repurposing research is considered, a regulatory pathway for India market entry would need to be defined from scratch given zero current registrations
-- **Rare disease context:** Given the ultra-rare nature of brachydactyly-syndactyly syndrome, any future study design would require patient registry identification and orphan drug designation assessment
+**To proceed, the following is needed:**
+- Mechanism of action data (MOA) and a documented rationale linking it to the disease's biology
+- Any preclinical, case-based or clinical evidence in this or related syndromes
+- Package insert warnings and contraindications for the India products
+- Route and formulation compatibility assessment
+- Confirmation of whether any benefit would be only symptomatic (joint pain) rather than disease-modifying
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

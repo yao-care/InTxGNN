@@ -29,86 +29,76 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-# Ambroxol: From Expectorant to Nasal Cavity Disease
+# Ambroxol: From Pharyngitis to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-Ambroxol is a mucolytic and expectorant agent used in several jurisdictions for respiratory conditions involving excessive mucus production (not yet FDA/EMA-approved, but approved by individual European agencies and widely used in Asia and Europe).
-The TxGNN model predicts it may be effective for **Nasal Cavity Disease**, with **0 clinical trials** and **1 publication** currently supporting this specific direction.
-Evidence remains at the preclinical/mechanistic level, making this a hypothesis-generating rather than decision-ready finding at this stage.
-
----
+Ambroxol is a mucolytic/secretolytic (expectorant) agent, originally used to treat pharyngitis.
+The TxGNN model predicts it may be effective for **nasal cavity disease**, but the supporting evidence is thin: **0 clinical trials** and **1 publication** (a 2015 narrative article on acute cough that does not directly address the nasal cavity).
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Expectorant — respiratory conditions with excessive or impaired mucus secretion |
-| Predicted New Indication | Nasal Cavity Disease |
+|------|------|
+| Original Indication | Pharyngitis |
+| Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed (0 registered products) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available. Based on known information, ambroxol is a mucolytic/secretolytic agent that increases airway mucus clearance. It has also been reported to have local anaesthetic-like (sodium channel blocking) and anti-inflammatory effects.
 
-Detailed mechanism of action (MOA) data is not currently available from the DrugBank source for this report. Based on pharmacological information retrieved from the drug interaction database, Ambroxol is a small-molecule mucolytic with at least two distinct mechanistic properties relevant to nasal cavity physiology. First, it promotes serous mucus secretion and activates mucociliary clearance — the very mechanism by which the nasal mucosa traps and expels pathogens and debris. Second, it blocks sodium channels (Nav1.2/Nav1.4), a property already exploited commercially in European lozenge formulations targeting throat pain and inflammation.
+Pharyngitis and nasal cavity disease both involve the upper airway mucosa. Mucus clearance and anti-inflammatory effects could plausibly relieve upper airway mucosal symptoms, which is consistent with ambroxol's existing use in pharyngitis.
 
-The link between Ambroxol's established respiratory mucosal activity and nasal cavity disease is anatomically straightforward: the nasal cavity is the proximal segment of the same mucosal surface that Ambroxol acts upon in the lower airways. Impaired mucociliary function and mucus stagnation are central to many nasal cavity conditions, including rhinitis, sinusitis, and post-viral nasal inflammation. Ambroxol's additional anti-inflammatory actions — reported NF-κB inhibition and reduced prostaglandin synthesis — provide a secondary mechanistic rationale.
+The caveat is that the only linked article concerns acute cough, a lower respiratory tract problem, and does not directly address nasal cavity disease. The very high TxGNN score is a computational prediction only and is not backed by clinical data for this indication.
 
-That said, the current literature retrieved by the search pipeline focuses exclusively on "acute cough" in the setting of viral upper respiratory infections, rather than on nasal cavity disease as a discrete target. The mechanistic link is biologically coherent but remains an indirect inference. No direct preclinical or clinical studies targeting nasal cavity disease with Ambroxol were identified in this Evidence Pack.
-
----
+Other predictions in the list show how weak the evidence is across the board. Acute laryngopharyngitis (score 99.88%) is closely related to the approved use, but has no trials or literature. Vulvovaginal candidiasis, faucial diphtheria and cervical disc degenerative disorder have no clear mechanistic link and no evidence.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Ambroxol + Nasal Cavity Disease in ClinicalTrials.gov or ICTRP.
-
-> **Note:** External databases (ClinicalTrials.gov) do contain Ambroxol studies for broader upper respiratory and ENT indications. A targeted search using MeSH terms for rhinitis, sinusitis, and nasal mucosal disease is recommended to confirm whether relevant trials have been missed by the current query scope.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [26525480](https://pubmed.ncbi.nlm.nih.gov/26525480/) | 2015 | Narrative Review | *Vestnik otorinolaringologii* | Discusses Ambroxol as a treatment option for acute cough in influenza and ARVI. Notes that acute viral cough is typically non-productive and self-limiting (2–3 weeks), but in some patients becomes productive with mucus abnormalities — the scenario where mucolytic agents like Ambroxol are considered. No direct nasal cavity outcome data reported. |
-
----
+|------|-----|------|------|---------|
+| [26525480](https://pubmed.ncbi.nlm.nih.gov/26525480/) | 2015 | Review / narrative article | Vestnik otorinolaringologii | Discusses treatment of acute cough associated with influenza and acute respiratory viral infection. Covers productive and non-productive cough. Concerns the lower airway and does not directly address nasal cavity disease. |
 
 ## India Market Information
 
-Ambroxol is currently **not marketed** in the India regulatory database reviewed for this report. No product authorizations or registered licenses were found (total registrations: 0). This is consistent with the drug's global regulatory status, where it is approved by several individual European national agencies but not by the FDA or EMA as a centrally authorized product.
+A total of 20 valid single-ingredient registrations were found. Approved indication text was not available for any of them. The five listed below are examples.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 30370 | Brex Syrup | Bottle of 100 ml syrup | Not available |
+| 245347 | Xeroc LS Syrup | Bottle of 60 ml syrup | Not available |
+| 41805 | Cofodd LS Syrup | Bottle of 60 ml syrup | Not available |
+| 200985 | Sukuff Total Tablet | Strip of 15 tablets | Not available |
+| 154905 | New Ventakof Expectorant | Bottle of 100 ml expectorant | Not available |
 
 ## Safety Considerations
 
-**Drug Interactions:**
+- **Drug Interactions**: One pharmacological interaction was recorded, with glucosylceramidase beta (GBA1). Ambroxol acts as a chaperone for this enzyme. In acellular fluid at neutral pH it inhibits enzyme activity, while inside cells and acidic lysosomes it increases enzyme activity by raising the amount of enzyme reaching the lysosome. This is a target-level pharmacology finding, not a drug-drug interaction with a defined clinical severity level.
 
-- **Glucosylceramidase beta (GBA1):** Ambroxol displays a context-dependent interaction with GBA1 (the enzyme deficient in Gaucher disease and implicated in GBA-associated Parkinson's disease). At neutral pH (e.g., in cerebrospinal fluid), Ambroxol acts as an *inhibitory* GCase chaperone, temporarily reducing extracellular enzyme activity. Within cells and acidic lysosomes, the same chaperone effect *increases* intracellular GCase activity by improving enzyme trafficking to the lysosome. This pharmacological duality is being actively investigated in clinical trials for Parkinson's disease and ALS/MND (EMA granted orphan designation for ALS in July 2018). Clinically, this interaction is most relevant in patients with GBA1 mutations or lysosomal storage disorders — a population that would require careful monitoring if Ambroxol were prescribed.
-
-Please refer to the package insert (available from EMA SmPC or national agency product monographs) for full warnings and contraindications, which could not be retrieved in this Evidence Pack due to a data gap.
-
----
+Please refer to the package insert for other safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction score of 99.91% is striking, and there is a biologically coherent mechanistic pathway connecting Ambroxol's mucolytic and anti-inflammatory properties to nasal cavity disease. However, the evidence base currently consists of a single narrative review tangentially related to nasal symptoms, placing this firmly at L4 — mechanistic plausibility without clinical validation. This does not justify immediate development investment, but the hypothesis is worth structured follow-up.
+The prediction rests almost entirely on the TxGNN score. There are no registered clinical trials, and the single linked article concerns acute cough rather than nasal cavity disease. The evidence is at the L4 level, which is not enough to support moving forward.
 
 **To proceed, the following is needed:**
-
-- **Expand literature search:** Query PubMed/EMBASE with MeSH terms specifically for Ambroxol + rhinitis, sinusitis, nasal mucosal disease, and upper airway inflammation to confirm whether relevant evidence was missed by the current query scope
-- **Retrieve MOA data:** Query DrugBank API (DB06742) to obtain full pharmacological profile, target list, and enzyme interaction data
-- **Retrieve safety data:** Download and parse the EMA SmPC or a national-level package insert to complete the key warnings and contraindications assessment (currently a blocking data gap)
-- **Evaluate delivery routes:** Determine whether existing formulations (oral syrup, lozenge, inhalation) are compatible with nasal cavity disease — or whether a nasal spray formulation would be required for clinical relevance
-- **KG path audit:** Review the TxGNN knowledge graph path connecting Ambroxol to nasal cavity disease to distinguish true biological connectivity from topological proximity artifacts (as observed in lower-ranked predictions such as faucial diphtheria and vulvovaginal candidiasis, where high scores appear driven by mucosal node proximity rather than pharmacological mechanism)
+- Package insert warnings and contraindications for the Indian-marketed products (currently missing and blocking safety screening)
+- Mechanism of action data (for example from DrugBank) to support the link to nasal cavity disease
+- Literature and trials that directly address ambroxol in nasal or upper airway disease
+- Approved indication text for the registered products, to confirm how the original indication is labelled in India
+- Consideration of acute laryngopharyngitis as a closer-to-label alternative, although it also currently has no direct evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

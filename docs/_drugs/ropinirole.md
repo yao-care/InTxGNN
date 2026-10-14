@@ -2,15 +2,15 @@
 layout: default
 title: Ropinirole
 parent: Moderate Evidence (L3-L4)
-nav_order: 746
-evidence_level: L4
+nav_order: 753
+evidence_level: L3
 indication_count: 10
 ---
 
 # Ropinirole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,97 +29,101 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Ropinirole: From Parkinson's Disease/Restless Legs Syndrome to Attention-Deficit/Hyperactivity Disorder
+# Ropinirole: From Restless Legs Syndrome and Parkinson Disease to Attention Deficit-Hyperactivity Disorder
 
 ## One-Sentence Summary
 
-> Ropinirole is a non-ergot dopamine D2/D3 receptor agonist, historically associated with Parkinson's disease and restless legs syndrome (RLS) management based on the supporting literature in this evidence pack.
-> The TxGNN model predicts it may be effective for **Attention-Deficit/Hyperactivity Disorder (ADHD)**,
-> but this is currently supported only by **0 clinical trials** and **8 publications**, none of which are randomized controlled trials directly testing ropinirole in ADHD.
-
----
+Ropinirole is a dopamine D2/D3 agonist, originally used to treat restless legs syndrome and Parkinson disease.
+The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**,
+but **no clinical trials are registered** and the evidence consists of **8 publications**, mostly reviews, a case report and indirect studies. One 2026 publication may be a randomized trial, but this needs verification.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from registry data (drug is not marketed in India, `total_licenses = 0`). Literature context in this pack references ropinirole's established use in Parkinson's disease and restless legs syndrome. |
-| Predicted New Indication | Attention-Deficit/Hyperactivity Disorder (ADHD) |
+| Original Indication | Restless legs syndrome, Parkinson disease |
+| Predicted New Indication | Attention deficit-hyperactivity disorder |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L3 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on the pharmacology referenced in the supporting literature, ropinirole is a non-ergot dopamine D2/D3 receptor agonist, a class conventionally used for Parkinson's disease and RLS.
+Ropinirole is a D2/D3 dopamine agonist. Detailed mechanism of action data is not available in the data compiled for this report, so this description rests on its known drug class.
 
-The link to ADHD is indirect rather than a direct pharmacological rationale. Most of the supporting literature discusses the **comorbidity between RLS and ADHD** rather than ropinirole's action on ADHD's core neurobiology. Only one publication (PMID 15866437) describes a pediatric case in which ropinirole — prescribed to treat RLS/periodic limb movement symptoms in a child who already had ADHD — coincided with improvement in both sleep and ADHD symptoms. This is a single case report, not a controlled study of ropinirole as an ADHD therapy.
+ADHD involves dopaminergic dysregulation, and it frequently co-occurs with restless legs syndrome (RLS), an established ropinirole indication. A review (PMID 16218085) discusses this association and the possible value of treatments shared between the two conditions. This suggests a common dopaminergic and iron-metabolism pathway.
 
-Mechanistically, dopaminergic dysregulation is implicated in ADHD pathophysiology (most ADHD drugs, e.g., methylphenidate, act on dopamine/norepinephrine reuptake), so a dopamine agonist is biologically plausible as a candidate. However, the current evidence base does not distinguish whether any benefit is via direct ADHD-relevant circuitry or secondary to RLS symptom relief improving sleep and attention. The mechanistic link should be considered weak and hypothesis-generating only.
-
----
+The direct clinical support is thin. A case report describes a 6-year-old with ADHD and RLS whose attention symptoms and sleep improved on ropinirole after limited benefit from methylphenidate. A 2026 publication appears to be an 8-week, double-blind, placebo-controlled trial of ropinirole added to methylphenidate in 66 children and adolescents aged 6-17. Its title is truncated in the data, so its design and results cannot be confirmed here.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [16218085](https://pubmed.ncbi.nlm.nih.gov/16218085/) | 2005 | Review | Sleep | Reviews the RLS–ADHD association, hypothetical shared mechanisms, and rationale for shared pharmacologic treatment when co-occurring. |
-| [18656214](https://pubmed.ncbi.nlm.nih.gov/18656214/) | 2008 | Review | Revue neurologique | General review of RLS pathophysiology and diagnostic criteria; does not directly address ADHD treatment. |
-| [15866437](https://pubmed.ncbi.nlm.nih.gov/15866437/) | 2005 | Case Report | Pediatric neurology | 6-year-old with ADHD and comorbid RLS/PLMS treated with ropinirole (for RLS) showed improvement in both RLS symptoms and ADHD symptoms. |
-| [30950895](https://pubmed.ncbi.nlm.nih.gov/30950895/) | 2019 | Case Report (unrelated) | Cornea | Describes corneal edema in patients exposed to systemic dopaminergic agents; unrelated to ADHD. |
-| [30460371](https://pubmed.ncbi.nlm.nih.gov/30460371/) | 2019 | Case Report (unrelated) | Acta dermato-venereologica | Treatment-induced delusions of infestation linked to elevated brain dopamine; unrelated to ADHD. |
-| [24992083](https://pubmed.ncbi.nlm.nih.gov/24992083/) | 2014 | Cohort (unrelated drug) | Clinical neuropharmacology | Compares piribedil vs. pramipexole/ropinirole on vigilance in Parkinson's disease patients with daytime sleepiness; not ADHD-related. |
-| [17483695](https://pubmed.ncbi.nlm.nih.gov/17483695/) | 2007 | Preclinical (animal model) | J Neuropathol Exp Neurol | A11-lesioned, iron-deprived mouse model proposed as an RLS model; does not test ropinirole or ADHD endpoints. |
-| [34182128](https://pubmed.ncbi.nlm.nih.gov/34182128/) | 2021 | Basic Science | Pharmacological research | Receptor heteromerization study (α2A adrenoceptor/dopamine D4 variants) relevant to ADHD/impulse-control biology, but not a ropinirole efficacy study. |
-
----
+| [42640474](https://pubmed.ncbi.nlm.nih.gov/42640474/) | 2026 | Possible RCT (needs verification) | Eur Child Adolesc Psychiatry | 8-week trial of ropinirole added to methylphenidate vs placebo in 66 outpatients aged 6-17 with ADHD; results not available in the data |
+| [16218085](https://pubmed.ncbi.nlm.nih.gov/16218085/) | 2005 | Review | Sleep | Reviews the association between RLS and ADHD and the potential for shared pharmacological treatment |
+| [18656214](https://pubmed.ncbi.nlm.nih.gov/18656214/) | 2008 | Review | Rev Neurol | Overview of restless legs syndrome (clinical features and prevalence) |
+| [15866437](https://pubmed.ncbi.nlm.nih.gov/15866437/) | 2005 | Case report | Pediatr Neurol | Child with ADHD and RLS improved in ADHD symptoms and sleep on ropinirole |
+| [34182128](https://pubmed.ncbi.nlm.nih.gov/34182128/) | 2021 | Preclinical | Pharmacol Res | D4 receptor variants and α2A adrenoceptor heteromerization, relevant to impulse-control disorders |
+| [24992083](https://pubmed.ncbi.nlm.nih.gov/24992083/) | 2014 | Clinical study (indirect) | Clin Neuropharmacol | Piribedil vs pramipexole and ropinirole on vigilance in Parkinson disease patients with daytime sleepiness |
+| [30950895](https://pubmed.ncbi.nlm.nih.gov/30950895/) | 2019 | Safety report | Cornea | Corneal edema in 3 patients exposed to dopaminergic agents |
+| [17483695](https://pubmed.ncbi.nlm.nih.gov/17483695/) | 2007 | Animal study | J Neuropathol Exp Neurol | Mouse model of RLS with A11 lesions and iron deprivation |
 
 ## India Market Information
 
-Currently no registration records available in India — the drug is recorded as **Not Marketed** (`total_licenses = 0`), so no authorization/product/dosage-form entries exist in this evidence pack.
+Twenty valid single-ingredient registrations are listed. Approved indication text is not available in the records. Five main examples:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 184311 | Ropark 0.5 Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not specified |
+| 185061 | Ropark XL 4 Tablet (Sun Pharmaceutical) | Strip of 10 extended-release tablets | Not specified |
+| 192786 | Ropark 6mg Tablet XL (Sun Pharmaceutical) | Strip of 10 extended-release tablets | Not specified |
+| 187918 | Ropitor 0.5mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not specified |
+| 195679 | Ropikem 0.25mg Tablet (Chemo Healthcare) | Strip of 10 tablets | Not specified |
+
+All products are oral tablets, including extended-release forms.
 
 ## Safety Considerations
 
-**Drug Interactions**: DDI screening identified **167 total interactions**. The interactions flagged at **Moderate** severity include:
-- Morphine
-- Morphine (liposomal)
-- Cimetidine
-- Dronabinol
-- Nabilone
-- Opium
-- Obeticholic acid
-- Metoclopramide
+- **Contraindications flagged in the knowledge graph (not label text):** multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, drug-induced dyskinesia, liver failure, psychotic disorders (including schizophreniform and schizoaffective disorder), mental disorder and hypotensive disorder.
+- **Drug interactions:** 167 interactions were identified. Moderate-level ones include morphine (including liposomal), cimetidine, dronabinol, nabilone, opium, metoclopramide and obeticholic acid.
+- **Class-related concerns:** Dopamine agonists are associated with impulse-control disorders (including gambling disorder), sleep attacks and corneal edema. These are especially relevant in children.
 
-The remaining flagged interactions (e.g., Calcitriol, Phentermine, Pantoprazole, Glimepiride, Mesalazine, Doxycycline, Clotrimazole, Acarbose, Sucralfate, Palonosetron, Rosiglitazone, Lactulose) are recorded at **Unknown** severity level in the source database and require independent verification before clinical use.
-
-Key warnings and contraindications from the local regulatory label are not currently available (Blocking data gap, DG001 — TFDA/India label PDF not yet retrieved and parsed).
-
----
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The ADHD signal rests on TxGNN's prediction score alone plus a single pediatric case report where ropinirole treated comorbid RLS rather than ADHD directly; there is no clinical trial evidence, and the drug currently has no market presence or registered license in India. This does not meet the bar to proceed even with guardrails.
+The TxGNN score is high, but the evidence is limited to a case report, reviews and one possible controlled trial whose design and results are unverified. No registered trials exist. Safety concerns in pediatric patients (impulse control, sleep attacks) are material.
 
 **To proceed, the following is needed:**
-- Resolve Blocking gap DG001: obtain and parse the official label (TFDA or equivalent) for warnings/contraindications — this is required before any S1 safety screening.
-- Resolve High-severity gap DG002: confirm ropinirole's formal MOA (D2/D3 agonism) via DrugBank API to support mechanistic review.
-- Seek prospective or controlled studies testing ropinirole specifically for ADHD (not RLS-ADHD comorbidity) before advancing past S0.
-- Note: within this same evidence pack, the **schizophrenia** candidate (rank 5) has a stronger evidence base (L3, decision_stage S1, "Research Question," including a systematic review/meta-analysis, PMID 31688399) and may warrant separate evaluation as a higher-priority research question relative to the ADHD signal.
+- Verify the full text, design and results of the 2026 publication (PMID 42640474)
+- Replication in adequately powered pediatric trials, with safety monitoring for impulse-control and sleep-related events
+- Package insert warnings and contraindications from the Indian regulator
+- Detailed mechanism of action data
+
+## Other Predicted Indications (Reference)
+
+The other top-ranked predictions all carry a **Hold** recommendation. None has registered clinical trials.
+
+| Predicted Indication | TxGNN Score | Evidence Level | Note |
+|------|------|------|------|
+| Schizophrenia | 99.90% | L4 | Evidence is preclinical, case-based or indirect. D2/D3 agonism is opposite to standard antipsychotic action and may worsen psychosis. Psychotic disorders also appear among the knowledge-graph contraindications. |
+| Faciodigitogenital syndrome | 99.98% | L5 | Model prediction only |
+| Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 99.92% | L5 | Model prediction only |
+| Retinal dystrophy with or without extraocular anomalies | 99.91% | L5 | Model prediction only |
+| Myopia X-linked | 99.90% | L5 | Model prediction only |
+| Congenital disorder of glycosylation with defective fucosylation | 99.90% | L5 | Model prediction only |
+| Atypical glycine encephalopathy | 99.89% | L5 | Model prediction only |
+| Myopia 26, X-linked, female-limited | 99.88% | L5 | Model prediction only |
+| Charcot-Marie-Tooth disease, demyelinating, type 1G | 99.88% | L5 | Model prediction only |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Framycetin
-parent: Moderate Evidence (L3-L4)
-nav_order: 379
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 383
+evidence_level: L5
 indication_count: 7
 ---
 
 # Framycetin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,63 +29,76 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-# Framycetin: From Topical Antibacterial Use to Urinary Tract Infection
+# Framycetin: From Topical Antibacterial Use to Sclerosing Cholangitis
 
 ## One-Sentence Summary
 
-Framycetin is an aminoglycoside antibiotic conventionally used as a topical antibacterial (skin, eye, ear); no original indication record exists for this compound in the India regulatory dataset, and the drug is currently unmarketed there. Among seven TxGNN-predicted indications, **Urinary Tract Infection (UTI)** is the only one that reached the research-question stage, supported by a plausible antibacterial mechanism and one historical clinical report — the higher-scoring top prediction (sclerosing cholangitis) and four others are explicitly flagged in the evidence pack's own rationale as lacking any biological plausibility and are treated as likely knowledge-graph noise.
+Framycetin is an aminoglycoside antibiotic, marketed in India mainly as topical skin creams and a medicated bandage.
+The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+This is a model prediction only and should not be read as clinical support.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in India regulatory data; known clinically as a topical antibacterial agent (skin/eye/ear) |
-| Predicted New Indication | Urinary Tract Infection (UTI) |
-| TxGNN Prediction Score | 99.42% |
-| Evidence Level | L4 |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold (Research Question stage) |
+| Original Indication | Not stated in the available license records (marketed as topical cream and bandage products) |
+| Predicted New Indication | Sclerosing cholangitis |
+| TxGNN Prediction Score | 99.66% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 5 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is currently unavailable for framycetin (flagged as a High-severity data gap, DG002). Based on known pharmacology, framycetin is an aminoglycoside antibiotic that inhibits bacterial protein synthesis via binding to the 30S ribosomal subunit, and it is active against common gram-negative uropathogens such as *E. coli*, *Proteus mirabilis*, and *Pseudomonas aeruginosa*. This provides a mechanistically coherent link to urinary tract infection, one of the most common indications for aminoglycoside-class antibacterial activity.
+Currently, detailed mechanism of action data is not available. Based on known information, framycetin is an aminoglycoside antibiotic with poor systemic absorption. Aminoglycosides act on the bacterial 30S ribosome and have broad Gram-negative activity.
 
-However, framycetin's established clinical use is almost exclusively topical (dermatological, ophthalmic, otic), and systemic administration is constrained by the class-wide risks of nephrotoxicity and ototoxicity. This means the mechanistic plausibility is reasonable, but practical route-of-administration feasibility (e.g., local bladder instillation vs. systemic dosing) remains unresolved and would need to be established before further development.
+The proposed link to sclerosing cholangitis is the gut-liver axis. Primary sclerosing cholangitis is hypothesised to involve gut microbiome changes and bile-acid-related inflammation. A gut-restricted antibiotic could theoretically modulate these. However, aminoglycosides have no established role in this disease; oral vancomycin is the antibiotic most studied. The high TxGNN score is therefore not clinical support.
 
-It is also worth noting that this evidence pack surfaced six other predicted indications with comparable or higher TxGNN scores (e.g., sclerosing cholangitis at 99.66%, congenital prothrombin deficiency at 99.41%). The pack's own mechanistic review explicitly identifies these as biologically implausible for an antibacterial drug — autoimmune/fibrotic biliary disease and a hereditary coagulation factor defect have no known relationship to aminoglycoside pharmacology — and treats them as likely model noise (all scored L5/Hold). UTI is therefore selected here as the only candidate with both a plausible mechanism and independent supporting evidence.
+**Other predicted indications (all L5, all Hold):**
 
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [816047](https://pubmed.ncbi.nlm.nih.gov/816047/) | 1976 | Case series/Older clinical report | Der Urologe. Ausg. A | In an experimental infected-bladder model, concurrent framycetin sulfate (or kanamycin) irrigation completely suppressed growth of *Proteus mirabilis* and *Pseudomonas aeruginosa*, and reduced *E. coli* growth, during continuous bladder irrigation therapy |
+| Rank | Predicted Indication | Score | Assessment |
+|---|---|---|---|
+| 2 | Urinary tract infection | 99.42% | Biologically plausible (Gram-negative activity, renal excretion), but framycetin is mainly used topically or orally. Systemic use is limited by nephrotoxicity and ototoxicity. Gentamicin and amikacin are better characterised. |
+| 3 | Congenital prothrombin deficiency | 99.41% | No plausible mechanism. Likely a graph artifact. Oral antibiotics may reduce vitamin K-producing gut flora and worsen coagulopathy, so this is more a safety concern. |
+| 4 | Gonococcal urethritis | 99.28% | Class-level plausibility, but guidelines rely on ceftriaxone-based regimens. |
+| 5 | Ureaplasma urethritis | 99.28% | Ureaplasma is usually treated with tetracyclines or macrolides. Aminoglycoside activity against mycoplasmas is inconsistent. |
+| 6 | Uterine inflammatory disease | 99.18% | Aminoglycosides (usually gentamicin plus clindamycin) are used in endometritis regimens, but there is no framycetin-specific evidence. |
+| 7 | Xanthogranulomatous pyelonephritis | 99.18% | Antibacterial link is plausible, but nephrotoxicity in a diseased kidney is a significant concern. |
 
 ## India Market Information
 
-This drug is not currently marketed in India — 0 registrations are on file, so no product/authorization table is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 203335 | Sofraderm Cream (Torque Pharmaceuticals) | Cream, 15 g tube | Not stated |
+| 201125 | Sofra Tuffle Bandage (Sanofi India) | Bandage, 1 per packet | Not stated |
+| 199532 | Soframycin 1% Skin Cream (Encube Ethicals) | Cream, 30 g tube | Not stated |
+| 199593 | Soframycin 1% Skin Cream (Encube Ethicals) | Cream, 100 g tube | Not stated |
+| 200712 | Sofracen 1% Cream (Universal Lab) | Cream, 15 g tube | Not stated |
+
+All five registrations are valid single-ingredient products, and all are topical or dressing formats.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-drug interaction data was found for framycetin (DDI query: not found). Note that TFDA/India label warnings and contraindications are an outstanding Blocking data gap (DG001); as a general aminoglycoside class caution, nephrotoxicity and ototoxicity risk with systemic use should be assumed pending confirmation.
+- **Route mismatch:** All marketed products in India are topical creams or a bandage. The predicted indications (sclerosing cholangitis, urinary tract and genital infections, pyelonephritis) would need oral or systemic exposure, which is not currently available as a marketed form.
+- **Class concerns:** Systemic aminoglycosides carry nephrotoxicity and ototoxicity risks, which are especially relevant for renal indications.
+- **Coagulation:** Oral antibiotics can reduce vitamin K-producing gut flora, which is relevant to the coagulation-related prediction.
+
+No drug interactions were found in the data compiled for this report. Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold (Research Question stage)**
+**Decision: Hold**
 
 **Rationale:**
-Only one 1976 experimental/case-level report supports antibacterial activity relevant to UTI, with no completed clinical trials, no India market presence, and unresolved route-of-administration feasibility for systemic or bladder-targeted use. This does not yet meet the bar for further investment absent additional validation.
+All predictions are model-only (L5), with no clinical trials or literature. The top prediction, sclerosing cholangitis, has no established role for aminoglycosides. The available India products are topical only, which does not match the predicted indications.
 
 **To proceed, the following is needed:**
-- TFDA/India label warnings and contraindications (Blocking gap, DG001) — required before any S1 safety screening
-- Detailed mechanism of action data from DrugBank (High-priority gap, DG002)
-- Contemporary evidence (post-1976) on aminoglycoside efficacy/safety for UTI, ideally via local (intravesical) rather than systemic delivery
-- Route-of-administration and nephrotoxicity/ototoxicity risk assessment before considering clinical development
-- Re-validation of the other six TxGNN-predicted indications' mechanistic plausibility before any further evidence collection is invested in them
+- Package insert warnings and contraindications for the India products
+- Mechanism of action data (for example, from DrugBank)
+- A systematic literature search for framycetin or oral aminoglycosides in primary sclerosing cholangitis and the gut-liver axis
+- A route-compatibility assessment (an oral or gut-restricted formulation would be required)
+- Preclinical or in vitro evidence before any clinical consideration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

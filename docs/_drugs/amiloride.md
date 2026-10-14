@@ -29,76 +29,81 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-# Amiloride: From Hypertension and Edema to Malignant Renovascular Hypertension
+# Amiloride: From Hypertension to Malignant Renovascular Hypertension
 
 ## One-Sentence Summary
 
-Amiloride is a potassium-sparing diuretic historically used as adjunctive therapy for hypertension, heart failure-related edema, and hyperaldosteronism states, acting by directly blocking epithelial sodium channels (ENaC) in the renal collecting duct. The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension** with a confidence score of 99.82%, though currently only **1 publication** — a general review of mineralocorticoid hypertension — provides indirect mechanistic background, with no dedicated clinical trials available. Evidence strength is at a preclinical/mechanistic level (L4), warranting foundational research before any clinical advancement.
+Amiloride is a potassium-sparing diuretic, originally used to treat hypertension and congestive heart failure.
+The TxGNN model predicts it may be effective for **malignant renovascular hypertension**,
+but there are currently **no registered clinical trials** and only **1 publication** (a general review on mineralocorticoid hypertension that does not test amiloride), so the prediction rests almost entirely on the model.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension and edema (potassium-sparing diuretic) |
-| Predicted New Indication | Malignant Renovascular Hypertension |
+|------|------|
+| Original Indication | Hypertensive disorder, hypertension, congestive heart failure (from the knowledge graph; the Indian licence records contain no indication text) |
+| Predicted New Indication | Malignant renovascular hypertension |
 | TxGNN Prediction Score | 99.82% |
 | Evidence Level | L4 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 4 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Amiloride is a well-established potassium-sparing diuretic that works by directly blocking the epithelial sodium channel (ENaC) in the principal cells of the renal collecting duct. Unlike aldosterone antagonists (e.g., spironolactone, eplerenone) which work at the mineralocorticoid receptor, amiloride acts downstream at the channel level — meaning it can suppress aldosterone-driven sodium reabsorption regardless of aldosterone receptor status. Detailed MOA data from DrugBank was not retrieved for this report, but the drug's ENaC-blocking mechanism is well-established in the pharmacological literature.
+Amiloride blocks the epithelial sodium channel (ENaC) in the kidney, reducing sodium reabsorption while sparing potassium. It is already marketed for hypertension. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description is based on known pharmacology.
 
-Malignant renovascular hypertension is mechanistically driven by severe and sustained overactivation of the renin-angiotensin-aldosterone system (RAAS). Critically elevated angiotensin II stimulates aldosterone secretion, which in turn powerfully upregulates ENaC-mediated sodium and water retention in the renal tubule — the exact pathway amiloride targets. Theoretically, ENaC blockade could attenuate this aldosterone-driven sodium overload, reduce intravascular volume, lower blood pressure, and confer renal protection by mitigating tubular hyperfiltration stress.
+Malignant renovascular hypertension is driven by activation of the renin-angiotensin-aldosterone system, which causes sodium retention and mineralocorticoid-type effects. Amiloride could plausibly counter these downstream effects. The link is indirect, however. The only supporting paper is a 2003 article on investigating mineralocorticoid hypertension, which does not test amiloride in malignant renovascular disease.
 
-However, significant clinical limitations constrain this rationale. Malignant hypertension is a medical emergency requiring fast, often parenteral blood pressure reduction, whereas oral potassium-sparing diuretics have a slow onset and are conventionally adjunctive agents. More critically, the severe renal dysfunction that frequently accompanies malignant renovascular hypertension (eGFR < 30 mL/min) is a standard contraindication to amiloride due to life-threatening hyperkalemia risk — making safety concerns the dominant consideration over theoretical efficacy in this population.
+The very high TxGNN score most likely reflects the drug's existing hypertension indication and its closeness to related hypertensive disease nodes in the knowledge graph, rather than independent evidence for this condition.
+
+Other predictions in the same set:
+
+- **Malignant hypertensive renal disease** (99.82%): no trials or literature (L5). Amiloride's hyperkalaemia risk in renal impairment is a further concern.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (99.81%): L4. There is a coherent preclinical rationale (hypoxia downregulates alveolar ENaC; ASIC1a on pulmonary arterial smooth muscle contributes to hypoxic pulmonary hypertension and is inhibited by amiloride). However, the literature is mostly in vitro or animal work, several papers are off-topic, and there are no human efficacy data. It is best treated as a research question.
+- **Pulmonary hypertension with unclear multifactorial mechanism** (99.81%) and **Braddock syndrome** (99.75%): no evidence (L5), computational prediction only.
+- **Chronic pulmonary heart disease** (99.68%): L4. Supporting studies concern general congestive heart failure, not cor pulmonale specifically, so the evidence is indirect. It is best treated as a research question.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials are registered for amiloride in malignant renovascular hypertension.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [12929904](https://pubmed.ncbi.nlm.nih.gov/12929904/) | 2003 | Review | J Hypertens Suppl | Examination of mineralocorticoid hypertension workup; describes aldosterone excess in primary aldosteronism (Conn's syndrome) as a driver of ENaC-mediated sodium retention and hypokalaemic hypertension — provides mechanistic background relevant to ENaC-targeting strategies in RAAS-driven hypertension |
+|------|-----|------|------|---------|
+| [12929904](https://pubmed.ncbi.nlm.nih.gov/12929904/) | 2003 | Review | Journal of Hypertension. Supplement | Overview of investigating mineralocorticoid (corticosteroid-induced) hypertension, which affects about 3% of hypertensive patients; primary aldosteronism is the most frequent cause. Amiloride is not tested in renovascular disease. |
 
 ---
 
 ## India Market Information
 
-Amiloride is currently not approved or marketed in India. No registered license records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 11714 | Amiur H Forte 5mg/50mg Tablet | Strip of 10 tablets | Not stated |
+| Registration No. 26232 | Biduret -L Tablet | Strip of 10 tablets | Not stated |
+| Registration No. 3897 | Amiur 5mg Tablet | Strip of 10 tablets | Not stated |
+| Registration No. 4158 | Amiur H 2.5mg/25mg Tablet | Strip of 10 tablets | Not stated |
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions:** A total of 136 drug interactions have been identified for amiloride. Key clinically relevant interactions are summarised below:
+- **Disease contraindication signals (from the knowledge graph, not label text)**: kidney disease, anuria, diabetic nephropathy, liver disease, hepatic coma/encephalopathy, pancreatitis, gallbladder disease, diabetes mellitus, diabetic ketoacidosis, potassium deficiency disease, gout, hyperuricaemia, hyperparathyroidism, osteitis fibrosa, acidosis (including acquired lactic acidosis), systemic lupus erythematosus (including paediatric), pyoureter and neonatal jaundice.
+- **Drug Interactions**: 136 interactions were identified. Examples include:
+  - Moderate: hydrocortisone, betamethasone, dexamethasone, budesonide, metformin, bupropion, SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), exenatide, dronabinol, and laxatives such as bisacodyl, castor oil, glycerin, lactitol and lactulose.
+  - Minor: doxycycline, amoxicillin, cimetidine.
+- **Hyperkalaemia**: this is a key safety signal, especially in renal impairment and with interacting drugs. A published case report describes severe hyperkalaemia (potassium 9.3 meq/L) in a geriatric patient with heart failure receiving trimethoprim-sulfamethoxazole.
 
-| Interacting Drug | Severity | Clinical Notes |
-|-----------------|----------|----------------|
-| Metformin | Moderate | Amiloride inhibits renal tubular secretion of metformin (via OCT2 transporter competition), potentially raising metformin plasma concentrations |
-| Hydrocortisone | Moderate | Glucocorticoids counteract amiloride's potassium-sparing and natriuretic effects; risk of electrolyte imbalance |
-| Dexamethasone | Moderate | Same class mechanism as hydrocortisone; electrolyte dysregulation risk |
-| Betamethasone / Budesonide | Moderate | Corticosteroid-class interaction; sodium retention may oppose amiloride's action |
-| Canagliflozin / Dapagliflozin / Empagliflozin / Ertugliflozin | Moderate | SGLT2 inhibitors combined with potassium-sparing diuretics increase risk of hyperkalemia and symptomatic volume depletion |
-| Exenatide | Moderate | GLP-1 receptor agonist; potential for altered renal haemodynamics and additive glucose/electrolyte effects |
-| Bupropion | Moderate | Interaction mechanism not fully characterised; monitor cardiovascular and CNS parameters |
-| Bisacodyl / Lactulose / Lactitol / Castor oil / Glycerin | Moderate | Stimulant and osmotic laxatives may exacerbate electrolyte losses; compounding amiloride's potassium retention creates unpredictable electrolyte balance |
-| Dronabinol | Moderate | Potential interaction with cardiovascular tone or fluid balance |
-| Doxycycline / Amoxicillin / Cimetidine | Minor | Low clinical significance under standard dosing; routine monitoring sufficient |
-
-> Package insert warnings and contraindications data were not available for this report (Data Gap DG001). Please refer to the full prescribing information before clinical use.
+The package insert warnings and contraindications were not available, so please refer to the package insert for full safety information.
 
 ---
 
@@ -107,14 +112,14 @@ Amiloride is currently not approved or marketed in India. No registered license 
 **Decision: Hold**
 
 **Rationale:**
-Although the ENaC-blocking pharmacology of amiloride is mechanistically consistent with the RAAS-driven pathophysiology of malignant renovascular hypertension, direct clinical evidence is absent — supported only by a single tangentially relevant review. The acute and life-threatening nature of malignant hypertension, combined with the common contraindication of amiloride in renal impairment (a hallmark of this condition), makes advancing this indication without substantially more evidence premature.
+The prediction for malignant renovascular hypertension has no clinical trials and only one indirect review, and the high TxGNN score appears to reflect similarity to the approved hypertension indication rather than independent evidence. The renal-impairment and hyperkalaemia risks add further caution for this population.
 
 **To proceed, the following is needed:**
-- Retrieve full DrugBank MOA profile (Data Gap DG002) to formally document the ENaC-blocking mechanism and any secondary targets
-- Obtain CDSCO/TFDA package insert (Data Gap DG001) to characterise the complete contraindication and warning profile, particularly renal function thresholds
-- Commission preclinical studies specifically evaluating amiloride efficacy and safety in malignant renovascular hypertension animal models
-- Define whether amiloride could serve as an adjunctive agent (alongside first-line parenteral antihypertensives) rather than monotherapy, with a clear renal safety cutoff (eGFR threshold)
-- Evaluate India regulatory pathway requirements, given zero current domestic registrations
+- Direct clinical or well-designed preclinical evidence of amiloride in renovascular or malignant hypertension
+- Detailed mechanism-of-action data
+- Package insert warnings and contraindications from the Indian licence holders, to allow a safety screen
+- A potassium and renal function monitoring plan, plus an assessment of the interaction burden
+- If a research direction is pursued, the stronger leads are hypoxic pulmonary hypertension (preclinical ASIC1a/ENaC rationale) and chronic pulmonary heart disease (heart failure data), each as a research question rather than a recommendation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

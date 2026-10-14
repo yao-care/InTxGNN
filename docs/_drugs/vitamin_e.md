@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Vitamin E
-parent: Model Prediction Only (L5)
-nav_order: 886
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 895
+evidence_level: L4
 indication_count: 10
 ---
 
 # Vitamin E
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,87 +29,90 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vitamin E: From Vitamin Supplementation Indication to Inborn Disorder of Bilirubin Metabolism
+# Vitamin E: From Cholestasis-Related Vitamin E Deficiency to Inborn Disorder of Bilirubin Metabolism
 
 ## One-Sentence Summary
 
-Vitamin E is a fat-soluble antioxidant nutrient for which no approved drug license or clearly defined approved indication has been identified in Taiwan. The TxGNN model predicts that it may have potential benefit for **inborn disorder of bilirubin metabolism**, but currently only **3 clinical trials** (none directly testing Vitamin E in this disease) and **2 publications** (both Tier 3 reviews/case reports) provide support, indicating weak evidence strength.
+Vitamin E was originally used to treat cholestasis-related conditions and vitamin E deficiency (including familial isolated vitamin E deficiency).
+The TxGNN model predicts it may be effective for **inborn disorder of bilirubin metabolism**, but this is a model prediction only, with **0 registered clinical trials** and **1 loosely related publication** supporting it.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No data found (Taiwan Not marketed; no approved indication text) |
-| Predicted New Indication | Inborn Disorder of Bilirubin Metabolism |
-| TxGNN Prediction Score | 99.99% (rank 522) |
-| Evidence Level | L4 (mechanism/preclinical level) |
-| Taiwan Market Status | Not marketed |
-| Number of Drug Licenses | 0 |
-| Recommended Decision | **Hold (deferred)** |
+|------|------|
+| Original Indication | Cholestasis, benign recurrent intrahepatic cholestasis, familial intrahepatic cholestasis, familial isolated vitamin E deficiency (from the knowledge graph; the Indian licence records contain no approved indication text) |
+| Predicted New Indication | Inborn disorder of bilirubin metabolism |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 7 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently **no detailed Vitamin E mechanism of action (MOA) data is available** (DG002, High severity gap). Based on existing public information, Vitamin E is a fat-soluble antioxidant vitamin whose efficacy in "Vitamin E deficiency" has been established; mechanistically, as a free radical scavenger, it could theoretically reduce lipid peroxidation and lower oxidative stress, thus being linked by the model to hepatobiliary metabolism-related diseases.
+Currently, detailed mechanism of action data is not available. Based on known information, vitamin E (alpha-tocopherol) is a fat-soluble antioxidant. Its role in cholestatic liver disease is well recognised, because impaired bile flow reduces absorption of fat-soluble vitamins, and vitamin E supplementation is used to correct the resulting deficiency.
 
-However, in inborn disorders of bilirubin metabolism (such as Crigler-Najjar syndrome, progressive familial intrahepatic cholestasis, etc.), the core pathophysiology is **primary genetic defects of bilirubin-synthesizing enzymes or transport proteins**, not oxidative stress-driven disease. Literature and trial evidence show that such patients frequently present with malabsorption of fat-soluble vitamins (including Vitamin E), so clinical Vitamin E supplementation typically aims to "correct secondary deficiency" rather than "treat primary metabolic defects." The 3 listed clinical trials are also not designed to directly test Vitamin E intervention in this disease; the associations are indirect and the mechanistic reasoning awaits validation.
+The predicted indication is a group of inherited disorders of bilirubin handling, which often present with cholestasis or jaundice. This overlap with the original cholestasis indications is probably what drives the model's prediction. The only retrieved paper (PMID 7915305, 1994) describes a bile acid synthesis defect (3β-hydroxy-C27-steroid dehydrogenase deficiency) as a cause of progressive intrahepatic cholestasis. It is not a study of vitamin E. Any benefit would most plausibly be supportive, by correcting vitamin E deficiency, rather than disease-modifying for bilirubin metabolism. The very high TxGNN score is a prediction and not proof of efficacy.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|--------------|-------|--------|------------|--------------|
-| [NCT06465810](https://clinicaltrials.gov/study/NCT06465810) | N/A | Recruiting | 1,850 | International ATTR amyloidosis real-world registry study, encompassing a cohort with bilirubin metabolism disease, but not specifically testing Vitamin E intervention (relevance grade B) |
-| [NCT01556906](https://clinicaltrials.gov/study/NCT01556906) | Phase 2 | Completed | 6 | Dose-escalation trial of MTP inhibitor lomitapide in homozygous familial hypercholesterolemia; investigational drug is not Vitamin E, only indirectly related (relevance grade C) |
-| [NCT03115086](https://clinicaltrials.gov/study/NCT03115086) | N/A | Active, not recruiting | 55 | Post-marketing patient registry for Cholbam (cholic acid), collecting disease natural history data; not a drug intervention trial (relevance grade B) |
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [7915305](https://pubmed.ncbi.nlm.nih.gov/7915305/) | 1994 | Case report/Review | The Journal of Pediatrics | Describes a novel disease cause (3β-hydroxy-C27-steroid dehydrogenase/isomerase deficiency) leading to progressive familial intrahepatic cholestasis; this is a disease mechanistic descriptive publication, not a Vitamin E intervention study |
-| [803225](https://pubmed.ncbi.nlm.nih.gov/803225/) | 1975 | Review | The New England Journal of Medicine | Review of unconjugated hyperbilirubinemia in newborns; no abstract available; no direct association with Vitamin E treatment |
+|------|-----|------|------|---------|
+| [7915305](https://pubmed.ncbi.nlm.nih.gov/7915305/) | 1994 | Case series | The Journal of Pediatrics | Screening of 30 children with progressive intrahepatic cholestasis (Byler disease) identified 3β-hydroxy-C27-steroid dehydrogenase/isomerase deficiency, a bile acid synthesis defect, as a new cause. Vitamin E was not studied. |
+
+Related evidence was also retrieved for the closely related prediction "bilirubin metabolism disease". Examples include a cohort study of fat-soluble vitamin/TPGS supplementation in infants with biliary atresia ([22891232](https://pubmed.ncbi.nlm.nih.gov/22891232/), Pediatrics, 2012) and a small 1979 study of intramuscular vitamin E and neonatal bilirubinemia in preterm infants ([481976](https://pubmed.ncbi.nlm.nih.gov/481976/), Pediatrics). These are indirect and do not show disease-modifying efficacy.
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-No approved drug license data currently identified in Taiwan (market status: Not marketed; registration count: 0; no permit/indication text available for display).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 638 | Antoxid E Softgel Capsule (Dr Reddy's Laboratories Ltd) | Strip of 15 capsules | Not stated in the records |
+| 150973 | NE 400 Soft Gelatin Capsule (Cachet Pharmaceuticals Pvt Ltd) | Strip of 15 soft gelatin capsules | Not stated in the records |
+| 217328 | Tocshot Capsule (Kenmed Pharma Private Limited) | Strip of 10 soft gelatin capsules | Not stated in the records |
+| 246736 | Zevion 400 Capsule (Zeelab Pharmacy Pvt Ltd) | Strip of 10 capsules | Not stated in the records |
+| 73627 | E-Gen 400 Capsule (Hnf Care Pvt Ltd) | Strip of 10 capsules | Not stated in the records |
+
+Seven single-ingredient oral registrations are valid in total, and none has been cancelled. All are oral capsule products.
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions** (source: DDInter; 173 interaction records identified total; excerpted below):
+**Drug Interactions**: The interaction screen identified 173 potential interactions. Most of those listed are minor (for example, corticosteroids such as hydrocortisone, prednisone and dexamethasone, and orlistat). The following are moderate:
+- **Antiplatelet and anticoagulant agents**: acetylsalicylic acid, abciximab, apixaban, dipyridamole, betrixaban, bivalirudin, cangrelor, caplacizumab and antithrombin III (human). These may carry additive bleeding risk.
+- **Iron and phosphate binders**: iron, iron sucrose and sevelamer.
 
-- **Moderate grade** (warrant attention; predominantly related to anticoagulation/antiplatelet agents and mineral absorption): Acetylsalicylic acid, Iron, Iron sucrose, Sevelamer, Abciximab, Antithrombin III human, Apixaban, Dipyridamole, Betrixaban, Bivalirudin, Cangrelor, Caplacizumab — high-dose Vitamin E could theoretically potentiate the bleeding risk of anticoagulant/antiplatelet drugs and may produce absorption-level interactions with iron products/phosphate binders.
-- **Minor grade**: Hydrocortisone, Triamcinolone, Dexamethasone, Betamethasone, Budesonide, Orlistat, Prednisone, Prednisolone.
-
-⚠️ Due to **missing product information warnings and contraindication data** (DG001, Blocking severity), a comprehensive safety initial assessment cannot be completed, which is a blocking gap for proceeding to the next phase.
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold (deferred)**
+**Decision: Hold**
 
 **Rationale:**
-- The top-ranked predicted indication (inborn disorder of bilirubin metabolism) achieves only L4 (mechanism/preclinical) evidence level; the 3 existing trials are not designed to directly test Vitamin E in this disease, and the 2 publications are merely descriptive reviews/case reports, insufficient to support progression to the next stage of safety assessment.
-- Missing product information warnings and contraindication data constitute a Blocking-level gap; per protocol, S1 safety initial assessment cannot be completed.
+The prediction rests on a high model score alone. No clinical trials exist, and the only retrieved paper does not study vitamin E. At best, vitamin E would be a supportive therapy for fat-soluble vitamin deficiency in cholestatic patients, not a treatment for bilirubin metabolism disorders.
 
-**To proceed further, the following must be completed:**
-- TFDA product information warnings and contraindication data (download and parse official product information PDF)
-- Complete Vitamin E mechanism of action (MOA) data (query the DrugBank API)
-- Direct intervention human trial evidence for inborn disorder of bilirubin metabolism
-
-**Note:** In the same Evidence Pack, the second-ranked indication "bilirubin metabolism disease (broad sense bilirubin metabolism disease, including NAFLD/NASH-related hepatic dysfunction)" achieves **L2** evidence level, supported by one completed Phase 4 head-to-head RCT (Vitamin E vs UDCA vs pentoxifylline, n=102) and multiple observational cohorts; evaluation of the feasibility of advancing this indication is recommended as a separate agenda item.
-
+**To proceed, the following is needed:**
+- Package insert warnings and contraindications for the Indian-marketed products (currently missing, which blocks safety screening)
+- Detailed mechanism of action data
+- Direct evidence, such as case series or trials of vitamin E in inherited bilirubin metabolism disorders
+- A clear definition of the intended use (supportive vitamin E replacement versus disease-modifying therapy)
+- A review of the bleeding-risk interactions with anticoagulant and antiplatelet drugs
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

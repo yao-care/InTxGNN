@@ -2,7 +2,7 @@
 layout: default
 title: Isoxsuprine
 parent: Model Prediction Only (L5)
-nav_order: 451
+nav_order: 455
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,92 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Isoxsuprine: From Peripheral Vascular Disease to Benign Prostatic Hyperplasia
+# Isoxsuprine: From Cerebrovascular and Peripheral Vascular Disease to Benign Prostatic Hyperplasia
 
 ## One-Sentence Summary
 
-Isoxsuprine is a β-sympathomimetic vasodilator historically used for peripheral vascular disorders and uterine relaxation (tocolysis), though no formal approved indications are recorded in the current dataset.
-The TxGNN model predicts it may be effective for **Benign Prostatic Hyperplasia (BPH)**, with a near-perfect prediction score of 99.9999%.
-However, **no clinical trials and no supporting literature** currently exist for this indication, placing this prediction at the lowest evidence tier (L5).
-
----
+Isoxsuprine is a vasodilator originally used for cerebrovascular disorder, vascular disease and Raynaud disease.
+The TxGNN model predicts it may be effective for **benign prostatic hyperplasia (BPH)**,
+but **no clinical trials and no directly relevant publications** currently support this prediction, so it rests on the computational prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not recorded in current dataset (historically: peripheral vascular disease, tocolysis) |
-| Predicted New Indication | Benign Prostatic Hyperplasia (BPH) |
-| TxGNN Prediction Score | 99.9999% |
-| Evidence Level | L5 — Model prediction only, no actual studies |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+|------|------|
+| Original Indication | Cerebrovascular disorder, vascular disease, Raynaud disease (from the knowledge graph; no approved indication text is available in the India licence data) |
+| Predicted New Indication | Benign prostatic hyperplasia |
+| TxGNN Prediction Score | 100.00% (0.999997) |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data is not available for Isoxsuprine in this dataset. Based on established pharmacological knowledge, Isoxsuprine is a β2-adrenergic agonist with secondary α-adrenergic blocking properties, producing vasodilation and uterine smooth muscle relaxation. It has historically been used for peripheral vascular insufficiency conditions (such as Raynaud's disease and arteriosclerosis obliterans) and as a tocolytic agent for preterm labor.
+Detailed mechanism of action data is not available in the data compiled for this report. Isoxsuprine is generally known as a beta-adrenergic agonist with direct vascular smooth muscle relaxant activity, consistent with its use in peripheral and cerebral vascular conditions.
 
-The theoretical link to BPH rests on the premise that β2-agonism can relax smooth muscle broadly — including potentially the prostatic stroma and bladder neck. However, BPH is pharmacologically managed primarily through **α1-adrenergic receptor blockade** (e.g., tamsulosin, alfuzosin) and 5-alpha reductase inhibition (e.g., finasteride). These are the validated receptor targets for reducing urinary outflow obstruction. Isoxsuprine's mechanism does not align with either of these established pathways.
+A possible link to BPH would be relaxation of smooth muscle in the prostate and bladder neck. However, BPH is mainly treated with alpha-1 blockade or 5-alpha-reductase inhibition, and beta-agonism is not an established mechanism for it. The very high TxGNN score is a computational prediction only and is not backed by trials or literature, so the mechanistic rationale remains weak.
 
-The TxGNN model's exceptionally high score (0.99999) most likely reflects non-specific connectivity between **"smooth muscle"** and **"vascular"** nodes in the knowledge graph, rather than a disease-specific mechanistic pathway to BPH. This is a known limitation of graph-based prediction models: high topological proximity does not always translate to therapeutic relevance. Without clinical or preclinical evidence to validate this signal, the prediction should be treated with caution.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Isoxsuprine in Benign Prostatic Hyperplasia.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for Isoxsuprine in Benign Prostatic Hyperplasia.
-
----
+Other top-ranked predictions (arterial, venous and neurogenic thoracic outlet syndrome, blue toe syndrome, renal atheroembolism, hemangioendothelioma, gastric angiodysplasia, respiratory failure, spontaneous coronary artery dissection) are also L5 predictions with no supporting clinical evidence. Several carry mechanistic or safety concerns. For example, a vasodilator could worsen angiodysplasia, and a beta-agonist is the opposite of the beta-blockers favored in coronary artery dissection.
 
 ## India Market Information
 
-Isoxsuprine is currently **not marketed in India**. No product registrations or license records are available in the dataset.
+Isoxsuprine is marketed in India with 20 valid single-ingredient registrations. The compiled data contain no approved indication text for these products. Main examples:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 28536 | BIOPRIN 10MG TABLET | Strip of 10 tablets | Not stated in available data |
+| 215478 | Tidilan 20 Tablet | Strip of 30 tablets | Not stated in available data |
+| 89898 | Feprox 40mg Tablet SR | Strip of 10 SR tablets | Not stated in available data |
+| 30521 | BIOPRIM 40MG TABLET SR | Strip of 10 SR tablets | Not stated in available data |
+| 240203 | Vasodilan 40mg Tablet ER | Strip of 10 ER tablets | Not stated in available data |
+
+All products are oral tablets (standard, sustained-release or extended-release).
 
 ## Safety Considerations
 
-**Drug Interactions (20 moderate-level interactions identified):**
+- **Contraindications (knowledge graph, not label text)**: hypotensive disorder.
+- **Drug Interactions**: 20 interactions were identified, all graded Moderate. Main ones include:
+  - SGLT2 inhibitors: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin
+  - Prostacyclin-class vasodilators: epoprostenol, iloprost, selexipag, treprostinil
+  - Phenothiazine-type antihistamines and antiemetics: promethazine, methdilazine, thiethylperazine, alimemazine
+  - Other: amifostine, nitrous acid, pentoxifylline, brimonidine (ophthalmic and topical), topical minoxidil, ozanimod, procarbazine
+  
+  Many of these overlap in blood-pressure-lowering effects.
 
-All identified interactions are classified as **Moderate** severity. Key interaction groups include:
-
-- **SGLT2 Inhibitors** — Canagliflozin, Dapagliflozin, Empagliflozin, Ertugliflozin: Isoxsuprine's vasodilatory and sympathomimetic effects may compound cardiovascular and haemodynamic changes seen with SGLT2 inhibitors.
-- **Prostacyclin Analogues / Pulmonary Vasodilators** — Epoprostenol, Iloprost, Selexipag, Treprostinil: Additive vasodilatory effects; risk of hypotension.
-- **Phenothiazine Antihistamines** — Promethazine, Methdilazine, Thiethylperazine, Alimemazine: Possible additive CNS and cardiovascular effects.
-- **Other Vasodilators** — Pentoxifylline, Minoxidil (topical): Additive hypotensive potential.
-- **Other agents** — Amifostine, Brimonidine (ophthalmic and topical), Ozanimod, Procarbazine, Nitrous acid: Moderate interactions requiring monitoring.
-
-> **Additional safety note (from evidence for "respiratory failure" indication):** Published literature documents that β-mimetic agents in the Isoxsuprine class can induce **pulmonary oedema**, particularly at tocolytic doses (PMID [6726706](https://pubmed.ncbi.nlm.nih.gov/6726706/)). This is a known class-effect adverse event and is relevant to systemic or high-dose administration.
-
-Please refer to the package insert for full warnings and contraindications, as formal prescribing information was not available in the current dataset.
-
----
+Please refer to the package insert for warnings and other safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction score for BPH is extremely high numerically, but is unsupported by any clinical trials, observational studies, or published literature. The mechanistic rationale is weak — Isoxsuprine's β2-agonism does not align with the established α1-adrenergic and 5-alpha reductase pharmacology of BPH treatment. Furthermore, the drug is not currently marketed in India, and full safety documentation (warnings, contraindications) is unavailable. Proceeding without foundational evidence would not meet minimum repurposing evaluation standards.
+The BPH prediction is supported only by the model score (L5). There are no clinical trials or relevant publications, the mechanism is not established, and the vasodilator and hypotensive effects add a safety consideration.
 
 **To proceed, the following is needed:**
-
-- **MOA documentation**: Retrieve complete mechanism of action from DrugBank API (DB08941) to confirm receptor targets and pharmacodynamic profile.
-- **Safety package**: Download and parse the full prescribing information / package insert (from relevant regulatory source) to identify contraindications and key warnings before any clinical consideration.
-- **Preclinical evidence search**: Conduct a broader literature search for any in vitro or in vivo studies of Isoxsuprine or β2-agonists in prostate smooth muscle, urodynamics, or BPH models.
-- **Comparator context**: Evaluate whether any β-agonist class drug has demonstrated benefit in BPH to determine if this is a class effect worth investigating.
-- **Regulatory pathway assessment**: Determine whether Isoxsuprine can be registered in India and what pathway (new indication NDA, off-label guidance) would apply if evidence were to emerge.
-
-> ⚠️ *This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require formal clinical validation before any therapeutic application.*
+- Mechanism of action data (for example from DrugBank) and a clearer rationale for prostate or bladder-neck smooth muscle effects
+- Preclinical or early clinical evidence of isoxsuprine in BPH or lower urinary tract symptoms
+- Package insert warnings and contraindications from the India licence documents
+- A safety assessment of hypotension and the interactions above, particularly in older men likely to be on antihypertensives or other BPH drugs
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Teneligliptin
 parent: Model Prediction Only (L5)
-nav_order: 809
+nav_order: 816
 evidence_level: L5
 indication_count: 8
 ---
@@ -33,29 +33,29 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-> Teneligliptin is a DPP-4 inhibitor approved in Japan and South Korea for type 2 diabetes mellitus (it holds no license in Taiwan).
-> The TxGNN model predicts potential effectiveness for **Opsismodysplasia**, a rare genetic skeletal dysplasia,
-> but this is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale explicitly flags no known biological link between the two conditions.
+Teneligliptin is a DPP-4 inhibitor originally used to treat type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare skeletal dysplasia,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction is based on computation only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 Diabetes Mellitus (approved in Japan/South Korea; not TFDA-licensed — sourced from pharmacology `clinical_use` field, not from a formal Taiwan license record) |
+| Original Indication | Type 2 diabetes mellitus |
 | Predicted New Indication | Opsismodysplasia |
-| TxGNN Prediction Score | 99.45% (raw score), but ranked **9038th** overall — many disease pairs score near this ceiling, so the raw score alone is not strongly discriminating |
+| TxGNN Prediction Score | 99.45% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not officially available (the `original_moa` field is marked as a data gap). However, pharmacological target-binding data confirms teneligliptin's primary target is DPP4 (dipeptidyl peptidase-4), with additional off-target binding to DPP8 and DPP9 — consistent with its known classification as a DPP-4 inhibitor ("gliptin" class) that improves glycemic control by enhancing incretin (GLP-1/GIP) signaling.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, teneligliptin targets dipeptidyl peptidase 4 (DPP4) and also acts on the related enzymes DPP8 and DPP9. Its efficacy in type 2 diabetes is established, and it is approved for that use in Japan and South Korea.
 
-Opsismodysplasia is a rare autosomal-recessive skeletal dysplasia associated with defective endochondral ossification, with no established biological pathway connecting it to incretin-based glucose metabolism. The model's own repurposing rationale states there is **no known biological association** between DPP-4 inhibition and this disease, and attributes the high score to a likely knowledge-graph artifact (e.g., shared upstream metabolic nodes) rather than a genuine pharmacological signal.
+Opsismodysplasia is a rare skeletal dysplasia caused by INPPL1 (SHIP2) mutations, which affect PI3K/AKT signaling and endochondral ossification. No direct mechanistic link between DPP-4 inhibition and this pathway has been established. The high TxGNN score (0.994) is a computational association only, and the missing mechanism-of-action data further limits mechanistic reasoning.
 
-Given the missing original indication record in the Taiwan regulatory data, the missing MOA documentation, and the model's own caveat about mechanistic implausibility, this prediction should be treated as a low-confidence signal requiring independent validation rather than a candidate ready for evidence review. For context, all 7 other top-ranked predictions for this drug (thiamine-responsive dysfunction syndrome, stiff person syndrome variants, and several lipodystrophy subtypes) show the same pattern — L5 evidence, no trials or literature, and self-reported weak-to-absent mechanistic links.
+Other predictions for this drug follow a similar pattern. They include thiamine-responsive dysfunction syndrome, classic stiff person syndrome, focal stiff limb syndrome and several localized lipodystrophies (drug-induced, centrifugal, pressure-induced and idiopathic). Most appear to be driven by links to diabetes, such as comorbidity or insulin injection context, rather than by evidence of therapeutic benefit. None has any supporting clinical trial or literature.
 
 ## Clinical Trial Evidence
 
@@ -65,34 +65,36 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
-## Taiwan Market Information
+## India Market Information
 
-Teneligliptin currently holds **no drug license registration in Taiwan** (market status: Not marketed / Not Marketed; total licenses: 0). No product, dosage form, or approved indication data is available from the Taiwan regulatory record.
+Teneligliptin is marketed in India as oral single-ingredient tablets. The data compiled for this report show 20 valid registrations and no cancelled ones. The approved indication text is not available for these entries. The five main registrations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 220836 | Tenepace Tablet | Strip of 10 tablets | Meyer Organics Pvt Ltd |
+| 221924 | Teniglip 20mg Tablet | Strip of 10 tablets | Biodiscovery Lifesciences Pvt Ltd |
+| 204429 | Supraglip Tablet | Strip of 10 tablets | Oaknet Healthcare Pvt Ltd |
+| 246699 | Zita-Pio Tablet | Strip of 10 tablets | Glenmark Pharmaceuticals Ltd |
+| 215017 | Tendia Tablet | Strip of 15 tablets | Eris Lifesciences Ltd |
 
 ## Safety Considerations
 
-- **Drug Interactions (Pharmacological Target Profile)**: The available data (3 entries) reflects target-binding pharmacology rather than a classic clinical drug-drug interaction list:
+- **Drug Interactions**: No drug-drug interactions are recorded. The three entries retrieved are pharmacological targets of teneligliptin (DPP4, DPP8 and DPP9), not interacting drugs.
 
-| Target | Gene | Species | Note |
-|--------|------|---------|------|
-| Dipeptidyl peptidase 4 (DPP4) | DPP4 | Human | Primary pharmacological target — enzyme inhibited for incretin-based glucose control |
-| Dipeptidyl peptidase 8 (DPP8) | DPP8 | Human | Off-target binding; DPP8/9 inhibition has been associated with toxicity signals for the gliptin class in preclinical literature |
-| Dipeptidyl peptidase 9 (DPP9) | DPP9 | Human | Off-target binding; same class-related caution as DPP8 |
-
-No TFDA package insert warnings or contraindications are currently available (this is a Blocking data gap, DG001). Official prescribing information from the drug's country of approval (Japan/South Korea) should be consulted before any clinical use decision.
+Please refer to the package insert for other safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L5 (model prediction only, with zero clinical trials or literature), and the model's own mechanistic rationale identifies no plausible biological link between DPP-4 inhibition and this rare genetic skeletal disorder — the high raw score most likely reflects a knowledge-graph artifact rather than a genuine pharmacological signal.
+The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanistic link between DPP-4 inhibition and opsismodysplasia (Evidence Level L5). The same is true for all other predicted indications.
 
 **To proceed, the following is needed:**
-- TFDA package insert data (warnings, contraindications) — currently a Blocking data gap (DG001)
-- Verified original mechanism of action documentation (High-priority gap, DG002)
-- Confirmed original indication and regulatory status, since the Taiwan license record is currently empty
-- Independent mechanistic or preclinical evidence linking the DPP-4/incretin pathway to skeletal dysplasia pathophysiology, before this candidate can move beyond S0
+- Mechanism of action data (MOA) from DrugBank, to support mechanistic analysis
+- Package insert warnings and contraindications from the India regulatory source, which are needed for safety screening
+- Preclinical or mechanistic studies testing whether DPP-4 inhibition affects INPPL1/SHIP2-related PI3K/AKT signaling or endochondral ossification
+- Assessment of route compatibility and similarity to the original indication, both still pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

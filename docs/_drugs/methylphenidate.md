@@ -2,7 +2,7 @@
 layout: default
 title: Methylphenidate
 parent: Model Prediction Only (L5)
-nav_order: 535
+nav_order: 540
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,74 +29,101 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Methylphenidate: From ADHD to Faciodigitogenital Syndrome
+# Methylphenidate: From Attention Deficit Hyperactivity Disorder to Faciodigitogenital Syndrome
 
 ## One-Sentence Summary
 
-Methylphenidate is a central nervous system stimulant with long-established use in treating Attention Deficit Hyperactivity Disorder (ADHD) and narcolepsy, acting primarily through dopamine and norepinephrine reuptake inhibition.
-The TxGNN model predicts it may be effective for **Faciodigitogenital Syndrome** (Aarskog-Scott syndrome),
-however, **no clinical trials and no publications** currently support this specific direction — placing this at evidence level **L5 (model prediction only)**.
+Methylphenidate is a central nervous system stimulant originally used to treat attention deficit hyperactivity disorder (ADHD) and narcolepsy.
+The TxGNN model's top-ranked prediction is **faciodigitogenital syndrome**, but there are **0 clinical trials** and **0 publications** supporting it, so this prediction rests on the model score alone.
+Of the other predictions, "specific developmental disorder" has the most literature (**17 publications**, mostly indirect and ADHD-focused), and "dysthymic disorder" has **3 publications**.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | ADHD (Attention Deficit Hyperactivity Disorder) |
-| Predicted New Indication | Faciodigitogenital Syndrome |
+|------|------|
+| Original Indication | Attention deficit hyperactivity disorder (ADHD), narcolepsy (the India license entries carry no approved-indication text) |
+| Predicted New Indication | Faciodigitogenital syndrome |
 | TxGNN Prediction Score | 99.998% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacological information, Methylphenidate functions as a dopamine transporter (DAT) and norepinephrine transporter (NET) blocker, elevating synaptic catecholamine concentrations in the prefrontal cortex and striatum. This mechanism underpins its clinical efficacy in ADHD and attention-related disorders.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, methylphenidate blocks the dopamine and norepinephrine transporters, raising synaptic catecholamine levels in frontostriatal circuits involved in attention and executive function. Its efficacy in ADHD is well established.
 
-Faciodigitogenital syndrome (Aarskog-Scott syndrome) is a rare X-linked condition caused by mutations in the *FGD1* gene, resulting in defective Rho GTPase / cytoskeletal signalling. The disease core involves impaired cell scaffolding and developmental morphogenesis — a pathway mechanistically unrelated to catecholamine reuptake inhibition. No known pharmacological bridge connects DAT/NET blockade to FGD1 protein function.
+Faciodigitogenital syndrome (Aarskog-Scott syndrome) is a rare X-linked disorder. It can include ADHD-like behavioural features, so any benefit would likely be limited to symptom management rather than disease modification. No mechanistic link is supported by the available data. Despite the very high model score, there is no clinical or preclinical corroboration, and the score may be a knowledge-graph artefact.
 
-The high TxGNN score most likely reflects knowledge-graph topology: co-occurring phenotypic features such as cognitive developmental delay and behavioural difficulties create statistical proximity between Methylphenidate's indication neighbourhood and this rare syndrome. This is considered a high-risk false-positive signal rather than a genuine mechanistic prediction, and independent preclinical validation would be required before any further clinical consideration.
+For context, the other predictions in the data are:
+
+- **Specific developmental disorder** (score 99.99%, evidence level L4): These disorders often co-occur with ADHD. The literature mostly reflects the existing ADHD indication and is only indirect evidence for an independent benefit. Some items are off-topic.
+- **Dysthymic disorder** (score 99.11%, evidence level L4): Catecholamine dysfunction in chronic depressive states gives a plausible rationale. However, no study tests methylphenidate directly in dysthymia. The closest is a cohort study of methylphenidate in ADHD with subsyndromal depression.
+- **Chondromyxoid fibroma** (score 99.99%, evidence level L5): This is a benign cartilage-derived bone tumour, and no plausible mechanistic link was identified.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for faciodigitogenital syndrome, nor for the other predicted indications.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+For the top-ranked prediction (faciodigitogenital syndrome), currently no related literature is available.
+
+Literature for the next-best-supported indication, specific developmental disorder, is indirect (ADHD-focused). The most relevant items are listed below:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [40527386](https://pubmed.ncbi.nlm.nih.gov/40527386/) | 2025 | Cohort | Prog Neuropsychopharmacol Biol Psychiatry | Longitudinal MRI study (89 ADHD, 91 controls) of age-dependent effects of cumulative methylphenidate exposure on brain structure and symptoms |
+| [41128391](https://pubmed.ncbi.nlm.nih.gov/41128391/) | 2026 | Cohort | Psychiatry Clin Neurosci | Dual-tracer PET study of extended-release methylphenidate effects on dopamine and norepinephrine transporters in adults with ADHD |
+| [41655471](https://pubmed.ncbi.nlm.nih.gov/41655471/) | 2026 | Cohort | Psychiatry Res | Multi-cohort assessment of polygenic prediction of ADHD treatment response |
+| [33012168](https://pubmed.ncbi.nlm.nih.gov/33012168/) | 2021 | Cohort | Clin EEG Neurosci | Quantitative EEG in childhood ADHD and learning disabilities |
+| [19627998](https://pubmed.ncbi.nlm.nih.gov/19627998/) | 2009 | Review | Neuropharmacology | Neurobiology of ADHD, including frontal lobe, caudate and cerebellar differences |
+| [22923783](https://pubmed.ncbi.nlm.nih.gov/22923783/) | 2015 | Review | J Atten Disord | Methylphenidate efficacy, safety and dosing in adult and juvenile brains |
+| [22449217](https://pubmed.ncbi.nlm.nih.gov/22449217/) | 2012 | Review | Expert Rev Neurother | Psychostimulants for ADHD-like symptoms in autism spectrum disorders |
+
+Literature for dysthymic disorder (indirect):
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [24045603](https://pubmed.ncbi.nlm.nih.gov/24045603/) | 2013 | Cohort | Clin Neuropharmacol | Effect of methylphenidate on ADHD and mood symptoms in youths with comorbid subsyndromal depression |
+| [14609500](https://pubmed.ncbi.nlm.nih.gov/14609500/) | 2003 | Cohort | Curr Psychiatry Rep | Antidepressants, amphetamine and methylphenidate may improve the negative interpersonal bias seen in depression and dysphoria |
+| [1351794](https://pubmed.ncbi.nlm.nih.gov/1351794/) | 1992 | Review | Clin Ther | Overview of ADHD in adults |
 
 ---
 
 ## India Market Information
 
-Methylphenidate has no products registered with CDSCO in India based on currently available regulatory data (0 licences on file).
+Methylphenidate has 20 valid single-ingredient registrations in India (no combination products, none cancelled). The data compiled for this report contain no approved-indication text for these licenses. The main ones are:
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 36204 | Concerta 36mg Tablet | Strip of 30 tablets | Johnson & Johnson Ltd |
+| 34666 | Concerta 18mg Tablet | Strip of 30 tablets | Johnson & Johnson Ltd |
+| 37145 | Concerta 54mg Tablet | Strip of 30 tablets | Johnson & Johnson Ltd |
+| 107767 | Inspiral 10mg Tablet SR | Strip of 10 tablets SR | Ipca Laboratories Ltd |
+| 881 | Addwize OD 18mg Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
+
+All forms are oral tablets (immediate-release, sustained-release and extended-release).
 
 ---
 
 ## Safety Considerations
 
-**Drug Interactions**: Methylphenidate has **137 documented interactions** in the DDInter database. Highest-priority interactions are summarised below:
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: hypertension, epilepsy, bipolar disorder, psychotic and schizophrenia-spectrum disorders, substance abuse/dependence, coronary artery disease, myocardial infarction, stroke and cerebrovascular disorders, sudden cardiac arrest, heart conduction disease, anorexia nervosa, thrombocytopenia, leukopenia, anaemia, glaucoma, and hyperthyroidism/Graves disease/thyrotoxicosis.
+- **Drug Interactions**: 137 interactions are recorded in total. The main ones with a stated severity are:
+  - **Major**: Bupropion
+  - **Moderate**: Isometheptene, Ephedrine, Epinephrine, Polyethylene glycol (3350 with electrolytes), Picosulfuric acid, Sodium sulfate
+- **Other considerations**: The literature for the dysthymic disorder prediction notes abuse potential, cardiovascular effects, and interactions with antidepressants such as MAOIs.
 
-| Severity | Interacting Drug | Clinical Note |
-|----------|-----------------|---------------|
-| **Major** | Bupropion | Increased seizure risk; potential cardiovascular effects |
-| Moderate | Isometheptene | Additive sympathomimetic vasoconstriction |
-| Moderate | Ephedrine | Additive sympathomimetic effects, blood pressure elevation |
-| Moderate | Epinephrine | Additive cardiovascular stimulation |
-| Moderate | Polyethylene glycol (3350 with electrolytes) | Potential interaction |
-| Moderate | Picosulfuric acid | Potential interaction |
-| Moderate | Sodium sulfate | Potential interaction |
-| Unknown | Metformin, Morphine, Omeprazole, Pantoprazole, Simvastatin, Prednisone, Vancomycin, and others | Clinical significance not fully characterised |
-
-Please refer to the package insert for complete warnings and contraindications, which were not available in this evidence pack.
+Please refer to the package insert for label warnings and contraindications, as these were not available for this report.
 
 ---
 
@@ -105,14 +132,14 @@ Please refer to the package insert for complete warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-Despite a near-maximum TxGNN prediction score, there is no clinical trial evidence, no supporting literature, and no established mechanistic link between Methylphenidate's catecholamine reuptake inhibition and the FGD1/Rho GTPase pathway defect that drives faciodigitogenital syndrome. The high score is best explained by phenotypic co-occurrence patterns in the knowledge graph, not pharmacological plausibility.
+The top-ranked prediction (faciodigitogenital syndrome) has a very high model score but no clinical trials, no literature and no plausible mechanistic link, so it is evidence level L5. The better-supported indications (specific developmental disorder and dysthymic disorder, both L4) rely on indirect, ADHD-centred evidence and are best treated as research questions rather than candidates for development.
 
-**To proceed, the following would be needed:**
-- Preclinical studies (cell model or animal model) demonstrating a functional interaction between catecholamine signalling and FGD1/Rho GTPase pathway activity
-- Systematic review of cognitive and behavioural phenotypes in faciodigitogenital syndrome to assess whether dopaminergic dysregulation is a documented feature
-- India CDSCO regulatory filing and package insert data (warnings, contraindications) to complete the safety profile
-- DrugBank MOA data retrieval (DG002) to enable formal mechanistic-link analysis
-- Clinical case series or registry data documenting stimulant medication use in Aarskog-Scott syndrome patients, if any exist
+**To proceed, the following is needed:**
+- Mechanism of action data for methylphenidate
+- India package insert warnings and contraindications (a blocking gap for safety screening)
+- Direct clinical or preclinical studies in the predicted indications
+- A cardiovascular, psychiatric and abuse-potential risk assessment for any new target population
+- A review of drug-interaction management, especially with bupropion and other sympathomimetics
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

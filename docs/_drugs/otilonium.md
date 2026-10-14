@@ -2,7 +2,7 @@
 layout: default
 title: Otilonium
 parent: Model Prediction Only (L5)
-nav_order: 617
+nav_order: 623
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Otilonium: From Local Intestinal Antispasmodic Action to Hypertrichosis Prediction
+# Otilonium: From Gastrointestinal Spasm (Antispasmodic Use) to Hypertrichosis
 
-## Summary
+## One-Sentence Summary
 
-Otilonium (DrugBank DB13500) has an empty original indication list in the evidence package and a missing mechanism of action (MOA), which can only be inferred from the candidate mechanism hint text as a **local intestinal antimuscarinergic/calcium channel antagonist** (in international literature, primarily used for irritable bowel syndrome-related indications, with extremely low systemic absorption). The TxGNN model's top-ranked predicted indication is **Hypertrichosis**, with a prediction score of 98.94%, but there are **zero clinical trials and zero literature** supporting this, and this score clusters with another 8 candidates completely unrelated in mechanism (Dandy-Walker syndrome, polyps at various sites, etc.) within the 0.985–0.989 range, strongly suggesting this is model noise rather than a true signal.
-
----
+Otilonium is a gut-selective antispasmodic marketed in India in several tablet products.
+The TxGNN model predicts it may be effective for **hypertrichosis**, but there are **no clinical trials and no publications** supporting this prediction.
+It is a model-only prediction, and the pharmacology does not offer a plausible explanation for it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indications | Not recorded in Taiwan regulatory data (`licenses` is empty, `total_licenses` = 0); according to candidate mechanism hint text, internationally classified as irritable bowel syndrome-related local intestinal antispasmodic, not from the approval source of this evidence package |
+|------|------|
+| Original Indication | Not stated in the licence data compiled for this report (the drug is known as an antispasmodic) |
 | Predicted New Indication | Hypertrichosis |
 | TxGNN Prediction Score | 98.94% |
-| Evidence Level | L5 (model prediction only, no clinical trials, no literature) |
-| Taiwan Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 5 |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why This Prediction Lacks Convincingness
+Otilonium is a quaternary ammonium antispasmodic that acts locally in the gut. It blocks L-type and T-type calcium channels, has antimuscarinic activity (M1/M2/M4/M5), and antagonises tachykinin NK2 receptors. Because it is a quaternary ammonium compound, very little is absorbed into the bloodstream. Detailed mechanism data were not formally available in the data compiled for this report, so this description reflects the pharmacological assessment attached to the prediction.
 
-Detailed mechanism of action (MOA) data for Otilonium is currently unavailable (DG002, High severity). Based on the mechanism hint provided in the evidence package, Otilonium is a local intestinal antimuscarinergic/calcium channel antagonist with extremely low systemic absorption, with primary pharmacological targets on intestinal smooth muscle, and there is no known biological intersection with hair growth regulatory pathways (hair follicle cycling, androgen receptor signaling, etc.).
+On that basis, **the prediction is not well supported.** Nothing in this pharmacology connects to hair follicle biology or hair growth regulation. The high score (0.989) most likely reflects the structure of the knowledge graph, such as proximity to related disease terms, rather than real biology.
 
-More critically, this candidate (Hypertrichosis) and 8 other candidates ranked 2–10 in the same batch (Dandy-Walker syndrome, Ambras-type congenital universal hypertrichosis, odontogenic developmental malformation syndrome, hair shaft structural abnormalities, polyps of the vocal cord/middle ear/uterus/external auditory canal/frontal sinus, etc.) have prediction scores almost entirely clustered within 0.985–0.989, and **all except rank 4 have zero trials and zero literature**. This pattern—spanning multiple anatomical regions with unrelated etiologies yet highly concentrated scores—is a typical feature of model noise due to sparse adjacency in knowledge graphs or unstable embeddings, not drug-specific signals.
+The other top-ranked predictions show the same pattern. All have a score above 98.5%, all are Evidence Level L5, and none has trials or literature:
 
-Although rank 4 (odontogenic/periodontal-related malformation syndrome) retrieved 20 literature records, upon detailed review of the titles and abstracts of each paper, all content addresses general pathophysiology of periodontal disease, diabetes comorbidity, non-surgical treatment, etc., **with none mentioning Otilonium or its pharmacological components**; this is keyword co-occurrence rather than mechanism evidence and cannot serve as corroboration.
+- Dandy-Walker malformation syndrome
+- Ambras-type hypertrichosis universalis congenita
+- Malformation syndromes with a dental or periodontal component
+- Isolated genetic hair shaft abnormality
+- Polyps of the vocal cord, middle ear, uterus, external auditory canal and frontal sinus
 
----
+Most of these are congenital or developmental disorders, or inflammatory or hormone-driven lesions. A gut-restricted, poorly absorbed antispasmodic has no known way to act on them.
 
 ## Clinical Trial Evidence
 
-Currently, no relevant clinical trial registrations are available.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently, no relevant literature data are available.
+Currently no related literature available.
 
----
+## India Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 162545 | Obgram 40 Tablet | Strip of 10 tablets | Not stated |
+| 34675 | Colirid Tablet | Strip of 10 tablets | Not stated |
+| 164936 | OB 40mg Tablet | Strip of 10 tablets | Not stated |
+| 133610 | Menoctyl Tablet | Strip of 10 tablets | Not stated |
+| 133734 | Menoctyl Tablet | Strip of 15 tablets | Not stated |
 
-Otilonium is currently **Not marketed** in Taiwan, with no valid product approval certificates (`total_licenses` = 0); no registration data can be listed.
-
----
+All five registrations are valid single-ingredient oral tablets. None has been cancelled.
 
 ## Safety Considerations
 
-Please refer to the safety information contained in the product label.
+Please refer to the package insert for safety information. No warning, contraindication or drug-interaction data were available in the data compiled for this report.
 
-(DDI query returned no results; warnings and contraindications are both data gaps DG001, classified as Blocking level, and S1 safety preliminary assessment cannot be conducted at this time.)
-
----
-
-## Conclusions and Further Recommendations
+## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate has an evidence level of L5, with zero clinical trials and zero literature, and mechanistically lacks a reasonable connection to known pharmacological actions (local intestinal smooth muscle regulation); the cross-anatomical score clustering pattern observed in this batch further supports this as model noise rather than a biologically meaningful signal, and progression to the next stage is not recommended.
+The prediction rests only on a model score. There are no clinical trials or publications, and there is no plausible mechanistic link between a gut-restricted antispasmodic and hypertrichosis or the other predicted conditions. The same holds for all ten top predictions.
 
-**If progression is desired, the following must be supplemented:**
-- Complete warnings and contraindications data from TFDA/original product label (DG001, Blocking, obstructing S1 safety preliminary assessment)
-- Detailed MOA data from DrugBank or original product information (DG002, High)
-- If reassessment is warranted in the future, it is recommended to prioritize reviewing candidate indications more mechanistically related to Otilonium's known intestinal pharmacological action, rather than this batch of hypertrichosis and polyp-related noise
-
+**To proceed, the following is needed:**
+- Package insert warnings and contraindications from the India regulator's website, which are required before any safety screening
+- Approved indication text for the five registered products
+- Formal mechanism-of-action data from DrugBank
+- A biological rationale for hair growth effects, with preclinical evidence, before any further investment
+- An assessment of whether a poorly absorbed oral drug could reach the target tissue at all (route compatibility is still pending)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

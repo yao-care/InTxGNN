@@ -2,7 +2,7 @@
 layout: default
 title: Tadalafil
 parent: Model Prediction Only (L5)
-nav_order: 796
+nav_order: 803
 evidence_level: L5
 indication_count: 8
 ---
@@ -29,79 +29,88 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Tadalafil: From Pulmonary Arterial Hypertension to Kyphoscoliotic Heart Disease
+# Tadalafil: From Erectile Dysfunction and Pulmonary Hypertension to Ambras Type Hypertrichosis Universalis Congenita
 
 ## One-Sentence Summary
 
-> Tadalafil is a phosphodiesterase type 5 (PDE5) inhibitor best known for erectile dysfunction treatment and as an approved therapy for pulmonary arterial hypertension (PAH).
-> Of eight new indications flagged by TxGNN, the only one with a plausible biological mechanism is **Kyphoscoliotic Heart Disease** (secondary pulmonary hypertension from spinal deformity),
-> but this candidate currently has **zero supporting clinical trials or literature** — the model score is not backed by any real-world evidence.
-
----
+Tadalafil is a PDE5 inhibitor originally used for erectile dysfunction, benign prostatic hyperplasia, and pulmonary hypertension.
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**,
+but **no clinical trials and no publications** currently support this prediction. It rests on a graph-based computational score alone, and the plausible explanation is a statistical artifact rather than a therapeutic link.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this evidence pack's regulatory data (no licenses on file); publicly known approved uses include erectile dysfunction and pulmonary arterial hypertension |
-| Predicted New Indication | Kyphoscoliotic Heart Disease (secondary pulmonary hypertension / cor pulmonale) |
-| TxGNN Prediction Score | 99.43% |
-| Evidence Level | L5 (model prediction only — no disease-specific trials or literature) |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
+| Original Indication | Erectile dysfunction, benign prostatic hyperplasia, pulmonary hypertension, premature ejaculation, psychologic dyspareunia (approved-indication text is not available in the Indian licence records) |
+| Predicted New Indication | Ambras type hypertrichosis universalis congenita |
+| TxGNN Prediction Score | 99.98% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not populated in this evidence pack (flagged as a High-severity data gap, DG002). Based on well-established pharmacology, however, Tadalafil is a PDE5 inhibitor: it blocks breakdown of cGMP, promoting vascular and pulmonary smooth-muscle relaxation. This exact mechanism is why Tadalafil is already an approved treatment for idiopathic pulmonary arterial hypertension.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, tadalafil is a PDE5 inhibitor. It raises cGMP and causes vasodilation, which underlies its proven effect in erectile dysfunction and pulmonary hypertension.
 
-Kyphoscoliotic heart disease is essentially cor pulmonale secondary to restrictive ventilatory impairment caused by severe spinal deformity — the end pathway is chronically elevated pulmonary vascular resistance and pulmonary hypertension. Mechanistically, this converges on the same pulmonary vascular target that Tadalafil already treats in idiopathic PAH, which is why this is the one candidate in this batch with a credible biological rationale. That said, kyphoscoliosis-associated pulmonary hypertension has a different underlying driver (mechanical/hypoxic) than idiopathic PAH, so extrapolation is not guaranteed to translate into clinical benefit, and **no trial or case report specific to this population currently exists**.
+On the evidence available, the prediction is **not mechanistically convincing**. Ambras syndrome is a congenital hypertrichosis linked to a chromosomal rearrangement affecting gene regulation near *TRPS1*. No plausible pathway connects PDE5 inhibition to this condition. The high score most likely reflects shared network neighbours among hypertrichosis-related nodes, for example vasodilators such as minoxidil that *cause* hypertrichosis. If so, the association points to an adverse-effect pattern, not a treatment. Even if a link existed, a drug that induces hair growth would not be expected to treat excess hair growth.
 
-**⚠️ Note on the other model-ranked candidates in this batch:** Five of the eight predictions (Ambras hypertrichosis, generic hypertrichosis, Dandy-Walker syndrome, isolated hair shaft abnormality, familial trichomegaly) have no known biological link to PDE5 inhibition and are most likely knowledge-graph embedding artifacts — they cluster near unrelated "hair/craniofacial" disease nodes with no supporting literature at all. The periodontal-disease candidate (rank 3) returned 20 literature hits, but every one is generic periodontology literature that never mentions Tadalafil by name — it reflects a broad disease-node search, not drug-specific evidence. The migraine-with-brainstem-aura candidate (rank 8) is supported by exactly one case report, and that report describes Tadalafil **inducing** a migraine aura as an adverse effect — a risk signal, not a therapeutic one. None of these six candidates should be advanced.
+The same pattern appears in the other top-ranked predictions: hypertrichosis, isolated genetic hair shaft abnormality, familial isolated trichomegaly, and developmental malformation syndromes (odontal/periodontal and Dandy-Walker). None has supporting evidence in the data compiled for this report.
 
----
+Two lower-ranked predictions are worth noting:
+- **Kyphoscoliotic heart disease** (score 99.43%): this is the only prediction with an indirect, speculative pathway. Tadalafil is approved for pulmonary arterial hypertension, and kyphoscoliosis can lead to cor pulmonale. However, no data support it, and PDE5 inhibitors may worsen ventilation-perfusion matching in chronic hypoxic or restrictive lung disease.
+- **Migraine with brainstem aura** (score 99.08%): the only evidence is a case report of tadalafil *associated with* migraine aura, which is a safety signal, not a therapeutic one.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+For the top-ranked prediction (Ambras type hypertrichosis universalis congenita), currently no related literature is available.
 
----
+The only publication found across the predictions is for migraine with brainstem aura, and it is a safety signal rather than support for efficacy:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [17059442](https://pubmed.ncbi.nlm.nih.gov/17059442/) | 2006 | Case report | Cephalalgia | Tadalafil associated with typical migraine aura without headache (abstract not available) |
 
 ## India Market Information
 
-Tadalafil currently has no marketing authorization on record in India (0 registrations; market status: Not marketed). No dosage form or approved-indication data is available to summarize.
+Tadalafil is marketed in India with 20 valid single-ingredient registrations and no cancelled ones. The approved-indication text is not recorded for any of them. The main registrations are:
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 108956 | Igtad-MD 5 Tablet | Strip of 10 orally disintegrating tablets | Not recorded |
+| 215827 | Tadmax 20mg Tablet | Strip of 5 tablets | Not recorded |
+| 72376 | Efil 2.5mg Tablet | Strip of 10 tablets | Not recorded |
+| 124527 | Longtid 20 Tablet | Strip of 1 tablet | Not recorded |
+| 217786 | Tadasure 20 Disintegrating Strip | Strip of 1 disintegrating strip | Not recorded |
 
 ## Safety Considerations
 
-- **Drug Interactions**: The interaction database returns 132 known interactions for Tadalafil. Clinically flagged (Moderate level) interactions in this dataset include: Aprepitant, Dexamethasone, Lorcaserin, Canagliflozin, Cimetidine, Clarithromycin, Dapagliflozin, Empagliflozin, Sapropterin, Miconazole, Clotrimazole, Ertugliflozin, and Troglitazone. A Minor-level interaction is noted with Papaverine. Several additional interactions (e.g., Pantoprazole, Glimepiride, Doxycycline, Morphine, Metformin, Omeprazole) are recorded with an unclassified ("Unknown") severity level and warrant individual review before use.
+Package insert warnings and contraindications were not available. The following come from the knowledge graph and the drug-interaction database, not from label text.
 
-Official warnings and contraindications (e.g., from TFDA labeling) are not currently available in this evidence pack — this is logged as a **Blocking** data gap (DG001) that must be resolved before any safety pre-assessment (S1 stage) can proceed.
-
----
+- **Disease contraindications (knowledge graph)**, grouped:
+  - Cardiovascular: aortic stenosis and other aortic valve disease, hypotensive disorder, acute coronary syndrome, myocardial infarction, coronary thrombosis, stroke and cerebrovascular disorders, cerebral infarction, hypertrophic cardiomyopathy (including familial)
+  - Haematological: sickle cell anaemia, hemoglobinopathy, hereditary persistence of fetal haemoglobin, blood coagulation disease, plasma cell myeloma, leukaemia
+  - Genitourinary: priapism, Peyronie disease, penile fibromatosis, balanitis xerotica obliterans
+  - Other: liver failure, epilepsy, hearing loss disorder, visual loss
+- **Drug interactions**: 132 interactions were recorded. Moderate-level examples include aprepitant, dexamethasone, clarithromycin, cimetidine, miconazole, clotrimazole, lorcaserin, sapropterin, and the SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin). Papaverine is minor.
+- **Migraine aura signal**: a published case report associates tadalafil with migraine aura.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only candidate with a plausible mechanistic basis (kyphoscoliotic heart disease, via shared pulmonary-hypertension pathway) has no drug-specific clinical trials, case series, or literature — it is a pure computational hypothesis (L5). The remaining top-ranked candidates in this batch show no credible mechanistic link and are most likely embedding-level false positives. Combined with a blocking gap in official labeling data, this candidate set is not ready to advance past S0.
+The prediction rests only on a computational score, with no clinical trials or publications, and the likely explanation is a graph artifact linked to drugs that cause hypertrichosis. There is also no plausible mechanism, and the one available publication is an adverse-event signal.
 
 **To proceed, the following is needed:**
-- TFDA package insert / labeling data (warnings, contraindications) — resolves blocking gap DG001
-- Confirmed MOA documentation from DrugBank — resolves gap DG002
-- A targeted literature/trial search combining "Tadalafil" with "kyphoscoliosis," "secondary pulmonary hypertension," or "cor pulmonale" (current searches return zero hits)
-- Formal exclusion of the five hair/craniofacial-disorder candidates and the periodontal-disease candidate from further evaluation, given lack of drug-specific mechanistic or literature support
-- If pursuing the pulmonary-hypertension hypothesis, a retrospective cohort or case-series protocol in restrictive lung disease-associated PH patients, rather than a de novo prospective trial at this evidence stage
+- Mechanism of action data (DrugBank) and an analysis of whether any PDE5/cGMP effect on hair follicles exists
+- Package insert warnings and contraindications from Indian regulatory sources
+- Literature review on the direction of effect (induction versus treatment of hypertrichosis)
+- If pursuing a different direction, a focused literature review of kyphoscoliotic heart disease with pulmonary hypertension, including the risk of worsened ventilation-perfusion matching
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

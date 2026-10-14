@@ -2,7 +2,7 @@
 layout: default
 title: Salicylic Acid
 parent: Model Prediction Only (L5)
-nav_order: 755
+nav_order: 762
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,12 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Salicylic Acid: From Topical Keratolytic Use to Papillary Conjunctivitis
+# Salicylic Acid: From Topical Dermatological Conditions (Acne, Seborrheic Dermatitis) to Papillary Conjunctivitis
 
 ## One-Sentence Summary
 
-> Salicylic acid is a keratolytic compound commonly used topically (OTC/off-label internationally) for acne, psoriasis, corns, calluses and warts, but it is **not TFDA-approved and not currently marketed in Taiwan**.
-> The TxGNN model predicts a possible association with **Papillary Conjunctivitis**, but this is a **pure model prediction (L5)** — there are currently **zero clinical trials and zero publications** supporting this direction.
+Salicylic acid is a keratolytic and anti-inflammatory agent, widely used on the skin for acne, seborrheic dermatitis, warts, corns and fungal skin infections, and also listed for inflammatory joint conditions and allergic rhinitis.
+The TxGNN model predicts it may be effective for **papillary conjunctivitis**, with a very high score but **no clinical trials and no publications** currently supporting this direction.
+This is a model-only prediction, and the evidence is too weak to justify moving forward at present.
 
 ---
 
@@ -42,23 +43,23 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not TFDA-approved (0 licenses on file); internationally known as an OTC/off-label topical keratolytic for acne, psoriasis, corns, calluses and warts |
-| Predicted New Indication | Papillary Conjunctivitis |
+| Original Indication | Not stated in the licence records (all approved indication texts are blank); knowledge-graph indications include acne, seborrheic dermatitis, tinea pedis, rheumatoid arthritis and allergic rhinitis |
+| Predicted New Indication | Papillary conjunctivitis |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on available pharmacology profiling data, salicylic acid's antiacne/keratolytic effect has traditionally been attributed to COX inhibition, but this proposed mechanism has **not been substantiated by public bioactivity data** — the compound's only documented molecular target in this evidence pack is ASIC3 (acid-sensing ion channel 3), which is not the classically proposed target.
+Detailed mechanism-of-action data is not available. Based on known information, salicylic acid is a salicylate, and it is proposed to act through inhibition of COX enzymes and reduced prostaglandin synthesis. However, no public bioactivity data confirm this at a specific molecular target. Its effect on the skin is mainly keratolytic and anti-inflammatory.
 
-Papillary conjunctivitis involves conjunctival epithelial hyperplasia and localized inflammation. The repurposing rationale offered by the model is that salicylic acid's keratolytic/anti-inflammatory properties could theoretically modulate papillary hyperplasia — but this is speculative. There is no confirmed MOA data linking salicylate signaling to conjunctival tissue, no ophthalmic formulation on record, and no history of human ocular use to support this pathway.
+The link to the new indication is plausible but indirect. Salicylic acid is associated with allergic rhinitis, and papillary conjunctivitis shares an allergic/atopic inflammatory component. This overlap is the only basis for the prediction, and it is not supported by any trial or publication.
 
-Given the absence of any mechanistic confirmation, clinical trials, or literature, this prediction should be treated as a hypothesis-generation signal only, not a validated repurposing candidate.
+There is also a practical concern. Topical salicylates are irritants, and the existing Indian products are for skin use (ointments, gels, serums, face washes). None are suited to the eye, so a new ophthalmic formulation and its safety work would be needed. The very high prediction score should be read as a model signal, not as proof of benefit.
 
 ---
 
@@ -74,17 +75,26 @@ Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## India Market Information
 
-Salicylic acid is **not currently marketed in Taiwan** — there are 0 TFDA licenses/registrations on file for this compound, and no approved indication text is available.
+There are 20 valid single-ingredient registrations and no cancelled ones. The main five are listed below. Approved indication text is not recorded in the licence data.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 89442 | Furr 20% Vitamin C Skin Face Serum | Serum, 30 ml bottle | Not recorded |
+| 88999 | Furr 2% Salicylic Anti Acne Face Serum | Serum, 30 ml bottle | Not recorded |
+| 234301 | Vedasol 30mg Gel (Cipla Ltd) | Gel, 60 g tube | Not recorded |
+| 31996 | Benzosil Ointment | Ointment, 25 g tube | Not recorded |
+| 201510 | SA 20 Ointment | Ointment, 25 g tube | Not recorded |
 
 ---
 
 ## Safety Considerations
 
-- **Pharmacological Target Profile**: Pharmacology data indicates binding activity at **ASIC3** (acid-sensing ion channel 3, Entrez Gene 9311). This is derived from receptor/target profiling data, **not a clinical drug-drug interaction**, and its clinical relevance to repurposing is currently unclear.
+- **Drug Interactions**: One pharmacology-based entry was found, involving the acid-sensing ion channel ASIC3 (a target interaction, not a drug-drug interaction). No interaction severity level is available.
+- **Ocular concern**: Topical salicylic acid carries a risk of irritation, which is a major obstacle for any use on the eye surface.
 
-Formal TFDA warning and contraindication data for this compound is not yet available (flagged as Blocking data gap DG001 — required before safety pre-assessment can proceed).
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -93,13 +103,14 @@ Formal TFDA warning and contraindication data for this compound is not yet avail
 **Decision: Hold**
 
 **Rationale:**
-This candidate rests entirely on an L5 model-only prediction with no clinical trials, no literature, no confirmed MOA, and no marketing history in Taiwan (0 licenses). There is currently no independent evidence base to support advancing this indication.
+The prediction is supported only by the model score and an indirect allergic-inflammation argument. There are no trials or publications, the mechanism of action is not established, and ocular irritation risk is a significant concern. The other nine predicted indications are also model-only. Most (for example, rare skeletal dysplasias) have no credible mechanistic link and are probably knowledge-graph artifacts. Of these, only spondyloarthropathy has plausible class-level support (NSAIDs), which could justify a focused literature review.
 
 **To proceed, the following is needed:**
-- TFDA label/warning and contraindication data (Blocking gap, DG001) — required before any safety pre-assessment (S1) can begin
-- Confirmed mechanism of action data (High-priority gap, DG002) to validate or refute the proposed mechanistic link
-- Preclinical or mechanistic studies specifically evaluating salicylate activity in ocular/conjunctival tissue
-- Any human exposure data (topical/ophthalmic) to assess feasibility of an ocular route, since no formulation or route compatibility data currently exists
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism-of-action data
+- A systematic literature search on salicylates in allergic and papillary conjunctivitis
+- Ocular tolerability and formulation feasibility assessment (no eye-appropriate route is currently available)
+- Preclinical evidence for the ocular indication before any clinical planning
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Pirfenidone
 parent: Model Prediction Only (L5)
-nav_order: 671
+nav_order: 678
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,69 +29,112 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pirfenidone: From Idiopathic Pulmonary Fibrosis to Fibroblastic Neoplasm
+# Pirfenidone: From Idiopathic Pulmonary Fibrosis to Extracutaneous Mastocytoma
 
 ## One-Sentence Summary
 
-Pirfenidone is an antifibrotic small molecule whose approved use (per cited literature) is idiopathic pulmonary fibrosis. Among 10 TxGNN-predicted indications screened for this drug, only **fibroblastic neoplasm** (covering Dupuytren's disease and FAP-associated desmoid tumor) is supported by actual literature — **6 publications**, no clinical trials — while the other 9 candidates (mastocytosis, dermatofibrosarcoma protuberans, various fibrosarcomas, familial Mediterranean fever, hepatic infarction) returned **zero evidence** and remain at Hold. The evidence for fibroblastic neoplasm itself is mixed: preclinical/cohort support for antifibrotic benefit is counterbalanced by case reports of tumor emergence or aggravation after pirfenidone use.
+Pirfenidone is an oral anti-fibrotic drug originally used to treat idiopathic pulmonary fibrosis and related interstitial pneumonias.
+The TxGNN model predicts it may be effective for **extracutaneous mastocytoma**,
+but **no clinical trials and no publications** currently support this prediction, so it remains a computational hypothesis only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Idiopathic pulmonary fibrosis (per literature reference PMID 29702057; not separately recorded in drug-level regulatory data) |
-| Predicted New Indication | Fibroblastic Neoplasm (Dupuytren's disease / FAP-associated desmoid tumor spectrum) |
-| TxGNN Prediction Score | 99.23% (rank 9 of 10 screened candidates by score; rank 11,911 in full KG output) |
-| Evidence Level | L3 (cohort pilot study + preclinical mechanistic studies; no RCTs) |
-| India Market Status | Not marketed |
-| Number of Registrations | 0 |
+| Original Indication | Idiopathic pulmonary fibrosis (also acute interstitial pneumonia and idiopathic interstitial pneumonia, per the knowledge graph) |
+| Predicted New Indication | Extracutaneous mastocytoma |
+| TxGNN Prediction Score | 99.71% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-A formal mechanism-of-action record is not available in DrugBank for this drug (data gap). However, the literature evidence collected for this candidate consistently describes pirfenidone as an inhibitor of TGF-β1 and PDGF signaling, which reduces fibroblast-to-myofibroblast transformation, collagen synthesis, and fibroblast proliferation — the pathway pirfenidone was designed to block in pulmonary fibrosis.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, pirfenidone is an anti-fibrotic agent with an established role in idiopathic pulmonary fibrosis. Its anti-fibrotic and anti-inflammatory activity is generally linked to modulation of the TGF-beta pathway.
 
-Fibroblastic neoplasm and fibroproliferative conditions such as Dupuytren's contracture share the same core biology: TGF-β1-driven myofibroblast activity causing progressive tissue contracture. FAP-associated desmoid tumors are similarly driven by fibroblast proliferation along related growth-factor pathways. This mechanistic overlap is why in vitro studies on Dupuytren's-derived fibroblasts and a pilot cohort in desmoid tumors were undertaken, and why the TxGNN embedding model surfaces this indication.
+A plausible but unverified connection to extracutaneous mastocytoma is this TGF-beta and anti-inflammatory activity. However, mastocytoma is driven mainly by KIT signaling, and the data compiled for this report contain no study showing that pirfenidone acts on this pathway or on mast cell tumours. The high score is therefore best read as a network-based computational signal, not as proof of efficacy.
 
-Importantly, the same anti-fibroblast mechanism that supports a therapeutic rationale also raises a safety question: two independent case reports describe new or worsening fibroblastic/mesenchymal tumors (undifferentiated pleomorphic sarcoma; multiple eruptive dermatofibromas) temporally associated with pirfenidone use. This suggests fibroblast-pathway modulation may not be uniformly protective and could, in some contexts, be associated with tumor promotion — a signal that must be resolved before advancing this indication.
+Other top-ranked predictions show a similar pattern. They include dermatofibrosarcoma protuberans, aggressive systemic mastocytosis, several fibrosarcomas, familial Mediterranean fever, hepatic infarction, fibroblastic neoplasm and low grade fibromyxoid sarcoma. Only fibroblastic neoplasm (rank 9) has any supporting literature, and that is indirect, preclinical, or case-level.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for extracutaneous mastocytoma.
+
+---
 
 ## Literature Evidence
 
+Currently no related literature available for extracutaneous mastocytoma.
+
+For context, the only predicted indication in the data with any literature is rank 9, fibroblastic neoplasm (L4, preclinical level). This evidence is indirect:
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [12907346](https://pubmed.ncbi.nlm.nih.gov/12907346/) | 2003 | Cohort (pilot) | The American Journal of Gastroenterology | Pilot study of pirfenidone in FAP-associated desmoid tumors; described as a broad-spectrum, noncytotoxic oral antifibrotic blocking TGF-β1, PDGF, EGF, and FGF, aimed at preventing new fibrotic lesion formation |
-| [27835939](https://pubmed.ncbi.nlm.nih.gov/27835939/) | 2016 | Preclinical (in vitro) | BMC Musculoskeletal Disorders | Pirfenidone inhibited TGF-β1-mediated myofibroblast activity in Dupuytren's disease-derived fibroblasts |
-| [30927912](https://pubmed.ncbi.nlm.nih.gov/30927912/) | 2019 | Preclinical (in vitro) | BMC Musculoskeletal Disorders | Pirfenidone modulated TGF-β1-stimulated non-SMAD signaling pathways in Dupuytren's-derived fibroblasts, supporting a mechanistic basis for antifibrotic effect beyond canonical SMAD signaling |
-| [35129055](https://pubmed.ncbi.nlm.nih.gov/35129055/) | 2022 | Preclinical (formulation) | Pharmaceutical Development and Technology | Local injectable pirfenidone formulation proposed to prevent nodule-to-cord progression in Dupuytren's disease, building on prior in vitro inhibition data |
-| [29702057](https://pubmed.ncbi.nlm.nih.gov/29702057/) | 2018 | Case report (adverse) | The Permanente Journal | Undifferentiated pleomorphic sarcoma reported following pirfenidone use for idiopathic pulmonary fibrosis; long-term oncogenic risk flagged as data-limited |
-| [32572469](https://pubmed.ncbi.nlm.nih.gov/32572469/) | 2020 | Case report (adverse) | Rheumatology (Oxford, England) | Multiple eruptive dermatofibromas aggravated by concurrent mycophenolate mofetil and pirfenidone in a patient with systemic sclerosis |
+| [12907346](https://pubmed.ncbi.nlm.nih.gov/12907346/) | 2003 | Pilot clinical study | Am J Gastroenterol | Pilot project on pirfenidone for desmoid tumours in familial adenomatous polyposis; design details not confirmed from the available text |
+| [27835939](https://pubmed.ncbi.nlm.nih.gov/27835939/) | 2016 | In vitro | BMC Musculoskelet Disord | Pirfenidone inhibited TGF-β1-mediated fibrotic activity in Dupuytren's disease-derived fibroblasts |
+| [30927912](https://pubmed.ncbi.nlm.nih.gov/30927912/) | 2019 | In vitro | BMC Musculoskelet Disord | Studied pirfenidone effects on TGF-β1-stimulated non-SMAD signalling in Dupuytren's fibroblasts |
+| [35129055](https://pubmed.ncbi.nlm.nih.gov/35129055/) | 2022 | Preclinical | Pharm Dev Technol | Explored pirfenidone as a locally injectable anti-fibrotic for Dupuytren's disease |
+| [29702057](https://pubmed.ncbi.nlm.nih.gov/29702057/) | 2018 | Case report | Perm J | Undifferentiated pleomorphic sarcoma reported after pirfenidone use (possible safety signal) |
+| [32572469](https://pubmed.ncbi.nlm.nih.gov/32572469/) | 2020 | Case report | Rheumatology (Oxford) | Multiple eruptive dermatofibromas aggravated by mycophenolate mofetil and pirfenidone in a patient with systemic sclerosis |
+
+---
 
 ## India Market Information
 
-Pirfenidone is currently not marketed in India, and no registration/license records exist in the available regulatory data.
+Pirfenidone is marketed in India as single-ingredient oral tablets (20 valid registrations, none cancelled). Approved indication text is not available for these registrations. Five of the main authorizations are shown below:
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 173786 | Pirfenex Tablet | Strip of 15 tablets | Cipla Ltd |
+| 84944 | Fibrodone 400mg Tablet | Strip of 10 tablets | Lupin Ltd |
+| 178901 | Pirfetab 267 Tablet | Strip of 10 tablets | Zydus Cadila |
+| 174682 | Pirfact 801 Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
+| 175189 | Pulmofib 801mg Tablet | Strip of 10 tablets | MSN Laboratories |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Formal warnings, contraindications, and drug-drug interaction data could not be retrieved (DDI database query failed due to a missing local reference file, and TFDA-equivalent label data is a documented Blocking data gap).
+- **Drug Interactions**: 100 interactions were identified in the interaction database. The 20 listed in the data are all of Moderate severity. Examples include:
+  - Bupropion
+  - Omeprazole, esomeprazole and lansoprazole
+  - Cimetidine
+  - Eliglustat
+  - Obeticholic acid
+  - Naltrexone
+  - Miconazole
+  - Disulfiram
+  - Ivacaftor
+  - Ticlopidine
 
-Separately, two literature case reports (not part of the formal safety database) describe new or aggravated fibroblastic/mesenchymal tumors temporally associated with pirfenidone use — this should be treated as an unresolved safety signal specific to any fibroproliferative-tumor indication, distinct from pirfenidone's known IPF-related tolerability profile.
+  Review concomitant medicines carefully before any use.
+- **Possible tumour-related signal**: Case reports describe an undifferentiated pleomorphic sarcoma after pirfenidone use and dermatofibromas aggravated by pirfenidone together with mycophenolate. These are isolated reports and do not establish causality, but they warrant evaluation if pirfenidone is considered in neoplastic settings.
+
+Please refer to the package insert for warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence for fibroblastic neoplasm rests on preclinical studies and one small human pilot cohort (no RCTs), and is counterbalanced by case reports suggesting a possible tumor-promoting signal in fibroblast-driven lesions — a direct conflict with the proposed antifibrotic rationale. Combined with the absence of basic label/safety data (Blocking gap) and no India market presence, the evidence base is not yet sufficient to proceed. The remaining 9 KG-predicted indications for this drug have no supporting evidence at all and should stay at Hold.
+The prediction rests only on a model score (99.71%), with no clinical trials or publications for extracutaneous mastocytoma. Mastocytoma is driven mainly by KIT signalling, and no mechanistic link to pirfenidone is supported by the available data.
 
 **To proceed, the following is needed:**
-- TFDA-equivalent product label (warnings/contraindications) — currently a Blocking data gap
-- Formal DrugBank-sourced mechanism-of-action record
-- Repair of the local DDI reference dataset (ddinter file missing) to complete interaction screening
-- Dedicated prospective study (not just retrospective case reports) resolving whether pirfenidone increases or decreases fibroblastic-neoplasm risk before any indication-specific trial is considered
+- Mechanism of action data for pirfenidone
+- Package insert warnings and contraindications from the India regulatory source, which are needed for safety screening
+- Preclinical evidence (for example mast cell or tumour models) testing pirfenidone against KIT-driven or TGF-beta-related mechanisms
+- Review of the sarcoma and dermatofibroma case reports for any safety signal in neoplastic settings
+- Comparison against established treatments, such as KIT-targeted therapy
+- Approved indication text for the Indian registrations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

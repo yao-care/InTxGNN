@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cabozantinib
-parent: Moderate Evidence (L3-L4)
+parent: High Evidence (L1-L2)
 nav_order: 129
-evidence_level: L3
+evidence_level: L2
 indication_count: 10
 ---
 
 # Cabozantinib
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,105 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Cabozantinib: From Renal Cell Carcinoma to Liposarcoma
+# Cabozantinib: From Renal Cell Carcinoma to Unclassified Renal Cell Carcinoma
 
 ## One-Sentence Summary
 
-Cabozantinib is a multi-target tyrosine kinase inhibitor (TKI) approved internationally for renal cell carcinoma, medullary thyroid cancer, and hepatocellular carcinoma, acting primarily through simultaneous inhibition of VEGFR2, MET, and AXL signaling pathways.
-The TxGNN model predicts it may be effective for **Liposarcoma**, with **1 clinical trial** and **1 publication** currently supporting this direction.
-Evidence remains early-stage and is drawn from broad soft tissue sarcoma populations rather than liposarcoma-specific cohorts.
-
----
+Cabozantinib is an oral multikinase inhibitor originally used to treat renal cell carcinoma and medullary thyroid carcinoma.
+The TxGNN model predicts it may be effective for **unclassified renal cell carcinoma** (a non-clear cell subtype), with **4 clinical trials** and **7 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Renal cell carcinoma (global approval; no registration in India) |
-| Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | Hold |
-
----
+|------|------|
+| Original Indication | Renal cell carcinoma (including clear cell); medullary thyroid carcinoma |
+| Predicted New Indication | Unclassified renal cell carcinoma |
+| TxGNN Prediction Score | 99.75% |
+| Evidence Level | L2 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 8 |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known information, Cabozantinib is a multi-target tyrosine kinase inhibitor that simultaneously inhibits VEGFR2, MET, and AXL — three kinases deeply involved in tumor angiogenesis, stromal remodeling, and immune evasion. Its efficacy against renal cell carcinoma and medullary thyroid cancer has been established through multiple pivotal Phase 3 trials (METEOR, CheckMate 9ER), confirming that blocking these three axes together provides meaningful clinical benefit in solid tumors driven by vascular and mesenchymal signaling.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cabozantinib is an oral small-molecule kinase inhibitor that targets VEGFR2, MET and AXL. These pathways drive tumour angiogenesis, progression and resistance to anti-angiogenic therapy in renal cell carcinoma.
 
-Liposarcoma, particularly dedifferentiated and myxoid/round-cell subtypes, is characterized by VEGFR-dependent neovascularization and documented MET overactivation. The dual VEGFR2 + MET blockade by cabozantinib may suppress both angiogenic supply and MET-driven stromal interactions that support liposarcoma survival and metastasis. Although MDM2 amplification — a hallmark genomic driver of well-differentiated and dedifferentiated liposarcoma — is not a direct cabozantinib target, inhibition of AXL may enhance the tumor microenvironment's susceptibility to immune checkpoint therapy, which is precisely the rationale behind the ongoing combination trial with ipilimumab and nivolumab (NCT05836571).
+Unclassified RCC belongs to the same disease family as the already-established RCC indication. Non-clear cell subtypes, including papillary RCC with MET dysregulation, also depend on VEGFR/MET signalling, so the mechanism may be applicable.
 
-It is important to emphasize that liposarcoma is a heterogeneous disease across four major subtypes, and the mechanistic plausibility of cabozantinib likely varies by subtype. Dedicated liposarcoma-specific efficacy data are currently absent; all available evidence is extrapolated from the broader soft tissue sarcoma population.
-
----
+The evidence is mostly single-arm or small Phase 2 studies. There is no Phase 3 trial specific to this subtype.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|-------------|
-| [NCT05836571](https://clinicaltrials.gov/study/NCT05836571) | Phase 2 | Active, Not Recruiting | 66 | Randomized comparison of cabozantinib + ipilimumab + nivolumab versus ipilimumab + nivolumab alone in advanced soft tissue sarcoma. Liposarcoma is included as a subtype but without dedicated stratification; efficacy results in the liposarcoma subgroup have not yet been published. |
-
----
+|---------|------|------|------|---------|
+| [NCT04413123](https://clinicaltrials.gov/study/NCT04413123) | Phase 2 | Active, not recruiting | 60 | Cabozantinib + nivolumab + ipilimumab in advanced non-clear cell RCC |
+| [NCT03541902](https://clinicaltrials.gov/study/NCT03541902) | Phase 2 | Active, not recruiting | 32 | CABOSUN II: cabozantinib vs sunitinib in metastatic variant histology RCC (randomised) |
+| [NCT03635892](https://clinicaltrials.gov/study/NCT03635892) | Phase 2 | Active, not recruiting | 60 | Nivolumab + cabozantinib in advanced or metastatic non-clear cell RCC |
+| [NCT04071223](https://clinicaltrials.gov/study/NCT04071223) | Phase 2 | Active, not recruiting | 98 | Radium-223 + cabozantinib in advanced RCC with bone metastasis (randomised) |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [41770651](https://pubmed.ncbi.nlm.nih.gov/41770651/) | 2026 | Phase 1 | American Journal of Clinical Oncology | Phase 1 neoadjuvant study evaluating concurrent cabozantinib + radiation therapy in extremity soft tissue sarcoma (including liposarcoma subtypes). Primary objective was safety assessment, specifically addressing concerns about fistula and perforation risk associated with combining cabozantinib with RT. No dedicated liposarcoma efficacy data reported. |
+|------|-----|------|------|---------|
+| [35298296](https://pubmed.ncbi.nlm.nih.gov/35298296/) | 2022 | Phase 2 trial | J Clin Oncol | Cabozantinib + nivolumab in non-clear cell RCC, with genomic correlates |
+| [38782695](https://pubmed.ncbi.nlm.nih.gov/38782695/) | 2024 | Phase 2 (updated) | Eur Urol | Updated results (34-month follow-up) in papillary, unclassified and translocation-associated RCC |
+| [30827746](https://pubmed.ncbi.nlm.nih.gov/30827746/) | 2019 | Retrospective cohort | Lancet Oncol | Multicentre analysis of cabozantinib activity and toxicity in advanced non-clear cell RCC |
+| [30380460](https://pubmed.ncbi.nlm.nih.gov/30380460/) | 2018 | Retrospective study | Eur J Cancer | Cabozantinib in metastatic non-clear cell RCC |
+| [42366526](https://pubmed.ncbi.nlm.nih.gov/42366526/) | 2026 | Retrospective cohort | Oncoimmunology | Nationwide Korean study (n=62) of cabozantinib + nivolumab in advanced non-clear cell RCC |
+| [41558869](https://pubmed.ncbi.nlm.nih.gov/41558869/) | 2026 | Retrospective cohort | Eur Urol Oncol | IMDC real-world outcomes of first-line therapies in metastatic non-clear cell RCC, including unclassified RCC |
+| [40597937](https://pubmed.ncbi.nlm.nih.gov/40597937/) | 2025 | Case report | BMC Nephrol | Unclassified RCC with multi-organ metastasis treated with surgery and targeted therapy |
 
----
+## India Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 38313 | Cabolong Tablet (MSN Laboratories) | Bottle of 30 tablets | Not specified |
+| 36242 | Cabotib 40 Tablet (Glenmark) | Bottle of 30 tablets | Not specified |
+| 40996 | Cabotib 20 Tablet (Glenmark) | Bottle of 30 tablets | Not specified |
+| 36088 | Cabotres 20 Tablet (Cipla) | Bottle of 30 tablets | Not specified |
+| 35518 | Cabotres 40 Tablet (Cipla) | Bottle of 30 tablets | Not specified |
+
+Eight valid single-ingredient registrations exist in total; the five above are shown.
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Multi-target tyrosine kinase inhibitor (VEGFR / MET / AXL) |
-| Myelosuppression Risk | Low to moderate (thrombocytopenia and neutropenia reported in Phase 3 trials; substantially less severe than conventional cytotoxic agents) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential, liver function tests (ALT/AST/bilirubin), renal function (serum creatinine), thyroid function (TSH), blood pressure, urinalysis for proteinuria, wound healing assessment |
-| Handling Protection | Standard oral targeted therapy precautions apply; dedicated cytotoxic handling protocols are not required — tablets should not be crushed or dissolved, and caregivers should avoid contact with broken tablets |
-
----
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (multikinase inhibitor), not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Suggested: CBC, liver and renal function, blood pressure, and urine protein; class toxicities include hypertension, diarrhoea and hand-foot syndrome |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 100 interactions were identified in the data compiled for this report. Major-level interactions include:
+  - Acetylsalicylic acid
+  - Cisapride
+  - Clarithromycin
+  - Dolasetron
+  - Granisetron
+  - Levofloxacin
 
----
+  Moderate-level examples include loperamide, aprepitant, dexamethasone and bisacodyl. Several of these (cisapride, dolasetron, granisetron, levofloxacin, clarithromycin) are typically flagged for QT prolongation or CYP3A4-related effects, so a medication review is advisable.
+
+For other safety information, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The current evidence base for cabozantinib in liposarcoma consists of a single ongoing Phase 2 trial in the broader soft tissue sarcoma population (with no liposarcoma-specific subgroup analysis published) and one Phase 1 safety study; this L3 evidence level is insufficient to support clinical adoption or regulatory exploration without dedicated efficacy data in liposarcoma.
+Several Phase 2 trials and published prospective and retrospective studies show activity in non-clear cell RCC, and cabozantinib is already marketed and Phase 3-supported for RCC overall. However, evidence specific to unclassified RCC comes from small, mostly single-arm studies.
 
 **To proceed, the following is needed:**
-
-- Retrieve mechanism of action (MOA) data from DrugBank API or prescribing information (resolves DG002)
-- Retrieve CDSCO/regulatory package insert for key warnings and contraindications (resolves DG001 — currently blocking S1 safety evaluation)
-- Await published results from NCT05836571, specifically requesting liposarcoma subgroup analysis from investigators
-- Identify or initiate a dedicated Phase 2 basket trial in liposarcoma with cabozantinib, stratified by histological subtype (particularly dedifferentiated liposarcoma given MDM2 amplification)
-- Review retrospective real-world data from sarcoma centers for any off-label cabozantinib use in liposarcoma
-- Consider CDSCO import/named-patient use pathway if a specific patient case warrants compassionate use, given the drug is not currently registered in India
+- Package insert warnings and contraindications (not available in the data compiled for this report)
+- Detailed mechanism of action data
+- Histology confirmation before treatment
+- Monitoring plan for hypertension, diarrhoea, hand-foot syndrome and other class toxicities
+- Medication review for major drug interactions
+- Subtype-specific results from ongoing Phase 2 trials, or a confirmatory trial
+- India-approved indication text for the registered products
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

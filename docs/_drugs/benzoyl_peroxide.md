@@ -29,81 +29,85 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Benzoyl Peroxide: From Acne Vulgaris to Vulvar Inverted Follicular Keratosis
+# Benzoyl Peroxide: From Acne and Dermatitis to Vulvar Inverted Follicular Keratosis
 
 ## One-Sentence Summary
 
-Benzoyl peroxide (BPO) is a well-established topical antibacterial and keratolytic agent, widely used for the treatment of acne vulgaris.
-The TxGNN model predicts it may be effective for **Vulvar Inverted Follicular Keratosis**,
-with **0 clinical trials** and **0 publications** currently supporting this direction.
-
----
+Benzoyl peroxide is a topical agent originally used for skin conditions such as acne, seborrheic dermatitis, contact dermatitis and atopic eczema.
+The TxGNN model predicts it may be effective for **vulvar inverted follicular keratosis**,
+but **no clinical trials and no publications** currently support this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Acne vulgaris (widely recognized clinical use; not listed in current Indian regulatory data) |
-| Predicted New Indication | Vulvar Inverted Follicular Keratosis |
+|------|------|
+| Original Indication | Acne, atopic eczema, contact dermatitis, seborrheic dermatitis, seborrheic keratosis and related skin conditions (the licence records compiled for this report contain no approved indication text) |
+| Predicted New Indication | Vulvar inverted follicular keratosis |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, benzoyl peroxide is a topical oxidizing agent with two primary activities: **(1) antibacterial action** — it releases free radical oxygen that oxidizes bacterial proteins, substantially reducing *Cutibacterium acnes* colonization on the skin surface; **(2) keratolytic action** — it promotes epidermal desquamation and reduces follicular plugging, making it effective against conditions involving abnormal keratinization.
+Currently, detailed mechanism of action data is not available. Based on known information, benzoyl peroxide is a topical agent already used for acne and several inflammatory and keratinocytic skin conditions, including seborrheic keratosis. Mechanistically it may be applicable to vulvar inverted follicular keratosis.
 
-Vulvar inverted follicular keratosis (VIFK) is a rare, benign neoplastic lesion characterized by an endophytic squamous proliferation with distinctive squamous eddies (whorls of squamous cells). While BPO's keratolytic properties might conceptually apply to hyperkeratotic follicular conditions, VIFK's underlying pathology is fundamentally different — it represents a true benign squamoproliferative tumor rather than a condition driven by chronic bacterial infection or simple reactive hyperkeratosis. The pathological hallmark is a structured neoplastic growth, not follicular obstruction or microbial dysbiosis.
+Seborrheic keratosis and inverted follicular keratosis are both benign keratinocytic lesions. Benzoyl peroxide's keratolytic and anti-inflammatory actions could plausibly extend to the new condition. This link is speculative, because no mechanism data, trials or literature support it.
 
-The TxGNN knowledge graph likely captured a structural node similarity between "follicular keratosis"-type conditions and BPO's known interactions, generating this high-score prediction. However, the mechanistic link is considered weak: BPO has no known anti-neoplastic mechanism, and there is no biological rationale for it to resolve established VIFK lesions. This signal is best interpreted as a hypothesis-generating artifact of the graph topology rather than a clinically actionable prediction.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
+Other predictions for this drug are weaker or raise concerns:
+- **2-hydroxyethyl methacrylate sensitization** (score 99.43%): The model may be learning from the contact dermatitis association. Benzoyl peroxide is itself a recognised contact sensitiser and a radical initiator in acrylic and methacrylate polymerisation, so using it here could be counterproductive.
+- **Acrodermatitis chronica atrophicans** (score 99.17%): This is a late Borrelia skin infection treated with systemic antibiotics. Topical benzoyl peroxide is unlikely to reach the deep dermal infection.
+- **Acne keloid** (score 99.06%): This is the only prediction with any retrieved literature, and that evidence is indirect (see below). It is a plausible research question, since benzoyl peroxide is an established acne treatment.
 
 ## Literature Evidence
 
-Currently no related literature available.
+The only literature retrieved relates to the fourth-ranked prediction (acne keloid), not the lead prediction. It is indirect evidence.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [39090034](https://pubmed.ncbi.nlm.nih.gov/39090034/) | 2024 | Review (retrospective chart review) | Dermatology Online Journal | Treatment patterns in 77 Black paediatric patients with acne vulgaris, a population prone to scarring and keloid formation. It does not address acne keloidalis nuchae specifically. |
+
+For the lead prediction (vulvar inverted follicular keratosis), currently no related clinical trials are registered and no related literature is available.
 
 ## India Market Information
 
-Benzoyl peroxide has **no current registrations** with the Indian regulatory authority (CDSCO) based on available data. The drug is classified as **Not Marketed** in India.
+There are 20 valid single-ingredient registrations, all topical or wash-off products. No approved indication text is available for any of them. Five representative entries are shown.
 
-> Note: BPO is widely available as an over-the-counter and prescription topical agent in many other markets (US, EU, Australia). The absence of CDSCO registrations in this dataset may reflect data coverage limitations and should be verified directly with CDSCO records.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 37451 | Clindez Soap | Soap, 75 gm | Not stated |
+| 191108 | Rosaklen Aqua Gel | Gel, 15 gm tube | Not stated |
+| 4582 | Acnox 2.5 Gel | Gel, 20 gm tube | Not stated |
+| 3191 | Acnerus Bpo Cream | Cream, 20 gm tube | Not stated |
+| 25884 | Benxop Face Wash | Face wash, 50 gm tube | Not stated |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+The knowledge graph links benzoyl peroxide to a number of disease contraindications. These come from graph edges, not from label text, and should be verified against the product label. Conditions most relevant to a topical skin product include:
+- **Skin and photosensitivity conditions**: photosensitivity disease, exfoliative dermatitis, dermatitis, skin atrophy
+- **Vascular skin conditions**: telangiectasis, capillary disease, hereditary hemorrhagic telangiectasia
+- **Viral skin lesions**: common wart, anogenital human papillomavirus infection
+- **Other graph-listed conditions**: kidney disease, diabetes mellitus, diabetic ketoacidosis, adrenocortical insufficiency, Addison disease, inflammatory bowel disease (including Crohn disease and ulcerative colitis), Clostridium difficile colitis, peripheral vascular disease
 
-> Safety data including key warnings, contraindications, and drug interactions were not available in this Evidence Pack. Retrieval of the CDSCO/TFDA package insert PDF is recommended as a remediation step before proceeding to any safety assessment.
+Some of these look systemic and may reflect combination products (for example, with clindamycin) rather than benzoyl peroxide alone. Please also refer to the package insert for key warnings and contraindications, as these were not available for this report.
 
----
+Benzoyl peroxide is a recognised contact sensitiser. This is especially relevant for application on delicate vulvar skin and for the HEMA sensitisation prediction.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Although the TxGNN prediction score is exceptionally high (99.92%), this score reflects the model's graph-structural inference and does not correspond to clinical evidence. Vulvar inverted follicular keratosis is a rare benign squamous neoplasm with a pathological mechanism that is biologically distinct from BPO's known keratolytic and antibacterial targets; no supporting clinical trials or literature have been identified for this indication.
+The predicted indication of vulvar inverted follicular keratosis is supported by a high model score only. There are no clinical trials or publications, the mechanism data is missing, and the package insert safety information has not been obtained. The sensitisation potential is also a concern for use on vulvar skin.
 
 **To proceed, the following is needed:**
-- **MOA data retrieval**: Query DrugBank API for complete mechanism of action, pharmacodynamics, and targets for DB09096
-- **Safety profile completion**: Download and parse the CDSCO/TFDA package insert PDF to obtain contraindications, key warnings, and DDI data
-- **Biological plausibility review**: Commission a dermatopathology expert opinion on whether any aspect of BPO's mechanism (oxidative stress reduction, keratolysis) could intersect with VIFK pathogenesis
-- **Indication re-prioritization**: Consider redirecting evaluation effort toward rank 4 (**Acne Keloid / Acne Keloidalis Nuchae**), which carries partial supporting evidence (1 clinical trial, 2 publications) and a stronger mechanistic rationale for BPO's anti-inflammatory and keratolytic properties
-- **India market verification**: Confirm CDSCO registration status through direct database query, as OTC BPO products may be marketed without formal registration records in this dataset
+- Package insert warnings and contraindications from the India regulatory source (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- A literature search targeted at inverted follicular keratosis and benzoyl peroxide, including case reports
+- A tolerability and sensitisation assessment for vulvar application
+- Dermatology expert review of whether the diagnosis is amenable to topical keratolytic therapy
+- Acne keloid (acne keloidalis nuchae) could be explored separately as a research question, since it has indirect supporting literature
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

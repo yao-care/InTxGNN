@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Famciclovir
-parent: Moderate Evidence (L3-L4)
-nav_order: 334
-evidence_level: L4
+parent: Model Prediction Only (L5)
+nav_order: 337
+evidence_level: L5
 indication_count: 10
 ---
 
 # Famciclovir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,12 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Famciclovir: From [Original Indication Unavailable] to Post-Infectious Neuralgia
+# Famciclovir: From Herpes Zoster to Post-Infectious Neuralgia
 
 ## One-Sentence Summary
 
-Famciclovir's original approved indication is not documented in this evidence pack (mechanism-of-action and indication data are both flagged as data gaps), though cross-referenced trial evidence elsewhere in this pack confirms it is an established antiviral for herpes zoster (shingles). The TxGNN model predicts a possible link to **Post-Infectious Neuralgia**, but the two associated clinical trials do not actually test famciclovir itself, and **no supporting literature** is currently available for this specific pairing.
+Famciclovir is an oral antiviral originally used to treat herpes zoster (shingles).
+The TxGNN model predicts it may be useful for **post-infectious neuralgia**, which in practice mostly means postherpetic neuralgia. However, only **1 clinical trial** is linked to this prediction, it tests oxycodone rather than famciclovir, and **no publications** support it directly.
 
 ---
 
@@ -41,24 +42,23 @@ Famciclovir's original approved indication is not documented in this evidence pa
 
 | Item | Content |
 |------|------|
-| Predicted New Indication | Post-Infectious Neuralgia |
+| Original Indication | Herpes zoster |
+| Predicted New Indication | Post-infectious neuralgia |
 | TxGNN Prediction Score | 99.75% |
-| Evidence Level | L4 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 (indirect evidence only; no famciclovir-specific study) |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 18 |
 | Recommended Decision | Hold |
-
-*(Original Indication row omitted — no approved-indication text is present in this evidence pack's regulatory license data.)*
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for famciclovir in this evidence pack. Based on information cross-referenced elsewhere within this same pack (see NCT01327144 under the "chickenpox" candidate: a completed Phase 3 trial comparing Famciclovir 500 mg vs. Aciclovir 400 mg in herpes zoster patients), famciclovir is known to be an established oral antiviral used to treat herpes zoster (shingles), caused by reactivation of varicella-zoster virus (VZV).
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Famciclovir is an oral antiviral used against herpes zoster. Its efficacy in that condition is established, and mechanistically it may be applicable to the nerve pain that follows it.
 
-Post-infectious neuralgia — most commonly manifesting as postherpetic neuralgia (PHN) — is a well-recognized complication of herpes zoster, arising from VZV-induced sensory nerve damage. Biologically, prompt and adequate antiviral treatment of the acute herpes zoster episode is plausible as a way to reduce the incidence or severity of subsequent neuralgia, which gives the TxGNN association some mechanistic face validity.
+Postherpetic neuralgia is the most common complication of herpes zoster. It is nerve pain that persists after the shingles rash has healed. Treating the acute zoster phase with an antiviral may reduce the risk or severity of the neuralgia that follows. This link is indirect. It rests on controlling the underlying viral infection, not on any proven pain-relieving or nerve-protective effect of famciclovir itself.
 
-However, the two clinical trials retrieved for this specific candidate (below) do not test famciclovir at all — one evaluates nerve-block anesthetics and the other evaluates oxycodone, both in the context of acute herpes zoster pain management. Neither trial provides direct evidence that famciclovir itself is effective for post-infectious neuralgia; the link here is disease-context proximity, not a tested intervention.
+The only linked trial tests early oxycodone use, not famciclovir. The prediction is therefore best treated as a research question, not an established new use.
 
 ---
 
@@ -66,8 +66,7 @@ However, the two clinical trials retrieved for this specific candidate (below) d
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT06798662](https://clinicaltrials.gov/study/NCT06798662) | N/A | Not Yet Recruiting | 120 | Evaluates liposomal bupivacaine and ropivacaine nerve blocks for acute herpes zoster pain; does not study famciclovir. |
-| [NCT03120962](https://clinicaltrials.gov/study/NCT03120962) | N/A | Unknown | 140 | Evaluates early oxycodone use during acute herpes zoster to prevent postherpetic neuralgia; does not study famciclovir. |
+| [NCT03120962](https://clinicaltrials.gov/study/NCT03120962) | Not applicable | Unknown | 140 | Tests early oxycodone during acute herpes zoster to prevent postherpetic neuralgia. Famciclovir is not the intervention, so this gives no direct evidence for famciclovir. |
 
 ---
 
@@ -79,15 +78,24 @@ Currently no related literature available.
 
 ## India Market Information
 
-No India market registrations are recorded in this evidence pack — famciclovir's India market status is listed as "Not Marketed" with 0 total licenses.
+Famciclovir has 18 valid registrations in India, all single-ingredient oral tablets. The table lists 5 of them. The data compiled for this report does not include approved indication text for these products.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 174328 | Penvir 250 Tablet (Hetero Drugs Ltd) | Strip of 6 tablets | Not specified |
+| Registration No. 233684 | Virovir 250 Tablet (FDC Ltd) | Strip of 6 tablets | Not specified |
+| Registration No. 87424 | Famtag 500mg Tablet (Ikon Remedies Pvt Ltd) | Strip of 3 tablets | Not specified |
+| Registration No. 84755 | Famtrex 500mg Tablet (Cipla Ltd) | Strip of 7 tablets | Not specified |
+| Registration No. 84301 | Famcimac 500 Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 3 tablets | Not specified |
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: A DDInter database query identified 84 potential interacting drugs; severity levels are not classified ("Unknown") in this dataset. A representative sample includes Calcitriol, Doxycycline, Clotrimazole, Pantoprazole, Glimepiride, Morphine, Metformin, Omeprazole, Palonosetron, and Rosiglitazone.
+- **Disease associations flagged in the knowledge graph (not label text)**: kidney disease and pyoureter. Renal function should be considered when dosing.
+- **Drug Interactions**: 84 potential interactions are recorded, all with an unclassified severity level. Examples include calcitriol, doxycycline, metformin, glimepiride, omeprazole, pantoprazole, morphine, simvastatin, prednisone and vancomycin. Their clinical significance has not been graded.
 
-Detailed warnings and contraindications are not available in this dataset — please refer to the package insert for this information.
+Please refer to the package insert for full warnings and contraindications.
 
 ---
 
@@ -96,13 +104,15 @@ Detailed warnings and contraindications are not available in this dataset — pl
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is not currently backed by direct clinical or literature evidence — the two retrieved trials study other interventions (nerve blocks, oxycodone) rather than famciclovir, and no publications address famciclovir specifically for post-infectious neuralgia. Combined with missing mechanism-of-action data and a blocking gap in package-insert safety data, the evidence base is too thin to advance.
+The high model score (99.75%) is not backed by famciclovir-specific evidence for post-infectious neuralgia. The only linked trial studies oxycodone, and no publications are linked. The proposed link is indirect: treating the acute zoster infection may reduce later neuralgia.
+
+For context, the same data shows stronger support for famciclovir in the related condition **chickenpox** (varicella-zoster virus infection). It has two completed Phase 3 trials: a pediatric pharmacokinetics and safety study (NCT00098046) and a zoster efficacy and safety study versus aciclovir (NCT01327144). That prediction is a better candidate to move forward.
 
 **To proceed, the following is needed:**
-- TFDA package insert warnings/contraindications (DG001, blocking)
-- Famciclovir mechanism of action data via DrugBank (DG002, high priority)
-- A direct search for trials or literature testing famciclovir (not just disease-context studies) for postherpetic/post-infectious neuralgia
-- Confirmation of India market/registration status, since none is currently on file
+- Trials or studies that directly test famciclovir for preventing or treating postherpetic neuralgia (for example, incidence of neuralgia after antiviral treatment in acute zoster)
+- Detailed mechanism of action data
+- Package insert warnings and contraindications for the Indian products, including approved indication text
+- A renal dosing plan, given the kidney disease association
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

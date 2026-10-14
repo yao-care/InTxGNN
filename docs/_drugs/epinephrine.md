@@ -2,7 +2,7 @@
 layout: default
 title: Epinephrine
 parent: High Evidence (L1-L2)
-nav_order: 311
+nav_order: 314
 evidence_level: L1
 indication_count: 4
 ---
@@ -29,120 +29,105 @@ Evidence Level: **L1** | Predicted Indications: **4**
 
 </div>
 
-# Epinephrine: From Anaphylaxis & Emergency Resuscitation to Obstructive Lung Disease
+# Epinephrine: From Asthma and Anaphylaxis to Obstructive Lung Disease
 
 ## One-Sentence Summary
 
-Epinephrine is a non-selective adrenergic agonist serving as a cornerstone emergency medicine for anaphylaxis, cardiac arrest, and severe bronchospasm globally—though it holds no registered product approvals in India.
-The TxGNN model predicts it may be effective for **Obstructive Lung Disease** (encompassing acute asthma exacerbations, viral bronchiolitis, and croup),
-with multiple completed clinical trials and **20 publications** currently supporting this direction.
-
----
+Epinephrine is a non-selective adrenergic agonist, originally used for conditions such as asthma, bronchitis, anaphylaxis, and open-angle glaucoma.
+The TxGNN model predicts it may be effective for **obstructive lung disease**, with **15 clinical trials** and **20 publications** currently supporting this direction.
+This is largely an extension of established use (asthma, bronchitis, emphysema) rather than a true new indication.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Anaphylaxis, cardiac arrest, severe bronchospasm (global standard; no India registration on record) |
-| Predicted New Indication | Obstructive Lung Disease |
+|------|------|
+| Original Indication | Open-angle glaucoma, bronchitis, hypotensive disorder, asthma, pulmonary emphysema, anaphylaxis, bronchiectasis (labeled indication text for the Indian licenses is not available) |
+| Predicted New Indication | Obstructive lung disease |
 | TxGNN Prediction Score | 99.71% |
 | Evidence Level | L1 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 8 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Epinephrine is a non-selective α/β-adrenergic receptor agonist that acts simultaneously across multiple receptor subtypes. Although a formal DrugBank MOA record was not retrieved in this analysis cycle, the drug's pharmacological profile is extremely well-established: **β2-receptor activation** relaxes bronchial smooth muscle and relieves airway spasm; **α1-receptor activation** produces mucosal vasoconstriction that reduces airway wall edema and secretion; and **β1-receptor activation** provides compensatory hemodynamic support. This triple mechanism makes epinephrine uniquely suited to conditions involving acute reversible airway obstruction.
+Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, epinephrine stimulates both beta and alpha adrenergic receptors. Beta-2 stimulation relaxes bronchial smooth muscle and produces bronchodilation, while alpha-1 stimulation reduces mucosal edema and airway secretions.
 
-Obstructive lung disease—spanning acute asthma exacerbations, viral bronchiolitis in infants, croup (laryngotracheobronchitis), and COPD exacerbations with bronchospasm—shares a core pathophysiology of airway narrowing driven by bronchospasm, mucosal edema, and mucus accumulation. Epinephrine's three-pronged pharmacological attack directly addresses all three components simultaneously, which no selective β2-agonist (such as salbutamol) can replicate alone. Notably, nebulized racemic epinephrine has been used in clinical practice for croup and bronchiolitis for decades, and inhaled epinephrine (Primatene Mist) holds FDA over-the-counter approval for asthma bronchospasm relief in the United States.
-
-The TxGNN prediction score of 99.71% strongly reflects this deeply validated mechanistic and clinical overlap. This is not a speculative repurposing hypothesis: the biological rationale is firmly established, supported by Cochrane-level systematic reviews and multiple completed Phase 3–4 trials. The central question for the India market is therefore not whether the drug works, but how to structure a regulatory pathway and clinical adoption framework given the complete absence of domestic product registration.
-
----
+Obstructive lung disease covers asthma and chronic obstructive pulmonary disease (COPD). Epinephrine is already associated with asthma, bronchitis, and emphysema, so this prediction is mostly an extension of established use. Evidence in the pediatric bronchiolitis subpopulation is mixed and shows limited sustained benefit.
 
 ## Clinical Trial Evidence
 
+Fifteen trials were compiled; the 10 most relevant are listed below.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01143051](https://clinicaltrials.gov/study/NCT01143051) | Phase 1/2 | Completed | 24 | Directly evaluated PK and safety of Epinephrine Inhalation Aerosol USP (E004, HFA-MDI new formulation) in healthy adults under augmented dose conditions; foundational study for inhaled epinephrine in obstructive lung disease |
-| [NCT04207840](https://clinicaltrials.gov/study/NCT04207840) | Phase 4 | Completed | 28 | Three-way crossover PK comparison of Primatene Mist (inhaled epinephrine 0.25 mg) vs epinephrine IM injection (0.30 mg) vs ProAir albuterol (0.18 mg) in healthy adults; characterized systemic exposure differences between routes |
-| [NCT01737905](https://clinicaltrials.gov/study/NCT01737905) | Phase 3 | Completed | 28 | Double-blind, placebo-controlled crossover RCT of E004 (inhaled epinephrine) single dose in children aged 4–11 with asthma; assessed bronchodilatory efficacy and safety in the pediatric obstructive lung disease population |
-| [NCT01705964](https://clinicaltrials.gov/study/NCT01705964) | Phase 4 | Completed | 49 | RCT of IM epinephrine (1:1000, weight-based) as adjunct to inhaled β2-agonists for severe pediatric asthma exacerbation; evaluated whether adding epinephrine improves outcomes beyond standard bronchodilator therapy alone |
-| [NCT00817466](https://clinicaltrials.gov/study/NCT00817466) | Phase 4 | Unknown | 500 | Large multicenter RCT of optimal inhalation treatment for infants aged 0–12 months with acute bronchiolitis in SE Norway; consistent with Nordic standard of care that routinely includes nebulized epinephrine as a treatment arm |
-| [NCT00114478](https://clinicaltrials.gov/study/NCT00114478) | N/A | Unknown | 600 | Head-to-head RCT comparing epinephrine vs albuterol in bronchiolitis (N=600); addresses which bronchodilator provides superior efficacy in this common pediatric obstructive lung condition |
-| [NCT02585531](https://clinicaltrials.gov/study/NCT02585531) | Phase 2 | Unknown | 100 | Three-arm trial of epinephrine, dexamethasone, and hypertonic saline in children with bronchiolitis; directly evaluates epinephrine's role in reducing disease severity score and hospitalization duration |
-| [NCT02586961](https://clinicaltrials.gov/study/NCT02586961) | Phase 2/3 | Terminated | 195 | Multicenter RCT of nebulized adrenaline + high-dose oral betamethasone vs placebo for acute bronchiolitis in emergency settings; terminated early but 195 subjects enrolled, providing usable safety and trend data |
-| [NCT00435994](https://clinicaltrials.gov/study/NCT00435994) | N/A | Completed | 59 | Assessed how nebulized aerosol medications (including epinephrine) improve airway function in infants with lower respiratory infections and bronchiolitis/RSV; included VEGF biomarker analysis |
-| [NCT01737892](https://clinicaltrials.gov/study/NCT01737892) | Phase 1/2 | Terminated | 21 | PK study using deuterium-labeled epinephrine (epinephrine-d3) to separate administered drug from endogenous catecholamine in volunteers; critical methodology for accurate PK characterization of inhaled E004 |
-
----
+| [NCT01357642](https://clinicaltrials.gov/study/NCT01357642) | Phase 3 | Completed | 373 | 12-week efficacy and safety of epinephrine HFA inhalation aerosol vs placebo and Primatene Mist in adolescents and adults with asthma |
+| [NCT01476904](https://clinicaltrials.gov/study/NCT01476904) | Phase 3 | Completed | 208 | 3-month double-blind safety extension of inhaled epinephrine (E004) in asthma, giving a 6-month safety profile |
+| [NCT01460511](https://clinicaltrials.gov/study/NCT01460511) | Phase 3 | Completed | 70 | 4-week placebo-controlled study of E004 in children aged 4-11 with asthma |
+| [NCT01737905](https://clinicaltrials.gov/study/NCT01737905) | Phase 3 | Completed | 28 | Single-dose crossover study of E004 in children aged 4-11 with asthma |
+| [NCT01705964](https://clinicaltrials.gov/study/NCT01705964) | Phase 4 | Completed | 49 | IM epinephrine as an adjunct to inhaled beta-2 agonists in severe pediatric asthma exacerbation |
+| [NCT04207840](https://clinicaltrials.gov/study/NCT04207840) | Phase 4 | Completed | 28 | Systemic exposure of Primatene Mist vs IM epinephrine vs ProAir in healthy adults |
+| [NCT01255709](https://clinicaltrials.gov/study/NCT01255709) | Phase 2 | Completed | 24 | Pharmacokinetics of epinephrine inhalation aerosol (E004) in healthy volunteers |
+| [NCT01834820](https://clinicaltrials.gov/study/NCT01834820) | Phase 4 | Completed | 120 | Epinephrine, dexamethasone and hypertonic saline in bronchiolitis (combination design, so effect is hard to attribute) |
+| [NCT00817466](https://clinicaltrials.gov/study/NCT00817466) | Phase 4 | Unknown | 500 | Optimal inhalation treatment for infants with acute bronchiolitis (results uncertain) |
+| [NCT00114478](https://clinicaltrials.gov/study/NCT00114478) | N/A | Unknown | 600 | Epinephrine vs albuterol in bronchiolitis |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [34593615](https://pubmed.ncbi.nlm.nih.gov/34593615/) | 2022 | Systematic Review / Meta-analysis | Thorax | Compared epinephrine vs selective β2-agonist in acute asthma in adults and children; found epinephrine non-inferior and potentially beneficial in pre-hospital severe/life-threatening asthma, challenging guideline restrictions |
-| [21678340](https://pubmed.ncbi.nlm.nih.gov/21678340/) | 2011 | Cochrane Review | Cochrane Database Syst Rev | Comprehensive systematic review of epinephrine for acute bronchiolitis; assessed efficacy vs placebo and other bronchodilators; provided the most definitive evidence base for epinephrine's role in this condition |
-| [14974006](https://pubmed.ncbi.nlm.nih.gov/14974006/) | 2004 | Cochrane Review | Cochrane Database Syst Rev | Earlier Cochrane review on epinephrine for bronchiolitis; demonstrated modest short-term benefit in mild-to-moderate bronchiolitis, establishing the evidence foundation that prompted subsequent larger trials |
-| [30488718](https://pubmed.ncbi.nlm.nih.gov/30488718/) | 2019 | Narrative Review | Expert Rev Respir Med | Synthesized 10 years (2009–2018) of evidence on racemic epinephrine, systemic corticosteroids, hypertonic saline, and high-flow oxygen therapy in infant bronchiolitis; clarifies epinephrine's current therapeutic position |
-| [19135584](https://pubmed.ncbi.nlm.nih.gov/19135584/) | 2009 | Clinical Review | Pediatr Clin North Am | Reviewed acute bronchiolitis and croup together; documented evidence for nebulized adrenaline providing temporary symptomatic benefit in both virally-induced obstructive conditions in early childhood |
-| [21486501](https://pubmed.ncbi.nlm.nih.gov/21486501/) | 2011 | Clinical Review | BMJ Clin Evid | Comprehensive clinical evidence review on bronchiolitis epidemiology and treatment; assessed epinephrine alongside other interventions within the systematic BMJ Clinical Evidence framework |
-| [4606289](https://pubmed.ncbi.nlm.nih.gov/4606289/) | 1974 | Clinical Study | Clin Pharmacol Ther | Direct comparison of bronchodilator effects of terbutaline vs epinephrine in patients with obstructive lung disease; early clinical pharmacology evidence establishing epinephrine's bronchodilatory efficacy |
-| [30856157](https://pubmed.ncbi.nlm.nih.gov/30856157/) | 2019 | Drug Update | Med Lett Drugs Ther | Reviewed the return of Primatene Mist (OTC inhaled epinephrine HFA) to the US market after CFC reformulation; summarizes the regulatory and clinical context for epinephrine in asthma management |
-| [6777857](https://pubmed.ncbi.nlm.nih.gov/6777857/) | 1980 | Cohort Study | Scand J Clin Lab Invest | Demonstrated elevated plasma noradrenaline in chronic obstructive lung disease patients, inversely correlated with arterial O₂ saturation; provides mechanistic evidence for sympathoadrenal axis dysregulation in COPD |
-| [11339733](https://pubmed.ncbi.nlm.nih.gov/11339733/) | 2001 | Systematic Review | Prehosp Emerg Care | Reviewed prehospital subcutaneous epinephrine use for asthma and anaphylaxis in elderly patients; addressed safety concerns and evidence levels for epinephrine across obstructive lung conditions in high-risk populations |
-
----
+| [35093318](https://pubmed.ncbi.nlm.nih.gov/35093318/) | 2022 | RCT | The Journal of Pediatrics | Corticosteroids plus nebulized epinephrine vs standard care for duration of positive pressure support in bronchiolitis in intensive care |
+| [33893229](https://pubmed.ncbi.nlm.nih.gov/33893229/) | 2021 | Network meta-analysis | Pediatrics | Comparative efficacy of bronchiolitis interventions in acute care |
+| [21678340](https://pubmed.ncbi.nlm.nih.gov/21678340/) | 2011 | Systematic review (Cochrane) | Cochrane Database of Systematic Reviews | Epinephrine for bronchiolitis |
+| [14974006](https://pubmed.ncbi.nlm.nih.gov/14974006/) | 2004 | Systematic review (Cochrane) | Cochrane Database of Systematic Reviews | Earlier Cochrane review of epinephrine for bronchiolitis |
+| [35953216](https://pubmed.ncbi.nlm.nih.gov/35953216/) | 2022 | Review | Emergency Medicine Clinics of North America | Emergency department evaluation and management of asthma and COPD exacerbations |
+| [30488718](https://pubmed.ncbi.nlm.nih.gov/30488718/) | 2019 | Review | Expert Review of Respiratory Medicine | Role of racemic epinephrine, corticosteroids, hypertonic saline and high-flow oxygen in pediatric bronchiolitis |
+| [21157348](https://pubmed.ncbi.nlm.nih.gov/21157348/) | 2011 | Review | Current Opinion in Pediatrics | No bronchiolitis treatment has conclusively been shown to alter disease course |
+| [23393929](https://pubmed.ncbi.nlm.nih.gov/23393929/) | 2012 | Review | Duodecim | Bronchiolitis overview; inhaled racemic epinephrine may be used when required |
+| [11940264](https://pubmed.ncbi.nlm.nih.gov/11940264/) | 2002 | Review | Critical Care | Clinical review of severe asthma and status asthmaticus |
+| [30856157](https://pubmed.ncbi.nlm.nih.gov/30856157/) | 2019 | Other | The Medical Letter on Drugs and Therapeutics | Return of OTC Primatene Mist |
 
 ## India Market Information
 
-Epinephrine (DrugBank ID: DB00668) currently holds **no registered product approvals in India** as of the data cutoff (2026-04-04). There are zero active marketing authorizations on record with the Central Drugs Standard Control Organisation (CDSCO).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 5924 | Adroglare 1mg Injection | Vial of 1 ml injection | Not available |
+| 73948 | Enatrate Injection | Vial of 1 ml injection | Not available |
+| 73617 | Epitrate Injection 1 ml | Vial of 1 ml injection | Not available |
+| 3008 | Adraclor Injection | Ampoule of 1 ml injection | Not available |
+| 233294 | Vasocon Injection | Vial of 1 ml injection | Not available |
 
-This absence from formal product registration likely reflects epinephrine's status as a long-established generic active pharmaceutical ingredient commonly stocked in hospital formularies, emergency departments, and crash carts without product-specific marketing authorization, rather than true clinical unavailability. Epinephrine ampoules (1:1000, 1:10000) and auto-injectors are recognized in Indian emergency medicine practice guidelines as essential medicines for anaphylaxis and cardiac resuscitation.
-
-For the obstructive lung disease indication specifically, no inhaled epinephrine formulation (HFA-MDI or nebulizer solution) appears to hold domestic market authorization. A formal regulatory dossier would need to be constructed from scratch.
-
----
+All 8 registrations are valid single-ingredient injectables. No inhaled product is registered in India according to the compiled data.
 
 ## Safety Considerations
 
-**Drug Interactions (385 interactions identified; key interactions listed below):**
+- **Contraindications (from knowledge-graph associations, not label text)**: hypertension, coronary artery disease, myocardial infarction, atrial fibrillation, heart conduction disease, sudden cardiac arrest, angle-closure glaucoma, diabetes mellitus and diabetic ketoacidosis, hyperthyroidism, liver and kidney disease, epilepsy, benign prostatic hyperplasia, respiratory failure, and myasthenia gravis, among others.
+- **Drug Interactions**: 385 interactions were identified. Major-level interactions include **amitriptyline** and **amoxapine**. Moderate-level interactions include beta-blockers (acebutolol, atenolol, betaxolol), other beta-agonists (formoterol, salbutamol, arformoterol), stimulants (amphetamine, methylphenidate, atomoxetine), antidiabetic agents (acarbose, alogliptin, albiglutide, acetohexamide), and antipsychotics (amisulpride, aripiprazole, asenapine).
 
-Epinephrine's broad adrenergic mechanism creates an extensive interaction landscape. The most clinically significant interactions are:
-
-- **Major interactions:**
-  - **Amitriptyline** (tricyclic antidepressant): Inhibits reuptake transporters → potentiates epinephrine's vasopressor and arrhythmogenic effects; risk of hypertensive crisis and severe dysrhythmia
-  - **Amoxapine** (tricyclic-related agent): Similar mechanism to amitriptyline; marked cardiovascular potentiation
-
-- **Notable Moderate interactions requiring clinical monitoring:**
-  - **Beta-blockers** (Acebutolol, Atenolol, Betaxolol): Competitive β-blockade abolishes bronchodilatory (β2) effect while leaving α-vasoconstriction unopposed → reflex bradycardia and paradoxical hypertension
-  - **Long-acting β2-agonists** (Formoterol, Arformoterol, Salbutamol): Additive adrenergic stimulation; compounding tachycardia, tremor, and hypokalemia risk
-  - **Antidiabetic agents** (Acarbose, Acetohexamide, Alogliptin, Albiglutide): Epinephrine elevates blood glucose via hepatic glycogenolysis and gluconeogenesis; may blunt glycemic control
-  - **Antipsychotics** (Amisulpride, Aripiprazole, Asenapine): QT-prolongation risk is compounded by epinephrine-induced tachycardia; cardiac monitoring warranted
-  - **Stimulants / ADHD agents** (Methylphenidate, Amphetamine, Benzphetamine, Atomoxetine): Additive sympathomimetic cardiovascular effects; risk of arrhythmia and hypertensive episodes
-
-Please refer to the approved package insert for complete contraindication, warning, and special population guidance, as formal product-level safety data was not available in this analysis cycle.
-
----
+Please also refer to the package insert for label-level warnings.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Epinephrine's efficacy in obstructive lung disease is supported by L1-level evidence—including two Cochrane systematic reviews, a 2022 meta-analysis published in *Thorax*, and multiple completed Phase 1–4 clinical trials that directly studied inhaled and injectable epinephrine in acute asthma, bronchiolitis, and croup. The mechanistic rationale (β2 bronchodilation + α1 mucosal decongestant + β1 cardiac support) is unambiguous, biologically well-validated, and without meaningful scientific controversy. The primary barrier to structured India market utilization is regulatory and logistical, not scientific.
+Several completed Phase 3 trials of inhaled epinephrine in asthma support efficacy and safety, and the use is consistent with established indications. However, the available product in India is injectable only, and the bronchiolitis evidence is mixed.
 
 **To proceed, the following is needed:**
+- Package insert warnings, contraindications, and approved indication text for the Indian licenses
+- Detailed mechanism of action data
+- Route and formulation assessment (inhaled vs injectable) for the obstructive lung disease use
+- Cardiovascular risk screening and interaction management plan, especially for patients on tricyclic antidepressants and beta-blockers
 
-- **Regulatory pathway assessment**: Evaluate whether existing global approvals (FDA OTC approval of Primatene Mist; established European precedents) support an expedited or bridging registration application with CDSCO for an inhaled epinephrine formulation
-- **Formulation strategy decision**: Define target indication and route of administration—inhaled HFA-MDI for asthma, nebulized racemic epinephrine for bronchiolitis/croup, or IM auto-injector for anaphylaxis—as each requires a separate regulatory submission and clinical dossier
-- **MOA documentation**: Retrieve complete DrugBank pharmacodynamics and pharmacokinetics data to finalize the mechanism-of-action section of any regulatory submission
-- **Safety dossier completion**: Obtain CDSCO-approved or equivalent prescribing information to formally document contraindications, warnings, and special population guidance; the current analysis identified a data gap at blocking severity
-- **Drug interaction risk stratification**: Given 385 identified interactions, develop a structured prescriber guidance document and pharmacovigilance monitoring protocol focused on highest-risk combinations (beta-blockers, tricyclic antidepressants, antidiabetics)
-- **India-specific pharmacoeconomic assessment**: Model cost-effectiveness vs. existing alternatives (salbutamol, ipratropium) for the obstructive lung disease setting in the Indian healthcare context
+---
+
+### Other Predicted Indications (for reference)
+
+| Predicted Indication | TxGNN Score | Evidence Level | Decision | Comment |
+|------|------|------|------|------|
+| Food-dependent exercise-induced anaphylaxis | 99.57% | L4 | Research Question | Strong mechanistic link as a subtype of anaphylaxis, but no registered trials; support is from reviews and case reports |
+| Rienhoff syndrome | 99.57% | L5 | Hold | No mechanistic rationale, trials, or literature; computational prediction only |
+| Respiratory malformation | 99.56% | L3 | Hold | Only a Phase 1 trial in transient tachypnea of the newborn (not a structural malformation); retrieved literature is largely off-target |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

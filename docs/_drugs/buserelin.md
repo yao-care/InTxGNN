@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Buserelin
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 124
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Buserelin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L4** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,76 +33,64 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Buserelin is a GnRH (gonadotropin-releasing hormone) agonist used clinically in the treatment of prostate cancer through suppression of sex hormone production via pituitary desensitization.
-The TxGNN model predicts it may be effective for **Hypertrichosis**, with **0 clinical trials** and **1 publication** currently supporting this direction — making the evidence base extremely thin.
-The single available publication addresses a rare genetic syndrome in which Buserelin plays no direct therapeutic role, and all five predicted indications in this pack are rated **Hold**.
+Buserelin is a GnRH (gonadotropin-releasing hormone) agonist peptide, used to treat prostate cancer.
+The TxGNN model predicts it may be effective for **hypertrichosis**, but only **0 clinical trials** and **1 publication** (a Cantu syndrome case report that does not describe buserelin treatment) are available, so the prediction rests almost entirely on the model.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Prostate cancer (sex hormone suppression therapy) |
+|------|------|
+| Original Indication | Prostate cancer (from pharmacology data; the approved indication text in the India licences is blank) |
 | Predicted New Indication | Hypertrichosis |
 | TxGNN Prediction Score | 99.75% |
-| Evidence Level | L5 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 6 |
 | Recommended Decision | Hold |
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on the pharmacology information retrieved, Buserelin is a synthetic GnRH agonist that targets the **GnRH1 receptor** (GNRHR, gene ID 2798). Paradoxically, chronic administration causes pituitary receptor downregulation, ultimately suppressing LH, FSH, and downstream sex hormones (testosterone and estrogen) — a state known as medical castration. This makes it effective in androgen-sensitive prostate cancer.
+Currently, detailed mechanism of action data is not available in the compiled records. Based on known pharmacology, buserelin is a GnRH agonist that acts on the GnRH receptor (GNRHR). With continued use it suppresses the pituitary-gonadal axis and lowers sex steroid levels, which is the basis of its use in prostate cancer.
 
-The theoretical bridge to hypertrichosis is built on the androgen axis: androgen-driven hair growth (as seen in hirsutism) can theoretically be reduced by androgen suppression. However, **hypertrichosis and hirsutism are pathophysiologically distinct**. Hypertrichosis denotes excess hair growth that is fundamentally non-androgenic in origin — its causes include genetic channelopathies (e.g., Cantú syndrome via ABCC9/KCNJ8 mutations), chromosomal rearrangements, and keratin structural defects. In these settings, GnRH axis manipulation has no meaningful biological rationale.
+By lowering sex steroids and, indirectly, androgens, buserelin could plausibly reduce androgen-driven excess hair growth (hirsutism). However, generalized or congenital hypertrichosis is not androgen-dependent, so the mechanistic link is weak.
 
-The sole supporting literature (PMID 31743099) documents a Cantú syndrome patient who developed multiple pituitary hormone deficiencies — a case emphasising the need for endocrine monitoring, not Buserelin therapy. The TxGNN high score for this group of indications most likely reflects shared "hair disorder" node proximity in the knowledge graph rather than a true drug–disease relationship.
+The only publication retrieved concerns Cantu syndrome, a condition that features hypertrichosis and hypopituitarism. It discusses endocrine monitoring and does not report buserelin treatment. The very high TxGNN score is a model prediction, not clinical evidence.
 
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Other predicted indications (Ambras type hypertrichosis universalis congenita, malformation syndromes with dental or periodontal involvement, Dandy-Walker malformation syndromes, and isolated genetic hair shaft abnormalities) have no trials or literature and no plausible GnRH-related mechanism. They likely reflect graph-propagation through shared hypertrichosis or hair-phenotype nodes.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [31743099](https://pubmed.ncbi.nlm.nih.gov/31743099/) | 2019 | Case Report | *Endocrinology, Diabetes & Metabolism Case Reports* | Cantú syndrome (hypertrichotic osteochondrodysplasia) presenting with multiple pituitary hormone deficiencies at age 13; supports endocrine monitoring in this rare genetic condition but contains no data on Buserelin treatment or hypertrichosis management |
+|------|-----|------|------|---------|
+| [31743099](https://pubmed.ncbi.nlm.nih.gov/31743099/) | 2019 | Review | Endocrinology, Diabetes & Metabolism Case Reports | Cantu syndrome (hypertrichosis with cardiac and skeletal anomalies) case with multiple pituitary hormone deficiencies; supports endocrine monitoring. No buserelin treatment reported. |
+
+Currently no clinical trials are registered for this prediction.
 
 ---
 
 ## India Market Information
 
-Buserelin currently has **no registered products in India** (0 approved licenses). Any clinical development pathway would require a full new drug application with CDSCO.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 27449 | Busarlin 0.5mg Injection | Vial of 1 ml injection | Not stated |
+| 207368 | Supradopin 0.5mg Injection | Vial of 1 ml injection | Not stated |
+| 31391 | Busag 5mg Injection | Vial of 1 injection | Not stated |
+| 28043 | Busarlin 7mg Injection | Vial of 7 ml injection | Not stated |
+| 31264 | Busag 0.5mg Injection | Vial of 1 injection | Not stated |
 
----
-
-## Cytotoxicity
-
-Buserelin is used in prostate cancer management and is classified as a hormonal anticancer agent.
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Hormonal therapy — GnRH agonist (not conventional cytotoxic) |
-| Myelosuppression Risk | Low — acts via hormonal suppression, no direct myelotoxic mechanism |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Serum testosterone/estradiol levels, bone mineral density (risk of osteoporosis with prolonged use), liver function tests |
-| Handling Protection | Standard drug handling applies; dedicated cytotoxic handling protocols are not required |
+A sixth licence (94767, Gynarich Injection, vial of 2.5 ml) is also valid. All six are single-ingredient injectables from Intas Pharmaceuticals, Serum Institute of India, and Zydus Cadila.
 
 ---
 
 ## Safety Considerations
 
-**Drug–Target Interaction:**
-Buserelin binds the **GnRH1 receptor** (GNRHR; Entrez Gene 2798, Ensembl ENSG00000109163) as a peptide agonist. Known trade names include Suprefact®, Metrelef®, and Receptal. Sustained GnRH receptor stimulation leads to desensitisation and sex hormone suppression — the basis for its clinical use but also a source of class-effect risks (hot flushes, bone loss, metabolic effects).
-
-Detailed warnings, contraindications, and drug interaction data from an Indian or international package insert were not available in the current evidence pack. Please refer to the originator SmPC (Suprefact® or equivalent) for complete prescribing safety information.
+Please refer to the package insert for safety information.
 
 ---
 
@@ -111,15 +99,13 @@ Detailed warnings, contraindications, and drug interaction data from an Indian o
 **Decision: Hold**
 
 **Rationale:**
-All five TxGNN-predicted indications for Buserelin are rated L5 (model prediction only, no clinical studies) with a unanimous Hold recommendation. The top-ranked prediction — hypertrichosis — lacks mechanistic plausibility because the predominant forms of this condition are non-androgenic (genetic channelopathies, chromosomal defects, keratin mutations) and therefore fall outside the GnRH–androgen axis that Buserelin modulates. The single supporting publication does not provide any clinical evidence for Buserelin's efficacy in any hair disorder.
+The prediction has a very high model score but no supporting trials, and the single publication does not involve buserelin. The mechanistic link is weak because congenital hypertrichosis is not driven by androgen or gonadal signaling.
 
 **To proceed, the following is needed:**
-
-- **Mechanistic clarification**: Identify whether any clinical subtype of hypertrichosis has a confirmed androgen-dependent component amenable to GnRH agonist suppression
-- **Preclinical data**: Animal or ex vivo hair follicle models demonstrating Buserelin's effect on non-androgenic hypertrichosis
-- **Targeted literature search**: Systematic search combining GnRH agonists with hypertrichosis, hirsutism, and hair shaft disorders (current evidence pack returned only 1 peripheral case report)
-- **Safety package**: Retrieve full package insert (warnings, contraindications, teratogenicity data) from the Suprefact® SmPC or equivalent international label
-- **India regulatory pathway assessment**: Determine whether a new drug application, or an extension of indication under an existing global dossier, is feasible given zero current India registrations
+- Package insert warnings and contraindications from the India regulator, which are required before any safety screening
+- Detailed mechanism of action data (for example from DrugBank)
+- Evidence that buserelin or other GnRH agonists have been used in hypertrichosis, or a clearer subtype (such as androgen-driven hirsutism) where the mechanism applies
+- Approved indication text for the India licences, to confirm the original indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

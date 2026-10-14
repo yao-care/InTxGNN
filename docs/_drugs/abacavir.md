@@ -29,96 +29,75 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-# Abacavir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+# Abacavir: From HIV Infection to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-Abacavir is a nucleoside reverse transcriptase inhibitor (NRTI) with well-established use in antiretroviral therapy for HIV-1 infection.
-The TxGNN model predicts it may be effective for **Simian Immunodeficiency Virus (SIV) Infection**,
-with **0 clinical trials** and **1 publication** currently supporting this direction.
-The mechanistic basis is strong in principle, but clinical applicability is largely limited to non-human primate models and occupational exposure scenarios.
-
----
+Abacavir is a nucleoside reverse transcriptase inhibitor originally used to treat HIV infection and AIDS.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus infection**, a veterinary/animal-model condition,
+but there are **0 clinical trials** and only **1 publication** (an in vitro study), so the evidence is indirect and preclinical.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | HIV-1 infection (antiretroviral combination therapy) |
-| Predicted New Indication | Simian Immunodeficiency Virus (SIV) Infection |
+|------|------|
+| Original Indication | HIV infectious disease; AIDS |
+| Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 99.79% |
 | Evidence Level | L4 |
-| India Market Status | ✗ Not marketed |
-| Number of Registrations | 0 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 9 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the evidence pack. Based on the clinical context across the available evidence, Abacavir is an NRTI whose active metabolite — carbovir triphosphate — competitively inhibits the viral reverse transcriptase enzyme and terminates proviral DNA chain elongation. This mechanism is the cornerstone of its established efficacy in HIV-1 infection.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, abacavir belongs to the nucleoside reverse transcriptase inhibitor (NRTI) class. It is phosphorylated inside cells to carbovir triphosphate, which terminates viral DNA chain elongation. This description comes from general knowledge of the drug class, not from the supplied data.
 
-SIV (Simian Immunodeficiency Virus) and HIV-1 are both members of the *Lentivirus* genus and share high sequence homology in their reverse transcriptase domains. Because Abacavir's active metabolite directly targets the RT active site — a structurally conserved region across lentiviruses — its inhibitory activity is expected to extend to SIV RT via the same chain-termination mechanism. This cross-species extrapolation is mechanistically sound and not merely speculative.
+SIV is a lentivirus closely related to HIV and uses the same reverse transcriptase-dependent replication cycle. Mechanistically, activity against SIV is plausible. The very high TxGNN score is consistent with this close biological similarity to the approved HIV indication.
 
-However, the practical clinical context is significantly limited. SIV primarily infects non-human primates; it is not a human pathogen under ordinary circumstances. Therapeutic relevance for Abacavir in this setting is therefore confined to: (1) animal model research for HIV pathogenesis and drug development, and (2) post-exposure prophylaxis in occupational accidents involving SIV-infected primates. These are niche scientific rather than mainstream clinical applications.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Abacavir in simian immunodeficiency virus infection.
-
----
+SIV infection is an animal-model/veterinary condition, not a human therapeutic target. This limits its value as a repurposing opportunity for human medicine. Two other predictions were also reviewed:
+- **Feline acquired immunodeficiency syndrome** (score 99.79%): FIV is also a reverse transcriptase-dependent lentivirus. One 2002 preclinical study tested a zidovudine + lamivudine + abacavir combination against FIV in vitro. It did not isolate abacavir's contribution. Evidence level L4.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 99.78%): No trials, no literature, and no clear mechanistic link. Evidence level L5. Any connection would be speculative.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro comparative study | Antiviral Therapy | Evaluated 16 approved antiretroviral drugs against HIV-2, SIV (mac251, B670), and SHIV strains; demonstrated that multiple NRTI-class drugs retain activity against SIV reverse transcriptase, providing direct in vitro evidence for cross-species antiviral susceptibility relevant to treatment and post-exposure prophylaxis guidance |
-
----
+|------|-----|------|------|---------|
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro susceptibility study / Review | Antiviral Therapy | Evaluated 16 approved anti-HIV drugs and one experimental drug (AMD3100) against HIV-2, SIV and SHIV strains to inform treatment and post-exposure prophylaxis |
 
 ## India Market Information
 
-Abacavir is currently **not registered or marketed in India**. No authorisation records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 7370 | A Bec L 600mg/300mg Tablet | Strip of 30 tablets | Not stated |
+| 108303 | Inbec Tablet | Bottle of 30 tablets | Not stated |
+| 1957 | Abamune Tablet | Strip of 30 tablets | Not stated |
+| 236242 | Virol 300mg Tablet | Bottle of 60 tablets | Not stated |
+| 2296 | Abamune L 600 mg/300 mg Tablet | Strip of 30 tablets | Not stated |
 
----
+Nine valid single-ingredient registrations exist in total. Only the first five are listed here.
 
 ## Safety Considerations
 
-**Drug Interactions:** A total of 93 drug interactions have been identified via DDInter. Key interactions include:
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: liver failure, liver disease, fatty liver disease, non-alcoholic steatohepatitis, kidney disease, pancreatitis, gallbladder disease, pyoureter, lactic acidosis, neutropenia, agranulocytosis, anemia (including macrocytic anemia), hypertriglyceridemia, obesity disorders, myopathy and other muscle diseases (including myositis, dermatomyositis and familial periodic paralysis).
+- **Drug Interactions**: 93 interactions were recorded. Moderate-level interactions include **naltrexone** and **orlistat**. Other recorded interacting drugs, whose severity is not classified, include metformin, omeprazole, pantoprazole, lansoprazole, morphine, prednisone, hydrocortisone, vancomycin, amphotericin B, glimepiride and rosiglitazone.
+- **Known class concern**: HLA-B*57:01-associated hypersensitivity is a recognised safety consideration for abacavir.
 
-| Interacting Drug | Interaction Level |
-|-----------------|------------------|
-| Naltrexone | Moderate |
-| Orlistat | Moderate |
-| Morphine | Unknown |
-| Metformin | Unknown |
-| Prednisone | Unknown |
-| Amphotericin B | Unknown |
-| Sulfasalazine | Unknown |
-| Vancomycin | Unknown |
-
-The majority of interactions are classified as "Unknown" severity, indicating limited characterisation data. The two moderate-level interactions (Naltrexone, Orlistat) warrant clinical attention when co-administered.
-
-For complete warnings, contraindications, and precautions, please refer to the approved package insert (e.g., Ziagen® prescribing information), as this data was not available in the current evidence pack.
-
----
+Please refer to the package insert for full warnings and contraindications, as label text was not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link between Abacavir and SIV is biologically coherent given the shared lentiviral RT structure, but clinical evidence is limited to a single in vitro comparative study with no registered clinical trials. Furthermore, SIV infection is not a human disease — the clinical use case is restricted to animal model research or rare occupational post-exposure scenarios, which substantially limits the drug repurposing value from a public health or commercial development perspective.
+The only support is an indirect in vitro study and a plausible NRTI mechanism. There are no clinical trials. SIV is an animal-model condition without a human treatment need, so there is no clear path to a human repurposing program. The feline and neurodevelopmental predictions are no stronger.
 
 **To proceed, the following is needed:**
-
-- **MOA data**: Retrieve full DrugBank mechanism-of-action entry for Abacavir to complete the mechanistic rationale analysis
-- **Safety data**: Download and parse the approved package insert (e.g., from FDA or EMA) to obtain formal warnings, contraindications, and black-box alerts — currently a blocking data gap (DG001)
-- **Preclinical activity data**: Identify published in vivo studies confirming Abacavir activity against SIV in non-human primate models to upgrade evidence from L4 toward L3
-- **Clinical context clarification**: Define the specific use case (animal model support vs. occupational PEP) before proceeding with any further regulatory or development planning
-- **India registration strategy**: If clinical application is pursued (e.g., PEP guidelines), assess regulatory pathway under CDSCO for new indication filing, given that Abacavir is currently entirely unregistered in India
+- Clarification of whether any human-relevant use exists for an SIV indication, or whether it serves only as a research model
+- Package insert warnings and contraindications from the Indian regulatory sources (a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- Abacavir-specific (not combination) preclinical data in SIV or FIV models
+- Review of knowledge-graph links for the neurodevelopmental disorder prediction, if it is to be pursued
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

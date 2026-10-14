@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Obeticholic Acid
-parent: Model Prediction Only (L5)
-nav_order: 606
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 611
+evidence_level: L4
 indication_count: 6
 ---
 
 # Obeticholic Acid
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Obeticholic Acid: From Cholestatic Liver Disease to Rheumatoid Arthritis
+# Obeticholic Acid: From Liver Disease Therapy to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-Obeticholic acid (DrugBank DB05990) is not currently marketed in Taiwan, and this evidence pack contains no record of its original approved indication or formal mechanism-of-action data. The TxGNN model's top prediction suggests possible activity in **Rheumatoid Arthritis**, but this is supported by **0 clinical trials** and only **3 loosely related publications** (none of which directly studies obeticholic acid in rheumatoid arthritis). Five additional lower-ranked predictions were also reviewed and are assessed as very weak or likely noise (see below).
-
----
+Obeticholic acid is a potent FXR (farnesoid X receptor) agonist marketed in India as an oral tablet. The data compiled for this report do not include its approved indication text.
+The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but there are **no registered clinical trials** and only **one directly relevant preclinical study** (rat arthritis model) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no Taiwan license data provided (drug not marketed) |
+| Original Indication | Not available in the data compiled for this report (all license records have empty indication text) |
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.67% |
-| Evidence Level | L5 (model prediction only, no direct supporting studies) |
-| Taiwan Market Status | ✗ Not Marketed (Not marketed) |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed, drug-label-grade mechanism-of-action data is currently a documented data gap (DG002, High severity) — DrugBank was queried but no formal MOA text is available in this pack. Based on information embedded in the model's own rationale, obeticholic acid acts as a **Farnesoid X receptor (FXR) agonist**, regulating bile acid metabolism and hepatic inflammation. This is consistent with its known international use (outside this evidence pack) for cholestatic liver conditions such as primary biliary cholangitis — though no Taiwan indication or license record exists to confirm this locally.
+Detailed mechanism of action data is not formally available in the compiled data. Based on known information, obeticholic acid is a potent FXR agonist. FXR activation has anti-inflammatory effects, such as suppression of NF-κB signalling and pro-inflammatory cytokines, which provides a plausible link to autoimmune arthritis.
 
-The proposed link to rheumatoid arthritis rests on the fact that FXR is expressed in certain immune cell populations, giving a theoretical basis for anti-inflammatory activity beyond the liver. However, the rationale accompanying this prediction explicitly states that **no literature or clinical hypothesis directly connects FXR agonism to rheumatoid arthritis pathophysiology** — the three retrieved publications discuss primary biliary cholangitis, autoimmune hepatitis animal models, and herbal-drug-induced liver injury in RA patients, none of which studies obeticholic acid in an RA context.
+A 2026 preclinical study (PMID 42758264) reported that obeticholic acid attenuated Complete Freund's Adjuvant-induced arthritis in rats through FXR-mediated modulation of the TGF-β/TAK1/MKK3/p38 MAPK pathway, inflammation and oxidative stress. A second study (PMID 33704005) showed that FXR activation protected against liver injury caused by Tripterygium wilfordii preparations, which are used to treat RA. This suggests a possible hepatoprotective role alongside RA therapy rather than direct disease modification.
 
-The remaining five model predictions (conjunctivitis; colobomatous microphthalmia-rhizomelic dysplasia syndrome; brachydactyly-syndactyly syndrome; brain small vessel disease 1 with ocular anomalies; autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome) have no clinical trials and either no literature or literature that the model's own rationale flags as **keyword co-occurrence noise** rather than genuine mechanistic signal (e.g., 19 ophthalmology case reports/reviews unrelated to bile acid or FXR biology). None of these six candidates currently rises above a purely computational signal.
-
----
+No human data exist in RA, so this remains a research question rather than a validated repurposing candidate.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [32299307](https://pubmed.ncbi.nlm.nih.gov/32299307/) | 2020 | Review | United European Gastroenterology Journal | Diagnosis/treatment review of primary biliary cholangitis; does not address rheumatoid arthritis |
-| [35903109](https://pubmed.ncbi.nlm.nih.gov/35903109/) | 2022 | Review | Frontiers in Immunology | Reviews animal models of autoimmune hepatitis and related cholestatic autoimmune liver diseases; treatment reliant on bile acid analogues, no RA linkage |
-| [33704005](https://pubmed.ncbi.nlm.nih.gov/33704005/) | 2021 | Preclinical/Animal | Xenobiotica | FXR activation prevents liver injury from *Tripterygium wilfordii* preparations (used to treat RA); relevance is indirect — about hepatoprotection during RA drug therapy, not OCA's efficacy in RA itself |
+| [42758264](https://pubmed.ncbi.nlm.nih.gov/42758264/) | 2026 | Preclinical animal study | Inflammopharmacology | Obeticholic acid attenuated CFA-induced arthritis in rats via FXR-mediated modulation of TGF-β/TAK1/MKK3/p38 MAPK signalling, inflammation and oxidative stress |
+| [33704005](https://pubmed.ncbi.nlm.nih.gov/33704005/) | 2021 | Preclinical study | Xenobiotica | FXR activation prevented liver injury induced by Tripterygium wilfordii preparations (used in RA) in mice |
+| [32299307](https://pubmed.ncbi.nlm.nih.gov/32299307/) | 2020 | Review | United European Gastroenterol J | Diagnosis and treatment of primary biliary cholangitis, an autoimmune liver disease (background context) |
+| [35903109](https://pubmed.ncbi.nlm.nih.gov/35903109/) | 2022 | Review | Front Immunol | Animal models of autoimmune hepatitis and treatment of autoimmune liver diseases (background context) |
 
----
+## India Market Information
 
-## Taiwan Market Information
+Showing 5 of 20 valid single-ingredient registrations (all oral tablets, strips of 10). Approved indication text is not available for these records.
 
-Obeticholic acid is not currently marketed in Taiwan — no license or product registration records exist in the regulatory database queried for this pack.
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 169175 | Obent 10mg Tablet | Strip of 10 tablets | TNT Lifesciences |
+| 104598 | Hebexr 10 Tablet | Strip of 10 tablets | La Renon Healthcare Pvt Ltd |
+| 161679 | Obetohep 10mg Tablet | Strip of 10 tablets | Alkem Laboratories Ltd |
+| 162630 | Obstela 10 Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
+| 162745 | Obitocip 10 Tablet | Strip of 10 tablets | Cipla Ltd |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 50 interactions on record (DDInter database). Notable entries include:
+Package insert warnings and contraindications could not be retrieved. Please refer to the package insert for safety information.
 
-| Interacting Drug | Severity |
-|---|---|
-| Grazoprevir | Major |
-| Lidocaine, Caffeine, Alosetron, Anagrelide, Asenapine, Bendamustine, Cholestyramine, Clomipramine, Clozapine, Colesevelam, Colestipol, Cyclobenzaprine, Duloxetine, Theophylline, Aminophylline, Anisindione, Dicoumarol, Flutamide | Moderate |
-| Esomeprazole | Minor |
-
-Key warnings and contraindications are not available in this evidence pack (flagged as a Blocking data gap, DG001 — TFDA label not yet retrieved). Please refer to the package insert once available for full safety information.
-
----
+**Drug Interactions:** 50 interactions were identified in the interaction database. Examples of the main ones:
+- **Major:** Grazoprevir
+- **Moderate:** Lidocaine, caffeine, theophylline, aminophylline, clozapine, duloxetine, clomipramine, flutamide, anisindione, dicoumarol (anticoagulant-related), and bile acid sequestrants (cholestyramine, colesevelam, colestipol)
+- **Minor:** Esomeprazole
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (rheumatoid arthritis) has no clinical trials and only tangential, non-mechanistic literature support, corresponding to evidence level L5. All other predicted indications in this candidate set are equally or more weakly supported, with several assessed by the model's own rationale as likely co-occurrence noise rather than real signal. There is no basis at this time to advance any of these indications past a purely computational hypothesis.
+The high TxGNN score is supported only by a single rat arthritis study and indirect mechanistic reasoning. There are no human studies or registered trials, and package insert safety information is missing, so the candidate remains at the research-question stage.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent) label data — key warnings and contraindications (Blocking gap, DG001)
-- Formal DrugBank mechanism-of-action confirmation (High-priority gap, DG002)
-- Any direct preclinical or clinical evidence specifically testing obeticholic acid/FXR agonism in rheumatoid arthritis, since none currently exists
-- Reassessment of lower-ranked candidates only if new literature or trial data emerges — current evidence does not justify further investment
+- Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)
+- Approved indication and detailed mechanism of action data
+- Replication of the preclinical findings in additional arthritis models
+- Early-phase human studies, with attention to hepatic safety and interactions with commonly used RA therapies
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

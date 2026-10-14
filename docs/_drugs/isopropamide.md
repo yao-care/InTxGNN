@@ -2,7 +2,7 @@
 layout: default
 title: Isopropamide
 parent: Model Prediction Only (L5)
-nav_order: 447
+nav_order: 451
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,81 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Isopropamide: From Anticholinergic Agent to Gastroduodenitis
+# Isopropamide: From Peptic Ulcer Disease to Gastroduodenitis
 
 ## One-Sentence Summary
 
-Isopropamide is an anticholinergic (antimuscarinic) agent with no currently recorded approved indications in the dataset; its pharmacological class suggests historical use in gastrointestinal spasm and acid-related conditions.
-The TxGNN model predicts it may be relevant for **Gastroduodenitis** (rank 1) and **Overactive Bladder** (rank 2).
-However, **zero clinical trials and zero publications** were identified for either indication, placing the overall evidence at the lowest tier.
-
----
+Isopropamide is an antimuscarinic (anticholinergic) drug originally used to treat peptic ulcer disease.
+The TxGNN model predicts it may be effective for **gastroduodenitis**,
+but currently there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No approved indication on record |
-| Predicted New Indication | Gastroduodenitis (rank 1); Overactive Bladder (rank 2) |
-| TxGNN Prediction Score | 99.99% (Gastroduodenitis); 99.88% (Overactive Bladder) |
-| Evidence Level | L5 — Model prediction only, no actual studies |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+|------|------|
+| Original Indication | Peptic ulcer disease (the licence records contain no indication text, so this comes from the knowledge-graph indication data) |
+| Predicted New Indication | Gastroduodenitis |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 6 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Isopropamide belongs to the anticholinergic (antimuscarinic) drug class. Agents of this class act by blocking muscarinic acetylcholine receptors — in particular the M3 subtype — thereby reducing smooth muscle contraction and secretory activity in the gastrointestinal and urogenital tracts. This mechanism is consistent with the TxGNN model's two top predictions.
+Currently, detailed mechanism of action data is not available. Based on known information, isopropamide is a quaternary ammonium antimuscarinic agent. Its use in peptic ulcer disease is established, and mechanistically it may be applicable to gastroduodenitis.
 
-For **Gastroduodenitis** (rank 1): Antimuscarinic agents theoretically reduce gastric acid output by inhibiting M3 receptors on gastric parietal cells and relieve associated cramping by reducing smooth muscle tone in the duodenal wall. This creates an indirect pharmacological link to the inflammatory symptom complex seen in gastroduodenitis. However, modern gastroduodenitis management has largely shifted to proton pump inhibitors (PPIs) and *H. pylori* eradication regimens, rendering anticholinergic therapy a marginal and outdated approach. The TxGNN high score (0.9999) most likely reflects knowledge-graph node proximity — i.e., shared pathway nodes — rather than direct clinical utility.
+Blocking muscarinic receptors can reduce gastric acid secretion and gastrointestinal motility and spasm. These effects are plausibly relevant to inflammatory conditions of the stomach and duodenum. Gastroduodenitis is also closely related to the approved use, peptic ulcer disease, since both affect the same part of the upper gastrointestinal tract.
 
-For **Overactive Bladder (OAB)** (rank 2): This is the pharmacologically more compelling repurposing direction. Isopropamide's antimuscarinic mechanism is identical to that of established OAB therapies such as oxybutynin, tolterodine, solifenacin, and darifenacin — all of which block bladder detrusor M3 receptors to suppress involuntary contractions. Class-level evidence for M3 antagonism in OAB is rated L1. Nevertheless, isopropamide itself has no OAB-specific clinical data, and the drug is currently off-market with an incomplete safety database.
+This link is inferred from the drug class and has not been confirmed. The very high TxGNN score is likely driven by how close this disease is to the existing peptic ulcer indication.
 
-Currently, detailed mechanism of action data (MOA) for isopropamide is not available in the provided dataset. The mechanistic reasoning above is inferred from known anticholinergic pharmacology and the explanatory notes embedded in the Evidence Pack's repurposing rationale.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for either predicted indication.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for either predicted indication.
-
----
+**A second prediction** is overactive bladder (score 99.88%). Antimuscarinics are an established class for this condition, because they reduce involuntary bladder muscle contractions. However, isopropamide is a quaternary ammonium compound with limited tissue penetration, and no bladder-specific data are available. It would also need to be compared against better-characterised approved antimuscarinics such as oxybutynin, tolterodine and solifenacin. It also has no supporting trials or literature and is rated L5 / Hold.
 
 ## India Market Information
 
-Isopropamide has **no registered products** in India. No authorization records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 201096 | Stelabid 5mg/1mg Tablet | Strip of 10 tablets | Not specified |
+| 199806 | Stelbid Tablet | Strip of 10 tablets | Not specified |
+| 202024 | Stelbid 5mg/2mg Tablet | Strip of 10 tablets | Not specified |
+| 202131 | Spascol 5mg/1mg Tablet | Strip of 10 tablets | Not specified |
+| 96257 | Gastobid Tablet | Strip of 10 tablets | Not specified |
 
----
+All 6 registrations are valid single-ingredient entries (the table lists the first 5). The remaining registration is Stelbid 2 Tablet (200066). All are oral tablets.
 
 ## Safety Considerations
 
-Please refer to the package insert (or historical drug monographs) for safety information. No warnings, contraindications, or drug interaction data were available in the current dataset. As the drug is not currently marketed in India, independent safety review is essential before any clinical development pathway is initiated.
+- **Conditions flagged in the knowledge graph as contraindications** (from drug-disease relationships in the TxGNN knowledge graph, not from package insert text):
+  - Cardiovascular: hypertension, orthostatic hypotension, postural orthostatic tachycardia syndrome, multiple system atrophy, long QT syndrome (including familial), torsades de pointes, coronary artery disease, myocardial infarction, coronary thrombosis
+  - Neurological: epilepsy, basal ganglia disease, focal hand dystonia, blepharospasm
+  - Gastrointestinal, hepatic and renal: gastric ulcer, kidney disease, pyoureter, liver disease, gallbladder disease
+  - Haematological: thrombocytopenia, neutropenia, agranulocytosis
+  - Other: hyperglycaemia, benign prostatic hyperplasia, obesity disorders (including monogenic obesity), substance abuse/dependence, female breast carcinoma
+- **Class-related adverse effects** to consider: dry mouth, constipation, urinary retention, and cognitive effects.
 
----
+Please refer to the package insert for label-based warnings, contraindications and drug interaction information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence base for Isopropamide in both predicted indications is at the L5 level (model prediction only, no supporting studies). The drug is not marketed in India and has zero safety data on file — formal development cannot proceed responsibly without first resolving fundamental data gaps.
+The prediction rests only on a computational score and class-level mechanistic reasoning. No clinical trials or publications support it, and neither label-based safety data nor mechanism of action data are available. Gastroduodenitis is closely related to the approved peptic ulcer use, which makes the prediction plausible but not yet evidence-backed.
 
 **To proceed, the following is needed:**
-
-- **MOA data**: Confirm receptor-binding profile and selectivity from DrugBank or published pharmacology literature
-- **Safety package**: Retrieve historical prescribing information (package insert, WHO monograph, or archived regulatory filings) to characterise warnings, contraindications, and known adverse effects
-- **Drug interaction profile**: Assess anticholinergic drug-drug interactions, especially with other CNS-active or narrow-therapeutic-index agents
-- **Indication prioritisation**: If development is pursued, the **Overactive Bladder** direction (rank 2, L4 by class-effect inference) offers a stronger mechanistic justification than Gastroduodenitis (rank 1, L5); recommend redirecting primary analysis to OAB
-- **Regulatory feasibility assessment**: Determine whether isopropamide was voluntarily withdrawn or formally recalled, as this has direct implications for regulatory re-entry strategy
-- **Preclinical data review**: Search for any archived in vitro/in vivo studies to establish a minimum evidence floor before considering Phase 1 planning
+- Package insert warnings and contraindications from the Indian regulator, to enable safety screening
+- Detailed mechanism of action data (for example from DrugBank)
+- Clinical or observational evidence for gastroduodenitis (trials or literature)
+- Approved indication text for the registered products
+- Route and dosing compatibility assessment for the new indication
+- For overactive bladder, a comparison against approved antimuscarinics and an assessment of tissue penetration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

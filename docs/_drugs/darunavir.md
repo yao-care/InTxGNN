@@ -2,15 +2,15 @@
 layout: default
 title: Darunavir
 parent: Moderate Evidence (L3-L4)
-nav_order: 232
-evidence_level: L3
+nav_order: 234
+evidence_level: L4
 indication_count: 4
 ---
 
 # Darunavir
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **4** 
+Evidence Level: **L4** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,93 +29,83 @@ Evidence Level: **L3** | Predicted Indications: **4**
 
 </div>
 
-# Darunavir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+# Darunavir: From HIV Infection to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-Darunavir is an HIV-1 protease inhibitor, originally developed and approved as a core component of combination antiretroviral therapy (ART) for HIV-1 infection in adults and paediatric patients.
-The TxGNN model predicts it may be effective for **Simian Immunodeficiency Virus (SIV) Infection**,
-with **0 clinical trials** and **4 publications** — all non-human primate (NHP) animal model studies — currently supporting this direction.
-
----
+Darunavir is an HIV-1 protease inhibitor, originally used to treat HIV infection and AIDS.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus (SIV) infection**, but there are **no registered clinical trials** and only **4 preclinical (macaque) publications** that support this indirectly.
+This is essentially an animal-model counterpart of the existing HIV indication, so its value as a new human use is minimal.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | HIV-1 infection (combination antiretroviral therapy) |
-| Predicted New Indication | Simian Immunodeficiency Virus (SIV) Infection |
+|------|------|
+| Original Indication | HIV infectious disease; AIDS |
+| Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L3 |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 8 |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, darunavir is an HIV-1 protease inhibitor, its efficacy in HIV infection is established, and mechanistically it may be applicable to SIV infection.
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on established pharmacological knowledge, Darunavir is a second-generation HIV-1 protease inhibitor. It binds tightly to the active site of the HIV-1 protease enzyme, blocking cleavage of the Gag-Pol polyprotein precursor into functional viral structural proteins — thereby halting viral maturation and preventing the production of new infectious viral particles. It is routinely co-administered with a pharmacokinetic booster (ritonavir or cobicistat) to maintain therapeutic plasma concentrations.
+SIV is the non-human primate analogue of HIV, and its protease is structurally related to HIV protease. A mechanistic link is therefore plausible. The retrieved literature, however, consists of macaque studies in which combination antiretroviral regimens (which may include protease inhibitors) served as backbone therapy to study viral reservoirs, latency reversal and long-acting formulations. Darunavir-specific efficacy cannot be confirmed from these studies.
 
-SIV (Simian Immunodeficiency Virus) and HIV-1 are closely related lentiviruses within the primate lentivirus family. Their protease enzymes share significant structural homology, which underpins the biological rationale for Darunavir's activity in SIV models. All four supporting publications use SIV-infected rhesus macaques as the experimental platform — the gold-standard animal model for studying HIV pathogenesis, ART strategies, and viral reservoir dynamics. Darunavir appears in these regimens as an established ART backbone drug.
+The very high score most likely reflects the closeness of SIV to HIV in the knowledge graph. SIV infection is a veterinary/preclinical model indication rather than a human therapeutic target, and it largely restates the existing HIV indication.
 
-However, a critical contextual note is required: **SIV infection in macaques is a translational bridge model for HIV research, not an independent clinical repurposing indication**. The TxGNN knowledge graph captures mechanistic similarity between SIV and HIV-1, which generates a high prediction score — but the clinical value of this output must be interpreted with care. This "repurposing" reflects Darunavir's role in pre-clinical HIV science, not a new therapeutic application for a distinct human disease.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Darunavir in simian immunodeficiency virus infection.
-
----
+Other predictions in the list are weaker:
+- **Feline acquired immunodeficiency syndrome** (99.97%): The FIV protease is homologous to HIV protease but differs in substrate specificity and inhibitor sensitivity. No trials or literature were found, and it is a veterinary indication.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (99.97%): No plausible mechanistic link. The score appears to be a knowledge-graph artifact.
+- **Obsolete familial combined hyperlipidemia** (99.19%): No mechanistic rationale. Protease inhibitors are associated with adverse lipid effects, and the term is obsolete.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [26150024](https://pubmed.ncbi.nlm.nih.gov/26150024/) | 2016 | Animal Model (NHP/SIV) | AIDS Research and Human Retroviruses | Evaluated two novel injectable cART regimens including Darunavir in SIVmac239-infected rhesus macaques; demonstrated effective suppression of SIV replication to clinically relevant levels, supporting use of this model for HIV eradication research |
-| [25033210](https://pubmed.ncbi.nlm.nih.gov/25033210/) | 2014 | Animal Model (NHP/SIV) | PLoS ONE | Studied SIV-infected Chinese-origin rhesus macaques on intensive Darunavir-containing cART combined with HDAC inhibitor SAHA; investigated viral reservoir dynamics and persistence despite virologic suppression |
-| [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | Animal Model (NHP/SIV) | PLoS Pathogens | Highly intensified multidrug ART including Darunavir in SIVmac251-infected macaques achieved long-term viral suppression across a wide range of viral loads and significantly restricted the size of the viral reservoir |
-| [21505294](https://pubmed.ncbi.nlm.nih.gov/21505294/) | 2011 | Animal Model (NHP/SIV) | AIDS (London) | Gold compound auranofin tested alongside Darunavir-containing cART in SIV monkey model; demonstrated impact on CD4+ T cell phenotype and lentiviral reservoir cell persistence, with post-ART viral containment observed |
+|------|-----|------|------|---------|
+| [25033210](https://pubmed.ncbi.nlm.nih.gov/25033210/) | 2014 | Preclinical (non-human primate) | PloS one | SIV-infected Chinese rhesus macaques given intensive combination antiretroviral therapy plus 3 weeks of the histone deacetylase inhibitor SAHA, to model viral reservoirs |
+| [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | Preclinical (non-human primate) | PLoS pathogens | A highly intensified multidrug ART regimen in SIVmac251-infected macaques across a wide range of viremia, assessing viral suppression and reservoir restriction |
+| [21505294](https://pubmed.ncbi.nlm.nih.gov/21505294/) | 2011 | Preclinical (non-human primate) | AIDS | The gold compound auranofin restricted the viral reservoir in the monkey AIDS model and contained viral load after ART suspension |
+| [26150024](https://pubmed.ncbi.nlm.nih.gov/26150024/) | 2016 | Preclinical (non-human primate) | AIDS Res Hum Retroviruses | Two novel coformulated injectable cART regimens evaluated in SIVmac239-infected rhesus macaques |
 
----
+No related clinical trials are currently registered.
 
 ## India Market Information
 
-Darunavir currently has **no registered products in India** (0 authorizations on record). No market authorization table is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| 63782 | Danavir 600 Tablet (Hetero Drugs Ltd) | Bottle of 60 tablets | — |
+| 66955 | Danavir 300mg Tablet (Hetero Drugs Ltd) | Bottle of 30 tablets | — |
+| 236379 | Virem 600mg Tablet (Emcure Pharmaceuticals Ltd) | Bottle of 60 tablets | — |
+| 238628 | Virem 300mg Tablet (Emcure Pharmaceuticals Ltd) | Bottle of 120 tablets | — |
+| 59933 | Daruvir 600mg Tablet (Cipla Ltd) | Bottle of 60 tablets | — |
 
----
+All 8 registrations are valid single-ingredient products in oral tablet form, and none has been cancelled. Only the first 5 are listed here.
 
 ## Safety Considerations
 
-**Drug Interactions**: Darunavir has 209 known drug-drug interactions recorded in the DDInter database. Interactions of clinical significance include:
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: liver failure, liver disease, cirrhosis of the liver, gallbladder disease, hyperglycemia, diabetes mellitus, diabetic ketoacidosis, chronic hepatitis B and C virus infection, hepatitis C virus infection, hypertriglyceridemia, hemophilia, and the symptomatic form of hemophilia in female carriers.
+- **Drug Interactions**: 209 interactions were identified. Examples include:
+  - **Major**: cisapride.
+  - **Moderate**: antidiabetic agents (acarbose, metformin, pioglitazone, alogliptin, albiglutide, saxagliptin, canagliflozin, dapagliflozin, chlorpropamide, acetohexamide), corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), clarithromycin and aprepitant.
 
-- **Major**: Cisapride — concomitant use contraindicated; risk of serious cardiac arrhythmia due to QT prolongation
-- **Moderate** (selected clinically notable examples):
-  - *Antidiabetic agents*: Metformin, Pioglitazone, Acarbose, Alogliptin, Saxagliptin, Canagliflozin, Dapagliflozin, Chlorpropamide, Acetohexamide, Albiglutide — consistent with Darunavir/ritonavir's known effects on insulin sensitivity and glucose metabolism
-  - *Corticosteroids*: Dexamethasone, Hydrocortisone, Betamethasone, Budesonide, Triamcinolone — reflects CYP3A4 inhibition by the ritonavir booster, potentially elevating corticosteroid exposure
-  - *Antibiotics/antiemetics*: Clarithromycin, Aprepitant — bidirectional CYP3A4 interactions
-
-The high number of moderate-level interactions with antidiabetic drugs is noteworthy given that HIV protease inhibitors are associated with metabolic syndrome and insulin resistance as a class effect.
-
-For complete warnings and contraindications, please refer to the full prescribing information. Package insert safety data (TFDA/equivalent) was unavailable for this report and constitutes a blocking data gap (DG001).
-
----
+Please refer to the package insert for warnings and label contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top TxGNN-predicted indication — SIV infection — is not a genuine independent clinical repurposing target. SIV-infected macaques serve as a surrogate model for human HIV research, and all four supporting publications are NHP pre-clinical studies with no human clinical trial evidence. Darunavir is already an established antiretroviral; its use in SIV models reflects translational HIV science infrastructure rather than a novel therapeutic application for a distinct disease. Furthermore, Darunavir is not currently marketed in India, limiting immediate regulatory and clinical relevance in this jurisdiction.
+The predicted indication is an animal-model counterpart of the existing HIV indication. The supporting literature is limited to indirect preclinical macaque studies, with no clinical trials and no darunavir-specific data. There is little translational value for a new human use.
 
 **To proceed, the following is needed:**
-
-- **Clarify the research objective**: If the goal is to support HIV eradication research using SIV models, current evidence is sufficient for that purpose — but this does not constitute drug repurposing. If a genuinely new human clinical indication is sought, analysis should pivot to lower-ranked TxGNN predictions with clearer mechanistic novelty and human disease relevance.
-- **Resolve blocking data gap (DG001)**: Obtain the approved prescribing information (package insert) to complete safety profiling, including key warnings and contraindications.
-- **Resolve high-priority data gap (DG002)**: Retrieve confirmed MOA data from DrugBank to formally support mechanistic analyses for any repurposing hypothesis.
-- **India market entry assessment**: If registration in India is a strategic goal, initiate a regulatory gap analysis — 0 current licenses means a full new drug application pathway would be required.
-- **Evaluate remaining predicted indications**: Ranks 2–4 (feline AIDS, rare neurodevelopmental disorder, obsolete hyperlipidemia ontology term) all carry Hold recommendations with weak or negative mechanistic rationale; none currently merit advancement without further evidence generation.
+- Darunavir-specific efficacy data in SIV models, or a clear rationale for any human application
+- Detailed mechanism of action data (MOA)
+- India package insert warnings and contraindications, which were unavailable and block safety screening
+- A review of the large interaction burden (209 interactions) before any further development
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Diltiazem
 parent: Model Prediction Only (L5)
-nav_order: 267
+nav_order: 270
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,94 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Diltiazem: From Hypertension / Angina to Susceptibility to Ischemic Stroke
+# Diltiazem: From Hypertension and Cardiac Arrhythmias to Susceptibility to Ischemic Stroke
 
 ## One-Sentence Summary
 
-Diltiazem is a well-established L-type calcium channel blocker (CCB) classically used for hypertension, angina pectoris, and rate control in atrial fibrillation.
-The TxGNN model predicts it may confer protection against **susceptibility to ischemic stroke**,
-however **no supporting clinical trials or published literature** were identified for this specific indication pairing — making this a model-only prediction at present.
-
----
+Diltiazem is a calcium channel blocker originally used for hypertension, atrial fibrillation, Prinzmetal angina and ventricular tachycardia.
+The TxGNN model predicts it may be relevant to **susceptibility to ischemic stroke** (an obsolete ontology term),
+but **no clinical trials or publications** currently support this direction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension, angina pectoris, atrial fibrillation (rate control) |
-| Predicted New Indication | Susceptibility to Ischemic Stroke |
+|------|------|
+| Original Indication | Hypertension, atrial fibrillation, Prinzmetal angina, ventricular tachycardia (from the knowledge graph; no approved indication text is available from Indian licences) |
+| Predicted New Indication | Obsolete susceptibility to ischemic stroke |
 | TxGNN Prediction Score | 99.08% |
-| Evidence Level | L5 — Model prediction only, no supporting studies identified |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on well-established pharmacological knowledge, Diltiazem is a non-dihydropyridine L-type calcium channel blocker (benzothiazepine class). It reduces intracellular calcium influx in vascular smooth muscle and cardiac conduction tissue, thereby producing vasodilation, blood pressure reduction, and heart rate slowing.
+Currently, detailed mechanism of action data is not available. Based on known information, diltiazem is a non-dihydropyridine calcium channel blocker, its efficacy in hypertension and cardiac rhythm disorders is established, and mechanistically it may be applicable to stroke risk reduction.
 
-Three mechanistic pathways plausibly link Diltiazem to reduced ischemic stroke susceptibility: ① Sustained blood pressure reduction — hypertension is the single most important modifiable risk factor for ischemic stroke; ② Heart rate and rhythm control in atrial fibrillation — AF is a major source of cardioembolic stroke, and rate control with Diltiazem may indirectly reduce thromboembolic events; ③ Preclinical data suggest CCBs may attenuate neuronal calcium overload during ischemia, offering a degree of neuroprotective effect.
+A plausible link runs through blood pressure lowering and vasodilation, since hypertension is a major risk factor for ischemic stroke. Effects on vascular smooth muscle, including a possible role in cerebral vasospasm, are also conceivable.
 
-However, the predicted indication is framed as "susceptibility" — a preventive rather than acute-treatment context. The existing evidence base for Diltiazem as a primary stroke-prevention agent is limited compared to other antihypertensives (e.g., ACE inhibitors, ARBs) that have stronger stroke outcome data. The ontology label also carries the prefix "obsolete," suggesting this disease term may be deprecated or underspecified in the knowledge graph, which adds further uncertainty to the prediction target.
-
----
+However, the prediction cannot be tied to a specific, verifiable mechanism. The predicted disease term is flagged as "obsolete", suggesting a deprecated ontology entry that may map poorly to a current clinical entity. It is also a susceptibility concept rather than a treatable disease state, so it is unclear whether a clinical indication would mean primary prevention or acute treatment.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Diltiazem in ischemic stroke susceptibility.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for this specific drug–indication pair.
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-No marketing authorizations for Diltiazem are currently registered in India according to this evidence pack.
+All 20 registrations are valid single-ingredient products. The registration records contain no approved indication text. The five main authorizations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 112106 | Ionozem CD 120mg Tablet | Strip of 10 tablets | Pfizer Ltd |
+| 183456 | Q-DIL 90MG TABLET | Strip of 10 tablets | Aurobindo Pharma Ltd |
+| 69353 | Diltime 30mg Tablet | Strip of 10 tablets | Zydus Cadila |
+| 64863 | Dilcardia 90mg Tablet SR | Strip of 10 SR tablets | J B Chemicals and Pharmaceuticals Ltd |
+| 37885 | Channel 60mg Tablet | Strip of 10 tablets | Micro Labs Ltd |
+
+All products are oral formulations (tablets, capsules, and modified-, controlled- or sustained-release forms).
 
 ## Safety Considerations
 
-**Drug Interactions:** Diltiazem has a notably broad interaction profile — **369 interactions** have been identified (source: DDInter). Key interactions include:
+- **Contraindications / risk conditions (knowledge-graph data, not label text)**: Associations include aortic stenosis, hypertrophic cardiomyopathy, hypotensive disorders, atrioventricular block, sick sinus syndrome, Wolff-Parkinson-White syndrome and Lown-Ganong-Levine syndrome, and ventricular tachycardia. Other recorded associations are kidney disease, liver disease, angioedema (including hereditary forms), neutropenia and agranulocytosis. These should be verified against the product label.
+- **Drug Interactions**: 369 interactions were recorded. The listed ones are mostly Moderate, including corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), pioglitazone, bupropion, aprepitant, morphine, aspirin, canagliflozin and various calcium salts. **Loperamide is a Major interaction.**
 
-| Interacting Drug | Severity | Clinical Note |
-|-----------------|----------|---------------|
-| Loperamide | **Major** | Risk of serious cardiac arrhythmia; concurrent use requires close monitoring or avoidance |
-| Hydrocortisone | Moderate | Corticosteroids may attenuate antihypertensive effect |
-| Dexamethasone | Moderate | As above; CYP3A4 interaction may alter Diltiazem plasma levels |
-| Budesonide | Moderate | CYP3A4-mediated increase in budesonide exposure |
-| Pioglitazone | Moderate | Diltiazem may increase pioglitazone levels via CYP2C8 inhibition |
-| Canagliflozin | Moderate | Pharmacodynamic interaction; monitor blood pressure and renal function |
-| Morphine | Moderate | Additive hypotension and CNS depression risk |
-| Acetylsalicylic acid | Moderate | Potential pharmacodynamic interaction; monitor bleeding and cardiac effects |
-| Aprepitant | Moderate | CYP3A4 substrate interaction; monitor for increased Diltiazem effect |
-| Calcium salts (multiple) | Moderate | Calcium supplementation may antagonise CCB effect |
-
-> **Note:** Detailed prescriber warnings and contraindications were not available in this evidence pack. Please refer to the approved package insert for complete safety information.
-
----
+Please also refer to the package insert for full warnings, as label-based safety data was not available.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high confidence score (99.08%), and the mechanistic hypothesis linking Diltiazem's antihypertensive and rate-control properties to reduced ischemic stroke susceptibility is biologically plausible. However, zero clinical trials and zero publications were found to support this specific repurposing direction; the disease term itself is flagged as "obsolete" in the ontology, introducing ambiguity about the precise clinical target. A Hold decision is appropriate until the evidence base and indication definition are clarified.
+The only support is a high model score (99.08%) with no clinical trials or literature. The predicted disease term is obsolete and not a well-defined treatable condition, so a clinical development path cannot yet be defined.
 
 **To proceed, the following is needed:**
-
-- **Clarify the indication target:** The ontology term "obsolete susceptibility to ischemic stroke" should be mapped to a current, active disease ontology term (e.g., MONDO or ICD-10) to ensure the prediction target is clinically actionable
-- **Mechanism of action (MOA) data:** Retrieve full DrugBank MOA record for Diltiazem to support a formal mechanistic rationale document
-- **Regulatory safety data:** Download and parse the approved prescribing information (package insert) to obtain complete warnings, contraindications, and special population guidance before any clinical evaluation is initiated
-- **Targeted literature review:** Conduct a broader PubMed search using related terms (e.g., "calcium channel blocker stroke prevention," "Diltiazem cerebrovascular") to determine if evidence exists under adjacent search terms not captured by the current query
-- **Comparative positioning:** Evaluate how Diltiazem compares to other antihypertensives (amlodipine, lisinopril, losartan) that have established stroke-reduction outcome data, to assess whether a repurposing claim adds clinical value
-- **India regulatory pathway assessment:** Confirm whether Diltiazem can be licensed or imported for investigational use under CDSCO regulations before planning any prospective study
+- Clarify which current disease entity the obsolete term maps to, and define the intended use (primary prevention versus acute treatment)
+- Detailed mechanism of action data (MOA) from DrugBank
+- Package insert warnings and contraindications from Indian regulatory sources
+- A literature and trial search on diltiazem in stroke prevention or cerebrovascular outcomes
+- Assessment of whether the predicted indication is compatible with the available oral formulations and with the cardiac conduction and blood pressure risks noted above
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tranexamic Acid
-parent: Model Prediction Only (L5)
-nav_order: 847
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 854
+evidence_level: L4
 indication_count: 1
 ---
 
 # Tranexamic Acid
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Tranexamic Acid: From Bleeding Control to Amenorrhea
+# Tranexamic Acid: From Endometriosis to Amenorrhea
 
 ## One-Sentence Summary
 
-> Tranexamic acid is an antifibrinolytic agent traditionally used to reduce excessive bleeding (e.g., menorrhagia, trauma-related and surgical hemorrhage).
-> The TxGNN model predicts a possible association with **Amenorrhea (disease)**,
-> but this prediction is currently supported only by **2 review-type publications** and **no clinical trials**, and the underlying rationale raises concerns about a possible knowledge-graph semantic artifact.
+Tranexamic acid is an antifibrinolytic agent; in the knowledge graph used for this analysis it is linked to endometriosis, and it is widely marketed in India.
+The TxGNN model predicts it may be effective for **Amenorrhea**, but there are **0 clinical trials** and only **2 review articles** supporting this direction.
+The prediction is best read as a computational signal, not a validated therapeutic relationship.
 
 ---
 
@@ -43,23 +43,23 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in regulatory data; drug class is used to reduce bleeding (e.g., menorrhagia, trauma/surgical hemorrhage) |
-| Predicted New Indication | Amenorrhea (disease) |
+| Original Indication | Endometriosis (the marketed-product records compiled for this report contain no approved indication text) |
+| Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 99.19% |
-| Evidence Level | L5 |
-| India Market Status | Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the evidence pack (MOA marked as a data gap). Based on known pharmacology, tranexamic acid is an antifibrinolytic agent that inhibits the conversion of plasminogen to plasmin, thereby reducing fibrin degradation and limiting bleeding. It is used clinically to reduce excessive bleeding, such as menorrhagia, trauma-related hemorrhage, and surgical blood loss.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, tranexamic acid is an antifibrinolytic (lysine analogue) that blocks plasminogen activation and reduces fibrinolysis, which lowers menstrual blood loss.
 
-This mechanism points in the **opposite direction** from the predicted indication. Amenorrhea (disease) refers to the *absence* of menstruation, whereas tranexamic acid is a hemostatic (bleeding-reduction) agent, not an agent that induces or treats absence of menstrual bleeding. The two supporting publications actually discuss (1) pharmacological management of abnormal uterine *bleeding*, and (2) menses *prophylaxis and suppression* in hematologic cancer patients — the latter concerning deliberately induced amenorrhea (e.g., via hormonal therapy) as a management goal, with tranexamic acid appearing only as an adjunct for breakthrough bleeding, not as a treatment for amenorrhea itself.
+That mechanism plausibly supports use in heavy menstrual bleeding and in menses suppression or prophylaxis, for example in premenopausal haematology patients at risk of heavy bleeding. However, amenorrhea is the absence of menses. Tranexamic acid does not treat its underlying causes and does not induce menstruation, so the link to the predicted indication is indirect.
 
-Given this mismatch, the very high TxGNN score (99.19%) most plausibly reflects a **semantic confusion artifact** in the knowledge graph — conflating "menstrual suppression / induced amenorrhea" with the disease entity "amenorrhea" — rather than a genuine pharmacological signal. This prediction requires manual clarification before it can be considered a credible repurposing candidate.
+The high TxGNN score (0.99) probably reflects network proximity to menstrual disorders in the knowledge graph rather than a true therapeutic relationship. The lack of documented mechanism data further limits confidence.
 
 ---
 
@@ -73,25 +73,35 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21701432](https://pubmed.ncbi.nlm.nih.gov/21701432/) | 2011 | Review | Menopause (New York, N.Y.) | Evidence-based review of pharmacological therapy for abnormal uterine *bleeding*; discusses agent selection by etiology, bleeding amount, and patient status — not amenorrhea treatment. |
-| [39043214](https://pubmed.ncbi.nlm.nih.gov/39043214/) | 2024 | Review | Journal of Oncology Pharmacy Practice | Systematic approach to menses prophylaxis and *suppression* (i.e., induced amenorrhea) in pre-menopausal hematologic cancer patients; TXA discussed as adjunct for breakthrough bleeding management, not as a primary amenorrhea therapy. |
+| [21701432](https://pubmed.ncbi.nlm.nih.gov/21701432/) | 2011 | Review | Menopause | Evidence-based review of drug therapy for abnormal uterine bleeding; nonhormonal options reduce bleeding and selection depends on cause, bleeding amount, contraception needs and menopausal status |
+| [39043214](https://pubmed.ncbi.nlm.nih.gov/39043214/) | 2024 | Review | J Oncol Pharm Pract | Systematic approach to menses prophylaxis and suppression in premenopausal haematologic cancer patients; notes little comparative data for these therapies |
+
+Both publications address bleeding control or menses suppression, not treatment of amenorrhea itself.
 
 ---
 
 ## India Market Information
 
-Currently not marketed in India; no registration records available (0 licenses on file).
+Twenty valid single-ingredient registrations were found. Five representative entries are shown below; no approved indication text is recorded for these products.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 216788 | Tranfib 500mg Tablet | Strip of 10 tablets | Cipla Ltd |
+| 214856 | Trapic 500mg Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
+| 152402 | Nexamic 500mg Tablet | Strip of 10 tablets | Mac Millon Pharmaceuticals Pvt Ltd |
+| 160047 | Naxic Injection | Ampoule of 5 ml injection | Rizpan Life Sciences Private Limited |
+| 226120 | Tranguard Injection | Ampoule of 5 ml injection | Curador Healthcare Pvt Ltd |
+
+Available routes are oral (tablets) and injectable (ampoules and vials).
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: 35 documented interactions identified. Notable patterns:
-  - **Major** — Concomitant use with estrogen-containing hormonal therapies (e.g., Ethinylestradiol, Estradiol, Conjugated estrogens, Norethisterone, Drospirenone, Diethylstilbestrol, Etonogestrel, and related topical/oral estrogen formulations) due to additive prothrombotic/thromboembolic risk.
-  - **Major** — Concomitant use with procoagulant blood products (e.g., Factor IX Complex (Human), Anti-inhibitor coagulant complex) and Carfilzomib, due to increased thrombotic risk.
-  - **Moderate** — Concomitant use with thrombolytic agents (e.g., Alteplase, Anistreplase), due to pharmacologically antagonistic (antifibrinolytic vs. fibrinolytic) effects.
+Package insert warnings and contraindications were not available. Please refer to the package insert for safety information.
 
-Detailed prescribing warnings and contraindications are not currently available and require TFDA/package insert data before clinical use decisions can be made.
+- **Knowledge-graph contraindication signals (not label text)**: associations with hypertension, liver and gallbladder disease, diabetes and hyperglycaemia, hyperlipidaemia, coronary artery disease, stroke and cerebrovascular disorder, thrombophlebitis, migraine, porphyria, breast carcinoma and endometrial cancer. These resemble estrogen-class warnings and should be verified against the actual label.
+- **Drug Interactions**: 35 interactions were identified, including 20 listed here. Most are Major, notably with estrogens and hormonal contraceptives (ethinylestradiol, estradiol, conjugated estrogens, norethisterone, drospirenone, etonogestrel, diethylstilbestrol), anti-inhibitor coagulant complex, Factor IX complex and carfilzomib. Moderate interactions include thrombolytics (alteplase, anistreplase). The main concern is additive thrombotic risk with hormonal and procoagulant agents.
 
 ---
 
@@ -100,13 +110,14 @@ Detailed prescribing warnings and contraindications are not currently available 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale itself suggests the high TxGNN score is likely a knowledge-graph artifact confusing "induced/suppressed menstruation" with the disease "amenorrhea," rather than genuine pharmacological plausibility. Evidence is limited to two review articles with no supporting clinical trials, and no regulatory or MOA data is currently available to support a safety assessment.
+The prediction rests on a model score alone, with no registered trials and only two general reviews that do not address amenorrhea. The mechanism (reducing bleeding) does not fit the disease (absence of menses), so the prediction is likely a network artefact. A more defensible direction would be heavy menstrual bleeding or menses suppression, rather than amenorrhea.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings and contraindications (currently a Blocking data gap — required for S1 safety screening)
-- Confirmed mechanism of action data from DrugBank
-- Manual disease-entity review to confirm whether "amenorrhea (disease)" in the knowledge graph is distinct from "induced/suppressed menstruation," to rule out a semantic mapping error
-- If the prediction is confirmed as a genuine signal after entity clarification, primary literature (not just reviews) and ideally clinical trial data before re-evaluation
+- Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A clinical rationale for whether amenorrhea, rather than heavy menstrual bleeding or menses suppression, is the intended target
+- Clinical studies or controlled data in the proposed use
+- Assessment of thrombotic risk when combined with hormonal agents, as menses suppression often involves them
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Piribedil
-parent: Model Prediction Only (L5)
-nav_order: 672
-evidence_level: L5
+parent: Moderate Evidence (L3-L4)
+nav_order: 679
+evidence_level: L4
 indication_count: 5
 ---
 
 # Piribedil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L4** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Piribedil: From Parkinsonian Motor Disorders to Retinal Dystrophy with Extraocular Anomalies
+# Piribedil: From Parkinson Disease to Retinal Dystrophy with or without Extraocular Anomalies
 
 ## One-Sentence Summary
 
-Piribedil is a D2/D3 dopamine receptor agonist used internationally (including France, China, and Russia) for Parkinson's disease and related dopaminergic motor disorders, though it currently holds no market authorization in Taiwan. The TxGNN model's top-ranked prediction is **retinal dystrophy with or without extraocular anomalies**, a congenital ophthalmologic syndrome, but this candidate is supported by **zero clinical trials** and **15 tangentially-related publications**, none of which actually discuss Piribedil. The evidence pack's own mechanistic review flags this top prediction as a likely knowledge-graph embedding artifact rather than a genuine pharmacological signal.
-
----
+Piribedil is a dopamine agonist originally used to treat Parkinson disease and other parkinsonian disorders.
+The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**,
+but there are currently **no registered clinical trials** and only **1 loosely related publication**, so this prediction rests almost entirely on computation.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from Taiwan regulatory records (drug not marketed, no license data). Contextually, Piribedil is documented elsewhere as a dopamine agonist approved for Parkinson's disease. |
+| Original Indication | Parkinson disease / parkinsonian disorder |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 99.34% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| Evidence Level | L4 |
+| India Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed, formally catalogued mechanism-of-action data for this candidate profile is currently a data gap. However, contextual information captured elsewhere in this evidence pack indicates Piribedil is a D2/D3 dopamine receptor agonist that crosses the blood-brain barrier to act on striatal dopaminergic pathways — the basis for its established use in Parkinson's disease in several countries.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, piribedil is a D2/D3 dopamine receptor agonist with additional alpha-2 adrenergic antagonist activity. Its efficacy in Parkinson disease comes from replacing dopaminergic stimulation in the brain.
 
-The proposed link to retinal dystrophy with extraocular anomalies is considerably weaker. The retina does contain a small population of dopaminergic amacrine cells involved in light adaptation, which offers a theoretical, indirect connection to dopaminergic pharmacology. However, this predicted indication is a congenital, genetically-driven developmental disorder of the retina and extraocular structures — a fundamentally different disease category from Piribedil's striatal dopamine-replacement mechanism, with no established causal or therapeutic pathway between the two.
+Dopamine signalling also takes part in normal retinal physiology, so a theoretical link to retinal disease is plausible. However, this link is indirect. The only publication retrieved discusses syncope in Kearns-Sayre syndrome, a mitochondrial disorder that includes retinopathy. It does not test piribedil or any other dopamine agonist in retinal dystrophy.
 
-Taken together, the model's own mechanistic assessment in this pack characterizes the high TxGNN score as likely reflecting embedding-space similarity in the knowledge graph rather than genuine biological plausibility. Notably, other lower-ranked candidates in this same prediction set (juvenile Parkinsonism variants) show much stronger mechanistic coherence with Piribedil's known dopaminergic activity, but those carry zero clinical trial or literature support in the current dataset and are outside the scope of this report's headline prediction.
+The high TxGNN score (0.993) is a computational prediction without direct clinical support. It should be treated as a hypothesis to explore, not as evidence of benefit.
 
----
+**Other predictions in the top 5**
+
+| Rank | Predicted Indication | Score | Evidence Level | Comment |
+|------|------|------|------|------|
+| 2 | Paralysis agitans, juvenile, of Hunt | 99.34% | L5 | Historical label that overlaps with the approved Parkinson disease indication, so it adds little new repurposing value |
+| 3 | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 99.12% | L5 | No plausible mechanism from dopamine agonism to a structural developmental malformation |
+| 4 | PLA2G6-associated neurodegeneration | 99.07% | L5 | Could give limited symptomatic motor benefit only, with no effect on the underlying disease |
+| 5 | Juvenile onset Parkinson disease 19A | 99.01% | L5 | Symptomatic benefit is plausible, but response in monogenic juvenile forms is uncertain |
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Seminars in Ultrasound, CT, and MR | Overview of orbital infections secondary to sinusitis; no drug relevance |
-| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Seminars in Neurology | Clinical approach to diplopia evaluation; no drug relevance |
-| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klinische Monatsblätter für Augenheilkunde | Congenital ptosis pathophysiology and workup; no drug relevance |
-| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan Journal of Ophthalmology | Congenital lens shape anomalies; no drug relevance |
-| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Documenta Ophthalmologica | Wagner-Stickler syndrome vitreoretinal degeneration; no drug relevance |
-| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatric Radiology | Imaging classification of pediatric orbital/ocular pathologies; no drug relevance |
-| [19064847](https://pubmed.ncbi.nlm.nih.gov/19064847/) | 2008 | Review | Archives of Ophthalmology | Case series of orbital arteriovenous malformations; no drug relevance |
-| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case Report | American Journal of Ophthalmology | Two cases of unilateral cryptophthalmia; no drug relevance |
-| [24413161](https://pubmed.ncbi.nlm.nih.gov/24413161/) | 2014 | Case Report | Journal of Neuro-Ophthalmology | Isolated congenital trochlear-oculomotor synkinesis case; no drug relevance |
-| [19826317](https://pubmed.ncbi.nlm.nih.gov/19826317/) | 2009 | Case Report | Optometry and Vision Science | Congenital extraocular muscle fibrosis case; no drug relevance |
-
-**Note:** These 10 publications matched the search query on disease-term overlap only — none of them discuss Piribedil, dopaminergic therapy, or any pharmacological intervention. They should not be interpreted as supporting evidence for this repurposing candidate.
-
----
+| [17086014](https://pubmed.ncbi.nlm.nih.gov/17086014/) | 2006 | Review | The American Heart Hospital Journal | Pathophysiology and management of syncope in Kearns-Sayre syndrome, with a case of complete atrioventricular block in a 20-year-old woman. It does not study piribedil or retinal dystrophy treatment. |
 
 ## India Market Information
 
-Piribedil currently has no market authorization records in this dataset — market status is **Not Marketed**, with 0 registered licenses.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Registration No. 215839 | Trivastal LA Tablet SR (Serdia Pharmaceuticals India Pvt Ltd) | Sustained-release tablet (strip of 10) | Not stated in the available data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data are not currently available in this dataset; local label data acquisition is flagged as a blocking data gap — DG001.)
+Please refer to the package insert for safety information.
 
----
+No drug interaction records were found, and no contraindications were identified in the knowledge graph.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but the underlying mechanistic link between Piribedil's striatal dopamine-agonist activity and this congenital retinal/extraocular developmental disorder is weak and plausibly a knowledge-graph artifact. No clinical trials and no drug-specific literature support this indication, and the drug has no current market presence or safety label data in Taiwan.
+The prediction for retinal dystrophy has a high model score but no supporting trials and only one indirectly related publication, which does not test piribedil. The other top predictions are either already covered by the approved Parkinson indication or lack a plausible mechanism.
 
 **To proceed, the following is needed:**
-- TFDA label data (warnings/contraindications) — currently a blocking data gap (DG001)
-- Verified original indication and mechanism-of-action data from DrugBank (DG002)
-- If pursuing repurposing further, prioritize re-scoping evidence collection toward the mechanistically coherent Parkinsonism-related candidates in this same prediction set (e.g., juvenile Parkinson disease variants), which align with Piribedil's known dopaminergic pharmacology but currently lack any trial or literature evidence in this dataset
+- Mechanism of action data for piribedil, and a clearer rationale for any effect on retinal dopaminergic pathways
+- Preclinical or retinal-model studies testing dopamine agonists in retinal dystrophy
+- The package insert (warnings, contraindications, approved indication text) to complete the safety screening, which is currently blocked
+- Drug interaction and safety data relevant to the target population
+- Route and formulation assessment for any ocular indication, since the only marketed form is an oral sustained-release tablet
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
